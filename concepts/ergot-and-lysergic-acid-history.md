@@ -1,5 +1,5 @@
 ---
-title: Ergot and Lysergic Acid History
+title: Ergot and ergot and lysergic acid history History
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Ergot and Lysergic Acid History
 
-The story of ergot and lysergic acid (Claviceps purpurea) and its derivative ergot and lysergic acid compounds represents one of the most consequential relationships between a fungus and human civilization—spanning ancient mystery religions, medieval plagues, and the accidental discovery of [[eleusinian-mysteries-history-and-structure]] may signify these distinctive purple sclerotia. This connection is central to the Wasson-Hofmann theory that Eleusis celebrated with ergotized barley beer. The relationship between grain, ergot, and visionary experience is ancient: Demeter was goddess of both grain and poppies, and the confusion between the two in classical iconography reveals how closely intertwined food plants and psychoactive plants were in ancient consciousness.
+The story of ergot and lysergic acid ([[bloomfield-ergot-claviceps-purpurea-ergotism]]) and its derivative ergot and lysergic acid compounds represents one of the most consequential relationships between a fungus and human civilization—spanning ancient mystery religions, medieval plagues, and the accidental discovery of [[eleusinian-mysteries-history-and-structure]] may signify these distinctive purple sclerotia. This connection is central to the Wasson-Hofmann theory that Eleusis celebrated with ergotized barley beer. The relationship between grain, ergot, and visionary experience is ancient: Demeter was goddess of both grain and poppies, and the confusion between the two in classical iconography reveals how closely intertwined food plants and psychoactive plants were in ancient consciousness.
 
 ## Ergotism: The Plague of the Middle Ages
 
@@ -24,11 +24,11 @@ Major outbreaks devastated European populations throughout history:
 - The historian Mary Kilbourne Matossian argued that La Grande Peur of 1789, a peasant uprising pivotal in the French Revolution, had its roots in ergot-infected rye bread constituting the bulk of the rural diet
 - Ergot-infected flour has also been proposed as a factor in the decline of the Roman Empire and the Salem witch burnings of 1692
 
-The ancient Egyptians and Greeks knew opium (derived from poppies) as "the destroyer of grief" and consecrated the poppy to Nyx, goddess of night, and Morpheus, god of dreams. The relationship between grain cultivation and psychoactive fungal contamination is thus one of the oldest intersections of agriculture and altered consciousness.
+The ancient Egyptians and Greeks knew opium (derived from poppies) as "the destroyer of grief" and consecrated the poppy to Nyx, goddess of night, and Morpheus, god of dreams. The relationship between [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] and psychoactive fungal contamination is thus one of the oldest intersections of agriculture and altered consciousness.
 
 ## The Eleusinian Connection
 
-In *Food of the Gods*, McKenna discusses the Wasson-Hofmann-Ruck theory that the [[5-meo-dmt-compound-profile]] and described its effects. In 1957, the Wassons published their famous *Life* magazine article announcing the discovery of psilocybin mushrooms in Mexico.
+In *Food of the Gods*, McKenna discusses the Wasson-Hofmann-Ruck theory that the [[5-meo-dmt-compound-profile]] and described its effects. In 1957, the Wassons published their famous *Life* magazine article announcing the discovery of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] in Mexico.
 
 By 1958, Hofmann had characterized psilocybin and determined its structure. In the space of a dozen years, from 1947 to 1960, the major indole hallucinogens were characterized, purified, and investigated. McKenna observed: "It is no coincidence that the subsequent decade was the most turbulent decade in America in a hundred years."
 
@@ -40,7 +40,7 @@ The full arc of ergot's relationship to human consciousness is traced in the 197
 
 The ergot-LSD connection is perhaps the most striking example of how a naturally occurring plant (or fungal) alkaloid can, through the application of modern chemistry, produce a compound of unprecedented power. This trajectory—from sacred fungal contaminant of grain, to medieval plague, to modern pharmaceutical discovery—encapsulates McKenna's argument about the [[lysergic-acid-amide-discovery-in-ololiuhqui]]
 
-- [[history-psychedelics-ancient]] — The Eleusinian Mysteries and other ancient uses
+- [[history-psychedelics-ancient]] — The [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] and other ancient uses
 
 ## Key Source
 
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

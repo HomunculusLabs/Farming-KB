@@ -20,9 +20,9 @@ type: concept
 
 Indole hallucinogens are a family of psychoactive compounds characterized by a five-sided pyrrole group associated with a benzene ring.
 
-This molecular structure makes indoles highly reactive chemically and ideal for metabolic activity in the high-energy world of organic life.
+This molecular structure makes indoles highly reactive chemically and ideal for [[arbuscule-isolation-metabolic-activity-assays]] in the high-energy world of organic life.
 
-McKenna identified four families of indole compounds as central to understanding the role of psychoactive plants in human cognitive evolution, arguing that these compounds may have been the chemical factors in the protohuman diet that catalyzed the emergence of human self-reflection.
+McKenna identified four [[four-families-of-indole-hallucinogens]] compounds as central to understanding the role of psychoactive plants in human cognitive evolution, arguing that these compounds may have been the chemical factors in the protohuman diet that catalyzed the emergence of human self-reflection.
 
 ## Structural Chemistry
 
@@ -40,7 +40,7 @@ Some behave like hormones and regulate growth or rate of sexual maturation. Othe
 
 ### 1. LSD-Type Compounds
 
-LSD (lysergic acid diethylamide) and related compounds are found in several genera of morning glories and in ergot fungi of the genus *Claviceps*.
+LSD (lysergic acid diethylamide) and related compounds are found in several genera of [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] and in ergot fungi of the genus *Claviceps*.
 
 They are rare in nature compared to other indole hallucinogens. Their prominence in public consciousness is largely due to the millions of doses manufactured and distributed during the 1960s.
 
@@ -56,7 +56,7 @@ Despite this therapeutic potential, media hysteria led to severe restrictions th
 
 This family includes DMT (N,N-dimethyltryptamine), psilocin, and psilocybin.
 
-Tryptamine hallucinogens occur throughout higher plant families, including legumes, with psilocin and psilocybin concentrated in mushrooms of the genera *Psilocybe*, *Panaeolus*, and *Stropharia*.
+Tryptamine hallucinogens occur throughout higher plant families, including legumes, with [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] concentrated in mushrooms of the genera *Psilocybe*, *Panaeolus*, and *Stropharia*.
 
 DMT also occurs endogenously in the human brain, leading McKenna to suggest it should not be thought of as a drug at all but as a naturally occurring component of human neurochemistry.
 
@@ -78,7 +78,7 @@ This combination is the basis of ayahuasca, the hallucinogenic brew used through
 
 Without the MAO inhibition, orally ingested DMT would be broken down in the gut before reaching the brain.
 
-*Peganum harmala*, the giant Syrian rue, is rich in harmine and occurs wild across arid Mediterranean North Africa, though there is no record of its use in Africa as a hallucinogen.
+*[[mckenna-food-gods-peganum-harmala-soma]]*, the giant Syrian rue, is rich in harmine and occurs wild across arid Mediterranean North Africa, though there is no record of its use in Africa as a hallucinogen.
 
 ### 4. The Ibogaine Family
 
@@ -86,7 +86,7 @@ Ibogaine and related substances occur in two tree genera, *Tabernanthe* and *Tab
 
 *Tabernanthe iboga* is a small, yellow-flowered bush with a long history of use as a hallucinogen and powerful aphrodisiac among the Fang people of Gabon.
 
-Its active compounds bear a structural relationship to beta-carbolines.
+Its active compounds bear a [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to beta-carbolines.
 
 Ibogaine is remarkable for its ability to deepen and enhance the psychological mechanisms behind sexual drive, producing a simultaneous sense of detachment and involvement that users describe as empowering.
 

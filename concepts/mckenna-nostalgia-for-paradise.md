@@ -13,7 +13,7 @@ Terence McKenna's "Nostalgia for Paradise" thesis proposes that the entirety of 
 
 ## The Loss of the Partnership Model
 
-According to McKenna, early human societies centered on a cult of the Great Horned Goddess — a partnership model in which hallucinogenic mushrooms mediated humanity's relationship to nature, to each other, and to the self. When this knowledge was lost through migration, climatic change, and cultural forgetting, humanity experienced a profound spiritual trauma. History, in McKenna's reading, is "the story of our unfocused agony over the loss of this perfect human world, and then of our forgetting it altogether, denying it and in so doing, denying a part of ourselves."
+According to McKenna, early human societies centered on a cult of the Great Horned Goddess — a partnership model in which [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] mediated humanity's relationship to nature, to each other, and to the self. When this knowledge was lost through migration, climatic change, and cultural forgetting, humanity experienced a profound spiritual trauma. History, in McKenna's reading, is "the story of our unfocused agony over the loss of this perfect human world, and then of our forgetting it altogether, denying it and in so doing, denying a part of ourselves."
 
 The consequence of severing this relationship with what McKenna calls "the green engine of vegetable nature" is the alienation and despair that surrounds modern civilization. The transition from partnership to dominator culture — from harmony with nature to rape of nature — was, in his view, a direct result of losing access to the mushroom experience.
 
@@ -51,7 +51,7 @@ McKenna sees the modern "war on drugs" as the latest expression of dominator cul
 
 The overarching pattern McKenna identifies is one of progressive devolution:
 
-1. **Original mushroom symbiosis** — direct, culturally embedded access to expanded consciousness through psilocybin-containing mushrooms
+1. **Original [[mckenna-mushroom-symbiosis-and-nervous-system-dialogue]]** — direct, culturally embedded access to expanded consciousness through psilocybin-containing mushrooms
 2. **Fermented intoxicants** — mead, wine, beer; communal but ego-reinforcing rather than ego-dissolving
 3. **Distilled spirits** — concentrated alcohol; individual use that amplifies dominator behaviors
 4. **Refined narcotics** — morphine, heroin, cocaine; isolated alkaloids stripped of cultural context
@@ -61,13 +61,13 @@ Each step further removes the intoxicant from its ecological and cultural contex
 
 ## The Historical Record of Suppression
 
-McKenna traces the suppression of psychedelic experience through specific historical events. The fourth century witnessed the suppression of the mystery religions — the cults of Bacchus and Diana, of Attis and Cybele. Christianity triumphed over Gnostic sects — Valentinians, Marcionites, and others — which McKenna identifies as the last bastions of paganism. These repressive episodes effectively closed the door on communication with what he calls "the Gaian mind."
+McKenna traces the suppression of [[leary-psychedelic-experience-bardo-mapping]] through specific historical events. The fourth century witnessed the suppression of the mystery religions — the cults of Bacchus and Diana, of Attis and Cybele. Christianity triumphed over Gnostic sects — Valentinians, Marcionites, and others — which McKenna identifies as the last bastions of paganism. These repressive episodes effectively closed the door on communication with what he calls "the Gaian mind."
 
-The survival of witchcraft and rites involving psychoactive plants through the Middle Ages attests that the knowledge of entering altered states was never entirely lost. The plants of European witchcraft — thorn apple, mandrake, and nightshade — were not indole hallucinogens but were capable of inducing intense altered states. The Archaic connection of feminism to a magical dimension of power was clearly perceived as a threat by the medieval church, leading to centuries of persecution.
+The survival of witchcraft and rites involving psychoactive plants through the Middle Ages attests that the knowledge of entering altered states was never entirely lost. The plants of [[harner-european-witchcraft-hallucinogens]] — thorn apple, mandrake, and nightshade — were not indole hallucinogens but were capable of inducing intense altered states. The Archaic connection of feminism to a magical dimension of power was clearly perceived as a threat by the medieval church, leading to centuries of persecution.
 
 ## Criticism and Limitations
 
-McKenna's nostalgia thesis has been criticized on several grounds. His characterization of prehistoric mushroom use as a universal feature of early human culture rests on limited archaeological evidence — primarily the presence of psilocybin-containing mushrooms in environments where early humans and cattle coexisted. His narrative of cultural devolution from a partnership paradise to a dominator hell relies heavily on the work of Marija Gimbutas and Riane Eisler, whose theories about prehistoric matriarchal societies have been challenged by mainstream archaeologists.
+McKenna's nostalgia thesis has been criticized on several grounds. His characterization of [[archaeology-of-ecstasy-prehistoric-mushroom-use]] use as a universal feature of early human culture rests on limited archaeological evidence — primarily the presence of psilocybin-containing mushrooms in environments where early humans and cattle coexisted. His narrative of cultural devolution from a partnership paradise to a dominator hell relies heavily on the work of Marija Gimbutas and Riane Eisler, whose theories about prehistoric matriarchal societies have been challenged by mainstream archaeologists.
 
 The thesis also tends toward a romanticization of prehistoric life, presenting the mushroom experience as inherently beneficial while discounting the possibility that hallucinogen use in early societies could have been as socially complex and potentially problematic as drug use in modern societies. Despite these criticisms, the framework remains influential for its sweeping integration of ethnobotany, drug history, and cultural critique.
 
@@ -77,7 +77,7 @@ The "Stoned Ape" hypothesis, articulated most fully in *Food of the Gods* (1992)
 
 ## The Archaic Revival
 
-The concept of the "Archaic Revival" is McKenna's call for a return to pre-literate, partnership-model ways of knowing that were lost with the rise of dominator culture. He argued that the accumulated knowledge of indigenous peoples regarding [[ayahuasca-vision-art-and-Shipibo-tradition]] phenomenon, though the latter has also been criticised as a form of cultural appropriation.
+The concept of the "Archaic Revival" is McKenna's call for a return to pre-literate, partnership-model ways of knowing that were lost with the rise of dominator culture. He argued that the accumulated knowledge of indigenous peoples regarding [[ayahuasca-vision-art-and-shipibo-tradition]] phenomenon, though the latter has also been criticised as a form of cultural appropriation.
 
 ## Novelty Theory and Timewave Zero
 
@@ -103,7 +103,7 @@ McKenna's work has been criticised from multiple perspectives:
 
 ## Legacy
 
-Despite these criticisms, McKenna's influence on contemporary psychedelic culture is immense. His articulation of the psychedelic experience as a source of genuine insight into consciousness, ecology, and human potential helped sustain interest in [[psychedelic-therapy-current-research]] in clinical research owes an intellectual debt to McKenna's insistence that these substances deserve serious attention, even if the specific claims he made have not all survived scrutiny.
+Despite these criticisms, McKenna's influence on contemporary psychedelic culture is immense. His articulation of the psychedelic experience as a source of genuine insight into consciousness, ecology, and human potential helped sustain interest in [[psychedelic-therapy-current-research]] in [[hofmann-lsd-clinical-research-early-studies]] owes an intellectual debt to McKenna's insistence that these substances deserve serious attention, even if the specific claims he made have not all survived scrutiny.
 
 ## See Also
 

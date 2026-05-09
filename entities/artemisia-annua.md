@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-**Artemisia annua**, commonly known as sweet wormwood, sweet sagewort, or annual wormwood, is an annual herbaceous plant in the family Asteraceae. It is native to temperate Asia but has become naturalized across much of the world. The species is of profound global medical significance as the natural source of **artemisinin**, a sesquiterpene lactone with potent antimalarial activity. The discovery of artemisinin and its derivatives earned Chinese scientist Tu Youyou the 2015 Nobel Prize in Physiology or Medicine, and artemisinin-based combination therapies (ACTs) are now the first-line treatment for *Plasmodium falciparum* malaria worldwide.
+**Artemisia annua**, commonly known as sweet wormwood, sweet sagewort, or annual wormwood, is an annual herbaceous plant in the family Asteraceae. It is native to temperate Asia but has become naturalized across much of the world. The species is of profound global medical significance as the natural source of **[[artemisinin]]**, a sesquiterpene lactone with potent antimalarial activity. The discovery of artemisinin and its derivatives earned Chinese scientist Tu Youyou the 2015 Nobel Prize in Physiology or Medicine, and artemisinin-based combination therapies (ACTs) are now the first-line treatment for *Plasmodium falciparum* malaria worldwide.
 
 Beyond its antimalarial properties, Artemisia annua has a long history of use in Traditional Chinese Medicine (TCM) under the name *qinghao* (青蒿), where it was prescribed for fevers and chills for over two millennia. Modern research has expanded interest in its anticancer, antiviral, anti-inflammatory, and immunomodulatory properties, making it one of the most pharmacologically studied medicinal plants of the 21st century.
 
@@ -43,11 +43,11 @@ Beyond its antimalarial properties, Artemisia annua has a long history of use in
 
 ### Growth Habit
 
-Artemisia annua is a fast-growing annual or short-lived perennial herb reaching 50–200 cm in height. It has a single main stem that branches extensively in the upper portions, forming a bushy, somewhat aromatic canopy. The entire plant is strongly aromatic when crushed, emitting a characteristic sweet, camphoraceous scent due to its high essential oil content.
+Artemisia annua is a fast-growing annual or short-lived perennial herb reaching 50–200 cm in height. It has a single main stem that branches extensively in the upper portions, forming a bushy, somewhat aromatic canopy. The entire plant is strongly aromatic when crushed, emitting a characteristic sweet, camphoraceous scent due to its high [[permaculture-designers-manual-essential-oil-plants]] content.
 
 ### Leaves
 
-Leaves are alternate, bipinnatisect or tripinnatisect (deeply divided into fine lobes), 3–10 cm long and 2–6 cm wide. The upper leaf surface is green and sparsely hairy, while the lower surface is gray-green and covered with fine, silky trichomes (especially in young leaves). The leaf lobes are linear to lanceolate, 1–5 mm wide. The deeply dissected foliage gives the plant a delicate, feathery appearance reminiscent of other *Artemisia* species.
+Leaves are alternate, bipinnatisect or tripinnatisect (deeply divided into fine lobes), 3–10 cm long and 2–6 cm wide. The upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is green and sparsely hairy, while the lower surface is gray-green and covered with fine, silky trichomes (especially in young leaves). The leaf lobes are linear to lanceolate, 1–5 mm wide. The deeply dissected foliage gives the plant a delicate, feathery appearance reminiscent of other *Artemisia* species.
 
 ### Flowers
 
@@ -60,7 +60,7 @@ The fruit is a small, ribbed achene (caryopsis) approximately 0.5–0.8 mm long,
 ## Distribution and Habitat
 
 - **Native Range:** Temperate Asia (China, Mongolia, Korea, Japan, Russian Far East), with the species' center of diversity in central and southern China
-- **Naturalized Range:** Widespread across Europe, North America, South America, Africa, and Australia; considered weedy or invasive in some regions
+- **Naturalized Range:** Widespread across Europe, [[psilocybin-north-america-pacific-northwest]], South America, Africa, and Australia; considered weedy or invasive in some regions
 - **Habitat Preferences:** Disturbed sites, roadsides, field margins, wastelands, riverbanks; tolerates a wide range of soil types from sandy to clay loam; prefers well-drained soils in full sun
 - **Altitude:** Found from sea level to 3,000 m in its native range
 - **Hardiness:** USDA Zones 4–9; tolerates light frost but not sustained freezing
@@ -87,7 +87,7 @@ Artemisia annua produces a complex phytochemical profile, with several compound 
 ### Other Notable Compounds
 
 - **Essential oil:** 0.2–1.5% of dry weight; major constituents include artemisia ketone, 1,8-cineole, camphor, borneol, β-caryophyllene, and germacrene D. The oil has antimicrobial, antifungal, and insecticidal properties.
-- **Flavonoids:** Including casticin, artemetin, casticin, luteolin, and quercetin glycosides; contribute antioxidant and anti-inflammatory activity. Some flavonoids (e.g., casticin) synergize with artemisinin's antimalarial action.
+- **Flavonoids:** Including casticin, artemetin, casticin, [[luteolin]], quercetin etin glycosides; contribute antioxidant and anti-inflammatory activity. Some flavonoids (e.g., casticin) synergize with artemisinin's antimalarial action.
 - **Coumarins:** Scopoletin, isofraxidin, and umbelliferone; contribute anti-inflammatory effects.
 - **Phenolic acids:** Chlorogenic acid, caffeic acid; antioxidant activity.
 - **Terpenoids:** Beyond artemisinin, numerous sesquiterpenes and monoterpenes contribute to the plant's complex pharmacology.
@@ -118,7 +118,7 @@ Artemisinin and its derivatives are the cornerstone of modern malaria treatment.
 Artemisia annua is cultivated commercially for artemisinin production in China, Vietnam, East Africa (Kenya, Tanzania, Uganda), and South America (Brazil, Colombia). Key agronomic considerations include:
 
 - **Photoperiod sensitivity:** The species is a short-day plant; flowering is induced when day length drops below approximately 13.5 hours. In tropical regions, flowering can occur too early, limiting vegetative biomass and artemisinin yield.
-- **Artemisinin content:** Highly variable depending on genotype, growing conditions, harvest timing, and post-harvest handling. Highest concentrations are typically found in leaves just before or at early flowering. Drying at moderate temperatures (30–40°C) preserves artemisinin; high temperatures (>60°C) degrade it.
+- **Artemisinin content:** Highly variable depending on genotype, growing conditions, [[cannabis-harvest-timing-visual-cues]], and post-harvest handling. Highest concentrations are typically found in leaves just before or at early flowering. Drying at moderate temperatures (30–40°C) preserves artemisinin; high temperatures (>60°C) degrade it.
 - **Soil requirements:** Prefers sandy loam to loam soils with pH 5.5–7.5. Moderate fertility is optimal; excessive nitrogen fertilization can reduce artemisinin content.
 - **Yield:** Typical dry leaf yields of 2–5 tonnes/hectare, with artemisinin content of 0.3–1.2% dry weight under optimal conditions.
 
@@ -128,7 +128,7 @@ Artemisia annua leaf tea and standardized artemisinin extracts are generally wel
 
 ## Conservation Status
 
-Artemisia annua is globally widespread and not considered at risk. Its weedy nature and high seed production ensure its persistence in both cultivated and naturalized settings. The primary conservation concern is not the species itself but the maintenance of high-artemisinin germplasm, which is preserved in seed banks and botanical collections in China, Europe, and the United States.
+Artemisia annua is globally widespread and not considered at risk. Its weedy nature and high [[cervantes-seed-production-storage]] ensure its persistence in both cultivated and naturalized settings. The primary conservation concern is not the species itself but the maintenance of high-artemisinin germplasm, which is preserved in seed banks and botanical collections in China, Europe, and the [[dmt-containing-plants-united-states-halpern]].
 
 ## See Also
 

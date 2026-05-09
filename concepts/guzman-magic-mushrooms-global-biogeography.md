@@ -1,35 +1,17 @@
 ---
 title: Global Biogeography of Neurotropic Mushrooms
 created: 2026-04-28
-tags: [[mycology, biogeography, psilocybin-mushrooms, fungal-distribution, ethnobotany]
+tags: [mycology, biogeography, psilocybin-mushrooms, fungal-distribution, ethnobotany]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
 type: concept
 ---
-
-# Global Biogeography of Neurotropic Mushrooms
-
-## Overview
-
-Neurotropic (hallucinogenic or psychotropic) fungi are highly diverse and
-have a wide distribution throughout the world. The landmark 1998 study by
-Guzman, Allen, and Gartz documented 216 species of neurotropic fungi
-distributed across all continents, from Alaska and Siberia in the northern
-hemisphere to Chile, Australia, and New Zealand in the southern hemisphere.
-
-## Classification of Neurotropic Fungi
-
-The 216 known species of neurotropic fungi are divided into four groups:
-
-1. **Species with psilocybin and related indoles** (182+ species): The
-   largest group, containing species confirmed or suspected to harbor
-   psilocybin, psilocin, baeocystin, and norbaeocystin. Dominated by the
-   genus [[gymnopilus-purpuratus]] (14 species), [[copelandia-genus-species-guide]] (12 species), Hypholoma (6 species), [[inocybe-aeruginascens]] (6 species), [[amanita-muscaria-guide]], A.
+# Global Biogeography of Neurotropic Mushrooms ## Overview Neurotropic (hallucinogenic or psychotropic) fungi are highly diverse and have a wide distribution throughout the world. The landmark 1998 study by Guzman, Allen, and Gartz documented 216 species of neurotropic fungi distributed across all continents, from Alaska and Siberia in the northern hemisphere to Chile, Australia, and New Zealand in the southern hemisphere. ## Classification of Neurotropic Fungi The 216 known species of neurotropic fungi are divided into four groups: 1. **Species with psilocybin and related indoles** (182+ species): The largest group, containing species confirmed or suspected to harbor psilocybin, psilocin, baeocystin, and norbaeocystin. Dominated by the genus [[gymnopilus-purpuratus]] (14 species), [[copelandia-genus-species-guide]] (12 species), Hypholoma (6 species), [[inocybe-aeruginascens]] (6 species), [[amanita-muscaria-guide]], A.
    pantherina, and A. regalis, which contain isoxazole derivatives rather
    than indole alkaloids.
 
-3. **Ergot fungi** (7 species): Claviceps purpurea and allies (5 species)
+3. **Ergot fungi** (7 species): [[bloomfield-ergot-claviceps-purpurea-ergotism]] and allies (5 species)
    containing ergot alkaloids, plus 2 species of Cordyceps used as sacred
    fungi in Mexico.
 
@@ -40,14 +22,14 @@ The 216 known species of neurotropic fungi are divided into four groups:
 
 ## Hemispheric Distribution Patterns
 
-A striking pattern emerges in the distribution of neurotropic Psilocybe
+A striking pattern emerges in the [[global-distribution-of-neurotropic-fungi]] Psilocybe
 species: the majority occur in or near the southern hemisphere, mainly in
 subtropical humid forests. Of 85 neurotropic Psilocybe species analyzed:
 - 59 species in South America and Mexico
 - 18 species in the USA and Canada
 - Only 9 species in Europe
 
-This disparity is notable because North America and Europe have been far
+This disparity is notable because [[psilocybin-north-america-pacific-northwest]] and Europe have been far
 more thoroughly explored mycologically than southern hemisphere regions.
 
 ## Origin Hypothesis
@@ -63,7 +45,7 @@ species richness.
 
 Following Hongo's nine types of fungal distribution, neurotropic species
 can be categorized as:
-- **Cosmopolitan**: Panaeolus spp. and Panaeolina foenisecii
+- **Cosmopolitan**: Panaeolus spp. and [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]
 - **Northern hemisphere**: Amanita spp., Cordyceps spp., Psilocybe
   pelliculosa, P. silvatica
 - **Tropical and subtropical**: P. cubensis, P. subcubensis, Copelandia
@@ -74,7 +56,7 @@ can be categorized as:
 
 ## Key Biogeographic Relationships
 
-Horak (1983) identified relationships between South American/Mesoamerican
+Horak (1983) identified relationships between [[chiric-caspi-brunfelsia-south-american-hallucinogen]]/Mesoamerican
 agarics and those of southeastern Asia (New Guinea, Indonesia, Australia).
 For Psilocybe, this pattern is reflected in P. samuiensis (Thailand) and
 P. makarorae (New Zealand), both closely related to P. mexicana (Mexico),
@@ -105,7 +87,9 @@ present high diversity despite being poorly explored relative to Europe.
 
 ## See Also
 
-- [[guzman-magic-mushrooms-temperate-zone-species]] for North American and
+- [[knf-global-adoption]]
+
+- [[guzman-magic-mushrooms-temperate-zone-species]] for [[growing-gourmet-north-american-reishi-species]] and
   European species
 - [[guzman-magic-mushrooms-chemical-constituents]] for chemistry of active
   compounds

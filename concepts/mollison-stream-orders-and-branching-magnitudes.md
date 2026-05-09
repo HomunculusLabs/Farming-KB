@@ -1,5 +1,5 @@
 ---
-title: Stream Orders and Branching Magnitudes
+title: mollison stream orders and branching magnitudes and Branching Magnitudes
 created: 2026-04-26
 tags:
   - permaculture
@@ -115,7 +115,7 @@ The ordering principle applies beyond streams to all branching systems:
   1-2). The same 3:1 and 2:1 ratios can inform the layout of access
   networks across a property.
 
-- **Water distribution**: Supply channels, diversion drains, swales,
+- **Water distribution**: Supply channels, [[mollison-designers-diversion-drains-and-interceptor-banks]], swales,
   and field channels form a branching hierarchy. Understanding the
   order of each helps determine appropriate flow rates, widths,
   and maintenance strategies.
@@ -135,5 +135,8 @@ designs that can absorb disturbance without structural failure.
 ## See Also
 
 - [[mollison-water-harvesting-management-permaculture]]
-- [[mollison-pdc-swale-design-water-harvesting]]
-- [[mollison-dam-types-landscape-placement]]
+- mollison-pdc-swale-design-water-harvesting
+- mollison-dam-types-landscape-placement
+- [[permaculture-design]]
+- [[mollison-fractals-branching-and-conduit-design]]
+- [[mollison-classification-of-events-and-orders-in-design]]

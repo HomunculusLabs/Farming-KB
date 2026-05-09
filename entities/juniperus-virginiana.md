@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Juniperus virginiana**, the eastern redcedar, is a widespread evergreen conifer native to eastern North America. Despite its common name, it is a juniper, not a true cedar (*Cedrus*), belonging to the cypress family Cupressaceae.
+**Juniperus virginiana**, the eastern redcedar, is a widespread evergreen conifer native to [[polypore-fungi-eastern-north-america]] America. Despite its common name, it is a juniper, not a true cedar (*Cedrus*), belonging to the cypress family Cupressaceae.
 
 The species is highly adaptable, occupying a remarkable range of sites from dry rock outcrops to swampy bottomlands. This ecological plasticity has made it one of the most abundant and widely distributed conifers in eastern North America.
 
@@ -41,7 +41,7 @@ Mature trees typically reach 10–15 m in height, though exceptional specimens e
 
 ## Distribution and Habitat
 
-Eastern redcedar ranges from southern Ontario and Maine (45°N) south to Florida and Texas (25°N), and west to the Dakotas, Nebraska, Kansas, Oklahoma, and eastern Texas. The species occupies the largest native range of any North American juniper.
+Eastern redcedar ranges from southern Ontario and Maine (45°N) south to Florida and Texas (25°N), and west to the Dakotas, Nebraska, Kansas, Oklahoma, and eastern Texas. The species occupies the largest native range of any [[growing-gourmet-north-american-reishi-species]] juniper.
 
 Elevational range is from sea level to approximately 1,500 m in the Appalachian Mountains. The species is most abundant in the eastern Great Plains, Ozark Plateau, and Appalachian region, where it is a pioneer species on abandoned agricultural land and disturbed sites.
 
@@ -57,7 +57,7 @@ Eastern redcedar is a keystone species for wildlife in many eastern landscapes. 
 
 Dispersal is primarily avian, with birds consuming the fleshy cones and excreting seeds at considerable distances from parent trees. Seeds remain viable in the soil seed bank for several years, facilitating rapid colonization following disturbance events.
 
-The species forms **ectomycorrhizal and arbuscular mycorrhizal associations**, unusual for a conifer. This dual mycorrhizal strategy contributes to its ability to colonize diverse soil types and nutrient-poor sites where other conifers cannot establish.
+The species forms **ectomycorrhizal and [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] associations**, unusual for a conifer. This dual mycorrhizal strategy contributes to its ability to colonize diverse soil types and nutrient-poor sites where other conifers cannot establish.
 
 Eastern redcedar is considered an invasive species in some grassland ecosystems, particularly in the Flint Hills of Kansas and the Nebraska Sandhills, where fire suppression has allowed dense stands to displace native prairie vegetation. Prescribed fire is the primary management tool for controlling encroachment.
 
@@ -65,7 +65,7 @@ Growth rates are moderate, with mean annual height increments of 30–60 cm on p
 
 Eastern redcedar is increasingly recognized for its potential in agroforestry systems. Windbreaks of eastern redcedar reduce wind erosion, protect crops and livestock, and provide supplemental income from timber and essential oil harvests. Multi-row shelterbelt designs incorporating eastern redcedar have been widely planted across the Great Plains since the 1930s.
 
-The species serves as an alternate host for **cedar-apple rust** (*Gymnosporangium juniperi-virginianae*), a fungal pathogen that causes significant damage to apple, crabapple, and hawthorn orchards. This obligate relationship requires both juniper and rosaceous hosts to complete its life cycle, complicating land management in areas where both occur.
+The species serves as an alternate host for **cedar-apple rust** (*Gymnosporangium juniperi-virginianae*), a [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] that causes significant damage to apple, crabapple, and hawthorn orchards. This obligate relationship requires both juniper and rosaceous hosts to complete its life cycle, complicating land management in areas where both occur.
 
 ## Timber and Economic Uses
 
@@ -83,13 +83,15 @@ The species is also important for **wildlife food plots** and habitat restoratio
 
 The essential oil of eastern redcedar contains over 60 identified compounds, with **α-cedrene**, **thujopsene**, **cedrol**, **α-pinene**, and **limonene** as the principal constituents. Heartwood oil is dominated by sesquiterpenes (cedrol, thujopsene), while foliage oil contains higher proportions of monoterpenes.
 
-Traditional medicinal uses are extensive and well-documented across Indigenous peoples of eastern North America. The berry-like cones were used to treat respiratory ailments including coughs, colds, and bronchitis. Leaf and bark preparations were applied as topical antiseptics for wounds and skin conditions.
+Traditional medicinal uses are extensive and well-documented across Indigenous peoples of eastern North America. The berry-like cones were used to treat respiratory ailments including coughs, colds, and bronchitis. Leaf and bark preparations were applied as topical antiseptics for wounds and [[cannabis-for-skin-conditions-detailed]].
 
-Modern pharmacological studies have confirmed several bioactivities. The essential oil exhibits **antimicrobial activity** against gram-positive bacteria and several fungal pathogens. Antioxidant, anti-inflammatory, and mild spasmolytic activities have also been documented in vitro.
+Modern pharmacological studies have confirmed several bioactivities. The essential oil exhibits **antimicrobial activity** against gram-positive bacteria and several [[bloomfield-fungal-pathogens-and-parasites]]. Antioxidant, anti-inflammatory, and mild spasmolytic activities have also been documented in vitro.
 
 **Cedarwood oil** is listed in the United States Pharmacopeia and is approved by the EPA as a natural insect repellent. It is used commercially in pet care products for flea and tick control, and in agricultural formulations for stored grain protection.
 
 ## See Also
+
+- [[hamamelis-virginiana]]
 
 - [[pinus-sylvestris]]
 - [[cedrus-libani]]

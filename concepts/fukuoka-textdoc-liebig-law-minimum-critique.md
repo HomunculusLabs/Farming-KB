@@ -1,5 +1,5 @@
 ---
-title: Liebig's Law of Minimum Critique
+title: Liebig's Law of liebig-law-of-minimum-critique-natural-farming
 created: 2026-04-28
 tags: [natural-farming, philosophy, agricultural-science, critique, soil-science, yield-theory, fukuoka]
 date: 2026-04-28
@@ -79,7 +79,7 @@ of agricultural research. Not understanding the relationships between
 nutrients amounts to the lack of a hoop to hold the barrel staves together.
 This is the situation at an agricultural research center with separate
 sections devoted to the study of cultivation techniques, fertilizers, and
-pest control; even the existence of a planning section and a farsighted
+[[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]; even the existence of a planning section and a farsighted
 director will be unable to pull these sections together into an integral
 whole with a common purpose.
 
@@ -101,9 +101,9 @@ we should say only that it maintains yield.
 A nutrient in short supply decreases yield, but providing a sufficient
 amount of this nutrient does not increase yield; it merely prevents a loss
 in yield. This distinction between preventing loss and achieving gain is
-crucial to Fukuoka's entire critique of scientific agriculture.
+crucial to Fukuoka's entire [[fukuoka-critique-of-scientific-agriculture]] agriculture.
 
-Chemical fertilizers can increase yields when the soil is poor to begin
+[[cervantes-chemical-fertilizers-guide]] can increase yields when the soil is poor to begin
 with and produces only four to five bushels of rice per quarter-acre. Even
 then, heavy fertilization produces an average rise in yield of not more
 than about two bushels over the long term. Adding chemical fertilizer to
@@ -111,7 +111,7 @@ soil that regularly produces seven to eight bushels has very little effect,
 while addition to fields that yield ten bushels may even hurt productivity.
 
 Chemical fertilizer is thus of benefit only as a means for preventing a
-decline in yields. Green manure, nature's own fertilizer, and animal manure
+decline in yields. Green manure, nature's own fertilizer, and [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]]
 were cheaper and safer methods of increasing yields.
 
 ## The Factory Analogy Misapplied
@@ -131,7 +131,7 @@ cannot be enhanced by the mere replacement of parts.
 
 ## All Agricultural Laws Are One
 
-Fukuoka places his critique of Liebig within his broader philosophical
+Fukuoka places his [[fukuoka-critique-of-liebig-law-of-minimum]] within his broader philosophical
 framework. Each of the laws of agricultural science, including the law of
 diminishing returns, equilibrium, adaptation, compensation and cancellation,
 relativity, and the law of minimum, is nothing other than a manifestation

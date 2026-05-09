@@ -20,7 +20,7 @@ This directly contradicts modern agricultural science, which recommends that fer
 
 Leaf mold is the cornerstone of JADAM's soil fertility system. Found abundantly under piles of decomposing leaves in forests and fields, leaf mold is described as "black gold" — a dark, crumbly soil teeming with diverse microorganisms that have adapted to the local environment over hundreds of years. These indigenous microbes are the most effective workers for local farms because they are already adapted to regional conditions.
 
-For areas without access to natural leaf mold, JADAM teaches a simple method to create it artificially: find clean, unpolluted soil, cover it thickly with cut grass, keep it moist, and wait. As indigenous microorganisms propagate, the soil beneath the grass will soften and darken. This material can then be used as a starter for all microbial applications.
+For areas without access to natural leaf mold, JADAM teaches a simple method to create it artificially: find clean, unpolluted soil, cover it thickly with cut grass, keep it moist, and wait. As [[beneficial-indigenous-microorganisms-bim]] propagate, the soil beneath the grass will soften and darken. This material can then be used as a starter for all microbial applications.
 
 ## Wild Grass as Fertilizer
 
@@ -35,17 +35,17 @@ JADAM recommends growing several different kinds of grass in orchards, cutting t
 
 ## JADAM Liquid Fertilizer (JLF)
 
-JADAM Liquid Fertilizer is the primary method for supplemental feeding. The fundamental principle is the "nutritional perspective": the best fertilizer for any crop is made from that crop itself. Tomato leaves and stems make the best tomato fertilizer; grape residues make the best grape fertilizer. This is because crop residues contain the exact balance of N, P, K, Ca, Mg, B, and other nutrients that the crop needs.
+JADAM Liquid Fertilizer is the primary method for [[savory-supplemental-feeding-and-winter-management]]. The fundamental principle is the "nutritional perspective": the best fertilizer for any crop is made from that crop itself. Tomato leaves and stems make the best tomato fertilizer; grape residues make the best grape fertilizer. This is because crop residues contain the exact balance of N, P, K, Ca, Mg, B, and other nutrients that the crop needs.
 
 To make JLF:
 - Collect crop residues (leaves, stems, branches, waste fruits) and wild grass
 - Chop materials into small pieces
 - Place in a container and fill with water
 - Add a handful of leaf mold as microbial starter
-- Cover loosely and allow anaerobic fermentation
+- Cover loosely and allow [[jadam-anaerobic-fermentation-principles]]
 - After 2-4 weeks, dilute and apply as foliar spray or soil drench
 
-The nutritional perspective eliminates the need for complicated NPK analysis and separate nutrient adjustments. Crop residues and wild grass already contain the perfect nutritional balance. This approach makes fertilizer not only free but also nutritionally superior to purchased products.
+The nutritional perspective eliminates the need for complicated NPK analysis and separate nutrient adjustments. Crop residues and wild grass already contain the perfect [[jadam-nutritional-balance-fertilizer]]. This approach makes fertilizer not only free but also nutritionally superior to purchased products.
 
 ## Sea Water for Mineral Replenishment
 
@@ -65,7 +65,7 @@ JADAM champions anaerobic fermentation for making all organic inputs, directly c
 - Seal to exclude oxygen
 - Wait for fermentation to complete (2 weeks to 3+ months depending on ingredients)
 
-The JADAM "gunnysack fermentation" method requires no turning, no machinery, and no special conditions. Anaerobic fermentation actually preserves more nutrients than aerobic methods because volatile compounds cannot escape. JADAM argues that the distinction between "fermentation" (good) and "putrefaction" (bad) is false — both are natural decomposition processes that serve essential functions.
+The JADAM "gunnysack fermentation" method requires no turning, no machinery, and no special conditions. Anaerobic fermentation actually preserves more nutrients than aerobic methods because [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] cannot escape. JADAM argues that the distinction between "fermentation" (good) and "putrefaction" (bad) is false — both are natural decomposition processes that serve essential functions.
 
 ## Human Manure as Fertilizer
 
@@ -77,7 +77,7 @@ Kitchen food waste can be converted directly into liquid fertilizer through the 
 
 ## Nutritional Balance: The Key Principle
 
-The most important concept in JADAM soil fertility is nutritional balance. Crops that receive nutritionally balanced inputs develop strong immune systems, resist pests and diseases, produce high yields, and maintain quality. Imbalanced nutrition leads to weakness, disease susceptibility, and poor quality. The simplest way to achieve balance is to use materials similar to the crop itself — crop residues, wild grass, and leaf mold — rather than trying to adjust individual nutrients through separate amendments.
+The most important concept in JADAM soil fertility is nutritional balance. Crops that receive nutritionally balanced inputs develop strong immune systems, resist [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]], produce high yields, and maintain quality. Imbalanced nutrition leads to weakness, disease susceptibility, and poor quality. The simplest way to achieve balance is to use materials similar to the crop itself — crop residues, wild grass, and leaf mold — rather than trying to adjust individual nutrients through separate amendments.
 
 ## See Also
 

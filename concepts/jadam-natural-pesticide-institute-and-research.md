@@ -1,5 +1,5 @@
 ---
-title: JADAM Natural Pesticide Institute and Research
+title: JADAM jadam natural pesticide institute and research Institute and Research
 created: 2026-04-28
 tags: [jadam, research-institute, collective-intelligence, agricultural-innovation]
 date: 2026-04-25
@@ -27,15 +27,15 @@ farmers contributing observations, experiments, and field results from
 diverse growing conditions.
 
 JADAM's founder, [[jadam-naphthalene-pesticide]] for livestock fly control
-- Comprehensive pesticide programs for rice and fruit trees
+- Comprehensive [[jadam-combined-pesticide-programs-jwa-js-jhs]] for rice and fruit trees
 
 **Fertilizer and soil inputs:**
-- Natural microorganism solution made with potatoes
+- Natural [[jadam-microorganism-solution-culturing]] made with potatoes
 - Natural microorganism solution made with mixed grains
 - Natural liquid fertilizer made without sugar or molasses
 - Complete [[chos-global-natural-farming-livestock-applications]]:**
 - Eliminating flies from livestock housings
-- Organic pig and poultry farming methods
+- Organic pig and poultry [[natural-farming-methods-comparison]]
 
 ## The Brainstorming Method
 
@@ -58,7 +58,7 @@ modern farming equipment.
 ## Open Knowledge and the Patent-Free Approach
 
 JADAM's founder explicitly chose not to patent key discoveries including
-JADAM sulfur and JADAM wetting agent. The belief is that agricultural
+JADAM sulfur and JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]]. The belief is that agricultural
 knowledge is a public asset shared by humanity. Everything JADAM has
 developed is shared through books, the website, smartphone applications,
 and workshops. Under patent law, knowledge that has been publicly
@@ -66,7 +66,7 @@ disclosed cannot be patented, ensuring JADAM's methods remain free for
 all farmers.
 
 JADAM plans to build a farm and research center that practices both
-organic crop and livestock farming, further developing and demonstrating
+organic crop and [[fukuoka-textdoc-natural-livestock-farming-open-grazing]], further developing and demonstrating
 the ultra-low-cost system. The knowledge base continues to grow as more
 farmers join and contribute their experiences from diverse climates,
 crops, and growing conditions around the world.

@@ -1,5 +1,5 @@
 ---
-title: Duck Keeping and Integration into Permaculture Systems
+title: Duck duck keeping and integration into permaculture systems into Permaculture Systems
 tags:
   - ducks
   - permaculture
@@ -21,9 +21,9 @@ sources:
 
 # Duck Keeping and Integration into Permaculture Systems
 
-Ducks are among the most versatile and underappreciated livestock a homesteader or permaculture practitioner can integrate into a diversified farm system. Unlike chickens, ducks thrive in wet environments, forage aggressively for slugs and insects, produce nutrient-rich manure, and can contribute to pest management, orchard fertility, and even aquaculture. Their hardiness, productivity, and low-maintenance nature make them an ideal complement to vegetable gardens, food forests, and pasture systems.
+Ducks are among the most versatile and underappreciated livestock a homesteader or permaculture practitioner can integrate into a diversified farm system. Unlike chickens, ducks thrive in wet environments, forage aggressively for slugs and insects, produce nutrient-rich manure, and can contribute to [[cannabis-pest-management-guide]], orchard fertility, and even aquaculture. Their hardiness, productivity, and low-maintenance nature make them an ideal complement to vegetable gardens, food forests, and pasture systems.
 
-This page covers breed selection, housing, feeding, health, breeding, predator protection, and — most importantly — how to integrate ducks into permaculture designs for maximum ecological benefit.
+This page covers breed selection, housing, feeding, health, breeding, predator protection, and — most importantly — how to [[query-how-do-i-integrate-ducks-into-my-permaculture-system]] into permaculture designs for maximum ecological benefit.
 
 ## Why Ducks Over Chickens
 
@@ -35,7 +35,7 @@ Before diving into specifics, it is worth understanding why many permaculture pr
 | Wet tolerance | Thrive in rain and mud | Prone to respiratory issues in damp conditions |
 | Egg production | 200–340 eggs/year (light breeds) | 200–300 eggs/year (layer breeds) |
 | Egg quality | Larger, richer yolk, thicker shell | Standard |
-| Pest control | Superior slug and snail hunters | Good for ticks and grasshoppers |
+| [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] | Superior [[hamilton-slug-and-snail-control]] hunters | Good for ticks and grasshoppers |
 | Manure output | Higher nitrogen content (~0.6% N) | Moderate (~0.5% N) |
 | Noise level | Quieter (mumbles and quacks) | Louder (crowing, alarm calls) |
 | Predator vulnerability | Higher (ground-based, less alert) | Lower (roost, alarm systems) |
@@ -140,208 +140,11 @@ Water is central to duck husbandry. Unlike chickens, ducks need water for:
 
 ### Pond Design for Permaculture Systems
 
-A well-designed duck pond serves multiple functions: water for ducks, habitat for wildlife, irrigation source, and nutrient cycling hub.
+A well-designed duck pond serves multiple functions: water for ducks, habitat for wildlife, irrigation source, and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] hub.
 
 **Minimum water depth**: 6–12 inches for small flocks; 18–24 inches is ideal for natural behavior
 
 **Natural pond approach**:
-- Excavate a shallow basin with graduated edges (0–24 inches)
-- Line with clay or bentonite if the soil is permeable
-- Plant edges with: duck potato (*Sagittaria latifolia*), pickerelweed (*Pontederia cordata*), water celery (*Oenanthe javanica*), taro, cattail
-- Allow marginal plants to filter duck manure before water exits the system
-- Connect overflow to swales or irrigation channels for nutrient distribution
-
-**Constructed mini-pond**:
-- 50–200 gallon stock tank or rubber liner pond
-- Drain and refill weekly (or use the nutrient-rich water on garden beds)
-- Add [[aquatic-plants-and-pond-ecosystems]] for filtration and shade
-- Position downhill from garden areas for gravity-fed irrigation
-
-**Key [[design-principle-integration]]**: Duck ponds should be part of a larger water management system, not isolated. Pond overflow should feed into swales, [[greywater-systems-detailed]], or irrigated garden zones.
-
-### Water Quality Management
-
-Duck manure rapidly degrades water quality. Without management, ponds become anaerobic and foul:
-
-- **Plant-based filtration**: Marginal and submersed plants absorb nitrogen and phosphorus
-- **Regular drainage**: Partial or complete water changes weekly
-- **Biodiversity**: Add snails, freshwater shrimp, or minnows to consume algae and organic matter
-- **Baffle systems**: Create sedimentation zones where solids settle before water enters the main pond
-- **Aeration**: Moving water (small pump, waterfall, or stream) prevents stagnation
-- **Rotation**: Use multiple small ponds and rotate ducks between them
-
-## Feeding and Nutrition
-
-### Natural Foraging
-
-Ducks are enthusiastic and effective foragers. A free-ranging duck will consume:
-
-- Slugs, snails, and their eggs
-- Earthworms and other soil invertebrates
-- Aquatic insects, mosquito larvae, and dragonfly nymphs
-- Grass, clover, and broadleaf weeds (especially young growth)
-- Seeds and grain from fallen plants
-- Frog eggs, tadpoles, and small amphibians
-- Berries, fallen fruit, and garden produce
-
-In a well-designed permaculture system with adequate forage, ducks can obtain 30–70% of their nutritional needs from free-ranging, significantly reducing feed costs.
-
-### Supplemental Feed
-
-Even with excellent forage, supplemental feed ensures adequate nutrition:
-
-| Life Stage | Protein | Notes |
-|------------|---------|-------|
-| Ducklings (0–2 weeks) | 20–22% | Commercial waterfowl starter or game bird starter |
-| Ducklings (2–8 weeks) | 16–18% | Grower ration; avoid medicated chick starter (can be toxic to ducks) |
-| Layers (20+ weeks) | 16–18% | Layer pellets or crumbles with added calcium |
-| Drakes | 14–16% | Lower protein; excess calcium causes kidney damage |
-| Molting birds | 18–20% | Higher protein supports feather regrowth |
-
-**Critical feeding note**: Never use chicken feed containing ionophore anticoccidials (e.g., monensin, salinomycin). These are toxic to ducks. Always check the label for "safe for waterfowl" or use unmedicated feed.
-
-### Supplemental Foods and Treats
-
-- **Oats**: Good energy source; can replace up to 25% of grain ration
-- **Peas and lentils**: Excellent protein supplement; ducks love them
-- **Kitchen scraps**: Vegetable trimmings, fruit, bread (moderate amounts)
-- **[[black-soldier-fly-larvae-as-feed]] larvae**: 40%+ protein; excellent supplemental feed
-- **Duckweed**: 35–40% protein; can be grown in duck ponds for self-feeding
-- **Azolla**: [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] aquatic fern; 25–30% protein
-- **Mealworms**: High protein treat; can be farmed at home
-- **Shell grit**: Free-choice oyster shell for calcium (layers only)
-
-## Integration into Permaculture Systems
-
-### Duck Tractors in Gardens
-
-A duck tractor is a mobile enclosure that concentrates ducks' foraging and fertilizing effects on specific garden areas:
-
-**Design**: 4×8 ft or 4×10 ft frame on skids, covered with 2-inch poultry wire, with a shaded end for shelter. Move daily or every 2 days.
-
-**Uses**:
-- **Pre-planting slug control**: Run the tractor over beds 1–2 weeks before planting — ducks will decimate slug populations
-- **[[post-harvest-handling-marketing-mushrooms]] cleanup**: Ducks consume fallen fruit, pest insects, and weed seeds after harvest
-- **Fertilization**: Duck manure applied directly to beds provides nitrogen; move before planting to avoid burning
-- **Weed management**: Ducks eat many weed seedlings and young weeds
-
-**Cautions**:
-- Do not leave ducks on young seedlings — they will eat them
-- Wet manure can compact soil; rotate frequently
-- Best used on established beds with taller plants, or between crops
-
-### Orchard Integration
-
-Ducks and orchards are a classic permaculture combination:
-
-- **Slug and snail control**: Ducks are the most effective biological control for these pests, which damage fruit tree trunks and low fruit
-- **Codling moth**: Ducks consume fallen apples containing codling moth larvae, interrupting the pest lifecycle
-- **Fertilization**: Duck manure provides nitrogen, phosphorus, and potassium to fruit trees
-- **Grass management**: Ducks graze orchard groundcover, reducing mowing needs
-- **Herbaceous layer management**: Ducks control weeds under trees without scratching (unlike chickens)
-
-**Best practices**:
-- Use electronet fencing to confine ducks to specific orchard rows
-- Rotate between rows every 1–2 weeks
-- Provide portable water tubs in each zone
-- Avoid letting ducks onto very young trees (they may strip bark from seedlings)
-- Supplement feed during times of low insect activity
-
-### Rice Paddy Integration (Duck-Rice System)
-
-The duck-rice system, originating in Japan (Aigamo method) and practiced across Asia, is one of the most successful integrated systems:
-
-- Ducks are released into flooded rice paddies after seedlings are established (2–3 weeks)
-- Ducks eat pests (rice leaf roller, stem borer, golden apple snail)
-- Ducks eat weeds and weed seeds
-- Duck manure fertilizes rice (reducing or eliminating synthetic fertilizer)
-- Duck swimming oxygenates the water and reduces methane emissions
-- Rice provides shade and foraging habitat for ducks
-
-**Yields**: Studies show 10–20% rice yield increases compared to monoculture, plus 50–100 ducks per hectare producing eggs or meat.
-
-### Aquaponics Integration
-
-Duck manure can serve as the nutrient source for aquaponic systems:
-
-- **Duckponics**: Duck pond water is pumped through grow beds where plants filter the nutrients
-- Higher nutrient density than fish-based aquaponics (duck manure is more concentrated)
-- No fish feeding required — ducks feed themselves through foraging
-- Plants grown: watercress, taro, water celery, kangkong, lettuce, tomatoes
-- The system requires careful management to avoid ammonia spikes
-
-### Integrated Multi-Trophic Systems
-
-Advanced permaculture designs combine ducks with:
-
-- **Fish**: Duck manure feeds plankton → feeds fish; ducks eat mosquito larvae
-- **Duckweed/azolla**: Grown in duck ponds → harvested as supplemental feed
-- **Black soldier flies**: Larvae break down duck manure/compost → fed back to ducks
-- **Vegetable gardens**: Nutrient-rich pond water used for irrigation
-- **Berries**: Ducks control strawberry and blueberry pests
-
-## Health and Disease
-
-### Common Health Issues
-
-| Condition | Symptoms | Prevention/Treatment |
-|-----------|----------|---------------------|
-| Botulism | Limp neck, paralysis | Clean water; avoid decaying organic matter in ponds |
-| Bumblefoot | Swollen foot pad | Clean, dry bedding; proper perches (though ducks rarely perch) |
-| Duck virus enteritis (DVE) | Bloody diarrhea, lethargy, sudden death | Vaccination available; biosecurity |
-| Duck plague (DVE) | Same as above | Vaccination; quarantine new birds |
-| Aspergillosis | Respiratory distress | Clean, dry, well-ventilated housing |
-| Impacted crop | Swollen crop, regurgitation | Provide adequate grit; avoid long grass strands |
-| Niacin deficiency | Bow-legged, poor growth | Supplement niacin (added to water for ducklings) |
-| Angel wing | Wing tips point outward | Proper nutrition; avoid excessive protein in young birds |
-| Egg binding | Straining, lethargy | Calcium supplementation; warm bath |
-| Vent prolapse | Protruding vent tissue | Reduce light exposure; monitor for over-mating by drakes |
-
-### Preventive Health Care
-
-1. **Biosecurity**: Quarantine new birds for 2 weeks before integrating
-2. **Clean water**: The single most important health factor for ducks
-3. **Parasite control**: Regular fecal testing; treat with fenbendazole or ivermectin as needed
-4. **Vaccination**: Consider DVE vaccine in areas with outbreaks
-5. **Niacin supplementation**: Add brewer's yeast to duckling water (1 tbsp per gallon) for the first 10 weeks
-6. **Predator protection**: Secure housing is the best medicine — stress from predator pressure suppresses immunity
-7. **Observation**: Handle birds regularly; check for weight loss, lethargy, abnormal droppings
-
-### Niacin Deficiency in Ducklings
-
-This is the most common nutritional issue in [[duck-keeping-guide-detailed]]. Ducklings require 2–3× more niacin than chicks. Signs appear at 2–4 weeks:
-
-- Stiff, awkward gait
-- Bowing of legs
-- Inability to walk properly
-
-**Prevention**: Add niacin supplement (100 mg per gallon of water) or brewer's yeast (1–2 tbsp per gallon of feed) from day one through 10 weeks.
-
-## Predator Protection
-
-Ducks are vulnerable to a wide range of predators. Their ground-dwelling nature and relative lack of alertness (compared to chickens) make them especially susceptible.
-
-### Common Predators
-
-| Predator | Method | Protection |
-|----------|--------|------------|
-| Raccoons | Reach through wire; pull heads through | ½-inch hardware cloth; secure locks |
-| Foxes | Dig under fencing; climb | Buried wire apron; full enclosures |
-| Minks/weasels | Small openings; kill multiple birds | ½-inch wire; solid walls |
-| Owls | Night attacks on free-range birds | Covered runs; lock up at night |
-| Hawks | Daytime attacks on small birds | Overhead netting; cover |
-| Dogs/cats | Chase, kill, maul | Fencing; supervision |
-| Snapping turtles | Attack ducklings in ponds | Remove from ponds; exclude turtles |
-| Large fish (bass, pike) | Attack ducklings in water | Separate ducklings from deep water |
-
-### Protection Strategies
-
-1. **Hardware cloth**: Use ½-inch hardware cloth (not chicken wire) on all openings, buried 12 inches into the ground
-2. **Night lockup**: Always secure ducks in a predator-proof structure at dusk
-3. **Electronet fencing**: Portable electric netting (48 inches tall) for daytime ranging — effective against most ground predators
-4. **Guard animals**: Livestock guardian dogs (LGDs), geese (alarm calls), or donkeys
-5. **Overhead cover**: Netting or wire over day ranges to prevent aerial attacks
-6. **Motion-activated lights/sound**: Deterrence for nocturnal predators
-7. **Double-door entry**: Vestibule entry to coops prevents predators from rushing in when doors are opened
-
-## Breeding Duck
+## Related
+- [[gaias-garden-living-plant-systems-insectary|gaias garden living plant systems insectary]]
+- [[comparison-biointensive-vs-permaculture|comparison biointensive vs permaculture]]

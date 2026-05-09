@@ -1,12 +1,12 @@
 ---
-title: 'Fruiting Body vs Mycelium Extracts for Medicinal Mushrooms'
+title: 'comparison fruiting body vs mycelium extracts medicinal mushrooms vs Mycelium Extracts for comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive'
 tags: [medicinal-mushrooms, supplements, extraction, mycology, health]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - 'Li, W. et al. (2020). "Comparison of β-glucan content in fruiting body and mycelium of Ganoderma lucidum." Journal of Fungi, 6(4), 276.'
+  - 'Li, W. et al. (2020). "Comparison of β-glucan content in fruiting body and mycelium of stamets-reishi-ganoderma-lucidum-cultivation." Journal of Fungi, 6(4), 276.'
   - 'Upton, R. et al. (2022). "Starch content analysis of commercial mycelium-based mushroom supplements." American Herbal Pharmacopoeia® Monograph.'
-  - 'Kozarski, M. et al. (2011). "Antioxidants in edible mushrooms." Molecules, 16(4), 3014–3052.'
+  - 'Kozarski, M. et al. (2011). "Antioxidants in [[palmer-edible-mushrooms-north-america]]." Molecules, 16(4), 3014–3052.'
   - 'Shen, J. et al. (2017). "Triterpenoids from Ganoderma lucidum: biological activities and health benefits." Natural Product Reports, 34(3), 268–285.'
   - 'FDA (2023). "Dietary Supplements: What You Need to Know." U.S. Food and Drug Administration Guidance Document.'
 created: 2026-05-07
@@ -17,7 +17,7 @@ type: comparison
 
 - **Fruiting body extracts** contain concentrated beta-glucan levels, typically **15–50%+** depending on species and extraction quality.
 - **Mycelium-on-grain products** contain substantially lower beta-glucan content, often **<5%**, because the product is diluted by grain biomass.
-- Fruiting bodies accumulate bioactive compounds defensively during growth, whereas mycelium grown on grain has less physiological incentive to produce these metabolites.
+- Fruiting bodies accumulate [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] defensively during growth, whereas mycelium grown on grain has less physiological incentive to produce these metabolites.
 - Many clinical studies demonstrating immune benefits used **isolated fruiting body preparations**, not mycelium-on-grain products — so the evidence base is largely one-sided.
 
 ## The Starch / Alpha-Glucan Filler Controversy
@@ -27,7 +27,7 @@ This is the most debated issue in the mushroom supplement industry:
 - **Grain starch is indistinguishable from fungal alpha-glucans on basic labeling.** When a mycelium-on-grain product lists "alpha-glucans" on its label, these are overwhelmingly **starch from the residual grain**, not bioactive fungal compounds.
 - Independent laboratory analyses have found that many mycelium-on-grain products are **30–70% starch by weight**, with some exceeding 80%.
 - This starch has no known medicinal value and essentially acts as an expensive filler.
-- Fruit body extracts, by contrast, contain minimal starch — beta-glucan content is far higher relative to total weight.
+- [[abort-suppression-brassinosteroid-incomplete-fruit-body-reduction]] extracts, by contrast, contain minimal starch — beta-glucan content is far higher relative to total weight.
 
 **Key takeaway:** High alpha-glucan content on a label is not a marker of quality; it is likely an indicator of leftover grain starch.
 
@@ -112,4 +112,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

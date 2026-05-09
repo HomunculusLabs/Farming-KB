@@ -1,5 +1,5 @@
 ---
-title: "How Does Lignin Degradation by Fungi Work?"
+title: "How Does mycoremediation-white-rot-fungi-lignin-degradation-enzymes by Fungi Work?"
 created: 2026-04-28
 tags: [query, mycology, bioremediation, decomposition, enzymes]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: query
 
 ## Short Answer
 
-Fungi degrade lignin using specialized extracellular enzymes including lignin peroxidase, manganese peroxidase, and laccase, which break down the complex aromatic polymer into smaller molecules. White-rot fungi are the primary lignin degraders in nature, while brown-rot fungi use a different Fenton chemistry approach to modify lignin and access cellulose in wood.
+Fungi degrade lignin using specialized extracellular enzymes including [[fungal-lignin-peroxidase-veratryl-alcohol]], [[fungal-manganese-peroxidase-remediation]], and laccase, which break down the complex aromatic polymer into smaller molecules. White-rot fungi are the primary lignin degraders in nature, while brown-rot fungi use a different [[bioremediation-fenton-chemistry-brown-rot-fungi]] approach to modify lignin and access cellulose in wood.
 
 ## The Lignin Polymer Challenge
 
@@ -42,9 +42,9 @@ The three key enzyme families are:
 **Laccase:**
 - A multicopper oxidase that oxidizes phenolic lignin components
 - Can work with mediator molecules to attack non-phenolic structures
-- The [[fungal-enzyme-systems-in-bioremediation]] framework explains how this same radical chemistry also degrades environmental pollutants
+- The fungal-enzyme-systems-in-bioremediation framework explains how this same radical chemistry also degrades environmental pollutants
 - White-rot fungi can break down PAHs, PCBs, dioxins, and other recalcitrant compounds using the same enzymes
-- Hydrogen peroxide is required as a co-substrate for peroxidase enzymes
+- [[cervantes-hydrogen-peroxide-sterilization]] is required as a co-substrate for peroxidase enzymes
 
 ## Brown-Rot Fungi: The Fenton Chemistry Approach
 
@@ -62,8 +62,8 @@ The [[mycoremediation]] reference covers the Fenton chemistry in detail.
 
 Lignin degradation is essential for global carbon cycling:
 
-- Without fungal lignin degradation, forest carbon would remain locked in woody debris indefinitely
-- The [[cellulase-enzyme-systems-in-fungi]] often work alongside lignin-modifying enzymes for complete decomposition
+- Without fungal lignin degradation, forest carbon would remain locked in [[fungal-succession-woody-debris-ecology]] indefinitely
+- The cellulase-enzyme-systems-in-fungi often work alongside lignin-modifying enzymes for complete decomposition
 
 ## Practical Applications
 

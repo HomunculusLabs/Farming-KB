@@ -1,5 +1,5 @@
 ---
-title: "What Causes Cannabis Plants to Hermaphrodite?"
+title: "What query-what-causes-cannabis-bud-rot-and-how-to-prevent-it Plants to Hermaphrodite?"
 created: 2026-04-28
 tags: [query, cannabis, hermaphrodite, breeding, stress]
 date: 2026-04-25
@@ -44,7 +44,7 @@ nitrogen during late flowering keeps plants in a vegetative mindset and can
 trigger male flower development at bud sites. Conversely, severe nutrient
 deficiencies or [[cannabis-nutrient-burn-and-toxicity]] from over-fertilization is equally stressful and
 can push sensitive plants to hermaphrodite. Maintaining a balanced feeding
-schedule and monitoring [[cannabis-living-soil-guide|living soil]] systems, the buffered nutrient availability naturally reduces the risk
+schedule and monitoring [[cannabis-living-soil-guide|living soil]] systems, the buffered [[ph-and-nutrient-availability-garden-soils]] naturally reduces the risk
 of nutrient stress compared to hydroponic or salt-based nutrient programs.
 
 Genetics play a significant role in hermaphrodite tendency among different
@@ -53,7 +53,7 @@ far less stress than others, making them poor choices for beginners or
 growers with less-than-perfect environments. [[cannabis-super-cropping-technique]] should be performed
 during early to mid-vegetative growth, never during flowering when the plant
 is most sensitive. Rough handling, broken branches, and root damage from
-transplanting late in the life cycle all contribute to stress-induced
+transplanting late in the [[bloomfield-fungal-life-cycle-spiral-versus-circle]] all contribute to stress-induced
 herming. Preventive strategies include selecting stable genetics, maintaining
 a consistent environment, avoiding training during flowering, and conducting
 regular inspections of bud sites during weeks three through six of flowering
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -18,11 +18,11 @@ type: concept
 
 # Mountain Wood Preserve and Revegetation Method for Natural Farms
 
-Fukuoka provides detailed practical instructions for establishing and growing wood preserves on denuded hills and mountains, describing how a farmer can convert barren land into a self-sustaining forest ecosystem that serves as a source of soil fertility for the farm below. This method is foundational to his system of natural farming, as the wood preserve provides the humus and biological activity that make fertilizer-free cultivation possible.
+Fukuoka provides detailed practical instructions for establishing and growing wood preserves on denuded hills and mountains, describing how a farmer can convert barren land into a self-sustaining forest ecosystem that serves as a source of soil fertility for the farm below. This method is foundational to his system of [[natural-farming]], as the wood preserve provides the humus and biological activity that make fertilizer-free cultivation possible.
 
 ## The Role of the Wood Preserve
 
-The woods surrounding a natural farm should be treated as a natural preserve and used as a direct or indirect source of organic fertilizer. The basic strategy for achieving long-term, totally fertilizer-free cultivation on a natural farm is to create deep, fertile soil. The wood preserve accomplishes this through three primary mechanisms:
+The woods surrounding a natural farm should be treated as a natural preserve and used as a direct or indirect source of [[complete-organic-fertilizer-cof-recipe-solomon]]. The basic strategy for achieving long-term, totally fertilizer-free cultivation on a natural farm is to create deep, fertile soil. The wood preserve accomplishes this through three primary mechanisms:
 
 1. **Direct burial** of coarse organic matter deep in the ground, where it decomposes slowly and improves subsoil structure
 2. **Gradual soil improvement** by planting grasses and trees that send roots deep into the soil, breaking up compacted layers and bringing nutrients to the surface
@@ -34,7 +34,7 @@ Whatever the means employed, the natural farmer must secure a nearby supply of h
 
 A well-designed wood preserve includes multiple functional components working together as an integrated system. While the main function is to serve as a deeply verdant natural wood, the farmer should also plant several categories of complementary trees:
 
-- **Companion trees** that enrich the soil, particularly nitrogen-fixing leguminous species such as black wattle (Acacia mearnsii) that convert atmospheric nitrogen into forms available to other plants. Fukuoka noted that when black wattle is planted among cedar or cypress, these latter thrive with the help of the microbes present on the roots of the black wattle
+- **Companion trees** that enrich the soil, particularly nitrogen-fixing leguminous species such as black wattle ([[acacia-mearnsii]]) that convert atmospheric nitrogen into forms available to other plants. Fukuoka noted that when black wattle is planted among cedar or cypress, these latter thrive with the help of the microbes present on the roots of the black wattle
 - **Timber trees** for construction and material needs, providing the farmer with renewable building resources
 - **Food-producing trees** that supply food for birds and animals, supporting wildlife populations that contribute to pest control
 - **Habitat trees** that provide nesting sites and cover for the natural enemies of insect pests, integrating biological pest management into the preserve design
@@ -51,7 +51,7 @@ The first priority is to prevent the remaining soil from washing away. This is a
 
 ### Phase Two: Mountain Cover Establishment
 
-Next, sow the seeds of a low conifer such as moss cypress (Sugi, Cryptomeria japonica) to create a permanent mountain cover of evergreens. The initial vegetation that appears will be pioneer species: grasses such as cogon grass (Imperata cylindrica), ferns such as bracken (Pteridium aquilinum), and low bushes such as lespedeza (Lespedeza spp.), eurya (Eurya japonica), and moss cypress seedlings.
+Next, sow the seeds of a low conifer such as moss cypress  japonica) to create a permanent mountain cover of evergreens. The initial vegetation that appears will be pioneer species: grasses such as cogon grass (Imperata cylindrica), ferns such as b pteridium aquilinum quilinum), and low bushes such as lespedeza (Lespedeza spp.), eurya (Eurya japonica), and moss cypress seedlings.
 
 ### Phase Three: Natural Succession
 
@@ -63,17 +63,17 @@ Fukuoka specified particular tree species for different positions on the mountai
 
 ### Hillsides
 
-Plant evergreens such as Japanese cypress (Chamaecyparis obtusa) and camphor tree (Cinnamomum camphora). Together with these, interplant deciduous trees including Chinese hackberry (Celtis sinensis), zelkova (Zelkova serrata), paulownia (Paulownia tomentosa), cherry (Prunus serrulata), maple (Acer spp.), and eucalyptus (Eucalyptus spp.). The mixture of evergreen and deciduous species ensures year-round ground cover and a continuous supply of leaf litter.
+Plant evergreens such as Japanese cypress (Chamaecyparis obtusa) and campho cinnamomum camphora camphora). Together with these, interplant deciduous trees including Chinese hackberry (Celtis sinensis), zelkova (Zelkova serrata), pau paulownia tomentosa omentosa), cherry (Prunus serrulata), maple (Acer spp.), and eucalyptus (Eucalyptus spp.). The mixture of evergreen and deciduous species ensures year-round ground cover and a continuous supply of leaf litter.
 
 ### Fertile Valley Land
 
-Plant oak (Quercus spp.) and evergreens such as cryptomeria and live oak (Quercus phillyreoides). Interplant these with walnut (Juglans spp.) and ginkgo (Ginkgo biloba). The deeper, moister soils of valleys support larger trees and more diverse forest communities. The roots of these trees penetrate deeply, accessing mineral nutrients from weathering rock and bringing them to the surface through leaf fall.
+Plant oak (Quercus spp.) and evergreens such as cryptomeria and live oak (Quercus phillyreoides). Interplant these with walnut (Juglans spp.) and ginkgo ([[ginkgo-biloba]]). The deeper, moister soils of valleys support larger trees and more diverse forest communities. The roots of these trees penetrate deeply, accessing mineral nutrients from weathering rock and bringing them to the surface through leaf fall.
 
 ## The Bamboo Grove Alternative
 
 A bamboo grove may serve equally well as the wood reserve. Fukuoka identified several properties that make bamboo particularly valuable for soil improvement:
 
-- **Rapid growth**: A bamboo shoot reaches full size in just one year, so the amount of vegetative growth is greater than for ordinary trees
+- **Rapid growth**: A bamboo shoot reaches full size in just one year, so the amount of [[cannabis-vegetative-growth-stage]] is greater than for ordinary trees
 - **Coarse organic material**: The culms and branches provide abundant material that can be buried in the ground for soil improvement
 - **Hollow structure**: Bamboo is hollow with a large void ratio, which helps retain air and water in the soil when buried
 - **Slow decomposition**: This gradual breakdown provides sustained soil improvement over many years
@@ -95,11 +95,11 @@ preserve is so effective as a fertility source for the farm below.
 
 The first process is rock weathering. Tree roots penetrate deep into cracks
 and fissures in bedrock, gradually prying apart stones through mechanical
-force. The acids exuded by roots and mycorrhizal fungi further dissolve
+force. The acids exuded b mycorrhizal fungi rhizal fungi further dissolve
 minerals, releasing calcium, phosphorus, potassium, and trace elements from
 the rock matrix into bioavailable forms.
 
-The second process is leaf litter decomposition. Each year, deciduous trees
+The second process is leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]]. Each year, deciduous trees
 shed their leaves, creating a layer of organic matter on the forest floor.
 This litter is broken down by fungi, bacteria, and soil invertebrates into
 humus — a stable, dark organic material that dramatically improves soil
@@ -108,7 +108,7 @@ structure, water retention, and nutrient-holding capacity.
 The third process is the nitrogen cycle. Leguminous companion trees such as
 black wattle fix atmospheric nitrogen through symbiotic bacteria in their
 root nodules. When leaves and roots from these trees decompose, the fixed
-nitrogen becomes available to other plants. This natural nitrogen fixation
+nitrogen becomes available to other plants. This natural [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
 eliminates the need for applied nitrogen fertilizers.
 
 The fourth process is nutrient pumping. Deep-rooted trees access minerals
@@ -122,12 +122,12 @@ The wood preserve does not operate in isolation from the rest of the farm.
 It is connected to the cultivated areas through multiple pathways of nutrient
 and biological exchange. Rainwater percolating through the forest floor
 carries dissolved humic acids and mineral nutrients downhill into the fields
-and orchards below. This passive nutrient transport system operates
+and orchards below. This passive [[mycelial-network-nutrient-transport-imaging-gadd]] system operates
 continuously without any human effort.
 
 Wind also plays a role, carrying spores of beneficial fungi and bacteria
 from the forest into the farm. Many of these microorganisms are antagonistic
-to crop pathogens, providing a natural biological control service. The
+to crop pathogens, providing a natural [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] service. The
 forest also serves as a reservoir for predatory insects and birds that help
 control pest populations in the crops.
 

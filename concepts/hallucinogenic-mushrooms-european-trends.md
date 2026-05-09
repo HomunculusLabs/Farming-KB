@@ -1,6 +1,6 @@
 ---
 
-title: Hallucinogenic Mushrooms -- European Legal and Social Trends
+title: emcdda-hallucinogenic-mushrooms-emerging-trend-europe -- European Legal and Social Trends
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -22,7 +22,7 @@ sources:
 
 # Hallucinogenic Mushrooms -- European Legal and Social Trends
 
-EMCDDA (European Monitoring Centre for Drugs and Drug Addiction) case study on hallucinogenic mushroom use trends in Europe (2006). Covers prevalence, market dynamics, legal responses, and health considerations. See [[mushroom-identification]] for species identification and [[psychedelic-compounds-reference]] for pharmacology.
+EMCDDA (European Monitoring Centre for Drugs and Drug Addiction) case study on hallucinogenic mushroom use trends in Europe (2006). Covers prevalence, market dynamics, legal responses, and health considerations. See mushroom-identification for species identification and [[psychedelic-compounds-reference]] for pharmacology.
 
 ## Key Findings
 
@@ -58,7 +58,7 @@ EMCDDA (European Monitoring Centre for Drugs and Drug Addiction) case study on h
 Several EU member states introduced legal controls in response to the trend:
 
 - **Netherlands**: Originally tolerated via smartshops; later restrictions introduced
-- **Ireland**: Criminalized fresh and dried psilocybin mushrooms
+- **Ireland**: Criminalized fresh and dried [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]
 - **UK**: Controlled under the Misuse of Drugs Act (Class A)
 - **Germany**: Controlled under narcotics legislation
 - Multiple countries: Early Warning Systems tracked the emerging trend
@@ -84,10 +84,10 @@ User accounts suggest factors that may limit recreational use:
 
 | Species | Notes |
 |---------|-------|
-| Psilocybe semilanceata (Liberty Cap) | Native to Europe; found in pastures across UK, Ireland, France, Germany, Netherlands, Scandinavia, and beyond |
+| [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] (Liberty Cap) | Native to Europe; found in pastures across UK, Ireland, France, Germany, Netherlands, Scandinavia, and beyond |
 | Psilocybe cubensis | Cultivated species; the primary smartshop product |
-| Psilocybe cyanescens | Wood chip habitats; expanding range via landscaping |
-| Panaeolus subbalteatus | Less common; dung-inhabiting |
+| [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]] | Wood chip habitats; expanding range via landscaping |
+| [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]] | Less common; dung-inhabiting |
 | Amanita muscaria | Legal alternative; ibotenic acid/muscimol active compounds |
 
 ## Monitoring and Early Warning
@@ -96,7 +96,7 @@ The EMCDDA's Early Warning System (EWS) was instrumental in tracking the emergen
 
 ## Links
 
-- [[mushroom-identification]] -- Safe identification practices
+- mushroom-identification -- Safe identification practices
 - [[psychedelic-compounds-reference]] -- Compound pharmacology and safety
 - [[psilocybin-liquid-culture]] — Mycelial liquid culture technique (Gottlieb)
 - [[psilocybin-extraction-guide]] — Post-harvest alkaloid extraction (Gottlieb)
@@ -106,4 +106,4 @@ The EMCDDA's Early Warning System (EWS) was instrumental in tracking the emergen
 - [[amanita-muscaria-guide]] -- Amanita muscaria-specific information
 - [[psilocybin-mushroom-chemistry]] -- Dose/effects/health risks (includes EMCDDA clinical data)
 - [[mushroom-legislation-worldwide]] -- Global legal status (includes EU timeline from EMCDDA)
-- hallucinogenic mushrooms european trends -- This page (prevalence and market data)
+- hallucinogenic mushrooms european trends -- This page ([[eu-magic-mushroom-prevalence-and-market-trends]] data)

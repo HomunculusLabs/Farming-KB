@@ -1,5 +1,5 @@
 ---
-title: "Production Costs Are Not Coming Down"
+title: "[[fukuoka-textdoc-absence-no-fertilizer-tests]] production costs not coming down Are Not Coming Down"
 created: 2026-04-28
 tags: [economics, production-costs, scientific-farming, food-prices, critique]
 date: 2026-04-28
@@ -15,7 +15,7 @@ type: concept
 
 Fukuoka challenges the widely held belief that progress in agricultural
 technology will lower production costs and make food less expensive. Through a
-thought experiment about a hypothetical urban vegetable factory, he demonstrates
+thought experiment about a hypothetical urban [[fukuoka-textdoc-vegetable-factory-hydroponic-critique]], he demonstrates
 that sophisticated agricultural technology inevitably makes food more expensive,
 not less, because nature produces without calling for supplies or remuneration
 while human effort always demands payment in return.
@@ -85,6 +85,6 @@ abundantly when he works in harmony with her processes.
 
 ## Contrast with Natural Farming
 
-In [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
+In 
 - [[fukuoka-textdoc-natural-livestock-unconditional-truth]]
 - [[fukuoka-critique-of-scientific-agriculture]]

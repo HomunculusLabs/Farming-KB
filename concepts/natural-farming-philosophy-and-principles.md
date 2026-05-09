@@ -1,27 +1,28 @@
 ---
-title: Natural Farming Philosophy and Principles
+title: Natural fukuoka-do-nothing-farming-philosophy-and-practice and Principles
 created: 2026-04-24
 tags: [agriculture, natural-farming, philosophy, sustainability]
 type: concept
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 updated: 2026-04-26
 ---
 
 # Natural Farming Philosophy and Principles
 
-Natural farming is a holistic agricultural philosophy that works with nature rather than against it. It encompasses several traditions worldwide, united by the principle of minimizing human intervention and respecting natural ecological processes.
+[[natural-farming]] is a holistic agricultural philosophy that works with nature rather than against it. It encompasses several traditions worldwide, united by the principle of minimizing human intervention and respecting natural ecological processes.
 
 ## Core Philosophy
 
 Natural farming recognizes the abundance of nature and utilizes indigenous resources for production. Its basic philosophy is to maximize the inborn potential of a life form and its harmony with the environment by not interfering with their growth and development or forcing crops to yield more than what they can. Natural farmers believe that the best way to achieve top quality yield is to respect the nature of life.
 
-Natural farming uses methods that observe the laws of nature and utilizes natural materials and products. It is based on the principle of interdependence among all living things, aiming to have a nurturing impact on the environment, in sharp contrast to the disadvantageous effects of modernized and commercialized agriculture.
+Natural farming uses methods that observe the laws of nature and utilizes [[building-with-natural-materials]] and products. It is based on the principle of interdependence among all living things, aiming to have a nurturing impact on the environment, in sharp contrast to the disadvantageous effects of modernized and commercialized agriculture.
 
 ## The Four Principles (Fukuoka)
 
 [[cho-han-kyu]], founder of [[natural-farming-philosophy]]
-- [[natural-farm-permaculture-ethics-principles]]
+- natural-farm-permaculture-ethics-principles
 - [[natural-farming-and-spirituality]]
 ## Practical Applications
 
@@ -40,7 +41,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -90,7 +91,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -100,4 +101,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

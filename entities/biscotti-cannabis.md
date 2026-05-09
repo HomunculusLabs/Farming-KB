@@ -26,7 +26,7 @@ Biscotti has won or placed in multiple cannabis competitions, including the Emer
 
 The name derives from the Italian twice-baked cookie, referencing the strain's sweet, nutty, and slightly earthy flavor profile that evokes baked goods. The Cookies branding and limited-release drops have elevated Biscotti to a boutique status in licensed dispensaries.
 
-As a multi-generational Cookies cross, Biscotti represents the culmination of decades of West Coast cannabis breeding. It embodies the shift from older landrace-based genetics toward purpose-built boutique varieties optimized for both potency and sensory appeal.
+As a multi-generational Cookies cross, Biscotti represents the culmination of decades of West Coast [[oner-cannabis-breeding-fundamentals]]. It embodies the shift from older landrace-based genetics toward purpose-built boutique varieties optimized for both potency and sensory appeal.
 
 ## Lineage
 
@@ -34,11 +34,11 @@ Biscotti is a three-way cross of Girl Scout Cookies (GSC), Gelato #25, and South
 
 Girl Scout Cookies contributes the complex Cookie terpene foundation — sweet, earthy, and slightly pungent notes that define the family. Gelato #25 adds creamy, dessert-like sweetness and a purple-leaning bud coloration, while South Florida OG provides the heavy sedative body effects and elevated THC production.
 
-The exact ratios of each parent in the cross are not publicly disclosed by the Cookies breeding program. Phenotypic variation among Biscotti seeds is moderate, with some expressions leaning more Cookie-dominant and others showing stronger OG influence in both morphology and effect.
+The exact ratios of each parent in the cross are not publicly disclosed by the Cookies [[cervantes-breeding-program-design-goal-setting]]. Phenotypic variation among Biscotti seeds is moderate, with some expressions leaning more Cookie-dominant and others showing stronger OG influence in both morphology and effect.
 
 Biscotti itself has been used as a parent in numerous second-generation crosses. Notable derivatives include Biscotti Sherbet (Biscotti × Sherbet), Biscotti Sundae (Biscotti × Ice Cream Cake), and multiple Gelato backcrosses that incorporate Biscotti traits.
 
-The South Florida OG parent is a relatively rare cut within the broader OG family, distinguished by its tropical climate adaptation and particularly pungent fuel aroma. Its inclusion in the Biscotti cross distinguishes it from other Cookies-family hybrids that rely more heavily on Northern California OG cuts.
+The South Florida OG parent is a relatively rare cut within the broader OG family, distinguished by its tropical [[jeavons-climate-adaptation-growing-seasons]] and particularly pungent fuel aroma. Its inclusion in the Biscotti cross distinguishes it from other Cookies-family hybrids that rely more heavily on Northern California OG cuts.
 
 Some breeders have speculated that the South Florida OG parent may carry Afghani landrace genetics introduced to Florida during the 1970s and 1980s. This would explain its unusual heat tolerance and the intensity of its sedative effects relative to other OG phenotypes.
 
@@ -90,9 +90,9 @@ Biscotti is well-suited for evening or nighttime use due to its strong sedative 
 
 Flowering time indoors is approximately 8–9 weeks, with yields of 12–16 oz per square meter under optimal conditions. The strain performs best in controlled indoor environments with consistent temperatures (68–80 °F) and moderate humidity (45–55% RH) during flowering.
 
-Biscotti is considered moderately difficult to cultivate, requiring attention to nutrient management and environmental control. The dense bud structure makes it susceptible to bud rot in high-humidity environments, so adequate airflow and dehumidification are essential during late flowering.
+Biscotti is considered moderately difficult to cultivate, requiring attention to [[green-cannabis-grow-bible-nutrient-management-ppm]] and [[eclss-environmental-control-life-support]]. The dense bud structure makes it susceptible to bud rot in high-humidity environments, so adequate airflow and dehumidification are essential during late flowering.
 
-Training techniques such as low-stress training (LST) and scrogging are recommended to maximize light penetration and yield. The strain responds well to defoliation during the early flowering stretch, which helps manage humidity and exposes bud sites to more light.
+[[cannabis-training-techniques-comparison]] such as low-stress training (LST) and scrogging are recommended to maximize light penetration and yield. The strain responds well to defoliation during the early flowering stretch, which helps manage humidity and exposes bud sites to more light.
 
 ### Side Effects
 

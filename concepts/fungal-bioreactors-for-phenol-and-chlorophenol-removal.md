@@ -1,17 +1,12 @@
 ---
-title: Fungal Bioreactors for Phenol and Chlorophenol Removal
+title: Fungal fungal bioreactors for phenol and chlorophenol removal and Chlorophenol Removal
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-
-# Fungal Bioreactors for Phenol and Chlorophenol Removal
-
-Fungal bioreactors have been developed for the removal of phenols, chlorophenols, and pentachlorophenol (PCP). These bioreactors remain largely in the developmental phase, with scaling challenges related to different optimum operating conditions. Logan et al. (1994) identified key design considerations: long detention times (10-40 days from inoculation to complete PCP removal), case-by-case study of chemical adsorption, and the significance of system design for producing shallow fluid interfaces.
-
-The treatment of phenolic wastewaters is a significant environmental challenge, as phenols and chlorophenols are common pollutants from industries including petroleum refining, pulp and paper production, coal conversion, and pesticide manufacturing. Conventional treatments such as activated carbon adsorption and chemical oxidation are expensive, motivating interest in biological alternatives. See [[white-rot-fungi-bioremediation]] for more on white-rot fungal treatment systems.
+# Fungal Bioreactors for Phenol and Chlorophenol Removal Fungal bioreactors have been developed for the removal of phenols, chlorophenols, and pentachlorophenol (PCP). These bioreactors remain largely in the developmental phase, with scaling challenges related to different optimum operating conditions. Logan et al. (1994) identified key design considerations: long detention times (10-40 days from inoculation to complete PCP removal), case-by-case study of chemical adsorption, and the significance of system design for producing shallow fluid interfaces. The treatment of phenolic wastewaters is a significant environmental challenge, as phenols and chlorophenols are common pollutants from industries including petroleum refining, pulp and paper production, coal conversion, and pesticide manufacturing. Conventional treatments such as activated carbon adsorption and chemical oxidation are expensive, motivating interest in biological alternatives. See [[white-rot-fungi-bioremediation]] for more on white-rot fungal treatment systems.
 
 ## Enzymatic Degradation Systems
 
@@ -19,9 +14,9 @@ The use of enzymes opens new approaches for treating hazardous phenolic wastewat
 
 Key enzymes employed:
 
-- Lignin peroxidase (LiP)
+- [[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP)
 
-- Manganese peroxidase (MnP)
+- [[fungal-manganese-peroxidase-remediation]] (MnP)
 
 - Laccase
 
@@ -29,12 +24,12 @@ Key enzymes employed:
 
 - Tyrosinase
 
-Enzyme-based systems avoid many of the challenges associated with maintaining living fungal cultures, such as sensitivity to toxic shock loads and competition from bacterial contaminants. However, enzyme production costs and operational stability remain barriers to widespread adoption. The [[fungal-bioremediation]]
+Enzyme-based systems avoid many of the challenges associated with maintaining living fungal cultures, such as sensitivity to toxic shock loads and competition from bacterial contaminants. However, [[ligninolytic-enzyme-production-bioremediation]] costs and operational stability remain barriers to widespread adoption. The fungal-bioremediation
 
 - [[enzymatic-degradation-in-mycoremediation]]
 
 - [[mycoremediation-enzymology]]
-- [[singh-fungal-treatment-industrial-wastewaters-overview]]
+- singh-fungal-treatment-industrial-wastewaters-overview
 - [[singh-ligninolytic-enzymes-fungal-bioremediation]]
 ## Practical Applications
 
@@ -113,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

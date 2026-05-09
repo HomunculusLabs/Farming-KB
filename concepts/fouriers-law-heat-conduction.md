@@ -48,14 +48,14 @@ High conductivity increases diffusivity, while high density or heat capacity sto
 
 With internal heat generation, a volumetric source term appears and is essential for nuclear fuel, batteries, reactors, and electronics.
 
-Many design calculations are therefore boundary-value problems built around Fourier conduction and energy conservation.
+Many design calculations are therefore boundary-value problems built around Fourier conduction and [[mollison-designers-home-energy-conservation-and-solar-heating]].
 
 Analytical solutions exist for simple shapes, while complex assemblies usually require finite difference, finite volume, or finite element methods.
 
 ## Material Dependence
 Thermal conductivity varies over many orders of magnitude across [[phase-change-materials-thermal-energy-storage]] olids, and phase-change materials.
 
-Moisture content is important in building materials because liquid water conducts heat much better than dry air in pores.
+Moisture content is important in [[natural-building-materials-guide]] because liquid water conducts heat much better than dry air in pores.
 
 Microstructure matters: grain boundaries, dislocations, precipitates, porosity, and interfaces scatter heat carriers.
 
@@ -66,7 +66,7 @@ Fourier's law is the starting point for insulation thickness calculations in bui
 
 It estimates temperature drops across electronic packages, where small thermal resistances can determine device reliability.
 
-It is used in quenching, casting, welding, and additive manufacturing because therm passive solar greenhouse design and energy systems rive cooling rates and residual stresses.
+It is used in quenching, casting, welding, and additive manufacturing because therm [[comparison-passive-solar-vs-earth-sheltered]] greenhouse design and energy systems rive cooling rates and residual stresses.
 
 In energy systems, conductive losses through walls and supports are part of efficiency, safety, and thermal management budgets.
 

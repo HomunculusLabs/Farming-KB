@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Farjon, A. (2017). "A Handbook of the World's Conifers." Brill.
-  - Harris, A.S. (1990). "Picea sitchensis." In: Silvics of North America. USDA Forest Service.
+  - Harris, A.S. (1990). "Picea sitchensis." In: Silvics of [[psilocybin-north-america-pacific-northwest]]. USDA Forest Service.
   - Packee, E.C. (1990). "Sitka Spruce." In: Burns, R.M. & Honkala, B.H. (eds.), Silvics of North America, Vol. 1.
   - IUCN Red List (2023). "Picea sitchensis."
 ---
@@ -20,7 +20,7 @@ sources:
 
 **Picea sitchensis**, the Sitka spruce, is a large evergreen conifer in the family Pinaceae and the largest species of spruce. It is native to the coastal temperate rainforests of northwestern North America.
 
-The species is among the most commercially important timber trees in the world, forming the backbone of the forestry industry in the Pacific Northwest of the United States and in the British Isles.
+The species is among the most commercially important timber trees in the world, forming the backbone of the forestry industry in the Pacific Northwest of the [[dmt-containing-plants-united-states-halpern]] and in the British Isles.
 
 Mature trees routinely exceed 60 meters in height, with the current champion reaching over 96 meters. The species is distinguished by its large, sharp-pointed cones, scaly bark, and remarkably fast growth rate in favorable coastal conditions.
 
@@ -58,7 +58,7 @@ Elevational range spans from sea level to approximately 900 meters, with the tal
 
 The species thrives in the cool, wet maritime climate of the Pacific Northwest, where annual precipitation ranges from 1,000 to over 5,000 mm. Fog drip is a critical supplemental moisture source during dry summer months.
 
-It grows on a wide range of soil types but performs best on deep, well-drained alluvial and colluvial soils with ample organic matter.
+It grows on a wide range of soil types but performs best on deep, well-drained alluvial and colluvial soils with ample [[hamilton-composting-and-organic-matter-management]].
 
 Stands at the southern edge of the range in California are increasingly fragmented and show signs of climate-related stress, with declining growth rates and increased mortality.
 
@@ -82,7 +82,7 @@ Sitka spruce produces a light, strong, and relatively straight-grained timber wi
 
 The wood is pale yellow-white with a subtle pinkish tinge and indistinct grain. It works easily and holds nails and screws well, though it is not naturally durable.
 
-Primary uses include structural timber for construction, plywood, pulpwood, and paper production. In the Pacific Northwest, it has historically been used for aircraft construction (notably the de Havilland Mosquito during WWII) and boat building.
+Primary uses include [[singh-wood-rot-fungi-structural-timber-decay]] for construction, plywood, pulpwood, and paper production. In the Pacific Northwest, it has historically been used for aircraft construction (notably the de Havilland Mosquito during WWII) and boat building.
 
 Sitka spruce soundboards are highly prized by musical instrument makers, particularly for acoustic guitars, pianos, and harpsichords, due to their excellent acoustic resonance properties.
 

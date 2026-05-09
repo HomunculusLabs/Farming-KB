@@ -1,5 +1,5 @@
 ---
-title: Tabletop Mycofiltration Unit Construction
+title: Tabletop tabletop mycofiltration unit construction Construction
 created: 2026-04-28
 tags: [DIY, mycofiltration, water-treatment, fungi]
 date: 2026-04-25
@@ -13,7 +13,7 @@ connects directly to the broader science of [[bioaugmentation-strategies]] for c
 
 ## Design Philosophy
 
-[[stamets-spawn-making-and-grain-culture|sawdust spawn]] from the selected fungal species, filling each tier.
+[[growing-gourmet-sawdust-spawn-production-use]] from the selected fungal species, filling each tier.
 - **Tubing**: For water recirculation between the collection
   reservoir and the top tier.
 - **Collection reservoir**: Catches filtered water for testing
@@ -38,7 +38,7 @@ performance.
 Fill each tier with fully colonized mycelial substrate. The
 biomass should be intact and well-consolidated to prevent
 channeling of water through gaps. Ensure the mycelium is actively
-growing, not stalled or contaminated. The [[stropharia-rugosoannulata|king stropharia]] and [[biobleaching-of-pulp-by-white-rot-fungi]] and related research demonstrates that enzymatic extraction from fungal biomass is feasible at bench scale. The tabletop unit can be modified for enzyme harvesting by
+growing, not stalled or contaminated. The [[stropharia-rugosoannulata|king stropharia]] and biobleaching-of-pulp-by-white-rot-fungi and related research demonstrates that enzymatic extraction from [[bioremediation-fungal-biomass-biosorbent-material]] is feasible at bench scale. The tabletop unit can be modified for enzyme harvesting by
 inserting small sterile, open-ended tubing into the biomass,
 accessible from the exterior and typically positioned at an angle
 that can be capped. Solutions added through these tubes infuse
@@ -65,7 +65,7 @@ Building test units helps determine the most effective fungal
 species for a given contaminant. Not all mushrooms are created
 equal, and different strains of the same species can exhibit
 profound differences. Some are extremely selective "picky eaters,"
-while others, like oyster mushrooms, will consume nearly any
+while others, like [[query-how-to-grow-oyster-mushrooms-at-home]], will consume nearly any
 substrate offered. Many can be trained to adapt to different
 environmental conditions or to remediate high contaminant levels.
 
@@ -82,5 +82,5 @@ effectiveness.
 
 ## Scaling Considerations
 
-[[stamets-mycoremediation-principles]] for the foundational science behind fungal remediation
+stamets-mycoremediation-principles for the foundational science behind [[cotter-pet-livestock-waste-fungal-remediation-systems]]
 - [[stropharia-rugoso-annulata-mycofiltration]] for species-specific filtration applications

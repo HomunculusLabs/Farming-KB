@@ -24,9 +24,9 @@ created: 2026-04-28
 
 **Terminalia catappa** (tropical almond, Indian almond, or sea almond) is a large deciduous tree in the family Combretaceae. Native to the Indo-Pacific region, it is widely planted throughout the tropics as a shade tree, ornamental, and agroforestry species.
 
-The tree produces edible almond-flavored seeds that are commercially harvested in many tropical countries. Its broad, symmetrical canopy and salt tolerance make it a popular coastal landscaping tree. Leaves undergo dramatic color changes from green to red before abscission.
+The tree produces edible almond-flavored seeds that are commercially harvested in many tropical countries. Its broad, symmetrical canopy and [[fungal-salt-tolerance-and-ion-homeostasis]] make it a popular coastal landscaping tree. Leaves undergo dramatic color changes from green to red before abscission.
 
-In traditional medicine across Southeast Asia and the Pacific Islands, the leaves, bark, and fruit are used to treat various ailments. Modern research has confirmed antioxidant, anti-inflammatory, and hepatoprotective activities in leaf and bark extracts.
+In traditional medicine across [[psilocybe-southeast-asia-pacific]] and the Pacific Islands, the leaves, bark, and fruit are used to treat various ailments. Modern research has confirmed antioxidant, anti-inflammatory, and hepatoprotective activities in leaf and bark extracts.
 
 ## Taxonomy and Morphology
 
@@ -90,19 +90,19 @@ Anti-inflammatory effects have been demonstrated in carrageenan-induced paw edem
 
 Hepatoprotective activity has been confirmed in CCl₄-induced liver injury models, where pretreatment with leaf extract at 200 mg/kg reduced serum ALT and AST levels by 40–60%. The mechanism involves antioxidant protection of hepatocyte membranes.
 
-Antimicrobial activity has been reported against Gram-positive bacteria (*Staphylococcus aureus*, *Bacillus subtilis*) and some fungal pathogens. Activity against Gram-negative bacteria is generally weaker.
+Antimicrobial activity has been reported against Gram-positive bacteria (*Staphylococcus aureus*, *Bacillus subtilis*) and some [[bloomfield-fungal-pathogens-and-parasites]]. Activity against Gram-negative bacteria is generally weaker.
 
 ## Agroforestry and Permaculture Applications
 
 In permaculture systems, *T. catappa* serves multiple functions including shade, windbreak, soil improvement, and food production.
 
-Its deep taproot system helps break compacted subsoil layers and brings up nutrients from deep soil horizons. This dynamic nutrient cycling benefits neighboring plants in the agroforestry system.
+Its deep taproot system helps break compacted subsoil layers and brings up nutrients from deep soil horizons. This dynamic [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] benefits neighboring plants in the agroforestry system.
 
-Fallen leaves contribute significant organic matter to the soil surface. The leaf litter decomposes moderately quickly, releasing nutrients and improving soil structure. In aquaculture, dried leaves are added to fish ponds to control pH and provide tannin-rich water conditions favored by certain ornamental fish species.
+Fallen leaves contribute significant [[hamilton-composting-and-organic-matter-management]] to the soil surface. The leaf litter decomposes moderately quickly, releasing nutrients and improving soil structure. In aquaculture, dried leaves are added to fish ponds to control pH and provide tannin-rich water conditions favored by certain ornamental fish species.
 
 The tree is commonly used in coastal agroforestry as an upper-canopy component in multi-strata systems. It is compatible with understory crops including coffee, cacao, vanilla, and various fruit trees.
 
-Its salt tolerance makes it valuable for coastal reclamation and stabilization of sandy soils. In beachfront plantings, it provides wind protection and reduces sand erosion. The dense canopy also creates favorable microclimates for understory establishment.
+Its salt tolerance makes it valuable for coastal reclamation and stabilization of sandy soils. In beachfront plantings, it provides [[cervantes-wind-protection-outdoor-cannabis]] and reduces sand erosion. The dense canopy also creates favorable microclimates for understory establishment.
 
 Timber from *T. catappa* is moderately dense (0.5–0.7 g/cm³), reddish-brown, and moderately durable.
 
@@ -114,4 +114,4 @@ It is used locally for construction, boat building, furniture, and firewood. Alt
 - [[azadirachta-indica]]
 - [[pachyrhizus-erosus]]
 - [[glycyrrhiza-glabra]]
-- [[acacia-confusa]]
+- acacia-confusa

@@ -1,19 +1,13 @@
 ---
-title: Mushroom Spore Syringes
+title: emcdda-hallucinogenic-mushroom-spore-distribution-home-cultivation Syringes
 created: 2026-04-28
-tags: [[mycology, mushroom-cultivation, spores, inoculation, sterilization]
+tags: [mycology, mushroom-cultivation, spores, inoculation, sterilization]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
 type: concept
 ---
-
-# Mushroom Spore Syringes
-
-A spore syringe is a suspension of mushroom spores in sterile water, packaged
-in a syringe for convenient inoculation of mushroom cultivation substrates.
-Spore syringes are the most common starting material for home mushroom
-cultivation, particularly for [[mushroom-liquid-culture]], which
+# Mushroom Spore Syringes A spore syringe is a suspension of mushroom spores in sterile water, packaged in a syringe for convenient inoculation of mushroom cultivation substrates. Spore syringes are the most common starting material for home mushroom cultivation, particularly for [[mushroom-liquid-culture]], which
 contains clonal mycelium from a single genetic individual.
 
 ## Spore Syringe Construction
@@ -38,16 +32,16 @@ A properly prepared spore syringe consists of:
 
 ## Sterilization and Contamination Prevention
 
-Maintaining sterility throughout spore syringe preparation and use is critical:
+Maintaining sterility throughout spore [[mushroom-spore-printing-syringe-preparation-pf-tek]] and use is critical:
 
-- **Spore print collection**: The mushroom cap should be placed on a surface
+- **Spore [[spore-print-collection-spore-mass-inoculation]]**: The mushroom cap should be placed on a surface
   sterilized with alcohol or flame in a clean environment. A still-air box or
-  laminar flow hood significantly reduces contamination risk.
+  [[comparison-laminar-flow-hood-vs-fruiting-chamber]] hood significantly reduces contamination risk.
 
 - **Water sterilization**: Water must be sterilized, typically by pressure
   cooking (autoclaving) at 15 PSI for 15-20 minutes before use.
 
-- **Syringe sterilization**: Syringes can be sterilized by boiling or
+- **[[pf-tek-spore-syringe-sterilization-boiling-method]]**: Syringes can be sterilized by boiling or
   autoclaving. Many vendors sell pre-sterilized syringes.
 
 - **Spore suspension**: The spore scraping and water mixing process should
@@ -81,7 +75,7 @@ to shake and distribute the inoculant.
 
 Spore solution can be streaked onto [[psilocybin]] species are legal to possess and distribute because the spores
 themselves do not contain controlled substances (psilocybin and psilocin are
-produced only after germination and mycelial growth). However, several US
+produced only after germination and [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]). However, several US
 states (California, Georgia, and Idaho) have explicitly banned psilocybin
 mushroom spores. Laws change frequently, and cultivators should verify the
 current legal status in their jurisdiction.

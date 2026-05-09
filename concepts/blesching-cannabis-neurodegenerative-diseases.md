@@ -98,7 +98,7 @@ a dose-dependent manner.
 
 Laboratory studies in Italy (2009) and Spain (2010) echoed results on the
 neuroprotective properties of cannabinoids. Researchers discovered that while
-the drug ecstasy (MDMA) produces hyperthermia, oxidative stress, and neuronal
+the drug ecstasy (MDMA) produces hyperthermia, [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], and neuronal
 damage, especially at higher room temperatures, THC causes the opposite
 (namely hypothermic, anti-inflammatory, and antioxidant effects).
 
@@ -121,12 +121,12 @@ The results of these pre-clinical studies suggest:
   cannabinoid receptor system
 
 CBD has a higher affinity for CB2, while THC binds relatively equally to CB1
-and CB2. Clinical trials conducted on humans will ultimately prove whether
+and CB2. [[mushroom-cancer-clinical-trials-overview]] conducted on humans will ultimately prove whether
 or not the pre-clinical results translate directly to the human condition.
 
 Both basic strains provide biologically active full-spectrum cannabinoid and
 non-cannabinoid plant materials. Indicas and indica-heavy hybrids contain a
-lower THC:CBD ratio favoring CB2 expression when compared to sativas or
+lower THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]] favoring CB2 expression when compared to sativas or
 sativa-heavy strains.
 
 Raw, fresh leaf or juice contains non-psychoactive CBD-acid at higher

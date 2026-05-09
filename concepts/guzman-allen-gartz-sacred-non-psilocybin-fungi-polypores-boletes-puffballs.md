@@ -2,7 +2,7 @@
 title: Sacred Non-Psilocybin Fungi — Polypores, Boletes, Puffballs, and Indigenous Religious Use
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 source_author: Gastón Guzmán, John W. Allen, Jochen Gartz
-source_title: "A Worldwide Geographical Distribution of the Neurotropic Fungi"
+source_title: "A Worldwide Geographical Distribution of the [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]"
 topics: sacred fungi, non-psilocybin, polypores, boletes, puffballs, Ganoderma, Laetiporus, Meripilus, Fomes, religious use, indigenous, New Guinea
 ---
 
@@ -24,7 +24,7 @@ Thoen (1982) documented the use of several polypore species in religious ceremon
 
 - **Polyporus tuberaster** — Used in magical ceremonies, though no specific details of its ceremonial role are provided in the survey.
 - **Poria cocos** (now *Wolfiporia cocos*) — A well-known medicinal fungus in Traditional Chinese Medicine, used for its calming properties and as a diuretic. Its ceremonial use suggests that medicinal and spiritual functions were not clearly separated in indigenous practice.
-- **Ganoderma lucidum** — Perhaps the most famous medicinal mushroom in the world, known as *lingzhi* in Chinese and *reishi* in Japanese. Its use in religious ceremonies reflects its status as a symbol of longevity, spiritual potency, and divine favor in East Asian cultures.
+- **[[stamets-reishi-ganoderma-lucidum-cultivation]]** — Perhaps the most famous [[gourmet-medicinal-mushroom-casing-layer-techniques]] in the world, known as *lingzhi* in Chinese and *reishi* in Japanese. Its use in religious ceremonies reflects its status as a symbol of longevity, spiritual potency, and divine favor in East Asian cultures.
 - **Fomes fomentarius** — The tinder fungus, widely distributed across the Northern Hemisphere. Its use in magical ceremonies may relate to its role in fire-making — the ability to create fire being a quasi-magical technology in pre-industrial societies.
 
 ## Ganoderma lobatum: The Mushroom Worshiped as a Saint
@@ -33,7 +33,7 @@ One of the most remarkable cases documented in the survey is the cult of **Ganod
 
 Guzmán notes that there is no evidence of neurotropic properties in *G. lobatum*. Its veneration is probably related to the use of neurotropic species of *Psilocybe* in the same region, where active species are commonly found. The proximity of psychoactive *Psilocybe* species may have created an associative link between fungi in general and spiritual experience, leading to the elevation of visually striking non-psychoactive species like *G. lobatum* to sacred status.
 
-This case demonstrates the principle of **fungal syncretism**: the tendency for the spiritual significance of psychoactive mushrooms to "bleed over" onto non-psychoactive species that share the same habitat, visual characteristics, or cultural context. The indigenous classification system recognizes a category of "sacred fungi" that is broader than the pharmacological category of "psychoactive fungi."
+This case demonstrates the principle of **fungal syncretism**: the tendency for the spiritual significance of psychoactive mushrooms to "bleed over" onto non-psychoactive species that share the same habitat, visual characteristics, or cultural context. The indigenous classification system recognizes a category of "sacred fungi" that is broader than the pharmacological category of "[[cattle-dispersal-psychoactive-fungi-australia]]."
 
 ## [[chicken-of-the-woods]]) and **Meripilus giganteus** (giant polypore) contain hordenine, N-methyltyramine, and tyramine — compounds that produce certain chemical reactions in the central nervous system resulting in dizziness and disorientation. These effects led to the species being classified as "psychotropic fungi," a designation that the survey treats with caution.
 
@@ -49,7 +49,7 @@ The New Guinea bolete case also raises the question of **Russula** species. Sing
 
 ## Puffballs: "Fallen Stars" and Mixtec Narcotic Fungi
 
-The survey documents a complex pattern of puffball use among indigenous peoples of the Americas. Among certain North American Indian peoples, puffballs growing in fairy rings on the prairies were referred to as **"fallen stars"** — a cosmological name connecting the humble earthbound fungus to celestial phenomena. Burk (1983) discussed the magic and religious uses of several unidentified puffball species among these communities.
+The survey documents a complex pattern of puffball use among indigenous peoples of the Americas. Among certain North [[harner-american-indian-peyote-rituals]] peoples, puffballs growing in fairy rings on the prairies were referred to as **"fallen stars"** — a cosmological name connecting the humble earthbound fungus to celestial phenomena. Burk (1983) discussed the magic and religious uses of several unidentified puffball species among these communities.
 
 The Mixtec Indians of Oaxaca present an even more complex case. Heim and Wasson (1962) and Heim et al. (1967) reported the use of *[[astraeus-hygrometricus]]*, and *Scleroderma verrucosum*.
 
@@ -91,4 +91,8 @@ The key difference is that *A. muscaria* is genuinely psychoactive, whereas many
 
 ## Conclusion
 
-The study of sacred non-psilocybin fungi reveals the limitations of pharmacological reductionism in understanding human-fungal relationships. Indigenous peoples around the world have venerated fungi for reasons that extend far beyond their chemical composition — for their visual drama, their ecological behavior, their medicinal properties, their cosmological symbolism, and their role in ceremonial practice. The cases documented by Guzmán, Allen, and Gartz remind us that the sacred category is defined by cultural use, not by laboratory analysis, and that the full scope of human-fungal relationships can only be understood by taking indigenous knowledge seriously on its own terms.
+The study of sacred non-psilocybin fungi reveals the limitations of pharmacological reductionism in understanding human-fungal relationships. Indigenous peoples [[fungi-around-the-world-species-distribution]] have venerated fungi for reasons that extend far beyond their chemical composition — for their visual drama, their ecological behavior, their medicinal properties, their cosmological symbolism, and their role in ceremonial practice. The cases documented by Guzmán, Allen, and Gartz remind us that the sacred category is defined by cultural use, not by laboratory analysis, and that the full scope of human-fungal relationships can only be understood by taking indigenous knowledge seriously on its own terms.
+
+## See Also
+
+- [[sacred-gasteromycetes-non-psilocybin-psychoactive-fungi]]

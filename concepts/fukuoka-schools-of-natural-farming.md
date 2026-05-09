@@ -1,5 +1,5 @@
 ---
-title: Schools of natural farming — Mahayana and Hinayana
+title: fukuoka schools of natural farming farming — Mahayana and Hinayana
 created: 2026-05-08
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-fukuoka.md
@@ -17,11 +17,11 @@ Fukuoka distinguished between two fundamentally different approaches
 to natural farming. The first he called broad, transcendent natural
 farming; the second, the narrow natural farming of the relative
 world. In Buddhist terms, these correspond respectively to Mahayana
-and Hinayana natural farming. The distinction is not merely
+and [[fukuoka-mahayana-and-hinayana-natural-farming]] farming. The distinction is not merely
 philosophical but has profound practical implications for how a
 farmer relates to the land.
 
-natural-farming]] arises of itself when a unity exists between
+natural-farming arises of itself when a unity exists between
 human beings and nature. It conforms to nature as it is and to the
 mind as it is. It proceeds from the conviction that if the individual
 temporarily abandons human will and allows themselves to be guided by
@@ -99,5 +99,5 @@ tangible in every day spent on the farm.
 
 - fukuoka natural farming
 - fukuoka no till
-- fukuoka straw mulch
-- fukuoka seed ball
+- fukuoka [[fukuoka-rice-straw-mulch-central-technique]]
+- fukuoka [[clay-pellet-seed-ball-method-for-desert-revegetation]]

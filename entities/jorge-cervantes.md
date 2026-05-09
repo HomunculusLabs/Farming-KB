@@ -13,7 +13,7 @@ nationality: American
 fields:
   - cannabis horticulture
   - indoor gardening
-  - medical cannabis cultivation
+  - medical [[query-how-does-no-till-cannabis-cultivation-work]]
 known_for:
   - Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible
   - The Cannabis Encyclopedia
@@ -43,7 +43,7 @@ tags:
 
 Jorge Cervantes is the pen name of George Van Patten, an American horticulturist, publisher, photographer, and writer best known for cannabis cultivation manuals.
 He became influential because his books translated practical indoor, outdoor, greenhouse, and guerrilla-garden experience into repeatable horticultural instructions.
-His work is frequently cited in cultivation pages on seed germination, cloning, flowering, pest control, hash making, grow-room design, and perpetual harvest scheduling.
+His work is frequently cited in cultivation pages on seed germination, cloning, flowering, pest control, hash making, grow-room design, and [[cervantes-perpetual-harvest-cycle]] scheduling.
 Cervantes is especially associated with *Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible*, a book that helped standardize cannabis grower vocabulary in the late twentieth and early twenty-first centuries.
 The name "Jorge Cervantes" functions as both an author identity and a brand for instructional cannabis horticulture.
 Because he wrote for growers rather than only for botanists, his importance is practical: lighting, air movement, substrate, pruning, propagation, harvest, drying, and troubleshooting.
@@ -54,7 +54,7 @@ George Van Patten was born in 1953 and grew up in Ontario, Oregon.
 As a young person he worked for *The Argus Observer*, where he learned photography, printing, layout, and publicity.
 Those publishing skills later mattered because his early books depended on self-printing, visual explanation, and distribution outside conventional horticultural publishing channels.
 He studied abroad at the University of Valencia in Spain and at the University of the Americas in Puebla, Mexico.
-His time in Mexico contributed to a long-standing interest in cannabis culture and Spanish-language terminology, including the phrase *sin semilla* for seedless high-quality flower.
+His time in Mexico contributed to a long-standing interest in [[mckenna-cannabis-culture-history]] and Spanish-language terminology, including the phrase *sin semilla* for seedless high-quality flower.
 He graduated from Portland State University in 1977.
 After college he worked in landscape gardening and later used that horticultural experience in writing about controlled-environment cultivation.
 The pen name Jorge Cervantes helped separate his public cannabis writing from the legal and social risks attached to the subject during prohibition-era enforcement.
@@ -79,7 +79,7 @@ The fifth edition was translated into multiple languages, including Dutch, Frenc
 *The Cannabis Encyclopedia* broadened the scope from grow-room practice to a large-format reference on cultivation and consumption of medical cannabis.
 His books are notable for treating cannabis as a demanding horticultural crop rather than as a purely cultural or legal topic.
 They emphasize observation: leaf posture, root condition, pest traces, nutrient symptoms, humidity, and maturity indicators.
-The books also helped normalize technical vocabulary around HID lighting, reflective materials, clones, mother plants, flowering photoperiods, trichomes, and curing.
+The books also helped normalize technical vocabulary around HID lighting, [[cervantes-reflective-materials-grow-room-walls]], clones, mother plants, flowering photoperiods, trichomes, and curing.
 
 ## Core Techniques Associated with His Work
 
@@ -94,7 +94,7 @@ He often frames plant problems diagnostically, encouraging growers to identify t
 ## Legal and Historical Context
 
 Cervantes wrote during decades when cannabis cultivation was criminalized in much of the United States.
-That context shaped the use of pseudonyms, mail-order publishing, indoor secrecy, and "guerrilla" outdoor cultivation methods.
+That context shaped the use of pseudonyms, mail-order publishing, indoor secrecy, and "guerrilla" outdoor [[synthetic-log-cultivation-methods-guide]].
 The DEA's Operation Green Merchant in 1989 targeted indoor-gardening suppliers and closed Cervantes' indoor garden store along with many others.
 After that enforcement period, some cultivation material was reframed as general indoor gardening or hydroponics to reduce legal exposure.
 His later career overlapped with medical cannabis legalization and the growth of licensed cultivation businesses.
@@ -119,7 +119,7 @@ Cervantes' strongest domain is cultivation practice, while Clarke's strongest do
 
 - *Indoor Marijuana Horticulture*.
 - *Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible*.
-- *The Cannabis Encyclopedia: The Definitive Guide to Cultivation & Consumption of Medical Marijuana*.
+- *The Cannabis Encyclopedia: The Definitive Guide to Cultivation & Consumption of [[cervantes-medical-marijuana-pharmacology]]*.
 - Instructional cultivation videos and DVDs.
 - *High Times* articles and the "Jorge's Rx" column.
 

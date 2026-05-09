@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Maas Geesteranus, R.A. (1971). "Hydnellum spongiosipes." Persoonia 6(3): 307-312.
-  - Baird, R.E. et al. (2013). "An annotated checklist of the Hydnaceae." Fungal Diversity 58(1): 255-274.
+  - Baird, R.E. et al. (2013). "An annotated checklist of the Hydnaceae." [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] 58(1): 255-274.
   - Kõljalg, U. et al. (2013). "Towards a unified paradigm for sequence-based identification of fungi." Molecular Ecology 22(21): 5271-5277.
   - Coker, W.C. & Beers, A.H. (1951). "The Boletaceae of North Carolina." University of North Carolina Press.
 created: 2026-05-07
@@ -19,11 +19,11 @@ created: 2026-05-07
 
 ## Overview
 
-**Hydnellum spongiosipes** is a species of tooth fungus in the family Bankeraceae. It forms ectomycorrhizal associations with hardwood trees, particularly oaks and beeches, across temperate forests of Europe and eastern North America.
+**Hydnellum spongiosipes** is a species of tooth fungus in the family Bankeraceae. It forms ectomycorrhizal associations with hardwood trees, particularly oaks and beeches, across temperate forests of Europe and [[polypore-fungi-eastern-north-america]] America.
 
 The species is recognized by its felty, brownish-orange to dark brown cap surface and its cream-colored spines that stain reddish-brown when bruised. It is closely related to the bleeding tooth fungus (*Hydnellum peckii*) but lacks the dramatic red fluid exudation.
 
-Like other Bankeraceae, *H. spongiosipes* is inedible due to its tough, corky flesh and acrid taste. It is of ecological interest for its role in forest nutrient cycling and its sensitivity to atmospheric nitrogen deposition.
+Like other Bankeraceae, *H. spongiosipes* is inedible due to its tough, corky flesh and acrid taste. It is of ecological interest for its role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and its sensitivity to atmospheric [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]].
 
 ## Taxonomy and Morphology
 
@@ -61,7 +61,7 @@ Basidia are club-shaped, four-spored, and measure 30 to 40 by 7 to 9 µm. Hyphal
 
 The species fruits from late summer through autumn, typically August to November. Fruiting is solitary to scattered, occasionally in small trooping groups on the forest floor.
 
-Preferred habitat is old-growth and mature secondary forests dominated by *Quercus* (oak), *Fagus* (beech), and occasionally *Betula* (birch). It requires well-drained, acidic to neutral soils with substantial organic matter accumulation.
+Preferred habitat is old-growth and mature secondary forests dominated by *Quercus* (oak), *Fagus* (beech), and occasionally *Betula* (birch). It requires well-drained, acidic to neutral soils with substantial [[hamilton-composting-and-organic-matter-management]] accumulation.
 
 The species shows a strong preference for forests with continuous canopy cover and minimal soil disturbance. It is considered an indicator of old-growth forest conditions in parts of its range.
 
@@ -77,7 +77,7 @@ Pigments from *H. spongiosipes* have been investigated as potential natural dyes
 
 ## Ecology
 
-As an ectomycorrhizal symbiont, *H. spongiosipes* forms mutualistic associations with the fine roots of host trees. The fungal mycelium envelops root tips in a mantle structure, facilitating bidirectional nutrient exchange.
+As an ectomycorrhizal symbiont, *H. spongiosipes* forms mutualistic associations with the fine roots of host trees. The fungal mycelium envelops root tips in a mantle structure, facilitating bidirectional [[arbuscule-isolation-and-nutrient-exchange-mechanisms]].
 
 The fungus receives photosynthetically derived carbon from the host tree. In return, it enhances the tree's access to soil minerals, particularly phosphorus and nitrogen, through enzymatic decomposition of organic matter.
 

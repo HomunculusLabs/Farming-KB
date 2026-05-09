@@ -4,12 +4,13 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, chemistry, medicine, biology, potency, plant-growth, biochemistry]
-sources: []
+sources:
+  sources: []
 ---
 
 # Cannabis Flavonoids
 
-Flavonoids are a diverse class of phytonutrients found throughout the plant kingdom, responsible for the non-green pigmentation in plants (yellow, red, blue, purple hues). In cannabis, flavonoids contribute to flavor, aroma, color, and therapeutic effects. They are less discussed than cannabinoids and terpenes but play an important role in the entourage effect and the plant's medicinal profile.
+Flavonoids are a diverse class of phytonutrients found throughout the plant kingdom, responsible for the non-green pigmentation in plants (yellow, red, blue, purple hues). In cannabis, flavonoids contribute to flavor, aroma, color, and therapeutic effects. They are less discussed than cannabinoids and terpenes but play an important role in the [[cannabis-terpene-entourage-effect-profiles]] and the plant's medicinal profile.
 
 ## What Are Flavonoids?
 
@@ -18,7 +19,7 @@ Flavonoids are polyphenolic compounds with a 15-carbon skeleton (two benzene rin
 Functions in cannabis:
 - Pigmentation: responsible for purple, blue, red, and yellow coloration in flowers and leaves
 - UV protection: flavonoids absorb UV radiation, protecting plant tissues
-- Pathogen defense: antifungal and antimicrobial properties
+- Pathogen defense: antifungal and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]
 - Attraction: color and scent signals for pollinators
 - Allelopathy: some flavonoids inhibit competing plant growth
 
@@ -28,11 +29,11 @@ Cannabis produces several flavonoids that are unique to the species. The most st
 
 ### Cannflavin A
 
-- First isolated in 1986 from Cannabis sativa
+- First isolated in 1986 from [[comparison-cannabis-sativa-vs-cannabis-indica]]
 - A prenylated flavone (flavonoid with an isoprenyl group attached)
 - Potent anti-inflammatory: shown to be 30 times more potent than aspirin at inhibiting COX-2 (cyclooxygenase-2) enzyme
 - Does not produce psychoactive effects
-- Potential therapeutic applications: arthritis, inflammatory bowel disease, neuroinflammation
+- Potential therapeutic applications: arthritis, [[blesching-cannabis-inflammatory-bowel-disease]] disease, neuroinflammation
 - Concentration is very low in raw plant material (typically less than 0.1% of dry weight)
 - Biosynthetic pathway involves prenyltransferase enzymes unique to cannabis
 
@@ -42,7 +43,7 @@ Cannabis produces several flavonoids that are unique to the species. The most st
 - Also shows significant anti-inflammatory activity
 - COX-2 and prostaglandin inhibition
 - Both cannflavins are of significant pharmaceutical interest
-- Genetic engineering research aims to produce cannflavins in other organisms (yeast, bacteria) at commercial scale
+- [[fukuoka-textdoc-genetic-engineering-critique-warning]] research aims to produce cannflavins in other organisms (yeast, bacteria) at commercial scale
 
 ### Cannflavin C and Others
 
@@ -142,30 +143,6 @@ Cool temperatures during flowering trigger anthocyanin accumulation, producing p
 ### Nutrient Status
 
 Phosphorus and potassium levels influence flavonoid biosynthesis. Deficiencies can stress plants into producing more flavonoids as protective compounds, though this is not an optimal production strategy.
-
-### Post-Harvest
-
-Flavonoids are relatively stable compared to terpenes but can degrade with excessive light, heat, or prolonged storage. Proper curing conditions preserve flavonoid content.
-
-## Extraction and Isolation
-
-Flavonoids are typically extracted using:
-- Ethanol extraction (captures flavonoids along with cannabinoids and terpenes)
-- Supercritical CO2 (can be tuned to capture flavonoids)
-- Water extraction (some flavonoids are water-soluble glycosides)
-
-Cannflavin isolation is challenging due to low concentrations in plant material. Synthetic biology approaches (engineered yeast) are being developed to produce cannflavins at scale for pharmaceutical applications.
-
-## Research Status
-
-Cannabis flavonoid research is significantly behind cannabinoid and terpene research. Most studies have been in vitro or in animal models. Key areas of active research:
-
-- Cannflavin A/B anti-inflammatory mechanisms and therapeutic potential
-- Flavonoid contribution to the entourage effect
-- Flavonoid interactions with specific cannabinoid receptors
-- Genetic pathways controlling flavonoid biosynthesis in cannabis
-- Synthetic biology production of cannflavins
-
 ## See Also
 
 - [[cannabis-trichome-guide]] for the glandular structures that house flavonoids

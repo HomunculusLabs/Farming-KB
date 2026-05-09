@@ -5,7 +5,7 @@ updated: 2026-04-23
 type: concept
 tags: [soil-ph, microbiology, nitrification, soil-chemistry]
 sources:
-  - "raw/papers/teaming-with-microbes-lowenfels.md"
+  sources: []
 ---
 
 # Soil pH and Biology
@@ -25,7 +25,7 @@ Nitrifying bacteria do not like acidic environments. Their numbers — and thus 
 
 This has profound implications for gardening:
 
-- In [[teaming-with-microbes-bacteria-the-smallest-workers]] are adapted to live in a wider pH range than other bacteria, from acidic to alkaline, giving them an advantage in variable pH conditions.
+- In  are adapted to live in a wider pH range than other bacteria, from acidic to alkaline, giving them an advantage in variable pH conditions.
 
 ## Fungal dominance and ammonium
 
@@ -33,7 +33,7 @@ As fungal dominance increases along the [[teaming-with-microbes-bacterial-vs-fun
 
 ## Chemical fertilizers disrupt pH balance
 
-With the natural buffering action of bacteria and fungi lost (from chemical fertilizer application — Rule #13), soil pH is thrown out of whack. pH gets lower and lower as more nitrate salts accumulate without the biological buffering system.
+With the natural buffering action of bacteria and fungi lost (from chemical [[cervantes-fertilizer-application-strain-feeding]] — Rule #13), soil pH is thrown out of whack. pH gets lower and lower as more nitrate salts accumulate without the biological buffering system.
 
 This creates a downward spiral: chemical fertilizers kill the soil food web microbes that maintain pH balance, which causes pH to drop further, which further limits microbial activity, requiring more lime or other amendments to correct — amendments that would not be needed if the soil food web were intact.
 
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

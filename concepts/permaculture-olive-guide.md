@@ -1,5 +1,5 @@
 ---
-title: Olive Growing Guide
+title: Olive comparison-bean-growing-guide-vs-pepper-growing-guide
 created: 2026-04-18
 updated: 2026-04-18
 sources: Permaculture Plants: A Selection (Juniper Hall)
@@ -26,7 +26,7 @@ The olive needs full sun and a long, comparatively dry season, with some winter 
 
 ## Soil Requirements
 
-The olive prefers deep, rich, well-drained soil, but can tolerate poorer, shallower soils. Although the olive is very drought tolerant, occasional deep watering in arid climates increases fruit size and production. It will withstand strong winds, making it a useful species for windbreak, and has some salt resistance.
+The olive prefers deep, rich, well-drained soil, but can tolerate poorer, shallower soils. Although the olive is very [[permplant-carob-drought-tolerant-food-tree]], occasional deep watering in arid climates increases fruit size and production. It will withstand strong winds, making it a useful species for windbreak, and has some salt resistance.
 
 ## Production and Longevity
 
@@ -55,24 +55,24 @@ Olives can either be picked green or left until they are fully ripe and starting
 
 Olives can be picked either green or tinged black for pickling, depending on the variety. It is important that the fruit be handled carefully, as they bruise easily. The processing removes the unpalatable bitterness from the olives. Slitting the skins or pricking with a fork will help to speed the process.
 
-Method: Soak olives in fresh water, ensuring that they are fully immersed and rinsing every few days. Black olives should be rinsed and soaked for a week, green olives for two weeks. Then rinse olives and store in an airtight jar in a salt-water solution. The brine should be just strong enough to allow an egg to float in it. Fresh herbs such as fennel can be packed between the olives and the lid to ensure that they are fully immersed. The olives should be left in this solution for at least a month and can be left for up to 2 years. After thoroughly rinsing, the olives can then be flavoured with a herb and garlic dressing. Place them in a jar with plenty of garlic and herbs such as marjoram and thyme. Fill the jar with 3/4 boiled and cooled water, 1/4 cider or white wine vinegar and a thin layer of olive oil on top. Shake and leave for a month.
+Method: Soak olives in fresh water, ensuring that they are fully immersed and rinsing every few days. Black olives should be rinsed and soaked for a week, green olives for two weeks. Then rinse olives and store in an airtight jar in a salt-water solution. The brine should be just strong enough to allow an egg to float in it. Fresh herbs such as fennel can be packed between the olives and the lid to ensure that they are fully immersed. The olives should be left in this solution for at least a month and can be left for up to 2 years. After thoroughly rinsing, the olives can then be flavoured with a herb and garlic dressing. Place them in a jar with plenty of garlic and herbs such as marjoram and thyme. Fill the jar with 3/4 boiled and cooled water, 1/4 cider or white wine vinegar and a thin layer [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]] on top. Shake and leave for a month.
 
 ## Permaculture Integration
 
-- Extremely long-lived tree (2000+ years), making it a permanent [[permaculture-windbreak]] and [[carob]] and [[permaculture-ground-cover-plants]] for soil protection
+- Extremely long-lived tree (2000+ years), making it a permanent permaculture-windbreak and carob and permaculture-ground-cover-plants for soil protection
 
 ## Pruning and Training
 
 Olive trees require careful pruning during their early years to establish a
 strong framework, and regular maintenance pruning thereafter to maximise
 production. Young trees are typically trained to an open vase or modified
-central leader shape, removing competing leaders and encouraging 3-4 main
+[[comparison-central-leader-vs-open-center-fruit-tree-training]] shape, removing competing leaders and encouraging 3-4 main
 scaffold branches well-spaced around the trunk.
 
 Mature olives are pruned annually after harvest, during late winter or early
 spring before new growth begins. The primary objectives are removing dead,
 diseased, or crossing branches; opening the canopy to improve light
-penetration and air circulation; and removing water shoots from the base.
+penetration and [[stamets-growing-room-air-circulation-co2-management]]; and removing water shoots from the base.
 Olive trees fruit on one-year-old wood, so some annual regrowth is essential
 for continued production. Severe rejuvenation pruning can be used on neglected
 old trees, as olives readily sprout from dormant buds on old wood.
@@ -108,7 +108,7 @@ disease favoured by wet winters, causing circular dark spots on leaves and
 premature leaf drop. Adequate canopy airflow through proper pruning is the
 primary prevention strategy.
 
-Verticillium wilt is a serious soil-borne fungal disease that can kill olive
+Verticillium wilt is a serious soil-borne [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] that can kill olive
 trees, especially on former tomato or potato ground. Prevention through site
 selection and resistant rootstock is more effective than treatment once
 established. See [[permaculture-food-forest-design-principles]] adapted to Mediterranean
@@ -120,4 +120,7 @@ Olive oil quality is classified into several grades based on extraction method
 and chemical composition. Extra virgin olive oil is the highest grade, obtained
 ## Related
 
-- [[holzer-fruit-tree-planting-method]]
+- holzer-fruit-tree-planting-method
+- [[olea-europaea]]
+- [[permaculture-almond-guide]]
+- [[permaculture-beginners-guide-soil-building-basics]]

@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - "Shulgin, A. & Shulgin, A. (1997). TIHKAL: The Continuation. Transform Press."
   - "Samoylenko, V. et al. (2010). \"β-Carboline alkaloids.\" Current Drug Metabolism, 11(5), 459-479."
-  - "Hertzog, R.I. et al. (2021). \"Pharmacology of harmala alkaloids.\" Pharmacology & Therapeutics, 225, 107859."
+  - "Hertzog, R.I. et al. (2021). \"Pharmacology of [[turner-harmala-alkaloids-preparation-and-dosage]].\" Pharmacology & Therapeutics, 225, 107859."
   - "Glennon, R.A. et al. (2000). \"β-Carbolines as agents of the central nervous system.\" Current Medicinal Chemistry, 7(2), 193-203."
 ---
 
@@ -24,13 +24,13 @@ sources:
 Beta-carbolines (β-carbolines, 9H-pyrido[3,4-b]indoles) are a class of
 tricyclic nitrogen-containing compounds structurally related to tryptamine,
 formed by the fusion of an indole ring with a pyridine ring.
-They occur naturally in a wide range of plants (Peganum harmala, Banisteriopsis
+They occur naturally in a wide range of plants ([[mckenna-food-gods-peganum-harmala-soma]], Banisteriopsis
 caapi, tobacco) and are endogenously produced in mammalian tissues.
 The most pharmacologically significant members are the harmala alkaloids —
 harmine, harmaline, and harmalol — which are potent reversible inhibitors
 of monoamine oxidase A (MAO-A).
-Beta-carbolines play a central role in Amazonian ayahuasca brews as the
-MAO-inhibiting component that enables oral activity of DMT, and they have
+Beta-carbolines play a central role in [[harner-amazonian-ayahuasca-preparation-methods]] brews as the
+MAO-inhibiting component that enables [[tihkal-oral-activity-mao-inhibition]] of DMT, and they have
 independent psychoactive effects at higher doses including visual distortions
 and oneiric states.
 
@@ -118,7 +118,7 @@ and oneiric states.
 
 ## Natural Sources
 
-- **Peganum harmala (Syrian rue):** Seeds contain 2–7% total β-carbolines,
+- **Peganum harmala ([[golden-guide-syrian-rue-and-maoi-plants]]):** Seeds contain 2–7% total β-carbolines,
   primarily harmine and harmaline — the most concentrated natural source
 - **Banisteriopsis caapi (ayahuasca vine):** Bark contains 0.1–1% β-carbolines,
   primarily harmine, harmaline, and tetrahydroharmine

@@ -1,5 +1,5 @@
 ---
-title: Demeter and Persephone in Eleusinian Mythology
+title: Demeter and demeter and persephone in eleusinian mythology Mythology
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Demeter and Persephone in Eleusinian Mythology
 
-The myth of Demeter and Persephone, narrated in full in the Homeric Hymn to Demeter (7th century BCE), is the foundational narrative of the [[sacred-marriage-hieros-gamos-in-greek-religion]] (hieros gamos), in which the priestess periodically communed with the realm of spirits within the earth to renew the agricultural year. The female deity was the Great Mother and the entire world was her Child. Her male consort was a vegetative spirit, both her son who grew from the earth and the mate who would abduct her to the fecundating other realm upon his death.
+The myth of Demeter and Persephone, narrated in full in the [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]] to Demeter (7th century BCE), is the foundational narrative of the [[sacred-marriage-hieros-gamos-in-greek-religion]] ([[sacred-marriage-hieros-gamos-in-greek-religion]]), in which the priestess periodically communed with the realm of spirits within the earth to renew the agricultural year. The female deity was the Great Mother and the entire world was her Child. Her male consort was a vegetative spirit, both her son who grew from the earth and the mate who would abduct her to the fecundating other realm upon his death.
 
 When the Indo-European Greeks settled in the Greek lands, their immortal Father God Zeus was assimilated to the pattern of the dying and reborn vegetative consort. Archaeological remains from the Minoan-Mycenaean period frequently depict visionary experience encountered by women engaged in rituals involving flowers. Priestesses or goddesses appear as idols decorated with vegetative motifs, accompanied by their serpent consort or crowned with a diadem of opium capsules.
 
@@ -30,7 +30,7 @@ Several elements of the myth have direct ritual significance:
 - **Refusal of wine**: Demeter refused wine, requesting instead a drink of barley meal, water, and mint -- the prototype of the kykeon consumed in the Mysteries.
 - **The pomegranate seed**: Persephone's consumption of the seed bound her to the underworld, paralleling the initiate's symbolic death and rebirth.
 - **The torches**: Demeter's nine-day search with torches reenacted in the nocturnal procession along the Sacred Road.
-- **The Rarian plain**: The fertile field where Demeter taught agriculture to Triptolemus was also where the sacred grain for the kykeon was grown.
+- **The Rarian plain**: The fertile field where Demeter taught agriculture to Triptolemus was also where the [[rarian-plain-sacred-grain-eleusis]] for the kykeon was grown.
 
 ## The Promise of the Mysteries
 
@@ -56,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,4 +98,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

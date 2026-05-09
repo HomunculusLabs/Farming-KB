@@ -1,5 +1,5 @@
 ---
-title: "Fungal Molecular Community Analysis"
+title: "Fungal fungal molecular community analysis Analysis"
 created: 2026-04-26
 tags:
   - molecular-ecology
@@ -16,7 +16,7 @@ type: concept
 
 # Fungal Molecular Community Analysis
 
-Molecular methods have revolutionized the study of fungal community structure
+Molecular methods have revolutionized the study of [[air-pollution-fungal-community-responses]] structure
 and diversity, overcoming the severe limitations of traditional
 culture-dependent approaches. It is well documented that, at best, perhaps
 only 5% of environmental fungi can be cultivated, meaning that reliance on
@@ -27,12 +27,12 @@ communities in soils, rocks, plant roots, and other environmental substrates.
 
 ## Limitations of Culture-Dependent Methods
 
-Traditional cultivation-based methods for assessing fungal diversity are
+Traditional cultivation-based methods for assessing [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] are
 generally recognized as insufficient because:
 
 - Many environmental species are refractory to laboratory cultivation,
   including some biotrophs (rust and [[endolithic-fungi-rock-colonizing-communities]] and epilithic
-fungal communities. Lithic fungal DGGE profiles generated from DNA extracted
+[[biodiversity-of-fungi-soil-fungal-communities-agriculture]]. Lithic fungal DGGE profiles generated from DNA extracted
 directly from sandstone demonstrated considerable variations in banding
 patterns between samples, suggesting that rock-dwelling fungal populations
 are highly diverse and that selection of indigenous populations is a complex
@@ -62,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

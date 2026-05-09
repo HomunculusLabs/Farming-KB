@@ -10,11 +10,11 @@ tags: [culture, permaculture, plants]
 
 # Permaculture Comfrey and Chop-and-Drop Mulch Plants
 
-Chop-and-drop mulching is a core permaculture technique where plants are periodically cut and their foliage left on the soil surface as mulch. This cycles nutrients, suppresses weeds, conserves moisture, builds soil organic matter, and feeds soil biology. This page covers the key mulch-producing species and chop-and-drop strategies from the source.
+Chop-and-drop mulching is a core permaculture technique where plants are periodically cut and their foliage left on the soil surface as mulch. This cycles nutrients, suppresses weeds, conserves moisture, builds soil [[hamilton-composting-and-organic-matter-management]], and feeds soil biology. This page covers the key mulch-producing species and chop-and-drop strategies from the source.
 
 ## Comfrey (Symphytum spp)
 
-Comfrey is the quintessential chop-and-drop plant, though the source covers it primarily in the context of livestock medicinal herb systems. Listed among the [[bee-forage-plants]] and produce large volumes of leafy material when coppiced. Their role as chop-and-drop mulch:
+Comfrey is the quintessential chop-and-drop plant, though the source covers it primarily in the context of livestock [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] systems. Listed among the [[bee-forage-plants]] and produce large volumes of leafy material when coppiced. Their role as chop-and-drop mulch:
 
 - Regular coppicing stimulates vigorous, leafy regrowth
 - Cut material breaks down relatively quickly
@@ -27,7 +27,7 @@ Comfrey is the quintessential chop-and-drop plant, though the source covers it p
 Black locust coppices well and produces nitrogen-rich leaf material. When managed as a coppice system:
 
 - Cut on 5-10 year rotation for pole production
-- Leafy branches can be used as mulch around establishing fruit trees
+- Leafy branches can be used as mulch around establishing [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 - Nitrogen-fixing root system enriches soil even while tree is growing
 - Foliage is readily eaten by livestock (can be cut-and-carried as fodder)
 
@@ -35,7 +35,7 @@ Black locust coppices well and produces nitrogen-rich leaf material. When manage
 
 ### Temperate
 - Comfrey, tagasaste, pampas grass, willow, black locust
-- Oak leaf litter as passive mulch
+- Oak [[dighton-fungal-decomposition-leaf-litter-dynamics]] as passive mulch
 
 ### Subtropical
 - Elephant grass, leucaena, bana grass
@@ -64,7 +64,7 @@ Black locust coppices well and produces nitrogen-rich leaf material. When manage
 - **Nutrient mining**: Place deep-rooted accumulator species upslope of productive plants
 - **Nitrogen boost**: Use nitrogen-fixing mulch species (tagasaste, leucaena, black locust) around heavy-feeding crops
 - **Potassium cycling**: Comfrey is particularly high in potassium -- mulch around fruiting plants
-- **Living mulch transition**: Some species (tagasaste managed as low hedge) function as both living and cut mulch
+- **[[comparison-living-mulch-vs-cover-crops]] transition**: Some species (tagasaste managed as low hedge) function as both living and cut mulch
 - **Integration with stock**: Many mulch species double as fodder -- design dual-purpose cutting/grazing systems
 
 ## See Also
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

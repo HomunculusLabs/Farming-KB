@@ -1,5 +1,5 @@
 ---
-title: permaculture Broadscale No-Till Grain Production
+title: permaculture Broadscale No-Till fukuoka-no-till-grain-production-method
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
@@ -16,7 +16,7 @@ sources:
 
 ## Fukuoka's Revolution in Grain Cultivation
 
-Until Mollison read [[mollison-designers-thatch-and-natural-roofing-in-permaculture]]. The system outlined in The One-Straw Revolution (Rodale, 1975) solved the problems of no-dig grain cultivation.
+Until Mollison read mollison-designers-thatch-and-natural-roofing-in-permaculture. The system outlined in The One-Straw Revolution (Rodale, 1975) solved the problems of no-dig grain cultivation.
 
 The approach combines the usual rotation of legume/grain/root crop/pasture/fallow/legume into a single grain/legume mixed crop — what Mollison calls "simultaneous rotation." Any smallholder can, without tractor or machinery, produce a heavy crop of grains and legumes if this method is practised.
 
@@ -28,7 +28,7 @@ The core principles enabling small areas (400 m² or less) to support a family o
 
 ### Oats (Avena sativa)
 
-Long-day crop, best in cool climates. Neutral soils preferred. Self-pollinated. Lodges with high nitrogen, so needs less than other grains. Sow at 50–200 kg/ha. Water needed at flowering. Good yields: 3,000 kg/ha.
+Long-day crop, best in [[greenhouse-cool-climates-mollison]]. Neutral soils preferred. Self-pollinated. Lodges with high nitrogen, so needs less than other grains. Sow at 50–200 kg/ha. Water needed at flowering. Good yields: 3,000 kg/ha.
 
 ### Quinoa (Chenopodium quinoa)
 
@@ -48,7 +48,7 @@ Short-day plant suited to 40° latitude and subtropics. Stands slight frost only
 
 ## Legume Integration
 
-White clover at 1 kg/ha serves as the primary living mulch and nitrogen fixer. Other legumes can be substituted: Fukuoka used 12 wattle trees (silver wattle) per hectare instead of clover for tree-crop systems.
+[[fukuoka-white-clover-cover-crop-system]] at 1 kg/ha serves as the primary [[comparison-living-mulch-vs-cover-crops]] and nitrogen fixer. Other legumes can be substituted: Fukuoka used 12 wattle trees (silver wattle) per hectare instead of clover for tree-crop systems.
 
 Legumes such as lab-lab bean (Dolichos lab-lab) under Borassus palm serve as perennial systems, and a friend of Yeomans uses lab-lab with barley to great effect in annual grain culture.
 
@@ -58,6 +58,7 @@ Where sparrows are a problem, grains are mixed with mud, pressed through wire-me
 
 ## See Also
 - [[fukuoka-sowing-clay-seed-ball-preparation]]
+
 ## Practical Considerations
 
 Successful implementation of permaculture Broadscale No-Till Grain Production requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

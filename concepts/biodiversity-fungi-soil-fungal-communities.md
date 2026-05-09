@@ -1,5 +1,5 @@
 ---
-title: Soil Fungal Communities
+title: Soil biodiversity-of-fungi-soil-fungal-communities-agriculture
 created: 2026-04-28
 tags:
   - mycology
@@ -23,7 +23,7 @@ virtually all other soil organisms in intricate food webs.
 
 ## Structure and Composition
 
-All major taxonomic groups of fungi are encountered in soils. Among
+All major [[coprophilous-fungi-taxonomic-groups-distribution]] of fungi are encountered in soils. Among
 saprobic filamentous forms, prevalent groups include the Saprolegniales,
 Pythiales, Mucorales, Eurotiales, Microascales, Hypocreales, Sordariales,
 Onygenales, Leotiales, Pezizales, and a vast array of mitosporic fungi
@@ -44,7 +44,7 @@ polyphenolic compounds hundreds to thousands of years old.
 ## Factors Affecting Community Composition
 
 The composition of soil fungal communities is regulated strongly by
-climatic and edaphic factors, and ecological similarity among habitats
+climatic and [[soil-edaphic-factors-microbial-communities]], and ecological similarity among habitats
 supersedes geography. An experienced taxonomist reading a list of the
 10 to 20 most abundant fungi in a soil sample can guess with great
 accuracy the prevailing vegetational and climatic regimens.
@@ -55,7 +55,7 @@ Distinctive assemblages of soil fungi characterize different vegetation
 types. Antarctic, arctic, alpine, and boreal soils are dominated by
 Cylindrocarpon, Chrysosporium, Mortierella, Oidiodendron, certain
 Penicillium species, and sterile fungal strains. Beech forest soils of
-North America and Europe show striking similarities in principal
+[[psilocybin-north-america-pacific-northwest]] and Europe show striking similarities in principal
 saprobic fungal species. Agricultural soils are frequently dominated
 by Acremonium, Fusarium, and Phoma species, with reduced Mucorales
 diversity. Desert soils have low propagule densities but high species
@@ -104,7 +104,7 @@ physical and chemical environment that shapes fungal community structure.
 
 ## Methods for Studying Soil Fungi
 
-Direct observation of soil fungi in situ is limited to indistinct
+[[fukuoka-direct-observation-method]] of soil fungi in situ is limited to indistinct
 mycelia. Most surveys rely on indirect isolation techniques in which
 fungal propagules are dispersed on artificial media or trapped on
 organic baits. No complete inventory of soil fungi has been undertaken
@@ -121,7 +121,7 @@ Estimates of species richness vary widely with survey intensity and
 methodology. Surveys from temperate forests have recovered 90 to more
 than 470 taxa per vegetation type. Tropical soil fungal diversity
 appears comparable to that of temperate forests, challenging the
-assumption that tropical soils harbor significantly more fungal species.
+assumption that [[mollison-designers-tropical-soils-and-cation-exchange-management]] harbor significantly more fungal species.
 However, tropical soils remain less thoroughly studied, and many genera
 appear to be primarily tropical in distribution.
 

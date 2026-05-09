@@ -10,8 +10,8 @@ created: 2026-05-08
 
 McKenna traced the ancient relationship between honey, mead, and the Dionysian
 mysteries as a critical link in the devolution from the original mushroom cults
-of the partnership society to the alcohol-based religions of the dominator
-culture. Honey served as both a preservative for sacred mushrooms and, when
+of the [[mckenna-dominator-vs-partnership-society-model]] to the alcohol-based religions of the dominator
+culture. Honey served as both a preservative for [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]] and, when
 fermented, as mead — the first recreational intoxicant of the Indo-European
 tribes.
 
@@ -20,9 +20,9 @@ tribes.
 Honey is a magical substance in virtually all traditional cultures. Its medicinal
 properties, its association with the divine, and its role in preserving both
 human bodies and mushrooms made it central to ancient religious practice.
-McKenna noted several connections between honey and the sacred mushroom cults:
+McKenna noted several connections between honey and [[allegro-the-sacred-mushroom-amanita-identification]] cults:
 
-- Honey was used to preserve hallucinogenic mushrooms for ceremonial use,
+- Honey was used to preserve [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] for ceremonial use,
   maintaining their potency between seasons.
 - Honey was used to preserve human bodies in mummification practices, linking
   the idea of bodily preservation with the preservation of sacred knowledge.
@@ -36,7 +36,7 @@ McKenna noted several connections between honey and the sacred mushroom cults:
 Among the Minoan civilization of Crete, honey occupied a central position in
 religious life. One of the most astonishing murals unearthed at Çatal Hüyük
 apparently depicts the life cycle and metamorphosis of honeybees. This suggests
-that beekeeping and honey cultivation were among the earliest forms of
+that [[faires-beekeeping-and-honey-production]] cultivation were among the earliest forms of
 agricultural practice, predating even cereal cultivation.
 
 Mycenaean gold rings from Isopata near Knossos depict bee-headed dancing
@@ -76,7 +76,7 @@ paler imitation of the original mushroom sacrament:
    ecstasy and boundary dissolution.
 2. **Fermented honey (mead)** — a gentler intoxicant that preserved the social
    bonding function but lacked the visionary intensity.
-3. **Fermented fruit juices (wine)** — a further dilution, producing
+3. **[[bionutrients-lab-fermented-fruit-juice-ffj]] juices (wine)** — a further dilution, producing
    disinhibition without ecstasy.
 4. **Distilled alcohol** — the final degradation: a toxic, addictive substance
    that produces stupefaction rather than insight.

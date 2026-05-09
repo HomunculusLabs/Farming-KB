@@ -1,5 +1,5 @@
 ---
-title: Reishi Ganoderma Lucidum Cancer Clinical Research
+title: cancer-medicinal-mushrooms-reishi-ganoderma-research Lucidum Cancer hofmann-lsd-clinical-research-early-studies
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Reishi (Ganoderma Lucidum) Cancer Clinical Research
 
-Ganoderma lucidum (Reishi/Ling Zhi) has the longest historical usage of any medicinal mushroom for cancer treatment, dating back at least four millennia. While extensive pre-clinical evidence exists, clinical trial data remains limited.
+Ganoderma lucidum (Reishi/Ling Zhi) has the longest historical usage of any [[gourmet-medicinal-mushroom-casing-layer-techniques]] for cancer treatment, dating back at least four millennia. While extensive pre-clinical evidence exists, [[psilocybin-clinical-trial-landscape-2020-2025]] data remains limited.
 
 ## Pre-Clinical Evidence
 
@@ -19,7 +19,7 @@ Over the past decades, numerous reports have documented anti-tumour activity of 
 - Studies by Lee et al. (1995), Wang et al. (1997), Hwang et al. (1989), Furusawa et al. (1992)
 
 ### Mechanism of Action
-The anti-tumour action of G. lucidum polysaccharides appears to result from biological response modifying effects (Chang, 1996). Ganopoly (aqueous extract) has shown immunomodulating effects through:
+The anti-tumour action of G. lucidum polysaccharides appears to result from [[medicinal-mushrooms-biological-response-modifiers]] modifying effects (Chang, 1996). Ganopoly (aqueous extract) has shown immunomodulating effects through:
 - Activation of macrophages
 - Activation of T-lymphocytes
 - Activation of natural killer cells (Gao, 2000)
@@ -84,5 +84,5 @@ While objective tumour responses were not observed with Ganopoly monotherapy, th
 
 - [[reishi-mushroom-medicinal-research]]
 - [[medicinal-mushroom-guide-reishi]]
-- [[mushroom-quality-of-life-cancer]]
+- mushroom-quality-of-life-cancer
 - [[psk-breast-lung-cancer-clinical-trials]]

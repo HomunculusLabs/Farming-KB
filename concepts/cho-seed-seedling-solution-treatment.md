@@ -1,5 +1,5 @@
 ---
-title: "Cho's Seed and Seedling Solution Treatment"
+title: "Cho's Seed and cho seed seedling solution treatment Treatment"
 created: 2026-04-28
 tags: [korean-natural-farming, seed-treatment, nursery, germination,
        cho-global]
@@ -13,7 +13,7 @@ type: concept
 # Cho's Seed and Seedling Solution Treatment
 
 The Seed/Seedling Solution (SES) treatment is a fundamental practice in
-Dr. Cho's Korean Natural Farming. It restores seed vitality through brief
+Dr. Cho's Korean [[comparison-natural-farming-vs-permaculture]]. It restores seed vitality through brief
 exposure to [[cho-fermented-plant-juice-preparation]]: 2 ml
 -   [[knf-oriental-herbal-nutrient]]: 1 ml
 -   Water: 1000 ml
@@ -39,7 +39,7 @@ activating metabolic processes and beneficial microbial colonization.
 
 ## Soil Treatment Solution (SOS)
 
-Beyond seed treatment, Cho's system includes a comprehensive field-wide
+Beyond [[jadam-seed-treatment-and-nursery-management]], Cho's system includes a comprehensive field-wide
 Soil Treatment Solution applied before planting:
 
 ### SOS Recipe (per acre / 0.4 hectare)
@@ -51,7 +51,7 @@ Soil Treatment Solution applied before planting:
 | OHN                                | 500 ml    |
 | BRV                                | 500 ml    |
 | LAB                                | 300 ml    |
-| Water-soluble calcium phosphate    | 300 ml    |
+| Water-soluble [[bionutrients-lab-calcium-phosphate-calamansi]]    | 300 ml    |
 | FAA                                | 300 ml    |
 | Charcoal                           | 50 kg     |
 | Soil                               | 500 kg    |

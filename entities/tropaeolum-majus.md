@@ -33,10 +33,10 @@ perennial in frost-free climates) climbing or trailing plant native
 to the Andes of Bolivia, Colombia, Ecuador, and Peru. Widely grown
 as both an ornamental and edible plant, nasturtium is celebrated for
 its peppery-tasting leaves and flowers, its role as a companion plant
-in organic gardens, and its broad-spectrum antimicrobial properties
+in organic gardens, and its broad-spectrum [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]
 backed by modern pharmacological research. All above-ground parts are
 edible, making it one of the most versatile multi-purpose plants in
-permaculture and kitchen garden design.
+permaculture and [[holzer-kitchen-garden-herbs-and-medicinal-plants]] design.
 
 ## Taxonomy and Botany
 
@@ -73,8 +73,8 @@ permaculture and kitchen garden design.
 
 - **Antibiotic activity:** Benzyl isothiocyanate has shown in vitro
   activity against *Staphylococcus aureus*, *Escherichia coli*,
-  *Pseudomonas aeruginosa*, and *Candida albicans*; historically
-  used as a natural antibiotic in South American traditional
+  *Pseudomonas aeruginosa*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*; historically
+  used as a natural antibiotic in [[chiric-caspi-brunfelsia-south-american-hallucinogen]] traditional
   medicine.
 - **Respiratory support:** Traditional use as an expectorant for
   bronchitis, coughs, and upper respiratory infections; the
@@ -135,9 +135,11 @@ Tropaeolum majus exemplifies the permaculture principle of multi-
 functional plants — simultaneously ornamental, edible, medicinal, and
 ecologically functional. Its glucosinolate chemistry connects it to the
 broader Brassicales phytochemical literature and provides a model for
-discussing companion planting and integrated pest management strategies.
+discussing [[query-what-is-companion-planting-and-how-does-it-work]] [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management strategies.
 
 ## See Also
+
+- [[cyclanthera-pedata]]
 
 - [[calendula-officinalis]]
 - [[urtica-dioica]]

@@ -1,5 +1,5 @@
 ---
-title: "HOT-7 (2,5-DIMETHOXY-N-HYDROXY-4-(n)-PROPYLTHIOPHENETHYLAMINE) -- PIHKAL Entry #88"
+title: "HOT-7 (2,5-DIMETHOXY-N-HYDROXY-4-(n)-PROPYLTHIOPHENETHYLAMINE) -- 2c-b-pihkal-entry-20 #88"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -88,7 +88,7 @@ and treated with 1.5 mL of 10 M borane-dimethyl sulfide complex. This
 was followed by the addition of 0.2 g sodium borohydride, and the
 stirring was continued at room temperature for a week. The volatiles
 were removed under vacuum, and the residue was treated with 20 mL
-dilute HCl and heated on the steam bath for 30 min. The cooled yellow
+dilute HCl and heated on the [[scythian-cannabis-steam-bath-ritual]] for 30 min. The cooled yellow
 solution set up as solids. The addition of H2O was followed by
 sufficient K2CO3 to make the aqueous phase basic. All efforts to work
 with an acidified aqueous phase resulted in terrible emulsions. The
@@ -104,7 +104,7 @@ weight to provide 0.83 g of
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin safety principles and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna [[pihkal-introduction-and-methodology]]
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin [[shulgin-safety-principles-self-experimentation]] and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna [[pihkal-introduction-and-methodology]]
 
 - [[hot-17-entity-pihkal]]
 

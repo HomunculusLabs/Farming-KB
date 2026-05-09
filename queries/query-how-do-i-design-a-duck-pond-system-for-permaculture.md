@@ -1,10 +1,11 @@
 ---
-title: "How Do I Design a Duck Pond System for Permaculture?"
+title: "How Do I Design a permaculture-designers-manual-duck-pond-systems System for Permaculture?"
 created: 2026-04-28
 tags: [query, permaculture, aquaculture, integrated-systems]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -19,7 +20,7 @@ minimizing maintenance requirements for the homesteader or farmer.
 
 ## Site Selection and Sizing
 
-As outlined in [[permaculture-aquaculture-design]] principles emphasize maximizing edge length
+As outlined in permaculture-aquaculture-design principles emphasize maximizing edge length
 (the interface between water and land) because this is where the greatest
 biological productivity and diversity occurs in any aquatic system.
 
@@ -33,15 +34,15 @@ vegetable gardens, allowing nutrient-laden water to flow through mulched
 channels or swales into garden beds during heavy rain or periodic pond
 draining and maintenance cycles.
 
-Ducks also provide active pest control in the garden. They consume slugs,
+Ducks also provide active [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] in the garden. They consume slugs,
 snails, grasshoppers, Japanese beetles, and various insect pests without
 damaging plants the way chickens do (ducks eat pests but generally do not
 scratch up root systems or destroy established plantings). A duck run can be
 rotated between garden beds between planting cycles, allowing ducks to clean
 up pest populations while depositing fertilizer directly where the next crop
-will grow. The integration of duck ponds with vegetable production creates a
-nutrient cycling loop where garden waste feeds ducks and ducks feed the garden
-through both manure and active pest management services.
+will grow. The integration of duck ponds with [[dry-gardening-unirrigated-vegetable-production-solomon]] creates a
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] loop where garden waste feeds ducks and ducks feed the garden
+through both manure and active [[cannabis-pest-management-guide]] services.
 
 ## Duck Species Selection
 
@@ -74,12 +75,12 @@ harvesting fast-growing aquatic plants to maintain open water surface area.
 - Duck manure provides excellent fertilizer; design the system so pond
   overflow irrigates and fertilizes adjacent vegetable garden beds
 - Khaki Campbells (eggs), Indian Runners (foraging), and Muscovy ducks
-  (meat, insect control, quiet) are the top breeds for permaculture systems
+  (meat, [[mushroom-pests-insect-control-stamets]], quiet) are the top breeds for permaculture systems
 - Secure fencing, buried wire, floating cover, and a locked night shelter are
   essential for predator protection around any duck pond installation
 
 ## Related
 
-- [[arid-zone-permaculture-strategies-mollison]]
+- arid-zone-permaculture-strategies-mollison
 - [[query-how-can-duckweed-be-used-in-a-permaculture-pond]] Questions
 - [[permaculture-duck-pond-systems]]

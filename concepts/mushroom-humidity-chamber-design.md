@@ -1,5 +1,5 @@
 ---
-title: Mushroom Humidity Chamber Design
+title: Mushroom mushroom-humidity-chamber-design-operation Design
 slug: mushroom-humidity-chamber-design
 source: jarrold-indoor-mushroom-growing-technique-boil-a-bag.md
 tags: [mushroom-cultivation, humidity-chamber, fruiting, growing-equipment, mycology]
@@ -10,10 +10,10 @@ created: 2026-05-08
 
 ## Overview
 
-A humidity chamber (also called a fruiting chamber or shotgun
+A humidity chamber (also called a [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] or shotgun
 fruiting chamber) provides the high-humidity environment
 required for mushrooms to transition from mycelial colonization
-to fruiting body production. In the Jarrold boil-a-bag method,
+to [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] production. In the Jarrold boil-a-bag method,
 the humidity chamber is a simple and inexpensive setup using
 commonly available materials.
 
@@ -101,7 +101,7 @@ When transferring colonized bags from the colonization phase:
    at least 2 cm of the bottom intact
 4. The remaining bag base serves as a stand, keeping the
    substrate block elevated above the humidified floor
-5. Space blocks to allow air circulation between them
+5. Space blocks to allow [[stamets-growing-room-air-circulation-co2-management]] between them
 
 ## Monitoring and Maintenance
 

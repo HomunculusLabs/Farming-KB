@@ -1,5 +1,5 @@
 ---
-title: Drip Irrigation Limitations for the Home Garden
+title: comparison-drip-irrigation-vs-passive-irrigation Limitations for the cool-climate-home-garden-mollison
 tags:
   - drip-irrigation
   - microirrigation
@@ -63,7 +63,7 @@ These systems provide an inexpensive and durable alternative for specific situat
 
 ## Microirrigation Purchasing Advice
 
-Microirrigation components are available in garden centers in bubble packs, but this is the most expensive way to buy them. Agricultural suppliers carry a much broader assortment in shelf bins at significantly lower prices. If considering microirrigation, buy from agricultural suppliers.
+Microirrigation components are available in [[solomon-garden-centers-seedling-traps]] in bubble packs, but this is the most expensive way to buy them. Agricultural suppliers carry a much broader assortment in shelf bins at significantly lower prices. If considering microirrigation, buy from agricultural suppliers.
 
 Two important cautions apply:
 
@@ -74,7 +74,7 @@ Two important cautions apply:
 
 For the home vegetable garden, sprinkler systems offer several decisive advantages over drip:
 
-- They wet the entire soil surface, supporting seed germination
+- They wet the entire soil surface, supporting [[cannabis-seed-germination-methods]]
 - They are not damaged by routine cultivation
 - They are far less expensive to install
 - They provide more uniform coverage

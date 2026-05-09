@@ -1,5 +1,5 @@
 ---
-title: Strawyard Throwover Pen Design
+title: Strawyard strawyard throwover pen design Design
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Permaculture Two (1979) Chapter 8 introduces the strawyard and throwover pen as key infrastructure elements in the free-range poultry forage system.
+Permaculture Two (1979) Chapter 8 introduces the strawyard and throwover pen as key infrastructure elements in the free-range [[free-range-poultry-forage-design-mollison]] system.
 
 ## The Strawyard
 
@@ -45,7 +45,7 @@ Wheat, rye, barley, oats, teff
 Chenopodium spp. -- Loved by poultry
 Chick pea -- Tolerant of wide range of soils and climates
 Lentils
-Lab-lab (Dolichos) -- Ground cover
+Lab-lab (Dolichos) -- [[fukuoka-citrus-orchard-ground-cover-cultivation]]
 Field peas -- Great variety exists
 Centrosema -- Useful in tropics
 Amaranthus grains -- 1000 varieties cultivated
@@ -75,7 +75,7 @@ Cleavers (Galium aparine) -- Valuable seed plant with iron and iodine content. M
 
 ## Weed Control Through Stocking Management
 
-Weed control can be achieved by regulating the time and density of stocking rates and the species permitted to range. This is a key principle: the poultry themselves become the weed management tool, but their access must be controlled.
+Weed control can be achieved by regulating the time and density of stocking rates and the species permitted to range. This is a key principle: the poultry themselves become the [[fukuoka-weed-management-and-green-manure]] tool, but their access must be controlled.
 
 ## Storage Infrastructure
 
@@ -101,7 +101,7 @@ The strawyard and throwover pen integrate with:
 - The hardy free-range system of Zone II plus normal orchard species
 - Storage bins or sheds for the spring "hungry gap"
 - Aquatic or part-aquatic (edge) systems for duck forage
-- Bee forage from flowering forage crop species
+- [[mollison-designers-bee-forage-tree-planting]] from flowering forage crop species
 - Stored food for larger stock species (e.g., goats)
 - Manurial waste disposal for annual gardening or composting
 
@@ -115,5 +115,5 @@ The strawyard and throwover pen integrate with:
 
 - [[chickshaw-and-poultry-tractors]]
 - [[free-range-poultry-forage-design-mollison]]
-- [[mollison-orchard-poultry-integration-and-woodlot-design]]
+- mollison-orchard-poultry-integration-and-woodlot-design
 - [[plant-micronutrients-and-their-essential-functions]]

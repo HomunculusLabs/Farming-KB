@@ -15,7 +15,7 @@ sources:
   - https://pubmed.ncbi.nlm.nih.gov/?term=fomes+fomentarius+medicinal
   - Nechwatal, J. et al. "The tinder fungus: Biology, ecology, and ethnobotany." Mycological Progress, 2021.
   - Peintner, U. et al. "The 'Iceman's' fungi." Mycological Research, 1998.
-  - Stjepanović, P. et al. "A traditional medicinal mushroom with modern pharmacological potential." Journal of Ethnopharmacology, 2023.
+  - Stjepanović, P. et al. "A traditional [[gourmet-medicinal-mushroom-casing-layer-techniques]] with modern pharmacological potential." Journal of Ethnopharmacology, 2023.
 created: 2026-04-28
 ---
 
@@ -32,17 +32,20 @@ created: 2026-04-28
 
 ## Permaculture Applications
 
-- **Mycoremediation:** Brown rot enzymes break down lignocellulosic biomass; potential for pollutant degradation
+- **Mycoremediation:** [[comparison-brown-rot-vs-white-rot-bioremediation]] enzymes [[query-can-fungi-break-down-plastic-pollution]] lignocellulosic biomass; potential for pollutant degradation
 - **Fire preparedness:** Cultivated on birch logs as self-sufficient fire-starting material — relevant for off-grid and homesteading
-- **Ecological indicator:** Presence signals mature forest with adequate dead wood; provides insect habitat and cavity-nesting sites
+- **Ecological indicator:** Presence signals mature forest with adequate dead wood; provides [[hemenway-insectary-plants-and-beneficial-insects]] and cavity-nesting sites
 
 ## Cultivation and Harvest
 
 Cultivation possible but slow (12–24 months colonization, 2–5 years to fruit). Not commercially significant. Wild harvesting is standard: take only older, spent brackets; leave young specimens for [[trametes-versicolor-entity]] — Artist's conk, related polypore
-- [[trametes-versicolor-entity]] — Turkey tail, cosmopolitan medicinal polypore
+- [[trametes-versicolor-entity]] — [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], cosmopolitan medicinal polypore
 - birch polyculture — Permaculture systems with birch and associated fungi
 
 ## See Also
+
+- [[pleurotin]]
+- [[terfezia-claveryi]]
 
 - [[cancer-medicinal-mushrooms-chaga-and-birch-polypore]]
 ## Practical Considerations
@@ -61,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

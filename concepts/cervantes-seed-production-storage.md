@@ -1,8 +1,8 @@
 ---
-title: Seed Production and Storage
+title: cervantes seed production storage and Storage
 created: 2026-04-26
 sources: Marijuana Horticulture (Cervantes)
-synonyms: feminized seeds, seed breeding, pollen collection, seed viability, seed bank
+synonyms: feminized seeds, seed breeding, [[cannabis-pollen-collection-storage-clarke]], seed viability, seed bank
 type: concept
 tags: [cannabis, plant-growth]
 updated: 2026-04-26
@@ -11,9 +11,9 @@ updated: 2026-04-26
 # Seed Production and Storage
 
 Seed production requires careful planning, selection of parent plants, and
-proper pollination techniques. Understanding the genetics of sex determination
+proper pollination techniques. Understanding the genetics of [[cannabis-sex-determination-floral-biology]]
 is essential for producing feminized seeds. Proper storage ensures seed
-viability for years or even decades. For broader propagation methods see
+viability for years or even decades. For broader [[vegetative-propagation-methods-mollison]] see
 [[tissue-culture-cloning]].
 
 ## Seed Production Basics
@@ -41,7 +41,7 @@ See also [[topping-cannabis]],
 Collecting and preserving viable pollen is essential for controlled breeding
 programmes, allowing breeders to make specific crosses without maintaining live
 male plants year-round. The timing and technique of pollen collection
-significantly affect its viability and the success rate of subsequent
+significantly affect its viability and the [[maitake-fruiting-body-success-rate-management]] of subsequent
 pollination. Male cannabis plants typically begin releasing pollen 2–4 weeks
 after the onset of flowering, when pollen sacs (anthers) swell, change colour
 from green to pale yellow, and begin to open. The optimal collection window is
@@ -72,7 +72,7 @@ with no clumping. Over-drying should be avoided, as excessively desiccated
 pollen may lose viability more rapidly than pollen dried to an optimal
 intermediate moisture content.
 
-Storage conditions determine how long pollen remains viable. Short-term storage
+[[vegetable-storage-conditions-by-temperature-and-humidity]] determine how long pollen remains viable. Short-term storage
 (up to several weeks) at room temperature in a sealed container with desiccant
 is adequate for most breeding purposes. Medium-term storage (several months)
 requires refrigeration at approximately 4°C (39°F) in an airtight container with

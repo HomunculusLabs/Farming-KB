@@ -5,7 +5,8 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Orchard Without Pruning
@@ -34,17 +35,17 @@ Trees that are not pruned develop stronger wood, deeper roots, and greater resis
 
 ## Five Reasons for the Natural Form
 
-Fukuoka identified five specific reasons why the natural form is superior in fruit tree cultivation. These form the core of his [[fukuoka-bushman-world-ecological-balance]] found in nature.
+Fukuoka identified five specific reasons why the natural form is superior in fruit [[holzer-sweet-chestnut-and-nut-trees]]. These form the core of his [[fukuoka-bushman-world-ecological-balance]] found in nature.
 
 ## The Inextricable Principles
 
-Fukuoka's conclusion about orchard management was that the principles of no weeding, no fertilization, and no pruning cannot be achieved independently; they are closely and inextricably tied to each other.
+Fukuoka's conclusion about [[fukuoka-orchard-management-detailed]] was that the principles of no weeding, no fertilization, and no pruning cannot be achieved independently; they are closely and inextricably tied to each other.
 
-Soil management techniques such as green manure cultivation and sod cultivation that eliminate weeding and tillage simultaneously make fertilizer-free cultivation possible. With pest and disease control it is the same; the best method of control is no control at all.
+Soil management techniques such as green manure cultivation and sod cultivation that eliminate weeding and tillage simultaneously make fertilizer-free cultivation possible. With pest and [[hamilton-pest-and-disease-control-organic]] it is the same; the best method of control is no control at all.
 
 If a farming system without weeding, fertilization, or pruning is established, crop damage by diseases and pests will gradually decline. Plants grown without fertilizers in rich soil have strong, healthy roots that are resistant to disease.
 
-The pruning techniques used in fruit growing tend to change with the times, but the natural form of a tree remains always the same. Use of the natural form is the best approach possible for stable, labor-saving, high-yield fruit cultivation, connecting to Fukuoka's [[fukuoka-natural-orchard-management]], [[fukuoka-ecological-balance-principles]], [[fukuoka-natural-pest-balance]]
+The pruning techniques used in [[holzer-fruit-growing-marginal-climates]] tend to change with the times, but the natural form of a tree remains always the same. Use of the natural form is the best approach possible for stable, labor-saving, high-yield [[stone-fruit-tree-care]], connecting to Fukuoka's [[fukuoka-natural-orchard-management]], [[fukuoka-ecological-balance-principles]], [[fukuoka-natural-pest-balance]]
 
 ## See Also
 
@@ -65,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

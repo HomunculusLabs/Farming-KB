@@ -4,12 +4,14 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [animal-husbandry, homesteading, livestock, forage, nutrients, recipe]
-sources: []
+sources:
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Livestock Feed Formulation
 
-Understanding livestock nutrition and feed formulation allows homesteaders to
+Understanding [[savory-livestock-nutrition-and-supplementation]] and feed formulation allows homesteaders to
 optimize animal health, reduce purchased feed costs, and make the most of
 on-farm resources. Feed represents 50-70% of the cost of livestock production,
 so even small improvements in feeding efficiency have significant economic
@@ -32,7 +34,7 @@ feeds, and practical formulation for homestead-scale operations.
 - Ruminants (cattle, sheep, goats) can use both true protein and non-protein
   nitrogen (NPN) thanks to rumen microbes.
 - Monogastrics (pigs, poultry, rabbits) require true protein with specific
-  amino acid profiles.
+  [[cho-fish-amino-acid-preparation]] profiles.
 - Deficiency: poor growth, low milk production, rough hair coat, weight loss,
   reduced fertility.
 - Excess: wasted money, increased nitrogen excretion (environmental concern).
@@ -40,7 +42,7 @@ feeds, and practical formulation for homestead-scale operations.
 ### Energy
 - Required for maintenance, movement, production, and body temperature
   regulation.
-- Measured as Total Digestible Nutrients (TDN), Net Energy (NE), or
+- Measured as Total Digestible Nutrients (TDN), [[fukuoka-agricultural-production-net-energy-deduction]] (NE), or
   Metabolizable Energy (ME).
 - Sources: carbohydrates (grains, molasses) and fats (oilseeds, animal fat).
 - Ruminants get most energy from fermentation of fiber in the rumen.
@@ -99,7 +101,7 @@ feeds, and practical formulation for homestead-scale operations.
 - **Distillers grains (DDGS):** 25-30% CP, high energy and fat. Byproduct
   of ethanol production. Good for cattle.
 - **Linseed (flaxseed) meal:** 34-36% CP. Good for ruminants. Adds omega-3
-  fatty acids.
+  [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]].
 
 ### Forages
 - See [[hay-and-forage-management]] for detailed forage analysis.
@@ -142,52 +144,7 @@ feeds, and practical formulation for homestead-scale operations.
 
 ### Feed Additives
 - **Probiotics:** Support rumen and gut health.
-- **Prebiotics:** Feed beneficial gut microbes.
-- **Yeast culture:** Improves fiber digestion in ruminants.
-- **Apple cider vinegar:** 1-2 tbsp/gallon in water. Supports digestion
-  and immune health (anecdotal evidence).
-- **Diatomaceous earth:** For parasite control (limited evidence, widely
-  used).
-- **Kelp (seaweed):** Trace mineral supplement. 1-2 oz/head/day for cattle,
-  0.5 oz for sheep/goats.
-
-## Winter Feeding
-
-### Challenges
-- Reduced forage quality (hay loses nutrients over time).
-- Increased energy requirements for thermoregulation.
-- Frozen water sources.
-- Limited pasture access.
-
-### Strategies
-- Stockpile pasture for late fall/early winter grazing. See
-  [[pasture-management]].
-- Body condition animals before winter. Thin animals need extra energy.
-- Feed higher-quality hay in the coldest months.
-- Increase grain during extreme cold: cattle need 1% more energy per 10°F
-  below lower critical temperature (20-30°F with winter coat).
-- Provide windbreaks and shelter. Use baleage for higher quality winter feed.
-- Feed in late afternoon — fermentation heat peaks 6-8 hours later,
-  warming animals during the coldest part of night.
-
-### Ration Example (Winter, 1000 lb Beef Cow)
-- 25 lbs good grass hay (10% CP, 55% TDN) + 5 lbs alfalfa-grass mixed hay
-  (15% CP, 58% TDN) + free-choice loose mineral and salt.
-- Provides ~12 lbs TDN and 1.7 lbs CP — adequate for mid-gestation.
-  Adjust for stage of production.
-
-## Ration Balancing Basics
-
-1. Determine animal requirements (species, weight, production stage).
-2. Test hay/forage to know actual nutritional content.
-3. Calculate forage contribution to maintenance needs.
-4. Fill the gap with grain, protein supplement, or minerals.
-5. Monitor body condition and adjust.
-
-### Body Condition Scoring (BCS)
-- Scale 1-9 for cattle (5 = ideal), 1-5 for sheep/goats (3 = ideal).
-- Score monthly for cattle; before breeding and lambing for sheep/goats.
-
 ## See Also
 
-- [[livestock-feed-management]]
+- livestock-feed-management
+- [[holzer-livestock-integration-pigs-cattle]]

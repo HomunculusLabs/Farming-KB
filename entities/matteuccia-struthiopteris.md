@@ -14,7 +14,7 @@ sources:
   - Kershaw, L. (2001). "Trees and Shrubs, Ferns and Herbaceous Plants of the Canadian Prairies." Lone Pine Publishing.
   - Cobb, B. (1963). "A Field Guide to the Ferns and Their Related Families." Houghton Mifflin.
   - Wagner, W. H. (1986). "Systematics of the fern genus Matteuccia." American Fern Journal, 76(4), 121–128.
-  - Couplan, F. (1998). "The Encyclopedia of Edible Plants of North America." McGraw-Hill.
+  - Couplan, F. (1998). "The Encyclopedia of Edible Plants of [[psilocybin-north-america-pacific-northwest]]." McGraw-Hill.
   - Pryer, K. M. et al. (2004). "Phylogeny and evolution of ferns (monilophytes) with a focus on the early leptosporangiate divergences." American Journal of Botany, 91(10), 1582–1598.
 ---
 
@@ -46,7 +46,7 @@ The species has a diploid chromosome number of 2n = 80, consistent with other me
 
 Matteuccia struthiopteris is native to the temperate and boreal regions of the Northern Hemisphere. In North America, its range extends from Newfoundland to Alaska, south to Virginia in the east and to northern California in the west, with disjunct populations in the Rocky Mountains.
 
-In Europe and Asia, the species occurs across Scandinavia, central Europe, Russia, China, Korea, and Japan. The Eurasian populations are sometimes treated as a separate species or subspecies, though recent molecular evidence supports conspecificity with North American populations.
+In Europe and Asia, the species occurs across Scandinavia, central Europe, Russia, China, Korea, and Japan. The Eurasian populations are sometimes treated as a separate species or subspecies, though recent molecular evidence supports conspecificity with [[growing-gourmet-north-american-reishi-species]] populations.
 
 The ostrich fern is strongly associated with riparian and alluvial habitats, including floodplains, stream banks, swamp margins, and moist woodland bottoms. It requires consistently moist, rich soils with high organic content and tolerates seasonal flooding.
 
@@ -80,7 +80,7 @@ The species spreads vigorously by underground rhizomes, forming dense colonies t
 
 Cultivation is straightforward: plant in partial to full shade in consistently moist, humus-rich soil with pH 5.5–7.0. The species tolerates full sun with adequate moisture but suffers in dry, exposed sites. Mulching helps retain soil moisture and suppress weeds.
 
-Pests and diseases are rarely serious, though slugs and snails may feed on emerging fiddleheads in wet springs. The persistent fertile fronds provide winter interest and should be left standing until new growth appears in spring.
+[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] are rarely serious, though [[query-how-to-get-rid-of-slugs-and-snails-organically]] may feed on emerging fiddleheads in wet springs. The persistent fertile fronds provide winter interest and should be left standing until new growth appears in spring.
 
 Division of established clumps in early spring is the standard propagation method for garden use. The rhizomes can be cut into sections with at least one growing bud each, and divisions establish readily in prepared sites. Spore propagation is possible but slow, requiring 1–2 years to produce plantable sporophytes.
 
@@ -88,13 +88,13 @@ Division of established clumps in early spring is the standard propagation metho
 
 The ostrich fern provides important habitat structure in riparian and wetland ecosystems. Its dense frond canopy shades stream banks, helping to regulate water temperature and providing cover for amphibians, small mammals, and ground-nesting birds.
 
-The species is particularly important as nesting cover for ground-nesting birds such as wood thrushes and veeries in eastern North American forests. The dense frond canopy provides concealment from predators while the open space beneath the arching fronds allows for movement.
+The species is particularly important as nesting cover for ground-nesting birds such as wood thrushes and veeries in [[polypore-fungi-eastern-north-america]] American forests. The dense frond canopy provides concealment from predators while the open space beneath the arching fronds allows for movement.
 
 The extensive root and rhizome network contributes to stream bank stabilization, reducing erosion in flood-prone areas. In alluvial floodplain habitats, the rhizomes help bind soil during periodic flooding events.
 
 Colonies of ostrich fern create microhabitats with higher humidity and lower light intensity than surrounding areas, benefiting shade-tolerant understory plants and moisture-loving invertebrates. The decomposing frond litter adds organic matter to the soil surface.
 
-In northern boreal forests, the ostrich fern is one of the few understory species that thrives under closed-canopy conifer stands. Its presence is often an indicator of rich, moist alluvial soils with high water tables.
+In northern [[fungal-diversity-boreal-forests-taiga]], the ostrich fern is one of the few understory species that thrives under closed-canopy conifer stands. Its presence is often an indicator of rich, moist alluvial soils with high water tables.
 
 Several moth species, including the ostrich fern sawfly (Strongylogaster multicornis), feed exclusively on Matteuccia foliage. These specialist herbivores typically cause only minor cosmetic damage and do not significantly impact plant health or fiddlehead production.
 

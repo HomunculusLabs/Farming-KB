@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Coccidioides is a genus of dimorphic fungal pathogens that cause
+Coccidioides is a genus of dimorphic [[bloomfield-fungal-pathogens-and-parasites]] that cause
 coccidioidomycosis (Valley Fever), a respiratory disease acquired by
 inhalation of airborne arthroconidia from soil. Molecular phylogenetic
 studies have revealed that what was long considered a single species
@@ -22,14 +22,14 @@ lineages with distinct geographic distributions. These discoveries
 illustrate how [[aspergillus-fumigatus-population-genetics]], Coccidioides species
 show strong geographic endemism. C. immitis is primarily found in
 California, while C. posadasii inhabits Arizona, Texas, and extends
-through Central and South America. South American populations comprise a
+through Central and South America. [[chiric-caspi-brunfelsia-south-american-hallucinogen]] populations comprise a
 genetically bottlenecked subset of the diversity found in Texas,
 suggesting southward dispersal following the last Pleistocene
 glaciation.
 
 Analysis showed that geography covaries with genetic distance in a
 linear manner within North and Central American populations, indicating
-that successful long-distance spore dispersal is low and effective gene
+that successful long-distance [[aquatic-fungi-spore-dispersal-ingold]] is low and effective gene
 flow is limited. This contrasts markedly with A. fumigatus, which shows
 no hint of endemism despite being morphologically asexual.
 
@@ -41,7 +41,7 @@ multiple loci rejected the hypothesis of exclusively clonal reproduction,
 indicating that genetic recombination occurs in natural populations. The
 discovery of both mating types (MAT1-1 and MAT1-2) in roughly equal
 proportions at single geographic locations further supports cryptic
-sexual reproduction.
+[[fungal-life-cycles-sexual-reproduction-metamorphosis]].
 
 The combination of clonality and recombination allows Coccidioides to
 maintain species cohesion while adapting to local environments. However,
@@ -64,7 +64,7 @@ promoting virulence and fewer repeats favouring adhesion function.
 Coccidioides is a primary fungal pathogen -- it does not require a
 compromised host to cause disease. Infection occurs via inhalation of
 soil-dustborne arthroconidia, primarily in arid and semi-arid regions of
-the southwestern United States, northern Mexico, and parts of Central
+the southwestern [[dmt-containing-plants-united-states-halpern]], northern Mexico, and parts of Central
 and South America. Understanding the phylogenetic structure and
 biogeography of Coccidioides populations is essential for tracking the
 geographic origin of infections, predicting emergence in new areas, and

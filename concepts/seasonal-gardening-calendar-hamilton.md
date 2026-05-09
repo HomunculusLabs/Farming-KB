@@ -1,5 +1,5 @@
 ---
-title: Seasonal Gardening Calendar (Hamilton Method)
+title: hamilton-seasonal-gardening-calendar Calendar (Hamilton Method)
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -31,13 +31,13 @@ A seasonal calendar divides the gardening year into four periods: spring (March 
 **Greenhouse**: Ventilate on sunny days, close at night. Keep atmosphere fairly dry. Sow ornamental half-hardy annuals. Start sowing herbs. Take cuttings of overwintered perennials. Sow peppers, eggplants, cucumbers, tomatoes. Sow okra and leeks. Tie up vine rods.
 
 ### Mid-Spring
-**Ornamental**: Plant bare root evergreens. Prune shrubs flowering on one-year-old wood immediately after flowering. Prune shrubs flowering on current season's wood. Prune heathers after flowering. Plant floating, oxygenating, and marsh plants in pond. Plant tubs and hanging baskets. Take cuttings of half-hardy perennials.
+**Ornamental**: Plant bare root evergreens. Prune shrubs flowering on one-year-old wood immediately after flowering. Prune shrubs flowering on current season's wood. Prune heathers after flowering. Plant floating, oxygenating, and marsh plants in pond. Plant tubs and [[hamilton-hanging-baskets-organic]]. Take cuttings of half-hardy perennials.
 
 **Vegetable**: Plant asparagus crowns. Sow sweet corn under polyethylene. Sow Florence fennel, peas, okra, turnips, kohlrabi, salsify, scorzonera, carrots, beets, cauliflower, broccoli, kale, Swiss chard. Plant globe artichokes, green beans, onions. Set up canes for runner beans. Plant eggplants and peppers under cloches.
 
-**Fruit**: Feed red and white currants with rock potash, black currants with blood, fish, and bone meal. Remove cloches from strawberries by day for pollination. Graft apples, pears, and plums. Hand-pollinate blossoms under fabric.
+**Fruit**: Feed red and white currants with rock potash, [[query-how-to-grow-black-currants-at-home]] with blood, fish, and bone meal. Remove cloches from strawberries by day for pollination. Graft apples, pears, and plums. Hand-pollinate blossoms under fabric.
 
-**Greenhouse**: Start shading and increase ventilation. Sow cucumbers for cloches. Sow leeks, runner beans, okra, squash, celeriac for outside. Plant tomatoes in unheated greenhouse in growing bags or borders.
+**Greenhouse**: Start shading and increase ventilation. Sow cucumbers for cloches. Sow leeks, runner beans, okra, squash, celeriac for outside. Plant tomatoes in [[coleman-unheated-greenhouse-design]] in growing bags or borders.
 
 ### Late Spring
 **Ornamental**: Finish planting bare root evergreens. Support tall perennials. Trim ground cover after flowering. Plant out half-hardy annuals when frost has passed. Start clipping fast-growing hedges. Prune early flowering climbers. Plant deep-water aquatic plants. Sow hardy perennials and biennials. Start softwood cuttings. Control aphids.
@@ -53,7 +53,7 @@ A seasonal calendar divides the gardening year into four periods: spring (March 
 ### Throughout Summer
 - Water in dry weather but don't water ripe fruit. Continue hoeing (many weeds now seeding). Cut down perennial weeds near the garden
 - Continue mulching to control weeds and retain moisture. Start a new compost bin if needed. Cover bare ground with compost. Sow vacant ground with mustard or phacelia green-manure cover crop
-- Watch for pests and diseases and treat immediately. Best season for softwood cuttings and budding. Start layering
+- Watch for [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] and treat immediately. Best season for softwood cuttings and budding. Start layering
 
 ### Early Summer
 **Ornamental**: Remove rose suckers. Cut back early flowering perennials. Dig up and heel-in spring bulbs. Plant half-hardy perennials. Plant deep-water aquatics. Transplant seedlings to nursery rows. Continue sowing biennials. Propagate climbers by layering.
@@ -99,6 +99,6 @@ A seasonal calendar divides the gardening year into four periods: spring (March 
 - [[green-manure-crops]]
 
 ## Source
-- Hamilton, Geoff & Nick Hamilton. "Organic Gardening." The Gardening Year section, pp. 279-283.
+- Hamilton, Geoff & Nick Hamilton. "[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]." The Gardening Year section, pp. 279-283.
 - [[gaias-garden-cover-crops-soil-building]]
 - [[hamilton-seasonal-gardening-calendar]]

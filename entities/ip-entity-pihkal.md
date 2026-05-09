@@ -1,5 +1,5 @@
 ---
-title: "IP (ISOPROSCALINE; 3,5-DIMETHOXY-4-(i)-PROPOXYPHENETHYLAMINE) -- PIHKAL Entry #92"
+title: "IP ([[isoproscaline]]; 3,5-DIMETHOXY-4-(i)-PROPOXYPHENETHYLAMINE) -- 2c-b-pihkal-entry-20 #92"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # IP
 
-PIHKAL entry #92. ISOPROSCALINE; 3,5-DIMETHOXY-4-(i)-PROPOXYPHENETHYLAMINE.
+[[2c-b-pihkal-entry-20]] #92. ISOPROSCALINE; 3,5-DIMETHOXY-4-(i)-PROPOXYPHENETHYLAMINE.
 
 ## Chemical Name
 

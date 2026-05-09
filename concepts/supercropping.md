@@ -3,6 +3,7 @@ title: Supercropping
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
@@ -11,11 +12,11 @@ tags: [reference]
 
 # Supercropping
 
-Supercropping is an advanced plant training technique that involves deliberately damaging or stressing cannabis branches to increase yield, control plant height, and promote lateral growth. Cervantes describes supercropping as "a form of pinching back or pruning branch tips" that has "several different versions invented by innovative growers." The term has become a catch-all phrase in cannabis cultivation for high-stress training (HST) methods that push plants beyond simple bending.
+Supercropping is an advanced plant training technique that involves deliberately damaging or stressing cannabis branches to increase yield, control plant height, and promote lateral growth. Cervantes describes supercropping as "a form of pinching back or pruning branch tips" that has "several different versions invented by innovative growers." The term has become a catch-all phrase in [[query-how-does-no-till-cannabis-cultivation-work]] for high-stress training (HST) methods that push plants beyond simple bending.
 
 ## Core Concept
 
-Supercropping works by causing controlled damage to plant tissue, which triggers the plant's natural healing response. When a stem is crushed, bent past its breaking point, or otherwise stressed, the plant responds by thickening the damaged area (creating a "knuckle" or callus), redirecting growth hormones to lateral branches, and in some cases increasing resin production. The technique manipulates auxin distribution throughout the plant, causing growth hormones to concentrate in multiple branch tips rather than a single apical meristem.
+Supercropping works by causing controlled damage to plant tissue, which triggers the plant's natural healing response. When a stem is crushed, bent past its breaking point, or otherwise stressed, the plant responds by thickening the damaged area (creating a "knuckle" or callus), redirecting growth hormones to lateral branches, and in some cases increasing [[cannabis-glandular-trichome-types-resin-production-clarke]]. The technique manipulates auxin distribution throughout the plant, causing growth hormones to concentrate in multiple branch tips rather than a single apical meristem.
 
 ## Supercropping Techniques
 
@@ -59,7 +60,7 @@ Supercropping manipulates auxin distribution throughout the plant. The apical me
 
 ## Stress and Recovery
 
-Cervantes warns that pruning more than 20 percent of foliage in a short time frame stresses plants too much and diminishes harvest. The same principle applies to supercropping -- do not damage too many branches at once. "Stress is a growth inhibitor," he notes. Stressed plants with wounded stems and vegetation grow slower and invite pests and diseases.
+Cervantes warns that pruning more than 20 percent of foliage in a short time frame stresses plants too much and diminishes harvest. The same principle applies to supercropping -- do not damage too many branches at once. "Stress is a growth inhibitor," he notes. Stressed plants with wounded stems and vegetation grow slower and invite [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
 
 Severe stress from excessive supercropping can alter hormonal concentrations, causing spindly growth. This is often observed in mother plants that provide too many clones -- "the mother must rest and gain girth, because small, spindly branches root poorly."
 

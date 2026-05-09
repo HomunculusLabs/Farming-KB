@@ -10,7 +10,7 @@ sources:
 
 # Mind-Body Problem and Psychedelics
 
-The mind-body problem, one of the oldest and most intractable puzzles in Western philosophy, concerns the relationship between the immaterial world of conscious experience and the material world of physical substance.
+The mind-body problem, one of the oldest and most intractable puzzles in [[fukuoka-descartes-western-philosophy-nature]], concerns the relationship between the immaterial world of conscious experience and the material world of physical substance.
 
 Psychedelics offer a uniquely powerful lens through which to examine this problem, because they demonstrate in the most direct possible way that changes in physical brain chemistry produce changes in the nature and content of consciousness.
 
@@ -24,7 +24,7 @@ This Cartesian dualism created a philosophical crisis that has persisted for ove
 
 The interaction problem, as it came to be known, asks how thoughts, which have no mass, no location in physical space, and no measurable physical properties, can nevertheless cause physical actions like the movement of a hand or the utterance of a word.
 
-Descartes himself proposed that the interaction occurred through the pineal gland, a small structure in the center of the brain, but this solution was widely regarded as inadequate even in his own time.
+Descartes himself proposed that the interaction occurred through the [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]], a small structure in the center of the brain, but this solution was widely regarded as inadequate even in his own time.
 
 ## Why Psychedelics Matter for the Problem
 
@@ -62,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

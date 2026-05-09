@@ -80,7 +80,7 @@ triggering commonly associated side effects.
 | Drug | Study Type | Year, Place, Key Results | CHI |
 |------|-----------|--------------------------|-----|
 | Anandamide & WIN55,212-2 | Animal (rats) | 2009, Nottingham UK: Endocannabinoid anandamide and synthetic WIN55,212-2 lowered high blood pressure through vasodilatation | 2 |
-| 2.8% THC inhalation | Human clinical trial | 1976, Howard Univ. Hospital, Washington DC: Reduction in blood pressure and intraocular pressure while maintaining adequate perfusion | 3 |
+| 2.8% THC inhalation | Human [[psilocybin-clinical-trial-landscape-2020-2025]] | 1976, Howard Univ. Hospital, Washington DC: Reduction in blood pressure and intraocular pressure while maintaining adequate perfusion | 3 |
 
 **Total CHI Value: 5**
 
@@ -133,11 +133,11 @@ identified and transcended.
 - **Garlic:** Contains allicin with potent antioxidant properties; odorless
   garlic powder prevents thrombus (clot) formation
 - **(E)-Beta-Caryophyllene:** FDA-approved dietary cannabinoid activating
-  CB2 sites, found in black pepper, cinnamon, rosemary, basil, oregano,
+  CB2 sites, found in [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], cinnamon, rosemary, basil, oregano,
   and clove
 
 ### Related Topics
 
 - [[blesching-cannabis-stroke]]
 - [[blesching-cannabis-atherosclerosis]]
-- [[blesching-endocannabinoid-system-overview]]
+- [[endocannabinoid-system-overview]]

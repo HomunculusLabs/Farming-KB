@@ -1,5 +1,5 @@
 ---
-title: How Do Plants Use Chemical Signals to Defend Against Insects and Communicate With Other Organisms?
+title: How Do Plants Use query how do plants use chemical signals to defend against insects to Defend Against Insects and Communicate With Other Organisms?
 created: 2026-04-28
 tags: [plant-communication, VOCs, chemical-ecology, plant-defense, HIPV, tritrophic-interactions, pheromones, integrated-pest-management, semiochemicals]
 date: 2026-04-28
@@ -21,7 +21,7 @@ Plants produce **volatile organic compounds (VOCs)** — airborne chemicals rele
 
 ## What Are Plant Volatile Organic Compounds?
 
-Plant VOCs are small, airborne molecules that evaporate easily at ambient temperatures. Plants emit over 1,700 known volatile compounds, which fall into several chemical families:
+Plant VOCs are small, airborne molecules that evaporate easily at ambient temperatures. Plants emit over 1,700 known [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]], which fall into several chemical families:
 
 - **Terpenoids** (monoterpenes, sesquiterpenes): Pinene, limonene, linalool, β-caryophyllene — give pine, citrus, and many herbs their characteristic scents.
 - **Green leaf volatiles (GLVs):** Hexenal, hexenol, hexenyl acetate — the "cut grass" smell released instantly when leaf tissue is damaged.
@@ -51,7 +51,7 @@ Some VOCs directly harm or repel the herbivore:
 - **(E)-2-hexenal** (a green leaf volatile) is toxic to fungal spores and some insect larvae.
 - **Monoterpenes** like pinene and limonene in conifer resin can trap and poison bark beetles.
 - **Nicotine** is a volatile neurotoxin that deters feeding by many insects.
-- **Isothiocyanates** in mustard family plants are pungent compounds that repel most herbivores and have antimicrobial properties.
+- **Isothiocyanates** in mustard family plants are pungent compounds that repel most herbivores and have [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
 
 These are constitutive (always present at baseline levels) but are dramatically upregulated upon attack.
 
@@ -114,7 +114,7 @@ Synthetic copies of insect sex pheromones can be deployed to disrupt mating:
 
 Emerging technology allows growers to use volatile compounds to prime crop defenses:
 
-- **Methyl jasmonate sprays** can prime tomatoes, grapes, and other crops for enhanced resistance against pests and diseases.
+- **Methyl jasmonate sprays** can prime tomatoes, grapes, and other crops for enhanced resistance against [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
 - **β-caryophyllene soil drenches** have shown promise for priming maize root defenses.
 - **Plant "vaccine" concept:** Treating seeds or seedlings with defense-triggering volatiles before transplanting can provide weeks of enhanced resistance.
 
@@ -124,7 +124,7 @@ Not entirely, but it's a powerful component of **integrated pest management (IPM
 
 - VOC-based strategies work **best preventively** — they prime defenses and maintain predator populations before pest outbreaks occur.
 - For **severe infestations**, they may need to be combined with selective insecticides (spinosad, Bt, neem) or targeted biological control releases.
-- The most effective programs **combine all three levels**: VOC-mediated defense priming, pheromone-based mating disruption, and biological control with beneficial insects.
+- The most effective programs **combine all three levels**: VOC-mediated defense priming, pheromone-based mating disruption, and biological control with [[coleman-beneficial-insects-and-ecological-pest-control]].
 
 ## Key Facts to Remember
 
@@ -140,6 +140,8 @@ Not entirely, but it's a powerful component of **integrated pest management (IPM
 | Volatile with dual above/below-ground role | β-Caryophyllene (attracts nematodes to roots) |
 ## See Also
 
+- [[query-how-do-plants-defend-themselves-chemically]]
+
 - [[plant-olfaction-and-chemical-sensing]] — comprehensive topic page on VOCs
-- [[plant-cellulose-and-carbohydrate-chemistry]] — broader plant defense chemistry
+- [[plant-cellulose-and-carbohydrate-chemistry]] — broader plant [[plant-defense-mechanisms]]
 - [[hamilton-beneficial-insects-and-biological-pest-control]] — another indirect defense pathway

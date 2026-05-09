@@ -29,7 +29,7 @@ sources:
 
 **Russula virescens**, the green cracking russula or quilted green russula, is a
 basidiomycete fungus in the family Russulaceae. Widely regarded as one of the
-finest edible wild mushrooms in Europe and East Asia, it is an ectomycorrhizal
+finest edible [[edible-wild-mushrooms-by-region]] in Europe and East Asia, it is an ectomycorrhizal
 species associated primarily with oak (*Quercus* spp.) and other hardwoods. The
 species is easily recognized by its pale green cap with a distinctive cracked
 (mosaic) surface pattern.
@@ -66,7 +66,7 @@ Ectomycorrhizal with oaks (*Quercus* spp.), beech (*Fagus*), chestnut (*Castanea
 and occasionally other hardwoods in mixed forests. Prefers warm, well-drained soils
 in mature deciduous or mixed woodlands. Widespread across Europe (Mediterranean to
 Central Europe), East Asia (China, Korea, Japan), and reported from North Africa and
-the eastern United States. Fruits from June to October, peaking in late summer.
+the eastern [[dmt-containing-plants-united-states-halpern]]. Fruits from June to October, peaking in late summer.
 In China it is commercially harvested from oak forests in Yunnan, Sichuan, and
 Guizhou provinces.
 
@@ -102,17 +102,17 @@ confused with:
 
 ## Ecological Significance
 
-As an ectomycorrhizal species, *R. virescens* contributes to forest nutrient cycling
+As an ectomycorrhizal species, *R. virescens* contributes to forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 by facilitating phosphorus and nitrogen uptake for host trees. Its preference for
 mature oak forests makes it an indicator of stable, undisturbed hardwood ecosystems.
 In China, overharvesting of wild populations has led to concerns about sustainability,
-prompting research into artificial cultivation of ectomycorrhizal seedlings inoculated
+prompting research into [[fukuoka-matsutake-artificial-cultivation-attempt]] of ectomycorrhizal seedlings inoculated
 with *R. virescens*. Successful inoculation of oak seedlings has been demonstrated,
 suggesting a pathway toward managed production.
 
 ## Chemical Constituents
 
-Chemical analysis has identified several bioactive compounds: sterols (including
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] has identified several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]: sterols (including
 ergosterol), phenolic acids (caffeic and ferulic acid derivatives), and
 polysaccharides with reported immunomodulatory and antioxidant activity. Extracts
 have demonstrated in vitro radical scavenging activity comparable to other culinary

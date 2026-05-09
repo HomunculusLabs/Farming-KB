@@ -17,9 +17,9 @@ sources:
 
 ## Overview
 
-**Ipomoea aquatica** Forssk., commonly known as **water spinach**, **kangkong**, **water morning glory**, or **swamp cabbage**, is a semi-aquatic herbaceous plant in the family Convolvulaceae. It is one of the most widely consumed leafy vegetables in tropical and subtropical Asia.
+**Ipomoea aquatica** Forssk., commonly known as **water spinach**, **kangkong**, **water [[golden-guide-morning-glory-and-ololiuqui]]**, or **swamp cabbage**, is a semi-aquatic herbaceous plant in the family Convolvulaceae. It is one of the most widely consumed leafy vegetables in tropical and subtropical Asia.
 
-The species is highly productive, fast-growing, and adapted to aquatic and semi-aquatic environments. Its tender hollow stems and leaves are rich in vitamins and minerals, making it a nutritionally important vegetable across South and Southeast Asia. It is also considered an invasive weed in several countries where it has naturalized outside its native range.
+The species is highly productive, fast-growing, and adapted to aquatic and semi-aquatic environments. Its tender hollow stems and leaves are rich in vitamins and minerals, making it a nutritionally important vegetable across South and [[psilocybe-southeast-asia-pacific]]. It is also considered an invasive weed in several countries where it has naturalized outside its native range.
 
 ## Taxonomy and Morphology
 
@@ -29,7 +29,7 @@ The species is highly productive, fast-growing, and adapted to aquatic and semi-
 
 The species was first described by Pehr Forsskål in 1775. Two forms are commonly recognized in cultivation: the narrow-leafed "upland" form and the broad-leafed "aquatic" form. Some authorities treat these as distinct varieties or subspecies, but they intergrade freely where cultivated together.
 
-The species is closely related to *Ipomoea batatas* (sweet potato) and *Ipomoea tricolor* (morning glory). It shares the characteristic convolvulaceous funnel-shaped flowers with these relatives.
+The species is closely related to *Ipomoea batatas* ([[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]) and *Ipomoea tricolor* (morning glory). It shares the characteristic convolvulaceous funnel-shaped flowers with these relatives.
 
 ### Morphology
 
@@ -59,7 +59,7 @@ The vegetable is an excellent source of vitamins A and C, providing approximatel
 
 Mineral content per 100 g fresh weight includes calcium (50–80 mg), iron (1.5–3.0 mg), phosphorus (30–50 mg), and potassium (200–300 mg). The iron content is relatively high among leafy vegetables, contributing to its value in iron-deficient populations.
 
-Compared to other tropical leafy vegetables, water spinach has a favorable nutrient density profile. Its protein content exceeds that of many common leafy greens, and its vitamin A content is among the highest of all cultivated vegetables in the tropics. Regular consumption contributes meaningfully to recommended daily intakes of multiple micronutrients.
+Compared to other tropical leafy vegetables, water spinach has a favorable nutrient density profile. Its protein content exceeds that of many common [[solomon-leafy-greens-growing]], and its vitamin A content is among the highest of all cultivated vegetables in the tropics. Regular consumption contributes meaningfully to recommended daily intakes of multiple micronutrients.
 
 Antioxidant capacity is notable, with total phenolic content and radical scavenging activity comparable to or exceeding that of many commercially important leafy vegetables.
 
@@ -73,7 +73,7 @@ In Malaysian and Indonesian cuisines, *kangkung* belacan (stir-fried with shrimp
 
 In Myanmar, water spinach is used in *hin* (curries) and served as a blanched side dish with fish paste. In Laos and Cambodia, it appears in *lam* (stews) and is eaten raw with dipping sauces. Across the region, the hollow stems are often split and stuffed with ground fish or pork before cooking.
 
-In traditional medicine, water spinach has been used as a mild laxative, diuretic, and anthelmintic. The juice of the plant is used in Ayurvedic and folk medicine to treat jaundice, diabetes, and skin conditions, though clinical evidence for these uses is limited.
+In traditional medicine, water spinach has been used as a mild laxative, diuretic, and anthelmintic. The juice of the plant is used in Ayurvedic and folk medicine to treat jaundice, diabetes, and [[cannabis-for-skin-conditions-detailed]], though clinical evidence for these uses is limited.
 
 ## Cultivation
 
@@ -81,7 +81,7 @@ Water spinach is propagated by stem cuttings or seeds, with stem cuttings being 
 
 For aquatic cultivation, rooted cuttings are planted in ponds or paddies at spacing of 20–30 cm. For upland cultivation, cuttings are planted in raised beds with regular irrigation. The first harvest occurs 30–45 days after planting, with subsequent harvests every 15–20 days.
 
-Yields are very high, ranging from 20–60 tonnes per hectare per year depending on cultivation method and harvest frequency. The plant can produce 4–8 harvests per year in tropical climates with adequate water and fertilization.
+Yields are very high, ranging from 20–60 tonnes per hectare per year depending on [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] and harvest frequency. The plant can produce 4–8 harvests per year in tropical climates with adequate water and fertilization.
 
 Nitrogen fertilization significantly increases yield, with optimal rates of 80–120 kg N/ha. Organic manure is also effective. Pests include aphids, stem borers, and leaf beetles, but damage is usually manageable without chemical intervention.
 
@@ -96,6 +96,8 @@ The plant's vegetative reproduction through stem fragmentation makes control dif
 Despite its invasive potential, water spinach remains legally cultivated and sold in most Asian countries and is an important component of food security in tropical lowland regions. The tension between its agricultural value and ecological risk continues to shape regulatory approaches in different countries.
 
 ## See Also
+
+- [[nyssa-aquatica]]
 
 - [[ipomoea-tricolor]]
 - [[colocasia-esculenta]]

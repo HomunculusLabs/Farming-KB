@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-**Nepenthes mirabilis**, the common or swamp pitcher plant, is the most widely distributed species in the genus *Nepenthes*. Its range extends from northern Australia through Southeast Asia to southern China, making it the only species with a truly pantropical distribution within the family Nepenthaceae.
+**Nepenthes mirabilis**, the common or swamp pitcher plant, is the most widely distributed species in the genus *Nepenthes*. Its range extends from northern Australia through [[psilocybe-southeast-asia-pacific]] to southern China, making it the only species with a truly [[copelandia-cyanescens-pantropical-distribution-and-ecology]] within the family Nepenthaceae.
 
 The species produces distinctive pitcher traps formed from modified leaf tips. Lower pitchers are bulbous and rest on the ground, while upper pitchers are narrower, funnel-shaped, and climb via a coiling tendril.
 
@@ -62,11 +62,11 @@ Recent research has identified mutualistic relationships between *N. mirabilis* 
 
 ## Ethnobotany and Ecology
 
-**Nepenthes mirabilis** has limited recorded ethnobotanical use. In parts of Southeast Asia, the fluid from unopened pitchers has been used as a traditional remedy for eye irritation and skin conditions, though this practice is not widespread.
+**Nepenthes mirabilis** has limited recorded ethnobotanical use. In parts of Southeast Asia, the fluid from unopened pitchers has been used as a traditional remedy for eye irritation and [[cannabis-for-skin-conditions-detailed]], though this practice is not widespread.
 
 The species plays a role in its native ecosystems beyond nutrient acquisition. Pitchers serve as microhabitats for a diverse community of aquatic organisms including protozoa, rotifers, dipteran larvae, and occasionally crab spiders that ambush visiting insects.
 
-In disturbed habitats, *N. mirabilis* often acts as a pioneer species, colonizing open, nutrient-poor sites where competition from other plants is reduced. Its rapid growth and prolific seed production facilitate this ecological strategy.
+In disturbed habitats, *N. mirabilis* often acts as a pioneer species, colonizing open, nutrient-poor sites where competition from other plants is reduced. Its rapid growth and prolific [[cervantes-seed-production-storage]] facilitate this ecological strategy.
 
 The species is not currently considered threatened due to its enormous range and tolerance of human-modified landscapes. However, local populations in Southeast Asia face pressure from agricultural drainage and peatland conversion.
 
@@ -78,7 +78,7 @@ The pitcher fluid contains a suite of hydrolytic enzymes. Proteases (including a
 
 Chitinases degrade the exoskeletal chitin of arthropod prey. Phosphatases release phosphate from organic molecules, and RNases and DNases break down nucleic acids. The enzyme cocktail varies with pitcher age and prey composition.
 
-Secondary metabolites identified from *N. mirabilis* include flavonoids, phenolic acids, and terpenoids. These compounds may serve defensive roles, protecting the pitcher tissue from fungal colonization and bacterial overgrowth.
+[[antifungal-secondary-metabolites-coprophilous-fungi]] identified from *N. mirabilis* include flavonoids, phenolic acids, and terpenoids. These compounds may serve defensive roles, protecting the pitcher tissue from fungal colonization and bacterial overgrowth.
 
 ## Cultivation
 
@@ -90,7 +90,7 @@ Warm temperatures (25–35°C daytime, 18–25°C nighttime) and high humidity (
 
 Propagation from seed is straightforward but slow; seedlings require several months to develop their first pitchers. Stem cuttings root readily when placed in moist sphagnum under high humidity with bottom heat.
 
-Common cultivation problems include fungal infections in poorly ventilated setups, and failure to pitcher under insufficient light or humidity. Pests include scale insects, mealybugs, and thrips, which can be managed with horticultural oils or systemic insecticides.
+Common cultivation problems include [[blesching-cannabis-fungal-infections-candida]] in poorly ventilated setups, and failure to pitcher under insufficient light or humidity. Pests include scale insects, mealybugs, and thrips, which can be managed with horticultural oils or systemic insecticides.
 
 ## Related Species
 

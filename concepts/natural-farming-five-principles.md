@@ -1,101 +1,137 @@
 ---
-title: natural farming five principles
-created: 2026-05-08
-updated: 2026-05-08
-type: concept
-tags: [farming, permaculture, agriculture, philosophy]
-sources: ["raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"]
+title: comparison-natural-farming-vs-permaculture Five Principles
+source: administrator-microsoft-word-fukuoka-textdoc.md
+author: Masanobu Fukuoka
+tags: [farming, natural-farming, agriculture, do-nothing, permaculture, philosophy]
+created: 2026-05-09
 ---
+
 # Natural Farming Five Principles
 
-[[natural-farming]] is founded on five major principles
-that fundamentally challenge conventional agricultural science: no tillage,
-no fertilizer, no pesticides, no weeding, and no pruning. Developed over
-fifty years of experimentation on his farm in Ehime Prefecture, Japan,
-these principles constitute what Fukuoka called the "[[do-nothing-farming-philosophy]] and [[natural-diet]].
+## Overview
 
-By comparison, traditional farming using horses and oxen expended ten
-times as much energy, small-scale mechanization doubled it again, and
-large-scale mechanization doubled it yet another time. This geometric
-progression has produced the energy-intensive, economically unsustainable
-agricultural methods of the modern era.
+Masanobu Fukuoka's natural farming is founded on five fundamental principles that
+challenge the entire foundation of modern [[fukuoka-critique-scientific-agriculture-civilization]]. Developed over
+fifty years of experimentation on his farm on the island of Shikoku, Japan, these
+principles represent a complete rejection of human intervention in the growing
+process. Fukuoka demonstrated their validity consistently, harvesting close to 22
+bushels (1,300 pounds) of winter grain and 22 bushels of rice per quarter-acre
+without any of the practices that conventional farmers consider indispensable.
 
-## Agricultural Implications
-## Practical Applications
+## The Five Principles
 
-natural farming five principles has a range of practical applications that make it relevant to
-both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
-reflects the fundamental importance of this topic across disciplines.
+### 1. No Tillage
 
-Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
-straightforward, while larger implementations require more careful
-planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
+Fukuoka's fields have not been plowed or turned in over thirty years. He argues
+that no plant on the face of the earth is so weak as to germinate only in plowed
+soil. Plants have always grown by [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]], without tillage. The soil in
+fields is worked by small animals and roots, and enriched by green manure plants.
+Microorganisms and small animals act as nature's tillers. Flooding a field with
+water and stirring it up with a plow causes the ground to set as hard as plaster,
+creating the very conditions that make a plow seem necessary. When farmers kill
+the soil with plow and chemical fertilizer, they create weak, diseased rice
+plants that require further intervention in an escalating cycle of dependency.
 
-Documented case studies provide valuable reference points, though
-each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
-creative adaptation to local conditions and emerging challenges.
+### 2. No Fertilizer
 
-## Key Considerations
+[[cervantes-chemical-fertilizers-guide]] have only become thought of as indispensable over the last
+fifty years. The ancient practice of using manure and compost does help speed
+crop growth, but this also depletes the land from which the organic material in
+the compost is taken. Fukuoka demonstrated that soil enriches itself year in and
+year out without man having to lift a finger. One gram of soil on his farm
+contains about 100 million nitrogen-fixing bacteria and other soil-enriching
+microbes. Green manure — nature's own fertilizer — and animal manure were always
+cheaper and safer methods than chemical inputs. Fertilizers only appear effective
+when the soil is already dead; they are essentially counterproductive on healthy,
+living soil.
 
-Several important considerations should guide approach and decision-
-making when working with this topic. These include environmental
-factors, resource availability, timing, and the specific goals of the
-implementation. Careful attention to these factors improves outcomes
-and reduces the likelihood of common problems and setbacks.
+### 3. No Pesticides
 
-Environmental conditions play a particularly significant role in
-determining outcomes. Factors such as temperature, moisture, light
-exposure, and seasonal timing can substantially affect results.
-Monitoring these conditions and adapting practices accordingly is
-a hallmark of experienced and effective practice in this area.
+Although a thousand diseases attack plants in the fields and forests, nature
+strikes a balance; there never was any need for pesticides. Man grew confused
+when he identified these diseases as insect damage; he created with his own
+hands the need for labor and toil. Whenever a large outbreak of leafhoppers
+occurs in Fukuoka's fields, the spiders multiply too, without fail. As long as
+natural enemies are present, a natural balance asserts itself. Pesticides ruin
+the soil and create a pollution problem. The first application kills off hordes
+of rice leafhoppers but also eliminates tens of thousands of young spiders per
+square yard, swarms of fireflies, chalcid wasps, dragonfly larvae, and tadpoles.
 
-Resource considerations include not only material inputs but also
-knowledge, skills, time, and ongoing management capacity. Realistic
-assessment of available resources helps prevent overcommitment and
-enables more sustainable and successful long-term implementations.
+### 4. No Weeding
 
-## Common Challenges
+Nature does not arbitrarily call one plant a weed and try to eradicate it. The
+distinction between crops and weeds is a human invention alien to the natural
+world. Fukuoka's fields are covered with clover and other ground covers that
+serve as living mulch, suppressing unwanted vegetation while fixing nitrogen
+and building soil. Rather than fighting against volunteer plants, his method
+incorporates them into the ecosystem. The straw scattered over the field after
+harvest suppresses weeds naturally while decomposing to feed the soil.
 
-Practitioners commonly encounter several challenges when working with
-natural farming five principles. These include both technical difficulties and broader systemic
-issues that require adaptive management and creative problem-solving.
-Awareness of these common challenges enables more proactive planning
-and faster resolution when issues do arise during implementation.
+### 5. No Pruning
 
-Technical challenges often relate to the complexity of interactions
-between multiple variables and the difficulty of predicting outcomes
-with certainty. Building in redundancy, monitoring key indicators, and
-maintaining flexibility in approach all help manage this inherent
-uncertainty and improve the resilience of implementations over time.
+A fruit tree grows best in its natural habitat; the branches do not tangle,
+sunlight falls on every leaf, and the tree bears fully each year, not only in
+alternate years. Fukuoka's citrus orchard grows without pruning, demonstrating
+that trees in nature reach their full productive potential without human
+interference. The trees surrounding Japanese village shrines were not grown with
+the aid of [[duggar-mushroom-nutrition-science-fermentation-biological-requirement]], nor were they protected by plant ecology. Saved
+from the axe and saw by the shrine deity, they grew into large trees of their
+own accord.
 
-Learning from both successes and failures is essential for continuous
-improvement. Maintaining records of observations, interventions, and
-outcomes creates a valuable knowledge base that supports progressively
-better results with each iteration of practice and experimentation.
+## The "Do-Nothing" Philosophy
 
-## Integration and Future Development
+Fukuoka's approach is often called "do-nothing" farming, but this is not
+defeatism or laziness. After thirty years of eliminating unnecessary practices,
+expenditures, and labor, he reduced his work to essentially just sowing seed and
+spreading straw. Human effort is unnecessary because nature, not man, grows the
+rice and wheat. The objective of natural farming is non-action and a return to
+nature; it is centrifugal and convergent. In contrast, [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] breaks
+away from nature with the expansion of human wants and desires; it is centripetal
+and divergent, doomed to extinction through its own complexity. Natural farming
+is the methodless method of nature, the unmoving way of Bodhidharma. Although
+appearing fragile and vulnerable, it is potent for it brings victory unfought.
 
-The greatest value from this topic often comes through integration
-with other systems and approaches. Rather than treating it in isolation,
-considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
+## Energy Efficiency
 
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
+Natural farming produces 130 pounds of rice — or 200,000 kilocalories of energy
+— per man-day of labor, without the input of any outside materials. This is about
+100 times the daily intake of 2,000 kilocalories by a farmer on a natural diet.
+Ten times as much energy was expended in traditional farming with horses and oxen.
+The energy input was doubled again with small-scale mechanization, and doubled yet
+another time with large-scale mechanization. Scientific agriculture requires an
+energy expenditure per unit of food produced up to fifty times that of natural
+farming. Mechanized farming has not truly increased productivity; it has merely
+exchanged the joy of working outdoors for dreary hours of labor shut up inside a
+factory, while farmers must work extra hours away from their fields to earn
+outside income to pay for their equipment.
 
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
+## Contrast with Scientific Agriculture
 
+Fukuoka argues that the yields provided by scientific farming are actually smaller
+than the yields attainable under the full powers of nature. High-yield practices
+are merely endeavors by man to artificially restore full productivity after he
+has hamstrung nature. Man creates adverse conditions, then rejoices at his
+"conquest" of nature. Modern agriculture is just another processing industry that
+uses oil energy in the form of fertilizers, pesticides, and machinery to
+manufacture synthetic food products which are poor imitations of natural food. The
+farmer today has become a hired hand of industrialized society. Natural farming
+is more than just a revolution in agricultural techniques — it is the practical
+foundation of a spiritual movement, of a revolution to change the way man lives.
+
+## The Future of Natural Farming
+
+Although perhaps just the empty dream of a farmer who has sought in vain to return
+to nature and the side of God, Fukuoka wished to become the sower of seed. His
+greatest fear was that of nature being made the plaything of the human intellect.
+There is also the danger that man will attempt to protect nature through the medium
+of human knowledge, without noticing that nature can be restored only by abandoning
+our preoccupation with knowledge and action that has driven it to the wall. All
+begins by relinquishing human knowledge. Fukuoka proposed that even one person can
+begin, and that his humble experience with natural farming could be used toward
+the end of feeding a hungry world and restoring the earth's green cover.
+
+## See Also
+
+- [[clay-pellet-seed-balls]]
+- [[natural-farming-rice-barley-clover-method]]
+- [[fukuoka-green-philosophy]]

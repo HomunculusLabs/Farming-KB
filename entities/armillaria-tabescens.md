@@ -21,7 +21,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Tirmenstein, D. (1990). "Armillaria tabescens." In: "Silvics of North America," USDA Forest Service.
+  - Tirmenstein, D. (1990). "Armillaria tabescens." In: "Silvics of psilocybin-north-america-pacific-northwest," USDA Forest Service.
   - Baumgartner, K. & Bega, R.V. (1994). "Armillaria Root Disease." In: "Compendium of Grape Diseases," APS Press.
   - Kim, M.S. et al. (2006). "Molecular Phylogeny of Armillaria." Mycologia, 98(5), 742–752.
   - Schwarze, F.W.M.R. et al. (2000). "Fungal Strategies of Wood Decay in Trees." Springer.
@@ -42,7 +42,7 @@ The species is one of the most common causes of **Armillaria root rot**, a
 devastating disease of orchard trees, ornamental hardwoods, and forest trees.
 Individual genets (genetic individuals) can form enormous underground networks
 spanning hectares, making *Armillaria* species among the largest and oldest
-living organisms on Earth.
+[[savory-living-organisms-as-tools]] on Earth.
 
 Despite its pathogenic nature, *A. tabescens* is an edible mushroom when
 thoroughly cooked and is collected by foragers in regions where it is common.
@@ -55,7 +55,7 @@ Described by Giovanni Antonio Scopoli in 1772 as *Agaricus tabescens* and later
 transferred to *Armillaria* by Paul Kummer in 1871. Recent phylogenetic work
 confirms *A. tabescens* as a distinct species within the *Armillaria mellea*
 sensu stricto complex, separate from *A. mellea*, *A. gallica*, and
-*Armillaria solidipes* (the North American *A. ostoyae*).
+*Armillaria solidipes* (the [[growing-gourmet-north-american-reishi-species]] *A. ostoyae*).
 
 **Cap:** 3–10 cm, convex to plane with age, honey-brown to tan, often with
 darker scales or fibrils toward the center. Surface is dry to slightly tacky.
@@ -73,12 +73,12 @@ slightly enlarged but without a distinct rhizomorph bulb.
 deposit.
 
 **Rhizomorphs:** Black, shoestring-like structures formed underground, used for
-nutrient transport and colonization of new host roots. These are a hallmark of
+[[mycelial-network-nutrient-transport-imaging-gadd]] and colonization of new host roots. These are a hallmark of
 all *Armillaria* species.
 
 ## Distribution and Habitat
 
-Widely distributed across temperate eastern North America from the Great Lakes
+Widely distributed across temperate [[polypore-fungi-eastern-north-america]] America from the Great Lakes
 to the Gulf Coast and along the Atlantic seaboard. Also reported in Europe,
 particularly the Mediterranean region, and parts of Asia.
 
@@ -109,7 +109,7 @@ makes *Armillaria* root rot particularly challenging to manage in orchards and
 ornamental plantings.
 
 Despite its pathogenic role, *Armillaria* species play an important ecological
-function in forest nutrient cycling, decomposing dead wood and recycling carbon
+function in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], decomposing dead wood and recycling carbon
 and nutrients. In forest ecosystems, they are natural components of gap-phase
 dynamics, contributing to tree mortality and stand regeneration.
 
@@ -130,6 +130,8 @@ individuals report sensitivity even to cooked material.
 
 ## See Also
 
-- [[armillaria-gallica]] — honey mushroom species, common in European forests
+- [[armillaria-solidipes]]
+
+- armillaria-gallica — honey mushroom species, common in European forests
 - [[fomes-fomentarius]] — tinder fungus, another wood-decay basidiomycete
 - [[pleurotus-ostreatus]] — oyster mushroom, shared hardwood substrate

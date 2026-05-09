@@ -28,7 +28,7 @@ sources:
 
 ## Overview
 
-*Nasturtium officinale*, commonly known as **watercress**, is a perennial aquatic or semi-aquatic flowering plant in the family Brassicaceae (the mustard family). Native to Europe and Asia, it has become naturalized worldwide in cool, flowing freshwater habitats. Watercress is one of the oldest known leaf vegetables consumed by humans, with documented use dating back to ancient Persian, Greek, and Roman civilizations. Modern research has validated its exceptional nutrient density, ranking it as one of the most nutrient-dense foods per calorie among all fruits and vegetables (CDC ranked it #1 in 2014 among "powerhouse" fruits and vegetables). In permaculture design, watercress is valued as a high-yielding aquatic vegetable, water purifier, and erosion control plant in pond and stream edge systems.
+*Nasturtium officinale*, commonly known as **watercress**, is a perennial aquatic or semi-aquatic flowering plant in the family Brassicaceae (the mustard family). Native to Europe and Asia, it has become naturalized worldwide in cool, flowing freshwater habitats. Watercress is one of the oldest known leaf vegetables consumed by humans, with documented use dating back to ancient Persian, Greek, and Roman civilizations. Modern research has validated its exceptional nutrient density, ranking it as one of the most nutrient-dense foods per calorie among all fruits and vegetables (CDC ranked it #1 in 2014 among "powerhouse" fruits and vegetables). In [[permaculture-design]], watercress is valued as a high-yielding aquatic vegetable, water purifier, and erosion control plant in pond and stream edge systems.
 
 ## Taxonomy and Classification
 
@@ -85,7 +85,7 @@ sources:
 
 **Immune function:** High vitamin C content supports immune cell function, while glucosinolate metabolites enhance macrophage activity and NK cell cytotoxicity.
 
-**Eye health:** Lutein and zeaxanthin accumulate in the macula, protecting against age-related macular degeneration and blue light damage.
+**Eye health:** Lutein and zeaxanthin accumulate in the macula, protecting against age-related [[blesching-cannabis-age-related-macular-degeneration]] and blue light damage.
 
 ## Cultivation and Growing Conditions
 
@@ -99,7 +99,7 @@ sources:
 ## Permaculture Applications
 
 - **Aquatic food production:** High-yielding, nutrient-dense leaf crop for pond edges, swales, and stream margins.
-- **Water filtration:** Dense root mats absorb excess nitrogen and phosphorus, functioning as a natural biofilter in greywater treatment systems and pond management.
+- **Water filtration:** Dense root mats absorb excess nitrogen and phosphorus, functioning as a natural biofilter in [[mollison-designers-greywater-treatment-reedbeds]] systems and pond management.
 - **Erosion control:** Mat-forming root system stabilizes stream banks and pond edges against water flow erosion.
 - **Habitat provision:** Floating mats provide shelter and foraging habitat for aquatic invertebrates and fish.
 - **Nitrogen cycling:** Absorbs dissolved nitrogen from water, converting it to harvestable biomass.
@@ -130,7 +130,7 @@ sources:
 
 ## Relevance
 
-*Nasturtium officinale* holds a unique position at the intersection of nutrition science, traditional medicine, and permaculture design. Its exceptional nutrient density (particularly vitamin K and PEITC), ease of vegetative propagation, and multiple ecological functions make it one of the most valuable aquatic plants for integrated food production systems. In permaculture, watercress exemplifies the principle of "stacking functions" — providing food, water filtration, erosion control, and habitat from a single species.
+*Nasturtium officinale* holds a unique position at the intersection of [[duggar-mushroom-nutrition-science-fermentation-biological-requirement]], traditional medicine, and permaculture design. Its exceptional nutrient density (particularly vitamin K and PEITC), ease of [[hamilton-vegetative-propagation]], and multiple ecological functions make it one of the most valuable aquatic plants for integrated food production systems. In permaculture, watercress exemplifies the principle of "[[gaias-garden-stacking-functions]]" — providing food, water filtration, erosion control, and habitat from a single species.
 ## See Also
 - [[jasminum-officinale]]
 - [[taraxacum-officinale]]

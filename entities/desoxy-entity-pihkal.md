@@ -1,5 +1,5 @@
 ---
-title: "DESOXY -- 3,5-DIMETHOXY-4-METHYLPHENETHYLAMINE -- PIHKAL Entry #52"
+title: "DESOXY -- 3,5-DIMETHOXY-4-METHYLPHENETHYLAMINE -- 2c-b-pihkal-entry-20 #52"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -81,7 +81,7 @@ A well-stirred solution of 42 mL diisopropylamine in 100 mL petroleum ether was 
 
 come to room temperature. The color became progressively darkened, eventually becoming a deep red-brown. After 0.5 h, the reaction mixture was poured into 500 mL of dilute H2SO4, the layers were separated, and the aqueous layer extracted with 2x75 mL CH2Cl2. The organics were combined, the solvent removed under vacuum, and the residue distilled. Discarding a first fraction, the cut boiling at 125-165 deg C at 0.3 mm/Hg was collected. This light yellow fraction spontaneously crystallized and weighed 11.0 g. Trituration under 20 mL petroleum ether provided 1.72 g of 3,5-dimethoxy-4-methylphenylacetonitrile as a yellowish solid.
 
-A solution of LAH in anhydrous THF under nitrogen (20 mL of a 1.0 M solution) was cooled to 0 deg C and vigorously stirred. There was added, dropwise, 0.54 mL 100% H2SO4, followed by 1.5 g 3,5-dimethoxy-4-methylphenylacetonitrile as a solid. The reaction mixture was stirred at 0 deg C for a few min, then brought to room temperature for 1 h, and finally to a reflux on the steam bath for 30 min. After cooling back to 0 deg C there was added IPA until no more hydrogen was evolved, followed by sufficient 15% NaOH to produce a granular texture. The white solids were removed by filtration, and washed with THF. The filtrate and washes were stripped of solvent under vacuum, the residue added to 150 mL dilute H2SO4 and washed with 2x50 mL CH2Cl2. The aqueous phase was made basic with 25% NaOH, and extracted with 3x100 mL CH2Cl2. These extracts were pooled, the solvent removed under vacuum, and the residue distilled at 110-120 deg C at 0.45 mm/Hg to give a colorless viscous oil. This was dissolved in 10 mL of IPA, neutralized with 10 drops of concentrated HCl and diluted with 20 mL anhydrous Et2O. The product was removed by filtration, washed with Et2O, and air dried to give 0.55 g 3,5-dimethoxy-4-methylphenethylamine (DESOX...
+A solution of LAH in anhydrous THF under nitrogen (20 mL of a 1.0 M solution) was cooled to 0 deg C and vigorously stirred. There was added, dropwise, 0.54 mL 100% H2SO4, followed by 1.5 g 3,5-dimethoxy-4-methylphenylacetonitrile as a solid. The reaction mixture was stirred at 0 deg C for a few min, then brought to room temperature for 1 h, and finally to a reflux on the [[scythian-cannabis-steam-bath-ritual]] for 30 min. After cooling back to 0 deg C there was added IPA until no more hydrogen was evolved, followed by sufficient 15% NaOH to produce a granular texture. The white solids were removed by filtration, and washed with THF. The filtrate and washes were stripped of solvent under vacuum, the residue added to 150 mL dilute H2SO4 and washed with 2x50 mL CH2Cl2. The aqueous phase was made basic with 25% NaOH, and extracted with 3x100 mL CH2Cl2. These extracts were pooled, the solvent removed under vacuum, and the residue distilled at 110-120 deg C at 0.45 mm/Hg to give a colorless viscous oil. This was dissolved in 10 mL of IPA, neutralized with 10 drops of concentrated HCl and diluted with 20 mL anhydrous Et2O. The product was removed by filtration, washed with Et2O, and air dried to give 0.55 g 3,5-dimethoxy-4-methylphenethylamine (DESOX...
 
 (Additional synthesis details available in source.)
 
@@ -92,6 +92,8 @@ safety profiles are based on limited self-experimentation. Exercise
 extreme caution. This compound is not approved for human consumption.
 
 ## See Also
+
+- [[desoxy-entity]]
 
 - [[2c-o-4-entity-pihkal]]
 - [[2-br-4-5-mda-entity-pihkal]]

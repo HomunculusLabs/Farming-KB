@@ -22,13 +22,13 @@ sources:
 
 # Psilocybin Psychotherapy
 
-The use of psilocybin and psilocybin-containing mushrooms in clinical and therapeutic settings, from early psycholytic therapy to modern clinical trials. Based on [[jochen-gartz]]'s historical survey and contemporary research. See also [[psilocybin-mushroom-chemistry]] for pharmacological details.
+The use of psilocybin and psilocybin-containing mushrooms in clinical and therapeutic settings, from early [[european-psycholytic-therapy-1960s-1970s]] to modern clinical trials. Based on [[jochen-gartz]]'s historical survey and contemporary research. See also [[psilocybin-mushroom-chemistry]] for pharmacological details.
 
 ## Early Clinical History (1950s-1970s)
 
 ### Discovery and Early Research
 
-[[albert-hofmann]] isolated psilocybin from Psilocybe mexicana specimens in 1958 at Sandoz Laboratories in Basel, Switzerland. Sandoz began marketing psilocybin under the brand name Indocybin as an investigational drug for psychiatric research. From 1958 to the mid-1960s, over 1000 clinical papers were published on the therapeutic use of psilocybin, LSD, and related compounds.
+[[albert-hofmann]] isolated psilocybin from [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] specimens in 1958 at Sandoz Laboratories in Basel, Switzerland. Sandoz began marketing psilocybin under the brand name Indocybin as an investigational drug for psychiatric research. From 1958 to the mid-1960s, over 1000 clinical papers were published on the therapeutic use of psilocybin, LSD, and related compounds.
 
 ### Psycholytic Therapy
 
@@ -37,7 +37,7 @@ The "psycholytic" (mind-loosening) approach was developed primarily in Europe:
 - **Method:** Low to moderate doses (1-3 tablets of synthetic psilocybin) administered in a series of sessions over weeks or months, accompanied by psychotherapy
 - **Pioneers:** H. Leuner (Germany), S. Kurland (USA, Maryland Psychiatric Research Center), R. Sandison (UK)
 - **Target conditions:** Neuroses, personality disorders, PTSD, alcoholism, depression, anxiety disorders, obsessive-compulsive disorder
-- **Approach:** The psychedelic experience was viewed as a tool to access unconscious material and facilitate psychotherapeutic processing. Sessions were followed by extensive discussion and integration work.
+- **Approach:** The [[leary-psychedelic-experience-bardo-mapping]] was viewed as a tool to access unconscious material and facilitate psychotherapeutic processing. Sessions were followed by extensive discussion and integration work.
 - **Results:** Many studies reported significant improvement rates, particularly for alcoholism (50%+ abstinence at follow-up) and anxiety related to terminal illness
 
 ### Psychedelic Therapy
@@ -79,7 +79,7 @@ Gartz preserved documentation of Sandoz's psilocybin preparation:
 - Accompanied by detailed prescribing information for researchers
 - Recommended starting dose: 5-10mg (roughly equivalent to 1-2g dried P. cubensis)
 - Typical therapeutic dose range: 10-30mg over multiple sessions
-- Detailed contraindications and safety guidelines included
+- Detailed contraindications and [[psychedelic-safety-guidelines-turner]] included
 
 ## Modern Renaissance (2000s-Present)
 
@@ -88,10 +88,10 @@ Gartz preserved documentation of Sandoz's psilocybin preparation:
 Research resumed slowly after regulatory barriers were overcome:
 
 - **Johns Hopkins University (Roland Griffiths):** First major study in decades (2006) — demonstrated that psilocybin could produce mystical-type experiences with lasting positive effects in healthy volunteers. Follow-up studies on cancer-related anxiety (2016), depression, addiction, and religious experiences.
-- **Imperial College London (Robin Carhart-Harris, David Nutt):** Brain imaging studies showing psilocybin's effects on neural connectivity, decreased activity in the Default Mode Network, and therapeutic potential for treatment-resistant depression.
+- **Imperial College London (Robin Carhart-Harris, David Nutt):** [[neurochemical-probes-brain-imaging-pihkal]] studies showing psilocybin's effects on neural connectivity, decreased activity in the Default Mode Network, and therapeutic potential for treatment-resistant depression.
 - **Usona Institute:** Large-scale clinical trials for major depressive disorder.
 - **Compass Pathways:** Phase 2/3 trials of synthetic psilocybin for treatment-resistant depression.
-- **Multidisciplinary Association for Psychedelic Studies (MAPS):** While primarily focused on MDMA, MAPS has supported broader psychedelic therapy research.
+- **[[maps-multidisciplinary-association-for-psychedelic-studies]] for Psychedelic Studies (MAPS):** While primarily focused on MDMA, MAPS has supported broader psychedelic therapy research.
 
 ### Current Clinical Trial Results
 
@@ -140,19 +140,9 @@ fMRI studies (primarily from Carhart-Harris at Imperial) reveal:
 - Develop action plans based on insights
 - Support long-term integration of new perspectives
 
-## Gartz on the Promise and Perils
-
-Gartz noted that early European researchers documented both remarkable therapeutic successes and significant challenges:
-
-- **Therapeutic window:** Benefits were most pronounced when psilocybin was used as an adjunct to psychotherapy, not as a standalone treatment
-- **Importance of set and setting:** European researchers consistently emphasized that the therapeutic context (relationship with therapist, physical environment, music) was as important as the pharmacological agent
-- **Long-term follow-up:** The best studies tracked patients for months to years, finding sustained benefits in many cases
-- **Caution with diagnoses:** Schizophrenia-spectrum patients generally did not benefit and could be harmed; careful screening was essential
-
 ## See Also
 
 - [[psilocybin-mushroom-chemistry]] — Pharmacology and toxicity
-- [[psilocybin-mushroom-chemistry]] — Chemical composition and analysis
 - [[psychedelic-mushroom-history]] — Historical timeline
 - [[jochen-gartz]] — Researcher who documented European psycholytic therapy
 - [[albert-hofmann]] — Discoverer of psilocybin

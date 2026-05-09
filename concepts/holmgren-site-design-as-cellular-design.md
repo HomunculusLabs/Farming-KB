@@ -3,14 +3,15 @@ title: Holmgren Site Design as Cellular Design
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: concept
 tags: [design]
 ---
 
 # Holmgren Site Design as Cellular Design
 
-The cellular design model is David Holmgren's framework for understanding permaculture site development as an organic process analogous to cellular growth and reproduction in living organisms. This concept is developed within [[holmgren-pattern-thinking-and-pattern-language]] in permaculture.
+The cellular design model is David Holmgren's framework for understanding permaculture site development as an organic process analogous to cellular growth and reproduction in [[savory-living-organisms-as-tools]]. This concept is developed within [[holmgren-pattern-thinking-and-pattern-language]] in permaculture.
 
 ## The Site as a Living Cell
 
@@ -38,22 +39,22 @@ Just as biological cells reproduce through division, permaculture sites reproduc
 
 This reproductive capacity connects to [[holmgren-ecological-succession-and-pulsing]] in ecosystems provides the temporal framework for understanding how sites develop.
 
-The process of cellular reproduction in permaculture is not automatic but requires deliberate cultural practices. Seed saving, plant propagation workshops, open days, and apprenticeship programmes all function as mechanisms for transmitting the "genetic information" of a successful design to new locations. Online documentation, video tours, and design courses extend this reproductive capacity beyond geographic proximity. The speed of reproduction is a critical factor: in energy descent, the faster successful models can spread, the more resilient communities become. This is why Holmgren emphasises demonstration over advocacy -- a functioning permaculture site reproduces itself through the evidence of its own success, much as a healthy cell divides naturally when conditions are favourable.
+The process of cellular reproduction in permaculture is not automatic but requires deliberate cultural practices. Seed saving, plant propagation workshops, open days, and apprenticeship programmes all function as mechanisms for transmitting the "genetic information" of a successful design to new locations. Online documentation, video tours, and design courses extend this reproductive capacity beyond geographic proximity. The speed of reproduction is a critical factor: in [[holmgren-energy-descent-permaculture-flower]], the faster successful models can spread, the more resilient communities become. This is why Holmgren emphasises demonstration over advocacy -- a functioning permaculture site reproduces itself through the evidence of its own success, much as a healthy cell divides naturally when conditions are favourable.
 
 ## Advantages of Site-Based Design
 
-The site-based approach to permaculture design has several specific advantages:
+The site-based approach to [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] has several specific advantages:
 
 - It encourages small-scale, nucleated development that mimics the cellular growth patterns of organisms, creating resilient and efficient systems
 - It is well suited to residential sites, the primary concern of permaculture designers and the scale at which most people can take direct action
 - It encourages distinct systems that reflect the particular nature of the site rather than imposing generic solutions
-- It provides a focal point for zone and sector analysis, connecting site design to broader landscape patterns
+- It provides a focal point for zone and [[mollison-designers-sector-analysis-wind-sun-fire]], connecting site design to broader landscape patterns
 
 ## Practical Design Examples
 
 The cellular model becomes concrete when applied to specific design situations:
 
-**Suburban quarter-acre block**: The dwelling (nucleus) sits centrally, with Zone 1 vegetable gardens and herbs immediately accessible from the kitchen door. Fruit trees occupy Zone 2 in the side and rear yards, with chickens ranging beneath them. Zone 3 production (main crops, larger orchards) occupies the far corners. Water tanks capture roof runoff, and greywater from the laundry irrigates the food forest. The property boundary (membrane) includes hedges that provide wind protection, food, and habitat while defining the cell's edge. Neighbouring properties form a tissue of cells that can exchange surplus produce, tools, and knowledge.
+**Suburban quarter-acre block**: The dwelling (nucleus) sits centrally, with Zone 1 vegetable gardens and herbs immediately accessible from the kitchen door. Fruit trees occupy Zone 2 in the side and rear yards, with chickens ranging beneath them. Zone 3 production (main crops, larger orchards) occupies the far corners. Water tanks capture roof runoff, and greywater from the laundry irrigates the food forest. The property boundary (membrane) includes hedges that provide [[cervantes-wind-protection-outdoor-cannabis]], food, and habitat while defining the cell's edge. Neighbouring properties form a tissue of cells that can exchange surplus produce, tools, and knowledge.
 
 **Rural homestead on 10 acres**: The house and intensive gardens occupy the centre, with pastures, firewood lots, and water catchment radiating outward. The cellular model prevents the common mistake of expanding production systems beyond what the household labour can manage. Instead, surplus land is dedicated to forestry, wildlife habitat, or leased to other households who establish their own cells on the same property -- a multi-cellular organism at the landscape scale.
 
@@ -63,11 +64,11 @@ The cellular model becomes concrete when applied to specific design situations:
 
 Despite the importance of site design in permaculture practice, it has inherent limitations. The question of whether the site is suited to the use it is being designed for is often ignored. It is difficult to fully consider the nature and implication of the wider landscape, including multi-nodal development where the links between sites are as important as, or more important than, the details of each site.
 
-[[holmgren-integrated-land-uses-and-land-tenure]]. If the goal is cellular reproduction rather than corporate scaling, then land tenure structures should facilitate the establishment of new independent households and communities rather than concentrating ownership. The challenge of vesting control of land in collective structures, rather than accepting individual ownership as natural, is one of the most difficult aspects of creating sustainable culture -- and the cellular model provides a framework for thinking about it.
+holmgren-integrated-land-uses-and-land-tenure. If the goal is cellular reproduction rather than corporate scaling, then land tenure structures should facilitate the establishment of new independent households and communities rather than concentrating ownership. The challenge of vesting control of land in collective structures, rather than accepting individual ownership as natural, is one of the most difficult aspects of creating sustainable culture -- and the cellular model provides a framework for thinking about it.
 
 ## Beyond the Individual Cell
 
-The cellular model also helps think about integration between cells. In living organisms, cells communicate through chemical signals, form tissues with specialised functions, and coordinate through nervous and hormonal systems. Analogously, permaculture sites in a bioregion can coordinate through [[holmgren-integrate-segregate-detailed]] applies at every scale from the garden bed to the bioregion.
+The cellular model also helps think about integration between cells. In living organisms, cells communicate through [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]], form tissues with specialised functions, and coordinate through nervous and hormonal systems. Analogously, permaculture sites in a bioregion can coordinate through holmgren-integrate-segregate-detailed applies at every scale from the garden bed to the bioregion.
 
 ## See Also
 
@@ -90,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

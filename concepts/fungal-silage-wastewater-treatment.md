@@ -1,22 +1,19 @@
 ---
-title: Fungal Silage Wastewater Treatment
+title: Fungal Silage mollison-designers-wastewater-treatment-wetlands
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-
-# Fungal Silage Wastewater Treatment
-
-Silage wastewater is one of the most potent agricultural wastes, with a biological oxygen demand (BOD) that can be 300 times greater than raw domestic sewage. Fungal treatment of silage effluent represents an application of [[fungal-single-cell-protein-production]] from agricultural waste.
+# Fungal Silage Wastewater Treatment Silage wastewater is one of the most potent agricultural wastes, with a biological oxygen demand (BOD) that can be 300 times greater than raw domestic sewage. Fungal treatment of silage effluent represents an application of [[fungal-single-cell-protein-production]] from agricultural waste.
 
 ## Biomass Production
 
 The protein content for C.utilis grown on silage effluent is approximately 160 mg/g dry weight, and for T2B is approximately 74 mg/g. Elemental analyses of the biomass grown on the more dilute effluent result in higher concentrations of nitrogen and phosphorus compared to biomass grown on more concentrated effluent.
 
-The simultaneous production of protein-rich fungal biomass during effluent treatment adds economic value to the process and supports the principles of waste valorization in [[fungal-wastewater-treatment]]
-- [[fungal-bioremediation]]
+The simultaneous production of protein-rich [[bioremediation-fungal-biomass-biosorbent-material]] during effluent treatment adds economic value to the process and supports the principles of waste valorization in fungal-wastewater-treatment
+- fungal-bioremediation
 - [[fungal-distillery-waste-treatment]]
 - [[fertilizer-pollution-environmental-impact]]
 - [[fungal-pah-degradation-and-soil-bioremediation]]
@@ -97,4 +94,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

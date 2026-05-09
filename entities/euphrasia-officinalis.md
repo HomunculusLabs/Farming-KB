@@ -14,7 +14,7 @@ sources:
   - Strzelecka, E. (1993). "On the ethnopharmacology of Euphrasia." Journal of Ethnopharmacology 39(3): 197-202.
   - Barnes, J. et al. (2001). "Eyebright (Euphrasia spp.): a review of its traditional uses and pharmacology." Journal of Pharmacy and Pharmacology 53(2): 147-162.
   - Gaus, W. et al. (2005). "Efficacy and safety of an Euphrasia officinalis preparation in patients with conjunctivitis." Arzneimittelforschung 55(12): 732-736.
-  - Duke, J.A. (2002). "Handbook of Medicinal Herbs." 2nd ed. CRC Press.
+  - Duke, J.A. (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]]." 2nd ed. CRC Press.
 created: 2026-05-07
 ---
 
@@ -42,7 +42,7 @@ The species was originally described by Carl Linnaeus in 1753. The generic name 
 
 *E. officinalis* is a small annual herb typically growing 5 to 25 cm in height. The stem is slender, often branched from the base, and bears opposite leaves along its length.
 
-Leaves are 5 to 15 mm long, ovate to broadly elliptic, with crenate or dentate margins. The leaf surface is often slightly pubescent, and the lower leaves may be reduced to scales.
+Leaves are 5 to 15 mm long, ovate to broadly elliptic, with crenate or dentate margins. The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is often slightly pubescent, and the lower leaves may be reduced to scales.
 
 ### Flowers
 
@@ -58,7 +58,7 @@ The fruit is a small capsular pod containing numerous minute seeds. Seed dispers
 
 The species occurs naturally in grasslands, meadows, pastures, heathland margins, and open woodland clearings. It prefers moderately acidic to neutral soils with good moisture retention but does not tolerate waterlogging.
 
-As a hemiparasitic plant, *E. officinalis* requires the presence of host plant roots to complete its life cycle. Common hosts include grasses (*Festuca*, *Agrostis*, *Poa* species) and other herbaceous plants.
+As a hemiparasitic plant, *E. officinalis* requires the presence of host plant roots to complete its [[bloomfield-fungal-life-cycle-spiral-versus-circle]]. Common hosts include grasses (*Festuca*, *Agrostis*, *Poa* species) and other herbaceous plants.
 
 It is found at elevations from sea level to approximately 2,000 meters. The species is adaptable to a range of climatic conditions within its temperate range but is generally absent from arid Mediterranean interiors.
 
@@ -70,7 +70,7 @@ The primary bioactive constituents include flavonoids (luteolin-7-glucoside, api
 
 Aucubin, an iridoid glycoside, is one of the most studied compounds in *Euphrasia*. It exhibits anti-inflammatory activity through inhibition of cyclooxygenase-2 (COX-2) and reduction of pro-inflammatory cytokine release.
 
-Luteolin-7-glucoside contributes antioxidant activity, scavenging free radicals and protecting ocular tissues from oxidative stress. The flavonoid profile is comparable to that of other European medicinal herbs in the Lamiales order.
+Luteolin-7-glucoside contributes antioxidant activity, scavenging free radicals and protecting ocular tissues from [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]. The flavonoid profile is comparable to that of other European medicinal herbs in the Lamiales order.
 
 Tannin content provides astringent properties, which contribute to the traditional use as an eyewash for weeping or irritated eyes. The astringent action helps reduce mucosal secretions and tighten ocular tissues.
 
@@ -94,7 +94,7 @@ Internal use includes teas and tinctures for sinus congestion, allergic rhinitis
 
 ## Cultivation
 
-Commercial cultivation of *Euphrasia* is challenging due to its hemiparasitic nature. The species requires host plants to be grown in proximity, complicating large-scale agricultural production.
+Commercial cultivation of *Euphrasia* is challenging due to its hemiparasitic nature. The species requires host plants to be grown in proximity, complicating large-scale [[fukuoka-agricultural-production-net-energy-deduction]].
 
 Most commercial *Euphrasia* material is wild-harvested from managed meadows in Europe, particularly in Hungary, Germany, and the Balkans. Sustainable harvesting practices include rotational collection and leaving sufficient plant material for regeneration.
 

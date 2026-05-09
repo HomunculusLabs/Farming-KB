@@ -15,14 +15,14 @@ the early 2010s, driven by anecdotal reports of enhanced creativity, focus,
 emotional resilience, and well-being.
 
 A microdose is typically defined as approximately one-tenth to one-twentieth of
-a recreational or therapeutic dose. For psilocybin mushrooms, this ranges from
+a recreational or therapeutic dose. For [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], this ranges from
 0.1 to 0.3 grams of dried material. For LSD, microdoses are approximately 5 to
 15 micrograms. The key criterion is that the dose should be sub-perceptual,
 meaning the user should not experience noticeable visual or cognitive alterations
 during daily activities.
 
 The theoretical basis for microdosing draws on the same neurobiological
-mechanisms proposed for full-dose psychedelic therapy, but applied in a gentler,
+mechanisms proposed for full-dose [[metzner-psycholytic-psychedelic-therapy-models]], but applied in a gentler,
 cumulative manner. The 5-HT2A serotonin receptor, which is the primary target of
 classical psychedelics, is thought to modulate neuroplasticity, emotional
 processing, and cognitive flexibility even at sub-threshold doses.
@@ -46,7 +46,7 @@ remains preliminary. Expectancy effects and the placebo response likely account
 for some portion of the reported benefits.
 
 Microdosing may work through a different mechanism than full-dose psychedelic
-therapy. Rather than producing the dramatic ego dissolution and mystical
+therapy. Rather than producing the dramatic [[psilocybin-ego-dissolution-mechanisms]] and mystical
 experience associated with therapeutic doses, microdosing may produce gradual
 shifts in baseline mood, cognitive flexibility, and perceptual sensitivity
 through repeated low-level activation of serotonin receptors.
@@ -71,7 +71,7 @@ accidentally exceeding the sub-perceptual threshold. Individuals with personal o
 family histories of psychosis or bipolar disorder are generally advised to avoid
 all psychedelic use.
 
-The legal status of microdosing varies by jurisdiction and substance. In most
+The [[ayahuasca-tourism-legal-status-by-country]] of microdosing varies by jurisdiction and substance. In most
 countries, the substances used for microdosing are classified as Schedule I
 controlled substances, making possession and use illegal regardless of dose.
 Some jurisdictions have moved toward decriminalization or regulated access,
@@ -91,4 +91,4 @@ See Also:
 
 [[psychedelic-dose-response]]
 
-[[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
+hallucinogenic-mushroom-health-risks-and-harm-reduction

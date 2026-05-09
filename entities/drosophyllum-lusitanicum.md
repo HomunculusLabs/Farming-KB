@@ -32,7 +32,7 @@ its common name, it is not a pine and belongs to the order Caryophyllales.
 *Drosophyllum* is unusual among carnivorous plants for thriving in dry,
 well-drained, fire-prone habitats. Unlike most carnivorous species that grow in
 waterlogged bogs, it occurs on sandy, nutrient-poor soils in Mediterranean
-climate zones. Recent genomic evidence suggests its carnivorous habit evolved
+[[mollison-climate-zones-permaculture-strategies]]. Recent genomic evidence suggests its carnivorous habit evolved
 independently from other Droseraceae.
 
 ## Taxonomy and Morphology
@@ -51,7 +51,7 @@ The plant forms a small shrub reaching 20–60 cm in height. Leaves are linear,
 10–25 cm long and 2–4 mm wide, arranged in a dense rosette at the growing
 apex. The leaves are circinate (coiled) in bud and unroll as they mature.
 
-The entire leaf surface is covered in two gland types. Stalked mucilage glands
+The entire [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is covered in two gland types. Stalked mucilage glands
 produce an extremely adhesive secretion that is more viscoelastic than that of
 *Drosera*, making prey escape nearly impossible once contact is made. Sessile
 digestive glands secrete proteolytic enzymes.
@@ -103,7 +103,7 @@ nitrogen and phosphorus from digested prey.
 ## Bioactive Compounds
 
 *Drosophyllum lusitanicum* has attracted pharmacological interest due to its
-unique secondary metabolite profile. The mucilage and leaf tissues contain
+unique [[fungal-elicitors-enhanced-secondary-metabolite-production]] profile. The mucilage and leaf tissues contain
 plumbagin and related naphthoquinones, compounds also found in *Drosera* and
 *Pinguicula* species.
 
@@ -125,10 +125,10 @@ should be watered from below using the tray method but only minimally — the
 soil should be moist but never saturated. Many growers top-water instead,
 allowing the substrate to dry slightly between waterings.
 
-Seed germination is the standard propagation method. Seeds germinate readily
+[[cannabis-seed-germination-methods]] is the standard propagation method. Seeds germinate readily
 without stratification if sown on the surface of moist substrate. Germination
 typically occurs within 2–4 weeks at 20–25°C. Seedlings are vulnerable to
-damping-off and should be provided good air circulation.
+damping-off and should be provided good [[stamets-growing-room-air-circulation-co2-management]].
 
 Mature plants benefit from full sun and warm conditions. In Mediterranean
 climates, outdoor cultivation is straightforward. In cooler climates, a

@@ -2,7 +2,7 @@
 title: Advanced Grow Room Design
 created: 2026-04-26
 sources: Marijuana Horticulture (Cervantes)
-synonyms: perpetual harvest, multi-room setup, grow room layout, light movers
+synonyms: [[cervantes-perpetual-harvest-cycle]], multi-room setup, grow room layout, light movers
 type: concept
 tags: [cannabis, design]
 updated: 2026-04-26
@@ -42,7 +42,7 @@ Watch for: stretched or leggy plants, weak or yellowing plants, foliage burned d
 
 Using several 400 or 600-watt lamps instead of 1000-watt lamps provides better light distribution. Operating costs for three 600-watt HPS lamps are lower than for two 1000-watt HPS lamps. The 600-watt lamps produce more lumens per dollar and can be positioned closer to plants. Three point sources of light also even out distribution across the canopy.
 
-Shelves around the perimeter of the grow room can hold small plants. Adding vertical growing space maximizes the total number of plants that receive quality light. Manually rotating plants regularly ensures even light exposure on all sides.
+Shelves around the perimeter of the grow room can hold small plants. Adding [[coleman-greenhouse-tomato-vertical-growing]] space maximizes the total number of plants that receive quality light. Manually rotating plants regularly ensures even light exposure on all sides.
 
 ## Reflective Surfaces
 
@@ -56,7 +56,7 @@ Air filtration systems should be sized independently for each room. Carbon filte
 
 ## Air Conditioning and Climate Control
 
-Temperature control is one of the most critical and challenging aspects of advanced grow room design. High-intensity discharge (HID) lighting generates enormous heat loads -- a single 1000-watt HPS lamp produces approximately 3,400 BTU of heat per hour, equivalent to a small space heater. In a flowering room with four 1000-watt lamps, the heat load exceeds 13,600 BTU per hour, requiring substantial cooling capacity to maintain the optimal 70-85°F (21-29°C) temperature range.
+[[hamilton-greenhouse-heating-and-temperature-control]] is one of the most critical and challenging aspects of advanced grow room design. High-intensity discharge (HID) lighting generates enormous heat loads -- a single 1000-watt HPS lamp produces approximately 3,400 BTU of heat per hour, equivalent to a small space heater. In a flowering room with four 1000-watt lamps, the heat load exceeds 13,600 BTU per hour, requiring substantial cooling capacity to maintain the optimal 70-85°F (21-29°C) [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]].
 
 ### Split Systems and Mini-Splits
 
@@ -83,7 +83,7 @@ Despite these limitations, portable ACs remain popular for stealth and closet gr
 
 ### Supplemental Dehumidification
 
-Air conditioning alone is often insufficient to control humidity in a densely planted grow room. Cannabis plants transpire heavily, releasing moisture into the air through their leaves. During the flowering stage, when large buds are developing, transpiration rates can be extremely high, pushing relative humidity above the safe threshold of 40-50%. Dedicated dehumidifiers with built-in humidistats are typically required to supplement the AC system. The dehumidifier should be sized based on the number of plants, their growth stage, and the room's air exchange rate.
+Air conditioning alone is often insufficient to control humidity in a densely planted grow room. Cannabis plants transpire heavily, releasing moisture into the air through their leaves. During the [[cannabis-flowering-stage]], when large buds are developing, transpiration rates can be extremely high, pushing relative humidity above the safe threshold of 40-50%. Dedicated dehumidifiers with built-in humidistats are typically required to supplement the AC system. The dehumidifier should be sized based on the number of plants, their growth stage, and the room's air exchange rate.
 
 ## Electrical Planning and Safety
 
@@ -119,4 +119,4 @@ A whole-room emergency kill switch, accessible from the room entrance, allows al
 
 - [[cervantes-air-quality-ventilation]] for ventilation design
 - [[cervantes-co2-enrichment]] for CO2 augmentation
-- [[sea-of-green]] for high-density planting methods
+- [[sea-of-green]] for high-density native american planting methods and indigenous agriculture

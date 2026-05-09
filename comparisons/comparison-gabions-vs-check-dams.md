@@ -1,10 +1,11 @@
 ---
-title: "Gabions vs Check Dams"
+title: "comparison gabions vs check dams Dams"
 created: 2026-04-28
 tags: [comparison, earthworks, erosion-control, water-management]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
@@ -13,7 +14,7 @@ Gabions and check dams are both earthwork structures designed to slow water
 flow, capture sediment, and rehabilitate degraded landscapes. While they share
 overlapping functions, their design, application, and complexity differ
 significantly. Understanding these distinctions is essential for selecting the
-right structure for your erosion control or [[permaculture-design]] framework, gabions must extend above the flood level of
+right structure for your [[permplant-willows-salix-erosion-control-fodder]] or [[permaculture-design]] framework, gabions must extend above the flood level of
 the gully they protect, ensuring that water spills over rather than undermining
 the structure. They are built in sequence from the outlet working upstream, with
 each new structure placed where the water drops to the level of the previous
@@ -24,7 +25,7 @@ that can be planted with useful species. Construction uses low-cost local
 materials: stone from the surrounding landscape and wire mesh cages. In areas
 where stone is plentiful, solid stone weirs are preferred over gabion cages
 because they are more permanent and require no wire that might corrode.
-Gabion installations are integrated with vetiver grass and pioneer vegetation
+Gabion installations are integrated with [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]] and pioneer vegetation
 planted on the captured sediments to stabilize the new land. The approach has
 been proven at large scale, with 2,000 hectares of degraded land successfully
 reclaimed in Cape Verde using gabion and stone weir systems.
@@ -34,11 +35,11 @@ diversion check dams, concrete flood check dams, silt check dams (0.5-2m
 height), gabion check dams, and check dams integrated with ram pumps or water
 wheels. Landscape placement follows a zoned approach with structures positioned
 across catchment zones, transition zones, and revitalisation zones according
-to the specific water management needs of each zone.
+to the specific [[water-management]] needs of each zone.
 Check dams allow normal low flows to pass through while retarding flood flows,
 preventing downstream erosion and maximizing infiltration. They integrate
 multiple functions including silt capture, water spreading across valley floors,
-and energy capture through integrated water wheels or ram pumps. The system is
+and [[fukuoka-three-dimensional-solar-energy-capture-rice-paddy]] through integrated water wheels or ram pumps. The system is
 scalable from individual farm level to entire catchment management.
 ## Key Differences
 | Aspect | Gabions | Check Dams |
@@ -54,7 +55,7 @@ scalable from individual farm level to entire catchment management.
 | Best Terrain | Active gullies, eroded watercourses | Valleys, streams, graded landscapes |
 | Multi-function | Primarily erosion and sediment control | Erosion, water spreading, energy capture |
 ## Gabion Design and Construction
-Proper gabion construction begins with site assessment. The gully profile,
+Proper gabion construction begins with [[mollison-designers-design-client-interview-and-site-assessment-process]]. The gully profile,
 flood levels, and available stone must be evaluated before construction begins.
 Gabion cages are typically 1-2 meters wide, 1 meter tall, and extend across
 the full width of the gully. The top of the completed gabion must sit above
@@ -69,7 +70,7 @@ the elevation of the next downstream gabion during flood conditions.
 Vetiver grass is planted on the upstream sediment deposit immediately after
 gabion construction. The dense vetiver root network stabilizes the captured
 silt and accelerates the creation of productive land. Additional pioneer
-species follow as the silt field builds depth and organic matter accumulates.
+species follow as the silt field builds depth and [[hamilton-composting-and-organic-matter-management]] accumulates.
 ## Check Dam Types and Placement
 The five check dam types serve different functions across the landscape.
 Silt check dams are the simplest, built from brushwood, logs, or stone to

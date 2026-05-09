@@ -3,23 +3,16 @@ title: Shakespeare and Mushrooms
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[mycology, mushrooms]
+tags: [mycology, mushrooms]
 sources: []
 ---
-
-Updated: 2026-04-18
-
-## Overview
-
-William Shakespeare made several notable references to mushrooms and toadstools in his plays, drawing on the rich folklore and cultural associations of fungi in Elizabethan England. These references range from the magical to the derogatory, reflecting the complex and often contradictory attitudes toward mushrooms in early modern English culture.
-
-Source: [[fairy-rings-folklore-and-science]] reflects the broader Elizabethan fascination with the boundary between the natural and supernatural worlds. Mushrooms, appearing overnight as if by magic, naturally belonged to this liminal space.
+Updated: 2026-04-18 ## Overview William Shakespeare made several notable [[allegro-biblical-references-to-mushrooms-and-fungi]] and toadstools in his plays, drawing on the rich folklore and cultural associations of fungi in Elizabethan England. These references range from the magical to the derogatory, reflecting the complex and often contradictory [[weil-cultural-attitudes-toward-altered-states]] mushrooms in early modern English culture. Source: [[fairy-rings-folklore-and-science]] reflects the broader Elizabethan fascination with the boundary between the natural and supernatural worlds. Mushrooms, appearing overnight as if by magic, naturally belonged to this liminal space.
 
 ***
 
 ## Broader Context
 
-Shakespeare's mushroom references must be understood within the context of English [[aztec-mushroom-feasts-and-revelations]]), England had no tradition of deliberate mushroom consumption beyond a few easily identified species. The mushroom in English culture was primarily a symbol of:
+Shakespeare's mushroom references must be understood within the context of English aztec-mushroom-feasts-and-revelations), England had no tradition of deliberate mushroom consumption beyond a few easily identified species. The mushroom in English culture was primarily a symbol of:
 - Danger and poison
 - Decay and mortality
 - The uncanny and supernatural
@@ -31,7 +24,7 @@ Shakespeare's mushroom references must be understood within the context of Engli
 
 - [[fairy-rings-folklore-and-science]]
 - [[wasson-mycophobia-mycophilia-theory]]
-- [[mushroom-foraging-traditions-europe]]
+- mushroom-foraging-traditions-europe
 ## Practical Applications
 
 Shakespeare and Mushrooms has a range of practical applications that make it relevant to
@@ -109,4 +102,4 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+- [[comparison-reishi-vs-chaga-medicinal-mushrooms]]

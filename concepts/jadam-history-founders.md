@@ -29,7 +29,7 @@ Hankyu Cho is the father of Youngsang Cho and the foundational figure behind the
 - Author of "Making Natural Farming Inputs"
 - His books translated into English, Chinese, Japanese, Thai, Hindi
 - Technical consulting in 14 countries
-- Developed key inputs: indigenous microorganism solution, fermented plant juice, oriental medicine plant tonic, lactic acid bacteria, natural calcium, natural phosphorus
+- Developed key inputs: indigenous [[jadam-microorganism-solution-culturing]], [[bionutrients-lab-fermented-plant-juice-fpj]], oriental medicine plant tonic, lactic acid bacteria, natural calcium, natural phosphorus
 
 ### Philosophy
 - Farming should not harm nature
@@ -69,12 +69,12 @@ Youngsang Cho is the son of Hankyu Cho and the founder/developer of the JADAM ul
 - JADAM microorganism solution using potatoes
 - Fertilizer program for crops
 - Natural pesticide for rice bakanae disease
-- Natural pesticide for powdery mildew, downy mildew, fungus
+- Natural [[jadam-pesticide-for-powdery-mildew]] mildew, downy mildew, fungus
 - Natural pesticide for canker
-- Natural pesticide for aphids, mites
+- Natural [[jadam-pesticide-for-aphids-and-mites]], mites
 - Natural pesticide for tobacco moths, beet armyworm
 - Natural pesticide for stinkbugs, thrips
-- Natural pesticide for slugs
+- Natural [[jadam-pesticide-for-slugs-and-snails]]
 - Natural pesticide for chicken lice
 - Natural pesticide for coffee berry borer
 - Naphthalene pesticide
@@ -86,7 +86,7 @@ Youngsang Cho is the son of Hankyu Cho and the founder/developer of the JADAM ul
 
 ## From Father to Son
 
-Youngsang Cho acknowledges: "If it were not for the achievements made by Han-kyu Cho, my father, JADAM system would not have been born. He has devoted his entire life in promoting natural farming and built a strong foundation for the ultra-low-cost agriculture system of JADAM organic farming."
+Youngsang Cho acknowledges: "If it were not for the achievements made by Han-kyu Cho, my father, JADAM system would not have been born. He has devoted his entire life in promoting [[query-what-is-korean-natural-farming-and-how-does-it-work]] built a strong foundation for the ultra-low-cost agriculture system of JADAM organic farming."
 
 Hankyu Cho writes: "It is my utmost pleasure to see the same spirit being inherited and developed by Youngsang Cho of JADAM."
 

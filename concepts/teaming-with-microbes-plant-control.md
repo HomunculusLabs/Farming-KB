@@ -14,14 +14,14 @@ In *Teaming with Microbes*, one of the book's most revolutionary claims is that 
 - A great deal of the energy from photosynthesis is used to produce chemicals secreted through roots
 - Exudates include carbohydrates (sugars) and proteins
 - Their presence "wakes up, attracts, and grows specific beneficial bacteria and fungi"
-- During different times of the growing season, populations of rhizosphere bacteria and fungi wax and wane depending on the plant's nutrient needs
+- During different times of the [[savory-growing-season-and-non-growing-season-management]], populations of [[lowenfels-rhizosphere-bacteria-plant-interaction]] and fungi wax and wane depending on the plant's nutrient needs
 
 ## The Rhizosphere
 
 The rhizosphere is the zone of interaction:
 - Extends about a tenth of an inch (a couple of millimeters) from root surfaces
 - Contains a constantly changing mix of soil organisms competing for exudates
-- Under an electron microscope, it looks like "jelly or jam"
+- Under an [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]], it looks like "jelly or jam"
 - All nutrient production through the food web takes place right where roots can absorb it
 
 ## The Microbial Loop
@@ -53,7 +53,7 @@ Plants use the soil food web for protection:
 
 If plants control the soil food web, then:
 - The gardener's job is not to feed plants but to support the biology that plants use to feed themselves
-- Chemical fertilizers bypass this system, potentially disrupting it
+- [[cervantes-chemical-fertilizers-guide]] bypass this system, potentially disrupting it
 - Healthy soil food webs make plants less stressed and more disease-resistant
 - The organisms in the soil food web "will do most of the work of maintaining plant health"
 
@@ -64,7 +64,7 @@ See also: [[teaming-with-microbes-overview]], [[teaming-with-microbes-bacteria]]
 The principles outlined on this page connect directly to hands-on work in gardens,
 farms, and homesteads. Integrating these concepts with complementary techniques from
 related disciplines can significantly improve outcomes. Start with small-scale
-implementation and scale up as understanding deepens through direct observation.
+implementation and scale up as understanding deepens through [[fukuoka-direct-observation-method]].
 
 ## Research Background
 
@@ -79,7 +79,7 @@ fundamentally a biological phenomenon, not merely a chemical one.
 
 Understanding these microbial dynamics has direct practical implications for
 soil management. Practices that support diverse microbial communities, such as
-minimal tillage, cover cropping, and organic matter additions, tend to produce
+minimal tillage, [[fukuoka-clover-cover-cropping-soil-ecology]], and organic matter additions, tend to produce
 healthier soils and more resilient plants. Conversely, practices that disrupt
 soil biology, such as excessive tillage and chemical inputs, can take years
 to recover from. The key insight is to feed the soil organisms and let them

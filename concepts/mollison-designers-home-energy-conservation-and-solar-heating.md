@@ -1,5 +1,5 @@
 ---
-title: Home Energy Conservation and Solar Heating
+title: mollison designers home energy conservation and solar heating Conservation and mollison-designers-passive-solar-heating-building-design
 created: 2026-04-26
 tags:
   - energy-conservation
@@ -20,7 +20,7 @@ Space heat and hot water together are about 80% of the energy needs of
 modern housing. Home energy conservation is therefore one of the most
 significant design factors in permaculture settlement. The greatest
 cost in house maintenance in temperate cold areas is that of space and
-water heating. Both settlement design overall and house design in
+water heating. Both [[cool-climate-settlement-design-mollison]] overall and [[mollison-designers-house-design-climate-zones]] in
 detail is a critical conservation factor in human occupation.
 
 ## Solar Hot Water Production
@@ -72,7 +72,7 @@ foundations (to 0.5 or 1 m deep) effectively insulate the whole of
 the floor and earth mass under the house. This simple strategy can
 buffer both heat and cold extremes, without the need for firewood for
 heating. Plastic bags of straw or sawdust have been used for this
-ground insulation in Nepal, demonstrating appropriate technology for
+ground insulation in Nepal, demonstrating [[mollison-designers-appropriate-technology-small-scale-tools]] for
 low-income contexts.
 
 ## Wastewater Diversion to Firewood
@@ -97,7 +97,7 @@ fuel.
 
 ## Energy Efficiency Criteria
 
-For any energy technology to be appropriate in permaculture design,
+For any energy technology to be appropriate in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]],
 it must meet several criteria:
 
 - The process must be non-polluting, or relevant to the place.
@@ -109,11 +109,16 @@ No matter how efficient a technology may be, if it lays waste to or
 destroys the basic quality or quantity of soil, water, or clean air,
 then it must be rejected. This is the "economics of extinction."
 
-## Related Topics
+## Related
 
-- [[mollison-village-energy-systems-and-efficiency]] - Village-scale
+- [[mollison-designers-solar-chimneys-and-passive-cooling-in-desert-housing]] Topics
+
+- mollison-village-energy-systems-and-efficiency - Village-scale
   energy planning
-- [[mollison-biogas-and-methane-production-from-sewage]] - Biogas for
+- mollison-biogas-and-methane-production-from-sewage - Biogas for
   cooking fuel
-- [[mollison-greywater-domestic-water-recycling]] - Wastewater
+- mollison-greywater-domestic-water-recycling - Wastewater
   recycling systems
+- [[mollison-designers-solar-water-heating-systems]]
+- [[mollison-designers-passive-solar-heating-building-design]]
+- [[gallium-arsenide]]

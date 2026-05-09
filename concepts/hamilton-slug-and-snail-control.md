@@ -1,5 +1,5 @@
 ---
-title: Slug and Snail Control in the Organic Garden
+title: hamilton slug and snail control Control in the Organic Garden
 created: 2026-04-28
 tags:
   - organic-gardening
@@ -16,7 +16,7 @@ type: concept
 
 # Slug and Snail Control in the Organic Garden
 
-Slugs and snails are among the most persistent and damaging pests in
+[[query-how-to-get-rid-of-slugs-and-snails-organically]] are among the most persistent and damaging pests in
 any garden, capable of destroying seedlings overnight and disfiguring
 mature plants. While [[hamilton-hedges-and-windbreaks]]
 where they can shelter during the day.
@@ -40,13 +40,13 @@ insects.
 
 ## Copper Barriers and Other Methods
 
-Copper tape or rings placed around pots and raised beds provide
+Copper tape or rings placed around pots and [[comparison-raised-beds-vs-hugelkultur]] provide
 another effective physical barrier. Slugs and snails receive a mild
 electric shock when their moist bodies contact the copper, deterring
 them from crossing. This method is particularly useful for protecting
 container-grown plants and individual prized specimens.
 
-Crushed eggshells, sharp grit, or diatomaceous earth scattered around
+Crushed eggshells, sharp grit, or [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]] scattered around
 vulnerable plants create an abrasive surface that slugs find difficult
 to traverse. These materials need to be renewed after heavy rain but
 provide a useful additional line of defence alongside other methods.
@@ -60,7 +60,7 @@ predator-friendly gardening practices. Biological nematodes provide a
 useful additional weapon. The key is persistence — no single method
 will eliminate slugs entirely, but consistent effort across multiple
 strategies will keep populations at manageable levels and protect your
-plants from serious damage. For more general pest management
+plants from serious damage. For more general [[cannabis-pest-management-guide]]
 strategies, see [[hamilton-wildlife-gardening-biodiversity]].
 ## Practical Considerations
 
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

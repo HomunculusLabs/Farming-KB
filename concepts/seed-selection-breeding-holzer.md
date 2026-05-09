@@ -1,10 +1,11 @@
 ---
-title: Holzer Seed Selection and Breeding
+title: Holzer cannabis-seed-selection-and-strain-types and Breeding
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [seeds, gardening]
 sources:
+  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 ## Old Varieties vs. Modern Hybrids
@@ -13,7 +14,7 @@ Holzer's experience shows that old varieties of all cultivated plants make the b
 
 - **Better flavour**: Intense taste indicates high nutrient content
 - **Less demanding**: Adapted to local conditions over generations
-- **More resilient**: Better disease resistance and climate adaptation
+- **More resilient**: Better disease resistance and [[jeavons-climate-adaptation-growing-seasons]]
 - **True-to-type seed**: Can be saved and replanted year after year
 
 ### Against Hybrid Seeds (F1)
@@ -50,10 +51,10 @@ Nutritious, high-quality food develops an intense flavour and contains many valu
 
 The numerous habitats and microclimates on the Krameterhof allow spatial isolation:
 
-- **Wind-pollinated varieties**: Plant at distance in the downwind direction; use tall raised beds and hedges as barriers
+- **Wind-pollinated varieties**: Plant at distance in the downwind direction; use tall [[comparison-raised-beds-vs-hugelkultur]] and hedges as barriers
 - **Insect-pollinated varieties**: Grow at sufficient distance from each other
 - **Best method**: Select varieties that flower at different times to completely rule out unwanted pollination
-- **Multi-layered habitats**: Hedges and tall raised beds between varieties provide wind protection
+- **Multi-layered habitats**: Hedges and tall raised beds between varieties provide [[cervantes-wind-protection-outdoor-cannabis]]
 
 ### The Krameterhof as Living Gene Bank
 
@@ -88,7 +89,7 @@ Holzer cultivates several ancient cereal varieties:
 
 ## Green Manure and Seed Self-Propagation
 
-By leaving green manure crops standing in autumn:
+By leaving green [[green-manure-crops-detailed]] standing in autumn:
 - Plants ripen, bloom, and produce seeds naturally
 - Many seeds are eaten by birds, stratified in their stomachs, and distributed
 - No need to continually reseed large areas

@@ -1,22 +1,16 @@
 ---
-title: Medicinal Mushroom Compounds and Health Benefits
+title: gourmet-medicinal-mushroom-casing-layer-techniques Compounds and Health Benefits
 created: 2026-04-28
-tags: [[mycology, medicinal-mushrooms, bioactive-compounds, health]
+tags: [mycology, medicinal-mushrooms, bioactive-compounds, health]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 type: concept
 ---
-
-# Medicinal Mushroom Compounds and Health Benefits
-
-Medicinal mushrooms produce a diverse array of bioactive compounds that have
-been used in traditional medicine for millennia and are increasingly validated
-by modern pharmacological research. The most studied classes of compounds
-include polysaccharides (particularly [[trametes-versicolor-entity]])** is the most commercially significant
+# Medicinal Mushroom Compounds and Health Benefits Medicinal mushrooms produce a diverse array of bioactive compounds that have been used in traditional medicine for millennia and are increasingly validated by modern pharmacological research. The most studied classes of compounds include polysaccharides (particularly [[trametes-versicolor-entity]])** is the most commercially significant
 source of beta-glucans, with its polysaccharide-K (PSK) and polysaccharide-
 peptide (PSP) approved as cancer adjuvant therapies in Japan and China.
-Clinical trials demonstrate improved survival rates and immune function in
+[[mushroom-cancer-clinical-trials-overview]] demonstrate improved survival rates and immune function in
 patients undergoing chemotherapy, particularly for gastric and colorectal
 cancers.
 
@@ -52,7 +46,7 @@ products contain both compound classes.
 
 Lion's mane (Hericium erinaceus) produces two unique classes of neuroactive
 compounds: erinacines (found in the mycelium) and hericenones (found in the
-fruiting body). Both stimulate nerve growth factor (NGF) synthesis in the
+[[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]). Both stimulate nerve growth factor (NGF) synthesis in the
 brain, which is significant because NGF is essential for the growth,
 maintenance, and survival of neurons.
 
@@ -69,7 +63,7 @@ neurotransmitter systems.
 
 ## Other Notable Compounds
 
-**Lentinan** from shiitake mushrooms is a purified beta-glucan with potent
+**Lentinan** from [[query-how-to-grow-shiitake-mushrooms-on-logs]] is a purified beta-glucan with potent
 antineoplastic activity. It is administered intravenously in Japan as a cancer
 treatment adjunct. Shiitake also produces lentinula, an antiviral compound, and
 eritadenine, which lowers cholesterol by inhibiting S-adenosylhomocysteine
@@ -80,14 +74,14 @@ Ophiocordyceps sinensis) is a nucleoside analog (3-deoxyadenosine) with
 antiviral, antitumor, and immunomodulatory properties. It inhibits RNA
 polymerase and mTOR signaling, making it of interest in cancer research.
 
-**Pleurotin** from oyster mushrooms is a glutathione-S-transferase inhibitor
+**Pleurotin** from [[query-how-to-grow-oyster-mushrooms-at-home]] is a glutathione-S-transferase inhibitor
 with antitumor activity. Oyster mushrooms also produce lovastatin, a
 cholesterol-lowering compound identical to the pharmaceutical Mevacor.
 
 ## Extraction and Bioavailability
 
 Raw mushrooms are largely indigestible because fungal cell walls contain
-chitin, a tough polysaccharide that humans cannot break down. Extraction is
+chitin, a tough polysaccharide that humans cannot [[query-can-fungi-break-down-plastic-pollution]]. Extraction is
 necessary to release bioactive compounds. Hot water extraction (decoction)
 effectively extracts beta-glucans and many polysaccharides. Ethanol or
 dual extraction captures the lipophilic triterpenoids and other non-polar
@@ -96,5 +90,7 @@ spray-drying.
 
 ## See Also
 
+- [[medicinal-mushrooms-compounds-and-benefits]]
+
 - [[fruiting-chamber-design-and-environmental-control]]
-- [[grain-spawn-production]]
+- grain-spawn-production

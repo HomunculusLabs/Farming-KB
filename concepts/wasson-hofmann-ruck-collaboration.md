@@ -9,13 +9,13 @@ sources:
 ---
 # Wasson-Hofmann-Ruck Collaboration
 
-**Source:** The Road to Eleusis (1978) — Wasson, Hofmann, Ruck
+**Source:** The [[the-road-to-eleusis-wasson-hofmann-ruck]] (1978) — Wasson, Hofmann, Ruck
 
 **Updated:** 2026-04-19
 
 ## Overview
 
-The Wasson-Hofmann-Ruck collaboration was a landmark interdisciplinary effort that proposed the [[mazatec-mushroom-culture-and-velada]] in Mexico. His chapter in "The Road to Eleusis" drew explicit parallels between the Mexican mushroom experience and descriptions of the Eleusinian Mysteries, noting that Aristides the Rhetor's account of Eleusis "point by point tallies with the effect on the initiate of the Mesoamerican mushroom rite."
+The Wasson-Hofmann-Ruck collaboration was a landmark interdisciplinary effort that proposed the [[mazatec-mushroom-culture-and-velada]] in Mexico. His chapter in "The Road to Eleusis" drew explicit parallels between the [[gartz-wasson-mexican-mushroom-cult-rediscovery]] experience and descriptions of the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]], noting that Aristides the Rhetor's account of Eleusis "point by point tallies with the effect on the initiate of the Mesoamerican mushroom rite."
 
 ### Albert Hofmann
 
@@ -27,13 +27,13 @@ A classical scholar at Boston University specializing in Greek ethnobotany, Ruck
 
 ## The Central Thesis
 
-The collaboration proposed that the [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] (Claviceps purpurea) sclerotia from barley grown on the [[eleusinian-telesterion-architecture-and-ritual]] was unsuited for theatrical performances; reconstruction of the ritual sequence from the [[wasson-hofmann-schultes-research-network]] that made the book possible.
+The collaboration proposed that the [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] ([[bloomfield-ergot-claviceps-purpurea-ergotism]]) sclerotia from barley grown on the [[eleusinian-telesterion-architecture-and-ritual]] was unsuited for theatrical performances; reconstruction of the ritual sequence from the [[wasson-hofmann-schultes-research-network]] that made the book possible.
 
 The book's impact extended beyond classical studies into the broader [[psychedelic-prohibition-and-the-war-on-consciousness]] and the [[the-road-to-eleusis-wasson-hofmann-ruck]] became a foundational text for the entheogen-culture|entheogen movement, inspiring subsequent scholars and researchers to investigate the role of psychoactive substances in other religious traditions.
 
 ## Critical Responses and Scholarly Debate
 
-The [[psychedelic-ancient-history]]**: The book helped establish the field of investigating psychoactive substance use in pre-modern cultures, contributing to a broader reassessment of the role of altered states in human cultural evolution.
+The [[psychedelic-ancient-history]]**: The book helped establish the field of investigating psychoactive substance use in pre-modern cultures, contributing to a broader reassessment of the role of [[weil-the-natural-mind-altered-states-normalcy]] in human cultural evolution.
 
 - **[[entheogenic-eleusis-theory-scholarly-reception]]
 
@@ -60,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

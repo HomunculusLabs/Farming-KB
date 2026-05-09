@@ -1,5 +1,5 @@
 ---
-title: Starting a Natural Farm: Site Selection and Land Design
+title: Starting a fukuoka-creating-natural-farm-site-selection-establishment: fukuoka-textdoc-farm-establishment-site-selection-soil-prep and Land Design
 created: 2026-04-28
 tags:
   - farm-design
@@ -58,7 +58,7 @@ exception, but a natural farm should be developed without clearing the land. Whe
 cleared with a bulldozer, irregular surface features on a slope are flattened and smoothed.
 Wide farm roads are built to permit farm mechanization. However, mechanization really only
 facilitates certain farm operations such as fertilizer and pesticide application. Since picking
-ripened fruit is the only major operation in natural farming, there is no need to go out of
+ripened fruit is the only major operation in [[comparison-natural-farming-vs-permaculture]], there is no need to go out of
 one's way to clear steep slopes.
 
 Another factor that improves the enterprising orchardist's chances of success is that a natural
@@ -81,17 +81,17 @@ Soil movement being the greatest concern when establishing a garden, the garden 
 built in terrace fashion with the surface of the field on each terrace level. The first task
 in setting up a garden is to build a series of lateral embankments or stone walls running
 across the slope of the hill. The most basic method for improving soil is to bury coarse
-organic matter in deep trenches. Another good method is to pile soil up to create high ridges.
+[[hamilton-composting-and-organic-matter-management]] in deep trenches. Another good method is to pile soil up to create high ridges.
 
 ## Creating a Rice Paddy
 
 Today, a rice field can easily be prepared by clearing the land with large machinery, removing
 rocks and stones, and leveling the surface of the field. Yet, although well-suited to
-increasing the size of single paddy fields and promoting mechanized rice production, such a
+increasing the size of single paddy fields and promoting mechanized [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]], such a
 process has serious drawbacks:
 
 1. Because it is crude, it leaves a thickness of topsoil that varies with the depth of the
-   bedrock, resulting in uneven areas of crop growth.
+   bedrock, resulting in uneven areas of [[coleman-sunlight-and-winter-crop-growth-rates]].
 2. The load that heavy machinery places on the soil results in excessive settling, causing
    ground water to stagnate. This situation can induce root rotting and at least partial
    suppression of initial crop growth on the new field.

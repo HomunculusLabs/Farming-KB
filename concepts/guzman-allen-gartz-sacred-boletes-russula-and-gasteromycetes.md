@@ -1,5 +1,5 @@
 ---
-title: Sacred Boletes Russula and Gasteromycetes
+title: guzman allen [[guzman-allen-gartz-sacred-non-psilocybin-fungi-cordyceps-and-claviceps]] boletes russula and gasteromycetes Russula and Gasteromycetes
 created: 2026-04-28
 tags:
   - boletes
@@ -17,12 +17,12 @@ type: concept
 # Sacred Boletes, Russula, and Gasteromycetes
 
 Guzmán, Allen and Gartz (1998/2000) identified a fourth category of neurotropic
-fungi: species used as [[integrate-rather-than-segregate]] confirmed chemistry.
+fungi: species used as integrate-rather-than-segregate confirmed chemistry.
 
 ## Boletes as Sacred Fungi in New Guinea
 
 Singer (1958, 1960a), Heim and Wasson (1965), and Heim (1965a, 1978) reported
-the use of Psilocybe, Russula, and Boletaceous fungi as [[poria-cocos]], [[neurotropic-fungi-world-checklist]].
+the use of Psilocybe, Russula, and Boletaceous fungi as [[poria-cocos]], neurotropic-fungi-world-checklist.
 
 ## See Also
 
@@ -44,7 +44,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -94,7 +94,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -104,4 +104,5 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+- [[guzman-allen-gartz-sacred-non-psilocybin-fungi-polypores-boletes-puffballs]]
+- [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]]

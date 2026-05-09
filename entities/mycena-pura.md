@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 # Mycena pura
 
-**Mycena pura**, commonly known as the lilac bonnet, is a species of mushroom in the family Mycenaceae. It is one of the few *Mycena* species documented in the worldwide survey of neurotropic fungi by Guzmán, Allen & Gartz (1998), which identified only a single species of Mycena among the 216 cataloged neurotropic fungi. *M. pura* occupies a unique position among psychoactive mushrooms because it contains both small quantities of psilocybin and the toxic compound muscarine, making it simultaneously a member of the neurotropic fungi and a poisonous species.
+**Mycena pura**, commonly known as the lilac bonnet, is a species of mushroom in the family Mycenaceae. It is one of the few *Mycena* species documented in the [[oyster-mushroom-substrate-materials-worldwide-survey-comparison]] of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] by Guzmán, Allen & Gartz (1998), which identified only a single species of Mycena among the 216 cataloged neurotropic fungi. *M. pura* occupies a unique position among psychoactive mushrooms because it contains both small quantities of psilocybin and the toxic compound muscarine, making it simultaneously a member of the neurotropic fungi and a poisonous species.
 
 ## Taxonomy
 
@@ -22,7 +22,7 @@ The family Mycenaceae, to which *M. pura* belongs, also includes the genus Psilo
 
 ## Distribution
 
-*Mycena pura* has a wide distribution across temperate regions of the Northern Hemisphere. It is found throughout Europe, North America, and parts of Asia, occurring in both coniferous and deciduous forests. In Europe, it is particularly common in beech and oak forests, while in North America it is found in a variety of forest types from the Pacific Northwest to the Appalachian region. It is one of the more commonly encountered Mycena species due to its distinctive coloration and relatively large size for the genus, which makes it more visible to collectors than the many tiny, inconspicuous Mycena species.
+*Mycena pura* has a wide distribution across temperate regions of the Northern Hemisphere. It is found throughout Europe, [[psilocybin-north-america-pacific-northwest]], and parts of Asia, occurring in both coniferous and deciduous forests. In Europe, it is particularly common in beech and oak forests, while in North America it is found in a variety of forest types from the Pacific Northwest to the Appalachian region. It is one of the more commonly encountered Mycena species due to its distinctive coloration and relatively large size for the genus, which makes it more visible to collectors than the many tiny, inconspicuous Mycena species.
 
 ## Description
 
@@ -36,7 +36,7 @@ The flesh is thin, watery, and white, with a mild to slightly rancid or cucumber
 
 *Mycena pura* is a saprotrophic species found on the forest floor, growing on decaying leaf litter, needles, fallen leaves, and other fine plant debris in both coniferous and deciduous woodlands. It is particularly associated with beech, oak, and spruce forests, where thick layers of leaf litter accumulate. The species often fruits in small groups, troops, or scattered clusters during the autumn months in temperate regions (typically September through November in the Northern Hemisphere). It can also be found in grassy areas near forest edges, in parks, and along woodland paths where leaf litter has accumulated.
 
-Unlike wood-inhabiting species or dung-inhabiting species, *M. pura* is a leaf-litter decomposer, breaking down the cellulose and other organic compounds in fallen leaves and contributing to the formation of humus in forest soils.
+Unlike wood-inhabiting species or dung-inhabiting species, *M. pura* is a leaf-litter decomposer, breaking down the cellulose and other [[fungal-volatile-organic-compounds-communication]] in fallen leaves and contributing to the formation of humus in forest soils.
 
 ## Chemistry
 
@@ -44,7 +44,7 @@ The chemical profile of *M. pura* is complex and notable for containing both psy
 
 However, the concentrations of psilocybin are generally considered too low to produce significant psychoactive effects at typical consumption levels. More importantly, *M. pura* contains muscarine (2-methyl-3-hydroxy-5-(N-methyl-N-2-propenylamino)tetrahydrofuran), a toxic alkaloid that acts as an agonist at muscarinic acetylcholine receptors. Muscarine is the same toxic compound found in [[inocybe-geophylla]] — a muscarine-containing species with a similar lilac color form
 - Clitocybe rivulosa — another toxic mushroom containing muscarine, the fool's funnel
-- [[amanita-pantherina]] — the panther cap, containing ibotenic acid and muscimol
+- [[amanita-pantherina]] — the panther cap, containing [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] and muscimol
 - Mycena galericulata — a common non-toxic relative, the common bonnet
 
 ## See Also
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Complete Natural Farm: Weed Succession as a Guide to Crop Selection"
+title: "Fukuoka's Complete fukuoka-creating-natural-farm-site-selection-establishment: fukuoka-textdoc-clover-decline-and-weed-succession-orchard as a Guide to cover-crop-selection-guide"
 source: masanobu-fukuoka-the-natural-way-of-farming-the-theory
 topics: natural-farming, weed-ecology, crop-selection, succession, intercropping, polyculture
 ---
@@ -27,7 +27,7 @@ families:
 ### Ferns
 - **Indicator weeds**: Urajiro, koshida, bracken
 - **Appropriate crops**: (Fern family crops — primarily for soil
-  building and ecological succession)
+  building and [[holmgren-ecological-succession-and-pulsing]])
 
 ### Grass Family (Poaceae)
 - **Indicator weeds**: Eulalia, cogon, foxtail, crabgrass
@@ -72,7 +72,7 @@ families:
 - **Indicator weeds**: Hikiokoshi
 - **Appropriate crops**: Perilla, mint, sesame
 - **Logic**: Aromatic weeds in this family suggest conditions
-  suitable for culinary herbs and oilseed crops
+  suitable for [[holzer-medicinal-and-culinary-herbs-compendium]] and oilseed crops
 
 ### Pea Family (Fabaceae)
 - **Indicator weeds**: Kudzu, common vetch, bur clover, clover
@@ -82,7 +82,7 @@ families:
   indicates soil where legume crops will thrive
 
 ### Morning-Glory Family (Convolvulaceae)
-- **Indicator weeds**: Morning glory
+- **Indicator weeds**: [[golden-guide-morning-glory-and-ololiuqui]]
 - **Appropriate crops**: Sweet potato
 - **Logic**: These vigorous climbing weeds indicate conditions
   suitable for sweet potato vines
@@ -140,9 +140,6 @@ crops, and vegetables in a layered polyculture:
   pear, apple, cherry): Devil's tongue, lily, ginger, buckwheat
 - **Fruit vines** (grape, Chinese gooseberry, Akebia): Barnyard
   millet, proso millet, foxtail millet as ground cover
-
-## Starting a New Garden: The Succession Approach
-
 ## See Also
 - [[fukuoka-textdoc-ladino-clover-lifecycle-weed-succession]]
 - [[fukuoka-textdoc-orchard-management-weed-succession-formative-pruning]]

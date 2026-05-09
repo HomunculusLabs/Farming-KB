@@ -1,10 +1,11 @@
 ---
-title: "How to Use Neem Oil for Cannabis Pest Control"
+title: "How to Use Neem Oil for Cannabis comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol"
 created: 2026-04-28
 tags: [query, cannabis, pest-control, organic, neem-oil]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---
@@ -14,9 +15,9 @@ type: query
 ## Short Answer
 Neem oil is a natural, broad-spectrum insecticide and fungicide derived from the
  neem tree
-(Azadirachta indica). It controls aphids, spider mites, thrips, whiteflies, 
+(Azadirachta indica). It controls aphids, [[cervantes-spider-mites-identification-control]], thrips, whiteflies, 
 fungus gnats,
-and powdery mildew on cannabis by disrupting insect hormones and serving as a 
+and [[cervantes-powdery-mildew-prevention-treatment]] on cannabis by disrupting insect hormones and serving as a 
 contact killer.
 Apply as a foliar spray during lights-off, avoid use in direct intense light, 
 and do not
@@ -26,7 +27,7 @@ spray during late flowering to preserve bud quality.
 
 Neem oil has been used for centuries in traditional agriculture and is one of 
 the most
-versatile organic pest control products available to cannabis growers. The 
+versatile [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]] control products available to cannabis growers. The 
 active compound,
 azadirachtin, interferes with insect hormone systems, preventing larvae from 
 molting and
@@ -34,14 +35,14 @@ adults from reproducing. Neem also contains nimbin and salannin, which repel
 insects on
 contact and have antifungal properties. This multi-mode action makes it 
 effective against a
-wide range of cannabis pests. The [[cho-natural-pest-control-methods]]
+wide range of [[green-cannabis-pests-prevention]]. The [[cho-natural-pest-control-methods]]
 page details organic spray preparation techniques for various garden pests.
 
 Prevention is neem oil's greatest strength. Rather than waiting for an 
 infestation to appear,
 many successful growers apply neem as a prophylactic spray every 7 to 14 days 
 during
-vegetative growth. This keeps pest populations from establishing and creates an 
+[[cannabis-vegetative-growth-stage]]. This keeps pest populations from establishing and creates an 
 inhospitable
 environment for common cannabis pests. Neem is particularly effective against 
 [[thrips-cannabis]] when used preventively. The
@@ -80,7 +81,7 @@ management. Combining neem with [[companion-planting-deterrents]] such as basil,
 planted near your
 cannabis garden further reduce pest pressure by masking plant odors and 
 repelling insects.
-The [[gaias-garden-host-plants-beneficial-insects]] and [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]]
+The gaias-garden-host-plants-beneficial-insects and [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]]
 
 - [[query-how-to-use-beneficial-nematodes-for-soil-pest-control]] Questions
 - [[query-how-to-prevent-and-treat-spider-mites-on-cannabis]]

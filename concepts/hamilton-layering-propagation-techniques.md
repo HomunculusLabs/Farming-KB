@@ -1,5 +1,5 @@
 ---
-title: Layering Propagation Techniques
+title: hamilton layering propagation techniques Techniques
 created: 2026-04-28
 tags:
   - organic-gardening
@@ -24,7 +24,7 @@ is one of the simplest and most reliable forms of [[hamilton-taking-cuttings-sof
 continues to receive water and nutrients while its own root system
 develops. This makes layering particularly suitable for plants that are
 difficult to propagate from cuttings, including many shrubs, climbers,
-and some fruit varieties.
+and some [[holzer-stone-fruit-varieties-and-growing]].
 
 There are three main types of layering: tip layering, normal (simple)
 layering, and serpentine layering. Each is suited to different types
@@ -57,7 +57,7 @@ plants that root less readily from cuttings, such as rhododendron,
 clematis, abelia, viburnum, magnolia, witch hazel, Mexican orange
 blossom, camellia, and azalea.
 
-Layering is usually carried out in early spring for shrubs and early
+Layering is usually carried out in [[coleman-overwintered-onions-and-early-spring-crops]] for shrubs and early
 summer for climbers. Make a hole with a spade or trowel, pulling the
 soil toward you to create one straight side. Carefully bend the shoot
 down and place the end in the hole so that the tip extends about six
@@ -103,7 +103,7 @@ in the organic gardener's propagation repertoire.
 ### Aftercare of Layered Shoots
 
 Once a layered stem has rooted sufficiently, usually after one
-growing season for simple layering, it should be severed from
+[[savory-growing-season-and-non-growing-season-management]] for simple layering, it should be severed from
 the parent plant. Hamilton advises doing this gradually over
 a week or two: first nicking the stem halfway through, then
 completing the cut once the new plant shows no signs of wilt.

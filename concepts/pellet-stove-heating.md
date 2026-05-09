@@ -4,12 +4,14 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, off-grid, sustainability, energy, equipment, processing]
-sources: []
+sources:
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 
 ## Overview
 
-Pellet stoves burn compressed wood pellets — small cylinders of dried, ground wood — to provide efficient, controllable home heating. They combine the convenience of fossil fuel heating with the renewable benefits of biomass fuel. For off-grid homesteads, pellet stoves offer high efficiency (75-90%), programmable thermostats, and the ability to produce fuel on-site from wood waste.
+Pellet stoves burn compressed wood pellets — small cylinders of dried, ground wood — to provide efficient, controllable home heating. They combine the convenience of [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]] heating with the renewable benefits of biomass fuel. For off-grid homesteads, pellet stoves offer high efficiency (75-90%), programmable thermostats, and the ability to produce fuel on-site from wood waste.
 
 ## Wood Pellets
 
@@ -29,10 +31,10 @@ Premium pellet standards (PFI in the US, ENplus in Europe):
 
 Small-scale pellet production is possible but requires significant equipment investment:
 
-1. **Raw material preparation** — Dry sawdust or wood chips to below 10% moisture content. A hammer mill or chipper/shredder reduces material to uniform small particles.
+1. **Raw material preparation** — Dry sawdust or [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] to below 10% moisture content. A hammer mill or chipper/shredder reduces material to uniform small particles.
 2. **Conditioning** — Steam or water is added to bring moisture to exactly 12-15%. This activates the lignin for binding.
 3. **Pelletizing** — A flat die or ring die pellet mill compresses the material through holes under high pressure and temperature (150-200F).
-4. **Cooling** — Fresh pellets are hot and soft. A cooling tray or bin brings them to ambient temperature, hardening them.
+4. **Cooling** — Fresh pellets are hot and soft. A cooling tray or bin brings them to [[jadam-ambient-temperature-principle]], hardening them.
 5. **Screening** — Remove fines (broken pellets and dust) for reuse.
 6. **Storage** — Store in sealed bags or bulk bins in a dry location.
 
@@ -76,7 +78,7 @@ Whole-house heating via forced air or hydronic systems:
 - Heat output: 50,000-100,000+ BTU/hr
 - Can be ducted into existing central heating systems
 - Higher cost but heats the entire home from one unit
-- Some models can burn corn or other biomass fuels in addition to pellets
+- Some models can burn corn or other [[holmgren-biomass-fuels-and-energy-yield-ratios]] in addition to pellets
 
 ## Stove Components
 
@@ -107,7 +109,7 @@ Where combustion occurs. Pellets are fed into the pot, ignited, and burn with fo
 
 ### Combustion Fan
 
-Forces air into the burn pot for efficient combustion. Also creates negative pressure in the exhaust system, preventing smoke from entering the room. A second convection fan circulates room air around the hot combustion chamber and out into the room.
+Forces air into the burn pot for efficient combustion. Also creates negative pressure in the exhaust system, preventing smoke from entering the room. A second convection fan circulates [[stamets-growing-room-air-circulation-co2-management]] around the hot combustion chamber and out into the room.
 
 ### Control Board
 
@@ -143,49 +145,6 @@ Electronic controls manage:
 - Mechanical components can fail (auger jams, fan motors)
 - Regular maintenance required (daily cleaning, annual service)
 
-## Off-Grid Power Considerations
-
-Since pellet stoves require electricity, off-grid installations need a 12V battery with inverter (runs 8-12 hours during outages) and ideally a 200W solar panel. Always have a backup heating plan (woodstove, propane heater). Power consumption: 100-400 watts while running; startup draws 300-500 watts for 5-10 minutes.
-
-## Installation Requirements
-
-- Minimum clearance from combustible materials: 6-36 inches (varies by model)
-- Venting: 3-inch or 4-inch stainless steel PL vent pipe
-- Can vent through a wall or into existing chimney with liner
-- Outside air intake recommended, non-combustible hearth pad required
-- Professional installation recommended; permit required in most jurisdictions
-
-## Maintenance
-
-### Daily
-
-- Clean the burn pot (remove ash and clinkers)
-- Check hopper fuel level and refill
-- Verify normal flame appearance (bright orange/yellow, not lazy or dark)
-
-### Weekly
-
-- Clean the heat exchanger (brush or scrape to remove fly ash)
-- Empty the ash pan
-- Check and clean the glass window
-
-### Monthly
-
-- Clean exhaust vent, inspect combustion air intake, check door gaskets
-
-### Annually
-
-- Professional cleaning, check electrical connections, inspect vent pipe, test thermostat and safety sensors
-
-## Common Problems
-
-- Auger jam: Clear jam, check pellet quality and moisture
-- Black glass: Increase combustion air, clean burn pot
-- Excessive ash: Switch to premium pellets
-- Smoke in room: Clean vent, check for blockage
-- Stove won't ignite: Test igniter, replace if needed; check for wet pellets
-
 ## Related Topics
 
 Pellet heating connects to broader off-grid energy systems. See [[charcoal-production-for-cooking]] for another wood fuel processing method. For whole-home heating design, consider integration with [[fungi-and-sustainability]] planning and [[swale-design-construction]] principles for an energy-efficient building envelope.
-- [[basic-electrical-for-homestead]]

@@ -1,5 +1,5 @@
 ---
-title: Wool Processing and Natural Dyeing
+title: Wool fukuoka-fruit-processing-and-natural-food-marketing Dyeing
 created: 2026-04-28
 tags:
   - permaculture
@@ -17,13 +17,13 @@ type: concept
 # Wool Processing and Natural Dyeing
 
 Wool processing and natural dyeing represent the value-adding stage of
-fiber production in permaculture systems. Bill Mollison addresses
+fiber [[mollison-pigeons-and-squab-production-in-permaculture-systems]] systems. Bill Mollison addresses
 fiber crafts and on-farm processing in Permaculture: A Designers'
 Manual (Chapter 14: Strategies for an Alternative Nation) as part of
 the broader theme of local self-reliance. Converting raw fleece into
 finished textile products dramatically increases the economic return
 per animal and per hectare, while natural dyeing connects textile
-production to the botanical diversity of the permaculture landscape.
+production to the botanical diversity of the [[holzer-permaculture-landscape-design]].
 
 ## Sheep Shearing
 
@@ -123,16 +123,18 @@ Finished yarn can be processed into a range of products that
 dramatically increase value per kilogram of raw fleece:
   - Knitting and crochet: Garments, accessories, household items
   - Weaving: Cloth, rugs, tapestries on hand or floor looms
-  - Felting: Hats, slippers, insulation, and building material
+  - Felting: Hats, slippers, insulation, and [[fungal-building-material-deterioration]]
   - Dyeing and finishing: Adding color, texture, and pattern
   - Direct sale: Selling fleece, roving, or yarn to handcrafters
 
 ## See Also
 
-- mollison designers small livestock grazing
+- mollison designers small [[savory-livestock-grazing-planning]]
 - mollison designers value adding crafts
 - mollison designers local economies
-- mollison designers zone planning
-- [[mollison-designers-food-processing-preservation-storage]]
+- mollison designers [[mollison-course-zone-planning-and-design]]
+- mollison-designers-food-processing-preservation-storage
 - [[mollison-designers-lime-and-cement-natural-building]]
 - [[mollison-designers-neem-tree-as-natural-insecticide]]
+- [[mollison-designers-wool-insulation-and-natural-textiles]]
+- [[bill-mollison]]

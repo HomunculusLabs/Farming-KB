@@ -1,5 +1,5 @@
 ---
-title: Kalman Filter vs Wavelet Transform
+title: Kalman Filter vs query-what-is-a-wavelet-transform-used-for
 created: 2026-04-28
 subtitle: Comparing model-based state estimation with multiscale signal representation
 tags: [comparison, signal-processing, estimation, wavelets, control-theory]

@@ -1,6 +1,6 @@
 ---
-title: Complete Organic Fertilizer (COF) Blend
-source: Gardening When It Counts - [[steve-solomon]]
+title: Complete complete-organic-fertilizer-cof-recipe-solomon (COF) Blend
+source: Gardening When It Counts - steve-solomon
 source_author: Steve Solomon
 tags: [gardening, fertilizer, organic, soil-fertility, plant-nutrition]
 created: 2026-05-08
@@ -12,8 +12,8 @@ created: 2026-05-08
 
 Steve Solomon's Complete Organic Fertilizer (COF) is a custom blended
 organic fertilizer designed to provide balanced nutrition for vegetable
-crops using agricultural waste products and crushed rock minerals. Unlike
-single-ingredient organic amendments, COF supplies all major and minor
+crops using [[fungi-in-composting-and-agricultural-waste-conversion]] products and crushed rock minerals. Unlike
+single-ingredient [[cervantes-organic-amendments-chart]], COF supplies all major and minor
 plant nutrients in approximately the right proportions, addressing the
 common problem of nutrient imbalance in organic gardens.
 
@@ -66,9 +66,9 @@ produces both high yields and highly nutritious vegetables.
 ## Relationship to Plant Nutrition
 
 The concept behind COF is that plants require specific ratios of
-nutrients for optimal growth and nutritional quality. When one nutrient
+nutrients for optimal growth and [[coleman-winter-greens-nutritional-quality-cold-sweetening]]. When one nutrient
 is limiting, the plant cannot make full use of the others. This is
-Liebig's Law of the Minimum applied to vegetable gardening.
+Liebig's Law of the Minimum applied to [[home-vegetable-garden-planning]].
 
 Solomon argues that the nutritional quality of homegrown vegetables is
 directly related to the completeness of the fertility program. Vegetables
@@ -113,7 +113,7 @@ valuable skill that keeps garden production economical.
 
 ## Avoiding Overuse
 
-Solomon strongly warns against over-applying organic fertilizers. The
+Solomon strongly warns against over-applying [[hamilton-organic-fertilizers-and-plant-nutrition]]. The
 common assumption that "more is better" is counterproductive. Excessive
 nitrogen produces lush, succulent growth that is more attractive to
 insect pests and more susceptible to disease. Over-fertilized plants
@@ -126,5 +126,8 @@ generously without restraint.
 
 ## See Also
 
+- [[solomon-manure-nutrient-variability-cof]]
+
 - [[dryland-vegetable-gardening]]
 - [[soil-foodweb-biology-balance]]
+- [[complete-organic-fertilizer-cof-recipe-solomon]]

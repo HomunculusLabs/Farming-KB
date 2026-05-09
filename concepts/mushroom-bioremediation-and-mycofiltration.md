@@ -12,15 +12,15 @@ manganese peroxidases, and laccases, can also degrade a wide range
 of anthropogenic pollutants including petroleum hydrocarbons,
 polychlorinated biphenyls (PCBs), pentachlorophenol (PCP),
 pesticides, and even some explosives. Mycofiltration, a related
-concept, uses the dense mycelial network as a biological filtration
+concept, uses the dense [[gadd-mycelial-network-dynamics]] as a biological filtration
 membrane to remove pathogens, sediments, and chemical contaminants
 from water.
 
 ## How Fungi Degrade Pollutants
 
-White rot fungi (particularly Phanerochaete chrysosporium and
+White rot fungi (particularly [[staycare-phanerochaete-chrysosporium-in-bioremediation]] and
 species of Pleurotus) are the most extensively studied organisms for
-fungal bioremediation. These fungi have evolved an extraordinary
+[[staycare-composting-as-a-fungal-bioremediation-strategy]]. These fungi have evolved an extraordinary
 enzymatic system to decompose lignin — one of the most recalcitrant
 naturally occurring polymers. Lignin peroxidases (LiP), manganese
 peroxidases (MnP), and laccases produced by these fungi catalyze the
@@ -33,7 +33,7 @@ features with lignin subunits.
 
 Brown rot fungi (notably Gloeophyllum species) use a different
 strategy, producing hydroxyl radicals through the Fenton reaction
-(the iron-catalyzed conversion of hydrogen peroxide to hydroxyl
+(the iron-catalyzed conversion of [[cervantes-hydrogen-peroxide-sterilization]] to hydroxyl
 radicals) to depolymerize cellulose and modify lignin. These
 hydroxyl radicals are among the most powerful oxidants found in
 biological systems and can also degrade many synthetic pollutants.
@@ -52,7 +52,7 @@ growth of other decomposer organisms, leading to a cascading
 ecological recovery. After mushroom inoculation, contaminated sites
 that were previously barren have been observed to support plant
 growth, insect activity, and eventually bird colonization — a
-sequence Stamets describes as ecological succession driven by fungal
+sequence Stamets describes as [[holmgren-ecological-succession-and-pulsing]] driven by fungal
 decomposition.
 
 PCBs, once widely used as dielectric fluids in electrical
@@ -80,7 +80,7 @@ mycofiltration for a range of water treatment applications,
 including the removal of pathogens (particularly Escherichia coli
 and other coliform bacteria) from agricultural runoff, the
 filtration of sediment from stormwater, and the reduction of
-chemical contaminants in residential and industrial wastewater.
+chemical contaminants in residential and [[fungal-industrial-wastewater-treatment]].
 
 In practice, mycofiltration installations typically involve
 establishing dense mats of mycelium on appropriate substrates

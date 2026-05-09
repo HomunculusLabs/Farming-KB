@@ -1,5 +1,5 @@
 ---
-title: "Fungi in Volcanic and Glacier Primary Succession"
+title: "Fungi in Volcanic and dighton fungi volcanic glacier primary succession Succession"
 created: 2026-04-26
 tags:
   - mycology
@@ -27,7 +27,7 @@ substrates and facilitating ecosystem development.
 
 Allen (1991) showed that vegetation colonizing Mount Saint Helens after
 the 1980 eruption consisted entirely of mycorrhizal species, both
-arbuscular mycorrhizal and ectomycorrhizal forms. This contrasted with
+[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] and ectomycorrhizal forms. This contrasted with
 the Galapagos Islands where Schmidt, Scow, Hendrix, and Smith found a
 mixture of arbuscular mycorrhizal and nonmycorrhizal plants. In the
 Galapagos, nonmycorrhizal plants developed in more fertile lowland
@@ -37,14 +37,14 @@ in developing ecosystems in relation to nutrient and water availability.
 
 ## Mount Koma Volcanic Substrates
 
-Titus and Tsuyuzaki (2002) studied mycorrhizal colonization of plants
+Titus and Tsuyuzaki (2002) studied [[arbuscular-mycorrhizal-colonization-patterns]] of plants
 in primary succession on volcanic substrates of Mt. Koma, Japan. They
 found no effect of microsite on arbuscular mycorrhizal colonization of
 Agrostis scabra. Campanula lasiocarpa, however, showed higher root
 colonization by arbuscular mycorrhizae near rock than on flat sites or
 those occupied by Polygonum. In all sites, willow (Salix reinii) was
 heavily ectomycorrhizal. These data suggest that Allen and Allen's
-models are not only dependent on environmental factors but also plant
+models are not only dependent on [[duggar-mushroom-environmental-factors-temperature-moisture-light]] but also plant
 species-dependent.
 
 ## Lyman Glacier Forefront
@@ -101,7 +101,7 @@ Amaranthus and Perry (1989) demonstrated that when Douglas fir was
 planted into partially cleared sites with remaining mycorrhizal roots,
 survival was approximately 90% compared to only 50% in totally cleared
 areas after 2 years. The reduction in survival was attributed to lack
-of a viable communal ectomycorrhizal network. This underscores the
+of a viable communal [[symbiotic-fungi-ectomycorrhizal-network-carbon-trading]]. This underscores the
 importance of maintaining mycelial continuity for rapid mycorrhizal
 development during colonization of disturbed or primary substrates.
 
@@ -111,11 +111,16 @@ Saprotrophic fungi play an equally critical role in early primary succession, of
 
 ## See Also
 
-- [[dighton-fungal-soil-crust-primary-production]]
+- [[comparison-primary-vs-secondary-succession]]
+
+- dighton-fungal-soil-crust-primary-production
 - [[mycorrhizal-fungi-primary-production-dighton]]
 - [[dighton-hypogeous-fungi-mammal-spore-dispersal]]
 
 ## Sources
 
-- Dighton, J. (2003). Fungi in Ecosystem Processes. Marcel Dekker.
+- Dighton, J. (2003). Fungi in [[fungal-ecosystem-processes-overview]]. Marcel Dekker.
   Chapter 5: Fungi and Population and Community Regulation.
+- [[saprotrophic-fungi]]
+- [[ectomycorrhiza]]
+- [[tsuga-mertensiana]]

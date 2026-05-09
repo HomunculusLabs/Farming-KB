@@ -1,15 +1,15 @@
 ---
-title: Cannabis Hash Making from Extracted Oil
+title: Cannabis Hash Making from cannabis-hashish-from-extracted-oil-techniques
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis Hash Making from Extracted Oil
 
-"Cannabis Alchemy" by D. Gold describes several methods for converting extracted cannabis oil into hashish of varying quality. These methods go beyond traditional [[neem-oil-cannabis]] of CBD to THC. Leave soxhlet basket in place to wash residual oil from the 2.25 ounces during isomerization.
+"[[lemon-cannabis-alchemy-advanced-refinement-techniques]]" by D. Gold describes several methods for converting extracted [[cervantes-hash-cannabis-oil-production]] into hashish of varying quality. These methods go beyond traditional [[neem-oil-cannabis]] of CBD to THC. Leave soxhlet basket in place to wash residual oil from the 2.25 ounces during isomerization.
 
 7. **Solvent removal**: After 45 minutes of isomerization, begin removing solvent through the solvent removal valve (approximately 15 minutes).
 
@@ -65,6 +65,8 @@ Source: raw/papers/[[cannabis-hashish-guide]]
 
 ## See Also
 
+- [[cannabis-oil-vaporization-methods]]
+
 - [[2c-d-pihkal-entry-23]]
 - [[cannabis-hashish-from-extracted-oil-techniques]]
 - [[cannabis-hashish-making-methods]]
@@ -86,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

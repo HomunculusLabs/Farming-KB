@@ -1,5 +1,5 @@
 ---
-title: "Nameko Mushroom Cultivation (Pholiota nameko)"
+title: "Nameko accessible-mushroom-cultivation-for-disabilities (Pholiota nameko)"
 created: 2026-04-26
 tags:
   - mushroom-cultivation
@@ -19,7 +19,7 @@ The Genus Pholiota is not known for its abundance of deliciously
 edible species. Many species are characterized by a glutinous, slimy
 veil coating the surface of the cap. However, the Japanese discovered
 that Pholiota nameko is a superior gourmet mushroom. It is one of the
-most popular cultivated mushrooms in Japan, closely ranking behind
+most popular [[fungi-cultivated-mushrooms-pathogens-competitors]] in Japan, closely ranking behind
 [[growing-gourmet-enoki-cultivation]].
 
 ## Taxonomy and Common Names
@@ -68,20 +68,20 @@ spawn can then be produced for final inoculation into supplemented
 hardwood sawdust.
 
 ### Substrate Recommendations
-The supplemented sawdust formula is recommended. Arita (1969)
+The [[oyster-mushroom-supplemented-sawdust-blocks]] formula is recommended. Arita (1969)
 recommends no more than 10% rice bran for oak hardwood formulations.
 However, 20% rice bran supports a more massive first and second flush
 when using Alnus rubra (red alder). With conifer sawdust (Asian Pine
 and Japanese Cedar), 15% rice bran is optimum. This is one of the few
-gourmet mushrooms giving substantial fruitings on conifer wood.
+[[growing-gourmet-mushrooms-civilization-history]] giving substantial fruitings on conifer wood.
 
 ### Fruiting Without Casing
 Should a casing layer not be applied, the block must be exposed to a
-"condensing-fog" environment during the primordia formation period.
+"condensing-fog" environment during the [[growing-gourmet-primordia-formation-pinning]] period.
 If the aerial mycelium suddenly dehydrates, surface primordia will be
 prevented and no crops will form. Approximately a week after
 initiating, orange streaks of slime form across the mycelium. This
-glutinous layer acts as a moisture bank promoting mushroom formation.
+glutinous layer acts as a moisture bank promoting [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]].
 
 ### Harvesting
 Rather than removing the entire bag, cut off the top portion, leaving

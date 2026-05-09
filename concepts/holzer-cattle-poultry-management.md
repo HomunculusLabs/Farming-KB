@@ -1,11 +1,12 @@
 ---
-title: Holzer Cattle and Poultry Management
+title: sepp-holzer-cattle-and-poultry-management and Poultry Management
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 ## Wild and Old Cattle Breeds
 
@@ -17,8 +18,8 @@ Holzer keeps old cattle breeds that are suited to outdoor, year-round living on 
 
 ### Keeping Principles
 
-- Cattle live outside year-round with access to simple roundwood shelters
-- They graze on polyculture paddocks sown with cereals, legumes, and root crops
+- Cattle live outside year-round with access to simple [[holzer-roundwood-shelters-earth-cellars]]
+- They graze on polyculture paddocks sown with cereals, legumes, and [[permaculture-plants-root-crops-and-tubers]]
 - In winter, animals can survive on Jerusalem artichokes, kale, and turnips left in the field if snow is not too deep
 - No concentrated feed required when diverse forage is available
 - Shelters must be easily accessible for mucking out with a tractor (cattle are less clean than pigs)
@@ -46,7 +47,7 @@ These multi-purpose structures serve as cattle housing, pig shelters, and crop s
 - Build time: one day with excavator and one additional person
 
 ### Orientation
-The entrance faces east so animals wake with the rising sun. The shelter provides shade at midday in summer and wind protection in winter.
+The entrance faces east so animals wake with the rising sun. The shelter provides shade at midday in summer and [[cervantes-wind-protection-outdoor-cannabis]] in winter.
 
 ## Poultry
 
@@ -69,7 +70,7 @@ The entrance faces east so animals wake with the rising sun. The shelter provide
 
 ## Stone Cellars for Storage
 
-Earth cellars maintain 80-90% humidity and 8-10C temperature using only the soil's thermal mass. Key features:
+[[sepp-holzer-earth-cellars-and-philosophy]] maintain 80-90% humidity and 8-10C temperature using only the soil's thermal mass. Key features:
 
 - Gravel floor for drainage
 - 10m-long underground air inlet pipe (brings air to soil temperature)
@@ -78,6 +79,8 @@ Earth cellars maintain 80-90% humidity and 8-10C temperature using only the soil
 - Inlet pipe sloped slightly downward doubles as a drain during cleaning
 
 ## See Also
+
+- [[sepp-holzer-cattle-and-poultry-management]]
 
 - [[holzer-livestock-integration]]
 - [[holzer-alternative-energy]]

@@ -1,5 +1,5 @@
 ---
-title: Backyard Food Forest Design
+title: comparison-backyard-food-forest-vs-urban-permaculture Design
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -31,7 +31,7 @@ A food forest is a multi-layered edible garden modeled on forest ecosystems. Eve
 - Place at edges and between trees for sun/partial shade
 
 ### Herbaceous Layer (1-5 ft)
-- Perennial vegetables, herbs, flowers
+- [[comparison-perennial-vegetables-vs-cover-crops]], herbs, flowers
 - Species: asparagus, rhubarb, comfrey, artichoke, mint, oregano, thyme
 - Fill all gaps between shrubs and trees
 
@@ -42,7 +42,7 @@ A food forest is a multi-layered edible garden modeled on forest ecosystems. Eve
 
 ### Root Layer
 - Edible roots and tubers
-- Species: potato, sweet potato, Jerusalem artichoke, garlic, onions, shallots
+- Species: potato, sweet potato, [[comparison-jerusalem-artichoke-vs-potato]], garlic, onions, shallots
 - Place in dedicated sunny areas between trees
 
 ### Vine Layer (vertical)
@@ -71,7 +71,7 @@ A food forest is a multi-layered edible garden modeled on forest ecosystems. Eve
 Plant support groups around each tree:
 - Fruit tree (center)
 - Nitrogen fixer (comfrey, seaberry, or Siberian pea)
-- Dynamic accumulator (comfrey, yarrow, borage)
+- [[nutrient-dynamic-accumulator-reference]] (comfrey, yarrow, borage)
 - Pest confuser (alliums, aromatic herbs)
 - Ground cover (clover, strawberry)
 - Pollinator attractor (flowers in umbel and composite families)
@@ -80,11 +80,11 @@ Plant support groups around each tree:
 - Year 1-2: Heavy mulching, regular watering, weeding
 - Year 3-5: Reducing inputs, ground covers fill in
 - Year 5+: Minimal — mostly harvesting, occasional pruning, mulch top-up
-- Chop-and-drop: cut comfrey and dynamic accumulators 3-4 times per year as mulch
+- Chop-and-drop: cut comfrey and [[comparison-dynamic-accumulators-vs-cover-crops]] 3-4 times per year as mulch
 
 ## Related
 - [[food-forest-design]] — for larger-scale food forest design
 - [[gaia-garden-plant-guilds]] — for guild design details
 - [[companion-planting-deterrents]] — for plant pairings
-- [[fruit-tree-varieties]] — for fruit tree selection
+- [[fruit-tree-varieties]] — for fruit [[hamilton-fruit-tree-selection-pollination]]
 - [[orchard-management]] — for fruit tree care

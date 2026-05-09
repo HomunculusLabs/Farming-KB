@@ -1,16 +1,9 @@
 ---
-title: Maga: The Great Gift and Root of Magic
-created: 2026-04-24
-updated: 2026-04-24
-type: concept
-tags: [amanita-muscaria, etymology, magic, maga, indo-european]
-sources:
-  - raw/papers/amanita-muscaria-herb-of-immortality.md
----
 
+---
 # Maga: The Great Gift and Root of Magic
 
-In "Amanita Muscaria: Herb of Immortality," Donald E. Teeter identifies the Proto-Indo-European word "Maga" (The Great Gift) as the original name for [[amanita-muscaria-living-vessel-grail]]), produced healing and visionary experiences, and transformed simple food and water into a communion meal with a "Living God." The "Magic" was real natural phenomena that appeared miraculous to people who did not understand mycology.
+In "Amanita Muscaria: Herb of Immortality," Donald E. Teeter identifies the Proto-Indo-European word "Maga" (The Great Gift) as the original name for amanita-muscaria-living-vessel-grail), produced healing and visionary experiences, and transformed simple food and water into a communion meal with a "Living God." The "Magic" was real natural phenomena that appeared miraculous to people who did not understand mycology.
 
 ## Maga in the Soma Ceremony
 
@@ -48,13 +41,13 @@ Teeter concludes that "Amanita Muscaria is NATURAL MAGIC" -- the only logical ex
 
 ## See Also
 
-- [[amanita-muscaria-herb-of-immortality-soma-hypothesis]]
-- [[amanita-muscaria-living-vessel-grail]]
-- [[amanita-herb-living-god-immortality]]
+- amanita-muscaria-herb-of-immortality-soma-hypothesis
+- amanita-muscaria-living-vessel-grail
 
 ---
 
-Source: Amanita Muscaria: Herb of Immortality (Teeter), Chapters 1, 4, 6-7, 11, 14; pp 5, 13, 17-20, 37, 49-54, 56-58
+Source: [[amanita-muscaria]]: [[amanita-muscaria-herb-of-immortality-soma-hypothesis]] (Teeter), Chapters 1, 4, 6-7, 11, 14; pp 5, 13, 17-20, 37, 49-54, 56-58
+
 ## Practical Considerations
 
 When working with Maga: The Great Gift and Root of Magic, several practical factors should be
@@ -71,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,7 +93,7 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
 
 Integration with other disciplines and approaches creates synergies that
@@ -108,9 +101,8 @@ advance the field as a whole. Cross-pollination of ideas from biology,
 ecology, data science, and traditional knowledge systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -38,7 +38,7 @@ created: 2026-04-28
 
 **Psophocarpus tetragonolobus** (L.) DC. is a tropical legume in the family Fabaceae, notable for producing edible pods, seeds, tuberous roots, leaves, and flowers — making it one of the most versatile food plants known.
 
-Commonly called the **winged bean** for its distinctive four-angled pods with wing-like longitudinal ridges, it is native to Papua New Guinea and widely cultivated across Southeast Asia, Africa, and the Pacific Islands.
+Commonly called the **winged bean** for its distinctive four-angled pods with wing-like longitudinal ridges, it is native to Papua New Guinea and widely cultivated across [[psilocybe-southeast-asia-pacific]], Africa, and the Pacific Islands.
 
 The species has been described as a "one-species supermarket" due to the nutritional density and edibility of nearly every plant part. Protein content in seeds reaches 30–40%, comparable to soybeans.
 
@@ -76,7 +76,7 @@ The seed oil is rich in unsaturated fatty acids, particularly linoleic acid (30�
 
 ## Cultivation
 
-Winged bean is propagated by seed or tuber cuttings. Seed germination requires scarification or soaking in water for 24 hours to break physical dormancy.
+Winged bean is propagated by seed or tuber cuttings. [[cannabis-seed-germination-methods]] requires scarification or soaking in water for 24 hours to break physical dormancy.
 
 Planting density is typically 30,000–50,000 plants/ha with trellising or support structures. Without support, vines trail on the ground with reduced pod yield.
 
@@ -86,7 +86,7 @@ Maturity from planting to first harvest is 75–120 days for green pods, 150–1
 
 ## Permaculture and Agroforestry Applications
 
-In permaculture design, winged bean serves as a multi-functional element: nitrogen-fixing climber, edible crop across all plant parts, and living mulch when allowed to trail.
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], winged bean serves as a multi-functional element: nitrogen-fixing climber, edible crop across all plant parts, and living mulch when allowed to trail.
 
 The vine's rapid growth makes it effective for shading and cooling in tropical food forests. It can be intercropped with banana, cassava, taro, and maize.
 
@@ -96,7 +96,7 @@ Its ability to produce both above-ground protein (seeds) and below-ground calori
 
 Major pests include pod-sucking bugs (*Riptortus* spp.), flower thrips, and pod borers. Nematode damage to tubers can be significant in infested soils, particularly from *Meloidogyne* spp.
 
-Fungal diseases include leaf spot (*Cercospora* spp.), anthracnose, and root rot in waterlogged conditions. Most pests and diseases can be managed through crop rotation, good drainage, and biological control methods.
+Fungal diseases include leaf spot (*Cercospora* spp.), anthracnose, and root rot in waterlogged conditions. Most [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] can be managed through [[comparison-crop-rotation-vs-cover-cropping]], good drainage, and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] methods.
 
 The main agronomic limitation is the plant's photoperiod sensitivity — many traditional cultivars require short days (12 h or less) to initiate flowering, restricting cultivation to within 15° of the equator.
 
@@ -107,5 +107,5 @@ Day-neutral varieties developed by breeding programs in Nigeria and Thailand hav
 - [[l-theanine]]
 - [[curcumin]]
 - [[panax-ginseng]]
-- [[ocimum-sanctum]]
+- ocimum-sanctum
 - [[glycyrrhiza-glabra]]

@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-A spore syringe is a suspension of mushroom spores in sterile water, used to inoculate [[fungal-culture-media|agar media]] or [[mushroom-cultivation-grain-spawn|grain spawn]]. Making spore syringes from [[fungal-spore-print-guide|spore prints]] is a fundamental skill in mushroom cultivation, serving as the starting point for tissue culture, strain isolation, and genetic preservation.
+A spore syringe is a suspension of mushroom spores in sterile water, used to inoculate [[fungal-culture-media|agar media]] or [[mushroom-cultivation-grain-spawn|grain spawn]]. Making spore syringes from [[fungal-spore-print-guide|spore prints]] is a fundamental skill in [[accessible-mushroom-cultivation-for-disabilities]], serving as the starting point for tissue culture, strain isolation, and genetic preservation.
 
 ## Materials and Equipment
 
@@ -26,15 +26,15 @@ A spore syringe is a suspension of mushroom spores in sterile water, used to ino
 - **Sterile syringe needles:** 18-20 gauge, 1.5 inch
 - **Sterile water:** Distilled water, sterilized by pressure cooking (15 psi, 20 min)
 - **Sterile working environment:** [[laminar-flow-hood-guide|laminar flow hood]] or still-air box (glove box)
-- **Alcohol lamp or lighter:** For flame sterilization
-- **Isopropyl alcohol (70%):** For surface sterilization
+- **Alcohol lamp or lighter:** For [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]]
+- **Isopropyl alcohol (70%):** For [[challenge-organisms-nasa-microwave-surface-sterilization-testing]]
 - **Small glass jar or vial:** For water reservoir (pre-sterilized)
 
 ### Optional but Recommended
 
 - Scalpel or inoculation loop
 - Parafilm or tape
-- Magnetic stir bar and stir plate (for even spore distribution)
+- Magnetic stir bar and stir plate (for even [[emcdda-free-spore-ring-europe-spore-distribution-network]])
 
 ## Preparation Phase
 
@@ -112,7 +112,7 @@ Note: Spore inoculation of grain is slower and less reliable than using [[mushro
 
 ## Contamination Prevention
 
-Common contamination sources in spore syringe preparation:
+Common [[stamets-contamination-sources-laboratory-hygiene]] in spore [[mushroom-spore-printing-syringe-preparation-pf-tek]]:
 
 - **Non-sterile water:** Always pressure-cook distilled water
 - **Contaminated spore prints:** Only use prints made in clean conditions from healthy specimens

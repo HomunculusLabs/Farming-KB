@@ -14,7 +14,7 @@ Fungi are the primary decomposers of complex organic matter in terrestrial
 ecosystems, responsible for breaking down lignin, cellulose, and other
 recalcitrant polymers that bacteria and other organisms cannot efficiently
 process. Through this decomposition activity, fungi drive global carbon and
-nutrient cycling, converting dead organic material into forms available for
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], converting dead organic material into forms available for
 uptake by plants and other organisms.
 
 ## The Decomposer Niche
@@ -31,7 +31,7 @@ to translocate resources across their [[lignin-degradation]] inherently ineffici
   insect remains, recycling nitrogen and carbon from previously living
   organisms.
 
-- **Phosphatases:** Release phosphate from organic compounds (phytase,
+- **Phosphatases:** Release phosphate from [[fungal-volatile-organic-compounds-communication]] (phytase,
   phosphomonoesterase), making phosphorus available for uptake by the fungus
   and its mycorrhizal partners.
 
@@ -44,7 +44,7 @@ decomposition strategies:
 
 White-rot basidiomycetes (e.g., [[trametes-versicolor-entity]]) are the only organisms capable of substantial lignin
 degradation. They employ an aggressive, non-selective decay strategy using
-Fenton chemistry (hydrogen peroxide + iron) and lignin-modifying enzymes to
+[[bioremediation-fenton-chemistry-brown-rot-fungi]] ([[cervantes-hydrogen-peroxide-sterilization]] + iron) and lignin-modifying enzymes to
 break down all major wood components simultaneously. Their name derives from
 the bleached appearance of wood they colonize, resulting from lignin removal.
 
@@ -81,7 +81,7 @@ The rate and trajectory of decomposition follow predictable patterns:
    mineralized by opportunistic microorganisms.
 3. **Lignocellulose Decomposition:** Cellulose and hemicellulose are
    progressively hydrolyzed, with rates depending on lignin content and
-   fungal community composition.
+   fungal [[core-endorhiza-bacterial-community-composition-cannabis]].
 4. **Humification:** Recalcitrant compounds undergo condensation and
    complexation reactions, forming stable humic substances.
 
@@ -92,7 +92,7 @@ as fungi become nitrogen-limited.
 
 ## Environmental Controls
 
-Key environmental factors regulating fungal decomposition include:
+Key [[duggar-mushroom-environmental-factors-temperature-moisture-light]] regulating fungal decomposition include:
 
 - **Moisture:** Fungal activity requires adequate water potential; both
   waterlogging and drought suppress decomposition. Optimal water potentials

@@ -1,9 +1,9 @@
 ---
-title: "Mushroom Cultivation for Disabilities - Oyster Mushroom Guide"
+title: "Mushroom mushroom-cultivation-for-disabilities-training-program - cotter-oyster-mushroom-cultivation Guide"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
-  - "A Training Manual: Mushroom Cultivation by People with Disabilities (FAO RAP Publication 2001/12)"
+  - "A mushroom-cultivation-disabilities-training-manual-overview: Mushroom Cultivation by People with Disabilities (FAO RAP Publication 2001/12)"
 type: concept
 tags: [cultivation, mushroom-cultivation, oyster-mushroom]
 ---
@@ -16,9 +16,9 @@ The FAO training manual provides a comprehensive step-by-step guide to oyster mu
 
 The manual recommends starting with easy-to-grow, commercially viable species:
 
-- **Oyster mushrooms** (Pleurotus ostreatus) -- most commonly and easily cultivated in Thailand and Southeast Asia
+- **[[query-how-to-grow-oyster-mushrooms-at-home]]** (Pleurotus ostreatus) -- most commonly and easily cultivated in Thailand and Southeast Asia
 - **Ear mushrooms** (Auricularia polytricha) -- also widely cultivated
-- **Straw mushrooms** (Volvariella volvacea) -- require different techniques, demonstrated by trainers
+- **Straw mushrooms** ([[paddy-straw-mushroom-volvariella-volvacea-cultivation]]) -- require different techniques, demonstrated by trainers
 
 Other species such as Lentinula, Lentinus, Ganoderma, Macrocybe, and Agrocybe can be cultivated but require more attention and knowledge. New cultivators should begin with oyster mushrooms.
 
@@ -30,7 +30,7 @@ Mushrooms offer a wide range of proteins, vitamins, and minerals. Selecting the 
 
 ### Step 2-3: PDA Medium and Tissue Culture
 
-Potato Dextrose Agar (PDA) medium is prepared for spawn production. A young, fresh, healthy mushroom is selected for tissue culture using a sterilized needle in a laminar flow cabinet. The tissue piece (2mm x 2mm) is taken from inside the mushroom between cap and stalk. PDA-to-PDA transfer allows multiplication from a pure mycelium culture, taking 10-15 days for full growth.
+Potato Dextrose Agar (PDA) medium is prepared for [[growing-gourmet-sawdust-spawn-production-use]]. A young, fresh, healthy mushroom is selected for tissue culture using a sterilized needle in a laminar flow cabinet. The tissue piece (2mm x 2mm) is taken from inside the mushroom between cap and stalk. PDA-to-PDA transfer allows multiplication from a pure mycelium culture, taking 10-15 days for full growth.
 
 ### Step 4: Multiplying Spawn on Sorghum Seeds
 
@@ -56,9 +56,9 @@ Moisture content must be 65-75%. In hot climates, additives should not exceed 7.
 Bags are pasteurized at 90-100 degrees C for 3-4 hours (see [[exotic-mushroom-cultivation-guide]]
 
 - [[mushroom-cultivation-disabilities-pasteurization-methods]]
-- [[oyster-mushroom-bag-cultivation]]
+- oyster-mushroom-bag-cultivation
 - [[holzer-mushroom-cultivation-methods]]
-- [[mushroom-substrate-recipes]]
+- mushroom-substrate-recipes
 - [[mushroom-house-construction-duggar]]
 ## Practical Considerations
 
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

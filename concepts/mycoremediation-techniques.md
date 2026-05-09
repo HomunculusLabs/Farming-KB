@@ -4,7 +4,9 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycoremediation, mycology, ecology, pollution, remediation, fungi, environment, methods]
-sources: []
+sources:
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Mycoremediation Techniques
@@ -47,8 +49,8 @@ Mycofiltration uses mycelial mats or fungal networks to filter contaminated wate
 
 - Pleurotus ostreatus (oyster mushroom): Broad-spectrum degradation of organic pollutants, particularly effective against petroleum hydrocarbons
 - Stropharia rugosoannulata (wine-cap stropharia): Excellent for filtering bacteria (E. coli) from water
-- Trametes versicolor (turkey tail): Effective against a wide range of organic pollutants and dyes
-- Ganoderma lucidum (reishi): Heavy metal biosorption
+- [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] (turkey tail): Effective against a wide range of organic pollutants and dyes
+- [[stamets-reishi-ganoderma-lucidum-cultivation]] (reishi): Heavy metal biosorption
 
 ### Design Considerations
 
@@ -105,7 +107,7 @@ Mycodegradation uses fungal enzymes to break down (degrade) complex organic cont
 
 #### Petroleum Hydrocarbons
 
-- PAHs (polycyclic aromatic hydrocarbons): A major class of petroleum-derived contaminants
+- PAHs ([[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons): A major class of petroleum-derived contaminants
 - BTEX (benzene, toluene, ethylbenzene, xylene): Common groundwater contaminants
 - Oil and fuel spills: Crude oil, diesel, gasoline, jet fuel
 - Oyster mushroom (Pleurotus) species are particularly effective
@@ -120,12 +122,12 @@ Mycodegradation uses fungal enzymes to break down (degrade) complex organic cont
 
 - TNT (trinitrotoluene): White-rot fungi can mineralize TNT
 - RDX, HMX: Military explosives degraded by several fungal species
-- Phanerochaete chrysosporium is extensively studied for explosive degradation
+- [[staycare-phanerochaete-chrysosporium-in-bioremediation]] is extensively studied for explosive degradation
 
 #### Dyes and Textile Chemicals
 
-- Synthetic dyes from textile industry wastewater
-- Laccase enzymes from white-rot fungi effectively decolorize dye wastewater
+- Synthetic dyes from [[staycare-fungal-treatment-of-textile-industry-wastewater]] wastewater
+- [[singh-fungal-laccase-enzymes-bioremediation]] from white-rot fungi effectively decolorize dye wastewater
 - Trametes versicolor and Phanerochaete are the most studied species
 
 #### Polychlorinated Biphenyls (PCBs)
@@ -137,61 +139,6 @@ Mycodegradation uses fungal enzymes to break down (degrade) complex organic cont
 #### Plastics
 
 - Emerging research area: Some fungi can degrade polyurethane, polyester, and other plastics
-- Pestalotiopsis microspora: Isolated from Amazonian rainforest, can degrade polyurethane
-- Aspergillus and other species show varying plastic degradation capabilities
-- Research is early-stage; not yet practical at scale
-
-## Spent Mushroom Substrate (SMS) Applications
-
-### What It Is
-
-Spent mushroom substrate is the residual material (compost, straw, sawdust) remaining after commercial mushroom cultivation. While not mycoremediation per se, SMS has remediation applications:
-
-### Applications
-
-- Bioremediation amendments: SMS contains active enzymes and microorganisms that can continue degrading contaminants
-- Soil amendment: Improves soil structure, water retention, and microbial diversity
-- Composting: SMS can be composted further and applied to degraded soils
-- Heavy metal stabilization: SMS can immobilize metals in soil, reducing bioavailability
-- Oil spill cleanup: SMS has been used successfully to absorb and biodegrade oil in field applications
-
-## Field Applications
-
-### Staged Remediation Process
-
-A typical mycoremediation project follows these stages:
-
-1. Site assessment: Characterize contaminants, soil conditions, hydrology, and extent of contamination
-2. Contaminant analysis: Laboratory testing of soil, water, and substrate samples
-3. Species selection: Choose fungal species matched to target contaminants and site conditions
-4. Inoculum preparation: Grow spawn or mycelial inoculum of selected species
-5. Substrate preparation: Prepare appropriate growing medium (wood chips, straw, sawdust)
-6. Inoculation and colonization: Introduce spawn to substrate, allow full colonization (2-8 weeks)
-7. Deployment: Install colonized substrate at contaminated site (berms, mats, buried inoculated substrate)
-8. Monitoring: Regular testing of contaminant levels, fungal health, and environmental conditions
-9. Maintenance: Watering, substrate replacement, additional inoculation as needed
-10. Closure: Verify contaminant reduction meets targets; remove and properly dispose of accumulated biomass
-
-### Case Studies
-
-- Washington State oil spill: Oyster mushroom mycelium reduced petroleum hydrocarbons by >90% (Battelle Lab / Paul Stamets)
-- Pacific Northwest stormwater: Mycofiltration reduced bacterial contamination and nutrients in agricultural runoff
-- Denver highway runoff: Mycofiltration berm reduced petroleum hydrocarbons
-- Ecuador Amazon: Oyster mushrooms deployed on petroleum-contaminated soil
-
-### Challenges
-
-Scalability (mostly small/medium scale), regulatory hurdles (not widely accepted as proven tech), long timelines (months to years), monitoring requirements, contaminant specificity, competition from native soil organisms, seasonal cold limitations, and public perception gaps.
-
-## Combining Techniques
-
-The most effective approaches combine multiple remediation strategies:
-
-- Mycoremediation + phytoremediation: Fungi and plants working together (mycorrhizal partnerships)
-- Mycoremediation + constructed wetlands: Fungal filtration combined with plant-based treatment
-- Mycoremediation + bioaugmentation: Adding specific bacteria alongside fungi for synergistic degradation
-- Mycoremediation + physical methods: Combining fungal treatment with traditional excavation or containment
-
 ## See Also
 
 - mycoremediation techniques — this page

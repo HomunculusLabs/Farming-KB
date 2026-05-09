@@ -19,13 +19,13 @@ type: concept
 
 # Fukuoka's Philosophy of Non-Causality in Nature
 
-At the core of Fukuoka's critique of modern science lies a radical epistemological claim: **cause and effect do not exist in nature**. This principle of non-causality holds that the apparent causal chains identified by scientific inquiry are artifacts of human perception — projections of discriminating knowledge onto an organic whole that operates beyond linear logic. While this may seem like an abstract philosophical position, Fukuoka derived it from decades of concrete agricultural experience and used it as a practical guide for farming.
+At the core of Fukuoka's [[fukuoka-road-critique-of-modern-science]] science lies a radical epistemological claim: **cause and effect do not exist in nature**. This principle of non-causality holds that the apparent causal chains identified by scientific inquiry are artifacts of human perception — projections of [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] onto an organic whole that operates beyond linear logic. While this may seem like an abstract philosophical position, Fukuoka derived it from decades of concrete agricultural experience and used it as a practical guide for farming.
 
 ## The Infinite Regression of Causes
 
 Fukuoka demonstrated the infinite regression problem with the example of rice blast disease. The conventional scientific explanation identifies the rice blast bacterium as the cause and recommends pesticide application. But the bacterium's attack may have been facilitated by excess nitrogenous fertilizer. The excess nitrogen may have remained unassimilated because cloudy weather reduced photosynthesis. The reduced photosynthesis may have resulted from dense planting that shaded individual plants. Dense planting was adopted to maximize yield per unit area. Yield maximization was driven by economic policy.
 
-Each cause is itself the effect of a prior cause, and the chain extends without end. Behind each identifiable cause lie basic causes, remote causes, contributing factors, and predisposing factors. These interweave in patterns so complex that identifying the "true cause" becomes impossible. Science addresses this complexity by arbitrarily truncating the chain at whatever point is most convenient for intervention — typically the immediate, visible symptom.
+Each cause is itself the effect of a prior cause, and the chain extends without end. Behind each identifiable cause lie basic causes, remote causes, [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]], and predisposing factors. These interweave in patterns so complex that identifying the "true cause" becomes impossible. Science addresses this complexity by arbitrarily truncating the chain at whatever point is most convenient for intervention — typically the immediate, visible symptom.
 
 When man sees a brown spot on a leaf, he calls it abnormal. If he finds an unusual bacterium on that spot, he calls the plant diseased. His confident solution is to kill the pathogen with pesticides. But he has not really solved the problem. Without a grasp of the true cause, his solution cannot be a real solution.
 
@@ -93,7 +93,7 @@ This is not passivity in the sense of neglect. Fukuoka's method requires careful
 
 ## The Scientist's Dilemma
 
-Fukuoka did not merely criticize scientists from outside their framework. He argued that science itself contains the seeds of its own irrelevance to farming. "When a decision is made to increase the production of rice within a given prefecture," he noted, the first thing considered is whether there are enough reservoirs and rivers in the area. Then a research plan is developed: seeding techniques, fertilizer application, pest control. "The project might be batted about for five years and the farmers end up the victims."
+Fukuoka did not merely criticize scientists from outside their framework. He argued that science itself contains the seeds of its own irrelevance to farming. "When a decision is made to increase the production of rice within a given prefecture," he noted, the first thing considered is whether there are enough reservoirs and rivers in the area. Then a research plan is developed: seeding techniques, [[cervantes-fertilizer-application-strain-feeding]], pest control. "The project might be batted about for five years and the farmers end up the victims."
 
 This cycle of research, planning, and implementation proceeds without ever questioning whether increasing rice production is the right goal, whether rice should be grown in that area at all, or whether nature is already providing everything that is needed. The scientific method, applied to agriculture, systematically excludes the questions that matter most.
 
@@ -119,7 +119,7 @@ The antidote, in Fukuoka's framework, is not anti-intellectualism but a kind of 
 
 Fukuoka's non-causal philosophy resonates with several other intellectual traditions. The Taoist concept of wu wei (non-action or effortless action) closely parallels his "do-nothing farming." Lao Tzu's observation that "the Tao does nothing, yet nothing is left undone" could serve as a motto for natural farming.
 
-In Western philosophy, Fukuoka's critique of scientific reductionism echoes the arguments of Goethe, who insisted that understanding requires an intuitive apprehension of the whole rather than analytical dissection of parts. Goethe's scientific method — careful observation without premature theorizing — closely resembles Fukuoka's practice of watching a field for three years before touching it.
+In [[fukuoka-descartes-western-philosophy-nature]], Fukuoka's [[fukuoka-critique-of-scientific-agriculture]] reductionism echoes the arguments of Goethe, who insisted that understanding requires an intuitive apprehension of the whole rather than analytical dissection of parts. Goethe's scientific method — careful observation without premature theorizing — closely resembles Fukuoka's practice of watching a field for three years before touching it.
 
 More recently, systems thinking and complexity theory have arrived at conclusions similar to Fukuoka's through very different paths. The recognition that complex systems exhibit emergent properties that cannot be predicted from their components, and that interventions in such systems often produce counterintuitive results, validates Fukuoka's insistence that nature cannot be improved by targeting individual variables.
 

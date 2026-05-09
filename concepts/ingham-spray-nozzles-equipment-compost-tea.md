@@ -1,5 +1,5 @@
 ---
-title: Spray Nozzles and Equipment for Compost Tea Application
+title: ingham spray nozzles equipment compost tea and Equipment for Compost compost-tea-application-methods
 created: 2026-04-28
 tags: [spray-equipment, nozzles, compost-tea, foliar-application, sprayers]
 date: 2026-04-28
@@ -16,19 +16,19 @@ Getting compost tea organisms through spray equipment and onto leaf
 surfaces alive and active is the primary challenge of foliar
 application. The equipment must not damage the organisms during
 passage through pumps and nozzles, and the organisms must survive
-impact on the leaf surface. Understanding the factors that affect
+impact on the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]. Understanding the factors that affect
 organism survival through equipment is essential for successful
 compost tea programs.
 
 ## Nozzle Opening Size Requirements
 
 Nozzle diameter must be greater than 200 micrometers to allow
-fungal colonies to pass through. The largest beneficial nematodes
+fungal colonies to pass through. The largest [[ingham-beneficial-nematodes-soil-food-web]]
 are about 25 micrometers in width and 150 micrometers in length.
 Fungal structures can reach 100 micrometers. A minimum of 200
 micrometers is needed, but 300 to 400 micrometers is preferred
 because 200 micrometer openings tend to get clogged with fine
-organic matter, which then filters out the fungi along with the
+[[hamilton-composting-and-organic-matter-management]], which then filters out the fungi along with the
 debris.
 
 ## Mesh and Filter Size

@@ -1,11 +1,11 @@
 ---
-title: "What Is Vapor Pressure Deficit and Why Does It Matter for Cannabis?"
+title: "What Is cervantes-vapor-pressure-deficit-transpiration Deficit and Why Does It Matter for Cannabis?"
 created: 2026-04-28
 tags: [query, cannabis, vpd, humidity, environment, transpiration]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 type: query
 ---
 
@@ -17,13 +17,13 @@ Vapor pressure deficit (VPD) is a measurement expressing the difference between
 the moisture currently in the air and the maximum moisture the air could hold
 when fully saturated at a given temperature. For cannabis growers, VPD is the
 single most useful metric for optimizing plant transpiration, nutrient uptake,
-and overall growth by balancing temperature and humidity together as one unified
+and overall growth by balancing [[greg-green-temperature-and-humidity-control]] together as one unified
 measurement rather than managing them as separate independent variables.
 
 ## Detailed Explanation
 
 Vapor pressure deficit is expressed in units of pressure, typically kilopascals
-(kPa) in most cannabis growing references and guides. It represents the drying
+(kPa) in most [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]] references and guides. It represents the drying
 power of the air surrounding your plants at any given moment. When VPD is low,
 the air is nearly saturated with moisture and plants struggle to transpire
 effectively. When VPD is high, the air is very dry and plants transpire
@@ -51,14 +51,14 @@ range, stomata remain open and transpiration proceeds at a healthy rate.
 Low VPD conditions, typically below 0.4 kPa, mean the air is too humid for
 efficient transpiration. The gradient between leaf interior and room air is too
 small to drive effective water movement. Plants cannot cool themselves and may
-develop drooping leaves despite adequate soil moisture. Nutrient deficiency
+develop drooping leaves despite adequate soil moisture. [[cannabis-grow-nutrient-deficiency-problem-solving]]
 symptoms can appear in upper leaves even when your solution is properly
 balanced because the plant cannot transport nutrients upward effectively.
 
 High VPD conditions, typically above 1.5 kPa, mean the air is excessively dry
 and pulls moisture from leaves too aggressively. Plants respond by closing
 their stomata to conserve water, but this also stops transpiration and halts
-nutrient transport entirely. This creates a paradoxical situation where the
+[[mycelial-network-nutrient-transport-imaging-gadd]] entirely. This creates a paradoxical situation where the
 plant shows signs of both underwatering and nutrient deficiency simultaneously.
 Increasing nutrients only worsens the problem by adding more salt stress.
 
@@ -80,7 +80,7 @@ directly for calculations that reflect the plant's actual experience. A well-
 designed [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]] explains how low VPD
 conditions promote [[query-how-to-prevent-and-treat-powdery-mildew-on-cannabis]].
 
-For comprehensive environmental control, the [[cannabis-indoor-ventilation-setup]] with both
+For comprehensive [[eclss-environmental-control-life-support]], the [[cannabis-indoor-ventilation-setup]] with both
   humidification and dehumidification enables precise VPD control
 
 ## Related

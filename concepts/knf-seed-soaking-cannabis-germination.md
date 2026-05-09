@@ -27,9 +27,9 @@ of water:
 
 - **100 mL water** (non-chlorinated, ideally filtered or spring water)
 - **1 drop of BRV or ARV** (Brown Rice Vinegar or Apple Rice Vinegar)
-- **1 drop of FPJ** (Fermented Plant Juice)
+- **1 drop of FPJ** ([[bionutrients-lab-fermented-plant-juice-fpj]])
 - **1 drop of OHN** (Oriental Herbal Nutrient)
-- **1 drop of WSC** (Water Soluble Calcium)
+- **1 drop of WSC** (Water [[cho-water-soluble-calcium-and-potassium]])
 
 The solution is mixed in a small container, and cannabis seeds are added
 directly. The seeds soak for 24 hours in the solution before being
@@ -42,7 +42,7 @@ removed and placed into a clean, moist paper towel for germination.
 The vinegar serves as both a carrier and an acid reducer. BRV and ARV
 contain acetic acid and organic acids from rice fermentation that
 slightly lower the soak pH, improving seed coat permeability and water
-uptake. The organic acids have mild antimicrobial properties that
+uptake. The organic acids have mild [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] that
 suppress pathogens on the seed surface without harming beneficial
 microbes. As a carrier, vinegar solubilizes and distributes the other
 inputs evenly throughout the solution.
@@ -55,7 +55,7 @@ fermentation can begin breaking down stored carbohydrates and proteins
 in the seed, priming metabolic machinery for germination. The
 microorganisms colonize the seed coat, establishing a protective biofilm
 that outcompetes pathogens during the vulnerable germination period.
-When FPJ is made from dynamic accumulator plants such as comfrey, nettle,
+When FPJ is made from [[nutrient-dynamic-accumulator-reference]] plants such as comfrey, nettle,
 or dandelion, it also introduces trace minerals for early seedling
 development.
 
@@ -75,7 +75,7 @@ during initial radicle emergence.
 Calcium is essential for cell wall construction, cell membrane integrity,
 and the signaling pathways that trigger germination. WSC provides
 immediately bioavailable calcium for the emerging seedling from its
-first moments of growth. Calcium deficiency during germination can
+first moments of growth. [[knf-calcium-deficiency-symptoms]] during germination can
 result in weak, elongated hypocotyls susceptible to damping-off
 diseases. By including WSC in the soak, the grower ensures calcium is
 present at the earliest stage, supporting strong cellular structure
@@ -105,7 +105,7 @@ include:
 - **Pathogen suppression**: Beneficial microorganisms from FPJ and
   antimicrobial compounds from OHN protect seeds during the vulnerable
   germination period
-- **Enhanced nutrient availability**: WSC provides bioavailable calcium
+- **Enhanced [[ph-and-nutrient-availability-garden-soils]]**: WSC provides bioavailable calcium
   for immediate cell wall construction
 - **Metabolic priming**: Enzymes from FPJ begin activating the seed's
   stored reserves before germination, potentially reducing the time to

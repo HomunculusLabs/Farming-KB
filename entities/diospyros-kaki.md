@@ -1,5 +1,5 @@
 ---
-title: "Diospyros kaki"
+title: "permplant-persimmon-diospyros-kaki-fruit-tree"
 type: species
 tags:
   - ebenaceae
@@ -54,13 +54,13 @@ Persimmon trees are relatively pest-free compared to other fruit crops, though s
 
 ## Cultivation
 
-Japanese persimmons are typically propagated by grafting scions onto Diospyros lotus (date plum) rootstock, which provides good compatibility and cold hardiness. Budding and chip grafting are the preferred propagation methods.
+Japanese persimmons are typically propagated by grafting scions onto Diospyros lotus (date plum) rootstock, which provides good compatibility and [[coleman-cold-hardiness-testing-ratings]]. Budding and chip grafting are the preferred [[vegetative-propagation-methods-mollison]].
 
 Trees begin bearing fruit 3–5 years after grafting, with commercial yields of 20–50 kg per tree at maturity. Planting densities range from 200 to 400 trees per hectare in commercial orchards.
 
 Pruning focuses on maintaining an open center or modified central leader form to maximize light penetration. Fruit thinning is essential for non-astringent cultivars to prevent alternate bearing and ensure adequate fruit size.
 
-Harvest timing depends on cultivar type: astringent varieties are picked when fully colored but still firm and require post-harvest ripening, while non-astringent varieties can be eaten directly from the tree when colored.
+[[cannabis-harvest-timing-visual-cues]] depends on cultivar type: astringent varieties are picked when fully colored but still firm and require post-harvest ripening, while non-astringent varieties can be eaten directly from the tree when colored.
 
 Astringent cultivars can be de-astringented by exposure to carbon dioxide gas in airtight chambers, freezing and thawing, or treatment with ethanol vapor. These methods accelerate tannin polymerization, converting soluble astringent tannins into non-astringent insoluble complexes.
 
@@ -68,7 +68,7 @@ Astringent cultivars can be de-astringented by exposure to carbon dioxide gas in
 
 Persimmons are rich in tannins, particularly proanthocyanidins and condensed tannins that accumulate in unripe fruit. These water-soluble tannins bind to salivary proteins, producing the characteristic astringent sensation.
 
-The primary bioactive compounds include betulinic acid, ursolic acid, and various carotenoids (β-cryptoxanthin, β-carotene, lycopene, and lutein). These compounds contribute antioxidant, anti-inflammatory, and potential anti-cancer activities.
+The primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include betulinic acid, ursolic acid, and various carotenoids (β-cryptoxanthin, β-carotene, lycopene, and lutein). These compounds contribute antioxidant, anti-inflammatory, and potential anti-cancer activities.
 
 Fresh persimmon provides approximately 70 kcal per 100 g, with 18 g of carbohydrates (primarily glucose and fructose) and significant vitamin C (7.5 mg). Potassium content is 161 mg per 100 g, with additional manganese, copper, and vitamin A.
 
@@ -84,7 +84,7 @@ Persimmon cultivation in China dates back to the Han Dynasty (206 BCE–220 CE),
 
 In Japan, dried persimmons (hoshigaki) are a traditional winter delicacy, produced by air-drying peeled fruit over 4–6 weeks. The natural crystallization of sugars on the surface creates a distinctive white frost prized in Japanese confectionery.
 
-The species was introduced to the United States by Commodore Matthew Perry's expedition in 1855 and subsequently to southern Europe. Italian, Spanish, and Israeli growers have developed significant persimmon industries serving European markets.
+The species was introduced to the [[dmt-containing-plants-united-states-halpern]] by Commodore Matthew Perry's expedition in 1855 and subsequently to southern Europe. Italian, Spanish, and Israeli growers have developed significant persimmon industries serving European markets.
 
 In Korean culture, dried persimmon (gotgam) is traditionally stuffed with walnuts and served as a seasonal delicacy during the Lunar New Year. In Brazil, persimmon cultivation has expanded rapidly since the 1990s, with the country now ranking among the top five global producers.
 

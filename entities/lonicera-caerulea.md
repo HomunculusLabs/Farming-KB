@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Hummer, K.E. (2012). "Haskap: A New Berry Crop for North America."
+  - Hummer, K.E. (2012). "Haskap: A New Berry Crop for psilocybin-north-america-pacific-northwest."
     Acta Horticulturae 926: 3-8.
   - Thompson, M.M. et al. (2009). "Haskap: Blue Honeysuckle (Lonicera
     caerulea)." HortScience 44(2): 336-337.
@@ -41,7 +41,7 @@ contexts.
 
 Recognized subspecies include subsp. *caerulea* (European), subsp. *edulis*
 (Japanese haskap), subsp. *kamtschatica* (Kuril/Kamchatka), and subsp.
-*villosa* (North American). Common names vary: haskap (Japan), honeyberry
+*villosa* ([[growing-gourmet-north-american-reishi-species]]). Common names vary: haskap (Japan), honeyberry
 (commercial), blue honeysuckle, sweetberry honeysuckle.
 
 ## Morphology
@@ -100,20 +100,20 @@ by year 5. Commercial yields: 5–15 t/ha.
 
 Annual pruning removes canes 3+ years old; shrub fruits on one-year-old wood.
 
-**Major pests:** Powdery mildew, Botrytis fruit rot, birds (netting essential),
+**Major pests:** [[cervantes-powdery-mildew-prevention-treatment]], Botrytis fruit rot, birds (netting essential),
 spotted wing drosophila (emerging concern).
 
 ## Permaculture Applications
 
 - **Early food source** in spring food forests
 - **Wildlife habitat** — dense shrub provides nesting cover
-- **Erosion control** on slopes via fibrous root system
+- **[[permplant-willows-salix-erosion-control-fodder]]** on slopes via fibrous root system
 - **Pollinator support** — early nectar for emerging bees
 - **Understory crop** — performs in partial shade beneath taller trees
-- **Efficient nutrient cycling** from subsoil layers
+- **Efficient [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]** from subsoil layers
 
 Pairs well with seaberry, gooseberry, and nitrogen-fixing understory shrubs
-in food forest design.
+in food [[comparison-food-forest-design-vs-backyard-orchard-design]].
 
 ## Notable Cultivars
 
@@ -131,7 +131,9 @@ widely grown commercial cultivars.
 
 ## See Also
 
+- [[molinia-caerulea]]
+
 - [[vaccinium-myrtillus]]
 - [[ribes-nigrum]]
-- [[permaculture]]
+- permaculture
 - [[food-forest-permaculture]]

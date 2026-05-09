@@ -21,11 +21,11 @@ sources:
 
 ## Overview
 
-**Cucurbita pepo** L. is an annual herbaceous vine in the family Cucurbitaceae, native to North America. It is one of the most polymorphic plant species known, encompassing a remarkable range of cultivated forms including pumpkins, summer squashes (zucchini, crookneck, scallop), winter squashes (acorn, delicata, spaghetti squash), and ornamental gourds.
+**Cucurbita pepo** L. is an annual herbaceous vine in the family Cucurbitaceae, native to [[psilocybin-north-america-pacific-northwest]]. It is one of the most polymorphic plant species known, encompassing a remarkable range of cultivated forms including pumpkins, summer squashes (zucchini, crookneck, scallop), winter squashes (acorn, delicata, spaghetti squash), and ornamental gourds.
 
 The species was domesticated approximately 8,000–10,000 years ago in what is now Mexico.
 
-It is one of the foundational crops of Mesoamerican agriculture. Along with maize (*Zea mays*) and beans (*Phaseolus vulgaris*), it forms the **Three Sisters** companion planting system that sustained Indigenous North American civilizations for millennia.
+It is one of the foundational crops of Mesoamerican agriculture. Along with maize (*Zea mays*) and beans (*Phaseolus vulgaris*), it forms the **Three Sisters** [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] system that sustained Indigenous [[growing-gourmet-north-american-reishi-species]] civilizations for millennia.
 
 ## Taxonomy and Cultivar Groups
 
@@ -90,7 +90,7 @@ The preparation is taken on an empty stomach, followed by a laxative to expel pa
 
 ## Permaculture and Companion Planting
 
-*Cucurbita pepo* occupies the ground-cover layer in permaculture guild plantings. Its broad leaves suppress weeds, retain soil moisture, and create a living mulch. In the Three Sisters system, squash vines shade the soil around maize and bean roots, reducing weed competition and evaporation.
+*Cucurbita pepo* occupies the ground-cover layer in [[query-what-is-a-permaculture-guild-and-how-do-i-design-one]] plantings. Its broad leaves suppress weeds, retain soil moisture, and create a living mulch. In the Three Sisters system, squash vines shade the soil around maize and bean roots, reducing weed competition and evaporation.
 
 Companion planting with **radishes and nasturtiums** deters cucumber beetles and squash bugs.
 
@@ -98,7 +98,7 @@ Marigolds planted nearby repel nematodes in the root zone. The plant's growth ha
 
 The species is a heavy feeder — it benefits from compost-rich soils and nitrogen-fixing companion plants.
 
-In no-till systems, pumpkins can be direct-seeded into killed cover crop residues. Spent vines and fruit residues contribute significant organic matter to the soil.
+In no-till systems, pumpkins can be direct-seeded into killed cover crop residues. Spent vines and fruit residues contribute significant [[hamilton-composting-and-organic-matter-management]] to the soil.
 
 ## Cultivation
 
@@ -110,9 +110,11 @@ Yields range from 10–40 tonnes per hectare depending on cultivar and growing c
 
 Major global producers include China, India, Russia, the United States, and Mexico.
 
-The species is susceptible to squash vine borer (*Melittia cucurbitae*), powdery mildew (*Podosphaera xanthii*), and cucumber mosaic virus.
+The species is susceptible to squash vine borer (*Melittia cucurbitae*), [[cervantes-powdery-mildew-prevention-treatment]] (*Podosphaera xanthii*), and cucumber mosaic virus.
 
 ## See Also
+
+- [[cucurbita-maxima]]
 
 - [[colocasia-esculenta]]
 - [[cajanus-cajan]]

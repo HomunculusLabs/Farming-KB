@@ -1,5 +1,5 @@
 ---
-title: Ingham — AACT Brewing Techniques
+title: Ingham — ingham-aact-brewing-equipment-reliability-machine-testing-standards Techniques
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Ingham — AACT Brewing Techniques
 
-Elaine Ingham's approach to Actively Aerated Compost Tea (AACT) brewing emphasizes precise control of aeration, food resources, compost quality, and brew duration. The goal is to extract and multiply beneficial organisms from compost while maintaining strictly aerobic conditions throughout the process.
+Elaine Ingham's approach to Actively [[actively-aerated-compost-tea-aact-brewing]] Tea (AACT) brewing emphasizes precise control of aeration, food resources, [[aact-compost-quality-standards-ingham]], and brew duration. The goal is to extract and multiply beneficial organisms from compost while maintaining strictly aerobic conditions throughout the process.
 
 ## Core Brewing Principles
 
@@ -17,7 +17,7 @@ AACT brewing is analogous to making milk or baking a cake — every step in the 
 
 ## Biofilm Management
 
-A critical but often overlooked aspect of brewing is biofilm accumulation on tank surfaces. Anaerobic and facultative anaerobic organisms exist dormant in compost. When organisms attach to tank surfaces, layer upon layer builds until oxygen can no longer diffuse into the lower biofilm layers. Dormant anaerobes in those layers then activate, producing harmful metabolites.
+A critical but often overlooked aspect of brewing is biofilm accumulation on tank surfaces. Anaerobic and facultative [[ingham-anaerobic-organisms-role-soil]] exist dormant in compost. When organisms attach to tank surfaces, layer upon layer builds until oxygen can no longer diffuse into the lower biofilm layers. Dormant anaerobes in those layers then activate, producing harmful metabolites.
 
 - Flat-bottom tanks are problematic because 90-degree corners are difficult to clean and poorly aerated
 - Non-removable lids accumulate biofilm on the underside from foam and splash
@@ -47,7 +47,7 @@ Machines requiring dramatically more compost (e.g., 100 lbs for 100 gallons) are
 
 ## Removing Compost Mid-Brew
 
-Taking the compost out halfway through the brew helps maintain aerobic conditions. The organisms growing in the compost mass are difficult to aerate effectively, and removing the compost reduces oxygen demand while preserving fungal biomass that might otherwise be lost if the tea goes anaerobic.
+Taking the compost out halfway through the brew helps maintain aerobic conditions. The organisms growing in the compost mass are difficult to aerate effectively, and removing the compost reduces oxygen demand while preserving [[bioremediation-fungal-biomass-biosorbent-material]] that might otherwise be lost if the tea goes anaerobic.
 
 ## Food Resource Addition
 
@@ -56,7 +56,7 @@ Food is added to grow the organisms extracted from compost, not to substitute fo
 - Some machines (e.g., Growing Solutions) should not use molasses at all — they grow E. coli
 - Kelp provides both surface area for fungi and micronutrients for plants
 - Fish hydrolysate provides fungal food and protein
-- Humic acids are the most selective fungal food
+- Humic acids are the most [[ethanol-pasteurization-selective-fungal-isolation]] food
 - Diversity of food sources produces diversity of organisms
 
 ## Quality Testing

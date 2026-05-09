@@ -37,12 +37,12 @@ species and managing light competition:
    coffee, cacao, currants, and nitrogen-fixing shrubs occupy this layer.
 
 4. **Herbaceous layer**: Non-woody perennials and self-seeding annuals.
-   Includes culinary herbs, medicinal plants, comfrey, and perennial
+   Includes [[holzer-medicinal-and-culinary-herbs-compendium]], medicinal plants, comfrey, and perennial
    vegetables.
 
 5. **Ground cover layer**: Low-growing plants that form a living mulch,
    suppressing weeds, retaining moisture, and protecting soil from erosion.
-   Strawberries, clovers, and sweet potato serve this function.
+   Strawberries, clovers, and [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]] serve this function.
 
 6. **Root layer**: Edible tubers, bulbs, and root crops that occupy
    different soil depths. This layer is often overlooked but adds
@@ -87,9 +87,9 @@ Deep-rooted trees such as oak, walnut, and comfrey mine minerals and water
 from depths of 2 metres or more. Shallow-rooted species such as berries and
 herbaceous perennials occupy the top 30 to 60 centimetres. Nitrogen-fixing
 species with their associated rhizobial bacteria access nitrogen from air
-and share it through [[mollison-designers-windbreak-design-species]], livestock grazing, and Mollison Designers  Aquaculture. Poultry can be run through the understory to control pests
-and cycle nutrients. Swales and earthworks can be incorporated to manage
-water distribution across the sloping land typical of forest gardens.
+and share it through mollison-designers-windbreak-design-species, [[savory-livestock-grazing-planning]], and Mollison Designers  Aquaculture. Poultry can be run through the understory to [[query-how-to-control-pests-without-chemicals]]
+and cycle nutrients. [[mollison-course-swales-and-earthworks-design]] can be incorporated to manage
+water distribution across the sloping land typical of [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]].
 
 The key principle is that every element in a multi-strata design should
 perform multiple functions and be connected to multiple other elements.
@@ -101,3 +101,6 @@ forest from a simple collection of trees.
 ## See Also
 
 - [[mollison-designers-forest-garden-layer-canopy-understory]]
+- [[forest-gardens]]
+- [[bill-mollison]]
+- [[mollison-designers-food-forest-succession-design]]

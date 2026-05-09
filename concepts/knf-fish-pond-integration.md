@@ -1,5 +1,5 @@
 ---
-title: "KNF Natural Farming Fish Pond Integration"
+title: "KNF comparison-natural-farming-vs-permaculture Fish Pond Integration"
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-Korean Natural Farming extends its principles of natural biological management to aquaculture. Fish farming in the KNF system uses [[lactic-acid-bacteria-knf]], and other natural inputs to maintain water quality and fish health without chemicals or antibiotics. The fish pond becomes an integrated part of the farm ecosystem, connected to crop production and livestock through nutrient cycling.
+[[query-jadam-vs-korean-natural-farming]] Farming extends its [[four-principles-of-natural-farming]] biological management to aquaculture. Fish farming in the KNF system uses [[lactic-acid-bacteria-knf]], and other natural inputs to maintain water quality and fish health without chemicals or antibiotics. The fish pond becomes an integrated part of the farm ecosystem, connected to crop production and livestock through [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 ## Philosophy
 
@@ -30,7 +30,7 @@ The key to natural fish farming is maintaining water quality through biological 
 
 ### LAB for Water Treatment
 
-[[knf-indigenous-microorganism-culture]] can be added to establish a natural microbial community:
+[[knf-indigenous-microorganism-culture]] can be added to establish a natural [[edaphic-factors-microbial-community-structure]]:
 
 - IMO-4 added to the pond bottom or water introduces diverse beneficial microorganisms
 - These microbes form the base of the pond food chain
@@ -62,7 +62,7 @@ The fish pond in KNF is not an isolated system but integrated with the rest of t
 - Nutrient-rich pond water can be used to irrigate crops
 - The water contains nitrogen, phosphorus, potassium, and trace minerals from fish waste
 - LAB-treated pond water is particularly beneficial for soil biology
-- This creates a nutrient cycle: crops feed livestock, livestock waste feeds fish, fish water fertilizes crops
+- This creates a nutrient cycle: crops feed livestock, [[cotter-pet-livestock-waste-fungal-remediation-systems]] feeds fish, fish water fertilizes crops
 
 ### Duck-Fish Integration
 

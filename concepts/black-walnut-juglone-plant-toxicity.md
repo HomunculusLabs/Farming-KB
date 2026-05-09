@@ -1,5 +1,5 @@
 ---
-title: Black Walnut Juglone Plant Toxicity
+title: Black black walnut juglone plant toxicity Plant Toxicity
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -69,7 +69,7 @@ the most affected.
 ## Juglone-Tolerant Plants
 
 Several vegetables and ornamentals can be grown near black walnut trees
-without significant adverse effects. These include:
+without significant [[blesching-cannabis-safety-adverse-effects-evidence]]. These include:
 
 Beans (lima and snap), beets, carrots, corn, melons, onions, parsnips,
 radishes, squash, and sweet potatoes have shown good tolerance. Cherry
@@ -77,5 +77,5 @@ trees, black raspberry, and quince are among the tolerant fruit species.
 See [[permaculture-walnut-guide]] and [[conium-maculatus]]
 
 - [[home-vegetable-garden-planning]]
-- [[permaculture-designers-manual-plant-toxins-dryland]]
+- permaculture-designers-manual-plant-toxins-dryland
 - [[plant-defense-mechanisms]]

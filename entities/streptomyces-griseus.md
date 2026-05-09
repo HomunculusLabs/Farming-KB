@@ -16,18 +16,18 @@ sources: [/Users/t3rpz/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes
 
 *Streptomyces griseus* has a complex life cycle that is characteristic of the genus *Streptomyces*. The organism begins as a spore that germinates to produce branching hyphae (substrate mycelium) that penetrate and colonize the growth substrate. As the colony matures, aerial hyphae emerge from the substrate surface and undergo differentiation into chains of spores (conidia or arthrospores) that are dispersed by wind, water, and animal activity.
 
-The colony morphology of *S. griseus* on solid media is distinctive: the substrate mycelium is embedded in the agar and may be yellowish to brownish, while the aerial mycelium forms a dense, powdery to velvety layer of spores on the colony surface. The spore mass is typically gray (the species name *griseus* means "gray" in Latin), though color can vary with growth conditions. The organism produces a characteristic earthy odor (geosmin), a volatile compound that gives soil its distinctive smell after rain.
+The colony morphology of *S. griseus* on solid media is distinctive: the substrate mycelium is embedded in the agar and may be yellowish to brownish, while the aerial mycelium forms a dense, powdery to velvety layer of spores on the colony surface. The spore mass is typically gray (the species name *griseus* means "gray" in Latin), though color can vary with growth conditions. The organism produces a characteristic earthy odor (geosmin), a [[fungal-btex-volatile-compound-degradation]] that gives soil its distinctive smell after rain.
 
 Microscopically, *S. griseus* produces long, straight to flexuous chains of cylindrical to barrel-shaped spores (10–50 or more spores per chain). The spore surface may be smooth, warty, or spiny depending on the strain and growth conditions. The cell wall of *Streptomyces* contains meso-diaminopimelic acid and lacks arabinose, which distinguishes the genus from other actinomycete groups.
 
 ## Natural Habitat and Ecology
 
-*Streptomyces* species are among the most abundant and ecologically important bacteria in soil, typically accounting for 1–20% of the total soil microbial community. *S. griseus* is widely distributed in soils worldwide, with highest populations in neutral to slightly alkaline soils rich in organic matter. The organism is particularly abundant in forest soils, grassland soils, and agricultural soils with high organic content.
+*Streptomyces* species are among the most abundant and ecologically important bacteria in soil, typically accounting for 1–20% of the total soil [[edaphic-factors-microbial-community-structure]]. *S. griseus* is widely distributed in soils worldwide, with highest populations in neutral to slightly alkaline soils rich in organic matter. The organism is particularly abundant in forest soils, grassland soils, and agricultural soils with high organic content.
 
 In soil ecosystems, *S. griseus* plays several important ecological roles:
 
-- **Decomposition**: The organism produces a wide array of extracellular enzymes including cellulases, chitinases, proteases, lipases, amylases, and ligninases that decompose complex organic polymers in plant litter, animal remains, and other organic matter. This decomposition activity is central to carbon and nutrient cycling in terrestrial ecosystems.
-- **Antibiotic production**: In its natural soil habitat, *S. griseus* produces antibiotics (including streptomycin) as secondary metabolites that inhibit the growth of competing microorganisms. This antimicrobial activity gives *Streptomyces* a competitive advantage in the soil microbial community and contributes to the natural suppression of plant pathogens.
+- **Decomposition**: The organism produces a wide array of [[fungal-extracellular-enzymes]] including cellulases, chitinases, proteases, lipases, amylases, and ligninases that decompose complex organic polymers in plant litter, animal remains, and other organic matter. This decomposition activity is central to carbon and nutrient cycling in terrestrial ecosystems.
+- **Antibiotic production**: In its natural soil habitat, *S. griseus* produces antibiotics (including streptomycin) as [[antifungal-secondary-metabolites-coprophilous-fungi]] that inhibit the growth of competing microorganisms. This antimicrobial activity gives *Streptomyces* a competitive advantage in the soil microbial community and contributes to the natural suppression of plant pathogens.
 - **Siderophore production**: The organism produces siderophores (iron-chelating compounds) that scavenge iron from the soil environment, making it available for microbial and plant uptake while limiting iron availability to competing organisms.
 - **Plant growth promotion**: *S. griseus* produces indole-3-acetic acid (IAA) and other plant growth-promoting substances that can enhance root development and nutrient uptake in plants.
 
@@ -48,13 +48,13 @@ Beyond streptomycin, *Streptomyces griseus* produces a diverse array of bioactiv
 - **Antifungal compounds**: Including compounds with activity against plant pathogenic fungi, suggesting potential applications in crop protection.
 - **Enzymes**: *S. griseus* produces numerous extracellular enzymes with industrial applications, including proteases, cellulases, and chitinases.
 
-Genome sequencing has revealed that *Streptomyces* species possess 20–40 or more biosynthetic gene clusters for secondary metabolite production, many of which are silent or expressed only under specific environmental conditions. This "cryptic" biosynthetic potential is a major focus of current research, as activating these silent pathways could yield novel antibiotics and other bioactive compounds to address the growing crisis of antibiotic-resistant pathogens.
+Genome sequencing has revealed that *Streptomyces* species possess 20–40 or more biosynthetic gene clusters for secondary metabolite production, many of which are silent or expressed only under specific environmental conditions. This "cryptic" biosynthetic potential is a major focus of current research, as activating these silent pathways could yield novel antibiotics and other [[cordyceps-cancer-bioactive-compounds]] to address the growing crisis of antibiotic-resistant pathogens.
 
 ## Role in Agriculture
 
 *Streptomyces griseus* has been investigated as a biocontrol agent for plant diseases. The antibiotic and antifungal compounds it produces in soil can suppress plant pathogens, reducing the incidence of soilborne diseases. The organism has shown efficacy against *Fusarium* wilt, *Rhizoctonia* root rot, and various other plant diseases in controlled experiments and field trials.
 
-In sustainable agriculture, *S. griseus* is valued as a component of the beneficial soil microbiota that contributes to natural disease suppression. The organism's ability to decompose organic matter, fix atmospheric nitrogen (some strains), solubilize phosphate, and produce plant growth-promoting substances makes it a versatile contributor to soil health and plant productivity.
+In [[phosphate-accumulators-sustainable-agriculture]], *S. griseus* is valued as a component of the beneficial soil microbiota that contributes to natural disease suppression. The organism's ability to decompose organic matter, fix atmospheric nitrogen (some strains), solubilize phosphate, and produce plant growth-promoting substances makes it a versatile contributor to soil health and plant productivity.
 
 ## Genomics
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

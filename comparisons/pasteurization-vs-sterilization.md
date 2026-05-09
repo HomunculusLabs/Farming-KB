@@ -1,5 +1,5 @@
 ---
-title: Pasteurization vs Sterilization in Mushroom Cultivation
+title: stamets-cultivator-pasteurization-vs-sterilization-methods in accessible-mushroom-cultivation-for-disabilities
 created: 2026-04-17
 updated: 2026-04-17
 type: comparison
@@ -18,7 +18,7 @@ Agar media for petri dish and slant cultures.
 Sawdust/bran spawn for wood-inhabiting species like Lentinus edodes 
 (shiitake) and [[flammulina-velutipes]] (enoki).
 
-Liquid culture media.
+[[comparison-liquid-culture-vs-grain-spawn]] media.
 Supplemented substrates where added nutrients like bran or grain would 
 otherwise fuel explosive competitor growth.
 
@@ -28,7 +28,7 @@ supplements such as rice bran, wheat bran, or cottonseed meal are added to a
 bulk substrate, they become an ideal food source for competitor molds like 
 Trichoderma. Pasteurization alone cannot eliminate these contaminants when 
 abundant nutrients are available. Sterilization at 15 psi for 60-90 minutes 
-is required for supplemented sawdust blocks, grain jars, and enriched straw 
+is required for [[oyster-mushroom-supplemented-sawdust-blocks]] blocks, grain jars, and enriched straw 
 substrates.
 
 ## Temperature and Duration Parameters
@@ -58,13 +58,13 @@ costs, and the vulnerability of sterile substrates to rapid contamination
 upon exposure to unfiltered air.
 
 ## Practical Decision Framework
-The decision between pasteurization and sterilization can be guided by a 
+The decision between [[query-difference-between-pasteurization-and-sterilization-mushroom-growing]] can be guided by a 
 simple rule: if the substrate contains added nitrogen supplements, sterilize 
 it. If the substrate is a relatively simple, low-nutrition material like 
 straw or compost without supplements, pasteurization is sufficient and often 
 superior. For casing layers, pasteurization is preferred because the retained 
 microflora contribute to fruiting performance. For any material that will be 
-handled in open air without a laminar flow hood or glove box, pasteurization 
+handled in open air without a [[comparison-laminar-flow-hood-vs-fruiting-chamber]] hood or glove box, pasteurization 
 provides a more forgiving foundation.
 
 ## Equipment Considerations

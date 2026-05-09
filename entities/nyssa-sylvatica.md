@@ -11,22 +11,22 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America: Volume 2 — Hardwoods." USDA Forest Service.
-  - Sternberg, G. (2004). "Native Trees for North American Landscapes." Timber Press.
-  - Wiggans, R.D. (1964). "Nyssa sylvatica." In: Silvics of Forest Trees of the United States. USDA.
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2 — Hardwoods." USDA Forest Service.
+  - Sternberg, G. (2004). "Native Trees for [[growing-gourmet-north-american-reishi-species]] Landscapes." Timber Press.
+  - Wiggans, R.D. (1964). "Nyssa sylvatica." In: Silvics of Forest Trees of the [[dmt-containing-plants-united-states-halpern]]. USDA.
   - Little, E.L. (1979). "Checklist of United States Trees." USDA Forest Service Agricultural Handbook 541.
 ---
 
 ## Overview
 
 **Nyssa sylvatica**, commonly known as black tupelo, blackgum, or sour gum, is
-a medium-sized deciduous tree native to eastern North America. It ranges from
+a medium-sized deciduous tree native to [[polypore-fungi-eastern-north-america]] America. It ranges from
 southern Maine and Ontario to the Gulf Coast and west to eastern Texas and
 southern Michigan.
 
 The species is noted for its outstanding scarlet to crimson autumn color,
 often considered among the most reliable and vivid of any native tree. In
-the landscape trade it is increasingly valued as a shade tree and street tree
+the landscape trade it is increasingly valued as a [[mollison-designers-legume-shade-tree-pasture-systems]] and street tree
 due to its straight trunk, absence of significant pest problems, and tolerance
 of urban conditions.
 

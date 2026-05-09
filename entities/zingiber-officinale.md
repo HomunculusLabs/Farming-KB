@@ -48,7 +48,7 @@ The genus name *Zingiber* derives from the Sanskrit *śṛṅga-vera* (शृङ
 
 *Z. officinale* is a herbaceous perennial growing to approximately 0.6–1.2 m in height.
 
-**Rhizome:** The underground stem (rhizome) is the economically important part — thick, knobby, branched, pale yellow to brown externally, with a fibrous, pale yellow interior. Fresh ginger rhizomes are juicy and fleshy with a characteristic pungent aroma. The rhizome contains the plant's stored nutrients and bioactive compounds.
+**Rhizome:** The underground stem (rhizome) is the economically important part — thick, knobby, branched, pale yellow to brown externally, with a fibrous, pale yellow interior. Fresh ginger rhizomes are juicy and fleshy with a characteristic pungent aroma. The rhizome contains the plant's stored nutrients and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
 
 **Stems:** Pseudostem formed by overlapping leaf sheaths, erect, unbranched.
 
@@ -60,7 +60,7 @@ The genus name *Zingiber* derives from the Sanskrit *śṛṅga-vera* (शृङ
 
 ## Chemical Composition
 
-The rhizome contains two major classes of bioactive compounds:
+The rhizome contains two [[ascomycota-phylogeny-major-classes-lineages]] of bioactive compounds:
 
 ### Volatile Oils (1–3% of fresh weight)
 
@@ -93,7 +93,7 @@ Ginger exhibits potent antioxidant effects through direct free radical scavengin
 
 ### Metabolic Effects
 
-- **Anti-diabetic:** Reduces fasting blood glucose, HbA1c, and insulin resistance in clinical trials at 2–3 g/day
+- **Anti-diabetic:** Reduces fasting blood glucose, HbA1c, and insulin resistance in [[mushroom-cancer-clinical-trials-overview]] at 2–3 g/day
 - **Lipid-lowering:** Reduces serum triglycerides, LDL cholesterol, and total cholesterol
 - **Anti-obesity:** Promotes thermogenesis and fat oxidation via [6]-gingerol-enhanced norepinephrine-induced lipolysis
 - **Antiplatelet:** Inhibits platelet aggregation via thromboxane synthase inhibition
@@ -110,14 +110,14 @@ Major producers include India (~35% of world production), China, Nepal, Nigeria,
 |-----------|--------------|
 | Temperature | 25–35°C (growth); 20–25°C (rhizome maturation) |
 | Rainfall | 1500–3000 mm annually |
-| Soil | Well-drained, loamy, rich in organic matter, pH 5.5–6.5 |
+| Soil | Well-drained, loamy, rich in [[hamilton-composting-and-organic-matter-management]], pH 5.5–6.5 |
 | Propagation | Vegetative (rhizome pieces with 1–2 buds), 3–5 cm deep |
 | Harvest | 8–10 months (mature); 5–6 months (young "green" ginger) |
 | Yield | 15–25 tonnes/ha |
 
 ## Culinary Uses
 
-Used fresh (grated, sliced, julienned in Asian cuisines), dried as powder (Indian masalas, baking, beverages), pickled as gari (Japanese sushi accompaniment), candied/crystallized as confectionery, and in ginger beer/ale and teas. The essential oil is used in food flavoring and perfumery.
+Used fresh (grated, sliced, julienned in Asian cuisines), dried as powder (Indian masalas, baking, beverages), pickled as gari (Japanese sushi accompaniment), candied/crystallized as confectionery, and in ginger beer/ale and teas. The [[permaculture-designers-manual-essential-oil-plants]] is used in food flavoring and perfumery.
 
 ## Traditional Medicine
 
@@ -139,10 +139,12 @@ Ginger is generally safe at culinary and therapeutic doses (1–4 g/day dried):
 
 - **Side effects:** Mild heartburn, diarrhea, mouth irritation at high doses
 - **Pregnancy:** Safe for nausea up to 1.5 g/day; avoid >4 g/day (theoretical uterine stimulation risk)
-- **Drug interactions:** Potentiates anticoagulants (warfarin, aspirin); enhances hypoglycemic drugs; may reduce absorption of concurrent medications
+- **[[cannabis-drug-interactions-and-contraindications]]:** Potentiates anticoagulants (warfarin, aspirin); enhances hypoglycemic drugs; may reduce absorption of concurrent medications
 - **Contraindications:** Gallstone disease, bleeding disorders
-
 ## See Also
 
+- [[sesamum-indicum]]
+
+- [[zingiber-montana]]
+
 - [[piper-nigrum-entity]] — Black pepper, combined with ginger in traditional formulations
-- [[ocimum-tenuiflorum-entity]] — Holy basil, another major Ayurvedic adaptogen

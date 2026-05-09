@@ -12,13 +12,13 @@ updated: 2026-05-08
 sources:
   - Dai YC, Xue HJ (2011). "Sanghuangporus, a new genus of poroid Hymenochaetaceae." Mycotaxon, 115, 87–98.
   - Shen J, Wang Y, Li Q (2017). "Antitumor activity of polysaccharides from Sanghuangporus lonicerinus." International Journal of Biological Macromolecules, 104, 835–842.
-  - Zhou LW, Vlasák J, Dai YC (2016). "Global diversity of the genus Sanghuangporus." Fungal Diversity, 80(1), 401–423.
+  - Zhou LW, Vlasák J, Dai YC (2016). "Global diversity of the genus Sanghuangporus." [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]], 80(1), 401–423.
   - Zhu MW, Wen TC, Chen CC (2020). "Phylogenetic and chemical diversity of the Sanghuangporus species complex." Journal of Fungi, 6(4), 286.
 ---
 
 ## Overview
 
-Sanghuangporus lonicerinus is a perennial polypore fungus in the family Hymenochaetaceae. It is one of the species historically referred to as "sanghuang," a group of medicinal mushrooms highly valued in traditional Chinese medicine for their health-restoring properties.
+Sanghuangporus lonicerinus is a perennial polypore fungus in the family Hymenochaetaceae. It is one of the species historically referred to as "sanghuang," a group of [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] highly valued in traditional Chinese medicine for their health-restoring properties.
 
 The species was originally described in the genus Phellinus before being transferred to Sanghuangporus following taxonomic revisions in 2011. It is distinguished from other sanghuang species by its host specificity, geographic distribution, and microscopic features.
 
@@ -70,19 +70,19 @@ Antimicrobial activity against Gram-positive bacteria has been demonstrated for 
 
 ## Cultivation
 
-Cultivation of Sanghuangporus lonicerinus remains experimental and has not yet achieved commercial scale. The slow growth rate and specific substrate requirements present challenges for artificial cultivation of fruiting bodies.
+Cultivation of Sanghuangporus lonicerinus remains experimental and has not yet achieved commercial scale. The slow growth rate and specific substrate requirements present challenges for [[fukuoka-matsutake-artificial-cultivation-attempt]] of fruiting bodies.
 
-Submerged fermentation has been used to produce mycelial biomass and extracellular polysaccharides in bioreactors. This method bypasses the need for fruiting body formation while yielding bioactive compounds suitable for extract production.
+Submerged fermentation has been used to produce mycelial biomass and extracellular polysaccharides in bioreactors. This method bypasses the need for fruiting [[suppressed-incomplete-fruit-body-formation-brassinosteroid-treatment]] while yielding bioactive compounds suitable for extract production.
 
 Solid-state cultivation on hardwood sawdust substrates has produced fruiting bodies under controlled conditions. Optimal substrates include sawdust of oak, beech, and maple supplemented with wheat bran or rice bran.
 
 Growth temperature ranges from 20–28°C, with optimal fruiting at 22–25°C and high relative humidity (85–95%). Fruiting typically requires 60–120 days after substrate inoculation under suitable environmental conditions.
 
-Yield optimization remains an active area of research, with variable results across different substrate formulations and environmental conditions. Genetic improvement through strain selection may improve cultivation prospects.
+Yield optimization remains an active area of research, with variable results across different substrate formulations and environmental conditions. Genetic improvement through [[blesching-cannabis-strain-selection-receptor-targeting]] may improve cultivation prospects.
 
 ## Related Species
 
-Sanghuangporus lonicerinus is part of a genus containing approximately 12 species, several of which are used medicinally. The most well-known is Sanghuangporus baumii, the most commercially important sanghuang species in the global medicinal mushroom market.
+Sanghuangporus lonicerinus is part of a genus containing approximately 12 species, several of which are used medicinally. The most well-known is Sanghuangporus baumii, the most commercially important sanghuang species in the global medicinal [[hallucinogenic-mushroom-market-in-europe]].
 
 Sanghuangporus vaninii is another closely related species found in similar habitats and used in traditional medicine. It can be distinguished by its larger pores and different host preferences.
 

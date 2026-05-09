@@ -1,5 +1,5 @@
 ---
-title: Fire Resistant Plants
+title: mollison-designers-fire-resistant-landscape-design Plants
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -51,7 +51,7 @@ Plants with low fire potential are critical for permaculture designs in fire-pro
 ### Fruit and Nut Trees
 - Carya illinoensis (Pecan)
 - Ceratonia siliqua (Carob) -- recovers
-- Castanea sativa (Sweet Chestnut)
+- Castanea sativa ([[holzer-sweet-chestnut-and-nut-trees]])
 - Fortunella japonica (Round Kumquat) -- recovers
 - Juglans regia (Persian Walnut)
 - Olea europaea (Olive) -- recovers
@@ -59,7 +59,7 @@ Plants with low fire potential are critical for permaculture designs in fire-pro
 - Ginkgo biloba
 
 ### Other Notable Trees
-- Robinia pseudoacacia (Black Locust)
+- Robinia pseudoacacia ([[comparison-black-locust-vs-honey-locust]])
 - Salix spp. (Willows)
 - Populus alba (White Poplar) -- recovers
 - Platanus acerifolia (London Plane)

@@ -1,5 +1,5 @@
 ---
-title: Cannabis Harvest and Curing
+title: query-how-to-run-perpetual-cannabis-harvest-cycle and Curing
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,11 +9,11 @@ sources: []
 
 ## Overview
 
-Harvest and curing are the final and most patient-dependent stages of cannabis cultivation. Proper technique during these phases preserves the terpenes, potency, and smoothness developed during the grow. Rushing any step — harvest timing, drying speed, or cure duration — directly reduces quality.
+Harvest and curing are the final and most patient-dependent stages of [[query-how-does-no-till-cannabis-cultivation-work]]. Proper technique during these phases preserves the terpenes, potency, and smoothness developed during the grow. Rushing any step — [[cannabis-harvest-timing-visual-cues]], drying speed, or cure duration — directly reduces quality.
 
 ## Harvest Timing
 
-Proper timing depends on monitoring trichome development throughout the [[cannabis-flowering-stage]]. The [[cannabis-environment-control]] during final weeks also affects terpene preservation at harvest. Key summary:
+Proper timing depends on monitoring [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]] throughout the [[cannabis-flowering-stage]]. The [[cannabis-environment-control]] during final weeks also affects terpene preservation at harvest. Key summary:
 
 - **Clear trichomes**: Too early — lower potency, grassy taste
 - **Milky/cloudy trichomes**: Peak potency — energetic, cerebral effect
@@ -30,7 +30,7 @@ Also consider:
 
 ### Flushing
 
-If growing in hydroponics or with synthetic nutrients, stop feeding and run plain water for 5-14 days before harvest. Living soil grows typically do not require flushing — the soil biology naturally tapers nutrient availability.
+If growing in hydroponics or with [[query-organic-vs-synthetic-nutrients-cannabis]], stop feeding and run plain water for 5-14 days before harvest. Living soil grows typically do not require flushing — the soil biology naturally tapers [[ph-and-nutrient-availability-garden-soils]].
 
 ### Dark Period
 
@@ -144,27 +144,6 @@ After curing, proper storage preserves quality for months to years.
 
 - **Airtight glass jars**: Mason jars with tight lids
 - **Temperature**: 60-70 F (15-21 C) — cooler is better, but avoid refrigeration (condensation risk)
-- **Darkness**: Store in a dark cabinet or closet
-- **Humidity**: Maintain 58-62% RH using 2-way humidity packs (Boveda 58% or 62%)
-- **Avoid**: Plastic bags (static damages trichomes), refrigerators (condensation), freezers (trichomes become brittle and break off)
-- **Vacuum sealing**: Acceptable for long-term storage if buds are properly cured first
-
-### Shelf Life
-
-- Properly cured and stored buds maintain peak quality for 6-12 months
-- Gradual potency loss occurs over time (THC converts to CBN)
-- After 18+ months, noticeable degradation in flavor and potency
-- Vacuum-sealed and frozen buds can maintain quality for 2+ years
-
-## Common Mistakes
-
-- **Harvesting too early**: Significantly reduces potency and terpene development
-- **Drying too fast** (high heat, low humidity): Harsh, grassy taste; brittle buds
-- **Drying too slow** (high humidity): Mold risk, especially with dense buds
-- **Not burping jars**: Anaerobic conditions produce ammonia smell and encourage mold
-- **Overpacking jars**: No air circulation; mold risk
-- **Using plastic for storage**: Static pulls trichomes off buds; plastic is permeable to air and moisture
-
 ## See Also
 
 - [[cannabis-grow-harvesting-drying-curing]]

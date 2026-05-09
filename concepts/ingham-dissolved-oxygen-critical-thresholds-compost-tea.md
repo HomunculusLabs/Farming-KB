@@ -1,5 +1,5 @@
 ---
-title: Dissolved Oxygen Critical Thresholds in Compost Tea
+title: aact-dissolved-oxygen-fine-bubble-aeration-ingham Critical Thresholds in comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide
 tags: [compost-tea, aact, oxygen, brewing, soil-foodweb, elaine-ingham, microbiology]
 date: 2026-04-28
 updated: 2026-04-28
@@ -13,11 +13,11 @@ type: concept
 
 ## Overview
 
-Dissolved oxygen (DO) concentration is the single most critical variable in [[elaine-ingham]]'s research has established clear thresholds that govern organism survival, particularly for the beneficial fungi essential to disease suppression.
+Dissolved oxygen (DO) concentration is the single most critical variable in [[elaine-ingham]]'s research has established clear thresholds that govern organism survival, particularly for the beneficial fungi essential to [[aact-disease-suppression-mechanisms-ingham]].
 
 ## The Critical 5.5 ppm Threshold
 
-Beneficial fungi require a minimum dissolved oxygen concentration of **5.5 to 6 ppm** to survive and function. When oxygen levels drop below this threshold during brewing, composting, or in soil, the beneficial fungal community is rapidly lost. This finding has been replicated consistently across multiple tea brewers and compost samples tested at the Soil Foodweb laboratory.
+Beneficial fungi require a minimum dissolved oxygen concentration of **5.5 to 6 ppm** to survive and function. When oxygen levels drop below this threshold during brewing, composting, or in soil, the beneficial [[air-pollution-fungal-community-responses]] is rapidly lost. This finding has been replicated consistently across multiple tea brewers and compost samples tested at the Soil Foodweb laboratory.
 
 The consequences of oxygen dropping below 5.5 ppm are severe:
 
@@ -102,3 +102,8 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[ingham-clopyralid-chlordane-compost-contamination]]
+- [[ingham-paper-cardboard-fungal-foods-compost]]
+- [[ingham-yeasts-molds-compost-tea]]

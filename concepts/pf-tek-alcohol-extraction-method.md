@@ -1,5 +1,5 @@
 ---
-title: PF TEK Alcohol Extraction Method
+title: PF TEK pf-tek-ethyl-alcohol-extraction-liqueur-concentration Method
 created: 2026-04-28
 tags: [pf-tek, extraction, psilocybin, ethanol, tincture]
 date: 2026-04-28
@@ -12,7 +12,7 @@ type: concept
 # PF TEK Alcohol Extraction Method
 
 The PF TEK alcohol extraction method describes a straightforward technique for
-extracting [[magic-mushrooms-japan]] using pure 200 proof ethyl
+extracting magic-mushrooms-japan using pure 200 proof ethyl
 alcohol. The process produces a concentrated mushroom liqueur that can be
 metered precisely with a syringe for accurate dosing. The entire procedure
 involves only mushrooms and alcohol, with no additional chemicals or solvents,
@@ -48,7 +48,7 @@ indefinitely in the freezer. [[mycology]] communities at the time of writing.
 ## Sourcing 200 Proof Ethyl Alcohol
 
 Pure 200 proof anhydrous ethyl alcohol (100% pure, no water) can be acquired
-from well-stocked liquor stores in the United States. Full-service liquor stores
+from well-stocked liquor stores in the [[dmt-containing-plants-united-states-halpern]]. Full-service liquor stores
 supply hospitals and laboratories with this product. If a particular store does
 not carry it, the staff will typically know where it can be obtained.
 
@@ -122,7 +122,7 @@ needs to be consumed per dose.
 
 ## Dosing and Dispensing
 
-Psilocybe Fanaticus recommended dispensing the concentrated mushroom liqueur
+[[pf-tek-psilocybe-fanaticus-cultivation-method]] recommended dispensing the concentrated mushroom liqueur
 with a 10cc syringe for accurate measurement. Precision is important because
 the concentrated extract is very potent, and a slight miscalculation in dose
 could produce a much stronger experience than intended. The liqueur can be
@@ -143,6 +143,7 @@ fungi perfume."
 While 200 proof ethyl alcohol is non-toxic and drinkable (unlike denatured
 alcohol or other solvents used in extraction), several safety precautions
 apply. Pure alcohol is extremely flammable and all extraction and evaporation
-work should be performed away from open flames, sparks, and heat sources. The
-work area should be well-ventilated. Keep the alcohol away from any ignition
-sources during the entire process.
+## See Also
+- [[psilocybe-fanaticus]]
+- [[pf-tek-ethyl-alcohol-extraction-psilocybin-liqueur]]
+- [[lemon-cannabis-alchemy-high-volume-extraction-method]]

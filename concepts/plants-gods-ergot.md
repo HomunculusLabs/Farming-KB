@@ -14,16 +14,16 @@ type: concept
 
 Ergot ([[eleusinian-mysteries]] of ancient Greece, and its contribution to
 modern medicine. Most importantly, the ergoline alkaloids derived from
-Ergot are the chemical basis of lysergic acid diethylamide (LSD), the
+Ergot are the chemical basis of [[ergot-and-lysergic-acid-history]] diethylamide (LSD), the
 most potent hallucinogen known. Ergot alkaloids or derivatives of them
 are the basis of important medicines used today in obstetrics, internal
 medicine, and psychiatry.
 
 ## Botanical Description
 
-Claviceps purpurea (Fr.) Tulasne belongs to the Clavicipitaceae family
+[[bloomfield-ergot-claviceps-purpurea-ergotism]] (Fr.) Tulasne belongs to the Clavicipitaceae family
 and is distributed throughout temperate zones of Europe, northern
-Africa, Asia, and North America. Ergot is a fungal disease of certain
+Africa, Asia, and [[psilocybin-north-america-pacific-northwest]]. Ergot is a [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] of certain
 grasses and sedges, primarily of rye. The term "Ergot" refers to the
 sclerotium or fruiting body of an ascomycete or sac fungus.
 
@@ -40,7 +40,7 @@ disseminated when the asci rupture.
 
 It appears that Ergot has never been utilized purposefully as a
 hallucinogen in medieval Europe. However, it has recently been
-convincingly argued that Ergot played a role in the Eleusinian mysteries
+convincingly argued that Ergot played a role in the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]
 of ancient Greece, the most important religious initiation ceremony of
 the classical world. A Greek lecythus (sacramental vessel, 450-425
 B.C.) depicts Triptolemus holding the Eleusinian grain, a grass
@@ -63,7 +63,7 @@ pharmacologically active constituents of Ergot:
 - **Ergometrine** (ergonovine): Used in obstetrics to control
   postpartum hemorrhage by inducing uterine contractions.
 - **Lysergic acid amide** (LSA, ergine): Found in the seeds of
-  Morning Glory species (Ololiuqui), chemically related to the ergot
+  [[golden-guide-morning-glory-and-ololiuqui]] species (Ololiuqui), chemically related to the ergot
   alkaloids and possessing mild psychedelic properties.
 - **Lysergic acid hydroxymethylamide**: Another psychoactive ergoline
   found in Morning Glory seeds.

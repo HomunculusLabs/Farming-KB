@@ -1,14 +1,15 @@
 ---
-title: Water Harvesting Techniques Comparison
+title: Water water harvesting techniques comparison Comparison
 created: 2026-04-13
 updated: 2026-04-13
 type: comparison
 tags: [comparison]
-sources: []
+sources:
+  sources: []
 ---
 # Water Harvesting Techniques Comparison
 
-Water harvesting captures, stores, and directs rainfall and runoff for productive use on the homestead or farm. The right combination of techniques depends on climate, rainfall patterns, terrain, budget, and intended use (irrigation, drinking, livestock, aquaculture, erosion control). This comparison covers seven widely used water harvesting techniques across scales from urban to farm. For earthworks design, see [[water-management]] and irrigation specifics in [[permaculture-earthworks-and-water-harvesting]] for design principles and [[aquaculture-in-permaculture]]
+Water harvesting captures, stores, and directs rainfall and runoff for productive use on the homestead or farm. The right combination of techniques depends on climate, rainfall patterns, terrain, budget, and intended use (irrigation, drinking, livestock, aquaculture, [[permplant-willows-salix-erosion-control-fodder]]). This comparison covers seven widely used water harvesting techniques across scales from urban to farm. For earthworks design, see [[water-management]] and irrigation specifics in [[permaculture-earthworks-and-water-harvesting]] for [[holmgren-permaculture-twelve-design-principles-framework]] and aquaculture-in-permaculture
 - [[holzer-disaster-resistant-farming]]
 - [[gaias-garden-water-harvesting-swales-and-greywater]]
 ## Background and Context
@@ -139,4 +140,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

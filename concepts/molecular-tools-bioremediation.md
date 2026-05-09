@@ -11,11 +11,11 @@ sources: []
 
 Molecular tools have revolutionized the study and application of bioremediation by enabling direct detection, identification, and quantification of microorganisms and their functional genes in environmental samples without the need for laboratory cultivation.
 
-These tools provide insights into microbial community composition, metabolic potential, and gene expression that were previously inaccessible through traditional culture-based methods.
+These tools provide insights into microbial [[core-endorhiza-bacterial-community-composition-cannabis]], metabolic potential, and gene expression that were previously inaccessible through traditional culture-based methods.
 
 The application of molecular biology to bioremediation, sometimes called environmental molecular diagnostics, has become essential for monitoring treatment performance, optimizing system design, and understanding the fundamental mechanisms of contaminant transformation.
 
-This topic complements [[fungal-genetic-engineering-bioremediation]], and [[fungal-biodiversity-measurement-methods]] describes molecular approaches to fungal diversity assessment that are relevant to bioremediation applications.
+This topic complements fungal-genetic-engineering-bioremediation, and [[fungal-biodiversity-measurement-methods]] describes [[staycare-molecular-approaches-fungal-bioremediation]] to fungal diversity assessment that are relevant to bioremediation applications.
 
 ## Quantitative PCR for Functional Gene Detection
 
@@ -23,7 +23,7 @@ Quantitative PCR (qPCR) enables precise quantification of specific genes in envi
 
 In chlorinated solvent bioremediation, qPCR targeting Dehalococcoides 16S rRNA genes and reductive dehalogenase genes (vcrA, bvcA) provides rapid assessment of bioremediation potential and treatment progress.
 
-Quantification of functional genes for petroleum hydrocarbon degradation, including alkane monooxygenase (alkB), catechol 2,3-dioxygenase (C23O), and naphthalene dioxygenase (nah), helps assess the biodegradation capacity of contaminated sites.
+Quantification of functional genes for [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] degradation, including alkane monooxygenase (alkB), catechol 2,3-dioxygenase (C23O), and naphthalene dioxygenase (nah), helps assess the biodegradation capacity of contaminated sites.
 
 For explosive remediation, qPCR targeting genes for nitroreductases and cytochrome P450 enzymes provides information about the potential for TNT and RDX degradation.
 
@@ -43,9 +43,9 @@ This approach can identify the specific enzymes and pathways that are being used
 
 Reverse transcription qPCR (RT-qPCR) enables targeted quantification of specific gene transcripts, providing sensitive and quantitative measurement of gene expression levels for key bioremediation genes.
 
-Gene expression analysis is particularly valuable for identifying rate-limiting steps in bioremediation processes and for optimizing treatment conditions to enhance expression of desired degradation pathways.
+Gene expression analysis is particularly valuable for identifying rate-limiting steps in bioremediation processes and for optimizing treatment conditions to enhance expression of desired [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]].
 
-Stable isotope probing (SIP) combines the use of isotopically labeled substrates (13C-labeled contaminants) with molecular detection methods to identify the specific microorganisms that assimilate the labeled substrate.
+Stable isotope probing (SIP) combines the use of isotopically labeled substrates (13C-labeled contaminants) with molecular [[singh-detection-methods-degrading-fungi-environment]] to identify the specific microorganisms that assimilate the labeled substrate.
 
 DNA-SIP and RNA-SIP can link specific contaminant degradation activities to specific community members, providing direct evidence for the role of particular organisms in bioremediation.
 
@@ -57,7 +57,7 @@ Metaproteomics, the large-scale characterization of proteins from environmental 
 
 Enzyme activity assays complement proteomic data by measuring the functional activity of key bioremediation enzymes in soil or water samples.
 
-Common enzyme assays for bioremediation monitoring include dehydrogenase activity (general microbial activity), fluorescein diacetate hydrolysis (total microbial activity), and specific enzyme assays for lignin peroxidase, manganese peroxidase, laccase, and other remediation-relevant enzymes.
+Common enzyme assays for bioremediation monitoring include dehydrogenase activity (general microbial activity), fluorescein diacetate hydrolysis (total microbial activity), and specific enzyme assays for lignin peroxidase, [[fungal-manganese-peroxidase-remediation]], laccase, and other remediation-relevant enzymes.
 
 [[ligninolytic-enzymes-bioremediation]] describe the enzyme systems that are monitored in fungal bioremediation applications.
 

@@ -3,28 +3,19 @@ title: mushroom-composting
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
-tags: [[mycology, composting, substrate, agaricus]
+tags: [mycology, composting, substrate, agaricus]
 sources: [cotter-organic-mushroom-farming-mycoremediation]
 ---
-# Mushroom Composting
-
-Composting is essential for cultivating secondary decomposer mushrooms like Agaricus (button, portabella) and blewits, which require microbe-enriched substrates to fruit. Composting also transforms waste materials into productive growing media. From Cotter's "Organic Mushroom Farming and Mycoremediation."
-
-## Why Composting Matters
-
-- Primary decomposers (oyster, shiitake) grow on raw substrates; secondary decomposers need partially broken-down material
-- Composting creates a microbe-rich environment that triggers fruiting in compost-loving species
-- The microbial community in compost is essential for primordia formation in Agaricus species
-- Composting is also the first step in recycling [[agaricus-bisporus]]** (white button, portabella, crimini): The primary compost-grown commercial mushroom
-- **[[coprinus-comatus-detailed]]): Grows on composted manure
-- **Paddy straw** ([[spent-mushroom-substrate]] after harvest is a valuable resource:
+# Mushroom Composting Composting is essential for cultivating secondary decomposer mushrooms like Agaricus (button, portabella) and blewits, which require microbe-enriched substrates to fruit. Composting also transforms waste materials into productive growing media. From Cotter's "Organic Mushroom Farming and Mycoremediation." ## Why Composting Matters - Primary decomposers (oyster, shiitake) grow on raw substrates; secondary decomposers need partially broken-down material - Composting creates a microbe-rich environment that triggers fruiting in compost-loving species - The microbial community in compost is essential for primordia formation in Agaricus species - Composting is also the first step in recycling [[agaricus-bisporus]]** (white button, portabella, crimini): The primary compost-grown commercial mushroom
+- **[[coprinus-comatus]]): Grows on [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]]
+- **[[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]]** ([[spent-mushroom-substrate]] after harvest is a valuable resource:
 
 - Excellent soil amendment; rich in nutrients and beneficial microbes
 - Use as topdressing for garden beds
-- [[vermicomposting]] converts spent substrate into premium worm castings
+- [[vermicomposting]] converts [[oyster-mushroom-spent-substrate-recycling]] into premium worm castings
 - Can be used as animal bedding (especially for chickens and rabbits)
 - Myceliated substrate can serve as inoculum for new compost piles or filtration projects
-- Spent oyster substrate is particularly versatile for soil building
+- Spent [[mushworld-oyster-substrate-materials-worldwide-survey]] is particularly versatile for soil building
 - Never mix incompletely composted material directly into food gardens; vermicompost first
 
 ## Persistent Herbicide Warning
@@ -34,7 +25,7 @@ Composting is essential for cultivating secondary decomposer mushrooms like Agar
 - These herbicides can persist in compost for 4-6 years
 - Test compost by planting herbicide-sensitive seeds (beans, tomatoes, corn) before use
 - Stunted growth or twisted/fried leaves indicate contamination
-- Mycoremediation with oyster mushrooms may help break down these compounds, but testing is essential
+- Mycoremediation with [[query-how-to-grow-oyster-mushrooms-at-home]] may help [[query-can-fungi-break-down-plastic-pollution]] these compounds, but testing is essential
 
 ## See Also
 ## Practical Applications
@@ -114,4 +105,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

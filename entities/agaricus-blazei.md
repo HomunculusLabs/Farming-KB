@@ -1,5 +1,5 @@
 ---
-title: "agaricus blazei"
+title: "cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides"
 created: 2026-04-28
 tags: [species, fungi, medicinal-mushroom, agaricus]
 date: 2026-04-25
@@ -16,23 +16,23 @@ type: entity
 
 ## Overview
 
-Agaricus blazei is a medicinal mushroom native to the mountainous
+Agaricus blazei is a [[gourmet-medicinal-mushroom-casing-layer-techniques]] native to the mountainous
 region near Sao Paulo, Brazil. First discovered in the USA during the
 1940s, it is now commercially cultivated in Japan and Brazil, where it
 ranks among the most expensive [[agaricus-bisporus]], though requiring warmer
-temperatures. Brazil and Japan are the primary production centres.
+temperatures. Brazil and Japan are the [[lichens-primary-production-soil-formation-dighton]] centres.
 Commercial cultivation has expanded significantly due to growing demand
 for medicinal mushroom supplements.
 
 ## Relevance
 
 Agaricus blazei represents one of the most commercially significant
-medicinal mushrooms in the global market. Its high price in Japan
+[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] in the global market. Its high price in Japan
 reflects strong demand driven by documented health benefits. For
 growers and mycologists, this species offers a high-value crop with
 established therapeutic applications. The ability to produce bioactive
 compounds through submerged fermentation also makes it attractive for
-biopharmaceutical production, bypassing the need for fruiting body
+biopharmaceutical production, bypassing the need for [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]
 cultivation.
 
 ## See Also
@@ -54,7 +54,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -96,4 +96,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

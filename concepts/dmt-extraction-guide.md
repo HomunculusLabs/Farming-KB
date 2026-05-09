@@ -13,7 +13,7 @@ sources: []
 
 N,N-Dimethyltryptamine (DMT) is a naturally occurring tryptamine compound found in hundreds of plant species and produced endogenously in mammals, including humans. It is one of the most potent psychedelics known — a full visionary experience can be achieved with doses as low as 20–60 mg when vaporized.
 
-This guide covers the extraction of DMT from plant material, primarily Mimosa hostilis root bark (MHRB), which is the most common and efficient source for at-home extraction. DMT is a Schedule I controlled substance in many countries — this information is presented for educational and harm-reduction purposes.
+This guide covers the extraction of DMT from plant material, primarily [[entheogen-jurema-mimosa-hostilis-ethnobotany]] [[iboga-root-bark-preparation]] (MHRB), which is the most common and efficient source for at-home extraction. DMT is a Schedule I controlled substance in many countries — this information is presented for educational and harm-reduction purposes.
 
 ## The Chemistry
 

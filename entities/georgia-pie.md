@@ -18,7 +18,7 @@ tags:
   - recreational
 sources:
   - Seed Junky Genetics. "Georgia Pie Strain Profile." seedjunky.com.
-  - Leafly. "Georgia Pie Cannabis Strain Information." leafly.com/strains/georgia-pie.
+  - Leafly. "Georgia Pie [[blesching-cannabis-strain-selection-receptor-targeting]] Information." leafly.com/strains/georgia-pie.
   - AllBud. "Georgia Pie Strain." allbud.com/georgia-pie.
   - Wikileaf. "Georgia Pie Strain Review." wikileaf.com/strain/georgia-pie.
   - GrowDiaries. "Georgia Pie Grow Reports." growdiaries.com.
@@ -66,20 +66,20 @@ Buds are medium to large, dense, and tightly structured with a classic indica
 morphology. The calyxes are chunky and heavily coated in trichomes, giving the
 flowers a frosted, almost sugary appearance.
 
-Colors range from deep forest green to shades of lavender and purple,
+Colors range from deep [[trichoderma-forest-green-mold-guide]] to shades of lavender and purple,
 particularly in the later stages of flowering when exposed to cooler nighttime
 temperatures. Bright orange pistils contrast sharply against the darker foliage.
 
 Trichome coverage is exceptionally heavy, with large, bulbous glandular
-trichomes visible across all surfaces. The resin production makes Georgia Pie
+trichomes visible across all surfaces. The [[cannabis-glandular-trichome-types-resin-production-clarke]] makes Georgia Pie
 attractive for hash and concentrate extraction.
 
 ## Aroma and Flavor
 
 The aroma is the strain's signature trait — an intensely sweet, fruity bouquet
 evocative of fresh-baked peach or cherry pie with a graham cracker crust
-undertone. Notes of ripe stone fruit, berry, and vanilla are present on the
-front end.
+undertone. Notes of ripe [[holzer-stone-fruit-varieties-and-growing]], berry, and vanilla are present on the
+[[holmgren-permaculture-front-end-design-vs-back-end-problem-solving]].
 
 Secondary aromas include earthy, doughy, and slightly skunky undertones from the
 GSC lineage. The combination creates a complex dessert-like profile that is

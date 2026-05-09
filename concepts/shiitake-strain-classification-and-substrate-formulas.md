@@ -1,18 +1,18 @@
 ---
-title: Shiitake Strain Classification and Substrate Formulas
+title: Shiitake shiitake strain classification and substrate formulas and Substrate Formulas
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/mycelium-running-stamets.md"
+  sources: []
 ---
 
 # shiitake strain classification and substrate formulas
 
 Updated: 2026-04-18
 
-Shiitake ([[fukuoka-natural-farming-in-tropical-regions]], through careful strain selection and controlled environment management.
+Shiitake ([[fukuoka-natural-farming-in-tropical-regions]], through careful [[blesching-cannabis-strain-selection-receptor-targeting]] and controlled environment management.
 
 ## Strain Classification by Fruiting Temperature
 
@@ -23,11 +23,11 @@ Based on the Chinese system, shiitake strains are classified into four categorie
 | **Low temperature** | 10C | Best quality; produces dongu (winter shiitake) with thick, meaty texture |
 | **Mid temperature** | 10-18C | Most common commercial strains; good quality range |
 | **High temperature** | 20C+ | Suited to warmer climates; faster but lower quality |
-| **Wide-range temperature** | 5-35C | Versatile; can fruit across broad temperature range |
+| **Wide-range temperature** | 5-35C | Versatile; can fruit across broad [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] |
 
 Japanese growers have developed [[cannabis-seed-selection-and-strain-types]]
 
-See also: [[shiitake-mushroom-cultivation-and-medicinal-properties]]
+See also: [[shiitake-cultivation-guide]]
 ## Practical Applications
 
 Shiitake Strain Classification and Substrate Formulas has a range of practical applications that make it relevant to
@@ -105,4 +105,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,15 +1,15 @@
 ---
-title: "Macadamia vs Pecan vs Pistachio Cultivation"
+title: "comparison macadamia vs pecan vs pistachio cultivation vs Pistachio Cultivation"
 tags: [macadamia, pecan, pistachio, nut-crops, tree-crops, comparison]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "California Pistachio Commission. Pistachio Production Manual. 4th ed. 2007."
-  - "Cox, J. et al. Macadamia: Australia's Indigenous Nut Crop. CSIRO Publishing, 2019."
-  - "Graetz, D.A. & Kessler, W. Pecan Culture in North America. APS Press, 1997."
+  - "Cox, J. et al. Macadamia: Australia's Indigenous [[permplant-chestnuts-castanea-nut-crop-coppice]]. CSIRO Publishing, 2019."
+  - "Graetz, D.A. & Kessler, W. Pecan Culture in [[psilocybin-north-america-pacific-northwest]]. APS Press, 1997."
   - "FAO. FAOSTAT: Crops and Livestock Products. Food and Agriculture Organization, 2024."
   - "UC ANR. Pecan Production in California. UC Agriculture & Natural Resources Publication 3503, 2018."
-  - "University of Hawaii CTAHR. Macadamia Nut Production in Hawaii. Extension Bulletin, 2020."
+  - "University of Hawaii CTAHR. [[mollison-designers-macadamia-nut-in-tropical-polyculture]] Production in Hawaii. Extension Bulletin, 2020."
   - "Ferguson, L. Pistachio Production. UC ANR Publication 3545, 2019."
   - "Topp, B.L. et al. Macadamia Domestication and Breeding. Acta Horticulturae 950, 2012."
 created: 2026-05-07
@@ -18,7 +18,7 @@ type: comparison
 
 # Macadamia vs Pecan vs Pistachio Cultivation
 
-This page compares three commercially important nut tree crops: [[permaculture-pecan-tree-profile]], and [[agroforestry]] systems in Australia, Hawaii, East Africa, and Central America.
+This page compares three commercially important nut tree crops: [[permaculture-pecan-tree-profile]], and [[agroforestry]] systems in Australia, Hawaii, East Africa, and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
 - **Pecan:** Streamside and riparian [[comparison-hazelnut-vs-almond-vs-walnut-cultivation]], [[comparison-hazelnut-vs-almond-vs-walnut-cultivation]], [[permaculture-climate-zones]].
 ## Practical Applications
 
@@ -97,4 +97,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

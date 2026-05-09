@@ -1,19 +1,16 @@
 ---
-title: Slime Molds
+title: bloomfield-slime-molds-myxomycetes-plasmodial-protists
 created: 2026-04-28
-tags: [[mycology, protists, ecology, behavior]
+tags: [mycology, protists, ecology, behavior]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md]
 type: concept
 ---
-
-# Slime Molds
-
-[[adenosine-triphosphate-and-cellular-energy]] slime molds (Dictyostelids).
+# Slime Molds [[adenosine-triphosphate-and-cellular-energy]] slime molds (Dictyostelids).
 Both groups fascinate biologists because they blur the boundary between single
 organisms and multicellular life, and they exhibit remarkably complex behaviors
-despite lacking a [[biodiversity-fungi-aquatic-environments]]) or amoeboid cells (on surfaces). These
+despite lacking a biodiversity-fungi-aquatic-environments) or amoeboid cells (on surfaces). These
 haploid cells can reproduce asexually or find compatible mates for sexual
 reproduction. Plasmogamy (cell fusion) produces a diploid zygote that feeds
 and grows into the mature plasmodium through repeated nuclear division without
@@ -43,7 +40,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -93,7 +90,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -103,4 +100,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

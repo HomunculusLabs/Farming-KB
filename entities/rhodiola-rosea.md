@@ -30,12 +30,13 @@ taxonomy:
   genus: Rhodiola
   species: R. rosea
   authority: L.
-sources: []
+sources:
+  sources: []
 ---
 
 # Rhodiola rosea
 
-**Rhodiola rosea** (golden root, arctic root) is a perennial herbaceous plant in the family Crassulaceae, native to arctic and alpine regions of Europe, Asia, and North America. One of the most extensively studied adaptogenic herbs, it has been used for centuries in Scandinavian, Siberian, and Traditional Chinese Medicine to combat fatigue, enhance endurance, and improve resilience to stress. Its root/rhizome contains a unique profile of bioactive compounds, notably the cinnamyl alcohol glycosides rosavin, rosin, and rosarin, which are found exclusively in *R. rosea* among Rhodiola species. Over 3,000 scientific publications document its pharmacology, and standardized extracts (typically 3% rosavins, 1% salidroside) are sold worldwide as dietary supplements and registered herbal medicines.
+**Rhodiola rosea** (golden root, arctic root) is a perennial herbaceous plant in the family Crassulaceae, native to arctic and alpine regions of Europe, Asia, and [[psilocybin-north-america-pacific-northwest]]. One of the most extensively studied adaptogenic herbs, it has been used for centuries in Scandinavian, Siberian, and Traditional Chinese Medicine to combat fatigue, enhance endurance, and improve resilience to stress. Its root/rhizome contains a unique profile of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]], notably the cinnamyl alcohol glycosides rosavin, rosin, and rosarin, which are found exclusively in *R. rosea* among Rhodiola species. Over 3,000 scientific publications document its pharmacology, and standardized extracts (typically 3% rosavins, 1% salidroside) are sold worldwide as dietary supplements and registered herbal medicines.
 
 ## Taxonomy and Nomenclature
 
@@ -45,7 +46,7 @@ sources: []
 - **Genus:** *Rhodiola* L. (approximately 60-90 species)
 - **Species:** *R. rosea* L., 1753
 - **Synonyms:** *Sedum roseum* (L.) Scop., *Sedum rhodiola* DC.
-- **Etymology:** *Rhodiola* from Greek *rhodon* (rose) + *iola* (diminutive); *rosea* for the rose-like fragrance of the cut root, due to cinnamyl alcohol in the essential oil
+- **Etymology:** *Rhodiola* from Greek *rhodon* (rose) + *iola* (diminutive); *rosea* for the rose-like fragrance of the cut root, due to cinnamyl alcohol in the [[permaculture-designers-manual-essential-oil-plants]]
 - **Chinese:** hong jing tian, "red scenery plant"
 - **Russian:** zolotoy koren, "golden root"
 
@@ -99,19 +100,19 @@ Rhodiola rosea exerts multi-target pharmacological effects through several inter
 
 **Anti-fatigue effects:** Increases ATP synthesis and mitochondrial biogenesis (via PGC-1 alpha), reduces lactate accumulation during exercise, enhances glycogen synthesis, and modulates fatty acid oxidation.
 
-**Neuroprotection:** Reduces [[stamets-spore-germination-and-tissue-culture]] protocols exist and are increasingly important for commercial production of elite chemotypes. Harvest occurs in autumn after above-ground parts die back. Drying temperature significantly affects chemical composition; excessive heat degrades rosavins.
+**Neuroprotection:** Reduces stamets-spore-germination-and-tissue-culture protocols exist and are increasingly important for commercial production of elite chemotypes. Harvest occurs in autumn after above-ground parts die back. Drying temperature significantly affects chemical composition; excessive heat degrades rosavins.
 
 **Wild harvesting is a major conservation concern.** Slow growth rates and overcollection have severely depleted wild populations in parts of Russia, Mongolia, China, and Scandinavia. China strictly regulates wild collection. The IUCN lists *R. rosea* as Least Concern globally, but regional populations are declining. Cultivation is strongly encouraged to reduce pressure on wild stocks. Adulteration with cheaper Rhodiola species (*R. crenulata*, *R. fastigiata*, *R. sachalinensis*) is a significant industry problem.
 
 ## Cultivars and Chemotypes
 
-Significant chemical variation exists between geographic populations. Siberian/Altai chemotypes are generally considered premium quality, with higher rosavin and salidroside content. Scandinavian populations tend to be lower in salidroside. Chinese material is often *R. crenulata* rather than true *R. rosea*; this species is high in salidroside but contains no rosavins. Rosavin content in wild populations ranges from 0.3% to over 4%, influenced by altitude, temperature, soil, harvest timing, and rhizome age.
+Significant chemical variation exists between geographic populations. Siberian/Altai chemotypes are generally considered premium quality, with higher rosavin and salidroside content. Scandinavian populations tend to be lower in salidroside. Chinese material is often *R. crenulata* rather than true *R. rosea*; this species is high in salidroside but contains no rosavins. Rosavin content in wild populations ranges from 0.3% to over 4%, influenced by altitude, temperature, soil, [[cannabis-harvest-timing-visual-cues]], and rhizome age.
 
 ## Safety and Interactions
 
 Rhodiola is generally well-tolerated at recommended doses (200-600 mg/day). Common side effects are mild and transient: dry mouth, dizziness, gastrointestinal upset, headache, and insomnia (if taken late in the day). The LD50 in rodents exceeds 3,000 mg/kg orally, indicating low acute toxicity.
 
-Key drug interactions include additive serotonergic effects with antidepressants (SSRIs, SNRIs, MAOIs, TCAs); additive stimulation with caffeine and stimulants; enhanced hypoglycemic effects with antidiabetic medications; and possible interference with immunosuppressants. Contraindications include bipolar disorder (may trigger mania), concurrent MAOI use, and pregnancy/breastfeeding (insufficient safety data). It is not on the WADA prohibited list and is freely used by athletes.
+Key [[cannabis-drug-interactions-and-contraindications]] include additive serotonergic effects with antidepressants (SSRIs, SNRIs, MAOIs, TCAs); additive stimulation with caffeine and stimulants; enhanced hypoglycemic effects with antidiabetic medications; and possible interference with immunosuppressants. Contraindications include bipolar disorder (may trigger mania), concurrent MAOI use, and pregnancy/breastfeeding (insufficient safety data). It is not on the WADA prohibited list and is freely used by athletes.
 
 ## Legal Status
 

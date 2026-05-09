@@ -26,8 +26,8 @@ type: concept
 For land contaminated by decades of chemical agriculture, Holzer recommends:
 - Ploughing and sowing deep-rooting support plants as part of polyculture
 - Using blue lupin (roots grow several metres deep, perennial, self-seeding)
-- Red clover to attract bees and fix nitrogen
-- Root vegetables like carrots, daikon, and Jerusalem artichokes left to
+- Red clover to attract bees and [[query-how-to-fix-nitrogen-toxicity-in-cannabis]]
+- [[growing-root-vegetables-guide]] like carrots, daikon, and Jerusalem artichokes left to
   decompose in fields for several years
 - Rough hugelkulturs to support aeration and detoxification
 
@@ -38,7 +38,7 @@ areas are reached, aired, rooted, and detoxified.
 ## Economic Value of Biodiversity
 
 Biodiversity is not only beautiful but economically beneficial. The best and
-most sustainable yield does not come from specialised intensive production but
+most sustainable yield does not come from specialised [[mollison-designers-market-garden-intensive-production-design]] but
 from diversity in the use of land. The more diverse a system, the more
 stable it is. A natural diverse system offers many opportunities and is
 economically safer than specialisation.
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

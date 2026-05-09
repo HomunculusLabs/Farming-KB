@@ -1,11 +1,12 @@
 ---
-title: Sepp Holzer Composting, Mulching, and Liquid Fertiliser
+title: Sepp sepp-holzer-composting-and-humus-building, Mulching, and Liquid Fertiliser
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [composting, soil]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 Updated: 2026-04-18
@@ -56,7 +57,7 @@ Any organic material that decomposes is suitable:
 
 ## Mulching
 
-"Mulching is nothing other than surface composting -- it involves spreading a layer of organic material over the soil to serve as ground cover."
+"Mulching is nothing other than surface composting -- it involves spreading a layer of organic material over the soil to serve as [[fukuoka-citrus-orchard-ground-cover-cultivation]]."
 
 ### Functions
 - Protective cover preventing drying, erosion, and extreme weather effects
@@ -70,11 +71,11 @@ Any organic material that decomposes is suitable:
 - Straw
 - Cardboard
 - Plants pulled up while weeding
-- Green manure plants (clover, lupins, mustard) are particularly good
+- [[comparison-green-manure-guide-vs-mulch-types-and-effects]] plants (clover, lupins, mustard) are particularly good
 
 ### Application Thickness
 - Moist/wet material: spread thinly to rot slowly without mouldering
-- Dry material (straw, hay): can be spread 20cm+ because it is looser with better air circulation
+- Dry material (straw, hay): can be spread 20cm+ because it is looser with better [[stamets-growing-room-air-circulation-co2-management]]
 - Never pack down tightly
 
 ### Against Shredding
@@ -86,7 +87,7 @@ Holzer does not shred mulch material despite expert advice. Reasons:
 ### Working With Mulch
 - In spring, scoop mulch aside to sow or plant
 - Sown areas remain free of rivals; other areas stay protected
-- With good mulch cover, hardly any weeding needed
+- With good [[lowenfels-mulch-cover-cropping]], hardly any weeding needed
 - Regularly introduce new material throughout the year
 - Vary plants and materials used (same nutrients = same diet, unhealthy for soil)
 - Also very effective under shrubs, trees, and hedges (mirrors nature)
@@ -122,7 +123,7 @@ Once you have been mulching an area for a while, digging over or loosening soil 
 1. **Nettles** ([[symphytum-officinale]], S. x uplandicum) -- potash
 3. **Tansy** (Tanacetum vulgare) -- general tonic
 4. **Horsetail** (Equisetum arvense) -- silica, strengthening
-5. **Wormwood** (Artemisia absinthium) -- pest regulation (aphids, scale insects, red spider mites)
+5. **Wormwood** (Artemisia absinthium) -- pest regulation (aphids, scale insects, red [[cervantes-spider-mites-identification-control]])
 
 ### Key Principles
 - Use locally growing plants

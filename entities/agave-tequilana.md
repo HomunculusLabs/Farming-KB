@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Gentry H.S. (1982). "Agaves of Continental North America." University of Arizona Press.
+  - Gentry H.S. (1982). "Agaves of Continental psilocybin-north-america-pacific-northwest." University of Arizona Press.
   - Valenzuela-Zapata A.G. (2003). "El Agave Tequilero." Universidad de Guadalajara.
   - NMX-006-NORMEX-2015. "Norma Oficial Mexicana para Tequila."
   - García-Mendoza A. & Chiang F. (2003). "Agave tequilana Weber var. azul." US Department of Agriculture GRIN Database.
@@ -31,7 +31,7 @@ Mature plants reach 1.5–2 meters in height and produce a large rosette of blue
 
 **Authority:** F.A.C. Weber ex A. Berger (1905). The accepted botanical name is Agave tequilana F.A.C. Weber, with the cultivated blue variety designated as A. tequilana var. azul.
 
-**Leaves:** 60–100 per rosette, lanceolate, 90–120 cm long and 8–12 cm wide. The leaf surface is blue-green with a waxy cuticle, and margins bear recurved spines 5–10 mm.
+**Leaves:** 60–100 per rosette, lanceolate, 90–120 cm long and 8–12 cm wide. The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is blue-green with a waxy cuticle, and margins bear recurved spines 5–10 mm.
 
 The apical spine is 15–25 mm, rigid and dark brown. Leaf cross-section shows thickened chlorenchyma and large water-storage parenchyma cells.
 
@@ -47,9 +47,9 @@ The species is endemic to western Mexico, centered on the Tequila Volcano region
 
 Wild populations grow on rocky, well-drained volcanic slopes with pH 6.5–8.0. Annual rainfall in the native range is 800–1,200 mm, concentrated in summer.
 
-The species tolerates moderate frost (−3 to −5 °C) and prolonged drought. Its CAM photosynthesis confers high water-use efficiency in semi-arid conditions.
+The species tolerates moderate frost (−3 to −5 °C) and prolonged drought. Its [[comparison-c3-c4-and-cam-photosynthesis-pathways]] confers high water-use efficiency in semi-arid conditions.
 
-Soil preference is for shallow, calcareous, iron-rich volcanic soils (Regosols and Luvisols). Deep loams promote excessive vegetative growth at the expense of piña sugar accumulation.
+Soil preference is for shallow, calcareous, iron-rich volcanic soils (Regosols and Luvisols). Deep loams promote excessive [[cannabis-vegetative-growth-stage]] at the expense of piña sugar accumulation.
 
 ## Cultivation
 
@@ -67,7 +67,7 @@ Yields average 40–60 tonnes of piña per hectare. One kilogram of piña yields
 
 The primary storage carbohydrate is inulin, a linear β(2→1) fructan comprising 60–70% of piña dry weight. During baking, thermal hydrolysis converts inulin to D-fructose and fructose oligomers.
 
-Saponins derived from the leaf sap exhibit hemolytic activity and antimicrobial properties in vitro. The steroidal saponin fraction shows anti-inflammatory activity in rodent models.
+Saponins derived from the leaf sap exhibit hemolytic activity and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] in vitro. The steroidal saponin fraction shows anti-inflammatory activity in rodent models.
 
 Fructans from A. tequilana display prebiotic effects, promoting growth of Bifidobacterium and Lactobacillus species in human fecal cultures. Commercial inulin extraction is a growing secondary industry.
 
@@ -81,7 +81,7 @@ Tequila production generated over USD 4.8 billion in exports in 2023, with the U
 
 The Denomination of Origin (CRT) restricts tequila production to five Mexican states and mandates a minimum 51% A. tequilana sugar content. "100% agave" designation requires exclusive use of the species.
 
-Blue agave cultivation covers an estimated 200,000 hectares in Mexico. Demand growth has driven conversion of diverse agricultural land to monoculture, raising concerns about genetic erosion and soil degradation.
+Blue agave cultivation covers an estimated 200,000 hectares in Mexico. Demand growth has driven conversion of diverse [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] to monoculture, raising concerns about genetic erosion and soil degradation.
 
 Cultural importance extends to pre-Hispanic origins; the Nahua fermented agave juice as pulque centuries before Spanish distillation. The agave harvest remains a ritual practice in rural Jalisco communities.
 

@@ -1,10 +1,10 @@
 ---
-title: Contour Line Water Management
+title: [[comparison-swale-vs-contour-line-water-management]] [[water-management]]
 created: 2026-04-26
 tags:
   - water-management
   - earthworks
-  - permaculture
+  - [[permaculture]]
   - holzer-permaculture
   - landscape-design
 date: 2026-04-25
@@ -37,7 +37,7 @@ rougher material is released first, while finer particles travel further.
 Various layers of earth, clay, stones, and sand accumulate and form the
 landscape over long periods of time.
 
-Contour maps show how water has shaped hollows, valleys, and ridges. These
+Contour [[maps]] show how water has shaped hollows, valleys, and ridges. These
 maps, with their contour lines, are like a painting by Rembrandt onto which
 Picasso has painted over. The original natural harmony has been disrupted by
 human interference over the last hundred years, and the task is to read both
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

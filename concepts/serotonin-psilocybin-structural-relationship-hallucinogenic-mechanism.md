@@ -3,7 +3,7 @@
 
 ## Overview
 
-The structural relationship between serotonin (5-hydroxy [[magic-mushroom-british-underground-1970s]]' is probably caused by their interference with the normal actions of brain serotonin." This structural mimicry is the key to understanding why these plant-derived compounds can profoundly alter human consciousness.
+The serotonin psilocybin structural relationship hallucinogenic mechanism between serotonin (5-hydroxy magic-mushroom-british-underground-1970s' is probably caused by their interference with the normal actions of brain serotonin." This structural mimicry is the key to understanding why these plant-derived compounds can profoundly alter human consciousness.
 
 ## Structural Comparison
 
@@ -30,7 +30,7 @@ Psilocin differs from serotonin in two key respects:
 **Chemical formula:** C₁₂H₁₇N₂O₄P
 **Molecular weight:** 284.25 g/mol
 
-Psilocybin is identical to psilocin except that the 4-hydroxy group is phosphorylated (esterified with phosphoric acid). This phosphate ester group:
+Psilocybin is identical to psilocin except that the 4-hydroxy group is phosphorylated (esterified with [[cho-water-soluble-phosphoric-acid-preparation]]). This phosphate ester group:
 - Increases water solubility
 - Makes the compound more polar and less lipid-soluble
 - Serves as a prodrug — psilocybin is rapidly dephosphorylated in the body to yield the active compound psilocin
@@ -96,7 +96,7 @@ While 5-HT2A activation is the primary mechanism, psilocin also interacts with o
 
 ### The Receptor Trafficking Hypothesis
 
-Recent research has shown that psilocin (and other classic psychedelics) promotes the growth of new dendritic spines and increases synaptogenesis in the prefrontal cortex. This effect, mediated through 5-HT2A receptor activation and BDNF (brain-derived neurotrophic factor) signaling, may underlie the long-lasting therapeutic effects of a single [[bufotenin]]
+Recent research has shown that psilocin (and other classic psychedelics) promotes the growth of new dendritic spines and increases synaptogenesis in the prefrontal cortex. This effect, mediated through 5-HT2A receptor activation and BDNF (brain-derived neurotrophic factor) signaling, may underlie the long-lasting therapeutic effects of a single 
 
 Bufotenin (5-hydroxy-N,N-dimethyltryptamine) is the 5-OH positional isomer of psilocin. Despite having the hydroxy at the same position as serotonin, bufotenin is a much less reliable hallucinogen when taken orally (due to poor blood-brain barrier penetration), though it can be active via other routes.
 
@@ -109,7 +109,7 @@ The structural relationship between serotonin and the hallucinogenic tryptamines
 - The minimum pharmacophore for 5-HT2A activation is an indole ring with a basic amine side chain
 - 4-substitution on the indole ring enhances hallucinogenic potency
 - N-alkylation patterns modulate duration and intensity
-- The receptor binding pocket can accommodate significant structural variation while maintaining selectivity
+- The [[tihkal-receptor-binding-serotonin]] pocket can accommodate significant structural variation while maintaining selectivity
 
 ### For Understanding Consciousness
 
@@ -117,7 +117,7 @@ The fact that a simple molecular modification of a ubiquitous neurotransmitter c
 
 ## See Also
 
-- psilocybin pharmacology and receptor interactions
+- [[emcdda-psilocybin-pharmacology-and-chemistry]] and receptor interactions
 - 5 ht2a receptor and classical psychedelics
 - serotonin neurochemistry and psychedelic interaction
 - [[psilocin-and-psilocybin-chemistry]]-synthesis-shirota

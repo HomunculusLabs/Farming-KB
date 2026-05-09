@@ -1,5 +1,5 @@
 ---
-title: Nervine Herbs and Anxiety Relief
+title: Nervine nervine herbs and anxiety relief Relief
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -11,14 +11,14 @@ sources: []
 Nervines act on the nervous system for stress, anxiety, insomnia, and
 tension. Unlike adaptogens (long-term HPA axis support, see
 [[adaptogenic-herbs-overview]] —
-  adaptogens address underlying stress response while nervines provide
+  adaptogens address underlying [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] while nervines provide
   symptomatic relief.
 - Evening sleep formulas typically combine 2-3 nervines (e.g., valerian +
   passionflower + chamomile).
 
 ## See Also
 
-- [[herbal-medicine-making-basics]] — Preparation methods and shelf life
+- [[herbal-medicine-making-basics]] — Preparation methods and [[psilocybin-shelf-life-stability]]
 - [[cannabis-drug-interactions-and-contraindications]]
 - [[psychedelic-therapy-current-research]]
 - [[herbal-medicine-safety]]
@@ -99,4 +99,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

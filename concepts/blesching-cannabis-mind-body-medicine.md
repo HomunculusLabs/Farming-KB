@@ -10,7 +10,7 @@ type: concept
 
 # Cannabis and Mind-Body Medicine
 
-The Cannabis Health Index integrates a mind-body medicine perspective into
+The [[blesching-cannabis-health-index-autoimmune-conditions]] integrates a mind-body medicine perspective into
 every therapeutic topic it addresses, reflecting the growing recognition that
 emotional, psychological, and spiritual factors play critical roles in health
 outcomes. This framework positions cannabis not merely as a pharmacological
@@ -62,7 +62,7 @@ can measurably affect immune function, inflammation, and pain perception.
 
 ## Psychoneuroimmunology and Cannabis
 
-Psychoneuroimmunology (PNI) is the scientific study of the interaction
+Psychoneuroimmunology (PNI) is the [[roger-heim-scientific-study-psilocybin]] of the interaction
 between psychological processes and the nervous and immune systems of the
 human body. Research in this field has established that chronic stress,
 negative emotional states, and unresolved trauma can suppress immune function,
@@ -90,11 +90,11 @@ associated with better health outcomes.
 ## Emotional and Psychological Dimensions
 
 Each condition addressed in the Cannabis Health Index is explored not only
-through its physiological mechanisms and cannabis treatment options but also
-through its emotional and psychological dimensions. Chronic pain, for example,
+through its [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] and cannabis treatment options but also
+through its emotional and psychological dimensions. [[cannabis-chronic-pain-management]], for example,
 is understood not merely as a neurological signal but as a complex experience
 shaped by emotional state, cultural context, meaning attribution, and
-psychological resilience. Similarly, autoimmune conditions are explored in
+psychological resilience. Similarly, [[cannabis-autoimmune-conditions-detailed]] are explored in
 relation to the emotional suppression and unresolved stress that may
 contribute to immune dysregulation.
 

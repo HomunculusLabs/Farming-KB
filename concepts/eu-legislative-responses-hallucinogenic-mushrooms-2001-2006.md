@@ -3,7 +3,7 @@
 
 ## International Framework
 
-Psilocin and psilocybin are controlled under the 1971 UN Convention on
+[[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] are controlled under the 1971 UN Convention on
 Psychotropic Substances, listed in Schedule I under the names "psilocybine" and
 "psilocine" (or "psilotsin") respectively. All EU member states control these
 substances accordingly. However, the control of the mushrooms themselves — as
@@ -34,7 +34,7 @@ chemical content rather than physical form.
 ### Denmark (July 2001)
 
 Denmark was the first EU country to specifically list hallucinogenic mushrooms
-in its [[mushrooms-as-food-of-the-gods-broma-theon]] Class A controlled drugs under the Drugs Act 2005.
+in its mushrooms-as-food-of-the-gods-broma-theon Class A controlled drugs under the Drugs Act 2005.
 The legislation was specifically designed to close the fresh mushroom loophole
 by making it an offence to sell, prepare, or possess with intent to supply any
 fungus containing psilocin or an ester of psilocin. The change took effect in
@@ -50,7 +50,7 @@ internet sales volume.
 ### Ireland (January 2006)
 
 Ireland enacted its prohibition effective January 31, 2006. The Irish headshop
-THC (thc.ie) removed all hallucinogenic mushroom products from its website. The
+THC (thc.ie) removed all hallucinogenic [[cotter-mushroom-products-and-value-added-applications]] from its website. The
 legal change followed a full inquest into a 2005 case in Dun Laoghaire where a
 33-year-old man died after falling from a fourth-floor building following
 mushroom consumption, though the legal process was already underway before this
@@ -69,7 +69,7 @@ receiving country.
 Some countries confronted the problem of wild-growing fungi. There was reluctance
 to criminalize people who might own land where [[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]] capsules
 (containing Hawaiian Baby Woodrose with LSA) as replacements. The EMCDDA noted
-that use of Amanita muscaria "may pose [[amanita-species-ecology-identification-mycohhizal]] being potentially fatal.
+that use of [[allegro-amanita-muscaria-properties-and-pharmacology]] "may pose [[amanita-species-ecology-identification-mycohhizal]] being potentially fatal.
 
 ## Lessons for Drug Policy
 
@@ -77,7 +77,7 @@ The EMCDDA case study highlighted that the [[eu-hallucinogenic-mushroom-smartsho
 - [[amanita-muscaria-chemistry-and-pharmacology]]
 ## Practical Considerations
 
-Successful implementation of Eu Legislative Responses Hallucinogenic Mushrooms 2001 2006 requires attention to
+Successful implementation of Eu Legislative eu legislative responses hallucinogenic mushrooms 2001 2006 Mushrooms 2001 2006 requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

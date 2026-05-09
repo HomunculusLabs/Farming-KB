@@ -48,7 +48,7 @@ discharged from the mother cell by a droplet-mediated
 mechanism similar to the ballistospore discharge of
 basidiomycete mushrooms. Water condenses at the base of
 the developing spore, forming a Buller's drop. When
-sufficient water has accumulated, the surface tension at
+sufficient water has accumulated, the [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] at
 the drop-spore interface overcomes the attachment force,
 and the spore is launched into the air.
 
@@ -81,7 +81,7 @@ and other habitats.
 - **Sporidiobolus**: Sexual state of Sporobolomyces,
   producing teliospores and a basidium with basidiospores.
   Sporidiobolus johnsonii is a common species in soil and
-  leaf litter.
+  [[dighton-fungal-decomposition-leaf-litter-dynamics]].
 - **Bulleromyces**: A genus named in honor of A. H. R.
   Buller, who first described the mechanism of
   ballistospore discharge. Bulleromyces albus produces
@@ -96,7 +96,7 @@ and other habitats.
 Basidiomycetous yeasts are among the most abundant fungi
 on leaf surfaces (the phyllosphere). In the phyllosphere,
 some yeastlike fungi and a few basidiomycetous species
-are regular components of the microbial community. Red
+are regular components of the [[edaphic-factors-microbial-community-structure]]. Red
 yeasts in the genera Sporobolomyces and Sporidiobolus are
 frequently isolated from leaf surfaces worldwide, and
 their populations can reach high densities during favorable
@@ -118,7 +118,7 @@ Several basidiomycetous yeasts have demonstrated
 biocontrol activity against plant pathogenic fungi:
 
 - **Tilletiopsis species**: Have shown antagonistic
-  activity against powdery mildew fungi on various crops.
+  activity against [[cervantes-powdery-mildew-prevention-treatment]] fungi on various crops.
   The mechanism involves competition for nutrients and
   space on the leaf surface, as well as possible production
   of antifungal compounds.
@@ -129,7 +129,7 @@ biocontrol activity against plant pathogenic fungi:
   biocontrol agent for powdery mildew management.
 - **Sporobolomyces species**: Some isolates show
   antagonism against post-harvest pathogens of fruits and
-  may contribute to the natural biological control that
+  may contribute to the natural [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] that
   occurs on fruit surfaces.
 
 ### Mechanisms of Biocontrol

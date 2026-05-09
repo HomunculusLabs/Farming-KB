@@ -1,5 +1,5 @@
 ---
-title: "Earthbag vs Cob Construction"
+title: "comparison earthbag vs cob construction Construction"
 tags: [comparison, earthbag, cob, natural-building]
 date: 2026-04-28
 updated: 2026-04-28
@@ -10,12 +10,12 @@ type: comparison
 
 # Earthbag vs Cob Construction
 
-Earthbag and cob are two of the most accessible natural building methods
+Earthbag and cob are two of the most accessible [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] methods
 available to owner-builders. Both use earth as their primary material,
 both require minimal manufactured inputs, and both can be learned through
 workshops and self-study rather than formal engineering training. However,
 they differ fundamentally in their construction process, structural behavior,
-and the types of buildings they are best suited for. Earthbag construction
+and the types of buildings they are best suited for. [[comparison-earthbag-construction-vs-cob-construction]]
 fills polypropylene bags or tubes with moistened earth and lays them in
 courses like oversized masonry, while cob mixes earth, sand, and straw into
 a monolithic sculptable material built up by hand.
@@ -87,7 +87,7 @@ resulting walls have a warmth and character that is difficult to replicate
 with any other material.
 
 Cob walls are thick and massive, providing excellent thermal mass for
-passive solar heating and cooling. In temperate climates, cob buildings
+[[comparison-passive-solar-vs-earth-sheltered]] heating and cooling. In temperate climates, cob buildings
 stay cool in summer and warm in winter with minimal supplementary heating.
 However, cob has limited insulation value (approximately R-0.5 to R-1.0 per
 inch), so in very cold climates, additional insulation strategies may be

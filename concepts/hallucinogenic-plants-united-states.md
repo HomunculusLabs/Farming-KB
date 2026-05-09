@@ -1,11 +1,11 @@
 ---
-title: Hallucinogenic Plants United States
+title: sacramental-religious-use-hallucinogenic-plants-united-states States
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources: []
 ---
 
 # Hallucinogenic Plants Growing in the United States
@@ -16,9 +16,9 @@ A wide variety of psychoactive plants and fungi grow naturally, in gardens, or a
 
 ## Psilocybin-Containing Mushrooms
 
-Psilocybe cubensis and other psilocybin-containing mushroom species grow in many regions of the United States. These mushrooms contain psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine) and its active metabolite psilocin (4-hydroxy-N,N-dimethyltryptamine).
+[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] and other psilocybin-containing mushroom species grow in many regions of the United States. These mushrooms contain psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine) and its active metabolite psilocin (4-hydroxy-N,N-dimethyltryptamine).
 
-In the US, psilocybin mushrooms are primarily coprophagous, growing on cow and horse manure. Their range extends from Florida through the southern Gulf States to Texas, in pasture and grain fields, and along the coastline of the Pacific Northwest from California into Canada. They fruit most abundantly in warm, humid conditions following rainfall.
+In the US, [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] are primarily coprophagous, growing on cow and horse manure. Their range extends from Florida through the southern Gulf States to Texas, in pasture and grain fields, and along the coastline of the Pacific Northwest from California into Canada. They fruit most abundantly in warm, humid conditions following rainfall.
 
 Psilocybe cubensis, the most common species, typically contains 10-12 mg psilocybin per gram of dried mushroom. Intoxication peaks within the first 2 hours and diminishes over 3-4 hours. A threshold dose is approximately 40 micrograms per kilogram of body weight, with typical recreational doses ranging from 1-2 grams of dried mushroom material.
 
@@ -28,11 +28,11 @@ A serious risk with wild mushroom foraging is misidentification. Several mushroo
 
 ## LSA-Containing Plants
 
-Lysergic acid amide (LSA, also called ergine) is found in the seeds of several plants. Argyreia nervosa (Hawaiian baby woodrose) contains approximately 0.14% LSA by dry seed weight. Ipomoea violacea (morning glory) contains approximately 0.02% LSA by dry seed weight. Both are popular ornamental plants, and commercial morning glory seeds are often coated with emetic poisons to discourage ingestion.
+Lysergic acid amide (LSA, also called ergine) is found in the seeds of several plants. [[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]] (Hawaiian baby woodrose) contains approximately 0.14% LSA by dry seed weight. Ipomoea violacea (morning glory) contains approximately 0.02% LSA by dry seed weight. Both are popular ornamental plants, and commercial morning glory seeds are often coated with emetic poisons to discourage ingestion.
 
 Hallucinogenic activity occurs at 2-5 mg of LSA, providing a 4-8 hour intoxication reportedly different in both quality and quantity from LSD. Seeds are crushed, germinated, eaten whole, or soaked in water for extraction. Five to ten Argyreia nervosa seeds or 150-200 Ipomoea violacea seeds yield average doses.
 
-Historically, Ipomoea violacea and related species were used in Central America for shamanic and ceremonial purposes. The highest LSA concentrations have been found in Stipa robusta (sleepygrass) growing in the American southwest, though this species has no history of traditional use.
+Historically, Ipomoea violacea and related species were used in [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] for shamanic and ceremonial purposes. The highest LSA concentrations have been found in Stipa robusta (sleepygrass) growing in the American southwest, though this species has no history of traditional use.
 
 [[hallucinogenic-plant-chemistry]]
 
@@ -65,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

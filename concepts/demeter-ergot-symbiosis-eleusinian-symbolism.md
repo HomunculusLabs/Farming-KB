@@ -31,7 +31,7 @@ Ruck's central insight was that barley and ergot were understood as siblings in 
 
 ## The Revertive Pattern
 
-The ergot lifecycle demonstrated a visible return to wild fungal growth: when sclerotia fell to the ground, "there grew from them not grain but tiny purple mushrooms, the fruiting bodies of the ergot fungus, clearly a return to the species of the unregenerate, wild Dionysian abductor." This encoded the broader pattern of civilization threatened by reversion to wildness — and the Eleusinian Mystery as the ritualized resolution of this tension.
+The ergot lifecycle demonstrated a visible return to wild fungal growth: when sclerotia fell to the ground, "there grew from them not grain but tiny purple mushrooms, the fruiting bodies of the ergot fungus, clearly a return to the species of the unregenerate, wild Dionysian abductor." This encoded the broader pattern of civilization threatened by reversion to wildness — and the [[mckenna-eleusinian-mystery-and-psychedelic-sacrament]] as the ritualized resolution of this tension.
 
 ## Demeter's Refusal of Wine
 
@@ -47,7 +47,7 @@ A papyrus fragment from Eupolis's comedy "The Demes" (shortly after the scandal 
 
 ## The Ergot Lifecycle and Eleusinian Paradox
 
-The lifecycle of [Claviceps purpurea provides the biological foundation for the Demeter-ergot symbiosis and the central paradox of the [[eleusinian-mysteries]]. The ergot fungus infects grain plants — particularly barley, wheat, and rye — replacing the grain kernel with a dark, purplish sclerotium (the ergot body). This sclerotium contains a complex mixture of alkaloids, including both the water-soluble psychoactive compounds (lysergic acid amide, ergonovine) and the insoluble medicinal alkaloids (ergotamine, ergocristine).
+The lifecycle of [[bloomfield-ergot-claviceps-purpurea-ergotism]] provides the biological foundation for the Demeter-ergot symbiosis and the central paradox of the [[eleusinian-mysteries]]. The ergot fungus infects grain plants — particularly barley, wheat, and rye — replacing the grain kernel with a dark, purplish sclerotium (the ergot body). This sclerotium contains a complex mixture of alkaloids, including both the water-soluble psychoactive compounds (lysergic acid amide, ergonovine) and the insoluble medicinal alkaloids (ergotamine, ergocristine).
 
 The lifecycle of ergot mirrors the Demeter-Persephone myth with remarkable precision:
 
@@ -65,9 +65,9 @@ This biological parallel was almost certainly not coincidental. The [ergot alkal
 
 The association between grain deities and fungal symbionts is not unique to Greek culture. The [worldwide distribution of hallucinogenic plants includes several grain-fungus associations that parallel the Demeter-ergot relationship:
 
-- **Soma in Vedic India**: The identity of soma remains debated, but several scholars have proposed fungal candidates, including [[amanita-muscaria-entity]] and various ergotized grains. The soma ritual, like the Eleusinian Mysteries, involved the preparation of a sacred drink from plant material under strict ritual conditions.
+- **Soma in Vedic India**: The identity of soma remains debated, but several scholars have proposed fungal candidates, including [[amanita-muscaria-entity]] and various ergotized grains. The soma ritual, like the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]], involved the preparation of a sacred drink from plant material under strict ritual conditions.
 
-- **Mesoamerican corn and ergot**: Corn (maize) in Mesoamerica was subject to ergot infection, and the [sacred morning glories ([[ololiuqui]]) used in Mesoamerican ritual contain the same ergoline alkaloids found in Claviceps purpurea. The pharmacological convergence between Greek and Mesoamerican grain-fungus traditions is one of the strongest arguments for the [comparative entheogenic hypothesis.
+- **Mesoamerican corn and ergot**: Corn (maize) in Mesoamerica was subject to ergot infection, and the [sacred [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] ([[ololiuqui]]) used in Mesoamerican ritual contain the same ergoline alkaloids found in Claviceps purpurea. The pharmacological convergence between Greek and Mesoamerican grain-fungus traditions is one of the strongest arguments for the [comparative entheogenic hypothesis.
 
 - **European ergotism epidemics**: The medieval epidemics of ergotism (St. Anthony's Fire) demonstrate that ergot-infested grain was a recurring feature of European agriculture, making it likely that ancient Greeks were equally familiar with its properties — both toxic and potentially psychoactive.
 
@@ -75,7 +75,7 @@ The association between grain deities and fungal symbionts is not unique to Gree
 
 Modern [ergot chemistry has confirmed the essential elements of the Demeter-ergot hypothesis. gordon-wasson's laboratory work in the 1930s-1970s established that ergot of barley contains water-soluble alkaloids — particularly ergonovine and lysergic acid amide — that are psychoactive at appropriate doses. His [self-experiment with ergonovine in 1976 demonstrated that these compounds can produce altered states of consciousness when consumed orally.
 
-The [Hofmann ergot alkaloid research program provided the chemical foundation for the [Wasson-Hofmann-Ruck theory, confirming that the psychoactive component of the Eleusinian kykeon was chemically plausible. Modern [pharmacological research has further confirmed that ergoline alkaloids act primarily as serotonin receptor agonists, producing the characteristic visionary effects that ancient initiates described as encounters with the divine.
+The [Hofmann ergot alkaloid research program provided the chemical foundation for the [Wasson-Hofmann-Ruck theory, confirming that the psychoactive component of the Eleusinian kykeon was chemically plausible. Modern [pharmacological research has further confirmed that ergoline alkaloids act primarily as serotonin [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]], producing the characteristic visionary effects that ancient initiates described as encounters with the divine.
 
 The [ergot hypothesis for the kykeon remains the most chemically specific and pharmacologically plausible explanation for the Eleusinian visionary experience, though the [scholarly debate continues and alternative hypotheses (including non-pharmacological explanations based on architecture, drama, and suggestion) have been proposed.
 
@@ -86,7 +86,7 @@ The [ergot hypothesis for the kykeon remains the most chemically specific and ph
 
 - [Claviceps purpurea chemistry
 
-- [Kykeon and ergot hypothesis
+- [Kykeon [[kykeon-potion-and-ergot-hypothesis-at-eleusis]]
 
 - [Kykeon preparation ritual
 

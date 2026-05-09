@@ -82,11 +82,11 @@ A. unedo provides important autumn-winter food for birds, including thrushes, bl
 
 The nectar-rich flowers are a late-season resource for pollinators, particularly bees, producing the distinctive bitter-strawberry-flavored "strawberry tree honey" (miele di corbezzolo) prized in Sardinia and Corsica.
 
-In permaculture design, the strawberry tree serves multiple functions: nitrogen-poor soil stabilizer, windbreak component, and dual-purpose food crop.
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], the strawberry tree serves multiple functions: nitrogen-poor soil stabilizer, windbreak component, and dual-purpose food crop.
 
-Its drought tolerance and fire resilience make it suitable for Mediterranean food forests and reforestation projects on degraded land.
+Its [[dighton-fungal-drought-tolerance-plant-water-relations]] and fire resilience make it suitable for Mediterranean food forests and reforestation projects on degraded land.
 
-The wood is hard and fine-grained, historically used for tool handles, charcoal production, and turnery.
+The wood is hard and fine-grained, historically used for tool handles, [[mollison-designers-charcoal-production-biochar-soil-amendment]], and turnery.
 
 In landscaping, it is planted as an ornamental specimen for its year-round appeal, bark texture, and non-invasive root system.
 
@@ -110,7 +110,7 @@ The fruit ripens over an extended period from October through December, requirin
 
 ## See Also
 
-- [[arctostaphylos-uva-ursi]]
+- arctostaphylos-uva-ursi
 - [[quercus-robur]]
 - [[urtica-dioica]]
 - [[betula-pendula]]

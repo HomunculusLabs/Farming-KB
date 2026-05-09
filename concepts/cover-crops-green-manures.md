@@ -1,5 +1,5 @@
 ---
-title: Permaculture Cover Crops and Green Manures
+title: Permaculture Cover cover-crops-green-manures Manures
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -21,7 +21,7 @@ Cover crops are plants grown to cover and protect bare soil between main crop ro
 
 ### Nitrogen Fixation
 Leguminous cover crops fix atmospheric nitrogen through symbiotic bacteria (Rhizobia) in their root nodules:
-- **Crimson clover:** Fixes 70-130 lbs N/acre; beautiful red flowers; winter annual
+- **[[comparison-lupin-vs-crimson-clover-green-manure]]:** Fixes 70-130 lbs N/acre; beautiful red flowers; winter annual
 - **Hairy vetch:** Fixes 90-200 lbs N/acre; vigorous; hardy to -15°F
 - **Field peas:** Fixes 100-175 lbs N/acre; fast-growing; edible
 - **Fava beans:** Fixes 150-200 lbs N/acre; edible; deep-rooted
@@ -31,7 +31,7 @@ Leguminous cover crops fix atmospheric nitrogen through symbiotic bacteria (Rhiz
 ### Organic Matter Addition
 All cover crops add organic matter when cut or incorporated:
 - **Annual ryegrass:** Produces massive root mass and top growth; excellent for building soil structure
-- **Buckwheat:** Fast-growing summer cover; produces abundant organic matter in 6 weeks; attracts beneficial insects
+- **Buckwheat:** Fast-growing summer cover; produces abundant organic matter in 6 weeks; attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - **Oats:** Fast-growing fall cover; winter-kills in cold climates leaving a mulch layer
 - **Sorghum-sudangrass:** Produces enormous biomass in hot weather; deep roots break compaction
 
@@ -55,7 +55,7 @@ Cover crop roots improve soil structure:
 - **Alfalfa:** Very deep taproot (10-20 feet) breaks subsoil compaction
 
 ### Pest Management
-Some cover crops disrupt pest and disease cycles:
+Some cover crops disrupt [[hamilton-pest-and-disease-control-organic]] cycles:
 - **Buckwheat:** Attracts beneficial insects; smothers weeds that harbor pests
 - **Marigold:** Root exudates suppress soil nematodes
 - **Sudangrass:** Produces compounds toxic to certain soil pathogens
@@ -84,7 +84,7 @@ Some cover crops disrupt pest and disease cycles:
 - **Need erosion control?** Winter rye, cereal rye, annual ryegrass
 - **Need weed suppression?** Buckwheat, winter rye, sorghum-sudangrass
 - **Need to break compaction?** Daikon radish, alfalfa, sorghum-sudangrass
-- **Need beneficial insect habitat?** Buckwheat, clover, phacelia
+- **Need beneficial [[hemenway-insectary-plants-and-beneficial-insects]]?** Buckwheat, clover, phacelia
 
 ## Management
 
@@ -92,7 +92,7 @@ Some cover crops disrupt pest and disease cycles:
 - Broadcast seed and rake lightly, or drill at recommended depth
 - Inoculate legume seed with appropriate Rhizobium bacteria for maximum nitrogen fixation
 - Plant 4-6 weeks before first frost for fall cover crops
-- Cut or incorporate at flowering stage (before seeds set)
+- Cut or incorporate at [[cannabis-flowering-stage-management]] (before seeds set)
 
 ### Termination
 - **Chop and drop:** Cut at soil level and leave as mulch (no-till method; preserves soil life)
@@ -116,8 +116,8 @@ Some cover crops disrupt pest and disease cycles:
 
 - [[gaias-garden-cover-crops-soil-building]]
 - [[permaculture-nitrogen-fixing-trees-guide]]
-- [[mollison-mulching-and-soil-health]]
-- [[mollison-soil-improvement-and-rehabilitation]]
+- mollison-mulching-and-soil-health
+- mollison-soil-improvement-and-rehabilitation
 
 ## Source
 

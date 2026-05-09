@@ -1,5 +1,5 @@
 ---
-title: Soil Treatment Solution and Seed Treatment
+title: Soil Treatment Solution and jadam-seed-treatment-and-nursery-management
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -8,10 +8,10 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-In Dr. Cho's Natural Farming system, soil conditioning and seed
+In Dr. Cho's [[comparison-natural-farming-vs-permaculture]] system, soil conditioning and seed
 preparation use specific multi-input solutions rather than single
 chemicals. The Soil Treatment Solution (SOS) replaces conventional
-deep tilling, and the Seed/Seedling Solution (SES) restores natural
+deep tilling, and the Seed/[[cho-seed-seedling-solution-treatment]] (SES) restores natural
 vitality to commercially produced seeds.
 
 ## Philosophy: Nature's Tillers
@@ -108,3 +108,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[cho-seed-and-seedling-vitality-restoration]]

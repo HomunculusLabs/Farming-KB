@@ -3,18 +3,14 @@ title: Fungal-Insect Interactions and Diversity
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Interactions with Insects
-
-Fungi have evolved intimate associations with diverse insect groups, ranging from mutualistic symbioses to parasitic relationships. These interactions represent some of the most complex and ecologically significant fungus-animal relationships.
-
-[[fungal-beetle-symbiosis]] [[ant-termite-fungal-symbiosis]]
+# Fungal Interactions with Insects Fungi have evolved intimate associations with diverse insect groups, ranging from mutualistic symbioses to parasitic relationships. These interactions represent some of the most complex and ecologically significant fungus-animal relationships. [[fungal-beetle-symbiosis]] [[ant-termite-fungal-symbiosis]]
 
 ## Lower vs Higher Attines
 
-Associations between attine ant species and their fungi differ, ranging from relatively loose associations in lower attines (Mycocepurus, Mycetophylax, Mycetarotes, Mycetosoritis, Sericomyrmex) to fixed clonal associations in higher attines (Atta, Acromyrmex, Apterostigma).
+Associations between [[escovopsis-parasitic-fungi-attine-ant-gardens]] species and their fungi differ, ranging from relatively loose associations in lower attines (Mycocepurus, Mycetophylax, Mycetarotes, Mycetosoritis, Sericomyrmex) to fixed clonal associations in higher attines (Atta, Acromyrmex, Apterostigma).
 
 Because fungi are transferred asexually from one generation to the next in the higher attines, sampling in a given location or country may produce very low diversity of ant-associated fungi. Regulatory mechanisms fine-tuning the relationships between ants and fungi may be most diverse in the otherwise taxonomically least diverse fungi of the higher attines.
 
@@ -34,7 +30,7 @@ Bark beetles carry stain fungi that can interact with wood wasp-associated fungi
 
 These associations range from mutualistic to pathogenic, with beetles serving as vectors for fungal dispersal while fungi may improve host quality for beetle larvae or contribute to tree killing.
 
-[[fungal-parasites]] [[fungal-endophytes-plant-fitness]] [[fungal-functional-diversity]] [[fungal-community-assembly]]
+[[fungal-parasites]] [[fungal-endophytes-plant-fitness]] fungal-functional-diversity [[fungal-community-assembly]]
 ## Practical Applications
 
 Fungal-Insect Interactions and Diversity has a range of practical applications that make it relevant to
@@ -112,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

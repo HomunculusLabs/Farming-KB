@@ -1,10 +1,11 @@
 ---
-title: "Food Forest Design vs Backyard Orchard Design"
+title: "Food Forest Design vs Backyard mollison-designers-mixed-orchard-design-species-selection"
 created: 2026-04-28
 tags: [comparison, permaculture, food-production, fruit-trees, design]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -13,8 +14,8 @@ type: comparison
 ## Overview
 Food forest design and backyard orchard design both produce food from perennial tree
 plantings, but they differ dramatically in complexity, diversity, and management
-approach. Food forest design mimics natural forest structure with seven vertical
-layers, guild-based plant communities, and ecological succession planning to create
+approach. Food forest design mimics natural [[mollison-wet-tropical-forest-structure-and-polyculture]] with seven vertical
+layers, guild-based plant communities, and [[holmgren-ecological-succession-and-pulsing]] planning to create
 self-sustaining edible ecosystems. Backyard orchard design focuses on practical fruit
 tree production through rootstock selection, pollination group planning, sun exposure
 optimization, and spacing for small yards. Comparing them matters because choosing
@@ -43,7 +44,7 @@ productivity. A well-planned four-tree backyard orchard can provide hundreds of
 pounds of fruit annually from a modest suburban yard.
 
 The primary limitations of backyard orchards are ongoing maintenance requirements
-that do not decrease over time, vulnerability to pest and disease pressure without
+that do not decrease over time, vulnerability to [[hamilton-pest-and-disease-control-organic]] pressure without
 the ecological buffers of a diverse polyculture, and limited production diversity
 focused primarily on tree fruits. However, for gardeners seeking concentrated,
 predictable harvests of high-quality fruit with manageable care routines, the
@@ -59,7 +60,7 @@ results with focused effort.
 | Best For | Self-sufficiency and ecological resilience | Maximum fruit in small spaces |
 | Drawbacks | Long maturity, complex harvest | Ongoing maintenance, less diversity |
 | Layers | 7 vertical layers | Primarily canopy only |
-| Species Count | 50 to 100+ species | 5 to 15 fruit varieties |
+| Species Count | 50 to 100+ species | 5 to 15 [[holzer-stone-fruit-varieties-and-growing]] |
 | Timeline | 5 to 10+ years to maturity | 3 to 5 years with dwarf stock |
 | Maintenance | Decreasing over time | Ongoing annual pruning and care |
 | Space Required | One-eighth acre minimum | Works in small yards |
@@ -72,7 +73,7 @@ patient establishment in exchange for decreasing maintenance and increasing ecol
 benefits over decades. Food forests are ideal for maximizing biodiversity and wildlife
 habitat, producing food across all layers and seasons, building soil health through
 ecological processes, and creating climate-resilient food systems that can withstand
-pest pressure and weather extremes through internal redundancy and ecological balance.
+pest pressure and weather extremes through internal redundancy and [[fukuoka-ecological-balance-principles]].
 
 ## When to Choose Backyard Orchard Design
 Backyard orchard design suits small to medium yards where fruit production is the
@@ -97,7 +98,9 @@ nutrient cycles emerging naturally from the increasing plant diversity.
 
 ## See Also
 
+- [[comparison-food-forest-vs-orchard]]
+
 - [[comparison-food-forest-vs-backyard-orchard]]
 - [[food-forest-layers-and-species]]
 - [[guild-design-methods]]
-- [[hemenway-guild-design-roles-and-assembly]]
+- hemenway-guild-design-roles-and-assembly

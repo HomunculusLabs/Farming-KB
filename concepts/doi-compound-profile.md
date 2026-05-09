@@ -47,7 +47,7 @@ The PIHKAL entries for DOI document experiences from 0.6 mg to 3.5 mg of the rac
 
 **At 0.6 mg:** "Nice spacey light-headedness for a few hours, time seemed to move slowly. Generic sadness came over me, reminiscing about earlier days. Mood became healthy by about the seventh hour." — A sub-threshold to light experience notable for its melancholic emotional tone.
 
-**At 1.6 mg:** "General nature of the experience was depressing, with a sad view of life. No way to connect with emotions. At ninth hour, aborted with 125 micrograms of [[dob-compound-profile]], [[ayahuasca-preparation-and-ceremony]]. The only exception was [[mdma-compound-profile]]." This R-preference is a consistent feature of psychedelic amphetamines and reflects the stereochemistry of the 5-HT2A receptor binding site.
+**At 1.6 mg:** "General nature of the experience was depressing, with a sad view of life. No way to connect with emotions. At ninth hour, aborted with 125 micrograms of [[dob-compound-profile]], [[ayahuasca-preparation-and-ceremony]]. The only exception was [[mdma-compound-profile]]." This R-preference is a consistent feature of psychedelic amphetamines and reflects the stereochemistry of the 5-HT2A [[tihkal-receptor-binding-serotonin]] site.
 
 ## Receptor Binding and Research Use
 
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -5,12 +5,12 @@ type: species
 tags: [psilocybin, mushroom, gymnopilus, cortinariaceae, entheogen]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+sources: sources: []
 ---
 
 # Gymnopilus viridans
 
-**Gymnopilus viridans** is a large, orange-capped mushroom in the family Cortinariaceae (or Hymenogastraceae under recent taxonomy) that contains psilocybin and psilocin. It is one of several *Gymnopilus* species known to produce psychoactive compounds, though it is relatively uncommon and less well-documented than its close relatives *G. spectabilis* and *G. junonius*. The species was described by American mycologist **Murrill** from collections in the eastern United States.
+**Gymnopilus viridans** is a large, orange-capped mushroom in the family Cortinariaceae (or Hymenogastraceae under recent taxonomy) that contains psilocybin and psilocin. It is one of several *Gymnopilus* species known to produce psychoactive compounds, though it is relatively uncommon and less well-documented than its close relatives *G. spectabilis* and *G. junonius*. The species was described by American mycologist **Murrill** from collections in the eastern [[dmt-containing-plants-united-states-halpern]].
 
 ## Taxonomy and Etymology
 
@@ -35,7 +35,7 @@ The genus name *Gymnopilus* derives from Greek *gymnos* (naked) and *pilus* (cap
 - Adnate to subdecurrent
 - Close to crowded
 - Color: yellow-orange when young, becoming greenish with age (the distinguishing feature)
-- Spore print: rusty brown to ferruginous (orange-brown)
+- [[comparison-spore-print-collection-vs-spore-syringe-production]]: rusty brown to ferruginous (orange-brown)
 
 ### Stipe (Stem)
 - 40–100 mm long, 8–20 mm thick
@@ -61,8 +61,8 @@ The genus name *Gymnopilus* derives from Greek *gymnos* (naked) and *pilus* (cap
 
 *Gymnopilus viridans* is found in:
 
-- **Eastern North America:** From the Great Lakes region south to the Gulf Coast, extending eastward to the Atlantic
-- **Central America:** Reported from Mexico
+- **[[polypore-fungi-eastern-north-america]] America:** From the Great Lakes region south to the Gulf Coast, extending eastward to the Atlantic
+- **[[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]:** Reported from Mexico
 - **Possible range:** Other temperate regions, though records are scarce
 
 It is a **wood-decomposing species** (saprotrophic) that fruits on:
@@ -99,7 +99,7 @@ The key identifying feature of *G. viridans* is the **greenish coloration** that
 
 1. **Bitter compounds:** All *Gymnopilus* species contain bitter principles that may cause gastrointestinal distress
 2. **Toxicity risk:** Some *Gymnopilus* species contain compounds that are not fully characterized; the risk of consuming unknown toxic alkaloids alongside psilocybin is real
-3. **Confusion risk:** Several *Gymnopilus* species are non-psychoactive and potentially more toxic; accurate identification requires microscopic examination
+3. **Confusion risk:** Several *Gymnopilus* species are non-psychoactive and potentially more toxic; accurate identification requires [[fungal-microscopic-examination-mounting-media-techniques]]
 4. **Gastrointestinal effects:** Nausea and vomiting are commonly reported even from confirmed psychoactive collections
 
 ## Similar Species
@@ -117,5 +117,5 @@ The green coloration in *G. viridans* is thought to result from the oxidation of
 - [[gymnopilus-junonius]]
 - [[gymnopilus-purpuratus]]
 - [[gymnopilus-aeruginosus]]
-- [[stamets-psylo-minor-genera-conocybe-gymnopilus]]
+- [[stamets-psilocybin-genera-beyond-psilocybe]]
 - [[gymnopilus-spectabilis-profile]]

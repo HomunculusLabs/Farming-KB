@@ -12,7 +12,7 @@ Solomon frames the fundamental issue as a "trust problem": the gardener must tru
 
 Solomon proposes a clear separation of functions:
 
-1. **Organic matter** (from compost, manure, or [[soil-fertility-building-gradient-solomon]].
+1. **[[hamilton-composting-and-organic-matter-management]]** (from compost, manure, or [[soil-fertility-building-gradient-solomon]].
 
 2. **Mineral nutrients** (from COF or other balanced fertilizers) feed the plants directly — the nitrogen, phosphorus, potassium, calcium, and trace minerals that plants require for growth. This is the chemical dimension of soil fertility.
 
@@ -24,7 +24,7 @@ Solomon's COF is a blend of organic and mineral ingredients that provides balanc
 
 ### Basic COF Recipe (per 10 square feet)
 - 4 quarts seed meal (cottonseed, canola, or soybean meal) — primary nitrogen and phosphorus source
-- 1 quart agricultural lime or 1 quart dolomite lime (depending on soil pH) — calcium and magnesium, pH adjustment
+- 1 quart agricultural lime or 1 quart [[cervantes-dolomite-lime-ph-buffering]] (depending on soil pH) — calcium and magnesium, pH adjustment
 - 1/2 quart bone meal or 1/2 quart rock phosphate — additional phosphorus and calcium
 - 1/2 quart kelp meal — trace minerals and growth hormones
 
@@ -33,12 +33,12 @@ Solomon's COF is a blend of organic and mineral ingredients that provides balanc
 - **Lime**: Agricultural lime (calcium carbonate) is used on acid soils; dolomite lime ([[plant-growth-promoting-rhizobacteria]] hormones (cytokinins, auxins) that may enhance root development and stress resistance.
 
 ### Application Rates by Crop Demand
-Solomon categorizes vegetables by nutrient demand and adjusts COF application accordingly:
+Solomon categorizes vegetables by [[vegetable-nutrient-demand-levels]] and adjusts COF application accordingly:
 
 - **Low-demand vegetables** ([[solomon-garden-centers-seedling-traps]]-ley-rotation-soil-restoration|Garden Ley Rotation for Soil Restoration
 - [[complete-organic-fertilizer-cof]]-recipe|Complete Organic Fertilizer Recipe
-- Soil Nutrient Management
-- Composting Methods and Techniques
+- Soil [[green-cannabis-grow-bible-nutrient-management-ppm]]
+- [[natural-farming-guide-composting-methods-and-techniques]] and Techniques
 ## Practical Considerations
 
 When working with Solomon Manure Nutrient Variability Cof, several practical factors should be
@@ -55,7 +55,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -97,4 +97,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

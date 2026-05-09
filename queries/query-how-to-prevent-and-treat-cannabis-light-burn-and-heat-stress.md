@@ -1,11 +1,11 @@
 ---
-title: "How to Prevent and Treat Cannabis Light Burn and Heat Stress?"
+title: "How to query-how-do-i-identify-prevent-and-treat-fusarium-wilt Cannabis Light Burn and query-how-do-i-manage-heat-stress-in-my-cannabis-garden?"
 created: 2026-04-28
 tags: [query, cannabis, light-burn, heat-stress, environment]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 type: query
 ---
 
@@ -13,17 +13,17 @@ type: query
 
 ## Short Answer
 
-Light burn and heat stress are common problems in indoor cannabis grows caused
+Light burn and heat stress are common problems in [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]] grows caused
 by excessive light intensity or high temperatures beyond the plant's comfort
 range. Prevention involves maintaining proper light distance, ensuring adequate
-ventilation, controlling temperature and humidity, and monitoring plants for
+ventilation, controlling [[greg-green-temperature-and-humidity-control]], and monitoring plants for
 early symptoms like upward-curling leaves, bleaching, or fox-tailing buds.
 
 ## Detailed Explanation
 
 Light burn occurs when cannabis plants receive more light intensity than they
 can process through photosynthesis. The condition primarily affects the uppermost
-leaves and bud sites closest to the light source. Unlike nutrient burn, which
+leaves and bud sites closest to the light source. Unlike [[cannabis-nutrient-burn-and-toxicity]], which
 typically affects the tips of lower leaves first, [[heat-stress-cannabis]] results from elevated ambient air temperatures
 that exceed the plant's biological comfort range. Cannabis generally prefers
 daytime temperatures between 70 and 85 degrees Fahrenheit during vegetative
@@ -39,7 +39,7 @@ to move away from heat sources.
 In severe cases, heat stress can cause fox-tailing, where buds develop
 elongated, abnormal calyx growth that protrudes from the main bud structure.
 Fox-tailing is the plant's attempt to increase surface area for transpiration
-and evaporative cooling. You can learn more about this condition in the
+and [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]]. You can learn more about this condition in the
 [[cervantes-vapor-pressure-deficit-transpiration]] helps growers maintain optimal balance between these two
 critical environmental variables throughout the grow cycle.
 
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

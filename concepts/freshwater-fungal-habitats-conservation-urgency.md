@@ -38,13 +38,13 @@ Fungal saprobes play a major role in freshwater ecosystems as
 decomposers of plant and animal tissues. Parasitic fungi occur on
 planktonic and benthic algae, aquatic macrophytes, fish, amphibians,
 invertebrates, and animal-like protists. These ecological roles make
-freshwater fungi integral to nutrient cycling, population regulation,
+freshwater fungi integral to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], population regulation,
 and ecosystem function.
 
 After rain or snow melt, most soils are temporarily transformed into
 aquatic habitats in which chytrids and hyphochytrids are widespread.
 This soil-water interface highlights the connectivity between
-terrestrial and freshwater fungal communities.
+terrestrial and freshwater [[biodiversity-of-fungi-soil-fungal-communities-agriculture]].
 
 ## Habitat Loss and Degradation
 
@@ -65,7 +65,7 @@ composition, and hence ecosystem function, can be detected.
 
 ## Knowledge Gaps by Geographic Region
 
-Knowledge of freshwater fungal diversity is geographically uneven:
+Knowledge of freshwater [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] is geographically uneven:
 
 - **Lake District, England**: extensively studied by H.M. Canter and
   colleagues for chytrids associated with algae
@@ -74,7 +74,7 @@ Knowledge of freshwater fungal diversity is geographically uneven:
 - **Tropics and subtropics**: severely under-sampled for freshwater
   fungi
 - **Developing nations**: almost no systematic surveys of aquatic
-  fungal biodiversity
+  [[biodiversity-fungal-biodiversity-estimation-methods]]
 
 Endemism has not been documented among chytrids and hyphochytrids;
 the prevailing hypothesis is that species are distributed worldwide,
@@ -110,11 +110,11 @@ Several priorities emerge for freshwater fungal conservation:
 
 Standardized methods for sampling freshwater fungi have been developed:
 
-- Gross culture techniques using organic debris and water with baits
+- Gross [[agar-culture-techniques-detailed]] using organic debris and water with baits
   (cellophane, onion skin, chitin, pollen)
 - In-situ baiting using weighted nylon net bags left at study sites
   for phenological studies
-- Dilution plating and direct examination of natural substrata
+- [[particle-filtration-dilution-plating-microfungal-isolation]] and direct examination of natural substrata
 - Specialized methods for different orders of chytrids and
   hyphochytrids
 

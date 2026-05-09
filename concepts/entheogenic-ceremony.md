@@ -1,5 +1,5 @@
 ---
-title: Entheogenic Ceremony
+title: shamanic-entheogenic-ceremony-structure-common-elements
 created: 2026-05-06
 tags: [anthropology, shamanism, ethnobotany, ritual, consciousness, psychotherapy]
 date: 2026-04-28
@@ -17,7 +17,7 @@ Wasson and Jonathan Ott, derives from the same Greek root as "enthusiasm" and
 means "releasing or expressing the divine within."
 Ralph Metzner (1998), in a comparative review published in the Journal of
 Psychoactive Drugs, identified four paradigms of entheogenic use: Western
-psychedelic psychotherapy, traditional shamanic healing rituals, syncretic
+[[metzner-psychedelic-psychotherapy-clinical-history]], traditional [[metzner-shamanic-healing-and-divination-paradigm]] rituals, syncretic
 folk religious ceremonies, and hybrid shamanic-therapeutic rituals.
 
 ## Terminology
@@ -69,14 +69,14 @@ sky, animals, and plants into the chants.
 Participants sit or lie on the floor in a small group. Maria Sabina, the most
 famous Mazatec curandera, became known to the Western world through R. Gordon
 Wasson's 1957 Life magazine article, which triggered international interest in
-psilocybin mushrooms.
+[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]].
 Traditional veladas involve minimal talking among participants, except during
 preparatory phases or post-ceremony clarification of teachings and visions
 received.
 
 ### Ayahuasca Ceremonies
 
-Amazonian ayahuasca ceremonies involve a small group sitting in a circle in
+[[harner-amazonian-ayahuasca-preparation-methods]] ceremonies involve a small group sitting in a circle in
 semidarkness while initiated healers sing icaros (medicine songs) that carry
 the healing and diagnostic work. The icaros have a rapid rhythmic pulse that
 maintains the momentum of the visionary experience and minimizes fixation on
@@ -137,13 +137,12 @@ societies using hallucinogenic plants:
 4. **Metaphysical realms**: Access to multiple worlds or nonordinary
    realities, variously called the "inner world," "spirit world," "upper
    or lower world," "dreamtime," or "otherworld," accessed through journeys
-   or direct perception
 ## See Also
 
 - [[harmala-alkaloids-and-ayahuasca-preparation]] - the Amazonian decoction used in South American
   entheogenic rituals
 - [[set-and-setting]] - the framework for understanding how context shapes
-  psychedelic experience
+  [[leary-psychedelic-experience-bardo-mapping]]
 
 ## See Also
 

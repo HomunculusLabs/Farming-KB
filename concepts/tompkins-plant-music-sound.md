@@ -3,7 +3,7 @@ title: Plants and Music/Sound
 created: 2026-04-26
 aliases: [Dorothy Retallack, plant music experiments, sonic botany]
 tags: [botany, acoustics, music, plant-growth]
-related: [tompkins-plant-perception-experiments, tompkins-plant-electrical-signals, tompkins-ancient-plant-knowledge]
+related: [[tompkins-plant-perception-experiments]], [[tompkins-plant-electrical-signals]], [[tompkins-ancient-plant-knowledge]]]
 sources: Tompkins & Bird, The Secret Life of Plants (1973)
 type: concept
 updated: 2026-04-26
@@ -123,4 +123,5 @@ thirds and fifths -- "form-carrying prototypes" shaping blossom forms.
 
 - [[plant-perception]]
 - [[plant-fungal-signaling-mycorrhiza]]
-- [[mycorrhizal-plant-signaling]]
+- mycorrhizal-plant-signaling
+- [[mycorrhiza]]

@@ -4,7 +4,9 @@ created: 2026-04-28
 tags: [comparison, nitrogen-fixing-trees, permaculture, species, agroforestry]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
 
@@ -13,11 +15,11 @@ type: comparison
 ## Overview
 Black locust (*Robinia pseudoacacia*) and honey locust (*Gleditsia
 triacanthos*) are two of the most valuable nitrogen-fixing leguminous
-trees in temperate permaculture design. Both are native to North America,
+trees in temperate [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. Both are native to [[psilocybin-north-america-pacific-northwest]],
 produce durable timber, and offer multiple yields, yet they serve
 distinctly different roles in farm and landscape systems. Understanding
-their strengths helps designers choose the right tree for timber
-production, livestock fodder, honey production, or silvopastoral
+their strengths helps designers [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] tree for timber
+production, livestock fodder, [[mollison-designers-beekeeping-honey-production-permaculture]], or silvopastoral
 integration.
 
 ## Black Locust
@@ -31,7 +33,7 @@ as livestock feed. Mature selected groves can produce 50-60 tonnes of
 pods per hectare per year, providing significant stock feed with minimal
 input.
 
-The tree's deep root system gives it exceptional drought tolerance, and
+The tree's deep root system gives it exceptional [[dighton-fungal-drought-tolerance-plant-water-relations]], and
 its deciduous habit is a deliberate design advantage, allowing winter
 sunlight to reach pasture or understorey crops beneath its canopy. Its
 heartwood is extremely durable, reportedly lasting 100 years untreated in
@@ -58,7 +60,7 @@ wide range of sites.
 | Drought tolerance | Moderate | Exceptional (deep roots) |
 | Suckering | Aggressive, invasive | From damaged roots only |
 | Shade provision | Dense, evergreen-ish canopy | Deciduous, designed shade |
-| Best system fit | Timber coppice, erosion control | Silvopasture, grazing systems |
+| Best system fit | Timber coppice, [[permplant-willows-salix-erosion-control-fodder]] | Silvopasture, grazing systems |
 
 ## When to Choose Black Locust
 Black locust is the clear choice when timber or firewood production is
@@ -96,5 +98,5 @@ species as complementary elements rather than choosing only one.
 
 - [[comparison-honey-bees-vs-native-solitary-bees]]
 - [[silvopasture-systems]]
-- [[tagasaste]]
-- [[carob]]
+- tagasaste
+- carob

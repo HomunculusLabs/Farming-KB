@@ -3,7 +3,8 @@ title: Holzer Water Management (Ponds and Springs)
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 type: concept
 tags: [holzer, water]
 ---
@@ -21,7 +22,7 @@ When planning ponds or water gardens, Holzer assesses:
 2. **Topography**: Critical for pond stability and water flow management. Building the pond properly prevents leaking or sliding.
 3. **Existing water**: Natural springs, wet areas, and groundwater are major advantages. Naturally occurring water is a real advantage.
 4. **Drainage basins**: Understanding where water naturally collects and flows
-5. **Purpose**: Fish/crayfish ponds have different requirements from water gardens for plants or natural swimming pools
+5. **Purpose**: Fish/crayfish ponds have different requirements from water gardens for plants or [[comparison-natural-swimming-pool-vs-conventional-pool]] pools
 
 ## Working with Different Soil Types
 
@@ -45,7 +46,7 @@ When planning ponds or water gardens, Holzer assesses:
 ### Retaining Water
 
 - [[holzer-raised-bed-techniques-hugelkultur]] absorb water over large areas
-- Hollows between raised beds store water
+- Hollows between [[comparison-raised-beds-vs-hugelkultur]] store water
 - In dry areas, water must never be drained away -- land should be designed to retain it
 - In wet areas, drainage prevents acidification of raised beds
 - Ditches store surface water and runoff, letting moisture seep into surrounding soil
@@ -81,3 +82,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[holzer-vole-management-philosophy]]

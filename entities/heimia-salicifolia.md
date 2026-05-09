@@ -1,5 +1,5 @@
 ---
-title: Heimia salicifolia
+title: sinicuichi-heimia-salicifolia-auditory-hallucinogen
 created: 2026-04-28
 type: species
 tags:
@@ -36,13 +36,13 @@ The plant has a woody base with multiple branching stems. The bark is smooth and
 
 ## Distribution
 
-H. salicifolia ranges from southern North America to Argentina and the West Indies, with its most significant traditional use documented in the Mexican highlands. It is commonly found growing along stream banks, in moist ravines, and in disturbed areas throughout its range. The plant is relatively adaptable and can tolerate a range of soil conditions, though it prefers consistently moist environments.
+H. salicifolia ranges from southern [[guzman-psilocybin-mushrooms-north-america]] to Argentina and the West Indies, with its most significant traditional use documented in the Mexican highlands. It is commonly found growing along stream banks, in moist ravines, and in disturbed areas throughout its range. The plant is relatively adaptable and can tolerate a range of soil conditions, though it prefers consistently moist environments.
 
 ## Ethnobotanical Uses
 
 ### Mexican Highland Preparation
 
-In the Mexican highlands, the leaves of H. salicifolia are slightly wilted, crushed in water, and the preparation is then allowed to ferment into an intoxicating drink. The fermentation process is considered essential to activating the psychoactive properties. Traditional preparation methods vary between communities, with some adding sweeteners or other herbs to the fermented beverage.
+In the Mexican highlands, the leaves of H. salicifolia are slightly wilted, crushed in water, and the preparation is then allowed to ferment into an intoxicating drink. The fermentation process is considered essential to activating the psychoactive properties. [[kava-traditional-preparation-ceremonial-context]] methods vary between communities, with some adding sweeteners or other herbs to the fermented beverage.
 
 ### Effects
 
@@ -63,7 +63,7 @@ Sinicuichi may have been known to the Aztecs. It is one of several psychoactive 
 
 ### Use in Other Regions
 
-Beyond Mexico, H. salicifolia has been used in traditional medicine throughout its range. In South America, various indigenous groups have employed the plant for its anti-inflammatory and analgesic properties, though the psychoactive uses appear to be most strongly associated with the Mexican highland cultures.
+Beyond Mexico, H. salicifolia has been used in traditional medicine throughout its range. In , various indigenous groups have employed the plant for its anti-inflammatory and analgesic properties, though the psychoactive uses appear to be most strongly associated with the Mexican highland cultures.
 
 ## Chemistry
 
@@ -85,7 +85,7 @@ The traditional fermentation step may convert inactive alkaloid precursors into 
 
 ## Historical Documentation
 
-The earliest reliable documentation of Sinicuichi use comes from the work of Mexican ethnobotanist Blas Pablo Reko in the early 20th century. Richard Evans Schultes later provided more detailed ethnobotanical accounts of its preparation and use among indigenous communities in the Mexican highlands. The plant has received relatively little scientific attention compared to more famous Mexican hallucinogens, and much of what is known about its effects comes from ethnographic reports rather than controlled clinical studies.
+The earliest reliable documentation of Sinicuichi use comes from the work of Mexican ethnobotanist Blas Pablo Reko in the early 20th century.  Schultes later provided more detailed ethnobotanical accounts of its preparation and use among indigenous communities in the Mexican highlands. The plant has received relatively little scientific attention compared to more famous Mexican hallucinogens, and much of what is known about its effects comes from ethnographic reports rather than controlled clinical studies.
 
 ## Safety Considerations
 
@@ -114,4 +114,4 @@ The auditory focus of Sinicuichi sets it apart from all other known Mexican hall
 
 - tagetes-lucida — another Mexican psychoactive plant, sometimes called Pericon
 - [[salvia-divinorum]] — Diviner's Sage, another Mexican psychoactive plant
-- [[coryphantha-compacta]] — Bakana, a Mexican cactus with psychoactive properties
+- [[coryphantha-compacta]] — Bakana, a [[false-peyotes-mexican-cactus-ethnobotany]] with psychoactive properties

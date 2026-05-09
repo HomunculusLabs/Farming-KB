@@ -19,7 +19,7 @@ sources:
 
 # Ginkgo biloba
 
-**Ginkgo biloba**, commonly known as the **ginkgo tree** or **maidenhair tree**, is the only living species in the division Ginkgophyta. It is one of the oldest extant tree species on Earth, with a fossil record dating back approximately 270 million years — predating dinosaurs and surviving multiple mass extinction events. Beyond its botanical significance, ginkgo leaf extract is among the most widely used herbal supplements globally.
+**Ginkgo biloba**, commonly known as the **ginkgo tree** or **maidenhair tree**, is the only living species in the division Ginkgophyta. It is one of the oldest extant tree species on Earth, with a fossil record dating back approximately 270 million years — predating dinosaurs and surviving multiple [[fungal-roles-in-mass-extinction-recovery]] events. Beyond its botanical significance, ginkgo leaf extract is among the most widely used herbal supplements globally.
 
 ## Taxonomy
 
@@ -77,21 +77,21 @@ Ginkgo has been widely planted as an ornamental tree across temperate regions wo
 
 - East Asia (China, Japan, Korea) — thousands of years of cultivation
 - Europe — introduced circa 1730
-- North America — introduced circa 1784
-- Southern Hemisphere — planted as ornamental in Australia, New Zealand, South America
+- [[psilocybin-north-america-pacific-northwest]] — introduced circa 1784
+- [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] — planted as ornamental in Australia, New Zealand, South America
 
 ### Ecological Resilience
 
 Ginkgo is remarkably resilient:
 
 - Tolerant of urban pollution, compacted soils, road salt, and limited root space
-- Resistant to most pests and diseases
+- Resistant to most [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]
 - Survived the atomic bombing of Hiroshima — six ginkgo trees within 1–2 km of ground zero survived and regrew
 - Deeply drought-tolerant once established
 
 ## Phytochemistry
 
-The medicinal properties of ginkgo are attributed to two major classes of compounds:
+The medicinal properties of ginkgo are attributed to two [[ascomycota-phylogeny-major-classes-lineages]] of compounds:
 
 ### Flavonoid Glycosides (~24%)
 
@@ -129,7 +129,7 @@ The most studied ginkgo preparation is **EGb 761** (Tebonin/Tanakan), manufactur
 - **Standardization:** 24% flavonoid glycosides, 6% terpene lactones
 - **Ginkgolic acid content:** < 5 ppm (to minimize allergic reactions)
 - **Dosage in studies:** Typically 120–240 mg/day, divided into 2–3 doses
-- **Clinical trials:** Over 400 clinical studies and 50+ meta-analyses published
+- **[[mushroom-cancer-clinical-trials-overview]]:** Over 400 clinical studies and 50+ meta-analyses published
 
 ## Pharmacological Actions
 

@@ -83,7 +83,7 @@ profound implications for understanding the pathogen's biology and
 epidemiology.
 
 Similarly, Ingoldian fungi from freshwater streams are now recognized as
-the asexual phases of diverse fungi. The enormous tetraradiate spores of
+the asexual phases of diverse fungi. The enormous [[bloomfield-ingoldian-aquatic-fungi-tetraradiate-spores-foam]] of
 *Actinospora* are products of an ascomycete cup fungus, while other
 Ingoldians represent asexual manifestations of basidiomycetes and
 different types of ascomycetes. The fabrication of tetraradiate spore
@@ -91,11 +91,11 @@ shapes by unrelated fungi represents evolutionary convergence.
 
 ## Environmental Triggers
 
-Fungal reproduction is closely tied to environmental conditions.
+[[bloomfield-fungal-reproduction-and-chemical-communication]] is closely tied to environmental conditions.
 Humidity is critical for most fungi, as water is required for spore
-germination, hyphal growth, and the pressurized discharge mechanisms.
-Temperature regulates the timing of fruiting body production in many
-species. Nutrient availability triggers the switch from vegetative
+germination, [[bloomfields-orchard-hyphal-growth-and-invasive-biology]], and the pressurized [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]].
+Temperature regulates the timing of [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] production in many
+species. [[ph-and-nutrient-availability-garden-soils]] triggers the switch from vegetative
 growth to reproductive development.
 
 Some fungi modify their reproductive strategies based on environmental
@@ -110,7 +110,7 @@ for a compatible partner.
 
 - [[rust-fungi-biodiversity-life-cycles]]
 - [[mycelial-networks]](mycelium-network.md)
-- [[spore-dispersal-mechanisms]](spore-dispersal-mechanisms.md)
+- spore-dispersal-mechanisms(spore-dispersal-mechanisms.md)
 - [[fungal-symbiosis-with-plants]](fungal-symbiosis-with-plants.md)
 
 ## References

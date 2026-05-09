@@ -1,5 +1,5 @@
 ---
-title: Passionflower Growing Guide
+title: Passionflower comparison-bean-growing-guide-vs-pepper-growing-guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -13,12 +13,12 @@ sources: []
 
 Passionflower (also called maypop, wild passion vine, or passion vine) is a
 fast-growing perennial vine native to the southeastern United States and
-Central America. Named by Spanish missionaries in the 16th century who saw
+[[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. Named by Spanish missionaries in the 16th century who saw
 symbols of Christ's passion (crucifixion) in the flower's intricate
 structure, passionflower has been used for centuries by Indigenous peoples
 and European herbalists as a gentle but effective sedative, anxiolytic, and
 pain reliever. Passiflora incarnata is the primary species used medicinally
-in North American and European herbal practice.
+in [[growing-gourmet-north-american-reishi-species]] and European herbal practice.
 
 ## Botanical Profile
 
@@ -38,7 +38,7 @@ its range and regrows vigorously from the root system in spring.
 ## Medicinal Uses
 
 Passionflower contains flavonoids (chrysin, apigenin, vitexin, orientin),
-harmala alkaloids (harmine, harmaline in small amounts), and GABA-boosting
+[[turner-harmala-alkaloids-preparation-and-dosage]] (harmine, harmaline in small amounts), and GABA-boosting
 compounds that produce its calming effects.
 
 Key medicinal applications:
@@ -123,9 +123,9 @@ From layering:
 - Mulch 3-4 inches deep to retain moisture and suppress weeds
 
 ### Care and Maintenance
-- Water regularly during the first growing season
+- Water regularly during the first [[savory-growing-season-and-non-growing-season-management]]
 - Once established, water during dry periods (1 inch per week)
-- Fertilize lightly in spring with compost or balanced organic fertilizer;
+- Fertilize lightly in spring with compost or balanced [[complete-organic-fertilizer-cof-recipe-solomon]];
   excess nitrogen produces lush foliage with fewer flowers
 - Train vines onto support structure; redirect as needed
 - Prune aggressively in late winter or early spring to control size and
@@ -136,34 +136,6 @@ From layering:
   - Removing unwanted runners in spring
   - Deadheading flowers if you do not want fruit/seeds
   - Containing in large pots or raised beds with root barriers
-
-## Pollinator Plant
-
-Passionflower is an excellent pollinator plant:
-- The complex flowers are pollinated primarily by large bees (carpenter
-  bees, bumblebees) and some butterfly species
-- The leaves are the sole larval food source for several butterfly species,
-  most notably the Gulf fritillary (Agraulis vanillae), variegated fritillary,
-  and zebra longwing
-## Harvesting
-
-Harvest aerial parts (leaves, stems, and flowers) during peak bloom on dry
-mornings. Cut vines 6-12 inches above ground; the plant will regrow. For
-fresh tincture, process immediately into 50-60% alcohol (1:2 ratio) and
-macerate 4-6 weeks. For drying, spread on screens at 90-100 degrees F;
-store dried herb in airtight containers for up to 2 years.
-
-## Common Issues
-
-- Japanese beetles: Handpick or use neem
-- Caterpillars: Butterfly larvae; a feature for butterfly gardeners
-- Root rot: Prevent with well-drained soil
-- Spider mites: Increase humidity in hot, dry conditions
-
-## Yields
-
-An established vine produces 2-4 lbs fresh herb per year (approximately
-0.5-1 lb dried), plus edible fruit if flowers are not all harvested.
 
 ## See Also
 

@@ -25,7 +25,7 @@ The steam sterilization setup requires only basic kitchen items:
   vegetable steamer that folds out and stands on the pot bottom, or any
   similar arrangement. The jars must be kept off the direct pot bottom where
   high temperature contact will crack the glass.
-- Half-pint canning jars with substrate and dry vermiculite barrier already
+- Half-pint canning jars with substrate and [[pf-tek-dry-vermiculite-contaminant-barrier]] barrier already
   prepared and lidded.
 ## Pot Setup and Loading
 1. Place the steamer basket or rack in the bottom of the pot and add water. The
@@ -51,7 +51,7 @@ The steam sterilization setup requires only basic kitchen items:
 ## The Drying Problem
 The most common failure mode in PF TEK steam sterilization is substrate drying.
 If the jars are overheated during steaming, the substrate loses moisture. This
-manifests as a specific and identifiable pattern: spore germination occurs
+manifests as a specific and identifiable pattern: [[growing-gourmet-spore-germination-strain-isolation]] occurs
 normally, mycelium begins to spread through the substrate, but growth then
 halts at a certain point. The halt occurs with no visible contamination, which
 distinguishes drying from other problems.
@@ -64,10 +64,10 @@ a sign of dried substrate.
 Prevention focuses on temperature control during steaming:
 - Use the lowest possible boil that still generates steam.
 - Ensure the pot lid is tight-fitting to retain moisture.
-- Do not extend the sterilization time beyond one hour unless diagnosing a
-  specific sterilization failure through the control jar technique.
+- Do not extend the [[pressure-cooker-sterilization-time-temperature-jar-size-mushroom-substrate]] beyond one hour unless diagnosing a
+  specific sterilization failure through the [[pf-tek-control-jar-sterility-verification]] technique.
 The remedy for dried substrate is to increase the water content of the
-substrate formula. If growth consistently halts, add slightly more water in the
+[[pf-tek-measurement-calibration-and-substrate-formula-precision]]. If growth consistently halts, add slightly more water in the
 next batch. Different brands of vermiculite hold different amounts of moisture,
 so adjustment is often necessary when changing vermiculite sources. The finer
 type of vermiculite holds more water than the coarser type, and formulations
@@ -75,11 +75,17 @@ must be adjusted accordingly.
 ## Alternative: Pressure Canner Sterilization
 For cultivators who have access to a pressure canner, PF substrate jars can be
 sterilized more quickly. The recommended setting is 12 PSI for 20 minutes for
-half-pint PF substrate jars. See [[psilocybe-fanaticus]] stressed that pressure canners can be dangerous
+half-pint PF substrate jars. See psilocybe-fanaticus stressed that pressure canners can be dangerous
 if used incorrectly, and cultivators should always refer to the manufacturer's
 manual. If a used canner has no manual, the manufacturer should be contacted
 for a replacement before use.
 ## Control Jar Technique
 To verify that the steam sterilization process is effective, the PF TEK
-recommends the control jar technique. For broader inoculation hygiene, see
+recommends the control jar technique. For broader [[mushroom-inoculation-hygiene-cotter]], see
 [[pf-tek-desiccant-drying-technique]]
+## See Also
+- [[sterilization]]
+- [[microwave-steam-flash-sterilization-mechanism]]
+- [[pf-tek-steam-sterilization-science-and-heat-management]]
+- [[trace-water-flash-steam-microwave-sterilization]]
+- [[growing-gourmet-atmospheric-steam-sterilization]]

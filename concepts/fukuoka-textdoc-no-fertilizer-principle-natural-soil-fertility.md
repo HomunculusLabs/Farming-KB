@@ -1,5 +1,5 @@
 ---
-title: "No Fertilizer Principle and Natural Soil Fertility"
+title: "No fukuoka-no-fertilizer-principle-natural-soil-fertility and Natural Soil Fertility"
 created: 2026-04-28
 tags: [fukuoka, natural-farming, no-fertilizer, soil-fertility, compost,
 ecology, organic-matter]
@@ -9,7 +9,7 @@ sources:
 - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
-# [[mollison-sewage-treatment-natural-processes]] need to apply them when farming in
+# mollison-sewage-treatment-natural-processes need to apply them when farming in
 accordance with nat [[natural-farming]]. When
 crops are planted in small earthenware pots or artificial enclosures, the soil
 in which they grow is dead soil.
@@ -52,7 +52,7 @@ burns.
 
 Next, he turns the soil over and over again to loosen it up, destroying the
 physical structure of the soil. After pounding and kneading the soil again and
-again like bread dough, he drives out air and the humus so essential to
+again like [[fukuoka-textdoc-plowing-ruins-soil-compaction-bread-dough-analogy]], he drives out air and the humus so essential to
 microorganisms, reducing it to a yellow mineral matter barren of life. He then
 plants fruit saplings in the now lifeless soil, adds fertilizer, and attempts to
 grow fruit trees entirely through human forces.
@@ -63,7 +63,7 @@ thrive on the fertilizer nutrients. Naturally, researchers report this as
 evidence of the remarkable effectiveness of the fertilizer. The poor farmer has
 taken the long way around.
 
-Even though it is unclear how, when, and from where the nutrients essential to
+Even though it is unclear how, when, and from where the [[teaming-with-nutrients-essential-plant-nutrients]] to
 plant growth are formed and accumulate, each year the topsoil becomes darker and
 richer. Compare this with the soil in the fields farmed by man, which grows
 poorer and more barren each year, in spite of the large amounts of fertilizer
@@ -89,15 +89,15 @@ lot of farmers easier?
 
 The seeds of calamity have been sown. When farmers take note of the danger, it
 will be too late to do anything about it. Although cultivation without the use
-of chemical fertilizers is possible, crops cannot immediately be grown
+of [[cervantes-chemical-fertilizers-guide]] is possible, crops cannot immediately be grown
 successfully without fertilizers on fields that are normally plowed and weeded.
 
 ## Return to Nature
 
 It is imperative that farmers think seriously about what nature is and provide a
-growing environment that approaches at least one step closer to nature. But to
+[[cannabis-growing-environment-setup]] that approaches at least one step closer to nature. But to
 farm in nature, one must first make an effort to return to that natural state
-which preceded the development of the farming methods used by man. The surest
+which preceded the development of the [[natural-farming-methods-comparison]] used by man. The surest
 way to solve the problem is to apply a method that adapts to the circumstances
 and follows nature.
 
@@ -108,3 +108,5 @@ each year depletes the fertility of the soil and kills off microbes, turning
 rich, living, organic material into dead, inanimate mineral matter.
 
 ## See Also
+
+- [[fukuoka-no-fertilizer-principle-natural-soil-fertility]]

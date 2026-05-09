@@ -1,5 +1,5 @@
 ---
-title: Mushroom Growing Houses
+title: duggar-mushroom-growing-history-and-methods Houses
 created: 2026-04-28
 tags: [mushrooms, victorian-gardening, greenhouse-structures, horticulture]
 date: 2026-04-28
@@ -22,16 +22,16 @@ summer produce.
 Brick pits were considered excellent places for mushroom
 beds due to the facility with which they could be covered.
 During cold weather, they could be protected with glass,
-straw, and mats. During early spring, they could be kept
+straw, and mats. During [[coleman-overwintered-onions-and-early-spring-crops]], they could be kept
 cool by watering, following the same principles as the
 span-roofed house. Their solid brick construction provided
 excellent insulation and temperature regulation.
 
 ## Cucumber Frames
 
-A cucumber frame also makes a serviceable mushroom bed.
+A cucumber frame also makes a serviceable [[falconer-mushroom-bed-boxing-and-protection]].
 Cuthill emphasised that a bed may be made anywhere, provided
-the principles of mushroom bed preparation and proper
+the principles of mushroom [[azurescens-outdoor-bed-preparation-woodchips]] and proper
 management are followed. The key is maintaining appropriate
 temperature and moisture levels regardless of the structure
 housing the bed.
@@ -68,7 +68,7 @@ Cuthill claimed to be the originator of the orchard house
 concept, having written in the Gardeners' Chronicle some
 years prior that kitchen gardens might be covered over with
 glass and vegetables grown in open fields. He extended this
-idea to mushroom cultivation, suggesting that orchard
+idea to [[mushroom-cultivation]], suggesting that orchard
 houses, with their glass covering and shade management,
 would provide excellent growing conditions.
 
@@ -89,4 +89,4 @@ resources.
 
 ## See Also
 
-- [[falconer-growing-mushrooms-in-greenhouses]]
+- falconer-growing-mushrooms-in-greenhouses

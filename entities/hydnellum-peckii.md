@@ -60,7 +60,7 @@ thelephoric acid.
 - **Hispolyphondin A:** A chlorinated benzohydroquinone derivative
   with moderate antibacterial activity against Gram-positive bacteria.
 - **Various chlorinated polyphenols:** Contributing to the
-  species' chemical defense and ecological interactions with
+  species' chemical defense and [[king-stropharia-ecological-interactions-permaculture]] with
   soil microorganisms and invertebrates.
 - **Pigments:** The red fluid exuded by young specimens contains
   a mix of the above compounds dissolved in water; the coloration
@@ -69,14 +69,14 @@ thelephoric acid.
 ## Distribution and Habitat
 
 - **Geographic range:** Widely distributed across northern temperate
-  and boreal forests of North America (Alaska to northern California,
+  and [[fungal-diversity-boreal-forests-taiga]] of [[psilocybin-north-america-pacific-northwest]] (Alaska to northern California,
   across Canada), Europe (Scandinavia, British Isles, central Europe),
   and parts of Asia.
 - **Habitat:** Ectomycorrhizal associate of conifers — primarily
   spruce (*Picea* spp.), fir (*Abies* spp.), and pine (*Pinus* spp.);
   occasionally found with hardwoods including oak and beech.
 - **Substrate:** Grows on forest floor soil, often among moss and
-  needle litter; typically in mature to old-growth forests with
+  [[dighton-pine-needle-litter-decomposition-fungal-succession]]; typically in mature to old-growth forests with
   undisturbed [[hydnellum-peatii]]
 
 - [[sarcodon-imbricatus]]

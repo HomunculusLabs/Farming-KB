@@ -1,5 +1,5 @@
 ---
-title: Mushroom Potency, Drying, and Extraction
+title: pf-tek-mushroom-potency-and-age-relationship, Drying, and Extraction
 created: 2026-04-28
 tags: [potency, psilocybin, drying, desiccation, extraction]
 date: 2026-04-28
@@ -15,18 +15,18 @@ type: concept
 
 The final stages of the PF TEK concern maximizing mushroom potency through
 proper harvesting, preserving mushrooms through drying, and concentrating the
-active compounds through alcohol extraction. [[psilocybe-cubensis]] is not inherently weak; its potency depends entirely
+active compounds through [[pf-tek-alcohol-extraction-method]]. [[psilocybe-cubensis]] is not inherently weak; its potency depends entirely
 on how it is grown, when it is harvested, and how it is preserved.
 
 ## Understanding Potency
 
 ### The Weak Mushroom Myth
 
-It has been reported that Psilocybe Cubensis is a "weak" mushroom, but
+It has been reported that [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] is a "weak" mushroom, but
 Fanaticus and others found this is not necessarily true. Potency depends on:
 
 1. **Substrate**: Brown rice medium produces optimal results
-2. **Harvest timing**: Young specimens are significantly more potent
+2. **[[cannabis-harvest-timing-visual-cues]]**: Young specimens are significantly more potent
 3. **Preservation method**: Cool drying preserves alkaloids best
 4. **Sporulation state**: Pre-sporulation specimens are most potent
 
@@ -36,7 +36,7 @@ Research by [[psilocybe-semilanceata]] (liberty cap).
 However, mature specimens that have begun sporulation are weakly potent. The
 mushroom is past its prime when the cap has opened, the veil has torn, the
 gills are dark brown, and purple spore deposits appear on the stem. This
-principle likely applies to all magic mushroom species, including wild
+principle likely applies to all [[australian-magic-mushroom-common-names]] species, including wild
 specimens.
 
 ### Dosage Guidelines (from [[pf-tek-mushroom-potency-and-age-relationship]]
@@ -56,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,4 +98,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

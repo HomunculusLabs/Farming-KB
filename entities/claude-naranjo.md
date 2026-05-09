@@ -9,13 +9,13 @@ sources:
 ---
 # Claude Naranjo
 
-Claude Naranjo (1932-2019) was a Chilean-born psychiatrist, psychotherapist, and pioneer of psychedelic therapy. Known for his systematic exploration of multiple psychedelic compounds in therapeutic settings and for developing the "One-to-One" model of psychedelic-assisted psychotherapy. See [[lsd-therapeutic-history]] for broader clinical context.
+Claude Naranjo (1932-2019) was a Chilean-born psychiatrist, psychotherapist, and pioneer of [[metzner-psycholytic-psychedelic-therapy-models]]. Known for his systematic exploration of multiple psychedelic compounds in therapeutic settings and for developing the "One-to-One" model of psychedelic-assisted psychotherapy. See [[lsd-therapeutic-history]] for broader clinical context.
 
 ## Biography
 
 - Born November 24, 1932, in Valparaiso, Chile
 - Trained in medicine and psychiatry at the University of Chile
-- Moved to the United States in the early 1960s to work at the University of California
+- Moved to the [[dmt-containing-plants-united-states-halpern]] in the early 1960s to work at the University of California
 - Studied with Fritz Perls (Gestalt therapy) and became a key figure in the humanistic psychology movement
 - Died July 12, 2019, in California
 
@@ -26,7 +26,7 @@ Naranjo was one of the few researchers to conduct systematic comparative studies
 ### Compounds Studied
 
 - **Harmaline:** Investigated the beta-carboline alkaloid found in [[psychedelic-plant-sources]] for iboga context.
-- **DPT (N,N-dipropyltryptamine):** Conducted extensive clinical research with DPT, documenting its therapeutic applications in psychotherapy. DPT produced psychedelic experiences comparable to DMT but with a longer duration, making it more practical for therapeutic sessions. See [[psychedelic-therapy-set-and-setting]] frameworks that emphasize the critical role of the therapeutic relationship.
+- **DPT (N,N-dipropyltryptamine):** Conducted extensive [[hofmann-lsd-clinical-research-early-studies]] with DPT, documenting its therapeutic applications in psychotherapy. DPT produced psychedelic experiences comparable to DMT but with a longer duration, making it more practical for therapeutic sessions. See [[psychedelic-therapy-set-and-setting]] frameworks that emphasize the critical role of the therapeutic relationship.
 
 ## Enneagram and Gestalt Contributions
 
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

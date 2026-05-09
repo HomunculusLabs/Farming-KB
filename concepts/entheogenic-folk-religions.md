@@ -1,6 +1,6 @@
 ---
-title: Entheogenic Folk Religions and Churches
-aliases: [psychedelic churches, Santo Daime, UDV, Native American Church]
+title: metzner-syncretic-entheogenic-folk-ceremonies Religions and Churches
+aliases: [psychedelic churches, Santo Daime, UDV, [[halpern-sacramental-peyote-and-native-american-church]] Church]
 tags: [religion, entheogens, ayahuasca, peyote, iboga, churches]
 sources:
   - metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
@@ -11,14 +11,14 @@ created: 2026-05-08
 
 ## Overview
 
-The distinction between entheogen-based shamanic rituals and folk religious
+The distinction between entheogen-based shamanic rituals and [[entheogenic-folk-religious-ceremonies]]
 ceremonies involving plant entheogens is, in many ways, arbitrary — there
 exists a continuum of ritual forms and practices. The emphasis in shamanic
 practices is healing and divination, usually conducted in small groups.
 The folk religious ceremonies often involve larger groups of twenty to forty
-participants, and in the case of Brazilian [[peyote]] cactus as
+participants, and in the case of Brazilian peyote cactus as
 a sacrament. Though legal protection has been eroded in recent court
-decisions, for most of the twentieth century the NAC enjoyed legal access to
+decisions, for most of the [[coleman-louis-savier-twentieth-century-maraicher]] the NAC enjoyed legal access to
 entheogens in most Western states.
 
 NAC ceremonies follow a consistent format: participants sit on the ground in
@@ -33,11 +33,11 @@ non-Indians.
 ## Huichol Peyote Tradition
 
 The use of peyote by the Huichols of Mexico follows more the traditional
-shamanic healing model, involving careful and lengthy apprenticeships for
+[[metzner-shamanic-healing-and-divination-paradigm]] model, involving careful and lengthy apprenticeships for
 curanderos and a group pilgrimage to the sacred land of Wirikuta to find the
 sacred cactus. The actual ceremonies are accompanied by much singing and
 telling of creation myths and other sacred stories. The Huichol tradition
-represents a purer form of shamanic entheogenic practice within a peyote
+represents a purer form of [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] practice within a peyote
 context, less influenced by Christian syncretism than the NAC.
 
 ## Brazilian Ayahuasca Churches
@@ -100,3 +100,9 @@ assumption is that all "consciousness-expanding" hallucinogens, including
 [[lsd]], peyote, ayahuasca, and others, can serve to counteract the
 consciousness-contracting and fixating effect of addictive narcotics or
 stimulants.
+## See Also
+- [[dennis-mckenna]]
+- [[brazilian-ayahuasca-churches]]
+- [[huichol-peyote-tradition]]
+- [[entheogenic-folk-religious-ceremonies]]
+- [[metzner-syncretic-entheogenic-folk-ceremonies]]

@@ -14,10 +14,10 @@ topics:
 
 # MDA (3,4-Methylenedioxyamphetamine)
 
-MDA is PiHKAL entry #100, extensively documented in Shulgin's catalogue. Its chemical name
+MDA is [[2c-b-pihkal-entry-20]] #100, extensively documented in Shulgin's catalogue. Its chemical name
 is 3,4-methylenedioxyamphetamine, occupying a central position as the parent compound from
 which both MDMA (N-methylation) and MDE (N-ethylation) are derived. MDA is humorously
-called one of the "Ten Essential Amphetamines" since safrole — one of ten essential oils —
+called one of the "Ten Essential Amphetamines" since safrole — one of ten [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] —
 is a starting material for its synthesis.
 
 ## Dosage and Duration
@@ -54,7 +54,7 @@ ammonium acetate and sodium cyanoborohydride in methanol, maintaining pH 6-7 wit
 over several days. Product distills at 80-90 °C at 0.2 mm/Hg (HCl salt mp 187-188 °C).
 
 Additional routes start from safrole or isosafrole, and underground literature describes
-a procedure beginning with sassafras root bark. The phenylacetone intermediate can also be
+a procedure beginning with sassafras [[iboga-root-bark-preparation]]. The phenylacetone intermediate can also be
 reduced by several methods other than cyanoborohydride, and the corresponding amide can
 be rearranged directly to MDA.
 

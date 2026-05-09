@@ -12,7 +12,7 @@ sources:
 
 # Agave vs Prickly Pear (Nopales) Cultivation
 
-Agave (*Agave* spp.) and prickly pear (*Opuntia* spp.) are two of the most important keystone species in [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways|CAM]] (Crassulacean Acid Metabolism) xerophytes that thrive on minimal water, build soil, and produce high-value food and fiber. Both have been cultivated for millennia across Mesoamerica and the American Southwest, forming the backbone of arid-land food systems long before modern agriculture. Despite overlapping ecological niches, they differ significantly in growth strategy, harvest timeline, labor requirements, and end products. This comparison helps growers choose the right species — or combination — for their arid-land project.
+Agave (*Agave* spp.) and prickly pear (*Opuntia* spp.) are two of the most important keystone species in [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways|CAM]] (Crassulacean Acid Metabolism) xerophytes that thrive on minimal water, build soil, and produce high-value food and fiber. Both have been cultivated for millennia across Mesoamerica and the American Southwest, forming the backbone of arid-land food systems long before modern agriculture. Despite overlapping ecological niches, they differ significantly in growth strategy, harvest timeline, labor requirements, and end products. This comparison helps growers [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] species — or combination — for their arid-land project.
 
 ## At-a-Glance Comparison
 
@@ -22,7 +22,7 @@ Agave (*Agave* spp.) and prickly pear (*Opuntia* spp.) are two of the most impor
 | **Growth habit** | Rosette succulent, monocarpic | Shrub-like cactus, clonal/perennial |
 | **Mature size** | 1–3 m tall, 2–4 m spread | 1–5 m tall, 1–3 m spread |
 | **Water needs** | 200–400 mm/year (rainfed after establishment) | 150–300 mm/year (extremely drought-tolerant) |
-| **Temperature range** | 15–40 °C ideal | 10–40 °C ideal |
+| **[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]** | 15–40 °C ideal | 10–40 °C ideal |
 | **Frost tolerance** | Moderate; species-dependent (down to −5 °C) | Moderate to good (down to −10 °C for some cultivars) |
 | **Soil preference** | Well-drained, rocky, pH 6.0–8.0; tolerates poor soils | Sandy to loamy, pH 6.0–8.5; tolerates saline soils |
 | **Propagation method** | Pups (offsets), bulbils, seed (slow) | Cladode (pad) cuttings, seed (slow) |
@@ -30,10 +30,10 @@ Agave (*Agave* spp.) and prickly pear (*Opuntia* spp.) are two of the most impor
 | **Productive lifespan** | Single rosette (monocarpic); offsets continue | 20–80+ years (individual cladodes renewed) |
 | **Primary products** | Sap/syrup, piña, fiber (sisal), mezcal/tequila | Nopalitos (pads), tunas (fruit), forage, cochineal dye |
 | **Caloric yield/acre** | ~2,000–4,000 kcal/acre/year (syrup equiv.) | ~1,500–3,000 kcal/acre/year (fruit + pads) |
-| **Nitrogen fixation** | None (associates with mycorrhizae) | None (but pads mulch and build soil organic matter) |
+| **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]** | None (associates with mycorrhizae) | None (but pads mulch and build soil organic matter) |
 | **Pest/disease issues** | Agave snout weevil, fusarium rot, scale insects | Cochineal scale, cactus borers, *Phytophthora* rot, frost damage |
 | **Sun requirements** | Full sun to partial shade | Full sun (tolerates reflected heat) |
-| **Companion planting role** | Windbreak, living fence, soil anchor on slopes | Living fence, erosion control, nurse plant for understory |
+| **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] role** | Windbreak, living fence, soil anchor on slopes | Living fence, [[permplant-willows-salix-erosion-control-fodder]], nurse plant for understory |
 
 ## Culinary Uses
 
@@ -43,7 +43,7 @@ Agave centers on carbohydrate-rich harvests. The **piña** — the dense stem/he
 
 ### Prickly Pear (Nopales)
 
-Prickly pear is far more versatile in the kitchen with minimal processing. Young **pads (nopalitos)** are harvested as a calcium-rich vegetable comparable to green beans, eaten grilled, sautéed, pickled, or blended into smoothies. They are a staple in Mexican cuisine, valued for their mild, slightly tart flavor and mucilaginous texture. The **tunas (fruits)** are sweet, juicy, and eaten fresh, juiced, or made into jams, candies, and fermented beverages. Tunas range in color from green to yellow, orange, red, and deep purple, each with distinct flavor profiles. Nopales also serve as livestock forage with protein content of 4–8% and can significantly supplement animal diets during drought. Pad harvest requires only a knife and gloved hands — no cooking or fermentation needed for basic consumption.
+Prickly pear is far more versatile in the kitchen with minimal processing. Young **pads (nopalitos)** are harvested as a calcium-rich vegetable comparable to green beans, eaten grilled, sautéed, pickled, or blended into smoothies. They are a staple in Mexican cuisine, valued for their mild, slightly tart flavor and mucilaginous texture. The **tunas (fruits)** are sweet, juicy, and eaten fresh, juiced, or made into jams, candies, and fermented beverages. Tunas range in color from green to yellow, orange, red, and deep purple, each with distinct flavor profiles. Nopales also serve as [[permaculture-livestock-forage-systems]] with protein content of 4–8% and can significantly supplement animal diets during drought. Pad harvest requires only a knife and gloved hands — no cooking or fermentation needed for basic consumption.
 
 ## Water Efficiency
 
@@ -64,9 +64,11 @@ A critical distinction shapes every aspect of cultivation: **agave is monocarpic
 
 ### Agave
 
-Agave propagation relies on **pups (offsets)** separated from the mother plant at 15–30 cm tall. Pups root readily when the cut surface is allowed to dry for 1–3 days before planting. Some species also produce **bulbils** — small plantlets on the flower stalk — which can be collected and planted. Seed propagation is slow (germination can take 1–3 months) and is primarily used for breeding programs rather than production. Most commercial operations plant from nursery-raised offsets at densities of 1,000–3,000 plants/hectare, depending on species and end product. See [[gaias-garden-nurse-plants|nurse plant]] strategies and [[food-forest-understory-plants|best crops for a desert food forest]] for a complete layer-by-layer planting guide.
+Agave propagation relies on **pups (offsets)** separated from the mother plant at 15–30 cm tall. Pups root readily when the cut surface is allowed to dry for 1–3 days before planting. Some species also produce **bulbils** — small plantlets on the flower stalk — which can be collected and planted. Seed propagation is slow (germination can take 1–3 months) and is primarily used for breeding programs rather than production. Most commercial operations plant from nursery-raised offsets at densities of 1,000–3,000 plants/hectare, depending on species and end product. See nurse plant strategies and best crops for a desert food forest for a complete layer-by-layer planting guide.
 
 ## See Also
+
+- [[agave-tequilana]]
 
 - [[agave-americana]]
 ## Practical Considerations
@@ -87,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

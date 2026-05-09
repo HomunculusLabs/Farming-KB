@@ -23,12 +23,12 @@ Asia represents one of the most complex and understudied regions for neurotropic
 
 ## Overview of Asian Neurotropic Fungi
 
-The neurotropic fungi documented across Asia include species from the following genera: Psilocybe, Panaeolus, Panaeolina, Copelandia, Conocybe, Gymnopilus, Inocybe, Pluteus, Agrocybe, Gerronema, Amanita, Claviceps, Cordyceps, and Dictyophora. Amanita muscaria has the broadest distribution, occurring from Siberia and Japan through the Himalaya and China. Among psilocybin-containing genera, [[psilocybe-subcaerulipes]]** — described by Hongo (1959), closely related to American species of Section Zapotecorum
+The neurotropic fungi documented across Asia include species from the following genera: Psilocybe, Panaeolus, Panaeolina, Copelandia, Conocybe, Gymnopilus, Inocybe, Pluteus, Agrocybe, Gerronema, Amanita, Claviceps, Cordyceps, and Dictyophora. [[allegro-amanita-muscaria-properties-and-pharmacology]] has the broadest distribution, occurring from Siberia and Japan through the Himalaya and China. Among psilocybin-containing genera, [[psilocybe-subcaerulipes]]** — described by Hongo (1959), closely related to American species of [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]]
 - **Agrocybe farinacea** — contains psilocybin; documented by Hongo (1960) and Koike et al. (1981)
 - **Panaeolina rhombisperma** and **P. sagarae** — species described by Hongo from Japan
 - **Dictyophora indusiata** — used traditionally and documented by Imazeki and Hongo (1983, 1987)
 
-The Japanese mycoflora shows interesting biogeographic connections with both North American and European species, reflecting Hongo's (1978) analysis of distribution patterns.
+The Japanese mycoflora shows interesting biogeographic connections with both [[growing-gourmet-north-american-reishi-species]] and European species, reflecting Hongo's (1978) analysis of [[guzman-global-distribution-patterns-neurotropic-fungi]].
 
 ## India
 
@@ -48,7 +48,7 @@ India's diverse climate zones, from tropical to alpine Himalayan, suggest that m
 Southeast Asia is a major center of tropical neurotropic fungal diversity, particularly for Copelandia species:
 
 - **Indonesia (Java, Sumatra)** — Psilocybe subaeruginascens var. subaeruginascens was documented from Java by Singer and Smith (1958). Copelandia cyanescens is widespread, reported by Wasson (1959a), Heim (1960), and Allen and Gartz (1997). Boletus flammeus, B. nigerrimus, and B. nigroviolaceus were documented from Singapore by Corner (1972), though Ott (1993) questioned whether these boletes are truly neurotropic.
-- **Thailand** — Psilocybe samuiensis was described from Ko Samui by Guzmán, Bandala, and Allen (Gartz et al., 1994). Psilocybe cubensis, Copelandia cyanescens, and Dictyophora indusiata are also documented.
+- **Thailand** — Psilocybe samuiensis was described from Ko Samui by Guzmán, Bandala, and Allen (Gartz et al., 1994). [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], Copelandia cyanescens, and Dictyophora indusiata are also documented.
 - **Cambodia** — [[amanita-muscaria-entity]]
 - [[copelandia-cambodginiensis]]
 ## Practical Considerations
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,3 +110,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[neurotropic-fungi-japan-east-asia-species-cultural-context]]

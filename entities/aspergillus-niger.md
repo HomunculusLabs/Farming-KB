@@ -44,14 +44,14 @@ in remediation applications.
 
 The biosorption mechanism involves binding of metal ions to
 functional
-groups present in the fungal cell wall, including carboxyl,
+groups present in the [[gadd-fungal-cell-structure]] wall, including carboxyl,
 amine,
 hydroxyl, and phosphate groups. This passive uptake process does
 not
 require metabolic energy and can operate under a wide range of
 environmental conditions. The practical applications extend to
 the
-cleanup of radionuclides and heavy metals from industrial process
+cleanup of radionuclides and [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] from industrial process
 streams and contaminated natural environments.
 
 # Endolithic Communities
@@ -61,20 +61,20 @@ communities inhabiting the interior of rock substrates, including
 sandstone and granite. Endolithic fungi colonize the pore spaces,
 fractures, and grain boundaries within rocks, where they
 contribute to
-weathering and nutrient cycling in otherwise inhospitable
+weathering and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in otherwise inhospitable
 environments.
-In these communities, A. niger coexists with other fungal genera
+In these communities, A. niger coexists with other [[singh-key-fungal-genera-bioremediation]]
 including Alternaria, Aureobasidium, Candida, Cladosporium,
 Paecilomyces, Phoma, Penicillium, and Sporobolomyces.
 
 The endolithic lifestyle represents an important ecological
 strategy
-for survival in extreme environments where nutrient availability
+for survival in extreme environments where [[ph-and-nutrient-availability-garden-soils]]
 and
 water are limiting factors. Within rock substrates, the fungus is
 partially protected from UV radiation and desiccation while
 continuing
-to contribute to mineral dissolution through organic acid
+to contribute to mineral dissolution through [[fungal-organic-acid-metal-solubilization]]
 excretion.
 These communities play a crucial role in the initial stages of
 soil

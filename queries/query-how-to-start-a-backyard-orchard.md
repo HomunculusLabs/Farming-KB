@@ -1,10 +1,11 @@
 ---
-title: "How to Start a Backyard Orchard"
+title: "How to query-how-to-start-a-backyard-chicken-flock Orchard"
 created: 2026-04-28
 tags: [query, orchard, fruit-trees, permaculture, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 type: query
 ---
@@ -13,8 +14,8 @@ type: query
 
 ## Short Answer
 Starting a backyard orchard involves selecting fruit trees suited to your
-climate zone, planting them with proper spacing and pollination partners, and
-establishing a guild of companion plants that suppress weeds, fix nitrogen,
+[[holzer-climate-zone-microclimate-creation]], planting them with proper spacing and pollination partners, and
+establishing a guild of companion plants that suppress weeds, [[query-how-to-fix-nitrogen-toxicity-in-cannabis]],
 attract pollinators, and build soil health. Proper pruning, grafting, and
 integrated pest management from the start will determine the long-term
 productivity of your orchard for decades to come.
@@ -30,7 +31,7 @@ your orchard for decades to come.
 
 Site selection is the first and most important consideration. Most fruit
 trees need full sun for at least six to eight hours per day during the
-growing season, along with well-drained soil and protection from strong
+[[savory-growing-season-and-non-growing-season-management]], along with well-drained soil and protection from strong
 winds. Cold air drainage is critical in frost-prone areas, as fruit trees
 are especially vulnerable to late spring frosts during bloom. A
 comprehensive [[holzer-grafting-fruit-tree-propagation]] process helps you
@@ -50,7 +51,7 @@ system that reduces the need for external inputs.
 Pruning is essential from the first year and shapes the tree's structure
 for life. The goal is to establish strong scaffold branches that can
 support heavy fruit loads while allowing good light penetration and air
-circulation through the canopy. Central leader, open center, and modified
+circulation through the canopy. [[comparison-central-leader-vs-open-center-fruit-tree-training]], open center, and modified
 central leader are the three main training systems, each suited to
 different tree types and growing conditions. Detailed
 [[holzer-grafting-fruit-tree-propagation]] emphasizes building tree health and
@@ -63,7 +64,7 @@ ecosystem resilience as the foundation of pest management.
   the same time
 - Design [[fruit-tree-propagation]]
   and training in the first few years
-- Monitor for pests and diseases regularly, using integrated management
+- Monitor for [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] regularly, using integrated management
   before problems escalate
 
 ## Related Questions
@@ -87,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

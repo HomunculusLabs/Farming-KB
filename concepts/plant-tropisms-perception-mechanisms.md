@@ -32,7 +32,7 @@ named according to the stimulus that provokes the response:
   diageotropism.
 
 - **Phototropism (Heliotropism):** Leaves and stems orient toward light
-  sources, driven by differential cell elongation. When plant organs turn
+  sources, driven by differential [[brassinosteroid-physiological-mechanisms-cell-elongation-division]]. When plant organs turn
   away from light, they are described as negatively phototropic.
 
 - **Hydrotropism:** Roots quest toward water sources, orienting their
@@ -53,7 +53,7 @@ without explaining underlying mechanisms.
 
 ## The Crescograph
 
-Sir Jagadis Chandra Bose's most celebrated invention was the
+Sir Jagadis [[jagadis-chandra-bose-plant-research]]'s most celebrated invention was the
 crescograph, unveiled at a meeting sponsored by the governor of Bengal
 after eight years of development. Through the use of two levers, this
 instrument produced a ten-thousand-fold magnification of movement, far
@@ -105,12 +105,12 @@ one attains the acme of its excitement in an incredibly short time."
 
 ## Primary Perception
 
-Cleve Backster's research extended plant perception studies into the
+[[tompkins-cleve-backster-primary-perception]]'s research extended plant perception studies into the
 realm of what he called "primary perception" -- a more fundamental
 sensory capacity potentially common to all nature. Backster hypothesized
 that the five human senses might be limiting factors overlaying a more
 basic perceptual faculty. His experiments suggested that plants could
-detect and respond to the death of living organisms at considerable
+detect and respond to the death of [[savory-living-organisms-as-tools]] at considerable
 distances, raising questions about the boundaries of plant awareness.
 
 The scientific hypothesis he pursued held "that there exists an as yet

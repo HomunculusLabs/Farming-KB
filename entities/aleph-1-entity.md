@@ -10,14 +10,14 @@ sources:
 # ALEPH (DOT; PARA-DOT)
 
 **Chemical name:** 2,5-Dimethoxy-4-methylthioamphetamine
-**PiHKAL entry:** #3
+**[[2c-b-pihkal-entry-20]]:** #3
 **Molecular formula:** C12H19NO2S (freebase), C12H20ClNO2S (HCl salt)
 
 ## Overview
 
 ALEPH was probably the first sulfur-containing phenethylamine evaluated as a CNS stimulant or psychedelic. Named after the first letter of the Hebrew alphabet, the ALEPH family represents the original exploration of thio-substituted amphetamines. The 2-carbon homologues of ALEPH became the far more thoroughly explored 2c-t-2-entity|2C-T family.
 
-The original name DOT (desoxy- with a thiomethyl group at the 4-position) follows the [[dob-entity]]|DOB, [[psychedelic-harm-reduction]] for general harm reduction guidelines
+The original name DOT (desoxy- with a thiomethyl group at the 4-position) follows the [[dob-entity]]|DOB, [[psychedelic-harm-reduction]] for general [[adverse-effects-and-harm-reduction-psilocybin]] guidelines
 
 ## Related Compounds
 
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

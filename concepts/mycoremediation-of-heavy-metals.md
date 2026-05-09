@@ -15,7 +15,7 @@ Mycoremediation of heavy metals uses fungi to remove, immobilize, or transform t
 
 ### Biosorption
 
-Fungal cell walls contain chitin, glucans, and proteins with functional groups (amino, carboxyl, hydroxyl, phosphate) that bind metal ions. Dead biomass can be equally or more effective than living mycelium for biosorption, making spent mushroom substrate a practical remediation material.
+Fungal cell walls contain chitin, glucans, and proteins with functional groups (amino, carboxyl, hydroxyl, phosphate) that bind metal ions. Dead biomass can be equally or more effective than living mycelium for biosorption, making spent [[gourmet-medicinal-mushroom-substrate-preparation]] a practical remediation material.
 
 Key binding mechanisms:
 - Ion exchange at cell wall sites
@@ -25,7 +25,7 @@ Key binding mechanisms:
 
 ### Bioaccumulation
 
-Living fungi actively transport metals across cell membranes via transport channels normally used for essential micronutrients. Arbuscular mycorrhizal fungi (AMF) can accumulate metals in intracellular structures, preventing translocation into plant tissues.
+Living fungi actively transport metals across cell membranes via transport channels normally used for essential micronutrients. [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF) can accumulate metals in intracellular structures, preventing translocation into plant tissues.
 
 ### Biomineralization
 
@@ -45,8 +45,8 @@ Fungi can alter the oxidation state of metals, changing their toxicity and mobil
 
 ### White-rot Fungi
 - **Pleurotus ostreatus** (oyster mushroom): Effective at lead and cadmium uptake; widely studied for its dual value as edible and remediator
-- **Trametes versicolor** (turkey tail): Strong biosorbent for multiple metals; produces laccase and peroxidase enzymes
-- **Phanerochaete chrysosporium**: Model white-rot species with extensive heavy metal research
+- **[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]** (turkey tail): Strong biosorbent for multiple metals; produces laccase and peroxidase enzymes
+- **[[staycare-phanerochaete-chrysosporium-in-bioremediation]]**: Model white-rot species with extensive heavy metal research
 
 ### Brown-rot Fungi
 - **Fomitopsis palustris**: Effective copper biosorbent
@@ -92,7 +92,7 @@ Fungi that accumulate metals become hazardous waste themselves. Options include:
 
 ### Environmental Factors
 - pH affects metal solubility and fungal binding capacity
-- Temperature influences fungal growth rate and metabolic activity
+- Temperature influences fungal growth rate and [[arbuscule-isolation-metabolic-activity-assays]]
 - Competing ions (Ca, Mg, Na) can reduce biosorption efficiency
 - Soil organic matter content affects metal bioavailability
 
@@ -105,7 +105,7 @@ Fungi that accumulate metals become hazardous waste themselves. Options include:
 ## Safety Considerations
 
 - Fruiting bodies of metal-accumulating fungi should NEVER be consumed
-- Metal accumulation varies by species, strain, and growth conditions
+- [[dighton-fungal-heavy-metal-accumulation-bioremediation]] varies by species, strain, and growth conditions
 - Regular soil and tissue testing is essential during remediation projects
 - Worker protection protocols are needed when handling contaminated biomass
 

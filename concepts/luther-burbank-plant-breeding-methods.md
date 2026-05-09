@@ -1,5 +1,5 @@
 ---
-title: "Luther Burbank's Plant Breeding Methods"
+title: "tompkins-luther-burbank-intuitive-breeding's Plant Breeding Methods"
 created: 2026-04-28
 tags: [plant-breeding, horticulture, burbank, selection, intuition, plant-communication]
 date: 2026-04-25
@@ -15,7 +15,7 @@ a thousand new plant varieties during his career, working from Santa Rosa,
 California, with methods that baffled orthodox scientists. His intuitive
 approach to plant breeding, rooted in deep communion with nature and an
 almost uncanny ability to select successful specimens, produced revolutionary
-fruits, vegetables, and flowers that transformed American agriculture.
+fruits, vegetables, and flowers that transformed [[fukuoka-american-agriculture-fields-of-death]].
 
 ## Overview
 
@@ -30,7 +30,7 @@ of envelopes. His art, he told De Vries, was "a matter of concentration
 and the rapid elimination of non-essentials." His laboratory? "I keep it
 in my head."
 
-Burbank's 1901 speech to the San Francisco Floral Congress infuriated
+Burbank's 1901 speech to the [[shipibo-san-francisco-ceremonial-center-ucayali]] Floral Congress infuriated
 botanists: "The chief work of the botanists of yesterday was the study and
 classification of dried, shriveled plant mummies whose souls had fled. We
 have learned that they are as plastic in our hands as clay in the hands of
@@ -60,7 +60,7 @@ Thoreau, Humboldt, Agassiz, and especially Darwin's The Variation of
 Animals and Plants Under Domestication. Darwin's theme that organisms
 vary when removed from natural conditions became Burbank's blueprint.
 
-His first success came from a seed ball in his potato patch, a vegetable
+His first success came from a [[clay-pellet-seed-ball-method-for-desert-revegetation]] in his potato patch, a vegetable
 that almost never sets seed. One of twenty-three seeds produced a potato
 with double the average yield, smooth, plump, and creamy-white. Sold for
 $150 and christened the "Burbank," it dominates the U.S. potato market

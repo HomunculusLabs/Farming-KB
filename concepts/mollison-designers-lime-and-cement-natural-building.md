@@ -1,5 +1,5 @@
 ---
-title: Lime and Cement in Natural Building
+title: mollison designers lime and cement natural building in natural-building
 created: 2026-04-28
 tags:
   - natural-building
@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Lime and Cement in [[permaculture]]: A Designers' Manual, presenting lime as the preferred
+# Lime and Cement in permaculture: A Designers' Manual, presenting lime as the preferred
 binding material for permaculture building while acknowledging the role
 of cement where structural demands require it. He emphasises understanding
 the chemistry and sourcing of these materials for self-reliant building.
@@ -29,7 +29,7 @@ quicklime (calcium oxide, CaO):
     CaCO3 + heat --> CaO + CO2
 
 Mollison notes that small-scale lime burning can be done in simple kilns
-built from local stone or brick, using wood or agricultural waste as fuel.
+built from local stone or brick, using wood or [[fungi-in-composting-and-agricultural-waste-conversion]] as fuel.
 This makes lime accessible to rural communities without industrial supply
 chains, unlike cement which requires much higher kiln temperatures (1450C)
 and precise raw material ratios.
@@ -45,7 +45,7 @@ significant heat. Mollison describes two main forms:
   paste. This matures over weeks or months in sealed pits, improving
   workability and carbonation properties. Mature lime putty is considered
   the finest material for renders and mortars.
-- Hydrated lime (bag lime): quicklime slaked with just enough water to
+- [[cervantes-hydrated-lime-quicklime-ph-adjustment]] (bag lime): quicklime slaked with just enough water to
   form a dry powder. This is convenient for transport and storage but
   produces a less workable and potentially less durable mortar than putty.
 
@@ -70,7 +70,7 @@ general building mortars. Lime mortars are:
 [[mollison-designers-bamboo-treatment-preservation]],
 ## Practical Considerations
 
-Successful implementation of Lime and Cement in Natural Building requires attention to
+Successful implementation of Lime and Cement in [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -86,4 +86,5 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[mollison-designers-humus-building-and-soil-organic-matter]]

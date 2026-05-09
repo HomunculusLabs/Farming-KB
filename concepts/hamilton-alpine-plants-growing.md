@@ -13,11 +13,11 @@ type: concept
 
 Alpines are cultivated varieties of wildflowers from the high,
 mountainous areas of the world and are among the most beautiful garden
-flowers available. They are unique in the organic garden because most
+flowers available. They are unique in the [[comparison-vermicomposting-vs-composting-organic-garden]] because most
 have little or no value in attracting wildlife and pest predators.
 Nonetheless, once you have grown a few, you will want to make room for
 more. They take up very little room because the best way to grow them
-is in a rock garden, a scree garden, or in holes in walls or between
+is in a [[hamilton-rock-garden-design]], a scree garden, or in holes in walls or between
 paving slabs.
 
 ## Choosing Alpine Plants
@@ -47,7 +47,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -97,7 +97,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -107,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

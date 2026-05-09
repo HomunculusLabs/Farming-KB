@@ -2,7 +2,7 @@
 
 ## Overview
 
-Africa is home to some of the world's most distinctive and potent cannabis sativa landraces. From the equatorial highlands of East Africa to the savannas of the south, African cannabis genetics have played an increasingly important role in modern breeding programs. These landraces offer unique combinations of flowering time, resin production, flavor profiles, and psychoactive effects that have captured the attention of breeders worldwide. This page examines the key African landrace populations and their integration into contemporary cannabis genetics.
+Africa is home to some of the world's most distinctive and potent cannabis sativa landraces. From the equatorial highlands of East Africa to the savannas of the south, African [[vic-high-cannabis-genetics-mendelian-inheritance]] have played an increasingly important role in modern breeding programs. These landraces offer unique combinations of flowering time, resin production, flavor profiles, and psychoactive effects that have captured the attention of breeders worldwide. This page examines the key African landrace populations and their integration into contemporary cannabis genetics.
 
 ## Geographic Origins and Distribution
 
@@ -15,7 +15,7 @@ The southern African region, including South Africa, Swaziland (Eswatini), Malaw
 The highlands of Kenya, Ethiopia, Congo, and surrounding countries produce tall, vigorous sativas adapted to equatorial day-length patterns. These equatorial landraces tend to have the longest flowering times and the most psychedelic effect profiles. They are less commonly used in commercial breeding due to their extreme flowering duration, but their genetic material is preserved by dedicated landrace breeders.
 
 ### West and North Africa
-Morocco, Nigeria, Ghana, and other West and North African countries have long traditions of cannabis cultivation, primarily for hashish production. Moroccan genetics, in particular, have been influential in European breeding programs, though many of these are technically indica-influenced or hybrid populations rather than pure sativas.
+Morocco, Nigeria, Ghana, and other West and North African countries have long traditions of [[query-how-does-no-till-cannabis-cultivation-work]], primarily for hashish production. Moroccan genetics, in particular, have been influential in European breeding programs, though many of these are technically indica-influenced or hybrid populations rather than pure sativas.
 
 ## Key African Landrace Strains
 
@@ -32,10 +32,10 @@ In modern breeding, Malawi genetics contribute potency and resin production but 
 ### Congolese (Congo)
 Congolese landrace sativas are among the most potent African varieties. King Congo, bred by Tropical Seeds Company, represents a modern expression of Congolese genetics. These strains are known for their tall growth, vigorous branching, and powerful psychoactive effects. Congolese genetics contribute energy and creativity to hybrid offspring, with some phenotypes producing effects described as bordering on hallucinogenic.
 
-The Congo region's equatorial climate means that indigenous cannabis populations have adapted to roughly equal day and night lengths year-round. This equatorial adaptation means that pure Congolese plants may be difficult to flower in temperate latitudes without specific photoperiod manipulation, making them more challenging for breeders in North America and Europe.
+The Congo region's equatorial climate means that indigenous cannabis populations have adapted to roughly equal day and night lengths year-round. This equatorial adaptation means that pure Congolese plants may be difficult to flower in temperate latitudes without specific photoperiod manipulation, making them more challenging for breeders in [[psilocybin-north-america-pacific-northwest]] and Europe.
 
 ### Swazi
-Swazi landrace cannabis from Eswatini (formerly Swaziland) is a robust African sativa known for its resilience and strong effects. Swazi Gold, a traditional variety, has been cultivated in the region for centuries. The plant produces large, airy buds with a distinctive sweet aroma. Swazi genetics have been used by breeders to add vigor and African sativa character to hybrid strains while maintaining manageable flowering times, as Swazi's southern latitude (approximately 26 degrees south) provides some photoperiod advantage.
+Swazi [[cervantes-landrace-cannabis-populations]] from Eswatini (formerly Swaziland) is a robust African sativa known for its resilience and strong effects. Swazi Gold, a traditional variety, has been cultivated in the region for centuries. The plant produces large, airy buds with a distinctive sweet aroma. Swazi genetics have been used by breeders to add vigor and African sativa character to hybrid strains while maintaining manageable flowering times, as Swazi's southern latitude (approximately 26 degrees south) provides some photoperiod advantage.
 
 ### Colombian Connection
 
@@ -63,7 +63,7 @@ Breeders like SnowHigh Seeds and Tropical Seeds Company maintain relatively pure
 Most breeding work with African landraces involves crossing them with other genetic backgrounds to create more commercially viable strains. Common strategies include:
 
 - **African × Indica** — Adding indica genetics to reduce flowering time, control height, and increase yield density. This approach produces sativa-dominant hybrids that are more accessible to the average grower.
-- **African × Haze** — Combining African landraces with established Haze genetics to create complex, multi-generational sativas with diverse terpene profiles. Dawgtown Daze (Pure Haze × ChemDawg with African influence) exemplifies this approach.
+- **African × Haze** — Combining African landraces with established Haze genetics to create complex, multi-generational sativas with diverse [[cannabis-terpene-profiles-sativa]]. Dawgtown Daze (Pure Haze × ChemDawg with African influence) exemplifies this approach.
 - **African × African** — Crossing different African landraces (e.g., Durban Poison × Malawi) to combine desirable traits from multiple regional populations while maintaining the African sativa character.
 
 ### The Rev's Kingdom Organic Seeds
@@ -107,9 +107,11 @@ These unique terpene profiles make African landraces valuable to breeders seekin
 
 The conservation of African landrace cannabis genetics faces mounting challenges. Urbanization, the introduction of foreign seed varieties, and changing agricultural practices all threaten the genetic purity of traditional African cannabis populations. Several organizations and individual breeders are working to address this through seed banking, field collection expeditions, and documentation of traditional cultivation knowledge.
 
-For the cannabis breeding community, African landraces represent an irreplaceable genetic resource. The unique combinations of flowering time adaptation, potency, resin production, and terpene diversity found in African genetics cannot be replicated in the laboratory. As modern breeding techniques become more sophisticated, the value of diverse genetic raw material only increases. The African landrace sativas that have survived to the present day carry within them centuries of natural and human selection that would be impossible to reproduce.
+For the cannabis breeding community, African landraces represent an irreplaceable genetic resource. The unique combinations of flowering time adaptation, potency, resin production, and terpene diversity found in African genetics cannot be replicated in the laboratory. As modern [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]] become more sophisticated, the value of diverse genetic raw material only increases. The African landrace sativas that have survived to the present day carry within them centuries of natural and human selection that would be impossible to reproduce.
 
-## Related Topics
+## Related
+
+- [[pure-africa-kenyan-landrace-sativa-strain]] Topics
 
 - [[cannabis-landrace-sativa-heritage-varieties]]
 - [[cannabis-colombian-gold-landrace-sativa]]

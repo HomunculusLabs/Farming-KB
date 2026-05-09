@@ -1,5 +1,5 @@
 ---
-title: "Wattle and Daub vs Straw Bale Construction"
+title: "comparison-wattle-and-daub-vs-cob-construction vs Straw straw-bale-construction-vs-earthbag-construction"
 created: 2026-05-06
 tags: [comparison, natural-building, wattle-and-daub, straw-bale, sustainable-housing]
 date: 2026-04-28
@@ -26,7 +26,7 @@ sets required.
 [[natural-building]]
 
 Straw bale construction stacks standard agricultural bales of wheat,
-rice, oat, barley, or rye straw into walls, then plasters both faces
+rice, oat, barley, or [[coleman-rye-straw-mat-cold-frame-insulation]] into walls, then plasters both faces
 with earthen or lime-based plaster. Walls are typically 450 to 600 mm
 thick, producing deeply sculptural, rounded corners and deep window
 sills. The technique was formalized in the late 19th century in the
@@ -99,7 +99,7 @@ guidelines available in many jurisdictions.
 ## Hybrid Approaches
 
 Many natural builders combine elements of both systems. A common
-hybrid uses a timber frame with wattle and daub infill on south-facing
+hybrid uses a [[comparison-bamboo-construction-vs-timber-frame-basics]] with wattle and daub infill on south-facing
 walls for thermal mass and solar heat gain, while using straw bale
 infill on north-facing walls for maximum insulation. Another approach
 uses a straw bale core with an earthen wattle-and-daub-style external
@@ -109,5 +109,4 @@ plaster for added weather protection and aesthetic texture.
 
 - [[comparison-wattle-and-daub-vs-cob-construction]]
 - [[earth-plaster-and-natural-finishes]]
-- [[comparison-wattle-and-daub-vs-cob-construction]]
 - [[comparison-hempcrete-vs-straw-bale-construction]]

@@ -14,11 +14,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Tisserant, E. et al. (2013). "Genome of an arbuscular mycorrhizal fungus provides
+  - Tisserant, E. et al. (2013). "Genome of an comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi fungus provides
     insight into the oldest plant symbiosis." PNAS, 110(50), 20117-20122.
   - Schüßler, A. & Walker, C. (2010). "The Glomeromycota: A species list with new
     families and new genera." Royal Botanic Garden Edinburgh.
-  - Smith, S.E. & Read, D.J. (2008). Mycorrhizal Symbiosis, 3rd Ed. Academic Press.
+  - Smith, S.E. & Read, D.J. (2008). [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]], 3rd Ed. Academic Press.
   - Berruti, A. et al. (2016). "Mycorrhizal fungal inoculation functions as a
     biostimulant in horticulture." Agronomy, 6(3), 39.
   - Lekberg, Y. & Koide, R.T. (2014). "Arbuscular mycorrhizal fungi in temperate
@@ -59,11 +59,11 @@ Cosmopolitan — found from arctic tundra to tropical agroecosystems on all inha
 Receives up to 20% of host plant's photosynthetically fixed carbon as hexoses across the arbuscular interface. Carbon is metabolized via glycolysis and stored as triacylglycerols in vesicles. Allocation increases under [[dighton-fungal-drought-tolerance-plant-water-relations]]
 
 ### Root Zone Expansion
-Extraradical mycelium extends effective root absorptive surface area by 100-1000×. Hyphal networks connect multiple plants simultaneously via common mycorrhizal networks (CMNs).
+Extraradical mycelium extends effective root absorptive surface area by 100-1000×. Hyphal networks connect multiple plants simultaneously via common [[dighton-mycorrhizal-networks-carbon-transfer]] (CMNs).
 
 ## Agricultural & Permaculture Significance
 
-- Most widely used AMF species in commercial mycorrhizal inoculants
+- Most widely used AMF species in commercial [[pgpr-mycorrhizal-inoculants-microplant-establishment]]
 - Documented crop yield improvements of 10-30% in phosphorus-deficient soils
 - Reduces phosphate fertilizer requirements by 25-50% in responsive systems
 - Enhances tolerance to drought, salinity, and heavy metal stress
@@ -86,26 +86,5 @@ Extraradical mycelium extends effective root absorptive surface area by 100-1000
 
 Primary model organism for AMF research. First AMF with a published genome (Tisserant et al., 2013):
 
-- **Genome:** ~150 Mb — s [[query-how-does-mycorrhizal-network-communication-work-between-plants]]-one-carbon-metabolism-affect-methylation]] gy (mycorrhiza-specific phosphate and monosaccharide transporters), carbon metabolism and lipid biosynthesis, common mycorrhizal network function and interplant resource sharing, soil microbial community interactions.
-
-## Cultivation
-
-### Laboratory Culture
-Maintained in dual in vitro culture using Ri T-DNA-transformed carrot (*Daucus carota*) roots or *Medicago truncatula* hairy root organ cultures. Grown on Minimal Medium (M) or Modified Strullu-Romand (MSR) medium. Produces clean, contaminant-free inoculum for research.
-
-### Commercial Production
-On-farm inoculum via trap crop methods (*Paspalum notatum*, *Sorghum bicolor* in inoculated soil/compost). Pot culture with sterilized substrate and host plants. Major commercial strain: DAOM 197198 (type strain).
-
-## Related Species
-
-- **Rhizophagus clarus** — close relative; common in tropical soils
-- **Funneliformis mosseae** — formerly *Glomus mosseae*; widely distributed, used in inoculants
-- **Claroideoglomus claroideum** — formerly *Glomus claroideum*; common in European agricultural soils
-- **Gigaspora margarita** — large-spored AMF (Gigasporaceae); no vesicles, only auxiliary cells
-
-## Key Identification Features
-
-| Feature | Description |
-|---------|-------------|
-| [[agroforestry]]
+- **Genome:** ~150 Mb — s [[query-how-does-mycorrhizal-network-communication-work-between-plants]]-one-carbon-metabolism-affect-methylation]] gy (mycorrhiza-specific phosphate and monosaccharide transporters), carbon metabolism and lipid biosynthesis, common mycorrhizal network function and interplant [[mycelial-network-resource-sharing-plants]], soil [[edaphic-factors-microbial-community-structure-interactions.-##-cultivation-###-laboratory-culture-maintained-in-dual-in-vitro-culture-using-ri-t-dna-transformed-carrot-(*daucus-carota*)-roots-or-*medicago-truncatula*-hairy-root-organ-cultures.-grown-on-minimal-medium-(m)-or-modified-strullu-romand-(msr)-medium.-produces-clean,-contaminant-free-inoculum-for-research.-###-commercial-production-on-farm-inoculum-via-trap-crop-methods-(*paspalum-notatum*,-*sorghum-bicolor*-in-inoculated-soil/compost).-pot-culture-with-sterilized-substrate-and-host-plants.-major-commercial-strain:-daom-197198-(type-strain).-##-related-species---**rhizophagus-clarus**-—-close-relative;-common-in-tropical-soils---**funneliformis-mosseae**-—-formerly-*glomus-mosseae*;-widely-distributed,-used-in-inoculants---**claroideoglomus-claroideum**-—-formerly-*glomus-claroideum*;-common-in-european-agricultural-soils---**gigaspora-margarita**-—-large-spored-amf-(gigasporaceae);-no-vesicles,-only-auxiliary-cells-##-key-identification-features| Feature | Description | |---------|-------------| | [[agroforestry]]
 - [[common-mycorrhizal-networks]]

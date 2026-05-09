@@ -7,7 +7,7 @@ tags:
   - ascomycete
   - edible-fungi
   - spring-fruiting
-  - [[mycology]]
+  - mycology
   - cup-fungi
   - early-morel
 date: 2026-04-28
@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - "Kuo, M. (2023). Verpa bohemica. MushroomExpert.com. https://www.mushroomexpert.com/verpa_bohemica.html"
   - "Arora, D. (1986). Mushrooms Demystified. Ten Speed Press."
-  - "Weber, N.S. & Smith, A.H. (1985). A Field Guide to Southern Mushrooms. University of Michigan Press."
+  - "Weber, N.S. & Smith, A.H. (1985). A [[ghouled-field-guide-historical-context]] to Southern Mushrooms. University of Michigan Press."
   - "Abell-Davis, S.E. & Largent, D.L. (2008). \"A preliminary study of Verpa bohemica in the Klamath Mountains.\" McIlvainea, 18(1), 25–33."
   - "Moser, M. (1983). Keys to Agarics and Boleti. Royal Botanic Gardens, Kew."
 ---
@@ -25,7 +25,7 @@ sources:
 
 Verpa bohemica is a species of ascomycete fungus in the family Discinaceae, widely distributed across temperate regions of the Northern Hemisphere.
 
-It is one of the earliest spring-fruiting edible mushrooms, often appearing 2–4 weeks before true morels (*Morchella* spp.), leading to frequent misidentification by foragers.
+It is one of the earliest spring-fruiting [[palmer-edible-mushrooms-north-america]], often appearing 2–4 weeks before true morels (*Morchella* spp.), leading to frequent misidentification by foragers.
 
 The species is characterized by a thimble-shaped, wrinkled cap that hangs freely from the stipe, in contrast to true morels where the cap is attached at the base.
 
@@ -84,7 +84,7 @@ Paraphyses are cylindrical, septate, with slightly clavate tips 4–6 µm wide.
 
 **Geographic range:** Widely distributed across Europe,  (particularly the Pacific Northwest, Rocky Mountains, and Great Lakes region), asacramental--legal-battles-united-states Asia.
 
-Less common in the southeastern United States and at low elevations.
+Less common in the southeastern [[dmt-containing-plants-united-states-halpern]] and at low elevations.
 
 **Habitat:** Primarily found in riparian zones and floodplain forests, often growing in association with cottonwood (*Populus deltoides*), aspen (*[[gyromitra-esculenta]]* | Brain-like mass | Solid stipe, much higher gyromitrin |
 
@@ -94,7 +94,11 @@ Both *Verpa* species differ from true morels (*Morchella*) in having the cap att
 
 ## See Also
 
+- [[verpa-conica]]
+
 ## See Also
-- [[palmer-about-mushrooms-edible-species-identification]]
+- palmer-about-mushrooms-edible-species-identification
 - palmer about mushrooms edible species identification
 - palmer about mushrooms edible species identification
+- palmer-about-mushrooms-poisonous-species-to-avoid
+- [[spore]]

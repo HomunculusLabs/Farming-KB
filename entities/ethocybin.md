@@ -58,20 +58,34 @@ The subjective effects of ethocybin are essentially identical to those of psiloc
 
 Typical oral dose range: **15–30 mg** (roughly equivalent to 10–20 mg psilocybin by weight, accounting for the higher molecular weight). Effects onset within 20–60 minutes, peak at 2–3 hours, and last 4–6 hours total.
 
-The experience profile includes visual hallucinations (geometric patterns, color enhancement, morphing surfaces), altered perception of time, synesthesia, emotional lability, and mystical-type experiences at higher doses. The psychological effects are dose-dependent and strongly influenced by set and setting.
+The experience profile includes visual hallucinations (geometric patterns, color enhancement, morphing surfaces), altered perception of time, synesthesia, emotional lability, and mystical-type experiences at higher doses. The [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] are dose-dependent and strongly influenced by [[lsd-set-and-setting-framework]].
 
 ## Synthesis
 
 Ethocybin is synthesized from 4-hydroxyindole via a multi-step sequence. The 4-hydroxyindole core undergoes N,N-dimethylethylenediamine coupling at the 3-position, followed by phosphorylation of the 4-hydroxy group with ethylphosphorodichloridate.
 
-The synthetic route parallels that used for psilocybin production, with the key difference being the use of ethylphosphorodichloridate rather than phosphorus oxychloride in the phosphorylation step. This introduces the ethyl group on the phosphate ester oxygen.
+The synthetic route parallels that used for [[gottlieb-psilocybin-production-extraction-methods]], with the key difference being the use of ethylphosphorodichloridate rather than phosphorus oxychloride in the phosphorylation step. This introduces the ethyl group on the phosphate ester oxygen.
 
 Purification is typically achieved via column chromatography or recrystallization from aqueous ethanol. The final phosphate salt is confirmed by NMR spectroscopy and mass spectrometry. Synthetic yields are moderate (30–50% overall from 4-hydroxyindole).
 
 ## History
 
-Ethocybin was first synthesized by Alexander Shulgin and his research group in the late 1970s or early 1980s. It was included in [[psilocybin]]
-- [[4-aco-dmt]]
+Ethocybin was first synthesized by Alexander Shulgin and his research group in the late 1970s or early 1980s. It was included in TIHKAL with limited commentary, reflecting its
+status as a relatively obscure compound even among dedicated
+psychedelic researchers.
+
+## Legal Status
+
+Ethocybin is controlled as a Schedule I substance in the [[dmt-containing-plants-united-states-halpern]],
+as it is a positional isomer of psilocybin and is covered by the Federal
+Analog Act. In the United Kingdom, it is a Class A controlled substance.
+It is also scheduled in many other jurisdictions that control psilocybin
+and its analogues, including Australia, Germany, and much of the EU.
+
+## See Also
+
+- [[psilocybin]]
+- [[4-acetoxy-dmt]]
 - [[5-meo-dmt-entity]]
 - [[bufotenine]]
 - [[tryptamine]]

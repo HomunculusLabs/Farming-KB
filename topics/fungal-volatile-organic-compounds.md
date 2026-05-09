@@ -23,7 +23,7 @@ sources:
 
 ## Introduction
 
-Fungal volatile organic compounds (FVOCs) are low-molecular-weight organic molecules (typically below 300 Da) emitted by fungi that can vaporize at ambient temperatures and travel through air and soil pore spaces. Unlike primary metabolites essential for growth, most FVOCs are secondary metabolites produced during normal metabolic processes, stress responses, or as signaling molecules. Over 300 distinct FVOCs have been identified across fungal taxa, including alcohols, aldehydes, ketones, esters, terpenes, aromatic compounds, and sulfur-containing molecules. These compounds function as a chemical language that fungi use to communicate with other fungi, bacteria, plants, and insects, mediating ecological interactions that range from mutualistic to antagonistic.
+Fungal volatile organic compounds (FVOCs) are low-molecular-weight organic molecules (typically below 300 Da) emitted by fungi that can vaporize at ambient temperatures and travel through air and soil pore spaces. Unlike primary metabolites essential for growth, most FVOCs are [[antifungal-secondary-metabolites-coprophilous-fungi]] produced during normal metabolic processes, stress responses, or as signaling molecules. Over 300 distinct FVOCs have been identified across fungal taxa, including alcohols, aldehydes, ketones, esters, terpenes, aromatic compounds, and sulfur-containing molecules. These compounds function as a chemical language that fungi use to communicate with other fungi, bacteria, plants, and insects, mediating [[king-stropharia-ecological-interactions-permaculture]] that range from mutualistic to antagonistic.
 
 ## Chemical Diversity of FVOCs
 
@@ -45,7 +45,7 @@ Dimethyl sulfide (DMS), dimethyl disulfide (DMDS), dimethyl trisulfide (DMTS), a
 
 ### Nitrogen-Containing Compounds
 
-Fungi emit various nitrogenous volatiles including ammonia, indole, 2-methylpropanal, and trimethylamine. These compounds often signal nitrogen status and can influence bacterial community composition in the mycosphere. Indole production by fungi is particularly interesting because it overlaps with a major bacterial signaling molecule, potentially creating cross-kingdom communication channels.
+Fungi emit various nitrogenous volatiles including ammonia, indole, 2-methylpropanal, and trimethylamine. These compounds often signal nitrogen status and can influence [[core-endorhiza-bacterial-community-composition-cannabis]] composition in the mycosphere. Indole production by fungi is particularly interesting because it overlaps with a major bacterial signaling molecule, potentially creating cross-kingdom communication channels.
 
 ## Biosynthesis Pathways
 
@@ -67,7 +67,7 @@ Some fungi detect competitor FVOCs and mount preemptive defense responses. Expos
 
 ### Fungal-Bacterial Interactions
 
-The fungal mycosphere—the zone of soil immediately influenced by fungal hyphae and exudates—harbors distinct bacterial communities shaped in part by FVOCs. Volatile signals from *Fusarium oxysporum* attract migratory bacteria of the genus *Collimonas*, which feed on living fungal hyphae (mycophagy). This represents a remarkable case of a predator being attracted to its prey's chemical signature.
+The fungal mycosphere—the zone of soil immediately influenced by fungal hyphae and exudates—harbors distinct [[cultivar-endorhiza-bacterial-communities-cannabis]] shaped in part by FVOCs. Volatile signals from *Fusarium oxysporum* attract migratory bacteria of the genus *Collimonas*, which feed on living fungal hyphae (mycophagy). This represents a remarkable case of a predator being attracted to its prey's chemical signature.
 
 In contrast, some FVOCs are bactericidal. Benzaldehyde, 2-nonanone, and various terpenes produced by fungi inhibit bacterial growth and can selectively filter the bacterial community. Certain *Streptomyces* species, in turn, produce volatile geosmin (trans-1,10-dimethyl-trans-9-decalol), the compound responsible for "petrichor" (the smell of rain on dry earth), which can influence fungal morphogenesis and sporulation.
 
@@ -91,7 +91,7 @@ Arbuscular mycorrhizal fungi (AMF) produce volatile sesquiterpenes and other com
 
 FVOCs play critical roles in fungal-insect relationships, spanning the spectrum from mutualism to parasitism. Bark beetles (*Scolytus* and *Ips* species) carry spores of [[symbiotic-fungi-ectomycorrhizal-network-carbon-trading]] (*Ophiostoma* and *Grosmannia* species) and are attracted to volatile blends including ethanol and monoterpenes produced by these fungi, creating a positive feedback loop that concentrates beetle attacks on suitable host trees.
 
-Cordyceps and other [[entomopathogenic-fungi-and-biological-pest-control]] produce volatile compounds that attract insect hosts to fruiting bodies, facilitating spore dispersal. Conversely, some fungi produce volatile repellents that deter fungivorous arthropods. The cheese mite (*Acarus siro*) is repelled by certain *Penicillium* volatiles, while other volatiles from the same genus attract the same mite, demonstrating the specificity of these chemical signals.
+Cordyceps and other [[entomopathogenic-fungi-and-biological-pest-control]] produce volatile compounds that attract insect hosts to fruiting bodies, facilitating spore dispersal. Conversely, some fungi produce volatile repellents that deter fungivorous arthropods. The cheese mite (*Acarus siro*) is repelled by certain *Penicillium* volatiles, while other volatiles from the same genus attract the same mite, demonstrating the specificity of these [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]].
 
 ## Environmental Factors Affecting FVOC Production
 
@@ -131,7 +131,7 @@ The relationship between FVOCs and mycotoxin production is complex but useful: c
 
 ### Medical and Pharmaceutical Applications
 
-FVOCs from medicinal fungi contribute to their therapeutic properties. *Ganoderma lucidum* (reishi) produces sesquiterpenes and triterpenoid volatiles with documented anti-inflammatory and immunomodulatory effects. *Agaricus subrufescens* (almond mushroom) emits benzaldehyde and benzyl alcohol, contributing to its characteristic almond aroma and potentially to its immunostimulatory activity.
+FVOCs from medicinal fungi contribute to their therapeutic properties. *[[stamets-reishi-ganoderma-lucidum-cultivation]]* (reishi) produces sesquiterpenes and triterpenoid volatiles with documented anti-inflammatory and immunomodulatory effects. *Agaricus subrufescens* (almond mushroom) emits benzaldehyde and benzyl alcohol, contributing to its characteristic almond aroma and potentially to its immunostimulatory activity.
 
 In clinical diagnostics, FVOC analysis of breath samples is being investigated for the early detection of fungal lung infections (aspergillosis, cryptococcosis) in immunocompromised patients. Specific volatile signatures may distinguish fungal from bacterial respiratory infections, enabling more targeted antimicrobial therapy.
 
@@ -148,33 +148,3 @@ Fungal volatiles are also relevant to biofuel production, where ethanol, butanol
 Solid-phase microextraction (SPME) using fibers coated with divinylbenzene/carboxen/polydimethylsiloxane (DVB/CAR/PDMS) is the standard method for capturing FVOCs. Headspace samples are collected from fungal cultures in sealed vials, with the SPME fiber exposed for 15–60 minutes depending on emission rates. Thermal desorption of the fiber directly into a gas chromatograph provides sensitive detection down to ng/L concentrations.
 
 ### Gas Chromatography-Mass Spectrometry (GC-MS)
-
-GC-MS remains the gold standard for FVOC identification and quantification. Coupling with olfactory detection ports (GC-MS-O) allows simultaneous chemical and sensory analysis, correlating specific compounds with perceptible odors. Comprehensive two-dimensional GC (GC×GC-TOF-MS) provides enhanced separation of complex volatile mixtures, revealing compounds that co-elute in conventional GC.
-
-### Proton Transfer Reaction-Mass Spectrometry (PTR-MS)
-
-PTR-MS enables real-time, online monitoring of FVOCs without sample preparation. This technique is particularly valuable for studying dynamic volatile emission patterns—how fungal volatile profiles change over time or in response to environmental perturbations. Selected ion flow drift tube mass spectrometry (SIFT-MS) offers similar real-time capability with additional selectivity.
-
-### Electronic Noses
-
-Cross-reactive sensor arrays ("electronic noses") provide rapid, low-cost FVOC screening suitable for field applications. While they lack the specificity of GC-MS, pattern recognition algorithms (principal component analysis, linear discriminant analysis, machine learning classifiers) can identify volatile fingerprints associated with specific fungal species or physiological states.
-
-## FVOCs in the Context of Climate Change
-
-Climate change is expected to alter FVOC production and dynamics in several ways. Rising temperatures may shift fungal community composition toward thermotolerant species with different volatile profiles. Increased atmospheric CO₂ concentrations have been shown to alter fungal secondary metabolism in some species, potentially changing both the quantity and composition of emitted volatiles. More frequent drought events may increase the air-filled porosity of soils, extending the effective diffusion distance of FVOCs and potentially intensifying fungal-fungal and fungal-[[plant-volatile-organic-compounds-and-chemical-ecology]] signaling.
-
-FVOCs also play an underappreciated role in atmospheric chemistry. Certain fungal terpenes react with hydroxyl radicals and ozone, contributing to secondary organic aerosol formation. Global estimates suggest that fungal VOCs constitute approximately 5–10% of total biogenic VOC emissions, a significant contribution that is not yet well-integrated into atmospheric chemistry models.
-
-## Future Directions
-
-Key research frontiers include:
-
-- **Structural elucidation of FVOC receptors**: Identifying the molecular targets of fungal volatiles in plants, bacteria, and other fungi remains a major challenge. Progress in receptor identification would enable rational design of volatile-based biocontrol and growth promotion strategies.
-
-- **Synthetic microbial communities**: Engineering defined consortia of FVOC-producing and FVOC-responding microorganisms for predictable outcomes in agriculture, bioremediation, and industrial fermentation.
-
-- **CRISPR-based engineering of volatile pathways**: Targeted modification of fungal volatile biosynthesis genes to enhance production of beneficial compounds or eliminate undesirable emissions.
-
-- **Field-scale volatile ecology**: Most FVOC research has been conducted in laboratory microcosms; scaling up to field conditions requires accounting for wind dispersion, soil adsorption, and atmospheric chemistry.
-
-- **FVOC-mediated fungal networking**: The extent to which FVOCs contribute to information transfer within mycorrhizal networks and larger [[soil-fungal-diversity-wisconsin-survey-global-patterns]] communities is only beginning to be understood.

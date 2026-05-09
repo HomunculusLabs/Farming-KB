@@ -31,7 +31,7 @@ Why? Because in natural soil:
 
 ## The Root Cause: Compacted Soil Layer
 
-In cultivated fields, the situation is the opposite. Heavy machinery has compressed the soil, forming a plow pan at approximately 15 cm (6 in) depth. Repeated application of antibiotics, chemical fertilizers, pesticides, and herbicides adds to the problem. The result is a compacted soil layer that:
+In cultivated fields, the situation is the opposite. Heavy machinery has compressed the soil, forming a plow pan at approximately 15 cm (6 in) depth. Repeated application of antibiotics, [[cervantes-chemical-fertilizers-guide]], pesticides, and herbicides adds to the problem. The result is a compacted soil layer that:
 - Prevents roots from penetrating deeper
 - Traps water at a shallow depth instead of letting it percolate
 - When this trapped water evaporates, it leaves salt behind
@@ -46,7 +46,7 @@ The solution, as taught by nature, is straightforward: **eliminate the compacted
 Key steps:
 1. Stop using heavy tractors on crop-growing areas
 2. Use light vehicles instead, minimizing soil compression
-3. Apply JADAM Microorganism Solution (JMS) intensively to increase microbial diversity and activity
+3. Apply JADAM [[jadam-microorganism-solution-culturing]] (JMS) intensively to increase microbial diversity and activity
 4. As microbial populations increase, the chemicals trapped in the compacted layer begin to dissolve
 5. The compacted layer gradually breaks down
 6. Water can once again percolate deeply, carrying dissolved substances away
@@ -56,7 +56,7 @@ Key steps:
 The [[jadam-soil-management-principles]] -- comprehensive soil management
 - [[jadam-cover-crop-method]] -- cover crops for soil improvement
 - [[jadam-soil-hardening-prevention]] -- preventing soil compaction
-- [[jadam-microorganism-solution-jms]] applications:** JADAM notes that even their own microbial solution can contribute to salt accumulation if prepared with hard or mineral-rich water. This is why JADAM emphasizes using clean rainwater or well-water for all preparations.
+- [[jadam-microorganism-solution-jms]] applications:** JADAM notes that even their own [[jadam-microbial-solution-jms-preparation-and-use]] can contribute to salt accumulation if prepared with hard or mineral-rich water. This is why JADAM emphasizes using clean rainwater or well-water for all preparations.
 
 ## Symptoms of Salt-Stressed Soil
 
@@ -66,8 +66,8 @@ Recognizing salt accumulation early allows intervention before significant yield
 - **Plant symptoms:** Leaf margin burn (necrosis starting at leaf tips and edges), stunted growth, wilting despite adequate soil moisture, and reduced fruit set. Symptoms often mimic drought stress because high salt concentrations create osmotic stress that prevents water uptake.
 - **Soil physical changes:** Salt-affected soils develop poor structure, becoming hard and crusty when dry. This reduces water infiltration and root penetration, creating a feedback loop where poor drainage further concentrates salts.
 - **[[jadam-cover-crop-method]]:** Deep-rooted cover crops (radish, ryegrain, mustards) pump water from deep soil layers and deposit it on the surface through transpiration, effectively "pulling" salts upward and away from the root zone of subsequent crops. The cover crop biomass also adds organic matter that improves soil structure and drainage.
-2. **Microbial restoration:** [[jadam-liquid-fertilizer]] applications restore the microbial community that breaks down salt compounds and converts them into plant-available or leachable forms. The key organisms include salt-tolerant bacteria (Halobacillus, Bacillus species) and mycorrhizal fungi that buffer plant roots from sodium toxicity.
-3. **Organic matter addition:** Regular incorporation of compost and crop residues increases the soil's cation exchange capacity (CEC), providing more sites to hold nutrients while allowing excess sodium to be leached. See [[jadam-soil-management-principles]] — just enough water to maintain biological activity without creating waterlogging conditions that concentrate salts.
+2. **Microbial restoration:** [[jadam-liquid-fertilizer]] applications restore the [[edaphic-factors-microbial-community-structure]] that breaks down salt compounds and converts them into plant-available or leachable forms. The key organisms include salt-tolerant bacteria (Halobacillus, Bacillus species) and [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] that buffer plant roots from sodium toxicity.
+3. **Organic matter addition:** Regular incorporation of compost and crop residues increases the soil's [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity (CEC), providing more sites to hold nutrients while allowing excess sodium to be leached. See [[jadam-soil-management-principles]] — just enough water to maintain biological activity without creating waterlogging conditions that concentrate salts.
 
 For [[jadam-soil-hardening-prevention]], JADAM also addresses the physical compaction that often accompanies salt accumulation, using biological aeration through root channels and microbial activity rather than mechanical tillage.
 ## Practical Considerations
@@ -89,3 +89,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[fukuoka-irrigation-topsoil-erosion-salt-accumulation]]

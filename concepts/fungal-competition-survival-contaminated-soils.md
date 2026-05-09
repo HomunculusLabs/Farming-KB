@@ -1,22 +1,16 @@
 ---
-title: Fungal Competition and Survival in Contaminated Soils
+title: dighton-fungal-competition-resource-partitioning and Survival in Contaminated Soils
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Competition and Survival in Contaminated Soils
-
-One of the most significant obstacles to successful [[mycoremediation-field-applications-case-studies]].
-
-## The Competition Problem
-
-When [[fungal-enzyme-systems-xenobiotic-degradation]] and manganese peroxidase can actually enhance the growth of these antagonists
+# Fungal Competition and Survival in Contaminated Soils One of the most significant obstacles to successful mycoremediation-field-applications-case-studies. ## The Competition Problem When [[fungal-enzyme-systems-xenobiotic-degradation]] and manganese peroxidase can actually enhance the growth of these antagonists
 
 - **Carbon competition** -- indigenous microbes may outcompete introduced fungi for available carbon sources, especially when biostimulation is applied simultaneously
 
-- **Faster-growing organisms** -- bacteria and yeasts typically reproduce much faster than the relatively slow-growing [[fungal-fungal-community-assembly]] in contaminated soils is complex and poorly characterized. Key interactions include:
+- **Faster-growing organisms** -- bacteria and yeasts typically reproduce much faster than the relatively slow-growing fungal-fungal-community-assembly in contaminated soils is complex and poorly characterized. Key interactions include:
 
 - **Antagonistic pseudomonads** -- P. chrysosporium and phenazine-producing pseudomonads have been co-isolated from contaminated agricultural soils, even though the bacteria strongly inhibited fungal growth. Conditions favoring LiP and MnP production enhanced the growth of these antagonistic pseudomonads, creating a paradox where the conditions for pollutant degradation also favor competitors.
 
@@ -24,7 +18,7 @@ When [[fungal-enzyme-systems-xenobiotic-degradation]] and manganese peroxidase c
 
 ## Pleurotus as a Superior Competitor
 
-Research by Lang, Eller and Zadrazil (1997) found that Pleurotus species are better competitors in soil than several other [[mycoremediation-field-applications-case-studies]]. This competitive advantage is likely related to:
+Research by Lang, Eller and Zadrazil (1997) found that Pleurotus species are better competitors in soil than several other mycoremediation-field-applications-case-studies. This competitive advantage is likely related to:
 
 - Faster growth rates compared to Phanerochaete species, allowing quicker colonization of contaminated substrates
 
@@ -38,9 +32,9 @@ The practical implication is that species selection for field bioremediation sho
 
 ## Soil is Not the Natural Habitat
 
-Many fungi used in bioremediation are wood-decay organisms for which soil is not their natural habitat. Phanerochaete chrysosporium, for example, typically grows on dead wood where competition is limited. In soil, conditions may need to be altered to encourage their growth. Key factors include:
+Many fungi used in bioremediation are wood-decay organisms for which soil is not their natural habitat. [[staycare-phanerochaete-chrysosporium-in-bioremediation]], for example, typically grows on dead wood where competition is limited. In soil, conditions may need to be altered to encourage their growth. Key factors include:
 
-- **Soil moisture** -- Lentinula edodes was more effective at lower moisture while P. chrysosporium performed better at higher moisture
+- **Soil moisture** -- [[staycare-lentinula-edodes-in-bioremediation]] was more effective at lower moisture while P. chrysosporium performed better at higher moisture
 
 - **pH** -- both fungi showed optimal transformation at pH 4, which is more acidic than most agricultural soils
 
@@ -60,7 +54,7 @@ A common finding in [[fungal-bioaugmentation-inoculation]] (organism addition) a
 
 Resolving this tension requires careful optimization of nutrient type, concentration, and timing. Some strategies include:
 
-- Providing nutrients in a form selectively accessible to the target fungus (e.g., wood chips that only ligninolytic fungi can degrade)
+- Providing nutrients in a form selectively accessible to the target fungus (e.g., wood chips that only [[biochemistry-of-ligninolytic-fungi-bioremediation]] can degrade)
 
 - Delaying nutrient addition until after the introduced fungus has established
 
@@ -80,14 +74,14 @@ To aid colonization of white rot fungi in soil, various strategies have been dev
 
 - **Periodic tilling** -- mixing fungal biomass through contaminated soil breaks up competing bacterial colonies and redistributes the inoculum.
 
-- **Surfactant addition** -- surfactants like Tween 80 increase [[fungal-bioremediation]] can be reliably deployed at scale.
+- **Surfactant addition** -- surfactants like Tween 80 increase fungal-bioremediation can be reliably deployed at scale.
 
 Key research needs include:
 
 - Better understanding of [[staycare-bioavailability-pollutants-fungal-bioremediation]] in mediating competition between fungi and bacteria for pollutant substrates
 
-- Understanding the effect of soil physicochemical factors on the balance between fungal inoculants and indigenous microorganisms
+- Understanding the effect of soil physicochemical factors on the balance between fungal inoculants and [[beneficial-indigenous-microorganisms-bim]]
 
-- Field-scale studies demonstrating the ease and viability of inoculation methods
+- Field-scale studies demonstrating the ease and viability of [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]]
 
 ## Monitoring Fungal Activity in Soil

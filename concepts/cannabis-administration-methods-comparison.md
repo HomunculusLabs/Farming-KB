@@ -1,5 +1,5 @@
 ---
-title: Cannabis Administration Methods Comparison
+title: Cannabis cannabis administration methods comparison Comparison
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis Administration Methods Comparison
 
-The method of administration significantly affects the onset, duration, intensity, and character of cannabis's therapeutic effects. The Cannabis Health Index reviews multiple administration approaches, each with distinct advantages for different conditions and patient needs.
+The method of administration significantly affects the onset, duration, intensity, and character of cannabis's therapeutic effects. The [[blesching-cannabis-health-index-autoimmune-conditions]] reviews multiple administration approaches, each with distinct advantages for different conditions and patient needs.
 
 ## Inhalation (Smoking)
 
@@ -17,7 +17,7 @@ The method of administration significantly affects the onset, duration, intensit
 **Duration**: 2-4 hours
 **Bioavailability**: ~10-35%
 
-Smoking remains the most common method of cannabis administration. It provides the fastest onset, allowing patients to feel effects almost immediately and self-titrate in real-time. However, combustion produces tar and carcinogens, raising respiratory health concerns. Studies on MS patients specifically examined inhaled cannabis and found it reduced anxiety, depression, spasticity, and chronic pain (studies from 1997-2003).
+Smoking remains the most common method of cannabis administration. It provides the fastest onset, allowing patients to feel effects almost immediately and self-titrate in real-time. However, combustion produces tar and carcinogens, raising respiratory health concerns. Studies on MS patients specifically examined inhaled cannabis and found it reduced anxiety, depression, spasticity, and [[cannabis-chronic-pain-management]] (studies from 1997-2003).
 
 **Pros**: Fastest onset, easiest real-time titration, familiar method
 **Cons**: Respiratory risks from combustion, odor, social stigma, shorter duration
@@ -72,7 +72,7 @@ Tinctures are alcohol or glycerin-based cannabis extracts administered sublingua
 **Duration**: 2-6 hours
 **Bioavailability**: Local only (minimal systemic absorption)
 
-Topicals include cannabis-infused oils, balms, creams, and salves applied directly to the skin. Effects are primarily local, providing analgesic and anti-inflammatory benefits without psychoactive effects. Case reports support cannabis-infused oils for hemorrhoidal inflammation, and topicals have historical use for arthritis, muscle pain, and skin conditions.
+Topicals include cannabis-infused oils, balms, creams, and salves applied directly to the skin. Effects are primarily local, providing analgesic and anti-inflammatory benefits without psychoactive effects. Case reports support cannabis-infused oils for hemorrhoidal inflammation, and topicals have historical use for arthritis, muscle pain, and [[cannabis-for-skin-conditions-detailed]].
 
 **Pros**: No psychoactive effects, targeted local relief, no respiratory risk
 **Cons**: Limited to localized conditions, variable absorption, shorter duration
@@ -108,7 +108,7 @@ Rectal or vaginal suppositories provide high bioavailability by bypassing first-
 | Precise, repeatable dosing | Oromucosal spray, manufactured edibles |
 | Localized pain/inflammation | Topicals |
 | Sleep aid | Oral edibles (longer duration through night) |
-| Maximum CBD without psychoactivity | Raw juice, CBD-rich topicals |
+| Maximum CBD without psychoactivity | [[cannabis-raw-juice-non-psychoactive]], CBD-rich topicals |
 | GI tract conditions | Oral, suppositories |
 | Elderly or respiratory concerns | Tinctures, oral, topicals |
 

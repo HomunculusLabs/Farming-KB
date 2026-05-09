@@ -12,7 +12,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Vander Kloet, S.P. & Dickinson, T.A. (2009). "A subgeneric classification of the genus Vaccinium and the metamorphosis of V. section Bracteata." Botanical Review, 75(2), 159-197.
-  - Camp, W.H. (1945). "The North American blueberries with notes on other groups of Vacciniaceae." Brittonia, 5(3), 203-275.
+  - Camp, W.H. (1945). "The [[growing-gourmet-north-american-reishi-species]] blueberries with notes on other groups of Vacciniaceae." Brittonia, 5(3), 203-275.
   - Kirkman, L.K., Mitchell, R.J., Helton, R.C. & Drew, M.B. (2001). "Productivity and species richness in an avian seed dispersal mutualism." Ecology, 82(3), 582-590.
   - USDA NRCS (2024). "Vaccinium arboreum Plant Guide." Natural Resources Conservation Service.
   - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." 6th edition. Stipes Publishing.
@@ -22,9 +22,9 @@ sources:
 
 **Vaccinium arboreum**, commonly known as sparkleberry, farkleberry, or tree huckleberry, is an evergreen to semi-evergreen shrub or small tree in the family Ericaceae. It is native to the southeastern and south-central United States.
 
-The species is notable within the genus *Vaccinium* for its tree-like growth habit, capable of reaching heights of 8–12 meters under favorable conditions. It is the largest member of the genus in eastern North America.
+The species is notable within the genus *Vaccinium* for its tree-like growth habit, capable of reaching heights of 8–12 meters under favorable conditions. It is the largest member of the genus in [[polypore-fungi-eastern-north-america]] America.
 
-Sparkleberry produces small, black, glossy berries that persist on the plant through winter. The fruit is consumed by wildlife and has limited human food use. The species is increasingly valued in horticulture for its ornamental qualities and drought tolerance.
+Sparkleberry produces small, black, glossy berries that persist on the plant through winter. The fruit is consumed by wildlife and has limited human food use. The species is increasingly valued in horticulture for its ornamental qualities and [[dighton-fungal-drought-tolerance-plant-water-relations]].
 
 ## Taxonomy and Morphology
 
@@ -70,7 +70,7 @@ The species forms mycorrhizal associations that enhance its ability to grow on n
 
 ## Traditional Uses
 
-Indigenous peoples of the southeastern United States, including the Cherokee and Creek nations, used sparkleberry fruit for food. The berries were consumed fresh and sometimes dried for winter storage, though they were considered less desirable than other wild berries.
+Indigenous peoples of the southeastern United States, including the Cherokee and Creek nations, used sparkleberry fruit for food. The berries were consumed fresh and sometimes dried for winter storage, though they were considered less desirable than other huckleberries and wild berries of north america.
 
 Early European settlers used the wood for tool handles and small implements. The hard, dense wood was valued for its durability and resistance to splitting. The bark was occasionally used in traditional medicine as an astringent.
 
@@ -102,9 +102,9 @@ Cultivar selection is limited. A few named selections with superior ornamental c
 
 *Vaccinium arboreum* is widespread and common throughout its range. It is listed as globally secure (G5) by NatureServe and has no significant conservation concerns at the species level.
 
-However, old-growth sparkleberry specimens have become increasingly rare due to land clearing and forest management practices that favor younger, even-aged stands. Exceptionally large, multi-century-old sparkleberry trees are found in a few protected sites, including the Crosstown Experimental Forest in Alabama.
+However, old-growth sparkleberry specimens have become increasingly rare due to land clearing and [[mollison-pdc-forest-management-products]] practices that favor younger, even-aged stands. Exceptionally large, multi-century-old sparkleberry trees are found in a few protected sites, including the Crosstown Experimental Forest in Alabama.
 
-The species is threatened in some parts of its northern range by habitat loss and forest succession. In the absence of fire, sparkleberry can be outcompeted by faster-growing species in some forest types. Prescribed fire management benefits sparkleberry in fire-adapted communities.
+The species is threatened in some parts of its northern range by habitat loss and [[mollison-designers-food-forest-succession-design]]. In the absence of fire, sparkleberry can be outcompeted by faster-growing species in some forest types. Prescribed fire management benefits sparkleberry in fire-adapted communities.
 
 ## See Also
 

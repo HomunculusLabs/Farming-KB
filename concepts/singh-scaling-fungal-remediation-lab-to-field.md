@@ -1,5 +1,5 @@
 ---
-title: Scaling Fungal Remediation from Laboratory to Field
+title: Scaling cotter-pet-livestock-waste-fungal-remediation-systems from Laboratory to Field
 created: 2026-04-28
 tags:
   - mycoremediation
@@ -72,7 +72,7 @@ selection and seasonal inoculation timing.
 irrigation infrastructure or hydrology modification. Excess moisture
 creates unfavorable anaerobic conditions.
 
-**Soil heterogeneity**: Contaminant distribution, texture, organic matter,
+**Soil heterogeneity**: Contaminant distribution, texture, [[hamilton-composting-and-organic-matter-management]],
 and pH vary across treatment zones. Site characterization and
 [[singh-mushroom-spawn-production-grain-spawn]] techniques and
 solid-state fermentation can be adapted.
@@ -101,7 +101,7 @@ concentrations.
 
 ## Economic Considerations
 
-Cost components include inoculum production, site preparation, nutrient
+Cost components include [[arbuscular-mycorrhizal-inoculum-production-best-practices]], site preparation, nutrient
 amendments, monitoring, and project management. Fungal remediation is
 most competitive for moderate contamination where sustainable approaches
 are valued.
@@ -120,4 +120,4 @@ perception. Transparent communication is essential.
 
 - [[singh-electrokinetic-fungal-remediation]]
 
-- [[singh-soil-fungal-bioremediation-strategies]]
+- singh-soil-fungal-bioremediation-strategies

@@ -1,5 +1,5 @@
 ---
-title: "Steroidal Regulation of Fungal Development and Growth"
+title: "Steroidal Regulation of steroidal regulation fungal development growth and Growth"
 created: 2026-04-28
 tags:
   - steroid-regulation
@@ -24,11 +24,11 @@ steroidal hormone, 22S,23S-homobrassinolide, profoundly affects the
 growth and development of [[psilocybe-cubensis]] to brassinosteroids may
 represent a window into an ancient signaling system predating plant-fungal
 divergence. Understanding this system could provide new tools for
-mushroom cultivation and new insights into eukaryotic signaling
+[[accessible-mushroom-cultivation-for-disabilities]] and new insights into eukaryotic signaling
 evolution.
 ## Related Concepts
 
-- Brassinosteroids as steroidal phytohormones for fungal growth promotion for the broader phytohormone context
+- Brassinosteroids as steroidal phytohormones for fungal [[brassinosteroid-growth-promotion-psilocybe-cubensis]] for the broader phytohormone context
 - [[22s-23s-homobrassinolide-chemistry-and-synthesis]] for the compound
   enabling cross-kingdom activity
 
@@ -112,4 +112,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

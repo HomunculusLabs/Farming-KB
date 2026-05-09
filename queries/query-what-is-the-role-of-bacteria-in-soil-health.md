@@ -13,7 +13,7 @@ type: query
 ## Short Answer
 Bacteria are the most abundant microorganisms in soil and perform essential
 functions including nutrient cycling, organic matter decomposition, nitrogen
-fixation, and disease suppression. They form the foundation of the
+fixation, and [[aact-disease-suppression-mechanisms-ingham]]. They form the foundation of the
 [[savory-soil-organic-matter-and-decomposition-dynamics]]. Bacteria are the first
 organisms to colonize fresh organic material, breaking down simple sugars,
 proteins, and carbohydrates. Different bacterial species specialize in different
@@ -22,11 +22,11 @@ changes from fresh residues to stable humus. The decomposition-cycles|decomposit
 fungal-dominated later stages, with each group contributing different nutrient
 release patterns and timing.
 
-Nitrogen fixation is one of the most critical bacterial functions in
+[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] is one of the most critical bacterial functions in
 agriculture. Certain bacteria, particularly rhizobia that form symbiotic
 relationships with legume roots, can convert atmospheric nitrogen gas into
 ammonium that plants can absorb. This [[teaming-with-nutrients-composting-and-nutrient-cycling]] processes helps
-growers manage nitrogen availability and prevent both deficiency and toxicity in
+growers manage nitrogen availability and prevent both [[cannabis-nutrient-deficiency-and-toxicity-guide]] in
 their crops across different growth stages.
 
 Disease suppression is another vital function of soil bacteria. Beneficial
@@ -34,12 +34,12 @@ bacterial species like Bacillus subtilis and Pseudomonas fluorescens produce
 natural antibiotics called iturins and pyoluteorin that inhibit pathogenic fungi
 and bacteria. They also compete with pathogens for space on root surfaces and
 for available nutrients in the rhizosphere. A soil with a diverse and abundant
-bacterial community is inherently more resistant to diseases like root rot,
+[[core-endorhiza-bacterial-community-composition-cannabis]] is inherently more resistant to diseases like root rot,
 damping off, and wilt. The [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]] depends on these physical
 modifications that bacteria create as a natural byproduct of their metabolic
 activity.
 
-The bacterial to fungal ratio in soil is an important indicator of soil health
+The [[ingham-bacterial-to-fungal-succession-soil-food-web]] ratio in soil is an important indicator of soil health
 and suitability for different types of plants. [[soil-food-web-nutrient-cycling]] in organic growing systems
 of all types.
 
@@ -48,7 +48,7 @@ protect soil biology. Adding compost, compost teas, and organic amendments
 provides food for bacterial growth and reproduction. Minimizing soil
 disturbance through no-till practices preserves bacterial networks and habitat
 structure that take years to develop. Avoiding synthetic pesticides and
-high-salt fertilizers protects sensitive bacterial communities from the
+high-salt fertilizers protects sensitive [[cultivar-endorhiza-bacterial-communities-cannabis]] from the
 disruption that sets back soil health significantly.
 
 ## Key Points
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

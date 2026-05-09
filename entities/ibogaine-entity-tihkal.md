@@ -8,7 +8,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # Ibogaine
 
-TIHKAL entry #25. A complex, naturally occurring indole alkaloid from the root bark of Tabernanthe iboga, native to Gabon. Used for centuries in the Bwiti religion as a sacrament. More recently studied for its reported anti-addictive properties, particularly in interrupting opioid dependence. Ibogaine is both a stimulant and a hallucinogen, producing an exceptionally long and physically demanding experience.
+TIHKAL entry #25. A complex, naturally occurring [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] from the root bark of [[plants-of-the-gods-tabernanthe-iboga-chemistry]], native to Gabon. Used for centuries in the Bwiti religion as a sacrament. More recently studied for its reported anti-addictive properties, particularly in interrupting opioid dependence. Ibogaine is both a stimulant and a hallucinogen, producing an exceptionally long and physically demanding experience.
 
 ## Chemical Names
 
@@ -35,7 +35,7 @@ TIHKAL entry #25. A complex, naturally occurring indole alkaloid from the root b
 ## Three Contexts of Use
 
 ### 1. Bwiti Religious Ritual (Gabon)
-The root bark of Tabernanthe iboga has been used in religious rituals since the early 19th century. The Bwiti religion calls for iboga as a sacrament. Traditional preparation involves consuming the root bark itself, requiring perhaps 10x the weight of pure ibogaine. The psychopharmacological effects reflect religious needs — contact with ancestors, spiritual vision, community bonding.
+The root bark of Tabernanthe iboga has been used in religious rituals since the early 19th century. The Bwiti religion calls for iboga as a sacrament. [[kava-traditional-preparation-ceremonial-context]] involves consuming the root bark itself, requiring perhaps 10x the weight of pure ibogaine. The psychopharmacological effects reflect religious needs — contact with ancestors, spiritual vision, community bonding.
 
 ### 2. Psychotherapy (Claudio Naranjo et al.)
 Focus on early memory, reliving of past experiences, and emotional processing. A typical dose is ~400 mg of pure chemical. The long duration and memory-enhancing properties made it suitable for deep psychodynamic work, though the physical demands limited its clinical appeal compared to shorter-acting psychedelics.
@@ -60,13 +60,13 @@ Ibogaine belongs to the Apocynaceae plant family, which Shulgin calls "probably 
 - **Tabernanthe iboga**: The major source, native to Gabon. Root bark is the traditional sacrament.
 - **Tabernanthe orientalis** (now Ervatamia orientalis): Found in Western Australia. Leaves contain ibogaine plus six minor related alkaloids.
 - **Tabernanthe pubescens**: Found in Zaire. Contains ibogaine and several closely related alkaloids.
-- **Tabernaemontana spp.**: Several dozen species, some with ibogaine, many with analgesic or sedative action, and some with a long history of native usage in Africa or Southeast Asia.
+- **Tabernaemontana spp.**: Several dozen species, some with ibogaine, many with analgesic or sedative action, and some with a long history of native usage in Africa or [[psilocybe-southeast-asia-pacific]].
 - **Voacanga schweinfurthii var. puberula**: Contains ~10 related alkaloids; tabersonine is the major constituent at 3.5% in seeds. Ibogaine is a minor constituent of the root bark at 0.02% (200 mg/kg).
 - **Peschiera echinata**: ~2% alkaloid content in leaves, including ibogaine.
 
 ### Related Genera
 
-Many plants in Apocynaceae carry alkaloids closely related to ibogaine. Genera include Anacampta, Bonafousia, Capuronetta, Conopharyngia, Ervatamia, Gabunia, Hazunta, Muntafara, Pagiantha, Pandaca, Phrissocarpus, Callichilia, Creoceras, Rejoua, Schizozygia, and Stemmadenia. Many of these have been reclassified under Tabernaemontana at various points, creating taxonomic confusion.
+Many plants in Apocynaceae carry alkaloids closely related to ibogaine. Genera include Anacampta, Bonafousia, Capuronetta, Conopharyngia, Ervatamia, Gabunia, Hazunta, Muntafara, Pagiantha, Pandaca, Phrissocarpus, Callichilia, Creoceras, Rejoua, Schizozygia, and Stemmadenia. Many of these have been reclassified under Tabernaemontana at various points, creating [[neurotropic-fungi-taxonomic-confusion-and-identification]].
 
 ## Physical Properties
 
@@ -80,4 +80,4 @@ Many plants in Apocynaceae carry alkaloids closely related to ibogaine. Genera i
 - [[harmaline-entity-tihkal]] — beta-carboline with MAOI properties, also from Apocynaceae
 - [[psychedelic-therapy-models-comparison]] — clinical applications of psychedelics
 - [[alexander-shulgin]] — primary author of TIHKAL
-- [[claude-naranjo]] — pioneered ibogaine psychotherapy research
+- [[claude-naranjo]] — pioneered ibogaine [[psilocybin-psychotherapy-research-history]]

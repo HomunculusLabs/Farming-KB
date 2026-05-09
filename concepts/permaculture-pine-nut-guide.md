@@ -41,13 +41,13 @@ Although it provides a good windbreak when young, older trees tend to lose their
 
 It produces the edible pignolia nut, the growing of which is an important commercial industry in Europe. The seeds are eaten raw or roasted and salted. They are used in sweetmeats, cakes, puddings, biscuits, soups, etc. In Romania the young cones are used whole to flavour game sauces.
 
-Nutritional composition of the pignolia per 100 grams of edible portion: Water - 5.6%, Energy - 552 calories, Carbohydrate - 11.6 g, Fat - 47.4 g, Protein - 31.1 g, Ash - 4.3 g, Thiamin - 0.62 mg. Digestion time: 2.75 hours.
+[[dighton-fungal-nutritional-composition-animal-diets]] of the pignolia per 100 grams of edible portion: Water - 5.6%, Energy - 552 calories, Carbohydrate - 11.6 g, Fat - 47.4 g, Protein - 31.1 g, Ash - 4.3 g, Thiamin - 0.62 mg. Digestion time: 2.75 hours.
 
 ### Pinus edulis (Two-leaved Pine or Colorado Pinon)
 
-Native to the higher regions of the south west of the USA (from California to Texas and Mexico), Pinus edulis is the producer of the commercial pine nut of the USA. It is slow growing, eventually reaching a height of 4-8 m. It is drought tolerant and cold hardy, but also thrives in the heat of the deserts.
+Native to the higher regions of the south west of the USA (from California to Texas and Mexico), Pinus edulis is the producer of the commercial pine nut of the USA. It is slow growing, eventually reaching a height of 4-8 m. It is [[permplant-carob-drought-tolerant-food-tree]] and cold hardy, but also thrives in the heat of the deserts.
 
-The cones are rounded, light brown in colour and about 5 cm in length. The nuts are small and tasty and are collected as a delicacy by the native Americans. The seeds are oily and eaten raw or roasted. They are used in breads, biscuits, nut butters, ice cream, sauces, stuffings, and confectionery. They are ground into a meal and used in puddings, soups and gruels. They can be mixed with cornmeal or sunflower seed meal. The needles are brewed into a tea and the unripe cones are roasted to produce a syrupy food. The sweet cambium is cut into thin strips and cooked like spaghetti.
+The cones are rounded, light brown in colour and about 5 cm in length. The nuts are small and tasty and are collected as a delicacy by the native Americans. The seeds are oily and eaten raw or roasted. They are used in breads, biscuits, nut butters, ice cream, sauces, stuffings, and confectionery. They are ground into a meal and used in puddings, soups and gruels. They can be mixed with cornmeal or [[oyster-mushroom-sunflower-seed-hull-substrate]] meal. The needles are brewed into a tea and the unripe cones are roasted to produce a syrupy food. The sweet cambium is cut into thin strips and cooked like spaghetti.
 
 ### Pinus sabiniana (Digger Pine)
 
@@ -63,7 +63,7 @@ Occurring naturally on dry rocky mountain slopes in California at altitudes of 1
 
 ### Pinus lambertiana (Sugar Pine)
 
-A native of the Pacific coast of North America, this is the largest of all pines reaching a height of 75 m and a spread of 6 m. The cones are up to 50 cm long and bear a nut rich in sugar and oil which is eaten raw, roasted or pressed into cakes. When cut or wounded the heartwood exudes a sap that forms sugar-like lumps which is used for sweetening food. When used in quantity it is cathartic.
+A native of the Pacific coast of [[psilocybin-north-america-pacific-northwest]], this is the largest of all pines reaching a height of 75 m and a spread of 6 m. The cones are up to 50 cm long and bear a nut rich in sugar and oil which is eaten raw, roasted or pressed into cakes. When cut or wounded the heartwood exudes a sap that forms sugar-like lumps which is used for sweetening food. When used in quantity it is cathartic.
 
 ### Pinus cembroides (Mexican Pinon)
 
@@ -87,17 +87,23 @@ A small, hardy, drought-resistant native to the higher rocky foothills from Idah
 
 ### Araucaria araucana (Monkey Puzzle Tree)
 
-Native evergreen of Chile and Argentina growing from 15-35 m. Prefers cool, moist, loamy soils and sheltered positions. Hot, dry conditions will often cause the tree to die. The nuts, called pinones, are twice the size of an almond and rich in starch. They are roasted, boiled, eaten fresh and also made into an alcoholic drink. Eighteen good sized trees are reported to be able to yield enough to sustain an adult for a year. Propagation is by seed and trees require frost protection for the first couple of years.
+Native evergreen of Chile and Argentina growing from 15-35 m. Prefers cool, moist, loamy soils and sheltered positions. Hot, dry conditions will often cause the tree to die. The nuts, called pinones, are twice the size of an almond and rich in starch. They are roasted, boiled, eaten fresh and also made into an alcoholic drink. Eighteen good sized trees are reported to be able to yield enough to sustain an adult for a year. Propagation is by seed and trees require [[holzer-frost-protection-techniques]] for the first couple of years.
 
 ### Araucaria bidwillii (Bunya Bunya)
 
-Native, evergreen of south eastern Queensland in Australia, reaching 30-45 m with a spread of 10 m. Trunk to 1.5 m diameter. Frost tolerant, prefers humid climate with 900-2000 mm rainfall. The nut can grow as large as a walnut and is rich in starch. The nuts can be used as a flour or boiled in their shells for about 20 mins and eaten hot. Nuts are likely to explode when being roasted. The nuts are produced in large cones (up to 30 cm diameter, weighing up to 7 kg) in late summer and autumn.
+Native, evergreen of south eastern Queensland in Australia, reaching 30-45 m with a spread of 10 m. Trunk to 1.5 m diameter. Frost tolerant, prefers [[mollison-designers-cool-humid-climate-design-overview]] with 900-2000 mm rainfall. The nut can grow as large as a walnut and is rich in starch. The nuts can be used as a flour or boiled in their shells for about 20 mins and eaten hot. Nuts are likely to explode when being roasted. The nuts are produced in large cones (up to 30 cm diameter, weighing up to 7 kg) in late summer and autumn.
 
 ## Permaculture Integration
 
 - Pine nuts provide high-calorie, high-protein food from perennial trees
 - Many species are extremely drought and cold tolerant -- suited to [[permaculture-food-forest-design-principles]]
 - Digger pine (P. sabiniana) allows intercropping due to open canopy
-- Pair with [[permaculture-cold-climate-strategies]]
+- Pair with permaculture-cold-climate-strategies
 - [[permaculture-frost-protection-strategies]]
-- [[permaculture-designers-manual-plant-propagation]]
+- permaculture-designers-manual-plant-propagation
+## See Also
+- [[juglans-regia]]
+- [[araucaria-araucana]]
+- [[permaculture-almond-guide]]
+- [[permaculture-beginners-guide-soil-building-basics]]
+- [[permaculture-plant-propagation-guide]]

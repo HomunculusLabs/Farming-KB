@@ -20,7 +20,7 @@ The molecular formula is C₁₁H₁₄N₂O, with a molecular weight of 190.24 
 
 ## Biosynthetic Role
 
-Norpsilocin occupies a key position in the metabolic pathway of psilocybin production:
+Norpsilocin occupies a key position in the metabolic pathway of [[gottlieb-psilocybin-production-extraction-methods]]:
 
 1. **L-Tryptophan** → tryptamine (via decarboxylation)
 2. **Tryptamine** → 4-hydroxytryptamine (via hydroxylation by PsiH)
@@ -28,7 +28,7 @@ Norpsilocin occupies a key position in the metabolic pathway of psilocybin produ
 4. **Norpsilocin** → psilocin (via second methylation by PsiM)
 5. **Psilocin** → psilocybin (via phosphorylation by PsiK)
 
-This pathway was elucidated through genomic and biochemical studies of *Psilocybe cubensis*. The enzyme **PsiM** functions as a **S-adenosyl-L-methionine (SAM)-dependent methyltransferase** capable of performing both the first and second N-methylations, with norpsilocin as the obligate intermediate.
+This pathway was elucidated through genomic and biochemical studies of *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*. The enzyme **PsiM** functions as a **S-adenosyl-L-methionine (SAM)-dependent methyltransferase** capable of performing both the first and second N-methylations, with norpsilocin as the obligate intermediate.
 
 ## Pharmacology
 
@@ -36,7 +36,7 @@ As a 4-hydroxytryptamine with a single methyl group, norpsilocin retains the abi
 
 - Potentially **lower affinity** for 5-HT₂A compared to psilocin due to reduced lipophilicity
 - May have **different metabolic stability** — lacking a methyl group may affect monoamine oxidase (MAO) susceptibility
-- Could contribute to the **entourage effect** in whole mushroom preparations
+- Could contribute to the **[[cannabis-terpene-entourage-effect-profiles]]** in whole mushroom preparations
 
 Pharmacological data on isolated norpsilocin is extremely limited, as it is typically present in mushrooms only as a **trace constituent** alongside the more abundant psilocybin and psilocin.
 
@@ -45,8 +45,8 @@ Pharmacological data on isolated norpsilocin is extremely limited, as it is typi
 Norpsilocin has been detected in multiple psilocybin-containing species, generally at very low concentrations:
 
 - *Psilocybe cubensis*
-- *[[mushroom-identification]] and potency testing
-- **Comparative phytochemistry** across psychoactive fungi genera
+- *mushroom-identification and potency testing
+- **Comparative phytochemistry** across [[cattle-dispersal-psychoactive-fungi-australia]] genera
 
 ## See Also
 
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,4 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+- [[field-guide-psilocybin-mushroom-species-identification]]

@@ -1,5 +1,5 @@
 ---
-title: Chestnuts as Multipurpose Nut Crop in Permaculture
+title: Chestnuts as Multipurpose permplant chestnuts castanea nut crop coppice in Permaculture
 created: 2026-04-28
 tags:
   - permaculture
@@ -23,7 +23,7 @@ fair lime tolerance but inability to withstand salinity, chestnuts have
 been valued for millennia as a |staple carbohydrate source and [[castanea-sativa]])
 A large, spreading tree up to 35 metres tall with girth up to 1-3
 metres. Prized for timber in Europe where the tree is coppiced. The
-young timber is tough and durable but old growth wood is of little use
+young timber is tough and durable but [[fungal-roles-in-old-growth-forests]] wood is of little use
 except as firewood. This is the primary commercial chestnut species.
 
 ### Japanese Chestnut (Castanea crenata)
@@ -38,7 +38,7 @@ Phytophthora spp, which can kill trees, making it a valuable rootstock
 and breeding parent.
 
 ### American Chestnut (Castanea dentata)
-Once one of the major deciduous trees of North America reaching 30
+Once one of the major deciduous trees of [[psilocybin-north-america-pacific-northwest]] reaching 30
 metres, it was largely destroyed by a bark fungus in the early 1900s.
 Seed is still available from areas that escaped the blight. The nuts are
 said to be the sweetest of any species.
@@ -81,4 +81,4 @@ Chestnut timber and foliage have relatively low combustibility compared
 to many other tree species. This makes them suitable for planting as
 components of [[permaculture-design]]
 
-In a [[chestnuts-castanea-spp]]
+In a chestnuts-castanea-spp

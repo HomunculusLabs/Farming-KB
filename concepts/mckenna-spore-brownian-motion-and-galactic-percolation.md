@@ -1,5 +1,5 @@
 ---
-title: Mckenna Spore Brownian Motion And Galactic Percolation
+title: Mckenna mckenna spore brownian motion and galactic percolation Motion And Galactic Percolation
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -9,8 +9,8 @@ sources: [raw/papers/mckenna_t-tryptamines_consciousness.md]
 
 # Spore Brownian Motion and Galactic Percolation
 
-In his 1983 Esalen lecture, Terence McKenna elaborated the
-[[spore]] interstellar dispersal hypothesis as
+In his 1983 Esalen lecture, [[terence-mckenna]] elaborated the
+[[spore]] [[spore-interstellar-dispersal-hypothesis]] hypothesis as
 it was presented to him by the mushroom itself during [[spore-interstellar-dispersal-hypothesis]]
 - [[mckenna-tryptamines-soul-and-extraterrestrial-hypothesis]]
 - [[mckenna-food-gods-tryptamine-dimension]]
@@ -64,7 +64,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -142,4 +142,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

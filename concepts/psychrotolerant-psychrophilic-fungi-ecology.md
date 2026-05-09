@@ -29,7 +29,7 @@ Those taxa were considered psychrophilic.
 Snow molds are low-temperature-tolerant soil-borne fungi that can
 damage and kill grasses, cereals, and other plants. The name is based
 on the fact that these fungi can grow at the bases of snow-covered
-plants, and often their extensive mycelial mats are located in
+plants, and often their extensive [[singh-mycelial-mats-and-biological-soil-crusts]] are located in
 association with damaged plants soon after snow melts. Snow molds also
 may damage fruits and crops stored at low temperatures.
 
@@ -61,7 +61,7 @@ associated with snowfields, glaciers, and cold soils. Their
 distribution is coupled to water availability, as it is in warm
 desert ecosystems. The occurrence of fungi in these environments is
 often seasonal, with peaks of activity during snowmelt and the brief
-growing season.
+[[savory-growing-season-and-non-growing-season-management]].
 
 ### Ecological Adaptations
 
@@ -72,7 +72,7 @@ adaptations:
 - Modification of membrane lipid composition to maintain fluidity
   at low temperatures
 - Accumulation of compatible solutes and cryoprotectant compounds
-- Altered cell wall composition to prevent ice crystal damage
+- Altered [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] composition to prevent ice crystal damage
 - Production of antifreeze proteins that inhibit ice crystal growth
 
 ## Stress Tolerance Framework
@@ -87,7 +87,7 @@ stress but may compete among themselves under cold conditions.
 
 In polar and alpine regions, species richness is low, with relatively
 few species adapted to the abiotic conditions of these environments.
-Other stressful environments, however, may contain diverse communities
+Other [[fungi-stressful-environments-thermophilic-xerophilic-halophilic]], however, may contain diverse communities
 of fungi that are active for short periods, such as soil or dung in
 desert ecosystems.
 ## See Also

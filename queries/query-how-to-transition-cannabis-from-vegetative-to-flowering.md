@@ -1,10 +1,11 @@
 ---
-title: "How to Transition Cannabis from Vegetative to Flowering"
+title: "How to query how to transition cannabis from vegetative to flowering from Vegetative to Flowering"
 created: 2026-04-28
 tags: [query, cannabis, flowering, photoperiod, growth-stages]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -12,13 +13,13 @@ type: query
 
 ## Short Answer
 
-Transitioning photoperiod cannabis plants into flowering requires switching the light cycle from 18 hours on and 6 hours off (18/6) to 12 hours on and 12 hours off (12/12). This change in day length triggers hormonal shifts that begin the flowering process, typically showing visible signs within one to two weeks. Plan for plants to double or triple in height during the flowering stretch.
+Transitioning photoperiod cannabis plants into flowering requires switching the light cycle from 18 hours on and 6 hours off (18/6) to 12 hours on and 12 hours off (12/12). This change in [[coleman-winter-day-length-and-persephone-months]] triggers hormonal shifts that begin the flowering process, typically showing visible signs within one to two weeks. Plan for plants to double or triple in height during the flowering stretch.
 
 ## Understanding the Light Trigger
 
 For photoperiod cannabis strains (the vast majority of regular and feminized seeds), flowering is triggered not by plant size or age, but by the duration of uninterrupted darkness. When the dark period reaches 12 hours or longer, the plant begins producing flowering hormones called florigens.
 
-The [[cannabis-vegetative-stage-management]], this means considering grow space height, light distance from canopy, and pot size when deciding when to transition.
+The [[cannabis-vegetative-stage-management]], this means considering grow space height, light distance from canopy, and [[query-how-to-choose-the-right-pot-size-for-cannabis]] when deciding when to transition.
 
 Outdoor growers have less control over timing, as flowering is triggered naturally by the shortening days of late summer and early autumn.
 
@@ -40,7 +41,7 @@ Signs of hermaphroditism to watch for:
 
 ## Nutrient Transition
 
-During the transition, nutrient needs shift significantly as the plant redirects energy from vegetative growth to flower production.
+During the transition, nutrient needs shift significantly as the plant redirects energy from [[cannabis-vegetative-growth-stage]] to flower production.
 
 The [[cannabis-photoperiodism-and-light-cycles]]
 - Plan for plants to double or triple in height during the post-flip stretch phase
@@ -69,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

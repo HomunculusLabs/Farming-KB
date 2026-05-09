@@ -1,5 +1,5 @@
 ---
-title: Arbuscular Mycorrhizal Fungal Diversity
+title: comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi Fungal Diversity
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -24,7 +24,7 @@ Most evidence indicates AM fungi reproduce clonally via mitospores formed in soi
 
 ### Host Range
 
-Host specificity appears minimal or absent. Over 1,000 isolates of 98 species across all genera can grow and sporulate on a single host plant (Sorghum sudanense). A single root system can accommodate colonization by up to 10 AM species simultaneously. However, host and environmental factors differentially influence colonization rates and sporulation by different species.
+Host specificity appears minimal or absent. Over 1,000 isolates of 98 species across all genera can grow and sporulate on a single host plant (Sorghum sudanense). A single root system can accommodate colonization by up to 10 AM species simultaneously. However, host and [[duggar-mushroom-environmental-factors-temperature-moisture-light]] differentially influence colonization rates and sporulation by different species.
 
 ## Taxonomic Diversity
 
@@ -57,7 +57,7 @@ Some Acaulospora and Glomus species are more closely related to Geosiphon pyrifo
 
 ### Nutrient Exchange
 
-AM fungi improve phosphorus acquisition by plants in low-phosphorus soils. When soil phosphorus exceeds plant requirements, the symbiosis may become inhibitory and even pathogenic. AM fungi influence Rhizobium-Bradyrhizobium associations with legumes through increased phosphorus availability.
+AM fungi improve phosphorus acquisition by plants in low-phosphorus soils. When soil phosphorus exceeds plant requirements, the symbiosis may become inhibitory and even pathogenic. AM fungi influence Rhizobium-Bradyrhizobium associations with legumes through increased [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]].
 
 ### Soil Structure
 
@@ -65,17 +65,17 @@ AM fungi produce glomalin — a heat-stable glycoprotein that coats hyphae and s
 
 ### Mycorrhizosphere Effects
 
-The mycorrhizosphere — soil volume influenced by AM hyphae — dramatically affects root- and soil-associated microorganisms. Mycorrhizal roots have altered exudation patterns that influence bacterial communities, nitrogen fixation, and plant-pathogen interactions.
+The mycorrhizosphere — soil volume influenced by AM hyphae — dramatically affects root- and soil-associated microorganisms. Mycorrhizal roots have altered exudation patterns that influence [[cultivar-endorhiza-bacterial-communities-cannabis]], [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], and plant-pathogen interactions.
 
 ## Sampling and Conservation
 
-AM fungi are found in soil worldwide and have also been detected in aerial epiphytes and vegetative plant debris. The International Culture Collection of Vesicular Arbuscular Mycorrhizal Fungi (INVAM) contains almost 1,100 accessions of more than 86 species. Many areas remain unsampled, and characterization of fungal communities, life histories, and dynamics is still in early stages.
+AM fungi are found in soil worldwide and have also been detected in aerial epiphytes and vegetative plant debris. The International Culture Collection of Vesicular Arbuscular Mycorrhizal Fungi (INVAM) contains almost 1,100 accessions of more than 86 species. Many areas remain unsampled, and characterization of [[biodiversity-of-fungi-soil-fungal-communities-agriculture]], life histories, and dynamics is still in early stages.
 
 ## Related Topics
 
 - [[mycorrhizal-networks]] — comprehensive treatment of mycorrhizal ecology
 - [[soil-fungal-diversity]] — soil as habitat for AM fungi
-- [[fungal-chromogens-and-color-change]]
+- fungal-chromogens-and-color-change
 - [[mycorrhizal-fungi-hydrocarbon-remediation]]
 
 ## See Also

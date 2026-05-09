@@ -52,7 +52,7 @@ The ECS relevance to IBS includes:
   altered CB1 expression patterns.
 - **Motility regulation**: CB1 activation slows gut motility (relevant to
   IBS-D), while CB2 activation may help normalize motility patterns.
-- **Stress response**: By modulating the gut-brain axis, cannabinoid
+- **[[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]]**: By modulating the gut-brain axis, cannabinoid
   therapy addresses the stress-IBS connection directly.
 - **Intestinal permeability**: Endocannabinoids help maintain tight
   junction integrity; deficiency may contribute to "leaky gut" in IBS.
@@ -64,7 +64,7 @@ THC-inclusive preparations may better address pain and sleep disruption.
 
 ## Crohn's Disease
 
-Crohn's disease is a chronic inflammatory bowel disease (IBD) characterized
+Crohn's disease is a chronic [[blesching-cannabis-inflammatory-bowel-disease]] disease (IBD) characterized
 by transmural inflammation that can affect any part of the GI tract from
 mouth to anus. It involves immune dysregulation, gut barrier dysfunction,
 and dysbiosis.
@@ -74,7 +74,7 @@ Cannabis research in Crohn's disease includes:
 - **Anti-inflammatory action**: CB2 activation on intestinal immune cells
   reduces pro-inflammatory cytokine production (TNF-alpha, IL-1beta, IL-6),
   which are central to Crohn's pathology.
-- **Clinical trial evidence**: A landmark Israeli study showed that
+- **[[psilocybin-clinical-trial-landscape-2020-2025]] evidence**: A landmark Israeli study showed that
   cannabis significantly improved Crohn's disease activity index scores,
   with some patients achieving complete remission.
 - **Symptom management**: Cannabis reduces abdominal pain, diarrhea, nausea,

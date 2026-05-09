@@ -20,12 +20,12 @@ area of research within
 [[brown-rot-and-white-rot-fungi-in-mycoremediation]] comparison is relevant here
 because white-rot fungi, which evolved to break down lignin, one of the most
 complex and durable organic polymers in nature, possess enzyme systems that can
-also attack synthetic polymers with similar chemical structures. Lignin and many
+also attack synthetic polymers with similar [[plants-of-the-gods-chemical-structures-hallucinogens]]. Lignin and many
 plastics share aromatic and complex cross-linked molecular architectures that these
 fungal enzymes can partially recognize and degrade.
 
 PET (polyethylene terephthalate), the plastic most commonly used in beverage
-bottles and food packaging, has also been targeted by fungal degradation research.
+bottles and food packaging, has also been targeted by [[singh-fungal-degradation-endocrine-disrupting-compounds]] research.
 While bacterial PETase enzymes from Ideonella sakaiensis have received more media
 attention, several fungal species including Fusarium oxysporum, Trichoderma reesei,
 and various Aspergillus species produce cutinase and esterase enzymes that can
@@ -33,7 +33,7 @@ hydrolyze PET ester bonds. The
 [[query-how-does-mycoremediation-work-and-what-can-fungi-clean-up]] encompasses
 plastic degradation as one of many pollutant types that fungi can address. Fungi
 have been documented degrading or transforming a remarkable range of environmental
-contaminants including petroleum hydrocarbons, polycyclic aromatic hydrocarbons
+contaminants including petroleum hydrocarbons, [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons
 (PAHs), heavy metals, pesticides, pharmaceuticals, and even explosives. The same
 non-specific enzyme systems that allow white-rot fungi to break down lignin also
 enable them to oxidize and partially degrade many synthetic organic pollutants,
@@ -43,9 +43,9 @@ valuable organisms for environmental cleanup applications.
 Research into [[comparison-phytoremediation-vs-mycoremediation-detail]] highlights important
 advantages of fungal approaches for plastic pollution. While plants can absorb and
 accumulate certain pollutants, they cannot enzymatically break down most plastic
-polymers. Fungi, with their powerful extracellular enzyme systems and invasive
+polymers. Fungi, with their powerful [[dighton-fungal-extracellular-enzyme-systems-decomposition]] systems and invasive
 hyphal growth, can actively colonize and degrade plastic materials in ways that
-plants simply cannot. Furthermore, fungal mycelial networks can penetrate deep
+plants simply cannot. Furthermore, fungal [[fungal-mycelial-networks-nutrient-translocation]] can penetrate deep
 into soil and compost matrices where plastic fragments accumulate, accessing
 pollution that surface-based remediation methods would miss.
 
@@ -55,7 +55,7 @@ Degradation rates are currently too slow for practical waste treatment
 applications, and most research has been conducted under controlled laboratory
 conditions that may not translate directly to field environments. The
 [[query-can-fungi-clean-up-oil-spills]] and other mycoremediation applications
-- Scaling fungal plastic biodegradation from lab to field remains a major
+- [[singh-scaling-fungal-remediation-lab-to-field]] plastic biodegradation from lab to field remains a major
   scientific and engineering challenge
 
 ## Related Questions
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

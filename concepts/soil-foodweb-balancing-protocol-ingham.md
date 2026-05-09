@@ -1,5 +1,5 @@
 ---
-title: Soil Foodweb Balancing Protocol (Ingham Method)
+title: Soil soil foodweb balancing protocol ingham Protocol (Ingham Method)
 created: 2026-04-28
 tags:
   - soil-foodweb
@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Elaine Ingham Ph.D., The Field Guide I for Actively Aerated Compost Tea (AACT), 2004"
+  - "Elaine Ingham Ph.D., The Field Guide I for Actively actively-aerated-compost-tea Tea (AACT), 2004"
 type: concept
 ---
 
@@ -21,7 +21,7 @@ The Soil Foodweb balancing protocol is a systematic, step-by-step approach devel
 
 ## Overview
 
-Healthy soil requires the complete soil foodweb: bacteria, fungi, protozoa (flagellates, amoebae, and ciliates), beneficial nematodes (bacterial-feeding, fungal-feeding, and predatory), microarthropods, and earthworms. When any group is missing or too low, plants become susceptible to disease, nutrient leaching increases, and soil structure degrades. The protocol identifies deficiencies through soil testing and corrects them with specific biological inputs.
+Healthy soil requires the complete soil foodweb: bacteria, fungi, protozoa (flagellates, amoebae, and ciliates), [[ingham-beneficial-nematodes-soil-food-web]] (bacterial-feeding, fungal-feeding, and predatory), microarthropods, and earthworms. When any group is missing or too low, plants become susceptible to disease, nutrient leaching increases, and soil structure degrades. The protocol identifies deficiencies through soil testing and corrects them with specific biological inputs.
 
 ## Step One: Assess Current Biology
 
@@ -38,7 +38,7 @@ The desired ranges account for whether the crop is annual (bacterial-dominated) 
 
 If total bacterial biomass is too low, an inoculum of bacteria is needed to reach at least the minimum desired range. Good sources include:
 
-- Aerobic compost (thermal or vermicompost)
+- [[ingham-anaerobic-vs-aerobic-compost-tea]] (thermal or vermicompost)
 - Compost tea with high bacterial content
 - Commercial bacterial inocula (though these typically contain only a few species)
 
@@ -65,7 +65,7 @@ Mycorrhizal assessment is critical for perennial crops. The protocol divides act
 
 ## Step Five: Protozoa Assessment
 
-Protozoa are essential for nutrient cycling. They consume bacteria and release plant-available nutrients (especially nitrogen). Three groups are assessed:
+Protozoa are essential for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. They consume bacteria and release plant-available nutrients (especially nitrogen). Three groups are assessed:
 
 - **Flagellates**: Small, fast-moving protozoa that consume bacteria in water films
 - **Amoebae**: Larger protozoa that consume bacteria on soil particle surfaces
@@ -106,7 +106,7 @@ Send soil samples to SFI Labs or equivalent for periodic monitoring. The soil fo
 
 ## Application Methods for Inocula
 
-The protocol includes multiple delivery methods:
+The protocol includes multiple [[cannabis-delivery-methods-comparison]]:
 
 - **Mulch**: Selects for fungi through spatial separation of carbon from soil nutrients
 - **Plugs**: Fill planting trays with aerobic compost and VAM spores, then plant seeds or bare roots
@@ -119,6 +119,8 @@ The protocol includes multiple delivery methods:
 The protocol emphasizes that diversity of organisms is critically important. Good compost contains approximately 25,000 unique DNA strands per gram. Single-species inocula can be useful for specific known problems, but the whole foodweb approach provides more robust, long-lasting protection and nutrient cycling. Where compost tea has failed, it is almost always because the full set of organisms was not present in the brew.
 
 ## See Also
+
+- [[soil-foodweb-succession-bacteria-fungi-cycle-ingham]]
 
 - [[nutrient-cycling-in-soil]]
 - [[aact-disease-suppression-recipes]]

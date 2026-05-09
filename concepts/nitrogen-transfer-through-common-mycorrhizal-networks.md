@@ -1,5 +1,5 @@
 ---
-title: Nitrogen Transfer Through Common Mycorrhizal Networks
+title: symbiotic-fungi-mycorrhizal-nitrogen-transfer-networks Through Common dighton-mycorrhizal-networks-carbon-transfer
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -9,9 +9,9 @@ sources: []
 
 # Nitrogen Transfer Through Common Mycorrhizal Networks
 
-Common mycorrhizal networks (CMNs) -- hyphal connections linking the roots of multiple plants through shared mycorrhizal fungal mycelium -- mediate bidirectional nutrient transfer between plants. Nitrogen transfer through CMNs has significant implications for ecosystem function, particularly in nitrogen-limited environments.
+Common mycorrhizal networks (CMNs) -- hyphal connections linking the roots of multiple plants through shared [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] mycelium -- mediate bidirectional nutrient transfer between plants. Nitrogen transfer through CMNs has significant implications for ecosystem function, particularly in nitrogen-limited environments.
 
-The concept of CMNs has transformed our understanding of plant communities, revealing that plants are not simply competing for resources as isolated individuals but are interconnected through underground fungal networks that can facilitate resource sharing. Nitrogen, as a frequently limiting nutrient in terrestrial ecosystems, is a key currency in these inter-plant exchanges. The [[arbuscular-mycorrhizal-fungi]]
+The concept of CMNs has transformed our understanding of plant communities, revealing that plants are not simply competing for resources as isolated individuals but are interconnected through underground fungal networks that can facilitate [[mycelial-network-resource-sharing-plants]]. Nitrogen, as a frequently limiting nutrient in terrestrial ecosystems, is a key currency in these inter-plant exchanges. The [[arbuscular-mycorrhizal-fungi]]
 
 - [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
 
@@ -95,4 +95,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

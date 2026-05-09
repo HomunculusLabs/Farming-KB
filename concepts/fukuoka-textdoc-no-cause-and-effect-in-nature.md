@@ -1,5 +1,5 @@
 ---
-title: No Cause and Effect in Nature - The Principle of Non-Causality
+title: No fukuoka textdoc no cause and effect in nature in Nature - The Principle of Non-Causality
 created: 2026-04-28
 tags: [philosophy, causality, non-causality, mu, natural-laws]
 date: 2026-04-28
@@ -28,7 +28,7 @@ bring about excessive plant growth and increase acidity even further, in which
 case one ends up confusing cause with effect.
 
 Fukuoka's own experience confirmed this. Right after the war, he used large
-quantities of sawdust and wood chips in his orchard. Soil experts opposed
+quantities of sawdust and [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] in his orchard. Soil experts opposed
 this, saying that organic acids produced when the wood rots would make the
 soil acidic and that large quantities of lime would be needed to neutralize
 it. Yet the soil did not turn acid, so lime was not needed. What the experts
@@ -39,7 +39,7 @@ acidity.
 ## Behind Every Cause, Another Cause
 
 Behind every phenomenon there is a main cause, a fundamental cause, an
-underlying cause, and contributing factors. Numerous causes and effects
+underlying cause, and [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]]. Numerous causes and effects
 intertwine in a complex pattern that leaves little clue as to the true cause.
 Even so, man is confident of the ability of science to find the true cause
 through persistent investigation and to set up effective ways of coping with
@@ -49,7 +49,7 @@ The scientist who brings a soil sample to the laboratory for analysis finds
 it consists of organic and inorganic matter. He divides the inorganic matter
 into components such as nitrogen, potassium, phosphorus, calcium, and
 manganese. Noting variation in wheat head size, he investigates the cause,
-discovers calcium deficiency, and prescribes supplementation. Pleased with
+discovers [[knf-calcium-deficiency-symptoms]], and prescribes supplementation. Pleased with
 his success, he calls his discovery scientific truth.
 
 ## The Principle of Non-Causality
@@ -67,6 +67,9 @@ This is Fukuoka's principle of non-causality, elaborated in
 [[fukuoka-textdoc-no-good-or-evil-in-nature]].
 
 ## See Also
+
+- [[savory-cause-and-effect-guideline]]
+- fukuoka-no-cause-and-effect-in-nature
 
 - [[fukuoka-theory-principle-of-non-causality]]
 - [[fukuoka-liebig-law-critique]]
@@ -89,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -11,7 +11,7 @@ sources:
 
 ALEPH-7 is the n-propylthio homologue of [[aleph-1-entity]] (methylthio), with the sulfur chain extended from one to three carbons.
 
-The compound was first synthesized and explored by Alexander Shulgin.
+The compound was first synthesized and explored by [[alexander-shulgin]].
 
 ## Pharmacological Profile
 

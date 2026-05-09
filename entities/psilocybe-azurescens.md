@@ -1,5 +1,5 @@
 ---
-title: "Psilocybe azurescens"
+title: "stamets-psi-psilocybe-azurescens-species-guide"
 type: species
 tags:
   - fungi
@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Stamets, P. (1996). "Psilocybe Mushrooms of the World." Ten Speed Press.
-  - Guzmán, G., Stamets, P. (2002). "A New Bluing Species of Psilocybe Section Azurescens from New Jersey." Mycotaxon 84: 1-6.
+  - Guzmán, G., Stamets, P. (2002). "A New Bluing Species of [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]] Azurescens from New Jersey." Mycotaxon 84: 1-6.
   - Gartz, J. (1996). "Distribution and Ecological Aspects of Psilocybe azurescens." Integration Journal 1: 68-71.
   - Besl, H. et al. (1995). "Neue Erkenntnisse zur Verbreitung von Psilocybe azurescens." Mycologischer Bote 3: 14-16.
 created: 2026-04-28
@@ -23,7 +23,7 @@ created: 2026-04-28
 
 **Psilocybe azurescens** is a potent psilocybin-containing mushroom in the family Hymenogastraceae. Commonly called "Astoria Ossip," "Flying Saucers," or "Blue Runners," it is among the most psychoactive Psilocybe species known.
 
-It was first identified in 1979 by Boy Scouts near the Columbia River in Oregon, and formally described by mycologist Paul Stamets in 1996. The species is endemic to the Pacific Northwest coast of North America.
+It was first identified in 1979 by Boy Scouts near the Columbia River in Oregon, and formally described by mycologist Paul Stamets in 1996. The species is endemic to the Pacific Northwest coast of [[psilocybin-north-america-pacific-northwest]].
 
 The mushroom is critically renowned for its exceptional psilocybin and psilocin content, which can exceed 1.8% dry weight combined. This makes it significantly more potent than the more widely known *P. cubensis*.
 
@@ -87,9 +87,9 @@ Its association with dune grass root systems suggests a possible weak endophytic
 
 ## Effects and Experience
 
-Dose ranges for dried *P. azurescens* are notably lower than for other Psilocybe species due to its elevated alkaloid content. A typical threshold dose is 0.5–1.0 g dried, while a full psychedelic experience ranges from 1.5–3.0 g dried.
+Dose ranges for dried *P. azurescens* are notably lower than for other Psilocybe species due to its elevated alkaloid content. A typical threshold dose is 0.5–1.0 g dried, while a full [[leary-psychedelic-experience-bardo-mapping]] ranges from 1.5–3.0 g dried.
 
-The effects profile is characteristic of psilocybin mushrooms: visual hallucinations, altered time perception, synesthesia, and profound changes in thought patterns. However, users consistently report greater intensity, longer duration (6–8 hours), and more vivid visual effects compared to *P. cubensis* at equivalent visual weights.
+The effects profile is characteristic of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]: visual hallucinations, altered time perception, synesthesia, and profound changes in thought patterns. However, users consistently report greater intensity, longer duration (6–8 hours), and more vivid visual effects compared to *P. cubensis* at equivalent visual weights.
 
 The onset is typically 20–40 minutes, with peak effects between 1.5–3 hours. Comedown is gradual over 2–4 hours. Nausea during onset is common.
 
@@ -101,7 +101,7 @@ Internationally, the species is controlled under the UN Convention on Psychotrop
 
 ## Related Species
 
-- **Psilocybe cyanescens** — Wider distribution, slightly lower potency, similar habitat preferences
+- **[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]** — Wider distribution, slightly lower potency, similar habitat preferences
 - **Psilocybe bohemica** — European counterpart, comparable potency
 - **Psilocybe allenii** — Recently described Pacific Northwest species, close relative
 - **Psilocybe subaeruginosa** — Australian species, similar ecology and potency

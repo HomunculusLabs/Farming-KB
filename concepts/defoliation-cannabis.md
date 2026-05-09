@@ -3,6 +3,7 @@ title: Defoliation (Cannabis)
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
@@ -11,7 +12,7 @@ tags: [cannabis]
 
 # Defoliation (Cannabis)
 
-Defoliation in cannabis cultivation refers to the selective or systematic removal of leaves from the plant to improve light penetration, airflow, and overall bud development. The practice is one of the most debated topics among growers. Cervantes takes a clear conservative position: "Leave leaves alone! Removal of healthy leaves hacks up a healthy plant." However, he also provides specific guidance on when leaf removal is appropriate and beneficial.
+Defoliation in [[query-how-does-no-till-cannabis-cultivation-work]] refers to the selective or systematic removal of leaves from the plant to improve light penetration, airflow, and overall bud development. The practice is one of the most debated topics among growers. Cervantes takes a clear conservative position: "Leave leaves alone! Removal of healthy leaves hacks up a healthy plant." However, he also provides specific guidance on when leaf removal is appropriate and beneficial.
 
 ## Cervantes' Position
 
@@ -44,7 +45,7 @@ Despite the cautionary stance, Cervantes identifies several scenarios where leaf
 ### Improving Air Circulation
 
 - "Pruning out spindly branches and growth inside plants opens up the interior and provides more and better air circulation"
-- Good airflow through the canopy reduces humidity and helps prevent mold and fungal diseases
+- Good airflow through the canopy reduces humidity and helps [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] and fungal diseases
 
 ### During Harvest Preparation
 
@@ -66,16 +67,16 @@ A more aggressive approach where a significant percentage of fan leaves are remo
 
 A form of defoliation that strips the lower portion of each branch, leaving only the upper canopy. See [[sea-of-green]] and [[cannabis-pruning-and-defoliation-guide]] -- comprehensive pruning reference
 - [[supercropping]] -- high-stress training involving leaf and branch manipulation
-- cannabis pest management -- integrated pest management including defoliation
+- cannabis [[cannabis-pest-management-guide]] -- integrated pest management including defoliation
 - [[sea-of-green]] -- dense setups where selective defoliation is sometimes needed
-- [[cannabis-vegetative-stage]] -- defoliation timing in vegetative growth
+- [[cannabis-vegetative-stage]] -- defoliation timing in [[cannabis-vegetative-growth-stage]]
 
 ## Defoliation and Plant Health
 
-Cervantes connects defoliation directly to plant health monitoring. The process of inspecting plants for leaves worth removing forces the grower to examine each plant closely, which helps catch pest and disease problems early. Regular defoliation sessions serve a dual purpose: cleaning up unproductive foliage and conducting a plant health inspection.
+Cervantes connects defoliation directly to plant health monitoring. The process of inspecting plants for leaves worth removing forces the grower to examine each plant closely, which helps catch [[hamilton-pest-and-disease-control-organic]] problems early. Regular defoliation sessions serve a dual purpose: cleaning up unproductive foliage and conducting a plant health inspection.
 
 Signs that indicate a leaf should be removed:
-- More than 50 percent of the leaf surface is damaged or discolored
+- More than 50 percent of the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is damaged or discolored
 - The leaf is completely shaded and contributing nothing to photosynthesis
 - The leaf shows signs of mold, mildew, or pest damage
 - The leaf is completely dry and dead

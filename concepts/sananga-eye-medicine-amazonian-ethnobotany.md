@@ -1,5 +1,5 @@
 ---
-title: Sananga — Amazonian Ophthalmic Eye Medicine
+title: Sananga — Amazonian Ophthalmic sananga eye medicine amazonian ethnobotany
 source_type: general_knowledge
 mined_date: 2026-05-08
 tags: [sananga, tabernaemontana, amazonian-medicine, eye-drops, ethnobotany, iboga-alkaloids, indigenous-healing]
@@ -14,7 +14,7 @@ Sananga is a traditional Amazonian eye drop preparation made from the roots and 
 
 The genus Tabernaemontana comprises approximately 100 species of evergreen shrubs and small trees distributed throughout tropical regions of the Americas, Africa, and Asia. The species used for sananga preparation are found in the lowland Amazon rainforest, where they grow as understory shrubs and small trees. Tabernaemontana sananho is a shrub or small tree reaching 2–8 meters in height, with glossy dark green leaves and fragrant white flowers. The plant produces milky latex characteristic of the Apocynaceae family. The roots and inner bark are the primary plant parts harvested for sananga preparation.
 
-The Apocynaceae family is pharmacologically significant, containing numerous psychoactive and medicinal species. Other notable members include Tabernanthe iboga (source of ibogaine), Catharanthus roseus (source of vinblastine and vincristine, important anticancer drugs), and Rauvolfia serpentina (source of reserpine). The shared presence of indole alkaloids across this family reflects a common biosynthetic pathway and explains the pharmacological overlap between sananga and iboga-containing medicines.
+The Apocynaceae family is pharmacologically significant, containing numerous psychoactive and medicinal species. Other notable members include [[plants-of-the-gods-tabernanthe-iboga-chemistry]] (source of ibogaine), Catharanthus roseus (source of vinblastine and vincristine, important anticancer drugs), and Rauvolfia serpentina (source of reserpine). The shared presence of indole alkaloids across this family reflects a common biosynthetic pathway and explains the pharmacological overlap between sananga and iboga-containing medicines.
 
 ## Chemical Composition
 
@@ -108,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

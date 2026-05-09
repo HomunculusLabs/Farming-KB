@@ -1,5 +1,5 @@
 ---
-title: "Composting Methods"
+title: "natural-farming-guide-composting-methods-and-techniques"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -14,7 +14,7 @@ Source: Steve Solomon, "Gardening When It Counts" (2005)
 
 ## The Truth About Compost
 
-Solomon's chapter on compost challenges the organic gardening orthodoxy that "all compost is good compost." His core argument: most home-made compost is nutritionally inadequate for growing high-demand vegetables, and excessive organic matter can unbalance soil minerals.
+Solomon's chapter on compost challenges the [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] orthodoxy that "all compost is good compost." His core argument: most home-made compost is nutritionally inadequate for growing high-demand vegetables, and excessive [[hamilton-composting-and-organic-matter-management]] can unbalance soil minerals.
 
 The original organic gardening movement (1940s) propagated the belief that any compost would grow great vegetables. This was propaganda to build a movement, not scientific truth. In reality, for compost to serve as the sole fertility source for most vegetable crops, it needs:
 - Nitrogen content exceeding 3 percent
@@ -96,13 +96,15 @@ Permanent mulching is widely promoted but Solomon identifies problems:
 - May keep soil too cool in spring
 - Can block capillary moisture from reaching the surface
 
-He uses a thin surface layer of finished compost as a mulch, applied after beds are prepared, not as permanent ground cover.
+He uses a thin surface layer of finished compost as a mulch, applied after beds are prepared, not as permanent [[fukuoka-citrus-orchard-ground-cover-cultivation]].
 
 ## COF: The Practical Alternative
 
-For gardeners who cannot produce high-quality compost (most of us), Solomon's Complete Organic Fertilizer is the practical answer. COF provides balanced minerals without the risks of sheet composting or the inadequacy of low-grade compost. Use COF as the primary fertility source; compost as a soil conditioner and secondary nutrient source.
+For gardeners who cannot produce high-quality compost (most of us), Solomon's Complete [[complete-organic-fertilizer-cof-recipe-solomon]] is the practical answer. COF provides balanced minerals without the risks of sheet composting or the inadequacy of low-grade compost. Use COF as the primary fertility source; compost as a soil conditioner and [[cervantes-secondary-nutrient-deficiency]] source.
 
 ## See Also
+
+- [[solomon-manure-nutrient-variability-cof]]
 
 - [[composting-materials-alternative]]
 - [[bokashi-compost-method]]

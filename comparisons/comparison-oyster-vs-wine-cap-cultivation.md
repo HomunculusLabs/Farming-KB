@@ -12,7 +12,7 @@ type: comparison
 # Oyster vs Wine Cap Cultivation
 
 ## Overview
-Oyster mushrooms (Pleurotus spp.) and wine cap mushrooms (Stropharia
+[[query-how-to-grow-oyster-mushrooms-at-home]] (Pleurotus spp.) and wine cap mushrooms (Stropharia
 rugosoannulata) are two of the most accessible and rewarding mushroom
 species for beginner cultivators. Both can be grown outdoors on woody
 substrates with minimal equipment, but they differ significantly in
@@ -45,7 +45,7 @@ well to cooking.
 The primary drawback is the long timeline. Unlike oysters that fruit in
 weeks, wine caps typically require six to twelve months of colonization
 before the first significant flush. They also require outdoor conditions
-with adequate moisture and are less adaptable to indoor cultivation. Wine
+with adequate moisture and are less adaptable to [[cannabis-sativa-indoor-cultivation-techniques]]. Wine
 caps are sensitive to competition from other fungi in wood chip piles and
 perform best when established with quality spawn on freshly prepared
 substrate rather than being introduced into aged wood chip piles already
@@ -56,8 +56,8 @@ colonized by other decomposer fungi.
 |--------|-----------------|-----------|
 | Time to fruit | 2-4 weeks after colonization | 6-12 months after inoculation |
 | Primary substrate | Straw, sawdust, paper | Hardwood chips, straw |
-| Growing environment | Indoor or outdoor | Outdoor only |
-| Temperature range | Wide (species-dependent) | Cool to warm (spring/fall) |
+| [[cannabis-growing-environment-setup]] | Indoor or outdoor | Outdoor only |
+| [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] | Wide (species-dependent) | Cool to warm (spring/fall) |
 | Fruit body size | Small to medium | Large (up to 5+ inches) |
 | Flavor | Mild, delicate, anise notes | Rich, earthy, portobello-like |
 | Garden integration | Limited | Excellent (bed mulch) |
@@ -67,7 +67,7 @@ colonized by other decomposer fungi.
 ## When to Choose Oyster Mushrooms
 Oyster mushrooms are the best choice for growers seeking fast results,
 indoor cultivation options, or the ability to grow on inexpensive and
-diverse substrates like straw and coffee grounds. They are ideal for
+diverse substrates like straw and [[oyster-mushroom-coffee-grounds-cultivation]]. They are ideal for
 beginners because the quick lifecycle provides rapid feedback and learning
 opportunities. Market growers appreciate oysters for their high yield
 potential, variety of marketable types, and ability to produce year-round
@@ -91,7 +91,7 @@ long-term production. Oyster spent substrate can be recycled into wine cap
 beds as additional woody material. Some growers also inoculate the same
 wood chip bed with both species, as they occupy slightly different niches
 and can coexist in a polycultural mushroom garden with complementary
-fruiting seasons and substrate preferences.
+[[azurescens-fruiting-seasons-and-conditions]] and substrate preferences.
 
 ## See Also
 - [[comparison-mushroom-log-cultivation-vs-monotub-cultivation]]

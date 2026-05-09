@@ -17,7 +17,7 @@ sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325465/
   - https://examine.com/supplements/hericium-erinaceus/
   - Mori et al., "Improving effects of the mushroom Yamabushitake on mild cognitive impairment" (2009)
-  - Wong et al., "Hericium erinaceus: An edible mushroom with medicinal values" (2021)
+  - Wong et al., "[[hericium-erinaceus]]: An edible mushroom with medicinal values" (2021)
 ---
 
 # Lion's Mane
@@ -37,8 +37,8 @@ sources:
 The genus name *Hericium* derives from Latin *hericium* (hedgehog), referencing the spiny, cascading fruiting body. The common name "lion's mane" refers to the mushroom's resemblance to a cascading white mane.
 
 ### Related Species
-- **Hericium coralloides** (coral hedgehog) — similar appearance, overlapping medicinal uses
-- **Hericium americanum** (bear's head tooth) — North American species
+- **[[hericium-coralloides]]** (coral hedgehog) — similar appearance, overlapping medicinal uses
+- **[[hericium-americanum]]** (bear's head tooth) — North American species
 - **Hericium erinaceus** is the most studied and commercially significant species in the genus
 
 ## Description
@@ -50,7 +50,7 @@ Lion's Mane produces one of the most distinctive fruiting bodies in the fungal k
 - **Color:** White when young, becoming cream to yellowish with age. Spines may brown at tips in maturity.
 - **Spines:** 1–5 cm long, decurrent (running down the stem-like base), soft and fleshy when fresh, brittle when dried
 - **Taste and texture:** Often compared to lobster, crab, or sweet corn when cooked. Texture is tender, slightly chewy, and meaty.
-- **Spore print:** White
+- **[[spore-print]]:** White
 - **Odor:** Mild, pleasant, slightly fruity or seafood-like when fresh
 
 ### Ecological Role
@@ -116,7 +116,7 @@ The most significant human clinical trial to date:
 Preclinical studies suggest potential applications in:
 - **Alzheimer's disease:** Reduces amyloid-β plaque formation in animal models. May protect cholinergic neurons.
 - **Parkinson's disease:** Protects dopaminergic neurons from oxidative damage in vitro
-- **Multiple sclerosis:** Anti-inflammatory effects on microglial cells
+- **[[blesching-cannabis-multiple-sclerosis]]:** Anti-inflammatory effects on microglial cells
 
 ## Immune System Effects
 
@@ -144,4 +144,4 @@ Lion's Mane is commercially cultivated on hardwood substrates:
 
 - [[cordyceps-militaris]] — Medicinal mushroom for energy and respiratory health
 - [[fatigue-crack-growth]] — Detailed overview of NGF biology
-- [[beta-glucans]] — Immunomodulatory polysaccharides found in medicinal mushrooms
+- [[beta-glucans]] — Immunomodulatory polysaccharides found in [[medicinal-mushrooms]]

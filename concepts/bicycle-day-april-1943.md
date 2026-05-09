@@ -17,7 +17,7 @@ On April 16, 1943, gordon-wasson had experienced a strange episode while working
 
 At home, he lay down and sank into a "not unpleasant intoxicated-like condition, characterized by an extremely stimulated imagination." With eyes closed, he perceived "an uninterrupted stream of fantastic pictures, extraordinary shapes with intense, kaleidoscopic play of colors."
 
-This experience lasted about two hours. Hofmann surmised a connection with the substance he had been working with — lysergic acid diethylamide tartrate — and suspected that a trace had been absorbed through his fingertips during crystallization.
+This experience lasted about two hours. Hofmann surmised a connection with the substance he had been working with — [[ergot-and-lysergic-acid-history]] diethylamide tartrate — and suspected that a trace had been absorbed through his fingertips during crystallization.
 
 ## The Deliberate Self-Experiment: April 19, 1943
 
@@ -59,6 +59,7 @@ Hofmann was seized by the "dreadful fear of going insane." He was taken to anoth
 
 At times he believed himself to be outside his body, perceiving clearly, as an outside observer, the complete tragedy of his situation. He reflected with bitter irony that if he was forced to leave this world prematurely, it was because of the lysergic acid diethylamide that he himself had brought forth into the world. This experience is foundational to [[lsd-discovery-and-history]], albert hofmann, [[lsd-history]], [[lsd-lysergic-acid-diethylamide-experience-guide]]
 - [[hofmann-self-experiment-with-ergonovine]]
+
 ## Practical Considerations
 
 Successful implementation of Bicycle Day — April 19, 1943 requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

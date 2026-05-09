@@ -10,7 +10,7 @@ sources:
 
 # Cannabis and Depression Research
 
-**Source:** Uwe Blesching, The Cannabis Health Index (2017)
+**Source:** Uwe Blesching, The [[blesching-cannabis-health-index-autoimmune-conditions]] (2017)
 
 ## Condition Overview
 
@@ -72,7 +72,7 @@ Cannabinoids address depression through mechanisms that overlap with and extend 
 
 - **CB1 receptor-mediated mood elevation:** Enhanced CB1 receptor activity in the hippocampus produces antidepressant-like effects through modulation of glutamate and GABA -- the brain's primary excitatory and inhibitory neurotransmitters. This restores the E/I (excitatory/inhibitory) balance that is disrupted in depression.
 
-- **Multi-cannabinoid synergy (2010, Mississippi):** The discovery that Delta-9-THC, Delta-8-THC, CBG, CBN, CBC, and CBD all independently exert antidepressant-like actions suggests that whole-plant cannabis provides multi-target depression treatment through the entourage effect. No single pharmaceutical targets as many depression-relevant pathways simultaneously.
+- **Multi-cannabinoid synergy (2010, Mississippi):** The discovery that Delta-9-THC, Delta-8-THC, CBG, CBN, CBC, and CBD all independently exert antidepressant-like actions suggests that whole-plant cannabis provides multi-target depression treatment through the [[cannabis-terpene-entourage-effect-profiles]]. No single pharmaceutical targets as many depression-relevant pathways simultaneously.
 
 - **Endocannabinoid deficiency hypothesis:** Reduced endocannabinoid tone (low anandamide levels) has been observed in depression patients. Cannabis supplementation may correct this deficiency, particularly CBD which inhibits FAAH (the enzyme that degrades anandamide), effectively boosting the body's natural antidepressant compounds.
 
@@ -84,7 +84,7 @@ Cannabinoids address depression through mechanisms that overlap with and extend 
 
 The clinical evidence for cannabis in depression is among the strongest in the Cannabis Health Index, with a CHI value of 23.
 
-- **Largest clinical trial (1995, Tulsa):** The study of 139 AIDS patients showing 10% mood improvement with dronabinol vs. -2% worsening with placebo is one of the best-designed cannabis studies in the CHI database. The negative placebo response (typical in depression trials) underscores the robustness of the treatment effect.
+- **Largest [[psilocybin-clinical-trial-landscape-2020-2025]] (1995, Tulsa):** The study of 139 AIDS patients showing 10% mood improvement with dronabinol vs. -2% worsening with placebo is one of the best-designed cannabis studies in the CHI database. The negative placebo response (typical in depression trials) underscores the robustness of the treatment effect.
 
 - **Comparative effectiveness (2009, Boston):** Cannabis was rated as more effective than standard antidepressant medications by 775 HIV/AIDS patients across 10 locations, providing strong real-world evidence for superiority over conventional treatment.
 
@@ -98,15 +98,15 @@ The clinical evidence for cannabis in depression is among the strongest in the C
 
 - **Sativa-dominant strains for daytime:** Sativa strains with higher THC content provide energizing, uplifting effects appropriate for daytime depression management. THC 5-10 mg per dose.
 
-- **Balanced THC:CBD for overall mood:** A 1:1 THC:CBD ratio (5 mg each) provides both mood elevation and anxiety reduction, addressing the common depression-anxiety comorbidity.
+- **Balanced THC:CBD for overall mood:** A 1:1 THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]] (5 mg each) provides both mood elevation and anxiety reduction, addressing the common depression-anxiety comorbidity.
 
 - **CBD for anxiety-associated depression:** If depression is primarily driven by anxiety, CBD 15-25 mg twice daily with minimal THC (1-2.5 mg) may be more effective than THC-dominant preparations.
 
 - **Microdosing approach:** Some patients respond well to very low doses (1-2.5 mg THC) taken 2-3 times daily, providing subtle mood elevation without intoxication. This approach minimizes functional impairment.
 
-- **Avoid excessive THC:** High-dose THC (>15 mg) can cause dysphoria, anxiety, and cognitive impairment that worsen depression. The therapeutic window for THC in depression is relatively narrow.
+- **Avoid excessive THC:** High-dose THC (>15 mg) can cause dysphoria, anxiety, and cognitive impairment that worsen depression. The [[blesching-cannabis-therapeutic-window-dosing]] for THC in depression is relatively narrow.
 
-- **Strain terpene profiles:** Strains high in limonene (citrus-scented, mood-elevating) and pinene (alertness-enhancing) may provide additional antidepressant effects through non-cannabinoid pathways.
+- **Strain [[cannabis-terpene-profiles-sativa]]:** Strains high in limonene (citrus-scented, mood-elevating) and pinene (alertness-enhancing) may provide additional antidepressant effects through non-cannabinoid pathways.
 
 ## Safety and Interactions
 

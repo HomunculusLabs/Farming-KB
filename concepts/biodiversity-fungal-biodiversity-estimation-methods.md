@@ -1,5 +1,5 @@
 ---
-title: "fungal-biodiversity Estimation Methods"
+title: "fungal-biodiversity fungal-species-estimation-methods-total-diversity"
 created: 2026-04-28
 tags:
   - biodiversity-estimation
@@ -19,7 +19,7 @@ type: concept
 Estimating fungal biodiversity from limited sampling presents significant
 challenges because fungi are diverse, patchily distributed, and often
 ephemeral in their fruiting. Large numbers of species inhabit small
-areas, and studies of [[fungal-communities-succession]] without sustained,
+areas, and studies of fungal-communities-succession without sustained,
 long-term sampling effort.
 
 ## Complementarity Analysis
@@ -79,17 +79,21 @@ estimation in fungal biodiversity studies.
 Schmit and colleagues examined the utility of the jackknife, Chao 2,
 and other estimators applied to macrofungal inventory data. They found
 that none of the currently used extrapolation techniques was robust when
-applied to their data from a northwest Indiana [[fungal-biodiversity-inventory-design]] that measured diversity of both
+applied to their data from a northwest Indiana fungal-biodiversity-inventory-design that measured diversity of both
 macrofungi and trees examined 25 studies involving 184 plots across
-North America, Europe, China, and Costa Rica. The analysis determined
+[[psilocybin-north-america-pacific-northwest]], Europe, China, and Costa Rica. The analysis determined
 that although plots contained more macrofungi than trees, the
 macrofungi were neither more nor less widely distributed than tree
 species. Sampling effort had a major impact on macrofungal diversity
 discovered, but habitat type and tree diversity played larger roles in
 explaining differences between studies than sampling effort alone.
-Differences in sampling protocols also interfered with direct comparisons
+Differences in [[lichen-biodiversity-sampling-protocols-data-analysis]] also interfered with direct comparisons
 of results.
 
 ## Factors Influencing Estimated Richness
 
 Diversity at a site depends on habitat type ([[fungal-biodiversity-species-estimation]]
+
+## See Also
+
+- [[fungal-biodiversity-scale-discovery-estimation]]

@@ -23,18 +23,18 @@ sources:
   - Heim, R. (1942). "Nouveaux aspects de la mycologie asiatique." Encyclopédie Mycologique 23: 1-260.
   - Hyder, N. et al. (2018). "A review of Termitomyces: biology, taxonomy, and cultivation." Mycology 9(3): 125-141.
   - Aanen, D.K. et al. (2002). "The evolution of fungus-growing termites and their mutualistic fungal symbionts." Proceedings of the National Academy of Sciences 99(23): 14887-14892.
-  - Katongole, C. et al. (2019). "Nutritional composition of wild Termitomyces species from Uganda." Journal of Food Composition and Analysis 80: 23-28.
+  - Katongole, C. et al. (2019). "[[dighton-fungal-nutritional-composition-animal-diets]] of wild Termitomyces species from Uganda." Journal of Food Composition and Analysis 80: 23-28.
   - De Fine Licht, H.H. et al. (2005). "The termite-associated fungus Termitomyces." Insectes Sociaux 52(3): 253-259.
 ---
 
 ## Overview
 
-*Termitomyces heimii* is a highly prized edible mushroom in the family Lyophyllaceae,
+*Termitomyces heimii* is a highly prized [[bloomfield-boletus-satanus-edible-mushroom-hazards]] in the family Lyophyllaceae,
 notable for its obligate mutualistic symbiosis with fungus-growing termites
 (Macrotermitinae). The genus *Termitomyces* contains approximately 30 species, all of
 which are cultivated by termites within their subterranean comb structures. *T. heimii*
 is one of the most widely consumed species, harvested from termite mounds across
-tropical Africa and South and Southeast Asia. The mushroom commands premium prices
+tropical Africa and South and [[psilocybe-southeast-asia-pacific]]. The mushroom commands premium prices
 in local markets and is culturally significant in many rural communities. Recent
 interest in its cultivation potential and unique biology has made it a subject of
 intensive mycological research.
@@ -94,7 +94,7 @@ best-studied examples of insect-fungus mutualism:
   leaf litter), inoculate it with *Termitomyces* spores or mycelial fragments from
   the existing comb, and maintain the fungal garden within the nest. The comb is a
   spongy structure of plant material permeated by *Termitomyces* mycelium.
-- **Nutrient exchange**: *Termitomyces* decomposes lignocellulose in the plant
+- **[[arbuscule-isolation-and-nutrient-exchange-mechanisms]]**: *Termitomyces* decomposes lignocellulose in the plant
   material that termites cannot digest alone. The fungus-consume (old comb with
   ripe sporophores and concentrated fungal proteins) is eaten by termites. In
   return, termites maintain optimal growth conditions (constant temperature
@@ -115,7 +115,7 @@ rich in minerals (potassium, phosphorus, iron, zinc). Preliminary studies indica
 
 - **Antioxidant activity**: Methanolic extracts show significant DPPH and ABTS
   radical scavenging activity, attributed to phenolic compounds and flavonoids.
-- **Antimicrobial properties**: Extracts inhibit growth of *Staphylococcus aureus*
+- **[[mycelium-running-mushroom-antimicrobial-properties-species-chart]]**: Extracts inhibit growth of *Staphylococcus aureus*
   and *Escherichia coli* in disc diffusion assays.
 - **Immunomodulatory**: Polysaccharide fractions stimulate macrophage activity
   and increase splenocyte proliferation in animal models.
@@ -128,7 +128,7 @@ gathering activity, often involving entire families. In West Africa, they featur
 in traditional ceremonies and are considered a delicacy served to honored guests.
 In India, *T. heimii* is known locally as "puttu" in Kerala and "bhuin alu" in
 Odia-speaking regions. Market prices can reach 3–5 times those of common
-cultivated mushrooms due to limited seasonal availability.
+[[fungi-cultivated-mushrooms-pathogens-competitors]] due to limited seasonal availability.
 ## Related Species
 
 - ***[[termitomyces-clypeatus]]***: Smaller species with a conspicuous persistent

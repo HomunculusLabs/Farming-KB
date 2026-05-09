@@ -1,5 +1,5 @@
 ---
-title: "Can You Reveg a Cannabis Plant After Harvest"
+title: "Can You query can you reveg a cannabis plant after harvest Plant After Harvest"
 created: 2026-04-28
 tags: [query, cannabis, harvesting, revegging, cultivation]
 date: 2026-04-25
@@ -13,9 +13,9 @@ type: query
 ## Short Answer
 Yes, cannabis plants can be revegetated (re-vegged) after harvest by leaving 
 enough
-foliage and returning them to a vegetative light schedule (18/6 or 24/0). The 
+foliage and returning them to a vegetative [[query-best-light-schedule-for-cannabis]] (18/6 or 24/0). The 
 plant will
-revert to vegetative growth, producing new branches and leaves that can be 
+revert to [[cannabis-vegetative-growth-stage]], producing new branches and leaves that can be 
 flowered again
 for a second harvest. However, revegging stresses the plant and results vary by 
 strain.
@@ -43,7 +43,7 @@ look distinctly different from normal cannabis foliage. This is normal and
 temporary. Within
 2 to 4 weeks, the plant will begin producing typical multi-fingered fan leaves 
 and new
-branching. The odd leaf morphology during early revegging is sometimes called 
+branching. The odd [[cannabis-leaf-morphology-and-phyllotaxy]] during early revegging is sometimes called 
 "whorled
 phyllotaxy" and results from the hormonal shift from flowering back to 
 vegetative. The
@@ -61,7 +61,7 @@ original container and simply change the light schedule. This method preserves
 the
 established root mass, which accelerates the revegging process and allows for a 
 faster second
-flowering cycle. However, the plant may become rootbound if left in the same 
+[[cannabis-sativa-flowering-cycle-management]]. However, the plant may become rootbound if left in the same 
 container for
 too long. The [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
 pages cover up-potting techniques if the root system needs more space for a 
@@ -73,7 +73,7 @@ after harvest and rooting them as clones. This is often more reliable than full-
 plant
 revegging because young clones recover faster and grow more vigorously than a 
 stressed,
-partially harvested mother. The [[cannabis-clone-rooting-and-transplanting]] pages detail proper cloning 
+partially harvested mother. The  pages detail proper cloning 
 techniques. A
 cutting taken from a harvested plant will grow normally without the unusual leaf
  morphology
@@ -83,7 +83,7 @@ standpoint.
 
 The primary advantage of revegging is genetic preservation. If you grew a plant 
 that
-produced exceptional buds, unique terpene profiles, or outstanding yields, 
+produced exceptional buds, unique [[cannabis-terpene-profiles-sativa]], or outstanding yields, 
 revegging lets
 you keep that exact genetic individual alive rather than relying on seeds from 
 the same
@@ -116,3 +116,7 @@ more productive than waiting for a plant to recover from the revegging process.
 - [[query-how-to-clone-cannabis-plants-step-by-step]]
 - [[query-what-is-the-difference-between-regular-feminized-and-autoflower-seeds]]
 - [[query-how-to-run-perpetual-cannabis-harvest-cycle]]
+
+## See Also
+
+- [[query-can-you-kombucha-ferment-things-other-than-tea]]

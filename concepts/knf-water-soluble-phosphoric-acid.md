@@ -1,5 +1,5 @@
 ---
-title: KNF Water Soluble Phosphoric Acid
+title: KNF Water cho-water-soluble-phosphoric-acid-preparation Acid
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,12 +11,12 @@ sources:
 
 # KNF Water Soluble Phosphoric Acid (WPA)
 
-Water Soluble Phosphoric Acid (also called Water Soluble Phosphate or WSP) is extracted from animal bones using brown rice vinegar (BRV) and charcoal. It is essential for flowering, fruiting, and root development.
+Water Soluble Phosphoric Acid (also called Water Soluble Phosphate or WSP) is extracted from animal bones using brown [[brown-rice-vinegar-brv]] (BRV) and charcoal. It is essential for flowering, fruiting, and root development.
 
 ## Why Phosphoric Acid Matters
 
 - Critical for flower formation and fruit development
-- Promotes root growth and branching
+- Promotes root [[gadd-hyphal-tip-growth-and-branching-mechanisms]]
 - Increases disease resistance
 - Essential for energy transfer (ATP) in plants
 - Deficiency causes stunted growth, dark green/purplish leaves, poor flowering
@@ -39,7 +39,7 @@ Water Soluble Phosphoric Acid (also called Water Soluble Phosphate or WSP) is ex
 5. Roast/grill bones until they are brown and brittle (not charred black)
 6. Crush roasted bones into small pieces (pebble size)
 7. Place crushed bones in a container
-8. Add charcoal pieces (charcoal helps break down the bones)
+8. Add charcoal pieces (charcoal helps [[query-can-fungi-break-down-plastic-pollution]] the bones)
 9. Pour brown rice vinegar to cover the bones
 10. Keep at 1/3 the jar volume (not more)
 11. The vinegar will bubble as it extracts phosphoric acid
@@ -63,7 +63,7 @@ Leftover bones from [[knf-fish-amino-acid]] FAA production can be used. Put them
 ## Dilution and Use
 
 - Basic dilution ratio: 1:1,000
-- Apply during reproductive growth period (flowering and fruiting)
+- Apply during [[knf-reproductive-growth-stage]] period (flowering and fruiting)
 - Can be mixed with WSC for enhanced flower/fruit quality
 - Apply as foliar spray in early morning or late afternoon
 - Good for root crops during tuber development
@@ -73,7 +73,7 @@ Leftover bones from [[knf-fish-amino-acid]] FAA production can be used. Put them
 - When plants show slow flowering or poor fruit set
 - For root crops during bulking stage
 - During transplanting to encourage root development
-- When leaves show purplish discoloration (phosphorus deficiency)
+- When leaves show purplish discoloration ([[query-how-to-fix-phosphorus-deficiency-in-cannabis]])
 
 ## Storage
 

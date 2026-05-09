@@ -1,5 +1,5 @@
 ---
-title: Ingham — Anaerobic vs Aerobic Compost Tea
+title: Ingham — Anaerobic vs ingham anaerobic vs aerobic compost tea Tea
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-One of the most critical distinctions in Dr. Elaine Ingham's work is the difference between actively aerated compost tea (AACT) and anaerobic or poorly aerated brews. The biological outcomes of these two approaches are fundamentally different, and misunderstanding this distinction leads to crop damage, failed disease suppression, and contamination of soil and water systems. This page details Ingham's position on why [[ingham-aact-disease-suppression]], which works through competitive exclusion -- beneficial organisms occupying space and consuming resources that pathogens would otherwise use.
+One of the most critical distinctions in Dr. Elaine Ingham's work is the difference between actively [[actively-aerated-compost-tea]] tea (AACT) and anaerobic or poorly aerated brews. The biological outcomes of these two approaches are fundamentally different, and misunderstanding this distinction leads to crop damage, failed [[aact-disease-suppression-mechanisms-ingham]], and contamination of soil and water systems. This page details Ingham's position on why [[ingham-aact-disease-suppression]], which works through competitive exclusion -- beneficial organisms occupying space and consuming resources that pathogens would otherwise use.
 
 ## AACT Does Not Kill Anything
 
@@ -32,7 +32,7 @@ Ingham recognizes several distinct categories of brewed biological materials:
 
 ### Actively Aerated Compost Tea (AACT)
 
-The gold standard. Maintained at dissolved oxygen levels above 6 ppm throughout the brewing process through active aeration. Produces tea dominated by aerobic beneficial organisms. See [[aact-aeration-oxygen-management-ingham]] throughout the brew is non-negotiable. The aeration system must be capable of maintaining dissolved oxygen above 6 ppm even at peak bacterial activity.
+The gold standard. Maintained at [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] levels above 6 ppm throughout the brewing process through active aeration. Produces tea dominated by aerobic beneficial organisms. See [[aact-aeration-oxygen-management-ingham]] throughout the brew is non-negotiable. The aeration system must be capable of maintaining dissolved oxygen above 6 ppm even at peak bacterial activity.
 
 ## Transport and Storage Failures
 
@@ -47,7 +47,7 @@ Even properly brewed tea can become toxic if mishandled after brewing:
 
 Ingham is sharply critical of research that purports to show compost tea ineffectiveness:
 
-- Researchers who apply tea to fields with less than 0.5% organic matter, then plow and wait three weeks before planting, are "doing everything possible to make certain they will see no benefit"
+- Researchers who apply tea to fields with less than 0.5% [[hamilton-composting-and-organic-matter-management]], then plow and wait three weeks before planting, are "doing everything possible to make certain they will see no benefit"
 - Bacteria and fungi require organic matter to eat -- without food, they cannot perform their functions
 - Plowing destroys the fungal networks that tea is trying to establish
 - Three weeks without food kills the introduced organisms
@@ -62,7 +62,7 @@ These design failures, not limitations of compost tea, explain many negative res
 4. Apply tea within hours of brewing completion
 5. Never transport tea without aeration for extended periods
 6. Ensure adequate organic matter in soil before applying tea
-7. Minimize tillage after tea application to preserve introduced fungi
+7. Minimize tillage after [[compost-tea-application-methods]] to preserve introduced fungi
 8. Distinguish between AACT (aerobic, beneficial) and FCT (anaerobic, toxic) in your practice and communication
 - [[bacterial-vs-fungal-compost-teas]]
 - [[humic-acids-soil-biology-ingham]]
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -12,7 +12,7 @@ type: concept
 
 ## The Fundamental Question
 
-In his correspondence with Ernst Junger in December 1961, Albert Hofmann
+In his correspondence with [[hofmann-ernst-junger-lsd-literary-dialogue]] in December 1961, [[albert-hofmann]]
 raised what he considered the fundamental question of drug use: whether
 the use of substances that so deeply affect our minds could not indeed
 represent a forbidden transgression of limits. Hofmann's concern was
@@ -48,7 +48,7 @@ disturb mental states.
 
 ## Radioactivity as Parallel
 
-Hofmann drew a parallel between psychedelic substances and radioactive
+Hofmann drew a parallel between [[psychedelic-substances-comparison]] and radioactive
 materials. Just as radioactive substances constitute "cracks" in the
 periodic system of elements, where the transition of matter into energy
 becomes manifest, so too do psychedelic substances represent cracks in

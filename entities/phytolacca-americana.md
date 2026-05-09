@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - USDA NRCS (2024). "The PLANTS Database." National Plant Data Team, Baton Rouge, LA.
   - Foster, S. & Duke, J.A. (1990). "A Field Guide to Medicinal Plants." Houghton Mifflin.
-  - Moerman, D.E. (1998). "Native American Ethnobotany." Timber Press.
+  - Moerman, D.E. (1998). "[[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany." Timber Press.
   - Mills, S. & Bone, K. (2000). "The Essential Guide to Herbal Safety." Elsevier.
 ---
 
@@ -20,7 +20,7 @@ sources:
 
 **Phytolacca americana**, commonly known as pokeweed or American pokeweed, is a large perennial herbaceous plant in the family Phytolaccaceae.
 
-It is native to eastern North America and has become widely naturalized in temperate regions worldwide, including Europe and Asia.
+It is native to [[polypore-fungi-eastern-north-america]] America and has become widely naturalized in temperate regions worldwide, including Europe and Asia.
 
 Pokeweed is notable for its striking magenta stems, dark purple berries, and the extreme toxicity of its roots and mature berries.
 
@@ -32,7 +32,7 @@ Despite its toxicity, the species has a long history of medicinal use and its yo
 
 The species was described by Carl Linnaeus in *Species Plantarum* (1753). The genus name *Phytolacca* derives from Greek *phyton* (plant) and *lacca* (lacquer), referring to the red berry dye.
 
-Pokeweed is a robust perennial herb growing 1.5–3 meters tall from a large, fleshy, parsnip-like taproot.
+Pokeweed is a robust perennial [[medicinal-herb-growing]] 1.5–3 meters tall from a large, fleshy, parsnip-like taproot.
 
 The root can exceed 15 cm in diameter and weighs several kilograms in established plants.
 
@@ -102,7 +102,7 @@ The Cherokee used a root poultice for breast inflammation and a root decoction a
 
 The Delaware applied crushed berries to boils and used a root tea to treat hemorrhoids.
 
-The Iroquois employed the plant as a purgative and treated skin conditions with root preparations.
+The Iroquois employed the plant as a purgative and treated [[cannabis-for-skin-conditions-detailed]] with root preparations.
 
 The Powhatan used pokeweed as a ceremonial emetic and for the treatment of worms.
 
@@ -118,11 +118,11 @@ The ribosome-inactivating protein pokeweed antiviral protein (PAP) from the leav
 
 Research interest continues in PAP as a potential immunotoxin conjugate for targeted cancer therapy.
 
-Internal use of pokeweed is strongly discouraged in modern herbal practice due to the narrow therapeutic index and severity of toxicity.
+Internal use of pokeweed is strongly discouraged in modern herbal practice due to the narrow [[cannabis-therapeutic-index-overview]] and severity of toxicity.
 
 ## Ecological Role
 
-Despite its toxicity, pokeweed plays an important ecological role in eastern North American ecosystems.
+Despite its toxicity, pokeweed plays an important ecological role in eastern [[growing-gourmet-north-american-reishi-species]] ecosystems.
 
 The berries are an important late-season food source for numerous bird species, including mockingbirds, catbirds, thrushes, and waxwings.
 

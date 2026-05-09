@@ -1,5 +1,5 @@
 ---
-title: Holistic Goal Definition
+title: savory holistic goal definition Definition
 created: 2026-04-28
 tags: [holistic-management, goal-setting, decision-framework, sustainability]
 date: 2026-04-25
@@ -55,7 +55,7 @@ indefinitely, which in turn sustains the quality of life. It describes how the f
 
 ## Common Mistakes in Goal Formation
 
-The single most common mistake in applying Holistic Resource Management is failure to put
+The single most common mistake in applying [[savory-holistic-resource-management-animal-impact]] Management is failure to put
 any effort into goal formation at all. Too often ranchers and government agencies start
 applying the grazing aspects of the model just to get on with things. Skipping this first
 and most vital step usually indicates poor understanding of the whole model and, inevitably,
@@ -87,7 +87,7 @@ has wrecked production in the long run. The form of production must sustain that
 life and be sustained by the landscape or it will fail.
 
 ## Goals and [[savory-society-and-culture-guideline]], which governs
-holistic management in its broadest sense. Will an action really lead to the quality of
+[[savory-holistic-management-overview]] in its broadest sense. Will an action really lead to the quality of
 life we seek, and what will it do to that of others? Production and landscape goals are
 tested against all the [[savory-flexibility-in-management]]
 

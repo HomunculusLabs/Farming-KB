@@ -34,11 +34,11 @@ H. aurantius disrupts the cytoplasm and causes irreversible changes in the host 
 
 ### Host Defense Responses
 
-In some fungal interactions, the host produces callosities, also called lignitubers, at the point of contact with a mycoparasite. These structures represent a defense reaction originally described in plant-fungal interactions (Young 1926). The effectiveness of such defenses against H. aurantius has not been specifically documented, but the destructive nature of the parasite suggests it can overcome most host resistance mechanisms.
+In some [[singh-fungal-interactions-with-heavy-metals-in-soil]], the host produces callosities, also called lignitubers, at the point of contact with a mycoparasite. These structures represent a defense reaction originally described in plant-fungal interactions (Young 1926). The effectiveness of such defenses against H. aurantius has not been specifically documented, but the destructive nature of the parasite suggests it can overcome most host resistance mechanisms.
 
 ## Toxic Metabolites
 
-H. aurantius produces toxins that are effective against various test fungi (Hoßfeld 1990). These secondary metabolites contribute to its mycoparasitic activity and may be involved in the rapid cytoplasmic disruption observed in host cells. Several Hypomyces species are known to produce bioactive compounds, and the toxin production of H. aurantius is among the best characterized in the genus. Other toxin-producing species in the complex include:
+H. aurantius produces toxins that are effective against various test fungi (Hoßfeld 1990). These [[antifungal-secondary-metabolites-coprophilous-fungi]] contribute to its mycoparasitic activity and may be involved in the rapid cytoplasmic disruption observed in host cells. Several Hypomyces species are known to produce [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]], and the toxin production of H. aurantius is among the best characterized in the genus. Other toxin-producing species in the complex include:
 
 - H. orthosporus (anamorph cladobotryum-orthosporum)
 - H. semitranslucens (anamorph C. fungicola)
@@ -58,7 +58,7 @@ H. aurantius has been found as a parasite on Tremella species, alongside Acremon
 
 ### Auriculariales
 
-H. aurantius has been recorded on Auricularia species, the wood ear or jelly ear fungi that are common on dead wood of broadleaf trees. Parasitism of Auricularia species also involves Acremonium and Verticillium species, and hypomyces-semitranslucens (Helfer 1991).
+H. aurantius has been recorded on Auricularia species, the [[growing-gourmet-wood-ear-auricularia-cultivation]] or jelly ear fungi that are common on [[fungal-dead-wood-diversity]] of broadleaf trees. Parasitism of Auricularia species also involves Acremonium and Verticillium species, and hypomyces-semitranslucens (Helfer 1991).
 
 ### Other Wood-Inhabiting Fungi
 

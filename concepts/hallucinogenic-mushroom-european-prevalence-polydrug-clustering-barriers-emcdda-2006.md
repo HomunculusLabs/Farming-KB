@@ -1,5 +1,5 @@
 ---
-title: "Hallucinogenic Mushroom Use Patterns in Europe: Prevalence, Polydrug Clustering, and Barriers to Diffusion"
+title: "emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Use Patterns in Europe: Prevalence, hallucinogenic mushroom european prevalence polydrug clustering barriers emcdda 2006, and Barriers to Diffusion"
 source: "carolina-mushrooms_08qxp.md"
 tags: [epidemiology, emcdda, europe, hallucinogenic-mushrooms, prevalence, polydrug, drug-trends]
 created: 2026-05-08
@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-The EMCDDA's 2006 case study on hallucinogenic mushrooms provided the first comprehensive
+The EMCDDA's 2006 case study on [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] provided the first comprehensive
 cross-European analysis of prevalence, use patterns, and market dynamics for psilocybin-
 containing fungi. Drawing on data from 12 EU Member States, school surveys (ESPAD 2003),
 and targeted clubbing surveys, the study revealed a distinctive epidemiological profile:
@@ -24,8 +24,8 @@ Among young people aged 15-24 across 12 EU Member States, lifetime prevalence of
 hallucinogenic mushroom use ranged from less than 1% to 8%. The highest prevalence
 estimates were reported in:
 
-- **Netherlands**: Reflecting the historical availability through smartshops
-- **Czech Republic**: Where aromatic decorative mushroom preparations created a
+- **Netherlands**: Reflecting the historical availability through [[smartshops]]
+- **Czech Republic**: Where [[czech-aromatic-decorative-mushroom-legal-loophole]] mushroom preparations created a
   legal-market niche
 - **United Kingdom**: Where retail mushroom shops expanded in the early 2000s
 - **Germany and Ireland**: Both countries with active mushroom retail markets
@@ -73,7 +73,7 @@ Targeted surveys in dance music settings revealed dramatically higher prevalence
 - **France**: Up to 55% lifetime prevalence across five urban centres
 - **Czech Republic**: High prevalence among 1,652 dance party respondents
 
-Among current drug users within club samples (past month), mushroom prevalence rose to
+Among current drug users within club samples (past month), [[emcdda-mixmag-survey-magic-mushroom-prevalence-trends-2000-2005]] rose to
 44%, compared to 11% in the general 16-19 population.
 
 ## Trend Data: The Mixmag Surveys (2000-2005)
@@ -142,6 +142,6 @@ The mushroom use dynamics differ from drugs like cannabis or amphetamines:
 3. **Polydrug context**: Mushrooms are accessed within broader polydrug use rather
 ## See Also
 
-- [[emcdda-hallucinogenic-mushroom-barriers-to-diffusion]]
+- emcdda-hallucinogenic-mushroom-barriers-to-diffusion
 - [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]]
 - [[emcdda-hallucinogenic-mushroom-eu-legislation-responses-2001-2006]]

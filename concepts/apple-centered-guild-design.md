@@ -1,5 +1,5 @@
 ---
-title: Apple Centered Guild Design
+title: Apple apple centered guild design Design
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -10,7 +10,7 @@ sources: [raw/papers/gaias-garden-toby-hemenway.md]
 
 The apple-centered guild is the most widely taught example of [[gaias-garden-methods]] and [[permaculture-food-forest-design-principles]].
 
-Usually the central element is a food-producing plant, though other types of guilds may feature wildlife-attracting or [[permaculture-dynamic-accumulator-plants]] and nutrient cycling.
+Usually the central element is a food-producing plant, though other types of guilds may feature wildlife-attracting or [[permaculture-dynamic-accumulator-plants]] and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 Bulbs should be planted in a circle at the drip line of the tree based on its full-grown size. Since bulbs curtail their growth in early summer, they will not rob water from the tree as the heat comes on. Useful bulbs include daffodils, camas, and alliums (preferably perennial alliums such as garlic, garlic chives, ramps or wild leek, or Egyptian onions rather than annual onions).
 
@@ -20,13 +20,13 @@ Bulbs such as camas and alliums, besides occupying ground that would otherwise b
 
 ## Insect- and Bird-Attracting Plants
 
-The tempting blossoms of flowering plants lure pollinators for boosting fruit set, and attract predatory wasps that feast on pestiferous larvae such as borers and codling moths. This function connects to [[permaculture-companion-planting]] strategies.
+The tempting blossoms of flowering plants lure pollinators for boosting fruit set, and attract predatory wasps that feast on pestiferous larvae such as borers and codling moths. This function connects to permaculture-companion-planting strategies.
 
 Choices include edible herbs such as dill, fennel, and coriander, as well as many of the insectary plants described in plant catalogs. If you want to be meticulous, commercial orchardists suggest selecting flowers that bloom just before and after but not during apple blossom time, so pollinators will be abundant but not distracted by competing blooms. For home orchards, this is less critical.
 
 A few flowering shrubs such as butterfly bush and fuchsia, or perennials such as red-hot poker and salvia varieties, placed not necessarily under the tree but nearby, will encourage insectivorous birds, who will probe the apple tree bark crevices for larvae and eggs. This creates a [[soil-building-permaculture]] technique. Mulch makers include soft-leafed plants such as comfrey, artichokes, cardoon, rhubarb, clovers, and nasturtiums, all of which can be slashed and left to compost in place.
 
-A ring of comfrey around the tree can be hacked down four or five times a summer. As the nutrient-rich greenery rots, it delivers a huge dose of minerals and organic matter to the soil. The resulting thick layer of compost is home to a thriving and diverse population of worms, fungi, bacteria, and other helpful denizens of the soil.
+A ring of comfrey around the tree can be hacked down four or five times a summer. As the nutrient-rich greenery rots, it delivers a huge dose of minerals and [[hamilton-composting-and-organic-matter-management]] to the soil. The resulting thick layer of compost is home to a thriving and diverse population of worms, fungi, bacteria, and other helpful denizens of the soil.
 
 This rich and living soil suppresses diseases, because the churning soil life competes fiercely for food and habitat below the ground. With all the resources divided evenly between the soil's many inhabitants, no one microbial species can get out of balance and become a pest. Buildups of harmful fungi such as apple scab are less likely when there is too much competition and too many predators for a single-species population explosion.
 
@@ -36,17 +36,17 @@ This connects directly to [[chop-and-drop-mulching]] practices.
 
 Examples of plants that accumulate nutrients are chicory, dandelion, yarrow, plantain, and others found in plant reference lists. The deep taproots of these plants plunge far into the mineral soil and dredge up important nutrients: potassium, magnesium, calcium, sulfur, and others.
 
-As the guild matures, nutrients will begin to recycle within the guild rather than requiring extraction from mineral soil by deep roots. The accumulator plants will then become redundant, and begin a natural decline that the gardener can accelerate by pulling them up and replacing them with others. This is related to the broader [[permaculture-nitrogen-fixing-trees-guide]] for tree-scale nitrogen fixation.
+As the guild matures, nutrients will begin to recycle within the guild rather than requiring extraction from mineral soil by deep roots. The accumulator plants will then become redundant, and begin a natural decline that the gardener can accelerate by pulling them up and replacing them with others. This is related to the broader [[permaculture-nitrogen-fixing-trees-guide]] for tree-scale [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 
 ## Soil Fumigants and Pest Repellents
 
 Certain plants exude substances that repel pests. Examples are nasturtiums and certain marigolds. Pest-repellent plants are the least understood of the guild members, and although nasturtiums seem to be beneficial in guilds, few other pest repellents have been well tested. They should be used with caution, as they may repel beneficials as well.
 
-This function relates to [[permaculture-plant-guilds]].
+This function relates to permaculture-plant-guilds.
 
 ## Habitat Nooks
 
-Piling up stones, logs, or brush near the apple guild, and creating small ponds and puddles, will attract lizards, frogs, snakes, and birds. Individual and piled-up rocks placed unobtrusively around the yard attract vast numbers of helpful garter snakes and lizards that nest under them.
+Piling up stones, logs, or brush near the [[mollison-designers-apple-guild-and-cool-climate-fruit-guilds]], and creating small ponds and puddles, will attract lizards, frogs, snakes, and birds. Individual and piled-up rocks placed unobtrusively around the yard attract vast numbers of helpful garter snakes and lizards that nest under them.
 
 This creates a ready crew of beneficial animals for gobbling up slugs, leaf-eating insects, and harmful larvae. Predators are important for preserving balance. If any prey species finds a home in the lush garden and begins to reproduce exuberantly, a waiting population of predators will cull their numbers with chilling efficiency. This habitat creation connects to [[wildlife-habitat-creation]] design.
 
@@ -64,7 +64,7 @@ Many of the apple-guild members have more than one function. Clover and alfalfa 
 
 The winner in the multifunctional sweepstakes is comfrey, which yields mulch and medicine, attracts insects to its flowers, pulls potassium and other minerals from the soil into its leaves, and can be made into a tea for drinking or for fertilizing the garden. Clever guild designers will choose as many multifunctional guild members as they can. This begets a guild that swells with connections, which makes a plant community flexible, responsive, and robust.
 
-This guild restores nature's role as the gardener's partner, transforming a solitary apple tree into a plant community that immensely lightens the human workload. By creating a guild such as this one, gardeners weave a strong web that builds fertile soil and mulch, attracts pollinators and pest-fighting insects, reduces fungal disease, provides a diverse array of food, flowers, and herbs, creates wildlife habitat, and reduces water and fertilizer use. These benefits stem from choosing the right plants and placing them in the right relationship, following [[apple-fritter]]
+This guild restores nature's role as the gardener's partner, transforming a solitary apple tree into a plant community that immensely lightens the human workload. By creating a guild such as this one, gardeners weave a strong web that builds fertile soil and mulch, attracts pollinators and pest-fighting insects, reduces [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]], provides a diverse array of food, flowers, and herbs, creates wildlife habitat, and reduces water and fertilizer use. These benefits stem from choosing the right plants and placing them in the right relationship, following [[apple-fritter]]
 ## Practical Considerations
 
 Successful implementation of Apple Centered Guild Design requires attention to
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

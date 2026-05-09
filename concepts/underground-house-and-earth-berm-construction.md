@@ -1,10 +1,11 @@
 ---
-title: Underground House and Earth Berm Construction
+title: Underground House and underground house and earth berm construction Construction
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 
 # Underground House and Earth Berm Construction
@@ -15,7 +16,7 @@ Underground houses have been built of stone and dirt in every climate for thousa
 
 ## Earth Berm Houses
 
-Most modern North American underground homes are actually earth berm houses -- structures covered in a man-made embankment rather than fully buried. The front of the house is typically open to the south (in the Northern Hemisphere), shaded with vines. The roof can be part of the berm, with plants growing on it, or it can be a conventional peaked roof. In desert climates, homes are set deep into soil or rock faces; in temperate climates, only the back half may be earth-sheltered.
+Most modern [[growing-gourmet-north-american-reishi-species]] underground homes are actually earth berm houses -- structures covered in a man-made embankment rather than fully buried. The front of the house is typically open to the south (in the Northern Hemisphere), shaded with vines. The roof can be part of the berm, with plants growing on it, or it can be a conventional peaked roof. In desert climates, homes are set deep into soil or rock faces; in temperate climates, only the back half may be earth-sheltered.
 
 ## Structural Requirements
 
@@ -40,12 +41,12 @@ Waterproofing is the most critical technical challenge. Multiple layers are reco
 
 ## Advantages
 
-- **Energy efficiency** -- earth thermal mass provides passive heating and cooling; heating/cooling costs can be 50-80% lower than conventional homes
+- **[[fukuoka-textdoc-energy-efficiency-agricultural-labor]]** -- earth thermal mass provides passive heating and cooling; heating/cooling costs can be 50-80% lower than conventional homes
 - **Low maintenance exterior** -- no siding, painting, or weather damage
 - **Fire resistance** -- earth-covered walls are virtually fireproof
 - **Wind resistance** -- earth-sheltered homes are highly resistant to hurricanes and tornadoes
 - **Sound insulation** -- excellent noise reduction
-- **Small footprint** -- can preserve agricultural land and blend with landscape
+- **Small footprint** -- can preserve [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] and blend with landscape
 
 ## Disadvantages
 
@@ -57,7 +58,7 @@ Waterproofing is the most critical technical challenge. Multiple layers are reco
 
 ## Earthbag as Alternative
 
-For those seeking a more sustainable and owner-buildable alternative, [[cob-building]], [[cordwood-construction]] offer additional natural building alternatives with lower environmental impact.
+For those seeking a more sustainable and owner-buildable alternative, [[cob-building]], [[cordwood-construction]] offer additional [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] alternatives with lower environmental impact.
 
 ## Living Roofs
 
@@ -87,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

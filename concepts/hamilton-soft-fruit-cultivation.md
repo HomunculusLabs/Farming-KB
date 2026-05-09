@@ -1,5 +1,5 @@
 ---
-title: Hamilton: Soft Fruit Cultivation
+title: Hamilton: Soft stone-fruit-tree-care
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,17 +9,17 @@ sources:
 ---
 # Hamilton: Soft Fruit Cultivation
 
-**Source:** Geoff Hamilton, *Organic Gardening* (Nick Hamilton edition)
+**Source:** Geoff Hamilton, *[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]* (Nick Hamilton edition)
 
 **Updated:** 2026-04-21
 
 Soft fruits grow on bushes, stakes, or briars and are ideal for the small garden. They soon deteriorate after picking, so home-grown fruit is always superior to supermarket produce. Most are relatively easy to grow and suit a wide range of climates. Strawberries are the only herbaceous perennials in the group; the rest are shrubs or cane fruits. All soft fruits are highly attractive to birds, so protecting ripening fruit with netting is essential.
 
-[[mollison-aquaculture-harvest-and-fish-nutrition]] per square yard/meter in early spring. Mulch with well-rotted manure or compost. If deficiency symptoms appear, spray with liquid [[hamilton-organic-fertilizers-and-plant-nutrition]] in early spring ensures that plants have access to nutrients during the critical flowering and fruit-setting period. Avoid high-nitrogen feeds that promote lush leafy growth at the expense of fruit production.
+mollison-aquaculture-harvest-and-fish-nutrition per square yard/meter in [[coleman-overwintered-onions-and-early-spring-crops]]. Mulch with well-rotted manure or compost. If deficiency symptoms appear, spray with liquid [[hamilton-organic-fertilizers-and-plant-nutrition]] in early spring ensures that plants have access to nutrients during the critical flowering and fruit-setting period. Avoid high-nitrogen feeds that promote lush leafy growth at the expense of fruit production.
 
 ### Watering
 
-Water when fruit is swelling. Stop when fruits color up to discourage fungal disease. Apply through hose and sprinkler for at least an hour at a time; small amounts of water bring roots to the surface.
+Water when fruit is swelling. Stop when fruits color up to discourage [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]]. Apply through hose and sprinkler for at least an hour at a time; small amounts of water bring roots to the surface.
 
 In [[leatherjacket-pest-control]] guides for specific problems.
 
@@ -55,11 +55,11 @@ Bramble fruits growing best in cooler climates. Need regular attention to tying 
 
 The earliest soft fruits of the season, flowering in early spring. May not suit very cold areas. Can be grown as cordons against a wall if space is limited. Prefer heavy, moisture-retentive soil in sun. Plant 5ft (1.5m) apart. Cropping begins in 1-2 years.
 
-Gooseberry mildew can be problematic in humid conditions. Good air circulation through proper pruning and spacing, along with resistant varieties, minimises this issue without the need for fungicides.
+Gooseberry mildew can be problematic in humid conditions. Good [[stamets-growing-room-air-circulation-co2-management]] through proper pruning and spacing, along with resistant varieties, minimises this issue without the need for fungicides.
 
 ## Blueberries (Vaccinium sp.)
 
-Respond well to organic culture and are decorative enough for the ornamental border. Require acid soil—a raised bed for acid-loving plants may be needed in alkaline gardens. Cropping details similar to gooseberries.
+Respond well to organic culture and are decorative enough for the ornamental border. Require acid soil—a [[comparison-chinampas-vs-raised-bed-gardening]] for acid-loving plants may be needed in alkaline gardens. Cropping details similar to gooseberries.
 
 In gardens with phosphorus-availability|alkaline soil, blueberries can be grown successfully in large containers filled with ericaceous compost. This also allows the gardener to control the exact soil conditions.
 
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

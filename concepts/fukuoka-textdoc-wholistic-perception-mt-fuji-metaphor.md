@@ -1,5 +1,5 @@
 ---
-title: "Wholistic Perception and Mt. Fuji Metaphor"
+title: "fukuoka textdoc wholistic perception mt fuji metaphor and Mt. Fuji Metaphor"
 created: 2026-04-28
 tags: [fukuoka, natural-farming, epistemology, wholistic-perception, zen,
 nature-philosophy, nondiscrimination]
@@ -13,7 +13,7 @@ type: concept
 # Wholistic Perception and Mt. Fuji Metaphor
 
 One of Masanobu Fukuoka's most powerful philosophical arguments against the
-scientific method is encapsulated in his Mount Fuji metaphor. This metaphor
+[[fukuoka-limits-scientific-method-agriculture]] is encapsulated in his Mount Fuji metaphor. This metaphor
 illustrates the fundamental difference between analytic knowledge, which breaks
 nature into parts, and wholistic perception, which grasps nature as an
 indivisible whole. The argument carries deep implications for all human
@@ -47,7 +47,7 @@ subjective difference?
 The most common view is that one can best know Fuji by both listening to the
 ecologist and looking at Hokusai's paintings. But this is just like the hunter
 who chases two rabbits and catches none. Such a person neither climbs the
-mountain nor paints. Those who make use of discriminating knowledge cannot grasp
+mountain nor paints. Those who make use of [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] cannot grasp
 the truth of this mountain.
 
 ## The Paradox of Parts and Whole
@@ -113,7 +113,7 @@ yet it forbids first one thing then another, so people keep running into walls.
 Cruder but complete, the simple knowledge that one should eat with moderation
 applies to all people and thus works better. This is so because knowledge that
 is less discriminating has wider application. The principle extends beyond
-nutrition to all of scientific agriculture: the more discriminating and
+nutrition to all of [[fukuoka-critique-scientific-agriculture-civilization]]: the more discriminating and
 specialized the knowledge, the narrower its applicability and the more it
 contradicts itself.
 
@@ -133,9 +133,9 @@ science derived its image is whole and complete.
 
 The only direct means for confirming the perfection of nature is for each
 individual to come into immediate contact with the reality of nature and see for
-himself. Natural farming begins with the assumption that nature is perfect.
+himself. [[comparison-natural-farming-vs-permaculture]] begins with the assumption that nature is perfect.
 Natural farming admits to the existence neither of insect pests nor of
-beneficial insects. If a pest outbreak occurs, one reflects that this was
+[[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. If a pest outbreak occurs, one reflects that this was
 probably triggered by some human mistake.
 
 ## See Also

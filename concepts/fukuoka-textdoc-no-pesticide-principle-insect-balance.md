@@ -1,5 +1,5 @@
 ---
-title: "No Pesticide Principle and Insect Balance"
+title: "No fukuoka textdoc no pesticide principle insect balance and Insect Balance"
 created: 2026-04-28
 tags: [fukuoka, natural-farming, no-pesticides, insect-balance, ecology, pest-
 management, natural-enemies]
@@ -44,7 +44,7 @@ search for methods of destruction.
 
 The first thing that the natural farmer does when he sees a crop and an insect
 is to see, yet not see, the crop; to see and yet not see the insect. He is not
-misled by circumstantial matters; he does not pursue the scientific method of
+misled by circumstantial matters; he does not pursue the [[fukuoka-limits-scientific-method-agriculture]] of
 inquiry by observing the crop and insect or investigating what the insect is.
 
 What then does he do? He reaches beyond time and space by taking the stance that
@@ -55,7 +55,7 @@ meaningless.
 
 This insect is thus a pest and yet not a pest. Its presence in no way interferes
 with the growth of the rice plant for there is a way of farming in which both
-the rice plant and the insect can coexist in harmony. Natural farming seeks to
+the rice plant and the insect can coexist in harmony. [[comparison-natural-farming-vs-permaculture]] seeks to
 develop methods of rice cultivation in which the existence of "pests" poses no
 problem.
 
@@ -94,7 +94,7 @@ break out in especially large numbers in flooded fields of stagnant water.
 When the field is drained and the surface exposed to breezes so that it dries,
 spiders and frogs emerge in number, helping reduce damage to a minimum. The real
 meaning of taking a transcendent perspective, in plain down-to-earth terms, is
-to help provide both insect pests and beneficial insects with a pleasant
+to help provide both insect pests and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] with a pleasant
 environment in which to live.
 
 ## Disease Reflects Human Error
@@ -107,7 +107,7 @@ beneficial fungus that attacks pests was killed, upsetting nature's balance.
 
 Thus, in natural farming, one always solves the problem by reflecting on the
 mistake and returning as close to nature as possible. Those practicing
-scientific farming, on the other hand, habitually blame insect infestation on
+[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]], on the other hand, habitually blame insect infestation on
 the weather or some other aspect of nature, then apply pesticides to exterminate
 the marauding pest and spray fungicides to cure diseases.
 
@@ -130,7 +130,7 @@ populations in check. This creates a dependency cycle: eliminating natural
 predators allows surviving pests to multiply unchecked, requiring ever more
 frequent and intense pesticide applications. The soil, stripped of its microbial
 life, can no longer support the healthy plant growth that would naturally resist
-pest and disease pressure.
+[[hamilton-pest-and-disease-control-organic]] pressure.
 
 ## The Ecological Web of Three-Dimensional Farming
 

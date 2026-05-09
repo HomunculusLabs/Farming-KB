@@ -23,7 +23,7 @@ sources:
 **Inocybe rimosa** (Bull.) P. Kumm., commonly known as the torn fibercap or
 split fibrecap, is a terrestrial agaric fungus in the family Inocybaceae.
 It is widely distributed across temperate hardwood and conifer forests of
-Europe and North America. The species is inedible and suspected of containing
+Europe and [[psilocybin-north-america-pacific-northwest]]. The species is inedible and suspected of containing
 muscarine, making it potentially toxic if consumed.
 
 The epithet *rimosa* refers to the prominently radially fibrillose and often
@@ -81,7 +81,7 @@ is often visible near the apex. No ring or volva is present.
 ### Spores
 
 Basidiospores are smooth, bean-shaped (phaseoliform) in face view, with a
-distinct apical germ pore. Dimensions are 9–12 × 5–6.5 μm. Spore print is
+distinct apical germ pore. Dimensions are 9–12 × 5–6.5 μm. [[comparison-spore-print-collection-vs-spore-syringe-production]] is
 snuff-brown to tobacco-brown. Pleurocystidia are thin-walled, cylindrical
 to lageniform, often with a crystalline incrustation at the tip. Cheilocystidia
 are similar but more abundant.
@@ -96,7 +96,7 @@ Pacific Northwest. It has also been reported from temperate Asia.
 The species is ectomycorrhizal, forming associations with a broad range of
 hardwood and conifer hosts including Quercus, Fagus, Betula, Picea, and
 Pinus. Fruiting occurs from late summer through autumn, typically solitary
-or scattered on forest floors among leaf litter and moss.
+or scattered on forest floors among [[dighton-fungal-decomposition-leaf-litter-dynamics]] and moss.
 
 ## Bioactive Compounds and Toxicity
 
@@ -119,7 +119,7 @@ occasionally dangerous cardiovascular effects.
 ## Ecological Role
 
 As an ectomycorrhizal species, I. rimosa forms mutualistic symbioses with
-forest trees, facilitating nutrient exchange. The fungal hyphae extend the
+forest trees, facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. The fungal hyphae extend the
 effective root surface area of host trees, enhancing phosphorus and nitrogen
 uptake in exchange for photosynthetically derived carbon compounds.
 
@@ -139,7 +139,7 @@ field. Key comparators include:
 - **Inocybe patouillardii** — darker cap, often with a more robust stature
 - **Inocybe lacera** — strongly scaly cap, associated with sandy soils
 
-Definitive identification typically requires microscopic examination of spore
+Definitive identification typically requires [[fungal-microscopic-examination-mounting-media-techniques]] of spore
 morphology, cystidia shape, and presence or absence of clamp connections.
 
 ## See Also

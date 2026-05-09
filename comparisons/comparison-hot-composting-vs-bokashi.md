@@ -1,5 +1,5 @@
 ---
-title: "Hot Composting vs Bokashi"
+title: "comparison-bokashi-vs-hot-composting-method vs Bokashi"
 created: 2026-04-28
 tags: [comparison, composting, soil-building, microbes, waste-management]
 date: 2026-04-25
@@ -14,23 +14,23 @@ type: comparison
 Hot composting and bokashi are two fundamentally different approaches to
 converting organic waste into soil-building amendments. Hot composting uses
 aerobic thermophilic decomposition at elevated temperatures to rapidly break
-down organic matter, while bokashi relies on anaerobic lactic acid
-fermentation with effective microorganisms. Each method has distinct
+down [[hamilton-composting-and-organic-matter-management]], while bokashi relies on anaerobic lactic acid
+fermentation with [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]]. Each method has distinct
 advantages depending on available space, the types of waste generated, and the
 desired processing timeline and end product.
 
 ## Hot Composting
 [[bokashi-composting]]
 Bokashi is a Japanese composting method developed by Dr. Teruo Higa that uses
-anaerobic fermentation with effective microorganisms (EM) to pre-digest
+[[jadam-anaerobic-fermentation-principles]] with effective microorganisms (EM) to pre-digest
 organic waste. The EM consortium — including Lactobacillus, yeast,
 phototrophic bacteria, and Bacillus subtilis — works under anaerobic
-conditions to ferment waste through lactic acid production, similar to making
+conditions to ferment waste through lactic [[staycare-fungal-organic-acid-production-metal-leaching]], similar to making
 sauerkraut or kimchi. The process is fast (typically 2 weeks in a sealed
 bucket), low-odor, and can handle all food waste including meat, dairy, bones,
 and cooked foods.
 Bokashi does not produce finished compost directly. Instead, it creates pre-
-fermented material that must be buried in soil or added to a compost pile to
+fermented material that must be buried in soil or added to a [[mushroom-cultivator-compost-pile-management]] to
 complete decomposition. Once buried, the fermented material breaks down into
 rich humus within 2-4 weeks, aided by soil organisms. This two-stage process
 means bokashi requires garden space for burial, making it less suitable for

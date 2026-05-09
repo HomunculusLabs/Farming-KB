@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushroom Species Identification
+title: emcdda-psilocybin-mushroom-dose-and-effects Species Identification
 created: 2026-04-28
 tags:
   - mycology
@@ -10,7 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources: []
 type: concept
 ---
 
@@ -18,9 +18,9 @@ type: concept
 
 ## Overview
 
-Psilocybin mushrooms are small, dull-colored fungi that never attracted much
+[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] are small, dull-colored fungi that never attracted much
 notice in Western culture until R. Gordon Wasson brought traditional
-ceremonial use of magic mushrooms in Mexico to world attention in 1957. For
+ceremonial use of [[guzman-magic-mushrooms-african-species]] in Mexico to world attention in 1957. For
 some time thereafter, Americans and Europeans streamed to remote areas of
 Oaxaca in search of them, unaware that equally potent species grew in their
 own countries, sometimes literally in their own backyards. Psilocybin
@@ -48,7 +48,7 @@ spore prints.
 Psilocybe species are the most diverse and widely distributed group. They
 typically have dark purplish brown spore deposits, viscid caps when moist
 with a separable gelatinous pellicle, and stems that often bruise bluish
-where damaged. The bluing reaction is a key field indicator of psilocybin
+where damaged. The [[field-guide-psilocybin-bluing-reaction-identification]] is a key field indicator of psilocybin
 presence, though not exclusive to psychoactive species.
 
 ## The Bluing Reaction
@@ -72,7 +72,7 @@ in landscaping beds of densely populated areas, especially around buildings
 where decorative wood chips for landscaping have become common.
 
 This urban affinity creates a significant hazard, as some of the world's
-most poisonous mushrooms also thrive in wood chip habitats. Distinguishing
+most [[palmer-poisonous-mushrooms-deadly-species]] also thrive in wood chip habitats. Distinguishing
 between psilocybin species and toxic lookalikes is not difficult but a
 simple mistake can have deadly ramifications.
 
@@ -105,7 +105,7 @@ carefully examined:
 The dangers of mistaken identification cannot be overstated. Several genera
 of toxic mushrooms share habitats with psilocybin species. Galerina
 marginata, a deadly species containing amatoxins, grows in identical wood
-chip habitats as Psilocybe cyanescens and P. stuntzii. Many mycologists
+chip habitats as [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]] and P. stuntzii. Many mycologists
 have noted the importance of proper identification tools, though some
 historically expressed resistance to distributing information about
 psilocybin species.
@@ -131,4 +131,4 @@ based solely on visual identification from a book or website.
 - psilocybin mycology chemistry
 - [[spore-print-collection]]
 - [[amanita-poisoning-identification-antidotes-palmer]]
-- [[sterile-technique-mushroom-cultivation]]
+- [[mushroom-cultivation-sterile-technique]]

@@ -3,7 +3,7 @@ title: Fungal Species Concepts and Estimates
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
 # [[cryptic-species]] are morphologically identical but genetically distinct
@@ -113,4 +113,4 @@ In molecular studies, sequences are grouped into OTUs as proxies for species. Is
 - Intraspecific variation may exceed chosen thresholds
 - No universally agreed standard for fungal OTU delimitation
 
-See also: [[fungal-identification-and-biodiversity-assessment]]
+See also: [[dighton-soil-fungal-biodiversity-assessment]]

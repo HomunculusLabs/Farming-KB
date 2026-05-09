@@ -38,11 +38,11 @@ of Peyote or any other herb or root which does not belong to the
 Christian
 religion" was to be punished.
 
-Despite this persecution, peyote ceremonies survived in remote areas
+Despite this persecution, [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] survived in remote areas
 of
 northern Mexico and eventually spread northward into the United
 States during
-the late nineteenth century, where they gave rise to the Native
+the late [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], where they gave rise to the Native
 American Church.
 
 ## The Peyote Cactus
@@ -67,10 +67,10 @@ of peyote is a complex and evolving issue.
 
 The Church has successfully defended the legality of peyote use in
 religious
-ceremonies in the United States and Canada. The American Indian
+ceremonies in the [[dmt-containing-plants-united-states-halpern]] and Canada. The [[harner-american-indian-peyote-rituals]]
 Religious
 Freedom Act of 1978 and subsequent legal decisions have provided legal
-protections for peyote use by members of the Native American Church.
+protections for peyote use by members of the [[halpern-sacramental-peyote-and-native-american-church]] Church.
 
 ## Effects of Peyote
 

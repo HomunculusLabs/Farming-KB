@@ -1,145 +1,126 @@
----
-title: Human Fungal Pathogens
-created: 2026-04-28
-tags:
-  - mycology
-  - medical-mycology
-  - fungal-pathogens
-  - cryptococcosis
-  - mucormycosis
-  - pythiosis
-  - histoplasmosis
-  - immunology
-  - antifungal-drugs
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
-type: concept
----
-
 # Human Fungal Pathogens
-At least 300 species of fungi are capable of infecting human tissues,
-and many more can cause disease in other animals. Fungal diseases
-(mycoses) range from superficial skin infections to lethal systemic
-invasions of the brain and internal organs.
-While most fungi are opportunistic pathogens that primarily attack
-immunocompromised individuals, some can infect otherwise healthy
-people, and the true pathogenic potential of many species may be
-underestimated due to the effectiveness of the human immune system.
 
-## Superficial Mycoses
+Fungal pathogens are fungi that cause disease in humans, ranging from superficial
+skin infections to life-threatening systemic mycoses. While most fungi are
+harmless or beneficial, a relatively small number of species have evolved the
+ability to colonize and damage human tissues. The study of these organisms sits
+at the intersection of mycology, medicine, and immunology, and their impact on
+human health is far greater than commonly appreciated.
 
-The most common fungal infections affect the skin, hair, and nails.
-Dermatophytes cause conditions collectively called ringworm (tinea),
-with the name varying by infection site:
-- **Tinea pedis**: athlete's foot
-- **Tinea capitis**: scalp infections
-- **Tinea corporis**: body ringworm
-- **Tinea unguium**: nail infections
+## Daily Exposure
 
-These fungi feed on keratin, the protein composing hair, nails, and
-the outer skin layer. At least 1,000 calories of keratin are locked in
-a full head of human hair, equivalent to the energy in a couple of
-cheeseburgers, representing a substantial nutritional resource
-unavailable to most animals.
-In tinea capitis, the fungus invades the hair shaft, weakens it
-enzymatically, then reemerges to shower the scalp with spores.
-Dermatophytes are rare among fungi in being highly contagious.
-Tinea corporis can spread across the entire body in intricate
-concentric ring patterns that from a distance resemble tattoos. Modern
-antifungal drugs, particularly terbinafine (Lamisil), are highly
-effective cures.
-The yeast *Malassezia* colonizes virtually every human scalp, thriving
-in sebaceous fat and feeding on dandruff flakes. It can only be
-cultured on agar supplemented with olive oil. The active ingredient in
-Head and Shoulders shampoo, pyrithione zinc, inhibits *Malassezia*
-proliferation, though the precise mechanism remains unknown.
+Every day of a person's life, fungal spores pass into the nostrils and lungs.
+These spores are ubiquitous in the environment — present in soil, on decaying
+plant matter, in the air, and on surfaces. Given the opportunity, some of these
+spores may germinate and turn human tissue into food. The immune system normally
+eliminates these invaders, but when it is compromised, [[blesching-cannabis-fungal-infections-candida]] can
+become devastating.
+
+## Histoplasmosis (Ohio Valley Disease)
+
+[[histoplasma-capsulatum]] is a dimorphic fungus found in soil enriched with
+bird and bat droppings, particularly in the Ohio and Mississippi River valleys
+of the [[dmt-containing-plants-united-states-halpern]]. Outbreaks of histoplasmosis have been associated with
+starling roosts and disturbance of contaminated soil during construction or
+cave exploration.
+
+The sexual stage of this pathogen is an ascospore-producing organism named
+Ajellomyces, discovered by June Kwon-Chung. Ordinarily, infection with
+Histoplasma produces few or no symptoms. When the fungus grows in the lungs,
+it becomes encapsulated in small calcified nodules. But should the immune
+system lose power, the pathogen can become extremely aggressive, spreading from
+the lungs to penetrate virtually any tissue in the body. Most residents of the
+Ohio Valley have been silently colonized by this species without ever knowing it.
 
 ## Cryptococcosis
 
-*Cryptococcus neoformans* is one of the most significant fungal
-pathogens of humans, causing meningitis in approximately 10 percent of
-AIDS patients. The organism is extraordinarily widespread in the
-environment, thriving particularly in pigeon droppings which contain
-high concentrations of creatinine, a nitrogen source that
-*Cryptococcus* can metabolize but many other fungi cannot.
-When inhaled, *Cryptococcus* cells are usually cleared by the
-mucociliary escalator and stomach acid. But in immunocompromised
-patients, the yeast travels from the lungs to the central nervous
-system, forming brain abscesses (cryptococcomas) that lead to
-debilitating headaches, blindness, dementia, and death.
-Diagnosis is performed by collecting cerebrospinal fluid via lumbar
-puncture and examining the distinctive capsules of the yeast.
+[[cryptococcus-neoformans]] is a yeast-like fungus found worldwide in soil
+contaminated with pigeon droppings. It causes cryptococcosis, a potentially
+fatal infection that primarily affects the lungs and central nervous system.
+The most severe form is cryptococcal meningitis, an inflammation of the
+brain membranes that is particularly dangerous for immunocompromised
+individuals, especially those with HIV/AIDS.
 
-### Discovery of the Sexual Stage
-
-A landmark discovery by June Kwon-Chung in 1976 revealed that
-*Cryptococcus* is the asexual phase (anamorph) of a basidiomycete
-fungus called *Filobasidiella neoformans* (teleomorph).
-When compatible a-strain and alpha-strain yeast cells fuse, they
-produce hyphae bearing basidia and basidiospores. Over 95 percent of
-human infections are caused by the alpha-strain, which can produce
-spores without mating, providing a shortcut for dispersal even when
-growing alone.
-
-### Virulence Factors
-
-Two key virulence factors protect *Cryptococcus*:
-1. **Polysaccharide capsule**: helps evade immune detection by masking
-   the yeast from phagocytic immune cells
-2. **Melanin in the cell wall**: confers resistance to antifungal
-   drugs and immune defenses
-*Cryptococcus* can synthesize melanin from L-dopa, dopamine, and
-epinephrine, all concentrated in brain tissue, which may explain its
-neurotropism. The pigment absorbs UV radiation and reactive oxygen
-species, providing formidable chemical armor.
-
-### Treatment
-
-Treatment involves amphotericin B (which binds ergosterol in fungal
-membranes, causing lethal perforation), often combined with
-5-fluorocytosine, or fluconazole (an azole that blocks ergosterol
-synthesis).
-In 2001, Pfizer made the groundbreaking decision to provide free
-fluconazole to fifty of the world's poorest nations for cryptococcal
-meningitis treatment, a gesture that has saved countless lives in
-sub-Saharan Africa and other regions devastated by HIV/AIDS.
-
-## Mucormycosis
-
-Zygomycete fungi of the order Mucorales cause mucormycosis, a
-devastating family of infections. These fungi are ordinarily encountered
-as food-spoilage organisms but can become lethal pathogens in patients
-with uncontrolled diabetes, burn victims, chronic alcoholics, and other
-immunocompromised individuals.
-The fungi grow astonishingly fast both in culture and in human tissues.
-Nasal passages are a typical entry point, and from the sinus the
-mycelium can reach the brain within days by following blood vessel
-walls through the skull.
-Their spores are ubiquitous; depending on location, a person may
-inhale hundreds during a short reading session. This constant exposure
-is harmless to healthy individuals but poses grave risks to the
-immunocompromised.
+Cryptococcus produces a distinctive polysaccharide capsule that protects it
+from the host immune system. The sexual stage of Cryptococcus was identified
+as Filobasidiella neoformans by Kwon-Chung in 1975, resolving a long-standing
+taxonomic question about the organism's classification.
 
 ## Pythiosis
 
-Pythiosis insidiosi, caused by the oomycete *Pythium insidiosum*, is
-an emerging mycosis that can affect horses, dogs, cats, cattle, and
-humans. Originally described as "swamp cancer" or "bursattee" in horses
-by British army veterinarians in India in 1842, the disease begins
-when flagellated zoospores in water contact skin wounds.
-The zoospores settle, retract their flagella, secrete adhesive, and
-push invasive hyphae into the tissue. Human cases are most common in
-Thailand and other Asian countries.
-## Related Topics
+Pythium insidiosum is an oomycete (water mold) that causes a severe disease
+called pythiosis. Although commonly grouped with fungi, oomycetes are actually
+more closely related to algae. This distinction has important clinical
+implications: Pythium cell walls lack ergosterol, meaning standard antifungal
+drugs that target ergosterol synthesis are ineffective against it.
 
-- [[aquatic-fungi-and-zoospore-biology]]
-- antifungal drugs and ergosterol targeting
-- fungal enzymes and substrate degradation
+Pythiosis primarily affects horses, causing aggressive granulomatous lesions
+on limbs and other body parts. However, human cases have been documented,
+particularly in tropical regions. Infections often begin through wounds
+exposed to contaminated water. Treatment is extremely difficult — surgical
+debridement (removal of infected tissue) has been the primary approach, and
+even this is often insufficient. Vaccine development by Leonel Mendoza at
+Michigan State University has shown promise for both equine and human cases.
+
+Pythium may be an ancient pathogen that has existed for hundreds of millions
+of years. Its flesh-penetrating capabilities may have been refined on
+prehistoric animals long before mammals appeared. Oomycetes have been found
+growing in skin lesions on turtles and other reptiles, suggesting a long
+evolutionary history of vertebrate parasitism.
+
+## Aspergillosis
+
+Aspergillus species are among the most common environmental molds. Aspergillus
+fumigatus is the primary cause of aspergillosis, which manifests as allergic
+reactions, lung infections (aspergillomas or "fungus balls" in the lungs), or
+invasive disease in immunocompromised patients. The spores of Aspergillus are
+extremely abundant in the air — virtually every human inhales Aspergillus
+spores daily. In healthy individuals, these spores are cleared by the immune
+system without consequence.
+
+## Candidiasis
+
+Candida species, particularly [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], are part of the normal human
+microbiota but can cause opportunistic infections when the balance of
+microorganisms is disrupted. Candidiasis ranges from superficial infections
+(oral thrush, vaginal yeast infections) to life-threatening systemic
+candidiasis in immunocompromised patients. In severe cases, Candidia can
+colonize the throat, nasal passages, and internal organs.
+
+## Diagnostic Challenges
+
+Fungal infections are frequently misdiagnosed or diagnosed late because their
+symptoms mimic those of [[cannabis-for-bacterial-infections-and-mrsa]], tuberculosis, or cancer. Standard
+bacterial cultures do not detect fungi, and many physicians receive limited
+training in medical mycology. The development of molecular [[fukuoka-textdoc-weeds-as-soil-diagnostic-tools-orchard-restoration]]
+(PCR-based detection, antigen tests for cryptococcal and histoplasma antigens)
+has improved diagnosis, but awareness remains low in many clinical settings.
+
+## Treatment Limitations
+
+Treating fungal infections is complicated by the evolutionary relationship
+between fungi and humans — both are eukaryotes, meaning drugs that target
+fungal cells often affect human cells as well. Most antifungal drugs target
+ergosterol (a fungal [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] component not found in human cells) or
+its synthesis. However, organisms like Pythium that lack ergosterol are
+resistant to these drugs. The limited arsenal of effective antifungals, combined
+with rising drug resistance, makes fungal diseases an increasingly serious
+public health concern.
+
+## The Fungal Threat
+
+The medical community has increasingly recognized fungal pathogens as a major
+threat to human health, particularly as the population of immunocompromised
+individuals grows due to HIV/AIDS, organ transplantation, cancer chemotherapy,
+and immunosuppressive drugs. Every surface we touch and every breath we take
+exposes us to fungi that are, under the right circumstances, capable of
+turning our bodies into food.
+
+## Source
+
+- Nicholas P. Money, *Mr. Bloomfield's Orchard: The Mysterious World of
+  Mushrooms, Molds, and Mycologists* (2002), Oxford University Press
+  (mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md)
 
 ## See Also
-
-- [[1799-liberty-cap-discovery]]
-- [[2-4-dma-entity-pihkal]]
-- [[2-5-dma-entity]]
+- [[pythium-insidiosum-oomycete-human-infection-pythiosis]]

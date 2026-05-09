@@ -12,7 +12,7 @@ type: concept
 # Matter and Spirit Unity in Food
 
 In the final chapters of *The Natural Way of Farming*, Fukuoka extends his natural
-farming philosophy into the realm of diet, arguing that food is not merely physical
+[[cho-natural-farming-philosophy-of-non-interference]] into the realm of diet, arguing that food is not merely physical
 nourishment but a meeting point of matter and spirit. Drawing on Buddhist philosophy
 and his own observations of nature, he presents a view in which flavor, color, and
 nutrition are inseparable from spiritual experience.
@@ -43,7 +43,7 @@ The same applies to food. Nature provided man with a vast array of foods. Discer
 what he thought were good and bad qualities, man picked and chose, thinking he had to
 create harmonious combinations and blends of color, that he should always partake of
 a rich variety. This has been the root of his errors. Human knowledge can never compare
-with the greatness of the natural order.
+with the greatness of the [[fukuoka-textdoc-natural-order-food-chain-unity]].
 
 ## Color as Matter and Spirit
 
@@ -51,7 +51,7 @@ In Buddhist texts, the Chinese character for color represents form or matter its
 The seven prismatic colors are really one white light, and the apparent diversity of
 food is really one nourishment. When we become distracted by categories of food, by
 the idea that some foods are superior and others inferior, we fall into the realm of
-discriminating knowledge.
+[[non-discriminating-knowledge-and-critique-of-scientific-reductionism]].
 
 Water undergoes countless transformations but remains always water. Beneath the infinite
 variety of creation, all things are essentially one. Although differences may exist
@@ -83,13 +83,13 @@ life of contentment enjoying nourishing food, health, and tranquil sleep.
 What does it mean to enjoy and take pleasure in food? This, along with nourishment
 and nutrition, is a question of both matter and spirit. The person who eats wild herbs
 without removing their natural astringency, who savors the subtle flavors of sun-dried
-root vegetables and salt pickles, who appreciates the green tea sipped by the open
+[[growing-root-vegetables-guide]] and salt pickles, who appreciates the green tea sipped by the open
 hearth, is experiencing food as matter-spirit unity.
 
 ## Zen and Food as One
 
 Fukuoka states explicitly that zen and food are one. For those who would sample the
-delights of a natural diet, there is Buddhist vegetarian cooking and Japanese high tea.
+delights of a [[fukuoka-natural-diet-as-foundation]], there is Buddhist vegetarian cooking and Japanese high tea.
 The practical wisdom of early man who sun-dried root vegetables and pickled them in
 salt, rice bran, or miso, enjoying their special taste and aroma at the end of his
 meals, represents the essence of the flavors of nature.
@@ -104,7 +104,7 @@ recognition that true flavor emerges when food is closest to its natural state.
 Culture, Fukuoka argues, is seen as a human product created, maintained, and refined
 through human invention by the separation of man from nature. However, the culture
 actually associated with food always originates in a return to the source of nature,
-forming of itself when nature and man fuse into a single whole.
+forming of itself when [[fukuoka-god-nature-and-man-as-one]] fuse into a single whole.
 
 A culture born of human recreation and vanity that is divorced from nature cannot
 become a true culture. True culture arises from within nature, and is pure, modest,

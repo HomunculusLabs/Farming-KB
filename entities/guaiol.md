@@ -20,9 +20,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Cascon, S.C. & Gilbert, B. (2000). "Characterization of the chemical composition of oleoresins of Copaifera langsdorffii." Journal of Essential Oil Research 12(5): 595-598.
+  - Cascon, S.C. & Gilbert, B. (2000). "Characterization of the chemical composition of oleoresins of Copaifera langsdorffii." Journal of permaculture-designers-manual-essential-oil-plants Research 12(5): 595-598.
   - Legault, J. & Pichette, A. (2007). "Potentiating effect of β-caryophyllene on anticancer activity of α-humulene, isocaryophyllene and paclitaxel." Journal of Pharmacy and Pharmacology 59(12): 1643-1647.
-  - Zheng, G. et al. (2018). "The aroma components of cannabis." In: Cannabis sativa L. — Phytochemistry, Pharmacology, Omics and Applications. Springer.
+  - Zheng, G. et al. (2018). "The aroma components of cannabis." In: [[comparison-cannabis-sativa-vs-cannabis-indica]] L. — Phytochemistry, Pharmacology, Omics and Applications. Springer.
   - Gertsch, J. et al. (2008). "Cannabimimetic effects of β-caryophyllene in the brain." Proceedings of the National Academy of Sciences 105(26): 9099-9104.
   - Fine, A.B. (2015). "Guaiol derivatives and their potential as pharmaceutical agents." Natural Product Communications 10(10): 1705-1710.
 ---
@@ -32,7 +32,7 @@ sources:
 Guaiol (pronounced GWAH-yol) is a bicyclic sesquiterpene alcohol (C₁₅H₂₆O) found in
 the [[blesching-cannabis-food-as-medicine-anti-inflammatory-spices]], anticancer,
 and antimicrobial activities in preclinical studies. Its growing recognition as a
-minor but pharmacologically significant cannabis terpene has spurred research into
+minor but pharmacologically significant [[oner-cannabis-terpene-profiles-effects]] has spurred research into
 its therapeutic potential.
 
 ## Chemical Properties
@@ -68,14 +68,14 @@ Preclinical research on guaiol has revealed several notable bioactivities:
   macrophages. The mechanism involves suppression of IκBα phosphorylation and
   subsequent nuclear translocation of NF-κB. These effects are observed at
   non-cytotoxic concentrations (10–50 µM in vitro).
-- **Anticancer activity [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]] fungal activity against *Candida albicans* and
+- **Anticancer activity [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]] fungal activity against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and
   *Aspergillus niger*.
 - **Antioxidant**: Scavenges DPPH and ABTS radicals in vitro, though activity is
   modest compared to reference antioxidants (α-tocopherol, ascorbic acid).
 
 ## Role in Cannabis
 
-In cannabis, guaiol contributes to the entourage effect — the theory that
+In cannabis, guaiol contributes to the [[cannabis-terpene-entourage-effect-profiles]] — the theory that
 cannabinoids and terpenes act synergistically to modulate the overall
 pharmacological experience. While not among the dominant terpenes (like myrcene,
 limonene, or β-caryophyllene), guaiol appears at detectable levels in many

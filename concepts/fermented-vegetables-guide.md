@@ -1,5 +1,5 @@
 ---
-title: Fermented Vegetables Guide
+title: comparison-fermented-vegetables-vs-canning Guide
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -13,7 +13,7 @@ Lacto-fermented vegetables are among the oldest and most universal preserved foo
 
 ## The Science of Vegetable Fermentation
 
-Vegetable fermentation relies on lactic acid bacteria (LAB) that are naturally present on the surfaces of vegetables. These bacteria -- primarily Lactobacillus species -- convert sugars in the vegetables into lactic acid, which lowers the pH and preserves the food.
+Vegetable fermentation relies on lactic [[lactic-acid-bacteria-knf]] (LAB) that are naturally present on the surfaces of vegetables. These bacteria -- primarily Lactobacillus species -- convert sugars in the vegetables into lactic acid, which lowers the pH and preserves the food.
 
 The fermentation process occurs in a characteristic sequence:
 
@@ -28,7 +28,7 @@ Successful vegetable fermentation requires minimal equipment:
 
 - Fermentation vessel: Glass jars (Mason jars work well), ceramic crocks, or dedicated fermentation vessels with airlocks
 - Weight: Something to keep vegetables submerged below the brine -- glass fermentation weights, a folded cabbage leaf, or a ziplock bag filled with brine
-- Salt: Non-iodized salt is preferred (sea salt, kosher salt, pickling salt). Iodine can inhibit beneficial bacteria.
+- Salt: Non-iodized salt is preferred ([[jadam-sea-salt-and-mineral-solutions]], kosher salt, pickling salt). Iodine can inhibit beneficial bacteria.
 - Knife and cutting board: For preparing vegetables
 - Optional: pH strips for monitoring acidity, airlocks for reducing surface mold risk
 
@@ -110,6 +110,6 @@ Fermented vegetables are rich in probiotics, which support gut health and immune
 ## See Also
 
 - [[kimchi-making]] for Korean fermented vegetable traditions
-- [[faires-food-fermentation-methods]] for homestead-scale fermentation
-- [[small-scale-dairy-guide]] for fermented dairy products
+- faires-food-fermentation-methods for homestead-scale fermentation
+- [[small-scale-dairy-guide]] for [[query-how-do-i-start-making-fermented-dairy-at-home]] products
 - [[lacto-fermentation-and-food-preservation-methods]]

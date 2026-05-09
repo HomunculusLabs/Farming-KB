@@ -1,11 +1,12 @@
 ---
-title: Fukuoka European Travels and Natural Farming Spread
+title: Fukuoka fukuoka european travels natural farming and comparison-natural-farming-vs-permaculture Spread
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka European Travels and Natural Farming Spread
 
@@ -61,16 +62,16 @@ Fukuoka's visit to a traditional windmill where Thomas's wheat was milled provid
 
 ### Austria
 - Lectures in Vienna
-- Interest in natural diet and farming methods
+- Interest in [[fukuoka-natural-diet-as-foundation]] and [[natural-farming-methods-comparison]]
 
 ### Holland
-- The most developed European natural farming community
+- The most developed [[fukuoka-european-natural-farming]] farming community
 - Dutch government research on vegetation for coastal protection -- Fukuoka observed that wild vines and shrubs on sandy beaches were healthier than transplanted saplings
 - Below-sea-level geography requiring careful water management
 
 ### Germany
 - Natural bread from Holland was being shipped to West Germany
-- Interest in Eastern philosophy and natural living
+- Interest in [[fukuoka-western-eastern-philosophy-agriculture]] and natural living
 
 ## Fukuoka's Analysis of European Agriculture
 

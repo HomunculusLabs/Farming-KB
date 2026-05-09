@@ -1,16 +1,13 @@
 ---
-title: Fungal Biodiversity by Ecosystem
+title: biodiversity-fungal-biodiversity-estimation-methods by Ecosystem
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources: []
 ---
-# Fungal Biodiversity by Ecosystem
-
-## Overview
-
-Fungi occupy virtually every ecosystem on Earth, from tropical rain forests to polar ice, from deep ocean sediments to the upper atmosphere. Their biodiversity varies dramatically across ecosystem types, driven by plant community composition, climate, substrate availability, moisture, and disturbance regimes. Understanding patterns of [[ectomycorrhizal-ecology]] communities. The relationship between forest age and fungal diversity is well-established: old-growth forests harbor significantly more fungal species than younger stands, particularly among wood-inhabiting and mycorrhizal taxa.
+# Fungal Biodiversity by Ecosystem ## Overview Fungi occupy virtually every ecosystem on Earth, from tropical rain forests to polar ice, from deep ocean sediments to the upper atmosphere. Their biodiversity varies dramatically across ecosystem types, driven by plant community composition, climate, substrate availability, moisture, and disturbance regimes. Understanding patterns of [[ectomycorrhizal-ecology]] communities. The relationship between forest age and fungal diversity is well-established: old-growth forests harbor significantly more fungal species than younger stands, particularly among wood-inhabiting and mycorrhizal taxa.
 
 Temperate forests show distinct seasonal patterns in fungal fruiting, with autumn peaks driven by rainfall and temperature cues. Turnover in fruiting agaric species is high in both temperate and tropical forests such that these species should be sampled at weekly or biweekly intervals. Corticioid and polypore fungi may be sampled at approximately 2-month intervals. Tropical forests maintain more constant but less predictable fruiting patterns. For Xylariaceae and small ascomycetes in the tropics, 3-month sampling intervals appear to provide optimal balance.
 
@@ -20,11 +17,11 @@ In mesic or wet grasslands and in most shrublands, heathlands, and forests, the 
 
 Grassland fungal diversity is dominated by [[fungal-decomposition]] specialists of grass litter. Grassland soils are enriched by organic accretion throughout the soil profile, especially from grass roots that are annual, finely divided, and contribute a biomass that far exceeds above-ground biomass. See [[endophytic-fungal-diversity]] representatives. See [[soil-food-web-nutrient-cycling]] for detailed treatment. The soil mycobiota drives [[fungal-ecosystem-services]].
 
-Species richness in soil fungal communities apparently increases through both primary and secondary succession in plant communities. In the Wisconsin surveys spanning more than 20 years, northern upland conifer-hardwood forests yielded more than 476 taxa from 8,061 isolates — the highest diversity of any vegetation type surveyed.
+Species richness in soil [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] apparently increases through both primary and secondary succession in plant communities. In the Wisconsin surveys spanning more than 20 years, northern upland conifer-hardwood forests yielded more than 476 taxa from 8,061 isolates — the highest diversity of any vegetation type surveyed.
 
 ## Aquatic Ecosystems
 
-Freshwater and marine habitats harbor specialized fungal communities: freshwater [[freshwater-fungi-biodiversity]] and [[fungal-diversity-extreme-environments]] and [[fungal-roles-built-environments]]. Understanding these changes is critical for ecosystem health monitoring.
+Freshwater and marine habitats harbor specialized fungal communities: freshwater [[freshwater-fungi-biodiversity]] and fungal-diversity-extreme-environments and fungal-roles-built-environments. Understanding these changes is critical for ecosystem health monitoring.
 
 ## Ecosystem-Level Estimates
 
@@ -32,13 +29,13 @@ At a single 13.4-ha forest tract in Costa Rica, an estimated 2,833 species of pl
 
 ## Cross-Ecosystem Patterns
 
-A key finding: ecological similarity among habitats supersedes geography in determining fungal community composition. An experienced microfungal taxonomist can guess the habitat type from the 10-20 most abundant soil fungi with great accuracy, regardless of continent. Soils of beech (Fagus) forests of North America and Europe show striking similarities in their principal saprobic fungal species. This suggests fungal communities are primarily shaped by substrate and microclimate rather than geographic distance.
+A key finding: ecological similarity among habitats supersedes geography in determining fungal community composition. An experienced microfungal taxonomist can guess the habitat type from the 10-20 most abundant soil fungi with great accuracy, regardless of continent. Soils of beech (Fagus) forests of [[psilocybin-north-america-pacific-northwest]] and Europe show striking similarities in their principal saprobic fungal species. This suggests fungal communities are primarily shaped by substrate and microclimate rather than geographic distance.
 
-Soil fungal similarity is an outstanding indicator of environmental similarity. In general, a strong positive correlation often exists between vascular plant diversity and soil-fungal diversity. The compositions of soil fungal communities are regulated strongly by climatic and edaphic factors.
+Soil fungal similarity is an outstanding indicator of environmental similarity. In general, a strong positive correlation often exists between vascular plant diversity and soil-fungal diversity. The compositions of soil fungal communities are regulated strongly by climatic and [[soil-edaphic-factors-microbial-communities]].
 
 ## Canopy and Aerial Ecosystems
 
-At present, no data exist on fungal communities of "aerial soils" that result from humus formation and accumulation on large limbs in forest canopy trees. Fungal species composition in those specialized soils may be quite different from those in mineral soils because of the lack of mineral input, extreme fluctuations in water content, distinctive microfauna, and the generally exposed environment in the canopy.
+At present, no data exist on fungal communities of "aerial soils" that result from [[lowenfels-humus-formation-benefits]] and accumulation on large limbs in forest canopy trees. Fungal species composition in those specialized soils may be quite different from those in mineral soils because of the lack of mineral input, extreme fluctuations in water content, distinctive microfauna, and the generally exposed environment in the canopy.
 
 ## Successional Patterns Across Ecosystems
 
@@ -54,7 +51,7 @@ Rigorous fungal surveys produce data that help answer fundamental scientific que
 
 Fungi are essential for [[fungal-biodiversity]] — global diversity estimates and patterns
 - [[fungal-biodiversity-tropical-forests]] — tropical forest deep dive
-- [[fungal-community-ecology]] — community assembly processes
+- fungal-community-ecology — community assembly processes
 - [[fungal-decomposition-wood-litter]] — decomposition in forest ecosystems
 - [[fungal-conservation-challenges]] — conservation issues across ecosystems
 ## Practical Considerations
@@ -73,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

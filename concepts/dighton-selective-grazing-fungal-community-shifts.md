@@ -1,5 +1,5 @@
 ---
-title: "Selective Grazing by Soil Fauna and Fungal Community Shifts"
+title: "dighton selective grazing fungal community shifts by Soil Fauna and Fungal Community Shifts"
 created: 2026-04-28
 tags:
   - soil-fauna
@@ -18,8 +18,8 @@ type: concept
 
 Soil fauna do not graze fungi randomly. Selective feeding preferences among
 fungal species can fundamentally alter the outcome of fungal competition,
-shifting community composition and thereby modifying ecosystem processes. In
-[[fungal-ecology]], selective grazing represents a
+shifting [[core-endorhiza-bacterial-community-composition-cannabis]] and thereby modifying [[fungal-ecosystem-processes-overview]]. In
+, selective grazing represents a
 key mechanism by which animals act as ecosystem engineers, restructuring
 decomposer communities from the bottom up.
 
@@ -45,7 +45,7 @@ decomposition rates and nutrient mineralization patterns.
 Selection of preferred fungal species by soil fauna can benefit animals through:
 
 - Higher nutritional value of certain fungal species compared to others
-- Avoidance of poisonous secondary metabolites produced by some fungi
+- Avoidance of poisonous [[antifungal-secondary-metabolites-coprophilous-fungi]] produced by some fungi
 - Physical characteristics such as hyphal diameter, melanin content, or
   texture that affect palatability
 
@@ -61,7 +61,7 @@ Folsomia candida when offered different fungal species. The collembolan did
 not select fungi based on taxonomic affiliation; variation in palatability
 was observed among members of the same fungal taxon. Schultz (1991) confirmed
 this pattern, showing selective grazing between different species of
-ectomycorrhizal fungi in pure culture by F. candida.
+[[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] in pure culture by F. candida.
 
 ## Temporal Dynamics of Feeding Preferences
 
@@ -69,7 +69,7 @@ Schultz (1991) further showed that fungal selection by collembola can change
 over time when fungi are combined into simple communities. When direct
 selection between pairs of fungal groups was allowed, feeding preferences
 shifted dynamically. This temporal variability complicates predictions of
-grazing effects on fungal communities and suggests that simple one-time
+grazing [[brassinosteroid-effects-on-fungal-morphology]] communities and suggests that simple one-time
 assays may not capture the full complexity of faunal-fungal interactions.
 
 ## Selective Grazing on Mycorrhizal Fungi
@@ -94,5 +94,5 @@ preferred fungus declines relative to less preferred species. Grazing
 selection and intensity can thus alter the outcome of competition within the
 fungal community. This process operates alongside abiotic factors in shaping
 [[dighton-fungal-grazing-feedbacks-decomposition]]
-- [[fungal-collembola-interactions]]
+- fungal-collembola-interactions
 - [[dighton-aboveground-herbivory-mycorrhizal-effects]]

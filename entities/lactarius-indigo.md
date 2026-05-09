@@ -17,7 +17,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.mycobank.org/ (Lactarius indigo taxonomy)
-  - Hesler, L.R. & Smith, A.H. (1979). North American Species of Lactarius. Univ. Michigan Press.
+  - Hesler, L.R. & Smith, A.H. (1979). [[growing-gourmet-north-american-reishi-species]] Species of Lactarius. Univ. Michigan Press.
   - Garibay-Orijel, R. et al. (2009). "Ethnomycological knowledge of Lactarius deliciosus and L. indigo in tropical Mexico." Journal of Ethnobiology.
   - Montoya, L. et al. (2012). "Edible mushrooms of Mexico." Springer.
   - Bandala, V.M. & Montoya, L. (2014). "Lactarius species from Mexico." Mycotaxon.
@@ -25,7 +25,7 @@ sources:
 
 # Lactarius indigo
 
-**Lactarius indigo** (Schwein.) Fr. (1838), commonly known as the **indigo milk cap** or **blue milk mushroom**, is a species of agaric fungus in the family Russulaceae, order Russulales. It is one of the most visually striking wild mushrooms in North and Central America, instantly recognizable by its deep blue-to-indigo fruiting body and the intensely blue latex (milk) exuded when the flesh is cut or damaged. Widely collected as an edible mushroom in Mexico, Guatemala, and parts of the southern United States, it has been an important food source in indigenous Mesoamerican communities for centuries.
+**Lactarius indigo** (Schwein.) Fr. (1838), commonly known as the **indigo milk cap** or **blue milk mushroom**, is a species of agaric fungus in the family Russulaceae, order Russulales. It is one of the most visually striking wild mushrooms in North and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], instantly recognizable by its deep blue-to-indigo fruiting body and the intensely blue latex (milk) exuded when the flesh is cut or damaged. Widely collected as an edible mushroom in Mexico, Guatemala, and parts of the southern United States, it has been an important food source in indigenous Mesoamerican communities for centuries.
 
 ## Taxonomy
 
@@ -71,7 +71,7 @@ Fruiting occurs from June through November in North America, triggered by warm, 
 
 ## Ecology
 
-As an ectomycorrhizal fungus, *L. indigo* forms a Hartig net around the root tips of its host trees, facilitating bidirectional nutrient exchange. The fungal mycelium extends the effective root zone of the tree, enhancing uptake of phosphorus, nitrogen, and micronutrients from the soil, while receiving carbohydrates (primarily glucose and fructose) from the host.
+As an ectomycorrhizal fungus, *L. indigo* forms a Hartig net around the root tips of its host trees, facilitating bidirectional [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. The fungal mycelium extends the effective root zone of the tree, enhancing uptake of phosphorus, nitrogen, and micronutrients from the soil, while receiving carbohydrates (primarily glucose and fructose) from the host.
 
 Key ecological relationships:
 - **Host specificity:** Low to moderate — associates with multiple tree genera
@@ -112,13 +112,13 @@ In Mexico and Central America, *L. indigo* holds significant cultural importance
 - **Traditional knowledge:** Indigenous Totonac, Nahua, Mazatec, and other communities have harvested *L. indigo* for generations, possessing detailed knowledge of its ecology, seasonality, and preparation
 - **Economic importance:** Commercial harvesting provides income for rural communities; the mushroom is sold in regional markets and increasingly in urban centers and restaurants
 - **Ethnomycological research:** Studies by Garibay-Orijel and colleagues have documented the extensive traditional knowledge surrounding *L. indigo* in Oaxaca and Puebla, including classification systems that align remarkably well with modern taxonomy
-- **Ecotourism:** Mushroom foraging tours featuring *L. indigo* have become popular in some regions of Mexico
+- **Ecotourism:** [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]] tours featuring *L. indigo* have become popular in some regions of Mexico
 
 ## Cultivation
 
 Cultivation of *L. indigo* has proven challenging due to its ectomycorrhizal dependency:
 
-- **Mycorrhizal inoculation:** Can be established by inoculating seedlings of compatible host trees (oaks, pines) with mycelial cultures or spore slurries. Fruiting typically requires 3–5 years after planting in suitable conditions.
+- **[[teaming-with-fungi-mycorrhizal-inoculation-techniques]]:** Can be established by inoculating seedlings of compatible host trees (oaks, pines) with mycelial cultures or spore slurries. Fruiting typically requires 3–5 years after planting in suitable conditions.
 - **Laboratory culture:** Mycelium grows readily on standard agar media (MEA, PDA), producing blue-tinted, slow-growing colonies. However, fruiting in artificial conditions has rarely been achieved.
 - **Potential for agroforestry:** Research in Mexico has explored the use of *L. indigo* as a companion species in oak-pine agroforestry systems, providing both ecological benefits (mycorrhizal enhancement of tree growth) and a harvestable crop.
 
@@ -127,7 +127,7 @@ Cultivation of *L. indigo* has proven challenging due to its ectomycorrhizal dep
 *L. indigo* is not currently listed as threatened, but faces pressure from:
 - **Habitat loss:** Deforestation in Mexico and Central America reduces available ectomycorrhizal host trees
 - **Overharvesting:** Commercial demand in some areas has led to unsustainable collection practices
-- **Climate change:** Altered precipitation patterns may affect fruiting timing and abundance
+- **[[dighton-fungi-climate-change-feedback]]:** Altered precipitation patterns may affect fruiting timing and abundance
 - **Recommended conservation:** Sustainable harvesting guidelines (leaving some sporocarps for spore dispersal, avoiding raking of forest floor) and preservation of host tree populations
 
 ## Similar Species
@@ -135,9 +135,11 @@ Cultivation of *L. indigo* has proven challenging due to its ectomycorrhizal dep
 - **Lactarius paradoxus** — smaller, darker blue, latex turns green immediately
 - **Lactarius quieticolor** — similar but with reddish-brown tones on cap
 - **Lactarius chelidonium** — orange-yellow latex, yellowish tones
-- **Lactarius distans** — similar habitat, paler blue, less abundant latex
-
 ## See Also
+
+- [[lactarius-chrysorrheus]]
+- [[lactarius-piperatus]]
+- [[lactarius-camphoratus]]
 
 - [[russula-emetica]] — A poisonous Russulaceae member
 - [[cantharellus-cibarius-entity]] — Chanterelle, companion species in mixed forests

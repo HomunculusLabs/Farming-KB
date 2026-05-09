@@ -4,15 +4,16 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 # Glomalin and Soil Carbon
 
-Glomalin is one of the most significant discoveries in soil science in recent decades. This glycoprotein, produced by arbuscular mycorrhizal fungi, plays a central role in soil carbon storage, soil aggregation, and overall soil health. Its discovery in 1996 by USDA soil scientist Sarah Wright resolved a longstanding mystery about the nature of recalcitrant organic matter in soils and opened new avenues for understanding how mycorrhizal fungi shape terrestrial ecosystems. The implications extend from [[singh-fungal-roles-in-soil-aggregate-formation]] extends beyond glomalin to include physical hyphal entanglement and other binding mechanisms, but glomalin is the primary biochemical agent. As arbuscular mycorrhizal fungi grow through soil, they produce glomalin as a component of their cell walls and also secrete it into the surrounding soil environment. The sticky glycoprotein acts as a biological glue, binding individual mineral particles (sand, silt, and clay) together into larger aggregates.
+Glomalin is one of the most significant discoveries in soil science in recent decades. This glycoprotein, produced by [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi, plays a central role in soil [[holmgren-soil-humus-carbon-storage-rebuilding]], soil aggregation, and overall soil health. Its discovery in 1996 by USDA soil scientist Sarah Wright resolved a longstanding mystery about the nature of recalcitrant [[hamilton-composting-and-organic-matter-management]] in soils and opened new avenues for understanding how mycorrhizal fungi shape terrestrial ecosystems. The implications extend from [[singh-fungal-roles-in-soil-aggregate-formation]] extends beyond glomalin to include physical hyphal entanglement and other binding mechanisms, but glomalin is the primary biochemical agent. As arbuscular mycorrhizal fungi grow through soil, they produce glomalin as a component of their cell walls and also secrete it into the surrounding soil environment. The sticky glycoprotein acts as a biological glue, binding individual mineral particles (sand, silt, and clay) together into larger aggregates.
 
 Soil aggregates are the fundamental structural units of soil. Well-aggregated soil has improved water infiltration, better aeration, enhanced nutrient retention, and greater resistance to erosion. Glomalin contributes to all three categories of soil aggregates: macroaggregates (greater than 0.25 mm), microaggregates (0.053 to 0.25 mm), and the silt-plus-clay fraction within microaggregates.
 
-The process begins as hyphae grow through soil, depositing glomalin along their length. When hyphae die and decompose, the glomalin-coated soil particles remain bound together. New hyphal growth then entangles these particles further, creating increasingly stable aggregates. This ongoing cycle of hyphal growth, glomalin deposition, and hyphal turnover continuously builds and maintains soil structure.
+The process begins as hyphae grow through soil, depositing glomalin along their length. When hyphae die and decompose, the glomalin-coated soil particles remain bound together. New [[bloomfields-orchard-hyphal-growth-and-invasive-biology]] then entangles these particles further, creating increasingly stable aggregates. This ongoing cycle of hyphal growth, glomalin deposition, and hyphal turnover continuously builds and maintains soil structure.
 
 ## Contribution to Soil Carbon Pools
 
@@ -20,7 +21,7 @@ Glomalin represents a major component of the soil carbon pool. Research has show
 
 As arbuscular fungi grow and die, they are continually adding glomalin to soils. The cumulative effect is a substantial and relatively stable carbon pool that persists for years to decades. Unlike more labile forms of soil organic matter that cycle rapidly through microbial biomass, glomalin provides long-term carbon storage.
 
-This has profound implications for understanding how soils function as carbon sinks and how management practices that promote mycorrhizal fungi can enhance soil carbon sequestration. The [[mycorrhizal-inoculation]] approach can help reestablish glomalin-producing fungal communities in degraded soils, offering a pathway to restore soil health in agricultural and restoration contexts.
+This has profound implications for understanding how soils function as carbon sinks and how management practices that promote mycorrhizal fungi can enhance soil [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]. The [[mycorrhizal-inoculation]] approach can help reestablish glomalin-producing [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] in degraded soils, offering a pathway to restore soil health in agricultural and restoration contexts.
 
 ## See Also
 
@@ -103,4 +104,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,5 +1,5 @@
 ---
-title: Three Stages of Human Collapse and the Natural Farming Future
+title: Three Stages of Human Collapse and the comparison-natural-farming-vs-permaculture Future
 created: 2026-04-28
 tags:
   - fukuoka
@@ -21,7 +21,7 @@ type: concept
 
 ## Overview
 
-Masanobu Fukuoka articulated a three-stage model of civilizational collapse that he believed humanity was already entering. Drawing on Buddhist cosmology and his own observations of agricultural and ecological degradation, he described how the expansion of human knowledge and industrial activity would lead inevitably through stages of spiritual derangement, ecological destruction, and economic failure. Natural farming, he argued, is not merely an agricultural method but the only viable path through and beyond this collapse.
+Masanobu Fukuoka articulated a three-stage model of [[fukuoka-textdoc-civilizational-collapse-centrifugal-centripetal-cycle]] that he believed humanity was already entering. Drawing on Buddhist cosmology and his own observations of agricultural and ecological degradation, he described how the expansion of human knowledge and industrial activity would lead inevitably through stages of spiritual derangement, ecological destruction, and economic failure. Natural farming, he argued, is not merely an agricultural method but the only viable path through and beyond this collapse.
 
 ## The Pattern of Expansion and Contraction
 
@@ -29,11 +29,11 @@ Fukuoka's cosmological framework begins with the observation that the universe d
 
 He likened this pattern to the Wheel of Dharma or a cyclone. A cyclone compresses the atmosphere into a vortex, expanding and growing as it rages, then eventually disintegrates and vanishes. What has form vaporizes at the limits of development into a void, and the void condenses into form and reappears, in a never-ending cycle of contraction and expansion.
 
-Human civilization, in this framework, is approaching the outer limit of its expansion. The centrifugal force of scientific and material development has been barely balanced by centripetal forces seeking a return to nature. But the moment the thread connecting humanity to the core breaks, man will fly away from truth like a whirling stone.
+Human civilization, in this framework, is approaching the outer limit of its expansion. The centrifugal force of scientific and material development has been barely balanced by centripetal forces seeking a [[emcdda-return-to-nature-megatrend-mushroom-appeal]]. But the moment the thread connecting humanity to the core breaks, man will fly away from truth like a whirling stone.
 
 ## Stage One: Breakdown of Human Knowledge
 
-The first stage of collapse is the breakdown of human knowledge itself. Fukuoka argued that human knowledge is inherently limited because it is discriminating knowledge, knowledge that divides the world into categories and distinctions. Having no way to recognize that this knowledge is fundamentally incomplete and often incorrect, humanity founders ever deeper into confusion through the collection and advancement of "unknowable and mistaken knowledge."
+The first stage of collapse is the breakdown of human knowledge itself. Fukuoka argued that human knowledge is inherently limited because it is [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]], knowledge that divides the world into categories and distinctions. Having no way to recognize that this knowledge is fundamentally incomplete and often incorrect, humanity founders ever deeper into confusion through the collection and advancement of "unknowable and mistaken knowledge."
 
 This spiritual derangement manifests as the inability to distinguish between what is truly important and what is trivial. Scientists study increasingly narrow specialties while losing sight of the whole. Farmers adopt ever more complex technologies while producing food of declining quality. Consumers pursue convenience while losing their health. Education produces specialists who cannot see the connections between their field and any other.
 
@@ -43,7 +43,7 @@ The accumulation of knowledge, rather than bringing wisdom, produces what Fukuok
 
 The second stage is the destruction of the natural world. The earth, as an organic synthesis of life and matter, is being broken down and divided by human activity. This process gradually deprives the natural world of its equilibrium.
 
-The destruction of the natural order and ecosystem robs matter and life of their proper functions. Fukuoka's pine forest ecosystem collapse chain illustrates this process in detail: atmospheric pollution acidifies soil, which shifts fungal communities, which weakens trees, which allows pest proliferation, which kills the forest, which triggers cascading effects through the food web.
+The destruction of the natural order and ecosystem robs matter and life of their proper functions. Fukuoka's pine forest [[fukuoka-textdoc-pine-rot-ecosystem-collapse-chain]] chain illustrates this process in detail: atmospheric pollution acidifies soil, which shifts fungal communities, which weakens trees, which allows pest proliferation, which kills the forest, which triggers cascading effects through the food web.
 
 Humanity is not spared from this process. Either people will lose their adaptability to the natural environment and meet with self-destruction, or they will succumb to instant ruin under slight external pressure, "like an inflated rubber balloon ruptured by a small needle."
 
@@ -53,7 +53,7 @@ Fukuoka documented this destruction across multiple domains: the death of soil t
 
 The third stage is economic failure, when humanity loses sight of what it must do. Industrial activity, which expands relentlessly with developments in the natural sciences, is fundamentally a campaign to promote energy consumption. Its target has not been to boost energy production but to senselessly waste energy.
 
-Fukuoka traced the declining energy efficiency of human civilization through successive energy sources:
+Fukuoka traced the declining [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] of human civilization through successive energy sources:
 
 1. **Fireplace**: Simple combustion of wood with relatively high efficiency
 2. **Water wheel**: Electrical generation from flowing water with somewhat lower overall efficiency
@@ -117,6 +117,8 @@ Fukuoka's three-stage model, while apocalyptic in tone, carries a practical mess
 For the individual farmer, the implication is clear: begin the transition now. Establish soil fertility through cover crops and natural methods. Learn to produce food without external inputs. Develop the skills and knowledge needed to work with nature rather than against it. When the industrial agricultural system falters, those who have already made the transition will be prepared.
 
 ## See Also
+
+- [[fukuoka-textdoc-three-stages-collapse-only-future]]
 
 - [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]
 - [[fukuoka-textdoc-three-ways-farming-compared]]

@@ -22,7 +22,7 @@ sources:
 
 **Capsicum baccatum** is a species of chili pepper native to South America, widely cultivated for its distinctive floral aroma and moderate to high pungency.
 
-It ranks among the most economically significant pepper species worldwide, second only to *Capsicum annuum* in South American agricultural production.
+It ranks among the most economically significant pepper species worldwide, second only to *Capsicum annuum* in South [[fukuoka-american-agricultural-decline]] production.
 
 Common names include **ají** (South America), **pepperoncini** (Italy, when pickled), and **bishop's crown** (ornamental varieties).
 
@@ -67,7 +67,7 @@ Archaeological evidence indicates cultivation dates back at least 7,000 years, m
 
 The center of diversity is located in the tropical and subtropical valleys of the Bolivian and Peruvian Andes, spanning elevations of 200–2,500 meters.
 
-Naturalized populations have been reported in parts of Central America, Africa, and Southeast Asia following historical trade routes.
+Naturalized populations have been reported in parts of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], Africa, and [[psilocybe-southeast-asia-pacific]] following historical trade routes.
 
 The species thrives in warm temperate to subtropical climates with well-drained soils and moderate rainfall.
 
@@ -101,9 +101,9 @@ Flowering begins 60–80 days after transplanting, with fruit maturation occurri
 
 Yields average 15–25 tonnes per hectare under commercial cultivation, though specific cultivar and growing conditions significantly influence output.
 
-The species shows moderate tolerance to drought and heat stress compared to *C. annuum*, making it suitable for warmer growing regions.
+The species shows moderate tolerance to drought and [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]] compared to *C. annuum*, making it suitable for warmer growing regions.
 
-Common pests include aphids, whiteflies, and thrips, while major diseases include tobacco mosaic virus and Phytophthora root rot.
+Common pests include aphids, whiteflies, and thrips, while major diseases include tobacco mosaic virus and [[amf-biocontrol-phytophthora-root-exudate-modification]] rot.
 
 ## Bioactive Compounds and Nutrition
 

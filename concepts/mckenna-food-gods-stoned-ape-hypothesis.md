@@ -10,7 +10,7 @@ updated: 2026-04-26
 
 # The Stoned Ape Hypothesis
 
-The "Stoned Ape" hypothesis is Terence McKenna's controversial evolutionary theory proposing that psilocybin-containing mushrooms played a decisive catalytic role in the emergence of human consciousness, language, and culture. First presented in *Food of the Gods* (1992), it argues that the quasi-symbiotic relationship between early hominids and **Stropharia cubensis** (psilocybin mushrooms growing in cattle dung on the African grasslands) was the missing factor explaining the rapid acceleration of human cognitive evolution.
+The "Stoned Ape" hypothesis is Terence McKenna's controversial evolutionary theory proposing that psilocybin-containing mushrooms played a decisive catalytic role in the emergence of human consciousness, language, and culture. First presented in *Food of the Gods* (1992), it argues that the quasi-symbiotic relationship between early hominids and **[[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]** ([[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] growing in cattle dung on the African grasslands) was the missing factor explaining the rapid acceleration of human cognitive evolution.
 
 ## The Three Levels of Psilocybin Use
 
@@ -36,11 +36,11 @@ McKenna further speculated that the widespread need for corrective lenses among 
 
 ## The Indole Hallucinogens as Missing Link
 
-McKenna framed the hypothesis within a broader argument that indole hallucinogens are "the real missing link" in human evolution. The defining structural feature of these compounds — a five-sided pyrrole group in association with a benzene ring — makes the indoles highly reactive chemically and ideal for metabolic activity. Many indoles are endogenous to the human body (serotonin being the primary example), and DMT itself occurs naturally in the human brain, leading McKenna to suggest it "should not be thought of as a drug at all."
+McKenna framed the hypothesis within a broader argument that indole hallucinogens are "the real missing link" in human evolution. The defining structural feature of these compounds — a five-sided pyrrole group in association with a benzene ring — makes the indoles highly reactive chemically and ideal for [[arbuscule-isolation-metabolic-activity-assays]]. Many indoles are endogenous to the human body (serotonin being the primary example), and DMT itself occurs naturally in the human brain, leading McKenna to suggest it "should not be thought of as a drug at all."
 
-The four families of indole hallucinogens McKenna identified:
-1. **LSD-type compounds** — found in morning glories and ergot
-2. **Tryptamine hallucinogens** — especially DMT, psilocin, and psilocybin (found throughout higher plant families and in mushrooms)
+The four [[four-families-of-indole-hallucinogens]] hallucinogens McKenna identified:
+1. **LSD-type compounds** — found in [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] and ergot
+2. **[[mckenna-tryptamine-hallucinogens-and-consciousness]]** — especially DMT, psilocin, and psilocybin (found throughout higher plant families and in mushrooms)
 3. **Beta-carboline hallucinogens** — harmine, harmaline, and related compounds
 4. **Ibogaine-type compounds** — from the root bark of *Tabernanthe iboga*
 
@@ -53,6 +53,9 @@ McKenna situated the hypothesis within the environmental context of the African 
 The Stoned Ape hypothesis remains highly speculative and is not accepted within mainstream evolutionary biology or anthropology. Critics point to the absence of archaeological evidence, the difficulty of testing the hypothesis, and the availability of more conventional explanations for human cognitive evolution (social brain hypothesis, tool use, fire, cooking). However, McKenna's central insight — that the biochemical relationship between humans and psychoactive plants has been a neglected factor in understanding human cultural and cognitive development — continues to stimulate interdisciplinary discussion at the intersection of ethnobotany, evolutionary psychology, and consciousness studies.
 
 ## See Also
+
+- [[mckenna-food-gods-twilight-state-thinking]]
+- [[mckenna-stoned-ape-hypothesis-human-evolution]]
 ## Hominid Evolution and the Grasslands
 
 The first encounters between hominids and psilocybin-containing mushrooms may have predated the domestication of cattle in Africa by a million years or more. During this million-year period, the mushrooms were not only gathered and eaten but probably also achieved the status of a cult. Domestication of wild cattle, by bringing humans into greater proximity to cattle, also entailed increased contact with the mushrooms, because these mushrooms grow only in the dung of cattle. As a result, the human-mushroom interspecies codependency was enhanced and deepened.

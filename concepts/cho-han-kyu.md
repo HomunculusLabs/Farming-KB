@@ -13,7 +13,7 @@ tags:
 
 # Dr. Cho Han Kyu
 
-Dr. Cho Han Kyu (also known as Cho Han-kyu) was a South Korean agricultural scientist and the founder of **Global Natural Farming (GNF)**, a comprehensive system of sustainable agriculture that has spread to more than 15 countries worldwide. He is widely regarded as one of the most influential post-modern agriculture thinkers, ranked alongside Masanobu Fukuoka, Rudolf Steiner, and Bill Mollison for his contributions to farming philosophy and practice.
+Dr. Cho Han Kyu (also known as Cho Han-kyu) was a South Korean agricultural scientist and the founder of **Global [[comparison-natural-farming-vs-permaculture]] (GNF)**, a comprehensive system of sustainable agriculture that has spread to more than 15 countries worldwide. He is widely regarded as one of the most influential post-modern agriculture thinkers, ranked alongside Masanobu Fukuoka, Rudolf Steiner, and Bill Mollison for his contributions to [[fukuoka-do-nothing-farming-philosophy-and-practice]] and practice.
 
 ## Biography
 
@@ -29,11 +29,11 @@ Several formative experiences shaped Dr. Cho's thinking about agriculture. Growi
 
 His formal training as an agricultural scientist gave him the tools to understand the biological and chemical processes underlying these traditional practices. Rather than dismissing traditional knowledge as unscientific, Dr. Cho approached it with curiosity and rigor, seeking to understand *why* these methods worked and how they could be improved. This combination of traditional wisdom and scientific methodology became a hallmark of his approach.
 
-He was also deeply influenced by his observations of the negative consequences of the Green Revolution in South Korea. As chemical fertilizers and pesticides were widely adopted in the 1950s and 1960s, he witnessed firsthand the decline of soil health, the loss of biodiversity, and the increasing economic vulnerability of farmers who became dependent on purchased inputs. Many farmers who initially saw higher yields from chemical inputs soon found their soils depleted and their debts mounting, trapped in a cycle of escalating input costs. These observations strengthened his resolve to develop a viable alternative that would restore both ecological health and economic independence to farming communities.
+He was also deeply influenced by his observations of the negative consequences of the Green Revolution in South Korea. As [[cervantes-chemical-fertilizers-guide]] and pesticides were widely adopted in the 1950s and 1960s, he witnessed firsthand the decline of soil health, the loss of biodiversity, and the increasing economic vulnerability of farmers who became dependent on purchased inputs. Many farmers who initially saw higher yields from chemical inputs soon found their soils depleted and their debts mounting, trapped in a cycle of escalating input costs. These observations strengthened his resolve to develop a viable alternative that would restore both ecological health and economic independence to farming communities.
 
 ## Development of Global Natural Farming
 
-Dr. Cho's system emerged from decades of careful observation of natural ecosystems and traditional farming practices. He spent years studying forest floors, undisturbed grasslands, and traditional Korean farming methods, seeking to understand how natural landscapes maintain soil fertility and plant health without any human intervention. He then translated these observations into practical farming techniques accessible to ordinary farmers working at any scale.
+Dr. Cho's system emerged from decades of careful observation of natural ecosystems and traditional farming practices. He spent years studying forest floors, undisturbed grasslands, and traditional Korean [[natural-farming-methods-comparison]], seeking to understand how natural landscapes maintain soil fertility and plant health without any human intervention. He then translated these observations into practical farming techniques accessible to ordinary farmers working at any scale.
 
 Central to his approach was the insight that **soil biology** — the community of microorganisms, fungi, and invertebrates living in healthy soil — is the foundation of agricultural productivity. Rather than feeding plants directly with soluble nutrients (as conventional agriculture does), Dr. Cho's system focuses on feeding the soil ecosystem so that it can, in turn, nourish plants through natural biological processes. He often described healthy soil as a living digestive system that processes organic matter into plant-available nutrients.
 
@@ -55,7 +55,7 @@ Dr. Cho's contributions to agricultural science are both theoretical and practic
 
 ### Indigenous Microorganisms (IMOs)
 
-The cornerstone of the GNF system is the collection, cultivation, and application of [[nutritive-cycle-theory]] provides a systematic framework for understanding and meeting plant nutritional needs throughout the complete growth cycle. Rather than applying a uniform fertilizer regimen as conventional agriculture does, the Nutritive Cycle Theory recognizes that plants require different nutrient profiles at different stages of growth — early vegetative growth, reproductive stage, and maturation each demand specific mineral and biological inputs. This theory allows farmers to precisely target their inputs for maximum efficiency and plant health, reducing waste while optimizing yields.
+The cornerstone of the GNF system is the collection, cultivation, and application of [[nutritive-cycle-theory]] provides a systematic framework for understanding and meeting plant nutritional needs throughout the complete growth cycle. Rather than applying a uniform fertilizer regimen as conventional agriculture does, the [[cho-nutritive-cycle-theory]] Theory recognizes that plants require different nutrient profiles at different stages of growth — early vegetative growth, reproductive stage, and maturation each demand specific mineral and biological inputs. This theory allows farmers to precisely target their inputs for maximum efficiency and plant health, reducing waste while optimizing yields.
 
 ### Natural Farming Inputs
 
@@ -63,7 +63,7 @@ Dr. Cho developed a complete system of natural farming inputs, all produced thro
 
 - [[indigenous-microorganisms-imo]] — The cornerstone technique of GNF
 - [[fermented-plant-juice-fpj]] — A key natural farming input
-- [[lactic-acid-bacteria-lab]] — Microbial input for disease suppression
+- [[lactic-acid-bacteria-lab]] — Microbial input for [[aact-disease-suppression-mechanisms-ingham]]
 ## Practical Considerations
 
 Successful implementation of Dr. Cho Han Kyu requires attention to
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -10,7 +10,7 @@ tags: [plants, shamanism]
 
 # Cross-Cultural Patterns in Shamanic Plant Use
 
-The culminating section of Harner's volume (Part IV: "Hallucinogens and Shamanism: The Question of a Trans-Cultural Experience") addresses one of the most fundamental questions in the anthropology of consciousness: to what extent are the experiences reported by users of shamanic plants determined by culture, and to what extent by the biochemistry of the plants themselves? Two companion papers--by Harner and by Claudio Naranjo--approach this question from complementary angles, producing findings that challenge purely cultural explanations of shamanic experience.
+The culminating section of Harner's volume (Part IV: "[[hallucinogens-and-shamanism-harner-anthology]]: The Question of a Trans-Cultural Experience") addresses one of the most fundamental questions in the anthropology of consciousness: to what extent are the experiences reported by users of shamanic plants determined by culture, and to what extent by the biochemistry of the plants themselves? Two companion papers--by Harner and by Claudio Naranjo--approach this question from complementary angles, producing findings that challenge purely cultural explanations of shamanic experience.
 
 ## The Problem of Trans-Cultural Regularities
 
@@ -20,7 +20,7 @@ However, Harner argues, if one redefines the search for origins "as the search f
 
 ## Harner's Five Common Themes in Yage Experiences
 
-Harner surveys South American Indian yage (ayahuasca/Banisteriopsis) experiences across numerous tribes spanning from the Choco of western Colombia to the Tacana of eastern Bolivia, and identifies five recurring patterns:
+Harner surveys South [[harner-american-indian-peyote-rituals]] yage (ayahuasca/Banisteriopsis) experiences across numerous tribes spanning from the Choco of western Colombia to the Tacana of eastern Bolivia, and identifies five recurring patterns:
 
 ### 1. The Soul Separates and Makes a Trip, Often with the Sensation of Flight
 
@@ -74,7 +74,7 @@ The volume's argument is strengthened by the inclusion of European data. Harner'
 
 ## The Independent Reinvention of the "Trip"
 
-Perhaps the most persuasive evidence for a non-cultural basis comes from modern Western culture. The concept of the "trip" was independently invented in the United States during the early 1960s to describe the hallucinogenic drug experience. Since the Inquisition largely eradicated European witchcraft ideology, this parallel "cannot be easily ascribed to cultural tradition." The Cashinahua of the Amazon have a precise equivalent of "to have a good trip," further supporting the independence of this concept from cultural diffusion.
+Perhaps the most persuasive evidence for a non-cultural basis comes from modern [[mycophobia-in-western-culture]]. The concept of the "trip" was independently invented in the [[dmt-containing-plants-united-states-halpern]] during the early 1960s to describe the [[emcdda-hallucinogenic-drug-classification-and-terminology-taxonomy]] experience. Since the Inquisition largely eradicated European witchcraft ideology, this parallel "cannot be easily ascribed to cultural tradition." The Cashinahua of the Amazon have a precise equivalent of "to have a good trip," further supporting the independence of this concept from cultural diffusion.
 
 ## The Culture-Biology Question
 

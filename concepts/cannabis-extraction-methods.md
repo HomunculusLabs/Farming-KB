@@ -1,5 +1,5 @@
 ---
-title: Cannabis Extraction Methods
+title: comparison-cannabis-extraction-basics-vs-extraction-methods Methods
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -14,8 +14,8 @@ Cannabis extraction concentrates the psychoactive essential oils (cannabinoids a
 ### Mechanical Methods
 
 **Kief (dry sift)**:
-- Cannabis flower material is agitated over fine mesh screens
-- The glandular trichome heads separate and fall through
+- [[cervantes-cannabis-flower-anatomy]] material is agitated over fine mesh screens
+- The [[cannabis-glandular-trichome-types-resin-production-clarke]] heads separate and fall through
 - Different micron sizes yield different grades of purity
 - Simplest and oldest method; produces a powdery concentrate
 - Can be pressed into blocks with heat and pressure
@@ -26,7 +26,7 @@ Cannabis extraction concentrates the psychoactive essential oils (cannabinoids a
 - Traditional method from India, Nepal, and Morocco
 - Charas from India is considered among the finest traditional hashish
 
-**Ice water extraction (bubble hash)**:
+**[[comparison-cannabis-ice-water-extraction-vs-hashish-guide]] (bubble hash)**:
 - Plant material is agitated in ice-cold water
 - Cold makes trichome heads brittle, causing them to separate
 - The mixture is filtered through successively finer mesh bags (bubble bags)
@@ -35,11 +35,11 @@ Cannabis extraction concentrates the psychoactive essential oils (cannabinoids a
 
 ### Solvent Extraction
 
-Ben Lemon's "Cannabis Alchemy" provides a detailed solvent extraction protocol. The process follows these steps:
+Ben Lemon's "[[lemon-cannabis-alchemy-advanced-refinement-techniques]]" provides a detailed solvent extraction protocol. The process follows these steps:
 
 **1. Preparation**: Plant material (marijuana or hashish) is dried and ground to the finest powder possible. Ruptured cell walls allow oil to be extracted more completely.
 
-**2. Reflux extraction**: The powdered material is boiled (refluxed) in solvent. The essential oil — containing THC, related cannabinoids, terpenes, chlorophyll, and flavor/smell compounds — dissolves in the solvent. Refluxing continues 3-4 hours.
+**2. [[cannabis-reflux-extraction-apparatus]]**: The powdered material is boiled (refluxed) in solvent. The essential oil — containing THC, related cannabinoids, terpenes, chlorophyll, and flavor/smell compounds — dissolves in the solvent. Refluxing continues 3-4 hours.
 
 **3. Solvent options** (from Lemon's guide):
 

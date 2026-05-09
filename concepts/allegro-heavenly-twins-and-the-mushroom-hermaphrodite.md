@@ -1,5 +1,5 @@
 ---
-title: Heavenly Twins and the Mushroom Hermaphrodite (Allegro)
+title: allegro heavenly twins and the mushroom hermaphrodite and the Mushroom Hermaphrodite (Allegro)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -38,7 +38,7 @@ The cross became the symbol of the phallic god Hermes — an upright piece with 
 
 ## The Rib of Adam: Canopy of the Mushroom
 
-The Hebrew name for "rib," sela', is the Sumerian SILA, represented by the "V" shape. What the Old Testament writer had in mind was a rib extending on both sides of the spinal column, giving the arched form associated with the open groin and the mushroom top. From this "rib" the god fashioned the significant part of the woman, supplying the canopy for the erect stem.
+The Hebrew name for "rib," sela', is the Sumerian SILA, represented by the "V" shape. What the [[allegro-old-testament-figures-as-fertility-deities]] writer had in mind was a rib extending on both sides of the spinal column, giving the arched form associated with the open groin and the mushroom top. From this "rib" the god fashioned the significant part of the woman, supplying the canopy for the erect stem.
 
 The inverted "V" shape was also the form of the old yoke. The Sumerian GUN, "burden," is the base of our word "yoke." In the extended mushroom was seen an image of a neck bearing a yoke, which gave Castor his mythology as a horse-trainer — the "yoker" of horses.
 
@@ -48,7 +48,7 @@ The hip-joint appears repeatedly in mushroom mythology. Adonis was killed by bei
 
 ## Scholarly Significance and Criticism
 
-Allegro's interpretation of death and resurrection mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
+Allegro's interpretation of [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
 
 ## See Also
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

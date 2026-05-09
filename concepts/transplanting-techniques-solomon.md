@@ -14,7 +14,7 @@ Updated: 2026-04-18
 
 Source: Gardening When It Counts, Steve Solomon, Chapter 3
 
-Solomon views transplanting as a necessary evil for certain crops, not a standard practice. His approach minimizes transplant shock and focuses on selecting the healthiest seedlings.
+Solomon views transplanting as a necessary evil for certain crops, not a standard practice. His approach minimizes [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]] and focuses on selecting the healthiest seedlings.
 
 ## Evaluating Seedling Quality
 
@@ -26,7 +26,7 @@ To check: Place the stem between your index finger and thumb against the soil, t
 
 **Stem thickness**: A thick, sturdy stem indicates a hardened seedling grown in proper conditions. Thin, spindly stems indicate etiolation from insufficient light or excessive warmth.
 
-**Leaf color**: Deep green leaves suggest adequate nutrition. Pale yellow or purple-tinged leaves indicate nutrient deficiency or cold stress.
+**Leaf color**: Deep green leaves suggest adequate nutrition. Pale yellow or purple-tinged leaves indicate [[cannabis-grow-nutrient-deficiency-problem-solving]] or cold stress.
 
 **Overall proportion**: The seedling should look like a small, well-proportioned version of the mature plant — not an oversized top with inadequate roots.
 
@@ -40,7 +40,7 @@ Seedlings grown indoors must be gradually acclimated to outdoor conditions. The 
 4. Reduce watering frequency to toughen stems
 5. On the final days, leave out overnight (watching for frost)
 
-The cold house method: Commercial growers move seedlings from a warm greenhouse to a cold house (unheated structure with wind protection) for 2-3 weeks. This produces smaller, tougher seedlings with corded-muscled stems — like an athlete in peak condition.
+The cold house method: Commercial growers move seedlings from a warm greenhouse to a cold house (unheated structure with [[cervantes-wind-protection-outdoor-cannabis]]) for 2-3 weeks. This produces smaller, tougher seedlings with corded-muscled stems — like an athlete in peak condition.
 
 ## Transplanting Procedure
 
@@ -67,15 +67,15 @@ For solanum crops (tomatoes, peppers, eggplants), wait until all danger of frost
 
 ## The Case Against Transplanting
 
-Solomon's core argument: most vegetables do not need to be transplanted. Direct seeding produces stronger plants because:
+Solomon's core argument: most vegetables do not need to be transplanted. [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] produces stronger plants because:
 
 - No root disturbance during critical early growth
 - No hardening-off period needed
 - No transplant shock or setback
-- Plants develop natural root architecture adapted to their final location
+- Plants develop [[fukuoka-textdoc-soil-self-plowing-natural-root-action]] architecture adapted to their final location
 - Less labor and expense
 
-The exceptions (tomatoes, peppers, eggplants, and early brassicas in cold climates) justify the extra effort because they genuinely benefit from a longer growing season.
+The exceptions (tomatoes, peppers, eggplants, and early brassicas in cold climates) justify the extra effort because they genuinely benefit from a longer [[savory-growing-season-and-non-growing-season-management]].
 
 ## Economics of Seedlings vs. Transplants
 

@@ -3,14 +3,10 @@ title: Microfungi on Wood and Plant Debris
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-# Microfungi on Wood and Plant Debris
-
-## Overview
-
-Microfungi on wood and plant debris represent one of the most species-rich and ecologically important groups of fungi. They are responsible for the [[nutrient-cycling-in-soil]], carbon flow, and ecosystem functioning. Their diversity is enormous but poorly documented, with most studies limited to temperate regions.
+# Microfungi on Wood and Plant Debris ## Overview Microfungi on wood and plant debris represent one of the most species-rich and ecologically important groups of fungi. They are responsible for the [[nutrient-cycling-in-soil]], carbon flow, and ecosystem functioning. Their diversity is enormous but poorly documented, with most studies limited to temperate regions.
 
 ## Species Diversity at Large Scales
 
@@ -37,16 +33,16 @@ Proportions of major taxa are remarkably consistent across sites:
 
 ### Leaf Litter Studies
 
-Microfungal diversity on leaf litter varies by habitat and method:
+[[leaf-litter-microfungal-diversity-tropical-temperate]] on leaf litter varies by habitat and method:
 
 | Locality | Habitat | No. Species | Method |
 |----------|---------|-------------|--------|
 | Great Britain | Salt marsh | 141 | Unspecified (Ascomycota only) |
-| Austria | Alpine sedge | 128 | Direct observation |
-| Ivory Coast | Forest | 129-165 | Moist chamber |
+| Austria | Alpine sedge | 128 | [[fukuoka-direct-observation-method]] |
+| Ivory Coast | Forest | 129-165 | [[myxomycete-sampling-collection-moist-chamber-culturing]] |
 | Costa Rica | Wet forest | 78-134/sample | Particle washing |
 | Puerto Rico | Wet forest | 338 total | Particle washing |
-| Panama | 6 tree species | 500 | Dilution plating |
+| Panama | 6 tree species | 500 | [[particle-filtration-dilution-plating-microfungal-isolation]] |
 
 The enormous difference between direct observation (24 species) and particle washing (338 species) at the Puerto Rico wet forest site illustrates the critical importance of methodology on apparent diversity.
 
@@ -64,7 +60,7 @@ The enormous difference between direct observation (24 species) and particle was
 - Temperature and moisture regimes
 - Altitudinal gradients
 - Soil type effects appear minimal for microfungal litter diversity
-- Seasonal patterns in sporulation and community composition
+- Seasonal patterns in sporulation and [[core-endorhiza-bacterial-community-composition-cannabis]]
 
 ### Human Disturbance
 
@@ -93,7 +89,7 @@ Fungal communities on decomposing plant material change over time:
 ### Moist Chamber Incubation
 
 - Place plant material in moist chambers (usually Petri dishes with moist filter paper)
-- Incubate at ambient temperature or controlled conditions
+- Incubate at [[jadam-ambient-temperature-principle]] or controlled conditions
 - Allows fungi present as spores or mycelium to develop fruiting structures
 - Particularly effective for detecting fungi on tropical leaf litter
 - Time-course observations reveal sequential sporulation
@@ -140,10 +136,7 @@ Fungal communities on decomposing plant material change over time:
 ### Taxonomic Expertise
 
 - Many microfungi require specialist taxonomic knowledge
-- Pleomorphy (multiple sporing stages with different names) complicates identification
-- Molecular methods are revealing previously undetectable cryptic species
-- Lack of trained taxonomists limits inventory efforts
-
 ## See Also
 
-- [[microfungi-wood-plant-debris-diversity-trophic-biogeography]]
+- microfungi-wood-plant-debris-diversity-trophic-biogeography
+- [[microfungi-wood-plant-debris-survey]]

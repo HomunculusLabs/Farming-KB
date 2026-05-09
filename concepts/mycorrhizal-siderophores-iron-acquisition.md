@@ -1,5 +1,5 @@
 ---
-title: "Mycorrhizal Siderophores and Iron Acquisition"
+title: "Mycorrhizal Siderophores and fungal-siderophores-iron-acquisition-mycorrhiza"
 created: 2026-04-26
 tags: [mycorrhiza, siderophore, iron, fungal-physiology, nutrient-cycling]
 date: 2026-04-25
@@ -14,27 +14,29 @@ type: concept
 ## Overview
 
 Siderophores are high-affinity iron-chelating compounds produced by
-microorganisms under iron-limiting conditions. Mycorrhizal fungi produce a
+microorganisms under iron-limiting conditions. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] produce a
 diverse array of siderophores that play essential roles in iron acquisition
 and may contribute to plant nutrition, [[ectomycorrhizal-fungal-ecology]]
     species (ascomycete)
   - Wilcoxina spp. forming ectendomycorrhizae
-  - Phialocephala fortinii, a [[glomeromycota-arbuscular-mycorrhizae]] (arbuscular mycorrhizal fungi), which form the most
-    widespread type of mycorrhizal symbiosis
+  - Phialocephala fortinii, a [[glomeromycota-arbuscular-mycorrhizae]] ([[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi), which form the most
+    widespread type of [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]
   - Only a limited number of species across the major mycorrhizal types have
-    been surveyed for siderophore production
+    been surveyed for [[singh-fungal-siderophore-production-iron-acquisition]]
   - The ecological significance of mycorrhizal siderophores in iron cycling
     in natural ecosystems requires further investigation
 
 ## Ecological Significance
 
-Mycorrhizal siderophores may contribute to plant iron nutrition by solubilising
+Mycorrhizal siderophores may contribute to plant [[siderophore-iron-nutrition-mycorrhizal-fungi]] by solubilising
 otherwise unavailable iron pools in soil. In the context of
-[[fungal-symbiosis-with-plants-beyond-mycorrhizae]].
+fungal-symbiosis-with-plants-beyond-mycorrhizae.
 
 ## Related
 
-- [[mycorrhizal-siderophores-iron-chelation]]
+- [[fungal-siderophores-iron-acquisition-mycorrhiza]]
+
+- mycorrhizal-siderophores-iron-chelation
 - [[dark-septate-endophytes]]
 - [[ectomycorrhizal-fungal-ecology]]
 ## Practical Applications
@@ -114,4 +116,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

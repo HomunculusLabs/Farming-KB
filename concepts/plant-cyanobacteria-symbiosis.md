@@ -14,7 +14,7 @@ Cyanobacterial symbioses with plants represent some of the oldest and most ecolo
 
 Geosiphon pyriforme is a unique coenocytic soil fungus that forms the only known endocytobiotic association between a fungus and a cyanobacterium (Nostoc punctiforme). When a fungal hypha contacts free-living Nostoc cells, the cyanobacteria are incorporated at the hyphal tip, which swells to form a unicellular bladder approximately 1-2 mm in size that appears on the soil surface. Inside this bladder, the cyanobacteria remain physiologically active and continue dividing.
 
-Geosiphon is significant as a potential model system for understanding arbuscular mycorrhiza, as both systems involve endocytobiotic nutrient exchange.
+Geosiphon is significant as a potential model system for understanding [[proteomics-early-arbuscular-mycorrhiza-symbiosis]], as both systems involve endocytobiotic [[arbuscule-isolation-and-nutrient-exchange-mechanisms]].
 
 Key differences from [[ozier-pdc-composting-and-soil-building]], fixing atmospheric nitrogen in nutrient-poor bog and tundra habitats where few other nitrogen-fixing organisms thrive.
 
@@ -22,13 +22,13 @@ Key differences from [[ozier-pdc-composting-and-soil-building]], fixing atmosphe
 
 Azolla, a floating fern, forms one of the most agriculturally important cyanobacterial symbioses. Filaments of the cyanobacterium Anabaena live within ovoid cavities inside the leaves of Azolla, fixing atmospheric nitrogen and giving the plant access to this essential nutrient. When free-living, Anabaena develops only 5-10% of its cells into heterocysts (nitrogen-fixing cells), but this increases to 25-30% in the symbiotic state.
 
-The epidermal cells inside the leaf cavity of Azolla project inward to form numerous multicellular hairs with warty outgrowths that likely serve as transfer cells for free exchange of nutrients between Azolla and Anabaena. Azolla can absorb nitrates from water and also absorb ammonia secreted by Anabaena within the leaf cavities. This symbiosis has been used for centuries in rice paddies of Southeast Asia as a biofertilizer.
+The epidermal cells inside the leaf cavity of Azolla project inward to form numerous multicellular hairs with warty outgrowths that likely serve as transfer cells for free exchange of nutrients between Azolla and Anabaena. Azolla can absorb nitrates from water and also absorb ammonia secreted by Anabaena within the leaf cavities. This symbiosis has been used for centuries in rice paddies of [[psilocybe-southeast-asia-pacific]] as a biofertilizer.
 
 ## Coralloid Roots of Cycads
 
 Cycads, the only gymnosperms known to form symbiotic relationships with nitrogen-fixing organisms, produce specialized coralloid roots. These apogeotropic roots grow toward the soil surface and branch dichotomously, forming coral-like masses. The coralloid roots become infected with cyanobacteria such as Anabaena and Nostoc, which are found in the midcortical zone as a conspicuous ring in the intercellular spaces between the outer cortex and inner cortex.
 
-The unique positioning of cyanobacteria in the midcortical zone creates a specialized microenvironment that balances the conflicting requirements of photosynthesis (needing light) and nitrogen fixation (needing low oxygen).
+The unique positioning of cyanobacteria in the midcortical zone creates a specialized microenvironment that balances the conflicting requirements of photosynthesis (needing light) and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] (needing low oxygen).
 
 The cyanobacteria in cycad roots also contribute to [[mycorrhizal-fungi]] in their regular root systems.
 
@@ -52,7 +52,7 @@ In the intracellular environment, Nostoc is heterotrophic and dependent on the h
 
 ## Ecological and Agricultural Importance
 
-Cyanobacterial symbioses contribute significantly to nitrogen inputs in both natural and agricultural ecosystems.
+Cyanobacterial symbioses contribute significantly to nitrogen inputs in both natural and [[fungi-grassland-agricultural-ecosystems-dighton]].
 
 The Azolla-Anabaena symbiosis alone can fix 1-2 kg N per hectare per day.
 
@@ -70,7 +70,7 @@ The ubiquity of cyanobacteria as symbionts across diverse plant lineages points 
 
 ## References
 
-- Das A, Varma A (2009) Symbiosis: The Art of Living. In: Varma A, Kharkwal AC (eds) Symbiotic Fungi, Soil Biology 18. Springer.
+- Das A, Varma A (2009) Symbiosis: The Art of Living. In: Varma A, Kharkwal AC (eds) [[mycelium-running-symbiotic-fungi-relationships]], Soil Biology 18. Springer.
 - Schussler A, Kluge M (2001) Geosiphon pyriforme. Prog Bot 62:185-203.
 - Peters GA (1977) The Azolla-Anabaena azollae relationship. IV. Physiol Plant 40:84-90.
 ## Practical Considerations
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

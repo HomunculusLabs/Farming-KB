@@ -10,10 +10,10 @@ tags: [plants]
 
 # Iboga Plant
 
-Tabernanthe iboga is a perennial shrub of the Apocynaceae (dogbane
+[[plants-of-the-gods-tabernanthe-iboga-chemistry]] is a perennial shrub of the Apocynaceae (dogbane
 family) native to the rainforests of equatorial West Africa,
 particularly Gabon, Congo, and Cameroon. The plant is the source of
-ibogaine, a powerful indole alkaloid with hallucinogenic and
+ibogaine, a powerful [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] with hallucinogenic and
 stimulant properties. Iboga is the central sacrament of the Bwiti
 religion, one of the most significant entheogenic traditions in
 Africa, and has attracted modern scientific interest for its
@@ -27,7 +27,7 @@ elliptical leaves arranged in whorls or opposite pairs along the
 stems. The small, yellowish flowers are borne in clusters and are
 followed by conspicuous bright yellow-orange fruits that contain
 numerous seeds. The yellowish root is the active part of the plant,
-containing the psychoactive alkaloids. The root bark is especially
+containing the psychoactive alkaloids. The [[iboga-root-bark-preparation]] is especially
 rich in ibogaine and related compounds, and it is this part that is
 harvested for ceremonial use.
 

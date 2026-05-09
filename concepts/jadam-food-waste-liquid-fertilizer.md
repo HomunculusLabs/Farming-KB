@@ -1,5 +1,5 @@
 ---
-title: JADAM Food Waste Liquid Fertilizer
+title: JADAM Food Waste jadam-liquid-fertilizer-nutritional-perspective
 created: 2026-04-18
 updated: 2026-04-22
 type: concept
@@ -13,7 +13,7 @@ Food waste is an excellent nitrogen-rich ingredient for [[jadam-anaerobic-fermen
 1. Fill a container with food waste
 2. Fill with water
 3. Add a handful of [[jadam-mineral-water-jmw]] phyllite powder at 0.2% concentration (1 kg per 500 L)
-- Filter well before foliar application to prevent clogging spray equipment
+- Filter well before [[ultra-low-cost-foliar-application-methods]] to prevent clogging spray equipment
 - Mix with [[jadam-cover-crop-method]] for base fertilizer
 - Use food waste JLF as supplemental nitrogen-rich liquid fertilizer
 - Apply [[soil-compaction-solutions-ingham]] first to ensure nutrients can reach roots
@@ -23,10 +23,10 @@ Food waste is an excellent nitrogen-rich ingredient for [[jadam-anaerobic-fermen
 Not all food waste is equal in its fertilizer value. JADAM farmers learn to categorize their kitchen waste by nutrient profile:
 
 - **Fruit waste** (peels, cores, rinds): High in potassium and sugars. Breaks down quickly due to high moisture content. Especially good for fruiting crops like tomatoes and peppers.
-- **Vegetable scraps** (ends, leaves, stems): Balanced N-P-K with good mineral content. Leafy green scraps provide nitrogen; root vegetable peels provide potassium.
+- **Vegetable scraps** (ends, leaves, stems): Balanced N-P-K with good mineral content. Leafy green scraps provide nitrogen; [[fukuoka-western-root-vegetable-deficiency]] peels provide potassium.
 - **Grain waste** (stale bread, rice, pasta): Carbon-rich but still nitrogen-sufficient for JLF. Adds bulk and feeds diverse microbial populations during fermentation.
 - **Eggshells:** Rich in calcium carbonate. Best crushed finely before adding to accelerate decomposition. Calcium is essential for cell wall strength and disease resistance.
-- **Tea bags and coffee grounds:** Good nitrogen source with trace minerals. Coffee grounds also contain caffeine which may have mild pest-deterrent properties.
+- **Tea bags and [[oyster-mushroom-coffee-grounds-cultivation]]:** Good nitrogen source with trace minerals. Coffee grounds also contain caffeine which may have mild pest-deterrent properties.
 
 Avoid adding meat scraps, bones, or dairy to JLF — while these decompose, they attract pests and create particularly strong odors. Stick to plant-based food waste for the cleanest fermentation.
 
@@ -35,7 +35,7 @@ Avoid adding meat scraps, bones, or dairy to JLF — while these decompose, they
 The standard JLF dilution ratio is 1:100 (one part fermented liquid to 100 parts water), but food waste JLF can be adjusted based on crop needs and growth stage:
 
 - **Seedlings and young transplants:** Dilute 1:200 to avoid burning tender roots. Young plants have lower nutrient tolerance and can be damaged by concentrated solutions.
-- **Vegetative growth stage:** Dilute 1:100 as a standard rate. Apply every 7-10 days as a soil drench or foliar spray for vigorous vegetative growth.
+- **[[cannabis-vegetative-growth-stage]] stage:** Dilute 1:100 as a standard rate. Apply every 7-10 days as a soil drench or foliar spray for vigorous vegetative growth.
 - **Fruiting and flowering:** Reduce to 1:50 or maintain at 1:100 but increase frequency. Potassium-rich fruit waste JLF is particularly beneficial during this stage.
 - **Stressed or diseased plants:** Dilute 1:200 and apply as a foliar spray. The microbial diversity in JLF can help suppress foliar pathogens and boost plant immune responses.
 
@@ -56,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,4 +98,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

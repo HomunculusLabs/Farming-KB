@@ -2,7 +2,7 @@
 
 Unlike many [[fukuoka-do-nothing-farming-and-spiritual-life]].
 
-Just as wine serves a sacred function in Christian communion, and peyote and ayahuasca serve ceremonial roles in Native American traditions, cannabis can be integrated into worship in a positive and healthy manner.
+Just as wine serves a sacred function in Christian communion, and peyote and ayahuasca serve ceremonial roles in [[halpern-sacramental-peyote-and-native-american-church]] traditions, cannabis can be integrated into worship in a positive and healthy manner.
 
 This comparative framework is important because it situates cannabis use within established patterns of entheogenic practice rather than presenting it as novel or transgressive.
 
@@ -12,7 +12,7 @@ Cannabis is viewed not as a foreign or alien substance but as a natural medicine
 
 ## Preparation of Cannabis-Infused Oil
 
-The anointing oil ritual requires several materials: pure olive oil, cannabis flower, a chalice, incense, an incense stand, five yellow candles, and rosemary.
+The cannabis anointing oil blessing rituals ritual requires several materials: pure [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]], [[cervantes-cannabis-flower-anatomy]], a chalice, incense, an incense stand, five yellow candles, and rosemary.
 
 The first step is infusing the oil.
 
@@ -80,7 +80,7 @@ Each element is acknowledged as a gift from the earth, and each plays a vital ro
 
 The progression through the four directions creates a complete circuit of gratitude and connection.
 
-This directional practice has parallels in many indigenous traditions around the world, where the four directions represent not just physical orientations but fundamental aspects of existence and consciousness.
+This directional practice has parallels in many indigenous traditions [[fungi-around-the-world-species-distribution]], where the four directions represent not just physical orientations but fundamental aspects of existence and consciousness.
 
 The act of thanking each element reinforces the practitioner's dependence on and interconnection with the natural world.
 

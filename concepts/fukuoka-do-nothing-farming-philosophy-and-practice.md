@@ -1,10 +1,11 @@
 ---
-title: Do-Nothing Farming Philosophy and Practice
+title: Do-Nothing cho-natural-farming-philosophy-of-non-interference and Practice
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [regenerative]
-sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Do-Nothing Farming Philosophy and Practice
@@ -54,7 +55,7 @@ determine whether rice can be grown without doing anything.
 
 ## The Search for Unnecessary Actions
 
-While at the agriculture testing station in Kochi, Fukuoka also tried
+While at the agriculture [[fukuoka-straw-scattering-testing-station-resistance]] in Kochi, Fukuoka also tried
 the opposite approach of "What about doing this? What about doing
 that?" But this only makes people busier and makes things harder for
 the farmer, who ends up having to do everything. Preoccupied with the
@@ -91,7 +92,7 @@ mountain forests the earth is not plowed or tilled but left to itself,
 in a few thousand years a rich soil develops. Man kills and destroys
 the soil, then packs it into pots and runs tests on it.
 
-The reason chemical fertilizers have to be applied is that the paddies
+The reason [[cervantes-chemical-fertilizers-guide]] have to be applied is that the paddies
 are filled with water and the roots of the rice allowed to rot so that
 the plants are weak. When man establishes conditions in a field that
 render chemical fertilizers necessary, then runs tests in which he
@@ -103,7 +104,7 @@ reason that the fertilized plot will produce larger plants.
 With the frail, leggy rice that grows as a result of artificial
 methods, pests break out unless the plants are sprayed with pesticides.
 Breeding programs have succeeded only in downgrading rice, creating
-weak rice suited to artificial cultivation methods under the prompting
+weak rice suited to [[fukuoka-matsutake-artificial-cultivation-attempt]] methods under the prompting
 of consumer demands for "tasty" rice.
 
 All that was really necessary was to come up with some way of enriching
@@ -116,7 +117,7 @@ and unnatural methods of cultivation.
 Merely leaving one's fields alone is not nature. While walking the fine
 line between nature and the laissez-faire approach, Fukuoka strived to
 learn what the true form of nature is. This is distinct from both
-scientific agriculture and from mere abandonment of land.
+[[fukuoka-critique-scientific-agriculture-civilization]] and from mere abandonment of land.
 
 ## The Natural Farm Community
 
@@ -125,7 +126,7 @@ the Inland Sea, with 7-8 acres of mandarin grove and an acre and a
 half of paddy field for rice and barley. Over the years, a constantly
 changing group of about six to ten young people lived in huts in the
 orchard, helping with the field work. They were generally people
-following a natural diet, members of organic farming associations,
+following a natural diet, members of [[coleman-deep-organic-farming-philosophy]] associations,
 Shintoists, Christians, members of various religious bodies, college
 students, and runaways. Everyone came as they wished, stayed as long as
 they cared, and left when ready.

@@ -1,5 +1,5 @@
 ---
-title: Organic Pest and Disease Management
+title: Organic Pest and plant-disease-management-solomon
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -13,7 +13,7 @@ Organic pest management relies on prevention first, then biological controls, ph
 ## Prevention: The First Line of Defense
 
 ### Healthy Soil, Healthy Plants
-- Well-nourished plants resist pests and diseases naturally
+- Well-nourished plants resist [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] naturally
 - Over-fed plants (excess nitrogen) produce soft, sappy growth that attracts aphids
 - Balanced nutrition with adequate potassium and silica strengthens cell walls
 
@@ -25,7 +25,7 @@ Organic pest management relies on prevention first, then biological controls, ph
 
 ### Plant Diversity
 - Mixed plantings confuse pests ( harder to find host plants)
-- Interplant flowers to attract beneficial insects
+- Interplant flowers to attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - Avoid large monoculture blocks
 
 ### Good Hygiene
@@ -54,7 +54,7 @@ Organic pest management relies on prevention first, then biological controls, ph
 - **Lacewings**: Larvae eat aphids, mealybugs, thrips, whitefly
 - **Hoverfly larvae**: Consume aphids voraciously
 - **Parasitic wasps (Encarsia formosa)**: Control whitefly
-- **Predatory mites (Phytoseiulus)**: Control red spider mite
+- **[[comparison-predatory-mites-vs-ladybugs-biocontrol]] (Phytoseiulus)**: Control red spider mite
 - **Nematodes (Phasmarhabditis)**: Control slugs
 
 ### Encouraging Beneficial Insects
@@ -82,12 +82,12 @@ Organic pest management relies on prevention first, then biological controls, ph
 - **Insecticidal soap**: Contact insecticide for soft-bodied insects (aphids, whitefly, mealybugs). No residue
 - **Pyrethrum**: Natural insecticide from chrysanthemum flowers. Broad-spectrum, breaks down quickly. Toxic to bees — spray evening
 - **Neem oil**: Insecticide, fungicide, miticide. Disrupts insect hormone systems. Low bee toxicity
-- **Diatomaceous earth**: Physical desiccant for slugs, ants, fleas. Wear mask when applying
+- **[[query-how-to-use-diatomaceous-earth-in-the-garden]]**: Physical desiccant for slugs, ants, fleas. Wear mask when applying
 - **Spinosad**: Derived from soil bacterium. Effective against caterpillars, thrips. Toxic to bees — spray evening
 
 ### Disease Control
 - **Copper fungicide** (Bordeaux mix): Prevents blight, canker, leaf spot. Some soil accumulation — use sparingly
-- **Sulfur**: Controls powdery mildew, rust. Can't use within 2 weeks of oil sprays
+- **Sulfur**: Controls [[cervantes-powdery-mildew-prevention-treatment]], rust. Can't use within 2 weeks of oil sprays
 - **Potassium bicarbonate**: Changes leaf surface pH, inhibits spore germination
 - **Baking soda spray** (1 tbsp/gallon + drop of soap): Mildew prevention
 - **Milk spray** (1:10 dilution): Suppresses powdery mildew

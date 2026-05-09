@@ -25,7 +25,7 @@ Scopolamine (hyoscine) is a tropane alkaloid antimuscarinic agent produced by
 Solanaceae plants. It competitively antagonizes muscarinic acetylcholine
 receptors, producing mydriasis, tachycardia, anhidrosis, and at high doses,
 deliriant psychoactivity. Among the oldest pharmaceuticals still in clinical
-use, it remains standard for motion sickness, ophthalmology, and anesthesia
+use, it remains standard [[cannabis-for-motion-sickness]], ophthalmology, and anesthesia
 premedication.
 
 ## Chemical Properties
@@ -88,5 +88,5 @@ characteristic deliriant syndrome fundamentally distinct from serotonergic or
 ## History
 
 First isolated in 1880 by Albert Ladenburg from *Scopolia carniolica*.
-Ethnobotanical use dates to pre-Columbian South America, where [[datura-stramonium]] — Major natural source plant
+Ethnobotanical use dates to pre-Columbian [[guzman-psilocybin-mushrooms-south-america]], where [[datura-stramonium]] — Major natural source plant
 - [[hyoscyamus-niger]] — Henbane, Solanaceae source of tropane alkaloids

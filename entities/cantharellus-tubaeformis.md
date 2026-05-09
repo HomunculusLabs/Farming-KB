@@ -57,7 +57,7 @@ Spore print is white to pale yellow. Spores are 7–10 × 5–7 µm, ellipsoid, 
 
 In Europe it occurs from Scandinavia and the British Isles south to the Mediterranean, though it is most abundant in boreal and montane conifer forests.
 
-In North America it ranges from Alaska and Canada through the Pacific Northwest, with disjunct populations in the Appalachian Mountains.
+In [[psilocybin-north-america-pacific-northwest]] it ranges from Alaska and Canada through the Pacific Northwest, with disjunct populations in the Appalachian Mountains.
 
 It forms ectomycorrhizal associations primarily with conifers, especially **Norway spruce** (*Picea abies*), Scots pine (*Pinus sylvestris*), and Sitka spruce (*Picea sitchensis*).
 
@@ -69,7 +69,7 @@ It is most abundant in moist, shaded microsites with deep moss layers, often alo
 
 ## Edibility and Culinary Use
 
-*Cantharellus tubaeformis* is an excellent edible mushroom, widely regarded as a culinary equal or superior to the golden chanterelle (*C. cibarius*) in flavor intensity.
+*Cantharellus tubaeformis* is an excellent [[bloomfield-boletus-satanus-edible-mushroom-hazards]], widely regarded as a culinary equal or superior to the golden chanterelle (*C. cibarius*) in flavor intensity.
 
 The flesh is thin but firm, with a rich, peppery, and slightly fruity aroma.
 
@@ -97,7 +97,7 @@ The mushroom is a source of **ergosterol** (vitamin D2 precursor) and several es
 
 ## Cultivation
 
-No reliable commercial cultivation method exists for *Cantharellus tubaeformis*.
+No reliable commercial [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] exists for *Cantharellus tubaeformis*.
 
 As an obligate ectomycorrhizal species, it requires living tree roots and cannot be grown on sterile substrates in the manner of saprotrophic species.
 
@@ -107,7 +107,7 @@ Field establishment of mycorrhizal seedlings has had limited success, with fruit
 
 Foraging remains the primary method of harvest, and the species is managed as a non-timber forest product in Scandinavian forestry.
 
-Sustainable harvest guidelines recommend cutting rather than pulling to preserve the mycelial network.
+Sustainable harvest guidelines recommend cutting rather than pulling to preserve the [[gadd-mycelial-network-dynamics]].
 
 ## Ecological Role
 
@@ -115,9 +115,9 @@ As an ectomycorrhizal fungus, *C. tubaeformis* forms mutualistic associations wi
 
 It facilitates nutrient and water uptake for host trees in exchange for photosynthetic carbon.
 
-The species contributes to nutrient cycling in boreal forest ecosystems by mobilizing nitrogen and phosphorus from organic matter.
+The species contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in boreal forest ecosystems by mobilizing nitrogen and phosphorus from organic matter.
 
-Its late-season fruiting pattern fills an ecological niche when few other ectomycorrhizal fungi are producing sporocarps.
+Its late-season fruiting pattern fills an ecological niche when few other [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] are producing sporocarps.
 
 It serves as a food source for small mammals, slugs, and insect larvae in winter months.
 

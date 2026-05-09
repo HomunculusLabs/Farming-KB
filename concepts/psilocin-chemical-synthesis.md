@@ -1,9 +1,9 @@
 # Psilocin and Psilocybin Chemical Synthesis
 
 ## Overview
-The chemical synthesis of psilocin (4-hydroxy-N,N-dimethyltryptamine]]) and
+The chemical synthesis of psilocin (4-hydroxy-N,N-dimethyltryptamine) and
 psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine) — the principal
-hallucinogenic constituents of "magic mushrooms" — has been pursued by
+hallucinogenic constituents of "[[guzman-magic-mushrooms-african-species]]" — has been pursued by
 multiple research groups since Albert Hofmann's first isolation of these
 compounds from *Psilocybe* mushrooms in 1958. The concise large-scale
 synthesis developed by Shirota, Hakamata, and Goda (2003) at Japan's
@@ -32,19 +32,19 @@ psilocin and are generally less potent.
 Several synthetic routes to psilocin have been published since Hofmann's
 original work. Reports on [[4-hydroxyindole]] and
 proceeds through six steps to produce both psilocin and psilocybin.
-The key innovation is the isolation of a zwitterionic intermediate that
+The key innovation is the isolation of a [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] that
 enables purification by simple filtration rather than chromatography.
 
 ### Step 1: Protection — 4-Acetylindole
 4-Hydroxyindole is protected by acetylation with acetic anhydride in
 pyridine and dichloromethane at 0°C to room temperature. This yields
-4-acetylindole as ivory white crystals in high yield. Acetyl protection
+4-acetylindole as ivory white crystals in high yield. [[shirota-4-hydroxyindole-acetyl-protection-experimental]]
 was preferred over benzyl ether protection because the latter required
 a separate deprotection step, whereas the acetyl group is removed during
 the subsequent reduction.
 
 ### Step 2: Acylation — Glyoxalyl Intermediate
-4-Acetylindole is treated with oxalyl chloride in diethyl ether at 0°C,
+4-Acetylindole is treated with [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] in diethyl ether at 0°C,
 followed by addition of n-hexane and storage at -20°C. This produces the
 glyoxalyl chloride intermediate as yellow crystals, isolated by filtration.
 
@@ -83,7 +83,7 @@ removed by washing with dichloromethane. This eliminates the need for
 chromatographic purification.
 
 ### Step 6: Hydrogenolysis — Psilocybin
-The zwitterionic intermediate undergoes catalytic hydrogenolysis with
+The zwitterionic intermediate undergoes [[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]] with
 palladium on carbon in methanol at room temperature. This simultaneously
 removes both benzyl groups, yielding psilocybin as a white needle
 crystalline powder in 87.5% yield from the intermediate (72% overall
@@ -113,7 +113,7 @@ a rapid presumptive identification method.
 The Shirota group provided comprehensive spectroscopic data including
 1H NMR, 13C NMR, 31P NMR (for phosphorus-containing compounds), ESIMS,
 and HRESIMS for all intermediates and final products. The 31P NMR signal
-for psilocybin appears at δ -4.48 ppm (referenced to phosphoric acid).
+for psilocybin appears at δ -4.48 ppm (referenced to [[cho-water-soluble-phosphoric-acid-preparation]]).
 
 ## Regulatory Context
 

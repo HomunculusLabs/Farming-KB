@@ -1,99 +1,136 @@
 ---
-title: Pattern Application in Permaculture Design
+title: Pattern Application [[mollison-lawn-reform-and-alternatives-in-permaculture-design]]
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-05-09
 type: concept
-tags: [[permaculture, design, patterns, principles]
+tags: [permaculture, design, patterns, principles]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-
 # Pattern Application in Permaculture Design
 
-> Source: Bill Mollison, *Permaculture: A Designers' Manual* (1988), Chapter 4
-
-Updated: 2026-04-18
+Source: Bill Mollison, Permaculture: A Designers' Manual (1988), Chapter 4
+Updated: 2026-05-09
 
 ## The Role of Pattern in Design
 
-Appropriate patterning in the design process can assist the achievement of a sustainable yield from flows. It is in sophisticated pattern application that the future of design lies, and where many solutions to intractable problems will be found.
+Appropriate patterning in the design process can assist the achievement of a
+sustainable yield from flows. It is in sophisticated pattern application that
+the future of design lies, and where many solutions to intractable problems
+will be found. [[mollison-designers-pattern-understanding-in-design]] is a way of linking many phenomena so
+that the learning of even one significant pattern is very like learning an
+underlying principle, always applicable to specific data and situations.
 
-Pattern understanding is a way of linking many phenomena so that the learning of even one significant pattern is very like learning an underlying principle, always applicable to specific data and situations.
+Mollison draws extensively from natural patterns observed in landscapes,
+organisms, and physical processes. Branching patterns (trees, rivers,
+blood vessels), spiral patterns (shells, galaxies, plant growth), net
+patterns (spider webs, leaf venation, fungal mycelium), and scatter
+patterns (seed dispersal, star distribution) all appear repeatedly across
+scales in nature. Recognizing these patterns allows designers to apply
+efficient geometries to human systems.
 
 ## Keyhole Beds
 
-A keyhole bed (1.2 m across) has a 3.8 m perimeter but can be efficiently watered with one low-pressure sprinkler, whereas a 3.8 m straight row takes three such sprinklers.
+A keyhole bed (1.2 meters across) has a 3.8 meter perimeter but can be
+efficiently watered with one low-pressure sprinkler, whereas a 3.8 meter
+straight row takes three such sprinklers. Another advantage is the central
+one-drop mulch pit, so that the plants eventually overshade the centre to
+prevent evaporation. Parallel paths take up to 50 percent of the area;
+keyhole beds use less than 30 percent of the ground.
 
-Another advantage is the central (one-drop) mulch pit, so that the plants eventually overshade the centre to prevent evaporation. Parallel paths take up to 50% of the area; keyhole beds less than 30% of the ground.
-
-Such keyhole beds are made 1.8 m across for bananas, and 1.8-3 m across for coconuts; all out-produce row crop for about one-third of the water use.
+Such keyhole beds are made 1.8 meters across for bananas, and 1.8 to 3
+meters across for coconuts. All out-produce row crop for about one-third of
+the water use. The keyhole design maximizes the edge-to-area ratio, creating
+more growing space along the curving edge while minimizing the path space
+needed for access. This principle of maximizing productive edge is central
+to [[permaculture-pattern-literacy]] application.
 
 ## Circle-Mulch-Grow Pits
 
-Circle-mulch-grow pits use circular geometry for efficiency:
-- 1.8 m (6 feet) across for bananas
-- 1.8-3 m (6-10 feet) across for coconuts
-- All out-produce row crop for about one-third of the water use
-- A series or set of such gardens greatly reduces the path space and land area needed
+Circle-mulch-grow pits use circular geometry for efficiency. They are
+constructed 1.8 meters across for bananas and 1.8 to 3 meters across for
+coconuts. All out-produce row crop for about one-third of the water use. A
+series or set of such gardens greatly reduces the path space and land area
+needed for the same production.
+
+The circular form creates a microclimate at the center of the pit where
+moisture is retained and temperatures are moderated by the surrounding
+mulch and plant canopy. As plants grow, they shade the center mulch pit,
+reducing evaporation further and creating a self-maintaining moisture
+conservation system. This design is particularly effective in arid and
+semi-arid climates where water conservation is critical.
 
 ## Floodplain Embankments
 
-A field application of patterned ground designed to direct flow, and capture materials in flow, is that of flood-plain embankments or tree lines (poplar, willow, tamarack), or both combined. These are very effective pattern impositions on landscape that can have several beneficial effects for a household or settlement nearby.
+A field application of patterned ground designed to direct flow and capture
+materials in flow is that of floodplain embankments or tree lines (poplar,
+willow, tamarack), or both combined. These are very effective pattern
+impositions on landscape that can have several beneficial effects for a
+household or settlement nearby. Functions include directing flood flow to
+scour holes for sand extraction, and serving as collector-deflectors of
+trees to bring mulch, firewood, and silt to specific locations.
 
-Functions include:
-- Directing flood flow to scour holes for sand extraction
-- Collector-deflectors of trees to bring mulch, firewood, and silt to plain edge
-- Part-flood crop areas
+These embankments work by slowing water flow during flood events, causing
+sediment to drop out of suspension and accumulate behind the barriers.
+Over time, this builds fertile alluvial soils that can be planted with
+productive crops. The tree lines themselves provide harvestable products
+while performing their water management function. This multi-functional
+approach is characteristic of permaculture pattern design.
 
-## Flowform Turbulence Basins
+## Spiral and Mandala Patterns
 
-The "Flowform" models, developed at the Virbella Institute by a group of artist-technicians, are artificial replicates of the rock forms carved by turbulent streams, cast in concrete or fibreglass.
+Spiral patterns appear throughout permaculture design, from herb spirals in
+kitchen gardens to the layout of paths and waterways across broadacre
+properties. The herb spiral is a three-dimensional application of spiral
+geometry that creates multiple microclimates within a small footprint. The
+top of the spiral is drier and sunnier, suitable for Mediterranean herbs
+like rosemary and thyme, while the base is cooler and moister, suited to
+parsley, mint, and water-loving species.
 
-Stacked in sets below sewage pipe outfalls or above fish ponds at pipe inlets, they efficiently mix air and water by inducing turbulence in flow. Three distinct mixing effects are noticeable:
+[[gaias-garden-keyhole-beds-and-mandala-gardens]] extend the keyhole concept into larger circular arrangements
+where multiple keyhole beds share a common center and are separated by
+narrow wedge-shaped paths radiating outward like wheel spokes. This
+pattern maximizes growing area while minimizing path space and creates a
+visually harmonious garden layout. Mandala patterns can be scaled from
+small household gardens to community-scale food forests.
 
-1. **Plunge or vertical overturn**: fluid drops from one basin to another
-2. **Figure-8 or lateral flow**: around the basins themselves
-3. **Interaction rhythm**: water coursing around basins deflects the vertical drop flow and switches it from side to side in a regular rhythm
+The branching pattern is applied in swale design, where tree-planting
+ditches follow the contour of slopes and connect to form dendritic (tree-
+like) drainage networks. Water flowing into the main swale branch
+overflows into secondary branches, distributing infiltration across the
+entire slope. This pattern mimics natural watershed drainage and is far
+more effective than parallel ditches at capturing and infiltrating runoff.
 
-### Practical Uses
-- Primary treatment of sewage and organically polluted waters
-- Oxygenation of ponds for aquatic species production
-- Aesthetically pleasing and instructive hydrological pattern-models
+## Edge Effect and Pattern Efficiency
 
-Basins can be:
-- Elongate, truncate, symmetrical, or asymmetrical
-- Stepped in line, stacked like ladders, or spiralled to conserve space
+The edge effect is a fundamental concept in permaculture pattern
+application. The boundary between two ecosystems (such as forest and
+meadow, or water and land) is typically more productive and diverse than
+either system alone. This is because species from both systems can access
+resources at the interface, and the transition zone creates unique
+microclimates and niches.
 
-## Soil Conditioning Patterns
+Mollison emphasizes that good design maximizes beneficial edge. Pond edges,
+forest edges, hedge lines, and garden borders all represent productive
+interfaces where diversity and yield are enhanced. The zigzag or crenulated
+edge pattern is more productive than a straight edge of the same length
+because it creates more interface area per unit of boundary. This principle
+applies at every scale from garden beds to [[holzer-high-beds-property-boundaries]] to regional
+planning.
 
-### Keyline Chisel Plough
-The pattern for chisel ploughing is to drive slightly downhill, making herring-bones of the land: the spines are the valleys and the ribs slope out and down-slope. The soil channels, many hundreds of them, thus become the easiest way for water to move, and it moves out from the valleys and below the surface of the soil.
-
-### Swale Patterns
-Swales follow contour lines to intercept water flow and direct it into the soil profile, creating sigmoid (S) curves in the landscape.
-
-## Windbreak Patterns
-
-On sites with predictable wind patterns, directional, patterned windbreak of earthbank and trees can be planned. On sites where severe winds may come from any direction (some deserts), the strategy is to impose a close rectangular or network pattern on windbreak.
-
-Windbreaks spread at no more than 20 times the hedgerow height in severe wind. Windbreak height ideally one-fifth of the space between windbreaks, but still effective at one-thirtieth.
-
-## Edge and Mosaic Patterns
-
-Mosaic design (the opposite of monoculture) means the creation of many small areas of differences. Zone or edge cropping produces a matrix of hedgerows or edge-rows, each suited in width to a particular crop.
-
-A Golden Rule of Design: **Keep it small, and keep it varied.**
-
-## Tribal Pattern Knowledge
-
-Traditional peoples use an enormous variety of patterns that decorate weapons, houses, skin, and woven textiles. Many patterns have sophisticated meaning, and almost all have songs or chants associated with them.
-
-The Maori of New Zealand use tattoo and carved patterns to record and recall genealogical and saga information. Polynesians used pattern maps (made of sticks, flexed strips, cowries, and song cycles) that sufficed to find 200-2,000 island specks in the Pacific.
-
-Pitjantjatjara people of Australia sing over sand patterns and are able to "sing" strangers to a single stone in an apparently featureless desert. Their designs accurately reflect the lobular shapes and elaborate micro-elevations of the desert.
+Pattern efficiency in permaculture is measured not just by productivity per
+unit area but by total system yield including energy savings, reduced
+maintenance, and ecological services. A well-patterned design requires less
+external input, produces less waste, and generates more useful outputs than
+a conventional rectilinear layout. The key insight is that nature's
+patterns have been optimized over millions of years of evolution, and
+designing with rather than against these patterns yields superior results.
 
 ## Related Topics
 
-- [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] - Guild design
-- [[permaculture-designers-manual-keyhole-garden]] - Keyhole garden design
-- [[mandala-garden-design]] - Mandala garden patterns
+- [[permaculture-designers-manual-animal-forage-systems]] pattern application
+- [[comparison-keyhole-garden-vs-raised-bed]]
+- [[mandala-garden-design]]
 - [[chisel-plough-soil-conditioning-mollison]]
+
+## See Also
+- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]

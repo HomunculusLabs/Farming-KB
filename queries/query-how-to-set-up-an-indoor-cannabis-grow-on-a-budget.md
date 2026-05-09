@@ -1,10 +1,11 @@
 ---
-title: "How to Set Up an Indoor Cannabis Grow on a Budget"
+title: "How to Set Up an query how to set up an indoor cannabis grow on a budget Grow on a Budget"
 created: 2026-04-28
 tags: [query, cannabis, indoor-growing, budget, grow-room]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---
@@ -28,11 +29,11 @@ Budget breakdown for a complete beginner setup: grow tent ($80 to $120), LED gro
 
 The single most important investment is your grow light, as it drives photosynthesis and directly determines yield potential. The [[led-grow-lights]] resource covers what to look for: a full spectrum with strong output in the blue (400 to 500 nm) and red (620 to 700 nm) wavelengths, adequate wattage for your coverage area, and a reliable driver with thermal management.
 
-Avoid the cheapest panels with exaggerated wattage claims. Consider the [[cannabis-indoor-ventilation-setup]] guide covers sizing calculations, and the [[cervantes-air-quality-ventilation]] guide emphasizes that stagnant air is one of the most common causes of pest and disease problems in indoor grows. Position the oscillating fan to gently move all canopy leaves without causing excessive wind stress.
+Avoid the cheapest panels with exaggerated wattage claims. Consider the [[cannabis-indoor-ventilation-setup]] guide covers sizing calculations, and the [[cervantes-air-quality-ventilation]] guide emphasizes that stagnant air is one of the most common causes of [[hamilton-pest-and-disease-control-organic]] problems in indoor grows. Position the oscillating fan to gently move all canopy leaves without causing excessive wind stress.
 
 ### Grow Space and Growing Medium
 
-Your growing environment needs to be enclosed for light control and environmental management. A grow tent is the most practical solution for beginners because it comes with reflective mylar interior, ventilation ports, light-proof zippers, and a waterproof floor tray in one package.
+Your [[cannabis-growing-environment-setup]] needs to be enclosed for light control and environmental management. A grow tent is the most practical solution for beginners because it comes with reflective mylar interior, ventilation ports, light-proof zippers, and a waterproof floor tray in one package.
 
 The [[query-what-is-the-best-cannabis-grow-medium-for-beginners]] covers the pros and cons of soil, coco coir, and hydroponics for beginners. Living soil produces excellent flavor and requires only periodic top-dress amendments and compost tea, making it cheaper over multiple grows than synthetic nutrient systems that require pH management and weekly liquid feedings.
 
@@ -42,9 +43,9 @@ Fabric pots promote air pruning of roots, prevent root binding, and improve drai
 
 Odor control is a practical concern for indoor growers, especially those in apartments or with nearby neighbors. Cannabis produces strong aromas during flowering that can travel through walls and ventilation systems.
 
-The [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] covers target ranges: 70 to 85 degrees Fahrenheit during lights-on for vegetative growth, slightly cooler (65 to 80 degrees) during flowering, and humidity targets of 60 to 70 percent in vegetative phase dropping to 40 to 50 percent in flowering to prevent bud rot.
+The [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] covers target ranges: 70 to 85 degrees Fahrenheit during lights-on for [[cannabis-vegetative-growth-stage]], slightly cooler (65 to 80 degrees) during flowering, and humidity targets of 60 to 70 percent in vegetative phase dropping to 40 to 50 percent in flowering to prevent bud rot.
 
-VPD (vapor pressure deficit) is a more advanced metric that combines temperature and humidity into a single number, but beginners should focus on keeping temperature and humidity within the basic ranges before worrying about VPD calculations.
+VPD ([[cervantes-vapor-pressure-deficit-transpiration]] deficit) is a more advanced metric that combines [[greg-green-temperature-and-humidity-control]] into a single number, but beginners should focus on keeping temperature and humidity within the basic ranges before worrying about VPD calculations.
 
 ## Key Points
 - Invest most of your budget in a quality [[cannabis-indoor-ventilation-setup]] with carbon filter
@@ -78,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

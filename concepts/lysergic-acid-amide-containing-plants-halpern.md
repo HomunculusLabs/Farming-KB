@@ -46,13 +46,13 @@ of their psychoactive potential among suppliers.
 
 Ipomoea violacea and related Ipomoea species contain LSA
 at approximately 0.02% by dry weight in seeds.
-Morning glories are extremely popular annual garden plants
+[[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] are extremely popular annual garden plants
 grown for their abundant flowers from climbing vines.
 The much lower concentration means that 150-200 seeds (3-6 g)
 are required for an average dose.
 
 Historically, Ipomoea violacea and related Ipomoea corymbosa seeds
-were used in Central America for shamanic and ceremonial purposes.
+were used in [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] for shamanic and ceremonial purposes.
 The Mazatec people of Mexico continue traditional usage of these seeds.
 The Ololiuqui ceremony, one of the oldest known psychedelic rituals,
 centers on the use of these morning glory seeds.
@@ -108,24 +108,24 @@ The primary risks of LSA-containing seeds include:
 - Uterine-contracting properties (pregnant women should avoid)
 - Possible interactions with serotonergic medications
 
-Ergot alkaloid poisoning is a theoretical concern,
-as some LSA-containing plants may harbor fungal endophytes
+[[kykeon-composition-and-ergot-alkaloid-hypothesis]] poisoning is a theoretical concern,
+as some LSA-containing plants may harbor [[fungi-in-the-environment-fungal-endophytes-plant-communities]]
 that produce additional ergot compounds.
 However, documented cases of ergotism from seed consumption are rare.
 
 ## Legal Status
 
 LSA itself is a Schedule III controlled substance in the United States
-under the Controlled Substances Act.
+under the Controlled [[controlled-substances-act-and-psychedelic-research]].
 However, the plants and seeds containing LSA are not specifically scheduled,
-and morning glory seeds are widely sold in garden centers and online.
+and morning glory seeds are widely sold in [[solomon-garden-centers-seedling-traps]] and online.
 The seeds are sometimes treated with chemicals
 to discourage consumption, but this is a vendor practice, not a legal requirement.
 
 ## See Also
 
 - [[datura-as-hallucinogen]]
-- [[peyote]]
+- peyote
 
 ## Sources
 
@@ -137,3 +137,5 @@ to discourage consumption, but this is a vendor practice, not a legal requiremen
 ## See Also
 
 - [[lysergic-acid-diethylamide]]
+- [[lysergic-acid-amide]]
+- [[lysergic-acid]]

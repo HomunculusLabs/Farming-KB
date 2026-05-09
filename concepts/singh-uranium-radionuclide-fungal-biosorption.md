@@ -57,7 +57,7 @@ Rhizopus arrhizus sequesters more than 99% of total americium-241 from
 solutions of 5.6 to 111 MBq/l (44-877 microg/l) with adsorption
 capacities of 4 to 79 MBq/g biomass (dry weight), equivalent to 33 to
 627 microg/g. This exceptional capacity for americium removal suggests
-that fungal biosorption could play a significant role in the treatment
+that [[dighton-fungal-biosorption-heavy-metal-remediation]] could play a significant role in the treatment
 of nuclear waste streams containing transuranic elements. Little is
 known about the removal of radium, thorium, strontium, and neodymium
 by filamentous fungi, representing an important area for future
@@ -70,9 +70,9 @@ Cesium-137 is a major radionuclide of concern due to its long half-life
 higher flux of Cs-137 through rhizomorphs of Armillaria gallica than
 through undifferentiated hyphae. Accumulation of Cs-137 occurs at the
 sites of initiation of basidiocarp primordia in Schizophyllum commune
-when blue light induces fructification. High concentrations of Cs-137
+when [[chamovitz-julius-von-sachs-blue-light-phototropism]] induces fructification. High concentrations of Cs-137
 and lower concentrations of Pb-210 and Ra-226 have been detected in
-wild mushrooms. Autoradiography and image analysis reveal the
+[[edible-wild-mushrooms-by-region]]. Autoradiography and image analysis reveal the
 translocation of radiocesium by bulk flow in actively expanding mycelia
 of S. commune in microcosms and by diffusion in established mycelia.
 
@@ -85,7 +85,7 @@ surface layers in Japanese forests 50 years after global fallout. About
 of a coniferous forest. A major fraction of Cs-137 in a Swedish forest
 seems to be associated with the fungal component. Horizontal transport
 of radiocesium is known in Scandinavian forests in the form of local
-enrichment by fungal clusters. Mycorrhizal fungi play a critical role in
+enrichment by fungal clusters. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] play a critical role in
 the long-term retention of radiocesium in organic horizons of forest
 soil. Quantitative prediction of radiocesium concentrations in different
 soil horizons can be conducted using compartment models.
@@ -120,7 +120,7 @@ using engineered fungal strains.
 ## Transfer Factors and Modeling
 
 Transfer factors are employed to quantify radionuclide transfer from soil
-to fungal fruiting bodies. Transfer factors for radiocesium and stable
+to [[brassinosteroid-fungal-fruiting-body-morphology]] bodies. Transfer factors for radiocesium and stable
 cesium have been calculated for three fungal species and Vaccinium
 myrtillus in seminatural coniferous forests. The relationship between
 radiocesium and stable cesium in mushrooms from forest ecosystems with
@@ -128,10 +128,10 @@ different contamination levels has been summarized. A three-phase model
 to quantify radiocesium migration in coniferous forest soils has been
 proposed. These transfer factors and models provide essential tools for
 predicting radionuclide behavior in fungal-impacted ecosystems and for
-designing effective bioremediation strategies.
+designing effective [[comparison-bioremediation-strategies-vs-biostimulation-techniques]].
 
 ## See Also
 
 - [[radioactive-contamination-and-fungi]]
-- [[mycoremediation-heavy-metals-detailed]]
+- [[mycoremediation-of-heavy-metals]]
 - [[singh-mycorrhizal-fungi-rhizosphere-remediation]]

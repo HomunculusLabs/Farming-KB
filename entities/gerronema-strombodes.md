@@ -23,7 +23,7 @@ created: 2026-05-07
 
 **Gerronema strombodes** is a tropical agaric mushroom in the family
 Omphalotaceae, widely distributed across lowland neotropical forests from
-southern Mexico through Central America into northern South America.
+southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] into northern South America.
 
 It is recognized by its broadly umbilicate cap, pale cream-to-ochre coloration,
 distantly spaced gills, and preference for decomposing hardwood on the forest
@@ -78,7 +78,7 @@ in Central America, with peak abundance during the wettest months.
 ## Ecology
 
 G. strombodes is a primary white-rot decomposer of hardwood. It contributes
-to nutrient cycling in tropical forest ecosystems by breaking down lignin and
+to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] ecosystems by breaking down lignin and
 cellulose in fallen wood.
 
 The species is relatively tolerant of fragmented forest habitats and has been
@@ -105,9 +105,9 @@ G. strombodes has not been commercially cultivated. Limited laboratory
 studies indicate it will fruit on sterilized hardwood sawdust supplemented
 with wheat bran at temperatures of 25–28 °C and high humidity (>90%).
 
-Colonization speed is moderate (14–18 days on supplemented sawdust), but
-biological efficiency remains low compared to commercially established species
-like Pleurotus ostreatus or Lentinula edodes.
+Colonization speed is moderate (14–18 days on [[oyster-mushroom-supplemented-sawdust-blocks]]), but
+[[stamets-biological-efficiency-yield]] remains low compared to commercially established species
+like Pleurotus ostreatus or [[staycare-lentinula-edodes-in-bioremediation]].
 
 ## See Also
 

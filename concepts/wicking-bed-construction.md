@@ -1,5 +1,5 @@
 ---
-title: Wicking Bed Construction
+title: Wicking hugelkultur-bed-construction-detailed
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -28,7 +28,7 @@ The key insight is that water moves upward through soil by capillary action (the
 
 The outer container must be waterproof to hold the reservoir:
 
-- **Raised timber beds lined with pond liner:** Most common DIY approach. Build a box from treated or naturally rot-resistant timber (cedar, redwood, black locust), then line with EPDM pond liner (45 mil minimum).
+- **Raised timber beds lined with pond liner:** Most common DIY approach. Build a box from treated or naturally rot-resistant timber (cedar, redwood, [[comparison-black-locust-vs-honey-locust]]), then line with EPDM pond liner (45 mil minimum).
 - **IBC totes (intermediate bulk containers):** Cut the top off a food-grade IBC tote. The plastic is already waterproof. Very cost-effective.
 - **Old bathtubs, stock tanks, or troughs:** Pre-made waterproof containers. Ensure they're clean and free of chemicals.
 - **Concrete blocks or masonry:** Build a masonry box and seal with waterproofing compound or liner.
@@ -58,7 +58,7 @@ The growing medium sits on top of the wicking medium:
 
 - **Depth:** Minimum 8-10 inches above the wicking medium. 12 inches is ideal for most vegetables.
 - **Soil mix:** Use a well-draining, nutrient-rich mix. A blend of garden soil, compost, and aeration material (perlite, pumice, coarse sand) works well.
-- **Do not use pure potting mix:** It's too light and wicks poorly. Include some mineral soil for better capillary action.
+- **Do not use pure [[solomon-potting-mix-and-seedling-soil-recipe]]:** It's too light and wicks poorly. Include some mineral soil for better capillary action.
 - **Do not use garden soil straight:** It can become compacted and inhibit wicking. Mix with compost and aeration material.
 
 ## Sizing
@@ -131,37 +131,17 @@ The growing medium sits on top of the wicking medium:
 
 - **Vegetables:** Tomatoes, peppers, eggplant, lettuce, kale, chard, beans, peas, cucumbers, zucchini, carrots, beets, radishes
 - **Herbs:** Basil, parsley, cilantro, thyme, oregano
-- **Avoid:** Potatoes (too much moisture causes rot), Mediterranean herbs that prefer dry conditions (rosemary, lavender, sage) — these do better in the upper zones or in separate beds
+- **Avoid:** Potatoes (too much moisture causes rot), [[query-best-mediterranean-herbs-for-beginner-herb-garden]] that prefer dry conditions (rosemary, lavender, sage) — these do better in the upper zones or in separate beds
 
 ### Planting Pattern
 
 - Space plants as you would in a conventional raised bed
 - Tall plants on the north side (to avoid shading), short plants on the south
-- Consider companion planting for pest management and efficient space use
+- Consider [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] for [[cannabis-pest-management-guide]] and efficient space use
 
 ## Maintenance
 
 - **Check water level weekly:** Lift the fill pipe cap and look inside, or insert a dipstick
-- **Top-dress with compost:** Apply 1-2 inches of compost each season
-- **Replace soil:** Every 2-3 years, replace the top few inches of soil with fresh compost-soil mix
-- **Clean reservoir:** Every 1-2 years, drain and flush the reservoir to remove sediment buildup
-- **Winter:** In freezing climates, drain the reservoir before hard freezes to prevent ice damage
-
-## Water Efficiency
-
-- **50-80% less water** than conventional garden beds
-- **Evaporation reduction:** Only the soil surface loses water to evaporation; the reservoir is sealed
-- **Consistent moisture:** Plants experience less stress from alternating wet-dry cycles
-- **Deep root growth:** Because water is available below, roots grow deeper, accessing more nutrients
-
-## Common Problems
-
-- **Waterlogging:** Soil stays too wet — reduce reservoir depth, improve soil drainage, or add more aeration material to the soil mix
-- **Dry top layer:** Soil surface is dry while lower soil is wet — this is normal! Roots access moisture below. Mulch the surface to reduce evaporation.
-- **Mosquitoes:** Cover the fill pipe and overflow with fine mesh screen
-- **Nutrient depletion:** Wicking beds need regular compost top-dressing since nutrients can accumulate in the reservoir over time
-- **Roots clogging overflow:** Trim roots that grow into the overflow pipe during maintenance
-
 ## Related Concepts
 
 - [[keyhole-garden-design]] for another self-contained, water-efficient garden bed design

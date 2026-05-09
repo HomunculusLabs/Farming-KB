@@ -1,5 +1,5 @@
 ---
-title: "Jasmonate vs Salicylic Acid Defense Signaling Pathways"
+title: "Jasmonate vs comparison jasmonate vs salicylic acid defense signaling Defense Signaling Pathways"
 tags:
   - plant-defense
   - phytohormones
@@ -26,7 +26,7 @@ sources:
     journal: "Phytochemistry"
     year: 2019
     url: "https://doi.org/10.1016/j.phytochem.2018.01.025"
-  - title: "Systemic Acquired Resistance and Induced Systemic Resistance in Plant Defense"
+  - title: "Systemic Acquired Resistance and [[endophytic-mycorrhizal-induced-systemic-resistance]] Resistance in Plant Defense"
     author: "Fu, Z.Q. & Dong, X."
     journal: "Annual Review of Plant Biology"
     year: 2013
@@ -41,7 +41,7 @@ type: comparison
 
 # Jasmonate vs Salicylic Acid Defense Signaling Pathways
 
-Plants rely on a sophisticated immune system that hinges on phytohormone signaling networks. Two of the most important defense hormones — **jasmonic acid (JA)** and **salicylic acid (SA)** — orchestrate largely distinct but overlapping defense programs tailored to different categories of attackers. Understanding these pathways is central to plant defense chemistry and informs practical strategies in [[hamilton-beneficial-insects-and-biological-pest-control|biological pest control]]. The pathway also promotes secondary metabolite accumulation, including alkaloids, glucosinolates, and terpenoids.
+Plants rely on a sophisticated immune system that hinges on phytohormone signaling networks. Two of the most important defense hormones — **jasmonic acid (JA)** and **salicylic acid (SA)** — orchestrate largely distinct but overlapping defense programs tailored to different categories of attackers. Understanding these pathways is central to plant [[plant-defense-mechanisms]] and informs practical strategies in [[hamilton-beneficial-insects-and-biological-pest-control|biological pest control]]. The pathway also promotes [[fungal-elicitors-enhanced-secondary-metabolite-production]] accumulation, including alkaloids, glucosinolates, and terpenoids.
 
 ### Induced Systemic Resistance (ISR)
 
@@ -97,7 +97,7 @@ However, the relationship is not purely antagonistic. Against **hemibiotrophic p
 | **Receptor complex** | COI1-JAZ co-receptor | NPR1 (regulatory hub) |
 | **Key transcription factors** | MYC2, MYC3, ERF1 | TGA factors, WRKY45, NPR1 |
 | **Systemic signaling** | ISR (microbe-triggered) | SAR (pathogen-triggered) |
-| **Key defense outputs** | Proteinase inhibitors, VOCs, defensive metabolites | PR proteins, hypersensitive response, callose deposition |
+| **Key defense outputs** | Proteinase inhibitors, VOCs, defensive metabolites | PR proteins, [[bloomfield-plant-hypersensitive-response-rust-arms-race]], callose deposition |
 | **Pathogen countermeasures** | Coronatine mimics JA-Ile | NahG degrades SA; effector suppression of NPR1 |
 | **Role in endophyte/microbe priming** | Central (ISR pathway) | Limited; some rhizobacteria also modulate SA |
 
@@ -114,8 +114,8 @@ Diluted **acetylsalicylic acid (aspirin)** or pure SA solutions have been widely
 ### Integrated Approaches
 
 The antagonism between JA and SA has important implications for [[query-what-is-the-wood-wide-web-and-how-do-mycorrhizal-networks-work|mycorrhizal fungi]] provides sustained JA-dependent defense without chemical inputs.
-- **Endophyte applications**: [[serendipita-indica]]* can modulate both JA and SA signaling, offering balanced priming against diverse threats.
+- **Endophyte applications**: serendipita-indica* can modulate both JA and SA signaling, offering balanced priming against diverse threats.
 
 ### Limitations and Considerations
 
-Phytohormone priming is not a silver bullet. Induced defenses carry **fitness costs** — reduced growth, delayed flowering, and lower seed set have been documented in repeatedly primed plants. In organic and permaculture contexts, hormonal sprays should complement (not replace) cultural practices like crop rotation, polyculture, and soil health management. The timing, dosage, and crop-specific responses require local trialing.
+Phytohormone priming is not a silver bullet. Induced defenses carry **fitness costs** — reduced growth, delayed flowering, and lower seed set have been documented in repeatedly primed plants. In organic and permaculture contexts, hormonal sprays should complement (not replace) cultural practices like [[comparison-crop-rotation-vs-cover-cropping]], polyculture, and soil health management. The timing, dosage, and crop-specific responses require local trialing.

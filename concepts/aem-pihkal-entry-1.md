@@ -1,5 +1,5 @@
 ---
-title: AEM (alpha-Ethylmescaline) - PIHKAL Entry #1
+title: AEM (alpha-Ethylmescaline) - 2c-b-pihkal-entry-20 #1
 created: 2026-04-28
 tags: [pihkal, phenethylamine, mescaline-analogue, inactive-compound, alpha-homologue]
 date: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 
 # AEM (alpha-Ethylmescaline)
 
-**PIHKAL Entry #1**
+**[[2c-b-pihkal-entry-20]] #1**
 
 ## Chemical Identity
 
@@ -85,7 +85,7 @@ mp 176-181 °C from water), then liberated as the hydrochloride
 
 The nitroalkanes were prepared straightforwardly by reaction of
 alkyl halides with nitrous acid, separating the unwanted nitrite
-ester from the desired nitroalkane by fractional distillation.
+ester from the desired nitroalkane by [[cannabis-fractional-distillation-cannabinoids]].
 Nitrostyrenes formed reasonably (often in poor yields) and
 reduced to amines that formed crystalline picrates and
 hydrochloride salts. The project was dropped once AEM proved

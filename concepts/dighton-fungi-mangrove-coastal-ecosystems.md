@@ -33,10 +33,10 @@ nutrient export to near-shore marine environments.
 
 Mangrove swamps occur in sheltered coastal areas away from direct wave
 action. The litter from these ecosystems is more diverse than that of
-salt marsh systems, and high rates of primary production produce
+salt marsh systems, and high rates of [[lichens-primary-production-soil-formation-dighton]] produce
 copious detritus supporting large populations and diversity of
 detritivore fungi, bacteria, and fauna (Kohlmeyer and Kohlmeyer,
-1979). The mangrove fungal community is almost exclusively saprotrophic,
+1979). The mangrove [[air-pollution-fungal-community-responses]] is almost exclusively saprotrophic,
 consisting of some 23 species of ascomycete, 17 mitosporic species, and
 two basidiomycetes.
 
@@ -70,7 +70,7 @@ gram in live or senescent leaves to 19 micrograms per gram at the
 red-brown stage (30% mass loss) and 85 micrograms per gram at the
 black, submerged stage (40 to 60% mass loss). This sequential increase
 reflects the progressive colonization by different fungal groups as
-the leaf resource quality changes.
+the leaf [[fungal-decomposition-resource-quality-determinants]] changes.
 
 ## Salt Marsh Fungal Communities
 
@@ -100,12 +100,12 @@ important contribution to marine nutrient loading (Lee, 1995). The
 decomposition of plant litter in coastal communities and consequent
 nutrient mineralization supplies nutrients to the ocean. Outwellings
 from mangrove swamps can transfer between 60 and 260 tonnes per year
-of carbon, exported mainly as dissolved organic carbon (DOC). This
+of carbon, exported mainly as [[dighton-fungal-dissolved-organic-carbon-production]] carbon (DOC). This
 process represents a significant component of nutrient additions to
 near-shore waters in which fungi play a major role.
 
-Hyde and Lee (1995) note that the end product of fungal decomposition
-in mangrove systems is likely dissolved organic matter rather than
+Hyde and Lee (1995) note that the end product of [[dighton-fungal-decomposition-leaf-litter-dynamics]]
+in mangrove systems is likely dissolved [[hamilton-composting-and-organic-matter-management]] rather than
 particulate organic matter, and there is still limited understanding
 of the origins and movement of dissolved organic matter in marine
 estuarine ecosystems. Rates of chemical transformations are dependent
@@ -136,6 +136,8 @@ environments remains an area of active research with important
 implications for coastal management and conservation.
 
 ## See Also
+
+- [[dighton-fungi-boreal-tundra-ecosystems]]
 
 - [[dighton-fungal-decomposition-nutrient-cycling]]
 - [[dighton-fungal-biomass-production-aquatic-ecosystems]]

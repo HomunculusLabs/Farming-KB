@@ -5,12 +5,12 @@ type: species
 tags: [psilocybin-mushroom, agaricales, hymenogastraceae, australia, dung-inhabiting]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+sources: sources: []
 ---
 
 # Psilocybe subfimetaria
 
-**Psilocybe subfimetaria** is a psilocybin-containing mushroom species originally described from Australia. As the specific epithet suggests, it is closely related to and morphologically similar to *Psilocybe fimetaria*, a species first described from Europe. The species is part of a group of coprophilous and coprophilous-associated *Psilocybe* mushrooms found in temperate and subtropical regions of the Southern Hemisphere.
+**Psilocybe subfimetaria** is a psilocybin-containing mushroom species originally described from Australia. As the specific epithet suggests, it is closely related to and morphologically similar to *Psilocybe fimetaria*, a species first described from Europe. The species is part of a group of coprophilous and coprophilous-associated *Psilocybe* mushrooms found in temperate and subtropical regions of the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]].
 
 ## Taxonomy
 
@@ -40,21 +40,21 @@ The species is coprophilous, growing on the dung of herbivorous animals, particu
 
 ## Ecological Role
 
-As a coprophilous fungus, *P. subfimetaria* plays a role in nutrient cycling by decomposing herbivore dung. The spores are adapted to survive passage through the digestive tracts of grazing animals, facilitating dispersal to new substrate. This ecological strategy is shared with many other *Psilocybe* species and is a key factor in the distribution patterns of coprophilous psilocybin mushrooms worldwide.
+As a coprophilous fungus, *P. subfimetaria* plays a role in nutrient cycling by decomposing herbivore dung. The spores are adapted to survive passage through the digestive tracts of grazing animals, facilitating dispersal to new substrate. This ecological strategy is shared with many other *Psilocybe* species and is a key factor in the [[guzman-global-distribution-patterns-neurotropic-fungi]] of coprophilous [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] worldwide.
 
 ## Similar Species
 
 - **Psilocybe fimetaria**: The European counterpart, very similar in macroscopic features. Distinguished primarily by geographic range and subtle microscopic differences.
 - **Psilocybe cubensis**: Much larger, more robust species found in similar pasture habitats. Far more potent and easily identified by its larger size and persistent annulus.
-- **Panaeolus subbalteatus**: Found in similar habitats but belongs to a different genus with black spores and mottled gills.
+- **[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]**: Found in similar habitats but belongs to a different genus with black spores and mottled gills.
 - **Psilocybe coprophila**: A small coprophilous species with less pronounced blue bruising.
 
 ## Microscopic Features
 
-Microscopic examination is essential for distinguishing *P. subfimetaria* from closely related taxa. Basidia are four-spored, clavate, measuring 16–22 × 4–5.5 µm. Cheilocystidia are ventricose to lageniform, 14–24 × 4–7 µm, forming a conspicuous sterile band on the gill edges. Pleurocystidia are absent or rare. The pileipellis is a cutis of narrow (2–3 µm), hyaline to pale brown, gelatinized hyphae. Clamp connections are absent at the basidial bases. The spore morphology — particularly the combination of large, broadly ellipsoidal spores with a distinct germ pore — is the most reliable microscopic character for separating *P. subfimetaria* from *P. fimetaria* sensu stricto.
+[[fungal-microscopic-examination-mounting-media-techniques]] is essential for distinguishing *P. subfimetaria* from closely related taxa. Basidia are four-spored, clavate, measuring 16–22 × 4–5.5 µm. Cheilocystidia are ventricose to lageniform, 14–24 × 4–7 µm, forming a conspicuous sterile band on the gill edges. Pleurocystidia are absent or rare. The pileipellis is a cutis of narrow (2–3 µm), hyaline to pale brown, gelatinized hyphae. Clamp connections are absent at the basidial bases. The spore morphology — particularly the combination of large, broadly ellipsoidal spores with a distinct germ pore — is the most reliable microscopic character for separating *P. subfimetaria* from *P. fimetaria* sensu stricto.
 ## Chemical Profile
 
-Chemical analysis of *Psilocybe subfimetaria* has confirmed the presence of [[psilocin]] as the primary psychoactive alkaloids. While published quantitative data are limited due to the rarity of collections, the alkaloid content is estimated to fall in the low-to-moderate range, comparable to other coprophilous Psilocybe species. [[psilocybin-biosynthesis-pathway]] shared across the genus, involving the enzymes PsiD, PsiK, PsiM, and PsiH.
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of *Psilocybe subfimetaria* has confirmed the presence of [[psilocin]] as the primary psychoactive alkaloids. While published quantitative data are limited due to the rarity of collections, the alkaloid content is estimated to fall in the low-to-moderate range, comparable to other coprophilous Psilocybe species. [[psilocybin-biosynthesis-pathway]] shared across the genus, involving the enzymes PsiD, PsiK, PsiM, and PsiH.
 ## Molecular Phylogeny
 
 The phylogenetic placement of *P. subfimetaria* has not been extensively studied using modern molecular methods. It is presumed to belong to the same broad clade as *P. fimetaria* and other coprophilous Psilocybe species. Molecular phylogenetic analyses of the genus have revealed that many traditionally defined species complexes contain multiple cryptic taxa, and the *P. fimetaria* complex is likely no exception. DNA barcoding of additional Australasian collections would help resolve whether *P. subfimetaria* represents a genuinely distinct lineage or falls within the morphological variation of *P. fimetaria* sensu lato. The geographic disjunction between Australian and European populations is suggestive of allopatric speciation, but molecular confirmation is needed.

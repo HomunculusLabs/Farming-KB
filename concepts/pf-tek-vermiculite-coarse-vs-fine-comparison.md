@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-Vermiculite is described by Psilocybe Fanaticus as the "magic
+Vermiculite is described by [[pf-tek-psilocybe-fanaticus-cultivation-method]] as the "magic
 ingredient" of the PF Tek. However, not all vermiculite is the same.
 The coarseness varies considerably between brands, and this variation
 directly affects water holding capacity, substrate consistency, and
@@ -55,7 +55,7 @@ capacity:
 - Absorbs and retains more water per unit volume
 - Creates a substrate with optimal moisture content using standard
   PF Tek water amounts
-- Better for the basic formula and maximum fruiting formula
+- Better for the basic formula and [[pf-tek-maximum-fruiting-substrate-formula]] formula
 
 ### Coarse Vermiculite
 - Lower surface area to volume ratio
@@ -68,7 +68,7 @@ capacity:
 
 If using coarse vermiculite, Fanaticus advised:
 
-- **Reduce the water amount** in the substrate formula
+- **Reduce the water amount** in the [[pf-tek-measurement-calibration-and-substrate-formula-precision]]
 - If the mixture is "really wet or sloppy," use less water
 - Keep notes on formula variations for replicating the substrate
   that fruits best
@@ -94,14 +94,14 @@ results for different people.
 Fanaticus explicitly recommended the finer type over the coarser
 type for several reasons:
 
-1. **More water retention**: Critical for mycelial growth, which
+1. **More water retention**: Critical for [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]], which
    requires consistent moisture throughout the colonisation period
 2. **Better substrate consistency**: Fine vermiculite creates a
    more uniform substrate mixture with brown rice powder
 3. **Standard formula compatibility**: The published PF Tek water
    amounts are calibrated for fine vermiculite
 4. **Dry barrier effectiveness**: The fine grade works better as
-   the dry vermiculite contaminant barrier at the top of the jar
+   the [[pf-tek-dry-vermiculite-contaminant-barrier]] contaminant barrier at the top of the jar
 
 ## The Role of Vermiculite in the PF Tek
 
@@ -127,7 +127,7 @@ substrate that mimics natural growing conditions.
 ## Vermiculite as the "Secret" of the PF Tek
 
 Fanaticus stated that "the secret is in the vermiculite." The PF
-Tek's success in enabling easy home cultivation with common kitchen
+Tek's success in enabling easy [[mushroom-home-cultivation-history]] with common kitchen
 equipment depends fundamentally on vermiculite's unique properties
 of water retention, aeration, and structural support. Without
 vermiculite, the brown rice method produces a dense, poorly

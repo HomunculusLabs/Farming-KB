@@ -1,15 +1,15 @@
 ---
-title: Cannabis Strain Selection Guide
+title: Cannabis cannabis strain selection guide Guide
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis Strain Selection Guide
 
-Selecting the right cannabis strain is one of the most important decisions for medical cannabis patients, as different strains produce markedly different therapeutic effects due to their unique cannabinoid and terpenoid profiles. Understanding the relationship between strain characteristics and therapeutic outcomes allows patients and practitioners to make informed choices that address specific health conditions and symptoms.
+Selecting the right cannabis strain is one of the most important decisions for medical cannabis patients, as different strains produce markedly different therapeutic effects due to their unique cannabinoid and [[cannabis-terpenoid-profiles-detailed]]. Understanding the relationship between strain characteristics and therapeutic outcomes allows patients and practitioners to make informed choices that address specific health conditions and symptoms.
 
 The cannabis plant has been selectively bred for thousands of years, resulting in an enormous diversity of strains with varying combinations of cannabinoids (THC, CBD, CBG, CBC, CBN, and others) and terpenoids (the aromatic compounds responsible for each strain's distinctive scent and many of its therapeutic effects). See [[cannabis-terpene-entourage-effect-profiles]] for terpenoid effects.
 
@@ -43,7 +43,7 @@ Hybrid strains allow patients to access therapeutic effects that fall between th
 
 ## Matching Strains to Conditions
 
-The selection of cannabis strain should be guided primarily by the symptoms and conditions being treated rather than by the sativa-indica classification alone. The entourage effect, the synergistic interaction between cannabinoids and terpenoids, means that strains with similar THC percentages can produce very different therapeutic outcomes depending on their full phytochemical profile.
+The selection of cannabis strain should be guided primarily by the symptoms and conditions being treated rather than by the sativa-indica classification alone. The [[cannabis-terpene-entourage-effect-profiles]], the synergistic interaction between cannabinoids and terpenoids, means that strains with similar THC percentages can produce very different therapeutic outcomes depending on their full phytochemical profile.
 
 ### Neurological and Mental Health Conditions
 
@@ -59,7 +59,7 @@ For inflammatory conditions, strains with higher CBD content and anti-inflammato
 
 ### Immune and Autoimmune Conditions
 
-Patients with immune-compromised conditions, autoimmune disorders, or chronic inflammation are typically CB2-deficient and may benefit from indica-dominant strains with lower THC to CBD ratios. CBD's affinity for CB2 receptors supports immune modulation and anti-inflammatory activity.
+Patients with immune-compromised conditions, autoimmune disorders, or chronic inflammation are typically CB2-deficient and may benefit from indica-dominant strains with lower THC to CBD ratios. CBD's affinity for CB2 receptors supports [[cancer-immune-modulation-mechanisms]] and anti-inflammatory activity.
 
 See [[cannabis-autoimmune-conditions]] for condition-specific recommendations.
 
@@ -69,7 +69,7 @@ Patients should consult with their local medical dispensary for information on t
 
 THC content varies by strain and is affected by whether the material is fresh or dried, its age, and whether it was grown indoors or outdoors. Indoor crops tend to contain markedly higher THC content. Fresh cannabis contains THC in the form of THC-carboxylic acid (THCA), which is only minimally psychoactive until decarboxylated through heat.
 
-Cannabinoid content decreases over time and is affected by UV light, heat, and moisture exposure. Patients should store cannabis in a cool, dark, airtight container to preserve potency. When switching between strains or batches, patients should re-establish their subjective therapeutic window for the new product, as cannabinoid concentrations can vary significantly.
+Cannabinoid content decreases over time and is affected by UV light, heat, and moisture exposure. Patients should store cannabis in a cool, dark, airtight container to preserve potency. When switching between strains or batches, patients should re-establish their [[cannabis-subjective-therapeutic-window-dosing]] window for the new product, as cannabinoid concentrations can vary significantly.
 
 See [[cannabis-terpene-profile]] for understanding terpenoid contributions to strain effects.
 
@@ -77,7 +77,7 @@ See [[cannabis-terpene-profile]] for understanding terpenoid contributions to st
 
 Beyond the sativa-indica classification, cannabis strains are increasingly categorized by their chemotype, the specific chemical profile of cannabinoids and terpenoids. Three primary chemotypes are recognized: Type I (high THC, low CBD), Type II (balanced THC and CBD), and Type III (high CBD, low THC).
 
-Type II (balanced) chemotypes are gaining popularity for medical use because they provide the therapeutic benefits of both THC and CBD while minimizing the psychoactive intensity of high-THC strains. The CBD content helps buffer the psychoactive effects of THC, potentially reducing adverse effects while maintaining therapeutic efficacy.
+Type II (balanced) chemotypes are gaining popularity for medical use because they provide the therapeutic benefits of both THC and CBD while minimizing the psychoactive intensity of high-THC strains. The CBD content helps buffer the psychoactive effects of THC, potentially reducing [[blesching-cannabis-safety-adverse-effects-evidence]] while maintaining therapeutic efficacy.
 
 Landrace varieties, the original, regionally adapted cannabis strains from specific geographic areas (Hindu Kush, Thai, Afghani, Colombian, and others), represent genetically distinct populations with characteristic chemotypes. See [[jillybean]]
 
@@ -92,3 +92,7 @@ Landrace varieties, the original, regionally adapted cannabis strains from speci
 - [[cannabis-genetics-and-breeding]] — developing new strains
 - [[marijuana-strain-guide-sativa]] — sativa strain profiles
 - [[marijuana-strain-guide-hybrid]] — hybrid strain profiles
+
+## See Also
+
+- [[blesching-cannabis-strain-selection-receptor-targeting]]

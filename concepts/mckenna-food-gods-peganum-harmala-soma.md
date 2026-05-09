@@ -1,5 +1,5 @@
 ---
-title: "Peganum Harmala as Soma — Syrian Rue and Harmaline"
+title: "mckenna food gods peganum harmala soma as Soma — golden-guide-syrian-rue-and-maoi-plants and Harmaline"
 created: 2026-04-28
 tags:
   - mckenna
@@ -32,7 +32,7 @@ The theory that the Vedic [[amanita-muscaria-entity|Amanita muscaria]]. Flattery
 Peganum harmala, commonly known as Syrian rue or harmal, is a hardy perennial plant native to the Mediterranean basin, Central Asia, and the Middle East. Its seeds contain several psychoactive beta-carboline alkaloids, principally:
 
 - **Harmaline**: the primary psychoactive constituent
-- **Harmine**: a closely related beta-carboline also found in the South American ayahuasca plant, *Banisteriopsis caapi*
+- **Harmine**: a closely related beta-carboline also found in the [[chiric-caspi-brunfelsia-south-american-hallucinogen]] ayahuasca plant, *Banisteriopsis caapi*
 
 A critical pharmacological distinction exists between these two compounds: harmaline is known to be more psychoactive and less toxic than harmine. This difference is significant for the Soma question, as it means that Peganum harmala, by itself when brewed to sufficient strength, may be capable of producing a "reliable and ecstatic hallucinogenic experience" without the addition of other plants.
 
@@ -56,12 +56,12 @@ This passage establishes that Soma/Haoma was not merely a pleasant intoxicant bu
 
 ### Ritual Context
 
-The description of Haoma preparation rituals in the Avesta — involving the pressing of a plant, purification through filtration, and mixing with other substances — is consistent with the preparation of Syrian rue preparations. The plant's documented range across the Iranian plateau also fits the geographical requirements for a substance that could have served as the basis of the Haoma rite over many centuries.
+The description of Haoma preparation rituals in the Avesta — involving the pressing of a plant, purification through filtration, and mixing with other substances — is consistent with the preparation of Syrian rue preparations. The plant's documented range across the Iranian plateau also fits the geographical requirements for a substance that could have served as the basis of the [[mckenna-zoroaster-suppression-haoma-rite-ecstatic-religion]] over many centuries.
 
 ## McKenna's Synergy Hypothesis
 
-McKenna extends the Flattery-Schwartz argument by proposing a synergistic relationship between Peganum harmala and psilocybin mushrooms. He notes that harmaline, as a beta-carboline alkaloid, would synergize with and enhance the effects of psilocybin — much as harmine in Banisteriopsis caapi synergizes with DMT in the [[stropharia-cubensis]]) as their primary sacrament
-2. **Scarcity**: As mushroom supplies dwindled due to climate change and migration, Peganum harmala was added to the preparation to enhance and extend the available psychoactive material
+McKenna extends the Flattery-Schwartz argument by proposing a synergistic relationship between Peganum harmala and [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]. He notes that harmaline, as a beta-carboline alkaloid, would synergize with and enhance the effects of psilocybin — much as harmine in Banisteriopsis caapi synergizes with DMT in the [[stropharia-cubensis]]) as their primary sacrament
+2. **Scarcity**: As mushroom supplies dwindled due to [[dighton-fungi-climate-change-feedback]] and migration, Peganum harmala was added to the preparation to enhance and extend the available psychoactive material
 3. **Replacement**: Gradually, as mushrooms became ever rarer, Peganum harmala may have come to supplant the mushrooms altogether
 4. **Standardization**: By late Vedic times, Haoma/Soma was understood to be primarily Peganum harmala
 
@@ -93,3 +93,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[mckenna-peganum-harmala-soma-substitute-psilocybin-synergy]]

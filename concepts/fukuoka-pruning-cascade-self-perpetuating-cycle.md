@@ -1,5 +1,5 @@
 ---
-title: "Pruning Cascade: The Self-Perpetuating Cycle of Intervention"
+title: "fukuoka pruning cascade self perpetuating cycle: The Self-Perpetuating Cycle of Intervention"
 created: 2026-04-28
 tags: [fukuoka, pruning, fruit-trees, orcharding, natural-farming, intervention]
 date: 2026-04-28
@@ -70,7 +70,7 @@ annual cycle of corrective pruning that never ends.
 ## Sapling Damage at Transplant
 
 The cascade often begins before the tree is even
-established in the orchard. A fruit tree sapling is first
+established in the orchard. A [[comparison-berry-growing-vs-fruit-tree-pruning]] sapling is first
 dug up and the roots trimmed, then the stem is cut back
 to a length of one or two feet and the sapling planted.
 This first pruning operation alone robs the tree of its
@@ -97,7 +97,7 @@ grow such trees, they will bear fruit without pruning.
 How much wiser and easier it is to limit oneself to
 minimal corrective pruning aimed only at bringing the tree
 closer to its natural form rather than practicing a method
-of fruit growing that requires extensive pruning each and
+of [[holzer-fruit-growing-marginal-climates]] that requires extensive pruning each and
 every year.
 
 ## Consequences for the Tree

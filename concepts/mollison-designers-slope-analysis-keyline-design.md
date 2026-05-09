@@ -1,5 +1,5 @@
 ---
-title: Slope Analysis and Keyline Design
+title: mollison designers slope analysis keyline design and query-how-does-keyline-design-work-in-permaculture
 created: 2026-04-28
 tags:
   - permaculture
@@ -20,13 +20,13 @@ Slope analysis and keyline design are foundational tools in [[keyline-design]] e
 
 **8-15% (moderate slope)**: Suitable for orchards, agroforestry, and
 pastures with careful management. Terracing or contour planting prevents
-erosion. Access roads require careful alignment. Water harvesting swales
+erosion. Access roads require careful alignment. Water [[gaias-garden-water-harvesting-swales-and-greywater]]
 are very effective at capturing runoff on moderate slopes.
 
 **15-30% (steep slope)**: Limited to tree crops, forestry, and controlled
 grazing. Erosion risk is high without permanent vegetation cover. Structures
 require extensive foundations. Access is difficult and expensive. Best used
-for timber production, watershed protection, and [[permaculture-zone-planning]].
+for timber production, watershed protection, and permaculture-zone-planning.
 
 ## Landform Elements
 
@@ -49,7 +49,7 @@ Cultivation on convex slopes requires careful contour management.
 
 **Concave slopes**: Slopes that curve inward like the inside of a bowl.
 Water collects and slows on concave slopes, depositing nutrients and
-organic matter. They are naturally more fertile and moisture-retentive.
+[[hamilton-composting-and-organic-matter-management]]. They are naturally more fertile and moisture-retentive.
 Concave slopes are preferred for cultivation and water harvesting.
 
 **Saddles**: Low points on ridgelines connecting two higher areas. Saddles
@@ -63,7 +63,7 @@ and ventilation but are exposed and dry. They define drainage boundaries.
 
 P.A. Yeomans developed the keyline system in Australia during the 1950s.
 Mollison adapted and promoted it extensively in permaculture. The keyline
-is a specific contour line identified on each landform that defines the
+is a specific [[comparison-swale-vs-contour-line-water-management]] identified on each landform that defines the
 pattern for all subsequent cultivation, tree planting, and water management.
 
 The keyline is found at the point where a convex slope changes to concave
@@ -92,12 +92,12 @@ distribution across the entire landform.
 
 ## Keyline Water Management
 
-Mollison integrates keyline principles with broader [[mollison-windbreak-design]], [[food-forest-design]] plantings.
+Mollison integrates keyline principles with broader mollison-windbreak-design, [[food-forest-design]] plantings.
 
 ## Practical Applications and Sector Integration
 
 Keyline design is applied through A-frame or laser level surveying to
 identify contours and the keyline position, chisel plow cultivation along
-keyline patterns for soil infiltration, contour dam construction at optimal
+keyline patterns for soil infiltration, contour [[comparison-dam-construction-vs-swale-design]] at optimal
 positions, and road alignment along keyline contours to serve as water-
 harvesting features. Slope analysis integrates with [[mollison-designers-sector-analysis-wind-sun-fire]] for a complete site understanding. Limitations include steep

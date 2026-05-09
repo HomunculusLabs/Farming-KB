@@ -58,7 +58,7 @@ herbivores) in check.
 ### 5. Omnivores
 
 Omnivorous nematodes eat any and all of the above, down to the merest fungal
-spore. Some even ingest organic matter directly, contributing to decomposition.
+spore. Some even ingest [[hamilton-composting-and-organic-matter-management]] directly, contributing to decomposition.
 
 ## Mineralization
 
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

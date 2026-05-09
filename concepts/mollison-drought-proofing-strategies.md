@@ -47,7 +47,7 @@ for water conservation and gravity-fed flow irrigation. It also involves
 patterning, tree planting, soil treatment, and fencing alignment, making
 it the first book on functional landscape design in modern times.
 
-Keyline design is covered in detail in [[mollison-keyline-soil-conditioning-humid-water]].
+[[query-how-does-keyline-design-work-in-permaculture]] is covered in detail in mollison-keyline-soil-conditioning-humid-water.
 
 ## Earthworks for Infiltration
 
@@ -59,7 +59,7 @@ of surface flow to sand basins, dune fields, swamps, and soakage beds
 in earth-bermed fields all ensure resident water reserves for crops and
 trees.
 
-Diversion drains and their associated valves, slides, cross-walls,
+[[mollison-designers-diversion-drains-and-interceptor-banks]] and their associated valves, slides, cross-walls,
 intakes, and irrigation systems enable effective water harvesting,
 dependable storage, and fast use in normal rolling lowlands, hill
 country, and drylands. They can also recharge sand basins and swales
@@ -105,15 +105,15 @@ alleviating droughts while recharging retention storages.
 
 ## Integration with Related Systems
 
-- [[mollison-swale-design-details]] for swale construction specifications.
-- [[mollison-arid-lands-design-and-erosion-control]] for dryland-specific
+- mollison-swale-design-details for swale construction specifications.
+- mollison-arid-lands-design-and-erosion-control for dryland-specific
   techniques.
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
   for additional arid strategies.
 
 ## Key Principles
 
-1. Water availability is the primary site selection factor -- all else
+1. Water availability is the primary [[fukuoka-creating-natural-farm-site-selection-establishment]] factor -- all else
   is secondary.
 2. Gravity-fed systems (Keyline) are the most energy-efficient approach
   to drought-proofing.
@@ -124,3 +124,9 @@ alleviating droughts while recharging retention storages.
   flow in streams.
 6. Diversify storage types: dams, swales, soil moisture, and biological
   reserves.
+## See Also
+- [[irrigation-systems]]
+- [[water-conservation]]
+- [[keyline-design]]
+- [[mollison-wet-dry-tropical-design-strategies]]
+- [[mollison-designers-snow-ice-and-winter-design-strategies]]

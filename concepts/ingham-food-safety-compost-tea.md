@@ -1,5 +1,5 @@
 ---
-title: Food Safety and Human Pathogens in Compost Tea
+title: Food Safety and Human Pathogens in comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide
 created: 2026-04-26
 tags: [food-safety, e-coli, compost-tea, pathogens, ingham]
 date: 2026-04-25
@@ -23,7 +23,7 @@ protection.
 True compost does not contain human pathogens. Multiple mechanisms
 work together to eliminate them:
 
-1. **Temperature** (thermal compost): 55 degrees C or higher for
+1. **Temperature** ([[ingham-thermal-compost-versus-worm-compost]]): 55 degrees C or higher for
    at least 3 days in all parts of the pile, with no temperature
    exceeding 70 degrees C.
 
@@ -31,11 +31,11 @@ work together to eliminate them:
    processes kill pathogens. At least 75-80% of material must pass
    through the worm digestive system.
 
-3. **Competition with aerobic organisms**: In aerobic compost or
+3. **Competition with aerobic organisms**: In [[ingham-anaerobic-vs-aerobic-compost-tea]] or
    tea, diverse communities of bacteria and fungi out-compete
    human pathogens for food and space.
 
-4. **Predation**: Protozoa and beneficial nematodes consume
+4. **Predation**: Protozoa and [[ingham-beneficial-nematodes-soil-food-web]] consume
    pathogenic bacteria in compost and tea.
 
 5. **Toxic chemical production**: While possible in theory, there
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

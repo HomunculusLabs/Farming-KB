@@ -33,7 +33,7 @@ of distinct microbial communities that can improve plant fitness.
 
 MHB include both Gram-negative and Gram-positive species. Intrahyphal
 bacteria have been found in ectomycorrhizal fungi, while intra-spore bacteria
-are present in arbuscular mycorrhizal fungi. Bacterial species colonise the
+are present in [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi. Bacterial species colonise the
 surfaces of fungal hyphae and mycorrhizal roots, and some reside within
 fungal structures. The best-studied MHB include Streptomyces spp.,
 Pseudomonas spp., Paenibacillus spp., and Bacillus spp.
@@ -45,7 +45,7 @@ Streptomyces sp. AcH 505, isolated from the hyphosphere of a Norway spruce
 interactions:
 
   - Significantly promotes mycelial growth and mycorrhization rate of
-    the ectomycorrhizal fungus Amanita muscaria
+    the ectomycorrhizal fungus [[allegro-amanita-muscaria-properties-and-pharmacology]]
   - Simultaneously suppresses the mycelial extension of plant pathogens
     Armillariella obscura and Heterobasidion annosum
   - Demonstrates the dual potential of MHB for promoting symbiosis while
@@ -57,7 +57,7 @@ interactions:
 
 Dual culture assays on agar media are commonly used to screen for
 bacterium-fungus interactions. A strong correlation exists between fungal
-growth induction in dual cultures and the mycorrhization helper effect.
+growth induction in dual cultures and the [[streptomycete-mycorrhization-helper-bacteria]] effect.
 Three experimental approaches are used:
 
   - Growing bacteria next to the fungus on agar, allowing diffusible
@@ -65,7 +65,7 @@ Three experimental approaches are used:
   - Using a cellophane membrane below fungal material, restricting fungal
     growth into the agar while allowing passage of small soluble metabolites
     and volatiles
-  - Cross-walled Petri dishes that permit only volatile compounds to pass
+  - Cross-walled Petri dishes that permit only [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] to pass
     between compartments
 
 ### Influence of Media and Growth Conditions
@@ -88,7 +88,7 @@ Fungal suspension cultures, when regularly homogenised, consist entirely of
 actively growing hyphal tips -- the regions that respond most strongly to
 interacting organisms. This approach avoids the masking effect of harvesting
 entire mycelia from solid agar cultures, where only the extending margin is
-metabolically active. It also facilitates isolation of bioactive metabolites.
+[[isolation-metabolically-active-arbuscules-intraradical-hyphae]]. It also facilitates isolation of bioactive metabolites.
 
 ## Ecological Roles
 
@@ -99,7 +99,7 @@ MHB contribute to plant health through multiple pathways:
     permeability
   - Improving nitrogen and phosphate availability
   - Assisting plant and hyphal survival in contaminated soils
-  - Providing biological control against soilborne pathogens
+  - Providing [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] against soilborne pathogens
   - Producing antifungal compounds that suppress pathogenic fungi
 
 ## Implications for Inoculation
@@ -111,3 +111,7 @@ may lead to antagonism. These findings have important implications for
 developing effective [[mycorrhizal-helper-bacteria]]
 - [[fungal-bacterial-partnerships-mycorrhizosphere]]
 - [[mycorrhization-helper-bacteria]]
+
+## See Also
+
+- [[symbiotic-fungi-streptomycete-mycorrhiza-helper-interactions]]

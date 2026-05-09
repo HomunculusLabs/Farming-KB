@@ -1,5 +1,5 @@
 ---
-title: Reishi Ganoderma Triterpenoids and Pharmacology
+title: cancer-medicinal-mushrooms-reishi-ganoderma-research Triterpenoids and Pharmacology
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Reishi Ganoderma Triterpenoids and Pharmacology
 
-Ganoderma lucidum contains a remarkable array of bioactive compounds beyond its well-known polysaccharides. At least 100 different alcohol-soluble triterpenes have been identified, including highly oxidised lanostane-type triterpenoids. These triterpenoids contribute significantly to Reishi's diverse pharmacological activities.
+[[ganoderma-lucidum]] contains a remarkable array of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] beyond its well-known polysaccharides. At least 100 different alcohol-soluble triterpenes have been identified, including highly oxidised lanostane-type triterpenoids. These triterpenoids contribute significantly to Reishi's diverse pharmacological activities.
 
 ## Key Active Constituents
 
@@ -20,7 +20,7 @@ Ganoderma lucidum contains a remarkable array of bioactive compounds beyond its 
 - Ling Zhi-8 protein: anti-allergenic, immuno-modulating
 
 ### Triterpenes (alcohol-soluble)
-- Ganoderic acids (A, B, C, D, F, H, J, K, Mf, R, S, T, V, W, X, Y, Z, alpha, beta)
+- [[ganoderic-acids]] (A, B, C, D, F, H, J, K, Mf, R, S, T, V, W, X, Y, Z, alpha, beta)
 - Ganoderenic acids
 - Lucidenic acids (A, D1)
 - Ganolucidic acids (A)
@@ -101,5 +101,4 @@ The annual worldwide value of G. lucidum products exceeds US $1.6 billion (Chang
 
 - [[reishi-mushroom-medicinal-research]]
 - [[medicinal-mushroom-guide-reishi]]
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]

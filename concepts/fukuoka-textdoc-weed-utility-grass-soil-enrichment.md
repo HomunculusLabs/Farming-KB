@@ -1,5 +1,5 @@
 ---
-title: Weed Utility and Grass Soil Enrichment in Natural Farming
+title: Weed Utility and Grass Soil Enrichment in comparison-natural-farming-vs-permaculture
 created: 2026-04-28
 tags: [fukuoka, natural-farming, weeds, soil-health, no-weeding, green-manure, erosion-control]
 date: 2026-04-28
@@ -11,10 +11,10 @@ type: concept
 
 # Weed Utility and Grass Soil Enrichment in Natural Farming
 
-One of Fukuoka's five principles of natural farming is "no weeding." Rather than
+One of Fukuoka's five [[four-principles-of-natural-farming]] farming is "no weeding." Rather than
 a mere omission, this principle is based on a profound understanding of the role that
 weeds and grasses play in maintaining soil health, preventing erosion, and supporting
-the microbial ecosystems that make natural fertility possible. Fukuoka reframes weeds
+the microbial ecosystems that make [[fukuoka-natural-fertility-cycle]] possible. Fukuoka reframes weeds
 from pests to essential partners in the farming system.
 
 ## Is There Such a Thing as a Weed?
@@ -70,7 +70,7 @@ to essentially zero.
 
 Fukuoka calculates that it would make more sense for farmers to stop pulling weeds
 and begin making use of their considerable powers. The protective function of grass
-cover is more valuable than any fertilizer application.
+cover is more valuable than any [[cervantes-fertilizer-application-strain-feeding]].
 
 ## The Weedless Method: Using Weeds Against Weeds
 
@@ -115,13 +115,15 @@ without fertilizers, orderly and beautiful without the need for herbicide applic
 ## Modern Validation
 
 Fukuoka's weed utility principles have been validated by modern soil science. Research
-on cover crops confirms that living root systems maintain mycorrhizal networks,
+on cover crops confirms that living root systems maintain [[dighton-mycorrhizal-networks-carbon-transfer]],
 prevent soil compaction, cycle nutrients from deep soil layers, and support
-beneficial insect populations. The no-till movement in modern agriculture, while
+[[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] populations. The no-till movement in modern agriculture, while
 often still reliant on herbicides, is moving toward Fukuoka's ideal of managing weeds
 through competition and smother crops rather than eradication.
 
 ## See Also
+
+- [[fukuoka-textdoc-weeds-beneficial-plants-soil-enrichment-coexistence]]
 
 - [[fukuoka-weed-management-and-green-manure]]
 - [[direct-seeded-notillage-rice-barley-clover-succession]]

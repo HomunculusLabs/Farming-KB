@@ -13,7 +13,7 @@ sources:
   - Jermy, A.C. & Camus, J.M. (1991). "The Genus Polypodium." Kew Publishing.
   - Page, C.N. (1997). "The Ferns of Britain and Ireland." Cambridge University Press.
   - Hoshizaki, B.J. & Moran, R.C. (2001). "Fern Grower's Manual." Timber Press.
-  - Flora of North America Editorial Committee (1993). "Polypodiaceae." Flora of North America, Vol. 2.
+  - Flora of [[psilocybin-north-america-pacific-northwest]] Editorial Committee (1993). "Polypodiaceae." Flora of North America, Vol. 2.
   - Hindmarch, C. (1886). "The Uses of British Plants." T. Fisher Unwin.
 ---
 
@@ -25,7 +25,7 @@ Common polypody is one of the most familiar ferns in Europe, where it grows epil
 
 The species has a long history of human use spanning culinary, medicinal, and ornamental applications. The rhizome was historically candied as a confection and used as a medicinal remedy for respiratory ailments across much of Europe.
 
-Recent taxonomic revisions have split the traditional broad concept of P. vulgare into several segregate species. The Eurasian populations treated here represent the narrow sense of P. vulgare s.str., distinct from the North American P. virginianum complex.
+Recent taxonomic revisions have split the traditional broad concept of P. vulgare into several segregate species. The Eurasian populations treated here represent the narrow sense of P. vulgare s.str., distinct from the [[growing-gourmet-north-american-reishi-species]] P. virginianum complex.
 
 ## Taxonomy and Morphology
 
@@ -53,7 +53,7 @@ The species is predominantly lithophytic, growing on stone walls, rock faces, bo
 
 Habitat ranges from lowland sea cliffs to subalpine elevations above 2,000 m. It tolerates both acidic and basic substrates, though it shows a preference for siliceous rocks and mortar in stone walls.
 
-Light requirements are flexible, from deep shade under forest canopies to fully exposed rock faces. This adaptability contributes to the species' success in anthropogenic habitats such as churchyard walls, castle ruins, and garden stone features.
+[[growing-gourmet-light-requirements-mushroom-fruiting]] are flexible, from deep shade under forest canopies to fully exposed rock faces. This adaptability contributes to the species' success in anthropogenic habitats such as churchyard walls, castle ruins, and garden stone features.
 
 Soil requirements are minimal since the rhizome typically grows on bare rock or bark surfaces. Humidity is provided by the substrate itself, with mosses and lichens often creating a humid microclimate around the fern's root zone.
 
@@ -67,7 +67,7 @@ Scandinavian traditions included chewing dried rhizomes as a snack or breath fre
 
 The fronds are not generally consumed but have been used as a wrapping material for cooking and food storage. In some regions, fresh fronds were layered between apples or other stored fruit to help regulate moisture and prevent spoilage.
 
-Nutritional analysis of the rhizome reveals approximately 40% starch, 10% sugars, and trace amounts of saponins, flavonoids, and tannins. Caloric value is modest compared to true root vegetables but significant for a non-cultivated forest plant.
+Nutritional analysis of the rhizome reveals approximately 40% starch, 10% sugars, and trace amounts of saponins, flavonoids, and tannins. Caloric value is modest compared to true [[growing-root-vegetables-guide]] but significant for a non-cultivated forest plant.
 
 ## Traditional Medicine and Pharmacology
 
@@ -89,11 +89,11 @@ Common polypody is readily cultivated and adapts well to garden conditions. It i
 
 Planting requires a well-drained substrate that mimics the species' natural lithophytic habit. A mixture of equal parts loam, leaf mold, and coarse sand or crushed stone provides adequate drainage while retaining sufficient moisture.
 
-The fern thrives in partial to deep shade but tolerates considerable sun if moisture is consistent. Drought tolerance is moderate once established, though frond quality declines rapidly under prolonged dry conditions.
+The fern thrives in partial to deep shade but tolerates considerable sun if moisture is consistent. [[dighton-fungal-drought-tolerance-plant-water-relations]] is moderate once established, though frond quality declines rapidly under prolonged dry conditions.
 
 Hardiness extends to USDA zone 4, making it suitable for cultivation across most temperate regions. Winter foliage remains green and functional unless temperatures drop below approximately -15°C for extended periods.
 
-Propagation by division is straightforward and can be performed at any time during the growing season. Sections of rhizome with attached fronds and roots establish readily when pinned to a suitable substrate.
+Propagation by division is straightforward and can be performed at any time during the [[savory-growing-season-and-non-growing-season-management]]. Sections of rhizome with attached fronds and roots establish readily when pinned to a suitable substrate.
 
 Spore propagation is also possible but less commonly practiced due to the slow growth rate of gametophytes and the ease of vegetative division. Spores should be sown on a sterilized, lime-free medium and kept under high humidity.
 

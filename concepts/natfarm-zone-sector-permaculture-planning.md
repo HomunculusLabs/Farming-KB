@@ -1,5 +1,5 @@
 ---
-title: Zone and Sector Planning in Permaculture Design
+title: bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis Planning in bill-mollison-permaculture-a-designers-manual-permaculture-design-principles
 created: 2026-04-28
 tags: permaculture-design, zones, sectors, land-planning, permaculture]
 date: 2026-04-25
@@ -20,7 +20,7 @@ house. It has plants in beds like Zone 1, but these are bigger and used for
 major crops that make up the staples of your diet, like grains or potatoes.
 Worms, rabbits, chickens, ducks, or fish can be raised in a small yard just
 beyond the proximity of the Zone 1 gardens. This is also where you would
-keep fruit and nut trees and the compost heap and use hedges and trellising
+keep fruit and [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]] and the compost heap and use hedges and trellising
 to maximize the edges. On a larger piece of land, you might also keep a few
 goats here, or a single milk cow. The zones are not classified by what is
 in them, but by how close they are to your house.
@@ -29,7 +29,7 @@ in them, but by how close they are to your house.
 Zone 3 is for rural areas and properties that are larger. This is where you
 would have a larger, unpruned orchard and other trees that act as a
 windbreak for the house. The goat pen and beehives are placed here, and the
-area is full of living mulches, plants for animal fodder, and firebreaks.
+area is full of [[permaculture-plants-ground-covers-living-mulches]], plants for animal fodder, and firebreaks.
 Water is stored in the soil in [[permaculture-zone-and-sector-planning]]
 - [[mollison-permaculture-two-zone-planning-and-site-layout]]
 ## Practical Applications
@@ -49,7 +49,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -99,7 +99,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -109,4 +109,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

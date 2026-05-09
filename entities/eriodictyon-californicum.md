@@ -56,7 +56,7 @@ are covered in a whitish, felt-like tomentum; mature stems become
 glabrous and woody.
 
 Leaves are alternate, oblong-lanceolate to ovate, 5–15 cm long and 2–6 cm
-wide, with entire or slightly toothed margins. The upper leaf surface is
+wide, with entire or slightly toothed margins. The upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is
 dark green and leathery; the lower surface is densely white-tomentose.
 Leaves are coated in sticky resin (primarily eriodictyol and related
 flavonoids) that gives them a characteristic balsamic aroma.
@@ -94,7 +94,7 @@ terpenoids:
 - **Eriodictyol-7-O-glucoside** — water-soluble glycoside with
   anti-inflammatory activity.
 - **Resin acids and terpenes** — contribute to the sticky exudate and
-  possess antimicrobial properties.
+  possess [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
 
 ## Pharmacology and Health Effects
 

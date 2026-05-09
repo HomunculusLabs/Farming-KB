@@ -1,5 +1,5 @@
 ---
-title: "Brassinosteroid-Suppressed Annulus Formation in Psilocybe cubensis"
+title: "Brassinosteroid-Suppressed Annulus sclerotia-formation-in-psilocybe-species cubensis"
 created: 2026-05-08
 tags: [brassinosteroid, psilocybe-cubensis, annulus, morphology, ring, partial-veil, developmental-biology, fungal-morphogenesis]
 date: 2026-05-08
@@ -36,7 +36,7 @@ The brassinosteroid-treated mushrooms grew faster overall (first fruit appeared 
 
 ### 3. Direct Interference with Veil Differentiation
 
-Brassinosteroids [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] involves a complex hormonal and genetic programme. Exogenous brassinosteroids may interact with endogenous fungal hormones (such as the "mor phogen" or "fruiting hormone" proposed by various researchers) in ways that alter the developmental programme, with the annulus being a particularly sensitive readout of this interaction. In *Coprinopsis cinerea* and *Schizophyllum commune*, genetic studies have identified multiple genes involved in fruiting body development, including those specifically regulating cap expansion, stipe elongation, and veil formation. Brassinosteroids may modulate the expression or activity of analogous genes in *P. cubensis*.
+B involves a complex hormonal and genetic programme. Exogenous brassinosteroids may interact with endogenous fungal hormones (such as the "mor phogen" or "fruiting hormone" proposed by various researchers) in ways that alter the developmental programme, with the annulus being a particularly sensitive readout of this interaction. In *Coprinopsis cinerea* and *Schizophyllum commune*, genetic studies have identified multiple genes involved in [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] development, including those specifically regulating cap expansion, stipe elongation, and veil formation. Brassinosteroids may modulate the expression or activity of analogous genes in *P. cubensis*.
 
 ### 5. Tissue-Specific Sensitivity
 
@@ -44,7 +44,7 @@ It is possible that the cells of the partial veil are particularly sensitive to 
 
 ## Could the Annulus Effect Be Exploited?
 
-From a cultivation perspective, the annulus is not functionally important — it is the remnant of a developmental structure that serves no purpose in the mature mushroom. Its absence does not affect spore dispersal, nutritional value, or alkaloid content. However, the observation that brassinosteroids can selectively alter one morphological feature while leaving others intact suggests that these compounds (or similar plant hormones) could potentially be used to modify other, more commercially relevant mushroom characteristics, such as:
+From a cultivation perspective, the annulus is not functionally important — it is the remnant of a developmental structure that serves no purpose in the mature mushroom. Its absence does not affect [[aquatic-fungi-spore-dispersal-ingold]], nutritional value, or alkaloid content. However, the observation that brassinosteroids can selectively alter one morphological feature while leaving others intact suggests that these compounds (or similar plant hormones) could potentially be used to modify other, more commercially relevant mushroom characteristics, such as:
 
 - **Stem thickness and cap size ratio** (affecting yield and appearance)
 - **Flesh density and water content** (affecting shelf life and drying characteristics)
@@ -57,7 +57,7 @@ The absence of the annulus has significant implications for the identification o
 - **Confusion with other genera** that have annulus-less species. For example, some *Gymnopilus* or *Inocybe* species lack an annulus and could potentially be confused with an exannulate *P. cubensis* by inexperienced identifiers, though microscopic features would readily distinguish them.
 - **Taxonomic misplacement** in photographic or herbarium documentation. Museum specimens or photographs labelled as one species based on macroscopic features may be incorrect if environmental or chemical factors have altered key characters.
 
-This underscores the general principle that cultivated mushrooms may exhibit morphological features that differ from their wild counterparts due to [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] nterparts. These differences arise from several factors:
+This underscores the general principle that [[fungi-cultivated-mushrooms-pathogens-competitors]] may exhibit morphological features that differ from their wild counterparts due to [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] nterparts. These differences arise from several factors:
 
 - **Substrate effects:** Different substrates can produce markedly different fruit body morphology. Mushrooms grown on straw, wood chips, compost, or grain all have characteristic appearances even within the same species.
 - **Environmental conditions:** Temperature, humidity, light intensity, and CO₂ levels all influence morphology. High CO₂ produces elongated stems and small caps; low CO₂ produces the opposite pattern.
@@ -87,5 +87,5 @@ The brassinosteroid-induced annulus absence in *P. cubensis* is distinct from th
 - [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] — The brassinosteroid compound used
 - psilocybe cubensis macroscopic identification — Standard diagnostic features including annulus
 - fungal fruiting body development veil and ring — Developmental biology of the partial veil
-- mushroom taxonomy microscopic vs macroscopic identification — Why microscopic features are more reliable for identification
-- partial veil evolution in agaricaceae — Evolutionary significance of veil structures across mushroom families
+- [[palmer-mushroom-taxonomy-classification-system]] microscopic vs macroscopic identification — Why microscopic features are more reliable for identification
+- partial veil evolution in agaricaceae — Evolutionary significance of veil structures across [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]]

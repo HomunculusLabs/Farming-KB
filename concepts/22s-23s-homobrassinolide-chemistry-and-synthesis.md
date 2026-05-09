@@ -22,7 +22,7 @@ elements: a polyhydroxylated steroid nucleus with a B-ring lactone,
 hydroxyl groups at C-2 and C-3 on the A-ring, and vicinal diol
 functionality at C-22 and C-23 on the side chain. The additional
 methylene group extends the side chain relative to brassinolide,
-which may influence receptor binding affinity and metabolic
+which may influence [[tihkal-receptor-binding-serotonin]] affinity and metabolic
 stability.
 
 The molecular formula and exact molecular weight of 22S,23S-
@@ -31,7 +31,7 @@ of multiple hydroxyl groups and the lactone moiety make the
 compound relatively polar compared to simple sterols, affecting
 its solubility and transport properties in biological systems.
 These physicochemical properties are relevant for determining
-appropriate formulation and delivery methods in potential
+appropriate formulation and [[cannabis-delivery-methods-comparison]] in potential
 agricultural or mycological applications.
 
 ## Synthesis from Stigmasterol
@@ -61,7 +61,7 @@ stereoselective steps and purification procedures.
 
 Like other brassinosteroids, 22S,23S-homobrassinolide exhibits
 growth-promoting activity in plants at extremely low concentrations.
-Its effects include stimulation of cell elongation and division,
+Its effects include stimulation of [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] and division,
 enhancement of photosynthetic capacity, and improvement of stress
 tolerance. The compound has been tested in various crop species
 and shown to increase biomass accumulation and yield parameters.
@@ -79,7 +79,7 @@ literature and represent an area for further investigation.
 The most notable finding regarding 22S,23S-homobrassinolide is its
 demonstrated effect on fungal growth. In the 1990 study by Gartz
 and colleagues, this compound was shown to dramatically promote
-mycelial growth and fruiting in Psilocybe cubensis at a
+[[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and fruiting in [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] at a
 concentration of only 0.01 ppm (10 parts per billion).
 
 The observed effects included a 2-3x acceleration of mycelial
@@ -87,7 +87,7 @@ growth rate on malt agar, a 25% reduction in time to first fruiting
 (3-3.5 weeks versus 4-5 weeks for controls), a 2-3x increase in
 first-flush mushroom production, and a 35-50% increase in total
 dry mass yield. The compound also suppressed the formation of
-incomplete fruit bodies and altered fruit body morphology.
+[[abort-suppression-brassinosteroid-incomplete-fruit-body-reduction]] bodies and altered fruit body morphology.
 
 ## Significance in Research
 

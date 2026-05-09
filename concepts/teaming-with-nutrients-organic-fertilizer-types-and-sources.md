@@ -41,7 +41,7 @@ leaching losses.
 The microbial activity stimulated by organic fertilizers provides additional
 benefits: it improves soil structure through the production of glues and
 aggregates, increases water-holding capacity, enhances cation exchange
-capacity (CEC), and supports arbuscular [[plants-without-mycorrhizal-associations]].
+capacity (CEC), and supports arbuscular [[chamovitz-gravitropism-plant-knows-where-it-is]].
 In essence, organic fertilizers feed the soil, and the soil feeds the plants.
 Organic fertilizers are, by definition, full of organic matter, which
 supports the creation and maintenance of the soil food web. Adding organic

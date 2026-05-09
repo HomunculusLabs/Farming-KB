@@ -23,11 +23,11 @@ type: concept
 
 ## Overview
 
-In his 1983 Esalen lecture "Tryptamine Hallucinogens and Consciousness," Terence McKenna articulated one of his most radical philosophical propositions: that the ultimate trajectory of human evolution involves the **exteriorization of the soul** and the **internalization of the body**. Under the influence of tryptamine hallucinogens (DMT and psilocybin), McKenna experienced what he interpreted as a preview of this evolutionary endpoint, in which human consciousness becomes a "superconducting lens of translinguistic matter" existing independently of the biological organism. This concept represents a synthesis of psychedelic phenomenology, eschatological philosophy, and speculative biology that McKenna developed across decades of personal experimentation and ethnobotanical research.
+In his 1983 Esalen lecture "[[tryptamine-hallucinogens]] and Consciousness," [[terence-mckenna]] articulated one of his most radical philosophical propositions: that the ultimate trajectory of human evolution involves the **exteriorization of the soul** and the **internalization of the body**. Under the influence of tryptamine hallucinogens (DMT and psilocybin), McKenna experienced what he interpreted as a preview of this evolutionary endpoint, in which human consciousness becomes a "superconducting lens of translinguistic matter" existing independently of the biological organism. This concept represents a synthesis of psychedelic phenomenology, eschatological philosophy, and speculative biology that McKenna developed across decades of personal experimentation and ethnobotanical research.
 
 ## The DMT Onset: Quantum Mechanical Hallucinogenesis
 
-McKenna's reasoning began with the pharmacological properties of the tryptamine compounds. He cited the work of John Smythies, Alexander Shulgin, and others who demonstrated **quantum mechanical correlates to hallucinogenesis**: if one atom on the molecular ring of an inactive compound is moved, the compound becomes highly active. For McKenna, this was "a perfect proof of the dynamic linkage at the formative level between quantum mechanically described matter and mind."
+McKenna's reasoning began with the pharmacological properties of the tryptamine compounds. He cited the work of John Smythies, [[alexander-shulgin]], and others who demonstrated **quantum mechanical correlates to hallucinogenesis**: if one atom on the molecular ring of an inactive compound is moved, the compound becomes highly active. For McKenna, this was "a perfect proof of the dynamic linkage at the formative level between quantum mechanically described matter and mind."
 
 The DMT experience begins approximately 15 seconds after smoking. The onset includes:
 
@@ -42,7 +42,7 @@ At the culmination of the onset, McKenna described arriving in "a place that def
 
 ## The Self-Transforming Machine Elves
 
-McKenna described encountering entities he called "self-transforming machine elves" in The Invisible Landscape (co-authored with his brother Dennis McKenna). These beings are:
+McKenna described encountering entities he called "self-transforming machine elves" in The Invisible Landscape (co-authored with his brother [[dennis-mckenna]]). These beings are:
 
 - **Dynamically contorting topological modules** distinct from the surrounding background, which is itself undergoing continuous transformation.
 - Characterized by "very squeaky voices" and a tendency to "bathe one in love" that is "not erotic but open-hearted."
@@ -77,7 +77,7 @@ McKenna positioned these ideas within a broader evolutionary framework:
 
 ## The Mushroom as Extraterrestrial Symbiote
 
-A complementary thread was the hypothesis that Stropharia cubensis mushrooms might be of extraterrestrial origin:
+A complementary thread was the hypothesis that [[stropharia-cubensis]] mushrooms might be of extraterrestrial origin:
 
 - **Spore resilience**: Mushroom spores are among the hardest organic substances known, with electron density approaching that of metal, deep purple to absorb deep ultraviolet radiation.
 - **Atmospheric escape**: Spores are light enough for Brownian motion to carry them to the edge of Earth's atmosphere, where energetic particles could eject some into interstellar space.
@@ -96,7 +96,7 @@ McKenna drew on Jorge Luis Borges's short story "The Sect of the Phoenix," which
 
 ## Tryptamine States as Transtemporal
 
-McKenna characterized the tryptamine experience as fundamentally **transtemporal**. Connecting Heraclitus and Plato ("time is the moving image of eternity"), he described the tryptamine ecstasy as "a stepping out of the moving image and into eternity, the eternity of the standing now, the nunc stans of Thomas Aquinas." In this state, the boundaries between death, the future, dream, and the psychedelic present dissolve into what he called the "tryptamine hypercontinuum."
+McKenna characterized the tryptamine experience as fundamentally **transtemporal**. Connecting Heraclitus and Plato ("time is the moving image of eternity"), he described the tryptamine ecstasy as "a stepping out of the moving image and into eternity, the eternity of the standing now, the nunc stans of Thomas Aquinas." In this state, the boundaries between death, the future, dream, and the psychedelic present dissolve into what he called the "[[tryptamine-hypercontinuum]]."
 
 ## Epistemological Position
 

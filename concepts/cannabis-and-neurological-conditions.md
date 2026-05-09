@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Research from The Cannabis Health Index documents extensive evidence for cannabinoids in neurological conditions including Alzheimer's disease, ALS (Lou Gehrig's disease), epilepsy, Parkinson's disease, Huntington's disease, and Tourette syndrome. The US government holds a patent (6630507) on "Cannabinoids as antioxidants and neuroprotectants."
+Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] documents extensive evidence for cannabinoids in neurological conditions including Alzheimer's disease, ALS (Lou Gehrig's disease), epilepsy, Parkinson's disease, Huntington's disease, and Tourette syndrome. The US government holds a patent (6630507) on "Cannabinoids as antioxidants and neuroprotectants."
 
 ## US Government Patent on Neuroprotection
 
@@ -31,12 +31,12 @@ CBD and other cannabinoids prevented Alzheimer's pathology by blocking microglia
 
 CB2 receptor activation stimulated the removal of beta-amyloid plaques -- the protein deposits characteristic of Alzheimer's. This is a disease-modifying effect, not just symptom management.
 
-**Passmore (2008)**: "The cannabinoid receptor agonist nabilone for the treatment of dementia-related agitation." International Journal of Geriatric Psychiatry.
+**Passmore (2008)**: "The [[cannabis-cannabinoid-receptor-pharmacology]] agonist nabilone for the treatment of dementia-related agitation." International Journal of Geriatric Psychiatry.
 
 Nabilone reduced agitation in dementia patients, addressing one of the most challenging behavioral symptoms of Alzheimer's.
 
 ### Food-as-Medicine for Alzheimer's
-- **Aged garlic extract**: Amelioration of early cognitive deficits in Alzheimer's transgenic mice (Chauhan and Sandoval, 2007)
+- **Aged [[ginger-garlic-extract-bionutrient]]**: Amelioration of early cognitive deficits in Alzheimer's transgenic mice (Chauhan and Sandoval, 2007)
 - **Curcumin**: Broad neuroprotective effects (Goel et al., 2008)
 - **EGCG (green tea)**: Reduced amyloid-beta aggregates with 670nm laser light (Sommer et al., 2012)
 
@@ -45,13 +45,13 @@ Nabilone reduced agitation in dementia patients, addressing one of the most chal
 ### Key Studies
 **Weber, Goldman, and Truniger (2010)**: "THC for cramps in amyotrophic lateral sclerosis: A randomized, double-blind crossover trial." Journal of Neurology, Neurosurgery, and Psychiatry 81:1135-40.
 
-THC significantly reduced cramps in ALS patients in a rigorous clinical trial.
+THC significantly reduced cramps in ALS patients in a rigorous [[psilocybin-clinical-trial-landscape-2020-2025]].
 
 **Weydt et al. (2005)**: "Cannabinol delays symptom onset in SOD1 transgenic mice." Amyotrophic Lateral Sclerosis 6(3):182-84.
 
 Cannabinol (CBN) delayed the onset of ALS symptoms in the standard animal model.
 
-**Carter et al. (2010)**: "Cannabis and amyotrophic lateral sclerosis: Hypothetical and practical applications, and a call for clinical trials." American Journal of Hospice and Palliative Care.
+**Carter et al. (2010)**: "Cannabis and amyotrophic lateral sclerosis: Hypothetical and practical applications, and a call for [[mushroom-cancer-clinical-trials-overview]]." American Journal of Hospice and Palliative Care.
 
 Comprehensive review arguing for clinical trials based on the endocannabinoid system's role in neuroprotection and muscle relaxation.
 

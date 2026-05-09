@@ -66,7 +66,7 @@ Limited in vitro evidence suggests activity against:
 - Influenza A virus
 - Herpes simplex virus
 
-Antiviral mechanisms may involve interference with viral attachment and replication, as well as enhanced host immune response.
+Antiviral mechanisms may involve interference with viral attachment and replication, as well as enhanced [[fungal-virulence-factors-host-immune-evasion]] response.
 
 ### Mucolytic and Secretolytic Effects
 The extract stimulates ciliary beat frequency in respiratory epithelium and promotes mucus secretion, helping to clear trapped pathogens and debris from the airways.
@@ -88,7 +88,7 @@ A 2008 Cochrane review concluded that EPs 7630 has modest beneficial effects in 
 RCTs show reduction in cold symptom severity and duration, particularly for nasal congestion, sore throat, and cough when started within 48 hours of symptom onset.
 
 ### Acute Sinusitis
-Clinical trials demonstrate improvement in sinusitis symptoms including facial pain, nasal discharge, and headache compared to placebo.
+[[mushroom-cancer-clinical-trials-overview]] demonstrate improvement in sinusitis symptoms including facial pain, nasal discharge, and headache compared to placebo.
 
 ### Acute Tonsillopharyngitis
 Evidence supports faster symptom resolution in bacterial and viral tonsillopharyngitis, with reduced need for antibiotics.
@@ -100,4 +100,4 @@ EPs 7630 has been studied in children aged 1–12 years and demonstrates safety 
 
 ## See Also
 
-- [[herbal-medicine-making]]
+- [[herbal-medicine-making-basics]]

@@ -1,5 +1,5 @@
 ---
-title: "Turner on Mescaline: Peyote, San Pedro, and Shamanic Sacraments"
+title: "Turner on Mescaline: Peyote, gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch, and Shamanic Sacraments"
 created: 2026-04-28
 tags: [mescaline, peyote, san-pedro, trichocereus, phenethylamine, psychedelic-guide, turner, cactus-preparation, native-american-church]
 date: 2026-04-25
@@ -76,4 +76,4 @@ mescaline from other psychedelics.
 
 - [[mescalero-apache-peyote-use]]
 - Phenethylamine  Chemistry
-- Native American  Church
+- [[halpern-sacramental-peyote-and-native-american-church]]  Church

@@ -16,9 +16,9 @@ type: concept
 
 # Energy Flow and the Energy Tetrahedron
 
-Energy flow is the fourth ecosystem foundation block in Allan Savory's
-holistic management framework. It addresses the question of fuel that keeps
-all ecosystem processes and life functioning. The key insight is that the
+Energy flow is the fourth [[savory-ecosystem-foundation-blocks]] block in Allan Savory's
+[[savory-holistic-management-overview]] framework. It addresses the question of fuel that keeps
+all [[fungal-ecosystem-processes-overview]] and life functioning. The key insight is that the
 natural living world runs on solar power, and management decisions can
 drastically affect how much solar energy is captured and put to productive
 use.
@@ -28,7 +28,7 @@ use.
 All living things, with rare exceptions, depend for food on the ability
 of green plants to capture the energy of sunlight and convert it to usable
 form. Fossil fuels represent stored solar energy but are nonrenewable and
-inedible. The current American agricultural system consumes about 9.8
+inedible. The current [[fukuoka-american-agricultural-decline]] system consumes about 9.8
 calories of petrochemical energy to produce one calorie of sunlight energy
 in the form of food. This is not sustainable.
 
@@ -57,7 +57,7 @@ spacings changed a patch dominated by poor-quality Loudecia grasses to an
 
 Perennial grasses cure to red or gold in the dormant season, reflecting
 far more nutritious dry forage than the pale or dead white of dry-type
-plants. The old South African distinction between witveld (white range)
+plants. The old [[kanna-sceletium-south-african-narcotic]] distinction between witveld (white range)
 and rooiveld (red range) reflects this. Protected roadside grasses often
 show a reddish tinge when dormant, while degraded range across the fence
 shows pale white grasses, indicating poor energy conversion.
@@ -65,7 +65,7 @@ shows pale white grasses, indicating poor energy conversion.
 ## Technology and Energy Flow
 
 Technology can increase energy flow through machinery, drainage,
-irrigation, chemicals, and genetic engineering. However, direct
+irrigation, chemicals, and [[fukuoka-textdoc-genetic-engineering-critique-warning]]. However, direct
 intervention in the energy flow is extremely dangerous because of complex
 interrelationships. Enhancing energy flow through heavy inputs of fossil
 fuel products damages [[holmgren-mineral-balance-soil-fertility]], and [[savory-water-cycle-management]]
@@ -89,3 +89,8 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[savory-holistic-resource-management-ecological-succession]]
+- [[savory-holistic-resource-management-biological-monitoring]]
+- [[savory-conventional-vs-holistic-range-management]]

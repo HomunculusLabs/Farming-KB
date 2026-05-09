@@ -1,5 +1,5 @@
 ---
-title: JADAM Natural Pesticide Programs
+title: JADAM Natural jadam-combined-pesticide-programs-jwa-js-jhs
 created: 2026-18-04
 updated: 2026-18-04
 type: concept
@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-JADAM natural pesticide (JNP) programs are specific recipes combining [[jadam-sulfur-germicide-js]], and [[jadam-microorganism-solution-jms]] regularly for disease prevention through microbial diversity
+JADAM natural pesticide (JNP) programs are specific recipes combining [[jadam-sulfur-germicide-js]], and [[jadam-microorganism-solution-jms]] regularly for [[cervantes-pest-disease-prevention-overview]] through microbial diversity
 - Add JHS and increase JWA to 5L to control pests simultaneously
 - Apply early in disease outbreak for best results
 - JS causes concentration damage to young/soft leaves, greenhouse plants, grapes, persimmons, walnuts, and perilla -- always test first
@@ -19,7 +19,7 @@ JADAM natural pesticide (JNP) programs are specific recipes combining [[jadam-su
 
 For 500L water:
 - JWA: 5L
-- Jerusalem artichoke JHS: 5L
+- [[comparison-jerusalem-artichoke-vs-potato]] JHS: 5L
 
 Jerusalem artichoke JHS is remarkably effective against aphids. Results are visible within 3 hours of application. The JWA ensures complete wetting of the aphids, including those protected by waxy coatings or leaf hairs. This combination also kills pest larvae.
 
@@ -27,11 +27,11 @@ Jerusalem artichoke JHS is remarkably effective against aphids. Results are visi
 
 - Gingko JHS + JWA: provides some soil disinfecting effect
 - JS + JWA: effective but can harden soil long-term (not recommended)
-- Preferred method: use JMS to boost soil microbial ecology -- this even controls soil nematodes by increasing microbial diversity and competition
+- Preferred method: use JMS to boost soil [[fukuoka-microbial-ecology-decomposition]] -- this even controls soil nematodes by increasing microbial diversity and competition
 
 ## JNP System Overview
 
-The JNP system is intentionally designed as an "all-purpose" approach. One pesticide works for all crops -- pesticide for apple works for pear. You need only one pesticide. Different combinations of JWA, JS, and various JHS types (Jerusalem artichoke, gingko, Korean pasque flower root) control virtually all pests and diseases.
+The JNP system is intentionally designed as an "all-purpose" approach. One pesticide works for all crops -- pesticide for apple works for pear. You need only one pesticide. Different combinations of JWA, JS, and various JHS types (Jerusalem artichoke, gingko, Korean pasque flower root) control virtually all [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
 
 Jerusalem artichoke JHS: controls aphids, mites, and moths
 Gingko JHS: controls everything Jerusalem artichoke does plus mulberry suckers, citrus planthoppers, and leafhoppers
@@ -58,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,4 +100,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

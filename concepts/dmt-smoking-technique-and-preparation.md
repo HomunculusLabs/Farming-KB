@@ -1,5 +1,5 @@
 ---
-title: DMT Smoking Technique and Preparation
+title: DMT dmt smoking technique and preparation and Preparation
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,12 +9,12 @@ sources:
 ---
 # DMT Smoking Technique and Preparation
 
-DMT (N,N-dimethyltryptamine) is a powerful short-acting psychedelic compound found in numerous plants and animals, including the human brain. When smoked, it produces an intense, rapid-onset experience lasting 5-20 minutes. This page covers preparation, technique, and harm reduction.
+DMT (N,N-dimethyltryptamine) is a powerful short-acting psychedelic compound found in numerous plants and animals, including the human brain. When smoked, it produces an intense, rapid-onset experience lasting 5-20 minutes. This page covers preparation, technique, and [[adverse-effects-and-harm-reduction-psilocybin]].
 
 ## Freebase Preparation
 
 ### From Plant Material
-DMT is found in the bark of Mimosa hostilis, the leaves of Psychotria viridis, and other plants. Extraction methods vary:
+DMT is found in the bark of [[entheogen-jurema-mimosa-hostilis-ethnobotany]], the leaves of Psychotria viridis, and other plants. Extraction methods vary:
 
 ### Basic Acid-Base Extraction (Overview)
 1. Powder plant material
@@ -85,7 +85,7 @@ DMT is found in the bark of Mimosa hostilis, the leaves of Psychotria viridis, a
 - **Threshold** (5-10 mg): Slight visual shimmer, body sensation
 - **Light** (10-20 mg): Open-eye visuals, geometric patterns, mild dissociation
 - **Moderate** (20-40 mg): Intense visuals, entity contact, ego softening
-- **Breakthrough** (40-60 mg+): Complete ego dissolution, alternate realities, "hyperspace"
+- **Breakthrough** (40-60 mg+): Complete [[psilocybin-ego-dissolution-mechanisms]], alternate realities, "hyperspace"
 
 ## MAOI Diet Considerations
 
@@ -107,7 +107,7 @@ When combining DMT with MAOI-containing herbs (changa with caapi leaf), dietary 
 ## Harm Reduction
 
 - Always have a sitter (sober person present)
-- Set and setting: comfortable, safe, quiet environment
+- [[lsd-set-and-setting-framework]]: comfortable, safe, quiet environment
 - Start low, go slow — you can always take more
 - Don't combine with other substances (especially antidepressants)
 - SSRI/SNRI medications block DMT effects and may cause serotonin syndrome
@@ -117,5 +117,5 @@ When combining DMT with MAOI-containing herbs (changa with caapi leaf), dietary 
 ## Related
 - [[beta-carboline-chemistry]] — for oral DMT (with MAOI)
 - [[psychedelic-mushroom-set-and-setting]] — for set and setting
-- [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
+- hallucinogenic-mushroom-health-risks-and-harm-reduction
 - [[psychedelic-mushroom-pharmacology]]

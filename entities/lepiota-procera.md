@@ -2,14 +2,12 @@
 title: Lepiota procera
 created: 2026-04-28
 type: species
-tags: [[mycology, identification, gourmet-mushrooms, lepiota]
+tags: [mycology, identification, gourmet-mushrooms, lepiota]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 ---
-# Lepiota procera
-
-Lepiota procera, commonly known as the Parasol Mushroom, is one of the most distinctive and highly prized wild edible mushrooms in the world. Its tall stature, prominent ring, and large, scaly cap make it easy to identify when mature. The Parasol is considered a gourmet mushroom across Europe and is particularly popular in French cuisine, where the cap is often prepared like a cutlet, breaded and pan-fried. See [[marasmius-oreades]] for another common grassland species.
+# Lepiota procera Lepiota procera, commonly known as the Parasol Mushroom, is one of the most distinctive and highly prized wild edible mushrooms in the world. Its tall stature, prominent ring, and large, scaly cap make it easy to identify when mature. The Parasol is considered a gourmet mushroom across Europe and is particularly popular in French cuisine, where the cap is often prepared like a cutlet, breaded and pan-fried. See [[marasmius-oreades]] for another common grassland species.
 
 ## Taxonomy and Description
 
@@ -25,12 +23,12 @@ Lepiota procera, commonly known as the Parasol Mushroom, is one of the most dist
 - **Stem:** Very tall relative to cap size, 10-25 cm long, 1-2 cm thick. Cylindrical, slightly swollen at the base (bulbous). Hollow. Smooth above the ring, finely scaly below. Color is cream to brownish.
 - **Ring:** Large, prominent, double-membranous, movable (can slide up and down the stem like a ring on a finger). This movable ring is a key identifying feature.
 - **Flesh:** White, thin in the cap, firm in the stem. Pleasant smell and taste.
-- **Spore print:** White.
+- **[[comparison-spore-print-collection-vs-spore-syringe-production]]:** White.
 - **Spores:** Ellipsoid, smooth, with a germ pore.
 
 ## Distribution and Habitat
 
-- **Global range:** Widespread across Europe, common in North America, and found in temperate regions of Asia, Africa, and Australia.
+- **Global range:** Widespread across Europe, common in [[psilocybin-north-america-pacific-northwest]], and found in temperate regions of Asia, Africa, and Australia.
 - **Habitat:** Open grasslands, pastures, meadows, woodland edges, roadsides, and parks. Often found in nutrient-rich, well-manured soils.
 - **Seasonality:** Late summer through autumn. Most abundant in warm, humid periods.
 - **Growth pattern:** Usually found singly or in small scattered groups, not in dense clusters.
@@ -50,12 +48,12 @@ Key distinguishing features:
 
 The genus Lepiota contains some deadly poisonous species, making accurate identification critical:
 
-- **Lepiota brunneoincarnata** ( Deadly Dapperling) and other small Lepiota species contain amatoxins, the same toxins found in Amanita phalloides (Death Cap). These species are much smaller than L. procera.
+- **Lepiota brunneoincarnata** ( Deadly Dapperling) and other small Lepiota species contain amatoxins, the same toxins found in Amanita phalloides ([[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]]). These species are much smaller than L. procera.
 - **Lepiota cristata** (Stinking Dapperling) — small, reddish-brown, with an unpleasant odor
-- **Chlorophyllum molybdites** (Green-spored Lepiota) — causes severe gastrointestinal distress; has a green spore print
+- **[[guzman-chlorophyllum-molybdites-toxic-edible-paradox-yoruba-divinatory-use]]** (Green-spored Lepiota) — causes severe gastrointestinal distress; has a green spore print
 - **Lepiota procera** should only be collected when fully mature with clear, identifiable features. Small specimens can be confused with deadly Lepiota species.
 - **Lepiota rachodes** (Shaggy Parasol) is edible for most people but causes gastrointestinal upset in some individuals; see [[agaricus-campestris]] and the Chanterelle.
-- **Eastern Europe:** Widely collected across Poland, Czech Republic, Slovakia, and other Eastern European countries where mushroom foraging is a deep cultural tradition.
+- **Eastern Europe:** Widely collected across Poland, Czech Republic, Slovakia, and other Eastern European countries where [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]] is a deep cultural tradition.
 - **Italian cuisine:** Used in risottos, pasta dishes, and grilled preparations. The Italian name "mazza di tamburo" (drumstick) refers to its shape.
 - **Foraging literature:** One of the most frequently featured mushrooms in European field guides and foraging books, reflecting its popularity and distinctive appearance.
 
@@ -66,7 +64,7 @@ L. procera has a predictable seasonal pattern:
 - **Emergence:** Typically appears in late summer (August) and fruits through autumn (October-November). Peak abundance is usually September.
 - **Weather triggers:** Warm, humid conditions following rain are the primary fruiting trigger. A wet August often produces excellent Parasol seasons.
 - **Habitat preference:** Shows a preference for old, established pastures with rich, well-manured soils. Also found in parkland, woodland edges, and along hedgerows.
-- **Soil relationship:** Appears to benefit from the decomposition of organic matter by soil microorganisms. Often found in areas with active earthworm populations.
+- **Soil relationship:** Appears to benefit from the decomposition of [[hamilton-composting-and-organic-matter-management]] by soil microorganisms. Often found in areas with active earthworm populations.
 - **Mycelial persistence:** The underground mycelium can persist for many years, producing crops annually from the same locations.
 
 ## Nutritional Value
@@ -94,6 +92,8 @@ Several large mushroom species share grassland habitats and are commonly foraged
 | A. campestris | 5-10 cm | Thin single | Brown | Good | General cooking |
 
 ## See Also
+
+- [[lepiota-brunneoincarnata]]
 
 - [[agaricus-campestris]] — Meadow Mushroom, similar grassland habitat
 - [[agaricus-arvensis]] — Horse Mushroom, for comparison of large grassland species

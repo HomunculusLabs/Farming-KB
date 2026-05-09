@@ -16,14 +16,14 @@ sources:
   - Aronsen, A. & Laessøe, T. (2016). The genus Mycena in northern Europe. Naturhistoriska Riksmuseet.
   - Desjardin, D.E. et al. (2008). "Mycena section Calodontes in the Madrean Sky Islands." Mycologia, 100(6), 889-906.
   - Corner, E.J.H. (1994). Agarics in Malaysia and Singapore. Royal Botanic Gardens, Kew.
-  - Fuhrer, B. (2009). A Field Guide to Australian Fungi. Bloomings Books.
+  - Fuhrer, B. (2009). A [[ghouled-field-guide-historical-context]] to Australian Fungi. Bloomings Books.
 ---
 
 # Mycena interrupta
 
 ## Overview
 
-**Mycena interrupta** (Berk.) Sacc., commonly known as the **pixie's parasol** or **blue bonnet**, is a small agaric mushroom in the family Mycenaceae. It is one of the most visually striking fungi in Australasia, recognized by its vivid blue, translucent, bell-shaped pileus. The species is saprotrophic, fruiting on decaying wood and leaf litter in temperate and subtropical wet forests.
+**Mycena interrupta** (Berk.) Sacc., commonly known as the **pixie's parasol** or **blue bonnet**, is a small agaric mushroom in the family Mycenaceae. It is one of the most visually striking fungi in Australasia, recognized by its vivid blue, translucent, bell-shaped pileus. The species is saprotrophic, fruiting on decaying wood and [[dighton-fungal-decomposition-leaf-litter-dynamics]] in temperate and subtropical wet forests.
 
 ## Taxonomy
 
@@ -76,7 +76,7 @@ with no confirmed records outside this region.
 
 **Habitat:** Found in cool temperate rainforests, wet sclerophyll forests,
 and mixed native forests. Fruits solitary to scattered on decaying hardwood
-logs, branches, and woody debris, particularly on *Nothofagus*, *Eucalyptus*,
+logs, branches, and [[fungal-succession-woody-debris-ecology]], particularly on *Nothofagus*, *Eucalyptus*,
 and *Acacia* species. Prefers moist, shaded microsites with high humidity.
 Typically fruits in autumn through early winter (March–July) in Australia,
 and May–August in New Zealand.
@@ -86,7 +86,7 @@ and May–August in New Zealand.
 *Mycena interrupta* has not been extensively studied for bioactive metabolites.
 The blue pigmentation is not well characterized chemically but is thought to
 derive from a pigment that degrades upon drying, similar to other hygrophanous
-Mycena species. No [[decomposition]], breaking down
+Mycena species. No , breaking down
 cellulose and lignin components alongside other fungal decomposers.
 
 The species serves as a food source for various forest invertebrates and
@@ -106,7 +106,7 @@ producing cold light.
 ## Similar Species
 
 - **Mycena chlorophos** — similar size and habitat but greenish bioluminescent
-  fruiting bodies, found in Southeast Asia and Japan.
+  fruiting bodies, found in [[psilocybe-southeast-asia-pacific]] and Japan.
 - **Mycena azurea** — also blue but with a more conical cap and different
   habitat preferences (found on herbaceous debris).
 - **Mycena cyanocephala** — blue-capped but smaller, with distinct cheilocystidia
@@ -125,7 +125,7 @@ outreach and citizen science programs.
 No formal conservation assessment has been published. The species appears
 locally abundant within suitable habitat and is not considered threatened.
 However, like many forest fungi, it may be sensitive to habitat fragmentation
-and changes in forest moisture regimes associated with climate change.
+and changes in forest moisture regimes associated with [[dighton-fungi-climate-change-feedback]].
 
 ## See Also
 

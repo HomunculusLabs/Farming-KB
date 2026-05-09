@@ -20,7 +20,7 @@ See also: [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]
 
 ## Origin and History
 
-**Breadfruit** is believed to have originated in the South Pacific — likely New Guinea or the Philippines — and has been cultivated for over 3,000 years. It spread across Oceania through Polynesian migration, carried as a canoe crop essential to island settlement. It was famously introduced to the Caribbean in the late 18th century by Captain Bligh of the *Bounty*, as a potential cheap food source for enslaved populations. It holds deep cultural significance across the Pacific Islands, where it features prominently in mythology, art, and social ceremonies.
+**Breadfruit** is believed to have originated in the South Pacific — likely New Guinea or the Philippines — and has been cultivated for over 3,000 years. It spread across Oceania through Polynesian migration, carried as a canoe crop essential to island settlement. It was famously introduced to the Caribbean in the late 18th century by Captain Bligh of the *Bounty*, as a potential cheap food source for enslaved populations. It holds deep [[amanita-muscaria-cultural-history]] across the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], where it features prominently in mythology, art, and social ceremonies.
 
 **Cassava** originated in the Amazon Basin of South America (Brazil/Paraguay border region) and was domesticated over 5,000–7,000 years ago by indigenous peoples who developed sophisticated processing techniques to detoxify the roots. Portuguese traders carried it to Africa in the 16th century, where it became the continent's most important root crop due to its reliability during famines. It is now grown across the tropics worldwide and is a primary calorie source for over 800 million people, particularly in Sub-Saharan Africa, Southeast Asia, and Latin America.
 
@@ -82,17 +82,17 @@ Cassava wins on speed and raw tonnage, but breadfruit is a long-term investment:
 
 **Breadfruit** can be eaten at all stages of maturity. Mature fruit is typically roasted, baked, boiled, or fried, with a bread-like texture when cooked — hence the name. Green breadfruit can be used as a starchy vegetable in curries and stews, similar to potatoes or plantains. It can also be dried and ground into flour, which is increasingly marketed as a gluten-free alternative. Ripe fruit has a sweet, custardy flavor and can be used in desserts.
 
-**Cassava** must be processed to remove cyanogenic glucosides (linamarin), which can cause acute cyanide poisoning or chronic health effects if consumed raw or inadequately processed. Processing methods include peeling, grating, fermenting, pressing, drying, and cooking. Products include gari (toasted cassava flour), fufu (a fermented dough), cassava flour, tapioca (extracted starch), and farofa (toasted meal). Both sweet and bitter varieties exist, with bitter types requiring more extensive processing due to higher cyanide content.
+**Cassava** must be processed to remove cyanogenic glucosides (linamarin), which can cause acute cyanide poisoning or chronic health effects if consumed raw or inadequately processed. [[mushroom-storage-and-processing-methods]] include peeling, grating, fermenting, pressing, drying, and cooking. Products include gari (toasted cassava flour), fufu (a fermented dough), cassava flour, tapioca (extracted starch), and farofa (toasted meal). Both sweet and bitter varieties exist, with bitter types requiring more extensive processing due to higher cyanide content.
 
 ## Storage and Preservation
 
-**Breadfruit** is highly perishable post-harvest (3–7 days at room temperature). Preservation methods include drying, fermentation, freezing, and flour production. This short shelf life is a significant constraint for market distribution.
+**Breadfruit** is highly perishable post-harvest (3–7 days at room temperature). [[egg-preservation-methods]] include drying, fermentation, freezing, and flour production. This short shelf life is a significant constraint for market distribution.
 
 **Cassava** roots can remain in the ground for up to 24 months, providing an "underground pantry" — one of its most valuable traits. Once harvested, roots deteriorate within 2–5 days unless processed. However, dried cassava products (flour, gari, chips) store for months to years.
 
 ## Climate Resilience
 
-Cassava is among the most climate-resilient food crops available. It tolerates prolonged drought, high temperatures, and degraded soils, making it a critical crop for climate adaptation in Sub-Saharan Africa and beyond. Models predict cassava productivity may even increase under moderate warming scenarios in some regions.
+Cassava is among the most climate-resilient food crops available. It tolerates prolonged drought, high temperatures, and degraded soils, making it a critical crop for [[jeavons-climate-adaptation-growing-seasons]] in Sub-Saharan Africa and beyond. Models predict cassava productivity may even increase under moderate warming scenarios in some regions.
 
 Breadfruit shows moderate resilience but is vulnerable to prolonged drought, strong winds (especially cyclones, which can strip trees of their canopy), and waterlogging. Rising temperatures within its current range are unlikely to threaten it, but expansion into marginal zones is limited. Its long lifespan does buffer against individual bad years.
 
@@ -115,7 +115,7 @@ See also: [[query-what-is-agroforestry-and-how-can-i-start]]
 | Criterion                    | Breadfruit               | Cassava                    |
 |------------------------------|--------------------------|----------------------------|
 | Best for quick calorie yield | ❌ Slow (3–6 yr)         | ✅ Fast (8–18 mo)          |
-| Drought tolerance            | ⚠️ Moderate              | ✅ Excellent               |
+| [[dighton-fungal-drought-tolerance-plant-water-relations]]            | ⚠️ Moderate              | ✅ Excellent               |
 | Poor soil tolerance          | ❌ Requires fertile soil  | ✅ Thrives in poor soils    |
 | Long-term food security      | ✅ Decades of production  | ⚠️ Annual replanting       |
 | Permaculture suitability     | ✅ Excellent canopy tree  | ✅ Good understory crop     |

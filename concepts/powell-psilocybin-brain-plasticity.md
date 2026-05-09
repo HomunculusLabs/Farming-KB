@@ -1,7 +1,7 @@
 ---
 title: "Psilocybin, the Brain, and Neural Plasticity"
 created: 2026-04-26
-sources: "The Psilocybin Solution — Simon G. Powell"
+sources: "The powell-psilocybin-solution-ecological-cognition-theory — Simon G. Powell"
 author: "Simon G. Powell"
 topics: ["neuroscience", "psilocybin", "serotonin", "neurons", "brain", "neuroplasticity"]
 type: concept
@@ -29,7 +29,7 @@ scramble the brain through trauma and consciousness similarly becomes scrambled;
 excite the brain of a patient undergoing surgery and definite experiences are evoked; introduce
 certain chemical substances into the brain and consciousness is altered. What distinguishes
 *Homo sapiens* from primate cousins is the sheer size of our brains and the mental abilities
-they grant: self-awareness, language, complex social behaviour, foresight, problem solving,
+they grant: self-awareness, language, complex social behaviour, foresight, [[maitake-problem-solving-troubleshooting]],
 and metaphysical musing.
 
 ## The Tree-Like Structure of Neurons
@@ -84,7 +84,7 @@ in the environment, particularly from raw materials in food.
 
 Powell frames this within a Gaian perspective: serotonin is bound up with the chemistry of the
 environment. Our minds and consciousness depend upon brain hardware, which depends upon
-chemical structure, which depends upon diet. Natural psilocybin mushrooms can enter the diet,
+chemical structure, which depends upon diet. Natural [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] can enter the diet,
 and the new chemicals subsequently operating within the brain alter awareness so that
 consensual serotonergic reality shifts to what Powell calls a "rare psilocybinetic reality."
 He describes this as a "wholly natural" process arising from an "environmentally driven
@@ -118,7 +118,7 @@ adapted or be confined to the past.
 Powell makes a pointed observation about form and context. When psilocybin arrived from Sandoz
 as precisely-dosed pills, this "subtly altered the context of the psilocybin experience." He
 contrasts the "perfect symbol of a modern technological fix" with "the very earthly symbol of
-the wild mushroom." Just as we selectively pick wheat for physical well-being, so too can we
+the [[emcdda-wild-mushroom-foraging-misidentification-hazards]]." Just as we selectively pick wheat for physical well-being, so too can we
 selectively consume natural psilocybin mushrooms for spiritual well-being. Both wheat and
 mushroom are legitimate natural expressions of the Gaian system within which we are embedded.
 

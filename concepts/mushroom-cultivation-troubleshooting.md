@@ -1,5 +1,5 @@
 ---
-title: Mushroom Cultivation Troubleshooting
+title: accessible-mushroom-cultivation-for-disabilities Troubleshooting
 created: 2026-04-28
 tags: [troubleshooting, pest-control, contamination, disease,
   mushroom-cultivation, problem-solving]
@@ -16,7 +16,7 @@ type: concept
 mushroom cultivation practices. However, when problems do arise, prompt
 identification and appropriate response are essential to minimize losses.
 This page covers the most common problems, their causes, and recommended
-solutions based on the FAO training manual for mushroom cultivation.
+solutions based on the FAO [[mushroom-cultivation-disabilities-training-manual-overview]] for mushroom cultivation.
 
 ## [[appropriate-technology]] solutions for water purification.
 
@@ -61,8 +61,8 @@ Mix substrate thoroughly before bagging to ensure uniform distribution.
 Check all processes causing contamination. Separate contaminated bags
 immediately. Remix substrate separately, remake bags, and pasteurize
 for a longer time. For serious cases, stop using the area for 1 to 2
-weeks to break the contaminant life cycle. Spray area with chemicals if
-needed. Use black-light traps or sticky traps to decrease insects.
+weeks to break the contaminant [[bloomfield-fungal-life-cycle-spiral-versus-circle]]. Spray area with chemicals if
+needed. Use black-light traps or [[cervantes-sticky-traps-pest-monitoring]] to decrease insects.
 
 ### Mite Contamination
 Immediately separate contaminated bags and repasteurize. Continue normal
@@ -90,16 +90,16 @@ Check humidity levels. Shortage of water produces lighter mushrooms.
 ### First Flush Only, No Subsequent Flushes
 Review substrate nutrition and reformulate if needed. Check hygiene,
 adjust light, temperature, humidity, air, and ventilation. Improve
-growing house management practices. Consider acquiring a new strain.
+[[low-cost-mushroom-growing-house-construction-developing-countries]] management practices. Consider acquiring a new strain.
 
 ## Hygiene Best Practices
 
 Maintain hygiene management at every step: clean all persons, areas,
 tools, equipment, and surroundings. Stop using contaminated areas for 1
-to 2 weeks to break contaminant life cycles. For serious contamination,
+to 2 weeks to break contaminant [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]. For serious contamination,
 spray with appropriate chemicals. Use black-light traps with water or
 sticky traps to decrease insects. Always separate contaminated bags
 immediately upon detection.
 ## Related Concepts
 
-- [[mushroom-house-design]]-management]]
+- [[mushroom-house-design-management]]

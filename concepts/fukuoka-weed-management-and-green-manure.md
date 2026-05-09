@@ -21,25 +21,25 @@ Weeding is the farmer's greatest source of toil, yet Fukuoka argued it is not me
 
 **Weeding creates the need for weeding**: Repeated weeding disturbs the soil surface, creating ideal conditions for weed seed germination. Each round of weeding brings new seeds to the surface, ensuring a perpetual cycle of weed growth and removal. The farmer who stops weeding for several years finds that weed populations naturally stabilize as a balanced plant community establishes itself.
 
-**Weeds are a consequence, not a cause**: When weeds proliferate in a field, they are often responding to conditions created by human intervention, such as bare soil exposed by plowing, nutrient imbalances from chemical fertilizers, or ecological disruption from pesticides. The weeds are attempting to heal the damage, not cause it.
+**Weeds are a consequence, not a cause**: When weeds proliferate in a field, they are often responding to conditions created by human intervention, such as bare soil exposed by plowing, nutrient imbalances from [[cervantes-chemical-fertilizers-guide]], or ecological disruption from pesticides. The weeds are attempting to heal the damage, not cause it.
 
 **Weeding impoverishes the soil**: Every weed pulled from the field removes organic matter and nutrients that would otherwise decompose and feed the soil. The bare soil left behind is vulnerable to erosion, compaction, and sterilization by sunlight.
 
 ## Ecological Functions of Weeds
 
-Fukuoka identified several critical functions that weeds perform in agricultural ecosystems:
+Fukuoka identified several critical functions that weeds perform in [[fungi-grassland-agricultural-ecosystems-dighton]]:
 
 **Soil loosening**: The deep penetration of grass and weed roots into the earth loosens compacted soil far more effectively than mechanical tilling. Roots of grasses and green manure crops work the soil to depths of 12-15 inches or more, compared to the 4-8 inches achieved by a plow. When roots die, they leave channels for air and water infiltration.
 
 **Humus formation**: Dead roots and above-ground plant material decompose into humus, the dark organic component of topsoil essential for microbial life, water retention, and nutrient cycling. Weeds contribute significant organic matter to the soil each year through natural dieback.
 
-**Microbial proliferation**: Organic matter from decomposing weeds feeds soil microorganisms, which multiply and perform essential functions including nitrogen fixation, phosphorus solubilization, and disease suppression. One gram of ordinary topsoil contains approximately 100 million bacteria, yeasts, molds, diatoms, and other microbes.
+**Microbial proliferation**: Organic matter from decomposing weeds feeds soil microorganisms, which multiply and perform essential functions including [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], phosphorus solubilization, and disease suppression. One gram of ordinary topsoil contains approximately 100 million bacteria, yeasts, molds, diatoms, and other microbes.
 
 **Erosion prevention**: Without ground cover, rainwater washes away topsoil. Even on gently sloping land, soil loss ranges from several tons to over a hundred tons per year. In twenty to thirty years without plant cover, the topsoil would wash away entirely, reducing fertility to near zero. Weeds and grasses are absolutely essential for maintaining the organic, living character of soil.
 
 **Earthworm habitat**: Where humus accumulates from weed decomposition, earthworms appear. As earthworm populations increase, moles begin burrowing through the soil, further improving drainage and aeration. This cascade of biological soil improvement is triggered by allowing weeds to grow.
 
-**Nutrient cycling**: Deep-rooted weeds bring minerals and nutrients from subsoil layers to the surface, making them available to shallow-rooted crops. This natural nutrient pumping reduces or eliminates the need for fertilizer application.
+**Nutrient cycling**: Deep-rooted weeds bring minerals and nutrients from subsoil layers to the surface, making them available to shallow-rooted crops. This natural nutrient pumping reduces or eliminates the need for [[cervantes-fertilizer-application-strain-feeding]].
 
 ## The Clover Revolution
 
@@ -47,7 +47,7 @@ Fukuoka's solution to weed management in rice and barley fields was to replace u
 
 **Clover seeding in rice fields**: In Fukuoka's rice-barley succession system, clover seed (approximately 1 pound per quarter-acre) is broadcast over standing rice in September or October. The high soil moisture from the maturing rice promotes rapid clover germination before winter weeds can establish. By late autumn, a thick clover cover protects the soil surface through winter.
 
-**Clover's multiple functions**: Clover serves as a living mulch that suppresses weed germination, fixes atmospheric nitrogen through its root-associated Rhizobium bacteria, prevents soil erosion during winter rains, provides habitat for beneficial insects, and contributes organic matter when partially suppressed during rice flooding in June.
+**Clover's multiple functions**: Clover serves as a living mulch that suppresses weed germination, fixes atmospheric nitrogen through its root-associated Rhizobium bacteria, prevents soil erosion during winter rains, provides [[query-how-do-i-design-habitat-for-beneficial-insects]] insects, and contributes organic matter when partially suppressed during rice flooding in June.
 
 **Suppressing clover for rice**: When the dense clover growth threatens to overwhelm young rice seedlings in early June, Fukuoka would flood the field for four to seven days. The semi-aquatic rice tolerates flooding while the clover is weakened, creating space for rice to establish dominance. After drainage, the clover recovers partially, maintaining ground cover without competing seriously with the growing rice.
 
@@ -77,7 +77,7 @@ Fukuoka experimented with and recommended several green manure species for diffe
 
 **Black wattle (Acacia mearnsii)**: Used in Fukuoka's desert revegetation proposals. Black wattle grows in areas with less than 2 inches of annual rainfall and, through its root-associated microbes, improves soil conditions enough to support subsequent tree plantings including cedar and cypress that grow many times the wattle's size.
 
-**Alfalfa and bur clover**: Included in Fukuoka's desert revegetation seed mixtures for their nitrogen-fixing capability and drought tolerance.
+**Alfalfa and bur clover**: Included in Fukuoka's desert revegetation seed mixtures for their nitrogen-fixing capability and [[dighton-fungal-drought-tolerance-plant-water-relations]].
 
 ## Beneficial Weeds in Fukuoka's Practice
 

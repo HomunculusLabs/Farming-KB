@@ -17,17 +17,15 @@ type: concept
 # Phytoremediation with Mycorrhizal-Assisted Plant Uptake
 
 Phytoremediation employs plants to remove, stabilize, or degrade contaminants
-from soil and water. When combined with mycorrhizal fungal symbionts, the
+from soil and water. When combined with [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] symbionts, the
 efficacy of phytoremediation is substantially enhanced through expanded root
 absorption surfaces, improved plant nutrition, and direct fungal involvement in
 detoxification pathways.
 
-## Mycorrhizal Mechanisms in Phytoremediation
-
-[[singh-mycorrhizal-fungi-in-heavy-metal-phytostabilization]]
+## Mycorrhizal Mechanisms in Ph
 through several mechanisms: (1) hyphal absorption and translocation of metals
 from bulk soil beyond the root depletion zone, (2) intracellular compartmental
-ization within fungal vacuoles, (3) binding to cell wall chitin and
+ization within fungal vacuoles, (3) binding to [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] chitin and
 glucuronic acid residues, and (4) extracellular precipitation as polyphosphate
 granules or oxalate crystals.
 
@@ -35,8 +33,8 @@ granules or oxalate crystals.
 
 Phytoextraction relies on hyperaccumulator plants capable of concentrating
 metals in aboveground tissues at levels far exceeding normal physiological
-ranges. Mycorrhizal colonization can enhance phytoextraction yield by improving
-plant biomass production and, in some cases, increasing metal translocation
+ranges. [[arbuscular-mycorrhizal-colonization-patterns]] can enhance phytoextraction yield by improving
+plant [[dighton-fungal-biomass-production-aquatic-ecosystems]] and, in some cases, increasing metal translocation
 to shoots. Key hyperaccumulator genera include Alyssum (Ni), Thlaspi (Zn, Cd),
 Pteris (As), and Brassica (various metals).
 
@@ -53,7 +51,7 @@ bioavailability and preventing migration to groundwater or entry into food
 chains. [[singh-fungal-roles-in-soil-aggregate-formation]]),
 and direct metal sequestration within fungal tissues.
 
-Ectomycorrhizal fungi are particularly effective in phytostabilization of
+[[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] are particularly effective in phytostabilization of
 metal-contaminated mine tailings. Species such as [[suillus-luteus]], and [[singh-composted-fungal-biomass-heavy-metal-immobilization]] as soil amendments can create synergistic remediation
 strategies addressing both organic and inorganic contaminants simultaneously.
 Harvest and disposal of metal-laden biomass from phytoextraction also requires
@@ -81,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -50,7 +50,7 @@ The species grows in still or slow-moving freshwater up to 3 meters deep. It pre
 The rhizome and roots contain a distinctive profile of bioactive alkaloids and polyphenols. These compounds are concentrated primarily in the rhizome and root tissue, with lower levels in leaves and flowers.
 
 - **Nuphar alkaloids** — dimeric sesquiterpene thioalkaloids unique to the genus. Major compounds include 6,6'-dihydroxythiobinupharidine, nupharolutine, and deoxynupharidine. These compounds are responsible for the plant's bitter taste and psychoactive properties.
-- **Tannins** — the rhizome is rich in condensed tannins (proanthocyanidins) with astringent and antimicrobial properties.
+- **Tannins** — the rhizome is rich in condensed tannins (proanthocyanidins) with astringent and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
 - **Flavonoids** — quercetin and kaempferol glycosides are present in leaves and flowers.
 - **Nymphaeine** — an aporphine alkaloid shared with *Nymphaea* species, with mild sedative and antispasmodic effects.
 
@@ -72,7 +72,7 @@ In European folk medicine, the rhizome was used as a poultice for wounds, boils,
 
 Decoctions served as a treatment for diarrhea, dysentery, and internal bleeding. The astringent tannin content explains its effectiveness for gastrointestinal complaints.
 
-Native American peoples across the northern US and Canada used *Nuphar* (primarily *N. variegata*) extensively.
+[[halpern-sacramental-peyote-and-native-american-church]] peoples across the northern US and Canada used *Nuphar* (primarily *N. variegata*) extensively.
 
 The rhizome was chewed for sore throats, applied as a poultice for swellings, and brewed into tea for digestive ailments. The Menominee, Ojibwe, and Potawatomi all documented traditional uses.
 
@@ -80,7 +80,7 @@ The rhizome was chewed for sore throats, applied as a poultice for swellings, an
 
 Yellow water lilies are keystone species in temperate freshwater ecosystems. The floating leaves provide shade that reduces water temperature and suppresses algal growth. The plant's root systems oxygenate sediments and provide habitat for aquatic invertebrates, fish fry, and amphibians.
 
-In constructed wetlands and natural swimming pools, *Nuphar* species serve as biofilters, absorbing excess nitrogen and phosphorus from the water. Their tolerance of polluted and eutrophic waters makes them useful in ecological wastewater treatment systems.
+In [[comparison-constructed-wetlands-vs-bioswales]] and [[comparison-natural-swimming-pool-vs-conventional-pool]] pools, *Nuphar* species serve as biofilters, absorbing excess nitrogen and phosphorus from the water. Their tolerance of polluted and eutrophic waters makes them useful in ecological [[mollison-designers-wastewater-treatment-wetlands]] systems.
 
 For permaculture water gardens, *N. lutea* offers multiple functions: food production (rhizome and seeds), wildlife habitat, water purification, and aesthetic value. The plant is propagated by dividing the rhizome in spring. It requires full sun and at least 30 cm of water depth to establish.
 
@@ -92,7 +92,7 @@ The plant requires full sun for optimal flowering, though it tolerates partial s
 
 Growth is vigorous — a single rhizome can spread to cover 1–2 m² of water surface within two growing seasons. Regular division every 2–3 years prevents overcrowding. The plant is winter-hardy to zone 3, with the rhizome surviving frozen water surfaces.
 
-Pests are minimal. Aphids may infest emerging flowers and leaves. Water lily beetle (*Galerucella nymphaeae*) feeds on leaf tissue, creating characteristic holes. In nutrient-poor waters, yellowing of older leaves indicates iron or manganese deficiency.
+Pests are minimal. Aphids may infest emerging flowers and leaves. Water lily beetle (*Galerucella nymphaeae*) feeds on leaf tissue, creating characteristic holes. In nutrient-poor waters, yellowing of older leaves indicates iron or [[query-how-to-fix-manganese-deficiency-in-cannabis]].
 
 ## Cultural Significance
 

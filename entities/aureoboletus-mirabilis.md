@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Aureoboletus mirabilis** is an edible bolete mushroom found in the Pacific Northwest of North America. It is commonly called the **admirable bolete** or **velvet bolete** due to its striking dry, velvety golden-yellow cap.
+**Aureoboletus mirabilis** is an edible bolete mushroom found in the Pacific Northwest of [[psilocybin-north-america-pacific-northwest]]. It is commonly called the **admirable bolete** or **velvet bolete** due to its striking dry, velvety golden-yellow cap.
 
 The species is a mycorrhizal associate of conifers, particularly **western hemlock** (*Tsuga heterophylla*) and **Sitka spruce** (*Picea sitchensis*). It fruits in late autumn through winter, making it one of the latest-fruiting boletes in its range.
 
@@ -75,13 +75,13 @@ There are no known toxic look-alikes in its range. The combination of golden-yel
 
 ## Ecological Role
 
-As an ectomycorrhizal species, *A. mirabilis* plays an important role in **nutrient cycling** in Pacific Northwest conifer forests. The mycorrhizal network it forms with host trees facilitates exchange of soil minerals for photosynthetically fixed carbon.
+As an ectomycorrhizal species, *A. mirabilis* plays an important role in **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]** in Pacific Northwest conifer forests. The [[arbuscular-mycorrhizal-network-visualization-anastomosis]] it forms with host trees facilitates exchange of soil minerals for photosynthetically fixed carbon.
 
 The species contributes to **forest soil aggregation** through hyphal growth and contributes organic matter to the forest floor. Late-season fruiting bodies provide a food source for deer, small mammals, and invertebrates during months when other fungal resources are scarce.
 
 ## Cultivation
 
-Cultivation of *Aureoboletus mirabilis* has not been commercially achieved. As an obligate ectomycorrhizal species, it requires living host trees to complete its life cycle, making traditional saprotrophic cultivation methods infeasible.
+Cultivation of *Aureoboletus mirabilis* has not been commercially achieved. As an obligate ectomycorrhizal species, it requires living host trees to complete its life cycle, making traditional saprotrophic [[synthetic-log-cultivation-methods-guide]] infeasible.
 
 Some mycologists have attempted **greenhouse inoculation** of conifer seedlings with *A. mirabilis* spore slurries or mycelial cultures, with limited success. Fruiting in pot cultures has been observed only rarely and unpredictably.
 
@@ -93,11 +93,11 @@ Limited analytical data exist for *A. mirabilis*. Preliminary analyses indicate 
 
 The bright yellow cap coloration is attributed to **carotenoid pigments**, possibly including variants of boletaxanthin and related tetrahydropyran carotenoids. These compounds are of interest for their antioxidant properties.
 
-The species has not been investigated for novel bioactive secondary metabolites, representing a potential area for future pharmacognostic research. Related *Aureoboletus* species have yielded antimicrobial and anti-inflammatory compounds.
+The species has not been investigated for novel bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]], representing a potential area for future pharmacognostic research. Related *Aureoboletus* species have yielded antimicrobial and anti-inflammatory compounds.
 
 ## Similar Species
 
-- **Boletus aereus** — darker cap, lacks bright yellow coloration; European distribution.
+- **Boletus aereus** — darker cap, lacks bright yellow coloration; [[fukuoka-european-distribution-system-critique]].
 - **Xerocomus subtomentosus** — has a darker, brownish cap and less prominent reticulation.
 - **Boletus edulis** — much larger, white reticulation on stipe, different pore color at maturity.
 - **Rubroboletus satanas** — pinkish-red pores, bitter taste; not found in the Pacific Northwest.

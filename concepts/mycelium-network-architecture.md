@@ -1,7 +1,7 @@
 ---
 title: Mycelium Network Architecture
 created: 2026-04-28
-tags: [[mycology]], fungal-biology, networks, ecology]
+tags: [mycology], fungal-biology, networks, ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
@@ -22,12 +22,12 @@ species and environment:
 
 Research on *[[mycelial-networks]]
 maintain connectivity while maximizing resource capture through a combination
-of tip growth, branching, and fusion (anastomosis). The networks show
+of [[gadd-hyphal-tip-growth-and-branching-mechanisms]], branching, and fusion (anastomosis). The networks show
 remarkable resilience, reconnecting around damaged areas.
 
 ## Transport Mechanisms
 
-Mycelial networks move resources through two primary mechanisms:
+[[fungal-mycelial-networks-nutrient-translocation]] move resources through two primary mechanisms:
 
 1. **Cytoplasmic streaming**: Bulk flow of cytoplasm carrying organelles,
    nutrients, and signaling molecules along hyphae. Driven by motor proteins
@@ -80,7 +80,7 @@ and high connectivity even after random edge removal.
 
 Network optimization theory provides a framework for understanding mycelial
 architecture. Research by Dan Bebber and colleagues at Oxford University
-applied graph theory to digitized images of [[phanerochaete-velutina]]* growing across soil and wood chip substrates.
+applied [[mycelial-network-graph-theory-analysis]] to digitized images of [[phanerochaete-velutina]]* growing across soil and [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] substrates.
 They found that fungal networks minimize the total length of connections
 while maintaining multiple redundant pathways between resource nodes, an
 optimization problem analogous to the minimum spanning tree with redundancy

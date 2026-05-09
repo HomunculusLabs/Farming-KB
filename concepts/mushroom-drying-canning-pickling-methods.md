@@ -1,5 +1,5 @@
 ---
-title: Mushroom Drying, Canning, and Pickling Methods
+title: palmer-mushroom-drying-preservation-methods, Canning, and Pickling Methods
 created: 2026-04-22
 updated: 2026-04-22
 type: concept
@@ -10,15 +10,15 @@ sources:
 
 # Mushroom Drying, Canning, and Pickling Methods
 
-Mushroom preservation is essential for extending shelf life, maintaining quality, and enabling long-distance transport of harvested crops. Fresh mushrooms deteriorate rapidly due to their biological characteristics, making proper processing methods critical for both commercial growers and home cultivators.
+Mushroom preservation is essential for extending [[psilocybin-shelf-life-stability]], maintaining quality, and enabling long-distance transport of harvested crops. Fresh mushrooms deteriorate rapidly due to their biological characteristics, making proper processing methods critical for both commercial growers and home cultivators.
 
-This page covers the three primary preservation methods — drying, canning (including bottling), and pickling — drawing from established practices in oyster mushroom, shiitake, and tropical mushroom cultivation. See [[mushroom-harvesting-techniques]].
+This page covers the three primary preservation methods — drying, canning (including bottling), and pickling — drawing from established practices in [[cotter-oyster-mushroom-cultivation]], shiitake, and tropical [[accessible-mushroom-cultivation-for-disabilities]]. See [[mushroom-harvesting-techniques]].
 
 ## Short-Term Storage
 
 Refrigeration at 1–4°C extends the shelf life of fresh mushrooms considerably. At harvest, mushrooms are typically at a temperature of 15–18°C, making pre-cooling a critical step. If mushrooms are not cooled before packaging, the metabolic heat they generate inside the container will raise the temperature further and accelerate spoilage. For more details on spoilage mechanisms, see mushroom spoilage and quality control.
 
-The best method for oyster mushroom storage is holding at 8–10°C in a packed container wrapped in microporous or perforated PVC film. The modified atmosphere inside the packaging — where CO₂ increases and O₂ decreases due to ongoing respiration — helps slow deterioration. The PVC film also reduces moisture loss and preserves overall quality. See [[mushroom-drying-storage]] and [[food-preservation-canning]].
+The best method for oyster [[oyster-mushroom-storage-processing]] is holding at 8–10°C in a packed container wrapped in microporous or perforated PVC film. The modified atmosphere inside the packaging — where CO₂ increases and O₂ decreases due to ongoing respiration — helps slow deterioration. The PVC film also reduces moisture loss and preserves overall quality. See [[mushroom-drying-storage]] and [[food-preservation-canning]].
 
 ## Canning
 
@@ -29,7 +29,7 @@ Canning is the most common commercial mushroom preservation method. It involves 
 - [[mushroom-drying-storage]]
 
 - [[food-preservation-canning]]
-- [[oyster-mushroom-bottle-cultivation]]
+- oyster-mushroom-bottle-cultivation
 ## Practical Applications
 
 Mushroom Drying, Canning, and Pickling Methods has a range of practical applications that make it relevant to
@@ -107,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,10 +1,10 @@
 ---
-title: "Emotional Intelligence and the Healing Framework in Mind-Body Medicine"
+title: "blesching cannabis emotional intelligence healing framework and the Healing Framework in Mind-Body Medicine"
 tags: [emotional-intelligence, mind-body-medicine, healthy-habits, unhealthy-habits, guilt, martyrdom, harbored-anger, gratitude, compassion, forgiveness, discernment, epigenetics, endocannabinoid-system]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Uwe Blesching, "The Cannabis Health Index" (2017), pp. 1559-1859, 20573-21160created: 2026-05-07
+  - Uwe Blesching, "The blesching-cannabis-health-index-autoimmune-conditions" (2017), pp. 1559-1859, 20573-21160created: 2026-05-07
 type: concept
 
 created: 2026-05-07
@@ -14,7 +14,7 @@ created: 2026-05-07
 
 ## Overview
 
-The Cannabis Health Index (CHI) presents a comprehensive emotional intelligence framework within its Chapter II on Mind-Body Medicine. This framework identifies specific unhealthy mental-emotional habits (bias, prejudice, judgment, guilt, martyrdom, and harbored anger) and their healthy counterparts (discernment, curiosity, tempered positivity, gratitude, compassion, and forgiveness). The CHI connects these emotional patterns to measurable physiological outcomes through psychoneuroendocrinology and epigenetics, positioning emotional intelligence as a direct pathway to molecular-level health transformation.
+The [[cannabis-health-index]] (CHI) presents a comprehensive emotional intelligence framework within its Chapter II on Mind-Body Medicine. This framework identifies specific unhealthy mental-emotional habits (bias, prejudice, judgment, guilt, martyrdom, and [[guilt-martyrdom-harbored-anger-as-health-hazards]]) and their healthy counterparts (discernment, curiosity, tempered positivity, gratitude, compassion, and forgiveness). The CHI connects these emotional patterns to measurable physiological outcomes through psychoneuroendocrinology and epigenetics, positioning emotional intelligence as a direct pathway to molecular-level health transformation.
 
 ## Foundational Principles: Dunbar and Alexander
 
@@ -24,13 +24,13 @@ Both researchers argued that emotions must be identified and targeted on equal f
 
 ## The Molecular Basis of Emotions
 
-Every cell of the human body communicates through chemical signals (molecules) and nonphysical signals (emotions, sunlight). The CHI maps specific endogenous molecules to their emotional counterparts:
+Every cell of the human body communicates through [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] (molecules) and nonphysical signals (emotions, sunlight). The CHI [[maps]] specific endogenous molecules to their emotional counterparts:
 
-**Expansive emotion molecules**: acetylcholine (I remember), anandamide (I am at ease), endogenous opioids (pain relief), GABA (I am melting), oxytocin (I feel for you), serotonin (I am happy).
+**Expansive emotion molecules**: acetylcholine (I remember), anandamide (I am at ease), endogenous opioids (pain relief), GABA (I am melting), oxytocin (I feel for yo serotonin onin (I am happy).
 
 **Constricting emotion molecules**: epinephrine (I am afraid), dopamine (I am motivated), norepinephrine (I am attentive), cortisol (I am stressed), glutamate (I am excited), vasopressin (I am aggressive).
 
-This mapping demonstrates that generating specific emotional content changes the body's chemistry, modulated partly through the endocannabinoid system. Anandamide, the endogenous cannabinoid, is associated with the expansive emotion "I am at ease" and binds at the same CB1 and CB2 receptor sites as THC.
+This mapping demonstrates that generating specific emotional content changes the body's chemistry, modulated partly thro endocannabinoid system d system. Anandamide, the endogenous cannabinoid, is associated with the expansive emotion "I am at ease" and binds at the same CB1 and CB2 receptor sites as THC.
 
 ## Three Destructive Emotions: Guilt, Martyrdom, and Harbored Anger
 
@@ -94,10 +94,10 @@ Addiction treatment research identifies three phases in any habit: trigger, reac
 
 ## Integration with Cannabis Therapy
 
-The CHI positions emotional intelligence work as synergistic with cannabis therapy. Cannabis can facilitate deep relaxation and emotional release, making it easier to access repressed emotions. Many cannabis-using patients have reported that cannabis helps them transcend unhealthy psychological habits. The endocannabinoid system, particularly through anandamide (the "bliss molecule"), directly modulates the emotional states that the framework seeks to transform.
+The CHI positions emotional intelligence work as synergistic with cannabis therapy. Cannabis can facilitate [[blesching-cannabis-deep-relaxation-healing]] and emotional release, making it easier to access repressed emotions. Many cannabis-using patients have reported that cannabis helps them transcend unhealthy psychological habits. The endocannabinoid system, particularly through anandamide (the "bliss molecule"), directly modulates the emotional states that the framework seeks to transform.
 
 ## See Also
 
 - [[blesching-cannabis-belief-reprogramming]] for methods of changing limiting beliefs
 - [[blesching-cannabis-telomeres-telomerase-longevity]] for how emotions affect cellular aging
-- [[blesching-cannabis-chi-score-methodology]] for the CHI scoring system
+- [[blesching-cannabis-chi-score-methodology]] for the [[blesching-cannabis-chi-scoring-evidence-based-medicine]] system

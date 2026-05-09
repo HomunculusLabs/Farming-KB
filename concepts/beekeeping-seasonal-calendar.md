@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, animal-husbandry, timeline, pollinators, beginner]
-sources: []
+sources:
+  sources: []
 ---
 
 # Beekeeping Seasonal Calendar
@@ -60,7 +61,7 @@ warmer or cooler zones.
 - Ensure adequate ventilation — prop up inner covers or use screened boards
 
 ### July
-- Peak honey production in many areas
+- Peak [[mollison-designers-beekeeping-honey-production-permaculture]] in many areas
 - Harvest honey as supers fill
 - Begin queen rearing if [[queen-rearing-basics|raising replacements]]
 - Watch for dearth periods — feed if no nectar available
@@ -112,13 +113,13 @@ warmer or cooler zones.
 ## Seasonal Varroa Management Cycle
 
 Varroa destructor is the most serious threat to honey bee colonies. A
-seasonal integrated pest management approach:
+seasonal [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management approach:
 
 1. **Late winter** — oxalic acid vapor (broodless window)
 2. **Spring** — monitor only; avoid treatments during buildup
 3. **Summer** — monitor; treat if threshold exceeded (formic or amitraz)
 4. **Early fall** — aggressive treatment before winter brood is raised
 
-See [[beekeeping-problems-and-solutions]] for detailed pest and disease
+See [[beekeeping-problems-and-solutions]] for detailed [[hamilton-pest-and-disease-control-organic]]
 management, and [[bee-forage-plants]] for ensuring adequate nutrition
 throughout the season.

@@ -17,13 +17,13 @@ Yun Zhi extract, I'm-Yunity
 
 ## Overview
 Polysaccharide-peptide (PSP) is a protein-bound polysaccharide
-isolated from the deep-layer mycelial culture of Trametes versicolor
+isolated from the deep-layer mycelial culture of [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]
 (formerly Coriolus versicolor), commonly known as the turkey tail
 mushroom. First isolated in 1983 from the COU-1 strain by Chinese
 researchers, PSP is one of the most extensively studied mushroom-derived
 compounds for cancer therapy. It has been recognized as an official drug
 by the Chinese Ministry of Public Health and has undergone extensive
-clinical trials, particularly in China.
+[[mushroom-cancer-clinical-trials-overview]], particularly in China.
 
 ## Key Details
 
@@ -37,7 +37,7 @@ clinical trials, particularly in China.
   and 1-3 glucose linkages, plus small amounts of galactose, mannose,
   and arabinose linkages
 - **Bioavailability:** Orally bioavailable
-- **Source organism:** Trametes versicolor (turkey tail mushroom),
+- **Source organism:** Trametes versicolor (turkey [[turkey-tail-mushroom-cancer-research]]),
   cultured deep-layer mycelium, strain COU-1
 
 ### Mechanism of Action
@@ -54,13 +54,13 @@ clinical trials, particularly in China.
   simultaneously
 
 ### Clinical Trial Results
-- **Gastric cancer:** Demonstrated efficacy in clinical trials for
+- **[[lentinan-gastric-cancer-combination-therapy]]:** Demonstrated efficacy in clinical trials for
   stomach cancer
 - **Esophageal cancer:** Shown effective in oesophageal cancer
   treatment
 - **Non-small cell lung cancer (NSCLC):** Extensively studied and
   shown efficacy in NSCLC treatment
-- **Safety profile:** Extensively studied by Chinese scientists and
+- **[[cannabis-safety-profile-and-overdose-risk]]:** Extensively studied by Chinese scientists and
   oncologists with little evidence of side effects
 - **Adjunct therapy:** Like PSK, PSP is used as an adjunct to
   standard radiotherapy and chemotherapy, reducing side effects
@@ -85,7 +85,7 @@ extensive clinical trial data showing efficacy against multiple cancer
 types with minimal side effects, makes it a key example of how fungal
 compounds can be integrated into conventional cancer treatment protocols.
 For cultivators, T. versicolor is relatively easy to grow, making PSP
-accessible for both commercial production and home cultivation.
+accessible for both commercial production and [[mushroom-home-cultivation-history]].
 
 ## See Also
 - [[lentinan]]

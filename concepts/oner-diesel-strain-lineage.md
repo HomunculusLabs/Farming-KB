@@ -27,7 +27,7 @@ In 1991, Chemdog germinated those seeds, and they gave rise to the
 entire ChemDawg family. Some speculate the original genetics
 included an unknown indica, while others have guessed at Nepalese
 and Thai parentage. The exact origins remain uncertain, but the
-impact of those 13 seeds on cannabis genetics is beyond dispute.
+impact of those 13 seeds on [[vic-high-cannabis-genetics-mendelian-inheritance]] is beyond dispute.
 The ChemDawg lineage went on to parent Sour Diesel, OG Kush, and
 countless other iconic strains.
 
@@ -37,12 +37,12 @@ ChemDawg itself became a foundational breeding stock. Humboldt Seed
 Organisation refined the original ChemDawg genetics to what they
 consider perfection. The seeds pop quickly, sometimes within 24
 hours, and the plants display vigorous growth throughout the
-vegetative stage. As a fairly balanced sativa-dominant strain,
+[[comparison-cannabis-vegetative-stage-vs-flowering-stage]]. As a fairly balanced sativa-dominant strain,
 ChemDawg exhibits medium to thick leaves with a deep green color.
 
 The strain is not generally recommended for novice growers, as it
 can present a range of challenges that only experienced cultivators
-know how to manage. Its tendency toward vigorous vegetative growth
+know how to manage. Its tendency toward vigorous [[cannabis-vegetative-growth-stage]]
 can translate into unwanted stretch in indoor environments. At about
 day 40 of the vegetative stage, growers typically flip the plants
 into flowering to manage height. The potency is consistently high,
@@ -73,7 +73,7 @@ lineage has inspired. Bred by Jordan of the Islands from Canada and
 grown by West Coast Masters, this strain combines West Coast
 Blueberry genetics with New York City Diesel genes. The result is a
 sativa-dominant hybrid that grows to between 4 and 6 feet, making
-it suitable for indoor cultivation.
+it suitable for [[cannabis-sativa-indoor-cultivation-techniques]].
 
 Blue City Diesel produces distinctive blue-tinged foxtailing buds
 that breeders describe as works of art. Despite the visual appeal,
@@ -104,9 +104,9 @@ Kush family to create potent, visually appealing hybrids.
 S.T. Oner writes that when he needs inspiration for writing or
 energy for difficult tasks, it is always a Diesel strain that he
 packs into his bowl. This personal testimony reflects the broader
-cultural significance of the Diesel family. The fuel-like aroma,
+[[ethnomycology-cultural-significance-sacred-fungi]] of the Diesel family. The fuel-like aroma,
 potent cerebral effects, and consistent performance have made
-Diesel genetics a cornerstone of modern cannabis breeding, with
+Diesel genetics a cornerstone of modern [[oner-cannabis-breeding-fundamentals]], with
 the lineage continuing to branch into new and exciting varieties.
 
 ## Trainwreck — The Accidental Diesel Cousin
@@ -134,4 +134,4 @@ carry genetic connections to the emerging Diesel family.
 - [[oner-cannabis-phenotypes-genetic-expression]]
 - [[oner-sativa-renaissance-rise-of-the-second-child]]
 
-See also: [[seed-saving-and-plant-breeding]]
+See also: [[natural-farming-guide-seed-saving-and-heirloom-varieties]]

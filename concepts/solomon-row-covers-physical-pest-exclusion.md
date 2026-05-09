@@ -1,5 +1,5 @@
 # Row Covers and Physical Pest Exclusion Methods
-**Source:** Gardening When It Counts - [[beneficial-insects-cannabis]], physical barriers simply prevent pest access while allowing light, water, and air to reach plants. Steve Solomon gives particular attention to spun-fabric row covers as the most practical and versatile option for home gardeners, while also discussing cloches, hotcaps, and other traditional protective structures.
+**Source:** Gardening When It Counts - [[beneficial-insects-cannabis]], physical barriers simply prevent pest access while allowing light, water, and air to reach plants. [[steve-solomon]] gives particular attention to spun-fabric row covers as the most practical and versatile option for home gardeners, while also discussing cloches, hotcaps, and other traditional protective structures.
 
 ## Spun-Bonded Polyester Row Covers
 
@@ -17,7 +17,7 @@ Spun-bonded row covers are lightweight, non-woven polyester fabrics that are dra
 - [[integrated-pest-management]]-overview
 ## Background and Context
 
-Solomon Row Covers Physical Pest Exclusion is an important subject that has garnered significant attention
+Solomon Row [[solomon-row-covers-and-season-extension]] physical pest exclusion Pest Exclusion is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough
@@ -65,7 +65,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -143,4 +143,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

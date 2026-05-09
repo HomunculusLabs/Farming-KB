@@ -1,5 +1,5 @@
 ---
-title: African Landrace Sativa Strains
+title: African african-landrace-sativa-modern-hybrids Strains
 tags:
   - cannabis-strains
   - landrace
@@ -19,7 +19,7 @@ Africa is one of the primary centers of cannabis genetic diversity, home to nume
 sativa varieties that have been cultivated for centuries. These strains represent some of the
 purest expressions of the [[colombian-gold]]
 
-Gage Green Genetics' Colombian Gold is a pure sativa from Colombia representing one of the
+Gage Green Genetics' [[cannabis-colombian-gold-landrace-sativa]] is a pure sativa from Colombia representing one of the
 foundational equatorial sativa varieties. Colombian landrace genetics were among the most
 celebrated cannabis strains of the 1960s and 1970s, when Colombian cannabis flooded the American
 market and defined what premium marijuana meant to an entire generation of consumers.
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

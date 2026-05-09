@@ -1,5 +1,5 @@
 ---
-title: Holzer Alpine Plant Cultivation
+title: Holzer holzer-alpine-plant-cultivation-gentian
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -23,7 +23,7 @@ Over years of experience cultivating plants from Alpine regions, Holzer's most i
 ### Cultivation Method
 - Sow in autumn, winter, or spring while frosty nights remain
 - If no frost available: place seeds in plastic bag mixed with soil from parent plant's roots, add water, put in freezer at -10 to -15C for several weeks before sowing
-- Take soil from near parent plant roots (contains symbiotic fungi the plants require)
+- Take soil from near parent plant roots (contains [[mycelium-running-symbiotic-fungi-relationships]] the plants require)
 - Seeds need exposure to light to germinate -- do NOT cover or push into soil (they will rot)
 - In nature, seeds fall to ground around parent plant, left exposed to elements
 - Churned-up soil areas are good for germination (created naturally by cattle, sheep, deer)
@@ -62,15 +62,15 @@ Over years of experience cultivating plants from Alpine regions, Holzer's most i
 3. Do not cover seeds -- they need light
 4. Sow on poor, barren soil
 5. Compensate for altitude differences by adjusting sowing time
-6. When cultivating at lower altitudes, introduce native soil for mycorrhizal fungi
+6. When cultivating at lower altitudes, introduce native soil for [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
 7. When sowing in natural environments, native soil is not necessary (fungi already present)
 
 ## General Lesson
 
 "You simply tried too hard with your plants. Nature cannot be 'improved' upon." The same principle applies to many aspects of ecological growing: observe nature, understand conditions, and work with them rather than imposing artificial methods.
 
-See also: [[holzer-fruit-tree-planting-method]], [[natural-farm-permaculture-ethics-principles]]
-- [[permaculture-ground-cover-plants]]
+See also: holzer-fruit-tree-planting-method, natural-farm-permaculture-ethics-principles
+- permaculture-ground-cover-plants
 - [[permaculture-farm-design-principles]]
 ## Practical Considerations
 
@@ -90,4 +90,9 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[holzer-alpine-plant-cultivation-gentian]]
+- [[arnica-montana]]
+- [[plant-propagation]]
+- [[vaccinium-myrtillus]]
+- [[gentiana-lutea]]

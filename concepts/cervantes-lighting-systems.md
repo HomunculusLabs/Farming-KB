@@ -1,11 +1,12 @@
 ---
-title: "Cannabis Lighting Systems — HID, LED, CFL Comparison"
+title: "green-cannabis-lighting-guide Systems — HID, LED, CFL Comparison"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
 tags: [cannabis]
 sources:
-  - raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # Cannabis Lighting Systems — HID, LED, CFL Comparison
@@ -33,7 +34,7 @@ HID lamp output decreases over time. HPS lamps typically lose 10-15% of their lu
 
 ## Electricity Costs and Efficiency
 
-Lighting accounts for the largest portion of electricity consumption in indoor grows. A single 1000W HID lamp running 12 hours per day consumes approximately 365 kWh per month. Growers should factor electricity costs into their overall budget:
+Lighting accounts for the largest portion of [[cervantes-electricity-consumption-cost-management]] in indoor grows. A single 1000W HID lamp running 12 hours per day consumes approximately 365 kWh per month. Growers should factor electricity costs into their overall budget:
 
 - **LED efficiency**: LEDs convert more electricity to photosynthetically active radiation (PAR) per watt than HID lamps. A 600W LED can produce comparable growth to a 1000W HPS while using 40% less electricity.
 - **Heat management**: HID lamps produce significant heat that must be removed by ventilation, adding to electricity costs. LEDs produce much less heat, reducing cooling requirements.
@@ -45,11 +46,11 @@ Lighting accounts for the largest portion of electricity consumption in indoor g
 
 ## PAR (Photosynthetically Active Radiation)
 
-PAR measures the light spectrum that plants actually use for photosynthesis (400-700nm wavelength range). Unlike lumens, which measure light brightness as perceived by the human eye, PAR specifically quantifies the photons available for plant growth. PAR is measured in micromoles per square meter per second (μmol/m²/s).
+PAR measures the [[cannabis-light-spectrum-and-color-bands]] that plants actually use for photosynthesis (400-700nm wavelength range). Unlike lumens, which measure light brightness as perceived by the human eye, PAR specifically quantifies the photons available for plant growth. PAR is measured in micromoles per square meter per second (μmol/m²/s).
 
 Key PAR considerations:
-- **Vegetative stage**: Target 300-500 μmol/m²/s for healthy vegetative growth
-- **Flowering stage**: Target 600-1000 μmol/m²/s for optimal bud production
+- **[[comparison-cannabis-vegetative-stage-vs-flowering-stage]]**: Target 300-500 μmol/m²/s for healthy vegetative growth
+- **[[cannabis-flowering-stage-management]]**: Target 600-1000 μmol/m²/s for optimal bud production
 - **Light saturation point**: Cannabis light saturation occurs around 1500 μmol/m²/s; beyond this, additional light provides diminishing returns
 - **Daily light integral (DLI)**: The total amount of PAR received in a 24-hour period. For cannabis, target 30-40 mol/m²/d during flowering
 
@@ -70,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

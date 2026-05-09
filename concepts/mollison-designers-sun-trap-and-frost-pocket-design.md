@@ -1,5 +1,5 @@
 ---
-title: Sun Trap and Frost Pocket Design
+title: mollison designers sun trap and frost pocket design and Frost Pocket Design
 created: 2026-04-28
 tags:
   - permaculture
@@ -21,9 +21,9 @@ creation of sun traps and the avoidance of frost pockets are among the
 most practical applications. Bill Mollison covers these topics
 extensively in Permaculture: A Designers' Manual (Chapter 3: Methods
 of Design, and Chapter 6: [[mollison-designers-microclimate-creation-frost-protection]] design
-- [[mollison-designers-windbreak-design-species]]
+- mollison-designers-windbreak-design-species
 - mollison designers thermal mass building
-- [[mollison-designers-house-site-preparation-and-drainage-design]]
+- mollison-designers-house-site-preparation-and-drainage-design
 - [[mollison-frost-protection-and-thermal-belt-design]]
 ## Practical Applications
 
@@ -102,4 +102,9 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[bill-mollison]]
+- [[mollison-designers-food-forest-succession-design]]
+- [[mollison-designers-high-island-and-tropical-valley-design]]
+- [[mollison-designers-herb-spiral-design-construction]]
+- [[mollison-designers-temperate-zone-food-forest-design]]

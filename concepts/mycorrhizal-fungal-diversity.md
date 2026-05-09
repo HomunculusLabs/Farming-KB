@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Fungal Diversity
+title: arbuscular-mycorrhizal-fungal-diversity-patterns-distribution Diversity
 created: 2026-04-28
 tags: [symbiosis, ecology, mycology, plant-biology]
 date: 2026-04-28
@@ -10,7 +10,7 @@ type: concept
 
 # Mycorrhizal Fungal Diversity
 
-[[mycorrhizal-symbiosis]] is not a single relationship type but a spectrum of
+mycorrhizal-symbiosis is not a single relationship type but a spectrum of
 associations classified by morphology and the fungal groups involved, each
 representing an independent evolutionary origin of the plant-fungal
 partnership.
@@ -18,17 +18,17 @@ partnership.
 **[[mycorrhiza]], associating with over 70% of terrestrial plant species
 including most agricultural crops. Characterized by intracellular
 arbuscules — tree-like branching structures inside root cortical cells
-where nutrient exchange occurs — AMF are obligate symbionts that cannot
+where [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] occurs — AMF are obligate symbionts that cannot
 complete their life cycle without a living host plant.
 
-**Ectomycorrhizal Fungi (EMF):** Primarily Basidiomycota and Ascomycota,
+**[[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] (EMF):** Primarily Basidiomycota and Ascomycota,
 these form associations mainly with woody plants in Pinaceae, Fagaceae,
 Betulaceae, Dipterocarpaceae, and related families. The fungus forms a
 dense sheath (mantle) around root tips and a Hartig net of hyphae between
 root cortical cells. EMF are ecologically dominant in temperate and boreal
 forests, where they can constitute the majority of soil microbial biomass.
 
-**Ericoid Mycorrhizal Fungi:** A diverse group of Ascomycetes associated
+**[[dighton-ericoid-mycorrhizal-nutrient-acquisition]] Fungi:** A diverse group of Ascomycetes associated
 with plants in the Ericaceae family (heaths, heathers, blueberries,
 rhododendrons). These fungi enable their hosts to thrive in acidic,
 nutrient-poor soils by producing enzymes that decompose complex organic
@@ -70,9 +70,9 @@ some generalist EMF species associate with multiple host families.
 [[common-mycorrhizal-networks]], influencing
 forest regeneration, competitive dynamics, and successional trajectories.
 
-These networks can also transmit chemical signals between plants. When one
+These networks can also transmit [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] between plants. When one
 plant is attacked by herbivores or pathogens, defense signals may propagate
-through the mycorrhizal network to neighboring plants, priming their
+through the [[arbuscular-mycorrhizal-network-visualization-anastomosis]] to neighboring plants, priming their
 defenses before attack. This "[[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 ## Practical Considerations
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

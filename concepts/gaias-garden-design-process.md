@@ -1,5 +1,5 @@
 ---
-title: Gaia's Garden Design Process
+title: Gaia's Garden ozier-pdc-design-process-analysis-frameworks
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Gaia's Garden Design Process
 
-Toby Hemenway's five-step design process for creating an ecological garden, detailed in Chapter 3 of Gaia's Garden. This process blends permaculture design principles with ecological observation to create self-sustaining garden ecosystems.
+Toby Hemenway's five-step design process for creating an ecological garden, detailed in Chapter 3 of Gaia's Garden. This process blends [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] principles with ecological observation to create self-sustaining garden ecosystems.
 
 ## The Five Steps
 
@@ -30,7 +30,7 @@ Planning has three components:
 
 - **Priorities.** Rank the importance of desires and problems the design addresses. Consider personal, aesthetic, environmental/ecological issues, and trouble spots to correct.
 - **Analysis.** List design elements that will satisfy the vision (plants, structures, functions). For each element, list its products, activities, needs, and intrinsic qualities. Connect as many items as possible so that the needs of one design element are met by other elements.
-- **Layout.** Use [[mollison-zone-and-sector-analysis]] to locate pieces relative to incoming forces (wind, sun, wildlife). The Zone-and-Sector method optimizes connections between design elements. Use the random-assembly method for brainstorming.
+- **Layout.** Use mollison-zone-and-sector-analysis to locate pieces relative to incoming forces (wind, sun, wildlife). The Zone-and-Sector method optimizes connections between design elements. Use the random-assembly method for brainstorming.
 
 ### 4. Development
 
@@ -75,6 +75,6 @@ design.
 
 - [[ecological-garden-design]]
 
-- [[mollison-design-methodology]] — Designers' Manual methodology
-- [[gaia-garden-plant-guilds]] — guild design for ecological gardens
+- mollison-design-methodology — Designers' Manual methodology
+- [[gaia-garden-plant-guilds]] — [[apple-guild-design-guide]] for ecological gardens
 - [[holzer-assessing-the-land]] — Holzer's approach to site observation

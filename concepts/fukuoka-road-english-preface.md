@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [philosophy, god, nature, preface, road-back-to-nature]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
@@ -30,7 +31,7 @@ God, should find a proper way.
 Even so, Fukuoka expresses gratitude that when spring
 arrives at his farm, for several days the cherry, plum,
 peach, and pear trees in his orchard, and the semi-wild
-vegetables growing beneath them, all break out into bloom.
+[[hamilton-root-vegetables-growing]] beneath them, all break out into bloom.
 Visitors call this an Eden, a paradise on Earth. But as
 soon as they finish clicking their camera shutters, they
 hurry off home. Even though they call this place beautiful,

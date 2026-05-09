@@ -1,5 +1,5 @@
 ---
-title: "Endophytic and Mycorrhizal Induced Systemic Resistance"
+title: "Endophytic and endophytic mycorrhizal induced systemic resistance Systemic Resistance"
 created: 2026-04-28
 tags: [induced-systemic-resistance, biocontrol, mycorrhiza, plant-defense, jasmonic-acid]
 date: 2026-04-25
@@ -8,20 +8,20 @@ sources: [~/wiki/raw/papers/symbiotic-fungi.md]
 type: concept
 ---
 
-Symbiotic fungi, including [[plant-defense-mechanisms]] that protect
+[[mycelium-running-symbiotic-fungi-relationships]], including [[plant-defense-mechanisms]] that protect
 against subsequent pathogen attack. This phenomenon, known as induced
 systemic resistance (ISR), represents a broad-spectrum defense
 priming effect that enhances the plant's ability to respond rapidly
 to infection without constitutively expending energy on defense.
 
-## [[mycorrhizal-symbiosis]]. Its accumulation within cortical cells
+## mycorrhizal-symbiosis. Its accumulation within cortical cells
 containing arbuscules could play a role in reducing pathogen
 proliferation. Notably, P. nicotianae hyphae were never observed
 in the same cells as those containing G. mosseae.
 
 Overexpression of the gene MtAOC1 coding for the JA-biosynthetic
 enzyme allene oxide cyclase increased JA levels but reduced
-mycorrhizal colonization. Application of JA on Tropaeolum majus and
+[[arbuscular-mycorrhizal-colonization-patterns]]. Application of JA on Tropaeolum majus and
 Carica papaya leaves strongly reduced colonization by G. mosseae.
 This suggests a regulatory balance where JA mediates defense while
 also constraining the extent of fungal colonization.
@@ -32,8 +32,8 @@ Mycorrhizal colonization modifies root exudation patterns, which
 affects pathogen behavior. Exudates from mature mycorrhizal roots
 attracted significantly fewer P. nicotianae zoospores than water or
 exudates from non-mycorrhizal roots. The opposite was observed with
-actively growing roots, where mycorrhizal exudates were more
-attractive. The secondary metabolite blumenin accumulates in
+actively growing roots, where [[singh-mycorrhizal-exudates-root-exudate-interactions]] were more
+attractive. The [[fungal-elicitors-enhanced-secondary-metabolite-production]] blumenin accumulates in
 mycorrhizal roots in an age-dependent pattern, and carotenoid-derived
 compounds from mycorrhizal roots can inhibit Fusarium species.
 
@@ -41,7 +41,7 @@ Proline concentration in exudates from mature mycorrhizal roots was
 higher than from non-mycorrhizal roots. Proline is involved in plant
 protection against water and salt stresses and accumulates following
 pathogen infection. Its accumulation after AMF colonization suggests
-a role in the biocontrol induced by [[mycorrhizal-pathogen-resistance]]
+a role in the biocontrol induced by mycorrhizal-pathogen-resistance
 
 - [[nitrogen-transfer-mycorrhizal]]
 - [[mycorrhizal-carbon-nitrogen-economics]]
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

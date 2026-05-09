@@ -1,5 +1,5 @@
 ---
-title: Mulch for Outdoor Cannabis Growing
+title: Mulch for Outdoor query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work
 created: 2026-04-26
 tags:
   - mulch
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -20,7 +21,7 @@ Mulch attracts and retains soil moisture and suppresses weeds. Mulch
 is a layer of decomposing foliage, straw, grass clippings, weeds, and
 other organic materials, or paper, rocks, plastic, and other materials
 laid around plants. Proper mulching is one of the most important
-practices for successful outdoor cannabis cultivation.
+practices for successful outdoor [[query-how-does-no-till-cannabis-cultivation-work]].
 
 ## Benefits of Mulching
 
@@ -70,7 +71,7 @@ mulch covering to hold it in place.
 
 ### Black Plastic
 
-Black plastic mulch conserves moisture and suppresses weeds
+Black [[jadam-plastic-mulch-problems]] conserves moisture and suppresses weeds
 effectively. Cover the entire garden bed with black plastic and cut
 holes through which seedlings are planted. A soaker hose can be laid
 underneath the plastic to irrigate. Make sure to cut large enough holes
@@ -105,7 +106,7 @@ Planting in a thick layer of mulch is a good way to conserve moisture.
 In the spring, mulched amended soil should be prepared before planting.
 Always put a heavy layer of mulch (30+ cm) around outdoor plants to
 keep soil elements protected and moisture conserved. Replenish organic
-mulches as they decompose throughout the growing season.
+mulches as they decompose throughout the [[savory-growing-season-and-non-growing-season-management]].
 
 For comprehensive outdoor growing information, see [[cervantes-organic-amendments-chart]].
 
@@ -113,9 +114,9 @@ For comprehensive outdoor growing information, see [[cervantes-organic-amendment
 
 Container gardens can also benefit from mulching. A layer of expanded
 clay pebbles on the soil surface prevents moisture loss and reduces
-the frequency of watering needed. Living mulch such as low-growing
+the frequency of watering needed. [[comparison-living-mulch-vs-cover-crops]] such as low-growing
 clover can be used in large outdoor containers to suppress weeds and
-fix nitrogen, though care must be taken to prevent competition with the
+[[query-how-to-fix-nitrogen-toxicity-in-cannabis]], though care must be taken to prevent competition with the
 cannabis plants.
 
 ## Seasonal Mulch Management

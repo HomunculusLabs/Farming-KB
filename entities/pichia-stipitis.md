@@ -11,7 +11,7 @@ sources:
 
 # Pichia stipitis
 
-**Pichia stipitis** is an ascomycete yeast (order Saccharomycetales) notable for its rare ability to ferment and assimilate xylose, a five-carbon sugar that forms the backbone of hemicellulose in plant cell walls.
+**Pichia stipitis** is an ascomycete yeast (order Saccharomycetales) notable for its rare ability to ferment and assimilate xylose, a five-carbon sugar that forms the backbone of hemicellulose in plant [[alpha-1-3-glucan-fungal-pathogen-cell-walls]].
 
 This metabolic capability, unusual among Saccharomycetes, makes it of considerable interest for industrial bioethanol production from lignocellulosic biomass.
 
@@ -59,7 +59,7 @@ This association extends to other wood-ingesting insects including:
 
 This makes P. stipitis and its relatives uniquely valuable for complete biomass utilization.
 
-Research efforts have explored genetic engineering of P. stipitis to improve its ethanol tolerance and fermentation rates.
+Research efforts have explored [[fukuoka-textdoc-genetic-engineering-critique-warning]] of P. stipitis to improve its ethanol tolerance and fermentation rates.
 
 Metabolic engineering of [[yeast-biology]]
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

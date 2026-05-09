@@ -1,5 +1,5 @@
 ---
-title: "Organic Pest and Disease Control"
+title: "cervantes-neem-oil-organic-pest-control and hamilton-pest-and-disease-control-organic"
 created: 2026-04-28
 tags: [pest-control, disease-management, organic-gardening,
       biological-control, companion-planting]
@@ -40,7 +40,7 @@ aphids can often be removed by simply squashing them.
 Ensure plants are healthy when purchased. Reject anything
 showing signs of disease, pest attack, or physical damage.
 Examine bulbs, corms, and tubers closely; they should be
-firm with intact skins. Some diseases like potato blight
+firm with intact skins. Some diseases like [[bloomfield-potato-blight-phytophthora-infestans]]
 and clubroot can be brought in on infected plant material.
 
 ## Common Garden Pests and Controls
@@ -54,7 +54,7 @@ caterpillars by hand. Birds are natural predators.
 Small brown or black slugs live underground and surface
 in midsummer. Go out at night with a flashlight and drop
 them in paraffin. Surround vulnerable plants with lime,
-soot, or wood ash. Pine bark mulch is also effective.
+soot, or wood ash. [[fukuoka-pine-bark-weevil-ecology]] mulch is also effective.
 Surround seedlings with cut plastic bottles for protection.
 
 ### Aphids (Greenfly and Blackfly)

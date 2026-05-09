@@ -16,7 +16,7 @@ sources:
 
 # Galerina autumnalis
 
-> **⚠️ CRITICAL WARNING:** galerina autumnalis is an extremely poisonous mushroom
+> **⚠️ CRITICAL WARNING:** galerina autumnalis is an extremely [[growing-gourmet-poisonous-mushroom-lookalikes]]
 > containing amatoxins, the same deadly toxins found in the
 > Death Cap. Ingestion causes fatal liver and kidney failure.
 > **NO ANTIDOTE EXISTS.** This page is provided for identification and safety purposes
@@ -27,7 +27,7 @@ sources:
 galerina autumnalis, commonly known as the Deadly Galerina, Autumn Galerina, or
 Funeral Bell, is one of the most dangerous mushrooms found in temperate forests
 worldwide. Despite its small and unassuming appearance, this species contains the same
-amatoxins that make the Death Cap and Destroying Angel among the most lethal organisms on Earth.
+amatoxins that make the Death Cap and [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]] among the most lethal organisms on Earth.
 
 In the cultivation literature, galerina autumnalis is specifically cited as a deadly
 poisonous lookalike of [[hypholoma-capnoides]] and [[hypholoma-capnoides]].
@@ -39,8 +39,8 @@ The spore print is rusty brown, a key identification characteristic.
 
 ## Distribution
 
-galerina autumnalis is widely distributed throughout temperate North America, Europe,
-and other temperate regions around the world. It is particularly common in the Pacific
+galerina autumnalis is widely distributed throughout temperate [[psilocybin-north-america-pacific-northwest]], Europe,
+and other temperate regions [[fungi-around-the-world-species-distribution]]. It is particularly common in the Pacific
 Northwest of North America, where the cool, moist climate provides ideal conditions for
 fruiting across an extended season.
 
@@ -77,7 +77,7 @@ contamination risk that must be identified and eliminated immediately.
 | Phase | Temperature | Humidity | Duration | Notes |
 |---|---|---|---|---|
 | Spawn Run | N/A | N/A | N/A | Never cultivated intentionally |
-| Primordia Formation | N/A | N/A | N/A | N/A |
+| [[growing-gourmet-primordia-formation-pinning]] | N/A | N/A | N/A | N/A |
 | Fruitbody Development | N/A | N/A | N/A | N/A |
 
 ## Medicinal Properties
@@ -100,5 +100,5 @@ amatoxins. Even tiny amounts can be lethal.
 
 ## References
 
-1. Stamets, P. *Growing Gourmet and Medicinal Mushrooms*. 3rd edition.
+1. Stamets, P. *Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]*. 3rd edition.
 2. Source document: unknown-growing-gourmet-and-medicinal-mushrooms-s.md

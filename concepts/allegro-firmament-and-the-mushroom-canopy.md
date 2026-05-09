@@ -14,13 +14,13 @@ Allegro argues that the biblical concept of the firmament — the solid dome tha
 
 ## The Mushroom as Cosmic Dome
 
-"And God said, 'Let there be a firmament in the midst of the waters, and let it separate the waters from the waters'" (Gen 1:6). The Hebrew word for firmament, raqia', means "something beaten out, spread out" — originally referring to a metal plate beaten into a dome shape. In the mushroom cult, this described the cap of the Amanita muscaria, seen from below as a red-and-white dome suspended above the earth.
+"And God said, 'Let there be a firmament in the midst of the waters, and let it separate the waters from the waters'" (Gen 1:6). The Hebrew word for firmament, raqia', means "something beaten out, spread out" — originally referring to a metal plate beaten into a dome shape. In the [[african-mushroom-cult-history]], this described the cap of the [[allegro-amanita-muscaria-properties-and-pharmacology]], seen from below as a red-and-white dome suspended above the earth.
 
 The mushroom's cap, with its protective function over the stem and gills beneath, became the model for the cosmic architecture. The sky-dome (firmament) was imagined as a vast mushroom cap, with the stars as the white spots (warts) on the Amanita's surface. The waters above the firmament were the heavenly semen — the divine fluid that fertilized the earth below.
 
 ## Temple Architecture as Mushroom
 
-The design of Solomon's Temple, described in elaborate detail in 1 Kings 6-7, follows the mushroom's anatomy. The Holy of Holies was a perfect cube (20 cubits each way) — representing the mushroom's stem. The veil before it was embroidered with cherubim — the volva's protective covering. The two pillars, Jachin and Boaz, stood at the entrance like the mushroom's stem flanked by its mycelial network.
+The design of Solomon's Temple, described in elaborate detail in 1 Kings 6-7, follows the mushroom's anatomy. The Holy of Holies was a perfect cube (20 cubits each way) — representing the mushroom's stem. The veil before it was embroidered with cherubim — the volva's protective covering. The two pillars, Jachin and Boaz, stood at the entrance like the mushroom's stem flanked by its [[gadd-mycelial-network-dynamics]].
 
 Allegro notes that the word "temple" itself (Hebrew hekal, from Sumerian E-GAL, "great house") originally referred to the mushroom's volva — the "great house" or "womb" from which the phallus-stem emerged. The temple was not merely "like" a mushroom; it was a mushroom, built to the specifications of the sacred fungus.
 
@@ -48,14 +48,14 @@ Ezekiel's vision of the divine chariot (Ezek 1) features a dome (raqa') over the
 
 ## Scholarly Significance and Criticism
 
-Allegro's interpretation of death and resurrection mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
+Allegro's interpretation of [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
 
 ## See Also
 
 - [[allegro-philological-methodology]]
 - [[allegro-fungal-iconography-in-ancient-art]]
-- [[controversy-sacred-mushroom-theory]]
-- [[sacred-mushroom-and-the-cross]], which proposed that the major religions of the ancient Near East and Mediterranean world were ultimately derived from a proto-historical mushroom cult. While this thesis has not gained acceptance in mainstream scholarship, it continues to be discussed in the field of entheogenic studies and has influenced contemporary debates about the role of psychoactive substances in the development of religious ideas.
+- controversy-sacred-mushroom-theory
+- [[sacred-mushroom-and-the-cross]], which proposed that the major religions of the [[allegro-fertility-philosophy-of-the-ancient-near-east]] East and Mediterranean world were ultimately derived from a proto-historical mushroom cult. While this thesis has not gained acceptance in mainstream scholarship, it continues to be discussed in the field of entheogenic studies and has influenced contemporary debates about the role of psychoactive substances in the development of religious ideas.
 
 The question of whether ancient peoples used psychoactive mushrooms in religious contexts is separate from the question of whether Allegro's specific philological claims are correct. Archaeological evidence for psychoactive plant use in antiquity has grown substantially since Allegro's work was published, and the [[psychedelic-therapy-current-research]], has renewed interest in the historical relationship between psychoactive substances and religious experience. While Allegro's specific claims about Sumerian and Hebrew philology remain controversial, his broader argument that psychoactive plants played a significant role in the development of human religious consciousness has found new support from researchers investigating the neuroscience of mystical experience and the anthropology of shamanism.
 - [[allegro-womans-part-in-the-creative-process]]
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

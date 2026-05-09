@@ -1,23 +1,24 @@
 ---
-title: Holzer Polycultures Catch Crop Combinations
+title: Holzer holzer polycultures catch crop combinations Crop Combinations
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
+  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Polyculture and Catch Crop Combinations
 
-Sepp Holzer's polyculture system is built on the principle that mixed plantings, like natural plant communities, create mutually beneficial relationships. Catch cropping (catch crops) and companion planting are central to his [[holzer-urban-farming]] work.
+Sepp Holzer's polyculture system is built on the principle that mixed plantings, like natural plant communities, create mutually beneficial relationships. Catch cropping (catch crops) and [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] are central to his [[holzer-urban-farming]] work.
 
 ## Core Principles
 
 1. No monoculture: every bed contains multiple species growing together
 2. Catch crops fill gaps between main crops, using space that would otherwise go to weeds
 3. Leguminous plants (beans, peas) fix nitrogen and support demanding crops
-4. Scent-bearing herbs repel pests and attract beneficial insects
+4. Scent-bearing herbs repel pests and attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 5. Deep-rooted plants break up compacted soil and bring nutrients to the surface
 6. Ground-cover plants protect soil from erosion and drying
 
@@ -28,13 +29,13 @@ Sepp Holzer's polyculture system is built on the principle that mixed plantings,
 - Runner beans + lettuce: Lettuce between bean plants provides cold protection. Lettuce presents no competition to beans. Sown mid-May at altitude.
 - Beans + carrots + radishes: Radishes germinate quickly, marking rows and breaking soil crust. Carrots develop slowly underneath.
 - Peas + maize: Classic combination. Maize provides support structure for peas.
-- Beans + peas + cabbage: Legumes improve soil for cabbage. Marigolds added for nematode control. Southernwood, basil, and mint repel pests with essential oils.
+- Beans + peas + cabbage: Legumes improve soil for cabbage. Marigolds added for nematode control. Southernwood, basil, and mint repel pests with [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]].
 - Beans + onions + marigolds: Onions deter bean beetles. Marigolds deter nematodes.
 
 ### Root Vegetable Combinations
 
 - Carrots + onions + leeks: Onions and leeks deter carrot fly. Carrots deter onion fly. The allium family is a natural companion for Daucus species.
-- Potatoes + marigolds + peas + beans: Marigolds deter nematodes in potato soil. Legumes add nitrogen. Onions may be added.
+- Potatoes + marigolds + peas + beans: Marigolds deter nematodes in potato soil. [[query-how-do-legumes-add-nitrogen-to-soil]] nitrogen. Onions may be added.
 - Beetroot + beans + peas + onions + radishes + lettuce + borage + cabbage: A rich polyculture. Borage attracts pollinators and deters cabbage moth.
 - Parsnip + lettuce + black salsify + onions + leeks: Deep-rooted parsnips break up subsoil. Lettuce provides ground cover.
 - Black salsify + onions + garlic + lettuce + carrots: Black salsify serves as decoy plant for voles near fruit trees.
@@ -43,7 +44,7 @@ Sepp Holzer's polyculture system is built on the principle that mixed plantings,
 
 - Pumpkin/courgette + beans + peas + maize + tomatoes + Good King Henry + Jerusalem artichokes: Jerusalem artichokes serve as windbreak. Good King Henry fills edge positions. Maize provides vertical structure.
 - Maize + beans + peas + tomatoes + lettuce: Lettuce as ground cover under maize. Beans climb maize. Tomatoes provide additional canopy.
-- Tomato + garlic + basil + spinach + beans + leeks + lettuce + peppers: Garlic and basil deter mildew and fungal disease in tomatoes. Spinach and lettuce fill gaps.
+- Tomato + garlic + basil + spinach + beans + leeks + lettuce + peppers: Garlic and basil deter mildew and [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] in tomatoes. Spinach and lettuce fill gaps.
 - Cucumber + peas + beans + garlic + basil: Garlic discourages fungal disease in cucumber. Peas and beans improve soil.
 
 ### Salad and Herb Combinations

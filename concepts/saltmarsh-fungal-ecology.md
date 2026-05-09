@@ -8,7 +8,7 @@ sources: []
 ---
 # Saltmarsh Fungal Ecology
 
-Fungal communities in saltmarsh ecosystems play a central role in the decomposition of **smooth cordgrass** (*Spartina alterniflora*), the dominant macrophyte of Atlantic coast saltmarshes. Ascomycete fungi are the primary decomposers of standing-dead cordgrass, driving lignocellulose breakdown through laccase-mediated enzymatic systems and forming a critical link in the coastal wetland food web.
+[[biodiversity-of-fungi-soil-fungal-communities-agriculture]] in saltmarsh ecosystems play a central role in the decomposition of **smooth cordgrass** (*[[spartina-alterniflora]]*), the dominant macrophyte of Atlantic coast saltmarshes. Ascomycete fungi are the primary decomposers of standing-dead cordgrass, driving lignocellulose breakdown through laccase-mediated enzymatic systems and forming a critical link in the coastal wetland food web.
 
 ## The Saltmarsh Decomposition System
 
@@ -46,7 +46,7 @@ Together, these species occupy **greater than 90%** of the blade area at sites w
 
 ### Community Identification Methods
 
-The fungal community has been characterized through complementary approaches:
+The [[air-pollution-fungal-community-responses]] has been characterized through complementary approaches:
 
 - **Direct microscopy**: observation of ascomata and capture of expelled ascospores from standing-decaying blades
 - **DNA-based methods**: rDNA/ITS PCR with ascomycete-selective primers, clone libraries, and T-RFLP analysis
@@ -79,12 +79,12 @@ Standing-dead smooth cordgrass is composed largely of **lignocellulose (70–75%
 
 ### Revised Decomposition Rates
 
-When tested under more realistic static conditions with malt and yeast extract:
+When tested under more realistic static conditions with malt and [[marmite-yeast-extract-straw-substrate]]:
 
 - *P. spartinicola* alone achieved mineralization rates >**0.8% d⁻¹**
 - A combination of the three predominant species achieved >**20% mineralization** after 6 weeks at ~23°C, with the rate still increasing
-- Direct transmission electron microscopy confirmed both **type 1 and type 2 soft rot** in naturally decaying shoots
-- Type 2 soft rot is very similar to the white rot of basidiomycetes
+- Direct transmission electron microscopy confirmed both **type 1 and type 2 [[staycare-soft-rot-fungi-in-pollutant-degradation]]** in naturally decaying shoots
+- Type 2 soft rot is very similar to the [[comparison-brown-rot-vs-white-rot-bioremediation]] of basidiomycetes
 
 ## Ascomycete Laccase Genes
 
@@ -111,7 +111,7 @@ Degenerate PCR primers targeting conserved sequences within copper-binding sites
 **Cordgrass ascomycete strains** (4–5 strains each of the three predominant species, plus 1–3 strains of six less frequent species):
 - **All species possessed laccase genes** in at least one strain
 - All strains of the two major *Phaeosphaeria* species gave laccase PCR products
-- Between them, they exhibited **five different types** of partial laccase gene (<96% amino acid similarity)
+- Between them, they exhibited **five different types** of partial laccase gene (<96% [[cho-fish-amino-acid-preparation]] similarity)
 - As many as **three different types** within a single strain
 - **13 distinct sequence types** obtained across all strains tested
 
@@ -142,6 +142,8 @@ The saltmarsh environment presents unique challenges:
 - Desiccation during low-tide exposure
 - Seasonal temperature variations
 
-- [[fungi-in-the-environment-soil-fungal-community-structure]]
-- [[singh-fungal-community-analysis-molecular-methods]]
-- [[fungal-communities-water-aquatic-ecosystems]]
+- fungi-in-the-environment-soil-fungal-community-structure
+## See Also
+- [[fungal-ecology]]
+- [[decomposition]]
+- [[pycnoporus-cinnabarinus]]

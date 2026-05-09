@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Theory - Discriminating vs Nondiscriminating Knowledge
+title: Fukuoka Theory - fukuoka theory discriminating vs nondiscriminating knowledge Knowledge
 created: 2026-04-28
 tags:
   - fukuoka
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
@@ -26,7 +27,7 @@ for how one approaches farming. Fukuoka argues that the entire edifice of
 modern agricultural science rests on discriminating knowledge, which
 fundamentally misunderstands the nature of the natural world. Only by
 moving beyond discrimination to nondiscriminating awareness can one
-practice true natural farming.
+practice true [[comparison-natural-farming-vs-permaculture]].
 
 ## The Problem of Discriminating Knowledge
 
@@ -85,11 +86,11 @@ them like dead tissue under a microscope. The scientist, unable to see
 light as anything other than a purely physical phenomenon, is blind to
 light.
 
-Similarly, the soil scientist explains that crops grow under the effects
+Similarly, the soil scientist explains that [[fukuoka-textdoc-crops-grow-own-accord-independence-fertilizer]] under the effects
 of water and nutrients, but what he has in his laboratory is dead,
 mineral soil, not [[do-nothing-farming]]": not because no activity occurs, but
 because the farmer refrains from the discriminating interventions that
-characterize scientific agriculture.
+characterize [[fukuoka-critique-scientific-agriculture-civilization]].
 
 ## Connection to Broader Fukuoka Philosophy
 
@@ -98,5 +99,7 @@ Fukuoka's thought. His rejection of causal explanations in agriculture,
 his argument that diseases are nature's self-defense, and his vision of
 farming as a spiritual practice all flow from this fundamental
 ## See Also
+
+- [[fukuoka-microbes-soil-health-discriminating-knowledge]]
 
 - [[fukuoka-theory-three-ways-of-farming]]

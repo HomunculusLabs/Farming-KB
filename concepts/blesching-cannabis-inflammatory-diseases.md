@@ -16,8 +16,8 @@ type: concept
 
 # Cannabis and Inflammatory Diseases
 
-Inflammation is a fundamental biological response with implications for
-virtually every chronic disease. According to [[endocannabinoid-system]] and Inflammation
+Inflammation is a fundamental [[medicinal-mushrooms-biological-response-modifiers]] with implications for
+virtually every chronic disease. According to [[cannabis-health-endo-cannabinoid-system]] and Inflammation
 
 The endocannabinoid system plays a central role in modulating inflammatory
 responses throughout the body. CB2 receptors, concentrated in immune cells,
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

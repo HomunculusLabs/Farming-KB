@@ -13,7 +13,7 @@ created: 2026-04-28
 updated: 2026-04-28
 sources:
   - Seki, T., et al. (2010). "Anti-inflammatory Activity of Monoterpenes." Inflammation, 33(5), 353-357.
-  - Vallverdú-Queralt, A., et al. (2015). "Bioactive Compounds in Essential Oils." Phytochemistry Reviews, 14(5), 745-766.
+  - Vallverdú-Queralt, A., et al. (2015). "[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in Essential Oils." Phytochemistry Reviews, 14(5), 745-766.
   - https://pubchem.ncbi.nlm.nih.gov/compound/camphene
   - https://www.phytochemistryjournal.com/
 ---
@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-Camphene is a bicyclic monoterpene hydrocarbon (C₁₀H₁₆) found in the essential oils of numerous plants, particularly coniferous trees, cypress, camphor basil, and several culinary herbs. It is one of the ten most common terpenes found in cannabis, typically present at 0.1–0.5% of the essential oil profile in most chemovars.
+Camphene is a bicyclic monoterpene hydrocarbon (C₁₀H₁₆) found in the essential oils of numerous plants, particularly coniferous trees, cypress, camphor basil, and several [[holzer-medicinal-and-culinary-herbs-compendium]]. It is one of the ten most common terpenes found in cannabis, typically present at 0.1–0.5% of the essential oil profile in most chemovars.
 
 The compound contributes a distinctive piney, woody, and damp-earth aroma that is recognizable in many essential oil blends and cannabis cultivars. Beyond its sensory properties, camphene has attracted pharmacological interest for its antioxidant, cardiovascular, and potential therapeutic effects.
 
@@ -73,9 +73,9 @@ Camphene exhibits several pharmacological properties supported by preclinical ev
 
 ## Cannabis Terpene Context
 
-Within cannabis, camphene contributes to the complex aroma bouquet and participates in the entourage effect alongside cannabinoids and other terpenes. Its piney-woody character is most apparent in strains that also express high levels of pinene and myrcene.
+Within cannabis, camphene contributes to the complex aroma bouquet and participates in the [[cannabis-terpene-entourage-effect-profiles]] alongside cannabinoids and other terpenes. Its piney-woody character is most apparent in strains that also express high levels of pinene and myrcene.
 
-Research into camphene's specific role in the cannabis entourage effect has identified potential synergy with THC in modulating pain perception and with CBD in anti-inflammatory pathways. The compound's lipid-lowering properties may counterbalance some of the metabolic effects associated with chronic THC use, though this remains speculative pending clinical investigation.
+Research into camphene's specific role in the [[query-what-is-the-cannabis-entourage-effect]] effect has identified potential synergy with THC in modulating pain perception and with CBD in anti-inflammatory pathways. The compound's lipid-lowering properties may counterbalance some of the metabolic effects associated with chronic THC use, though this remains speculative pending clinical investigation.
 
 Camphene-rich cannabis cultivars are sometimes preferred by medical patients seeking cardiovascular benefits or antioxidant support, though the clinical relevance of terpene-level contributions remains an active area of research.
 
@@ -91,7 +91,7 @@ In traditional medicine, camphene-rich essential oils (particularly cypress and 
 
 ## Safety and Regulatory Status
 
-Camphene has a well-established safety profile for its common applications, though specific safety data is less extensive than for more widely studied terpenes like limonene and linalool.
+Camphene has a well-established [[cannabis-safety-profile-and-overdose-risk]] for its common applications, though specific safety data is less extensive than for more widely studied terpenes like limonene and linalool.
 
 Acute toxicity is low, with oral LD₅₀ values in rodents exceeding 5 g/kg. Camphene is not classified as mutagenic, carcinogenic, or teratogenic based on available in vitro and in vivo data. Skin irritation potential is minimal at concentrations used in cosmetics and topical preparations.
 
@@ -105,7 +105,7 @@ Camphene is structurally and functionally related to several other monoterpenes 
 
 **α-Pinene** is the closest structural relative, sharing the bicyclic framework. Both contribute piney aromas and exhibit bronchodilatory and anti-inflammatory effects. Pinene is generally more abundant in cannabis than camphene.
 
-**Bornyl acetate** (a camphene derivative ester) shares the same bicyclic skeleton and is found in similar botanical sources. It contributes balsamic-woody notes to essential oils and has its own anti-inflammatory profile.
+**Bornyl acetate** (a camphene derivative ester) shares the same bicyclic skeleton and is found in similar [[dmt-botanical-sources-pharmacology]]. It contributes balsamic-woody notes to essential oils and has its own anti-inflammatory profile.
 
 **Sabinene** is a structural isomer with similar woody-spicy aroma characteristics. It is more commonly associated with black pepper and juniper berry oils.
 

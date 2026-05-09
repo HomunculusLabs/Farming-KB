@@ -1,5 +1,5 @@
 ---
-title: Small Dam Site Selection and Design
+title: Small Dam fukuoka-creating-natural-farm-site-selection-establishment and Design
 created: 2026-04-28
 tags:
   - water-harvesting
@@ -17,7 +17,7 @@ type: concept
 # Small Dam Site Selection and Design
 
 [[backyard-water-harvesting]] in
-[[permaculture-designers-manual-bamboo]], Bill
+permaculture-designers-manual-bamboo, Bill
 Mollison provides detailed guidance on selecting suitable dam sites and
 designing storage systems that maximise water availability while minimising
 cost, maintenance, and ecological impact. Properly sited and constructed
@@ -93,11 +93,14 @@ with a sheepsfoot roller. Clay soils typically need 3:1 upstream slopes and
 5 to 10 percent additional height allowed for post-construction settlement.
 ## See Also
 
+- mollison-designers-wind-generator-design-small-scale
+- [[mollison-designers-crop-multiplier-selection-breeding]]
+
 - [[organic-vegetable-growing-calendar]] for complementary earthwork water-harvesting techniques
-- [[water-catchment-permaculture]] for broader water management strategies
+- water-catchment-permaculture for broader water management strategies
 - [[water-management]] for integrated water cycle design
 
 ## Related Pages
 
 [[pond-and-aquaculture]] covers integrated pond systems that complement small dam infrastructure.
-[[mollison-designers-duck-pond-integrated-systems]] shows how dams integrate with livestock and food production.
+mollison-designers-duck-pond-integrated-systems shows how dams integrate with livestock and food production.

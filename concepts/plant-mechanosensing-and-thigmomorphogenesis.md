@@ -29,7 +29,7 @@ and mount appropriate responses, much as the human somatosensory system
 differentiates between a light brush and a firm pressure.
 
 Additional mechanosensing mechanisms involve stretch-activated channels in
-the cell wall and cytoskeleton, integrin-like proteins that connect the
+the [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] and cytoskeleton, integrin-like proteins that connect the
 extracellular matrix to intracellular signaling networks, and specialized
 receptor kinases that perceive cell wall integrity. The plant cytoskeleton
 itself acts as a tension-sensing framework, reorganizing in response to
@@ -56,7 +56,7 @@ of touching per day being sufficient to alter stem morphology.
 The hormonal basis of thigmomorphogenesis involves complex interactions
 between auxin, ethylene, gibberellins, and jasmonic acid. Mechanical
 stimulation triggers a rapid increase in ethylene production, which
-inhibits cell elongation and promotes radial growth. Simultaneously,
+inhibits [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] and promotes radial growth. Simultaneously,
 auxin redistribution patterns change, redirecting growth resources from
 vertical extension to lateral thickening. Jasmonic acid, better known
 for its role in defense signaling, also participates in the
@@ -68,7 +68,7 @@ defense readiness.
 Beyond the slow developmental changes of thigmomorphogenesis, some plants
 exhibit rapid touch responses visible on timescales of seconds to minutes.
 These fast movements, classified as thigmonastic (touch-induced) or
-seismonastic (vibration-induced), rely on changes in turgor pressure within
+seismonastic (vibration-induced), rely on changes in [[bloomfield-turgor-pressure-and-hyphal-invasion]] within
 specialized motor cells called pulvini.
 
 The Venus flytrap (Dionaea muscipula) represents perhaps the most
@@ -106,3 +106,8 @@ gene expression programs. The interplay between mechanosensing and
 
 - [[plant-memory-and-learning]]
 - [[what-a-plant-knows-plant-vision-and-light-perception]]
+
+## See Also
+
+- [[plant-mechanoperception-thigmomorphogenesis]]
+- [[plant-thigmomorphogenesis-and-mechanosensing]]

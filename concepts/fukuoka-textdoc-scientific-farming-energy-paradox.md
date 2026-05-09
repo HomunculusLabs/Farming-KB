@@ -1,5 +1,5 @@
 ---
-title: "Scientific Farming Energy Paradox"
+title: "fukuoka-illusions-scientific-farming-centrifugal-centripetal-model Energy Paradox"
 created: 2026-04-28
 tags: [fukuoka, natural-farming, energy-efficiency, scientific-agriculture,
 critique, food-production]
@@ -16,7 +16,7 @@ progress in agriculture leads to greater efficiency and productivity.
 
 ## Energy Accounting in Rice Production
 
-Fukuoka provides concrete figures comparing the energy efficiency of five
+Fukuoka provides concrete figures comparing the [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] of five
 different rice production methods. [[natural-diet]]. Ten times as much energy was
 expended in traditional farming with horses and oxen. The energy input was
 doubled again with small-scale mechanization, and doubled yet again with large-
@@ -36,12 +36,12 @@ low productivity of the land drives farmers to large-scale operations, which
 require mechanization with machinery of increasing size. This "big iron" breaks
 down the structure of the soil, setting up a negative cycle.
 
-Fukuoka observed during his 1979 visit to the United States that U.S. farmers
+Fukuoka observed during his 1979 visit to the [[dmt-containing-plants-united-states-halpern]] that U.S. farmers
 working 500 to 700 acres have smaller net incomes than Japanese farmers on 3 to
 5 acres. This demonstrates that large-scale, energy-intensive monoculture is
 commercially fragile as well as ecologically destructive. The transition from
 human-powered to animal-powered to machine-powered agriculture has not improved
-the net energy return to society.
+the [[fukuoka-agricultural-production-net-energy-deduction]] return to society.
 
 ## See Also
 
@@ -62,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

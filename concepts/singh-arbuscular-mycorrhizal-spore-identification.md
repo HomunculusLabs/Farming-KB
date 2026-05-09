@@ -1,5 +1,5 @@
 ---
-title: Arbuscular Mycorrhizal Spore Identification
+title: comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi Spore Identification
 created: 2026-04-28
 tags:
   - arbuscular-mycorrhiza
@@ -21,8 +21,8 @@ multicellular spores that serve as the primary basis for species
 identification and taxonomic classification. Since AM fungi cannot be
 cultured axenically and their vegetative structures are morphologically
 conservative, spore morphology remains the cornerstone of AM fungal
-identification despite advances in molecular approaches. Singh's coverage
-of AM spore biology connects to [[singh-mycorrhizal-helper-bacteria-tripartite-interactions]].
+identification despite advances in [[staycare-molecular-approaches-fungal-bioremediation]]. Singh's coverage
+of AM [[fungal-spore-biology-dispersal]] connects to [[singh-mycorrhizal-helper-bacteria-tripartite-interactions]].
 
 ## Overview of Glomeromycota Spore Diversity
 
@@ -37,7 +37,7 @@ reflects both phylogenetic relationships and ecological adaptation.
 ## Spore Wall Structure
 
 ### Wall Layers and Terminology
-AM fungal spore walls typically consist of two to five distinct layers,
+AM [[bloomfield-fungal-spore-discharge-and-dispersal]] walls typically consist of two to five distinct layers,
 each with characteristic thickness, texture, color, and reaction to
 melzer's reagent. The outermost layer (L1) is often evanescent,
 degrading or sloughing off as spores mature, while inner layers tend
@@ -71,7 +71,7 @@ extraradical mycelium (or, in some species, the sporiferous saccule).
 Its morphology provides critical taxonomic information:
 
 - Spore attachment: spores may be formed laterally on the subtending
-  hypha (Gigaspora, Scutellospora) or terminally at the hyphal tip
+  hypha (Gigaspora, Scutellospora) or terminally at the [[gadd-hyphal-tip-growth-and-branching-mechanisms]]
   (Glomus, Rhizophagus, Funneliformis).
 - Hyphal closure: the pore between the spore lumen and the subtending
   hypha may be open or occluded by a septum, a plug, or a thickened
@@ -116,3 +116,5 @@ complements morphological identification.
 Spore-based identification faces several challenges. Spores of different
 species may be morphologically indistinguishable ([[cryptic-species]]), a
 ## See Also
+
+- [[singh-arbuscular-mycorrhizal-diversity-grassland-ecosystems]]

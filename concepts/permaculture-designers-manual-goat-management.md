@@ -1,100 +1,17 @@
 ---
-title: Goat Management
+title: mollison-designers-goat-management-and-browsing-systems
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
-tags: [[permaculture, goats, animal-husbandry, forage]
+tags: [permaculture, goats, animal-husbandry, forage]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
+# Goat Management **Source:** Permaculture: A Designers' Manual, Bill Mollison (1988) **Updated:** 2026-04-18 ## Overview Goats are among the most versatile and useful domestic animals in permaculture systems. Mollison highlights their ability to convert thorny, bitter, and otherwise unpalatable vegetation into usable products -- milk, meat, fibre, and manure. They serve as browsers where other livestock cannot effectively operate. ## Goat Functions in Systems ### Browse Conversion Goats will browse thorny and bitter shrubs that other livestock reject. As Mollison states, "herons eat poisonous toadfish, and goats will browse thorny and bitter shrubs. Thus we can specify these useful conversions." This makes goats essential for: - Clearing woody weeds and invasive brush - Utilising marginal forage on rocky hillsides - Controlling regrowth after initial clearing by other animals - Preparing land for planting (pen goats on a site, then shut them out and plant) ### Successional Grazing In the sequential grazing model, goats follow horses, which follow cattle, which follow sheep. This succession uses different browse levels and plant preferences: - Cattle graze tall grasses and legumes - Sheep follow on shorter grasses - Horses crop closer still - Goats browse shrubs, weeds, and woody regrowth This informed scheduling enables graziers to make much better use of the basic browse resource by dynamically balancing levels through species succession, not by keeping one level of browse constant. ## Goat Systems in Arid Areas In arid zone animal systems (Section 11.12), goats are listed among the highly selected and controlled meat and milk flocks that thrive in deserts, alongside sheep, cattle, donkeys, and camels. They succeed when: - Herded or penned in 15 or so rotated runs - Each run gets 2-8 years to recover and re-seed - Some successful Australian graziers allow 7-9 years rest per paddock - Small, high-value herds are run on copious range Goats are particularly suited to arid environments because, like deer, kangaroo, and some antelope, they can exist without free surface water except in extreme drought conditions -- obtaining moisture from forage. ## Goat-Pig Integration for Weed Control Mollison describes a practical method for controlling rampant blackberry (Rubus fruticosus) over areas of 0.1-2.0 hectares: - Erect permanent electric fencing to reduce the area to 0.4 hectare (1 acre) lots - Release 20 pigs per lot, followed by 12 goats on rotation - Over 2-4 years, pigs eat the roots and goats consume any regrowth - This is permanent if followed by: sheep/goats grazing later; planting to forest; or regular hay cutting ## Animal Barriers for Goats Corrals or cattle-goat-sheep barriers in tropical systems can be strengthened with one or two strands of barbed wire, but should have the potential to resist on their own. These involve thorny or distasteful shrubs, either planted as a hedge or as a coppice crop cut and built into a thorn fence (boma). Suitable barrier species include thorny plants that goats will not readily penetrate, providing living fencing that also yields forage, fuel, or structural materials when managed. ## Goat Housing In the village complex model, goats are housed among the Zone 2 forage animals along with milk cows and poultry. Housing requirements include: - Dense shade shelters in hot climates - Access to clean water - Protection from predators at night - Fenced yards for night confinement and manure collection - Integration with methane digester systems for waste processing ## Zone Placement Goats occupy Zone 2 in the permaculture zonation model: - Forage ranges for milk goats can be placed in Zone 2 - Where winter forces animals indoors, joint accommodation with other stock is normal - In milder climates, goats browse freely in Zone 2 orchards and woodlots ## Goat Products and Yields Goats contribute multiple products to the permaculture system: - **Milk:** High-quality milk for household consumption or cheese production - **Meat:** Efficient conversion of browse to protein - **Fibre:** Angora and cashmere goats produce specialty fibres - **Manure:** Valuable fertiliser for gardens and orchards - **Clearing service:** Brush and weed control as a primary function ## Key Design Principles 1. **Rotational grazing:** Never allow continuous grazing; rotate through 15+ paddocks with long rest periods 2. **Small herds:** Prefer small, high-value herds on abundant range over large herds on stressed land 3. **Species mix:** Combine goats with cattle, sheep, and poultry for complete browse utilisation 4. **Shelter provision:** Always provide shade, windbreaks, and night housing 5. **Living fences:** Use thorny hedge species for barriers that also yield products 6. **Water access:** Ensure reliable water; goats can survive on forage moisture but produce better with access to water ## Related
 
-# Goat Management
-
-**Source:** Permaculture: A Designers' Manual, Bill Mollison (1988)
-**Updated:** 2026-04-18
-
-## Overview
-
-Goats are among the most versatile and useful domestic animals in permaculture systems. Mollison highlights their ability to convert thorny, bitter, and otherwise unpalatable vegetation into usable products -- milk, meat, fibre, and manure. They serve as browsers where other livestock cannot effectively operate.
-
-## Goat Functions in Systems
-
-### Browse Conversion
-Goats will browse thorny and bitter shrubs that other livestock reject. As Mollison states, "herons eat poisonous toadfish, and goats will browse thorny and bitter shrubs. Thus we can specify these useful conversions." This makes goats essential for:
-- Clearing woody weeds and invasive brush
-- Utilising marginal forage on rocky hillsides
-- Controlling regrowth after initial clearing by other animals
-- Preparing land for planting (pen goats on a site, then shut them out and plant)
-
-### Successional Grazing
-In the sequential grazing model, goats follow horses, which follow cattle, which follow sheep. This succession uses different browse levels and plant preferences:
-- Cattle graze tall grasses and legumes
-- Sheep follow on shorter grasses
-- Horses crop closer still
-- Goats browse shrubs, weeds, and woody regrowth
-
-This informed scheduling enables graziers to make much better use of the basic browse resource by dynamically balancing levels through species succession, not by keeping one level of browse constant.
-
-## Goat Systems in Arid Areas
-
-In arid zone animal systems (Section 11.12), goats are listed among the highly selected and controlled meat and milk flocks that thrive in deserts, alongside sheep, cattle, donkeys, and camels. They succeed when:
-- Herded or penned in 15 or so rotated runs
-- Each run gets 2-8 years to recover and re-seed
-- Some successful Australian graziers allow 7-9 years rest per paddock
-- Small, high-value herds are run on copious range
-
-Goats are particularly suited to arid environments because, like deer, kangaroo, and some antelope, they can exist without free surface water except in extreme drought conditions -- obtaining moisture from forage.
-
-## Goat-Pig Integration for Weed Control
-
-Mollison describes a practical method for controlling rampant blackberry (Rubus fruticosus) over areas of 0.1-2.0 hectares:
-- Erect permanent electric fencing to reduce the area to 0.4 hectare (1 acre) lots
-- Release 20 pigs per lot, followed by 12 goats on rotation
-- Over 2-4 years, pigs eat the roots and goats consume any regrowth
-- This is permanent if followed by: sheep/goats grazing later; planting to forest; or regular hay cutting
-
-## Animal Barriers for Goats
-
-Corrals or cattle-goat-sheep barriers in tropical systems can be strengthened with one or two strands of barbed wire, but should have the potential to resist on their own. These involve thorny or distasteful shrubs, either planted as a hedge or as a coppice crop cut and built into a thorn fence (boma).
-
-Suitable barrier species include thorny plants that goats will not readily penetrate, providing living fencing that also yields forage, fuel, or structural materials when managed.
-
-## Goat Housing
-
-In the village complex model, goats are housed among the Zone 2 forage animals along with milk cows and poultry. Housing requirements include:
-- Dense shade shelters in hot climates
-- Access to clean water
-- Protection from predators at night
-- Fenced yards for night confinement and manure collection
-- Integration with methane digester systems for waste processing
-
-## Zone Placement
-
-Goats occupy Zone 2 in the permaculture zonation model:
-- Forage ranges for milk goats can be placed in Zone 2
-- Where winter forces animals indoors, joint accommodation with other stock is normal
-- In milder climates, goats browse freely in Zone 2 orchards and woodlots
-
-## Goat Products and Yields
-
-Goats contribute multiple products to the permaculture system:
-- **Milk:** High-quality milk for household consumption or cheese production
-- **Meat:** Efficient conversion of browse to protein
-- **Fibre:** Angora and cashmere goats produce specialty fibres
-- **Manure:** Valuable fertiliser for gardens and orchards
-- **Clearing service:** Brush and weed control as a primary function
-
-## Key Design Principles
-
-1. **Rotational grazing:** Never allow continuous grazing; rotate through 15+ paddocks with long rest periods
-2. **Small herds:** Prefer small, high-value herds on abundant range over large herds on stressed land
-3. **Species mix:** Combine goats with cattle, sheep, and poultry for complete browse utilisation
-4. **Shelter provision:** Always provide shade, windbreaks, and night housing
-5. **Living fences:** Use thorny hedge species for barriers that also yield products
-6. **Water access:** Ensure reliable water; goats can survive on forage moisture but produce better with access to water
-
-## Related Topics
-
-- [[permaculture-designers-manual-animal-housing-detailed]] - Housing design for small livestock
-- [[permaculture-designers-manual-arid-climates]] - Arid zone design principles
-- [[permaculture-designers-manual-tropical-climates]]
-- [[permaculture-designers-manual-grazing-animals]]
+- [[permaculture-goat-raising]] Topics - [[permaculture-designers-manual-animal-housing-detailed]] - Housing design for small livestock
+- permaculture-designers-manual-arid-climates - Arid [[permaculture-zone-design-comparison]] principles
+- permaculture-designers-manual-tropical-climates
+- permaculture-designers-manual-grazing-animals
+- [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]]
+- [[rubus-fruticosus]]
+- [[bill-mollison]]

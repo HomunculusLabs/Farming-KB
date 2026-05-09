@@ -7,7 +7,7 @@ neurons, and nervous systems, yet they demonstrate both the ability to
 remember past experiences and to maintain an internal representation of their
 body's orientation in space. These capabilities, documented extensively in
 Daniel Chamovitz's *What a Plant Knows*, operate through biochemical and
-physiological mechanisms that are fundamentally different from animal
+[[brassinosteroid-physiological-mechanisms-cell-elongation-division]] that are fundamentally different from animal
 cognition but achieve functionally similar outcomes in terms of adaptive
 behavior.
 
@@ -89,12 +89,12 @@ inhibition in roots, promotion in shoots — ensure that the entire plant body
 correctly reorients after a disturbance.
 
 Charles Darwin and his son Francis also studied gravitropism extensively in
-*The Power of Movement in Plants* (1880), demonstrating that the root cap
+*The [[darwin-power-of-movement-in-plants]] in Plants* (1880), demonstrating that the root cap
 (which contains the gravity-sensing columella cells) is necessary for roots to
 respond to gravity. Removing the root cap abolishes gravitropic sensitivity,
 just as removing the shoot tip abolishes phototropic sensitivity. The parallel
 experiments on light and gravity sensing represent some of the earliest
-systematic studies of plant sensory biology and established the experimental
+systematic studies of plant [[plant-sensory-biology-smell-touch-hearing]] and established the experimental
 paradigm still used today.
 
 ## The Aware Plant: Integration of Sensory Information
@@ -103,7 +103,7 @@ The accumulated evidence from decades of research paints a picture of plants
 as remarkably aware organisms — not conscious in the human sense, but capable
 of sophisticated perception, information processing, and adaptive response.
 Plants simultaneously monitor light (color, direction, duration, and
-intensity), chemical signals from other organisms, mechanical forces, gravity,
+intensity), [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] from other organisms, mechanical forces, gravity,
 temperature, moisture gradients, and numerous other environmental parameters.
 They integrate this information through complex signaling networks involving
 hormones (auxin, gibberellins, cytokinins, abscisic acid, ethylene,

@@ -1,5 +1,5 @@
 ---
-title: "Critique of Wasson's Mycophobia and Mycophilia Theory"
+title: "Critique of Wasson's Mycophobia and wasson mycophobia mycophilia theory critique"
 created: 2026-04-26
 tags:
   - ethnomycology
@@ -60,7 +60,7 @@ dangers.
 ## Empirical Evidence Contradicts the Thesis
 
 A long-term study conducted during the 1970s in Colorado, where there
-was no widespread custom of gathering wild mushrooms, found an average
+was no widespread custom of gathering [[edible-wild-mushrooms-by-region]], found an average
 of only six cases of accidental poisoning per year requiring hospital
 treatment. Fatalities were so rare as to be virtually non-existent. By
 contrast, in the Polish province of Poznan, which has a similar
@@ -70,7 +70,7 @@ which around ten per cent proved fatal. The risk of being killed by
 mushrooms was substantially higher in the nominally mycophilic culture,
 directly contradicting Wasson's thesis.
 
-This suggests that folk wisdom regarding mushroom identification is
+This suggests that folk wisdom regarding [[psilocybin-mushroom-identification-guide]] is
 worryingly unreliable: without a decent field guide, the safest option
 remains not to go mushroom-picking at all. The data undermines the
 notion that mycophilic cultures possess some special, inherited
@@ -79,10 +79,10 @@ relationship with fungi.
 ## Mycophagy Changes Over Time
 
 Patterns of mushroom eating are not set in stone as Wasson supposed,
-but change with time. During the nineteenth century it was common for
+but change with time. During the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] it was common for
 wild mushrooms to be sold at British markets, but fear of poisoning,
 encouraged by various incidents, meant that this had largely died out
-by the twentieth century. During the Second World War, the British
+by the [[coleman-louis-savier-twentieth-century-maraicher]]. During the Second World War, the British
 government actively encouraged people to learn how to identify edible
 mushrooms safely. The campaign was successful and wild mushroom
 consumption duly increased, until after the war when commercial
@@ -109,7 +109,7 @@ So even though the terms mycophobia and mycophilia have achieved
 currency within mycological circles, they are applied inaccurately, are
 based upon misleading assumptions, and should be abandoned as scientific
 terms. Likewise, though the archaeological record is sufficiently vague
-for the possibility of ancient magic mushroom use to remain open,
+for the possibility of ancient [[australian-magic-mushroom-common-names]] use to remain open,
 Wasson's lavish speculations failed to demonstrate that this was
 definitely the case. While cultural anxieties about mushrooms have been
 expressed since classical times, there is nothing to suggest that these
@@ -122,6 +122,9 @@ ideas, Wasson's mycophobia-mycophilia hypothesis has had its day.
 
 ## Related Topics
 
-- [[gordon-wasson-mushroom-discovery]] - Wasson's Mexico expeditions
-- [[mushroom-foraging-traditions-europe]] - European foraging practices
+- gordon-wasson-mushroom-discovery - Wasson's Mexico expeditions
+- mushroom-foraging-traditions-europe - European foraging practices
 - [[european-mushroom-poisoning-history]] - historical poisoning cases
+- [[wasson-mycophobia-mycophilia-theory]]
+- mushroom-identification
+- [[fukuoka-high-yield-theory-photosynthesis-critique]]

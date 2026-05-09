@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Greenhouse Seed Co. (2024). "Strain Profile: Amnesia Haze." Greenhouse Seeds.
-  - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency." Biological Psychiatry, 79(7), 613-619.
+  - ElSohly, M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]]." Biological Psychiatry, 79(7), 613-619.
   - Hazekamp, A. & Fischedick, J.T. (2012). "Cannabis — from cultivar to chemotaxonomy." Euphytica, 184(1), 13-25.
   - Smart, R. et al. (2017). "The diversity of cannabis." Scientific Reports, 7, 46551.
   - Peace, M.R. et al. (2016). "Cannabis potency." Journal of Forensic Sciences, 61(5), 1300-1306.
@@ -33,7 +33,7 @@ Amnesia Haze's genetic background reflects Southeast Asian and Jamaican landrace
 
 The Southeast Asian parent contributes the strain's tall stature, long flowering time, and potent uplifting effects. Jamaican genetics add citrus aroma notes and additional sativa-dominant characteristics that enhance the cerebral profile.
 
-Greenhouse Seed Co. is credited with stabilizing and popularizing the cultivar in the early 2000s. The breeding program selected for potency, yield, and the distinctive terpene profile that distinguishes Amnesia Haze from other haze-dominant varieties.
+Greenhouse Seed Co. is credited with stabilizing and popularizing the cultivar in the early 2000s. The [[cervantes-breeding-program-design-goal-setting]] selected for potency, yield, and the distinctive terpene profile that distinguishes Amnesia Haze from other haze-dominant varieties.
 
 Several phenotypic variants exist within the broader Amnesia Haze gene pool. The "Amnesia" cut circulating in European coffee shops is a distinct pheno from the original Greenhouse release, showing slightly different flowering times and terpene ratios.
 
@@ -71,13 +71,13 @@ Common side effects include dry mouth and dry eyes. Higher doses may produce anx
 
 ## Cultivation
 
-Amnesia Haze has a relatively long flowering period of 10-12 weeks when grown indoors, reflecting its tropical sativa genetics. Outdoor cultivation requires a Mediterranean or subtropical climate with a long growing season and harvest in late October to early November.
+Amnesia Haze has a relatively long flowering period of 10-12 weeks when grown indoors, reflecting its [[oner-hawaiian-and-tropical-sativa-strains]] genetics. Outdoor cultivation requires a Mediterranean or subtropical climate with a long growing season and harvest in late October to early November.
 
-Indoor yields range from 500-600 g/m² under optimal conditions. The plants stretch significantly during the vegetative phase and early flowering, requiring adequate vertical space. SCROG and LST techniques are commonly employed to manage height.
+Indoor yields range from 500-600 g/m² under optimal conditions. The plants stretch significantly during the [[green-cannabis-grow-bible-vegetative-phase-management]] and early flowering, requiring adequate vertical space. SCROG and LST techniques are commonly employed to manage height.
 
 The strain responds well to moderate nutrient levels during vegetative growth, with reduced nitrogen during mid-to-late flowering. Calmag supplementation is recommended, as the vigorous sativa growth can deplete calcium reserves.
 
-Pest resistance is moderate, with particular susceptibility to spider mites in dry indoor environments. Proper air circulation and humidity management (45-55% RH during flowering) help prevent mold and mildew on the dense bud sites.
+Pest resistance is moderate, with particular susceptibility to spider mites in dry indoor environments. Proper air circulation and [[stamets-cultivator-humidity-management-fogging-systems]] (45-55% RH during flowering) help prevent mold and mildew on the dense bud sites.
 
 ## Notable Phenotypes
 
@@ -85,7 +85,7 @@ Several distinct phenotypes of Amnesia Haze circulate in the global cannabis mar
 
 The "Original Amnesia" phenotype is characterized by slightly shorter flowering times (9-10 weeks) and a more balanced terpene profile with pronounced earthy notes. This version is common in Spanish and Dutch cannabis social clubs.
 
-A "Caramel" variant has been identified in some European markets, expressing sweeter terpene profiles with reduced limonene and increased ocimene. This pheno tends to produce slightly lower THC but offers a smoother smoking experience.
+A "Caramel" variant has been identified in some European markets, expressing sweeter [[cannabis-terpene-profiles-sativa]] with reduced limonene and increased ocimene. This pheno tends to produce slightly lower THC but offers a smoother smoking experience.
 
 The "Amnesia Mac" cross, combining Amnesia Haze with MAC genetics, represents a modern breeding trend. This hybrid aims to retain Amnesia's cerebral effects while reducing flowering time and increasing bud density through indica influence.
 
@@ -101,9 +101,11 @@ The low CBD content means minimal antipsychotic counterbalance to THC's psychoac
 
 ## See Also
 
+- [[cis-haze]]
+
 - [[northern-lights]]
 - [[chemdawg]]
-- [[wedding-cake-cannabis]]
+- [[wedding-cake]]
 - [[sour-diesel]]
 - [[runtz-entity]]
 - [[ak-47-cannabis]]

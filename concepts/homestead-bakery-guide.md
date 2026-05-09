@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [food, homesteading, off-grid, recipe, grain, processing, nutrition]
-sources: []
+sources:
+  sources: []
 ---
 
 ## Overview
@@ -15,19 +16,19 @@ A homestead bakery transforms home-milled or purchased grains into bread and bak
 
 ### What Is Sourdough
 
-Sourdough is bread leavened by wild lactobacilli and wild yeast (naturally occurring in flour and the environment) rather than commercial baker's yeast. The symbiotic relationship between these microorganisms produces:
+Sourdough is bread leavened by wild lactobacilli and [[comparison-sourdough-vs-wild-yeast-bread]] (naturally occurring in flour and the environment) rather than commercial baker's yeast. The symbiotic relationship between these microorganisms produces:
 
 - **Carbon dioxide** — Leavens the bread (from wild yeast)
 - **Lactic and acetic acid** — Flavor and preservation (from lactobacilli)
-- **Enzymes** — Break down complex carbohydrates and gluten, improving digestibility
+- **Enzymes** — [[query-can-fungi-break-down-plastic-pollution]] complex carbohydrates and gluten, improving digestibility
 - **Lower glycemic index** — The acid and fermentation slow sugar absorption
-- **Extended shelf life** — Acidic environment inhibits mold growth (sourdough keeps 5-7 days without preservatives)
+- **Extended [[psilocybin-shelf-life-stability]]** — Acidic environment inhibits mold growth (sourdough keeps 5-7 days without preservatives)
 
 ### Creating a Sourdough Starter
 
 A starter is a stable culture of wild yeast and lactobacilli maintained with regular flour and water feedings:
 
-**Day 1:** Mix 1/2 cup whole wheat flour + 1/2 cup warm water (80-85F) in a glass jar. Stir well, cover loosely. Whole wheat flour works best initially because the bran hosts more wild organisms.
+**Day 1:** Mix 1/2 cup whole wheat flour + 1/2 cup warm water (80-85F) in a [[sterile-spore-print-collection-glass-jar-technique]]. Stir well, cover loosely. Whole wheat flour works best initially because the bran hosts more wild organisms.
 
 **Day 2-3:** Stir the mixture. You may see bubbles. Do not feed yet.
 
@@ -144,41 +145,6 @@ In most US states, cottage food laws allow limited home baking sales without a c
 ### Scaling to a Commercial Kitchen
 
 If cottage food limits are too restrictive:
-
-- **Shared commercial kitchen** — Rent time in an existing licensed commercial kitchen. $15-40/hour in most areas.
-- **Build a dedicated commercial kitchen** — Requires health department approval, commercial-grade equipment, three-compartment sink, hand-washing sink, separate food prep areas, proper ventilation, and more. Cost: $20,000-$100,000+ depending on scope.
-- **Co-packing** — Partner with an existing bakery to produce your recipes in their facility.
-
-## Equipment Recommendations
-
-**Essential:** Dutch oven (cast iron, 5-7qt), banneton proofing basket, kitchen scale (1g precision), bench scraper, lame (scoring blade), instant-read thermometer.
-
-**Helpful:** Proofing box, oven stones or steel, mixer with dough hook (not essential — hand mixing works well).
-
-## Production Planning
-
-### Weekly Schedule
-
-For a family consuming 2-3 loaves per week:
-
-| Day | Task |
-|-----|------|
-| Monday | Feed starter, bake 2 loaves |
-| Tuesday | Feed starter |
-| Wednesday | Bake 1-2 loaves |
-| Thursday | Feed starter |
-| Friday | Bake 1-2 loaves, feed starter |
-| Saturday | Starter rest |
-| Sunday | Bake specialty items (rolls, flatbreads) |
-
-### Flour Production
-
-If milling your own flour:
-- Plan 15-20 minutes of milling per loaf of bread
-- A batch of 4-6 loaves takes about 1 hour of milling
-- Mill flour the day before baking for best results (allows flour to oxidize slightly)
-- Store whole grain berries in bulk; mill as needed
-
 ## Related Topics
 
-Fresh flour for baking comes from [[grain-milling-at-home]]. Sourdough fermentation principles overlap with [[food-fermentation-guide]] and [[effective-microorganisms-em]] topics. Bread sales connect to [[soap-making-guide]] and broader [[fungi-and-sustainability]] economics. Grain production ties into [[small-scale-grain-growing]] crop management and [[food-forest-design]] design.
+Fresh flour for baking comes from [[grain-milling-at-home]]. Sourdough fermentation principles overlap with [[food-fermentation-guide]] and [[effective-microorganisms-em]] topics. Bread sales connect to [[soap-making-guide]] and broader [[fungi-and-sustainability]] economics. [[fukuoka-no-till-grain-production-method]] ties into [[small-scale-grain-growing]] [[mushroom-crop-management-flush-harvesting]] and  design.

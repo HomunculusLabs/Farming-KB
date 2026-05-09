@@ -1,5 +1,5 @@
 ---
-title: "Psilocin Chemistry and Relationship to Serotonin"
+title: "psilocybin-psilocin-chemistry-and-pharmacology-emcdda and Relationship to Serotonin"
 source: "concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md"
 tags: [psilocin, serotonin, tryptamine, neurotransmitter, chemistry, pharmacology]
 created: 2026-05-08
@@ -13,7 +13,7 @@ This structural similarity to serotonin is the basis for the hallucinogenic acti
 
 Psilocin acts primarily as a partial agonist at the 5-HT2A serotonin receptor, though it also interacts with other serotonin receptor subtypes.
 
-The pharmacological similarity between psilocin and serotonin places it within the classical tryptamine hallucinogen family, alongside DMT, mescaline analogs, and LSD.
+The pharmacological similarity between psilocin and serotonin places it within the classical [[mckenna-tryptamine-hallucinogen-classification-four-groups-plants]] family, alongside DMT, mescaline analogs, and LSD.
 
 Understanding the relationship between psilocin and serotonin is essential for understanding both the therapeutic potential and the subjective effects of magic mushrooms.
 
@@ -43,7 +43,7 @@ The result is an increase in the entropy of cortical signaling, which is experie
 
 Brain imaging studies have confirmed that psilocin decreases activity in the default mode network, a network of brain regions associated with self-referential thought and ego consciousness.
 
-The disruption of the default mode network is correlated with the subjective experience of ego dissolution and the sense of unity or connectedness that characterizes the psychedelic experience.
+The disruption of the default mode network is correlated with the subjective experience of ego dissolution and the sense of unity or connectedness that characterizes the [[leary-psychedelic-experience-bardo-mapping]].
 
 ## Phosphorylation to Psilocybin
 
@@ -57,7 +57,7 @@ This dephosphorylation step is analogous to the activation of a prodrug: psilocy
 
 The phosphate ester bond is relatively labile under basic conditions, which is one of the reasons why psilocin is difficult to isolate directly from mushroom material.
 
-The Shirota synthesis achieves the reverse transformation—phosphorylation of psilocin to produce psilocybin—through a novel zwitterionic intermediate that avoids the need for chromatographic purification.
+The Shirota synthesis achieves the reverse transformation—phosphorylation of psilocin to produce psilocybin—through a novel [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] that avoids the need for chromatographic purification.
 
 ## Other Tryptamine Constituents of Magic Mushrooms
 
@@ -87,7 +87,7 @@ Chromatographic methods including TLC, GC, and HPLC are required to distinguish 
 
 Mass spectrometry provides the most reliable means of identification, as the molecular weights and fragmentation patterns of psilocin and serotonin are distinct.
 
-The synthesis of authentic psilocin and psilocybin standards, such as that described by Shirota et al., is essential for the calibration of these analytical methods.
+The synthesis of authentic [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] standards, such as that described by Shirota et al., is essential for the calibration of these analytical methods.
 
 Forensic laboratories require these standards for the identification of magic mushrooms in drug seizures and for the detection of psilocin metabolites in biological specimens.
 
@@ -111,7 +111,7 @@ The chemistry of psilocin and its relationship to serotonin thus represents a fr
 
 - [[psilocybin-synthesis-shirota-concise-large-scale-method]]
 
-- tryptamine chemistry overview
+- [[psilocybin-tryptamine-chemistry-fungi]] overview
 
 - serotonin receptor pharmacology
 

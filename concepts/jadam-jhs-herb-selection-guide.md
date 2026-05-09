@@ -11,11 +11,11 @@ sources:
 # JHS Making Guide with 100 Herbs
 
 **Updated:** 2026-04-18
-**Source:** JADAM Organic Farming, pp.287-297 (Youngsang Cho, 2016)
+**Source:** JADAM [[coleman-deep-organic-farming-philosophy]], pp.287-297 (Youngsang Cho, 2016)
 
 ## Overview
 
-JADAM Herb Solution (JHS) is made by boiling herbs in water and extracting their pesticidal compounds. JADAM has documented a selection of approximately 100 herbs for pesticide use, compiled by Geol Yu of JADAM. The process yields a powerful, low-cost insecticide that also functions as a fertilizer. This guide covers the complete making process and the documented herb selections.
+JADAM [[jadam-herb-solution-jhs]] (JHS) is made by boiling herbs in water and extracting their pesticidal compounds. JADAM has documented a selection of approximately 100 herbs for pesticide use, compiled by Geol Yu of JADAM. The process yields a powerful, low-cost insecticide that also functions as a fertilizer. This guide covers the complete making process and the documented herb selections.
 
 ## Core Making Process (Step-by-Step)
 
@@ -65,7 +65,7 @@ Below are the documented herbs from JADAM's guide, organized by type:
 | Herb | Plant Part | Collection Time | Notes |
 |---|---|---|---|
 | Korean pasque flower root | Roots | Autumn | Strongest general insecticide |
-| Jerusalem artichoke | Leaves and roots | Spring to autumn | Controls aphids, mites, moths |
+| [[comparison-jerusalem-artichoke-vs-potato]] | Leaves and roots | Spring to autumn | Controls aphids, mites, moths |
 | Monkshood | Leaves and roots | Autumn | Highly toxic -- use with care |
 | Sophora root | Roots | Autumn | Strong insecticide |
 | Red spider lily | Roots | Autumn to winter | Toxic bulb |
@@ -103,7 +103,7 @@ Below are the documented herbs from JADAM's guide, organized by type:
 - Use 3-20 L (0.8-5.3 gal) per 500 L (132 gal) of spray
 - Can apply to all crops
 - Causes little concentration stress
-- Use water that passes [[permaculture-farm-design-principles]] principle of avoiding monoculture approaches even in biological pest management.
+- Use water that passes [[permaculture-farm-design-principles]] principle of avoiding monoculture approaches even in [[cervantes-biological-pest-control-predators]] management.
 
 ## See Also
 

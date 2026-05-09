@@ -34,7 +34,7 @@ Unlike standard [[psilocybin-large-scale-production]] volumes
 5. Carve away outer skin, cut tiny inner tissue pieces (match-head sized)
 6. Spear tissue with blade, press firmly into agar surface
 7. Incubate at room temperature for 3-5 days
-8. Stock cultures ready for transfer to broth jars when radial mycelial growth appears
+8. Stock cultures ready for transfer to broth jars when radial [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] appears
 
 Unused stock cultures can be refrigerated (lids tightened) for approximately one year.
 
@@ -46,7 +46,7 @@ Unused stock cultures can be refrigerated (lids tightened) for approximately one
 4. Loosen lids and place jars on growing shelf at 70-75°F
 5. Every 2-3 days: tighten lids, shake to aerate and disperse, re-loosen, return to shelf
 6. Growth can be monitored with a [[psilocybin-extraction-guide]] — ethanol and water extraction methods
-- [[mushroom-liquid-culture]] — LC techniques for spawn production
+- [[mushroom-liquid-culture]] — LC techniques for [[growing-gourmet-sawdust-spawn-production-use]]
 - [[mushroom-strain-preservation-senescence]] — maintaining long-term cultures
 - [[psilocybin-potency-dosage-guide]] — dosing the extracted material
 - [[mycelial-metabolite-exudation-stress-indicator-jar-cultivation]]
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

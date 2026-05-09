@@ -1,10 +1,11 @@
 ---
-title: "Monotub vs Martha Tent"
+title: "comparison monotub vs martha tent Tent"
 created: 2026-04-28
 tags: [comparison, mushroom-cultivation, fruiting-chambers]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -12,9 +13,9 @@ type: comparison
 
 ## Overview
 Monotubs and Martha tents represent the two most popular fruiting chamber strategies in
-home mushroom cultivation, each occupying opposite ends of the scale and complexity
+home [[accessible-mushroom-cultivation-for-disabilities]], each occupying opposite ends of the scale and complexity
 spectrum. The choice between them depends largely on how many substrates you plan to
-fruit simultaneously and how much environmental control you require.
+fruit simultaneously and how much [[eclss-environmental-control-life-support]] you require.
 
 ## Monotub
 [[martha-tent-mushroom-growing]]
@@ -47,7 +48,7 @@ cultivation and are comfortable managing multiple environmental variables at onc
 | Cost | ~$20-40 per tub | ~$150-350 total (tent + equipment) |
 | Complexity | Low; minimal setup and maintenance | Moderate; requires wiring, tuning, monitoring |
 | Capacity | Single substrate block per tub | Dozens of blocks/trays on multiple shelves |
-| Humidity Control | Self-regulating via substrate moisture | Active humidifier required (85-95% RH) |
+| [[cervantes-humidity-control-dehumidification]] | Self-regulating via [[pf-tek-substrate-moisture-diagnosis-and-correction]] | Active humidifier required (85-95% RH) |
 | Fresh Air Exchange | Passive through polyfill holes | Active fan-driven exchange (2-4 ACH) |
 | Temperature Control | Ambient room temperature | Ambient room temperature (not actively managed) |
 | Contamination Risk | Low; sealed environment | Moderate; shared airspace among all blocks |
@@ -81,7 +82,7 @@ environmental parameters.
 
 The Martha tent also shines when you are working with fruiting blocks or trays that
 benefit from exposed surfaces on all sides, such as oyster mushrooms growing on
-supplemented sawdust. The wire shelving and open interior provide the kind of 360-
+[[oyster-mushroom-supplemented-sawdust-blocks]]. The wire shelving and open interior provide the kind of 360-
 degree airflow that monotubs simply cannot match, leading to more even pinning and
 better form on fruits that require high FAE.
 

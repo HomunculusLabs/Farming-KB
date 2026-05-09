@@ -33,7 +33,7 @@ Creeks, rivers, and ponds can supply irrigation water but require treatment for 
 
 ### Rain Catchment
 
-Rainwater harvesting collects and stores roof runoff for non-potable uses (irrigation, livestock, washing) and, with treatment, for drinking.
+[[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]] collects and stores roof runoff for non-potable uses (irrigation, livestock, washing) and, with treatment, for drinking.
 
 - 1 inch of rain on 1000 sq ft of roof yields approximately 623 gallons
 - Use metal roofing or food-grade surfaces (avoid asphalt shingles)
@@ -86,7 +86,7 @@ Storage capacity recommendation: Minimum 3-5 days of household use plus livestoc
 Remove particles using staged filtration:
 - 50-100 micron screen filter: Removes sand and large debris
 - 20-50 micron spun sediment filter: Removes fine sediment
-- 5 micron carbon block filter: Removes chlorine, organic compounds, and improves taste
+- 5 micron carbon block filter: Removes chlorine, [[fungal-volatile-organic-compounds-communication]], and improves taste
 
 ### Pathogen Treatment
 

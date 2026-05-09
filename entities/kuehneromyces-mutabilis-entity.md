@@ -11,7 +11,7 @@ sources:
 
 # Kuehneromyces mutabilis
 
-Kuehneromyces mutabilis, commonly known as the velvet foot, velvet shank, or brown birch bolete, is a saprotrophic agaric mushroom in the family Strophariaceae. It is widely distributed across temperate and boreal forests of the Northern Hemisphere, where it fruits in dense clusters on the dead wood of hardwoods, especially birch (Betula spp.) and beech (Fagus spp.). The species is valued as an edible and cultivated mushroom in several European and Asian countries, notable for its ability to fruit during cold weather when few other mushrooms are available. Its specific epithet "mutabilis" refers to the dramatic two-toned appearance of its cap, which appears water-soaked and darker when wet but paler and velvety when dry — a hygrophanous trait that serves as a key field identification character.
+Kuehneromyces mutabilis, commonly known as the velvet foot, velvet shank, or brown birch bolete, is a saprotrophic agaric mushroom in the family Strophariaceae. It is widely distributed across temperate and [[fungal-diversity-boreal-forests-taiga]] of the Northern Hemisphere, where it fruits in dense clusters on the dead wood of hardwoods, especially birch (Betula spp.) and beech (Fagus spp.). The species is valued as an edible and cultivated mushroom in several European and Asian countries, notable for its ability to fruit during cold weather when few other mushrooms are available. Its specific epithet "mutabilis" refers to the dramatic two-toned appearance of its cap, which appears water-soaked and darker when wet but paler and velvety when dry — a hygrophanous trait that serves as a key field identification character.
 
 ## Taxonomy and Naming
 
@@ -63,13 +63,13 @@ Kuehneromyces mutabilis, commonly known as the velvet foot, velvet shank, or bro
 - **Substrate:** Dead trunks, stumps, branches, and fallen logs; prefers well-decayed wood
 - **Fruiting season:** Autumn through winter (October–March in temperate regions), often fruiting prolifically during cold snaps and light freezes when temperatures range from 2–10°C
 - **Growth habit:** Caespitose (growing in dense clusters), often forming large overlapping bouquets on a single log
-- **Ecology:** Primary wood decomposer; contributes significantly to nutrient cycling in temperate forest ecosystems during cold months
+- **Ecology:** Primary wood decomposer; contributes significantly to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in temperate forest ecosystems during cold months
 
 ## Chemistry and Active Compounds
 
 - **Edibility:** Edible and highly regarded in Central Europe, Japan, and Korea. Firm texture and nutty flavor when cooked.
 - **Nutritional profile:** Rich in protein (approximately 20–25% dry weight), fiber, B vitamins (especially niacin and riboflavin), and minerals (potassium, phosphorus, selenium).
-- **Bioactive compounds:**
+- **[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:**
   - Polysaccharides with reported immunomodulatory and antitumor activity
   - Ergothioneine (antioxidant amino acid derivative)
   - Phenolic compounds with antioxidant capacity
@@ -103,8 +103,8 @@ Kuehneromyces mutabilis, commonly known as the velvet foot, velvet shank, or bro
 - K. mutabilis is commercially cultivated in Japan (where it is called "krok") and in some European mushroom farms.
 - Substrate: Supplemented hardwood sawdust (especially birch or beech) with wheat bran at 10–20% supplementation rate.
 - Spawn: Grain spawn (rye or millet) is standard; inoculation rates of 5–10% wet weight.
-- Fruiting conditions: Cold-temperature fruiting species; requires a cold shock (drop to 8–12°C) for primordia initiation. Humidity 85–95%, moderate fresh air exchange.
-- Biological efficiency: 50–80% on supplemented sawdust, comparable to oyster mushrooms.
+- Fruiting conditions: Cold-temperature fruiting species; requires a cold shock (drop to 8–12°C) for [[chen-maitake-primordia-initiation-fruiting]]. Humidity 85–95%, moderate fresh air exchange.
+- [[stamets-biological-efficiency-yield]]: 50–80% on [[oyster-mushroom-supplemented-sawdust-blocks]], comparable to oyster mushrooms.
 - One of the few cultivated species that reliably fruits during winter months, making it valuable for year-round production.
 - Contamination resistance is moderate; Trichoderma and Coprinus are common competitor contaminants on supplemented sawdust blocks.
 - Harvest window is approximately 7–10 days after primordia appear; mushrooms should be picked before the cap fully expands for best texture.
@@ -115,6 +115,8 @@ Kuehneromyces mutabilis, commonly known as the velvet foot, velvet shank, or bro
 - Populations may be locally affected by removal of dead wood from managed forests (sanitation logging practices that reduce dead wood habitat).
 
 ## See Also
+
+- [[lupinus-mutabilis]]
 
 - kuehneromyces mutabilis entity
 - [[flammulina-velutipes]] — enokitake, a similar cold-weather cluster-forming edible

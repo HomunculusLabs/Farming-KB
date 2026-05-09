@@ -59,7 +59,7 @@ Nutrients available to canopy epiphytes are typically **10–100× lower** than 
 
 ### Debris-Capture and Mineralization
 
-- Epiphytes with basket-like root systems (*Asplenium* "bird's nest" ferns, some *Platycerium* staghorn ferns) catch falling leaf litter and organic debris from the canopy above.
+- Epiphytes with basket-like root systems (*Asplenium* "bird's nest" ferns, some *Platycerium* staghorn ferns) catch falling [[dighton-fungal-decomposition-leaf-litter-dynamics]] and organic debris from the canopy above.
 - This debris decomposes in the root mass, creating a localized "canopy compost" that releases nutrients.
 - Some ferns (*Platycerium*) have two distinct frond types: shield fronds that press flat against the tree trunk and catch debris, and fertile fronds that hang downward and bear spores.
 
@@ -128,7 +128,7 @@ CAM is the single most important metabolic adaptation for epiphytism and is foun
 
 | Family | Approximate Epiphyte Species | Key Adaptations |
 |--------|------------------------------|-----------------|
-| Orchidaceae | ~28,000 (≈70% of family) | Velamen roots, mycorrhizae, pseudobulbs, CAM, dust seeds |
+| Orchidaceae | ~28,000 (≈70% of family) | Velamen roots, [[mycorrhizae]], pseudobulbs, CAM, dust seeds |
 | Bromeliaceae | ~3,100 (≈60% of family) | Absorptive trichomes, tanks, CAM, phytotelmata |
 | Araceae | ~1,500 | Aerial roots, aerenchyma, shingling growth |
 | Polypodiaceae | ~1,300 | Rhizome attachment, frond dimorphism, CAM in some |

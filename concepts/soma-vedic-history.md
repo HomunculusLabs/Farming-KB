@@ -1,5 +1,5 @@
 ---
-title: Soma Vedic History in Plants of the Gods
+title: mckenna-food-gods-soma-vedic-enigma History in Plants of the Gods
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -36,8 +36,8 @@ ethnobotany for two thousand years.
 
 Only in 1968 did the interdisciplinary research of Gordon Wasson provide
 persuasive evidence that the sacred narcotic was a mushroom, Amanita
-muscaria, the Fly Agaric. Schultes and Hofmann endorse this identification,
-stating that Amanita muscaria "may be the oldest of the hallucinogens and
+muscaria, the [[amanita-muscaria-fly-agaric-history-and-pharmacology]]. Schultes and Hofmann endorse this identification,
+stating that [[allegro-amanita-muscaria-properties-and-pharmacology]] "may be the oldest of the hallucinogens and
 perhaps was once the most widely used."
 
 See also: [[allegro-soma-mushroom-thesis]],
@@ -57,14 +57,14 @@ the clouds fertilize the earth with their urine. This practice parallels
 the documented urine-drinking customs of Siberian fly agaric users, where
 the psychoactive principles pass through the body unmetabolized.
 
-See also: [[soma-haoma-hypothesis]], [[amanita-in-ancient-religion]] traces
+See also: [[soma-haoma-hypothesis]], organized religion traces
 similar associations across Eurasia, and the fly agaric's distinctive
 pharmacology (unmetabolized excretion of active principles) provides a
 uniquely testable hypothesis.
 
 See also: [[amanita-muscaria-cultural-history]],
 [[mckenna-vedic-soma-indo-european-mysteries]],
-richard evans schultes updated, albert hofmann,
+richard [[richard-evans-schultes-updated]] updated, albert hofmann,
 [[gordon-wasson-comparative-method-ethnomycology]]
 ## Practical Considerations
 
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

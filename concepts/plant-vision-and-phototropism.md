@@ -10,7 +10,7 @@ light is the primary colour inducing phototropism. Plants are largely
 insensitive to other colours when it comes to directional bending. This
 blue-light specificity was later traced to dedicated photoreceptor proteins
 (phototropins) distinct from those mediating other light responses. The
-separation of phototropic bending (driven by blue light) from photoperiodic
+separation of phototropic bending (driven by [[chamovitz-julius-von-sachs-blue-light-phototropism]]) from photoperiodic
 flowering control (driven by red and far-red light) reveals that plants
 maintain multiple, independent "visual" systems, each tuned to a different
 ecological task.
@@ -20,7 +20,7 @@ ecological task.
 In 1906, farmers in southern Maryland noticed a new tobacco strain that
 grew to extraordinary heights (over four metres) with nearly a hundred
 leaves but rarely flowered. Named Maryland Mammoth, it posed an
-agricultural puzzle: abundant vegetative growth without reproductive
+agricultural puzzle: abundant [[cannabis-vegetative-growth-stage]] without reproductive
 output meant no seed for future crops.
 
 In 1918, Wightman W. Garner and Harry A. Allard at the US Department of
@@ -32,7 +32,7 @@ long summer days. Maryland Mammoth was a **[[plant-vision-and-light-perception-m
 
 - [[what-a-plant-knows-plant-vision-and-light-perception]]
 
-- phytochrome and plant light perception for the molecular light
+- phytochrome and plant [[plant-vision-and-light-perception-mechanisms]] for the molecular light
   switch governing photoperiodic responses.
 - plant mechanosensation for other sensory modalities in plants.
 ## Practical Applications
@@ -113,3 +113,8 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[chacruna-plant]]
+- [[plant-photoreceptor-evolution-from-photolyases]]
+- [[marcello-malpighi-early-plant-microanatomy]]

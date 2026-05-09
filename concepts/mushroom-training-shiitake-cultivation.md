@@ -1,5 +1,5 @@
 ---
-title: "Mushroom Training: Shiitake Cultivation"
+title: "Mushroom Training: gourmet-medicinal-mushroom-shiitake-cultivation-logs"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -11,7 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/a-training-manual-mushroom-cultivation-by
 
 ## Introduction to Shiitake Mushrooms
 
-Shiitake mushrooms (Lentinula edodes), known in Thai as "Hed Hom," are one of the most valued cultivated mushrooms worldwide. In the FAO training program for people with disabilities, shiitake is included among the species that can be cultivated in substrate bags. While oyster mushrooms are the primary focus of the training, shiitake cultivation follows the same general substrate bag methodology with some important adaptations.
+Shiitake mushrooms ([[staycare-lentinula-edodes-in-bioremediation]]), known in Thai as "Hed Hom," are one of the most valued [[fungi-cultivated-mushrooms-pathogens-competitors]] worldwide. In the FAO [[mushroom-disabilities-training-program-design]] for people with disabilities, shiitake is included among the species that can be cultivated in substrate bags. While oyster mushrooms are the primary focus of the training, shiitake cultivation follows the same general substrate bag methodology with some important adaptations.
 
 ## Botanical Characteristics
 
@@ -19,7 +19,7 @@ Shiitake mushrooms are saprophytic fungi, meaning they feed on dead organic matt
 
 ## Cultivation Requirements
 
-**Temperature range:** Shiitake requires a narrower temperature range of 20-30°C for fruiting, making it best suited for cultivation during the rainy and cold seasons in Thailand (approximately August through January). This is slightly cooler than the requirements for most oyster mushroom varieties.
+**[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]:** Shiitake requires a narrower temperature range of 20-30°C for fruiting, making it best suited for cultivation during the rainy and cold seasons in Thailand (approximately August through January). This is slightly cooler than the requirements for most oyster mushroom varieties.
 
 **Cultivation season:** Mid-rainy season through early winter (August-January), making it complementary to the summer oyster mushroom production cycle.
 
@@ -44,7 +44,7 @@ Shiitake cultivation follows the same substrate bag procedure as other species i
 The standard substrate recipe applies. Note that in hot climates, additives should not exceed 7.5% of the total substrate weight to prevent excessive microbial competition and overheating during fermentation.
 
 **Step 6 — Pasteurization:**
-Bags are pasteurized at 90-100°C for 3-4 hours using either country-style drum steamers or commercial pasteurization chambers. Solar heating pasteurization is available as an optional alternative.
+Bags are pasteurized at 90-100°C for 3-4 hours using either country-style drum steamers or commercial pasteurization chambers. [[mollison-designers-passive-solar-heating-building-design]] pasteurization is available as an optional alternative.
 
 **Step 7 — Inoculation:**
 Sorghum seed spawn of Lentinula edodes is inoculated into pasteurized substrate bags under sterile conditions near an alcohol lamp flame. Strict hygiene is critical to prevent contamination.
@@ -122,8 +122,11 @@ Shiitake mushrooms can be dried for long-term preservation and value addition. D
 
 ## See Also
 
-- [[mushroom-training-spawn-preparation]]
-- [[mushroom-training-oyster-straw-cultivation]]
-- [[mushroom-training-spawn-production]]
+- mushroom-training-spawn-preparation
+- mushroom-training-oyster-straw-cultivation
+- mushroom-training-spawn-production
 - [[holzer-mushroom-cultivation-methods]]
 - [[comparison-shiitake-vs-oyster-cultivation]]
+- [[mushroom-cultivation]]
+- [[oyster-mushroom]]
+- [[pleurotus-ostreatus]]

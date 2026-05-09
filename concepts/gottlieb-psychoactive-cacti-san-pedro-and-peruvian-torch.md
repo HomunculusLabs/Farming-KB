@@ -1,5 +1,5 @@
 ---
-title: "Psychoactive Cacti: San Pedro and Related Species"
+title: "gottlieb psychoactive cacti san pedro and peruvian torch: mescaline-peyote-and-san-pedro-guide and Related Species"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -129,4 +129,7 @@ federal law. However, attempting to use San Pedro for psychedelic purposes or
 extracting mescaline from it could result in prosecution.
 - [[turner-harmala-alkaloids-preparation-and-dosage]]
 - [[first-time-grower-common-mistakes]]
-- [[faires-plant-catalog-notable-species]]
+- faires-plant-catalog-notable-species
+- [[trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern]]
+- [[trichocereus-mescaline-cacti-san-pedro-peruvian-torch]]
+- [[trichocereus-pachanoi]]

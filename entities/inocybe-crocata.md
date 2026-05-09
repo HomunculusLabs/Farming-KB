@@ -11,12 +11,12 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources: []
 ---
 
 # Inocybe crocata
 
-**Inocybe crocata** is a species of inocybe mushroom in the family Inocybaceae. It is one of several Inocybe species reported to contain [[psilocin]], though it is far more notorious for containing dangerously toxic levels of [[pine-mushroom-forestry-management]] (*Pinus* spp.), and spruce (*Picea* spp.). It fruits singly to scattered on soil in forests, woodlands, and occasionally in parks and gardens from late summer through autumn.
+**Inocybe crocata** is a species of inocybe mushroom in the family Inocybaceae. It is one of several Inocybe species reported to contain [[psilocin]], though it is far more notorious for containing dangerously toxic levels of pine-mushroom-forestry-management (*Pinus* spp.), and spruce (*Picea* spp.). It fruits singly to scattered on soil in forests, woodlands, and occasionally in parks and gardens from late summer through autumn.
 
 ## Psychoactive and Toxic Constituents
 
@@ -24,7 +24,7 @@ Some collections of *I. crocata* have been reported to contain trace amounts of 
 
 ## Identification Warnings and Risks
 
-*I. crocata* should **never** be consumed. The risks of muscarine poisoning far outweigh any negligible psychoactive effect. The genus Inocybe as a whole is considered dangerous for foragers, as the majority of species contain muscarine and many are difficult to distinguish from one another without microscopic examination. The strongly spermatic odor, fibrous scaly cap, and brown spore print are the most useful field characters, but no macroscopic feature can reliably distinguish the psilocybin-containing Inocybe species from the purely toxic ones.
+*I. crocata* should **never** be consumed. The risks of muscarine poisoning far outweigh any negligible psychoactive effect. The genus Inocybe as a whole is considered dangerous for foragers, as the majority of species contain muscarine and many are difficult to distinguish from one another without [[fungal-microscopic-examination-mounting-media-techniques]]. The strongly spermatic odor, fibrous scaly cap, and brown [[comparison-spore-print-collection-vs-spore-syringe-production]] are the most useful field characters, but no macroscopic feature can reliably distinguish the psilocybin-containing Inocybe species from the purely toxic ones.
 
 There is no reliable way to determine psilocybin content without laboratory analysis. Even within a single species, psilocybin levels can vary enormously depending on geography, substrate, age, and environmental conditions. The presence of both psychoactive and toxic alkaloids in the same mushroom creates a dangerous pharmacological profile.
 
@@ -42,7 +42,7 @@ The combination of smooth spores, absence of clamp connections, and the characte
 
 ## Seasonal and Ecological Patterns
 
-*I. crocata* typically fruits from late summer through autumn (August to November in the Northern Hemisphere), with peak fruiting occurring during periods of cool, damp weather. It is found across a broad range of forest types, from lowland deciduous woodlands to montane coniferous forests. Its mycorrhizal associations span a wide host range, reflecting the generalist ecological strategy common in many Inocybe species. The fungus plays a role in forest nutrient cycling through its mycorrhizal partnerships, facilitating nutrient exchange between trees and soil. In some European forests, *I. crocata* is among the more frequently encountered Inocybe species, particularly in old-growth and semi-natural woodland habitats with minimal soil disturbance.
+*I. crocata* typically fruits from late summer through autumn (August to November in the Northern Hemisphere), with peak fruiting occurring during periods of cool, damp weather. It is found across a broad range of forest types, from lowland deciduous woodlands to montane coniferous forests. Its mycorrhizal associations span a wide host range, reflecting the generalist ecological strategy common in many Inocybe species. The fungus plays a role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] through its mycorrhizal partnerships, facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between trees and soil. In some European forests, *I. crocata* is among the more frequently encountered Inocybe species, particularly in old-growth and semi-natural woodland habitats with minimal soil disturbance.
 
 ## Historical and Cultural Notes
 
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,3 +113,8 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[inocybe-longicystis]]
+- [[inocybe-erubescens]]
+- [[inocybe-rimosa]]

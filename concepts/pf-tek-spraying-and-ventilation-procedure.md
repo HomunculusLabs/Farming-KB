@@ -1,5 +1,5 @@
 ---
-title: PF TEK Spraying and Ventilation Procedure
+title: PF pf tek spraying and ventilation procedure and Ventilation Procedure
 created: 2026-04-28
 tags: [pf-tek, humidity, terrarium, fruiting, spraying, ventilation]
 date: 2026-04-28
@@ -14,7 +14,7 @@ type: concept
 ## Overview
 
 The spraying and ventilation procedure is the primary maintenance activity during the
-fruiting phase of PF TEK cultivation. The dual chambered terrarium relies on manual
+fruiting phase of PF [[pf-tek-cultivation-method]]. The dual [[dual-chambered-terrarium-design]] relies on manual
 spraying to maintain the high humidity environment that mushrooms require, combined
 with regular ventilation to provide fresh air exchange.
 
@@ -34,7 +34,7 @@ achieves these conditions through its spray shield system.
 
 A critical distinction must be made between water droplets and molecularized water.
 The spray from a hand sprayer initially produces water droplets that are, in relation
-to the fine mycelial networks of fungal threads, like giant ponds of water.
+to the fine [[fungal-mycelial-networks-nutrient-translocation]] of fungal threads, like giant ponds of water.
 
 These droplets will drown the micro-world of fungal structures and thereby inhibit or
 contaminate growth. Molecularized water, which has evaporated into the air, is what
@@ -140,7 +140,9 @@ dripping with water after each session. These moist surfaces themselves help
 generate humidity through ongoing evaporation.
 
 It has been observed that mushrooms will grow in a properly set up dual chambered
-## Related Concepts
+## Related
+
+- pf-tek-secondary-flush-and-cake-exhaustion Concepts
 
 - [[pf-tek-fruiting-chamber]] for the overall fruiting environment
 - [[pf-tek-perlite-humidification-technique]] for an alternative humidification method

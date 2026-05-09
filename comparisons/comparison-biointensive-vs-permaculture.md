@@ -4,7 +4,9 @@ created: 2026-04-28
 tags: [comparison, farming-method, biointensive, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
 
@@ -14,11 +16,11 @@ type: comparison
 GROW BIOINTENSIVE and permaculture represent two influential approaches to sustainable
 food production, but they operate at fundamentally different levels. Biointensive is a
 specific, prescriptive growing method with eight defined components optimized for
-maximum calorie production in minimal space. Permaculture is a broad design methodology
+maximum [[solomon-self-sufficiency-calorie-production-economics]] in minimal space. Permaculture is a broad design methodology
 for organizing entire landscapes, integrating food, water, energy, animals, and
 shelter into resilient systems. Understanding their differences helps growers choose
 the right framework for their goals, scale, and available resources. Where biointensive
-provides a detailed recipe for intensive vegetable production, permaculture offers a
+provides a detailed recipe for intensive [[dry-gardening-unirrigated-vegetable-production-solomon]], permaculture offers a
 flexible design language for whole-site ecological integration that can be applied
 to any property regardless of size or climate.
 
@@ -28,14 +30,14 @@ Permaculture, co-founded by Bill Mollison and David Holmgren in 1978, is a desig
 system for creating sustainable human habitats. Rather than prescribing specific growing
 techniques, permaculture provides a framework of principles, zones, sectors, and
 patterns that practitioners apply to their unique sites. Zone analysis organizes
-elements by frequency of use, sector analysis maps external energies like sun and wind,
-and pattern understanding guides the arrangement of water systems, food forests,
+elements by frequency of use, [[mollison-designers-sector-analysis-wind-sun-fire]] maps external energies like sun and wind,
+and [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] guides the arrangement of water systems, food forests,
 animal paddocks, and infrastructure. The design process begins with a full year of
 site observation, followed by base mapping, overlay analysis, and phased
 implementation.
 
 Permaculture integrates annual and perennial food production with water harvesting,
-greywater recycling, passive solar design, animal systems, and community planning. It
+greywater recycling, [[comparison-passive-solar-vs-earth-sheltered]] design, animal systems, and community planning. It
 scales from urban balconies to broadacre farms, with the zone system inherently
 adapting to property size. Implementation is phased, starting with intensive Zone 1
 gardens and expanding outward. The primary trade-off is time: food forests and tree-
@@ -71,7 +73,7 @@ truly self-sufficient once the compost cycle is established.
 
 ## When to Choose Permaculture
 Permaculture is the stronger choice for anyone managing a property where food production
-is one of many interconnected goals including water management, animal integration,
+is one of many interconnected goals including water management, [[mollison-animal-integration-permaculture-design]],
 energy efficiency, and long-term resilience. The design framework handles complexity
 that biointensive does not address, integrating buildings, water systems, and
 livestock alongside gardens. Permaculture suits practitioners who value perennials,

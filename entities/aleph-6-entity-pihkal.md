@@ -1,5 +1,5 @@
 ---
-title: "ALEPH-6 (4-Phenylthio-2,5-dimethoxy-A) -- PIHKAL Entry #6"
+title: "ALEPH-6 (4-Phenylthio-2,5-dimethoxy-A) -- 2c-b-pihkal-entry-20 #6"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -96,21 +96,52 @@ sample was saved for microanalysis and NMR, and the re-mainder
 converted to the corresponding benzaldehyde.
 
 A mixture of 6.1 g POCl3 and 5.4 g N-methylformanilide was heated for
-3 min on the steam bath, and then added to the remainder of the
+3 min on the [[scythian-cannabis-steam-bath-ritual]], and then added to the remainder of the
 
 (Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
-
 ## See Also
+
+- [[mdcpm-entity-pihkal]]
+- [[desoxy-entity-pihkal]]
+- [[pea-entity-pihkal]]
+- [[ganesha-entity-pihkal]]
+- [[im-entity-pihkal]]
+- [[e-entity-pihkal]]
+- [[2c-t-7-entity-pihkal]]
+- [[mde-entity-pihkal]]
+- [[mdph-entity-pihkal]]
+- [[f-22-entity-pihkal]]
+- [[iris-entity-pihkal]]
+- [[mdpr-entity-pihkal]]
+- [[aem-entity-pihkal]]
+- [[sb-entity-pihkal]]
+- [[2c-t-9-entity-pihkal]]
+- [[tm-entity-pihkal]]
+- [[2c-t-15-entity-pihkal]]
+- [[4-ma-entity-pihkal]]
+- [[dme-entity-pihkal]]
+- [[g-3-entity-pihkal]]
+- [[2c-t-13-entity-pihkal]]
+- [[don-entity-pihkal]]
+- [[eem-entity-pihkal]]
+- [[mp-entity-pihkal]]
+- [[emm-entity-pihkal]]
+- [[doet-entity-pihkal]]
+- [[tb-entity-pihkal]]
+- [[pihkal-aleph-2]]
+- [[3-tm-entity-pihkal]]
+- [[lophophine-entity-pihkal]]
+- [[mdmeoet-entity-pihkal]]
+- [[mdip-entity-pihkal]]
+- [[mdmc-entity-pihkal]]
+- [[mem-entity-pihkal]]
+- [[aleph-4-entity]]
+- [[2c-t-4-entity-pihkal]]
 
 - [[aleph-2-entity-pihkal]]
 - [[aleph-7-entity-pihkal]]
 
 - PIHKAL (the source book)
-- [[aleph-7-entity-pihkal]] -- ALEPH-7 (PIHKAL #7)
 
 ## See Also
 

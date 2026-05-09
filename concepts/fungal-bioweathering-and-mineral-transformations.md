@@ -1,5 +1,5 @@
 ---
-title: Fungal Bioweathering and Mineral Transformations
+title: Fungal fungal bioweathering and mineral transformations Transformations
 tags: [geomycology, bioweathering, fungi, mineral-transformations, biogeochemistry, soil-science]
 date: 2026-04-28
 updated: 2026-04-28
@@ -19,17 +19,17 @@ Fungal bioweathering refers to the erosion, decay, and decomposition of rocks an
 
 Rocks and minerals represent a vast reservoir of elements essential to life. Bulk biological metals such as sodium, potassium, magnesium, and calcium are among the eight most abundant elements in the Earth's crust and together make up 11.06 percent of crustal rock. Rocks and minerals also include essential trace metals (manganese, molybdenum, iron, cobalt, nickel, copper, zinc) and crucial nutrients such as phosphorus.
 
-These elements serve diverse biological functions: carbon, nitrogen, hydrogen, oxygen, phosphorus, and sulfur for biological macromolecules and energy capture; sodium, potassium, and calcium for information transmission and nerve signaling; iron, copper, zinc, and molybdenum for enzymatic catalysis; and calcium, phosphorus, and silicon for building solid structures.
+These elements serve diverse biological functions: carbon, nitrogen, hydrogen, oxygen, phosphorus, and sulfur for biological macromolecules and [[fukuoka-three-dimensional-solar-energy-capture-rice-paddy]]; sodium, potassium, and calcium for information transmission and nerve signaling; iron, copper, zinc, and molybdenum for enzymatic catalysis; and calcium, phosphorus, and silicon for building solid structures.
 
-All these elements must be released into bioavailable forms through weathering of rock substrates and their mineral constituents before they can be assimilated by living organisms. Their release occurs via physical (mechanical), chemical, and biological processes. Near-surface weathering typically involves an interaction between all three types.
+All these elements must be released into bioavailable forms through weathering of rock substrates and their mineral constituents before they can be assimilated by [[savory-living-organisms-as-tools]]. Their release occurs via physical (mechanical), chemical, and biological processes. Near-surface weathering typically involves an interaction between all three types.
 
 ## Why Fungi Excel as Weathering Agents
 
 Fungi are particularly well suited as weathering agents for several reasons. They can be highly resistant to extreme environmental conditions including metal toxicity, UV radiation, and desiccation. They can adopt a variety of growth, metabolic, and morphological strategies depending on conditions. They exude protons and metal-complexing metabolites, and they form mutualistic symbiotic associations with plants, algae, and cyanobacteria that amplify their weathering capacity.
 
-Most fungi exhibit a filamentous growth habit, which gives them the ability to increase or decrease their surface area at will, to adopt either exploration or exploitation strategies, and to form linear organs of aggregated hyphae (cords and rhizomorphs) for protected nutrient translocation over distance. Some fungi are polymorphic, occurring as both filamentous mycelium and unicellular yeasts or yeast-like cells.
+Most fungi exhibit a filamentous growth habit, which gives them the ability to increase or decrease their surface area at will, to adopt either exploration or exploitation strategies, and to form linear organs of aggregated hyphae (cords and rhizomorphs) for protected [[dighton-fungal-nutrient-translocation-element-redistribution]] over distance. Some fungi are polymorphic, occurring as both filamentous mycelium and unicellular yeasts or yeast-like cells.
 
-The black meristematic or microcolonial rock-dwelling fungi represent a specialized form adapted to the most extreme surface conditions. The ability of fungi to translocate nutrients within their mycelial network is another critical feature for exploring and exploiting heterogeneous environments, allowing them to redistribute resources from mineral-rich zones to areas of biological demand.
+The black meristematic or microcolonial rock-dwelling fungi represent a specialized form adapted to the most extreme surface conditions. The ability of fungi to translocate nutrients within their [[gadd-mycelial-network-dynamics]] is another critical feature for exploring and exploiting heterogeneous environments, allowing them to redistribute resources from mineral-rich zones to areas of biological demand.
 
 Fungi have been components of terrestrial microbial communities since the Ordovician period (480 to 460 million years ago), including in deserts, metal-rich habitats, and hypersaline environments. In sub-polar areas, fungal bioweathering of basaltic outcrops is believed to be chronologically the first weathering process, followed by subsequent cryogenic processes. Alkaline (basic) rocks are generally more susceptible to fungal attack than acidic rocks.
 
@@ -45,7 +45,7 @@ Direct degradation occurs through extensive hyphal penetration into decayed rock
 
 Metal immobilization mechanisms reduce the external free metal activity and may shift dissolution equilibria to release more metal into aqueous solution. Mobile metal species can be bound, accumulated, or precipitated by fungal biomass through three primary pathways: biosorption to biomass (cell walls, pigments, and extracellular polysaccharides), transport and intracellular accumulation, and extracellular precipitation.
 
-Fungi can be highly efficient bioaccumulators of soluble and particulate forms of metals including nickel, zinc, silver, copper, cadmium, and lead, especially from dilute external concentrations. Metal binding by fungi can be an important passive process in both living and dead fungal biomass, as cell wall components retain metal-binding properties post-mortem.
+Fungi can be highly efficient bioaccumulators of soluble and particulate forms of metals including nickel, zinc, silver, copper, cadmium, and lead, especially from dilute external concentrations. [[chelation-and-metal-binding-in-plants]] by fungi can be an important passive process in both living and dead fungal biomass, as cell wall components retain metal-binding properties post-mortem.
 
 ## Secondary Mycogenic Mineral Formation
 
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

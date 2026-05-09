@@ -14,8 +14,8 @@ type: query
 # How to Grow Mushrooms on Master's Mix Substrate
 
 ## Short Answer
-Master's Mix is a high-yield mushroom substrate consisting of equal parts hardwood sawdust and soybean hulls. Developed
-for commercial oyster mushroom cultivation, this formulation produces significantly higher yields than traditional
+Master's Mix is a high-yield [[gourmet-medicinal-mushroom-substrate-preparation]] consisting of equal parts hardwood sawdust and soybean hulls. Developed
+for commercial oyster [[accessible-mushroom-cultivation-for-disabilities]], this formulation produces significantly higher yields than traditional
 sawdust-only substrates while remaining simple to prepare and affordable to produce. It is considered the gold standard
 substrate for growing oyster mushrooms, lion's mane, and several other gourmet species in bags, buckets, and indoor
 growing systems.
@@ -23,7 +23,7 @@ growing systems.
 ## What Is Master's Mix
 
 Master's Mix was pioneered by commercial mushroom growers who discovered that supplementing hardwood sawdust with
-soybean hulls dramatically increased biological efficiency, which is the ratio of fresh mushroom weight to dry substrate
+soybean hulls dramatically increased [[stamets-biological-efficiency-yield]], which is the ratio of fresh mushroom weight to dry substrate
 weight. Traditional hardwood sawdust substrates typically achieve biological efficiencies of 50 to 100 percent, while
 Master's Mix consistently delivers 100 to 200 percent depending on the species and growing conditions.
 
@@ -37,7 +37,7 @@ recommendation for small-scale commercial oyster mushroom operations and serious
 
 Hardwood sawdust is the structural component of Master's Mix, providing the lignin and cellulose that mushroom mycelium
 colonizes. The best sawdust comes from fine-grained hardwoods like oak, maple, beech, birch, alder, and poplar. These
-species provide a good balance of nutrient availability and structural integrity for the substrate block.
+species provide a good balance of [[ph-and-nutrient-availability-garden-soils]] and structural integrity for the substrate block.
 
 Sawdust particle size matters significantly. Material that is too fine, like flour or dust, compacts excessively and
 restricts air exchange within the substrate block. Material that is too coarse, like wood chips or shavings, does not
@@ -55,7 +55,7 @@ colonization dead zones where the mycelium cannot grow, leading to contamination
 After hydrating and mixing, the substrate must be sterilized or pasteurized before inoculation. Master's Mix contains
 enough nitrogen from the soybean hulls that sterilization is strongly recommended rather than pasteurization. The high
 nutrient content makes the substrate highly attractive to contaminant organisms, and the complete sterilization provided
-by pressure canning or autoclaving is necessary for reliable results.
+by [[comparison-pressure-canning-vs-water-bath-canning]] or autoclaving is necessary for reliable results.
 
 ## Sterilization Methods
 
@@ -70,7 +70,7 @@ substrate blocks are 90 to 120 minutes at 15 to 18 PSI, depending on the density
 
 Some growers use atmospheric steam sterilization in converted barrels or commercial steam pasteurizers. This method
 heats the substrate to near-boiling temperatures for extended periods, typically 8 to 12 hours, to achieve
-pasteurization. While this is less rigorous than pressure sterilization, it can be effective for Master's Mix if the
+pasteurization. While this is less rigorous than [[boil-a-bag-pressure-sterilization-technique]], it can be effective for Master's Mix if the
 inoculation rate is high and cleanliness standards are maintained throughout the process.
 
 After sterilization, allow the substrate to cool to room temperature, ideally below 80 degrees Fahrenheit, before

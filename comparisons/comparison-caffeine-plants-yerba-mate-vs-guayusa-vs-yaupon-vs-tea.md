@@ -27,7 +27,7 @@ type: comparison
 | Feature | Yerba Mate (*I. paraguariensis*) | Guayusa (*I. guayusa*) | Yaupon (*I. vomitoria*) | Tea (*C. sinensis*) |
 |---------|----------------------------------|------------------------|------------------------|---------------------|
 | **Family** | Aquifoliaceae (holly) | Aquifoliaceae (holly) | Aquifoliaceae (holy) | Theaceae |
-| **Native range** | S. America (Paraná basin) | Amazon basin (Ecuador, Peru) | SE United States | East/Southeast Asia |
+| **Native range** | S. America (Paraná basin) | Amazon basin (Ecuador, Peru) | SE [[dmt-containing-plants-united-states-halpern]] | East/[[psilocybe-southeast-asia-pacific]] |
 | **USDA zones** | 8b–10 | 10–12 | 7–9 (6 with protection) | 7–9 (var. sinensis), 10–11 (assamica) |
 | **Cold tolerance** | -3°C (brief) | Frost kills | -15°C | -12°C (var. sinensis) |
 | **Mature size** | 12–18 m (shrub in cultivation) | 15–30 m (coppiced to shrub) | 3–8 m | 2–15 m (shrub in cultivation) |
@@ -50,7 +50,7 @@ type: comparison
 **Yaupon** — hands down the winner. Survives -15°C, native to regions with hot summers and freezing winters. No other caffeine plant comes close for cold tolerance.
 
 ### Best for Temperate Climates (Zone 8–9)
-**Tea** (*C. sinensis* var. *sinensis*) and **yaupon** both thrive. Tea produces higher-quality beverage per leaf but requires more care (pruning, pest management, precise processing). Yaupon is nearly maintenance-free by comparison.
+**Tea** (*C. sinensis* var. *sinensis*) and **yaupon** both thrive. Tea produces higher-quality beverage per leaf but requires more care (pruning, [[cannabis-pest-management-guide]], precise processing). Yaupon is nearly maintenance-free by comparison.
 
 ### Best for Subtropical Climates (Zone 9–10)
 **Yerba mate** hits its sweet spot. Tea also grows well (both varieties). Yaupon tolerates these zones but may struggle with extreme summer heat.
@@ -62,11 +62,11 @@ type: comparison
 
 | Aspect | Mate | Guayusa | Yaupon | Tea |
 |--------|------|---------|--------|-----|
-| **Seed germination** | Difficult (dormancy) | Moderate | Easy | Moderate (stratification) |
+| **[[cannabis-seed-germination-methods]]** | Difficult (dormancy) | Moderate | Easy | Moderate (stratification) |
 | **Cutting success** | Low (30–50%) | Moderate (50–70%) | High (70–90%) | Moderate (60–80%) |
 | **Soil requirements** | Moderate (acidic, well-drained) | Specific (acidic, organic) | Minimal (adapts to most) | Specific (acidic, well-drained) |
 | **Water needs** | High (consistent moisture) | Very high (tropical rainfall) | Low (drought-tolerant) | Moderate-consistent |
-| **Fertilization** | Annual compost | Regular organic matter | Minimal | Regular nitrogen for flush growth |
+| **Fertilization** | Annual compost | Regular [[hamilton-composting-and-organic-matter-management]] | Minimal | Regular nitrogen for flush growth |
 | **Pruning** | Annual/biennial prune-harvest | Coppice every 1–2 years | Frequent shearing OK | Precise plucking every 7–14 days |
 | **Pest management** | Moderate | Low | Very low | Moderate-high |
 | **Overall difficulty** | ★★★☆☆ | ★★★☆☆ | ★☆☆☆☆ | ★★★★☆ |
@@ -104,7 +104,7 @@ Guayusa is notable for approaching coffee-level caffeine while maintaining a smo
 | **Multi-functionality** | ★★★☆☆ (leaf + shade + windbreak) | ★★★★☆ (leaf + shade + agroforestry) | ★★★★★ (leaf + ornamental + wildlife + erosion) | ★★★☆☆ (leaf only) |
 | **Native plant value** | ★★★☆☆ (S. America) | ★★★☆☆ (Amazon) | ★★★★★ (SE US native) | ★☆☆☆☆ (non-native most places) |
 | **Wildlife support** | ★★☆☆☆ (fruit for birds) | ★★★☆☆ (Amazonian habitat) | ★★★★★ (flowers for bees, fruit for birds) | ★★☆☆☆ (flowers for bees) |
-| **Soil building** | ★★★☆☆ (leaf litter) | ★★★★☆ (organic tropical soils) | ★★★☆☆ (moderate) | ★★★☆☆ (moderate) |
+| **Soil building** | ★★★☆☆ (leaf litter) | ★★★★☆ (organic [[mollison-designers-tropical-soils-and-cation-exchange-management]]) | ★★★☆☆ (moderate) | ★★★☆☆ (moderate) |
 | **Climate resilience** | ★★★☆☆ | ★★☆☆☆ (tropical-dependent) | ★★★★★ | ★★★☆☆ |
 
 ## Bottom Line
@@ -118,7 +118,10 @@ Guayusa is notable for approaching coffee-level caffeine while maintaining a smo
 
 ## See Also
 
-- [[piscidia-piscipula]]
+- piscidia-piscipula
 
 - [[herb-growing-guide]]
 - [[companion-planting]]
+- [[comparison-insectary-plants-vs-trap-cropping]]
+- [[query-what-are-caffeine-plants-and-how-do-i-grow-them]]
+- [[comparison-insectary-plants-vs-trap-crops]]

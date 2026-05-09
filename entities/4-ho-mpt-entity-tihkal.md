@@ -21,7 +21,7 @@ normally. Residual insomnia lasting eight hours was reported.
 
 ## Synthesis
 
-From 4-acetoxyindole via oxalyl chloride to the glyoxyl chloride, then treatment
+From 4-acetoxyindole via [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] to the glyoxyl chloride, then treatment
 with methylpropylamine. The resulting glyoxylamide (mp 94-95°C) is reduced
 with LAH in THF. The hydrochloride salt (mp 162-163°C) is obtained in 54%
 yield.
@@ -53,7 +53,7 @@ placing it at the upper boundary of the "six-carbon rule" for active 4-hydroxy
 tryptamines.
 
 The "six-carbon rule" is one of the most robust generalizations to emerge
-from the Shulgins' systematic exploration of tryptamine chemistry. It states
+from the Shulgins' systematic exploration of [[psilocybin-tryptamine-chemistry-fungi]]. It states
 that 4-hydroxytryptamines with six or fewer total carbons on the nitrogen
 atom are active in the 10-20 mg range, while compounds exceeding this threshold
 show dramatically reduced activity. 4-HO-MPT, with its four total nitrogen
@@ -127,3 +127,7 @@ considering any dose increase
 legislation related to psilocin or psilocybin. The compound's extreme
 rarity has kept it below regulatory attention. Some countries with broad
 psychoactive substance laws may cover it.
+
+## See Also
+
+- [[4-ho-mpt]]

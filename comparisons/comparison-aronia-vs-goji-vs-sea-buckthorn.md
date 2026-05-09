@@ -1,15 +1,16 @@
 ---
-title: Aronia vs Goji Berry vs Sea Buckthorn — Superfood Berry Comparison
+title: comparison aronia vs goji vs sea buckthorn Berry vs comparison-sea-buckthorn-vs-aronia — Superfood Berry Comparison
 tags: [aronia, goji, sea-buckthorn, superfood, berries, comparison, anti-oxidant, medicinal-plants, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources: []
 ---
 
 # Aronia vs Goji Berry vs Sea Buckthorn — Superfood Berry Comparison
 
 Three of the most [[drought-tolerant-planting-design]] once established | Low; drought-tolerant | Very low; highly drought-tolerant |
-| **Cold Hardiness** | Excellent (to −40°F / −40°C) | Good (to −15°F / −26°C) | Excellent (to −40°F / −40°C) |
+| **[[coleman-cold-hardiness-testing-ratings]]** | Excellent (to −40°F / −40°C) | Good (to −15°F / −26°C) | Excellent (to −40°F / −40°C) |
 | **Heat Tolerance** | Moderate (struggles above 95°F) | Good (tolerates 100°F+) | Moderate (prefers cool-temperate) |
 | **Soil pH** | 5.0–8.0 (very adaptable) | 6.5–7.5 | 6.0–7.5 |
 | **Drainage** | Tolerates wet soils; also drought | Must have good drainage | Excellent drainage essential |
@@ -28,7 +29,7 @@ Three of the most [[drought-tolerant-planting-design]] once established | Low; d
 | **Protein** | ~1 g | ~5 g | ~1 g |
 
 - **Aronia** leads in anthocyanin concentration — among the highest of any fruit.
-- **Goji** excels in zeaxanthin (eye health) and polysaccharides (immune modulation).
+- **Goji** excels in zeaxanthin (eye health) and polysaccharides ([[cancer-immune-modulation-mechanisms]]).
 - **Sea buckthorn** is the vitamin C champion (up to 15× oranges) and the only common fruit rich in omega-7.
 
 ## Taste and Culinary Use
@@ -88,12 +89,12 @@ Three of the most [[drought-tolerant-planting-design]] once established | Low; d
 - ✅ High protein and unique polysaccharides
 - ✅ Long harvest window; continuous fruiting
 - ❌ Can become invasive in some regions
-- ❌ Susceptible to powdery mildew; needs good airflow
+- ❌ Susceptible to [[cervantes-powdery-mildew-prevention-treatment]]; needs good airflow
 
 ### Sea Buckthorn
 - ✅ Extraordinary vitamin C and omega-7 content
 - ✅ Nitrogen-fixing; improves soil for nearby plants
-- ✅ Excellent windbreak and erosion control
+- ✅ Excellent windbreak and [[permplant-willows-salix-erosion-control-fodder]]
 - ❌ Dioecious — requires both male and female plants
 - ❌ Thorny branches make harvest challenging
 - ❌ Juice processing requires specialized equipment
@@ -110,3 +111,7 @@ Three of the most [[drought-tolerant-planting-design]] once established | Low; d
 | **Cold Climate** | Aronia or Sea Buckthorn | Both survive zone 3; goji tops out at zone 5 |
 | **Best Tasting Fresh** | Goji Berry | Only one truly pleasant to eat raw off the plant |
 | **Homemade Wellness Products** | Sea Buckthorn | Oil and juice have strong cosmetic and medicinal markets |
+
+## See Also
+
+- [[comparison-sea-buckthorn-vs-aronia]]

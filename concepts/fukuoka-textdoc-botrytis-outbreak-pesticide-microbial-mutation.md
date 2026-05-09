@@ -24,7 +24,7 @@ introduction of new pesticides after World War II. His investigation of
 this incident led him to a broader and more disturbing conclusion: that
 the widespread spraying of mutagenic pesticides on easily mutated
 microbes poses a grave and largely unrecognized threat to agricultural
-ecosystems. This page explores the loquat incident, the biology of the
+ecosystems. This page explores the [[fukuoka-textdoc-loquat-incident-microbial-mutation]], the biology of the
 botrytis fungus, and Fukuoka's experiments with [[fukuoka-straw-scattering-testing-station-resistance]] and, with the whole village cooperating in a pesticide
 spraying program, the organism was soon brought under control. The
 loquats gradually came back and everything appeared to look rosy again.
@@ -34,9 +34,9 @@ loquats gradually came back and everything appeared to look rosy again.
 One critical question remained unanswered: why had this outbreak occurred
 in the first place? Fukuoka's theory was that it was triggered by the
 sudden spraying of a whole series of new pesticides following the war in
-an attempt to control citrus diseases. The organism responsible was likely
-a botrytis fungus, either Botrytis cinerea, which causes gray mold in
-citrus fruit, or a variant of the same species. Several factors
+an attempt to [[fukuoka-mite-scale-microclimate-control-citrus-orchard]] diseases. The organism responsible was likely
+a botrytis fungus, either Botrytis cinerea, which causes [[cervantes-gray-mold-botrytis-prevention]] in
+[[hamilton-citrus-fruit-growing]], or a variant of the same species. Several factors
 contributed to the conditions that allowed the [[query-what-are-the-best-mushroom-substrates-for-different-species]] Satsuma oranges and summer
 oranges in Japan bear different scientific names, he initially thought
 they were different species. But when he tried crossing them, mycelial
@@ -82,3 +82,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[fukuoka-textdoc-pesticide-spider-firefly-destruction]]

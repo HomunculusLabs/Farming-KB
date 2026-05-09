@@ -1,17 +1,18 @@
 ---
-title: Piriformospora indica in Plant-Fungal Co-Culture
+title: linum-album-piriformospora-indica-co-culture-system in Plant-Fungal Co-Culture
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 
 # Piriformospora indica in Plant-Fungal Co-Culture
 
 Piriformospora indica (synonym Serendipita indica) is a cultivable root-colonizing endophytic fungus originally isolated from the rhizosphere of desert shrubs in the Thar Desert, India. It exhibits mycorrhiza-like characteristics and promotes plant growth, making it a valuable model organism for studying plant-fungal interactions and a promising bioinoculant for agriculture.
 
-The discovery of P. indica was significant because it provided researchers with a culturable fungal partner that could reproduce many of the beneficial effects of arbuscular mycorrhizal fungi (AMF) without the obligate symbiosis constraint. This has enabled detailed molecular and biochemical studies that are not feasible with AMF, which cannot be grown independently of their plant hosts. See [[linum-album-piriformospora-indica-co-culture-system]]
+The discovery of P. indica was significant because it provided researchers with a culturable fungal partner that could reproduce many of the beneficial effects of [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF) without the obligate symbiosis constraint. This has enabled detailed molecular and biochemical studies that are not feasible with AMF, which cannot be grown independently of their plant hosts. See [[linum-album-piriformospora-indica-co-culture-system]]
 
 - [[arbuscular-mycorrhizal-fungi]]
 
@@ -95,4 +96,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

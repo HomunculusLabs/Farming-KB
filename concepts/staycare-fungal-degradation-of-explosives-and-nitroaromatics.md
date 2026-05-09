@@ -21,8 +21,8 @@ ability to transform and degrade these recalcitrant compounds.
 ## Trinitrotoluene (TNT) Degradation
 
 TNT (2,4,6-trinitrotoluene) is the most widely studied explosive
-pollutant in fungal bioremediation. Regular exposure to TNT causes liver
-damage and anaemia in workers. Phanerochaete chrysosporium degrades 30 to
+pollutant in [[staycare-composting-as-a-fungal-bioremediation-strategy]]. Regular exposure to TNT causes liver
+damage and anaemia in workers. [[staycare-phanerochaete-chrysosporium-in-bioremediation]] degrades 30 to
 50% of added TNT at concentrations below 20 mg/l in liquid culture. Higher
 concentrations inhibit degradation, with hydroxylamino-dinitrotoluene
 intermediates accumulating and inhibiting further TNT breakdown.
@@ -38,7 +38,7 @@ corresponding hydroxylamino or amino congeners. Key intermediates include
 Addition of TNT to ligninolytic cultures causes disappearance of lignin
 peroxidase (LiP) activity, though this is caused by metabolites rather
 than TNT itself. Hydroxylamino intermediates are the actual LiP inhibitors.
-Manganese peroxidase (MnP) production is also suppressed by TNT, and MnP
+[[fungal-manganese-peroxidase-remediation]] (MnP) production is also suppressed by TNT, and MnP
 may not be essential for TNT degradation in P. chrysosporium. These
 inhibition effects complicate the use of ligninolytic fungi for TNT
 bioremediation, as the very enzymes that could degrade the compound are
@@ -48,7 +48,7 @@ suppressed during the process.
 
 Phlebia radiata degrades both TNT and 2-amino-4,6-dinitrotoluenes
 (22% and 76%, respectively), suggesting potential for munitions-contaminated
-site remediation. Pleurotus ostreatus and Trametes versicolor degrade TNT
+site remediation. Pleurotus ostreatus and [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] degrade TNT
 in solid-state systems. The brown rot fungus Gloeophyllum trabeum
 transforms 50 ppm TNT to below detection limits within 3 days and can grow
 with TNT concentrations exceeding 40 mg/l, showing greater tolerance than
@@ -89,7 +89,7 @@ transferase-like system was proposed for nitrite evolution from GTN.
 
 ## NTO (5-Nitro-1,2,4-triazol-3-one)
 
-NTO is a modern explosive compound. Penicillium sp. isolated from
+NTO is a modern [[fungal-explosive-compound-degradation]]. Penicillium sp. isolated from
 contaminated waste transforms NTO to 5-amino-1,2,4-triazol-3-one (ATO)
 via nitro group reduction. All tested fungi catalyzed this initial
 reduction, though further transformation of ATO was limited to bacterial
@@ -100,7 +100,7 @@ investigation.
 
 Composting has been used as a full-scale treatment process for
 explosives-contaminated soils and sludges. Fungi play a vital role in
-composting treatment processes. Energetic compounds including HMX, TETRYL,
+composting treatment processes. [[fungal-degradation-energetic-compounds-detailed]] including HMX, TETRYL,
 nitroguanidine, and PETN have been treated in mixed wastes via composting.
 Energetic compounds are reductively transformed and often become tightly
 bound to organic fractions of the composts. Laccase-mediated coupling
@@ -120,6 +120,11 @@ and industrial explosive waste remediation, though consistent inoculum
 delivery remains a challenge for field deployment.
 
 ## See Also
+
+- [[staycare-fungal-degradation-of-pcbs-and-dioxins]]
+
+- [[staycare-fungal-degradation-of-ddt-and-organochlorine-insecticides]]
+- [[staycare-fungal-redox-mediator-chemistry-pollutant-degradation]]
 
 - [[staycare-phanerochaete-chrysosporium-in-bioremediation]]
 - [[staycare-solid-state-fermentation-for-bioremediation]]

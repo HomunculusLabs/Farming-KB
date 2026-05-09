@@ -15,19 +15,19 @@ type: concept
 
 # Raised Bed Windbreak Systems
 
-Sepp Holzer has developed an innovative approach to wind protection that
+[[comparison-sepp-holzer-vs-biodynamic]] has developed an innovative approach to [[cervantes-wind-protection-outdoor-cannabis]] that
 integrates windbreak functions directly into raised bed systems. Rather than
-planting separate hedgerows or windbreaks, he positions raised beds planted
+planting separate hedgerows or windbreaks, he positions [[comparison-raised-beds-vs-hugelkultur]] planted
 with tall-growing species to serve as living windbreaks while simultaneously
 producing food. This dual-purpose approach maximises the productivity of
-every element in the landscape, embodying core [[permaculture-windbreak]] which typically treats
+every element in the landscape, embodying core permaculture-windbreak which typically treats
 windbreaks as separate structural elements.
 
 ## Best Plants for Bed Windbreaks
 
-Holzer finds that raised beds planted with fruit bushes and tall-growing
+Holzer finds that raised beds planted with [[holzer-soft-fruit-bushes-and-berries]] and tall-growing
 plants like sunflowers (Helianthus annuus), Jerusalem artichokes (Helianthus
-tuberosus), or hemp (Cannabis sativa) make the best windbreaks. These plants
+tuberosus), or hemp ([[comparison-cannabis-sativa-vs-cannabis-indica]]) make the best windbreaks. These plants
 are chosen for their height, density of growth, and ability to thrive in the
 raised bed environment.
 
@@ -84,7 +84,7 @@ that must be managed carefully.
 The wind always travels at high speeds in mountainous areas, making
 effective wind protection essential for successful crop production. The use
 of raised beds as windbreaks is part of the broader strategy of [[holzer-green-manure-and-soil-building-plants]], can also contribute to winter wind
-protection. Holzer's practice of leaving green manure crops standing in
+protection. Holzer's practice of leaving green [[green-manure-crops-detailed]] standing in
 autumn means that nature does the work: the first heavy snow pushes down the
 plants and they begin to decompose, but the standing biomass provides wind
 protection until then.

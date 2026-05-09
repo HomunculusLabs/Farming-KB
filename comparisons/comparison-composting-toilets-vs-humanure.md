@@ -1,5 +1,5 @@
 ---
-title: "Composting Toilets vs Humanure Composting"
+title: "comparison-composting-toilets-vs-greywater-systems-detailed vs Humanure Composting"
 created: 2026-04-28
 tags: [comparison, waste-management, sanitation, composting, permaculture]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: comparison
 # Composting Toilets vs Humanure Composting
 
 ## Overview
-Composting toilets and humanure composting both divert human waste from water-based sewage
+Composting [[composting-toilet-systems]] composting both divert human waste from water-based sewage
 systems and convert it into soil amendment through biological decomposition, but they differ in
 where the composting happens and how the process is managed. Composting toilets process waste
 within an enclosed manufactured or built unit (often inside the building), while humanure
@@ -55,13 +55,13 @@ consider a taboo material openly and responsibly.
 ## Key Differences
 | Aspect | Composting Toilets | Humanure Composting |
 |--------|-------------------|-------------------|
-| Composting Location | Inside the toilet unit | Outdoor compost pile |
+| Composting Location | Inside the toilet unit | Outdoor [[mushroom-cultivator-compost-pile-management]] |
 | Collection Method | Built-in chamber | Bucket or vault |
 | Cost | $200-2,500+ | $25-100 |
 | Electricity Needed | Often yes (fans, heaters) | No |
 | Moving Parts | Fans, agitators, heaters | None |
 | Capacity | Limited per unit | Unlimited (pile size) |
-| Compost Quality | Partial, needs curing | Fully thermophilic |
+| [[aact-compost-quality-standards-ingham]] | Partial, needs curing | Fully thermophilic |
 | Regulatory Acceptance | Better (NSF/ANSI 41) | Variable, often restricted |
 | Handling Raw Waste | Minimal (contained) | Regular (bucket emptying) |
 | Off-Grid Suitability | Limited (electric models) | Excellent |
@@ -87,7 +87,7 @@ making it an easier sell to skeptical family members or housemates.
 ## When to Choose Humanure Composting
 Humanure composting is ideal for off-grid homesteads prioritizing simplicity, reliability, and
 zero energy inputs. It suits full-time rural households with outdoor composting space,
-permaculture sites practicing comprehensive closed-loop nutrient cycling, and builders on tight
+permaculture sites practicing comprehensive closed-loop [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and builders on tight
 budgets. The thermophilic composting process produces a more thoroughly decomposed,
 pathogen-free end product than most composting toilets, and the system scales infinitely —
 just add more compost bins. Humanure also integrates directly with garden composting, making it
@@ -95,7 +95,7 @@ a natural extension of existing soil-building practices.
 
 For serious food growers, humanure represents a significant fertility resource. A family of four
 produces roughly 1,500 pounds of humanure compost per year — a substantial contribution to soil
-organic matter and nutrient cycling on a homestead-scale garden or orchard. The integration of
+[[hamilton-composting-and-organic-matter-management]] and nutrient cycling on a homestead-scale garden or orchard. The integration of
 kitchen scraps, yard waste, and humanure in a single composting system simplifies waste
 management and produces a consistent, high-quality compost. Educational institutions,
 intentional communities, and demonstration farms often choose humanure systems because they

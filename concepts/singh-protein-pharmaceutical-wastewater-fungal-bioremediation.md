@@ -1,5 +1,5 @@
 ---
-title: Fungal Bioremediation of Protein and Pharmaceutical Wastewaters
+title: staycare-composting-as-a-fungal-bioremediation-strategy of Protein and Pharmaceutical Wastewaters
 created: 2026-04-26
 tags:
   - pharmaceutical-wastewater
@@ -59,7 +59,7 @@ landfill. The BOD of the final effluent is reduced to 30 mg/l.
 ### Fungal Process Development
 
 A multistage biofilm process demonstrated the elimination of 90% of COD
-and 95% of total organic carbon (TOC) with better removal of toxicity in
+and 95% of total [[dighton-fungal-dissolved-organic-carbon-production]] (TOC) with better removal of toxicity in
 pilot-scale tests. The disadvantage is that pH must be adjusted to 4 in
 the fungal stages and then raised to 7. Methanogenic activity tests have
 been used for determining anaerobic biodegradability of concentrated
@@ -67,7 +67,7 @@ pharmaceutical wastes, including waste biomass from threonine production
 and mycelium after Penicillium extraction.
 
 Organic material, phosphorus, and toxicity can be removed to a higher
-degree by incorporating fungal treatment. Treatability studies for the
+degree by incorporating [[singh-biopile-fungal-treatment-contaminated-soil]]. Treatability studies for the
 degradation of specific compounds in batch and continuous laboratory-scale
 processes are recommended before application in pilot-scale tests. When
 researching new drugs and synthetic methods, it is important to consider
@@ -82,7 +82,7 @@ slaughterhouses and tanneries are discharged to the environment.
 Wastewater from a Swedish company contained approximately 6 to 8 g/l of
 fat and 10 to 13 g/l of protein. Slaughterhouse wastewaters contain
 about 0.05% protein and 0.03% fat. The fat content includes 90% free
-fatty acids, with a composition similar to tallow: 43% oleic acid, 23%
+[[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], with a composition similar to tallow: 43% oleic acid, 23%
 palmitic acid, 14% stearic acid, 7% linoleic acid, 4% palmitoleic acid,
 2% myristic acid, and 2% linolenic acid.
 
@@ -135,6 +135,8 @@ respectively. Saccharomycopsis lipolytica can grow on tallow or lard as
 a sole source of carbon and nitrogen.
 
 ## See Also
+
+- [[pharmaceutical-bioremediation]]
 
 - [[singh-pharmaceutical-wastewater-fungal-treatment]]
 - [[fungal-treatment-of-distillery-and-brewery-wastes]]

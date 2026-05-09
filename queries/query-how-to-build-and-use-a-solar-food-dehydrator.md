@@ -24,7 +24,7 @@ Solar dehydration is one of the oldest and most energy-efficient methods of food
 
 Unlike canning, it requires no heat source beyond sunlight.
 
-Unlike freezing, it does not depend on electricity to maintain storage conditions.
+Unlike freezing, it does not depend on electricity to maintain [[vegetable-storage-conditions-by-temperature-and-humidity]].
 
 The process removes 80-95% of moisture to prevent bacterial growth and enzymatic spoilage.
 
@@ -34,13 +34,13 @@ The [[solar-dehydrator-plans]] and [[comparison-solar-dehydrator-vs-electric-deh
 
 ## Key Design Principles
 
-Every effective solar dehydrator relies on solar gain, airflow, and moisture escape.
+Every effective [[comparison-solar-dehydrator-vs-electric-dehydrator]] relies on solar gain, airflow, and moisture escape.
 
 **Solar gain** comes from a dark absorber plate covered by glass or polycarbonate.
 
 **Airflow** is critical — without it, food steams instead of drying.
 
-Most designs use a bottom intake and top exhaust vent, creating natural convection as warm air rises.
+Most designs use a bottom intake and top exhaust vent, [[fukuoka-creating-natural-farm-site-selection-establishment]] convection as warm air rises.
 
 The [[solar-and-electric-food-drying-methods]] page provides detailed material lists and assembly instructions.
 
@@ -52,7 +52,7 @@ The [[solar-and-electric-food-drying-methods]] page provides detailed material l
 
 Blanching vegetables first preserves color and speeds drying.
 
-**Herbs:** basil, oregano, thyme, mint, and lemon balm dry quickly and retain potent flavor.
+**Herbs:** basil, oregano, thyme, mint, and [[comparison-lemon-balm-vs-passionflower]] dry quickly and retain potent flavor.
 
 Herbs should be dried at lower temperatures (under 110°F/43°C) to preserve volatile oils.
 
@@ -66,7 +66,7 @@ Vegetables should be brittle enough to snap when bent.
 
 Herbs crumble easily between your fingers when fully dry.
 
-Place dried food in a sealed glass jar and check for condensation after 24 hours — if moisture appears, dry it more.
+Place dried food in a sealed [[sterile-spore-print-collection-glass-jar-technique]] and check for condensation after 24 hours — if moisture appears, dry it more.
 
 The [[query-how-to-store-food-without-refrigeration]] page covers additional off-grid storage methods.
 
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

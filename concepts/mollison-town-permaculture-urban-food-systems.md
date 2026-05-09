@@ -1,5 +1,5 @@
 ---
-title: Town Permaculture - Urban Food Systems
+title: mollison town permaculture urban food systems - Urban Food Systems
 created: 2026-04-26
 updated: 2026-04-24
 sources: Bill Mollison, Permaculture Two: Practical Design for Town and Country (Tagari Books, 1979)
@@ -28,7 +28,7 @@ for self-sufficiency.
 
 ## Starting at the Doorstep
 
-The cardinal rule of urban permaculture is to start at the doorstep.
+The cardinal rule of [[pdc-urban-permaculture-design-principles]] is to start at the doorstep.
 If you have not planted a garden at the back door, you have not
 started a permaculture. Mollison cites the remarkable statistic that
 4% of land -- that small area around peasant houses in Russia --
@@ -49,7 +49,7 @@ Mollison provides striking evidence for urban food potential:
   average of only 600 square feet each, at a value almost equivalent
   to total agriculture
 - Russian peasant farmers on a half-acre to an acre produce 84% of
-  the food, while state farms occupying most agricultural land
+  the food, while state farms occupying most [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]]
   produce the remainder with a 6% deficit
 - The glamorous large-scale agriculture is not the agriculture that
   feeds people
@@ -80,7 +80,7 @@ The book also addresses urban sewage treatment, advocating that all
 sensible town sewage treatment from flush toilets must first pass
 through biological treatment systems rather than chemical processing.
 Greenhouses attached to homes can capture waste heat and provide
-year-round growing space.
+year-round [[cotter-growing-space-design-fruiting-rooms]].
 
 ## Urban-Rural Linkages
 
@@ -106,8 +106,8 @@ The book outlines a practical programme for urban self-sufficiency:
 
 ## Greenhouse Integration
 
-Houses should integrate glasshouses for passive solar heating, food
-production, and greywater treatment. Structures become multi-functional:
+Houses should integrate glasshouses for [[comparison-passive-solar-vs-earth-sheltered]] heating, food
+production, and [[mollison-designers-greywater-treatment-reedbeds]]. Structures become multi-functional:
 the greenhouse heats the house, treats household water, grows food,
 and provides a pleasant living space. Attached glasshouses, hot air
 collectors, reflection ponds, and shadehouses should be provided at
@@ -125,8 +125,8 @@ technologies as a form of government on ourselves and our appetites.
 ## See Also
 
 - [[mollison-tree-crop-systems-permaculture]]
-- [[mollison-urban-permaculture]]
-- [[mollison-aquatic-polyculture-systems]]
+- mollison-urban-permaculture
+- mollison-aquatic-polyculture-systems
 
 - [urban-permaculture](urban-permaculture.md)
 - [urban-agriculture](urban-agriculture.md)
@@ -134,4 +134,7 @@ technologies as a form of government on ourselves and our appetites.
 - [roof-water-harvesting](roof-water-harvesting.md)
 - [greywater-systems](greywater-systems.md)
 - [mollison-permaculture-two-introduction-design-principles](mollison-permaculture-two-introduction-design-principles.md)
-- [mollison-zone-sector-analysis-permaculture](mollison-zone-sector-analysis-permaculture.md)
+- [[zone-and-sector-analysis|Zone and Sector Analysis]]
+- [[bill-mollison]]
+- [[permaculture-principles]]
+- [[mollison-bamboo-permaculture-systems]]

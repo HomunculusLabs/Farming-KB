@@ -1,5 +1,5 @@
 ---
-title: Mushroom Spore Identification
+title: emcdda-hallucinogenic-mushroom-spore-distribution-home-cultivation Identification
 created: 2026-04-28
 tags:
   - mycology
@@ -15,10 +15,10 @@ type: concept
 ---
 
 Spore identification is one of the most fundamental techniques
-in mushroom taxonomy and field mycology. Spore prints provide
+in [[palmer-mushroom-taxonomy-classification-system]] and field mycology. Spore prints provide
 essential information for narrowing down the genus and species
 of an unknown mushroom, serving as a primary diagnostic feature
-alongside the bluing reaction, cap characteristics, and habitat
+alongside the [[field-guide-psilocybin-bluing-reaction-identification]], cap characteristics, and habitat
 data. For [[psilocybin-bluing-reaction]] in species high in [[psilocybin-mushroom-microscopic-identification]] for detailed
 microscopic methods and measurement protocols.
 
@@ -42,13 +42,13 @@ notes are essential documentation.
 ## Spore Print as Cultivation Tool
 
 Beyond identification, spore prints serve as the starting
-material for mushroom cultivation. A clean spore print from
+material for [[accessible-mushroom-cultivation-for-disabilities]]. A clean spore print from
 a correctly identified specimen can be used to inoculate
 sterile growth media, beginning the cultivation cycle. However,
 spore prints contain genetic material from potentially millions
 of individual spores, meaning that cultivation from spores
 will produce genetically variable offspring. For maintaining
-specific genetic lines, tissue culture from a single fruiting
+specific genetic lines, [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] from a single fruiting
 body is preferred. See [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] for methods of working with spores in
 cultivation contexts.
 
@@ -61,7 +61,7 @@ decreases exponentially as an inverse square of the distance
 from the parent mushroom. Since mycelia from two compatible
 spores must typically merge before fertile mycelium can be
 created, successful colonization from spore dispersal alone is
-relatively rare in nature, making existing mycelial networks
+relatively rare in nature, making existing [[fungal-mycelial-networks-nutrient-translocation]]
 the primary mode of expansion.
 ## Practical Considerations
 
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

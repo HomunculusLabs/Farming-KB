@@ -1,5 +1,5 @@
 ---
-title: Permaculture Plants Fruit Trees Subtropical
+title: Permaculture Plants comparison-pruning-fruit-trees-vs-grafting-fruit-trees Subtropical
 permacultureculture Fruit Trees for Subtropical Climates
 created: 2026-04-26
 updated: 2026-04-24
@@ -28,16 +28,16 @@ Nutritional per 100g: Water 73.5%, Energy 94 cal, Carbohydrate 24.0g, Protein 1.
 Also called bullock's heart. Deciduous, to 8-10 m. Susceptible to wind damage, will not grow on poorly drained soils. Fruit yellow becoming red or brown, flesh yellow-white, more solid than other annonaceous fruits.
 
 ### Sugar Apple (A. squamosa)
-Slow-growing, bushy, deciduous tree to 5 m. Drought tolerant. Fruit yellow-green with pale yellow, firm, sweet custard-like flesh. Fruiting at 3 years (seedling), 1 year (grafted). Very productive.
+Slow-growing, bushy, deciduous tree to 5 m. [[permplant-carob-drought-tolerant-food-tree]]. Fruit yellow-green with pale yellow, firm, sweet custard-like flesh. Fruiting at 3 years (seedling), 1 year (grafted). Very productive.
 
 ### Soursop (A. muricata)
-Small upright tree to 5 m. Drought tolerant, makes a good windbreak/shade tree. Less frost tolerant (0C). L[[acacia]] pulchella and [[tamarillo]] (Cyphomandra betacea)
+Small upright tree to 5 m. Drought tolerant, makes a good windbreak/[[mollison-designers-legume-shade-tree-pasture-systems]]. Less frost tolerant (0C). L pulchella and [[tamarillo]] (Cyphomandra betacea)
 
 Family: SOLANACEAE
 
 Also called tree tomato. Native to temperate Andes of South America. Suited to small gardens in tropical and subtropical climates; grows in cooler areas if sunny and sheltered. Erect, shrubby, fast-growing evergreen to 4 m. Fairly short-lived. Needs rich, moist, well-drained soil; very shallow-rooted so heavy mulching recommended. Slightly frost tolerant (to -2C).
 
-Fruits egg-shaped, ~5 cm long, yellow, red, or dark red. Yellow fruits sweetest, red more acid. Best eaten fresh, also made into jams, jellies, preserves. Skin easily removed by dipping in hot water. Some value as bee forage. Propagated from seed or cuttings.
+Fruits egg-shaped, ~5 cm long, yellow, red, or dark red. Yellow fruits sweetest, red more acid. Best eaten fresh, also made into jams, jellies, preserves. Skin easily removed by dipping in hot water. Some value as [[mollison-designers-bee-forage-tree-planting]]. Propagated from seed or cuttings.
 
 Nutritional per 100g: Water 82.7-87.8%, Carbohydrate 10.3g, Protein 1.5g, Vitamin A 540 IU, Ascorbic acid 23.3-33.9mg.
 
@@ -61,7 +61,7 @@ Family: MALPIGHIACEAE
 
 Also called West Indian cherry, native cherry. Very attractive, slow-growing, evergreen shrub to ~6 m with glossy dark green leaves. Very tough and versatile -- grows in any soil under almost any conditions. Prefers moist soil and responds to mulching. Does well on limestone, marl, and clay if well-drained. Moderately drought and salt spray tolerant. Frost hardy to -2C.
 
-Fruit cherry-like, 1.25-2.5 cm diameter, red to crimson. Extremely high in Vitamins C and A (4,500 mg ascorbic acid in green fruit, 2,000 mg in ripe). Used fresh, in drinks, and dried. Wine retains 60% of ascorbic acid. Good animal forage and hedge/pioneer.
+Fruit cherry-like, 1.25-2.5 cm diameter, red to crimson. Extremely high in Vitamins C and A (4,500 mg ascorbic acid in green fruit, 2,000 mg in ripe). Used fresh, in drinks, and dried. Wine retains 60% of ascorbic acid. Good [[permaculture-designers-manual-animal-forage-systems]] and hedge/pioneer.
 
 Nutritional per 100g: Vitamin A 408-1000 IU, Ascorbic acid 2,000-4,500mg (varies by ripeness).
 
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

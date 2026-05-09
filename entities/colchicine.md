@@ -79,7 +79,7 @@ This disruption of microtubule dynamics has several downstream effects:
 
 The net anti-inflammatory effect is specific to rapidly dividing or
 highly mobile cells, particularly neutrophils, which explains its
-selective efficacy in neutrophil-driven inflammatory conditions.
+selective efficacy in neutrophil-driven [[cannabis-for-inflammatory-conditions]].
 
 ## Medical Applications
 
@@ -115,7 +115,7 @@ cirrhosis, and amyloidosis prevention in FMF patients.
 
 ## Toxicity and Side Effects
 
-**Gastrointestinal:** Most common adverse effects. Nausea, vomiting,
+**Gastrointestinal:** Most common [[blesching-cannabis-safety-adverse-effects-evidence]]. Nausea, vomiting,
 abdominal pain, and diarrhea occur in up to 80% of patients at high
 doses. The onset of GI symptoms often precedes more serious toxicity
 and serves as a warning sign.
@@ -144,4 +144,4 @@ increased in patients with renal or hepatic impairment.
 - Vinblastine
 - Tubulin
 
-See also: [[ketamine-pharmacology-and-therapy]]
+See also: [[set-and-setting-model-psychedelic-therapy]]

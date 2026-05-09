@@ -3,7 +3,7 @@ title: DMT Phenomenology and the Tryptamine Hypercontinuum
 created: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "McKenna T - Tryptamine Hallucinogens and Consciousness (1983/1992)"
+  - "McKenna T - mckenna-tryptamine-hallucinogens-and-consciousness and Consciousness (1983/1992)"
 type: concept
 tags: [dmt, tryptamine, phenomenology, consciousness, psychedelics, mckenna]
 ---
@@ -14,7 +14,7 @@ tags: [dmt, tryptamine, phenomenology, consciousness, psychedelics, mckenna]
 
 Dimethyltryptamine (DMT) is an endogenous hallucinogenic tryptamine found in small
 amounts in the human brain. Terence McKenna, in his 1983 Esalen lecture later published
-in *The Archaic Revival* (1992), described DMT as producing the most intense
+in *The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]* (1992), described DMT as producing the most intense
 hallucinogenic experiences known — experiences so radically alien that they challenge
 fundamental assumptions about consciousness, reality, and the nature of mind. The
 "tryptamine hypercontinuum" refers to McKenna's concept that DMT, psilocybin, and
@@ -63,11 +63,11 @@ McKenna argued that psilocybin and DMT "invoke the Logos" — they work directly
 on the language centers of the brain, making interior dialogue a primary feature
 of the experience. The entities produce sounds that pass without quantized moments
 of distinction, moving seamlessly from "things heard to things beheld" (a quality
-Philo Judaeus attributed to the perfected Logos).
+[[mckenna-philo-judaeus-logos-hearing-to-beholding]] attributed to the perfected Logos).
 
 The experience presents "translinguistic objects" — feeling-toned, meaning-toned,
 three-dimensional rotating complexes of transforming light and color. When humans
-encounter such objects, cognitive dissonance arises because language cannot
+encounter such objects, [[mckenna-cognitive-dissonance-translinguistic-object]] arises because language cannot
 encompass them. The attempt to "pour language over" these objects produces wonder,
 astonishment, and awe bordering on terror.
 
@@ -75,7 +75,7 @@ McKenna distinguished this from classical glossolalia (speaking in tongues as
 studied in religious contexts). The DMT-induced phenomenon is a brain state that
 allows expression of what he called an "assembly language" behind language — a
 primal "Ursprache" (original language) akin to what Robert Graves described in
-*The White Goddess* or what the Kabbalistic Zohar describes.
+*The [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]]* or what the Kabbalistic Zohar describes.
 
 ## Quantum Mechanical Correlates
 
@@ -92,7 +92,7 @@ processes arising at the quantum mechanical level.
 
 ## The Tryptamine Hypercontinuum
 
-The "hypercontinuum" concept holds that psilocybin mushrooms convey one into the
+The "hypercontinuum" concept holds that [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] convey one into the
 same fundamental phenomenological space as DMT, though the psilocybin experience
 builds over an hour and is sustained for a couple of hours rather than five
 minutes. Both substances involve:

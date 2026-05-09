@@ -5,7 +5,7 @@ updated: 2026-04-13
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  sources: []
 ---
 # Legume Nitrogen Dynamics
 
@@ -53,14 +53,14 @@ To release fixed nitrogen for use by other plants during the current growing sea
 | Legume | lbs N/acre | Comparable Vegetable Need |
 |--------|-----------|--------------------------|
 | Field beans (Pisum arvensis) | 40 | Low |
-| Peanuts (Arachis hypogaea) | 40 | Low |
-| Hairy vetch (Vicia villosa) | 80 | Broccoli-level |
-| Dutch white clover (Trifolium repens) | 100 | Asparagus, lettuce |
-| Soybeans (Glycine max) | 100 | Squash, broccoli |
+| Peanuts ([[arachis-hypogaea]]) | 40 | Low |
+| Hairy vetch ([[vicia-villosa]]) | 80 | Broccoli-level |
+| Dutch white clover ([[trifolium-repens]]) | 100 | Asparagus, lettuce |
+| Soybeans ([[glycine-max]]) | 100 | Squash, broccoli |
 | Alsike clover (Trifolium hybridum) | 140 | Moderate |
-| Red clover (Trifolium pratense) | 140 | Moderate |
+| Red clover ([[trifolium-pratense]]) | 140 | Moderate |
 | Sweet white clover (Melilotus alba) | 160 | Sweet potatoes + above |
-| Alfalfa (Medicago sativa) | 250 | Corn, tomatoes + all above |
+| Alfalfa ([[medicago-sativa]]) | 250 | Corn, tomatoes + all above |
 
 Note: Numbers vary considerably by soil type and climate, but relative rankings hold.
 
@@ -103,6 +103,6 @@ Successful legume-based rotations require inoculation with appropriate rhizobial
 ## See Also
 
 - [[permaculture-dynamic-accumulator-plants]] -- permaculture-specific accumulator strategies
-- [[edge-effect-in-permaculture]]
+- edge-effect-in-permaculture
 - [[fukuoka-white-clover-cover-crop-system]]
 - [[companion-planting-with-fungi]]

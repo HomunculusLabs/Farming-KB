@@ -51,13 +51,13 @@ Optimal growth occurs on moist, shaded to partially shaded substrates with high 
 
 Subspecies *ruderalis* is particularly associated with anthropogenic habitats and is the most commonly encountered form in urban and suburban environments. Subspecies *montivagans* is restricted to higher elevations and shows greater tolerance of cold and UV exposure.
 
-The species is intolerant of prolonged desiccation but can survive brief dry periods through physiological mechanisms including osmotic adjustment and protective pigment accumulation. It is most abundant in constantly moist microhabitats such as stream banks, waterfall spray zones, and shaded rock faces.
+The species is intolerant of prolonged desiccation but can survive brief dry periods through [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] including osmotic adjustment and protective pigment accumulation. It is most abundant in constantly moist microhabitats such as stream banks, waterfall spray zones, and shaded rock faces.
 
 ## Reproduction and Life Cycle
 
 *Marchantia polymorpha* exhibits a **heteromorphic alternation of generations** typical of bryophytes. The dominant haploid gametophyte produces gametes in specialized sex organs, while the diploid sporophyte remains nutritionally dependent on the gametophyte.
 
-Sexual reproduction is triggered by environmental cues including temperature change, photoperiod, and the accumulation of a sex-specific pheromone. Female plants produce the pheromone **lure**, while male plants produce **copulin**, creating a chemical communication system that ensures cross-fertilization.
+Sexual reproduction is triggered by environmental cues including temperature change, photoperiod, and the accumulation of a sex-specific pheromone. Female plants produce the pheromone **lure**, while male plants produce **copulin**, creating a [[bloomfield-siren-songs-fungal-chemical-communication-reproduction-chapter-7]] system that ensures cross-fertilization.
 
 The species exhibits a distinctive **dorsal ornamentation** pattern, with the thallus surface showing a reticulate network of lines marking the boundaries of internal air chambers. This pattern varies among subspecies and is used as a taxonomic character for identification.
 
@@ -71,9 +71,9 @@ Gemmae production is the primary means of asexual reproduction and local coloniz
 
 As a pioneering species, *M. polymorpha* plays important roles in primary succession and soil stabilization. Its thalli help retain moisture and organic matter on bare substrates, facilitating colonization by subsequent plant species and contributing to early soil development.
 
-Recent studies have demonstrated that *M. polymorpha* can serve as a **bioindicator of air quality**, particularly for heavy metal and nitrogen deposition. The species accumulates atmospheric pollutants in its thallus tissue, and measurable changes in growth and physiology reflect ambient pollution levels.
+Recent studies have demonstrated that *M. polymorpha* can serve as a **bioindicator of air quality**, particularly for heavy metal and [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]. The species accumulates atmospheric pollutants in its thallus tissue, and measurable changes in growth and physiology reflect ambient pollution levels.
 
-The species contributes to **nitrogen fixation** through associations with cyanobacteria (primarily *Nostoc* spp.) that colonize internal cavities of the thallus. This symbiotic relationship allows *M. polymorpha* to thrive on nitrogen-poor substrates.
+The species contributes to **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]** through associations with cyanobacteria (primarily *Nostoc* spp.) that colonize internal cavities of the thallus. This symbiotic relationship allows *M. polymorpha* to thrive on nitrogen-poor substrates.
 
 The liverwort serves as habitat and food source for various invertebrates, including springtails, nematodes, and specialist herbivorous insects. Oil body compounds provide chemical defense against most generalist herbivores, though some specialist insects have evolved tolerance.
 
@@ -89,13 +89,13 @@ In forest ecosystems, *M. polymorpha* contributes to nutrient cycling through ra
 
 The species possesses the smallest genome of any land plant at approximately 280 megabases, with low redundancy and a compact genetic architecture. This simplicity has made it invaluable for gene function studies, particularly in understanding the evolution of land plant innovations.
 
-Research on *M. polymorpha* has revealed fundamental insights into the evolution of auxin signaling, cell wall biosynthesis, UV protection mechanisms, and the genetic basis of thalloid vs. leafy body plans. The development of efficient *Agrobacterium*-mediated transformation and recently established tissue culture protocols has accelerated functional genomics research. Over 1,000 mutant lines are now available through public stock centers, facilitating community-wide research efforts.
+Research on *M. polymorpha* has revealed fundamental insights into the evolution of auxin signaling, cell wall biosynthesis, UV protection mechanisms, and the genetic basis of thalloid vs. leafy body plans. The development of efficient *Agrobacterium*-mediated transformation and recently established tissue culture protocols has accelerated [[magnaporthe-grisea-functional-genomics-rice-blast]] research. Over 1,000 mutant lines are now available through public stock centers, facilitating community-wide research efforts.
 
 CRISPR-Cas9 gene editing is routinely applied in this species.
 
 Comparative genomics studies using *M. polymorpha* have revealed that many genes involved in plant-microbe interactions and immune responses were present in the earliest land plants. This finding has reshaped understanding of the co-evolution of plants and their microbial partners.
 
-In synthetic biology, *M. polymorpha* is being explored as a chassis for producing valuable plant secondary metabolites. Its simple metabolism and ease of genetic manipulation make it a promising platform for engineered biosynthesis of pharmaceuticals and industrial compounds.
+In synthetic biology, *M. polymorpha* is being explored as a chassis for producing valuable plant [[antifungal-secondary-metabolites-coprophilous-fungi]]. Its simple metabolism and ease of genetic manipulation make it a promising platform for engineered biosynthesis of pharmaceuticals and industrial compounds.
 
 The liverwort has also contributed to understanding of **secondary metabolism**, particularly the biosynthesis of terpenoids and bibenzyls. Many of these compounds have pharmacological activities including antibacterial, antifungal, and antioxidant properties.
 

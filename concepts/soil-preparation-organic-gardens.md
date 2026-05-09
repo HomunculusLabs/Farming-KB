@@ -9,13 +9,13 @@ sources:
 ---
 # Soil Preparation for Organic Gardens
 
-The organic approach to gardening -- feeding the soil instead of the plant -- produces much stronger growth that is less attractive to pests and diseases and better able to cope with attacks. Soil preparation follows a four-phase approach.
+The organic approach to gardening -- feeding the soil instead of the plant -- produces much stronger growth that is less attractive to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] and better able to cope with attacks. Soil preparation follows a four-phase approach.
 
 ## The Four Phases of Soil Management
 
 ### Phase 1: Analyze Your Soil
 
-If starting on virgin soil, have it professionally tested. Home pH testing kits are sufficient for annual monitoring. A professional analysis will reveal exact chemical makeup and any deficiencies. Ask for organic fertilizer recommendations.
+If starting on virgin soil, have it professionally tested. Home pH testing kits are sufficient for annual monitoring. A professional analysis will reveal exact chemical makeup and any deficiencies. Ask for [[complete-organic-fertilizer-cof-recipe-solomon]] recommendations.
 
 Soils uncultivated for many years are often grossly deficient in one or more elements. Once you know what you are working with, annual home pH testing is sufficient.
 
@@ -23,8 +23,8 @@ Soils uncultivated for many years are often grossly deficient in one or more ele
 
 The best materials are manure and compost -- they improve drainage or water-holding capacity and provide nutrients. Well-rotted animal manure is the very best material. Compost can substitute but must be well-rotted if dug in. Alternative conditioners include spent mushroom compost, green compost, and spent hops -- these are superb conditioners but should not be relied on as nutrient sources.
 
-**Application rates:**
-- Vegetable garden: At least two 2-gallon (9 liter) buckets per square yard/meter, dug in during fall
+**[[ingham-compost-tea-application-rates-and-timing]]:**
+- [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]: At least two 2-gallon (9 liter) buckets per square yard/meter, dug in during fall
 - Mulch around trees and shrubs: One bucket per square yard/meter during growing season
 - Ornamental borders: One bucket per square yard/meter
 
@@ -38,7 +38,7 @@ If sufficient organic matter is applied, there may be no need for concentrated f
 
 Use blood, fish, and bone meal or pelleted chicken manure as a general organic fertilizer. Application rates vary according to soil and plants. Some crops (peas) need little or no additional fertilizer. Others (potatoes) need extra. Most fruit trees and bushes need fertilizer in spring whether or not mulched.
 
-Where trace element deficiencies have occurred, apply a light application of kelp meal or calcified kelp pellets at the beginning of each season.
+Where [[fukuoka-textdoc-fertilizer-acidification-trace-element-deficiency]] deficiencies have occurred, apply a light application of kelp meal or calcified kelp pellets at the beginning of each season.
 
 ### Phase 4: Use Specific Fertilizers
 
@@ -64,7 +64,7 @@ Organic fertilizers release nutrients slowly as they break down, reducing the ri
 
 ## Crop Rotation
 
-A three-year rotation plan helps manage soil fertility and reduce pest and disease buildup:
+A three-year rotation plan helps manage soil fertility and reduce [[hamilton-pest-and-disease-control-organic]] buildup:
 
 - **Plot A:** Root crops (potatoes, carrots, parsnips) -- manured the previous fall
 - **Plot B:** Legumes (peas, beans) -- benefit from nitrogen fixed in Plot C

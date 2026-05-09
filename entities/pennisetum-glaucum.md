@@ -12,8 +12,8 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Andrews, D.J. & Kumar, K.A. (1996). "Pearl Millet." In Janick, J. & Simon, J.E. (eds.), Advances in New Crops. ASHS Press.
-  - Varshney, R.K. et al. (2017). "Pearl Millet Genome Sequence Provides Insights into Drought Tolerance." Nature Biotechnology, 35, 961–966.
-  - FAO (2023). "FAOSTAT: Millet Production Data." Food and Agriculture Organization.
+  - Varshney, R.K. et al. (2017). "Pearl Millet Genome Sequence Provides Insights into [[dighton-fungal-drought-tolerance-plant-water-relations]]." Nature Biotechnology, 35, 961–966.
+  - FAO (2023). "FAOSTAT: Millet [[psilocybe-cubensis-miniculture-production-data-and-flush-longevity]]." Food and Agriculture Organization.
   - Bidinger, F.R. et al. (1987). "Identification of Agronomic Traits for Improving Drought Tolerance." Field Crops Research, 17, 87–104.
 ---
 
@@ -45,7 +45,7 @@ Pearl millet is grown across a broad latitudinal band from approximately 30°N t
 
 The crop thrives in sandy, infertile soils with low water-holding capacity where other cereals fail. It tolerates soil pH from 5.0 to 8.0, high salinity, and aluminum toxicity in acidic soils.
 
-Optimal growth occurs at temperatures of 25–35°C with 400–600 mm of rainfall distributed over a 90–120 day growing season. It is the most heat-tolerant cereal crop, maintaining photosynthesis at leaf temperatures above 40°C.
+Optimal growth occurs at temperatures of 25–35°C with 400–600 mm of rainfall distributed over a 90–120 day [[savory-growing-season-and-non-growing-season-management]]. It is the most heat-tolerant cereal crop, maintaining photosynthesis at leaf temperatures above 40°C.
 
 The species is particularly important in the Sahelian ecozone, where it is the dominant staple crop. In India, it is a staple in Rajasthan, Gujarat, and Maharashtra, where monsoon rainfall is unreliable.
 
@@ -67,7 +67,7 @@ Water requirements are among the lowest of all cereal crops, with seasonal water
 
 Fertilizer requirements are modest compared to maize and sorghum. Recommended rates in sub-Saharan Africa are 20–40 kg N/ha and 10–20 kg P₂O₅/ha, though many smallholders apply little or no fertilizer.
 
-Average grain yields range from 500–1,500 kg/ha under traditional management, with research station yields exceeding 3,000 kg/ha. The yield gap reflects limited input use, variable rainfall, and biotic stress from downy mildew (*Sclerospora graminicola*) and Striga parasitism.
+Average grain yields range from 500–1,500 kg/ha under traditional management, with research station yields exceeding 3,000 kg/ha. The yield gap reflects limited input use, variable rainfall, and biotic stress from [[cervantes-downy-mildew-fungal-blight]] (*Sclerospora graminicola*) and Striga parasitism.
 
 Hybrid pearl millet technology has been widely adopted in India, with hybrids yielding 30–50% more than open-pollinated varieties. In Africa, adoption of improved varieties remains limited by seed system constraints.
 
@@ -75,7 +75,7 @@ Hybrid pearl millet technology has been widely adopted in India, with hybrids yi
 
 Pearl millet provides food security for an estimated 90 million people in sub-Saharan Africa and 50 million in South Asia. It is often the only reliable cereal crop in the driest farming zones.
 
-The crop serves as dual-purpose grain and fodder in many farming systems. Stover (crop residue) is a critical dry-season livestock feed, contributing significantly to mixed crop-livestock livelihoods.
+The crop serves as dual-purpose grain and fodder in many farming systems. Stover ([[jadam-crop-residue-fertilizer]]) is a critical dry-season livestock feed, contributing significantly to mixed crop-livestock livelihoods.
 
 Pearl millet has growing importance as a climate-resilient crop under global warming scenarios. Models project that rising temperatures and increasingly erratic rainfall will expand the areas where pearl millet is the most productive cereal option.
 
@@ -89,7 +89,7 @@ Modern breeding programs exploit heterosis through hybrid development. Three-lin
 
 Genomic resources include a high-quality reference genome published in 2017 and dense SNP marker panels for genomic selection. Marker-assisted selection targets include downy mildew resistance, drought tolerance QTLs, and micronutrient biofortification.
 
-Open-pollinated varieties remain important in Africa, where formal seed systems reach a minority of farmers. Farmer-managed seed selection and local landrace conservation are critical for maintaining genetic diversity.
+Open-pollinated varieties remain important in Africa, where formal seed systems reach a minority of farmers. Farmer-managed [[cannabis-seed-selection-and-strain-types]] and local landrace conservation are critical for maintaining genetic diversity.
 
 ## See Also
 
@@ -105,4 +105,4 @@ Open-pollinated varieties remain important in Africa, where formal seed systems 
 - [[artocarpus-heterophyllus]]
 - [[mangifera-indica]]
 - [[persea-americana]]
-- [[amaranthus-palmeri]]
+- amaranthus-palmeri

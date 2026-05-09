@@ -1,24 +1,25 @@
 ---
-title: Fukuoka Straw Mulch Philosophy
+title: Fukuoka fukuoka-rice-straw-mulch-central-technique Philosophy
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Straw Mulch Philosophy
 
 Updated: 2026-04-19
 
-Masanobu Fukuoka places straw mulch at the foundation of his natural farming system in *The Natural Way of Farming*, calling it the starting point of natural rice farming and "a bold and revolutionary step in rice farming."
+Masanobu Fukuoka places straw mulch at the foundation of his [[comparison-natural-farming-vs-permaculture]] system in *The Natural Way of Farming*, calling it the starting point of [[fukuoka-lundberg-family-farms-natural-rice-transition]] farming and "a bold and revolutionary step in rice farming."
 
 ## The Foundation of Natural Rice Farming
 
 "Natural rice farming began with straw." Straw mulch serves multiple critical functions simultaneously:
 
-- Promotes seed germination by maintaining soil moisture
+- Promotes [[cannabis-seed-germination-methods]] by maintaining soil moisture
 
 - Suppresses winter weeds by blocking light to the soil surface
 
@@ -30,7 +31,7 @@ Masanobu Fukuoka places straw mulch at the foundation of his natural farming sys
 
 ## The Timing Principle
 
-The timing of straw application is critical. Rice straw must be scattered over the field immediately after threshing. If rice straw is scattered uncut, it takes just two or three hours. The simplicity of the operation is essential — if rain falls on a plowed field before seeding, the field turns to mud making direct seeding impossible. Quick, careless scattering is actually better than meticulous placement because the whole system must work within narrow time windows.
+The timing of straw application is critical. Rice straw must be scattered over the field immediately after threshing. If rice straw is scattered uncut, it takes just two or three hours. The simplicity of the operation is essential — if rain falls on a plowed field before seeding, the field turns to mud making [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] impossible. Quick, careless scattering is actually better than meticulous placement because the whole system must work within narrow time windows.
 
 No matter how conscientious a farmer is in his work, each operation is part of a carefully ordered system. A sudden change in weather or even a small disruption in the work schedule can upset the timing of an operation enough to lead to a major failure. See [[fukuoka-natural-soil-fertility]] and [[straw-mulch-in-agriculture]]
 
@@ -57,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +100,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

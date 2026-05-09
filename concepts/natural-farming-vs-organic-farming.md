@@ -1,5 +1,5 @@
 ---
-title: Natural Farming vs Organic Farming
+title: Natural comparison-biodynamic-farming-vs-organic-farming Farming
 source: Sowing Seeds in the Desert - Masanobu Fukuoka (2012)
 tags: [farming, natural-farming, organic-farming, agriculture, philosophy]
 created: 2026-05-08
@@ -24,7 +24,7 @@ The fundamental difference lies in the underlying worldview. Organic farming
 accepts the basic framework of modern agriculture, that crops must be grown
 through human management, but replaces synthetic inputs with natural ones.
 Organic farmers still plow, still apply fertilizers (compost, manure,
-organic amendments), still manage pests (through organic pesticides or
+[[cervantes-organic-amendments-chart]]), still manage pests (through organic pesticides or
 biological controls), and still select crop varieties based on yield and
 market characteristics. Natural farming asks instead: what can we stop
 doing? What practices are truly necessary? Fukuoka concluded that very few
@@ -36,10 +36,10 @@ fundamentally rethinking the relationship between farmer and land.
 
 Fukuoka was critical of organic farming's reliance on inputs, even natural
 ones. Making compost requires work, transporting manure requires energy,
-and applying organic fertilizers still imposes human decisions about what
+and applying [[hamilton-organic-fertilizers-and-plant-nutrition]] still imposes human decisions about what
 nutrients the soil needs. Fukuoka argued that if the natural balance is
 properly maintained, the soil will fertility itself through the activity
-of plants, microorganisms, and natural decomposition processes. The white
+of plants, microorganisms, and [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]] processes. The white
 clover in his rice fields fixed nitrogen, the straw mulch added organic
 matter, and the diverse ecosystem of insects, frogs, and spiders
 maintained pest balance. No external inputs of any kind were needed. He
@@ -64,7 +64,7 @@ that is the source of true abundance and ecological health.
 ## Observations at UC Davis
 
 During a visit to the University of California, Davis, Fukuoka observed
-students managing a farm using organic and natural farming methods. He
+students managing a farm using organic and natural [[natural-farming-methods-comparison]]. He
 noted that they were growing heirloom crops along with medicinal and
 ground cover plants, which was encouraging. However, he felt their use of
 green manure plants such as clover and alfalfa, the basis for soil
@@ -88,7 +88,7 @@ was inspired and got rid of six of his tractors. Seven years later, on
 Fukuoka's second visit, Lundberg reported that he and his three brothers
 were all doing natural farming. The fields were filled with barnyard grass
 but Lundberg was unconcerned. Despite the weeds, the fields produced
-sixteen to eighteen bushels per quarter acre, comparable to conventional
+sixteen to eighteen bushels per [[fukuoka-agriculture-tomorrow-quarter-acre-vision]], comparable to conventional
 Japanese paddies, while using large harvesting equipment. Lundberg had
 also been able to grow rice in each field every year rather than the
 previous organic rotation of rice, fallow, and wheat. Fukuoka saw this

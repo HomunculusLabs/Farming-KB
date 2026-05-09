@@ -1,5 +1,5 @@
 ---
-title: Hot Composting Method
+title: comparison-bokashi-vs-hot-composting-method Method
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,13 +11,13 @@ sources: []
 
 > Note: This page is compiled from general knowledge, not sourced from a specific file in the wiki's raw/ directory.
 
-Hot composting (thermophilic composting) is a managed decomposition process that uses aerobic microorganisms to rapidly break down organic materials at elevated temperatures. When done correctly, a hot compost pile reaches internal temperatures of 130-160F (55-71C), significantly speeding decomposition compared to cold composting while destroying weed seeds, pathogens, and disease organisms.
+Hot composting (thermophilic composting) is a managed decomposition process that uses aerobic microorganisms to rapidly break down organic materials at elevated temperatures. When done correctly, a hot [[mushroom-cultivator-compost-pile-management]] reaches internal temperatures of 130-160F (55-71C), significantly speeding decomposition compared to cold composting while destroying weed seeds, pathogens, and disease organisms.
 
 ## The Three Temperature Stages
 
 ### Stage 1: Mesophilic Phase (Room temperature to 105F / 40C)
 - **Duration**: First 1-3 days
-- **What happens**: Mesophilic (moderate-temperature) bacteria and fungi begin decomposing readily available sugars and simple compounds. They multiply rapidly, generating heat as a byproduct of metabolic activity.
+- **What happens**: Mesophilic (moderate-temperature) bacteria and fungi begin decomposing readily available sugars and simple compounds. They multiply rapidly, generating heat as a byproduct of [[arbuscule-isolation-metabolic-activity-assays]].
 - **Oxygen demand**: High — the pile needs good aeration
 - **Moisture**: Should be 50-60% (feels like a wrung-out sponge)
 
@@ -32,7 +32,7 @@ Hot composting (thermophilic composting) is a managed decomposition process that
 
 ### Stage 3: Cooling and Curing Phase (Back to ambient)
 - **Duration**: Weeks to months
-- **What happens**: Thermophiles die off as food supply diminishes and temperature drops. Mesophilic organisms return, followed by larger decomposers (springtails, mites, earthworms). Remaining organic matter slowly converts to humus. The pile matures and stabilizes.
+- **What happens**: Thermophiles die off as food supply diminishes and temperature drops. Mesophilic organisms return, followed by larger decomposers (springtails, mites, earthworms). Remaining [[hamilton-composting-and-organic-matter-management]] slowly converts to humus. The pile matures and stabilizes.
 - **When finished**: Compost is dark brown, crumbly, earthy-smelling, and none of the original materials are recognizable. Internal temperature matches ambient air temperature.
 
 ## Carbon-Nitrogen Ratio (C/N)
@@ -44,7 +44,7 @@ The ideal starting C/N for hot composting is 25-30:1. This provides enough carbo
 | "Green" (Nitrogen-rich, low C/N) | C/N | "Brown" (Carbon-rich, high C/N) | C/N |
 |---|---|---|---|
 | Fresh grass clippings | ~20:1 | Dry leaves | ~60:1 |
-| Coffee grounds | ~20:1 | Straw | ~80:1 |
+| [[oyster-mushroom-coffee-grounds-cultivation]] | ~20:1 | Straw | ~80:1 |
 | Kitchen scraps | ~15:1 | Sawdust | ~400:1 |
 | Fresh manure (cow) | ~20:1 | Shredded paper | ~175:1 |
 | Fresh manure (horse) | ~25:1 | Cardboard | ~350:1 |
@@ -67,7 +67,7 @@ A practical rule of thumb: build the pile with roughly 2-3 parts "brown" materia
 
 ### Building the Pile (Layer Method)
 
-1. **Base layer** (15-20 cm): Coarse woody material, branches, or wood chips for drainage and aeration
+1. **Base layer** (15-20 cm): [[fungal-diversity-leaf-litter-coarse-woody-debris]] material, branches, or wood chips for drainage and aeration
 2. **Alternate layers** of greens and browns, each 5-10 cm thick
 3. **Moisten each layer** as you build — aim for 50-60% moisture
 4. **Optional activators**: A thin layer of finished compost, manure, or garden soil between layers to inoculate with microorganisms

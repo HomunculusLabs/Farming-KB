@@ -1,14 +1,12 @@
 ---
-title: Fungal Metal Transformations and Biosorption
+title: Fungal fungal metal transformations biosorption and Biosorption
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Metal Transformations and Biosorption
-
-Fungi interact with toxic metals and metalloids through a remarkable diversity of mechanisms that have significant potential for [[fungal-organic-acid-metal-solubilization]]
+# Fungal Metal Transformations and Biosorption Fungi interact with toxic metals and metalloids through a remarkable diversity of mechanisms that have significant potential for [[fungal-organic-acid-metal-solubilization]]
 - [[fungal-metal-transformations]]
 
 - [[fungal-bioremediation-case-studies]]
@@ -143,4 +141,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

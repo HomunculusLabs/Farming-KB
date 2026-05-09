@@ -4,14 +4,15 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, genetics, species-profiles, organization, seeds, beginner]
-sources: []
+sources:
+  sources: []
 ---
 
 # Cannabis Seed Banks and Genetics
 
 ## Overview
 
-Cannabis seed banks are companies that produce, store, and distribute cannabis seeds to growers worldwide. They serve as the primary source of genetic diversity for both commercial operations and home cultivators. Understanding seed banks, strain preservation, and genetic terminology is essential for anyone serious about [[cannabis-breeding-basics|breeding]] or selecting quality genetics for [[cannabis-indoor-growing-basics|indoor]] or [[cannabis-outdoor-growing|outdoor]] cultivation.
+Cannabis seed banks are companies that produce, store, and distribute cannabis seeds to growers worldwide. They serve as the primary source of genetic diversity for both commercial operations and home cultivators. Understanding seed banks, [[mushroom-strain-preservation-senescence]], and genetic terminology is essential for anyone serious about [[cannabis-breeding-basics|breeding]] or selecting quality genetics for [[cannabis-indoor-growing-basics|indoor]] or [[cannabis-outdoor-growing|outdoor]] cultivation.
 
 ## Types of Seeds
 
@@ -53,7 +54,7 @@ The Netherlands was the birthplace of the modern commercial seed bank industry:
 - **Dutch Passion:** Established in 1987. Pioneered feminized seed technology. Known for reliable, stable genetics and autoflower development.
 - **Royal Queen Seeds:** Modern Dutch bank with extensive catalog. Good beginner-friendly options and competitive pricing.
 - **Greenhouse Seeds:** Founded by Arjan Roskam. Won multiple Cannabis Cups. Known for powerful, high-THC strains like Super Lemon Haze and White Rhino.
-- **Barney's Farm:** Based in Amsterdam. Extensive catalog with strains from their world travels and breeding programs.
+- **Barney's Farm:** Based in Amsterdam. Extensive catalog with strains from their [[fukuoka-world-travels-global-influence]] and breeding programs.
 
 ### Spanish Seed Banks
 
@@ -79,7 +80,7 @@ Spain has emerged as a major seed bank hub due to favorable laws:
 
 ## Landrace Genetics
 
-Landrace strains are pure, naturally evolved cannabis varieties from specific geographic regions. They represent the original genetic diversity before modern breeding.
+[[sativa-landrace-strains-and-geographic-origins]] are pure, naturally evolved cannabis varieties from specific geographic regions. They represent the original genetic diversity before modern breeding.
 
 ### Important Landrace Regions
 
@@ -87,17 +88,17 @@ Landrace strains are pure, naturally evolved cannabis varieties from specific ge
 
 **Americas:** Colombian (Gold, Red, Black — used in Skunk #1), Mexican (Acapulco Gold, Oaxacan), Jamaican sativas.
 
-**Africa:** Durban Poison (South African sativa — one of few pure landraces widely in seed form), Malawi, Swazi.
+**Africa:** Durban Poison ([[kanna-sceletium-south-african-narcotic]] sativa — one of few pure landraces widely in seed form), Malawi, Swazi.
 
 ### Landrace Preservation
 
-Many landrace populations are threatened by introduced hybrid genetics. Seed banks maintain living collections, and organizations like the Cannabis Genetics Institute work on [[cannabis-breeding-basics|breeding programs]] and preservation efforts.
+Many landrace populations are threatened by introduced hybrid genetics. Seed banks maintain living collections, and organizations like the [[vic-high-cannabis-genetics-mendelian-inheritance]] Institute work on [[cannabis-breeding-basics|breeding programs]] and preservation efforts.
 
 ## Breeding Programs
 
 ### Commercial Breeding Goals
 
-High THC, unique terpene profiles, fast flowering, high yields, pest resistance, visual appeal, and genetic stability.
+High THC, unique [[cannabis-terpene-profiles-sativa]], fast flowering, high yields, pest resistance, visual appeal, and genetic stability.
 
 ### Breeding Techniques
 

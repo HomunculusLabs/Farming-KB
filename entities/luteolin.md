@@ -74,7 +74,7 @@ and subsequent pro-inflammatory mediator release. It also modulates
 MAO-A and MAO-B enzyme activity, and has demonstrated protective effects
 in animal models of Alzheimer's and Parkinson's diseases.
 
-**Anticancer:** Luteolin induces apoptosis in cancer cell lines through
+**Anticancer:** Luteolin induces apoptosis in [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines through
 multiple pathways including PI3K/Akt inhibition, cell cycle arrest at G2/M
 phase, and suppression of VEGF-mediated angiogenesis. IC₅₀ values vary
 widely across cell lines (15–100 µM range).
@@ -91,7 +91,7 @@ vary considerably.
 - Rosemary (*Rosmarinus officinalis*) — 2.5–4.0 mg/g
 
 **Moderate sources (0.1–1 mg/g):**
-- Parsley, oregano, thyme, green pepper, olive oil
+- Parsley, oregano, thyme, green pepper, [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]]
 
 Oral bioavailability of luteolin is relatively low (approximately 30%),
 limited by extensive phase II metabolism (glucuronidation and sulfation).
@@ -102,7 +102,7 @@ However, luteolin metabolites retain significant biological activity.
 
 Clinical and preclinical evidence supports several therapeutic applications.
 Respiratory health benefits include bronchodilation and anti-allergic effects
-demonstrated in clinical trials using luteolin-containing formulations for
+demonstrated in [[mushroom-cancer-clinical-trials-overview]] using luteolin-containing formulations for
 asthma and allergic rhinitis.
 
 Cardiovascular protective effects include endothelial function improvement,

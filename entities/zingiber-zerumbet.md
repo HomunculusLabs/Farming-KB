@@ -42,9 +42,9 @@ The inflorescence is the most recognizable feature: a cone-like structure 8–15
 
 Rhizomes are fleshy, branching, pale yellow internally with a ginger-like aroma though milder and less pungent than Z. officinale. They are smaller than commercial ginger, typically 2–5 cm in diameter.
 
-The root system is fibrous with occasional spherical root tubers that serve as additional storage organs. These tubers are not typically harvested but contribute to the plant's drought tolerance and regenerative capacity after disturbance.
+The root system is fibrous with occasional spherical root tubers that serve as additional storage organs. These tubers are not typically harvested but contribute to the plant's [[dighton-fungal-drought-tolerance-plant-water-relations]] and regenerative capacity after disturbance.
 
-Pollination is primarily by insects, including bees and butterflies attracted to the nectar-rich flowers. Seed production is variable, and vegetative propagation via rhizome division is the dominant mode of reproduction in both wild and cultivated populations.
+Pollination is primarily by insects, including bees and butterflies attracted to the nectar-rich flowers. [[cervantes-seed-production-storage]] is variable, and vegetative propagation via rhizome division is the dominant mode of reproduction in both wild and cultivated populations.
 
 ## Distribution and Habitat
 
@@ -56,7 +56,7 @@ In some Pacific islands, Z. zerumbet is considered moderately invasive due to it
 
 ## Phytochemistry
 
-The essential oil of Z. zerumbet rhizomes (1.5–3.0% dry weight) is dominated by sesquiterpenes. Zerumbone is the principal constituent, typically comprising 30–50% of the essential oil, and is considered the primary bioactive marker compound.
+The [[permaculture-designers-manual-essential-oil-plants]] of Z. zerumbet rhizomes (1.5–3.0% dry weight) is dominated by sesquiterpenes. Zerumbone is the principal constituent, typically comprising 30–50% of the essential oil, and is considered the primary bioactive marker compound.
 
 Additional sesquiterpenes identified include α-humulene, β-caryophyllene, linalool, camphene, and cineole. The rhizome also contains gingerols, shogaols, and paradols, though in lower concentrations than Z. officinale.
 
@@ -68,16 +68,16 @@ The inflorescence cone fluid contains a different volatile profile rich in monot
 
 Zingiber zerumbet has a broad spectrum of traditional medicinal uses across its range. In Ayurvedic medicine the rhizome is used for digestive complaints, fever, and respiratory conditions. In Thai traditional medicine it is prescribed for flatulence, dyspepsia, and as a carminative.
 
-In Hawaiian *la'au lapa'au*, the rhizome is used for stomach aches, toothaches, and as a general tonic. The cone fluid is applied topically for skin conditions and hair care, and was traditionally used as a shampoo and hair conditioner.
+In Hawaiian *la'au lapa'au*, the rhizome is used for stomach aches, toothaches, and as a general tonic. The cone fluid is applied topically for [[cannabis-for-skin-conditions-detailed]] and hair care, and was traditionally used as a shampoo and hair conditioner.
 
 **Key pharmacological activities documented in the literature:**
 
 - **Anti-inflammatory:** Zerumbone inhibits NF-κB, STAT3, and COX-2 signaling pathways. Oral administration reduces carrageenan-induced paw edema in rodent models.
 - **Anticancer:** Zerumbone induces apoptosis and cell cycle arrest in multiple cancer cell lines. It suppresses tumor growth in xenograft models of colon and breast cancer.
 - **Antioxidant:** Rhizome extracts scavenge DPPH and ABTS free radicals in vitro. Zerumbone upregulates endogenous antioxidant enzymes including SOD and catalase.
-- **Antimicrobial:** Essential oil inhibits growth of Staphylococcus aureus, Escherichia coli, and Candida albicans with MIC values comparable to standard antibiotics.
+- **Antimicrobial:** Essential oil inhibits growth of Staphylococcus aureus, Escherichia coli, and [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]] with MIC values comparable to standard antibiotics.
 
-⚠️ While preclinical data are promising, human clinical trials remain limited. The rhizome is generally recognized as safe for food use in traditional practice, but standardized safety data for therapeutic doses are not available.
+⚠️ While preclinical data are promising, human [[mushroom-cancer-clinical-trials-overview]] remain limited. The rhizome is generally recognized as safe for food use in traditional practice, but standardized safety data for therapeutic doses are not available.
 
 Zerumbone has shown promise in chemoprevention studies, particularly for colon and skin cancers. Mechanism studies indicate it modulates multiple signaling cascades including PI3K/Akt and MAPK pathways, giving it a broad-spectrum effect on tumor cell proliferation.
 

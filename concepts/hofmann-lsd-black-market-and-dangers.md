@@ -1,5 +1,5 @@
 ---
-title: "LSD Black Market and Dangers of Nonmedicinal Use"
+title: "[[hofmann-lsd-animal-experiments-toxicity]] black market and dangers Market and Dangers of Nonmedicinal Use"
 created: 2026-04-28
 tags: [lsd, hofmann, drug-policy, harm-reduction, pharmacology]
 date: 2026-04-25
@@ -53,7 +53,7 @@ especially during the production of stable, storable forms of LSD.
 Claims that LSD may easily be prepared, or that every chemistry student in
 a half-decent laboratory is capable of producing it, are untrue. While
 procedures for synthesis of LSD have been published and are accessible,
-chemists would need pure lysergic acid at their disposal, the possession
+chemists would need pure [[ergot-and-lysergic-acid-history]] at their disposal, the possession
 of which is subject to the same strict regulations as LSD itself. Special
 equipment and not easily acquired specific experience are required to
 isolate LSD in pure crystalline form and to produce stable preparations.

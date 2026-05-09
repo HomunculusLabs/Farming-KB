@@ -1,5 +1,5 @@
 ---
-title: Geese as Grass Control and Integrated Poultry in Permaculture
+title: Geese as mollison geese grass control and integrated poultry and Integrated Poultry in Permaculture
 created: 2026-04-26
 tags:
   - permaculture
@@ -28,7 +28,7 @@ without the soil damage caused by heavier foragers.
 Mollison emphasises that every animal participates in nutrient
 cycles. Geese eat grass, digest it, moult, produce waste products, and
 add parasites, digestive enzymes, acids, and alkalis to the soil. The
-ground receives this rejecta, the sun shines, and rain falls. Fungi,
+ground receives this rejecta, the sun shines, and [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]]. Fungi,
 bacteria, grass roots, and foliage work on feathers and faeces to
 re-metabolise them into life. If we reorganise and encourage such
 cycles, our opportunities to obtain yields multiply.
@@ -36,7 +36,7 @@ cycles, our opportunities to obtain yields multiply.
 The key insight is that cycles in time (niches in space) together give
 harbour to many events and species. By incorporating geese into the
 design, designers activate a biological grass-management system that
-produces fertility as a by-product of weed control.
+produces fertility as a by-product of [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]].
 
 ## Geese in Orchard and Crop Systems
 
@@ -52,7 +52,7 @@ Geese are particularly effective at:
   storage areas and reduce infiltration capacity.
 
 - **Orchard understorey management**: Geese clip short swards beneath
-  fruit trees, reducing root competition from invasive grasses that
+  [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], reducing root competition from invasive grasses that
   weaken most deciduous fruit trees. Mollison notes that grass is the
   primary enemy of cultivated food trees, which thrive in herbal ground
   covers rather than grassy swards.
@@ -103,7 +103,7 @@ system:
   orchard and zone 3 pasture edges.
 - [[permaculture-design]]:
 
-1. Site goose shelters in [[mollison-zone-planning-frequency-distance-and-placement]] where
+1. Site goose shelters in mollison-zone-planning-frequency-distance-and-placement where
   forage ranges can be managed with minimal fencing.
 
 2. Ensure access to clean water for drinking and foraging.
@@ -115,7 +115,7 @@ system:
   goose manure is captured and distributed to tree crops.
 
 5. Use geese to maintain paths and clearings, reducing the need for
-   mowing equipment and fossil fuel inputs.
+   mowing equipment and [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]] inputs.
 
 ## Yields from Geese
 
@@ -133,3 +133,9 @@ Mollison frames this as a central permaculture principle: the yield
 of a system is theoretically unlimited, limited only by the
 information and imagination of the designer. Every element should
 perform multiple functions, and geese exemplify this approach.
+## See Also
+- [[bill-mollison]]
+- [[mollison-designers-geese-and-duck-weed-control]]
+- [[mollison-designers-vetiver-grass-for-erosion-control]]
+- [[poultry-range-management-mollison]]
+- [[mollison-designers-rice-paddy-integrated-duck-fish]]

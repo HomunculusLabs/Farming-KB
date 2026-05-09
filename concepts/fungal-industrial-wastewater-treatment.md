@@ -1,22 +1,20 @@
 ---
-title: Fungal Industrial Wastewater Treatment
+title: Fungal fungal industrial wastewater treatment Treatment
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources: []
 ---
-
-updated: 2026-04-18
-
-Fungal treatment of industrial wastewaters is a major application of [[fungal-oil-petroleum-bioremediation]].
+updated: 2026-04-18 Fungal [[fungal-treatment-of-industrial-wastewaters]] wastewaters is a major application of [[fungal-oil-petroleum-bioremediation]].
 
 ### Silage Wastewater
 
 Silage effluent is problematic due to high organic load, acidity, and regulatory constraints. Fungal treatment approaches include:
 - On-farm treatment systems
 - Fungal biomass production
-- Compliance with agricultural waste legislation
+- Compliance with [[fungi-in-composting-and-agricultural-waste-conversion]] legislation
 
 ### Acidogenic Wastewater
 
@@ -27,7 +25,7 @@ Highly acidic waste streams can be treated by acid-tolerant fungi using bioreact
 Olive mill effluent is among the most challenging industrial wastewaters, containing phenolic compounds, high organic load, and antimicrobial constituents. Treatment approaches include:
 - Fungal fermentation with species selection for phenolic tolerance
 - Mathematical modeling of treatment processes
-- Immobilized fungal cell systems
+- [[singh-immobilized-fungal-bioreactors-wastewater-treatment]] cell systems
 - Enzyme treatment approaches
 - Toxicity testing protocols
 - Significant economic importance in Mediterranean regions
@@ -50,13 +48,13 @@ Multiple bioreactor configurations are employed for fungal wastewater treatment:
 - Filamentous growth enables efficient substrate colonization
 - Production of valuable co-products (single-cell protein, enzymes)
 - Ability to degrade recalcitrant compounds via [[fungal-bioreactor-types]]
-- [[fungal-wastewater-treatment]]
+- fungal-wastewater-treatment
 - [[fungal-distillery-waste-treatment]]
 
 ## Source
 
-Singh, H. (2006). *Mycoremediation: Fungal Bioremediation*. John Wiley & Sons. Chapter 2: "Fungal Treatment of Industrial Wastewaters."
-- [[singh-fungal-treatment-industrial-wastewaters-overview]]
+Singh, H. (2006). *Mycoremediation: [[staycare-composting-as-a-fungal-bioremediation-strategy]]*. John Wiley & Sons. Chapter 2: "Fungal Treatment of Industrial Wastewaters."
+- singh-fungal-treatment-industrial-wastewaters-overview
 ## Practical Considerations
 
 When working with Fungal Industrial Wastewater Treatment, several practical factors should be
@@ -73,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

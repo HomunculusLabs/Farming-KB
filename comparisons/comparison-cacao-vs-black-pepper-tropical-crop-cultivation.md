@@ -15,7 +15,7 @@ created: 2026-05-03
 
 ## Overview
 
-Cacao (*Theobroma cacao*) and black pepper (*Piper nigrum*) are two of the world's most economically significant tropical crops. Cacao is the source of chocolate and cocoa products, cultivated primarily for its seeds (beans) enclosed in large pods. Black pepper, known as the "king of spices," produces dried berries used as a universal condiment. Despite sharing tropical origins, they differ profoundly in growth habit — cacao is a small evergreen understory tree, while black pepper is a woody climbing vine. Both crops play important roles in [[permaculture]] systems, often grown together in multi-strata tropical polycultures.
+Cacao (*Theobroma cacao*) and black pepper (*Piper nigrum*) are two of the world's most economically significant [[mollison-specialist-tropical-crops-forest-products]]. Cacao is the source of chocolate and cocoa products, cultivated primarily for its seeds (beans) enclosed in large pods. Black pepper, known as the "king of spices," produces dried berries used as a universal condiment. Despite sharing tropical origins, they differ profoundly in growth habit — cacao is a small evergreen understory tree, while black pepper is a woody climbing vine. Both crops play important roles in permaculture systems, often grown together in multi-strata tropical polycultures.
 
 This comparison examines their cultivation requirements side by side, highlighting both contrasts and synergies for growers considering either or both crops.
 
@@ -37,15 +37,15 @@ Both crops are confined to humid tropical and subtropical regions, but their spe
 
 **Cacao** thrives within 20° north and south of the equator, in zones classified under Köppen as Af and Am (tropical rainforest and monsoon climates). Optimal temperatures range from 25–28°C. Cacao is highly sensitive to drought and requires consistent rainfall of 1,500–2,500 mm per year, well-distributed throughout the year. It cannot tolerate temperatures below 15°C or prolonged dry seasons exceeding 3 months. Cacao is typically grown between sea level and 600 m elevation, though some varieties tolerate up to 1,000 m.
 
-**Black pepper** is cultivated between 20°N and 20°S, with major production in South and Southeast Asia. It prefers temperatures of 23–32°C and annual rainfall of 2,000–3,000 mm. Unlike cacao, established black pepper vines tolerate a distinct dry season of 2–3 months, which can actually promote flowering. Black pepper is cultivated from sea level up to about 1,200 m, with quality often improving at moderate elevations (300–800 m). It is less tolerant of waterlogging than cacao.
+**Black pepper** is cultivated between 20°N and 20°S, with major production in South and [[psilocybe-southeast-asia-pacific]]. It prefers temperatures of 23–32°C and annual rainfall of 2,000–3,000 mm. Unlike cacao, established black pepper vines tolerate a distinct dry season of 2–3 months, which can actually promote flowering. Black pepper is cultivated from sea level up to about 1,200 m, with quality often improving at moderate elevations (300–800 m). It is less tolerant of waterlogging than cacao.
 
 ## Soil Preferences
 
-**Cacao** prefers deep, well-drained, fertile loams with high [[gliricidia-sepium]], [[erythrina-fusca]]) regulate temperature, reduce evapotranspiration, and improve soil fertility through leaf litter and nitrogen fixation. Shade management is critical — excessive shade reduces yield, while insufficient shade causes leaf scorch and stress.
+**Cacao** prefers deep, well-drained, fertile loams with high gliricidia-sepium, [[erythrina-fusca]]) regulate temperature, reduce evapotranspiration, and improve soil fertility through leaf litter and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. Shade management is critical — excessive shade reduces yield, while insufficient shade causes leaf scorch and stress.
 
-**Black pepper** is a climbing vine that requires physical support structures for vertical growth. In traditional systems, living support trees (standards) such as [[permaculture]] design.
+**Black pepper** is a climbing vine that requires physical support structures for vertical growth. In traditional systems, living support trees (standards) such as [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]].
 
-**Cacao** is a classic understory component in multi-strata agroforestry systems. It is commonly intercropped with shade trees (leguminous or timber species), banana/plantain as temporary shade, and fruit trees at the mid-canopy level. Cacao agroforests in West Africa and Indonesia mimic natural forest structure, providing biodiversity habitat alongside crop production. In permaculture, cacao is placed in the understory guild, integrated with nitrogen-fixing support species and mulch-producing plants.
+**Cacao** is a classic understory component in multi-strata agroforestry systems. It is commonly intercropped with shade trees (leguminous or timber species), banana/plantain as temporary shade, and fruit trees at the mid-canopy level. Cacao agroforests in West Africa and Indonesia mimic natural [[mollison-wet-tropical-forest-structure-and-polyculture]], providing biodiversity habitat alongside crop production. In permaculture, cacao is placed in the understory guild, integrated with nitrogen-fixing support species and mulch-producing plants.
 
 **Black pepper** fits into agroforestry as a vine layer climbing on support trees. In South India, the classic cropping system combines areca palm, coconut, or jackfruit as the canopy with black pepper vines climbing the trunks, plus ground-level spices like cardamom or turmeric. This vertical stacking maximizes land-use efficiency. In permaculture, black pepper occupies the vine layer on the food forest edge, where it receives full sun while climbing productive support species.
 
@@ -74,13 +74,15 @@ Both crops offer important income diversification for smallholder farmers in the
 | Productive lifespan | 30–50+ years | 15–25 years |
 | Average yield | 400–1,500 kg/ha dry beans | 300–2,500 kg/ha dry peppercorns |
 | Post-harvest processing | Fermentation + drying | Sun drying (or retting for white pepper) |
-| Primary production region | West Africa, Latin America | South & Southeast Asia |
+| [[lichens-primary-production-soil-formation-dighton]] region | West Africa, Latin America | South & Southeast Asia |
 | Global market | ~USD 15 billion/year | ~USD 3–5 billion/year |
 | Key diseases | Black pod, frosty pod, witches' broom, CSSV | Quick wilt, slow decline, pollu disease |
 
 Both cacao and black pepper are cornerstone crops for tropical smallholder livelihoods, offering complementary cultivation niches within agroforestry landscapes. While they differ fundamentally in growth habit, shade requirements, and processing needs, their shared need for warm, humid conditions and integration into multi-strata systems makes them compatible companions in diversified tropical farms.
 
 ## See Also
+
+- [[theobromine]]
 
 - [[hibiscus-rosa-sinensis]]
 - [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]]

@@ -27,7 +27,7 @@ All Basidiomycota share the following synapomorphies:
   basidiospores are produced
 - **Basidiospores** -- sexual spores formed externally on
   sterigmata projecting from the basidium
-- **Dolipore septum** -- a specialized septal pore structure
+- **Dolipore septum** -- a specialized [[fungal-woronin-bodies-and-septal-pore-organization]] structure
   with a swollen rim and perforated septal cap, unique to
   the Basidiomycota
 - **Clamp connections** -- hyphal branches that ensure
@@ -44,7 +44,7 @@ The Ustilaginomycotina contains the [[rust-fungi-biodiversity-life-cycles]],
 which are among the most economically important plant
 pathogens. Features include:
 
-- Up to five distinct spore stages in complex life cycles
+- Up to five distinct spore stages in complex [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]
 - Many species are heteroecious (requiring two unrelated
   host species to complete their life cycle)
 - Over 7,000 species described, predominantly on
@@ -96,7 +96,7 @@ The Polyporales contains the bracket fungi and their allies,
 many of which are wood decomposers. Important genera include:
 
 - Ganoderma (reishi/lingzhi)
-- Trametes (turkey tail)
+- Trametes ([[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]])
 - Fomes and Fomitopsis (conk fungi)
 - Lentinula (shiitake mushroom)
 
@@ -110,16 +110,16 @@ phylogenetics has shown this group to be polyphyletic.
 ## Resupinate and Sequestrate Forms
 
 The Basidiomycota includes fungi with reduced or modified
-fruiting body morphologies:
+[[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] morphologies:
 
 - **Resupinate fungi** -- crust-like fruiting bodies that
   grow flat on the substrate surface
 - **Secotioid fungi** -- intermediate forms between
-  typical mushrooms and fully hypogeous fungi, with
+  typical mushrooms and fully [[dighton-hypogeous-fungi-mammal-spore-dispersal]], with
   partially enclosed caps
 - **Gasteroid fungi** -- puffballs, earthstars, and
   stinkhorns in which the spore-producing tissue is
   enclosed at maturity
 - **Truffle-like basidiomycetes** -- hypogeous fungi
-  including truffle cultivation methods techniques (Tuber) in the Ascomycota and their
+  including [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]] methods techniques (Tuber) in the Ascomycota and their
   basidiomycete analogues (Hymenogaster, Melanogaster)

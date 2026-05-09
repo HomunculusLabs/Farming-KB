@@ -10,7 +10,7 @@ sources:
 
 # Graham Burnett
 
-British permaculture teacher, designer, and author of "Permaculture: A Beginner's Guide." Based in Essex, UK, Burnett has been teaching permaculture design courses since the late 1990s and is known for his ability to communicate complex ecological design concepts through clear, illustrated explanations. See [[permaculture-principles]] and [[permaculture-design-methods]] for the core frameworks he teaches.
+British permaculture teacher, designer, and author of "Permaculture: A Beginner's Guide." Based in Essex, UK, Burnett has been teaching [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] courses since the late 1990s and is known for his ability to communicate complex [[williams-pdc-ecological-design-principles]] concepts through clear, illustrated explanations. See [[permaculture-principles]] and [[permaculture-design-methods]] for the core frameworks he teaches.
 
 ## *Permaculture: A Beginner's Guide*
 
@@ -24,7 +24,7 @@ Burnett's beginner's guide is one of the most widely-read introductions to perma
 
 From his beginner's guide, Burnett emphasizes these practical applications of [[permaculture-principles]]:
 
-1. **Work with nature, not against it** — use biological pest control (see [[insect-allies]]), passive solar design, natural patterns
+1. **Work with nature, not against it** — use [[cervantes-biological-pest-control-predators]] control (see [[insect-allies]]), [[comparison-passive-solar-vs-earth-sheltered]] design, natural patterns
 2. **See solutions, not problems** — "You haven't got an excess of slugs, you've got a duck deficiency" ([[bill-mollison]])
 3. **Every function supported by many elements** — polyculture over monoculture for resilience (see [[cover-crop-species-comparison]])
 4. **Every element serves many functions** — stack functions in design (see [[integrated-homestead-design]])
@@ -47,7 +47,7 @@ Burnett's contribution is primarily educational — he translated the often dens
 
 ## See Also
 
-- [[permaculture-principles]] — Core design principles
+- [[permaculture-principles]] — Core [[holmgren-permaculture-twelve-design-principles-framework]]
 - [[permaculture-design-methods]] — Design tools and frameworks
 - [[permaculture-zones-in-practice]] — Zone-based planning
 - [[gaia-garden-plant-guilds]] — Guild design
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -23,9 +23,9 @@ Beyond analgesia and anti-inflammatory properties, cannabis reduces painful spas
 
 ## The Endogenous Opioid System Interaction
 
-Cannabinoids and opioids interact through complex cross-talk at multiple levels. Research cited in the Cannabis Health Index shows that both THC and the synthetic cannabinoid CP 55,940 reduce pain by inducing the release of endogenous opioids dynorphin A and dynorphin B, respectively. Anandamide reduces pain through a distinct, potentially novel mechanism not yet fully understood.
+Cannabinoids and opioids interact through complex cross-talk at multiple levels. Research cited in the [[blesching-cannabis-health-index-autoimmune-conditions]] shows that both THC and the synthetic cannabinoid CP 55,940 reduce pain by inducing the release of endogenous opioids dynorphin A and dynorphin B, respectively. Anandamide reduces pain through a distinct, potentially novel mechanism not yet fully understood.
 
-Cannabinoids cannot replace the strong analgesic properties of opiates, especially in cases of new trauma. However, in conjunction with reduced opiate doses, cannabinoids produce effective pain control while reducing the risk of adverse effects and habit-forming potential. Pre-clinical studies indicate that THC and morphine can be useful in low-dose combination as an analgesic. This opioid-sparing effect is one of the most clinically significant applications of cannabinoid therapy, particularly in the context of the opioid crisis.
+Cannabinoids cannot replace the strong analgesic properties of opiates, especially in cases of new trauma. However, in conjunction with reduced opiate doses, cannabinoids produce effective pain control while reducing the risk of [[blesching-cannabis-safety-adverse-effects-evidence]] and habit-forming potential. Pre-clinical studies indicate that THC and morphine can be useful in low-dose combination as an analgesic. This opioid-sparing effect is one of the most clinically significant applications of cannabinoid therapy, particularly in the context of the opioid crisis.
 
 ## THC vs. CBD for Pain
 
@@ -47,7 +47,7 @@ The two primary cannabinoids have complementary roles in pain management:
 
 A San Diego randomized, double-blind, placebo-controlled trial (2009) demonstrated the importance of dose dependency: a medium THC dose significantly decreased capsaicin-induced pain, while a high dose actually increased pain. This underscores the critical importance of finding the correct therapeutic window -- too little is sub-optimal, while too much can worsen the very symptoms being treated.
 
-Dosing strategies should follow the "start low, go slow" principle, with gradual titration to identify the minimum effective dose. The subjective therapeutic window is highly individual -- what provides relief for one patient may be insufficient or excessive for another. Infused oils or tinctures in dropper bottles allow for precise dosing. Start slowly with a few drops and wait at least one hour to feel the effect.
+Dosing strategies should follow the "start low, go slow" principle, with gradual titration to identify the minimum effective dose. The [[cannabis-subjective-therapeutic-window-dosing]] window is highly individual -- what provides relief for one patient may be insufficient or excessive for another. [[query-how-to-make-herbal-infused-oils-at-home]] or tinctures in dropper bottles allow for precise dosing. Start slowly with a few drops and wait at least one hour to feel the effect.
 
 ## Safety Profile and Comparison with Conventional Analgesics
 
@@ -84,9 +84,9 @@ Cannabis is most effective as part of a multimodal approach to chronic pain that
 ## Related
 
 - [[cannabis-for-inflammatory-conditions]] -- Anti-inflammatory mechanisms in pain conditions
-- [[cannabis-methods-of-consumption]] -- Delivery methods for pain management
+- [[cannabis-methods-of-consumption]] -- [[cannabis-delivery-methods-comparison]] for pain management
 - [[cannabis-oil-capsules-preparation]]
-- [[cannabis-endocannabinoid-system]] framework have revealed that cannabinoid receptors are naturally present throughout the human body, suggesting an evolutionary basis for cannabinoid interaction. Research into [[cannabis-for-mental-health]] applications continues to evolve, with studies exploring therapeutic potential for PTSD, anxiety, and depression. The cannabis chronic pain management research field has produced the strongest evidence for medical cannabis efficacy.
+- [[cannabis-endocannabinoid-system]] framework have revealed that cannabinoid receptors are naturally present throughout the human body, suggesting an evolutionary basis for cannabinoid interaction. Research into [[cannabis-for-mental-health]] applications continues to evolve, with studies exploring therapeutic potential for PTSD, anxiety, and depression. The [[blesching-cannabis-chronic-non-malignant-pain]] pain management research field has produced the strongest evidence for medical cannabis efficacy.
 
 ## Important Caveats
 

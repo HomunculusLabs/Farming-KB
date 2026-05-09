@@ -13,7 +13,7 @@ updated: 2026-05-08
 sources:
   - Ahti, T. (1984). "The status of Cladonia arbuscula and C. mitis." Annales Botanici Fennici, 21, 207–219.
   - Purvis, O.W. et al. (1992). "The Lichen Flora of Great Britain and Ireland." London: Natural History Museum.
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). "Lichens of [[psilocybin-north-america-pacific-northwest]]." Yale University Press.
   - Hammer, S. (2001). "Cladonia." In: Nash III, T.H. et al., "Lichen Flora of the Greater Sonoran Desert Region," Vol. 1, pp. 141–159.
 ---
 
@@ -45,7 +45,7 @@ Apothecia are rare; when present, they are brown, terminal on branch tips, and 1
 
 Pycnidia are common, forming small dark red-brown dots at branch tips and axils.
 
-Chemical spot tests show K+ yellow, KC+ yellow, P+ yellow to orange, with usnic acid and fumarprotocetraric acid as the primary secondary metabolites.
+Chemical spot tests show K+ yellow, KC+ yellow, P+ yellow to orange, with usnic acid and fumarprotocetraric acid as the primary [[antifungal-secondary-metabolites-coprophilous-fungi]].
 
 Some chemotypes of C. arbuscula also contain protocetraric acid and tenuiorin as minor constituents.
 
@@ -71,7 +71,7 @@ On acidic soils with low vascular plant competition, C. arbuscula can form monos
 
 ## Ecology
 
-Cladonia arbuscula is a keystone species in boreal and tundra ecosystems, forming extensive ground cover that insulates permafrost and regulates soil temperature.
+Cladonia arbuscula is a keystone species in boreal and tundra ecosystems, forming extensive [[fukuoka-citrus-orchard-ground-cover-cultivation]] that insulates permafrost and regulates soil temperature.
 
 It is a primary winter food for caribou and reindeer, which depend heavily on Cladonia mats during the snow-covered months when other forage is inaccessible.
 
@@ -83,11 +83,11 @@ The species is highly sensitive to fire, which can destroy decades of accumulate
 
 Post-fire recovery is extremely slow, often requiring 50–100 years before pre-fire biomass levels are re-established.
 
-Nitrogen deposition from atmospheric pollution can alter the competitive balance between C. arbuscula and faster-growing vascular plants, leading to community shifts.
+[[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] from atmospheric pollution can alter the competitive balance between C. arbuscula and faster-growing vascular plants, leading to community shifts.
 
 In areas of chronic nitrogen enrichment, C. arbuscula mats are progressively replaced by nitrophilous species such as Deschampsia flexuosa and Vaccinium myrtillus.
 
-Climate warming poses an additional threat by extending the growing season of vascular plants that compete with C. arbuscula for light and space.
+Climate warming poses an additional threat by extending the [[savory-growing-season-and-non-growing-season-management]] of vascular plants that compete with C. arbuscula for light and space.
 
 ## Traditional Uses
 
@@ -101,7 +101,7 @@ Dried C. arbuscula has been used as a packing material and stuffing for pillows 
 
 No significant modern commercial applications have been developed for this species.
 
-Cladonia arbuscula has been investigated as a potential biomonitor of heavy metal deposition in boreal ecosystems due to its efficiency at accumulating atmospheric contaminants.
+Cladonia arbuscula has been investigated as a potential biomonitor of [[dighton-fungal-biosorption-heavy-metal-remediation]] deposition in boreal ecosystems due to its efficiency at accumulating atmospheric contaminants.
 
 ## See Also
 

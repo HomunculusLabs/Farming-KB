@@ -1,19 +1,14 @@
 ---
-title: Mushroom Life Cycle — The Mushroom Cultivator
+title: pf-tek-mushroom-life-cycle-timeline Cycle — The Mushroom Cultivator
 created: 2026-04-26
-tags: [[mycology, mushroom-cultivation, stamets, life-cycle, basidiomycete]
+tags: [mycology, mushroom-cultivation, stamets, life-cycle, basidiomycete]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+sources: sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
-
-# Mushroom Life Cycle — The Mushroom Cultivator
-
-The mushroom life cycle, as presented by Paul Stamets in The Mushroom
-Cultivator (1983), is the foundation upon which all cultivation techniques
-rest. Understanding this cycle is prerequisite to mastering sterile
-technique, [[mushroom-cultivator-fruiting-conditions]].
+# Mushroom Life Cycle — The Mushroom Cultivator The mushroom life cycle, as presented by Paul Stamets in The Mushroom Cultivator (1983), is the foundation upon which all cultivation techniques rest. Understanding this cycle is prerequisite to mastering sterile technique, [[mushroom-cultivator-fruiting-conditions]].
 
 ## The Three Phases of Mycelial Development
 
@@ -65,15 +60,15 @@ mycelia.
 to an adjoining cell, found only in dikaryotic mycelia. They are visible
 at 100-400x magnification with a light microscope and serve as an
 invaluable tool for researchers developing new strains via [[mushroom-cultivator-grain-spawn-production]] must be fully colonized before use.
--   Understand the role of [[stamets-agar-media-preparation]] in starting new strains.
+-   Understand the role of stamets-agar-media-preparation in starting new strains.
 
 ## See Also
 
 - [[mushroom-cultivator-strain-selection]] — selecting and developing
     high-performing strains
--   [[stamets-agar-media-preparation]] — agar media recipes and
+-   stamets-agar-media-preparation — [[growing-gourmet-agar-media-formulas-preparation]] recipes and
     preparation
 -   [[mushroom-cultivator-fruiting-conditions]] — environmental
     conditions for fruiting
--   [[mushroom-primordia-formation-triggers]] — primordia formation
+-   mushroom-primordia-formation-triggers — [[growing-gourmet-primordia-formation-pinning]]
     biology

@@ -7,8 +7,8 @@ elements. That said, understanding plants is crucial to permaculture
 design. Plants are the cornerstone life-form of our ecology and are
 usually viewed as the cornerstone of a good [[soil-building-ecological-garden]]**: Dead plant material builds mulch to strengthen
   gardens and grow more future plants
-- **Wildlife Support**: Plants attract [[integrate-rather-than-segregate]] than
-segregate, value diversity, and stacking functions simultaneously.
+- **Wildlife Support**: Plants attract integrate-rather-than-segregate than
+segregate, value diversity, and [[gaias-garden-stacking-functions-detailed]] simultaneously.
 [[permaculture-designers-manual-animal-forage-systems]]:
 
 - **Native Plants**: The most prized type, performing the desired
@@ -27,10 +27,10 @@ Plants do not have to be grown only in the ground. Alternative growing
 strategies include:
 
 - **Containers**: Pots and planters for flexible placement
-- **Roofs**: Green roofs using the elevated edge of structures
+- **Roofs**: [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]] using the elevated edge of structures
 - **Hydroponics**: Growing plants in nutrient-rich water solutions
 - **Aeroponics**: Growing plants in an air or mist environment
-- **[[mollison-permaculture-appropriate-technology]]-a-designers-manual-animal-systems-in-permaculture
+- **mollison-permaculture-appropriate-technology-a-designers-manual-animal-systems-in-permaculture
 ## Practical Applications
 
 Williams Pdc Plants In Permaculture Systems has a range of practical applications that make it relevant to
@@ -108,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

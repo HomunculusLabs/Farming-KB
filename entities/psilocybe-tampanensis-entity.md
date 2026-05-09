@@ -1,5 +1,5 @@
 ---
-title: "Psilocybe tampanensis"
+title: "sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana"
 created: 2026-04-28
 type: species
 tags: [fungi, psychedelic-mushroom, psilocybe, tryptamine, truffle, florida, cultivation]
@@ -63,15 +63,15 @@ Psilocybe tampanensis contains the classic psilocybin mushroom tryptamine profil
 - **Baeocystin (4-PO-NMT):** Present in minor quantities; pharmacological activity less well characterized
 - **Norbaeocystin (4-PO-NMT):** Trace amounts; also found in other Psilocybe species
 - **Total tryptamine content in sclerotia:** Generally lower than in fruiting bodies of species like P. cubensis; estimated 0.10–0.35% combined tryptamines
-- **Potency comparison:** Sclerotia of P. tampanensis are considered moderately potent, requiring approximately 5–15 g fresh weight for a threshold-to-moderate dose
+- **[[psilocybe-cubensis-strain-potency-comparison-amazon-mr-equadorian]]:** Sclerotia of P. tampanensis are considered moderately potent, requiring approximately 5–15 g fresh weight for a threshold-to-moderate dose
 - **Variation:** Tryptamine content varies significantly with substrate, strain, and sclerotia maturity; older, fully hardened sclerotia tend to have higher concentrations than young, soft sclerotia
 
 ## Cultivation and Sclerotia Production
 
-The commercial and cultural significance of P. tampanensis derives almost entirely from its sclerotia:
+The commercial and [[ethnomycology-cultural-significance-sacred-fungi]] of P. tampanensis derives almost entirely from its sclerotia:
 
 - **Substrate:** Rye grain, grass seed, or sterilized compost; sclerotia form directly on grain spawn without requiring a bulk substrate
-- **Colonization:** 4–8 weeks at 22–25°C in darkness for optimal sclerotia formation; light exposure during colonization may reduce sclerotia yield
+- **Colonization:** 4–8 weeks at 22–25°C in darkness for optimal [[growing-gourmet-sclerotia-formation-biology-mushrooms]]; light exposure during colonization may reduce sclerotia yield
 - **Sclerotia maturation:** 8–16 weeks total; mature sclerotia are hard, golden-brown, and easily separated from substrate
 - **Fresh weight yield:** 50–150 g sclerotia per liter of substrate depending on strain and conditions
 - **Fruiting:** Requires a casing layer (peat-vermiculite) and high humidity (90%+); fruiting is less reliable and less prolific than sclerotia production
@@ -82,7 +82,7 @@ The commercial and cultural significance of P. tampanensis derives almost entire
 
 - **Onset:** 20–60 minutes after oral ingestion of fresh or dried sclerotia
 - **Duration:** 4–6 hours, comparable to P. cubensis
-- **Effects profile:** Visual and auditory alterations, euphoria, introspective thought, synesthesia at moderate doses; psychedelic experience generally described as "warm" and "less anxious" compared to other species
+- **Effects profile:** Visual and auditory alterations, euphoria, introspective thought, synesthesia at moderate doses; [[leary-psychedelic-experience-bardo-mapping]] generally described as "warm" and "less anxious" compared to other species
 - **Dose (fresh sclerotia):** Threshold 3–5 g; light 5–10 g; moderate 10–15 g; strong 15–25 g
 - **Dose (dried sclerotia):** Approximately 10% of fresh weight; threshold 0.3–0.5 g; moderate 1–1.5 g
 - **Comparison to fruiting bodies:** Sclerotia produce qualitatively similar effects but with slightly lower intensity per gram due to lower tryptamine concentrations
@@ -95,7 +95,7 @@ The commercial and cultural significance of P. tampanensis derives almost entire
 | Sclerotia production | Abundant | Abundant | Moderate |
 | Cap color | Chestnut-brown | Straw to ochre | Dark brown |
 | Spore size | 10.8–13 × 6.8–8 µm | 8–12 × 5–7 µm | 10–13 × 7–8.5 µm |
-| Natural distribution | Central Florida | Mexico, Central America | Georgia, USA |
+| Natural distribution | Central Florida | Mexico, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] | Georgia, USA |
 | Bluing reaction | Moderate | Moderate to strong | Strong |
 
 ## Historical Context

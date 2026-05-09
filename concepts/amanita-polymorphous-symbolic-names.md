@@ -1,5 +1,5 @@
 ---
-title: Polymorphous Amanita muscaria: The Mushroom of Many Names
+title: Polymorphous allegro-amanita-muscaria-properties-and-pharmacology: The Mushroom of Many Names
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -8,7 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/amanita-muscaria-herb-of-immortality.md]
 ---
 # Polymorphous Amanita muscaria: The Mushroom of Many Names
 
-James Arthur compiled a list of over forty symbolic names and representations for the Amanita muscaria mushroom, drawn from diverse cultures and historical periods. This extraordinary proliferation of names for a single species reflects what Arthur calls the "polymorphous" nature of the mushroom, its ability to be represented through virtually unlimited symbolic forms while maintaining a consistent core identity across all of them. The mushroom is, in Arthur's phrase, "the God of a thousand names."
+[[james-arthur]] compiled a list of over forty symbolic names and representations for [[allegro-colour-and-consistency-of-the-amanita-muscaria]] mushroom, drawn from diverse cultures and [[neurotropic-fungi-five-historical-periods]]. This extraordinary proliferation of names for a single species reflects what Arthur calls the "polymorphous" nature of the mushroom, its ability to be represented through virtually unlimited symbolic forms while maintaining a consistent core identity across all of them. The mushroom is, in Arthur's phrase, "the God of a thousand names."
 
 This polymorphous symbolism is central to the arguments in [[amanita-muscaria-ethnobotany]], [[psychedelic-mushroom-art-and-iconography]].
 - [[amanita-muscaria-living-bread-sacrament]]
@@ -63,7 +63,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -141,4 +141,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

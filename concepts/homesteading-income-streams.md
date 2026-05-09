@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, economics, sustainability, food, agriculture, community, harvesting]
-sources: []
+sources:
+  sources: []
 ---
 
 # Homesteading Income Streams
@@ -37,7 +38,7 @@ Beekeeping provides honey, beeswax, propolis, pollen, pollination services, and 
 Direct-market vegetables are the backbone of many homestead incomes.
 
 - Farmers market: highest prices but requires time commitment (4-8 hours per market day)
-- CSA (Community Supported Agriculture): customers pay upfront for a weekly share of the harvest. Provides guaranteed income and pre-sells the crop. Typical share: $400-800 for a 20-week season
+- CSA (Community [[community-supported-agriculture-csa]]): customers pay upfront for a weekly share of the harvest. Provides guaranteed income and pre-sells the crop. Typical share: $400-800 for a 20-week season
 - Restaurant sales: consistent volume at wholesale prices. Requires reliability and communication skills.
 - Farm stand: self-service or staffed. Works well in high-traffic rural areas.
 - Online ordering with farm pickup: growing model. Use platforms like Harvie, Barn2Door, or a simple website.
@@ -46,11 +47,11 @@ Key strategies: focus on high-value crops (tomatoes, peppers, herbs, salad mix, 
 
 ## Mushroom Production
 
-Gourmet mushrooms offer excellent profit margins and can be grown year-round.
+[[growing-gourmet-mushrooms-civilization-history]] offer excellent profit margins and can be grown year-round.
 
 - Oyster mushrooms (Pleurotus ostreatus): easiest to grow, fruit in 2-4 weeks from inoculation. Sell at $10-16 per pound.
-- Shiitake (Lentinula edodes): grow on inoculated logs. $12-20 per pound. Logs produce for 3-5 years.
-- Lion's Mane (Hericium erinaceus): premium medicinal and culinary mushroom. $20-30 per pound.
+- Shiitake ([[staycare-lentinula-edodes-in-bioremediation]]): grow on inoculated logs. $12-20 per pound. Logs produce for 3-5 years.
+- Lion's Mane (Hericium erinaceus): premium [[holzer-medicinal-and-culinary-herbs-compendium]] mushroom. $20-30 per pound.
 - Wine Cap (Stropharia rugosoannulata): grow outdoors on wood chips. Low-maintenance, $10-15 per pound.
 
 Mushrooms can be sold at farmers markets, to restaurants, to health food stores, and online (dried). See [[mushroom-foraging-safety-guide]] for safety considerations if also wild-foraging.
@@ -61,7 +62,7 @@ Value-added herbal products have some of the highest profit margins in homestead
 
 - Dried herbs: $5-15 per ounce
 - Tinctures: $10-15 per 2-ounce bottle
-- Salves and balms: $8-15 per tin
+- [[query-how-to-make-herbal-salves-and-balms-at-home]]: $8-15 per tin
 - Tea blends: $6-12 per 2-ounce bag
 - Syrups (elderberry, fire cider): $12-20 per bottle
 - Dried flower arrangements: $5-25 per bunch
@@ -71,7 +72,7 @@ Labeling requirements vary by state. Products making health claims may be regula
 ## Additional Income Streams
 
 ### Pastured Poultry
-Meat chickens raised on pasture. Sell whole or cut-up at $5-8 per pound. Mobile chicken tractors move birds to fresh pasture daily. Processing requires either a licensed facility or on-farm processing under exemption (varies by state -- check Poultry Products Inspection Act exemptions).
+Meat chickens raised on pasture. Sell whole or cut-up at $5-8 per pound. Mobile [[mollison-designers-chicken-tractors-egg-production]] move birds to fresh pasture daily. Processing requires either a licensed facility or on-farm processing under exemption (varies by state -- check Poultry Products Inspection Act exemptions).
 
 ### Goat Dairy Products
 Fresh goat milk, cheese, soap, and kefir. Raw milk sales are legal in many states with certain restrictions. Cheese making requires a licensed creamery for commercial sales. Goat milk soap is a popular value-added product. See [[homestead-dairy-guide]].

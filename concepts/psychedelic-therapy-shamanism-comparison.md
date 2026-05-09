@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Therapy Shamanism Comparison
+title: Psychedelic psychedelic therapy shamanism comparison Comparison
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Psychedelic Therapy and Shamanism Comparison
 
-Western psychedelic-assisted psychotherapy and indigenous shamanic healing with hallucinogenic plants both use psychoactive substances for healing and obtaining knowledge. While superficial similarities exist, there are profound differences in the underlying worldview, the structure of the healing process, and the assumptions about the nature of reality and consciousness.
+Western psychedelic-assisted psychotherapy and indigenous [[metzner-shamanic-healing-and-divination-paradigm]] with hallucinogenic plants both use psychoactive substances for healing and obtaining knowledge. While superficial similarities exist, there are profound differences in the underlying worldview, the structure of the healing process, and the assumptions about the nature of reality and consciousness.
 
 [[psychedelic-therapy-mechanisms]]
 
@@ -20,13 +20,13 @@ The psychedelic model was developed more or less simultaneously with the psychol
 
 Psychedelic therapy typically involved one or a small number of high-dose sessions. The contents of the unconscious mind would manifest as vivid hallucinatory imagery, leading to insight and transformation. This approach was sometimes described as attempting to simulate the life-changing bottoming-out experience that could catalyze recovery from alcoholism.
 
-Timothy Leary and the Harvard research project adapted this approach, shifting focus from clinical treatment to exploring the possibilities of psychedelic experience for healthy individuals. The concept of consciousness expansion was introduced, contrasting the expanded awareness of the psychedelic state with the contracted, fixated patterns characteristic of addictions and compulsions. Leary also formalized the set and setting hypothesis, which holds that internal mindset and external context are the primary determinants of the psychedelic experience.
+Timothy Leary and the Harvard research project adapted this approach, shifting focus from clinical treatment to exploring the possibilities of psychedelic experience for healthy individuals. The concept of [[mckenna-consciousness-expansion-and-drug-war]] was introduced, contrasting the expanded awareness of the psychedelic state with the contracted, fixated patterns characteristic of addictions and compulsions. Leary also formalized the set and [[metzner-set-and-setting-hypothesis-origins-and-extensions]], which holds that internal mindset and external context are the primary determinants of the psychedelic experience.
 
 [[shamanic-use-of-psychedelics]]
 
 ## The Shamanic Worldview
 
-Two elements in the shamanic worldview differ radically from the accepted Western paradigm. The first is the belief and perception that multiple realities or worlds exist and can be explored in expanded states of consciousness. These realms have been referred to as the inner world, spirit world, upper world, lower world, faerie world, dreamtime, or otherworld.
+Two elements in the shamanic worldview differ radically from the accepted Western paradigm. The first is the belief and perception that [[metzner-spirit-beings-multiple-realities-entheogens]] or worlds exist and can be explored in expanded states of consciousness. These realms have been referred to as the inner world, spirit world, upper world, lower world, faerie world, dreamtime, or otherworld.
 
 Access to these other-worlds may occur through journeying, perhaps on the back of an animal or carried by a large bird. Alternatively, one may see into the spirit world while remaining aware of the ordinary physical world. During entheogenic experiences, the boundaries between worlds become more permeable.
 
@@ -36,7 +36,7 @@ The second challenging element is the belief that spirits, the beings encountere
 
 ## Hybrid Shamanic Therapeutic Rituals
 
-In modern Western contexts, hybrid neoshamanic medicine circles have emerged that blend psychotherapeutic and traditional shamanic approaches. These circles typically preserve certain basic elements from traditional ceremonies: a circular seating arrangement, an altar or central fire, an experienced guide, low light or eye-shades, music (drumming, rattling, singing, or recorded), dedication of ritual space through invocation of spirits of the four directions, and cultivation of a respectful spiritual attitude.
+In modern Western contexts, hybrid [[metzner-neoshamanic-medicine-circles-structure-and-practice]] circles have emerged that blend psychotherapeutic and traditional shamanic approaches. These circles typically preserve certain basic elements from traditional ceremonies: a circular seating arrangement, an altar or central fire, an experienced guide, low light or eye-shades, music (drumming, rattling, singing, or recorded), dedication of ritual space through invocation of spirits of the four directions, and cultivation of a respectful spiritual attitude.
 
 Participants in these circles are typically experienced in one or more psychospiritual practices including meditation, breathwork, yoga, or various forms of psychotherapy. The insights from these practices are woven into their work with entheogenic medicines. Participants consistently report that entheogenic plant medicines, when combined with meditative or therapeutic insight processes, function to amplify awareness and sensitize perception, particularly amplifying somatic, emotional, and instinctual awareness.
 
@@ -105,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

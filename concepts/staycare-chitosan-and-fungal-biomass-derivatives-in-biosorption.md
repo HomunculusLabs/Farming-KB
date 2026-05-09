@@ -1,5 +1,5 @@
 ---
-title: "Chitosan and Fungal Biomass Derivatives in Biosorption"
+title: "Chitosan and bioremediation-fungal-biomass-biosorbent-material Derivatives in Biosorption"
 created: 2026-04-28
 tags: [biosorption, chitosan, fungal-biomass, heavy-metals, immobilization]
 date: 2026-04-28
@@ -10,7 +10,7 @@ type: concept
 
 # Chitosan and Fungal Biomass Derivatives in Biosorption
 
-Chitosan and chitin, the structural polysaccharides found in fungal cell
+Chitosan and chitin, the structural polysaccharides found in [[gadd-fungal-cell-structure]]
 walls, serve as key binding sites for [[penicillium-chrysogenum]]
 cell walls indicated that phosphoryl groups accounted for up to 95% of
 binding, with carboxyl groups contributing approximately 5%. At low
@@ -19,7 +19,7 @@ greater affinity for lead ions.
 
 ## Binding Mechanisms
 
-Metal binding to chitosan and fungal cell wall components involves
+[[chelation-and-metal-binding-in-plants]] to chitosan and fungal cell wall components involves
 multiple mechanisms that may act individually or synergistically:
 
 - **Ion exchange**: Metal ions displace protons or other cations
@@ -86,5 +86,9 @@ biosorbents for enhanced performance in continuous flow systems:
 ## Performance of Key Fungal Biosorbents
 
 Members of the order Mucorales consistently exhibit the highest levels of
-metal uptake across a range of fungal genera and species. [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]],
+metal uptake across a range of [[singh-key-fungal-genera-bioremediation]] and species. [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]],
 [[fungal-heavy-metal-biosorption-and-detoxification]]
+
+## See Also
+
+- [[fungal-chitosan-biotechnology-applications]]

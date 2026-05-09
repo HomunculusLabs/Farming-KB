@@ -31,8 +31,8 @@ This principle emerged from his direct experience developing natural rice cultiv
 
 - Transplanting became unnecessary
 - Plowing became unnecessary
-- Chemical fertilizers became unnecessary
-- Compost preparation became unnecessary
+- [[cervantes-chemical-fertilizers-guide]] became unnecessary
+- [[cultivator-compost-preparation-phase-methods]] became unnecessary
 - Pesticide application became unnecessary
 
 Each elimination was not a separate discovery but a natural consequence of the first. The system, once set on a natural course, self-corrected at every level.
@@ -80,17 +80,17 @@ The "one thing is all things" principle has practical implications for designing
 
 ## Philosophical Roots
 
-This principle reflects the Buddhist concept of interdependent origination (pratītyasamutpāda): no phenomenon exists independently. The Mu philosophy that underlies Fukuoka's farming holds that all distinctions between things are ultimately illusory. The farmer who sees soil, seed, water, weed, insect, and crop as separate entities has already fallen into discriminating knowledge.
+This principle reflects the Buddhist concept of interdependent origination (pratītyasamutpāda): no phenomenon exists independently. The Mu philosophy that underlies Fukuoka's farming holds that all distinctions between things are ultimately illusory. The farmer who sees soil, seed, water, weed, insect, and crop as separate entities has already fallen into [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]].
 
 When the farmer abandons the desire to control individual elements and instead trusts the self-organizing intelligence of the whole system, the separate problems dissolve. Not because they are ignored, but because they were never truly separate to begin with.
 
 ## The Fallacy of Piecewise Optimization
 
-Scientific agriculture's fragmentation leads to what systems theorists call "subsystem optimization" — optimizing individual components of a system while degrading overall system performance. Fukuoka observed this pattern repeatedly:
+[[fukuoka-critique-scientific-agriculture-civilization]]'s fragmentation leads to what systems theorists call "subsystem optimization" — optimizing individual components of a system while degrading overall system performance. Fukuoka observed this pattern repeatedly:
 
-- Breeding high-yielding rice varieties that require more fertilizer, which weakens disease resistance, which requires more pesticides, which kills soil organisms, which reduces nutrient availability, which requires yet more fertilizer
+- Breeding high-yielding rice varieties that require more fertilizer, which weakens disease resistance, which requires more pesticides, which kills soil organisms, which reduces [[ph-and-nutrient-availability-garden-soils]], which requires yet more fertilizer
 - Developing herbicides that eliminate weeds but also eliminate the soil-building functions weeds perform, leading to soil compaction, which requires more tillage, which further degrades soil structure
-- Creating mechanical harvesters that handle large monocultures efficiently but require uniform planting, which eliminates the biodiversity that naturally suppresses pests and diseases
+- Creating mechanical harvesters that handle large monocultures efficiently but require uniform planting, which eliminates the biodiversity that naturally suppresses [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]
 
 Each "advance" in one dimension creates new problems in others, driving an ever-accelerating cycle of intervention. The farmer who adopts every recommended practice finds himself on what Fukuoka calls a "treadmill" — running faster and faster just to maintain the same position.
 
@@ -108,7 +108,7 @@ The practical sequence he discovered was:
 
 None of these steps could have been adopted in isolation. The rice farmer who simply stops fertilizing while continuing to till, transplant, and spray will see yields collapse. But the farmer who redesigns the entire system around natural principles finds that the individual practices support each other in a self-reinforcing cycle — the inverse of the scientific farming treadmill.
 
-## Relevance to Modern Agroecology
+## Relevance to Modern [[agroecology]]
 
 The "one thing is all things" principle has been independently validated by modern agroecological research. Studies of integrated farming systems consistently show that multi-functional approaches — where a single practice (such as cover cropping) simultaneously addresses soil fertility, weed suppression, pest management, and [[regenerative-agriculture]] all echo this insight, though often without Fukuoka's philosophical depth.
 

@@ -61,14 +61,14 @@ early in the year will attract water, keep the soil cool, and prevent evaporatio
 
 ## Strain Selection for Guerilla Grows
 
-Choose strains suited to the local climate and growing season. Fast-finishing indica-
+Choose strains suited to the local climate and [[savory-growing-season-and-non-growing-season-management]]. Fast-finishing indica-
 dominant hybrids (6-8 weeks flowering) are preferred in temperate climates to ensure
 harvest before frost. [[urban-guerilla-food-growing]]
 
 - [[autoflowering-cannabis]] -- ideal varieties for guerilla grows
 - [[cannabis-strain-guide-reference]] -- selecting for remote grows
 - [[gaias-garden-cover-crops-soil-building]]
-- [[oyster-mushroom-growing-house-site-selection]]
+- oyster-mushroom-growing-house-site-selection
 ## Practical Considerations
 
 Successful implementation of Guerilla Growing requires attention to
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

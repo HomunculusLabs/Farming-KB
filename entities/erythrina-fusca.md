@@ -5,11 +5,11 @@ type: species
 tags:
   - fabaceae
   - nitrogen-fixing
-  - permaculture
+  - permaculture|permaculture
   - tropical
   - alkaloid
   - ornamental
-  - agroforestry
+  - agroforestry|agroforestry
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -17,8 +17,8 @@ sources:
     Genus Erythrina." Lloydia 37(4): 332-459.
   - Allen, O.N. & Allen, E.K. (1981). The Leguminosae: A Source Book of
     Characteristics, Uses, and Nodulation. University of Wisconsin Press.
-  - Rice, R.P. et al. (1990). "Erythrina fusca: A Multipurpose Tree for
-    the Humid Tropics." Nitrogen Fixing Tree Research Reports 8: 98-104.
+  - Rice, R.P. et al. (1990). "Erythrina fusca: A [[mollison-designers-chestnut-as-multipurpose-tree-crop]] for
+    the Humid Tropics." [[comparison-rhizobia-vs-free-living-nitrogen-fixing-bacteria]] Tree Research Reports 8: 98-104.
   - Pennington, T.D. (1997). The Genus Inga: Botany. Royal Botanic
     Gardens, Kew.
 ---
@@ -27,11 +27,11 @@ sources:
 
 Erythrina fusca, known as coral bean, immortelle, or bucayo, is a tropical
 deciduous tree in the Fabaceae (legume) family native to tropical America,
-from southern Mexico through Central America to northern South America, and
+from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to northern South America, and
 widely naturalized across the tropics.
 
 Reaching heights of 15–25 m, E. fusca is valued in agroforestry and
-permaculture for rapid growth, nitrogen fixation, shade provision, and
+permaculture for rapid growth, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], shade provision, and
 use as a support tree for black pepper, vanilla, and yam.
 
 The species contains erythrina alkaloids (erythraline, erythrinine) in
@@ -77,9 +77,9 @@ profusely with Bradyrhizobium spp.
 
 Native from southern Mexico through Central America, Caribbean, to Colombia,
 Venezuela, the Guianas, and Amazon basin. Widely naturalized in West Africa,
-Southeast Asia, and Pacific Islands.
+[[psilocybe-southeast-asia-pacific]], and Pacific Islands.
 
-Found in seasonally dry tropical forests, river margins, coastal areas, and
+Found in seasonally [[mollison-wet-dry-tropical-design-strategies]] forests, river margins, coastal areas, and
 disturbed sites from sea level to 500 m. Tolerates waterlogging and saline
 conditions. USDA Zones 10–12, minimum ~2°C.
 
@@ -119,7 +119,7 @@ Primary agroforestry use as a living trellis:
 - Spectacular orange-red flowers attract hummingbirds
 - Common street tree and garden specimen in tropical cities
 - Deep taproot brings subsoil nutrients; chop-and-drop mulch adds organic
-  matter to food forest systems
+  matter to [[food-forest|food forest]] systems
 
 ## Cultivation
 
@@ -140,5 +140,8 @@ Primary agroforestry use as a living trellis:
 
 ## See Also
 
-- [[acacia-confusa]]
-- [[sesbania-grandiflora]]
+- [[erythrina-crista-galli]]
+
+- acacia-confusa
+- sesbania-grandiflora
+- [[acacia]]

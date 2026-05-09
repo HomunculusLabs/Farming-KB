@@ -39,7 +39,7 @@ Solomon's approach to continuous lettuce supply:
 - One looseleaf head a day feeds a family. Three weeks' worth of lettuce can be harvested in a single day.
 - Plant several varieties of differing maturities sown at the same time.
 - Also make repeated sowings about three weeks apart.
-- Three weeks is about the longest a sowing of assorted varieties remains in prime eating condition in warm weather.
+- Three weeks is about the longest a sowing of assorted varieties remains in prime eating condition in [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]].
 
 ## Mesclun Critique
 
@@ -53,7 +53,7 @@ Growing mesclun (densely spaced salad greens mixture cut repeatedly like mowing 
 
 ## Pests and Diseases
 
-- Slugs and snails are the main pests in cool, moist conditions.
+- [[query-how-to-get-rid-of-slugs-and-snails-organically]] are the main pests in cool, moist conditions.
 - Aphids can colonize in warm weather.
 - Rapid growth is the best defense -- stressed, slow-growing lettuce is most vulnerable.
 
@@ -67,7 +67,7 @@ Growing mesclun (densely spaced salad greens mixture cut repeatedly like mowing 
 Lettuce is a self-pollinated annual that grows vegetatively for a time, then puts up a flower stalk (called "bolting"). Each flower capsule forms only a few seeds.
 
 - Success depends on warmth and summer length. In mild-winter climates, sow seed crop in mid-autumn and overwinter outdoors.
-- In harsher locations, start seed as early as possible and set out the earliest possible date.
+- In harsher locations, [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]] as early as possible and set out the earliest possible date.
 - Heads must be fully developed and probably bolting before summer heat arrives.
 - After about 6-8 weeks past the summer solstice, plants forming seed switch from ripening seed to growing vegetatively again. If the seed crop hasn't matured by then, it won't.
 - Seeds ripen irregularly and tend to shatter. Cut branches as soon as you see mature seeds and let them finish drying.

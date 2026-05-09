@@ -15,7 +15,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Isely, D. (1990). Vascular Flora of the Southeastern United States, Vol. 3, Leguminosae. University of North Carolina Press.
+  - Isely, D. (1990). Vascular Flora of the Southeastern dmt-containing-plants-united-states-halpern, Vol. 3, Leguminosae. University of North Carolina Press.
   - Roloff, A. & Bärtels, A. (2006). Flora of the Mediterranean. Timber Press.
   - Clewell, A.F. (1966). "Revision of the genus Amorpha (Leguminosae: Papilionoideae: Amorpheae)." Annals of the Missouri Botanical Garden, 53(4), 486-494.
   - Ogle, D. & St. John, L. (2006). "Indiangrass, sideoats grama, and false indigo." USDA NRCS Plant Guide.
@@ -28,8 +28,8 @@ sources:
 
 *Amorpha fruticosa*, commonly known as false indigo, desert false
 indigo, or bastard indigo, is a deciduous, nitrogen-fixing shrub
-in the family Fabaceae. Native to North America, it is widely
-cultivated for erosion control, habitat restoration, and as a
+in the family Fabaceae. Native to [[psilocybin-north-america-pacific-northwest]], it is widely
+cultivated for [[permplant-willows-salix-erosion-control-fodder]], habitat restoration, and as a
 component of permaculture and agroforestry systems.
 
 The species is valued for its hardiness, rapid growth, ability to
@@ -40,7 +40,7 @@ plantings.
 
 *Amorpha fruticosa* produces showy, deep purple to blue-violet
 spike inflorescences that attract a wide range of pollinators,
-including native bees, honeybees, butterflies, and hummingbirds.
+including [[query-how-to-attract-native-bees-and-beneficial-insects]], honeybees, butterflies, and hummingbirds.
 
 ## Taxonomy and Morphology
 
@@ -94,10 +94,10 @@ flooding.
 
 ## Ecological Functions
 
-**Nitrogen fixation:** Forms symbiotic associations with
+**[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** Forms symbiotic associations with
 *Rhizobium* and *Bradyrhizobium* species, fixing atmospheric
 nitrogen at rates of 30–100 kg N/ha/year. This makes it
-valuable as a nurse plant and green manure in permaculture
+valuable as a nurse plant and [[comparison-green-manure-guide-vs-mulch-types-and-effects]] in permaculture
 designs.
 
 **Erosion control:** The deep, fibrous root system stabilizes
@@ -138,6 +138,8 @@ It establishes rapidly, often flowering in the second year.
 
 Full sun to partial shade. Drought-tolerant once established.
 ## See Also
+
+- [[cordyline-fruticosa]]
 
 - [[caragana-arborescens]]
 - [[lespedeza-bicolor]]

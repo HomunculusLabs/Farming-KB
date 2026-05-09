@@ -1,13 +1,14 @@
 ---
-title: "Comparison Backyard Food Forest Vs Urban Permaculture"
+title: "Comparison comparison backyard food forest vs urban permaculture Vs Urban Permaculture"
 created: 2026-05-02
 updated: 2026-05-02
 type: comparison
-tags: [[permaculture]]"
+tags: permaculture"
 tags: [comparison, permaculture, food-forest, urban-gardening, design]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 ---
 
 # Backyard Food Forest vs Urban Permaculture
@@ -19,21 +20,21 @@ Backyard food forests and urban [[backyard-food-forest-design]]
 A backyard food forest is a multi-layered edible garden modeled on natural forest ecosystems,
 typically occupying 1/8 to 1/4 acre. The design is organized into seven vertical layers: canopy
 (large fruit and nut trees, 30-50+ feet), understory (smaller fruit trees, 15-30 feet), shrub
-layer (berry bushes, 5-15 feet), herbaceous layer (perennial vegetables and herbs), ground cover
+layer (berry bushes, 5-15 feet), herbaceous layer ([[comparison-perennial-vegetables-vs-cover-crops]] and herbs), ground cover
 (strawberries, creeping herbs), root layer (root crops), and vine layer (climbing plants on
 trellises and trees). Each layer fills a unique ecological niche, maximizing yield per square foot.
 
 The food forest approach emphasizes perennial polyculture over annual vegetables, creating a
 self-maintaining system that produces food with minimal annual input once established. Guild design
 is central: plants are grouped into mutually supportive communities where nitrogen fixers like
-comfrey and clover feed fruit trees, aromatic herbs deter pests, and dynamic accumulators mine
+comfrey and clover feed fruit trees, aromatic herbs deter pests, and [[comparison-dynamic-accumulators-vs-cover-crops]] mine
 minerals from deep soil profiles. These guilds reduce or eliminate the need for external fertilizers
 and pesticides by closing nutrient cycles within the planting beds.
 
 Zone analysis guides placement decisions within the food forest. High-frequency elements like herb
 gardens and salad greens occupy Zone 1 near the home, while fruit and nut trees requiring less
 frequent attention sit in Zones 2 and 3. This spatial logic ensures daily tasks are convenient,
-reducing the likelihood of neglect. Sector analysis maps sun angles, wind patterns, and water flow
+reducing the likelihood of neglect. [[mollison-designers-sector-analysis-wind-sun-fire]] maps sun angles, wind patterns, and water flow
 to position windbreaks, shade trees, and earthworks for maximum benefit.
 
 Backyard food forests require significant upfront investment in tree planting and establishment but
@@ -69,7 +70,7 @@ with reasonable soil and sunlight conditions. The long-term investment in perenn
 off handsomely over time, eventually requiring less labor while producing increasing yields of
 fruit, nuts, and perennial vegetables. Food forests are particularly suited to homeowners who plan
 to stay in one location for many years and want to create a self-maintaining edible landscape that
-also provides wildlife habitat, carbon sequestration, and stormwater management.
+also provides wildlife habitat, [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]], and stormwater management.
 
 Food forests also excel on properties where water harvesting through earthworks is feasible. Swales
 and hugelkultur beds slow, spread, and sink runoff, building soil health and reducing irrigation
@@ -97,6 +98,6 @@ achieve alone.
 Many practitioners blend both approaches by applying food forest principles at urban scales.
 Espalier fruit trees trained against walls bring the canopy layer to small spaces, while dwarf
 varieties in large containers create portable orchard elements. Vertical layering replaces
-horizontal layering: climbing vines substitute for canopy trees, hanging baskets add the shrub
+horizontal layering: climbing vines substitute for canopy trees, [[hamilton-hanging-baskets-organic]] add the shrub
 layer, and window boxes provide the herbaceous layer. Balcony and rooftop food forests demonstrate
 that the seven-layer concept can be adapted to any scale with creative design.

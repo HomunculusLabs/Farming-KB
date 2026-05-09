@@ -1,6 +1,6 @@
 ---
 title: "One-Carbon Metabolism"
-aliases: [one carbon metabolism, folate-mediated one-carbon metabolism, folate methionine cycle]
+aliases: [[query-how-does-one-carbon-metabolism-affect-methylation]], folate-mediated one-carbon metabolism, folate methionine cycle]
 tags: [biochemistry, metabolism, pharmacology, nutrition, epigenetics]
 created: 2026-05-02
 updated: 2026-05-06
@@ -11,7 +11,7 @@ sources: []
 ## Overview
 
 One-carbon metabolism is the network that transfers single-carbon units among folate cofactors, methionine cycle intermediates, nucleotide synthesis reactions, and methylation systems.
-It links nutrition to DNA synthesis, amino acid metabolism, redox balance, neurotransmitter production, detoxification, development, and epigenetic regulation.
+It links nutrition to DNA synthesis, [[cho-fish-amino-acid-preparation]] metabolism, redox balance, neurotransmitter production, detoxification, development, and epigenetic regulation.
 The phrase does not refer to a single linear pathway; it names an integrated set of cytosolic, mitochondrial, and nuclear reactions that handle carbon units at several oxidation states.
 Folate cofactors carry one-carbon groups as methyl, methylene, methenyl, formyl, or formimino units, each suited to different biosynthetic reactions.
 Methionine metabolism converts those carbon units into [[taurine]] synthesis, hydrogen sulfide signaling, and especially glutathione production.
@@ -25,7 +25,7 @@ Mitochondria generate one-carbon units from serine, glycine, sarcosine, dimethyl
 Mitochondrial serine hydroxymethyltransferase and the glycine cleavage system are major sources of one-carbon units in many proliferating cells.
 Formate produced in mitochondria can exit to the cytosol and feed purine synthesis, thymidylate synthesis, or methionine-cycle remethylation.
 This compartmental separation lets cells coordinate energy metabolism with nucleotide production and methylation demand.
-Cancer cells often increase serine uptake, serine synthesis, mitochondrial folate flux, and glycine cleavage to support rapid biomass production.
+Cancer cells often increase serine uptake, serine synthesis, mitochondrial folate flux, and glycine cleavage to support rapid [[dighton-fungal-biomass-production-aquatic-ecosystems]].
 However, one-carbon flux varies by tissue, diet, oxygen availability, mitochondrial function, and genetic background.
 Mitochondrial impairment can therefore appear as altered nucleotide pools, redox stress, or abnormal methylation rather than simply as low ATP.
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

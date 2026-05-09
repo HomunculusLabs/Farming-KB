@@ -1,5 +1,5 @@
 ---
-title: Plant Olfaction and Volatile Organic Compound Signaling
+title: Plant plant-olfaction-and-volatile-signaling Organic Compound Signaling
 created: 2026-04-28
 updated: 2026-04-28
 type: concept
@@ -25,7 +25,7 @@ This negative regulation system means that ethylene perception is essentially th
 
 One of the most remarkable aspects of plant olfaction is the ability to detect chemicals produced by other species.
 
-When a plant is attacked by herbivores, it releases a complex blend of volatile organic compounds that serve multiple functions: attracting natural enemies of the herbivore (parasitic wasps, predatory mites), warning neighboring plants of the attack, and directly deterring the herbivore.
+When a plant is attacked by herbivores, it releases a complex blend of volatile organic compounds that serve multiple functions: attracting natural enemies of the herbivore (parasitic wasps, [[comparison-predatory-mites-vs-ladybugs-biocontrol]]), warning neighboring plants of the attack, and directly deterring the herbivore.
 
 The classic example involves sagebrush (Artemisia tridentata) and wild tobacco (Nicotiana attenuata).
 
@@ -43,15 +43,15 @@ Plants may have evolved to be more responsive to cues from kin because shared ge
 
 ## Root Exudate Detection
 
-Below ground, plants engage in chemical communication through root exudates.
+Below ground, plants engage in [[bloomfield-siren-songs-fungal-chemical-communication-reproduction-chapter-7]] through root exudates.
 
-Roots release a complex mixture of organic acids, sugars, amino acids, phenolics, and secondary metabolites into the rhizosphere.
+Roots release a complex mixture of organic acids, sugars, amino acids, phenolics, and [[antifungal-secondary-metabolites-coprophilous-fungi]] into the rhizosphere.
 
 These compounds serve as signals to soil microorganisms, mycorrhizal fungi, and neighboring roots.
 
 Plants can detect allelopathic compounds released by competitors and respond by altering their root growth patterns or increasing their own production of defensive chemicals.
 
-The detection of strigolactones in roo dark septate endophytes and non mycorrhizal fungal symbioses ample, serves as a signal for both mycorrhizal fungal symbiosis and, unfortunately for the plant, germination cues for parasitic plants like Striga.
+The detection of strigolactones in roo dark [[dark-septate-endophytes-root-colonizing-fungi]] and non [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] symbioses ample, serves as a signal for both mycorrhizal fungal symbiosis and, unfortunately for the plant, germination cues for parasitic plants like Striga.
 
 ## Implications for Agriculture
 
@@ -80,3 +80,7 @@ The challenge lies in timing, dosage, and the specificity of plant responses to 
 - systemic acquired resistance in plants
 
 - allelopathy and chemical competition between plants
+
+## See Also
+
+- [[plant-olfaction-and-volatile-signaling]]

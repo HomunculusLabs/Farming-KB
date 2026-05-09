@@ -9,12 +9,12 @@ sources: []
 
 # Native Plant Gardening
 
-Native plant gardening uses species that evolved naturally in a specific region, supporting local ecosystems, pollinators, and wildlife while reducing maintenance demands. It is a cornerstone of [[permaculture-design|permaculture]] design and ecological design.
+Native plant gardening uses species that evolved naturally in a specific region, supporting local ecosystems, pollinators, and wildlife while reducing maintenance demands. It is a cornerstone of [[permaculture-design|permaculture]] design and [[williams-pdc-ecological-design-principles]].
 
 ## Why Grow Native Plants
 
 - Adapted to local climate, rainfall, and soil conditions without supplemental irrigation or fertilizers
-- Provide food and habitat for native pollinators (bees, butterflies, moths), birds, and beneficial insects
+- Provide food and habitat for native pollinators (bees, butterflies, moths), birds, and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - Deep root systems improve soil structure, prevent erosion, and increase water infiltration
 - Require fewer inputs — lower water, no chemical pesticides, minimal fertilizer
 - Support the local food web: native insects can only digest native plants, which in turn feed birds
@@ -32,7 +32,7 @@ Consult local native plant societies, university extension offices, and regional
 
 ## Pollinator Gardens with Natives
 
-Native pollinator gardens focus on providing continuous bloom from early spring through late fall:
+Native pollinator gardens focus on providing continuous bloom from [[coleman-overwintered-onions-and-early-spring-crops]] through late fall:
 
 - **Spring bloomers**: Wild columbine (Aquilegia canadensis), wild geranium, pussy willow
 - **Summer bloomers**: Coneflower (Echinacea spp.), bee balm (Monarda), milkweed (Asclepias), black-eyed Susan
@@ -54,7 +54,7 @@ Rain gardens filter pollutants, reduce flooding, and recharge groundwater while 
 
 ## Design Principles
 
-- **Layer the landscape**: canopy trees, understory shrubs, herbaceous perennials, ground covers
+- **Layer the landscape**: canopy trees, understory shrubs, herbaceous perennials, [[permaculture-plants-food-forest-ground-covers-bamboos]]
 - **Plant in drifts and groups** rather than singles — more natural appearance and easier for pollinators to locate
 - **Mimic natural plant communities**: prairie, woodland edge, wet meadow, savanna
 - **Leave seed heads and dried stalks** through winter for bird food and insect overwintering habitat
@@ -62,7 +62,7 @@ Rain gardens filter pollutants, reduce flooding, and recharge groundwater while 
 
 ## Maintenance
 
-- Water deeply during the first growing season to establish root systems
+- Water deeply during the first [[savory-growing-season-and-non-growing-season-management]] to establish root systems
 - Mulch with 2-3 inches of shredded bark or leaf litter (avoid dyed mulch)
 - Weed aggressively in years 1-2 until natives fill in and outcompete invasives
 - Cut back perennials in early spring (not fall) to leave winter structure
@@ -75,7 +75,7 @@ Nativars are cultivated varieties of native plants bred for specific traits (col
 
 ## Starting a Native Garden
 
-1. Remove existing turf (sheet mulching or sod cutting)
+1. Remove existing turf ([[comparison-sheet-mulching-vs-chop-and-drop-mulching]] or sod cutting)
 2. Assess site conditions (sun, soil, moisture)
 3. Select species matching your ecoregion and site
 4. Plant in fall (preferred) or early spring

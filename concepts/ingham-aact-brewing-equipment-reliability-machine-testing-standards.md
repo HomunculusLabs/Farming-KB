@@ -1,6 +1,6 @@
 ---
-title: Ingham Aact Brewing Equipment Reliability Machine Testing Standards
-source: "[[actively-aerated-compost-tea]] (AACT)"
+title: Ingham Aact compost-tea-brewing-equipment-ingham Reliability Machine Testing Standards
+source: "actively-aerated-compost-tea (AACT)"
 tags: [compost-tea-equipment, brewing-machine, testing-standards, AACT-quality, machine-reliability, compost-tea-brewing, soil-foodweb]
 created: 2026-05-08
 ---
@@ -27,7 +27,7 @@ Ingham identifies critical questions that any compost tea machine manufacturer s
 1. **What organisms does the machine extract?** Does it extract only bacteria, or does it also extract fungi, protozoa, and nematodes?
 2. **Is the machine honest about its limitations?** If a machine only extracts bacteria, the manufacturer should say so.
 3. **How reliable is the machine under identical conditions?** Can it produce the same quality tea when exactly the same conditions are used two, three, or four times in a row?
-4. **How good must the compost be?** What compost quality is required to achieve decent levels of bacteria in the tea?
+4. **How good must the compost be?** What [[aact-compost-quality-standards-ingham]] is required to achieve decent levels of bacteria in the tea?
 5. **Can it prevent specific diseases?** If the manufacturer claims effectiveness against black spot or other diseases, do they have data?
 
 ## Reliability Testing Protocol
@@ -49,7 +49,7 @@ Under these identical conditions, run the brew multiple times (minimum 3-4 repet
 - Active vs. total organism ratios
 - Protozoa counts (flagellates, amoebae, ciliates)
 - Nematode presence
-- Dissolved oxygen levels throughout the brew
+- [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] levels throughout the brew
 - pH at start and end of brew
 
 ### Single-Species vs. Whole-Community Extraction
@@ -84,10 +84,10 @@ Machine performance depends critically on compost quality:
 
 ### SFI's Approach to Standards
 
-Ingham's Soil Foodweb Inc. worked to establish Actively Aerated Compost Tea standards "using solid scientific approaches":
+Ingham's Soil Foodweb Inc. worked to establish Actively [[actively-aerated-compost-tea-aact-brewing]] Tea standards "using solid scientific approaches":
 
-- **Minimum organism thresholds**: Minimum levels of bacteria, fungi, protozoa, and nematodes needed for disease suppression.
-- **Fungal biomass minimum**: 2 µg/ml fungal biomass is the cutoff for reliable disease prevention (mostly mildew and blight). "Prevention always works above 2 microgram, not always below."
+- **Minimum organism thresholds**: Minimum levels of bacteria, fungi, protozoa, and nematodes needed for [[aact-disease-suppression-mechanisms-ingham]].
+- **Fungal biomass minimum**: 2 µg/ml fungal biomass is the cutoff for reliable [[cervantes-pest-disease-prevention-overview]] (mostly mildew and blight). "Prevention always works above 2 microgram, not always below."
 - **More is better for fungi**: Ingham confirms "Yep" when asked if more fungal biomass is better. As high as 800 µg/ml has been recorded and could be diluted from 5 gallons per acre to 2 gallons per acre while maintaining effectiveness.
 - **Pathogen screening**: Standards include testing for E. coli and other human pathogens.
 
@@ -125,3 +125,4 @@ Ingham distinguishes between simple extracts and true actively aerated compost t
 ## See Also
 - [[ingham-dissolved-oxygen-critical-thresholds-compost-tea]]
 - [[aact-compost-organism-levels]]
+- [[aact-compost-quality-standards-ingham]]

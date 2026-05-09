@@ -16,7 +16,7 @@ type: concept
 
 ## Temperate Zone Food Forest Design
 
-The food forest is one of the most iconic expressions of permaculture design.
+The food forest is one of the most iconic expressions of [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]].
 In temperate climates, food forests emulate the structure and function of
 natural woodland ecosystems while producing food, fuel, fiber, and medicine.
 Bill Mollison's *Permaculture: A Designers' Manual* presents the food forest
@@ -45,7 +45,7 @@ seven recognized layers:
    (elaeagnus, seaberry, goumi), and ornamental or medicinal species.
 
 4. **Herbaceous layer**: Non-woody perennials including comfrey, artichokes,
-   asparagus, rhubarb, culinary herbs, and dynamic nutrient accumulators.
+   asparagus, rhubarb, [[holzer-medicinal-and-culinary-herbs-compendium]], and dynamic nutrient accumulators.
 
 5. **Ground cover layer**: Low-growing plants that protect soil, suppress
    weeds, and retain moisture. Strawberries, clovers, creeping thyme, and
@@ -63,7 +63,7 @@ seven recognized layers:
 Canopy tree selection must account for the specific climate zone, including
 minimum winter temperatures, growing season length, chill hour requirements,
 and precipitation patterns. Mollison advocates choosing species that serve
-multiple functions: nut production, timber, fodder, mulch, nitrogen fixation,
+multiple functions: nut production, timber, fodder, mulch, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]],
 and wildlife habitat.
 
 Key temperate canopy species include:
@@ -99,15 +99,15 @@ extends [[mollison-designers-humus-building-and-soil-organic-matter]].
 Living ground covers provide continuous organic matter input through root
 exudates and leaf drop, suppress weed competition, and maintain soil moisture.
 A mix of nitrogen-fixing and non-fixing ground covers ensures both soil
-protection and fertility building.
+protection and [[soil-fertility-building-gradient-solomon]].
 
 ## Succession Planning in Food Forests
 
-Food forest establishment follows ecological succession. The initial planting
+Food forest establishment follows [[holmgren-ecological-succession-and-pulsing]]. The initial planting
 may emphasize fast-growing pioneer species and nitrogen fixers that prepare
 the site for longer-lived productive species. As the canopy closes, shade-
 tolerant understory species are introduced. Over decades, the system matures
-into a complex, self-regulating forest ecosystem.
+into a complex, self-regulating [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]].
 
 Mollison recommends a phased approach: begin with soil preparation and
 nitrogen-fixing nurse trees, interplant with fruit trees and shrubs in the

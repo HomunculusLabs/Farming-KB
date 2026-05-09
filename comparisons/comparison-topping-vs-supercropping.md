@@ -1,5 +1,5 @@
 ---
-title: "Topping vs Supercropping"
+title: "comparison-topping-vs-supercropping-cannabis"
 created: 2026-04-28
 tags: [comparison, cannabis, plant-training, pruning, high-stress-training]
 date: 2026-04-25
@@ -13,19 +13,17 @@ type: comparison
 ## Overview
 
 Topping and supercropping are two of the most widely used high-stress training
-(HST) techniques in cannabis cultivation. Both aim to increase yield by
+(HST) techniques in [[query-how-does-no-till-cannabis-cultivation-work]]. Both aim to increase yield by
 manipulating the plant's natural growth patterns and hormone distribution, but
 they achieve this through fundamentally different mechanisms. Topping involves
 surgical removal of the apical meristem to force the development of multiple
 colas, while supercropping relies on controlled mechanical damage to stems,
 bending and crushing tissue to redirect growth energy without any removal.
 Understanding the strengths and limitations of each technique allows growers to
-choose the right tool for their specific grow environment, skill level, and
+[[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] tool for their specific grow environment, skill level, and
 plant training goals.
 
 ## Topping
-
-[[supercropping]]
 
 Supercropping is a more advanced form of high-stress training that involves
 deliberately crushing or bending stems to create a "knuckle" of thickened tissue
@@ -46,13 +44,13 @@ with multiple bud sites at a more uniform canopy height, which translates to
 more even light distribution and larger overall harvest.
 
 Supercropping excels at controlling plant height in limited-space grows and can
-be performed throughout the vegetative stage and even into early flowering. The
+be performed throughout the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] and even into early flowering. The
 knuckle formation strengthens the branch and can improve nutrient flow to upper
 bud sites, potentially increasing the size of top colas. However, over-
 aggressive bending can snap branches entirely, and improper technique can
 introduce infection at the damage site. Supercropping also requires regular
 attention, as branches tend to grow back toward vertical and may need re-
-bending multiple times during the vegetative phase.
+bending multiple times during the [[green-cannabis-grow-bible-vegetative-phase-management]].
 
 ## Key Differences
 
@@ -86,7 +84,7 @@ rely on supercropping to keep plants within their space constraints.
 
 Many commercial and experienced growers combine both techniques in a layered
 training strategy. A common approach is to top once or twice during early
-vegetative growth to establish the main branch structure and determine the
+[[cannabis-vegetative-growth-stage]] to establish the main branch structure and determine the
 number of primary colas, then use supercropping to fine-tune canopy height, fill
 light gaps, and ensure even bud development across the entire plant. This
 combination leverages the predictable cola multiplication of topping with the
@@ -94,6 +92,8 @@ spatial control and height management of supercropping, resulting in a maximally
 productive canopy with minimal wasted light energy.
 
 ## See Also
+
+- [[comparison-topping-vs-supercropping-cannabis]]
 
 - [[supercropping]]
 - [[vegetative-phase-cannabis]]

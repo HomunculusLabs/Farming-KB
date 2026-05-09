@@ -1,5 +1,5 @@
 ---
-title: "Fungal Radionuclide Accumulation and Ecosystem Retention"
+title: "Fungal fungal-radionuclide-accumulation-and-bioremediation and Ecosystem Retention"
 created: 2026-04-26
 tags:
   - mycology
@@ -80,16 +80,16 @@ Radionuclide uptake mechanisms in fungi involve cell-wall ion exchange
 sites and potassium replacement. Potassium replacement is species-
 specific: Rb and Cs replace K in Fusarium solani, but only Rb, not Li,
 Na, or Cs, could replace K in Candida utilis. Connolly et al. (1998)
-demonstrated that the wood decay fungus Resinicium bicolor could utilize
+demonstrated that the [[bloomfield-wood-decay-fungi-spalted-timber]] fungus Resinicium bicolor could utilize
 strontium from strontianite sand, translocate it through mycelial cord
-systems, and deposit it in calcium oxalate crystals. This suggests
-strontium behaves similarly to calcium in fungal metabolism and
+systems, and deposit it in [[fungal-calcium-oxalate-crystals]] crystals. This suggests
+strontium behaves similarly to calcium in [[singh-fungal-metabolism-pahs]] and
 indicates a pathway for translocation of 90Sr within decomposer fungi.
 
 ## Mycorrhizal Influence on Plant Uptake
 
 The role of mycorrhizae in plant uptake of radionuclides is complex and
-sometimes conflicting. Arbuscular mycorrhizal colonization of soybeans
+sometimes conflicting. Arbuscular [[arbuscular-mycorrhizal-colonization-patterns]] of soybeans
 by Glomus mosseae significantly increased 90Sr uptake. However, ericoid
 mycorrhizal heather plants showed lower radiocesium influx than
 nonmycorrhizal plants, though internal redistribution allowed greater
@@ -112,7 +112,7 @@ downward movement through immobilization.
 
 ## Chernobyl Reactor Communities
 
-Zhdanova et al. (1994, 2000) showed that fungal communities in soil at
+Zhdanova et al. (1994, 2000) showed that [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] in soil at
 Chernobyl have been altered by intense radiation doses, leading to
 simpler community structure and dominance of melanin-containing
 (pigmented) fungal species at higher radioactivity levels. Large numbers
@@ -121,6 +121,8 @@ room, though intense sustained radiation has shifted genetic composition
 within some species.
 
 ## See Also
+
+- [[dighton-fungal-radionuclide-uptake-mechanisms]]
 
 - [[dighton-fungal-heavy-metal-accumulation-bioremediation]]
 - [[singh-uranium-radionuclide-fungal-biosorption]]

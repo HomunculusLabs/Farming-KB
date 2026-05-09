@@ -1,13 +1,14 @@
 ---
-title: Fukuoka on Natural Diet and Health
+title: Fukuoka on natural-diet and Health
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
 tags: [diet, health, food, nutrition, farming, fukuoka, macrobiotic]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka on Natural Diet and Health
+# Fukuoka on [[natural-diet]] and Health
 
 In [[natural-farming-fukuoka]] presents extensive observations on the relationship between diet, health, and civilization, drawing on his travels through America, Europe, and Japan. His views connect [[fukuoka-road-observation-natures-patterns]].
 
@@ -22,7 +23,7 @@ Fukuoka held Japanese culinary tradition in the highest regard: "No other people
 
 ## Petroleum-Based Food
 
-Fukuoka warned that "the foods eaten here have become Western-style petroleum-based products." He included in this indictment "everything from vegetables such as tomatoes, eggplants, and cucumbers, to rice and wheat, and even fish." Fish are "the product of fish farming operations rather than caught fresh from local waters." The consequence: "No matter how skilled the cook, if the materials he works with are no good, there is nothing he can do."
+Fukuoka warned that "the foods eaten here have become Western-style petroleum-based products." He included in this indictment "everything from vegetables such as tomatoes, eggplants, and cucumbers, to rice and wheat, and even fish." Fish are "the product of [[knf-fish-farming-integration]] operations rather than caught fresh from local waters." The consequence: "No matter how skilled the cook, if the materials he works with are no good, there is nothing he can do."
 
 ## Diet Shapes Thought
 
@@ -30,11 +31,11 @@ A core Fukuoka principle: "Confusion over diet confuses the body and the mind. I
 
 ## The East-West Reversal
 
-Fukuoka documented a remarkable reversal in dietary patterns. Westerners, once proud meat-eaters, have "taken to vegetarianism" while the Japanese, who traditionally ate rice and vegetables, now eat hamburgers at standup counters. "Confusion over diet has misled people and, once misled, they begin to adopt sumptuous and extravagant eating habits." He connected this dietary shift to civilizational decline: the Japanese "are becoming devotees of science" and their "thinking is being polluted by Western philosophy."
+Fukuoka documented a remarkable reversal in dietary patterns. Westerners, once proud meat-eaters, have "taken to vegetarianism" while the Japanese, who traditionally ate rice and vegetables, now eat hamburgers at standup counters. "Confusion over diet has misled people and, once misled, they begin to adopt sumptuous and extravagant eating habits." He connected this dietary shift to civilizational decline: the Japanese "are becoming devotees of science" and their "thinking is being polluted by [[fukuoka-descartes-western-philosophy-nature]]."
 
 ## The Natural Way of Eating
 
-The original Japanese diet was sacred in its simplicity: "The Japanese farmer did not ask what food to grow and eat. He simply harvested and ate what grew naturally in his fields in each passing season. And he cooked this food in accordance with the principles of nature." This was "a 'do-nothing' nature" — "the original way of living in Japan and the proper way of eating (a sacred act)." Fukuoka's prescription: "The question to ask is not what to grow here, but what grows here."
+The original [[fukuoka-japanese-diet-worse]] was sacred in its simplicity: "The Japanese farmer did not ask what food to grow and eat. He simply harvested and ate what grew naturally in his fields in each passing season. And he cooked this food in accordance with the principles of nature." This was "a 'do-nothing' nature" — "the original way of living in Japan and the proper way of eating (a sacred act)." Fukuoka's prescription: "The question to ask is not what to grow here, but what grows here."
 
 ## Grain-Eaters vs. Meat-Eaters
 
@@ -49,7 +50,7 @@ Fukuoka championed traditional grains: "Roughly half of the world's population u
 This approach emerged from decades of field observation and experimentation. Early practitioners documented results through careful record-keeping, building empirical evidence later validated by controlled studies. The methodology has evolved considerably, incorporating insights from soil science, microbiology, and ecology. Modern practitioners benefit from both traditional knowledge and contemporary scientific understanding.
 ## Practical Considerations
 
-When working with Fukuoka on Natural Diet and Health, several practical factors should be
+When working with Fukuoka on [[fukuoka-natural-diet-as-foundation]] and Health, several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this
@@ -63,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

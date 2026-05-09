@@ -1,11 +1,12 @@
 ---
-title: Vapor Pressure Deficit and Transpiration in Cannabis
+title: cervantes vapor pressure deficit transpiration Deficit and Transpiration in Cannabis
 created: 2026-04-26
 tags: [cannabis, transpiration, humidity, stomata, environmental-control]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -13,15 +14,15 @@ type: concept
 
 Vapor pressure deficit (VPD) is the difference between the amount of
 moisture in the air and the amount the air could hold when fully
-saturated. It is one of the most important environmental factors
-governing transpiration rates, nutrient uptake, and overall plant
-health in cannabis cultivation. Jorge Cervantes emphasizes that
+saturated. It is one of the most important [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
+governing transpiration rates, [[plant-nutrient-uptake-mechanisms]], and overall plant
+health in [[query-how-does-no-till-cannabis-cultivation-work]]. Jorge Cervantes emphasizes that
 understanding the relationship between temperature, humidity, and
 transpiration is essential to maximizing growth and avoiding stress.
 
 ## Transpiration and Stomata
 
-Cannabis leaves transpire through tiny breathing pores called
+[[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]] transpire through tiny breathing pores called
 stomata located on the underside of leaves. These stomata open and
 close to regulate moisture flow and prevent dehydration. During
 photosynthesis, the stomata funnel carbon dioxide into contact with
@@ -52,7 +53,7 @@ leaves in half to lower the transpiration surface area on cuttings,
 which helps traumatized clones retain moisture that would otherwise be
 unavailable from nonexistent roots.
 
-During vegetative growth, humidity between 40-60 percent is
+During [[cannabis-vegetative-growth-stage]], humidity between 40-60 percent is
 recommended. During flowering, humidity should be kept lower --
 around 40-50 percent -- to prevent bud rot and fungal problems.
 Cervantes notes that high humidity during flowering increases the

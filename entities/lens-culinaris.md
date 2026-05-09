@@ -24,7 +24,7 @@ sources:
 Lens culinaris, commonly known as lentil, is an annual legume in the family
 Fabaceae grown for its lens-shaped edible seeds. It ranks among the oldest
 domesticated crops, with cultivation dating to approximately 9,500–8,000 BCE
-in the Near East.
+in the [[ancient-cannabis-use-near-east-and-egypt]].
 
 Lentils are a dietary staple in South Asia, the Middle East, North Africa,
 and the Mediterranean. Global production exceeds 6 million tonnes annually,
@@ -53,7 +53,7 @@ exist: large green, small green, red (split), and brown/charcoal.
 
 ### Physical Description
 
-Lentil is a slender, semi-erect annual herb growing 15–45 cm tall. Stems are
+Lentil is a slender, semi-erect annual [[medicinal-herb-growing]] 15–45 cm tall. Stems are
 angled and branched at the base, giving a bushy but compact habit.
 
 Leaves are pinnately compound with 4–7 pairs of oblong leaflets terminating
@@ -80,7 +80,7 @@ production also occurs in Turkey, Australia, the US, and Ethiopia.
 ## Cultivation
 
 Lentils perform best at 15–25°C with 250–400 mm annual rainfall. Sowing
-occurs in autumn (Mediterranean climates) or early spring (temperate zones)
+occurs in autumn (Mediterranean climates) or [[coleman-overwintered-onions-and-early-spring-crops]] (temperate zones)
 at seed rates of 40–80 kg/ha.
 
 The crop matures in 80–120 days. Average yields range from 800–1,500 kg/ha,
@@ -101,7 +101,7 @@ Their low glycemic index (GI 21–32) and high fiber content support blood
 glucose regulation and cardiovascular health. Lentils are a critical iron
 source for vegetarian and vegan diets.
 
-Bioactive compounds include phytic acid, tannins, and trypsin inhibitors
+[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include phytic acid, tannins, and trypsin inhibitors
 that are partially reduced by cooking. Lentil sprouts contain elevated
 vitamin C and antioxidant levels. Contemporary research has investigated
 lentil-derived peptides for antihypertensive and antioxidant activity.
@@ -122,9 +122,9 @@ Lentil-cereal intercrops often demonstrate land-equivalent ratios exceeding
 
 ## See Also
 
-- [[vicia-faba]] — fava bean, cool-season broad bean
+- [[vicia-faba]] — [[comparison-fava-bean-vs-chickpea-vs-lentil-grain-legumes]], cool-season broad bean
 - [[vigna-radiata]] — mung bean, warm-season pulse crop
 - [[medicago-sativa]] — alfalfa, perennial nitrogen-fixing forage
-- [[trigonella-foenum-graecum]] — fenugreek, medicinal legume
-- crop rotation — rotational strategies for legume integration
+- trigonella-foenum-graecum — fenugreek, medicinal legume
+- [[comparison-crop-rotation-vs-cover-cropping]] — rotational strategies for legume integration
 - [[companion-planting]] — intercropping and companion strategies

@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-**Brassica juncea** is an annual herbaceous plant in the family **Brassicaceae**, commonly known as **Indian mustard**, **brown mustard**, or **leaf mustard**. It is one of the three principal mustard species cultivated worldwide for oil, condiment, and vegetable production, alongside **B. nigra** (black mustard) and **B. hirta/Sinapis alba** (white mustard).
+**Brassica juncea** is an annual herbaceous plant in the family **Brassicaceae**, commonly known as **Indian mustard**, **brown mustard**, or **leaf mustard**. It is one of the three principal mustard species cultivated worldwide for oil, condiment, and [[dry-gardening-unirrigated-vegetable-production-solomon]], alongside **B. nigra** (black mustard) and **B. hirta/Sinapis alba** (white mustard).
 
 The species is believed to have originated from an ancient hybridization between **Brassica nigra** and **Brassica rapa**. This allotetraploid origin (genome AABB, 2n=36) has given B. juncea a broad genetic base that supports diverse cultivated forms.
 
@@ -44,7 +44,7 @@ Brassica juncea is cultivated across a wide geographic range spanning temperate,
 
 The species likely originated in the Central Asian Himalayan foothills, where its wild progenitors (B. nigra and B. rapa) overlap in distribution. Domestication is estimated to have occurred approximately 6,000 years ago in the region encompassing present-day northern India and western China.
 
-B. juncea is adapted to diverse climatic conditions but performs best in temperate regions with moderate rainfall (500–1,200 mm annually). It tolerates higher temperatures than B. napus (rapeseed) and shows greater drought tolerance, making it suitable for semi-arid agricultural zones.
+B. juncea is adapted to diverse climatic conditions but performs best in temperate regions with moderate rainfall (500–1,200 mm annually). It tolerates higher temperatures than B. napus (rapeseed) and shows greater [[dighton-fungal-drought-tolerance-plant-water-relations]], making it suitable for semi-arid agricultural zones.
 
 Soil requirements are flexible — the crop grows well in loamy to clayey soils with pH 5.5–7.5. It is moderately salt-tolerant and can be cultivated in marginal soils where other oilseed crops perform poorly.
 
@@ -82,17 +82,17 @@ Major diseases include Alternaria leaf spot, white rust (Albugo candida), and do
 
 Brassica juncea has demonstrated exceptional capacity for accumulating heavy metals from contaminated soils, making it a leading candidate species for **phytoremediation**. Research has documented significant uptake of lead, cadmium, chromium, nickel, zinc, and selenium.
 
-The species' effectiveness stems from its high biomass production, extensive root system, and biochemical tolerance mechanisms including chelation of metals by phytochelatins and compartmentalization in vacuolar tissues. B. juncea can accumulate lead at concentrations exceeding 10,000 mg/kg in root tissue.
+The species' effectiveness stems from its high [[dighton-fungal-biomass-production-aquatic-ecosystems]], extensive root system, and biochemical tolerance mechanisms including chelation of metals by phytochelatins and compartmentalization in vacuolar tissues. B. juncea can accumulate lead at concentrations exceeding 10,000 mg/kg in root tissue.
 
 Phytoremediation applications include decontamination of industrial sites, mine tailings, and agricultural soils treated with sewage sludge. The harvested contaminated biomass requires appropriate disposal or processing — typically incineration or smelting for metal recovery.
 
-Genetic engineering approaches have been explored to enhance the phytoremediation capacity of B. juncea. Transgenic lines overexpressing genes for metal chelation, transport, and sequestration have shown 2–3 fold increases in metal accumulation compared to wild-type plants.
+[[fukuoka-textdoc-genetic-engineering-critique-warning]] approaches have been explored to enhance the phytoremediation capacity of B. juncea. Transgenic lines overexpressing genes for metal chelation, transport, and sequestration have shown 2–3 fold increases in [[dighton-fungal-heavy-metal-accumulation-bioremediation]] compared to wild-type plants.
 
 ## Cover Cropping and Soil Health
 
 Brassica juncea is widely used as a cover crop and green manure in sustainable agriculture systems. Its rapid growth produces substantial biomass that suppresses weeds and, when incorporated into soil, adds organic matter and releases nutrients.
 
-The species is valued as a **biofumigant** cover crop. When chopped and incorporated into soil, glucosinolate-containing tissues hydrolyze to release isothiocyanates — volatile compounds toxic to soil-borne pathogens, nematodes, and weed seeds. This biofumigation effect has been documented against Pythium, Rhizoctonia, and Meloidogyne spp.
+The species is valued as a **biofumigant** cover crop. When chopped and incorporated into soil, glucosinolate-containing tissues hydrolyze to release isothiocyanates — [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] toxic to soil-borne pathogens, nematodes, and weed seeds. This biofumigation effect has been documented against Pythium, Rhizoctonia, and Meloidogyne spp.
 
 Deep taproot growth (up to 1 meter) improves soil structure by breaking compacted layers and increasing water infiltration. The crop's ability to scavenge residual nitrogen from deep soil profiles reduces nitrate leaching between cash crop cycles.
 
@@ -114,3 +114,5 @@ Indian breeding programs have focused on combining high yield potential with res
 - [[arachis-hypogaea]]
 - [[cicer-arietinum]]
 - [[zingiber-officinale]]
+
+- [[crotalaria-juncea]]

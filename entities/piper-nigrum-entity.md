@@ -10,7 +10,7 @@ sources:
   - "general botanical and pharmacological knowledge"
 ---
 # Piper nigrum
-Piper nigrum, the black pepper plant, is a perennial woody vine in the family
+Piper nigrum, the [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]] plant, is a perennial woody vine in the family
 Piperaceae native to the Malabar Coast of southwestern India. It produces the
 world's most widely traded spice—pepper—which has been a cornerstone of global
 trade for over 2,000 years, once serving as currency and a driver of European
@@ -50,7 +50,7 @@ permaculture agroforestry systems.
   yellow; borne on pendulous spikes opposite leaves
 - **Fruit:** Drupes (peppercorns), spherical, 4–6 mm diameter, green
   when unripe, turning red at maturity; borne in dense clusters of
-  50–60 per spike; single seed per fruit
+  50–60 per spike; [[cervantes-selfing-single-seed-descent]] per fruit
 - **Roots:** Adventitious roots from nodes aid climbing; extensive
   shallow lateral root system
 ### Pepper Products from Processing
@@ -69,7 +69,7 @@ permaculture agroforestry systems.
   Indonesia, Sri Lanka, China, and Malaysia
 - **Habitat:** Tropical lowland and premontane forests; thrives in hot,
   humid conditions with consistent rainfall and partial shade
-- **Introduced:** Southeast Asia by Indian traders; reached the
+- **Introduced:** [[psilocybe-southeast-asia-pacific]] by Indian traders; reached the
   Mediterranean via Arab trade routes by the 1st millennium CE;
   introduced to the Americas in the colonial period
 ## Chemistry and Active Compounds
@@ -91,7 +91,7 @@ Piperine (1-piperoylpiperidine) is the primary bioactive alkaloid
 - **Anti-inflammatory:** Inhibits NF-κB and COX-2 pathways; reduces
   pro-inflammatory cytokine production
 ### Volatile Oil Constituents
-The essential oil (1–3%) provides pepper's characteristic aroma:
+The [[permaculture-designers-manual-essential-oil-plants]] (1–3%) provides pepper's characteristic aroma:
 - **β-Caryophyllene (15–30%):** Sesquiterpene; dietary CB2 receptor
   agonist; anti-inflammatory
 - **Limonene (10–20%):** Monoterpene; citrus aroma; antioxidant
@@ -110,7 +110,7 @@ The essential oil (1–3%) provides pepper's characteristic aroma:
 |-----------|--------------|-------|
 | Temperature | 23–32°C | Growth ceases below 15°C; killed by frost |
 | Rainfall | 1250–2500 mm/year | Requires 125–150 mm during flowering |
-| Soil pH | 5.5–6.5 (acidic) | Tolerant of poor soils but responds to organic matter |
+| Soil pH | 5.5–6.5 (acidic) | Tolerant of poor soils but responds to [[hamilton-composting-and-organic-matter-management]] |
 | Soil type | Loamy, well-drained, rich in organic matter | Sandy loam preferred; heavy clay unsuitable |
 | Sunlight | Partial shade to full sun | Shade during establishment; full sun for mature vines |
 | Support | Living trees or trellis | Requires support to climb; 2–6 m support height |
@@ -127,14 +127,21 @@ The essential oil (1–3%) provides pepper's characteristic aroma:
   attracts frugivorous birds
 ## Historical and Economic Significance
 Black pepper was known as "black gold" in antiquity. Roman demand was
-enormous: Pliny the Elder complained that India drained Rome of 50
-million sesterces annually for pepper. The search for direct pepper
-trade routes motivated Vasco da Gama's voyage to India (1498) and
-subsequent Portuguese, Dutch, and British colonial expansion into
-Asia. At times, pepper was accepted as rent, tax, and dowry. Today,
-global pepper production exceeds 600,000 tonnes annually, and it
-remains the most traded spice by volume and value.
 ## See Also
+
+- [[2c-h-entity]]
+- [[jujube-entity]]
+- [[2c-se-entity]]
+- [[2c-t-9-entity]]
+- [[piper-auritum]]
+- [[4-ma-entity]]
+- [[g-5-entity]]
+- [[2c-f-entity]]
+- [[lepidium-meyenii-entity]]
+- [[2c-t-8-entity]]
+- [[2c-c-entity]]
+- [[ip-entity]]
+- [[tp-entity]]
 
 - [[piper-guineense-entity]]
 - [[zingiber-officinale]]

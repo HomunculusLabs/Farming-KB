@@ -1,9 +1,9 @@
 ---
-title: Outdoor Cannabis Growing
+title: Outdoor query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -11,7 +11,7 @@ tags: [cannabis]
 
 # Outdoor Cannabis Growing
 
-Outdoor growing is more popular than indoor growing in regions with lenient cannabis
+Outdoor growing is more popular than [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]] in regions with lenient cannabis
 laws, primarily because sunshine is free while lights and electricity cost money. Cannabis
 is a strong, vigorous plant that can be grown successfully almost anywhere with proper
 planning, security awareness, and attention to local growing conditions.
@@ -28,12 +28,12 @@ Planting time depends on local climate and whether starting from seed or clone. 
 temperate regions, planting after the last frost date is standard. Clones started indoors
 can be hardened off gradually before transplanting outdoors. Auto-flowering seeds can be
 stagger-planted throughout the season for continuous harvests. Start clones in rockwool,
-Jiffy, or soilless grow cubes for three weeks, then transplant into pots of organic soil
+Jiffy, or [[cannabis-soilless-grow-media]] cubes for three weeks, then transplant into pots of organic soil
 mix. Water transplants heavily to encourage root growth.
 
 ## Soil and Nutrition
 
-Outdoor soil should be well-draining and rich in organic matter. Incorporating compost,
+Outdoor soil should be well-draining and rich in [[hamilton-composting-and-organic-matter-management]]. Incorporating compost,
 aged manure, and balanced amendments before planting provides a strong foundation.
 Outdoor plants in the ground have access to a larger soil volume than container plants,
 reducing the frequency of fertilization needed. Monitor [[light-deprivation-cannabis]] techniques to force early
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

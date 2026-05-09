@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Ali-Shtayeh, M.S. et al. (2020). "Micromeria fruticosa: Traditional uses, phytochemistry, and pharmacology." Journal of Ethnopharmacology, 259, 112950.
-  - Dudai, N. et al. (2019). "Essential oil composition and antimicrobial activity of Micromeria fruticosa from Israel." Journal of Agricultural and Food Chemistry, 67(15), 4231-4238.
+  - Dudai, N. et al. (2019). "[[permaculture-designers-manual-essential-oil-plants]] composition and antimicrobial activity of Micromeria fruticosa from Israel." Journal of Agricultural and Food Chemistry, 67(15), 4231-4238.
   - Fleischer, A. & Stern, A. (2021). "Ethnobotany of Micromeria species in the Mediterranean region." Economic Botany, 75(2), 234-248.
   - Baranauskiene, R. et al. (2018). "Variability of essential oil composition in Micromeria fruticosa populations." Chemistry & Biodiversity, 15(5), e1800123.
   - Said, O. et al. (2020). "Antibacterial activity of Palestinian medicinal plants including Micromeria fruticosa." Journal of Basic Microbiology, 60(4), 398-405.
@@ -27,9 +27,9 @@ The species is one of the most important medicinal plants in traditional Palesti
 
 The plant produces a distinctive minty, slightly camphoraceous aroma from its essential oil-rich leaves. This fragrance makes it a popular choice for herbal teas and culinary seasoning in Middle Eastern cuisine.
 
-*Micromeria fruticosa* has attracted scientific interest for its antimicrobial, anti-inflammatory, and antioxidant properties. Several bioactive compounds have been isolated and characterized from its essential oil and extracts.
+*Micromeria fruticosa* has attracted scientific interest for its antimicrobial, anti-inflammatory, and antioxidant properties. Several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] have been isolated and characterized from its essential oil and extracts.
 
-The species shows considerable chemical variation across its range, with distinct chemotypes producing different dominant essential oil constituents. This variability has implications for both medicinal efficacy and commercial cultivation.
+The species shows considerable chemical [[psilocybin-psilocin-variation-across-flushes]] its range, with distinct chemotypes producing different dominant essential oil constituents. This variability has implications for both medicinal efficacy and commercial cultivation.
 
 ## Taxonomy and Morphology
 
@@ -75,7 +75,7 @@ Non-volatile compounds include flavonoids (apigenin, luteolin, and their glycosi
 
 **Pharmacological research demonstrates:**
 
-- **Antimicrobial activity:** Essential oil and extracts inhibit a broad spectrum of pathogens, including *Staphylococcus aureus*, *Escherichia coli*, *Pseudomonas aeruginosa*, and *Candida albicans*. The pulegone chemotype shows stronger activity.
+- **Antimicrobial activity:** Essential oil and extracts inhibit a broad spectrum of pathogens, including *Staphylococcus aureus*, *Escherichia coli*, *Pseudomonas aeruginosa*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*. The pulegone chemotype shows stronger activity.
 - **Anti-inflammatory effects:** Methanolic extracts reduce TNF-α and IL-6 production in LPS-stimulated macrophages. Oral administration decreases carrageenan-induced paw edema in rats.
 - **Antioxidant capacity:** The species exhibits strong DPPH and ABTS radical scavenging, primarily attributed to rosmarinic acid and flavonoid content.
 - **Antispasmodic activity:** Aqueous extracts relax smooth muscle contractions in isolated ileum preparations, supporting traditional use for digestive cramps.
@@ -103,7 +103,7 @@ In Jordanian folk medicine, the plant is used to treat diabetes, high blood pres
 
 Cultivation of *Micromeria fruticosa* is limited, with most supply still harvested from wild populations. However, there is growing interest in domestication for both medicinal and ornamental markets.
 
-The plant is easily propagated from semi-hardwood cuttings taken in late summer. Seed propagation is possible but germination rates are variable and often low.
+The plant is easily propagated from semi-hardwood cuttings taken in late summer. [[jeavons-seed-propagation-techniques]] is possible but germination rates are variable and often low.
 
 Cultivated plants require full sun to partial shade and well-drained soil. The species is drought-tolerant once established but benefits from occasional irrigation during extended dry periods.
 
@@ -111,7 +111,7 @@ Harvesting of aerial parts occurs during the flowering period when essential oil
 
 Yield data for cultivated plants is limited, but wild-harvested stands can produce 1–3 tonnes of dried herb per hectare. The species has potential as a low-input crop for arid and semi-arid regions.
 
-Ornamental use is increasing in Mediterranean-climate gardens. The compact growth habit, silvery foliage, and delicate flowers make it an attractive rock garden or container plant.
+Ornamental use is increasing in Mediterranean-climate gardens. The [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit, silvery foliage, and delicate flowers make it an attractive rock garden or container plant.
 
 ## See Also
 

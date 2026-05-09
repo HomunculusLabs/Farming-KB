@@ -1,5 +1,5 @@
 ---
-title: JADAM Healthy Living Guidelines
+title: JADAM jadam healthy living guidelines Guidelines
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-Youngsang Cho extends JADAM's farming philosophy into daily health practices. Based on the principle that "my body and the soil are one" (Korean: "shindo buji"), JADAM provides eight guidelines for healthy living that parallel its agricultural principles -- just as soil needs balanced nutrition and good circulation, so does the human body.
+Youngsang Cho extends JADAM's [[cho-natural-farming-philosophy-of-non-interference]] into daily health practices. Based on the principle that "my body and the soil are one" (Korean: "shindo buji"), JADAM provides eight guidelines for healthy living that parallel its agricultural principles -- just as soil needs balanced nutrition and good circulation, so does the human body.
 
 ## The Eight Guidelines
 
@@ -25,7 +25,7 @@ Dr. Qi Sun of Harvard School of Public Health reviewed studies of 350,000 people
 
 ### 2. Drink Plenty of Water
 
-Drink water until urine turns clear. The amount of water consumed is absolutely crucial to health. Toxins follow urine to be excreted from the body. Just drinking water can heal many illnesses. Eat small amounts of sea salt too.
+Drink water until urine turns clear. The amount of water consumed is absolutely crucial to health. Toxins follow urine to be excreted from the body. Just drinking water can heal many illnesses. Eat small amounts of [[jadam-sea-salt-and-mineral-solutions]] too.
 
 This directly parallels JADAM's agricultural teaching that 70% of human health (and 95% of plant structure) is determined by water quality and quantity.
 
@@ -35,7 +35,7 @@ Cosmetic products are a mixture of hundreds of different chemicals. When absorbe
 
 ### 4. Eliminate Household Chemicals
 
-Get rid of shampoos, soaps, bleach, fabric softeners, antimicrobial products, and air fresheners. These chemicals accumulate in the body and damage health. JADAM wetting agent (JWA) can replace all of these -- use it to wash hair, body, dishes, and clothes. This is particularly important for infants and children.
+[[query-how-to-get-rid-of-slugs-and-snails-organically]] of shampoos, soaps, bleach, fabric softeners, antimicrobial products, and air fresheners. These chemicals accumulate in the body and damage health. JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA) can replace all of these -- use it to wash hair, body, dishes, and clothes. This is particularly important for infants and children.
 
 ### 5. Use Sun-Dried Sea Salt Instead of Toothpaste
 

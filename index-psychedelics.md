@@ -1606,3 +1606,6 @@
 - [[zoroaster-mazda-religion-haoma]]
 - [[zwitterionic-intermediates-tryptamine-phosphorylation]]
 - [[zwitterionic-phosphate-intermediate-psilocybin-synthesis]]
+- [[mckenna-dmt-endogenous-brain-affinity-versus-lsd-pharmacokinetics]]
+- [[shirota-psilocin-psilocybin-spectroscopic-characterization-forensic-standards]]
+- [[metzner-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment]]

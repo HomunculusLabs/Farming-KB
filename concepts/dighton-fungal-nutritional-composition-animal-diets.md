@@ -1,5 +1,5 @@
 ---
-title: "Nutritional Composition of Fungi as Animal Food Resources"
+title: "dighton fungal nutritional composition animal diets of Fungi as Animal Food Resources"
 created: 2026-04-28
 tags:
   - fungal-nutrition
@@ -16,11 +16,11 @@ type: concept
 
 # Nutritional Composition of Fungi as Animal Food Resources
 
-The nutritional quality of fungi as food for animals is a critical determinant
+The [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of fungi as food for animals is a critical determinant
 of fungal roles in supporting secondary production within ecosystems. In
-[[fungal-ecology]], understanding the chemical
+, understanding the chemical
 composition of fungal tissue explains why fungi are preferred food items for
-many vertebrate and invertebrate consumers and how fungi sustain [[fungal-soil-food-web]] dynamics.
+many vertebrate and invertebrate consumers and how fungi sustain fungal-soil-food-web dynamics.
 
 ## Macronutrient Composition
 
@@ -31,7 +31,7 @@ include:
 
 | Species                | Protein (%) | Fat (%) | Carbohydrate (%) | Ash (%) |
 |------------------------|-------------|---------|-------------------|---------|
-| Agaricus bisporus      | 50          | 1.2     | --                | 7       |
+| [[genetic-improvement-agaricus-bisporus-molecular-approaches]]      | 50          | 1.2     | --                | 7       |
 | Boletus edulis         | 33          | 5       | 58                | 7       |
 | Lactarius deliciosus   | 19          | 7       | 28                | 6       |
 | Lentinus edodes        | 40          | 5       | 54                | 3       |
@@ -52,7 +52,7 @@ They found that all elements except calcium were more concentrated in fungal
 tissue than in surrounding forest floor material. This nutrient density
 explains why fungi are preferred food resources for many animals.
 
-Hypogeous fungi contain higher concentrations of nitrogen, phosphorus,
+[[dighton-hypogeous-fungi-mammal-spore-dispersal]] contain higher concentrations of nitrogen, phosphorus,
 potassium, and micronutrients than epigeous fungi, making them particularly
 valuable food items for mammals that can locate them.
 
@@ -108,12 +108,12 @@ higher rates of animal growth and reproduction, creating stronger links
 between fungal productivity and secondary production in food webs.
 
 Understanding fungal nutritional composition is therefore essential for
-predicting how changes in fungal community composition -- whether from
-disturbance, pollution, or climate change -- will cascade through food
+predicting how changes in fungal [[core-endorhiza-bacterial-community-composition-cannabis]] -- whether from
+disturbance, pollution, or [[dighton-fungi-climate-change-feedback]] -- will cascade through food
 webs to affect animal populations and ecosystem-level productivity.
 
 ## See Also
 
 - [[dighton-hypogeous-fungi-mammal-spore-dispersal]]
 - [[dighton-fungal-trophic-interactions-soil-food-webs]]
-- [[fungal-stoichiometry-ecology]]
+- fungal-stoichiometry-ecology

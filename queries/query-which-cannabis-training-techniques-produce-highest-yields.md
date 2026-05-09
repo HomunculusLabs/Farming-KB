@@ -1,5 +1,5 @@
 ---
-title: "Which Cannabis Training Techniques Produce the Highest Yields"
+title: "Which Cannabis cannabis-training-techniques-comparison Produce the Highest Yields"
 created: 2026-04-28
 tags: [query, cannabis, training, yield-optimization, techniques]
 date: 2026-04-25
@@ -14,19 +14,19 @@ type: query
 The most effective yield-boosting techniques combine structural training methods like
 topping and low-stress training with canopy management systems like SCROG or sea of
 green. Topping creates a bushier plant with multiple main colas, low-stress training
-bends branches horizontally to expose more bud sites to light, and screen of green
+bends branches horizontally to expose more bud sites to light, and [[cannabis-screen-of-green-scrog-guide]]
 creates an even canopy that maximizes light utilization across the entire grow space.
 
 ## Detailed Explanation
 
 Plant training is the practice of manipulating cannabis growth patterns to increase
 yield, improve light distribution, and control plant shape. Rather than letting a
-plant grow into its natural Christmas tree form with a single dominant cola, trained
+plant grow into its natural [[arthur-christmas-tree-amanita-muscaria]] form with a single dominant cola, trained
 plants develop multiple evenly-sized bud sites that collectively produce more
 harvestable flower. The [[topping-cannabis]] breaks the plant's apical dominance
 and forces it to develop two new main stems from the nodes just below the cut. This
 can be repeated multiple times, with each top doubling the number of main colas. Most
-growers top once or twice during the early vegetative stage, producing four to eight
+growers top once or twice during the early [[comparison-cannabis-vegetative-stage-vs-flowering-stage]], producing four to eight
 main stems that form the scaffold for the rest of the training. Topping is a
 high-stress technique that temporarily slows growth, so it should be performed early
 enough for the plant to recover fully before flowering begins.
@@ -39,7 +39,7 @@ Every bud site sits at the same distance from the light source, which dramatical
 improves light efficiency. SCROG is particularly effective with [[cannabis-pot-selection-and-container-sizing]] should account for the fact that SCROG plants
 need wider, shallower containers to match their spread-out canopy structure.
 
-Sea of green, or [[cannabis-clone-rooting-and-transplanting]] because using identical clones ensures uniform growth across the
+[[comparison-sea-of-green-vs-screen-of-green]], or [[cannabis-clone-rooting-and-transplanting]] because using identical clones ensures uniform growth across the
 entire crop for a consistent, even canopy.
 
 Supercropping is a more advanced technique that involves strategically crushing the
@@ -62,7 +62,7 @@ training strategies for maximum return.
 
 The best approach for most growers combines two to three complementary techniques
 rather than relying on a single method. A common high-yield strategy involves
-topping twice during early vegetative growth to create four to eight main colas,
+topping twice during early [[cannabis-vegetative-growth-stage]] to create four to eight main colas,
 applying LST to spread them evenly, using a SCROG screen to maintain a flat canopy,
 and performing one round of lollipopping in early flowering. This combination
 addresses light distribution, structural support, and energy redirection for

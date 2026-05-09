@@ -1,5 +1,5 @@
 ---
-title: Illusions of Scientific Farming
+title: fukuoka illusions of scientific farming Farming
 created: 2026-04-28
 tags:
   - farming
@@ -19,11 +19,11 @@ type: concept
 
 ## Overview
 
-Masanobu Fukuoka's critique of scientific farming forms a central pillar of his philosophy in The Natural Way of Farming. He argued that scientific agriculture is built upon a series of interlocking illusions: that it produces higher yields than nature, that it increases productivity, that it improves food quality, and that technological progress in farming benefits the farmer. Fukuoka systematically dismantled each of these claims, demonstrating that scientific farming is at best an effort to compensate for damage it has itself caused, and at worst a driver of ecological destruction and human alienation.
+[[masanobu-fukuoka]]'s [[fukuoka-critique-of-scientific-agriculture]] farming forms a central pillar of his philosophy in The Natural Way of Farming. He argued that [[fukuoka-critique-scientific-agriculture-civilization]] is built upon a series of interlocking illusions: that it produces higher yields than nature, that it increases productivity, that it improves food quality, and that technological progress in farming benefits the farmer. Fukuoka systematically dismantled each of these claims, demonstrating that scientific farming is at best an effort to compensate for damage it has itself caused, and at worst a driver of ecological destruction and human alienation.
 
 ## The Centrifugal vs Centripetal Model
 
-Fukuoka used a spatial metaphor to distinguish scientific from natural farming. The objective of natural farming is non action and a return to nature; it is centrifugal and convergent, moving inward toward a state of Mu, or nothingness. Scientific farming breaks away from nature through the expansion of human wants and desires; it is centripetal and divergent, expanding outward toward infinity.
+Fukuoka used a spatial metaphor to distinguish scientific from [[natural-farming]]. The objective of natural farming is non action and a return to nature; it is centrifugal and convergent, moving inward toward a state of Mu, or nothingness. Scientific farming breaks away from nature through the expansion of human wants and desires; it is centripetal and divergent, expanding outward toward infinity.
 
 Because this outward expansion cannot be stopped, scientific farming is doomed to ever increasing complexity, expense, and labor. New technology only makes it more diversified. In contrast, natural farming is simple, economical, and labor saving. The two paths are parallel and never cross; the distance between them grows with each step scientific farming takes away from nature.
 
@@ -43,7 +43,7 @@ Fukuoka described mechanization as creating a trap for farmers. When a farmer pu
 
 ### Preventing Losses vs Increasing Yields
 
-Fukuoka drew a fundamental distinction that he believed agricultural scientists systematically confuse: measures that prevent crop losses are not the same as measures that increase yields. Chemical fertilizers appear effective only when the soil is already dead. Pesticides appear effective only for protecting unhealthy plants. Farm machinery is useful only when one has to cultivate a large area.
+Fukuoka drew a fundamental distinction that he believed agricultural scientists systematically confuse: measures that prevent crop losses are not the same as measures that increase yields. [[cervantes-chemical-fertilizers-guide]] appear effective only when the soil is already dead. Pesticides appear effective only for protecting unhealthy plants. Farm machinery is useful only when one has to cultivate a large area.
 
 When examined from a broader perspective, these inputs kill the soil and crops, and destroy the natural productivity of the earth. What scientists call high yield practices are really efforts to restore productivity after it has been diminished by prior scientific interventions. Fukuoka stated that the yields of scientific farming can never exceed those of nature; they can only attempt to approach them.
 
@@ -77,7 +77,7 @@ Scientific farming creates dependencies that loop back on themselves. Chemical f
 
 ## The Philosophical Root
 
-Fukuoka located the root cause of these illusions in Western philosophy's man nature dichotomy. Scientific agriculture developed from a materialistic worldview that interprets nature analytically and dialectically. Western man used discriminating knowledge to place himself in opposition to nature and attempted a detached interpretation of the natural world.
+Fukuoka located the root cause of these illusions in [[fukuoka-descartes-western-philosophy-nature]]'s man nature dichotomy. Scientific agriculture developed from a materialistic worldview that interprets nature analytically and dialectically. Western man used [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] to place himself in opposition to nature and attempted a detached interpretation of the natural world.
 
 In contrast, the Eastern view holds that man should seek to become one with nature. The errors of scientific farming are not technical but philosophical. They stem from the belief that the human intellect can cast off subjectivity and comprehend nature objectively, when in fact all scientific knowledge is filtered through human subjectivity and represents only a dead fragment of the living whole.
 

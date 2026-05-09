@@ -9,7 +9,7 @@ sources: []
 
 # Lichen Biology Guide
 
-Lichens are composite organisms arising from a symbiotic relationship between a fungus (the mycobiont, usually an [[ascomycete-phylum-guide|ascomycete]]) and a photosynthetic partner (the photobiont, either a green alga or a cyanobacterium). Approximately 98% of lichen-forming fungi are ascomycetes, with the remaining 2% being basidiomycetes. Lichens are found on every continent, including Antarctica, and are among the oldest living organisms on Earth.
+Lichens are composite organisms arising from a symbiotic relationship between a fungus (the mycobiont, usually an [[ascomycete-phylum-guide|ascomycete]]) and a photosynthetic partner (the photobiont, either a green alga or a cyanobacterium). Approximately 98% of lichen-forming fungi are ascomycetes, with the remaining 2% being basidiomycetes. Lichens are found on every continent, including Antarctica, and are among the oldest [[savory-living-organisms-as-tools]] on Earth.
 
 ## Lichen Symbiosis
 
@@ -55,7 +55,7 @@ Lichen identification requires attention to several features:
 - Perithecia (flask-shaped fruiting bodies): embedded or protruding
 
 ### Chemical Tests
-Lichen substances (secondary metabolites) are crucial for identification. Standard spot tests:
+Lichen substances ([[antifungal-secondary-metabolites-coprophilous-fungi]]) are crucial for identification. Standard spot tests:
 - Potassium hydroxide (K): turns certain substances yellow, red, or purple
 - Sodium hypochlorite (C): bleaching reaction
 - Paraphenylenediamine (PD): yellow, orange, or red reactions
@@ -73,7 +73,7 @@ Lichen substances (secondary metabolites) are crucial for identification. Standa
 
 ## Bioindicators
 
-Lichens are among the most reliable biological indicators of air quality:
+Lichens are among the most reliable biological indicators of [[cervantes-air-quality-ventilation]]:
 
 ### Sensitive Species
 - Usnea, Lobaria, and Evernia are highly sensitive to sulfur dioxide and nitrogen pollution
@@ -88,7 +88,7 @@ Lichens are among the most reliable biological indicators of air quality:
 ### Biomonitoring Methods
 - Lichen diversity surveys: count species in a defined area
 - Transplanted lichen technique: move lichens from clean to polluted areas and measure health
-- Bioaccumulation studies: lichens absorb heavy metals from air and can be analyzed chemically
+- Bioaccumulation studies: lichens absorb [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] from air and can be analyzed chemically
 - Mapping lichen communities to create air quality maps
 
 ## Ecological Roles
@@ -106,7 +106,7 @@ Lichens with cyanobacterial photobionts fix atmospheric nitrogen, contributing s
 - Lichens provide microhabitats for tardigrades, nematodes, and other microfauna
 
 ### Carbon Cycling
-Lichens contribute to carbon fixation in extreme environments (arctic tundra, deserts, high altitude) where vascular plants cannot survive. They are important primary producers in these systems.
+Lichens [[query-how-do-fungi-contribute-to-carbon-sequestration]] fixation in extreme environments (arctic tundra, deserts, high altitude) where vascular plants cannot survive. They are important primary producers in these systems.
 
 ## Human Uses
 
@@ -128,7 +128,7 @@ Lichens are extremely slow-growing organisms:
 
 - Air pollution (SO2, NOx, ammonia, ozone) is the primary threat to lichen diversity
 - Habitat loss through deforestation removes corticolous lichen habitat
-- Climate change is altering lichen distributions, especially in mountain and arctic areas
+- [[dighton-fungi-climate-change-feedback]] is altering lichen distributions, especially in mountain and arctic areas
 - Overcollection of commercially valuable lichens (e.g., for perfume) threatens some populations
 - Acid rain leaches calcium from bark, reducing suitable substrate
 

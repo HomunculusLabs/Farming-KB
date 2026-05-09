@@ -1,5 +1,5 @@
 ---
-title: Lentinan Clinical Research
+title: cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials Research
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,8 +9,8 @@ sources: []
 # Lentinan Clinical Research
 
 Lentinan is a purified β-(1→3)-D-glucan with β-(1→6) branches extracted from the fruiting bodies and mycelium of [[mushroom-polysaccharide-chemistry]] — structural chemistry of lentinan
-- [[psk-psp-polysaccharide-peptides]] — similar compounds from turkey tail
-- [[shiitake-cultivation-guide]] — practical growing methods
+- [[psk-psp-polysaccharide-peptides]] — similar compounds from [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]
+- [[shiitake-cultivation-guide]] — practical [[mushroom-growing-methods-comparison]]
 - [[sarcoma-180-antitumour-assay]]
 - [[cancer-agaricus-blazei]]
 ## Background and Context
@@ -141,4 +141,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

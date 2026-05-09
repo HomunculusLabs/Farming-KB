@@ -49,7 +49,7 @@ Its toxicity results from heat-stable amatoxins that inhibit RNA polymerase II, 
 ## Distribution and Habitat
 
 - Native to Europe, now widespread across all inhabited continents
-- Introduced to North America (both coasts), Australia, New Zealand, South America, South Africa
+- Introduced to [[psilocybin-north-america-pacific-northwest]] (both coasts), Australia, New Zealand, South America, South Africa
 - Primarily associated with broadleaf trees, especially oaks (*Quercus* spp.)
 - Also found under beech, chestnut, hazel, and some conifers (e.g., *Pinus radiata*)
 - Ectomycorrhizal — forms obligate symbiotic associations with host tree roots
@@ -96,17 +96,18 @@ Its toxicity results from heat-stable amatoxins that inhibit RNA polymerase II, 
 ## Ecological Role
 
 - Important ectomycorrhizal partner in temperate hardwood forests
-- Facilitates nutrient exchange (phosphorus, nitrogen) between soil and host trees
-- Contributes to forest ecosystem stability through [[amanita-bisporigera]]* | **Deadly** | White cap, two-spored basidia |
-| *[[volvariella-volvacea]]* | Edible (paddy straw) | Pink spore print, grows on straw |
+- Facilitates [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] (phosphorus, nitrogen) between soil and host trees
+- Contributes to [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] stability through [[amanita-bisporigera]]* | **Deadly** | White cap, two-spored basidia |
+| *[[volvariella-volvacea]]* | Edible ([[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]]) | Pink [[comparison-spore-print-collection-vs-spore-syringe-production]], grows on straw |
 | *Agaricus campestris* | Edible (meadow mushroom) | Chocolate-brown spore print, no volva |
 | *Tricholoma murrillianum* | Edible (matsutake) | Distinctive spicy odor, lacks volva |
 
 ## Permaculture Relevance
 
-⚠️ Death cap poses a significant risk in permaculture food-forest systems where oak, chestnut, or hazel trees are established. The mycorrhizal association with these common permaculture tree crops means death cap will colonize designed ecosystems that mimic its natural habitat. Foragers in food forests, agroforestry systems, and broadleaf woodlands must be thoroughly trained in Amanita identification before harvesting any wild mushrooms.
+⚠️ Death cap poses a significant risk in permaculture food-forest systems where oak, chestnut, or hazel trees are established. The mycorrhizal association with these common permaculture tree crops means death cap will colonize designed ecosystems that mimic its natural habitat. Foragers in food forests, agroforestry systems, and broadleaf woodlands must be thoroughly trained in Amanita identification before harvesting any [[edible-wild-mushrooms-by-region]].
 
 ## See Also
 
+- [[orellanine]]
+
 - [[ganoderma-lucidum]] — Edible alternative commonly cultivated on hardwood substrates
-- [[ganoderma-lucidum]] — Medicinal fungus with hepatoprotective properties (theoretical interest in amatoxin recovery)

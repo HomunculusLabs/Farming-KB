@@ -1,5 +1,5 @@
 ---
-title: "Arbuscular Mycorrhizal Fungi in Hydrocarbon Remediation"
+title: "comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi Fungi in Hydrocarbon Remediation"
 created: 2026-04-28
 tags: [mycorrhizae, hydrocarbons, petroleum, phytoremediation, soil-remediation]
 date: 2026-04-28
@@ -10,7 +10,7 @@ type: concept
 
 # [[mycorrhizal-fungi]] (AMF) form symbiotic associations with the
 roots of the vast majority of terrestrial plant species and play crucial
-roles in nutrient uptake, particularly phosphorus acquisition. In
+[[dighton-fungal-roles-in-nutrient-cycling]] uptake, particularly phosphorus acquisition. In
 hydrocarbon-contaminated soils, AMF contribute to bioremediation
 primarily by enabling plant establishment and survival on polluted sites,
 thereby facilitating phytoremediation processes. Their role differs from
@@ -23,8 +23,8 @@ systems.
 Arbuscular mycorrhizal fungi belong to the phylum Glomeromycota and
 form obligate symbiotic relationships with plant roots. The fungal
 hyphae penetrate root cortical cells, forming highly branched arbuscules
-that serve as the primary interface for nutrient exchange between the
-fungus and host plant. The extensive external mycelial network extends
+that serve as the primary interface for [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between the
+fungus and host plant. The extensive external [[gadd-mycelial-network-dynamics]] extends
 far beyond the root zone, greatly expanding the soil volume explored for
 nutrient acquisition. In return for photosynthetically derived carbon
 from the host plant, the fungus provides enhanced access to soil
@@ -35,7 +35,7 @@ nutrients, particularly immobile phosphate ions.
 Hydrocarbon contamination of soil has complex effects on AMF populations
 and their function. Field studies have shown that native AMF propagules
 can survive habitat contamination by petroleum hydrocarbons. However,
-several adverse effects have been documented:
+several [[blesching-cannabis-safety-adverse-effects-evidence]] have been documented:
 
 - **Reduced colonization capacity**: The incorporation of hydrocarbon-
   containing sludges into soil reduces the capacity of native AMF
@@ -47,7 +47,7 @@ several adverse effects have been documented:
   are the primary sites for nutrient exchange between the fungal
   endophyte and host plant, this reduction indicates impairment
   of symbiotic function.
-- **Altered community composition**: Hydrocarbon contamination can
+- **Altered [[core-endorhiza-bacterial-community-composition-cannabis]]**: Hydrocarbon contamination can
   shift the dominant AMF species, with certain taxa showing greater
   tolerance than others.
 
@@ -87,8 +87,11 @@ compounds:
   particles, improving soil aggregation and potentially influencing
   the bioavailability and distribution of hydrocarbon contaminants.
 
-## [[fungal-bioremediation]].
+## fungal-bioremediation.
 
 ## See Also
 
 - [[singh-arbuscular-mycorrhizal-fungi-soil-remediation]]
+- [[arbuscular-mycorrhizal-fungi]]
+- [[mycorrhizal-fungi]]
+- [[mycorrhizal-fungi-hydrocarbon-remediation]]

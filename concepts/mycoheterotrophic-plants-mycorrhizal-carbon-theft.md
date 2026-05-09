@@ -1,10 +1,11 @@
 ---
-title: Mycoheterotrophic Plants Mycorrhizal Carbon Theft
+title: Mycoheterotrophic Plants mycoheterotrophic plants mycorrhizal carbon theft Theft
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
 # Mycoheterotrophic Plants and Mycorrhizal Carbon Theft
@@ -15,7 +16,7 @@ Mycoheterotrophs are achlorophyllous (non-photosynthetic) plants that depend exc
 
 ## The Scale of Mycorrhizal Carbon Exploitation
 
-The magnitude of carbon flux through mycorrhizal networks, particularly in deeply shaded forest floor environments, has driven the evolution of plants that exploit mycorrhizal fungi as their sole carbon source. Approximately 10% of all plant species depend on exploitation of fungal carbon during at least part of their life cycle (Leake, 2004).
+The magnitude of carbon flux through [[dighton-mycorrhizal-networks-carbon-transfer]], particularly in deeply shaded forest floor environments, has driven the evolution of plants that exploit [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] as their sole carbon source. Approximately 10% of all plant species depend on exploitation of fungal carbon during at least part of their life cycle (Leake, 2004).
 
 ## Mycoheterotroph-Fungal Partnerships
 
@@ -25,7 +26,7 @@ DNA-based identification has revealed that most fully mycoheterotrophic plants a
 
 | Mycoheterotrophic Plant | AM Fungal Partner | Host Plants |
 |---|---|---|
-| Voyria spp. (4 species) | Glomus Group A | AM with tropical forest trees |
+| Voyria spp. (4 species) | Glomus Group A | AM with [[dighton-fungi-tropical-forest-ecosystems]] trees |
 | Voyriella parviflora | Glomus Group A | AM with tropical forest trees |
 | Arachnitis uniflora | Glomus sp. | AM with tropical forest trees |
 | Sciaphila tosaensis | Glomus sp. | AM with tropical forest trees |
@@ -77,12 +78,12 @@ The phenomenon extends beyond orchids:
 
 ## Broader Implications for Plant Communities
 
-The existence of mycoheterotrophs demonstrates that mycorrhizal mycelial networks linking different plant species can facilitate "cheating" -- individual plants gaining more nutrients than they have "paid for" in carbon, or even stealing carbon from fungi. This has important implications for plant community composition, as the mycorrhizal networks that interconnect roots of different species (Simard and Durall, 2004) can mediate both cooperation and exploitation between plants.
+The existence of mycoheterotrophs demonstrates that mycorrhizal [[fungal-mycelial-networks-nutrient-translocation]] linking different plant species can facilitate "cheating" -- individual plants gaining more nutrients than they have "paid for" in carbon, or even stealing carbon from fungi. This has important implications for plant [[core-endorhiza-bacterial-community-composition-cannabis]], as the mycorrhizal networks that interconnect roots of different species (Simard and Durall, 2004) can mediate both cooperation and exploitation between plants.
 
 Sources: Leake, J.R. in Gadd, Watkinson and Dyer, Fungi in the Environment (Cambridge University Press, 2006), Ch. 8.
 
 See also: [[arbuscular-mycorrhizal-networks]], [[mycorrhizal-networks-common-mycelial-network]]
-- [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
+- fungal-symbiosis-with-plants-beyond-mycorrhizae
 - [[mycorrhizal-effects-on-plant-community-composition]]
 
 ## See Also

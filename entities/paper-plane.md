@@ -21,7 +21,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Seed Junky Genetics. "Paper Plane Strain Profile." https://seedjunky.com
-  - Leafly. "Paper Plane Cannabis Strain." https://www.leafly.com/strains/paper-plane
+  - Leafly. "Paper Plane [[blesching-cannabis-strain-selection-receptor-targeting]]." https://www.leafly.com/strains/paper-plane
   - AllBud. "Paper Plane Strain Information." https://www.allbud.com
   - Wikileaf. "Paper Plane Marijuana Strain." https://www.wikileaf.com/strain/paper-plane
 created: 2026-05-07
@@ -33,7 +33,7 @@ created: 2026-05-07
 
 The strain has gained significant attention in the premium California cannabis market for its potent effects and complex aroma. It is considered a "tier 1" exotic by collectors and typically commands premium prices at licensed dispensaries.
 
-Paper Plane is particularly popular among extract artists due to its high resin production and complex terpene profile. Live rosin and sauce extractions from this strain have won awards at several California cannabis competitions.
+Paper Plane is particularly popular among extract artists due to its high [[cannabis-glandular-trichome-types-resin-production-clarke]] and complex terpene profile. Live rosin and sauce extractions from this strain have won awards at several California cannabis competitions.
 
 ## Lineage
 
@@ -57,7 +57,7 @@ Curing for 4–6 weeks in glass jars at 58–62% humidity enhances the complexit
 
 Dominant terpenes: **caryophyllene** (pepper, fuel), **limonene** (citrus, orange), **linalool** (floral, lavender), **myrcene** (earthy, sedating), and **humulene** (woody, hoppy).
 
-THC content typically ranges from **25–30%**, placing Paper Plane in the high-potency category. CBD content is negligible (below 0.1%). Total terpene content is above average at 2–3%, contributing to the pronounced aroma and entourage effects.
+THC content typically ranges from **25–30%**, placing Paper Plane in the high-potency category. CBD content is negligible (below 0.1%). Total terpene content is above average at 2–3%, contributing to the pronounced aroma and [[beta-caryophyllene-entourage-effects-cannabis]].
 
 Minor cannabinoids detected include CBG and CBC in trace amounts. The high caryophyllene content (often exceeding 1%) contributes anti-inflammatory properties via CB2 receptor activation.
 
@@ -93,19 +93,19 @@ Paper Plane is considered **moderately difficult** to cultivate, requiring exper
 
 Indoor yields average 400–500 g/m² under optimal conditions. The plants exhibit moderate stretch during early flowering and produce dense, resin-heavy colas. Support structures (trellis netting, bamboo stakes) are recommended to prevent branch breakage.
 
-The strain is somewhat susceptible to powdery mildew and botrytis in high-humidity environments. Adequate air circulation and humidity control (below 55% RH during flowering) are essential. The plants express vivid purple hues in cooler nighttime temperatures (below 15°C). Nutrient requirements are moderate — the strain is not a heavy feeder but benefits from calcium and magnesium supplementation during mid-flowering.
+The strain is somewhat susceptible to [[cervantes-powdery-mildew-prevention-treatment]] and botrytis in high-humidity environments. Adequate air circulation and [[cervantes-humidity-control-dehumidification]] (below 55% RH during flowering) are essential. The plants express vivid purple hues in cooler nighttime temperatures (below 15°C). Nutrient requirements are moderate — the strain is not a heavy feeder but benefits from calcium and magnesium supplementation during mid-flowering.
 
-Outdoor cultivation is possible in Mediterranean climates with a harvest window in early to mid-October. The plants reach heights of 120–180 cm outdoors. Screen of Green (SCROG) training is recommended indoors to maximize canopy coverage and light penetration.
+Outdoor cultivation is possible in Mediterranean climates with a harvest window in early to mid-October. The plants reach heights of 120–180 cm outdoors. [[cannabis-screen-of-green-scrog-guide]] (SCROG) training is recommended indoors to maximize canopy coverage and light penetration.
 
 ## See Also
 
-- [[gelato-cannabis]]
+- [[gelato]]
 - [[thin-mint]]
 - [[animal-cookies]]
 - [[white-runtz]]
 - [[sfv-og]]
 - [[biscotti-cannabis]]
-- [[wedding-cake-cannabis]]
+- [[wedding-cake]]
 - stuffed og
 - cake wreck
 - [[georgia-pie]]

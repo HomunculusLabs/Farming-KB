@@ -1,5 +1,5 @@
 ---
-title: "Ornamental Bulbs Growing"
+title: "[[hamilton-ornamental-trees]] bulbs growing Growing"
 created: 2026-04-28
 tags: [bulbs, ornamental-gardening, spring-flowers, naturalizing]
 date: 2026-04-25
@@ -16,7 +16,7 @@ that enable plants to survive a dormant season and produce new growth
 the following year. Bulbs are ideal for filling spaces between shrubs
 in the border with color. They should not be considered merely spring-
 flowering plants; with careful planning and planting, it is possible
-to have a year-round display of color from bulbs in the [[faires-growing-and-season-extension]].
+to have a year-round display of color from bulbs in the faires-growing-and-season-extension.
 
 ## Post-Flowering Care
 
@@ -53,6 +53,8 @@ of liquid feeds before the foliage dies down.
 
 ## See Also
 
+- [[hamilton-clearing-uncultivated-ground]]
+
 - [[hamilton-annual-flowers-organic]]
 - [[hamilton-ornamental-shrub-care]]
 ## Practical Considerations
@@ -71,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,9 +110,8 @@ advance the field as a whole. Cross-pollination of ideas from biology,
 ecology, data science, and traditional knowledge systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

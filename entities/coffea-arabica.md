@@ -108,15 +108,15 @@ nematodes (Meloidogyne spp.).
 ## Permaculture and Agroforestry Applications
 
 Coffee is a model agroforestry crop. Multi-strata shade systems integrate
-timber trees, fruit trees, nitrogen-fixing legumes, and coffee in productive
-poly cultures that outperform monocultures in ecosystem services.
+timber trees, [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], nitrogen-fixing legumes, and coffee in productive
+poly cultures that outperform monocultures in [[biodiversity-of-fungi-ecosystem-services-agriculture]].
 
-In permaculture design, C. arabica serves as an understory income crop beneath
-taller canopy species. The deep leaf litter moderates soil temperature, retains
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], C. arabica serves as an understory income crop beneath
+taller canopy species. The deep [[dighton-fungal-decomposition-leaf-litter-dynamics]] moderates soil temperature, retains
 moisture, and cycles nutrients. Companion plantings with banana, citrus, avocado,
 and macadamia provide additional yields while maintaining shade levels of 30–50%.
 
-Organic coffee production using compost, green manures, and biological pest
+Organic coffee production using compost, [[jeavons-green-manures-cover-crops]], and [[cervantes-biological-pest-control-predators]]
 control is increasingly adopted, with certified organic arabica commanding
 significant price premiums in specialty markets.
 
@@ -134,6 +134,10 @@ significant price premiums in specialty markets.
   widely planted in Latin America.
 
 ## See Also
+
+- [[coffea-liberica]]
+
+- [[coffea-canephora]]
 
 - coffea canephosa
 - [[paullinia-cupana]]

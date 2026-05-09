@@ -1,5 +1,5 @@
 ---
-title: Singh Ligninolytic Enzymes in Fungal Bioremediation
+title: Singh singh ligninolytic enzymes fungal bioremediation in Fungal Bioremediation
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -16,13 +16,13 @@ Source: Harbhajan Singh, Mycoremediation: Fungal Bioremediation (2006), Chapter 
 
 ## Overview
 
-Ligninolytic enzymes are the primary enzymatic arsenal that white-rot and litter-decomposing fungi deploy to degrade lignin and a vast array of xenobiotic pollutants. These enzymes include lignin peroxidase (LiP), manganese peroxidase (MnP), laccase, and hydrogen peroxide-generating enzymes. Their nonspecific oxidative mechanisms make them uniquely suited for bioremediation of recalcitrant organic compounds. See also [[brown-rot-and-white-rot-fungi-in-mycoremediation]], [[fungal-ecology-mycoremediation]].
+Ligninolytic enzymes are the primary enzymatic arsenal that white-rot and litter-decomposing fungi deploy to degrade lignin and a vast array of xenobiotic pollutants. These enzymes include lignin peroxidase (LiP), [[fungal-manganese-peroxidase-remediation]] (MnP), laccase, and hydrogen peroxide-generating enzymes. Their nonspecific oxidative mechanisms make them uniquely suited for bioremediation of recalcitrant [[fungal-volatile-organic-compounds-communication]]. See also [[brown-rot-and-white-rot-fungi-in-mycoremediation]], fungal-ecology-mycoremediation.
 
 ## White-Rot Fungi Classification by Enzyme Profile
 
 Hatakka (1994) classified white-rot fungi into three major categories based on enzyme production patterns:
 
-1. **Lignin-Manganese Peroxidase Group** (e.g., Phanerochaete chrysosporium, Phlebia radiata) -- produces LiP and MnP
+1. **Lignin-Manganese Peroxidase Group** (e.g., [[staycare-phanerochaete-chrysosporium-in-bioremediation]], Phlebia radiata) -- produces LiP and MnP
 2. **Manganese Peroxidase-Laccase Group** (e.g., Dichomitus squalens, Rigidoporus lignosus) -- produces MnP and laccase
 3. **Lignin Peroxidase-Laccase Group** (e.g., Phlebia ochraceofulva, Junghuhnia separabilima) -- produces LiP and laccase
 
@@ -30,7 +30,7 @@ Hatakka (1994) classified white-rot fungi into three major categories based on e
 
 ### Discovery and Distribution
 - Discovered in Phanerochaete chrysosporium (Glenn et al., 1983; Tien and Kirk, 1983)
-- Produced by most white-rot fungi including Bjerkandera adusta, Trametes versicolor, Phlebia radiata, Trametes trogii, Phlebia ochraceofulva, Phlebia tremellosa
+- Produced by most white-rot fungi including Bjerkandera adusta, [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]], Phlebia radiata, Trametes trogii, Phlebia ochraceofulva, Phlebia tremellosa
 - NOT produced by Ceriporiopsis subvermispora (despite being an active biopulping fungus)
 - NOT detected in marine fungi
 
@@ -109,7 +109,7 @@ Laccase is a multicopper oxidase that oxidizes phenolic compounds and, with medi
 
 Increased lignin depolymerization occurs using enzyme combinations:
 - MnP + laccase from Rigidoporus lignosus
-- MnP + laccase from Agaricus bisporus
+- MnP + laccase from [[genetic-improvement-agaricus-bisporus-molecular-approaches]]
 - MnP + LiP from P. chrysosporium
 - LiP + MnP + laccase together (most effective)
 
@@ -143,7 +143,8 @@ Ganoderma lucidum produces MnP in poplar wood media but NOT in pine wood media (
 ## Soil Fungi as Lignin Degraders
 
 - Penicillium chrysogenum: mineralized 27.4% of 14C-labeled lignin from milled wheat straw in 4 weeks
-- Fusarium oxysporum: 23.5% mineralization; F. solani: 22.6%
-- Fusarium proliferatum: secreted aryl alcohol and laccase; mineralized 3.5% DHP in 30 days
-- Chrysonilia sitophila: 20% weight loss in pine wood in 3 months (18% carbohydrate, 25% lignin loss)
-- [[lignin-degradation-mechanisms-wood-rot-fungi]]
+## See Also
+
+- [[fungal-extracellular-enzymes]]
+- [[singh-fungal-pellet-formation-bioremediation]]
+- [[ligninolytic-enzymes]]

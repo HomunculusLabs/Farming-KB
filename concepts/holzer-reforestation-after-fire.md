@@ -48,7 +48,7 @@ desert-like, burnt sandy ground:
 - Decomposing biomass generates warmth that rises and helps seeds germinate.
 - Windbreaks protect seedlings from desiccating winds.
 - A protected microclimate develops between the trench walls.
-- Young plants grow quickly with warmth, moisture, and wind protection.
+- Young plants grow quickly with warmth, moisture, and [[cervantes-wind-protection-outdoor-cannabis]].
 
 ## Seeding from the Air
 
@@ -60,13 +60,13 @@ and the land becomes covered in dry grass -- tinder for the next fire.
 
 ## Protecting Slopes
 
-Steep slopes need protection from erosion using terraces and [[sepp-holzer-terrace-systems-and-raised-beds]] from local stone and wood debris creates
+Steep slopes need protection from erosion using terraces and [[sepp-holzer-terrace-systems-and-raised-beds]] from local stone and [[microfungal-biodiversity-ecology-wood-debris-sampling]] creates
 permanent structures that both stabilise soil and provide planting pockets for
 new vegetation.
 
 The choice of pioneer species for slope planting is critical. Deep-rooted
-plants like comfrey, black locust, and alder quickly anchor soil while their
-leaf litter begins rebuilding the organic horizon. These nitrogen-fixing
+plants like comfrey, [[comparison-black-locust-vs-honey-locust]], and alder quickly anchor soil while their
+[[dighton-fungal-decomposition-leaf-litter-dynamics]] begins rebuilding the organic horizon. These nitrogen-fixing
 pioneer species also improve soil fertility for the slower-growing climax
 species planted alongside them. Holzer emphasises that pioneer trees should
 never be planted as monocultures on slopes, since a single-species planting is
@@ -76,7 +76,7 @@ vulnerable to the same fire cycle that destroyed the original forest.
 
 Forest fires profoundly alter soil chemistry and biology. While ash adds a
 pulse of minerals including potassium, calcium, magnesium, and phosphorus to
-the soil surface, the combustion of organic matter destroys the humus layer
+the soil surface, the combustion of [[hamilton-composting-and-organic-matter-management]] destroys the humus layer
 that normally retains these nutrients. Without organic matter to act as a
 buffer, minerals leach rapidly with the first rains. This is why Holzer's
 trench method is so effective: the buried wood provides a replacement carbon
@@ -92,7 +92,7 @@ ongoing process. Newly planted areas should be monitored for signs of stress,
 erosion, or unwanted pioneer dominance. If grasses begin dominating and
 creating fire risk, Holzer recommends introducing grazing animals or
 additional tree plantings to shade out the grasses. The goal is to reach a
-self-sustaining forest ecosystem within 10 to 15 years, after which natural
+self-sustaining [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] within 10 to 15 years, after which natural
 succession processes take over and human intervention becomes minimal.
 
 ## Portugal and Russia: Case Studies
@@ -109,3 +109,7 @@ succession processes take over and human intervention becomes minimal.
 The answer to preventing future fires is always the same: [[holzer-terrace-systems]]
 - [[reforestation-with-pigs]]
 - [[holzer-water-landscapes-retention]]
+
+## See Also
+
+- [[holzer-brandroggen-fire-rye]]

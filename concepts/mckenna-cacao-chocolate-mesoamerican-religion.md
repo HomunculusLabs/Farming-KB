@@ -21,7 +21,7 @@ type: concept
 
 ## Overview
 
-Theobroma cacao, the tree from whose beans chocolate is made, occupied a
+[[theobroma-cacao]], the tree from whose beans chocolate is made, occupied a
 position of extraordinary significance in the religious and economic life of
 pre-Columbian Mesoamerica. Among the Maya and Aztec civilizations, cacao was
 far more than a food or beverage. It served as a sacramental substance, a
@@ -35,8 +35,8 @@ alkaloid theobromine, are milder than those of caffeine.
 
 ## Cacao in Maya Civilization
 
-Cacao trees had been introduced into central Mexico from their original home in
-tropical South America centuries before the arrival of the Spanish
+Cacao trees had been introduced into [[psychoactive-cacti-of-central-mexico]] from their original home in
+tropical [[guzman-psilocybin-mushrooms-south-america]] centuries before the arrival of the Spanish
 conquistadores. Among the Maya, cacao beans served as a form of currency, a
 practice so widespread that the beans were routinely counterfeited by filling
 empty shells with earth.
@@ -50,7 +50,7 @@ integrated into ritual contexts.
 The Maya cultivated cacao extensively in the lowland rainforests, developing
 sophisticated agroforestry systems that grew cacao beneath the canopy of taller
 shade trees. These systems represented some of the most ecologically
-sustainable agricultural practices in the pre-Columbian world.
+sustainable [[mycorrhizal-agricultural-practices]] in the pre-Columbian world.
 
 ## Montezuma and the Aztec Chocolate Ritual
 
@@ -63,11 +63,11 @@ A particularly significant detail in McKenna's account is that a mixture of
 ground chocolate and psilocybin-containing mushrooms was served to guests at
 the coronation feast of Montezuma II in 1502. If accurate, this represents a
 rare documented instance of the deliberate combination of a mild stimulant with
-a powerful hallucinogen in a formal ceremonial context.
+a powerful hallucinogen in a formal [[kava-traditional-preparation-ceremonial-context]].
 
 This combination would have produced a unique pharmacological profile: the
 theobromine from the cacao providing a gentle stimulant base while the
-psilocybin mushrooms induced visionary states. The cold water infusion method
+[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] induced visionary states. The cold water infusion method
 would have preserved both the psychoactive and stimulant properties of the
 ingredients.
 

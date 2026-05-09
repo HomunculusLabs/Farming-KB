@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-**Emblica officinalis** Gaertn. (syn. *Phyllanthus emblica* L.), commonly known as **amla** or **Indian gooseberry**, is a deciduous tree in the family Phyllanthaceae native to tropical and subtropical regions of South and Southeast Asia.
+**Emblica officinalis** Gaertn. (syn. *Phyllanthus emblica* L.), commonly known as **amla** or **Indian gooseberry**, is a deciduous tree in the family Phyllanthaceae native to tropical and subtropical regions of South and [[psilocybe-southeast-asia-pacific]].
 
 It is one of the most important plants in Ayurvedic medicine, classified as a **rasayana** (rejuvenating tonic) and one of the three constituents of the classical formulation **Triphala**. The fruit is one of the richest natural sources of vitamin C, though much of the ascorbic acid content is stabilized by tannins rather than existing in free form.
 
@@ -65,9 +65,9 @@ The pharmacological activities of *E. officinalis* have been demonstrated across
 - **Anti-diabetic:** Reduces blood glucose levels in streptozotocin-induced diabetic rats; improves insulin sensitivity and protects pancreatic beta-cells from oxidative damage
 - **Anti-inflammatory:** Inhibits COX-2 and iNOS expression; reduces TNF-α, IL-1β, and IL-6 production in inflammatory models
 - **Immunomodulatory:** Enhances both cell-mediated and humoral immune responses; increases macrophage phagocytic activity and NK cell cytotoxicity
-- **Anti-cancer:** Induces apoptosis in various cancer cell lines; inhibits tumor promotion in skin and colon carcinogenesis models
+- **Anti-cancer:** Induces apoptosis in various [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines; inhibits tumor promotion in skin and colon carcinogenesis models
 
-Clinical trials in humans have shown benefits for dyslipidemia (reduction of LDL cholesterol and triglycerides), GERD (antiulcer activity), and skin aging (topical application).
+[[mushroom-cancer-clinical-trials-overview]] in humans have shown benefits for dyslipidemia (reduction of LDL cholesterol and triglycerides), GERD (antiulcer activity), and skin aging (topical application).
 
 ## Traditional Medicine
 
@@ -81,7 +81,7 @@ In Siddha and Unani medicine, the fruit is used for digestive complaints, respir
 
 Amla is the primary ingredient in **Triphala** ("three fruits"), one of the most widely used Ayurvedic formulations, combined with *Terminalia chebula* (haritaki) and *Terminalia bellirica* (bibhitaki). Triphala is prescribed as a gentle bowel regulator, detoxifying agent, and daily tonic.
 
-Other important classical formulations containing amla include **Chyawanprash** (a herbal jam consumed as an immune tonic), **Amalaki Rasayana**, and **Dadimavaleha**. These preparations leverage the fruit's stabilizing and preserving properties to extend the shelf life of complex herbal mixtures.
+Other important classical formulations containing amla include **Chyawanprash** (a herbal jam consumed as an immune tonic), **Amalaki Rasayana**, and **Dadimavaleha**. These preparations leverage the fruit's stabilizing and preserving properties to extend the [[psilocybin-shelf-life-stability]] of complex herbal mixtures.
 
 ## Cultivation
 
@@ -106,7 +106,7 @@ The fruit's extreme sourness makes it unsuitable as a standalone dessert fruit b
 ## See Also
 
 - [[terminalia-bellirica]]
-- [[ocimum-sanctum]]
+- ocimum-sanctum
 - tinospora-cordifolia
 - [[bacopa-monnieri]]
 - [[phyllanthus-niruri]]

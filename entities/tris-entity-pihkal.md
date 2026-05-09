@@ -1,5 +1,5 @@
 ---
-title: "TRIS (TRESCALINE; TRISESCALINE; 3,4,5-TRIETHOXYPHENETHYLAMINE) -- PIHKAL Entry #175"
+title: "TRIS (TRESCALINE; TRISESCALINE; 3,4,5-TRIETHOXYPHENETHYLAMINE) -- 2c-b-pihkal-entry-20 #175"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -58,7 +58,7 @@ a mp of 29-30 deg C and was free of the parent ester carbonyl absorp-tion
 at 1709 cm-1 in the infra-red.
 
 This product 3,4,5-triethoxybenzyl alcohol was suspended in 30 mL
-con-centrated HCl, heated briefly on the steam bath, cooled to room
+con-centrated HCl, heated briefly on the [[scythian-cannabis-steam-bath-ritual]], cooled to room
 temperature, and suspended in a mixture of 75 mL CH2Cl2 and 75 mL H2O.
 The phases were separated, and the aqueous phase extracted with
 another 75 mL CH2Cl2. The organic fractions were combined, washed
@@ -89,7 +89,7 @@ held at reflux on the steam bath for 1 h. After cooling back to room
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

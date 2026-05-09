@@ -1,5 +1,5 @@
 ---
-title: Cannabis Microbiome Cultivar Specificity
+title: Cannabis cannabis microbiome cultivar specificity Specificity
 created: 2026-04-28
 tags:
   - cannabis
@@ -17,7 +17,7 @@ type: concept
 
 # Cannabis Microbiome Cultivar Specificity
 
-The Cannabis microbiome is shaped by a two-tier selection process where soil type determines the broad microbial community composition across bulk soil, rhizosphere, and endorhiza compartments, while plant cultivar genotype fine-tunes the specific community structure within the endorhiza (root interior). This was the first comprehensive characterization of the endorhiza, rhizosphere, and bulk soil-associated microbiomes of distinct Cannabis cultivars, conducted by Winston et al. (2014).
+The Cannabis microbiome is shaped by a two-tier selection process where soil type determines the broad microbial [[core-endorhiza-bacterial-community-composition-cannabis]] across bulk soil, rhizosphere, and endorhiza compartments, while plant cultivar genotype fine-tunes the specific community structure within the endorhiza (root interior). This was the first comprehensive characterization of the endorhiza, rhizosphere, and bulk soil-associated microbiomes of distinct Cannabis cultivars, conducted by Winston et al. (2014).
 
 ## The Two-Tier Selection Model
 
@@ -72,7 +72,7 @@ Consistent with the two-tier selection model, the following shifts were observed
 
 - **Acidobacteria**: Dramatically decreased in endorhiza, with the order iii1-15 showing the most significant reduction (Bonferroni-corrected ANOVA: p = 1.12e-7). Acidobacteria are oligotrophic soil bacteria poorly adapted to the carbon-rich root environment.
 - **Proteobacteria**: Increased in endorhiza, particularly orders Rhizobiales, Pseudomonadales, Burkholderiales, and Sphingomonadales. These copiotrophic bacteria are well-adapted to metabolizing plant exudates.
-- **Actinobacteria**: Increased in endorhiza, consistent with their known role as common plant endophytes and producers of bioactive compounds.
+- **Actinobacteria**: Increased in endorhiza, consistent with their known role as common plant endophytes and producers of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
 - **Bacteroidetes**: Orders Sphingobacteriales and Flavobacteriales contributed to strain-level differences, suggesting cultivar-specific recruitment.
 
 ## OTU Sharing Between Compartments
@@ -89,10 +89,10 @@ The first experiment sampled plants 8 weeks after harvest, revealing evidence of
 
 ## Functional Roles of Endorhiza Bacteria
 
-The bacteria that successfully colonize the Cannabis endorhiza are not passive residents. They may perform several beneficial functions:
+The bacteria that successfully colonize the [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]] are not passive residents. They may perform several beneficial functions:
 
 - **Nutrient cycling**: Endophytic bacteria can fix atmospheric nitrogen, solubilize phosphate, and chelate micronutrients, making them more available to the plant.
-- **Disease suppression**: Certain endophytes produce antimicrobial compounds that protect the host plant from pathogens. Pseudomonas species are particularly well-known for producing antibiotics and siderophores that inhibit soil-borne diseases.
+- **[[aact-disease-suppression-mechanisms-ingham]]**: Certain endophytes produce antimicrobial compounds that protect the host plant from pathogens. Pseudomonas species are particularly well-known for producing antibiotics and siderophores that inhibit soil-borne diseases.
 - **Growth promotion**: Some endophytes produce phytohormones such as indole-3-acetic acid (IAA), cytokinins, and gibberellins that directly stimulate plant growth.
 - **Stress tolerance**: Endophytic bacteria can induce systemic resistance in plants, helping them cope with abiotic stresses such as drought, salinity, and heavy metals.
 
@@ -100,7 +100,7 @@ The cultivar-specific recruitment patterns observed suggest that different Canna
 
 ## Methodological Considerations
 
-The study employed 16S rRNA gene sequencing on the V4 region using barcoded primers and Illumina MiSeq sequencing. Sequences were clustered into operational taxonomic units (OTUs) at 97% similarity. Alpha diversity was calculated using the chao1 index, and beta diversity was assessed using both weighted and unweighted UniFrac distances.
+The study employed 16S rRNA gene sequencing on the V4 region using barcoded primers and Illumina MiSeq sequencing. Sequences were clustered into operational taxonomic units (OTUs) at 97% similarity. Alpha diversity was calculated using the chao1 index, and beta diversity was assessed using both weighted and [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] distances.
 
 One limitation noted was the potential confounding of post-harvest sampling effects in the first experiment, where plants had been harvested 8 weeks prior to root sampling. This introduced the confounding variable of root tissue decomposition, which was addressed by conducting the second experiment with pre-harvest sampling.
 
@@ -115,6 +115,10 @@ Understanding the Cannabis microbiome has practical implications for cultivation
 
 ## See Also
 
+- [[cultivar-specificity-persistence-post-harvest-cannabis-endorhiza]]
+
 - [[query-how-do-bacteriophages-affect-soil-microbiome-and-plant-health]]
 - [[cannabis-sativa-indoor-cultivation-techniques]]
-- [[plants-without-mycorrhizal-associations]]
+- [[chamovitz-gravitropism-plant-knows-where-it-is]]
+
+- [[cannabis-cultivar-effects-soil-microbiome]]

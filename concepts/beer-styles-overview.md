@@ -97,7 +97,7 @@ Sour beers represent one of the most exciting and diverse categories in modern b
 - Gruit ale: Traditional herbal beer made with gruit herbs instead of hops
 - Sahti: Finnish farmhouse ale flavored with juniper
 - Kvass: Slavic fermented bread beverage, low alcohol
-- Chicha: South American corn beer
+- Chicha: [[chiric-caspi-brunfelsia-south-american-hallucinogen]] corn beer
 - Bog myrtle ale: Revival of pre-hops British brewing tradition
 
 ## Choosing a Style for Homebrewing

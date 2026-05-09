@@ -13,8 +13,8 @@ depending on how the tea is made.
 AACT is produced by extracting compost into water while actively maintaining aerobic
 conditions through mechanical aeration. Air is pumped through the brewing solution
 continuously, typically using aquarium-style air stones or venturi injectors, ensuring
-that dissolved oxygen levels remain high enough to support aerobic microorganisms
-throughout the brewing period. Food resources (such as molasses, kelp meal, fish
+that [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] levels remain high enough to support aerobic microorganisms
+throughout the brewing period. Food resources (such as molasses, [[comparison-kelp-meal-vs-rock-dust]], fish
 hydrolysate, or humic acids) are added to feed and multiply the beneficial organisms
 extracted from the compost.
 
@@ -26,7 +26,7 @@ that cycle nutrients, suppress disease, and improve soil structure.
 
 ### Fermentative Compost Tea (FCT)
 Fermentative compost tea is produced without active aeration, allowing facultative
-anaerobic organisms to proliferate. This method can select for growth of specific
+[[ingham-anaerobic-organisms-role-soil]] to proliferate. This method can select for growth of specific
 facultative anaerobic organisms that suppress certain diseases through antibiotic
 or inhibitory interactions. FCT has legitimate uses but does not provide the full
 spectrum of benefits that AACT offers, and the production of inhibitory compounds
@@ -60,14 +60,14 @@ different in their composition and effects:
 
 - **Plant Tea**: A water extract of plant materials (no compost involved), brewed
   with or without added nutrients. These should be called by the plant name (e.g.,
-  "comfrey tea" or "nettle tea") rather than compost tea.
+  "[[comparison-comfrey-tea-vs-compost-tea]]" or "nettle tea") rather than compost tea.
 
-- **Manure Tea**: Made with raw or partially composted manure. Partly composted
+- **Manure Tea**: Made with raw or partially [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]]. Partly composted
   material that has not completed the [[soil-foodweb-biology-overview]]
 - [[low-input-vegetable-gardening]]
 
 ## Sources
-- Ingham, E.R. (2004). The Field Guide for Actively Aerated Compost Tea (AACT).
+- Ingham, E.R. (2004). The [[ghouled-field-guide-historical-context]] for Actively Aerated Compost Tea (AACT).
   Sustainable Studies Institute.
 - Soil Foodweb Inc. (www.soilfoodweb.com). Standards and brewing protocols.
 ## Practical Considerations
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

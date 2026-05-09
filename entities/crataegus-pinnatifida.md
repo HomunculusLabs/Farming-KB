@@ -24,7 +24,7 @@ It is native to China, Korea, and Mongolia, where it has been cultivated for its
 
 Chinese hawthorn is one of the most commercially important hawthorn species, extensively used in traditional Chinese medicine for cardiovascular and digestive conditions.
 
-The bright red fruits are processed into a wide variety of foods, beverages, and confections throughout East Asia.
+The bright red fruits are processed into a wide variety of foods, beverages, and confections throughout [[neurotropic-fungi-japan-east-asia-species-cultural-context]].
 
 ## Taxonomy and Morphology
 
@@ -40,7 +40,7 @@ Branches are typically armed with stout spines 1–3 cm long, though cultivated 
 
 Leaves are alternate, broadly ovate, 5–10 cm long and 4–8 cm wide, with 3–5 pairs of irregular lobes along the margins.
 
-The upper leaf surface is dark green and glabrous; the lower surface is lighter with pubescence along the veins.
+The upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dark green and glabrous; the lower surface is lighter with pubescence along the veins.
 
 Inflorescences are compound corymbs, 5–8 cm across, bearing 10–20 white flowers with five rounded petals.
 
@@ -66,7 +66,7 @@ Preferred conditions include well-drained loamy soils in full sun, at elevations
 
 Chinese hawthorn is cold-hardy to approximately -25°C and tolerates a wide range of soil pH conditions.
 
-The species has been introduced to Japan, Russia, Europe, and North America as an ornamental and fruit tree.
+The species has been introduced to Japan, Russia, Europe, and [[psilocybin-north-america-pacific-northwest]] as an ornamental and [[comparison-berry-growing-vs-fruit-tree-pruning]].
 
 ## Traditional Medicine and Pharmacology
 
@@ -110,7 +110,7 @@ Hawthorn juice is a popular beverage in China, sold fresh and as a concentrated 
 
 The fruit is fermented into hawthorn wine and vinegar, both valued for their tart flavor and purported health benefits.
 
-Dried hawthorn slices are brewed as a tea, often combined with goji berries, chrysanthemum, or cassia seeds.
+Dried hawthorn slices are brewed as a tea, often combined with [[query-how-do-i-grow-goji-berries-at-home]], chrysanthemum, or cassia seeds.
 
 Hawthorn powder is incorporated into confections, pastries, and traditional medicinal food products.
 

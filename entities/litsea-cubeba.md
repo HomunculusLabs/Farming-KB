@@ -14,14 +14,14 @@ updated: 2026-05-08
 sources:
   - Chen, Z.Y. & Li, J. (2005). "Flora of China: Lauraceae." Science Press & Missouri Botanical Garden.
   - Wu, Z.Y. & Raven, P.H. (1994). "Flora of China, Vol. 7." Science Press & Missouri Botanical Garden.
-  - Jiang, H. et al. (2016). "Chemical composition and biological activities of Litsea cubeba essential oil." Molecules 21(10): 1373.
+  - Jiang, H. et al. (2016). "Chemical composition and biological activities of Litsea cubeba [[permaculture-designers-manual-essential-oil-plants]]." Molecules 21(10): 1373.
   - Ho, C.L. et al. (2010). "Antimicrobial activity and chemical composition of Litsea cubeba leaf oil." Fitoterapia 81(5): 401–404.
   - Wang, W. et al. (2017). "Litsea cubeba: A review of its traditional uses, phytochemistry, and pharmacology." Journal of Ethnopharmacology 200: 263–275.
 ---
 
 ## Overview
 
-**Litsea cubeba** is a small evergreen tree in the family Lauraceae, native to East and Southeast Asia. It is commonly known as May Chang, mountain pepper, or tropical verbena, names that reflect its aromatic, citrus-scented foliage and fruits.
+**Litsea cubeba** is a small evergreen tree in the family Lauraceae, native to East and [[psilocybe-southeast-asia-pacific]]. It is commonly known as May Chang, mountain pepper, or tropical verbena, names that reflect its aromatic, citrus-scented foliage and fruits.
 
 The species is commercially important as a source of essential oil, which is rich in citral (a mixture of geranial and neral). The oil is widely used in perfumery, aromatherapy, food flavoring, and traditional medicine throughout Asia.
 
@@ -55,7 +55,7 @@ The species occurs in evergreen and mixed deciduous forests, forest margins, and
 
 Optimal growth conditions include mean annual temperatures of 15–25 °C, annual rainfall of 1200–2000 mm, and well-drained, acidic to neutral soils (pH 5.0–6.5). The tree tolerates light frost but is damaged by temperatures below −5 °C.
 
-In its native range, *L. cubeba* is a pioneer species that colonizes disturbed sites, forest clearings, and abandoned agricultural land. It is shade-intolerant as a seedling but tolerates partial shade as a mature tree.
+In its native range, *L. cubeba* is a pioneer species that colonizes disturbed sites, forest clearings, and abandoned [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]]. It is shade-intolerant as a seedling but tolerates partial shade as a mature tree.
 
 The species is fire-adapted and resprouts vigorously from the root crown after burning. This trait makes it useful for reforestation of fire-prone areas in subtropical mountainous regions.
 
@@ -73,7 +73,7 @@ Leaf and branch distillation provides a lower-yielding but more sustainably harv
 
 ## Essential Oil and Chemistry
 
-The essential oil of *L. cubeba* is dominated by citral, a mixture of two isomeric monoterpene aldehydes: geranial (citral A, ~40–50%) and neral (citral B, ~25–35%). Total citral content ranges from 70–85% depending on plant part, harvest timing, and geographic origin.
+The essential oil of *L. cubeba* is dominated by citral, a mixture of two isomeric monoterpene aldehydes: geranial (citral A, ~40–50%) and neral (citral B, ~25–35%). Total citral content ranges from 70–85% depending on plant part, [[cannabis-harvest-timing-visual-cues]], and geographic origin.
 
 Other significant constituents include limonene (5–10%), linalool (2–5%), 6-methyl-5-hepten-2-one (2–4%), and various minor monoterpenes and sesquiterpenes. The oil also contains trace amounts of α-pinene, β-pinene, and myrcene.
 
@@ -91,13 +91,13 @@ In traditional Chinese medicine, *L. cubeba* fruits are used to treat cough, ast
 
 Modern pharmacological studies have confirmed anti-inflammatory, antioxidant, antimicrobial, and insecticidal activities for the essential oil and its constituents. Citral has demonstrated anti-tumor activity in several cell line studies.
 
-The oil is widely used in aromatherapy as a calming and uplifting agent. It is considered a natural antidepressant and is commonly blended with other citrus and floral essential oils for emotional wellness applications.
+The oil is widely used in aromatherapy as a calming and uplifting agent. It is considered a natural antidepressant and is commonly blended with other citrus and floral [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] for emotional wellness applications.
 
 Topical applications include use in massage oils for muscle tension, in skincare formulations for oily and acne-prone skin, and in insect repellent products. The oil should be diluted before topical use due to potential skin sensitization.
 
 Citral is classified as a skin sensitizer by the International Fragrance Association (IFRA), with recommended maximum use levels of 0.6% in leave-on cosmetic products. Proper dilution is essential for safe topical application.
 
-*L. cubeba* fruit extracts have been investigated as natural food preservatives due to their antimicrobial properties. They show particular promise against foodborne pathogens in meat and dairy products.
+*L. cubeba* fruit extracts have been investigated as natural food preservatives due to their [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. They show particular promise against foodborne pathogens in meat and dairy products.
 
 The species is also planted for soil conservation and reforestation in degraded mountainous areas of southern China. Its rapid growth and dense root system help prevent erosion on steep slopes.
 

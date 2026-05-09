@@ -49,7 +49,7 @@ The species was first formally described by Heinrich Christian Friedrich Schumac
 
 ## Distribution and Habitat
 
-*P. guineense* is native to the tropical rainforest belt of West and Central Africa, from Senegal eastward through Nigeria, Cameroon, Gabon, Congo, and into the Democratic Republic of Congo and northern Angola. It grows naturally in the understory of lowland and premontane moist forests, typically at elevations of 0–1,500 meters. It prefers humid, shaded conditions with well-drained, loamy soils rich in organic matter.
+*P. guineense* is native to the tropical rainforest belt of West and Central Africa, from Senegal eastward through Nigeria, Cameroon, Gabon, Congo, and into the Democratic Republic of Congo and northern Angola. It grows naturally in the understory of lowland and premontane moist forests, typically at elevations of 0–1,500 meters. It prefers humid, shaded conditions with well-drained, loamy soils rich in [[hamilton-composting-and-organic-matter-management]].
 
 ## Culinary Uses
 
@@ -62,10 +62,10 @@ Uziza pepper is a cornerstone of West African cuisine, particularly in Nigeria, 
 
 ## Chemical Composition
 
-The seeds and leaves contain a rich array of bioactive compounds:
+The seeds and leaves contain a rich array of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:
 
 - **Piperine:** 2–5% (alkaloid responsible for pungency)
-- **Essential oils:** 1–3%, including linalool, limonene, α-phellandrene, β-caryophyllene, and terpinolene
+- **[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]:** 1–3%, including linalool, limonene, α-phellandrene, β-caryophyllene, and terpinolene
 - **Alkaloids:** Piperine, piperettine, piperlonguminine
 - **Flavonoids:** Quercetin, rutin, and other glycosylated flavonoids
 - **Lignans:** Dihydrocubebin, cubebin
@@ -88,7 +88,7 @@ The seeds and leaves contain a rich array of bioactive compounds:
 
 ### Scientific Validation
 
-- **Antimicrobial activity:** Essential oils show significant activity against *Staphylococcus aureus*, *Escherichia coli*, *Pseudomonas aeruginosa*, *Candida albicans*, and *Aspergillus niger*
+- **Antimicrobial activity:** Essential oils show significant activity against *Staphylococcus aureus*, *Escherichia coli*, *Pseudomonas aeruginosa*, *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*, and *Aspergillus niger*
 - **Anti-inflammatory:** Ethanolic extracts inhibit carrageenan-induced paw edema in animal models
 - **Antioxidant:** High radical scavenging activity attributed to flavonoids and phenolic acids
 - **Antinociceptive:** Analgesic effects demonstrated in hot-plate and acetic acid writhing tests
@@ -101,7 +101,7 @@ The seeds and leaves contain a rich array of bioactive compounds:
 
 - **Propagation:** Primarily by seed (soaking improves germination) or stem cuttings; cuttings from mature vines root readily in humid conditions
 - **Support system:** Requires a trellis, living fence, or shade tree for climbing; in agroforestry, it can be grown on cacao, mango, or citrus trees
-- **Light requirements:** Partial shade (40–70% shade), making it ideal for understory cultivation
+- **[[growing-gourmet-light-requirements-mushroom-fruiting]]:** Partial shade (40–70% shade), making it ideal for understory cultivation
 - **Soil:** Prefers rich, well-drained loamy soils with pH 5.5–6.5; benefits from organic matter amendments
 - **Water:** Requires consistent moisture; drought-sensitive
 - **Harvest:** Leaves can be harvested beginning 6–8 months after planting; fruits typically appear in the second year
@@ -125,7 +125,7 @@ While not currently listed as threatened, wild populations face pressure from de
 
 - *Piper nigrum* (true black pepper) — South/Southeast Asian origin
 - *Piper longum* (Indian long pepper) — Ayurvedic medicinal plant
-- *Piper methysticum* (kava) — Pacific Islands psychoactive species
+- *[[plants-of-the-gods-piper-methysticum-kava]]* (kava) — Pacific Islands psychoactive species
 - *Piper betle* (betel leaf) — South Asian masticatory
 - *Piper cubeba* (cubeb) — Indonesian medicinal spice
 

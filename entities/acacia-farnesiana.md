@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-**Acacia farnesiana**, commonly known as sweet acacia, huisache, cassie, or needle bush, is a shrub or small tree in the family Fabaceae. It is native to the Americas, with a natural range extending from the southern United States through Central America to northern South America.
+**Acacia farnesiana**, commonly known as sweet acacia, huisache, cassie, or needle bush, is a shrub or small tree in the family Fabaceae. It is native to the Americas, with a natural range extending from the southern [[dmt-containing-plants-united-states-halpern]] through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to northern South America.
 
 The species is renowned for its intensely fragrant golden-yellow flowers, which yield the perfume ingredient cassie absolute. This fragrance has been used in high-end perfumery since the 16th century.
 
@@ -71,7 +71,7 @@ Flowering period extends over 4–8 weeks, providing sustained nectar resources 
 
 The flowers of Acacia farnesiana are the source of **cassie absolute**, a highly valued perfumery material. The absolute is obtained by solvent extraction of the flowers, yielding 0.1–0.3% by fresh weight.
 
-Key volatile compounds include farnesol (which gives the species its epithet), linalool, nerol, geraniol, and various ionones. The fragrance profile combines sweet floral, powdery, and woody-violet notes.
+Key [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] include farnesol (which gives the species its epithet), linalool, nerol, geraniol, and various ionones. The fragrance profile combines sweet floral, powdery, and woody-violet notes.
 
 Cassie absolute has been used in iconic perfumes since the early 20th century, often in combination with jasmine, rose, and tuberose. It remains an important ingredient in niche and luxury fragrances. Annual global production is estimated at 1–2 tonnes, with Mexico and India as primary producers.
 
@@ -89,7 +89,7 @@ Anti-inflammatory and antioxidant activities have been documented in vitro.
 
 The condensed tannins in the bark contribute to its traditional wound-healing applications.
 
-Bark extracts have shown moderate activity against Candida albicans and Aspergillus niger in laboratory studies.
+Bark extracts have shown moderate activity against [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]] and Aspergillus niger in laboratory studies.
 
 ## Ecology and Applications
 
@@ -101,7 +101,7 @@ As a living fence, the dense, thorny growth forms impenetrable barriers. Huisach
 
 The wood is dense, hard, and burns with intense heat, making it excellent fuelwood and charcoal. It is also used for tool handles, fence posts, and small carpentry items.
 
-Root systems are effective at soil binding, making sweet acacia useful for erosion control on slopes and riverbanks. However, its prolific seeding can lead to weediness in pastoral systems.
+Root systems are effective at soil binding, making sweet acacia useful for [[permplant-willows-salix-erosion-control-fodder]] on slopes and riverbanks. However, its prolific seeding can lead to weediness in pastoral systems.
 
 The tree provides important habitat for wildlife, offering nectar for pollinators and shelter for birds. Its thorny structure creates protective nesting sites for small birds, reducing predation pressure.
 

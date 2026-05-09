@@ -9,7 +9,7 @@ created: 2026-05-07
 type: concept
 ---
 
-Dr. Cho Han Kyu's Natural Farming system provides specific
+Dr. Cho Han Kyu's [[comparison-natural-farming-vs-permaculture]] system provides specific
 treatment protocols for each stage of plant growth. These
 protocols are derived from the Nutritive Cycle Theory and are
 designed to supply precisely the nutrients that plants need at
@@ -34,10 +34,10 @@ structural foundation that will support later reproductive
 effort. The treatment prioritizes inputs that supply nitrogen
 and growth enzymes.
 
-FPJ (Fermented Plant Juice) is the primary input during the
-vegetative stage, providing readily available amino acids,
+FPJ ([[bionutrients-lab-fermented-plant-juice-fpj]]) is the primary input during the
+[[comparison-cannabis-vegetative-stage-vs-flowering-stage]], providing readily available amino acids,
 growth hormones, and enzymes from fermented plant material.
-LAB (Lactic Acid Bacteria) supports nutrient cycling in the
+LAB (Lactic Acid Bacteria) supports [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in the
 soil rhizosphere and helps suppress pathogenic organisms that
 might attack young, rapidly growing tissue.
 
@@ -81,13 +81,13 @@ to ensure full fruit development.
 
 Water-Soluble Calcium (WsCa) is the primary input, providing
 calcium needed for cell wall integrity in developing fruit.
-Calcium deficiency during reproductive growth leads to blossom
+[[knf-calcium-deficiency-symptoms]] during reproductive growth leads to blossom
 end rot, poor fruit texture, and reduced shelf life. The calcium
 input is combined with Ws-K (Water-Soluble Potassium) for color
 development and sugar accumulation in maturing fruit.
 
 FPJ continues to be used during this stage, though at reduced
-proportions compared to the vegetative phase. The fermented
+proportions compared to the [[green-cannabis-grow-bible-vegetative-phase-management]]. The fermented
 plant compounds support the plant's energy demands during the
 metabolically expensive process of fruit production. OHN provides
 broad-spectrum herbal support that helps the plant resist disease

@@ -28,7 +28,7 @@ updated: 2026-04-28
 sources:
   - Hahn, R.A. et al. (1979). "Norharman: a potent MAO inhibitor." Research Communications in Chemical Pathology and Pharmacology, 26(1), 43–55.
   - Rommelspacher, H. et al. (1994). "Harman and norharman are endogenous monoamine oxidase inhibitors." Naunyn-Schmiedeberg's Archives of Pharmacology, 349(Suppl), R64.
-  - McIlhenny, E.H. et al. (2011). "β-Carboline alkaloid concentrations in the seeds of Peganum harmala L." Phytochemistry Letters, 4(2), 136–139.
+  - McIlhenny, E.H. et al. (2011). "β-Carboline alkaloid concentrations in the seeds of [[mckenna-food-gods-peganum-harmala-soma]] L." Phytochemistry Letters, 4(2), 136–139.
   - Pfau, W. & Skog, K. (2004). "Exposure to β-carbolines and heterocyclic amines." Cancer Letters, 198(2), 117–126.
   - Shulgin, A. & Shulgin, A. (1997). "TIHKAL: The Continuation." Transform Press.
 created: 2026-04-28
@@ -38,7 +38,7 @@ created: 2026-04-28
 
 Norharmane (9H-pyrido[3,4-b]indole) is a β-carboline alkaloid found in various plants, tobacco smoke, and cooked foods. It acts primarily as a reversible inhibitor of monoamine oxidase A (MAO-A) and exhibits weak hallucinogenic properties at high doses.
 
-The compound was first isolated from the harmala alkaloid complex in the mid-20th century. Unlike its close relative harmine, norharmane lacks a methoxy substituent, which significantly alters its pharmacological profile and reduces its visual psychedelic potency.
+The compound was first isolated from the [[mckenna-telepathine-harmala-alkaloid-discovery]] complex in the mid-20th century. Unlike its close relative harmine, norharmane lacks a methoxy substituent, which significantly alters its pharmacological profile and reduces its visual psychedelic potency.
 
 Norharmane occurs endogenously in human tissues and body fluids, suggesting a physiological role. It is also formed during the pyrolysis of tryptophan, making it a component of tobacco smoke and cooked protein-rich foods.
 
@@ -70,11 +70,11 @@ Evidence for dopaminergic modulation exists, with norharmane shown to inhibit do
 
 ## Effects and Dosage
 
-As an isolated compound, norharmane produces minimal subjective effects at typical exposure levels. When consumed as part of a harmala alkaloid preparation (as in Ayahuasca analogs), it contributes to the overall MAO inhibition profile but does not significantly alter the visionary experience.
+As an isolated compound, norharmane produces minimal subjective effects at typical exposure levels. When consumed as part of a harmala alkaloid preparation (as in [[schultes-ayahuasca-analogs-dmt-plants]]), it contributes to the overall MAO inhibition profile but does not significantly alter the visionary experience.
 
 At higher doses (50–100 mg orally, well above typical dietary exposure), mild anxiogenic effects, mild visual distortions, and nausea have been reported. The dose-response curve is relatively flat, and effects plateau without reaching the intensity of harmine or harmaline.
 
-In combination with DMT or other tryptamines, norharmane's MAO-A inhibition allows oral activity by preventing first-pass metabolism. However, because of its weaker potency compared to harmine, substantially more material is required to achieve effective inhibition thresholds.
+In combination with DMT or other tryptamines, norharmane's MAO-A inhibition allows [[tihkal-oral-activity-mao-inhibition]] by preventing first-pass metabolism. However, because of its weaker potency compared to harmine, substantially more material is required to achieve effective inhibition thresholds.
 
 Onset of MAO inhibition occurs within 30–60 minutes of oral ingestion, with peak effect at approximately 2 hours and duration of 4–8 hours. These kinetics align with other β-carboline alkaloids.
 
@@ -92,7 +92,7 @@ Endogenous norharmane has been detected in human urine, platelets, and brain tis
 
 Norharmane is not specifically scheduled in most jurisdictions as an individual compound. However, plant materials containing it (notably Peganum harmala) may be controlled in some countries.
 
-In the United States, norharmane is not a controlled substance under the Controlled Substances Act. In France, Peganum harmala is listed as a controlled poisonous plant. Harmala alkaloids are regulated under pharmaceutical precursor laws in some nations.
+In the United States, norharmane is not a controlled substance under the Controlled [[controlled-substances-act-and-psychedelic-research]]. In France, Peganum harmala is listed as a controlled poisonous plant. [[turner-harmala-alkaloids-preparation-and-dosage]] are regulated under pharmaceutical precursor laws in some nations.
 
 The compound's presence in common foods and tobacco means that complete prohibition is impractical. Legal focus has instead been on the plants from which it is extracted and the preparations in which it is used as an MAOI component.
 

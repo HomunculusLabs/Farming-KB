@@ -1,5 +1,5 @@
 ---
-title: "Fungal Biofilms in Contaminated Environments"
+title: "gadd-fungal-biofilms-quorum-sensing in Contaminated Environments"
 created: 2026-04-28
 tags: [biofilms, multispecies, bioreactors, persistence, microbial-communities]
 date: 2026-04-25
@@ -26,12 +26,12 @@ adhering to surfaces or interfaces. Singh's discussion of
 ### Gradient-Driven Degradation
 
 - Aerobic surface zones and microaerobic/anaerobic deeper zones enable
-  complementary degradation pathways requiring different conditions
+  complementary [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]] requiring different conditions
 
 ### Protection from Inhibitors
 
 - EPS matrix provides diffusion barrier reducing pollutant toxicity
-- Biofilm cells show higher tolerance to heavy metals and organic
+- Biofilm cells show higher tolerance to [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] and organic
   solvents than planktonic counterparts
 
 ## Biofilm Persistence and Resilience
@@ -42,7 +42,7 @@ adhering to surfaces or interfaces. Singh's discussion of
   months of desiccation
 - **Nutrient limitation tolerance**: Metabolically reduced state during
   limitation, resuming activity when conditions improve
-- **Metal tolerance**: Enhanced metallothioneins and efflux transporters
+- **[[fungal-metal-tolerance-mechanisms]]**: Enhanced metallothioneins and efflux transporters
 
 ## Industrial Applications
 
@@ -57,7 +57,7 @@ adhering to surfaces or interfaces. Singh's discussion of
 
 ### Wastewater Treatment
 
-- **Constructed wetlands**: Fungal biofilms on plant roots contribute to
+- **[[comparison-constructed-wetlands-vs-bioswales]]**: Fungal biofilms on plant roots contribute to
   pollutant removal
 - **Moving bed biofilm reactors**: Fungal carriers provide high biomass
   concentration
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

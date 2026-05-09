@@ -1,5 +1,5 @@
 ---
-title: Gaia's Garden Cover Crops for Soil Building
+title: Gaia's gaias garden cover crops soil building Crops for Soil Building
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -37,7 +37,11 @@ timing, yields, failures, and labor requirements so the method can be
 adapted to local constraints. Avoid interventions that create dependence
 on scarce inputs when a simpler ecological substitute is available.
 
-## Related Topics
+## Related
+
+- [[gaias-garden-hugelkultur]]
+- [[gaias-garden-mature-vs-immature-ecosystems]]
+- [[gaias-garden-microclimates]] Topics
 
 - [[composting-systems]]
 - [[mushroom-cultivation]]
@@ -57,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

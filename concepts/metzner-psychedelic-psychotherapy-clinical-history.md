@@ -10,13 +10,13 @@ sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 
 # Psychedelic Psychotherapy Clinical History
 
-The clinical use of psychedelic drugs in psychotherapy emerged from the accidental
+The clinical use of psychedelic [[hallucinogenic-drugs-in-psychotherapy-and-shamanism]] emerged from the accidental
 discovery of LSD's mind-altering properties by [[stanislav-grof]], working within this model, made the startling discovery that in such a
 series involving increasing doses there could be an even deeper psychic opening -- to
 birth and prebirth memories. After resolving conflicts stemming from Freudian dynamics
 of early childhood, patients would find themselves reliving the significant
 sensory-emotional features of their birth experience, patterns to which Grof gave the
-name perinatal matrices.
+name [[metzner-grof-perinatal-matrices-and-transpersonal-realms]].
 
 ### The Psychedelic Approach
 
@@ -42,7 +42,7 @@ of behavior change in convicts. They started publishing the Psychedelic Review.
 Leary's work focused on exploring the possibilities and values of the psychedelic
 experience for "normals" (mostly graduate students) as well as artists, musicians,
 poets and writers, when provided in a relatively unstructured but supportive,
-home-like seset-and-settingept of "consciousness expansion" was introduced for these
+home-like seset-and-settingept of "[[mckenna-consciousness-expansion-and-drug-war]]" was introduced for these
 experiences, which could be usefully contrasted with the contracted, fixated awareness
 characteristic of narcotic addictions, as well as obsessions and compulsions in
 general.
@@ -64,7 +64,7 @@ and the drug plays the role of catalyst.
 ## Five Shared Principles of Psychedelic-Assisted Psychotherapy
 
 Despite apparent theoretical and practical differences between the psycholytic and
-psychedelic approaches, several fundamental conclusions unite the field:
+psychedelic approaches, several [[metzner-five-fundamental-conclusions-psychedelic-psychotherapy]] unite the field:
 
 1. **Expanded consciousness**: Psychotherapy with hallucinogens invariably involves a
    profoundly expanded state of consciousness, in which the individual can gain
@@ -76,7 +76,7 @@ psychedelic approaches, several fundamental conclusions unite the field:
    psychiatric or psychoactive drugs (including stimulants, depressants and narcotics)
    where pharmacological action seems paramount.
 
-3. **Amplifier and microscope metaphors**: The drug functions as a nonspecific
+3. **Amplifier and [[metzner-amplifier-microscope-metaphors-psychedelic-therapy]]**: The drug functions as a nonspecific
    amplifier of psychic contents (lowering sensory thresholds, "cleansing the doors of
    perception," through both peripheral and central processes) and as a microscope for
    psychology, opening hidden realms of the mind to direct, repeatable, verifiable
@@ -91,7 +91,7 @@ psychedelic approaches, several fundamental conclusions unite the field:
 
 5. **Transpersonal access**: Mystical and spiritual experiences can and often do occur.
    Albert Hofmann testified that his ability to recognize the psycholytic properties of
-   LSD was based on its similarity to his childhood mystical experiences in nature.
+   LSD was based on its similarity to his childhood [[psilocybin-mystical-experiences-personality-change]] in nature.
    Stanislav Grof found that after resolving biographical childhood issues and then the
    perinatal traumata, individuals would find themselves in realms of consciousness
    completely transcendent of time, space, and ordinary worldview parameters. He gave

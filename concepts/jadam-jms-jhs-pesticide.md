@@ -11,12 +11,12 @@ sources:
 # JMS-JHS Pesticide (JADAM Combination)
 
 **Updated:** 2026-04-18
-**Source:** JADAM Organic Farming, pp.298-300 (Youngsang Cho, 2016)
+**Source:** JADAM [[coleman-deep-organic-farming-philosophy]], pp.298-300 (Youngsang Cho, 2016)
 
 ## Overview
 
 The JMS-JHS pesticide combines [[jadam-herb-solution-jhs]] and [[jadam-microorganism-solution-jms]] 10-20 L (2.6-5.3 gal)
-- Jerusalem artichoke [[jadam-wetting-agent-jwa]] 3-5 L (0.8-1.3 gal)
+- [[comparison-jerusalem-artichoke-vs-potato]] [[jadam-wetting-agent-jwa]] 3-5 L (0.8-1.3 gal)
 - Water to make 500 L (132 gal)
 
 ## How It Works
@@ -25,7 +25,7 @@ The JMS-JHS pesticide combines [[jadam-herb-solution-jhs]] and [[jadam-microorga
 
 | Component | Mechanism | Effect |
 |---|---|---|
-| JMS (microbes) | Crowds out pathogens on leaf surface | Disease prevention |
+| JMS (microbes) | Crowds out pathogens on leaf surface | [[cervantes-pest-disease-prevention-overview]] |
 | JHS (herbs) | Direct insecticidal compounds | Pest killing |
 | JWA (surfactant) | Coats all surfaces evenly | Enhances both mechanisms |
 
@@ -35,7 +35,7 @@ The combination is synergistic:
 2. JHS directly kills insects that feed on the plant
 3. JWA ensures both JMS and JHS reach every part of the plant
 4. Dead insects decompose and feed the JMS microorganisms
-5. Healthy microbial ecology reduces future pest pressure
+5. Healthy [[fukuoka-microbial-ecology-decomposition]] reduces future pest pressure
 
 ## JHS Options
 
@@ -64,13 +64,13 @@ You can use both JHS types or just one. For broader coverage, use KPFR JHS which
 - Peak lasts approximately 12 hours
 
 ### Soft Water Required
-- Use soft water for culturing JMS intended for foliar application
+- Use soft water for culturing JMS intended for [[ultra-low-cost-foliar-application-methods]]
 - Hard water compromises both JMS viability and JWA effectiveness
 
 ## Application Schedule
 
 ### Prevention Phase
-- Apply weekly during growing season
+- Apply weekly during [[savory-growing-season-and-non-growing-season-management]]
 - Use 10 L JMS + 5 L JHS + 3 L JWA per 500 L
 - This maintains microbial diversity and basic pest deterrence
 

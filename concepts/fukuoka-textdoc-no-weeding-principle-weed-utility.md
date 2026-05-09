@@ -1,5 +1,5 @@
 ---
-title: "No Weeding Principle and Weed Utility"
+title: "No fukuoka textdoc no weeding principle weed utility and fukuoka-textdoc-weed-utility-grass-soil-enrichment"
 created: 2026-04-28
 tags: [fukuoka, natural-farming, weeds, no-weeding, soil-ecology, ground-cover,
 green-manure]
@@ -15,13 +15,13 @@ type: concept
 Fukuoka found that by "killing two birds with one stone" in this way, growing
 [[fukuoka-natural-rice-barley-cultivation]]
 
-Fukuoka extended the no-weeding principle to [[no-till-direct-seeding-rice-barley]] succession cropping. He seeds barley together with clover over the
+Fukuoka extended the no-weeding principle to no-till-direct-seeding-rice-barley succession cropping. He seeds barley together with clover over the
 standing heads of rice, and scatters rice seed and green manure while the barley
 is up. This more nearly approaches nature and eliminates weeding entirely.
 
 His reason for trying such a method was not that he was tired of weeding or
 wanted to prove that cultivation is possible without weeding. He did this out of
-dedication to his goals of understanding the true form of rice and barley and of
+dedication to his goals of understanding the true form of [[fukuoka-rice-and-barley-natural-farming]] and of
 achieving more vigorous growth and higher yields by cultivating these grains in
 as natural a way as possible.
 
@@ -53,7 +53,7 @@ soil, creating channels for water infiltration and air exchange. Deep-rooted
 weed species such as dandelion and dock mine minerals from subsoil layers,
 bringing calcium, magnesium, and trace elements to the surface where they become
 available to shallower-rooted crop plants. When weeds die back, their decomposing
-roots leave organic matter channels that improve soil structure for years.
+roots leave [[hamilton-composting-and-organic-matter-management]] channels that improve soil structure for years.
 
 Weeds also serve as a living mulch, protecting soil surface from rain splash
 erosion, wind erosion, and thermal extremes. During hot weather, weed canopy
@@ -82,7 +82,7 @@ or mechanical cultivation.
 
 ## Vegetables Grown Wild
 
-Fukuoka's approach to vegetable production extended the no-weeding principle
+Fukuoka's approach to [[dry-gardening-unirrigated-vegetable-production-solomon]] extended the no-weeding principle
 further by allowing vegetables to grow in a semi-wild state. Rather than
 planting in neat, weeded rows, he scattered vegetable seeds among the existing
 ground cover and allowed them to establish naturally. Most vegetable seeds
@@ -100,7 +100,7 @@ often coddles plants that would not survive without constant intervention.
 
 Fukuoka's no-weeding approach shares philosophical ground with modern no-till
 and conservation agriculture movements, though it predates them by decades. No-
-till farming eliminates plowing to preserve soil structure, reduce erosion, and
+[[direct-seeded-no-tillage-rice-barley-succession]] eliminates plowing to preserve soil structure, reduce erosion, and
 maintain soil carbon. However, most no-till systems still rely on herbicides to
 manage weeds, which Fukuoka would reject as another form of chemical
 intervention. His method achieves weed suppression through biological
@@ -109,3 +109,6 @@ force. No-till with herbicides addresses the symptom while Fukuoka's approach
 addresses the underlying cause (bare soil and ecological imbalance).
 
 ## See Also
+- [[fukuoka-textdoc-weed-utility-grass-soil-enrichment]]
+- [[trifolium-repens]]
+- [[fukuoka-textdoc-ladino-clover-lifecycle-weed-succession]]

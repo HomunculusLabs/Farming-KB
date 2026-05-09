@@ -12,7 +12,7 @@ type: concept
 # Phytochrome Photoreception
 
 Phytochromes are a family of photoreceptor proteins [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]]
-development, from seed germination to flowering time, and enable plants to
+development, from [[cannabis-seed-germination-methods]] to flowering time, and enable plants to
 sense the quality, quantity, and duration of light in their environment.
 
 ## Molecular Structure
@@ -50,7 +50,7 @@ Phytochrome was discovered [[the-vacuole-and-tonoplast-in-plant-cell-regulation]
 Phytochromes regulate an enormous range of developmental processes. During
 seed germination, they allow seeds buried [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] timing of the
 vegetative-to-reproductive transition. They also mediate responses to
-photoperiod, enabling plants to measure day length and coordinate flowering
+photoperiod, enabling plants to measure [[coleman-winter-day-length-and-persephone-months]] and coordinate flowering
 with seasonal changes.
 
 ## Phytochrome Gene Families
@@ -59,7 +59,7 @@ In Arabidopsis thaliana, five phytochrome genes (PHYA through PHYE) have been
 identified, each with distinct but overlapping functions. PHYA is specialized
 for detecting very low fluence rates of far-red light and is rapidly degraded
 in the Pfr form. PHYB is the predominant phytochrome in light-grown plants and
-plays the major role in shade detection and red/far-red reversible responses.
+plays the major role in [[phytochrome-red-far-red-ratio-shade-detection-plants]] and red/far-red reversible responses.
 
 ## Ecological Significance
 
@@ -104,7 +104,7 @@ light sensing and adaptation.
 ## Interaction with Other Photoreceptors
 
 In nature, phytochromes do not operate in isolation. They interact with
-cryptochromes (blue light receptors), phototropins (which mediate
+cryptochromes ([[chamovitz-julius-von-sachs-blue-light-phototropism]] receptors), phototropins (which mediate
 phototropic bending), and other photoreceptor systems to provide a
 comprehensive picture of the light environment. The integration of signals
 from multiple photoreceptor types allows plants to make nuanced decisions

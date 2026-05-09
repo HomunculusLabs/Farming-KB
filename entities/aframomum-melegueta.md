@@ -14,7 +14,7 @@ sources:
   - Iwu MM (2014). "Handbook of African Medicinal Plants." 2nd ed. CRC Press.
   - Ding Y, Tian S, Zhang Z, et al. (2014). "Anti-inflammatory effects of 6-paradol." Journal of Agricultural and Food Chemistry.
   - Tartaglia J (2014). "Alligator pepper." Economic Botany.
-  - Okwu DE, Morah FN (2007). "Mineral and nutritional composition of Aframomum melegueta." Journal of Food Technology.
+  - Okwu DE, Morah FN (2007). "Mineral and [[dighton-fungal-nutritional-composition-animal-diets]] of Aframomum melegueta." Journal of Food Technology.
 ---
 
 # Aframomum melegueta
@@ -51,7 +51,7 @@ The species prefers lowland tropical habitats, particularly swampy areas, riverb
 
 Annual rainfall requirements range from 1,500 to 3,000 mm. The plant grows best in partial shade but tolerates full sun in sufficiently moist conditions.
 
-Soil preference is for rich, well-drained alluvial or loamy soils with high organic matter content. Plants are adapted to seasonally waterlogged conditions in their native swamp habitat.
+Soil preference is for rich, well-drained alluvial or loamy soils with high [[hamilton-composting-and-organic-matter-management]] content. Plants are adapted to seasonally waterlogged conditions in their native swamp habitat.
 
 ## Chemistry and Pharmacology
 
@@ -61,9 +61,9 @@ The primary pungent compounds in melegueta seeds are phenylpropanoids and ginger
 
 Antioxidant capacity of seed extracts is significant, with radical scavenging activity attributed to the combined effects of gingerols, shogaols, and paradols. The total phenolic content correlates positively with antioxidant activity.
 
-Antimicrobial screening has demonstrated activity against *Staphylococcus aureus*, *Bacillus subtilis*, *Candida albicans*, and *Aspergillus flavus*. The essential oil fraction shows the broadest antimicrobial spectrum.
+Antimicrobial screening has demonstrated activity against *Staphylococcus aureus*, *Bacillus subtilis*, *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*, and *Aspergillus flavus*. The [[permaculture-designers-manual-essential-oil-plants]] fraction shows the broadest antimicrobial spectrum.
 
-The essential oil of melegueta seeds contains significant quantities of humulene, caryophyllene, and other sesquiterpenes alongside the phenylpropanoid gingerol compounds. Steam distillation yields approximately 1–3% essential oil from dried seeds.
+The essential oil of melegueta seeds contains significant quantities of humulene, caryophyllene, and other sesquiterpenes alongside the phenylpropanoid gingerol compounds. [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] yields approximately 1–3% essential oil from dried seeds.
 
 Studies suggest potential metabolic benefits, including enhanced thermogenesis and modulation of brown adipose tissue activity. These properties have generated interest in grains of paradise as a weight management supplement.
 
@@ -91,7 +91,7 @@ Propagation is primarily by division of rhizomes. Seeds have variable and often 
 
 Optimal planting conditions include partial shade, consistent moisture, and rich organic soil. Plants are typically spaced 0.5–1 m apart within rows 1.5–2 m apart.
 
-Seed harvest occurs approximately 6–9 months after flowering. Fruits are collected when they begin to split naturally, and seeds are extracted, washed, and dried in shade to preserve volatile compounds.
+Seed harvest occurs approximately 6–9 months after flowering. Fruits are collected when they begin to split naturally, and seeds are extracted, washed, and dried in shade to preserve [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]].
 
 Yield data from cultivated stands indicate approximately 0.5–2 kg of dried seed per plant annually. Commercial production is limited, with most market supply still sourced from wild harvest.
 
@@ -100,6 +100,8 @@ Post-harvest processing involves sun-drying or shade-drying of seeds to a moistu
 Major pests include rhizome weevils and stem borers, while diseases are relatively uncommon in well-drained conditions. Intercropping with taller tree crops provides beneficial shade that mimics the natural forest-margin habitat.
 
 ## See Also
+
+- [[aframomum-daniellii]]
 
 - [[zingiber-officinale]]
 - [[cinnamomum-verum]]

@@ -1,5 +1,5 @@
 ---
-title: Passive Solar Heating - Building Design
+title: comparison-passive-solar-vs-earth-sheltered Heating - Building Design
 created: 2026-04-28
 tags:
   - passive-solar-design
@@ -17,7 +17,7 @@ type: concept
 # Passive Solar Heating - Building Design
 
 Passive solar heating is a fundamental design strategy in Bill
-Mollison's Permaculture: A Designers Manual for creating buildings
+Mollison's Permaculture: A [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] for creating buildings
 that heat themselves using the sun's energy without mechanical systems.
 By carefully designing orientation, glazing, thermal mass, and shading,
 buildings can maintain comfortable temperatures year-round with minimal
@@ -74,11 +74,11 @@ Mollison describes the thermal mass cycle:
 4. At night, mass releases stored heat, warming the interior
 
 Effective thermal mass materials include concrete, stone, brick,
-rammed earth ([[mollison-designers-straw-bale-building-techniques]] and [[permaculture-zone-one-design]] food production, and a buffer zone that
+rammed earth ([[mollison-designers-straw-bale-building-techniques]] and permaculture-zone-one-design food production, and a buffer zone that
 reduces heat loss. Design approaches include direct gain sunspaces,
 thermal storage walls, and convective loop vents. Summer overheating
 is prevented through ventilation, shading, and thermal mass. Mollison
-integrates attached greenhouses with [[aquaculture-in-permaculture]] systems.
+integrates attached greenhouses with aquaculture-in-permaculture systems.
 
 ## Overheating Prevention
 
@@ -116,6 +116,10 @@ Mollison categorizes passive solar heating into three types:
 ## Performance Expectations
 
 Well-designed passive solar buildings can provide 50-100% of heating
-needs in temperate climates, reducing or eliminating fossil fuel
+needs in temperate climates, reducing or eliminating [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]]
 dependence. Mollison views passive solar design as inseparable from
 [[permaculture-design]] -- it requires no ongoing energy input,
+
+## See Also
+
+- [[mollison-designers-passive-solar-building]]

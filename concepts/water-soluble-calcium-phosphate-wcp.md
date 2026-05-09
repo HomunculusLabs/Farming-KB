@@ -1,6 +1,6 @@
 ---
 
-title: Water-Soluble Calcium Phosphate (WS-CaPo)
+title: Water-Soluble bionutrients-lab-calcium-phosphate-calamansi (WS-CaPo)
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -24,7 +24,7 @@ sources:
 
 # Water-Soluble Calcium Phosphate (WS-CaPo)
 
-Water-Soluble Calcium Phosphate is a KNF input made by extracting calcium and phosphorus from animal bones using brown rice vinegar (BRV). It is the primary input for the **changeover period** — the critical transition from vegetative to reproductive growth. Calcium phosphate provides the phosphoric acid compounds that plants need to shift their metabolism from leaf production to flower/fruit production.
+Water-Soluble Calcium Phosphate is a KNF input made by extracting calcium and phosphorus from animal bones using brown rice vinegar (BRV). It is the primary input for the **changeover period** — the critical transition from vegetative to [[knf-reproductive-growth-stage]]. Calcium phosphate provides the phosphoric acid compounds that plants need to shift their metabolism from leaf production to flower/fruit production.
 
 ## Why Calcium Phosphate?
 
@@ -35,7 +35,7 @@ Phosphorus (P) is essential for:
 - **Genetic material** (DNA/RNA) — phosphate backbone
 - **Membrane structure** — phospholipids in cell membranes
 
-Combined with calcium (see [[water-soluble-calcium-wca]]), this input provides both the structural strength and energy transfer needed for the changeover transition.
+Combined with calcium (see [[water-soluble-calcium-wca]]), this input provides both the [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]] and energy transfer needed for the changeover transition.
 
 ## WS-CaPo Recipe
 
@@ -101,7 +101,7 @@ Apply as foliar spray or soil drench. Foliar is faster for acute deficiency; soi
 
 According to [[nutritive-cycle-theory]], WS-CaPo is the star of the changeover period:
 
-- **Vegetative stage**: Generally not needed (plants use nitrogen and carbohydrates)
+- **[[comparison-cannabis-vegetative-stage-vs-flowering-stage]]**: Generally not needed (plants use nitrogen and carbohydrates)
 - **Changeover period**: WS-CaPo at 1:500-1000 — THE key input for this stage
 - **Reproductive stage**: Can continue at 1:1000 for first few weeks of flowering
 - **Late reproductive**: Reduce or stop — plant has shifted metabolism
@@ -119,8 +119,8 @@ WS-CaPo works synergistically with:
 
 ## The Changeover Period Explained
 
-The changeover period (morning sickness) is the 1-3 week window when plants transition from vegetative to reproductive growth. During this time:
-- Vegetative growth slows dramatically
+The changeover period ([[cho-morning-sickness-and-plant-cross-over-period]]) is the 1-3 week window when plants transition from vegetative to reproductive growth. During this time:
+- [[cannabis-vegetative-growth-stage]] slows dramatically
 - The plant reconfigures its metabolism from nitrogen assimilation to phosphorus/carbon storage
 - Older leaves may yellow as the plant mobilizes stored nutrients
 - Flower buds begin forming but may appear stunted initially
@@ -138,10 +138,9 @@ WS-CaPo provides the phosphoric acid compounds that fuel this metabolic shift. W
 | Slow extraction | Bones too large or not charred | Break bones smaller, char before extracting |
 | Putrid smell | Meat/fat left on bones | Clean bones thoroughly, start over |
 | Weak results | Dilution too high | Increase to 1:500 |
-| No visible changeover effect | Applied too late | Apply when first flower buds appear |
-| Precipitate in bottle | Calcium phosphate settling | Shake before use |
-
 ## See Also
+
+- [[pentose-phosphate-pathway]]
 
 - [[knf-preparations]] — all KNF inputs and application schedules
 - [[nutritive-cycle-theory]] — when to apply WS-CaPo
@@ -149,4 +148,3 @@ WS-CaPo provides the phosphoric acid compounds that fuel this metabolic shift. W
 - [[brown-rice-vinegar-brv]] — BRV extraction solvent recipe
 - [[fish-amino-acid-faa]] — source of fish bones for WS-CaPo
 - [[fermented-mixed-compost-fmc]] — use bone residue in compost
-- [[fermented-plant-extract-fpe]] — sour FFJ as complementary changeover input

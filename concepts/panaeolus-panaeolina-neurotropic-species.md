@@ -1,5 +1,5 @@
 ---
-title: Panaeolus and Panaeolina Neurotropic Species
+title: Panaeolus and panaeolus panaeolina neurotropic species Species
 created: 2026-04-28
 tags:
   - mycology
@@ -43,12 +43,12 @@ Gerhardt (1996) provided a comprehensive taxonomic revision of both genera. Some
 | **P. olivaceus** | Europe (Czechoslovakia, Denmark, Finland, Great Britain, Iceland, Netherlands, Sweden) | Northern temperate |
 | **P. ater** | Cosmopolitan; Europe, Africa, Asia, Oceania | Widely distributed |
 | **P. castaneifolius** | Great Britain | Rare |
-| **P. campanulatus** | Venezuela | South American |
+| **P. campanulatus** | Venezuela | [[chiric-caspi-brunfelsia-south-american-hallucinogen]] |
 | **P. moellerianus** | Faeroes Islands | Very restricted distribution |
 | **P. microsporus** | Africa (Central African Republic, Sudan) | African species |
 | **P. rubricaulis** | New Guinea, Sri Lanka, Vietnam | Asian and Pacific |
 | **P. venezolanus** | Mexico, Venezuela, India | Disjunct distribution |
-| **P. mollearinus** | Macquarie Island (Antarctic region) | Southernmost record of any neurotropic fungus |
+| **P. mollearinus** | Macquarie Island (Antarctic region) | Southernmost record of any [[psilocybe-as-dominant-neurotropic-fungus-genus]] |
 
 ## Neurotropic Species in Panaeolina
 
@@ -56,7 +56,7 @@ Gerhardt (1996) provided a comprehensive taxonomic revision of both genera. Some
 |---------|-------------|-------|
 | **P. foenisecii** (the haymaker's mushroom) | Cosmopolitan; Europe, Americas, Africa, Asia, Oceania | The most widespread species in the group; common in lawns |
 
-The psychoactivity of P. foenisecii has been debated. Robbers et al. (1969), Fiussello and Ceruti Scurti (1972), and Allen and Merlin (1992c) have studied its indole alkaloid content. It generally contains very low levels of psilocybin and psilocin compared to other neurotropic species, and its psychoactivity is considered questionable by some authors.
+The psychoactivity of P. foenisecii has been debated. Robbers et al. (1969), Fiussello and Ceruti Scurti (1972), and Allen and Merlin (1992c) have studied its [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] content. It generally contains very low levels of psilocybin and psilocin compared to other neurotropic species, and its psychoactivity is considered questionable by some authors.
 
 ## Geographic Distribution by Continent
 
@@ -79,7 +79,7 @@ Europe has the best documented diversity for this group, with the following spec
 
 ### North America
 
-**United States**: Species documented from specific states:
+**[[dmt-containing-plants-united-states-halpern]]**: Species documented from specific states:
 - **Washington**: P. fimicola, P. papilionaceus, P. subbalteatus
 - **Florida**: P. subbalteatus
 - **Alabama, Georgia, Louisiana, Mississippi, South Carolina**: Various species
@@ -132,7 +132,7 @@ The Panaeolus/Panaeolina group generally contains **lower concentrations** of ps
 
 ## Ecological Role
 
-All Panaeolus and Panaeolina species are coprophilous, playing an important ecological role in decomposing herbivore dung. They are among the first fungal colonizers of fresh dung and contribute to nutrient cycling in grassland ecosystems. Their dung preference means they are commonly found in:
+All Panaeolus and Panaeolina species are coprophilous, playing an important ecological role in decomposing herbivore dung. They are among the first fungal colonizers of fresh dung and contribute to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in grassland ecosystems. Their dung preference means they are commonly found in:
 
 - Pastures and meadows
 - Horse paddocks
@@ -141,6 +141,8 @@ All Panaeolus and Panaeolina species are coprophilous, playing an important ecol
 ## See Also
 
 - [[copelandia-cyanescens]]
-- [[copelandia-genus]]
+- copelandia-genus
 - Psilocybe Genus Overview
 - [[neurotropic-fungi-classification]]
+- [[guzman-allen-gartz-conocybe-gerronema-neurotropic-species]]
+- [[gymnopilus-genus-neurotropic-species]]

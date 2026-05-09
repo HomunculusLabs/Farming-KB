@@ -1,11 +1,11 @@
 ---
-title: Agaricus Phase I Composting — The Foundation of Button Mushroom Cultivation
+title: Agaricus Phase I Composting — The Foundation of Button accessible-mushroom-cultivation-for-disabilities
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [composting, soil]
 sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+  sources: []
 ---
 # Agaricus Phase I Composting
 
@@ -15,17 +15,17 @@ Synthetic compost uses no horse manure. Straw, sometimes mixed with hay, serves 
 
 The pile is turned periodically (typically every 2-4 days) to reintroduce oxygen, redistribute moisture, and ensure all material is exposed to the thermophilic zone. Each turn homogenizes the compost and promotes even decomposition. Turning also releases accumulated CO2 and ammonia, preventing the pile from becoming anaerobic.
 
-The production of ammonia is essential to the composting process. Just as carbohydrates fuel microbial growth, ammonia production indicates active protein synthesis by the microbial community. The smell of ammonia should be evident throughout Phase I, reaching a peak at fill time when the compost is moved to the Phase II room.
+The production of ammonia is essential to the composting process. Just as carbohydrates fuel microbial growth, ammonia production indicates active protein synthesis by the [[edaphic-factors-microbial-community-structure]]. The smell of ammonia should be evident throughout Phase I, reaching a peak at fill time when the compost is moved to the Phase II room.
 
 ## Critical Variables in Phase I
 
-Several variables determine compost quality and must be managed carefully.
+Several variables determine [[aact-compost-quality-standards-ingham]] and must be managed carefully.
 
 Moisture content should be maintained at 65-72% throughout Phase I. Too dry, and microbial activity slows; too wet, and the pile goes anaerobic, producing foul odors and inhibiting beneficial microbes. Water is added during turns as needed.
 
 Pile dimensions affect heat retention and oxygen penetration. Piles that are too small cannot maintain thermophilic temperatures; piles that are too large develop anaerobic cores. Typical dimensions are 4-6 feet wide and 4-5 feet tall.
 
-Composting time ranges from 7 to 21 days depending on ambient temperature, ingredient quality, and turning frequency. The compost is ready for Phase II when it has darkened to a rich brown color, straw fibers are soft but still visible, the pile is pliable and moist (not sticky), and a strong ammonia smell is present.
+Composting time ranges from 7 to 21 days depending on [[jadam-ambient-temperature-principle]], ingredient quality, and turning frequency. The compost is ready for Phase II when it has darkened to a rich brown color, straw fibers are soft but still visible, the pile is pliable and moist (not sticky), and a strong ammonia smell is present.
 
 Carbon-to-nitrogen ratio should start around 30:1 and narrow to approximately 20:1 by the end of Phase I. This narrowing indicates that microbial populations have incorporated nitrogen into their biomass while consuming carbon as an energy source.
 
@@ -39,15 +39,15 @@ Uneven composting results from poor mixing. Patches of undecomposed straw or man
 
 ## Transition to Phase II
 
-When Phase I is complete, the compost is moved to the [[mushroom-composting]] — comprehensive composting overview
+When Phase I is complete, the compost is moved to the mushroom-composting — comprehensive composting overview
 
 [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] — compost as a growing substrate
 
 [[mushroom-yield-optimization]] — how compost quality affects yields
 
-[[casing-layer-preparation]] — the casing layer applied after spawning
+casing-layer-preparation — the casing layer applied after spawning
 
-[[cotter-mushroom-pests-diseases]] — compost-associated pests and diseases
+[[mushroom-pests-and-diseases]] — compost-associated [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]
 ## Practical Considerations
 
 When working with Agaricus Phase I Composting — The Foundation of Button Mushroom Cultivation, several practical factors should be
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

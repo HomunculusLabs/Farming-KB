@@ -1,5 +1,5 @@
 ---
-title: Natural Farming Poster - Korean Natural Farming Techniques for Cannabis
+title: comparison-natural-farming-vs-permaculture Poster - Korean Natural Farming Techniques for Cannabis
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -11,8 +11,8 @@ sources:
 
 ## Core Philosophy
 
-- Grow plants in organic, living soil with a thriving microbial community
-- Create a complete organic feeding schedule covering the entire cannabis life cycle
+- Grow plants in organic, living soil with a thriving [[edaphic-factors-microbial-community-structure]]
+- Create a [[solomon-complete-organic-fertilizer-guide]] feeding schedule covering the entire cannabis life cycle
 - Use biodiverse species of plants and fruits ([[integrated-pest-management]]) tool by keeping plants healthy and resistant
 - **Aging**: Improves with age, described as "aging like fine whiskey"
 
@@ -22,7 +22,7 @@ sources:
 - **Blue/white fish FAA**: High nitrogen and calcium — used during vegetative phase
 
 ### Lactic Acid Bacteria (LAB)
-- **Purpose**: Serum for EM-1 (Effective Microorganisms); improves soil aeration and microbial activity, builds immunity, fights powdery mildew (PM)
+- **Purpose**: Serum for EM-1 ([[query-how-do-you-make-effective-microorganisms-em-for-agriculture]]); improves soil aeration and microbial activity, builds immunity, fights [[cervantes-powdery-mildew-prevention-treatment]] (PM)
 - **Role**: Enhances the soil microbiome and serves as a carrier for other inputs
 
 ### Water Soluble Calcium (WSC)
@@ -113,7 +113,7 @@ The four-step process for producing any fermented plant or fruit extract:
 
 ## Key Principles
 
-- **Forage widely**: Available materials are everywhere — dynamic accumulators grow in fields, roadsides, and gardens
+- **Forage widely**: Available materials are everywhere — [[comparison-dynamic-accumulators-vs-cover-crops]] grow in fields, roadsides, and gardens
 - **Feed plants with plants**: The core idea is using plant-derived inputs rather than synthetic chemicals
 - **Transition through stages**: Both the plant lifecycle and the input selection transition gradually — under-ripe to over-ripe fruits, vegetative to flowering nutrients
 - **Microbes matter**: BIM/IMO and LAB form the foundation of soil health; all other inputs work through and with the microbial community
@@ -122,3 +122,7 @@ The four-step process for producing any fermented plant or fruit extract:
 ### Influences and Lineage
 
 The MNFT system draws directly from [[master-cho]] Han-Kyu's Korean Natural Farming (KNF) community and Chris Trump's YouTube video series which popularised KNF in the English-speaking world. The broader cannabis natural farming community on Instagram has also been influential.
+
+## See Also
+
+- [[natural-farming-poster-korean-methods-summary]]

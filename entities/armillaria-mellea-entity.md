@@ -3,14 +3,14 @@ title: "Armillaria mellea" type: species tags: [species, fungi, basidiomycota, p
 created: 2026-04-28
 type: entity
 sources:
-  - "raw/papers/mycelium-running-stamets.md"
+  sources: []
 tags: []
 updated: 2026-05-06
 ---
 
 # Armillaria mellea
 
-Armillaria mellea, commonly known as the honey mushroom or honey fungus, is a species of basidiomycete fungus in the family Physalacriaceae. It is among the most ecologically significant and destructive forest pathogens in the world, capable of forming some of the largest and oldest living organisms on Earth through its rhizomorph networks. Individual clones of A. mellea have been documented spanning hundreds of acres and exceeding 2,000 years in age. Despite its pathogenicity, the species produces edible fruiting bodies and plays an important role in forest ecosystem dynamics by recycling wood from stressed and dying trees. Its dual nature as both a devastating pathogen and a valued edible makes it one of the most studied wood-decay fungi in forest pathology.
+Armillaria mellea, commonly known as the honey mushroom or honey fungus, is a species of basidiomycete fungus in the family Physalacriaceae. It is among the most ecologically significant and destructive forest pathogens in the world, capable of forming some of the largest and oldest [[savory-living-organisms-as-tools]] on Earth through its rhizomorph networks. Individual clones of A. mellea have been documented spanning hundreds of acres and exceeding 2,000 years in age. Despite its pathogenicity, the species produces edible fruiting bodies and plays an important role in [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] dynamics by recycling wood from stressed and dying trees. Its dual nature as both a devastating pathogen and a valued edible makes it one of the most studied wood-decay fungi in forest pathology.
 
 ## Taxonomy and Naming
 
@@ -26,7 +26,7 @@ Armillaria mellea, commonly known as the honey mushroom or honey fungus, is a sp
 - **Synonyms:** Armillariella mellea (P. Kumm.) Karst., Lentinus melleus
   (Vahl) Fr.
 
-The genus Armillaria has undergone extensive taxonomic revision. Modern molecular phylogenetics has split what was once considered a single polymorphic species complex into at least 10 distinct biological species across North America (Armillaria solidipes, A. gallica, A. ostoyae, etc.) and additional species in Europe, Asia, and Australia. True A. mellea (sensu stricto) is primarily a European and Mediterranean species, though the name is still widely applied to the complex as a whole in older literature.
+The genus Armillaria has undergone extensive taxonomic revision. Modern molecular phylogenetics has split what was once considered a single polymorphic species complex into at least 10 distinct biological species across [[psilocybin-north-america-pacific-northwest]] (Armillaria solidipes, A. gallica, A. ostoyae, etc.) and additional species in Europe, Asia, and Australia. True A. mellea (sensu stricto) is primarily a European and Mediterranean species, though the name is still widely applied to the complex as a whole in older literature.
 
 ## Description
 
@@ -64,7 +64,7 @@ The genus Armillaria has undergone extensive taxonomic revision. Modern molecula
 - **Season:** Late summer through autumn (August–November in the Northern
   Hemisphere); fruiting often triggered by cool rains
 - **Ecological role:** Key agent of white-rot wood decay; rhizomorphs
-  facilitate long-distance nutrient transport and host-to-host infection through root grafts and direct contact
+  facilitate long-distance [[mycelial-network-nutrient-transport-imaging-gadd]] and host-to-host infection through root grafts and direct contact
 
 ## Biology and Pathogenicity
 
@@ -114,12 +114,12 @@ Armillaria is not typically cultivated commercially due to its pathogenic
 nature, but it has been grown experimentally on supplemented wood substrates.
 In permaculture contexts, it is sometimes introduced deliberately for
 mycoremediation of woody waste. Some Asian cultivation operations grow A.
-mellea on hardwood logs for specialty mushroom markets, particularly in China
+mellea on hardwood logs for specialty [[emcdda-hallucinogenic-mushroom-markets-availability]], particularly in China
 and Japan where the species is valued as both food and traditional medicine.
 
 ## Permaculture and Ecological Significance
 
-In permaculture design, Armillaria occupies a complex niche. Its aggressive
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], Armillaria occupies a complex niche. Its aggressive
 pathogenicity makes it a serious threat to orchard trees and timber plantations,
 yet its role in decomposing woody biomass and cycling nutrients makes it
 ecologically invaluable. Some permaculture practitioners incorporate it into
@@ -140,6 +140,11 @@ than being the sole cause of decline.
 
 ## See Also
 
-- [[psilocybe-mushroom-species-guide]]
+- psilocybe-mushroom-species-guide
 - [[bloomfield-fairy-rings-armillaria-giant-fungi]]
 - [[stamets-king-stropharia-permaculture-mycofiltration]]
+- [[root-exudates]]
+- [[hypholoma-fasciculare]]
+- [[decomposition]]
+
+- [[armillaria-bulbosa]]

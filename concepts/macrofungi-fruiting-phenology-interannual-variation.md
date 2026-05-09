@@ -1,6 +1,6 @@
 ---
-title: "Macrofungi Fruiting Phenology and Interannual Variation"
-source: "Biodiversity of Fungi: Inventory and Monitoring Methods"
+title: "Macrofungi macrofungal-fruiting-phenology-climate-variability and Interannual Variation"
+source: "Biodiversity of Fungi: Inventory and [[fungal-detection-and-monitoring-methods-bioremediation]]"
 source_file: "raw/papers/unknown-biodiversity-of-fungi.md"
 topics:
   - mycology
@@ -28,7 +28,7 @@ Macrofungi fruit when temperatures are above freezing and moisture is available,
 
 ### Latitude, Elevation, and Season
 
-Within a geographic region, fruiting is influenced by elevation and latitude through their effects on temperature and precipitation. A species that fruits in spring at high latitudes may fruit in fall at lower latitudes. In temperate regions with summer drought, spring and fall are the main fruiting seasons, with the fall season progressively later at lower latitudes — in some regions occurring after the winter solstice. At high elevations and latitudes, or in temperate regions with summer rain, summer may be the most productive season.
+Within a geographic region, fruiting is influenced by elevation and latitude through their effects on temperature and precipitation. A species that fruits in spring at high latitudes may fruit in fall at lower latitudes. In temperate regions with summer drought, spring and fall are the main [[azurescens-fruiting-seasons-and-conditions]], with the fall season progressively later at lower latitudes — in some regions occurring after the winter solstice. At high elevations and latitudes, or in temperate regions with summer rain, summer may be the most productive season.
 
 ### Unusual Weather Events
 
@@ -60,7 +60,7 @@ Maximum richness of fruiting species occurs only during brief periods and differ
 
 ### Minimum Survey Duration
 
-The literature consistently suggests that macrofungal diversity studies should span at least five years, and preferably ten or more years, to approach a reliable estimate of species richness. Shorter studies provide snapshots that may be informative about community composition but cannot be considered representative of the full species pool.
+The literature consistently suggests that macrofungal diversity studies should span at least five years, and preferably ten or more years, to approach a reliable estimate of species richness. Shorter studies provide snapshots that may be informative about [[core-endorhiza-bacterial-community-composition-cannabis]] but cannot be considered representative of the full species pool.
 
 ### Distinguishing Variation from Succession
 
@@ -76,7 +76,7 @@ As climate patterns shift globally, macrofungal fruiting phenology is likely to 
 
 ### Phenological Mismatches
 
-Changes in fruiting timing may create mismatches between fungi and their ecological partners. Ectomycorrhizal fungi, for example, must coordinate fruiting with host tree physiology, and disruptions to this coordination could affect spore dispersal efficiency and subsequent colonization of new root tips. Saprotrophic fungi that depend on specific substrate conditions may find that the timing of leaf fall or woody debris availability no longer aligns with their optimal fruiting conditions.
+Changes in fruiting timing may create mismatches between fungi and their ecological partners. [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]], for example, must coordinate fruiting with host tree physiology, and disruptions to this coordination could affect [[aquatic-fungi-spore-dispersal-ingold]] efficiency and subsequent colonization of new root tips. Saprotrophic fungi that depend on specific substrate conditions may find that the timing of leaf fall or woody debris availability no longer aligns with their optimal fruiting conditions.
 
 ## Fruiting Strategies and Ecological Guilds
 
@@ -116,6 +116,8 @@ Researchers have developed several quantitative approaches to characterize fruit
 10. **Preserve voucher specimens** from every fruiting event to enable retrospective verification of identifications
 
 ## See Also
+
+- [[macrofungal-fruiting-phenology-interannual-variation]]
 
 - [[fungal-species-accumulation-rarefaction-estimators]]
 - [[fungal-biodiversity-patterns]]

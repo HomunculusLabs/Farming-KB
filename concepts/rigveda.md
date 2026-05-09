@@ -23,9 +23,9 @@ The Rigveda's most enigmatic component is the extensive collection of hymns dedi
 ## The Soma Question
 
 The identity of the Soma plant remains one of the great unsolved puzzles of ancient history. Candidates include:
-- **Amanita muscaria** (fly agaric): Proposed by R. Gordon Wasson based on red color, mountain habitat, and psychoactive effects
+- **[[amanita-muscaria]]** ([[fly-agaric]]): Proposed by R. Gordon Wasson based on red color, mountain habitat, and psychoactive effects
 - **Ephedra** species: Proposed based on alkaloid content and Central Asian distribution
-- **Peganum harmala** (Syrian rue): Contains harmine and harmaline (MAOIs)
+- **[[peganum-harmala]]** ([[syrian-rue]]): Contains harmine and harmaline (MAOIs)
 - **Various combinations**: Some scholars propose multi-ingredient preparations
 
 Each candidate has strengths and weaknesses. The fly agaric hypothesis accounts for the red color and visionary effects but struggles with the Indian distribution and preparation method. The ephedra hypothesis fits the Iranian evidence but produces stimulant rather than visionary effects.
@@ -36,7 +36,7 @@ The Rigveda is foundational to Hindu, Buddhist, and Jain traditions. Its hymns e
 
 ## Sumerian Connections
 
-John Allegro's controversial thesis in *The Sacred Mushroom and the Cross* proposes that the Soma of the Rigveda is part of a much broader Near Eastern mushroom cult whose linguistic roots trace to ancient Sumer. He argues that many sacred names and titles in the Rigveda, when traced back through Sumerian, encode mushroom terminology. The Sumerian language, as the oldest written language known (cuneiform texts from the fourth millennium BCE), provides what Allegro calls a "bridge between the Indo-European languages and the Semitic group." This would mean that Vedic, Greek, and Hebrew religious concepts share a common origin in the mushroom-using cultures of ancient Mesopotamia.
+[[john-allegro]]'s controversial thesis in *The Sacred Mushroom and the Cross* proposes that the Soma of the Rigveda is part of a much broader Near Eastern mushroom cult whose linguistic roots trace to ancient Sumer. He argues that many sacred names and titles in the Rigveda, when traced back through Sumerian, encode mushroom terminology. The Sumerian language, as the oldest written language known (cuneiform texts from the fourth millennium BCE), provides what Allegro calls a "bridge between the Indo-European languages and the Semitic group." This would mean that Vedic, Greek, and Hebrew religious concepts share a common origin in the mushroom-using cultures of ancient Mesopotamia.
 
 ## Structure and Composition
 
@@ -67,7 +67,7 @@ john allegro extended his philological methods to the Rig Veda, arguing that key
 
 ## Post-Vedic Fate of Soma
 
-The identity of Soma was lost within the post-Vedic period in India. By the time of the Brahmanas (c. 800 BCE) and Upanishads, Soma had become a purely ritual symbol, with substitute plants (variously identified as Ephedra, Peganum harmala, or Cannabis) used in ceremonies that no longer produced ecstatic effects. The loss of the original entheogenic knowledge -- whether due to overharvesting of Amanita muscaria in the northwest Indian mountains, religious reform movements, or cultural displacement -- represents one of the most significant transitions in the history of religion: the shift from direct entheogenic experience to symbolic ritual.
+The identity of Soma was lost within the post-Vedic period in India. By the time of the Brahmanas (c. 800 BCE) and Upanishads, Soma had become a purely ritual symbol, with substitute plants (variously identified as Ephedra, Peganum harmala, or Cannabis) used in ceremonies that no longer produced ecstatic effects. The loss of the original entheogenic knowledge -- whether due to overharvesting of Amanita muscaria in the northwest Indian mountains, religious reform movements, or cultural displacement -- represents one of the most significant transitions in the history of religion: the shift from direct [[pineal-gland-dmt-entheogenic-experience]] to symbolic ritual.
 
 ## Soma in the Rigveda
 
@@ -83,7 +83,7 @@ The Rigveda is of immense importance to historical linguistics as the oldest sub
 
 ## Related
 
-- [[amanita-in-ancient-religion]]
+- organized religion
 - [[soma-and-the-sacred-mushroom-debate]]
 - [[amanita-muscaria-ethnobotany]]
 - [[rig-veda-soma-hymns-amanita-muscaria]]

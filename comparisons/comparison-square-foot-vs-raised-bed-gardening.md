@@ -12,13 +12,13 @@ type: comparison
 
 ## Overview
 
-Square foot gardening (SFG) and raised bed gardening are two of the most popular intensive growing methods for home food production. Both improve yields over traditional row gardening and reduce wasted space, but they differ significantly in structure, planning, and philosophy.
+Square foot gardening (SFG) and raised bed gardening are two of the most popular intensive [[mushroom-growing-methods-comparison]] for home food production. Both improve yields over traditional row gardening and reduce wasted space, but they differ significantly in structure, planning, and philosophy.
 
 Raised bed gardening is the broader category: any growing bed built above ground level that is filled with a custom soil mix. It defines the physical structure but leaves planting layout flexible. Raised beds can range from a simple 4x4 foot box to a full network of beds covering a large backyard garden.
 
 Square foot gardening is a specific system developed by Mel Bartholomew that uses raised beds divided into a permanent 1-foot grid, with each square planted according to a precise spacing chart. SFG is essentially a highly structured subset of raised bed gardening with strict rules about soil, grid use, and replanting.
 
-Understanding the relationship between the two helps growers choose the right approach or combine elements of both for their situation.
+Understanding the relationship between the two helps growers [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] approach or combine elements of both for their situation.
 
 ## Square Foot Gardening
 
@@ -30,7 +30,7 @@ SFG treats the garden as a grid of discrete planting stations. A standard 4x4 fo
 - No walking on the bed; all access from surrounding paths
 - Harvested squares are replanted immediately with a new crop and fresh compost
 
-This regimented approach produces very high yields per square foot and makes succession planting straightforward. It is particularly appealing to beginners because the spacing chart removes guesswork about how far apart to place seeds.
+This regimented approach produces very high yields per square foot and makes [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] straightforward. It is particularly appealing to beginners because the spacing chart removes guesswork about how far apart to place seeds.
 
 Extra-large plants like broccoli, cabbage, and tomatoes get one square each. Large plants like lettuce and Swiss chard get four per square. Medium plants like beets and bush beans get nine per square. Small plants like carrots and radishes get sixteen per square.
 
@@ -42,13 +42,13 @@ Vertical growing is also part of the SFG system. Crops like indeterminate tomato
 
 ## Raised Bed Gardening
 
-Raised beds encompass any elevated growing area framed by wood, metal, stone, or concrete blocks. Unlike SFG, there is no prescribed planting layout: gardeners can use rows, blocks, companion planting groupings, or any arrangement they prefer.
+Raised beds encompass any elevated growing area framed by wood, metal, stone, or concrete blocks. Unlike SFG, there is no prescribed planting layout: gardeners can use rows, blocks, [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] groupings, or any arrangement they prefer.
 
 Standard beds are 4 feet wide (reachable from both sides), 8-12 feet long, and 6-12 inches tall. Deeper beds (18-24 inches) suit root crops, accessible gardening, or building over pavement. Soil can be Mel's Mix, a topsoil-compost blend, or amended native soil depending on budget and goals.
 
 Raised beds improve drainage, reduce soil compaction by keeping foot traffic off the growing surface, warm earlier in spring for an extended season, and allow complete control over soil quality regardless of native ground conditions. Drip irrigation or soaker hoses integrate easily into raised beds, and mulching is straightforward on the flat, contained surface.
 
-Irrigation is often more efficient in raised beds because the contained soil holds moisture well and drip lines can be laid out systematically. Beds can also be covered with row cover, shade cloth, or hoop tunnels for season extension.
+Irrigation is often more efficient in raised beds because the contained soil holds moisture well and drip lines can be laid out systematically. Beds can also be covered with row cover, shade cloth, or hoop tunnels for [[comparison-season-extension-techniques-vs-cold-frame-gardening]].
 
 **Strengths:** Flexible layout, scales from one bed to an entire garden, improves drainage and soil quality over native ground, reduces compaction, extends the season by warming earlier in spring, works with any soil mix, accommodates diverse construction materials.
 
@@ -95,7 +95,7 @@ Irrigation is often more efficient in raised beds because the contained soil hol
 - You need deeper beds for root vegetables or accessibility needs
 - You already have raised beds and want to adapt them over time without a fixed grid
 - You want to use a variety of construction materials (metal, stone, composite)
-- You have poor native soil (heavy clay, rocky, or contaminated) and need a fully contained growing environment
+- You have poor native soil (heavy clay, rocky, or contaminated) and need a fully contained [[cannabis-growing-environment-setup]]
 - You want to integrate irrigation systems, season extension structures, or permanent trellises
 
 ## Hybrid Approaches
@@ -111,6 +111,10 @@ Most experienced home gardeners naturally blend elements of both methods:
 The key insight is that SFG and raised bed gardening are not competing methods but rather exist on a continuum. SFG is raised bed gardening with additional structure and rules. Gardeners benefit from understanding both and adopting whichever elements serve their goals, space, and skill level. Many of the most productive home gardens use SFG principles in some beds and open raised bed layouts in others, taking full advantage of each approach's strengths.
 
 ## See Also
+
+- [[comparison-deep-bed-cultivation-vs-square-foot-gardening]]
+
+- [[comparison-chinampas-vs-raised-bed-gardening]]
 
 - [[comparison-sheet-mulching-vs-square-foot-gardening]]
 

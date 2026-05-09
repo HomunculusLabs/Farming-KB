@@ -1,5 +1,5 @@
 ---
-title: "Belladonna (Atropa belladonna): Ethnobotany and Cultural History"
+title: "Belladonna (belladonna atropa belladonna ethnobotany): Ethnobotany and shroom-cultural-history-hippie-revolution-and-counterculture"
 created: "2026-04-17"
 updated: "2026-04-17"
 type: concept
@@ -14,7 +14,7 @@ Belladonna (Atropa belladonna) is one of the most notorious plants in the Wester
 
 Belladonna is a perennial herbaceous plant native to Europe and Asia Minor. There are four species of Atropa distributed in Europe and from central Asia to the Himalayas. The genus name Atropa derives from the Greek Atropos, one of the three Fates who cuts the thread of life — a reference to the plant's lethal properties.
 
-The plant produces attractive shiny black berries that are highly poisonous. These berries still frequently cause accidental poisoning, particularly among children attracted by their appearance. All parts of the plant contain active alkaloids, but the highest concentrations are found in the leaves and roots. Until the 19th century, commercial collection was primarily from wild sources, but since that time cultivation has been initiated in the United States, Europe, and India, where it remains an important source of medicinal drugs.
+The plant produces attractive shiny black berries that are highly poisonous. These berries still frequently cause accidental poisoning, particularly among children attracted by their appearance. All parts of the plant contain active alkaloids, but the highest concentrations are found in the leaves and roots. Until the 19th century, commercial collection was primarily from wild sources, but since that time cultivation has been initiated in the [[dmt-containing-plants-united-states-halpern]], Europe, and India, where it remains an important source of medicinal drugs.
 
 ## The Name "Belladonna"
 
@@ -46,7 +46,7 @@ The discovery of atropine's mechanism of action — competitive antagonism of ac
 
 Belladonna is highly poisonous, and accidental poisonings continue to occur. The attractive berries are particularly dangerous to children, who may consume them in quantity. Symptoms of belladonna poisoning include dilated pupils, blurred vision, rapid heartbeat, dry mouth, difficulty urinating, hallucinations, convulsions, and in severe cases, death from respiratory failure.
 
-The narrow therapeutic window of belladonna alkaloids — the small difference between a medicinal dose and a lethal dose — has made these compounds both valuable and dangerous throughout history. Modern pharmaceutical preparations use carefully controlled doses of purified alkaloids, but the crude plant material remains hazardous and should never be consumed without expert supervision.
+The narrow [[blesching-cannabis-therapeutic-window-dosing]] of belladonna alkaloids — the small difference between a medicinal dose and a lethal dose — has made these compounds both valuable and dangerous throughout history. Modern pharmaceutical preparations use carefully controlled doses of purified alkaloids, but the crude plant material remains hazardous and should never be consumed without expert supervision.
 
 ## Cultural Legacy
 
@@ -56,7 +56,7 @@ In the history of [[henbane-hyoscyamus-niger-ethnobotany]] and [[solanaceous-hal
 
 ## Historical Context
 
-Belladonna (Atropa belladonna) has one of the most extensive and dramatic histories of any psychoactive plant in Western civilization. Known as "deadly nightshade," the plant has been associated with witchcraft, poison, and medicine in European culture for over two millennia. The genus name Atropa derives from Atropos, one of the three Fates of Greek mythology who cuts the thread of life, reflecting the plant's reputation for both healing and killing.
+Belladonna (Atropa belladonna) has one of the most extensive and dramatic histories of any psychoactive plant in Western civilization. Known as "deadly nightshade," the plant has been associated with witchcraft, poison, and medicine in [[fukuoka-road-european-culture-of-food]] for over two millennia. The genus name Atropa derives from Atropos, one of the three Fates of Greek mythology who cuts the thread of life, reflecting the plant's reputation for both healing and killing.
 
 Throughout the medieval and early modern periods, belladonna was a central ingredient in the ointments and flying potions attributed to witches. Modern scholars have proposed that the reported experiences of "flying" may have been the result of tropane alkaloid-induced delirium, combined with the topical absorption of atropine and scopolamine through the mucous membranes when the ointments were applied to sensitive body areas.
 
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

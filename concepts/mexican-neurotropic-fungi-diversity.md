@@ -26,7 +26,7 @@ related_concepts:
 
 Mexico possesses the highest diversity of neurotropic fungi of any country
 on Earth, with 76 known species representing approximately one-third of
-all documented neurotropic fungal species globally. This extraordinary
+all documented [[mexico-center-neurotropic-fungal-biodiversity]] species globally. This extraordinary
 concentration is the product of Mexico's complex geography, varied climate,
 and the deep cultural integration of these fungi into indigenous traditions
 that spans millennia.
@@ -53,7 +53,7 @@ generated.
 
 Guzmán documented more than 200 common names for neurotropic fungi
 across Mexico's indigenous languages. Many of these names reveal the
-cultural significance attributed to the mushrooms. Among the most
+[[ethnomycology-cultural-significance-sacred-fungi]] attributed to the mushrooms. Among the most
 notable are *teonanácatl* (Nahuatl: "divine mushroom"), first
 recorded by the 16th-century Franciscan friar Bernardino de Sahagún,
 as well as names translating to "little boy" (*apipiltzin*), "mayor or
@@ -63,7 +63,7 @@ leader" (*atkad*), "fungus of the genius" (*di nizé taaya*), and
 The most commonly used Spanish names among indigenous communities are
 *san isidros* (after Saint Isidore, patron of agriculture), *pajaritos*
 (little birds), and *derrumbes* (landslides). These names are most
-frequently associated with *Psilocybe cubensis*, *P. mexicana*, and
+frequently associated with *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*, *P. mexicana*, and
 *P. zapotecorum*, respectively.
 
 ## Geographic Distribution Within Mexico
@@ -78,13 +78,13 @@ The varied topography of these regions — spanning tropical lowlands,
 temperate oak-pine forests, subtropical cloud forests, and high-altitude
 paramo — creates numerous microhabitats suitable for different
 Psilocybe species. Altitudinal gradients in states like Oaxaca allow
-species from different climate zones to coexist within relatively
+species from different [[mollison-climate-zones-permaculture-strategies]] to coexist within relatively
 compact geographic areas.
 
 ## Key Species
 
 Among the most culturally and scientifically significant Mexican
-neurotropic species are *Psilocybe mexicana*, the species first
+neurotropic species are *[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]*, the species first
 identified by Schultes in 1939 and later studied extensively by
 Wasson and Heim; *P. cubensis*, one of the most widely distributed
 and cultivated neurotropic fungi globally; and *P. zapotecorum*, a
@@ -100,7 +100,7 @@ initial surveys.
 ## Historical Documentation
 
 The use of neurotropic fungi in Mexico was first brought to widespread
-scientific attention through the work of Richard Evans Schultes in 1938-
+scientific attention through the work of Richard [[richard-evans-schultes-updated]] in 1938-
 1939, who documented Mazatec use of *Psilocybe* species in Oaxaca.
 This was followed by the famous expeditions of R. Gordon Wasson and his
 wife Valentina Pavlovna Wasson in the 1950s, which included the first

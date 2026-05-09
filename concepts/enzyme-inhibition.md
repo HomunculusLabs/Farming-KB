@@ -83,7 +83,7 @@ Allosteric inhibitors bind outside the active site and alter conformational ense
 do not resemble the substrate and permits cooperative behavior in multimeric enzymes.
 
 Protein inhibitors also control enzymes. Serpins regulate proteases, cyclins and CDK inhibitors regulate cell-cycle kinases, and
-many signaling pathways depend on protein- protein interactions that occlude active sites or change catalytic conformations.
+many [[plant-signaling-pathways]] depend on protein- protein interactions that occlude active sites or change catalytic conformations.
 
 Reversible inhibition is especially useful for physiology because it can be rapidly tuned. Irreversible inhibition is more common
 in defense, toxicity, and pharmacology where durable suppression of a target is desired.
@@ -99,15 +99,15 @@ substrates. Many antiviral and antibacterial strategies exploit this principle b
 enzymes.
 
 Selectivity is a central challenge. Kinases, proteases, phosphodiesterases, and cytochrome P450 enzymes belong to families with
-similar active sites, so an inhibitor designed for one member may inhibit related enzymes and cause adverse effects.
+similar active sites, so an inhibitor designed for one member may inhibit related enzymes and cause [[adverse-effects-and-harm-reduction-psilocybin]].
 
-Covalent inhibitors have regained importance in modern drug design. Electrophiles can be tuned to react with a specific cysteine,
+Covalent inhibitors have regained importance in modern [[bioisosterism-in-drug-design]]. Electrophiles can be tuned to react with a specific cysteine,
 serine, lysine, or tyrosine near a binding pocket, combining reversible recognition with controlled covalent capture.
 
 ## Toxicology
 
 Many poisons are enzyme inhibitors. Cyanide inhibits cytochrome c oxidase, organophosphates inhibit acetylcholinesterase, heavy
-metals inhibit enzymes by binding thiols, and some mushroom toxins inhibit RNA polymerase or protein phosphatases.
+metals inhibit enzymes by binding thiols, and some [[mushroom-toxins-and-poisoning]] inhibit RNA polymerase or protein phosphatases.
 
 Toxicity depends on target essentiality, reversibility, tissue exposure, compensation by parallel pathways, and the time required
 for new enzyme synthesis. Irreversible inhibition of a small but essential enzyme pool can be lethal even when the inhibitor
@@ -135,12 +135,12 @@ auxiliary enzyme used to detect NADH, ATP, phosphate, or chromogenic product for
 Enzyme inhibition is closely tied to [[allosteric-regulation]], [[cannabis-therapeutic-index-overview]], and [[reactive-metabolites-and-bioactivation-toxicology]]. It connects molecular recognition to organism-
 level pharmacology and toxicology.
 
-The same mathematical language appears in receptor pharmacology, transporter inhibition, and drug-drug interaction prediction. The
+The same mathematical language appears in [[cannabis-cannabinoid-receptor-pharmacology]], transporter inhibition, and drug-drug interaction prediction. The
 biochemical mechanism, however, must always be checked against the physical chemistry of the actual enzyme system.
 
 ## References
 
-- Cornish-Bowden, A. Fundamentals of Enzyme Kinetics.
+- Cornish-Bowden, A. Fundamentals of [[enzyme-kinetics-michaelis-menten-model]].
 - Copeland, R. A. Evaluation of Enzyme Inhibitors in Drug Discovery.
 - Walsh, C. Enzymatic Reaction Mechanisms.
 - Wikipedia: Enzyme inhibitor and Michaelis-Menten kinetics, consulted for orientation

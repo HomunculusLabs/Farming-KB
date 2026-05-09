@@ -53,14 +53,14 @@ Definitely an "up" experience with lots of physical energy. Visual aspect can be
 ## Combinations
 
 - **Ecstasy:** Frequently combined. In therapeutic use, 2C-B is taken at the tail end of the ecstasy experience to develop and retain insights. Turner also had excellent results with small ecstasy (80 mg) taken 1.5 hours after 2C-B, producing incredibly deep empathogenic content.
-- **Ketamine:** Combines quite remarkably (see Multiple Combinations chapter).
+- **Ketamine:** Combines quite remarkably (see [[turner-multiple-combinations-cosmic-synergism]] chapter).
 - **MAO Inhibitors:** May be significantly intensified and possibly dangerous.
 
 ## Duration and Timeline
 
 A typical 2C-B experience lasts 4-8 hours depending on dose. Onset occurs within 30-60 minutes. Peak effects are reached around 1.5-2 hours. The comedown is generally smooth, though some users report a residual stimulation lasting several hours after perceptual effects fade. Unlike MDMA, 2C-B does not typically produce significant next-day depression or "Tuesday blues," though sleep may be difficult for several hours after the experience. Some experienced users recommend having a light snack before the session to reduce nausea, and keeping a calm environment available for the comedown phase.
 
-The dose-response curve for 2C-B is notably non-linear. While 16 mg may produce gentle perceptual enhancement, 24 mg can produce full-blown psychedelic experiences with intense visuals and ego dissolution. This steep curve is one reason experienced psychonauts advise first-time users to start with low doses and work up gradually over multiple sessions. See [[6-mapb]] Topics
+The dose-response curve for 2C-B is notably non-linear. While 16 mg may produce gentle perceptual enhancement, 24 mg can produce full-blown psychedelic experiences with intense visuals and [[psilocybin-ego-dissolution-mechanisms]]. This steep curve is one reason experienced psychonauts advise first-time users to start with low doses and work up gradually over multiple sessions. See [[6-mapb]] Topics
 
 - [[mescaline-peyote-san-pedro-cactus]]
 - [[turner-psychedelic-combination-experience-reports]]
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,30 +1,22 @@
 ---
 title: Coral Fungi Clavariaceae
 created: 2026-04-28
-tags: [[mycology, clavariaceae, taxonomy, edible-fungi, classification]
+tags: [mycology, clavariaceae, taxonomy, edible-fungi, classification]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
 type: concept
 ---
-
-# Coral Fungi (Clavariaceae)
-
-The Clavariaceae, commonly known as fairy club or coral
-fungi, constitute one of the five principal families of
-fleshy fungi within the order Basidiomycetes. They are
-characterized by a spore-bearing surface that may cover
-practically the entire sporophore, in contrast to the
-gills of [[mushroom-classification-basidiomycete-families]]
+# Coral Fungi (Clavariaceae) The Clavariaceae, commonly known as fairy club or coral fungi, constitute one of the five principal families of fleshy fungi within the order Basidiomycetes. They are characterized by a spore-bearing surface that may cover practically the entire sporophore, in contrast to the gills of [[mushroom-classification-basidiomycete-families]]
 - [[pore-fungi-polyporaceae]]
 - [[puff-balls-lycoperdaceae]]
 
 ## References
 
-- Duggar, B.M. Mushroom Growing. Macmillan, 1915.
+- Duggar, B.M. [[duggar-mushroom-growing-history-and-methods]]. Macmillan, 1915.
 - Atkinson, G.F. Mushrooms: Edible, Poisonous, etc.
   1900.
-- Morgan, A.P. "North American Fungi." J. Cinc. Soc.
+- Morgan, A.P. "[[growing-gourmet-north-american-reishi-species]] Fungi." J. Cinc. Soc.
 ## Practical Applications
 
 Coral Fungi Clavariaceae has a range of practical applications that make it relevant to
@@ -102,4 +94,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

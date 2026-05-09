@@ -56,12 +56,12 @@ to be widespread.
 
 ### Chemistry
 Apparently active. Listed by Guzman (1983) under psilocybin-producing
-varieties because of its bluing reaction. Exact alkaloid content has not
+varieties because of its [[field-guide-psilocybin-bluing-reaction-identification]]. Exact alkaloid content has not
 been formally quantified.
 
 ## Relevance
 Psilocybe brasiliensis represents the underexplored mycodiversity of
-South American Araucaria forests, a unique biome dominated by the
+[[chiric-caspi-brunfelsia-south-american-hallucinogen]] Araucaria forests, a unique biome dominated by the
 iconic Brazilian pine (Araucaria angustifolia). This forest type is
 among the most threatened ecosystems in Brazil, giving P. brasiliensis
 ecological significance as a potential indicator species.
@@ -69,7 +69,7 @@ ecological significance as a potential indicator species.
 Stamets noted that if more Brazilian mycologists were aware of this
 species, its range would be better documented. As a grassland species
 growing among Araucaria and Podocarpus, it may be well-suited for
-cultivation in tropical environments. The grass substrate (Axonopus
+cultivation in tropical environments. The [[juncao-grass-substrate-technique]] (Axonopus
 compressus) suggests potential for adaptation to cultivated grass-based
 substrates.
 

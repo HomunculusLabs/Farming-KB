@@ -11,20 +11,21 @@ tags:
   - water-management
   - mollison
 sources:
-  - raw/papers/bill-mollison-permaculture-design-course.md
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
 ---
 
 # Permaculture Slope Analysis and Reading
 
-Understanding slopes, contours, and landform is essential to permaculture design. Bill Mollison devotes significant attention in the Permaculture Design Course to reading landforms and working with topography to manage water, access, and planting. Slope analysis determines where water flows, where frost settles, where soils are deep or shallow, and where different land uses are appropriate.
+Understanding slopes, contours, and landform is essential to [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. Bill Mollison devotes significant attention in the Permaculture [[permaculture-design-course-methodology]] to reading landforms and working with topography to manage water, access, and planting. Slope analysis determines where water flows, where frost settles, where soils are deep or shallow, and where different land uses are appropriate.
 
 ## Why Slope Matters
 
 Every design decision on a sloped site is affected by gravity and water movement:
 
 - **Water flows downhill**: The primary principle governing placement of all earthworks
-- **Cold air drains downhill**: Frost collects in valleys and low points
+- **[[hemenway-cold-air-drainage-and-frost-management]] drains downhill**: Frost collects in valleys and low points
 - **Soil depth varies**: Ridge tops are often shallow; valleys accumulate deeper soil
 - **Solar aspect changes**: South-facing slopes (Northern Hemisphere) receive more sun
 - **Access design**: Roads and paths must follow the contour or account for gradient
@@ -77,7 +78,7 @@ The keyline is a contour line that runs through the keypoint. It extends across 
 - Easy to work with machinery
 - Water drainage can be a problem
 - Suitable for intensive gardens, orchards, buildings
-- May need drainage channels or raised beds
+- May need drainage channels or [[comparison-raised-beds-vs-hugelkultur]]
 
 ### 3-10 degrees (Gentle Slope)
 - Good drainage with manageable water flow
@@ -107,7 +108,7 @@ Mollison distinguishes between two landform profiles:
 - Water collects and flows downhill
 - Keypoint dams are the primary water storage
 - Soils are generally deeper and more fertile
-- The valley floor is the most productive agricultural land
+- The valley floor is the most productive [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]]
 
 ### Ridge Profile
 - Water drains away from ridges

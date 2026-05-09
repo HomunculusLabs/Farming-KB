@@ -1,5 +1,5 @@
 ---
-title: Bare Ground and Soil Exposure
+title: savory bare ground and soil exposure and Soil Exposure
 created: 2026-04-28
 tags: [soil-health, erosion, ecosystem-management]
 date: 2026-04-25
@@ -21,9 +21,9 @@ temperature fluctuations and less moisture retention.
 
 Bare ground arises from multiple causes that often compound one another:
 
-- Prolonged [[savory-brittle-environments]], which allows old growth to choke
+- Prolonged [[savory-brittle-environments]], which allows [[fungal-roles-in-old-growth-forests]] to choke
   plants and soil surfaces to cap
-- [[savory-fire-as-management-tool]], which removes ground cover and
+- [[savory-fire-as-management-tool]], which removes [[fukuoka-citrus-orchard-ground-cover-cultivation]] and
   exposes vast areas of soil
 - Low [[savory-non-brittle-environments]]
 bare areas tend to recover rapidly because biological decay processes

@@ -1,26 +1,32 @@
 ---
-title: Duck Pond Systems
+title: [[permaculture-designers-manual-animal-forage-systems]] Duck Pond Systems
 created: 2026-04-18
-updated: 2026-04-21
+updated: 2026-05-09
 type: concept
-tags: [[permaculture, ducks, water-management]
+tags: [permaculture, ducks, water-management]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-
 # Duck Pond Systems
 
 **Source:** Permaculture: A Designers' Manual, Bill Mollison (1988)
-**Updated:** 2026-04-18
+**Updated:** 2026-05-09
 
 ## Overview
 
-Ducks integrate naturally into permaculture pond systems, providing pest control, manure fertilisation, egg production, and forage management. Mollison emphasises that ducks are among the most useful small livestock for integrated aquatic and garden systems, performing multiple functions simultaneously.
+Ducks integrate naturally into permaculture pond systems, providing pest
+control, manure fertilisation, egg production, [[hay-and-forage-management]].
+Mollison emphasises that ducks are among the most useful small livestock for
+integrated aquatic and garden systems, performing multiple functions
+simultaneously.
 
 ## Ducks in Village and Garden Systems
 
-In the humid tropics village complex model (Fig 10.29), ducks are listed among the border-range animals kept around house compounds, alongside chickens, guinea pigs, rabbits, small pigs, and pigeons. These animals serve as a direct manure resource for the garden and fish ponds below their housing.
+In the humid tropics village complex model (Fig 10.29), ducks are listed among
+the border-range animals kept around house compounds, alongside chickens,
+guinea pigs, rabbits, small pigs, and pigeons. These animals serve as a direct
+manure resource for the garden and fish ponds below their housing. The village
+checklist includes:
 
-The village checklist includes:
 - Fish ponds placed under animal housing to receive manure
 - Border ranges for chickens, guinea pigs, ducks, rabbits, small pigs
 - Strong yards for cattle and pigs at commercial level
@@ -29,65 +35,88 @@ The village checklist includes:
 
 ## Duck Ponds in Aquaculture
 
-Ducks form an integral part of prawn and fish pond systems. In the aquaculture income analysis (Section 13), Mollison notes that 10-20 prawn ponds integrated with ducks, mussels, and edge plants constitutes 2 full-time jobs, and about 5 hectares is estimated to provide a full family income in high-value product.
+Ducks form an integral part of prawn and fish pond systems. In the aquaculture
+income analysis (Section 13), Mollison notes that 10 to 20 prawn ponds
+integrated with ducks, mussels, and edge plants constitutes 2 full-time jobs,
+and about 5 hectares is estimated to provide a full family income in high-value
+product. Surface ponds of various sizes serve multiple purposes:
 
-Surface ponds of various sizes serve multiple purposes:
 - Duck forage and swimming
 - Garden water supply
 - Water leaf crop irrigation
 - Animal drinking water
 - Roof run-off catchment
 
+The integration of ducks with aquaculture creates a productive polyculture
+where duck manure fertilizes algae and zooplankton that feed fish, while
+ducks consume aquatic weeds, snails, and insect pests that would otherwise
+compete with or damage fish stocks. This reciprocal relationship reduces
+the need for external feed inputs and [[cannabis-chemical-fertilizers]].
+
 ## Duck Forage Plants
 
-The farm forestry section (Section 12.10) lists aquatic and edge plant nurseries as providing:
-- Fish forages
-- Insectary species
-- Marshland perennials for bee fodders
-- Duck forage species
-- Wildlife refuge plants
+The [[farm-forestry-design-mollison]] section (Section 12.10) lists aquatic and edge plant
+nurseries as providing fish forages, insectary species, marshland perennials
+for bee fodders, duck forage species, and wildlife refuge plants. Edge
+plantings around duck ponds should include species that provide shade and
+shelter for ducks, filter water entering and leaving the pond, and produce
+edible seeds or foliage for duck consumption.
 
-Edge plantings around duck ponds should include species that:
-- Provide shade and shelter for ducks
-- Filter water entering and leaving the pond
-- Supply food directly to ducks (duck potato/Sagittaria spp., duckweed)
-- Attract insects that ducks consume
-- Generate mulch and organic matter for pond health
+Duckweed (Lemna species) is one of the most productive aquatic forage plants
+for ducks, capable of doubling its biomass every 2 to 3 days under favorable
+conditions. Duckweed provides up to 35 to 40 percent crude protein and can be
+harvested continuously from the pond surface. Other useful aquatic forage
+species include water hyacinth (where it can be managed without becoming
+invasive), water spinach, and various pondweeds.
 
-## Integration with Other Systems
+Terrestrial forage species around duck ponds include comfrey, chicory,
+plantain, and clovers. These deep-rooted perennials are resilient to
+grazing and provide nutritious green feed during seasons when aquatic
+forage is less productive. Ducks will also consume slugs, snails, and
+insect pests from garden areas, making them valuable [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]]
+agents when allowed to forage in food production zones.
 
-Ducks perform valuable functions across multiple permaculture zones:
+## Pond Design for Duck Integration
 
-**Zone 1 (Home garden):** A few ducks can patrol garden edges, consuming snails, slugs, and insect pests. Their manure fertilises garden beds. Small duck ponds can be sited to receive greywater after filtration.
+Duck ponds should be designed with sloping entry and exit points to allow
+ducks easy access in and out of the water. The water depth should vary from
+shallow edges (15 to 30 centimeters) for dabbling to deeper zones (60 to
+100 centimeters) for swimming. Islands within the pond provide safe nesting
+sites and predator-free resting areas for ducks.
 
-**Zone 2 (Orchard):** Ducks released into orchards scavenge windfall fruit that would otherwise breed fruit fly and codling moth larvae. They help control ground covers and provide manurial turnover for orchard trees.
+The pond shape influences water circulation [[savory-dung-behavior-and-nutrient-distribution]].
+Irregular shorelines with bays and peninsulas create diverse microhabitats
+for both ducks and the aquatic plants and animals that support the
+integrated system. The edges should be planted with a graduated sequence
+of species from emergent reeds at the waterline to moisture-loving
+perennials on the banks, creating a natural filtration buffer zone.
 
-**Zone 3 (Farm forestry):** Ducks on farm ponds integrate with fish breeding operations. Ponds in forest edges provide wildlife refuge and insect control.
+Water quality management in duck ponds relies on biological processes
+rather than chemical treatments. The manure input from ducks feeds
+phytoplankton and zooplankton populations that form the base of the
+aquatic food web. Excess nutrients are taken up by aquatic plants, which
+are harvested as duck forage or compost material, closing the nutrient
+loop within the system.
 
-## Health and Safety Considerations
+## Duck Breeds and Management
 
-Mollison notes that surface ponds used by ducks can be a source of cross-infection in children. The sensible approach is:
-- Swim in the main lagoon, not small duck ponds
-- Drink from tank water, not pond water
-- Seawater can serve for many toilet uses where available
-- Ensure pond systems include natural filtration through rush beds and reed beds before water reaches gardens or forests
+Mollison references Muscovy ducks as particularly well-suited to
+permaculture systems. Muscovy ducks are hardy, prolific foragers, and
+relatively quiet compared to other domestic duck breeds. They are
+effective at controlling mosquito larvae, snails, and slugs in garden
+and pond environments. Khaki Campbell ducks are another excellent choice
+for permaculture systems, known for their high egg production (up to 300
+eggs per year) and calm temperament.
 
-## Duck and Goose for Lawn Management
-
-The development of lawns traces back to short-cropped vistas created by geese and sheep on rural estates in cool humid climates. A USDA Yearbook photo from 1897 shows a flock of sheep grazing in Central Park, New York, described as "the lawn mowers or turf makers of the park." Geese similarly maintain short grass swards with minimal energy input.
-
-## Design Principles
-
-1. **Multiple functions:** Duck ponds should serve water storage, aquaculture, irrigation, wildlife habitat, and recreation simultaneously
-2. **Edge diversity:** Maximise pond edge with irregular shapes, marsh zones, and planted margins
-3. **Water flow:** Design ponds to receive filtered greywater and shed clean water to gardens via drip lines
-4. **Integration:** Place duck housing above ponds so manure fertilises the water system
-5. **Species selection:** Choose duck breeds suited to local climate; some forage better, some lay more eggs
-6. **Predator protection:** Include island refuges, floating shelters, or netted enclosures where predators are a concern
+Duck housing should be positioned above and adjacent to the pond so that
+manure is naturally washed into the water by rainfall. A simple
+slatted-floor shelter allows droppings to fall directly into a collection
+area or water channel leading to the pond. Night housing protects ducks
+from predators and provides a secure location for egg collection. The
+housing should be well-ventilated but protected from wind and rain.
 
 ## Related Topics
 
-- [[permaculture-designers-manual-chinampa-systems]] - Integrated water-garden systems
-- [[permaculture-designers-manual-animal-forage-systems]] - Forage design for livestock
-- [[permaculture-designers-manual-aquaculture-species]]
+- [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
 - [[permaculture-designers-manual-animal-housing-detailed]]
+- [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]

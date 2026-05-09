@@ -1,5 +1,5 @@
 ---
-title: Urban Permaculture Homesteading
+title: pdc-urban-permaculture-design-principles Homesteading
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -11,7 +11,7 @@ tags: [culture, homesteading, permaculture]
 # Urban Permaculture [[permaculture-design]]
 principles to small residential properties within cities and suburbs. It
 transforms conventional yards into productive food-growing ecosystems that
-integrate water harvesting, energy efficiency, food production, and community
+integrate water harvesting, [[fukuoka-textdoc-energy-efficiency-agricultural-labor]], food production, and community
 building into compact urban spaces.
 
 ## The Greensboro Model
@@ -35,7 +35,7 @@ trees, bushes, and herbs.
 
 The backyard was designed with more specific permaculture training:
 
-- Fruit bushes and insectary plants
+- [[holzer-soft-fruit-bushes-and-berries]] and insectary plants
 - Three ponds for greywater filtration, wildlife habitat, and irrigation
 - [[passive-solar-design]]
 
@@ -45,7 +45,7 @@ The backyard was designed with more specific permaculture training:
   the house in summer, dying back for full solar gain in winter
 - Double-glazed windows replacing rotten single-pane units
 - Elimination of west-facing glass to reduce summer heat gain
-- Passive solar "bread box" water heater on the roof
+- [[comparison-passive-solar-vs-earth-sheltered]] "bread box" water heater on the roof
 
 ## Guild Design in Small Spaces
 
@@ -58,7 +58,7 @@ filled with mutually beneficial plants:
 - Canopy: fruit trees
 - Understorey: berry bushes and small fruiting trees
 - Herb layer: yarrow, clover, borage, nettles, comfrey
-- Ground cover: nitrogen-fixing legumes
+- [[fukuoka-citrus-orchard-ground-cover-cultivation]]: nitrogen-fixing legumes
 - Root layer: [[perennial-vegetables]]
 
 ### The Chicken Integration
@@ -78,7 +78,7 @@ As many elements as possible serve multiple functions:
 - Ponds provide wildlife habitat, greywater filtration, irrigation storage,
   and aesthetic beauty
 - Trellis vines provide summer shade, winter solar access, and food
-- Water tanks provide thermal mass, frost protection, and irrigation
+- Water tanks provide thermal mass, [[holzer-frost-protection-techniques]], and irrigation
 
 ## The Social Dimension
 

@@ -1,5 +1,5 @@
 ---
-title: "Truffle Cultivation vs Indoor Mushroom Cultivation"
+title: "comparison truffle cultivation basics vs mushroom indoor cultivation vs Indoor accessible-mushroom-cultivation-for-disabilities"
 created: 2026-04-28
 tags: [comparison, mycology, cultivation, fungi]
 date: 2026-04-25
@@ -32,7 +32,7 @@ cycle: colonization, pinning, and fruiting.
 The process begins with inoculating grain spawn with mushroom mycelium from
 spore syringes, agar cultures, or liquid culture. Once the spawn is fully
 colonized, it is mixed with a bulk substrate such as CVG (coconut coir,
-vermiculite, gypsum) or supplemented sawdust. Colonization takes 2-4 weeks
+vermiculite, gypsum) or [[oyster-mushroom-supplemented-sawdust-blocks]]. Colonization takes 2-4 weeks
 for grain spawn and 2-6 weeks for bulk substrates. Pinning is triggered by
 temperature drops, increased humidity (90-95%), and introduction of fresh air
 exchange. Fruiting occurs at species-specific temperature ranges with 85-92%
@@ -42,7 +42,7 @@ Common indoor species include oyster mushrooms (Pleurotus spp.), shiitake
 (Lentinula edodes), lion's mane (Hericium erinaceus), and Psilocybe cubensis.
 The entire cycle from inoculation to harvest can take 4-12 weeks depending on
 species and method. Indoor cultivation allows year-round production,
-environmental control, and multiple flushes per substrate batch (typically
+[[eclss-environmental-control-life-support]], and multiple flushes per substrate batch (typically
 3-5). Contamination management is critical throughout: Trichoderma (green
 mold), cobweb mold, and bacteria are common threats that require vigilance.
 
@@ -54,7 +54,7 @@ mold), cobweb mold, and bacteria are common threats that require vigilance.
 | Timeline | 5-15 years to first harvest | 4-12 weeks to harvest |
 | Environment | Outdoor orchard | Indoor controlled environment |
 | Infrastructure | Land, trees, soil amendments | Tubs, humidifiers, lights |
-| Skill focus | Soil science, patience | Sterile technique, env. control |
+| Skill focus | Soil science, patience | [[cultivator-sterile-technique-and-agar-culture]], env. control |
 | Yield predictability | Highly variable | Relatively predictable |
 | Investment | High upfront, long payoff | Low upfront, quick returns |
 | Climate dependency | High (site-specific) | Low (climate-controlled) |
@@ -83,7 +83,7 @@ income. The soil biology knowledge from truffle cultivation (mycorrhizal
 ecology, pH management) transfers to understanding fungal biology in indoor
 systems. Additionally, spent indoor mushroom substrate can be composted and
 applied to truffle orchards as organic amendment, creating a closed-loop
-system that connects both cultivation methods productively.
+system that connects both [[synthetic-log-cultivation-methods-guide]] productively.
 
 ## See Also
 - [[comparison-spore-print-collection-vs-spore-syringe-production]]

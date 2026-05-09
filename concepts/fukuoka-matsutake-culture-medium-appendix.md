@@ -1,5 +1,5 @@
 ---
-title: Matsutake Natural Culture Medium Recipe
+title: fukuoka-matsutake-natural-culture-medium-microbiological-innovation fukuoka matsutake culture medium appendix Recipe
 created: 2026-04-28
 tags: [fukuoka, mycology, matsutake, fungal-culture, appendix]
 date: 2026-04-28
@@ -28,7 +28,7 @@ has proceeded very slowly due to two fundamental obstacles:
    difficult to achieve. The fungus is highly sensitive to laboratory
    conditions and resists standard isolation techniques.
 
-The [[agar]] media,
+The agar media,
 making it difficult to obtain sufficient quantities for practical
    cultivation. No other fungus is as difficult to culture as matsutake.
 
@@ -51,7 +51,7 @@ families.
 
 **Vegetable infusion ingredients (each 10 to 20 percent of weight):**
 
-3. **Convolvulaceae family** (morning glory): Tubers and stems from sweet
+3. **Convolvulaceae family** ([[golden-guide-morning-glory-and-ololiuqui]]): Tubers and stems from sweet
    potatoes and related species. These provide complex carbohydrates and
    growth-stimulating compounds.
 
@@ -107,19 +107,21 @@ appears to enhance both the nourishment of the hyphae and the formation of
 fruiting bodies. Vegetative propagation of the hyphae is possible to a certain
 extent with leaf mold and rice bran alone, but the vitamins and hormones
 contained within the vegetables, especially the growth hormones, play a
-critical role in triggering fruiting body formation.
+critical role in triggering fruiting [[suppressed-incomplete-fruit-body-formation-brassinosteroid-treatment]].
 
 ## Connection to [[fukuoka-desert-revegetation-natural-farming]]. The
-mycorrhizal fungi and beneficial microorganisms cultured in this medium can be
-incorporated into the inner layer of clay pellets, where they form symbiotic
+[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] and beneficial microorganisms cultured in this medium can be
+incorporated into the inner layer of [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]], where they form symbiotic
 relationships with germinating seeds and seedling roots, dramatically improving
 survival rates in harsh desert conditions. This reflects Fukuoka's principle
 that [[fukuoka-nature-transcends-human-knowledge]] that
 defies purely scientific approaches.
 ## See Also
 
+- [[fukuoka-matsutake-natural-culture-medium-microbiological-innovation]]
+
 - [[fukuoka-pine-blight-matsutake-portent]]
 - [[fukuoka-microbial-ecology-decomposition]]
-- [[fukuoka-soil-microbiology]]
+- [[soil-microbiology-in-natural-farming]]
 
 ## Related Topics

@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Cannabis has shown therapeutic potential for hepatitis, both for managing treatment side effects and for its immunomodulatory and hepatoprotective properties. Research from The Cannabis Health Index documents three studies with a CHI Value of 2.67.
+Cannabis has shown therapeutic potential for hepatitis, both for managing treatment side effects and for its immunomodulatory and hepatoprotective properties. Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] documents three studies with a CHI Value of 2.67.
 
 ## CHI Summary
 
@@ -63,7 +63,7 @@ THC has been shown to inhibit lytic replication of gamma oncogenic herpes viruse
 ## Food-as-Medicine Support
 
 ### Fennel (Foeniculum vulgare)
-**Hepatoprotective essential oil**: Ozbek et al. (2003) demonstrated hepatoprotective effects of fennel essential oil in rats with induced acute gastric mucosal injury. Fennel has been used traditionally for liver support across many healing traditions.
+**Hepatoprotective [[permaculture-designers-manual-essential-oil-plants]]**: Ozbek et al. (2003) demonstrated hepatoprotective effects of fennel essential oil in rats with induced acute gastric mucosal injury. Fennel has been used traditionally for liver support across many healing traditions.
 
 ### Holy Basil (Ocimum sanctum/gratissimum)
 - Gastro-protective properties against experimental ulcers
@@ -94,5 +94,5 @@ Hepatitis C patients on interferon/ribavirin therapy should consult with hepatol
 - [[cannabis-endocannabinoid-system]]
 - Cannabis For Inflammation
 - [[cannabis-anti-inflammatory-applications]]
-- [[mushroom-cytokine-production-immune-activation]]
+- mushroom-cytokine-production-immune-activation
 - [[cannabis-for-nausea-and-appetite-stimulation]]

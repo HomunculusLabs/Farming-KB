@@ -1,7 +1,7 @@
 ---
-title: fungal taxonomy and classification
+title: molecular-methods-fungal-taxonomy-and-diversity and classification
 created: 2026-04-28
-tags: [[mycology]], taxonomy, systematics, classification]
+tags: [mycology], taxonomy, systematics, classification]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -11,7 +11,7 @@ type: concept
 # fungal taxonomy and classification
 
 [[arbuscular-mycorrhizal-fungi]] that form symbioses with most land plants. The
-**Chytridiomycota** are primarily aquatic fungi with flagellated spores, and the
+**Chytridiomycota** are primarily [[bloomfield-ingoldian-aquatic-fungi-spore-dispersal]] with flagellated spores, and the
 **Blastocladiomycota** are a related group with complex [[cryptic-species]] that
 are reproductively isolated.
 
@@ -29,10 +29,10 @@ databases such as Fungal Names and MycoBank.
 
 ## Challenges and Future Directions
 
-The rate of taxonomic impediment fungal remains far too slow relative to the scale of
+The rate of taxonomic [[taxonomic-impediment-fungal-species-description]] remains far too slow relative to the scale of
 undescribed diversity. Molecular phylogenetics has created a growing backlog of
 phylogenetically distinct lineages that have not been formally named, sometimes
-called dark taxa. Citizen science initiatives and biodiversity inventory projects
+called [[fungal-dark-taxa-environmental-dna-sequencing]]. Citizen science initiatives and biodiversity inventory projects
 have accelerated species discovery but often lack the taxonomic expertise needed for
 formal description. Automated species delimitation methods using coalescent-based
 approaches and machine learning are being developed to help address this gap. The
@@ -55,7 +55,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -97,4 +97,7 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[arbuscular-mycorrhizal-fungi]]
+- [[cryptic-species]]
+- [[molecular-methods-fungal-taxonomy-and-diversity]]

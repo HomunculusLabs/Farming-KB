@@ -20,7 +20,7 @@ type: concept
 
 ## Overview
 
-The EMCDDA 2006 thematic paper documented the phenomenology of adverse reactions to hallucinogenic mushrooms and the medical responses available for acute intoxication events. While psilocybin-containing mushrooms carry relatively low acute toxicity, the psychological risks associated with "bad trips" represent the most clinically significant consequence of recreational use.
+The EMCDDA 2006 thematic paper documented the phenomenology of adverse reactions to [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] and the medical responses available for acute intoxication events. While psilocybin-containing mushrooms carry relatively low acute toxicity, the psychological risks associated with "bad trips" represent the most clinically significant consequence of recreational use.
 
 ## Defining the Bad Trip
 
@@ -45,10 +45,10 @@ These symptoms represent a spectrum from manageable discomfort to acute psychoti
 
 The EMCDDA identified several factors that influence whether a mushroom experience becomes problematic:
 
-- **Dose**: Higher doses increase the probability of overwhelming psychological effects
+- **Dose**: Higher doses increase the probability of overwhelming [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]]
 - **Individual sensitivity**: Reactions vary greatly between individuals and between episodes within the same person
 - **Previous experience**: Novice users may lack the familiarity to navigate intense effects
-- **Set and setting**: The user's mental state and physical environment profoundly shape the quality of the experience
+- **[[lsd-set-and-setting-framework]]**: The user's mental state and physical environment profoundly shape the quality of the experience
 - **Polydrug use**: Combining mushrooms with alcohol or other substances can amplify negative reactions
 
 ## Physiological Accompaniments
@@ -83,7 +83,7 @@ The 2006 case study documented several fatal incidents associated with magic mus
 
 - A confirmed death in France attributed to ingestion of a large amount of mushrooms
 - A suicide in the Czech Republic in 2004 where hallucinogenic mushrooms were detected at autopsy
-- A March 2004 case in Manchester, UK, where a 31-year-old man died after leaping from a tower block window after consuming Hawaiian psilocybin mushrooms combined with alcohol; the coroner confirmed the contributory role of mushrooms with alcohol
+- A March 2004 case in Manchester, UK, where a 31-year-old man died after leaping from a tower block window after consuming Hawaiian [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] combined with alcohol; the coroner confirmed the contributory role of mushrooms with alcohol
 - A 2005 case in Dun Laoghaire, Ireland, where a 33-year-old man died after falling from the fourth floor of a building
 
 Notably, all documented fatalities involved either massive overdose, polydrug use (particularly alcohol), or dangerous behavior during acute intoxication rather than direct psilocybin toxicity.
@@ -92,7 +92,7 @@ Notably, all documented fatalities involved either massive overdose, polydrug us
 
 ### First Response
 
-The EMCDDA outlined a clear protocol for managing acute mushroom intoxication:
+The EMCDDA outlined a clear protocol for managing acute [[panaeolus-mushroom-intoxication-history]]:
 
 1. **Reassurance**: The primary first aid intervention is psychological calming and verbal reassurance
 2. **Harm prevention**: Prevent the intoxicated individual from harming themselves or others during the acute episode
@@ -121,7 +121,7 @@ Data from multiple EU countries indicated very low but consistent rates of emerg
 - Slovenia: 2 reported intoxications in 2005
 - Sweden: 30-40 calls annually to the Poisons Information Centre, remaining stable over five years
 
-The relatively low numbers reflect both the generally self-limiting nature of mushroom effects and the tendency of experienced users to manage difficult experiences without seeking formal medical help.
+The relatively low numbers reflect both the generally self-limiting nature of [[psychedelic-mushroom-effects-guide]] and the tendency of experienced users to manage difficult experiences without seeking formal medical help.
 
 ## Implications for Harm Reduction
 
@@ -136,5 +136,8 @@ The bad trip phenomenology documented by the EMCDDA supports several harm reduct
 ## Related Pages
 
 - [[emcdda-hallucinogenic-mushroom-health-risks]]
-- [[emcdda-hallucinogenic-mushroom-dose-effects-acute-pharmacology]]
+- emcdda-hallucinogenic-mushroom-dose-effects-acute-pharmacology
 - [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]]
+- [[set-and-setting]]
+- [[psilocybin-mushrooms]]
+- [[psilocybin-mushroom]]

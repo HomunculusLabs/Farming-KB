@@ -4,7 +4,9 @@ created: 2026-04-28
 tags: [comparison, growing-systems, food-forest, polyculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
 
@@ -14,8 +16,8 @@ type: comparison
 Food forests and polycultures both embrace diversity as the foundation of productive
 growing systems, moving beyond monoculture toward ecosystems that mimic natural plant
 communities. A food forest is a specifically designed multi-layered perennial system
-that replicates forest structure with canopy trees, understory trees, shrubs,
-herbaceous plants, ground covers, root crops, and vines. Polyculture is a broader term
+that replicates [[mollison-wet-tropical-forest-structure-and-polyculture]] with canopy trees, understory trees, shrubs,
+herbaceous plants, [[permaculture-plants-food-forest-ground-covers-bamboos]], root crops, and vines. Polyculture is a broader term
 for any multi-species planting scheme, often focused on annual vegetables growing
 together in dynamic, self-organizing communities. The key distinction is that food
 forests are defined by their perennial, layered architecture, while polycultures can
@@ -23,13 +25,13 @@ be annual, perennial, or mixed in any combination.
 
 ## Food Forest
 [[polyculture-design-hemenway]]
-Polyculture design, as articulated by Ianto Evans and other practitioners, creates
-dynamic multi-species plant communities that go beyond simple companion planting to
+[[aquatic-polyculture-design-mollison]], as articulated by Ianto Evans and other practitioners, creates
+dynamic multi-species plant communities that go beyond simple [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] to
 achieve true ecological integration. The approach seeds multiple varieties and species
 together, allowing them to self-organize, fill ecological niches, create living mulch
 that suppresses weeds, and confuse pests through biological complexity. Polycultures
 can include annual vegetables, herbs, flowers, and sometimes perennials in intensively
-managed garden beds that produce food throughout the growing season.
+managed garden beds that produce food throughout the [[savory-growing-season-and-non-growing-season-management]].
 
 Ianto Evans's design guidelines include seeding multiple varieties per species to
 ensure adaptation to local conditions, mixing plant families rather than just species
@@ -66,7 +68,7 @@ local experimentation to optimize.
 ## When to Choose a Food Forest
 Food forests are the best choice for landholders with a long-term perspective who want
 to establish a permanent, self-sustaining food-producing ecosystem. They suit properties
-of a quarter acre or more where tree planting is possible and where the owner plans to
+of a [[fukuoka-agriculture-tomorrow-quarter-acre-vision]] or more where tree planting is possible and where the owner plans to
 remain for many years to see the system mature. Food forests deliver the highest
 long-term return on investment of any growing system, producing diverse yields for
 decades with minimal ongoing inputs. They are ideal for homesteaders, rural properties,

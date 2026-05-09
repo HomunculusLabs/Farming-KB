@@ -1,15 +1,16 @@
 ---
-title: Fukuoka One Straw Revolution Philosophy
+title: Fukuoka One fukuoka-one-straw-revolution-conclusion Philosophy
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [natural-farming, philosophy, agriculture, gardening]
-sources: [raw/papers/one-straw-revolution-masanobu-fukuoka.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka One Straw Revolution Philosophy
 
-Masanobu Fukuoka's The One-Straw Revolution (1975) is a foundational text of natural farming. Fukuoka developed his method over 30 years on his family farm in Japan, arriving at a practice that requires no plowing, no fertilizers, no pesticides, and no weeding — producing yields comparable to conventional agriculture.
+Masanobu Fukuoka's The One-Straw Revolution (1975) is a foundational text of [[comparison-natural-farming-vs-permaculture]]. Fukuoka developed his method over 30 years on his family farm in Japan, arriving at a practice that requires no plowing, no fertilizers, no pesticides, and no weeding — producing yields comparable to conventional agriculture.
 
 ## Core Philosophy
 
@@ -29,13 +30,13 @@ Fukuoka famously said: "I eventually reached the conclusion that there was no ne
 
 1. **No Cultivation**: No plowing or tilling. Earthworms and plant roots naturally aerate soil
 2. **No Chemical Fertilizer**: No added fertilizers. Soil fertility comes from returning plant residues
-3. **No Weeding by Tillage or Herbicide**: Weeds are managed through ground covers and flooding, not eliminated
+3. **No Weeding by Tillage or Herbicide**: Weeds are managed through [[permaculture-plants-food-forest-ground-covers-bamboos]] and flooding, not eliminated
 4. **No Pesticides**: Nature maintains balance when not disturbed
 
 ## Natural vs Organic Farming
 
 Fukuoka distinguished sharply between natural farming and organic farming:
-- Organic farming still uses inputs (organic fertilizers, allowed pesticides) and is essentially a modified version of conventional agriculture
+- Organic farming still uses inputs ([[hamilton-organic-fertilizers-and-plant-nutrition]], allowed pesticides) and is essentially a modified version of conventional agriculture
 - Natural farming uses no inputs whatsoever — it works WITH nature, not as a substitute for conventional methods
 - The difference is philosophical, not just technical
 
@@ -47,6 +48,8 @@ Fukuoka criticized agricultural science for:
 - Ignoring the farmer's relationship with the land
 
 ## Related
+
+- [[fukuoka-sowing-green-philosophy-one-grain-revolution]]
 - [[fukuoka-natural-farming-four-principles]] — for the practical application
 - [[fukuoka-natural-farming-four-principles]] — for broader natural farming context
 - [[no-till-gardening-method]] — for modern no-till approaches
@@ -70,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

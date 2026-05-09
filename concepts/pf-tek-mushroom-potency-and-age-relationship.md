@@ -1,5 +1,5 @@
 ---
-title: PF Tek Mushroom Potency and Age Relationship
+title: PF Tek psilocybin-mushroom-potency-and-dosage-guide and Age Relationship
 created: 2026-04-28
 tags:
   - mushroom-potency
@@ -22,7 +22,7 @@ type: concept
 
 ## Overview
 
-One of the most important and counterintuitive findings in psychedelic mushroom cultivation is that smaller, younger mushrooms are significantly more potent than larger, mature specimens. This principle, emphasized throughout the PF Tek and supported by research from Jochen Gartz and others, has major implications for harvesting strategy, dosing, and overall yield optimization.
+One of the most important and counterintuitive findings in [[archaeology-of-psychedelic-mushroom-use]] cultivation is that smaller, younger mushrooms are significantly more potent than larger, mature specimens. This principle, emphasized throughout the PF Tek and supported by research from Jochen Gartz and others, has major implications for harvesting strategy, dosing, and overall yield optimization.
 
 ## The Potency-Age Principle
 
@@ -71,7 +71,7 @@ While individual aborts are tiny, "several cakes will produce quite a pile of th
 
 ### Baseline Potency
 
-"From the research of Jochen Gartz, it has been shown that P. Cubensis can achieve a base line psilocybin content of 1% (similar to Psilocybe Semilanceata)." This 1% figure puts properly cultivated P. cubensis on par with the legendary liberty cap (*Psilocybe semilanceata*), which is widely regarded as one of the most potent naturally occurring psychedelic mushrooms.
+"From the research of Jochen Gartz, it has been shown that P. Cubensis can achieve a base line psilocybin content of 1% (similar to [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]])." This 1% figure puts properly cultivated P. cubensis on par with the legendary liberty cap (*Psilocybe semilanceata*), which is widely regarded as one of the most potent naturally occurring psychedelic mushrooms.
 
 ### Conditions for Maximum Potency
 
@@ -80,7 +80,7 @@ Gartz's findings establish that achieving this potency level "entirely depends" 
 1. **Substrate**: Brown rice as the growing medium
 2. **Age**: Young mushrooms, harvested before maturity
 3. **Sporulation cycle**: Pre-sporulation harvest (before significant spore production begins)
-4. **Harvesting and preservation**: Cool desiccant drying, or consumption fresh
+4. **Harvesting and preservation**: Cool [[mushroom-desiccant-drying-methods]], or consumption fresh
 
 ## Harvesting Strategy
 
@@ -101,7 +101,7 @@ PF's definitive statement: "Grow them on brown rice, harvest them when they are 
 
 ### Mature Specimens: Use for Spores
 
-Mature specimens, while weaker for consumption, "are good for spore collecting and showcasing." Their reduced potency does not affect their reproductive capacity. PF recommends maintaining a separate harvest strategy: young specimens for consumption, mature specimens for spore printing.
+Mature specimens, while weaker for consumption, "are good for spore collecting and showcasing." Their reduced potency does not affect their reproductive capacity. PF recommends maintaining a separate harvest strategy: young specimens for consumption, mature specimens for [[mushroom-spore-printing-and-storage]].
 
 ## Drying and Potency Preservation
 
@@ -121,7 +121,7 @@ The recommended method is desiccant drying at cool temperatures. "For the best a
 
 ## Dosage Implications
 
-The potency variation by age has direct implications for dosing. A gram of dried young mushrooms will produce significantly stronger effects than a gram of dried mature mushrooms. When combining harvests of different ages, users should be aware that the potency is not uniform.
+The [[psilocybe-cubensis-potency-variation-by-flush]] by age has direct implications for dosing. A gram of dried young mushrooms will produce significantly stronger effects than a gram of dried mature mushrooms. When combining harvests of different ages, users should be aware that the potency is not uniform.
 
 Paul Stamets, as quoted by PF, provides dosage guidance using *P. semilanceata* as the standard:
 
@@ -139,6 +139,11 @@ Individual sensitivity varies enormously. Stamets reported one mycologist who ne
 
 ## See Also
 
+- [[pf-tek-mushroom-morphology-and-lifecycle-stages]]
+
 - [[pf-tek-desiccant-drying-technique]]
 - [[pf-tek-alcohol-extraction-method]]
-- [[gartz-tryptamine-enrichment-psilocybin-biosynthesis]]
+- gartz-tryptamine-enrichment-psilocybin-biosynthesis
+- [[mushroom-cultivation]]
+- [[psilocybe-semilanceata]]
+- [[mushroom-harvesting-potency]]

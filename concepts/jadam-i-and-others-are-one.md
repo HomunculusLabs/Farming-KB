@@ -45,10 +45,10 @@ What makes bad food for humans?
 - Eating poisonous food
 
 What makes bad fertilizer for crops?
-- Compost from animal manure often contains antibiotics
-- Chemical fertilizers and pesticides poison the soil
+- Compost from [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] often contains antibiotics
+- [[cervantes-chemical-fertilizers-guide]] and pesticides poison the soil
 - Excessive input of nutritionally unbalanced fertilizers (like press cakes) disrupts plant metabolism
-- Heavy metals and toxins accumulate
+- [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] and toxins accumulate
 
 Just as overeating with unbalanced diet causes obesity and disease in humans, overfertilization with nutritionally unbalanced inputs causes problems in crops. This manifests as:
 - Early flowering
@@ -81,7 +81,7 @@ In the soil:
 Just as eating only one type of food (even a healthy one) leads to deficiency, using only one type of fertilizer (even organic) leads to nutrient imbalance. The solution is the same: a balanced, diverse diet/fertilizer.
 
 ### "From the soil you demand fruits, yet you give peels!"
-This is JADAM's powerful critique of using rice bran, perilla pulp, and press cakes as primary fertilizers. These are leftovers -- peels and skins. You cannot expect big fruits from feeding crops peels.
+This is JADAM's powerful critique of using [[jadam-rice-bran-problems]], perilla pulp, and press cakes as primary fertilizers. These are leftovers -- peels and skins. You cannot expect big fruits from feeding crops peels.
 
 ## Philosophical Depth
 
@@ -94,6 +94,8 @@ In farming, this means: deeply understand your own body's health, and you will u
 If farmers can understand farming through understanding themselves, then farming knowledge does not belong exclusively to experts. Every person has the innate ability to understand farming because farming mirrors the human body. This democratizes agricultural knowledge and challenges the corporate-expert control over farming technology.
 
 ## See Also
+
+- [[jadam-good-and-bad-are-one]]
 
 - [[jadam-do-as-nature-does-philosophy]] -- the first principle
 - [[jadam-nutritional-balance-philosophy]] -- applying the body analogy to fertilizer

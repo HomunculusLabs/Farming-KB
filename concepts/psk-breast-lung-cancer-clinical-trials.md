@@ -1,5 +1,5 @@
 ---
-title: PSK Breast Cancer and Lung Cancer Clinical Trials
+title: PSK [[blesching-cannabis-breast-cancer]] and Lung maitake-cancer-clinical-research Trials
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 PSK (Polysaccharide-K, Krestin) from [[medicinal-mushroom-guide-chaga]]
 - [[maitake-cancer-clinical-research]]
-- [[fungal-immunology-overview]]
+- fungal-immunology-overview
 - [[shiitake-mushroom-cultivation]]
 - [[reishi-mushroom-medicinal-research]]
 ## Background and Context
@@ -64,7 +64,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -142,4 +142,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

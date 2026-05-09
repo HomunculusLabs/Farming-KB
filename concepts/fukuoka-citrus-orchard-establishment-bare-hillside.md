@@ -1,10 +1,11 @@
 ---
-title: Citrus Orchard Establishment from Bare Hillside
+title: fukuoka citrus orchard establishment bare hillside Establishment from Bare Hillside
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [regenerative, plant-systems]
-sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Citrus Orchard Establishment from Bare Hillside
@@ -105,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

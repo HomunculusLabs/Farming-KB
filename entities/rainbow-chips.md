@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Capulator (2023). "Rainbow Chips strain information." SeedFinder Database.
-  - AllBud (2024). "Rainbow Chips Cannabis Strain." https://www.allbud.com/
+  - AllBud (2024). "Rainbow Chips [[blesching-cannabis-strain-selection-receptor-targeting]]." https://www.allbud.com/
   - Leafly Staff (2024). "Rainbow Chips Weed Strain." Leafly.
   - GrowDiaries (2024). "Rainbow Chips grow reports." GrowDiaries.com.
   - Strainly Market (2024). "Rainbow Chips genetics discussion." Strainly.io.
@@ -25,7 +25,7 @@ created: 2026-05-07
 Rainbow Chips is a modern hybrid cannabis strain bred by Capulator, the renowned
 California breeder behind Cap Junky and MAC. A cross between Cap Junky (Alien
 Cookies × Miracle 15) and Mimosa (Purple Punch × Clementine), it combines heavy
-resin production with vibrant terpene expression.
+[[cannabis-glandular-trichome-types-resin-production-clarke]] with vibrant terpene expression.
 
 Released in the early 2020s, Rainbow Chips quickly gained recognition in the
 competitive exotic cannabis market for its striking visual appearance and
@@ -51,7 +51,7 @@ flowering structure.
 
 Rainbow Chips produces dense, chunky buds with a pronounced conical structure
 reminiscent of its Girl Scout Cookies lineage. The flowers display deep purple
-and forest green coloration with vivid orange pistils threading throughout.
+and [[trichoderma-forest-green-mold-guide]] coloration with vivid orange pistils threading throughout.
 
 The trichome coverage is exceptionally heavy, giving buds a frosted, almost
 white appearance under direct light. This dense crystalline layer is inherited
@@ -109,9 +109,11 @@ mid-October.
 
 ## See Also
 
+- [[rainbow-gtz]]
+
 - [[sunset-sherbet]]
 - [[girl-scout-cookies]]
 - [[zookies-cannabis]]
-- [[wedding-cake-cannabis]]
+- [[wedding-cake]]
 - jungle-cake
 - [[georgia-pie]]

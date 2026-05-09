@@ -1,11 +1,12 @@
 ---
-title: Sepp Holzer Water Gardens and Aquatic Plant Systems
+title: Sepp sepp holzer water gardens and aquatic plants and Aquatic Plant Systems
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [gardening, organic-gardening]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 Updated: 2026-04-18
@@ -14,7 +15,7 @@ Source: Sepp Holzer, *Sepp Holzer's Permaculture* (2010)
 
 ## Water as Central Element
 
-Water management is one of the central pillars of Holzer's permaculture approach. At the Krameterhof (1,100-1,500m altitude), water gardens, ponds, and wetlands serve multiple functions: water storage, microclimate creation, habitat provision, food production, and aesthetic value.
+Water management is one of the central pillars of Holzer's permaculture approach. At the Krameterhof (1,100-1,500m altitude), water gardens, ponds, and wetlands serve multiple functions: water storage, [[mollison-designers-microclimate-creation-frost-protection]], habitat provision, food production, and aesthetic value.
 
 ## Pond and Water Garden Design
 
@@ -50,7 +51,7 @@ Water management is one of the central pillars of Holzer's permaculture approach
 ### Marginal Plants
 - **Water plantain** (Alisma plantago-aquatica): shallow water edges
 - **Arrowhead** (Sagittaria sagittifolia): edible tubers, shallow water
-- **Sweet flag** (Acorus calamus): marshy edges, medicinal
+- **Sweet flag** ([[sweet-flag-acorus-calamus-ethnobotany]]): marshy edges, medicinal
 - **Bulrushes** (Typha latifolia): dense stands, water purification
 - **Yellow iris** (Iris pseudacorus): ornamental, water purification
 
@@ -60,7 +61,7 @@ Water management is one of the central pillars of Holzer's permaculture approach
 
 ### Functions of Aquatic Plants
 - **Oxygenation**: submerged plants release oxygen into water
-- **Nutrient cycling**: absorb nutrients, prevent algal overgrowth
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: absorb nutrients, prevent algal overgrowth
 - **Habitat structure**: provide shelter for fish, amphibians, invertebrates
 - **Water purification**: filter pollutants, trap sediments
 - **Temperature regulation**: shade water surface, reduce evaporation
@@ -100,7 +101,7 @@ Water management is one of the central pillars of Holzer's permaculture approach
 - Ducks and geese use ponds for swimming and feeding
 - Water plants provide duck forage
 - Fish processing waste can feed pigs/poultry
-- Animal manure can fertilise pond edges (careful not to overload)
+- [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] can fertilise pond edges (careful not to overload)
 
 ### Ponds and Microclimate
 - Open water reflects light, warming adjacent areas
@@ -118,7 +119,7 @@ Water management is one of the central pillars of Holzer's permaculture approach
 ### Natural Purification
 - Reed beds and treatment ponds for wastewater
 - Plants filter pollutants and trap sediments
-- Bacterial action in pond bottom breaks down organic matter
+- Bacterial action in pond bottom breaks down [[hamilton-composting-and-organic-matter-management]]
 - No chemicals needed in balanced system
 
 ### Thailand Project Application

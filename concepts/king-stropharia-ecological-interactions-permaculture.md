@@ -1,6 +1,6 @@
 ---
-title: "King Stropharia Ecological Interactions in Permaculture"
-source: "Growing Gourmet and Medicinal Mushrooms"
+title: "King king stropharia ecological interactions permaculture Interactions in Permaculture"
+source: "Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]"
 source_file: "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 topics:
   - mycology
@@ -18,17 +18,17 @@ topics:
 
 ## Overview
 
-King Stropharia (*Stropharia rugoso-annulata*), also known as the Wine Cap mushroom or Garden Giant, occupies a unique ecological niche in permaculture systems that extends far beyond its value as an edible mushroom. Documented interactions with honey bees, fish populations, and water filtration systems reveal a species that functions as an ecological keystone organism — connecting above-ground and below-ground food webs, linking terrestrial and aquatic ecosystems, and providing ecosystem services that no other cultivated mushroom species has been shown to offer. These interactions were first systematically documented by Paul Stamets and have since inspired ongoing research into mycofiltration and mycorestoration.
+King Stropharia (*Stropharia rugoso-annulata*), also known as the Wine Cap mushroom or Garden Giant, occupies a unique ecological niche in permaculture systems that extends far beyond its value as an edible mushroom. Documented interactions with honey bees, fish populations, and water filtration systems reveal a species that functions as an ecological keystone organism — connecting above-ground and below-ground food webs, linking terrestrial and aquatic ecosystems, and providing [[biodiversity-of-fungi-ecosystem-services-agriculture]] that no other cultivated mushroom species has been shown to offer. These interactions were first systematically documented by Paul Stamets and have since inspired ongoing research into mycofiltration and mycorestoration.
 
 ## The Bee-Mycelium Interaction
 
 ### Discovery of the Phenomenon
 
-The interaction between honey bees and King Stropharia mycelium was discovered inadvertently at Stamets' farm. Over a period of six weeks during one summer, bees were observed attacking a King Stropharia bed, excavating the sawdust and exposing the mycelium to air. The bees were not collecting the mushrooms themselves but were actively seeking and consuming the mycelium — specifically, suckling the sugar-rich cytoplasm from wounds in the mycelial network. A continuous convoy of bees could be traced from the beehives to the mushroom patch throughout each day, from morning to evening, until the bed of King Stropharia literally collapsed from the excavation activity.
+The interaction between honey bees and King Stropharia mycelium was discovered inadvertently at Stamets' farm. Over a period of six weeks during one summer, bees were observed attacking a King Stropharia bed, excavating the sawdust and exposing the mycelium to air. The bees were not collecting the mushrooms themselves but were actively seeking and consuming the mycelium — specifically, suckling the sugar-rich cytoplasm from wounds in the [[gadd-mycelial-network-dynamics]]. A continuous convoy of bees could be traced from the beehives to the mushroom patch throughout each day, from morning to evening, until the bed of King Stropharia literally collapsed from the excavation activity.
 
 ### Explanation of Beekeepers' Mystery
 
-When this observation was published in *HoneySmith Magazine* (Ingle, 1988), beekeepers across North America wrote to Stamets explaining that they had long been mystified by bees' attraction to sawdust piles. The mystery was resolved: the bees were not interested in the sawdust itself but in the underlying sweet mushroom mycelium that had colonized the sawdust. This explanation connected a widespread but poorly understood bee behavior to a specific biological mechanism — the attraction of bees to the sugar-rich cytoplasm of fungal mycelium.
+When this observation was published in *HoneySmith Magazine* (Ingle, 1988), beekeepers across [[psilocybin-north-america-pacific-northwest]] wrote to Stamets explaining that they had long been mystified by bees' attraction to sawdust piles. The mystery was resolved: the bees were not interested in the sawdust itself but in the underlying sweet mushroom mycelium that had colonized the sawdust. This explanation connected a widespread but poorly understood bee behavior to a specific biological mechanism — the attraction of bees to the sugar-rich cytoplasm of fungal mycelium.
 
 ### Nutritional Significance for Bees
 
@@ -48,7 +48,7 @@ The use of King Stropharia as fish food was discovered during silver salmon aqua
 
 ### The Mycelium-Larvae-Fish Food Chain
 
-This observation reveals a three-trophic-level food chain mediated by King Stropharia: the mushroom substrate supports fly larval development, the larvae provide a high-protein food source for fish, and the fish convert this protein into harvestable animal protein. The King Stropharia mushroom itself functions as a delivery system for the larvae, floating on the water surface and slowly releasing them in a manner that stimulates the predatory feeding response of the salmon.
+This observation reveals a three-trophic-level food chain mediated by King Stropharia: the [[gourmet-medicinal-mushroom-substrate-preparation]] supports fly larval development, the larvae provide a high-protein food source for fish, and the fish convert this protein into harvestable animal protein. The King Stropharia mushroom itself functions as a delivery system for the larvae, floating on the water surface and slowly releasing them in a manner that stimulates the predatory feeding response of the salmon.
 
 ### Broader Aquaculture Applications
 

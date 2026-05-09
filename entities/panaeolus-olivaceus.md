@@ -5,7 +5,7 @@ type: species
 tags: [fungi, psychoactive, coprophilous, panaeolus, cosmopolitan]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+sources: sources: []
 ---
 # Panaeolus olivaceus
 **Panaeolus olivaceus**, commonly known as the **olive mottlegill**, is a small,
@@ -18,7 +18,7 @@ total tryptamines) or [[panaeolus-fimicola]] is very similar but typically has a
 - [[panaeolus-sphinctrinus]] has a more pointed umbo and different spore morphology
 - [[panaeolus-cyanescens-entity]], which has documented use in traditional Hawaiian and
 Pacific Islander cultures, P. olivaceus is primarily of interest to mycologists and
-amateur mushroom enthusiasts. Its presence as a minor psychoactive species is noted in
+amateur mushroom enthusiasts. Its presence as a [[kwashi-and-galanga-minor-psychoactive-plants]] species is noted in
 field guides and mycological literature but it has not been the subject of extensive
 chemical or pharmacological investigation.
 ## See Also
@@ -103,4 +103,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

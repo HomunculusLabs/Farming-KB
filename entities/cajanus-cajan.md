@@ -15,7 +15,7 @@ sources:
   - "Nene, Y.L. & Sheila, V.K. (1990). Pigeonpea: Geography and Importance. ICRISAT."
   - "Saxena, K.B. et al. (2010). \"Cajanus cajan: A review of genetic resources.\" Genetic Resources and Crop Evolution, 57, 1-21."
   - "Chauhan, Y.S. et al. (2015). \"Pigeonpea production systems and potential for improvement.\" Field Crops Research, 182, 33-43."
-  - "Sheldrake, A.R. & Narayanan, A. (1979). \"Growth, development and nutrient uptake in pigeonpea.\" Field Crop Abstracts, 32, 1-25."
+  - "Sheldrake, A.R. & Narayanan, A. (1979). \"Growth, development and [[plant-nutrient-uptake-mechanisms]] in pigeonpea.\" Field Crop Abstracts, 32, 1-25."
   - "Van der Maesen, L.J.G. (1980). \"Cajanus and Atylosia.\" Wageningen Agricultural University Papers."
 ---
 
@@ -28,7 +28,7 @@ widely cultivated across tropical and subtropical regions as a food
 crop, forage, green manure, and nitrogen-fixing companion plant. It is
 the sixth most important pulse crop globally by production area, serving
 as a primary protein source for millions of people in South Asia and
-Sub-Saharan Africa. Its deep taproot system, drought tolerance, and
+Sub-Saharan Africa. Its deep taproot system, [[dighton-fungal-drought-tolerance-plant-water-relations]], and
 multi-use profile make it a keystone species in tropical permaculture
 and agroforestry systems.
 
@@ -78,7 +78,7 @@ Grown across 50+ countries in the tropics and subtropics:
   Myanmar, Sri Lanka
 - **Africa:** Kenya, Tanzania, Uganda, Malawi, Mozambique
 - **Caribbean and Americas:** Puerto Rico, Dominican Republic, parts
-  of Brazil and Central America
+  of Brazil and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]
 - **Australia:** Northern Territory and Queensland
 
 Cultivation parameters:
@@ -107,7 +107,7 @@ Dry pigeon pea seeds (100 g):
 Pigeon pea complements cereal-based diets by providing lysine that
 cereals lack, while cereals supply methionine that pigeon pea is low
 in. This complementary amino acid profile underpins the traditional
-cereal-pulse dietary pattern across South Asia and Africa.
+cereal-pulse dietary [[psilocin-accumulation-pattern-across-flushes]] South Asia and Africa.
 
 ## Bioactive Compounds
 
@@ -127,14 +127,14 @@ ABTS assays show activity comparable to other food legumes.
 Pigeon pea is among the most versatile multi-function species in tropical
 permaculture:
 
-- **Nitrogen fixation:** Fixes 40–200 kg N/ha annually, benefiting
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** Fixes 40–200 kg N/ha annually, benefiting
   companion cereals and subsequent crops
 - **Deep nutrient mining:** Taproot accesses subsoil phosphorus and
   potassium unavailable to shallow-rooted crops
 - **Living mulch and windbreak:** Dense shrub canopy shades, protects
   from wind, and suppresses weeds
 - **Multi-yield:** Grain, forage, fuelwood, stakes, green leaf manure
-- **Erosion control:** Effective on contour bunds and degraded slopes
+- **[[permplant-willows-salix-erosion-control-fodder]]:** Effective on contour bunds and degraded slopes
 - **Agroforestry:** Compatible under mango, cashew canopies; suited to
   [[lablab-purpureus]] — Hyacinth bean, complementary nitrogen-fixing
   legume for tropical permaculture

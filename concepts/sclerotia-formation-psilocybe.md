@@ -4,7 +4,7 @@ Sclerotia (singular: sclerotium) are compact, hardened masses of
 mycelium that serve as survival structures for certain fungi. In
 the genus Psilocybe, several species are known to produce
 sclerotia as an alternative or supplementary reproductive strategy
-to mushroom formation. These structures are of significant interest
+to [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]. These structures are of significant interest
 both scientifically and to cultivators due to their unique biology
 and practical advantages in cultivation.
 
@@ -15,7 +15,7 @@ containing stored nutrients. They serve as a survival mechanism,
 allowing the fungus to persist through unfavorable environmental
 conditions such as drought, temperature extremes, or nutrient
 depletion. When conditions improve, sclerotia can germinate to
-produce new mycelial growth or, in some species, directly produce
+produce new [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] or, in some species, directly produce
 fruiting bodies (mushrooms).
 
 In Psilocybe species, sclerotia are often colloquially referred
@@ -29,14 +29,14 @@ incubation duration.
 
 The primary Psilocybe species known to produce sclerotia include:
 
-- **Psilocybe tampanensis**: One of the most reliable sclerotia
+- **[[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]**: One of the most reliable sclerotia
   producers. Originally collected near Tampa, Florida, this
   species readily forms sclerotia on grass seed substrate.
   The species was first identified by Steven Pollock and
   Guzman in 1978 from a single specimen, making it one of
   the rarest Psilocybe species in nature.
 
-- **Psilocybe mexicana**: The type species of the genus, known
+- **[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]**: The type species of the genus, known
   to produce sclerotia both in culture and in nature. P.
   mexicana has a long history of traditional use in Mesoamerica
   and was one of the first psychedelic mushrooms identified
@@ -103,7 +103,7 @@ Several factors influence the quantity and quality of sclerotia:
 - **Incubation duration**: Longer incubation produces larger
   sclerotia, up to a plateau around 4 months.
 
-- **Moisture content**: Proper substrate moisture is essential.
+- **Moisture content**: Proper [[pf-tek-substrate-moisture-diagnosis-and-correction]] is essential.
   Overly wet substrate promotes bacterial growth, while overly
   dry substrate limits sclerotia development.
 
@@ -123,7 +123,7 @@ For storage, sclerotia can be:
 
 Interestingly, sclerotia also form in the casing layer of
 cased trays, alongside mushroom production. When P. mexicana
-or P. tampanensis are cased for mushroom cultivation, sclerotia
+or P. tampanensis are cased for [[accessible-mushroom-cultivation-for-disabilities]], sclerotia
 may develop in the casing soil during the fruiting cycle. This
 dual production strategy means cultivators can harvest both
 mushrooms and sclerotia from the same culture.

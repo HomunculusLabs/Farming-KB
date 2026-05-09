@@ -5,11 +5,11 @@ updated: 2026-04-21
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis Propagation Techniques
 
-Cannabis can be propagated either sexually (through seeds) or asexually (through cloning). Seeds are the result of sexual propagation involving recombination of genetic material from two parents. Vegetative methods such as cuttage, layerage, or division of roots are asexual and allow exact replication of the parental plant without genetic variation.
+Cannabis can be propagated either sexually (through seeds) or asexually (through cloning). Seeds are the result of [[cannabis-sexual-propagation-genetics]] involving recombination of genetic material from two parents. Vegetative methods such as cuttage, layerage, or division of roots are asexual and allow exact replication of the parental plant without genetic variation.
 
 ## Sexual Propagation
 
@@ -39,7 +39,7 @@ When selecting seeds from available material, the propagator should follow these
 
 ## Asexual Propagation (Cloning)
 
-Cloning preserves genotype because only normal cell division (mitosis) occurs. Every vegetative cell in a Cannabis plant has the same genotype and a plant resulting from asexual propagation will have the same genotype as the mother plant. Cloning can preserve a genotype indefinitely. Only mutation of a gene in a vegetative cell that then divides will permanently affect the genotype.
+Cloning preserves genotype because only normal cell division (mitosis) occurs. Every [[spore-vs-vegetative-cell-resistance-microwave-sterilization]] in a Cannabis plant has the same genotype and a plant resulting from asexual propagation will have the same genotype as the mother plant. Cloning can preserve a genotype indefinitely. Only mutation of a gene in a vegetative cell that then divides will permanently affect the genotype.
 
 ### Cuttings
 
@@ -60,14 +60,14 @@ Cuttings of relatively young vegetative limbs 10 to 45 centimeters (4 to 18 inch
 
 **Rooting Media:**
 - Vermiculite and perlite mixtures provide excellent drainage and neutral pH
-- Equal portions of medium and large grade promote greatest root growth due to increased air circulation
-- Weak nutrient solution with micro-nutrients needed for artificial media
+- Equal portions of medium and large grade promote greatest root growth due to increased [[stamets-growing-room-air-circulation-co2-management]]
+- Weak [[cannabis-nutrient-solution-preparation]] with micro-nutrients needed for artificial media
 - Oxygen enrichment of irrigation water significantly increases rooting rates
 
-**Rooting Hormones:**
+**[[cervantes-rooting-hormones-cloning]]:**
 - Synthetic auxins: NAA (naphthaleneacetic acid), IBA (indolebutyric acid)
 - Auxins promote adventitious root formation; cytokinins suppress root growth
-- Mixtures of growth regulators are often more effective than one alone
+- Mixtures of [[ingham-natural-growth-regulators-soil-microbes]] are often more effective than one alone
 - Captafol fungicide may be applied in powdered form along with growth regulators
 
 ### Layering

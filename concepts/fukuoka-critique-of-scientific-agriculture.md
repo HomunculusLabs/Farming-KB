@@ -1,13 +1,13 @@
 ---
-title: Fukuoka Critique Of Scientific Agriculture
+title: Fukuoka fukuoka critique of scientific agriculture Agriculture
 source: administrator-microsoft-word-fukuoka-textdoc.md
 topics: philosophy of science, agriculture, reductionism, ecology
 ---
 
 # Fukuoka's Critique of Scientific Agriculture
 
-[[natural-farming]] and scientific farming graphically. The
-objective of natural farming is non-action and a return to nature — it is
+[[natural-farming]] and [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] graphically. The
+objective of [[comparison-natural-farming-vs-permaculture]] is non-action and a [[emcdda-return-to-nature-megatrend-mushroom-appeal]] — it is
 centrifugal and convergent. Scientific farming breaks away from nature
 with the expansion of human wants and desires — it is centripetal and
 divergent.
@@ -70,7 +70,7 @@ Agriculture becomes swept up in fiddling around; new methods requiring
 additional expenditures and effort are constantly introduced. Fukuoka
 took the opposite tack: "I don't need to do this, I don't need to do
 that." After thirty years, he reduced his labor to essentially just
-sowing seed and spreading straw.
+[[fukuoka-sowing-seed-ball-desert-revegetation]] and spreading straw.
 
 ## The Illusion of Productivity
 
@@ -92,9 +92,12 @@ maintained a great harmony without such notions.
 
 ## See Also
 
-- [[partnership-vs-dominator-culture-mckenna]]
+- [[fukuoka-relative-merits-natural-scientific-agriculture]]
+
 - [[partnership-vs-dominator-culture-mckenna]]
 
 ## See Also
+
+- [[fukuoka-relative-merits-natural-scientific-agriculture]]
 
 - [[fukuoka-critique-scientific-agriculture-civilization]]

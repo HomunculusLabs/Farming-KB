@@ -19,7 +19,7 @@ lactarius deliciosus is an ectomycorrhizal basidiomycete fungus in the family Ru
 
 ## Ecology and Habitat
 
-lactarius deliciosus is an obligate [[suillus-variegatus]] and [[paxillus-involutus]]. This differential metal tolerance among ectomycorrhizal partners may influence fungal community composition on contaminated sites and has implications for forest restoration on metal-polluted soils.
+lactarius deliciosus is an obligate [[suillus-variegatus]] and [[paxillus-involutus]]. This differential [[fungal-metal-tolerance-mechanisms]] among ectomycorrhizal partners may influence fungal [[core-endorhiza-bacterial-community-composition-cannabis]] on contaminated sites and has implications for forest restoration on metal-polluted soils.
 
 ### Nutritional Composition
 
@@ -36,7 +36,7 @@ lactarius deliciosus is primarily associated with pine species, though it may al
 The basidiocarps of lactarius deliciosus are consumed by a wide variety of forest animals:
 
 - Mammals including deer, wild boar, squirrels, and rodents
-- Slugs and snails, which may cause significant damage to fruit bodies
+- [[query-how-to-get-rid-of-slugs-and-snails-organically]], which may cause significant damage to fruit bodies
 - Various insect species that feed on mushroom tissue
 
 ### Human Harvest
@@ -65,15 +65,15 @@ The heavy metal tolerance data for lactarius deliciosus contribute to understand
 
 lactarius deliciosus has a complex biogeographic history. The species is native to Europe, where it is widely distributed in pine forests from the Mediterranean to Scandinavia. Through human activities, particularly the establishment of pine plantations, the species has been introduced to other regions of the world:
 
-- **Southern Hemisphere:** The species was introduced to New Zealand, Australia, Chile, and Argentina with pine plantation forestry. In some of these regions, it has naturalized and is now commonly collected as a wild edible mushroom.
+- **[[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]:** The species was introduced to New Zealand, Australia, Chile, and Argentina with pine plantation forestry. In some of these regions, it has naturalized and is now commonly collected as a wild edible mushroom.
 - **Southern Africa:** Introduced populations occur in pine plantations in South Africa.
-- **North America:** Native Lactarius species in North America were previously classified as L. deliciosus but are now recognized as distinct species, including L. rubrilacteus and L. argillaceifolius.
+- **[[psilocybin-north-america-pacific-northwest]]:** Native Lactarius species in North America were previously classified as L. deliciosus but are now recognized as distinct species, including L. rubrilacteus and L. argillaceifolius.
 
 This introduction history makes lactarius deliciosus an interesting case study in the global movement of ectomycorrhizal fungi and their ecological impacts on novel ecosystems.
 
 ### Culinary and Cultural Significance
 
-lactarius deliciosus holds significant cultural importance in regions where mushroom foraging is a traditional practice:
+lactarius deliciosus holds significant cultural importance in regions where [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]] is a traditional practice:
 
 - In Spain, it is one of the most prized wild mushrooms and is known as "rovellons" in Catalonia or "níscalos" in other regions
 - In Poland and other Eastern European countries, it is widely collected during autumn mushroom seasons

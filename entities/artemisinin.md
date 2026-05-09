@@ -81,7 +81,7 @@ hours.
 - **Short half-life:** ~1 hour for artesunate IV, necessitating combination
   with longer-acting partner drugs in ACTs.
 
-Emerging resistance in Southeast Asia, characterized by delayed parasite
+Emerging resistance in [[psilocybe-southeast-asia-pacific]], characterized by delayed parasite
 clearance, is associated with *kelch13* gene mutations in *P. falciparum*
 and is a major public health concern.
 
@@ -110,7 +110,7 @@ Artemisinin is primarily extracted from the aerial parts of *Artemisia
 annua*, a herbaceous annual plant native to temperate Asia. The plant
 typically contains 0.1–1.0% artemisinin by dry weight, with content
 varying significantly based on genotype, growing conditions, and
-harvest timing.
+[[cannabis-harvest-timing-visual-cues]].
 
 **Extraction and synthesis:**
 
@@ -124,4 +124,4 @@ harvest timing.
 
 ## See Also
 
-- [[herbal-medicine-making]]
+- [[herbal-medicine-making-basics]]

@@ -17,18 +17,16 @@ how they work, what equipment they require, and how they affect food
 quality. Freezing halts enzymatic activity and microbial growth through
 extreme cold, while canning uses heat processing to destroy spoilage
 organisms and create a sterile, sealed environment. Understanding the
-trade-offs between these two methods helps you choose the right approach
+trade-offs between these two methods helps you [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] approach
 for each type of produce, your available infrastructure, and your storage
 conditions.
 
 ## Freezing
 
-[[food-preservation-canning]]
-
 Canning preserves food by heat-processing sealed jars to destroy spoilage
 organisms and create an airtight vacuum seal. Two methods exist: water
-bath canning for high-acid foods (fruits, pickles, jams, tomatoes with
-added acid) and pressure canning for low-acid foods (vegetables, meats,
+[[water-bath-canning-guide]] for high-acid foods (fruits, pickles, jams, tomatoes with
+added acid) and [[comparison-pressure-canning-vs-water-bath-canning]] for low-acid foods (vegetables, meats,
 soups, beans). The distinction is a matter of food safety — water bath
 canning reaches only 212°F, which is insufficient to destroy Clostridium
 botulinum spores in low-acid environments. Pressure canning achieves
@@ -70,14 +68,14 @@ practice, though quality gradually declines after 1-2 years.
 Freezing is the better choice when you have reliable power and want to
 preserve food with minimal processing. It is ideal for vegetables that
 will be cooked before eating — green beans, corn, peas, broccoli, and
-leafy greens all freeze well after blanching. Berries, stone fruits, and
+[[solomon-leafy-greens-growing]] all freeze well after blanching. Berries, stone fruits, and
 peppers freeze beautifully with minimal preparation. Freezing also shines
 for preserving meat, poultry, and fish in bulk after a harvest or bulk
 purchase.
 
 Choose freezing when preserving small batches throughout the season. It is
 far more practical to freeze a few pounds of green beans each week than
-to fire up a pressure canner for the same quantity. Freezing also works
+to fire up a [[pf-tek-pressure-canner-sterilization]] for the same quantity. Freezing also works
 well for prepared foods — soups, casseroles, bread dough, and pesto all
 freeze and reheat with excellent quality.
 
@@ -93,7 +91,7 @@ equipment.
 
 Pressure canning opens up preservation of low-acid vegetables, meats,
 soups, and beans. For homesteaders raising livestock or growing
-large quantities of beans and root vegetables, pressure canning is the
+large quantities of beans and [[growing-root-vegetables-guide]], pressure canning is the
 only shelf-stable option. It also produces convenient, ready-to-eat
 meals — a jar of home-canned chili or soup is instant dinner with no
 thawing required.

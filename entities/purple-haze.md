@@ -22,15 +22,15 @@ created: 2026-04-28
 
 # Purple Haze
 
-**Purple Haze** is a legendary cannabis sativa-dominant hybrid strain that rose to prominence in the 1960s and 1970s, becoming one of the most culturally iconic cannabis varieties of all time. Named after Jimi Hendrix's 1967 psychedelic rock song, the strain is celebrated for its vivid purple coloration, cerebral effects, and sweet, berry-like aroma. It remains a benchmark strain in cannabis culture and a parent to numerous modern hybrids.
+**Purple Haze** is a legendary cannabis sativa-dominant hybrid strain that rose to prominence in the 1960s and 1970s, becoming one of the most culturally iconic cannabis varieties of all time. Named after Jimi Hendrix's 1967 psychedelic rock song, the strain is celebrated for its vivid purple coloration, cerebral effects, and sweet, berry-like aroma. It remains a benchmark strain in [[mckenna-cannabis-culture-history]] and a parent to numerous modern hybrids.
 
 ## Genetic Lineage
 
 Purple Haze is believed to be a cross between:
 
-- **Purple Thai** — a pure sativa landrace from Southeast Asia, known for its deep purple hues, elongated buds, and energetic, creative high. Purple Thai itself is a cross of Chocolate Thai and a Highland Oaxacan Gold variant.
+- **Purple Thai** — a pure [[cannabis-sativa-landrace-strains]] from [[psilocybe-southeast-asia-pacific]], known for its deep purple hues, elongated buds, and energetic, creative high. Purple Thai itself is a cross of Chocolate Thai and a Highland Oaxacan Gold variant.
 - **Haze** — a foundational sativa hybrid created in the Santa Cruz, California area in the 1960s or early 1970s. Original Haze is a complex polyhybrid of [[cannabis-blue-dream]] — modern sativa-dominant hybrid with related lineage
-- [[cannabis-terpene-profiles]] — terpene profiles and effects
+- [[cannabis-terpene-profiles]] — [[cannabis-terpene-profiles-sativa]] and effects
 - [[cannabis-strain-guide-reference]] — chemistry of purple coloration
 ## Practical Applications
 
@@ -109,4 +109,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

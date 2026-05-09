@@ -1,20 +1,14 @@
 ---
-title: Falconer Steeped Spawn and Transplanting Techniques
+title: Falconer falconer steeped spawn and transplanting and Transplanting Techniques
 created: 2026-04-28
 tags:
-  [[mushroom-cultivation, mushroom-spawn, mycelium, victorian-gardening, spawning]
+  [mushroom-cultivation, mushroom-spawn, mycelium, victorian-gardening, spawning]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [
-    /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md,
-  ]
+sources: [ /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md, ]
 type: concept
 ---
-
-# Steeped Spawn and Transplanting Working Spawn
-
-The [[mycelium-network-intelligence]] until it is planted.
+# Steeped Spawn and Transplanting Working Spawn The [[mycelium-network-intelligence]] until it is planted.
 
 ## Flake Spawn from Brick
 
@@ -101,7 +95,7 @@ would the cooler manure nearer the surface.
 
 ## Temperature for Spawning
 
-After the mushroom bed is made up it should, within a few
+After the [[falconer-mushroom-bed-boxing-and-protection]] is made up it should, within a few
 days, warm to a temperature of 110 to 120 degrees. Never
 spawn a bed when the heat is rising, or when it is warmer
 than 100 degrees, but always when it is on the decline and

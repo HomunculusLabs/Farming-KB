@@ -1,16 +1,13 @@
 ---
-title: Fungal Diversity in Hot Springs
+title: arbuscular-mycorrhizal-fungal-diversity-patterns-distribution in Hot Springs
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources: []
 ---
-# Fungal Diversity in Hot Springs and Geothermal Environments
-
-Hot springs and geothermal environments harbor specialized thermophilic and thermotolerant fungi capable of growth at temperatures lethal to most organisms. These extreme environments are windows into the upper temperature limits of fungal life.
-
-[[fungi-in-extreme-acidic-environments]] [[thermophilic-fungi]] [[fungal-sampling-methods]] [[fungal-functional-diversity]] [[fungal-decomposition]]
+# Fungal Diversity in Hot Springs and Geothermal Environments Hot springs and geothermal environments harbor specialized thermophilic and thermotolerant fungi capable of growth at temperatures lethal to most organisms. These extreme environments are windows into the upper temperature limits of fungal life. fungi-in-extreme-acidic-environments [[thermophilic-fungi]] [[fungal-sampling-methods]] fungal-functional-diversity [[fungal-decomposition]]
 
 ## Enrichment and Rare Species
 
@@ -22,7 +19,7 @@ One procedure involved soaking soil in 70% ethanol for 10 minutes, then washing 
 
 ## Taxonomic and Functional Diversity
 
-The taxonomic and functional diversity of thermophilic and thermotolerant fungi on any substratum can be obtained through selective isolation procedures. As with all fungal community analyses, the isolation procedure and medium determine which component of a community will be isolated.
+The taxonomic and functional diversity of thermophilic and thermotolerant fungi on any substratum can be obtained through selective isolation procedures. As with all [[air-pollution-fungal-community-responses]] analyses, the isolation procedure and medium determine which component of a community will be isolated.
 
 Media most commonly used for thermophile isolation include potato-dextrose agar, but this medium is unsatisfactory because it tends to shrivel at 50 degrees Celsius. A variety of alternative media are listed in the literature.
 
@@ -30,11 +27,11 @@ Media most commonly used for thermophile isolation include potato-dextrose agar,
 
 ## Compost and Self-Heating Habitats
 
-Composting systems provide natural habitats for thermophilic fungi. The self-heating that occurs during decomposition of organic matter creates temperature gradients that support thermophilic communities at the core of compost piles while mesophilic species persist at the periphery.
+Composting systems provide natural habitats for thermophilic fungi. The self-heating that occurs during decomposition of [[hamilton-composting-and-organic-matter-management]] creates temperature gradients that support thermophilic communities at the core of compost piles while mesophilic species persist at the periphery.
 
 These systems demonstrate how thermophilic fungi participate in the complete decomposition of organic matter, including the breakdown of recalcitrant materials that mesophilic fungi cannot efficiently process.
 
-[[fungal-diversity-agricultural-systems]]
+fungal-diversity-agricultural-systems
 
 ## Geothermal Habitat Diversity
 
@@ -67,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

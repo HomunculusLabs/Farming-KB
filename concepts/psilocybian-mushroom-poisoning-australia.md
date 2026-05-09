@@ -1,5 +1,5 @@
 ---
-title: Psilocybian Mushroom Poisoning Cases in Australia
+title: Psilocybian european-mushroom-poisoning-history Cases in Australia
 created: 2026-04-26
 tags:
   - toxicology
@@ -19,7 +19,7 @@ type: concept
 ## Historical Background
 
 Ancient or historic evidence of cerebral mycetisms induced by the accidental
-ingestion of hallucinogenic mushrooms has been documented in various parts of
+ingestion of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] has been documented in various parts of
 the world. The earliest report of a suspected hallucinogenic intoxication from
 a mushroom in Australia occurred sometime prior to 1934. In that year, Dr.
 John Burton Cleland, M.D., wrote that "some kind of toadstools give rise to a
@@ -82,7 +82,7 @@ A 17-year-old female drug user from Adelaide, with a history of marijuana use
 and one previous LSD experience, sought medical treatment after having a "bad
 trip" while under the influence of [[psychedelic-mushroom-set-and-setting]]. In Florida, over 90% of all
 mushroom poisonings were reportedly the result of ingesting C. molybdites. The
-inherent danger from ingesting wild mushrooms lies not so much in consuming a
+inherent danger from ingesting [[edible-wild-mushrooms-by-region]] lies not so much in consuming a
 hallucinogenic variety, but rather in picking and eating a toxic species which
 might resemble a hallucinogenic one.
 
@@ -93,4 +93,5 @@ might resemble a hallucinogenic one.
 
 ## See Also
 
-- [[psilocybin-mushrooms-asia-australia-distribution]]
+- psilocybin-mushrooms-asia-australia-distribution
+- [[bloomfield-amanita-toxins-evolutionary-puzzle-mushroom-poisoning]]

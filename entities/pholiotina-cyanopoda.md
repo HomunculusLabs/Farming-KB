@@ -27,7 +27,7 @@ Agaricales than was previously understood.
 Pholiotina cyanopoda belongs to the order Agaricales, family
 Bolbitiaceae. The genus Pholiotina is closely related to Conocybe,
 and the two genera have overlapping morphological features that have
-historically caused taxonomic confusion. Molecular phylogenetics has helped
+historically caused [[neurotropic-fungi-taxonomic-confusion-and-identification]]. Molecular phylogenetics has helped
 clarify species boundaries within this group, though P. cyanopoda remains
 poorly represented in genetic databases due to the scarcity of collected
 specimens. The specific epithet "cyanopoda" refers to the bluish staining
@@ -42,12 +42,12 @@ trace amounts to approximately 0.1 to 0.5% of dry weight.
 ## Similar Species
 Pholiotina cyanopoda may be confused with several non-psychoactive Conocybe
 and Pholiotina species that share its small stature, coprophilous habit, and
-brown spore print. Key distinguishing features include the bluish staining
+brown [[comparison-spore-print-collection-vs-spore-syringe-production]]. Key distinguishing features include the bluish staining
 reaction on the stipe and the specific microscopic characteristics of the
 spores and cheilocystidia.
 ## Legal Status
 As a psilocybin-containing fungus, P. cyanopoda is subject to legal
-restrictions in many jurisdictions where psilocybin mushrooms are controlled
+restrictions in many jurisdictions where [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] are controlled
 substances. Enforcement is unlikely due to its rarity and difficulty of
 identification.
 ## See Also
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

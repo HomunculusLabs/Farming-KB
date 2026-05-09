@@ -1,5 +1,5 @@
 ---
-title: Panaeolus cyanescens vs tropicalis Cultivation Differences
+title: stamets-panaeolus-cyanescens-copelandia-identification-ecology vs panaeolus tropicalis cultivation differences Differences
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -18,7 +18,7 @@ Both [[panaeolus-cyanescens-cultivation-guide]]:
 - Sterilise at 121°C for **2 full hours**
 
 ### Spawn and Colonisation
-- Both species colonise rye grain spawn less densely than [[panaeolus-cyanescens-bali-omelette]] first because:
+- Both species colonise rye [[comparison-grain-spawn-vs-grain-to-grain-transfer]] less densely than [[panaeolus-cyanescens-bali-omelette]] first because:
 - More widely documented and discussed in cultivation communities
 - Higher potency rewards the effort of more demanding cultivation
 - Slightly more forgiving of minor ventilation shortcomings
@@ -27,7 +27,7 @@ Both [[panaeolus-cyanescens-cultivation-guide]]:
 ### For Experienced Growers
 
 P. tropicalis offers advantages for those who have mastered Panaeolus cultivation:
-- Faster life cycle in optimal warm conditions
+- Faster [[bloomfield-fungal-life-cycle-spiral-versus-circle]] in optimal warm conditions
 - Interesting for comparative studies between related species
 - Potentially useful for breeding or hybridisation work
 
@@ -35,7 +35,7 @@ P. tropicalis offers advantages for those who have mastered Panaeolus cultivatio
 
 1. **Ventilation above all else** — over-ventilate rather than under-ventilate. The most common failure mode across both species is insufficient fresh air exchange
 2. **Warm conditions** — maintain 25°C+ throughout. Cold conditions slow or stall colonisation and fruiting
-3. **Proper substrate moisture** — the dung-straw-vermiculite mix must not be too wet. Loose water leads to bacterial contamination
+3. **Proper [[pf-tek-substrate-moisture-diagnosis-and-correction]]** — the dung-straw-vermiculite mix must not be too wet. Loose water leads to bacterial contamination
 4. **Full sterilisation** — 2 hours minimum at 15 psi. Shorter sterilisation with manure-based substrates risks contamination
 5. **Cloning over multispore** — invest in cloning early to establish reliable, proven fruiting lines
 6. **Dung-based substrate** — neither species performs well on grain or compost alone. Cow dung is essential
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

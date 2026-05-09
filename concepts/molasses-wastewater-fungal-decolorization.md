@@ -20,7 +20,7 @@ acids at elevated temperatures and represent a class of recalcitrant,
 high molecular weight, nitrogen-containing brown polymers. Very large
 volumes of highly coloured molasses wastewaters are generated globally,
 and melanoidins survive conventional biological treatment processes such
-as activated sludge and anaerobic digestion essentially unscathed.
+as activated sludge and [[biogas-digester-basics]] essentially unscathed.
 
 ## Melanoidin Properties and Environmental Concerns
 
@@ -30,7 +30,7 @@ compounds. Their chemical complexity and recalcitrance to biological
 degradation make them persistent environmental pollutants. Melanoidins in
 wastewater contribute to high chemical oxygen demand (COD), reduce light
 penetration in receiving waters, and may be toxic to aquatic organisms.
-The conventional wastewater treatment approaches of activated sludge and
+The conventional [[mollison-designers-wastewater-treatment-wetlands]] approaches of activated sludge and
 anaerobic digestion are ineffective because the complex polymeric structure
 of melanoidins resists microbial attack. This has driven interest in
 white rot fungi, which produce powerful oxidative enzymes capable of
@@ -70,7 +70,7 @@ enzyme systems. In Coriolus (Trametes) versicolor, Watanabe and colleagues
 identified seven different melanoidin-decolorizing enzymes and purified two
 of them. Enzyme P-III requires glucose and oxygen for its activity,
 functioning through a glucose oxidase mechanism that generates reactive
-oxygen species (superoxide or hydrogen peroxide) responsible for melanoidin
+oxygen species (superoxide or [[cervantes-hydrogen-peroxide-sterilization]]) responsible for melanoidin
 decolorization. Enzyme P-IV can decolorize melanoidin without requiring
 glucose or oxygen, though its mechanism of action remains uncertain. A
 multiplicative effect between the two enzymes was noted, suggesting
@@ -86,7 +86,7 @@ colleagues obtained mutant strains showing improved decolorization
 performance, though the specific genetic basis of the enhanced activity
 was not determined. These findings suggest that there is scope for
 improving fungal strains through classical mutagenesis or, potentially,
-genetic engineering approaches. The development of superior fungal strains
+[[fukuoka-textdoc-genetic-engineering-critique-warning]] approaches. The development of superior fungal strains
 could enhance the economic viability of fungal molasses wastewater
 treatment processes by reducing treatment times and increasing the
 percentage of colour removal achievable.
@@ -101,7 +101,7 @@ of melanoidins specifically, whereas olive mill wastewaters contain
 phenolic compounds, tannins, anthocyanins, and catechins as the primary
 chromophores. The enzyme systems involved may differ accordingly, with
 glucose oxidase playing a more prominent role in melanoidin degradation
-compared to the ligninolytic enzymes more important in olive mill
+compared to the [[singh-ligninolytic-enzymes-fungal-bioremediation]] more important in olive mill
 wastewater treatment.
 
 ## Reactor Applications and Reuse
@@ -113,7 +113,7 @@ decolorization over three successive cycles with up to 80 percent colour
 removal per cycle. Both continuous and fed-batch treatment modes have been
 investigated. The stability of white rot mycelia during repeated use,
 combined with their ability to achieve both decolorization and COD
-reduction, makes them attractive candidates for industrial wastewater
+reduction, makes them attractive candidates for [[fungal-industrial-wastewater-treatment]]
 treatment applications. Further optimization of reactor design and
 operating conditions could improve the economic competitiveness of fungal
 treatment relative to physical-chemical alternatives.
@@ -122,4 +122,4 @@ treatment relative to physical-chemical alternatives.
 
 - [[fungal-melanoidin-degradation]] for melanoidin-specific chemistry
 - [[fungal-laccase-and-textile-dye-decolorization]] for dye removal
-- [[fungal-bioreactor-types-for-pollutant-removal]] for reactor design
+- fungal-bioreactor-types-for-pollutant-removal for reactor design

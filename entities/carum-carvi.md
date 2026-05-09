@@ -11,7 +11,7 @@ updated: 2026-05-08
 sources:
   - Franz, C. (2010). "Carum." Medicinal and Aromatic Plants, Springer.
   - Ilic, S. et al. (2019). "Caraway (Carum carvi L.): ethnopharmacology, phytochemistry and biological activities." Industrial Crops and Products 130.
-  - Small, E. (2006). Culinary Herbs. NRC Research Press.
+  - Small, E. (2006). [[holzer-medicinal-and-culinary-herbs-compendium]]. NRC Research Press.
   - Bown, D. (1995). Encyclopedia of Herbs and Their Uses. DK Publishing.
 ---
 
@@ -60,7 +60,7 @@ longitudinal ridges.
 ## Distribution and Habitat
 
 Caraway is native to temperate regions of Europe, the Caucasus, Anatolia,
-and parts of Central Asia. It has become naturalized in North America,
+and parts of Central Asia. It has become naturalized in [[psilocybin-north-america-pacific-northwest]],
 New Zealand, and other temperate regions.
 
 Wild populations occur in meadows, pastures, woodland margins, and
@@ -79,7 +79,7 @@ The essential oil of caraway fruit contains **carvone** (50–70% of total
 oil) as the primary bioactive constituent, with **limonene** (20–30%) as
 the secondary major component.
 
-Other notable volatile compounds include carveol, dihydrocarvone,
+Other notable [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] include carveol, dihydrocarvone,
 perillaldehyde, and trans-anethole. The essential oil yield from dried
 fruits ranges from 3–7% depending on cultivar and growing conditions.
 
@@ -89,7 +89,7 @@ vitro studies demonstrate inhibition of intestinal cramping and reduction
 of gastrointestinal transit time.
 
 Caraway extracts show antimicrobial activity against *Staphylococcus
-aureus*, *Escherichia coli*, and *Candida albicans*. The essential oil
+aureus*, *Escherichia coli*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*. The essential oil
 has demonstrated antioxidant capacity in DPPH and FRAP assays.
 
 Animal studies suggest caraway may have anti-diabetic effects, including
@@ -115,7 +115,7 @@ including Swiss lake dwellings and Egyptian tombs. Greek and Roman
 physicians including Dioscorides documented its medicinal applications.
 
 The species name may derive from the ancient region of Caria in Anatolia.
-Medieval European herbals extensively describe caraway for digestive health
+[[solanaceous-hallucinogens-of-medieval-european-witchcraft]] herbals extensively describe caraway for digestive health
 and as a breath freshener.
 
 ## Cultivation
@@ -127,7 +127,7 @@ growing seasons.
 Optimal soil pH is 6.5–7.5 with moderate fertility. The crop requires
 approximately 500–600 mm annual precipitation and well-drained soil.
 
-Row spacing of 20–30 cm with 8–12 cm in-row spacing is standard. Weed
+[[wide-row-spacing-intensive-gardening-comparison]] of 20–30 cm with 8–12 cm in-row spacing is standard. Weed
 control is critical during the slow-establishing rosette stage.
 
 Harvest occurs when approximately 70% of umbels have turned brown, typically
@@ -140,5 +140,5 @@ Major modern cultivars include 'Meden', 'Kibitzberger', and 'Rekord'.
 - [[anethum-graveolens]]
 - [[pimpinella-anisum]]
 - [[petroselinum-crispum]]
-- [[trigonella-foenum-graecum]]
+- trigonella-foenum-graecum
 - [[borago-officinalis]]

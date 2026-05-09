@@ -1,5 +1,5 @@
 ---
-title: "Fungal Rhizomorphs and Mycelial Cords"
+title: "dighton fungal rhizomorphs mycelial cords and Mycelial Cords"
 created: 2026-04-26
 tags:
   - mycology
@@ -25,15 +25,15 @@ These structures represent one of the most important physiological
 adaptations of higher fungi, enabling them to function as ecosystem
 engineers by connecting spatially separated resources and redistributing
 materials across considerable distances. Rhizomorphs are produced
-primarily by basidiomycete fungi and are particularly prominent among
-[[fungal-nutrient-translocation-mycelial-systems]]
-and [[fungal-mineral-nutrient-immobilization]],
+primarily by [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] and are particularly prominent among
+fungal-nutrient-translocation-mycelial-systems
+and fungal-mineral-nutrient-immobilization,
 with nutrients released through fungal death, decomposition, or
 grazing by invertebrates.
 
 ### Tropical Forest Canopies
 
-In wet tropical forests, hyphae and particularly rhizomorphs formed by
+In [[mollison-wet-tropical-forest-structure-and-polyculture]] forests, hyphae and particularly rhizomorphs formed by
 species of Marasmius and Marasmiellus play a crucial role in trapping
 and decomposing plant litter in the tree canopy. These rhizomorphs are
 responsible for retaining approximately 7% of total expected leaf
@@ -45,8 +45,8 @@ day.
 ### Soil Stabilization
 
 Rhizomorphs contribute to soil physical structure by binding mineral
-particles and organic matter together. Lodge and Asbury (1988) showed
-that fungal hyphae and cords binding leaf litter together on the
+particles and [[hamilton-composting-and-organic-matter-management]] together. Lodge and Asbury (1988) showed
+that fungal hyphae and cords binding [[dighton-fungal-decomposition-leaf-litter-dynamics]] together on the
 tropical forest floor are important in preventing downslope loss of
 organic matter, with litter loss reduced by 35% from shallow slopes
 and 45% at greater slopes.
@@ -82,4 +82,6 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+- [[decomposition]]
+- [[fungal-hyphae]]
+- [[dighton-selective-grazing-fungal-community-shifts]]

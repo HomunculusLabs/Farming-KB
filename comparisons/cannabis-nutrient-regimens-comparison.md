@@ -1,5 +1,5 @@
 ---
-title: Cannabis Nutrient Regimens Comparison
+title: green-cannabis-nutrient-schedules Regimens Comparison
 created: 2026-04-13
 updated: 2026-04-13
 type: comparison
@@ -8,7 +8,7 @@ sources: []
 ---
 # Cannabis Nutrient Regimens Comparison
 
-Nutrient management is the primary lever for yield, flavor, and plant health in cannabis cultivation. The choice between organic and synthetic approaches — and the specific system within each category — has cascading effects on terpene production, soil health, long-term cost, and growing complexity. This comparison covers five major nutrient regimens used by home and commercial growers. For soil science fundamentals, see [[soil-food-web-structure]] and [[soil-food-web-structure]] for the biological principles that make organic regimens work.
+[[green-cannabis-grow-bible-nutrient-management-ppm]] is the primary lever for yield, flavor, and plant health in [[query-how-does-no-till-cannabis-cultivation-work]]. The choice between organic and synthetic approaches — and the specific system within each category — has cascading effects on terpene production, soil health, long-term cost, and growing complexity. This comparison covers five major nutrient regimens used by home and commercial growers. For soil science fundamentals, see [[soil-food-web-structure]] and [[soil-food-web-structure]] for the biological principles that make organic regimens work.
 
 ## Related
 
@@ -143,4 +143,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

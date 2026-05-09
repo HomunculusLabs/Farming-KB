@@ -1,5 +1,5 @@
 ---
-title: Sweet Potato Growing Guide
+title: Sweet hamilton-potato-growing-organic Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Sweet Potato Growing Guide
 
-Sweet potatoes (Ipomoea batatas) are a warm-climate perennial grown as an annual in most of the US. They produce large, calorie-dense tubers that store for months. Unlike regular potatoes (Solanum tuberosum), sweet potatoes are in the morning glory family and have very different growing requirements. This guide covers slips, soil, planting, hilling, curing, and storage.
+Sweet potatoes (Ipomoea batatas) are a warm-climate perennial grown as an annual in most of the US. They produce large, calorie-dense tubers that store for months. Unlike regular potatoes (Solanum tuberosum), sweet potatoes are in the [[golden-guide-morning-glory-and-ololiuqui]] family and have very different growing requirements. This guide covers slips, soil, planting, hilling, curing, and storage.
 
 ## Understanding Sweet Potatoes
 
@@ -69,7 +69,7 @@ Sweet potatoes are more forgiving about soil than many crops, but certain condit
 - **Texture**: Sandy or sandy loam is ideal — heavy clay produces misshapen roots. Raised beds with loose, well-drained soil work well.
 - **pH**: 5.0-6.5 (slightly acidic). Do NOT lime — sweet potatoes are sensitive to high pH.
 - **Fertility**: LOW to moderate nitrogen. Excess nitrogen produces huge vines and small tubers. Sweet potatoes need phosphorus and potassium more than nitrogen.
-- **Organic matter**: Moderate — avoid overly rich soil (too much compost = lush foliage, few tubers). Sandy soil with moderate compost is ideal.
+- **[[hamilton-composting-and-organic-matter-management]]**: Moderate — avoid overly rich soil (too much compost = lush foliage, few tubers). Sandy soil with moderate compost is ideal.
 - **Preparation**: Loosen soil to 12 inches deep. Remove rocks and debris that can cause deformed roots.
 
 ## Planting
@@ -78,7 +78,7 @@ Sweet potatoes are more forgiving about soil than many crops, but certain condit
 - Plant slips AFTER all frost danger has passed and soil has warmed to at least 65°F (70°F is better).
 - Sweet potatoes cannot tolerate any frost.
 - Typical planting: 2-4 weeks after last frost date.
-- Soil temperature can be raised with black plastic mulch.
+- Soil temperature can be raised with black [[jadam-plastic-mulch-problems]].
 
 ### How to Plant Slips
 1. Trim slips to 6-8 inches if longer. Remove lower leaves, leaving 2-3 leaves at the tip.
@@ -99,7 +99,7 @@ Sweet potatoes are more forgiving about soil than many crops, but certain condit
 ## Hilling
 
 - Unlike regular potatoes, sweet potatoes do NOT require hilling for tuber production.
-- However, light hilling or adding a thin layer of soil/sand once during the growing season can:
+- However, light hilling or adding a thin layer of soil/sand once during the [[savory-growing-season-and-non-growing-season-management]] can:
   - Protect shallow tubers from sun exposure (green spots are bitter).
   - Improve drainage around the root zone.
   - Reduce weeding in the row.
@@ -113,7 +113,7 @@ Sweet potatoes are more forgiving about soil than many crops, but certain condit
 - Critical during the first month (establishment) and during tuber formation (last 6-8 weeks).
 - Reduce watering 3-4 weeks before harvest — this concentrates sugars and cures the skin.
 - Drip irrigation is ideal.
-- Avoid overhead watering — promotes fungal disease on leaves.
+- Avoid overhead watering — promotes [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] on leaves.
 
 ### Fertilizing
 - Apply a balanced low-nitrogen fertilizer at planting (e.g., 5-5-10 or similar organic equivalent).
@@ -141,40 +141,6 @@ Sweet potatoes are more forgiving about soil than many crops, but certain condit
 
 ### How to Harvest
 - Cut vines 2-3 inches above ground and remove.
-- Use a digging fork, starting 12-18 inches from the plant center.
-- Dig deep and wide — sweet potatoes can spread far.
-- Lift gently — sweet potatoes skin easily; bruised tubers won't store well.
-- Do NOT wash — brush off loose soil only.
-- Cure damaged or cut tubers separately (use them first).
-
-## Curing
-
-Curing is ESSENTIAL for sweet potatoes — it converts starches to sugars, thickens the skin, and heals cuts.
-
-- **Temperature**: 80-85°F with 80-90% humidity.
-- **Duration**: 10-14 days.
-- **Method**: Place in a warm, humid location. Options:
-  - Near a heat source with a humidifier.
-  - In a greenhouse with mist.
-  - In a box with damp towels, in a warm room (check daily for mold).
-  - Wrap individually in newspaper and place in a warm (80-85°F) location.
-- After curing, the skin should be tough and the flesh sweet.
-- Uncured sweet potatoes are starchy, bland, and do not store well.
-
-## Storage
-
-### Ideal Conditions
-- Temperature: 55-60°F (cool but not cold).
-- Humidity: 85-90%.
-- Dark, well-ventilated.
-- Do NOT refrigerate — temperatures below 50°F cause chilling injury (hard core, off-flavor).
-- Do NOT store near apples or pears — ethylene gas causes off-flavors.
-
-### Storage Duration
-- Properly cured and stored sweet potatoes last 4-8 months.
-- Check monthly for soft spots or shriveling — remove immediately.
-- Eat any damaged or bruised roots first.
-
 ## Related Concepts
 
 - [[potato-growing-guide]] — similar storage crop with different growing requirements

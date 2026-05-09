@@ -9,11 +9,11 @@ sources:
 ---
 # Psilocybin and Addiction Treatment
 
-The potential of psychedelic compounds to treat addiction represents one of the most promising areas of modern psychedelic research. Powell's "The Psilocybin Solution" discusses this in the context of ibogaine and the broader capacity of entheogens to facilitate deep psychological re-evaluation.
+The potential of psychedelic compounds to treat addiction represents one of the most promising areas of modern [[mckenna-suppression-psychedelic-research-lsd-therapy]]. Powell's "The [[powell-psilocybin-solution-ecological-cognition-theory]]" discusses this in the context of ibogaine and the broader capacity of entheogens to facilitate deep psychological re-evaluation.
 
 ## Ibogaine: The Prototype
 
-Ibogaine is an alkaloid derived from the West African plant Tabernanthe iboga, used in the Bwiti cult's spiritual ceremonies. In the mid-1980s, **Howard Lotsof**, an ex-addict previously cured through his experiences with ibogaine, formed a company to promote its medical use. He was so assured of ibogaine's capacity to break drug addiction that he patented ibogaine treatments in the mid-80s.
+Ibogaine is an alkaloid derived from the West African plant [[plants-of-the-gods-tabernanthe-iboga-chemistry]], used in the [[iboga-and-the-bwiti-cult-initiation]]'s spiritual ceremonies. In the mid-1980s, **Howard Lotsof**, an ex-addict previously cured through his experiences with ibogaine, formed a company to promote its medical use. He was so assured of ibogaine's capacity to break drug addiction that he patented ibogaine treatments in the mid-80s.
 
 ### Mechanism
 The unusually intense and personally significant visionary effects of ibogaine appear to be the key to breaking patterns of addiction. Lotsof describes the visions as "movie-clip" sequences with Freudian and Jungian connotations -- symbolic narratives that allow patients to re-evaluate their lives and see mistakes they may have made. He refers to these visions as being like a "movie run at high speed" or a "slide-show, each slide containing a picture of a specific event or circumstance in the viewer's life."
@@ -31,7 +31,7 @@ While ibogaine is a distinct compound from psilocybin, both share the capacity t
 
 ## No Evidence of Psilocybin Addiction
 
-Powell notes a significant finding from the Harvard Psilocybin Project: there was "no evidence for psychological or physical addiction" to psilocybin itself, even though 90% of subjects wished to repeat the experience. No hangovers were reported. In a six-month follow-up study, none of the subjects developed enduring psychotic or neurotic symptoms. This non-addictive profile makes psilocybin uniquely suitable as a tool for treating other addictions -- it provides the visionary depth needed for psychological transformation without creating its own dependency cycle.
+Powell notes a significant finding from the [[leary-harvard-psilocybin-project]] Project: there was "no evidence for psychological or physical addiction" to psilocybin itself, even though 90% of subjects wished to repeat the experience. No hangovers were reported. In a six-month follow-up study, none of the subjects developed enduring psychotic or neurotic symptoms. This non-addictive profile makes psilocybin uniquely suitable as a tool for treating other addictions -- it provides the visionary depth needed for psychological transformation without creating its own dependency cycle.
 
 ## Addiction as Rigid Informational Pattern
 
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

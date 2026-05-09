@@ -1,5 +1,5 @@
 ---
-title: Phellinus Linteus and Meshima Cancer Research
+title: Phellinus Linteus and phellinus linteus meshima cancer research Research
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Phellinus Linteus and Meshima Cancer Research
 
-Phellinus linteus is a medicinal mushroom long used in traditional Chinese medicine (TCM) as hot water extracts from fruit-bodies, known as "song gen" in Chinese and "mishimakobu" in Japanese. Recent decades have seen significant pharmaceutical development of its polysaccharide products in Korea and Japan.
+Phellinus linteus is a [[gourmet-medicinal-mushroom-casing-layer-techniques]] long used in traditional Chinese medicine (TCM) as hot water extracts from fruit-bodies, known as "song gen" in Chinese and "mishimakobu" in Japanese. Recent decades have seen significant pharmaceutical development of its polysaccharide products in Korea and Japan.
 
 ## Traditional Use
 
@@ -66,7 +66,7 @@ This approach contrasts with traditional fruit-body collection which can be vari
 
 The anticancer properties of these mushroom-derived compounds operate through multiple pathways:
 
-1. **Immune modulation**: Activation of natural killer (NK) cells, macrophages, and dendritic cells through beta-glucan receptor binding
+1. **[[cancer-immune-modulation-mechanisms]]**: Activation of natural killer (NK) cells, macrophages, and dendritic cells through beta-glucan [[tihkal-receptor-binding-serotonin]]
 2. **Direct antitumor effects**: Induction of apoptosis in cancer cells via mitochondrial pathways
 3. **Anti-angiogenesis**: Inhibition of tumor blood vessel formation
 4. **Anti-metastatic activity**: Prevention of cancer cell migration and invasion
@@ -83,7 +83,7 @@ Mushroom-derived preparations are generally well-tolerated with minimal side eff
 ## Key Points
 
 - Mushroom-derived polysaccharides show immunomodulatory and direct antitumor activity
-- Beta-glucans are the primary bioactive compounds responsible for immune activation
+- Beta-glucans are the primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] responsible for immune activation
 - Clinical evidence supports adjunctive use alongside conventional cancer treatments
 - Safety profiles are favorable compared to many conventional therapies
 - Further large-scale clinical trials are needed to optimize dosing protocols
@@ -92,6 +92,6 @@ Mushroom-derived preparations are generally well-tolerated with minimal side eff
 
 - [[phellinus-linteus-cancer-research]]
 - [[medicinal-mushroom-guide-meshima]]
-- [[beta-glucan-receptor-binding]]
+- kappa opioid receptor
 - [[turkey-tail-trametes-versicolor]]
 - [[reishi-mushroom-medicinal-research]]

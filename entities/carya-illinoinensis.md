@@ -36,7 +36,7 @@ created: 2026-05-07
 ## Overview
 
 **Carya illinoinensis** (pecan) is a large deciduous tree in the family
-**Juglandaceae**, native to the southern United States and northern Mexico.
+**Juglandaceae**, native to the southern [[dmt-containing-plants-united-states-halpern]] and northern Mexico.
 It is the most commercially important hickory species, cultivated
 primarily for its edible nuts, which are rich in monounsaturated fats,
 antioxidants, and minerals.
@@ -57,7 +57,7 @@ described. The common name "pecan" derives from the Algonquin word
 *paccan*, meaning a nut requiring a stone to crack.
 
 The genus *Carya* contains approximately 17–19 species of hickories
-native to North America and East Asia. *C. illinoinensis* is the only
+native to [[psilocybin-north-america-pacific-northwest]] and [[neurotropic-fungi-japan-east-asia-species-cultural-context]]. *C. illinoinensis* is the only
 commercially cultivated species on a large scale.
 
 ## Morphology
@@ -90,7 +90,7 @@ drainage basin and its tributaries.
 Natural habitat is bottomland hardwood forests, river floodplains, and
 moist coves in mixed hardwood forests. It thrives in deep, well-drained
 alluvial soils with a pH of 6.0–7.0. Optimal growth occurs with 1000–
-1500 mm annual rainfall and a growing season of 180–220 days.
+1500 mm annual rainfall and a [[savory-growing-season-and-non-growing-season-management]] of 180–220 days.
 
 ## Cultivation
 
@@ -119,8 +119,8 @@ nutrients from subsoil layers and improves soil structure.
   common in the southern US, providing income from nuts, timber,
   and livestock on the same land.
 
-- **Companion planting**: Understory species include comfrey, nitrogen
-  fixers (black locust, autumn olive), and berry shrubs (elderberry,
+- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]**: Understory species include comfrey, nitrogen
+  fixers ([[comparison-black-locust-vs-honey-locust]], autumn olive), and berry shrubs (elderberry,
   currants). The partial shade cast by pecan canopies benefits
   shade-tolerant understory crops.
 
@@ -137,6 +137,8 @@ nutrients from subsoil layers and improves soil structure.
   renovation provide high-value timber.
 
 ## See Also
+
+- [[carya-glabra]]
 
 - [[corylus-avellana]]
 - [[robinia-pseudoacacia]]

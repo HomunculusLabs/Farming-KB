@@ -12,7 +12,7 @@ updated: 2026-04-26
 
 ## Overview
 
-Fungal plant pathogens represent a diverse assemblage of species that obtain nutrients from living host plants, causing diseases that range from minor cosmetic damage to catastrophic mortality events. Pathogenic fungi are found across all major fungal groups -- chytridiomycetes, oomycetes, zygomycetes, ascomycetes, and basidiomycetes -- and they attack virtually every part of the host plant including leaves, stems, roots, fruits, seeds, and flowers. While often viewed negatively from an agricultural perspective, fungal pathogens play crucial ecological roles as agents of natural selection, drivers of stand composition and forest dynamics, promoters of genetic diversity in host populations, and facilitators of competitive interactions among plant species.
+Fungal plant pathogens represent a diverse assemblage of species that obtain nutrients from living host plants, causing diseases that range from minor cosmetic damage to catastrophic mortality events. Pathogenic fungi are found across all major fungal groups -- chytridiomycetes, oomycetes, zygomycetes, ascomycetes, and basidiomycetes -- and they attack virtually every part of the host plant including leaves, stems, roots, fruits, seeds, and flowers. While often viewed negatively from an agricultural perspective, [[bloomfield-fungal-pathogens-and-parasites]] play crucial ecological roles as agents of natural selection, drivers of stand composition and forest dynamics, promoters of genetic diversity in host populations, and facilitators of competitive interactions among plant species.
 
 ## Major Groups of Fungal Plant Pathogens
 
@@ -21,7 +21,7 @@ Fungal plant pathogens represent a diverse assemblage of species that obtain nut
 Rust fungi are obligate biotrophs that require living host tissue to complete their life cycles. They are among the most economically important plant pathogens, causing diseases of cereal crops, coffee, soybeans, and many trees. Key features include:
 
 - Complex life cycles that may involve up to five different spore stages (spermogonia, aecia, uredinia, telia, and basidia) and up to two unrelated host species (heteroecism).
-- Urediniospores are typically dikaryotic and can initiate repeated cycles of infection during the growing season, leading to epidemic spread.
+- Urediniospores are typically dikaryotic and can initiate repeated cycles of infection during the [[savory-growing-season-and-non-growing-season-management]], leading to epidemic spread.
 - Teliospores are thick-walled, resting structures that survive adverse conditions and produce basidiospores upon germination.
 - Many rust species are highly host-specific, sometimes restricted to a single host species or even specific cultivars.
 
@@ -34,7 +34,7 @@ Smut fungi comprise more than 1,300 species in approximately 80 genera, infectin
 
 Powdery mildews are obligate biotrophic ascomycetes that produce characteristic white, powdery colonies on leaf surfaces, stems, and flowers. They are among the most recognizable plant diseases:
 
-- Superficial growth of hyphae on host surfaces with haustoria penetrating epidermal cells for nutrient uptake.
+- Superficial growth of hyphae on host surfaces with haustoria penetrating epidermal cells for [[plant-nutrient-uptake-mechanisms]].
 - Production of chains of conidia (asexual spores) that are readily dispersed by wind, enabling rapid epidemic development.
 - Cleistothecia (closed, spherical fruiting bodies) containing asci serve as the sexual stage and provide overwintering survival structures.
 - Host range is typically limited to specific plant families or genera.
@@ -49,11 +49,11 @@ Powdery mildews are obligate biotrophic ascomycetes that produce characteristic 
 
 ## Disease Cycles
 
-Fungal plant pathogens follow characteristic disease cycles involving inoculum production, dispersal, infection, colonization, and symptom development. Key elements include:
+Fungal plant pathogens follow characteristic disease cycles involving [[arbuscular-mycorrhizal-inoculum-production-best-practices]], dispersal, infection, colonization, and symptom development. Key elements include:
 
 - **Inoculum sources**: Spores, sclerotia, mycelium in infected tissue or soil, and infected seed or propagative material.
 - **Dispersal**: Wind (most foliar pathogens), water splash, soil movement, insect vectors, and human activity (transport of infected material).
-- **Infection**: Penetration through natural openings (stomata, lenticels), wounds, or direct penetration via appressoria (specialized infection structures that generate turgor pressure to breach the cuticle).
+- **Infection**: Penetration through natural openings (stomata, lenticels), wounds, or direct penetration via appressoria (specialized infection structures that generate [[bloomfield-turgor-pressure-and-hyphal-invasion]] to breach the cuticle).
 - **Latent periods**: The time between infection and symptom expression, which varies from days to years depending on the pathogen and host.
 - **Overwintering/oversummering**: Survival during periods unfavorable for active infection, typically as dormant spores, sclerotia, or in infected but asymptomatic tissue.
 
@@ -64,7 +64,7 @@ While often studied for their economic impact, fungal pathogens serve critical e
 - **Ecosystem engineers**: Pathogens affect stand composition, competition, reproduction, and genetic diversity of plant populations. By preferentially attacking weakened or susceptible individuals, pathogens can alter competitive hierarchies and create gaps for succession.
 - **Drivers of genetic diversity**: Recurrent pathogen pressure selects for resistance genes in host populations, maintaining genetic variation. Coevolutionary arms races between plants and their fungal pathogens have produced extraordinary diversity in both groups.
 - **Regulators of population dynamics**: Pathogen outbreaks can regulate host population size and prevent competitive exclusion, contributing to the maintenance of plant species diversity.
-- **Facilitators of nutrient cycling**: Dead and dying tissue killed by pathogens becomes substrate for saprotrophic decomposition, accelerating nutrient return to the soil.
+- **Facilitators of [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: Dead and dying tissue killed by pathogens becomes substrate for saprotrophic decomposition, accelerating nutrient return to the soil.
 - **Food web connectors**: Fungal pathogens and their host plants are embedded in complex food webs involving hyperparasitic fungi, mycophagous invertebrates, and vertebrate consumers.
 
 ## Pathogen Detection and Monitoring
@@ -77,6 +77,8 @@ Modern approaches to studying fungal pathogens include both traditional and mole
 - **Competitive RT-PCR**: Quantification of pathogen gene expression during infection, providing insights into virulence mechanisms.
 
 ## See Also
+
+- [[systemic-fungal-pathogens-vertebrate-ecology]]
 
 - [[bloomfield-fungal-pathogens-and-parasites]]
 - [[fungal-plant-diseases]]

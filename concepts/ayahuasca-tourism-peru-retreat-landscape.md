@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca Tourism Peru Retreat Landscape
+title: ayahuasca-tourism Peru Retreat Landscape
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,11 +10,11 @@ tags: [ayahuasca]
 
 # Ayahuasca Tourism Peru Retreat Landscape
 
-The primary hubs for ayahuasca tourism in Peru center around the Amazonian cities of Iquitos and Pucallpa, with activity concentrated in the Ucayali region of the Peruvian Amazon.
+The primary hubs for ayahuasca tourism in Peru center around the Amazonian cities of Iquitos and Pucallpa, with activity concentrated in the [[ayahuasquero-practitioner-profiles-ethics-ucayali-region]] of the Peruvian Amazon.
 
 The retreat landscape spans a broad spectrum from informal indigenous family ceremonies in Shipibo communities to upscale American-led operations marketed internationally.
 
-The variety of options reflects both the depth of indigenous ayahuasca tradition in the region and the growing global demand for psychedelic spiritual experiences.
+The variety of options reflects both the depth of indigenous [[shipibo-people-and-ayahuasca-tradition]] in the region and the growing global demand for psychedelic spiritual experiences.
 
 ## Geographic Centers
 
@@ -70,7 +70,7 @@ This tier offers the most direct contact with indigenous practice but also carri
 
 ### American-Led Retreats
 
-More expensive operations led by North American facilitators represent the premium tier of the retreat landscape.
+More expensive operations led by [[growing-gourmet-north-american-reishi-species]] facilitators represent the premium tier of the retreat landscape.
 
 The article describes four-star ayahuasca resorts that may feel "overly contrived" in their luxury packaging of an indigenous practice.
 
@@ -106,7 +106,7 @@ Beyond single ceremonies, the retreat landscape includes multi-week training pro
 
 The article describes two visiting ayahuasqueros who spent two weeks in Yarina conducting training sessions, indicating that some tourists seek extended immersive experiences rather than one-off ceremonies.
 
-These programs likely involve dietas (traditional plant diet practices), icaros instruction, and deeper engagement with Shipibo cosmology.
+These programs likely involve dietas (traditional plant [[amazonian-ayahuasca-purge-and-diet-practices]]), icaros instruction, and deeper engagement with Shipibo cosmology.
 
 The two-week format suggests a structured curriculum designed to give participants a more substantive understanding of the practice than a single ceremony can provide.
 
@@ -118,7 +118,7 @@ Government tourist agencies sponsor ayahuasca festivals, treating the practice a
 
 The brew and its raw materials are sold openly in markets, providing accessible supply to both practitioners and curious tourists.
 
-Peru's president (Alejandro Toledo, as of 2002) participated in an ayahuasca ceremony, signaling official acceptance at the highest level of government.
+Peru's president (Alejandro Toledo, as of 2002) participated in an [[ayahuasca-ceremony-pharmacology-safety]], signaling official acceptance at the highest level of government.
 
 This permissive environment contrasts with the broader drug war context in Peru.
 

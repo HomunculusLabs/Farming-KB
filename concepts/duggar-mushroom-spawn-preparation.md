@@ -1,7 +1,7 @@
 ---
 title: Mushroom Spawn Preparation Methods
 created: 2026-04-26
-sources: Benjamin Minge Duggar, "Mushroom Growing" (1915)
+sources: Benjamin Minge Duggar, "duggar-mushroom-growing-history-and-methods" (1915)
 source_path: raw/papers/benjamin-minge-duggar-mushroom-growing.md
 extracted: 2026-04-24
 type: concept
@@ -26,13 +26,13 @@ From the earliest records regarding mushroom culture, the grower depended upon a
 
 ## The Chance Method
 
-The maker of spawn whose source was the pasture proceeded by finding a natural occurrence of mushrooms in a favorable locality, removing the sod, preparing small trenches filled with good quality stable manure, and returning the sod. Into the manure of these trenches the spawn would grow and spread vigorously in an interval of some weeks. This material was then available for spawn-making or mushroom growing.
+The maker of spawn whose source was the pasture proceeded by finding a [[brassinosteroid-natural-occurrence-plant-kingdoms]] of mushrooms in a favorable locality, removing the sod, preparing small trenches filled with good quality stable manure, and returning the sod. Into the manure of these trenches the spawn would grow and spread vigorously in an interval of some weeks. This material was then available for spawn-making or mushroom growing.
 
 Virgin spawn was used either: (1) directly to inoculate the mushroom beds, or (2) more frequently to spawn compost intended to yield a large amount of crop spawn. Experience shows that continuous transfer of spawn from bed to bed results in a complete "running-out" or deterioration of the spawn if persisted in for about three years. No transfer should be made from a bed which has begun to bear mushrooms vigorously.
 
 ## The Tissue Culture Method (Pure Culture)
 
-The writer ascertained that fragments of growing mushrooms, obtained under aseptic conditions, may be made the starting point for pure cultures of spawn. A small piece of the inner tissue of a fresh mushroom will, when placed on any suitable sterile nutrient medium, promptly develop a mycelium, thus yielding a culture of the spawn. This method was originated by the writer while at the Bureau of Plant Industry, U.S. Department of Agriculture, in 1902.
+The writer ascertained that fragments of [[falconer-growing-mushrooms-in-sheds]], obtained under aseptic conditions, may be made the starting point for pure cultures of spawn. A small piece of the inner tissue of a fresh mushroom will, when placed on any suitable sterile nutrient medium, promptly develop a mycelium, thus yielding a culture of the spawn. This method was originated by the writer while at the Bureau of Plant Industry, U.S. Department of Agriculture, in 1902.
 
 ### Making Pure Cultures
 
@@ -62,7 +62,7 @@ Hand moulds may be made of iron or a strong oak frame lined with steel plates. T
 ### Inoculation, Growth and Drying
 Two [[spawn-production]]
 
-Modern commercial spawn production has advanced considerably since Duggar's era, though many of his fundamental principles remain valid. Today's spawn laboratories use laminar flow hoods and sterile technique borrowed from medical microbiology to maintain aseptic conditions during inoculation. The most common spawn substrates include sterilized grain (rye, millet, or wheat), supplemented sawdust, and specialized plug spawn for log inoculation. Grain spawn remains the standard for most cultivation due to its high surface area and rapid colonization rates. Pure culture techniques developed from Duggar's tissue culture method are now used universally, with genetic selection allowing strain improvement for yield, disease resistance, and fruiting characteristics.
+Modern commercial spawn production has advanced considerably since Duggar's era, though many of his fundamental principles remain valid. Today's spawn laboratories use laminar flow hoods and [[cultivator-sterile-technique-and-agar-culture]] borrowed from medical microbiology to maintain aseptic conditions during inoculation. The most common spawn substrates include sterilized grain (rye, millet, or wheat), [[oyster-mushroom-supplemented-sawdust-blocks]], and specialized plug spawn for log inoculation. Grain spawn remains the standard for most cultivation due to its high surface area and rapid colonization rates. Pure [[agar-culture-techniques-detailed]] developed from Duggar's tissue culture method are now used universally, with genetic selection allowing strain improvement for yield, disease resistance, and fruiting characteristics.
 
 ## Storage Conditions and Shelf Life
 

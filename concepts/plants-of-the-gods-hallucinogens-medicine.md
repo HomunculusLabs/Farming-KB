@@ -42,7 +42,7 @@ to the therapeutic value of these substances.
 
 [[plants-of-the-gods-chemical-structures-hallucinogens]] describes the
 molecular structures underlying the effects discussed here. Hallucinogens serve as research tools for studying the nature of
-mental disorders. Certain abnormal mental states produced by
+[[blesching-cannabis-mental-disorders]]. Certain abnormal mental states produced by
 hallucinogens in normal subjects resemble, in some respects, symptoms
 of schizophrenia. While hallucinogenic intoxication was once considered
 a "model of psychosis," major differences have been found between
@@ -52,9 +52,9 @@ and electrophysiological changes associated with abnormal mental states.
 
 ## Care of the Dying
 
-One of the most ethically significant medical applications involves
+One of the most ethically significant [[oner-sativa-medical-applications]] involves
 the care of terminal patients. Doctors in American hospitals observed
-that the severe pain suffered by cancer patients, which no longer
+that the severe pain suffered by [[cannabis-for-cancer-patients]], which no longer
 responded to conventional analgesics, was sometimes dramatically
 relieved through hallucinogenic therapy. Beyond pain relief, these
 substances helped patients confront their mortality with reduced fear
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

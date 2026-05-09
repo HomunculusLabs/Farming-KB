@@ -4,12 +4,14 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Wood-Loving Substrate Recipes
 
-Wood-loving mushroom species, including shiitake (Lentinula edodes), oyster mushrooms (Pleurotus spp.), enoki (Flammulina velutipes), reishi (Ganoderma lucidum), lion's mane (Hericium erinaceus), and maitake (Grifola frondosa), require lignocellulosic substrates that mimic their natural woody habitats. These substrates differ significantly from the straw and compost substrates used for compost-adapted species, with higher carbon-to-nitrogen ratios and a requirement for wood-based structural materials.
+Wood-loving mushroom species, including shiitake (Lentinula edodes), oyster mushrooms (Pleurotus spp.), enoki (Flammulina velutipes), reishi ([[stamets-reishi-ganoderma-lucidum-cultivation]]), lion's mane (Hericium erinaceus), and maitake ([[maitake-grifola-frondosa-comprehensive-profile]]), require lignocellulosic substrates that mimic their natural woody habitats. These substrates differ significantly from the straw and compost substrates used for compost-adapted species, with higher carbon-to-nitrogen ratios and a requirement for wood-based structural materials.
 
 ## Sawdust and Bran Base Recipe
 
@@ -21,7 +23,7 @@ The sawdust should be from hardwood species such as oak, maple, beech, alder, or
 
 Sawdust is soaked in water for at least twenty-four hours before use, then drained. The bran is thoroughly mixed into the hydrated sawdust. Proper moisture content is confirmed with a squeeze test: a firm squeeze of the substrate should yield a few drops of water between the fingers without dripping. The mixture is filled firmly into wide-mouth jars or grow bags, leaving adequate headspace.
 
-Because the bran supplement provides readily available nitrogen, this substrate must be sterilized rather than pasteurized. Standard sterilization is 60-90 minutes at 15 psi (250°F). For grow bags, autoclaving at 15 psi for 2 hours ensures complete penetration. Pasteurization is insufficient for supplemented sawdust substrates because competitor molds would rapidly colonize the nitrogen-rich bran before mushroom mycelium could establish dominance. See [[oyster-mushroom-varieties]] species also grow well on straw, making them the most versatile cultivated mushrooms.
+Because the bran supplement provides readily available nitrogen, this substrate must be sterilized rather than pasteurized. Standard sterilization is 60-90 minutes at 15 psi (250°F). For grow bags, autoclaving at 15 psi for 2 hours ensures complete penetration. Pasteurization is insufficient for [[oyster-mushroom-supplemented-sawdust-blocks]] substrates because competitor molds would rapidly colonize the nitrogen-rich bran before mushroom mycelium could establish dominance. See oyster-mushroom-varieties species also grow well on straw, making them the most versatile [[fungi-cultivated-mushrooms-pathogens-competitors]].
 Different Pleurotus species have distinct substrate preferences within the
 oyster group. Pleurotus ostreatus (pearl oyster) thrives on a broad range
 of hardwood substrates including oak, beech, and poplar. Pleurotus
@@ -50,7 +52,7 @@ results with a mixed hardwood sawdust base (oak combined with beech or
 maple) rather than a single-species sawdust, possibly because the diverse
 lignocellulosic profile provides a more complete nutritional profile.
 Supplementation with 5% soybean meal or 2-3% cottonseed meal as a partial
-bran replacement has been shown to increase biological efficiency by
+bran replacement has been shown to increase [[stamets-biological-efficiency-yield]] by
 10-15%, but higher rates increase contamination risk.
 
 ### Reishi
@@ -78,7 +80,7 @@ The choice of wood species significantly affects fruiting. Oak and alder are amo
 
 ## Log Cultivation Substrates
 
-While not a "recipe" in the traditional sense, log cultivation is the oldest method for growing wood-loving mushrooms. Hardwood logs 3-6 inches in diameter and 3-4 feet long are inoculated by drilling holes and inserting plug spawn or sawdust spawn. The log species determines which mushrooms will thrive. Oak, maple, beech, ironwood, and sweetgum are preferred. Logs are sealed with wax after inoculation and incubated in shade for 6-18 months before fruiting.
+While not a "recipe" in the traditional sense, log cultivation is the oldest [[query-what-is-the-kratky-method-for-growing-cannabis]] wood-loving mushrooms. Hardwood logs 3-6 inches in diameter and 3-4 feet long are inoculated by drilling holes and inserting plug spawn or sawdust spawn. The log species determines which mushrooms will thrive. Oak, maple, beech, ironwood, and sweetgum are preferred. Logs are sealed with wax after inoculation and incubated in shade for 6-18 months before fruiting.
 
 ## Moisture Content and Field Capacity
 
@@ -88,7 +90,7 @@ Substrates that are too dry produce sparse mycelial growth and poor fruiting. Ov
 
 ## Related
 
-- [[mushroom-substrate-recipes]]
+- mushroom-substrate-recipes
 - [[bulk-substrate-preparation]]
 - [[synthetic-log-mushroom-cultivation]]
 - [[oyster-mushroom-substrate-preparation]]

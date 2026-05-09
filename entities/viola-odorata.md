@@ -69,7 +69,7 @@ The characteristic sweet fragrance is produced by volatile ionones and is most p
 
 *V. odorata* is native to Europe, North Africa, and western Asia, with a natural distribution from the British Isles and Iberian Peninsula eastward to the Caucasus and Iran.
 
-It has been widely naturalized in temperate regions worldwide, including eastern North America, eastern Australia, and New Zealand.
+It has been widely naturalized in temperate regions worldwide, including [[polypore-fungi-eastern-north-america]] America, eastern Australia, and New Zealand.
 
 The species thrives in partial to full shade in moist, rich, well-drained soils with a pH of 5.5–7.0, though it tolerates a range of conditions.
 
@@ -84,7 +84,7 @@ The plant is winter-hardy to USDA zone 4 (−34°C), with evergreen foliage in m
 The aerial parts and roots of *V. odorata* contain a diverse array of pharmacologically active compounds.
 
 - **Mucilage:** High concentrations of water-soluble polysaccharides in leaves and flowers provide soothing, demulcent properties for respiratory and gastrointestinal mucosa.
-- **Salicylic acid derivatives:** Including methyl salicylate and viola quercitrin, contributing anti-inflammatory and mild analgesic effects.
+- **[[comparison-jasmonate-vs-salicylic-acid-defense-signaling]] derivatives:** Including methyl salicylate and viola quercitrin, contributing anti-inflammatory and mild analgesic effects.
 - **Saponins:** Present in roots, accounting for traditional expectorant use through irritation of respiratory mucosa.
 - **Flavonoids:** Rutin, quercetin, and violanthin, providing antioxidant and anti-inflammatory activity.
 - **Volatile oils:** Ionones (α- and β-ionone), responsible for the characteristic violet fragrance; parmon in roots.
@@ -98,7 +98,7 @@ Sweet violet has one of the longest continuous records of medicinal use in Weste
 
 The primary traditional indications are for **respiratory conditions**: coughs, bronchitis, catarrh, and sore throats, where the soothing mucilage and expectorant saponins complement each other.
 
-The herb has also been used as a **diuretic** for urinary tract inflammation, as a mild **laxative**, and as a topical anti-inflammatory for skin conditions.
+The herb has also been used as a **diuretic** for urinary tract inflammation, as a mild **laxative**, and as a topical anti-inflammatory for [[cannabis-for-skin-conditions-detailed]].
 
 Historical uses include treatment of headaches, insomnia, and as a cooling agent for fevers — the latter reflected in its traditional classification as a "cold" herb in humoral medicine.
 
@@ -126,9 +126,9 @@ Sweet violet is an excellent **ground cover** for shaded areas in permaculture d
 
 The plant provides early-season **nectar and pollen** for pollinators, flowering in late winter to early spring when few other nectar sources are available.
 
-Cleistogamous flowers ensure reliable seed production regardless of pollinator availability, supporting self-sustaining populations.
+Cleistogamous flowers ensure reliable [[cervantes-seed-production-storage]] regardless of pollinator availability, supporting self-sustaining populations.
 
-Violet serves as a **dynamic accumulator**, drawing minerals from deeper soil layers and making them available through leaf litter decomposition.
+Violet serves as a **[[nutrient-dynamic-accumulator-reference]]**, drawing minerals from deeper soil layers and making them available through leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]].
 
 In food forest understories, sweet violet occupies the herbaceous layer beneath fruit trees and berry bushes, requiring no supplemental irrigation once established.
 

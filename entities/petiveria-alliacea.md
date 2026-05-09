@@ -24,9 +24,9 @@ created: 2026-04-28
 
 ## Overview
 
-**Petiveria alliacea**, commonly known as **anamú**, **guiné**, **tipi**, or **mucura**, is a perennial herbaceous plant in the family Phytolaccaceae, widely distributed across the tropical Americas from the southern United States to Argentina.
+**Petiveria alliacea**, commonly known as **anamú**, **guiné**, **tipi**, or **mucura**, is a perennial herbaceous plant in the family Phytolaccaceae, widely distributed across the tropical Americas from the southern [[dmt-containing-plants-united-states-halpern]] to Argentina.
 
-The species has a long and extensive history of use in traditional medicine throughout the Caribbean, Central America, and the Amazon basin, where it is employed for conditions ranging from pain and inflammation to respiratory infections and cancer.
+The species has a long and extensive history of use in traditional medicine throughout the Caribbean, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and the Amazon basin, where it is employed for conditions ranging from pain and inflammation to respiratory infections and cancer.
 
 Its common names in multiple indigenous languages — *anamú* (Taino), *guiné* (Yoruba-derived), *ipê-caa* (Tupi-Guarani) — reflect its deep integration into the ethnomedical systems of African-descended and indigenous communities across its range.
 
@@ -50,7 +50,7 @@ The root system is fibrous and shallow, with a distinctive pungent aroma. Roots 
 
 ## Distribution and Habitat
 
-*Petiveria alliacea* has a pantropical distribution in the Americas, occurring naturally from Florida and Texas in the north through Mexico, Central America, the Caribbean islands, and throughout South America to northern Argentina.
+*Petiveria alliacea* has a [[copelandia-cyanescens-pantropical-distribution-and-ecology]] in the Americas, occurring naturally from Florida and Texas in the north through Mexico, Central America, the Caribbean islands, and throughout South America to northern Argentina.
 
 It thrives in a wide range of habitats including disturbed areas, forest edges, secondary growth, riverbanks, and cultivated fields. It is considered a pioneer species in tropical successional sequences.
 
@@ -66,7 +66,7 @@ The chemical profile of *P. alliacea* is diverse, with sulfur-containing compoun
 - **6-Benzyl-1,3-cyclohexanedione derivatives** — dibenzyl trisulfide (DTS) is the most studied; demonstrates immunomodulatory and anticancer properties in vitro.
 - **Flavonoids** — including quercetin and kaempferol glycosides, contributing antioxidant and anti-inflammatory activity.
 - **Coumarins** — scopoletin and related compounds with documented antispasmodic and anticoagulant effects.
-- **Triterpenes and saponins** — betulinic acid derivatives with reported cytotoxic activity against cancer cell lines.
+- **Triterpenes and saponins** — betulinic acid derivatives with reported cytotoxic activity against [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines.
 
 Pharmacological studies have demonstrated significant **immunomodulatory activity**, with extracts enhancing natural killer (NK) cell function and modulating cytokine production. In vitro studies show selective cytotoxicity against several cancer cell lines, including breast, lung, and colon carcinoma.
 
@@ -90,13 +90,13 @@ Typical dosing in traditional practice ranges from 1–3 g of dried root materia
 
 The benzyl polysulfides are moderately cytotoxic and may potentiate the effects of anticoagulant and antidiabetic medications. Patients on warfarin or insulin therapy should exercise caution.
 
-Rare cases of hepatotoxicity have been reported with excessive or prolonged use. As with many potent medicinal herbs, moderation and professional guidance are recommended for therapeutic applications.
+Rare cases of hepatotoxicity have been reported with excessive or prolonged use. As with many potent [[permaculture-plants-medicinal-herbs-healing]], moderation and professional guidance are recommended for therapeutic applications.
 
 ## Ecological Role
 
 The pungent sulfur compounds in *P. alliacea* serve as natural herbivore deterrents, reducing browsing damage from insects and mammals. The plant also exhibits mild allelopathic properties, suppressing germination of competing species in its immediate vicinity.
 
-It serves as a low-growing ground cover in tropical food forests and agroforestry systems, contributing to biodiversity and soil stability in understory layers.
+It serves as a low-growing [[fukuoka-citrus-orchard-ground-cover-cultivation]] in tropical food forests and agroforestry systems, contributing to biodiversity and soil stability in understory layers.
 
 ## See Also
 

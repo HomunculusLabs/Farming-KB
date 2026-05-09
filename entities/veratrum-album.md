@@ -79,7 +79,7 @@ The teratogenic alkaloid jervine causes holoprosencephaly and cyclopia in develo
 
 *V. album* was used in classical Greek medicine as a therapeutic emetic and purgative. Hippocrates and Dioscorides described its use for treating melancholy, epilepsy, and various fevers. The drug was administered in extremely small doses, reflecting awareness of its toxicity.
 
-In 19th-century European medicine, veratrine preparations were used as antihypertensive agents, particularly for the treatment of preeclampsia. The protoveratrines were investigated as rapid-acting vasodilators before the development of modern antihypertensive drugs. Veratrum preparations were largely abandoned in conventional medicine by the mid-20th century due to their narrow therapeutic index.
+In 19th-century European medicine, veratrine preparations were used as antihypertensive agents, particularly for the treatment of preeclampsia. The protoveratrines were investigated as rapid-acting vasodilators before the development of modern antihypertensive drugs. Veratrum preparations were largely abandoned in conventional medicine by the mid-20th century due to their narrow [[cannabis-therapeutic-index-overview]].
 
 In traditional Chinese medicine, the related species *Veratrum nigrum* (黑白藜芦) has been used similarly. Homeopathic preparations of *Veratrum album* are still marketed for various conditions, though these contain no detectable alkaloids.
 
@@ -89,13 +89,13 @@ In traditional Chinese medicine, the related species *Veratrum nigrum* (黑白�
 
 The plant serves as a nectar source for alpine pollinators, particularly bumblebees and flies, despite the alkaloid content in its tissues. Pollinators appear to be unaffected by the alkaloids in nectar and pollen, suggesting either metabolic tolerance or very low alkaloid concentrations in floral rewards.
 
-*V. album* can act as an invasive species when introduced outside its native range. In North America, it has naturalized in parts of the northeastern United States and eastern Canada, where it poses a poisoning risk to livestock unfamiliar with the plant. Its spread is monitored by agricultural extension services.
+*V. album* can act as an invasive species when introduced outside its native range. In [[psilocybin-north-america-pacific-northwest]], it has naturalized in parts of the northeastern [[dmt-containing-plants-united-states-halpern]] and eastern Canada, where it poses a poisoning risk to livestock unfamiliar with the plant. Its spread is monitored by agricultural extension services.
 
 ## Similar Species and Confusion
 
 *Veratrum album* can be confused with the European white hellebore species *Veratrum lobelianum*, which some authorities treat as a subspecies of *V. album*. The two are morphologically very similar and occupy overlapping ecological niches, though *V. lobelianum* tends to flower slightly later.
 
-The genus *Veratrum* includes approximately 25 species distributed across the Northern Hemisphere. *V. viride* (American false hellebore) is the North American counterpart, occupying similar ecological niches in Appalachian and western mountain meadows. It contains a similar alkaloid profile and is equally toxic.
+The genus *Veratrum* includes approximately 25 species distributed across the Northern Hemisphere. *V. viride* (American false hellebore) is the [[growing-gourmet-north-american-reishi-species]] counterpart, occupying similar ecological niches in Appalachian and western mountain meadows. It contains a similar alkaloid profile and is equally toxic.
 
 In its vegetative state, *V. album* can be confused with *Allium ursinum* (wild garlic) or *Colchicum autumnale* (meadow saffron), both of which share broad, parallel-veined leaves in similar habitats. This confusion has historically resulted in serious poisoning incidents, particularly when foragers collect the wrong species.
 

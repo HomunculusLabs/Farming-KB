@@ -23,7 +23,7 @@ sources:
 Smilax regelii, known as Honduran sarsaparilla, is a perennial climbing vine
 in the family Smilacaceae (formerly placed in Liliaceae and Smilacaceae).
 
-The species is native to Central America, the Caribbean, and northern South
+The species is native to [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], the Caribbean, and northern South
 America, where it has been used medicinally for centuries by Indigenous peoples.
 
 Its dried rhizomes have served as the primary flavoring and medicinal component
@@ -77,7 +77,7 @@ Additional compounds include flavonoids (astilbin, quercetin, kaempferol
 derivatives), phenolic acids (caffeic acid, ferulic acid), and diterpenes.
 
 The saponin content of dried rhizomes typically ranges from 1.5% to 2.5%,
-varying with geographic origin, harvest timing, and processing methods.
+varying with geographic origin, [[cannabis-harvest-timing-visual-cues]], and processing methods.
 
 Smilagenin and sarsasapogenin have been investigated as steroidal precursors
 in the semi-synthesis of pharmaceutical compounds including corticosteroids
@@ -97,7 +97,7 @@ diaphoretics, diuretics, and mild alteratives to support detoxification and
 skin health.
 
 Modern herbal practitioners employ sarsaparilla in formulations for
-psoriasis, eczema, arthritis, and as an adjunct in heavy metal detoxification
+psoriasis, eczema, arthritis, and as an adjunct in heavy [[staycare-phytochelatins-and-intracellular-metal-detoxification-in-fungi]]
 protocols, though clinical evidence remains limited.
 
 ## Commercial and Cultural Significance

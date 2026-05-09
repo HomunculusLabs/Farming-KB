@@ -14,7 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly Staff. "Apple Fritter Strain Information." Leafly.com, 2024.
-  - AllBud. "Apple Fritter Cannabis Strain." AllBud.com, 2024.
+  - AllBud. "Apple Fritter [[blesching-cannabis-strain-selection-receptor-targeting]]." AllBud.com, 2024.
   - Weedmaps. "Apple Fritter: Strain Review." Weedmaps.com, 2025.
 ---
 
@@ -45,7 +45,7 @@ Apple Fritter was originally bred by **Lumpy's Flowers**, a boutique breeding op
 Apple Fritter buds are visually striking and densely structured:
 
 - **Structure:** Medium to large, tightly packed calyxes forming chunky, rounded nuggets
-- **Coloration:** Deep forest green with flashes of violet and purple, particularly in cooler growing conditions. Bright orange pistils weave throughout.
+- **Coloration:** Deep [[trichoderma-forest-green-mold-guide]] with flashes of violet and purple, particularly in cooler growing conditions. Bright orange pistils weave throughout.
 - **Trichome coverage:** Exceptionally heavy — buds appear frosted or snow-capped with a thick layer of milky-white trichomes
 - **Density:** High — buds are firm and compact, characteristic of their Cookies lineage
 
@@ -93,7 +93,7 @@ Effects begin within 5–15 minutes of consumption, typically starting with a ge
 Patients and medical users report benefits for:
 
 - **Insomnia** — the sedating body effects promote sleep onset
-- **Chronic pain** — moderate to strong analgesic properties
+- **[[cannabis-chronic-pain-management]]** — moderate to strong analgesic properties
 - **Anxiety and stress** — calming effects reduce racing thoughts
 - **Appetite stimulation** — useful for conditions causing appetite loss
 - **Muscle spasms** — muscle-relaxant properties help with cramping
@@ -125,11 +125,11 @@ Apple Fritter is considered **moderately difficult** to cultivate, requiring som
 
 ### Cultivation Tips
 
-- Training techniques such as **low-stress training (LST)** and **scrogging** work well to manage canopy height and maximize light penetration
-- The strain responds well to **defoliation** during the early flowering phase to improve airflow and light exposure to lower bud sites
+- [[cannabis-training-techniques-comparison]] such as **low-stress training (LST)** and **scrogging** work well to manage canopy height and maximize light penetration
+- The strain responds well to **defoliation** during the early [[green-cannabis-grow-bible-flowering-phase-and-harvest]] to improve airflow and light exposure to lower bud sites
 - Cooler nighttime temperatures (18–20°C) during the final 2 weeks of flowering can enhance purple coloration
 - Plants are moderately sensitive to over-fertilization — a conservative feeding schedule is recommended
-- The dense bud structure requires good airflow to prevent **botrytis** (bud rot) in humid conditions
+- The dense bud structure requires good airflow to prevent **botrytis** ([[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]]) in humid conditions
 
 ## Cannabinoid and Terpene Profile
 
@@ -140,5 +140,5 @@ Apple Fritter is considered **moderately difficult** to cultivate, requiring som
 
 - [[sour-diesel]]
 - [[girl-scout-cookies]] — Grandparent strain via Animal Cookies
-- [[gelato-cannabis]] — Related dessert-profile hybrid
+- [[gelato]] — Related dessert-profile hybrid
 - [[limonene]] — Primary terpene

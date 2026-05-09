@@ -15,15 +15,15 @@ updated: 2026-05-08
 sources:
   - Jarrold S. "Indoor Mushroom Growing Technique: Boil a Bag." Mushroom cultivation guide.
   - Stamets P (1993). Growing Gourmet and Medicinal Mushrooms. Ten Speed Press, Berkeley, CA.
-  - Wood DA, Smith JF (1987). "The cultivation of mushrooms on enriched straw substrates." Mushroom Journal 164: 366-371.
+  - Wood DA, Smith JF (1987). "The [[companion-cultivation-of-mushrooms-with-garden-vegetables]] on enriched straw substrates." Mushroom Journal 164: 366-371.
   - Rinker DL (1991). "Use of supplements in mushroom cultivation." In: van Griensven LJLD (ed.), Genetics and Breeding of Agaricus. Pudoc, Wageningen.
 ---
 
 ## Overview
 
-Yeast extract products such as Marmite, Vegemite, and commercial yeast extract powders are used as nutritional supplements in mushroom substrate preparation, particularly for straw-based cultivation methods including the boil-a-bag technique. These products provide a concentrated source of nitrogen, B vitamins, minerals, and growth factors that enhance mycelial growth rates and fruiting yields.
+Yeast extract products such as Marmite, Vegemite, and commercial yeast extract powders are used as nutritional supplements in mushroom [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]], particularly for straw-based cultivation methods including the boil-a-bag technique. These products provide a concentrated source of nitrogen, B vitamins, minerals, and growth factors that enhance mycelial growth rates and fruiting yields.
 
-Straw is an excellent base substrate for mushroom cultivation because of its high cellulose content, favorable structure for mycelial colonization, and widespread availability at low cost. However, straw alone is relatively deficient in nitrogen and certain micronutrients. Supplementation with yeast extract addresses these deficiencies and can significantly improve cultivation outcomes.
+Straw is an excellent base [[grass-seed-substrate-for-mushroom-cultivation]] cultivation because of its high cellulose content, favorable structure for mycelial colonization, and widespread availability at low cost. However, straw alone is relatively deficient in nitrogen and certain micronutrients. Supplementation with yeast extract addresses these deficiencies and can significantly improve cultivation outcomes.
 
 ## Nutritional Composition of Yeast Extract
 
@@ -59,7 +59,7 @@ Different mushroom species respond differently to yeast extract supplementation.
 
 Shiitake (Lentinula edodes) is more selective about substrate composition and may not benefit as much from yeast extract as from wood-based supplements or bran. The species has evolved to decompose hardwood and may not efficiently utilize the soluble nutrients in yeast extract.
 
-Species like Lion's Mane (Hericium erinaceus) and Reishi (Ganoderma lucidum) show intermediate responses. These species benefit from some supplementation but may perform best with a combination of yeast extract and other supplements such as grain bran or gypsum.
+Species like Lion's Mane (Hericium erinaceus) and Reishi ([[stamets-reishi-ganoderma-lucidum-cultivation]]) show intermediate responses. These species benefit from some supplementation but may perform best with a combination of yeast extract and other supplements such as grain bran or gypsum.
 
 ## Boiling Integration and Sterilization
 
@@ -73,7 +73,7 @@ One consideration is that the boiling process concentrates the yeast extract as 
 
 Excessive yeast extract supplementation can cause several problems. The most significant is increased contamination risk, particularly from bacteria that thrive on the readily available amino acids and peptides. If the pasteurization step is insufficient, bacterial contamination can rapidly outcompete mushroom mycelium on a yeast-extract-rich substrate.
 
-High nitrogen levels from over-supplementation can also cause abnormal mycelial morphology. Excessively fluffy or cottony mycelial growth, reduced rhizomorphic structure, and delayed fruiting can all result from nitrogen levels that exceed the species' optimal range.
+High nitrogen levels from over-supplementation can also cause abnormal [[growing-gourmet-mycelial-morphology-classification-agar-media]]. Excessively fluffy or cottony mycelial growth, reduced rhizomorphic structure, and delayed fruiting can all result from nitrogen levels that exceed the species' optimal range.
 
 The high sodium content of consumer yeast extract products like Marmite can be a concern at higher supplementation rates. While sodium is a necessary micronutrient, excessive levels can inhibit mycelial growth. Cultivators using Marmite at higher rates may wish to use low-sodium yeast extract alternatives or balance the sodium with additional potassium.
 
@@ -95,7 +95,7 @@ Some cultivators add small amounts of molasses alongside yeast extract to provid
 
 ## Shelf Life and Storage Considerations
 
-Marmite and similar yeast extract pastes have excellent shelf stability due to their high salt and low moisture content. Unopened containers can be stored at room temperature for years without significant degradation of nutritional quality.
+Marmite and similar yeast extract pastes have excellent shelf stability due to their high salt and low moisture content. Unopened containers can be stored at room temperature for years without significant degradation of [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
 
 Once opened, yeast extract products should be kept sealed to prevent moisture absorption and contamination. The hygroscopic nature of yeast extract means that it can absorb water from humid air, potentially promoting microbial growth on the product itself. Refrigeration after opening extends the usable life considerably.
 

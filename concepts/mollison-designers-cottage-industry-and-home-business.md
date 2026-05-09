@@ -1,5 +1,5 @@
 ---
-title: Cottage Industry and Home Business in Permaculture
+title: mollison designers cottage industry and home business and Home Business in Permaculture
 created: 2026-04-28
 tags:
   - permaculture
@@ -15,7 +15,7 @@ type: concept
 
 # Cottage Industry and Home Business in Permaculture
 
-A fundamental tenet of permaculture design is that settlements should
+A fundamental tenet of [[mollison-permaculture-design-course-curriculum]] is that settlements should
 produce as much of their own needs as possible within their boundaries.
 The Permaculture Designers Manual extends this principle beyond food
 production to encompass the full range of goods and services required for
@@ -49,7 +49,7 @@ commands commodity prices determined by wholesale markets, but processed
 products capture additional value through labour, creativity, and skill.
 Mollison lists numerous examples: fruit preserves, dried fruits and
 herbs, cheese and dairy products, baked goods, cured meats, smoked fish,
-pressed oils, honey products, herbal tinctures, and fermented foods and
+pressed oils, honey products, [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]], and fermented foods and
 beverages.
 
 Value-added processing serves multiple permaculture functions. It extends
@@ -60,7 +60,7 @@ larger share of the final retail price. And it creates unique products
 with local identity that cannot be easily substituted by mass-produced
 alternatives. Processing waste, such as fruit pomace from pressing or
 whey from cheesemaking, feeds livestock or compost systems, maintaining
-the mollison designers nutrient cycling loop.
+the mollison designers [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] loop.
 
 ## Craft and Small-Scale Manufacturing
 
@@ -69,14 +69,14 @@ and small-scale manufacturing at the village level. Timber from
 [[mollison-designers-broadacre-grain-and-pasture-design]] systems (wool, hemp,
 flax) can be processed into textiles, rope, and paper. Clay and stone
 from [[mollison-designers-community-seed-banks-and-exchange]] management,
-composting services, and small-scale renewable energy installation all
+composting services, and small-scale [[holmgren-wind-power-and-renewable-energy-debate]] installation all
 represent viable home-based business opportunities that draw directly
 on permaculture knowledge and skills.
 
 Mollison emphasises that the demand for permaculture-related services is
 growing as awareness of environmental limits increases. Practitioners who
 develop expertise in specific areas such as [[mollison-designers-earthworks-for-erosion-control]], or
-[[mollison-designers-settlement-village-design]] from
+mollison-designers-settlement-village-design from
 the outset. Mollison recommends allocating dedicated workspace within or
 adjacent to residential buildings, with appropriate access for materials
 and customers. Processing facilities should be located in Zone 1 or Zone
@@ -94,7 +94,7 @@ utilisation is maximised.
 ## Community Economic Structures
 
 Mollison recognises that individual home businesses function best within
-supportive community economic structures. Local currency systems,
+supportive community economic structures. [[mollison-local-currency-systems-and-community-banking]] systems,
 barter networks, cooperative marketing arrangements, and community-owned
 processing facilities all help small enterprises overcome the
 disadvantages of scale they face in competition with large corporations.

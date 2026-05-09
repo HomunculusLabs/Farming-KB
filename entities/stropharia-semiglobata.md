@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Noordeloos M.E. (2011). "Strophariaceae s.l." Fungi Europaei, Vol. 13. — Edizioni Candusso.
-  - Stamets P. (1996). "Psilocybin Mushrooms of the World." Ten Speed Press.
+  - Stamets P. (1996). "[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World." Ten Speed Press.
   - Watling R., Gregory N.M. (1987). "Stropharia (Fr.) Quél." — In: Henderson D.M., Orton P.D., Watling R. "British fungus flora: agarics and boleti."
   - Bugskill R., Jordan M. (2004). "The genus Stropharia in Britain." Field Mycology.
   - Gulden G. (2005). "Strophariaceae (Agaricales) in Norway." — Norwegian Journal of Botany.
@@ -70,17 +70,17 @@ Its thick-walled spores are adapted to survive passage through herbivore digesti
 
 The fungus competes with other coprophilous fungi in a well-documented successional sequence on dung, typically appearing in the early to mid-successional phase.
 
-Coprophilous fungi like *S. semiglobata* contribute significantly to nitrogen mineralization and phosphorus cycling in pastoral ecosystems.
+Coprophilous fungi like *S. semiglobata* contribute significantly to [[fungal-nitrogen-mineralization-pathways]] and [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]] in pastoral ecosystems.
 
 ## Bioactive Compounds
 
 *Stropharia semiglobata* does **not** contain psilocybin, psilocin, or other tryptamine-based psychoactive compounds.
 
-It does produce hemolytic proteins and has been investigated for antimicrobial properties in preliminary in vitro studies.
+It does produce hemolytic proteins and has been investigated for [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] in preliminary in vitro studies.
 
 Some Strophariaceae species contain unique strophariasterol-type sterols, though these have not been specifically characterized in *S. semiglobata*.
 
-The absence of psychoactive compounds distinguishes it from the closely related *Stropharia cubensis* (syn. *Psilocybe cubensis*), which is a well-known psilocybin-containing species.
+The absence of psychoactive compounds distinguishes it from the closely related *[[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]* (syn. *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*), which is a well-known psilocybin-containing species.
 
 ## Cultivation
 
@@ -111,7 +111,7 @@ Microscopic features including the large, thick-walled spores with germ pore fur
 ## See Also
 
 - [[panaeolus-cyanescens-entity]]
-- [[coprinus-comatus-detailed]]
+- [[coprinus-comatus]]
 - [[boletus-edulis-entity]]
 - [[trametes-versicolor-entity]]
 - [[grifola-frondosa]]

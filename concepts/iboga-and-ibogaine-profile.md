@@ -9,20 +9,20 @@ sources: [papers/shulgin-a-tihkal.md, papers/metzner_r-hallucinogenic_drugs_in_p
 
 # iboga and ibogaine profile
 
-Iboga (Tabernanthe iboga) is a perennial rainforest shrub native to West-Central Africa, particularly Gabon, Cameroon, and the Republic of the Congo. Its principal alkaloid, ibogaine, has gained international attention for its remarkable ability to interrupt substance addiction, particularly opioid dependence. The iboga experience is among the longest and most intense of any psychedelic, lasting 12-36 hours and producing profound psychological and physical effects.
+Iboga ([[plants-of-the-gods-tabernanthe-iboga-chemistry]]) is a perennial rainforest shrub native to West-Central Africa, particularly Gabon, Cameroon, and the Republic of the Congo. Its principal alkaloid, ibogaine, has gained international attention for its remarkable ability to interrupt substance addiction, particularly opioid dependence. The iboga experience is among the longest and most intense of any psychedelic, lasting 12-36 hours and producing profound psychological and physical effects.
 
 ## Chemistry
 
 ### Ibogaine
-Ibogaine (C20H26N2O) is an indole alkaloid in the iboga family. Key properties:
+Ibogaine (C20H26N2O) is an [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] in the iboga family. Key properties:
 
 - **Multiple receptor activity**: Acts on multiple receptor systems simultaneously, which likely contributes to its complex effects and anti-addiction properties
 - **Primary targets**: SERT (serotonin transporter) inhibition, NMDA receptor modulation, kappa and mu opioid receptor modulation, 5-HT2A receptor affinity
 - **Active metabolite**: Noribogaine (12-hydroxy-ibogamine) — produced by liver metabolism, active at opioid receptors, and likely responsible for much of the sustained anti-addiction effect. Noribogaine has a much longer half-life than ibogaine itself
-- **Therapeutic window is narrow**: The difference between effective and dangerous doses is smaller than with most psychedelics
+- **[[blesching-cannabis-therapeutic-window-dosing]] is narrow**: The difference between effective and dangerous doses is smaller than with most psychedelics
 
 ### Other Alkaloids
-Total alkaloid extract from iboga root bark contains ibogaine plus ibogamine, tabernanthine, voacangine, and others. These may contribute to the overall experience and [[beta-carboline-chemistry]])
+Total alkaloid extract from iboga [[iboga-root-bark-preparation]] contains ibogaine plus ibogamine, tabernanthine, voacangine, and others. These may contribute to the overall experience and [[beta-carboline-chemistry]])
 - **Effective for**: Heroin, methadone, prescription opioids, cocaine, alcohol, and methamphetamine — though evidence is strongest for opioids
 
 ## Risks [[psychedelic-safety-and-contra-indications]] for comprehensive safety guidelines.
@@ -38,7 +38,7 @@ Ibogaine treatment operates primarily outside conventional medical systems:
 - Standard protocol includes: medical screening, flood dose with monitoring, post-treatment integration support
 
 ### Legal Status
-- **Schedule I** in the United States (illegal, no medical exception)
+- **Schedule I** in the [[dmt-containing-plants-united-states-halpern]] (illegal, no medical exception)
 - **Controlled** in many countries (Belgium, Switzerland, France, Sweden, Denmark)
 - **Uncontrolled/available** in Mexico, Canada, New Zealand (prescription), South Africa, and several other countries
 - Not approved for medical use in any major regulatory jurisdiction
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

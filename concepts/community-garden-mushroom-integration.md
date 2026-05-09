@@ -16,7 +16,7 @@ type: concept
 
 # Community Garden Mushroom Integration
 
-Incorporating mushroom cultivation into community gardens represents a
+Incorporating [[accessible-mushroom-cultivation-for-disabilities]] into community gardens represents a
 powerful strategy for optimizing the use of urban open spaces. Vegetable
 cultivation tends to dominate community gardens, but mushrooms integrate
 naturally with and complement existing cropping cycles. Tradd Cotter outlines
@@ -33,7 +33,7 @@ benefits:
   where shade-tolerant mushroom species thrive
 - Mushroom mycelia unlock nutrients in the soil, enhancing overall fertility
 - Fungal activity encourages mycorrhizal relationships with garden plants
-- Plant waste from the garden becomes substrate for mushroom cultivation,
+- Plant waste from the garden becomes [[grass-seed-substrate-for-mushroom-cultivation]] cultivation,
   creating a closed-loop system
 - Mushrooms provide a high-protein food source from materials that would
   otherwise be composted
@@ -43,12 +43,12 @@ benefits:
 The ideal species are those that prefer the substrates commonly available in
 community garden settings:
 
-- [[agaricus-brasiliensis-almond-mushroom-medicinal-profile]] (*Agaricus blazei*)
+- agaricus-brasiliensis-almond-mushroom-medicinal-profile (*[[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]]*)
   flourish in manure-based composts commonly produced in community gardens
 - [[shiitake-cultivation-log-method]] is one of the easiest and most attractive methods
 for community garden integration. It eliminates the need for building raised
 beds, requires minimal infrastructure, and the logs fruit for several years.
-The visual appeal of mushrooms emerging from logs also generates interest
+The visual appeal of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] from logs also generates interest
 from garden visitors and volunteers.
 
 Logs can be sourced from municipal tree removal operations or local
@@ -61,9 +61,9 @@ cover material for log stacks.
 Dedicated mushroom raised beds can be built using masonry blocks, stones, or
 recycled concrete. Raised to a height of one to two feet and filled with
 manure-rich compost, these beds support Agaricus species during warmer months.
-The following season, the beds can be rotated to vegetable production, as
+The following season, the beds can be rotated to [[dry-gardening-unirrigated-vegetable-production-solomon]], as
 the composted mushroom medium becomes exceptionally rich soil. This cycle of
-mushroom fruiting followed by vegetable cropping is an excellent strategy for
+[[ectomycorrhizal-mushroom-fruiting-ecology]] followed by vegetable cropping is an excellent strategy for
 building soil health over successive seasons.
 
 ## Using Spent Vegetable Waste as Substrate

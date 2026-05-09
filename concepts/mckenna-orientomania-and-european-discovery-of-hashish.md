@@ -1,5 +1,5 @@
 ---
-title: "Orientomania and the European Discovery of Hashish"
+title: "Orientomania and the mckenna orientomania and european discovery of hashish of Hashish"
 created: 2026-05-06
 tags:
   - history
@@ -74,7 +74,7 @@ The relationship between opium and hashish in shaping the European imagination
 was complex and synergistic. Opium had a much longer history of wide use in
 the West, known and used by physicians since at least late Egyptian and Minoan
 times. Cannabis was introduced into Europe largely as a consequence of the
-interest in altered states that had already been kindled by opium enthusiasts.
+interest in [[weil-the-natural-mind-altered-states-normalcy]] that had already been kindled by opium enthusiasts.
 
 Though cannabis had been used in the East for many centuries, it is unlikely
 that more than a handful of Europeans were aware of its existence before
@@ -88,12 +88,12 @@ was probably not brought into Europe in any quantity until the 1840s.
 Romanticism, Orientomania, and a fascination with psychology and the paranormal
 all combined with the well-established upper-class craze for opium and laudanum
 to create a climate in which the pleasures of hashish could be explored. The
-legal and intellectual ambience of drug taking in the early nineteenth century
+legal and intellectual ambience of drug taking in the early [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]
 could hardly have been more different from that of modern times.
 
 Opium and hashish were not controlled substances, and no opprobrium was attached
 to their use. Tobacco and coffee had long since become indispensable parts of
-European civilization, so the extravagant tales of travelers concerning narcotic
+[[fukuoka-european-civilization-standstill]], so the extravagant tales of travelers concerning narcotic
 raptures and vistas of transcendental ecstasy acted to promote experimentation
 with cannabis.
 
@@ -136,3 +136,5 @@ World and its own psychoactive plants.
 - [[mckenna-spice-trade-and-medieval-drug-scarcity]]
 - [[mckenna-opium-tobacco-paradoxical-attitudes]]
 - [[mckenna-opium-de-quincey-and-birth-of-psychopharmacology]]
+
+- [[mckenna-hellenistic-library-burning-mechanism-triumph-and-discovery-of-osiris]]

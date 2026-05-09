@@ -12,7 +12,7 @@ tags: [cannabis]
 
 ## Overview
 
-Rosin pressing is a solventless extraction method that uses heat and pressure to squeeze resin from cannabis flower or hash. While the term "rosin" as specifically applied to cannabis extraction post-dates the primary edition of Cervantes's "Marijuana Horticulture," the fundamental techniques of heat-pressing resin powder described in the book form the conceptual and practical basis for modern rosin production. The book provides detailed guidance on pressing collected resin that applies directly to rosin techniques.
+Rosin pressing is a solventless extraction method that uses heat and pressure to squeeze resin from [[cervantes-cannabis-flower-anatomy]] or hash. While the term "rosin" as specifically applied to [[comparison-cannabis-extraction-basics-vs-extraction-methods]] post-dates the primary edition of Cervantes's "Marijuana Horticulture," the fundamental techniques of heat-pressing resin powder described in the book form the conceptual and practical basis for modern rosin production. The book provides detailed guidance on pressing collected resin that applies directly to rosin techniques.
 
 ## Principles of Heat and Pressure Pressing
 
@@ -41,7 +41,7 @@ From Cervantes's descriptions of cannabis processing:
 - Temperatures above 80F (27C) degrade THC during storage and handling
 - The oven drying method should not exceed 200F (93C) or THC will vaporize into the air
 - Slow drying at 65-75F (18-24C) preserves THC content
-- Essential oils in cannabis volatilize and release fragrance above 70F (21C)
+- [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] in cannabis volatilize and release fragrance above 70F (21C)
 
 Modern rosin pressing applies these principles with precise temperature control, typically ranging from 180F to 220F for flower and lower temperatures for kief and hash, balancing extraction efficiency against cannabinoid preservation.
 

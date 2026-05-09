@@ -1,5 +1,5 @@
 ---
-title: "Fungal Biosorption of Heavy Metals for Remediation"
+title: "dighton fungal biosorption heavy metal remediation of Heavy Metals for Remediation"
 created: 2026-04-26
 tags:
   - mycology
@@ -86,12 +86,12 @@ must be considered when evaluating fungal potential in bioremediation
 
 ## Mycorrhizal Protection Against Metals
 
-Within the mycorrhizal symbiosis, the fungus may alter the rate at which
+Within the [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]], the fungus may alter the rate at which
 pollutant enters the host plant or reduce root colonization. X-ray
 diffraction (EDAX) identified adsorption of heavy metals onto the fungal
 mantle of ectomycorrhizae, preventing translocation of metal into the
 host cortex. Phosphates may play a role in complexing heavy metals in
-the vacuoles of ectomycorrhizal fungi. Some mycorrhizal associations
+the vacuoles of [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]. Some mycorrhizal associations
 may thus reduce plant uptake of metals by sequestering them in fungal
 tissue.
 
@@ -103,7 +103,7 @@ In acidic soils, metals tend to be more soluble and bioavailable,
 increasing both fungal exposure and biosorption potential. Lead, on
 the other hand, may be less available under acidifying conditions
 due to complexation onto humic materials. The interaction between
-live fungal biomass and carbon, nitrogen, and phosphorus availability
+live fungal biomass and carbon, nitrogen, and [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]]
 further modulates metal solubility, showing that fungal metal binding
 is greatly influenced by environmental conditions (Dixon-Hardy et al.,
 1998). This environmental sensitivity must be considered when
@@ -112,11 +112,11 @@ designing fungal-based remediation systems.
 ## See Also
 
 - [[dighton-fungal-heavy-metal-accumulation-bioremediation]]
-- dighton fungal metal transformations biosorption
+- dighton fungal [[fungal-metal-transformations-biosorption]] biosorption
 - [[dighton-fungal-rock-weathering-mineral-dissolution]]
 - [[fungal-metal-transformations-biosorption]]
 
 ## Sources
 
-- Dighton, J. (2003). Fungi in Ecosystem Processes. Marcel Dekker.
+- Dighton, J. (2003). Fungi in [[fungal-ecosystem-processes-overview]]. Marcel Dekker.
   Chapter 6: Fungal Interactions with Humans.

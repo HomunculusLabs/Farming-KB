@@ -1,5 +1,5 @@
 ---
-title: "One Gram of Soil — Microbial Power in Natural Farming"
+title: "One Gram of Soil — Microbial Power in comparison-natural-farming-vs-permaculture"
 type: concept
 tags:
   - natural-farming
@@ -19,7 +19,7 @@ Masanobu Fukuoka made a striking claim that encapsulated his philosophy of
 soil fertility: one gram of soil from his farm contained approximately 100
 million nitrogen-fixing bacteria and other soil-enriching microbes. This
 observation was not merely scientific — it was the foundation of his approach
-to desert revegetation and his critique of modern agricultural science.
+to desert revegetation and his [[fukuoka-road-critique-of-modern-science]] agricultural science.
 
 ## The Living Soil
 
@@ -28,7 +28,7 @@ activity sustains plant growth, decomposes organic matter, and maintains the
 chemical balance that makes nutrients available to roots.
 
 Modern agriculture, in his view, treated soil as an inert substrate. Farmers
-added chemical fertilizers to supply nitrogen, phosphorus, and potassium, but
+added [[cervantes-chemical-fertilizers-guide]] to supply nitrogen, phosphorus, and potassium, but
 in doing so they disrupted the microbial communities that had been providing
 these nutrients for free.
 
@@ -54,7 +54,7 @@ nitrogen-fixing bacteria can supply significant amounts of nitrogen.
 
 Fukuoka did not claim that legumes were unnecessary. His orchard floors were
 covered with clover and other ground covers that included leguminous species.
-But he believed the broader microbial community contributed far more than
+But he believed the broader [[edaphic-factors-microbial-community-structure]] contributed far more than
 agricultural science recognized.
 
 ## The Desert Revegetation Implication
@@ -93,7 +93,7 @@ Fukuoka's use of green manure crops — clover, alfalfa, bur clover, and
 acacia — was informed by his understanding of soil microbes. These plants
 did not merely add organic matter when incorporated into the soil.
 
-Their root systems exuded compounds that fed specific bacterial communities.
+Their root systems exuded compounds that fed specific [[cultivar-endorhiza-bacterial-communities-cannabis]].
 The bacteria, in turn, fixed nitrogen, solubilized phosphorus, and created
 soil aggregates that improved water retention and aeration.
 
@@ -108,7 +108,7 @@ soil science, but the principle it represented was universal. Healthy soil
 is alive, and its biological activity is the true source of fertility.
 
 This understanding led naturally to his rejection of both chemical
-fertilizers and the more labor-intensive practices of organic farming, which
+fertilizers and the more labor-intensive practices of [[coleman-deep-organic-farming-philosophy]], which
 he saw as merely a less harmful form of the same reductionist approach.
 
 True soil fertility, in Fukuoka's view, could only be maintained by working

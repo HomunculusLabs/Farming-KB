@@ -1,5 +1,5 @@
 ---
-title: Humus Storage Ditches
+title: holzer humus storage ditches Ditches
 created: 2026-04-26
 tags:
   - water-management
@@ -15,7 +15,7 @@ type: concept
 
 # Humus Storage Ditches
 
-Humus storage ditches are one of Sepp Holzer's signature landscape design
+Humus storage ditches are one of [[comparison-sepp-holzer-vs-biodynamic]]'s signature landscape design
 elements. These strategically placed trenches serve the dual purpose of
 holding water and collecting nutrient-rich humus that would otherwise be lost
 through surface runoff. They form an integral part of the [[krameterhof-holzer-model-farm]] and can be adapted
@@ -46,7 +46,7 @@ bucket to push the soil down, making the hollow deeper.
 
 ## Seasonal Water Patterns
 
-Some ditches are filled with water the whole year round, whilst others,
+Some ditches are filled with water the whole [[coleman-year-round-marketing-calendar]], whilst others,
 depending on the location and size of the ditch, dry out periodically. The
 advantage of these ditches is that valuable nutrients and humus will be
 collected with the surface water when it rains heavily. Once the water level
@@ -54,7 +54,7 @@ has sunk again, it is easy to extract and use this material on new systems,
 embankments and crops.
 
 This way the best humus, enriched with nutrients, is provided for lush plant
-growth. The collected organic matter represents the most fertile material
+growth. The collected [[hamilton-composting-and-organic-matter-management]] represents the most fertile material
 from across the landscape, concentrated naturally by water movement.
 
 ## Hydrological Benefits

@@ -1,5 +1,5 @@
 ---
-title: Chacruna (Psychotria viridis)
+title: Chacruna ([[psychotria-viridis]])
 source: amaringo-p-ayahuasca-visions.md
 tags: [chacruna, psychotria-viridis, ayahuasca, dmt, ethnobotany, amazon]
 ---
@@ -11,7 +11,7 @@ family found throughout the Amazon basin. It is the essential companion
 plant to ayahuasca (*Banisteriopsis caapi*) in the preparation of the
 ayahuasca brew, providing the psychoactive compound DMT
 (N,N-dimethyltryptamine) that produces the visionary experiences central
-to Amazonian plant medicine and shamanic practice. Without chacruna,
+to Amazonian plant medicine [[dmt-black-hole-effect-and-shamanic-practice]]. Without chacruna,
 the ayahuasca vine alone produces primarily purgative and mildly
 sedative effects; with chacruna, the brew becomes a powerful visionary
 medicine.
@@ -19,7 +19,7 @@ medicine.
 ## Botanical Description
 
 *Psychotria viridis* is an evergreen shrub or small tree that typically
-grows 2-5 meters tall in the understory of lowland tropical rainforest.
+grows 2-5 meters tall in the understory of lowland [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]].
 It belongs to the coffee family (Rubiaceae) and shares the genus
 *Psychotria* with approximately 2,000 species worldwide. The leaves are
 opposite, elliptic to obovate, 5-15 cm long, with a glossy dark green
@@ -32,7 +32,7 @@ understory.
 
 Chacruna is the DMT-containing admixture that transforms the ayahuasca
 vine from a purgative medicine into a visionary one. In the traditional
-preparation described by Pablo Amaringo, the chacruna leaves are
+preparation described by [[pablo-amaringo]], the chacruna leaves are
 collected in the morning while the harvester is fasting. During
 cooking, the vegetalista whistles an icaro over the pot before adding
 the chacruna, placing the sun-exposed side of the leaf downward with
@@ -69,7 +69,7 @@ the MAO inhibition from the vine.
 
 Chacruna leaves contain approximately 0.1-0.6% DMT (dry weight),
 along with trace amounts of N-methyltryptamine (NMT) and other
-tryptamine alkaloids. DMT is a potent serotonergic psychedelic that
+[[hplc-analysis-of-tryptamine-alkaloids]]. DMT is a potent serotonergic psychedelic that
 binds to 5-HT2A receptors, producing vivid visual imagery, altered
 sense of time and self, and emotional catharsis. When consumed orally,
 DMT is normally rendered inactive by monoamine oxidase (MAO) enzymes
@@ -113,11 +113,11 @@ plant added for specific purposes.
 
 DMT is classified as a Schedule I controlled substance in many
 countries, making the possession and use of chacruna legally
-restricted in much of the world. However, in several South American
+restricted in much of the world. However, in several [[chiric-caspi-brunfelsia-south-american-hallucinogen]]
 countries including Peru, Brazil, and Colombia, the traditional use
 of ayahuasca (and by extension chacruna) in indigenous and religious
 ceremonies is legally protected. Contemporary research into the
-therapeutic potential of ayahuasca for treating depression, PTSD,
+[[metzner-ayahuasca-therapeutic-potential]] of ayahuasca for treating depression, PTSD,
 and substance use disorders has renewed scientific interest in the
 pharmacological properties of *Psychotria viridis*.
 

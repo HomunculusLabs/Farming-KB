@@ -5,11 +5,12 @@ updated: 2026-04-21
 type: concept
 tags: [gardening]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Symbiotic Fungi Relationships
 
-Source: Mycelium Running by Paul Stamets (2005), Chapters 3-4
+Source: [[woodlovers-mycelium-running-pathway-technique]] by Paul Stamets (2005), Chapters 3-4
 
 updated: 2026-04-21
 
@@ -23,13 +24,13 @@ The boundaries between these categories are often blurred. A mushroom may be a f
 
 ## Mycorrhizal Symbiosis
 
-Mycorrhizal fungi form the most widespread and economically important symbiotic relationships with plants.
+[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] form the most widespread and economically important symbiotic relationships with plants.
 
 Most plants from grasses to Douglas firs have mycorrhizal partners. Approximately 2,000 to 3,000 of the estimated 8,000+ macrofungi are mycorrhizal.
 
 Both plant and mycorrhizae benefit: the mycelium brings distant nutrients and moisture to the host, extending the absorption zone well beyond the root structure. The plant provides the fungi with access to plant-secreted sugars, mostly hexoses. The surface area of mycorrhizal fungi may be 10 to 100 times greater than the surface area of leaves in a forest.
 
-Key mycorrhizal associations include Glomus intraradices with cedars and redwoods, Pisolithus tinctorius with pines, Rhizopogon parksii with deciduous trees, Boletus edulis with pines, and Cantharellus cibarius with oaks and firs. For deeper exploration of [common mycorrhizal networks and their role in forest ecology, see the dedicated pages on [arbuscular mycorrhizal fungi and [ectomycorrhizal ecology.
+Key mycorrhizal associations include Glomus intraradices with cedars and redwoods, Pisolithus tinctorius with pines, Rhizopogon parksii with deciduous trees, Boletus edulis with pines, and Cantharellus cibarius with oaks and firs. For deeper exploration of [common [[dighton-mycorrhizal-networks-carbon-transfer]] and their role in forest ecology, see the dedicated pages on [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi and [ectomycorrhizal ecology.
 
 ## Endophytes: Mutualistic Symbionts
 
@@ -37,7 +38,7 @@ Endophytes are primarily benevolent, nonmycorrhizal fungi that partner with many
 
 Their mycelia thread between cell walls but don't enter them, enhancing a plant's growth and ability to absorb nutrients while staving off parasites, infections, and predation from insects, other fungi, and herbivores.
 
-Unlike mycorrhizal fungi, many endophytes grow well under laboratory conditions, so spawn can be made using methods like those for saprophytic mushrooms. The vast majority of endophytes are undescribed, and some appear to have lost the ability to produce spores, living vegetatively in a continuous mycelial state. Most endophytes described thus far are ascomycetes.
+Unlike mycorrhizal fungi, many endophytes grow well under laboratory conditions, so spawn can be made using methods like those for [[growing-gourmet-saprophytic-mushrooms-decomposers]]. The vast majority of endophytes are undescribed, and some appear to have lost the ability to produce spores, living vegetatively in a continuous mycelial state. Most endophytes described thus far are ascomycetes.
 
 ### Endophytic Defense Chemistry
 
@@ -77,7 +78,7 @@ In a 2003 Panama experiment, when endophyte-free leaves from the cocoa tree (The
 
 Many saprophytic fungi can be weakly parasitic, especially if a host tree is dying from other causes.
 
-Oyster mushrooms (Pleurotus ostreatus) are classic saprophytes but are frequently found on dying trees. Reishi (Ganoderma lucidum) is considered a true saprophyte but has been classified as a parasite by authorities in Australia, New Zealand, and Hawaii.
+Oyster mushrooms (Pleurotus ostreatus) are classic saprophytes but are frequently found on dying trees. Reishi ([[stamets-reishi-ganoderma-lucidum-cultivation]]) is considered a true saprophyte but has been classified as a parasite by authorities in Australia, New Zealand, and Hawaii.
 
 ## Termite-Fungus Mutualism
 
@@ -109,7 +110,7 @@ Many species can shift between these roles depending on environmental conditions
 
 - [[ectomycorrhizal-ecology]]
 
-- [[fungal-community-ecology]]
+- fungal-community-ecology
 
 - [[mycorestoration-overview]]
 

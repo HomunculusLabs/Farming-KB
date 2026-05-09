@@ -1,5 +1,5 @@
 ---
-title: "Fungi and Acidifying Pollutants in Forest Ecosystems"
+title: "Fungi and dighton fungi acidifying pollutants forest ecosystems in Forest Ecosystems"
 created: 2026-04-26
 tags:
   - mycology
@@ -34,7 +34,7 @@ photosynthetic capacity of the tree canopy reduces allocation of
 photosynthate to roots and their mycorrhizae, reducing overall
 colonization and favoring species surviving on low carbohydrate supplies;
 and (2) acid-induced increase in toxic metal ion availability in soil
-(Al, Mn, Mg) causes root damage, reduced mycorrhizal fungal growth,
+(Al, Mn, Mg) causes root damage, reduced [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] growth,
 and reduced root colonization.
 
 ## Evidence of Mycorrhizal Decline
@@ -47,7 +47,7 @@ polluted stands, only about 10% were of mycorrhizal origin. Fellner and
 Peskova (1995) identified stages of forest decline according to the
 macrofungal ratio of saprotrophic to mycorrhizal forms.
 
-At the latent disturbance level, ectomycorrhizal fungi decrease to 40%
+At the latent disturbance level, [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] decrease to 40%
 while lignicolous species increase beyond 30%. At acute levels,
 ectomycorrhizal species drop below 40% and lignicolous species exceed
 40%. At lethal levels, ectomycorrhizal species fall below 20% while
@@ -83,7 +83,7 @@ plots. In loblolly pine (Pinus taeda), ozone-tolerant provenances
 maintained more mycorrhizal fungal species than ozone-intolerant ones.
 
 Magan et al. (1995) investigated effects of SO2 and O3 on phylloplane
-fungal communities over three years. Low levels of SO2 markedly reduced
+[[biodiversity-of-fungi-soil-fungal-communities-agriculture]] over three years. Low levels of SO2 markedly reduced
 total phylloplane fungal populations on Sitka spruce, but O3 caused
 increase in fungi on Scots pine. There was no consistent trend in fungal
 response to pollutants; responses depended on biological factors such as
@@ -109,12 +109,15 @@ and is now found only at sites with above-ambient pollution.
 
 Nitrogen deposition and forest soil saturation with N emerged as the
 most recent line of investigation. The combination of acidifying
-pollutants influences ecosystem processes, and the relative contribution
+pollutants influences [[fungal-ecosystem-processes-overview]], and the relative contribution
 of each is not simple to tease apart, especially where they may have
-contrasting effects on nutrient availability in soil.
+contrasting effects on [[ph-and-nutrient-availability-garden-soils]] in soil.
 
 ## See Also
 
 - [[dighton-fungal-responses-climate-change]]
-- [[lichen-ecology-and-soil-formation]]
+- lichen-ecology-and-soil-formation
 - [[dighton-fungal-heavy-metal-accumulation-bioremediation]]
+- [[dighton-fungi-tropical-forest-ecosystems]]
+- [[ectomycorrhiza]]
+- [[lecanora-conizaeoides]]

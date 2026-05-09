@@ -1,5 +1,5 @@
 ---
-title: Cho's Zero Emission Livestock Philosophy in Natural Farming
+title: Cho's cho zero emission livestock natural farming holzer-livestock-philosophy-paddock-system in comparison-natural-farming-vs-permaculture
 tags: [natural-farming, animal-husbandry, cho-han-kyu, sustainability]
 date: 2026-04-28
 updated: 2026-04-28
@@ -48,7 +48,7 @@ fundamentally regenerative approach to animal husbandry.
 
 ## Housing Design Principles
 
-The Natural Farming chicken house is designed so that there is no
+The Natural Farming [[knf-chicken-house-design]] is designed so that there is no
 bad smell, no emission, no cleaning needed, and no disease. This
 is achieved through careful attention to the habits, instincts,
 and behaviors of chickens. The design works with nature rather
@@ -78,7 +78,7 @@ straw and chicken feces.
 ## The Floor as a Living System
 
 The soil floor is the heart of the zero emission system. A host
-of microorganisms on the floor break down chicken feces
+of microorganisms on the floor [[query-can-fungi-break-down-plastic-pollution]] chicken feces
 continuously, which eliminates the need for cleaning and prevents
 odor. The chickens actually feed on the fermented products of
 their own feces, so removing all feces can negatively affect
@@ -124,7 +124,7 @@ Cho challenged the conventional belief that chicks need soft
 powder feed. He argued that soft, over-nutritious feed prevents
 chicks from developing strong digestive organs, leading to
 excretion of undigested nutrition that causes smell and disease.
-Fresh green grass makes up one-third of total feed for adults.
+Fresh [[knf-green-grass-liquid-fertilizer]] makes up one-third of total feed for adults.
 
 Feed is given once daily, two hours before sunset. This timing
 aligns with the chickens' natural eating patterns and allows

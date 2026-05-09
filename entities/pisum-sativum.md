@@ -66,9 +66,9 @@ Wild P. sativum subsp. elatius is native to the Mediterranean region, from Turke
 
 Domesticated forms are cultivated worldwide in temperate and subtropical regions between latitudes 50°N and 40°S.
 
-The species thrives in cool, moist climates with growing season temperatures of 10–25°C; high temperatures (>30°C) severely reduce pod set and seed quality.
+The species thrives in cool, moist climates with [[savory-growing-season-and-non-growing-season-management]] temperatures of 10–25°C; high temperatures (>30°C) severely reduce pod set and seed quality.
 
-Optimal soil pH is 6.0–7.5, with moderate fertility; excessive nitrogen fertilizer suppresses nodulation and nitrogen fixation.
+Optimal soil pH is 6.0–7.5, with moderate fertility; excessive nitrogen fertilizer suppresses nodulation and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 
 Annual global production exceeds 20 million tonnes, with China, Russia, India, and the United States as leading producers.
 
@@ -88,13 +88,13 @@ Crop rotation with cereals reduces disease pressure and maximizes the residual n
 
 ## Ecological Role
 
-As a legume, P. sativum contributes biological nitrogen to agroecosystems through rhizobial symbiosis, reducing dependence on synthetic nitrogen fertilizers.
+As a legume, P. sativum contributes [[biological-nitrogen-fixation-agriculture]] to agroecosystems through rhizobial symbiosis, reducing dependence on synthetic nitrogen fertilizers.
 
-The species serves as an effective cool-season cover crop, providing soil protection, weed suppression, and organic matter addition when incorporated as green manure.
+The species serves as an effective cool-season cover crop, providing soil protection, weed suppression, and [[hamilton-composting-and-organic-matter-management]] addition when incorporated as green manure.
 
 Pea straw residue decomposes rapidly, releasing nitrogen and improving soil structure for following crops in rotation.
 
-Flowers attract pollinators including bees and syrphid flies, supporting beneficial insect populations in diversified farming systems.
+Flowers attract pollinators including bees and syrphid flies, supporting [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] populations in diversified farming systems.
 
 The species is a host for several pest species including pea aphid (Acyrthosiphon pisum) and pea weevil (Sitona lineatus), but also supports predatory insects that regulate pest populations.
 
@@ -102,7 +102,7 @@ The species is a host for several pest species including pea aphid (Acyrthosipho
 
 Dry peas contain approximately 20–25% protein, 55–65% carbohydrate, 1–2% fat, and 15–20% dietary fiber per 100 g dry weight.
 
-They are rich in B vitamins (folate, thiamine, B6), minerals (iron, zinc, magnesium, potassium), and bioactive compounds including lutein and polyphenols.
+They are rich in B vitamins (folate, thiamine, B6), minerals (iron, zinc, magnesium, potassium), and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] including lutein and polyphenols.
 
 The protein quality is enhanced by complementarity with cereal proteins, making pea-cereal combinations nutritionally complete.
 

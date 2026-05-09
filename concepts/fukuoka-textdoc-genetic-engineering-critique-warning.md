@@ -1,5 +1,5 @@
 ---
-title: Genetic Engineering Critique and Warning
+title: fukuoka textdoc genetic engineering critique warning Critique and Warning
 created: 2026-04-28
 tags:
   - fukuoka
@@ -14,11 +14,11 @@ sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
-# [[persimmon]] seed artificially:
+# persimmon seed artificially:
 
 "The level of technology that would be needed to create a single persimmon seed or leaf is incomparably greater than that used to launch a rocket into outer space."
 
-Even if scientists could pool all their knowledge and resources, they could not create a single seed from scratch.
+Even if scientists could pool all their knowledge and resources, they could not create a [[cervantes-selfing-single-seed-descent]] from scratch.
 
 The idea that man could replace world fruit production with fruit manufactured in chemical plants was, to Fukuoka, the height of folly.
 
@@ -52,7 +52,7 @@ Butter and cheese could be made from petroleum.
 
 Man had learned to synthesize nucleic acid and cellular proteins and nuclei, and was beginning to synthesize and recombine genes and chromosomes.
 
-"He has even begun thinking that he can control life itself."
+"He has even begun thinking that he can [[eclss-environmental-control-life-support]] itself."
 
 Yet all that science performs and creates is "a mere imitation of nature and propels him further along the path to suicidal self-destruction."
 
@@ -82,7 +82,7 @@ Nitrogen-fixing cereal crops, genetically modified insects, and laboratory-grown
 
 His critique challenges both proponents and opponents of genetic engineering to consider whether the fundamental question is not whether a technology can be made to work, but whether any technology rooted in the "fragmentary laws" of scientific knowledge can produce results that equal or surpass the "vast, boundless, perfect knowledge and power of nature."
 
-## Connection to Natural Farming Principles
+## Connection to [[natural-farming-principles]]
 
 The genetic engineering critique is inseparable from Fukuoka's five principles of [[fukuoka-textdoc-genetic-engineering-warning]]
 

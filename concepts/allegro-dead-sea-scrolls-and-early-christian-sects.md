@@ -1,5 +1,5 @@
 ---
-title: "Dead Sea Scrolls and Early Christian Sects"
+title: "Dead dead-sea-scrolls-entheogenic-reading and Early Christian Sects"
 created: 2026-04-26
 updated: "2026-04-23"
 sources:
@@ -17,7 +17,7 @@ original international editorial team responsible for publishing the scrolls,
 he brought a radically different perspective to the texts than his religious
 colleagues. His work on the Copper Scroll and other fragmentary documents led
 him to conclusions that placed john allegro at the center of one of the
-twentieth century's fiercest scholarly controversies.
+[[coleman-louis-savier-twentieth-century-maraicher]]'s fiercest scholarly controversies.
 
 ## The Scroll Team and Its Divisions
 
@@ -49,7 +49,7 @@ and religious practice -- led Allegro to connect them with the [[amanita-muscari
 considered so precious and dangerous that knowledge of its identity and
 locations had to be concealed from the uninitiated. Allegro suggested that
 the Copper Scroll's treasure was not material wealth but esoteric wisdom --
-specifically, the secret of the sacred mushroom's identity and its
+specifically, the secret of the [[allegro-the-sacred-mushroom-amanita-identification]]'s identity and its
 preparation as a sacrament.
 
 ## Josephus and the Sects
@@ -89,3 +89,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[allegro-dead-sea-scrolls]]

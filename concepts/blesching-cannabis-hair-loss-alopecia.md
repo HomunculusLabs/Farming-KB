@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Hair Loss (Alopecia)"
+title: "Cannabis and blesching cannabis hair loss alopecia (Alopecia)"
 created: 2026-04-26
 tags:
   - cannabis
@@ -65,7 +65,7 @@ Powerful questions for self-reflection:
 
 Key areas for future investigation include:
 
-- Clinical trials of CB1 antagonists for hair loss treatment
+- [[mushroom-cancer-clinical-trials-overview]] of CB1 antagonists for hair loss treatment
 - Studies examining cannabis use patterns and hair loss in human populations
 - Topical cannabinoid formulations specifically designed for scalp
   application
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

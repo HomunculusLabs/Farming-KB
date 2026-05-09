@@ -79,7 +79,7 @@ A 2010 laboratory study from Naples, Italy, confirmed initial findings when
 researchers exposed cancerous thyroid cells to an analog of anandamide
 (Met-F-AEA). The exposure inhibited cancer cell growth and led to increased
 apoptosis (cancer cell death). Scientists also discovered elevated levels of
-cannabinoid receptor 1 (CB1) expression, suggesting the toxic effect to mutated
+[[cannabis-cannabinoid-receptor-pharmacology]] 1 (CB1) expression, suggesting the toxic effect to mutated
 cells likely occurred through CB1 receptor interaction.
 
 ## Strain-Specific Considerations
@@ -87,7 +87,7 @@ cells likely occurred through CB1 receptor interaction.
 Scientists tested six cannabinoids against thyroid cancer cells. Significant
 among them were anandamide (binds relatively equally to CB1 and CB2), CBD, and
 CBD-acid (greater affinity for CB2 than CB1). Indica or indica-heavy hybrids
-tend to have a lower THC:CBD ratio, increasing the probability of enhanced CB2
+tend to have a lower THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]], increasing the probability of enhanced CB2
 activation. CBD-acid is present at higher concentration in fresh, raw leaf and
 can be consumed in juice form.
 

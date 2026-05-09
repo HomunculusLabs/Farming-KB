@@ -1,5 +1,5 @@
 ---
-title: "Textile Dye Decolorization by Fungi"
+title: "fungal-laccase-and-textile-dye-decolorization Decolorization by Fungi"
 created: 2026-04-26
 tags:
   - textile-dyes
@@ -16,14 +16,14 @@ type: concept
 
 # Textile Dye Decolorization by Fungi
 
-The textile industry consumes approximately 10,000 tons of synthetic dyes
+The [[staycare-fungal-treatment-of-textile-industry-wastewater]] consumes approximately 10,000 tons of [[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste]]
 annually worldwide, with an estimated 10-15% of dye stuff released into
 effluent during dyeing and finishing processes. Textile wastewater
 containing synthetic dyes poses severe environmental threats due to the
 recalcitrance, toxicity, and aesthetic impact of these compounds. Fungi,
 particularly white-rot basidiomycetes, have emerged as highly effective
 agents for dye decolorization through both enzymatic degradation and
-biosorption mechanisms.
+[[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]].
 
 ## Classes of Textile Dyes
 
@@ -68,7 +68,7 @@ Azo dye degradation typically proceeds through:
 
 ### Biosorption (Adsorption)
 
-Non-metabolic dye removal through adsorption onto fungal biomass:
+Non-metabolic dye removal through adsorption onto [[bioremediation-fungal-biomass-biosorbent-material]]:
 - **Live cell adsorption**: Dye molecules bind to cell wall components
   (chitin, glucans, proteins) through electrostatic interactions,
   van der Waals forces, and hydrogen bonding.
@@ -109,7 +109,7 @@ Critical parameters affecting decolorization efficiency:
 - **Dye concentration**: Higher concentrations may inhibit enzyme
   activity or cause toxicity; typical studies use 10-200 mg/L.
 - **Carbon and nitrogen supplementation**: Glucose and nitrogen sources
-  enhance fungal growth and enzyme production but add process costs.
+  enhance fungal growth and [[ligninolytic-enzyme-production-bioremediation]] but add process costs.
 - **Agitation**: Adequate mixing improves oxygen and substrate mass
   transfer but excessive shear can damage mycelial structures.
 - **Incubation time**: Decolorization typically progresses over 24-120

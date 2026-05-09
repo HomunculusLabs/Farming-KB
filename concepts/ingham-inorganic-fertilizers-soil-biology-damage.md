@@ -1,5 +1,5 @@
 ---
-title: Inorganic Fertilizers and Soil Biology Damage
+title: ingham inorganic fertilizers soil biology damage and Soil Biology Damage
 tags: [soil-health, fertilizers, microbiology, ingham, soil-foodweb,
   nutrient-cycling, agriculture]
 date: 2026-04-28
@@ -48,7 +48,7 @@ applied nitrogen into gaseous forms (N₂, N₂O) lost to the atmosphere.
 
 As bacterial populations dominate, fungal biomass declines. This shift from
 a fungal-dominated to a bacterial-dominated soil foodweb has profound
-consequences for nutrient cycling, soil structure, and plant health. Fungal
+consequences for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], soil structure, and plant health. Fungal
 hyphae are the primary agents of soil aggregation through their physical
 binding action and glomalin production. When fungal biomass decreases, soil
 structure deteriorates, water infiltration declines, and erosion
@@ -68,14 +68,14 @@ robust nutrient cycling.
 Inorganic phosphorus fertilizers (triple superphosphate, DAP, MAP) pose a
 different but equally damaging pathway. When soluble phosphorus is readily
 available in soil solution, plants reduce or cease production of root
-exudates that recruit and support mycorrhizal fungal partners. Mycorrhizal
+exudates that recruit and support [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] partners. Mycorrhizal
 fungi, which normally extend the effective root zone and provide phosphorus
 in exchange for plant carbon, receive no exudate signal and their
 colonization of roots declines.
 
 This creates a dependency loop: the plant becomes dependent on applied
 phosphorus because its mycorrhizal partnerships have atrophied. Re-
-establishing mycorrhizal colonization after long-term phosphorus fertilizer
+establishing [[arbuscular-mycorrhizal-colonization-patterns]] after long-term phosphorus fertilizer
 use can take years and requires ceasing soluble phosphorus applications to
 allow the plant-fungal signaling to resume.
 
@@ -85,7 +85,7 @@ Repeated phosphorus applications exceed plant uptake capacity, leading to
 accumulation. In acidic soils, phosphorus binds with iron and aluminum
 oxides; in alkaline soils, it precipitates with calcium. Either way, it
 becomes increasingly unavailable to plants while contributing to water
-pollution through runoff. The biological phosphorus cycling pathway —
+pollution through runoff. The biological [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]] pathway —
 through mycorrhizal fungi and phosphorus-solubilizing bacteria — is
 disrupted and eventually lost.
 
@@ -118,7 +118,7 @@ assessment:
 - **Fungal to bacterial ratio**: Shifted toward bacteria compared to the target for the crop type
 - **Protozoa**: Reduced numbers due to anaerobic conditions and bacterial population crashes
 - **Mycorrhizal colonization**: Low percentages in roots, especially when phosphorus fertilizer has been used
-- **Beneficial nematodes**: Low populations due to lack of fungal prey
+- **[[ingham-beneficial-nematodes-soil-food-web]]**: Low populations due to lack of fungal prey
 
 ## The Economic Trap
 

@@ -1,5 +1,5 @@
 ---
-title: "High Island and Tropical Valley Design Systems"
+title: "High Island and mollison designers high island and tropical valley design Design Systems"
 created: 2026-04-26
 tags:
   - tropical-design
@@ -17,7 +17,7 @@ type: concept
 # High Island and Tropical Valley Design Systems
 
 High islands, particularly volcanic ones, present unique
-opportunities for integrated permaculture design. The radial
+opportunities for integrated [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. The radial
 valley form, from summit to shore, creates a complete water
 and nutrient gradient that can be managed as a single
 productive system. The [[mollison-designers-forest-condensation-and-micro-climate-rainfall]] for water supply
@@ -31,14 +31,14 @@ with some scattered housing higher on ridges and the forest
 edge.
 
 ### Low Slopes (2-15 Degrees)
-Low slopes are well suited to [[mollison-windbreak-design]], and access will
+Low slopes are well suited to mollison-windbreak-design, and access will
 help direct run-off and water to crop.
 
 ### Coastal Flats and Valley Floors
 Rich and often deep humus soils can accumulate on valley
 floors. Greywater and processed manures from settlement
 and livestock add to fertility, where extensive
-[[mollison-permaculture-two-coastal-marine-aquaculture]]
+mollison-permaculture-two-coastal-marine-aquaculture
 plantations help stabilise the banks and provide sea mulch
 while catching any silt that washes down from above.
 
@@ -51,7 +51,7 @@ days, and are then available for growth. Such rich
 estuaries are invaluable as managed maricultures.
 
 ### Artificial Reef Systems
-[[mollison-designers-plant-nursery-propagation-bed-design]] to serve gardens and forest
+mollison-designers-plant-nursery-propagation-bed-design to serve gardens and forest
 - 0.25-1.0 ha of [[mollison-duck-and-waterfowl-integration]]
   with some animals housed above them
 - Fuelwood plantation integrated with windbreak
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -116,3 +116,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[mollison-pdc-high-island-design]]

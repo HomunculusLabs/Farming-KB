@@ -22,7 +22,7 @@ sources:
 
 *Nymphaea caerulea* Savigny was first formally described by the French zoologist and botanist Jules-César Savigny in 1798, based on material collected during Napoleon's Egyptian campaign (1798 to 1801). It is placed within the subgenus Brachyceras of the genus *Nymphaea*. The subgenus Brachyceras is characterized by its stellate (star-shaped) flowers and the presence of prickles or tubercles on the underside of the leaf.
 
-The species is sometimes confused with *Nymphaea nouchali* Burm.f. (the blue lotus of India and Southeast Asia), and the two have been treated as conspecific by some authorities. Modern taxonomic work based on morphological and molecular data generally supports their recognition as distinct species with different native ranges, though they are closely related and morphologically similar. *Nymphaea caerulea* is African, while *Nymphaea nouchali* is Asian.
+The species is sometimes confused with *Nymphaea nouchali* Burm.f. (the blue lotus of India and [[psilocybe-southeast-asia-pacific]]), and the two have been treated as conspecific by some authorities. Modern taxonomic work based on morphological and molecular data generally supports their recognition as distinct species with different native ranges, though they are closely related and morphologically similar. *Nymphaea caerulea* is African, while *Nymphaea nouchali* is Asian.
 
 The plant is an aquatic rhizomatous perennial with round, notched leaves (cordate to peltate) that float on the water surface. Leaves are typically 15 to 25 cm in diameter, green above and often purplish or reddish beneath. The margins are entire and slightly wavy. The leaf stalk is slender and flexible, allowing the leaf to rise and fall with water level changes. The submerged portions of the plant bear small, narrow submerged leaves that differ markedly from the floating leaves.
 
@@ -38,7 +38,7 @@ The plant grows in shallow, slow-moving or still freshwater habitats including r
 
 ## Chemistry
 
-The psychoactive chemistry of *Nymphaea caerulea* has been the subject of ongoing investigation and considerable controversy. Early chemical analyses, particularly those conducted in the 19th and early 20th centuries, identified apomorphine and nuciferine as alkaloid constituents of the flowers and rhizomes. However, subsequent research has produced conflicting results regarding the presence and concentrations of these compounds, and the pharmacological basis for the plant's reputed psychoactive properties remains debated.
+The psychoactive chemistry of *Nymphaea caerulea* has been the subject of ongoing investigation and considerable controversy. Early [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]], particularly those conducted in the 19th and early 20th centuries, identified apomorphine and nuciferine as alkaloid constituents of the flowers and rhizomes. However, subsequent research has produced conflicting results regarding the presence and concentrations of these compounds, and the pharmacological basis for the plant's reputed psychoactive properties remains debated.
 
 Apomorphine is a dopamine receptor agonist (primarily D1 and D2) that is used medically in the treatment of Parkinson's disease. If present in pharmacologically significant quantities in the plant, it could account for reported psychoactive, euphoric, and emetic effects. However, several modern analytical studies using gas chromatography-mass spectrometry (GC-MS) and liquid chromatography-mass spectrometry (LC-MS) have failed to detect apomorphine in fresh or dried plant material of *Nymphaea caerulea*. Some researchers have suggested that earlier identifications may have resulted from artifact formation during extraction or from confusion with related aporphine alkaloids such asserotoninne or dehydronuciferine.
 
@@ -64,7 +64,7 @@ In recent decades, *Nymphaea caerulea* has gained popularity in the global ethno
 
 ## Cultivation
 
-*Nymphaea caerulea* is cultivated as an ornamental water plant in tropical and subtropical gardens and water features worldwide. It requires full sun, warm water temperatures (above 20°C), and a rich loamy or clay substrate. The plant is planted by placing the rhizome in a container of heavy soil, which is then submerged in the pond or water garden to a depth of 15 to 45 cm above the crown. Regular fertilization during the growing season promotes abundant flowering.
+*Nymphaea caerulea* is cultivated as an ornamental water plant in tropical and subtropical gardens and water features worldwide. It requires full sun, warm water temperatures (above 20°C), and a rich loamy or clay substrate. The plant is planted by placing the rhizome in a container of heavy soil, which is then submerged in the pond or water garden to a depth of 15 to 45 cm above the crown. Regular fertilization during the [[savory-growing-season-and-non-growing-season-management]] promotes abundant flowering.
 
 Propagation is typically by seed or by division of the rhizome. Seeds are stratified by soaking in water and scarifying the hard seed coat, then germinating in warm (25 to 30°C) shallow water. Germination typically occurs within 1 to 3 weeks. The plant is winter-hardy only in tropical and subtropical climates and must be protected from frost. In temperate regions, it can be overwintered by moving the container to a heated greenhouse or by allowing the rhizome to go dormant in cool (not freezing) water.
 
@@ -112,3 +112,7 @@ The dense growth of water lilies in ponds and slow-moving waterways creates micr
 - Apomorphine
 - [[nymphaea-ampla]]
 - [[nuciferine]]
+
+## See Also
+
+- [[nymphaea-odorata]]

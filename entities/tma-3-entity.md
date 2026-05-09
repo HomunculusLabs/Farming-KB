@@ -8,7 +8,7 @@ sources: []
 ---
 # TMA-3
 
-**PIHKAL Entry #159** -- 2,3,4-Trimethoxyamphetamine
+**[[2c-b-pihkal-entry-20]] #159** -- 2,3,4-Trimethoxyamphetamine
 
 ## Chemical Name
 
@@ -66,7 +66,7 @@ as compounds whose activity is either absent or unconfirmed. This contrasts
 sharply with TMA-2 (2,4,5-) which is approximately ten times more potent than
 [[tma-6-entity]] (2,4,6-) which shows moderate
 activity. The pattern demonstrates that the specific spatial arrangement of
-methoxy groups is critical for psychedelic activity in the amphetamine series.
+methoxy groups is critical for psychedelic activity in the [[pihkal-dob-doi-dom-amphetamine-series-comparison]].
 
 ## Related Compounds
 
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

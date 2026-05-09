@@ -1,10 +1,11 @@
 ---
-title: Plant Secondary Macronutrients Calcium Magnesium and Sulfur
+title: Plant plant secondary macronutrients calcium magnesium and sulfur Calcium Magnesium and Sulfur
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 
 # Plant Secondary Macronutrients: Calcium, Magnesium, and Sulfur
@@ -17,7 +18,7 @@ While nitrogen, phosphorus, and potassium receive the most attention, three othe
 
 - **Cell wall structure**: Calcium is a key structural component of cell walls. Since cell walls form around every plant cell, calcium is immediately and obviously important.
 - **Signaling molecule**: Under normal conditions, the cytosol has very low calcium concentration, with supplies sequestered in the vacuole and endoplasmic reticulum. Increasing cytosolic calcium concentrations activate enzymes and speed up reactions -- calcium acts as a cellular alarm system.
-- **Membrane transport**: Used to transport substances across the cellular membrane.
+- **[[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]**: Used to transport substances across the cellular membrane.
 - **Cell division**: Important for cell division, which is why it concentrates in young undifferentiated meristematic cells.
 - **Enzyme component**: Part of many enzymatic reactions.
 
@@ -30,11 +31,11 @@ Calcium is **immobile** once assimilated into a cell. It cannot be relocated to 
 
 ### Sources
 
-Calcium is extremely abundant in the environment. It comes from weathered minerals such as limestone and chalk. It is held by soil cation exchange sites and is relatively available.
+Calcium is extremely abundant in the environment. It comes from weathered minerals such as limestone and chalk. It is held by soil [[mollison-designers-tropical-soils-and-cation-exchange-management]] sites and is relatively available.
 
 ### Garden Significance
 
-Calcium deficiency causes blossom end rot in tomatoes and peppers, bitter pit in apples, and tip burn in lettuce. These are all disorders of rapidly growing tissues where calcium supply cannot keep up with demand.
+[[knf-calcium-deficiency-symptoms]] causes blossom end rot in tomatoes and peppers, bitter pit in apples, and tip burn in lettuce. These are all disorders of rapidly growing tissues where calcium supply cannot keep up with demand.
 
 ## Magnesium (Mg)
 
@@ -58,7 +59,7 @@ Magnesium is a very abundant mineral on Earth, weathering from many minerals. Th
 
 ### Garden Significance
 
-Magnesium deficiency is common in sandy, acidic soils with high rainfall (where Mg leaches out). Epsom salts (magnesium sulfate) is a common organic remedy. Heavy potassium applications can suppress magnesium uptake -- another reason balanced nutrition matters.
+[[query-how-to-fix-magnesium-deficiency-in-cannabis]] is common in sandy, acidic soils with high rainfall (where Mg leaches out). Epsom salts (magnesium sulfate) is a common organic remedy. Heavy potassium applications can suppress magnesium uptake -- another reason balanced nutrition matters.
 
 ## Sulfur (S)
 
@@ -75,7 +76,7 @@ Magnesium deficiency is common in sandy, acidic soils with high rainfall (where 
 
 Sulfur is **immobile** in plants. Once synthesized into proteins, it stays where it is. Deficiency symptoms appear in younger leaves:
 - Yellowing of new growth (similar to nitrogen deficiency)
-- Distinguishing feature: unlike nitrogen deficiency (which starts in older leaves), sulfur deficiency starts in the younger leaves
+- Distinguishing feature: unlike nitrogen deficiency (which starts in older leaves), [[query-how-to-fix-sulfur-deficiency-in-cannabis]] starts in the younger leaves
 
 ### Sources and Modern Context
 
@@ -99,6 +100,8 @@ Sulfur deficiency is increasingly common as air quality improves. Brassicas (cab
 | **Common source** | Limestone, chalk | Dolomite | Gypsum, organic matter |
 
 ## Related
+
+- [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]]
 
 - [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]] -- the primary macronutrients
 - [[photosynthesis-and-chloroplast-function]] -- magnesium's role in chlorophyll

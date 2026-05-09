@@ -1,5 +1,5 @@
 ---
-title: "Fly-Agaric Isoxazole Chemistry and Variability"
+title: "Fly-Agaric fly agaric isoxazole chemistry and variability and Variability"
 created: 2026-04-26
 tags:
   - chemistry
@@ -29,7 +29,7 @@ produces the observed effects remains poorly understood.
 
 ## Decarboxylation: The Key Conversion
 
-Interestingly, ibotenic acid readily transforms itself into muscimol
+Interestingly, [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] readily transforms itself into muscimol
 through a process known as decarboxylation. Drying, heating, or even
 the digestion process itself will, to varying degrees, accomplish this
 process. The [[amanita-muscaria-chemistry-and-pharmacology]]
@@ -112,4 +112,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

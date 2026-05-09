@@ -29,7 +29,7 @@ The compound is one of the lesser-known members of the phenylisopropylamine fami
 
 Allylescaline has the molecular formula C13H19NO3 and a molecular weight of 237.29 g/mol. Its IUPAC name is 2-(4-allyloxy-3,5-dimethoxyphenyl)ethan-1-amine. It is structurally related to mescaline (3,4,5-trimethoxyphenethylamine) with an allyloxy group replacing the 4-position methoxy.
 
-The allyl (CH2=CH-CH2-O-) side chain at the 4-position distinguishes allylescaline from other mescaline analogues. This modification increases lipophilicity compared to mescaline, which may influence blood-brain barrier penetration and receptor binding affinity.
+The allyl (CH2=CH-CH2-O-) side chain at the 4-position distinguishes allylescaline from other mescaline analogues. This modification increases lipophilicity compared to mescaline, which may influence blood-brain barrier penetration and [[tihkal-receptor-binding-serotonin]] affinity.
 
 The allyl group introduces an unsaturated carbon-carbon double bond not present in the saturated propoxy chain of proscaline. This structural feature may affect metabolic stability, as the double bond is a potential site for epoxidation by hepatic cytochrome P450 enzymes.
 
@@ -61,7 +61,7 @@ The nausea, sometimes referred to as "body load," is typically most pronounced d
 
 Dose-dependent increases in blood pressure and heart rate have been reported for related phenethylamines. Individuals with cardiovascular conditions should exercise caution. There are no published reports of serious adverse events specifically attributed to allylescaline.
 
-Shulgin's qualitative assessment in PIHKAL rates the compound as producing a mild to moderate psychedelic experience with less visual intensity than mescaline at equivalent doses. He noted a relatively clear headspace with minimal confusion or disorientation, which distinguishes it from more potent phenethylamines such as 2C-B.
+Shulgin's qualitative assessment in PIHKAL rates the compound as producing a mild to moderate [[leary-psychedelic-experience-bardo-mapping]] with less visual intensity than mescaline at equivalent doses. He noted a relatively clear headspace with minimal confusion or disorientation, which distinguishes it from more potent phenethylamines such as 2C-B.
 
 ## Synthesis
 
@@ -73,9 +73,9 @@ This synthetic route is analogous to the preparation of other 4-substituted mesc
 
 ## Legal Status
 
-Allylescaline is unscheduled in most countries, though its structural similarity to scheduled phenethylamines may subject it to analogue acts in some jurisdictions. In the United States, the Federal Analogue Act potentially covers allylescaline as a controlled substance analogue of mescaline.
+Allylescaline is unscheduled in most countries, though its structural similarity to scheduled phenethylamines may subject it to analogue acts in some jurisdictions. In the [[dmt-containing-plants-united-states-halpern]], the Federal Analogue Act potentially covers allylescaline as a controlled substance analogue of mescaline.
 
-In the United Kingdom, the Psychoactive Substances Act 2016 may apply to allylescaline. Several European countries have scheduled specific phenethylamines, though allylescaline is not explicitly listed in most national scheduling tables.
+In the United Kingdom, the Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016 may apply to allylescaline. Several European countries have scheduled specific phenethylamines, though allylescaline is not explicitly listed in most national scheduling tables.
 
 The compound is not approved for human consumption and is available only through specialty chemical suppliers for research purposes. Its legal status should be verified for any specific jurisdiction before acquisition or handling.
 
@@ -85,7 +85,7 @@ Allylescaline was first synthesized and characterized by Alexander and Ann Shulg
 
 The compound represents one of many mescaline analogues investigated by the Shulgins in their effort to understand structure-activity relationships within the phenethylamine class. The allyloxy substitution was chosen to explore how unsaturated alkoxy groups at the 4-position influenced psychoactivity compared to the simpler methoxy group.
 
-Since its publication in PIHKAL, allylescaline has received minimal scientific attention. There are no published clinical trials or formal pharmacological studies beyond Shulgin's initial reports. It remains a research chemical of primarily historical and pharmacological interest.
+Since its publication in PIHKAL, allylescaline has received minimal scientific attention. There are no published [[mushroom-cancer-clinical-trials-overview]] or formal pharmacological studies beyond Shulgin's initial reports. It remains a research chemical of primarily historical and pharmacological interest.
 
 The compound's rarity in both research and recreational contexts reflects a broader pattern among PIHKAL phenethylamines: only a small subset achieved widespread use, while the majority remained obscure chemicals known only to dedicated researchers and enthusiasts.
 
@@ -106,5 +106,5 @@ Cross-tolerance between allylescaline and other serotonergic psychedelics (LSD, 
 - [[psilocin]]
 - [[bufotenin]]
 - [[ergine-entity]]
-- [[4-aco-dmt]]
+- [[4-acetoxy-dmt]]
 - [[4-ho-met]]

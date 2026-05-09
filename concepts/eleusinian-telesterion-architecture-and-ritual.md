@@ -9,7 +9,7 @@ sources:
 ---
 # Telesterion — Architecture and Ritual of the Vision Hall
 
-**Source:** The Road to Eleusis, Chapters I, III-IV — Wasson, Ruck
+**Source:** The [[the-road-to-eleusis-wasson-hofmann-ruck]], Chapters I, III-IV — Wasson, Ruck
 
 ## Overview
 
@@ -17,7 +17,7 @@ The Telesterion was the great hall at Eleusis where the culminating [[set-and-se
 
 ## The Anaktoron
 
-The anaktoron was the innermost sanctuary within the Telesterion, accessible only to the hierophant. It was here that the sacred objects (the hiera) were stored and from which the culminating vision — the [[lesser-and-greater-eleusinian-mysteries]], the initiates entered the Telesterion after completing the [[set-and-setting-eleusinian-initiation-methodology]] — the controlled preparation of psychological and physical conditions for the psychedelic experience.
+The anaktoron was the innermost sanctuary within the Telesterion, accessible only to the hierophant. It was here that the sacred objects (the hiera) were stored and from which the culminating vision — the [[lesser-and-greater-eleusinian-mysteries]], the initiates entered the Telesterion after completing the [[set-and-setting-eleusinian-initiation-methodology]] — the controlled preparation of psychological and physical conditions for the [[leary-psychedelic-experience-bardo-mapping]].
 
 ## Archaeological Reconstruction
 
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

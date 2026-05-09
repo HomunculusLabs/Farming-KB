@@ -43,11 +43,11 @@ rituals aimed at ensuring rainfall and agricultural productivity.
 ## The Name Piule: A Shared Designation
 
 The name "piule" is shared between Rhynchosia seeds and hallucinogenic
-morning glory seeds (Turbina corymbosa and Ipomoea species), both of which
+morning glory seeds ([[plants-of-the-gods-turbina-corymbosa-ololiuqui]] and Ipomoea species), both of which
 are used by indigenous peoples in southern Mexico. This shared nomenclature
 reflects the visual similarity between the seeds of these different plants
 and may also indicate a functional similarity in their ceremonial or
-medicinal applications. The morning glories contain ergoline alkaloids
+medicinal applications. The [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] contain ergoline alkaloids
 closely related to LSD, while the chemistry of Rhynchosia seeds is less
 well characterized.
 
@@ -69,7 +69,7 @@ easily recognizable and potentially attractive as decorative or ceremonial
 objects in addition to any psychoactive use.
 
 The genus is closely related to other important legume genera, and like
-many legumes, Rhynchosia species are capable of nitrogen fixation through
+many legumes, Rhynchosia species are capable of [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] through
 symbiotic relationships with soil bacteria. Several species have documented
 uses in folk medicine in various tropical countries, though the specific
 medicinal applications vary widely across different cultural traditions.
@@ -77,7 +77,7 @@ medicinal applications vary widely across different cultural traditions.
 ## Chemistry: Positive Alkaloid Tests
 
 Seeds of some species of Rhynchosia have given positive alkaloid tests,
-confirming the presence of nitrogen-containing secondary metabolites in the
+confirming the presence of nitrogen-containing [[antifungal-secondary-metabolites-coprophilous-fungi]] in the
 seeds. However, the specific toxic principles have still not been
 characterized according to Schultes' account. This means that the active
 compounds responsible for any psychoactive effects, their mechanism of
@@ -86,10 +86,10 @@ tests are suggestive but not conclusive evidence of psychoactivity, as many
 plant alkaloids have pharmacological effects unrelated to hallucination or
 intoxication.
 
-The alkaloid chemistry of Rhynchosia is of particular interest because the
+The [[ergot-alkaloid-chemistry-history]] of Rhynchosia is of particular interest because the
 related legume genera include several well-known psychoactive plants. The
 morning glories (Convolvulaceae, not Leguminosae) contain ergoline
-alkaloids, while Sophora secundiflora contains the toxic alkaloid cytisine.
+alkaloids, while [[mescal-bean-sophora-secundiflora-vision-dance]] contains the toxic alkaloid cytisine.
 If Rhynchosia seeds do contain psychoactive alkaloids, they may belong to
 novel chemical classes or may share structural features with alkaloids found
 in other leguminous psychoactive plants.

@@ -1,5 +1,5 @@
 ---
-title: "Trichocereus Mescaline Cacti: San Pedro and Peruvian Torch Cultivation and Chemistry"
+title: "Trichocereus trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern: gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] Cultivation and Chemistry"
 source: "halpern-m-hallucinogens-dissociative-agents-growing-in-us.md"
 tags: [trichocereus, mescaline, san-pedro, peruvian-torch, cacti, psychotropic-plants, cultivation]
 created: 2026-05-08
@@ -24,12 +24,12 @@ Trichocereus cacti are among the easiest psychoactive plants to cultivate:
 
 - Propagate readily from cuttings (allow cut surface to callus 1-2 weeks
   before planting)
-- Fast growth rate: 30-60 cm per year under optimal conditions
+- Fast [[soil-temperature-plant-growth-rate-doubling-rule]]: 30-60 cm per year under optimal conditions
 - Require well-draining soil, full sun, and minimal water
-- Overwinter indoors in cold climates; can tolerate brief light frosts
+- Overwinter indoors [[query-how-do-i-grow-figs-in-cold-climates]]; can tolerate brief light frosts
 - Grafted specimens grow even faster but may have altered alkaloid profiles
 - Multiple named cultivars exist ("PC" or "predominant cultivar," "TPQC"
-  "Texas Peyote Cultivar," etc.) with varying mescaline content
+  "Texas Peyote Cultivar," etc.) with varying [[gottlieb-peyote-botany-and-mescaline-content]]
 
 ## Legal Status
 
@@ -37,7 +37,7 @@ Trichocereus cacti are among the easiest psychoactive plants to cultivate:
 - **Mescaline**: Schedule I controlled substance
 - **Extraction/preparation for consumption**: Legally gray to illegal
   depending on intent
-- **Native American Church exemption**: Applies only to peyote, not
+- **[[halpern-sacramental-peyote-and-native-american-church]] Church exemption**: Applies only to peyote, not
   Trichocereus species
 - Some US states have considered but not enacted restrictions on
   Trichocereus cultivation
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

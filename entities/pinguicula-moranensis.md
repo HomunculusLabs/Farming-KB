@@ -34,7 +34,7 @@ Authority: Kunth (1817). The epithet refers to the Morán mining region in Hidal
 
 **Winter rosette:** The winter non-carnivorous form produces a tight compact rosette of smaller, thick, succulent leaves. These protect the plant through the dry season.
 
-**Glandular trichomes:** The upper leaf surface is covered with two types of glands. Pedunculate glands secrete sticky mucilage, while sessile glands produce digestive enzymes.
+**Glandular trichomes:** The upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is covered with two types of glands. Pedunculate glands secrete sticky mucilage, while sessile glands produce digestive enzymes.
 
 **Flowers:** Born on solitary scapes 8–20 cm tall. Flowers are 2–4 cm in diameter with a two-lipped corolla. Petal color ranges from violet-purple to pink with white throats, often with darker venation.
 
@@ -52,11 +52,11 @@ The species tolerates considerable temperature variation due to its montane dist
 
 P. moranensis employs a flypaper trapping mechanism using glandular trichomes on the leaf surface. Pedunculate glands secrete a clear, sticky mucilage that covers the upper leaf surface.
 
-Small insects including fungus gnats, midges, and fruit flies are attracted to the glistening droplets and become trapped on contact. Struggling insects contact additional glands and become further immobilized.
+Small insects including [[query-how-to-control-fungus-gnats-organically]], midges, and fruit flies are attracted to the glistening droplets and become trapped on contact. Struggling insects contact additional glands and become further immobilized.
 
 The leaf margins slowly roll inward over 30 minutes to several hours, enveloping the prey. This thigmonastic response brings sessile digestive glands into direct contact with the captured organism.
 
-Digestive enzymes including proteases, phosphatases, and esterases break down the prey. Nutrient absorption occurs through the leaf surface, supplementing the plant's mineral nutrition.
+Digestive enzymes including proteases, phosphatases, and esterases [[query-can-fungi-break-down-plastic-pollution]] the prey. Nutrient absorption occurs through the leaf surface, supplementing the plant's mineral nutrition.
 
 ## Cultivation
 
@@ -64,7 +64,7 @@ P. moranensis is considered one of the easiest carnivorous plants to grow indoor
 
 **Substrate:** A mix of equal parts peat moss, perlite, and vermiculite works well. Some growers add crushed lava rock or pumice for improved drainage.
 
-**Water:** Use distilled or rain water. Maintain a moist but not waterlogged substrate during the active growing season. Reduce watering during the winter succulent phase.
+**Water:** Use distilled or rain water. Maintain a moist but not waterlogged substrate during the active [[savory-growing-season-and-non-growing-season-management]]. Reduce watering during the winter succulent phase.
 
 **Light:** Bright indirect light produces the best growth and flowering. Direct afternoon sun may scorch the leaves. A south-facing windowsill with sheer curtain filtering is often ideal.
 
@@ -94,7 +94,7 @@ Natural hybridization occurs where species ranges overlap in central Mexico. Hyb
 
 ## Bioactive Compounds
 
-Pinguicula species, including P. moranensis, have been investigated for their bioactive secondary metabolites. The mucilage contains proteolytic enzymes with potential biotechnological applications.
+Pinguicula species, including P. moranensis, have been investigated for their bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]. The mucilage contains proteolytic enzymes with potential biotechnological applications.
 
 Traditional use of Pinguicula mucilage as a curdling agent for milk has been documented in European folk traditions. The enzyme rennin-like activity facilitates milk protein coagulation.
 
@@ -103,6 +103,8 @@ Antimicrobial compounds isolated from Pinguicula leaf extracts have shown activi
 Research into the digestive enzymes of P. moranensis has contributed to understanding of plant carnivory at the molecular level. The enzyme profile overlaps with but is distinct from that of Drosera and Utricularia.
 
 ## See Also
+
+- [[pinguicula-esseriana]]
 
 - [[drosera-rotundifolia]]
 - [[utricularia-vulgaris]]

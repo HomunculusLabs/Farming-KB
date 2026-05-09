@@ -1,5 +1,5 @@
 ---
-title: Sheep Keeping Guide
+title: Sheep duck-keeping-guide-detailed
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,9 +10,9 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Ultimate Guide to Natural Farming and Sustainable Living, Nicole Faires
+Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]], Nicole Faires
 
-Sheep are manageable livestock for small-scale farms, providing meat, wool, and pasture management services. They are relatively easy to care for but require attention to predator protection and stress management.
+Sheep are manageable livestock for small-scale farms, providing meat, wool, and [[grassland-pasture-management-mollison]] services. They are relatively easy to care for but require attention to predator protection and stress management.
 
 ## How Sheep Fit into a Permaculture System
 

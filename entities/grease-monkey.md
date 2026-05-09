@@ -19,14 +19,14 @@ sources:
   - AllBud Staff (2024). "Grease Monkey Strain Review." AllBud.com.
   - Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press.
   - Small, E. (2017). Cannabis: A Complete Guide. CRC Press.
-  - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last Two Decades." Biological Psychiatry, 79(7), 613–619.
+  - ElSohly, M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] Over the Last Two Decades." Biological Psychiatry, 79(7), 613–619.
 ---
 
 # Grease Monkey
 
 ## Overview
 
-Grease Monkey is an indica-dominant hybrid cannabis strain created by crossing **Gorilla Glue #4** with **Cookies and Cream**. Bred by Exotic Genetix, it has gained recognition for its potent sedative effects, high resin production, and distinctive fuel-forward aroma profile.
+Grease Monkey is an indica-dominant hybrid cannabis strain created by crossing **Gorilla Glue #4** with **Cookies and Cream**. Bred by Exotic Genetix, it has gained recognition for its potent sedative effects, high [[cannabis-glandular-trichome-types-resin-production-clarke]], and distinctive fuel-forward aroma profile.
 
 The strain delivers heavy body-centered effects that make it popular among medical cannabis patients seeking relief from chronic pain, insomnia, and muscle spasms. Its THC content typically ranges from 20–28%, placing it among the higher-potency strains available in legal markets.
 
@@ -98,11 +98,11 @@ Common side effects include dry mouth, dry eyes, and dizziness. At higher doses,
 
 ## Cultivation
 
-Grease Monkey is considered a moderately difficult strain to cultivate, requiring attention to nutrient management and environmental control to achieve optimal resin production.
+Grease Monkey is considered a moderately difficult strain to cultivate, requiring attention to [[green-cannabis-grow-bible-nutrient-management-ppm]] and [[eclss-environmental-control-life-support]] to achieve optimal resin production.
 
 **Flowering time** is 8–9 weeks indoors. **Indoor yield** averages 300–400 g/m². **Outdoor yield** reaches 400–500 g/plant, with harvest typically in late September to early October in northern temperate climates.
 
-The strain responds well to training techniques including low-stress training (LST), screen of green (ScrOG), and topping. It benefits from moderate nutrient levels during vegetative growth and reduced nitrogen during flowering.
+The strain responds well to [[cannabis-training-techniques-comparison]] including low-stress training (LST), screen of green (ScrOG), and topping. It benefits from moderate nutrient levels during [[cannabis-vegetative-growth-stage]] and reduced nitrogen during flowering.
 
 Grease Monkey is relatively resistant to common molds and pests but can be sensitive to high humidity during late flowering. Maintaining humidity below 50% in the final weeks is recommended to prevent bud rot.
 

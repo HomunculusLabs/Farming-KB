@@ -20,7 +20,7 @@ The concept of plant teachers is central to Amazonian ethnobotany: plants are no
 
 ### Major Visionary Plants (Bejucos y Chacrunas)
 
-- **Ayahuasca (Banisteriopsis caapi)** — The primary vine teacher; "vine of the dead/vine of souls." Its spirit appears as a black snake with yellow, orange, and blue spots. Contains harmine, harmaline, and tetrahydroharmine (MAO inhibitors). The foundational plant for Amazonian shamanism.
+- **Ayahuasca (Banisteriopsis caapi)** — The primary vine teacher; "vine of the dead/vine of souls." Its spirit appears as a black snake with yellow, orange, and blue spots. Contains harmine, harmaline, and tetrahydroharmine (MAO inhibitors). The foundational plant for [[mckenna-food-gods-amazonian-shamanism-ayahuasca]].
 - **Chacruna (Psychotria viridis)** — The DMT-containing leaf that activates ayahuasca's visionary effects. Its spirit appears as a brightly colored snake with violet radiation. Must be harvested while fasting and placed sun-side-down with "spurs" upward during brewing.
 - **Chaliponga (Diplopterys cabrerana)** — Alternative DMT source used in some traditions, especially Colombian and Ecuadorian.
 
@@ -69,14 +69,14 @@ Every plant has a "madre" (mother) or spirit that:
 - Guards and conserves the plant
 - Gives visions only to compliant, properly prepared practitioners
 - Transmits specific knowledge (healing songs/icaros, medicinal uses, spiritual defenses)
-- Appears in characteristic forms during ayahuasca visions
+- Appears in characteristic forms during [[amaringo-ayahuasca-visions-shipibo-iconography]]
 - Can be offended by improper behavior, causing illness rather than healing
 
 The spirits are described as real entities: "They are the ones that have taken over these plants. They are the conservers, they take care of the plants."
 
 ## Related Pages
 
-- [[ayahuasca-preparation]] — Detailed brewing methods
+- [[ayahuasca-preparation]] — Detailed [[compost-tea-brewing-methods-aact]]
 - [[pablo-amaringo]] — The artist who documented these plant spirits
 - [[shipibo-icaros-healing-songs]] — Songs taught by plant teachers
 - [[amazonian-medicinal-plants-reference]] — Medicinal plant index

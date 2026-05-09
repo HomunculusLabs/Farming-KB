@@ -13,11 +13,11 @@ sources:
 
 ## Overview
 
-uncinula necator is an obligate biotrophic fungal pathogen that causes powdery mildew of grapevines (Vitis spp.). It is one of the most economically important fungal pathogens in viticulture worldwide, affecting both wine grapes and table grapes across all major grape-growing regions. The species belongs to the phylum [[fungal-spores]]g)
+uncinula necator is an obligate biotrophic [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] that causes [[cervantes-powdery-mildew-prevention-treatment]] of grapevines (Vitis spp.). It is one of the most economically important [[bloomfield-fungal-pathogens-and-parasites]] in viticulture worldwide, affecting both wine grapes and table grapes across all major grape-growing regions. The species belongs to the phylum fungal-sporesg)
 - At high domatia densities, the feeding activity of tydeid mites significantly reduced the incidence of mildew on grape leaves
-- This represents a tritrophic interaction involving the grapevine (providing domatia), the mites (consuming fungal spores and mycelium), and the powdery mildew pathogen (being consumed)
+- This represents a tritrophic interaction involving the grapevine (providing domatia), the mites (consuming fungal spores and [[mycelium]]), and the powdery mildew pathogen (being consumed)
 
-This interaction illustrates the concept of biological cobacillus-subtilisrough plant-provided structures and highlights the complexity of species interactions in agricultural ecosystems.
+This interaction illustrates the concept of biological cobacillus-subtilisrough plant-provided structures and highlights the complexity of species interactions in [[fungi-grassland-agricultural-ecosystems-dighton]].
 
 ### Antagonistic Microorganisms
 
@@ -28,7 +28,7 @@ Various microorganisms, including [[powdery-mildews-erysiphaceae-diversity-host-
 - Erysiphales
 - Viticulture
 - Acarodomatia
-- biological control
+- [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]
 - grapevine pathology
 ## Practical Applications
 
@@ -107,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

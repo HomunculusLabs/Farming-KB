@@ -17,7 +17,7 @@ type: concept
 # Fungal Sex — Pheromones and Mating Communication
 
 Fungi have evolved an astonishing diversity of mating strategies, many
-mediated by chemical signals — pheromones — that allow potential partners to
+mediated by [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] — pheromones — that allow potential partners to
 locate and recognize one another. Unlike animals, where mating typically
 involves complex behavioral rituals between motile organisms, fungi must
 coordinate reproduction between individuals that are often rooted in place,
@@ -28,7 +28,7 @@ and community-wide sexual compatibility.
 ## Oomycete Pheromones — Steroid Hormones
 
 The water mold *Achlya ambisexualis* produces some of the most sophisticated
-fungal mating signals known. The female mycelium secretes a steroid hormone
+fungal mating signals known. The female [[mycelium]] secretes a steroid hormone
 called antheridiol, which diffuses through the water and triggers the male
 to produce specialized branches called antheridial hyphae. These grow
 chemotropically toward the source of antheridiol, eventually making contact
@@ -55,7 +55,7 @@ that degrades the structural glucans in the female cell wall at the point of
 contact. Hill and Money later measured the mechanical strength of fungal
 cell walls using micropipette oil injection, providing quantitative evidence
 for the wall-weakening effects of pheromone-induced enzyme secretion. This
-combination of chemical signaling and targeted enzymatic action allows the
+combination of [[plant-hormones-and-chemical-signaling-systems]] and targeted enzymatic action allows the
 fungus to precisely control where and when cell wall dissolution occurs — a
 process that must be carefully regulated to prevent the female from being
 structurally compromised.
@@ -65,7 +65,7 @@ structurally compromised.
 *Achlya* populations in nature display an interesting ecological pattern
 related to their mating systems. Self-fertile (homothallic) strains tend to
 dominate in seasonal ponds that dry out periodically, because a single
-spore can complete the entire life cycle without finding a partner.
+[[spore]] can complete the entire life cycle without finding a partner.
 Heterothallic strains, which require cross-fertilization between compatible
 mating types, are more common in permanent ponds where stable conditions
 allow populations to persist long enough for sexual partners to encounter
@@ -74,7 +74,7 @@ evolution is shaped by the reliability of environmental conditions.
 
 ## Chytrid Pheromones — Sirenin and Parisin
 
-Chytrid fungi, among the most ancient lineages of fungi, have motile sperm
+[[bloomfield-chytrid-fungi-early-fungal-evolution]], among the most ancient lineages of fungi, have motile sperm
 cells (flagellated zoospores) that must swim through water to reach the
 female. The female releases the sesquiterpene pheromone sirenin, which
 creates a concentration gradient in the surrounding water. Male gametes
@@ -95,7 +95,7 @@ precursor from beta-carotene, and these precursors are exchanged between the
 mycelia and converted into the active pheromone through complementary
 enzymatic steps. This cooperative system means that trisporic acid only
 accumulates when compatible strains are in close proximity, ensuring that
-the morphological changes associated with sexual reproduction — the growth
+the morphological changes associated with [[fungal-life-cycles-sexual-reproduction-metamorphosis]] — the growth
 of specialized aerial hyphae that meet and fuse to form zygospores — only
 occur when both partners are present.
 
@@ -107,14 +107,14 @@ capable of surviving adverse conditions.
 
 ## Basidiomycete Mating Types
 
-Basidiomycete fungi have evolved the most elaborate mating type systems in
+[[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] have evolved the most elaborate mating type systems in
 the fungal kingdom. Many ink-cap mushrooms (Coprinus species) possess
 hundreds of distinct mating-type alleles, and any two unrelated individuals
 have a high probability of being sexually compatible. This system contrasts
 sharply with the simple two-sex systems of most animals and plants. The
 mating-type genes encode proteins that regulate the initial fusion of
 hyphae (the plasmogamy step) and the subsequent nuclear pairing that
-establishes the dikaryotic state essential for fruiting body formation.
+establishes the dikaryotic state essential for fruiting [[suppressed-incomplete-fruit-body-formation-brassinosteroid-treatment]].
 
 Perhaps the most remarkable example of basidiomycete sexual ecology is the
 honey fungus *Armillaria*, which can form massive underground mycelial
@@ -124,5 +124,9 @@ dikaryotic mycelium that produces mushrooms. This cooperative approach to
 reproduction — where multiple individuals contribute genetic material to
 a single reproductive structure — has been compared to the behavior of
 cellular [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]
-- [[bloomfield-ascobolus-ascomycete-fruiting-body-evolution]]
+- bloomfield-ascobolus-ascomycete-fruiting-body-evolution
 - [[bloomfield-wood-decay-fungi-spalted-timber]]
+
+## See Also
+
+- [[bloomfield-fungal-pheromones-sexual-signaling-antheridiol-oogoniol]]

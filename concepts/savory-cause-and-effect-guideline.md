@@ -1,5 +1,5 @@
 ---
-title: Cause and Effect Guideline
+title: fukuoka-textdoc-no-cause-and-effect-in-nature Guideline
 created: 2026-04-28
 tags: [decision-making, management-guidelines, problem-solving]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 
 # Cause and Effect Guideline
 
-In [[savory-testing-and-management-guidelines]] used in [[savory-weak-link-analysis]] eliminates nonproblems, the cause and effect guideline exposes
+In  used in [[savory-weak-link-analysis]] eliminates nonproblems, the cause and effect guideline exposes
 nonsolutions.
 
 ## The Fundamental Principle
@@ -34,14 +34,14 @@ or what will follow B.
 
 The real problem is the temptation of quick fixes, sweetened immensely by
 the power of modern science to conjure up spectacular ones at the drop of
-a hat. In resource management, quick fixes typically involve technological
+a hat. In [[savory-holistic-resource-management-animal-impact]], quick fixes typically involve technological
 interventions that address visible symptoms while leaving root causes
 intact.
 
 Savory illustrates this with numerous examples from agriculture and
 resource management. When land deteriorates, the common response is to
 apply a technological fix: reseeding, chemical treatment, mechanical
-earthworks, or fencing. These address the visible symptoms (bare ground,
+earthworks, or fencing. These address the visible symptoms ([[savory-bare-ground-and-soil-exposure]],
 erosion, brush encroachment) without addressing why the land is
 deteriorating in the first place.
 
@@ -56,10 +56,10 @@ compelling case study in confusing symptoms with causes. When grasslands
 deteriorated, observers noted overgrazing and blamed animal numbers.
 Reducing animal numbers was the obvious solution. But removing animals also
 removed the [[savory-plant-succession-and-community-dynamics]] driven by
-rest and low animal impact, remains unaddressed.
+rest and low [[savory-animal-impact-and-herd-effect]], remains unaddressed.
 
-Mechanical brush clearing and erosion control can increase [[savory-fire-as-management-tool]] is frequently used to treat the
-symptom of accumulated old growth without addressing why material is
+Mechanical brush clearing and [[permplant-willows-salix-erosion-control-fodder]] can increase [[savory-fire-as-management-tool]] is frequently used to treat the
+symptom of accumulated [[fungal-roles-in-old-growth-forests]] without addressing why material is
 accumulating. In brittle environments, old growth accumulates because
 biological decay is slow and [[savory-testing-and-management-guidelines]] and with ongoing [[savory-testing-and-management-guidelines]]
 - [[savory-weak-link-analysis]]
@@ -83,3 +83,7 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[savory-enterprise-overhead-and-gross-profit-analysis]]
+- [[savory-time-and-timing-guideline]]

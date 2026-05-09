@@ -1,5 +1,5 @@
 ---
-title: Harmala Alkaloids
+title: turner-harmala-alkaloids-preparation-and-dosage
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Harmala alkaloids are a group of beta-carboline compounds found in several plant species, most notably Banisteriopsis caapi (ayahuasca vine) and Peganum harmala (Syrian rue). These compounds are primarily known for their function as reversible inhibitors of monoamine oxidase (MAOI), which is the key pharmacological mechanism that enables the oral activity of DMT in ayahuasca.
+Harmala alkaloids are a group of beta-carboline compounds found in several plant species, most notably Banisteriopsis caapi (ayahuasca vine) and [[mckenna-food-gods-peganum-harmala-soma]] ([[golden-guide-syrian-rue-and-maoi-plants]]). These compounds are primarily known for their function as reversible inhibitors of monoamine oxidase (MAOI), which is the key pharmacological mechanism that enables the [[tihkal-oral-activity-mao-inhibition]] of DMT in ayahuasca.
 
 The three primary harmala alkaloids are harmine, harmaline, and tetrahydroharmine (THH). Each has distinct pharmacological properties, and their combined action is what makes ayahuasca uniquely effective.
 
@@ -115,7 +115,7 @@ Without MAO inhibition, oral DMT is completely inactive — the body destroys it
 ### P. harmala Seeds
 - Light MAOI effect: 2–3 g
 - Moderate: 3–5 g
-- Strong: 5–7 g (risk of adverse effects increases significantly above 5 g)
+- Strong: 5–7 g (risk of [[blesching-cannabis-safety-adverse-effects-evidence]] increases significantly above 5 g)
 
 ### Isolated Harmala Alkaloids (Freebase)
 - Harmine: 50–200 mg
@@ -138,39 +138,13 @@ At high doses (overdose range), harmala alkaloids can produce:
 - Hypotension (dangerously low blood pressure)
 - Tremors and convulsions (harmaline is a tremorogenic agent)
 - Serotonin syndrome (when combined with serotonergic drugs)
-
-## Safety Cautions and Interactions
-
-### Serotonin Syndrome Risk
-Harmala alkaloids must NEVER be combined with:
-- SSRIs (fluoxetine, sertraline, escitalopram, etc.) — stop 2+ weeks before
-- MAOIs (pharmaceutical MAOIs like phenelzine, tranylcypromine)
-- SNRIs (venlafaxine, duloxetine)
-- Tricyclic antidepressants
-- Tramadol, dextromethorphan
-- 5-HTP or tryptophan supplements
-- Other serotonergic psychedelics at high doses
-
-This is the most dangerous interaction — serotonin syndrome can be fatal.
-
-### Tyramine Interaction
-RIMAs are less dangerous with tyramine than irreversible MAOIs, but caution is still warranted. Avoid:
-- Aged cheeses
-- Cured meats (salami, pepperoni)
-- Fermented foods (sauerkraut, soy sauce, miso)
-- Red wine (especially aged)
-- Yeast extracts
-
-### Other Cautions
-- Not safe during pregnancy — P. harmala has traditional use as an abortifacient
-- Cardiovascular conditions require medical evaluation
-- Start with low doses — individual sensitivity varies greatly
-
 ## Related Topics
 
 - [[ayahuasca-brewing-guide]] — traditional use of harmala alkaloids with DMT
 - [[dmt-extraction-guide]] — DMT extraction, the other half of the ayahuasca equation
 
 ## See Also
+
+- [[selegiline]]
 
 - [[turner-harmala-alkaloids-preparation-and-dosage]]

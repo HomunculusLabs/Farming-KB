@@ -23,7 +23,7 @@ fever. The precise reasons for febrile seizures are not fully known. One
 hypothesis: When a child is born, the brain is not finished growing. During
 the subsequent months and even years, the brain and nervous system continue
 to expand and develop. However, the part of the brain responsible for
-temperature regulation in the body sometimes develops at a slower pace.
+[[blesching-cannabis-fever-temperature-regulation]] in the body sometimes develops at a slower pace.
 Therefore, it is argued that during times of fever, an "overload" to the
 neurological system occurs, producing a seizure. Once the
 temperature-regulating part of the brain is fully developed, seizures
@@ -59,12 +59,12 @@ and paradoxical thoughts and emotions, thus creating overwhelming friction
 to a mind unprepared and without the skill set to release and transcend
 the tension constructively. The parallel between physical fever/overload
 and mental-emotional overwhelm suggests a holistic approach to both
-prevention and management.
+[[cannabis-hermaphrodite-prevention-and-management]].
 
 ### Related Topics
 
 - [[blesching-cannabis-neurodegenerative-diseases]]
-- [[blesching-endocannabinoid-system-overview]]
+- [[endocannabinoid-system-overview]]
 - [[blesching-cannabis-chemotherapy-nausea]]
 
 ### Key Takeaways

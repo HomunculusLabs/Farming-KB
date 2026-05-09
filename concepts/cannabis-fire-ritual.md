@@ -16,7 +16,7 @@ type: concept
 
 # Cannabis Fire Ritual
 
-The Feeding of the Flame is a fire celebration ritual from "Marijuana Magick: A
+The Feeding of the Flame is a fire celebration ritual from "[[marijuana-magick-cannabis-incense-and-preparation]]: A
 Practitioners Guide" by Magus Sativus. This ceremony honors the element of
 fire as a divine gift that sustains human life, drawing on the myth of
 Prometheus while incorporating cannabis, grain alcohol, and incense into a
@@ -130,9 +130,11 @@ area away from structures is essential.
 
 ## See Also
 
-- [[holmgren-ethical-philosophical-framework]]
+- holmgren-ethical-philosophical-framework
 - [[cannabis-healing-ritual]] for another directional ceremony
 
 ## See Also
 
 - [[marijuana-magick-ancient-ritual-use-cannabis]]
+- [[cannabis-spiritual-ritual-use]]
+- [[practitioner-cannabis-ritual-use-and-sacrament]]

@@ -1,5 +1,5 @@
 ---
-title: "Citrus Fruit Growing"
+title: "Citrus holzer-fruit-growing-marginal-climates"
 created: 2026-04-28
 tags: [citrus, fruit-growing, greenhouse, organic-fruit]
 date: 2026-04-25
@@ -26,7 +26,7 @@ soil. They prefer slightly acid conditions with a pH between 6.0 and
 are grown outside. Young citrus roots are easily scorched by an excess
 of fertilizer, so restrict feeding to manure mulches. Alternatively,
 feed with one handful of blood, fish, and bone meal per square yard
-or meter in early spring and repeat in summer, watering the fertilizer
+or meter in [[coleman-overwintered-onions-and-early-spring-crops]] and repeat in summer, watering the fertilizer
 in well. Make sure the roots have plenty of water, especially in the
 first few years after planting.
 
@@ -85,14 +85,14 @@ Thin overcrowded wood and remove weak, sappy growth in early spring.
 ## Growing Citrus in the Greenhouse
 
 In temperate climates, grow citrus in tubs with a diameter no less
-than 18in (45cm). Use soil-based potting compost and maintain a
+than 18in (45cm). Use soil-based [[hamilton-potting-compost-recipes-and-growing-media]] and maintain a
 minimum greenhouse temperature of 45 degrees F (7 degrees C) at all
-times. Water well during the growing season but allow plants to dry
+times. Water well during the [[savory-growing-season-and-non-growing-season-management]] but allow plants to dry
 out between waterings. In summer, spray the foliage with water every
 morning but stop spraying when the plants are in flower. Keep plants
 slightly drier in winter. Feed weekly during the growing season with
 liquid kelp fertilizer. Little pruning is needed except to thin out
-crossing and overcrowded branches, remove dead wood, and prune out
+crossing and overcrowded branches, remove [[fungal-dead-wood-diversity]], and prune out
 fruited shoots after harvesting.
 
 ## Key Points

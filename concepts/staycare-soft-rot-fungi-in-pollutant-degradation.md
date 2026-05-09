@@ -36,11 +36,11 @@ surface. Two types of soft rot are recognized:
   lumen outward, morphologically similar to white rot.
 
 Both types result from the production of cellulases and, in some cases,
-laccase enzymes. Notably, soft rot fungi do not produce lignin
+[[singh-fungal-laccase-enzymes-bioremediation]]. Notably, soft rot fungi do not produce lignin
 peroxidases (LiP) or manganese peroxidases (MnP), which limits their
 ability to degrade lignin compared to white rot fungi. However, some
 soft rot ascomycetes can achieve significant lignocellulose breakdown
-through laccase-mediated mechanisms involving redox mediator molecules.
+through laccase-mediated mechanisms involving [[staycare-fungal-redox-mediator-chemistry-pollutant-degradation]] molecules.
 
 ## Lignocellulose Degradation Strategy
 
@@ -66,7 +66,7 @@ weight loss in birch wood within 2 months.
 A particularly intriguing aspect of soft rot fungal metabolism relevant
 to pollutant degradation is their capacity for methylation of aromatic
 compounds. Eriksson et al. (1984) demonstrated methylation of the
-4-hydroxyl group of syringic acid by Phanerochaete chrysosporium and
+4-hydroxyl group of syringic acid by [[staycare-phanerochaete-chrysosporium-in-bioremediation]] and
 several other white rot and soft rot fungi. This methylation reaction
 was proposed as a detoxification route for phenolic compounds that are
 toxic to fungal cells.
@@ -117,21 +117,24 @@ degradation, particularly in environments where basidiomycete activity
 is limited. Their methylation capacity provides an important
 detoxification pathway for phenolic contaminants, and their ability to
 function under low oxygen and extreme temperature conditions extends
-the range of environments where fungal bioremediation can be effective.
+the range of environments where [[staycare-composting-as-a-fungal-bioremediation-strategy]] can be effective.
 
 The combination of cellulase production, limited but significant
 laccase activity, and methylation-based detoxification gives soft rot
 fungi a unique metabolic toolkit for processing lignocellulosic
 pollutants and their derivatives. Understanding these mechanisms is
-important for developing targeted bioremediation strategies for
+important for developing targeted [[comparison-bioremediation-strategies-vs-biostimulation-techniques]] for
 contaminated sites where environmental conditions favor soft rot
 fungal activity over other decay types.
 
 ## Related Concepts
 
-- [[fungal-lignocellulose-degradation-mechanisms]] — Detailed treatment
+- fungal-lignocellulose-degradation-mechanisms — Detailed treatment
   of enzymatic lignocellulose breakdown pathways
 - [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] — Plant
-  cell wall polymer degradation by fungi
+  cell wall polymer [[query-how-does-lignin-degradation-by-fungi-work]]
 - [[fungal-enzymatic-capabilities]] — Overview of fungal enzyme systems
   relevant to bioremediation
+- [[decomposition]]
+- [[white-rot-fungi]]
+- [[bioremediation-strategies]]

@@ -1,5 +1,5 @@
 ---
-title: Cannabis Pharmacokinetics and Bioavailability
+title: blesching cannabis pharmacokinetics and bioavailability and Bioavailability
 created: 2026-04-28
 tags: [cannabis, pharmacokinetics, bioavailability, adme, absorption]
 date: 2026-04-28
@@ -13,7 +13,7 @@ type: concept
 
 Pharmacokinetics describes how the body absorbs, distributes, metabolizes, and
 excretes a substance (ADME). Understanding the pharmacokinetics of cannabinoids
-is essential for optimizing therapeutic outcomes. *The Cannabis Health Index*
+is essential for optimizing therapeutic outcomes. *The [[blesching-cannabis-health-index-autoimmune-conditions]]*
 addresses these principles throughout its discussions of
 [[blesching-cannabis-dosing-strategies]], and the
 [[blesching-cannabis-sativa-indica-classification]] produce different ratios of THC, CBD, and other
@@ -21,7 +21,7 @@ addresses these principles throughout its discussions of
 
 - **Decarboxylation:** Raw cannabis contains cannabinoid acids (THCA, CBDA)
   that must be heated (decarboxylated) to convert to their active forms.
-  [[blesching-endocannabinoid-system-overview]] function
+  [[endocannabinoid-system-overview]] function
   all affect how an individual processes cannabinoids.
 
 ## Clinical Implications
@@ -107,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,24 +1,15 @@
 ---
-title: Mushroom Hunting and Field Identification Techniques (Palmer, 1894)
+title: emcdda-magic-mushroom-hunting-europe and Field Identification Techniques (Palmer, 1894)
 created: 2026-04-26
 sources: About Mushrooms - Julius Auboineau Palmer (1894)
 author: Julius Auboineau Palmer
 year: 1894
-tags: [[mycology, mushroom-hunting, field-identification, fungi, north-america]
+tags: [mycology, mushroom-hunting, field-identification, fungi, north-america]
 related: [palmer-edible-mushrooms-north-america, palmer-poisonous-mushrooms-deadly-species]
 type: concept
 updated: 2026-04-26
 ---
-
-# Mushroom Hunting and Field Identification Techniques
-
-Palmer's *About Mushrooms* (1894) is one of the earliest American works offering practical guidance for identifying wild mushrooms. Written over twenty years of personal foraging experience in New England, it presents a field classification system designed for amateurs rather than trained botanists.
-
-## Palmer's Four Grand Divisions
-
-Palmer proposed an original classification of fleshy fungi into four groups based on the spore-bearing surface found under the cap. He advised beginners to examine any toadstool by inverting it and observing one of four structures:
-
-1. **[[agaricus-campestris]]/arvensis*).
+# Mushroom Hunting and Field Identification Techniques Palmer's *About Mushrooms* (1894) is one of the earliest American works offering practical guidance for identifying wild mushrooms. Written over twenty years of personal foraging experience in New England, it presents a field classification system designed for amateurs rather than trained botanists. ## Palmer's Four Grand Divisions Palmer proposed an original classification of fleshy fungi into four groups based on the spore-bearing surface found under the cap. He advised beginners to examine any toadstool by inverting it and observing one of four structures: 1. **[[agaricus-campestris]]/arvensis*).
 
 2. **Boleti** -- A fine sponge or mass of tubes replacing gills. Distinguished from their "twin brothers" the Polyporei by growing from the ground (not wood) with a distinct stem and easily separable tubes.
 
@@ -35,7 +26,7 @@ Palmer proposed an original classification of fleshy fungi into four groups base
 
 ## Developing Identification Skill
 
-Palmer argued that mushroom identification, like distinguishing art or produce, requires cultivated perception rather than any magic test:
+Palmer argued that [[psilocybin-mushroom-identification-guide]], like distinguishing art or produce, requires cultivated perception rather than any magic test:
 
 - "No one should attempt to gather mushrooms who has not the power to fix in his mind the exact characteristics of any specimen."
 - He compared the skill to a jeweler detecting imitation gems, or a child learning kitchen-lore at the mother's apron-string.
@@ -56,9 +47,9 @@ As a preliminary identification step, Palmer urged all students to first learn t
 Palmer devoted considerable space to refuting widely-circulated identification rules, calling them "a tissue of misapprehension":
 
 - The silver spoon test (discoloration indicates poison) -- false; both edible and poisonous varieties can discolor silver
-- The peeling test (edible mushrooms peel like a potato) -- false; nearly all fungi peel readily
+- The peeling test ([[palmer-edible-mushrooms-north-america]] peel like a potato) -- false; nearly all fungi peel readily
 - The hollow stem rule (solid stems = safe) -- false; applies only to one variety
-- The "damp, dark places are dangerous" rule -- false; "damp, dark places produce the very best mushrooms"
+- The "damp, dark places are dangerous" rule -- false; "damp, dark places produce the very [[query-what-are-the-best-mushrooms-for-beginners-to-grow]]"
 - Salt tests, coin spoon tests, onion tests -- all worthless
 
 His conclusion: "No test of any kind, in form, shape, color, basis of growth, or experimental action, will distinguish healthful from harmful fungi." Each species must be learned individually.
@@ -70,7 +61,7 @@ For experienced foragers testing a new species, Palmer described a gradual appro
 ## See Also
 
 - [[palmer-poisonous-mushrooms-deadly-species]] -- The Amanita family and fatal poisonings
-- [[mushroom-identification]]
+- mushroom-identification
 
 ## Boletus Identification Guidelines
 
@@ -101,3 +92,4 @@ Palmer reserved his greatest caution for the gilled mushrooms (Agaricini): "The 
 ## The Role of Drawings and Observation
 
 Palmer produced colored plates to accompany his written descriptions, arguing that the hand and eye acquire "a delicacy of analysis, impossible to communicate in words." His approach combined written guidance with visual illustration, recognizing that mushroom identification is ultimately a perceptual skill that must be cultivated through direct experience rather than learned from text alone.
+- [[field-guide-psilocybin-mushroom-species-identification]]

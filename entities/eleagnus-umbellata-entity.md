@@ -8,7 +8,7 @@ updated: 2026-05-06
 ---
 # Eleagnus umbellata
 
-Eleagnus umbellata, commonly known as autumn olive, autumn berry, or spreading oleaster, is a deciduous shrub in the family Elaeagnaceae native to eastern Asia. Introduced to North America in the 1830s as an ornamental and for erosion control, it has become one of the most widespread and controversial invasive woody plants in the eastern United States. Despite its invasive status, E. umbellata possesses a remarkable combination of ecological traits
+Eleagnus umbellata, commonly known as autumn olive, autumn berry, or spreading oleaster, is a deciduous shrub in the family Elaeagnaceae native to eastern Asia. Introduced to [[psilocybin-north-america-pacific-northwest]] in the 1830s as an ornamental and for [[permplant-willows-salix-erosion-control-fodder]], it has become one of the most widespread and controversial invasive woody plants in the eastern United States. Despite its invasive status, E. umbellata possesses a remarkable combination of ecological traits
 that make it one of the most functionally useful shrubs in permaculture design:
 it fixes atmospheric nitrogen through actinorhizal root symbiosis, produces abundant nutritious fruit exceptionally high in the antioxidant lycopene, tolerates extremely poor soils, provides excellent wildlife habitat, and establishes rapidly on degraded land. This tension between its aggressive invasiveness and its exceptional permaculture utility makes it one of the most debated species in ecological restoration and sustainable agriculture. Managing its spread while harnessing its nitrogen-fixing and food-producing capacities represents a nuanced challenge for land stewards.
 
@@ -110,7 +110,7 @@ listed as a noxious weed in several Mid-Atlantic and Midwestern states. Its inva
 - **Growth rate:** Rapid growth of 0.5–1 meter per year; begins fruiting at 3–5 years of age
 - **Competitive advantage:** Nitrogen fixation allows establishment on nitrogen-poor sites where native species cannot compete
 - **Allelopathy:** Leaf litter may contain allelopathic compounds that inhibit germination of some native plant species
-- **Ecological impact:** Forms dense thickets that shade out native understory plants; alters soil nitrogen cycling; reduces plant species diversity in invaded communities
+- **Ecological impact:** Forms dense thickets that shade out native understory plants; alters soil [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]]; reduces plant species diversity in invaded communities
 
 ## Permaculture Applications
 
@@ -121,15 +121,15 @@ When managed responsibly, E. umbellata provides exceptional function stacking in
 - **Food production:** Abundant, nutritious fruit for preserves, wine, and fresh eating; autumn berry harvest festivals are emerging in the northeastern U.S.
 - **Wildlife habitat:** Dense cover provides nesting for songbirds; fruit is a critical winter food source for many bird species
 - **Erosion control:** Deep root system and rapid growth stabilize slopes and degraded land
-- **Pioneer for restoration:** Establishes on severely degraded sites, building soil organic matter and nitrogen capital for subsequent succession planting
+- **Pioneer for restoration:** Establishes on severely degraded sites, building soil organic matter and nitrogen capital for subsequent [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]]
 
 ## Management and Control
 
 For land managers seeking to balance utility with containment:
 
 - **Mechanical control:** Cutting stimulates resprouting; repeated cutting over 3–5 years can exhaust root reserves. Mowing before seed set reduces spread
-- **Chemical control:** Foliar application of glyphosate or triclopyr in late summer/early fall is most effective; cut-stump treatment with concentrated herbicide prevents resprouting
-- **Grazing:** Goats will browse E. umbellate and can provide effective control in managed rotational grazing systems
+- **Chemical control:** [[ultra-low-cost-foliar-application-methods]] of glyphosate or triclopyr in late summer/early fall is most effective; cut-stump treatment with concentrated herbicide prevents resprouting
+- **Grazing:** Goats will browse E. umbellate and can provide effective control in managed [[comparison-rotational-grazing-vs-continuous-grazing]] systems
 - **Containment strategy:** In permaculture settings, regular harvesting of fruit and periodic coppicing for mulch helps control spread while capturing the plant's productive output
 
 ## Similar Species
@@ -137,5 +137,8 @@ For land managers seeking to balance utility with containment:
 ## See Also
 
 - [[permaculture-plants-nitrogen-fixing-trees]]
-- [[permaculture-soil-rehabilitation]]
+- permaculture-soil-rehabilitation
 - [[permaculture-plants-ground-covers-and-accumulators]]
+- [[elaeagnus-umbellata]]
+- [[building-soil]]
+- [[permaculture-design]]

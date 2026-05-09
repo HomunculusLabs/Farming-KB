@@ -1,8 +1,8 @@
 ---
-title: Cannabis for PTSD and Anxiety Disorders
+title: [[cannabis-for-ptsd-and-trauma]] and [[cannabis-for-anxiety-disorders]]
 created: 2026-04-26
 updated: 2026-04-24
-sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
+sources: "uwe-blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
 wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology blesching-cannabis-sleep-disorders cannabis-for-epilepsy-and-seizure-disorders"
 type: concept
 tags: [cannabis]
@@ -32,7 +32,7 @@ was not until 1980 that PTSD was codified and included in the DSM.
 
 ### Neuroimaging Findings
 
-With the advent of new imaging techniques, researchers discovered new insights
+With the advent of new [[gadd-fungal-imaging-techniques]], researchers discovered new insights
 pertinent to PTSD. A meta-analysis of available neuroimaging research suggests
 measurable physiological changes in the limbic system in patients with PTSD:
 
@@ -67,7 +67,7 @@ challenging.
 
 The primary treatments within orthodox medicine are talk-therapy and
 pharmaceutical medications, primarily antidepressants and anxiolytics. However,
-misuse of prescription drugs and possible severe adverse effects frame the clear
+misuse of prescription drugs and possible severe [[blesching-cannabis-safety-adverse-effects-evidence]] frame the clear
 and present limitations of pharmaceutical intervention. In addition, despite
 success from behavioral-cognitive therapies, patients often show vulnerability
 to reversal of progress by exposure to stress and stress triggers.
@@ -94,7 +94,7 @@ painful and traumatic events but also before.
 ### Nabilone for PTSD Nightmares (Ottawa, Canada, 2009)
 
 An Ottawa study reported that cannabis could remove fear responses to stressors
-such as nightmares, poor sleep, night sweats, and flashbacks. Forty-seven PTSD
+such as nightmares, poor sleep, [[blesching-cannabis-cancer-night-sweats]], and flashbacks. Forty-seven PTSD
 patients suffering from nightmares that failed to adequately respond to standard
 pharmaceutical antidepressants and hypnotics received the synthetic cannabinoid
 Nabilone. Researchers wrote: "The majority of patients (72%) receiving Nabilone
@@ -131,7 +131,7 @@ The endocannabinoid-induced modulation of stress-related disorders such as
 anxiety and fear is relevant to patients with PTSD. CBD in particular has
 demonstrated anxiolytic properties through its ability to calm autonomic
 responses to stress by engaging receptors that select serotonin to achieve a
-calming effect. CBD's therapeutic potential in psychological disorders is based
+calming effect. CBD's [[metzner-ayahuasca-therapeutic-potential]] in psychological disorders is based
 on its antipsychotic, anxiolytic, and antidepressant effects.
 
 Low levels of GABA are related to irritability, anxiety, and restlessness. The

@@ -3,12 +3,10 @@ title: Permaculture Multipurpose Trees
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
-tags: [[permaculture, design]
+tags: [permaculture, design]
 sources: ["raw/papers/bill-mollison-permaculture-a-designers-manual.md"]
 ---
-# Permaculture Multipurpose Trees
-
-In [[permaculture-multi-purpose-plants]] and [[bamboo-permaculture-design]] for design applications.
+# Permaculture Multipurpose Trees In [[permaculture-multi-purpose-plants]] and bamboo-permaculture-design for design applications.
 
 ### Clumping Bamboos
 - **Bambusa balcoa** -- to 22 m, 15 cm diameter. Best bamboo for building in India.
@@ -22,13 +20,13 @@ In [[permaculture-multi-purpose-plants]] and [[bamboo-permaculture-design]] for 
 - **Sasa palmata** -- small (2-4 m), leaves to 35 cm long. Useful as stock feed, shelter, and paper pulp. Highly invasive -- control with grazing animals.
 
 ## Willow (Salix spp)
-Family: SALICACEAE. Over 300 species with the widest natural distribution of any tree genus. Extremely good for erosion control and salinity management. Root systems reach 50 m laterally.
+Family: SALICACEAE. Over 300 species with the widest natural distribution of any tree genus. Extremely good for [[permplant-willows-salix-erosion-control-fodder]] and salinity management. Root systems reach 50 m laterally.
 
 ### Key Functions
 - **Erosion control**: Sheet, gully, and slump erosion; salinity control
 - **Fodder**: Weeping willow foliage -- 15.9% crude protein, superior nutrition. NZ hybrid trials: 30+ t dry matter/ha vs. 10-15 t for grass/lucerne. See [[bee-forage-plant-system]])
 - **Medicinal**: Bark contains salicin (precursor to aspirin); traditional remedy for fever and rheumatism
-- **Rooting hormone**: Willow cuttings in water produce natural rooting hormone surpassing commercial powders
+- **Rooting hormone**: Willow cuttings in water produce [[mollison-designers-willow-water-and-natural-rooting-propagation]] hormone surpassing commercial powders
 - **Craft**: Basket willow (S. viminalis) harvested annually for traditional basket weaving trade
 - **Timber**: S. alba 'Coerulea' (cricket bat willow) -- unique industry, ready at 12-15 years
 
@@ -41,16 +39,16 @@ Family: SALICACEAE. Fast-growing, soft light timber. Similar water use and erosi
 ### Key Features
 - **Fodder**: Foliage nutritionally superior to lucerne (higher minerals, fats, nitrates; lower cellulose)
 - **Productivity case study**: Hunter River farm (NSW) -- 40 ha planted to poplars + grass, cattle numbers increased 20% while trees grew to timber harvest size in just 15 years
-- **Timber**: Furniture, construction, plywood, fibreboard, matches, fruit boxes. Pulp for paper. See [[forage-systems-animals-permaculture]].
+- **Timber**: Furniture, construction, plywood, fibreboard, matches, fruit boxes. Pulp for paper. See forage-systems-animals-permaculture.
 
 ## Willow and Poplar Companions
 
 Being deciduous, willows and poplars are not effective winter windbreaks but shelter from hot summer winds. Being deciduous allows understorey growth of bana grass, elephant grass, pampas grass, and bamboo over winter. Good companions: [[permaculture-fruit-tree-guide]] canopy layers.
 
 ## Eucalyptus as Multipurpose Timber
-Eucalyptus species provide fast-growing timber, firewood, nectar for [[nitrogen-fixing-trees]] to prevent nutrient depletion. See [[bee-forage-plant-system]] simultaneously. Design tree systems so that each species fills at least 3-4 functions to maximize yields per unit area. This connects to [[silvopasture-systems]], [[forage-systems-animals-permaculture]], [[permaculture-grazing-and-pasture]]. Support with [[permaculture-fruit-tree-guide]], [[permaculture-tree-crop-systems]], and [[multipurpose-trees-in-permaculture-design]]
+Eucalyptus species provide fast-growing timber, firewood, nectar for [[nitrogen-fixing-trees]] to prevent nutrient depletion. See [[bee-forage-plant-system]] simultaneously. Design tree systems so that each species fills at least 3-4 functions to maximize yields per unit area. This connects to [[silvopasture-systems]], forage-systems-animals-permaculture, [[permaculture-grazing-and-pasture]]. Support with [[permaculture-fruit-tree-guide]], [[permaculture-tree-crop-systems]], and [[multipurpose-trees-in-permaculture-design]]
 
-- [[permaculture-bunya-pine]]
+- permaculture-bunya-pine
 ## Practical Considerations
 
 When working with Permaculture Multipurpose Trees, several practical factors should be
@@ -67,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,3 +108,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[hemenway-maximilian-sunflower-multipurpose-hedge]]

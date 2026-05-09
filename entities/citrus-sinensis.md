@@ -21,7 +21,7 @@ sources:
 
 **Citrus sinensis** (L.) Osbeck, the sweet orange, is an evergreen tree in the family Rutaceae and the world's most widely grown fruit tree species. It is cultivated commercially across tropical, subtropical, and warm temperate regions.
 
-The species originated as a hybrid between mandarin orange (*C. reticulata*) and pummelo (*C. maxima*) in Southeast Asia. Domestication likely occurred in southern China, northern India, or the region between them.
+The species originated as a hybrid between [[fukuoka-mandarin-orange-citrus]] (*C. reticulata*) and pummelo (*C. maxima*) in Southeast Asia. Domestication likely occurred in southern China, northern India, or the region between them.
 
 Global production exceeds 75 million metric tons annually. Brazil and the United States dominate orange juice production, while China and India lead in fresh fruit output.
 
@@ -45,9 +45,9 @@ The fruit (hesperidium) is globose to slightly oblong, 6–10 cm in diameter, wi
 
 Sweet orange cultivation extends from 40°N to 40°S latitude. Major producing regions include Brazil, the United States (Florida, California), China, India, Mexico, and the Mediterranean basin.
 
-Optimal growth occurs in climates with 1000–1500 mm annual rainfall distributed evenly through the growing season. A 2–3 month cool period (5–15°C) is beneficial for color development and sugar accumulation.
+Optimal growth occurs in climates with 1000–1500 mm annual rainfall distributed evenly through the [[savory-growing-season-and-non-growing-season-management]]. A 2–3 month cool period (5–15°C) is beneficial for color development and sugar accumulation.
 
-Trees are damaged by temperatures below −2°C for extended periods. Frost protection measures including wind machines, microsprinklers, and overhead irrigation are standard in marginal growing areas.
+Trees are damaged by temperatures below −2°C for extended periods. [[holzer-frost-protection-techniques]] measures including wind machines, microsprinklers, and overhead irrigation are standard in marginal growing areas.
 
 In tropical lowland regions lacking a cool season, oranges remain green-skinned even when fully ripe. The chlorophyll mask prevents carotenoid color development, though internal quality is comparable to colored fruit.
 
@@ -71,7 +71,7 @@ Budding onto rootstock is the standard propagation method. Sour orange, Carrizo 
 
 Citrus greening disease (huanglongbing, HLB), caused by *Candidatus Liberibacter asiaticus*, is the most devastating threat to global orange production. The disease is vectored by the Asian citrus psyllid (*Diaphorina citri*).
 
-Other significant pests include Mediterranean fruit fly, citrus rust mite, and Florida red scale. Integrated pest management programs combine biological control with targeted chemical applications.
+Other significant pests include [[comparison-olive-vs-fig-vs-pomegranate-mediterranean-fruit-trees]] fly, citrus rust mite, and Florida red scale. Integrated pest management programs combine [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] with targeted chemical applications.
 
 ## Culinary and Industrial Use
 
@@ -101,13 +101,13 @@ Portuguese traders introduced sweet oranges to Europe in the 16th century, displ
 
 Spanish missionaries established orange groves throughout Florida and California during the 18th and 19th centuries. Florida became the dominant juice-producing region by the early 20th century.
 
-The fruit has held cultural significance across many civilizations. In Chinese and Vietnamese culture, oranges symbolize prosperity and good fortune, and are exchanged during Lunar New Year celebrations.
+The fruit has held [[ethnomycology-cultural-significance-sacred-fungi]] across many civilizations. In Chinese and Vietnamese culture, oranges symbolize prosperity and good fortune, and are exchanged during Lunar New Year celebrations.
 
 ## See Also
 
 - [[cinnamomum-verum]]
 - [[vanilla-planifolia]]
-- [[punica-granatum]]
+- punica-granatum
 - [[cymbopogon-citratus]]
 - [[eugenia-caryophyllata]]
 - [[glycyrrhiza-glabra]]

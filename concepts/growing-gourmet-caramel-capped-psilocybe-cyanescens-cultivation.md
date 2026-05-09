@@ -1,5 +1,5 @@
 ---
-title: Caramel Capped Psilocybe (P. cyanescens Complex) Cultivation
+title: growing gourmet caramel capped psilocybe cyanescens cultivation Psilocybe (P. cyanescens Complex) Cultivation
 created: 2026-04-26
 tags:
   - mycology
@@ -19,8 +19,8 @@ type: concept
 ## Overview and Description
 
 First cultivated in Washington and Oregon in the late 1970s, this
-complex of species is primarily grown outdoors in wood chip beds. Indoor
-cultivation is possible but pales in comparison to stamets outdoor natural. Species in the P. cyanescens complex are not as high-yielding
+complex of species is primarily grown outdoors in [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] beds. Indoor
+cultivation is possible but pales in comparison to stamets [[stamets-outdoor-natural-culture-methods]]. Species in the P. cyanescens complex are not as high-yielding
 per lb of substrate as some fleshier mushrooms in the genus and hence
 have little or no commercial appeal. However, they enjoy a popular
 reputation and are sought by thousands of eager hunters every fall.
@@ -57,7 +57,7 @@ which would also envelope species of Stropharia and Hypholoma.
 
 A large constellation of species, subspecies and races revolves around
 the species concept of P. cyanescens. The type collection described by
-Wakefield from England lacks pleurocystidia. The North American mushroom
+Wakefield from England lacks pleurocystidia. The North [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]]
 identified in popular field guides as P. cyanescens possesses abundant
 capitate pleurocystidia, meaning it cannot be the true P. cyanescens.
 Stamets provisionally named the Astoria, Oregon species Psilocybe
@@ -91,5 +91,11 @@ present.
 
 These Caramel Capped Psilocybes behave similarly in culture, producing
 a luxuriantly satin-like mycelia on sterilized malt [[stropharia-rugoso-annulata-mycofiltration]].
-Sawdust spawn is broadcast into hardwood or conifer ([[growing-gourmet-abalone-oyster-cystidiosus-cultivation]]
+[[growing-gourmet-sawdust-spawn-production-use]] is broadcast into hardwood or conifer ([[growing-gourmet-abalone-oyster-cystidiosus-cultivation]]
 - [[growing-gourmet-black-poplar-agrocybe-cultivation]]
+
+## See Also
+
+- [[growing-gourmet-chanterelle-truffle-cultivation-challenges]]
+- [[growing-gourmet-nameko-pholiota-cultivation]]
+- [[growing-gourmet-polyporus-umbellatus-zhu-ling-cultivation]]

@@ -1,5 +1,5 @@
 ---
-title: "Trichomes and Resin Glands"
+title: "greg green trichomes and resin glands Glands"
 created: 2026-04-28
 tags: [cannabis, trichomes, resin, thc, plant-anatomy]
 date: 2026-04-25
@@ -40,12 +40,12 @@ males are present, often produce more abundant resin than pollinated crops.
  with tiny round heads. As flowering progresses, the gland heads swell
  and fill with cannabinoid rich oil. In the final weeks, trichomes may
  change color from clear to cloudy to amber, which many growers use as a
- visual indicator for harvest timing.
+ visual indicator for [[cannabis-harvest-timing-visual-cues]].
 
 When a plant is in full flowering, the resin gland can explode or break,
 dropping resin down onto the leaves below. This gives even lower leaves a
 shiny, frosty appearance during late flowering. Resin can be rubbed off
-the bud using the fingers and rolled into small balls of hand rubbed
+the bud using the fingers and rolled into small balls of [[cervantes-hand-rubbed-hash-charas]]
 hashish, a practice that has been used for centuries.
 
 Fan leaves, located toward the bottom of the plant, are generally large
@@ -79,7 +79,7 @@ the inherent potency ceiling is set by genetics.
 
 All strains vary in THC levels that come in different percentages. A good
 potent plant will have both levels and quantities very high. When examining
-a strain in a seed bank catalogue, Green advises checking the THC levels
+a strain in a [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]] catalogue, Green advises checking the THC levels
 to understand how potent the plant is, while recognizing that some
 breeders may exaggerate their claims.
 
@@ -104,7 +104,7 @@ be much better than the genetics that were started with.
 
 ## Summary
 
-Trichomes are the cornerstone of cannabis potency and product quality.
+Trichomes are the cornerstone of [[green-cannabis-potency-maximizing]] and product quality.
 These stalked capitate resin glands produce the cannabinoids and THC that
 define the plant's psychoactive effects. While THC levels are genetically
 determined, growers can maximize THC quantities through optimal growing

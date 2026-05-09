@@ -28,7 +28,7 @@ characteristics of each nutrient.
 
 ## Chemotropism and Hydrotropism
 
-Roots exhibit directed growth toward specific chemical and physical stimuli.
+Roots exhibit [[two-phase-directed-growth-psilocybe-cubensis-basidiocarp-development]] toward specific chemical and physical stimuli.
 Chemotropism, the directed growth toward chemical gradients, allows roots to
 grow toward sources of nutrients such as nitrate and phosphate. Hydrotropism,
 the directed growth toward moisture, enables roots to locate [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] root. Hydrotropism
@@ -62,12 +62,12 @@ to the plant in exchange for photosynthetically derived carbon.
 The plant can regulate this partnership, allocating more carbon to fungal
 partners that provide greater nutritional benefits. This ability to evaluate
 and selectively reward symbiotic partners represents a sophisticated form of
-resource management that has been described as a biological market.
+[[savory-holistic-resource-management-animal-impact]] that has been described as a biological market.
 
 ## Plasticity and Foraging Decisions
 
 Root foraging behavior demonstrates remarkable plasticity. Plants can adjust
-their foraging strategies based on environmental conditions, developmental
+their [[mycelial-foraging-strategies-nutrient-translocation]] based on environmental conditions, developmental
 stage, and resource availability. Under drought conditions, root-to-shoot
 ratios increase dramatically as plants invest more biomass in root exploration.
 Under competition, plants may shift from exploitation of local patches to
@@ -82,17 +82,17 @@ preprogrammed responses.
 
 Roots modify the chemical and biological properties of the soil they inhabit
 through the exudation of a diverse array of compounds including organic
-acids, sugars, amino acids, and secondary metabolites. These exudates serve
+acids, sugars, amino acids, and [[antifungal-secondary-metabolites-coprophilous-fungi]]. These exudates serve
 multiple functions: they mobilize bound nutrients by acidifying the
 rhizosphere, they attract beneficial microorganisms, and they repel or
 poison competing organisms and pathogens.
 
 The composition of root exudates changes dynamically in response to
-environmental conditions and nutrient availability, demonstrating that roots
+environmental conditions and [[ph-and-nutrient-availability-garden-soils]], demonstrating that roots
 actively engineer their soil environment rather than passively accepting the
 conditions they encounter. This chemical engineering capacity adds another
 dimension to root foraging behavior, complementing the architectural
-responses of root growth and branching.
+responses of root [[gadd-hyphal-tip-growth-and-branching-mechanisms]].
 
 ## Architectural Plasticity
 

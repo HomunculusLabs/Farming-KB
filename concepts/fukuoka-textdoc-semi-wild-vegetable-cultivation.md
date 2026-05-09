@@ -1,5 +1,5 @@
 ---
-title: Semi-Wild Vegetable Cultivation Methods
+title: Semi-Wild Vegetable synthetic-log-cultivation-methods-guide
 created: 2026-04-28
 tags:
   - vegetables
@@ -21,17 +21,17 @@ Fukuoka's approach to [[jeavons-crop-rotation-system]] is to permanently preserv
 
 - Soil enrichment with leguminous [[vegetable-seed-and-transplant-guide]]
 in fields, orchards, on earthen levees, or on any open, unused land. For most vegetables,
-mixed sowing with ladino clover gradually gives a [[liquid-fertilizer-from-weeds]] at the seedling stage, but once they get a little larger, they are
+mixed sowing with [[fukuoka-ladino-clover-ground-cover-management]] gradually gives a [[liquid-fertilizer-from-weeds]] at the seedling stage, but once they get a little larger, they are
 strong crops.
 
-Yam and sweet potato grow well at the foot of the orchard shelterbelt. These are especially
+Yam and [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]] grow well at the foot of the orchard shelterbelt. These are especially
 enjoyable because the vines climb trees and produce fairly large tubers. Fukuoka notes he was
 growing sweet potato vines over the winter to achieve large harvests, which would mean sweet
 potatoes could be grown in cold climates.
 
 ## The Manure Question
 
-Some people have reservations about applying animal manure and human wastes to the land, but
+Some people have reservations about applying [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] and human wastes to the land, but
 the reply is very simple and clear. Life in nature is a continuous cycle between animals, plants,
 and microorganisms. Animals live by feeding on plants. Their wastes and bodies when they die are
 buried in the soil where they become food for small animals and microorganisms. The
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

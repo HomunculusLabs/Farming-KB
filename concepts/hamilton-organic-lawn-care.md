@@ -1,5 +1,5 @@
 ---
-title: Organic Lawn Care Alternatives
+title: hamilton organic lawn care Care Alternatives
 created: 2026-04-26
 author: Geoff Hamilton
 sources: hamilton-geoffhamilton-nick_-organic-gardening.md
@@ -33,13 +33,13 @@ choice of grass types and is more expensive.
 Site preparation is critical and the best way to beat weeds and moss.
 The goal is healthy, fertile soil with an active biological community.
 Dig the area thoroughly, remove all weeds (especially perennial roots),
-and incorporate well-rotted organic matter. Level the surface, firm by
+and incorporate well-rotted [[hamilton-composting-and-organic-matter-management]]. Level the surface, firm by
 treading, rake, and leave to settle before sowing or laying turf.
 
 ## Organic Lawn Maintenance
 
 ### Mowing
-Mow regularly during the growing season, ideally once a week. Mow in
+Mow regularly during the [[savory-growing-season-and-non-growing-season-management]], ideally once a week. Mow in
 opposite directions each time to prevent the grass developing a
 permanent lean in one direction. Never cut too close -- leave at least
 half an inch (1 cm) of growth. Cutting too short weakens the grass and
@@ -48,7 +48,7 @@ encourages moss and weeds.
 ### Feeding
 The organic approach feeds the soil beneath the lawn rather than applying
 chemical lawn feeds. Apply well-rotted manure or compost as a top
-dressing in autumn or early spring. This improves soil structure,
+dressing in autumn or [[coleman-overwintered-onions-and-early-spring-crops]]. This improves soil structure,
 encourages worm activity, and provides a steady release of nutrients.
 Liquid seaweed feeds can be applied during the growing season.
 
@@ -57,7 +57,7 @@ In the organic lawn, the best weed control is healthy grass that out-
 competes weeds. Regular mowing prevents weeds from flowering and seeding.
 Hand-dig persistent weeds like dandelions and plantains. Raking before
 mowing lifts creeping weeds for the mower to cut. Accept that some
-"weeds" in lawns -- like clover -- actually fix nitrogen and improve
+"weeds" in lawns -- like clover -- actually [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] and improve
 the soil.
 
 ### Moss Control
@@ -104,7 +104,7 @@ autumn. Cut in late summer after flowers have set seed, and remove the
 cuttings.
 
 ### Clover Lawn
-White clover in a lawn is often considered a weed, but it has many
+[[fukuoka-white-clover-cover-crop-system]] in a lawn is often considered a weed, but it has many
 advantages: it fixes nitrogen, stays green in drought, and tolerates
 close mowing. Consider allowing clover to become part of your lawn
 rather than fighting it.
@@ -130,3 +130,7 @@ insects while adding ornamental interest.
 
 See also: [[hamilton-wildlife-gardening-biodiversity]],
 [[hamilton-organic-weed-management]]
+
+## See Also
+
+- [[organic-lawn-care]]

@@ -1,5 +1,5 @@
 ---
-title: "Viral Diseases on Cannabis (Cervantes)"
+title: "cervantes viral diseases cannabis on Cannabis (Cervantes)"
 created: 2026-04-28
 tags:
   - cannabis
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -19,9 +20,9 @@ type: concept
 ## Overview
 
 Viruses represent one of the most difficult challenges in
-cannabis cultivation because they cannot be cured once a plant
+[[query-how-does-no-till-cannabis-cultivation-work]] because they cannot be cured once a plant
 is infected. Cervantes describes viruses as still somewhat
-mysterious: they act like living organisms in some instances
+mysterious: they act like [[savory-living-organisms-as-tools]] in some instances
 and nonliving chemicals in others. They must enter plants via
 wounds and cannot penetrate intact plant surfaces on their own.
 
@@ -65,7 +66,7 @@ Since cure is impossible, prevention is the only strategy:
 
 No biological controls exist for plant viruses, and no chemical
 sprays are effective against them. This makes sanitation the
-single most important factor in viral disease management. Every
+single most important factor in viral [[plant-disease-management-solomon]]. Every
 cutting tool, every hand contact, and every insect that enters
 the garden represents a potential virus transmission pathway.
 
@@ -78,6 +79,6 @@ bleach solution is essential practice.
 
 - [[cervantes-whitefly-pest-control]] - another viral vector
 - [[cervantes-damping-off-seedling-disease-prevention]] -
-  seedling disease management
+  [[cervantes-damping-off-seedling-disease-prevention]] management
 - [[cervantes-biological-pest-control-predators]] - vector
-  insect control
+  [[mushroom-pests-insect-control-stamets]]

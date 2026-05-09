@@ -19,7 +19,7 @@ Colletotrichum gloeosporioides is the anamorph of Glomerella cingulata
 and is one of the most common and destructive plant pathogens in the
 tropics and subtropics. It causes anthracnose diseases on a remarkably
 wide range of host plants, including avocado, citrus, mango, papaya,
-passion fruit, guava, cocoa, and rubber. The species complex has been
+[[comparison-dragon-fruit-vs-passion-fruit-cultivation]], guava, cocoa, and rubber. The species complex has been
 the subject of extensive taxonomic revision, with molecular phylogenetic
 studies revealing it to comprise multiple cryptic species. The source
 text identifies it as a significant tropical pathogen and notes its
@@ -48,7 +48,7 @@ susceptibility to mycoparasitic fungi such as Trichoderma viride.
 - Teleomorph (Glomerella cingulata) produces perithecia with
   unitunicate asci containing eight hyaline, fusiform ascospores
 - Production of appressoria can be induced by placing conidia in
-  water on a microscope slide in a moist chamber
+  water on a microscope slide in a [[myxomycete-sampling-collection-moist-chamber-culturing]]
 
 ### Ecology and Habitat
 - Most common pathogen in tropical and subtropical agricultural
@@ -63,10 +63,10 @@ susceptibility to mycoparasitic fungi such as Trichoderma viride.
 
 ### Host Range and Disease Spectrum
 - One of the broadest host ranges among Colletotrichum species
-- Particularly damaging on tropical and subtropical fruit crops
+- Particularly damaging on tropical and subtropical uncommon specialty fruit crops for permaculture
 - Post-harvest anthracnose causes significant losses during
   storage and transport
-- Also causes stem-end rot, leaf spot, and blossom blight
+- Also causes stem-end rot, [[jadam-canker-leaf-spot-pesticide]], and blossom blight
 - Latent infections established during fruit development can
   activate post-harvest
 
@@ -96,7 +96,7 @@ susceptibility to mycoparasitic fungi such as Trichoderma viride.
 - Holliday (1980) and Sutton (1992) provide detailed species
   descriptions
 - Appressoria induction on glass slides in moist chambers
-- Molecular identification via ITS rDNA, GAPDH, and beta-tubulin
+- [[biodiversity-fungal-molecular-identification-dna-barcoding]] via ITS rDNA, GAPDH, and beta-tubulin
   gene sequencing
 
 ### Economic Significance
@@ -113,7 +113,7 @@ agriculture. Its hemibiotrophic infection strategy, involving
 morphologically distinct biotrophic and necrotrophic phases, makes
 it a model for studying fungal plant pathogenicity. The susceptibility
 of this species to mycoparasitic fungi like Trichoderma viride
-highlights the potential for biological control in integrated disease
+highlights the potential for [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] in integrated disease
 management programs.
 
 ## See Also

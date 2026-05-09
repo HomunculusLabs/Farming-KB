@@ -60,7 +60,7 @@ The blue coloration persists even when the mushroom is dried or preserved in alc
 ## Distribution and Habitat
 Entoloma hochstetteri is endemic to New Zealand, found on both the North and South Islands.
 It grows primarily in mixed podocarp-broadleaf forests, often associated with Nothofagus (southern beech) and podocarp species such as rimu and kahikatea.
-The species appears to be at least facultatively mycorrhizal, associating with tree roots for nutrient exchange.
+The species appears to be at least facultatively mycorrhizal, associating with tree roots for [[arbuscule-isolation-and-nutrient-exchange-mechanisms]].
 Fruiting occurs from autumn through early winter (March to June), typically after sustained rainfall when soil moisture is high.
 It is found in both lowland and montane forest habitats, from sea level to approximately 1000 m elevation.
 The species prefers well-drained soils with moderate organic matter and is rarely found in disturbed or agricultural habitats.
@@ -77,7 +77,7 @@ Total azulene content has been estimated at 0.1–0.5% of dry weight.
 Preliminary studies have explored extracts as sustainable alternatives to synthetic blue dyes, though commercial development remains early.
 
 ## Bioluminescence
-A 2020 study examining New Zealand bioluminescent fungi detected weak bioluminescence in Entoloma hochstetteri.
+A 2020 study examining New Zealand [[bloomfield-bioluminescent-fungi-overview]] detected weak bioluminescence in Entoloma hochstetteri.
 This makes it one of the few bioluminescent Entoloma species known to science.
 The bioluminescent mechanism appears distinct from the luciferin-luciferase system of Omphalotus species.
 The ecological function of this faint glow remains speculative but may relate to spore dispersal enhancement or insect attraction.
@@ -89,7 +89,7 @@ Few fungi exhibit true blue coloration, making E. hochstetteri part of an exclus
 - **Blue staining boletes (Neoboletus, Suillus):** Develop blue discoloration when bruised due to oxidation reactions.
 - **Cortinarius azureovelatus:** A rare blue Cortinarius from New Zealand with a distinct blue velvety cap.
 - **Terana caerulea (cobalt crust):** A resupinate fungus forming bright blue crusts on dead wood.
-- **Psilocybe cyanescens:** Bruises blue but is not inherently blue; contains psilocybin and psilocin.
+- **[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]:** Bruises blue but is not inherently blue; contains psilocybin and psilocin.
 E. hochstetteri is unique among these in being entirely blue across all structures rather than developing blue through bruising or latex production.
 
 ## Psychoactive and Edibility Status
@@ -113,7 +113,7 @@ As a likely mycorrhizal species, E. hochstetteri forms symbiotic associations wi
 The fungal mycelium extends the effective root zone of host trees, improving phosphorus and nitrogen uptake in exchange for photosynthetically derived carbon.
 This role is critical in the nutrient-poor soils characteristic of many New Zealand forest types.
 The species also contributes to soil aggregation and organic matter decomposition, supporting forest floor health and microbial diversity.
-The ectomycorrhizal network connects multiple host trees, potentially facilitating inter-tree nutrient transfer through common mycorrhizal networks.
+The [[symbiotic-fungi-ectomycorrhizal-network-carbon-trading]] connects multiple host trees, potentially facilitating inter-tree nutrient transfer through common [[dighton-mycorrhizal-networks-carbon-transfer]].
 Research on similar Entoloma species in European forests has demonstrated significant contributions to ectomycorrhizal community diversity, suggesting E. hochstetteri plays a comparable keystone role.
 
 ## Related Entoloma Species
@@ -127,13 +127,15 @@ Phylogenetic analyses suggest blue pigmentation evolved independently multiple t
 ## Conservation Status
 While not formally listed as threatened, E. hochstetteri is considered an indicator species for healthy, undisturbed native forest.
 Its distribution is closely tied to old-growth podocarp forests, making it potentially vulnerable to deforestation and habitat fragmentation.
-Climate change may also impact its distribution through altered autumn rainfall patterns essential for fruiting.
+[[dighton-fungi-climate-change-feedback]] may also impact its distribution through altered autumn rainfall patterns essential for fruiting.
 Conservation efforts for New Zealand's native fungi remain limited compared to plant and animal programs.
 Increased awareness following the banknote feature has generated public interest in fungal conservation.
 Landcare Research New Zealand maintains fungal specimen collections and distribution records supporting ongoing monitoring.
 Citizen science platforms such as iNaturalist have contributed valuable distribution data for the species.
 
 ## See Also
+
+- [[entoloma-rhodopolium]]
 - [[aeruginascin|Aeruginascin]]
 - [[laricifomes-officinalis|Laricifomes officinalis]]
 - Agaricales

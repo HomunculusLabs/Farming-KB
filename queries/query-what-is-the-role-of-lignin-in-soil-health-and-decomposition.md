@@ -12,13 +12,13 @@ type: query
 
 ## Short Answer
 Lignin is a complex structural polymer that makes up 20 to 30 percent of
-woody plant material and is one of the most resistant organic compounds
+woody plant material and is one of the most resistant [[fungal-volatile-organic-compounds-communication]]
 to decomposition. Its slow breakdown by [[lignin-degradation|lignin degradation process]] is one of the
 slowest steps in organic matter decomposition. Unlike cellulose and
 hemicellulose, which bacteria and many fungi can break down relatively
 quickly, lignin requires specialized enzyme systems found primarily in
 [[ligninolytic-enzymes|ligninolytic enzymes]] including
-lignin peroxidase, manganese peroxidase, and laccase that break the
+[[fungal-lignin-peroxidase-veratryl-alcohol]], [[fungal-manganese-peroxidase-remediation]], and laccase that break the
 complex aromatic polymer into smaller, more digestible molecules. The
 [[soil-food-web-nutrient-cycling|soil food web]]. As [[teaming-with-microbes-mulch-and-soil-food-web|wood chip mulch]] provide long-lasting benefits to soil biology rather than
 the short pulse of activity created by fresh green material.
@@ -26,8 +26,8 @@ the short pulse of activity created by fresh green material.
 The breakdown products of lignin are important precursors to
 [[teaming-with-microbes-humus-formation-and-glomalin|glomalin production from mycorrhizal fungi]], is one of the primary pathways for building
 long-term soil organic matter. The resulting humus contributes to soil
-cation exchange capacity, water retention, aggregate stability, and
-disease suppression.
+[[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity, water retention, aggregate stability, and
+[[aact-disease-suppression-mechanisms-ingham]].
 
 From a management perspective, understanding lignin's role helps explain
 several common gardening observations. Fresh wood chips used as mulch can
@@ -35,7 +35,7 @@ temporarily tie up nitrogen because the microorganisms decomposing the
 high-lignin material need nitrogen to build their own proteins. This
 nitrogen immobilization is temporary and can be mitigated by composting
 wood chips first or by adding a nitrogen source like compost or manure
-alongside fresh chips. The [[fungal-ligninolytic-enzyme-systems-overview|ligninolytic enzyme systems]] of white-rot fungi also have significant applications beyond
+alongside fresh chips. The ligninolytic enzyme systems of white-rot fungi also have significant applications beyond
 soil health. These same enzymes are responsible for the
 [[white-rot-fungi|white-rot fungi]] possess the
   [[soil-food-web-nutrient-cycling|soil food web]] for years
@@ -43,6 +43,8 @@ soil health. These same enzymes are responsible for the
   [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes|fungal  bioremediation]] of environmental pollutants
 
 ## Related
+
+- [[query-what-is-the-role-of-actinomycetes-in-soil-health-and-decomposition]]
 
 - [[query-what-is-the-role-of-springtails-and-soil-arthropods-in-soil-health]] Questions
 - [[query-what-is-humus-and-why-is-it-important-for-soil-health]]
@@ -64,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

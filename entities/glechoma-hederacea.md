@@ -13,11 +13,12 @@ sources:
   - "Mahmoudi R et al., 'Chemical composition and antioxidant activity of Glechoma hederacea,' Chem Biodivers, 2022"
   - "Sárosi S et al., 'Essential oil composition of Glechoma hederacea from different origins,' J Essent Oil Res, 2009"
 ---
+
 ## Overview
 
-Glechoma hederacea L. is a perennial, evergreen creeping herb in the family Lamiaceae, native to Europe and temperate Asia. It forms extensive mats via stolons and is one of the most widespread ground-covering plants in temperate regions of the Northern Hemisphere. The species has a long documented history of medicinal and culinary use spanning over two millennia, with references in Dioscorides' *De Materia Medica* and Anglo-Saxon herbals such as the Old English *Leechdoms*. Historically it was one of the most common brewing herbs in Europe before the widespread adoption of hops (*Humulus lupulus*) in beer production during the 15th–16th centuries, hence the English common name "alehoof." The species epithet *hederacea* refers to the ivy-like (Hedera) appearance of its rounded, cordate leaves.
+Glechoma hederacea L. is a perennial, evergreen creeping herb in the family Lamiaceae, native to Europe and temperate Asia. It forms extensive mats via stolons and is one of the most widespread ground-covering plants in temperate regions of the Northern Hemisphere. The species has a long documented history of [[holzer-medicinal-and-culinary-herbs-compendium]] use spanning over two millennia, with references in Dioscorides' *De Materia Medica* and Anglo-Saxon herbals such as the Old English *Leechdoms*. Historically it was one of the most common brewing herbs in Europe before the widespread adoption of hops (*Humulus lupulus*) in beer production during the 15th–16th centuries, hence the English common name "alehoof." The species epithet *hederacea* refers to the ivy-like (Hedera) appearance of its rounded, cordate leaves.
 
-Ecologically, G. hederacea occupies an intermediate niche as both a valuable early-season nectar source for pollinators and a persistent ground cover that can suppress weed germination through allelopathic compounds. Its invasive potential in North America and parts of Australasia has made it a species of [[vegetative-propagation-methods-mollison]] is entirely stoloniferous. Rooting depth is shallow (5–15 cm), concentrated in the organic horizon, facilitating rapid nutrient cycling in surface soils.
+Ecologically, G. hederacea occupies an intermediate niche as both a valuable early-season nectar source for pollinators and a persistent ground cover that can suppress weed germination through allelopathic compounds. Its invasive potential in North America and parts of Australasia has made it a species of [[vegetative-propagation-methods-mollison]] is entirely stoloniferous. Rooting depth is shallow (5–15 cm), concentrated in the organic horizon, facilitating rapid [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in surface soils.
 
 ## Distribution and Habitat
 
@@ -31,7 +32,7 @@ Ecologically, G. hederacea occupies an intermediate niche as both a valuable ear
 
 ## Phytochemistry
 
-*Glechoma hederacea* contains a diverse profile of bioactive secondary metabolites. Key compounds include:
+*Glechoma hederacea* contains a diverse profile of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]. Key compounds include:
 
 - **Rosmarinic acid:** Major phenolic acid; significant antioxidant and anti-inflammatory activity (0.5–1.5% dry weight). One of the highest natural sources among temperate Lamiaceae.
 - **Triterpenoids:** Ursolic acid and oleanolic acid (collectively 1–3%); contribute to anti-inflammatory, hepatoprotective, and cytotoxic properties. Ursolic acid also demonstrates insect-deterrent activity.
@@ -71,7 +72,7 @@ G. hederacea provides important early-season forage for pollinators, particularl
 
 ## Permaculture Applications
 
-In [[living-mulch-systems-guide]]** beneath fruit trees and in guild plantings, suppressing weeds while retaining soil moisture and moderating surface temperature fluctuations. Its shade tolerance makes it suitable for the herbaceous layer in food forests and agroforestry systems. As an **erosion control** species, it rapidly establishes on disturbed slopes and outcompetes erosion-prone annual weeds. **Companion planting** potential includes pest deterrence through its aromatic essential oils and hydrosol distillation, though specific triadic combinations are not well-documented empirically. As **forage**, it is accepted (though not preferred) by poultry, rabbits, and some livestock; its protein content is moderate (~15–20% crude protein in young growth). Its nitrogen contribution is limited as it is not a nitrogen fixer, but its biomass cycling improves organic matter content in surface soils. The plant's ability to thrive in compacted, low-fertility soils makes it useful for initial site rehabilitation.
+In [[living-mulch-systems-guide]]** beneath fruit trees and in guild plantings, suppressing weeds while retaining soil moisture and moderating surface temperature fluctuations. Its shade tolerance makes it suitable for the herbaceous layer in food forests and agroforestry systems. As an **[[permplant-willows-salix-erosion-control-fodder]]** species, it rapidly establishes on disturbed slopes and outcompetes erosion-prone annual weeds. **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]** potential includes pest deterrence through its aromatic essential [[permaculture-designers-manual-essential-oil-plants]] distillation, though specific triadic combinations are not well-documented empirically. As **forage**, it is accepted (though not preferred) by poultry, rabbits, and some livestock; its protein content is moderate (~15–20% crude protein in young growth). Its nitrogen contribution is limited as it is not a nitrogen fixer, but its biomass cycling improves organic matter content in surface soils. The plant's ability to thrive in compacted, low-fertility soils makes it useful for initial site rehabilitation.
 
 ## Caution and Contraindications
 

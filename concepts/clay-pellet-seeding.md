@@ -1,5 +1,5 @@
 ---
-title: "Clay Pellet Seeding"
+title: "Clay clay-pellet-seeding-technique"
 type: concept
 tags:
   - natural-farming
@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Masanobu Fukuoka (1985). "The Natural Way of Farming: The Theory and Practice of Green Philosophy." Japan Publications.
+  - Masanobu Fukuoka (1985). "The Natural Way of Farming: The Theory and Practice of fukuoka-sowing-green-philosophy-one-grain-revolution." Japan Publications.
   - Masanobu Fukuoka (1978). "The One-Straw Revolution." Rodale Press.
 ---
 
@@ -19,11 +19,11 @@ sources:
 ## Overview
 
 Clay pellet seeding is a technique developed by Masanobu Fukuoka in which
-seeds are encased in clay pellets for broadcasting over land without
+seeds are encased in [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] for broadcasting over land without
 tilling. The clay coating protects seeds from predation by birds and
 rodents, prevents premature germination, and provides a microenvironment
 favorable to sprouting when rainfall arrives. Fukuoka proposed the method
-both for no-till rice cultivation and as a practical approach to desert
+both for no-till [[jadam-rice-cultivation-methods]] and as a practical approach to desert
 revegetation.
 
 ## Purpose and Principles
@@ -116,7 +116,7 @@ this cycle with minimal human intervention.
 Fukuoka argued against elaborate scientific studies to determine why
 deserts spread. The causes extend back in an endless chain of interwoven
 events beyond human comprehension. In nature, he insisted, there is no
-cause and effect — only an interconnected whole.
+[[fukuoka-textdoc-no-cause-and-effect-in-nature]] — only an interconnected whole.
 
 ## Relationship to Seed Balls
 
@@ -129,7 +129,7 @@ gardening and ecological restoration.
 
 Fukuoka conducted demonstrations in several countries, including barren
 land in Africa, India, and the Philippines. The principle has been
-validated by independent researchers working on aerial seeding and direct
+validated by independent researchers working on [[clay-seed-pellet-composition-and-aerial-seeding-method]] and direct
 seeding techniques in arid environments.
 
 ## Limitations

@@ -8,22 +8,22 @@ sources: [papers/cancer-treatments-medicinal-mushrooms.md]
 ---
 # Maitake D-Fraction Research
 
-Grifola frondosa, known as **Maitake** (Japanese for "dancing mushroom"), produces several bioactive beta-glucan and glycoprotein complexes with strong antitumour activity. The mushroom is both edible and medicinal, with growing commercial production. See also [[lentinan-pre-clinical-antitumour-models]] or schizophyllan-research|schizophyllan, which typically require injection.
+[[maitake-grifola-frondosa-comprehensive-profile]], known as **Maitake** (Japanese for "dancing mushroom"), produces several bioactive beta-glucan and glycoprotein complexes with strong antitumour activity. The mushroom is both edible and medicinal, with growing commercial production. See also [[lentinan-pre-clinical-antitumour-models]] or schizophyllan-research|schizophyllan, which typically require injection.
 
 ### D-Fraction
 The Maitake D-fraction and crude Maitake powder have demonstrated remarkable inhibition of metastasis in immuno-competent mouse models, especially in prevention of **hepatic metastases** -- reduced by 81% (Maitake powder) to 91% (D-fraction) in experimental studies. This level of metastasis inhibition is among the highest reported for any mushroom polysaccharide preparation.
 
 ## Direct Cytotoxic Effects
 
-Unlike many mushroom polysaccharides that act purely through immune modulation, Grifron-D has demonstrated **direct cytotoxic effects** on human prostate cancer cells (PC9 and PC-3) in vitro:
+Unlike many mushroom polysaccharides that act purely through [[cancer-immune-modulation-mechanisms]], Grifron-D has demonstrated **direct cytotoxic effects** on human prostate cancer cells (PC9 and PC-3) in vitro:
 
 - Dose-response studies showed >95% cell death attained in 24 hours with concentrations of 480 micrograms/ml or greater
-- Cell death occurs through **apoptosis** mediated by oxidative stress (elevated lipid peroxidation, oxidative membrane damage)
+- Cell death occurs through **apoptosis** mediated by [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] (elevated lipid peroxidation, oxidative membrane damage)
 - **Vitamin C acts synergistically** with Grifron-D -- combinations as low as 30-60 micrograms/ml GD with 200 microM vitamin C were as effective as GD alone at 480 micrograms/ml
 - **Carmustine/GD combination** showed 90% reduction in cell viability, suggesting chemosensitising potential
 - GD may potentiate anticancer drugs through inactivation of **glyoxalase I**, a vital detoxifying enzyme
 
-The dual mechanism of both immune activation AND direct cytotoxicity makes Maitake unique among medicinal mushroom preparations. Most other mushroom polysaccharides (including [[lentinan-pre-clinical-antitumour-models]]) operate primarily through immune modulation rather than direct tumour cell killing.
+The dual mechanism of both immune activation AND direct cytotoxicity makes Maitake unique among [[gourmet-medicinal-mushroom-casing-layer-techniques]] preparations. Most other mushroom polysaccharides (including [[lentinan-pre-clinical-antitumour-models]]) operate primarily through immune modulation rather than direct tumour cell killing.
 
 ## Clinical Trials
 
@@ -45,7 +45,7 @@ The US FDA has approved Grifron-D for trial under an Investigational New Drug Ap
 
 ## Mechanism of Action
 
-As a [[beta-glucan-receptor-binding]] mechanism involves CR3 (complement receptor 3) on immune cells, consistent with other mushroom beta-glucans. The dual mechanism of both immune activation and direct cytotoxicity makes Maitake unique among medicinal mushroom preparations.
+As a kappa opioid receptor mechanism involves CR3 (complement receptor 3) on immune cells, consistent with other mushroom beta-glucans. The dual mechanism of both immune activation and direct cytotoxicity makes Maitake unique among medicinal mushroom preparations.
 
 Grifolan's cytokine induction profile (IL-1beta, IL-6, TNF-alpha) activates the immune cascade at the macrophage level, which then communicates with T-cells and NK cells. The T-cell dependence of antitumour activity has been confirmed through experiments with cyclosporin A.
 
@@ -63,7 +63,7 @@ Grifron-D has few side effects. Anecdotal clinical reports suggest it may allevi
 
 ## Comparison with Other Mushroom Compounds
 
-The [[cancer-medicinal-mushrooms-turkey-tail-psk-and-psp]]'s clinical validation pathway, with increasing evidence of synergy between Maitake fractions and conventional chemotherapy. Key differentiators of Maitake:
+The 's clinical validation pathway, with increasing evidence of synergy between Maitake fractions and conventional chemotherapy. Key differentiators of Maitake:
 - Oral bioavailability (vs. injectable lentinan)
 - Direct cytotoxic effects (vs. purely immunomodulatory PSK)
 - Highest metastasis inhibition rates reported
@@ -75,7 +75,7 @@ The [[cancer-medicinal-mushrooms-turkey-tail-psk-and-psp]]'s clinical validation
 - [[turkey-tail-research-psk]]
 - [[cordyceps-research-cancer]]
 - [[medicinal-mushroom-cancer-regulatory-frameworks]]
-- [[medicinal-mushroom-cardiovascular-cholesterol-research]]
+- medicinal-mushroom-cardiovascular-cholesterol-research
 ## Practical Considerations
 
 Successful implementation of Maitake D-Fraction Research requires attention to
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

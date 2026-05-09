@@ -57,7 +57,7 @@ or plankton blooms.
 ### Sporidiobolus and Sporobolomyces
 These genera are known for their production of ballistoconidia
 -- forcibly discharged spores that can be collected on
-agar plates exposed to air above infested vegetation. They are
+[[query-how-to-make-agar-plates-for-mushroom-cultivation]] exposed to air above infested vegetation. They are
 common leaf-surface yeasts and contribute to the phyllosphere
 microbiome. Some Sporobolomyces species are coprophilous.
 
@@ -72,7 +72,7 @@ The genus belongs to the Trichosporonales.
 These cold-adapted (psychrophilic or psychrotolerant) yeasts
 are commonly isolated from cold environments including polar
 soils, glacial ice, and cold ocean waters. They represent
-important components of fungal communities in extreme cold
+important components of [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] in extreme cold
 habitats. See [[basidiomycetous-yeasts-ballistoconidia-biocontrol]]
 
 - [[yeast-biodiversity-isolation-ecology]]

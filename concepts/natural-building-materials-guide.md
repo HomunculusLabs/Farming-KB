@@ -1,21 +1,22 @@
 ---
-title: Natural Building Materials Guide
+title: Natural natural building materials guide Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [construction, sustainability, homesteading, off-grid, permaculture]
-sources: []
+sources:
+  sources: []
 ---
 
 # Natural Building Materials Guide
 
-Natural building uses locally sourced, minimally processed materials to create shelter. These methods have been used for millennia and are experiencing a revival among homesteaders and permaculture practitioners due to low cost, low embodied energy, and healthy indoor environments.
+Natural building uses locally sourced, minimally processed materials to create shelter. These methods have been used for millennia and are experiencing a revival among homesteaders and permaculture practitioners due to [[jadam-ultra-low-cost-agriculture]], low embodied energy, and healthy indoor environments.
 
 ## Overview of Common Natural Building Materials
 
 ### Cob
 
-Cob is a mixture of clay-rich subsoil, sand, and straw, kneaded with water into a sculptable mud. It is built up in thick monolithic walls without forms. Cob walls are typically 18-24 inches thick and provide excellent thermal mass for passive solar heating.
+Cob is a mixture of clay-rich subsoil, sand, and straw, kneaded with water into a sculptable mud. It is built up in thick monolithic walls without forms. Cob walls are typically 18-24 inches thick and provide excellent thermal mass for [[comparison-passive-solar-vs-earth-sheltered]] heating.
 
 - **Best for:** Walls, benches, ovens, sculptural elements
 - **Climate suitability:** Dry to temperate climates; needs good roof overhang and foundation to protect from prolonged moisture
@@ -37,12 +38,12 @@ Rammed earth construction involves dampening a mix of subsoil (with the right cl
 
 - **Best for:** Feature walls, entire structures in dry climates
 - **Climate suitability:** Performs well in climates with significant diurnal temperature swing; needs moisture protection in wet zones
-- **Pros:** Very durable, excellent thermal mass, fire resistant, low maintenance
+- **Pros:** Very durable, excellent thermal mass, [[mollison-designers-fire-resistant-landscape-design]], low maintenance
 - **Cons:** Requires formwork, heavy labor for tamping, soil testing critical
 
 ### Light Straw-Clay (Light Clay)
 
-Light straw-clay is a method where loose straw is coated in a thin slip of clay and water, then packed into forms between a timber frame. The clay coating gives the straw fire and insect resistance while creating a highly insulative wall.
+Light straw-clay is a method where loose straw is coated in a thin slip of clay and water, then packed into forms between a [[comparison-bamboo-construction-vs-timber-frame-basics]]. The clay coating gives the straw fire and insect resistance while creating a highly insulative wall.
 
 - **Best for:** Infill walls within a timber frame structure
 - **Climate suitability:** Versatile — works in cold and temperate climates
@@ -71,7 +72,7 @@ Compressed earth blocks are made by compressing damp subsoil in a mechanical pre
 
 ### Climate Matching
 
-Choose materials based on your climate zone:
+Choose materials based on your [[holzer-climate-zone-microclimate-creation]]:
 
 - **Hot-arid:** Adobe, rammed earth (high thermal mass moderates temperature swings)
 - **Cold:** Hempcrete, light straw-clay (high insulation value)

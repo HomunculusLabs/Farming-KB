@@ -36,7 +36,7 @@ groups: those containing nitrogen (far more common) and those that do not.
 
 The nitrogen-containing hallucinogens are primarily alkaloids or related
 bases. Many are indoles, nitrogen-containing compounds whose structures are
-derived from the amino acid tryptophan. The indole nucleus appears in
+derived from the [[cho-fish-amino-acid-preparation]] tryptophan. The indole nucleus appears in
 tryptamine derivatives such as dimethyltryptamine (DMT), in ergoline
 alkaloids like ergine, in ibogaine alkaloids, and in beta-carboline alkaloids
 such as harmine and harmaline. LSD also possesses an indole nucleus.
@@ -64,23 +64,23 @@ hallucinogenic plants are used as mediators between humans and their gods.
 The Algonquin Indians gave an intoxicating medicine called wysoccan to young
 men during initiation rituals, causing them to lose all memory and begin
 manhood by forgetting their childhood. The iboga root in Gabon and caapi in
-the Amazon are similarly used in rites of passage. South American tribes take
+the Amazon are similarly used in rites of passage. [[chiric-caspi-brunfelsia-south-american-hallucinogen]] tribes take
 ayahuasca to foresee the future, settle disputes, decipher enemy plans, cast
 spells, and ensure fidelity. Modern Mexican Indians use mushrooms as
-sacraments and morning glories and peyote to predict the future and cure
+sacraments and [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] and peyote to predict the future and cure
 disease.
 
 ## Methods of Administration
 
 Indigenous peoples demonstrated remarkable ingenuity in preparing
 hallucinogenic plants. Methods include eating plants fresh or dried (peyote,
-teonanacatl), drinking juice from crushed leaves (Salvia divinorum),
+teonanacatl), drinking juice from crushed leaves ([[golden-guide-salvia-divinorum-and-diviner-sage]]),
 drinking beverages from bark, cactus, or crushed seeds (ayahuasca, San
 Pedro, morning glories), smoking (cannabis, tupa), and snuffing (yopo,
 epena). Some New World Indians administered hallucinogens rectally.
 
 Plant additives or admixtures are increasingly important in research. In
-ayahuasca preparation, leaves of Psychotria viridis (containing DMT) or
+[[harner-amazonian-ayahuasca-preparation-methods]], leaves of Psychotria viridis (containing DMT) or
 Banisteriopsis rusbyana are added to Banisteriopsis caapi (containing
 beta-carboline MAO inhibitors), creating a synergistic brew. Virola resin
 can be licked, snuffed, eaten in pellets, or smoked.

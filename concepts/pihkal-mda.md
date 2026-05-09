@@ -21,7 +21,7 @@ making it a truly hybrid substance.
 
 First synthesized in 1910 by Merck, MDA's psychoactive properties were not
 explored until the mid-20th century. It gained popularity in the 1960s and
-1970s as a recreational substance and was used in early psychedelic therapy
+1970s as a recreational substance and was used in early [[metzner-psycholytic-psychedelic-therapy-models]]
 research. Shulgin's exploration of MDA ultimately led to his discovery of
 MDMA's unique properties, making MDA pivotal in modern empathogen history.
 
@@ -127,7 +127,7 @@ described as a combination of MDMA and a mild psychedelic.
 MDA gained prominence in the 1960s as both a recreational substance and a
 tool in early psychedelic therapy, used by therapists including Leo Zeff.
 Its popularity declined in the 1980s as MDMA became dominant, partly due to
-MDMA's more favorable safety profile. MDA is Schedule I in the US and
+MDMA's more favorable [[cannabis-safety-profile-and-overdose-risk]]. MDA is Schedule I in the US and
 controlled internationally, occasionally appearing in tablets sold as or
 adulterated with MDMA.
 

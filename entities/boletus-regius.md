@@ -18,7 +18,7 @@ sources:
 
 # Boletus regius
 
-**Boletus regius**, commonly known as the **royal bolete**, is a species of edible mushroom in the family Boletaceae. It is one of the most visually striking boletes found in Europe, recognized by its vivid pink to rose-red cap and yellow pore surface. Despite its beauty and edibility, it has become increasingly rare across much of its range and is considered a threatened species in several European countries.
+**Boletus regius**, commonly known as the **royal bolete**, is a species of [[bloomfield-boletus-satanus-edible-mushroom-hazards]] in the family Boletaceae. It is one of the most visually striking boletes found in Europe, recognized by its vivid pink to rose-red cap and yellow pore surface. Despite its beauty and edibility, it has become increasingly rare across much of its range and is considered a threatened species in several European countries.
 
 ## Taxonomy and Nomenclature
 
@@ -68,14 +68,14 @@ It fruits from late summer through autumn (August to November), typically in war
 
 ## Ecology
 
-As an ectomycorrhizal species, *B. regius* plays a role in forest nutrient cycling by facilitating nutrient exchange between its host trees and the soil. The fungal mycelium extends the effective root zone of the host tree, improving access to phosphorus, nitrogen, and micronutrients. In return, the fungus receives carbohydrates (primarily glucose) produced through photosynthesis.
+As an ectomycorrhizal species, *B. regius* plays a role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between its host trees and the soil. The fungal mycelium extends the effective root zone of the host tree, improving access to phosphorus, nitrogen, and micronutrients. In return, the fungus receives carbohydrates (primarily glucose) produced through photosynthesis.
 
 *Boletus regius* is sensitive to environmental disturbance, including:
 
 - **Soil compaction** from forestry operations and recreational use
 - **Acidification** from atmospheric deposition and conifer plantation
 - **Habitat fragmentation** from land-use change
-- **Prolonged drought** exacerbated by climate change
+- **Prolonged drought** exacerbated by [[dighton-fungi-climate-change-feedback]]
 
 ## Edibility and Culinary Use
 
@@ -102,7 +102,7 @@ The key distinguishing features of *B. regius* are: bright rose-pink cap, yellow
 - **Protected** by law in some European nations (e.g., Czech Republic, Slovakia)
 - Listed on regional Red Lists of threatened fungal species
 
-Major threats include habitat loss through deforestation and urbanization, atmospheric pollution (particularly nitrogen deposition), changes in forest management practices, and the increasing frequency of drought periods associated with climate change.
+Major threats include habitat loss through deforestation and urbanization, atmospheric pollution (particularly [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]), changes in [[mollison-pdc-forest-management-products]] practices, and the increasing frequency of drought periods associated with climate change.
 
 Collection of wild specimens for culinary purposes has also been implicated in local population declines, though habitat degradation is considered the primary driver.
 
@@ -139,6 +139,5 @@ When foraging for *Boletus regius*, the non-bleuing reaction is the single most 
 - [[boletus-edulis-entity]]
 - [[boletus-reticulatus]]
 
-- [[boletus-reticulatus]] — Bicolor bolete, close relative
 - [[boletus-pinophilus]] — Pine bolete, similar habitat
 - [[suillellus-luridus]] — lurid bolete, edible but requires careful cooking

@@ -1,11 +1,12 @@
 ---
-title: Natural Intelligence
+title: powell-natural-intelligence-and-the-universal-computation
 created: 2026-04-16
 updated: 2026-04-18
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Natural Intelligence
@@ -70,7 +71,7 @@ Anyone can suggest that some sort of wilful intelligence infuses reality. Many m
 
 Entheogens like psilocybin act as a living interface between the Other (Natural Intelligence) and the human mind. Through the mushroom experience, an individual can access transcendental information loaded with cultural and personal significance.
 
-Nature thus emerges as being incredibly smart as well as deadly. The psilocybin mushroom represents one of the means by which Natural Intelligence has ensured that conscious minds can come to understand their true situation within the reality process.
+Nature thus emerges as being incredibly smart as well as deadly. The [[emcdda-psilocybin-mushroom-dose-and-effects]] represents one of the means by which Natural Intelligence has ensured that conscious minds can come to understand their true situation within the reality process.
 
 Nature is smarter than we. The realization that entheogenic plants and fungi are part of the ecosystem inevitably affects the significance and import of the entheogenic experience. The concept of naturalness acts as an important context for the experience when it derives from a natural plant or fungus, connecting the individual to the living homeostatic systems of the Earth.
 
@@ -88,7 +89,7 @@ Those scientists who diligently propound the myth that we are mere bystanders on
 
 The Gaia hypothesis, formulated by James Lovelock and Lynn Margulis, proposes that Earth's living and non-living components function together as a self-regulating system that maintains conditions suitable for life. This planetary homeostasis -- regulating temperature, atmospheric composition, and ocean salinity over billions of years -- resembles the kind of feedback-controlled intelligence that the Natural Intelligence framework describes at a planetary scale.
 
-The Gaia hypothesis directly supports the third option for the nature of the Other: that the Universe is organism-like, with intelligence distributed throughout natural systems. The Earth itself may be understood as a vast informational processing system, with the [[mycelial-foraging-resource-allocation]] research demonstrates that mycelial networks can solve spatial optimization problems, allocate resources strategically, and make decisions about growth direction that maximize nutrient acquisition. Mycelium explores its environment, assesses resource quality, and adjusts its growth patterns accordingly -- behaviors that meet many criteria for intelligence.
+The Gaia hypothesis directly supports the third option for the nature of the Other: that the Universe is organism-like, with intelligence distributed throughout natural systems. The Earth itself may be understood as a vast informational processing system, with the [[mycelial-foraging-resource-allocation]] research demonstrates that [[fungal-mycelial-networks-nutrient-translocation]] can solve spatial optimization problems, allocate resources strategically, and make decisions about growth direction that maximize nutrient acquisition. Mycelium explores its environment, assesses [[fungal-decomposition-resource-quality-determinants]], and adjusts its growth patterns accordingly -- behaviors that meet many criteria for intelligence.
 
 Slime molds, though not true fungi, offer even more dramatic evidence. [[common-mycorrhizal-networks]] that connect trees and plants through shared fungal symbionts represent a biological internet -- a vast underground communication and resource-sharing network. Through these networks, trees can transfer carbon to shaded seedlings, send chemical warning signals about insect attack, and share water and nutrients across species boundaries. The wood wide web, as it has been called, is a concrete expression of Natural Intelligence operating at the ecosystem scale.
 
@@ -98,7 +99,7 @@ This mycorrhizal intelligence challenges the individualistic model of biology an
 
 ### Fukuoka's Natural Farming
 
-Masanobu Fukuoka's [[permaculture-pattern-language]] codifies the design principles by which natural systems organize themselves. Permaculture designers study the patterns found in nature -- branching patterns, spiral patterns, wave patterns, net patterns -- and apply these as templates for human-designed systems. This approach treats natural patterns as the output of Natural Intelligence and seeks to align human designs with these pre-existing informational templates.
+Masanobu Fukuoka's permaculture-pattern-language codifies the design principles by which natural systems organize themselves. Permaculture designers study the patterns found in nature -- branching patterns, [[mollison-spiral-patterns-in-nature-and-design]], wave patterns, net patterns -- and apply these as templates for human-designed systems. This approach treats natural patterns as the output of Natural Intelligence and seeks to align human designs with these pre-existing informational templates.
 
 ## Implications for Artificial Intelligence
 
@@ -118,4 +119,10 @@ Natural Intelligence is inherently purposeful and meaningful -- it organizes inf
 
 ### Biomimetic Computing
 
-The computational strategies observed in natural systems -- parallel processing, error tolerance, energy efficiency, self-organization -- are increasingly being adopted in computing and AI design. Neuromorphic computing, swarm robotics, and evolutionary algorithms all draw inspiration from Natural Intelligence. The mycelial network, with its ability to process information, make decisions, and adapt without central control, represents a particularly promising model for distributed AI systems.
+The computational strategies observed in natural systems -- parallel processing, error tolerance, [[fukuoka-textdoc-energy-efficiency-agricultural-labor]], self-organization -- are increasingly being adopted in computing and AI design. Neuromorphic computing, swarm robotics, and evolutionary algorithms all draw inspiration from Natural Intelligence. The mycelial network, with its ability to process information, make decisions, and adapt without central control, represents a particularly promising model for distributed AI systems.
+## See Also
+- [[wood-wide-web]]
+- [[permaculture-design]]
+- [[mycelial-networks]]
+- [[masanobu-fukuoka]]
+- [[natural-farming]]

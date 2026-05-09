@@ -1,5 +1,5 @@
 ---
-title: Cannabis Indoor Grow Lighting Systems
+title: comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing Grow Lighting Systems
 created: 2026-04-28
 tags: [cannabis, indoor-growing, lighting, HID, horticulture]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 
 # Cannabis Indoor Grow Lighting Systems
 
-Lighting is the single most critical environmental factor in indoor Cannabis
+Lighting is the single most critical environmental factor in [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]]
 cultivation. The quality, intensity, and spectrum of light directly determine
 plant growth rate, [[green-cannabis-grow-bible-strain-selection-genetics]].
 
@@ -46,7 +46,7 @@ electrical energy into heat rather than usable light.
 
 Halogen lights are the small floodlights often seen outside factories. They
 range from 75 watts to 4000 watts. Halogens get extremely hot and create
-unsuitable conditions for indoor Cannabis growing. They are not recommended
+unsuitable conditions for indoor [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]]. They are not recommended
 because they are dangerous to use indoors and do not provide the correct light
 spectrum for plant growth.
 
@@ -71,11 +71,11 @@ tone, making them visually distinguishable.
 ## Choosing Between MH and HPS
 
 Some growers maintain a dual-system approach, using MH lighting for seedling
-and vegetative growth and switching to HPS for flowering. The HPS is
+and [[cannabis-vegetative-growth-stage]] and switching to HPS for flowering. The HPS is
 generally considered a better flowering lamp, while MH is superior for
 vegetative growth. If a grower can only afford one system, HPS is the
 recommended choice because it produces acceptable results throughout the
-entire life cycle.
+entire [[bloomfield-fungal-life-cycle-spiral-versus-circle]].
 
 When purchasing a lighting system, growers should examine the ballast and
 bulb to identify whether the system is MH or HPS. The type is usually printed
@@ -85,6 +85,10 @@ on the ballast housing or the bulb itself.
 
 Proper light placement is critical for maximizing canopy penetration and
 avoiding stretching. The light should be positioned as close to the plant
-canopy as possible without causing heat stress. Reflective walls and
+canopy as possible without causing [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]]. Reflective walls and
 [[green-cannabis-grow-bible-indoor-grow-room-setup]]
 - [[greg-green-temperature-and-humidity-control]]
+
+## See Also
+
+- [[phytochrome-photoreceptor-plant-vision]]

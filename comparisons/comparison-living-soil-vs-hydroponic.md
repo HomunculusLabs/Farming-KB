@@ -18,7 +18,7 @@ on a complex web of microorganisms to break down organic matter and cycle nutrie
 plant root zone. Hydroponic systems bypass soil biology entirely, delivering mineral nutrients
 dissolved directly in water to the roots in a precisely controlled solution.
 
-The debate between these approaches is one of the most enduring in cannabis cultivation.
+The debate between these approaches is one of the most enduring in [[query-how-does-no-till-cannabis-cultivation-work]].
 Living soil advocates prioritize terpene richness, flavor complexity, and sustainability,
 arguing that the slow-release natural nutrient cycle produces a superior final product.
 Hydroponic growers emphasize growth speed, yield maximization, and the precision control that
@@ -42,18 +42,18 @@ carbohydrates from the plant.
 A properly built living soil can sustain multiple grows with minimal additional amendment.
 Many living soil growers use a "no-till" approach where the soil is reused indefinitely, with
 fresh organic matter layered on top as a mulch. The soil improves with each grow cycle as the
-microbial community matures and becomes more diverse.
+[[edaphic-factors-microbial-community-structure]] matures and becomes more diverse.
 
 Living soil systems are notably more forgiving of pH fluctuations than hydroponics. The soil
 buffer capacity keeps pH in a range that supports both microbial activity and nutrient
 availability, typically between 6.0 and 7.0. This eliminates the need for constant pH
-monitoring and adjustment that characterizes hydroponic growing.
+monitoring and adjustment that characterizes [[cannabis-grow-hydroponic-growing-systems]].
 
 The most commonly cited advantage of living soil is the quality of the final product. Many
-growers and consumers report that living-soil-grown cannabis exhibits richer terpene profiles,
+growers and consumers report that living-soil-grown cannabis exhibits richer [[cannabis-terpene-profiles-sativa]],
 more complex flavor and aroma, and a smoother smoking experience. While controlled scientific
 studies remain limited, the hypothesis is that the slow, steady nutrient delivery and diverse
-microbial metabolites available in living soil promote more complete secondary metabolite
+microbial metabolites available in living soil promote more complete [[fungal-elicitors-enhanced-secondary-metabolite-production]]
 production in the plant.
 
 Building a living soil from scratch typically involves creating a base mix of high-quality
@@ -69,7 +69,7 @@ failures such as pump breakdowns or timer malfunctions can cause catastrophic cr
 hours if not addressed immediately.
 
 [[irrigation-systems]] pump
-nutrient solution through tubes to individual plants, offering more control and scalability.
+[[cannabis-nutrient-solution-preparation]] through tubes to individual plants, offering more control and scalability.
 Coco coir with liquid nutrients provides a soil-like growing experience with the precision of
 hydroponic feeding, and is often considered a bridge between the two philosophies.
 

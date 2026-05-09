@@ -1,16 +1,17 @@
 ---
-title: No-Till Grain Growing Methods
+title: No-Till Grain mushroom-growing-methods-comparison
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # No-Till Grain Growing Methods
 
-The Fukuoka no-till grain system grows grain and legumes together continuously without plowing, fertilizing, or weeding. A farmer eating a 2,000-calorie diet can produce 1,300 pounds (590 kg) of rice (22 bushels) on a quarter acre. Using animals for labor requires at least 5x more calories; a tractor requires at least 10x more.
+The Fukuoka no-till grain system grows grain and legumes together continuously without plowing, fertilizing, or weeding. A farmer eating a 2,000-calorie diet can produce 1,300 pounds (590 kg) of rice (22 bushels) on a [[fukuoka-agriculture-tomorrow-quarter-acre-vision]]. Using animals for labor requires at least 5x more calories; a tractor requires at least 10x more.
 
 ## Land Efficiency Comparison
 
@@ -24,18 +25,18 @@ To keep one human alive entirely on one food:
 ## Rice Paddy Setup
 
 1. Level the ground and build a low mud retaining wall that holds 2 inches (5 cm) of water
-2. May need chisel plow the first year if soil is extremely compacted
+2. May need [[soil-conditioning-chisel-plow-biological-methods]] the first year if soil is extremely compacted
 3. Spread lime or dolomite and thin layer of chicken manure, water in
 4. This soil disturbance is done only once
 
 ### Cold Climates
-Use shorter cycles: spring wheat planted in spring with oats or barley as winter crop. Can also experiment with squash, melons, tomato, cotton, vetch, or sunflowers as no-till crops.
+Use shorter cycles: spring wheat planted in spring with oats or barley as [[coleman-sunlight-and-winter-crop-growth-rates]]. Can also experiment with squash, melons, tomato, cotton, vetch, or sunflowers as no-till crops.
 
 ## Weed Control Perimeter
 
 On the outer perimeter of grain fields, grow a band of weed-control plants such as [[white-clover-living-mulch]]. Add rye, barley, millet, winter wheat, or oats. Seed quantities: clover 1 lb/acre, grains 6-14 lbs/acre, rice 5-10 lbs/acre.
 
-2. **Rice sowing**: Early fall. Broadcast and cover with straw, or make into [[small-scale-grain-growing]], [[faires-grain-harvesting-and-processing]], [[fukuoka-do-nothing-farming-philosophy]], [[permaculture-wild-rice-guide]]
+2. **Rice sowing**: Early fall. Broadcast and cover with straw, or make into [[small-scale-grain-growing]], faires-grain-harvesting-and-processing, [[fukuoka-do-nothing-farming-philosophy]], permaculture-wild-rice-guide
 ## Practical Applications
 
 No-Till Grain Growing Methods has a range of practical applications that make it relevant to
@@ -113,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

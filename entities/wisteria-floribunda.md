@@ -21,7 +21,7 @@ Wisteria floribunda is a deciduous, woody climbing vine in the family Fabaceae, 
 
 It is renowned for producing the longest racemes of any wisteria species, with flower clusters reaching 30–100 cm in length.
 
-The species is widely cultivated as an ornamental plant and has naturalized in parts of North America and Europe.
+The species is widely cultivated as an ornamental plant and has naturalized in parts of [[psilocybin-north-america-pacific-northwest]] and Europe.
 
 All parts of the plant contain toxic lectins, particularly in the seeds and pods.
 
@@ -64,7 +64,7 @@ It grows in forest margins, stream banks, and mountain slopes at elevations up t
 
 The species prefers full sun to partial shade and deep, moist, well-drained loam soils.
 
-It has naturalized widely in the eastern United States, particularly in the Southeast and Mid-Atlantic.
+It has naturalized widely in the eastern [[dmt-containing-plants-united-states-halpern]], particularly in the Southeast and Mid-Atlantic.
 
 In Europe, it is established in parts of the UK, France, and Italy.
 
@@ -96,7 +96,7 @@ In its native range, W. floribunda provides nectar for long-tongued bees and but
 
 The vine serves as a host plant for several lepidopteran larvae, including the Japanese wisteria borer.
 
-Nitrogen fixation occurs through symbiotic Rhizobium bacteria in root nodules.
+[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] occurs through symbiotic Rhizobium bacteria in root nodules.
 
 This nitrogen-fixing capacity allows it to thrive in nutrient-poor soils.
 
@@ -125,4 +125,4 @@ It received the Royal Horticultural Society's Award of Garden Merit.
 - [[campsis-radicans]] — trumpet vine, another vigorous woody climbing vine
 - [[hedera-helix]] — English ivy, a climbing plant with similar support-strangling behavior
 - [[paeonia-lactiflora]] — herbaceous peony, another iconic plant in Japanese gardens
-- [[rubus-idaeus-entity]] — red raspberry, a member of Rosales sharing disturbed habitat with naturalized wisteria
+- rubus-idaeus-entity — red raspberry, a member of Rosales sharing disturbed habitat with naturalized wisteria

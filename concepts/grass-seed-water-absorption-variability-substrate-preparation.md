@@ -4,15 +4,15 @@
 
 Water absorption variability is one of the most critical yet frequently underestimated challenges in grass seed-based , affecting substrate quality  consistency.
 
-Different grass seed varieties, and even different batches of the same variety, absorb water at markedly different rates, which directly impacts substrate moisture content and determines cultivation success or failure.
+Different grass seed varieties, and even different batches of the same variety, absorb water at markedly different rates, which directly impacts [[pf-tek-substrate-moisture-diagnosis-and-correction]] content and determines cultivation success or failure.
 
 Understanding and managing this variability is essential for producing consistent, high-yielding substrates across multiple grows using the standard jar-based methodology described in the  n-mushroom-cultivation-guide.
 
-The guide covers cultivation of fruitbodies and sclerotia on sterilised grass seed for species including , , Psilocybe cubensis, and Psilocybe subbalteatus.
+The guide covers cultivation of fruitbodies and sclerotia on sterilised grass seed for species including , , [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], and Psilocybe subbalteatus.
 
 ## The Standard 110g/180ml Ratio as a Starting Point
 
-The exotic cultivation guid  ine ratio of 110 grams of grass seed combined with 180 millilitres of water per 720ml jar as a reliable starting point for substrate preparation.
+The exotic cultivation guid  ine ratio of 110 grams of grass seed combined with 180 millilitres of water per 720ml jar as a reliable starting point for [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]].
 
 This ratio has been validated across numerous successful grows and provides a reasonable moisture content for the most commonly used grass seed types, particularly perennial rye grass (Lolium perenne).
 
@@ -22,10 +22,10 @@ The guide's authors arrived at this ratio through extensive experimentation, and
 
 Rye grass has a well-characterised water absorption profile that is relatively consistent across different suppliers [[water-absorption-variability-grass-seed-substrate-preparation]]
 - [[grass-seed-water-absorption-and-moisture-calibration]]
-- [[grass-seed-substrate-cultivation-psilocybe]]
+- grass-seed-substrate-cultivation-psilocybe
 ## Practical Applications
 
-Grass Seed Water Absorption Variability Substrate Preparation has a range of practical applications that make it relevant to
+Grass Seed Water Absorption grass seed water absorption variability substrate preparation Preparation has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -100,4 +100,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

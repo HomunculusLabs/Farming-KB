@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [comparison, cannabis, genetics, flowering]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -22,8 +23,8 @@ Photoperiod cannabis plants flower in response to changes in the light cycle —
 they require 12 hours of uninterrupted darkness per 24-hour period to trigger the transition
 from vegetative growth to flowering. This light-dependent mechanism is governed by
 phytochrome pigments in the plant that detect the length of the dark period. Autoflowering
-cannabis, by contrast, flowers based on age rather than light schedule, a trait inherited
-from Cannabis ruderalis, a subspecies that evolved in the short summers of Central and
+cannabis, by contrast, flowers based on age rather than [[query-best-light-schedule-for-cannabis]], a trait inherited
+from [[cervantes-cannabis-ruderalis-autoflowering]], a subspecies that evolved in the short summers of Central and
 Eastern Europe.
 
 Both types have been extensively hybridized with high-potency [[autoflowering-cannabis]] plants contain Cannabis ruderalis genetics that cause them to
@@ -41,13 +42,13 @@ crops annually is achievable indoors with autoflowers compared to three to four 
 photoperiod plants.
 
 The fixed timeline also means that autoflowers have a very limited vegetative window for
-training and recovery. Most high-stress training techniques such as topping and [[photoperiod-cannabis]] plants remain in vegetative growth as long as they receive more
+training and recovery. Most high-stress [[cannabis-training-techniques-comparison]] such as topping and [[photoperiod-cannabis]] plants remain in vegetative growth as long as they receive more
 than 12 to 14 hours of light per day. The grower has complete control over when flowering
 begins by adjusting the light timer to a 12-hours-on, 12-hours-off schedule. This control
 over the vegetative period is the defining advantage of photoperiod genetics.
 
 Because the vegetative period can be extended indefinitely, photoperiod plants can be
-trained extensively using any combination of techniques — topping, fimming, super cropping,
+trained extensively using any combination of techniques — topping, fimming, [[cannabis-super-cropping-technique]],
 scrogging, manifolding, and defoliation. The plant will continue growing and recovering as
 long as it remains under a vegetative light schedule (typically 18/6). This training
 flexibility allows growers to produce large, structured plants with many colas, resulting in
@@ -67,7 +68,7 @@ incompatible.
 
 ## The Role of Phytochrome
 
-The photoperiod flowering mechanism is controlled by two types of phytochrome pigments in
+The [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]] mechanism is controlled by two types of phytochrome pigments in
 the plant: Pr (phytochrome red) and Pfr (phytochrome far-red). During the light period, Pr
 absorbs red light and converts to Pfr, which promotes vegetative growth. During the dark
 period, Pfr slowly converts back to Pr. When the dark period exceeds approximately 12 hours,
@@ -98,7 +99,7 @@ this vulnerability.
 ## When to Choose Autoflowering
 
 Autoflowers are ideal for first-time growers who want a simple, forgiving introduction to
-cannabis cultivation. The fixed timeline eliminates the complexity of managing light
+[[query-how-does-no-till-cannabis-cultivation-work]]. The fixed timeline eliminates the complexity of managing light
 schedule transitions, and the compact size works well in small tents and cabinets.
 Autoflowers are also excellent for outdoor growers in northern latitudes with short summers,
 where a photoperiod strain might not finish before frost.

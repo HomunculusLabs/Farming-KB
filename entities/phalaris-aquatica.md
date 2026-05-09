@@ -20,18 +20,18 @@ Native to the **Mediterranean Basin** (S. Europe, N. Africa, W. Asia). Widely in
 
 | Region | Status |
 |--------|--------|
-| North America | Naturalized in CA, OR, TX [[emcdda-hallucinogenic-mushroom-consequences-and-health-risks]] od** was established. Gramine contamination in crude extracts
+| [[psilocybin-north-america-pacific-northwest]] | Naturalized in CA, OR, TX [[emcdda-hallucinogenic-mushroom-consequences-and-health-risks]] od** was established. Gramine contamination in crude extracts
 poses genuine health risks. Key papers: Applewhite (1977), Smith (1977), Ott (1993), Letcher (2004).
 The entheogenic potential remains **theoretical and unsafe in practice**.
 
 ## Permaculture and [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] onal grazing |
-| Drought tolerance | Survives extended dry periods once established |
+| [[dighton-fungal-drought-tolerance-plant-water-relations]] | Survives extended dry periods once established |
 | Windbreak | Dense tussocks provide low-level wind shelter |
-| Soil improvement | Organic matter input; fibrous roots improve structure |
+| Soil improvement | [[hamilton-composting-and-organic-matter-management]] input; fibrous roots improve structure |
 | Riparian revegetation | Tolerates seasonal waterlogging; stream bank restoration |
 | Biomass | 8–15 tonnes DM/ha/year under irrigation |
 
-Australian cultivar **'Sirolan'** bred for low-gramine forage. Also used in constructed wetlands
+Australian cultivar **'Sirolan'** bred for low-gramine forage. Also used in [[comparison-constructed-wetlands-vs-bioswales]]
 and mine site rehabilitation.
 
 ## Toxicity Concerns
@@ -41,7 +41,7 @@ ataxia, convulsions in livestock; sheep most sensitive. **Chronic exposure**: re
 reproductive impairment, death. Symptoms include salivation, bloat, muscle tremors, tachycardia.
 Mechanism involves metabolites disrupting monoamine oxidase activity. Low-gramine cultivars 'AQ1',
 'Sirolan', and 'Holdfast' mitigate risk. **Livestock should not graze during stress-induced
-alkaloid spikes** (drought, frost, nutrient deficiency). Unpredictable alkaloid ratios make any
+alkaloid spikes** (drought, frost, [[cannabis-grow-nutrient-deficiency-problem-solving]]). Unpredictable alkaloid ratios make any
 self-experimentation hazardous regardless of DMT's oral inactivity without MAOIs.
 
 ## Cultivation
@@ -61,12 +61,14 @@ self-experimentation hazardous regardless of DMT's oral inactivity without MAOIs
 Easily established from seed with minimal management. Self-seeds readily and can become aggressive
 in riparian and coastal areas. California Invasive Plant Council rates it **"Moderate"** invasiveness.
 
-## Related Species
+## Related
+
+- [[phalaris-arundinacea]] Species
 
 - phalaris arundinacea — Reed Canary Grass, most widespread *Phalaris* species
 - phalaris canariensis — Canary Grass, grain crop used as birdseed
 - phalaris brachystachys — Short-spiked Canary Grass, also DMT-containing
-- arundo donax — Giant Reed, related Poaceae for erosion control
+- arundo donax — Giant Reed, related Poaceae for [[permplant-willows-salix-erosion-control-fodder]]
 - deschampsia cespitosa — Tufted Hairgrass, native erosion-control alternative
 - festuca arundinacea — Tall Fescue, forage grass with endophyte alkaloids
 - [[mimosa-hostilis]] — Jurema, more reliable DMT-containing species
@@ -89,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). Silvics of North America, Vol. 2. USDA Forest Service.
+  - Burns, R.M. & Honkala, B.H. (1990). Silvics of psilocybin-north-america-pacific-northwest, Vol. 2. USDA Forest Service.
   - Dickmann, D.I. & Kuzovkina, J. (2014). "Poplars and Willows of the World." FAO.
   - Stettler, R.F. et al. (1996). Biology of *Populus*. NRC Research Press.
   - Little, E.L. (1979). Checklist of United States Trees. USDA Forest Service.
@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Eastern cottonwood** (*Populus deltoides*) is a large, fast-growing deciduous tree native to eastern North America and one of the largest hardwood species on the continent. It is the state tree of Kansas, Nebraska, and Wyoming, reflecting its importance in Great Plains riparian ecosystems.
+**Eastern cottonwood** (*Populus deltoides*) is a large, fast-growing deciduous tree native to [[polypore-fungi-eastern-north-america]] America and one of the largest hardwood species on the continent. It is the state tree of Kansas, Nebraska, and Wyoming, reflecting its importance in Great Plains riparian ecosystems.
 
 The species can exceed 35 meters in height with trunk diameters reaching 1.5–2 meters at maturity. It is among the fastest-growing native trees in North America, with juvenile growth rates of 1.5–2.5 meters per year under favorable conditions.
 
@@ -31,7 +31,7 @@ Eastern cottonwood is a pioneer species that colonizes disturbed riparian sites,
 
 Bark on young trees is smooth, yellowish-green to gray, becoming thick, deeply furrowed, and dark gray-brown with age. The characteristic furrows develop prominent ridges separated by flat-topped plates.
 
-Leaves are simple, alternate, broadly triangular (deltoid) with a truncate to slightly cordate base. Leaf size is 7–15 cm long and 8–20 cm wide, among the largest leaves of any native North American tree.
+Leaves are simple, alternate, broadly triangular (deltoid) with a truncate to slightly cordate base. Leaf size is 7–15 cm long and 8–20 cm wide, among the largest leaves of any native [[growing-gourmet-north-american-reishi-species]] tree.
 
 The leaf margin is coarsely crenate with rounded teeth, and the petiole is strongly flattened laterally, causing leaves to flutter in wind. Leaf color is bright green above and lighter green below, turning yellow in autumn.
 
@@ -55,7 +55,7 @@ Soil preferences include deep, moist, well-drained alluvial loams and sands. The
 
 Optimal growth occurs on sites with deep water tables (1–3 meters below surface) where roots can access consistent moisture without waterlogging. Growth rates decline sharply on droughty upland sites, and the species is rarely found on slopes or well-drained uplands except along watercourses.
 
-In the Great Plains, var. *monilifera* is often the dominant riparian tree, forming linear gallery forests along rivers and streams. These gallery forests are critical habitat corridors in otherwise open grassland landscapes.
+In the Great Plains, var. *monilifera* is often the dominant riparian tree, forming linear [[mollison-designers-gallery-forests-and-valley-bottomland-systems]] along rivers and streams. These gallery forests are critical habitat corridors in otherwise open grassland landscapes.
 
 ## Cultivation and Uses
 
@@ -83,7 +83,7 @@ Root systems help stabilize river banks and trap sediment, contributing to flood
 
 The species contributes significant coarse woody debris to stream systems when mature trees fall. This debris creates habitat complexity in rivers, forming pools and riffles that support diverse aquatic communities.
 
-Eastern cottonwood leaf litter decomposes rapidly, contributing nitrogen and organic matter to riparian soils. The high decomposition rate supports diverse detritivore communities and accelerates nutrient cycling in floodplain ecosystems.
+Eastern cottonwood leaf litter decomposes rapidly, contributing nitrogen and [[hamilton-composting-and-organic-matter-management]] to riparian soils. The high decomposition rate supports diverse detritivore communities and accelerates [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in floodplain ecosystems.
 
 ## Pests and Diseases
 
@@ -100,6 +100,8 @@ Cytospora canker (*Valsa sordida*) infects stressed or wounded trees, causing su
 The cottonwood borer (*Plectrodera scalator*) is one of the largest North American longhorned beetles and can cause significant damage to young plantation trees by girdling stems at the root collar.
 
 ## See Also
+
+- [[populus-heterophylla]]
 
 - [[populus-nigra]]
 - [[betula-nigra]]

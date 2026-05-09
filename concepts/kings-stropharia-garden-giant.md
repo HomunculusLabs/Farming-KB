@@ -1,5 +1,5 @@
 ---
-title: King Stropharia Garden Giant
+title: King kings stropharia garden giant Giant
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -36,14 +36,14 @@ One of the most fascinating aspects of King Stropharia biology is its ability to
 - The fungus then penetrates the nematode cuticle and digests it internally
 - This predatory ability helps control plant-parasitic nematodes in garden soils
 
-Research has shown that King Stropharia beds can significantly reduce populations of root-knot nematodes (Meloidogyne spp.) in infested soils, making it a valuable biological control agent in integrated pest management systems.
+Research has shown that King Stropharia beds can significantly reduce populations of root-knot nematodes (Meloidogyne spp.) in infested soils, making it a valuable [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent in integrated pest management systems.
 
 ## Ecological Role
 
 In permaculture and garden systems, King Stropharia provides multiple ecological functions:
 
-- Decomposes wood chips and woody mulch, accelerating nutrient cycling
-- Creates soil structure through mycelial network development
+- Decomposes wood chips and woody mulch, accelerating [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
+- Creates soil structure through [[gadd-mycelial-network-dynamics]] development
 - Controls plant-parasitic nematodes through predation
 - Enhances water retention in mulched beds
 - May form beneficial associations with plant roots (endophytic relationships)
@@ -142,16 +142,8 @@ Harvest when caps are fully expanded but before the gills darken significantly:
 - Expect 1-5 pounds per 10 square feet per year at maturity
 - Peak beds can produce impressive flushes of 10-20 pounds in a single fruiting event
 
-## Common Problems
-
-- Bed dries out: improve mulching and watering schedule
-- Slugs and snails: use beer traps or hand-pick; avoid poisons in food gardens
-- Competing fungi: use fresh substrate and adequate spawn rates
-- No fruiting: insufficient rain/moisture; try a deep soaking
-- Chip-eating insects (pillbugs): generally not a major problem
-
 ## Related Topics
 
 - [[wine-cap-stropharia-cultivation]] for detailed bed preparation and cultivation
-- kings stropharia garden giant for companion planting strategies
-- [[shiitake-cultivation-guide]] for another outdoor log/wood cultivation method
+- kings stropharia garden giant for [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] strategies
+- [[shiitake-cultivation-guide]] for another outdoor log/wood [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]]

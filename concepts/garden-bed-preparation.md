@@ -1,5 +1,5 @@
 ---
-title: Garden Bed Preparation
+title: Garden azurescens-outdoor-bed-preparation-woodchips
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-The ideal soil has a good crumbly structure, is rich in organic matter, drains well enough to prevent waterlogging in heavy rain, and provides nutrients for healthy plant growth. Each soil type (clay, silt, sand, chalk, peat) has specific advantages, disadvantages, and management requirements. A short period of observation and a soil test will establish which mineral predominates.
+The ideal soil has a good crumbly structure, is rich in [[hamilton-composting-and-organic-matter-management]], drains well enough to prevent waterlogging in heavy rain, and provides nutrients for healthy plant growth. Each soil type (clay, silt, sand, chalk, peat) has specific advantages, disadvantages, and management requirements. A short period of observation and a soil test will establish which mineral predominates.
 
 ## Identifying Your Soil Type
 
@@ -53,7 +53,7 @@ The main problem is drainage — silt has the smallest particles of any ground s
 
 ### Drainage
 - Dig 1-2 bucketfuls of coarse sand per sq yard/meter when adding organic matter
-- Raise ornamental beds and grow vegetables on deep bed system
+- Raise ornamental beds and grow vegetables on [[comparison-deep-bed-cultivation-vs-square-foot-gardening]] system
 
 ### Organic Matter
 - Liberal quantities of well-rotted compost or manure hold particles apart
@@ -94,7 +94,7 @@ Two big disadvantages: thin, dry, "hungry" (nutrients wash through rapidly), and
 ### Organic Matter
 - More than any other soil, keep the surface covered
 - Grow green-manure crop in winter; dig in during spring
-- During growing season, even sow fast-growing green manure between vegetables just to keep soil covered
+- During [[savory-growing-season-and-non-growing-season-management]], even sow fast-growing [[comparison-green-manure-guide-vs-mulch-types-and-effects]] between vegetables just to keep soil covered
 - Use acid materials as mulch: peat, grass cuttings, compost, manure
 
 ## Peat Soil Management
@@ -117,6 +117,6 @@ Potentially very fertile and usually easy to work — grow as intensively as you
 ## Related
 
 - [[acid-and-alkaline-soil-management]] — lime application and pH management
-- [[green-manure-crops-detailed]] — winter cover crops to protect soil
+- [[green-manure-crops-detailed]] — winter [[gaias-garden-cover-crops-soil-building]] to protect soil
 - [[soil-conditioners-guide]] — organic materials for soil improvement
 - [[garden-soil-basics]]

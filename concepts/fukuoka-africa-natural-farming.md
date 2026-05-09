@@ -1,11 +1,12 @@
 ---
-title: Fukuoka Africa Natural Farming
+title: Fukuoka Africa comparison-natural-farming-vs-permaculture
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka Africa Natural Farming
 
@@ -51,7 +52,7 @@ Fukuoka identified both internal and external causes:
 
 In the region that Fukuoka visited, hundreds of thousands of refugees from Ethiopia were living in temporary huts. These could hardly qualify even as huts, appearing to be little more than bird's nests made of thorny branches propped up against one another. The refugees poked fun at themselves by calling their housing "covered with dried leaves or a single, battered rag."
 
-The food in the camps consisted entirely of wheat from the U.S., old rice from Japan, and macaroni from Italy. There were no vegetables. A typical hut had just one pan, one knife, and one cup as tableware. This was often the sum total of a family's possessions.
+The food in the camps consisted entirely of wheat from the U.S., [[fukuoka-old-rice-variety-testing]] from Japan, and macaroni from Italy. There were no vegetables. A typical hut had just one pan, one knife, and one cup as tableware. This was often the sum total of a family's possessions.
 
 Through natural farming projects, they began eating daikon leaves and even the white roots that they had refused to touch at first. If everything goes well, Fukuoka predicted, they would soon be enjoying cool breezes in the shade of the fast-growing palmyra and banana trees.
 
@@ -83,3 +84,7 @@ Fukuoka's blunt advice: "People in developed countries should all get out of Afr
 - [[fukuoka-natural-diet-food-philosophy]] -- food philosophy and diet
 - [[desertification]] -- the broader problem of desert expansion
 - [[fukuoka-desert-revegetation-natural-farming]]
+
+## See Also
+
+- [[fukuoka-forty-days-africa]]

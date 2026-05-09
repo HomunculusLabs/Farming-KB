@@ -30,7 +30,7 @@ sources:
 ## Overview
 
 Methoxetamine (MXE) is a synthetic dissociative compound of the arylcyclohexylamine
-class, structurally related to ketamine and tiletamine with the addition of a
+class, structurally related to [[ketamine]] and tiletamine with the addition of a
 3-methoxy group and an N-ethyl group replacing the N-methyl of ketamine. First
 synthesized and sold online around 2010, it was marketed as a "research chemical"
 and gained popularity as a ketamine substitute with reportedly longer duration and
@@ -38,9 +38,9 @@ greater oral bioavailability. MXE acts primarily as an NMDA receptor antagonist 
 additionally exhibits activity at the dopamine and serotonin transporters (SERT and
 DAT), distinguishing its pharmacological profile from ketamine. Its recreational
 use declined sharply after scheduling in multiple countries and increasing reports
-of severe adverse effects including bladder toxicity, psychological dependence, and
+of severe [[blesching-cannabis-safety-adverse-effects-evidence]] including bladder toxicity, psychological dependence, and
 fatal overdoses. The compound remains a significant case study in novel
-psychoactive substance (NPS) harm reduction and drug policy.
+psychoactive substance (NPS) [[adverse-effects-and-harm-reduction-psilocybin]] and [[mckenna-modest-proposal-drug-policy-reform]].
 
 ## Chemical Identity
 
@@ -87,7 +87,7 @@ psychoactive substance (NPS) harm reduction and drug policy.
 - **Physical:** Analgesia, anesthesia at high doses, numbness, motor
   impairment, nausea, elevated heart rate and blood pressure, pupil dilation,
   nystagmus, loss of coordination
-- **Cognitive:** Dissociation from body and environment, ego dissolution,
+- **Cognitive:** Dissociation from body and environment, [[psilocybin-ego-dissolution-mechanisms]],
   conceptual thinking, enhanced introspection, memory disruption, difficulty
   forming new memories during acute effects
 - **Emotional:** Euphoria, empathy, anxiety or paranoia (dose-dependent),
@@ -119,7 +119,7 @@ psychoactive substance (NPS) harm reduction and drug policy.
 
 - **International:** Not scheduled under the UN Convention on Psychotropic
   Substances; several countries have enacted national controls
-- **UK:** Controlled under the Psychoactive Substances Act 2016; Class B drug
+- **UK:** Controlled under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016; Class B drug
   since 2015 under temporary class drug order
 - **EU:** Scheduled in many member states; EMCDDA risk assessment published 2012
 - **USA:** Not federally scheduled but may be prosecuted under the Federal
@@ -128,8 +128,8 @@ psychoactive substance (NPS) harm reduction and drug policy.
 
 ## See Also
 
-- [[dextromethorphan|Dextromethorphan]] — OTC dissociative NMDA antagonist
-- [[mdma|MDMA]] — serotonergic empathogen with overlapping SERT interaction risk
+- [[dextromethorphan]] — OTC dissociative NMDA antagonist
+- MDMA — serotonergic empathogen with overlapping SERT interaction risk
 
 ## See Also
 

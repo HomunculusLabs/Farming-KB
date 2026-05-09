@@ -17,7 +17,7 @@ sources:
   - "Leafly Staff (2023). \"White Runtz Cannabis Strain Information.\" Leafly.com."
   - "AllBud (2023). \"White Runtz Strain Review.\" AllBud.com."
   - "Hodge, B. (2021). \"The Runtz Family Tree: A Genetic Breakdown.\" Cannabis Now Magazine."
-  - "Cannabis Training University (2023). \"Growing White Runtz: Complete Guide.\" CTU.edu."
+  - "[[query-sog-vs-scrog-cannabis-training-methods]] University (2023). \"Growing White Runtz: Complete Guide.\" CTU.edu."
   - "WikiLeaf (2023). \"White Runtz Strain Information.\" WikiLeaf.com."
 ---
 
@@ -53,7 +53,7 @@ that gives mature buds a nearly white, snow-dusted appearance.
 - **Color:** Deep forest green to olive base with occasional purple and blue
   undertones, especially when exposed to cooler nighttime temperatures
 - **Trichome coverage:** Exceptionally heavy; buds appear nearly white or
-  frosted due to massive glandular trichome production
+  frosted due to massive [[cannabis-glandular-trichome-types-resin-production-clarke]] production
 - **Pistils:** Abundant, thin, orange to amber-colored stigmas winding
   through the calyxes
 - **Resin production:** Extremely high; sticky to the touch, leaving
@@ -104,16 +104,16 @@ that gives mature buds a nearly white, snow-dusted appearance.
 - **Yield:** 350–450 g/m² indoors; 400–550 g/plant outdoors
 - **Height:** 80–130 cm indoors; up to 180 cm outdoors
 - **Difficulty:** Moderate to advanced; requires attention to humidity and
-  nutrient management
+  [[green-cannabis-grow-bible-nutrient-management-ppm]]
 - **Climate:** Prefers warm, Mediterranean-like climate; 20–28°C daytime
 - **Resistance:** Moderate resistance to mold and mildew; susceptible to
   spider mites and powdery mildew in high humidity
 - **Nutrient needs:** Heavy feeder during flowering; responds well to
-  phosphorus and potassium supplementation; watch for nitrogen toxicity
+  phosphorus and potassium supplementation; watch for [[query-how-to-fix-nitrogen-toxicity-in-cannabis]]
   in vegetative stage
-- **Training techniques:** Low-stress training (LST), SCROG, and topping
+- **[[cannabis-training-techniques-comparison]]:** Low-stress training (LST), SCROG, and topping
   recommended to maximize light penetration and yield
-- **Resin production:** Peak trichome development in weeks 7–9; harvest
+- **Resin production:** Peak [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]] in weeks 7–9; harvest
   when 70–80% of trichomes are milky white
 - **Clone performance:** Clones widely available from licensed nurseries;
   retains stable phenotype across generations
@@ -139,8 +139,6 @@ that gives mature buds a nearly white, snow-dusted appearance.
   of the 2020s
 - The strain's premium pricing (often $60–80+ per eighth in legal markets)
   reflects its reputation, limited availability, and high demand
-- Represents the peak of the "dessert strain" breeding trend that dominated
-  the late 2010s cannabis market
 ## See Also
 
 - [[zkittlez]]

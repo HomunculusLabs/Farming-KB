@@ -1,5 +1,5 @@
 ---
-title: IMO Collection and Multi-Stage Cultivation
+title: bahay-kubo-imo-collection-and-preparation and Multi-Stage Cultivation
 created: 2026-04-28
 tags: [knf, indigenous-microorganisms, natural-farming, soil-biology, master-cho]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: concept
 
 ## Overview
 
-Indigenous Microorganisms (IMO) are the foundation of Korean Natural
+[[beneficial-indigenous-microorganisms-bim]] (IMO) are the foundation of [[query-jadam-vs-korean-natural-farming]]
 Farming (KNF) as developed by Master Han Kyu Cho. IMO are defined as
 organisms that have lived in harmony with the soil in a particular
 region, contributing to establishing the environment they inhabit. They
@@ -32,7 +32,7 @@ numbers to transform soil biology.
 
 The practical importance of IMO lies in their ability to decompose
 complex organic materials, catalyze chemical processes in soil through
-enzyme production, revitalize entire ecosystems by restoring food chains
+[[ligninolytic-enzyme-production-bioremediation]], revitalize entire ecosystems by restoring food chains
 from bacteria to earthworms, and suppress diseases by maintaining
 natural microbial balance. [[cho-fermented-plant-juice-preparation]] of Japanese mugwort and
 dropwort (1:500 dilution), brown rice vinegar (1:500), and
@@ -75,7 +75,7 @@ Celsius being optimal for most processes.
 
 IMO application transforms degraded agricultural soils by restoring
 microbial diversity. Fields recover fertility and soil becomes soft and
-fluffy when IMO mixed with lactic acid bacteria preparation knf
+fluffy when IMO mixed with lactic [[lactic-acid-bacteria-knf]] preparation knf
 is sprayed. This approach addresses the fundamental problem of modern
 agriculture: the destruction of soil biological communities through
 chemical inputs.
@@ -86,7 +86,7 @@ When used during transplanting, IMO accelerates root growth and
 enhances initial plant establishment. Combining IMO with [[korean-natural-farming]]
   Institute. Sections on Indigenous Microorganisms (IMO) #1 through
   #4, collection methods, and multi-stage cultivation.
-- Cho, H.K. Korean Natural Farming: Indigenous Microorganisms. KNF
+- Cho, H.K. Korean [[comparison-natural-farming-vs-permaculture]]: Indigenous Microorganisms. KNF
   training materials.
 
 ## See Also

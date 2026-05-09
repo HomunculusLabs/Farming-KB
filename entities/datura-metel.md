@@ -75,7 +75,7 @@ The plant grows readily in disturbed habitats, cultivated fields, waste
 grounds, and along roadsides. It prefers well-drained, nutrient-rich soils
 and full sun exposure. Its weedy adaptability has facilitated its spread far
 beyond its original range, and it is now found across much of South and
-Southeast Asia, Africa, and the Americas.
+[[psilocybe-southeast-asia-pacific]], Africa, and the Americas.
 
 ## Chemical Constituents
 
@@ -128,5 +128,5 @@ demonstrates its long-standing importance in traditional medicine.
 ## See Also
 
 - [[atropa-belladonna]] — European nightshade with tropane alkaloids
-- [[anadenanthera-colubrina]] — South American tryptamine-containing tree
+- [[anadenanthera-colubrina]] — [[chiric-caspi-brunfelsia-south-american-hallucinogen]] tryptamine-containing tree
 - [[tabernanthe-iboga]] — African shrub with ibogaine

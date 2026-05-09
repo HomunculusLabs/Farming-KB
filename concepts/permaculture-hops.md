@@ -3,23 +3,14 @@ title: Hops
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[permaculture, design]
-sources: []
+tags: [permaculture, design]
+sources:
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
+Updated: 2026-04-18 Hops (Humulus lupulus) are perennial climbing plants best known for their role in beer production. The flowers contain antimicrobial compounds and natural sedative properties. They serve multiple functions in willows-salix-spp, hazelnut, or [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] that can serve as living trellises. The shade they provide can benefit understory plants in summer. Avoid planting near sensitive plants that cannot compete with the vigorous vine. ## Medicinal Uses Hops have documented sedative and calming properties. Hop pillows (stuffed with dried flowers) are a traditional sleep aid. Hop extracts are used in herbal medicine for anxiety and insomnia. The antimicrobial compounds in hops (humulone and lupulone) help preserve beer and have been studied for other antimicrobial applications. ## [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] [[cervantes-downy-mildew-fungal-blight]] and [[cervantes-powdery-mildew-prevention-treatment]] are the most common diseases. [[cervantes-spider-mites-identification-control]], aphids, and Japanese beetles can affect plants. Ensure good [[stamets-growing-room-air-circulation-co2-management]] around the base of the vines. Remove and destroy infected foliage. See [[permaculture-vine-crops]]
 
-Updated: 2026-04-18
-
-Hops (Humulus lupulus) are perennial climbing plants best known for their role in beer production. The flowers contain antimicrobial compounds and natural sedative properties. They serve multiple functions in [[willows-salix-spp]], hazelnut, or fruit trees that can serve as living trellises. The shade they provide can benefit understory plants in summer. Avoid planting near sensitive plants that cannot compete with the vigorous vine.
-
-## Medicinal Uses
-
-Hops have documented sedative and calming properties. Hop pillows (stuffed with dried flowers) are a traditional sleep aid. Hop extracts are used in herbal medicine for anxiety and insomnia. The antimicrobial compounds in hops (humulone and lupulone) help preserve beer and have been studied for other antimicrobial applications.
-
-## Pests and Diseases
-
-Downy mildew and powdery mildew are the most common diseases. Spider mites, aphids, and Japanese beetles can affect plants. Ensure good air circulation around the base of the vines. Remove and destroy infected foliage. See [[permaculture-vine-crops]]
-
-- [[permaculture-zone-planning]]
+- permaculture-zone-planning
 
 - [[jadam-fruit-tree-winter-pest-control]]
 ## Practical Applications
@@ -99,4 +90,5 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[humulus-lupulus]]

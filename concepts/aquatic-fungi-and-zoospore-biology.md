@@ -1,5 +1,5 @@
 ---
-title: Aquatic Fungi and Zoospore Biology
+title: bloomfield-ingoldian-aquatic-fungi-spore-dispersal and bloomfield-oomycete-zoospore-biology-flagella-chemotaxis-galvanotaxis
 created: 2026-04-28
 tags:
   - mycology
@@ -29,14 +29,14 @@ that guide these organisms to their hosts.
 
 ## Ingoldian Hyphomycetes
 
-In 1938, Cecil [[freshwater-fungi-ingoldian-spores]] reach concentrations
+In 1938, Cecil freshwater-fungi-ingoldian-spores reach concentrations
 of 20,000 per liter of water. Their diverse shapes are adaptations for
 dispersal by water currents: the appendages increase surface area and
 drag, improving the likelihood of settling on submerged leaves.
 As the spores flow downstream, they colonize submerged leaves and spawn
 mycelia that soften and macerate the plant tissues by secreting
 cellulose-degrading enzymes. This decomposition is a critical process
-in freshwater nutrient cycling.
+in freshwater [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 Henry Descals, an authority on Ingoldian fungi, has been working on a
 definitive monograph of the group for more than twenty years. To isolate
 spores from the surface of decaying leaves, he plucks his long
@@ -47,7 +47,7 @@ tips as perfect instruments for manipulating these microscopic jewels.
 
 Oomycetes (water molds) are stramenopile organisms, only distantly
 related to true fungi (Kingdom Fungi), but traditionally studied by
-mycologists due to their hyphal growth form, absorptive nutrition, and
+mycologists due to their [[bloomfields-orchard-hyphal-growth-and-invasive-biology]] form, absorptive nutrition, and
 spore production.
 Their cell walls contain cellulose microfibrils (staining blue with
 iodine, unlike true fungi), and their membranes lack ergosterol, making
@@ -118,5 +118,5 @@ In laboratory settings, zoospores can be directed by electrodes
 
 - [[hyphal-biology-and-turgor-pressure]]
 - [[human-fungal-pathogens]]
-- fungal sexual reproduction and pheromones
+- fungal [[fungal-life-cycles-sexual-reproduction-metamorphosis]] and pheromones
 - oomycete plant pathogens

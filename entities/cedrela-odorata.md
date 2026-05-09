@@ -24,11 +24,11 @@ created: 2026-05-07
 
 It is one of the most economically important timber species in the Neotropics, valued for its aromatic, rot-resistant wood.
 
-The species ranges from southern Mexico through Central America to northern South America and the Caribbean.
+The species ranges from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to northern South America and the Caribbean.
 
 Cedrela odorata wood is the traditional material for cigar boxes, humidors, and classical guitar construction.
 
-In permaculture and agroforestry systems, it is planted as a shade tree, windbreak, and timber crop in diversified tropical plantings.
+In permaculture and agroforestry systems, it is planted as a [[mollison-designers-legume-shade-tree-pasture-systems]], windbreak, and timber crop in diversified tropical plantings.
 
 The species is listed as Vulnerable on the IUCN Red List due to overexploitation and habitat loss.
 
@@ -107,9 +107,9 @@ Its fast growth rate (1.5–3 m/year in plantations) makes it effective for rapi
 
 The species is compatible with nitrogen-fixing companion trees such as Inga spp. and Gliricidia sepium in diversified tropical agroforests.
 
-Fallen leaves contribute to mulch and soil organic matter, improving soil structure and nutrient cycling in mixed plantings.
+Fallen leaves contribute to mulch and soil [[hamilton-composting-and-organic-matter-management]], improving soil [[root-anatomy-structure-and-nutrient-uptake]] cycling in mixed plantings.
 
-The aromatic wood's pest resistance reduces the need for chemical treatments in constructed applications.
+The aromatic wood's [[cannabis-disease-pest-resistance-breeding-clarke]] reduces the need for chemical treatments in constructed applications.
 
 ## Cultivation
 
@@ -133,5 +133,5 @@ Mixed-species plantations with diverse canopies show reduced Hypsipyla damage co
 - [[leucaena-leucocephala]]
 - [[moringa-oleifera]]
 - [[ganoderma-lucidum]]
-- [[permaculture]]
+- permaculture
 - [[agroforestry]]

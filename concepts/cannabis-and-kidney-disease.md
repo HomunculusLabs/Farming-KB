@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis and Kidney Disease
 
-**Source:** The Cannabis Health Index, Uwe Blesching, PhD (2017)
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]], Uwe Blesching, PhD (2017)
 **Updated:** 2026-04-19
 
 ## Evidence-Based Therapeutic Potential
@@ -25,7 +25,7 @@ Chronic kidney disease affects approximately 10% of the global population and is
 
 ## Cannabis and Kidney Disease
 
-Research specifically on cannabis for kidney disease is very limited. However, the endocannabinoid system is present in renal tissue, and cannabinoids have demonstrated anti-inflammatory and analgesic properties that may be relevant to kidney disease management.
+Research specifically on cannabis for kidney disease is very limited. However, the endocannabinoid system is present in renal tissue, and cannabinoids have demonstrated anti-inflammatory and analgesic properties that may be relevant to kidney [[plant-disease-management-solomon]].
 
 ### Study Summary
 
@@ -54,7 +54,7 @@ Additional cautions include:
 
 Cannabis may help manage symptoms commonly experienced by kidney disease patients:
 
-- Chronic pain (from polycystic kidney disease, renal osteodystrophy, or dialysis access-related pain)
+- [[cannabis-chronic-pain-management]] (from polycystic kidney disease, renal osteodystrophy, or dialysis access-related pain)
 - Nausea and vomiting (uremic symptoms and medication side effects)
 - Insomnia and sleep disturbances
 - Anxiety and depression related to chronic illness
@@ -90,3 +90,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[cannabis-and-crohn-disease]]

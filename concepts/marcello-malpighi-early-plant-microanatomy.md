@@ -25,14 +25,14 @@ the two founders of [[nineteenth-century-mushroom-cultivation]] by Schleiden and
 
 - **Vascular anatomy**: Malpighi provided detailed descriptions of the
   vascular bundles in plant stems, distinguishing between what we now
-  recognize as xylem and phloem tissues. His understanding of how these
+  recognize as [[xylem-and-phloem-transport-systems-in-plants]] tissues. His understanding of how these
   tissues were arranged in different plant organs was remarkably
   prescient.
 
 - **Leaf structure**: His studies of leaf anatomy revealed the internal
   organization of the mesophyll, the epidermis, and the stomatal
   apparatus, providing a structural basis for understanding
-  transpiration and gas exchange in plants.
+  transpiration and [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]] in plants.
 
 - **Growth and development**: Malpighi investigated how plant structures
   develop over time, making observations about the growth of stems and

@@ -1,5 +1,5 @@
 ---
-title: Neurotropic Fungi Colombia Species Diversity And Ecology
+title: challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification Colombia Species Diversity And Ecology
 created: 2026-04-28
 tags:
   - mycology
@@ -34,12 +34,12 @@ Andes mountain range splits into three cordilleras (Western, Central, and
 Eastern), creating an extraordinary diversity of microclimates and
 ecosystems. These include tropical lowland rainforests, cloud forests,
 paramo grasslands, and temperate highland zones, each potentially suitable
-for different neurotropic fungal species.
+for different [[mexico-center-neurotropic-fungal-biodiversity]] species.
 
 The country lies between Panama to the north and Ecuador, Peru, Brazil, and
 Venezuela to the south and east. This position makes it a key area for
 understanding the biogeographic connections between the Central American
-and South American neurotropic mycofloras.
+and [[chiric-caspi-brunfelsia-south-american-hallucinogen]] neurotropic mycofloras.
 
 ## Confirmed Neurotropic Species
 
@@ -76,5 +76,5 @@ Colombia:
 
 - [Neurotropic Fungi in South America](guzman-allen-gartz-neurotropic-fungi-south-america.md)
 - [Neurotropical Psilocybe Species](guzman-allen-gartz-neotropical-psilocybe-species.md)
-- [Psilocybe Cubensis Distribution and Ecology](psilocybe-cubensis-distribution-and-ecology.md)
-- [Copelandia Genus Species Guide](copelandia-genus-species-guide.md)
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] Distribution and Ecology](psilocybe-cubensis-distribution-and-ecology.md)
+- [[guzman-allen-gartz-copelandia-genus-diversity-biogeography]] Species Guide](copelandia-genus-species-guide.md)

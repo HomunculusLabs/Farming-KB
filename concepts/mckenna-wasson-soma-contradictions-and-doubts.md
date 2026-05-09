@@ -10,10 +10,10 @@ type: concept
 
 # Wasson's Contradictions and Doubts About the Soma Identity
 
-Despite his lifelong advocacy for Amanita muscaria as Soma, Gordon
+Despite his lifelong advocacy for [[allegro-amanita-muscaria-properties-and-pharmacology]] as Soma, Gordon
 Wasson's own writings and private correspondence reveal deep
 ambivalence, contradictions, and ultimately a refusal to follow the
-evidence where it led regarding psilocybin mushrooms as the more
+evidence where it led regarding [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] as the more
 plausible candidate.
 
 ## Wasson's Published Contradictions
@@ -32,7 +32,7 @@ do not conform to Brahmanic practices; they are known to tribals and
 sudras (untouchables). Soma on the other hand exacts self-discipline of
 the priests, a long initiation and training: it is, for proper
 exploitation, an affair of a priestly elite. The possible role of
-Stropharia cubensis growing in the dung of cattle in the lives of the
+[[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] growing in the dung of cattle in the lives of the
 lower orders remains to this day wholly unexplored.
 
 Wasson even asked himself whether Stropharia cubensis could have been a
@@ -70,7 +70,7 @@ seem to indicate. In 1977 Wasson wrote the following in answer to an
 inquiry concerning the Stropharia versus Amanita question:
 
 When Roger Heim and I went to India in 1967, in the Simlipal Hills of
-Orissa, I was given an account of a mushroom growing in cow's dung that
+Orissa, I was given an account of a [[duggar-mushroom-growing-history-and-methods]] in cow's dung that
 tallied perfectly with Str. cubensis even to its psychoactive powers.
 My informant said that everyone avoided it. He seemed not to be
 withholding anything. He said he would deliver the mushroom to us, but
@@ -98,7 +98,7 @@ cultures themselves.
 
 The increasing dryness of the region could possibly have prompted a
 search for mushroom substitutes long before the Indo-European invasions.
-When mushroom supplies grew low, Peganum harmala (Syrian rue), which
+When mushroom supplies grew low, [[mckenna-food-gods-peganum-harmala-soma]] ([[golden-guide-syrian-rue-and-maoi-plants]]), which
 contains the beta-carboline harmaline, might have been used in
 combination with psilocybin to synergize and enhance its effects.
 Harmaline is more psychoactive and less toxic than its near relative
@@ -119,6 +119,8 @@ subpopulations but refused to entertain the possibility that it was the
 original Soma, preferring instead the unsatisfying Amanita muscaria.
 
 ## See Also
+
+- [[mckenna-wasson-soma-doubts-and-stropharia-case]]
 
 - [[mckenna-wasson-amanita-theory-and-objections-to-fly-agaric]] - the Amanita case
 - [[mckenna-food-gods-peganum-harmala-soma]] - harmaline as Soma replacement

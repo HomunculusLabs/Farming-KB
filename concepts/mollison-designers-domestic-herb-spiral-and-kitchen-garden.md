@@ -1,5 +1,5 @@
 ---
-title: Domestic Herb Spiral and Kitchen Garden
+title: mollison designers domestic herb spiral and kitchen garden Spiral and holzer-kitchen-garden-herbs-and-medicinal-plants
 created: 2026-04-28
 tags:
   - permaculture
@@ -30,7 +30,7 @@ and cool. The south-facing side (northern hemisphere) receives more sun and
 heat, while the north-facing side remains cooler.
 
 This microclimate gradient allows the gardener to grow herbs with widely
-different environmental preferences in a single structure. Mediterranean herbs
+different environmental preferences in a single structure. [[query-best-mediterranean-herbs-for-beginner-herb-garden]]
 such as rosemary, thyme, and oregano thrive at the hot, dry top. Moisture-
 loving herbs like mint, parsley, and chervil grow at the cool, damp base.
 Sun-loving basil occupies the sunny side, while shade-tolerant cilantro and
@@ -53,7 +53,7 @@ year-round through a combination of:
 - **Winter**: Hardy greens (kale, mizuna, corn salad), overwintering
   alliums, and protected crops under cloches or cold frames.
 
-Season extension structures such as cold frames and cloches should be
+[[comparison-season-extension-techniques-vs-cold-frame-gardening]] structures such as cold frames and cloches should be
 integrated into the zone 1 layout, positioned for convenient access during
 cold weather.
 
@@ -62,7 +62,7 @@ cold weather.
 Intensive raised beds maximize production in zone 1 by providing deep,
 well-drained, nutrient-rich soil in a format optimized for high-density
 planting. Beds are typically 15 to 30 centimeters raised, filled with a mix
-of topsoil, compost, and organic matter. The raised format improves drainage,
+of topsoil, compost, and [[hamilton-composting-and-organic-matter-management]]. The raised format improves drainage,
 reduces soil compaction, and brings the growing surface closer to the
 gardener for easier access.
 
@@ -87,6 +87,6 @@ principles at the smallest practical scale.
 > immediately adjacent to the home. The herb spiral creates multiple
 > microclimates for diverse herb species within a compact spiral structure,
 > while the broader kitchen garden integrates intensive raised beds, seasonal
-> planning, culinary and medicinal herbs, and connections to composting,
+> planning, culinary and [[permaculture-plants-medicinal-herbs-healing]], and connections to composting,
 > water systems, and small livestock. These elements maximize the yield and
 > convenience of the most frequently accessed growing areas.

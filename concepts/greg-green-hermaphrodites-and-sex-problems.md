@@ -1,5 +1,5 @@
 ---
-title: "Hermaphrodites and Sex Problems"
+title: "greg green hermaphrodites and sex problems Problems"
 created: 2026-04-28
 tags: [cannabis, hermaphrodite, sexing, stress, breeding]
 date: 2026-04-25
@@ -66,16 +66,16 @@ inspections, especially during weeks three through six of flowering.
 Hermies cause problems because they may carry the hermie trait with their
 offspring. Genetically, a hermaphrodite will only produce female seeds and
 hermaphrodite seeds. It will never produce a male seed. If a grower has
-seen all female seeds advertised by seed banks, these seeds come from
+seen all female seeds advertised by [[cannabis-seed-banks-and-genetics]], these seeds come from
 female plants which are stressed into producing male flowers. The plants
 then self pollinate themselves and the results are female and
 hermaphrodite seeds.
 
 In a special case, a female known as an XX female will produce more female
 seeds than hermaphrodite seeds. This is the basis for commercial feminized
-seed production. However, in general, growers try to keep away from any
+[[cervantes-seed-production-storage]]. However, in general, growers try to keep away from any
 hermie plants because they will spoil a sinsemilla crop. Having pollen
-floating around in the grow room from a hermie plant will spoil everything
+floating around in the [[cannabis-grow-room-setup]] from a hermie plant will spoil everything
 else, including breeding projects.
 
 Abnormal bud growth is a side effect of hermaphroditism. Because the plant
@@ -86,7 +86,7 @@ and the quantity of female bud produced is decreased due to pollination.
 
 Selfing is the ability for a plant to produce seeds without the aid of
 another plant. This refers to hermaphrodite plants that self pollinate.
-There is no gene pool or population with regards to hermaphrodites since
+There is no [[cannabis-gene-pool-preservation-acclimatization-clarke]] or population with regards to hermaphrodites since
 the only pollen used is what the plant generates itself. Both male and
 female flowers are located on the same plant.
 

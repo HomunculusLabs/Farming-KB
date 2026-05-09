@@ -1,10 +1,11 @@
 ---
-title: "How to Fix Potassium Deficiency in Cannabis"
+title: "How to Fix knf-potassium-deficiency-and-excess in Cannabis"
 created: 2026-04-28
 tags: [query, cannabis, nutrients, deficiency, potassium]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -12,9 +13,9 @@ type: query
 
 ## Short Answer
 Potassium deficiency in cannabis causes brown or yellow edges on older leaves, curling
-leaf tips, and weak stems that make plants susceptible to pests and diseases. Fix it
+leaf tips, and weak stems that make plants susceptible to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. Fix it
 by adjusting pH, supplementing with potassium sulfate, kelp meal, or wood ash, and
-ensuring adequate potassium levels during the heavy-feeding flowering stage.
+ensuring adequate potassium levels during the heavy-feeding [[cannabis-flowering-stage-management]].
 
 ## Detailed Explanation
 
@@ -31,10 +32,10 @@ as the plant mobilizes potassium from mature tissue to support new growth. Early
 signs include brown or bronze discoloration along the leaf margins and tips, often
 described as a scorching or burning appearance. As the deficiency worsens, leaves
 may develop yellow or necrotic spots between the veins, curl upward or downward at
-the margins, and eventually dry out and become brittle. The [[query-what-is-cal-mag-and-when-do-cannabis-plants-need-it]]
+the margins, and eventually dry out and become brittle. The 
 without compensating with additional potassium. High sodium levels from poor-quality
 water or accumulated salts can also interfere with potassium absorption. In
-hydroponic systems, potassium deficiency can occur when the nutrient solution is
+hydroponic systems, potassium deficiency can occur when the [[cannabis-nutrient-solution-preparation]] is
 not changed frequently enough and potassium becomes depleted while other elements
 remain in excess. The [[living-soil-cannabis]] should top-dress with potassium-rich
 amendments like kelp meal, langbeinite, or wood ash at the transition to flowering.
@@ -60,10 +61,10 @@ Environmental stress can exacerbate potassium deficiency symptoms. High temperat
 increase transpiration rates, which increases potassium demand as the plant moves
 more water through its tissues. Plants grown under intense light or with CO2
 supplementation also have elevated potassium requirements because their accelerated
-metabolism drives faster nutrient cycling. If you are pushing your environment for
+metabolism drives faster [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. If you are pushing your environment for
 maximum yield, you need to push your potassium levels accordingly. The
 [[cannabis-potassium]] provides comprehensive symptom identification and treatment
-  protocols for all growing mediums
+  protocols for all [[cervantes-growing-mediums-comparison]]
 - Organic sources like kelp meal, comfrey tea, and wood ash provide potassium along
   with beneficial micronutrients and growth hormones
 
@@ -92,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

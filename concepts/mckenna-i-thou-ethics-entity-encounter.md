@@ -1,5 +1,5 @@
 ---
-title: I/Thou Ethics in the Tryptamine Entity Encounter
+title: I/Thou Ethics in the Tryptamine mckenna-dmt-i-thou-relationship-entity-encounter-ethics
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -14,14 +14,14 @@ sources:
 
 In his 1983 Esalen lecture, Terence McKenna articulated a distinctive ethical
 framework for engaging with the autonomous entities encountered under the
-influence of tryptamine hallucinogens, particularly DMT and psilocybin. Drawing
+influence of [[mckenna-tryptamine-hallucinogens-and-consciousness]], particularly DMT and psilocybin. Drawing
 implicitly on Martin Buber's philosophy of dialogue, McKenna argued that the
 appropriate stance toward the beings one encounters in these states is one of
-I/Thou relationship — meeting the Other as an equal with dignity, skepticism,
+I/[[i-thou-relationship-hyperspace-entities-tryptamine]] — meeting the Other as an equal with dignity, skepticism,
 and open inquiry — rather than the genuflection and worship that such
 encounters might otherwise seem to demand. This ethical orientation represents
-a significant contribution to the phenomenology of entity encounters and has
-implications for both psychedelic therapy and the comparative study of religious
+a significant contribution to the phenomenology of [[dmt-entity-encounters-and-the-logos]] and has
+implications for both [[metzner-psycholytic-psychedelic-therapy-models]] and the comparative study of religious
 experience.
 
 ## The Problem of Genuflection
@@ -82,7 +82,7 @@ provides a principled basis for maintaining it.
 ## The Reassurance of the Elves
 
 A striking feature of McKenna's account is the way the entities themselves
-appear to reinforce the I/Thou stance. The self-transforming machine elves,
+appear to reinforce the I/Thou stance. The self-transforming [[dmt-self-transforming-machine-elves-mckenna]],
 as he described them, actively discouraged passive wonder: "Don't get a loop
 of wonder going that quenches your ability to understand. Try not to be so
 amazed. Try to focus and look at what we're doing." This is a remarkable

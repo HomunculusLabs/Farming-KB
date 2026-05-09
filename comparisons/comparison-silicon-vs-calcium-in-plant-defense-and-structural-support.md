@@ -25,7 +25,7 @@ type: comparison
 
 # Silicon vs Calcium in Plant Defense and Structural Support
 
-Silicon (Si) and calcium (Ca) are two elements that, while not classified as essential for all plants, play outsized roles in structural integrity and stress resilience. Comparing them is essential for growers designing [[integrated-pest-management|IPM strategies]], because they operate through fundamentally different mechanisms—one primarily physical, the other biochemical—yet both reinforce cell walls and activate defense pathways. Understanding where each element excels helps allocate amendment budgets efficiently.
+Silicon (Si) and calcium (Ca) are two elements that, while not classified as essential for all plants, play outsized roles in structural integrity and stress resilience. Comparing them is essential for growers designing [[integrated-pest-management]], because they operate through fundamentally different mechanisms—one primarily physical, the other biochemical—yet both reinforce cell walls and activate defense pathways. Understanding where each element excels helps allocate amendment budgets efficiently.
 
 ## Side-by-Side Comparison
 
@@ -75,7 +75,7 @@ During pathogen recognition via PAMP-triggered immunity (PTI), Ca²⁺ influx is
 ## Where Silicon Excels
 
 - **Grasses and monocots:** Rice, sugarcane, wheat, barley, and millet are active Si accumulators; they can contain 1–10% Si on a dry weight basis. Among these, rice is the best-studied example—Si deficiency in flooded rice leads to 30–50% yield losses from increased disease and lodging.
-- **Physical defense against chewing insects:** Silica-laden tissues are the primary defense in grass-dominated systems; see [[soil-testing-and-analysis|soil fertility]] should test for both elements, as acidic, leached soils often lack both. For growers using [[integrated-pest-management|IPM]] for layered defense; Si and Ca reduce pest pressure but don't replace crop rotation or beneficial organisms.
+- **Physical defense against chewing insects:** Silica-laden tissues are the primary defense in grass-dominated systems; see [[soil-testing-and-analysis]] should test for both elements, as acidic, leached soils often lack both. For growers using [[integrated-pest-management]] for layered defense; Si and Ca reduce pest pressure but don't replace crop rotation or beneficial organisms.
 
 ## Quick-Reference Summary
 
@@ -90,6 +90,6 @@ During pathogen recognition via PAMP-triggered immunity (PTI), Ca²⁺ influx is
 
 ---
 
-*Both silicon and calcium are underappreciated in organic and permaculture systems compared to NPK macronutrients. Including both in your [[gaias-garden-nutrient-accumulators-dynamic-accumulators]] — plants that concentrate specific minerals
+*Both [[silicon]] and calcium are underappreciated in organic and [[permaculture]] systems compared to NPK macronutrients. Including both in your gaias-garden-nutrient-accumulators-dynamic-accumulators — plants that concentrate specific minerals
 - [[integrated-pest-management]] — combining Si/Ca with biological controls
 - [[plant-propagation-techniques]] — Ca needs in seedling media

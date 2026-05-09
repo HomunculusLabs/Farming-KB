@@ -1,5 +1,5 @@
 ---
-title: Solar Chimneys and Passive Cooling in Desert Housing
+title: mollison designers solar chimneys and passive cooling in desert housing and Passive Cooling in Desert Housing
 created: 2026-04-26
 tags:
   - solar-chimney
@@ -40,11 +40,11 @@ air. Hanging ferns or house plants aid in cooling, as does a water
 tank placed within the arbor.
 
 **Earth tunnels:** Opened as ditches 20 m long and 1 m deep, with
-large pipes, half-round culverts, or evaporative cooling materials
+large pipes, half-round culverts, or [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] materials
 provided in their air flow. Large unglazed pots, pans of wet coke, or
 curtains of coarse fibreglass weave can be drip-fed to provide
 evaporative cooling. Even beds of coarse bark kept damp does the job.
-Cool humid air continually falls through these tunnels to the house
+[[mollison-designers-cool-humid-climate-design-overview]] air continually falls through these tunnels to the house
 rooms.
 
 **Down-draughts:** Sails, slats, or wind-scoops on roof areas, either
@@ -78,7 +78,7 @@ on the sun side, a continuous cool and humid air cross flow results.
 Provided the cool air can enter the living areas by a fairly direct
 route, and that some water is available to supply the vines with
 evaporative cooling, air can commonly be cooled to 10-15 degrees C
-below ambient temperature by this combination of shade, vines, and
+below [[jadam-ambient-temperature-principle]] by this combination of shade, vines, and
 induced air-flow. The same cross-flow from earth tunnels also supplies
 unlimited cool air.
 
@@ -111,9 +111,11 @@ houses.
 
 ## Related Topics
 
-- [[mollison-cross-ventilation-passive-cooling]] - Passive cooling
+- mollison-cross-ventilation-passive-cooling - Passive cooling
   principles
-- [[mollison-reactive-house-and-sustainable-structures]] - Sustainable
+- mollison-reactive-house-and-sustainable-structures - Sustainable
   building approaches
 - [[mollison-designers-home-energy-conservation-and-solar-heating]]
-  - Home energy systems
+  - [[mollison-designers-home-energy-conservation-and-solar-heating]] systems
+- [[mollison-designers-passive-solar-building]]
+- [[mollison-designers-passive-solar-heating-building-design]]

@@ -21,7 +21,7 @@ sources:
 
 White yam accounts for approximately 70–75% of total yam production worldwide, with Nigeria alone producing over 50 million tonnes annually. The species is a dietary staple for over 300 million people across the yam belt of West Africa.
 
-The tubers are rich in complex carbohydrates and serve as a critical food security crop in regions where cereals and other staples are unreliable. White yam also holds deep cultural significance in traditional ceremonies and social systems.
+The tubers are rich in complex carbohydrates and serve as a critical food security crop in regions where cereals and other staples are unreliable. White yam also holds deep [[ethnomycology-cultural-significance-sacred-fungi]] in traditional ceremonies and social systems.
 
 ## Taxonomy and Morphology
 
@@ -39,7 +39,7 @@ Flowers are small, greenish-yellow, and arranged in axillary spikes or panicles.
 
 White yam is native to the savanna and forest-savanna transition zones of West Africa, from Senegal eastward to Cameroon and southward to the Democratic Republic of Congo. The species was domesticated in this region approximately 5,000–7,000 years ago.
 
-The crop thrives in tropical climates with annual rainfall of 1,000–1,500 mm distributed over a 6–8 month growing season. It requires well-drained, sandy loam to loamy soils with pH 5.5–6.5 and moderate to high fertility.
+The crop thrives in tropical climates with annual rainfall of 1,000–1,500 mm distributed over a 6–8 month [[savory-growing-season-and-non-growing-season-management]]. It requires well-drained, sandy loam to loamy soils with pH 5.5–6.5 and moderate to high fertility.
 
 Optimal growth temperatures range from 25–30°C, with growth ceasing below 15°C. White yam is sensitive to waterlogging and heavy clay soils, though it tolerates seasonal drought once established through its deep root system.
 
@@ -71,7 +71,7 @@ The tubers contain dioscorine, a mildly toxic alkaloid that is destroyed by cook
 
 In traditional farming systems, white yam is intercropped with maize, cassava, cowpea, and vegetables in complex polycultures. The climbing habit allows yam to exploit vertical space above shorter companion crops.
 
-Yam contributes to soil health through the incorporation of crop residues and the organic matter returned from discarded peelings and processing waste. The mounding practice used in yam cultivation helps aerate soil and manage weeds.
+Yam contributes to soil health through the incorporation of crop residues and the [[hamilton-composting-and-organic-matter-management]] returned from discarded peelings and processing waste. The mounding practice used in yam cultivation helps aerate soil and manage weeds.
 
 In permaculture systems, white yam can be integrated into tropical food forests as a productive vine layer. It pairs well with nitrogen-fixing support trees that provide staking and partial shade.
 
@@ -81,11 +81,11 @@ The crop faces increasing pressure from population growth, urbanization, and dec
 
 Yam nematode (*Scutellonema bradys*) is the most damaging pest of stored white yam, causing dry rot that can destroy up to 50% of tubers in traditional storage. The nematode infects tubers in the field and continues to develop during storage.
 
-Yam beetle (*Heteroligus meles*) attacks planting material by feeding on setts before emergence, reducing sprouting rates and plant establishment. Adults feed on tubers in the field, creating galleries that facilitate secondary fungal infections.
+Yam beetle (*Heteroligus meles*) attacks planting material by feeding on setts before emergence, reducing sprouting rates and plant establishment. Adults feed on tubers in the field, creating galleries that facilitate secondary [[blesching-cannabis-fungal-infections-candida]].
 
 Anthracnose caused by *Colletotrichum gloeosporioides* is the most important foliar disease, producing dark lesions on leaves and stems. Severe infections can defoliate plants and reduce yields by 30–50%.
 
-Viral diseases including yam mosaic virus (YMV) and yam mild mosaic virus (YMMV) are widespread in West Africa. They are transmitted by aphids and through vegetative propagation, leading to progressive yield decline over successive generations.
+[[cervantes-viral-diseases-cannabis]] including yam mosaic virus (YMV) and yam mild mosaic virus (YMMV) are widespread in West Africa. They are transmitted by aphids and through vegetative propagation, leading to progressive yield decline over successive generations.
 
 ## Breeding and Genetic Improvement
 
@@ -93,7 +93,7 @@ The International Institute of Tropical Agriculture (IITA) in Ibadan, Nigeria, m
 
 Conventional breeding of yam is slow because of the crop's long growth cycle (8–12 months), dioecious flowering, and poor seed set. Breeding a new variety typically requires 8–10 years from initial cross to cultivar release.
 
-Recent advances in molecular markers, genomic selection, and tissue culture have accelerated yam breeding. The sequencing of the *D. rotundata* genome in 2017 provided tools for marker-assisted selection of traits like disease resistance and tuber quality.
+Recent advances in molecular markers, genomic selection, and [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] have accelerated yam breeding. The sequencing of the *D. rotundata* genome in 2017 provided tools for marker-assisted selection of traits like disease resistance and tuber quality.
 
 ## Cultural Significance
 

@@ -9,7 +9,7 @@ sources:
 ---
 # Rarian Plain — Sacred Grain of Eleusis
 
-**Source:** The Road to Eleusis, Chapters II-III — Hofmann, Ruck
+**Source:** The [[the-road-to-eleusis-wasson-hofmann-ruck]], Chapters II-III — Hofmann, Ruck
 
 **Updated:** 2026-04-19
 
@@ -25,13 +25,13 @@ The Thriasian plain extended across much of the Eleusinian territory, providing 
 
 ## Sacred Barley Cultivation
 
-Triptolemus's "sacred barley, solemnly grown in the Rarian plain and threshed on his floor, was the principle ingredient in the potion drunk by the initiates in preparation for the culminating vision." The cultivation, harvesting, and processing of this barley was a carefully guarded ritual procedure managed by the hierophantic families across generations.
+Triptolemus's "sacred barley, solemnly grown in the Rarian plain and threshed on his floor, was the principle ingredient in the potion drunk by the initiates in preparation for the culminating vision." The cultivation, harvesting, and processing of this barley was a carefully guarded ritual procedure managed by the [[eleusinian-hierophantic-families-eumolpidae-kerykes]] across generations.
 
 The mythological attribution of barley agriculture to Demeter and Triptolemus — Demeter taught Triptolemus the art of agriculture, and he spread it throughout Greece — gave the Rarian plain crops a dual significance: they were both literal sustenance and symbolic carriers of Demeter's gift to humanity. Every stage of the barley's growth, from sowing to harvest to processing, was accompanied by ritual observances.
 
 ## The Barley-Ergot Connection
 
-The Rarian plain barley was the central ingredient of the [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] (Claviceps purpurea). The barley's dual nature — nourishing food and potential host to psychoactive ergot — embodied the fundamental Eleusinian paradox of death and rebirth.
+The Rarian plain barley was the central ingredient of the [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] ([[bloomfield-ergot-claviceps-purpurea-ergotism]]). The barley's dual nature — nourishing food and potential host to psychoactive ergot — embodied the fundamental Eleusinian paradox of death and rebirth.
 
 The plain was also where the sacred sowing occurred after each year's Mysteries: "the ear of barley, the risen grain, that following the Mystery would be committed once again to the cold earth in the sowing of the sacred plain adjacent to Eleusis."
 
@@ -39,7 +39,7 @@ The climatic conditions of the Thriasian plain — warm, moist winters followed 
 
 ## The Pelanos
 
-In addition to the kykeon, a barley preparation called the pelanos — "a large cake made of barley and wheat harvested in the adjacent sacred Rarian plain" — was served to initiates. This may have paralleled the [[eleusinian-telesterion-architecture-and-ritual]] from profane view. Control over the plain's agricultural output was one of the key economic and religious functions of the [[sacred-road-pilgrimage-to-eleusis]] from Athens passed near the plain, and processional participants would have seen the sacred barley fields as they approached the sanctuary.
+In addition to the kykeon, a barley preparation called the pelanos — "a large cake made of [[ergot-of-barley-and-wheat-alkaloid-composition]] harvested in the adjacent sacred Rarian plain" — was served to initiates. This may have paralleled the [[eleusinian-telesterion-architecture-and-ritual]] from profane view. Control over the plain's agricultural output was one of the key economic and religious functions of the [[sacred-road-pilgrimage-to-eleusis]] from Athens passed near the plain, and processional participants would have seen the sacred barley fields as they approached the sanctuary.
 
 ## The Sacred Sowing Cycle
 
@@ -49,7 +49,7 @@ The agricultural cycle of the Rarian plain was integrated with the ritual calend
 
 2. **Post-Mysteries**: The sacred sowing committed "the risen grain" back to the earth for the next cycle
 
-3. **Growing season**: The barley matured under the protection of the hierophantic families
+3. **[[savory-growing-season-and-non-growing-season-management]]**: The barley matured under the protection of the hierophantic families
 
 4. **Threshing**: The grain was threshed on Triptolemus's floor, a ritual threshing area within the sanctuary
 
@@ -63,7 +63,7 @@ For the kykeon preparation, the barley was likely subjected to a water-based ext
 
 ## Modern Relevance
 
-The concept of a geographically defined sacred agricultural zone has parallels in modern Regenerative Agriculture History, where specific areas are designated for specific functions. The Rarian plain represents an ancient model of integrated agricultural and spiritual practice that contemporary movements in regenerative agriculture seek to recover. The careful management of soil health, crop selection, and harvest timing practiced on the plain reflects principles that modern [[wasson-hofmann-ruck-collaboration]]
+The concept of a geographically defined sacred agricultural zone has parallels in modern Regenerative Agriculture History, where specific areas are designated for specific functions. The Rarian plain represents an ancient model of integrated agricultural and spiritual practice that contemporary movements in regenerative agriculture seek to recover. The careful management of soil health, crop selection, and [[cannabis-harvest-timing-visual-cues]] practiced on the plain reflects principles that modern [[wasson-hofmann-ruck-collaboration]]
 
 - [[demeter-ergot-symbiosis-eleusinian-symbolism]]
 
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

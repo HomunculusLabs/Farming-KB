@@ -27,9 +27,9 @@ DMT is a tryptamine (indole family). The active metabolite of psilocybin, psiloc
 
 ### Plant Sources
 - **Psychotria viridis** (Chacruna) — DMT-rich leaves, primary DMT source in ayahuasca
-- **Mimosa hostilis** (Jurema) — Root bark contains 0.5-1% DMT; used in Brazilian ayahuasca analogs
+- **Mimosa hostilis** (Jurema) — Root bark contains 0.5-1% DMT; used in [[metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism]] analogs
 - **Diplopterys cabrerana** (Chaliponga) — DMT and 5-MeO-DMT
-- **Anadenanthera peregrina** (Yopo/Cohoba) — Seeds contain DMT, 5-MeO-DMT, and bufotenin; snuffed traditionally
+- **[[yopo-anadenanthera-peregrina-snuff]]** (Yopo/Cohoba) — Seeds contain DMT, 5-MeO-DMT, and bufotenin; snuffed traditionally
 - **Virola theiodora** (Epena) — Bark resin snuffed by Amazonian tribes
 - **Acacia species** — A. maidenii, A. phlebophylla, and others contain DMT in bark and leaves
 - **Desmanthus illinoensis** (Prairie Mimosa) — Root bark contains DMT
@@ -42,7 +42,7 @@ DMT is a tryptamine (indole family). The active metabolite of psilocybin, psiloc
 ## History
 
 ### Amazonian Ayahuasca
-DMT-containing plants are combined with Banisteriopsis caapi (containing MAO-inhibiting harmala alkaloids) in brews called ayahuasca or yage. The MAO inhibition allows DMT to be orally active. How indigenous Amazonians discovered this specific combination — among thousands of plant species — is a matter of wonder. Shamans claim the "plant spirits" told them which plants to use.
+DMT-containing plants are combined with Banisteriopsis caapi (containing MAO-inhibiting [[turner-harmala-alkaloids-preparation-and-dosage]]) in brews called ayahuasca or yage. The MAO inhibition allows DMT to be orally active. How indigenous Amazonians discovered this specific combination — among thousands of plant species — is a matter of wonder. Shamans claim the "plant spirits" told them which plants to use.
 
 ### Snuff Traditions
 Yopo (Anadenanthera peregrina) and Epena (Virola theiodora) are blown into the nostrils using elaborate snuffing tubes. Some devices allow two people to simultaneously blow snuff into each other's nostrils before losing consciousness.
@@ -72,7 +72,7 @@ Yopo (Anadenanthera peregrina) and Epena (Virola theiodora) are blown into the n
 - MAO inhibitor — see safety notes
 
 ### Oral (Ayahuasca)
-- Dose: 60-120 mg DMT (combined with MAOI from Banisteriopsis caapi or Peganum harmala)
+- Dose: 60-120 mg DMT (combined with MAOI from Banisteriopsis caapi or [[mckenna-food-gods-peganum-harmala-soma]])
 - Onset: 30-60 minutes
 - Duration: 4-6 hours
 - Requires MAO inhibition to prevent gastrointestinal breakdown
@@ -88,7 +88,7 @@ Yopo (Anadenanthera peregrina) and Epena (Virola theiodora) are blown into the n
 
 ### Intensity Rating: 9-10 (Turner scale)
 
-The DMT experience is an order of magnitude more intense than traditional psychedelics (LSD, psilocybin, mescaline). Key characteristics from Turner's Essential Psychedelics Guide:
+The DMT experience is an order of magnitude more intense than traditional psychedelics (LSD, psilocybin, mescaline). Key characteristics from Turner's [[turner-essential-psychedelics-5-meo-dmt-void-experience]] Guide:
 
 - **Breakthrough**: On a full dose, the user is propelled to a high as intense as the peak of a 1000+ mcg LSD trip within 60 seconds
 - **Reality replacement**: Conventional reality is completely replaced. Users frequently feel out of body, with no recollection of having a body, personality, or even knowledge of planet Earth
@@ -134,13 +134,7 @@ Turner rates ketamine at "Intensity: 10 - Infinity" — the only substance rated
 
 - 5-MeO-DMT is itself an MAO inhibitor — additional MAO inhibitors increase risk
 - Users should lie down before taking a hit — inability to stand is immediate
-- Smoking technique is critical; burning destroys DMT and produces harsh smoke
-- Set and setting are extremely important due to intensity
-- Integration time is needed after the experience despite its short duration
-- Contra-indicated with SSRIs, MAOIs, and many psychiatric medications
-- Cardiovascular effects: transient increases in blood pressure and heart rate
-- Psychological risk: overwhelming experiences can be traumatic without proper preparation
-
+- [[dmt-smoking-technique-and-preparation]] is critical; burning destroys DMT and produces harsh smoke
 ## See Also
 
 - [[psychedelic-compounds-reference]] — Broader compounds table

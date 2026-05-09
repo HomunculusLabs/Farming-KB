@@ -19,7 +19,7 @@ This coordinate freedom makes Lagrangian mechanics especially useful for pendulu
 
 The formulation is one of the main bridges between [[finite-element-method]], [[quantum-mechanics-fundamentals]], and modern field theory.
 
-A Lagrangian model is not merely a change of notation. It exposes symmetry, conservation laws, constraints, and energy flow in a way that is often hidden in direct force balance.
+A Lagrangian model is not merely a change of notation. It exposes symmetry, conservation laws, constraints, and [[savory-energy-flow-and-solar-capture]] in a way that is often hidden in direct force balance.
 
 ## Generalized Coordinates
 
@@ -123,7 +123,7 @@ Newtonian mechanics emphasizes forces and accelerations. Lagrangian mechanics em
 
 For many engineering calculations, the Lagrangian formulation is the most convenient middle ground. It is less geometrically abstract than Hamiltonian mechanics but far more coordinate-flexible than direct Newtonian vector balance.
 
-In continuum mechanics, variational statements lead to weak forms that are central to numerical simulation. In finite element analysis, the same energy logic becomes a computational method.
+In [[continuum-mechanics]], variational statements lead to weak forms that are central to numerical simulation. In finite element analysis, the same energy logic becomes a computational method.
 
 In quantum mechanics, path-integral language assigns amplitudes to histories and makes the action central. This is conceptually descended from the same variational structure.
 

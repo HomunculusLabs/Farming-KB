@@ -1,5 +1,5 @@
 ---
-title: JADAM Seawater Mineral Supplementation
+title: JADAM jadam seawater mineral supplementation Supplementation
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -15,7 +15,7 @@ JADAM's approach to replenishing minerals leached from soil is strikingly simple
 
 ## The Leaching Problem
 
-Through the process of natural leaching, essential minerals are continuously washed out of soil by rain and irrigation. This is a global problem: over hundreds of years, soil loses minerals that ultimately accumulate in the ocean. Rather than trying to identify which specific mineral is deficient (which even scientists struggle to measure accurately), JADAM takes a macro approach: return the full spectrum of sea minerals to the soil.
+Through the process of natural leaching, essential minerals are continuously washed out of soil by rain and irrigation. This is a global problem: over hundreds of years, soil loses minerals that ultimately accumulate in the ocean. Rather than trying to identify which specific mineral is deficient (which even scientists struggle to measure accurately), JADAM takes a macro approach: return the full spectrum of [[ingham-seaweed-sea-minerals-compost-tea]] to the soil.
 
 ## Seawater Composition
 
@@ -35,7 +35,7 @@ Using seawater not only supplements leached minerals but also improves:
 - Storage period and shelf life
 - Overall product value and marketability
 
-Combined with JMS, foliar application of seawater eliminates powdery mildew. The Korean National Institute of Agricultural Sciences has confirmed the benefits.
+Combined with JMS, [[ultra-low-cost-foliar-application-methods]] of seawater eliminates [[cervantes-powdery-mildew-prevention-treatment]]. The Korean National Institute of Agricultural Sciences has confirmed the benefits.
 
 ## The Philosophy of Completeness
 
@@ -55,7 +55,6 @@ This is part of JADAM's broader principle: the diversity of soil microorganisms 
 
 Fields, rice paddies, and orchards by the sea have been showered with seawater elements for hundreds and thousands of years. They consistently produce better quality food than inland farms -- evidence that sea mineral supplementation works in practice.
 
-
 ## Seawater Composition and Mineral Profile
 
 Full-spectrum seawater contains all 92 naturally occurring elements
@@ -67,7 +66,7 @@ iron, zinc, manganese, copper, boron, molybdenum, and selenium.
 Dilution ratios are critical for agricultural use. Cho Han-kyu
 recommends a base dilution of 1:30 (seawater to fresh water) for
 soil drenching, with adjustments based on crop sensitivity and
-growth stage. Leafy greens and young transplants require more
+[[cho-plant-growth-stage-treatment-protocols]]. [[solomon-leafy-greens-growing]] and young transplants require more
 dilute solutions (1:50 to 1:100), while established fruit trees
 can tolerate stronger concentrations (1:20 to 1:10).
 

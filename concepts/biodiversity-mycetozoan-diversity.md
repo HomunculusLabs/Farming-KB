@@ -18,7 +18,7 @@ type: concept
 
 Mycetozoa is a name applied to the polyphyletic assemblage of
 terrestrial amoeboid protists that produce aerial spore-bearing
-structures. Another term used for these organisms is slime molds.
+structures. Another term used for these organisms is [[bloomfield-slime-molds-myxomycetes-plasmodial-protists]].
 The categories to which mycetozoans can be assigned are the
 Eumycetozoa and the acrasids. The taxon Eumycetozoa appears to be
 a monophyletic group that includes the Myxogastria (myxomycetes
@@ -52,7 +52,7 @@ than 50 undescribed species have been observed. All species
 produce microscopic fruiting bodies characterized by a delicate,
 acellular stalk that supports one or a few spores. Their trophic
 cells are quite diverse. They are probably ubiquitous, having been
-collected from subarctic North America, temperate and desert areas
+collected from subarctic [[psilocybin-north-america-pacific-northwest]], temperate and desert areas
 of North America, the Caribbean, Brazil, Melanesia, Micronesia,
 Polynesia, Japan, portions of southeastern Asia, England, and
 northern and central Africa.
@@ -86,7 +86,7 @@ Copromyxa and Copromyxella and the unusual genus Fonticula.
 Mycetozoans are found in various terrestrial habitats worldwide.
 They are present in temperate, boreal, and tropical forests as
 well as in grasslands, deserts, and tundra. Mycetozoans are found
-in soil, leaf litter, herbivore dung, rotting logs, the bark
+in soil, [[dighton-fungal-decomposition-leaf-litter-dynamics]], herbivore dung, rotting logs, the bark
 surface of living and dead trees, and dead aerial parts of plants
 such as grass culms, old infructescences and inflorescences, and
 leaves. They usually are located on the outer surface of a
@@ -95,18 +95,24 @@ substratum when their fruiting bodies are observed.
 Moist chambers are essential for studying mycetozoans.
 Substrata are placed onto an appropriate source of moisture,
 either moistened paper or agar, in Petri dishes or fingerbowls.
-Most species can be identified on the basis of fruiting body
+Most species can be identified on the basis of [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]
 morphology alone, but culturing often confirms identification.
 
 ## Ecological Roles
 
-Mycetozoans are bacterial predators and play important roles in
+Mycetozoans are [[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]] and play important roles in
 regulating bacterial populations in soil and leaf litter
 ecosystems. Their phagotrophic feeding on bacteria and other
 microorganisms positions them as significant components of
 microbial food webs. By consuming bacteria, they influence
-nutrient cycling processes in [[biodiversity-fungi-leaf-litter-decomposition]] systems.
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] processes in biodiversity-fungi-leaf-litter-decomposition systems.
 
-In [[biodiversity-fungi-soil-ecosystems]]
-- [[biodiversity-fungi-leaf-litter-decomposition]]
+In biodiversity-fungi-soil-ecosystems
+- biodiversity-fungi-leaf-litter-decomposition
 - [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]
+## See Also
+- [[decomposition]]
+- [[biodiversity-glomeromycota-diversity]]
+- [[biodiversity-smut-fungi-diversity]]
+- [[biodiversity-fungal-genetic-diversity]]
+- [[biodiversity-fungi-tropical-fungal-diversity]]

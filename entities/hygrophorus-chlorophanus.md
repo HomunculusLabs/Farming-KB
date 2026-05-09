@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bresinsky, A. & Besl, H. (1990). "A Colour Atlas of Poisonous Fungi." Wolfe Publishing.
+  - Bresinsky, A. & Besl, H. (1990). "A Colour Atlas of ramsbottom-poisonous-fungi-identification-guide." Wolfe Publishing.
   - Arnolds, E. (2010). "The Hygrophorus of Europe." Koninklijke Nederlandse Mycologische Vereniging.
   - Kibby, G. (2012). "The genus Hygrophorus in Britain." Field Mycology 13(3): 89–99.
   - Breitenbach, J. & Kränzlin, F. (1991). "Fungi of Switzerland, Vol. 3." Verlag Mykologia.
@@ -70,12 +70,12 @@ often leaving a fleeting ring or fibrillose zone.
 farinaceous. Taste not distinctive.
 
 **Spores:** 6.5–9 × 4.5–6 μm, ellipsoid, smooth, inamyloid.
-Spore print white.
+[[comparison-spore-print-collection-vs-spore-syringe-production]] white.
 
 ## Distribution and Habitat
 
 *H. chlorophanus* is found across northern and central Europe, with
-scattered reports from North America and Asia. It is more common in
+scattered reports from [[psilocybin-north-america-pacific-northwest]] and Asia. It is more common in
 boreal and montane regions than in lowland areas.
 
 The species fruits from late summer through autumn (August to November
@@ -85,7 +85,7 @@ It grows on soil under coniferous trees, especially Norway spruce
 
 Elevation range is typically 400–1800 m in mountainous regions,
 though it can occur at lower altitudes in northern latitudes.
-It prefers acidic to slightly acidic soils rich in organic matter.
+It prefers acidic to slightly acidic soils rich in [[hamilton-composting-and-organic-matter-management]].
 
 ## Edibility
 
@@ -103,11 +103,11 @@ contains several excellent edibles, and no poisonous members are known.
 As an ectomycorrhizal species, *H. chlorophanus* forms mutualistic
 associations with conifer root systems. The fungal mycelium extends
 the effective root surface area, improving water and mineral nutrient
-uptake for the host tree. In exchange, the fungus receives
+uptake for the [[ectomycorrhizal-host-tree-partnerships]]. In exchange, the fungus receives
 photosynthetically derived carbohydrates.
 
 This relationship is particularly important in nutrient-poor boreal
-forest soils, where mycorrhizal networks can connect multiple trees
+forest soils, where [[dighton-mycorrhizal-networks-carbon-transfer]] can connect multiple trees
 and facilitate nutrient sharing between individuals. Waxy caps in
 general are considered indicator species of relatively undisturbed
 forest habitats with established mycorrhizal networks.
@@ -125,6 +125,9 @@ forest habitats with established mycorrhizal networks.
   cap is entirely white to cream with no green pigmentation.
 
 ## See Also
+
+- [[hygrophorus-marzuolus]]
+- [[hygrophorus-chrysodon]]
 
 - [[mycorrhizal-networks]]
 

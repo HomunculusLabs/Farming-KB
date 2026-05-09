@@ -1,5 +1,5 @@
 ---
-title: Spore Mass Inoculation Techniques
+title: Spore Mass cotter-inoculation-techniques-and-hygiene
 created: 2026-04-26
 tags:
   - mycology
@@ -17,7 +17,7 @@ type: concept
 # Spore Mass Inoculation Techniques
 
 Spore mass inoculation is by far the simplest method of
-growing mushrooms, requiring little or no technical expertise.
+[[falconer-growing-mushrooms-in-sheds]], requiring little or no technical expertise.
 The concept is straightforward: broadcast spores onto prepared
 substrates outdoors and allow nature to take its course. While
 success rates are lower than laboratory-based methods, this
@@ -28,7 +28,7 @@ results with patience and favorable conditions.
 
 For gilled mushrooms, caps can be severed from the stems
 and laid, gills down, on top of clean typing paper, glass,
-or a similar surface. A glass jar or bowl is placed over
+or a similar surface. A [[sterile-spore-print-collection-glass-jar-technique]] or bowl is placed over
 the mushroom to lessen the loss of water. After 12 hours,
 most mushrooms will have released thousands of spores,
 falling according to the radiating symmetry of the gills
@@ -76,7 +76,7 @@ mushroom in water to create a spore mass slurry.
   7. Allow the broth to sit for 24-48 hours at a
      temperature above 70 F (21 C)
 
-During this stage of frenzied spore germination, the
+During this stage of frenzied [[growing-gourmet-spore-germination-strain-isolation]], the
 mushroom patch habitat should be designed and constructed.
 Each species has unique requirements for substrate
 components. However, mycelia of most species will run
@@ -87,13 +87,13 @@ through a variety of lignin-cellulosic wastes.
 Only at the stage when fruitbody production is sought does
 the precise formulation of the substrate become crucial.
 For [[growing-gourmet-shaggy-mane-coprinus-cultivation]]
-(Coprinus comatus), outdoor beds of mixed hardwood chips work
+([[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]), outdoor beds of mixed hardwood chips work
 well.
 
 The approach of creating "spore mass slurries" of Morels
 and other species to aerially "bomb" large expanses of
 forest lands is an idea that, as crazy as it may initially
-sound, warrants serious investigation from a [[growing-gourmet-mushroom-cloning-technique]]
+sound, warrants serious investigation from a growing-gourmet-mushroom-cloning-technique
 is fundamentally different from a culture originating from spores. When spores are
 germinated, many different strains are created, some
 incompatible with one another. A cultivator will not know
@@ -112,5 +112,11 @@ of living tissue.
 ## Limitations
 
 Spore-mass fermentation techniques are not yet widely used
-by North American or European cultivators. Concern for
+by [[growing-gourmet-north-american-reishi-species]] or European cultivators. Concern for
 preserving [[critical-mass]]
+## See Also
+- [[growing-gourmet-outdoor-log-inoculation-techniques]]
+- [[coprinus-comatus]]
+- [[mushroom-spore-inoculation-techniques]]
+- [[spore-print-collection-spore-mass-inoculation]]
+- [[pf-tek-mycelium-senescence-spore-mass-inoculation]]

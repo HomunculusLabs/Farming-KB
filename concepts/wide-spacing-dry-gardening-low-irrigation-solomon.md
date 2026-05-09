@@ -11,11 +11,11 @@ type: concept
 
 # Wide Spacing Dry Gardening for Low Irrigation Food Production
 
-Wide spacing dry gardening is a method of vegetable production that minimizes or eliminates irrigation by planting individual plants far enough apart that each can develop an extensive root system capable of accessing soil moisture stored from winter rains. Developed and refined by Steve Solomon, author of Gardening When It Counts, this approach directly challenges the intensive raised-bed paradigm that has dominated backyard food gardening since the 1980s.
+Wide spacing dry gardening is a method of [[dry-gardening-unirrigated-vegetable-production-solomon]] that minimizes or eliminates irrigation by planting individual plants far enough apart that each can develop an extensive root system capable of accessing soil moisture stored from winter rains. Developed and refined by [[steve-solomon]], author of Gardening When It Counts, this approach directly challenges the intensive raised-bed paradigm that has dominated backyard food gardening since the 1980s.
 
 ## Origins and Rationale
 
-Steve Solomon, founder of Territorial Seed Company and author of multiple gardening books, initially advocated intensive raised-bed gardening following the teachings of John Jeavons and the biointensive movement. However, after selling his seed company in 1986 and conducting extensive variety trials, he discovered that well-separated plants required far less water, grew larger, tasted better, and in many cases yielded more per unit area than densely packed intensive beds.
+Steve Solomon, founder of Territorial Seed Company and author of multiple gardening books, initially advocated intensive raised-bed gardening following the teachings of [[john-jeavons]] and the biointensive movement. However, after selling his seed company in 1986 and conducting extensive variety trials, he discovered that well-separated plants required far less water, grew larger, tasted better, and in many cases yielded more per unit area than densely packed intensive beds.
 
 The method draws on historical precedent. During World War II, British wartime allotments of 2,700 square feet (about 250 square meters) sustained families through lean years using traditional wide-row techniques. In Cuba, after the collapse of the Soviet Union in 1991, urban garden blocks of one-third acre per family produced the majority of vegetables consumed in Havana, much of it grown organically with minimal irrigation. These examples demonstrate that wide spacing methods have proven effective under genuine resource constraints.
 
@@ -57,16 +57,16 @@ For gardeners without any irrigation, Solomon recommends several complementary s
 
 - **Extreme spacing**: Plants are placed much farther apart than conventional recommendations. The exact spacing depends on species, soil depth, and rainfall patterns.
 - **Soil moisture conservation**: Mulching between plants reduces evaporation from the soil surface.
-- **Winter rain capture**: In regions with winter rainfall, deep soil preparation before planting allows the soil profile to store moisture from winter rains that sustains crops through the dry summer growing season.
+- **Winter rain capture**: In regions with winter rainfall, deep soil preparation before planting allows the soil profile to store moisture from winter rains that sustains crops through the dry summer [[savory-growing-season-and-non-growing-season-management]].
 - **Drought-adapted varieties**: Choosing varieties that perform well under low-water conditions is essential. This is where seed company variety trials provide invaluable data.
 
 ## Soil Fertility for Wide Spacing
 
 Wide spacing reduces but does not eliminate the need for soil fertility. Solomon advocates a specific approach:
 
-- Avoid overbuilding soil with excessive organic matter, which wastes money and effort
+- Avoid overbuilding soil with excessive [[hamilton-composting-and-organic-matter-management]], which wastes money and effort
 - Use modest amounts of manure and homemade compost
-- Supplement with a complete organic fertilizer blend made from agricultural waste products and crushed rock minerals
+- Supplement with a complete [[complete-organic-fertilizer-cof-recipe-solomon]] blend made from [[fungi-in-composting-and-agricultural-waste-conversion]] products and crushed rock minerals
 - This concentrated organic plant food, used in modest quantities alongside compost, produces vegetables with far more human nutrition than any other method
 - The key minerals needed are calcium, phosphorus, potassium, and trace minerals from rock dusts
 
@@ -101,7 +101,7 @@ Some vegetables are particularly well suited to wide spacing dry gardening:
 - **Root crops**: Carrots, beets, parsnips, and turnips develop larger roots when given adequate space
 - **Cole crops**: Cabbage, broccoli, and Brussels sprouts produce larger heads with wider spacing
 - **Winter squash and pumpkins**: These naturally spread over large areas and benefit from room to roam
-- **Tomatoes**: When widely spaced, individual plants develop extensive root systems that improve drought tolerance and fruit quality
+- **Tomatoes**: When widely spaced, individual plants develop extensive root systems that improve [[dighton-fungal-drought-tolerance-plant-water-relations]] and fruit quality
 
 ## Tools and Equipment
 
@@ -121,6 +121,8 @@ Solomon frames wide spacing gardening within a larger narrative about resource s
 
 ## See Also
 
-- [[holmgren-forest-management-and-sustainable-harvesting]]
+- [[solomon-wide-spacing-versus-intensive-gardening-debate]]
+
+- holmgren-forest-management-and-sustainable-harvesting
 - [[water-conservation]]
 - [[home-garden-seed-saving]]

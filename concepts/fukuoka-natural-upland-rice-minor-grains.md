@@ -1,11 +1,12 @@
 ---
-title: Fukuoka Natural Upland Rice Minor Grains
+title: masanobu-fukuoka-natural-farming-philosophy Upland Rice fukuoka-minor-grains-millets-superior-foods
 created: 2026-04-28
 tags: [fukuoka, natural-farming, grains, crop-rotation, food-diversity]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
@@ -16,7 +17,7 @@ The key insight is that upland rice problems arise not from the crop itself
 but from the way it has been cultivated, typically in monoculture with heavy
 chemical inputs. When integrated into a diverse rotation with legumes, root
 vegetables, and green manure crops, upland rice can become productive and
-sustainable. The living mulch and ground cover that natural farming employs
+sustainable. The [[comparison-living-mulch-vs-cover-crops]] and ground cover that [[comparison-natural-farming-vs-permaculture]] employs
 help retain soil moisture, reducing the drought vulnerability that plagues
 conventional upland rice.
 
@@ -37,7 +38,7 @@ integrates all of these elements, upland rice, minor grains, vegetables, and
 fruit trees, into a comprehensive [[decomposition]] pattern supports a more diverse soil
 microbiome, which in turn supports healthier plant growth.
 
-When integrated into a rotation with green manure crops and root vegetables,
+When integrated into a rotation with green manure crops and [[growing-root-vegetables-guide]],
 minor grains break disease cycles, improve soil structure through their root
 systems, and provide a steady supply of organic residues that feed the soil
 food web.
@@ -51,6 +52,8 @@ to decompose over winter. This pattern provides year-round ground cover,
 prevents erosion, fixes nitrogen through legumes, and produces diverse food
 crops without chemical inputs. The integration of fruit trees into this
 ## See Also
+
+- [[vinca-minor]]
 ## Practical Considerations
 
 When working with Fukuoka Natural Upland Rice Minor Grains, several practical factors should be
@@ -67,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -56,7 +56,7 @@ pharmacophore for 5-HT2A receptor activity.
 - **Pimenta racemosa (bay rum):** Leaf and berry oils
 - **Pimenta dioica (allspice):** Minor constituent
 - **Ocimum basilicum (basil):** Certain chemotypes
-- **Acorus calamus (sweet flag):** Rhizome oil
+- **[[sweet-flag-acorus-calamus-ethnobotany]] (sweet flag):** Rhizome oil
 - **Cananga odorata (ylang-ylang):** Trace amounts
 - **Mangifera indica (mango):** Peel oil of some varieties
 - **Various Lauraceae:** Bark and leaf oils
@@ -77,7 +77,7 @@ Metabolic conversion explains the 2-6 hour onset delay.
 
 ### Pharmacokinetics
 - **Absorption:** Well absorbed orally; through skin/mucous
-  membranes from essential oils
+  membranes from [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]
 - **Distribution:** Lipophilic; crosses blood-brain barrier
 - **Metabolism:** Hepatic CYP450; allyl chain oxidation
 - **Duration:** Effects persist 12-24+ hours (via nutmeg)
@@ -124,7 +124,7 @@ along with myristicin and other compounds.
 - Active against breast (MCF-7), lung (A549), colon
   (HT-29) cancer lines in vitro
 - Mechanism: apoptosis induction, cell cycle arrest
-- Narrow therapeutic index limits clinical use
+- Narrow [[cannabis-therapeutic-index-overview]] limits clinical use
 
 ## Legal Status
 - **US:** Not scheduled; de facto legal as nutmeg component

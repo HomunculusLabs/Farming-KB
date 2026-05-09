@@ -1,5 +1,5 @@
 ---
-title: "BOM (3,4,5,beta-Tetramethoxy-PEA) -- PIHKAL Entry #17"
+title: "BOM (3,4,5,beta-Tetramethoxy-PEA) -- 2c-b-pihkal-entry-20 #17"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -60,9 +60,11 @@ by the addition of 6 g of solid
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
+
+- [[bom-entity]]
 
 - [[bob-entity-pihkal]]
 - [[boh-entity-pihkal]]
@@ -86,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

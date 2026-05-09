@@ -25,7 +25,7 @@ created: 2026-04-28
 
 **Pfaffia glomerata** (commonly known as Brazilian ginseng, suma, or para toda — "for everything") is a perennial herbaceous plant in the family Amaranthaceae, native to tropical and subtropical regions of South America. The species is widely used in Brazilian folk medicine as an adaptogen, tonic, and anti-inflammatory agent.
 
-Despite the common name "Brazilian ginseng," P. glomerata is not botanically related to true ginseng (Panax species). The comparison reflects its similar traditional use as a general restorative and its reported capacity to modulate the stress response, though the pharmacological mechanisms differ substantially.
+Despite the common name "Brazilian ginseng," P. glomerata is not botanically related to true ginseng (Panax species). The comparison reflects its similar traditional use as a general restorative and its reported capacity to modulate the [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]], though the pharmacological mechanisms differ substantially.
 
 ## Taxonomy and Morphology
 
@@ -42,7 +42,7 @@ The species was originally described as Gomphrena glomerata by Sprengel in 1821 
 
 ### Morphology
 
-P. glomerata is a perennial herb growing to 0.5–1.5 meters tall. The root system is extensive and fleshy, producing large tuberous roots that are the primary plant part used medicinally.
+P. glomerata is a perennial [[medicinal-herb-growing]] to 0.5–1.5 meters tall. The root system is extensive and fleshy, producing large tuberous roots that are the primary plant part used medicinally.
 
 Stems are erect, green to reddish, and branching from the base. Leaves are opposite, simple, ovate to lanceolate, 4–10 cm long and 2–4 cm wide, with entire margins and prominent venation.
 
@@ -56,11 +56,11 @@ The species is adaptable to a range of soil types but prefers well-drained, fert
 
 ## Bioactive Compounds
 
-The root contains a diverse array of secondary metabolites. Pfaffic acid, a triterpenoid saponin, is considered the primary bioactive marker compound. Other triterpenoid saponins include pfaffosides A through F, with varying glycosylation patterns.
+The root contains a diverse array of [[antifungal-secondary-metabolites-coprophilous-fungi]]. Pfaffic acid, a triterpenoid saponin, is considered the primary bioactive marker compound. Other triterpenoid saponins include pfaffosides A through F, with varying glycosylation patterns.
 
 Ecdysteroids are notably abundant, including 20-hydroxyecdysone (ecdysterone), which is one of the highest concentrations found in any plant species. These insect molting hormones have anabolic and adaptogenic properties in mammals at pharmacological doses.
 
-Additional compounds include allantoin (wound-healing promoter), stigmasterol, sitosterol, and various flavonoid glycosides. The essential oil profile includes sesquiterpenes such as β-caryophyllene and germacrene D.
+Additional compounds include allantoin (wound-healing promoter), stigmasterol, sitosterol, and various flavonoid glycosides. The [[permaculture-designers-manual-essential-oil-plants]] profile includes sesquiterpenes such as β-caryophyllene and germacrene D.
 
 ## Pharmacology
 
@@ -88,13 +88,13 @@ Optimal growing conditions include full sun to partial shade, well-drained loamy
 
 Root harvest occurs 18–24 months after planting, when the tuberous roots have reached maximum size. Yields of fresh root range from 10–20 tonnes per hectare under cultivation. Roots are washed, sliced, and air-dried for commercial use, with drying reducing weight by approximately 70%.
 
-Tissue culture protocols have been established for mass propagation, with somatic embryogenesis and organogenesis producing plantlets suitable for field transplantation. This is important for maintaining genetic consistency in commercial production.
+[[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] protocols have been established for mass propagation, with somatic embryogenesis and organogenesis producing plantlets suitable for field transplantation. This is important for maintaining genetic consistency in commercial production.
 
 ## Ecological Significance
 
 P. glomerata serves as a food source for various herbivorous insects in its native range. Its flowers attract pollinators, particularly small bees and flies. The extensive root system helps prevent soil erosion on disturbed sites and riverbanks.
 
-As a pioneer species, P. glomerata plays a role in secondary succession in the Cerrado and Atlantic Forest biomes. It helps establish soil structure and organic matter content, facilitating the establishment of later-successional species.
+As a pioneer species, P. glomerata plays a role in secondary succession in the Cerrado and Atlantic Forest biomes. It helps establish soil structure and [[hamilton-composting-and-organic-matter-management]] content, facilitating the establishment of later-successional species.
 
 The species is not currently considered threatened, but wild populations in the Atlantic Forest are under pressure from habitat conversion. Sustainable cultivation programs have been encouraged to reduce pressure on wild harvests.
 
@@ -102,7 +102,7 @@ The species is not currently considered threatened, but wild populations in the 
 
 - [[withania-somnifera]]
 - [[eleutherococcus-senticosus]]
-- [[damiana]]
+- [[turnera-diffusa]]
 - [[bacopa-monnieri]]
 - [[schisandra-chinensis]]
 - [[scutellaria-baicalensis]]
@@ -110,3 +110,5 @@ The species is not currently considered threatened, but wild populations in the 
 - [[curcuma-longa]]
 - [[piper-nigrum-entity]]
 - [[urtica-dioica]]
+
+- [[dactylis-glomerata]]

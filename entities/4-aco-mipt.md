@@ -12,7 +12,7 @@ updated: 2026-04-28
 sources:
   - Shulgin, A. & Shulgin, A. (1997). TIHKAL: The Continuation. Transform Press.
   - Dean, R.A. et al. (2013). "Metabolism of 4-acetoxy-N-methyl-N-isopropyltryptamine." Journal of Analytical Toxicology 37(7): 437-443.
-  - Brandt, S.D. et al. (2010). "Use of 4-substituted tryptamines in the UK." Drug Testing and Analysis 2(9): 431-440.
+  - Brandt, S.D. et al. (2010). "Use of 4-substituted tryptamines in the UK." [[psychedelic-drug-testing-and-adulterant-screening]] and Analysis 2(9): 431-440.
   - EMCDDA (2014). "4-AcO-MiPT: EMCDDA-Europol Joint Report on new psychoactive substances."
   - Smith, J.P. et al. (2019). "Pharmacological characterization of N-substituted tryptamines at 5-HT receptors." Neuropharmacology 159: 107534.
 created: 2026-04-28
@@ -63,7 +63,7 @@ The experience profile of 4-AcO-MiPT is characterized by moderate visual halluci
 
 Emotional effects range from mild euphoria to contemplative introspection. The compound tends to produce less anxiety and body load than 2C-B or mescaline at equivalent subjective intensity levels. Closed-eye visuals often feature geometric patterns and color shifting.
 
-At higher doses, 4-AcO-MiPT can produce ego dissolution, synesthesia-like experiences, and altered time perception comparable to moderate doses of psilocybin mushrooms. The cognitive component tends toward analytical and philosophical thought rather than the mystical or ineffable qualities associated with DMT.
+At higher doses, 4-AcO-MiPT can produce [[psilocybin-ego-dissolution-mechanisms]], synesthesia-like experiences, and altered time perception comparable to moderate doses of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]. The cognitive component tends toward analytical and philosophical thought rather than the mystical or ineffable qualities associated with DMT.
 
 ## Related Compounds
 
@@ -92,13 +92,13 @@ The compound is commercially available from research chemical suppliers, though 
 
 ## Legal Status
 
-4-AcO-MiPT is unscheduled in most jurisdictions but is typically controlled under analogue acts or broad psychoactive substance legislation. In the United States, it may fall under the Federal Analogue Act as a positional isomer of psilocin.
+4-AcO-MiPT is unscheduled in most jurisdictions but is typically controlled under analogue acts or broad psychoactive substance legislation. In the [[dmt-containing-plants-united-states-halpern]], it may fall under the Federal Analogue Act as a positional isomer of psilocin.
 
-The UK Psychoactive Substances Act 2016 controls 4-AcO-MiPT as a psychoactive substance. China has explicitly scheduled the compound under its list of controlled narcotics. Canada, Germany, and several EU member states have enacted controls through individual scheduling or analogue provisions.
+The UK Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016 controls 4-AcO-MiPT as a psychoactive substance. China has explicitly scheduled the compound under its list of controlled narcotics. Canada, Germany, and several EU member states have enacted controls through individual scheduling or analogue provisions.
 
 ## History
 
-Alexander Shulgin first synthesized and bioassayed 4-AcO-MiPT, reporting his findings in TIHKAL (1997). Shulgin assigned it a rating of ++ on his subjective intensity scale (out of ++++), indicating a moderate psychedelic experience at typical doses.
+Alexander Shulgin first synthesized and bioassayed 4-AcO-MiPT, reporting his findings in TIHKAL (1997). Shulgin assigned it a rating of ++ on his subjective intensity scale (out of ++++), indicating a moderate [[leary-psychedelic-experience-bardo-mapping]] at typical doses.
 
 The compound remained relatively obscure until the mid-2000s, when online research chemical vendors began offering it alongside other Shulgin tryptamines. It gained modest popularity within the psychedelic community as a less-common alternative to 4-AcO-DMT and 4-HO-MET.
 
@@ -106,7 +106,7 @@ By the 2010s, 4-AcO-MiPT was identified in forensic samples across Europe and wa
 
 ## See Also
 
-- [[4-aco-dmt]]
+- [[4-acetoxy-dmt]]
 - [[psilocybin]]
 - [[dmt]]
 - [[lsd]]

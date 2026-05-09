@@ -1,5 +1,5 @@
 ---
-title: Gottlieb Psilocybin Cultivation Contamination Prevention
+title: Gottlieb Psilocybin mushroom-cultivation-contamination-control Prevention
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -11,9 +11,9 @@ tags: [contamination, cultivation, psilocybin]
 # Gottlieb Psilocybin Cultivation Contamination Prevention
 
 Gottlieb describes contamination prevention as "the most difficult part of
-psilocybin mushroom cultivation" in his 1976 guide. He presents a
+psilocybin [[accessible-mushroom-cultivation-for-disabilities]]" in his 1976 guide. He presents a
 comprehensive sanitary protocol organized into pure culture technique,
-sterilization procedures, and contaminant identification. The approach is
+sterilization procedures, and [[mushroom-contaminant-identification-key]]. The approach is
 built around the reality that bacteria and fungal spores are pervasive in
 the environment -- floating in air, clinging to skin and clothing, and
 issuing from the mouth with every exhalation.
@@ -70,7 +70,7 @@ cultures, which they would rapidly overrun.
 4. Keep stopcock open; heat on high until thick steam vents.
 5. Close stopcock; bring to 15-20 psi (250 degrees F) for 30 minutes.
 6. Do not exceed this time/temperature (sugar caramelization inhibits
-   growth and psilocybin production).
+   growth and [[gottlieb-psilocybin-production-extraction-methods]]).
 7. Cool to room temperature before releasing stopcock (prevents boil-over).
 8. Discard any cracked containers.
 
@@ -99,7 +99,7 @@ cultures, which they would rapidly overrun.
 
 ### Response to Contamination
 
-- Discard any contaminated stock culture dishes entirely -- do not attempt
+- Discard any contaminated [[mushroom-cultivator-stock-culture-preservation]] dishes entirely -- do not attempt
   to cut away or salvage portions.
 - Discard any broth jars showing growth during the three-day pre-inoculation
   hold period.
@@ -122,7 +122,7 @@ cultures, which they would rapidly overrun.
 
 ## Species Resistance Notes
 
-- Psilocybe cubensis: very resistant to contaminants. This is one of the
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]: very resistant to contaminants. This is one of the
   primary reasons Gottlieb recommends it above all other species.
 - Psilocybe caerulescens: resistant to white mold but prone to other diseases
   due to its extremely long 55-85 day incubation period, which provides
@@ -132,6 +132,4 @@ cultures, which they would rapidly overrun.
 
 - [[gottlieb-psilocybin-cultivation-equipment-and-facilities]]
 - [[gottlieb-psilocybin-cultivation-grain-spawn-production]]
-- [[gottlieb-psilocybin-cultivation-grain-spawn-production]]
-- [[gottlieb-psilocybin-cultivation-equipment-and-facilities]]
 - [[pure-culture-spawn-method-duggar-usda-1902]]

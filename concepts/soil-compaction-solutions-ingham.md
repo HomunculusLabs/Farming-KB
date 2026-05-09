@@ -1,5 +1,5 @@
 ---
-title: Soil Compaction Solutions (Ingham Approach)
+title: Soil soil compaction solutions ingham (Ingham Approach)
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -25,7 +25,7 @@ Soil compaction is one of the greatest enemies of the [[soil-food-web]]. When so
 Larger organisms cannot survive in compacted soil -- they cannot move through it in search of food because transportation pathways have been destroyed. Nematodes and many of the protozoa are gone, so nutrients accumulate in fungal and bacterial biomass instead of being mineralized and available to plants.
 
 ### On Mycorrhizal Fungi
-The fragile mycorrhizal fungi associated with plant roots are literally crushed or drowned. Mycorrhizal fungi that compete with pathogenic fungi (Pythium and Rhizoctonia, which cause stem and root rot) are missing.
+The fragile mycorrhizal fungi associated with plant roots are literally crushed or drowned. Mycorrhizal fungi that compete with pathogenic fungi (Pythium and Rhizoctonia, which cause stem and [[cannabis-root-rot-prevention-and-treatment]]) are missing.
 
 ### On Plant Roots
 Plant roots have trouble moving through compacted soil. Since they can no longer rely on mycorrhizal fungi to bring back nutrients, plants face a double whammy: they not only don't get the kind of nitrogen they prefer, but their access to water and phosphorus and other nutrients is limited.
@@ -112,4 +112,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

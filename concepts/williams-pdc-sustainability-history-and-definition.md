@@ -1,7 +1,7 @@
 ---
-title: Sustainability History and Definition
+title: williams pdc sustainability history and definition and Definition
 created: 2026-04-28
-tags: [[permaculture]], sustainability, history, maslow, ecological-design]
+tags: permaculture, sustainability, history, maslow, ecological-design]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -13,7 +13,7 @@ type: concept
 
 As permaculture is about creating sustainable agricultural systems and
 ultimately a sustainable culture, understanding what sustainability
-means is foundational. Sustainability is the goal, ecological design is
+means is foundational. Sustainability is the goal, [[williams-pdc-ecological-design-principles]] is
 the method, permaculture is a set of guiding principles, green
 architecture and sustainable landscapes are what we will build, and
 intentional community is where we will live.
@@ -63,7 +63,7 @@ prices became prohibitive to owning a homestead within the city.
 Frank Lloyd Wright's Broad Acre City design called for single-family
 homes on one-acre plots with road grids for automobile access. In the
 early 1940s, Levittown became the first modern suburb, converting
-viable agricultural land near cities to housing. This destroyed local
+viable [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] near cities to housing. This destroyed local
 food resources and created urban sprawl that chewed up ecosystems
 ringing the cities, often named after the ecological features they
 destroyed.
@@ -139,3 +139,7 @@ The modern era's design paradigms were created from humanitarian
 positions but missed a philosophical system based on living in harmony
 with the environment. [[williams-pdc-inventories-and-observation]]
 - [[williams-pdc-learning-exercises-and-field-activities]]
+## See Also
+- [[williams-pdc-learning-exercises-and-field-activities]]
+- [[williams-pdc-inventories-and-observation]]
+- [[permaculture-design-principles-and-sustainability]]

@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-*Acalypha racemosa* is a perennial herbaceous plant in the family Euphorbiaceae, widely distributed across tropical and subtropical Africa. It is an important component of traditional pharmacopoeias across West and Central Africa, where it is used to treat a broad spectrum of ailments including respiratory conditions, gastrointestinal disorders, and skin diseases. The species is known by a variety of common names across different linguistic groups, reflecting its cultural significance in traditional medicine.
+*Acalypha racemosa* is a perennial herbaceous plant in the family Euphorbiaceae, widely distributed across tropical and subtropical Africa. It is an important component of traditional pharmacopoeias across West and Central Africa, where it is used to treat a broad spectrum of ailments including respiratory conditions, gastrointestinal disorders, and skin diseases. The species is known by a variety of common names across different linguistic groups, reflecting its [[ethnomycology-cultural-significance-sacred-fungi]] in traditional medicine.
 
 ## Taxonomy
 
@@ -80,7 +80,7 @@ The species is adaptable to a range of soil types but shows a preference for wel
 
 ## Phytochemistry
 
-Phytochemical screening of *A. racemosa* has revealed a diverse array of bioactive secondary metabolites:
+Phytochemical screening of *A. racemosa* has revealed a diverse array of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]:
 
 | Compound Class | Specific Compounds | Bioactivity |
 |---------------|-------------------|-------------|
@@ -103,12 +103,12 @@ The most widely reported use of *A. racemosa* is for the treatment of respirator
 
 ### Gastrointestinal Disorders
 - **Diarrhea and dysentery:** Aqueous leaf extract is taken orally; the high tannin content provides an astringent effect
-- **Stomach ache:** Root bark decoction
+- **Stomach ache:** [[iboga-root-bark-preparation]] decoction
 - **Worm infestations:** Crushed leaves mixed with food, particularly for children
 
 ### Dermatological Applications
 - **Wound healing:** Fresh leaves are crushed and applied as a poultice to cuts and abrasions
-- **Skin infections:** Leaf sap is applied topically to fungal infections and eczema
+- **Skin infections:** Leaf sap is applied topically to [[blesching-cannabis-fungal-infections-candida]] and eczema
 - **Burns:** Mashed leaf paste serves as a cooling and healing dressing
 
 ### Other Traditional Uses
@@ -120,7 +120,7 @@ The most widely reported use of *A. racemosa* is for the treatment of respirator
 ## Pharmacological Studies
 
 ### Antimicrobial Activity
-In vitro studies have demonstrated that methanolic and aqueous extracts of *A. racemosa* exhibit significant antibacterial activity against both Gram-positive bacteria (*Staphylococcus aureus*, *Bacillus subtilis*) and Gram-negative bacteria (*Escherichia coli*, *Pseudomonas aeruginosa*). Antifungal activity has been reported against *Candida albicans* and *Aspergillus niger*.
+In vitro studies have demonstrated that methanolic and aqueous extracts of *A. racemosa* exhibit significant antibacterial activity against both Gram-positive bacteria (*Staphylococcus aureus*, *Bacillus subtilis*) and Gram-negative bacteria (*Escherichia coli*, *Pseudomonas aeruginosa*). Antifungal activity has been reported against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and *Aspergillus niger*.
 
 ### Anti-inflammatory and Analgesic Effects
 Animal studies using rat and mouse models have confirmed the anti-inflammatory properties of leaf extracts, showing significant reduction in carrageenan-induced paw edema. The analgesic effects have been validated in acetic acid-induced writhing tests and hot-plate assays.
@@ -134,18 +134,15 @@ Acute toxicity studies in rodents have shown that aqueous and ethanolic extracts
 ## Cultivation and Propagation
 
 *A. racemosa* can be propagated by both seed and stem cuttings:
-
-- **Seed propagation:** Seeds are sown in nursery beds during the early rainy season; germination occurs within 2–3 weeks
-- **Vegetative propagation:** Semi-hardwood cuttings (15–20 cm) root readily in moist sand or loam under partial shade
-- **Spacing:** Plants should be spaced 30–50 cm apart
-- **Harvest:** Leaves can be harvested beginning 3–4 months after establishment; regrowth is rapid
-
 ## See Also
 
 - acalypha racemosa
 - [[termitomyces-african-mushrooms]]
-- [[biodiversity-fungi-endophytes-tropical-plants]]
+- biodiversity-fungi-endophytes-tropical-plants
 
 ## See Also
 
-- [[herbal-medicine-making]]
+- [[herbal-medicine-making-basics]]
+- [[bacillus-subtilis]]
+- [[candida-albicans]]
+- [[aspergillus-niger]]

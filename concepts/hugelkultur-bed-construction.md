@@ -1,5 +1,5 @@
 ---
-title: Hugelkultur Bed Construction
+title: Hugelkultur hugelkultur-bed-construction-detailed
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -37,11 +37,11 @@ Potatoes really love hugelkultur — Toby Hemenway reports starting potatoes in 
 
 ## Benefits
 
-- **Water retention**: As the woody brush rots, it holds quite a bit of water. The decomposing organic matter also raises the temperature just enough to boost plant growth. You don't need to fertilize or irrigate hugelkultur very often
+- **Water retention**: As the woody brush rots, it holds quite a bit of water. The decomposing [[hamilton-composting-and-organic-matter-management]] also raises the temperature just enough to boost plant growth. You don't need to fertilize or irrigate hugelkultur very often
 - **Nutrient release**: The rotting wood releases nutrients slowly over years
 - **Soil building**: Wood decomposes into rich humus, building deep topsoil from below
-- **Waste recycling**: Turns brush, prunings, and waste wood into productive growing space
-- **Season extension**: The decomposition process generates heat, warming the bed earlier in spring
+- **[[mollison-designers-banana-circle-waste-recycling-system]]**: Turns brush, prunings, and waste wood into productive [[cotter-growing-space-design-fruiting-rooms]]
+- **[[comparison-season-extension-techniques-vs-cold-frame-gardening]]**: The decomposition process generates heat, warming the bed earlier in spring
 
 ## Trench (Sunken) Variation
 
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

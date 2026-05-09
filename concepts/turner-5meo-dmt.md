@@ -1,5 +1,5 @@
 ---
-title: 5-MeO-DMT - The Essential Psychedelics Guide
+title: 5-MeO-DMT - The turner-essential-psychedelics-5-meo-dmt-void-experience Guide
 created: 2026-04-26
 author: D.M. Turner
 sources: The Essential Psychedelics Guide (1994)
@@ -14,7 +14,7 @@ updated: 2026-04-26
 
 ## Overview
 
-5-Methoxy-Dimethyltryptamine (5-MeO-DMT) is one of two primary forms of DMT discussed by Turner. It is a naturally occurring psychedelic found in a variety of plants and is also produced in the human pineal gland. It is an **MAO inhibitor**.
+5-Methoxy-Dimethyltryptamine (5-MeO-DMT) is one of two primary forms of DMT discussed by Turner. It is a naturally occurring psychedelic found in a variety of plants and is also produced in the human [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]]. It is an **MAO inhibitor**.
 
 ## Safety
 
@@ -64,7 +64,7 @@ On 5-MeO, one can literally feel the mind **exploding and expanding outward** to
 | Onset | Extremely rapid, forceful | Slightly slower, enchanting |
 | Visuals | Geometric, B&W checkerboard | Spectacular, colorful, kaleidoscopic |
 | Entity contact | Less common | More common (gnomes, elves, discarnate entities) |
-| Ego dissolution | Total, immediate | Leaves portion of ego intact |
+| [[psilocybin-ego-dissolution-mechanisms]] | Total, immediate | Leaves portion of ego intact |
 | Fear potential | Can awe or frighten with power | Can delight but also produce deepest fear |
 | Anesthetic quality | Less pronounced | Unique "selective anesthetic" property |
 | Physical energy | More forceful | Gentler |

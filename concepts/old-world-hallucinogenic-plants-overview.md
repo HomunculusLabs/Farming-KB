@@ -1,5 +1,5 @@
 ---
-title: "Old World Hallucinogenic Plants: Overview and Cultural Significance"
+title: "Old old world hallucinogenic plants overview Plants: Overview and ethnomycology-cultural-significance-sacred-fungi"
 created: "2026-04-17"
 updated: "2026-04-17"
 type: concept
@@ -11,13 +11,13 @@ sources:
 
 Existing evidence indicates that man in the Old World — Europe, Asia, Africa, and Australia — has made less use of native plants and shrubs for their hallucinogenic properties than has man in the New World. This disparity is one of the most puzzling questions in ethnopharmacology, and its causes remain debated among scholars of [[practitioner-cannabis-ritual-use-and-sacrament]] spans cultures from India to Scythia to ancient Egypt.
 
-The several solanaceous ingredients of medieval witches' brews — [[belladonna-atropa-belladonna-ethnobotany]], and [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] contain tropane alkaloids and were central to the [[allegro-colour-and-consistency-of-the-amanita-muscaria]] (the fly agaric mushroom) may be one of man's oldest hallucinogens. Its strange effects may have contributed to early ideas of deity, and recent studies suggest it was the mysterious God-narcotic soma of ancient India. The mushroom grows in the north temperate regions of both hemispheres, though the Eurasian type possesses stronger hallucinogenic effects than its North American counterpart.
+The several solanaceous ingredients of medieval witches' brews — [[belladonna-atropa-belladonna-ethnobotany]], and [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] contain tropane alkaloids and were central to the [[allegro-colour-and-consistency-of-the-amanita-muscaria]] (the fly agaric mushroom) may be one of man's oldest hallucinogens. Its strange effects may have contributed to early ideas of deity, and recent studies suggest it was the mysterious God-narcotic soma of ancient India. The mushroom grows in the north temperate regions of both hemispheres, though the Eurasian type possesses stronger hallucinogenic effects than its [[growing-gourmet-north-american-reishi-species]] counterpart.
 
 ## Regional Traditions of Old World Hallucinogen Use
 
 ### Siberia and Northern Asia
 
-In Siberia, Amanita muscaria served as an orgiastic and shamanistic inebriant. The use was discovered in 1730 and subsequently documented among several isolated groups including the Ostyak and Vogul (Finno-Ugrian peoples) in western Siberia, and the Chuckchee, Koryak, and Kamchadal tribes in northeastern Siberia. These tribes had no other intoxicant until they learned of alcohol relatively recently.
+In Siberia, [[allegro-amanita-muscaria-properties-and-pharmacology]] served as an orgiastic and shamanistic inebriant. The use was discovered in 1730 and subsequently documented among several isolated groups including the Ostyak and Vogul (Finno-Ugrian peoples) in western Siberia, and the Chuckchee, Koryak, and Kamchadal tribes in northeastern Siberia. These tribes had no other intoxicant until they learned of alcohol relatively recently.
 
 The Siberian practice included eating the mushrooms sun-dried or toasted slowly over a fire, or taking them in reindeer milk or with the juice of wild plants such as species of Vaccinium and Epilobium. A curious practice involved the ritualistic drinking of urine from men who had become intoxicated, as the active principles pass through the body and are excreted unchanged or as still-active derivatives.
 
@@ -41,7 +41,7 @@ The cannabis tradition, which originated in Central Asia and spread to virtually
 
 ## Modern Research and Rediscovery
 
-Modern ethnopharmacological research continues to uncover new aspects of Old World hallucinogenic plant use. The [[beta-carboline-chemistry]] from Syrian rue, once known primarily as a dye plant and folk medicine, are now recognized as essential components of the Amazonian [[golden-guide-hallucinogenic-plants-overview]]
+Modern ethnopharmacological research continues to uncover new aspects of Old World hallucinogenic plant use. The [[beta-carboline-chemistry]] from [[golden-guide-syrian-rue-and-maoi-plants]], once known primarily as a dye plant and folk medicine, are now recognized as essential components of the Amazonian [[golden-guide-hallucinogenic-plants-overview]]
 ## Practical Considerations
 
 When working with Old World Hallucinogenic Plants: Overview and Cultural Significance, several practical factors should be
@@ -58,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,4 +100,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

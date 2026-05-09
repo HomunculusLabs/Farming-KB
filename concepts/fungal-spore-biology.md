@@ -23,11 +23,11 @@ sources:
 
 # Fungal Spore Biology
 
-Fungal spores are the primary vehicles for dispersal, survival, and reproduction in the fungal kingdom. They range from microscopic single cells to elaborate multi-armed structures adapted to specific environments. This page covers spore formation, discharge mechanisms, dispersal strategies, and the remarkable diversity of spore forms documented by [[nicholas-money]] and others.
+Fungal spores are the primary vehicles for dispersal, survival, and reproduction in the fungal kingdom. They range from microscopic single cells to elaborate multi-armed structures adapted to specific environments. This page covers spore formation, [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]], dispersal strategies, and the remarkable diversity of spore forms documented by [[nicholas-money]] and others.
 
 ## Spore Discharge — Buller's Drop
 
-The spore catapult mechanism (Buller's drop) is one of the most elegant processes in biology, first detailed by A.H.R. Buller in his seven-volume Researches on Fungi:
+The [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] mechanism (Buller's drop) is one of the most elegant processes in biology, first detailed by A.H.R. Buller in his seven-volume Researches on Fungi:
 
 1. A fluid droplet (Buller's drop) condenses on the spore surface due to the spore's hygroscopic (water-absorbing) sugars
 2. The droplet swells until it contacts a neighboring spore or the basidium, forming a liquid bridge
@@ -50,7 +50,7 @@ Wind tunnel studies by Money revealed:
 - Mushroom stems elevate caps above the ground-level boundary layer of still air
 - Airflow divides at the cap's leading edge and accelerates above and below (like an aircraft wing)
 - An "air shadow" of calm air forms immediately beneath the cap, allowing spores to fall freely without being blown back
-- **Campanulate (bell-shaped) caps** are particularly effective at this — found commonly in meadow species like Psilocybe semilanceata, Conocybe, and Coprinus comatus
+- **Campanulate (bell-shaped) caps** are particularly effective at this — found commonly in meadow species like [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], Conocybe, and [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]
 
 ## Gasteromycete Spore Release
 
@@ -65,7 +65,7 @@ The loss of water-dependent spore propulsion enables gasteromycetes to colonize 
 
 ## Aquatic Spores — Ingold's Jewels
 
-C.T. Ingold's pioneering work on aquatic hyphomycetes revealed an astonishing array of spore shapes:
+C.T. Ingold's pioneering work on [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]] revealed an astonishing array of spore shapes:
 
 ### Tetraradiate (Four-Armed) Spores
 - Star-shaped spores with arms radiating from a central hub
@@ -118,7 +118,7 @@ Contrary to intuition, arms do NOT slow spore descent in water — water is a vi
 ## Spore Germination and Survival
 
 - Many soil fungi persist as resting spores for decades (Synchytrium endobioticum spores survive 40+ years)
-- Spore germination requires specific cues: nutrients, temperature, moisture, sometimes chemical signals from host organisms
+- Spore germination requires specific cues: nutrients, temperature, moisture, sometimes [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] from host organisms
 - Lichen spores require algal partners for germination — most fail to establish
 - See [[fungal-biodiversity]] for estimates of undiscovered species that exist only as spores in soil
 

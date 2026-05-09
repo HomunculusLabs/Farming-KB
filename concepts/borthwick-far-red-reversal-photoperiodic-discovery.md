@@ -9,7 +9,7 @@ sources:
 # Borthwick and the Discovery of [[sacramental-ayahuasca-legal-battles-united-states]] Department of
 Agriculture made one of the most surprising discoveries in twentieth-century plant
 physiology when they demonstrated that famollison-designers-day-lengt [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]] here that Wightman W.
-Garner and Harry A. Allard first studied the Maryland Mammoth tobacco in 1918,
+Garner and Harry A. Allard first studied the [[chamovitz-maryland-mammoth-photoperiodism-discovery]] tobacco in 1918,
 discovering the phenomenon of photoperiodism. That work established that plants
 measure the length of the daily light period to determine when to initiate
 flowering. The same laboratory continued to be a centre for photoperiodism
@@ -20,12 +20,12 @@ By the time of World War II, researchers at Beltsville and elsewhere had made
 significant progress in understanding photoperiodism. They had classified plants
 into short day species (which flower when days are short), long day species
 (which flower when days are long), and day neutral species (whose flowering is
-unaffected by day length). They had also demonstrated that what plants actually
-measure is not [[julius-von-sachs-blue-light-phototropism-discovery]] ht photoreceptor, distinct from the blue light
+unaffected by [[coleman-winter-day-length-and-persephone-months]]). They had also demonstrated that what plants actually
+measure is not [[julius-von-sachs-blue-light-phototropism-discovery]] ht photoreceptor, distinct from the [[chamovitz-julius-von-sachs-blue-light-phototropism]]
 photoreceptors (later identified as phototropins) that mediated phototropic
 bending.
 
-The existence of a red light specific photoreceptor raised fundamental questions
+The existence of a [[phytochrome-red-far-red-light-switch]] specific photoreceptor raised fundamental questions
 about its molecular nature and mechanism of action. How did this receptor work?
 W [[phytochrome-red-far-red-switch-and-photoperiodism]]
 ## Practical Applications
@@ -105,4 +105,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

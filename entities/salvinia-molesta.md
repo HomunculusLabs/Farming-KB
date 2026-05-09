@@ -12,7 +12,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Room, P.M. (1990). "Ecology of a simple plant-herbivore system: Salvinia molesta." Biological Journal of the Linnean Society, 40(2), 125-136.
-  - Julien, M.H. et al. (2009). "Salvinia molesta D.S. Mitch." In: Biological Control of Tropical Weeds Using Arthropods, Cambridge University Press.
+  - Julien, M.H. et al. (2009). "Salvinia molesta D.S. Mitch." In: [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] of Tropical Weeds Using Arthropods, Cambridge University Press.
   - McFarland, D.G. et al. (2004). "Salvinia molesta: assessment and management." Aquatics, 26(3), 6-10.
   - Nelson, L.S. (2003). "Salvinia molesta." USDA-ARS, GRIN Taxonomy. https://npgsweb.ars-grin.gov/
 ---
@@ -21,7 +21,7 @@ sources:
 
 **Salvinia molesta** (giant salvinia) is a free-floating aquatic fern in the family Salviniaceae. Native to southeastern Brazil, it has become one of the world's most destructive invasive aquatic plants.
 
-The species forms dense mats on water surfaces that can double in biomass within 2–3 days under optimal conditions. These mats block sunlight, deplete dissolved oxygen, and displace native aquatic vegetation entirely.
+The species forms dense mats on water surfaces that can double in biomass within 2–3 days under optimal conditions. These mats block sunlight, deplete [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]], and displace native aquatic vegetation entirely.
 
 Giant salvinia was first identified as a distinct species in 1972 by D.S. Mitchell. Prior to that, it was frequently confused with the related *Salvinia auriculata* complex.
 
@@ -31,7 +31,7 @@ Biological control using the weevil *Cyrtobagous salviniae* has proven highly ef
 
 **Taxonomic classification:** Kingdom Plantae, Phylum Polypodiopsida, Class Polypodiopsida, Order Salviniales, Family Salviniaceae, Genus *Salvinia*, Species *S. molesta*. The authority is D.S. Mitchell (1972).
 
-The species belongs to the *Salvinia auriculata* complex, a group of closely related South American species that are difficult to distinguish morphologically. Sterile collections, which represent the vast majority of field material, cannot be reliably differentiated without genetic analysis.
+The species belongs to the *Salvinia auriculata* complex, a group of closely related [[chiric-caspi-brunfelsia-south-american-hallucinogen]] species that are difficult to distinguish morphologically. Sterile collections, which represent the vast majority of field material, cannot be reliably differentiated without genetic analysis.
 
 All known wild populations of *S. molesta* are sterile triploids that reproduce exclusively by vegetative fragmentation. No fertile sporocarps have been observed outside of laboratory conditions, which limits genetic diversity in invasive populations.
 
@@ -89,20 +89,20 @@ Mechanical removal using harvesters or nets can clear surface mats but leaves be
 
 ## Chemistry and Uses
 
-*Salvinia molesta* contains several secondary metabolites including flavonoids, phenolic acids, and tannins. These compounds contribute to the plant's resistance to herbivory by generalist insects in its introduced range.
+*Salvinia molesta* contains several [[antifungal-secondary-metabolites-coprophilous-fungi]] including flavonoids, phenolic acids, and tannins. These compounds contribute to the plant's resistance to herbivory by generalist insects in its introduced range.
 
 The species has been investigated for phytoremediation potential, particularly for heavy metal removal from contaminated water. The fern can accumulate lead, cadmium, chromium, and arsenic from solution into its biomass.
 
-Harvested biomass has potential as feedstock for biogas production through anaerobic digestion. Methane yields from *Salvinia* biomass are comparable to other aquatic weeds, though the high water content reduces efficiency per unit mass.
+Harvested biomass has potential as feedstock for biogas production through [[biogas-digester-basics]]. Methane yields from *Salvinia* biomass are comparable to other aquatic weeds, though the high water content reduces efficiency per unit mass.
 
 In its native Brazil, the plant has limited traditional uses in animal fodder and compost. However, these uses are far outweighed by the ecological and economic damage caused by invasive populations in non-native ranges.
 
-The species has been studied as a potential bioindicator of water quality due to its rapid growth response to nutrient availability. Biomass accumulation rates correlate with phosphorus and nitrogen concentrations in the water column.
+The species has been studied as a potential bioindicator of water quality due to its rapid growth response to [[ph-and-nutrient-availability-garden-soils]]. Biomass accumulation rates correlate with phosphorus and nitrogen concentrations in the water column.
 
 ## See Also
 
 - [[azolla-caroliniana]]
 - [[pistia-stratiotes]]
 - [[nymphaea-alba]]
-- [[typha-latifolia-entity]]
+- typha-latifolia-entity
 - [[canna-indica]]

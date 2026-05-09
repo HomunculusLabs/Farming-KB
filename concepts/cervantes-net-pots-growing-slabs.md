@@ -1,19 +1,20 @@
 ---
-title: Net Pots and Growing Slabs in Hydroponics
+title: cervantes net pots growing slabs and Growing Slabs in Hydroponics
 created: 2026-04-26
 tags: [cannabis, hydroponics, net-pots, growing-slabs, containers]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Net Pots and Growing Slabs in Hydroponics
 
 Net pots and growing slabs are fundamental containers in hydroponic
-cannabis cultivation. Jorge Cervantes describes their use across
-multiple hydroponic system types, from deep water culture to top-feed
+[[query-how-does-no-till-cannabis-cultivation-work]]. Jorge Cervantes describes their use across
+multiple hydroponic system types, from [[cannabis-deep-water-culture-guide]] to top-feed
 slab systems. Understanding the proper selection and use of these
 containers is essential for healthy root development and efficient
 nutrient delivery.
@@ -22,7 +23,7 @@ nutrient delivery.
 
 Net pots are perforated plastic containers, typically cylindrical or
 conical, with open sides and bottoms that allow roots to grow
-through into the nutrient solution or moist air surrounding them.
+through into the [[cannabis-nutrient-solution-preparation]] or moist air surrounding them.
 They come in various sizes, most commonly 2-inch, 3-inch, and
 6-inch diameters. Small net pots are used in cloning systems and
 aeroponics, while larger net pots support mature flowering plants.
@@ -30,7 +31,7 @@ aeroponics, while larger net pots support mature flowering plants.
 ### Use in Deep Water Culture (DWC)
 
 In DWC systems, seedlings and clones are held in net pots full of
-expanded clay pellets, rockwool, or other growing medium. The net
+expanded [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]], rockwool, or other growing medium. The net
 pots are nestled in holes in a lid that covers the reservoir. The
 roots of seedlings and cuttings dangle down into the nutrient
 solution. Cervantes describes this setup as simple and productive,
@@ -59,7 +60,7 @@ roots before they grow into the nutrient solution.
 ## Growing Slabs
 
 Growing slabs are rectangular blocks of compressed growing medium,
-most commonly rockwool or coco coir, wrapped in plastic. They serve
+most commonly rockwool or [[comparison-coco-coir-cannabis-vs-peat-free-gardening]], wrapped in plastic. They serve
 as growing containers for commercial and large-scale hydroponic
 operations.
 

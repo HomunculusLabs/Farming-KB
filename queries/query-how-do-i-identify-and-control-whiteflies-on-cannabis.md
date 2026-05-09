@@ -1,10 +1,11 @@
 ---
-title: "How Do I Identify and Control Whiteflies on Cannabis?"
+title: "How Do I query-how-do-i-identify-and-control-aphids-on-cannabis Whiteflies on Cannabis?"
 created: 2026-04-28
 tags: [query, cannabis, pests, whiteflies, ipm]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -12,13 +13,13 @@ type: query
 
 ## Short Answer
 Whiteflies are tiny, moth-like insects that congregate on the undersides
-of cannabis leaves, sucking sap and excreting honeydew that promotes sooty
+of [[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]], sucking sap and excreting honeydew that promotes sooty
 mold growth. They are easily detected by gently shaking the plant and
 watching for a cloud of small white flying insects. Control involves
-yellow sticky traps, biological predators like Encarsia formosa wasps,
-organic sprays such as neem|neem oil and insecticidal soap, and
+yellow [[cervantes-sticky-traps-pest-monitoring]], biological predators like Encarsia formosa wasps,
+organic sprays such as neem|[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] and insecticidal soap, and
 rigorous environmental hygiene as part of a comprehensive
-[[gaias-garden-host-plants-beneficial-insects]]
+gaias-garden-host-plants-beneficial-insects
 program.
 
 Organic spray options for whiteflies include neem|neem oil,
@@ -63,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

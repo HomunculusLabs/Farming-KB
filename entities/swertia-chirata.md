@@ -41,7 +41,7 @@ and *CITES Appendix II* regulates its trade.
 
 ## Taxonomy
 
-- **Kingdom:** Plantae
+- **King[[dom|dom]]:** Plantae
 - **Division:** Angiospermae
 - **Class:** Magnoliopsida
 - **Order:** Gentianales
@@ -138,13 +138,10 @@ wild collection due to quality differences.
 ## 
 
 *Swertia chirata* is classified as **Critically Endangered** by the
-IUCN Red List. Primary threats include overharvesting (demand exceeds
-wild supply ~5:1), habitat destruction, and climate-driven range shifts.
-
 ## See Also
 
 ## See Also
-- [[mushroom-cultivation-for-people-with-disabilities]]
+- mushroom-cultivation-for-people-with-disabilities
 - [[companion-cultivation-of-mushrooms-with-garden-vegetables]]
 
 ## See Also

@@ -1,5 +1,5 @@
 ---
-title: "Psilocybin Mushrooms (Plants of the Gods)"
+title: "forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc (Plants of the Gods)"
 created: 2026-04-28
 tags: [ethnobotany, psychoactive-plants, traditional-use, entheogen, plants-of-the-gods]
 date: 2026-04-28
@@ -15,7 +15,7 @@ type: concept
 Psilocybin mushrooms, known to the Aztecs as Teonanacatl ("flesh of the
 gods"), represent one of the most culturally significant groups of
 hallucinogenic fungi in human history. Found primarily in Mexico and
-Central America, these mushrooms contain the psychoactive compounds
+[[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], these mushrooms contain the psychoactive compounds
 psilocybine and psilocine, which are structurally related to serotonin
 and exert profound effects on consciousness. At least twenty-four species
 are employed at the present time in southern Mexico for magico-religious
@@ -29,7 +29,7 @@ family Strophariaceae, though psychoactive species also occur in the
 genera Conocybe, Panaeolus, and Stropharia. Key species documented in
 "Plants of the Gods" include:
 
-- **Psilocybe mexicana** Heim (Teonanacatl): The type species first
+- **[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]** Heim (Teonanacatl): The type species first
   studied by Hofmann. Found in subtropical grasslands of Mexico.
 - **[[psilocybe-cyanescens]]** Wakefield (Wavy Cap): Identified by its wavy
   brown cap 2-4 cm wide. Grows on decaying plants, coniferous mulch,
@@ -51,8 +51,8 @@ which have a rather unpleasant taste, one merely needs to take about
 0.008 gram of pure psilocybine to experience the hallucinogenic effects,
 which generally last for several hours.
 
-For Psilocybe cyanescens, visionary doses are approximately 1 gram of
-the dried mushroom. For Panaeolus cyanescens, activity is experienced
+For [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]], visionary doses are approximately 1 gram of
+the dried mushroom. For [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]], activity is experienced
 with 1.5 g dried mushroom; 2.7 g are visionary. The effects typically
 include visual hallucinations, altered perception of time and space,
 synesthesia, and profound emotional and spiritual experiences.
@@ -66,7 +66,7 @@ the Conquest, Spanish authorities violently suppressed mushroom use,
 driving the practice underground where it persisted for centuries.
 
 In 1957, R. Gordon Wasson published his famous article in Life magazine
-describing his experiences with Mazatec mushroom ceremonies, bringing
+describing his experiences with [[maria-sabina-mazatec-mushroom-ceremony]] ceremonies, bringing
 Teonanacatl to global attention. Subsequently, Roger Heim identified
 and cultivated the species, and Albert Hofmann isolated psilocybine and
 psilocine in pure crystalline form. The Aztec statue of Xochipilli, the

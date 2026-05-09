@@ -13,7 +13,7 @@ type: concept
 
 ## Opium and Cultural Style
 
-In the early nineteenth century, opium was influencing more than the Far Eastern
+In the early [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], opium was influencing more than the Far Eastern
 policy of the mercantile empires; it was also having an unexpected influence on the
 esthetic forms and styles of European thought. European society was awakening from
 narcissistic preoccupation with Renaissance Classicism and finding itself a spectator
@@ -32,7 +32,7 @@ Morpheus, the Greek god of dreams. It was this success in isolating the essence 
 the opium poppy that inspired chemists to attempt the isolation of pure compounds
 from other proven materia medica. Drugs for the relief of heart disease were isolated
 from foxglove. Quinine was extracted from the cinchona tree, purified, and used in
-the colonial conquest of the malarial zone. And from the leaves of a South American
+the colonial conquest of the malarial zone. And from the leaves of a [[chiric-caspi-brunfelsia-south-american-hallucinogen]]
 bush was extracted a new and promising local anesthetic: cocaine.
 
 Morphine use was restricted and sporadic until after the middle of the nineteenth
@@ -51,7 +51,7 @@ meaning highly addictive injectable narcotics. At first such drugs were derived 
 opiates, but all too soon cocaine joined the list. Once heroin, invented as a cure
 for morphine addiction, was introduced, it quickly replaced morphine as the
 synthetic opiate of choice among addicts. Heroin has retained this position
-throughout the twentieth century.
+throughout the [[coleman-louis-savier-twentieth-century-maraicher]].
 
 Heroin also quickly replaced all other drugs in the public fantasy concerning the
 evils of drug addiction. Even to this day, with statistics showing that alcohol kills
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

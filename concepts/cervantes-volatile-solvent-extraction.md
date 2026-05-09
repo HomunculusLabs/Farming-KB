@@ -1,11 +1,12 @@
 ---
-title: Volatile Solvent Extraction and Hash Oil
+title: cervantes volatile solvent extraction Extraction and Hash Oil
 type: concept
 created: 2026-04-25
 type: concept
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 tags: [cannabis, extraction, solvent, BHO, hash-oil]
 ---
 
@@ -20,13 +21,13 @@ residue in the final product.
 
 ## Hash Oil Overview
 
-Hash oil is a concentrate of hash or marijuana (cannabis oil)
+Hash oil is a concentrate of hash or marijuana ([[cervantes-hash-cannabis-oil-production]])
 that has been dissolved in hydrocarbon solvents such as ether
 and alcohol to extract THC. Hash and cannabis oil frequently
 retain residues from the solvents used to extract the THC.
 These residues pose a health risk to consumers.
 
-The oils can be very concentrated and potent. Honey oil was
+The oils can be very concentrated and potent. [[cannabis-honey-oil-production]] was
 somewhat popular in America in the early 1970s, with a
 translucent golden-amber color that transformed from stiff,
 toffee-like consistency to runny oil when warmed. Most cannabis
@@ -42,7 +43,7 @@ risks associated with processing solvents.
 
 Cervantes explicitly warns against volatile solvent extraction
 because it requires dangerous chemical solvents including
-isopropyl alcohol, ethyl alcohol, and white gas. The basic
+isopropyl alcohol, [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]], and white gas. The basic
 process involves:
 
 1. Cannabis is soaked in the solvent.

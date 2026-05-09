@@ -1,5 +1,5 @@
 ---
-title: "3C-E (4-Ethoxy-3,5-dimethoxy-A) -- PIHKAL Entry #25"
+title: "3C-E (4-Ethoxy-3,5-dimethoxy-A) -- 2c-b-pihkal-entry-20 #25"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -89,13 +89,13 @@ sample recrystallized from methanol had a mp of 48-49 deg C.
 
 A solution of 3.3 g 3,5-dimethoxy-4-ethoxybenzaldehyde in 25 mL
 nitroethane was treated with 0.5 g anhydrous ammonium acetate and
-heated on the steam bath for 36 h. The solvent/reagent was removed
+heated on the [[scythian-cannabis-steam-bath-ritual]] for 36 h. The solvent/reagent was removed
 
 (Additional synthesis details available in source.)
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

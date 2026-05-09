@@ -21,18 +21,18 @@ type: concept
 Perennial food plants are the backbone of the ecological garden. Unlike annual
 vegetables that must be replanted each year, perennials persist for many
 seasons, producing food while [[root-exudates]] and preventing erosion. Their
-above-ground growth provides continuous habitat for beneficial insects and
+above-ground growth provides continuous [[query-how-do-i-design-habitat-for-beneficial-insects]] insects and
 wildlife.
 
 The ecological argument is compelling: annual agriculture mimics immature,
 disturbed ecosystems colonized by opportunistic species. These early-successional
 plants require frequent disturbance to persist. Perennials dominate mature,
-stable ecosystems. By growing perennials, the gardener aligns with ecological
+stable ecosystems. By [[solomon-growing-perennials-asparagus-rhubarb]], the gardener aligns with ecological
 [[rumex-acetosa]]*): lemony-flavored leaves for salads and
   soups; one of the earliest greens in spring and among the latest in fall.
 - **Good King Henry** (*Blitum bonus-henricus*): spinach-like leaves and edible
   flower buds; a traditional European potherb that persists for decades.
-- **Dandelion** (*[[gaias-garden-food-forest-layers|food forest model]] of
+- **Dandelion** (*food forest model of
   potassium, calcium, and other minerals.
 - **Perennial kale** (*[[allium-schoenoprasum]]*): mild onion flavor; produces from early
   spring through fall; divide clumps every few years.
@@ -40,14 +40,14 @@ stable ecosystems. By growing perennials, the gardener aligns with ecological
   roasting, seeds for cooking; attracts beneficial insects.
 - **Lemongrass** (*Cymbopogon citratus*): tropical perennial for tea and
   cooking; can be grown as an annual in cold climates.
-- **Oregano, marjoram, thyme, and sage**: Mediterranean herbs that thrive in
+- **Oregano, marjoram, thyme, and sage**: [[query-best-mediterranean-herbs-for-beginner-herb-garden]] that thrive in
   well-drained soil and full sun; productive and long-lived.
 
 ## Roots and Tubers
 
 Perennial root crops provide calorie-dense food with minimal effort:
 
-- **Jerusalem artichoke** (*Helianthus tuberosus*): produces abundant tubers
+- **[[comparison-jerusalem-artichoke-vs-potato]]** (*Helianthus tuberosus*): produces abundant tubers
   that store well; towers 8 to 12 feet tall, making a dramatic garden
   statement. Can be invasive — plant in contained areas.
 - **Salsify** (*Tragopogon porrifolius*): oyster-flavored root; biennial but
@@ -67,7 +67,7 @@ cultivation:
 
 - **Mashua** (*Tropaeolum tuberosum*): nasturtium-relative with peppery tubers;
   extremely productive, pest-resistant, and cold-hardy.
-- **Oca** (*Oxalis tuberosa*): tangy, colorful tubers; productive in cool
+- **Oca** (*[[oxalis-tuberosa]]*): tangy, colorful tubers; productive in cool
   climates and short seasons.
 - **Yacon** (*Smallanthus sonchifolius*): sweet, crisp tubers related to
   sunflowers; contains inulin, making it suitable for diabetics.
@@ -98,8 +98,8 @@ blueberries, raspberries, blackberries, currants, gooseberries, and elderberries
 — bear heavily in small spaces. Nut trees such as walnuts, chestnuts, pecans,
 hazelnuts, and almonds provide protein-rich harvests.
 
-In the [[gaias-garden-food-forest-layers|food forest model]], these trees and
-shrubs are integrated with understory herbs, ground covers, vines, and root
+In the food forest model, these trees and
+shrubs are integrated with understory herbs, [[permaculture-plants-food-forest-ground-covers-bamboos]], vines, and root
 crops into a multi-layered, self-sustaining ecosystem.
 
 ## The Practical Approach

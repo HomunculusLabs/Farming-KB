@@ -32,8 +32,8 @@ During the late 1990s, hallucinogenic mushrooms began to be commercialized by sm
 The "herbal highs" category was an umbrella under which retailers grouped diverse products:
 
 - **Hallucinogenic mushrooms**: The flagship product for many smartshops
-- **Herbal XTC**: Products containing Ephedra alkaloids, Sida cordifolia, guarana, caffeine, Siberian ginseng, and kola nut, marketed as natural alternatives to ecstasy with stimulating, energizing effects
-- **Salvia divinorum**: A sprawling perennial herb from the Sierra Mazatec region of Mexico containing the extremely potent salvinorin-A, with a history of divinatory use and widely available since the mid-1990s primarily as a smoked herb
+- **Herbal XTC**: Products containing Ephedra alkaloids, [[sida-cordifolia]], guarana, caffeine, Siberian ginseng, and kola nut, marketed as natural alternatives to ecstasy with stimulating, energizing effects
+- **[[salvia-divinorum]]**: A sprawling perennial herb from the Sierra Mazatec region of Mexico containing the extremely potent salvinorin-A, with a history of divinatory use and widely available since the mid-1990s primarily as a smoked herb
 - **Other botanical psychoactives**: Various plant-derived products promoted for their mind-altering properties
 
 This category positioning was significant because it connected magic mushrooms to a wider lifestyle and consumer identity centered on "natural" psychoactive experiences, rather than positioning them as isolated drug products.
@@ -74,18 +74,18 @@ When the UK classified hallucinogenic mushrooms as Class A controlled substances
 
 ### Amanita muscaria as Substitute
 
-The most prominent substitution was the marketing of Amanita muscaria (fly agaric) as a legal alternative to psilocybin-containing mushrooms. UK retailers such as EveryOneDoesIt.com and Allsalvia.co.uk began switching their sales to fly agaric and the closely related Amanita pantherina (panther mushroom/panther cap).
+The most prominent substitution was the marketing of Amanita muscaria (fly agaric) as a legal alternative to psilocybin-containing mushrooms. UK retailers such as EveryOneDoesIt.com and Allsalvia.co.uk began switching their sales to fly agaric and the closely related [[amanita-pantherina]] (panther mushroom/panther cap).
 
 This substitution raised significant public health concerns:
 
 - **Different pharmacology**: Amanita species contain muscimol, ibotenic acid, and muscarine, which are "totally different from mushrooms containing psilocybin"
 - **Substantial toxicity risks**: The active chemicals in Amanita carry "substantial toxicity risks"
 - **Deadly lookalike risk**: "Some closely related Amanita species are highly toxic and could cause fatal poisoning"
-- **Consumer confusion**: Users familiar with psilocybin mushroom effects might not understand the different risk profile of Amanita species
+- **Consumer confusion**: Users familiar with [[psilocybin-mushroom]] effects might not understand the different risk profile of Amanita species
 
 ### Purple Ohms Capsules
 
-Another product increasingly marketed as a legal alternative was Purple Ohms capsules. These capsules' main ingredient was Argyreia nervosa (Hawaiian Baby Woodrose, also known as Elephant Creeper and Woolly Morning Glory), which contains Lysergic Acid Amide (LSA). Purple Ohms were described as having "similar effects to LSD," positioning them as a direct substitute within the hallucinogen market rather than specifically as a mushroom replacement.
+Another product increasingly marketed as a legal alternative was Purple Ohms capsules. These capsules' main ingredient was Argyreia nervosa (Hawaiian Baby Woodrose, also known as Elephant Creeper and Woolly Morning Glory), which contains [[lysergic-acid]] Amide (LSA). Purple Ohms were described as having "similar effects to LSD," positioning them as a direct substitute within the hallucinogen market rather than specifically as a mushroom replacement.
 
 ### Smartshop Loophole Exploitation
 
@@ -115,7 +115,7 @@ This asymmetry, favoring positive information while minimizing risks, reflected 
 
 ## Market Evolution Implications
 
-The EMCDDA case study highlighted a fundamental challenge in drug policy: legal restrictions on one substance can displace demand to alternative, potentially more dangerous, products. The prohibition of psilocybin mushrooms appeared to "provoke an emerging interest of retailers in alternative, legal, types of hallucinogenic mushroom such as Amanita muscaria," which carried greater toxicity risks than the prohibited product.
+The EMCDDA case study highlighted a fundamental challenge in drug policy: legal restrictions on one substance can displace demand to alternative, potentially more dangerous, products. The prohibition of [[psilocybin-mushrooms]] appeared to "provoke an emerging interest of retailers in alternative, legal, types of hallucinogenic mushroom such as Amanita muscaria," which carried greater toxicity risks than the prohibited product.
 
 This displacement effect illustrated the importance of considering market dynamics and economic interests when designing regulatory responses to emerging drug trends, as the EMCDDA concluded: "lifestyle trends and economic interests" play crucial roles "in the diffusion of and responses to an emerging drug trend."
 

@@ -1,5 +1,5 @@
 ---
-title: When should I use slip form stone construction instead of another natural building method?
+title: When should I use comparison-slip-form-stone-vs-timber-frame construction instead of another query-how-do-i-choose-a-natural-building-method-for-my-climate method?
 created: 2026-04-28
 tags: [query, natural-building, slipform, stone-masonry, homesteading, construction]
 date: 2026-05-02
@@ -25,9 +25,9 @@ When the concrete cures, the forms are moved upward and reused for the next lift
 The finished wall looks like stone masonry but is easier for many owner-builders than traditional hand-laid stone.
 It is a hybrid method: local stone gives it natural-building appeal, while cement gives it modern masonry strength.
 ## When is it the right choice?
-It is right when stone is already present on the land or available nearby at low cost.
+It is right when stone is already present on the land or available nearby at [[jadam-ultra-low-cost-agriculture]].
 It is right when you want a wall that is fire-resistant, pest-resistant, and long-lived.
-It is right when thermal mass is useful, such as in passive solar buildings or root cellars.
+It is right when thermal mass is useful, such as in [[comparison-passive-solar-vs-earth-sheltered]] buildings or root cellars.
 It is right when the builder has time, patience, and help for heavy lifting.
 It is also right when the building should visually belong to a rocky landscape.
 The more local and abundant the stone, the stronger the case for using it.
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,3 +115,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[slip-form-stone-vs-cordwood-construction]]

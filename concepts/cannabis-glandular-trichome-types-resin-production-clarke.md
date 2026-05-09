@@ -1,5 +1,5 @@
 ---
-title: Cannabis Glandular Trichome Types and Resin Production (Clarke)
+title: Cannabis cannabis glandular trichome types resin production clarke Types and cannabis-resin-production-and-quality-traits-clarke (Clarke)
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Glandular trichomes are the microscopic resin-producing structures on the surface of Cannabis plants. They are the primary site of cannabinoid and terpene biosynthesis and secretion. Understanding trichome types and resin production characteristics is essential for breeding, harvest timing, and predicting cannabinoid content.
+Glandular trichomes are the microscopic resin-producing structures on the surface of Cannabis plants. They are the primary site of cannabinoid and [[clarke-marijuana-botany-terpene-biosynthesis-aromatic-profiles]] and secretion. Understanding trichome types and resin production characteristics is essential for breeding, [[cannabis-harvest-timing-visual-cues]], and predicting cannabinoid content.
 
 ## Trichome Types
 
@@ -99,7 +99,7 @@ In practical terms: many capitate-stalked trichomes means higher THC levels. The
 
 ## Related Topics
 
-- [[cannabis-terpene-profile]] - Terpene profiles in Cannabis
+- [[cannabis-terpene-profile]] - [[cannabis-terpene-profiles-sativa]] in Cannabis
 - [[cannabis-harvest-timing-visual-cues]] - Using trichome appearance for harvest timing
 - [[cannabis-resin-production-and-quality-traits-clarke]]
 - [[cannabis-maturation-and-harvest-by-latitude-clarke]]

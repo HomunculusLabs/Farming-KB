@@ -1,23 +1,21 @@
 ---
-title: Fungal Laccase and Textile Dye Decolorization
+title: singh-fungal-laccase-enzymes-bioremediation and fungal laccase and textile dye decolorization Decolorization
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources: []
 ---
-
-updated: 2026-04-18
-
-Fungal laccases are among the most versatile enzymes in [[fungal-laccase-mediator-systems]] to degrade synthetic dyes represents one of the most commercially advanced applications of fungal bioremediation.
+updated: 2026-04-18 Fungal laccases are among the most versatile enzymes in [[fungal-laccase-mediator-systems]] to degrade synthetic dyes represents one of the most commercially advanced applications of [[staycare-composting-as-a-fungal-bioremediation-strategy]].
 
 ## The Textile Dye Problem
 
-The textile industry generates enormous volumes of colored wastewater containing synthetic dyes. Key characteristics of textile effluents:
+The [[staycare-fungal-treatment-of-textile-industry-wastewater]] generates enormous volumes of colored wastewater containing synthetic dyes. Key characteristics of textile effluents:
 - Over 10,000 different synthetic dyes in commercial use
 - Annual production exceeding 800,000 tons worldwide
 - Dye concentrations in effluents ranging from 10-200 mg/L
-- Many dyes are recalcitrant to conventional wastewater treatment
+- Many dyes are recalcitrant to conventional [[mollison-designers-wastewater-treatment-wetlands]]
 - Color in receiving waters blocks light penetration, affecting photosynthesis
 - Some dyes and their breakdown products are toxic, mutagenic, or carcinogenic
 
@@ -38,7 +36,7 @@ Laccase (EC 1.10.3.2) is a blue multicopper oxidase produced by many fungi, espe
 | Phlebia radiata | High | 4-5 | Good for anthraquinone dyes |
 | Marasmius quercophilus | High | 3-5 | Effective azo dye degrader |
 | Bjerkandera adusta | High | 4-6 | Versatile; degrades multiple dye classes |
-| [[fungal-enzyme-systems-in-bioremediation]]
+| fungal-enzyme-systems-in-bioremediation
 - [[fungal-industrial-wastewater-treatment]]
 - [[fungal-biodegradation-and-biodeterioration]]
 
@@ -61,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

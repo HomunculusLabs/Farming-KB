@@ -1,5 +1,5 @@
 ---
-title: "What Causes Cannabis Plants to Wilt and How Do I Fix It?"
+title: "What query-what-causes-cannabis-bud-rot-and-how-to-prevent-it Plants to Wilt and How Do I Fix It?"
 created: 2026-04-28
 tags: [query, cannabis, watering, plant-health, troubleshooting]
 date: 2026-04-25
@@ -14,7 +14,7 @@ type: query
 Cannabis wilting is almost always a water-related issue, either from
 underwatering (dry soil, crisp leaves) or overwatering (soggy soil,
 drooping but soft leaves). However, wilting can also result from root-bound
-conditions, heat stress, root rot from pathogens like pythium-ultimum|Pythium,
+conditions, [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]], [[cannabis-root-rot-prevention-and-treatment]] from pathogens like pythium-ultimum|Pythium,
 or nutrient toxicity. Identifying the underlying cause by checking soil
 moisture, root health, and environmental conditions is the key to
 effective treatment and prevention.
@@ -22,12 +22,12 @@ effective treatment and prevention.
 ## Detailed Explanation
 
 Wilting is one of the most common and alarming symptoms a cannabis grower
-encounters. The plant's leaves lose turgor pressure and droop downward,
+encounters. The plant's leaves lose [[bloomfield-turgor-pressure-and-hyphal-invasion]] and droop downward,
 often dramatically and seemingly overnight. While the instinct is to
 immediately water a wilted plant, this can be the worst possible response
 if the root cause is actually overwatering. Correctly diagnosing the
 reason for wilting requires a systematic evaluation of soil conditions,
-root health, environmental factors, and recent cultivation practices.
+root health, [[duggar-mushroom-environmental-factors-temperature-moisture-light]], and recent cultivation practices.
 Taking a few minutes to assess the situation before acting can save a
 plant that might otherwise be killed by well-intentioned overwatering.
 
@@ -64,7 +64,7 @@ Nutrient-related wilting can occur from both toxicity and extreme
 deficiency. Excessive nutrient salt concentrations, measurable with an
 ec-tds-cannabis|EC/TDS meter, create osmotic stress that prevents
 roots from absorbing water even when it is present in the medium. This is
-sometimes called "nutrient lockout" and often manifests alongside
+sometimes called "[[cannabis-nutrient-lockout-and-ph]]" and often manifests alongside
 [[query-how-to-fix-overwatering-in-cannabis]]
 - [[query-how-to-manage-ph-for-healthy-cannabis-plants]]
 - [[query-what-causes-nutrient-lockout-in-cannabis]]
@@ -87,3 +87,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]]

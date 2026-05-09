@@ -16,7 +16,7 @@ The 5-methoxy substitution on the tryptamine indole ring produces a distinct pha
 **Dosage**: 5-10 mg smoked, 12 mg oral (with harmaline)
 **Duration**: 12-24 hours
 
-A longer-acting 5-methoxy compound with substantially more complex psychedelic effects than 5-MeO-DMT. When combined with harmaline to enable oral activity, the duration extends dramatically, producing what Shulgin describes as a uniquely extended experience.
+A longer-acting 5-methoxy compound with substantially more complex psychedelic effects than 5-MeO-DMT. When combined with harmaline to enable [[tihkal-oral-activity-mao-inhibition]], the duration extends dramatically, producing what Shulgin describes as a uniquely extended experience.
 
 ## 5-MeO-DIPT ("Foxy")
 
@@ -41,10 +41,10 @@ The mono-methylated parent of 5-MeO-DMT. Higher doses needed due to reduced amin
 
 ## Pharmacological Character
 
-The 5-methoxy family shares several distinctive features:
+The 5-methoxy family shares several [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]]:
 
 1. **Extreme potency**: 5-MeO-DMT is active at doses 5-10x lower than DMT when smoked, despite similar molecular weights
-2. **Physical emphasis**: Unlike 4-hydroxy tryptamines which produce rich visual phenomenology, 5-methoxy compounds tend toward somatic intensity, a rushing or pressure sensation, and a sense of ego dissolution without correspondingly rich imagery
+2. **Physical emphasis**: Unlike 4-hydroxy tryptamines which produce rich visual phenomenology, 5-methoxy compounds tend toward somatic intensity, a rushing or pressure sensation, and a sense of [[psilocybin-ego-dissolution-mechanisms]] without correspondingly rich imagery
 3. **Minimal auditory component**: Even compared to DMT, 5-MeO compounds tend to produce relatively silent experiences
 4. **Variable oral activity**: Unlike DMT which is strictly inactive orally without an MAOI, some 5-MeO compounds (particularly 5-MeO-DIPT and 5-MeO-MIPT) show partial oral activity, likely due to steric hindrance at the amine nitrogen reducing metabolic deamination
 
@@ -69,7 +69,7 @@ The pattern of substitution on the side-chain amine nitrogen is perhaps the sing
 
 **N,N-Dimethyl (DMT pattern)**: Classic, short-acting, not orally active without MAOI. Smoked/injected duration: 15-30 minutes.
 
-**N,N-Diethyl (DET pattern)**: Longer duration (2-4 hours oral), fuller psychedelic experience, beginning to show partial oral activity at higher doses (50-100 mg).
+**N,N-Diethyl (DET pattern)**: Longer duration (2-4 hours oral), fuller [[leary-psychedelic-experience-bardo-mapping]], beginning to show partial oral activity at higher doses (50-100 mg).
 
 **N,N-Dipropyl (DPT pattern)**: Duration extends further, oral activity at 100-250 mg, more stoning quality.
 
@@ -98,7 +98,7 @@ TIHKAL #46 (5-MeS-DMT) provides a direct comparison of methylthio vs methoxy sub
 
 Shulgin's "tennis ball" analogy (TIHKAL #14) elegantly illustrates steric effects:
 
-n-butyl, isobutyl, sec-butyl, and tert-butyl groups are structural isomers with identical atomic composition but different three-dimensional arrangements. When attached to a molecule, these groups create different spatial profiles that affect how the molecule interacts with receptor binding sites, enzymes, and transport proteins. The bulkier and more branched the group, the greater the steric hindrance at the amine nitrogen, which correlates with increased oral activity (presumably through reduced accessibility to MAO enzymes).
+n-butyl, isobutyl, sec-butyl, and tert-butyl groups are structural isomers with identical atomic composition but different three-dimensional arrangements. When attached to a molecule, these groups create different spatial profiles that affect how the molecule interacts with [[tihkal-receptor-binding-serotonin]] sites, enzymes, and [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]. The bulkier and more branched the group, the greater the steric hindrance at the amine nitrogen, which correlates with increased oral activity (presumably through reduced accessibility to MAO enzymes).
 
 ## Key SAR Principles (per Shulgin)
 

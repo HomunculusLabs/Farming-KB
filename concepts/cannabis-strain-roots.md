@@ -55,7 +55,7 @@ even to less experienced growers. Key cultivation traits include:
   orange-yellows, and reds toward harvest
 - **Bud structure**: Huge colas with sharp, deep green leaves
 
-The strain's manageable nature makes it a good choice for growers transitioning
+The strain's manageable [[coleman-first-rule-nature-makes-sense]] it a good choice for growers transitioning
 from indica-dominant varieties to sativa-influenced hybrids. The heavy yield
 potential in both indoor and outdoor environments adds to its commercial
 appeal. The colorful display during late flowering is a hallmark of Reggae
@@ -110,4 +110,4 @@ tell different stories about the plant's genetic composition.
 - [[cannabis-sativa]] - Overview of sativa cannabis varieties
 - terpenes - Aromatic compounds in cannabis
 - sour-diesel - The Diesel family of cannabis strains
-- spanish-cannabis - Cannabis breeding in Spain
+- spanish-cannabis - [[oner-cannabis-breeding-fundamentals]] in Spain

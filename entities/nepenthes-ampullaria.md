@@ -13,14 +13,14 @@ sources:
   - Clarke, C.M. (2001). "Nepenthes of Sumatra and Peninsular Malaysia." Natural History Publications.
   - Murphy, D. (2018). "Nepenthes: The Tropical Pitcher Plants." Redfern Natural History Productions.
   - Clarke, C.M. (1997). "Nepenthes of Borneo." Natural History Publications.
-  - McPherson, S. & Robinson, A. (2012). "Field Guide to the Pitcher Plants of Borneo." Redfern Natural History Productions.
+  - McPherson, S. & Robinson, A. (2012). "[[ghouled-field-guide-historical-context]] to the Pitcher Plants of Borneo." Redfern Natural History Productions.
 ---
 
 ## Overview
 
-**Nepenthes ampullaria**, the flask-shaped pitcher plant, is a tropical carnivorous plant in the family Nepenthaceae. It is native to Southeast Asia including Borneo, Sumatra, Peninsular Malaysia, Thailand, and New Guinea.
+**Nepenthes ampullaria**, the flask-shaped pitcher plant, is a tropical carnivorous plant in the family Nepenthaceae. It is native to [[psilocybe-southeast-asia-pacific]] including Borneo, Sumatra, Peninsular Malaysia, Thailand, and New Guinea.
 
-Unlike most Nepenthes species, N. ampullaria is noted for its detritivorous habits. Its lower pitchers function primarily as pitfall traps for leaf litter and falling debris rather than active insect capture.
+Unlike most Nepenthes species, N. ampullaria is noted for its detritivorous habits. Its lower pitchers function primarily as pitfall traps for [[dighton-fungal-decomposition-leaf-litter-dynamics]] and falling debris rather than active insect capture.
 
 The species produces distinctive squat, bulbous lower pitchers with broad, flared peristomes. It is one of the most shade-tolerant Nepenthes species and often grows on the rainforest floor.
 
@@ -52,9 +52,9 @@ It grows as a terrestrial or lithophytic plant. Substrates include peat swamps, 
 
 N. ampullaria employs a unique trapping strategy that distinguishes it from most other Nepenthes. Its lower pitchers are positioned horizontally or angled upward to intercept falling leaf litter.
 
-The broad peristome is often partially submerged in accumulated rainwater and debris. Insects that enter to feed on the decomposing organic matter frequently become trapped.
+The broad peristome is often partially submerged in accumulated rainwater and debris. Insects that enter to feed on the decomposing [[hamilton-composting-and-organic-matter-management]] frequently become trapped.
 
-The pitcher fluid is notably less viscous and less acidic than in insectivorous Nepenthes species. This adaptation supports a diverse microbial community involved in decomposition.
+The pitcher fluid is notably less viscous and less acidic than in insectivorous Nepenthes species. This adaptation supports a diverse [[edaphic-factors-microbial-community-structure]] involved in decomposition.
 
 Analysis of pitcher contents consistently shows that leaf litter and plant debris constitute the majority of captured material. Animal prey represents a minor fraction of total nutrient intake.
 
@@ -84,7 +84,7 @@ Propagation is primarily through stem cuttings. Seeds require fresh material and
 
 ## Related Species and Variants
 
-N. ampullaria displays notable morphological variation across its range. Bornean populations tend to produce larger pitchers with more pronounced coloration than those from Sumatra.
+N. ampullaria displays notable morphological [[psilocybin-psilocin-variation-across-flushes]] its range. Bornean populations tend to produce larger pitchers with more pronounced coloration than those from Sumatra.
 
 Several distinct forms have been recognized by horticulturalists. A marbled or variegated form from Sarawak produces pitchers heavily speckled with red and purple.
 
@@ -104,8 +104,10 @@ Several key populations occur within protected areas including Kinabalu National
 
 ## See Also
 
+- [[nepenthes-thorelii]]
+
 - [[nepenthes-mirabilis]]
-- [[darlingtonia-californica]]
+- darlingtonia californica
 - [[drosera-rotundifolia]]
 - [[sarracenia-purpurea]]
 - nitrogen
@@ -117,3 +119,5 @@ Several key populations occur within protected areas including Kinabalu National
 - conservation
 - habitat
 - nutrition
+
+- [[nepenthes-reinwardtiana]]

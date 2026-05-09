@@ -14,8 +14,8 @@ type: concept
 
 Dr. Timothy Leary, who became known worldwide in his role of drug
 apostle, had an extraordinarily strong influence on the diffusion of
-illegal LSD consumption in the United States. On a vacation in Mexico in
-1960, Leary ate the legendary "sacred mushrooms," which he had purchased
+illegal LSD consumption in the [[dmt-containing-plants-united-states-halpern]]. On a vacation in Mexico in
+1960, Leary ate the legendary "[[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]]," which he had purchased
 from a shaman. During the mushroom inebriation he entered into a state of
 mystico-religious ecstasy, which he described as the deepest religious
 experience of his life. From then on, Leary, then a lecturer in psychology
@@ -99,4 +99,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

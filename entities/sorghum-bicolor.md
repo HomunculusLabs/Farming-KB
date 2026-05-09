@@ -45,7 +45,7 @@ Stems can store soluble sugars, particularly in sweet sorghum varieties grown fo
 
 **Leaves:** Broad, lanceolate blades up to 100 cm long with a prominent midrib.
 
-Leaf surfaces are often waxy, a trait that reduces water loss and improves drought tolerance.
+Leaf surfaces are often waxy, a trait that reduces water loss and improves [[dighton-fungal-drought-tolerance-plant-water-relations]].
 
 **Inflorescence:** A dense panicle 15–60 cm long, bearing pairs of sessile spikelets.
 
@@ -59,7 +59,7 @@ The endosperm may be vitreous, floury, or intermediate, influencing culinary pro
 
 Sorghum originated in northeastern Africa and was domesticated approximately 5,000–7,000 years ago in the Sudan-Ethiopia region.
 
-Today it is cultivated across Africa, South Asia, Central America, and increasingly in Australia and the southern United States.
+Today it is cultivated across Africa, South Asia, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and increasingly in Australia and the southern [[dmt-containing-plants-united-states-halpern]].
 
 Nigeria, India, Ethiopia, the United States, and Mexico are the world's largest producers.
 
@@ -99,9 +99,9 @@ The crop requires 30–50% less water than maize to produce equivalent biomass, 
 
 Sorghum residues left after grain harvest provide valuable mulch and livestock fodder.
 
-The deep root system can reach 1.5–2 meters, improving soil structure and nutrient cycling.
+The deep root system can reach 1.5–2 meters, improving soil [[root-anatomy-structure-and-nutrient-uptake]] cycling.
 
-Intercropping sorghum with legumes such as cowpea or pigeon pea improves overall system productivity and soil nitrogen.
+Intercropping sorghum with legumes such as cowpea or [[comparison-pigeon-pea-vs-cowpea]] improves overall system productivity and soil nitrogen.
 
 ## Industrial and Cultural Uses
 

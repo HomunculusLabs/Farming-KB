@@ -1,21 +1,12 @@
 ---
-title: Mushroom Cultivation Basics — Spawn Biology and Natural Production (Palmer)
+title: accessible-mushroom-cultivation-for-disabilities Basics — Spawn Biology and Natural Production (Palmer)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [[mushroom-cultivation, grain-spawn, mycelium, species-guide]
+tags: [mushroom-cultivation, grain-spawn, mycelium, species-guide]
 sources: [raw/papers/julius-auboineau-palmer-about-mushrooms.md]
 ---
-
-# Mushroom Cultivation Basics — Spawn Biology and Natural Production (Palmer)
-
-Updated: 2026-04-18
-
-Source: Julius A. Palmer, Jr., *About Mushrooms* (1894). Chapters on mushroom cultivation, spawn formation, and natural mushroom production.
-
-## Spawn — What It Is and How It Forms
-
-Palmer described spawn as "a white thread mass permeating manure" — the vegetative mycelium of the mushroom fungus growing through its nutrient medium. This is the same fundamental understanding used in modern [[agaricus-bisporus-cultivation-biology]].
+# Mushroom Cultivation Basics — Spawn Biology and Natural Production (Palmer) Updated: 2026-04-18 Source: Julius A. Palmer, Jr., *About Mushrooms* (1894). Chapters on mushroom cultivation, spawn formation, and natural mushroom production. ## Spawn — What It Is and How It Forms Palmer described spawn as "a white thread mass permeating manure" — the vegetative mycelium of the mushroom fungus growing through its nutrient medium. This is the same fundamental understanding used in modern [[agaricus-bisporus-cultivation-biology]].
 
 ## Agaricus Species for Cultivation
 
@@ -27,7 +18,7 @@ The horse mushroom — a larger, more robust species also considered suitable fo
 
 ## Palmer's Mushroom Charts
 
-In 1894, Palmer published mushroom identification charts with the publisher L. Prang and Company, the well-known publishers of "Flowers and Ferns of the United States." The charts featured:
+In 1894, Palmer published [[psilocybin-mushroom-identification-guide]] charts with the publisher L. Prang and Company, the well-known publishers of "Flowers and Ferns of the [[dmt-containing-plants-united-states-halpern]]." The charts featured:
 - Twelve colored plates with illustrations by Mr. Prang's studios
 - Both edible and poisonous species depicted
 - Untechnical descriptions enabling "intelligent persons, though unacquainted with the botany of these plants, to avoid the danger of being poisoned"
@@ -47,12 +38,12 @@ Palmer was an active forager in the Boston area:
 - Developed expertise through "moments of forest recreation at intervals in a busy life"
 
 ### The Elm Tree Mushroom
-Palmer described "a large, white mushroom growing from the elms on Boston Common" — likely *Armillaria mellea* (honey mushroom) or *Hypsizygus tessulatus* (elm oyster), both of which grow on elm trees.
+Palmer described "a large, white [[duggar-mushroom-growing-history-and-methods]] from the elms on Boston Common" — likely *Armillaria mellea* (honey mushroom) or *Hypsizygus tessulatus* (elm oyster), both of which grow on elm trees.
 
 ## Cooking and Preparation
 
 ### Stewed Mushrooms
-The Farris family case report included a description of mushroom preparation: "Mrs. F. cooked three pints of the toadstools, stewing them in milk, and seasoning with butter, pepper, and salt." This was a standard 19th century preparation method.
+The Farris family case report included a description of [[magic-mushroom-preparation-and-consumption-methods]]: "Mrs. F. cooked three pints of the toadstools, stewing them in milk, and seasoning with butter, pepper, and salt." This was a standard 19th century preparation method.
 
 ### Palmer's Culinary Assessment
 Palmer described Boleti as "generally delicious" and Clavaria as "more delicate food than cauliflower, nicer in soup or stew than vermicelli." He noted that some mushrooms were good raw — one of his young associates "was very fond of them raw."
@@ -85,9 +76,11 @@ Palmer carried a vial of black fluid from a deliquescent fungus to S. Dana Hayes
 
 Paul Casamajor, head chemist of the Havemeyer sugar refineries, was "pronounced by his associates 'one of the most distinguished chemists in the world'" and a correspondent and friend of Pasteur. He was Palmer's disciple in mycophagy for ten years and provided valuable scientific confirmation of Palmer's edibility assessments.
 
-Casamajor wrote to Palmer: "In taking a ship around the world there are thousands that can equal you; in speaking foreign languages you will own that there are many who excel you; but where is the man who can step into a grove, pick up a score of different toadstools, make a meal on them and live to write about it?"
+Casamajor wrote to Palmer: "In taking a ship [[fungi-around-the-world-species-distribution]] there are thousands that can equal you; in speaking foreign languages you will own that there are many who excel you; but where is the man who can step into a grove, pick up a score of different toadstools, make a meal on them and live to write about it?"
 
 ## Related
+
+- mushroom-spawn-growth-cultivation
 
 - [[agaricus-bisporus-cultivation-biology]]
 - [[mushroom-foraging-safety]]

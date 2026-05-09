@@ -1,5 +1,5 @@
 ---
-title: "Macrofungi Inventory Methods"
+title: "biodiversity macrofungi inventory methods Methods"
 created: 2026-04-28
 tags:
   - macrofungi
@@ -26,7 +26,7 @@ rhizomorphs can also be sampled. These vegetative structures reveal taxa
 present but not fruiting. Molecular analyses of ectomycorrhizae have
 shown that substantial numbers of species present on host roots at some
 sites rarely fruit. Encouraging fruiting of some ascomycetes and small
-[[agar]]ics by placing substrata in humid chambers may increase detection of
+agarics by placing substrata in humid chambers may increase detection of
 litter-inhabiting taxa.
 
 ## Extrapolation to Richness
@@ -42,7 +42,7 @@ of rare taxa, a situation frequently encountered with fungi.
 
 ## Recommended Integrated Approach
 
-An integrated set of sampling protocols maximizes the number of
+An integrated set of [[lichen-biodiversity-sampling-protocols-data-analysis]] maximizes the number of
 macrofungal species recorded at a site. This includes opportunistic
 sampling to capture conspicuous fungi outside plots, fixed-size plot
 sampling for quantitative data on soil and litter fungi, microplots for
@@ -54,7 +54,7 @@ studies.
 
 ## Documentation and Archiving
 
-Specimen processing involves written descriptions, photographs, [[culturing-macrofungi-methods]]
+Specimen processing involves written descriptions, photographs, culturing-macrofungi-methods
 
 - [[biodiversity-microfungal-inventory]]
 ## Practical Considerations
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,9 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[ectomycorrhiza]]
+- [[fungal-biodiversity-measurement-methods]]
+- [[biodiversity-of-fungi-soil-isolation-methods]]
+- [[fungal-inventory-and-survey-methods]]
+- [[yeast-diversity-taxonomy-and-inventory-methods]]

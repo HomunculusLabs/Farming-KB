@@ -22,7 +22,7 @@ True climbers are plants that have some means of clinging to a support -- either
 ### Self-Clinging Climbers
 
 The easiest climbers to train. They attach themselves to surfaces without additional support:
-- **Ivy** (Hedera sp.): Evergreen, very vigorous, useful ground cover for weed suppression
+- **Ivy** (Hedera sp.): Evergreen, very vigorous, useful [[fukuoka-citrus-orchard-ground-cover-cultivation]] for weed suppression
 - **Virginia creeper** (Parthenocissus quinquefolia): Dense, colorful foliage (red in fall), not for flowering interest
 - **Climbing hydrangea** (Hydrangea petiolaris): Clings to walls, white flower clusters in summer
 
@@ -63,7 +63,7 @@ Good preparation is essential, especially against a house wall. This is often th
 
 1. Prepare a planting site at least 4 feet (1.2m) square
 2. Double dig the area
-3. Work in at least a wheelbarrow of organic matter (well-rotted manure, compost)
+3. Work in at least a wheelbarrow of [[hamilton-composting-and-organic-matter-management]] (well-rotted manure, compost)
 4. Supplement with two good handfuls of blood, fish, and bone meal
 5. Plant at the level of the soil mark on the stem (the exception is clematis -- see below)
 
@@ -71,7 +71,7 @@ Good preparation is essential, especially against a house wall. This is often th
 
 Clematis is subject to a fungus disease called "clematis wilt," which causes the plant to wilt from the top -- branches suddenly collapse and die. But if you cut it back hard as soon as you see any signs of the disease, new shoots free from the fungus will appear from below ground. Plant clematis about 4-6 inches (10-15cm) deeper than it grew at the nursery to ensure plenty of new buds form underground.
 
-After planting, cover the soil with a layer of coarse material such as pine bark to shade the roots (they like to be cool), prevent evaporation of water, help keep slugs at bay, and suppress the growth of weeds.
+After planting, cover the soil with a layer of coarse material such as [[fukuoka-pine-bark-weevil-ecology]] to shade the roots (they like to be cool), prevent evaporation of water, help keep slugs at bay, and suppress the growth of weeds.
 
 ### Supporting Climbers
 
@@ -118,4 +118,4 @@ Carefully wind the rose stem around the pillar and tie it in with soft string. A
 Source: Geoff Hamilton, The Organic Garden Book
 - [[organic-garden-soil-preparation]]
 - [[hamilton-pruning-and-training-fruit-trees]]
-- [[akebia-trifoliata]]
+- akebia-trifoliata

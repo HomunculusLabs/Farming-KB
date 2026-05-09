@@ -36,7 +36,7 @@ Ephedra sinica is a perennial, branching shrub growing 30–60 cm tall. It has a
 - **Roots:** Deep and extensive, adapted to dry, sandy soils
 - **Reproduction:** Dioecious, producing small cone-like strobili rather than flowers or fruit
 
-The plant thrives in sandy, well-drained soils at elevations of 500–2000 meters. It is extremely drought-tolerant and can survive in desert and steppe environments across Central and East Asia.
+The plant thrives in sandy, well-drained soils at elevations of 500–2000 meters. It is extremely drought-tolerant and can survive in desert and steppe environments across Central and [[neurotropic-fungi-japan-east-asia-species-cultural-context]].
 
 ## Chemistry
 
@@ -78,10 +78,10 @@ Ephedrine served as the chemical precursor for the first synthesis of amphetamin
 
 ## Safety and Regulation
 
-Ephedra-containing dietary supplements were banned in the United States in 2004 (FDA final rule) following reports of serious adverse cardiovascular events including heart attacks, strokes, and deaths. Key concerns:
+Ephedra-containing dietary supplements were banned in the [[dmt-containing-plants-united-states-halpern]] in 2004 (FDA final rule) following reports of serious adverse cardiovascular events including heart attacks, strokes, and deaths. Key concerns:
 - **Cardiovascular effects:** Tachycardia, hypertension, arrhythmias
 - **CNS effects:** Insomnia, anxiety, tremor, headache
-- **Drug interactions:** Potentially dangerous with MAO inhibitors, caffeine, and other stimulants
+- **[[cannabis-drug-interactions-and-contraindications]]:** Potentially dangerous with MAO inhibitors, caffeine, and other stimulants
 
 Pseudoephedrine remains available in OTC decongestants but is regulated behind pharmacy counters in many countries due to its use as a methamphetamine precursor (Combat Methamphetamine Epidemic Act of 2005, US).
 
@@ -125,7 +125,7 @@ Ephedra species play important ecological roles in arid and semi-arid ecosystems
 - **Food source:** Seeds are eaten by birds and small mammals; stems are browsed by livestock (with toxicity concerns at high doses)
 - **Sand stabilization:** Deep root systems help stabilize sandy soils and prevent erosion
 - **Pioneer species:** Often among the first plants to colonize disturbed arid soils
-- **Mycorrhizal associations:** Forms associations with arbuscular mycorrhizal fungi that enhance nutrient uptake in nutrient-poor soils
+- **Mycorrhizal associations:** Forms associations with [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi that enhance [[plant-nutrient-uptake-mechanisms]] in nutrient-poor soils
 
 ## See Also
 - [[williams-pdc-electricity-in-permaculture]]

@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Cannabis testing is the laboratory analysis of cannabis flowers, concentrates, and products to determine their chemical composition, potency, and safety profile. In regulated markets, testing is legally required before products reach consumers. Even in non-regulated contexts, understanding testing methods and quality indicators helps growers and consumers make informed decisions about the products they grow and consume.
+Cannabis testing is the laboratory analysis of cannabis flowers, concentrates, and products to determine their chemical composition, potency, and [[cannabis-safety-profile-and-overdose-risk]]. In regulated markets, testing is legally required before products reach consumers. Even in non-regulated contexts, understanding [[soil-testing-methods-interpretation]] and quality indicators helps growers and consumers make informed decisions about the products they grow and consume.
 
 ## Types of Cannabis Testing
 
@@ -42,7 +42,7 @@ Potency testing measures the concentration of cannabinoids in a sample. This is 
 
 ### Terpene Testing
 
-Terpenes are aromatic compounds contributing to flavor, aroma, and effects. The entourage effect means the same THC percentage can produce different experiences depending on terpene profile.
+Terpenes are aromatic compounds contributing to flavor, aroma, and effects. The [[cannabis-terpene-entourage-effect-profiles]] means the same THC percentage can produce different experiences depending on terpene profile.
 
 **Primary terpenes:** Myrcene (earthy, sedative), limonene (citrus, mood elevation), pinene (pine, focus), linalool (floral, calming), caryophyllene (pepper, anti-inflammatory via CB2), humulene (earthy, anti-inflammatory), terpinolene (piney, sedative at high doses), geraniol (floral, antioxidant).
 
@@ -102,8 +102,8 @@ A COA is the official lab document containing all test results for a specific ba
 Testing is a snapshot. Other quality factors include:
 
 - **Growing practices:** [[cannabis-living-soil-guide|Living soil]] and [[cannabis-outdoor-growing|organic]] methods produce superior terpene content
-- **Harvest timing:** Proper trichome maturity
-- **Drying and curing:** Slow dry (10-14 days) and cure (2-8+ weeks) dramatically improve quality
+- **[[cannabis-harvest-timing-visual-cues]]:** Proper trichome maturity
+- **[[comparison-cannabis-drying-and-curing-vs-flushing-before-harvest]]:** Slow dry (10-14 days) and cure (2-8+ weeks) dramatically improve quality
 - **Storage:** Cool, dark, airtight preserves potency and terpenes
 
 ## Home Testing Options

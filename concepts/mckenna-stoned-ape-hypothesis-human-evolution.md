@@ -1,5 +1,5 @@
 ---
-title: McKenna's Stoned Ape Hypothesis of Human Evolution
+title: McKenna's Stoned stoned-ape-hypothesis-mckenna-psychedelic-evolution of Human Evolution
 created: 2026-05-08
 tags: [evolution, psilocybin, consciousness, mckenna, mycology, anthropology]
 date: 2026-05-08
@@ -21,7 +21,7 @@ shifting chemical equilibrium. While organisms may regulate chemical input
 through internal processes, mutagenic influences ultimately increase, and
 a greater than usual number of genetically variant individuals are offered
 up to natural selection. The results are accelerated changes in neural
-organization, states of consciousness, and behavior.
+organization, [[mckenna-food-gods-designer-states-of-consciousness]], and behavior.
 
 He cites the example of sweet potatoes of the genus *Dioscorea*, some
 species of which contain compounds that interfere with ovulation (and
@@ -29,7 +29,7 @@ became the source of raw materials for modern birth control pills), to
 illustrate how dietary choices can have profound population-level effects.
 ## Criticisms and Limitations
 
-The stoned ape hypothesis remains highly speculative and is not widely
+The [[mckenna-food-gods-stoned-ape-hypothesis]] hypothesis remains highly speculative and is not widely
 accepted in mainstream anthropology or evolutionary biology. Key criticisms
 include: lack of direct fossil or archaeological evidence for mushroom
 consumption by early hominids; the assumption that psilocybin's effects
@@ -54,7 +54,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -104,7 +104,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -114,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

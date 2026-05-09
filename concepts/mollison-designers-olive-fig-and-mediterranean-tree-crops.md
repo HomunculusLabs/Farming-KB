@@ -1,5 +1,5 @@
 ---
-title: Olive Fig and Mediterranean Tree Crops
+title: Olive holzer-fig-and-mediterranean-species Tree Crops
 created: 2026-04-28
 tags:
   - tree-crops
@@ -20,7 +20,7 @@ The Mediterranean climate zone, characterised by mild wet winters and hot dry
 summers, supports a distinctive assemblage of long-lived tree crops that have
 co-evolved with human agriculture over millennia. Mollison treats these species
 as keystone elements in dryland and subtropical permaculture systems, valued
-for their drought tolerance, deep root systems, low maintenance requirements,
+for their [[dighton-fungal-drought-tolerance-plant-water-relations]], deep root systems, low maintenance requirements,
 and high nutritional yields. These crops align with
 [[mollison-climate-zones-permaculture-strategies]].
 
@@ -39,7 +39,7 @@ Mollison highlights several design properties:
   shallow soils where few other crops thrive. They prefer pH 6.5-8.5 and
   are sensitive to waterlogging.
 - **Multiple products**: Oil, table fruit, firewood, timber, and foliage for
-  animal fodder. The [[mollison-pasture-legumes-and-forage-legumes-of-the-tropics]].
+  animal fodder. The mollison-pasture-legumes-and-forage-legumes-of-the-tropics.
 - **Rosemary and lavender**: Aromatic herbs that share olive's drought
   tolerance and attract pollinators while potentially deterring olive fly
   (Bactrocera oleae).
@@ -68,37 +68,45 @@ values figs for several reasons:
   survive and produce on minimal irrigation. Figs are among the most
   drought-hardy fruit trees available.
 - **Propagation ease**: Figs propagate readily from hardwood cuttings
-  (see [[mollison-free-range-poultry-forage-design]].
+  (see mollison-free-range-poultry-forage-design.
 - **Bank stabilisation**: Fig roots are powerful soil binders, making them
-  suitable for [[mollison-microclimate-creation]].
+  suitable for mollison-microclimate-creation.
 
 ## Carob (Ceratonia siliqua)
 
-The carob tree is a cornerstone of dryland permaculture design that Mollison
+The carob tree is a cornerstone of dryland [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] that Mollison
 describes with particular enthusiasm for its extraordinary resilience and
 multiple yields:
 
 - **Extreme drought tolerance**: Survives on 150-250 mm annual rainfall once
   established. Deep taproots reach 20+ metres.
-- **Nitrogen fixation**: Hosts Rhizobium bacteria, fixing atmospheric nitrogen
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]**: Hosts Rhizobium bacteria, fixing atmospheric nitrogen
   in the root zone, benefiting surrounding plants.
 - **Long-lived productivity**: Trees bear pods for 80-100+ years, producing
   80-200 kg of pods per mature tree annually.
 - **Pod uses**: Carob pods are nutritious animal fodder (high sugar and
   protein), a chocolate substitute in food processing, and a source of
-  alcohol fermentation substrate.
+  alcohol [[oyster-mushroom-shelf-fermentation-substrate-preparation]].
 - **Soil improvement**: Leaf litter is rich in minerals; the root system
   improves soil structure on rocky hillsides.
 - **Frost sensitivity**: Limits carob to frost-free Mediterranean and
   subtropical zones. Requires warm winters for pod set.
 
 ### Carob in Landscape Design
-Mollison positions carob as a key species for [[mollison-bee-forage-design]] critical. Plant
+Mollison positions carob as a key species for mollison-bee-forage-design critical. Plant
   multiple varieties for cross-pollination.
 - **Guild companions**: Understorey of rosemary, thyme, and clover; nurse
-  trees of carob or olive for wind protection.
+  trees of carob or olive for [[cervantes-wind-protection-outdoor-cannabis]].
 
 ## Pomegranate (Punica granatum)
 
 Pomegranates are exceptionally well-adapted to hot, dry Mediterranean
 conditions and offer multiple design benefits:
+## See Also
+- [[mollison-designers-avocado-mango-and-subtropical-tree-crops]]
+- [[ceratonia-siliqua]]
+- [[permaculture-design]]
+- [[vitis-vinifera]]
+- [[olea-europaea]]
+
+- [[holzer-fig-and-mediterranean-species]]

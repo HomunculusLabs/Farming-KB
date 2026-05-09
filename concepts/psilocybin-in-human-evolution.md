@@ -21,7 +21,7 @@ type: concept
 Terence McKenna proposed that psilocybin-containing mushrooms played a
 decisive role in the rapid emergence of human consciousness and the
 tripling of brain size that occurred over approximately three million
-years of hominid evolution. This theory, sometimes called the stoned ape
+years of hominid evolution. This theory, sometimes called the [[mckenna-food-gods-stoned-ape-hypothesis]]
 hypothesis, suggests that hallucinogenic compounds in the early human
 diet directly influenced the reorganization of the brain's
 information-processing capacities.
@@ -48,11 +48,11 @@ McKenna constructed a scenario involving the interconnected and mutually
 reinforcing effects of psilocybin taken at three different dosage
 levels. This three-tiered model is central to his evolutionary argument:
 
-**Level one, low dose**: At the lowest level of usage, small amounts of
+**Level one, [[ultra-low-dose-brassinosteroid-response-psilocybe-cubensis]]**: At the lowest level of usage, small amounts of
 psilocybin consumed during general foraging impart a noticeable increase
 in visual acuity, especially edge detection. As visual acuity is at a
 premium among hunter-gatherers, this "chemical binoculars" effect could
-not fail to impact hunting and gathering success. Roland Fischer's
+not fail to impact hunting and gathering success. [[mckenna-roland-fischer-psilocybin-visual-acuity]]'s
 experiments in the late 1960s confirmed that small doses of psilocybin
 improved performance on visual acuity tasks.
 

@@ -1,10 +1,11 @@
 ---
-title: Sepp Holzer Wild Cattle and Poultry Management
+title: Sepp Holzer Wild sepp holzer cattle and poultry management Management
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
+  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
@@ -40,7 +41,7 @@ Holzer has successfully bred old domestic and wild cattle breeds for decades. At
 
 ### Feed and Self-Medication
 - Additional feeding limited to winter: turnips, fodder kale, Jerusalem artichokes, hay, grain, apple and pear pomace
-- Animals with diarrhoea from parasites self-select poisonous plants: lupins, monkshood, male fern, buttercups, poisonous mushrooms
+- Animals with diarrhoea from parasites self-select poisonous plants: lupins, monkshood, male fern, buttercups, [[palmer-poisonous-mushrooms-deadly-species]]
 - Animals with lush, diverse flora including poisonous mushrooms stay healthy and no longer need worming
 - Confirmed by decades of veterinary inspection
 - Key principle: "Food is also medicine! It must be varied, nutritious and healthy"
@@ -57,7 +58,7 @@ Holzer strongly opposes dehorning:
 ## Poultry
 
 ### Bird Conservation
-Holzer emphasises that birds are "incredibly useful and beneficial creatures" for insect control and plant propagation. Even small gardens can contribute:
+Holzer emphasises that birds are "incredibly useful and beneficial creatures" for [[mushroom-pests-insect-control-stamets]] and plant propagation. Even small gardens can contribute:
 - Well-structured gardens with diverse hedges offer habitat and food
 - Chemical use must be abandoned
 - Greater plant diversity leads to greater insect diversity, providing balanced bird diet
@@ -97,10 +98,10 @@ See [[holzer-livestock-philosophy-paddock-system]] for paddock layout principles
 
 ### Health Monitoring and Veterinary Approaches
 
-Holzer's approach to animal health diverges sharply from conventional veterinary practice, which relies heavily on routine chemical deworming, vaccinations, and antibiotics. At the Krameterhof, veterinary intervention is minimized through proactive management: diverse diets that allow animals to self-medicate, clean water from protected springs, adequate space to reduce stress and disease transmission, and mixed-species grazing that breaks parasite lifecycles. When health problems do arise, Holzer first addresses environmental factors — is the paddock too small? Has the rotation been too fast? Is the diet lacking variety? He has found that most health problems resolve when these underlying conditions are corrected. The self-medication principle is central: when animals have access to the full diversity of plants in a permaculture system, including species that would be considered toxic in a conventional setting, they can select the compounds they need to maintain internal parasite balance and address minor ailments. Holzer notes that decades of veterinary inspections have confirmed the health of his animals without routine chemical treatments. For homesteaders, this approach offers significant advantages in reduced veterinary costs and the production of meat and eggs free from chemical residues. However, it requires careful observation skills and a willingness to let animals express natural behaviors that may seem alarming to conventionally trained stockpersons. See [[faires-livestock-integration-permaculture]] for integrating smaller-scale livestock systems.
+Holzer's approach to animal health diverges sharply from conventional veterinary practice, which relies heavily on routine chemical deworming, vaccinations, and antibiotics. At the Krameterhof, veterinary intervention is minimized through proactive management: diverse diets that allow animals to self-medicate, clean water from protected springs, adequate space to reduce stress and disease transmission, and mixed-species grazing that breaks parasite lifecycles. When health problems do arise, Holzer first addresses [[duggar-mushroom-environmental-factors-temperature-moisture-light]] — is the paddock too small? Has the rotation been too fast? Is the diet lacking variety? He has found that most health problems resolve when these underlying conditions are corrected. The self-medication principle is central: when animals have access to the full diversity of plants in a permaculture system, including species that would be considered toxic in a conventional setting, they can select the compounds they need to maintain internal parasite balance and address minor ailments. Holzer notes that decades of veterinary inspections have confirmed the health of his animals without routine chemical treatments. For homesteaders, this approach offers significant advantages in reduced veterinary costs and the production of meat and eggs free from chemical residues. However, it requires careful observation skills and a willingness to let animals express natural behaviors that may seem alarming to conventionally trained stockpersons. See [[faires-livestock-integration-permaculture]] for integrating smaller-scale livestock systems.
 
 ### Manure Management and Soil Building
 
-The integration of cattle and poultry into the Krameterhof's landscape creates a continuous cycle of nutrient cycling that eliminates the need for imported fertilizers. Holzer views animal manure not as a waste product to be managed but as a primary soil-building resource that should be returned to the land as efficiently as possible. In the paddock rotation system, cattle deposit manure across the landscape as they graze, distributing nutrients in the pattern of their natural movement. Poultry that follow or cohabit with cattle scratch through manure deposits, breaking them up and accelerating decomposition while controlling fly larvae and internal parasite eggs. Holzer constructs deep litter systems in winter shelters where layers of straw, leaves, and woody material absorb manure and create a rich compost over the winter months. This deep litter material is then spread on paddocks during spring, providing both organic matter and a slow-release nutrient source. The combination of cattle manure (high in nitrogen and phosphorus) and poultry manure (rich in nitrogen, phosphorus, and potassium) provides a balanced fertility profile. Holzer also utilizes duck and geese ponds, where accumulated organic material from waterfowl creates nutrient-rich muck that can be scooped out and applied to gardens. This integrated approach to manure management is fundamentally different from conventional concentrated animal feeding operations, where manure becomes a disposal problem requiring expensive handling infrastructure. In Holzer's system, manure is always an asset rather than a liability. See [[animal-manure-guide]] for manure nutrient profiles and application guidelines.
+The integration of cattle and poultry into the Krameterhof's landscape creates a continuous cycle of [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] that eliminates the need for imported fertilizers. Holzer views animal manure not as a waste product to be managed but as a primary soil-building resource that should be returned to the land as efficiently as possible. In the paddock rotation system, cattle deposit manure across the landscape as they graze, distributing nutrients in the pattern of their natural movement. Poultry that follow or cohabit with cattle scratch through manure deposits, breaking them up and accelerating decomposition while controlling fly larvae and internal parasite eggs. Holzer constructs deep litter systems in winter shelters where layers of straw, leaves, and woody material absorb manure and create a rich compost over the winter months. This deep litter material is then spread on paddocks during spring, providing both organic matter and a slow-release nutrient source. The combination of cattle manure (high in nitrogen and phosphorus) and poultry manure (rich in nitrogen, phosphorus, and potassium) provides a balanced fertility profile. Holzer also utilizes duck and geese ponds, where accumulated organic material from waterfowl creates nutrient-rich muck that can be scooped out and applied to gardens. This integrated approach to manure management is fundamentally different from conventional concentrated animal feeding operations, where manure becomes a disposal problem requiring expensive handling infrastructure. In Holzer's system, manure is always an asset rather than a liability. See [[animal-manure-guide]] for [[solomon-manure-nutrient-variability-and-quality]] profiles and application guidelines.
 - [[composting-humus-building-holzer]]
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]

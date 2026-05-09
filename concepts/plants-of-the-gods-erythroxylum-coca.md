@@ -75,7 +75,7 @@ crash associated with purified cocaine. This difference is
 attributed to the presence of additional alkaloids and the slow
 absorption through oral mucosa during chewing.
 
-Coca leaves also contain essential oils, flavonoids, vitamins
+Coca leaves also contain [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]], flavonoids, vitamins
 (including B vitamins and vitamin C), minerals (calcium, iron,
 phosphorus), and protein. The nutritional content of coca is
 significant; indigenous peoples often view the leaf as a food
@@ -131,4 +131,4 @@ cocaine abuse.
 - [[plants-of-the-gods-phytochemistry-sacred-plants]] —
   phytochemical research on sacred plants
 - [[plants-of-the-gods-anadenanthera-yopo-cebil]] — another
-  South American snuff with deep indigenous roots
+  [[chiric-caspi-brunfelsia-south-american-hallucinogen]] snuff with deep indigenous roots

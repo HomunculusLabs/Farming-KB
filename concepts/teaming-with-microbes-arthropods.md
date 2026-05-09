@@ -19,7 +19,7 @@ Soil arthropod diversity indicates soil health:
 - Diverse arthropod communities indicate a functioning soil food web
 - Their absence suggests chemical contamination or severe physical disturbance
 - They are sensitive to pesticides and other chemicals
-- Their presence generally indicates adequate organic matter and moisture
+- Their presence generally indicates adequate [[hamilton-composting-and-organic-matter-management]] and moisture
 
 See also: [[teaming-with-microbes-nematodes]], [[teaming-with-microbes-overview]]
 
@@ -32,7 +32,7 @@ See also: [[teaming-with-microbes-nematodes]], [[teaming-with-microbes-overview]
 The principles outlined on this page connect directly to hands-on work in gardens,
 farms, and homesteads. Integrating these concepts with complementary techniques from
 related disciplines can significantly improve outcomes. Start with small-scale
-implementation and scale up as understanding deepens through direct observation.
+implementation and scale up as understanding deepens through [[fukuoka-direct-observation-method]].
 ## Practical Applications
 
 Teaming with Microbes — Arthropods has a range of practical applications that make it relevant to
@@ -110,4 +110,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

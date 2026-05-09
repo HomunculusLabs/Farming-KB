@@ -10,7 +10,7 @@ sources:
 
 # Mycorrhizal Plant Defense
 
-How mycorrhizal and endophytic fungi protect plants from diseases, pests, and environmental stress. Based on [[paul-stamets]]' *Mycelium Running* (2005). See also [[mycorrhizal-fungi]], [[endophytic-fungi]], [[plant-defense-mechanisms]], and [[fungal-symbiosis-types]].
+How mycorrhizal and endophytic fungi protect plants from diseases, pests, and environmental stress. Based on [[paul-stamets]]' *[[woodlovers-mycelium-running-pathway-technique]]* (2005). See also [[mycorrhizal-fungi]], [[endophytic-fungi]], [[plant-defense-mechanisms]], and [[fungal-symbiosis-types]].
 
 ## The Root Armor Concept
 
@@ -29,14 +29,14 @@ Stamets describes mycorrhizal fungi as creating a living "armor" around plant ro
 - **Hyphal mantle**: Ectomycorrhizal fungi form a dense sheath around root tips (Hartig net), physically blocking soil-borne pathogens
 - **Hyphal density**: A single gram of ectomycorrhizal root tip can contain meters of fungal hyphae
 - **Root colonization**: Arbuscular mycorrhizal (AM) fungi colonize root cortical cells, leaving no space for pathogens
-- **Soil aggregation**: Mycelial networks bind soil particles around roots, creating stable microenvironments that resist pathogen invasion
+- **Soil aggregation**: [[fungal-mycelial-networks-nutrient-translocation]] bind soil particles around roots, creating stable microenvironments that resist pathogen invasion
 
 ### 2. Chemical Defense
 
 - **Antibiotic secretion**: Mycorrhizal fungi produce antibiotics and antifungal compounds:
   - **Ectomycorrhizal species**: Secrete compounds inhibitory to Pythium, Phytophthora, Fusarium, and Rhizoctonia
   - **Stropharia rugoso-annulata**: Produces antibacterial compounds lethal to E. coli and other coliforms
-  - **Trametes versicolor**: Secretes PSK/PSP with immunomodulatory and antitumor activity
+  - **[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]**: Secretes PSK/PSP with immunomodulatory and antitumor activity
 - **Phenolic compounds**: Mycorrhizal roots contain higher levels of phenolics, which are toxic to many pathogens
 - **Phytoalexin induction**: Mycorrhizal colonization triggers the plant to produce its own defense compounds (phytoalexins, pathogenesis-related proteins)
 
@@ -98,7 +98,7 @@ Stamets describes mycorrhizal fungi as creating a living "armor" around plant ro
 Stamets discusses endophytic fungi that live INSIDE plant tissues:
 
 - **Clavicipitaceous endophytes**: Found in grasses; produce alkaloids that deter herbivores (insects, grazing mammals)
-- **Non-clavicipitaceous endophytes**: Found in all plant groups; provide disease resistance, drought tolerance, heat tolerance
+- **Non-clavicipitaceous endophytes**: Found in all plant groups; provide disease resistance, [[dighton-fungal-drought-tolerance-plant-water-relations]], heat tolerance
 - **Piriformospora indica**: Root endophyte that provides broad-spectrum disease resistance and growth promotion
 - **Endophytic Trichoderma**: Live inside root tissues; produce antibiotics and induce systemic resistance
 
@@ -128,18 +128,11 @@ Stamets discusses endophytic fungi that live INSIDE plant tissues:
 2. **As seed treatment**: Coat seeds with mycorrhizal spores
 3. **As soil drench**: Apply liquid mycorrhizal inoculant to soil
 4. **In compost tea**: Include mycorrhizal spores in AACT applications (though spores may not survive brewing)
-5. **See [[mycoforestry-forest-restoration]] for forest-scale inoculation techniques**
+5. **See [[mycoforestry-forest-restoration]] for forest-scale [[cotter-inoculation-techniques-and-hygiene]]**
 
 ### Species Selection for Defense
 
 | Goal | Recommended Fungal Group | Notes |
-|------|-------------------------|-------|
-| General disease resistance | AM fungi (Glomus, Rhizophagus) | Broad host range, easy to inoculate |
-| Forest tree protection | ECM fungi (Pisolithus, Suillus) | Essential for conifer health |
-| Vegetable garden protection | AM fungi + Trichoderma | Combination approach |
-| Pasture improvement | Endophytic fungi in grasses | Also deters insect pests |
-| Contaminated site restoration | Mycorrhizae + saprophytes | Combined remediation + plant support |
-
 ## See Also
 
 - [[mycorrhizal-fungi]] for comprehensive mycorrhizal coverage
@@ -148,7 +141,7 @@ Stamets discusses endophytic fungi that live INSIDE plant tissues:
 - [[endophytic-fungi]] for internal fungal symbionts
 - [[plant-defense-mechanisms]] for the full plant defense picture
 - [[fungal-symbiosis-types]] for the symbiosis spectrum
-- [[mycoforestry-forest-restoration]] for practical inoculation methods
+- [[mycoforestry-forest-restoration]] for practical [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]]
 - [[soil-food-web-nutrient-cycling]] for the soil biology context
 
 ## Related

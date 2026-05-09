@@ -1,22 +1,12 @@
 ---
-title: Mushroom Cancer Clinical Trials Overview
+title: Mushroom maitake-cancer-clinical-research Trials Overview
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [[mycology, mushrooms, cultivation]
+tags: [mycology, mushrooms, cultivation]
 sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 ---
-# Mushroom Cancer Clinical Trials Overview
-
-Mushroom-derived polysaccharides and proteoglycans represent one of the most extensively studied classes of natural products in oncology. While primarily developed and approved in East Asia, these compounds are increasingly attracting Western clinical research attention.
-
-## Approved Compounds
-
-Three mushroom-derived compounds have achieved pharmaceutical regulatory approval:
-
-| Compound | Source | Country | Year | Cancer Types | Route |
-|----------|--------|---------|------|-------------|-------|
-| [[psk-psp-polysaccharide-peptides]] (Krestin) | Turkey tail | Japan | 1977 | Gastric, breast, lung | Oral |
+# Mushroom Cancer Clinical Trials Overview Mushroom-derived polysaccharides and proteoglycans represent one of the most extensively studied classes of natural products in oncology. While primarily developed and approved in East Asia, these compounds are increasingly attracting Western clinical research attention. ## Approved Compounds Three mushroom-derived compounds have achieved pharmaceutical regulatory approval: | Compound | Source | Country | Year | Cancer Types | Route | |----------|--------|---------|------|-------------|-------| | [[psk-psp-polysaccharide-peptides]] (Krestin) | Turkey tail | Japan | 1977 | Gastric, breast, lung | Oral |
 | PSP | Turkey tail | China | ~1987 | Multiple | Oral |
 | schizophyllan-research|Schizophyllan | S. commune | Japan | ~1986 | Cervical, head/neck | SC/IT |
 
@@ -24,11 +14,11 @@ Three mushroom-derived compounds have achieved pharmaceutical regulatory approva
 
 ### Combination Therapy Standard
 
-All approved mushroom-derived cancer treatments are used as adjuvants to conventional therapy (chemotherapy, radiotherapy, surgery), never as monotherapy. This reflects their mechanism: immune potentiation enhances the host's ability to fight cancer but does not directly kill tumour cells (with the notable exception of [[medicinal-mushroom-immune-modulation]] for broader context on immune modulation strategies.
+All approved mushroom-derived cancer treatments are used as adjuvants to conventional therapy (chemotherapy, radiotherapy, surgery), never as monotherapy. This reflects their mechanism: immune potentiation enhances the host's ability to fight cancer but does not directly kill tumour cells (with the notable exception of [[medicinal-mushroom-immune-modulation]] for broader context on [[cancer-immune-modulation-mechanisms]] strategies.
 
 ## See Also
 
-- [[lentinan-clinical-research]] — detailed lentinan clinical data
+- [[lentinan-clinical-research]] — detailed [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]] data
 - [[schizophyllan-research]] — schizophyllan clinical trials
 - [[mushroom-nutritional-composition]] — regulatory and functional food context
 - [[psk-breast-lung-cancer-clinical-trials]]
@@ -114,4 +104,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

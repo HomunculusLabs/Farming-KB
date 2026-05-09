@@ -1,13 +1,13 @@
 ---
-title: "Lemon Haze (Cannabis Strain)"
+title: "Lemon Haze (blesching-cannabis-strain-selection-receptor-targeting)"
 type: strain
 tags: [cannabis, sativa, citrus, terpenes, limonene, uplifting]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Hazekamp A, Tejkalová K, Syrovátková H. Cannabis Reporting. Cannabinoids and Terpenes. CannabiScope, 2016."
-  - "ElSohly MA, Slade D. Chemical constituents of marijuana: the complex mixture of natural cannabinoids. Life Sciences, 2005."
-  - "Peace MR, Butler KE, Wolf CE, Poklis JL, Poklis A. An evaluation of cannabis strain reliability. Scientific Reports, 2016."created: 2026-05-07
+  - "ElSohly MA, Slade D. [[guzman-magic-mushrooms-chemical-constituents]] of marijuana: the complex mixture of natural cannabinoids. Life Sciences, 2005."
+  - "Peace MR, Butler KE, Wolf CE, Poklis JL, Poklis A. An evaluation of [[acdc-cannabis-strain]] reliability. Scientific Reports, 2016."created: 2026-05-07
 
 created: 2026-05-07
 ---
@@ -16,16 +16,16 @@ created: 2026-05-07
 
 ## Overview
 
-Lemon Haze is a popular sativa-dominant cannabis hybrid created by crossing **Silver Haze** with **Lemon Skunk**. Known for its bright citrus aroma, energetic cerebral effects, and mood-enhancing properties, Lemon Haze has become one of the most widely recognized and commercially successful cannabis strains worldwide. It won the High Times Cannabis Cup in 2008, cementing its status among elite cannabis varieties.
+Lemon Haze is a popular sativa-dominant [[cannabis-hybrid-vigor-and-phenotypes-clarke]] created by crossing **Silver Haze** with **Lemon Skunk**. Known for its bright citrus aroma, energetic cerebral effects, and mood-enhancing properties, Lemon Haze has become one of the most widely recognized and commercially successful [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] worldwide. It won the High Times Cannabis Cup in 2008, cementing its status among elite cannabis varieties.
 
-The strain exemplifies the modern approach to cannabis breeding, where specific terpene profiles are selected alongside cannabinoid content to create targeted experiential outcomes.
+The strain exemplifies the modern approach to [[oner-cannabis-breeding-fundamentals]], where specific [[cannabis-terpene-profiles-sativa]] are selected alongside cannabinoid content to create targeted experiential outcomes.
 
 ## Genetic Lineage
 
 ### Parent Strains
 
 **Silver Haze (Sativa-dominant)**
-- Lineage: [[screen-of-green]] reen (SCROG)**: Ideal for managing the strain's tall stature indoo [[cannabis-endocannabinoid-system]]
+- Lineage:  reen (SCROG)**: Ideal for managing the strain's tall stature indoo [[cannabis-endocannabinoid-system]]
 - [[cannabis-terpene-profiles]]
 ## Practical Applications
 
@@ -44,7 +44,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -94,7 +94,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -104,4 +104,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,5 +1,5 @@
 ---
-title: Colombian Cannabis Strain Description (Clarke)
+title: Colombian blesching-cannabis-strain-selection-receptor-targeting Description (Clarke)
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -19,7 +19,7 @@ Colombian Cannabis originates from 0 to 10 degrees north latitude, encompassing 
 
 ## Historical Context
 
-Cannabis was introduced to Colombia just over 100 years ago, and its cultivation became deeply rooted in tradition. Traditional cultivation involved transplanting selected seedlings and other individual attention. In the heyday of "Colombian gold" (early to middle 1970s), fine cerebral marijuana was grown high in the mountains.
+Cannabis was introduced to Colombia just over 100 years ago, and its cultivation became deeply rooted in tradition. Traditional cultivation involved transplanting selected seedlings and other individual attention. In the heyday of "[[cannabis-colombian-gold-landrace-sativa]]" (early to middle 1970s), fine cerebral marijuana was grown high in the mountains.
 
 The enormous American demand for Cannabis, combined with effective control of Mexican importation and Paraquat spraying, caused Colombian farmers to scale up operations. Cannabis agribusiness squeezed out small areas where labor-intensive high-quality cultivation could continue.
 
@@ -72,7 +72,7 @@ Historical Colombian varieties included:
 - Colombian seeds still contain genes favoring vigorous growth and high THC production
 - Colombian strains also contain high levels of CBD and CBN (possibly from curing/storage, not genetics)
 - Domestic Colombian strains usually lack CBD and CBN
-- Colombian strains tend to make excellent hybrids with more rapidly maturing strains such as those from Central and North America
+- Colombian strains tend to make excellent hybrids with more rapidly maturing strains such as those from Central and [[psilocybin-north-america-pacific-northwest]]
 - Older seeds from legendary Colombian strains are now highly prized by breeders
 - Commercial Cannabis markets have brought about the eradication of some local strains through hybridization with commercial strains
 
@@ -86,5 +86,5 @@ Historical Colombian varieties included:
 ## Related Topics
 - [[cannabis-landrace-and-heirloom-varieties]] - Overview of landrace varieties
 - [[cannabis-breeding-basics]] - Breeding fundamentals
-- [[cannabis-terpene-profile]] - Terpene and aroma profiles
+- [[cannabis-terpene-profile]] - [[cannabis-terpene-and-aroma-chemistry-clarke]] profiles
 - [[cannabis-maturation-and-harvest-by-latitude-clarke]]

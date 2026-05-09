@@ -10,9 +10,9 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Ultimate Guide to Natural Farming and Sustainable Living, Nicole Faires
+Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and Sustainable Living, Nicole Faires
 
-Zone 5 is the wildest, most natural area of a permaculture property — left intentionally untended as a sanctuary for wildlife, a source of clean water, and the best solution for erosion control on sloped land.
+Zone 5 is the wildest, most natural area of a [[query-how-do-i-start-designing-a-permaculture-property-from-scratch]] — left intentionally untended as a sanctuary for wildlife, a source of clean water, and the best solution for [[permplant-willows-salix-erosion-control-fodder]] on sloped land.
 
 ## What Is Zone 5
 
@@ -56,7 +56,7 @@ In permaculture zone design, Zone 5 is the area of least human intervention:
 
 - Wild forests are the source of most medicinal breakthroughs
 - Unknown and unstudied species may have future value
-- Building materials, mushrooms, and other forest products exist in wild areas
+- [[natural-building-materials-guide]], mushrooms, and other forest products exist in wild areas
 
 ## Wildlife Corridors
 
@@ -107,7 +107,7 @@ Zone 5 provides invaluable information for the permaculture designer:
 - **Observe natural patterns**: Which plants grow well together? What does the soil look like under healthy forest?
 - **Identify native species**: Zone 5 shows you what wants to grow in your climate and soil
 - **Study succession**: Watch how the ecosystem develops over time
-- **Insect and disease balance**: Healthy wild ecosystems maintain their own pest and disease balance — understanding this informs your management of other zones
+- **[[vegetable-insect-and-disease-control]] balance**: Healthy wild ecosystems maintain their own [[hamilton-pest-and-disease-control-organic]] balance — understanding this informs your management of other zones
 
 ## Related Topics
 

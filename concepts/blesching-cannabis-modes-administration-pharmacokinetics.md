@@ -1,6 +1,6 @@
 ---
 title: Blesching Cannabis Modes Administration Pharmacokinetics
-source: Uwe Blesching - The Cannabis Health Index (2015)
+source: Uwe Blesching - The [[blesching-cannabis-health-index-autoimmune-conditions]] (2015)
 source_id: uwe-blesching-the-cannabis-health-index
 tags: [cannabis, pharmacokinetics, administration, vaporization, edibles, tinctures, medical-cannabis]
 created: 2026-05-08
@@ -8,9 +8,9 @@ created: 2026-05-08
 
 # Cannabis Modes of Administration and Pharmacokinetics
 
-Cannabis is used medicinally in a wide variety of forms, each with distinct pharmacokinetic profiles that affect onset time, duration of effect, bioavailability, and therapeutic appropriateness for different conditions. Understanding these differences is essential for patients seeking to optimize their therapeutic outcomes while minimizing adverse effects. The choice of administration route directly impacts how cannabinoids interact with the [[cannabis-drying-and-curing]]. It can be consumed via inhalation (smoking or vaporization) or processed into extracts. The THC content of dried flower varies significantly by strain, [[indoor-vs-outdoor-cannabis]]. outdoor), and age. Indoor cultivation follows a three-month cycle and tends to produce higher THC content. THC content decreases over time and is affected by UV light, heat, and moisture exposure.
+Cannabis is used medicinally in a wide variety of forms, each with distinct pharmacokinetic profiles that affect onset time, duration of effect, bioavailability, and therapeutic appropriateness for different conditions. Understanding these differences is essential for patients seeking to optimize their therapeutic outcomes while minimizing [[blesching-cannabis-safety-adverse-effects-evidence]]. The choice of administration route directly impacts how cannabinoids interact with the [[cannabis-drying-and-curing]]. It can be consumed via inhalation (smoking or vaporization) or processed into extracts. The THC content of dried flower varies significantly by strain, [[indoor-vs-outdoor-cannabis]]. outdoor), and age. Indoor cultivation follows a three-month cycle and tends to produce higher THC content. THC content decreases over time and is affected by UV light, heat, and moisture exposure.
 
-Cultivation method significantly impacts the cannabinoid profile. Outdoor-grown cannabis may produce lower THC but often contains a richer terpene profile due to greater UV exposure and natural growing conditions. Indoor cultivation allows for precise environmental control but may produce flower with a narrower spectrum of secondary metabolites. The curing process after harvest — typically 2-4 weeks of slow drying in controlled humidity — also affects the final cannabinoid and terpene content.
+Cultivation method significantly impacts the cannabinoid profile. Outdoor-grown cannabis may produce lower THC but often contains a richer terpene profile due to greater UV exposure and natural growing conditions. Indoor cultivation allows for precise [[eclss-environmental-control-life-support]] but may produce flower with a narrower spectrum of [[antifungal-secondary-metabolites-coprophilous-fungi]]. The curing process after harvest — typically 2-4 weeks of slow drying in controlled humidity — also affects the final cannabinoid and terpene content.
 
 ### Vaporization
 Vaporizers heat cannabis to a precise temperature that evaporates cannabinoids below the burning point of plant material, eliminating inhalation of carbon compounds from burned paper and plant matter. Vaporization provides rapid onset (seconds to minutes) with effects that are shorter in duration compared to oral administration. This method is considered superior to smoking for lung health, though some combustion products may still be present depending on device quality and temperature settings.
@@ -28,7 +28,7 @@ Fresh cannabis leaf can be consumed as a salad mixed with other greens or juiced
 Raw juicing allows patients to consume quantities of THCA and CBDA that would be impossible through other routes. THCA has demonstrated anti-inflammatory and neuroprotective properties in preclinical research. The acid forms activate TRPA, TRPV1, and TRPV2 channels, providing potential therapeutic benefits distinct from their decarboxylated counterparts. Juicing also preserves the full spectrum of terpenes, flavonoids, and other plant compounds that may contribute to the entourage effect.
 
 ### Kief and Hashish
-Kief is the collected resin crystals (trichomes) of mature cannabis flower buds, gathered through sieving or ice water extraction. Hashish is heated and pressed kief. These concentrated forms provide higher cannabinoid density per unit weight, requiring smaller quantities for therapeutic effect. The concentration process also enriches terpene content proportionally, potentially enhancing therapeutic outcomes through the entourage effect.
+Kief is the collected resin crystals (trichomes) of mature cannabis flower buds, gathered through sieving or [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]]. Hashish is heated and pressed kief. These concentrated forms provide higher cannabinoid density per unit weight, requiring smaller quantities for therapeutic effect. The concentration process also enriches terpene content proportionally, potentially enhancing therapeutic outcomes through the entourage effect.
 
 ### Tinctures (Green Dragon)
 Alcohol or glycerin extracts of cannabis, used for oral or sublingual administration. Tinctures come in dropper bottles allowing for precise dosing. The recommended approach is to start slowly with 3-4 drops, wait at least one hour to assess effects, then gradually increase until the desired therapeutic effect is achieved. Since most products are not standardized, the process may need to be repeated with each new batch. Sublingual administration partially bypasses first-pass metabolism, providing faster onset than swallowed edibles.
@@ -92,7 +92,7 @@ The standard approach across all routes is "start low, go slow." Begin with the 
 Some patients and clinicians advocate for microdosing — consuming sub-threshold amounts of cannabis that do not produce noticeable psychoactive effects but may still provide therapeutic benefits. This approach is particularly relevant for conditions where patients wish to remain fully functional, such as during work hours or while managing chronic conditions that require sustained treatment throughout the day.
 
 ### Product Standardization Challenges
-A major challenge in cannabis therapeutics is the lack of standardization across products. Two batches of the same strain from the same grower may have significantly different cannabinoid and terpene profiles. This variability means that patients must recalibrate their dose with each new supply, particularly with whole-plant products. Laboratory testing certificates of analysis (COAs) can help guide dosing decisions when available.
+A major challenge in cannabis therapeutics is the lack of standardization across products. Two batches of the same strain from the same grower may have significantly different cannabinoid and [[cannabis-terpene-profiles-sativa]]. This variability means that patients must recalibrate their dose with each new supply, particularly with whole-plant products. Laboratory testing certificates of analysis (COAs) can help guide dosing decisions when available.
 
 ## Terpene Considerations by Administration Route
 
@@ -102,5 +102,5 @@ Inhalation preserves the volatile terpene profile most effectively, as terpenes 
 
 ## Drug Interactions and Contraindications
 
-Cannabinoids interact with the [[blesching-endocannabinoid-system-overview]]
+Cannabinoids interact with the [[endocannabinoid-system-overview]]
 - [[cannabis-cannabinoid-receptor-pharmacology]]

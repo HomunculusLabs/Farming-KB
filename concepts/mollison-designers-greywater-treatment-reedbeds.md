@@ -1,5 +1,5 @@
 ---
-title: Greywater Treatment Reedbeds
+title: mollison designers greywater treatment reedbeds Reedbeds
 created: 2026-04-28
 tags:
   - greywater
@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# [[bill-mollison]] discusses [[permaculture]]: A Designers' Manual. He presents reedbeds as an elegant,
+# [[bill-mollison]] discusses permaculture: A Designers' Manual. He presents reedbeds as an elegant,
 low-energy, and biologically based alternative to conventional sewage
 systems that turns waste into a productive resource.
 
@@ -22,7 +22,7 @@ systems that turns waste into a productive resource.
 
 Constructed wetlands (reedbeds) treat wastewater by passing it through
 a planted substrate where physical, chemical, and biological processes
-break down organic matter, nutrients, and pathogens. The treatment relies
+[[query-can-fungi-break-down-plastic-pollution]] [[hamilton-composting-and-organic-matter-management]], nutrients, and pathogens. The treatment relies
 on:
 
 - Physical filtration: wastewater percolates through gravel or sand media,
@@ -31,9 +31,9 @@ on:
   worldwide. Deep, extensive root system (rhizomes reach 1 to 2 metres
   deep). Extremely hardy, tolerates a wide range of water depths and
   nutrient levels. Transports oxygen to roots efficiently. Grows tall
-  (1.5 to 3 metres), providing excellent habitat and biomass production.
+  (1.5 to 3 metres), providing excellent habitat and [[dighton-fungal-biomass-production-aquatic-ecosystems]].
 - Cattail / Bulrush (Typha latifolia, Typha domingensis): Vigorous
-  grower with dense root mats. Excellent nutrient uptake. Very tolerant
+  grower with dense root mats. Excellent [[plant-nutrient-uptake-mechanisms]]. Very tolerant
   of fluctuating water levels. Produces large biomass. Can become
   dominant and reduce biodiversity if not managed.
 - Soft rush ([[composting-toilets]] or separate blackwater treatment):
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

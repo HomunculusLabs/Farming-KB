@@ -1,15 +1,15 @@
 ---
-title: Masanobu [[fukuoka-natural-farming-philosophy]]
+title: masanobu-fukuoka-natural-farming-philosophy
 source: The One-Straw Revolution - Masanobu Fukuoka
 created: 2026-05-08
 tags: [farming, philosophy, natural-farming, fukuoka, mu, agriculture, ecology]
 ---
 
-# Masanobu Fukuoka Natural Farming Philosophy
+# Masanobu [[fukuoka-natural-farming-philosophy]]
 
 ## Overview
 
-Masanobu Fukuoka (1913-2008) developed a radical approach to agriculture called "natural farming" that eliminates plowing, prepared fertilizers, chemical pesticides, and in the case of rice, even flooding. His philosophy emerged from a profound spiritual experience at age 25 and was validated through more than three decades of farming on his family's land on the island of Shikoku, Japan. Natural farming is not merely an agricultural technique but a comprehensive worldview that challenges the foundations of modern human thought, science, and civilization itself.
+Masanobu Fukuoka (1913-2008) developed a radical approach to agriculture called "[[comparison-natural-farming-vs-permaculture]]" that eliminates plowing, prepared fertilizers, chemical pesticides, and in the case of rice, even flooding. His philosophy emerged from a profound spiritual experience at age 25 and was validated through more than three decades of farming on his family's land on the island of Shikoku, Japan. Natural farming is not merely an agricultural technique but a comprehensive worldview that challenges the foundations of modern human thought, science, and civilization itself.
 
 ## The Revelation of Nothing
 
@@ -29,9 +29,9 @@ True natural farming, as Fukuoka eventually developed it, requires active but mi
 
 ## Critique of Human Knowledge
 
-Fukuoka's philosophy contains a fundamental critique of what he called "discriminating knowledge" — the human habit of dividing the unified reality of nature into discrete categories and concepts. He argued that this tendency to analyze, classify, and manipulate creates an artificial world of human ideas that separates people from nature.
+Fukuoka's philosophy contains a fundamental critique of what he called "[[non-discriminating-knowledge-and-critique-of-scientific-reductionism]]" — the human habit of dividing the unified reality of nature into discrete categories and concepts. He argued that this tendency to analyze, classify, and manipulate creates an artificial world of human ideas that separates people from nature.
 
-In Sowing Seeds in the Desert, he elaborated on this critique, arguing that Darwin's theory of natural selection, while partially correct, reflects the limitations of human perception rather than the true nature of evolution. Fukuoka proposed that nature does not operate through the kind of cause-and-effect relationships that human science assumes. Instead, he saw all of nature as a single, simultaneous reality in which past, present, and future coexist.
+In Sowing Seeds in the Desert, he elaborated on this critique, arguing that Darwin's [[fukuoka-natural-way-of-farming-theory-of-natural-farming]] selection, while partially correct, reflects the limitations of human perception rather than the true nature of evolution. Fukuoka proposed that nature does not operate through the kind of cause-and-effect relationships that human science assumes. Instead, he saw all of nature as a single, simultaneous reality in which past, present, and future coexist.
 
 This critique extends to virtually every domain of human activity. Fukuoka argued that modern medicine exists only because people create sickly environments; that formal education is necessary only because people have separated themselves from natural learning; and that the economy is based on the erroneous assumption that human production creates value, when in fact all value originates in nature.
 
@@ -48,7 +48,7 @@ He extended this to human society: "It is as if a fool were to stomp on and brea
 Fukuoka's agricultural practice evolved through a process of subtraction rather than addition. Rather than asking "How about trying this?" he asked "How about not doing this?" Over thirty years, he progressively eliminated agricultural practices until he reached what he considered the minimum necessary work:
 
 1. **No plowing**: Soil structure is maintained by plant roots and natural soil organisms
-2. **No prepared fertilizer**: Soil fertility is maintained through clover, straw mulch, and natural decomposition
+2. **No prepared fertilizer**: Soil fertility is maintained through clover, straw mulch, and [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]]
 3. **No insecticides**: Natural balance between pests and predators maintains pest control
 4. **No weeding**: Weeds are managed through competition from clover ground cover and straw mulch
 5. **No pruning**: Trees are allowed to grow in their natural form, though this requires patient correction from previously pruned states
@@ -60,7 +60,7 @@ The result was a farming system that produced yields equal to or greater than co
 Fukuoka identified several reasons why his methods, despite their demonstrated effectiveness, have not been widely adopted:
 
 1. **Specialization**: The world has become so specialized that people cannot grasp things in their entirety. A soil specialist sees only soil, an insect expert sees only insects, and none see the whole system
-2. **Compromise**: Self-styled experts suggest mixing natural and scientific farming, which Fukuoka argued completely misses the point
+2. **Compromise**: Self-styled experts suggest mixing natural and [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]], which Fukuoka argued completely misses the point
 3. **Economic pressure**: The agricultural economy is structured around the products and services that natural farming eliminates
 4. **Philosophical resistance**: Natural farming requires a fundamental shift in worldview that most people are unwilling or unable to make
 
@@ -68,7 +68,7 @@ Fukuoka noted that researchers from all over Japan visited his farm, found it "a
 
 ## Relationship to Other Agricultural Movements
 
-Natural farming is distinct from organic farming, permaculture, and other alternative agricultural approaches, though it has influenced all of them. Fukuoka was adamant that natural farming cannot be mixed with other approaches. Larry Korn, his student and translator, explained: "One either lives in the absolute world of nature, or in the fantasy world of human thoughts. There is no middle ground."
+Natural farming is distinct from [[coleman-deep-organic-farming-philosophy]], permaculture, and other alternative agricultural approaches, though it has influenced all of them. Fukuoka was adamant that natural farming cannot be mixed with other approaches. Larry Korn, his student and translator, explained: "One either lives in the absolute world of nature, or in the fantasy world of human thoughts. There is no middle ground."
 
 Organic farming, in Fukuoka's view, was merely a slightly less harmful version of the same fundamentally flawed approach. It still involved plowing, composting, and managing crops through human intervention, just without synthetic chemicals. Permaculture, while closer to Fukuoka's thinking, still involved design and planning that reflected human ideas about how nature should be arranged.
 
@@ -106,3 +106,7 @@ His critique encompassed multiple domains:
 
 **Education**: "Formal schooling has no intrinsic value, but becomes necessary when humanity creates a condition in which one must become educated just to get along." He compared teaching music to children to [[fukuoka-direct-seeding-rice-barley-cultivation]]
 - [[fukuoka-food-forest-orchard-design]]
+## See Also
+- [[fukuoka-direct-seeding-rice-barley-cultivation]]
+- [[fukuoka-food-forest-orchard-design]]
+- [[fukuoka-textdoc-mahayana-hinayana-natural-farming-pursuit-of-nature]]

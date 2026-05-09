@@ -72,7 +72,7 @@ Transporter-mediated interactions occur when one compound inhibits, induces, or 
 another compound depends on it for disposition. Inhibition can increase exposure to a substrate drug.
 Induction can reduce exposure and therapeutic effect.
 
-Clinically important examples often involve narrow therapeutic index drugs, cardiovascular agents,
+Clinically important examples often involve narrow [[cannabis-therapeutic-index-overview]] drugs, cardiovascular agents,
 immunosuppressants, anticancer drugs, antiretrovirals, and central nervous system drugs. The practical
 question is not whether a molecule touches P-gp in vitro, but whether concentrations at the relevant tissue
 are high enough to change patient exposure.
@@ -93,7 +93,7 @@ use several resistance mechanisms at once, including altered targets, enhanced r
 other efflux pumps.
 
 Even when P-gp is not the sole cause of resistance, measuring its expression can help explain poor
-intracellular accumulation of some agents. It remains a central model for how membrane transport can defeat
+intracellular accumulation of some agents. It remains a central model for how [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] can defeat
 pharmacological potency.
 
 ## Barrier Protection
@@ -144,4 +144,4 @@ can raise systemic toxicity.
 General pharmacology and transporter biology; reviewed against public summaries from Wikipedia pages on
 P-glycoprotein and ABCB1 during the 2026-05-02 mining wave.
 
-See also: [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]]
+See also: [[legume-nitrogen-fixation-and-green-manure]]

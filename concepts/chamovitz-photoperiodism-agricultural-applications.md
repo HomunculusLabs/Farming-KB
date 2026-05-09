@@ -37,8 +37,8 @@ planted Maryland Mammoth in pots and divided them into two groups:
   every afternoon (artificially shorter days) → stopped growing and
   began flowering
 
-The conclusion was revolutionary: the plant was measuring day length
-to determine when to switch from vegetative growth to reproduction.
+The conclusion was revolutionary: the plant was measuring [[coleman-winter-day-length-and-persephone-months]]
+to determine when to switch from [[cannabis-vegetative-growth-stage]] to reproduction.
 
 ### The Concept of Photoperiodism
 
@@ -47,7 +47,7 @@ evidence that plants quantitatively measure light exposure. It led
 to the classification of plants into categories:
 
 - **Short-day plants**: Flower when days are short (nights are long)
-  — e.g., chrysanthemums, soybeans, Maryland Mammoth tobacco
+  — e.g., chrysanthemums, soybeans, Maryland [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]]
 - **Long-day plants**: Flower when days are long (nights are short)
   — e.g., irises, barley
 - **Day-neutral plants**: Flowering is not regulated by day length
@@ -111,7 +111,7 @@ summer. Using photoperiod control, growers can force winter flowering:
 
 1. During winter's naturally short days, provide supplemental light
    to extend the photoperiod
-2. Alternatively, use night-break lighting (a brief red light flash
+2. Alternatively, use night-break lighting (a brief [[phytochrome-red-far-red-light-switch]] flash
    in the middle of the night) to shorten the perceived night length
 3. The irises respond by flowering even in the middle of winter
 

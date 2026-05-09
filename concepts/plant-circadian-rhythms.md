@@ -22,7 +22,7 @@ daily environmental cycles and coordinate their physiology accordingly.
 
 The plant circadian oscillator is built on interconnected transcription-
 translation feedback loops. In Arabidopsis, the morning-expressed genes CCA1
-and LHY encode MYB transcription factors that repress expression [[antiviral-properties-of-mushrooms]] persistence,
+and LHY encode MYB transcription factors that repress expression antiviral-properties-of-mushrooms persistence,
 temperature compensation, and entrainability that are characteristic of
 biological circadian clocks.
 
@@ -33,8 +33,8 @@ through photoreceptor-mediated entrainment. Phytochromes and cryptochromes
 are the primary photoreceptors involved in clock entrainment. Light perceived
 by these receptors triggers rapid [[allegro-colour-and-consistency-of-the-amanita-muscaria]] oscillator to match the external day-night cycle.
 
-The quality of light also influences clock entrainment. Red light acting
-through phytochromes and blue light acting through cryptochromes have
+The quality of light also influences clock entrainment. [[phytochrome-red-far-red-light-switch]] acting
+through phytochromes and [[chamovitz-julius-von-sachs-blue-light-phototropism]] acting through cryptochromes have
 distinct effects on clock gene expression, allowing the clock to extract
 information about both the presence and the spectral quality of light.
 This dual input system helps the clock maintain accurate timekeeping under
@@ -72,7 +72,7 @@ conditions.
 ## Photoperiodic Flowering
 
 The circadian clock plays a central role in photoperiodism, the ability of
-plants to measure day length and coordinate developmental transitions with
+plants to measure [[coleman-winter-day-length-and-persephone-months]] and coordinate developmental transitions with
 seasonal changes. The photoperiodic pathway involves the interaction between
 circadian clock outputs and light signaling to regulate the expression of
 floral integrator genes such as FT (Flowering Locus T).
@@ -98,8 +98,8 @@ circadian timekeeping in natural environments.
 ## Clock Regulation of Metabolism
 
 The circadian clock extends its influence beyond developmental processes to
-regulate metabolic pathways. Photosynthetic carbon fixation, nitrogen
-assimilation, and the biosynthesis of secondary metabolites all follow
+regulate metabolic pathways. Photosynthetic [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]], nitrogen
+assimilation, and the biosynthesis of [[antifungal-secondary-metabolites-coprophilous-fungi]] all follow
 circadian patterns. The clock coordinates these metabolic processes with
 the light-dark cycle, ensuring that energy-intensive biosynthetic reactions
 occur when resources are available and minimizing wasteful activity during

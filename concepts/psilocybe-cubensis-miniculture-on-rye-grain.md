@@ -1,5 +1,5 @@
 ---
-title: Psilocybe Cubensis Miniculture on Rye Grain
+title: Psilocybe psilocybe-cubensis-miniculture-method on Rye Grain
 created: 2026-04-28
 tags:
   - psilocybe-cubensis
@@ -22,15 +22,15 @@ type: concept
 
 The miniculture technique developed by Bigwood and Beug (1982) is a
 compact, controlled method for cultivating [[agaricus-bisporus|Agaricus bisporus]], the common
-button mushroom. Oss and Oeric (1976) refined the rye-grain approach
-specifically for psilocybin mushroom cultivation in their Psilocybin
-Magic Mushroom Grower's Guide. Bigwood and Beug further miniaturized
+[[growing-gourmet-button-mushroom-agaricus-cultivation]]. Oss and Oeric (1976) refined the rye-grain approach
+specifically for psilocybin [[accessible-mushroom-cultivation-for-disabilities]] in their Psilocybin
+[[australian-magic-mushroom-common-names]] Grower's Guide. Bigwood and Beug further miniaturized
 the method for their analytical research purposes, reducing the scale
 to half-pint jars to allow replication across many experimental
 conditions while maintaining the controlled environment necessary for
 meaningful alkaloid comparisons.
 
-Their goal was to produce sufficient fruiting body material for
+Their goal was to produce sufficient [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] material for
 [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]]
 
 - [[psilocybe-cubensis-miniculture-method]] Concepts
@@ -55,7 +55,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -97,4 +97,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

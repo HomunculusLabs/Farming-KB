@@ -1,11 +1,11 @@
 ---
-title: "How to Choose the Right Pot Size for Cannabis?"
+title: "How to query-how-do-i-choose-the-right-cannabis-strain-for-my-grow Pot Size for Cannabis?"
 created: 2026-04-28
 tags: [query, cannabis, containers, pot-sizing, growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 type: query
 ---
 
@@ -23,14 +23,14 @@ oversized containers that can lead to chronic overwatering problems.
 
 Choosing the correct container size is one of the most important decisions you
 will make for your cannabis garden. The container directly affects root
-development, nutrient uptake efficiency, watering frequency, and ultimately the
+development, [[plant-nutrient-uptake-mechanisms]] efficiency, watering frequency, and ultimately the
 size and quality of your harvest. The [[cervantes-container-gardening-pot-size]] recommends matching container size to the expected final plant size.
 For small indoor plants kept under two feet tall, a 1 to 3 gallon container is
 usually sufficient. Medium plants reaching three to four feet do well in 5 to
 7 gallon containers. Large indoor plants or outdoor plants may need 10 gallons
 or more depending on their expected final size at harvest.
 
-Fabric pots have become the industry standard for cannabis cultivation among
+Fabric pots have become the industry standard for [[query-how-does-no-till-cannabis-cultivation-work]] among
 experienced growers. They allow air pruning of roots, which prevents roots from
 circling the container and becoming root bound. Air pruning occurs when root
 tips reach the porous fabric wall and are exposed to air, causing the tip to
@@ -45,7 +45,7 @@ oxygen exchange at the root zone promotes healthier microbial activity.
 
 However, faster drying means you will need to water more frequently, which
 directly affects your [[cannabis-transplanting-guide]] covers this
-process step by step for growers of all experience levels.
+process [[fukuoka-rice-barley-step-by-step-method]] for growers of all experience levels.
 
 [[cannabis-root-bound-symptoms-and-management]] explains that chronically root bound plants develop compacted root balls
 that resist water penetration.
@@ -53,9 +53,9 @@ that resist water penetration.
 Transplanting root bound plants requires careful technique to minimize shock.
 Gently squeeze the container to loosen the root ball and score the outer roots
 with a clean knife to stimulate new outward growth. Container depth matters
-just as much as width for healthy cannabis growth. Cannabis develops a taproot
+just as much as width for [[query-how-to-manage-ph-for-healthy-cannabis-plants]] growth. Cannabis develops a taproot
 that extends deep, so deeper containers encourage stronger anchoring and
-improved drought tolerance. A depth of at least 10 to 12 inches is ideal.
+improved [[dighton-fungal-drought-tolerance-plant-water-relations]]. A depth of at least 10 to 12 inches is ideal.
 
 Drainage is absolutely non-negotiable when selecting containers. Every pot must
 have adequate drainage holes to prevent water from pooling at the bottom.

@@ -1,5 +1,5 @@
 ---
-title: Cannabis Phenotype Selection Criteria
+title: cannabis-phenotype-selection Criteria
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -8,9 +8,9 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Phenotype Selection Criteria
+# [[cannabis-phenotype-selection]] Criteria
 
-Vic High's breeding framework places phenotype selection at the centre of all breeding success. Selection determines which genes are propagated and which are eliminated from the gene pool. Understanding how to select effectively -- and how selection interacts with genetics -- is what separates successful breeding from random mating.
+Vic High's breeding framework places vic high cannabis phenotype selection criteria at the centre of all breeding success. Selection determines which genes are propagated and which are eliminated from the gene pool. Understanding how to select effectively -- and how selection interacts with genetics -- is what separates successful breeding from random mating.
 
 ## Selection as Manipulation of Gene Frequency
 
@@ -54,20 +54,20 @@ The recessive case achieves near-perfect results even with half-sib selection be
 
 ## Male Selection: The Critical Challenge
 
-Vic High identifies the inability to assess traits in male plants as the single biggest practical constraint in cannabis breeding. Many desirable traits -- flavour, potency, flowering characteristics -- can only be evaluated in female plants because male plants do not produce female flowers.
+Vic High identifies the inability to assess traits in male plants as the single biggest practical constraint in [[oner-cannabis-breeding-fundamentals]]. Many desirable traits -- flavour, potency, flowering characteristics -- can only be evaluated in female plants because male plants do not produce female flowers.
 
 This forces half-sib breeding where males contribute genes randomly, and the impact is quantified throughout the text. The difference between full-sib and half-sib outcomes at the F5 generation (96% vs 87% phenotypic uniformity for dominant traits) represents a significant loss of efficiency.
 
 ### Strategies for Male Evaluation
 
-- **Direct observation**: Selecting males for traits visible in both sexes (growth habit, leaf morphology, pest resistance, stem structure).
-- **Progeny testing**: Growing out test crosses from candidate males to determine which males pass on the most desirable genes. Vic High describes this as the gold standard but notes it requires additional time and resources.
+- **[[fukuoka-direct-observation-method]]**: Selecting males for traits visible in both sexes (growth habit, leaf morphology, pest resistance, stem structure).
+- **[[cervantes-progeny-testing-combining-ability]]**: Growing out test crosses from candidate males to determine which males pass on the most desirable genes. Vic High describes this as the gold standard but notes it requires additional time and resources.
 - **Large male numbers**: Using many males per cross increases the probability that the pollen pool includes the desired alleles, making outcomes more closely match theoretical predictions.
 - **Indirect markers**: Using linked visible traits as proxies for desired invisible traits -- but this carries significant risk due to gene linkage complications.
 
 ## The Danger of Linked Genes
 
-Vic High highlights a subtle but critical trap in selection: gene linkage. Cannabis has several thousand genes residing on just 10 chromosome pairs (20 individual chromosomes). Each chromosome contains hundreds of genes that generally travel together during sexual reproduction.
+Vic High highlights a subtle but critical trap in selection: gene linkage. Cannabis has several thousand genes residing on just 10 chromosome pairs (20 individual chromosomes). Each chromosome contains hundreds of genes that generally travel together during [[fungal-life-cycles-sexual-reproduction-metamorphosis]].
 
 ### Implications for Selection
 
@@ -127,7 +127,9 @@ Vic High's recommendations for maximising the impact of selection:
 - Dominant traits are harder to fix because heterozygotes are phenotypically indistinguishable from homozygous dominants.
 - Recessive traits offer the fastest path to fixation because expression guarantees homozygosity.
 - Progeny testing is the most reliable method for evaluating male genetic contributions.
-- The degree of selection applied very much influences success rate -- this is the main practical takeaway.
+- The degree of selection applied very much influences [[maitake-fruiting-body-success-rate-management]] -- this is the main practical takeaway.
 - [[green-cannabis-grow-bible-strain-selection-genetics]]
-- [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
+- fungal-symbiosis-with-plants-beyond-mycorrhizae
 - [[cannabis-potency-enhanced-flowers]]
+## See Also
+- [[vic-high-cannabis-polyhybrid-crosses-and-f1-stability]]

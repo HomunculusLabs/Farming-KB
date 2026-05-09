@@ -1,10 +1,10 @@
 ---
-title: Spore Print Collection and Spore Mass Inoculation
+title: Spore spore print collection spore mass inoculation and Spore Mass Inoculation
 tags: [spore-print, spore-collection, spore-mass-inoculation, mushroom-cultivation, species-library, cloning]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Growing Gourmet and Medicinal Mushrooms (Stamets, 1993)
+  - Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (Stamets, 1993)
 type: concept
 created: 2026-04-28
 ---
@@ -13,9 +13,9 @@ created: 2026-04-28
 
 ## Overview
 
-By far the simplest way to start growing mushrooms is to broadcast spores onto
+By far the simplest way to start [[falconer-growing-mushrooms-in-sheds]] is to broadcast spores onto
 prepared substrates outdoors. Spore print collection and spore mass inoculation
-together represent the most accessible entry points into mushroom cultivation,
+together represent the most accessible entry points into [[accessible-mushroom-cultivation-for-disabilities]],
 requiring minimal technical expertise while opening the door to a lifetime of
 propagation work.
 
@@ -62,7 +62,7 @@ of species encountered years earlier.
 
 Spore mass inoculation is the ultimate shortcut for culturing mushrooms,
 involving inoculation directly into bulk substrates without the intermediate
-step of agar isolation or grain spawn preparation. For wild outdoor cultivation,
+step of agar isolation or grain [[azurescens-spawn-preparation-grain-to-wood]]. For wild outdoor cultivation,
 spore mass inoculation is the simplest technique available, requiring minimal
 technical expertise. Spores are simply hydrated, often mixed with water, and
 poured or sprayed onto prepared substrates such as logs, wood chips, straw, or
@@ -128,7 +128,7 @@ density.
 
 ## Safety Warning for Outdoor Cultivators
 
-Outdoor cultivators must hone their mushroom identification skills thoroughly.
+Outdoor cultivators must hone their [[psilocybin-mushroom-identification-guide]] skills thoroughly.
 The most critical safety concern is avoiding members of the
 [[pholiotina-filaris-profile|Pholiotinafilaris]] groups, both of which contain deadly amatoxins. These species can
 resemble edible mushrooms and may colonize the same outdoor substrates as
@@ -142,4 +142,4 @@ and outdoor cultivation.
 
 - Species Library
 - [[substrate-preparation|Substrate Preparation]]
-- [[mushroom-identification|Mushroom Identification]]
+- Mushroom Identification

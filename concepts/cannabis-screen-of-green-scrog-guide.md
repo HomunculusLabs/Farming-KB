@@ -1,5 +1,5 @@
 ---
-title: Cannabis Screen of Green (SCROG) Technique
+title: Cannabis cannabis screen of green scrog guide (SCROG) Technique
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Cannabis Grow Bible, Greg Green (Ch. 9)
+Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, Greg Green (Ch. 9)
 
 Screen of Green (SCROG) is a training technique that uses a horizontal screen or net (a "scrog net") to create an even, flat canopy of bud sites. It maximizes light efficiency and yield by ensuring every bud site receives direct light exposure.
 
@@ -30,7 +30,7 @@ A screen (typically chicken wire, trellis netting, or string grid) is installed 
 ## Disadvantages
 
 - **Labor intensive**: Daily attention needed during vegetative phase to tuck and train branches
-- **Longer vegetative phase**: Requires 4–8 weeks of vegetative growth to fill the screen before flowering
+- **Longer vegetative phase**: Requires 4–8 weeks of [[cannabis-vegetative-growth-stage]] to fill the screen before flowering
 - **Difficult to move plants**: Once trained into the screen, plants cannot be easily repositioned
 - **Requires some experience**: Proper technique takes practice to learn
 

@@ -6,7 +6,8 @@ tags: [herbalism, permaculture, edible-weed, medicinal-plants,
   dynamic-accumulator, Asteraceae, companion-plant]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources: []
 ---
 
 # Taraxacum officinale
@@ -36,7 +37,7 @@ anti-inflammatory, and potential anti-cancer properties.
 - **Species:** T. officinale
 
 The genus contains ~2,500 species with complex taxonomy from
-widespread apomixis (asexual seed production). Many 'T.
+widespread apomixis (asexual [[cervantes-seed-production-storage]]). Many 'T.
 officinale' populations are actually microspecies within section
 Ruderalia. 'Dandelion' derives from French 'dent de lion' (lion's
 tooth), referring to deeply toothed leaf margins.
@@ -124,7 +125,7 @@ critical forage for honeybees, bumblebees, and native pollinators
 over extended bloom periods. Leaves serve as nutrient-rich mulch
 or compost. Roots dried and roasted as caffeine-free coffee
 substitute retaining prebiotic inulin. Self-seeding, persistent
-ground cover requiring zero maintenance.
+[[fukuoka-citrus-orchard-ground-cover-cultivation]] requiring zero maintenance.
 
 ## Distribution
 
@@ -136,9 +137,13 @@ colonizers. Considered a noxious agricultural weed but not
 ecologically damaging invasive in most jurisdictions.
 ## See Also
 
+- [[cnicus-benedictus]]
+- [[diplotaxis-tenuifolia]]
+- [[lithospermum-erythrorhizon]]
+- [[osmorhiza-claytonii]]
+- [[rhamnus-purshiana]]
+
+- [[taraxacum-kok-saghyz]]
+
 - [[echinacea-purpurea]]
 - [[matricaria-chamomilla]]
-
-- [[urtica-dioica]] — stinging nettle, nutrient-dense perennial
-  with complementary dynamic accumulator properties.
-- Chicoric acid — primary phenolic in dandelion, also in

@@ -30,7 +30,7 @@ Asthma affects approximately 300 million people worldwide and 25 million people 
 - Allergens (pollen, dust mites, pet dander, mold)
 - Air pollutants
 - Exercise
-- Cold air
+- [[hemenway-cold-air-drainage-and-frost-management]]
 - Respiratory infections
 - Stress and strong emotions
 - Certain medications (aspirin, beta-blockers)
@@ -43,7 +43,7 @@ Asthma affects approximately 300 million people worldwide and 25 million people 
 - Avoidance of triggers
 
 ### Important Caveat on Smoking
-Smoking cannabis is NOT recommended for asthma patients. Smoke of any kind irritates airways and can trigger asthma attacks. Research on cannabinoids and asthma focuses on non-smoked delivery methods.
+Smoking cannabis is NOT recommended for asthma patients. Smoke of any kind irritates airways and can trigger asthma attacks. Research on cannabinoids and asthma focuses on non-smoked [[cannabis-delivery-methods-comparison]].
 
 ## Cannabis Research for Asthma
 
@@ -76,7 +76,7 @@ For asthma, non-smoked delivery methods are essential:
 | CBD | Laboratory studies | Anti-inflammatory effects on airway tissues | 2 |
 | **Total CHI Value** | | | **5** |
 
-Note: Direct clinical trials specifically on cannabis for asthma are limited. Most evidence comes from studies of cannabinoid mechanisms in the respiratory system and patient reports.
+Note: Direct [[mushroom-cancer-clinical-trials-overview]] specifically on cannabis for asthma are limited. Most evidence comes from studies of cannabinoid mechanisms in the respiratory system and patient reports.
 
 ## Strain-Specific Considerations
 
@@ -116,5 +116,5 @@ Mind-body approaches with evidence for asthma management:
 
 ## Source
 
-Uwe Blesching, *The Cannabis Health Index*, Asthma section
+Uwe Blesching, *The [[blesching-cannabis-health-index-autoimmune-conditions]]*, Asthma section
 - [[cannabis-topical-applications]]

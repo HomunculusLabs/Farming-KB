@@ -1,5 +1,5 @@
 ---
-title: Brassinosteroid Growth Promotion in Psilocybe Cubensis tags:
+title: Brassinosteroid Growth Promotion in brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting tags:
 created: 2026-04-28
   - brassinosteroid
   - psilocybe-cubensis
@@ -52,7 +52,7 @@ On malt agar, the brassinosteroid-treated cultures exhibited dramatically accele
 series without steroid. This represents one of the most pronounced growth-promoting effects ever documented
 for a phytohormone applied to a non-plant organism. The speed differential was readily observable and consistent across all ten
 experimental runs, providing strong statistical confidence in the result. The fact that the growth enhancement was observed on a simple defined medium (malt
-agar) suggests that the brassinosteroid is not merely improving nutrient availability or substrate utilization but is directly influencing the fungal
+agar) suggests that the brassinosteroid is not merely improving [[ph-and-nutrient-availability-garden-soils]] or substrate utilization but is directly influencing the fungal
 metabolic or regulatory machinery responsible for hyphal extension. This distinction is important because it points to a direct biological mechanism
 rather than an indirect nutritional effect.
 
@@ -61,7 +61,7 @@ rather than an indirect nutritional effect.
 The effects on the dung and grain substrate were equally striking. The first flush of fruit bodies appeared remarkably earlier in the
 brassinosteroid-treated cultures. In the control group, the first sporocarps were produced within 4 to 5 weeks.
 With the addition of brassinosteroid, fruiting of the mycelia occurred in just 3 to 3.5 weeks, representing a 25 to 30% reduction in the time to first harvest.
-For commercial mushroom cultivation, where time to harvest directly impacts profitability, this acceleration would represent a significant economic advantage.
+For commercial [[accessible-mushroom-cultivation-for-disabilities]], where time to harvest directly impacts profitability, this acceleration would represent a significant economic advantage.
 The time reduction is particularly valuable because it shortens the period during which cultures are vulnerable to contamination.
 Faster colonization means less exposure to competing microorganisms, potentially reducing crop losses in commercial settings where contamination rates can be a
 major factor limiting production efficiency.
@@ -109,7 +109,7 @@ The practical implications for mushroom cultivation are significant. A 40 to 50%
 abortive fruit body formation, would translate to substantially improved efficiency in commercial operations.
 The extremely low concentration required (0.01 ppm) means that treatment costs would be negligible.
 However, the morphological changes observed, particularly the loss of the annulus, might affect the marketability of the product for certain applications where species
-identification features are important. For gourmet mushroom cultivation of species such as Agaricus bisporus, Pleurotus
+identification features are important. For [[growing-gourmet-mushroom-dehydration-methods-equipment]] cultivation of species such as [[genetic-improvement-agaricus-bisporus-molecular-approaches]], Pleurotus
 ostreatus, or Lentinula edodes, brassinosteroid treatment could potentially offer similar benefits without the legal complications associated with psilocybin-containing
 species.
 
@@ -126,13 +126,13 @@ The extremely low effective concentration suggests a receptor-mediated mechanism
 ## Comparison with Other Fungal Growth Promoters
 
 The brassinosteroid effect can be compared with other known fungal growth promoters. Classical fungal growth stimulants include plant extracts, peptone supplements, and
-various organic amendments that improve nutrient availability. Unlike these nutritional supplements, brassinosteroids act at concentrations orders
+various [[cervantes-organic-amendments-chart]] that improve nutrient availability. Unlike these nutritional supplements, brassinosteroids act at concentrations orders
 of magnitude lower and appear to function as signaling molecules rather than nutrient sources.
 This places them in a fundamentally different category of growth promoters, more analogous to plant hormones than to fertilizers or supplements.
 Other steroidal compounds have been reported to affect fungal growth, including certain animal steroid hormones and synthetic anabolic steroids.
 However, the specificity and magnitude of the brassinosteroid effect on [[brassinosteroid-psilocybe-cubensis-growth]]
 
-- [[light-wavelength-basidiocarp-initiation-psilocybe-cubensis-badham]]
+- [[psilocybe-cubensis-flush-variation]]
 - [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - [[psilocybe-cubensis]] for the species profile and general cultivation information
 - Brassinosteroids for the broader class of plant growth regulators

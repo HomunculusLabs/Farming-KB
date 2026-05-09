@@ -12,9 +12,9 @@ type: query
 
 ## Short Answer
 
-Growing mushrooms on straw is one of the simplest and most productive methods for home cultivation.
+[[falconer-growing-mushrooms-in-sheds]] on straw is one of the simplest and most productive methods for home cultivation.
 
-Oyster mushrooms in particular thrive on pasteurized straw, which provides an ideal balance of nutrition, water retention, and air exchange.
+[[query-how-to-grow-oyster-mushrooms-at-home]] in particular thrive on [[oyster-mushroom-pasteurized-straw-cultivation]], which provides an ideal balance of nutrition, water retention, and air exchange.
 
 The basic process involves chopping straw, pasteurizing it, inoculating with spawn, and incubating until the mushrooms are ready to fruit.
 
@@ -22,7 +22,7 @@ The basic process involves chopping straw, pasteurizing it, inoculating with spa
 
 ### Why Straw Works as a Substrate
 
-Straw is an excellent mushroom substrate because it is rich in cellulose and hemicellulose.
+Straw is an excellent [[gourmet-medicinal-mushroom-substrate-preparation]] because it is rich in cellulose and hemicellulose.
 
 Many mushroom species can easily digest these components for growth and fruiting.
 
@@ -52,13 +52,13 @@ The hot water bath method is most common: submerge chopped, hydrated straw in wa
 
 Drain thoroughly and cool to room temperature before inoculation.
 
-The lime method uses hydrated lime in cold water for a simpler approach but requires precise pH management.
+The lime method uses [[cervantes-hydrated-lime-quicklime-ph-adjustment]] in cold water for a simpler approach but requires precise pH management.
 
 ### Inoculation and Packing
 
 Once pasteurized straw has cooled below 80 degrees Fahrenheit, it is ready for inoculation.
 
-Mix your grain or sawdust spawn throughout the straw at a rate of 10 to 20 percent by weight.
+Mix your grain or [[growing-gourmet-sawdust-spawn-production-use]] throughout the straw at a rate of 10 to 20 percent by weight.
 
 Higher spawn rates speed up colonization and improve contamination resistance.
 

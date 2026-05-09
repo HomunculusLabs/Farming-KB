@@ -1,11 +1,12 @@
 ---
-title: Fukuoka Critique Western Dietetics
+title: Fukuoka fukuoka-critique-western-dietetics-nutritional-science Dietetics
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Critique Western Dietetics
@@ -74,13 +75,13 @@ Stewed vegetables and rice cooked with adzuki beans was a once-a-month treat. Ho
 
 ## The Broader Context: Food Production
 
-Farmers too give no thought to the meaning of a natural diet or natural farming and, without a trace of skepticism, see the production of food out of season as a method for increasing the food supply. Scientists and engineers follow suit, working on the development of new food products. Politicians and those in the distribution industry believe that markets well stocked with a full range of goods means food is abundant and people can live in peace and security.
+Farmers too give no thought to the meaning of a [[fukuoka-natural-diet-as-foundation]] or [[comparison-natural-farming-vs-permaculture]] and, without a trace of skepticism, see the production of food out of season as a method for increasing the food supply. Scientists and engineers follow suit, working on the development of new food products. Politicians and those in the distribution industry believe that markets well stocked with a full range of goods means food is abundant and people can live in peace and security.
 
 But such thinking, and the follies of people, are dragging mankind to the abyss of destruction. See [[fukuoka-agriculture-run-amok]].
 
 ## A Proposal for Japan's Food
 
-Fukuoka proposes a concrete alternative: if Japan grew rice suited to the climate, stopped importing wheat, grew early-maturing naked barley harvestable before the early summer rains, and revived the practices of eating brown rice and rice-and-barley like the farmers and samurai of old — an immediate improvement in Japan's food situation and the health of her people would be seen.
+Fukuoka proposes a concrete alternative: if Japan grew rice suited to the climate, stopped importing wheat, grew early-maturing naked barley harvestable before the early summer rains, and revived the practices of eating [[cho-brown-rice-vinegar-preparation]] and rice-and-barley like the farmers and samurai of old — an immediate improvement in Japan's food situation and the health of her people would be seen.
 
 If all this is asking too much of modern man, with his weakened heart and stomach, Fukuoka recommends at least making brown rice bread or delicious bread from naked barley.
 

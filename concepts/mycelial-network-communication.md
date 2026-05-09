@@ -1,19 +1,13 @@
 ---
-title: Mycelial Network Communication
+title: Mycelial query-how-does-mycorrhizal-network-communication-work-between-plants
 created: 2026-04-28
-tags: [[mycology, fungi, biology, networks]
+tags: [mycology, fungi, biology, networks]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
 type: concept
 ---
-
-# Mycelial Network Communication
-
-Mycelial networks are the underground filamentous structures formed by fungi,
-consisting of vast arrays of hyphae that connect individual organisms and
-facilitate resource exchange, signaling, and environmental sensing across
-large distances. Often referred to as the "[[common-mycorrhizal-networks]], with preferential transfer to kin over
+# Mycelial Network Communication Mycelial networks are the underground filamentous structures formed by fungi, consisting of vast arrays of hyphae that connect individual organisms and facilitate resource exchange, signaling, and environmental sensing across large distances. Often referred to as the "[[common-mycorrhizal-networks]], with preferential transfer to kin over
 non-related individuals.
 
 ## Ecological Implications
@@ -21,10 +15,10 @@ non-related individuals.
 Mycelial network communication has profound implications for ecosystem
 functioning:
 
-- **Forest dynamics**: Mycorrhizal networks influence tree succession,
+- **Forest dynamics**: [[dighton-mycorrhizal-networks-carbon-transfer]] influence tree succession,
   competition, and survival by mediating resource transfers and chemical
   signals between plants.
-- **Soil health**: Saprotrophic fungal networks decompose organic matter and
+- **Soil health**: Saprotrophic fungal networks decompose [[hamilton-composting-and-organic-matter-management]] and
   redistribute nutrients, maintaining soil fertility.
 - **Resilience**: Connected plant communities show greater resilience to
   disturbance than isolated individuals, partially mediated through fungal
@@ -35,7 +29,7 @@ functioning:
 ## Current Research Directions
 
 Active areas of investigation include characterizing the full molecular
-vocabulary of fungal signaling, mapping network architecture using X-ray CT
+vocabulary of [[plant-fungal-signaling-mycorrhiza]], mapping network architecture using X-ray CT
 scanning and microfluidic models, and exploring the computational properties
 of mycelial networks for bio-inspired computing applications.
 
@@ -60,7 +54,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +96,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

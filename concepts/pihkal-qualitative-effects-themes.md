@@ -1,5 +1,5 @@
 ---
-title: PIHKAL Qualitative Effects Themes
+title: PIHKAL mdma-qualitative-effects-phenomenology Themes
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -84,7 +84,7 @@ Less commonly reported but present in some entries:
 - [[2c-e-compound-profile]] and the DO family are particularly noted for cognitive depth
 
 ### Ego Effects
-- Varying degrees of ego dissolution or ego softening
+- Varying degrees of [[psilocybin-ego-dissolution-mechanisms]] or ego softening
 - At moderate doses: reduced self-consciousness and social inhibition
 - At higher doses: complete dissolution of the sense of separate self (particularly with [[2c-b-compound-profile]])
 - The balance between ego preservation and dissolution varies by compound
@@ -148,11 +148,3 @@ One of the most consistently and enthusiastically reported effects:
 - Often accompanied by physical nausea during onset
 
 ## Dose-Response Relationships
-
-Across compounds, the qualitative themes show consistent dose-response patterns:
-
-- **Low doses**: Subtle enhancement of perception and mood; may be primarily stimulant
-- **Moderate doses**: Full spectrum of visual, emotional, and cognitive effects; peak of the therapeutic/recreational window
-- **High doses**: Intense effects across all domains; increasing likelihood of challenging experiences; greater ego dissolution; potential for overwhelming intensity
-
-See also: [[2c-b-compound-profile]], [[2c-e-compound-profile]], [[2c-family-compounds-overview]], [[mdma-in-pihkal-context]], [[phenethylamine-set-and-setting]], [[shulgin-dosage-guidelines]]

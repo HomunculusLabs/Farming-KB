@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Psychedelic integration is the process of incorporating insights, emotions, and experiences from psychedelic or entheogenic journeys into everyday life. The psychedelic experience itself is often just the beginning; the real therapeutic work happens in the days, weeks, and months afterward. Without intentional integration, powerful experiences may fade or even become sources of confusion and distress.
+Psychedelic integration is the process of incorporating insights, emotions, and experiences from psychedelic or entheogenic journeys into everyday life. The [[leary-psychedelic-experience-bardo-mapping]] itself is often just the beginning; the real therapeutic work happens in the days, weeks, and months afterward. Without intentional integration, powerful experiences may fade or even become sources of confusion and distress.
 
 ## Why Integration Matters
 
@@ -19,7 +19,7 @@ Psychedelics can produce experiences that feel more real and significant than or
 
 - Profound insights about oneself, relationships, or life direction
 - Emotional release of suppressed grief, trauma, or fear
-- Ego dissolution experiences that challenge habitual self-concepts
+- [[psilocybin-ego-dissolution-mechanisms]] experiences that challenge habitual self-concepts
 - Visions, metaphors, or symbolic content demanding interpretation
 - Mystical or transcendent experiences that defy language
 - Difficult or challenging experiences (bad trips) that leave lingering fear or confusion
@@ -52,10 +52,10 @@ Regular meditation practice helps stabilize the mind and embody psychedelic insi
 
 The body stores and processes experience; somatic practices are essential:
 
-- Yoga, tai chi, or qigong — gentle movement that integrates body and mind
+- Yoga, [[blesching-cannabis-fibromyalgia-tai-chi-and-trauma]], or qigong — gentle movement that integrates body and mind
 - Time in nature — many psychedelic experiences connect people to the natural world
 - Exercise — running, swimming, hiking can help process emotional energy
-- Breathwork — holotropic breathwork or other structured breathing practices
+- Breathwork — [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]] or other structured breathing practices
 - Body work — massage, somatic experiencing, or fascial release
 
 ### Creative Expression
@@ -137,44 +137,10 @@ The ego's attempt to co-opt a transcendent experience, leading to:
 
 ### Fragmentation
 
-The sense that the psychedelic experience exists in a separate reality from daily life:
-
-- Feeling that the experience was "more real" than ordinary life
-- Difficulty returning to work, relationships, or routine
-- Persistent longing to return to the altered state
-- Neglecting practical responsibilities
-
-## Integration Timeline
-
-| Timeframe | Focus | Practices |
-|-----------|-------|-----------|
-| Day 0-3 | Rest and stabilization | Sleep, nourishment, minimal stimulation |
-| Week 1 | Recording and reflection | Journaling, gentle movement, nature |
-| Week 2-4 | Processing and sharing | Therapy, community, creative expression |
-| Month 2-3 | Application and change | Behavioral changes, deeper practice |
-| Month 6+ | Ongoing integration | Long-term practice, periodic review |
-
-## Finding an Integration Therapist
-
-Key qualifications to look for:
-
-- Training in psychedelic integration specifically (not just general therapy)
-- Personal experience with psychedelics (or at minimum, informed stance)
-- Modalities that complement psychedelic work (IFS, somatic therapies, ACT)
-- Willingness to work with non-ordinary experiences without pathologizing
-- Good fit personally — trust and rapport are essential
-
-Organizations offering directories or training:
-
-- MAPS (Multidisciplinary Association for Psychedelic Studies)
-- Integrative Psychiatry Institute
-- Psychedelic Support network
-- CIIS (California Institute of Integral Studies) graduate programs
-
 ## See Also
 
 - [[psychedelic-therapy-current-research]] — clinical context for integration
-- [[harm-reduction-guide]] — pre-experience harm reduction
+- [[harm-reduction-guide]] — pre-experience [[adverse-effects-and-harm-reduction-psilocybin]]
 - [[entheogenic-ceremony-preparation]] — preparation practices that set the stage for integration
 
 ## Related

@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Tuli, H.S., et al. (2014). "Cordycepin and its Potential Therapeutic Applications." Advances in Pharmacological Sciences, 2014, 693749.
   - Das, S.K., et al. (2010). "Cordyceps militaris: A Potential Candidate for Health Benefits." Journal of Pharmacy & Bioallied Sciences, 2(4), 286-293.
-  - Holliday, J., Cleaver, M. (2008). "Medicinal Value of the Caterpillar Fungi." International Journal of Medicinal Mushrooms, 10(3), 245-262.
+  - Holliday, J., Cleaver, M. (2008). "Medicinal Value of the Caterpillar Fungi." International Journal of [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], 10(3), 245-262.
   - Mao, X., et al. (2021). "Cordyceps militaris: A Review of Pharmacological Functions." Frontiers in Pharmacology, 12, 653822.
   - Sung, J.M., et al. (2007). "Cordyceps spp.: A Complete Compendium." CRC Press.
 ---
@@ -38,7 +38,7 @@ The species is valued for its production of cordycepin (3′-deoxyadenosine), a 
 - **Genus:** Cordyceps
 - **Species:** C. militaris (L.) Link
 
-The species epithet *militaris* (Latin: "of soldiers") refers to the club-shaped fruiting body resembling a military weapon.
+The species epithet *militaris* (Latin: "of soldiers") refers to the club-shaped fruiting body resembling a [[metzner-lsd-military-weapon-to-mystic-catalyst]].
 
 ### Physical Description
 
@@ -56,7 +56,7 @@ C. militaris is distinguished from Ophiocordyceps sinensis by its brighter orang
 
 ## Distribution and Habitat
 
-Cordyceps militaris has a broad distribution across temperate and subtropical regions of the Northern Hemisphere, found throughout Europe, Asia, and North America.
+Cordyceps militaris has a broad distribution across temperate and subtropical regions of the Northern Hemisphere, found throughout Europe, Asia, and [[psilocybin-north-america-pacific-northwest]].
 
 It is most commonly encountered in forested and meadow habitats from late spring through autumn. In East Asia, it fruits from May to October, preferring humid, shaded environments with temperatures of 18–25°C.
 
@@ -92,7 +92,7 @@ Cordyceps militaris is the only Cordyceps species with established commercial cu
 
 ### Solid Substrate Cultivation
 
-The most common production method uses sterilized grain substrates, typically brown rice or wheat, supplemented with nutrients in polypropylene bags or glass jars.
+The most common [[clay-seed-pellet-production-method-concrete-mixer]] uses sterilized grain substrates, typically brown rice or wheat, supplemented with nutrients in polypropylene bags or glass jars.
 
 - **Substrate:** Brown rice (60%), wheat bran (20%), soybean meal (10%), water (adjusted to 60–65% moisture).
 - **Inoculation:** Liquid spawn or grain spawn of selected high-cordycepin strains.
@@ -110,7 +110,7 @@ Cordyceps militaris is an entomopathogenic fungus that plays a role in regulatin
 
 The infection cycle begins when host pupae or larvae contact infective conidia in soil or leaf litter. The fungus penetrates the host cuticle, proliferates internally, eventually killing and mummifying the insect. The stroma emerges from the cadaver to release ascospores, completing the cycle.
 
-This parasitic relationship contributes to natural pest population control. Several studies have investigated C. militaris as a potential biological control agent against agricultural lepidopteran pests, though practical applications remain limited by production costs.
+This parasitic relationship contributes to natural pest population control. Several studies have investigated C. militaris as a potential [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent against agricultural lepidopteran pests, though practical applications remain limited by [[fukuoka-textdoc-production-costs-not-coming-down]].
 
 The fungus also interacts with soil microbiomes, competing with and being antagonized by various bacteria and fungi in the rhizosphere.
 

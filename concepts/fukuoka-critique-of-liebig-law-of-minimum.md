@@ -19,7 +19,7 @@ type: concept
 
 ## Overview
 
-Justus von Liebig's law of minimum states that crop yield is limited by the nutrient present in shortest supply. This principle, formulated in the mid nineteenth century, became one of the foundational doctrines of modern agricultural science and remains central to fertilizer management today. Masanobu Fukuoka launched a systematic critique of this law, arguing that it exemplifies the fundamental error of scientific farming: the belief that natural systems can be understood and manipulated by analyzing their individual components in isolation.
+Justus von Liebig's law of minimum states that crop yield is limited by the nutrient present in shortest supply. This principle, formulated in the mid [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], became one of the foundational doctrines of modern agricultural science and remains central to fertilizer management today. Masanobu Fukuoka launched a systematic critique of this law, arguing that it exemplifies the fundamental error of [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]: the belief that natural systems can be understood and manipulated by analyzing their individual components in isolation.
 
 ## The Law of Minimum Stated
 
@@ -49,14 +49,14 @@ Because the qualitative and quantitative aspects of each element vary in a conti
 
 Fukuoka extended the critique to the very concept of causal relationships in agriculture. When a farmer attributes a poor harvest to poor weather, or a specialist attributes it to insufficient sunlight during heading, both are making claims about causation that cannot be verified. Behind each proposed cause lies another cause.
 
-Poor maturation might be attributed to insufficient sunshine, excess nitrogen during heading, poor starch transport due to inadequate water, or low temperatures. The causes form an infinitely deep web of organic interconnections: basic causes, remote causes, contributing factors, predisposing factors. A more detailed explanation is no closer to grasping the real truth than a simple one. The conclusion that the poor harvest resulted from a combination of factors is no more meaningful than saying it was written in the stars.
+Poor maturation might be attributed to insufficient sunshine, excess nitrogen during heading, poor starch transport due to inadequate water, or low temperatures. The causes form an infinitely deep web of organic interconnections: basic causes, remote causes, [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]], predisposing factors. A more detailed explanation is no closer to grasping the real truth than a simple one. The conclusion that the poor harvest resulted from a combination of factors is no more meaningful than saying it was written in the stars.
 
 ### Scientific Measures Cancel Each Other Out
 
 Fukuoka demonstrated that individual improvements conceived by agricultural scientists, when combined, cancel each other out:
 
 - A rice variety that bears large heads usually has fewer heads per plant, defeating dense planting for better sunlight exposure.
-- Heavy fertilizer application causes excessive vegetative growth, again reducing light exposure.
+- Heavy [[cervantes-fertilizer-application-strain-feeding]] causes excessive vegetative growth, again reducing light exposure.
 - Efforts to produce large stems and heads weaken the plant and increase disease and insect damage.
 - Thorough pest control measures result in lodging of the rice plants.
 - Water conserving cultivation to improve light exposure may be negated by weed growth.
@@ -66,11 +66,11 @@ This mutual cancellation derives from the equilibrium of nature. Nature inherent
 
 ### Primitive Factors Are Most Important
 
-Fukuoka inverted Liebig's priority ordering. Where Liebig said to focus on the most deficient factor, Fukuoka argued that the factors most critical to yields are not those which man believes he can easily improve, but rather the environmental factors abandoned by man as intractable. Furthermore, precisely those factors that we break down, meticulously categorize, and view as vital and important are the most trivial and insignificant. Those primitive, unresolved factors not yet subjected to the full scrutiny of scientific analysis are the ones of greatest importance.
+Fukuoka inverted Liebig's priority ordering. Where Liebig said to focus on the most deficient factor, Fukuoka argued that the factors most critical to yields are not those which man believes he can easily improve, but rather the [[duggar-mushroom-environmental-factors-temperature-moisture-light]] abandoned by man as intractable. Furthermore, precisely those factors that we break down, meticulously categorize, and view as vital and important are the most trivial and insignificant. Those primitive, unresolved factors not yet subjected to the full scrutiny of scientific analysis are the ones of greatest importance.
 
 ## The Fallacy of Predictive Application
 
-Fukuoka noted that even if scientists could identify what caused a poor harvest in one year, this knowledge would be useless the following year because the weather is never the same, the growing environment will be entirely different, and all factors of production are organically interrelated. When one factor changes, all other factors and conditions are affected. Explanations of yesterday cannot be used to set tomorrow's strategy.
+Fukuoka noted that even if scientists could identify what caused a poor harvest in one year, this knowledge would be useless the following year because the weather is never the same, the [[cannabis-growing-environment-setup]] will be entirely different, and all factors of production are organically interrelated. When one factor changes, all other factors and conditions are affected. Explanations of yesterday cannot be used to set tomorrow's strategy.
 
 This means that the entire enterprise of using last year's soil test to prescribe this year's fertilizer application is built on sand. The soil conditions, weather, plant interactions, and microbial populations that produced last year's nutrient levels no longer exist. The farmer is always responding to a past that has vanished.
 
@@ -89,4 +89,4 @@ Fukuoka's critique of Liebig's law undermines the intellectual foundation of con
 - [[fukuoka-illusions-of-scientific-farming]]
 - [[non-causality-in-nature]]
 - [[natural-farming-philosophy-of-mu]]
-- [[fukuoka-textdoc-high-yield-theory-photosynthesis-critique]]
+- fukuoka-textdoc-high-yield-theory-photosynthesis-critique

@@ -1,5 +1,5 @@
 ---
-title: Fungal Biosurfactants for Pollutant Removal
+title: singh fungal biosurfactants pollutant removal for Pollutant Removal
 created: 2026-04-28
 tags:
   - mycoremediation
@@ -63,7 +63,7 @@ direct contact between fungal cells and hydrophobic substrates.
 Fungal biosurfactants significantly enhance
 [[singh-fungal-consortia-synergistic-biodegradation]],
 biosurfactant producers support hydrocarbon-degrading partners.
-Sophorolipid addition increases PAH degradation 2-10 fold.
+Sophorolipid addition increases [[fungal-pah-degradation-and-soil-bioremediation]] 2-10 fold.
 
 ### Soil Washing and Flushing
 
@@ -81,7 +81,7 @@ copper, zinc, and cadmium from contaminated solutions.
 
 Combining biosurfactant solubilization with
 [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] and
-[[singh-mushroom-cultivation-on-agricultural-wastes]] as carbon sources. Fed-batch
+singh-mushroom-cultivation-on-agricultural-wastes as carbon sources. Fed-batch
 fermentation maximizes yield. Alternatively, in situ production through
 direct inoculation eliminates separate production steps.
 

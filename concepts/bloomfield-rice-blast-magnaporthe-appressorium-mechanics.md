@@ -39,7 +39,7 @@ farmers who rely upon natural soil fertility are less likely to be devastated.
 
 ## The Infection Sequence
 
-Trouble begins when a pear-shaped conidium drifts onto the rice leaf surface. Impact
+Trouble begins when a pear-shaped conidium drifts onto the rice [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]. Impact
 triggers the release of a sticky mucilage globule from one end of the spore that binds
 the fungus to the waxy cuticle. If the leaf is wet with dew, the conidium germinates
 and a germ tube travels a short distance before adhering at its tip and swelling into
@@ -65,12 +65,12 @@ pressure of a 400-pound dancer engaged in a brief pirouette, concentrated on the
 of a stiletto heel. Richard Howard of DuPont, responsible for much groundbreaking
 research on appressorial function, discovered that these structures can puncture
 Kevlar, the material used in bulletproof vests. This extraordinary force is generated
-by a single fungal cell measuring just a few micrometers across.
+by a single [[gadd-fungal-cell-structure]] measuring just a few micrometers across.
 
 ## The Penetration Hypha
 
 From the base of the pressurized appressorium, a slender penetration hypha extends
-downward, pushed by the enormous turgor pressure into the substance of the leaf. The
+downward, pushed by the enormous [[bloomfield-turgor-pressure-and-hyphal-invasion]] into the substance of the leaf. The
 penetration hypha is narrower than the appressorium itself and passes through a
 narrow pore in the cell wall at the base of the dome. Once inside the leaf, the
 fungus establishes itself as a feeding mycelium that spreads between plant cells,
@@ -91,7 +91,7 @@ by glycerol accumulation.
 The Magnaporthe appressorium represents the extreme case of turgor-driven fungal
 invasion, but pressurized growth is a general feature of fungi. Hyphal turgor ranges
 from one to ten atmospheres depending on species and conditions. While pressure is not
-the fundamental driver of hyphal growth rate, it is essential for penetrating the
+the fundamental driver of [[bloomfields-orchard-hyphal-growth-and-invasive-biology]] rate, it is essential for penetrating the
 physical obstacles encountered in natural substrates. The invasive capability of the
 rice blast fungus demonstrates what happens when fungal pressure mechanics are pushed
 to their evolutionary limits.
@@ -103,7 +103,7 @@ penetration. Magnaporthe, like rust fungi, appears to sense the microscopic topo
 of the leaf surface. The germ tube travels over the leaf until it detects surface
 features that indicate a vulnerable point, then ceases migration and begins
 appressorium formation. This tactile sensing may involve stretch-activated ion channels
-in the fungal membrane that open and close as the hypha encounters ridges and
+in the [[ergosterol-fungal-membrane-biology]] that open and close as the hypha encounters ridges and
 topographical features of the leaf surface.
 
 ## Crop Loss and Food Security
@@ -112,11 +112,13 @@ Rice ranks as the second largest crop on Earth after wheat and is a staple food 
 more than half the world's population. The devastation caused by rice blast has made
 it a focus of intensive research in plant pathology and crop science. Control
 strategies include fungicide application, cultivation of resistant varieties, and
-investigation of genetically engineered rice with built-in antifungal defenses. The
+investigation of [[singh-genetically-engineered-fungi-bioremediation]] rice with built-in antifungal defenses. The
 disease illustrates the broader challenge of feeding a growing human population in the
 face of persistent and evolving fungal threats to major crops.
 
-## Related Topics
+## Related
+
+- [[bloomfield-rice-blast-appressorium-mechanics]] Topics
 
 - [[bloomfield-coffee-rust-and-crop-pathogens]]
 - [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]

@@ -1,18 +1,13 @@
 ---
-title: Williams Pdc Inventories And Observation
+title: Williams [[williams-pdc-additional-permaculture-principles]] inventories and observation And Observation
 created: 2026-04-28
-tags: [[permaculture, observation, site-analysis, inventories,
-      indicator-species]
+tags: [permaculture, observation, site-analysis, inventories, indicator-species]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+sources: [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-
-# Inventories and Observation in permaculture design
-
-Before making any design decisions, a [[williams-pdc-appropriate-technology]]
+# Inventories and Observation in permaculture design Before making any design decisions, a [[williams-pdc-appropriate-technology]]
 - [[permaculture-site-assessment-checklist]]
 - [[permaculture-design-process-overview]]
 ## Background and Context
@@ -65,7 +60,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -143,4 +138,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

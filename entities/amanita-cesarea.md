@@ -22,7 +22,7 @@ created: 2026-04-28
 
 **Amanita cesarea** (Scop.) Pers. is a highly prized edible basidiomycete fungus in the
 family Amanitaceae. Commonly known as Caesar's mushroom, it is one of the most celebrated
-wild mushrooms in European gastronomy.
+[[edible-wild-mushrooms-by-region]] in European gastronomy.
 
 The species is easily recognized by its brilliant orange-red cap, white gills, prominent
 volva at the base, and overall resemblance to the genus's toxic members. Its reputation
@@ -64,18 +64,18 @@ Balkans to Turkey and the Caucasus.
 
 Populations also occur in North Africa (Morocco, Algeria) and have been reported from
 Mexico, where a closely related species, *Amanita jacksonii*, occupies a similar
-ecological niche in eastern North American hardwood forests.
+ecological niche in [[polypore-fungi-eastern-north-america]] American hardwood forests.
 
 The species is thermophilic, fruiting from summer through early autumn (June–October) in
 warm, humid conditions. It prefers well-drained, slightly acidic soils.
 
 Its mycorrhizal partners are predominantly **Quercus spp.** (oaks), **Castanea sativa**
-(sweet chestnut), and **Fagus sylvatica** (European beech). It is most abundant in old-
+([[holzer-sweet-chestnut-and-nut-trees]]), and **Fagus sylvatica** (European beech). It is most abundant in old-
 growth oak and chestnut forests with minimal soil disturbance.
 
 ## Edibility and Culinary Use
 
-Caesar's mushroom is regarded as one of the finest edible mushrooms in Europe, with a
+Caesar's mushroom is regarded as one of the finest [[palmer-edible-mushrooms-north-america]] in Europe, with a
 mild, slightly nutty flavor and firm texture. In Italy it is called *ovolo buono*
 ("good egg"), and in France *oronge*.
 
@@ -108,7 +108,7 @@ The species accumulates trace minerals from soil, including selenium and zinc.
 Beta-glucan content contributes to its reported immunostimulant effects, consistent
 with findings across other edible Amanita species in section Caesareae.
 
-No psychoactive compounds (ibotenic acid, muscimol) have been detected, distinguishing
+No psychoactive compounds ([[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]], muscimol) have been detected, distinguishing
 it from the *A. muscaria* group despite the superficial similarity in cap coloration.
 
 ## Related Species
@@ -117,7 +117,7 @@ it from the *A. muscaria* group despite the superficial similarity in cap colora
   Contains lethal amatoxins. The most dangerous lookalike.
 
 - **[[cantharellus-cibarius-entity]]** — Golden chanterelle; co-occurs in similar habitats,
-  another premium wild edible with overlapping fruiting seasons.
+  another premium wild edible with overlapping [[azurescens-fruiting-seasons-and-conditions]].
 
 ## See Also
 

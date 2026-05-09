@@ -3,8 +3,8 @@ title: Shamanism and Hallucinogenic Plants
 created: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "McKenna T - Tryptamine Hallucinogens and Consciousness (1983/1992)"
-  - "Metzner R - Hallucinogenic Drugs in Psychotherapy and Shamanism (1998)"
+  - "McKenna T - mckenna-tryptamine-hallucinogens-and-consciousness and Consciousness (1983/1992)"
+  - "Metzner R - Hallucinogenic [[hallucinogenic-drugs-in-psychotherapy-and-shamanism]] and Shamanism (1998)"
 type: concept
 tags: [shamanism, hallucinogens, healing, divination, indigenous, psychedelics]
 ---
@@ -21,7 +21,7 @@ experience — emphasized that shamanism is fundamentally a set of techniques
 rather than merely ritual, and that indigenous hallucinogenic plant use reflects
 a profound knowledge of pharmacology developed over millennia. The shamanic
 worldview radically diverges from Western materialism in two key respects: the
-recognition of multiple realities ("worlds") accessible in expanded states of
+recognition of [[metzner-spirit-beings-multiple-realities-entheogens]] ("worlds") accessible in expanded states of
 consciousness, and the belief that spirits encountered in dreams and visions are
 as real as physical organisms.
 
@@ -82,16 +82,16 @@ intelligence associated with the medicine that communicates interiorly.
 
 Metzner documented key ceremonial forms across cultures:
 
-**Peyote ceremonies** (Native American Church, Huichol): Participants sit around
+**Peyote ceremonies** ([[halpern-sacramental-peyote-and-native-american-church]] Church, Huichol): Participants sit around
 a central fire in a tipi; ceremonies last all night with a roadman, drummer,
 firekeeper, and cedar-man; rapid rhythmic peyote songs are sung continuously.
 
-**Mushroom veladas** (Mazatec, Mexico): Participants sit or lie in near-total
+**[[metzner-mazatec-mushroom-veladas-darkness-singing-and-christian-syncretism]]** (Mazatec, Mexico): Participants sit or lie in near-total
 darkness with a small candle; the healer sings almost uninterrupted throughout
 the night, weaving Christian saints, spirit allies, and nature spirits into
 chants.
 
-**Ayahuasca ceremonies** (Amazon): Small groups sit in semidarkness while
+**[[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]** (Amazon): Small groups sit in semidarkness while
 healers sing *icaros* — songs with rapid rhythmic pulse that keep the visionary
 experience moving; shamanic "sucking" methods extract toxic psychic residues.
 

@@ -23,7 +23,7 @@ created: 2026-05-07
 
 **Parkia biglobosa**, commonly known as the **African locust bean tree**, is a perennial leguminous tree in the family Fabaceae, subfamily Mimosoideae.
 
-It is one of the most economically and culturally important tree species in the West African savanna zone, valued for its edible seeds, shade, nitrogen fixation, and traditional medicine.
+It is one of the most economically and culturally important tree species in the West African savanna zone, valued for its edible seeds, shade, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], and traditional medicine.
 
 The tree produces large, pendulous flower clusters and characteristic long, dangling seed pods containing a sweet, yellowish pulp that is eaten fresh or fermented.
 
@@ -65,7 +65,7 @@ Its natural range extends from Senegal in the west through Mali, Burkina Faso, G
 
 It is also found in parts of East Africa and has been introduced to other tropical regions.
 
-The species occurs naturally in open savanna woodland, forest margins, and fallow agricultural land.
+The species occurs naturally in open savanna woodland, forest margins, and fallow [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]].
 
 It thrives at elevations up to 1,200 meters in areas with annual rainfall of 500–1,200 mm.
 
@@ -119,9 +119,9 @@ In traditional parkland agroforestry systems, *P. biglobosa* is deliberately ret
 
 The shade provided by its spreading canopy reduces soil temperature and evaporation, benefiting understory crops such as millet, sorghum, and groundnuts.
 
-Leaf fall contributes significant organic matter and nutrients to the soil, supporting soil fertility in low-input farming systems.
+Leaf fall contributes significant [[hamilton-composting-and-organic-matter-management]] and nutrients to the soil, supporting soil fertility in low-input farming systems.
 
-For permaculture applications, *P. biglobosa* serves multiple functions: food production, nitrogen fixation, shade, mulch production, windbreak, and habitat for beneficial organisms.
+For permaculture applications, *P. biglobosa* serves multiple functions: food production, nitrogen fixation, shade, mulch production, windbreak, and [[query-how-do-i-design-habitat-for-beneficial-insects]] organisms.
 
 It is an excellent canopy-layer species for tropical food-forest designs, with the additional benefit of producing a high-value fermented food product.
 
@@ -143,4 +143,4 @@ The species responds well to coppicing and pollarding for managed harvest of fol
 - [[azadirachta-indica]]
 - [[vetiveria-zizanoides]]
 - [[leucaena-leucocephala]]
-- [[gliricidia-sepium]]
+- gliricidia-sepium

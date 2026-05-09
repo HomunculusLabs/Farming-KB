@@ -1,5 +1,5 @@
 ---
-title: "Brown Blotch Disease in Oyster Mushrooms"
+title: "Brown Blotch Disease in query-how-to-grow-oyster-mushrooms-at-home"
 created: 2026-04-28
 tags: [disease, bacteria, fungus, brown-blotch]
 date: 2026-04-28
@@ -22,7 +22,7 @@ disease is very common in mushroom houses, particularly in Korea.
 ### Pathogen
 
 The major causal agent of bacterial brown blotch is Pseudomonas tolaasii.
-Pseudomonas [[agar]]ici has also been reported as a causal agent, but its
+Pseudomonas agarici has also been reported as a causal agent, but its
 importance as a pathogen of brown blotch disease in oyster mushrooms remains
 questionable. These bacteria are widespread in the environment and can be
 introduced through contaminated water, substrate, tools, or insect vectors.
@@ -52,7 +52,7 @@ conducive to bacterial brown blotch development. Yellowing of fruiting bodies
 can easily result from environmental stress factors even without bacterial
 infection, making accurate diagnosis important. The disease is favored by:
 
-- Fluctuating temperature and humidity in growing houses
+- Fluctuating [[greg-green-temperature-and-humidity-control]] in growing houses
 - Free water on fruiting body surfaces
 - Excessive watering of cultivation beds
 - Poor air circulation combined with high moisture
@@ -63,7 +63,7 @@ Sanitation is the fundamental control measure for bacterial brown blotch:
 
 - Follow strict Oyster Contamination Control protocols at all times
 - Pasteurize substrates thoroughly and use only healthy spawn
-- Control mushroom flies, which are well-known vectors of the pathogen
+- [[environmental-control-mushroom-growing]] flies, which are well-known vectors of the pathogen
 - Maintain constant humidity and temperature in growing houses
 - Avoid free water on mushroom surfaces by ventilating after watering
 - Do not water excessively; brown blotch is favored by high moisture
@@ -80,7 +80,7 @@ fresh solutions must be prepared regularly.
 ### Pathogen
 
 Verticillium fungicola is the suspected causal agent, though the exact cause
-remains to be conclusively proved. This fungal pathogen produces symptoms
+remains to be conclusively proved. This [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] produces symptoms
 that can be confused with bacterial brown blotch but requires different
 treatment approaches.
 
@@ -104,12 +104,12 @@ disinfectants. Effective control requires fungicides:
 - Thiabendazole
 
 The fact that fungicides are effective rather than bactericides confirms the
-fungal nature of this disease form. Integrated disease management combining
+fungal nature of this disease form. Integrated [[plant-disease-management-solomon]] combining
 sanitation with appropriate chemical treatment is recommended.
 
 ## Diagnostic Differentiation
 
-Distinguishing between bacterial and fungal brown blotch is important for
+Distinguishing between [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] brown blotch is important for
 selecting the correct treatment. Key differentiating features include:
 
 - Bacterial form: well-defined brown spots, sunken lesions, sticky
@@ -123,8 +123,12 @@ in ambiguous cases.
 
 ## See Also
 
+- [[oyster-viral-disease]]
+
 - [[oyster-mushroom-brown-blotch-disease]]
 
 - Oyster Disease Management
 - [[oyster-insect-pests]]
 - Oyster Fruiting Conditions
+- [[oyster-mushroom]]
+- [[fruiting-conditions]]

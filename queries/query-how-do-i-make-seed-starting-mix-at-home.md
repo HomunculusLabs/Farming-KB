@@ -1,5 +1,5 @@
 ---
-title: How Do I Make Seed Starting Mix at Home?
+title: How Do I Make comparison-cannabis-cloning-vs-seed-starting-indoors Mix at Home?
 created: 2026-04-28
 tags: [farming, soil, seed-starting, organic-gardening, diy]
 date: 2026-04-28
@@ -24,7 +24,7 @@ Most homemade seed starting mixes follow a simple ratio based on three categorie
 
 This provides bulk and structure.
 
-- **Coco coir or peat moss** — the backbone of nearly every seed mix. Coco coir is renewable and has a near-neutral pH (6.0–6.8), while peat moss is more acidic (3.5–4.5) and requires a lime amendment. Both hold 8–10 times their weight in water while maintaining air porosity.
+- **[[comparison-coco-coir-cannabis-vs-peat-free-gardening]] or peat moss** — the backbone of nearly every seed mix. Coco coir is renewable and has a near-neutral pH (6.0–6.8), while peat moss is more acidic (3.5–4.5) and requires a lime amendment. Both hold 8–10 times their weight in water while maintaining air porosity.
 
 - **Screened compost** — use only fully finished, hot-composted material that has been screened through ¼-inch hardware cloth. Avoid this component if you want a sterile mix for especially disease-prone species.
 
@@ -34,7 +34,7 @@ This prevents compaction and ensures oxygen reaches developing roots.
 
 - **Perlite** — the most common choice. Volcanic glass that has been expanded by heat. Provides excellent drainage and aeration. Use fine-grade perlite for seed starting.
 
-- **Pumice** — a mined volcanic rock that performs similarly to perlite but is heavier (less likely to float when watered) and doesn't break down over time.
+- **Pumice** — a mined volcanic rock that performs similarly to perlite but is heavier (less likely to float when watered) and doesn't [[query-can-fungi-break-down-plastic-pollution]] over time.
 
 - **Rice hulls** — a renewable alternative that adds structure and silica, which strengthens seedling cell walls.
 
@@ -57,7 +57,7 @@ This provides trace minerals and helps buffer moisture.
 | Vermiculite | 1 part |
 | Worm castings (screened) | 1 part |
 
-This mix works for most vegetables, herbs, and annual flowers. The high coco coir content ensures consistent moisture while perlite and vermiculite balance drainage and water retention.
+This mix works for most vegetables, herbs, and [[hamilton-annual-flowers-organic]]. The high coco coir content ensures consistent moisture while perlite and vermiculite balance drainage and water retention.
 
 ### Sterile Mix for Disease-Sensitive Species
 
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

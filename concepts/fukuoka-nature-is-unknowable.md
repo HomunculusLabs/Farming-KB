@@ -5,7 +5,8 @@ updated: 2026-04-18
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## The Word Nature Cannot Express Reality
@@ -68,7 +69,7 @@ Thinking that he must climb a mountain to know it, the mountain climber climbs t
 
 - All this does is to blow up the conceptual notions of nature as interpreted by the natural sciences
 
-- The accumulation of discriminating knowledge only deepens confusion and draws man away from nature
+- The accumulation of [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] only deepens confusion and draws man away from nature
 
 ## The Sky Above the Sky
 
@@ -88,7 +89,7 @@ To see a mountain one must go beyond the mountain; to see the sky one must go be
 
 ## Nature Is Always Absolutely Perfect
 
-Fukuoka insisted that nature is fundamentally perfect. Here are to be found the most exalted truths, the highest good, and the greatest richness. Both spiritually and materially, nature is replete with the greatest possible wealth.
+Fukuoka insisted that nature is [[fukuoka-nature-fundamentally-perfect-self-enriching]]. Here are to be found the most exalted truths, the highest good, and the greatest richness. Both spiritually and materially, nature is replete with the greatest possible wealth.
 
 - Nature is a place where flowers bloom and birds sing, a place of verse and song
 
@@ -110,5 +111,4 @@ Fukuoka insisted that nature is fundamentally perfect. Here are to be found the 
 
 - [[fukuoka-learning-about-nature-distances-one-from-nature]]
 
-- [[fukuoka-god-nature-and-man-as-one]]
 - [[fukuoka-nature-perfect-imperfect-philosophical-perspective]]

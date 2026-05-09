@@ -5,11 +5,12 @@ updated: 2026-04-13
 type: concept
 tags: [cannabis, cultivation]
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 # Cannabis Topical Applications
 
-Topical cannabis products — salves, balms, creams, oils, and patches — deliver cannabinoids and terpenes directly to the skin for localized relief of pain, inflammation, and skin conditions. Unlike inhaled or ingested cannabis, topicals do NOT produce psychoactive effects because cannabinoids do not enter the bloodstream through the skin in significant quantities.
+Topical cannabis products — salves, balms, creams, oils, and patches — deliver cannabinoids and terpenes directly to the skin for localized relief of pain, inflammation, and [[cannabis-for-skin-conditions-detailed]]. Unlike inhaled or ingested cannabis, topicals do NOT produce psychoactive effects because cannabinoids do not enter the bloodstream through the skin in significant quantities.
 
 ## How Cannabis Topicals Work
 
@@ -35,7 +36,7 @@ Topical cannabis products — salves, balms, creams, oils, and patches — deliv
 - Shelf life: 3-6 months
 
 ### Creams and Lotions
-- Water-based emulsions with cannabis oil
+- Water-based emulsions with [[cervantes-hash-cannabis-oil-production]]
 - Lighter texture, absorbs more quickly
 - Best for: general skin care, mild inflammation, daily use
 - Commercial products widely available in legal markets
@@ -51,7 +52,7 @@ Topical cannabis products — salves, balms, creams, oils, and patches — deliv
 - Provide systemic effects (unlike other topicals)
 - Controlled, sustained release over 8-12 hours
 - Available with THC (psychoactive) or CBD only
-- Best for: chronic pain, fibromyalgia, neuropathy
+- Best for: [[cannabis-chronic-pain-management]], fibromyalgia, neuropathy
 
 ### Cannabis Bath Products
 - Bath salts, bombs, soaks infused with cannabis oil or Epsom salt + cannabis
@@ -85,9 +86,9 @@ Topical cannabis products — salves, balms, creams, oils, and patches — deliv
 ### Recipe
 **Ingredients:**
 - 1 cup carrier oil (coconut oil, olive oil, or combination)
-- 1/4 cup decarboxylated cannabis flower (CBD-rich for non-psychoactive, THC-rich for stronger effect)
+- 1/4 cup decarboxylated [[cervantes-cannabis-flower-anatomy]] (CBD-rich for non-psychoactive, THC-rich for stronger effect)
 - 1/4 cup beeswax (adjust for harder/softer consistency)
-- 10-20 drops essential oils (optional: lavender, peppermint, arnica)
+- 10-20 drops [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] (optional: lavender, peppermint, arnica)
 
 **Method:**
 1. Combine carrier oil and decarboxylated cannabis in a double boiler
@@ -111,7 +112,7 @@ Adding specific terpenes enhances topical effectiveness:
 
 | Terpene | Effect | Source |
 |---|---|---|
-| Beta-caryophyllene | Anti-inflammatory (CB2 agonist), analgesic | Black pepper, cloves, cannabis |
+| Beta-caryophyllene | Anti-inflammatory (CB2 agonist), analgesic | [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], cloves, cannabis |
 | Myrcene | Analgesic, muscle relaxant | Hops, lemongrass, mango, cannabis |
 | Linalool | Anti-anxiety, anti-inflammatory | Lavender, cannabis |
 | Pinene | Anti-inflammatory, bronchodilator | Pine needles, rosemary, cannabis |

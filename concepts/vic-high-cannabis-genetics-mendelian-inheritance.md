@@ -1,5 +1,5 @@
 ---
-title: Cannabis Genetics and Mendelian Inheritance
+title: vic high cannabis genetics mendelian inheritance and Mendelian Inheritance
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [cannabis]
 
 # Cannabis Genetics and Mendelian Inheritance
 
-Vic High's foundational text on cannabis breeding uses Mendelian genetics as the conceptual framework for understanding how traits are inherited, how gene frequencies shift across generations, and how breeders can manipulate these processes to create true breeding strains. The text simplifies complex genetics by using single-gene (monogenic) models to illustrate principles that scale to more complex multi-gene (polygenic) realities.
+Vic High's foundational text on [[oner-cannabis-breeding-fundamentals]] uses Mendelian genetics as the conceptual framework for understanding how traits are inherited, how gene frequencies shift across generations, and how breeders can manipulate these processes to create [[cannabis-true-breeding-ibl-strains]] strains. The text simplifies complex genetics by using single-gene (monogenic) models to illustrate principles that scale to more complex multi-gene (polygenic) realities.
 
 As Vic High notes, breeding is not a black-and-white subject, and it would be too complex to put on paper in an easily understood form. Therefore, small fictional examples are used to reinforce various concepts before applying them to real breeding projects. The assumption that flavour is monogenic, for instance, is used purely for pedagogical simplicity.
 
@@ -57,7 +57,7 @@ The text uses Punnett squares extensively to predict offspring ratios. The class
 
 ## Mathematical Shortcut for Punnett Squares
 
-Vic High develops a mathematical shortcut for calculating Punnett square outcomes without drawing them. By expressing each parent's gene pool as a frequency (e.g., 3P2p x 3P5p), the offspring ratios can be computed algebraically by multiplying each combination:
+Vic High develops a mathematical shortcut for calculating Punnett square outcomes without drawing them. By expressing each parent's [[cannabis-gene-pool-preservation-acclimatization-clarke]] as a frequency (e.g., 3P2p x 3P5p), the offspring ratios can be computed algebraically by multiplying each combination:
 
 - 3P2p x 3P5p = (3x3)PP + (3x5)Pp + (2x3)Pp + (2x5)pp
 - = 9PP + 15Pp + 6Pp + 10pp
@@ -107,7 +107,7 @@ While the models use single-gene assumptions for clarity, Vic High repeatedly em
 
 - For a trait influenced by two recessive genes, each fixed individually at 87.5%: 87.5% x 87.5% = 76.6%.
 - Adding a third gene (two recessive, one heterozygous dominant): 87.5% x 87.5% x 71.9% = 55%.
-- Going from one to three genes drops the success rate from 87.5% to just 55%.
+- Going from one to three genes drops the [[maitake-fruiting-body-success-rate-management]] from 87.5% to just 55%.
 
 This compounding effect means that as genetic complexity increases, the probability of achieving desired outcomes decreases dramatically without deliberate selection pressure.
 

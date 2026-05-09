@@ -38,7 +38,7 @@ cases, surgical removal (hemorrhoidectomy).
 
 In 1845, European medical literature described hemp leaf oil as being effective
 at reducing inflammation and managing neuralgic pains in cases of hemorrhoids.
-A paste of cannabis leaves was reportedly used for treatment in India. While no
+A paste of [[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]] was reportedly used for treatment in India. While no
 modern controlled studies exist to verify efficacy, the historical record
 establishes a long-standing therapeutic tradition.
 
@@ -53,7 +53,7 @@ anti-inflammatory, antiseptic, and analgesic properties.
 The [[cannabis-topical-applications]]
 
 - [[blesching-cannabis-irritable-bowel-syndrome]]
-- [[blesching-endocannabinoid-system-overview]]
+- [[endocannabinoid-system-overview]]
 ## Practical Considerations
 
 When working with Cannabis and Hemorrhoids, several practical factors should be
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

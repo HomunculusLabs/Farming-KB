@@ -34,7 +34,7 @@ nourishing the blood, and promoting the production of body fluids.
 
 Modern pharmacological research has validated adaptogenic, immunomodulatory,
 gastroprotective, and neuroprotective activities. Global demand has made
-codonopsis root one of the most commercially important medicinal herbs in China.
+codonopsis root one of the most commercially important [[permaculture-plants-medicinal-herbs-healing]] in China.
 
 ## Taxonomy and Morphology
 
@@ -102,7 +102,7 @@ Codonopsis root is a core *qi*-tonifying herb in TCM, used to strengthen
 spleen function (improving appetite, digestion, and nutrient absorption) and
 lung *qi* (relieving chronic cough, shortness of breath, and fatigue).
 
-Common clinical applications include chronic fatigue, poor appetite, diarrhea,
+Common clinical applications include [[cannabis-chronic-fatigue-research]], poor appetite, diarrhea,
 pale complexion, and post-illness convalescence. It is frequently combined with
 *Astragalus membranaceus* in the classical formula *Bu Zhong Yi Qi Tang*.
 

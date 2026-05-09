@@ -1,5 +1,5 @@
 ---
-title: Greening Deserts and Plant Irrigation
+title: fukuoka textdoc greening deserts plant irrigation and Plant Irrigation
 created: 2026-04-28
 tags:
   - natural-farming
@@ -20,7 +20,7 @@ type: concept
 The appendix of Masanobu Fukuoka's *The Natural Way of Farming* presents
 his vision for restoring deserts to their former verdant state through
 natural methods. This proposal encapsulates the core principles of his
-green philosophy and offers a practical alternative to the large-scale
+[[fukuoka-sowing-green-philosophy-one-grain-revolution]] and offers a practical alternative to the large-scale
 engineering approaches typically proposed for combating desertification.
 
 ## Nature's Recuperative Power
@@ -30,7 +30,7 @@ and rapid than most people suspect. At the core of the green philosophy
 is the principle that nature always returns to its former state. What
 Fukuoka had in mind was not green oases created by artificial irrigation
 but the return of entire deserts to their former state as earthly
-paradises through natural farming.
+paradises through [[comparison-natural-farming-vs-permaculture]].
 
 ## Not Artificial Irrigation
 
@@ -51,7 +51,7 @@ be established as a plant-irrigated green belt, with fields on either
 side.
 
 The method is self-reinforcing: each tree generation extends the
-root network, pulls more water into the soil, increases organic matter,
+root network, pulls more water into the soil, increases [[hamilton-composting-and-organic-matter-management]],
 and creates conditions favorable for additional plant species. The
 process accelerates over time as the ecosystem matures and becomes
 increasingly self-sustaining.
@@ -67,7 +67,7 @@ conditions from which a self-sustaining ecosystem can emerge.
 
 The most notable seeding method consists of enclosing seeds in clay
 pellets. Fukuoka recommended a mixture of seeds from plants suited to
-arid conditions: green manure trees such as acacias that grow in areas
+arid conditions: [[comparison-green-manure-guide-vs-mulch-types-and-effects]] trees such as acacias that grow in areas
 of scant rainfall, clover, alfalfa, bur clover and other green manure
 plants, and grain and vegetable seeds. This seed mixture is given a
 double coating of earth and clay, then scattered by hand over the
@@ -94,7 +94,7 @@ reduces evapotranspiration and alters moisture patterns, reducing rainfall
 further, which in turn inhibits additional plant growth.
 
 Re-establishing vegetation can reverse this cycle. Trees and ground cover
-increase evapotranspiration, create microclimates that retain moisture,
+increase evapotranspiration, [[query-how-do-i-create-microclimates-in-my-garden]] that retain moisture,
 and improve soil structure to absorb and hold rainfall. Each tree planted
 is an investment in the restoration of the water cycle itself.
 

@@ -1,5 +1,5 @@
 ---
-title: Psilocybe Section Classification
+title: guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions Classification
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Psilocybe Section Classification
 
-The genus [[neurotropic-fungi-world-checklist]]
+The genus neurotropic-fungi-world-checklist
 with 116 species recognized by Guzman, Allen & Gartz (1998), is divided into several taxonomic
 sections based on morphological and chemical characteristics. These sections are important for
 understanding both taxonomy and biogeographic patterns.
@@ -23,9 +23,9 @@ and related indole compounds (psilocin, baeocystin, norbaeocystin):
 - Named for the Aztec civilization of Mexico
 - Alpine and subalpine habitat specialists
 - Key species: P. aztecorum var. aztecorum, P. aztecorum var. bonetii, P. baeocystis, P. quebecensis
-- Distribution: Mexican high mountains (up to 4,000 m), Pacific Northwest of North America (Oregon,
+- Distribution: Mexican high mountains (up to 4,000 m), Pacific Northwest of [[psilocybin-north-america-pacific-northwest]] (Oregon,
   Washington, British Columbia), Quebec, Canada
-- Shows a remarkable disjunct distribution between Mexican alpine species and North American
+- Shows a remarkable disjunct distribution between Mexican alpine species and [[growing-gourmet-north-american-reishi-species]]
   temperate species
 
 ### Section Mexicanae
@@ -39,7 +39,7 @@ and related indole compounds (psilocin, baeocystin, norbaeocystin):
 ### Section Zapotecorum
 - Named for the Zapotec people of Oaxaca, Mexico
 - One of the most widespread sections
-- Key species: P. zapotecorum (Mexico, Central America, South America), P. aucklandii (New Zealand),
+- Key species: P. zapotecorum (Mexico, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], South America), P. aucklandii (New Zealand),
   P. pintonii (Mexico/Colombia), P. angustipleurocystidiata (Mexico/Colombia)
 - Distribution: Mexico through South America to New Zealand
 - Another section showing trans-Pacific biogeographic connections
@@ -52,7 +52,7 @@ and related indole compounds (psilocin, baeocystin, norbaeocystin):
 
 ### Section Semilanceatae
 - Temperate grassland species
-- Key species: P. semilanceata (liberty cap)
+- Key species: P. semilanceata ([[peter-mantle-liberty-cap-chromatographic-discovery-1969]])
 - Distribution: Europe, North America, South America (Chile, Peru), New Zealand, Australia, Tasmania,
   India, Russia
 - One of the most widespread species, but notably absent from Mexico
@@ -77,7 +77,7 @@ and related indole compounds (psilocin, baeocystin, norbaeocystin):
 ## Bluing Reaction
 
 The neurotropic sections are generally characterized by the "bluing reaction" - a distinctive
-blue or blue-black bruising that occurs when the fruiting body is damaged. This color change is
+blue or blue-black bruising that occurs when the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] is damaged. This color change is
 caused by the oxidation of psilocybin and psilocin. The bluing feature is used as a field indicator
 to identify potentially neurotropic species, though some non-neurotropic species may also show
 bluing, and some confirmed neurotropic species may not blue strongly.
@@ -92,7 +92,10 @@ hallucinogenic:
 
 ## Related Topics
 
-- [[neurotropic-fungi-biogeographic-patterns]] - How sections correlate with geography
-- [[neurotropic-fungi-in-oceania]] - Trans-Pacific section distributions
+- neurotropic-fungi-biogeographic-patterns - How sections correlate with geography
+- neurotropic-fungi-in-oceania - Trans-Pacific section distributions
 - [[psilocybin-north-america-pacific-northwest]]
 - [[neurotropic-fungi-in-central-america]]
+- [[brassinosteroid]]
+- [[norbaeocystin]]
+- [[psilocybe-genus-classification]]

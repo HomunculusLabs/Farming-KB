@@ -29,7 +29,7 @@ making European larch a popular ornamental tree. Larch wood is among the
 hardest and most durable softwoods, with excellent natural decay resistance.
 
 The species has been widely planted beyond its native range throughout the
-British Isles, northern Europe, and northeastern North America. It
+British Isles, northern Europe, and northeastern [[psilocybin-north-america-pacific-northwest]]. It
 naturalizes readily in suitable habitats.
 
 ## Taxonomy and Morphology
@@ -80,7 +80,7 @@ recognizable mycorrhizal fungus of larch forests. Other partners include
 *Laccaria laccata* and *Boletus edulis*.
 
 The deciduous habit creates a unique litter dynamic with a large annual
-pulse of organic matter each autumn, supporting a distinct decomposer
+pulse of [[hamilton-composting-and-organic-matter-management]] each autumn, supporting a distinct decomposer
 community adapted to this seasonal input pattern.
 
 Larch forests provide habitat for nutcracker, crossbill, and various
@@ -108,7 +108,7 @@ living trees and was an important commercial product.
 ## Cultivation and Silviculture
 
 European larch is widely planted for timber, introduced to the British
-Isles in the 17th century. Seed germination occurs readily without
+Isles in the 17th century. [[cannabis-seed-germination-methods]] occurs readily without
 stratification, with seedlings emerging within 2–3 weeks of spring sowing.
 
 Growth rates are moderate to fast at 8–15 m³/ha/year on quality sites.
@@ -116,7 +116,7 @@ Rotation ages of 40–80 years are shorter than most other conifers due to
 rapid early growth.
 
 The species is susceptible to larch canker (*Lachnellula willkommii*), a
-fungal disease causing stem and branch lesions. Hybrid larch (*Larix ×
+[[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] causing stem and branch lesions. Hybrid larch (*Larix ×
 marschlinsii*), a cross with Japanese larch (*L. kaempferi*), combines
 Japanese growth rates with European timber quality and canker resistance.
 

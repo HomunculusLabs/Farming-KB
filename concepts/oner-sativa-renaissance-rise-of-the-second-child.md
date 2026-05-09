@@ -1,9 +1,9 @@
 ---
-title: The Sativa Renaissance — Rise of the Second Child
+title: The oner sativa renaissance rise of the second child — Rise of the Second Child
 created: 2026-05-08
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
-    title: [[cannabis-sativa]] Vol. 3 - The Essential Guide
+    title: cannabis-sativa Vol. 3 - The Essential Guide
     author: S.T. Oner, The Rev
 updated: 2026-05-08
 type: concept
@@ -14,16 +14,16 @@ tags: [reference]
 
 ## Sativa as the Overlooked Sibling
 
-For the last couple of decades of cannabis cultivation, sativa
+For the last couple of decades of [[query-how-does-no-till-cannabis-cultivation-work]], sativa
 strains have been the second child of the cannabis family. The
-advent of widespread indoor growing, which favored the short
+advent of widespread [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]], which favored the short
 stature, hardiness, and heavy yields of indica plants, pushed sativa
 into the background. While indica dominated the market with compact,
 fast-flowering plants suited to small grow spaces, sativa was left
 waving its arms trying to get attention.
 
 The reasons for this neglect were practical. Many growers simply
-lack the grow room necessary to cultivate plants that can reach up
+lack the [[cannabis-grow-room-setup]] necessary to cultivate plants that can reach up
 to 14 feet in height. Sativas love the outdoors, tend to flower late,
 and require the patience of the most dedicated cultivators to reach
 their full potential. When faced with the choice between tall,
@@ -32,7 +32,7 @@ most growers chose the latter.
 
 ## The Indoor Growing Challenge
 
-The rise of indoor cultivation created a fundamental mismatch with
+The rise of [[cannabis-sativa-indoor-cultivation-techniques]] created a fundamental mismatch with
 sativa genetics. Indoor grow rooms, closets, and small tents are
 designed for plants that stay short and finish quickly -- precisely
 the opposite of sativa characteristics. Sativa plants are unruly
@@ -81,3 +81,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[oner-sativa-medical-applications]]

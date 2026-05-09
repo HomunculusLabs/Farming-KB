@@ -1,9 +1,9 @@
 ---
-title: Psychedelic Paradigm Shifting and Reality Reconception
+title: Psychedelic powell-paradigm-shifting-and-the-psychedelic-revolution and Reality Reconception
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Powell - The Psilocybin Solution"
+  - "Powell - The powell-psilocybin-solution-ecological-cognition-theory"
 type: concept
 tags: [psychedelics]
 ---
@@ -12,9 +12,9 @@ tags: [psychedelics]
 
 Simon G. Powell's "The Psilocybin Solution" presents the [[psilocybin-waking-dreams-and-serotonergic-neurochemistry]] on the brain's serotonergic systems demonstrate that consciousness can be fundamentally altered through subtle chemical changes.
 
-The implication is profound: if our normal state of consciousness is merely one among many possible states, and if these other states yield different perceptions of reality, then our ordinary conception of what is real may be incomplete or misleading. This challenges the foundation upon which all scientific and philosophical inquiry is built, since [[turner-psilocybin-mushroom-experience-guide]] generates a subjective paradigm shift in which the entire field of reality is reconceived and re-perceived.
+The implication is profound: if our normal state of consciousness is merely one among many possible states, and if these other states yield different perceptions of reality, then our ordinary conception of what is real may be incomplete or misleading. This challenges the foundation upon which all scientific and philosophical inquiry is built, since turner-psilocybin-mushroom-experience-guide generates a subjective paradigm shift in which the entire field of reality is reconceived and re-perceived.
 
-If we imagine normal consciousness to be like a needle trundling along the groove of Nature's apparent "surface," entheogens like psilocybin can jog the needle into a rarer and more expansive groove. The true nature of reality then becomes an "unfinished business" which must be dealt with. This reconception connects the psychedelic experience to the holistic nature of religious and mystical thought, both of which attempt to provide overall schemes for understanding reality.
+If we imagine normal consciousness to be like a needle trundling along the groove of Nature's apparent "surface," entheogens like psilocybin can jog the needle into a rarer and more expansive groove. The true nature of reality then becomes an "unfinished business" which must be dealt with. This reconception connects the [[leary-psychedelic-experience-bardo-mapping]] to the holistic nature of religious and mystical thought, both of which attempt to provide overall schemes for understanding reality.
 
 The subjective paradigm shift differs from ordinary learning or intellectual persuasion in its totality and immediacy. Where a scientific paradigm shift may take decades to propagate through a community, the entheogenic paradigm shift occurs within the space of a single experience. The individual does not gradually come to see the world differently; rather, the world reveals itself in a fundamentally different aspect, much as a gestalt shift allows a single image to be perceived as two entirely different figures. This sudden, holistic quality is what gives the entheogenic experience its transformative power and its resistance to integration into pre-existing belief systems.
 
@@ -22,7 +22,7 @@ The subjective paradigm shift differs from ordinary learning or intellectual per
 
 One of Powell's most distinctive contributions is his description of how paradigm shifting from the psilocybin experience is not a single instantaneous event but an ongoing process. The paradigms that crumble in the wake of the experience continue to be rebuilt over extended periods, "almost as if some process of long-term digestive refinement was taking place."
 
-This long-term integration process means that new conceptual tools or "new improved lenses" acquired through the experience gradually challenge old paradigms. If old paradigms cannot accommodate the entheogenic experience, they must either be adapted or confined to the past. It is in this way that [[turner-psilocybin-mushroom-experience-guide]] is no more than a trap-like aberration.
+This long-term integration process means that new conceptual tools or "new improved lenses" acquired through the experience gradually challenge old paradigms. If old paradigms cannot accommodate the entheogenic experience, they must either be adapted or confined to the past. It is in this way that turner-psilocybin-mushroom-experience-guide is no more than a trap-like aberration.
 
 The predominately reductive and materialistic paradigm afforded by the scientific community shapes prevailing views about reality. In the traditional scientific outlook, there is no real room for any kind of transcendental aspect to Nature. Powell argues that ethnomycology flies in the face of this denial, offering what he believes to be the most compelling reason to grant Nature an intent of some kind.
 
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

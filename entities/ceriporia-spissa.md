@@ -44,23 +44,23 @@ Fruiting occurs from late summer through autumn, though perennial crusts may be 
 
 ## Lignin-Degrading Enzymes
 
-As a white-rot fungus, C. spissa produces an array of lignin-modifying enzymes including laccase, manganese peroxidase, and lignin peroxidase. These oxidative enzymes catalyze the depolymerization of lignin, a complex aromatic polymer that constitutes 20–30% of woody biomass.
+As a white-rot fungus, C. spissa produces an array of lignin-modifying enzymes including laccase, [[fungal-manganese-peroxidase-remediation]], and [[fungal-lignin-peroxidase-veratryl-alcohol]]. These oxidative enzymes catalyze the depolymerization of lignin, a complex aromatic polymer that constitutes 20–30% of woody biomass.
 
-Laccase is the most abundantly produced enzyme in C. spissa cultures, with reported activities exceeding 10,000 U/L in optimized submerged fermentation. The enzyme shows broad substrate specificity, oxidizing phenolic and non-phenolic compounds relevant to bioremediation applications.
+Laccase is the most abundantly produced enzyme in C. spissa cultures, with reported activities exceeding 10,000 U/L in optimized [[cancer-medicinal-mushrooms-submerged-fermentation-production]]. The enzyme shows broad substrate specificity, oxidizing phenolic and non-phenolic compounds relevant to bioremediation applications.
 
 Comparative genomic studies place Ceriporia within a clade of white-rot fungi that evolved ligninolytic capabilities during the Carboniferous period, approximately 300 million years ago. The expansion of class II peroxidase gene families in this lineage enabled the efficient decomposition of lignin that characterizes modern white-rot decay.
 
 ## Ecological Significance
 
-C. spissa plays an important role in forest nutrient cycling by breaking down recalcitrant lignocellulosic material and releasing bound carbon, nitrogen, and mineral nutrients back into the soil. Its activity is particularly significant in the late stages of wood decomposition, where it succeeds primary colonizers.
+C. spissa plays an important role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by breaking down recalcitrant lignocellulosic material and releasing bound carbon, nitrogen, and mineral nutrients back into the soil. Its activity is particularly significant in the late stages of wood decomposition, where it succeeds primary colonizers.
 
 The species contributes to the formation of humus-rich forest soils through the gradual conversion of woody debris into stable organic matter. Its soft, waxy fruiting bodies are consumed by invertebrates, including collembolans and beetle larvae, integrating fungal carbon into detrital food webs.
 
-C. spissa frequently co-occurs with other wood-inhabiting fungi including Trametes versicolor, Bjerkandera adusta, and Xylaria polymorpha. Competition studies suggest it is a relatively poor combative species, occupying niches left by more aggressive primary decay fungi.
+C. spissa frequently co-occurs with other wood-inhabiting fungi including [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]], Bjerkandera adusta, and Xylaria polymorpha. Competition studies suggest it is a relatively poor combative species, occupying niches left by more aggressive primary decay fungi.
 
 ## Bioremediation Potential
 
-The laccase system of C. spissa has attracted interest for bioremediation of environmental pollutants. The enzyme efficiently degrades polycyclic aromatic hydrocarbons (PAHs), phenolic industrial effluents, and synthetic dyes in laboratory studies.
+The laccase system of C. spissa has attracted interest for bioremediation of environmental pollutants. The enzyme efficiently degrades [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs), phenolic industrial effluents, and synthetic dyes in laboratory studies.
 
 Strain improvement through mutagenesis and optimization of culture conditions has enhanced laccase yields by 3–5 fold compared to wild-type isolates. The thermostability and broad pH tolerance of C. spissa laccase make it a candidate for industrial biocatalysis applications.
 
@@ -106,5 +106,5 @@ These findings suggest that beyond its ecological role in wood decomposition, C.
 - [[laetiporus-sulphureus]]
 - [[pleurotus-eryngii]]
 - [[inonotus-obliquus]]
-- [[beta-glucan-receptor-binding]]
+- kappa opioid receptor
 - [[ergosterol]]

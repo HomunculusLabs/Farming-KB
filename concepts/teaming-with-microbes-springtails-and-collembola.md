@@ -13,8 +13,8 @@ microarthropods in soil ecosystems. Belonging to the class Insecta,
 springtails range from 0.2 to 2 millimeters in length and can reach
 population densities of up to 100 individuals per square inch in
 organic-rich soils. Along with mites, springtails are responsible for
-recycling up to 30% of the leaves and woody debris deposited on
-temperate zone forest floors.
+recycling up to 30% of the leaves and [[fungal-succession-woody-debris-ecology]] deposited on
+[[guzman-magic-mushrooms-temperate-zone-species]] forest floors.
 
 ## Morphology and Locomotion
 
@@ -25,7 +25,7 @@ and propel the animal up to a meter backward -- hence the common name
 "springtail." This escape mechanism allows springtails to rapidly
 evade predators such as [[teaming-with-microbes-decomposition-pathways]].
 
-The decomposition process. The breakdown of leaf litter by springtails and mites is
+The decomposition process. The breakdown of [[dighton-fungal-decomposition-leaf-litter-dynamics]] by springtails and mites is
 a critical first step in converting complex plant materials into
 forms that microorganisms can further process.
 
@@ -47,7 +47,7 @@ transported considerable distances through the food web.
 ### Food Web Indicators
 
 Springtail populations are useful bioindicators of soil health. Their
-presence in good numbers indicates adequate organic matter, proper
+presence in good numbers indicates adequate [[hamilton-composting-and-organic-matter-management]], proper
 moisture, and a functioning [[soil-compaction-solutions-ingham]] and chemical
 applications. Tillage and pesticide use can devastate springtail
 populations, reducing their contributions to decomposition and
@@ -57,7 +57,8 @@ nutrient cycling.
 
 - [[teaming-with-microbes-mites-and-soil-arthropod-predators]]
 - [[teaming-with-microbes-mineralization-and-immobilization]]
-- [[fungal-collembola-interactions]]
+- fungal-collembola-interactions
+
 ## Practical Considerations
 
 Successful implementation of Springtails and Collembola in Soil Food Webs requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

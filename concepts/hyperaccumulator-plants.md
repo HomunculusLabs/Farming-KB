@@ -11,7 +11,7 @@ type: concept
 # Hyperaccumulator Plants
 
 Hyperaccumulator plants are species capable of growing in soil with very high
-concentrations of heavy metals and absorbing those metals into their above-
+concentrations of [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] and absorbing those metals into their above-
 ground tissues at concentrations that would be toxic to most other organisms.
 The generally accepted threshold for classification is 100 mg/kg (0.01% dry
 weight) for cadmium, selenium, and thallium; 1,000 mg/kg for cobalt,
@@ -21,7 +21,7 @@ copper, chromium, nickel, and lead; and 10,000 mg/kg for zinc and manganese.
 
 The first hyperaccumulator, Thlaspi caerulescens (alpine pennycress), was
 identified in the 16th century as an indicator of zinc-rich soils. The
-modern scientific study of hyperaccumulation began in the 1970s with Robert
+modern [[roger-heim-scientific-study-psilocybin]] of hyperaccumulation began in the 1970s with Robert
 Brooks' work on nickel accumulation in New Caledonian plants. Approximately
 700 hyperaccumulator species have been identified across 500 genera and 52
 families as of the mid-2020s.
@@ -30,14 +30,14 @@ Most known hyperaccumulators are found on ultramafic (serpentine) soils,
 which are naturally enriched in nickel, chromium, and cobalt. These soils
 cover roughly 1% of Earth's land surface but host a disproportionate number
 of endemic hyperaccumulator species, particularly in New Caledonia, Cuba,
-the Mediterranean basin, and Southeast Asia.
+the Mediterranean basin, and [[psilocybe-southeast-asia-pacific]].
 
 ## Physiological Mechanisms
 
 Hyperaccumulation involves several specialized adaptations. At the root
 level, enhanced metal solubilization through rhizosphere acidification and
 exudation of chelating agents (such as organic acids and phytosiderophores)
-increases metal bioavailability. Transport proteins in root cell membranes
+increases metal bioavailability. [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] in root cell membranes
 show increased expression and selectivity for target metals.
 
 Once inside the plant, metals are chelated by ligands including
@@ -61,11 +61,9 @@ Mediterranean are well-studied model organisms. Pycnandra acuminata, the
 "nickel tree" of New Caledonia, produces blue-green latex containing up to
 25% nickel by dry weight.
 
-## Arsenic and Zinc Hyperaccumulators
-
-[[dynamic-nutrient-accumulators]] for agricultural nutrient cycling
+## Arsenic and Zinc Hyp for agricultural nutrient cycling
 - [[serpentine-soil-ecology]] for ultramafic soil ecosystems
-- [[ligninolytic-enzymes-bioremediation]] for fungal remediation approaches
+- [[ligninolytic-enzymes-bioremediation]] for [[cotter-pet-livestock-waste-fungal-remediation-systems]] approaches
 ## Practical Considerations
 
 Successful implementation of Hyperaccumulator Plants requires attention to
@@ -84,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

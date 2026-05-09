@@ -1,5 +1,5 @@
 ---
-title: "Composting and Nutrient Cycling"
+title: "ozier-pdc-composting-and-nutrient-cycles Cycling"
 created: "2026-04-24"
 updated: "2026-04-24"
 type: concept
@@ -22,7 +22,7 @@ A critical caveat: compost must be fully composted. Partially composted material
 
 ## The Nitrogen Cycle
 
-Atmospheric nitrogen (N2) is tightly bound by triple covalent bonds and unavailable to plants. Specialized microorganisms (diazotrophs) break these bonds through nitrogen fixation. Symbiotic bacteria (Rhizobia on legumes, [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]] (95% of plants) for uptake. More than 22 million tons of phosphorus are applied to fields every year, and mined supplies are projected to be insufficient within 30-40 years.
+Atmospheric nitrogen (N2) is tightly bound by triple covalent bonds and unavailable to plants. Specialized microorganisms (diazotrophs) break these bonds through [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. Symbiotic bacteria (Rhizobia on legumes, [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]] (95% of plants) for uptake. More than 22 million tons of phosphorus are applied to fields every year, and mined supplies are projected to be insufficient within 30-40 years.
 
 Phosphorus is a component of DNA, RNA, and the ATP molecule -- the energy currency of cells. Breaking phosphorus bonds in ATP produces energy; making them stores it. Phosphorus is also a major component of cell membranes as part of phospholipids. When phosphorus is low, leaves turn bluish green from sugar accumulation that cannot be used for lack of energy.
 
@@ -32,15 +32,15 @@ Potassium (K) is the only essential nutrient not a constituent of any structural
 
 Magnesium (Mg) is the center of the chlorophyll molecule (C55H72MgN4O5) -- no magnesium, no photosynthesis. When magnesium is deficient, chlorophyll cannot be synthesized and leaves lose their green color between veins (interveinal chlorosis), with older leaves showing symptoms first. Magnesium also activates ATP enzymes and is needed for DNA and RNA creation.
 
-Sulfur (S) is a component of amino acids cysteine and methionine, which influence protein structure and metabolic activity. Sulfur is not mobile in plants, so deficiency yellowing appears first in younger leaves -- distinguishing it from nitrogen deficiency. Stricter air pollution regulations have dramatically reduced atmospheric sulfur deposition, making organic matter and gypsum rock increasingly important.
+Sulfur (S) is a component of amino acids cysteine and methionine, which influence protein structure and [[arbuscule-isolation-metabolic-activity-assays]]. Sulfur is not mobile in plants, so deficiency yellowing appears first in younger leaves -- distinguishing it from nitrogen deficiency. Stricter air pollution regulations have dramatically reduced atmospheric sulfur deposition, making organic matter and gypsum rock increasingly important.
 
 ## Silicon (Si) -- A Beneficial Element
 
-Silicon is not considered essential for most plants, though some families (Equisetaceae -- horsetail) cannot survive without it. Silicon improves drought tolerance by forming a waterproof layer in epidermal cells and helps ward off insects, possibly by mimicking carbon compounds to block pathogens. Over 90% of Earth's crust is composed of silicate minerals. Silicon is not mobile in plants, so deficiencies appear on younger leaves.
+Silicon is not considered essential for most plants, though some families (Equisetaceae -- horsetail) cannot survive without it. Silicon improves [[dighton-fungal-drought-tolerance-plant-water-relations]] by forming a waterproof layer in epidermal cells and helps ward off insects, possibly by mimicking carbon compounds to block pathogens. Over 90% of Earth's crust is composed of silicate minerals. Silicon is not mobile in plants, so deficiencies appear on younger leaves.
 
 ## Humus: The End Product
 
-Humus is the stable end product of complete composting. It represents fully decomposed organic matter that provides long-term soil benefits: high CEC for nutrient retention, improved soil structure with pore spaces for air and water, habitat for beneficial microorganisms, and buffering capacity against pH changes. You cannot develop humus without organic matter and the microbes that decompose it. CEC ranges from 0 to 100, with pure humus at the maximum.
+Humus is the stable end product of complete composting. It represents fully decomposed organic matter that provides long-term soil benefits: high CEC for nutrient retention, improved soil structure with pore spaces for air and water, [[query-how-do-i-design-habitat-for-beneficial-insects]] microorganisms, and buffering capacity against pH changes. You cannot develop humus without organic matter and the microbes that decompose it. CEC ranges from 0 to 100, with pure humus at the maximum.
 
 ## Earthworm Castings
 
@@ -72,7 +72,7 @@ Sheet mulching, also known as lasagna gardening, is a no-till technique that com
 
 ## Anaerobic Decomposition and Biogas
 
-While aerobic composting is the most common form of managed decomposition, anaerobic processes also play important roles in nutrient cycling. Anaerobic digestion of organic waste in enclosed systems produces biogas (primarily methane and carbon dioxide) that can be captured and used as fuel, while the remaining digestate serves as a nutrient-rich soil amendment. Biogas systems are widely used in agricultural settings, particularly in Asia, where small-scale digesters process animal manure and crop residues. The digestate retains most of the nitrogen, phosphorus, and potassium of the original feedstock in forms that are readily available to plants. While not practical for most home gardeners, anaerobic decomposition illustrates the broader principle that all organic materials eventually cycle back to soil — the question is whether the energy and nutrients they contain are captured and used or lost to the environment.
+While aerobic composting is the most common form of managed decomposition, anaerobic processes also play important roles in nutrient cycling. [[biogas-digester-basics]] of organic waste in enclosed systems produces biogas (primarily methane and carbon dioxide) that can be captured and used as fuel, while the remaining digestate serves as a nutrient-rich soil amendment. Biogas systems are widely used in agricultural settings, particularly in Asia, where small-scale digesters process animal manure and crop residues. The digestate retains most of the nitrogen, phosphorus, and potassium of the original feedstock in forms that are readily available to plants. While not practical for most home gardeners, anaerobic decomposition illustrates the broader principle that all organic materials eventually cycle back to soil — the question is whether the energy and nutrients they contain are captured and used or lost to the environment.
 ## Practical Considerations
 
 Successful implementation of Composting and Nutrient Cycling requires attention to
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

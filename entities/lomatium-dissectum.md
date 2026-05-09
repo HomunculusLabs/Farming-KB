@@ -18,8 +18,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Moerman, D.E. (1998). "Native American Ethnobotany." Timber Press.
-  - Foster, S. & Hobbs, C. (2002). "A Field Guide to Western Medicinal Plants and Herbs." Houghton Mifflin.
+  - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
+  - Foster, S. & Hobbs, C. (2002). "A [[ghouled-field-guide-historical-context]] to Western Medicinal Plants and Herbs." Houghton Mifflin.
   - Tilford, G.L. (1997). "Edible and Medicinal Plants of the West." Mountain Press Publishing.
   - McIntyre, P. (2009). "Medicinal Plants of the Northwest." Wild Roots Botanicals.
   - Kindscher, K. (1992). "Medicinal Wild Plants of the Prairie." University Press of Kansas.
@@ -28,7 +28,7 @@ sources:
 ## Overview
 
 **Lomatium dissectum** is a perennial herbaceous plant in the carrot family
-(Apiaceae), native to western North America. It is among the most
+(Apiaceae), native to western [[psilocybin-north-america-pacific-northwest]]. It is among the most
 significant medicinal plants in indigenous pharmacopoeias of the Great
 Basin and Columbia Plateau, traditionally used to treat respiratory
 infections, influenza, and pneumonia. The species gained renewed attention
@@ -84,7 +84,7 @@ of several intermountain sagebrush communities.
 
 ## Traditional and Medicinal Use
 
-Indigenous peoples of the western United States used L. dissectum
+Indigenous peoples of the western [[dmt-containing-plants-united-states-halpern]] used L. dissectum
 extensively. The Northern Paiute, Shoshone, Washoe, and Nez Perce
 prepared the root as a decoction or poultice for respiratory ailments.
 The root was chewed raw for sore throat, boiled into tea for colds,
@@ -109,7 +109,7 @@ fall often perform best, mimicking natural freeze-thaw cycles.
 
 Root development is slow; harvestable roots typically require 4–7 years
 of growth. In permaculture designs, L. dissectum serves as a deep-rooted
-dynamic accumulator in dryland food forests and as a medicinal
+[[nutrient-dynamic-accumulator-reference]] in dryland food forests and as a medicinal
 component in herb spirals and polyculture beds.
 
 ## Similar Species

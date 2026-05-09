@@ -1,5 +1,5 @@
 ---
-title: Perennial Rice and Biennial Cultivation Exploration
+title: Perennial Rice and fukuoka-textdoc-rice-seed-overwintering-biennial-cultivation-discovery Exploration
 created: 2026-04-28
 tags:
   - fukuoka
@@ -53,7 +53,7 @@ Surely nothing could be better than growing a biannual crop or two crops success
 
 Why should we cling to the narrow view of rice as an annual crop? Fukuoka had been intrigued by the possibility of harvesting rice twice after one seeding or even overwintering it and growing it as a perennial.
 
-The traditional annual cycle — plow, flood, transplant, tend, harvest, plow again — represents enormous expenditure of human and animal energy. If rice could behave more like a perennial grass, growing back from its own root system after each harvest, much of this energy expenditure would become unnecessary.
+The traditional annual cycle — plow, flood, transplant, tend, harvest, plow again — represents enormous expenditure of human and animal energy. If rice could behave more like a [[savory-perennial-grass-and-desertification]], growing back from its own root system after each harvest, much of this energy expenditure would become unnecessary.
 
 He believed the idea definitely warranted investigation in warmer parts of Japan and in certain other countries where frost does not prevent overwintering. In tropical regions, some wild rice species already behave as perennials. The challenge was to bring this characteristic into cultivated rice while maintaining acceptable yields and grain quality.
 
@@ -67,11 +67,11 @@ Fukuoka set his sights on learning why rice does not overwinter. The paradox was
 
 ## One Thing Is All Things
 
-Natural farming does not treat the planting of seed separately but relates it to all other aspects of rice production. In contrast, scientific farming divides rice cultivation into narrow specialties: experts on germination, specialists in tillage, and so on.
+[[cho-loess-powder-in-natural-farming]] does not treat the planting of seed separately but relates it to all other aspects of rice production. In contrast, [[fukuoka-illusions-of-scientific-farming]] divides rice cultivation into narrow specialties: experts on germination, specialists in tillage, and so on.
 
 Natural farming treats everything as part of a whole. No problem in any one area is truly solved unless a common solution is found for all areas. This insight — "One thing is all things. To resolve one matter, one must resolve all matters. Changing one thing changes all things" — emerged directly from Fukuoka's struggle with natural rice cultivation.
 
-Once he decided to sow rice in the fall, he found he could also stop transplanting, plowing, applying chemical fertilizers, preparing compost, and spraying pesticides. Each elimination followed naturally from the previous one, as the interconnected system revealed itself.
+Once he decided to sow rice in the fall, he found he could also stop transplanting, plowing, applying [[cannabis-chemical-fertilizers]], preparing compost, and spraying pesticides. Each elimination followed naturally from the previous one, as the interconnected system revealed itself.
 
 ## From Biennial to Direct-Seeding Succession
 
@@ -111,7 +111,7 @@ The exploration of perennial rice touches on themes of growing importance:
 - **Reduced energy inputs**: Energy required for annual sowing, transplanting, and establishment would be dramatically reduced.
 - **Ecological integration**: Perennial rice would function more like a natural grassland ecosystem, supporting diverse soil organisms, insects, and birds.
 - **Climate resilience**: Perennial crops with deep root systems are generally more resilient to drought and extreme weather.
-- **Economic benefits for smallholders**: Eliminating the need for annual seed purchase and transplanting labor could significantly reduce costs for millions of small-scale rice farmers.
+- **[[knf-economic-benefits]] for smallholders**: Eliminating the need for annual seed purchase and transplanting labor could significantly reduce costs for millions of small-scale rice farmers.
 
 Fukuoka's exploration of perennial rice was ahead of its time. While he did not succeed in creating a practical system himself, his insights into interconnected rice cultivation and the philosophical framework he developed have proven more valuable than any single technique.
 

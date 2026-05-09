@@ -1,30 +1,31 @@
 ---
-title: Fukuoka Rice Barley Step By Step Method
+title: Fukuoka direct-seeded-no-tillage-rice-barley-clover-succession Step By Step Method
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Rice Barley Step-by-Step Method
 
 Updated: 2026-04-19
 
-Masanobu Fukuoka provides a detailed step-by-step description of his direct-seeding, no-tillage rice/barley succession method with green manure cover in *The Natural Way of Farming*.
+Masanobu Fukuoka provides a detailed step-by-step description of his direct-seeding, no-tillage rice/barley succession method with [[comparison-green-manure-guide-vs-mulch-types-and-effects]] cover in *The Natural Way of Farming*.
 
-This is the core practical method of Fukuoka's natural farming system, embodying all four (or five) principles simultaneously. It connects directly to [[fukuoka-rice-barley-dual-culture]], and [[fukuoka-seed-selection-methods]] and [[fukuoka-no-tillage-direct-seeding-history]] for the evolution of this technique.
+This is the core practical method of Fukuoka's [[comparison-natural-farming-vs-permaculture]] system, embodying all four (or five) principles simultaneously. It connects directly to [[fukuoka-rice-barley-dual-culture]], and [[fukuoka-seed-selection-methods]] and [[fukuoka-no-tillage-direct-seeding-history]] for the evolution of this technique.
 
 ## Step 2: Harvesting Rice
 
 Cut the rice while trampling over the clover and young two- to three-leaf barley shoots. Rice may be harvested mechanically, but sickle and pedal-powered drum are sufficient for smaller fields.
 
-Fukuoka describes his own practice: "I harvest the rice while treading on the young shoots of winter grain. After leaving the rice to dry for three days, I thresh it then scatter the straw uncut over the entire field." The labor of one or two people is more than enough to grow crops on a quarter-acre.
+Fukuoka describes his own practice: "I harvest the rice while treading on the young shoots of [[direct-seeded-no-tillage-rice-winter-grain-succession]]. After leaving the rice to dry for three days, I thresh it then scatter the straw uncut over the entire field." The labor of one or two people is more than enough to grow crops on a quarter-acre.
 
 ## Step 3: Seeding
 
-Broadcast clover and barley seed over the standing heads of rice. The high soil moisture promotes germination and winter weeds have not yet appeared. For high yields, seed sparsely and evenly (22 lbs each of rice and barley initially). Use hardy, panicle-weight type varieties with erect leaves for maximum yield. For overwintering rice, coat seeds in [[fukuoka-seed-ball-one-seed-technique]] for the detailed preparation method.
+Broadcast clover and barley seed over the standing heads of rice. The high soil moisture promotes germination and winter weeds have not yet appeared. For high yields, seed sparsely and evenly (22 lbs each of [[fukuoka-rice-and-barley-natural-farming]] initially). Use hardy, panicle-weight type varieties with erect leaves for maximum yield. For [[fukuoka-textdoc-overwintering-rice-seed-clay-pellet-method]], coat seeds in [[fukuoka-seed-ball-one-seed-technique]] for the detailed preparation method.
 
 ## Step 4: Fertilization
 
@@ -114,4 +115,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

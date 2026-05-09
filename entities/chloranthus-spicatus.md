@@ -21,9 +21,9 @@ sources:
 
 ## Overview
 
-**Chloranthus spicatus** is a perennial herbaceous plant in the family Chloranthaceae, native to southern China, Southeast Asia, and the eastern Himalayas. It is commonly known as the sweet choloranthus or simply "one-thousand-gold-fragrance" (千里香) in Chinese, reflecting the intense, sweet scent of its tiny flowers.
+**Chloranthus spicatus** is a perennial herbaceous plant in the family Chloranthaceae, native to southern China, [[psilocybe-southeast-asia-pacific]], and the eastern Himalayas. It is commonly known as the sweet choloranthus or simply "one-thousand-gold-fragrance" (千里香) in Chinese, reflecting the intense, sweet scent of its tiny flowers.
 
-The species is valued in traditional Chinese medicine for its analgesic, anti-inflammatory, and antimicrobial properties. It is also cultivated as an ornamental plant for its glossy foliage and fragrant flowers, which bloom in late summer and autumn.
+The species is valued in traditional Chinese medicine for its analgesic, anti-inflammatory, and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. It is also cultivated as an ornamental plant for its glossy foliage and fragrant flowers, which bloom in late summer and autumn.
 
 The genus *Chloranthus* is one of the most ancient lineages of flowering plants, with a fossil record extending back to the Early Cretaceous, over 120 million years ago. This phylogenetic position makes the genus significant in studies of angiosperm evolution.
 
@@ -39,7 +39,7 @@ The family Chloranthaceae contains approximately 75 species in 4–5 genera dist
 
 *C. spicatus* grows 30–60 cm tall from a short, creeping rhizome. Stems are erect, simple or sparingly branched, and glabrous. The plant forms loose clumps rather than dense colonies.
 
-Leaves are opposite, ovate to elliptic, 5–15 cm long and 3–8 cm wide, with serrate margins and acuminate tips. The leaf surface is dark green and glossy, with prominent venation on the undersurface.
+Leaves are opposite, ovate to elliptic, 5–15 cm long and 3–8 cm wide, with serrate margins and acuminate tips. The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dark green and glossy, with prominent venation on the undersurface.
 
 The inflorescence is a terminal or axillary spike 3–8 cm long, bearing numerous tiny, fragrant flowers. Each flower lacks petals and sepals, consisting of a single stamen fused to a fleshy bract in a distinctive arrangement.
 
@@ -51,7 +51,7 @@ The fruit is a small, globular drupe approximately 3 mm in diameter, green when 
 
 *Chloranthus spicatus* is native to southern China (Guangdong, Guangxi, Yunnan, Guizhou, Fujian, Hainan), Taiwan, Vietnam, Thailand, Myanmar, and the eastern Himalayas. It is cultivated widely across East and Southeast Asia.
 
-The species grows in moist, shaded forests, ravines, and stream banks at elevations of 100–1800 m. It prefers rich, well-drained soils with high organic matter content in subtropical to tropical climates.
+The species grows in moist, shaded forests, ravines, and stream banks at elevations of 100–1800 m. It prefers rich, well-drained soils with high [[hamilton-composting-and-organic-matter-management]] content in subtropical to tropical climates.
 
 *C. spicatus* is often found growing alongside other shade-loving forest floor species including ferns, *Asarum* species, and various *Araceae*. In disturbed forests, it colonizes shaded road cuts and landslide scars.
 
@@ -63,7 +63,7 @@ The species has been naturalized in parts of Japan and Hawaii, where it occasion
 
 ## Cultivation
 
-Propagation is by division of rhizomes in spring or by stem cuttings taken during the growing season. Cuttings root readily in moist propagation media under mist, with rooting typically occurring in 3–4 weeks.
+Propagation is by division of rhizomes in spring or by stem cuttings taken during the [[savory-growing-season-and-non-growing-season-management]]. Cuttings root readily in moist propagation media under mist, with rooting typically occurring in 3–4 weeks.
 
 Seed propagation is uncommon in horticulture. Seeds are small and require consistent moisture for germination, but vegetative propagation is faster and more reliable for maintaining cultivar characteristics.
 
@@ -79,7 +79,7 @@ Fertilization needs are modest. A balanced, slow-release fertilizer applied in s
 
 *C. spicatus* produces a wide range of sesquiterpenoids, including lindenane-type sesquiterpenes that are characteristic of the genus *Chloranthus*. These compounds exhibit significant anti-inflammatory, cytotoxic, and antimicrobial activities.
 
-Major bioactive constituents include chloranthalactone A, B, and C, along with spicachlorantin A and B. The essential oil contains linalool, germacrene D, and β-caryophyllene as dominant volatiles.
+Major bioactive constituents include chloranthalactone A, B, and C, along with spicachlorantin A and B. The [[permaculture-designers-manual-essential-oil-plants]] contains linalool, germacrene D, and β-caryophyllene as dominant volatiles.
 
 In traditional Chinese medicine, the whole plant is used to treat rheumatism, traumatic injuries, menstrual disorders, and digestive complaints. Preparations include decoctions, tinctures, and external applications as poultices.
 
@@ -100,6 +100,8 @@ The practice of scenting tea with *C. spicatus* dates back to the Ming Dynasty, 
 Commercial cultivation of *C. spicatus* for essential oil production occurs on a small scale in southern China. The oil is used in premium cosmetics and traditional Chinese perfumery.
 
 ## See Also
+
+- [[chloranthus-japonicus]]
 
 - [[houttuynia-cordata]]
 - [[zingiber-officinale]]

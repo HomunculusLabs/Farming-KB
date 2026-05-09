@@ -1,10 +1,11 @@
 ---
-title: "How to Make a Balanced Compost Recipe"
+title: "How to Make a query how to make a balanced compost recipe Recipe"
 created: 2026-04-28
 tags: [query, composting, soil-health, organic-gardening, sustainability]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -12,10 +13,10 @@ type: query
 
 ## Short Answer
 A balanced compost recipe combines carbon-rich brown materials (leaves, straw,
-wood chips) with nitrogen-rich green materials (food scraps, grass clippings,
+[[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]]) with nitrogen-rich green materials (food scraps, grass clippings,
 manure) in an approximate ratio of 30 parts carbon to 1 part nitrogen by weight.
 Achieving this C:N ratio, maintaining proper moisture at 50 to 60 percent, and
-ensuring adequate aeration produces hot compost that decomposes quickly into
+ensuring adequate aeration produces [[query-what-is-the-difference-between-hot-compost-and-cold-compost]] that decomposes quickly into
 nutrient-rich humus.
 
 ## Detailed Explanation
@@ -30,9 +31,9 @@ producing foul odors and losing nitrogen as ammonia gas. The ideal
 maximize microbial diversity in the finished compost.
 
 Building the pile correctly determines whether you get hot compost that finishes
-in weeks or cold compost that takes months. A hot compost pile needs to be at
+in weeks or cold compost that takes months. A hot [[mushroom-cultivator-compost-pile-management]] needs to be at
 least three feet on each side to generate and retain heat. Start with a layer of
-coarse woody material at the bottom for drainage, then alternate layers of
+[[fungal-diversity-leaf-litter-coarse-woody-debris]] material at the bottom for drainage, then alternate layers of
 browns and greens, aiming for roughly three parts browns to one part greens by
 volume. Each layer should be watered as it is added so that the entire pile is
 uniformly moist, like a wrung-out sponge. Some growers add a handful of finished
@@ -58,7 +59,7 @@ the pile is too dry, or the pieces are too large. If the pile gets too hot
 The [[cannabis-living-soil-amendment-schedule]] and can be used as a
 top dressing, mixed into potting soil, or brewed into
 [[query-what-is-bokashi-composting-and-how-does-it-work]]
-uses fermentation to break down food scraps including meat and dairy, producing
+uses fermentation to [[query-can-fungi-break-down-plastic-pollution]] food scraps including meat and dairy, producing
 a pre-compost that can be buried in the garden.
 
 ## Key Points
@@ -94,4 +95,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

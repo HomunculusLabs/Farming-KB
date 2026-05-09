@@ -1,11 +1,12 @@
 ---
-title: Fukuoka Natural Farming in Tropical Regions
+title: masanobu-fukuoka-natural-farming-philosophy Farming in Tropical Regions
 created: 2026-04-18
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Natural Farming in Tropical Regions
@@ -36,11 +37,11 @@ Fukuoka's principle of continuous ground cover is especially important in tropic
 
 ## Comparison with Tropical Permaculture
 
-Bill Mollison's [[fukuoka-natural-farming]] methods. Taro and cassava thrive in mulched, untilled tropical soils. Bananas and plantains benefit from companion planting with leguminous ground covers. Coconut and breadfruit form productive polycultures with understory vegetables. Traditional tropical rice varieties perform well in no-till, direct-seeded systems. Pigeon pea and cowpea enrich soil while providing food.
+Bill Mollison's [[fukuoka-natural-farming]] methods. Taro and cassava thrive in mulched, untilled tropical soils. Bananas and plantains benefit from [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with leguminous ground covers. Coconut and breadfruit form productive polycultures with understory vegetables. Traditional tropical rice varieties perform well in no-till, direct-seeded systems. Pigeon pea and cowpea enrich soil while providing food.
 
 ## Mycorrhizal Networks in Tropical Soil Building
 
-The role of [[natural-way-of-farming-guide]], and the absence of chemical fertilizers -- create ideal conditions for mycorrhizal colonization. The [[fukuoka-indian-agriculture-observations]] noted similar alignments in South Asian traditional agriculture, where mixed cropping, legume integration, and residue recycling predated modern organic farming by millennia.
+The role of [[natural-way-of-farming-guide]], and the absence of [[cervantes-chemical-fertilizers-guide]] -- create ideal conditions for [[arbuscular-mycorrhizal-colonization-patterns]]. The [[fukuoka-indian-agriculture-observations]] noted similar alignments in South Asian traditional agriculture, where mixed cropping, legume integration, and residue recycling predated modern [[coleman-deep-organic-farming-philosophy]] by millennia.
 
 ## Rice Paddy Methods in the Tropics
 
@@ -76,7 +77,7 @@ Fukuoka addressed pest and disease pressure through his fundamental principle: h
 
 ## Case Studies and Climate Resilience
 
-In the Philippines, Gil Carandang of Herbana Farms developed natural farming techniques using indigenous microorganism (IMO) cultures that complement Fukuoka's seed ball and mulching approaches. In Thailand, farmers in Isan province have combined natural farming with local rice varieties to achieve stable yields without chemical inputs.
+In the Philippines, Gil Carandang of Herbana Farms developed natural farming techniques using [[knf-indigenous-microorganism-culture]] (IMO) cultures that complement Fukuoka's seed ball and mulching approaches. In Thailand, farmers in Isan province have combined natural farming with local rice varieties to achieve stable yields without chemical inputs.
 
 Natural farming systems demonstrate remarkable climate resilience: continuous ground cover and deep root systems of polyculture farms resist both drought and flooding more effectively than monocultures. During extreme weather, diverse plantings ensure some species survive even if others fail. This resilience connects to Fukuoka's broader [[fukuoka-natural-farming]]
 

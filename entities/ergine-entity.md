@@ -37,7 +37,7 @@ sources:
 Ergine, commonly known as **LSA** (D-lysergic acid amide), is a naturally
 occurring psychedelic alkaloid of the lysergamide class. It is the primary
 psychoactive constituent in seeds of several *Convolvulaceae* species,
-including *Ipomoea tricolor*, *I. violacea*, *Argyreia nervosa*, and *Rivea
+including *Ipomoea tricolor*, *I. violacea*, *[[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]]*, and *Rivea
 corymbosa*. Albert Hofmann first isolated ergine from *Rivea corymbosa*
 seeds in 1960, confirming these plants as the botanical source of the
 Aztec entheogen *ololiuqui*.
@@ -68,7 +68,7 @@ of the amide bond.
 - **Relative potency:** ~10–30× less potent than LSD at 5-HT₂A
 - **Mechanism:** Classic psychedelic — primarily 5-HT₂A agonism in
   cortical pyramidal neurons; downstream effects on thalamic gating
-  and default mode network
+  and [[psilocybin-default-mode-network-ego-dissolution]] network
 - **Metabolism:** Hepatic CYP450; N-dealkylation and oxidative pathways;
   half-life ~3–4 hours
 - **Alkaloid synergy:** Co-occurs with ergometrine, isoergine, and
@@ -98,12 +98,12 @@ physical sedation and vasoconstriction effects.
 
 - *Argyreia nervosa* (Hawaiian baby woodrose) — highest concentration,
   ~0.5–0.6% ergine by seed weight; 4–8 seeds active
-- *Ipomoea tricolor* (Morning glory, "Heavenly Blue") — ~0.05–0.1%;
+- *Ipomoea tricolor* ([[golden-guide-morning-glory-and-ololiuqui]], "Heavenly Blue") — ~0.05–0.1%;
   150–300 seeds active
 - *Ipomoea violacea* — similar profile to *I. tricolor*
 - *Rivea corymbosa* (Ololiuqui) — ~0.02–0.05%; traditional Aztec
   entheogen, lower potency per seed
-- *Claviceps purpurea* (Ergot fungus) — trace amounts as biosynthetic
+- *[[bloomfield-ergot-claviceps-purpurea-ergotism]]* (Ergot fungus) — trace amounts as biosynthetic
   intermediate
 
 ## History and Ethnobotany
@@ -129,12 +129,12 @@ contraindicated in pregnancy.
 
 - **US:** Not explicitly scheduled; considered Schedule I analog of LSD
   under Federal Analog Act
-- **UK:** Controlled under Psychoactive Substances Act (2016)
+- **UK:** Controlled under Psychoactive [[controlled-substances-act-and-psychedelic-research]] (2016)
 - **Australia:** Schedule IX; **Canada:** Schedule III CDSA
 ## Related Compounds
 
 - **LSD:** Diethylamide analog; ~10–30× more potent, longer duration
-- **Ergometrine:** Pharmaceutical ergot alkaloid; oxytocic, minimal
+- **Ergometrine:** Pharmaceutical [[kykeon-composition-and-ergot-alkaloid-hypothesis]]; oxytocic, minimal
   psychedelic activity
 - **Isoergine:** Stereoisomer; co-occurs in seeds, less active
 

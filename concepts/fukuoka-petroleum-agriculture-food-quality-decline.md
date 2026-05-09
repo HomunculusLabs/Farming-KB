@@ -13,20 +13,20 @@ type: concept
 
 ## Overview
 
-Masanobu Fukuoka's critique of modern agriculture centers on the observation that farming has been progressively transformed from a partnership with nature into a petroleum-dependent manufacturing process. In "The Natural Way of Farming," he traces the historical trajectory from open-field cultivation through hothouse horticulture to the ultimate goal of total chemical food synthesis, arguing that each step further degrades food quality and alienates humanity from its natural relationship with the land.
+Masanobu Fukuoka's [[fukuoka-road-critique-of-modern-science]] agriculture centers on the observation that farming has been progressively transformed from a partnership with nature into a petroleum-dependent manufacturing process. In "The Natural Way of Farming," he traces the historical trajectory from open-field cultivation through hothouse horticulture to the ultimate goal of total chemical food synthesis, arguing that each step further degrades food quality and alienates humanity from its natural relationship with the land.
 
 ## The Petroleum Farming Continuum
 
 Fukuoka describes a clear progression in the industrialization of food production:
 
 ### Stage 1: Open Field Cultivation with Chemical Inputs
-The initial departure from natural farming involved the addition of chemical fertilizers and pesticides to otherwise conventional field agriculture. While fields remained open to sky and soil, the biological foundations of soil fertility were replaced by petroleum-derived inputs. Fukuoka argues that this already degrades food quality, as plants grown with synthetic nitrogen lack the complex mineral profiles found in naturally cultivated crops.
+The initial departure from [[comparison-natural-farming-vs-permaculture]] involved the addition of [[cervantes-chemical-fertilizers-guide]] and pesticides to otherwise conventional field agriculture. While fields remained open to sky and soil, the biological foundations of soil fertility were replaced by petroleum-derived inputs. Fukuoka argues that this already degrades food quality, as plants grown with synthetic nitrogen lack the complex mineral profiles found in naturally cultivated crops.
 
 ### Stage 2: Protected Cultivation (Hothouses and Vinyl Houses)
 The next stage involved growing crops in vinyl houses and hot beds. Fukuoka describes this transition beginning with melons and tomatoes grown in soil within protective structures, then progressing to:
 
 - **Sand culture and gravel culture**: replacing soil with inert substrates (sand or gravel) because these materials harbor fewer bacteria and are considered "cleaner"
-- **Nutrient solution administration**: shifting from building soil fertility to administering dissolved chemical nutrients directly to roots
+- **[[cannabis-nutrient-solution-preparation]] administration**: shifting from building soil fertility to administering dissolved chemical nutrients directly to roots
 - **Temperature control**: artificial heating to extend growing seasons and accelerate growth
 
 ### Stage 3: Hydroponic and Aeroponic Systems
@@ -58,15 +58,15 @@ He argues that the visual and gustatory appeal of hothouse products masks a fund
 
 ## The Energy Trap
 
-Fukuoka quantifies the energy inefficiency of modern farming in stark terms:
+Fukuoka quantifies the [[fukuoka-livestock-energy-inefficiency-caloric-cost]] of modern farming in stark terms:
 
 | Farming System | Energy Output per Man-Day | Notes |
 |---|---|---|
-| [[permaculture]] and sustainable agriculture movements:
+| permaculture and sustainable agriculture movements:
 
 - The **energy return on investment (EROI)** of industrial agriculture is negative when full lifecycle costs are counted
 - **Food miles** and distribution inefficiency are hidden costs of centralized production
-- The **organic food movement**, while an improvement, remains within the scientific agriculture paradigm because it still treats soil as a nutrient delivery medium rather than a living ecosystem
+- The **organic food movement**, while an improvement, remains within the [[fukuoka-critique-scientific-agriculture-civilization]] paradigm because it still treats soil as a nutrient delivery medium rather than a living ecosystem
 - No-tillage farming and cover cropping systems derive directly from Fukuoka's principles
 
 ## See Also
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

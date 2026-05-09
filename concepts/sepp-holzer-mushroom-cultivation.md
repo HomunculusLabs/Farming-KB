@@ -1,11 +1,12 @@
 ---
-title: Sepp Holzer Mushroom Cultivation (Logs and Straw)
+title: Sepp Holzer accessible-mushroom-cultivation-for-disabilities (Logs and Straw)
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [cultivation, mycology]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 Updated: 2026-04-18
@@ -17,8 +18,8 @@ Sepp Holzer cultivates mushrooms on both logs and straw as part of his integrate
 ## Mushrooms on Wood
 
 ### Suitable Mushroom Species
-- Oyster mushrooms (Pleurotus ostreatus, P. cornucopiae, P. eryngii, P. salignus, P. columbinus)
-- Shiitake (Lentinula edodes)
+- [[query-how-to-grow-oyster-mushrooms-at-home]] (Pleurotus ostreatus, P. cornucopiae, P. eryngii, P. salignus, P. columbinus)
+- Shiitake ([[staycare-lentinula-edodes-in-bioremediation]])
 - Lion's mane (Hericium erinaceus)
 
 ### Suitable Wood Types
@@ -68,7 +69,7 @@ Holzer discovered this accidentally when he disposed of "useless" logs by tippin
 ### Substrate Requirements
 - Any kind of straw can be used, but must be healthy
 - Natural golden yellow colour, no mould spots or dark areas, no musty smell
-- Must be organically grown (conventional straw may contain herbicides, insecticides, fungicides, growth regulators)
+- Must be organically grown (conventional straw may contain herbicides, insecticides, fungicides, [[ingham-natural-growth-regulators-soil-microbes]])
 - Mushrooms absorb and retain harmful substances from the substrate
 - Small compressed straw bales are easiest to work with
 
@@ -84,7 +85,7 @@ Holzer discovered this accidentally when he disposed of "useless" logs by tippin
 - Alternatively, transfer mycelium directly from a well-permeated bale to a fresh one
 
 ### Colonisation and Fruiting
-- Optimal mycelial growth temperature: slightly over 20C
+- Optimal [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] temperature: slightly over 20C
 - Spring/early summer inoculation yields crop in roughly 3 months
 - Autumn inoculation: crop not until following spring
 - Colonised bales not normally sensitive to frost
@@ -96,7 +97,7 @@ Holzer discovered this accidentally when he disposed of "useless" logs by tippin
 The spent straw becomes valuable humus and can be used as mulch. Seeds have no competition from other seedlings because they rot underneath the mulch layer. New straw bales can be inoculated with mycelium from the previous culture, creating a self-perpetuating cycle.
 
 ### Pest Control
-- Slugs and snails are the main pest
+- [[query-how-to-get-rid-of-slugs-and-snails-organically]] are the main pest
 - Helpers: pigs, ducks, and toads reduce slug populations to harmless numbers
 - Protective ring of wood ash, sawdust, and slaked lime (must stay dry)
 - Fresh grass cuttings kept wet attract slugs for egg-laying; turn over after a few days to expose eggs to sun and UV light

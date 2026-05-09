@@ -21,7 +21,7 @@ type: concept
 
 # The Sect of the Phoenix and Archaic Secret Knowledge
 
-In "Tryptamine Hallucinogens and Consciousness," Terence McKenna draws on Jorge Luis Borges's
+In "[[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness," Terence McKenna draws on Jorge Luis Borges's
 short story "The Sect of the Phoenix" to frame the hidden tradition of psychedelic plant use as
 a secret that has persisted across all human cultures and historical periods, known by many
 names but never openly acknowledged. This concept becomes a key metaphor for understanding the
@@ -46,7 +46,7 @@ everything in the universe from every angle at once. For McKenna, the Secret is 
 experience itself: the direct encounter with the transcendent Other that has been at the center
 of human religious and spiritual life since prehistoric times. The fact that the Secret is
 simultaneously sacred and ridiculous, furtive and universal, perfectly captures the ambivalent
-status of psychedelic experience in human culture.
+status of [[leary-psychedelic-experience-bardo-mapping]] in human culture.
 
 ## The Mushroom as Ambassador and the Question of Selection
 
@@ -61,16 +61,16 @@ The sect of the Phoenix consists of those individuals throughout history who hav
 this openness, who have been willing to undergo the experience and transmit knowledge of it
 despite persecution and ridicule. The persistence of mushroom and plant ceremonies across
 widely separated cultures, from the Amazon to Siberia to Mesoamerica, suggests a very ancient
-common origin for these practices. Until recently, psilocybin mushroom use was confined to the
-central isthmus of Mexico. Stropharia cubensis is not known to be in archaic shamanic use
+common origin for these practices. Until recently, [[emcdda-psilocybin-mushroom-dose-and-effects]] use was confined to the
+central isthmus of Mexico. [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] is not known to be in archaic shamanic use
 anywhere in the world. DMT is used in the Amazon by cultures McKenna describes as "quite
-primitive, usually nomadic hunter-gatherers." The full potential of tryptamine ecstasy as a
+primitive, usually nomadic hunter-gatherers." The full potential of [[mckenna-tryptamine-ecstasy-and-platonic-eternity]] as a
 cultural force remains largely unexplored.
 
 ## The Absence of DMT Motifs in Traditional Art
 
 McKenna makes a striking observation: the specific motifs of the DMT experience, the self-
-transforming machine elves, the translinguistic information complexes, the hyperspatial
+[[dmt-self-transforming-machine-elves-mckenna]] elves, the translinguistic information complexes, the hyperspatial
 topologies, are essentially absent from the iconographic traditions of the world's major
 religions and art. While he found similarities between his LSD experiences and Mahayana
 Buddhist iconography, the DMT-specific visual vocabulary appeared nowhere in the art he
@@ -138,6 +138,8 @@ cultural infrastructure that modern society currently lacks for the safe and pro
 visionary plants.
 
 ## See Also
+
+- [[mckenna-sect-of-the-phoenix-and-secret-entheogenic-knowledge]]
 
 - [[mckenna-shamanic-meme]]
 - [[mckenna-psychedelic-shamanism]]

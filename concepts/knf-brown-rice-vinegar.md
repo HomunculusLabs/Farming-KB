@@ -1,5 +1,5 @@
 ---
-title: Brown Rice Vinegar (BRV)
+title: Brown brown-rice-vinegar-brv (BRV)
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -27,10 +27,10 @@ Brown Rice Vinegar (BRV) is a fundamental input in [[knf-water-soluble-calcium]]
 One of BRV's most important functions in KNF is as a solvent for mineral extraction:
 
 - **Water-soluble calcium (WCA):** Eggshells are roasted and soaked in BRV; the acetic acid dissolves calcium carbonate into bioavailable calcium acetate
-- **Water-soluble calcium phosphate (WCP):** Bones are charred at low temperature and soaked in BRV to extract calcium phosphate
-- **Water-soluble phosphoric acid:** Rock phosphate can be dissolved using BRV as a mild acid extractant
+- **Water-soluble [[bionutrients-lab-calcium-phosphate-calamansi]] (WCP):** Bones are charred at low temperature and soaked in BRV to extract calcium phosphate
+- **Water-soluble [[cho-water-soluble-phosphoric-acid-preparation]]:** Rock phosphate can be dissolved using BRV as a mild acid extractant
 
-The organic acids in BRV (particularly acetic acid and citric acid) effectively break down mineral compounds into plant-available forms without the harshness of industrial chemical solvents.
+The organic acids in BRV (particularly acetic acid and citric acid) effectively [[query-can-fungi-break-down-plastic-pollution]] mineral compounds into plant-available forms without the harshness of industrial chemical solvents.
 
 ## Quality Indicators
 
@@ -45,7 +45,7 @@ The organic acids in BRV (particularly acetic acid and citric acid) effectively 
 - Store in glass, clay, or food-grade plastic containers
 - Keep at 1-15 degrees C in a dark location
 - Airtight seal after fermentation is complete
-- Properly made BRV has an essentially unlimited shelf life
+- Properly made BRV has an essentially unlimited [[psilocybin-shelf-life-stability]]
 - Avoid metal containers as acids will corrode them
 
 ## Relationship to Other KNF Inputs
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

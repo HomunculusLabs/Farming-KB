@@ -1,11 +1,11 @@
 ---
-title: "How to Design a Pollinator Garden"
+title: "How to query how to design a pollinator garden Garden"
 created: 2026-04-28
 tags: [query, pollinators, gardening, bees, ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
+  sources: []
 type: query
 ---
 
@@ -13,7 +13,7 @@ type: query
 
 ## Short Answer
 
-A pollinator garden provides continuous food sources, nesting habitat, and shelter for bees, butterflies, and other pollinating insects throughout the growing season.
+A pollinator garden provides continuous food sources, nesting habitat, and shelter for bees, butterflies, and other pollinating insects throughout the [[savory-growing-season-and-non-growing-season-management]].
 
 Success depends on selecting a diverse mix of native flowering plants that bloom in succession.
 
@@ -45,13 +45,13 @@ Butterflies are attracted to red, orange, and pink blooms.
 
 Hummingbirds favor tubular flowers in red and orange.
 
-The [[yarrow-plant-guide]] describes one of the best all-around pollinator plants for any garden.
+The  describes one of the best all-around pollinator plants for any garden.
 
 ### Nesting and Habitat Features
 
 Flowers provide food, but pollinators also need places to nest and overwinter.
 
-Ground-nesting bees, which make up about 70 percent of native bee species, need patches of bare, well-drained soil.
+Ground-nesting bees, which make up about 70 percent of [[comparison-native-bee-pollinators-vs-honeybees]] species, need patches of bare, well-drained soil.
 
 Cavity-nesting bees use hollow plant stems, dead wood, or insect hotels.
 
@@ -61,7 +61,7 @@ Leaving some areas of your garden slightly wild provides essential habitat.
 
 Dead perennial stems left standing through winter harbor overwintering insects.
 
-Leaf litter provides insulation for ground-nesting bees and butterfly pupae.
+[[dighton-fungal-decomposition-leaf-litter-dynamics]] provides insulation for ground-nesting bees and butterfly pupae.
 
 A tidy garden is often a pollinator-poor garden.
 
@@ -71,18 +71,18 @@ If you keep honeybees, your pollinator garden can serve a dual purpose.
 
 The [[beekeeping-seasonal-calendar]] helps you align your garden bloom times with honeybee colony needs.
 
-Strong early spring forage helps colonies build up after winter.
+Strong [[coleman-overwintered-onions-and-early-spring-crops]] forage helps colonies build up after winter.
 
-Abundant fall bloom supports winter preparation and reduces the need for supplemental feeding.
+Abundant fall bloom supports winter preparation and reduces the need for [[savory-supplemental-feeding-and-winter-management]].
 
 ### Pest Management Considerations
 
 A pollinator garden must be managed without synthetic insecticides.
 
-The [[bee-forage-plants]] for species selection
+The  for species selection
 - Native plants provide the best nutrition for local pollinators and require less maintenance than ornamentals
 - Include nesting habitat: bare soil for ground-nesting bees, stems and dead wood for cavity nesters
-- [[mollison-designers-integrated-pest-management-design]] principles
+- mollison-designers-integrated-pest-management-design principles
 
 ## Related
 

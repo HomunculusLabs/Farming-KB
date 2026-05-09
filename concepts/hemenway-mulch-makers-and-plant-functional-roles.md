@@ -1,5 +1,5 @@
 ---
-title: Mulch Makers and Plant Functional Roles
+title: hemenway mulch makers and plant functional roles and Plant Functional Roles
 created: 2026-04-26
 tags: [plants, mulch, soil-building, permaculture, guilds]
 date: 2026-04-25
@@ -14,8 +14,8 @@ type: concept
 Toby Hemenway organizes plants not by species or appearance but
 by the ecological roles they play in the garden. This functional
 approach to plant selection is central to [[comfrey-multifunctional-guild-plant]],
-Jerusalem artichoke, ferns, reeds, and nasturtium. Many
-varieties used for [[gaias-garden-living-mulches-ground-covers]] approach is particularly
+[[comparison-jerusalem-artichoke-vs-potato]], ferns, reeds, and nasturtium. Many
+varieties used for gaias-garden-living-mulches-ground-covers approach is particularly
 useful in [[dynamic-accumulator-plants-phosphorus]] plants keep
 nutrients cycling within the yard and reduce the need for
 purchased fertilizers.
@@ -37,23 +37,23 @@ replacing them with other varieties.
 Nitrogen-fixing plants harbor bacteria or fungi among their
 roots that extract nitrogen from the air and convert it to
 plant-available form. These plants come in all sizes, from
-ground covers such as clover, to shrubs, to trees like black
+[[permaculture-plants-food-forest-ground-covers-bamboos]] such as clover, to shrubs, to trees like black
 locust, alder, and acacia. These fast-growing plants can be
 slashed to provide a rich stock for mulch or compost.
 
 Live nitrogen fixers are at least as growth-boosting as dead
 ones. Both research and Hemenway's experience show that the
 presence of living N-fixers benefits neighboring plants,
-likely through root exudates and shared mycorrhizal networks.
-See [[gaias-garden-host-plants-beneficial-insects]] and
-[[gaias-garden-deer-deflecting-food-hedges]]. For salad greens that also break up clay soil, plant
+likely through [[mycorrhizal-root-exudates-pathogen-interactions]] and shared [[dighton-mycorrhizal-networks-carbon-transfer]].
+See gaias-garden-host-plants-beneficial-insects and
+gaias-garden-deer-deflecting-food-hedges. For salad greens that also break up clay soil, plant
 chicory.
 
-[[hemenway-invasive-plant-management]]
+hemenway-invasive-plant-management
 
 - [[dynamic-accumulators]]
-- [[gaias-garden-mulch-plants-ecological-garden]]
-- [[gaias-garden-living-mulches-ground-covers]]
+- gaias-garden-mulch-plants-ecological-garden
+- gaias-garden-living-mulches-ground-covers
 ## Practical Considerations
 
 When working with Mulch Makers and Plant Functional Roles, several practical factors should be
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

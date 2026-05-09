@@ -20,7 +20,7 @@ last-year prevalence, and 1% last-month prevalence.
 Prevalence of hallucinogenic mushroom use was consistently much lower than for
 cannabis, where lifetime prevalence among 18-36 year olds ranged from 15%
 (Poland) to 45% (Denmark). Importantly, the proportion of current users among
-those who had ever used hallucinogenic mushrooms was lower than for both
+those who had ever used [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] was lower than for both
 cannabis and ecstasy, suggesting limited repeat use. The effects of the mushrooms
 themselves appear to limit the appeal of regular consumption.
 
@@ -58,9 +58,9 @@ Non-probability surveys conducted in dance music settings across Belgium, France
 Hungary, Italy, the Netherlands, and UK revealed dramatically higher prevalence
 estimates than general population surveys. Lifetime prevalence among clubbers
 ranged from 9% in Budapest to 55% in France, depending on the specific setting,
-country, and survey methodology.
+country, and [[emcdda-hallucinogenic-mushroom-survey-methodology-data-limitations]].
 
-The consistent finding across all non-probability clubbing surveys was that drug
+The consistent finding across all non-probability [[emcdda-hallucinogenic-mushroom-clubbing-surveys-and-prevalence]] was that drug
 prevalence estimates were substantially higher than those found in general or
 school populations. Within club samples, polydrug use tended to cluster in the
 same individuals. In a 2000 survey of 760 clubbers from six south-east England
@@ -93,7 +93,7 @@ obtain ranged from 4% to 28%. Under 10% reported easy access in Cyprus, Finland,
 Greece, Hungary, Latvia, Lithuania, Romania, and Turkey, while over 20% reported
 easy access in the Czech Republic, Ireland, Italy, Poland, and the UK. Despite
 the lack of legal sanctions, only 16% of Dutch school students reported easy
-access. Following the 2005 UK legal change, 67% of Mixmag survey respondents
+access. Following the 2005 UK legal change, 67% of [[emcdda-mixmag-survey-magic-mushroom-prevalence-trends-2000-2005]] respondents
 reported mushrooms were less available than previously.
 
 ## Telephone Helpline Data

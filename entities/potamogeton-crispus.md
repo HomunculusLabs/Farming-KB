@@ -12,8 +12,8 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Catling, P.M. & Dobson, J. (1985). "The biology of Canadian weeds: Potamogeton crispus L." Canadian Journal of Plant Science, 65(3), 655-667.
-  - Ceska, A. & Ceska, O. (1986). "Potamogeton × cooperi (P. crispus × P. perfoliatus) in North America." Rhodora, 88(854), 167-172.
-  - Haynes, R.R. (1974). "A revision of North American Potamogeton subsection Pectinati." University of Alabama Studies in Natural History, 14, 1-89.
+  - Ceska, A. & Ceska, O. (1986). "Potamogeton × cooperi (P. crispus × P. perfoliatus) in [[psilocybin-north-america-pacific-northwest]]." Rhodora, 88(854), 167-172.
+  - Haynes, R.R. (1974). "A revision of [[growing-gourmet-north-american-reishi-species]] Potamogeton subsection Pectinati." University of Alabama Studies in Natural History, 14, 1-89.
   - Lansdown, R.V. (2006). "Potamogeton crispus L." In: IUCN Red List of Threatened Species. IUCN.
   - Nichols, S.A. & Shaw, B.H. (1986). "Ecological life histories of the three aquatic nuisance plants, Myriophyllum spicatum, Potamogeton crispus, and Elodea canadensis." Hydrobiologia, 131(1), 3-21.
   - Wiegleb, G. (1988). "Analysis of flora and vegetation in rivers: concepts and applications." In: Symoens, J.J. (ed.), Vegetation of Inland Waters. Springer.
@@ -73,7 +73,7 @@ A distinctive phenological pattern characterizes the species: it grows primarily
 
 In its native range, *P. crispus* is a normal component of aquatic plant communities and rarely dominates. In introduced ranges, particularly in North America, it can become aggressively invasive.
 
-Invasive populations form dense monospecific beds that exclude native aquatic vegetation, reduce dissolved oxygen during decomposition, and impede water flow and recreational activities.
+Invasive populations form dense monospecific beds that exclude native aquatic vegetation, reduce [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] during decomposition, and impede water flow and recreational activities.
 
 The species spreads primarily through vegetative reproduction. The turions (overwintering buds) are easily transported on boats, trailers, and waterfowl, enabling rapid colonization of new water bodies.
 
@@ -89,11 +89,11 @@ Waterfowl consume the turions and foliage, particularly diving ducks. The specie
 
 *P. crispus* is an effective bioaccumulator of nitrogen and phosphorus. Dense beds can remove significant quantities of nutrients from the water column, contributing to improved water clarity.
 
-Studies have documented nitrogen uptake rates of 50–200 mg N/m²/day and phosphorus uptake rates of 5–20 mg P/m²/day during peak growing season.
+Studies have documented nitrogen uptake rates of 50–200 mg N/m²/day and phosphorus uptake rates of 5–20 mg P/m²/day during peak [[savory-growing-season-and-non-growing-season-management]].
 
 The species also accumulates heavy metals including lead, zinc, copper, and cadmium from contaminated sediments. Metal concentrations in plant tissue can exceed ambient water concentrations by orders of magnitude.
 
-This bioaccumulation capacity has been investigated for phytoremediation of eutrophic and metal-contaminated waterways. The species has been used in constructed wetlands for wastewater treatment in experimental settings.
+This bioaccumulation capacity has been investigated for phytoremediation of eutrophic and metal-contaminated waterways. The species has been used in [[comparison-constructed-wetlands-vs-bioswales]] for [[mollison-designers-wastewater-treatment-wetlands]] in experimental settings.
 
 However, the rapid die-back in summer can release accumulated nutrients and metals back into the water column during decomposition, creating a seasonal water quality pulse.
 

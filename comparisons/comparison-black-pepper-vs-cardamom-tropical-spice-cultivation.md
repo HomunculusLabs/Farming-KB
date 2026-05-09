@@ -1,5 +1,5 @@
 ---
-title: "Black Pepper vs Cardamom: Tropical Spice Cultivation Comparison"
+title: "[[comparison-black-locust-vs-honey-locust]] pepper vs cardamom tropical spice cultivation vs Cardamom: Tropical Spice Cultivation Comparison"
 tags:
   - black-pepper
   - cardamom
@@ -19,9 +19,9 @@ sources:
 
 ## Overview
 
-Black pepper (*Piper nigrum*) and cardamom (*[[irrigation-systems]] are increasingly adopted in commercial pepper plantations in India, Vietnam, and Indonesia. Mulching the root zone with dried leaves or coconut coir also helps retain soil moisture between rainfall events.
+Black pepper (*[[piper-nigrum-entity]]*) and cardamom (*[[irrigation-systems]] are increasingly adopted in commercial pepper plantations in India, Vietnam, and Indonesia. Mulching the root zone with dried leaves or coconut coir also helps retain soil moisture between rainfall events.
 
-Cardamom is relatively less demanding of mineral fertilizers but responds strongly to organic amendments. Farmyard manure or [[gottlieb-psilocybin-cultivation-harvesting-and-drying]] floors and sun-dried for 7–10 days, during which the berries shrivel and turn black.
+Cardamom is relatively less demanding of mineral fertilizers but responds strongly to [[cervantes-organic-amendments-chart]]. Farmyard manure or [[gottlieb-psilocybin-cultivation-harvesting-and-drying]] floors and sun-dried for 7–10 days, during which the berries shrivel and turn black.
 
 For white pepper, fully ripe berries are retted in flowing water for 7–10 days, the outer pericarp is rubbed off, and the clean kernels are dried to a pale cream color. Green pepper is preserved by pickling in brine or vinegar, or by freeze-drying and sulphuring to retain its fresh color.
 
@@ -31,11 +31,11 @@ Post-harvest, capsules are cured in drying chambers or flue-cured kilns at 45–
 
 ## Pest & Disease Challenges
 
-Pepper suffers from devastating *Phytophthora capsici* foot rot, which can kill entire vines within weeks during heavy monsoons — this is the single most destructive pepper disease globally. Quick wilt, caused by *Fusarium solani*, and anthra [[integrated-pest-management]] t management and strict use of virus-free planting material from accredited nurseries are essential for sustainable cardamom production. Removing and destroying infected clumps is critical for katte virus containment.
+Pepper suffers from devastating *Phytophthora capsici* foot rot, which can kill entire vines within weeks during heavy monsoons — this is the single most destructive pepper disease globally. Quick wilt, caused by *[[fusarium-solani]]*, and anthra [[integrated-pest-management]] t management and strict use of virus-free planting material from accredited nurseries are essential for sustainable cardamom production. Removing and destroying infected clumps is critical for katte virus containment.
 
 ## Economic Considerations
 
-Black pepper offers a comparatively faster return on investment relative to land use, with substantially higher per-hectare yields of 1,500–3,000 kg dried. Dried [[comparison-cinnamon-vs-clove-tropical-spice-cultivation]]
+Black pepper offers a comparatively faster return on investment relative to land use, with substantially higher per-hectare yields of 1,500–3,000 kg dried. Dried comparison-cinnamon-vs-clove-tropical-spice-cultivation
 ## Practical Applications
 
 Black Pepper vs Cardamom: Tropical Spice Cultivation Comparison has a range of practical applications that make it relevant to
@@ -53,7 +53,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -103,7 +103,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -113,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

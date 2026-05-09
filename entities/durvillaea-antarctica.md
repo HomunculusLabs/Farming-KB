@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-**Durvillaea antarctica**, commonly known as bull kelp, cochayuyo, or rimurapa, is a large brown alga in the family Lessoniaceae. It is the dominant intertidal kelp of the Southern Hemisphere, forming extensive beds along the coasts of Chile, New Zealand, and subantarctic islands.
+**Durvillaea antarctica**, commonly known as bull kelp, cochayuyo, or rimurapa, is a large brown alga in the family Lessoniaceae. It is the dominant intertidal kelp of the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], forming extensive beds along the coasts of Chile, New Zealand, and subantarctic islands.
 
 The species is remarkable for its buoyant, honeycomb-filled fronds and its role in long-distance rafting dispersal. It is culturally significant as a traditional food source for Māori and Mapuche peoples and is commercially harvested in Chile.
 
@@ -68,17 +68,17 @@ D. antarctica beds attenuate wave energy and reduce coastal erosion. In Chile, l
 
 Cochayuyo is harvested commercially in Chile for human consumption. The dried fronds are sold in markets and used in traditional stews, salads, and ceviches. Commercial production exceeds several thousand tonnes annually.
 
-In New Zealand, rimurapa has been used by Māori for centuries as food, storage containers, and fishing floats. Traditional preparation involves beating and drying the fronds, which can be stored for extended periods.
+In New Zealand, rimurapa has been used by Māori for centuries as food, storage containers, and fishing floats. [[kava-traditional-preparation-ceremonial-context]] involves beating and drying the fronds, which can be stored for extended periods.
 
 The species is investigated as a source of fucoidan for nutraceutical and pharmaceutical applications. Alginate extraction has been explored but is not commercially competitive with Macrocystis-derived alginate. Its rapid growth and accessibility make it attractive for integrated multi-trophic aquaculture systems.
 
 ## Cultivation
 
-Direct cultivation of D. antarctica has proven challenging due to its fucalean life cycle, which lacks a free-living microscopic phase. Unlike kelps with alternation of generations, fucales produce gametes directly from the thallus, complicating hatchery-based propagation.
+Direct cultivation of D. antarctica has proven challenging due to its fucalean [[bloomfield-fungal-life-cycle-spiral-versus-circle]], which lacks a free-living microscopic phase. Unlike kelps with alternation of generations, fucales produce gametes directly from the thallus, complicating hatchery-based propagation.
 
 Experimental outplanting of wild-collected juveniles onto artificial substrates has shown promise in Chile. Rope-culture methods adapted from Macrocystis cultivation have achieved modest growth rates but face high mortality from wave damage.
 
-Indirect cultivation via spore settlement on seeded ropes has been attempted. Sporophyte development is slow compared to laminarialean kelps, and the species' preference for high-energy environments makes farm site selection critical.
+Indirect cultivation via spore settlement on seeded ropes has been attempted. Sporophyte development is slow compared to laminarialean kelps, and the species' preference for high-energy environments makes farm [[fukuoka-textdoc-farm-establishment-site-selection-soil-prep]] critical.
 
 ## Rafting and Dispersal
 
@@ -98,7 +98,7 @@ Taxonomic revision of the genus is ongoing, with molecular phylogenetics reveali
 
 ## Conservation Status
 
-D. antarctica faces increasing pressure from climate change, overharvesting, and habitat degradation along parts of its range. Sea surface warming has been linked to range contraction at the northern edges of its distribution in Chile.
+D. antarctica faces increasing pressure from [[dighton-fungi-climate-change-feedback]], overharvesting, and habitat degradation along parts of its range. Sea surface warming has been linked to range contraction at the northern edges of its distribution in Chile.
 
 The 2015–2016 El Niño event caused widespread die-offs of bull kelp beds in northern Chile, with recovery proceeding slowly. Marine heatwaves are projected to increase in frequency and intensity under climate change scenarios.
 

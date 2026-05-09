@@ -11,14 +11,14 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Gartz J (1989). "Biotransformation of tryptamine derivatives in mycelial
-    cultures of Psilocybe cubensis." Journal of Basic Microbiology, 29(5): 347-352.
+    cultures of [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]." Journal of Basic Microbiology, 29(5): 347-352.
   - Shulgin A, Shulgin A (1997). "TIHKAL: The Continuation." Transform Press.
   - Speeter MM, Anthony WC (1954). "Analogs of bufotenine." Journal of the
     American Chemical Society, 76(22): 5889-5891.
   - Passie T, Halpern JH, Stichtenoth DO, Emrich HM, Hintzen A (2008).
     "The pharmacology of psilocybin." Addiction Biology, 13(3-4): 263-278.
   - Repke DB, Leslie DT, Guzman G (1977). "Baeocystin and norbaeocystin:
-    new analogs of psilocybin from Psilocybe baeocystis." Journal of
+    new analogs of psilocybin from [[stamets-psi-psilocybe-baeocystis-knobby-tops]]." Journal of
     Pharmaceutical Sciences, 66(5): 743-744.created: 2026-05-07
 
 created: 2026-05-07
@@ -69,7 +69,7 @@ compound responsible for the psychedelic effects.
 Psilocin is a partial agonist at the 5-HT2A receptor (Ki ≈ 6 nM), with
 additional activity at 5-HT2C, 5-HT1A, and 5-HT1B receptors. The 5-HT2A
 activation in cortical layer V pyramidal neurons is the primary mechanism
-driving the characteristic altered states of consciousness.
+driving the characteristic [[weil-the-natural-mind-altered-states-normalcy]] of consciousness.
 
 Psilocin also binds to serotonin transporter (SERT) and trace amine-
 associated receptor 1 (TAAR1), contributing to its complex pharmacological
@@ -113,7 +113,7 @@ in *E. coli* and *Saccharomyces cerevisiae* for biotechnological production.
 
 Psilocybin is classified as a Schedule I controlled substance under the
 United Nations Convention on Psychotropic Substances (1971). It is
-Schedule I in the United States, Class A in the UK, and prohibited in most
+Schedule I in the [[dmt-containing-plants-united-states-halpern]], Class A in the UK, and prohibited in most
 nations worldwide.
 
 Regulatory reform is underway in several jurisdictions. Oregon (USA) and
@@ -121,7 +121,7 @@ Australia's Therapeutic Goods Administration have authorized therapeutic
 use under supervised clinical settings as of 2023–2024. Canada permits
 compassionate use through special access programs.
 
-Natural-growing psilocybin mushrooms are decriminalized in jurisdictions
+Natural-growing [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] are decriminalized in jurisdictions
 including the Netherlands (fresh, not dried), several US cities, and parts
 of Brazil.
 ## Related Compounds
@@ -138,7 +138,7 @@ lower potency.
 
 - [[psilocin]]
 - [[baeocystin]]
-- [[4-aco-dmt]]
+- [[4-acetoxy-dmt]]
 - [[tryptamine]]
 - [[dimethyltryptamine]]
 - [[serotonin]]

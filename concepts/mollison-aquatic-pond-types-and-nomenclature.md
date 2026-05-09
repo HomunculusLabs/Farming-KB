@@ -1,5 +1,5 @@
 ---
-title: Aquatic Pond Types and Nomenclature
+title: mollison aquatic pond types and nomenclature Types and Nomenclature
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
@@ -16,9 +16,9 @@ sources:
 # Aquatic Pond Types and Nomenclature
 
 Some nomenclature of man-made waterworks is necessary to understand the
-figures and systems outlined in permaculture design. The classification
+figures and systems outlined in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. The classification
 follows the work of Chakroff and Yeoman. Understanding these categories is
-essential for anyone working with [[permaculture-dam-design]] for optimal siting and
+essential for anyone working with permaculture-dam-design for optimal siting and
 construction.
 ## Diversion Ponds
 
@@ -31,7 +31,7 @@ This type of pond is particularly valuable where the main watercourse is
 located far from the point of use, or where the terrain between the water
 source and the desired storage location makes a direct barrage impractical.
 Diversion channels can also serve multiple purposes, acting as
-[[faires-aquaculture-pond-systems]]
+faires-aquaculture-pond-systems
 where consistent water depth is important for species
 health.
 ## Contour Dams
@@ -43,7 +43,7 @@ types in permaculture design, as they can be placed at any suitable point
 along a slope to capture
 runoff.
 The siting of contour dams follows similar principles to
-[[mollison-fish-pond-construction]].
+mollison-fish-pond-construction.
 ## Overflow Screens and Spillways
 
 Overflows are piped or boxed screens designed to keep fish ponds at constant
@@ -69,7 +69,7 @@ which are made to direct overland flow of water across paddocks or into
 specific storages. Despite their modest construction, steering banks can have
 a profound effect on how water moves through a landscape, preventing erosion
 and ensuring that rainfall is captured rather than lost as runoff. The use of
-steering banks is complementary to [[mollison-swale-design-details]] in
+steering banks is complementary to mollison-swale-design-details in
 managing water across broad
 landscapes.
 ## Practical Considerations
@@ -90,4 +90,9 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[permaculture-design]]
+- [[mollison-pdc-small-pond-frog-habitat-design]]
+- [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]
+- [[mollison-designers-pond-edge-configuration-and-yield-maximisation]]
+- [[mollison-designers-check-dam-types-and-landscape-placement]]

@@ -1,5 +1,5 @@
 ---
-title: Valerian Growing Guide
+title: Valerian comparison-bean-growing-guide-vs-pepper-growing-guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -48,7 +48,7 @@ Key medicinal applications:
 - Muscle spasms: Anti-spasmodic properties help relieve menstrual cramps,
   intestinal cramps, and muscle tension.
 - Mild pain relief: Can be combined with other herbs for headache and
-  menstrual pain management.
+  menstrual [[cannabis-pain-management-protocols]].
 
 Preparation methods:
 - Tincture: Fresh root tincture (1:2 in 50-70% alcohol), 20-40 drops before
@@ -70,7 +70,7 @@ advise periodic breaks from regular use.
 ### Site Selection
 Valerian prefers partial shade to full sun. In hotter climates, afternoon
 shade is beneficial. It thrives in rich, deep, moisture-retentive soil with
-plenty of organic matter. A consistent moisture supply is important for good
+plenty of [[hamilton-composting-and-organic-matter-management]]. A consistent moisture supply is important for good
 root development. Valerian naturally grows along stream banks and in moist
 meadows, so replicating these conditions yields the best results.
 
@@ -92,7 +92,7 @@ From seed:
   delicate at this stage
 
 From division:
-- Divide established crowns in early spring or fall
+- Divide established crowns in [[coleman-overwintered-onions-and-early-spring-crops]] or fall
 - Each division should have several buds and a good root mass
 - Replant immediately and keep well-watered
 - Division is the fastest method to establish a productive patch
@@ -108,7 +108,7 @@ From root cuttings:
 - Plants develop into large clumps over time
 
 ### Care and Maintenance
-- Keep soil consistently moist, especially during the first growing season
+- Keep soil consistently moist, especially during the first [[savory-growing-season-and-non-growing-season-management]]
 - Mulch heavily with organic matter to retain moisture and suppress weeds
 - Side-dress with compost in spring
 - Tall flower stems may need staking in windy locations
@@ -119,7 +119,7 @@ From root cuttings:
 
 Valerian is relatively pest-free. Cats are notably attracted to valerian
 root (similar to catnip) and may dig up or damage plants. Protect young
-plants with wire cages if cats are present. Slugs and snails may damage
+plants with wire cages if cats are present. [[query-how-to-get-rid-of-slugs-and-snails-organically]] may damage
 young foliage. Rust and leaf spot can occur in humid conditions but are
 rarely serious.
 
@@ -137,28 +137,6 @@ Timing is critical for valerian root harvest:
 Harvesting method:
 1. Cut back above-ground growth to 2-3 inches
 2. Dig around the plant with a digging fork, starting 8-12 inches from the
-   crown to avoid cutting roots
-3. Lift the entire root mass
-4. Shake off excess soil; do not wash roots until ready to process (moisture
-   promotes mold during storage)
-
-## Processing and Storage
-
-- Wash roots thoroughly, removing all soil
-- Cut larger roots into 1/4 inch slices; smaller roots can be left whole
-- For tincturing: Process fresh roots immediately into alcohol
-- For drying: Spread pieces on screens in a warm, well-ventilated area
-  (95-105 degrees F in a dehydrator)
-- Roots are dry when they snap cleanly with no flexible center
-- Dried roots have an extremely strong, pungent odor -- store in airtight
-  containers in a location where the smell won't be problematic
-- Store in a cool, dark place; potency lasts 1-2 years
-
-## Yields
-
-Expect approximately 0.5-1 lb of fresh root per plant (2nd year), yielding
-roughly 0.15-0.3 lb dried per plant.
-
 ## See Also
 
 - [[passionflower-growing-guide]] -- combine with valerian in sleep and

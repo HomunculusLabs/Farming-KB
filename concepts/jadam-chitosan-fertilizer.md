@@ -1,5 +1,5 @@
 ---
-title: JADAM Chitosan Liquid Fertilizer
+title: JADAM Chitosan jadam-liquid-fertilizer-nutritional-perspective
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # JADAM Chitosan Liquid Fertilizer
 
-Chitosan is produced when microorganisms break down crab and shrimp shells. The
+Chitosan is produced when microorganisms [[query-can-fungi-break-down-plastic-pollution]] crab and shrimp shells. The
 resulting JLF contains a whole variety of minerals including calcium, making it
 effective for controlling growth and increasing taste and aroma.
 
@@ -20,7 +20,7 @@ component of crustacean shells (crab, shrimp, lobster). When microorganisms
 decompose chitin, they produce chitosan, which has well-documented benefits:
 
 - **Plant defense activation:** Triggers natural immune responses in plants
-- **Growth control:** Helps manage excessive vegetative growth
+- **Growth control:** Helps manage excessive [[cannabis-vegetative-growth-stage]]
 - **Taste and aroma:** Improves sensory quality of produce
 - **Mineral diversity:** Provides calcium plus many trace minerals
 - **Fungal suppression:** Chitosan has natural antifungal properties
@@ -31,7 +31,7 @@ decompose chitin, they produce chitosan, which has well-documented benefits:
 - Crab shell powder: 1 part by weight (10 kg per 100 L)
 - Shrimp shell powder: can substitute or mix with crab shells
 - Water: 10 parts by weight
-- Wild grass: some (aids decomposition)
+- [[jadam-cover-crop-wild-grass-symbiosis]]: some (aids decomposition)
 - [[jadam-calcium-fertilizer]]
 - Also contains copper (0.701 mg/kg) which aids enzyme activation
 - Shells must be thoroughly dried before grinding -- moisture causes clumping
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

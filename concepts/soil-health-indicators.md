@@ -17,7 +17,7 @@ tags:
 - compost
 
 sources:
-- raw/papers/teaming-with-microbes-lowenfels.md
+sources: []
 ---
 
 # Soil Health Indicators
@@ -28,10 +28,10 @@ Healthy soil can be assessed through biological, physical, and chemical indicato
 
 ### Earthworms
 - **The single most visible indicator of soil health.** If earthworms are present, the soil food web is functioning.
-- A healthy garden soil should have 25-30 earthworms per cubic foot
+- A [[query-how-to-build-healthy-garden-soil]] soil should have 25-30 earthworms per cubic foot
 - Earthworms aerate soil, create macropores for water infiltration, and their castings are rich in plant-available nutrients
-- Worms appear only when there is organic matter to eat and soil chemistry isn't toxic
-- No earthworms = chemical fertilizers, pesticides, or compaction have killed the food web
+- Worms appear only when there is [[hamilton-composting-and-organic-matter-management]] to eat and soil chemistry isn't toxic
+- No earthworms = [[cervantes-chemical-fertilizers-guide]], pesticides, or compaction have killed the food web
 
 ### Mycorrhizal Fungi
 - Look for white/cream thread-like networks in the root zone
@@ -47,7 +47,7 @@ Healthy soil can be assessed through biological, physical, and chemical indicato
 ### Protozoa and Nematodes
 - Require a microscope but are critical indicators
 - Protozoa graze on bacteria, releasing plant-available nitrogen
-- Beneficial nematodes indicate balanced predator-prey dynamics
+- [[ingham-beneficial-nematodes-soil-food-web]] indicate balanced predator-prey dynamics
 - See [[soil-food-web-nutrient-cycling]] for the full trophic cascade
 
 ## Physical Indicators
@@ -65,7 +65,7 @@ Healthy soil can be assessed through biological, physical, and chemical indicato
 ### Root Growth Patterns
 - Healthy plants develop extensive, branching root systems
 - Mycorrhizal associations extend effective root zone 10-100x
-- Poor root development often indicates biological deficiency, not nutrient deficiency
+- Poor root development often indicates biological deficiency, not [[cannabis-grow-nutrient-deficiency-problem-solving]]
 
 ### Earthworm Castings on Surface
 - Visible castings indicate active worm populations
@@ -86,7 +86,7 @@ Healthy soil can be assessed through biological, physical, and chemical indicato
 ### pH Range
 - 6.0-7.0 is ideal for most crops
 - Extreme pH locks out nutrients regardless of how much is present
-- See [[soil-testing]] for proper testing methods
+- See [[soil-testing]] for proper [[soil-testing-methods-interpretation]]
 
 ## The Shovelmeter Test
 
@@ -109,4 +109,3 @@ The simplest soil health assessment:
 - [[soil-testing]] — laboratory testing methods
 - [[compost-tea-aact]] — how to restore soil biology
 - [[no-till-gardening-method]] — practices that protect soil health
-- [[soil-food-web-nutrient-cycling]] — the philosophy of biological soil management

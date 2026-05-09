@@ -1,5 +1,5 @@
 ---
-title: Tabernanthe Iboga and the Bwiti Cult
+title: plants-of-the-gods-tabernanthe-iboga-chemistry and the iboga-and-the-bwiti-cult-initiation
 created: 2026-04-28
 tags:
   - ethnobotany
@@ -15,14 +15,14 @@ type: concept
 ---
 
 # [[schultes-ergot-st-anthonys-fire]] for another source of
-  psychoactive alkaloids with medical applications
+  psychoactive alkaloids with [[oner-sativa-medical-applications]]
 - [[plants-of-the-gods-cannabis-ancient-cultures]] for psychoactive
-  plants with widespread cultural significance across continents
+  plants with widespread [[ethnomycology-cultural-significance-sacred-fungi]] across continents
 - [[schultes-peyote-tracks-little-deer]] for another cactus with
   deep ceremonial importance to indigenous peoples
 ## Practical Applications
 
-Tabernanthe Iboga and the Bwiti Cult has a range of practical applications that make it relevant to
+[[plants-of-the-gods-tabernanthe-iboga]] and [[iboga-and-the-bwiti-cult-initiation]] has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -37,7 +37,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -87,7 +87,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -97,4 +97,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

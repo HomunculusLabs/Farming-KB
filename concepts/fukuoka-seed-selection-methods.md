@@ -1,11 +1,12 @@
 ---
-title: Fukuoka Seed Selection Methods
+title: Fukuoka cannabis-seed-selection-and-strain-types Methods
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka Seed Selection Methods
 
@@ -20,13 +21,13 @@ Fukuoka drew a sharp distinction between modern "improved" seed varieties and tr
 - Bred for uniform appearance, large size, and market appeal
 - Often weak and disease-prone without chemical support
 - Require a full program of chemical inputs to perform well
-- The "Green Revolution" and "Good Rice Movement" varieties depend on eight to ten chemical sprayings per growing season
+- The "Green Revolution" and "Good Rice Movement" varieties depend on eight to ten chemical sprayings per [[savory-growing-season-and-non-growing-season-management]]
 
 **Traditional/natural varieties** are adapted to local conditions over generations:
 - Develop strong root systems and compact, sturdy growth
 - Naturally resistant to local diseases and insects
 - Thrive without chemical inputs
-- May produce less vegetative growth but proportionally more grain
+- May produce less [[cannabis-vegetative-growth-stage]] but proportionally more grain
 - Evolved through "dwelling together with human beings" over thousands of years
 
 Fukuoka stated: "If farmers would stop using weak, 'improved' seed varieties, stop adding too much nitrogen to the soil, and reduce the amount of irrigation water so that strong roots could develop, these diseases would all but disappear."
@@ -45,11 +46,11 @@ He noted: "If you show a rice plant from my field to a farmer, he will know imme
 
 ## His Experiment with Traditional Rice
 
-Fukuoka experimented with an old variety of glutinous rice from southern Japan. Results:
+Fukuoka experimented with an old variety of [[fukuoka-tokugawa-glutinous-rice-revival]] from southern Japan. Results:
 - Each seed produced an average of 12 stalks
 - About 250 grains per head
-- Some areas yielded 27.5 bushels (1,650 lbs) per quarter acre
-- He believed this variety could approach "the greatest theoretically obtainable harvest from the solar energy reaching the field"
+- Some areas yielded 27.5 bushels (1,650 lbs) per [[fukuoka-agriculture-tomorrow-quarter-acre-vision]]
+- He believed this variety could approach "the greatest theoretically obtainable harvest from the [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] reaching the field"
 
 ## Selection Criteria
 
@@ -80,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

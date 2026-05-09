@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly Staff (2023). "Kushi Mints Weed Strain Information." Leafly.com.
-  - AllBud (2024). "Kushi Mints Cannabis Strain Review." AllBud.com.
+  - AllBud (2024). "Kushi Mints [[blesching-cannabis-strain-selection-receptor-targeting]] Review." AllBud.com.
   - Cookies Genetics breeding records, Bay Area, California.
   - Phylos Bioscience (2023). "Cannabis Genetic Diversity Report." Phylos Galaxy.
   - Weedmaps (2024). "Kushi Mints Strain Overview." Weedmaps.com.
@@ -20,11 +20,11 @@ created: 2026-04-28
 
 ## Overview
 
-Kushi Mints is a modern hybrid cannabis strain bred by **Cookies Genetics** (formerly Cookie Fam) of the San Francisco Bay Area.
+Kushi Mints is a modern hybrid cannabis strain bred by **Cookies Genetics** (formerly Cookie Fam) of the [[shipibo-san-francisco-ceremonial-center-ucayali]] Bay Area.
 
 It combines the heavy, sedating body effects of its indica-dominant lineage with a complex minty, herbal, and slightly sweet flavor profile that has earned it a dedicated following among connoisseurs.
 
-The strain emerged from the prolific breeding program that produced many of the most sought-after modern cannabis varieties. Its name references both the Kush heritage in its lineage and the prominent minty terpene character.
+The strain emerged from the prolific [[cervantes-breeding-program-design-goal-setting]] that produced many of the most sought-after modern cannabis varieties. Its name references both the Kush heritage in its lineage and the prominent minty terpene character.
 
 Kushi Mints typically tests between 22–28% THC, placing it firmly in the high-potency category. It has received favorable reviews for stress relief, body relaxation, and evening use.
 
@@ -44,7 +44,7 @@ Buds are medium to large in size with a dense, tightly packed structure typical 
 
 The calyxes are chunky and well-defined, with bright green coloring interspersed with deep purple and violet hues. The purple expression is most pronounced in plants exposed to cooler nighttime temperatures during the final weeks of flowering.
 
-Trichome coverage is exceptionally heavy, giving the buds a frosted, almost white appearance even at a distance. The resin production is among the highest in the Cookies genetic line, making Kushi Mints popular for solvent-based and solventless extract production.
+Trichome coverage is exceptionally heavy, giving the buds a frosted, almost white appearance even at a distance. The [[cannabis-glandular-trichome-types-resin-production-clarke]] is among the highest in the Cookies genetic line, making Kushi Mints popular for solvent-based and solventless extract production.
 
 Pistils are relatively sparse but long, ranging from orange to rust-brown, and tend to curl tightly against the calyx surface. The overall visual impression is one of density and potency.
 
@@ -78,7 +78,7 @@ Within 15–20 minutes, the indica body effects begin to manifest. A warm, heavy
 
 In higher doses, the body stone can become quite sedative, leading to couch-lock and eventual sleepiness. The strain is best suited for late afternoon or evening use.
 
-Medical users report effectiveness for chronic pain, insomnia, anxiety, and stress-related conditions. The combination of mental calm and physical relaxation makes it particularly useful for patients dealing with both physical discomfort and mental tension.
+Medical users report effectiveness for [[cannabis-chronic-pain-management]], insomnia, anxiety, and stress-related conditions. The combination of mental calm and physical relaxation makes it particularly useful for patients dealing with both physical discomfort and mental tension.
 
 ## Cultivation
 
@@ -86,7 +86,7 @@ Kushi Mints is considered moderately difficult to cultivate, requiring some expe
 
 Indoor flowering time is approximately 8–10 weeks, with outdoor harvests typically ready by mid to late October in northern temperate climates. The plants have a moderately bushy growth pattern with strong lateral branching.
 
-Yields are moderate to above average when grown under optimal conditions. Indoor yields of 350–450 g/m² are typical, while outdoor plants can produce 400–600 g each depending on training method and growing season.
+Yields are moderate to above average when grown under optimal conditions. Indoor yields of 350–450 g/m² are typical, while outdoor plants can produce 400–600 g each depending on training method and [[savory-growing-season-and-non-growing-season-management]].
 
 The strain responds well to low-stress training (LST), scrogging, and topping. It is relatively resistant to common pests and molds but can be sensitive to nutrient burn, particularly during the mid-flowering stage when calyx production peaks.
 
@@ -117,7 +117,6 @@ The "Kush" pheno expresses more of the Bubba Kush heritage, with earthier aromas
 ## See Also
 
 - [[thin-mint-cookies]]
-- [[thin-mint-cookies]]
-- [[gelato-cannabis]]
+- [[gelato]]
 - [[cannabis-terpene-profiles]]
 - [[query-how-does-no-till-cannabis-cultivation-work]]

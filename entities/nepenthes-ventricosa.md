@@ -59,7 +59,7 @@ The pitcher fluid also supports a unique microecosystem. Certain bacteria, proto
 
 ## Cultivation
 
-**N. ventricosa** is considered one of the easiest highland Nepenthes species for beginners. Its compact growth habit makes it suitable for windowsill culture, terrariums, and small greenhouses.
+**N. ventricosa** is considered one of the easiest highland Nepenthes species for beginners. Its [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit makes it suitable for windowsill culture, terrariums, and small greenhouses.
 
 A well-draining mix of long-fiber sphagnum moss combined with perlite or orchid bark provides excellent growing conditions. Some growers use pure live sphagnum, which maintains consistent moisture while providing a natural substrate for root attachment.
 
@@ -83,15 +83,15 @@ The plant's morphology may be influenced by its ecological context. Populations 
 
 **N. ventricosa** has not been formally assessed for the IUCN Red List as of 2026. Its relatively wide distribution across multiple Philippine islands suggests a degree of natural resilience compared to range-restricted Nepenthes species.
 
-However, deforestation and habitat conversion remain significant threats. Montane forests in the Philippines are under pressure from agricultural expansion, particularly from vegetable farming and cattle grazing at elevations where the species naturally occurs.
+However, deforestation and habitat conversion remain significant threats. Montane forests in the Philippines are under pressure from agricultural expansion, particularly from [[jadam-vegetable-farming-techniques]] and cattle grazing at elevations where the species naturally occurs.
 
-Collection of wild plants for the horticultural trade has historically impacted some populations. Fortunately, the species is easily propagated from seed and tissue culture in cultivation, which has reduced demand for wild-collected specimens among reputable nurseries.
+Collection of wild plants for the horticultural trade has historically impacted some populations. Fortunately, the species is easily propagated from seed and [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] in cultivation, which has reduced demand for wild-collected specimens among reputable nurseries.
 
-Climate change poses a longer-term threat. Highland Nepenthes species are adapted to specific temperature and humidity regimes, and upward shifts in cloud base elevation could compress suitable habitat in the coming decades.
+[[dighton-fungi-climate-change-feedback]] poses a longer-term threat. Highland Nepenthes species are adapted to specific [[greg-green-temperature-and-humidity-control]] regimes, and upward shifts in cloud base elevation could compress suitable habitat in the coming decades.
 
 ## Reproduction and Propagation
 
-**N. ventricosa** is predominantly outcrossing in the wild, with flowers pollinated by flies and other insects attracted to the nectar-producing glands on the flower tepals. Male and female flowers are produced on separate plants, meaning at least two genetically distinct individuals are needed for seed production.
+**N. ventricosa** is predominantly outcrossing in the wild, with flowers pollinated by flies and other insects attracted to the nectar-producing glands on the flower tepals. Male and female flowers are produced on separate plants, meaning at least two genetically distinct individuals are needed for [[cervantes-seed-production-storage]].
 
 Seed capsules develop over several months and release numerous small, lightweight seeds adapted for wind dispersal. In the wild, seeds germinate on mossy surfaces in humid, shaded conditions. Germination rates are typically high under optimal conditions.
 

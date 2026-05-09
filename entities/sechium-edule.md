@@ -28,8 +28,8 @@ The plant produces a single-seeded, pear-shaped fruit that is consumed as a
 vegetable. All parts of the plant are edible: the fruit, young shoots and
 leaves, tuberous roots, and the nutrient-rich seed.
 
-Chayote is among the most productive perennial vegetables, with individual
-plants capable of producing 200–500 fruits per growing season. Its climbing
+Chayote is among the most productive [[comparison-perennial-vegetables-vs-cover-crops]], with individual
+plants capable of producing 200–500 fruits per [[savory-growing-season-and-non-growing-season-management]]. Its climbing
 habit and deep tuber system make it valuable in agroforestry and permaculture
 designs.
 
@@ -47,7 +47,7 @@ angular, and green, producing abundant adventitious roots at nodes that can
 anchor the vine and produce tubers.
 
 Leaves are simple, broadly ovate, 10–20 cm long, with 3–5 lobes and dentate
-margins. The leaf surface is rough to the touch due to trichomes.
+margins. The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is rough to the touch due to trichomes.
 
 Flowers are monoecious, with separate male and female flowers on the same
 plant. Male flowers are borne in axillary clusters, while female flowers are
@@ -63,7 +63,7 @@ content (90–95%).
 
 ## Distribution and Habitat
 
-*Sechium edule* is native to southern Mexico and Central America, with wild
+*Sechium edule* is native to southern Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], with wild
 populations reported in the highlands of Guatemala and southern Mexico.
 
 The species has been cultivated since pre-Columbian times. It was spread by
@@ -74,7 +74,7 @@ Optimal conditions include elevations of 300–2,000 m, temperatures of 18–28�
 and annual rainfall of 1,200–2,500 mm. It is frost-sensitive but tolerates
 light shade.
 
-The vine prefers deep, fertile, well-drained soils rich in organic matter. It
+The vine prefers deep, fertile, well-drained soils rich in [[hamilton-composting-and-organic-matter-management]]. It
 produces large tuberous storage roots that can survive dry seasons, enabling
 regrowth after drought or light frost.
 
@@ -116,7 +116,7 @@ Vitamin B6 0.08 mg, Potassium 125 mg, Dietary fiber 1.7 g, Protein 0.8 g.
 
 ## Ecological and Permaculture Applications
 
-The vine provides rapid shade and ground cover when trained over pergolas or
+The vine provides rapid shade and [[fukuoka-citrus-orchard-ground-cover-cultivation]] when trained over pergolas or
 along fences, making it useful for microclimate modification in food forests.
 
 Its deep root system helps prevent soil erosion on slopes. The large leaf

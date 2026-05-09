@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -27,12 +28,12 @@ stable seed lines.
 Intersex plants are often mistakenly called hermaphrodites, but the
 breeding literature distinguishes between them. Intersex plants are
 strictly genetic -- they have inherited a gene that triggers the
-intersex condition, even given a perfect growing environment. They
+intersex condition, even given a perfect [[cannabis-growing-environment-setup]]. They
 produce both pistillate and staminate flowers on the same individual
 under typical environmental conditions.
 
 Environmentally stressed females may also develop a few male flowers,
-but this is a stress response rather than a genetic predisposition.
+but this is a [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] rather than a genetic predisposition.
 The term "hermaphrodite" is more broadly applied to any plant showing
 both sex organs, regardless of cause.
 
@@ -91,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

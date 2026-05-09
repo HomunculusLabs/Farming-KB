@@ -1,5 +1,5 @@
 ---
-title: "Green Manures in Organic Gardening"
+title: "jeavons-green-manures-cover-crops in hamilton-geoffhamilton-nick-organic-gardening-companion-planting"
 created: 2026-04-28
 tags: [green-manure, soil-fertility, nitrogen-fixation,
       cover-crops, organic-gardening]
@@ -14,9 +14,9 @@ type: concept
 Green manure is a crop grown specifically to add organic
 matter to beds that are empty for a period of time. It is
 sown with the intention of digging it into the soil to
-provide organic matter and plant food. While more commonly
+provide [[hamilton-composting-and-organic-matter-management]] and plant food. While more commonly
 associated with farming, green manures have real value in
-the home garden, especially for light soils.
+the [[cool-climate-home-garden-mollison]], especially for light soils.
 
 ## Why Use Green Manures
 
@@ -91,13 +91,13 @@ a few days of wilting.
 ### Depth
 Do not bury the material deeper than about 6in (15cm).
 If the crop has become hard and woody, apply liquid
-fertilizer such as liquid seaweed or animal manure to
+fertilizer such as liquid seaweed or [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] to
 assist decomposition.
 
 ## Mustard as a Quick Green Manure
 
 Mustard is a fast-growing, low crop ideal for covering
-land empty for a few weeks during the growing season.
+land empty for a few weeks during the [[savory-growing-season-and-non-growing-season-management]].
 Sow seed in rows 0.5in (1cm) deep and 6in (15cm) apart.
 When seedlings reach 6 to 9in (15 to 20cm) tall, before
 flowering, cut down at the base and allow to wilt before

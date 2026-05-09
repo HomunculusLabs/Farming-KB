@@ -1,5 +1,5 @@
 ---
-title: Root Disease Treatment from Ingham AACT Field Guide
+title: ingham root disease treatment Treatment from Ingham AACT ghouled-field-guide-historical-context
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -18,7 +18,7 @@ suppression using [[arbuscular-mycorrhizal-fungi]] for background on mycorrhizal
 Fungi must be brought back into the soil in order to suppress root rot
 diseases. This requires:
 
-1. Adequate fungal biomass in compost
+1. Adequate [[bioremediation-fungal-biomass-biosorbent-material]] in compost
 2. Adequate fungal extraction into the tea
 3. Proper oxygen maintenance (above 5.5-6 ppm) to keep fungi alive
 4. Proper application to get fungi into the root zone
@@ -37,15 +37,15 @@ added T-22.
 Ingham's published research includes work on laminated root rot in
 Douglas-fir forests, studying soil foodweb responses following
 chloropicrin application. This research documented how biological
-approaches can replace fumigant treatments for root disease control in
+approaches can replace fumigant treatments for root [[hamilton-pest-and-disease-control-organic]] in
 forestry systems.
 
 ## Treatment Protocol Summary
 
 1. Test soil biology to identify gaps
-2. If VAM colonization below 10-15%, apply mycorrhizal inoculum
+2. If VAM colonization below 10-15%, apply [[arbuscular-mycorrhizal-inoculum-production-best-practices]]
 3. Apply fungal-dominant AACT as soil drench
-4. Add fungal foods to support establishment
+4. Add [[ingham-paper-cardboard-fungal-foods-compost]] to support establishment
 5. Reduce compaction to allow oxygen penetration
 6. Stop applying pesticides that kill beneficial fungi
 7. Monitor over time -- expect 6+ months for significant root-feeder
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

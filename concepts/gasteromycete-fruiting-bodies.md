@@ -20,9 +20,9 @@ type: concept
 
 # Gasteromycete Fruiting Bodies
 Gasteromycetes (from Greek: gaster = stomach, mycetes = fungi) are a
-diverse assemblage of basidiomycete fungi characterized by their
+diverse assemblage of [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] characterized by their
 enclosed spore-producing tissues. Unlike gilled mushrooms that expose
-their basidia to the air for ballistic spore discharge, gasteromycetes
+their basidia to the air for ballistic [[bloomfield-fungal-spore-discharge-and-dispersal]], gasteromycetes
 form spores internally and have evolved a remarkable circus of
 alternative dispersal mechanisms.
 Though not a natural phylogenetic group (they evolved independently
@@ -32,7 +32,7 @@ most inventive structures in the fungal kingdom.
 ## The Stinkhorn Group (Phallales)
 
 Stinkhorns are among the most conspicuous and bizarre of all fungi.
-The common stinkhorn, *Phallus impudicus* (the "shameless penis"),
+The common stinkhorn, *[[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]* (the "shameless penis"),
 develops as a white egg-like structure buried in soil or leaf litter.
 Inside the egg, a prefabricated structure awaits: a hollow spongy
 receptacle surrounded by a green-black spore mass (gleba) encased in
@@ -61,7 +61,7 @@ stinkhorn (*Mutinus caninus*) is smaller with a pink shaft and no
 bulbous head. Species of *Dictyophora* add a lacy veil (indusium)
 beneath the head that may serve as a ladder for wingless insects.
 *Dictyophora* eggs are sold as delicacies in China and marketed as
-aphrodisiacs. The eggs contain the immature fruiting body and must be
+aphrodisiacs. The eggs contain the immature [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] and must be
 harvested before hatching to preserve their culinary value.
 
 ### Historical Fascination
@@ -101,7 +101,7 @@ Its polyhedral structure, shared with Buckminster Fuller's geodesic
 domes and buckminsterfullerene molecules (buckyballs), offers
 remarkable strength-to-weight ratio.
 This geometry is valuable for a fungus making conservative use of
-building materials while maintaining large spore-exposure surface area.
+[[natural-building-materials-guide]] while maintaining large spore-exposure surface area.
 The resemblance to mathematical structures developed independently by
 architects and chemists illustrates how natural selection and
 structural optimization can converge on identical solutions.
@@ -122,7 +122,7 @@ conditions, elevating the spore-containing sac above the ground and
 bending its arms downward. In dry weather the arms curl up, protecting
 the spore sac.
 This hygroscopic mechanism provides responsive dispersal keyed to
-weather conditions favorable for spore germination.
+weather conditions favorable for [[growing-gourmet-spore-germination-strain-isolation]].
 
 ## Bird's Nest Fungi (Nidulariales)
 
@@ -140,6 +140,6 @@ that anchor them to vegetation.
 
 ## See Also
 
-- [[1799-liberty-cap-discovery]]
+- [[liberty-cap-british-discovery-1970s]]
 - [[2-4-dma-entity-pihkal]]
 - [[2-5-dma-entity]]

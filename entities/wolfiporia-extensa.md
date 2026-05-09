@@ -12,14 +12,14 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Wang, Y. & Zhang, J. (2018). \"Wolfiporia extensa: An edible and medicinal mushroom with diverse bioactivities.\" Journal of Functional Foods, 47, 313-326."
+  - "Wang, Y. & Zhang, J. (2018). \"Wolfiporia extensa: An edible and gourmet-medicinal-mushroom-casing-layer-techniques with diverse bioactivities.\" Journal of functional-foods-medicinal-mushrooms, 47, 313-326."
   - "Ríos, J.L. et al. (2012). \"A review on the ethnobotany, pharmacology and phytochemistry of the genus Wolfiporia.\" Journal of Pharmacy and Pharmacology, 64(4), 462-476."
-  - "Zhao, J. et al. (2013). \"Advances in research on the cultivation of Wolfiporia cocos (F.A. Wolf) Ryvarden & Gilb.\" Applied Microbiology and Biotechnology, 97(13), 5871-5882."
+  - "Zhao, J. et al. (2013). \"Advances in research on the cultivation of [[wolfiporia-cocos]] (F.A. Wolf) Ryvarden & Gilb.\" Applied Microbiology and Biotechnology, 97(13), 5871-5882."
 ---
 # Wolfiporia extensa (*Fu Ling*)
 
 ## Overview
-*Wolfiporia extensa*, commonly known as Fu Ling or China root, is a wood-decay polypore fungus in the family Polyporaceae. One of the most important medicinal fungi in Traditional Chinese Medicine (TCM), it has been used for over 2,000 years as a diuretic, sedative, and spleen tonic. The fungus grows underground as a massive sclerotium (up to 30+ kg) on the roots of various pine species, particularly *Pinus massoniana*. Modern research has validated its immunomodulatory, anti-tumor, anti-inflammatory, and hepatoprotective properties, with its water-soluble polysaccharides (pachymaran) being the primary bioactive compounds.
+*Wolfiporia extensa*, commonly known as Fu Ling or China root, is a wood-decay polypore fungus in the family Polyporaceae. One of the most important medicinal fungi in Traditional Chinese Medicine (TCM), it has been used for over 2,000 years as a diuretic, sedative, and spleen tonic. The fungus grows underground as a massive sclerotium (up to 30+ kg) on the roots of various pine species, particularly *Pinus massoniana*. Modern research has validated its immunomodulatory, anti-tumor, anti-inflammatory, and hepatoprotective properties, with its water-soluble polysaccharides (pachymaran) being the primary [[cordyceps-cancer-bioactive-compounds]].
 
 ## Taxonomy
 - **Kingdom:** Fungi
@@ -85,7 +85,7 @@ sources:
 - **Evidence level:** Multiple in vivo studies; clinical trials in China (Phase II)
 ### Anti-Tumor Activity
 - Polysaccharide fractions inhibit growth of sarcoma 180, Lewis lung carcinoma, and Ehrlich ascites in mice
-- Mechanism: immune-mediated tumor suppression (not direct cytotoxicity); enhances host immune surveillance
+- Mechanism: immune-mediated [[blesching-cannabis-angiogenesis-and-tumor-suppression]] (not direct cytotoxicity); enhances host immune surveillance
 - Pachymic acid shows direct cytotoxicity against hepatoma and breast cancer cell lines (in vitro)
 - Synergistic with 5-FU and cyclophosphamide in animal tumor models
 ### Diuretic and Renal Effects
@@ -131,7 +131,7 @@ sources:
 | Species | Distribution | Key Difference |
 |---------|-------------|----------------|
 | *Wolfiporia cocos* (syn.) | Same as *W. extensa* | Taxonomic synonym; name still common in commerce |
-| *Laetiporus sulphureus* | Cosmopolitan | Grows above-ground on wood; bright orange; different genus |
+| *[[laetiporus-sulphureus]]* | Cosmopolitan | Grows above-ground on wood; bright orange; different genus |
 | *Pleurotus tuber-regium* | Tropical Africa | Edible sclerotium-forming pleurotoid; different family |
 
 ## See Also

@@ -1,24 +1,13 @@
 ---
-title: "Fungal Multilocus Sequence Typing"
+title: "Fungal fungi-multilocus-sequence-typing-molecular-epidemiology Typing"
 created: 2026-04-28
-tags: [[mycology, genotyping, epidemiology, population-genetics, MLST]
+tags: [mycology, genotyping, epidemiology, population-genetics, MLST]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
 type: concept
 ---
-
-# Fungal Multilocus Sequence Typing
-
-Multilocus sequence typing (MLST) and multilocus microsatellite typing (MLMT)
-have become essential tools for characterizing genetic variation in fungal
-populations. Originally developed by the bacterial research community for
-molecular epidemiology, these approaches have been adapted for fungi and
-revolutionized our understanding of fungal species boundaries, population
-structure, biogeography, and the evolution of pathogenicity. By providing
-portable, reproducible, and web-accessible genotype data, MLST and MLMT
-address many of the limitations of earlier fingerprinting techniques and
-complement the phylogenetic approaches described in [[candida-albicans]], an internationally agreed seven-gene scheme (AAT1a,
+# Fungal Multilocus Sequence Typing Multilocus sequence typing (MLST) and multilocus microsatellite typing (MLMT) have become essential tools for characterizing genetic variation in fungal populations. Originally developed by the bacterial research community for molecular epidemiology, these approaches have been adapted for fungi and revolutionized our understanding of fungal species boundaries, population structure, biogeography, and the evolution of pathogenicity. By providing portable, reproducible, and web-accessible genotype data, MLST and MLMT address many of the limitations of earlier fingerprinting techniques and complement the phylogenetic approaches described in [[candida-albicans]], an internationally agreed seven-gene scheme (AAT1a,
 ACC1, ADP1, MPIb, SYA1, VPS13, ZWF1b) is hosted at calbicans.mlst.net. With
 279 isolates catalogued, 87% represent unique STs, reflecting high genetic
 diversity. A Candida glabrata scheme with six genes (FKS, LEU2, NMT1, TRP1,
@@ -34,7 +23,7 @@ stretches composed of repeated di-, tri-, tetra-, or pentanucleotide motifs
 that accumulate length polymorphisms through strand slippage mispairing
 during meiosis. Mutation rates are orders of magnitude higher (10^-4 to 10^-5
 per generation) than point mutations (10^-9), generating substantially more
-genetic diversity.
+[[biodiversity-fungal-genetic-diversity]].
 
 MLMT typing is analogous to MLST: a fragment spanning a microsatellite is
 PCR-amplified, but instead of sequencing, alleles are scored by size using
@@ -45,7 +34,7 @@ isolate.
 ## MLMT Resolving Power
 
 The superior resolution of MLMT is demonstrated by Coccidioides posadasii
-from South America. MLST showed all 14 isolates sharing an identical ST,
+from [[guzman-psilocybin-mushrooms-south-america]]. MLST showed all 14 isolates sharing an identical ST,
 while a nine-locus MLMT system revealed 10 unique MTs. Similarly, Penicillium
 marneffei from Thailand showed only 0.141% sequence diversity across four
 genes (seven polymorphic nucleotides in 4,955 bp), rendering MLST useless.
@@ -63,12 +52,13 @@ difference. However, for recently diverged populations (~40,000 years),
 both methods gave concordant results.
 
 To compensate for homoplasy, the solution is to use more loci. Fisher and
-colleagues used 20 microsatellites for Penicillium marneffei. The combination
+colleagues used 20 microsatellites for [[gadd-penicillium-marneffei-population-genetics]]. The combination
 of MLST for species-level questions and MLMT for population-level resolution
 provides a powerful hierarchical approach to [[cryptococcus-neoformans]], Batrachochytrium
 dendrobatidis, Saccharomyces species, Fusarium species, and lichenized
 ascomycetes such as Letharia. These methods are not limited to pathogens and
 have enormous potential for addressing questions in [[fungi-multilocus-sequence-typing-molecular-epidemiology]]
+
 ## Practical Considerations
 
 Successful implementation of Fungal Multilocus Sequence Typing requires attention to
@@ -87,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

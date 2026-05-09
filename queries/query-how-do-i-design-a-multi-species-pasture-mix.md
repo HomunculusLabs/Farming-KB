@@ -24,7 +24,7 @@ A multi-species pasture mix is a deliberate blend of 5–20+ plant species grown
 
 - **Extended grazing season** — Different species green up and go dormant at different times
 - **Drought resilience** — Deep-rooted species keep producing when shallow-rooted grasses burn up
-- **Reduced fertilizer inputs** — Legumes fix nitrogen; diverse [[coleman-cover-crop-rotation-and-soil-health]]
+- **Reduced fertilizer inputs** — [[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]] nitrogen; diverse [[coleman-cover-crop-rotation-and-soil-health]]
 
 - [[comparison-rotational-grazing-vs-set-stocking]]
 
@@ -48,7 +48,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -98,7 +98,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -108,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

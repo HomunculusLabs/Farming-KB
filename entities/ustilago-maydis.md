@@ -32,7 +32,7 @@ centuries.
 - **Species:** U. maydis
 
 U. maydis is classified within the Ustilaginomycetes, a group distinct
-from both the Hymenomycetes (including Cryptococcus neoformans) and
+from both the Hymenomycetes (including [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]]) and
 the Urediniomycetes (rust fungi). It is one of the few
 Ustilaginomycete species with a fully sequenced genome, providing a
 genomic resource for understanding smut fungal evolution.
@@ -47,13 +47,13 @@ after mating of compatible haploid cells.
 
 The transition between forms is regulated by a mating-type locus with
 two alleles (a1 and a2). Mating between opposite types triggers
-filamentous growth and pathogenicity, coupling sexual reproduction
+filamentous growth and pathogenicity, coupling [[fungal-life-cycles-sexual-reproduction-metamorphosis]]
 with infection. Mating hyphae orient growth toward pheromone sources
 through chemotropic responses.
 
 The chemotropic response is mediated by a conserved MAP kinase
 signaling cascade that regulates the morphological transition from
-yeast to filamentous growth. This directed growth is essential for
+yeast to filamentous growth. This [[two-phase-directed-growth-psilocybe-cubensis-basidiocarp-development]] is essential for
 efficient mating and subsequent plant infection.
 
 ## Genome
@@ -69,7 +69,7 @@ The genome project has been particularly valuable for identifying the
 suite of secreted effector proteins that manipulate host cell
 physiology during biotrophic growth. Studies of the mating-type locus
 have revealed an unusual bipolar mating system and the evolution of
-sex chromosomes in basidiomycete fungi.
+sex chromosomes in [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]].
 
 Comparative genomics with Magnaporthe grisea and Fusarium graminearum
 has revealed both shared and unique features of plant pathogenicity
@@ -112,9 +112,9 @@ during plant infection.
 ## Research Significance
 
 U. maydis has contributed to understanding fungal dimorphism and its
-regulation, mating-type systems and sex determination in
+regulation, mating-type systems and [[cannabis-sex-determination-floral-biology]] in
 basidiomycetes, biotrophic plant pathogenicity mechanisms and effector
-biology, and comparative genomics of fungal pathogens across major
+biology, and comparative genomics of [[bloomfield-fungal-pathogens-and-parasites]] across major
 fungal lineages.
 
 ## See Also

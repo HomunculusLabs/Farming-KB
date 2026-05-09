@@ -19,7 +19,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Duke, J.A. (2002). "Handbook of Medicinal Herbs." 2nd Edition, CRC Press.
+  - Duke, J.A. (2002). "Handbook of permaculture-plants-medicinal-herbs-healing." 2nd Edition, CRC Press.
   - Blumenthal, M., Goldberg, A. & Brinckmann, J. (2000). "Herbal Medicine: Expanded Commission E Monographs." American Botanical Council.
   - Rivero, D. et al. (2004). "Antibacterial activity of Ruta graveolens L." Fitoterapia, 75(6), 599–602.
   - Srivastava, S. & Gupta, M.M. (2010). "Ruta graveolens: A review." Pharmacognosy Reviews, 4(8), 159–165.
@@ -79,7 +79,7 @@ moderate salinity. It is hardy to USDA zones 4–9.
 
 ## Bioactive Compounds
 
-Rue contains a complex mixture of secondary metabolites, several of which
+Rue contains a complex mixture of [[antifungal-secondary-metabolites-coprophilous-fungi]], several of which
 contribute to both its medicinal activity and its toxicity:
 
 - **Furanocoumarins:** Bergapten, psoralen, xanthotoxin, and isopimpinellin.
@@ -112,7 +112,7 @@ activity in animal studies.
 ## Safety and Toxicity
 
 Rue is **not recommended for internal use** in modern herbal medicine due to
-its narrow therapeutic window. Toxic effects include gastrointestinal
+its narrow [[blesching-cannabis-therapeutic-window-dosing]]. Toxic effects include gastrointestinal
 distress (nausea, vomiting, abdominal pain), uterine stimulation and
 potential miscarriage in pregnant women, hepatotoxicity and nephrotoxicity
 at high doses, and severe phototoxic skin reactions from external exposure.
@@ -126,7 +126,7 @@ Contemporary research has investigated rue for antimicrobial activity, anti-
 inflammatory effects, and potential anticancer properties. The essential oil
 shows promising activity against Gram-positive bacteria and certain fungal
 pathogens. Acridone alkaloids from rue have demonstrated cytotoxic activity
-against several cancer cell lines in vitro. However, clinical trials are
+against several cancer cell lines in vitro. However, [[mushroom-cancer-clinical-trials-overview]] are
 lacking, and the toxicity profile limits any potential therapeutic development.
 
 ## Cultivation
@@ -134,9 +134,9 @@ lacking, and the toxicity profile limits any potential therapeutic development.
 Rue is easily grown from seed (stratification improves germination) or
 semi-hardwood cuttings. Plants prefer full sun, well-drained soil, and
 minimal irrigation once established. Pruning after flowering maintains a
-compact shape. In permaculture and companion planting, rue is sometimes
+compact shape. In permaculture and [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]], rue is sometimes
 used as an insect-repellent border plant, though evidence for efficacy is
-largely anecdotal. Rue should not be planted near culinary herbs, as its
+largely anecdotal. Rue should not be planted near [[holzer-medicinal-and-culinary-herbs-compendium]], as its
 strong volatile oils can taint nearby plants.
 ## See Also
 

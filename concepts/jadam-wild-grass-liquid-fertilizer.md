@@ -1,5 +1,5 @@
 ---
-title: JADAM Wild Grass Liquid Fertilizer
+title: JADAM jadam-cover-crop-wild-grass-symbiosis jadam-liquid-fertilizer-nutritional-perspective
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -13,7 +13,7 @@ sources:
 
 Wild grass [[jadam-liquid-fertilizer-nutritional-perspective]] Concepts
 
-- [[jadam-cover-crop-method]] -- growing green manure for fertilizer input
+- [[jadam-cover-crop-method]] -- growing [[comparison-green-manure-guide-vs-mulch-types-and-effects]] for fertilizer input
 - [[jadam-ultra-low-cost-methods]] -- the broader economic philosophy
 - [[jadam-leaf-mold-soil-method]]
 - [[jadam-food-waste-liquid-fertilizer]]
@@ -144,5 +144,6 @@ include primary research literature, established reference works,
 practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
-area and contributing to its ongoing development and refinement.
+## See Also
 
+- [[knf-green-grass-liquid-fertilizer]]

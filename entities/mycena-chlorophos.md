@@ -13,7 +13,7 @@ sources:
 
 Mycena chlorophos is a bioluminescent mushroom in the family Mycenaceae,
 notable for emitting a pale green glow (chemiluminescence) from its gills,
-cap margins, and sometimes the entire fruiting body. It is one of
+cap margins, and sometimes the entire [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]. It is one of
 approximately 120+ known bioluminescent fungal species worldwide and among
 the most widely recognized due to its striking visual appearance in dark
 tropical and subtropical forests. The species was first described by Miles
@@ -62,7 +62,7 @@ luxaeterna and Mycena illuminans.
 | Stem | 15-50 mm tall, 0.5-1.5 mm thick, hollow, fragile |
 | Stem color | White to pale grey, slightly pruinose coating |
 | Ring | Absent |
-| Spore print | White |
+| [[comparison-spore-print-collection-vs-spore-syringe-production]] | White |
 | Odor/Taste | Indistinct / Mild |
 
 ### Microscopic Features
@@ -79,8 +79,8 @@ luxaeterna and Mycena illuminans.
 
 ## Distribution and Habitat
 
-Mycena chlorophos has a pantropical distribution, documented across
-Southeast Asia, Oceania, South America, Central America, Africa, and
+Mycena chlorophos has a [[copelandia-cyanescens-pantropical-distribution-and-ecology]], documented across
+[[psilocybe-southeast-asia-pacific]], Oceania, South America, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], Africa, and
 southern Japan. It is particularly abundant in:
 
 - Lowland and montane tropical rainforests of Southeast Asia
@@ -122,7 +122,7 @@ M. chlorophos has been cultivated in laboratory settings using defined
 agar media and sterilized wood substrates. Conditions include:
 - Temperature: 22-28°C
 - Humidity: 90-100% relative
-- Low light during vegetative growth (bright light suppresses
+- Low light during [[cannabis-vegetative-growth-stage]] (bright light suppresses
   luminescence)
 - Substrates: malt extract agar, PDA, sterilized hardwood sawdust
 

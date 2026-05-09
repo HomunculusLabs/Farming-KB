@@ -13,7 +13,7 @@ updated: 2026-05-08
 sources:
   - Grubben G.J.H. & Denton O.A. (2004). "Plant Resources of Tropical Africa 2: Vegetables." PROTA Foundation.
   - Sreelathakumary I. & Arumugam T. (1996). "Nutritional and antinutritional composition of Amaranthus spinosus leaves." Plant Foods for Human Nutrition, 49(1), 69-74.
-  - Olufolaji A.O. & Odedina J.N. (2011). "Weed control in Amaranthus production." In: "Amaranthus: Biology, Chemistry, and Technology." CRC Press.
+  - Olufolaji A.O. & Odedina J.N. (2011). "[[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] in Amaranthus production." In: "Amaranthus: Biology, Chemistry, and Technology." CRC Press.
   - Adekunle A.A. et al. (2020). "Ethnobotanical survey and phytochemical screening of Amaranthus spinosus." Journal of Ethnopharmacology, 261, 113174.
 ---
 
@@ -50,7 +50,7 @@ The genus *Amaranthus* comprises approximately 70 species of annual or short-liv
 
 ## Distribution and Habitat
 
-*A. spinosus* is native to the tropical Americas but has become pantropical through natural dispersal and human introduction. It is common throughout sub-Saharan Africa, South and Southeast Asia, Oceania, and northern Australia.
+*A. spinosus* is native to the tropical Americas but has become pantropical through natural dispersal and human introduction. It is common throughout sub-Saharan Africa, South and [[psilocybe-southeast-asia-pacific]], Oceania, and northern Australia.
 
 The species thrives in disturbed habitats including cultivated fields, roadsides, waste areas, riverbanks, and fallow land. It grows from sea level to 1,500 m elevation in areas with annual rainfall of 500–2,000 mm.
 
@@ -94,7 +94,7 @@ The genus *Amaranthus* includes several economically important species. *A. tric
 
 *A. hypochondriacus* and *A. cruentus* are grain amaranths cultivated for their protein-rich seeds, which are used as pseudocereals in gluten-free products. These species lack the axillary spines that characterize *A. spinosus*.
 
-*A. retroflexus* (redroot pigweed) is a closely related weedy species native to North America, similarly used as a leaf vegetable and traditional medicine in its native range. It is distinguished by its lack of spines and denser, more compact inflorescences.
+*A. retroflexus* (redroot pigweed) is a closely related weedy species native to [[psilocybin-north-america-pacific-northwest]], similarly used as a leaf vegetable and traditional medicine in its native range. It is distinguished by its lack of spines and denser, more compact inflorescences.
 
 *A. palmeri* (Palmer amaranth) is an aggressive agricultural weed in the Americas that has evolved glyphosate resistance. It is morphologically similar to *A. spinosus* but larger and without spines.
 
@@ -102,9 +102,9 @@ The genus *Amaranthus* includes several economically important species. *A. tric
 
 *A. spinosus* serves as a food plant for several Lepidoptera species, including the cotton leafworm (*Spodoptera littoralis*) and various amaranth looper caterpillars. These herbivores can cause significant defoliation but rarely kill established plants.
 
-The species contributes to soil health through its deep taproot, which can penetrate 60–100 cm, improving soil structure and nutrient cycling. The decomposing plant residue adds organic matter and returns nutrients to the soil surface.
+The species contributes to soil health through its deep taproot, which can penetrate 60–100 cm, improving soil [[root-anatomy-structure-and-nutrient-uptake]] cycling. The decomposing plant residue adds [[hamilton-composting-and-organic-matter-management]] and returns nutrients to the soil surface.
 
-In tropical agroecosystems, *A. spinosus* provides ground cover that reduces soil erosion and suppresses more problematic weed species. It also serves as a trap crop for certain insect pests in vegetable production systems.
+In tropical agroecosystems, *A. spinosus* provides ground cover that reduces soil erosion and suppresses more problematic weed species. It also serves as a trap crop for certain insect pests in [[dry-gardening-unirrigated-vegetable-production-solomon]] systems.
 
 ## See Also
 

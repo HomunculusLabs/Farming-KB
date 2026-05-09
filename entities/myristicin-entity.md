@@ -44,14 +44,14 @@ first synthesized by Alexander Shulgin.
 Myristicin occurs naturally in several plants, with the highest concentrations
 found in Myristica species:
 - **Myristica fragrans (nutmeg):** The primary source, with myristicin
-  comprising 0.2–1.3% of mace essential oil and 1.0–3.5% of nutmeg essential
+  comprising 0.2–1.3% of mace [[permaculture-designers-manual-essential-oil-plants]] and 1.0–3.5% of nutmeg essential
   oil. Total myristicin content of whole dried nutmeg seed ranges from
   0.5–1.4% by weight (5–14 mg/g).
 - **Myristica argentea (papuan nutmeg):** Related species with comparable
   myristicin levels, used locally as a nutmeg substitute.
 - **Petroselinum crispum (parsley):** Present in parsley essential oil at
   1–5%, contributing to parsley's distinctive aroma.
-- **Anethum graveolens (dill):** Present in dill seed and herb essential oils
+- **Anethum graveolens (dill):** Present in dill seed and herb [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]
   at lower concentrations (0.1–0.5%).
 - **Daucus carota (carrot):** Trace amounts in carrot seed oil.
 - **Piper nigrum (black pepper):** Minor constituent of pepper essential oil,
@@ -85,7 +85,7 @@ been documented since the 16th century:
   roughly 25–150 mg myristicin). Effects are highly variable between
   individuals due to differences in metabolism and body weight.
 - **Common recreational dose:** 15–30 g of nutmeg (approximately 150–420 mg
-  myristicin). Doses above 30 g significantly increase adverse effects
+  myristicin). Doses above 30 g significantly increase [[blesching-cannabis-safety-adverse-effects-evidence]]
   without proportional enhancement of desired effects.
 - **Onset:** 2–6 hours after oral ingestion, reflecting slow absorption and
   metabolic activation. The delay is a major factor in accidental overdose,
@@ -100,17 +100,17 @@ been documented since the 16th century:
 - **Aftereffects:** Lethargy, headache, and mild cognitive impairment may
   persist for 1–3 days following intoxication.
 ## Toxicology and Safety
-- **Acute toxicity:** Oral LD50 in rats: 1320 mg/kg. The therapeutic index
+- **Acute toxicity:** Oral LD50 in rats: 1320 mg/kg. The [[cannabis-therapeutic-index-overview]]
   is relatively narrow, with psychoactive doses approaching levels that
   produce significant adverse effects.
 - **Hepatotoxicity:** Case reports of liver enzyme elevation and clinically
   significant hepatotoxicity following large nutmeg ingestion. The mechanism
-  may involve CYP450 enzyme induction or direct hepatocellular injury from
+  may involve CYP450 [[fungal-enzyme-induction-and-regulation]] or direct hepatocellular injury from
   reactive metabolites.
 - **Neurotoxicity:** At high doses, myristicin produces tremor, ataxia,
   seizures, and in rare cases, prolonged psychosis. Most cases resolve
   within 24–72 hours with supportive care.
-- **Drug interactions:** The MAOI activity creates a risk of serotonin
+- **[[cannabis-drug-interactions-and-contraindications]]:** The MAOI activity creates a risk of serotonin
   syndrome when combined with SSRIs, SNRIs, or tramadol. Combination with
   tyramine-rich foods may provoke hypertensive crisis, though the clinical
   significance at typical nutmeg doses is debated.

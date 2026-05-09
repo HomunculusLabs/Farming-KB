@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Makinde, J.M. et al. (1996). "Antimalarial activity of Ocimum gratissimum leaf extract." Phytotherapy Research, 10(7), 539-541.
-  - Nakamura, C.V. et al. (1999). "Antibacterial activity of Ocimum gratissimum essential oil." Memórias do Instituto Oswaldo Cruz, 94(5), 675-678.
+  - Nakamura, C.V. et al. (1999). "Antibacterial activity of Ocimum gratissimum [[permaculture-designers-manual-essential-oil-plants]]." Memórias do Instituto Oswaldo Cruz, 94(5), 675-678.
   - Ijeh, I.I. et al. (2005). "Anti-diarrheal activity of Ocimum gratissimum leaf extract." Journal of Ethnopharmacology, 99(2), 307-310.
   - Okafor, J.C. (1980). "Medicinal plants indigenous to Nigeria." Nigerian Field, 45, 49-55.
   - Grayer, R.J. et al. (1996). "Leaf flavonoid aglycones of Ocimum gratissimum." Biochemical Systematics and Ecology, 24(4), 297-299.
@@ -52,7 +52,7 @@ approximately 6 mm long, and white or slightly tinged with purple.
 ## Distribution and Habitat
 
 O. gratissimum is pantropical in distribution, occurring throughout sub-Saharan
-Africa, South and Southeast Asia, Oceania, and tropical South America. It thrives
+Africa, South and [[psilocybe-southeast-asia-pacific]], Oceania, and tropical South America. It thrives
 in a range of ecological zones from coastal savanna to forest margins.
 
 The species prefers well-drained soils with moderate fertility and responds well
@@ -76,7 +76,7 @@ linalool, and methyl eugenol. The thymol chemotype also contains significant
 γ-terpinene and p-cymene.
 
 Oil yield from fresh leaves ranges from 0.5% to 2.5% depending on chemotype,
-harvest timing, and drying method. Steam distillation is the standard extraction
+[[cannabis-harvest-timing-visual-cues]], and drying method. [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] is the standard extraction
 method, with highest yields obtained from flowering aerial parts.
 
 ## Pharmacology and Traditional Medicine
@@ -129,7 +129,7 @@ properties may suppress certain weed species, though this requires further
 investigation.
 
 Propagation is straightforward from stem cuttings (15–20 cm, semi-hardwood),
-which root within 7–14 days under humid conditions. Seed germination is
+which root within 7–14 days under humid conditions. [[cannabis-seed-germination-methods]] is
 also viable but less commonly practiced by traditional growers.
 
 The species is nitrogen-fixing through associated rhizobacteria, contributing

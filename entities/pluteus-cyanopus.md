@@ -11,7 +11,7 @@ tags:
   - pluteaceae
 sources:
   - "Guzmán, G. (1983). The Genus Psilocybe. Beihefte zur Nova Hedwigia 74."
-  - "Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press."
+  - "Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press."
   - "Singer, R. (1986). The Agaricales in Modern Taxonomy, 4th ed. Koeltz Scientific Books."
   - "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=295662"
 ---
@@ -24,7 +24,7 @@ sources:
 
 The species demonstrates that psilocybin biosynthesis has evolved independently in multiple lineages within Agaricales, making it of significant phylogenetic and evolutionary interest to mycochemists.
 
-*P. cyanopus* is a saprotrophic species found on decaying hardwood and occasionally conifer wood in temperate forests of Europe and North America.
+*P. cyanopus* is a saprotrophic species found on decaying hardwood and occasionally conifer wood in temperate forests of Europe and [[psilocybin-north-america-pacific-northwest]].
 
 ## Taxonomy
 
@@ -58,7 +58,7 @@ This pink spore print is a critical distinguishing feature from psilocybian *Psi
 
 Stipe measures 30–80 mm in length and 3–6 mm in diameter, central, cylindrical, and equal. Surface is white to pale gray, covered with fine longitudinal fibrils.
 
-The base characteristically stains bluish-green to indigo when bruised or handled. This bluing reaction, caused by the oxidation of psilocin, is the most reliable field indicator of psychoactivity.
+The base characteristically stains bluish-green to indigo when bruised or handled. This [[field-guide-psilocybin-bluing-reaction-identification]], caused by the oxidation of psilocin, is the most reliable field indicator of psychoactivity.
 
 ### Spores
 
@@ -70,7 +70,7 @@ Spore dimensions: 6–8 × 5–6.5 µm. Q range: 1.1–1.4. Cheilocystidia are n
 
 *P. cyanopus* has been documented across temperate Europe (Germany, France, Netherlands, Scandinavia) and in the Pacific Northwest of North America. Reports also exist from parts of eastern Europe and the British Isles.
 
-The species is a primary wood decomposer, fruiting solitary to scattered on decaying stumps, fallen trunks, and coarse woody debris of hardwoods including oak, beech, ash, and alder. Occasionally found on conifer substrates.
+The species is a primary wood decomposer, fruiting solitary to scattered on decaying stumps, fallen trunks, and [[fungal-diversity-leaf-litter-coarse-woody-debris]] debris of hardwoods including oak, beech, ash, and alder. Occasionally found on conifer substrates.
 
 Fruiting occurs from late spring through autumn (May to October in the Northern Hemisphere), with peak abundance in late summer after sustained rainfall.
 
@@ -83,7 +83,7 @@ Fruiting occurs from late spring through autumn (May to October in the Northern 
 - **Baeocystin:** Present as a minor constituent
 - **Urea:** Present (non-psychoactive fungal metabolite)
 
-The psilocybin content of *P. cyanopus* is variable, with some collections approaching the potency of moderate *Psilocybe cubensis* specimens.
+The psilocybin content of *P. cyanopus* is variable, with some collections approaching the potency of moderate *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* specimens.
 
 The bluing reaction at the stipe base is caused by enzymatic oxidation of psilocin to blue quinone polymers, analogous to the bluing observed in *Psilocybe* and *Gymnopilus* species.
 
@@ -112,7 +112,7 @@ Collection from wild habitats remains the only known method of acquisition, thou
 
 ## See Also
 
-- [[psilocybe-semilanceata]] — Liberty cap, Europe's most common wild psilocybian species
-- [[gymnopilus-luteofolius]] — A Gymnopilus species with notable bluing reactions
+- [[psilocybe-semilanceata]] — [[peter-mantle-liberty-cap-chromatographic-discovery-1969]], Europe's most common wild psilocybian species
+- gymnopilus-luteofolius — A Gymnopilus species with notable bluing reactions
 - [[psilocin]] — The active dephosphorylated metabolite
 - [[panaeolus-cyanescens-entity]] — Tropical psilocybian species with a dark spore print

@@ -1,5 +1,5 @@
 ---
-title: Korean Natural Farming Pest Control and Soap Water
+title: Korean comparison-natural-farming-vs-permaculture Pest Control and Soap Water
 created: 2026-04-14
 updated: 2026-04-18
 type: concept
@@ -9,16 +9,16 @@ sources:
 ---
 # Korean Natural Farming Pest Control and Soap Water
 
-Korean Natural Farming takes a holistic approach to pest management. Healthy plants grown in living soil with balanced nutrition naturally resist pests and diseases. When intervention is needed, KNF uses non-toxic methods that don't harm beneficial organisms.
+Korean Natural Farming takes a holistic approach to [[cannabis-pest-management-guide]]. Healthy plants grown in living soil with balanced nutrition naturally resist [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. When intervention is needed, KNF uses non-toxic methods that don't harm beneficial organisms.
 
 ## Philosophy: Prevention Over Cure
 
 Pests and diseases are symptoms of imbalance, not the root problem. A healthy plant in a healthy ecosystem rarely has serious pest issues. Focus on:
 
-1. **Balanced nutrition:** Plants with excess nitrogen attract pests. Proper nutritive cycle prevents this
+1. **Balanced nutrition:** Plants with excess nitrogen attract pests. Proper [[cho-nutritive-cycle-theory]] prevents this
 2. **Strong microorganism population:** IMO creates soil conditions where beneficial organisms outcompete pathogens
 3. **Plant vitality:** OHN, FPJ, and other inputs keep plants robust
-4. **Biodiversity:** Polycultures and companion planting reduce pest pressure
+4. **Biodiversity:** Polycultures and [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] reduce pest pressure
 
 ## Soap Water
 
@@ -73,7 +73,7 @@ Soap water is a simple, effective pest control method.
 
 ### Cultural Practices
 - Crop rotation
-- Proper spacing for air circulation
+- Proper spacing for [[stamets-growing-room-air-circulation-co2-management]]
 - Remove diseased plant material
 - Sanitation (clean tools, remove debris)
 

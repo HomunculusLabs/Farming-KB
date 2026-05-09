@@ -26,11 +26,11 @@ yellow flowers and attractive silver-variegated leaves.
 The common name "yellow archangel" likely refers to the bright yellow hooded
 flowers, which were thought to resemble the golden aura of an archangel. The
 species has become an invasive plant in several regions outside its native
-range, particularly in the Pacific Northwest of North America.
+range, particularly in the Pacific Northwest of [[psilocybin-north-america-pacific-northwest]].
 
 Yellow archangel is closely related to the spotted dead-nettle (*Lamium
 maculatum*) but differs in flower color, leaf shape, and growth habit. It is
-widely cultivated as a shade garden plant, though its aggressive spreading
+widely cultivated as a [[hamilton-shade-garden-plants]] plant, though its aggressive spreading
 behavior has led to restrictions in some jurisdictions.
 
 ## Taxonomy and Morphology
@@ -45,7 +45,7 @@ dense mats of foliage. Stems are square, ascending to prostrate, and
 pubescent with retrorse hairs.
 
 Leaves are opposite, broadly ovate to cordate, 3–8 cm long, with coarsely
-serrate margins. The upper leaf surface is dark green with a prominent
+serrate margins. The upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dark green with a prominent
 silver-white medial stripe and lateral markings. The underside is
 grayish-green and pubescent.
 
@@ -87,7 +87,7 @@ The plant is easily propagated from stem cuttings or by division. It prefers
 partial to full shade with moist, well-drained soil. It is hardy to USDA
 zone 4 and is tolerant of a range of soil pH levels.
 
-In the garden, yellow archangel makes an effective ground cover for large
+In the garden, yellow archangel makes an effective [[fukuoka-citrus-orchard-ground-cover-cultivation]] for large
 shaded areas. However, its vigorous spreading habit requires careful
 management to prevent it from overwhelming neighboring plants.
 

@@ -17,7 +17,7 @@ sources:
 
 # Cho's Yeast Preparation and Applications
 
-Yeast is a microorganism that plays a critical role in the final stage of fermentation within Dr. Cho's Korean Natural Farming system. It breaks down sugars into alcohol and carbon dioxide, enhances metabolism, and helps resynthesize decomposed organic substances into amino acids, hormones, vitamins, and other bioactive compounds. In KNF, yeast is primarily used as a recovery agent for stressed or diseased plants and livestock.
+Yeast is a microorganism that plays a critical role in the final stage of fermentation within Dr. Cho's Korean Natural Farming system. It breaks down sugars into alcohol and carbon dioxide, enhances metabolism, and helps resynthesize decomposed organic substances into amino acids, hormones, vitamins, and other [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]. In KNF, yeast is primarily used as a recovery agent for stressed or diseased plants and livestock.
 
 ## Functions of Yeast
 
@@ -25,11 +25,11 @@ Yeast performs several essential biological functions that make it valuable in n
 
 1. **Fermentation completion** — Yeast handles the last step of fermentation, converting sugars into alcohol and carbon dioxide. This is essential in producing inputs like [[master-cho-knf-ffj-fermented-fruit-juice-guide]].
 
-2. **Metabolic enhancement** — Yeast expands capillary vessels and enhances overall metabolic activity in plants and animals.
+2. **Metabolic enhancement** — Yeast expands capillary vessels and enhances overall [[arbuscule-isolation-metabolic-activity-assays]] in plants and animals.
 
 3. **Nutrient resynthesis** — Yeast resynthesizes organic substances decomposed by various microbes into amino acids, hormones, vitamins, and other compounds that plants and animals can readily utilize.
 
-4. **Chemical fertilizer decomposition** — Yeast has the excellent ability to decompose chemical fertilizers, making it useful during the transition from conventional to organic farming.
+4. **Chemical fertilizer decomposition** — Yeast has the excellent ability to decompose [[cervantes-chemical-fertilizers-guide]], making it useful during the [[query-how-to-transition-from-conventional-to-no-till-farming]] to organic farming.
 
 5. **Vitamin and mineral production** — Yeast produces various substances including vitamins, nucleic acids, minerals, hormones, and fatty acids that organisms cannot synthesize for themselves.
 
@@ -77,7 +77,7 @@ After approximately 7 days, the yeast culture is ready. The liquid is strained a
 
 Yeast occupies a specific position in the KNF fermentation hierarchy:
 
-- [[bionutrients-lab-lactic-acid-bacteria-serum]] provides lactic acid bacteria for anaerobic fermentation and disease suppression.
+- [[bionutrients-lab-lactic-acid-bacteria-serum]] provides lactic acid bacteria for [[jadam-anaerobic-fermentation-principles]] and [[aact-disease-suppression-mechanisms-ingham]].
 
 - **Yeast** handles the final aerobic fermentation stage, converting sugars to alcohol and CO2.
 

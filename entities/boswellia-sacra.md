@@ -72,12 +72,12 @@ The Dhofar populations in Oman are considered the most genetically pure and
 produce the highest quality resin. Somalian populations, sometimes classified
 as B. carterii, grow in similar semi-arid conditions in the northern regions
 of the country. The species is threatened by overharvesting, habitat
-fragmentation, and climate change.
+fragmentation, and [[dighton-fungi-climate-change-feedback]].
 
 ## Resin Chemistry
 
 Frankincense resin is composed of approximately 60 to 70% gum (polysaccharides),
-25 to 35% resin (boswellic acids and terpenoids), and 5 to 9% essential oil
+25 to 35% resin (boswellic acids and terpenoids), and 5 to 9% [[permaculture-designers-manual-essential-oil-plants]]
 (volatile sesquiterpenes and monoterpenes). The major boswellic acids include
 11-keto-beta-boswellic acid (KBA), acetyl-11-keto-beta-boswellic acid (AKBA),
 beta-boswellic acid, and acetyl-beta-boswellic acid.
@@ -91,14 +91,14 @@ synthesis of pro-inflammatory leukotrienes.
 
 In traditional Arabian, Ayurvedic, and African medicine, frankincense resin
 is used to treat inflammatory conditions including arthritis, asthma, and
-inflammatory bowel disease. The resin is applied topically for wound healing
+[[blesching-cannabis-inflammatory-bowel-disease]] disease. The resin is applied topically for wound healing
 and orally as a decoction for respiratory and digestive complaints.
 
 Incensole acetate, a unique component of B. sacra resin, acts as a TRPV3
 channel agonist with anxiolytic and antidepressant-like effects in animal
 models. Boswellic acids, particularly AKBA, inhibit NF-kappaB signaling and
 reduce expression of pro-inflammatory cytokines including TNF-alpha and
-IL-6. Clinical trials have demonstrated efficacy of Boswellia extracts in
+IL-6. [[mushroom-cancer-clinical-trials-overview]] have demonstrated efficacy of Boswellia extracts in
 treating osteoarthritis, rheumatoid arthritis, asthma, and ulcerative
 colitis, with responses comparable to NSAIDs but with fewer gastrointestinal
 side effects.
@@ -121,5 +121,6 @@ population decline across the species range.
 ## See Also
 
 - [[commiphora-myrrha]]
-- [[ferula-assafoetida]]
+- ferula-assafoetida
 - styrax benzoin
+- [[boswellia-serrata]]

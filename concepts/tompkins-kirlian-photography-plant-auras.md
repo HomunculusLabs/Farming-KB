@@ -1,5 +1,5 @@
 ---
-title: Kirlian Photography and Plant Auras
+title: tompkins kirlian photography plant auras and Plant Auras
 created: 2026-04-26
 tags: [botany, biophysics, parapsychology, photography]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: concept
 # Kirlian Photography and Plant Auras
 
 Kirlian photography is a technique for capturing on film the luminous
-energy fields said to surround living organisms. Discovered independently
+energy fields said to surround [[savory-living-organisms-as-tools]]. Discovered independently
 by Semyon Davidovich Kirlian, an electrician and amateur photographer
 in Krasnodar, Russia, the method produces striking images of what
 appears to be an "aura" or energy body around plants, animals, and
@@ -78,7 +78,7 @@ electromagnetic fields, and is the basis for "biological" fields.
 Remarkably, the spots where Kirlian lights flared most brilliantly on a
 human body appeared to match the seven hundred acupuncture points
 mapped by Chinese medicine thousands of years ago. When asked directly
-if his "bioplasma body" was what occult Western literature calls the
+if his "bioplasma body" was what occult [[fly-agaric-western-literature]] calls the
 "aura" or the "astral" body, Inyushin answered: "Yes!"
 
 ## American Research and Conferences

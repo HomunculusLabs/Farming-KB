@@ -1,135 +1,122 @@
 # Grass Seed Substrate Preparation
 
-Grass seed serves as an excellent substrate for the cultivation of
-various mushroom species, particularly those that produce sclerotia.
-This substrate offers several advantages over traditional grain-based
-substrates including faster colonization, good water retention, and
-suitability for both fruiting body and sclerotia production.
+Grass seed substrate is a versatile and effective medium for cultivating various
+psilocybin-producing mushroom species, including [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]], Psilocybe
+tampanensis, and [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]. It is particularly valued for its
+ability to support both [[bacteria-and-microorganisms-in-mushroom-fruiting]] and sclerotia (truffle) formation in
+a single jar.
 
 ## Species Suitability
 
-Grass seed substrate is particularly well-suited for the following
-species:
+Grass seed substrate is suitable for cultivating:
 
-- **Psilocybe mexicana**: Produces both mushrooms and sclerotia
-- **Psilocybe tampanensis**: Produces both mushrooms and sclerotia
-- **Panaeolus subbalteatus**: Produces mushrooms
-- **Psilocybe cubensis**: Produces mushrooms (though rye grain is
-  generally preferred for this species due to its larger kernel
-  size and easier handling)
-
-The substrate is especially valuable for sclerotia-producing species
-because the grass seed can remain in the jar for extended periods
-(4+ months) without degradation, allowing sclerotia to develop
-to their maximum size without the need for casing or fruiting
-chamber infrastructure.
+- **Psilocybe mexicana** — supports both mushroom and sclerotia production
+- **[[psilocybe-tampanensis-entity]]** — excellent sclerotia former ("philosopher's stones")
+- **[[brassinosteroid-growth-promotion-psilocybe-cubensis]]** — viable but rye grain is generally preferred
+- **Panaeolus subbalteatus** — produces mushrooms reliably on this medium
 
 ## Seed Selection
 
-The most commonly used seed is rye grass seed (Lolium perenne),
-but mixtures of different grass species have also been used with
-great success. The critical requirement is that the seed must NOT
-be treated with fungicides. Treated seed is commonly sold for
-agricultural planting and will inhibit or prevent mycelial growth.
+The most commonly used seed is **rye grass seed** (*[[lolium-perenne]]*), though
+mixtures of different grass species have been used successfully. The critical
+requirement is that the seed must **not be treated with fungicides**. Treated
+seed is typically labeled as such on packaging. Untreated seed can often be
+sourced inexpensively from animal feed stores, where it is sold as bird feed.
 
-Seed sourcing options include:
+## Basic Formula (720 ml Jars)
 
-- Animal feed stores, where grass seed is sold as bird feed. This
-  is often the most economical option.
-- Agricultural supply stores, where untreated seed can be
-  specifically requested.
-- Online seed suppliers, though shipping costs may be significant
-  for large quantities.
+The standard preparation ratio for a 720 ml wide-mouth jar:
 
-Cost should not be the only consideration; seed quality, freshness,
-and absence of chemical treatments are paramount. Old or poorly
-stored seed may have reduced water absorption capacity, leading
-to inconsistent substrate moisture levels.
+- **110 grams** grass seed (dry weight)
+- **180 ml** water
 
-## Hydration Methods
+The water and seed are combined directly in the jar. Lids are placed loosely
+on top — never screwed tight — and a double layer of aluminum foil is crumpled
+over the lid and upper portion of the jar to maintain sterility while allowing
+pressure equalization.
 
-Two primary methods are used for hydrating grass seed substrate:
+## Water Absorption Variability
 
-### Direct Addition Method
+Different varieties and even different batches of the same grass seed variety
+can differ greatly in their water absorption capacity. This is one of the most
+common sources of failure:
 
-The formula for 720 ml jars is:
-- 110 grams of grass seed per jar
-- 180 ml of water per jar
+- **Too much water** produces a slimy, clumped mass that cannot be shaken to
+  distribute mycelium, leading to slow or incomplete colonization
+- **Too little water** results in excessively dry substrate that produces
+  little to no mushrooms or sclerotia
 
-The water and seed are added directly to the jar. After filling,
-lids are placed on the jars but NOT screwed tight — they must
-remain loose to allow steam escape during sterilization. A double
-layer of aluminum foil is crumpled over the lid and top part of
-the jar before sterilization.
+ growers are advised to experiment with water ratios for each new batch of seed.
 
-### Overnight Soak Method
+## Alternative: Overnight Soak Method
 
-Alternatively, grass seed can be soaked in water overnight before
-jarring. This produces a more homogenous substrate because all
-kernels have equal time to absorb water. After soaking, the
-saturated seed is drained and filled into jars. This method
-reduces the risk of having overly wet or dry spots within the
+Rather than adding water directly to dry seed in the jar, the seed can be
+soaked in water overnight before loading. This produces a more homogenous
+substrate because all kernels absorb water uniformly. After soaking, excess
+water is drained and the saturated seed is loaded into jars.
+
+## Sterilization Requirements
+
+Grass seed substrate must be sterilized in a **pressure cooker or autoclave** —
+a standard boiling pot will not achieve sufficient sterilization. Sterilization
+parameters:
+
+| Jar Size | Sterilization Time |
+|----------|-------------------|
+| 720 ml (1 pint) | 1 hour at 15 PSI |
+| 1.5 litre (quart) | 2 hours at 15 PSI |
+| Spawn bags | 2 hours at 15 PSI |
+
+After sterilization and pressure release, jars should be shaken to mix wet and
+dry kernels. Jars must be checked for cracks before shaking. Lids remain loose
+during cooling to prevent vacuum formation.
+
+## Inoculation
+
+Once jars reach room temperature, they can be inoculated using spore syringes,
+liquid culture syringes, agar wedges, or other inoculant types. Critical
+inoculation practices:
+
+1. **Work clean** — use a still-air box or laminar flow hood
+2. **Flame-sterilize** needles before each jar and scalpels before each agar
+   transfer
+3. **Open lids only briefly** — minimize exposure of sterile grain to open air
+4. **Shake after inoculation** to distribute the inoculant
+5. **Re-loosen lids** after shaking to allow gas exchange
+
+## Colonization Timeline
+
+Under optimal conditions (20°C or slightly above), grass seed is fully
+colonized in **5–20 days** depending on:
+
+- Temperature (warmer speeds colonization within safe range)
+- Species (P. cubensis is generally faster than P. mexicana)
+- Inoculation method (liquid culture colonizes faster than spore syringe)
+
+Shaking jars when mycelium is visible in only a few spots dramatically
+accelerates colonization by distributing colonized kernels throughout the
 substrate.
 
-## Moisture Considerations
+## Metabolite Warning
 
-Different varieties of grass seed and even different batches of the
-same variety can differ greatly in their ability to absorb water.
-This variability requires attention and occasional adjustment:
-
-- **Too much water**: Results in a slimy, anaerobic clump of seed
-  that cannot be shaken apart after sterilization. This promotes
-  bacterial contamination and inhibits mycelial growth.
-
-- **Too little water**: Produces substrate that is too dry,
-  resulting in slow colonization and reduced mushroom or
-  sclerotia production.
-
-The water-to-seed ratio should be adjusted based on the specific
-seed being used. Starting with the standard ratio and adjusting
-in 10-20 ml increments based on results is recommended. Some
-cultivators prefer the overnight soak method specifically because
-it reduces moisture variability between batches.
-
-## Jar Preparation
-
-After filling jars with hydrated seed, the following steps are
-essential:
-
-1. Place lids loosely on the jars (do not screw tight)
-2. Cover with a double layer of crumpled aluminum foil
-3. Ensure the foil creates a good seal over the jar mouth while
-   still allowing pressure equalization
-
-The loose lid and foil covering serve as a contamination barrier
-during sterilization while allowing steam to penetrate the
-substrate. The foil also protects the lid and filter (if present)
-from getting wet during sterilization, which could create a wick
-path for contamination.
+If jars are incubated too long or at too high a temperature, mycelium will
+excrete yellowish metabolites (sometimes called "mycelium piss"). This is a
+stress signal indicating the mycelium needs to be cased or spawned as soon as
+possible. While not necessarily fatal, it indicates suboptimal conditions.
 
 ## Advantages Over Other Substrates
 
-Grass seed offers several advantages compared to other grain
-substrates:
+Grass seed offers several advantages:
 
-- Smaller kernel size provides more inoculation points per unit
-  volume, leading to faster colonization
-- Good water retention without becoming waterlogged
-- Suitable for long-term incubation (months) without degradation
-- Readily available and inexpensive from feed stores
-- Can support both fruiting body and sclerotia production
-- Relatively easy to shake and redistribute mycelium
+- **Dual-purpose** — supports both fruiting and sclerotia without casing
+- **Small kernel size** — provides many inoculation points per volume
+- **Easy to shake** — loose substrate distributes mycelium rapidly
+- **Readily available** — inexpensive and sold in many retail locations
+- **Good water retention** — holds moisture well for extended fruiting
 
 ## Disadvantages
 
-- Smaller kernels can be more difficult to work with than rye
-  grain
-- Greater moisture variability between seed batches
-- May require more careful moisture management
-- Not ideal for all species (rye grain preferred for P. cubensis)
-
-## See Also
-
-- [[sclerotia-formation]]
-- [[psilocybe-mexicana]]
-- [[mushroom-inoculation-techniques]]
+- Water absorption variability between batches requires adjustment
+- More expensive per volume than whole grains in some regions
+- Can become anaerobic if overwatered
+- Requires pressure cooker sterilization (no boil method)

@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-JADAM pesticide recipe #5 targets canker, black spot, pear rust, and brown blotch diseases on fruit trees and vegetables. This is a stronger formulation than recipe #4 ([[jadam-herb-solution-jhs]] for combined disease and pest control.
+JADAM pesticide recipe #5 targets canker, black spot, pear rust, and [[oyster-brown-blotch-disease]] diseases on fruit trees and vegetables. This is a stronger formulation than recipe #4 ([[jadam-herb-solution-jhs]] for combined disease and [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]].
 
 **Developed by:** Jaun Gu, Hiseok Bak, Youngsang Cho
 
@@ -32,7 +32,7 @@ For 500 L (132 gal) of spray solution:
 - Rice leaf blight
 - White rot on mulberry
 - Brown blotch on chokeberry
-- Powdery mildew on rose
+- [[cervantes-powdery-mildew-prevention-treatment]] on rose
 
 ## Application Instructions
 
@@ -63,18 +63,17 @@ For 500 L (132 gal) of spray solution:
 
 This recipe replaces expensive commercial fungicides. At JADAM-scale production, the total pesticide cost for 330 acres was approximately $7/acre per year.
 
-
 ## Prevention Strategies
 
 Canker and leaf spot diseases are most effectively managed through
 prevention rather than treatment. Proper spacing ensures adequate
-air circulation around plants, reducing the humid conditions that
-favor fungal pathogen growth. Removing and destroying infected
+[[stamets-growing-room-air-circulation-co2-management]] around plants, reducing the humid conditions that
+favor [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] growth. Removing and destroying infected
 plant material prevents disease spread to healthy tissue. Avoiding
 overhead watering and watering early in the morning allows foliage
 to dry quickly, minimizing infection windows.
 
-Crop rotation breaks disease cycles by removing susceptible hosts
+[[comparison-crop-rotation-vs-cover-cropping]] breaks disease cycles by removing susceptible hosts
 from the growing area for 2-3 years. Resistant varieties, when
 available, provide the most sustainable long-term solution.
 Maintaining balanced soil nutrition through JADAM inputs

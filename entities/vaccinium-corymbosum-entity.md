@@ -14,7 +14,7 @@ sources:
 # Vaccinium corymbosum
 
 Vaccinium corymbosum, the northern highbush blueberry, is a deciduous shrub
-in the Ericaceae native to eastern North America. It produces one of the
+in the Ericaceae native to [[polypore-fungi-eastern-north-america]] America. It produces one of the
 most commercially important berry crops, prized for its sweet-tart flavor,
 exceptional antioxidant content, and culinary versatility. The fruit is
 among the richest dietary sources of anthocyanins — particularly malvidin,
@@ -51,7 +51,7 @@ The genus name is of uncertain etymology, possibly from Latin *vacca*
 | **Spread** | 1–2 m, forming rounded mounds with age |
 | **Lifespan** | 40–60+ years; peak production at 8–15 years |
 | **Root system** | Shallow, fibrous, fine hair roots lacking root hairs; |
-| | ericoid mycorrhizae essential for nutrient uptake in acid soils |
+| | ericoid mycorrhizae essential for [[plant-nutrient-uptake-mechanisms]] in acid soils |
 | **Bark** | Grey-brown, smooth on young stems, fissured on older canes |
 | | New growth often reddish or green with waxy bloom |
 
@@ -84,7 +84,7 @@ The genus name is of uncertain etymology, possibly from Latin *vacca*
   the Appalachian region and Atlantic coastal plain.
 - **Habitat:** Acidic bogs, swamps, sandy barrens, woodland margins.
   Associates with sphagnum moss and other Ericaceae. Naturally on acidic
-  soils (pH 3.5–5.5) with high organic matter.
+  soils (pH 3.5–5.5) with high [[hamilton-composting-and-organic-matter-management]].
 - **Current distribution:** Cultivated across temperate regions worldwide.
 - **Major areas:** Pacific Northwest, Michigan, New Jersey, North Carolina,
   Chile, Peru, Spain, Poland. Global production exceeds 1.8 million tonnes.
@@ -106,7 +106,7 @@ Per 100 g raw highbush blueberries:
   bush achievable in home gardens.
 - **Pollinator support:** Spring flowers provide critical early-season
   nectar and pollen for native bees, bumblebees, and honeybees.
-- **Erosion control:** Dense, shallow roots stabilize soil on slopes.
+- **[[permplant-willows-salix-erosion-control-fodder]]:** Dense, shallow roots stabilize soil on slopes.
   Suitable for riparian buffers in acidic soils.
 - **Ornamental value:** Multi-season interest — white spring flowers,
   blue summer fruit, spectacular red-orange fall foliage.
@@ -126,7 +126,7 @@ Per 100 g raw highbush blueberries:
 - **Planting:** 1–1.5 m apart for hedgerows, 2–3 m for individuals. Set
   5 cm deeper than nursery level. Mulch heavily (10–15 cm) with pine bark.
 - **Irrigation:** Shallow roots need consistent moisture, especially during
-  fruit development. Drip irrigation ideal (25–40 mm/week growing season).
+  fruit development. [[comparison-drip-irrigation-vs-passive-irrigation]] ideal (25–40 mm/week [[savory-growing-season-and-non-growing-season-management]]).
 - **Fertilization:** Minimal nitrogen; ammonium sulfate preferred (acidifies
   soil). Foliar iron/magnesium sprays for high-pH situations.
 - **Pruning:** Remove oldest canes (>6 years) at ground level. Maintain mix
@@ -137,10 +137,13 @@ Per 100 g raw highbush blueberries:
 ## Notable Cultivars
 
 - **Early:** 'Duke' (hardy, productive), 'Patriot' (cold-hardy), 'Spartan'
-  (large fruit, excellent flavor)
-- **Mid:** 'Bluecrop' (industry standard), 'Berkeley' (very large), 'Legacy'
-  (evergreen tendency in mild climates)
 ## See Also
+
+- [[morella-inodora]]
+
+- [[morella-caroliniensis]]
+
+- [[morella-cerifera]]
 
 - [[ribes-nigrum]]
 - [[symphytum-officinale]]

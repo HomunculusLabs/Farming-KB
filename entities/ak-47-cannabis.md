@@ -48,7 +48,7 @@ AK-47 is characterized by a complex, pungent, and layered sensory profile:
 - **Key terpenes:** [[limonene]], [[humulene]],
   linalool
 - The aroma intensity is moderate to strong, making odor control
-  important for indoor cultivation
+  important for [[cannabis-sativa-indoor-cultivation-techniques]]
 
 ## Effects and Pharmacology
 
@@ -62,7 +62,7 @@ AK-47 is valued for its balanced and manageable psychoactive profile:
 - **Character:** Despite the sativa dominance, the Afghani influence
   provides a grounding body component that prevents the racy,
   overstimulating quality of pure sativas
-- **Medical applications:** Chronic pain, anxiety, PTSD, depression,
+- **Medical applications:** [[cannabis-chronic-pain-management]], anxiety, PTSD, depression,
   nausea, appetite stimulation, migraine, muscle spasms, insomnia (at
   higher doses)
 - **Side effects:** Dry mouth, dry eyes, possible dizziness at high doses,
@@ -84,13 +84,13 @@ AK-47 is considered one of the easier premium strains to cultivate:
   climates. Outdoor harvest early to mid-October in the Northern Hemisphere
 - **Resistance:** Good pest and mold resistance; the Afghani heritage
   contributes hardiness and disease resistance
-- **Nutrient needs:** Moderate to heavy feeder during vegetative growth;
-  moderate during flowering. Responds well to standard nutrient regimens
+- **Nutrient needs:** Moderate to heavy feeder during [[cannabis-vegetative-growth-stage]];
+  moderate during flowering. Responds well to standard [[cannabis-nutrient-regimens-comparison]]
 - **Training:** Responds well to SCRoG, LST, and supercropping. Topping
   is recommended to manage height and increase lateral branching
 - **Clone performance:** Clones readily and maintains stable genetics;
   mother plants are long-lived and productive
-- **Resin production:** Heavy trichome production, making it suitable
+- **[[cannabis-glandular-trichome-types-resin-production-clarke]]:** Heavy trichome production, making it suitable
   for hash and concentrate production
 
 ## Terpene Profile
@@ -131,7 +131,7 @@ important cannabis gene pools:
 
 ## Legal Status
 
-As a cannabis strain, AK-47's legal status follows local cannabis
+As a [[blesching-cannabis-strain-selection-receptor-targeting]], AK-47's legal status follows local cannabis
 regulations. In jurisdictions where cannabis is legal (Canada, multiple
 US states, Germany, Thailand, South Africa, and others as of 2026), AK-47
 seeds, clones, and flower are available through licensed channels. In

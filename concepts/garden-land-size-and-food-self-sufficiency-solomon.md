@@ -20,7 +20,7 @@ inside a wildlife-proof fence.
 
 Solomon emphasizes that if the soil where you live does not freeze solid in
 winter to a depth of at least 18 inches for a few continuous months, it is
-probably not possible to grow a vegetable garden on the same land for more
+probably not possible to grow a [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] on the same land for more
 than three to five years before serious troubles arise with diseases and/or
 soil-dwelling insects.
 
@@ -47,7 +47,7 @@ nearly all calories rather than just half — requires approximately 2,700 to
 5,000 square feet (250 to 465 square meters) of active growing area per
 person. Several factors affect this figure:
 
-- **Climate and growing season**: Longer, warmer seasons with more frost-free
+- **Climate and [[savory-growing-season-and-non-growing-season-management]]**: Longer, warmer seasons with more frost-free
   days allow more intensive use of space. Britain's [[soil-quality-fungal-bioindicators]]**: Deep, moisture-retentive, fertile soil produces more per
   square foot than poor soil.
 - **Gardener skill**: Experienced gardeners extract more from the same space.
@@ -63,11 +63,11 @@ nutrition by growing cereal grains (wheat, oats, barley, corn) would require
 five to ten times as much land per person as relying on potatoes or sweet
 potatoes.
 
-This has profound implications for garden planning. A family attempting true
-self-sufficiency with wheat as their staple calorie crop would need an
+This has profound implications for [[hamilton-garden-planning-and-site-assessment]]. A family attempting true
+self-sufficiency with wheat as their staple [[jeavons-carbon-and-calorie-crop-integration]] would need an
 impractically large garden. With potatoes or sweet potatoes as the caloric
 base, complete self-sufficiency becomes achievable on a quarter-acre or less
-of total land (including ley rotation, paths, and fruit plantings). Solomon
+of total land (including [[solomon-garden-ley-rotation-soil-restoration]], paths, and fruit plantings). Solomon
 notes that the potato is a genuinely health-producing food, providing
 substantial nutrition when consumed with modest amounts of dairy, legumes,
 and garden vegetables.
@@ -83,7 +83,7 @@ the Cuban model and the British wartime experience.
 
 ## See Also
 
-- complete organic fertilizer recipe solomon
+- complete [[complete-organic-fertilizer-cof-recipe-solomon]] recipe solomon
 - complete organic fertilizer recipe solomon
 - complete organic fertilizer recipe solomon
 

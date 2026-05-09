@@ -1,5 +1,5 @@
 ---
-title: EMCDDA Hallucinogenic Mushroom Internet Shop Market Snapshot 2006
+title: EMCDDA emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Internet Shop Market Snapshot 2006
 created: 2026-04-28
 tags:
   - emcdda
@@ -43,7 +43,7 @@ reflecting the country's role as the primary hub for the legal smartshop trade.
 The remaining 18% included four Austrian online shops selling growkits and
 sporeprints (such as magicmushrooms.org), two German sites, a UK site linked to a
 Dutch online shop, and a Polish site (narkus.pl) that primarily sold cannabis
-products but referenced hallucinogenic mushrooms as temporarily unavailable.
+products but referenced [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] as temporarily unavailable.
 Website statistics from one Dutch online shop, tracked via Webstats4u between May
 2004 and February 2006, showed that site access was dominated by visitors from the
 Netherlands (73%), followed by Belgium (14%), Germany (2%), and France (2%).
@@ -57,7 +57,7 @@ Online shops sold a diverse range of hallucinogenic mushroom products, from fres
 mushrooms for immediate consumption to cultivation supplies for home growing.
 The EMCDDA survey documented the following price ranges for the most commonly
 available products.
-Fresh Psilocybe cubensis (Mexican variety) in 30-gram portions were priced between
+Fresh [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] (Mexican variety) in 30-gram portions were priced between
 8.50 and 45.28 euros.
 
 The five-fold price variation within a single product category indicates significant
@@ -76,14 +76,14 @@ stone-like appearance.
 
 Cultivation supplies represented a significant and growing segment of the online
 market.
-Spawnbags for Psilocybe azurescens were priced at 24 to 25 euros per unit.
+Spawnbags for [[stamets-psi-psilocybe-azurescens-species-guide]] were priced at 24 to 25 euros per unit.
 Growkits ranged from 25 to 100 euros each depending on species and complexity.
 Spore prints or syringes were priced between 9 and 28 euros.
 Growkits typically contained a box with colonized substrate, a bag with an air
 filter, and paperclips, providing everything needed for home cultivation.
 The cultivation supply market was significant because it enabled consumers to bypass
 the fresh mushroom market entirely, producing their own supply at home.
-The relative ease of mushroom cultivation from growkits, combined with the
+The relative ease of [[accessible-mushroom-cultivation-for-disabilities]] from growkits, combined with the
 availability of detailed online instructions, created a potential for distribution
 that was difficult for authorities to monitor or control.
 The kits were also less perishable than fresh mushrooms, facilitating international
@@ -92,7 +92,7 @@ shipping.
 ## Free Spore Distribution Channel
 
 Users could also obtain a variety of strains including Psilocybe cubensis and
-Panaeolus cyanescens for a price of 1 euro per print from the Free Spore Ring Europe
+[[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] for a price of 1 euro per print from the Free Spore Ring Europe
 (FSRE, fsre.org), a non-profit organization.
 This parallel free distribution channel existed alongside the commercial market and
 represented a distinct subculture of amateur mycologists.
@@ -137,7 +137,9 @@ changes and their willingness to comply with new restrictions.
 The UK prohibition was estimated to have affected approximately 300 shops and market
 ## See Also
 
+- emcdda-hallucinogenic-mushroom-internet-shop-pricing-snapshot-2006
+
 - [[amanita-pantherina]]
 - [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]] for the full overview
-- [[emcdda-hallucinogenic-mushroom-legal-loopholes]] for retailer legal strategies
+- emcdda-hallucinogenic-mushroom-legal-loopholes for retailer legal strategies
 - [[emcdda-hallucinogenic-mushroom-dose-effects]] for pharmacology information

@@ -25,15 +25,15 @@ work the fields without pulling a plow or swinging a hoe? Let the grasses plow
 the topsoil and the trees work the deeper layers.
 
 Farmers usually plow the soil to a depth of about four to eight inches, whereas
-the roots of grasses and [[faires-soil-management-and-sheet-mulching]] to swell and grow more porous with each passing
+the roots of grasses and faires-soil-management-and-sheet-mulching to swell and grow more porous with each passing
 year. This is absolutely essential for microorganisms to multiply in the earth,
 for the soil to grow more fertile, and for the roots of large trees to
 penetrate deep into the ground. Working the soil with plow and hoe actually
 interferes with these processes. If man leaves the soil to itself, the forces
 of nature will enrich and loosen.
 
-Applying chemical fertilizers encourages the tree to grow a shallow root
-structure that extends along the topsoil. Fertilizer application and weeding
+Applying [[cervantes-chemical-fertilizers-guide]] encourages the tree to grow a shallow root
+structure that extends along the topsoil. [[cervantes-fertilizer-application-strain-feeding]] and weeding
 bring a halt to the normal aggregation and enrichment of topsoil. Clearing new
 land for agriculture by pulling up trees and bushes robs the deeper layers of
 the soil of a source of [[fukuoka-straw-mulch-philosophy]] suitable for growing crops, and
@@ -73,18 +73,18 @@ to droughty and cold conditions as well as to high temperatures.
 
 Bur clover, useful in controlling spring weeds, withers in the summer but
 grows back again in the fall and suppresses winter weeds as well. A useful
-orchard cover crop, it is also valuable in the rotation as a crop preceding
+[[fukuoka-orchard-cover-crop-black-wattle-system]] crop, it is also valuable in the rotation as a crop preceding
 summer vegetables.
 
 ### Black Wattle as a Fertilizer Tree
 
 The black wattle, a type of acacia, serves as a fertilizer tree. When
-planted on the perimeter of the orchard, it provides nitrogen fixation and
+planted on the perimeter of the orchard, it provides [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and
 organic matter. Its leaves decompose and add nutrients to the soil surface.
 
 ## The Role of Straw Mulch
 
-Natural rice farming began with straw. This promotes seed germination, holds
+Natural rice farming began with straw. This promotes [[cannabis-seed-germination-methods]], holds
 back winter weeds, and enriches the soil. All of the straw and chaff obtained
 when harvesting and threshing the rice should be scattered uncut over the
 entire surface of the field. The agricultural technician has always regarded
@@ -93,7 +93,7 @@ and accepted practice has been to apply the straw only when fully decomposed
 as prepared compost.
 
 Fukuoka deliberately called composting unnecessary and proposed that all the
-fresh rice straw be scattered over the field during barley cultivation and
+fresh rice straw be scattered over the field during [[fukuoka-textdoc-barley-cultivation-three-stage-no-tillage-evolution]] and
 all the barley straw be spread over the field during rice cultivation. Straw
 produced on rice fields is of great importance as a source of organic
 fertilizer and for protecting the fields and enriching the soil.
@@ -107,3 +107,9 @@ along hill contours, covered with earth, and allowed to decompose naturally,
 the soil is enriched without the need for prepared compost. Five to ten years
 are needed to build up six inches of topsoil through soil improvement with
 cover crops, but once established, the soil maintains its own fertility.
+## See Also
+- [[masanobu-fukuoka]]
+- [[fukuoka-textdoc-citrus-orchard-soil-building-without-fertilizer]]
+- [[fukuoka-soil-fertility-straw-mulch]]
+- [[fukuoka-soil-building-method]]
+- [[fukuoka-soil-building-approach]]

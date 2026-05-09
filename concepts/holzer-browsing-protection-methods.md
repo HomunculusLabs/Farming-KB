@@ -1,11 +1,12 @@
 ---
-title: Holzer Browsing Protection Methods
+title: Holzer holzer browsing protection methods Methods
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Browsing Protection Methods
@@ -15,10 +16,10 @@ sources:
 The fundamental approach: sow and plant everything in large enough quantities so that deer, birds, hares, and mice all have something to eat. Nature is fertile enough to provide for everyone. When humans become too miserly, a great battle against fellow creatures begins.
 
 ### Distraction Plants
-- Jerusalem artichokes (also serve as green manure)
+- Jerusalem artichokes (also serve as [[comparison-green-manure-guide-vs-mulch-types-and-effects]])
 - Various kinds of clover (also serve as green manure)
 - Buckwheat (also serves as green manure)
-- Various types of fruit bushes (especially effective at keeping deer away from polycultures)
+- Various types of [[holzer-soft-fruit-bushes-and-berries]] (especially effective at keeping deer away from polycultures)
 - Extra willow trees, especially in front of slopes (deer much prefer stripping willows because bark is softer and more elastic)
 
 ### Natural Branch Protection
@@ -69,7 +70,7 @@ If using naphtha or beechwood tar instead of bone salve (less intense odour):
 ### Observed Effectiveness
 Holzer observed a deer and her fawn trying to eat young fruit trees that had been sprinkled with the salve. For the first couple of bites, no reaction. Then the deer began acting as if crazy -- gagging, throwing its head from side to side, running wildly and trying to wipe the taste from its mouth on the grass. The fawn reacted the same way. The salve has not let Holzer down to this day.
 
-See also: [[permaculture-grazing-and-pasture]], [[holzer-green-manure-and-soil-building-plants]] for seasonal planting calendars.
+See also: [[permaculture-grazing-and-pasture]], [[holzer-green-manure-and-soil-building-plants]] for [[hamilton-seasonal-planting-calendars]] calendars.
 
 ### Complementary Physical Protection Methods
 
@@ -77,7 +78,7 @@ While Holzer's biological and olfactory methods form the core of his approach, c
 
 ### Long-Term Landscape Integration
 
-The most effective browsing protection in Holzer's system is achieved through long-term landscape design that makes browsing animals a net benefit rather than a problem. As a permaculture system matures, the increasing diversity and abundance of food sources naturally reduces browsing pressure on any single species. Young food forests are most vulnerable during their establishment phase when trees are small and alternative forage is limited. Holzer addresses this by designing establishment sequences that begin with fast-growing pioneer species and sacrificial plants that bear the brunt of early browsing while slower-growing fruit trees and timber species establish below the browse line. Thorny hedges of wild roses, barberries, and blackthorn serve a dual purpose — they physically exclude deer from protected areas while producing berries that feed birds and provide habitat for predatory insects that control orchard pests. As the system matures, these functional hedges become productive elements in their own right. Holzer also emphasizes that deer and other browsing animals perform valuable ecosystem services including seed dispersal, nutrient cycling through their droppings, and vegetation management that maintains open areas and prevents any single species from dominating. The goal is not to exclude wildlife but to design systems where their presence contributes to overall productivity. See [[permaculture-grazing-and-pasture]] for integrated animal-plant systems.
+The most effective browsing protection in Holzer's system is achieved through long-term landscape design that makes browsing animals a net benefit rather than a problem. As a permaculture system matures, the increasing diversity and abundance of food sources naturally reduces browsing pressure on any single species. Young food forests are most vulnerable during their establishment phase when trees are small and alternative forage is limited. Holzer addresses this by designing establishment sequences that begin with fast-growing pioneer species and sacrificial plants that bear the brunt of early browsing while slower-growing fruit trees and timber species establish below the browse line. Thorny hedges of wild roses, barberries, and blackthorn serve a dual purpose — they physically exclude deer from protected areas while producing berries that feed birds and provide habitat for predatory insects that control orchard pests. As the system matures, these functional hedges become productive elements in their own right. Holzer also emphasizes that deer and other browsing animals perform valuable [[biodiversity-of-fungi-ecosystem-services-agriculture]] including seed dispersal, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] through their droppings, and vegetation management that maintains open areas and prevents any single species from dominating. The goal is not to exclude wildlife but to design systems where their presence contributes to overall productivity. See [[permaculture-grazing-and-pasture]] for integrated animal-plant systems.
 
 ### Adapting the Approach for Different Scale Sites
 

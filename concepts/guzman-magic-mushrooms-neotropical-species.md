@@ -1,19 +1,13 @@
 ---
-title: Neotropical Neurotropic Fungi of Central and South America
+title: Neotropical challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification of Central and [[guzman-psilocybin-mushrooms-south-america]]
 created: 2026-04-28
-tags: [[mycology, neotropical-fungi, psilocybin-mushrooms, mexico, south-america]
+tags: [mycology, neotropical-fungi, psilocybin-mushrooms, mexico, south-america]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
 type: concept
 ---
-
-# Neotropical Neurotropic Fungi of Central and South America
-
-## Mexico: The Global Center of Neurotropic Fungal Diversity
-
-Mexico possesses the highest number of neurotropic species of any country,
-with 76 total species, of which 44 belong to [[conocybe-cyanopus]] siliginoides: Used by Mazatec Indians; originally called
+# Neotropical Neurotropic Fungi of Central and South America ## Mexico: The Global Center of Neurotropic Fungal Diversity Mexico possesses the highest number of neurotropic species of any country, with 76 total species, of which 44 belong to [[conocybe-cyanopus]] siliginoides: Used by Mazatec Indians; originally called
   "nti-si-tho" by them
 - [[gymnopilus-purpuratus]] spectabilis, G. lateritius, G. subpurpuratus
 - [[guzman-magic-mushrooms-global-biogeography]] for worldwide patterns
@@ -35,7 +29,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -85,7 +79,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -95,4 +89,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

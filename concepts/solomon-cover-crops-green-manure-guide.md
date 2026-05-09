@@ -11,7 +11,7 @@ type: concept
 
 ## Overview
 
-Green manures and cover crops are interchangeable terms for growing something whose sole purpose is enriching the soil. Solomon considers cover cropping one of the most important skills for the serious gardener, but warns that practicing it can be tricky and hazardous.
+Green manures and [[cover-crops]] are interchangeable terms for growing something whose sole purpose is enriching the soil. Solomon considers cover cropping one of the most important skills for the serious gardener, but warns that practicing it can be tricky and hazardous.
 
 ## The Fundamental Principle
 
@@ -19,7 +19,7 @@ If a plot of land is put to work growing as much biomass as can be formed during
 
 Example: A pasture growing a mixture of grasses and clovers has a thick sward intercepting every bit of sunlight and converting it to biomass every day of the growing season. Over years of such treatment, fertility builds.
 
-The vegetable garden is the opposite -- plants start small, spaced far apart, and by the time the crop canopy thickly covers the ground (formed), much of the growing season has already passed. The canopy persists and then the crop matures and dies back. Considerable growth could happen between the first frost and hard freezing, but the veggie garden, growing mainly frost-tender species, is bare then too.
+The [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] is the opposite -- plants start small, spaced far apart, and by the time the crop canopy thickly covers the ground (formed), much of the growing season has already passed. The canopy persists and then the crop matures and dies back. Considerable growth could happen between the first frost and hard freezing, but the veggie garden, growing mainly frost-tender species, is bare then too.
 
 Cover cropping means making sure the ground produces more biomass by covering it with a crop canopy for as much of the growing season as possible.
 
@@ -49,7 +49,7 @@ One crop can put residues into the soil that harm the growth of the crop that fo
 
 If all goes well, cover cropping provides:
 - Soil thickly filled with rapidly decomposing roots, leaving the land loose, airy, and totally open to rapid root penetration
-- Beneficial insects have had a place to overwinter
+- [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] have had a place to overwinter
 - If the cover crop was a legume, it will have put nitrogen and organic matter into the soil
 - If not a legume, it still contributes organic matter
 - An overwintering cover crop incorporated nutrients that might otherwise have leached out; these are now part of the decomposing mass and steadily released
@@ -60,7 +60,7 @@ If all goes well, cover cropping provides:
 - Grows best during early summer
 - Local varieties adapted to your situation are important -- use seed grown at similar latitude
 - Sown thickly before the solstice, grows waist-high in less than five weeks, then begins blooming
-- Seedmaking ends vegetative growth -- dig in or yank out before more than first few flowers appear
+- Seedmaking ends [[cannabis-vegetative-growth-stage]] -- dig in or yank out before more than first few flowers appear
 - Stalks are tender and brittle, easily dug in or rototilled without tangling
 - Decomposes in just one week if dug into moist soil before flowering
 - Puts soil into magnificent, fine-textured condition -- perfect seedbed for any following crop
@@ -69,7 +69,7 @@ If all goes well, cover cropping provides:
 WARNING: Buckwheat seed from a very different latitude may perform poorly. Solomon once used Australian buckwheat seed from semi-tropical Queensland at 41 degrees South latitude -- it hardly bloomed before stopping growth.
 
 ### Southern Peas
-Function much like buckwheat in summer, with the additional benefit of being a legume (nitrogen fixation). Promptly till in or yank out the crop when it begins flowering.
+Function much like buckwheat in summer, with the additional benefit of being a legume ([[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]). Promptly till in or yank out the crop when it begins flowering.
 
 ### Garden Peas as Green Manure
 Whole beds of ordinary garden peas can serve as green manure, with the benefit of filling the freezer with peas. If beds are needed sooner than the peas mature, the green manure can be composted anytime. Peas leave the soil in the most beautiful condition.
@@ -82,7 +82,7 @@ Fodder kale, oilseed radish, tyfon (a turnip x Chinese cabbage hybrid), rape, an
 On clay soils in mild areas, don't overwinter brassicas unless you can yank them out by hand when blooming begins. Sow at least 40 days before the end of the autumn growing season. Their leaves protect the ground in autumn; their huge taproots really open up the soil.
 
 ### Winter Legumes
-Annual legumes are the mainstay for overwintering in mild climates. Beware of perennial legumes which grow more slowly their first year and may be a bother the next. Crimson clover is widely used in Oregon. Hairy vetch is popular. Lupins and small-seeded fava beans are also suited.
+Annual legumes are the mainstay for overwintering in mild climates. Beware of perennial legumes which grow more slowly their first year and may be a bother the next. [[comparison-lupin-vs-crimson-clover-green-manure]] is widely used in Oregon. Hairy vetch is popular. Lupins and small-seeded fava beans are also suited.
 
 ## No-Till from Cover Crops
 
@@ -100,8 +100,8 @@ WARNING: This is not simple. The decomposing vegetation will be rather woody, an
 
 ## Related
 
-- [[complete-organic-fertilizer-recipes]] for heap composting
-- [[sheet-composting]] Guide
+- [[complete-organic-fertilizer-recipes]] for heap [[composting]]
+- sheet composting Guide
 
 # Solomon Sheet Composting Guide
 
@@ -117,7 +117,7 @@ The microbes especially need nitrogen compounds. But they also need phosphorus, 
 
 Strange as it seems: you sheet-compost to fertilize, but for a time the soil becomes LESS fertile. As the microbes "burn" the carbon, they incorporate plant nutrients contained in the organic matter into their bodies. Microorganisms are more aggressive than plants -- they get what they need first. Only when the food supply has been almost entirely consumed does the microbial population begin to die for lack of fuel. At that point, plant nutrients held in bacterial bodies are released back into the soil.
 
-Some nutrients become simple water-soluble chemicals, much like commercial fertilizer. But some become complex organic chelates that nourish plants much as vitamins nourish humans. To be fully healthy, to achieve the highest nutritional quality, plants need to assimilate a goodly portion of their nutrition from organic chelates.
+Some nutrients become simple water-soluble chemicals, much like commercial fertilizer. But some become complex organic chelates that nourish plants much as vitamins nourish humans. To be fully healthy, to achieve the highest [[coleman-winter-greens-nutritional-quality-cold-sweetening]], plants need to assimilate a goodly portion of their nutrition from organic chelates.
 
 ## Timing Requirements
 

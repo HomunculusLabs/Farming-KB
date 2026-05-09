@@ -5,14 +5,15 @@ updated: 2026-04-19
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Mu Farming Epistemology
 
 Updated: 2026-04-19
 
-Masanobu Fukuoka's concept of mu (nothingness, emptiness) forms the epistemological foundation of his natural farming philosophy in *The Natural Way of Farming*. Mu is not mere laziness or inaction but a fundamental critique of how human knowledge relates to nature.
+Masanobu Fukuoka's concept of mu (nothingness, emptiness) forms the epistemological foundation of his natural [[fukuoka-do-nothing-farming-philosophy-and-practice]] in *The Natural Way of Farming*. Mu is not mere laziness or inaction but a fundamental critique of how human knowledge relates to nature.
 
 ## The Origins of Mu
 
@@ -40,19 +41,19 @@ Fukuoka identifies several fundamental limitations of scientific agricultural kn
 
 - Experiments under fixed conditions in pots cannot be applied to natural field conditions
 
-- Only the efficacy of fertilizers is stressed; adverse effects are almost never reported
+- Only the efficacy of fertilizers is stressed; [[blesching-cannabis-safety-adverse-effects-evidence]] are almost never reported
 
 - Research ignores relationships between fertilizers and soil microbes
 
 - The vast complexity of interactions in a single gram of soil (100 million organisms) exceeds any experimental framework
 
-Scientific reasoning is of no avail in helping man understand nature. Nature as perceived by man through discriminating knowledge is a falsehood. Man can never truly know even a single leaf or a single handful of earth.
+Scientific reasoning is of no avail in helping man understand nature. Nature as perceived by man through [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] is a falsehood. Man can never truly know even a single leaf or a single handful of earth.
 
 ## The Problem of Fragmented Understanding
 
-"Natural farming treats everything as part of a whole." In contrast, scientific farming divides rice cultivation into narrow specialties: experts on germination, specialists in tillage, and likewise with seeding, transplanting, and other areas. "Solving problems independently is totally meaningless."
+"Natural farming treats everything as part of a whole." In contrast, [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] divides [[jadam-rice-cultivation-methods]] into narrow specialties: experts on germination, specialists in tillage, and likewise with seeding, transplanting, and other areas. "Solving problems independently is totally meaningless."
 
-The living and holistic biosystem that is nature cannot be dissected or resolved into its parts. Once broken down, it dies. Those who break off a piece of nature lay hold of something that is dead, and, unaware that what they are examining is no longer what they think it to be, claim to understand nature. See [[fukuoka-five-principles-natural-farming]] are not separate rules but aspects of a single abandonment of unnecessary intervention.
+The living and holistic biosystem that is nature cannot be dissected or resolved into its parts. Once broken down, it dies. Those who break off a piece of nature lay hold of something that is dead, and, unaware that what they are examining is no longer what they think it to be, claim to understand nature. See fukuoka-five-principles-natural-farming are not separate rules but aspects of a single abandonment of unnecessary intervention.
 
 Natural farming condenses inward, seeking ultimately a return to the true world of nature that transcends the world of relativity. It is in irreconcilable conflict with scientific farming, which expands forever in the relative world.
 

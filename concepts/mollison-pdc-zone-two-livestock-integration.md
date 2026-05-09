@@ -1,5 +1,5 @@
 ---
-title: Zone Two Livestock Integration
+title: Zone Two faires-livestock-integration-permaculture
 created: 2026-04-28
 tags:
   - permaculture
@@ -18,7 +18,7 @@ type: concept
 
 ## The Biological Funnel
 
-The [[pdc-forage-systems-animal-integration]]
+The pdc-forage-systems-animal-integration
 - Animals provide heat and decomposition of manures, creating synergistic
   effects with [[mollison-permaculture-two-zone-planning-and-site-layout]]
 - [[mollison-designers-temperate-zone-food-forest-design]]
@@ -99,4 +99,9 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[decomposition]]
+- [[jadam-livestock-integration-and-manure-management]]
+- [[holzer-livestock-integration]]
+- [[mollison-designers-temperate-zone-food-forest-design]]
+- [[mollison-designers-climate-zone-4-forage-gathering]]

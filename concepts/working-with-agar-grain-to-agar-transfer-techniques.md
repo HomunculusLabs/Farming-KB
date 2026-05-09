@@ -1,5 +1,5 @@
 ---
-title: "Working with Agar: Grain-to-Agar Transfer Techniques"
+title: "[[working-with-agar-pouring-plates-and-sterile-technique]]: Grain-to-Agar Transfer Techniques"
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,14 +10,14 @@ tags: [agar]
 
 # Working with Agar: Grain-to-Agar Transfer Techniques
 
-Transferring mycelium from grain spawn to agar is a standard operation for
+Transferring [[mycelium]] from [[comparison-grain-spawn-vs-grain-to-grain-transfer]] to agar is a standard operation for
 cleaning up cultures, expanding inoculum, or rescuing a culture before it
-degrades on grain. While the source document focuses on spore and tissue
+degrades on grain. While the source document focuses on [[spore]] and tissue
 [[working-with-agar-guide]]
 - [[working-with-agar-guide]]
 - [[working-with-agar-guide]]
-- [[fungal-culture-preservation-long-term-methods]]
-- [[stamets-spore-germination-and-tissue-culture]]
+- fungal-culture-preservation-long-term-methods
+- stamets-spore-germination-and-tissue-culture
 ## Practical Applications
 
 Working with Agar: Grain-to-Agar Transfer Techniques has a range of practical applications that make it relevant to
@@ -35,7 +35,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -85,7 +85,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -95,4 +95,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -69,7 +69,7 @@ Schizophyllan is currently produced commercially by several Japanese pharmaceuti
 
 The anticancer properties of these mushroom-derived compounds operate through multiple pathways:
 
-1. **Immune modulation**: Activation of natural killer (NK) cells, macrophages, and dendritic cells through beta-glucan receptor binding
+1. **[[cancer-immune-modulation-mechanisms]]**: Activation of natural killer (NK) cells, macrophages, and dendritic cells through beta-glucan [[tihkal-receptor-binding-serotonin]]
 2. **Direct antitumor effects**: Induction of apoptosis in cancer cells via mitochondrial pathways
 3. **Anti-angiogenesis**: Inhibition of tumor blood vessel formation
 4. **Anti-metastatic activity**: Prevention of cancer cell migration and invasion
@@ -86,7 +86,7 @@ Mushroom-derived preparations are generally well-tolerated with minimal side eff
 ## Key Points
 
 - Mushroom-derived polysaccharides show immunomodulatory and direct antitumor activity
-- Beta-glucans are the primary bioactive compounds responsible for immune activation
+- Beta-glucans are the primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] responsible for immune activation
 - Clinical evidence supports adjunctive use alongside conventional cancer treatments
 - Safety profiles are favorable compared to many conventional therapies
 - Further large-scale clinical trials are needed to optimize dosing protocols
@@ -95,6 +95,6 @@ Mushroom-derived preparations are generally well-tolerated with minimal side eff
 
 - [[medicinal-mushroom-guide-chaga]]
 - [[maitake-cancer-clinical-research]]
-- [[fungal-immunology-overview]]
+- fungal-immunology-overview
 - [[shiitake-mushroom-cultivation]]
 - [[reishi-mushroom-medicinal-research]]

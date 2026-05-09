@@ -1,5 +1,5 @@
 ---
-title: "Straw Substrate Preparation with Yeast Extract for Mushroom Cultivation"
+title: "Straw cotter-compost-substrate-preparation-manure-mushroom-cultivation with Yeast Extract for accessible-mushroom-cultivation-for-disabilities"
 source: "jarrold-indoor-mushroom-growing-technique-boil-a-bag.md"
 tags: [mushroom, straw-substrate, yeast-extract, marmite, boil-a-bag, substrate-preparation, mycelium, cultivation]
 created: 2026-05-08
@@ -18,13 +18,13 @@ method is designed for home cultivators using minimal specialized equipment.
 
 ## Why Straw Works as a Substrate
 
-Wheat straw is an excellent mushroom substrate for several reasons:
+Wheat straw is an excellent [[gourmet-medicinal-mushroom-substrate-preparation]] for several reasons:
 
 - **Cellulose and hemicellulose**: Primary carbon sources that most
   saprotrophic fungi can digest through cellulase and hemicellulase enzyme
   systems
 - **Lignin**: Available in smaller quantities, utilized by species with
-  ligninolytic enzymes (e.g., oyster mushrooms produce [[spore]] germination
+  [[singh-ligninolytic-enzymes-fungal-bioremediation]] (e.g., oyster mushrooms produce [[spore]] germination
   and early hyphal development
 
 Marmite and Vegemite are ideal because they are concentrated, water-soluble,
@@ -62,9 +62,9 @@ The straw/yeast extract substrate works well for:
 
 - **Oyster mushrooms** (*Pleurotus ostreatus* and related species): The
   classic straw-loving species; aggressive colonizer with high yield potential
-- **Psilocybe cubensis**: Original target species for the Jarrold method
+- **[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]**: Original target species for the Jarrold method
 - **Stropharia rugosoannulata** (wine cap): Excellent straw decomposer
-- **Panaeolus cyanescens**: Can fruit on straw-based substrates
+- **[[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]**: Can fruit on straw-based substrates
 
 ## Common Problems
 
@@ -83,3 +83,5 @@ The straw/yeast extract substrate works well for:
 ## See Also
 
 - [[marmite-yeast-extract-straw-substrate]]
+
+- [[stamets-substrate-supplementation-strategies-mushroom-cultivation]]

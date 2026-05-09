@@ -26,15 +26,15 @@ When plants are crowded, roots compete with neighboring plants and are restricte
 - Need frequent irrigation (the limited soil volume dries out quickly)
 - Need super-fertile soil (nutrients are depleted faster per unit volume)
 - Produce for a shorter period (the plant exhausts available resources)
-- Are more vulnerable to pests and diseases (stress from competition)
+- Are more vulnerable to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] (stress from competition)
 
 ## Root System Profiles
 
 ### Beet (Beta vulgaris)
-A beet root system at 110 days after sowing extends over 4 feet (120 cm) across and 7 feet (215 cm) deep. This drought-tolerant crop has a huge reservoir for moisture storage in its deeply adventitious root system, making it good at handling long-lasting dry spells. Given proper nutrition and wide spacing (1 foot apart in rows 4 feet apart), beets can continue enlarging without becoming woody even after five entirely rainless months.
+A beet root system at 110 days after sowing extends over 4 feet (120 cm) across and 7 feet (215 cm) deep. This drought-tolerant crop has a huge reservoir for moisture storage in its deeply adventitious root system, making it good at handling long-lasting dry spells. Given proper nutrition and [[solomon-wide-spacing-versus-intensive-gardening-debate]] (1 foot apart in rows 4 feet apart), beets can continue enlarging without becoming woody even after five entirely rainless months.
 
 ### Sweet Corn (Zea mays)
-At 8 weeks old, the corn root system extends far beyond the above-ground plant. Corn has a natural tendency to tiller (put up additional ear-bearing stalks) when given enough growing room. Each plant should exclusively control at least 24 square feet (2.25 square meters) for optimal production. Root depth allows corn to access deep soil moisture in drought conditions.
+At 8 weeks old, the corn root system extends far beyond the above-ground plant. Corn has a natural tendency to tiller (put up additional ear-bearing stalks) when given enough [[duggar-mushroom-growing-room-design]]. Each plant should exclusively control at least 24 square feet (2.25 square meters) for optimal production. Root depth allows corn to access deep soil moisture in drought conditions.
 
 ### Tomato (Solanum lycopersicum)
 Indeterminate tomato roots can extend 3-5 feet in all directions from the base. Given wide spacing (48x48 to 60x72 inches), the root system accesses a massive soil volume, which is why widely spaced tomatoes continue producing over a much longer season than crowded plants.
@@ -59,7 +59,7 @@ Potato root systems extend 2-3 feet in all directions. The stolons that produce 
 Solomon provides root system drawings comparing different plants, showing that:
 - Large plants (broccoli, cabbage, tomatoes) need proportionally more space because their root systems are larger
 - Small plants (radishes, salad greens, onions) can be closer because their root systems are smaller
-- Root depth correlates with drought tolerance -- deep-rooted crops (beets, parsnips) survive dry spells that would kill shallow-rooted crops (lettuce, radishes)
+- Root depth correlates with [[dighton-fungal-drought-tolerance-plant-water-relations]] -- deep-rooted crops (beets, parsnips) survive dry spells that would kill shallow-rooted crops (lettuce, radishes)
 - The root system of a healthy plant extends roughly 2-3 times the diameter of the above-ground plant
 
 ## How Modern Breeding Affects Roots

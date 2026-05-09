@@ -1,5 +1,5 @@
 ---
-title: "Beer Brewing vs Cider Making"
+title: "comparison beer brewing vs cider making vs Cider Making"
 created: 2026-04-28
 tags:
   - fermentation
@@ -19,7 +19,7 @@ type: comparison
 
 Beer brewing and cider making are two of the most popular fermentation traditions, each with distinct ingredients, processes, and equipment needs. Both produce alcoholic beverages through yeast fermentation but differ significantly in complexity, ingredient sourcing, and the skills required. For homesteaders, the choice between them often comes down to available resources, crop output, and desired level of involvement in the craft.
 
-Beer offers an enormous range of styles and deep creative control over the final product, while cider provides a simpler, more accessible path to producing quality fermented beverages with minimal inputs. Understanding the strengths and demands of each helps you pick the right fit for your homestead goals, available time, and budget. Many homesteaders eventually pursue both, starting with cider for its ease and graduating to beer for its creative depth.
+Beer offers an enormous range of styles and deep creative control over the final product, while cider provides a simpler, more accessible path to producing quality [[comparison-mead-vs-kvass-fermented-beverages]] with minimal inputs. Understanding the strengths and demands of each helps you pick the right fit for your homestead goals, available time, and budget. Many homesteaders eventually pursue both, starting with cider for its ease and graduating to beer for its creative depth.
 
 ## Beer Brewing
 
@@ -32,9 +32,9 @@ Cider making uses apples as its primary ingredient and is widely regarded as one
 - **Bittersweets** (Dabinett, Kingston Black) add tannin and structure, giving the cider complexity
 - **Bittersharps** (Foxwhelp) bring both tannin and acidity for a well-rounded profile
 
-A practical homestead strategy is to blend sweet and tart dessert apples rather than seeking out traditional cider varieties. This produces a perfectly drinkable cider without needing specialty fruit. A rough guideline is to use about 60% sweet apples, 20% tart apples, and 20% aromatic or astringent apples for balance.
+A practical homestead strategy is to blend sweet and tart dessert apples rather than seeking out traditional cider varieties. This produces a perfectly drinkable cider without needing uncommon [[uncommon-specialty-fruit-crops-for-permaculture]] for permaculture. A rough guideline is to use about 60% sweet apples, 20% tart apples, and 20% aromatic or astringent apples for balance.
 
-The cider process is straightforward: press or juice the apples, add yeast (or rely on wild fermentation from the apple skins), ferment for 2-6 weeks, then rack and age. Equipment needs are minimal compared to beer, often requiring just a fermenter, airlock, siphon, and optionally a fruit press. A thermometer and hydrometer are helpful but not strictly required for beginners.
+The cider process is straightforward: press or juice the apples, add yeast (or rely on [[comparison-wild-fermentation-vs-commercial-starter-culture]] from the apple skins), ferment for 2-6 weeks, then rack and age. Equipment needs are minimal compared to beer, often requiring just a fermenter, airlock, siphon, and optionally a fruit press. A thermometer and hydrometer are helpful but not strictly required for beginners.
 
 Wild fermentation is a viable and popular option, further reducing the barrier to entry. The natural yeasts present on apple skins can produce complex, terroir-driven ciders that commercial yeasts cannot replicate. With fewer ingredients and a simpler workflow, cider making is an excellent first fermentation project for any homestead.
 
@@ -49,7 +49,7 @@ Wild fermentation is a viable and popular option, further reducing the barrier t
 | Equipment needed | High (kettle, mash tun, chiller) | Low (fermenter, airlock, press) |
 | Process complexity | High (especially all-grain) | Low |
 | Ingredient sourcing | Malt, hops, specialty grains | Fresh or pressed apples |
-| Wild fermentation | Rare, typically cultured yeast | Common and viable |
+| Wild fermentation | Rare, typically [[comparison-wild-vs-cultured-yeast]] | Common and viable |
 | Beginner friendliness | Moderate (easier with extract) | Very high |
 | Homestead sourcing | Grains and hops growable | Apple trees required |
 | Flavor control | Very high (grain bills, hop schedules) | Moderate (apple blend selection) |
@@ -80,20 +80,20 @@ Cider making is the right fit when:
 - You are new to fermentation and want an achievable first project
 - You have apple trees or access to affordable bulk apples in season
 - You prefer minimal equipment and a short shopping list
-- You are interested in wild fermentation and natural methods
+- You are interested in [[wild-fermentation-and-spontaneous-cultures]] natural methods
 - You want a forgiving process where imperfect batches still taste good
 
 Cider also stores well and can be back-sweetened or carbonated easily after fermentation. The forgiving nature of the process means that even imperfect batches tend to be drinkable and enjoyable.
 
 ## Seasonal Timing
 
-Both beer and cider benefit from seasonal planning. Apple harvest in late summer through fall makes autumn the natural season for cider making, when fresh fruit is abundant and affordable. Beer brewing, by contrast, can be done year-round since malt and hops are shelf-stable. Many brewers schedule lager production for cooler months when ambient temperatures support the lower fermentation range, while ales can be brewed comfortably in any season.
+Both beer and cider benefit from [[seasonal-planning]]. Apple harvest in late summer through fall makes autumn the natural season for cider making, when fresh fruit is abundant and affordable. Beer brewing, by contrast, can be done year-round since malt and hops are shelf-stable. Many brewers schedule lager production for cooler months when ambient temperatures support the lower fermentation range, while ales can be brewed comfortably in any season.
 
 ## Hybrid Approaches
 
 Some fermentation enthusiasts combine elements of both traditions. Apple juice can be hopped like beer to create a "hopped cider" or "cidery ale" with floral or citrus notes. Conversely, apple additions to beer (such as in a fruit ale or autumn seasonal) borrow from cider making to add fruit character. Blending finished cider with finished beer is another approach, creating a drink that marries the malt backbone of beer with the bright fruit character of cider.
 
-Another hybrid method is to use beer yeast strains in cider, which can produce interesting flavor profiles not achievable with wine or cider yeasts. Similarly, adding malt extract to cider can boost body and mouthfeel. A small amount of hops boiled in apple juice can add pleasant bitterness and aroma without overwhelming the apple character. These hybrid methods are experimental and reward creative thinking.
+Another hybrid method is to use beer yeast strains in cider, which can produce interesting flavor profiles not achievable with wine or cider yeasts. Similarly, adding [[malt-extract-agar]] to cider can boost body and mouthfeel. A small amount of hops boiled in apple juice can add pleasant bitterness and aroma without overwhelming the apple character. These hybrid methods are experimental and reward creative thinking.
 
 ## See Also
 

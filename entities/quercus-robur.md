@@ -11,7 +11,7 @@ type: entity
 # Quercus robur
 
 **Type:** Species (Tree)
-**Category:** Timber and forage tree
+**Category:** Timber and [[mollison-designers-bee-forage-tree-planting]]
 **Family:** Fagaceae
 **Also known as:** English oak, pedunculate oak, common oak
 
@@ -62,13 +62,17 @@ planting into damp soil. Slow to establish but extremely long-lived
 once mature. Propagation is primarily by acorn. Best planted in
 permanent position due to long tap root development.
 
-## Related Oak Species
+## Related
+
+- [[oplopanax-horridus]]
+
+- [[quercus-petraea]] Oak Species
 - **Q. petraea** (sessile oak): Deciduous to 30-40 m, good
   furniture timber and flooring
 - **Q. suber** (cork oak): Evergreen, cork production, Mediterranean
 - **Q. ilex** (holm oak): Evergreen, Mediterranean, acorns eaten
   by livestock
-- **Q. macrocarpa** (burr oak): North American, acorns among most
+- **Q. macrocarpa** (burr oak): [[growing-gourmet-north-american-reishi-species]], acorns among most
   palatable of all oaks
 - **Q. muehlenbergii** (chinquapin oak): Sweet acorns, fast
   growing, native to central eastern USA
@@ -82,3 +86,7 @@ ecosystems and a key element in temperate [[nothofagus-obliqua]]
 - quercus petraea
 - fagus sylvatica
 - [[castanea-sativa]]
+
+## See Also
+
+- [[quercus-agrifolia]]

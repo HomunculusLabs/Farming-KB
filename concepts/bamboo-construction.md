@@ -1,5 +1,5 @@
 ---
-title: Permaculture Bamboo Construction
+title: Permaculture comparison-bamboo-construction-vs-cob-building
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Permaculture Bamboo Construction
 
-Permaculture bamboo construction is the use of bamboo as a structural and functional building material within permaculture design systems. Bamboo is one of the most versatile and rapidly renewable building materials available, with a growth rate that exceeds any timber species and mechanical properties that rival steel in strength-to-weight ratio. Bill Mollison references bamboo extensively throughout Permaculture: A Designers' Manual, noting its importance as a multi-purpose plant in tropical and subtropical systems for food, fodder, timber, construction, and erosion control.
+Permaculture bamboo construction is the use of bamboo as a structural and functional [[fungal-building-material-deterioration]] within [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] systems. Bamboo is one of the most versatile and rapidly renewable [[natural-building-materials-guide]] available, with a growth rate that exceeds any timber species and mechanical properties that rival steel in strength-to-weight ratio. Bill Mollison references bamboo extensively throughout Permaculture: A Designers' Manual, noting its importance as a multi-purpose plant in tropical and subtropical systems for food, fodder, timber, construction, and [[permplant-willows-salix-erosion-control-fodder]].
 
 ## Bamboo as a Material
 
@@ -21,7 +21,7 @@ Bamboo is classified into two main growth types. Running bamboos spread aggressi
 
 ## Bamboo in Permaculture Design
 
-Bamboo serves multiple functions in permaculture systems. As a building material, it provides structural timber for buildings, scaffolding, and fencing. As a functional element, it provides windbreaks, erosion control on slopes, waterway stabilisation, and shade. As a productive element, it provides edible shoots, fodder for livestock, and material for crafts and tools.
+Bamboo serves multiple functions in permaculture systems. As a building material, it provides [[singh-wood-rot-fungi-structural-timber-decay]] for buildings, scaffolding, and fencing. As a functional element, it provides windbreaks, erosion control on slopes, waterway stabilisation, and shade. As a productive element, it provides edible shoots, fodder for livestock, and material for crafts and tools.
 
 Mollison notes that bamboo was once extensive in monsoon tropical regions including India and Southeast Asia. Teak and bamboo were the primary construction materials of traditional societies in these regions. The integration of bamboo into permaculture design restores this valuable multi-function element to productive landscapes.
 

@@ -17,16 +17,16 @@ type: concept
 
 Shade-grown coffee represents one of the most successful examples of
 permaculture mollison designers agroforestry and integrated tree crops in tropical and
-subtropical regions. In the Permaculture Designers Manual, Mollison
+subtropical regions. In the Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]], Mollison
 presents shade coffee systems as multi-strata polycultures that produce
 high-quality coffee while simultaneously generating timber, fruit,
 fodder, and support for biodiversity. These systems demonstrate how
 commercially viable agriculture can coexist with ecological restoration
-when designed according to permaculture principles.
+when designed according to [[permaculture-principles]].
 
 ## Principles of Shade Coffee Systems
 
-Coffee (Coffea arabica and C. canephora) evolved as an understory shrub
+Coffee ([[coffea-arabica]] and C. canephora) evolved as an understory shrub
 in the montane forests of Ethiopia and naturally thrives in partial shade.
 Full-sun monoculture coffee, promoted during the Green Revolution for
 maximum short-term yield, produces higher volumes of lower-quality beans
@@ -48,12 +48,12 @@ The overstory canopy provides the primary shade modulation for coffee
 shrubs and generates timber, firewood, and long-term economic returns.
 Mollison recommends selecting canopy species based on several criteria:
 appropriate shade density (typically 30 to 50 percent light reduction),
-nitrogen fixation capability, timber value, and compatibility with coffee
+[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] capability, timber value, and compatibility with coffee
 root systems.
 
 Leguminous trees are preferred for canopy species because they fix
 atmospheric nitrogen, reducing fertiliser requirements for the coffee.
-Common choices include Inga species (especially Inga edulis, known as
+Common choices include Inga species (especially [[inga-edulis]], known as
 ice cream bean for its edible pulp), Erythrina species, Grevillea
 robusta, and various Albizia species. These trees are managed through
 regular pruning to maintain the desired shade level and to produce
@@ -71,7 +71,7 @@ be integrated at this level where climate permits.
 
 At the coffee shrub level, the system produces its primary crop while
 also providing habitat for insectivorous birds that control coffee
-pests. Below the coffee, ground cover species such as cover crops,
+pests. Below the coffee, ground cover species such as [[cover-crops]],
 edible weeds, and [[mollison-designers-poultry-forage-design-pastured-systems]] or livestock
 integrated into the system supplements the internal nutrient cycle.
 Coffee processing waste, often a pollution problem in conventional
@@ -81,7 +81,7 @@ coffee field.
 ## Pest and Disease Management
 
 Shade coffee systems inherently suppress many pest and disease problems
-through increased biodiversity and biological control. The complex
+through increased biodiversity and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]. The complex
 habitat structure supports populations of predatory insects, spiders,
 and insectivorous birds that keep pest species below economically
 damaging thresholds. This reduces or eliminates dependence on chemical
@@ -91,7 +91,7 @@ Coffee berry borer, the most serious coffee pest worldwide, is
 significantly less prevalent in shaded systems where its natural enemies
 are abundant. Leaf rust (Hemileia vastatrix) is moderated by the more
 stable microclimate under shade, which reduces the humidity extremes
-that favour rust development. [[mollison-designers-food-forest-succession-design]]: Multi-strata design principles
-- [[mollison-designers-integrated-pest-management-design]]: Biological pest control
-- mollison designers nutrient cycling: Nutrient cycling in polycultures
-- [[mollison-designers-poultry-forage-design-pastured-systems]]: Livestock integration
+that favour rust development. [[mollison-designers-food-forest-succession-design]]: Multi-strata [[holmgren-permaculture-twelve-design-principles-framework]]
+- mollison-designers-integrated-pest-management-design: Biological pest control
+- mollison designers [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]: Nutrient cycling in polycultures
+- [[mollison-designers-poultry-forage-design-pastured-systems]]: [[faires-livestock-integration-permaculture]]

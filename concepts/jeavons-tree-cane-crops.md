@@ -9,10 +9,10 @@ updated: 2026-04-26
 
 # Tree Crops and Cane Crops
 
-The GROW BIOINTENSIVE method extends beyond vegetables to encompass tree crops
+The [[jeavons-grow-biointensive-method-overview]] method extends beyond vegetables to encompass tree crops
 and cane crops for the mini-farm. John Jeavons emphasizes that once you know
 how to prepare soil well for vegetables, a whole world of crops becomes
-available. The bed preparation, fertilization, and watering approaches remain
+available. The [[azurescens-outdoor-bed-preparation-woodchips]], fertilization, and watering approaches remain
 essentially the same -- only the plant spacings are different.
 
 ## The Soil Improvement Succession
@@ -22,7 +22,7 @@ crops. Vegetables from one year improve soil for grains the next year, and this
 leads to soil that supports more permanent tree crops in the third year. Trees
 beneficially modify climate, bring up and make available nutrients from deep
 in the soil, protect soil from erosion, help maintain healthy water tables,
-and provide food and building materials.
+and provide food and [[natural-building-materials-guide]].
 
 ## Dwarf Fruit Trees
 
@@ -61,7 +61,7 @@ afternoon and will also consume insects that may be affecting the berry patch.
 ## Sustainable Tree Crop Management
 
 The importance of soil is especially apparent with permanent crop-growing
-systems. Even biological and tree cultivation systems can be environmentally
+systems. Even biological and [[holzer-sweet-chestnut-and-nut-trees]] systems can be environmentally
 unsound if improperly used. Dr. Hans Jenny, soil scientist emeritus at the
 University of California, Berkeley, documented how stirring soil and removing
 crops initiates profound declines in nitrogen, carbon, and humus, causing
@@ -77,7 +77,7 @@ of trees.
 ## Integration with the Mini-Farm
 
 Tree and cane crops are one of five broad crop groups in the GROW BIOINTENSIVE
-mini-farm, alongside grains and protein sources, compost and organic matter
+mini-farm, alongside grains and protein sources, [[coleman-compost-and-organic-fertility-management]] matter
 crops, vegetable crops, and energy and fiber crops. The goal is to eventually
 add tree crops for fuel and building materials as well as food.
 
@@ -91,10 +91,12 @@ makes it important to place them in soil that has been well prepared.
 Companion planting principles apply to tree crops as well. Certain plants can
 be grown under fruit trees as beneficial companions. Planting sour berry bushes
 near fruit trees provides food and protection for birds that serve as insect
-predators. The companion planting charts include specific recommendations for
+predators. The companion [[mollison-designers-companion-planting-charts-and-principles]] include specific recommendations for
 fruit tree companions.
 
 ## See Also
+
+- [[jeavons-energy-fiber-crops]]
 
 [[jeavons-master-planning-mini-farms]]
 [[jeavons-companion-planting]]

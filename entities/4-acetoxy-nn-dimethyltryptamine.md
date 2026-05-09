@@ -22,7 +22,7 @@ The acetoxy group at the 4-position is a key structural feature that distinguish
 
 4-AcO-DMT is widely regarded as a prodrug of [[psilocin]] as the active metabolite. This mechanism parallels the metabolic dephosphorylation of [[psilocin]], though the deacetylation of 4-AcO-DMT is generally considered to occur more rapidly.
 
-The pharmacological activity is therefore primarily attributable to [[psilocybin]] analogs. It was investigated as a potential alternative to [[psilocybin]] in jurisdictions where the natural compound is controlled, owing to its synthetic origin and sometimes ambiguous legal status.
+The pharmacological activity is therefore primarily attributable to [[psilocybin]] analogs. It was investigated as a potential alternative to [[psilocybin]] in jurisdictions where the natural compound is controlled, owing to its synthetic origin and sometimes ambiguous [[ayahuasca-tourism-legal-status-by-country]].
 
 ## Effects
 
@@ -36,20 +36,20 @@ The concise large-scale synthesis of [[psilocybin]] described by Shirota, Hakama
 
 ## Dosage
 
-Oral dosages reported in anecdotal literature typically range from 8 to 30 mg for a full psychedelic experience. A common threshold dose is approximately 5 mg, while doses above 35 mg are considered strong. These figures are approximate and highly variable based on individual sensitivity, set, and setting.
+Oral dosages reported in anecdotal literature typically range from 8 to 30 mg for a full [[leary-psychedelic-experience-bardo-mapping]]. A common threshold dose is approximately 5 mg, while doses above 35 mg are considered strong. These figures are approximate and highly variable based on individual sensitivity, set, and setting.
 
 ## Legal Status
 
-The legal status of 4-AcO-DMT varies by jurisdiction. In many countries, it exists in a legal gray area due to its synthetic nature and absence from explicit scheduling. However, several nations have enacted analogue or blanket bans on tryptamine derivatives that would encompass 4-AcO-DMT. In the United States, it may fall under the Federal Analogue Act as an analogue of [[dimethyltryptamine]], though enforcement has been inconsistent.
+The legal status of 4-AcO-DMT varies by jurisdiction. In many countries, it exists in a legal gray area due to its synthetic nature and absence from explicit scheduling. However, several nations have enacted analogue or blanket bans on tryptamine derivatives that would encompass 4-AcO-DMT. In the [[dmt-containing-plants-united-states-halpern]], it may fall under the Federal Analogue Act as an analogue of [[dimethyltryptamine]], though enforcement has been inconsistent.
 
-In the United Kingdom, the Psychoactive Substances Act 2016 potentially covers 4-AcO-DMT, though its explicit scheduling status has been debated. In Canada, it is not specifically listed in the Controlled Drugs and Substances Act but could be considered an analog of a Schedule III substance. Users and researchers should consult local regulations before acquiring or working with this compound.
+In the United Kingdom, the Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016 potentially covers 4-AcO-DMT, though its explicit scheduling status has been debated. In Canada, it is not specifically listed in the Controlled Drugs and Substances Act but could be considered an analog of a Schedule III substance. Users and researchers should consult local regulations before acquiring or working with this compound.
 
 ## Comparison with Psilocybin
 
 Several lines of evidence support the prodrug hypothesis for 4-AcO-DMT and argue against significant intrinsic activity of the acetylated form:
 
 - **Esterase studies**: In vitro incubation of 4-AcO-DMT with human or animal serum rapidly produces [[psilocin]] levels rise correspondingly, consistent with metabolic conversion.
-- **Receptor binding**: 4-AcO-DMT itself shows very low affinity for 5-HT₂A and other relevant receptors in radioligand binding assays, while its metabolite [[psilocybin]], combined with practical advantages in synthesis and storage, has attracted the attention of both academic researchers and pharmaceutical companies. Several factors make it an interesting candidate for therapeutic development:
+- **[[tihkal-receptor-binding-serotonin]]**: 4-AcO-DMT itself shows very low affinity for 5-HT₂A and other relevant receptors in radioligand binding assays, while its metabolite [[psilocybin]], combined with practical advantages in synthesis and storage, has attracted the attention of both academic researchers and pharmaceutical companies. Several factors make it an interesting candidate for therapeutic development:
 
 - **Stability**: The fumarate salt of 4-AcO-DMT is more stable than [[psilocybin]], which requires extraction from natural sources or more complex synthesis.
 - **Regulatory exploration**: In some jurisdictions, 4-AcO-DMT occupies a more favorable regulatory position than [[psilocybin]] in controlled settings have not yet been published, but preclinical and anecdotal evidence suggests comparable efficacy. As regulatory landscapes evolve, 4-AcO-DMT may emerge as a practical alternative for therapeutic applications.

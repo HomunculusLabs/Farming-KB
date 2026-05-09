@@ -26,7 +26,7 @@ The β-glucan from maitake demonstrates potent immunomodulation:
 In immunocompetent mouse models, maitake D-fraction demonstrated remarkable inhibition of metastasis:
 - **Hepatic metastases reduced by 91%** with D-fraction
 - **Hepatic metastases reduced by 81%** with crude maitake powder
-- These results were among the most impressive anti-metastatic effects reported for any mushroom compound
+- These results were among the most impressive anti-metastatic effects reported for any [[medicinal-mushroom-compound-extraction]]
 
 ### Direct Cytotoxicity
 
@@ -71,9 +71,9 @@ When combined with conventional anticancer drugs:
 
 ## See Also
 
-- [[maitake-cultivation]] — cultivation methods for Grifola frondosa
+- [[maitake-cultivation]] — [[synthetic-log-cultivation-methods-guide]] for [[maitake-grifola-frondosa-comprehensive-profile]]
 - [[mushroom-immunomodulation-mechanisms]] — immune activation mechanisms
-- [[mushroom-cytokine-production-immune-activation]]
+- mushroom-cytokine-production-immune-activation
 - [[mushroom-immune-cell-activation-mechanisms]]
 ## Practical Considerations
 
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

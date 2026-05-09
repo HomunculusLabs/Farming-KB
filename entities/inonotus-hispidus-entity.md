@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources:
   - "https://en.wikipedia.org/wiki/Inonotus_hispidus"
   - "https://www.firstnature.com/fungi/inonotus-hispidus.php"
-  - "Cancer Treatments and Medicinal Mushrooms (wiki raw source)"
+  - "Cancer Treatments and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] (wiki raw source)"
 ---
 
 # Inonotus hispidus
@@ -19,7 +19,7 @@ significant pathogen of hardwood trees, particularly ash, walnut, apple,
 and elm, causing progressive white-rot heartwood decay that ultimately
 weakens host tree structural integrity. Widely distributed across temperate
 Northern Hemisphere regions, the species has attracted medicinal interest
-for its bioactive compounds — hispidin, hispolon, and immunomodulatory
+for its [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] — hispidin, hispolon, and immunomodulatory
 polysaccharides — with demonstrated antioxidant, anti-inflammatory, and
 antitumor activities in preclinical studies.
 
@@ -49,7 +49,7 @@ confirmed its placement in Inonotus within the Hymenochaetaceae.
 | | darkening to near-black with age |
 | **Pore surface** | Cream to rusty-brown, pores angular 2–4/mm, bruising darker brown |
 | **Context** | Corky to woody, rusty-brown with darker zonate lines |
-| **Spore print** | Rusty brown |
+| **[[comparison-spore-print-collection-vs-spore-syringe-production]]** | Rusty brown |
 | **Odor/taste** | Faint or absent; mildly acidic to bitter |
 
 Fruiting bodies are annual but persistent. Fresh specimens exude a watery
@@ -72,9 +72,9 @@ from morphologically similar polypore genera.
 
 ## Distribution and Habitat
 
-- **Geographic range:** Widely distributed across Europe, North America,
+- **Geographic range:** Widely distributed across Europe, [[psilocybin-north-america-pacific-northwest]],
   temperate Asia, and parts of North Africa. Common throughout the British
-  Isles, central Europe, and eastern North America.
+  Isles, central Europe, and [[polypore-fungi-eastern-north-america]] America.
 - **Substrate:** Saprotrophic and parasitic on living and dead hardwoods.
   Primary hosts: Fraxinus excelsior (ash), Juglans regia (walnut), Malus
   domestica (apple), Ulmus spp. (elms), Acer spp. (maples), Quercus spp.
@@ -121,7 +121,7 @@ from morphologically similar polypore genera.
 
 | Species | Distinguishing Features |
 |---------|------------------------|
-| Inonotus obliquus (chaga) | Sterile conk on birch, black cracked exterior, no pore surface |
+| [[chaga-inonotus-obliquus-medicinal-profile]] (chaga) | Sterile conk on birch, black cracked exterior, no pore surface |
 | Inonotus dryadeus | Grows at base of oaks, exudes amber droplets, larger pores |
 | Phellinus igniarius | More stratified pore surface, shorter setae, darker context |
 | Ganoderma applanatum | White pore surface when fresh, double-walled ornamented spores |

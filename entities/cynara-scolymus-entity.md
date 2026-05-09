@@ -93,7 +93,7 @@ hepatoprotectants. Mechanisms include: antioxidant scavenging of free
 radicals in hepatocytes, stimulation of bile flow (choleretic effect)
 at doses of 1.5–3 g dried leaf equivalent, and membrane stabilization
 of liver cells. Cynarin increases bile acid secretion by 40–60% in
-clinical trials, improving fat digestion and cholesterol excretion.
+[[mushroom-cancer-clinical-trials-overview]], improving fat digestion and cholesterol excretion.
 ### Lipid Metabolism
 Multiple randomized controlled trials demonstrate that ALE reduces total
 cholesterol by 8–18% and LDL cholesterol by 10–23% over 6–12 weeks of
@@ -110,20 +110,24 @@ In vitro ORAC values for artichoke leaf extract are among the highest of
 all vegetables. Luteolin and cynarin inhibit NF-κB signaling and COX-2
 expression, contributing to anti-inflammatory effects.
 ## Permaculture and Cultivation Notes
-- **Propagation:** By seed (cultivar variation from sexual reproduction)
+- **Propagation:** By seed (cultivar variation from [[fungal-life-cycles-sexual-reproduction-metamorphosis]])
   or vegetatively by offsets (suckers) and root division; vegetative
   propagation preserves exact cultivar characteristics
-- **Planting:** Offset planting in autumn or early spring; seed-started
+- **Planting:** Offset planting in autumn or [[coleman-overwintered-onions-and-early-spring-crops]]; seed-started
   plants require 6–8 weeks indoors before last frost
 - **Spacing:** 90–120 cm between plants in all directions
 - **Soil requirements:** Deep, fertile, well-drained; incorporate
   compost before planting; pH 6.5–8.0
 - **Water:** Regular irrigation critical during bud formation; mature
-  plants are moderately drought tolerant due to deep roots
+  plants are moderately [[permplant-carob-drought-tolerant-food-tree]] due to deep roots
 - **Harvest:** Primary buds harvested when tight and 7–10 cm diameter;
   secondary buds follow on lateral shoots
-- **Companion planting:** Benefits from interplanting with nitrogen-fixing
-  legumes; avoid planting near root crops that compete for deep soil
+- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Benefits from interplanting with nitrogen-fixing
+  legumes; avoid planting near [[permaculture-plants-root-crops-and-tubers]] that compete for deep soil
   nutrients. For broader digestive herbal approaches, see [[mollison-tree-biomass-and-forest-as-living-entity]]
 - [[echinacea-purpurea]]
 - peppermint
+
+## See Also
+
+- [[cynara-cardunculus]]

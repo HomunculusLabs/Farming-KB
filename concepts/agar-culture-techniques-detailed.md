@@ -1,16 +1,10 @@
 ---
-title: Agar Culture Techniques
-created: 2026-04-19
-updated: 2026-04-19
-type: concept
-tags: [reference]
-sources: ["raw/papers/working-with-agar.md", "raw/papers/unknown-working-with-agar.md", "raw/papers/the-mushroom-cultivator-stamets.md"]
 ---
 # Agar Culture Techniques
 
-Agar culture is the foundational laboratory technique in [[strain-isolation-from-wild-specimens]] or spore prints
+Agar culture is the foundational laboratory technique in strain-isolation-from-wild-specimens or spore prints
 - Allows visual monitoring for contamination on a flat, transparent surface
-- Permits [[spawn-generation-techniques]]
+- Permits shiitake-mushroom-cultivation
 
 ## Agar Media Formulations
 
@@ -25,7 +19,7 @@ Agar culture is the foundational laboratory technique in [[strain-isolation-from
 - 20g light tan brewer's malt
 - 2g yeast
 - 20g agar per liter of water
-- Particularly good for [[cervantes-strain-selection]] — rhizomorphic vs. cottony growth — is a critical diagnostic feature
+- Particularly good for cervantes-strain-selection — rhizomorphic vs. cottony growth — is a critical diagnostic feature
 
 ## Storing Agar Cultures
 
@@ -50,35 +44,78 @@ For long-term preservation, mycelium is grown in test tube slants:
 ## Troubleshooting Agar Cultures
 
 - **Excessive condensation**: Cool plates more slowly; pour thinner layers
-- **Contamination**: Improve [[strain-selection-development]]
+- **Contamination**: Improve strain-selection-development
 - **Drying**: Seal plates better; increase humidity in storage area
 
+## Pouring Plates
+
+Proper plate pouring technique is essential for contamination control:
+- Allow sterilized agar to cool to approximately 120-130 deg F (49-54 deg C)
+  before pouring; too hot will warp plates, too cool will cause premature
+  solidification
+- Pour 20-25 mL per 100mm plate for a consistent depth of 3-4mm
+- Lift the plate lid only minimally, working near a flame or in a
+  laminar flow hood
+- Allow plates to solidify undisturbed before moving
+- Store poured plates at room temperature for 24-48 hours before use to
+  reveal any contamination from the pouring process
+
+## Inoculation Techniques
+
+Several methods are used to introduce mycelium to agar plates:
+- **Spore streaking**: A spore print or spore syringe is streaked across
+  the agar surface in a zigzag pattern. Germination typically occurs
+  within 3-14 days depending on species and spore viability.
+- **Tissue culture**: A small piece of interior flesh from a fresh
+  mushroom fruit body is placed on the agar surface. This preserves the
+  exact genetics of the parent mushroom and is the preferred method for
+  cloning desirable specimens.
+- **Agar-to-agar transfer**: A small wedge of colonized agar is cut and
+  transferred to a fresh plate. Used for strain isolation, cleaning
+  contaminated cultures, or expanding mycelium stock.
+
+## Strain Isolation
+
+Strain isolation on agar allows cultivators to select for desirable
+traits such as rhizomorphic growth, fast colonization, and fruiting
+vigor. The process involves successive transfers from the leading edge
+of the fastest-growing mycelium to fresh plates over multiple
+generations. Rhizomorphic growth, characterized by thick cord-like
+strands, is generally preferred over cottony (tomentose) growth as it
+often correlates with more aggressive colonization and better fruiting.
+However, some species naturally exhibit cottony mycelium and still fruit
+well, so morphology alone should not be the sole selection criterion.
+
+## Antibacterial Agar Additives
+
+When working with contaminated specimens or wild collections,
+antibacterial agents can be added to agar to suppress bacterial growth:
+- Gentamicin sulfate at 50 mg/L is effective against most gram-negative
+  and gram-positive bacteria without inhibiting fungal growth
+- Chloramphenicol at 25-50 mg/L is a broad-spectrum antibiotic option
+- These should be filter-sterilized and added after the agar has cooled
+  to below 130 deg F to preserve antibiotic activity
+
+## Contamination Identification
+
+Early identification of contamination on agar plates saves time and
+resources. Common contaminants include:
+- **Bacterial colonies**: Appear as smooth, glossy, round colonies,
+  often with distinct coloration (yellow, white, orange). Bacterial
+  growth may have a mucus-like texture and produce a distinct odor.
+- **Mold contaminants**: Aspergillus species appear as dark green to
+  black powdery colonies; Trichoderma appears as rapidly expanding
+  green patches; Penicillium forms blue-green colonies with distinct
+  margins.
+- **Yeast**: Creamy, raised colonies that may resemble slow-growing
+  fungal mycelium but lack defined hyphal structure.
+
 ## See Also
-
-- [[wild-specimen-isolation]]
-- [[grain-to-grain-transfer]]
-- [[mushroom-liquid-culture-techniques]]
-
----
-
-Source: The Mushroom Cultivator (Stamets & Chilton, 1983), Chapter II: Sterile Technique and Agar Culture
-Updated: 2026-04-18
-## Practical Considerations
-
-Successful implementation of Agar Culture Techniques requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-
+- [[mushroom-sterile-technique-detailed]]
+- [[stamets-cultivator-liquid-culture-propagation-methods]]
+- [[cultivator-contaminants-of-mushroom-culture]]
+- [[mushroom-cultivator-stock-culture-preservation]]
+- [[mushroom-cultivator-tissue-culture-spore-germination]]
+- [[mushroom-cultivator-agar-media-formulas]]
+- [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
+- [[cultivator-sterile-technique-and-agar-culture]]

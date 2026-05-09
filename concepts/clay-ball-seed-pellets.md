@@ -1,15 +1,16 @@
 ---
-title: Clay Ball Seed Pellets
+title: Clay Ball clay-seed-pellets-direct-seeding
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, seeds, techniques, no-till, farming, methods]
-sources: [raw/papers/one-straw-revolution-masanobu-fukuoka.md, raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Clay Ball Seed Pellets
 
-Clay ball seed pellets (also called clay pellets or seed balls) are a technique developed by Masanobu Fukuoka for direct-seeding without tillage. They protect seeds from birds, mice, and rot while allowing natural germination when conditions are right.
+Clay ball seed pellets (also called [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] or [[comparison-seed-balls-vs-direct-seeding]]) are a technique developed by Masanobu Fukuoka for direct-seeding without tillage. They protect seeds from birds, mice, and rot while allowing natural germination when conditions are right.
 
 ## Purpose
 
@@ -35,10 +36,10 @@ If rice is sown in autumn and left uncovered, seeds are often eaten by mice and 
 
 ## Application
 
-For rice/winter grain succession:
+For rice/[[direct-seeded-no-tillage-rice-winter-grain-succession]] succession:
 - Broadcast pellets containing rice seed among young barley or rye plants between mid-November and mid-December
 - Can also be broadcast in spring
-- Rice seeding rate: 4.5 to 9 pounds per quarter acre
+- Rice seeding rate: 4.5 to 9 pounds per [[fukuoka-agriculture-tomorrow-quarter-acre-vision]]
 - Check germination of fall-sown seed toward end of April and broadcast more pellets as needed
 - A thin layer of chicken manure is spread over the field to help decompose the straw
 
@@ -73,7 +74,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +116,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

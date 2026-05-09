@@ -1,5 +1,5 @@
 ---
-title: Growing Root Vegetables - Carrots Parsnips and Radishes
+title: Growing growing root vegetables guide - Carrots Parsnips and Radishes
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Steve Solomon provides detailed guidance on biennial root crops, explaining their survival strategy and the specific techniques needed to grow them successfully in a low-input garden.
+Steve Solomon provides detailed guidance on biennial [[permaculture-plants-root-crops-and-tubers]], explaining their survival strategy and the specific techniques needed to grow them successfully in a low-input garden.
 
 ## The Biennial Root Crop Strategy
 
@@ -105,11 +105,11 @@ Solomon's method for even spacing:
 ## Winter Radishes
 
 - Form large roots with thick protective skins.
-- Peel, coarsely grate, and dress with olive oil, black pepper, and minced onion for salad.
+- Peel, coarsely grate, and dress with [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]], [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], and minced onion for salad.
 - Black Spanish is Solomon's favorite. Needs spacing of about 6 by 18 inches.
 - Sow at least two weeks after the solstice or they may go to seed before making roots.
 - Most types are cellarable.
-- Sow in spring for harvest in autumn. In mild-winter climates, sow for winter harvest.
+- Sow in spring for harvest in autumn. In mild-winter climates, sow for [[coleman-claytonia-winter-harvest-cultivation]].
 
 ## Related Concepts
 

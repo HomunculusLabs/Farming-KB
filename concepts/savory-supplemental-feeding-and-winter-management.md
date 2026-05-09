@@ -1,5 +1,5 @@
 ---
-title: Supplemental Feeding and Winter Management
+title: savory supplemental feeding and winter management and Winter Management
 created: 2026-04-28
 tags: [holistic-management, livestock-nutrition, winter-feeding, grazing-planning, ranch-economics]
 date: 2026-04-25
@@ -10,7 +10,7 @@ type: concept
 
 # Supplemental Feeding and Winter Management
 
-Supplemental feeding in holistic management is evaluated through the same
+Supplemental feeding in [[savory-holistic-management-overview]] is evaluated through the same
 testing guidelines applied to all management decisions. Savory repeatedly
 emphasizes that supplements rarely pass the marginal reaction test when
 compared to the cost of additional fencing or better grazing planning. The
@@ -85,7 +85,7 @@ Rather than feeding hay on a regular schedule throughout winter, Savory
 advocates using standing forage as the primary feed source and reserving
 hay for true emergencies. Drought reserves of hay should be maintained,
 but the goal is to graze through as much of the dormant season as
-possible using careful planning and stock density management. High
+possible using careful planning and [[savory-fencing-economics-and-stock-density-curve]] management. High
 stock density during dormant periods can force animals to utilize
 species they would normally avoid, reducing waste and extending the
 grazing season. This approach requires more frequent herd moves but

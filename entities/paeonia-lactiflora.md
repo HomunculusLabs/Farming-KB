@@ -95,7 +95,7 @@ bioactivities relevant to multiple therapeutic areas:
   reduces cerebral infarct volume, and improves cognitive function in animal
   models of Alzheimer's disease.
 - **Hepatoprotective** — attenuates liver fibrosis by inhibiting hepatic
-  stellate cell activation and TGF-β1 signaling.
+  stellate [[mushroom-immune-cell-activation-mechanisms]] and TGF-β1 signaling.
 - **Anti-depressant and anxiolytic** — modulates monoamine neurotransmitters
   and HPA axis activity; albiflorin shows rapid antidepressant-like effects.
 
@@ -127,10 +127,10 @@ Flower forms range from single to fully double (bomb-type and anemone-type).
 In permaculture, peonies serve as long-lived (50+ years) perennial ground
 covers with deep taproots that improve soil structure. Their early-summer
 bloom provides nectar for pollinators, and the dense foliage suppresses
-weeds. They are compatible with understory plantings beneath fruit trees.
+weeds. They are compatible with understory plantings beneath [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]].
 
 ## See Also
 
 - [[reishi-ganoderma-lucidum]] — immunomodulatory medicinal fungus
 - [[codonopsis-pilosula]] — "poor man's ginseng," common TCM pairing
-- [[calendula-officinalis]] — ornamental medicinal herb with anti-inflammatory properties
+- [[calendula-officinalis]] — ornamental [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] with anti-inflammatory properties

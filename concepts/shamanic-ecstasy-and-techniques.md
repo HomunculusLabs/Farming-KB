@@ -28,7 +28,7 @@ entry into a hidden dimension of reality accessible only through trance.
 
 ## The Shamanic Initiation
 
-The neophyte shaman undergoes a profound symbolic death and resurrection,
+The neophyte shaman undergoes a profound symbolic [[allegro-death-and-resurrection-in-the-mushroom-cult]],
 understood as a radical transformation into a superhuman condition. This
 initiatory process typically follows a period of psychological or
 psychosomatic illness during which the novice experiences dreams, visions,
@@ -51,7 +51,7 @@ Not all shamans use intoxication with plants to obtain ecstasy, but all
 shamanic practice aims to give rise to it. Multiple time-honored methods
 exist for entering the trance necessary for shamanic work:
 
-- **Drumming**: Rhythmic percussion induces altered states through
+- **Drumming**: Rhythmic percussion induces [[weil-the-natural-mind-altered-states-normalcy]] through
   auditory driving and sustained rhythmic focus.
 - **Manipulation of breath**: Controlled breathing patterns alter
   consciousness through oxygenation changes.
@@ -91,7 +91,7 @@ connection into the totality of life on the planet.
 
 Shamanism functions as a social catalyst within traditional communities.
 The shamans decide when the group should move, hunt, or make war. The
-prolonged and repeated exposure to psychedelic experience acted steadily
+prolonged and repeated exposure to [[leary-psychedelic-experience-bardo-mapping]] acted steadily
 to dissolve the ego into undifferentiated feeling. Wherever the ego
 function began to form, it was akin to a calcareous tumor or blockage
 in the energy of the psyche. The use of psychedelic plants in a context

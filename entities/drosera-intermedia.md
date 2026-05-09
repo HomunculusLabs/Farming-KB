@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-**Drosera intermedia**, commonly known as the oblong-leaved sundew or spoonleaf sundew, is a perennial carnivorous plant in the family Droseraceae. It is one of the most widely distributed sundew species, with a circumboreal range spanning North America, Europe, and South America.
+**Drosera intermedia**, commonly known as the oblong-leaved sundew or spoonleaf sundew, is a perennial carnivorous plant in the family Droseraceae. It is one of the most widely distributed sundew species, with a circumboreal range spanning [[psilocybin-north-america-pacific-northwest]], Europe, and South America.
 
 The species is distinguished by its spoon-shaped leaves arranged in a flat rosette, with glandular tentacles that produce sticky mucilage for trapping small insects. It occupies boggy, nutrient-poor wetlands across its range and is a common component of temperate and subtropical carnivorous plant communities.
 
@@ -51,7 +51,7 @@ It is frequently found growing alongside other carnivorous plants including **Sa
 
 The tentacle bending response occurs within minutes of initial contact, progressively bringing additional glands into contact with the prey. This increases the area of digestive enzyme secretion and prevents the insect from escaping.
 
-Digestive enzymes including proteases, phosphatases, and nucleases are secreted by the sessile glands. These enzymes dissolve the insect's soft tissues over a period of hours to days. The resulting nutrient solution is absorbed through the leaf surface via specialized transport cells.
+Digestive enzymes including proteases, phosphatases, and nucleases are secreted by the sessile glands. These enzymes dissolve the insect's soft tissues over a period of hours to days. The resulting [[cannabis-nutrient-solution-preparation]] is absorbed through the leaf surface via specialized transport cells.
 
 Common prey items include small flying insects such as gnats, midges, and mosquitoes, as well as ants and small beetles. The species is particularly effective at capturing winged insects that land on the tentacle-covered leaves.
 
@@ -63,7 +63,7 @@ After digestion is complete, the leaf and tentacles unfurl and the tentacle glan
 
 The standard carnivorous plant mix of equal parts peat moss and perlite or silica sand provides an ideal growing medium. Plants should be kept consistently moist using the tray method, with the pot sitting in 1–3 cm of water at all times during the growing season.
 
-Outdoor cultivation in bog gardens works well in temperate climates. The species is fully winter-hardy in USDA zones 5–9, dying back to a hibernaculum (dormant bud) during cold months and resuming growth in spring. In colder zones, mulching or unheated greenhouse protection may be needed.
+Outdoor cultivation in bog gardens works well in temperate climates. The species is fully winter-hardy in USDA zones 5–9, dying back to a hibernaculum (dormant bud) during cold months and resuming growth in spring. In colder zones, mulching or [[coleman-unheated-greenhouse-design]] protection may be needed.
 
 Indoor growers should provide bright light, ideally 12–14 hours under fluorescent or LED grow lights. A sunny windowsill can work if humidity is adequate, but the sticky mucilage may dry out in centrally heated rooms. Terrarium culture with supplemental lighting often produces the best results.
 
@@ -81,13 +81,13 @@ North American populations from the southeastern coastal plain produce larger ro
 
 ## Ecological Role
 
-Within its wetland habitats, **D. intermedia** contributes to nutrient cycling by capturing and digesting insect prey. In nutrient-poor bog ecosystems, this supplemental nitrogen source can significantly enhance the plant's growth and reproductive output compared to non-carnivorous competitors.
+Within its wetland habitats, **D. intermedia** contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by capturing and digesting insect prey. In nutrient-poor bog ecosystems, this supplemental nitrogen source can significantly enhance the plant's growth and reproductive output compared to non-carnivorous competitors.
 
-The species provides microhabitat structure for small invertebrates. Some species of predatory mites and small spiders use the tentacle-covered leaves as hunting platforms, feeding on insects attracted to the mucilage without becoming trapped themselves.
+The species provides microhabitat structure for small invertebrates. Some species of [[comparison-predatory-mites-vs-ladybugs-biocontrol]] and small spiders use the tentacle-covered leaves as hunting platforms, feeding on insects attracted to the mucilage without becoming trapped themselves.
 
 The nectar produced by the tentacle glands attracts a variety of pollinators when the plant is in flower, including small bees, flies, and wasps. The spatial separation between flowers (borne on tall scapes) and traps (at ground level) reduces the risk of pollinators becoming prey.
 
-**D. intermedia** serves as an indicator species for the health of bog and fen ecosystems. Its presence typically indicates high water quality, low nutrient availability, and intact hydrological conditions. Decline or disappearance of local populations often signals habitat degradation.
+**D. intermedia** serves as an indicator species for the health of bog and fen ecosystems. Its presence typically indicates high water quality, low [[ph-and-nutrient-availability-garden-soils]], and intact hydrological conditions. Decline or disappearance of local populations often signals habitat degradation.
 
 ## Conservation
 

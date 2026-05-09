@@ -13,11 +13,11 @@ type: concept
 
 Bill Mollison presents earth-shaping as a fundamental strategy
 in tropical permaculture, serving multiple functions including
-water infiltration, mulch retention, microclimate creation, and
+water infiltration, mulch retention, [[mollison-designers-microclimate-creation-frost-protection]], and
 dramatic yield increases. The economic analysis of polyculture
-demonstrates that complex [[mollison-earth-constructs-and-banks]]
-- [[mollison-terracing-slope-management]]
-- [[mollison-swale-design-details]]
+demonstrates that complex mollison-earth-constructs-and-banks
+- mollison-terracing-slope-management
+- mollison-swale-design-details
 ## Practical Applications
 
 Tropical Earth-Shaping and Polyculture Economics has a range of practical applications that make it relevant to
@@ -95,4 +95,11 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
+## See Also
 
+- [[mollison-life-in-earth-burrowers-roots]]
+- [[mollison-designers-tropical-terrace-design-and-earth-shaping]]
+- [[bill-mollison]]
+- [[mollison-designers-macadamia-nut-in-tropical-polyculture]]
+- [[mollison-wet-tropical-forest-structure-and-polyculture]]
+- [[mollison-designers-earth-building-cob-adobe-rammed-earth]]

@@ -1,20 +1,19 @@
 ---
-title: Spore Interstellar Dispersal Hypothesis
+title: spore spore interstellar dispersal hypothesis Hypothesis
 created: 2026-05-05
 updated: 2026-05-05
 type: concept
-tags: [[mycology, spores, theory]
+tags: [mycology, spores, theory]
 sources: [raw/papers/panspermia-hypothesis.md]
 ---
---- 2|title: Spore Interstellar Dispersal Hypothesis
-tags: [panspermia, mycology, astrobiology, [[terence-mckenna]] based on information he reports receiving during [[fungal-spores]]
+--- 2|title: Spore Interstellar Dispersal Hypothesis tags: [panspermia, mycology, astrobiology, [[terence-mckenna]] based on information he reports receiving during fungal-spores
 - gordon-wasson
 - [[mckenna-mushroom-cultivation-history]] 159|
-- [Stropharia Cubensis Extraterrestrial Hypothesis](stropharia-cubensis-extraterrestrial-hypothesis.md)
-- [McKenna Psilocybin Coprophilous Ecology and Bovine Symbiosis](mckenna-psilocybin-coprophilous-ecology-and-bovine-symbiosis.md)
-- [Psilocybin Mushroom Spore Print Identification](psilocybin-mushroom-spore-print-identification.md)
-- [McKenna Mushroom Cultivation History](mckenna-mushroom-cultivation-history.md)
-- [McKenna Tryptamines Soul and Extraterrestrial Hypothesis](mckenna-tryptamines-soul-and-extraterrestrial-hypothesis.md)
+- [Stropharia [[stropharia-cubensis-extraterrestrial-hypothesis]] Hypothesis](stropharia-cubensis-extraterrestrial-hypothesis.md)
+- [McKenna [[mckenna-psilocybin-coprophilous-ecology-and-bovine-symbiosis]] Ecology and Bovine Symbiosis](mckenna-psilocybin-coprophilous-ecology-and-bovine-symbiosis.md)
+- [[emcdda-psilocybin-mushroom-dose-and-effects]] Spore Print Identification](psilocybin-mushroom-spore-print-identification.md)
+- [McKenna [[accessible-mushroom-cultivation-for-disabilities]] History](mckenna-mushroom-cultivation-history.md)
+- [McKenna [[mckenna-tryptamines-soul-and-extraterrestrial-hypothesis]] and Extraterrestrial Hypothesis](mckenna-tryptamines-soul-and-extraterrestrial-hypothesis.md)
 ## Background and Context
 
 Spore Interstellar Dispersal Hypothesis is an important subject that has garnered significant attention
@@ -143,4 +142,5 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-
+## See Also
+- [[mushroom-cultivation-history]]

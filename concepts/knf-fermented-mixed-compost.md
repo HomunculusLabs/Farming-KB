@@ -1,5 +1,5 @@
 ---
-title: Fermented Mixed Compost (FMC) -- Materials, Timing, and Place Selection
+title: cho-fermented-mixed-compost-methods Compost (FMC) -- Materials, Timing, and Place Selection
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -38,7 +38,7 @@ FMC should ideally be started in the fall (November through March in temperate r
 
 The composting site significantly affects FMC quality:
 
-1. **Wind protection:** Choose a location shielded from strong winds. Wind accelerates drying and cooling of the pile, disrupting microbial activity.
+1. **[[cervantes-wind-protection-outdoor-cannabis]]:** Choose a location shielded from strong winds. Wind accelerates drying and cooling of the pile, disrupting microbial activity.
 2. **Good drainage:** The site must not accumulate water. Standing water creates anaerobic conditions that produce foul odors and poor-quality compost.
 3. **Water availability:** Access to clean water is essential for moisture adjustment during composting.
 4. **Shade:** In greenhouses, use shade cloth rather than transparent vinyl. Direct sun overheats the pile and kills beneficial microorganisms.
@@ -72,7 +72,7 @@ FMC is most effective when made from a diversity of materials. The fundamental p
 
 ### 2. From the Paddy (rice bran or straw)
 - Rice bran (excellent nitrogen and phosphorus source)
-- Rice straw (carbon source, provides structure)
+- [[fukuoka-rice-straw-mulch-central-technique]] (carbon source, provides structure)
 - Hulls (slow-release carbon)
 - These materials are rich in silica, which strengthens plant cell walls
 
@@ -98,19 +98,19 @@ FMC is most effective when made from a diversity of materials. The fundamental p
 
 3. **Do not use agricultural by-products that have been chemically treated.** Avoid materials from conventionally farmed crops that may carry pesticide or herbicide residues. These chemicals can kill the IMO and other beneficial microorganisms in the compost.
 
-4. **"Food for microbes is food for humans, animals, and plants as well."** This principle means that the quality of materials you put into FMC directly affects the quality of the compost, the health of the soil, and ultimately the nutritional quality of the food grown.
+4. **"Food for microbes is food for humans, animals, and plants as well."** This principle means that the quality of materials you put into FMC directly affects the quality of the compost, the health of the soil, and ultimately the [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of the food grown.
 
 ### Excellent Specific Materials
 
 - **Bush clover (Lespedeza):** Collect branches with flowers. An armful added to FMC produces well-fermented, high-quality compost.
 - **Clover (around flowering time):** Maximum nitrogen content when in bloom.
 - **Tea (especially green tea powder):** Contains caffeine and polyphenols that stimulate microbial activity.
-- **Citron (yuzu):** The oils and aromatic compounds have antimicrobial properties that select for beneficial organisms.
+- **Citron (yuzu):** The oils and aromatic compounds have [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] that select for beneficial organisms.
 - **Wild mountain fruits:** Persimmon, chestnut, and other wild fruits provide natural sugars that feed fermentation.
 - **Flower pollen:** Extremely rich in amino acids, vitamins, and minerals.
 - **Seaweed:** Provides iodine, trace minerals, and alginates that improve soil structure.
 - **Broccoli and spinach:** Rich in vitamins and minerals that serve as enzymatic cofactors.
-- **Japanese mugwort (Artemisia):** Contains bioactive compounds that support microbial diversity.
+- **Japanese mugwort (Artemisia):** Contains [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] that support microbial diversity.
 
 These diverse materials provide various vitamins (functioning as supportive enzymes), abundant minerals, and proteins that combine to form a comprehensive nutrient base. High-quality FMC made from such diverse materials enhances disease and insect resistance, improves growth, increases yield and quality, and facilitates crop maturation.
 

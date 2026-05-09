@@ -24,7 +24,7 @@ sources:
 
 # Water-Soluble Calcium (WS-Ca)
 
-Water-Soluble Calcium is a KNF input made by extracting calcium from eggshells using brown rice vinegar (BRV). Calcium is essential for cell wall strength, disease resistance, fruit quality, and the transition from vegetative to reproductive growth. WS-Ca provides calcium in a form that plants can absorb directly through leaves and roots.
+Water-Soluble Calcium is a KNF input made by extracting calcium from eggshells using brown [[brown-rice-vinegar-brv]] (BRV). Calcium is essential for cell wall strength, disease resistance, fruit quality, and the transition from vegetative to [[knf-reproductive-growth-stage]]. WS-Ca provides calcium in a form that plants can absorb directly through leaves and roots.
 
 ## Why Calcium?
 
@@ -33,7 +33,7 @@ Calcium plays critical roles in plant health:
 - **Disease resistance**: Strong cell walls resist fungal penetration and bacterial invasion
 - **Fruit quality**: Prevents blossom end rot, bitter pit, cracking
 - **Sugar accumulation**: Calcium promotes sugar transport and storage in fruit
-- **Growth regulation**: Acts as a "brake" on excessive vegetative growth
+- **Growth regulation**: Acts as a "brake" on excessive [[cannabis-vegetative-growth-stage]]
 - **Changeover support**: Critical during the transition from vegetative to reproductive growth (see [[nutritive-cycle-theory]])
 
 ## Calcium Deficiency Symptoms
@@ -101,16 +101,16 @@ All follow the same process: crush, cover with BRV, wait for reaction to complet
 | Pre-harvest | 2 ml/L (with OHN 1 ml/L) | Promotes sweetness |
 | Calcium deficiency | 1:500 | Stronger dose until symptoms resolve |
 | Crack prevention | 1:500 (with OHN + FPJ + LAB) | Drought-to-rain transitions |
-| Seed treatment (SES) | 1 ml/L | For overgrown, soft seedlings |
+| [[jadam-seed-treatment-and-nursery-management]] (SES) | 1 ml/L | For overgrown, soft seedlings |
 | Cannabis calyx development | 1:1000 | Weeks 4-8 of flower |
 | Soil drench | 1:500-1000 | Slow-release calcium for soil |
 
-Apply as foliar spray early morning or late evening. Calcium is relatively immobile in plants — foliar application is more effective than soil drench for acute deficiency.
+Apply as foliar spray early morning or late evening. Calcium is relatively immobile in plants — [[ultra-low-cost-foliar-application-methods]] is more effective than soil drench for acute deficiency.
 
 ## WS-Ca in the Nutritive Cycle
 
 According to [[nutritive-cycle-theory]]:
-- **Vegetative stage**: Avoid or use sparingly — calcium suppresses vegetative growth
+- **[[comparison-cannabis-vegetative-stage-vs-flowering-stage]]**: Avoid or use sparingly — calcium suppresses vegetative growth
 - **Changeover period**: Apply at 1:1000 — supports the critical transition
 - **Reproductive stage**: Apply at 1:1000 — prevents over-luxurious growth, hardens fruit, promotes sugar accumulation
 - **Pre-harvest**: OHN 1ml + WS-Ca 2ml + Seawater 30ml per liter — promotes sweetness and maturity

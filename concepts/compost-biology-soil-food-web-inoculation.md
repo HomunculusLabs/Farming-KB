@@ -32,7 +32,7 @@ What goes into the compost does affect what comes out. The biology and pH of fin
 - Should smell earthy and fresh
 - Always has a rich, dark, coffee color
 - Contains the entire complement of soil food web microorganisms: fungi, bacteria, protozoa, and nematodes
-- Full of organic matter providing living space and nutrients for microbes
+- Full of [[hamilton-composting-and-organic-matter-management]] providing living space and nutrients for microbes
 - Must actually be composted -- partially composted material can create problems including tying up nitrogen as the process completes next to the plant
 
 ### Modern Caveat
@@ -53,11 +53,11 @@ You can best satisfy a plant's nutrient needs by adding compost with the right m
 Applying compost to the soil surface allows the organisms in the compost to spread into the soil naturally. The biology travels downward, establishing populations throughout the root zone.
 
 ### Incorporation
-While digging compost into soil is traditional, it disrupts existing soil food webs (especially fungal hyphae and mycorrhizal networks). Surface application is gentler and allows natural colonization.
+While digging compost into soil is traditional, it disrupts existing soil food webs (especially fungal hyphae and [[dighton-mycorrhizal-networks-carbon-transfer]]). Surface application is gentler and allows natural colonization.
 
 ## Compost Nutrient Content
 
-Compost is technically not a fertilizer but rather a [[ph-and-nutrient-availability-garden-soils]] (cation exchange capacity). Compost provides a great environment for the microbial activity needed to cycle natural materials into nutrients.
+Compost is technically not a fertilizer but rather a [[ph-and-nutrient-availability-garden-soils]] ([[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity). Compost provides a great environment for the microbial activity needed to cycle natural materials into nutrients.
 
 ## Earthworm Castings
 
@@ -65,7 +65,7 @@ Earthworm castings concentrate nutrients: 10 times more potassium, 5 times more 
 
 ## The Role of Protozoa in Compost
 
-Protozoa — single-celled organisms including flagellates, amoebae, and ciliates — play a critical but often overlooked role in compost biology and soil fertility. Protozoa are the primary predators of bacteria in the soil food web, and their feeding activity is the main mechanism by which plant-available nitrogen is released in bacterial soils. When protozoa consume bacteria, they excrete excess nitrogen in the form of ammonium (NH4+), which is immediately available for plant uptake. A single protozoan can consume 10,000 bacteria per day, and the nitrogen mineralization rate from protozoan grazing is 40-80 times faster than the rate at which bacteria release nitrogen through natural turnover. Compost that contains a healthy protozoan population (10,000-50,000 per teaspoon, as noted above) provides not just the organisms themselves but the trophic cascade that makes nitrogen available to plants. This is why compost provides a slow-release fertilizer effect: the bacteria and protozoa in the compost continue their predator-prey cycle in the soil, steadily releasing nitrogen in sync with plant demand. See [[microscope-identification-soil-organisms]] of these key organisms.
+Protozoa — single-celled organisms including flagellates, amoebae, and ciliates — play a critical but often overlooked role in compost biology and soil fertility. Protozoa are the primary predators of bacteria in the soil food web, and their feeding activity is the main mechanism by which plant-available nitrogen is released in bacterial soils. When protozoa consume bacteria, they excrete excess nitrogen in the form of ammonium (NH4+), which is immediately available for plant uptake. A single protozoan can consume 10,000 bacteria per day, and the [[fungal-nitrogen-mineralization-pathways]] rate from protozoan grazing is 40-80 times faster than the rate at which bacteria release nitrogen through natural turnover. Compost that contains a healthy protozoan population (10,000-50,000 per teaspoon, as noted above) provides not just the organisms themselves but the trophic cascade that makes nitrogen available to plants. This is why compost provides a slow-release fertilizer effect: the bacteria and protozoa in the compost continue their predator-prey cycle in the soil, steadily releasing nitrogen in sync with plant demand. See [[microscope-identification-soil-organisms]] of these key organisms.
 
 ## Biochar and Compost Interactions
 
@@ -73,7 +73,7 @@ Biochar — a carbon-rich porous material produced by pyrolyzing biomass in low-
 
 ## Making Bacteria-Dominated vs. Fungi-Dominated Compost
 
-The microbial balance of finished compost can be intentionally steered by controlling the ingredients and management practices during the composting process. To produce bacteria-dominated compost (suited for vegetables, annuals, and lawns), use a higher proportion of green, nitrogen-rich materials such as grass clippings, kitchen scraps, coffee grounds, and young green manure crops. Turn the pile frequently (every 2-3 days) to maintain aerobic conditions that favor bacterial growth. Keep the pile relatively moist but not saturated. The resulting compost will be dominated by bacterial biomass with a bacterial:fungal ratio of roughly 100:1 or higher.
+The microbial balance of finished compost can be intentionally steered by controlling the ingredients and management practices during the composting process. To produce bacteria-dominated compost (suited for vegetables, annuals, and lawns), use a higher proportion of green, nitrogen-rich materials such as grass clippings, kitchen scraps, [[oyster-mushroom-coffee-grounds-cultivation]], and young green manure crops. Turn the pile frequently (every 2-3 days) to maintain aerobic conditions that favor bacterial growth. Keep the pile relatively moist but not saturated. The resulting compost will be dominated by bacterial biomass with a bacterial:fungal ratio of roughly 100:1 or higher.
 
 To produce fungi-dominated compost (suited for trees, shrubs, perennials, and orchards), incorporate more woody, carbon-rich materials such as wood chips, sawdust, fallen leaves, and shredded bark. Turn the pile less frequently — every 7-10 days or even less — as fungal hyphae are disrupted by turning and take longer to reestablish. Larger particle sizes and woody materials provide the structural complexity that fungi prefer. Fungi-dominated compost typically has a bacterial:fungal ratio closer to 1:1 or even 1:10. This compost is particularly valuable for establishing trees, restoring forest edges, and supporting [[compost-tea-aact]] for detailed brewing instructions and [[teaming-with-microbes-earthworm-ecology-and-vermicomposting]] for detailed vermicomposting guidance.
 
@@ -86,4 +86,4 @@ To produce fungi-dominated compost (suited for trees, shrubs, perennials, and or
 
 ## Source
 - Lowenfels, Jeff & Lewis, Wayne. "Teaming with Microbes." Chapters 14-15, Compost and Compost Teas.
-- Lowenfels, Jeff. "Teaming with Nutrients." Chapter on organic fertilizers and compost.
+- Lowenfels, Jeff. "Teaming with Nutrients." Chapter on [[hamilton-organic-fertilizers-and-plant-nutrition]] and compost.

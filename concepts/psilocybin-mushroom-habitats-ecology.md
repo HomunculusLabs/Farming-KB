@@ -1,21 +1,22 @@
 ---
-title: Psilocybin Mushroom Habitats and Ecology
+title: emcdda-psilocybin-mushroom-dose-and-effects Habitats and Ecology
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [psilocybin, mushrooms]
-sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+sources: sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Psilocybin Mushroom Habitats and Ecology
 
-Source: Psilocybin Mushrooms of the World (Stamets, 1996, Ch. 3)
+Source: [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World (Stamets, 1996, Ch. 3)
 
 Psilocybin mushrooms inhabit six classic habitat types. Understanding these habitats is the most important skill a field identifier can develop. The first two years after habitat disturbance tend to be most prolific, with the third year declining and virtual expiration after four or five years.
 
 ## The Six Classic Habitats
 
 ### 1. Grasslands
-Rich environments for Psilocybe, especially in areas grazed by ruminants. Psilocybe semilanceata (liberty cap) is the classic species, found in temperate grasslands worldwide. Other grassland species include P. strictipes, P. mexicana, and P. tampanensis. Cattle, horse, and sheep pastures are primary collection sites. The dung provides nutrient media analogous to cultivators' petri dishes.
+Rich environments for Psilocybe, especially in areas grazed by ruminants. [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] (liberty cap) is the classic species, found in temperate grasslands worldwide. Other grassland species include P. strictipes, P. mexicana, and P. tampanensis. Cattle, horse, and sheep pastures are primary collection sites. The dung provides nutrient media analogous to cultivators' petri dishes.
 
 ### 2. Woodlands
 The most expansive habitat category, broadly delimited by altitude, temperature, and rainfall.
@@ -31,7 +32,7 @@ Areas along rivers and streams. Geysers and hot springs represent a blending of 
 Roads punched into forests, construction sites, and landslides. P. caerulescens is classic ("demumbes" - landslide mushroom in Meiji-era Japan). Blackberry and Scotch broom thickets provide open, moist environments with deciduous trees. Rodent burrows can be sheathed with mycelium; rodent pellets have been observed sprouting P. azurescens near Astoria, Oregon.
 
 ### 5. Gardens
-By accident or design, gardens are rich environments. Tilling, importing exotic plants, composting, and watering create favorable conditions. Gardens with cow or horse manure support Panaeolus subbalteatus (temperate) and Panaeolus cyanescens (subtropical). Vegetable gardens support terricolous Psilocybes; ornamental gardens with wood debris support lignicolous species. Rhododendron and rose gardens annually renewed with cardboard or mulch have supported P. cyanescens for 12+ consecutive years. Other species: P. baeocystis, P. caerulescens, P. stuntzii, P. subaeruginosa.
+By accident or design, gardens are rich environments. Tilling, importing exotic plants, composting, and watering create favorable conditions. Gardens with cow or horse manure support [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]] (temperate) and [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] (subtropical). Vegetable gardens support terricolous Psilocybes; ornamental gardens with wood debris support lignicolous species. Rhododendron and rose gardens annually renewed with cardboard or mulch have supported P. cyanescens for 12+ consecutive years. Other species: P. baeocystis, P. caerulescens, P. stuntzii, P. subaeruginosa.
 
 ### 6. Mosslands
 Generally poor habitats for psilocybin species. Can exist as island ecologies within woodlands or grasslands. Psilocybe atrobrunnea, P. montana, and Mythicomyces cornipes (formerly P. cornipes, Smith and Redhead) are representative. P. baeocystis and P. cyanofibrillosa occasionally found in moss islands within rhododendron parks. Hypholoma species (H. elongatum, H. ericaeum, H. dispersum, H. polytritica, H. udum) are lookalikes.
@@ -44,14 +45,15 @@ Comparatively few psilocybin mushrooms grow in the woodlands of the true tropics
 
 ## See Also
 
-- [[psychedelic-mushroom-set-and-setting]]
+- [[stamets-psilocybin-habitats-ecology]]
+
 - [[psychedelic-mushroom-set-and-setting]]
 - [[psilocybin-mushroom-lookalikes]]
 - mushroom habitats biodiversity
 
 ## Related
 
-- [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
+- hallucinogenic-mushroom-health-risks-and-harm-reduction
 ## Practical Considerations
 
 When working with Psilocybin Mushroom Habitats and Ecology, several practical factors should be
@@ -68,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +112,4 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+- [[psilocybin-mushroom]]

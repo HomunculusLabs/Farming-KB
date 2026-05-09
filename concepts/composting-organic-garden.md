@@ -11,7 +11,7 @@ type: concept
 # Composting in the Organic Garden
 
 Every garden must have a compost heap. Composting is the ideal
-way to return as much organic matter as possible to the soil,
+way to return as much [[hamilton-composting-and-organic-matter-management]] as possible to the soil,
 following nature's example. Decomposing vegetation provides a
 home for millions of soil organisms, opens up the soil,
 improves drainage, and eases the way for root growth. It also
@@ -25,8 +25,8 @@ flowers all contain plant food and should not be wasted.
 However, if dug in immediately while still green, the
 decomposing bacteria will draw nitrogen from the soil, leaving
 growing plants short of food. If the material is turned into
-compost first, it will actually add nitrogen because bacteria
-called Azotobacter fix nitrogen from the air into a form
+compost first, it will actually [[query-how-do-legumes-add-nitrogen-to-soil]] because bacteria
+called Azotobacter [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] from the air into a form
 usable by plants.
 
 A successful organic garden should have at least two compost
@@ -45,7 +45,7 @@ grass cuttings with larger items such as shredded newspaper
 or straw to create natural air spaces.
 
 ### Nitrogen
-Bacteria in the heap need nitrogen as fuel. Animal manure
+Bacteria in the heap need nitrogen as fuel. [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]]
 is ideal. If unavailable, use organic compost activators,
 dried sewage sludge, kelp meal, or dried blood. A fine
 dusting every 12in (30cm) of compost is sufficient.
@@ -93,7 +93,7 @@ fungi, which are slower than bacteria and need more light
 and less air. Chipping prunings into smaller pieces
 dramatically speeds decomposition. Domestic chipping machines
 take time but are worth the investment for gardeners with
-significant woody waste. The resulting wood chips can also
+significant woody waste. The resulting [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] can also
 serve as an effective mulch in ornamental borders.
 
 ## Compost Containers
@@ -125,7 +125,7 @@ material that is the cornerstone of organic soil fertility.
 When the compost is dark and crumbly with no recognizable
 plant remains, it is ready for use. Dig it into the top
 layers of soil during the fall or spread it as a mulch
-during the growing season. You will need at least two
+during the [[savory-growing-season-and-non-growing-season-management]]. You will need at least two
 2-gallon buckets of well-rotted compost per square yard
 or meter per year for most garden areas.
 

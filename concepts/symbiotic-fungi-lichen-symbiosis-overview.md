@@ -1,5 +1,5 @@
 ---
-title: Symbiotic Fungi — Lichen Symbiosis Overview
+title: Symbiotic Fungi — comparison-lichen-symbiosis-vs-mycorrhizal-symbiosis Overview
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [fungi, symbiosis]
 
 # Symbiotic Fungi — Lichen Symbiosis Overview
 
-Lichens are mutualistic symbiotic associations between an alga and a fungus in which the two organisms jointly form a thallus that is distinct from either partner. The fungal partner is known as the mycobiont and the algal partner as the phycobiont. Both partners benefit from this symbiotic association, making lichens one of the oldest and most ecologically important examples of fungal symbiosis on Earth.
+Lichens are mutualistic symbiotic associations between an alga and a fungus in which the two organisms jointly form a thallus that is distinct from either partner. The fungal partner is known as the mycobiont and the algal partner as the phycobiont. Both partners benefit from this symbiotic association, making lichens one of the oldest and most ecologically important examples of [[gadd-beetle-gut-fungal-symbiosis-and-coevolution]] on Earth.
 
 ## The Two Partners
 
@@ -27,7 +27,7 @@ The algal partner in lichens may be members of:
 - **Green algae**
 - **Yellow-green algae**
 
-In lichen associations, the blue-green alga performs the dual function of both photosynthesis and nitrogen fixation. However, if the lichen contains an additional partner — namely a green alga — the blue-green alga becomes relieved of its photosynthetic function and is geared to fix nitrogen exclusively. This is evidenced by the fact that in the presence of a green alga in a three-member association, the blue-green alga produces more heterocysts, which are the specialised sites of nitrogen fixation.
+In lichen associations, the blue-green alga performs the dual function of both photosynthesis and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. However, if the lichen contains an additional partner — namely a green alga — the blue-green alga becomes relieved of its photosynthetic function and is geared to fix nitrogen exclusively. This is evidenced by the fact that in the presence of a green alga in a three-member association, the blue-green alga produces more heterocysts, which are the specialised sites of nitrogen fixation.
 
 ## Nature of the Mutualistic Relationship
 
@@ -45,7 +45,7 @@ While highly tolerant to desiccation and temperature extremes, lichens are very 
 
 ## Comparison with Geosiphon Endocytobiosis
 
-The Geosiphon-Nostoc endocytobiosis shares the feature of housing a cyanobacterium (Nostoc) inside fungal cells, analogous to arbuscular mycorrhiza. However, significant differences distinguish lichen symbiosis from the Geosiphon system:
+The Geosiphon-Nostoc endocytobiosis shares the feature of housing a cyanobacterium (Nostoc) inside fungal cells, analogous to [[proteomics-early-arbuscular-mycorrhiza-symbiosis]]. However, significant differences distinguish lichen symbiosis from the Geosiphon system:
 
 | Feature | Geosiphon | Lichen |
 |---|---|---|
@@ -53,7 +53,7 @@ The Geosiphon-Nostoc endocytobiosis shares the feature of housing a cyanobacteri
 | Photosynthetic partner | Nostoc inside the fungal cell | Algae in a lichen |
 | Dehydration tolerance | Does not survive water loss | Robust toward dehydration |
 | High temperature | Very sensitive | Many are resistant |
-| Light requirements | Grows only in moderate light | Can tolerate high light irradiance |
+| [[growing-gourmet-light-requirements-mushroom-fruiting]] | Grows only in moderate light | Can tolerate high light irradiance |
 
 ## Broader Context of Fungal-Algal Symbiosis
 
@@ -65,7 +65,7 @@ Liverworts such as *Anthoceros*, *Notothylas*, and *Blassia* possess blue-green 
 
 ### Pteridophyte Symbiosis
 
-The floating fern *Azolla* harbours filaments of *Anabaena* within ovoid cavities inside its leaves, forming a nitrogen-fixing symbiotic relationship. When free-living, *Anabaena* develops only 5-10% of cells into heterocysts; in symbiosis this increases to 25-30%. Epidermal cells inside the leaf cavity project multicellular hairs with warty outgrowths that serve as transfer cells for nutrient exchange between *Azolla* and *Anabaena*.
+The floating fern *Azolla* harbours filaments of *Anabaena* within ovoid cavities inside its leaves, forming a nitrogen-fixing symbiotic relationship. When free-living, *Anabaena* develops only 5-10% of cells into heterocysts; in symbiosis this increases to 25-30%. Epidermal cells inside the leaf cavity project multicellular hairs with warty outgrowths that serve as transfer cells for [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between *Azolla* and *Anabaena*.
 
 *Azolla* is grown in rice fields and ploughed as green manure, supplying up to 50-75% of the nitrogen requirement of the crop. This practice is extensively employed in China and Japan.
 

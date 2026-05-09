@@ -1,9 +1,10 @@
 ---
-title: "What Is Keyline Design and How Does It Work?"
+title: "What Is query-how-does-keyline-design-work-in-permaculture and How Does It Work?"
 tags: [query, permaculture, water-management, earthworks, keyline]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources:
+  - "raw/papers/pa-yeomans-water-for-every-farm.md"
 ---
 
 # What Is Keyline Design and How Does It Work?
@@ -26,7 +27,7 @@ This creates a cycle where valley bottoms become waterlogged or eroded while upp
 
 Conventional agriculture often worsens this by plowing up and down slopes, accelerating erosion.
 
-[[mollison-designers-keyline-pattern-plow-technique]] uses a specialized chisel plow that fractures compacted subsoil without inverting it.
+mollison-designers-keyline-pattern-plow-technique uses a specialized [[soil-conditioning-chisel-plow-biological-methods]] that fractures compacted subsoil without inverting it.
 
 Unlike a moldboard plow, the keyline plow leaves the soil surface largely undisturbed while opening deep channels for water infiltration.
 
@@ -70,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -14,7 +14,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 Allen, and Gartz (2000). Originally described in the genus Psilocybe, it was later
 transferred to Hypholoma based on taxonomic revisions reflecting its morphological
 affinities. The species is found in neotropical and subtropical regions and grows on
-decaying wood and woody debris.
+decaying wood and [[fungal-succession-woody-debris-ecology]].
 
 ## Taxonomy and Nomenclature
 
@@ -71,7 +71,7 @@ are warm (20 to 30°C).
 ## Chemistry
 
 *Hypholoma popperianum* contains [[psilocin]] as its principal psychoactive
-alkaloids, consistent with its classification among psilocybin-containing neurotropic fungi.
+alkaloids, consistent with its classification among psilocybin-containing [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].
 The presence of these compounds has been confirmed by chemical analysis.
 
 The exact concentrations of [[psilocin]] in *H. popperianum* have not been
@@ -80,7 +80,7 @@ be psychoactive, suggesting that alkaloid concentrations are sufficient to produ
 effects upon ingestion. As with other wood-inhabiting psilocybian species, the alkaloid content
 may vary depending on the substrate (wood species, degree of decomposition), environmental
 conditions (temperature, humidity, light exposure), geographic origin, and the age of the
-fruiting body at harvest.
+[[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] at harvest.
 
 Some species in the genus Hypholoma and related genera may also contain [[norbaeocystin]] as minor alkaloid constituents, though specific analyses of
 *H. popperianum* for these compounds are not readily available.
@@ -88,11 +88,11 @@ Some species in the genus Hypholoma and related genera may also contain [[norbae
 ## Ecological Role
 
 *H. popperianum* is a saprotrophic (saprobes) fungus that decomposes lignocellulose in
-decaying wood, contributing to nutrient cycling in tropical forest ecosystems by breaking
+decaying wood, contributing to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] ecosystems by breaking
 down the complex structural polymers of wood and converting them into simpler organic
 compounds available to other organisms in the forest food web.
 ## See Also
 
-- [[psilocybin]] — the primary psychoactive indole alkaloid produced by this species
+- [[psilocybin]] — the primary psychoactive [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] produced by this species
 - [[psilocin]] — the pharmacologically active metabolite of psilocybin
 - stropharia — a closely related genus including species formerly placed in Hypholoma

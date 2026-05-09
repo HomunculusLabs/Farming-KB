@@ -1,5 +1,5 @@
 ---
-title: Cannabinoid Receptor Agonists and Antagonists Synthetic Reference Blesching
+title: cannabis-cannabinoid-receptor-pharmacology Agonists and Antagonists Synthetic Reference Blesching
 source: uwe-blesching-the-cannabis-health-index.md
 tags: [cannabinoid, receptor, agonist, antagonist, CB1, CB2, synthetic, pharmaceutical, CP-55940, HU-210, WIN55212]
 created: 2026-05-08
@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-In *The Cannabis Health Index*, Uwe Blesching catalogs the synthetic cannabinoids developed as research tools and pharmaceutical agents that target the CB1 and CB2 cannabinoid receptors. These compounds have been essential for mapping the endocannabinoid system and developing medical treatments. Unlike plant-derived cannabinoids, synthetic compounds can be designed for receptor specificity, allowing researchers to isolate the effects of CB1 activation from CB2 activation and vice versa.
+In *The [[blesching-cannabis-health-index-autoimmune-conditions]]*, Uwe Blesching catalogs the synthetic cannabinoids developed as research tools and pharmaceutical agents that target the CB1 and CB2 cannabinoid receptors. These compounds have been essential for mapping the endocannabinoid system and developing medical treatments. Unlike plant-derived cannabinoids, synthetic compounds can be designed for receptor specificity, allowing researchers to isolate the effects of CB1 activation from CB2 activation and vice versa.
 
 ## Receptor Binding Model
 
@@ -33,7 +33,7 @@ HU-210 is a synthetic cannabinoid that binds **primarily to CB1 receptors**, wit
 - Neuroprotection
 - Pain modulation
 - Appetite stimulation
-- Memory and learning effects
+- [[plant-memory-and-learning-mechanisms]] effects
 - Psychoactive effects
 
 The extreme potency of HU-210 means that it is used only in research settings and is not developed as a pharmaceutical agent.
@@ -72,7 +72,7 @@ CB2-selective agonists like GW-405,833 are of particular interest for treating:
 - Pain (especially inflammatory and neuropathic pain)
 - Neurodegenerative conditions involving neuroinflammation
 
-The CB2-selective approach avoids the psychoactive effects associated with CB1 activation, potentially offering a better safety profile for patients who need the anti-inflammatory and immunomodulatory benefits of cannabinoid therapy without cognitive impairment.
+The CB2-selective approach avoids the psychoactive effects associated with CB1 activation, potentially offering a better [[cannabis-safety-profile-and-overdose-risk]] for patients who need the anti-inflammatory and immunomodulatory benefits of cannabinoid therapy without cognitive impairment.
 
 ### JWH-133
 
@@ -97,7 +97,7 @@ Dronabinol is a synthetic form of THC approved by the FDA for:
 - Treatment of AIDS-related anorexia/cachexia (appetite stimulation and weight maintenance)
 - Treatment of nausea and vomiting secondary to chemotherapy
 
-Dronabinol is a pure THC preparation that activates both CB1 and CB2 receptors. However, unlike whole-plant cannabis, it contains none of the other biologically active components (CBD, other cannabinoids, terpenes) that may contribute to therapeutic effects through the entourage effect.
+Dronabinol is a pure THC preparation that activates both CB1 and CB2 receptors. However, unlike whole-plant cannabis, it contains none of the other biologically active components (CBD, other cannabinoids, terpenes) that may contribute to therapeutic effects through the [[cannabis-terpene-entourage-effect-profiles]].
 
 ### Nabilone (Cesamet)
 
@@ -107,7 +107,7 @@ Nabilone is a synthetic cannabinoid structurally related to THC, approved by the
 
 Sativex is distinct from other synthetic cannabinoid pharmaceuticals in that it is essentially a **plant-derived tincture** containing approximately equal parts THC and CBD, delivered as an oral spray. Developed by GW Pharmaceuticals, Sativex represents a whole-plant approach to pharmaceutical cannabinoid therapy that preserves some of the synergistic effects of multiple cannabis constituents.
 
-Sativex is approved in numerous countries (though not in the United States as of Blesching's writing) for:
+Sativex is approved in numerous countries (though not in the [[dmt-containing-plants-united-states-halpern]] as of Blesching's writing) for:
 
 - Spasticity associated with multiple sclerosis
 - Neuropathic pain

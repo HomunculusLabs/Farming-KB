@@ -1,5 +1,5 @@
 ---
-title: "Japanese Bantam vs White Leghorn: Calorie Efficiency in Livestock"
+title: "fukuoka textdoc japanese bantam leghorn calorie efficiency chicken vs White Leghorn: Calorie Efficiency in Livestock"
 created: 2026-04-28
 tags: [livestock, chickens, calorie-efficiency, bantam, leghorn, energy-input, feed-conversion, native-breeds, poultry]
 date: 2026-04-28
@@ -45,7 +45,7 @@ the caloric loss.
 
 This is true not only for chickens but for pigs and cattle as well, where the
 efficiency is even worse. The ratio of energy output to input tells a devastating
-story about modern livestock farming:
+story about modern [[fukuoka-textdoc-natural-livestock-farming-open-grazing]]:
 
 | Animal Type | Energy Efficiency (output/input) |
 |---|---|
@@ -59,7 +59,7 @@ story about modern livestock farming:
 Raising beef cattle cuts the food energy recoverable from land tenfold. People who
 eat beef consume ten times as much energy as people on a diet of rice. Few are aware
 of how our livestock industry, which raises cattle in indoor stalls with feed grain
-shipped from the United States, has helped deplete American soil. Not only are such
+shipped from the [[dmt-containing-plants-united-states-halpern]], has helped deplete American soil. Not only are such
 practices uneconomical, they amount essentially to a campaign to destroy vegetation
 on a global scale.
 
@@ -126,7 +126,7 @@ plentiful and contribute to man's well-being.
 In Fukuoka's idealized vision of livestock farming, he sees bees busily making the
 rounds of clover and vegetable blossoms thickly flowering beneath trees laden heavy
 with fruit; he sees semi-wild chickens and rabbits frolicking with dogs in fields
-of growing wheat, and great numbers of ducks and mallards playing in the rice paddy;
+of growing wheat, and great numbers of ducks and mallards playing in the [[fukuoka-textdoc-creating-rice-paddy-natural-methods]];
 at the foot of the hills and in the valleys, black pigs and boars grow fat on worms
 and crayfish, and from time to time goats peer out from the thickets and trees.
 

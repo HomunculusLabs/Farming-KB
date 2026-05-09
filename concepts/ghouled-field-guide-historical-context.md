@@ -1,5 +1,5 @@
 ---
-title: Ghouled Field Guide to the Psilocybin Mushroom - Historical Context
+title: Ghouled ghouled field guide historical context to the emcdda-psilocybin-mushroom-dose-and-effects - Historical Context
 created: 2026-04-28
 tags:
   - psilocybin
@@ -36,7 +36,7 @@ It's here!" and was relayed through a Berkeley remailer service
 (remailer@soda.berkeley.edu).
 
 This 1994 Usenet posting is historically significant as an early
-example of psychedelic harm reduction and identification information
+example of psychedelic [[adverse-effects-and-harm-reduction-psilocybin]] and identification information
 being distributed through digital networks, predating the World Wide
 Web's emergence as a dominant platform for such content. The alt.drugs
 newsgroup was one of the primary digital forums for substance-related
@@ -44,7 +44,7 @@ discussion in the pre-web era.
 
 ## Scope and Species Coverage
 
-The guide covered three species common to the southern United States:
+The guide covered three species common to the southern [[dmt-containing-plants-united-states-halpern]]:
 
 - [[panaeolus-subbalteatus-profile]]
 - [[psilocybin-mushroom-bluing-reaction-chemistry]], [[psilocybin-mushroom-field-collection-techniques]]
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,3 +109,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[fc-ghouled]]

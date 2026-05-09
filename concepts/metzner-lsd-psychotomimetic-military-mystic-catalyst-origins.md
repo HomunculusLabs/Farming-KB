@@ -1,5 +1,5 @@
 ---
-title: "LSD from Psychotomimetic to Mystic Catalyst: Military and Therapeutic Origins"
+title: "LSD from Psychotomimetic to metzner lsd psychotomimetic military mystic catalyst origins: Military and Therapeutic Origins"
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 author: Ralph Metzner
 tags: [lsd, military, psychotomimetic, psycholytic, cia, mk-ultra, hofmann, sandoz]
@@ -73,7 +73,7 @@ made the startling discovery that in a series involving increasing doses there
 could be an even deeper psychic opening—to birth and pre-birth memories. After
 resolving conflicts stemming from Freudian dynamics of early childhood, patients
 would relive the significant sensory-emotional features of their birth
-experience—patterns Grof named "perinatal matrices."
+experience—patterns Grof named "[[metzner-grof-perinatal-matrices-and-transpersonal-realms]]."
 
 This discovery extended the psycholytic model beyond Freudian psychoanalysis
 into the territory of what would later be called transpersonal psychology. The
@@ -89,7 +89,7 @@ circles. The English psychiatrist Humphrey Osmond, working in Canada with Abram
 Hoffer on the treatment of alcoholism with LSD, introduced the term
 "psychedelic" in an exchange of letters with Aldous Huxley.
 
-Psychedelic therapy usually involved one or a small number of high-dose sessions
+[[metzner-psycholytic-psychedelic-therapy-models]] usually involved one or a small number of high-dose sessions
 (200+ micrograms), during which the contents of the unconscious mind would be
 manifested in vivid hallucinatory imagery, leading to insight and
 transformation. The approach was first used in treating alcoholics, where it
@@ -108,11 +108,11 @@ but on exploring the possibilities of the psychedelic experience for "normals,"
 introducing the concept of "consciousness expansion." This could be contrasted
 with the "contracted, fixated awareness characteristic of narcotic addictions."
 
-Leary was responsible for introducing the "set and setting" hypothesis, according
+Leary was responsible for introducing the "[[lsd-set-and-setting-framework]]" hypothesis, according
 to which the primary determinants of a psychedelic experience are the internal
 set (intention, expectation, motivation) and the external setting or context,
 including the presence of a guide or therapist. This model could be extended to
-understand other modalities of altered states, including hypnosis, meditation,
+understand other modalities of [[weil-the-natural-mind-altered-states-normalcy]], including hypnosis, meditation,
 rhythmic drumming, sensory isolation, and fasting.
 
 ## The Empathogen Discovery
@@ -134,15 +134,14 @@ but instead amplified emotional openness and interpersonal connection.
 Despite differences between the psycholytic and psychedelic approaches, Metzner
 identified five shared conclusions: (1) psychedelics produce profoundly expanded
 states of consciousness; (2) set and setting are the primary determinants; (3)
-the amplifier and microscope metaphors apply; (4) the therapist's personal
+the amplifier and [[metzner-amplifier-microscope-metaphors-psychedelic-therapy]] apply; (4) the therapist's personal
 experience is an essential prerequisite; and (5) access to transpersonal
-dimensions is possible. These conclusions distinguish psychedelic therapy from
-all other forms of pharmacotherapy.
-
 ## See Also
 
 - [[metzner-lsd-military-weapon-to-mystic-catalyst]]
 - [[metzner-amplifier-microscope-metaphors-psychedelic-therapy]]
+
+- [[metzner-lsd-origins-sandoz-psycholytic-osmond-hoffer-alcoholism-and-consciousness-expansion]]
 
 ## References
 

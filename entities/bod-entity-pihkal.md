@@ -1,5 +1,5 @@
 ---
-title: "BOD (2,5,beta-Trimethoxy-4-methyl-PEA) -- PIHKAL Entry #14"
+title: "BOD (2,5,beta-Trimethoxy-4-methyl-PEA) -- 2c-b-pihkal-entry-20 #14"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # BOD
 
-PIHKAL entry #14. 2,5,beta-Trimethoxy-4-methyl-PEA.
+[[2c-b-pihkal-entry-20]] #14. 2,5,beta-Trimethoxy-4-methyl-PEA.
 
 ## Dosage and Duration
 

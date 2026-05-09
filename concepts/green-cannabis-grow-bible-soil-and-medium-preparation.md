@@ -1,5 +1,5 @@
 ---
-title: Soil and Medium Preparation - Greg Green's Cannabis Grow Bible
+title: Soil and Medium Preparation - Greg Green's green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -11,7 +11,7 @@ tags: [cannabis, soil]
 # Soil and Medium Preparation
 
 Greg Green's Cannabis Grow Bible provides practical guidance on
-selecting and preparing growing media for cannabis cultivation, with
+selecting and preparing growing media for [[query-how-does-no-till-cannabis-cultivation-work]], with
 emphasis on the three critical soil factors: pH, nutrients, and
 structure.
 
@@ -86,7 +86,7 @@ systems:
   roots in a flat, long system
 - **Ebb and Flow (Flood and Drain)**: Nutrients flood the medium at
   timed intervals then drain back to reservoir
-- **Drip Irrigation**: Individual feeding to each plant through
+- **[[comparison-drip-irrigation-vs-passive-irrigation]]**: Individual feeding to each plant through
   drippers
 - **Aeroponics**: Roots misted with nutrients inside tubes; expensive,
   used by professional growers

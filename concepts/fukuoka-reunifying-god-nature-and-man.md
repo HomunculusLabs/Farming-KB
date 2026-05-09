@@ -1,11 +1,12 @@
 ---
-title: Fukuoka on Reunifying God, Nature, and Man
+title: Fukuoka on fukuoka reunifying god [[fukuoka-god-nature-and-man-as-one]], Nature, and Man
 created: 2026-05-08
 tags: [philosophy, natural-farming, spirituality, fukuoka]
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
@@ -26,7 +27,7 @@ that there remained still a long way to go.
 ## See Also
 
 - [[fukuoka-desert-revegetation-clay-pellets]] — Practical application of the philosophy
-- [[fukuoka-critique-scientific-agriculture-civilization]] — Critique of the machine culture
+- [[fukuoka-critique-scientific-agriculture-civilization]] — Critique of the [[fukuoka-machine-culture-doomed-agricultural-decline-america-europe]]
 ## Practical Applications
 
 Fukuoka on Reunifying God, Nature, and Man has a range of practical applications that make it relevant to
@@ -44,7 +45,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -94,7 +95,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -104,4 +105,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

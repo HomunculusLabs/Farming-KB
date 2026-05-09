@@ -23,13 +23,13 @@ At 8 milligrams, effects include light-headedness, brightness around objects aga
 
 ## Status
 
-Active psychedelic with extreme potency variation between individuals.
+Active psychedelic with extreme [[psilocybe-cubensis-potency-variation-by-flush]] between individuals.
 
 Duration of up to 24 hours makes this a compound requiring significant time commitment and careful preparation.
 
 The healing and integrative potential reported at moderate doses places 5-TOET among the most valued compounds in the Shulgin repertoire.
 
-However, the narrow therapeutic window and risk of overwhelming experience at modest dose increases demand caution and careful titration.
+However, the narrow [[blesching-cannabis-therapeutic-window-dosing]] and risk of overwhelming experience at modest dose increases demand caution and careful titration.
 ## Practical Applications
 
 5-TOET has a range of practical applications that make it relevant to
@@ -107,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

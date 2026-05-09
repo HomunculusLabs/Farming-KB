@@ -25,7 +25,7 @@ sources:
 the bioluminescent jack-o'-lantern mushrooms of the genus *Omphalotus*.
 
 The two principal compounds, **illudin S** and **illudin M**, were first isolated in
-1965 from *[[omphalotus-olearius]]* (Europe, North America)
+1965 from *[[omphalotus-olearius]]* (Europe, [[psilocybin-north-america-pacific-northwest]])
 - *Omphalotus nidiformis* (Australia, southern Asia)
 - *Omphalotus subilludens* (Japan)
 
@@ -61,12 +61,12 @@ activity, though none have advanced beyond preclinical evaluation.
 - **Pleurotin** — Related sesquiterpene quinone from *Pleurotus* species;
   shares spiro-cyclopropane pharmacophore but targets thioredoxin reductase
   rather than DNA
-- **Irofulven** — Semi-synthetic illudin S derivative that reached clinical trials
+- **Irofulven** — Semi-synthetic illudin S derivative that reached [[mushroom-cancer-clinical-trials-overview]]
 - **Illudalic acid** — Oxidized metabolite of illudin S with reduced cytotoxicity
 
 ## See Also
 
-- [[psilocybin]] — Fungal indole alkaloid from psychoactive mushroom species
+- [[psilocybin]] — Fungal [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] from psychoactive mushroom species
 - [[aflatoxin]] — Potent mycotoxin from *Aspergillus* species
 ## Practical Considerations
 
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

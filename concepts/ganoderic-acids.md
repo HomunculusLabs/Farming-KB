@@ -36,7 +36,7 @@ Multiple ganoderic acids demonstrate inhibitory effects against HIV:
 
 ### Cytotoxic and Antitumour Effects
 
-Several ganoderic acids show direct cytotoxicity against cancer cell lines:
+Several ganoderic acids show direct cytotoxicity against [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines:
 - Ganoderic acids T, V, W, X, Y, Z — cytotoxic against various tumour lines
 - 3β-Hydroxy-26-oxo-5α-lanosta-8,24-dien-11-one
 - Ergosta-7,22-diene-3β,3α,9α-triol
@@ -68,10 +68,10 @@ Ganoderic acids are typically extracted from fruiting bodies or spores using org
 
 ## Therapeutic Significance
 
-Unlike the water-soluble β-glucans (which act primarily through immune modulation), ganoderic acids represent a complementary therapeutic pathway in reishi — acting through direct cytotoxic, enzyme-inhibitory, and receptor-mediated mechanisms. This dual-action profile (polysaccharides + triterpenoids) likely underlies the broad-spectrum medicinal reputation of [[medicinal-mushroom-antioxidant-anti-inflammatory]]
+Unlike the water-soluble β-glucans (which act primarily through [[cancer-immune-modulation-mechanisms]]), ganoderic acids represent a complementary therapeutic pathway in reishi — acting through direct cytotoxic, enzyme-inhibitory, and receptor-mediated mechanisms. This dual-action profile (polysaccharides + triterpenoids) likely underlies the broad-spectrum medicinal reputation of [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[reishi-mushroom-medicinal-research]]
 - [[reishi-ganoderma-cancer-clinical-research]]
-- [[medicinal-mushroom-cardiovascular-cholesterol-research]]
+- medicinal-mushroom-cardiovascular-cholesterol-research
 ## Practical Considerations
 
 Successful implementation of Ganoderic Acids requires attention to
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

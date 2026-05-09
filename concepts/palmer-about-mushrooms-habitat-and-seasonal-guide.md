@@ -1,5 +1,5 @@
 ---
-title: Palmer - Habitat and Seasonal Guide
+title: Palmer - palmer about mushrooms habitat and seasonal guide Guide
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -12,17 +12,17 @@ tags: [habitat, mushroom-cultivation, mushrooms]
 
 ## The Myth of Overnight Growth
 
-One of Palmer's most emphatic corrections is that mushrooms do NOT spring up in a single night. Most of the development is subterranean, in the spawn or mycelium. A heavy dew or evening shower straightens the stem and expands the cap, breaking the earth during the night -- so the gatherer finds white buttons in the morning where nothing was visible the day before.
+One of Palmer's most emphatic corrections is that mushrooms do NOT spring up in a single night. Most of the development is subterranean, in the spawn or [[mycelium]]. A heavy dew or evening shower straightens the stem and expands the cap, breaking the earth during the night -- so the gatherer finds white buttons in the morning where nothing was visible the day before.
 
-But days and even weeks are necessary for full production, just as for a rose. The common mushroom requires about ten days from a pin-head button to a disk three or four inches in diameter. This is the average period for other kinds, although the Coprinariae consume less than half that time. "Popular error has made mushroom growth proverbial for a superficiality which by the fungi, at least, is undeserved."
+But days and even weeks are necessary for full production, just as for a rose. The common mushroom requires about ten days from a pin-head button to a disk three or four inches in diameter. This is the average period for other kinds, although the Coprinariae consume less than half that time. "Popular error has made [[pf-tek-mushroom-growth-timeline]] proverbial for a superficiality which by the fungi, at least, is undeserved."
 
 ## The Spawn (Mycelium)
 
 The hidden part of the fungus -- a white, branching, vine-like substance permeating the soil -- is called "spawn." It corresponds to the vine of a grape, while the visible mushroom represents the fruit or blossom.
 
-Palmer witnessed the excavation opposite the Brunswick Hotel in Boston, where "as the pick of the workman broke up the soil, a white substance ran through every piece. Starting with large branches, it divided and sub-divided like the veins on the back of the hand." This was the spawn of [[palmer-about-mushrooms-foraging-basics-and-safety]]
-- [[palmer-about-mushrooms-poisonous-species-to-avoid]]
-- [[palmer-about-mushrooms-cooking-and-preservation]]
+Palmer witnessed the excavation opposite the Brunswick Hotel in Boston, where "as the pick of the workman broke up the soil, a white substance ran through every piece. Starting with large branches, it divided and sub-divided like the veins on the back of the hand." This was the spawn of palmer-about-mushrooms-foraging-basics-and-safety
+- palmer-about-mushrooms-poisonous-species-to-avoid
+- palmer-about-mushrooms-cooking-and-preservation
 ## Practical Applications
 
 Palmer - Habitat and Seasonal Guide has a range of practical applications that make it relevant to
@@ -100,4 +100,9 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[guzman-magic-mushrooms-habitat-ecology]]
+- [[psilocybin-mushrooms-new-zealand-guide]]
+- [[golden-guide-psilocybin-mushrooms-overview]]
+- [[mushrooms-fungi-from-around-the-world-guide]]
+- [[palmer-boleti-guide-identification]]

@@ -6,10 +6,10 @@ tags: [cannabis, strain, hybrid, cookie-family, bay-area-genetics, high-thc]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "general cannabis breeding and cultivation knowledge"
+  - "general oner-cannabis-breeding-fundamentals and cultivation knowledge"
 ---
 
-Girl Scout Cookies (GSC) is a highly influential hybrid cannabis strain
+Girl Scout Cookies (GSC) is a highly influential hybrid [[blesching-cannabis-strain-selection-receptor-targeting]]
 that originated in the San Francisco Bay Area around 2010-2012. Created
 by crossing the OG Kush-descended "F1 Durb" (a Durban Poison x OG Kush
 hybrid) with an unknown Cookies cutting rumored to be an F1 from a
@@ -25,7 +25,7 @@ commercial offspring.
 |--------|------|----------------|
 | OG Kush (via F1 Durb) | Pollen donor | Fuel aroma, high potency, indica structure |
 | Durban Poison (via F1 Durb) | Grandparent | Sweet terpene profile, uplifting sativa effect |
-| Florida OG (rumored) | Maternal grandparent | Potency, resin production, OG terpene profile |
+| Florida OG (rumored) | Maternal grandparent | Potency, [[cannabis-glandular-trichome-types-resin-production-clarke]], OG terpene profile |
 | Granddaddy Purple (rumored) | Paternal grandparent | Coloration, berry notes, indica relaxation |
 
 The exact genetics have been debated since the strain's commercial
@@ -97,7 +97,7 @@ cool night temperatures, especially in the final 2-3 weeks of flowering.
 ### Cultivation Notes
 - Responds well to LST (low-stress training) and ScrOG methods
 - Moderate nutrient requirements; avoid excessive nitrogen in flower
-- Susceptible to powdery mildew in high-humidity environments
+- Susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in high-humidity environments
 - Benefits from increased calcium and magnesium during mid-flower
 - Temperature control (especially cool nights) enhances purple
   coloration and terpene development
@@ -123,9 +123,9 @@ relaxation. Users commonly report:
 ### Medical Applications
 GSC has been widely used medicinally for:
 
-- **Chronic pain management**: Moderate to severe pain relief from
+- **[[cannabis-chronic-pain-management]] management**: Moderate to severe pain relief from
   both neuropathic and inflammatory sources
-- **Nausea and appetite loss**: Effective appetite stimulant, useful
+- **[[cannabis-for-nausea-and-appetite-stimulation]] loss**: Effective appetite stimulant, useful
   for patients undergoing chemotherapy or with HIV/AIDS wasting
 - **Insomnia**: Heavier doses promote sleep onset and maintenance
 - **Stress and anxiety**: Many users report significant anxiolytic
@@ -135,6 +135,9 @@ GSC has been widely used medicinally for:
 - **Muscle spasms**: Muscle relaxant properties beneficial for
   conditions like MS and fibromyalgia
 ## See Also
+
+- [[donny-burger]]
+- [[oreoz]]
 
 - [[og-kush]]
 - [[cannabis-blue-dream]]

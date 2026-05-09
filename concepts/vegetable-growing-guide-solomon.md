@@ -1,5 +1,5 @@
 ---
-title: Vegetable Growing Guide (Solomon)
+title: fukuoka-semi-wild-vegetable-growing-natural-method Guide (Solomon)
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -18,7 +18,7 @@ Solomon's chapter on individual vegetables is organized by importance to a self-
 
 ## Sowing Depth Guide
 
-Seed sowing depth by size:
+[[hamilton-seed-sowing-techniques]] depth by size:
 - **Tiny seeds** (celery, basil, sorrel, most herbs): fall into tiny cracks of raked soil, barely covered with fine compost. Press earth down gently to restore capillarity. Direct-seed only in mild temperatures or shade rows temporarily.
 - **Ordinary small seeds** (brassicas, carrots, parsley, fennel): about half an inch (1.25 cm) deep
 - **Larger small seeds** (spinach, beet, chard, radish, oxalis): about three-quarters inch (2 cm) deep
@@ -51,7 +51,7 @@ Key insights from Weaver's root studies:
 
 ### Root Architecture
 - Roots never turn back toward the center — always extend into new soil
-- Root exudates signal where the plant's own roots already are
+- [[mycorrhizal-root-exudates-pathogen-interactions]] signal where the plant's own roots already are
 - Plants secrete chemicals that repel roots of other species (allelopathy)
 - These chemicals are long-lasting — a different species planted in the same spot the following year may do poorly
 
@@ -83,7 +83,7 @@ All brassicas need more calcium than most vegetables. If not using COF and garde
 ## Spacing Shorthand
 
 Solomon uses abbreviated notation:
-- **"In clusters"**: Few seeds sown in a cluster at fixed intervals, used for raised beds or wide raised rows
+- **"In clusters"**: Few seeds sown in a cluster at fixed intervals, used for [[comparison-raised-beds-vs-hugelkultur]] or wide raised rows
 - **"In drills"**: Seeds set in the bottom of a furrow
 - **"In hills"**: Seeds sown in highly fertile mounds, sometimes with additional fertilizer
 

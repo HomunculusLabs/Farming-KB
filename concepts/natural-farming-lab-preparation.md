@@ -1,5 +1,5 @@
 ---
-title: Lactic Acid Bacteria Serum (LAB) Preparation
+title: Lactic lactic-acid-bacteria-knf Serum (LAB) Preparation
 created: 2026-04-24
 tags: [agriculture, natural-farming, KNF, LAB, lactic-acid-bacteria, fermentation]
 type: concept
@@ -9,7 +9,7 @@ updated: 2026-04-26
 
 # Lactic Acid Bacteria Serum (LAB) Preparation
 
-Lactic acid bacteria are anaerobic microorganisms that break sugar into lactic acid in the absence of oxygen. LAB is very effective in improving soil ventilation, promoting rapid growth of fruit trees and leaf vegetables, and controlling odors in composting and livestock operations. LAB is one of the major workhorse microorganisms in natural farming.
+Lactic acid bacteria are anaerobic microorganisms that break sugar into lactic acid in the absence of oxygen. LAB is very effective in improving soil ventilation, promoting rapid growth of [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and leaf vegetables, and controlling odors in composting and livestock operations. LAB is one of the major workhorse microorganisms in [[comparison-natural-farming-vs-permaculture]].
 
 ## What LAB Does
 
@@ -94,7 +94,7 @@ Lactic acid bacteria are anaerobic microorganisms that break sugar into lactic a
 - For aquaculture: regular addition minimizes ammonia from fish excretions
 
 ### For Compost
-- LAB prevents fermented mixed compost from decaying
+- LAB prevents [[cho-fermented-mixed-compost-methods]] compost from decaying
 - When used with IMO or mixed compost, fermentation occurs fast with very effective results
 - Reduces damage from gas by neutralizing ammonia
 
@@ -112,12 +112,12 @@ Lactic acid bacteria are anaerobic microorganisms that break sugar into lactic a
 
 ## The Science
 
-Lactic acid bacteria thrive on the ammonia released during decomposition. By converting ammonia and other waste compounds, they arrest foul odors and transform waste products into forms beneficial to soil and plants. In the digestive systems of animals, LAB helps break down food for better nutrient extraction, which is why it improves feed conversion ratios.
+Lactic acid bacteria thrive on the ammonia released during decomposition. By converting ammonia and other waste compounds, they arrest foul odors and transform waste products into forms beneficial to soil and plants. In the digestive systems of animals, LAB helps [[query-can-fungi-break-down-plastic-pollution]] food for better nutrient extraction, which is why it improves feed conversion ratios.
 
 ## Sources
 
 - Cho, H.K. (2011). Dr. Cho's Global Natural Farming. SARRA.
-- Carandang, G.A. (2003). Indigenous Microorganisms: Grow Your Own. Herbana Farms.
+- Carandang, G.A. (2003). [[beneficial-indigenous-microorganisms-bim]]: Grow Your Own. Herbana Farms.
 
 ## See Also
 

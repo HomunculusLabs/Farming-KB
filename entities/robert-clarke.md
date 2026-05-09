@@ -1,63 +1,15 @@
 ---
-
-title: Robert C. Clarke
-created: 2026-04-11
-updated: 2026-04-12
-type: entity
-
-tags:
-- person
-- cannabis
-- soil
-- history
-- botany
-- academia
-- taxonomy
-- genetics
-- species
-
-sources:
-- raw/robert-c-clarke-marijuana-botany-an-advanced-study.md
-- raw/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md
-- raw/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md
----
-
-# Robert C. Clarke
-
-> **Note:** Sources unavailable — content from model knowledge. Review and add sources.
-
-## Overview
-
-Robert Connell Clarke (1953–2017) was an American cannabis researcher, ethnobotanist, and author who made foundational contributions to the understanding of cannabis botany, genetics, breeding, and the history of hemp and hashish. He was widely regarded as one of the foremost cannabis botanists in the world.
-
-## Key Contributions
-
-- **"Marijuana Botany" (1981):** Published the definitive scientific guide to cannabis genetics, breeding, and taxonomy. This book introduced formal breeding methodology to cannabis cultivators — including concepts like inbreeding, backcrossing, hybrid vigor, and selection that remain the foundation of modern cannabis breeding. Essential reference for [[cannabis-genetics-and-breeding]].
-- **Cannabis taxonomy:** Contributed to the understanding of cannabis species classification — sativa, indica, ruderalis — and the morphological, chemical, and geographical distinctions between them.
-- **Hashish research:** Conducted extensive field research on traditional hashish production methods in Morocco, Nepal, India, Afghanistan, and other hashish-producing regions. Documented traditional sieving, hand-rubbing, and water extraction techniques.
-- **Hemp history and advocacy:** Co-founded the **International Hemp Association (IHA)** in 1993 and served as its board member. Worked to document the historical uses of hemp (fiber, seed, oil, medicine) and advocate for industrial hemp cultivation.
-- **Cannabis evolution and ethnobotany:** With Mark Merlin, produced the most comprehensive academic treatment of cannabis's evolutionary history, dispersal routes, and historical use across cultures.
-- **Cannabis museum curation:** Curated the Hash Marihuana & Hemp Museum in Amsterdam, helping preserve and display the cultural history of cannabis.
-
-## Major Works
-
-- **"Marijuana Botany: An Advanced Study: The Propagation and Breeding of Distinctive Cannabis"** (1981) — The foundational cannabis breeding manual.
-- **"Hashish!"** (1998) — Comprehensive guide to hashish history, production, and culture, with Laurence Cherniak.
-- **"Cannabis: Evolution and Ethnobotany"** (2013, with Mark D. Merlin) — Academic treatment of cannabis origins, dispersal, and cultural uses from prehistory to modern era. Published by University of California Press.
-
-## Legacy
-
-Clarke's "Marijuana Botany" remains the most cited reference for cannabis breeding methodology. His taxonomic and ethnobotanical work provides the scientific foundation for understanding cannabis diversity. His research on traditional hashish production has influenced modern solventless extraction methods. The [[cannabis-genetics-and-breeding]], [[cannabis-vegetative-stage]], and [[cannabis-harvest-and-curing]] pages all draw on principles Clarke formalized.
-
 ## See Also
 
-- [[cannabis-genetics-and-breeding]] — Breeding methodology
-- [[cannabis-vegetative-stage]] — Vegetative growth
-- [[cannabis-flowering-stage]] — Flowering phase
-- [[cannabis-harvest-and-curing]] — Harvest and processing
-- [[cannabis-plant-nutrition]] — Plant nutrition
-- [[cannabis-living-soil-guide]] — Indoor cultivation
-- [[cannabis-pest-management]] — Pest and disease management
+- robert clarke
+
+- cannabis-genetics-and-breeding — Breeding methodology
+- cannabis-vegetative-stage — Vegetative growth
+- cannabis-flowering-stage — Flowering phase
+- cannabis-harvest-and-curing — Harvest and processing
+- cannabis-plant-nutrition — Plant nutrition
+- cannabis-living-soil-guide — Indoor cultivation
+- cannabis-pest-management — Pest and disease management
 ## Practical Considerations
 
 Successful implementation of Robert C. Clarke requires attention to
@@ -77,3 +29,100 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## Merged: Robert Connell Clarke
+
+---
+---
+  - plant-breeding
+---
+
+# Robert Connell Clarke
+
+## Overview
+
+Robert Connell Clarke is an American agronomist, ethnobotanist, author, and cannabis researcher born in 1953.
+He is best known for bringing botanical, breeding, and ethnobotanical rigor to cannabis studies at a time when much public writing about the plant was informal or prohibition-shaped.
+His books and field research connect cannabis as a crop, drug plant, fiber plant, resin source, and cultural artifact.
+Within this wiki, Clarke is the source entity behind many concept pages on [[clarke-marijuana-botany-cannabis-taxonomy-and-genetics]], genetics, flowering, sex expression, [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]], [[cannabis-terpene-profiles-sativa]], and hashish production.
+His work differs from grower manuals because it emphasizes plant science, evolutionary history, landraces, breeding populations, and ethnographic context.
+He is often cited as one of the figures who helped move cannabis knowledge from underground practice toward systematic botanical research.
+
+## Education and Early Research
+
+Clarke graduated from the University of California, Santa Cruz in 1977.
+Shortly after graduating, he self-published his undergraduate research dissertation as *The Botany and Ecology of Cannabis*.
+That early work signaled the direction of his career: treating *Cannabis* as a serious botanical subject rather than merely as a legal controversy.
+He continued studying the genus across morphology, ecology, domestication history, cultivation, breeding, and human use.
+His early research became especially influential among breeders and growers because it explained inheritance, selection, sex expression, and floral biology in accessible language.
+
+## Marijuana Botany
+
+Clarke's 1981 book *Marijuana Botany: An Advanced Study: The Propagation and Breeding of Distinctive Cannabis* is one of his signature works.
+The book explains cannabis anatomy, sexual reproduction, breeding strategy, pollination, selection, maturation, and seed production.
+It helped translate plant-breeding principles for a public audience of cannabis cultivators.
+Topics such as photoperiodism, dioecy, hermaphroditism, sinsemilla production, hybridization, and [[vic-high-cannabis-phenotype-selection-criteria]] became more widely understood through this work.
+For wiki concepts on propagation and genetics, Clarke is important because he gives a botanical frame for practices that might otherwise be treated only as grower folklore.
+
+## Breeding and Industry Roles
+
+In the 1980s Clarke participated in the cannabis seed bank Cultivators Choice with David P. Watson.
+Cultivators Choice was part of the early modern seed-bank era that preserved, recombined, and distributed cannabis varieties in the Netherlands and beyond.
+Clarke and Watson later co-founded Hortapharm B.V., a Dutch cannabis research and development company.
+Hortapharm held a license from 1994 to 1997 to conduct medicinal cannabis research.
+These roles placed Clarke at the boundary between informal cannabis breeding, formal research, and emerging legal medical-cannabis systems.
+He also served as project manager of the International Hemp Association, an Amsterdam-based organization focused on hemp research and communication.
+He wrote for *High Times* under the pseudonym R. Connoisseur.
+
+## Ethnobotanical Fieldwork
+
+Clarke is known for fieldwork on cannabis varieties, cultivation practices, and cultural uses across Asia and other regions.
+His work has included attention to Nepal, China, Vietnam, Turkey, and other areas where cannabis or hemp traditions persisted in local agriculture and craft.
+Such fieldwork matters because cannabis domestication cannot be understood only from modern dispensary varieties.
+Landraces, fiber hemp, seed oil crops, hashish traditions, medicinal uses, and ritual uses all preserve different selection histories.
+Clarke's ethnobotanical approach links plant form to human practice: harvesting resin, retting fiber, selecting seed, separating male and female plants, and adapting crops to local climates.
+He has also been associated with methodological tools for cannabis research and with discussion of archaeological cannabis evidence.
+
+## Major Publications
+
+*Marijuana Botany* remains the most widely recognized breeding-oriented work associated with Clarke.
+*Hashish!* examines cannabis resin, resin processing, regional traditions, quality, and the [[shroom-cultural-history-hippie-revolution-and-counterculture]] of hashish.
+*Hemp Diseases and Pests*, coauthored with John M. McPartland and David P. Watson, treats disease and pest management for hemp and cannabis.
+*Cannabis: Evolution and Ethnobotany*, coauthored with Mark D. Merlin and published by University of California Press in 2013, is a major scholarly synthesis.
+That book examines the plant's evolutionary history, domestication, taxonomy, dispersal, and cultural roles.
+Together, these works span practical breeding, resin culture, crop protection, and academic ethnobotany.
+
+## Relevance to Cannabis Taxonomy
+
+Clarke's work is central to debates about whether cannabis should be treated as one highly variable species or as multiple species and subspecies.
+He helped clarify the importance of domestication, selection pressure, geography, and human movement in shaping cannabis populations.
+His taxonomic discussions are useful because popular terms such as indica, sativa, hemp, drug type, fiber type, and landrace often mix botanical, chemical, and market meanings.
+Concept pages on cannabis taxonomy should use Clarke as a reference point but still distinguish his interpretations from later molecular-genetic studies.
+
+## Relevance to Breeding and Cultivation Concepts
+
+Clarke's breeding explanations support pages on sexual propagation, seed production, [[cannabis-phenotype-and-genotype-guide]], floral induction, photoperiodism, and sex determination.
+He gives a vocabulary for understanding why growers select parent plants, isolate pollen, evaluate progeny, and stabilize lines.
+His work also explains why clonal propagation and seed propagation serve different goals.
+Where Jorge Cervantes is most useful for grow-room operations, Clarke is most useful for explaining plant identity, heredity, and population history.
+Both authors are important, but they occupy different levels of explanation.
+
+## Historical Importance
+
+Clarke worked during a period when cannabis research was constrained by law, stigma, and limited access to germplasm.
+His ability to combine underground knowledge, field observation, academic botany, and international networks made his work unusually durable.
+He helped legitimate cannabis as a subject for agronomy, ethnobotany, economic botany, and crop science.
+His scholarship also preserved knowledge about traditional cannabis cultures that might otherwise be lost through eradication, modernization, or market homogenization.
+
+## Distinctions
+
+Robert Connell Clarke should not be confused with Arthur C. Clarke or other writers sharing the surname Clarke.
+He is a cannabis agronomist and ethnobotanist, not a science-fiction author.
+His work should also be distinguished from purely commercial strain marketing, even when it discusses varieties or breeding.
+Clarke's strongest contributions are explanatory, historical, and botanical.
+
+## See Also
+
+- [[cannabis-botany-and-taxonomy]]
+- [[clarke-marijuana-botany-flowering-and-photoperiodism]]
+- [[cannabis-hashish-production]]
+- [[cannabis-phenotype-and-genotype-guide]]

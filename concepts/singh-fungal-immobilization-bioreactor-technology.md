@@ -1,5 +1,5 @@
 ---
-title: "Fungal Immobilization and Bioreactor Technology"
+title: "singh fungal immobilization bioreactor technology and Bioreactor Technology"
 created: 2026-04-26
 tags:
   - immobilization
@@ -14,13 +14,13 @@ sources:
 type: concept
 ---
 # Fungal Immobilization and Bioreactor Technology
-Immobilization of fungal biomass and fungal enzymes represents a key
+Immobilization of [[bioremediation-fungal-biomass-biosorbent-material]] and fungal enzymes represents a key
 strategy for developing practical, continuous bioremediation systems.
 By confining fungal cells or their extracellular enzymes to a solid
 support matrix, immobilization enhances operational stability, enables
 biomass reuse across multiple treatment cycles, facilitates product
 separation, and permits continuous-flow reactor operation. These
-advantages are critical for translating laboratory-scale [[fungal-spores]] or mycelial fragments are mixed with sodium alginate solution
+advantages are critical for translating laboratory-scale fungal-spores or mycelial fragments are mixed with sodium alginate solution
   and extruded dropwise into calcium chloride solution, forming
   spherical gel beads (2-5 mm diameter). Alginate entrapment preserves
   cell viability and allows diffusion of nutrients and pollutants.
@@ -42,8 +42,8 @@ advantages are critical for translating laboratory-scale [[fungal-spores]] or my
 ### Adsorption and Biofilm Formation
 - **Natural carriers**: Wood chips, sawdust, corncobs, straw, and
   other lignocellulosic materials serve as low-cost supports that
-  also induce ligninolytic enzyme production.
-- **Inert carriers**: Clay beads, diatomaceous earth, activated carbon,
+  also induce ligninolytic [[ligninolytic-enzyme-production-bioremediation]].
+- **Inert carriers**: Clay beads, [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]], activated carbon,
   and nylon mesh provide surfaces for biofilm attachment without
   contributing organic matter.
 ### Covalent Binding
@@ -64,7 +64,7 @@ Natural lignocellulosic materials are often preferred for fungal
 immobilization because they simultaneously serve as carbon source,
 enzyme inducer, and physical support.
 ## Bioreactor Configurations
-Several reactor designs are employed for immobilized fungal systems:
+Several reactor designs are employed for [[singh-immobilized-fungal-bioreactors-wastewater-treatment]] systems:
 ### Packed Bed Reactors (PBR)
 Columns packed with immobilized fungal beads or colonized support
 particles. Wastewater flows upward or downward through the bed. PBRs
@@ -102,10 +102,13 @@ bioreactors.
   phosphate or chelator interference.
 - **Contamination**: Open systems are susceptible to bacterial and
   other fungal contamination.
-- **Oxygen supply**: Maintaining adequate dissolved oxygen within
+- **Oxygen supply**: Maintaining adequate [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] within
   dense immobilized biomass requires careful reactor design.
 - **Enzyme production decline**: Prolonged operation may lead to
   reduced ligninolytic enzyme expression.
 ## See Also
 - [[singh-textile-dye-decolorization-fungal]]
 - [[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste]]
+- [[mycoremediation]]
+- [[singh-fungal-bioreactor-types-configurations]]
+- [[singh-bioreactor-design-for-fungal-bioremediation]]

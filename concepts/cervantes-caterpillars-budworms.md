@@ -5,7 +5,8 @@ tags: [cannabis, pest-control, caterpillars, budworms, lepidoptera]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -14,7 +15,7 @@ type: concept
 Caterpillars and budworms are chewing insect pests that
 can cause significant damage to cannabis foliage and
 flowers. While they are seldom a problem indoors, they
-are common in outdoor and greenhouse gardens. Their
+are common in [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]] gardens. Their
 ability to burrow into developing buds makes them one
 of the most destructive pests during the flowering
 stage.
@@ -54,7 +55,7 @@ undetected caterpillar activity.
   signs of entry holes or frass.
 - **Remove and destroy** infested buds to prevent the
   spread of disease.
-- **Row covers or netting** can exclude moths from
+- **[[solomon-row-covers-and-season-extension]] or netting** can exclude moths from
   laying eggs on outdoor plants.
 
 ## Biological Control
@@ -64,7 +65,7 @@ undetected caterpillar activity.
   them from hatching.
 - **Spined soldier bug** (Podisus maculiventris) is a
   generalist predator that feeds on caterpillars.
-- **Bacillus thuringiensis (Bt)** is the most
+- **[[cervantes-bacillus-thuringiensis-bt-control]] (Bt)** is the most
   effective biological control for caterpillars. Btk
   (B. thuringiensis var. kurstaki) is toxic to many
   moth and caterpillar larvae including most species
@@ -78,7 +79,7 @@ See also: [[cervantes-biological-pest-control-predators]]
 
 - **Bt formulations** (Dipel, Biobit, Javelin) are
   the preferred first-line spray. They are specific
-  to caterpillars and safe for beneficial insects.
+  to caterpillars and safe for [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
   Microencapsulated forms (M-Trak, Mattch) extend
   effective life on foliage to more than a week.
 - **Pyrethrum** provides a quick knockdown effect for

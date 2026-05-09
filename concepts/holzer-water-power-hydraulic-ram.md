@@ -15,8 +15,8 @@ type: concept
 
 # Water Power and Hydraulic Systems
 
-Sepp Holzer has integrated water power systems into the [[holzer-alternative-energy]]
-can be derived from the natural topography of a permaculture landscape. By
+[[comparison-sepp-holzer-vs-biodynamic]] has integrated water power systems into the [[holzer-alternative-energy]]
+can be derived from the natural topography of a [[holzer-permaculture-landscape-design]]. By
 using the height difference between ponds and water gardens, Holzer creates
 clean energy while simultaneously supporting his aquaculture and irrigation
 systems.
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -17,7 +17,7 @@ type: concept
 
 # Purdue Nitrogen Side-Dressing Schedule
 
-A crop-specific reference for nitrogen side-dressing in home vegetable gardens, based on Purdue University Cooperative Extension Service recommendations. Side-dressing supplies supplemental nitrogen after plants have made considerable growth or begun fruiting, when demand often exceeds what organic matter breakdown and initial fertilizer applications provide.
+A crop-specific reference for nitrogen side-dressing in home vegetable gardens, based on Purdue University Cooperative Extension Service recommendations. Side-dressing supplies supplemental nitrogen after plants have made considerable growth or begun fruiting, when demand often exceeds what [[hamilton-composting-and-organic-matter-management]] breakdown and initial fertilizer applications provide.
 
 ## Why Side-Dress Nitrogen
 
@@ -27,9 +27,9 @@ The major portion of nitrogen available to plants comes from three sources:
 
 1. **Breakdown of organic matter** in the soil
 2. **Yearly maintenance applications** of balanced fertilizer
-3. **Nitrogen side-dressings** applied during the growing season
+3. **Nitrogen side-dressings** applied during the [[savory-growing-season-and-non-growing-season-management]]
 
-Until a plant starts fruiting or makes considerable vegetative growth, it typically receives enough nitrogen from the first two sources. After that point, demand often exceeds supply, making a side-dressing necessary. Crops that do not require side-dressing include sweet potatoes, watermelons, carrots, beets, turnips, parsnips, and lettuce — excessive nitrogen for these crops reduces yields, lowers quality, or both.
+Until a plant starts fruiting or makes considerable [[cannabis-vegetative-growth-stage]], it typically receives enough nitrogen from the first two sources. After that point, demand often exceeds supply, making a side-dressing necessary. Crops that do not require side-dressing include sweet potatoes, watermelons, carrots, beets, turnips, parsnips, and lettuce — excessive nitrogen for these crops reduces yields, lowers quality, or both.
 
 ## Application Method
 
@@ -63,7 +63,7 @@ The standard side-dressing rate is **1 pound of ammonium nitrate (33-0-0) per 10
 - **Timing:**
   - First application: 1 week after blossoming begins
   - Second application: 3 weeks after the first
-- **Notes:** Vine crops need split applications to support extended fruiting periods. The first dose supports initial fruit set; the second sustains production through peak harvest.
+- **Notes:** [[tree-vine-crops-arid-tropical-mollison]] need split applications to support extended fruiting periods. The first dose supports initial fruit set; the second sustains production through peak harvest.
 
 ### Onions (Mature)
 
@@ -75,7 +75,7 @@ The standard side-dressing rate is **1 pound of ammonium nitrate (33-0-0) per 10
 
 - **Amount:** 1 pound per 100 feet of row
 - **Timing:** After heavy bloom and set of pods
-- **Notes:** Legumes fix atmospheric nitrogen through rhizobium bacteria, but supplemental nitrogen during heavy pod production improves yields. Apply after pod set, not before.
+- **Notes:** [[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]] atmospheric nitrogen through rhizobium bacteria, but supplemental nitrogen during heavy pod production improves yields. Apply after pod set, not before.
 
 ### Peppers and Eggplants
 
@@ -87,7 +87,7 @@ The standard side-dressing rate is **1 pound of ammonium nitrate (33-0-0) per 10
 
 - **Amount:** 1 pound per 100 feet of row
 - **Timing:** When plants are about one-third grown
-- **Notes:** Leafy greens benefit from mid-season nitrogen to support continued foliage production. Apply before plants reach full size.
+- **Notes:** [[solomon-leafy-greens-growing]] benefit from mid-season nitrogen to support continued foliage production. Apply before plants reach full size.
 
 ### Sweet Corn
 

@@ -1,5 +1,5 @@
 ---
-title: Indoor Growing Environment (Growing Gourmet & Medicinal Mushrooms)
+title: Indoor cannabis-growing-environment-setup (Growing Gourmet & comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive)
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
@@ -11,7 +11,7 @@ sources:
     path: wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 # Indoor Growing Environment
-[[query-what-are-the-stages-of-mushroom-cultivation]]. Each environment has specific temperature, humidity, light, and pressurization requirements based on its function within the production pipeline. The design philosophy prioritizes flow-through logistics, contamination control, and energy efficiency.
+[[query-what-are-the-stages-of-mushroom-cultivation]]. Each environment has specific temperature, humidity, light, and pressurization requirements based on its function within the production pipeline. The design philosophy prioritizes flow-through logistics, contamination control, and [[fukuoka-textdoc-energy-efficiency-agricultural-labor]].
 ## The Growing Room Complex
 The growing room complex houses all non-laboratory activities within one building. Each room has different requirements according to function. Growers in humid tropical climates face a set of problems uniquely different from growers in cold, temperate climates. Ancillary storage and shop maintenance buildings are separate.
 ## Environment 1: The Growing Rooms
@@ -22,9 +22,9 @@ The growing room complex houses all non-laboratory activities within one buildin
 **Light:** 50-1000 lux.
 **Insulation:** R8-R16 or as needed.
 **Positive Pressurization:** Yes, through electrostatic filters.
-**Air-to-Substrate Ratio:** Stamets recommends filling growing rooms to no more than 1/4th of total air volume, preferring only 1/8th of capacity. This means for every 8 air spaces, 1 space is occupied by substrate -- a 7:1 air-to-substrate ratio. Five dry tons of wheat straw functionally fills a 1000 sq. ft. growing room.
+**Air-to-Substrate Ratio:** Stamets recommends filling growing rooms to no more than 1/4th of total air volume, preferring only 1/8th of capacity. This means for every 8 air spaces, 1 space is occupied by substrate -- a 7:1 air-to-substrate ratio. Five dry tons of [[non-sterilized-wheat-straw-oyster-cultivation]] functionally fills a 1000 sq. ft. growing room.
 **Key [[mycoremediation-mushroom-cultivation-contaminated-substrates]] into the same corridor through which freshly spawned substrate is being transferred causes cross-contamination.
-- Spent substrate should be exited out of the opposite ends of the growing rooms.
+- [[oyster-mushroom-spent-substrate-recycling]] should be exited out of the opposite ends of the growing rooms.
 - Many farms bring their fresh mushrooms into the main hallway en route to sorting and cold storage rooms.
 ## Environment 2: The Spawning Room
 **Purpose:** A room adjacent to the pasteurization chamber wherein inoculations into bulk substrates are conducted.
@@ -34,7 +34,7 @@ The growing room complex houses all non-laboratory activities within one buildin
 **Light:** 200-500 lux. Needed only for ease of personnel.
 **Insulation:** None needed.
 **Positive Pressurization:** Yes, through HEPA filters.
-**Key Design Principles:**
+**Key [[holmgren-permaculture-twelve-design-principles-framework]]:**
 - Once thoroughly washed down with a dilute bleach solution prior to spawning, the fan/filter system is activated for positive pressurization.
 - The filtration system is ideally located overhead. Air is passively or actively exhausted near the floor.
 - During inoculation, this room becomes very messy with spawn and substrate debris accumulating on the floor.
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

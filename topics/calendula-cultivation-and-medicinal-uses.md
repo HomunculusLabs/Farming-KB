@@ -1,5 +1,5 @@
 ---
-title: Calendula Cultivation and Medicinal Uses
+title: Calendula calendula cultivation and medicinal uses Uses
 tags:
   - calendula
   - medicinal-herbs
@@ -19,7 +19,7 @@ sources:
 ---
 # Calendula Cultivation and Medicinal Uses
 
-**Calendula officinalis**, commonly known as pot marigold, English marigold, or simply calendula, is one of the most versatile and widely cultivated medicinal herbs in temperate gardens worldwide. A member of the **Asteraceae** family, calendula has been used for centuries in traditional European herbalism, Ayurveda, and Traditional Chinese Medicine for its potent anti-inflammatory, wound-healing, and antimicrobial properties. Unlike the ornamental marigolds of the *Tagetes* genus, true calendula offers query-how-do-i-grow-edible-flowers-in-a-permaculture-garden with significant pharmacological activity.
+**Calendula officinalis**, commonly known as pot marigold, English marigold, or simply calendula, is one of the most versatile and widely cultivated medicinal herbs in temperate gardens worldwide. A member of the **Asteraceae** family, calendula has been used for centuries in traditional European herbalism, Ayurveda, and Traditional Chinese Medicine for its potent anti-inflammatory, wound-healing, and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. Unlike the ornamental marigolds of the *Tagetes* genus, true calendula offers query-how-do-i-grow-edible-flowers-in-a-permaculture-garden with significant pharmacological activity.
 
 ## Botanical Profile
 
@@ -76,7 +76,7 @@ Calendula is one of the easiest flowers to grow from direct-sown seed:
 2. **Depth**: Sow seeds 6–12 mm (¼–½ inch) deep.
 3. **Spacing**: Thin seedlings to 20–30 cm (8–12 inches) apart in rows 30–45 cm (12–18 inches) apart. For dense plantings (cut flower production), space 15 cm (6 inches) apart.
 4. **Germination**: Seeds typically germinate in 5–15 days at soil temperatures of 15–21°C (60–70°F). Germination rate is usually 80–95%.
-5. **Succession planting**: Sow every 2–3 weeks for continuous blooms from spring through fall.
+5. **[[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]]**: Sow every 2–3 weeks for continuous blooms from spring through fall.
 
 #### Transplanting
 
@@ -89,7 +89,7 @@ Start indoors 4–6 weeks before the last frost. Use cell trays or small pots; c
 - **Water**: Water regularly during establishment (first 3–4 weeks), then reduce to [[query-which-drought-tolerant-legumes-are-best-for-cover-crops-and-grain]] g. Established plants are fairly drought-tolerant but produce more flowers with consistent moisture. Avoid overhead watering, which promotes [[query-how-to-prevent-and-treat-powdery-mildew-on-cannabis]].
 - **Fertilization**: Light feeder. Side-dress with compost or a balanced organic fertilizer once at planting. Additional feeding is rarely needed and may reduce flower pro [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] esting
 
-Harvest calendula flowers when they are fully open, ideally in the morning after dew has dried but before the heat of the day drives off volatile compounds. Pick flowers with a short length of stem attached. Regular harvesting (every 2–3 days) promotes continuous blooming — calendula is a "cut-and-come-again" flower.
+Harvest calendula flowers when they are fully open, ideally in the morning after dew has dried but before the heat of the day drives off [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]. Pick flowers with a short length of stem attached. Regular harvesting (every 2–3 days) promotes continuous blooming — calendula is a "cut-and-come-again" flower.
 
 For medicinal use, harvest only the **ray florets** (the outer petals), as the disc florets (center) contain less of the active triterpenoid compounds. Pinch the flower head and pull the petals away from the green base, or use scissors to snip them off.
 
@@ -117,13 +117,13 @@ Calendula is an excellent crop for seed saving. Allow some flowers to go to seed
 
 ## Companion Planting
 
-Calendula is one of the most valuable companion plants in the garden, offering multiple ecosystem services:
+Calendula is one of the most valuable companion plants in the garden, offering multiple [[biodiversity-of-fungi-ecosystem-services-agriculture]]:
 
 ### Pest Repellent Properties
 
 - **Trap cropping**: Calendula attracts aphids, thrips, and whiteflies away from more valuable crops. Its sticky resinous sap traps small pests.
 - **General repellent**: The aromatic compounds in calendula foliage may deter certain pests, including nematodes in the soil. Some studies suggest calendula root exudates have nematicidal properties, making it useful as a pre-plant or intercrop for nematode-sensitive crops like tomatoes and peppers.
-- **Attracts beneficials**: Calendula flowers are rich in nectar and pollen, attracting hoverflies (Syrphidae), ladybugs, parasitic wasps, and lacewings. These beneficial insects provide biological pest control throughout the garden.
+- **Attracts beneficials**: Calendula flowers are rich in nectar and pollen, attracting hoverflies (Syrphidae), ladybugs, parasitic wasps, and lacewings. These [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] provide biological pest control throughout the garden.
 
 ### Companion Plant Pairings
 
@@ -141,198 +141,9 @@ Calendula is one of the most valuable companion plants in the garden, offering m
 ### Edible Landscape Integration
 
 Calendula's bright, cheerful flowers make it an excellent edible landscape plant. Use it in:
-- **Potager gardens**: Interplant with vegetables and herbs
-- **Herb spirals**: Thrives in the sunny upper zones
-- **Pollinator borders**: Mix with other nectar-rich flowers
-- **Container gardens**: Compact cultivars work well in pots
-
-## Medicinal Properties and Phytochemistry
-
-### Active Compounds
-
-Calendula's med [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] es from a complex matrix of bioactive compounds:
-
-#### Triterpenoids (Primary Active Compounds)
-
-The triterpenoid saponins are responsible for calendula's most significant pharmacological effects:
-
-- **Faradiol**: Anti-inflammatory; inhibits COX-2 and iNOS pathways
-- **Arniidiol**: Anti-edematous; reduces swelling
-- **Calenduladiol**: Wound-healing promoter; stimulates fibroblast proliferation
-- **ψ-Taraxasterol** and **α-Taraxasterol**: Anti-inflammatory and anti-tumor properties
-- **Lupeol**: Anti-inflammatory, antioxidant, and anti-cancer properties
-
-#### Flavonoids
-
-- **Quercetin**: Potent antioxidant; inhibits histamine release; anti-inflammatory
-- **Isorhamnetin**: Antioxidant; vasoprotective
-- **Rutin**: Strengthens capillaries; anti-inflammatory
-- **Narcissin**: Antioxidant
-
-#### Carotenoids
-
-- **Lutein**: Antioxidant; supports eye health; anti-inflammatory
-- **β-Carotene (provitamin A)**: Antioxidant; supports skin health and immune function
-- **Lycopene**: Antioxidant; photoprotective
-- **Zeaxanthin**: Antioxidant; photoprotective
-- **β-Cryptoxanthin**: Anti-inflammatory
-
-#### Other Compounds
-
-- **Polysaccharides**: Immunostimulatory; activate macrophage activity
-- **Essential oil** (trace): Contains α-cadinol, δ-cadinene, and γ-muurolene; antimicrobial
-- **Coumarins**: Anti-spasmodic
-- **Saponins**: Antimicrobial; facilitate wound cleaning
-- **Tannins**: Astringent; support wound healing
-
-### Pharmacological Actions
-
-| Action | Mechanism | Evidence Level |
-|---|---|---|
-| **Anti-inflammatory** | Inhibits COX-2, LOX, and iNOS; reduces TNF-α, IL-6, and IL-1β | Strong (clinical + preclinical) |
-| **Wound healing** | Stimulates fibroblast proliferation, collagen synthesis, angiogenesis, and granulation tissue formation | Strong (clinical trials) |
-| **Antimicrobial** | Active against *Staphylococcus aureus*, *E. coli*, *Candida albicans*, *Pseudomonas aeruginosa* | Moderate |
-| **Antioxidant** | Scavenges free radicals; reduces lipid peroxidation | Strong |
-| **Antispasmodic** | Smooth muscle relaxation; reduces intestinal cramping | Moderate |
-| **Immunomodulatory** | Activates macrophages; enhances phagocytosis | Moderate |
-| **Photoprotective** | Carotenoids absorb UV radiation; reduce oxidative photodamage | Moderate |
-| **Hemostatic** | Promotes blood clotting in minor wounds | Traditional; limited clinical data |
-| **Cholagogue** | Stimulates bile production and flow | Traditional |
-
-## Medicinal Preparations and Uses
-
-### Topical Applications
-
-#### Calendula Salve / Ointment
-
-The most popular and well-researched calendula preparation. Used for:
-
-- Minor cuts, scrapes, and abrasions
-- Burns (including sunburn)
-- Rashes and dermatitis
-- Diaper rash
-- Chapped lips and dry skin
-- Post-surgical wound care
-- Radiation dermatitis in cancer patients (well-documented clinical use)
-- Varicose veins and hemorrhoids
-- Insect bites and stings
-
-**Basic salve recipe**: Infuse 1 cup dried calendula petals in 1 cup carrier oil (olive, jojoba, or almond) using a slow cooker on low for 4–6 hours or a solar infusion for 2–4 weeks. Strain and combine with ¼ cup beeswax (adjust for desired consistency). Pour into tins or jars.
-
-#### Calendula-Infused Oil
-
-Used as a base for salves, creams, and massage oils. Suitable carriers include:
-- **Olive oil**: Traditional; long shelf life; good for salves
-- **Jojoba oil**: Excellent skin affinity; long shelf life; ideal for facial products
-- **Sweet almond oil**: Light texture; absorbs well
-- **Coconut oil**: Antimicrobial synergy; solid at room temperature
-
-#### Calendula Cream
-
-A lighter, water-containing emulsion suitable for facial use and general skin care. Combines calendula-infused oil with water, emulsifying wax, and optional preservatives.
-
-#### Calendula Compress / Poultice
-
-For acute inflammation, soak a clean cloth in strong calendula tea or diluted calendula tincture and apply to the affected area. Useful for sprains, strains, and swollen insect bites.
-
-#### Calendula in Bath Products
-
-Added to bath salts, bath bombs, or bath teas for general skin soothing. Combine with lavender, chamomile, and oatmeal for enhanced effect.
-
-### Internal Applications
-
-#### Calendula Tea
-
-A gentle, pleasant-tasting tea with anti-inflammatory and lymphatic-stimulating properties:
-
-- **General recipe**: Steep 1–2 teaspoons dried petals in 240 ml (8 oz) hot water (not boiling) for 10–15 minutes. Strain. Drink 2–3 cups daily.
-- **Lymphatic support**: Calendula is classified as a lymphagogue in Western herbalism, stimulating lymphatic flow. Used for swollen lymph nodes, sluggish lymphatic circulation, and as support during infections.
-- **Digestive support**: Anti-inflammatory and antispasmodic properties help with gastritis, peptic ulcers, and inflammatory bowel conditions. Combine with marshmallow root and slippery elm for GI mucosal healing.
-- **Menstrual support**: Traditional use for regulating menstruation and relieving menstrual cramps. Often combined with cramp bark and raspberry leaf.
-- **Oral health**: Used as a mouthwash or gargle for gingivitis, oral ulcers, and sore throat. Its antimicrobial and anti-inflammatory actions support oral mucosa healing.
-
-#### Calendula Tincture
-
-A concentrated alcohol extract (typically 1:5 or 1:10 in 40–60% alcohol):
-
-- **Dose**: 1–3 mL (20–60 drops) up to 3 times daily
-- **Uses**: Lymphatic congestion, immune support during infections, digestive inflammation, and as a topical antiseptic
-- **Contraindications**: Not recommended during pregnancy (uterine stimulant properties), although topical use is generally considered safe
-
-#### Culinary Uses
-
-Calendula petals are edible and have been used in cooking for centuries:
-
-- **"Poor man's saffron"**: Dried petals were historically used as a saffron substitute to color rice, soups, and stews
-- **Salads**: Fresh petals add color and mild flavor to salads
-- **Butter**: Mixed into softened butter for a colorful spread
-- **Baked goods**: Petals incorporated into breads, muffins, and cakes
-- **Vinegars**: Steeped in white wine vinegar for colorful salad dressings
-- **Teas and beverages**: As a colorful addition to herbal tea blends
-
-## Varieties and Cultivars
-
-### Resin-Rich Varieties (Best for Medicine)
-
-Resin content correlates directly with medicinal potency. The stickiest, most resinous varieties are preferred for herbal preparations:
-
-| Variety | Description | Notes |
-|---|---|---|
-| **'Resina'** | Orange flowers; extremely high resin content; the gold standard for medicinal use | Developed by herbalists; most resinous variety available |
-| **'Erfurter Orangefüchsen'** | Deep orange; high resin content; German heirloom | Traditional European medicinal variety |
-| **'Radio'** | Orange with quilled petals; high resin content | Also ornamental; good dual-purpose |
-| **'Indian Prince'** | Deep orange with dark centers; high resin | Showy and medicinal |
-
-### Ornamental / Dual-Purpose Varieties
-
-| Variety | Description |
-|---|---|
-| **'Pacific Beauty'** | Mix of yellow, orange, and gold; large double flowers; excellent for cutting |
-| **'Bon Bon'** | Compact (25 cm); double flowers in apricot, yellow, and orange; ideal for containers |
-| **'Flashback'** | Bicolor petals with burgundy undersides; striking in the garden |
-| **'Strawberry Blonde'** | Peach-pink fading to dusty rose; unique color |
-| **'Greenheart Orange'** | Vibrant orange with green centers |
-| **'Zeolights'** | Apricot-pink with dark undersides; especially beautiful in mass plantings |
-| **'Oopsy Daisy'** | Cream with orange-red petal tips; unusual and eye-catching |
-| **'Bronzed Beauty'** | Copper-bronze; warm and unusual tones |
-
-## Landscape and Ecological Value
-
-Beyond its medicinal and companion planting roles, calendula provides significant ecological benefits:
-
-- **Pollinator support**: The open flower structure provides easy access to nectar and pollen for bees, butterflies, hoverflies, and other pollinators. Calendula blooms prolifically over a long season, providing consistent food when other flowers may be scarce.
-- **Erosion control**: Dense, bushy plants hold soil on slopes and banks.
-- **Soil improvement**: Calendula roots help break compacted soil. At [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] nd, plants can be chopped and dropped as green mulch, adding organic matter.
-- **Food forest integration**: Excellent understory plant in food forests, providing both medicinal harvest and ecological services.
-
-## Harvest Yields and Economics
-
-For market gardeners and small-scale herb growers:
-
-| Metric | Typical Range |
-|---|---|
-| Fresh flower yield | 0.5–1.5 kg/m² (1–3 lbs/yd²) per season |
-| Dried petal yield | 15–25% of fresh weight |
-| Seeds per gram | ~12–15 seeds |
-| Seed yield per plant | 100–500 seeds |
-| Market price (dried, organic) | $15–35/lb ($33–77/kg) wholesale |
-| Oil infusion yield | 1 part dried petals to 10 parts oil (weight/volume) |
-
-Calendula is one of the most economically viable medicinal herbs for small-scale growers due to its ease of cultivation, high yield, strong market demand, and multiple product streams (fresh flowers, dried petals, infused oils, salves).
-
-## Safety and Contraindications
-
-Calendula is generally regarded as safe (GRAS) for most people when used appropriately:
-
-- **Allergy**: Individuals with known allergies to plants in the Asteraceae family (ragweed, chrysanthemums, daisies, echinacea) should use calendula with caution, as cross-reactivity is possible, though rare.
-- **Pregnancy**: Oral use is not recommended during pregnancy due to traditional evidence of uterine-stimulant effects. Topical use is generally considered safe, but consult a healthcare provider.
-- **Breastfeeding**: Limited data; topical use is likely safe. Avoid oral use without professional guidance.
-- **Drug interactions**: No significant drug interactions documented. Theoretical interaction with sedatives and blood pressure medications due to potential mild antispasmodic effects.
-- **Children**: Topical calendula preparations are widely used for diaper rash and minor wounds in infants and children. Calendula is an ingredient in many pediatric dermatological products.
-
 ## See Also
 
-- [[comfrey-cultivation-and-uses]] — another powerhouse wound-healing herb for the permaculture garden
+- comfrey-cultivation-and-uses — another powerhouse wound-healing herb for the permaculture garden
 - chamomile cultivation and uses — compare calendula's anti-inflammatory properties with chamomile
 - yarrow cultivation and uses — traditional wound herb with styptic properties
 - lavender cultivation and uses — complementary anti-inflammatory and calming herb

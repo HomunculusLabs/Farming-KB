@@ -26,13 +26,13 @@ created: 2026-04-28
 
 **Yucca schidigera** Roezl ex Ortgies, commonly known as the **Mojave yucca** or **Spanish dagger**, is a tree-like evergreen perennial in the family Asparagaceae.
 
-It is native to the Mojave Desert and Sonoran Desert regions of southwestern North America.
+It is native to the Mojave Desert and Sonoran Desert regions of southwestern [[psilocybin-north-america-pacific-northwest]].
 
 The species is commercially significant for its high saponin content, extracted and sold as a natural surfactant and feed additive.
 
 Mojave yucca has a long history of ethnobotanical use among indigenous peoples of the American Southwest.
 
-The plant is increasingly valued in permaculture and regenerative agriculture for its drought tolerance and soil-building properties.
+The plant is increasingly valued in permaculture and regenerative agriculture for its [[dighton-fungal-drought-tolerance-plant-water-relations]] and soil-building properties.
 
 ## Taxonomy and Morphology
 
@@ -88,7 +88,7 @@ The roots were used as soap and shampoo due to their saponin content — pounded
 
 Flower buds and petals were eaten raw, roasted, or boiled, and dried fruits were ground into meal.
 
-The trunk was used for building material and the woody flower stalks as drill bases for fire-making.
+The trunk was used for [[fungal-building-material-deterioration]] and the woody flower stalks as drill bases for fire-making.
 
 In modern commercial applications, *Y. schidigera* extract is widely used as a **feed additive** for livestock.
 
@@ -108,7 +108,7 @@ Topical preparations of yucca extract are used in alternative medicine for skin 
 
 Oral yucca supplements are marketed for joint health and osteoarthritis, with mixed clinical evidence.
 
-Saponins exhibit antimicrobial activity against various bacteria and fungi, including *Candida albicans*.
+Saponins exhibit antimicrobial activity against various bacteria and fungi, including *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*.
 
 ## Permaculture Applications
 
@@ -118,9 +118,9 @@ Its deep root system (extending 2–4 meters) helps break compacted subsoil and 
 
 The plant provides windbreaks, shade, and wildlife habitat in desert food forests.
 
-The saponin-rich leaves can be used as a natural surfactant in greywater treatment systems.
+The saponin-rich leaves can be used as a natural surfactant in [[mollison-designers-greywater-treatment-reedbeds]] systems.
 
-Yucca extract serves as a wetting agent for hydrophobic soils, improving water infiltration in compost tea applications.
+Yucca extract serves as a [[jadam-nutrient-management-wetting-agent-and-calcium]] for hydrophobic soils, improving water infiltration in compost tea applications.
 
 The plant is fire-resistant due to its high moisture content and succulent leaf bases.
 
@@ -129,7 +129,7 @@ It can serve as a companion plant in arid orchards, providing structural support
 ## See Also
 
 - [[aloe-vera]]
-- [[tagasaste]]
+- tagasaste
 - [[urtica-dioica]]
 - [[comfrey-symphytum-officinale]]
 - [[allium-sativum-entity]]

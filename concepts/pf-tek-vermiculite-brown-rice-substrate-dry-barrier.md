@@ -7,7 +7,7 @@ created: 2026-05-08
 ---
 # [[pf-tek-brown-rice-flour-freshness-and-preparation]] ant uses:
 - 1/4 cup brown rice powder
-- 1/2 cup vermiculi [[pf-tek-vermiculite-grading-and-water-retention]] supports better mycelial growth and fruiting.
+- 1/2 cup vermiculi [[pf-tek-vermiculite-grading-and-water-retention]] supports better [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and fruiting.
 
 If the standard formula results in overly wet substrate, reduce water. The
 coarser vermiculite will require less water than the finer type. Regional
@@ -68,7 +68,7 @@ of the sterilization process before committing spores.
 
 ## Inoculation Technique
 
-Jars must be cool to the touch before inoculation. The spore syringe is shaken
+Jars must be cool to the touch before inoculation. The [[comparison-spore-print-collection-vs-spore-syringe-production]] is shaken
 well to redistribute spores. After removing tape from needle holes, the needle
 is inserted through a lid hole and tilted so the tip touches the glass wall. The
 syringe body is angled back toward the lid center, distributing spore solution
@@ -77,7 +77,7 @@ cc total per jar (allowing 10 jars per standard syringe).
 
 If the needle plugs du [[pf-tek-vermiculite-coarse-vs-fine-comparison]]
 
-- mushroom cultivation methods comparison
-- [[dual-chambered-terrarium]]
-- mushroom spore printing and syringe preparation
-- perlite humidification mushroom cultivation
+- [[accessible-mushroom-cultivation-for-disabilities]] methods comparison
+- [[dual-chambered-terrarium-fruiting]]
+- [[emcdda-hallucinogenic-mushroom-spore-distribution-home-cultivation]] [[spore-printing-and-syringe-preparation]] preparation
+- [[pf-tek-perlite-humidification-evaporation-dynamics]] mushroom cultivation

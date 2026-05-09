@@ -1,5 +1,5 @@
 ---
-title: Cordyceps — Insect Pathogenic Fungi
+title: Cordyceps — cordyceps insect pathogenic fungi Fungi
 slug: cordyceps-insect-pathogenic-fungi
 source: Nicholas P. Money, Mr. Bloomfield's Orchard (2002)
 tags: [cordyceps, entomopathogenic, insect-pathogen, zombie-ants, parasitic-fungi, ascomycota, biological-control]
@@ -13,7 +13,7 @@ If you can muster any empathy toward an insect or spider, Cordyceps can seem a t
 
 The genus Cordyceps comprises fungi that specialize in parasitizing insects and other arthropods, ultimately killing their hosts and erupting from their bodies to produce spore-bearing fruiting structures.
 
-These are among the most dramatic and visually striking of all [[saprotrophic-nutrition]] of most cultivated mushrooms.
+These are among the most dramatic and visually striking of all [[saprotrophic-nutrition]] of most [[fungi-cultivated-mushrooms-pathogens-competitors]].
 
 Rather than decomposing dead organic matter, Cordyceps actively attacks living insects.
 
@@ -25,7 +25,7 @@ Once inside the host, the fungus proliferates through the hemocoel (body cavity)
 
 The fungus is remarkably precise in its consumption, avoiding vital organs until late in the infection to keep the host alive and mobile for as long as possible.
 
-This extended survival period benefits the fungus by allowing the infected insect to move to locations favorable for spore dispersal before dying.
+This extended survival period benefits the fungus by allowing the infected insect to move to locations favorable for [[aquatic-fungi-spore-dispersal-ingold]] before dying.
 
 ## Host Manipulation — The "Zombie Ant" Phenomenon
 
@@ -75,7 +75,7 @@ The chapter on Cordyceps in Money's book is titled "Metamorphosis," drawing an e
 
 The parallel is apt but inverted: where Kafka's Gregor Samsa awakens to find himself transformed into a giant insect, the Cordyceps victim undergoes the opposite transformation — from living insect to fungal vessel.
 
-The life cycle of Cordyceps involves a complete metamorphosis of the host organism, converting its body from a self-directed animal into a platform for fungal reproduction.
+The life cycle of Cordyceps involves a complete metamorphosis of the host organism, converting its body from a self-directed animal into a platform for [[bloomfield-fungal-reproduction-and-chemical-communication]].
 
 The hyphae spread through every organ and tissue, converting the insect's substance into fungal biomass.
 
@@ -83,11 +83,15 @@ When the transformation is complete, the insect is unrecognizable — a mummifie
 
 ## Ecological Significance
 
-Cordyceps and other entomopathogenic fungi play important roles in regulating insect populations in natural ecosystems.
+Cordyceps and other [[singh-entomopathogenic-fungi-biocontrol-agents]] play important roles in regulating insect populations in natural ecosystems.
 
 In tropical forests, they are among the most significant natural controls on ant and other arthropod populations.
 
-Some species are so effective at killing specific pest insects that they have been investigated as biological control agents for agriculture.
+Some species are so effective at killing specific pest insects that they have been investigated as [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents for agriculture.
 
 The fungus [[fungal-melanin-and-pathogenicity]] — Other fungal pathogenicity mechanisms
 - [[stinkhorn-reproduction-and-spore-dispersal]] — Contrast with non-parasitic dispersal strategies
+
+## See Also
+
+- [[onygenales-keratinophilic-systemic-pathogenic-fungi]]

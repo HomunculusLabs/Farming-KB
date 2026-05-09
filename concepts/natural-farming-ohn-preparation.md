@@ -1,5 +1,5 @@
 ---
-title: Oriental Herbal Nutrient (OHN) Preparation
+title: bionutrients-lab-oriental-herbal-nutrients-ohn Nutrient (OHN) Preparation
 created: 2026-04-24
 tags: [agriculture, natural-farming, KNF, OHN, herbal-nutrient, fermentation]
 type: concept
@@ -9,7 +9,7 @@ updated: 2026-04-26
 
 # Oriental Herbal Nutrient (OHN) Preparation
 
-Oriental Herbal Nutrient (OHN) is a very important input in Korean Natural Farming. Made from herbs that are full of energy, OHN functions to increase plant robustness, sterilize, and keep plants warm. OHN revitalizes crops and activates their growth. It is made from popular oriental herbs such as Angelica, Licorice, Cinnamon, Garlic, and Ginger that are fermented (not boiled) to maintain their vigorous properties.
+Oriental Herbal Nutrient (OHN) is a very important input in Korean [[comparison-natural-farming-vs-permaculture]]. Made from herbs that are full of energy, OHN functions to increase plant robustness, sterilize, and keep plants warm. OHN revitalizes crops and activates their growth. It is made from popular oriental herbs such as Angelica, Licorice, Cinnamon, Garlic, and Ginger that are fermented (not boiled) to maintain their vigorous properties.
 
 ## Components
 
@@ -75,7 +75,7 @@ Before use, combine the three OHNs in a **1:1:1** ratio. Each OHN is made separa
 
 - **Basic dilution**: 1:1000 (all three OHNs mixed in 1:1:1:1000 ratio with water)
 - **Range**: 1:500 to 1:1000 depending on weather and plant condition
-- **Throughout the Nutritive Cycle**: OHN can be used during all growth stages (early vegetative, changeover, and reproductive)
+- **Throughout the [[cho-nutritive-cycle-theory]]**: OHN can be used during all growth stages (early vegetative, changeover, and reproductive)
 
 ## Uses of OHN
 
@@ -108,19 +108,19 @@ The ginger-garlic combination serves as a natural antibiotic for plants and anim
 
 - Store filtered extraction in a cool, shaded place
 - For long-term storage, add distilled liquor (40% proof minimum)
-- The alcohol stabilizes and arrests fermentation, similar to herbal tinctures in homeopathy
+- The alcohol stabilizes and arrests fermentation, similar to [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]] in homeopathy
 
 ## Key Principles
 
 - Do not wash ingredients -- useful microorganisms live on their surfaces
 - Fermentation, not boiling, preserves active ingredients
-- Alcohol extraction in the final step captures the active compounds
+- [[pf-tek-alcohol-extraction-method]] in the final step captures the active compounds
 - The three herbs complement each other; always use in combination
 
 ## Sources
 
 - Cho, H.K. (2011). Dr. Cho's Global Natural Farming. SARRA.
-- Carandang, G.A. (2003). Indigenous Microorganisms: Grow Your Own. Herbana Farms.
+- Carandang, G.A. (2003). [[beneficial-indigenous-microorganisms-bim]]: Grow Your Own. Herbana Farms.
 
 ## See Also
 

@@ -12,7 +12,7 @@ sources:
 
 ## The Stoned Ape Hypothesis Overview
 
-The "Stoned Ape" hypothesis is McKenna's most famous and most controversial contribution to evolutionary theory. First articulated in Food of the Gods (1992), it proposes that the transition from Homo erectus to Homo sapiens was catalyzed by the regular consumption of psilocybin mushrooms in the African savanna. The hypothesis challenges the mainstream view that human cognitive evolution was driven primarily by tool use, social complexity, and anatomical changes in the brain.
+The "Stoned Ape" hypothesis is McKenna's most famous and most controversial contribution to evolutionary theory. First articulated in Food of the Gods (1992), it proposes that the transition from Homo erectus to Homo sapiens was catalyzed by the regular consumption of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] in the African savanna. The hypothesis challenges the mainstream view that human cognitive evolution was driven primarily by tool use, social complexity, and [[steroid-induced-anatomical-changes-psilocybe-cubensis-fruiting]] in the brain.
 
 McKenna proposed a three-stage model of mushroom use, with different doses producing different evolutionary effects. See [[mckenna-language-and-reality]] is a recurring theme in McKenna's work.
 
@@ -35,7 +35,7 @@ Researchers like Robin Carhart-Harris at Imperial College London have proposed t
 
 ## Significance in Psychedelic Thought
 
-McKenna's work represents one of the most ambitious attempts to construct a comprehensive theory of the role of psychoactive plants in human history and culture. While academic anthropologists have been skeptical of many specific claims, his ideas have been enormously influential in psychedelic culture and continue to inspire research into the relationship between psychoactive substances and human consciousness. The concept of an Archaic Revival — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
+McKenna's work represents one of the most ambitious attempts to construct a comprehensive theory of the role of psychoactive plants in human history and culture. While academic anthropologists have been skeptical of many specific claims, his ideas have been enormously influential in psychedelic culture and continue to inspire research into the relationship between psychoactive substances and human consciousness. The concept of an [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]] — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
 
 ## See Also
 
@@ -47,7 +47,7 @@ McKenna's work represents one of the most ambitious attempts to construct a comp
 ## Merged: Human Cognition and Symbolic Capacity
 Terence McKenna's analysis of human cognitive uniqueness in Food of the Gods connects directly to his [[mckenna-transcendent-other-and-exopheromones]] - [[philosophical-implications-of-psychedelics]] McKenna argues that all uniquely human characteristics can be subsumed under the heading of cognitive activities: "dance, philosophy, painting, poetry, sport, meditation, erotic fantasy, politics, and ecstatic self-intoxication.
 ## Merged: Psilocybin and Language Development
-In Food of the Gods, Terence McKenna develops a detailed argument that psilocybin was not merely a factor in the enlargement of the human brain (as proposed in the [[mckenna-transcendent-other-and-exopheromones]] - [[mushroom-symbolism-rock-art-ancient-imagery]] - mckenna human cognition and the stoned age McKenna proposes that psilocybin catalyzed the very behaviors that natural selection then rewarded.
+In Food of the Gods, Terence McKenna develops a detailed argument that psilocybin was not merely a factor in the enlargement of the human brain (as proposed in the [[mckenna-transcendent-other-and-exopheromones]] - mushroom-symbolism-rock-art-ancient-imagery - mckenna human cognition and the stoned age McKenna proposes that psilocybin catalyzed the very behaviors that natural selection then rewarded.
 ## Practical Considerations
 
 When working with McKenna on Human Cognition and the Stoned Age, several practical factors should be
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

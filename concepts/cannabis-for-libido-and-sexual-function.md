@@ -1,5 +1,5 @@
 ---
-title: Cannabis for Libido and Sexual Function
+title: Cannabis for cannabis for libido and sexual function Function
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -33,7 +33,7 @@ Males have reported harder erections, while females described increases in lubri
 
 ## The Dose-Response Paradox
 
-Each effect depends on a very subjective therapeutic window:
+Each effect depends on a very [[cannabis-subjective-therapeutic-window-dosing]] window:
 - **Optimal dose**: Heightened sensation, increased intimacy, enhanced pleasure
 - **Too high a dose**: Can deepen anxieties, reduce sensations, and impair performance
 - Effects fade as the body metabolizes the plant
@@ -64,7 +64,7 @@ Research findings:
 - Performance anxiety creates a vicious cycle of failure and avoidance
 
 Aggravating factors:
-- Suppressed or harbored anger, especially toward the gender one feels attracted to
+- Suppressed or [[guilt-martyrdom-harbored-anger-as-health-hazards]], especially toward the gender one feels attracted to
 - Performance anxieties and fear of inadequacy
 - Past traumatic experiences related to sexuality
 
@@ -83,7 +83,7 @@ Supporting approaches:
 
 ## Source
 
-Blesching, U. (2015). *The Cannabis Health Index*. Chapter IV: "Libido Enhancement/Sexual Function." North Atlantic Books.
+Blesching, U. (2015). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. Chapter IV: "Libido Enhancement/Sexual Function." North Atlantic Books.
 
 ## Merged: Cannabis and Libido Enhancement
 

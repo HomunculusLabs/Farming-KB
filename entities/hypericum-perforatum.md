@@ -50,7 +50,7 @@ St. John's Wort is a herbaceous perennial growing 30–120 cm tall. It features:
 
 ## Phytochemistry
 
-The pharmacological activity of *Hypericum perforatum* is attributed to a complex mixture of bioactive compounds:
+The pharmacological activity of *Hypericum perforatum* is attributed to a complex mixture of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:
 
 ### Hypericins (naphthodianthrones)
 - **Hypericin** and **pseudohypericin** — red-pigmented anthraquinone derivatives concentrated in the flowers and buds. These are photosensitizing compounds (activated by UV light) and are primarily responsible for photosensitivity reactions. They also exhibit antiviral and antibacterial properties.
@@ -75,7 +75,7 @@ St. John's Wort is the most extensively studied herbal antidepressant. A 2008 Co
 
 - Superior to placebo with an odds ratio of 1.98 (95% CI: 1.49–2.64)
 - Comparable in efficacy to standard antidepressants (TCAs and SSRIs)
-- Significantly fewer adverse effects than pharmaceutical comparators
+- Significantly fewer [[blesching-cannabis-safety-adverse-effects-evidence]] than pharmaceutical comparators
 - Higher continuation rates due to better tolerability
 
 Subsequent meta-analyses have generally confirmed these findings, though with important caveats:
@@ -123,14 +123,14 @@ Hypericin is a potent photosensitizer. Oral ingestion at therapeutic doses can c
 In **permaculture systems**, St. John's Wort serves multiple functions:
 
 - **Medicinal herb layer** in food forest understories
-- **Ground cover** with extensive root systems for erosion control
+- **Ground cover** with extensive root systems for [[permplant-willows-salix-erosion-control-fodder]]
 - **Insectary plant** — attracts pollinators including bees, which produce a distinctive reddish-tinged honey from its nectar
-- **Dynamic accumulator** — roots access deep soil minerals
-- **Companion planting** — general pest deterrence (though allelopathic effects on neighboring plants have been documented)
+- **[[nutrient-dynamic-accumulator-reference]]** — roots access deep soil minerals
+- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]** — general pest deterrence (though allelopathic effects on neighboring plants have been documented)
 
 ## Invasive Status
 
-*H. perforatum* is classified as a noxious weed in over 20 countries. It is particularly problematic in rangelands where it displaces native forage species and causes **hypericin photosensitization in livestock** (especially sheep and cattle), a condition known as "hypericism" or "St. John's Wort poisoning." Biological control programs using the beetle *Chrysolina quadrigemina* have been implemented in Australia and North America with mixed success.
+*H. perforatum* is classified as a noxious weed in over 20 countries. It is particularly problematic in rangelands where it displaces native forage species and causes **hypericin photosensitization in livestock** (especially sheep and cattle), a condition known as "hypericism" or "St. John's Wort poisoning." [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] programs using the beetle *Chrysolina quadrigemina* have been implemented in Australia and North America with mixed success.
 
 ## See Also
 - [[hypericin]] — primary photosensitizing naphthodianthrone compound

@@ -1,5 +1,5 @@
 ---
-title: Arbuscular Mycorrhizal Fungi in Soil Remediation
+title: comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi Fungi in Soil Remediation
 created: 2026-04-26
 tags: [mycoremediation, mycorrhiza, arbuscular-mycorrhiza, soil-remediation]
 date: 2026-04-25
@@ -9,10 +9,10 @@ sources:
 type: concept
 ---
 
-# Arbuscular [[mycorrhizal-symbiosis]], associating with approximately
+# Arbuscular mycorrhizal-symbiosis, associating with approximately
 two-thirds of all plant species. In the context of bioremediation, AMF
 play critical roles in phytostabilization and phytoextraction of
-contaminated soils by enhancing plant tolerance to heavy metals and
+contaminated soils by enhancing plant tolerance to [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] and
 other pollutants. Singh's review extensively documents the role of
 arbuscular mycorrhizal associations in metal-contaminated environments.
 
@@ -101,3 +101,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[singh-arbuscular-mycorrhizal-spore-identification]]

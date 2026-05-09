@@ -1,5 +1,5 @@
 ---
-title: "How Do I Grow Persimmons and Which Variety Should I Choose?"
+title: "How Do I query how do i grow persimmons and which variety should i choose and Which Variety Should I Choose?"
 tags: [query, persimmon, fruit-trees, orchard, food-forest]
 date: 2026-05-08
 updated: 2026-05-08
@@ -14,7 +14,7 @@ Persimmons are among the most forgiving fruit trees a gardener can grow, once yo
 
 Astringent types like Hachiya must ripen to a jelly-soft stage before they are edible, while non-astringent types like Fuyu can be eaten crisp like an apple straight from the tree.
 
-They tolerate a wide range of soils and resist most pests and diseases, producing reliable crops with minimal intervention.
+They tolerate a wide range of soils and resist most [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]], producing reliable crops with minimal intervention.
 
 Choosing the right variety for your climate and your palate is the single most important decision you will make.
 
@@ -28,7 +28,7 @@ These must be allowed to fully ripen, often until they feel like a water balloon
 
 The [[comparison-loquat-vs-persimmon-cultivation|fruit maturation chemistry]].
 
-Popular astringent varieties include Hachiya, Saijo, and Tamopan, along with the native American [[persimmon|persimmon species Diospyros kaki]] is the primary cultivated Asian species, while [[persimmon|Diospyros kaki]]) thrive in USDA hardiness zones 7 through 10 and need roughly 100 to 200 chill hours depending on the cultivar.
+Popular astringent varieties include Hachiya, Saijo, and Tamopan, along with the [[halpern-sacramental-peyote-and-native-american-church]] persimmon species [[permplant-persimmon-diospyros-kaki-fruit-tree]] is the primary cultivated Asian species, while Diospyros kaki) thrive in USDA hardiness zones 7 through 10 and need roughly 100 to 200 chill hours depending on the cultivar.
 
 The American persimmon ([[comparison-persimmon-vs-pawpaw|persimmon vs pawpaw comparison]] shows that both are excellent choices for cold-climate food forests, but persimmons are generally easier to establish.
 
@@ -50,13 +50,13 @@ If a pollinated astringent fruit develops seeds, it may have a different flavor 
 
 The [[diospyros-virginiana]]) are dioecious, meaning individual trees are either male or female, and you need at least one male for every eight to ten female trees.
 
-If you are integrating persimmons into a [[faires-food-drying-and-no-energy-storage|food drying and no-energy storage]] guide describes methods that work well for persimmons in a homesteading context.
+If you are integrating persimmons into a food drying and no-energy storage guide describes methods that work well for persimmons in a homesteading context.
 
 ## What About Growing Persimmons in Containers?
 
 Dwarf persimmon varieties can be grown successfully in large containers, making them accessible to gardeners without ground space.
 
-Choose a compact variety like Izu or Maekawa-Jiro and plant it in a minimum 20-gallon pot with well-draining potting mix.
+Choose a compact variety like Izu or Maekawa-Jiro and plant it in a minimum 20-gallon pot with well-draining [[solomon-potting-mix-and-seedling-soil-recipe]].
 
 Container-grown persimmons need more frequent watering and feeding than in-ground trees because their root zone is limited.
 
@@ -70,7 +70,7 @@ Move the container to a sheltered location or unheated garage during winter in c
 - Plant in full sun with well-drained soil and avoid frost pockets
 - Prune lightly during dormancy and fertilize sparingly with compost
 - Harvest non-astringent types while firm; let astringent types soften until jelly-like
-- Persimmons have very few pest and disease problems, making them ideal for [[comparison-loquat-vs-persimmon-cultivation|How do loquats and persimmons compare for home cultivation?]]
+- Persimmons have very few [[hamilton-pest-and-disease-control-organic]] problems, making them ideal for [[comparison-loquat-vs-persimmon-cultivation|How do loquats and persimmons compare for home cultivation?]]
 - [[query-how-to-start-a-backyard-orchard|How do I start a backyard orchard?]]
 - [[query-which-drought-tolerant-legumes-are-best-for-cover-crops-and-grain|What are the best drought-tolerant fruit trees for a food forest?]]
 ## Practical Considerations
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

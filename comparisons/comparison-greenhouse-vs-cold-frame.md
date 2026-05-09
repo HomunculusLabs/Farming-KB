@@ -1,5 +1,5 @@
 ---
-title: "Greenhouse vs Cold Frame"
+title: "comparison greenhouse vs cold frame Frame"
 created: 2026-04-28
 tags: [comparison, season-extension, structures, growing-infrastructure]
 date: 2026-04-25
@@ -12,13 +12,13 @@ type: comparison
 
 Two season-extension structures serving different scales of food production, from simple passive boxes to comprehensive year-round growing environments. The right choice depends on production goals, budget, available space, and willingness to manage climate systems.
 
-> **Quick summary**: Cold frames are low-cost, no-power starter structures ideal for seed starting and modest season extension. Greenhouses are comprehensive, higher-investment systems designed for serious year-round production. Many homesteaders eventually use both in a layered growing system.
+> **Quick summary**: Cold frames are low-cost, no-power starter structures ideal for seed starting and modest [[cervantes-season-extension-cloches-row-covers]]. Greenhouses are comprehensive, higher-investment systems designed for serious year-round production. Many homesteaders eventually use both in a layered growing system.
 
 ## Greenhouse
 
 [[cold-frame-construction]]
 
-Bottomless box with transparent angled lid acting as miniature greenhouse, capturing solar heat to extend season 4-6 weeks in spring and fall. Built from untreated wood (cedar, pine, redwood) with old window sash or polycarbonate lid, angled 30-40° facing south. Traps solar heat while protecting from frost/wind. Temperature management requires propping lid on sunny days (internal 70-100°F even when freezing outside) and closing by late afternoon. Extremely cost-effective ($50-150 DIY), simple, versatile for seed starting/hardening off/fall extension/overwintering, no power needed. More plants killed by overheating than cold, limited space (3-4 ft wide, 6-8 ft long), modest frost protection.
+Bottomless box with transparent angled lid acting as miniature greenhouse, capturing solar heat to extend season 4-6 weeks in spring and fall. Built from untreated wood (cedar, pine, redwood) with old window sash or polycarbonate lid, angled 30-40° facing south. Traps solar heat while protecting from frost/wind. Temperature management requires propping lid on sunny days (internal 70-100°F even when freezing outside) and closing by late afternoon. Extremely cost-effective ($50-150 DIY), simple, versatile for seed starting/hardening off/fall extension/overwintering, no power needed. More plants killed by overheating than cold, limited space (3-4 ft wide, 6-8 ft long), modest [[holzer-frost-protection-techniques]].
 
 ### Cold Frame Design Elements
 
@@ -26,13 +26,13 @@ Bottomless box with transparent angled lid acting as miniature greenhouse, captu
 - **Glazing**: Old window sash (free but fragile), polycarbonate (durable), or acrylic (best insulation)
 - **Lid angle**: 30-40° facing south maximizes low-angle winter sun capture
 - **Hinges and props**: Sturdy hinges for one-handed operation; notched props for variable opening
-- **Placement**: South-facing site with wind protection from buildings or evergreen hedgerows
+- **Placement**: South-facing site with [[cervantes-wind-protection-outdoor-cannabis]] from buildings or evergreen hedgerows
 
 ### Cold Frame Strengths
 
 - Extremely low cost ($50-150) using salvaged windows and basic lumber
 - Simple construction requiring only basic hand tools (saw, drill, screws)
-- No power required; fully passive solar operation
+- No power required; fully [[comparison-passive-solar-vs-earth-sheltered]] operation
 - Versatile for seed starting, hardening off, fall extension, and overwintering
 - Excellent entry point for beginners learning season-extension techniques
 
@@ -82,7 +82,7 @@ Bottomless box with transparent angled lid acting as miniature greenhouse, captu
 - Simple season extension without power or complex climate systems
 - Growing cold-hardy winter greens (spinach, kale, mache) with frost protection
 - Learning season-extension fundamentals before investing in larger structures
-- Supplementing an existing outdoor garden rather than replacing growing space
+- Supplementing an existing outdoor garden rather than replacing [[cotter-growing-space-design-fruiting-rooms]]
 
 ## Hybrid Approach
 
@@ -91,6 +91,8 @@ Cold frames can serve as starter beds inside or adjacent to greenhouses, creatin
 This staged approach maximizes the utility of each structure while spreading investment over time. Start with a cold frame to learn passive solar management, add low tunnels for row-level protection of outdoor beds, then invest in a greenhouse when year-round production becomes a priority. Each step builds on skills and experience gained from the previous one.
 
 ## See Also
+
+- [[comparison-polycarbonate-vs-glass-greenhouse-glazing]]
 
 - [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
 - [[cold-frame-gardening]]

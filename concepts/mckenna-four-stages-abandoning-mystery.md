@@ -25,7 +25,7 @@ understanding the trajectory from archaic shamanism through organized religion
 to modern secular materialism.
 
 The abandonment of the original catalyst for the emergence of self-reflection
-and language, the *Stropharia cubensis* psilocybin-containing mushroom, was a
+and language, the *[[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]* psilocybin-containing mushroom, was a
 process with four distinct stages. Each stage represents a further dilution of
 awareness of the power and the numinous meaning resident in the mystery.
 
@@ -50,13 +50,13 @@ honey.
 
 Since honey itself easily ferments into an alcoholic intoxicant, a practice of
 mixing fewer and fewer mushrooms in more and more honey may have gradually
-encouraged replacement of the mushroom cult with a cult of mead. No greater
+encouraged replacement of the [[african-mushroom-cult-history]] with a cult of mead. No greater
 shift of social values is possible to imagine than the changeover from a
-psilocybin cult to an alcohol cult. Where psilocybin dissolves ego boundaries
+[[mckenna-profession-of-sacrament-psilocybin-cult-to-alcohol-cult]] to an alcohol cult. Where psilocybin dissolves ego boundaries
 and promotes community bonding, alcohol reinforces ego and promotes aggression,
 confusion, and social violence.
 
-The devolution of sacramental elements in the religion of the ancient Near East
+The devolution of sacramental elements in the religion of the [[allegro-fertility-philosophy-of-the-ancient-near-east]] East
 must have led from mushrooms through fermented honey and juices to the emergence
 of the grape as the favored wine plant. Over time, and often within the same
 cultures, fermented cereals and grains were manipulated experimentally to
@@ -107,7 +107,7 @@ discourse that can never recapture the immediacy of the original experience.
 The mainstream of Western thought ceased to be refreshed by the gnosis of the
 boundary-dissolving plant hallucinogens long before the close of the Minoan Era,
 circa 850 B.C. In Crete, and in nearby Greece, awareness of the vegetable Logos
-continued as an esoteric and diminished presence until the Eleusinian Mysteries
+continued as an esoteric and diminished presence until the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]
 were finally suppressed by enthusiastic Christian barbarians in A.D. 268. The
 consequence of that severed connection is the modern world: a planet dying under
 moral anesthesia.
@@ -116,7 +116,7 @@ moral anesthesia.
 
 The fourth and final stage is the complete abandonment of even the pretense of
 remembering the felt experience of the mystery. This stage is typified by
-secular scientism as perfected in the twentieth century. But McKenna posits a
+secular scientism as perfected in the [[coleman-louis-savier-twentieth-century-maraicher]]. But McKenna posits a
 further aspect: the rediscovery of the mystery and its interpretation as evil
 and threatening to social values. The current suppression of psychedelic
 

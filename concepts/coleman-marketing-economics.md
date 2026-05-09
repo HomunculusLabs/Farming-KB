@@ -1,7 +1,7 @@
 ---
 title: Marketing and Economics of Winter Produce
 created: 2026-04-26
-sources: The Winter Harvest Handbook, Eliot Coleman (2009), Chapter 16
+sources: The coleman-claytonia-winter-harvest-cultivation Handbook, Eliot Coleman (2009), Chapter 16
 tags:
   - marketing
   - economics
@@ -39,7 +39,7 @@ West Coast competition. A day later, Coleman's had all sold while
 the competition remained. Chefs immediately recognized both the
 quality and the marketing cachet of serving a "local" salad, further
 gratified by the freshness since the week-old imported product had
-a short remaining shelf life.
+a short remaining [[psilocybin-shelf-life-stability]].
 
 ## Packaging and Branding
 
@@ -88,14 +88,14 @@ techniques. The winter harvest may offer additional benefits:
 highly colored foods grown under cool conditions have been shown
 to be much higher in anthocyanins, one of the most valuable
 antioxidants. This is easily noticed in the much deeper red color
-of red lettuces and beet leaves from the winter greenhouse.
+of red lettuces and beet leaves from the [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]].
 Green leaves can also be high in anthocyanins since plants
 utilize them to resist cold.
 
 ## Economic Targets and Returns
 
 When commercial winter production began, Coleman set a target return
-per square foot for the 12,000 square feet of greenhouse space.
+per [[comparison-biointensive-vs-square-foot-gardening]] for the 12,000 square feet of greenhouse space.
 The plan called for three crops per year from each square foot of
 unheated production with a target of $5 per square foot annually,
 about one-third of expected returns in large heated commercial
@@ -140,6 +140,8 @@ One year, when extra outdoor carrots were available in late fall,
 value of creative marketing approaches tied to seasonal occasions.
 
 ## See Also
+
+- [[coleman-marketing-fresh-local-philosophy]]
 
 - [[coleman-four-season-farm]]
 - [[coleman-cool-greenhouse]]

@@ -1,5 +1,5 @@
 ---
-title: Cannabis Hexanoate and Cannabinoid Biosynthesis
+title: Cannabis Hexanoate and cannabis-trichome-development-cannabinoid-biosynthesis-sites
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -39,7 +39,7 @@ This proposed mechanism creates a direct biochemical pathway from a simple ferme
 
 Beyond its direct role as a cannabinoid precursor, hexanoic acid has been identified as a potent natural priming agent for plant defense responses. Research on hexanoic acid as a priming agent has demonstrated that it can activate broad-spectrum defenses by inducing callose deposition and the salicylic acid and jasmonic acid signaling pathways. It primes pathogen-specific responses according to the pathogen's lifestyle and also primes redox-related genes to produce an antioxidant protective effect.
 
-This priming activity is relevant to cannabis cultivation because plant defense responses and secondary metabolite production are interconnected. Many secondary metabolites, including cannabinoids and terpenes, serve dual roles as defensive compounds and bioactive molecules. When hexanoic acid primes the plant's defense systems, it may simultaneously upregulate the metabolic pathways that produce cannabinoids and terpenes.
+This priming activity is relevant to [[query-how-does-no-till-cannabis-cultivation-work]] because plant defense responses and [[fungal-elicitors-enhanced-secondary-metabolite-production]] production are interconnected. Many [[antifungal-secondary-metabolites-coprophilous-fungi]], including cannabinoids and terpenes, serve dual roles as defensive compounds and bioactive molecules. When hexanoic acid primes the plant's defense systems, it may simultaneously upregulate the metabolic pathways that produce cannabinoids and terpenes.
 
 The activation of jasmonic acid pathways is particularly relevant, as jasmonic acid signaling is known to stimulate trichome production and terpenoid biosynthesis in many plant species. This provides a second potential mechanism by which hexanoate application could enhance cannabinoid and terpene production beyond simply supplying biosynthetic precursors.
 
@@ -47,7 +47,7 @@ The activation of jasmonic acid pathways is particularly relevant, as jasmonic a
 
 Research analyzing the trichome transcriptome of Cannabis sativa found that hexanoyl-CoA levels of 15.5 picomoles per gram of fresh weight were present in female hemp flowers, with lower amounts in leaves, stems, and roots. This distribution pattern parallels the accumulation of the end-product cannabinoid cannabidiolic acid (CBDA), confirming the trichome-specific nature of this biosynthetic pathway.
 
-The high abundance of transcripts encoding desaturases and a lipoxygenase in the trichome expressed sequence tag dataset suggests that hexanoate may be formed through a pathway involving the oxygenation and breakdown of unsaturated fatty acids within the trichomes themselves. This endogenous production pathway operates alongside any exogenous hexanoate that might be supplied through microbial activity or foliar application.
+The high abundance of transcripts encoding desaturases and a lipoxygenase in the trichome expressed sequence tag dataset suggests that hexanoate may be formed through a pathway involving the oxygenation and breakdown of unsaturated fatty acids within the trichomes themselves. This endogenous production pathway operates alongside any exogenous hexanoate that might be supplied through microbial activity or [[ultra-low-cost-foliar-application-methods]].
 
 ## Olivetolic Acid and UV-B Exposure
 
@@ -64,7 +64,7 @@ However, the concentration of hexanoate in LAB serum and its actual uptake by ca
 ## Related Topics
 
 - [[cannabis-lab-serum-cultivation]] for the practical production of LAB serum
-- [[cannabis-terpene-profile]] for terpene biosynthesis parallels
+- [[cannabis-terpene-profile]] for [[clarke-marijuana-botany-terpene-biosynthesis-aromatic-profiles]] parallels
 - [[cannabis-plant-nutrition]] for broader plant nutrition context
 - [[cannabis-microbial-terpene-enhancement]] page discusses the broader relationship between microbial activity and terpene production in cannabis.
 

@@ -1,5 +1,5 @@
 ---
-title: "Cunninghamella elegans in Bioremediation"
+title: "staycare cunninghamella elegans in bioremediation in Bioremediation"
 created: 2026-04-28
 tags: [mycoremediation, pah-biodegradation, cytochrome-p450, zygomycetes]
 date: 2026-04-28
@@ -12,7 +12,7 @@ type: concept
 
 Cunninghamella elegans is a non-ligninolytic zygomycete fungus that has
 emerged as one of the most important model organisms for studying fungal
-metabolism of polycyclic aromatic hydrocarbons (PAHs). Unlike white rot
+metabolism of [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs). Unlike white rot
 basidiomycetes that degrade PAHs primarily through extracellular [[lignin-peroxidase-mechanism]], [[singh-manganese-peroxidase-mnp-biodegradation]]) or laccases associated
 with white rot fungi. Despite this limitation, C. elegans demonstrates
 remarkable capacity to oxidize a wide range of aromatic hydrocarbons
@@ -38,7 +38,7 @@ initial oxidation of PAHs through a multi-step pathway:
    and water-soluble metabolite. This dihydrodiol can serve as a
    substrate for further oxidative reactions.
 
-4. **Conjugation reactions**: The phenolic and dihydrodiol metabolites
+4. **[[phase-ii-conjugation-reactions-drug-metabolism]]**: The phenolic and dihydrodiol metabolites
    undergo Phase II conjugation reactions including sulfation,
    methylation, and glucosylation (with glucose, xylose, or
    glucuronic acid as the conjugating moiety). These conjugation
@@ -84,8 +84,8 @@ bioremediation compared to extracellular ligninolytic enzyme systems:
 - **Conjugation capacity**: The ability to form conjugated metabolites
   (sulfates, glucosides) provides a natural detoxification mechanism
   that reduces the toxicity of intermediate compounds.
-- **Complementary to ligninolytic fungi**: C. elegans can be deployed
-  alongside white rot fungi in Fungal Consortia for Enhanced Pollutant Removal to attack PAHs through
+- **Complementary to [[biochemistry-of-ligninolytic-fungi-bioremediation]]**: C. elegans can be deployed
+  alongside white rot fungi in [[singh-fungal-consortia-synergistic-biodegradation]] for Enhanced Pollutant Removal to attack PAHs through
   multiple simultaneous pathways.
 
 ## Relationship to Mammalian Metabolism
@@ -110,7 +110,7 @@ for highly hydrophobic PAHs. Additionally, C. elegans does not generally
 achieve complete mineralization of high-molecular-weight PAHs, often
 producing conjugated metabolites that may persist in the environment.
 See also: [[fungal-cytochrome-p450-biodegradation]],
-and Fungal Degradation of Polycyclic Aromatic Hydrocarbons.
+and [[singh-fungal-degradation-endocrine-disrupting-compounds]] of Polycyclic Aromatic Hydrocarbons.
 
 ## See Also
 

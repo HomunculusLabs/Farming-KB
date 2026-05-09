@@ -12,7 +12,7 @@ tags:
   - 5-ht2a-agonist
   - tryptamine-derived
 sources:
-  - Brandt, S.D. et al. (2019). "The newer wave of lysergamide-based designer drugs." Drug Testing and Analysis, 11(9), 1265-1276.
+  - Brandt, S.D. et al. (2019). "The newer wave of lysergamide-based shulgin-designer-drugs-analysis." Drug Testing and Analysis, 11(9), 1265-1276.
   - Grigoryev, A. et al. (2021). "Analytical characterization of 1B-LSD and its in vivo metabolism." Forensic Science International, 325, 110927.
   - Halberstadt, A.L. et al. (2020). "Pharmacology of lysergamide hallucinogens." ACS Chemical Neuroscience, 11(10), 1307-1319.
   - European Monitoring Centre for Drugs and Drug Addiction (2023). "EU Early Warning System: New Psychoactive Substances."
@@ -25,7 +25,7 @@ sources:
 
 The compound features a butanoyl group at the 1-position of the LSD molecule in place of LSD's dimethyl group, which serves as a metabolic prodrug that converts to LSD in vivo.
 
-1B-LSD is one of several N¹-acylated LSD derivatives that have emerged as designer psychedelics following the scheduling of 1P-LSD and AL-LAD, exploiting legal loopholes in many jurisdictions.
+1B-LSD is one of several N¹-acylated LSD derivatives that have emerged as designer psychedelics following the scheduling of 1P-LSD and AL-LAD, exploiting [[hallucinogenic-mushroom-legal-loopholes-and-classification-challenges]] in many jurisdictions.
 
 ## Chemical Properties
 
@@ -47,7 +47,7 @@ The compound functions as a prodrug: the N¹-butanoyl group is cleaved in vivo b
 
 This prodrug mechanism is analogous to 1P-LSD (1-propionyl-LSD) and 1cP-LSD (1-cyclopropionyl-LSD), all of which convert to LSD after administration.
 
-In vitro receptor binding data are limited. By analogy with closely related N¹-acyl lysergamides, estimated 5-HT₂A Ki values are expected in the 2–20 nM range.
+In vitro [[tihkal-receptor-binding-serotonin]] data are limited. By analogy with closely related N¹-acyl lysergamides, estimated 5-HT₂A Ki values are expected in the 2–20 nM range.
 
 The onset of action is slightly delayed compared to LSD (estimated 90–120 minutes vs. 45–60 minutes for LSD), consistent with the additional metabolic deacylation step required for activation.
 
@@ -97,11 +97,11 @@ As a research chemical, 1B-LSD is sold without quality control or purity verific
 
 Reagent testing (Ehrlich's reagent turns purple for indole-containing compounds) can confirm lysergamide presence but cannot distinguish 1B-LSD from LSD or other N¹-acyl variants. TLC or GC-MS is required for specific identification.
 
-Set and setting considerations are identical to LSD: a calm, familiar environment with a trusted trip sitter is recommended, especially for inexperienced users. Higher doses increase risk of anxiety and confusion.
+[[lsd-set-and-setting-framework]] considerations are identical to LSD: a calm, familiar environment with a trusted trip sitter is recommended, especially for inexperienced users. Higher doses increase risk of anxiety and confusion.
 
 There are no known fatal overdoses from 1B-LSD specifically, though the LD₅₀ is presumed to be similar to LSD (estimated >12,000 µg for an average adult). Serotonin syndrome risk is low but increases with concomitant serotonergic drugs.
 
-No established clinical trials exist for 1B-LSD. All dosage and effect information derives from self-reported user experiences on harm reduction forums and anecdotal reports, which carry inherent reliability limitations.
+No established [[mushroom-cancer-clinical-trials-overview]] exist for 1B-LSD. All dosage and effect information derives from self-reported user experiences on harm reduction forums and anecdotal reports, which carry inherent reliability limitations.
 
 ## See Also
 
@@ -110,5 +110,5 @@ No established clinical trials exist for 1B-LSD. All dosage and effect informati
 - [[eth-lad-entity-tihkal]] — 6-allyl-nor-LSD, a related lysergamide derivative
 - [[lsd-pharmacology]] — detailed 5-HT₂A pharmacology of lysergamides
 - [[dimethyltryptamine]] — endogenous tryptamine psychedelic compound
-- [[mescaline-entity]] — phenethylamine psychedelic for pharmacological comparison
+- [[mescaline-entity]] — phenethylamine psychedelic for [[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]]
 - [[ketamine]] — dissociative anesthetic with psychedelic properties

@@ -1,23 +1,14 @@
 ---
 title: African Neurotropic Mushroom Species
 created: 2026-04-28
-tags: [[mycology, african-fungi, psilocybin-mushrooms, fungal-distribution]
+tags: [mycology, african-fungi, psilocybin-mushrooms, fungal-distribution]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
 type: concept
 ---
-
-# African Neurotropic Mushroom Species
-
-## Overview
-
-Africa remains one of the most poorly explored continents for neurotropic
-fungi. The existing records are scattered, with most documentation from
-North Africa (especially Morocco and Algeria) and southern Africa. The
-central and western African regions are particularly understudied, despite
-having suitable tropical and subtropical climates for [[gymnopilus-spectabilis-entity]]**: Reported from northern Africa
-- **Panaeolina foenisecii**: Widespread in Africa
+# African Neurotropic Mushroom Species ## Overview Africa remains one of the most poorly explored continents for neurotropic fungi. The existing records are scattered, with most documentation from North Africa (especially Morocco and Algeria) and southern Africa. The central and western African regions are particularly understudied, despite having suitable tropical and subtropical climates for [[gymnopilus-spectabilis-entity]]**: Reported from northern Africa
+- **[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]**: Widespread in Africa
 - **Panaeolus africanus**: Distinctly African species, found in Chad,
   Central African Republic, and Sudan
 - **P. fimicola**: Widespread in northern Africa
@@ -29,7 +20,7 @@ having suitable tropical and subtropical climates for [[gymnopilus-spectabilis-e
 - **Pluteus cyanopus**, **P. atricapillus**, **P. salicinus**, **P.
   villosus**: All present in Morocco; P. villosus confirmed to contain
   psilocybin (Stijve and Kuyper, 1985)
-- **Amanita muscaria** and **A. pantherina**: Both present
+- **[[allegro-amanita-muscaria-properties-and-pharmacology]]** and **A. pantherina**: Both present
 - Diverse Panaeolus species: P. fimicola, P. papilionaceus
 
 ### Algeria
@@ -61,7 +52,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,3 +95,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- guzman-magic-mushrooms-european-distribution

@@ -15,7 +15,7 @@ type: query
 
 Lacto-fermentation preserves food by creating an acidic environment through the activity of Lactobacillus bacteria.
 
-These bacteria convert sugars into lactic acid, which prevents the growth of harmful organisms.
+These bacteria convert sugars into [[bionutrients-lab-lactic-acid-bacteria-serum]], which prevents the growth of harmful organisms.
 
 The process naturally preserves vegetables, enhances digestibility, and adds beneficial probiotics to your food.
 
@@ -61,7 +61,7 @@ The underlying biology is the same across all these foods: beneficial bacteria c
 
 Minimal equipment is needed to start fermenting at home.
 
-A clean glass jar, a weight to keep vegetables submerged, and an airlock or loose lid are the basics.
+A clean [[sterile-spore-print-collection-glass-jar-technique]], a weight to keep vegetables submerged, and an airlock or loose lid are the basics.
 
 The [[canning-and-preserving]] reference explains that canning relies on heat to destroy microorganisms, which also destroys heat-sensitive nutrients.
 
@@ -79,6 +79,8 @@ Instead, it transforms the food through biological activity, creating new flavor
 - The [[ultra-low-cost-food-preservation]] fermentation requires minimal equipment, making it accessible to everyone
 
 ## Related
+
+- [[query-how-do-i-make-kimchi-with-lacto-fermentation]]
 
 - [[query-how-does-kombucha-brewing-work]] Questions
 

@@ -22,7 +22,7 @@ sources:
 
 The plant is responsible for **aristolochic acid nephropathy (AAN)** and is implicated in **Balkan endemic nephropathy (BEN)**, a chronic kidney disease affecting rural populations in southeastern Europe.
 
-Birthwort has also become an invasive weed in parts of North America and Australia, spreading aggressively in disturbed habitats.
+Birthwort has also become an invasive weed in parts of [[psilocybin-north-america-pacific-northwest]] and Australia, spreading aggressively in disturbed habitats.
 
 Despite its toxicity, the species remains an important model organism in pharmacology and oncology research.
 
@@ -40,7 +40,7 @@ Stems are slender, angular, and climb by twining around supports or trail along 
 
 Leaves are alternate, cordate (heart-shaped), 3–8 cm long, with a long petiole and palmate venation.
 
-The leaf surface is glabrous to slightly pubescent, bright green above and paler beneath.
+The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is glabrous to slightly pubescent, bright green above and paler beneath.
 
 Flowers are borne in the leaf axils on short pedicels from May to July.
 
@@ -60,7 +60,7 @@ Its native range extends from France and Germany eastward to the Balkans, Turkey
 
 The species has been widely introduced beyond its native range as a medicinal and ornamental plant.
 
-In North America, it is established as an invasive species in the eastern United States and parts of Canada.
+In North America, it is established as an invasive species in the eastern [[dmt-containing-plants-united-states-halpern]] and parts of Canada.
 
 In Australia, naturalized populations occur in several eastern states.
 
@@ -116,7 +116,7 @@ The unusual tubular flowers of *A. clematitis* are pollinated by small flies (Di
 
 Insects are lured into the inflated utricle by a decaying odor and are temporarily trapped by downward-pointing hairs, ensuring pollen transfer.
 
-The plant serves as the larval food source for the caterpillars of the **pipevine swallowtail butterfly** (*Battus philenor*) in introduced North American ranges.
+The plant serves as the larval food source for the caterpillars of the **pipevine swallowtail butterfly** (*Battus philenor*) in introduced [[growing-gourmet-north-american-reishi-species]] ranges.
 
 Pipevine swallowtail larvae sequester aristolochic acids from the foliage, making both caterpillars and adult butterflies toxic to predators.
 
@@ -127,6 +127,8 @@ In agricultural settings, seeds can contaminate harvested grain during mechanica
 The vine's aggressive growth habit allows it to smother native vegetation in areas where it has naturalized.
 
 ## See Also
+
+- [[aristolochia-macrophylla]]
 
 - [[asarum-europaeum]]
 - [[houttuynia-cordata]]

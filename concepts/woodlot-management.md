@@ -4,12 +4,13 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, forestry, sustainability, ecology, safety]
-sources: []
+sources:
+  sources: []
 ---
 
 # Woodlot Management
 
-A woodlot is a managed forest or wooded area on the homestead that provides firewood, timber, habitat, and ecosystem services. Sustainable woodlot management balances harvest with regeneration, ensuring that the forest continues to produce wood and support wildlife indefinitely. Even a small woodlot of 5-10 acres can supply a homestead's heating needs with proper management.
+A woodlot is a managed forest or wooded area on the homestead that provides firewood, timber, habitat, and [[biodiversity-of-fungi-ecosystem-services-agriculture]]. Sustainable woodlot management balances harvest with regeneration, ensuring that the forest continues to produce wood and support wildlife indefinitely. Even a small woodlot of 5-10 acres can supply a homestead's heating needs with proper management.
 
 ## Sustainable Forestry Principles
 
@@ -21,7 +22,7 @@ Sustainable forestry means harvesting no more wood than the forest grows each ye
 - Protect riparian zones (stream banks) with uncut buffer strips
 - Encourage species diversity for resilience
 - Minimize soil disturbance during logging operations
-- Regenerate harvested areas promptly (natural seeding or planting)
+- Regenerate harvested areas promptly ([[fukuoka-natural-seeding-volunteer-rice-discovery]] or planting)
 
 ## Firewood Species
 
@@ -55,13 +56,13 @@ A cord is the standard unit of firewood measurement: a stacked pile 4 feet high 
 - Stack in single rows with the cut ends facing prevailing wind
 - Stack off the ground (on pallets, poles, or a gravel base) to prevent moisture wicking
 - Cover only the top with a tarp or metal roofing -- leave sides open for airflow
-- Stack in a sunny location with good air circulation
+- Stack in a sunny location with good [[stamets-growing-room-air-circulation-co2-management]]
 - Do not stack against buildings (fire hazard and moisture trap)
 - Allow at least 6 inches of space between rows for airflow
 
 ### How Much Firewood Do You Need?
 
-A typical homestead in a cold climate (6000 heating degree days) uses 3-5 cords per winter for heating with an efficient wood stove. Factors include house insulation, stove efficiency, climate severity, and thermostat settings. Plan for a 2-year supply -- burn this year's wood while last year's wood seasons.
+A typical homestead in a [[permaculture-designers-manual-cold-climate-design]] (6000 heating degree days) uses 3-5 cords per winter for heating with an [[rocket-stove-design]] stove. Factors include house insulation, stove efficiency, climate severity, and thermostat settings. Plan for a 2-year supply -- burn this year's wood while last year's wood seasons.
 
 ## Tree Identification and Selection
 
@@ -115,7 +116,7 @@ Chainsaws are the most dangerous tool on the homestead. Follow these rules witho
 
 Coppicing is the practice of cutting a tree at ground level, which stimulates the stump (stool) to send up multiple new shoots. These shoots grow rapidly and can be harvested on a rotation of 5-25 years depending on species and intended use.
 
-- Best species for coppicing: oak, ash, hazel, willow, sweet chestnut, birch
+- Best species for coppicing: oak, ash, hazel, willow, [[holzer-sweet-chestnut-and-nut-trees]], birch
 - Harvest cycle: 5-7 years for small poles, 15-25 years for firewood
 - Benefits: Continuous wood production without replanting, extended tree lifespan (coppiced stools can live for centuries), rapid growth from established root systems
 - Applications: Fence posts, bean poles, basketry material, firewood, charcoal

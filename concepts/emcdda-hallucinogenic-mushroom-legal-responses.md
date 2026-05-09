@@ -1,5 +1,5 @@
 ---
-title: "EMCDDA Hallucinogenic Mushroom Legal Responses"
+title: "EMCDDA emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Legal Responses"
 created: 2026-04-28
 tags:
   - drug-policy
@@ -18,12 +18,12 @@ type: concept
 
 ## International Legal Framework
 
-Psilocin and psilocybin are controlled under the 1971 UN Convention on
+[[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] are controlled under the 1971 UN Convention on
 Psychotropic Substances and listed in Schedule I under the name psilocybine
 and psilocine (or psilotsin) respectively. All EU Member States control them
 accordingly. Although many plant-based drugs have been self-administered for
 thousands of years, the imposition of criminal sanctions is mostly a product
-of the twentieth century.
+of the [[coleman-louis-savier-twentieth-century-maraicher]].
 
 ## Which Mushrooms Are Controlled?
 
@@ -65,7 +65,7 @@ coincide with recent increases in prevalence of use.
 
 ### Denmark (July 2001)
 
-Added 'Mushrooms or spores of Psilocybe semilanceata, Psilocybe cubensis or
+Added 'Mushrooms or spores of [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] or
 other fungi/spores containing psilocin or psilocybin, including grown, dried
 or processed in any other manner' as a controlled substance.
 
@@ -74,7 +74,7 @@ or processed in any other manner' as a controlled substance.
 The Opium Act specifically prohibits psilocin, psilocybin, and also
 'preparations' containing one or more of the prohibited substances. The
 Supreme Court clarified that the Opium Act therefore applies to
-hallucinogenic mushrooms containing these substances that have been
+[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] containing these substances that have been
 'prepared' by being dried, mashed, or processed in food (or processed into
 any other form), but not to fresh mushrooms.
 
@@ -138,12 +138,9 @@ to use in combination with alcohol.
 In a snapshot of 21 online shops viewed in January 2006, the majority warned
 not to use hallucinogenic mushrooms when taking medication and/or in
 combination with alcohol or other drugs. Only two thirds did not recommend
-use when the user suffers from depression or psychosis. About half provided
-information on dosage and safe use practices. Most sites provide information
-on sought-after effects, yet few provide information on possible negative
-side effects. This shows that information from retailers is biased towards
-positive effects and varies considerably in quality.
 ## See Also
+
+- [[emcdda-return-to-nature-megatrend-mushroom-appeal]]
 
 - [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]
 

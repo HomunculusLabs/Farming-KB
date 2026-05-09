@@ -22,7 +22,7 @@ species is one of the most distinctive summer mushrooms of the Pacific
 Northwest, fruiting from late July through September alongside King
 Stropharia. Despite its culinary reputation and imposing appearance,
 The Prince has not yet been successfully brought into commercial
-cultivation and remains a prized target of wild mushroom foragers and
+cultivation and remains a prized target of [[emcdda-wild-mushroom-foraging-misidentification-hazards]] foragers and
 a candidate for future permaculture-based cultivation efforts.
 
 ## Key Details
@@ -38,9 +38,9 @@ Genus: Agaricus
 
 The species epithet "augustus" reflects both its impressive size and its
 late-summer fruiting period. It belongs to the same genus as the common
-button mushroom (A. bisporus) but is far larger and more visually
+[[growing-gourmet-button-mushroom-agaricus-cultivation]] (A. bisporus) but is far larger and more visually
 striking. The Prince is listed among mushrooms that can potentially be
-introduced via satellite planting methods, though commercial cultivation
+introduced via satellite native american planting methods and indigenous agriculture, though commercial cultivation
 has not been achieved.
 
 ### Description
@@ -57,7 +57,7 @@ publication), though full cultivation protocols are not described.
 Found in forest environments, associated with hardwood debris in the
 Pacific Northwest and other temperate regions. The Prince fruits during
 the summer months, specifically from late July through September in the
-Pacific Northwest. This fruiting window overlaps with King Stropharia
+Pacific Northwest. This fruiting window overlaps with [[cotter-king-stropharia-cultivation]]
 (Stropharia rugoso-annulata), suggesting similar environmental triggers
 and habitat preferences in the region. The species favors forest
 environments with abundant hardwood debris and adequate moisture.
@@ -69,7 +69,7 @@ mushroom species that can potentially be introduced via satellite
 planting methods, which involve establishing young seedlings near proven
 mushroom-producing trees. However, detailed cultivation protocols remain
 undeveloped. The species is considered a candidate for outdoor
-cultivation within the [[comparison-spore-syringe-vs-agar-culture]]
+cultivation within the comparison-spore-syringe-vs-agar-culture
 
 - [[stropharia-rugoso-annulata]]
 - agaricus augustus
@@ -92,4 +92,5 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[agaricus-subrufescens]]

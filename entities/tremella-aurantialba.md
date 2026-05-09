@@ -17,7 +17,7 @@ sources:
   - Wang, J. et al. (2019). "Polysaccharides from Tremella aurantialba." Carbohydrate Polymers, 208, 389-401.
   - Chen, Y. & Wang, M. (2020). "Immunomodulatory effects of T. aurantialba polysaccharides." Int. J. Biol. Macromol., 150, 865-873.
   - Liu, H. et al. (2018). "Antioxidant and anti-inflammatory activities of golden ear mushroom." J. Ethnopharmacol., 222, 1-9.
-  - Zhang, L. et al. (2021). "Cultivation techniques and nutritional composition in Yunnan." Mycobiology, 49(3), 245-256.
+  - Zhang, L. et al. (2021). "Cultivation techniques and [[dighton-fungal-nutritional-composition-animal-diets]] in Yunnan." Mycobiology, 49(3), 245-256.
   - Li, S. et al. (2017). "Anti-tumor activity of T. aurantialba polysaccharides." Front. Pharmacol., 8, 123.
   - Wu, X. et al. (2022). "Hypoglycemic and hypolipidemic effects in diabetic mice." J. Funct. Foods, 88, 104832.
   - Bandoni, R.J. & Roberts, M.L. (2014). "Tremellomycetes." The Mycota VII, Springer, 387-404.
@@ -33,10 +33,10 @@ sources:
 - **Kingdom:** Fungi → **Division:** Basidiomycota → **Class:** Tremellomycetes
 - **Order:** Tremellales → **Family:** Tremellaceae → **Genus:** Tremella
 - **Species:** T. aurantialba (Bandoni & Zang, 1990); syn. T. lutescens
-- Closely related to snow fungus (T. fuciformis) and wood ear (Auricularia spp.)
+- Closely related to snow fungus (T. fuciformis) and [[growing-gourmet-wood-ear-auricularia-cultivation]] (Auricularia spp.)
 
 ## Morphology
-### [[fungal-wood-decay-types-white-rot-brown-rot]]*Host:** S. hirsutum (hairy stereum), a bracket wood-decay fungus
+### fungal-wood-decay-types-white-rot-brown-rot*Host:** S. hirsutum (hairy stereum), a bracket wood-decay fungus
 - **Substrate:** Hardwood logs/stumps — oak, walnut, poplar, willow, beech
 - **Lifecycle:** Tremella hyphae penetrate Stereum mycelium within wood; cannot complete lifecycle without host
 - **Season:** Autumn (Sep–Nov), after prolonged wet periods
@@ -71,9 +71,9 @@ sources:
 
 ## Cultivation
 - **Method:** Dual-inoculation substrate; Stereum hirsutum grown 5–10 days, then Tremella added
-- **Substrate:** Hardwood sawdust 70–80%, wheat bran 15–20%, rice bran 3–5%, gypsum 1–2%, sucrose 1%; moisture 60–65%
+- **Substrate:** Hardwood sawdust 70–80%, wheat bran 15–20%, [[jadam-rice-bran-problems]] 3–5%, gypsum 1–2%, sucrose 1%; moisture 60–65%
 - **Process:** Autoclave 121°C/1.5–2h in bags/bottles; incubate 20–25°C dark 25–30 days; fruit at 15–20°C, 85–95% humidity, 100–300 lux light
-- **Yield:** 30–50 days to harvest; 80–150 g/bag fresh; 2–3 flushes; biological efficiency 25–40%
+- **Yield:** 30–50 days to harvest; 80–150 g/bag fresh; 2–3 flushes; [[stamets-biological-efficiency-yield]] 25–40%
 - **Log method (traditional):** Hardwood logs buried 8–12 months; lower yield, superior quality
 - **Production:** China ~5,000–10,000 MT fresh annually; Yunnan primary region
 
@@ -95,4 +95,4 @@ sources:
 - Tremella fuciformis (snow fungus / 白木耳)
 - Stereum hirsutum (hairy stereum — host fungus)
 - Auricularia auricula-judae (wood ear / black fungus)
-- Hericium erinaceus (lion's mane mushroom)
+- Hericium erinaceus (lion's [[lions-mane-cultivation]])

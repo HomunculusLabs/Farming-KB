@@ -1,12 +1,12 @@
 ---
-title: "Prairie Restoration vs Silvopasture"
+title: "comparison prairie restoration vs silvopasture vs Silvopasture"
 tags: [comparison, prairie-restoration, silvopasture, agroforestry, grassland, pasture, ecosystem-restoration, land-management, biodiversity, carbon-sequestration]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Jose, S. (2009). Agroforestry for ecosystem services and environmental benefits: an overview. *Agroforestry Systems*, 76(1), 1-10."
+  - "Jose, S. (2009). Agroforestry for biodiversity-of-fungi-ecosystem-services-agriculture and environmental benefits: an overview. *Agroforestry Systems*, 76(1), 1-10."
   - "Kucharik, C.J. et al. (2006). Integrated management of a complex agroecosystem: Biophysical and socioeconomic components. *Renewable Agriculture and Food Systems*, 21(1), 12-25."
-  - "Howe, H.F. (1994). Managing species diversity in tallgrass prairie: Assumptions and implications. *Conservation Biology*, 8(3), 691-704."
+  - "Howe, H.F. (1994). Managing species diversity in tallgrass prairie: Assumptions and implications. *[[mycelium-running-conservation-biology-and-fungi]]*, 8(3), 691-704."
   - "Gold, M.A. & Garrett, H.E. (2009). Agroforestry nomenclature, concepts, and practices. *New Vistas in Agroforestry*, 29-47."
   - "Fischer, J. et al. (2008). Should agricultural policies encourage land sparing or wildlife-friendly farming? *Frontiers in Ecology and the Environment*, 6(7), 380-385."
 type: comparison
@@ -28,7 +28,7 @@ Both prairie restoration and [[permaculture-design]] ers, and restoration ecolog
 | **Establishment cost** | $500–$3,000/ha (seed, site prep, 3–5 year weed control) | $2,000–$8,000/ha (tree seedlings, protection, infrastructure) |
 | **Time to maturity** | 5–10 years for functional prairie | 15–30+ years for full canopy production |
 | **Primary productive output** | Hay, seed, ecosystem services, carbon credits | Livestock, timber, fruit/nuts, fodder |
-| **Livestock integration** | Managed grazing (rotational, prescribed) or none | Core design element; animals essential |
+| **[[faires-livestock-integration-permaculture]]** | Managed grazing (rotational, prescribed) or none | Core design element; animals essential |
 | **Fire management** | Essential — prescribed burns every 2–5 years | Generally avoided (fire damages trees) |
 | **Carbon sequestration** | 0.5–2.0 t CO₂e/ha/year (belowground dominant) | 2–10 t CO₂e/ha/year (above + belowground) |
 | **Nitrogen fixation** | Native legumes: 30–80 kg N/ha/year | Legume understory + N-fixing trees: 50–150 kg N/ha/year |
@@ -71,9 +71,9 @@ Silvopasture generally sequesters more total carbon due to tree biomass, but pra
 ### Choose Prairie Restoration When:
 
 - Site was historically grassland or savanna
-- Annual rainfall is 30–100 cm (temperate) or 500–1500 mm (tropical grassland)
+- Annual rainfall is 30–100 cm (temperate) or 500–1500 mm ([[bill-mollison-permaculture-a-designers-manual-tropical-grassland-rehabilitation]])
 - Soil is deep, well-drained, and not heavily compacted
-- Primary goals include biodiversity conservation, pollinator habitat, or water quality
+- Primary goals include [[fungal-biodiversity-conservation-status]], pollinator habitat, or water quality
 - Livestock integration is secondary or rotational only
 - Budget is limited; establishment can be phased over several years
 - Prescribed fire is feasible and permitted

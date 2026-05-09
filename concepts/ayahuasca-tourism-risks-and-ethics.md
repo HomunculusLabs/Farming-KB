@@ -1,6 +1,6 @@
 ---
-title: ayahuasca tourism risks and ethics
-aliases: [ayahuasca tourism ethics, ayahuasca safety, ayahuasca tourist
+title: stuart-r-ayahuasca-tourism-cautionary-ethnography risks and ethics
+aliases: [ayahuasca [[ayahuasca-tourism-ethics-and-commodification]], ayahuasca safety, ayahuasca tourist
   scams, psychedelic tourism risks]
 tags: [ayahuasca, ethics, safety, tourism, entheogens, harm-reduction,
   cultural-appropriation]
@@ -44,7 +44,7 @@ ignoring pharmacological contraindications.
 
 Most traditional shamans are unfamiliar with Western pharmaceuticals. They
 cannot assess whether a tourist's medications are compatible with ayahuasca.
-The burden of understanding drug interactions falls entirely on the tourist,
+The burden of understanding [[cannabis-drug-interactions-and-contraindications]] falls entirely on the tourist,
 who may not be adequately informed about the risks. This creates a dangerous
 information asymmetry between practitioner and participant.
 
@@ -107,7 +107,7 @@ While ayahuasca tourism brings income to economically disadvantaged
 communities, the benefits are unevenly distributed. Successful practitioners
 can earn substantially more than their neighbors, potentially creating social
 tensions. The commodification of sacred practices may also erode their
-cultural significance over time.
+[[ethnomycology-cultural-significance-sacred-fungi]] over time.
 
 ## Practical Recommendations
 

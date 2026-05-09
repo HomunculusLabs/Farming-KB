@@ -5,7 +5,8 @@ updated: 2026-04-15
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Clay Seed Balls (Tsuchi Dango)
 
@@ -13,7 +14,7 @@ Clay seed balls (tsuchi dango) are one of Masanobu Fukuoka's most distinctive in
 
 ## The Problem They Solve
 
-In conventional farming, seeds are carefully placed in prepared seedbeds at the correct depth. In Fukuoka's non-cultivation method, seeds are broadcast directly onto fields covered with straw, clover, and decomposing organic matter. Without soil preparation, several problems arise:
+In conventional farming, seeds are carefully placed in prepared seedbeds at the correct depth. In Fukuoka's non-cultivation method, seeds are broadcast directly onto fields covered with straw, clover, and decomposing [[hamilton-composting-and-organic-matter-management]]. Without soil preparation, several problems arise:
 
 - **Bird predation** -- sparrows follow behind the sower and devour seeds before they germinate. Fukuoka struggled with this for years: "I can remember times when these birds followed right behind me and devoured all the seeds I had sown even before I had a chance to finish planting the other side of the field. I tried scarecrows, nets, and strings of rattling cans, but nothing seemed to work very well."
 - **Small animals** -- moles, crickets, mice, and slugs eat exposed seeds
@@ -42,11 +43,11 @@ In one day, enough pellets can be made to seed several acres. The kneading metho
 
 ## When to Use Them
 
-Clay seed balls are primarily used for rice seeds sown in autumn (mid-November to mid-December), broadcast among the young barley or rye plants. They can also be broadcast in spring as a supplement. Fukuoka used 4.5 to 9 pounds of rice seed per quarter acre.
+Clay seed balls are primarily used for rice seeds sown in autumn (mid-November to mid-December), broadcast among the young barley or rye plants. They can also be broadcast in spring as a supplement. Fukuoka used 4.5 to 9 pounds of rice seed per [[fukuoka-agriculture-tomorrow-quarter-acre-vision]].
 
-For inexperienced farmers or fields with hard or poor soil, sow more seed at the beginning. As the soil gradually improves from the decomposing straw and green manure, and as the farmer becomes more familiar with the direct seeding non-cultivation method, the amount of seed can be reduced.
+For inexperienced farmers or fields with hard or poor soil, sow more seed at the beginning. As the soil gradually improves from the decomposing straw and green manure, and as the farmer becomes more familiar with the [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] non-cultivation method, the amount of seed can be reduced.
 
-For winter grains (rye and barley), seed balls are not always necessary. These seeds germinate readily when broadcast onto the straw-covered field. But for vegetables with difficult germination -- spinach, carrots -- wrapping seeds in clay pellets before sowing can improve results significantly.
+For winter grains (rye and barley), seed balls are not always necessary. These seeds germinate readily when broadcast onto the straw-covered field. But for vegetables with difficult germination -- spinach, carrots -- wrapping seeds in [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] before sowing can improve results significantly.
 
 ### The Timing Principle
 
@@ -62,7 +63,7 @@ The clay pellet protects the seed during the critical germination period:
 - Germination is best on the surface where there is exposure to oxygen
 - When covered with [[fukuoka-rice-and-barley-natural-farming]] system:
 
-1. **Early October**: White clover (1 lb/quarter acre) and winter grain (6.5-13 lbs/quarter acre) are broadcast among ripening rice
+1. **Early October**: [[fukuoka-white-clover-cover-crop-system]] (1 lb/quarter acre) and winter grain (6.5-13 lbs/quarter acre) are broadcast among ripening rice
 2. **Early November**: Rice is harvested; threshed straw is spread over the field. During harvest, the sprouted clover and grain seeds are trampled but recover quickly
 3. **Mid-November to mid-December**: Rice seed in clay pellets is broadcast among the young barley/rye. A thin layer of chicken manure is spread to help decompose the straw
 4. **May**: Winter grain is harvested; its straw is spread; field is flooded briefly for 7-10 days to weaken weeds and clover and allow rice to emerge
@@ -76,7 +77,7 @@ The clay pellet protects the seed during the critical germination period:
 
 Fukuoka's approach to [[fukuoka-one-straw-revolution-impact]]. Instead of preparing elaborate seedbeds, transplanting seedlings from nursery beds, and applying chemicals to protect them, the farmer simply encloses seeds in clay and broadcasts them. Nature does the rest. The technique requires the farmer to understand natural timing -- when to sow, when the rains will come -- rather than to control conditions through inputs and infrastructure.
 
-"Natural farming is gentle and easy and indicates a return to the source of farming. A single step away from the source can only lead one astray."
+"[[comparison-natural-farming-vs-permaculture]] is gentle and easy and indicates a return to the source of farming. A single step away from the source can only lead one astray."
 
 ## Desert Reclamation Application
 

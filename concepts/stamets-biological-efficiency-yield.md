@@ -2,8 +2,8 @@
 # Biological Efficiency: An Expression of Yield
 
 Biological Efficiency (B.E.) is the standard metric for measuring [[mushroom-industry-african-countries]]. It quantifies a strain's
-ability to convert substrate materials into mushrooms. The formula provides a universal
-basis for comparing yields across different species, substrates, and cultivation methods.
+ability to convert [[growing-gourmet-substrate-materials-wood-types]] into mushrooms. The formula provides a universal
+basis for comparing yields across different species, substrates, and [[synthetic-log-cultivation-methods-guide]].
 
 ## The BE Formula
 
@@ -27,7 +27,7 @@ of water and 1 lb. of dry matter.
 Many of the techniques in Stamets's book give yields substantially higher than 100% B.E.
 Up to 50% conversion of wet substrate mass into harvestable mushrooms is possible —
 equivalent to 200% B.E. Stamets reports succeeding in obtaining such yields with Oyster
-(Pleurotus ostreatus), Shiitake (Lentinula edodes), and Lion's Mane (Hericium erinaceus).
+(Pleurotus ostreatus), Shiitake ([[staycare-lentinula-edodes-in-bioremediation]]), and Lion's Mane (Hericium erinaceus).
 
 **Yield expectations:**
 
@@ -41,7 +41,7 @@ equivalent to 200% B.E. Stamets reports succeeding in obtaining such yields with
 
 ## Substrate Conversion Breakdown
 
-Research by Zadrazil (1976) on Oyster mushroom (Pleurotus ostreatus) decomposition of
+Research by Zadrazil (1976) on [[cotter-oyster-mushroom-cultivation]] (Pleurotus ostreatus) decomposition of
 wheat straw revealed the mass balance of conversion. The byproducts of [[mushroom-compost-bed-systems-duggar]], which retains
 value as a [[harvest-window-cannabis]] is when the mushroom margins are decurved (pointing
 downwards) or slightly incurved, well before spore generation peaks.
@@ -52,7 +52,7 @@ against quality and marketability considerations.
 
 ## The Yield Recapture Strategy
 
-For indoor cultivators concerned with optimizing yield and crop rotation from each growing
+For indoor cultivators concerned with optimizing yield and [[comparison-crop-rotation-vs-cover-cropping]] from each growing
 room, maximizing total yield may incur unacceptable contamination risks. As the mycelium
 declines in vigor after several flushes, competitor molds and bacteria begin to flourish,
 imperiling future production runs.
@@ -65,7 +65,7 @@ buildings give bonus crops and require minimum maintenance.
 
 Growers in Georgia and Louisiana have ideal climates for this approach. Subtropical
 regions of Asia are similarly well suited. The recapture strategy captures the low-yield
-later flushes without risking contamination of the primary growing environment.
+later flushes without risking contamination of the primary [[cannabis-growing-environment-setup]].
 
 ## Improving Yield: Key Factors
 
@@ -96,5 +96,5 @@ refrigeration, after which a noticeable decline in viability occurs.
 
 ## Ecological Significance
 
-Considering the innate power of [[stamets-natural-culture-mycological-landscapes]]
+Considering the innate power of stamets-natural-culture-mycological-landscapes
 - [[stamets-growing-room-air-circulation-co2-management]]-room-design

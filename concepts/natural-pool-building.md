@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Natural swimming pools (also called swimming ponds or bio-pools) use biological filtration instead of chlorine or other chemicals to maintain clean, clear water. They combine a swimming zone with one or more planted filtration zones where aquatic plants and beneficial microorganisms purify the water. The result is a pool that looks and functions like a natural pond while being safe for swimming.
+[[comparison-natural-swimming-pool-vs-conventional-pool]] pools (also called swimming ponds or bio-pools) use biological filtration instead of chlorine or other chemicals to maintain clean, clear water. They combine a swimming zone with one or more planted filtration zones where aquatic plants and beneficial microorganisms purify the water. The result is a pool that looks and functions like a natural pond while being safe for swimming.
 
 ## How Natural Pools Work
 
@@ -18,7 +18,7 @@ A natural pool operates as a closed-loop ecosystem:
 1. **Swimming zone** — The open water area where people swim. Typically 6-8 feet deep at the center, with sloped sides.
 2. **Filtration zone** — A shallower area (12-24 inches deep) filled with gravel and aquatic plants. Water circulates between zones.
 3. **Circulation** — A small pump moves water from the swimming zone through the filtration zone and back. In some designs, aeration devices supplement flow.
-4. **Biological filtration** — Plant roots absorb nutrients (nitrogen, phosphorus) from the water. Biofilm on gravel surfaces hosts bacteria that break down organic matter. Zooplankton consume algae cells.
+4. **Biological filtration** — Plant roots absorb nutrients (nitrogen, phosphorus) from the water. Biofilm on gravel surfaces hosts bacteria that [[query-can-fungi-break-down-plastic-pollution]] [[hamilton-composting-and-organic-matter-management]]. Zooplankton consume algae cells.
 
 The key principle: algae growth is limited by nutrient competition. Plants in the filtration zone take up the nutrients that would otherwise feed algae in the swimming zone.
 
@@ -96,11 +96,11 @@ Plants are the primary filtration mechanism. Select for:
 - Iris (Iris versicolor, I. pseudacorus)
 - Arrowhead (Sagittaria latifolia)
 - Cattail (Typha latifolia) — aggressive, use sparingly
-- Sweet flag (Acorus calamus)
+- Sweet flag ([[sweet-flag-acorus-calamus-ethnobotany]])
 - Water mint (Mentha aquatica)
 - Elephant ear (Colocasia)
 
-**Floating plants** (for additional nutrient uptake):
+**Floating plants** (for additional [[plant-nutrient-uptake-mechanisms]]):
 - Water hyacinth (Eichhornia) — aggressive, control carefully
 - Water lettuce (Pistia)
 
@@ -143,35 +143,6 @@ Plants are the primary filtration mechanism. Select for:
 - Solutions: Add more plants, reduce nutrient input (no fertilizers near pool), increase circulation, add Daphnia (water fleas) to consume algae
 
 ### Slime on Surfaces
-
-- Cause: Biofilm buildup — actually normal and beneficial
-- Solution: Brush walls gently; this is part of the biological process
-
-### Mosquitoes
-
-- Cause: Stagnant water areas
-- Solution: Ensure adequate circulation, add mosquito fish (Gambusia) to swimming zone, maintain healthy zooplankton population
-
-### Leaks
-
-- Cause: Liner puncture or seam failure
-- Solution: Locate leak by observing water level drop, drain pool partially, patch with EPDM repair kit
-
-## Cost Considerations
-
-- DIY construction: $15,000-$40,000 depending on size and materials
-- Professional installation: $50,000-$100,000+
-- Operating costs: Minimal — small pump electricity ($5-15/month), occasional plant replacement
-- Compared to chemical pools: Lower long-term cost, no chemical purchases, longer liner life than typical pool surfaces
-
-## Winter Considerations
-
-In cold climates:
-- The pool can freeze solid without damage to the liner
-- Cut back plants to 2-3 inches above the water line
-- Remove and store the pump indoors
-- Do not break ice on the surface — let it freeze naturally
-- Aquatic plants are perennial and will return in spring
 
 ## Related Topics
 

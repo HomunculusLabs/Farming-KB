@@ -5,7 +5,7 @@ updated: 2026-04-19
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 
 # Cannabis for Mental Health Conditions
@@ -34,7 +34,7 @@ CBD is consistently anxiolytic across a wider dose range than THC. It reduces an
 ## Post-Traumatic Stress Disorder (PTSD)
 
 ### Key Studies
-**Ganon-Elazar and Akirav (2009)**: "Cannabinoid receptor activation in the basolateral amygdala blocks the effects of stress on the conditioning and extinction of inhibitory avoidance." Journal of Neuroscience 29(36):11078-88.
+**Ganon-Elazar and Akirav (2009)**: "[[cannabis-cannabinoid-receptor-pharmacology]] activation in the basolateral amygdala blocks the effects of stress on the conditioning and extinction of inhibitory avoidance." Journal of Neuroscience 29(36):11078-88.
 
 Cannabinoid activation in the amygdala -- the brain's fear center -- blocks the effects of stress on fear conditioning and extinction. This is directly relevant to PTSD, which involves impaired fear extinction (the inability to "unlearn" traumatic associations).
 

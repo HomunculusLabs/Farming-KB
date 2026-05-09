@@ -1,15 +1,12 @@
 ---
-title: Permaculture Pasture Management
+title: Permaculture grassland-pasture-management-mollison
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [[permaculture, design]
+tags: [permaculture, design]
 sources: [papers/savory-holistic-resource-management.md]
 ---
-
-# Permaculture Pasture Management
-
-[[permaculture-designers-manual-cattle-systems]] and [[permaculture-duck-pond-systems]] and geese, monitoring for damage
+# Permaculture Pasture Management [[permaculture-designers-manual-cattle-systems]] and [[permaculture-duck-pond-systems]] and geese, monitoring for damage
 
 5. Once established, move fences to adjacent areas and repeat
 
@@ -21,7 +18,7 @@ Even on large grazing areas, the fenced perimeter provides protection and forage
 
 ## Timber in the Pasture
 
-Trees planted for firewood and building materials should follow land contours and mature for ~30 years before animals are allowed near them. Animals can graze before grass is harvested for hay or cover crops.
+Trees planted for firewood and [[natural-building-materials-guide]] should follow land contours and mature for ~30 years before animals are allowed near them. Animals can graze before grass is harvested for hay or cover crops.
 
 ## Supplementary Feeds
 
@@ -33,7 +30,7 @@ Use concentrated feeds not for weight gain but for: fattening before butchering,
 
 - Goats: rotate every three weeks (stomach worm lifespan)
 
-- [[permaculture-soil-management]] approach, pasture soils should maintain at least 3-5% organic matter, which supports microbial life, improves water infiltration, and provides steady nutrient release to forage plants.
+- permaculture-soil-management approach, pasture soils should maintain at least 3-5% [[hamilton-composting-and-organic-matter-management]], which supports microbial life, improves water infiltration, and provides steady nutrient release to forage plants.
 
 Key soil health indicators in pasture include:
 
@@ -51,9 +48,9 @@ Rest periods between grazing events should be long enough for plants to fully re
 
 ## Fencing and Infrastructure
 
-Well-designed fencing is essential for effective rotational grazing. Permanent perimeter fencing should be robust enough to contain livestock year-round, while internal divisions can use temporary or semi-permanent electric fencing to create paddocks. See [[nutrient-movement-through-soil-to-plant-roots]]
+Well-designed fencing is essential for effective [[comparison-rotational-grazing-vs-continuous-grazing]]. Permanent perimeter fencing should be robust enough to contain livestock year-round, while internal divisions can use temporary or semi-permanent electric fencing to create paddocks. See [[nutrient-movement-through-soil-to-plant-roots]]
 
-See also [[permaculture-principles]], [[animal-manure-guide]], and [[silvopasture-systems]] — integrating trees with livestock grazing for shade, fodder, and soil protection
+See also [[permaculture-principles]], [[animal-manure-guide]], and [[silvopasture-systems]] — integrating trees with [[savory-livestock-grazing-planning]] for shade, fodder, and soil protection
 [[cover-crops-soil-health]] — cover crop strategies for maintaining soil biology and preventing erosion between grazing cycles
 [[salt-tolerant-fodder-plants]] — salt-tolerant forage species for coastal and arid pasture systems
 ## Practical Considerations
@@ -72,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

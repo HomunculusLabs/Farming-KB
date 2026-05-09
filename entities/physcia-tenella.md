@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Nimis, P.L. (2016). "The Lichens of Italy: A Second Annotated Catalogue." EUT Edizioni.
   - Purvis, O.W. et al. (1992). "The Lichen Flora of Great Britain and Ireland." Natural History Museum Publications.
   - Wirth, V., Hauck, M. & Schultz, M. (2013). "Die Flechten Deutschlands." Eugen Ulmer Verlag.
@@ -41,11 +41,11 @@ Apothecia are produced infrequently, with brown discs 0.5–1.5 mm diameter and 
 
 The species is found primarily as an epiphyte on tree bark, favoring nutrient-enriched and eutrophicated substrates. It is particularly common on trees in agricultural landscapes, along roadsides, and in urban parks and gardens.
 
-Preferred host trees include *Fraxinus*, *Acer*, *Ulmus*, *Quercus*, and various fruit trees. The species tolerates higher bark pH than many other lichens, which contributes to its success on nutrient-enriched bark. It also occurs occasionally on stone and concrete surfaces.
+Preferred host trees include *Fraxinus*, *Acer*, *Ulmus*, *Quercus*, and various [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]. The species tolerates higher bark pH than many other lichens, which contributes to its success on nutrient-enriched bark. It also occurs occasionally on stone and concrete surfaces.
 
 ## Ecology and Bioindication
 
-*Physcia tenella* is classified as a nitrophytic lichen, meaning it thrives in nitrogen-rich environments. This ecological preference makes it a reliable indicator of elevated atmospheric nitrogen deposition, particularly from agricultural ammonia emissions and vehicle exhaust.
+*Physcia tenella* is classified as a nitrophytic lichen, meaning it thrives in nitrogen-rich environments. This ecological preference makes it a reliable indicator of elevated atmospheric [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]], particularly from agricultural ammonia emissions and vehicle exhaust.
 
 The species is moderately tolerant of sulfur dioxide and other common air pollutants. In regions where pollution-sensitive lichens have been eliminated, *P. tenella* often persists as one of the few remaining epiphytic species. Its presence alone does not indicate clean air, but its absence in combination with other nitrophytic species can suggest improving conditions.
 
@@ -77,7 +77,7 @@ Chloroatranorin may be present in trace amounts in the upper cortex. The relativ
 
 The species has likely benefited from human landscape modification, as agricultural intensification and urban development have increased the availability of nutrient-enriched bark substrates. Its range and abundance may have expanded in many regions during the industrial era.
 
-While the species itself is not threatened, changes in its relative abundance within lichen communities can serve as an early warning of nitrogen pollution. Increasing dominance of *P. tenella* at the expense of pollution-sensitive species indicates declining air quality.
+While the species itself is not threatened, changes in its relative abundance within lichen communities can serve as an early warning of nitrogen pollution. Increasing dominance of *P. tenella* at the expense of pollution-sensitive species indicates declining [[cervantes-air-quality-ventilation]].
 
 ## Reproduction and Dispersal
 

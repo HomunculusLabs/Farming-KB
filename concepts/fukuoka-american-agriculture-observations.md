@@ -1,18 +1,19 @@
 ---
-title: Fukuoka American Agriculture Observations
+title: Fukuoka fukuoka-american-agriculture-fields-of-death Observations
 created: 2026-04-18
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka American Agriculture Observations
 
 Updated: 2026-04-20
 
-Masanobu Fukuoka made two extended trips to America (1979 and 1986) and documented sharp critiques of American agricultural practices, land degradation, and the emerging natural farming movement there.
+Masanobu Fukuoka made two extended trips to America (1979 and 1986) and documented sharp critiques of [[fukuoka-american-agricultural-decline]] practices, land degradation, and the emerging [[comparison-natural-farming-vs-permaculture]] movement there.
 
 ## The California Landscape: Not Originally Desert
 
@@ -32,7 +33,7 @@ Evidence for this was found in Sacramento itself. Very old houses had stairways 
 
 Fukuoka coined the term "deficit farming" to describe American agriculture. The soil near the surface was seriously depleted from irrigating fields and working soil with 20-30 ton machines four or five times a year. But at the corners of fields where tractors don't pass, the soil was soft and rich -- proving the land itself was not inherently poor.
 
-Cattle feed was grown with chemical fertilizers, harvested by combines, and exported as livestock feed worldwide. America was draining her lands of fertility. "They're making money, but the steady impoverishment of the soil means they are actually practicing deficit farming." When the soil gives out and fields are abandoned by ranchers, fruit growers set up sprinklers, spread chemical fertilizers, and grow plums, apricots, and oranges. "This no longer is crop production under natural conditions; it is farming based on petroleum energy."
+Cattle feed was grown with [[cervantes-chemical-fertilizers-guide]], harvested by combines, and exported as livestock feed worldwide. America was draining her lands of fertility. "They're making money, but the steady impoverishment of the soil means they are actually practicing deficit farming." When the soil gives out and fields are abandoned by ranchers, fruit growers set up sprinklers, spread chemical fertilizers, and grow plums, apricots, and oranges. "This no longer is crop production under natural conditions; it is farming based on petroleum energy."
 
 ## Agriculture Run Amok
 
@@ -46,7 +47,7 @@ On his 1986 return trip, Fukuoka identified the center-pivot irrigation system a
 
 ## Specific American Farms and Farmers
 
-Fukuoka's 1979 visit included significant encounters with American farmers moving toward natural methods. The Lundberg family farm in Chico, California -- one of America's largest rice operations at 7,500 acres -- began transitioning to natural methods after meeting Fukuoka. Robert Rodale of Rodale Press hosted Fukuoka at experimental farms in Emmaus, Pennsylvania. Rodale had published the American edition of The One Straw Revolution, and his [[fukuoka-one-straw-revolution-impact]] was amplified by this existing infrastructure. However, Fukuoka was ambivalent: he appreciated organic farming's rejection of chemicals but criticized its retention of the interventionist mindset. Composting, tilling, and weed management were still forms of human control.
+Fukuoka's 1979 visit included significant encounters with American farmers moving toward natural methods. The Lundberg family farm in Chico, California -- one of America's largest rice operations at 7,500 acres -- began transitioning to natural methods after meeting Fukuoka. Robert Rodale of Rodale Press hosted Fukuoka at experimental farms in Emmaus, Pennsylvania. Rodale had published the American edition of The One Straw Revolution, and his [[fukuoka-one-straw-revolution-impact]] was amplified by this existing infrastructure. However, Fukuoka was ambivalent: he appreciated [[coleman-deep-organic-farming-philosophy]]'s rejection of chemicals but criticized its retention of the interventionist mindset. Composting, tilling, and weed management were still forms of human control.
 
 ## The East Coast: False Nature
 
@@ -70,9 +71,11 @@ Despite the grim picture, Fukuoka observed encouraging signs of an agricultural 
 
 ## The Role of American Universities
 
-UC Davis and UC Santa Cruz played particularly important roles in disseminating Fukuoka's ideas. UC Davis hosted his lectures and its students were among the first Americans to experiment with his methods. UC Santa Cruz's agroecology program incorporated natural farming principles into its curriculum. The [[natural-way-of-farming-guide]] revolution in American grain production echoes his core insight about soil disturbance. The soil health movement, championed by figures like Gabe Brown, draws on principles Fukuoka articulated decades earlier: minimize disturbance, maintain living roots, keep soil covered, maximize biodiversity. His observation that American farmers on vast acreages live "more meager and deprived" lives than Japanese farmers on small plots anticipates the modern farm crisis narrative.
+UC Davis and UC Santa Cruz played particularly important roles in disseminating Fukuoka's ideas. UC Davis hosted his lectures and its students were among the first Americans to experiment with his methods. UC Santa Cruz's agroecology program incorporated natural [[natural-farming-principles-fukuoka]] into its curriculum. The [[natural-way-of-farming-guide]] revolution in American grain production echoes his core insight about soil disturbance. The soil health movement, championed by figures like Gabe Brown, draws on principles Fukuoka articulated decades earlier: minimize disturbance, maintain living roots, keep soil covered, maximize biodiversity. His observation that American farmers on vast acreages live "more meager and deprived" lives than Japanese farmers on small plots anticipates the modern farm crisis narrative.
 
 ## See Also
+
+- [[fukuoka-american-agriculture-fields-of-death]]
 
 - [[fukuoka-natural-farming]]
 

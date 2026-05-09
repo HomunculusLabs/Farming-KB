@@ -29,9 +29,9 @@ without relying on imported fertilizers.
 
 - [[dynamic-accumulators-overview]] covers the broader concept of
   nutrient-concentrating plants.
-- Calcium accumulators and oak leaves describes another important
+- Calcium [[calcium-accumulators-and-oak-leaves]] leaves describes another important
   category of mineral-accumulating plants.
-- Green manure and cover crop strategies explains practical methods
+- [[comparison-green-manure-guide-vs-mulch-types-and-effects]] and [[coleman-cover-crop-rotation-and-soil-health]] strategies explains practical methods
   for incorporating accumulator plants into garden rotations.
 ## Practical Applications
 
@@ -111,3 +111,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[phosphate-accumulators-sustainable-agriculture]]

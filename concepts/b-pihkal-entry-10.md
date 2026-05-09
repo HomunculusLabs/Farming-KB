@@ -1,5 +1,5 @@
 ---
-title: B (Buscaline, 4-Butoxy-3,5-dimethoxyphenethylamine) - PIHKAL Entry #10
+title: B (Buscaline, 4-Butoxy-3,5-dimethoxyphenethylamine) - 2c-b-pihkal-entry-20 #10
 created: 2026-04-28
 tags: [pihkal, phenethylamine, mescaline-analogue, alkoxy-homologue, inactive-compound]
 date: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 
 # B (Buscaline)
 
-**PIHKAL Entry #10**
+**[[2c-c-pihkal-entry-22]] #10**
 
 ## Chemical Identity
 
@@ -63,7 +63,7 @@ by neutralization with HCl in IPA and precipitation with ether.
 B is inactive at tested levels with predominantly negative
 physical effects. Originally patented in England in 1930 without
 any physical or pharmacological description. Lipophilicity and
-serotonin binding studies suggested it would be less active than
+[[serotonin]] binding studies suggested it would be less active than
 mescaline. The physical discomfort at 150 mg (arrhythmia,
 GI distress, persistent cold) suggests toxicity concerns would
 dominate at the higher doses potentially needed for central

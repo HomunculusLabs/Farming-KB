@@ -1,5 +1,5 @@
 ---
-title: Bloomfield Fungal Biology and Hyphal Growth
+title: Bloomfield bloomfield fungal biology and hyphal growth and bloomfields-orchard-hyphal-growth-and-invasive-biology
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Fungi are eukaryotic organisms that flourish by burrowing into solid substances and transforming them into food. They penetrate the toughest leaves, woody tissues, skin, bone, and even granite. Invasive growth by filamentous hyphae is a uniquely fungal process. This page covers the fundamental biology of fungal cells, the mycelium, and the mechanisms of invasive growth as described in Nicholas Money's "Mr. Bloomfield's Orchard."
+Fungi are eukaryotic organisms that flourish by burrowing into solid substances and transforming them into food. They penetrate the toughest leaves, woody tissues, skin, bone, and even granite. [[fungal-hyphae-invasive-growth-mechanisms]] by filamentous hyphae is a uniquely fungal process. This page covers the fundamental biology of fungal cells, the mycelium, and the mechanisms of invasive growth as described in Nicholas Money's "Mr. Bloomfield's Orchard."
 
 ## Hyphal Architecture
 
@@ -38,11 +38,11 @@ Two types of mycelial construction:
 1. **Septate** (compartmentalized): hyphae divided by cross-walls (septa) with pores; found in ascomycetes and basidiomycetes
 2. **Non-septate (coenocytic)**: no cross-walls; continuous multinucleate tubes; found in zygomycetes and oomycetes
 
-In septate fungi, cytoplasm shuttles between compartments near extending tips. Older compartments eventually seal when septal pores plug. This programmed senescence causes the mycelium to adopt a toroid (doughnut) shape, spreading outward from its origin and leaving dead cells at its core — creating fairy rings.
+In septate fungi, cytoplasm shuttles between compartments near extending tips. Older compartments eventually seal when septal pores plug. This programmed senescence causes the mycelium to adopt a toroid (doughnut) shape, spreading outward from its origin and leaving dead cells at its core — creating [[bloomfield-fairy-rings-armillaria-giant-fungi]].
 
 ## Giant Mycelia
 
-The largest living organisms on Earth are fungi:
+The largest [[savory-living-organisms-as-tools]] on Earth are fungi:
 - **Armillaria in Michigan**: mycelium spread over 15 hectares (37 acres), mass equal to a blue whale
 - **Armillaria in Oregon's Blue Mountains**: covers more than 2,200 acres, estimated age 2,400-7,200 years
 - Tracking uses molecular genetic analysis of fruiting bodies, which duplicate the genetic makeup of their soil-bound parents
@@ -90,7 +90,7 @@ The process by which hyphae produce their cylindrical shapes from smooth-domed t
 ## Ecological Significance
 
 Fungi are essential decomposers, pathogens, and symbionts:
-- Decompose wood, leaves, and all dead organic matter
+- Decompose wood, leaves, and all dead [[hamilton-composting-and-organic-matter-management]]
 - Form mycorrhizal associations with plant roots
 - Cause diseases in plants, animals, and humans
 - Some are edible; many produce toxins or psychoactive compounds
@@ -110,3 +110,12 @@ Fungi are essential decomposers, pathogens, and symbionts:
 - [[mycorrhizal-edible-mushroom-species-overview]]
 - [[fungal-single-cell-protein-production]]
 - [[plant-cell-structure-and-organelles]]
+
+## See Also
+
+- [[fungal-growth-kinetics-mass-transfer]]
+- [[gadd-hyphal-tip-growth-and-branching-mechanisms]]
+
+- [[bloomfields-orchard-hyphal-growth-and-invasive-biology]]
+
+- [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]]

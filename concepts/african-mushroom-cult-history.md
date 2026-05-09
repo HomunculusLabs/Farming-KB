@@ -1,16 +1,12 @@
 ---
-title: African Mushroom Cult History
+title: African african mushroom cult history History
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [[mycology, mushrooms]
-sources: ["raw/papers/magic-mushrooms-around-the-world-gartz.md", "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md", "raw/papers/mckenna_t-food_of_the_gods.md"]
+tags: [mycology, mushrooms]
+sources: sources: []
 ---
-# African Mushroom Cult History
-
-The oldest known evidence of human psychoactive mushroom use, preserved in 10,000-year-old rock art of the Sahara Desert, along with documented cases of psilocybin mushroom intoxications in Africa.
-
-## The [[terence-mckenna]], working independently, found evidence for the oldest known mushroom cult in Africa.
+# African Mushroom Cult History The oldest known evidence of human psychoactive mushroom use, preserved in 10,000-year-old rock art of the Sahara Desert, along with documented cases of psilocybin mushroom intoxications in Africa. ## The [[terence-mckenna]], working independently, found evidence for the oldest known mushroom cult in Africa.
 
 Their discoveries emerged from the very continent known as the cradle of humanity.
 
@@ -20,7 +16,7 @@ These pictures tell of a time when the Sahara was still a blooming garden, long 
 
 The rock drawings date from as far back as 10,000 B.C. up to the present.
 
-Among the Stone Age drawings (7,000-5,000 B.C.) are those typical of the "round head phase," including pictures of pasture animals, evergreen and deciduous trees.
+Among the Stone Age drawings (7,000-5,000 B.C.) are those typical of the "[[mckenna-tassili-plateau-round-head-civilization]] phase," including pictures of pasture animals, evergreen and deciduous trees.
 
 ## Iconography of the Mushroom Cult
 
@@ -62,13 +58,13 @@ Both patients recovered completely within six hours after medical intervention.
 
 ## Biogeographical Context
 
-Africa has very few records of neurotropic Psilocybe species due to scarce mycological exploration, despite the continent's high biodiversity.
+Africa has very few records of neurotropic Psilocybe species due to scarce [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]], despite the continent's high biodiversity.
 
 Only 6-8 neurotropic species of Psilocybe are known from Africa.
 
 [[inocybe-aeruginascens-profile]] is known from Northern Africa (Morocco and Algeria) and also from Europe (Czechoslovakia).
 
-[[magic-mushroom-cultural-history]], [[psilocybe-global-biogeography]]
+magic-mushroom-cultural-history, [[psilocybe-global-biogeography]]
 
 See also: [[panaeolus-africanus]]
 - [[psilocybin-mushroom]]
@@ -91,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

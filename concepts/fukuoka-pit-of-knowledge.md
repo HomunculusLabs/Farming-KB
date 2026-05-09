@@ -1,15 +1,16 @@
 ---
-title: Fukuoka Pit of Knowledge
+title: Fukuoka fukuoka-pit-of-knowledge-fragmented-science
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [philosophy, education]
-sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Pit of Knowledge
 
-In the culminating section of his 1975 natural farming speech, [[fukuoka-direct-observation-method]] that underlies all of [[fukuoka-mu-nothingness-philosophy]]:
+In the culminating section of his 1975 [[comparison-natural-farming-vs-permaculture]] speech, [[fukuoka-direct-observation-method]] that underlies all of [[fukuoka-mu-nothingness-philosophy]]:
 
 - The first principle of his thought: "We do not understand; it is not possible to know and understand"
 - The second: "Nothing, no matter what it is, has value in and of itself"
@@ -99,4 +100,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

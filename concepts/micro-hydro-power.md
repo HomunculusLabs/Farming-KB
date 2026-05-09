@@ -4,19 +4,20 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [energy, off-grid, homesteading, sustainability, water, engineering]
-sources: []
+sources:
+  sources: []
 ---
 
 # Micro Hydro Power
 
-Micro hydro power generates electricity from flowing water on a small scale (typically under 100 kW). For homesteads with access to a stream or creek, micro hydro is often the most cost-effective and reliable renewable energy source. Unlike solar and wind, which fluctuate with weather and time of day, a properly designed micro hydro system produces power 24 hours a day, 365 days a year.
+Micro hydro power generates electricity from flowing water on a small scale (typically under 100 kW). For homesteads with access to a stream or creek, micro hydro is often the most cost-effective and reliable [[holmgren-wind-power-and-renewable-energy-debate]] source. Unlike solar and wind, which fluctuate with weather and time of day, a properly designed micro hydro system produces power 24 hours a day, 365 days a year.
 
 ## Why Micro Hydro Is Special
 
 - **Continuous power**: Produces electricity 24/7, unlike solar (daylight only) or wind (variable)
 - **Predictable output**: Flow rates are more consistent than sun or wind
 - **High capacity factor**: 50-90% (vs. 15-25% for solar, 20-35% for wind)
-- **Low cost per kWh**: Often the cheapest renewable energy source over its lifetime
+- **[[jadam-ultra-low-cost-agriculture]] per kWh**: Often the cheapest renewable energy source over its lifetime
 - **Long lifespan**: Equipment lasts 25-50 years with minimal maintenance
 - **Small footprint**: Minimal land use compared to solar arrays or wind towers
 
@@ -141,43 +142,6 @@ Annual energy: 275 watts x 24 hours x 365 days = 2,409,000 Wh = 2,409 kWh/year
 ### Tailrace
 
 - Channel that returns water to the stream below the turbine
-- Must meet environmental regulations (fish passage, water temperature)
-
-## Permitting and Regulations
-
-- **Water rights**: Many states require water rights or permits to divert stream flow
-- **Fish and wildlife**: Federal and state agencies protect aquatic habitat
-- **Dam safety**: Even small diversions may require permits
-- **Environmental impact**: Studies may be required for larger systems
-- **Grid interconnection**: If connecting to the grid, utility approval needed
-- **Construction permits**: Building permits for penstock, powerhouse, and electrical
-
-## Environmental Considerations
-
-- Minimum instream flow: Must leave enough water for fish and aquatic life
-- Fish passage: Ensure fish can move up and downstream past the intake
-- Water temperature: Don't warm or cool the return water excessively
-- Sediment: Minimize erosion during construction
-- Visual impact: Keep penstock and powerhouse as unobtrusive as possible
-
-## Cost Estimates
-
-| System Size | Head | Flow | Typical Cost | Annual Output |
-|-------------|------|------|-------------|---------------|
-| 200W | 50 ft | 50 GPM | $3,000-6,000 | 1,750 kWh |
-| 1kW | 100 ft | 100 GPM | $8,000-15,000 | 8,750 kWh |
-| 5kW | 150 ft | 300 GPM | $20,000-40,000 | 43,800 kWh |
-| 10kW | 200 ft | 400 GPM | $40,000-80,000 | 87,600 kWh |
-
-## Maintenance
-
-- Clean intake screen: Weekly to monthly (depends on debris load)
-- Inspect penstock: Annually for leaks, damage, or blockages
-- Grease bearings: Every 6-12 months
-- Check generator output: Monthly
-- Turbine overhaul: Every 5-10 years
-- Replace seals and bearings: As needed
-
 ## See Also
 
 - [[wind-power-basics]]

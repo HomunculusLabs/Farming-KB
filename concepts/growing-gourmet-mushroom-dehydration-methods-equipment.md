@@ -1,5 +1,5 @@
 ---
-title: Mushroom Dehydration Methods and Equipment
+title: growing gourmet mushroom dehydration methods equipment Methods and Equipment
 created: 2026-04-26
 tags:
   - mushroom-processing
@@ -23,10 +23,10 @@ Once dried, mushrooms can be stored for many months and sold in their
 natural form or powdered for soups, spice mixtures, teas, and other
 products. Some cultivators even sterilize their dried mushrooms without
 harm to prolong storage. Proper dehydration technique directly affects
-the texture, flavor retention, market value, and shelf life of the
+the texture, flavor retention, market value, and [[psilocybin-shelf-life-stability]] of the
 final product. This is a critical step in [[duggar-mushroom-growing-history-and-methods]]
 
-- [[growing-gourmet-mind-and-methods-cultivation]]
+- growing-gourmet-mind-and-methods-cultivation
 - [[growing-gourmet-maitake-cultivation]]
 - [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]]
 ## Practical Applications
@@ -107,3 +107,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[growing-gourmet-peroxide-sterilization-methods]]

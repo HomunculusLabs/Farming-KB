@@ -24,7 +24,7 @@ created: 2026-04-28
 
 It was first synthesized and characterized by Alexander Shulgin and is documented in TiHKAL (Tryptamines I Have Known and Loved) as entry #50.
 
-The compound is known for its short duration, intense psychedelic effects, and relatively limited history of human use compared to more well-known tryptamines.
+The compound is known for its [[savory-short-duration-grazing-and-cell-systems]], intense psychedelic effects, and relatively limited history of human use compared to more well-known tryptamines.
 
 ## Chemical Properties
 
@@ -37,7 +37,7 @@ The compound is known for its short duration, intense psychedelic effects, and r
 
 The 5-methoxy substitution on the indole ring and the N,N-dipropyl substitution on the terminal amine distinguish 5-MeO-DPT from both DMT (dimethyl) and 5-MeO-DMT.
 
-The propyl groups increase lipophilicity compared to the methyl groups of DMT, potentially affecting blood-brain barrier penetration and receptor binding affinity.
+The propyl groups increase lipophilicity compared to the methyl groups of DMT, potentially affecting blood-brain barrier penetration and [[tihkal-receptor-binding-serotonin]] affinity.
 
 ## Pharmacology
 
@@ -57,7 +57,7 @@ Users report rapid onset of effects within 5–15 minutes following insufflation
 
 The experience is generally described as less visually intense than DMT or 5-MeO-DMT but with pronounced cognitive and emotional effects.
 
-Common effects include ego dissolution, altered perception of time and space, enhanced introspection, and mood elevation.
+Common effects include [[psilocybin-ego-dissolution-mechanisms]], altered perception of time and space, enhanced introspection, and mood elevation.
 
 Some users describe a dreamy, introspective quality with less overwhelming sensory distortion than other 5-methoxy tryptamines.
 
@@ -77,7 +77,7 @@ Dosages are approximate and vary significantly based on individual sensitivity, 
 
 5-MeO-DPT is unscheduled in most jurisdictions, though it may fall under analog act provisions in countries with blanket tryptamine bans.
 
-In the United States, the compound is not specifically listed on the Controlled Substances Act but could potentially be prosecuted under the Federal Analog Act.
+In the [[dmt-containing-plants-united-states-halpern]], the compound is not specifically listed on the Controlled [[controlled-substances-act-and-psychedelic-research]] but could potentially be prosecuted under the Federal Analog Act.
 
 Several European countries have placed the compound under controlled substance schedules as part of broader research chemical bans enacted in the 2010s.
 
@@ -97,7 +97,7 @@ Its availability increased briefly in the mid-2000s through online research chem
 - **DMT:** N,N-dimethyltryptamine, the prototypical natural psychedelic tryptamine
 - **4-HO-DPT:** The 4-hydroxy analog, an unscheduled tryptamine with psychedelic properties
 
-The propyl chain length has a significant impact on both duration and subjective character across this series of compounds.
+The propyl [[phenethylamine-chain-length-effects]] has a significant impact on both duration and subjective character across this series of compounds.
 
 ## Synthesis
 

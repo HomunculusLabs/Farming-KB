@@ -1,22 +1,23 @@
 ---
-title: Natural Farming for a New Age
+title: comparison-natural-farming-vs-permaculture for a New Age
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Natural Farming for a New Age
 
-From "The Natural Way of Farming" by Masanobu Fukuoka, Chapter 4 of "The Theory of Natural Farming."
+From "The Natural Way of Farming" by Masanobu Fukuoka, Chapter 4 of "The [[fukuoka-natural-way-of-farming-theory-of-natural-farming]] Farming."
 
 ## At the Vanguard of Modern Farming
 
 To some, natural farming may appear as a return to a passive, primitive form of farming over the road of idleness and inaction. Yet because it occupies an immutable and unshakable position that transcends time and space, natural farming is always both the oldest and the newest form of farming.
 
-Scientific farming blindly traces spiraling cycles in the tracks of science. Today's new technology will become the dated technology of tomorrow. Man today tries to leap outside of nature and truth altogether. The danger has now arrived at the doorstep of science. Scientific farming has no future.
+[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] blindly traces spiraling cycles in the tracks of science. Today's new technology will become the dated technology of tomorrow. Man today tries to leap outside of nature and truth altogether. The danger has now arrived at the doorstep of science. Scientific farming has no future.
 
 Fukuoka's claim that "scientific farming has no future" is not mere rhetoric.
 
@@ -40,7 +41,7 @@ Unfertilized battery chickens are just machines for hatching factory-made eggs, 
 
 The transformation of animals into industrial products is not only an ethical catastrophe but a biological one. Animals raised in confinement develop chronic stress, weakened immune systems, and abnormal behaviors.
 
-The nutritional quality of their meat, milk, and eggs reflects this degradation: higher levels of inflammatory fats, lower levels of beneficial omega-3 fatty acids, and diminished vitamin content compared to animals raised on pasture.
+The [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of their meat, milk, and eggs reflects this degradation: higher levels of inflammatory fats, lower levels of beneficial omega-3 fatty acids, and diminished vitamin content compared to animals raised on pasture.
 
 ### Natural Grazing Is the Ideal
 
@@ -64,7 +65,7 @@ Natural selection will take over and those animals adapted to nature will surviv
 
 This integrated approach to livestock management anticipates many of the principles later formalized in [[zone-sector-analysis-guide]].
 
-The idea that different animals can perform complementary functions within a single landscape -- chickens scratching for insects in cow manure, pigs rooting and turning soil, cows grazing and fertilizing -- is now well-established in permaculture design.
+The idea that different animals can perform complementary functions within a single landscape -- chickens scratching for insects in cow manure, pigs rooting and turning soil, cows grazing and fertilizing -- is now well-established in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]].
 
 ## Livestock Farming in the Search for Truth
 
@@ -76,7 +77,7 @@ This pursuit of "truth without conditions" is the philosophical core of Fukuoka'
 
 Natural farming seeks principles that hold regardless of conditions -- principles rooted in the fundamental nature of living systems.
 
-The connection between Fukuoka's livestock philosophy and the broader [[natural-farming-livestock-integration]] | [[fukuoka-philosophy-of-mu-and-nature]] | [[fukuoka-food-as-strategic-weapon]]
+The connection between Fukuoka's [[holzer-livestock-philosophy-paddock-system]] and the broader [[natural-farming-livestock-integration]] | [[fukuoka-philosophy-of-mu-and-nature]] | [[fukuoka-food-as-strategic-weapon]]
 
 ## Key Points
 

@@ -1,5 +1,5 @@
 ---
-title: "Truffle Hunting and Culinary Fungi"
+title: "bloomfield truffle hunting and culinary fungi and Culinary Fungi"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -14,7 +14,7 @@ The human fascination with edible fungi spans millennia, from ancient mushroom
 foragers to modern commercial truffle hunters who comb Italian forests with
 specially trained dogs. [[morchella-esculenta]])
 and the snakehead (Morchella semilibera). They appear toward the end of April
-or the first week of May in the eastern United States.
+or the first week of May in the eastern [[dmt-containing-plants-united-states-halpern]].
 
 People "who would never venture into the woods for any other reason will get
 up before dawn to collect morels in the pouring rain." Morels are not abundant
@@ -38,9 +38,9 @@ gusts.
 
 ## Cultivation: Feast and Famine
 
-The principles governing commercial mushroom cultivation are feast and famine.
+The principles governing commercial [[accessible-mushroom-cultivation-for-disabilities]] are feast and famine.
 Initially, a mycelium is grown on a bed of warm, moist compost (for the
-commercial button mushroom, [[mycorrhizal-fungi]] are additionally constrained by the
+commercial [[growing-gourmet-button-mushroom-agaricus-cultivation]], [[mycorrhizal-fungi]] are additionally constrained by the
 nutritional status of their plant associates, adding further complexity to the
 suite of signals controlling fruiting.
 
@@ -49,7 +49,7 @@ suite of signals controlling fruiting.
 Boletes (Boletales) are mushrooms with pores rather than gills beneath their
 caps. Many are excellent edibles, including the prized porcini ([[boletus-edulis-entity]]).
 However, identification can be treacherous: Money recounts an incident in which
-his mentor John Webster left the fruiting body of Boletus satanus (Satan's
+his mentor John Webster left the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] of [[bloomfield-boletus-satanus-edible-mushroom-hazards]] (Satan's
 bolete) on his bench for identification. Money instead sliced it into chili,
 consumed it, and suffered no ill effects -- either boiling or some chili
 ingredient had detoxified the mushroom, which "cannot kill a mule, but it can
@@ -64,6 +64,8 @@ cooking until it matched "the pungency of a disinfectant used in a
 slaughterhouse." His guests were horrified.
 
 ## See Also
+
+- [[bloomfield-fungi-in-folklore-and-mythology]]
 ## Practical Considerations
 
 Successful implementation of Truffle Hunting and Culinary Fungi requires attention to
@@ -82,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

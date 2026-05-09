@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Bioassays for Soil Health Assessment in Agriculture
+title: symbiotic fungi mycorrhizal bioassays agriculture for Soil Health Assessment in Agriculture
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -11,15 +11,15 @@ sources: [raw/papers/symbiotic-fungi.md]
 
 Updated: 2026-04-18
 
-Source: Symbiotic Fungi (Varma and Kharkwal, eds.), Chapter 3: Use of Mycorrhiza Bioassays in Ecological Studies
+Source: [[mycelium-running-symbiotic-fungi-relationships]] (Varma and Kharkwal, eds.), Chapter 3: Use of Mycorrhiza Bioassays in Ecological Studies
 
 ## Why Bioassays Matter for Agriculture
 
-Arbuscular mycorrhizal (AM) fungi are ubiquitous in agricultural and natural ecosystems, and most plant species form symbiotic associations with these fungi. The symbiosis can increase the growth and development of plants by enhancing nutrient uptake, especially phosphorus, and by improving water relations of plants. AM fungi can also contribute to improving soil physical fertility by enhancing soil aggregation and protecting crops against plant disease.
+[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] (AM) fungi are ubiquitous in agricultural and natural ecosystems, and most plant species form symbiotic associations with these fungi. The symbiosis can increase the growth and development of plants by enhancing [[plant-nutrient-uptake-mechanisms]], especially phosphorus, and by improving water relations of plants. AM fungi can also contribute to improving soil physical fertility by enhancing soil aggregation and protecting crops against plant disease.
 
 The soil environment, particularly factors that control soil fertility, strongly influences mycorrhizal function. Therefore, the capacity of AM fungi to form mycorrhizas that contribute substantially to plant nutrition, plant health, or soil fertility depends on soil management. Bioassays provide a tool to assess this capacity.
 
-See also: [[mycorrhiza-bioassays-ecological-studies]], [[arbuscular-mycorrhizal-colonization-patterns]], [[tropical-rainforest-restoration-arbuscular-mycorrhizal-fungi]], [[mycorrhizal-succession-primary-secondary]]
+See also: [[mycorrhiza-bioassays-ecological-studies]], [[arbuscular-mycorrhizal-colonization-patterns]], tropical-rainforest-restoration-arbuscular-mycorrhizal-fungi, mycorrhizal-succession-primary-secondary
 
 ## Factors Affecting Bioassay Results
 
@@ -33,7 +33,7 @@ Soil disturbance -- such as that caused by farming practices -- can reduce the i
 ### Soil Fertility
 
 Soil fertility factors influence bioassay results:
-- High phosphorus can suppress mycorrhizal colonization
+- High phosphorus can suppress [[arbuscular-mycorrhizal-colonization-patterns]]
 - pH affects AMF species composition and activity
 - Organic matter content influences microbial activity
 - Nutrient imbalances can alter host-fungus interactions
@@ -57,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +99,9 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[symbiotic-fungi-arbuscular-mycorrhizal-agriculture]]
+- [[symbiotic-fungi-siderophore-mycorrhizal-iron-acquisition]]
+- [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]]
+- [[symbiotic-fungi-carbon-isotope-mycorrhizal-allocation-tracking]]
+- [[symbiotic-fungi-mycorrhizal-nitrogen-transfer-networks]]

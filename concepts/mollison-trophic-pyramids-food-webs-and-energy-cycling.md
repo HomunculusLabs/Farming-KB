@@ -1,5 +1,5 @@
 ---
-title: Trophic Pyramids, Food Webs, and Energy Cycling
+title: mollison trophic pyramids food webs and energy cycling, Food Webs, and permaculture-energy-cycling-and-resource-efficiency
 created: 2026-04-26
 tags:
   - permaculture
@@ -16,9 +16,9 @@ type: concept
 # Trophic Pyramids, Food Webs, and Energy Cycling
 
 In the Designers' Manual, Mollison critically examines the
-conventional trophic pyramid model of energy flow in ecosystems,
+conventional trophic pyramid model of [[savory-energy-flow-and-solar-capture]] in ecosystems,
 revealing its limitations and arguing for a more complex understanding
-of food webs, feedback loops, and nutrient cycling in permaculture
+of food webs, feedback loops, and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in permaculture
 systems.
 
 ## The Limitation of Trophic Pyramids
@@ -63,7 +63,7 @@ future evolution.
 With these obvious feedbacks, the web itself becomes much more
 complex, and it starts to resemble less of a one-way staircase than a
 series of cyclic events; less of a ziggurat and more like a spider's
-web. Waste recycling to herbage is the main producer of that herbage.
+web. [[mollison-designers-banana-circle-waste-recycling-system]] to herbage is the main producer of that herbage.
 
 ## Maturity and Energy Use
 
@@ -113,7 +113,7 @@ the system to do work.
 
 ## Permaculture Implications
 
-In permaculture design, food web thinking replaces pyramid thinking:
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], food web thinking replaces pyramid thinking:
 
 - **Recycle all wastes** back into productive systems rather than
   treating them as endpoints of a linear chain.
@@ -134,5 +134,8 @@ In permaculture design, food web thinking replaces pyramid thinking:
 ## See Also
 
 - [[mollison-animal-integration-permaculture-design]]
-- [[mollison-plant-stacking-and-interaction]]
+- mollison-plant-stacking-and-interaction
 - [[soil-food-web]]
+- [[permaculture-design]]
+- [[dighton-fungal-trophic-interactions-soil-food-webs]]
+- [[fungal-roles-soil-food-webs]]

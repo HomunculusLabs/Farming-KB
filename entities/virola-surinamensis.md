@@ -55,7 +55,7 @@ wide, with entire margins. Petioles are short and swollen at the base.
 fused staminal column; female flowers have a single-celled ovary.
 
 **Fruit:** Capsule, globose to ellipsoid, 3–5 cm diameter, dehiscing to reveal
-a single seed entirely enclosed in a bright red or orange aril.
+a [[cervantes-selfing-single-seed-descent]] entirely enclosed in a bright red or orange aril.
 
 ## Distribution and Habitat
 
@@ -106,7 +106,7 @@ distinctly different subjective effects characterized by ego-dissolution rather
 than visual imagery.
 
 **β-carbolines** — trace amounts of harmine and related compounds have been
-detected, though not in sufficient quantities for oral activity without an
+detected, though not in sufficient quantities for [[tihkal-oral-activity-mao-inhibition]] without an
 exogenous MAO inhibitor.
 
 Alkaloid content varies significantly between populations, individual trees,
@@ -128,6 +128,8 @@ through deforestation and logging pressure are recognized threats across much of
 its range.
 
 ## See Also
+
+- [[virola-sebifera]]
 
 - [[mimosa-hostilis]]
 - [[tabernanthe-iboga]]

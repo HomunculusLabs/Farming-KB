@@ -1,5 +1,5 @@
 ---
-title: Parsley and Culinary Herbs in the Vegetable Garden
+title: Parsley and holzer-medicinal-and-culinary-herbs-compendium in the fukuoka-dutch-priest-vegetable-garden-spiritual-renewal
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Steve Solomon considers parsley a misunderstood vegetable that is easy to grow once you understand its seed germination requirements. Culinary herbs generally belong at the fringes of the garden rather than occupying prime vegetable-growing space.
+Steve Solomon considers parsley a misunderstood vegetable that is easy to grow once you understand its [[cannabis-seed-germination-methods]] requirements. Culinary herbs generally belong at the fringes of the garden rather than occupying prime vegetable-growing space.
 
 ## Parsley
 
@@ -20,7 +20,7 @@ Solomon is saddened when he sees gardeners buying parsley seedlings at the garde
 
 ### Starting Parsley
 
-- Start seeds in mid-spring, about when the daffodils have faded.
+- [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]] in mid-spring, about when the daffodils have faded.
 - Sow seed about a quarter inch deep in a furrow.
 - Cover with finely textured mellow soil or compost.
 - Germination is slow -- can take 2-3 weeks.
@@ -55,7 +55,7 @@ Celery is one crop for which you should double-dig:
 
 1. Dig a trench one shovel's blade deep.
 2. Place a two-inch layer of well-rotted compost in the bottom.
-3. Add a full dose of COF (complete organic fertilizer).
+3. Add a full dose of COF (complete [[complete-organic-fertilizer-cof-recipe-solomon]]).
 4. Dig down another shovel's depth.
 5. Water the soil removed from the trench so when replaced, amendments will be mixed into the topsoil.
 6. The celery will grow in super-fertile loose soil about 12 inches deep and 30 inches wide.
@@ -80,7 +80,7 @@ Celery grows extremely slowly -- can take ten weeks to reach transplantable size
 
 ## General Herb Garden Placement
 
-Solomon places fruit trees and herbs at the fringes of the garden. The prime vegetable-growing space should be reserved for calorie-dense and nutritionally important crops. Herbs serve as companion plants, culinary additions, and pest deterrents but should not displace main food crops.
+Solomon places [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and herbs at the fringes of the garden. The prime vegetable-growing space should be reserved for calorie-dense and nutritionally important crops. Herbs serve as companion plants, culinary additions, and pest deterrents but should not displace main food crops.
 
 ## Related Concepts
 

@@ -1,5 +1,5 @@
 ---
-title: "Broadscale Watershed Restoration Techniques"
+title: "Broadscale broadscale watershed restoration techniques Techniques"
 created: 2026-04-28
 tags: [restoration, watershed, swales, erosion, water-harvesting]
 date: 2026-04-25
@@ -16,7 +16,7 @@ topsoil and degrades watersheds. Once topsoil has washed away, plants
 cannot establish themselves. Without vegetative cover, water cannot
 infiltrate into the soil, so it runs off, causing more erosion. This
 creates a destructive feedback loop that progressively degrades the
-landscape. Broadscale restoration techniques from permaculture address
+landscape. [[urban-broadscale-restoration-watershed-repair]] techniques from permaculture address
 this cycle by slowing water flow, rebuilding soil, and re-establishing
 vegetative cover across degraded landscapes.
 
@@ -43,11 +43,11 @@ On gentle slopes (less than 15 degrees), broad shallow ditches called
 swales that follow the contours of the land will hold storm runoff
 and infiltrate it over time. Swales are level trenches dug along the
 contour of a slope, with the excavated soil placed on the downhill
-side to form a berm. When rain falls, water collects in the swale,
+side to form a berm. When [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]], water collects in the swale,
 forms a temporary pool, and slowly soaks into the ground rather than
 running downhill and causing erosion.
 
-Over time, swales fill up with silt and organic matter, forming
+Over time, swales fill up with silt and [[hamilton-composting-and-organic-matter-management]], forming
 terraces that further improve water retention. Swales should be
 mulched to reduce evaporation and planted with trees whose roots will
 stabilize the soil and continue the water infiltration cycle. The
@@ -80,7 +80,7 @@ trees behind them. The bales decompose over a few years, by which time
 the line of trees planted behind them will hold the hillside in place
 with their roots. This is a particularly effective technique for
 rapid stabilization of eroding slopes, as it provides immediate
-erosion control while establishing long-term vegetative stabilization.
+[[permplant-willows-salix-erosion-control-fodder]] while establishing long-term vegetative stabilization.
 
 ## Anchoring and Tree Placement
 
@@ -109,8 +109,10 @@ of the city. The trees' roots reach deep into the soil to hold it in
 place, tapping into underground water sources and sharing nutrients
 along webs of [[tree-canopy-fungal-sampling-techniques]]
 
-- [[broadscale-permaculture-techniques-mollison]]
+- broadscale-permaculture-techniques-mollison
 
 ## See Also
 
 - [[urban-broadscale-restoration-watershed-repair]]
+- [[building-soil]]
+- [[broadscale-restoration-watershed-repair]]

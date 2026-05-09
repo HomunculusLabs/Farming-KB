@@ -24,7 +24,7 @@ In September 1928, Alexander Fleming, a bacteriologist at St. Mary's Hospital in
 Fleming's discovery remained largely unexploited for a decade until Howard Florey, Ernst Chain, and their team at Oxford University's Sir William Dunn School of Pathology took up the challenge of mass-producing penicillin. Key achievements:
 
 - Chain purified penicillin and demonstrated its chemical structure (a beta-lactam compound)
-- Florey's team conducted the first clinical trials in 1941, showing dramatic efficacy in severe bacterial infections
+- Florey's team conducted the first clinical trials in 1941, showing dramatic efficacy in severe [[blesching-cannabis-bacterial-infections]]
 - Mass production was developed in the United States through fermentation technology, using corn steep liquor and deep-tank fermentation
 
 ### Wartime Production and Global Impact
@@ -100,7 +100,7 @@ Bacteria have evolved multiple strategies to resist beta-lactam antibiotics:
 
 - **Beta-lactamase production**: Enzymes that hydrolyze the beta-lactam ring. Hundreds of beta-lactamases exist, including extended-spectrum beta-lactamases (ESBLs), AmpC enzymes, and carbapenemases (KPC, NDM, OXA-48)
 - **PBP modification**: Altered PBPs with reduced affinity for beta-lactams (e.g., PBP2a in MRSA)
-- **Efflux pumps**: Active transport of antibiotics out of the cell
+- **Efflux pumps**: [[diffusion-osmosis-and-active-transport-in-plants]] of antibiotics out of the cell
 - **Reduced permeability**: Mutations in porin channels that limit antibiotic entry
 - **Biofilm formation**: Communities of bacteria embedded in extracellular matrix are inherently resistant to antibiotics
 
@@ -116,17 +116,17 @@ Modern techniques allow researchers to identify biosynthetic gene clusters (BGCs
 
 - Co-culturing fungi with bacteria to trigger defensive compound production
 - Epigenetic modulators (histone deacetylase inhibitors, DNA methyltransferase inhibitors) to activate silent genes
-- Heterologous expression of BGCs in model fungal hosts (Aspergillus oryzae, Saccharomyces cerevisiae)
+- Heterologous expression of BGCs in model fungal hosts ([[aspergillus-oryzae]], [[saccharomyces-cerevisiae]])
 
 ### Environmental Sampling
 
 Underexplored environments are being targeted for novel fungal isolates:
 
 - Deep-sea sediments and hydrothermal vents
-- Endophytic fungi living inside plant tissues
+- [[endophytic-fungi]] living inside plant tissues
 - Fungi associated with insects (especially social insects with sophisticated antimicrobial defenses)
 - Cave and mine environments
-- Polar and extreme environments
+- Polar and [[fungal-biodiversity-in-extreme-environments]]
 
 ### Novel Compound Classes
 
@@ -144,7 +144,6 @@ Promising fungal-derived compounds in development:
 - **Regulatory hurdles**: Stringent requirements for safety and efficacy testing
 
 See [[mycology-research-methods]] for techniques used in fungal antibiotic discovery and [[fungal-infections-human]] for an overview of the human fungal pathogens these drugs aim to treat.
-
 ## Related
 
 - [[fungal-vaccines]]

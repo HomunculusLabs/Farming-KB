@@ -1,5 +1,5 @@
 ---
-title: Nutrient Cycling in Soil
+title: comparison-nutrient-cycling-vs-nutrient-dense-gardening in Soil
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -53,7 +53,7 @@ chips) will cause temporary immobilization. Over time, as the carbon is
 metabolized and the microbes die, the immobilized nitrogen is released back
 into the
 soil.
-This is why adding raw sawdust or wood chips to garden soil can cause
+This is why adding raw sawdust or [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] to garden soil can cause
 temporary nitrogen deficiency in plants. The solution is to either compost
 these materials first (which lowers the C:N ratio) or to add a supplemental
 nitrogen source alongside
@@ -64,10 +64,10 @@ The nitrogen cycle is perhaps the most complex and consequential nutrient
 cycle in soil. Understanding it is critical because nitrogen is the nutrient
 most often limiting plant
 growth.
-**Nitrogen Fixation:** Atmospheric nitrogen (N2) makes up about 78 percent of
+**[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** Atmospheric nitrogen (N2) makes up about 78 percent of
 the atmosphere, but plants cannot use it directly. It must be "fixed" --
 converted into a biologically available form. In organic systems, this happens
-primarily through biological nitrogen fixation by
+primarily through [[biological-nitrogen-fixation-agriculture]] fixation by
 [[actinorhizal-symbiosis-frankia]] bacteria. Rhizobia form symbiotic
 relationships with legumes (soybeans, clover, alfalfa, peas, beans), forming
 nodules on roots where they convert atmospheric nitrogen into ammonium. The
@@ -101,7 +101,7 @@ gardener, but it completes the nitrogen cycle. Avoiding anaerobic conditions
 through proper soil aeration and drainage helps minimize this
 loss.
 **Leaching:** Nitrate is highly mobile in soil because it is an anion and is
-not held by cation exchange sites. Excess nitrate can leach below the root
+not held by [[mollison-designers-tropical-soils-and-cation-exchange-management]] sites. Excess nitrate can leach below the root
 zone with rain or irrigation, contributing to groundwater pollution. This is
 one reason why slow-release organic nitrogen sources are preferable to soluble
 synthetic sources -- they release nitrogen gradually, reducing leaching
@@ -110,7 +110,7 @@ losses.
 
 Phosphorus ultimately comes from the weathering of apatite rock. It enters
 soils in organic and inorganic forms. Inorganic phosphorus is adsorbed to the
-surfaces of clay particles and organic matter through ionic attraction and
+surfaces of clay particles and [[hamilton-composting-and-organic-matter-management]] through ionic attraction and
 does not move much in soil -- it is so tied up that 1 acre of soil might have
 only 1 pound of phosphorus dissolved in water and available to
 plants.

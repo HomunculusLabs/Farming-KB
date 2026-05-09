@@ -26,7 +26,7 @@ Arecoline (1,2,5,6-tetrahydro-1-methyl-3-pyridinecarboxylic acid methyl ester) i
 
 It functions primarily as a muscarinic acetylcholine receptor agonist, producing parasympathomimetic effects including increased salivation, bronchoconstriction, and gastrointestinal stimulation, alongside central nervous system stimulation.
 
-Despite its stimulant and mild euphorigenic properties that have sustained its use for millennia across South and Southeast Asia, arecoline is classified as a Group 1 carcinogen by the IARC due to its strong association with oral submucous fibrosis and oral squamous cell carcinoma.
+Despite its stimulant and mild euphorigenic properties that have sustained its use for millennia across South and [[psilocybe-southeast-asia-pacific]], arecoline is classified as a Group 1 carcinogen by the IARC due to its strong association with oral submucous fibrosis and oral squamous cell carcinoma.
 
 ## Chemical Properties
 
@@ -114,7 +114,7 @@ Laboratory synthesis proceeds via condensation of N-methyl-4-piperidone with eth
 ## Legal Status
 
 - **International:** Not scheduled under the UN Convention on Psychotropic Substances
-- **United States:** Unscheduled; arecoline is not a controlled substance at the federal level, though some states restrict areca nut sales to minors
+- **[[dmt-containing-plants-united-states-halpern]]:** Unscheduled; arecoline is not a controlled substance at the federal level, though some states restrict areca nut sales to minors
 - **European Union:** Areca nut classified as a carcinogen under EU regulations; sales restrictions vary by member state
 - **India:** Areca nut is a regulated agricultural commodity; gutka (areca nut + tobacco preparation) is banned in several states
 - **Taiwan, Thailand, Malaysia:** Various restrictions on areca nut sales and chewing in public spaces

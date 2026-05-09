@@ -30,7 +30,7 @@ Microplastics pose ecological risks through physical ingestion by marine and ter
 
 Nanoplastics, particles smaller than 1 micrometer, are of particular concern because of their ability to cross biological membranes and their high surface-area-to-volume ratio, which enhances chemical release and microbial interaction.
 
-The scale of microplastic contamination has prompted intensive research into biological degradation pathways as potential remediation strategies.
+The scale of microplastic contamination has prompted intensive research into biological [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]] as potential remediation strategies.
 
 ## Mechanisms of Biological Plastic Degradation
 
@@ -42,13 +42,13 @@ Pretreatment methods including UV irradiation, thermal treatment, chemical oxida
 
 Biofilm formation on microplastic surfaces, known as the "plastisphere," creates a microenvironment where exoenzymes are concentrated and degradation products are available for assimilation by the biofilm community.
 
-The plastisphere microbial community differs from the surrounding environmental community and often contains organisms with enhanced plastic-degrading capabilities.
+The plastisphere [[edaphic-factors-microbial-community-structure]] differs from the surrounding environmental community and often contains organisms with enhanced plastic-degrading capabilities.
 
 ## Fungal Plastic Degradation
 
-Fungi are among the most effective microorganisms for plastic degradation because their mycelial network can penetrate and colonize plastic surfaces, their hyphal tips apply mechanical force, and their extracellular enzymes can attack polymer chains.
+Fungi are among the most [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]] for plastic degradation because their [[gadd-mycelial-network-dynamics]] can penetrate and colonize plastic surfaces, their hyphal tips apply mechanical force, and their extracellular enzymes can attack polymer chains.
 
-[[fungal-biodeterioration-biodegradation]] mechanisms involved in natural substrate decomposition are co-opted for synthetic polymer degradation.
+fungal-biodeterioration-biodegradation mechanisms involved in natural substrate decomposition are co-opted for synthetic polymer degradation.
 
 Penicillium simplicissimum has demonstrated the ability to degrade polyethylene with molecular weights between 4,000 and 28,000 daltons, reducing the mechanical strength and weight of plastic films.
 
@@ -56,7 +56,7 @@ Mucor rouxii and Aspergillus flavus produce enzymes that cause changes in the me
 
 Aureobasidium pullulans colonizes plasticized PVC and secretes esterases that degrade the plasticizer components, leading to weight loss and structural deterioration of the polymer matrix.
 
-Phanerochaete chrysosporium attached to polyamide-6 fibers reduced the polymer's molar mass by 50 percent over three months.
+[[staycare-phanerochaete-chrysosporium-in-bioremediation]] attached to polyamide-6 fibers reduced the polymer's molar mass by 50 percent over three months.
 
 Resinicium bicolor has been identified as the most effective fungus for detoxification of ground waste tire rubber material prior to devulcanization.
 
@@ -86,7 +86,7 @@ Development of biodegradable polymers that maintain performance properties while
 
 Standardized methods for measuring and reporting plastic biodegradation rates are needed to enable meaningful comparison of different biological systems.
 
-Scaling laboratory degradation results to environmental conditions requires better understanding of how environmental variables including temperature, nutrient availability, and microbial community composition affect degradation rates.
+Scaling laboratory degradation results to environmental conditions requires better understanding of how environmental variables including temperature, nutrient availability, and microbial [[core-endorhiza-bacterial-community-composition-cannabis]] affect degradation rates.
 
 [[mycoremediation]] approaches for microplastic remediation include measurement of plastic mass loss, molecular weight reduction, surface chemistry changes, and formation of degradation products.
-- [[fungal-ligninolytic-enzymes-in-industrial-applications]]
+- fungal-ligninolytic-enzymes-in-industrial-applications

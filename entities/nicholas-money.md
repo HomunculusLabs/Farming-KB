@@ -17,23 +17,23 @@ Money studied at Bristol University, where his "first and most inspiring guide t
 
 ## Mr. Bloomfield's Orchard (2002)
 
-Money's most influential popular work traces the history of mycology through its greatest practitioners. The book's 10 chapters cover:
+Money's most influential popular work traces the [[bloomfield-history-of-mycology-pioneers]] through its greatest practitioners. The book's 10 chapters cover:
 
 1. **Offensive Phalli and Frigid Caps** — Introduction to bizarre fungal morphology
-2. **Insidious Killers** — Fungal pathogens of plants and animals
+2. **Insidious Killers** — [[bloomfield-fungal-pathogens-and-parasites]] of plants and animals
 3. **What Lies Beneath** — Hidden fungal networks in soil and decomposition
 4. **Metamorphosis** — Fungal life cycles and reproductive strategies
 5. **The Odd Couple** — Symbiotic relationships (lichens, mycorrhizae)
 6. **Ingold's Jewels** — [[ingold-cecil-t]]'s aquatic fungi discovery
-7. **Siren Songs** — Fungal attraction mechanisms (pheromones, volatile compounds)
-8. **Angels of Death** — Deadly poisonous mushrooms and [[mycotoxins-and-human-health]]
+7. **Siren Songs** — Fungal attraction mechanisms (pheromones, [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]])
+8. **Angels of Death** — Deadly [[palmer-poisonous-mushrooms-deadly-species]] and [[mycotoxins-and-human-health]]
 9. **Mr. Bloomfield's Orchard** — The title chapter on fungal ecology
 
 The book opens with a quote from M.C. Cooke's *British Fungi* (1871): "It is indeed a singular and despised family to the history of which we are about to dedicate this volume."
 
 ## Scientific Research
 
-- **Spore discharge mechanics**: Money's research confirmed [[buller-ahr]]'s hypothesis that surface tension drives the ballistospore catapult mechanism, 70+ years after Buller proposed it
+- **Spore discharge mechanics**: Money's research confirmed [[buller-ahr]]'s hypothesis that [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] drives the ballistospore catapult mechanism, 70+ years after Buller proposed it
 - **Appressorium physics**: Studied the mechanical forces exerted by fungal appressoria during plant infection
 - **Rice blast research**: Investigated *Magnaporthe grisea* infection mechanics
 - **Fungal biology popularization**: Multiple books making fungi accessible to general audiences
@@ -49,6 +49,8 @@ The book opens with a quote from M.C. Cooke's *British Fungi* (1871): "It is ind
 Money's ability to explain complex mycological concepts in vivid, literary prose has made him one of the most effective science communicators in mycology. His documentation of [[buller-ahr]]'s and [[ingold-cecil-t]]'s work ensures their contributions remain accessible to new generations.
 
 ## See Also
+
+- [[nicholas-money-mycologist]]
 
 - [[buller-ahr]] — Money documented Buller's spore discharge research
 - [[ingold-cecil-t]] — Money documented Ingold's aquatic fungi discovery (book dedicated to him)
@@ -73,7 +75,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +117,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

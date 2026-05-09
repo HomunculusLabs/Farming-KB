@@ -26,7 +26,7 @@ aliases:
 
 ## Overview
 
-**Fire OG** is an indica-dominant hybrid cannabis strain created by crossing **SFV OG** (San
+**Fire OG** is an indica-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] created by crossing **SFV OG** (San
 Fernando Valley OG) with an **OG Kush** backcross. Developed in Southern California during
 the early 2000s medical cannabis era, Fire OG has become a staple of the West Coast legacy
 strain catalog.
@@ -54,7 +54,7 @@ extraordinary density of bright orange pistils, which often appear to engulf the
 surface, giving the impression of embers or flame.
 
 Trichome coverage is heavy, with a thick layer of milky-white to amber glandular
-trichomes. The resin production is abundant, making buds sticky to the touch with a
+trichomes. The [[cannabis-glandular-trichome-types-resin-production-clarke]] is abundant, making buds sticky to the touch with a
 slightly oily texture. Interior calyxes may show subtle purple hues in cooler growing
 conditions.
 
@@ -100,18 +100,18 @@ Users commonly report heavy body stone, couch-lock, and pronounced appetite stim
 The comedown is gradual, typically leading to sleep. Fire OG is best suited for evening
 or nighttime use.
 
-Medical applications include chronic pain management, insomnia, appetite loss, stress
+Medical applications include [[cannabis-chronic-pain-management]] management, insomnia, appetite loss, stress
 relief, and muscle spasms. The sedative properties make it particularly effective for
-sleep disorders.
+[[cannabis-sleep-disorders-and-insomnia]].
 
 ## Cultivation
 
 Fire OG has a flowering time of 9-10 weeks indoors, with outdoor harvest in mid-October.
 Indoor yields range from 12-16 oz per square meter under optimal conditions. The plants
-are of moderate difficulty, requiring attention to nutrient levels and humidity control.
+are of moderate difficulty, requiring attention to nutrient levels and [[cervantes-humidity-control-dehumidification]].
 
 The strain responds well to low-stress training (LST) and ScrOG methods. It is
-susceptible to powdery mildew in high-humidity environments. Terpene production peaks
+susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in high-humidity environments. Terpene production peaks
 during the final two weeks of flowering with cooler nighttime temperatures.
 
 ## See Also

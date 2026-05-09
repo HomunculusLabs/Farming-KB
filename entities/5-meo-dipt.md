@@ -10,7 +10,8 @@ tags:
   - oral-active
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/pihkal-a-chemical-love-story.md"
 ---
 
 # 5-MeO-DiPT
@@ -41,7 +42,7 @@ Some reversible MAOI (RIMA) activity has been proposed at very high doses but is
 
 ## Effects and Dosage
 
-Effects are dose-dependent. At low doses users report enhanced music appreciation, mild tactile stimulation, and a relaxed body load. Mid-range doses produce the characteristic auditory distortion alongside visual patterning, mood elevation, and increased sociability. High doses intensify all effects and may introduce confusion, nausea, and uncomfortable sensory overload. The therapeutic index is narrower than many classical psychedelics.
+Effects are dose-dependent. At low doses users report enhanced music appreciation, mild tactile stimulation, and a relaxed body load. Mid-range doses produce the characteristic auditory distortion alongside visual patterning, mood elevation, and increased sociability. High doses intensify all effects and may introduce confusion, nausea, and uncomfortable sensory overload. The [[cannabis-therapeutic-index-overview]] is narrower than many classical psychedelics.
 
 | Route | Light | Common | Strong | Heavy |
 |---|---|---|---|---|
@@ -69,12 +70,12 @@ Total experience length: 4–8 hours oral, 2–4 hours insufflated. Sleep is typ
 
 ## History and Legal Status
 
-Alexander Shulgin first synthesized 5-MeO-DiPT in the mid-1970s. It appeared in TIHKAL (1997) with a detailed entry describing synthesis and self-trials at 6–12 mg oral. Shulgin rated it +3 on the Shulgin Rating Scale and commented specifically on its auditory effects.
+Alexander Shulgin first synthesized 5-MeO-DiPT in the mid-1970s. It appeared in TIHKAL (1997) with a detailed entry describing synthesis and self-trials at 6–12 mg oral. Shulgin rated it +3 on the [[tihkal-shulgin-rating-scale]] Scale and commented specifically on its auditory effects.
 It remained relatively obscure until the early 2000s when it entered the recreational market, sold through online research-chemical vendors. Its popularity peaked around 2003–2005 before declining as supply was disrupted by scheduling actions and as users gravitated toward other compounds with more favorable effect profiles.
 
 | Country | Status | Notes |
 |---|---|---|
-| **United States** | Schedule I | Emergency scheduled 2004, permanent 2005 |
+| **[[dmt-containing-plants-united-states-halpern]]** | Schedule I | Emergency scheduled 2004, permanent 2005 |
 | **United Kingdom** | Class A | Covered under tryptamine catch-all |
 | **Germany** | BtMG Anlage I | Controlled substance |
 | **Canada** | Schedule III | Controlled under CDSA |
@@ -93,7 +94,7 @@ Legal status continues to evolve; many countries have scheduled it explicitly or
 |---|---|---|---|---|
 | **N-substituent** | Diisopropyl | Diisopropyl | Diisopropyl | Dimethyl |
 | **5-position** | Methoxy | Methoxy | H | Methoxy |
-| **Oral activity** | Yes (no MAOI) | Yes (no MAOI) | Partial | No (MAOI needed) |
+| **[[tihkal-oral-activity-mao-inhibition]]** | Yes (no MAOI) | Yes (no MAOI) | Partial | No (MAOI needed) |
 | **Oral dose** | 6–12 mg | 4–8 mg | 20–40 mg | 2–5 mg + MAOI |
 | **Duration** | 4–8 h | 4–6 h | 6–10 h | 1–2 h |
 | **Auditory effects** | Prominent | Moderate | Very prominent | Minimal |
@@ -105,11 +106,11 @@ Legal status continues to evolve; many countries have scheduled it explicitly or
 ## Relevance
 
 5-MeO-DiPT is of interest in psychopharmacology as an example of how N-alkyl substitution patterns modulate tryptamine metabolism, oral bioavailability, and receptor selectivity. The diisopropyl group confers metabolic stability and shifts the receptor profile relative to smaller N-alkyl substituents.
-Its distinctive auditory effects have made it a reference point in discussions of serotonergic hallucinogen phenomenology. The compound has been detected in forensic toxicology cases, sometimes in combination with [[lsd]], or other tryptamines. Its limited therapeutic index and mixed safety profile have confined research interest relative to classical psychedelics like [[dmt]].
+Its distinctive auditory effects have made it a reference point in discussions of serotonergic hallucinogen phenomenology. The compound has been detected in forensic toxicology cases, sometimes in combination with [[lsd]], or other tryptamines. Its limited therapeutic index and mixed [[cannabis-safety-profile-and-overdose-risk]] have confined research interest relative to classical psychedelics like [[dmt]].
 Structurally related compounds such as [[4-ho-met]], and [[3-meo-pce]]
 
 - [[5-meo-mipt]] — Closest structural analogue, more visual than auditory
 - [[dmt]] — Short alias for DMT
 - [[4-ho-met]] — 4-HO-MET, "Metocin," light tryptamine psychedelic
-- [[lsd]] — Lysergic acid diethylamide, reference classical psychedelic
-- [[mdma]] — Empathogen-entactogen, frequently encountered in combination contexts
+- [[lsd]] — [[ergot-and-lysergic-acid-history]] diethylamide, reference classical psychedelic
+- mdma — Empathogen-entactogen, frequently encountered in combination contexts

@@ -26,7 +26,7 @@ sources:
 
 ## Overview
 
-**Echinacea angustifolia** DC. (narrow-leaved purple coneflower) is a perennial herbaceous flowering plant in the family Asteraceae, native to the prairies and plains of central North America. It is one of three *Echinacea* species used medicinally (alongside *E. purpurea* and *E. pallida*) and is widely regarded as the most potent immunostimulatory species of the genus.
+**Echinacea angustifolia** DC. (narrow-leaved purple coneflower) is a perennial herbaceous flowering plant in the family Asteraceae, native to the prairies and plains of central [[psilocybin-north-america-pacific-northwest]]. It is one of three *Echinacea* species used medicinally (alongside *E. purpurea* and *E. pallida*) and is widely regarded as the most potent immunostimulatory species of the genus.
 
 The plant has a long history of use among Plains Indigenous peoples, who used the root for treating infections, snake bites, and pain relief.
 It entered Western herbal medicine in the late 19th century and became one of the best-selling herbal supplements in North America and Europe during the 1990s and 2000s, primarily marketed for cold and flu prevention and immune support.
@@ -36,7 +36,7 @@ Indigenous peoples of the Great Plains — including the Lakota, Cheyenne, Pawne
 European-American settlers learned of the plant's properties from Indigenous peoples in the 1870s.
 By the 1890s, *Echinacea* preparations were among the most prescribed medicines by Eclectic physicians in the United States. The popularity declined with the rise of antibiotics in the 1930s and 1940s, but was revived in the 1970s by European phytotherapists, particularly in Germany where standardized preparations became widely prescribed.
 
-Modern research has identified **alkylamides** (specifically dodeca-2E,4E,8Z,10E/Z-tetraenoic acid isobutylamides) as the primary bioactive compounds responsible for immunomodulatory activity. *E. angustifolia* root typically contains higher alkylamide concentrations than *E. purpurea*, supporting its reputation for greater potency.
+Modern research has identified **alkylamides** (specifically dodeca-2E,4E,8Z,10E/Z-tetraenoic acid isobutylamides) as the primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] responsible for immunomodulatory activity. *E. angustifolia* root typically contains higher alkylamide concentrations than *E. purpurea*, supporting its reputation for greater potency.
 
 ## Taxonomy
 
@@ -76,7 +76,7 @@ The species is listed as threatened or endangered in several U.S. states, includ
 
 The root is the primary medicinal tissue and contains a complex mixture of bioactive compounds:
 
-- **Alkylamides (alkamides):** The signature constituents, particularly dodeca-2E,4E,8Z,10E/Z-tetraenoic acid isobutylamides. Concentrations range from 0.01–0.5% in dried root. These are the primary immunomodulatory compounds and act as cannabinoid receptor type 2 (CB2) agonists.
+- **Alkylamides (alkamides):** The signature constituents, particularly dodeca-2E,4E,8Z,10E/Z-tetraenoic acid isobutylamides. Concentrations range from 0.01–0.5% in dried root. These are the primary immunomodulatory compounds and act as [[cannabis-cannabinoid-receptor-pharmacology]] type 2 (CB2) agonists.
 - **Caffeic acid derivatives:** Echinacoside (0.5–2.0%), cynarin, chlorogenic acid. Echinacoside is an antioxidant and has demonstrated antiviral activity in vitro.
 - **Polysaccharides:** Arabinogalactan, xyloglucan, and fucogalactoxyloglucan with molecular weights of 10–50 kDa. These stimulate phagocyte activity.
 - **Essential oil:** Bornyl acetate, germacrene D, pentadecane, and other sesquiterpenes (0.1–0.3% in root).
@@ -87,7 +87,7 @@ The root is the primary medicinal tissue and contains a complex mixture of bioac
 The pharmacological profile of *E. angustifolia* is dominated by immunomodulatory activity:
 
 - **Immunostimulation:** Alkylamides activate phagocytosis by neutrophils and macrophages. In vitro studies show 20–30% enhancement of phagocytic activity at therapeutic concentrations. Alkylamides also inhibit cyclooxygenase and 5-lipoxygenase, producing anti-inflammatory effects.
-- **CB2 receptor modulation:** The primary alkylamides are selective CB2 receptor agonists (EC50 ~50 nM), providing a mechanistic basis for anti-inflammatory activity. This cannabinoid receptor interaction was discovered in 2002 and represents a significant finding for understanding the herb's immunomodulatory properties.
+- **CB2 receptor modulation:** The primary alkylamides are selective CB2 [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] (EC50 ~50 nM), providing a mechanistic basis for anti-inflammatory activity. This cannabinoid receptor interaction was discovered in 2002 and represents a significant finding for understanding the herb's immunomodulatory properties.
 - **Antiviral activity:** Echinacoside and chicoric acid inhibit viral replication in vitro against influenza, herpes simplex, and rhinovirus. Clinical relevance of these in vitro findings remains uncertain.
 - **Antioxidant activity:** Caffeic acid derivatives and flavonoids demonstrate significant free radical scavenging in DPPH and ORAC assays.
 - **Wound healing:** Traditional topical use is supported by studies showing alkylamides stimulate fibroblast proliferation and collagen synthesis.
@@ -103,7 +103,7 @@ In herbal medicine, the dried root is prepared as tinctures (1:5 or 1:10 in 60�
 
 The aerial parts (flowers, leaves) have lower alkylamide content than the root and are considered less potent, though they contain higher levels of polysaccharides and caffeic acid derivatives.
 
-In permaculture and ecological restoration, *E. angustifolia* is valued as a **native prairie species** that supports pollinators (particularly native bees and butterflies), is drought-resistant, and improves soil structure through its deep taproot. It is increasingly included in native seed mixes for prairie restoration projects throughout the Great Plains region.
+In permaculture and ecological restoration, *E. angustifolia* is valued as a **native prairie species** that supports pollinators (particularly native bees and butterflies), is drought-resistant, and improves soil structure through its deep taproot. It is increasingly included in native seed mixes for [[comparison-prairie-restoration-vs-silvopasture]] projects throughout the Great Plains region.
 
 ### Harvesting and Sustainability
 
@@ -114,5 +114,5 @@ Wild harvesting has been a significant conservation concern. Commercial demand p
 - [[astragalus-membranaceus]] — Another deep-rooted immunomodulatory herb used in traditional medicine
 - [[spilanthes-acmella]] — Spilanthes, an immunostimulatory herb with a different mechanism
 - [[taraxacum-officinale]] — Dandelion, another deep-rooted Asteraceae with traditional medicinal use
-- goldenseal — Hydrastis canadensis, another overharvested native American medicinal plant
+- goldenseal — Hydrastis canadensis, another overharvested [[halpern-sacramental-peyote-and-native-american-church]] medicinal plant
 - [[verbascum-thapsus]] — Mullein, a co-administered herb for respiratory conditions in traditional practice

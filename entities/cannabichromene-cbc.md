@@ -11,7 +11,7 @@ type: entity
 # Cannabichromene (CBC)
 
 **Type:** Chemical / Phytocannabinoid
-**Category:** Minor cannabis cannabinoid
+**Category:** Minor [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]
 **Also known as:** CBC, cannabichromene
 
 ## Overview
@@ -28,7 +28,7 @@ research.
 - Molecular formula: C21H30O2
 - Non-psychoactive cannabinoid
 - Biosynthesized from cannabigerolic acid (CBGA) via CBCA synthase
-- Present in both Cannabis sativa and Cannabis indica
+- Present in both [[comparison-cannabis-sativa-vs-cannabis-indica]] and Cannabis indica
 - Exists as CBC-acid (CBCA) in raw, fresh cannabis
 
 ### Mechanism of Action

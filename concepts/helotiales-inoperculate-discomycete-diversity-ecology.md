@@ -1,5 +1,5 @@
 ---
-title: "Helotiales - Inoperculate Discomycete Diversity and Ecology"
+title: "Helotiales - helotiales inoperculate discomycete diversity ecology Diversity and Ecology"
 created: 2026-04-26
 tags:
   - ascomycota
@@ -17,10 +17,10 @@ type: concept
 # Helotiales: Inoperculate Discomycete Diversity and Ecology
 
 The Helotiales is one of the largest and most ecologically diverse
-orders of cup fungi (discomycetes) within the class Leotiomycetes
+orders of [[bloomfield-truffle-evolution-cup-fungi-hypogeous]] (discomycetes) within the class Leotiomycetes
 of the [[pezizales-discomycete-ascomycete-diversity]]. The order
-encompasses endophytes, mycorrhizal fungi, plant pathogens, and
-saprobes of litter and woody debris, making it one of the most
+encompasses endophytes, [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], plant pathogens, and
+saprobes of litter and [[fungal-succession-woody-debris-ecology]], making it one of the most
 ecologically heterogeneous groups of ascomycetes.
 
 ## Morphology and Classification
@@ -74,14 +74,14 @@ well-characterized:
 ### Plant Pathogens
 Several Helotiales are significant plant pathogens. Sclerotinia
 species cause damping-off, stem rot, and fruit rot in a wide
-range of hosts. Monilinia species cause brown rot of stone
+range of hosts. Monilinia species cause [[comparison-brown-rot-vs-white-rot-bioremediation]] of stone
 fruits. These pathogens typically overwinter as sclerotia in
 soil and produce apothecia that release ascospores to initiate
 new infections during favorable conditions.
 
 ### Endophytes and Mycorrhizal Fungi
 Many Helotiales function as endophytes, living asymptomatically
-within plant tissues. The dark septate endophytes (DSE), which
+within plant tissues. The dark [[dark-septate-endophytes-root-colonizing-fungi]] (DSE), which
 are common root colonizers of plants in stressed environments,
 include numerous helotialean species. See
 [[ascomycota-phylogeny-major-classes-lineages]]

@@ -17,7 +17,7 @@ sources:
   - Kirtikar, K.R., Basu, B.D. (1918). "Indian Medicinal Plants." 2nd Edition. Periodical Expert Books, Delhi.
   - Chopra, R.N., Nayar, S.L., Chopra, I.C. (1956). "Glossary of Indian Medicinal Plants." CSIR, New Delhi.
   - Williamson, E.M. (2002). "Major Herbs of Ayurveda." Churchill Livingstone.
-  - Sabu, K.K., Rout, J. (2002). "Seed germination studies in Terminalia bellerica Roxb." Indian Journal of Forestry 25(1): 76-78.
+  - Sabu, K.K., Rout, J. (2002). "[[cannabis-seed-germination-methods]] studies in Terminalia bellerica Roxb." Indian Journal of Forestry 25(1): 76-78.
 created: 2026-04-28
 ---
 
@@ -59,11 +59,11 @@ The species is valued in traditional medicine for its astringent, anti-inflammat
 
 **Fruit:** Drupe, 2-3 cm diameter, ovoid to subglobose, grayish-green to brown when ripe. Exocarp thin, pubescent when young. Mesocarp thick, fibrous, sweetish and astringent. Endocarp hard, stony, containing a single seed. Fruits mature November-February.
 
-The dried fruit is roughly the size and shape of a small plum, with a characteristic five-ridged appearance. The pericarp contains the highest concentration of bioactive compounds.
+The dried fruit is roughly the size and shape of a small plum, with a characteristic five-ridged appearance. The pericarp contains the highest concentration of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
 
 ## Distribution and Habitat
 
-T. bellerica is native to the Indian subcontinent and Southeast Asia, with a natural range extending from India and Sri Lanka through Nepal, Bangladesh, Myanmar, Thailand, Laos, Cambodia, and Vietnam. It is also cultivated in other tropical regions.
+T. bellerica is native to the Indian subcontinent and [[psilocybe-southeast-asia-pacific]], with a natural range extending from India and Sri Lanka through Nepal, Bangladesh, Myanmar, Thailand, Laos, Cambodia, and Vietnam. It is also cultivated in other tropical regions.
 
 The species is found in deciduous and semi-evergreen forests from sea level to approximately 1,200 meters elevation. It grows on a wide variety of soil types including sandy, loamy, and lateritic soils, and tolerates both seasonal drought and moderate waterlogging.
 
@@ -97,7 +97,7 @@ The dried fruit of T. bellerica contains a complex mixture of phytochemicals:
 
 **Immunomodulatory:** Enhances both humoral and cell-mediated immune responses. Increases antibody titers, phagocytic activity, and lymphocyte proliferation in animal models.
 
-**Antimicrobial:** Active against Gram-positive bacteria (Staphylococcus aureus, Streptococcus pyogenes), Gram-negative bacteria (Escherichia coli, Pseudomonas aeruginosa), and fungal pathogens (Candida albicans, Aspergillus niger).
+**Antimicrobial:** Active against Gram-positive bacteria (Staphylococcus aureus, Streptococcus pyogenes), Gram-negative bacteria (Escherichia coli, Pseudomonas aeruginosa), and [[bloomfield-fungal-pathogens-and-parasites]] ([[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], Aspergillus niger).
 
 **Gastroprotective:** Reduces gastric acid secretion, increases mucin production, and protects against experimentally induced gastric ulcers. The astringent tannins form a protective coating on gastric mucosa.
 
@@ -111,7 +111,7 @@ T. bellerica is one-third of Triphala ("three fruits"), the most important polyh
 2. **Bibhitaki** (Terminalia bellerica) — astringent and anti-inflammatory
 3. **Amalaki** (Emblica officinalis) — rejuvenative and antioxidant
 
-In the Triphala formulation, bibhitaki specifically targets Kapha dosha and is considered to support respiratory function, promote healthy elimination, and nourish the eyes and hair. The synergy between the three fruits produces effects greater than the sum of individual components, with enhanced bioavailability and complementary pharmacological actions.
+In the Triphala formulation, bibhitaki specifically targets Kapha dosha and is considered to support respiratory function, promote healthy elimination, and nourish the eyes and hair. The synergy between the three fruits produces effects greater than the sum of individual components, with [[staycare-surfactant-enhanced-bioavailability-in-fungal-bioremediation]] and complementary pharmacological actions.
 
 ## Cultivation and Agroforestry
 
@@ -124,6 +124,8 @@ In permaculture and agroforestry systems, T. bellerica serves as a large canopy 
 **Timber:** The wood is hard, durable, and moderately heavy, used for construction, furniture, tool handles, and boat building. Heartwood is reddish-brown and resistant to termites.
 
 ## See Also
+
+- [[terminalia-ferdinandiana]]
 
 - [[terminalia-chebula]]
 - [[terminalia-arjuna]]

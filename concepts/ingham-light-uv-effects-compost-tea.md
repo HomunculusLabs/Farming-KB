@@ -1,13 +1,6 @@
 ---
-title: Light and UV Effects on Compost Tea Organisms
-created: 2026-04-28
-tags: [UV-light, compost-tea, sunlight, organism-survival, foliar-spray]
-date: 2026-04-28
-updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
-type: concept
----
 
+---
 # Light and UV Effects on Compost Tea Organisms
 
 ## Sun Tea Misconceptions
@@ -52,9 +45,9 @@ while still spreading adequately on the leaf surface.
 
 ## Pivot Irrigation and Daytime Application
 
-Because pivot [[compost-tea-brewing-equipment-ingham]]
-- [[ingham-turf-lawn-compost-tea-programs]]
-- [[ingham-seaweed-sea-minerals-compost-tea]]
+Because pivot compost-tea-brewing-equipment-ingham
+- ingham-turf-lawn-compost-tea-programs
+- ingham-seaweed-sea-minerals-compost-tea
 ## Practical Considerations
 
 When working with Light and UV Effects on Compost Tea Organisms, several practical factors should be
@@ -114,3 +107,10 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+- [[ingham-field-guide-compost-tea-application-rates]]
+- [[ingham-osmotic-shock-sugar-selection-bacteria-fungi]]
+- [[ingham-dissolved-oxygen-critical-thresholds-compost-tea]]
+- [[mixed-microbial-challenge-organisms-surface-sterilization-testing]]
+- [[compost-tea-brewing-equipment-ingham]]
+- [[ingham-foliar-compost-tea-application]]

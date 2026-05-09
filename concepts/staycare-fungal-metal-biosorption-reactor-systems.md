@@ -1,5 +1,5 @@
 ---
-title: Fungal Metal Biosorption Reactor Systems
+title: Fungal fungal-heavy-metal-biosorption-and-detoxification Reactor Systems
 created: 2026-04-28
 tags: [bioremediation, biosorption, heavy-metals, bioreactor, fungi]
 date: 2026-04-25
@@ -11,18 +11,18 @@ type: concept
 
 # Fungal Metal Biosorption Reactor Systems
 
-Fungal biosorption is the passive uptake of dissolved metal ions by fungal
+[[dighton-fungal-biosorption-heavy-metal-remediation]] is the passive uptake of dissolved metal ions by fungal
 biomass, primarily through interactions with cell wall functional groups.
 Unlike active bioaccumulation, biosorption does not require metabolic energy
 and can occur using both living and non-living fungal material. Reactor systems
 for fungal metal biosorption have been developed to treat industrial effluents
-containing heavy metals at scale, converting laboratory findings into
+containing [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] at scale, converting laboratory findings into
 practical engineering solutions.
 
 ## Biosorption Fundamentals
 
 Biosorption relies on physicochemical interactions between metal ions in
-solution and binding sites present in the fungal cell wall. Key binding
+solution and binding sites present in the [[gadd-fungal-cell-structure]] wall. Key binding
 groups include carboxyl, phosphate, amino, sulfhydryl, and hydroxyl
 moieties found in structural polymers such as chitin, glucans, and
 glycoproteins. The binding mechanisms involve ion exchange, complexation,
@@ -73,7 +73,7 @@ dilute metal-bearing effluents.
 
 ### Packed Bed Columns
 Packed bed reactors are the most commonly applied continuous flow
-configuration for biosorption. Immobilized fungal biomass is packed into
+configuration for biosorption. [[singh-immobilized-fungal-bioreactors-wastewater-treatment]] biomass is packed into
 columns through which contaminated water passes. Residence time is a
 critical parameter; insufficient contact time markedly decreases metal
 removal. Reductions in uptake efficiency of 30 to 70 percent relative
@@ -85,7 +85,7 @@ limitations within the column.
 Stirred batch and continuous multistage reactors using fungal biomass
 have been examined for improved performance. These systems employ
 hollow-fiber microfiltration or centrifugation for biomass-liquid
-separation and are amenable to mathematical modelling for process
+separation and are amenable to [[gadd-mathematical-modelling-fungal-mycelia]] for process
 optimization.
 
 ## Equilibrium Modelling

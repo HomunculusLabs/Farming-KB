@@ -10,14 +10,15 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Colchicine, Polyploidy, and Mutagenesis in Cannabis
 
 Colchicine, polyploidy, and mutagenesis represent advanced and
-controversial techniques in cannabis breeding. While theoretically
+controversial techniques in [[oner-cannabis-breeding-fundamentals]]. While theoretically
 interesting, Cervantes strongly cautions against their practical use,
 noting that these methods have never produced agronomically superior
 cannabis and carry significant health risks.
@@ -118,7 +119,7 @@ Rather than attempting mutagenesis, breeders should:
 
 - Search for natural variation in existing seed populations
 - Use conventional breeding methods like [[cervantes-selfing-single-seed-descent]]
-- Source diverse genetics from landrace and heirloom populations
+- Source diverse genetics from [[cannabis-landrace-and-heirloom-varieties]] populations
 - Practice careful [[cannabis-genetics-and-breeding]]
 - [[cervantes-selfing-single-seed-descent]]
 - [[cervantes-tissue-culture-micropropagation]]

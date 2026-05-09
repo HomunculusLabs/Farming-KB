@@ -40,7 +40,7 @@ binding and pharmacokinetics.
 
 2C-E is part of an alkyl-substituted sub-series including 2C-D (methyl),
 2C-E (ethyl), 2C-P (propyl), and 2C-SE (selenoethyl). Increasing alkyl
-chain length generally correlates with increased duration and altered
+[[phenethylamine-chain-length-effects]] generally correlates with increased duration and altered
 effects character within this series.
 
 ## Dosage and Administration
@@ -64,7 +64,7 @@ described as more "solid" and "structured" than the lighter visuals of 2C-B.
 
 Cognitive effects are equally pronounced, producing deep philosophical and
 existential thinking, profound introspection, and sometimes confrontational
-experiences. Complex thought loops and intense ego dissolution are possible
+experiences. Complex thought loops and intense [[psilocybin-ego-dissolution-mechanisms]] are possible
 at higher doses. Emotional effects vary from profound awe to significant
 anxiety.
 

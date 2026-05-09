@@ -82,7 +82,7 @@ Calea, distributed across open or scrubby hillsides in tropical America.
 Several species of Calea enter into folk medicine in various parts of Latin
 America, but C. zacatechichi appears to be unique in its psychoactive
 applications. The genus is native to the Americas and is most diverse in
-Mexico and Central America.
+Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
 
 ## Cultural Significance
 
@@ -93,16 +93,16 @@ experiences. This distinguishes it from virtually all other New World
 hallucinogenic plants, which are typically used for divination, healing, or
 communal ritual while awake. The Chontal practice of seeking verbal
 communication with spirits during dream states reflects a sophisticated
-understanding of altered states of consciousness and their potential utility.
+understanding of [[weil-the-natural-mind-altered-states-normalcy]] of consciousness and their potential utility.
 
 ## Discovery and Documentation
 
 The psychoactive properties of Calea zacatechichi were among the last to be
-documented by ethnobotanists working in Mexico. Richard Evans Schultes
+documented by ethnobotanists working in Mexico. Richard [[richard-evans-schultes-updated]]
 described it as a "recently discovered hallucinogen," reflecting the fact
-that its use was unknown to science until the mid-to-late twentieth century,
-long after the major Mexican hallucinogens like psilocybin mushrooms,
-morning glories, and peyote had been extensively studied. This late
+that its use was unknown to science until the mid-to-late [[coleman-louis-savier-twentieth-century-maraicher]],
+long after the major Mexican hallucinogens like [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]],
+[[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]], and peyote had been extensively studied. This late
 discovery may be attributed to the plant's inconspicuous appearance, its
 relatively restricted use by a single indigenous group, and the private,
 individualized nature of the practice (dreaming) compared to the communal

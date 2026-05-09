@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-Steve Solomon classifies vegetables into three tiers based on their soil fertility requirements: low-demand, medium-demand, and high-demand. This classification system is central to his approach in [[complete-organic-fertilizer-cof]]. No additional side-dressing is necessary.
+[[steve-solomon]] classifies vegetables into three tiers based on their soil fertility requirements: low-demand, medium-demand, and high-demand. This classification system is central to his approach in [[complete-organic-fertilizer-cof]]. No additional side-dressing is necessary.
 
 ### Root Crops
 - **Carrots**: Perform best in deeply dug, loose soil with moderate fertility. Excess nitrogen causes hairy, forked roots rather than large, clean ones. They are among the most space-efficient vegetables, producing well in closely spaced rows.
@@ -35,11 +35,11 @@ Steve Solomon classifies vegetables into three tiers based on their soil fertili
 
 ## Medium-Demand Vegetables
 
-Medium-demand vegetables produce satisfactory results with the basic fertility program, but will grow significantly better with periodic side-dressings of COF or other concentrated organic nutrients. These are the workhorse crops of the vegetable garden.
+Medium-demand vegetables produce satisfactory results with the basic fertility program, but will grow significantly better with periodic side-dressings of COF or other [[hamilton-concentrated-organic-fertilizer-products]] nutrients. These are the workhorse crops of the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]].
 
 ### Cole Crops
 - **Cabbage**: Requires generous spacing — Solomon recommends at least 24 inches between plants. Yield per plant is directly proportional to the space allocated. Overcrowded cabbage produces small, loose heads. Fall cabbage generally performs better than spring cabbage in most climates.
-- **Broccoli**: Produces a central head followed by side shoots. Continuous production requires steady nutrient availability, making side-dressing valuable.
+- **Broccoli**: Produces a central head followed by side shoots. Continuous production requires steady [[ph-and-nutrient-availability-garden-soils]], making side-dressing valuable.
 - **Kale**: Extremely cold-hardy; improves in flavor after frost. One of the most productive leafy greens per square foot.
 - **Kohlrabi**: Forms an edible bulb above ground on a short stem. Sensitive to root maggots like other brassicas, but the thickened stem is partially resistant. Requires about four square feet per plant for seed production.
 
@@ -49,7 +49,7 @@ Medium-demand vegetables produce satisfactory results with the basic fertility p
 - **Leeks**: Three types exist — autumn (fastest, least cold-hardy), winter (toughest, most cold-hardy, most common in seed catalogs), and spring (bred to bolt late). Leeks must be dug, not pulled. Remarkably cold-hardy.
 
 ### Other Medium-Demand Crops
-- **Sweet corn**: Wind-pollinated, requiring a planting area at least two rows wide (six plants minimum) for adequate ear fill. Each plant needs at least 24 square feet. Hybrid varieties outproduce open-pollinated types by at least 50 percent, though OP varieties may offer superior nutrition.
+- **Sweet corn**: Wind-pollinated, requiring a planting area at least two rows wide (six plants minimum) for adequate ear fill. Each plant needs at least 24 square feet. [[cervantes-hybrid-varieties-types]] outproduce open-pollinated types by at least 50 percent, though OP varieties may offer superior nutrition.
 - **Beets**: Dual-purpose crop (roots and greens). Side-dressing with COF every few weeks significantly improves root size.
 - **Swiss chard**: Prolific leaf producer throughout the growing season. Individual leaves can be harvested over many weeks without killing the plant.
 - **Potatoes**: Classified as medium-demand, though Solomon cautions against excessive manure or compost, which can cause scab and promote lush foliage at the expense of tuber production. Late varieties yield more than early ones. Certified disease-free seed is essential — saving your own seed leads to progressive virus accumulation and declining yields.
@@ -57,7 +57,7 @@ Medium-demand vegetables produce satisfactory results with the basic fertility p
 
 ## High-Demand Vegetables
 
-High-demand vegetables require the most intensive fertility management. Without substantial inputs of high-quality compost, well-decomposed manure, or concentrated organic fertilizers like COF with extra side-dressings, these crops will be disappointing.
+High-demand vegetables require the most intensive fertility management. Without substantial inputs of high-quality compost, well-decomposed manure, or concentrated [[hamilton-organic-fertilizers-and-plant-nutrition]] like COF with extra side-dressings, these crops will be disappointing.
 
 ### Solanaceous Crops
 - **Tomatoes**: Need substantial nutrients from planting through fruiting. Solomon recommends starting seedlings in ordinary garden soil amended with compost and COF rather than sterile potting mix, because seedlings that thrive in real garden soil from the start are more likely to thrive to the end. Indeterminate varieties produce over a long season; determinate types concentrate their crop.
@@ -66,7 +66,7 @@ High-demand vegetables require the most intensive fertility management. Without 
 
 ### Other High-Demand Crops
 - **Celery**: One of the most demanding vegetables in the garden. Requires constantly moist, highly fertile soil. Growing celery successfully without substantial compost or COF inputs is nearly impossible.
-- **Cauliflower**: Extremely demanding of both nutrients and consistent moisture. Any stress (drought, nutrient deficiency, temperature fluctuation) can cause buttoning (forming tiny heads instead of full curds). Weaker-rooting varieties are particularly susceptible to cabbage maggot damage.
+- **Cauliflower**: Extremely demanding of both nutrients and consistent moisture. Any stress (drought, [[cannabis-grow-nutrient-deficiency-problem-solving]], temperature fluctuation) can cause buttoning (forming tiny heads instead of full curds). Weaker-rooting varieties are particularly susceptible to cabbage maggot damage.
 - **Melons**: Require warm soil, full sun, and high fertility. In short-season climates, starting transplants is essential.
 - **Winter squash and pumpkins**: Large-vining crops that need substantial space and nutrition to produce well. Each hill should be enriched with compost and COF.
 
@@ -82,7 +82,7 @@ The demand-level system has practical consequences for garden planning:
 
 4. **Fertility budgeting**: If compost or manure is limited, use it where it matters most. A small quantity of COF applied strategically to high-demand crops produces more benefit than spreading the same material thinly across everything.
 
-5. **Climate adjustment**: In cool maritime climates where soil temperatures remain low, nutrient release from organic matter is slower. In these conditions, even medium-demand crops may benefit from COF side-dressings, and high-demand crops may require supplemental liquid feeding (fertigation or foliar sprays) to compensate for the slow decomposition rate.
+5. **Climate adjustment**: In cool maritime climates where soil temperatures remain low, nutrient release from organic matter is slower. In these conditions, even medium-demand crops may benefit from COF side-dressings, and high-demand crops may require supplemental liquid feeding (fertigation or foliar sprays) to compensate for the slow [[decomposition]] rate.
 
 6. **Observation-based adjustment**: Solomon urges gardeners to let plant performance guide fertility decisions. If a crop shows deficiency symptoms (yellowing leaves, stunted growth, poor fruit set), it is telling you its demand level has not been met. Respond by increasing inputs for that crop or bed next season. If a crop produces excessive foliage but poor fruit or root development, it may be receiving too much nitrogen relative to phosphorus and potassium.
 

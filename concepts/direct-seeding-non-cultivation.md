@@ -1,5 +1,5 @@
 ---
-title: Direct Seeding Non-Cultivation
+title: comparison-seed-starting-indoors-vs-direct-seeding-techniques Non-Cultivation
 tags: [agriculture, rice-farming, no-till, direct-seeding, grain-production, sustainable-agriculture]
 date: 2026-04-28
 updated: 2026-04-28
@@ -13,13 +13,13 @@ type: concept
 
 Direct seeding non-cultivation is [[natural-farming]] could be applied in other areas and to the
 raising of other indigenous crops. In areas where water is less available,
-upland rice, buckwheat, sorghum, or millet might replace flooded rice. Instead
-of white clover, other varieties of clover, alfalfa, vetch, or lupine might
+[[fukuoka-natural-upland-rice-minor-grains]], buckwheat, sorghum, or millet might replace flooded rice. Instead
+of [[fukuoka-white-clover-cover-crop-system]], other varieties of clover, alfalfa, vetch, or lupine might
 serve as field cover. Testing centres across Japan produced no evidence to
 contradict the method's universal applicability. The speed with which direct
 seeding was spreading in Okayama Prefecture was described as eye-opening.
 
-"There is probably no easier, simpler method for growing grain," but it took
+"There is probably no easier, simpler [[query-what-is-the-kratky-method-for-growing-cannabis]] grain," but it took
 Fukuoka over thirty years to reach this simplicity.
 
 ## See Also
@@ -103,4 +103,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

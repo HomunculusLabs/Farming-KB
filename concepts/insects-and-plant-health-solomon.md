@@ -14,7 +14,7 @@ Updated: 2026-04-18
 
 Source: Gardening When It Counts, Steve Solomon, Chapter 9
 
-Solomon's approach to insects and disease is grounded in the organic philosophy of Sir Albert Howard: healthy plants grown in healthy soil resist pests and diseases. But Solomon is careful to note the exceptions.
+Solomon's approach to insects and disease is grounded in the organic philosophy of Sir Albert Howard: healthy plants grown in healthy soil resist [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. But Solomon is careful to note the exceptions.
 
 ## The Howard Principle
 
@@ -53,14 +53,14 @@ A brand-new garden in previously uncultivated soil may have excellent mineral co
 
 ## Practical Approach
 
-Solomon's integrated pest management strategy:
+Solomon's [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management strategy:
 
 1. **Start with soil**: Build soil fertility and biological activity as the foundation
 2. **Choose adapted varieties**: Select varieties proven to perform in your climate. This is the single most important pest prevention step
 3. **Grow healthy seedlings**: Avoid transplant shock; use [[solomon-complete-organic-fertilizer-guide]] or high-quality compost
 5. **Space appropriately**: Crowded plants compete for resources and are more vulnerable
 6. **Water properly**: Stressed plants attract pests
-7. **Accept some damage**: A healthy garden will still have some insects. The goal is management, not elimination
+7. **Accept some damage**: A [[query-how-to-build-healthy-garden-soil]] will still have some insects. The goal is management, not elimination
 
 ## Flea Beetles
 
@@ -74,7 +74,7 @@ Flea beetles are Solomon's most detailed pest case study:
 - Regional plagues occur near large-scale brassica production
 
 Management:
-- Use floating row covers on seedlings
+- Use floating [[solomon-row-covers-and-season-extension]] on seedlings
 - Time plantings to avoid peak beetle emergence
 - Choose resistant varieties when available
 - Maintain healthy, rapid growth so plants outgrow the vulnerable stage quickly
@@ -89,7 +89,7 @@ Solomon connects plant disease susceptibility directly to nutritional status:
 - Nitrogen imbalance (too much or wrong form) increases disease vulnerability
 - Trace mineral deficiencies compromise plant immune function
 
-This is why Solomon's complete organic fertilizer (COF) includes balanced amounts of calcium, magnesium, phosphorus, potassium, and trace minerals — not just NPK.
+This is why Solomon's complete [[complete-organic-fertilizer-cof-recipe-solomon]] (COF) includes balanced amounts of calcium, magnesium, phosphorus, potassium, and trace minerals — not just NPK.
 
 ## When to Take Action
 

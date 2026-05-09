@@ -23,7 +23,7 @@ sources:
 
 **Equisetum telmateia** is a large, perennial horsetail species in the family Equisetaceae, commonly known as the great horsetail or giant horsetail. It is the tallest native horsetail in Europe.
 
-The species produces two distinct types of stems: a non-photosynthetic, fertile stem that emerges in early spring bearing a cone-like strobilus, and a green, sterile, photosynthetic stem that persists through summer.
+The species produces two distinct types of stems: a non-photosynthetic, fertile stem that emerges in [[coleman-overwintered-onions-and-early-spring-crops]] bearing a cone-like strobilus, and a green, sterile, photosynthetic stem that persists through summer.
 
 Like all Equisetum species, it is a living fossil with a lineage dating back over 300 million years to the Paleozoic era, when tree-sized horsetails dominated Carboniferous forests.
 
@@ -35,7 +35,7 @@ The species is notable for its ability to bioaccumulate silica, with stems conta
 
 **Authority:** Ehrhart published the species in 1783. The specific epithet *telmateia* derives from Greek *telmateios* (of a swamp), referring to its wetland habitat.
 
-Two subspecies are recognized: ssp. *telmateia* (European great horsetail) and ssp. *braunii* (Milde) Hauke (North American great horsetail), which is sometimes treated as a separate species.
+Two subspecies are recognized: ssp. *telmateia* (European great horsetail) and ssp. *braunii* (Milde) Hauke ([[growing-gourmet-north-american-reishi-species]] great horsetail), which is sometimes treated as a separate species.
 
 **Fertile stems** emerge in early spring (March–April), reaching 30–60 cm tall. They are unbranched, pale whitish-cream, and non-photosynthetic.
 
@@ -43,7 +43,7 @@ Each fertile stem terminates in a solitary, ellipsoid strobilus (cone) 20–40 m
 
 Fertile stems wither and die after spore release, typically within 4–6 weeks of emergence.
 
-**Sterile stems** emerge later (April–May) and persist through the growing season. They reach 60–150 cm (occasionally up to 200 cm), making this the tallest European horsetail.
+**Sterile stems** emerge later (April–May) and persist through the [[savory-growing-season-and-non-growing-season-management]]. They reach 60–150 cm (occasionally up to 200 cm), making this the tallest European horsetail.
 
 Sterile stems are green, heavily ribbed (12–30 ridges), and bear whorls of slender side branches at each node. The branches are themselves branched, giving the plant a bushy, conifer-like appearance.
 
@@ -63,7 +63,7 @@ The North American subspecies (*braunii*) occurs along the Pacific coast from so
 
 **Habitat** is primarily damp, shaded environments. The species grows along stream banks, in damp woodlands, marsh edges, ditches, and wet meadows.
 
-It prefers nutrient-rich, alluvial soils with high organic matter content. It is less tolerant of acidic, nutrient-poor soils than *E. arvense*.
+It prefers nutrient-rich, alluvial soils with high [[hamilton-composting-and-organic-matter-management]] content. It is less tolerant of acidic, nutrient-poor soils than *E. arvense*.
 
 The species is strongly associated with riparian woodland, particularly alder-ash carr and willow carr communities in lowland floodplains.
 

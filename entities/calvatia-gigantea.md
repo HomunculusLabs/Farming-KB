@@ -15,11 +15,11 @@ Calvatia gigantea, commonly known as the giant puffball, is a saprotrophic
 basidiomycete fungus renowned for producing some of the largest fruiting
 bodies of any mushroom. Specimens routinely reach 30–60 cm in diameter,
 with exceptional individuals exceeding 150 cm and weighing over 20 kg.
-Found across temperate grasslands and meadows of North America and Europe,
+Found across temperate grasslands and meadows of [[psilocybin-north-america-pacific-northwest]] and Europe,
 the giant puffball is a prized edible when young and firm, and has a
-history of use in traditional wound healing and pain management. Its
+history of use in traditional wound healing and [[cannabis-pain-management-protocols]]. Its
 conspicuous size and unmistakable appearance when mature make it one of
-the most recognizable wild mushrooms.
+the most recognizable [[edible-wild-mushrooms-by-region]].
 ## Taxonomy and Naming
 | Rank | Classification |
 |------|---------------|
@@ -82,8 +82,8 @@ support its placement in Calvatia within Agaricaceae. The species name
 - Temperate grasslands, pastures, and meadows
 - Open fields, lawns, parks, and roadsides
 - Occasionally in forest edges and clearings
-- Prefers nutrient-rich soils, often in areas with livestock grazing
-- Saprotrophic: decomposes organic matter, particularly grass roots
+- Prefers nutrient-rich soils, often in areas with [[savory-livestock-grazing-planning]]
+- Saprotrophic: decomposes [[hamilton-composting-and-organic-matter-management]], particularly grass roots
 - Typically fruits singly or in small scattered groups
 ### Seasonality
 Late summer to autumn (August–November in Northern Hemisphere).
@@ -124,7 +124,7 @@ dangerous misidentification risk.
 | Amanita volva (immature) | Slicing reveals gill structure |
 | Lycoperdon perlatum | Pear-shaped, much smaller, pyramidal warts |
 ## Ethnobotanical and Traditional Use
-- **Native American**: Applied as poultice to wounds and burns; dried spore
+- **[[halpern-sacramental-peyote-and-native-american-church]]**: Applied as poultice to wounds and burns; dried spore
   mass used as a styptic agent to stop bleeding
 - **European folk medicine**: Spore powder applied to skin irritations,
   chafing, and diaper rash; used as a drying agent
@@ -137,6 +137,10 @@ agricultural regions due to habitat loss and pesticide use. Benefits from
 sustainable grazing and meadow conservation. Listed as a species of concern
 in several European countries but has no formal IUCN Red List assessment.
 ## See Also
+
+- [[trichanthera-gigantea]]
+
+- [[arundinaria-gigantea]]
 
 - [[agaricus-campestris]]
 - [[morchella-esculenta]]

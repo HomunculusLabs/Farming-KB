@@ -1,10 +1,11 @@
 ---
-title: Mazatec Mushroom Ceremonies and Ethnobotany
+title: maria-sabina-mazatec-mushroom-ceremony Ceremonies and Ethnobotany
 created: 2026-04-28
 tags: [ethnobotany, mazatec, ceremonial, history, mexico]
 date: 2026-04-25
 updated: 2026-04-25
-sources: ["raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"]
+sources: sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
 
@@ -12,7 +13,7 @@ type: concept
 
 ## Overview
 
-The ceremonial use of psilocybin mushrooms by indigenous Mesoamerican
+The ceremonial use of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] by indigenous Mesoamerican
 peoples represents one of the oldest known psychedelic traditions in
 human history. The mental use of mushrooms goes back at least seven
 thousand years and probably extends to Paleolithic times. The Mazatec
@@ -53,12 +54,12 @@ revelations" where the cognoscenti would consume green mushrooms.
 
 Catholic missionaries, in carrying out their campaign against "pagan
 idolatry," forced mushroom use into secrecy by persecuting those who
-were caught. Mushroom stones, mushroom motifs, and other cultural
+were caught. [[mckenna-mushroom-stones-of-guatemala]], mushroom motifs, and other cultural
 artifacts were viewed as pagan idols and destroyed. The widespread,
 planned destruction of this subculture nearly succeeded in completely
 erasing the ancient and rich cultural heritage of Psilocybe use in
 Mesoamerica. Despite this persecution, the ancient ceremonies persisted
-in secret, remaining hidden from outsiders until the twentieth century.
+in secret, remaining hidden from outsiders until the [[coleman-louis-savier-twentieth-century-maraicher]].
 
 ## Maria Sabina and the Wasson Revelation
 
@@ -68,7 +69,7 @@ shaman. Her mushroom veladas (ceremonial nights) were permeated with
 Catholic practices such as an altar to Christ and portraits of the
 Virgin Mary.
 
-Wasson's article "Seeking the Magic Mushroom," published in Life
+Wasson's article "Seeking the [[australian-magic-mushroom-common-names]]," published in Life
 magazine on May 13, 1957, introduced psilocybin mushrooms to millions
 of Americans. This revelation was unexpected and greatly regretted by
 Wasson, as the subsequent influx of psychedelic tourists disrupted the

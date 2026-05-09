@@ -1,5 +1,5 @@
 ---
-title: DMT Entity Encounters and the Logos
+title: DMT dmt entity encounters and the logos and the Logos
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -13,7 +13,7 @@ sources: [raw/papers/mckenna_t-tryptamines_consciousness.md]
 
 Dimethyltryptamine (DMT) produces a unique category of hallucinogenic experience
 characterized by encounters with autonomous, seemingly intelligent entities. Terence
-McKenna, in his 1983 Esalen lecture "Tryptamine Hallucinogens and Consciousness,"
+McKenna, in his 1983 Esalen lecture "[[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness,"
 provided one of the most detailed phenomenological accounts of these encounters,
 describing them as encounters with a translinguistic intelligence he called the Logos.
 Unlike other hallucinogens such as LSD or mescaline, DMT and psilocybin are reported
@@ -38,7 +38,7 @@ work directly on language centers, making the interior dialogue a central featur
 the experience. DMT is more intense but briefer in its action compared to psilocybin.
 
 The [[dmt-finnegans-wake-and-the-merry-go-raum]] ed, or domed. He references
-Joyce's Finnegans Wake term "merry go raum" (from the German Raum, meaning "space")
+Joyce's [[dmt-finnegans-wake-and-the-merry-go-raum]] term "merry go raum" (from the German Raum, meaning "space")
 to characterize this transitional chamber. In this space, one feels like a child who
 has "come out somewhere in eternity."
 
@@ -50,7 +50,7 @@ becomes the Aeon at play with colored balls but also meets entities within this 
 
 - [[psilocybin-mushroom-extraterrestrial-hypothesis]]
 - tryptamine hallucinogens quantum consciousness
-- set and setting psychedelic experience
+- [[lsd-set-and-setting-framework]] [[leary-psychedelic-experience-bardo-mapping]]
 ## Practical Considerations
 
 When working with DMT Entity Encounters and the Logos, several practical factors should be
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

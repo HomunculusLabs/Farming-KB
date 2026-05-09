@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Critchfield, W.B. (1980). "Pinus contorta — Lodgepole Pine." In: Burns, R.M. & Honkala, B.H. (eds.), Silvics of North America, Vol. 1. USDA Forest Service.
+  - Critchfield, W.B. (1980). "Pinus contorta — Lodgepole Pine." In: Burns, R.M. & Honkala, B.H. (eds.), Silvics of psilocybin-north-america-pacific-northwest, Vol. 1. USDA Forest Service.
   - Lotan, J.E. & Critchfield, W.B. (1990). "Pinus contorta." In: Silvics of North America. USDA Forest Service Agriculture Handbook 654.
   - Wheeler, N.C. & Guries, R.P. (1982). "Biogeography of Lodgepole Pine." Canadian Journal of Botany, 60(9), 1805–1814.
   - IUCN Red List (2023). "Pinus contorta."
@@ -22,7 +22,7 @@ sources:
 
 Lodgepole pine is one of the most ecologically significant conifers in western North America due to its intimate association with fire. Its serotinous cones remain closed for decades until opened by the heat of a wildfire.
 
-The species exhibits remarkable morphological variation across its range, leading to the recognition of four varieties: *P. contorta* var. *contorta* (shore pine), var. *latifolia* (Rocky Mountain lodgepole pine), var. *murrayana* (Sierra lodgepole pine), and var. *bolanderi* (Bolander pine).
+The species exhibits remarkable morphological [[psilocybin-psilocin-variation-across-flushes]] its range, leading to the recognition of four varieties: *P. contorta* var. *contorta* (shore pine), var. *latifolia* (Rocky Mountain lodgepole pine), var. *murrayana* (Sierra lodgepole pine), and var. *bolanderi* (Bolander pine).
 
 Lodgepole pine forests cover approximately 15 million hectares across western North America, making it one of the most abundant tree species on the continent.
 
@@ -48,7 +48,7 @@ The coastal variety (var. *contorta*) produces non-serotinous cones that open at
 
 ## Distribution and Habitat
 
-Lodgepole pine has the widest latitudinal range of any western North American pine, extending from the Brooks Range in Alaska (68°N) to the Sierra San Pedro Mártir in Baja California (31°N).
+Lodgepole pine has the widest latitudinal range of any western [[growing-gourmet-north-american-reishi-species]] pine, extending from the Brooks Range in Alaska (68°N) to the Sierra San Pedro Mártir in Baja California (31°N).
 
 The species occurs from sea level along the Pacific coast to approximately 3,600 meters in the southern Sierra Nevada. It is found across a broad range of habitats, from coastal bogs and sand dunes to subalpine forests and volcanic soils.
 
@@ -68,13 +68,13 @@ Post-fire lodgepole pine stands are typically dense and even-aged, with stem den
 
 The species is susceptible to mountain pine beetle (*Dendroctonus ponderosae*), which has caused extensive mortality across millions of hectares of lodgepole pine forest in western North America since the early 2000s.
 
-Climate change has exacerbated beetle outbreaks by reducing winter cold-kill events and weakening drought-stressed trees. Warmer temperatures have also increased wildfire frequency and severity across much of the species' range.
+[[dighton-fungi-climate-change-feedback]] has exacerbated beetle outbreaks by reducing winter cold-kill events and weakening drought-stressed trees. Warmer temperatures have also increased wildfire frequency and severity across much of the species' range.
 
 Lodgepole pine provides habitat for numerous wildlife species. The dense young stands offer cover for elk, moose, and various songbird species, while mature stands support cavity-nesting birds and small mammals.
 
 Red squirrels (*Tamiasciurus hudsonicus*) are important seed dispersers, caching cones in middens that can contain tens of thousands of seeds. Some cached seeds subsequently germinate, contributing to forest regeneration.
 
-The species contributes significantly to carbon sequestration in western North American forests. Its rapid growth rate and wide distribution make it an important component of regional carbon budgets.
+The species contributes significantly to [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] in western North American forests. Its rapid growth rate and wide distribution make it an important component of regional carbon budgets.
 
 ## Timber and Uses
 
@@ -84,7 +84,7 @@ Major uses include dimensional lumber, plywood, posts, poles, and pulpwood. In B
 
 The species yields a commercially important oleoresin used in the production of turpentine, rosin, and other pine-derived chemicals. Historical harvesting of pine pitch for waterproofing and medicinal purposes was widespread among Indigenous communities.
 
-Lodgepole pine has gained recognition as a bioenergy feedstock, with whole-tree utilization for pellet production gaining momentum in Canada and Scandinavia.
+Lodgepole pine has gained recognition as a bioenergy feedstock, with whole-tree utilization for [[clay-seed-pellet-production-method-concrete-mixer]] gaining momentum in Canada and Scandinavia.
 
 The species' rapid growth on marginal sites makes it attractive for carbon offset forestry projects. Several jurisdictions have incorporated lodgepole pine into afforestation programs designed to sequester atmospheric carbon.
 

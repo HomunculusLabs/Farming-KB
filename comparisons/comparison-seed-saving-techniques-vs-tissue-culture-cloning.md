@@ -16,7 +16,7 @@ type: comparison
 
 Seed saving and tissue culture cloning represent two fundamentally different
 approaches to preserving and propagating genetics. Seed saving captures the
-genetic recombination of sexual reproduction, producing offspring with variation
+genetic recombination of [[fungal-life-cycles-sexual-reproduction-metamorphosis]], producing offspring with variation
 that can be selected and adapted to local conditions. Tissue culture cloning
 captures the exact genetic identity of a proven individual through aseptic
 laboratory techniques, preserving genotype without variation. While seed saving
@@ -28,18 +28,18 @@ principles about genetic preservation and propagation.
 
 [[tissue-culture-cloning]]
 
-Tissue culture cloning — in the mushroom cultivation context covered in this
+Tissue culture cloning — in the [[accessible-mushroom-cultivation-for-disabilities]] context covered in this
 wiki — is the technique of isolating mycelium from the interior tissue of a
 mushroom fruitbody onto sterile agar medium. This captures the exact dikaryotic
 genotype of the original mushroom, preserving its proven fruiting
 characteristics, growth rate, and potency without the genetic lottery of spore
-reproduction. The process involves surface sterilization of the specimen,
+reproduction. The process involves [[challenge-organisms-nasa-microwave-surface-sterilization-testing]] of the specimen,
 excision of interior tissue under sterile conditions, transfer to nutrient agar,
 and serial subculturing to obtain a clean, contaminant-free isolate.
 
 The primary advantage of tissue culture is genetic certainty. A cloned isolate
 guarantees the same characteristics as the parent mushroom — the same fruiting
-ability, the same growth parameters, the same quality. This bypasses the
+ability, the same [[chen-maitake-growth-parameters-environmental-control]], the same quality. This bypasses the
 fundamental problem with spore cultivation: multispore grows produce genetically
 unique individuals, and many will never fruit or will perform poorly. Tissue
 culture also enables strain improvement through selective cloning — taking
@@ -47,7 +47,7 @@ tissue from the best-performing mushrooms in a grow and preserving those
 genetics permanently. Growth initiation is faster (three to seven days versus
 three to fourteen days for spores).
 
-The barriers to entry are significant. Tissue culture requires sterile technique
+The barriers to entry are significant. Tissue culture requires [[cultivator-sterile-technique-and-agar-culture]]
 — a laminar flow hood or at minimum a still-air glove box — to prevent bacterial
 and mold contamination that ruins cultures. Contamination rates are high for
 beginners, and obtaining clean isolates from wild specimens may require multiple
@@ -91,7 +91,7 @@ proven, high-performing mushroom strain. Commercial cultivators rely on cloned
 master cultures for consistency in yield, quality, and timing. Clone the best
 mushroom from a multispore grow to lock in its genetics, then maintain that
 culture as your production strain. Tissue culture is also essential for strain
-isolation from wild specimens — identifying and preserving the genetics of
+[[strain-isolation-from-wild-specimens]] specimens — identifying and preserving the genetics of
 exceptional mushrooms found in nature. The technique is for growers who have
 mastered basic mushroom cultivation and want to move from multispore uncertainty
 to strain-specific production.

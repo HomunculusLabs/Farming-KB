@@ -4,18 +4,20 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, processing, comparison, potency, equipment, chemistry]
-sources: []
+sources:
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 ## Overview
 
-Cannabis concentrates are products made by extracting and concentrating cannabinoids and terpenes from the cannabis plant. They range from relatively simple mechanical preparations (kief, dry sift) to highly refined solvent-based extracts (shatter, distillate). Potency typically ranges from 40-99% THC compared to 15-30% in raw flower.
+Cannabis concentrates are products made by extracting and concentrating cannabinoids and terpenes from the cannabis plant. They range from relatively simple mechanical preparations (kief, [[green-cannabis-dry-sift-water-extraction]]) to highly refined solvent-based extracts (shatter, distillate). Potency typically ranges from 40-99% THC compared to 15-30% in raw flower.
 
 ## Mechanical / Solventless Concentrates
 
 ### Kief
 
-Kief is the collection of trichome heads that have been separated from cannabis flower using a mesh screen or grinder with a kief catcher.
+Kief is the collection of trichome heads that have been separated from [[cervantes-cannabis-flower-anatomy]] using a mesh screen or grinder with a kief catcher.
 
 **Production**:
 - Grinders with 3-4 piece chambers have a bottom screen that catches fallen trichomes
@@ -47,7 +49,7 @@ Trichomes are separated from plant material using ice, water, and agitation, the
 
 **Process**:
 1. Mix cannabis with ice and cold water (near freezing)
-2. Agitate for 10-30 minutes (by hand or with a washing machine)
+2. Agitate for 10-30 minutes (by hand or with a [[cervantes-washing-machine-hash]])
 3. Pour through sequential bubble bags (220, 160, 120, 73, 45, 25 micron)
 4. Collect hash from each bag separately
 5. Air dry on parchment paper for 24-72 hours
@@ -143,46 +145,6 @@ A highly refined, nearly pure cannabinoid extract that has been stripped of near
 5. THC boils at approximately 315 F (157 C); CBD at approximately 356 F (180 C)
 
 **Characteristics**:
-- Clear, thick, honey-like liquid
-- Potency: 85-99% THC or CBD
-- Nearly tasteless and odorless (terpenes removed)
-- Base ingredient for vape cartridges, edibles, and tinctures
-- Terpenes are often re-added (botanical or cannabis-derived) for flavor
-
-## Comparison Table
-
-| Concentrate | THC % | Terpenes | Solvent | Consistency |
-|---|---|---|---|---|
-| Kief | 30-60% | Low-Medium | None | Powder |
-| Dry Sift | 40-70% | Medium | None | Crumbly |
-| Bubble Hash | 40-70% | Medium-High | Water | Crumbly/Pressable |
-| Rosin (flower) | 50-70% | High | None | Sap/Budder |
-| Rosin (hash) | 60-80%+ | Very High | None | Sap/Budder |
-| Live Rosin | 65-85%+ | Highest | None | Jam/Sap |
-| Shatter | 60-85% | Low-Medium | BHO/EtOH | Glass |
-| Wax/Budder | 60-85% | Medium | BHO/EtOH | Creamy |
-| Crumble | 60-85% | Medium | BHO/EtOH | Crumbly |
-| Live Resin | 60-85% | Very High | BHO | Saucy |
-| Distillate | 85-99% | None | Any | Liquid |
-
-## Consumption Methods
-
-- **Dabbing**: Heating a nail/banger with a torch and applying concentrate. Most potent and efficient method.
-- **Vaporizer pens**: Pre-filled or refillable cartridges with distillate or live resin. Discreet and convenient.
-- **Dab pens**: Portable devices for solid concentrates (wax, crumble, rosin).
-- **Topping bowls**: Sprinkle kief or crumble on top of flower in a bowl or joint.
-- **Twaxing**: Rolling a joint with rosin or hash inside or outside.
-- **Edibles**: Distillate and infused oils are used in edible production. See [[cannabis-edibles-guide]].
-- **Tinctures**: Concentrates dissolved in alcohol, glycerin, or MCT oil. See [[cannabis-tinctures-guide]].
-
-## Quality Indicators
-
-- **Color**: Light gold to amber indicates quality. Dark brown or black suggests poor processing, residual solvents, or degraded material.
-- **Aroma**: Strong, complex terpene smell indicates good preservation. Little to no smell suggests over-processing or age.
-- **Consistency**: Should be appropriate for the type (shatter should be stable, rosin should be sappy, etc.)
-- **Residual solvents**: Legal products must pass lab testing for residual solvent content. Home extracts should be thoroughly purged.
-- **Bubble test**: High-quality bubble hash and rosin will bubble and melt when heated on a nail. Contaminated material will not melt cleanly.
 ## Related
 
 - [[live-resin-processing]]
-

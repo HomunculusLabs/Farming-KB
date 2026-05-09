@@ -1,5 +1,5 @@
 ---
-title: Cannabis Vegetative Stage Management
+title: comparison-cannabis-vegetative-stage-vs-flowering-stage [[cannabis-flowering-stage-management]]
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -56,7 +56,7 @@ The vegetative stage is when cannabis builds its structure — roots, stems, and
 - Start in 1-gallon pot, upgrade to 3-5 gallon for flower
 - Transplant when roots circle the pot (check drainage holes)
 - Don't transplant during flowering (causes shock)
-- Final pot size: 3-7 gallons (soil), 5-10 gallons (living soil)
+- Final [[query-how-to-choose-the-right-pot-size-for-cannabis]]: 3-7 gallons (soil), 5-10 gallons (living soil)
 
 ## Vegetative Duration
 - From seed: 4-8 weeks before switching to flower
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

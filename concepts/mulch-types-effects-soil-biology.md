@@ -19,14 +19,14 @@ Organic mulches are an effective [[teaming-with-microbes-overview]] is that diff
 |-----------|-------------------|----------------------|------------|
 | Vegetables, annuals | Nitrate (NO3-) | Bacterial | Grass clippings, compost |
 | Lawns | Nitrate (NO3-) | Bacterial | Grass clippings, compost |
-| Perennials | Ammonium (NH4+) | Fungal | Wood chips, leaves |
+| Perennials | Ammonium (NH4+) | Fungal | [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]], leaves |
 | Trees, shrubs | Ammonium (NH4+) | Fungal | Wood chips, bark |
 | Brassicas | Nitrate (NO3-) | Bacterial | Compost, grass clippings |
-| Fruit trees | Ammonium (NH4+) | Fungal | Wood chips, leaf mold |
+| [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] | Ammonium (NH4+) | Fungal | Wood chips, [[comparison-leaf-mold-composting-vs-hot-composting-method]] |
 
 ## pH and Mulch Selection
 
-Mulch also affects soil pH, which in turn determines nutrient availability:
+Mulch also affects soil pH, which in turn determines [[ph-and-nutrient-availability-garden-soils]]:
 - **Acidic mulches** (pine needles, oak leaves, peat): Lower pH, favor fungal-dominated soils
 - **Alkaline mulches** (some wood ashes): Raise pH, favor bacterial-dominated soils
 - Most organic mulches have a neutral to slightly acidifying effect as they decompose
@@ -53,9 +53,9 @@ Mulch also affects soil pH, which in turn determines nutrient availability:
 2. **Moisture retention**: Reduces evaporation from soil surface
 3. **Weed suppression**: Blocks light from reaching weed seeds
 4. **Temperature moderation**: Keeps soil cooler in summer, warmer in winter
-5. **Soil structure improvement**: As mulch decomposes, it adds organic matter
+5. **Soil structure improvement**: As mulch decomposes, it adds [[hamilton-composting-and-organic-matter-management]]
 6. **Erosion prevention**: Protects soil surface from rain impact
-7. **Disease prevention**: Prevents soil-borne diseases from splashing onto foliage
+7. **[[cervantes-pest-disease-prevention-overview]]**: Prevents soil-borne diseases from splashing onto foliage
 
 ## The No-Bare-Soil Principle
 
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

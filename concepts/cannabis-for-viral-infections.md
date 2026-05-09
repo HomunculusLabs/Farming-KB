@@ -15,12 +15,12 @@ Cannabis and its cannabinoids show evidence of antiviral activity across a range
 - Modulation of immune cell activity and cytokine production
 - Anti-inflammatory actions reducing virus-induced tissue damage
 - Direct antiviral activity of specific cannabinoids
-- Reduction of oxidative stress associated with viral infections
+- Reduction of [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] associated with viral infections
 
 ## Key Findings by Virus
 
 ### Herpes Simplex Virus (HSV)
-Cannabinoids have demonstrated activity against herpes viruses. The CHI score for herpes-specific studies reflects laboratory evidence of cannabinoid effects on viral replication. See cannabis for viral infections for herpes-related encephalitis applications.
+Cannabinoids have demonstrated activity against herpes viruses. The [[blesching-cannabis-chi-score-methodology]] for herpes-specific studies reflects laboratory evidence of cannabinoid effects on viral replication. See cannabis for viral infections for herpes-related encephalitis applications.
 
 ### HIV/AIDS
 Cannabis shows significant therapeutic value for HIV/AIDS patients, particularly for managing:
@@ -40,7 +40,7 @@ underlying mechanisms and their practical applications.
 
 ## Source
 
-Blesching, U. (2015). *The Cannabis Health Index*. Chapter IV: "Viral Infections." North Atlantic Books.
+Blesching, U. (2015). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. Chapter IV: "Viral Infections." North Atlantic Books.
 
 ## Merged: Cannabis for Encephalitis
 
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

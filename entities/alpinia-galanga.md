@@ -25,7 +25,7 @@ sources:
 
 ## Overview
 
-Alpinia galanga, commonly known as greater galangal, Thai galangal, or siamese ginger, is a perennial herbaceous plant in the family Zingiberaceae. Native to Southeast Asia, it is one of the most important aromatic spice plants in the region, essential in Thai, Indonesian, Malaysian, and Cambodian cuisines. Beyond culinary use, A. galanga has a long history in Ayurvedic, Thai, and Chinese traditional medicine, with modern research validating anti-inflammatory, antimicrobial, antioxidant, and anticancer activities. The rhizome is the primary plant part used as both spice and medicine.
+Alpinia galanga, commonly known as greater galangal, Thai galangal, or siamese ginger, is a perennial herbaceous plant in the family Zingiberaceae. Native to [[psilocybe-southeast-asia-pacific]], it is one of the most important aromatic spice plants in the region, essential in Thai, Indonesian, Malaysian, and Cambodian cuisines. Beyond culinary use, A. galanga has a long history in Ayurvedic, Thai, and Chinese traditional medicine, with modern research validating anti-inflammatory, antimicrobial, antioxidant, and anticancer activities. The rhizome is the primary plant part used as both spice and medicine.
 
 ## Taxonomy
 
@@ -48,7 +48,7 @@ Alpinia galanga, commonly known as greater galangal, Thai galangal, or siamese g
 
 ### Key Distinction from Alpinia officinarum
 
-A. galanga (greater galangal) and A. officinarum (lesser galangal) are frequently confused but are distinct species. A. galanga has larger rhizomes with pinkish internal color, a ginger-pepper flavor, and is used in Southeast Asian cooking. A. officinarum has smaller, darker rhizomes with more pungent, resinous flavor and is used primarily in Chinese medicine. Their essential oils differ — A. galanga is rich in 1'-acetoxychavicol acetate and ethyl cinnamate, while A. officinarum contains predominantly galangin and kaempferide.
+A. galanga (greater galangal) and A. officinarum (lesser galangal) are frequently confused but are distinct species. A. galanga has larger rhizomes with pinkish internal color, a ginger-pepper flavor, and is used in Southeast Asian cooking. A. officinarum has smaller, darker rhizomes with more pungent, resinous flavor and is used primarily in Chinese medicine. Their [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] differ — A. galanga is rich in 1'-acetoxychavicol acetate and ethyl cinnamate, while A. officinarum contains predominantly galangin and kaempferide.
 
 ## Morphology
 
@@ -70,11 +70,11 @@ A. galanga (greater galangal) and A. officinarum (lesser galangal) are frequentl
 ## Distribution and Habitat
 
 - **Native range:** Uncertain, likely peninsular Malaysia, Indonesia, or southern Thailand. Widely naturalized in tropical Southeast Asia.
-- **Current distribution:** Cultivated and naturalized across tropical Asia (India, Sri Lanka, Bangladesh, Myanmar, Thailand, Vietnam, Laos, Cambodia, Malaysia, Indonesia, Philippines, southern China), Pacific Islands, tropical Africa, and South America.
+- **Current distribution:** Cultivated and naturalized across tropical Asia (India, Sri Lanka, Bangladesh, Myanmar, Thailand, Vietnam, Laos, Cambodia, Malaysia, Indonesia, Philippines, southern China), [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], tropical Africa, and [[guzman-psilocybin-mushrooms-south-america]].
 - **Major production:** Thailand, Indonesia, Vietnam, China (Hainan, Guangxi, Yunnan), India (Assam, Kerala, Karnataka).
 - **Habitat:** Tropical lowland and montane forests, forest margins, disturbed areas, and cultivated fields. Prefers warm, humid conditions with annual rainfall of 1,500–3,000 mm.
 - **Altitude:** Sea level to 1,200 m. Optimal at 200–800 m.
-- **Soil:** Rich, well-drained loamy soils with high organic matter, pH 5.0–7.5. Intolerant of waterlogging.
+- **Soil:** Rich, well-drained loamy soils with high [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], pH 5.0–7.5. Intolerant of waterlogging.
 - **Climate:** Minimum 15°C; optimal 25–35°C. Killed by frost. Requires 60–80% humidity.
 
 ## Phytochemistry
@@ -134,7 +134,7 @@ A. galanga (greater galangal) and A. officinarum (lesser galangal) are frequentl
 ## Permaculture and Agroforestry Applications
 
 - **Understory crop:** Excellent understory component in tropical food forests, growing well in partial shade beneath canopy trees.
-- **Companion planting:** Aromatic rhizome may deter soil nematodes and insect pests when interplanted with vegetables.
+- **[[companion-planting]]:** Aromatic rhizome may deter soil nematodes and insect pests when interplanted with vegetables.
 - **Economic value:** High-value cash crop for smallholders. 2–3 harvests/year from established clumps. Market demand growing internationally.
 - **Propagation:** Rhizome division or seed (2–3 weeks germination). Spacing 50–80 cm. 15–30 tonnes/ha/year fresh rhizome.
 

@@ -1,5 +1,5 @@
 ---
-title: Cannabis Sex Determination and Floral Biology
+title: Cannabis cannabis sex determination floral biology and Floral Biology
 created: 2026-04-28
 tags: [cannabis, sex-determination, dioecy, flowering, marijuana-botany]
 date: 2026-04-25
@@ -15,12 +15,12 @@ type: concept
 Cannabis is a dioecious plant species, meaning male and female flowers
 develop on separate plants, although monoecious individuals with both
 sexes on one plant occur occasionally. This sexual separation has
-profound implications for cannabis cultivation, breeding, and the
+profound implications for [[query-how-does-no-till-cannabis-cultivation-work]], breeding, and the
 production of sinsemilla (seedless) flowers. Understanding the biology
 of sex determination in cannabis is essential for any serious cultivator
 or breeder, as the differences between staminate (male) and pistillate
-(female) plants manifest in morphology, life cycle timing, and most
-importantly, in the psychoactive resin production that defines the
+(female) plants manifest in morphology, [[bloomfield-fungal-life-cycle-spiral-versus-circle]] timing, and most
+importantly, in the psychoactive [[cannabis-glandular-trichome-types-resin-production-clarke]] that defines the
 plant's value.
 
 [[photoperiod-cannabis]] produces
@@ -90,8 +90,8 @@ the sex of pistillate plants and prevent hermaphrodism.
 When pistillate plants remain unfertilized, the paired pistils wither
 but the calyxes continue swelling, and glandular trichomes grow and
 secrete aromatic THC-laden resins. Hormonal changes from seeding affect
-all metabolic processes including cannabinoid biosynthesis. Upon
-fertilization, the plant channels energy into seed production instead
+all metabolic processes including [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]]. Upon
+fertilization, the plant channels energy into [[cervantes-seed-production-storage]] instead
 of resin production. The exact nature of these enzymatic changes
 remains unknown, but sinsemilla plants continue producing new floral
 clusters until late fall while seeded plants cease floral production.

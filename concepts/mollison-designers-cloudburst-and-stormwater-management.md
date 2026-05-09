@@ -1,5 +1,5 @@
 ---
-title: Cloudburst and Stormwater Management in Permaculture
+title: mollison designers cloudburst and stormwater management Management in permaculture
 created: 2026-04-28
 tags:
   - permaculture
@@ -17,10 +17,10 @@ type: concept
 
 Intense rainfall events, known as cloudbursts, represent one of the most
 destructive natural forces that permaculture designers must address. In the
-Permaculture Designers Manual, Mollison devotes considerable attention to
+Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]], Mollison devotes considerable attention to
 the management of extreme water flows, recognising that a system designed
 only for average rainfall will fail catastrophically during storm events.
-Effective stormwater management integrates [[mollison-designers-keyline-pattern-plow-technique]].
+Effective stormwater management integrates mollison-designers-keyline-pattern-plow-technique.
 
 ## The Five S's of Stormwater Management
 
@@ -38,7 +38,7 @@ runoff before it can concentrate. Slowing is achieved through roughened
 surfaces, vegetated drainage ways, and check dams that reduce flow velocity.
 Spreading distributes concentrated flows across broad areas, increasing
 infiltration opportunity. Sinking refers to maximising soil infiltration
-through aeration, organic matter addition, and [[mollison-designers-pond-construction-liner-sealing]] systems.
+through aeration, [[hamilton-composting-and-organic-matter-management]] addition, and mollison-designers-pond-construction-liner-sealing systems.
 The key design principle is that all overflow pathways must be clearly
 defined and vegetated to prevent erosion during extreme events that exceed
 the design capacity.
@@ -66,7 +66,7 @@ Stormwater management is equally critical in urban and peri-urban
 permaculture design. Impervious surfaces generate rapid, high-volume
 runoff that overwhelms conventional drainage systems. Mollison advocates
 for retrofitting urban landscapes with rain gardens, infiltration
-trenches, green roofs, and permeable paving that restore infiltration
+trenches, [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]], and permeable paving that restore infiltration
 capacity to developed areas. At the building scale, roof catchment
 systems connected to tanks and infiltration gardens capture a significant
 proportion of rainfall before it reaches the stormwater network. Swales
@@ -93,4 +93,5 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[mollison-designers-tropical-soils-and-cation-exchange-management]]

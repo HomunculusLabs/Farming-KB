@@ -10,13 +10,13 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 # Psilocybe moravica
 
-**Psilocybe moravica** is a bluing psilocybin mushroom species in the family strophariaceae, originally described from Moravia in the eastern Czech Republic. It was formally circumscribed by mycologist Jan Borovička and colleagues as part of a series of taxonomic revisions of European Psilocybe species in the early 2010s.
+**Psilocybe moravica** is a bluing [[emcdda-psilocybin-mushroom-dose-and-effects]] species in the family strophariaceae, originally described from Moravia in the eastern Czech Republic. It was formally circumscribed by mycologist Jan Borovička and colleagues as part of a series of taxonomic revisions of European Psilocybe species in the early 2010s.
 The species is one of several recently described European members of the genus that were previously confused with morphologically similar taxa. Its recognition reflects the growing understanding that European bluing Psilocybe diversity is significantly greater than was appreciated under traditional classification systems.
 
 ## Taxonomy and Etymology
 
-The specific epithet *moravica* refers to the historical region of Moravia in the southeastern Czech Republic, where the species was first collected and described. The species belongs to Psilocybe section psilocybe-sect.-psilocybe, which contains the majority of known bluing, psilocybin-containing species.
-Molecular phylogenetic analyses place *P. moravica* within a European clade that also includes [[psilocybe-bohemica]], and psilocybe arcana, all of which share a temperate European distribution and similar ecological preferences.
+The specific epithet *moravica* refers to the historical region of Moravia in the southeastern Czech Republic, where the species was first collected and described. The species belongs to [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]] psilocybe-sect.-psilocybe, which contains the majority of known bluing, psilocybin-containing species.
+Molecular phylogenetic analyses place *P. moravica* within a European clade that also includes [[psilocybe-bohemica]], and psilocybe arcana, all of which share a temperate [[fukuoka-european-distribution-system-critique]] and similar ecological preferences.
 The circumscription of *P. moravica* was part of a broader effort to resolve the taxonomic complexity of the *P. cyanescens* complex in Europe, where many bluing Psilocybe species had been lumped under a few variable names. Borovička's integrative approach, combining morphological, ecological, and molecular data, revealed several distinct lineages previously unrecognized as separate species.
 ITS rDNA sequence data support the recognition of *P. moravica* as a phylogenetically distinct lineage sister to *P. serbica*, from which it can be distinguished by a combination of microscopic characters and ecological preferences.
 
@@ -47,7 +47,7 @@ The species has been collected at elevations from approximately 200 to 600 meter
 
 ## Chemistry
 
-Like other bluing Psilocybe species, *P. moravica* contains the psychoactive tryptamine alkaloids [[psilocin]]. Analytical studies using high-performance liquid chromatography have confirmed the presence of these compounds in fruiting body tissue.
+Like other bluing Psilocybe species, *P. moravica* contains the psychoactive tryptamine alkaloids [[psilocin]]. Analytical studies using high-performance liquid chromatography have confirmed the presence of these compounds in [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] tissue.
 Psilocybin content has been measured at approximately 0.2 to 0.6% of dry weight, while psilocin is present only in trace amounts, likely as a degradation product of psilocybin. [[psilocybe-serbica]], suggesting comparable psychoactive potency. The characteristic blue bruising results from the enzymatic oxidation of psilocin, which is itself produced by dephosphorylation of psilocybin upon tissue damage.
 Total tryptamine content places *P. moravica* in the moderate range among European Psilocybe species, with potency generally lower than that of well-known taxa such as [[psilocybe-serbica]] and [[psilocybe-semilanceata]] or [[psilocybe-serbica]]: closely related European species with overlapping range
 - [[psilocybe-semilanceata]]: well-known European species for comparison
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

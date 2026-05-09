@@ -12,16 +12,16 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Redhead, S.A., Norvell, L.L. & Danell, E. (1997). "Cantharellus formosus and the Pacific Northwest golden chanterelle complex." Mycotaxon, 65, 285–296.
-  - Buyck, B., Hofstetter, V., Binder, M., et al. (2014). "The systematic position of the chanterelles (Cantharellus) and the limits of the Cantharellales." Fungal Diversity, 64(1), 239–251.
+  - Buyck, B., Hofstetter, V., Binder, M., et al. (2014). "The systematic position of the chanterelles (Cantharellus) and the limits of the Cantharellales." [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]], 64(1), 239–251.
   - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press, Berkeley.
   - Danell, E. (2002). "Using morphological and unstable molecular characters to recognize species within the Cantharellus cibarius complex in Europe." Mycological Research, 106(5), 543–555.
-  - Pilz, D. & Molina, R. (2002). "Commercial harvests of edible mushrooms from the forests of the Pacific Northwest United States: Issues, management, and monitoring for sustainability." Forest Ecology and Management, 155(1–3), 3–16.
+  - Pilz, D. & Molina, R. (2002). "Commercial harvests of [[palmer-edible-mushrooms-north-america]] from the forests of the Pacific Northwest United States: Issues, management, and monitoring for sustainability." Forest Ecology and Management, 155(1–3), 3–16.
 created: 2026-04-28
 ---
 
 ## Overview
 
-**Cantharellus subalbidus** A.H. Sm. & Morse is an edible chanterelle mushroom native to coniferous and mixed forests of western North America.
+**Cantharellus subalbidus** A.H. Sm. & Morse is an edible chanterelle mushroom native to coniferous and mixed forests of western [[psilocybin-north-america-pacific-northwest]].
 
 Commonly known as the **white chanterelle**, it is the largest chanterelle species in North America, with caps reaching 20 cm in diameter.
 
@@ -41,7 +41,7 @@ It is prized by foragers for its firm texture and mild, fruity flavor, though it
 
 The species was described by Alexander Hanchett Smith and Helen E. Morse in 1947 based on collections from the Pacific Northwest.
 
-Molecular phylogenetic studies have confirmed its placement in a clade with other North American chanterelles, distinct from the European *C. cibarius* complex.
+Molecular phylogenetic studies have confirmed its placement in a clade with other [[growing-gourmet-north-american-reishi-species]] chanterelles, distinct from the European *C. cibarius* complex.
 
 The epithet "subalbidus" refers to the whitish coloration that distinguishes it from golden chanterelles.
 
@@ -79,13 +79,13 @@ The fungal mycelium extends the effective root surface area, enhancing the host 
 
 In exchange, the fungus receives **photosynthetic carbon compounds** from the host, primarily as glucose and fructose.
 
-This symbiosis is critical for forest health, especially in nutrient-poor soils where mycorrhizal networks facilitate nutrient sharing between trees of different species and ages.
+This symbiosis is critical for forest health, especially in nutrient-poor soils where [[dighton-mycorrhizal-networks-carbon-transfer]] facilitate nutrient sharing between trees of different species and ages.
 
 Chanterelle fruiting is sensitive to **forest disturbance** — logging, road construction, and soil compaction can reduce or eliminate chanterelle populations for decades.
 
 ## Edibility and Culinary Use
 
-*C. subalbidus* is considered an **excellent edible mushroom** and is among the most sought-after wild mushrooms in the Pacific Northwest.
+*C. subalbidus* is considered an **excellent edible mushroom** and is among the most sought-after [[edible-wild-mushrooms-by-region]] in the Pacific Northwest.
 
 Its flesh is firmer and thicker than that of the golden chanterelle, making it well-suited to sautéing, grilling, and braising.
 

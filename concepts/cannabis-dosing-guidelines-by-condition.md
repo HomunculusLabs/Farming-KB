@@ -1,5 +1,5 @@
 ---
-title: Cannabis Dosing Guidelines by Condition
+title: Cannabis cannabis dosing guidelines by condition by Condition
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis Dosing Guidelines by Condition
 
-Effective cannabis dosing is highly individualized. The Cannabis Health Index emphasizes the concept of the subjective therapeutic window -- the dose range between the minimum effective dose and the maximum dose before adverse effects begin. This window varies by condition, individual physiology, tolerance, and method of administration.
+Effective cannabis dosing is highly individualized. The [[blesching-cannabis-health-index-autoimmune-conditions]] emphasizes the concept of the [[cannabis-subjective-therapeutic-window-dosing]] window -- the dose range between the minimum effective dose and the maximum dose before [[blesching-cannabis-safety-adverse-effects-evidence]] begin. This window varies by condition, individual physiology, tolerance, and method of administration.
 
 ## Foundational Dosing Principles
 
@@ -44,7 +44,7 @@ Effective cannabis dosing is highly individualized. The Cannabis Health Index em
 
 ### Cancer Symptom Management
 - **Dronabinol** and **Nabilone**: FDA-approved doses for chemotherapy-induced nausea
-- **Sativex**: Used as adjunctive cancer pain treatment alongside reduced opioid doses
+- **Sativex**: Used as adjunctive [[cannabis-cancer-pain-research]] treatment alongside reduced opioid doses
 
 ### Gastrointestinal Conditions
 - **CBD**: Reduced hypermotility in animal models at therapeutic doses (Naples, 2008)

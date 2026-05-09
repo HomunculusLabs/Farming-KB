@@ -26,7 +26,7 @@ Sarraceniaceae. It is endemic to northern California and southern Oregon.
 The plant produces distinctive tubular pitchers that resemble a rearing cobra
 hood. A forked appendage resembling a serpent's tongue hangs from the opening,
 which functions as an attractant for flying insects. The species is one of the
-most visually striking carnivorous plants in North America.
+most visually striking carnivorous plants in [[psilocybin-north-america-pacific-northwest]].
 
 Unlike other Sarraceniaceae, *Darlingtonia* does not produce digestive enzymes.
 Prey decomposition relies entirely on a bacterial symbiotic community within
@@ -38,8 +38,8 @@ the pitcher fluid, making it an unusual example of indirect carnivory.
 genus name honors the American botanist Darlington, while the specific epithet
 refers to its California distribution. It is the sole species in its genus.
 
-The family Sarraceniaceae also includes *Sarracenia* (North American pitcher
-plants) and *Heliamphora* (South American sun pitchers). Molecular phylogenetic
+The family Sarraceniaceae also includes *Sarracenia* ([[growing-gourmet-north-american-reishi-species]] pitcher
+plants) and *Heliamphora* ([[chiric-caspi-brunfelsia-south-american-hallucinogen]] sun pitchers). Molecular phylogenetic
 studies place *Darlingtonia* as sister to a *Heliamphora* + *Sarracenia* clade.
 
 Pitchers arise from a rhizomatous rootstock and reach 20–80 cm in height. The
@@ -67,7 +67,7 @@ groundwater at temperatures of 10–18°C year-round.
 
 Elevation ranges from near sea level to approximately 2,300 m. Soils are
 typically ultramafic (serpentine-derived), low in nitrogen and phosphorus, and
-with elevated heavy metal concentrations that the species tolerates.
+with elevated [[dighton-fungal-biosorption-heavy-metal-remediation]] concentrations that the species tolerates.
 
 ## Carnivory Mechanism
 
@@ -86,7 +86,7 @@ bulbous base contains the digestive fluid where prey accumulates.
 Unlike other Sarraceniaceae, the pitcher fluid contains no plant-produced
 digestive enzymes. Instead, a complex community of bacteria (including
 *Clostridium*, *Bacillus*, and *Pseudomonas* species) and insect larvae
-(notably *Metriocnemus* midge larvae) break down prey through saprophytic
+(notably *Metriocnemus* midge larvae) [[query-can-fungi-break-down-plastic-pollution]] prey through saprophytic
 decomposition.
 
 ## Ecology and Conservation

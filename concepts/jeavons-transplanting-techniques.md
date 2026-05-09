@@ -1,5 +1,5 @@
 ---
-title: Transplanting Techniques in GROW BIOINTENSIVE
+title: Transplanting Techniques in jeavons-grow-biointensive-method-overview
 created: 2026-04-28
 tags: [biointensive, transplanting, seedlings, plant-care, jeavons]
 date: 2026-04-28
@@ -62,7 +62,7 @@ Before transplanting in cold weather, seedlings should be
 hardened off through a gradual process. Move flats to a cold
 frame for two days when seedlings are almost transplanting
 size, then to the open for two more days to complete
-acclimatization. During warm weather, flats can remain in the
+acclimatization. During [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]], flats can remain in the
 open or be moved to shade to slow growth in hot conditions.
 This preparation reduces transplanting shock significantly.
 
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

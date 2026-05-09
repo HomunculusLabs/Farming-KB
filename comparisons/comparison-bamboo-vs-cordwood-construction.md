@@ -1,13 +1,6 @@
 ---
-title: "Comparison Bamboo Vs Cordwood Construction"
-created: 2026-05-02
-updated: 2026-05-02
-type: comparison
-tags: [construction, homesteading]
-sources: []
 ---
----
-title: "Bamboo vs [[cordwood-construction]]"
+title: "Bamboo vs cordwood-construction"
 tags:
   - natural-building
   - bamboo
@@ -16,7 +9,8 @@ tags:
   - wall-systems
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 ---
 
 # Bamboo vs Cordwood Construction
@@ -35,7 +29,7 @@ makes it an environmentally compelling choice.
 
 ## When to Choose Bamboo
 
-Choose bamboo construction when building in tropical or subtropical climates
+Choose [[comparison-bamboo-construction-vs-cob-building]] when building in tropical or subtropical climates
 where bamboo is locally abundant. It is the superior choice for earthquake-prone
 regions due to its flexibility and lightweight nature. Bamboo is ideal when
 rapid material turnover is desired, as it regenerates in years rather than
@@ -92,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

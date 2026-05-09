@@ -14,11 +14,11 @@ sources:
 Panellus stipticus is a saprotrophic basidiomycete in the family
 Mycenaceae, widely known as one of the brightest bioluminescent
 mushrooms in the Northern Hemisphere. Found across temperate and boreal
-forests of North America, Europe, and Asia, it fruits on dead hardwoods
+forests of [[psilocybin-north-america-pacific-northwest]], Europe, and Asia, it fruits on dead hardwoods
 and occasionally conifers. The species is of significant scientific
 interest due to its consistent and intense bioluminescence, which has
 made it a model organism for studying fungal luciferin-luciferase
-systems. Unlike many bioluminescent fungi, P. stipticus reliably
+systems. Unlike many [[bloomfield-bioluminescent-fungi-overview]], P. stipticus reliably
 produces visible greenish light in laboratory culture, enabling detailed
 investigation of the enzymatic and genetic basis of fungal
 bioluminescence.
@@ -73,7 +73,7 @@ Panellus by Petter Karsten in 1879 based on spore and gill differences.
 - **Substrate:** Saprotrophic on dead hardwoods — oak, beech, birch,
   maple, ash. Occasionally on conifer stumps.
 - **Ecology:** White-rot decomposer of lignin and cellulose. Contributes
-  to forest nutrient cycling. Found in clusters on fallen logs.
+  to forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. Found in clusters on fallen logs.
 - **Season:** Late summer through autumn (August–November), persisting
   through winter in milder climates.
 - **Habitat:** Deciduous and mixed forests, parks. Prefers moist,
@@ -98,12 +98,12 @@ bright enough to read text by.
 - **Circadian regulation:** Light emission follows a diurnal rhythm with
   peak bioluminescence at night, regulated by circadian clock genes.
 - **Ecological function:** Insect attraction for spore dispersal,
-  oxidative photoprotection, and lignin degradation byproduct are
+  oxidative photoprotection, and [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]] byproduct are
   leading hypotheses for the adaptive significance.
 
 ### Geographic Variation
 
-North American and European strains are consistently bioluminescent,
+[[growing-gourmet-north-american-reishi-species]] and European strains are consistently bioluminescent,
 while some Asian strains show reduced or absent luminescence. Genetic
 studies suggest luciferase genes are present but differentially
 regulated, offering a natural model for studying evolution and loss of
@@ -124,7 +124,7 @@ characterized and heterologously expressed in other organisms.
 - **Conditions:** 18–22°C, 85–95% humidity, day-night temperature
   fluctuation for optimal fruiting.
 - **Bioluminescence in culture:** Maintained reliably in vitro.
-- **Difficulty:** Easy on supplemented sawdust. Not commercially
+- **Difficulty:** Easy on [[oyster-mushroom-supplemented-sawdust-blocks]]. Not commercially
   cultivated for food due to tough texture and bitter taste.
 
 ## Similar Species

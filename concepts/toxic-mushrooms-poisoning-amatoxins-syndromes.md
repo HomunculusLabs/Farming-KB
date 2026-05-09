@@ -1,5 +1,5 @@
 ---
-title: Toxic Mushrooms and Mushroom Poisoning
+title: Toxic Mushrooms and european-mushroom-poisoning-history
 created: 2026-04-28
 tags:
   - mycology
@@ -39,7 +39,7 @@ physically dangerous.
 ## Historical Context
 
 Mushroom poisoning has been recognized since antiquity. Ancient Greek and
-Roman writers documented cases of fatal poisoning from wild mushrooms, and
+Roman writers documented cases of fatal poisoning from [[edible-wild-mushrooms-by-region]], and
 the Roman Emperor Claudius is said to have been murdered with poisoned
 mushrooms. Throughout European history, mushroom poisoning has been a
 persistent cause of accidental death, particularly in rural communities
@@ -52,7 +52,7 @@ fatal poisoning continue to occur each year.
 
 ## Treatment and Prevention
 
-Treatment of amatoxin poisoning has improved significantly with modern
+Treatment of [[bloomfield-amatoxin-poisoning-mechanism]] has improved significantly with modern
 medical care. Intravenous administration of silibinin (milk thistle extract),
 penicillin, and activated charcoal can reduce amatoxin absorption and protect
 liver cells. In severe cases, liver transplantation may be required.
@@ -72,7 +72,7 @@ some of the most potent organic poisons known to science.
 
 ## See Also
 
-- toxic mushrooms poisoning amatoxins syndromes
+- toxic toxic mushrooms poisoning amatoxins syndromes amatoxins syndromes
 - [[biodiversity-fungi-plant-pathogens]]
 - [[fungal-life-cycles-sexual-reproduction-metamorphosis]]
 ## Practical Considerations
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

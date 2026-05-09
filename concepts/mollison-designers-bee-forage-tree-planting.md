@@ -1,5 +1,5 @@
 ---
-title: Bee Forage Tree Planting
+title: mollison designers bee forage tree planting Tree Planting
 created: 2026-04-26
 tags:
   - permaculture
@@ -20,11 +20,11 @@ Mollison considers bees essential to permaculture systems primarily as
 pollinators, with honey as a valuable secondary product. He advocates
 deliberate planting of bee forage trees and shrubs to ensure continuous
 nectar and pollen availability across the foraging season. In
-[[mollison-designers-small-forest-farm-cool-humid-layout]]
+
   model, distribute hives in groups of 3-5 across Zones 2-3 rather than
   concentrating them in a single apiary
 - Protect hives from wind with [[mollison-designers-vine-and-fruit-tree-integration]],
-[[gaias-garden-bird-habitat-design]]
+gaias-garden-bird-habitat-design
 ## Practical Applications
 
 Bee Forage Tree Planting has a range of practical applications that make it relevant to
@@ -102,4 +102,10 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[mollison-designers-pig-tractors-forage-systems]]
+- [[mollison-designers-beekeeping-honey-production-permaculture]]
+- [[mollison-designers-free-range-forage-design-principles]]
+- [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]]
+- [[permaculture-designers-manual-reference-trees]]
+- [[permaculture-designers-manual-essential-oil-plants]]

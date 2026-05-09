@@ -24,7 +24,7 @@ Because molybdenum is required in such tiny quantities (0.01-0.05 ppm), most org
 
 ## Deficiency
 
-Molybdenum deficiency is extremely rare in cannabis cultivation. When it does occur, deficiency promotes cannabis-nitrogen|nitrogen shortage because the plant cannot efficiently convert nitrate to ammonium. The relationship between molybdenum and nitrogen metabolism means that a molybdenum deficiency can mimic nitrogen deficiency symptoms, making it easy to misdiagnose.
+Molybdenum deficiency is extremely rare in [[query-how-does-no-till-cannabis-cultivation-work]]. When it does occur, deficiency promotes cannabis-nitrogen|nitrogen shortage because the plant cannot efficiently convert nitrate to ammonium. The relationship between molybdenum and nitrogen metabolism means that a molybdenum deficiency can mimic nitrogen deficiency symptoms, making it easy to misdiagnose.
 
 ### Symptoms
 

@@ -23,7 +23,7 @@ sources:
 
 # Fomitopsis officinalis
 
-**Fomitopsis officinalis**, commonly known as **agarikon**, the **quinine conk**, or the **larch polypore**, is a large, woody, perennial polypore fungus in the family Fomitopsidaceae. It is one of the most historically significant medicinal mushrooms in Western pharmacology and is currently a focus of conservation concern due to its rarity and association with old-growth coniferous forests.
+**Fomitopsis officinalis**, commonly known as **agarikon**, the **quinine conk**, or the **larch polypore**, is a large, woody, perennial polypore fungus in the family Fomitopsidaceae. It is one of the most historically significant [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] in Western pharmacology and is currently a focus of conservation concern due to its rarity and association with old-growth coniferous forests.
 
 ## Taxonomy
 
@@ -52,7 +52,7 @@ Individual fruiting bodies can persist for decades and can weigh over 10 kg. Gro
 
 *F. officinalis* is found across temperate and boreal regions of the Northern Hemisphere:
 
-- **North America:** Pacific Northwest (Washington, Oregon, northern California, British Columbia, Alaska); historically in the Rocky Mountains and northeastern forests; now rare south of Canada
+- **[[psilocybin-north-america-pacific-northwest]]:** Pacific Northwest (Washington, Oregon, northern California, British Columbia, Alaska); historically in the Rocky Mountains and northeastern forests; now rare south of Canada
 - **Europe:** Scandinavian countries, the Alps, Carpathian Mountains, and other montane coniferous forests; extinct or nearly extinct in most of western and central Europe
 - **Asia:** Siberia, Russian Far East, northern China, Japan, and the Korean Peninsula
 
@@ -80,16 +80,16 @@ It typically fruits on standing dead trees, snags, or living trees with heart ro
 - Listed in the **Dispensatorium** of Valerius Cordus (1546) and numerous subsequent pharmacopoeias across Europe
 - Known as "quinine conk" for its bitter taste (not related to cinchona/quinine)
 - Used as a **purgative**, **antipyretic** (fever reducer), and **anti-tubercular** agent
-- Trade in agarikon was significant in medieval European apothecary practice; the mushroom was harvested from old-growth larch forests of the Alps and Carpathians
+- Trade in agarikon was significant in [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] apothecary practice; the mushroom was harvested from old-growth larch forests of the Alps and Carpathians
 
 ### Indigenous Use
 
-- Pacific Northwest Native American tribes (including the Tlingit, Haida, and Tsimshian) used agarikon preparations for respiratory ailments, tuberculosis-like symptoms, and as a general tonic
+- Pacific Northwest [[halpern-sacramental-peyote-and-native-american-church]] tribes (including the Tlingit, Haida, and Tsimshian) used agarikon preparations for respiratory ailments, tuberculosis-like symptoms, and as a general tonic
 - Siberian indigenous peoples used it for stomach ailments and wound healing
 
 ## Chemistry and Bioactive Compounds
 
-Modern chemical analysis has identified numerous bioactive constituents:
+Modern [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] has identified numerous bioactive constituents:
 
 ### Agaric Acid and Derivatives
 
@@ -129,7 +129,7 @@ The European pharmacopoeias historically listed several preparations:
 - β-Glucan fractions enhance immune surveillance and tumor cell recognition
 ## Related Species
 
-- *Fomitopsis betulina* (birch polypore, *Piptoporus betulinus*) — birch-associated, historically used as a razor strop and wound dressing
+- *Fomitopsis betulina* ([[iceman-otzi-birch-polypore-prehistoric-mushroom-use]], *Piptoporus betulinus*) — birch-associated, historically used as a razor strop and wound dressing
 - *Fomitopsis pinicola* (red-belted polypore) — widespread, common species
 - *Fomes fomentarius* (tinder conk) — similar appearance, different genus, used for fire-starting
 - *Laricifomes officinalis* — name sometimes used for Asian specimens, which may represent a distinct species complex

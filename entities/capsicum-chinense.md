@@ -44,11 +44,11 @@ Maturation progresses from green through yellow or orange to the final ripe colo
 
 C. chinense was domesticated in the western Amazon Basin approximately 6,000–8,000 years ago, making it one of the earliest domesticated Capsicum species. Archaeological evidence from Peru and Ecuador documents its early use.
 
-The species spread throughout the Caribbean and Central America through pre-Columbian trade networks. It became the dominant pepper species in the Yucatán Peninsula, where the habanero remains a cultural and culinary icon.
+The species spread throughout the Caribbean and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] through pre-Columbian trade networks. It became the dominant pepper species in the Yucatán Peninsula, where the habanero remains a cultural and culinary icon.
 
 Archaeobotanical evidence from the Caribbean indicates C. chinense was established across the Antilles by 1000 CE. The Taino people cultivated it extensively and used it in ceremonial and medicinal contexts alongside food preparation.
 
-C. chinense was spread to Africa and Asia during the Columbian Exchange, though it was largely displaced by C. annuum in Asia. It persists as a major crop in the Caribbean, Brazil, West Africa, and Southeast Asia.
+C. chinense was spread to Africa and Asia during the [[psilocybe-cubensis-biogeography-columbian-exchange-hypothesis]], though it was largely displaced by C. annuum in Asia. It persists as a major crop in the Caribbean, Brazil, West Africa, and Southeast Asia.
 
 In West Africa, C. chinense (locally called "scotch bonnet" or "ata rodo" in Yoruba) is indispensable in soups, stews, and condiments. The species has been further selected in Africa for local preferences in heat level and fruit morphology.
 
@@ -62,13 +62,13 @@ C. chinense requires warm tropical conditions with optimal temperatures of 25–
 
 The species has a long growing season, typically 90–120 days from transplant to first harvest. In temperate climates, transplants must be started indoors 8–10 weeks before the last expected frost.
 
-Well-drained soils with pH 5.5–6.5 and moderate fertility are preferred. Excessive nitrogen produces lush vegetative growth with delayed flowering. Phosphorus and potassium are critical for fruit quality.
+Well-drained soils with pH 5.5–6.5 and moderate fertility are preferred. Excessive nitrogen produces lush [[cannabis-vegetative-growth-stage]] with delayed flowering. Phosphorus and potassium are critical for fruit quality.
 
 C. chinense is self-compatible and predominantly self-pollinating, but cross-pollination by insects can occur at rates of 10–30%. Isolation distances of 150–300 meters are recommended for seed saving.
 
 Plants benefit from consistent irrigation but are susceptible to waterlogging. Mulching helps retain soil moisture and suppress weeds. Container cultivation is popular for super-hot varieties.
 
-Pests and diseases include aphids, thrips, pepper weevils, anthracnose, bacterial leaf spot, and Phytophthora root rot. Crop rotation and resistant varieties help manage disease pressure.
+[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] include aphids, thrips, pepper weevils, anthracnose, bacterial leaf spot, and Phytophthora root rot. Crop rotation and resistant varieties help manage disease pressure.
 
 Yields vary widely by variety, from 0.5–2 kg per plant for habanero types to 5+ kg per plant for larger-fruited cultivars. Super-hot varieties typically produce lower yields due to genetic trade-offs.
 
@@ -82,9 +82,9 @@ C. chinense peppers are prized for their intense heat and complex fruity, citrus
 
 Scotch bonnet is the defining pepper of Jamaican jerk seasoning and many West African dishes. The fruity aroma and extreme heat make it irreplaceable in these culinary traditions.
 
-The aroma profile of C. chinense is notably more complex than C. annuum, with volatile compounds contributing tropical fruit, floral, and sometimes earthy notes. This aromatic complexity is highly valued in hot sauce formulation.
+The aroma profile of C. chinense is notably more complex than C. annuum, with [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] contributing tropical fruit, floral, and sometimes earthy notes. This aromatic complexity is highly valued in hot sauce formulation.
 
-Super-hot varieties (Carolina Reaper, Ghost pepper crosses) are used in specialty hot sauces, spicy food challenges, and as natural food preservatives due to the antimicrobial properties of capsaicinoids.
+Super-hot varieties (Carolina Reaper, Ghost pepper crosses) are used in specialty hot sauces, spicy food challenges, and as natural food preservatives due to the [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] of capsaicinoids.
 
 Fresh, dried, smoked, and pickled preparations are all common. Smoking C. chinense peppers produces intensely flavored products that combine heat with deep smoky complexity.
 
@@ -107,6 +107,8 @@ Beyond culinary use, capsaicinoids from C. chinense have pharmaceutical applicat
 Capsaicin also demonstrates antimicrobial properties against foodborne pathogens including Salmonella and E. coli, supporting its historical role as a food preservative in tropical climates.
 
 ## See Also
+
+- [[bupleurum-chinense]]
 
 - [[solanum-tuberosum]]
 - [[piper-nigrum-entity]]

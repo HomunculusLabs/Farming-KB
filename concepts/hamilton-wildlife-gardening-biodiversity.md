@@ -1,5 +1,5 @@
 ---
-title: Wildlife Gardening and Biodiversity
+title: hamilton wildlife gardening biodiversity and Biodiversity
 created: 2026-04-26
 author: geoff-hamilton-organic-techniques
 sources: hamilton-geoffhamilton-nick_-organic-gardening.md
@@ -16,7 +16,7 @@ hide under during the day. At night they emerge to feed on pests.
 ### Centipedes
 Fast-moving predators of many small insects and slugs. Light brown
 with longer legs than millipedes. Like ground beetles, they need
-ground cover to hide under during the day.
+[[fukuoka-citrus-orchard-ground-cover-cultivation]] to hide under during the day.
 
 ### Ladybugs
 Both the adult ladybug and its slate-gray larvae eat vast quantities
@@ -48,7 +48,7 @@ pollinating insects. Borage is an excellent bee attractor.
 - Provide water: a bird bath, shallow dish, or pond
 - Leave seed heads on plants through winter for bird food
 - Create a compost heap -- it provides habitat for many creatures
-- Grow nectar-rich flowers from early spring to late autumn
+- Grow nectar-rich flowers from [[coleman-overwintered-onions-and-early-spring-crops]] to late autumn
 - Allow some areas of longer grass
 - Reduce the area of closely mown lawn
 - Include a mix of native and ornamental plants
@@ -60,7 +60,7 @@ pollinating insects. Borage is an excellent bee attractor.
 
 Hamilton's key message is that the garden should be treated as a
 complete entity. The fruit and vegetable gardens produce edible crops,
-the ornamental section attracts wildlife for pest control, herbs
+the ornamental section attracts wildlife for [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], herbs
 ## Practical Considerations
 
 Successful implementation of Wildlife Gardening and Biodiversity requires attention to
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

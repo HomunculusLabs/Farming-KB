@@ -26,19 +26,19 @@ permanent structural changes, loss of function, diabetes, and increased risk of
 pancreatic cancer.
 
 Common causes include gallstones, chronic alcohol consumption, genetic
-predisposition, autoimmune conditions, certain medications, and high
+predisposition, [[cannabis-autoimmune-conditions-detailed]], certain medications, and high
 triglyceride levels. Orthodox treatment ranges from supportive care (IV fluids,
-pain management, fasting) for acute episodes to enzyme replacement therapy,
+[[cannabis-pain-management-protocols]], fasting) for acute episodes to enzyme replacement therapy,
 pain management, and in severe cases, surgical intervention for chronic
 disease.
 
-The [[turmeric]]**: A large meta-study noted turmeric's potential therapeutic value
+The turmeric**: A large meta-study noted turmeric's potential therapeutic value
   in the treatment of pancreatitis.
 
 ## See Also
 
 - [[blesching-cannabis-gerd]]
-- [[blesching-endocannabinoid-system-overview]]
+- [[endocannabinoid-system-overview]]
 ## Practical Considerations
 
 When working with Cannabis and Pancreatitis, several practical factors should be
@@ -55,7 +55,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -97,4 +97,6 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+- [[blesching-cannabis-lung-cancer]]
+- [[blesching-cannabis-aids-opportunistic-infections]]
+- [[blesching-cannabis-decarboxylation-and-raw-cannabis]]

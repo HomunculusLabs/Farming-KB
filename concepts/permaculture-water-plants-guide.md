@@ -19,7 +19,7 @@ Water plants are among the most productive crops in permaculture systems. Many a
 
 **Family:** CONVOLVULACEAE
 
-A native of southern China, India, south east Asia and Taiwan, this tropical trailing herb is found in muddy streams, freshwater ponds and marshes. The seed is usually germinated and grown on land until about six weeks when the plant can be flooded. Annual yields of up to 90,000 kg/ha have been recorded. Protein varies from 1.9-4.6% in the fresh plant and carbohydrate averages 4.3%. The leaves are a good source of vitamins A, C, and E, iron and other minerals.
+A native of southern China, India, south [[neurotropic-fungi-japan-east-asia-species-cultural-context]] and Taiwan, this tropical trailing herb is found in muddy streams, freshwater ponds and marshes. The seed is usually germinated and grown on land until about six weeks when the plant can be flooded. Annual yields of up to 90,000 kg/ha have been recorded. Protein varies from 1.9-4.6% in the fresh plant and carbohydrate averages 4.3%. The leaves are a good source of vitamins A, C, and E, iron and other minerals.
 
 The fresh young leaves and shoots are boiled or cooked in oil and eaten as a vegetable. Young tips are selected for salads. The young stems are used in pickles. With yields of up to 60 t/ha this is one of the most productive leaf vegetables known. It is cold sensitive and is usually grown as an annual in cooler climates.
 
@@ -29,7 +29,7 @@ The fresh young leaves and shoots are boiled or cooked in oil and eaten as a veg
 
 Native to Europe and northern Asia, this fast growing (30-60 days), emergent, broad-leafed herb of the mustard family requires cool or cold flowing water. It grows submerged, floating or spread over mud surfaces. It is usually grown in beds covered with 10 cm of water.
 
-Nutritional composition per 100 grams of edible portion: Water - 93.3%, Energy - 19 calories, Carbohydrate - 3 g, Fat - 0.3 g, Protein - 2.2 g, Ash - 1.2 g, Calcium - 151 mg, Potassium - 282 mg, Sodium - 52 mg, Magnesium - 20 mg, Iron - 1.7 mg, Phosphorous - 54 mg, Vitamin A - 4900 I.U., Thiamin - 0.08 mg, Riboflavin - 0.16 mg, Niacin - 0.9 mg, Ascorbic acid - 79 mg. Digestion time: 3.25 hours.
+[[dighton-fungal-nutritional-composition-animal-diets]] per 100 grams of edible portion: Water - 93.3%, Energy - 19 calories, Carbohydrate - 3 g, Fat - 0.3 g, Protein - 2.2 g, Ash - 1.2 g, Calcium - 151 mg, Potassium - 282 mg, Sodium - 52 mg, Magnesium - 20 mg, Iron - 1.7 mg, Phosphorous - 54 mg, Vitamin A - 4900 I.U., Thiamin - 0.08 mg, Riboflavin - 0.16 mg, Niacin - 0.9 mg, Ascorbic acid - 79 mg. Digestion time: 3.25 hours.
 
 Water cress should not be grown for human consumption in polluted waters. Leaves and shoots are eaten fresh in salads and sandwiches, cooked in soups and stews. The seeds can be made into a mustard or sprouted as a salad green. Warning: Excessive or prolonged use can lead to kidney problems. It should not be taken daily and no longer than four weeks even with interruptions.
 
@@ -37,7 +37,7 @@ Water cress should not be grown for human consumption in polluted waters. Leaves
 
 **Family:** LIMNOCHARITACEAE
 
-Native to Mexico, West Indies, Peru and Brazil, it is cultivated in the rice paddies of Malaysia and marketed as a fresh vegetable. Old plants are ploughed into the rice fields as green manure and the plant is readily eaten by cattle (leaf protein 1-1.6%).
+Native to Mexico, West Indies, Peru and Brazil, it is cultivated in the rice paddies of Malaysia and marketed as a fresh vegetable. Old plants are ploughed into the rice fields as [[comparison-green-manure-guide-vs-mulch-types-and-effects]] and the plant is readily eaten by cattle (leaf protein 1-1.6%).
 
 ## Root and Tuber Crops
 
@@ -55,7 +55,7 @@ Several Sagittaria species produce edible tubers:
 
 - **Sagittaria latifolia** and **S. fasciculata** -- These plants occur at the water's edge, and to a depth of 0.5 m. The tubers were eaten by the American Indians (who called them wapatoo) and are said to be as good as potatoes.
 - **Sagittaria sagittifolia** -- This native of Europe grows to about 1.5 m. The walnut-sized roots are the plant's means of over-wintering and are edible. Harvest in autumn.
-- **Sagittaria trifolia** syn. **S. sinensis** -- A native to tropical and sub-tropical Asia producing eight or more underground stems, each with a corm on the end. These corms are boiled and eaten like potatoes and are high in protein (5-7%) for a root crop. Requires a 6-7 month growing season.
+- **Sagittaria trifolia** syn. **S. sinensis** -- A native to tropical and sub-tropical Asia producing eight or more underground stems, each with a corm on the end. These corms are boiled and eaten like potatoes and are high in protein (5-7%) for a root crop. Requires a 6-7 month [[savory-growing-season-and-non-growing-season-management]].
 
 ### Typha spp (Cumbungi, Cattail, Bullrush)
 
@@ -71,11 +71,11 @@ Other uses: Oil can be pressed from the seed. The leaves yield a soft fibre used
 
 **Family:** ARACEAE
 
-Widely cultivated in tropical and subtropical regions. The corm is the main edible part, cooked like potatoes. Leaves can also be eaten when cooked. Requires wet or waterlogged conditions. A staple food across the Pacific, Southeast Asia and Africa. See [[permaculture-aquaculture-guide]] systems benefit from duckweed and water plants as fish and animal feed
+Widely cultivated in tropical and subtropical regions. The corm is the main edible part, cooked like potatoes. Leaves can also be eaten when cooked. Requires wet or waterlogged conditions. A staple food across the Pacific, [[psilocybe-southeast-asia-pacific]] and Africa. See [[permaculture-aquaculture-guide]] systems benefit from duckweed and water plants as fish and animal feed
 - Cattail (Typha) is one of the most multi-functional plants: food, fibre, water purification, wildlife habitat, bank stabilisation
 - Arrow-head tubers provide potato-like crops from water margins
 - Lotus provides edible seeds, roots, and leaves from a single perennial plant
 - Use in [[permaculture-duck-pond-systems]] for duck forage
-- Water cress provides winter greens in cool flowing water zones
+- Water cress provides [[coleman-winter-greens-nutritional-quality-cold-sweetening]] in cool flowing water zones
 - Wild rice provides a high-value grain from shallow water without annual ploughing
 - See also [[permaculture-date-palm-guide]]

@@ -5,7 +5,8 @@ updated: 2026-04-14
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Pinhead Initiation Techniques
 
@@ -19,14 +20,14 @@ A decrease in air temperature signals the seasonal change from warm (vegetative 
 
 - **Agaricus brunnescens**: 70°F drop to 64°F
 - **Pleurotus ostreatus**: Drop from spawn run temp to 55-60°F
-- **Psilocybe cubensis**: Drop to 74-78°F
+- **[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]**: Drop to 74-78°F
 - **Flammulina velutipes**: Drop to 50-55°F
 
-The temperature differential needed varies by species. Some tropical species (Panaeolus cyanescens, P. cubensis) require less dramatic drops than temperate species.
+The temperature differential needed varies by species. Some tropical species ([[stamets-panaeolus-cyanescens-copelandia-identification-ecology]], P. cubensis) require less dramatic drops than temperate species.
 
 ### 2. High Humidity
 
-Relative humidity of 95-100% is required during primordia formation. The casing surface microclimate must be saturated to prevent the tiny primordia from desiccating. This high humidity is combined with evaporative cooling from the casing surface.
+Relative humidity of 95-100% is required during [[growing-gourmet-primordia-formation-pinning]]. The casing surface microclimate must be saturated to prevent the tiny primordia from desiccating. This high humidity is combined with [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] from the casing surface.
 
 ### 3. Fresh Air (CO2 Reduction)
 
@@ -36,7 +37,7 @@ Introduction of fresh air removes metabolic CO2 that accumulated during the vege
 - Psilocybe cubensis: <5,000 ppm (more CO2 tolerant)
 - Panaeolus cyanescens: <5,000 ppm
 
-Fresh air introduction simultaneously lowers temperature and humidity, so the system must be designed to compensate (increase humidification while providing cool fresh air).
+Fresh air introduction simultaneously lowers [[greg-green-temperature-and-humidity-control]], so the system must be designed to compensate (increase humidification while providing cool fresh air).
 
 ### 4. Light
 
@@ -56,7 +57,7 @@ Starting initiation too early results in premature pinning with poor yields. Sta
 
 ## Evaporative Cooling
 
-Evaporation of moisture from the casing surface is critical for pinning. It creates a cool microclimate at the surface and aids nutrient transport from substrate to growing mushrooms. The balance between air circulation, fresh air, and humidification is "the Art of mushroom culture" per Stamets.
+Evaporation of moisture from the casing surface is critical for pinning. It creates a cool microclimate at the surface and aids [[mycelial-network-nutrient-transport-imaging-gadd]] from substrate to growing mushrooms. The balance between air circulation, fresh air, and humidification is "the Art of mushroom culture" per Stamets.
 
 ## Troubleshooting Pinning Failures
 
@@ -90,8 +91,11 @@ A phenomenon in Psilocybe cubensis culture where mushrooms form between the casi
 
 ## Related
 
-- [[mushroom-environmental-parameters]] for species-specific pinning conditions
-- [[mushroom-lighting-and-environmental-requirements]] for light specifications
+- mushroom-environmental-parameters for species-specific pinning conditions
+- mushroom-lighting-and-environmental-requirements for light specifications
 
-- [[stamets-mushroom-growing-parameters-by-species]]
-- [[tropical-mushroom-spawn-production-materials]]
+- stamets-mushroom-growing-parameters-by-species
+- tropical-mushroom-spawn-production-materials
+- [[pinning-triggers]]
+- [[pleurotus-ostreatus]]
+- [[agaricus-brunnescens]]

@@ -39,10 +39,10 @@ The fungus receives carbon from the host plant:
 
 *Glomus versiforme* plays important ecological roles in terrestrial ecosystems:
 
-- **Plant Community Structure:** By differentially affecting plant species through their mycorrhizal associations, AM fungi can influence plant community composition and diversity
+- **Plant Community Structure:** By differentially affecting plant species through their mycorrhizal associations, AM fungi can influence plant [[core-endorhiza-bacterial-community-composition-cannabis]] and diversity
 - **Soil Carbon Dynamics:** AM fungi contribute to soil carbon sequestration through glomalin production and the deposition of carbon-rich hyphal residues in soil
-- **Ecosystem Productivity:** AM fungal associations enhance primary productivity in many ecosystems, particularly those with low phosphorus availability
-- **Soil Phosphorus Ratios:** Studies of soil phosphorus ratios in the presence of different AM fungi help understand phosphorus cycling and availability
+- **Ecosystem Productivity:** AM fungal associations enhance primary productivity in many ecosystems, particularly those with low [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]]
+- **Soil Phosphorus Ratios:** Studies of soil phosphorus ratios in the presence of different AM fungi help understand [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]] and availability
 - **Ecosystem Restoration:** AM fungi, including *Glomus* species, are increasingly used in ecological restoration projects to improve plant establishment on degraded or disturbed sites
 
 ## Applications
@@ -50,7 +50,7 @@ The fungus receives carbon from the host plant:
 - **Agriculture:** As a component of commercial mycorrhizal inoculants used to improve crop nutrition, particularly for crops with high phosphorus demands
 - **Horticulture:** Used in greenhouse and nursery production to improve seedling vigor and transplant success
 - **Restoration Ecology:** Applied in revegetation of mine sites, degraded lands, and other disturbed habitats
-- **Sustainable Agriculture:** Promoted as part of reduced-input farming systems that rely on biological processes rather than chemical fertilizers
+- **Sustainable Agriculture:** Promoted as part of reduced-input farming systems that rely on biological processes rather than [[cervantes-chemical-fertilizers-guide]]
 
 ## Research History
 
@@ -71,9 +71,9 @@ The study of *G. versiforme* and arbuscular mycorrhizal fungi spans over a centu
 Standard techniques for studying *G. versiforme* and other AM fungi include:
 
 - **Spore Isolation:** Wet-sieving and decanting followed by sucrose gradient centrifugation (20/60% sucrose) to separate spores from soil particles. Spores are collected on a 45 to 53 μm sieve and rinsed with sterile water
-- **Spore Identification:** Spores are mounted in PVLG (polyvinyl-lactic acid-glycerol) with or without Melzer's reagent for microscopic examination. Wall layer structure, subtending hypha morphology, and spore size are diagnostic features
+- **Spore Identification:** Spores are mounted in PVLG (polyvinyl-lactic acid-glycerol) with or without Melzer's reagent for [[fungal-microscopic-examination-mounting-media-techniques]]. Wall layer structure, subtending hypha morphology, and spore size are diagnostic features
 - **Trap Culture:** To obtain sufficient spores of a particular species, bait plants (typically maize, sorghum, or *Allium* species) are grown in a mixture of field soil and sterile sand for 3 to 6 months, allowing the target AM fungus to sporulate
-- **Molecular Identification:** ITS rDNA and LSU rDNA sequencing from single spores or root samples. The use of AM fungal-specific primers (e.g., AMV4.5N/AMDGR) avoids amplification of non-target fungi
+- **[[biodiversity-fungal-molecular-identification-dna-barcoding]]:** ITS rDNA and LSU rDNA sequencing from single spores or root samples. The use of AM fungal-specific primers (e.g., AMV4.5N/AMDGR) avoids amplification of non-target fungi
 - **Root Colonization Assessment:** Roots are cleared in 10% KOH at 90°C, acidified, and stained with Trypan blue or ink-vinegar. Colonization intensity and arbuscule abundance are quantified using the gridline intersect method under a compound microscope
 - **Inoculum Production:** Large-scale inoculum production uses open pot culture methods with appropriate host plants, or the increasingly popular in vitro root organ culture (Ri T-DNA transformed carrot roots) method for contamination-free propagation
 - **Stable Isotope Studies:** Natural abundance d15N and d13C signatures of *G. versiforme* extraradical hyphae can be measured to trace nitrogen and carbon flow through mycorrhizal networks, providing insights into nutrient cycling in soil-plant systems
@@ -82,4 +82,7 @@ Standard techniques for studying *G. versiforme* and other AM fungi include:
 ## See Also
 
 - [[glomus-mosseae]]
-- [[mycorrhizal-symbiosis]]
+- mycorrhizal-symbiosis
+- [[glomus-intraradices]]
+- [[nutrient-cycling-in-soil]]
+- [[phosphorus-availability]]

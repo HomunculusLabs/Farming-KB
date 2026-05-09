@@ -1,5 +1,5 @@
 ---
-title: Cannabis Sativa Morphology and Plant Architecture
+title: Cannabis cannabis sativa morphology and plant architecture and Plant Architecture
 created: 2026-04-28
 tags: [cannabis, botany, sativa, morphology, plant-science]
 date: 2026-04-28
@@ -49,7 +49,7 @@ as "finger-like." A typical sativa leaf may have 7-13 long, slender
 leaflets per fan leaf, compared to the broader, shorter leaflets of
 indica-dominant varieties. This reduced [[sativa-terpene-profiles-and-aromatic-diversity]].
 Narrow-leaflet varieties (NLV) tend to produce higher ratios of THC to
-CBD and express tropical, fruity, or spicy terpene profiles. This
+CBD and express tropical, fruity, or spicy [[cannabis-terpene-profiles-sativa]]. This
 morphological-chemical correlation has been noted by breeders and
 researchers since the 1970s.
 
@@ -68,7 +68,7 @@ indica flowers. Individual calyxes tend to be larger but more loosely
 packed, giving sativa buds a "foxtail" or "spindly" appearance. This
 loose structure is actually advantageous in humid climates, as it
 allows better airflow through the bud and reduces the likelihood of
-bud rot (botrytis cinerea).
+[[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]] (botrytis cinerea).
 
 The reduced flower density means sativa buds often weigh less per unit
 volume compared to indica buds. However, the extended flowering time
@@ -77,7 +77,7 @@ production, and the total trichome coverage can be exceptional.
 
 Pistil coloration in sativa varieties often progresses from white
 through orange to reddish-brown as flowers mature. The extended
-flowering window means growers must monitor trichome development
+flowering window means growers must monitor [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]]
 carefully to harvest at the optimal window.
 
 ## Trichome Distribution

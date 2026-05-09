@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Clinical Research History
+title: Psilocybin hofmann-lsd-clinical-research-early-studies History
 created: 2026-04-28
 tags:
   - psilocybin
@@ -20,9 +20,9 @@ type: concept
 
 The scientific investigation of psilocybin represents one of the most
 remarkable chapters in the history of psychology and pharmacology. From its
-isolation by Albert Hofmann in 1958 through the Harvard Psilocybin Project,
-the Good Friday Experiment, and its suppression during the war on drugs,
-psilocybin research has revealed both the profound potential and the
+isolation by Albert Hofmann in 1958 through the [[leary-harvard-psilocybin-project]] Project,
+the Good [[good-friday-experiment-marsh-chapel]], and its suppression during the war on drugs,
+[[early-paris-psilocybin-research-1960s]] has revealed both the profound potential and the
 controversial nature of this naturally occurring compound. The story
 involves pioneering scientists, government agencies, indigenous wisdom, and
 a substance that challenges fundamental assumptions about consciousness.
@@ -47,7 +47,7 @@ for scientific research, distributing it to qualified investigators.
 
 ## CIA Involvement
 
-The CIA's secret quest for the sacred mushroom represents one of the most
+The CIA's secret quest for the [[allegro-the-sacred-mushroom-amanita-identification]] represents one of the most
 crass approaches to psilocybin in history. After their agent James Moore
 failed in Mexico, the CIA tested psilocybin on unsuspecting American
 prisoners. As prisoners reported bizarre experiences, it became clear that
@@ -105,7 +105,7 @@ in both academia and traditional religious belief.
 ## Suppression and Legacy
 
 The subsequent frenzy of anti-drug legislation, primarily targeting LSD,
-resulted in restrictions on all psychedelic research including psilocybin.
+resulted in restrictions on all [[mckenna-suppression-psychedelic-research-lsd-therapy]] including psilocybin.
 Mind-altering substances were lumped together with physically addictive drugs
 like heroin. Scientific and pharmacological distinctions became irrelevant.
 Pharmacological testing had already revealed psilocybin as perfectly safe

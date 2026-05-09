@@ -11,7 +11,7 @@ created: 2026-04-28
 
 # Trainwreck Generational Breeding
 
-Trainwreck generational breeding is an outdoor cannabis breeding method from the
+Trainwreck generational breeding is an outdoor [[oner-cannabis-breeding-fundamentals]] method from the
 late 1970s and early 1980s in which multiple male and female varieties were
 placed in a remote outdoor patch, using prevailing winds and geographic distance
 for uncontrolled pollen distribution. The resulting first-generation seeds,
@@ -22,7 +22,7 @@ controlled crosses and [[trainwreck]]
 - [[fukuoka-textdoc-soil-building-as-multigenerational-legacy]]
 
 - [[equatorial-photoperiod-early-flowering]]
-- cannabis photoperiodism
+- [[cannabis-photoperiodism-and-light-cycles]]
 - sativa domestication
 ## Practical Applications
 
@@ -41,7 +41,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -91,7 +91,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -101,4 +101,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

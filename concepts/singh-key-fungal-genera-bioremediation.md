@@ -10,19 +10,19 @@ sources: [raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 # Singh Key Fungal Genera in Bioremediation
 #mycoremediation #aspergillus #penicillium #trichoderma #ganoderma #pleurotus #phanerochaete #bjerkandera
 Updated: 2026-04-18
-Source: [[fungal-bioremediation]] (2006), Chapters 1-12
+Source: fungal-bioremediation (2006), Chapters 1-12
 
 ## Overview
 
 This page summarizes the key fungal genera documented in Singh's comprehensive mycoremediation reference, covering their specific roles in degrading different classes of contaminants. The book covers nearly 2000 references spanning industrial wastewaters, petroleum hydrocarbons, PCBs, pesticides, phenols, PAHs, dyes, and heavy metals. See also [[singh-ligninolytic-enzymes-fungal-bioremediation]], [[phanerochaete-chrysosporium]] -- The Model White-Rot Fungus
 
-The most extensively studied fungus in bioremediation. Discovered as the source of lignin peroxidase (LiP) by Glenn et al. (1983) and Tien and Kirk (1983).
+The most extensively studied fungus in bioremediation. Discovered as the source of [[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP) by Glenn et al. (1983) and Tien and Kirk (1983).
 
 ### Enzyme System
 - Produces LiP, MnP, H2O2-generating oxidases
 - 10+ LiP isozyme genes (lipA through lipJ)
 - 3 MnP isozyme genes coordinately regulated
-- Enzyme production favored by nitrogen limitation
+- [[ligninolytic-enzyme-production-bioremediation]] favored by nitrogen limitation
 - Optimal growth temperature: 30C; sporulates easily
 
 ### Contaminant Degradation
@@ -63,12 +63,12 @@ The most extensively studied fungus in bioremediation. Discovered as the source 
 ### Enzyme System
 - MnP, laccase, and hybrid MnP/LiP forms (P. eryngii)
 - Unusual: MnP produced without Mn(II); Mn(II) addition inhibits MnP production
-- Ligninolytic enzymes higher in straw than liquid culture
+- [[singh-ligninolytic-enzymes-fungal-bioremediation]] higher in straw than [[comparison-liquid-culture-vs-grain-spawn]]
 
 ### Species Documented
 - P. ostreatus: extensive PAH degradation in creosote-contaminated soils; humification of PAHs; kills indigenous soil bacteria
 - P. eryngii: laccase + HBT achieves 70% benzo[a]pyrene degradation; hybrid MnP/LiP enzymes
-- P. florida: 53% [14C]pyrene mineralization; can grow from straw into soil; degrades 40%+ wheat straw substrate
+- P. florida: 53% [14C]pyrene mineralization; can grow from straw into soil; degrades 40%+ wheat [[oyster-straw-substrate-preparation]]
 - P. sajor-caju: Cd(II) biosorption 90% (dead mycelia > live mycelia at 78%)
 
 ### Unique Properties
@@ -81,7 +81,7 @@ The most extensively studied fungus in bioremediation. Discovered as the source 
 ### G. lucidum (Reishi)
 - Produces MnP in poplar wood media but NOT pine wood media
 - Produces both types of wood decay (simultaneous and selective)
-- Important medicinal mushroom with remediation potential
+- Important [[gourmet-medicinal-mushroom-casing-layer-techniques]] with remediation potential
 - See also [[reishi-cultivation-methods]]
 
 ### G. applanatum

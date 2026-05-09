@@ -1,5 +1,5 @@
 ---
-title: Passive Humidity Fruit Chamber with Polyethylene Sheeting
+title: simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation Fruit Chamber with Polyethylene Sheeting
 created: 2026-04-28
 tags:
   - mycology
@@ -18,7 +18,7 @@ type: concept
 ---
 
 # Passive Humidity Fruit Chamber with Polyethylene Sheeting
-A simple and effective approach to mushroom fruiting uses clear plastic bins covered
+A simple and effective approach to [[ectomycorrhizal-mushroom-fruiting-ecology]] uses clear plastic bins covered
 with polyethylene sheeting to maintain humidity through natural evaporation from the
 casing surface. This design avoids the complexity and cost of automated humidification
 systems while providing adequate environmental conditions for a wide range of cultivated
@@ -31,7 +31,7 @@ Many cultivation guides describe elaborate fruiting setups incorporating humidif
 cool-mist devices, ultrasonic foggers, and automated control systems. While these
 systems can produce excellent results, they represent significant additional expense,
 complexity, and potential points of failure.
-The passive humidity chamber demonstrates that high mushroom yields are achievable with
+The passive [[mushroom-humidity-chamber-design-operation]] demonstrates that high mushroom yields are achievable with
 a far simpler approach that relies on basic physics rather than mechanical intervention.
 The fundamental principle is that the evaporation of water from the moist casing soil
 surface generates sufficient humidity within an enclosed space to support normal
@@ -39,7 +39,7 @@ fruiting.
 By containing this evaporated moisture within a sealed or semi-sealed bin, the relative
 humidity remains at levels adequate for pin formation and mushroom development without
 any mechanical humidification. The system is self-regulating because evaporation rates
-naturally adjust based on ambient temperature and humidity conditions.
+naturally adjust based on ambient [[greg-green-temperature-and-humidity-control]] conditions.
 
 ## Container Construction
 
@@ -108,11 +108,11 @@ adequate gas exchange without causing the casing surface to dry out too quickly.
 The holes can be created by heating a metal rod or nail and pressing it against the
 plastic. The resulting melted edges seal the hole perimeter, preventing the plastic
 from cracking or fraying over time. This method produces clean, consistent holes
-without creating plastic shavings that could fall into the fruiting chamber.
+without creating plastic shavings that could fall into the [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]].
 Placement should be distributed around the sides of the bin rather than concentrated
 in one area, promoting even air distribution throughout the chamber. The holes can
 be covered with mesh material to prevent the entry of fungus gnats and other small
-flying insects that commonly infest mushroom growing operations.
+flying insects that commonly infest [[duggar-mushroom-growing-history-and-methods]] operations.
 Insect pests can introduce contamination, damage developing fruiting bodies, and
 create nuisance populations that spread to other areas of the growing space.
 

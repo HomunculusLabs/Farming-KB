@@ -9,13 +9,13 @@ sources:
 ---
 # Cannabis and ALS (Lou Gehrig's Disease) Research
 
-**Source:** Uwe Blesching, The Cannabis Health Index (2017)
+**Source:** Uwe Blesching, The [[blesching-cannabis-health-index-autoimmune-conditions]] (2017)
 **Last Updated:** 2026-04-18
 **CHI Value: 19** (7 studies reviewed)
 
 ## Condition Overview
 
-ALS (Amyotrophic Lateral Sclerosis) = selective loss of nerve cells for muscular motion in brain and spinal cord. ~2 in 100,000 die of ALS in US. Most die within 3-5 years of onset. Mind remains mostly unaffected while body descends into total paralysis. Primary cause of death: respiratory failure.
+ALS (Amyotrophic Lateral Sclerosis) = selective loss of nerve cells for muscular motion in brain and [[blesching-cannabis-spinal-cord-injuries]]. ~2 in 100,000 die of ALS in US. Most die within 3-5 years of onset. Mind remains mostly unaffected while body descends into total paralysis. Primary cause of death: respiratory failure.
 
 **Risk factors:** military service (Gulf War veterans 2x more likely), environmental toxins, Guam 1950s outbreak.
 **Standard treatment:** Riluzole (reduces glutamate) -- extends life by up to 2 months, does not reverse nerve damage, liver-toxic.
@@ -65,7 +65,9 @@ Clinical depression is NOT inevitable in ALS. Lou Gehrig expressed only gratitud
 
 Aggravating factors: Gulf War service, environmental toxins. Consider: gratitude, long-term projects, passion for life.
 
-## Related Pages
+## Related
+
+- [[cannabis-and-als]] Pages
 
 - [[cannabis-alzheimers-research]]
 - [[cannabis-for-parkinsons-disease]]
@@ -89,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

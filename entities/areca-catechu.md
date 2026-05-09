@@ -10,11 +10,11 @@ sources: [/Users/t3rpz/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.m
 
 # Areca catechu
 
-**Areca catechu**, the **areca palm** or **betel nut palm**, is a species of palm native to the Philippines, Malaysia, India, and other tropical regions of South and Southeast Asia. The seed of this palm, commonly called the **betel nut**, is one of the most widely used psychoactive substances in the world, chewed by an estimated 600 million people globally. It ranks as the fourth most commonly used psychoactive substance after caffeine, nicotine, and alcohol.
+**Areca catechu**, the **areca palm** or **betel nut palm**, is a species of palm native to the Philippines, Malaysia, India, and other tropical regions of South and [[psilocybe-southeast-asia-pacific]]. The seed of this palm, commonly called the **betel nut**, is one of the most widely used psychoactive substances in the world, chewed by an estimated 600 million people globally. It ranks as the fourth most commonly used psychoactive substance after caffeine, nicotine, and alcohol.
 
 ## Taxonomy and Description
 
-*Areca catechu* is a medium-sized, slender, unbranched palm growing 15–20 meters tall with a trunk diameter of approximately 20–30 cm. The pinnate leaves are 1.5–2 meters long, with numerous narrow leaflets. The fruit is an ovoid drupe, 4–5 cm long, orange-yellow when ripe, containing a single seed (the betel nut) that is hard, fibrous, and reddish-brown to dark brown.
+*Areca catechu* is a medium-sized, slender, unbranched palm growing 15–20 meters tall with a trunk diameter of approximately 20–30 cm. The pinnate leaves are 1.5–2 meters long, with numerous narrow leaflets. The fruit is an ovoid drupe, 4–5 cm long, orange-yellow when ripe, containing a [[cervantes-selfing-single-seed-descent]] (the betel nut) that is hard, fibrous, and reddish-brown to dark brown.
 
 The palm is monoecious, producing both male and female flowers on the same inflorescence. It thrives in tropical lowland climates with high humidity and well-distributed rainfall, typically at elevations below 1,000 meters.
 
@@ -105,4 +105,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

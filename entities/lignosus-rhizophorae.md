@@ -18,8 +18,8 @@ updated: 2026-04-28
 sources:
   - "Lee, S.S. et al. (2012). \"Lignosus rhizophorae: A new species from Malaysia.\" Mycotaxon 121(1): 57-63."
   - "Tan, N.H. et al. (2015). \"Anti-inflammatory and immunomodulatory activities of Lignosus rhizophorae.\" BMC Complementary and Alternative Medicine 15: 332."
-  - "Wong, K.K. et al. (2017). \"Taxonomic and phylogenetic studies of Lignosus (Polyporaceae) in Southeast Asia.\" Fungal Diversity 85(1): 145-165."
-  - "Huang, H. et al. (2020). \"Cultivation and bioactive compounds of tiger milk mushrooms (Lignosus spp.).\" Journal of Fungi 6(3): 231."
+  - "Wong, K.K. et al. (2017). \"Taxonomic and phylogenetic studies of Lignosus (Polyporaceae) in Southeast Asia.\" [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] 85(1): 145-165."
+  - "Huang, H. et al. (2020). \"Cultivation and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] of tiger milk mushrooms (Lignosus spp.).\" Journal of Fungi 6(3): 231."
   - "https://www.mycobank.org/Lignosus-rhizophorae"
 aliases:
   - Tiger Milk Mushroom
@@ -87,11 +87,11 @@ The species also contains ergosterol, ergothioneine, and phenolic acids (gallic,
 
 ## Cultivation
 
-Artificial cultivation of L. rhizophorae remains experimental and has not yet achieved commercial scale.
+[[fukuoka-matsutake-artificial-cultivation-attempt]] of L. rhizophorae remains experimental and has not yet achieved commercial scale.
 
 Sclerotium induction has been attempted on sterilized substrates including rice bran, sawdust, and combinations of hardwood chips supplemented with wheat bran.
 
-Optimal mycelial growth occurs at 28–30°C on potato dextrose agar, with full plate colonization in 10–14 days.
+Optimal [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] occurs at 28–30°C on potato dextrose agar, with full plate colonization in 10–14 days.
 
 Sclerotium formation requires extended incubation (3–6 months) in darkness and is sensitive to substrate composition and moisture content.
 
@@ -103,9 +103,9 @@ Yields remain low compared to other medicinal polypores, limiting commercial via
 
 L. rhizophorae contributes to wood decomposition in tropical lowland forest ecosystems, particularly in mangrove-adjacent zones.
 
-As a white-rot fungus, it degrades lignin preferentially over cellulose, playing a role in nutrient cycling of woody debris.
+As a white-rot fungus, it degrades lignin preferentially over cellulose, playing a role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] of woody debris.
 
-The underground sclerotium may serve as a carbon and nutrient reservoir, allowing the fungus to survive unfavorable conditions and rapidly colonize new substrates.
+The underground sclerotium may serve as a carbon and [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]], allowing the fungus to survive unfavorable conditions and rapidly colonize new substrates.
 
 Interactions with soil microorganisms, including potential mycorrhizal associations, are poorly studied and represent an area of active research interest.
 

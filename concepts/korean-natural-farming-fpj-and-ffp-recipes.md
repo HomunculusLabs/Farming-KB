@@ -1,5 +1,5 @@
 ---
-title: Korean Natural Farming FPJ and FFP Recipes
+title: Korean comparison-natural-farming-vs-permaculture FPJ and FFP Recipes
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,14 +9,14 @@ sources:
 ---
 # Korean Natural Farming FPJ and FFP Recipes
 
-Fermented Plant Juice (FPJ) and Fermented Fish Protein (FFP/FAA) are key Korean Natural Farming inputs that provide plants with bioavailable nutrients, growth hormones, and enzymes. Both are simple to make from locally available materials.
+[[bionutrients-lab-fermented-plant-juice-fpj]] (FPJ) and Fermented Fish Protein (FFP/FAA) are key Korean Natural [[natural-farming-inputs-cho]] that provide plants with bioavailable nutrients, growth hormones, and enzymes. Both are simple to make from locally available materials.
 
 ## Fermented Plant Juice (FPJ)
 
 ### Purpose
 - Provides natural plant hormones (auxins, gibberellins, cytokinins)
 - Supplies sugars and amino acids for quick plant energy
-- Stimulates vegetative growth
+- Stimulates [[cannabis-vegetative-growth-stage]]
 - Enhances flowering and fruiting (depends on plant used)
 
 ### Plant Selection
@@ -25,7 +25,7 @@ Fermented Plant Juice (FPJ) and Fermented Fish Protein (FFP/FAA) are key Korean 
 - Best plants by growth stage:
   - **Early spring**: Japanese mugwort (Artemisia princeps), dropwort (Oenanthe javanica)
   - **Summer**: Bamboo shoots, sweet potato vines, fast-growing weeds
-  - **Flowering**: Flowering branches of any plant (for reproductive growth stimulation)
+  - **Flowering**: Flowering branches of any plant (for [[knf-reproductive-growth-stage]] stimulation)
   - **Fruiting**: Unripe fruit of the target crop (tomato FPJ for tomatoes)
 
 ### Method
@@ -96,7 +96,7 @@ Fermented Plant Juice (FPJ) and Fermented Fish Protein (FFP/FAA) are key Korean 
 
 ### Fruiting Stage
 - FPJ from unripe fruit of the target crop: 1:500 dilution
-- OHN (Oriental Herbal Nutrient): 1:1000 dilution for disease resistance
+- OHN ([[bionutrients-lab-oriental-herbal-nutrients-ohn]] Nutrient): 1:1000 dilution for disease resistance
 
 ## Related
 - [[korean-natural-farming-lab-and-ohn-recipes]] — for LAB and OHN recipes

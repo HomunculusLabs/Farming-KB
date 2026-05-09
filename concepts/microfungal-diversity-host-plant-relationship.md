@@ -1,5 +1,5 @@
 ---
-title: Microfungal Diversity Host Plant Relationship
+title: leaf-litter-microfungal-diversity-tropical-temperate Host Plant Relationship
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 Updated: 2026-04-18
 
-The relationship between microfungal diversity and host plant characteristics is a central theme in fungal biodiversity research, with plant taxonomic diversity and structural variety exerting the greatest influence on fungal species richness.
+The relationship between microfungal diversity and host plant characteristics is a central theme in [[biodiversity-fungal-biodiversity-estimation-methods]] research, with plant taxonomic diversity and structural variety exerting the greatest influence on fungal species richness.
 
 ## Primary Drivers of Microfungal Diversity
 
@@ -23,8 +23,8 @@ Microfungal diversity is strongly positively correlated with the number of plant
 
 The physical structure of vegetation affects microfungal diversity through:
 
-- Bark texture and chemistry — different bark types support different fungal communities
-- Leaf morphology — leaf shape, surface texture, and chemistry determine colonization
+- Bark texture and chemistry — different bark types support different [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
+- [[cannabis-leaf-morphology-and-phyllotaxy]] — leaf shape, surface texture, and chemistry determine colonization
 - Stem and twig architecture — branching patterns create varied microhabitats
 - Root structure — root exudates and architecture influence rhizosphere fungi
 
@@ -41,7 +41,7 @@ Distinct fungal guilds specialize on different plant substrates:
 Litter decomposing fungi show intermediate specificity. Some species colonize the litter of multiple plant families, while others are restricted to a single genus or species. Litter washing protocols (Harley and Waid 1955; Tokumasu et al. 1997) reveal the diversity of these communities.
 
 ### Pathogenic Relationships
-Plant pathogenic fungi often show the highest host specificity, reflecting co-evolutionary arms races between host resistance mechanisms and pathogen virulence factors.
+Plant pathogenic fungi often show the highest host specificity, reflecting co-evolutionary arms races between host resistance mechanisms and pathogen [[fungal-virulence-factors-host-immune-evasion]].
 
 ## Research Methods
 
@@ -54,7 +54,7 @@ Standardized protocols for isolating microfungi from plant litter:
 
 ### GIS Technology
 
-Geographic Information Systems (GIS) are recommended for locating rare or targeted host species, mapping fungal diversity patterns, and correlating fungal distribution with environmental variables.
+Geographic Information Systems (GIS) are recommended for locating rare or targeted host species, mapping fungal [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]], and correlating fungal distribution with environmental variables.
 
 ### Molecular Approaches
 
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

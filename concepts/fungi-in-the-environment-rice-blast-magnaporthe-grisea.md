@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Gadd, G.M., Watkinson, S.C. & Dyer, P.S. (eds.) Fungi in the Environment. Cambridge University Press, 2007. Chapter 11: Jenkinson, J.M., Wilson, R.A., Cartwright, Z., Soanes, D.M., Kershaw, M.J. & Talbot, N.J. "Functional genomics of plant infection by the rice blast fungus Magnaporthe grisea."
+  - Gadd, G.M., Watkinson, S.C. & Dyer, P.S. (eds.) Fungi in the Environment. Cambridge University Press, 2007. Chapter 11: Jenkinson, J.M., Wilson, R.A., Cartwright, Z., Soanes, D.M., Kershaw, M.J. & Talbot, N.J. "magnaporthe-grisea-functional-genomics-rice-blast of plant infection by the rice blast fungus Magnaporthe grisea."
 created: 2026-04-28
 type: concept
 ---
@@ -25,11 +25,11 @@ type: concept
 
 Rice blast disease manifests as multiple pathologies affecting stems, leaves, and panicles of the rice plant. Blast infections of stem nodes can cause complete rotting before seed maturation, resulting in total crop loss. Leaf infections reduce photosynthetic capacity, impeding growth and often killing seedlings. The disease produces characteristic ellipsoid, brown necrotic lesions on leaves that develop 4-5 days after initial infection.
 
-The severity of rice blast has led the American Centre for Disease Control and Prevention to classify it as a significant biological weapon that could be deployed in agricultural bioterrorism. A serious epidemic in Bhutan in 1995 destroyed 1090 tonnes of rice, with up to 100% crop losses for some farmers.
+The severity of rice blast has led the American Centre for [[hamilton-pest-and-disease-control-organic]] and Prevention to classify it as a significant biological weapon that could be deployed in agricultural bioterrorism. A serious epidemic in Bhutan in 1995 destroyed 1090 tonnes of rice, with up to 100% crop losses for some farmers.
 
 ## Life Cycle and Infection Process
 
-The asexual life cycle begins with three-celled conidia dispersed by wind, dew, or rain splash that attach to the hydrophobic rice leaf surface. Infection proceeds through a precisely orchestrated sequence:
+The asexual life cycle begins with three-celled conidia dispersed by wind, dew, or rain splash that attach to the hydrophobic rice [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]. Infection proceeds through a precisely orchestrated sequence:
 
 1. **Attachment**: The conidial apex releases an adhesive that binds the spore tightly to the leaf surface.
 
@@ -47,7 +47,7 @@ This direct penetration strategy contrasts with the stomatal entrance employed b
 
 ## Sexual Reproduction
 
-Sexual reproduction requires opposite mating types conditioned by two genes, MAT1-1 and MAT1-2. Opposite mating types form perithecia that produce ascospores consisting of four pairs. Population-level studies across Europe, the United States, Cambodia, and the Philippines have typically shown clonal populations with low genotypic diversity, suggesting asexual reproduction predominates in the field. However, studies near the Himalayas have revealed higher genotypic diversity, indicating that sexual reproduction can occur and may contribute to genetic recombination and gene flow in certain populations.
+Sexual reproduction requires opposite mating types conditioned by two genes, MAT1-1 and MAT1-2. Opposite mating types form perithecia that produce ascospores consisting of four pairs. Population-level studies across Europe, the [[dmt-containing-plants-united-states-halpern]], Cambodia, and the Philippines have typically shown clonal populations with low genotypic diversity, suggesting asexual reproduction predominates in the field. However, studies near the Himalayas have revealed higher genotypic diversity, indicating that sexual reproduction can occur and may contribute to genetic recombination and gene flow in certain populations.
 
 ## Root Infection
 
@@ -80,10 +80,10 @@ Comparative genomics between pathogenic and non-pathogenic fungi has revealed th
 
 ## Disease Management Implications
 
-Understanding the molecular basis of *M. grisea* infection has direct implications for disease management. The appressorium, with its melanin-dependent turgor generation, represents a potential target for fungicides that disrupt melanin biosynthesis. The multiple cutinase genes suggest that targeting cutinase activity alone would be insufficient, but combination approaches might prove effective. The discovery that *M. grisea* can infect roots and cause systemic disease also has implications for resistance breeding, as resistance mechanisms may need to address both foliar and root infection pathways. Additionally, the mixed clonal and sexual reproductive strategies observed in different *M. grisea* populations influence how rapidly resistance-breaking races emerge, with sexually recombining populations posing a greater threat to durable resistance.
+Understanding the molecular basis of *M. grisea* infection has direct implications for disease management. The appressorium, with its melanin-dependent turgor generation, represents a potential target for fungicides that disrupt [[fungal-melanin-biosynthesis-ecological-functions]]. The multiple cutinase genes suggest that targeting cutinase activity alone would be insufficient, but combination approaches might prove effective. The discovery that *M. grisea* can infect roots and cause systemic disease also has implications for [[cannabis-disease-pest-resistance-breeding-clarke]], as resistance mechanisms may need to address both foliar and root infection pathways. Additionally, the mixed clonal and sexual reproductive strategies observed in different *M. grisea* populations influence how rapidly resistance-breaking races emerge, with sexually recombining populations posing a greater threat to durable resistance.
 
 ## See Also
 
 - [[plant-fungal-signaling-mycorrhiza]] interactions
-- [[fungal-spore-mounting-and-preservation-techniques]] for contrast with mutualistic associations
+- fungal-spore-mounting-and-preservation-techniques for contrast with mutualistic associations
 - [[fungal-biodiversity]] for fungal species diversity

@@ -12,9 +12,9 @@ tags:
   - insect-repellent
   - companion-planting
 sources:
-  - "Foster, S. & Duke, J.A. (1990). A Field Guide to Medicinal Plants. Houghton Mifflin."
+  - "Foster, S. & Duke, J.A. (1990). A ghouled-field-guide-historical-context to Medicinal Plants. Houghton Mifflin."
   - "Mabey, R. (1996). Flora Britannica. Sinclair-Stevenson."
-  - "Duke, J.A. (2002). Handbook of Medicinal Herbs, 2nd ed. CRC Press."
+  - "Duke, J.A. (2002). Handbook of [[permaculture-plants-medicinal-herbs-healing]], 2nd ed. CRC Press."
   - "Stoilov, I. et al. (2005). \"Traditional medicinal plants of Bulgaria.\" Fitoterapia, 76(3–4), 273–281."
   - "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:186896-1"
 ---
@@ -23,13 +23,13 @@ sources:
 
 ## Overview
 
-*Tanacetum vulgare*, commonly known as tansy, is a perennial herbaceous plant in the aster family (Asteraceae), native to temperate Europe and Asia. It is recognized for its strong aromatic foliage, bright yellow button-shaped flower heads, and its long history of use in traditional European medicine, pest management, and culinary applications.
+*Tanacetum vulgare*, commonly known as tansy, is a perennial herbaceous plant in the aster family (Asteraceae), native to temperate Europe and Asia. It is recognized for its strong aromatic foliage, bright yellow button-shaped flower heads, and its long history of use in traditional European medicine, [[cannabis-pest-management-guide]], and culinary applications.
 
 Tansy contains thujone, a bioactive monoterpene ketone also found in [[artemisia-absinthium]] — Wormwood, another thujone-containing medicinal plant
 - achillea-millefolium — Yarrow, a companion permaculture herb with similar ecological roles
 - [[mentha-piperita]] — Peppermint, an aromatic companion plant with insect-repellent properties
 - [[thujone]] — The primary bioactive compound in tansy
-- [[tagetes-erecta-entity]] — Marigold, another insect-repellent companion plant in agriculture
+- tagetes-erecta-entity — Marigold, another insect-repellent companion plant in agriculture
 ## Practical Applications
 
 Tanacetum vulgare has a range of practical applications that make it relevant to
@@ -107,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

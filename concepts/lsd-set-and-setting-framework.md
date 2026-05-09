@@ -1,5 +1,5 @@
 ---
-title: LSD Set and Setting Framework
+title: LSD lsd set and setting framework Framework
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -17,7 +17,7 @@ Albert Hofmann was among the first to articulate the set and setting framework, 
 
 "The internal, personal factors are called set, the external conditions setting."
 
-This framework has since become one of the most widely cited and applied principles in psychedelic therapy and research.
+This framework has since become one of the most widely cited and applied principles in [[metzner-psycholytic-psychedelic-therapy-models]] and research.
 
 ## Set: The Internal Factors
 
@@ -93,7 +93,7 @@ Recreational use in uncontrolled settings maximizes the risk of psychotic crises
 
 ## Legacy
 
-The set and setting framework, first articulated in the context of LSD research, has been applied to all psychedelic substances and has become a foundational principle of modern psychedelic therapy. Contemporary clinical trials with psilocybin, MDMA, and other psychedelics all incorporate careful attention to set and setting as core elements of their protocols.
+The set and setting framework, first articulated in the context of LSD research, has been applied to all psychedelic substances and has become a foundational principle of modern psychedelic therapy. Contemporary [[mushroom-cancer-clinical-trials-overview]] with psilocybin, MDMA, and other psychedelics all incorporate careful attention to set and setting as core elements of their protocols.
 
-See also: albert hofmann, [[lsd-therapeutic-history]], Psychedelic Therapy Models Comparison, [[psychedelic-therapy-current-research]]
+See also: albert hofmann, [[lsd-therapeutic-history]], Psychedelic [[psychedelic-therapy-models-comparison]] Comparison, [[psychedelic-therapy-current-research]]
 - [[hofmann-self-experiment-with-ergonovine]]

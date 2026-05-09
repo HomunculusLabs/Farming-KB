@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-The "birthing" process is the critical transition from the colonization phase inside the jar to the fruiting phase inside the dual chambered terrarium. Named for the cake emerging from its container like a newborn, this technique requires careful handling to preserve the mycelial network and any primordia that have begun forming. Proper birthing minimizes damage, prevents contamination, and sets the stage for productive fruiting.
+The "birthing" process is the critical transition from the colonization phase inside the jar to the fruiting phase inside the dual [[dual-chambered-terrarium-design]]. Named for the cake emerging from its container like a newborn, this technique requires careful handling to preserve the [[gadd-mycelial-network-dynamics]] and any primordia that have begun forming. Proper birthing minimizes damage, prevents contamination, and sets the stage for productive fruiting.
 
 ## Optimal Timing for Birthing
 
@@ -30,7 +30,7 @@ Birthing before primordia appear is possible but may delay the onset of fruiting
 
 The PF TEK requires jars with tapered sides and no shoulders. This design is specifically intended to facilitate cake removal. Suitable containers include:
 
-- Kerr wide mouth half pint canning jar (most versatile)
+- Kerr wide mouth half pint [[pf-tek-canning-jar-lid-configuration]] (most versatile)
 - Ball regular mouth half pint canning jar
 - Ball half pint jelly jar
 - 1/2 pint (250 ml) capacity drinking glasses with tapered sides
@@ -75,7 +75,7 @@ If primordia have formed on the cake surface, extra care must be taken during th
 
 ### Contamination Awareness
 
-The birthing process exposes the cake to ambient air for the first time since sterilization. While the fully colonized mycelium is reasonably contamination resistant, working quickly and cleanly reduces risk. The birthing procedure should be performed in a reasonably clean environment, though the elaborate sterile technique required for inoculation is not necessary at this stage.
+The birthing process exposes the cake to ambient air for the first time since sterilization. While the fully colonized mycelium is reasonably contamination resistant, working quickly and cleanly reduces risk. The birthing procedure should be performed in a reasonably clean environment, though the elaborate [[cultivator-sterile-technique-and-agar-culture]] required for inoculation is not necessary at this stage.
 
 ## The Aroma Indicator
 
@@ -95,7 +95,7 @@ Blob like growths of fungus with little or no cap may also appear alongside abho
 
 ### Normal Sporocarps
 
-Alongside the abhorts and mutants, perfect specimens with normal mushroom morphology will develop. These are the most visually impressive but are lower in potency per unit weight compared to the smaller immature forms.
+Alongside the abhorts and mutants, perfect specimens with normal [[pf-tek-mushroom-morphology-and-lifecycle-stages]] will develop. These are the most visually impressive but are lower in potency per unit weight compared to the smaller immature forms.
 
 ## The Cake as a Base
 
@@ -118,7 +118,7 @@ If the cake cracks during birthing, the pieces can still fruit successfully in t
 
 ### Waterlogged Cake
 
-If the cake feels excessively wet or soggy after birthing, it may have been over hydrated during substrate preparation. Place it in the terrarium as normal but monitor closely for bacterial signs. The loose lid configuration during incubation helps prevent this issue.
+If the cake feels excessively wet or soggy after birthing, it may have been over hydrated during [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]. Place it in the terrarium as normal but monitor closely for bacterial signs. The loose lid configuration during incubation helps prevent this issue.
 
 ## See Also
 

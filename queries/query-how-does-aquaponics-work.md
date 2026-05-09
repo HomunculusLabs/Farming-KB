@@ -4,21 +4,22 @@ created: 2026-04-28
 tags: [query, aquaponics, hydroponics, sustainable-farming, water-management]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 # How Does Aquaponics Work
 ## Short Answer
-Aquaponics is a recirculating system that combines aquaculture (fish farming) with hydroponics (growing plants in water). Fish waste provides nutrients for plants, and plants filter the water for fish, creating a self-sustaining ecosystem. No synthetic fertilizers or chemical water treatments are needed.
+Aquaponics is a recirculating system that combines aquaculture ([[knf-fish-farming-integration]]) with hydroponics (growing plants in water). Fish waste provides nutrients for plants, and plants filter the water for fish, creating a self-sustaining ecosystem. No synthetic fertilizers or chemical water treatments are needed.
 ## Key Points
 - Aquaponics merges fish farming and hydroponics into a single closed-loop system
 - Fish excrete ammonia, which bacteria convert to nitrite and then nitrate for plants
 - Plants absorb nitrates and clean the water before it returns to the fish tank
 - The system uses 90 to 95 percent less water than traditional soil agriculture
 - Tilapia, catfish, and trout are popular fish species depending on climate
-- Leafy greens and herbs grow best; fruiting plants may need supplemental nutrients
+- [[solomon-leafy-greens-growing]] and herbs grow best; fruiting plants may need supplemental nutrients
 - System cycling takes four to six weeks before fish can be added safely
-- pH, temperature, and dissolved oxygen must be monitored continuously
+- pH, temperature, and [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] must be monitored continuously
 ## Detailed Explanation
 ### The Nitrogen Cycle in Aquaponics
 At its core, [[lowenfels-nutrients-nitrogen-cycle]] resource explains this microbial pathway in detail. These bacteria form biofilms on the grow media, tank walls, and piping throughout the entire system.
@@ -40,10 +41,10 @@ Plants that excel in aquaponics include:
 Fruiting plants like tomatoes, peppers, and cucumbers can be grown but require higher nutrient concentrations. They may need supplemental iron and potassium added to the water.
 The [[aquaponics-guide]] provides step-by-step cycling instructions. It explains how to monitor water quality parameters including pH, temperature, dissolved oxygen, and nutrient concentrations to maintain a healthy system.
 ### Water Quality Parameters
-Maintaining proper water quality is critical for both fish health and plant growth in [[aquaponics]] compares to other growing methods helps determine whether it is the right choice for a given situation.
+Maintaining proper water quality is critical for both fish health and plant growth in [[aquaponics]] compares to other [[mushroom-growing-methods-comparison]] helps determine whether it is the right choice for a given situation.
 | Feature | Aquaponics | Hydroponics | Traditional Soil |
 |---|---|---|---|
-| Nutrient Source | Fish waste + bacteria | Synthetic liquid nutrients | Soil organic matter |
+| Nutrient Source | Fish waste + bacteria | Synthetic liquid nutrients | Soil [[hamilton-composting-and-organic-matter-management]] |
 | Water Usage | Very low (recirculating) | Low (recirculating) | High |
 | Startup Cost | Medium to high | Medium | Low |
 | Maintenance | Moderate (fish + plants) | Moderate (plants only) | Variable |
@@ -90,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

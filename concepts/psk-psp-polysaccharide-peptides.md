@@ -12,7 +12,7 @@ PSK (Polysaccharide-K, trade name Krestin) and PSP (Polysaccharide-Peptide) are 
 
 ### Clinical Trial Results
 
-Randomized controlled trials in gastric cancer have shown:
+Randomized controlled trials in [[lentinan-gastric-cancer-combination-therapy]] have shown:
 - Significant improvement in 5-year survival when combined with chemotherapy
 - Reduced postoperative recurrence rates
 - Enhanced immune parameters (CD4+ count, NK cell activity)
@@ -31,7 +31,7 @@ PSK demonstrates multiple immunomodulatory activities:
 
 ### Chemistry and Production
 
-- **Source**: mycelial biomass of a different Trametes versicolor strain (COV-1)
+- **Source**: mycelial biomass of a different [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] strain (COV-1)
 - **Developer**: Professor Q.Y. Yang, Chinese University of Hong Kong
 - **Type**: proteoglycan — similar but distinct from PSK
 - **Molecular weight**: slightly lower than PSK
@@ -72,7 +72,7 @@ PSP's immunomodulatory effects overlap with PSK but include some distinctive pro
 ## See Also
 
 - [[turkey-tail-trametes-versicolor]] — the source species
-- [[mushroom-cancer-clinical-trials-overview]] — overview of mushroom compound clinical trials
+- [[mushroom-cancer-clinical-trials-overview]] — overview of [[medicinal-mushroom-compound-extraction]] [[mushroom-cancer-clinical-trials-overview]]
 - [[psk-breast-lung-cancer-clinical-trials]]
 - [[lentinan-gastric-cancer-combination-therapy]]
 ## Practical Considerations
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

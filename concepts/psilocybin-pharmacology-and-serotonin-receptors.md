@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Pharmacology And Serotonin Receptors
+title: Psilocybin psilocybin pharmacology and serotonin receptors Receptors
 source: carolina-mushrooms_08qxp.md (EMCDDA Thematic Paper)
 mined: 2026-05-08
 tags: [pharmacology, psilocybin, serotonin, tryptamines, neuroscience, mycology]
@@ -11,7 +11,7 @@ tags: [pharmacology, psilocybin, serotonin, tryptamines, neuroscience, mycology]
 
 Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine, or 4-PO-DMT) and its active
 metabolite psilocin (4-hydroxy-N,N-dimethyltryptamine, or 4-HO-DMT) are the primary
-psychoactive compounds found in hallucinogenic mushrooms of the genera *Psilocybe*,
+psychoactive compounds found in [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] of the genera *Psilocybe*,
 *Panaeolus*, *Conocybe*, *Copelandia*, and *Inocybe*. These compounds belong to the
 indolealkylamine class of tryptamines, the same broad chemical family that includes
 LSD and serotonin (5-hydroxytryptamine, 5-HT).
@@ -36,16 +36,16 @@ such as LSD, DMT, [[psilocybe-semilanceata]]** (liberty cap): Most potent wild E
   Germany. Most commonly foraged hallucinogenic mushroom in Europe.
 
 - **[[psilocybe-azurescens]]**: Among the most potent known species, native to coastal
-  dune grasses of the Pacific Northwest of North America. Exceptionally high
+  dune grasses of the Pacific Northwest of [[psilocybin-north-america-pacific-northwest]]. Exceptionally high
   concentrations of psilocybin and psilocin.
 
 - **[[psilocybe-cyanescens]]** (wavy caps): Found in Europe and North America, known
   for potency and distinctive wavy-cap morphology when mature.
 
-- **Panaeolus cyanescens** (Copelandia): Tropical/coprophilous species with notable
+- **[[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]** (Copelandia): Tropical/coprophilous species with notable
   potency, sold as fresh product in European smartshops.
 
-- **Psilocybe mexicana and P. tampanensis**: Form sclerotia (hardened mycelial
+- **[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] and P. tampanensis**: Form sclerotia (hardened mycelial
   masses), sold commercially as "philosopher's stones" or "truffles."
 
 ## Route of Administration and Duration
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

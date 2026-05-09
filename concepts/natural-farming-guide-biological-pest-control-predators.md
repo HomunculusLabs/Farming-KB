@@ -1,5 +1,5 @@
 ---
-title: Biological Pest Control and Predator Attraction Strategies
+title: cervantes-biological-pest-control-predators Control and Predator Attraction Strategies
 created: 2026-04-28
 tags:
   - pest-management
@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-The *Natural Farming and Sustainable Living Guide* presents biological
+The *[[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]] Guide* presents biological
 pest control as a central strategy within the broader [[cervantes-companion-planting-pest-deterrent]]
    knowledge.
 5. Arrange plants so each one has a positive interaction with at least
@@ -29,10 +29,10 @@ pest control as a central strategy within the broader [[cervantes-companion-plan
 The guide provides the classic apple tree community as a model for
 biological pest control through plant stacking:
 
-- **Inner ring**: Legumes such as fava beans for nitrogen fixation.
+- **Inner ring**: Legumes such as fava beans for [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 - **Ground cover**: Clover with dandelions and chicory mixed in.
 - **Middle ring**: Comfrey, artichoke, yarrow, nasturtiums, and dill for
-  pest deterrence and nutrient accumulation.
+  [[foliar-pest-deterrence-aact-mechanisms]] and nutrient accumulation.
 - **Outer ring**: Daffodils that stop grass from encroaching.
 
 Each plant serves a purpose: attracting bees, providing mulch, fixing
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,3 +106,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[natural-farming-pest-control]]

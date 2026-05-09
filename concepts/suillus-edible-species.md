@@ -12,7 +12,7 @@ Suillus is a large genus of ectomycorrhizal bolete mushrooms characterized by th
 
 ## Overview
 
-The genus Suillus contains approximately 80 species distributed primarily across the Northern Hemisphere, with centers of diversity in North America and East Asia. Suillus species are among the most conspicuous and abundant ectomycorrhizal fungi in pine forests, often appearing in large numbers during wet periods.
+The genus Suillus contains approximately 80 species distributed primarily across the Northern Hemisphere, with centers of diversity in [[psilocybin-north-america-pacific-northwest]] and East Asia. Suillus species are among the most conspicuous and abundant ectomycorrhizal fungi in pine forests, often appearing in large numbers during wet periods.
 
 All Suillus species form obligate ectomycorrhizal associations with coniferous trees, primarily Pinus species but also Larix (larch) and Pseudotsuga (Douglas fir) in some cases. Their strong host specificity to conifers makes them reliable indicators of pine-dominated ecosystems.
 
@@ -34,13 +34,13 @@ This species is very common in pine forests across Europe and is considered one 
 
 ### Suillus brevipes (Short-stemmed Slippery Jack)
 
-Suillus brevipes is a North American species found under two-needle pines (particularly ponderosa pine and lodgepole pine). It is distinguished by its very short stem relative to the cap size and its dry to slightly viscid cap.
+Suillus brevipes is a [[growing-gourmet-north-american-reishi-species]] species found under two-needle pines (particularly ponderosa pine and lodgepole pine). It is distinguished by its very short stem relative to the cap size and its dry to slightly viscid cap.
 
 It is edible with the same precautions as S. luteus (peeling the cap cuticle and removing pore tubes). It is one of the most abundant boletes in western North American pine forests and provides a reliable foraging mushroom.
 
 ### Suillus pictus (Painted Suillus)
 
-Suillus pictus is a visually striking species with a dry, fibrillose cap that is red to orange with white fibrils, giving it a "painted" appearance. It is found under white pine (Pinus strobus) in eastern North America.
+Suillus pictus is a visually striking species with a dry, fibrillose cap that is red to orange with white fibrils, giving it a "painted" appearance. It is found under white pine (Pinus strobus) in [[polypore-fungi-eastern-north-america]] America.
 
 It is considered edible and mildly flavored, though less commonly collected than the more abundant Suillus species. The attractive appearance makes it easy to identify.
 
@@ -78,9 +78,9 @@ Some Suillus species can cause gastrointestinal upset in sensitive individuals, 
 
 Suillus species are pioneer ectomycorrhizal fungi, often among the first to colonize young pine seedlings in plantations and disturbed sites. Their spores are wind-dispersed in enormous quantities and can survive in soil for extended periods, allowing rapid colonization of newly planted pines.
 
-This pioneer ecology makes Suillus species important for forestry. By forming mycorrhizal associations with young pine seedlings, they enhance nutrient uptake and drought tolerance during the critical establishment phase. Some Suillus species have been used in commercial mycorrhizal inoculation programs for reforestation.
+This pioneer ecology makes Suillus species important for forestry. By forming mycorrhizal associations with young pine seedlings, they enhance nutrient uptake and [[dighton-fungal-drought-tolerance-plant-water-relations]] during the critical establishment phase. Some Suillus species have been used in commercial [[teaming-with-fungi-mycorrhizal-inoculation-techniques]] programs for reforestation.
 
-Suillus mycelium also contributes to soil formation and nutrient cycling in pine forest ecosystems. The extensive extraradical mycelium improves soil aggregation and water-holding capacity in sandy pine forest soils. See [[mycoforestry-forest-management-with-fungi]] for mycorrhizal roles in forestry.
+Suillus mycelium also contributes to soil formation and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in pine forest ecosystems. The extensive extraradical mycelium improves soil aggregation and water-holding capacity in sandy pine forest soils. See mycoforestry-forest-management-with-fungi for mycorrhizal roles in forestry.
 
 ## Identification Cautions
 
@@ -96,4 +96,4 @@ Some Suillus species cause allergic reactions or gastrointestinal upset in certa
 
 - [[mycorrhizal-fungi]]
 
-- [[edible-wild-mushroom-guide]]
+- edible-wild-mushroom-guide

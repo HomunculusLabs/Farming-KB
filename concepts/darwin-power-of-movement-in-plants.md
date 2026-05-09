@@ -1,5 +1,5 @@
 ---
-title: Darwin's Power of Movement in Plants and the Discovery of Auxin
+title: Darwin's darwin power of movement in plants in Plants and the Discovery of Auxin
 created: 2026-04-28
 tags:
   - botany
@@ -36,7 +36,7 @@ of plant organisms. His son Francis, who became a distinguished botanist
 in his own right, collaborated extensively on the movement studies,
 contributing both experimental work and physiological insight.
 
-The study of plant movement had a rich history before the Darwins.
+The study of plant movement had a [[plant-science-exploring-rich-history]] before the Darwins.
 Stephen Hales had documented plant movements in *Vegetable Staticks*
 (1727), and the French scientist Jean-Baptiste Lamarck had studied
 heliotropism in the early [[cannabis-microbiome-experimental-design]] brilliantly
@@ -56,7 +56,7 @@ nutation, and they argued that circumnutation was a [[stephen-hales-plant-physio
 - Darwin, C. and Darwin, F. (1880). *The Power of Movement in Plants*.
   London: John Murray.
 - Went, F.W. (1926). "On growth-accelerating substances in the coleoptile
-  of Avena sativa." *Proceedings of the Koninklijke Nederlandse
+  of [[avena-sativa]]." *Proceedings of the Koninklijke Nederlandse
   Akademie van Wetenschappen*, 30, 10–19.
 - Williams, M. "Teaching Tools in Plant Biology," American Society of
   Plant Biologists.
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

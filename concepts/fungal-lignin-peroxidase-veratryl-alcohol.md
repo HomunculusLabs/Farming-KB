@@ -1,5 +1,5 @@
 ---
-title: Fungal Lignin Peroxidase and Veratryl Alcohol Mediation
+title: Fungal fungal lignin peroxidase veratryl alcohol and Veratryl Alcohol Mediation
 created: 2026-04-28
 tags: [lignin-peroxidase, veratryl-alcohol, bioremediation, enzymes, white-rot-fungi]
 date: 2026-04-25
@@ -13,21 +13,21 @@ type: concept
 ## Overview
 
 Lignin peroxidase (LiP, EC 1.11.1.7) is a water-soluble, glycosylated
-heme enzyme secreted by white rot fungi. Unique among peroxidases, LiP
+heme enzyme secreted by [[white-rot-fungi]]. Unique among peroxidases, LiP
 can produce radical cations from non-phenolic aromatic compounds with
-redox potentials beyond the reach of manganese peroxidase or laccase.
+redox potentials beyond the reach of [[fungal-manganese-peroxidase-remediation]] or [[laccase]].
 Veratryl alcohol (VA), a fungal metabolite co-secreted with LiP, serves
-as a crucial redox mediator that extends the catalytic range of LiP.
+as a crucial [[staycare-fungal-redox-mediator-chemistry-pollutant-degradation]] that extends the catalytic range of LiP.
 The LiP-veratryl alcohol system is central to fungal degradation of
-recalcitrant pollutants including polycyclic aromatic hydrocarbons
-(PAHs), chlorinated aromatics, and diverse xenobiotic compounds.
+recalcitrant pollutants including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons
+(PAHs), [[fungal-biodegradation-chlorinated-aromatics-and-btex]], and diverse xenobiotic compounds.
 
 ## LiP Structure and Properties
 
 LiP comprises a family of isozymes with major isozymes crystallized
 and their genes identified. LiP has the same heme and similar active
 site residues as manganese peroxidase, with histidine as the proximal
-ligand accepting a proton from hydrogen peroxide and distal arginine
+ligand accepting a proton from [[cervantes-hydrogen-peroxide-sterilization]] and distal arginine
 facilitating oxygen-oxygen bond cleavage. LiP has four disulfide bonds
 (compared with five in MnP) and shares high sequence homology with
 MnP. The major structural distinction is that neutral or positive
@@ -140,4 +140,4 @@ pollutant degradation.
 
 - [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]]
 - [[fungal-manganese-peroxidase-remediation]]
-- [[mycoremediation-of-pahs]]
+- mycoremediation-of-pahs

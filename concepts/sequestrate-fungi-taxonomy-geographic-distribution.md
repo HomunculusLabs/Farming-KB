@@ -1,5 +1,5 @@
 ---
-title: Sequestrate Fungi Taxonomy and Geographic Distribution
+title: Sequestrate copelandia-panaeoloideae-neurotropic-fungi-taxonomy-distribution and Geographic Distribution
 created: 2026-04-26
 tags:
   - sequestrate-fungi
@@ -55,14 +55,14 @@ richness declines northward into the boreal forest. Southern
 Hemisphere forests in South America and New Zealand are not well
 enough explored for similar conclusions.
 
-Sequestrate species richness appears greater in North America
+Sequestrate species richness appears greater in [[psilocybin-north-america-pacific-northwest]]
 and Australia than in Europe, paralleling patterns for
 ectomycorrhizal hosts. The predominance of north-south oriented
 mountain ranges in North America and Australia permitted fungal
 and host-species migrations during Ice Ages. In Europe, the
 predominantly east-west orientation of mountain ranges impeded
 such migrations, a factor of particular importance to fungi
-depending on animals for spore dispersal.
+depending on animals for [[aquatic-fungi-spore-dispersal-ingold]].
 
 ## Host Specificity and Richness
 
@@ -114,7 +114,7 @@ misidentification is common due to lack of good keys for most taxa.
 
 Mycorrhizal or saprobic habits of epigeous relatives generally
 carry over into sequestrate forms. Hysterangium and Gautieria
-species form dense mycelial mats with specific biogeochemical
+species form dense [[singh-mycelial-mats-and-biological-soil-crusts]] with specific biogeochemical
 properties. Rhizopogon species induce prolific branching of host
 rootlets through auxin production. Tuber melanosporum produces
 herbicidal compounds that reduce weed competition.

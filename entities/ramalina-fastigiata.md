@@ -13,7 +13,7 @@ updated: 2026-05-08
 sources:
   - Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. London: Natural History Museum.
   - Nimis, P.L. & Martellos, S. (2008). "ITALIC - The Information System on Italian Lichens." University of Trieste.
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of North America. Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
   - Seaward, M.R.D. (2010). "Ramalina." In: Nash III, T.H. et al. (eds), Lichen Biology (2nd ed.). Cambridge University Press.
   - Huneck, S. & Yoshimura, I. (1996). Identification of Lichen Substances. Springer.
 ---
@@ -26,7 +26,7 @@ cartilage lichen**. It is widely distributed across temperate and
 Mediterranean regions, typically growing on tree bark in well-lit habitats.
 
 The species is recognized by its erect, flattened, channelled branches that
-resemble small antlers. It serves as a bioindicator for air quality and is
+resemble small antlers. It serves as a bioindicator for [[cervantes-air-quality-ventilation]] and is
 used in lichen diversity surveys across Europe.
 
 ## Taxonomy and Morphology
@@ -52,18 +52,18 @@ diameter with a brown disc and a thalline margin. Spores are ellipsoid,
 12-18 × 5-8 µm, colourless, and 1-septate.
 
 Chemically, the species contains **evernic acid** and **usnic acid** as
-major secondary metabolites, with **divaricatic acid** present in some
+major [[antifungal-secondary-metabolites-coprophilous-fungi]], with **divaricatic acid** present in some
 populations.
 
 ## Distribution and Habitat
 
 *Ramalina fastigiata* has a wide distribution across Europe, western Asia,
-and eastern North America. In Europe it is common from the Mediterranean
+and [[polypore-fungi-eastern-north-america]] America. In Europe it is common from the Mediterranean
 region northward to southern Scandinavia and the British Isles.
 
 The species is primarily corticolous, growing on the bark of deciduous and
 coniferous trees in open woodland, hedgerows, parkland, and orchards.
-Preferred substrates include oak, elm, ash, and various fruit trees.
+Preferred substrates include oak, elm, ash, and various [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]].
 
 It favours well-lit, moderately nutrient-enriched bark, often occurring
 on the trunk and main branches where light availability is high. The
@@ -102,7 +102,7 @@ well-lit bark surfaces. It often co-occurs with *Xanthoria parietina* and
 
 The species provides microhabitat for invertebrates including mites,
 springtails, and lichen-associated insects. It intercepts atmospheric
-nutrients and contributes to canopy nutrient cycling.
+nutrients and contributes to canopy [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 As a moderately pollution-tolerant species, *R. fastigiata* is used as a
 bioindicator in air quality monitoring. Its presence alongside sensitive
@@ -129,6 +129,10 @@ lichen biomonitoring protocols across Europe, particularly in
 Mediterranean and Atlantic regions.
 
 ## See Also
+
+- [[ramalina-menusis]]
+
+- [[ramalina-canariensis]]
 
 - [[usnea-barbata]]
 - [[cladonia-rangiferina]]

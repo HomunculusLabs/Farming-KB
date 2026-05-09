@@ -12,17 +12,17 @@ sources:
 
 ## Overview
 
-Catalog of multi-functional perennial plants for permaculture design, extracted from the permaculture plant compendium. Species are organized by functional category. Most are perennial; some annuals are included for specific functions. Ranges from temperate to tropical climates.
+Catalog of multi-functional perennial plants for [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], extracted from the permaculture plant compendium. Species are organized by functional category. Most are perennial; some annuals are included for specific functions. Ranges from temperate to tropical climates.
 
 ## Nitrogen-Fixing Trees
 
 | Plant | Scientific Name | Height | Climate | Key Uses |
 |-------|----------------|--------|---------|----------|
-| Acacia (various) | Acacia spp. | 3-25m | Arid-tropical | Fodder, firewood, timber, erosion control |
+| Acacia (various) | Acacia spp. | 3-25m | Arid-tropical | Fodder, firewood, timber, [[permplant-willows-salix-erosion-control-fodder]] |
 | Albizia | Albizia lophantha, A. julibrissin | 9-15m | Warm temp-tropical | Shade, windbreak, pioneer, 3-tier systems |
 | Alder | Alnus spp. | 10-25m | Temperate | Nurse crop, mulch, black humus, firewood |
 | Autumn olive | Elaeagnus umbellata | 4.5m | Temperate | Hedge, wildlife berries, poor soil |
-| Russian olive | Elaeagnus angustifolia | 20m | Temperate | Windbreak, wildlife, drought tolerant |
+| Russian olive | Elaeagnus angustifolia | 20m | Temperate | Windbreak, wildlife, [[permplant-carob-drought-tolerant-food-tree]] |
 | Black locust | Robinia pseudoacacia | 10-20m | Cool temperate | N-fixing, timber (20+ yr untreated), bee forage |
 | Silver wattle | Acacia dealbata | — | Temperate | Fukuoka used in fields to boost production |
 | Camel thorn | Faidherbia albida | 10-25m | Tropical | 135 kg pods/tree in Sudan; fodder |
@@ -65,7 +65,7 @@ Catalog of multi-functional perennial plants for permaculture design, extracted 
 |-------|----------------|--------|---------|----------|
 | Asparagus | Asparagus officinalis | — | Temp-subtrop | 20+ year production, stream bank stabilizer |
 | Globe artichoke | Cynara scolymus | 1.5m | Temperate | Edible flower buds, ornamental, bee forage |
-| Horseradish | Armoracia rusticana | 0.5-1m | Cool climates | Condiment, diuretic, infections, lung problems |
+| Horseradish | Armoracia rusticana | 0.5-1m | [[greenhouse-cool-climates-mollison]] | Condiment, diuretic, infections, lung problems |
 | Comfrey | Symphytum spp. | — | Temperate | Mulch (high potash), manure tea, bee forage, B12 source |
 | Fennel | Foeniculum vulgare | To 1.5m | Temperate | Culinary seeds, medicinal, insectary plant, suppresses grasses |
 | Chicory | Cichorium intybus | 0.6-1.6m | Temp-subtrop | Bee forage, coffee substitute, mineral-rich deep taproot, forage |
@@ -104,11 +104,11 @@ Catalog of multi-functional perennial plants for permaculture design, extracted 
 - Fruit tree at center, with understory plants arranged for mutual benefit
 - Every vertical layer used for yield
 - "Careful choice of species so that the plants are mutually beneficial"
-- Insectary plants (umbellifers, composites) attract beneficial insects
+- Insectary plants (umbellifers, composites) attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 
 ### Edge Principle
 
-- "There's more edge and vertical growing space than you can shake a stick at in the city"
+- "There's more edge and vertical [[cotter-growing-space-design-fruiting-rooms]] than you can shake a stick at in the city"
 - Many plants yield best on edges: hazelnuts, blackberries, grapes
 - Urban environments maximize edge — walls, fences, rooftops, alleys
 

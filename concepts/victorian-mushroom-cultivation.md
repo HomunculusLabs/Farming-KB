@@ -1,5 +1,5 @@
 ---
-title: Victorian Mushroom Cultivation
+title: Victorian accessible-mushroom-cultivation-for-disabilities
 created: 2026-04-28
 tags: [mushrooms, victorian-gardening, history, horticulture, james-cuthill]
 date: 2026-04-28
@@ -11,9 +11,9 @@ type: concept
 
 # Victorian Mushroom Cultivation
 
-Victorian mushroom cultivation in England was a specialised
+Victorian [[mushroom-cultivation-in-kenya]] England was a specialised
 branch of practical horticulture combining scientific
-understanding with traditional gardening craft. James Cuthill
+understanding with [[holzer-kitchen-garden-layout-and-traditional-gardening]] craft. [[james-cuthill]]
 FRHS of Camberwell, London, was one of its foremost
 practitioners. His 1870 treatise, published by Groombridge
 and Sons of Paternoster Row, distilled over thirty years of
@@ -25,7 +25,7 @@ James Cuthill was a Fellow of the Royal Horticultural Society
 who served in private families "from royalty downwards" before
 establishing himself as a writer and commercial grower. He
 authored garden manuals covering mushrooms, cucumbers and
-melons, potatoes, strawberries, vines, and market gardening.
+melons, potatoes, strawberries, vines, and [[coleman-french-maraicher-parisian-intensive-market-gardening]].
 
 His practical background gave his writing authority grounded in
 experience rather than theory. He addressed amateurs, cottagers,
@@ -39,7 +39,7 @@ Cuthill identified a gap between experts and the public. The
 successful cultivation by the few, has long kept this most
 delicious and nutritious food as a dainty only for the
 wealthy." His treatise aimed to bridge this gap with simple,
-explicit instructions for mushroom bed preparation.
+explicit instructions for mushroom [[azurescens-outdoor-bed-preparation-woodchips]].
 
 ## The Oldacre Legacy
 
@@ -53,7 +53,7 @@ approach:
 
 ### Conservative Watering
 
-Unlike many growers, Cuthill advocated minimal [[mushroom-spawn]] as insurance,
+Unlike many growers, Cuthill advocated minimal mushroom-spawn as insurance,
 Cuthill preferred natural spawn from summer droppings. He
 considered Mill Track spawn, naturally produced by horses'
 feet mixing droppings with road-sand, the finest variety.
@@ -72,7 +72,7 @@ management for generations of growers.
 The treatise was printed by J.H. Adiard and published by
 Groombridge and Sons. They were prominent horticultural
 publishers also issuing works by Shirley Hibberd FRHS on
-roses, ferns, and profitable gardening. Mushroom cultivation
+roses, ferns, and profitable gardening. [[mushroom-cultivation]]
 sat within a broader Victorian movement popularising
 horticultural knowledge among growing middle and working
 classes.
@@ -80,7 +80,7 @@ classes.
 ## Legacy
 
 Cuthill's methods embody principles still relevant: careful
-temperature management, minimal watering, quality [[mushroom-soil-mould]].
+[[cervantes-reservoir-temperature-management]], minimal watering, quality [[mushroom-soil-mould]].
 His achievement of uninterrupted year-round production through
 continual bed rotation remains impressive, and his social
 mission of democratising mushroom knowledge resonates with

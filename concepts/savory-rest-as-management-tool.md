@@ -1,7 +1,7 @@
 ---
 title: Rest as a Management Tool
 created: 2026-04-26
-aliases: [rest, total rest, partial rest, land resting,
+aliases: [rest, total rest, [[savory-partial-rest-and-algal-crusts]], land resting,
           deferment, non-disturbance]
 tags: [rest, land-management, brittle-environments, ecosystem-tools,
       overrest]
@@ -16,7 +16,7 @@ type: concept
 
 # Rest as a Management Tool
 
-Rest as a tool in Holistic Resource Management differs fundamentally
+Rest as a tool in [[savory-holistic-resource-management-animal-impact]] Management differs fundamentally
 from the short physiological rest a plant requires to recover from
 severe defoliation. Here, rest means rest from major physical
 disturbance and applies to the community as a whole. It is one of
@@ -53,7 +53,7 @@ Communities under total rest in nonbrittle environments maintain a
 high degree of stability and complexity of species. Water, if it runs
 off at all, carries no silt or debris. Even very prolonged rest from
 fire or physical impact has little or no adverse effect on the water
-cycle, mineral cycle, succession, or energy flow. Desertification is
+cycle, [[savory-mineral-cycle-management]], succession, or energy flow. Desertification is
 seldom a danger.
 
 ## Rest in Brittle Environments
@@ -76,7 +76,7 @@ Brittle environments subjected to extended rest characteristically have
 wide bare spaces between vestigial perennial plants. The remaining
 plants survive only because light reaches growing points around the
 edges of each clump, while the centers may already be dead. Despite
-years of seed production, no seedlings establish on the bare, undisturbed
+years of [[cervantes-seed-production-storage]], no seedlings establish on the bare, undisturbed
 surface.
 
 ## Successional Shift Under Rest
@@ -85,7 +85,7 @@ When closely-spaced perennial grasses that established after some
 disturbance are subsequently rested, they begin to kill each other as
 old growth shades even the edges of neighboring clumps. This creates
 ideal conditions for woody plant invasion. Dead grass clumps provide
-a good microenvironment for seed germination, and dead root systems
+a good microenvironment for [[cannabis-seed-germination-methods]], and dead root systems
 create excellent medium for taproot penetration.
 
 Most of the brush and tree encroachment considered a problem today owes
@@ -100,7 +100,7 @@ Environments in the middle of the brittleness scale (5 or 6 on the
 1-to-10 scale) show adverse symptoms more slowly but the pattern is
 the same. At Nebraska's Crescent Lake Wildlife Refuge, twelve years of
 rest showed weakened grasses and invasion of tap-rooted plants. After
-fifty years of rest, all four ecosystem foundation blocks had visibly
+fifty years of rest, all four [[savory-ecosystem-foundation-blocks]] blocks had visibly
 suffered. Grasses were dead or dying, bare ground had expanded, and
 only weed species remained to colonize openings.
 

@@ -1,5 +1,5 @@
 ---
-title: "JADAM Fertilizer Program Design"
+title: "JADAM jadam fertilizer program design Design"
 created: 2026-04-28
 tags: [jadam, fertilizer-program, nutrient-management, soil-fertility, ultra-low-cost]
 date: 2026-04-25
@@ -22,7 +22,7 @@ interests of fertilizer manufacturers rather than farmers.
 
 The standard agricultural approach divides plant growth into stages and
 designs separate fertilizer programs for each: high nitrogen during early
-vegetative growth, high phosphorus during flowering, high potassium during
+[[cannabis-vegetative-growth-stage]], high phosphorus during flowering, high potassium during
 fruit fill, and high calcium at maturation. JADAM challenges this paradigm
 on several grounds:
 
@@ -32,8 +32,8 @@ on several grounds:
     continuous soil-based nutrient supply.
 
 2.  **It serves marketing, not farmers** — The complex stage-based system
-    is intimately related to the sales of chemical fertilizers, NPK mixes,
-    and customized liquid fertilizers. It creates dependency on purchased
+    is intimately related to the sales of [[cervantes-chemical-fertilizers-guide]], NPK mixes,
+    and customized [[solomon-liquid-fertilizers-and-foliar-feeding]]. It creates dependency on purchased
     inputs and takes away farmers' mastery of their own technology.
 
 3.  **Historical evidence contradicts it** — Farmers 40-50 years ago
@@ -48,7 +48,7 @@ on several grounds:
 JADAM's fertilizer program is built on a simple but profound principle:
 **give plants what is the same as (or similar to) the plants themselves.**
 This means returning to the soil the same nutrients that are removed at
-harvest, maintaining a natural nutritional balance.
+harvest, maintaining a natural [[jadam-nutritional-balance-fertilizer]].
 
 ### Base Fertilizer
 
@@ -59,7 +59,7 @@ Base fertilizer is supplied by:
 -   **Crop residues** — The plant parts left after harvest.
 -   **Animal manure** — From animals that ate grass (chicken and pig manure
     can also be used).
--   **Alternative organic matter** — Sawdust, tree bark, or leaves when
+-   **Alternative [[hamilton-composting-and-organic-matter-management]]** — Sawdust, tree bark, or leaves when
     cover crops are not feasible.
 
 ### Additional Fertilizer
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

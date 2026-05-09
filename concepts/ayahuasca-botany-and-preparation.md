@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca Botany and Preparation
+title: ayahuasca|Ayahuasca Botany and Preparation
 created: 2026-04-28
 tags:
   - ayahuasca
@@ -18,7 +18,7 @@ Ayahuasca is a psychoactive brew traditionally prepared in the
 Amazon basin, combining two essential plant species: the
 ayahuasca vine ([[psychotria-viridis]]). This combination produces a potent
 visionary medicine through the interaction between beta-carboline
-alkaloids from the vine and N,N-dimethyltryptamine (DMT) from
+alkaloids from the vine and N,N-dimethyl[[tryptamine|tryptamine]] (DMT) from
 the leaf. The pharmacological synergy between these plants
 represents one of the most remarkable examples of indigenous
 pharmacological knowledge.
@@ -45,7 +45,7 @@ Psychotria viridis is a shrub in the Rubiaceae family (the
 coffee family) that provides the visionary component of the
 brew. Its leaves contain N,N-dimethyltryptamine (DMT), a
 powerful psychoactive tryptamine alkaloid structurally related
-to serotonin and psilocybin. DMT is orally inactive on its own
+to serotonin and [[psilocybin|psilocybin]]. DMT is orally inactive on its own
 because it is rapidly broken down by monoamine oxidase (MAO)
 enzymes in the human digestive tract. The MAO-inhibiting
 alkaloids from B. caapi prevent this breakdown, allowing DMT
@@ -101,4 +101,4 @@ sanango (Brunfelsia grandiflora) may be added for cleansing.
 Camalote (Monstera species) is sometimes included. Each
 vegetalista develops their own recipe, drawing from the
 pharmacopoeia of hundreds of medicinal plants known in the
-Amazonian tradition. See [[ayahuasca-visions]] and [[ayahuasca-vision-art-and-Shipibo-tradition]]
+Amazonian tradition. See [[ayahuasca-visions]] and [[ayahuasca-vision-art-and-shipibo-tradition]]

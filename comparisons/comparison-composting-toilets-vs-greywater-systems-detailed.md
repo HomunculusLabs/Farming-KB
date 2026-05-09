@@ -1,10 +1,11 @@
 ---
-title: "Composting Toilets vs Greywater Systems"
+title: "comparison composting toilets vs greywater systems detailed vs Greywater Systems"
 created: 2026-04-28
 tags: [comparison, waste-management, water-conservation, permaculture, sanitation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
@@ -34,9 +35,9 @@ exclude.
 
 The branched drain system, developed by Art Ludwig, is the simplest and most
 reliable approach. Wastewater flows by gravity through branching PVC pipes,
-each terminating in a mulch basin filled with wood chips. No pumps, filters,
+each terminating in a mulch basin filled with [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]]. No pumps, filters,
 or electricity are needed. For sites without adequate slope, a surge tank with
-pump distributes water to a larger area. Constructed wetlands offer the
+pump distributes water to a larger area. [[comparison-constructed-wetlands-vs-bioswales]] offer the
 highest treatment level, using aquatic plants and gravel media to reduce BOD
 by 85 to 95%, TSS by 80 to 90%, and nitrogen by 40 to 60%.
 
@@ -69,7 +70,7 @@ pump.
 | Water savings | Eliminates flush water (13,000 liters/year/toilet) | Reduces total water use by 30 to 50% |
 | Nutrient recovery | Nitrogen, phosphorus, potassium to soil | Nutrients in water to landscape plants |
 | Integration | Closes nutrient loop (waste to fertilizer) | Closes water loop (wastewater to irrigation) |
-| Best For | Off-grid living, nutrient cycling | Water conservation, landscape irrigation |
+| Best For | Off-grid living, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] | Water conservation, landscape irrigation |
 
 ## When to Choose Composting Toilets
 Composting toilets are essential for off-grid homes, rural homesteads, and
@@ -94,7 +95,7 @@ first step toward sustainable waste management.
 ## Hybrid Approaches
 The most complete waste management systems combine both technologies.
 Composting toilets handle blackwater while greywater from sinks, showers, and
-laundry irrigates fruit trees and perennial plantings. Together, they
+laundry irrigates [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and perennial plantings. Together, they
 eliminate the need for conventional sewage infrastructure entirely and close
 both the water and nutrient cycles on-site. The compost feeds the same trees
 that the greywater irrigates, completing a closed-loop system that Bill
@@ -102,5 +103,8 @@ Mollison placed at the center of his permaculture waste-free design
 philosophy.
 
 ## See Also
-- [[constructed-wetland-design]] — advanced greywater treatment
-- [[permaculture]] — design framework that integrates both systems
+- [[constructed-wetland-design]] — advanced [[mollison-designers-greywater-treatment-reedbeds]]
+- permaculture — design framework that integrates both systems
+- [[composting-toilets]]
+- [[decomposition]]
+- [[permaculture-design]]

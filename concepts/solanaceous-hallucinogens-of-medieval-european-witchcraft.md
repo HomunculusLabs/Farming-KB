@@ -1,5 +1,5 @@
 ---
-title: Solanaceous Hallucinogens of Medieval European Witchcraft
+title: Solanaceous Hallucinogens of Medieval harner-european-witchcraft-hallucinogens
 created: 2026-04-28
 tags: [ethnobotany, solanaceae, tropane-alkaloids, european-history, witchcraft]
 date: 2026-04-25
@@ -15,7 +15,7 @@ important ingredients to the hallucinogenic brews and ointments of
 medieval European witchcraft. Belladonna, henbane, mandrake, and datura
 formed the core pharmacopoeia of the so-called witches' brews, all
 sharing a common chemistry of tropane alkaloids that induce vivid
-hallucinations, sensations of flight, and altered states of
+hallucinations, sensations of flight, and [[weil-the-natural-mind-altered-states-normalcy]] of
 consciousness.
 
 ## Belladonna (Atropa belladonna)
@@ -117,6 +117,8 @@ demonstrating how the boundary between poison and medicine often depends
 on dosage and context.
 
 ## See Also
+
+- [[lycanthropy-solanaceous-hallucinogens]]
 
 - [[hallucinogenic-plants-history-ethnobotany]]
 - [[datura-metel-old-world-ethnobotany]]

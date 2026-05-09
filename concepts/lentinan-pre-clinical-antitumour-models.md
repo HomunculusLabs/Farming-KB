@@ -9,11 +9,11 @@ sources: []
 
 # Lentinan Pre-Clinical Antitumour Models
 
-Lentinan from Lentinus edodes has been extensively tested in pre-clinical animal models, providing the foundation for its clinical use in cancer treatment. The Sarcoma 180 model has been the standard screening system for mushroom anti-tumour polysaccharides.
+Lentinan from [[lentinus-edodes-entity-the-mushroom-cultivator]] has been extensively tested in pre-clinical animal models, providing the foundation for its clinical use in cancer treatment. The Sarcoma 180 model has been the standard screening system for mushroom anti-tumour polysaccharides.
 
 ## Sarcoma 180 Allogeneic Models
 
-Sarcoma 180 is the most widely used tumour model for evaluating mushroom polysaccharide anti-tumour activity. Lentinan showed dose-dependent effects:
+Sarcoma 180 is the most widely used tumour model for evaluating [[mushroom-polysaccharide-chemistry]] anti-tumour activity. Lentinan showed dose-dependent effects:
 
 ### CD-1/ICR Mice
 | Dose (mg/kg x days) | Tumour Inhibition (%) | Complete Regression |
@@ -68,7 +68,7 @@ Lentinan prevented chemical and viral oncogenesis:
 | MC-induced | DBA/2 | 1 x 10 | 78% to 37% |
 | Adenovirus | C3H/He | 10 x 3 | 79% to 40% |
 
-This is particularly significant as it demonstrates cancer prevention potential, not just treatment.
+This is particularly significant as it demonstrates [[cancer-prevention-dietary-mushroom-intake]] potential, not just treatment.
 
 ## Administration Notes
 
@@ -80,7 +80,7 @@ This is particularly significant as it demonstrates cancer prevention potential,
 
 1. Dose dependency: optimal ranges exist; excessive doses lose efficacy
 2. Host-mediated mechanism: requires immunocompetent host
-3. Strain specificity: different mouse strains show different responses
+3. [[cold-shock-fruiting-strain-specificity]]: different mouse strains show different responses
 4. Broad activity: effective against multiple tumour types
 5. Prevention potential: reduces tumour occurrence, not just regression
 6. Metastasis control: significant inhibition of metastatic spread

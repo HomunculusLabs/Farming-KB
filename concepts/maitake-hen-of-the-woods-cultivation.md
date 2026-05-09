@@ -5,11 +5,12 @@ updated: 2026-04-15
 type: concept
 tags: [cultivation, mycology]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Maitake (Hen of the Woods) Cultivation
 
-Maitake (Grifola frondosa) is one of the most prized culinary and medicinal mushrooms in Japanese and Chinese culture. Known as the "dancing mushroom" because foragers were said to dance with joy upon finding it. It forms large, overlapping clusters of brownish-gray caps with a rich, earthy flavor and meaty texture.
+Maitake ([[maitake-grifola-frondosa-comprehensive-profile]]) is one of the most prized culinary and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] in Japanese and Chinese culture. Known as the "dancing mushroom" because foragers were said to dance with joy upon finding it. It forms large, overlapping clusters of brownish-gray caps with a rich, earthy flavor and meaty texture.
 
 ## Species Information
 - Scientific name: Grifola frondosa (Dicks.: Fr.) S.F. Gray
@@ -27,7 +28,7 @@ Maitake is among the more difficult gourmet mushrooms to cultivate indoors. The 
 ## Cultivation Method: Supplemented Sawdust Blocks
 - Substrate: hardwood sawdust (oak preferred) supplemented with 20-30% bran (rice bran or wheat bran)
 - Container: heat-resistant polypropylene bags or bottles
-- Sterilization: autoclave or pressure sterilization required
+- Sterilization: autoclave or [[boil-a-bag-pressure-sterilization-technique]] required
 - Inoculation: grain spawn or sawdust spawn
 - Spawn run: 30-45 days at 70-75 F with high humidity
 - Induction: cold shock (reduce temperature to 55-60 F) and increased fresh air exchange
@@ -64,7 +65,7 @@ Unlike oysters or shiitake, maitake often requires specific induction cues:
 - Fresh shelf life: 7-14 days refrigerated
 
 ## Yield
-- Biological efficiency: 50-100% on supplemented sawdust (moderate)
+- [[stamets-biological-efficiency-yield]]: 50-100% on supplemented sawdust (moderate)
 - Typically 1-2 flushes per block; second flush often weak
 - Market price is premium, offsetting lower yields compared to oysters
 
@@ -77,7 +78,7 @@ Unlike oysters or shiitake, maitake often requires specific induction cues:
 | Antler/Stem Dev | 50-60 F (10-15.6 C) | 95% | 2,000-5,000 ppm | 10-14 days | 100-500 lux |
 | Fruiting | 55-60 F (13-16 C) | 85-90% | <1,000 ppm | 14-21 days | 500-1000 lux |
 
-Cropping cycle: every 3-4 weeks for a maximum of two flushes. Note the unusually long spawn run with a 30-day dormant period — this species requires extended incubation compared to other cultivated mushrooms. The antler/stem development stage is unique among cultivated gourmet mushrooms.
+Cropping cycle: every 3-4 weeks for a maximum of two flushes. Note the unusually long spawn run with a 30-day dormant period — this species requires extended incubation compared to other [[fungi-cultivated-mushrooms-pathogens-competitors]]. The antler/stem development stage is unique among cultivated gourmet mushrooms.
 
 ## Mycelial Characteristics
 
@@ -93,7 +94,7 @@ Given the size of wild fruitbodies (up to 100 lbs), Maitake may become a premier
 
 ## Detailed Medicinal Properties
 
-The National Cancer Institute found that sulfated fractions of powdered Maitake fruitbodies showed significant activity against HIV (AIDS) in vitro — the first mushroom confirmed to have anti-HIV activity by both US and Japanese researchers. Extracts compared favorably with AZT but with no negative side effects. The active polysaccharide fraction is a three-branched beta-1,6 glucan called **grifolan** (first characterized by Ohno et al., 1985). Grifolan showed strong anti-tumor activity against Sarcoma-180 in mice, causing complete tumor regression in 1/3 to 1/2 of trials at only 35 days. Alkali extracts were more effective than hot or cold water infusions. The D-fraction (protein-bound polysaccharide) is particularly effective via oral administration, activating helper T-cells. Other medicinal claims include reduction of blood pressure, diabetes, cholesterol, chronic fatigue syndrome, and various cancers. Vitamin C should be taken with Maitake to increase bio-availability of polysaccharides.
+The National Cancer Institute found that sulfated fractions of powdered Maitake fruitbodies showed significant activity against HIV (AIDS) in vitro — the first mushroom confirmed to have anti-HIV activity by both US and Japanese researchers. Extracts compared favorably with AZT but with no negative side effects. The active polysaccharide fraction is a three-branched beta-1,6 glucan called **grifolan** (first characterized by Ohno et al., 1985). Grifolan showed strong anti-tumor activity against Sarcoma-180 in mice, causing complete tumor regression in 1/3 to 1/2 of trials at only 35 days. Alkali extracts were more effective than hot or cold water infusions. The D-fraction (protein-bound polysaccharide) is particularly effective via oral administration, activating helper T-cells. Other medicinal claims include reduction of blood pressure, diabetes, cholesterol, [[cannabis-chronic-fatigue-research]] syndrome, and various cancers. Vitamin C should be taken with Maitake to increase bio-availability of polysaccharides.
 
 ## Nutritional Content
 
@@ -109,4 +110,4 @@ Yield: 1/2 to 2 lbs mushroom per 5-7 lbs of sterilized, enriched hardwood sawdus
 - [[mushroom-cultivation-fruiting-chambers]] for environmental triggers
 - [[gourmet-mushroom-enriched-sawdust-cultivation]]
 - [[oyster-mushroom-species-fruiting-parameters]]
-- [[mushroom-sawdust-bran-spawn-preparation]]
+- mushroom-sawdust-bran-spawn-preparation

@@ -142,15 +142,6 @@ Artificial nesting structures supplement natural cavities, which are often limit
 ## Invasive Species Management
 
 Invasive plants degrade habitat by outcompeting natives and providing poor food value for wildlife. Common invasives to control:
-
-- Japanese honeysuckle: Smothers native vegetation. Cut and treat stumps.
-- Autumn olive: Aggressive shrub that displaces natives. Cut and treat stumps.
-- Multiflora rose: Forms impenetrable thickets. Mow or treat.
-- Garlic mustard: Outcompetes spring wildflowers. Pull by hand before seed set.
-- Oriental bittersweet: Strangles trees. Cut vines and treat stumps.
-
-Control methods: Hand-pulling (small infestations), repeated mowing, targeted herbicide application on cut stumps, prescribed grazing (goats are effective for many woody invasives).
-
 ## Related Topics
 
 - [[food-forest-design]] for integrating food production with wildlife habitat

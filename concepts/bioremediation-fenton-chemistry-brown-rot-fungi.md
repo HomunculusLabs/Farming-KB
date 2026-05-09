@@ -1,5 +1,5 @@
 ---
-title: "Fenton Chemistry in Brown Rot Fungi"
+title: "bioremediation fenton chemistry brown rot fungi in comparison-brown-rot-vs-white-rot-bioremediation Fungi"
 created: 2026-04-28
 tags: [bioremediation, fungal-enzymology, brown-rot, wood-decay]
 date: 2026-04-25
@@ -12,9 +12,9 @@ type: concept
 
 Fenton chemistry is the non-enzymatic mechanism by which brown rot fungi
 degrade cellulose in wood, generating highly reactive hydroxyl radicals
-through the reaction of hydrogen peroxide with ferrous iron. This
-process distinguishes brown rot from white rot decay and has significant
-implications for [[fungal-wood-decay-types-white-rot-brown-rot]], and [[fungal-wood-decay-types-white-rot-brown-rot]].
+through the reaction of [[cervantes-hydrogen-peroxide-sterilization]] with ferrous iron. This
+process distinguishes brown rot from [[fungal-degradation-of-pcbs-by-white-rot-fungi]] decay and has significant
+implications for fungal-wood-decay-types-white-rot-brown-rot, and fungal-wood-decay-types-white-rot-brown-rot.
 
 ## Iron Reduction and Chelation
 
@@ -44,11 +44,11 @@ redox cycling mediated by quinone and semi-quinone compounds. These
 low molecular weight mediators can shuttle electrons between fungal
 metabolism and the wood matrix, generating reactive oxygen species at
 some distance from the hyphae. This is analogous to the role played by
-veratryl alcohol and manganese-chelate mediators in [[fungal-bioremediation]] applications. The small size and
+[[staycare-veratryl-alcohol-as-lignin-peroxidase-mediator]] and manganese-chelate mediators in fungal-bioremediation applications. The small size and
 diffusibility of hydroxyl radicals allow them to degrade organic
 pollutants that may be physically inaccessible to larger enzymatic
 molecules. Brown rot fungi have been investigated for the degradation of
-recalcitrant compounds including [[staycare-brown-rot-fungi-in-bioremediation]], [[fungal-lignocellulose-degradation-mechanisms]],
+recalcitrant compounds including [[staycare-brown-rot-fungi-in-bioremediation]], fungal-lignocellulose-degradation-mechanisms,
 [[supramolecular-chemistry]]
 
 - [[gabe-brown]]
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

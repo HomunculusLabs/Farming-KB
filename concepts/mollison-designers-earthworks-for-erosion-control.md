@@ -1,5 +1,5 @@
 ---
-title: Earthworks for Erosion Control
+title: mollison designers earthworks for erosion control Control
 created: 2026-04-28
 tags:
   - permaculture
@@ -102,7 +102,7 @@ approach:
 
 1. **Stabilize the gully head**: Prevent further upslope migration with a
    grade stabilization structure or headcut control.
-2. **Reduce water inflow**: Install diversion drains and contour banks above
+2. **Reduce water inflow**: Install [[mollison-designers-diversion-drains-and-interceptor-banks]] contour banks above
    the gully to reduce the volume of water entering the channel.
 3. **Slow flow within the gully**: Install a series of check dams or gabion
    structures to step the flow and trap sediment.
@@ -127,3 +127,7 @@ most [[permaculture-earthworks]]; larger machinery suits broadscale reshaping.
 > including contour banks, diversion drains, check dams, gabion walls, and
 > grade stabilization structures that slow water flow, reduce runoff velocity,
 > capture sediment, and create conditions for vegetation re-establishment. In
+
+## See Also
+
+- [[mollison-designers-rampant-blackberry-control]]

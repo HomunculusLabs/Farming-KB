@@ -1,7 +1,7 @@
 ---
-title: "Mushroom Symbiosis and the Nervous System Dialogue"
+title: "mckenna mushroom symbiosis and nervous system dialogue and the Nervous System Dialogue"
 source: mckenna_t-tryptamines_consciousness.md
-topics: ["Stropharia cubensis", "symbiosis", "mushroom",
+topics: ["[[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]", "symbiosis", "mushroom",
   "nervous system", "dialogue", "extraterrestrial hypothesis",
   "DMT", "psilocybin", "mammal", "spore dispersal"]
 ---
@@ -12,7 +12,7 @@ topics: ["Stropharia cubensis", "symbiosis", "mushroom",
 
 One of the most striking features of Terence McKenna's tryptamine
 research is the framework of **dialogue** he established with the
-psilocybin mushroom, particularly *Stropharia cubensis*. Rather
+[[emcdda-psilocybin-mushroom-dose-and-effects]], particularly *Stropharia cubensis*. Rather
 than treating the mushroom as a passive pharmacological agent,
 McKenna approached it as an intelligent interlocutor. The
 culmination of this dialogue is the mushroom's own self-
@@ -31,7 +31,7 @@ Within the mushroom trance, McKenna reported receiving information
 suggesting *Stropharia cubensis* did not evolve on Earth. The
 mushroom communicated that once a culture achieves complete
 understanding of its genetic information, it re-engineers itself
-for survival. The mushroom's strategy is a mycelial network on
+for survival. The mushroom's strategy is a [[gadd-mycelial-network-dynamics]] on
 planetary surfaces and spore-dispersion for galactic radiation.
 
 The mushroom claimed access to information from galactic history,
@@ -82,11 +82,11 @@ capacities rendered inaccessible by cultural conditioning.
 The mushroom provided specific biological details. Spores are deep
 purple — "the color they would have to be to absorb the deep
 ultraviolet end of the spectrum." The spore casing is among the
-hardest organic substances known, with electron density approaching
+hardest organic substances known, with [[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]] approaching
 metal. These properties are consistent with interstellar survival.
 
 McKenna proposed that global currents on the spore exterior,
-combined with Brownian motion, enable percolation to a planet's
+combined with [[mckenna-spore-brownian-motion-and-galactic-percolation]], enable percolation to a planet's
 atmospheric edge. Through interaction with energetic particles,
 some spores escape into space. While only one in billions makes
 the interstellar transition, this is viable on galactic time

@@ -21,8 +21,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mukherjee, P.K. et al. (2016). "Mangifera indica." In: Benzie, I.F.F., Wachtel-Galor, S. (eds.) Herbal Medicine: Biomolecular and Clinical Aspects. 2nd ed. CRC Press.
-  - Ribeiro, S.M.R. & Schieber, A. (2010). "Bioactive Compounds in Mango (Mangifera indica L.)." In: Bioactive Compounds in Foods. Wiley-Blackwell, 89-115.
-  - Singh, R. et al. (2013). "Mangifera indica: Chemistry and Pharmacology." Journal of Pharmacognosy and Phytochemistry, 1(5), 1-8.
+  - Ribeiro, S.M.R. & Schieber, A. (2010). "[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in Mango (Mangifera indica L.)." In: Bioactive Compounds in Foods. Wiley-Blackwell, 89-115.
+  - Singh, R. et al. (2013). "Mangifera indica: [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]]." Journal of Pharmacognosy and Phytochemistry, 1(5), 1-8.
   - Litz, R.E. (2009). The Mango: Botany, Production and Uses. 2nd ed. CABI Publishing.
   - https://www.cgiar.org/research-program/forests-trees-and-agroforestry/
 ---
@@ -32,7 +32,7 @@ sources:
 **Mangifera indica** L., the mango, is an evergreen tropical tree in the family
 Anacardiaceae. Originally domesticated in South Asia over 4,000 years ago, it
 is now cultivated throughout the tropics and subtropics and is one of the most
-important fruit crops globally, with annual production exceeding 55 million
+important uncommon specialty fruit crops for permaculture globally, with annual production exceeding 55 million
 tonnes. India alone accounts for approximately 45% of world production.
 
 Beyond its economic importance as a fruit, virtually every part of the mango
@@ -63,7 +63,7 @@ endocarp contains a single large, woody seed.
 
 ## Distribution and Habitat
 
-Native to the Indian subcontinent and Southeast Asia, where wild populations
+Native to the Indian subcontinent and [[psilocybe-southeast-asia-pacific]], where wild populations
 still occur in the forests of Assam, Myanmar, and the Western Ghats. The tree
 is now naturalized and cultivated throughout tropical and subtropical regions
 between 25°N and 25°S.
@@ -117,7 +117,7 @@ seedling rootstocks. Trees begin bearing 3–5 years after planting and
 reach full production at 10–15 years, with productive lifespans exceeding
 100 years. Yields range from 5–15 tonnes/ha for bearing trees.
 
-In permaculture design, mango serves as a high-canopy food forest tree
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], mango serves as a high-canopy food forest tree
 providing shade, fruit, mulch, and microclimate regulation. It functions
 effectively as an overstory species above banana, papaya, turmeric,
 ginger, and understory legumes. The deep taproot accesses subsoil nutrients
@@ -126,7 +126,7 @@ and the dense canopy moderates ground-level temperatures.
 Mango intercropping with legumes (*Gliricidia sepium*, *Flemingia
 macrophylla*) improves soil nitrogen and provides pruning material for
 mulch. The tree's litter decomposes readily and contributes significant
-organic matter to the soil surface.
+[[hamilton-composting-and-organic-matter-management]] to the soil surface.
 
 ## See Also
 

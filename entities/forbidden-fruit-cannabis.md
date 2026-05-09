@@ -9,7 +9,7 @@ appearance, and deeply relaxing effects. A cross between [[terpene-profile-chemo
 combines sweet, fruity, and tropical notes with earthy undertones.
 The strain has become a staple among cannabis connoisseurs seeking
 "exotic" or "dessert" genetics and consistently ranks among the most
-sought-after strains in licensed dispensaries across North America.
+sought-after strains in licensed dispensaries across [[psilocybin-north-america-pacific-northwest]].
 
 ## Lineage and Genetics
 
@@ -53,11 +53,11 @@ cannabis enthusiasts and casual consumers. Key visual characteristics:
   indica-typical formation. Buds are medium to large with a tapered,
   conical shape. Heavy trichome coverage gives the surface a frosted,
   almost crystalline appearance.
-- **Coloration:** Deep forest green base with prominent purple and
+- **Coloration:** Deep [[trichoderma-forest-green-mold-guide]] base with prominent purple and
   violet hues, especially in cooler growing conditions. Bright orange
   pistils contrast sharply against the dark foliage and frost. The
   overall impression is dark and jewel-toned.
-- **Resin production:** Exceptionally resinous, with thick, sticky
+- **[[cannabis-glandular-trichome-types-resin-production-clarke]]:** Exceptionally resinous, with thick, sticky
   trichome heads that coat both calyxes and surrounding sugar leaves.
   The resin density contributes to both the intense aroma and the
   strain's high potency.
@@ -79,14 +79,14 @@ consistent with its indica-dominant heritage:
 - **Duration:** 2–3 hours, with the sedative body high persisting
   longest. Comedown is smooth and gradual.
 - **Therapeutic applications:** Widely used for stress relief, anxiety,
-  insomnia, chronic pain, and appetite stimulation. The combination
+  insomnia, [[cannabis-chronic-pain-management]], and appetite stimulation. The combination
   of mental calm and physical sedation suits evening or nighttime use.
 - **[[bud-rot-cannabis]] (Botrytis) in late flowering.
 
 ## See Also
 
 - [[cannabis-strain-anglematic]])
-- Tangie (cannabis strain)
+- Tangie ([[blesching-cannabis-strain-selection-receptor-targeting]])
 - Granddaddy Purple
 - [[cannabis-terpene-and-aroma-chemistry-clarke]] profiles
 - Indica-dominant hybrid strains

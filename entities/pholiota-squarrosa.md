@@ -22,7 +22,7 @@ sources:
   - Noordeloos, M.E. (2011). "Strophariaceae s.l." Funga Europaea 13: 1–636.
   - Courtecuisse, R. & Duhem, B. (1995). "Mushrooms and Toadstools of Britain and Europe." HarperCollins.
   - Kuo, M. (2024). "Pholiota squarrosa." MushroomExpert.com. https://www.mushroomexpert.com/pholiota_squarrosa.html
-  - Stamets, P. (1996). "Growing Gourmet and Medicinal Mushrooms." Ten Speed Press.
+  - Stamets, P. (1996). "Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]." Ten Speed Press.
 ---
 
 # Pholiota squarrosa
@@ -65,13 +65,13 @@ Basidiomycota → Agaricomycetes → Agaricales → **Strophariaceae → *Pholio
   similar to those on the cap. Partial veil forms a persistent membranous ring.
 - **Flesh:** Whitish to pale yellow, firm. Odor mild or slightly farinaceous.
   Taste distinctly bitter to acrid — the main reason it is not widely eaten.
-- **Spore print:** Rusty brown to cinnamon-brown (Ferruginous).
+- **[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Rusty brown to cinnamon-brown (Ferruginous).
 - **Spores:** Smooth, ellipsoid, 5.5–7 × 3.5–4.5 µm, with a germ pore.
 - **Chemical reactions:** Flesh may stain brownish with KOH.
 
 ## Distribution and Habitat
 
-- **Geographic range:** Widely distributed across Europe, North America, and
+- **Geographic range:** Widely distributed across Europe, [[psilocybin-north-america-pacific-northwest]], and
   parts of Asia. Common in temperate deciduous forests.
 - **Substrate:** Primarily on hardwoods — oak (*Quercus* spp.), elm (*Ulmus*
   spp.), beech (*Fagus* spp.), maple (*Acer* spp.), and occasionally birch.
@@ -79,8 +79,8 @@ Basidiomycota → Agaricomycetes → Agaricales → **Strophariaceae → *Pholio
 - **Growth habit:** Caespitose (growing in dense, fused clusters) at the base
   of trunks or on wounds and roots of living trees.
 - **Season:** Late summer to autumn (August–November in the Northern Hemisphere).
-- **Ecological role:** Primarily saprotrophic on dead wood, but can act as a
-  weak parasite on stressed or wounded living trees, contributing to brown rot.
+- **Ecological role:** Primarily saprotrophic on [[fungal-dead-wood-diversity]], but can act as a
+  weak parasite on stressed or wounded living trees, contributing to [[comparison-brown-rot-vs-white-rot-bioremediation]].
 
 ## Bioactive Compounds
 

@@ -1,8 +1,8 @@
 ---
-title: "Downy Mildew Biology and Diversity (Peronosporales)"
+title: "Downy downy mildew biology diversity peronosporales and Diversity (Peronosporales)"
 created: 2026-04-26
 tags:
-  - [[fungal-biodiversity]]
+  - fungal-biodiversity
 date: 2026-04-25
 updated: 2026-04-25
 sources:
@@ -56,7 +56,7 @@ produce germ tubes that penetrate through the stomatal
 opening. Once inside the leaf, the pathogen grows
 intercellularly, producing haustoria that penetrate host
 cells to absorb nutrients. The haustoria are the primary
-interface for nutrient exchange in this biotrophic
+interface for [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] in this biotrophic
 relationship.
 
 ### Sporulation
@@ -72,7 +72,7 @@ a germ tube, or they can release zoospores.
 
 ### Oospore Production
 
-Sexual reproduction produces thick-walled oospores that
+[[fungal-life-cycles-sexual-reproduction-metamorphosis]] produces thick-walled oospores that
 serve as survival structures. Oospores are formed when
 antheridia fertilize oogonia within infected host tissue.
 These and resting structures can persist in soil, plant debris,
@@ -120,21 +120,25 @@ resistance genes.
 ## Oospore Germination and Soil Survival
 
 Oospores of downy mildews can survive in soil for years,
-making disease management challenging. Germination of
+making [[plant-disease-management-solomon]] challenging. Germination of
 oospores requires specific environmental conditions,
 including adequate moisture, suitable temperatures, and
 in some cases, chemical stimuli from host roots. The
-mechanisms of oospore dormancy and germination are not
+mechanisms of oospore [[mollison-designers-seed-dormancy-and-germination-treatments]] are not
 fully understood for most species, but they represent a
 critical phase in the disease cycle.
 
 ## Detection and Survey Methods
 
 Detection of downy mildews in plant populations typically
-relies on visual symptoms and microscopic examination of
+relies on visual symptoms and [[fungal-microscopic-examination-mounting-media-techniques]] of
 sporangiophores. Molecular methods situ, including PCR-based
 detection with genus-specific or species-specific primers,
 have greatly improved the sensitivity and speed of
 diagnosis. Quantitative PCR assays allow estimation of
 pathogen biomass in infected tissue, which is useful for
 disease forecasting and resistance screening.
+## See Also
+- [[biodiversity-oomycetes-straminipiles]]
+- [[straminipiles-oomycetes-fungus-like-chromists]]
+- [[cervantes-downy-mildew-fungal-blight]]

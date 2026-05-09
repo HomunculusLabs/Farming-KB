@@ -81,14 +81,14 @@ hallucinogenic properties. The [[plants-of-the-gods-amanita-muscaria]]):
   Perhaps man's oldest hallucinogen, identified with Soma of ancient
   India, used for shamanic purposes across Eurasia
 - **Psilocybe species** ([[schultes-peyote-and-mescaline]]):
-  Sacred cactus of the Huichol, Tarahumara, and Native American Church
+  Sacred cactus of the Huichol, Tarahumara, and [[halpern-sacramental-peyote-and-native-american-church]] Church
 - **Banisteriopsis caapi** ([[plants-of-the-gods-tabernanthe-iboga]]):
-  Guide to the ancestors in the Bwiti cult of Gabon
+  Guide to the ancestors in the [[iboga-and-the-bwiti-cult-initiation]] of Gabon
 - **Ergot** ([[plants-of-the-gods-turbina-corymbosa-ololiuqui]]):
   Vines of the Serpent, one of the major Aztec hallucinogens
 - **Virola species** ([[plants-of-the-gods-anadenanthera-yopo-cebil]]):
   Beans of the Hekula Spirit, used for 4,500 years
-- **Cannabis sativa** ([[plants-of-the-gods-nightshade-hexing-herbs]]): Atropa, Datura, Hyoscyamus, Mandragora -- the witches'
+- **[[comparison-cannabis-sativa-vs-cannabis-indica]]** ([[plants-of-the-gods-nightshade-hexing-herbs]]): Atropa, Datura, Hyoscyamus, Mandragora -- the witches'
   herbs of medieval Europe
 
 ## Scientific Promise

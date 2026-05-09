@@ -17,7 +17,7 @@ buildings and concerns about adverse health effects in building
 occupants.
 
 The species thrives in warm, damp conditions and is notably absent
-from cooler climates where dry rot fungi like Serpula lacrymans
+from cooler climates where dry [[comparison-white-rot-fungi-vs-brown-rot-fungi-biodegradation]] like Serpula lacrymans
 predominate. S. chartarum has become a focal point of indoor air
 quality concerns and building biology research.
 
@@ -69,21 +69,21 @@ frequently support its growth and establishment.
 
 S. chartarum produces mycotoxins including satratoxins (macrocyclic
 trichothecenes), stachylysin (a hemolytic protein), and other
-secondary metabolites. Notably, not all strains produce mycotoxins,
+[[antifungal-secondary-metabolites-coprophilous-fungi]]. Notably, not all strains produce mycotoxins,
 and the health significance of exposure remains debated in the
 scientific literature.
 
 The potential for mycotoxin production has nevertheless made S.
-chartarum a focus of indoor air quality concerns, though the presence
+chartarum a focus of indoor [[cervantes-air-quality-ventilation]] concerns, though the presence
 of the fungus does not necessarily indicate mycotoxin production or
 exposure risks to building occupants.
 
 ## Building Damage
 
-S. chartarum contributes to building material degradation through
+S. chartarum contributes to [[fungal-building-material-deterioration]] degradation through
 cellulolytic degradation of paper-based materials, discoloration and
 staining of surfaces (dark greenish-black patches), and production of
-unpleasant musty odors from microbial volatile organic compounds
+unpleasant musty odors from microbial [[fungal-volatile-organic-compounds-communication]] compounds
 (MVOCs).
 
 The fungus typically requires weeks to months of sustained moisture to
@@ -115,7 +115,7 @@ Legal and insurance issues related to S. chartarum contamination have become sig
 
 Research into the health effects of S. chartarum continues to evolve, with ongoing studies examining the relationships between mould exposure, mycotoxin production, and respiratory symptoms. Standardized methods for assessing exposure and establishing causation remain areas of active investigation in environmental health science.
 
-S. chartarum produces dark-colored spores that are relatively large and sticky compared to other indoor moulds. These characteristics affect spore dispersal patterns and may influence exposure risks, as the spores tend to settle quickly from the air but can become aerosolized through disturbance of contaminated materials.
+S. chartarum produces dark-colored spores that are relatively large and sticky compared to other indoor moulds. These characteristics affect [[aquatic-fungi-spore-dispersal-ingold]] patterns and may influence exposure risks, as the spores tend to settle quickly from the air but can become aerosolized through disturbance of contaminated materials.
 
 ## See Also
 Related: [[sepp-holzer-terrace-systems-and-raised-beds]], [[fungal-biodiversity-forest-ecosystems]]

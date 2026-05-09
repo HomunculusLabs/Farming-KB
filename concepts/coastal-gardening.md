@@ -38,8 +38,8 @@ Coastal winds are stronger and more persistent than inland:
 Coastal soils are predominantly sandy:
 
 - **Rapid drainage**: Water moves through sand quickly; irrigation must be frequent
-- **Low nutrient retention**: Sand holds little cation exchange capacity; nutrients leach rapidly
-- **Low organic matter**: Decomposition is rapid and sand dilutes organic inputs
+- **Low nutrient retention**: Sand holds little [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity; nutrients leach rapidly
+- **Low [[hamilton-composting-and-organic-matter-management]]**: Decomposition is rapid and sand dilutes organic inputs
 - **Low water-holding capacity**: Sandy soil holds only 0.5-1 inch of water per foot of depth
 - **pH variability**: Coastal sands range from acidic (under pine) to alkaline (shell deposits)
 
@@ -113,15 +113,15 @@ Salt-tolerant species for coastal windbreaks:
 - **Lantana**: Salt-tolerant; excellent butterfly plant; invasive in some areas
 - **Silver dollar plant (Lunaria annua)**: Ornamental; moderate salt tolerance
 - **Saltbush (Atriplex spp.)**: True halophyte; silvery foliage
-- **Yucca**: Extremely salt and drought tolerant; architectural form
+- **Yucca**: Extremely salt and [[permplant-carob-drought-tolerant-food-tree]]; architectural form
 - **Agave**: Salt-tolerant succulent; multiple species available
 
 ### Salt-Tolerant Perennials and Groundcovers
 - **Sea oats (Uniola paniculata)**: Primary dune stabilizer; protected in many coastal areas
-- **Beach morning glory (Ipomoea pes-caprae)**: Dune stabilizer; purple flowers
+- **Beach [[golden-guide-morning-glory-and-ololiuqui]] (Ipomoea pes-caprae)**: Dune stabilizer; purple flowers
 - **Daylily (Hemerocallis)**: Surprisingly salt-tolerant; tough and adaptable
 - **Liriope**: Grass-like groundcover; tolerates salt and shade
-- **Sedum**: Succulent groundcover; drought and salt tolerant
+- **Sedum**: Succulent groundcover; drought and [[halotolerant-halophilic-fungi-salt-tolerant-diversity]]
 - **Blanket flower (Gaillardia)**: Native wildflower; salt and drought tolerant
 - **Sea lavender (Limonium)**: Salt marsh native; excellent cut flower
 - **Mugwort (Artemisia)**: Aromatic; salt-tolerant; medicinal uses
@@ -143,48 +143,7 @@ Most vegetables are salt-sensitive, but a few tolerate mild salt spray:
 Sandy coastal soils need constant organic matter additions:
 
 - **Compost**: Apply 2-4 inches annually; mix into top 6 inches of soil
-- **Green manure cover crops**: Plant in fallow areas; crimson clover, winter rye, field peas
-- **Mulch**: Maintain 3-4 inch layer of organic mulch at all times
-- **Biochar**: Incorporate to improve nutrient retention in sand
-- **Sheet composting**: Layer organic materials directly on garden beds and let them decompose in place
-
-### Nutrient Management
-Nutrients leach quickly from sandy soils:
-
-- **Split applications**: Apply fertilizer in small doses every 2-3 weeks rather than large single applications
-- **Slow-release organic fertilizers**: Alfalfa meal, feather meal, bone meal release nutrients gradually
-- **Foliar feeding**: Liquid kelp, fish emulsion, compost tea provide quick nutrient boosts
-- **Trace elements**: Sandy soils are often deficient in iron, manganese, zinc, and boron
-- **Monitor pH**: Sandy coastal soils may be acidic or alkaline depending on parent material
-
-### Water Management
-- **Frequent, shallow irrigation**: Water 2-3 times per week in sandy soil; deep watering wastes water as it passes below root zone
-- **Drip irrigation**: Delivers water directly to root zones; reduces evaporation and salt splash
-- **Mulch**: Essential for moisture retention in sandy soil
-- **Rain barrels**: Capture rainwater for irrigation; rainwater is salt-free
-- **Swales and berms**: Slow runoff and allow infiltration; see [[swale-design-construction|swales]] for design
-
-## Dune and Shoreline Conservation
-
-Coastal gardeners have a responsibility to protect fragile dune and shoreline ecosystems:
-
-- Do not remove native dune vegetation (sea oats, beach grass, beach morning glory)
-- Use boardwalks or stepping stones rather than paths across dunes
-- Avoid planting invasive species that can escape and degrade natural areas
-- Participate in [[pollinator-conservation|conservation]] efforts like dune restoration and beach grass planting
-- Design gardens to reduce runoff that could carry nutrients or sediment to coastal waters
-- See [[riparian-zone-restoration]] for related stream and shoreline restoration practices
-
-## Storm Resilience Design
-
-- Use flexible ties for staking trees rather than rigid supports
-- Plant in groups to provide mutual wind protection
-- Keep trees well-pruned to reduce wind resistance
-- Store rainwater for post-storm irrigation (salt-contaminated wells may be unusable)
-- Choose plants that resprout after damage rather than those killed by defoliation
-- Elevate garden beds to prevent saltwater inundation during minor flooding events
-- Have a plan to flush soil with fresh water after saltwater flooding
-
+- **Green manure cover crops**: Plant in fallow areas; [[comparison-lupin-vs-crimson-clover-green-manure]], winter rye, field peas
 ## Related
 
 - [[desert-gardening]]

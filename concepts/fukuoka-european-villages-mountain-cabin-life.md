@@ -1,11 +1,12 @@
 ---
-title: Fukuoka: European Villages and Mountain Cabin Life
+title: Fukuoka: [[fukuoka-european-agriculture-observations]] villages mountain cabin life and Mountain Cabin Life
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## European Country Living
@@ -101,8 +102,6 @@ Many of the young people who have come to Fukuoka's farm have held the earnest h
 - [[fukuoka-european-civilization-standstill]]
 
 - [[fukuoka-nelissen-farm]]
-
-- [[fukuoka-european-civilization-standstill]]
 
 - [[fukuoka-critique-of-education-universities]]
 - [[fukuoka-natural-rice-barley-cultivation]]

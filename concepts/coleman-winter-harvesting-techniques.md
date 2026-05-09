@@ -1,5 +1,5 @@
 ---
-title: Winter Harvesting Techniques
+title: Winter water-harvesting-techniques-comparison
 created: 2026-04-26
 sources: The Winter Harvest Handbook, Eliot Coleman (2009), Chapter 15
 tags:
@@ -65,7 +65,7 @@ the container, so keeping the bucket as close as possible to the
 cutting hand is critical. For [[coleman-row-cover-fabric-management]]
 material quickly freezes to itself and becomes impossible to place
 back over the supporting wickets without tearing. Even the stronger
-PVA covers mentioned in Coleman's cold greenhouse chapter are
+PVA covers mentioned in Coleman's [[coleman-cold-greenhouse-double-layer-protection]] chapter are
 problematic in this regard. The best practice is to re-cover each
 section immediately after harvesting, before temperatures drop.
 
@@ -99,7 +99,7 @@ dropped repeatedly, achieving uniform mixing without bruising.
 
 The original labor force of two (Coleman and his wife Barbara)
 has expanded to five employees in summer (fewer in winter), but
-the same high quality standards are maintained. Constant analysis
+the same high [[aact-compost-quality-standards-ingham]] are maintained. Constant analysis
 of the harvesting, washing, and packing operation identifies
 efficiency improvements. For example, installing larger-diameter
 pipes for filling and draining sinks and raising water pressure
@@ -129,4 +129,10 @@ benefit from such a tool.
 Coleman stresses that the most important skill for assuring
 bountiful and timely harvests is keeping careful notes on
 seed-to-harvest days throughout the year and preparing from them
-a day-by-day [[coleman-planting-schedules]]. Since products cannot be created
+a day-by-day coleman-planting-schedules. Since products cannot be created
+## See Also
+- [[eliot-coleman]]
+- [[coleman-winter-greens-variety-selection]]
+- [[coleman-soil-preparation-for-winter]]
+- [[coleman-backwards-farm-winter-only-summer-fallow]]
+- [[coleman-winter-harvest-washing-and-packing]]

@@ -1,5 +1,5 @@
 ---
-title: "Amazonian Ayahuasca Ceremonies: Icaros and Shamanic Healing Methods"
+title: "harner-amazonian-ayahuasca-preparation-methods Ceremonies: Icaros and metzner-shamanic-healing-and-divination-paradigm Methods"
 created: 2026-04-28
 tags:
   - ayahuasca
@@ -23,7 +23,7 @@ type: concept
 Ralph Metzner's 1998 survey of hallucinogen use across healing traditions
 includes a detailed account of traditional Amazonian Indian and mestizo
 ayahuasca ceremonies. These ceremonies represent one of the most
-well-documented examples of shamanic entheogenic practice and illustrate
+well-documented examples of [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] practice and illustrate
 the core principles of the second paradigm in Metzner's four-paradigm
 framework: shamanic rituals of healing and divination. The ceremony
 centers on the icaros, the healing songs of the initiated shaman, and
@@ -39,7 +39,7 @@ through which the actual healing and diagnosis takes place. These songs
 have a fairly rapid rhythmic pulse, which Metzner observes keeps the flow
 of the experience moving along and provides psychological support for
 navigating visionary content. The rapid rhythmic quality of icaros is
-analogous to the drumming pulse found in shamanic journey traditions
+analogous to the drumming pulse found in [[harner-shamanic-journey-and-altered-states]] traditions
 widespread among Northern Hemisphere shamanistic societies in Asia,
 Europe, and America.
 
@@ -120,8 +120,8 @@ framework, exemplifying shamanic rituals of healing and divination. The
 primary focus is on individual healing under the guidance of an
 experienced practitioner, with the healer often ingesting the medicine
 themselves in order to "see" the causes of illness and determine the
-appropriate remedy. This contrasts with the Brazilian ayahuasca churches
-that Metzner places in the third paradigm of syncretic folk religious
+appropriate remedy. This contrasts with the [[metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism]] churches
+that Metzner places in the third paradigm of [[metzner-syncretic-folk-religious-hallucinogenic-ceremonies]] religious
 ceremonies, where community worship takes precedence over individual
 healing work.
 

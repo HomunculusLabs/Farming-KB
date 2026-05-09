@@ -1,5 +1,5 @@
 ---
-title: "Composting Science and Microbiology"
+title: "lowenfels composting science microbiology and Microbiology"
 created: 2026-04-28
 tags: [composting, soil-biology, decomposition, organic-matter]
 date: 2026-04-25
@@ -20,12 +20,12 @@ to ensure pathogen destruction and kill weed seeds at 150 degrees.
 
 ## Maturation Stage
 
-As complex proteins and carbohydrates diminish, metabolic activity declines and
+As complex proteins and carbohydrates diminish, [[arbuscule-isolation-metabolic-activity-assays]] declines and
 temperature decreases. Mesophilic organisms return, replacing thermophilic ones.
 During maturation, the most resistant plant component, lignin, is finally broken
 down. Actinomycetes continue attacking difficult-to-digest remnants, producing
 the earthy smell of good compost through their decay of cellulose, lignin,
-chitin, and protein.  Basidiomycete fungi are also active in this final stage.
+chitin, and protein.  [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] are also active in this final stage.
 Physical decomposers including
 [[lowenfels-soil-structure-aggregates]].
 
@@ -43,7 +43,7 @@ by adjusting the proportion of green and brown materials.
 
 ## Cooling and Hot Compost Problems
 
-If a compost pile gets too hot, above 155 degrees Fahrenheit (68 degrees
+If a [[mushroom-cultivator-compost-pile-management]] gets too hot, above 155 degrees Fahrenheit (68 degrees
 Celsius), carbon begins to burn off, reducing the quality of the finished
 compost. To cool an overheated pile, turn it to introduce air, add water, or mix
 in more brown materials. The brown materials shift the balance away from
@@ -60,12 +60,12 @@ between green and brown, and kept moist but not wet. Turning the pile brings in
 oxygen, ensures all material gets treated, and controls temperature. Adding
 green material heats a cooling pile; adding brown material slows an overheated
 one. The pile is finished when you cannot recognize the original ingredients.
-Inorganic fertilizers, pesticides, and herbicides should never be added, as they
+[[ingham-inorganic-fertilizers-soil-biology-damage]], pesticides, and herbicides should never be added, as they
 kill the very organisms that drive the composting process.
 
 ## Cool Composting Alternative
 
-For gardeners who find hot composting too labor-intensive, cool or cold
+For gardeners who find [[comparison-bokashi-vs-hot-composting-method]] too labor-intensive, cool or cold
 composting offers a simpler alternative. Organic materials are piled or placed
 in a bin without concern for the carbon-to-nitrogen ratio or temperature
 monitoring. The materials will eventually decay, but the process can take a year

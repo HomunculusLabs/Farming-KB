@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-b
 
 # Psilocybe collybioides
 
-**Psilocybe collybioides** is a [[psilocybe-subaeruginosa]], as part of early systematic surveys of psychoactive fungi in the southern Australian states.
+**Psilocybe collybioides** is a [[psilocybe-subaeruginosa]], as part of early systematic surveys of [[cattle-dispersal-psychoactive-fungi-australia]] in the southern Australian states.
 
 ## Taxonomy and Classification
 
@@ -24,7 +24,7 @@ The species was documented by Dr. Malcolm Hall, who reported its occurrence from
 
 The gills are adnate to sinuate, close to subdistant, and darkening from pale grayish to dark brown as spores mature. The stipe is slender and fragile, typically hollow, and may exhibit some bluish discoloration when bruised, though this reaction can be variable and less pronounced than in more potent species. The stipe surface is smooth, lacking a distinct annulus or annular zone.
 
-The spore print is dark purplish-brown, consistent with the Psilocybe genus. Spores are ellipsoid, smooth, and approximately 9–13 × 5–7 µm. Microscopic examination reveals cheilocystidia that are ventricose to lageniform, similar to other species in the genus. The pileipellis is a cutis of filamentous hyphae, consistent with the genus-level morphology.
+The [[comparison-spore-print-collection-vs-spore-syringe-production]] is dark purplish-brown, consistent with the Psilocybe genus. Spores are ellipsoid, smooth, and approximately 9–13 × 5–7 µm. [[fungal-microscopic-examination-mounting-media-techniques]] reveals cheilocystidia that are ventricose to lageniform, similar to other species in the genus. The pileipellis is a cutis of filamentous hyphae, consistent with the genus-level morphology.
 
 ## Distribution and Habitat
 
@@ -32,7 +32,7 @@ The spore print is dark purplish-brown, consistent with the Psilocybe genus. Spo
 
 ## Chemistry and Potency
 
-*Psilocybe collybioides* has been confirmed to contain [[psilocin]] through chemical analysis. It is generally regarded as a species of low to moderate potency, producing milder psychoactive effects compared to the more potent [[psilocybe-subaeruginosa]] collected from the same habitats. Based on bioassay comparisons, estimated alkaloid content likely falls in the range of 0.1–0.4% psilocybin and 0.02–0.15% psilocin per dry weight, though these figures remain unconfirmed by formal analytical studies. [[galerina-marginata]] and [[gymnopilus-spectabilis-entity]] and non-psychoactive Mycena species.
+*Psilocybe collybioides* has been confirmed to contain [[psilocin]] through [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]. It is generally regarded as a species of low to moderate potency, producing milder psychoactive effects compared to the more potent [[psilocybe-subaeruginosa]] collected from the same habitats. Based on bioassay comparisons, estimated alkaloid content likely falls in the range of 0.1–0.4% psilocybin and 0.02–0.15% psilocin per dry weight, though these figures remain unconfirmed by formal analytical studies. [[galerina-marginata]] and [[gymnopilus-spectabilis-entity]] and non-psychoactive Mycena species.
 
 ## Taxonomic History
 
@@ -41,12 +41,12 @@ The species was documented by Dr. Malcolm Hall, who reported its occurrence from
 
 ## Conservation Notes
 
-While no formal conservation assessment exists for *P. collybioides*, the species may be vulnerable to habitat loss from logging, land clearing, and climate change in Tasmania's native forests. As a species adapted to cool, wet conditions, warming temperatures and reduced rainfall could impact fruiting success and distribution. The lack of molecular phylogenetic data for this species also limits understanding of its evolutionary relationships and conservation priorities.
+While no formal conservation assessment exists for *P. collybioides*, the species may be vulnerable to habitat loss from logging, land clearing, and [[dighton-fungi-climate-change-feedback]] in Tasmania's native forests. As a species adapted to cool, wet conditions, warming temperatures and reduced rainfall could impact fruiting success and distribution. The lack of molecular phylogenetic data for this species also limits understanding of its evolutionary relationships and conservation priorities.
 
 ## See Also
 
 * [[psilocybe-tasmaniana]] — another Tasmanian psychoactive species
-* [[psilocybe-aucklandii]] — related species from New Zealand
+* psilocybe-aucklandii — related species from New Zealand
 * [[galerina-marginata]] — deadly lookalike containing amatoxins
 * [[baeocystin]] — secondary alkaloid likely present in this species
 * [[norbaeocystin]] — additional tryptamine alkaloid found in related species
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

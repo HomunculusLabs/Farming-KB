@@ -18,9 +18,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Staff (2024). "Sunset Sherbert Cannabis Strain Information." Leafly.
+  - Leafly Staff (2024). "Sunset Sherbert blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.
   - AllBud (2024). "Sunset Sherbert Strain Review." AllBud.com.
-  - Cannabis Cup Results (2016). High Times Cannabis Cup, San Francisco.
+  - Cannabis Cup Results (2016). High Times Cannabis Cup, [[shipibo-san-francisco-ceremonial-center-ucayali]].
   - Wikipedia contributors (2024). "List of cannabis strains." Wikipedia.
 created: 2026-05-07
 ---
@@ -52,7 +52,7 @@ growth patterns, particularly the so-called "Sherbet" phenotypes vs. the
 ## Appearance
 
 Buds are dense and chunky with a spade-like structure typical of the Cookie
-family. Colors range from deep forest green to dark purple and lavender,
+family. Colors range from deep [[trichoderma-forest-green-mold-guide]] to dark purple and lavender,
 often with bright orange pistils woven throughout.
 
 Trichome coverage is heavy, giving flowers a frosted, almost crystalline
@@ -73,7 +73,7 @@ herbal notes.
 ## Terpene Profile
 
 - **Caryophyllene** (dominant): peppery, spicy, contributes to anti-
-  inflammatory properties via CB2 receptor binding.
+  inflammatory properties via CB2 [[tihkal-receptor-binding-serotonin]].
 - **Limonene**: citrus, mood-elevating, stress-relieving.
 - **Myrcene**: earthy, sedative, enhances the indica-dominant body
   relaxation.
@@ -115,7 +115,7 @@ are medium height with good lateral branching.
 
 ## See Also
 
-- [[gelato-cannabis]]
+- [[gelato]]
 - [[og-kush]]
 - [[thin-mint-cookies]]
 - [[runtz-entity]]

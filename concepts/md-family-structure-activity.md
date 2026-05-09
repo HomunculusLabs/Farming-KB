@@ -1,5 +1,5 @@
 ---
-title: Md Family Structure Activity
+title: Md md family structure activity Activity
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -13,7 +13,7 @@ sources: []
 
 ## Overview
 
-The methylenedioxyamphetamine (MD) family is one of the most extensively explored structural families in PiHKAL. Built on the 3,4-methylenedioxyphenyl core, systematic variation of the amine nitrogen, the aliphatic chain, and the methylenedioxy bridge produced a rich pharmacological landscape spanning classic psychedelics, empathogens, and inactive probes.
+The methylenedioxyamphetamine (MD) family is one of the most extensively explored structural families in PiHKAL. Built on the 3,4-methylenedioxyphenyl core, systematic variation of the amine nitrogen, the aliphatic chain, and the methylenedioxy bridge produced a rich pharmacological landscape spanning classic psychedelics, empathogens, and [[inactive-probes-pharmacological-falsification-pihkal]].
 
 ## Core Structure
 

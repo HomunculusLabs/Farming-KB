@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Masanobu Fukuoka, "The Natural Way of Farming: The Theory and Practice of Green Philosophy" (1985)
+  - Masanobu Fukuoka, "The Natural Way of Farming: The Theory and Practice of fukuoka-sowing-green-philosophy-one-grain-revolution" (1985)
 ---
 
 # Pesticides and the Destruction of Ecological Chains
@@ -33,7 +33,7 @@ But the spiders vanish — every one of them.
 
 The swarms of fireflies that rise from the stands of grass disappear at once.
 
-In a single pass, the pesticide has eliminated the field's most effective pest control agents while leaving the target pest largely unaffected.
+In a single pass, the pesticide has eliminated the field's most effective [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] agents while leaving the target pest largely unaffected.
 
 ## The Second Application: Cascading Destruction
 
@@ -69,7 +69,7 @@ It is not a responsible action in keeping with the true cycles of nature.
 
 Fukuoka used apple orchards and hothouse strawberries as another example of ecological chain destruction.
 
-Toxic pesticides applied to fruit trees kill off pollinating insects such as bees and gadflies.
+Toxic pesticides applied to [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] kill off pollinating insects such as bees and gadflies.
 
 Without these pollinators, the trees cannot reproduce naturally.
 

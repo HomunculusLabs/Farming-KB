@@ -1,10 +1,11 @@
 ---
-title: "Drip Irrigation vs Passive Irrigation"
+title: "comparison drip irrigation vs passive irrigation vs Passive Irrigation"
 created: 2026-04-28
 tags: [comparison, irrigation, water-management, gardening]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -58,7 +59,7 @@ A complete drip system includes:
 
 Planning the layout before purchasing materials saves money and frustration. Map your garden, measure distances, group plants by water need into zones, and calculate total flow rate to ensure your water source can meet demand.
 
-Cost for a typical home garden drip system ranges from $50 to $300 depending on size, number of zones, and automation level. Pre-assembled kits offer convenience for small gardens while custom-designed systems provide better flexibility.
+Cost for a typical [[cool-climate-home-garden-mollison]] drip system ranges from $50 to $300 depending on size, number of zones, and automation level. Pre-assembled kits offer convenience for small gardens while custom-designed systems provide better flexibility.
 
 ## Passive Irrigation Deep Dive
 
@@ -68,7 +69,7 @@ Passive irrigation encompasses several distinct methods:
 - Wicking beds use a water reservoir below growing medium with fabric wicks drawing moisture upward by capillary action
 - Swales are contour channels that capture and infiltrate surface water across slopes
 
-Ollas are ideal for individual plants or small clusters. One olla serves a radius of roughly 18 inches depending on soil type. Wicking beds are excellent for raised beds, providing consistent moisture from below. Swales operate at the landscape scale.
+Ollas are ideal for individual plants or small clusters. One olla serves a radius of roughly 18 inches depending on soil type. Wicking beds are excellent for [[comparison-raised-beds-vs-hugelkultur]], providing consistent moisture from below. Swales operate at the landscape scale.
 
 All passive methods share the advantage of zero energy input. Once filled, they deliver water continuously without pumps, timers, or electricity, making them ideal for off-grid homesteads and gardeners seeking maximum simplicity.
 
@@ -82,9 +83,9 @@ Ollas should be pulled before winter freezing in cold climates to prevent cracki
 
 ## Wicking Bed Construction
 
-A wicking bed consists of a watertight container with a water reservoir in the bottom, separated from the growing medium by a geotextile fabric barrier. Water moves from the reservoir upward through the fabric and soil by capillary action.
+[[query-how-do-i-build-a-wicking-bed-for-my-garden]] consists of a watertight container with a water reservoir in the bottom, separated from the growing medium by a geotextile fabric barrier. Water moves from the reservoir upward through the fabric and soil by capillary action.
 
-The reservoir typically occupies the bottom 8 to 12 inches of a raised bed. An overflow pipe maintains maximum water level and prevents waterlogging. Wicking beds reduce watering frequency from daily to weekly in most conditions.
+The reservoir typically occupies the bottom 8 to 12 inches of [[query-how-to-build-a-raised-bed-garden]]. An overflow pipe maintains maximum water level and prevents waterlogging. Wicking beds reduce watering frequency from daily to weekly in most conditions.
 
 ## When to Choose Drip Irrigation
 
@@ -98,7 +99,7 @@ Choose drip irrigation when your situation includes:
 6. Need for programmable timers and automated scheduling
 7. Large-scale gardens where manual watering is impractical
 
-Drip systems reward careful planning. Mapping your garden layout, selecting appropriate emitter types, and zoning plants by water need will maximize efficiency over the life of the system.
+Drip systems reward careful planning. Mapping your [[hamilton-garden-layout-beds-borders-paths]], selecting appropriate emitter types, and zoning plants by water need will maximize efficiency over the life of the system.
 
 ## When to Choose Passive Irrigation
 

@@ -1,17 +1,13 @@
 ---
 title: Fungal Hyphae
 created: 2026-04-28
-tags: [[mycology, cell-biology, fungi, microbiology]
+tags: [mycology, cell-biology, fungi, microbiology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
 type: concept
 ---
-
-# Fungal Hyphae
-
-Hyphae (singular: hypha) are the thread-like, tubular filaments that
-constitute the fundamental structural units of [[mycelium]] and for sexual reproduction. Vegetative compatibility systems
+# Fungal Hyphae Hyphae (singular: hypha) are the thread-like, tubular filaments that constitute the fundamental structural units of [[mycelium]] and for sexual reproduction. Vegetative compatibility systems
  regulate anastomosis — hyphae from genetically distinct individuals may
 fuse transiently but then undergo programmed cell death at the fusion
 point (heterokaryon incompatibility), preventing the formation of
@@ -21,14 +17,14 @@ genetically unstable heterokaryons.
 
 Hyphae are exquisitely sensitive to their environment. They detect and
 respond to:
-- **Nutrient gradients:** Growing toward organic matter and away from
+- **Nutrient gradients:** Growing toward [[hamilton-composting-and-organic-matter-management]] and away from
   depleted zones.
-- **Chemical signals:** Responding to host plant exudates, pheromones,
+- **[[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]:** Responding to host plant exudates, pheromones,
   or defensive compounds.
 - **Physical barriers:** Navigating around obstacles and penetrating
   substrates of varying hardness.
 - **pH and osmolarity:** Adjusting growth patterns to optimize
-  conditions for enzyme activity and nutrient uptake.
+  conditions for enzyme activity and [[plant-nutrient-uptake-mechanisms]].
 - **Other microorganisms:** Engaging in antagonistic or synergistic
   interactions with bacteria and other fungi.
 
@@ -113,4 +109,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

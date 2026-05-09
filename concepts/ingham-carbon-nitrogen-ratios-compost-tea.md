@@ -1,5 +1,5 @@
 ---
-title: Carbon-to-Nitrogen Ratios in Compost and Tea Brewing
+title: Carbon-to-Nitrogen Ratios in Compost and compost-tea-brewing-equipment-ingham
 created: 2026-04-28
 tags: [C-N-ratio, compost, compost-tea, nutrient-balance, decomposition]
 date: 2026-04-28
@@ -15,7 +15,7 @@ type: concept
 Carbon-to-nitrogen ratio is one of the most important factors
 determining the success of both composting and [[ingham-dissolved-oxygen-management]] and create [[ingham-molasses-types-brewing-effects]], which contains small amounts of nitrogen, phosphorus,
 potassium, and other nutrients, is preferred over pure sugar for
-compost tea brewing.
+[[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] brewing.
 
 ## C:N Effects on Oxygen Demand
 
@@ -33,7 +33,7 @@ driving oxygen levels down.
 Carbon in compost tea comes from the compost itself and from added
 food resources. Compost provides complex carbon compounds including
 humic acids, cellulose, lignin, and other recalcitrant materials.
-Added foods like molasses provide simple sugars. Fish hydrolysate
+Added foods like molasses provide simple sugars. [[comparison-fish-hydrolysate-vs-fish-emulsion]]
 provides both carbon and nitrogen in a balanced form. The mix of
 carbon sources determines which organisms are favored: simple
 sugars favor bacteria while complex carbon sources favor fungi.
@@ -46,7 +46,7 @@ protein-rich additives. Fish hydrolysate is preferred over fish
 emulsion because the hydrolysis process preserves more of the
 amino acids and proteins that serve as food for diverse
 microorganisms. The nitrogen source affects both the total biomass
-produced and the composition of the microbial community.
+produced and the composition of the [[edaphic-factors-microbial-community-structure]].
 
 ## C:N and Microbial Community Composition
 
@@ -54,14 +54,14 @@ The carbon-to-nitrogen ratio of available foods in compost tea
 influences which organisms dominate. [[aact-fungal-dominant-tea]] benefit from foods
 with higher C:N ratios, particularly complex carbon sources like [[ingham-molasses-types-brewing-effects]]
 provides a balanced carbon-to-nitrogen food package that supports
-both bacterial and fungal growth in appropriate proportions. See also [[comparison-soil-food-web-vs-bacterial-vs-fungal-soil]].
+both [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] growth in appropriate proportions. See also [[comparison-soil-food-web-vs-bacterial-vs-fungal-soil]].
 
 ## C:N in Compost Tea Brewing Water
 
 The starting water used for compost tea has its own dissolved solids
 that contribute to the overall C:N balance. Well water, municipal
 water, and surface water all contain different levels of dissolved
-minerals and organic compounds. These background levels affect how
+minerals and [[fungal-volatile-organic-compounds-communication]]. These background levels affect how
 much food can be added before the system becomes unbalanced. Water
 with high mineral content leaves less room for added foods, while
 very pure water may lack the micronutrients that organisms need.

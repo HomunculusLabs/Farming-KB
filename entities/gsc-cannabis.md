@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-**Girl Scout Cookies** (GSC) is an iconic hybrid cannabis strain that originated in the San Francisco Bay Area in the early 2010s and became one of the most commercially successful strains in modern cannabis history. A cross between **OG Kush** and an early **Durban Poison** phenotype, GSC delivers a balanced yet potent experience characterized by euphoric cerebral effects and deep physical relaxation. Its distinctive sweet, earthy aroma with notes of baked goods spawned an entire family of descendant varieties and set the standard for modern boutique cannabis genetics.
+**Girl Scout Cookies** (GSC) is an iconic hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] that originated in the San Francisco Bay Area in the early 2010s and became one of the most commercially successful strains in modern cannabis history. A cross between **OG Kush** and an early **Durban Poison** phenotype, GSC delivers a balanced yet potent experience characterized by euphoric cerebral effects and deep physical relaxation. Its distinctive sweet, earthy aroma with notes of baked goods spawned an entire family of descendant varieties and set the standard for modern boutique [[vic-high-cannabis-genetics-mendelian-inheritance]].
 
 ## Lineage and Genetics
 
@@ -84,7 +84,7 @@ The interplay of caryophyllene, limonene, and linalool creates GSC's signature a
 
 - **Chronic pain**: Muscular pain, neuropathic pain, inflammatory conditions
 - **Stress and anxiety**: Anxiolytic effects at moderate doses (paradoxical anxiety possible at high doses)
-- **Nausea and appetite loss**: Effective appetite stimulant for cachexia and chemotherapy side effects
+- **[[cannabis-for-nausea-and-appetite-stimulation]] loss**: Effective appetite stimulant for cachexia and chemotherapy side effects
 - **Insomnia**: Sedative body effects promote sleep onset at higher doses
 
 ### Side Effects
@@ -110,22 +110,22 @@ GSC's genetics have spawned one of the most prolific cannabis lineages:
 - **MAC** (Miracle Alien Cookies × Colombian) — Cookie-family hybrid
 - **Do-Si-Dos** (GSC × Face Off OG) — heavy-bodied phenotype
 
-Cookie-family terpene profiles (sweet, earthy, bakery-like with gas undertones) are among the most sought-after in the modern cannabis market.
+Cookie-family [[cannabis-terpene-profiles-sativa]] (sweet, earthy, bakery-like with gas undertones) are among the most sought-after in the modern cannabis market.
 
 ## Cultivation
 
-- **Difficulty**: Moderate; requires humidity and nutrient management
+- **Difficulty**: Moderate; requires humidity and [[green-cannabis-grow-bible-nutrient-management-ppm]]
 - **Flowering time**: 9–10 weeks
 - **Yield**: Moderate (10–14 oz/plant indoors); 12–16 oz/plant outdoors
 - **Stretch**: Moderate during early flowering
 - **Temperature**: 22–28°C day, 18–22°C night
 - **Humidity**: 50–65% vegetative, 40–50% flowering
-- **Notes**: Vibrant purple coloration in cooler nights (<18°C); dense buds require good airflow; susceptible to powdery mildew and botrytis; responds well to LST and ScrOG training
+- **Notes**: Vibrant purple coloration in cooler nights (<18°C); dense buds require good airflow; susceptible to [[cervantes-powdery-mildew-prevention-treatment]] and botrytis; responds well to LST and ScrOG training
 
 ## See Also
 
 - [[cannabis-cloning-rooting-cuttings-method-clarke]]
 - [[cannabis-hashish-guide]]
 - [[og-kush]] — legendary parent strain
-- [[gelato-cannabis]] — popular GSC descendant
+- [[gelato]] — popular GSC descendant
 - [[cannabis-blue-dream]] — another benchmark hybrid strain

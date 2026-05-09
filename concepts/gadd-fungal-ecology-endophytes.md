@@ -31,17 +31,17 @@ Endophytic fungal diversity is extraordinarily high. Surveys of tropical forest 
 
 - **Latitudinal diversity gradient**: Endophyte diversity tends to be higher in tropical regions than in temperate zones, paralleling patterns observed in many other organism groups.
 - **Host specificity**: Endophyte communities show varying degrees of host specificity. Some endophyte species appear to be host generalists with broad geographic distributions, while others are restricted to specific host species or genera.
-- **Tissue specificity**: Different plant tissues (leaves vs. stems vs. roots vs. bark) harbor distinct endophyte communities. Leaf endophytes are the most studied group, but root endophytes (including dark septate endophytes) may be equally diverse and ecologically important.
-- **Vertical distribution**: In forest canopies, endophyte communities differ between canopy and understory leaves, suggesting that microenvironmental conditions influence community composition.
+- **Tissue specificity**: Different plant tissues (leaves vs. stems vs. roots vs. bark) harbor distinct endophyte communities. Leaf endophytes are the most studied group, but root endophytes (including dark [[dark-septate-endophytes-root-colonizing-fungi]]) may be equally diverse and ecologically important.
+- **Vertical distribution**: In forest canopies, endophyte communities differ between canopy and understory leaves, suggesting that microenvironmental conditions influence [[core-endorhiza-bacterial-community-composition-cannabis]].
 - **Succession**: Endophyte communities change during leaf development (young expanding leaves vs. mature leaves vs. senescent leaves), with some species specialized for particular leaf age classes.
 
 ## Ecological Functions
 
 ### Herbivore Deterrence
 
-Clavicipitaceous endophytes of grasses are well known for producing alkaloid compounds (ergot alkaloids, lolines, peramine, lolitrem B) that are toxic or deterrent to mammalian herbivores and insect pests. Infected grasses show reduced herbivory, improved drought tolerance, and enhanced competitive ability compared to uninfected individuals. These defensive mutualisms have been exploited in agriculture through the deliberate inoculation of pasture grasses with beneficial endophyte strains.
+Clavicipitaceous endophytes of grasses are well known for producing alkaloid compounds (ergot alkaloids, lolines, peramine, lolitrem B) that are toxic or deterrent to mammalian herbivores and insect pests. Infected grasses show reduced herbivory, improved [[dighton-fungal-drought-tolerance-plant-water-relations]], and enhanced competitive ability compared to uninfected individuals. These defensive mutualisms have been exploited in agriculture through the deliberate inoculation of pasture grasses with beneficial endophyte strains.
 
-Non-clavicipitaceous endophytes may also produce secondary metabolites with anti-herbivore or anti-insect properties, although this defensive function is less well documented than in the clavicipitaceous system.
+Non-clavicipitaceous endophytes may also produce [[antifungal-secondary-metabolites-coprophilous-fungi]] with anti-herbivore or anti-insect properties, although this defensive function is less well documented than in the clavicipitaceous system.
 
 ### Pathogen Resistance
 
@@ -49,7 +49,7 @@ Endophytes can protect their host plants against pathogenic microorganisms throu
 
 - **Resource competition**: Endophytes occupying internal plant tissues preclude colonization by potential pathogens through competitive exclusion for space and nutrients.
 - **Antibiotic production**: Many endophytes produce antimicrobial compounds that inhibit growth of bacterial and fungal pathogens.
-- **Induced systemic resistance**: Some endophytes prime plant defense responses, making the host more resistant to subsequent pathogen attack.
+- **[[endophytic-mycorrhizal-induced-systemic-resistance]] resistance**: Some endophytes prime plant defense responses, making the host more resistant to subsequent pathogen attack.
 - **Physical barriers**: Dense endophytic colonization can create physical barriers that limit pathogen invasion.
 
 ### Stress Tolerance
@@ -71,7 +71,7 @@ Studying endophytic fungi requires specialized isolation and identification tech
 
 - **Surface sterilization**: Plant tissue is surface-sterilized (typically with sequential ethanol and sodium hypochlorite treatments) to eliminate epiphytic fungi before plating on artificial media.
 - **Isolation on selective media**: Tissue segments are placed on nutrient media, often supplemented with antibiotics to suppress bacterial growth. Incubation conditions and medium composition influence which endophyte species are recovered.
-- **Molecular identification**: DNA extraction from surface-sterilized tissue or isolated cultures, followed by PCR amplification of ribosomal DNA regions (ITS, LSU) and sequencing for species identification.
+- **[[biodiversity-fungal-molecular-identification-dna-barcoding]]**: DNA extraction from surface-sterilized tissue or isolated cultures, followed by PCR amplification of ribosomal DNA regions (ITS, LSU) and sequencing for species identification.
 - **Culture-independent methods**: Metagenomic approaches and high-throughput sequencing of environmental DNA directly from plant tissue can reveal endophyte diversity that is not captured by culture-based methods, including non-culturable species.
 
 ## See Also
@@ -79,7 +79,6 @@ Studying endophytic fungi requires specialized isolation and identification tech
 - [[dark-septate-endophytes]]
 - [[bacterial-endophytes-plant-roots]]
 
-- [[bacterial-endophytes-plant-roots]]
-- [[arthropod-associated-fungi]]
+- arthropod-associated-fungi
 - [[gadd-fungal-symbiosis-mycorrhizae]]
 - [[gadd-fungal-biodiversity-conservation]]

@@ -1,5 +1,5 @@
 ---
-title: Selecting Trainees Mushroom Cultivation
+title: Selecting Trainees accessible-mushroom-cultivation-for-disabilities
 created: 2026-04-28
 tags: [trainee-selection, disability-inclusion, training-program,
   screening-criteria, mushroom-cultivation]
@@ -27,7 +27,7 @@ Data on people with disabilities varies by country. Names may be available
 from local or central government officials, including municipal or
 provincial authorities, Ministry of Labour and Social Welfare, or Ministry
 of Health. Advertising on radio, television, and in newspapers helps
-establish a list of people interested in learning mushroom cultivation and
+establish a list of people interested in learning [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]]
 becoming entrepreneurs.
 
 ### 2. Pre-Selection
@@ -35,7 +35,7 @@ becoming entrepreneurs.
 Age and disability must be verified. Ideally, ages should range between 20
 to 35, although exceptions for younger and older candidates have proven
 justified and rewarding through their dedication and success. Multiple
-disabled people may have difficulties following the course because of
+[[holzer-lebenshilfe-permaculture-project-for-disabled-people]] may have difficulties following the course because of
 limited mobility, understanding, and replicating potential. Candidates
 with basic literacy will find the training more enjoyable and are
 generally more likely to succeed as entrepreneurs.
@@ -51,7 +51,7 @@ saturation in any single area.
 
 Trainers must visit all short-listed candidates at their home. Critical
 verifications include family support, community support, and access to
-land for setting up a mushroom house following training. Trainees must be
+land for setting up a [[mushroom-house-construction-duggar]] following training. Trainees must be
 capable of taking care of themselves during the training period.
 
 ### 5. Commitment Verification
@@ -89,7 +89,7 @@ physical, psychological, and emotional needs during training.
 
 ## Gender Considerations
 
-Mushroom cultivation can be done without major physical strength, offering
+[[mushroom-cultivation]] can be done without major physical strength, offering
 good opportunities for women seeking supplemental income or a home-based
 business. Care must be taken for women attending training to have separate
 facilities and good security at night. During training, women can train
@@ -100,7 +100,7 @@ mushroom enterprises following training.
 ## Common Problems and Selection Solutions
 
 Several recurring problems can be avoided by following recommended
-selection criteria:
+[[cannabis-breeding-traits-selection-criteria-clarke]]:
 
 - **Homesickness** - Select trainees who have previously left home
   successfully for rehabilitation, training, or work.

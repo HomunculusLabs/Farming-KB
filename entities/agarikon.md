@@ -8,13 +8,13 @@ updated: 2026-04-28
 sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3322425/
   - https://www.first-nature.com/fungi/laricifomes-officinalis.php
-  - Stamets, P. (2005). Mycelium Running. Ten Speed Press.
+  - Stamets, P. (2005). [[woodlovers-mycelium-running-pathway-technique]]. Ten Speed Press.
   - "Fungal Conservation" issues on old-growth forest protection
 ---
 
 # Agarikon (Laricifomes officinalis)
 
-Agarikon is a rare, long-lived polypore mushroom and one of the oldest known medicinal fungi in Western history. Once common in old-growth forests of Europe and North America, it is now exceedingly scarce due to habitat destruction. Its extraordinary lifespan—individual fruiting bodies can persist for decades—makes it a subject of intense mycological and pharmacological interest.
+Agarikon is a rare, long-lived polypore mushroom and one of the oldest known medicinal fungi in Western history. Once common in old-growth forests of Europe and [[psilocybin-north-america-pacific-northwest]], it is now exceedingly scarce due to habitat destruction. Its extraordinary lifespan—individual fruiting bodies can persist for decades—makes it a subject of intense mycological and pharmacological interest.
 
 ## Taxonomy and Identification
 
@@ -50,12 +50,12 @@ Agarikon is an obligate parasite and later saprotroph of coniferous trees:
 
 ## Pharmacology and Biomedical Research
 
-Modern research has revealed significant bioactive compounds in agarikon:
+Modern research has revealed significant [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in agarikon:
 
 ### Antiviral Properties
 
 - Extracts have demonstrated activity against influenza viruses, herpes simplex (HSV-1, HSV-2), and poxviruses in vitro.
-- A US Department of Defense (DARPA)-funded biodefense program (BioShield) screened agarikon along with other medicinal mushrooms for activity against potential bioterror agents, including smallpox and ebola-like viruses. Agarikon extracts showed notable antiviral activity in preliminary assays.
+- A US Department of Defense (DARPA)-funded biodefense program (BioShield) screened agarikon along with other [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] for activity against potential bioterror agents, including smallpox and ebola-like viruses. Agarikon extracts showed notable antiviral activity in preliminary assays.
 - Active antiviral compounds include unique lanostanoid triterpenoids.
 
 ### Anti-inflammatory and Immunomodulatory
@@ -113,9 +113,9 @@ Agarikon has a disjunct distribution reflecting the fragmentation of old-growth 
 
 ### Primary Threats
 - **Logging of old-growth forests:** The single greatest threat. Agarikon cannot survive without its ancient tree hosts.
-- **Climate change:** Warming temperatures and altered precipitation patterns may shift suitable habitat.
+- **[[dighton-fungi-climate-change-feedback]]:** Warming temperatures and altered precipitation patterns may shift suitable habitat.
 - **Fire suppression:** In some ecosystems, the absence of natural fire cycles has altered forest composition away from the large, old conifers agarikon depends on.
-- **Air pollution:** Acid deposition and nitrogen deposition from industrial sources may affect fungal communities.
+- **Air pollution:** Acid deposition and [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] from industrial sources may affect fungal communities.
 - **Slow dispersal:** Agarikon's spore dispersal range appears limited, making natural recolonization of new habitat extremely slow.
 
 ## Ethical Harvesting Guidelines

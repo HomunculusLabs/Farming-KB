@@ -1,5 +1,5 @@
 ---
-title: Syntropic Agriculture vs. Permaculture
+title: query-what-is-syntropic-agriculture-and-how-do-i-start vs. Permaculture
 created: 2026-04-28
 tags:
   - syntropic-agriculture
@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: comparison
 ---
@@ -20,7 +21,7 @@ type: comparison
 
 ## Overview
 
-Syntropic agriculture (developed by Ernst Götsch in Brazil) and permaculture (co-founded by Bill Mollison and David Holmgren in Australia) are two of the most influential regenerative design frameworks in the world. Both seek to create productive agricultural systems that work with natural processes rather than against them. Both emphasize polyculture, [[permaculture-ethics-earth-care-people-care-fair-share]]), and the observation of natural patterns. Permaculture is taught globally through a standardized 72-hour Permaculture Design Course (PDC) and has developed an extensive body of published literature, design tools, and certified practitioners.
+Syntropic agriculture (developed by Ernst Götsch in Brazil) and permaculture (co-founded by Bill Mollison and David Holmgren in Australia) are two of the most influential regenerative design frameworks in the world. Both seek to create productive agricultural systems that work with natural processes rather than against them. Both emphasize polyculture, permaculture-ethics-earth-care-people-care-fair-share), and the observation of natural patterns. Permaculture is taught globally through a standardized 72-hour [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Course (PDC) and has developed an extensive body of published literature, design tools, and certified practitioners.
 
 ## Design Methodology
 
@@ -72,17 +73,17 @@ Many practitioners find the two approaches highly complementary:
 
 - **Permaculture's design tools** (zones, sectors, water harvesting, social design) provide the **site-level and community-level planning framework**.
 - **Syntropic agriculture's succession management** provides the **detailed agricultural management methodology** for productive planting areas.
-- Permaculture's broader scope ensures that food production systems are integrated with water, energy, shelter, and community design.
+- Permaculture's broader scope ensures that food production systems are integrated with water, energy, shelter, and [[holmgren-community-design-and-intentional-communities]].
 - Syntropic agriculture's deeper focus on succession dynamics fills a gap in permaculture's sometimes superficial treatment of temporal ecological processes.
 
 ## Summary Comparison Table
 
 | Dimension | Syntropic Agriculture | Permaculture |
 |---|---|---|
-| **Origin** [[design-from-patterns-to-details]] Mollison & Holmgren, Australia, 1970s |
-| **Primary focus** | Agricultural production via managed succession | Whole-system design for sustainable settlements |
-| **Core principle** | Succession as engine of fertility | Design from patterns to details |
-| **Key tool** | Strategic pruning | Zone/sector analysis, guild design |
+| **Origin** design-from-patterns-to-details Mollison & Holmgren, Australia, 1970s |
+| **Primary focus** | [[fukuoka-agricultural-production-net-energy-deduction]] via managed succession | Whole-system design for sustainable settlements |
+| **Core principle** | Succession as engine of fertility | [[permaculture-principle-design-from-patterns-to-details]] to details |
+| **Key tool** | Strategic pruning | Zone/[[mollison-designers-sector-analysis-wind-sun-fire]], guild design |
 | **Design orientation** | Temporal (process over time) | Spatial (arrangement in space) |
 | **Scope** | Food production, agroforestry | Food, water, energy, shelter, community |
 | **Species framework** | Successional categories | Functional guilds |
@@ -91,3 +92,9 @@ Many practitioners find the two approaches highly complementary:
 | **Education** | Practitioner courses, limited formal | Standardized PDC, extensive resources |
 | **Soil management** | Organic matter via pruning, zero till | Multiple strategies, site-dependent |
 | **Philosophy** | Syntropy: life self-organizes | Ethics: earth care, people care, fair share |
+## See Also
+- [[david-holmgren]]
+- [[permaculture-design]]
+- [[bill-mollison]]
+- [[syntropic-agriculture]]
+- [[comparison-natural-farming-vs-permaculture]]

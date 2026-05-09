@@ -1,5 +1,5 @@
 ---
-title: "2C-C (4-Chloro-2,5-dimethoxy-PEA) -- PIHKAL Entry #22"
+title: "2C-C (4-Chloro-2,5-dimethoxy-PEA) -- 2c-b-pihkal-entry-20 #22"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2C-C
 
-PIHKAL entry #22. 4-Chloro-2,5-dimethoxy-PEA.
+[[2c-b-pihkal-entry-20]] #22. 4-Chloro-2,5-dimethoxy-PEA.
 
 ## Dosage and Duration
 
@@ -96,7 +96,7 @@ with H2O and the solvent was removed under vacuum leaving about 10 mL
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 
@@ -104,7 +104,6 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 - [[2c-f-entity-pihkal]]
 
 - PIHKAL (the source book)
-- [[2c-d-entity-pihkal]] -- 2C-D (PIHKAL #23)
 
 ## See Also
 

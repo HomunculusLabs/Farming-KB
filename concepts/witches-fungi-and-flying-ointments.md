@@ -3,24 +3,17 @@ title: Witches, Fungi, and Flying Ointments
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-
-Updated: 2026-04-18
-
-## Overview
-
-The historical connection between witches, fungi, and psychoactive substances represents one of the most fascinating intersections of mycology, anthropology, and European history. The "flying ointments" or "witches' salves" used by accused witches during the European witch craze (c. 1450-1750) likely contained psychoactive compounds from fungi and toxic plants, producing sensations of flight, transformation, and encounters with supernatural beings.
-
-Source: [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] (ergot) — contains ergotamine and lysergic acid amides, precursors to LSD
+Updated: 2026-04-18 ## Overview The historical connection between witches, fungi, and psychoactive substances represents one of the most fascinating intersections of mycology, anthropology, and European history. The "flying ointments" or "witches' salves" used by accused witches during the European witch craze (c. 1450-1750) likely contained psychoactive compounds from fungi and toxic plants, producing sensations of flight, transformation, and encounters with supernatural beings. Source: [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] (ergot) — contains ergotamine and [[ergot-and-lysergic-acid-history]] amides, precursors to LSD
 - Amanita species — containing ibotenic acid and muscimol
 
 **Plant components:**
-- Atropa belladonna (deadly nightshade) — contains atropine and scopolamine
+- [[belladonna-atropa-belladonna-ethnobotany]] (deadly nightshade) — contains atropine and scopolamine
 - Datura stramonium (jimsonweed) — contains scopolamine and hyoscyamine
-- Henbane (Hyoscyamus niger) — contains hyoscyamine and scopolamine
-- Mandrake (Mandragora officinarum) — contains tropane alkaloids
+- Henbane ([[henbane-hyoscyamus-niger-ethnobotany]]) — contains hyoscyamine and scopolamine
+- Mandrake ([[mandrake-mandragora-officinarum-in-european-folklore]]) — contains tropane alkaloids
 
 ### Method of Administration
 
@@ -45,7 +38,7 @@ Many accused witches described experiences that align with psychoactive intoxica
 
 ### Scholarly Analysis
 
-Michael Harner, in his influential 1973 paper "The Role of Hallucinogenic Plants in European Witchcraft," argued that the physiological effects of the plants and fungi used in flying ointments could account for many of the phenomena described in witch trial records. Subsequent scholars including Erich Honegger and others have expanded this analysis, connecting it to broader patterns of psychoactive substance use in folk medicine and shamanic practice.
+Michael Harner, in his influential 1973 paper "The Role of Hallucinogenic Plants in [[harner-european-witchcraft-hallucinogens]]," argued that the physiological effects of the plants and fungi used in flying ointments could account for many of the phenomena described in witch trial records. Subsequent scholars including Erich Honegger and others have expanded this analysis, connecting it to broader patterns of psychoactive substance use in folk medicine and shamanic practice.
 
 ### Connection to Folk Medicine
 
@@ -61,16 +54,16 @@ Mushrooms appeared in various forms of European folk art and symbolism connected
 
 ### Night-Flying Fungi
 
-The phenomenon of bioluminescent fungi (see bioluminescent-fungi|bioluminescent mushrooms) contributed to supernatural beliefs, as glowing mushrooms in forests at night would have been interpreted as evidence of fairy lights, will-o'-the-wisps, or other supernatural phenomena.
+The phenomenon of [[bloomfield-bioluminescent-fungi-overview]] (see bioluminescent-fungi|bioluminescent mushrooms) contributed to supernatural beliefs, as glowing mushrooms in forests at night would have been interpreted as evidence of fairy lights, will-o'-the-wisps, or other supernatural phenomena.
 
 ***
 
 ## Legacy
 
-The connection between witches and fungi highlights how psychoactive mushrooms and plants were woven into European folk traditions despite the prevailing mycophobia. While the intentional, ceremonial use of mushrooms flourished in cultures like the Aztec (see [[aztec-mushroom-feasts-and-revelations]] — Contrasting ceremonial mushroom use in Mesoamerica
+The connection between witches and fungi highlights how psychoactive mushrooms and plants were woven into European folk traditions despite the prevailing mycophobia. While the intentional, ceremonial use of mushrooms flourished in cultures like the Aztec (see aztec-mushroom-feasts-and-revelations — Contrasting ceremonial mushroom use in Mesoamerica
 - [[fairy-rings-folklore-and-science]] — Supernatural beliefs about mushroom formations
 - [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] — The fungus behind both flying ointments and mass poisonings
-- [[mushroom-symbolism-western-art]] — Mushroom imagery in European visual culture
+- mushroom-symbolism-western-art — Mushroom imagery in European visual culture
 ## Practical Considerations
 
 Successful implementation of Witches, Fungi, and Flying Ointments requires attention to
@@ -89,4 +82,5 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[atropa-belladonna]]

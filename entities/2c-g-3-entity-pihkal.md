@@ -1,5 +1,5 @@
 ---
-title: "2C-G-3 (3,4-Trimethylene-2,5-dimethoxy-PEA) -- PIHKAL Entry #28"
+title: "2C-G-3 (3,4-Trimethylene-2,5-dimethoxy-PEA) -- 2c-b-pihkal-entry-20 #28"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -78,7 +78,7 @@ purification in the following reaction.
 A mixture of 327 g N-methylformanilide and 295 g POCl3 was allowed to
 incubate until a deep claret color had formed. To this there was then
 added 110 g of crude 2,3-(trimethylene)anisole, and the mixture heated
-on the steam bath. There was a vigorous evolution of gases, which
+on the [[scythian-cannabis-steam-bath-ritual]]. There was a vigorous evolution of gases, which
 largely quieted down after some 4 h of heating. The reaction mixture
 was added to 4 L H2O and stirred overnight. The oily aqueous phase
 was extracted with 3x200 mL CH2Cl2, and after combining the extracts
@@ -89,7 +89,7 @@ sweet-smelling oil. This was distilled at 182-194 deg C at the water
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

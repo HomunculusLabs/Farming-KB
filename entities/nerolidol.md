@@ -13,10 +13,10 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Gonçalves, E.C. et al. (2012). \"Nerolidol, a sesquiterpene alcohol: Pharmacology and therapeutic potential of this underestimated molecule.\" Mini-Reviews in Medicinal Chemistry, 12(15), 1635-1644."
-  - "Sokmen, A. et al. (2004). \"The in vitro antimicrobial and antioxidant activities of the essential oils of various plants.\" Journal of the Science of Food and Agriculture, 84(10), 1169-1176."
+  - "Sokmen, A. et al. (2004). \"The in vitro antimicrobial and antioxidant activities of the [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of various plants.\" Journal of the Science of Food and Agriculture, 84(10), 1169-1176."
   - "Rao, V.S.N. et al. (2008). \"Anti-inflammatory and anti-nociceptive effects of nerolidol.\" Journal of Pharmacy and Pharmacology, 60(sup1), A44."
   - "Aprotosoaie, A.C. et al. (2014). \"Essential oils and their components as potential antifungal agents.\" Chemistry & Biodiversity, 11(7), 1114-1130."
-  - "Rice, S. & Koziel, J.A. (2015). \"The chemistry of cannabis terpenes.\" In: Handbook of Cannabis. Oxford University Press."
+  - "Rice, S. & Koziel, J.A. (2015). \"The chemistry of [[query-what-are-cannabis-terpenes-and-why-do-they-matter]].\" In: Handbook of Cannabis. Oxford University Press."
 ---
 
 # Nerolidol
@@ -54,7 +54,7 @@ effect.
 
 - Present in the trichome head resin of many cultivars
 - Typically 0.01–0.3% of total essential oil fraction
-- Especially elevated in [[alpha-bisabolol]]) but
+- Especially elevated in [[bisabolol]]) but
   contributes to overall antioxidant capacity of essential oil blends
 
 ## Biosynthesis
@@ -84,4 +84,4 @@ like [[pinene]].
 
 - Moderate mosquito repellent activity (*Aedes aegypti*) in lab assays
 - Component of natural insect repellent formulations with [[myrcene]] — Monoterpene with overlapping sedative properties in cannabis
-- [[alpha-bisabolol]] — Sesquiterpene alcohol with similar anti-inflammatory
+- [[bisabolol]] — Sesquiterpene alcohol with similar anti-inflammatory

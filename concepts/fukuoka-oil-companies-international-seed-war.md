@@ -1,5 +1,5 @@
 ---
-title: Oil Companies and the International Seed War
+title: fukuoka oil companies international seed war and the International fukuoka-food-strategic-weapon-seed-war-geopolitics
 tags: [seed-war, geopolitics, food-sovereignty, hybrid-rice, agribusiness, fukuoka]
 date: 2026-04-28
 updated: 2026-04-28
@@ -15,7 +15,7 @@ Fukuoka exposes the geopolitical struggle over control of the world's
 seed supply, warning that five American oil companies have moved into
 bioindustry to consolidate control over cereal grain seeds and
 superior livestock lines. His personal experience developing the
-"Happy Hill" superhigh-yielding rice variety drew him directly into
+"[[fukuoka-happy-hill-rice-landrace]]" superhigh-yielding [[fukuoka-old-rice-variety-testing]] drew him directly into
 this vortex of international seed politics.
 
 ## The Oil Company Takeover
@@ -32,7 +32,7 @@ realized it.
 
 Fukuoka frames the seed war within America's broader dual strategy
 of food and weapons. President Reagan boasted that America leads
-the world in grain production, apparently believing the country
+the world in [[fukuoka-no-till-grain-production-method]], apparently believing the country
 could "lead and even conquer the world with food and weapons."
 
 America's basic plan has been to conduct these two major strategies
@@ -95,7 +95,7 @@ intentions.
 
 ## Fukuoka's Happy Hill Rice
 
-Fukuoka crossed a glutinous rice from Burma with Japanese
+Fukuoka crossed a [[fukuoka-tokugawa-glutinous-rice-revival]] from Burma with Japanese
 nonglutinous rice, developing superhigh-yielding varieties yielding
 about one metric ton per quarter-acre, roughly double Japan's average.
 His goal was the opposite of agricultural scientists: to bring back
@@ -103,5 +103,7 @@ healthy, hardy rice suited to [[fukuoka-seed-war-rice-weapon]],
 [[fukuoka-hybrid-rice-international-drama]],
 
 ## See Also
+
+- [[spanish-cannabis-seed-companies]]
 
 - [[fukuoka-road-seed-ball-experiments]]

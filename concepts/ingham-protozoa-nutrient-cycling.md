@@ -1,5 +1,5 @@
 ---
-title: Protozoa in Compost Tea and Nutrient Cycling
+title: Protozoa in comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide and comparison-nutrient-cycling-vs-nutrient-dense-gardening
 created: 2026-04-26
 tags: [protozoa, nutrient-cycling, compost-tea, soil-food-web, ingham]
 date: 2026-04-25
@@ -21,7 +21,7 @@ conditions must be met:
 3. The tea maker must extract organisms from compost effectively
 4. The brew must not exceed 24 hours to prevent oxygen depletion
 
-Worm compost is the best source of protozoa for compost tea. Good
+[[ingham-thermal-worm-compost-comparison]] is the best source of protozoa for compost tea. Good
 AACT machines that maintain aerobic conditions extract protozoa
 well. Machines that go anaerobic (Soil Soup, some Growing Solutions
 systems) do not extract or maintain protozoa.
@@ -32,7 +32,7 @@ Protozoa consume algae, especially in aquatic systems. Ingham
 cites University of Wisconsin work showing that algal blooms in
 lakes were resolved by restoring protozoan populations. The food
 chain is clear: protozoa eat algae. When pesticides and high
-inorganic fertilizers eliminated protozoa from golf course ponds,
+[[ingham-inorganic-fertilizers-soil-biology-damage]] eliminated protozoa from golf course ponds,
 algal blooms followed.
 
 ## Restoring Low Protozoa Numbers

@@ -14,12 +14,12 @@ type: concept
 ## Overview
 
 Beta-diversity measures compositional dissimilarity between microbial
-communities. In Winston et al. (2014), both weighted and unweighted UniFrac
-metrics revealed that soil type dominates community composition while
+communities. In Winston et al. (2014), both weighted and [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]
+metrics revealed that soil type dominates [[core-endorhiza-bacterial-community-composition-cannabis]] while
 cultivar primarily affects abundance structure. These patterns provide
 critical evidence for the
 [[cannabis-cultivar-microbiome-specificity]]), confirming compartment-
-specific cultivar effects.
+specific [[cannabis-cultivar-effects-soil-microbiome]].
 
 ## Experiment 2: Two Cultivars, Two Soil Types
 
@@ -112,6 +112,10 @@ PC1 encapsulates the core finding: soil determines composition while
 cultivar determines abundance structure.
 
 ## See Also
+
+- [[cannabis-microbiome-unifrac-beta-diversity-analysis]]
+
+- [[alpha-beta-diversity-cannabis-root-microbiomes]]
 
 - [[cannabis-cultivar-microbiome-specificity]] for cultivar-level effects
 - [[microbial-alpha-diversity-soil-plant-gradient]] for diversity patterns

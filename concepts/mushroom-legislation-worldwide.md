@@ -1,5 +1,5 @@
 ---
-title: Mushroom Legislation Worldwide — Legal Status of Psilocybin Mushrooms
+title: hallucinogenic-mushroom-legislation-in-europe Worldwide — Legal Status of forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc
 created: 2026-04-11
 updated: 2026-04-12
 type: summary
@@ -51,13 +51,13 @@ See [[psychedelic-mushroom-history]] for the historical context of prohibition.
 - Psilocybin mushrooms (teonanacatl) are not specifically scheduled in federal law
 - Sale and commercial distribution are prohibited under general drug laws
 - Traditional indigenous use (Mazatec and other groups) is culturally tolerated
-- See [[maria-sabina-and-mazatec-mushroom-ceremony]] for indigenous context
+- See [[maria-sabina-mazatec-mushroom-ceremony]] for indigenous context
 
 ## Europe
 
 ### Netherlands
 
-- Fresh "magic mushrooms" (paddos) were banned in 2008 following several high-profile incidents
+- Fresh "[[guzman-magic-mushrooms-african-species]]" (paddos) were banned in 2008 following several high-profile incidents
 - However, **magic truffles** (sclerotia of Psilocybe species) remain legal and are sold openly in "smart shops"
 - This is because truffles were not specifically named in the legislation
 - The Netherlands remains the most accessible country in Europe for psilocybin
@@ -99,7 +99,7 @@ See [[psychedelic-mushroom-history]] for the historical context of prohibition.
 ### Switzerland
 
 - Psilocybin is controlled under Swiss drug law
-- However, Switzerland has a progressive medical research environment; clinical trials are active
+- However, Switzerland has a progressive medical research environment; [[mushroom-cancer-clinical-trials-overview]] are active
 - Compassionate use programs exist in some cantons
 - Some therapists operate in legal gray areas offering guided sessions
 
@@ -120,7 +120,7 @@ Six EU member states tightened mushroom legislation in response to increasing pr
 | Jul 2001 | Denmark | Added "Mushrooms or spores of P. semilanceata, P. cubensis or other fungi/spores containing psilocin or psilocybin" as controlled substance |
 | Nov 2002 | Netherlands | Supreme Court ruled Opium Act applies to dried/processed mushrooms (but not fresh) |
 | Mar 2005 | Germany | Changed definition from "plant" to "organism" to include mushrooms (closing fungal loophole) |
-| May 2005 | Estonia | Clarified that cultivation of hallucinogenic mushrooms is an offence |
+| May 2005 | Estonia | Clarified that cultivation of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] is an offence |
 | Jul 2005 | UK | Drugs Act 2005: "Fungus (of any kind) which contains psilocin or an ester of psilocin" became Class A — no longer only "if treated or prepared" |
 | Feb 2006 | Ireland | Criminalized possession/sale of "fungus of any kind containing psilocin" (exempt if growing uncultivated) |
 
@@ -141,60 +141,9 @@ Six EU member states tightened mushroom legislation in response to increasing pr
 
 - Not specifically scheduled; mushrooms grow naturally in the country
 - No active enforcement against personal use
-- Several retreat centers operate openly, primarily catering to international visitors
-
-## Asia and Oceania
-
-### Japan
-
-- Psilocybin is controlled under the Narcotics and Psychotropics Control Law
-- Psilocybin mushrooms were specifically banned in 2002 (previously existed in a legal gray area)
-- Strict enforcement; possession and cultivation are criminal offenses
-
-### Australia
-
-- Psilocybin is Schedule 9 (prohibited) nationally
-- In 2023, Australia became the first country to reschedule psilocybin and MDMA for therapeutic use — reclassified as Schedule 8 (controlled drug) for use in approved psychiatric settings
-- This landmark decision allows authorized psychiatrists to prescribe psilocybin for treatment-resistant depression
-- Personal possession and cultivation remain criminal offenses
-
-### New Zealand
-
-- Class A controlled substance under the Misuse of Drugs Act
-- No medical or religious exemptions
-
-## Africa
-
-- Most African nations have strict drug laws inherited from colonial-era legislation
-- South Africa: psilocybin is listed as a Schedule 7 (undesirable) substance; recent court challenges have sought decriminalization
-- Several species of Psilocybe are indigenous to sub-Saharan Africa
-
-## Trends and Reform
-
-### Decriminalization vs. Legalization
-
-- **Decriminalization**: removal of criminal penalties for personal possession/use (civil penalties may remain)
-- **Legalization**: regulated legal market for production and sale
-- **Medical rescheduling**: allowing medical use under supervised conditions
-- Most current reform efforts focus on decriminalization and medical access rather than full legalization
-
-### Key Reform Drivers
-
-- Growing body of clinical evidence for therapeutic efficacy (depression, PTSD, end-of-life anxiety, addiction)
-- Public opinion shifts: support for psychedelic reform has increased steadily since ~2015
-- Indigenous rights frameworks supporting traditional use
-- Economic arguments: potential for regulated psychedelic therapy industry
-- Failure of the "war on drugs" paradigm
-
-### Ongoing Research and Regulatory Breakthroughs
-
-- FDA has granted "Breakthrough Therapy" designation to psilocybin for treatment-resistant depression
-- Phase 3 clinical trials by Compass Pathways and other organizations are ongoing
-- Multiple countries are developing regulatory frameworks for psychedelic-assisted therapy
-
 ## Related Pages
 
 - [[psychedelic-therapy-current-research]] for the arc of research and prohibition
 - [[psychedelic-compounds-reference]] for pharmacological context
-- [[psychedelic-mushroom-history]] for the cultural history
+- [[psychedelic-mushroom-history]] for the [[shroom-cultural-history-hippie-revolution-and-counterculture]]
 - [[harm-reduction-guide]] for safety in contexts where mushrooms are accessible

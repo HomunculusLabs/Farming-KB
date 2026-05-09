@@ -13,7 +13,7 @@ type: concept
 
 Human immunodeficiency virus (HIV) and acquired immunodeficiency syndrome
 (AIDS) represent a complex clinical picture where cannabis has demonstrated
-meaningful therapeutic benefits. In "The Cannabis Health Index," Uwe
+meaningful therapeutic benefits. In "The [[blesching-cannabis-health-index-autoimmune-conditions]]," Uwe
 Blesching assigns this condition a Cannabis Health Index (CHI) rating of
 **3** based on **1 major clinical study** involving 775 patients. While
 the study count is low, the single study is remarkably comprehensive and
@@ -67,7 +67,7 @@ findings in [[blesching-cannabis-immune-system-modulation]].
 ## Interaction with Antiretroviral Therapy
 
 A critical consideration for HIV/AIDS patients using cannabis is the
-potential for drug interactions with antiretroviral therapy (ART).
+potential for [[cannabis-drug-interactions-and-contraindications]] with antiretroviral therapy (ART).
 Blesching notes that:
 
 - Some antiretroviral medications are metabolized by cytochrome P450
@@ -96,7 +96,7 @@ Blesching acknowledges that the CHI rating of 3 (based on a single study,
 albeit a large one) reflects the limited number of dedicated clinical
 trials for cannabis in HIV/AIDS. Additional randomized controlled trials
 are needed to strengthen the evidence base, particularly regarding optimal
-dosing, strain selection, and long-term effects on immune function and
+dosing, [[blesching-cannabis-strain-selection-receptor-targeting]], and long-term effects on immune function and
 disease progression.
 
 ## Key Takeaways
@@ -107,4 +107,4 @@ disease progression.
   reduction, and sleep improvement
 - Immunomodulatory effects may provide benefits beyond symptom management
 - Drug interactions with antiretroviral therapy require medical oversight
-- Additional clinical trials are needed to strengthen the evidence base
+- Additional [[mushroom-cancer-clinical-trials-overview]] are needed to strengthen the evidence base

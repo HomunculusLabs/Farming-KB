@@ -1,5 +1,5 @@
 ---
-title: Homemade Liquid Fertilizer
+title: Homemade jadam-liquid-fertilizer-nutritional-perspective
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-It is very easy to make your own liquid manure that is as nutritious as any you can buy. All you need is a large metal or plastic drum, a burlap sack, and some animal manure or plant material.
+It is very easy to make your own liquid manure that is as nutritious as any you can buy. All you need is a large metal or plastic drum, a burlap sack, and some [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] or plant material.
 
 ## Basic Recipe (Animal Manure Liquid Feed)
 
@@ -60,7 +60,7 @@ For plants that are regularly fed (e.g., greenhouse tomatoes):
 ## Related
 
 - [[animal-manure-guide]] — choosing the right manure for liquid fertilizer
-- [[kelp-meal-fertilizer]] — kelp-based organic fertilizer options
+- [[kelp-meal-fertilizer]] — kelp-based [[complete-organic-fertilizer-cof-recipe-solomon]] options
 - [[trace-elements-in-soil]] — ensuring plants get micronutrients
 ## Practical Considerations
 
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

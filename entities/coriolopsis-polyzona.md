@@ -27,7 +27,7 @@ updated: 2026-04-28
 sources:
   - Ryvarden, L. & Johansen, I. (1980). "A Preliminary Polypore Flora of East Africa." Fungiflora, Oslo.
   - Dai, Y.C. et al. (2007). "A contribution to the current knowledge of the polypores in tropical China." Mycotaxon, 101, 81–90.
-  - Nogueira-Miranda, C. et al. (2020). "Coriolopsis species: A review on secondary metabolites and biological activities." Phytochemistry, 169, 112126.
+  - Nogueira-Miranda, C. et al. (2020). "Coriolopsis species: A review on [[antifungal-secondary-metabolites-coprophilous-fungi]] and biological activities." Phytochemistry, 169, 112126.
   - Moncalvo, J.M. & Ryvarden, L. (1997). "A nomenclatural study of the Polyporaceae." Synopsis Fungorum, 11, 1–76.
   - Index Fungorum. "Coriolopsis polyzona (Pers.) Ryvarden." www.indexfungorum.org.
 created: 2026-04-28
@@ -53,7 +53,7 @@ The context is corky and duplex, with a dark upper layer and lighter lower layer
 
 ## Distribution and Habitat
 
-C. polyzona has a pantropical distribution with extensions into warm temperate zones. It occurs throughout sub-Saharan Africa, South and Southeast Asia, Oceania, and parts of Central and South America. In East Africa it is one of the most frequently encountered polypores on fallen hardwood.
+C. polyzona has a [[copelandia-cyanescens-pantropical-distribution-and-ecology]] with extensions into warm temperate zones. It occurs throughout sub-Saharan Africa, South and Southeast Asia, Oceania, and parts of Central and South America. In East Africa it is one of the most frequently encountered polypores on fallen hardwood.
 
 The fungus is exclusively found on dead wood of angiosperm trees, particularly in lowland tropical and subtropical forests. It is a white-rot decomposer capable of degrading both cellulose and lignin. Common substrate genera include Acacia, Eucalyptus, Terminalia, and various fruit trees.
 
@@ -91,19 +91,19 @@ The species is among a group of "tiger's milk" mushrooms referenced in some Afri
 
 C. polyzona has been successfully cultivated on various lignocellulosic substrates under laboratory conditions. Sawdust-based substrates supplemented with wheat bran or rice bran support adequate mycelial growth and fruiting.
 
-Optimal growth temperature ranges from 25–30°C, with relative humidity above 85% required for primordia formation. The species is not currently cultivated commercially but shows potential as a source of bioactive compounds through solid-state fermentation.
+Optimal growth temperature ranges from 25–30°C, with relative humidity above 85% required for [[growing-gourmet-primordia-formation-pinning]]. The species is not currently cultivated commercially but shows potential as a source of bioactive compounds through solid-state fermentation.
 
-Mycelial cultivation in liquid culture has been explored for production of bioactive metabolites, particularly triterpenoids and polysaccharides. Submerged fermentation parameters including carbon source, nitrogen source, and agitation rate significantly influence metabolite yield.
+Mycelial cultivation in liquid culture has been explored for production of bioactive metabolites, particularly triterpenoids and polysaccharides. [[cancer-medicinal-mushrooms-submerged-fermentation-production]] parameters including carbon source, nitrogen source, and agitation rate significantly influence metabolite yield.
 
 ## Related Species
 
 Coriolopsis polyzona is closely related to C. sanguinea and C. byrsina, with which it shares habitat preferences and some morphological features. It can be distinguished from C. sanguinea by its zonate upper surface and yellow-bruising pore surface.
 
-The species was long treated as a member of Trametes (as T. polyzona), and specimens are still frequently confused with Trametes versicolor in the field. The dimitic hyphal system and the distinctive yellow bruising of the pore surface separate C. polyzona from T. versicolor, which has a monomitic hyphal system.
+The species was long treated as a member of Trametes (as T. polyzona), and specimens are still frequently confused with [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] in the field. The dimitic hyphal system and the distinctive yellow bruising of the pore surface separate C. polyzona from T. versicolor, which has a monomitic hyphal system.
 
 ## Ecological Role
 
-As a white-rot decomposer, C. polyzona plays an important role in nutrient cycling within tropical forest ecosystems. Its lignin-degrading enzyme system includes laccases, manganese peroxidases, and lignin peroxidases that break down recalcitrant woody material.
+As a white-rot decomposer, C. polyzona plays an important role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within tropical forest ecosystems. Its lignin-degrading enzyme system includes laccases, manganese peroxidases, and lignin peroxidases that break down recalcitrant woody material.
 
 The species contributes to carbon turnover in deadwood pools and creates microhabitats for invertebrates during the decay process. Its fruiting bodies serve as a food source for various fungivorous insects and small mammals.
 

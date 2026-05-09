@@ -5,7 +5,7 @@ source: Nicholas P. Money, Mr. Bloomfield's Orchard (2002)
 tags: [melanin, fungal-pathogenicity, cryptococcus, dermatophytes, radiation-resistance, cell-wall, pigmentation]
 ---
 
-# [[pf-tek-spore-syringe-boiling-water-sterilization]] eb will not dissolve in boiling water or hot acid.
+# pf-tek-spore-syringe-boiling-water-sterilization eb will not dissolve in boiling water or hot acid.
 
 Deposited by the cell as a distinct layer of the wall, these pigments absorb all wavelengths of visible light.
 
@@ -29,7 +29,7 @@ A greater testament to the resilience of melanized fungi comes from r [[staycare
 
 Change the temperature in the incubator and they croak.
 
-Attack them with cell wall degrading enzymes and they explode.
+Attack them with [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] degrading enzymes and they explode.
 
 Melanin confers such diverse benefits that it is difficult to make a declarative statement about its function in any particular fungus.
 
@@ -37,11 +37,11 @@ Competing laboratories have argued about the chief virtue of being black for dec
 
 The only worthwhile generalization is that melanin furnishes the cell with a barrier between the cytoplasm and its hostile surroundings.
 
-It enables the fungal cell to rebuff poisons and prevent leaks.
+It enables the [[gadd-fungal-cell-structure]] to rebuff poisons and prevent leaks.
 
 ## Cryptococcus neoformans — A Opportunistic Killer
 
-[[staycare-fungal-treatment-of-olive-oil-mill-wastewater]] ezia is a microscopic epicure that can be grown on agar medium in a Petri dish, but only if bathed with olive oil.
+[[staycare-fungal-treatment-of-olive-oil-mill-wastewater]] ezia is a microscopic epicure that can be grown on agar medium in a Petri dish, but only if bathed with [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]].
 
 The active component of Head and Shoulders shampoo is pyrithione zinc, which inhibits fungal proliferation on the scalp, but the specifics of its mode of action remain unknown.
 
@@ -72,6 +72,8 @@ By manufacturing melanin from brain chemicals, the fungus simultaneously protect
 ## Amphotericin B — The Wonder Drug
 ## See Also
 
+- [[symbiotic-fungi-fungal-parasitism-and-pathogenicity]]
+
 - [[stinkhorn-reproduction-and-spore-dispersal]] — Non-pathogenic fungal adaptations
 - [[hyphal-growth-mechanics-and-invasion]] — How fungi penetrate tissues
 ## Practical Considerations
@@ -92,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -10,11 +10,11 @@ type: concept
 
 # Tryptophan Biosynthesis from Chorismate
 
-Tryptophan biosynthesis is the branch of the [[psilocybin-compound-profile]], [[shikimate-pathway-in-fungi]],
+Tryptophan biosynthesis is the branch of the [[psilocybin-compound-profile]], shikimate-pathway-in-fungi,
 into L-tryptophan through a sequence of reactions that construct
 the indole ring system and attach it to an alanine-derived amino
 acid side chain. This pathway operates in the cytosol of fungal
-cells and requires the cofactor pyridoxal phosphate (PLP) for
+cells and requires the cofactor [[pyridoxal-phosphate]] (PLP) for
 the final transamination-like condensation step.
 
 ## Enzymatic Steps
@@ -46,9 +46,9 @@ phosphoribosyl transferase, which attaches anthranilate to
 5-phosphoribosyl-1-pyrophosphate (PRPP) to form N-(5'-phosphoribosyl)
 anthranilate (PRA). This reaction links the aromatic ring to a
 ribose phosphate scaffold and commits carbon from the pentose
-phosphate pathway into the indole ring construction process.
+[[pentose-phosphate-pathway]] into the indole ring construction process.
 PRPP serves as a key metabolite in both purine/pyrimidine
-biosynthesis and amino acid salvage pathways.
+biosynthesis and [[cho-fish-amino-acid-preparation]] salvage pathways.
 
 ### Step 4: Amadori Rearrangement
 
@@ -107,9 +107,9 @@ levels:
 
 - **Transcriptional control:** The TRP genes encoding pathway
   enzymes are regulated by transcription factors responsive to
-  tryptophan levels. In Saccharomyces cerevisiae and other fungi,
+  tryptophan levels. In [[saccharomyces-cerevisiae]] and other fungi,
   the GCN4 transcriptional activator coordinates expression of
-  amino acid biosynthetic genes under amino acid starvation.
+  [[fish-amino-acid]] biosynthetic genes under amino acid starvation.
 
 - **Enzyme complex formation:** The alpha and beta subunits of
   tryptophan synthase form a multienzyme complex that enhances
@@ -123,5 +123,5 @@ Once synthesized, tryptophan can be decarboxylated by
 
 ## Related Topics
 
-- [[shikimate-pathway-in-fungi]]
+- shikimate-pathway-in-fungi
 - [[psilocybin-biosynthetic-metabolic-pathway]]

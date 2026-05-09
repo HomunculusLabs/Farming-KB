@@ -34,10 +34,10 @@ the preferred propagation method.
 The medicinal power of chamomile comes from several key compounds.
 Apigenin, a flavonoid, binds to brain receptors that promote sleep
 and reduce anxiety, making chamomile tea one of the most widely used
-natural sedatives. Chamazulene, formed during steam distillation,
+natural sedatives. Chamazulene, formed during [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]],
 provides potent anti-inflammatory action. Bisabolol offers
 antimicrobial and skin-soothing properties. Together these compounds
-make chamomile effective for sleep disorders, digestive complaints,
+make chamomile effective for [[cannabis-sleep-disorders-and-insomnia]], digestive complaints,
 skin irritation, and menstrual cramps.
 
 Harvest flowers at full bloom on dry mornings when essential oil
@@ -45,7 +45,7 @@ concentration peaks. Dry at 95 to 100 degrees Fahrenheit in a
 dehydrator or in a warm, well-ventilated space out of direct
 sunlight. Properly dried flowers store for up to one year in airtight
 containers away from light. Chamomile requires no fertilizer, is
-remarkably pest and disease resistant, and thrives in average to
+remarkably [[hamilton-pest-and-disease-control-organic]] resistant, and thrives in average to
 poor soils with good drainage.
 
 ## Dandelion
@@ -64,9 +64,9 @@ calcium, magnesium, iron, and copper from deep subsoil layers and
 brings them to the surface through leaf fall and root decomposition.
 The taproot breaks up compacted soil and creates channels for water
 infiltration and microbial movement. In this role, dandelion functions
-as a dynamic accumulator that requires zero inputs.
+as a [[nutrient-dynamic-accumulator-reference]] that requires zero inputs.
 
-Beyond nutrient cycling, dandelion provides critical ecosystem
+Beyond [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], dandelion provides critical ecosystem
 services. The flowers are among the earliest nectar sources in
 spring, supporting queen bumblebees and other emerging pollinators
 when few other plants are blooming. The flowers also attract
@@ -92,7 +92,7 @@ productive without allowing uncontrolled spread.
 | Companion Function | Pollinator attractant, ground cover | Dynamic accumulator, early bee forage |
 | Nutrient Accumulation | Moderate, surface feeding | Deep taproot mines subsoil minerals |
 | Invasiveness | German self-seeds, manageable | Can be aggressively invasive |
-| Harvest Timing | Flowers at full bloom | Leaves in spring, roots in fall |
+| [[cannabis-harvest-timing-visual-cues]] | Flowers at full bloom | Leaves in spring, roots in fall |
 | Climate Range | Annual and perennial, zones 3-9 | Ubiquitous, zones 3-10 |
 
 ## When to Choose Chamomile
@@ -111,7 +111,7 @@ beds where their flowers support pollinators.
 Choose dandelion for free food, medicine, and soil improvement
 from a plant that needs no cultivation investment. Allow dandelion
 to colonize compacted areas, orchard understories, and marginal
-zones where its deep taproot will [[food-forest-understory-plants]]. Dandelion's early spring
+zones where its deep taproot will food-forest-understory-plants. Dandelion's early spring
 blooms provide nectar before chamomile flowers appear. Chamomile's
 dense low growth suppresses excessive dandelion spread while both
 plants support overlapping pollinator populations. Harvesting from

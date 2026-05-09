@@ -1,7 +1,7 @@
 ---
 title: Fungal Taxonomic Impediment
 created: 2026-04-28
-tags: [[mycology]], taxonomy, biodiversity-gap, infrastructure, workforce]
+tags: [mycology], taxonomy, biodiversity-gap, infrastructure, workforce]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -18,7 +18,7 @@ with their actual diversity. Despite estimates of 2.2 million or more fungal
 species, only about 148,000 have been described, and the rate of new species
 description remains far too slow to close this gap within any foreseeable
 timeframe. This impediment is not merely a scientific inconvenience but a
-fundamental barrier to understanding fungal roles in ecosystems, agriculture,
+fundamental barrier to understanding [[dighton-fungal-roles-in-nutrient-cycling]] in ecosystems, agriculture,
 and human health.
 
 ## Workforce Shortage
@@ -63,7 +63,7 @@ extensive culture-based and molecular studies that are labor-intensive.
 ### Cultural Dependency
 
 Many fungi, especially microfungi, can only be fully characterized if grown in
-pure culture. Culturing adds months to the description process and is not
+[[mushroom-spawn-making-pure-culture]]. Culturing adds months to the description process and is not
 always successful, particularly for obligate symbionts. This cultural
 dependency creates a systematic bias toward easily cultured taxa and against
 those that are slow-growing, fastidious, or unculturable.
@@ -71,8 +71,8 @@ those that are slow-growing, fastidious, or unculturable.
 ## Herbarium and Collection Infrastructure
 
 Natural history collections that house fungal specimens face chronic funding
-shortages, staffing cuts, and physical degradation. Many fungal collections
-in tropical countries are at risk due to inadequate climate control and
+shortages, staffing cuts, and physical degradation. Many [[herbarium-specimens-fungal-collections]]
+in tropical countries are at risk due to inadequate [[mollison-pdc-trellis-systems-climate-control]] and
 insect damage. Digitization of fungal specimens lags far behind vascular plant
 collections, making it difficult to assess what has already been collected.
 
@@ -112,3 +112,4 @@ complete inventory proves impossible.
 
 - [[cryptic-fungal-species]]
 - [[biodiversity-fungi-tropical-fungal-diversity]]
+- [[taxonomic-impediment-fungal-species-description]]

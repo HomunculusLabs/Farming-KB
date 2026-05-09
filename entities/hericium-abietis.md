@@ -36,7 +36,7 @@ sources:
 - **Common names:** Conifer coral mushroom, western bear's head, bear's head tooth
 - **Family:** Hericiaceae | **Order:** Russulales | **Phylum:** Basidiomycota
 - **Growth form:** Tooth fungus — pendant spines from branched coral-like base
-- **Native range:** Pacific Northwest North America; also Scandinavia
+- **Native range:** Pacific Northwest [[psilocybin-north-america-pacific-northwest]]; also Scandinavia
 - **Fruiting season:** Late summer to autumn (September–November)
 - **Rarity:** Uncommon to rare; declining due to old-growth habitat loss
 - **Fruiting body:** Multiple branches from common base, 5–25 cm broad
@@ -83,7 +83,7 @@ sources:
 
 ### Culinary
 
-- **Edibility:** Choice edible — one of the finest wild mushrooms
+- **Edibility:** Choice edible — one of the finest [[edible-wild-mushrooms-by-region]]
 - **Flavor:** Sweet, mild, seafood-like (lobster/crab); tender when young
 - **Preparation:** Best sautéed, tempura-fried, or in soups; do not eat raw
 - **Storage:** 3–7 days refrigerated; dehydrates and reconstitutes well
@@ -106,7 +106,7 @@ sources:
   occasional in Scandinavia and Japan
 - **Substrate:** Dead or dying conifer wood — snags, logs, stumps
 - **Host trees:** Douglas-fir, western hemlock, Sitka spruce, true firs (*Abies*)
-- **Role:** Brown rot of heartwood; nutrient cycling in mature forests
+- **Role:** Brown rot of heartwood; [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in mature forests
 - **Habitat:** Old-growth and second-growth conifer forests; 0–1500 m elevation
 - **Conservation:** Not formally listed; locally rare due to logging and
   habitat fragmentation
@@ -116,7 +116,7 @@ sources:
 - **Commercial status:** Not widely cultivated; niche market only
 - **Difficulty:** Moderate; requires conifer-based substrates
 - **Substrates:** Supplemented conifer sawdust (10–20% wheat bran);
-  outdoor log inoculation also possible
+  [[growing-gourmet-outdoor-log-inoculation-techniques]] inoculation also possible
 - **Conditions:** Colonization 20–25 °C; fruiting at 10–15 °C, >90% RH
 - **Timeline:** 4–8 weeks on sawdust; 1–2 years on natural logs
 - **Yield:** BE 30–60% (lower than H. erinaceus at 80–120%)
@@ -125,8 +125,8 @@ sources:
 
 ## Wiki Relevance
 
-- **Category:** Medicinal/edible mushroom species
-- **Mycological importance:** Key North American Hericium with medicinal
+- **Category:** Medicinal/[[bloomfield-boletus-satanus-edible-mushroom-hazards]] species
+- **Mycological importance:** Key [[growing-gourmet-north-american-reishi-species]] Hericium with medicinal
   compound profile matching H. erinaceus
 - **Ethnobotany:** Traditionally foraged in Pacific Northwest
 - **Permaculture:** Conifer stump inoculation in food forests

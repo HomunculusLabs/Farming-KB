@@ -1,5 +1,5 @@
 ---
-title: Cannabis Photoperiod and 12/12 Flowering Cycle
+title: [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]] and 12/12 [[cannabis-sativa-flowering-cycle-management]]
 created: 2026-04-28
 tags: [cannabis, photoperiod, flowering, light-cycle, grow-bible]
 date: 2026-04-25
@@ -21,90 +21,89 @@ identified as female.
 
 ## References
 
-- Green, G. The Cannabis Grow Bible. Green Candy Press, 2003.
+- Green, G. The [[query-how-do-i-transition-my-cannabis-grow-from-synthetic-to-organic-nutrients]] Bible. Green Candy Press, 2003.
   Chapter 7 on flowering, 12/12 photoperiod, and light cycle
   management.
 
-## See Also
+## Light Cycle Mechanics
+
+Cannabis is a short-day plant, meaning flowering is triggered when the
+uninterrupted dark period exceeds a critical threshold, typically 10-12
+hours. The phytochrome pigment system mediates this response: PR (active
+in darkness) accumulates during the dark period, while PFR (active in
+light) converts back under illumination. When PR levels remain elevated
+for approximately 10-12 consecutive hours, the plant shifts from
+vegetative growth to reproductive mode, redirecting energy from foliage
+production to floral development.
+
+## Vegetative Phase Under 18/6
+
+During the vegetative phase, growers typically maintain an 18 hours
+light / 6 hours dark schedule. This provides ample energy for leaf and
+branch production without triggering flowering. Under 24/0 continuous
+light, some strains exhibit accelerated vegetative growth, but a dark
+period is generally recommended because it allows root respiration,
+nutrient translocation, and reduced energy costs. Plants under 18/6
+often display more robust root systems compared to those under 24/0.
+
+## The 12/12 Transition
+
+Switching to 12 hours light / 12 hours dark initiates flowering.
+During the first 1-2 weeks of 12/12, the plant undergoes a stretch
+phase, where internodal spacing increases rapidly and calyx
+development begins. Female plants show white pistils (stigmas) at
+node sites, while male plants develop pollen sacs. Identifying and
+removing males within the first two weeks prevents pollination of
+sinsemilla crops. The stretch phase is strain-dependent, with indica
+varieties typically stretching 50-100% and sativa varieties stretching
+100-300%.
+
+## Dark Period Integrity
+
+Even brief light interruptions during the 12-hour dark period can
+revert the plant to vegetative growth or cause stress responses
+including hermaphroditism. Green-spectrum light leaks from equipment
+LEDs, hallway light under doors, or outdoor street lighting are common
+culprits. Growers use light-proofing materials, sealed tents, and
+timed lighting systems to ensure complete darkness. Some experienced
+growers advocate for an 11/13 schedule (11 hours light, 13 hours
+dark) to reduce the risk of accidental light pollution and to
+accelerate flowering slightly.
+
+## Flowering Stages
+
+The flowering cycle can be divided into distinct phases:
+- **Weeks 1-2 (stretch)**: Rapid vertical growth, pre-flower
+  formation, sex identification
+- **Weeks 3-4 (bud set)**: Calyx clusters form, trichome production
+  begins, aroma starts developing
+- **Weeks 5-7 (bulk)**: Buds swell significantly, resin production
+  peaks, pistils begin darkening from white to orange/brown
+- **Weeks 8+ (ripening)**: Trichomes shift from clear to cloudy to
+  amber, indicating peak cannabinoid maturity
+
+## Photoperiod vs Autoflowering
+
+Unlike photoperiod strains, autoflowering cannabis (Cannabis ruderalis
+hybrids) flowers based on age rather than light cycle, typically
+beginning flowering 2-4 weeks after germination regardless of the
+photoperiod. This makes autoflowers simpler for novice growers and
+enables multiple harvests per season in outdoor environments. However,
+photoperiod strains generally offer higher yields, more complex terpene
+profiles, and greater genetic diversity. Cloning is straightforward
+with photoperiod plants but unreliable with autoflowers since cloned
+autos retain the age of the mother and may flower prematurely.
+
+## Environmental Considerations During Flowering
+
+Temperature, humidity, and nutrient requirements shift during the
+flowering phase. Ideal daytime temperatures drop slightly to 24-28 deg C
+from the vegetative 25-30 deg C range. Humidity should be reduced
+progressively from 60-65% in early flowering to 40-50% in late
+flowering to prevent bud rot (Botrytis cinerea). Nitrogen intake is
+reduced while phosphorus and potassium demands increase to support
+floral development. Many growers flush with plain water in the final
+1-2 weeks to improve flavor and reduce residual nutrient taste.
 
 ## See Also
-
-- [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]
-## Practical Applications
-
-Cannabis Photoperiod and 12/12 Flowering Cycle has a range of practical applications that make it relevant to
-both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
-reflects the fundamental importance of this topic across disciplines.
-
-Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
-straightforward, while larger implementations require more careful
-planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
-
-Documented case studies provide valuable reference points, though
-each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
-creative adaptation to local conditions and emerging challenges.
-
-## Key Considerations
-
-Several important considerations should guide approach and decision-
-making when working with this topic. These include environmental
-factors, resource availability, timing, and the specific goals of the
-implementation. Careful attention to these factors improves outcomes
-and reduces the likelihood of common problems and setbacks.
-
-Environmental conditions play a particularly significant role in
-determining outcomes. Factors such as temperature, moisture, light
-exposure, and seasonal timing can substantially affect results.
-Monitoring these conditions and adapting practices accordingly is
-a hallmark of experienced and effective practice in this area.
-
-Resource considerations include not only material inputs but also
-knowledge, skills, time, and ongoing management capacity. Realistic
-assessment of available resources helps prevent overcommitment and
-enables more sustainable and successful long-term implementations.
-
-## Common Challenges
-
-Practitioners commonly encounter several challenges when working with
-Cannabis Photoperiod and 12/12 Flowering Cycle. These include both technical difficulties and broader systemic
-issues that require adaptive management and creative problem-solving.
-Awareness of these common challenges enables more proactive planning
-and faster resolution when issues do arise during implementation.
-
-Technical challenges often relate to the complexity of interactions
-between multiple variables and the difficulty of predicting outcomes
-with certainty. Building in redundancy, monitoring key indicators, and
-maintaining flexibility in approach all help manage this inherent
-uncertainty and improve the resilience of implementations over time.
-
-Learning from both successes and failures is essential for continuous
-improvement. Maintaining records of observations, interventions, and
-outcomes creates a valuable knowledge base that supports progressively
-better results with each iteration of practice and experimentation.
-
-## Integration and Future Development
-
-The greatest value from this topic often comes through integration
-with other systems and approaches. Rather than treating it in isolation,
-considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-
+- [[green-cannabis-photoperiod-12-12-light-cycle]]

@@ -5,7 +5,8 @@ updated: 2026-04-15
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # One-Straw Revolution Philosophy
 
@@ -13,7 +14,7 @@ The One-Straw Revolution (1978) is Masanobu Fukuoka's manifesto of [[fukuoka-do-
 
 1. **Abandonment** -- leaving things to take their natural course all at once, which leads to failure (as he discovered when his first orchard withered from neglect). "If you apply this way of thinking all at once, before long things do not go so well."
 
-2. **Natural farming** -- a careful, decades-long process of learning what the natural pattern is and then working within it, eliminating unnecessary human interventions one by one. His approach was the opposite of normal agricultural development. Where others asked "How about trying this?", he asked "How about not doing this? How about not doing that?"
+2. **[[comparison-natural-farming-vs-permaculture]]** -- a careful, decades-long process of learning what the natural pattern is and then working within it, eliminating unnecessary human interventions one by one. His approach was the opposite of normal agricultural development. Where others asked "How about trying this?", he asked "How about not doing this? How about not doing that?"
 
 Over thirty years, he eliminated plowing, fertilizer, compost, insecticides, and weeding, arriving at a method that requires little more than broadcasting seed and spreading straw. "Since advanced technology had nothing to do with growing this grain, it stands as a contradiction to the assumptions of modern science."
 
@@ -29,7 +30,7 @@ Seeks victory through skillful, self-conscious application of "natural" methods.
 
 ## The Straw as Revolutionary Symbol
 
-The book's title comes from Fukuoka's observation that spreading straw on rice fields -- returning all organic matter to the soil surface -- is simultaneously the simplest and most profound agricultural act. Straw connects with everything: fertility, germination, weed suppression, water management, and [[natural-farming-philosophy]] -- the broader system
+The book's title comes from Fukuoka's observation that spreading straw on rice fields -- returning all [[hamilton-composting-and-organic-matter-management]] to the soil surface -- is simultaneously the simplest and most profound agricultural act. Straw connects with everything: fertility, germination, weed suppression, water management, and [[natural-farming-philosophy]] -- the broader system
 - [[fukuoka-do-nothing-farming-and-spiritual-life]] -- the practical method
 - [[natural-farming-vs-organic-farming]] -- how Fukuoka differs from organic
 - [[natural-farming-and-spirituality]] -- the spiritual dimension
@@ -111,4 +112,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

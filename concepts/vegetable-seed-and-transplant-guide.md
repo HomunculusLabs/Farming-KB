@@ -1,5 +1,5 @@
 ---
-title: vegetable seed and transplant guide
+title: vegetable vegetable seed and transplant guide guide
 created: 2026-04-28
 date: 2026-04-28
 updated: 2026-04-28
@@ -10,16 +10,16 @@ sources:
 ---
 # Vegetable Seed and Transplant Guide
 
-Comprehensive guidance on seed selection, starting transplants,
+Comprehensive guidance on [[cannabis-seed-selection-and-strain-types]], starting transplants,
 hardening off, and planting procedures for home vegetable gardens,
 based on Purdue Extension guidelines.
 
 Related: [[garden-location-and-soil-preparation]],
-[[garden-location-and-soil-preparation]] — Site selection and soil
+[[garden-location-and-soil-preparation]] — [[fukuoka-creating-natural-farm-site-selection-establishment]] and soil
   preparation
-- [[vegetable-garden-guide]] — Comprehensive vegetable gardening
+- [[vegetable-garden-guide]] — Comprehensive [[home-vegetable-garden-planning]]
   reference
-- [[home-vegetable-garden-planning]] — Garden layout and planning
+- [[home-vegetable-garden-planning]] — [[hamilton-garden-layout-beds-borders-paths]] and planning
 ## Practical Applications
 
 vegetable seed and transplant guide has a range of practical applications that make it relevant to
@@ -97,4 +97,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

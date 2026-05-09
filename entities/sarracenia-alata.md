@@ -10,7 +10,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - McPherson, S. (2011). "Pitcher Plants of the Americas." Redfern Natural History Productions.
-  - Schnell, D.E. (2002). "Carnivorous Plants of the United States and Canada." Timber Press.
+  - Schnell, D.E. (2002). "Carnivorous Plants of the [[dmt-containing-plants-united-states-halpern]] and Canada." Timber Press.
   - Ellison, A.M. & Gotelli, N.J. (2001). "Evolutionary ecology of carnivorous plants." Trends in Ecology & Evolution, 16(11), 623-629.
   - USDA NRCS (2024). "Sarracenia alata" Plant Profile. plants.usda.gov.
 ---
@@ -43,7 +43,7 @@ Root development is minimal relative to non-carnivorous perennials, as the speci
 
 *Sarracenia alata* occurs along the Gulf Coastal Plain from eastern Texas through Louisiana, southern Mississippi, southern Alabama, and into the Florida Panhandle. Isolated populations have been reported from southwestern Georgia.
 
-The species has the westernmost natural range of any North American Sarracenia, extending further into Texas than any other member of the genus. This western distribution may reflect historical biogeographic patterns linked to Gulf Coast refugia during Pleistocene glaciations.
+The species has the westernmost natural range of any [[growing-gourmet-north-american-reishi-species]] Sarracenia, extending further into Texas than any other member of the genus. This western distribution may reflect historical biogeographic patterns linked to Gulf Coast refugia during Pleistocene glaciations.
 
 It inhabits nutrient-poor, acidic wetland environments including seepage bogs, pitcher plant bogs, hillside seeps, and the margins of longleaf pine savannas. Soils are typically sandy peat or muck with pH values ranging from 4.0 to 5.5.
 
@@ -57,7 +57,7 @@ Nectar glands concentrated on the peristome, inner lid, and upper pitcher interi
 
 Digestive fluid at the pitcher bottom contains enzymes including proteases, chitinases, and phosphatases. The breakdown of prey releases nitrogen and phosphorus, nutrients that are severely limiting in the species' native habitats.
 
-A diverse community of invertebrate mutualists inhabits the pitcher fluid, including larvae of the pitcher-plant midge (*Metriocnemus knabi*) and the flesh fly (*Fletcherimyia fletcheri*). These organisms accelerate prey decomposition and increase nutrient availability to the plant.
+A diverse community of invertebrate mutualists inhabits the pitcher fluid, including larvae of the pitcher-plant midge (*Metriocnemus knabi*) and the flesh fly (*Fletcherimyia fletcheri*). These organisms accelerate prey decomposition and increase [[ph-and-nutrient-availability-garden-soils]] to the plant.
 
 ## Ecology and Interactions
 
@@ -81,7 +81,7 @@ Fire plays a critical ecological role in maintaining open bog conditions. Withou
 
 Dormancy is essential for long-term health. Plants should be exposed to cool winter temperatures (2–10°C) for 3–4 months, during which phyllodia replace pitchers. Without a proper dormancy period, plants decline over successive growing seasons.
 
-The species is propagated by seed, rhizome division, and tissue culture. Stratification at 4°C for 4–6 weeks improves germination rates. Seed-grown plants typically produce mature traps within 3–4 years under optimal conditions.
+The species is propagated by seed, rhizome division, and [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]. Stratification at 4°C for 4–6 weeks improves germination rates. Seed-grown plants typically produce mature traps within 3–4 years under optimal conditions.
 
 ## Variants and Hybrids
 
@@ -108,7 +108,7 @@ Conservation efforts focus on prescribed burning, habitat restoration, and ex si
 - [[sarracenia-flava]]
 - [[drosera-rotundifolia]]
 - [[pinguicula-vulgaris]]
-- [[darlingtonia-californica]]
+- darlingtonia californica
 - [[dionaea-muscipula]]
 - [[aldrovanda-vesiculosa]]
 - [[nepenthes-rajah]]

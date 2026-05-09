@@ -45,7 +45,7 @@ ALD-52 differs from LSD solely by the presence of an acetyl group (COCH₃) at t
 
 ALD-52's legal status varies by jurisdiction:
 
-- **United States:** Unscheduled as a specific compound, but potentially prosecutable under the Federal Analog Act as an analog of LSD (Schedule I)
+- **[[dmt-containing-plants-united-states-halpern]]:** Unscheduled as a specific compound, but potentially prosecutable under the Federal Analog Act as an analog of LSD (Schedule I)
 - **United Kingdom:** Class A since January 2015
 - **Germany:** Controlled under NpSG since July 2019
 - **Switzerland:** Illegal since March 2018 (RS 812.121.11)
@@ -59,18 +59,34 @@ ALD-52's legal status varies by jurisdiction:
 
 ALD-52 carries the same risk profile as LSD once converted in vivo:
 
-- **Toxicity:** LSD has a very high therapeutic index (estimated human LD₅₀ >12,000 µg). Early animal studies found ALD-52 had only ~20% of LSD's toxicity in rabbits
+- **Toxicity:** LSD has a very high [[cannabis-therapeutic-index-overview]] (estimated human LD₅₀ >12,000 µg). Early animal studies found ALD-52 had only ~20% of LSD's toxicity in rabbits
 - **Psychological risks:** Anxiety, panic reactions, triggering of latent psychiatric conditions (especially schizophrenia-spectrum), and rare HPPD
 - **Vasoconstriction:** Chronic use may carry cardiovascular risk through 5-HT₂B agonism
-- **Drug interactions:** Dangerous with lithium (seizure risk), tramadol (serotonin syndrome), MAOIs
+- **[[cannabis-drug-interactions-and-contraindications]]:** Dangerous with lithium (seizure risk), tramadol (serotonin syndrome), MAOIs
+
+## Dosage and Effects
+
+ALD-52 is active at 50 to 175 micrograms orally with effects comparable
+to LSD. Onset occurs within 30 to 90 minutes, peaking at 2 to 4 hours
+with total duration of 8 to 12 hours. Subjective effects include visual
+hallucinations, altered cognition, time distortion, and emotional
+sensitivity. As a prodrug of LSD, its effects are pharmacologically
+identical once the acetyl group is cleaved in vivo.
 
 ## Synthesis
 
-The synthesis of ALD-52 involves acetylation of LSD (or a lysergic acid precursor) at the indole 1-position. As established in the Orange Sunshine trial, known routes proceed through LSD as an intermediate. The compound is hydrolytically sensitive and must be stored anhydrously to prevent conversion to LSD.
+The synthesis of ALD-52 involves acetylation of LSD (or a [[ergot-and-lysergic-acid-history]] precursor) at the indole 1-position. As established in the Orange Sunshine trial, known routes proceed through LSD as an intermediate. The compound is hydrolytically sensitive and must be stored anhydrously to prevent conversion to LSD.
 
 ## Wiki Relevance
 
-ALD-52 is a notable entity in psychedelic pharmacology as one of the earliest and most historically significant lysergamide derivatives. Its role in the Orange Sunshine legal case makes it a key reference point in drug policy history. As the progenitor of the 1-acyllysergamide prodrug class, it is directly relevant to understanding modern designer lysergamides like [[al-lad-entity-tihkal]], and [[lsd-entity-tihkal]] anchors it in the canonical literature of psychedelic chemistry.
+ALD-52 is a notable entity in psychedelic pharmacology as one of the earliest and most historically significant lysergamide derivatives. Its role in the Orange Sunshine legal case makes it a key reference point in [[mckenna-modest-proposal-drug-policy-reform]] history. As the progenitor of the 1-acyllysergamide prodrug class, it is directly relevant to understanding modern designer lysergamides like [[al-lad-entity-tihkal]], and [[lsd-entity-tihkal]] anchors it in the canonical literature of psychedelic chemistry.
+
+## Historical Significance
+
+ALD-52 occupies a unique place in drug policy history due to its central
+role in the 1969 Orange Sunshine trial, establishing important legal
+precedents regarding analog drugs. It later became the template for the
+1-acyllysergamide prodrug class that dominates the designer market.
 
 ## See Also
 

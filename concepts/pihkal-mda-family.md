@@ -27,7 +27,7 @@ occupies a unique position between classical psychedelics and empathogens.
 
 **Dosage:** 80-150 mg (oral)
 **Duration:** 8-12 hours
-**Shulgin Rating:** +++
+**[[tihkal-shulgin-rating-scale]]:** +++
 
 Shulgin described MDA as having more pronounced psychedelic character
 than MDMA, with stronger visual effects and more intense cognitive
@@ -35,7 +35,7 @@ experience. The emotional warmth is present but accompanied by greater
 perceptual alteration. MDA's amphetamine backbone produces more
 stimulation than MDMA, contributing to its longer duration. At higher
 doses, MDA can produce experiences indistinguishable from classical
-psychedelics, complete with ego dissolution.
+psychedelics, complete with [[psilocybin-ego-dissolution-mechanisms]].
 
 The distinction between MDA and MDMA became one of Shulgin's most
 important observations: the N-methyl group in MDMA dramatically shifts
@@ -65,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

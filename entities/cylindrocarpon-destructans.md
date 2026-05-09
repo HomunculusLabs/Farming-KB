@@ -13,12 +13,12 @@ sources:
 
 ## Overview
 
-cylindrocarpon destructans is a soil-borne fungal plant pathogen belonging to the phylum [[agar]] are typically white to pale buff, becoming darker with age.
+cylindrocarpon destructans is a soil-borne fungal plant pathogen belonging to the phylum agar are typically white to pale buff, becoming darker with age.
 - **Conidiophores:** Erect, simple or sparingly branched, bearing conidia at their tips.
 - **Macroconidia:** Cylindrical to slightly curved, predominantly three-septate (occasionally one to five septate), hyaline, and smooth-walled. They are typically 25 to 50 micrometers in length.
 - **Microconidia:** Ellipsoidal to cylindrical, one-celled or one-septate, produced in addition to macroconidia in some isolates.
 - **Chlamydospores:** Thick-walled, intercalary or terminal resting spores that allow the fungus to survive adverse conditions in soil.
-- **Teleomorph:** When produced, the sexual fruiting body (perithecium) is reddish-orange to crimson, subglobose, and contains cylindrical asci with ellipsoidal ascospores.
+- **Teleomorph:** When produced, the sexual [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] (perithecium) is reddish-orange to crimson, subglobose, and contains cylindrical asci with ellipsoidal ascospores.
 
 ## Ecology and Habitat
 
@@ -48,18 +48,18 @@ The fungus attacks a wide host range, making it a significant concern in both ag
 
 ### Nutrient Cycling
 
-As a soil inhabitant, cylindrocarpon destructans also participates in the decomposition of organic matter in soil, particularly woody root debris. Its cellulolytic and pectinolytic enzyme systems contribute to the breakdown of plant cell wall components, facilitating the release of nutrients from dead root material.
+As a soil inhabitant, cylindrocarpon destructans also participates in the decomposition of [[hamilton-composting-and-organic-matter-management]] in soil, particularly woody root debris. Its cellulolytic and pectinolytic enzyme systems contribute to the breakdown of plant cell wall components, facilitating the release of nutrients from dead root material.
 
 ## Interactions with Other Organisms
 
 ### Mycorrhizal Suppression of Disease
 
-One of the most significant ecological interactions involving cylindrocarpon destructans is the suppression of its pathogenic activity by arbuscular mycorrhizal (AM) fungi. As documented by Dighton (2003), Traquair (1995) demonstrated that inoculation of peach tree seedlings with the AM fungus [[dighton-arbuscular-mycorrhizal-plant-community-effects]] fungi can provide significant biocontrol benefits to their host plants beyond nutrient acquisition.
+One of the most significant [[king-stropharia-ecological-interactions-permaculture]] involving cylindrocarpon destructans is the suppression of its pathogenic activity by [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] (AM) fungi. As documented by Dighton (2003), Traquair (1995) demonstrated that inoculation of peach tree seedlings with the AM fungus dighton-arbuscular-mycorrhizal-plant-community-effects fungi can provide significant biocontrol benefits to their host plants beyond nutrient acquisition.
 
 ### Similar Interactions in Forest Systems
 
-Dighton (2003) also notes parallel findings in forest tree systems, where ectomycorrhizal fungi including [[hebeloma-crustuliniforme]], H. sinapizans, and [[root-exudates]] and initiate infection through wounds or natural openings in the root surface.
-- **Sexual reproduction:** The teleomorph (Neonectria radicicola) produces perithecia containing asci with ascospores. Sexual spores may contribute to genetic recombination and the generation of new pathogenic races.
+Dighton (2003) also notes parallel findings in forest tree systems, where [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] including [[hebeloma-crustuliniforme]], H. sinapizans, and [[root-exudates]] and initiate infection through wounds or natural openings in the root surface.
+- **[[fungal-life-cycles-sexual-reproduction-metamorphosis]]:** The teleomorph (Neonectria radicicola) produces perithecia containing asci with ascospores. Sexual spores may contribute to genetic recombination and the generation of new pathogenic races.
 - **Survival structures:** Chlamydospores allow long-term survival in soil, persisting for years in the absence of a susceptible host. The fungus also survives in infected root debris, which serves as an inoculum reservoir.
 
 Disease development is favored by soil temperatures between 15 and 20 degrees Celsius, waterlogged or poorly drained soils, and root wounds caused by transplanting, nematode feeding, or other mechanical damage.
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

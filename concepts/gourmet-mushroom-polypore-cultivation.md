@@ -5,11 +5,12 @@ updated: 2026-04-18
 type: concept
 tags: [cultivation, mycology]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Gourmet Mushroom Polypore Cultivation Overview
 
-Polypore mushrooms of the genera Ganoderma, Grifola, and Polyporus represent some of the most important [[stamets-cultivator-log-cultivation-shiitake-hericium]] and [[stamets-cultivator-log-cultivation-shiitake-hericium]]:
+[[growing-gourmet-polypore-mushrooms-cultivation-overview]] of the genera Ganoderma, Grifola, and Polyporus represent some of the most important [[stamets-cultivator-log-cultivation-shiitake-hericium]] and [[stamets-cultivator-log-cultivation-shiitake-hericium]]:
 - Inoculate hardwood logs with sawdust or plug spawn
 - Bury logs partially in sawdust or soil for moisture preservation
 - Fruitings extend over several years
@@ -19,16 +20,16 @@ Polypore mushrooms of the genera Ganoderma, Grifola, and Polyporus represent som
 
 - Inoculate stumps before the first season of wild mushrooms
 - Multiple species can share a single large stump (natural polyculture)
-- Best candidates: [[king-stropharia-wine-cap-cultivation]] on stumps can produce for 3-4 years
+- Best candidates: king-stropharia-wine-cap-cultivation on stumps can produce for 3-4 years
 
 ### 3. Indoor Cultivation on Supplemented Sawdust
 
 The most dependable and rapid production system:
-- Standard enriched sawdust blocks (see [[ganoderma-tsugae]]
-- Inonotus obliquus (Chaga)
+- Standard [[gourmet-mushroom-enriched-sawdust-cultivation]] blocks (see [[ganoderma-tsugae]]
+- [[chaga-inonotus-obliquus-medicinal-profile]] (Chaga)
 - Phellinus spp.
 - Piptoporus betulinus (Birch Polypore)
-- Trametes versicolor (Turkey Tail)
+- [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] (Turkey Tail)
 
 ## Polypore Medicinal Research Priorities
 
@@ -44,7 +45,7 @@ The hypothesis of dual-prong activity (immune stimulation plus direct toxicity t
 - Some people have allergic reactions to certain polypore species
 - People taking MAO inhibitor anti-depressants can have reactions to polypores containing tyramine
 - Chicken of the Woods (Laetiporus sulphureus) contains alkaloids similar to Kava and has been reported as psychoactive
-- Galerina autumnalis, a deadly poisonous mushroom, can grow alongside edible mushrooms on stumps. It resembles enoki-cultivation|Enoki and has caused fatalities
+- Galerina autumnalis, a deadly [[growing-gourmet-poisonous-mushroom-lookalikes]], can grow alongside edible mushrooms on stumps. It resembles enoki-cultivation|Enoki and has caused fatalities
 
 ## See Also
 
@@ -71,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,25 +1,27 @@
 ---
-title: Permaculture Zone and Sector Analysis
+title: Permaculture Zone and mollison-designers-sector-analysis-wind-sun-fire
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Permaculture Zone and Sector Analysis
 
 **Updated:** 2026-04-18
 
-Zone and sector analysis is a fundamental permaculture design tool for organizing elements in the landscape. Zones organize elements by frequency of human use; sectors map external energies (sun, wind, fire, water) that affect the site. Together they provide the spatial framework for all other design decisions.
+Zone and sector analysis is a fundamental [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] tool for organizing elements in the landscape. Zones organize elements by frequency of human use; sectors map external energies (sun, wind, fire, water) that affect the site. Together they provide the spatial framework for all other design decisions.
 
 ## Zone Analysis
 
 Zones are concentric rings of decreasing intensity of use, radiating outward from the center of activity (usually the house). They help place elements where they'll be most efficiently managed.
 
 ### Zone 0: The House
-The center of activity. Includes the home itself and immediate indoor living spaces. Design focus: energy efficiency, water conservation, indoor air quality, food storage, and integration with outdoor systems.
+The center of activity. Includes the home itself and immediate indoor living spaces. Design focus: [[fukuoka-textdoc-energy-efficiency-agricultural-labor]], water conservation, indoor [[cervantes-air-quality-ventilation]], food storage, and integration with outdoor systems.
 
-Elements: Kitchen, bedrooms, bathroom, living areas, root cellar, food storage, passive solar features, greywater source, rainwater catchment surface.
+Elements: Kitchen, bedrooms, bathroom, living areas, root cellar, food storage, [[comparison-passive-solar-vs-earth-sheltered]] features, greywater source, rainwater catchment surface.
 
 ### Zone 1: The Intensive Garden
 Visited daily. This is the most intensively managed area, placed immediately outside the kitchen door. Everything here needs frequent attention or harvesting.
@@ -38,7 +40,7 @@ Elements:
 Visited several times per week. Less intensive than Zone 1 but still actively managed. This is the main food production area.
 
 Elements:
-- Main vegetable garden
+- Main [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]
 - Orchard (dwarf and semi-dwarf fruit trees)
 - Berry patches
 - Larger composting area

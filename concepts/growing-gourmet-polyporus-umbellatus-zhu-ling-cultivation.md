@@ -1,5 +1,5 @@
 ---
-title: "Polyporus umbellatus (Zhu Ling): Umbrella Polypore Cultivation"
+title: "growing gourmet polyporus umbellatus zhu ling cultivation (Zhu Ling): Umbrella Polypore Cultivation"
 created: 2026-04-26
 tags:
   - mushroom-cultivation
@@ -17,7 +17,7 @@ type: concept
 # [[polyporus-umbellatus]]: Zhu Ling (Umbrella Polypore)
 
 Polyporus umbellatus is a fleshy polypore long prized in Chinese
-medicine, especially for the treatment of lung cancer. Of all the
+medicine, especially for the treatment of [[psk-breast-lung-cancer-clinical-trials]]. Of all the
 species in the Genus Polyporus, P. umbellatus is the most fragile
 and delicate. This mushroom forms an underground tuber-like
 structure called a sclerotium, which has figured prominently in
@@ -41,7 +41,7 @@ umbellatus (Pers.:Fr.) Julich.
 
 Macroscopically [Maitake
 (stamets-maitake-cultivation) appears to be a close relative, but biologically
-the two have uniquely different life cycles. The close appearance
+the two have uniquely different [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]. The close appearance
 of P. umbellatus and G. frondosa easily confuses amateur collectors.
 G. frondosa has smaller, non-cylindrical spores, lacks the
 sclerotial stage in its life cycle, and arises from a multiple
@@ -60,7 +60,7 @@ underside featuring circular to angular pores.
 ## Distribution and Habitat
 
 Infrequently occurring throughout deciduous woodlands of
-north-central and northeastern North America, in temperate
+north-central and northeastern [[psilocybin-north-america-pacific-northwest]], in temperate
 regions of China, and in Europe where it was first described.
 Reported from Montana and Washington states. Found on the
 ground, arising from dead roots or buried wood, on stumps, or
@@ -70,7 +70,7 @@ willows, and beeches.
 ## Mycelial Characteristics
 
 White, longitudinally linear, soon densely cottony, forming a
-thick, peelable mycelial mat on [[agar]], grain, and in sawdust
+thick, peelable mycelial mat on agar, grain, and in sawdust
 media. On sterilized sawdust, the mycelium forms outer layers
 of yellowish, gelatinous exudate as it ages. This mushroom
 causes a white rot. Fragrance signature: Musty, sour, slightly
@@ -99,7 +99,7 @@ fruitings comparable to other polypores like
 - Duration: 21-30 days to 2 years
 - CO2: >5000 ppm
 - Fresh Air Exchanges: 1-4
-- Light Requirements: n/a
+- [[growing-gourmet-light-requirements-mushroom-fruiting]]: n/a
 
 ### Sclerotia Formation
 - Incubation Temperature: 50-60 F (10-16 C)
@@ -134,7 +134,7 @@ fruitings comparable to other polypores like
 The roots of stumps are inoculated by digging trenches into root
 zones already parasitized by Honey Mushroom ([[armillaria-mellea-entity]]).
 Logs of beech, birch, willow, maples, and/or oaks are given
-multiple cuts into which sawdust spawn or slices of fresh sclerotia
+multiple cuts into which [[growing-gourmet-sawdust-spawn-production-use]] or slices of fresh sclerotia
 are packed. Logs are re-buried under sandy soil and covered with
 rich humus and deciduous leaves. After three years, new sclerotia
 can be harvested. Late spring is best for sclerotia harvest.
@@ -143,6 +143,7 @@ can be harvested. Late spring is best for sclerotia harvest.
 Limited success has been achieved using hardwood sawdust substrates
 rendered by other primary saprophytes. Expired Shiitake, Maitake,
 and Reishi blocks seem to work best. Recommended approach: grow
-sclerotia on recycled substrates in darkness, remove sclerotia
-when mature, and implant them in lignicolous soils to stimulate
-fruiting.
+## See Also
+- [[polyporus-umbellatus]]
+- [[grifola-umbellata]]
+- [[sclerotia-formation]]

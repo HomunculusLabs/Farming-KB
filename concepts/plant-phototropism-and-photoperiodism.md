@@ -30,9 +30,9 @@ resources while working within the constraints of the local climate.
 ## Seasonal Considerations
 
 Timing is critical in all plant-related activities. Understanding local
-frost dates, rainfall patterns, temperature ranges, and day length
+frost dates, rainfall patterns, temperature ranges, and [[coleman-winter-day-length-and-persephone-months]]
 variations helps ensure that actions are taken at the optimal moment.
-Seasonal planning also includes succession planting, cover cropping,
+Seasonal planning also includes [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]], [[fukuoka-clover-cover-cropping-soil-ecology]],
 and soil building activities that maintain productivity year-round.
 
 ## Integration with Other Systems
@@ -58,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,4 +100,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

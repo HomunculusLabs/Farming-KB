@@ -1,5 +1,5 @@
 ---
-title: Solomon Intensive vs Extensive Spacing
+title: Solomon solomon intensive vs extensive spacing Spacing
 created: 2026-04-18
 updated: 2026-04-18
 sources: Gardening When It Counts (Steve Solomon)
@@ -11,13 +11,13 @@ type: concept
 
 ## The Core Argument
 
-Steve Solomon's "Gardening When It Counts" makes a forceful argument against intensive gardening methods and for what he calls "extensive" spacing -- giving each vegetable much more room than most garden books recommend. This is not merely opinion; it is rooted in understanding plant root systems and soil moisture dynamics.
+Steve Solomon's "Gardening When It Counts" makes a forceful argument against [[solomon-wide-spacing-versus-intensive-gardening-debate]] methods and for what he calls "extensive" spacing -- giving each vegetable much more room than most garden books recommend. This is not merely opinion; it is rooted in understanding plant root systems and soil moisture dynamics.
 
 ## Why Intensive Gardening Fails Without Abundant Water
 
-Intensive gardening methods (French intensive, biointensive, square foot) place plants much closer together in massed plantings on raised beds. The idea is that yield becomes greater per square foot, and the crop canopy forms quickly, shading out weeds. But there are critical problems:
+Intensive gardening methods ([[coleman-british-adoption-of-french-intensive-gardening]], biointensive, square foot) place plants much closer together in massed plantings on raised beds. The idea is that yield becomes greater per square foot, and the crop canopy forms quickly, shading out weeds. But there are critical problems:
 
-1. High plant density sucks the soil dry so rapidly that the gardener must water almost daily during the growing season
+1. High plant density sucks the soil dry so rapidly that the gardener must water almost daily during the [[savory-growing-season-and-non-growing-season-management]]
 2. The gardener must make the soil super-fertile to support this intense growing activity
 3. With postage-stamp-sized gardens and looser soil (double-dug to 60 cm), roots can go down instead of out, but only if soil moisture is constantly available
 4. Once ultra-crowded plants have formed a crop canopy, moisture loss accelerates during sunny weather -- to prevent moisture stress you must apply half an inch (1.25 cm) every few days. Sandy intensive beds may need irrigation every single day
@@ -74,7 +74,7 @@ Species that produce an ongoing harvest (tomatoes, peppers, cucumbers, squash, b
 ## Specific Examples
 
 ### Corn
-Where soil moisture is not a problem, each corn plant should exclusively control at least 24 square feet. Eighteen inches on center works. Where water is short, increase to 9 inches apart in rows 48 inches apart. In severe drought conditions, use 16 square feet per plant (4-foot centers) in hills, putting four seeds per hill -- Native American style. Corn should be grown in patches at least two rows wide because it is wind-pollinated with heavy pollen; single long rows will have partly filled ears.
+Where soil moisture is not a problem, each corn plant should exclusively control at least 24 square feet. Eighteen inches on center works. Where water is short, increase to 9 inches apart in rows 48 inches apart. In severe drought conditions, use 16 square feet per plant (4-foot centers) in hills, putting four seeds per hill -- [[halpern-sacramental-peyote-and-native-american-church]] style. Corn should be grown in patches at least two rows wide because it is wind-pollinated with heavy pollen; single long rows will have partly filled ears.
 
 ### Beets
 Given proper nutrition and wide spacing, beetroot will not have the throat-rasping sensation many associate with raw beets. Solomon grew delicious beets spaced one foot apart in rows four feet apart. After five entirely rainless months, each root was the size of a volleyball and still delicious.
@@ -84,7 +84,7 @@ Indeterminate tomatoes given 48x48 to 60x72 inch spacing will produce far longer
 
 ## The Bottom Line
 
-The supposed yield-per-square-foot advantage of intensive gardening is largely theoretical and requires constant irrigation and super-fertility. The yield per unit of water applied is actually worse with intensive methods. A wider-spaced garden that can go weeks between waterings is more practical, more productive per unit of effort, and more resilient.
+The supposed yield-per-square-foot advantage of intensive gardening is largely theoretical and requires constant irrigation and super-fertility. The yield per unit of water applied is actually worse with [[row-gardening-vs-intensive-methods-solomon]]. A wider-spaced garden that can go weeks between waterings is more practical, more productive per unit of effort, and more resilient.
 
 ## Related
 

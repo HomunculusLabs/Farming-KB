@@ -4,12 +4,13 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [safety, homesteading, climate, environment, plants]
-sources: []
+sources:
+  sources: []
 ---
 
 # Wildfire Preparedness Guide
 
-Wildfires are an escalating threat across North America, driven by decades of fire suppression, climate change, and expanding wildland-urban interface. Homesteads in fire-prone regions face catastrophic risk, but advance preparation dramatically improves survival odds and property protection. This guide covers defensible space, structure hardening, evacuation planning, and recovery.
+Wildfires are an escalating threat across [[psilocybin-north-america-pacific-northwest]], driven by decades of fire suppression, [[dighton-fungi-climate-change-feedback]], and expanding wildland-urban interface. Homesteads in fire-prone regions face catastrophic risk, but advance preparation dramatically improves survival odds and property protection. This guide covers defensible space, structure hardening, evacuation planning, and recovery.
 
 ## Understanding Wildfire Risk
 
@@ -26,7 +27,7 @@ Assess your risk using:
 - Vegetation type and density on and around your property
 - Slope — fire moves faster uphill (steeper = faster)
 - Prevailing wind patterns during fire season
-- Building materials and construction of your home and outbuildings
+- [[natural-building-materials-guide]] and construction of your home and outbuildings
 
 ## Defensible Space
 
@@ -50,7 +51,7 @@ This is the most critical zone. Embers accumulate here and directly threaten the
 
 - Create fuel breaks with hardscape (driveways, pathways, patios)
 - Space trees with crowns at least 10 feet apart
-- Remove dead wood, low branches, and ladder fuels (vegetation that allows fire to climb from ground into tree canopies)
+- Remove [[fungal-dead-wood-diversity]], low branches, and ladder fuels (vegetation that allows fire to climb from ground into tree canopies)
 - Mow grass to 4 inches maximum
 - Remove all dead plants, leaves, and pine needles
 - Space shrubs at least 2 times their mature height apart
@@ -64,7 +65,7 @@ This is the most critical zone. Embers accumulate here and directly threaten the
 - Thin trees to create spacing that prevents continuous canopy fire
 - Mow grass to 6 inches maximum
 - Remove ladder fuels
-- Create fire breaks (roads, driveways, bare ground) if possible
+- Create fire breaks (roads, driveways, [[savory-bare-ground-and-soil-exposure]]) if possible
 - Consider grazing animals for vegetation management
 
 ## Structure Hardening
@@ -139,31 +140,9 @@ Keep a packed bag for each family member and pet at all times during fire season
 - If you cannot evacuate livestock: open gates to allow them to flee, remove halters, mark animals with phone number (livestock crayon or spray paint)
 - Photograph all animals and property before fire season for insurance documentation
 
-## Insurance and Documentation
-
-- Review your homeowner's insurance annually for adequate wildfire coverage
-- Document everything: photograph all structures, contents, livestock, equipment, and infrastructure
-- Store documentation in three places: physical copy in go bag, cloud storage, and off-site physical location
-- Understand your policy's coverage for: structure, contents, additional living expenses, debris removal, and livestock
-- Keep insurance agent contact information readily available
-- Inventory all major purchases and improvements as they are made
-
-## Recovery After Wildfire
-
-- Do not return until fire authorities declare it safe
-- Check for structural damage before entering buildings
-- Test water sources — wells may be contaminated by fire retardant, ash, and debris
-- Document all damage immediately with photos and video for insurance claims
-- Contact your insurance company within 24-48 hours
-- Assess livestock injuries and separate from healthy animals
-- Remove ash and debris wearing N95 respirator, goggles, and gloves
-- Test soil for contamination if ash covered food-producing areas
-- Apply for FEMA assistance if the area receives a federal disaster declaration
-- Be aware of post-fire flooding and debris flow risk on burned slopes
-
 ## Related Concepts
 
-- [[mushroom-foraging-safety-guide]] — General safety principles and risk management
+- [[mushroom-foraging-safety-guide]] — General [[shulgin-safety-principles-self-experimentation]] and risk management
 - [[homestead-first-aid-guide]] — First aid supplies for fire-related injuries
 - [[homestead-communication]] — Emergency communication during wildfire events
 - [[emergency-preparedness]] — Multi-hazard preparedness for earthquake zones

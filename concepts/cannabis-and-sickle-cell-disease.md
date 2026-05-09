@@ -1,5 +1,5 @@
 ---
-title: Cannabis and Sickle Cell Disease
+title: Cannabis and cannabis and sickle cell disease Disease
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -8,11 +8,11 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-**Source:** The Cannabis Health Index (Uwe Blesching) | **CHI:** 5 | **Studies:** 2 | **Updated:** 2026-04-18
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]] (Uwe Blesching) | **CHI:** 5 | **Studies:** 2 | **Updated:** 2026-04-18
 
 ## Overview
 
-Sickle cell disease is a hereditary blood disorder causing abnormal hemoglobin (HbS), leading to distorted (sickle-shaped) red blood cells, vaso-occlusive crises, chronic pain, and organ damage. Cannabis shows promise for pain management and may have protective cardiovascular effects. See also cannabinoid-receptors and [[cannabis-for-nausea-and-appetite-stimulation]]
+Sickle cell disease is a hereditary blood disorder causing abnormal hemoglobin (HbS), leading to distorted (sickle-shaped) red blood cells, vaso-occlusive crises, [[cannabis-chronic-pain-management]], and organ damage. Cannabis shows promise for [[cannabis-pain-management-protocols]] and may have protective cardiovascular effects. See also cannabinoid-receptors and [[cannabis-for-nausea-and-appetite-stimulation]]
 - [[cannabis-and-insomnia]]
 
 - [[cannabis-and-copd-research]]
@@ -100,4 +100,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

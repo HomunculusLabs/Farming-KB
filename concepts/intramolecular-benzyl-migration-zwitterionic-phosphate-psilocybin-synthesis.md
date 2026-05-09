@@ -1,17 +1,17 @@
 ---
-title: "Intramolecular Benzyl Migration to Zwitterionic Phosphate in Psilocybin Synthesis"
+title: "Intramolecular Benzyl Migration to hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin in psilocybin-synthesis"
 created: 2026-05-08
 tags: [psilocybin, organic-chemistry, phosphorylation, zwitterion, benzyl-migration, NMR, shirota-synthesis, tryptamine-chemistry]
 date: 2026-05-08
 source: "Shirota, Hakamata & Goda (2003) — J. Nat. Prod. 66, 885–887"
-aliases: [zwitterionic dibenzyl phosphate, benzyl group migration psilocybin]
+aliases: [zwitterionic [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]], benzyl group migration psilocybin]
 ---
 
 # Intramolecular Benzyl Migration to Zwitterionic Phosphate in Psilocybin Synthesis
 
 ## Overview
 
-During the phosphorylation of psilocin using tetrabenzylpyrophosphate and n-BuLi (Shirota route, 2003), an unexpected intramolecular rearrangement converts the expected O,O-dibenzyl phosphate derivative into a zwitterionic N,O-dibenzyl phosphate. This migration was discovered when the crude product failed to dissolve in dichloromethane, and a new spot appeared at the origin on TLC. The zwitterionic nature of the rearranged product proved to be the key to scalable, chromatography-free psilocybin synthesis, raising isolated yields from psilocin from 20–47% to greater than 72%.
+During the phosphorylation of [[psilocin]] using tetrabenzylpyrophosphate and n-BuLi (Shirota route, 2003), an unexpected intramolecular rearrangement converts the expected O,O-dibenzyl phosphate derivative into a zwitterionic N,O-dibenzyl phosphate. This migration was discovered when the crude product failed to dissolve in dichloromethane, and a new spot appeared at the origin on TLC. The zwitterionic nature of the rearranged product proved to be the key to scalable, chromatography-free psilocybin synthesis, raising isolated yields from psilocin from 20–47% to greater than 72%.
 
 ## Context: The Phosphorylation Step
 
@@ -47,7 +47,7 @@ The downfield shifts of the methylene, N,N-dimethyl, and ethylene bridge protons
 
 The ¹³C NMR spectrum confirmed two distinct benzyl environments. Key observations included:
 
-- **C-4 of indole:** Appeared as a doublet due to phosphorus coupling (split signal at δ_C 147.7), consistent with direct attachment of the phosphate group to the 4-oxygen.
+- **C-4 of [[indole]]:** Appeared as a doublet due to phosphorus coupling (split signal at δ_C 147.7), consistent with direct attachment of the phosphate group to the 4-oxygen.
 - **N-benzyl ipso carbon:** δ_C 139.3 (Cs/OCH₂C₆H₅) for the O-benzyl, with a separate ipso carbon for the N-benzyl group at the quaternary ammonium.
 - **Quaternary ammonium carbons:** The N-methyl carbons appeared at δ_C ~45–50 ppm, consistent with attachment to a positively charged nitrogen.
 
@@ -83,7 +83,7 @@ The conversion can be achieved simply by suspending the worked-up reaction mixtu
 
 The zwitterionic nature of compound 8 was the critical breakthrough that made gram-scale psilocybin synthesis practical without chromatographic purification. Because 8 is insoluble in CH₂Cl₂ while excess dibenzyl phosphate remains soluble, simple filtration followed by CH₂Cl₂ washing provides the pure intermediate in over 85% yield. This eliminates the need for preparative HPLC, column chromatography, or anion-exchange resin purification.
 
-The subsequent catalytic hydrogenolysis of 8 (H₂, Pd/C, MeOH) cleaves both benzyl groups simultaneously — the O-benzyl to reveal the free phosphate and the N-benzyl to regenerate the tertiary amine — affording psilocybin (2) as a white needle crystalline powder in 87.5% yield from 8. The overall isolated yield from psilocin exceeds 72%, even at gram scale.
+The subsequent [[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]] of 8 (H₂, Pd/C, MeOH) cleaves both benzyl groups simultaneously — the O-benzyl to reveal the free phosphate and the N-benzyl to regenerate the tertiary amine — affording psilocybin (2) as a white needle crystalline powder in 87.5% yield from 8. The overall isolated yield from psilocin exceeds 72%, even at gram scale.
 
 ## Experimental Procedure for the Migration and Isolation
 
@@ -100,13 +100,15 @@ The spectroscopic data for compound 8 are as follows: ¹H NMR (CD₃OD, 400 MHz)
 
 ## Subsequent Hydrogenolysis to Psilocybin
 
-Catalytic hydrogenolysis of the zwitterionic intermediate 8 (H₂, Pd/C, MeOH, room temperature) simultaneously removes both benzyl protecting groups. The O-benzyl group is cleaved to reveal the free phosphate acid (OPO₃H₂), while the N-benzyl group is cleaved to regenerate the tertiary dimethylamino group. After filtration through Celite and concentration, psilocybin (2) crystallises as white needles: 5.6 g, 87.5% yield from 8. The product matches literature values: mp 190–198 °C (lit. 185–195 °C, 210–212 °C); UV (MeOH) λ_max 221.0, 267.5, 278.5, 290.0 nm.
+Catalytic hydrogenolysis of the [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] 8 (H₂, Pd/C, MeOH, room temperature) simultaneously removes both benzyl protecting groups. The O-benzyl group is cleaved to reveal the free phosphate acid (OPO₃H₂), while the N-benzyl group is cleaved to regenerate the tertiary dimethylamino group. After filtration through Celite and concentration, psilocybin (2) crystallises as white needles: 5.6 g, 87.5% yield from 8. The product matches literature values: mp 190–198 °C (lit. 185–195 °C, 210–212 °C); UV (MeOH) λ_max 221.0, 267.5, 278.5, 290.0 nm.
 
 ## Significance for Analytical Chemistry
 
-Beyond its synthetic utility, this discovery has implications for the analytical detection of psilocybin and its derivatives. The identification of "magic mushrooms" using morphologic and microscopic analyses is difficult without experts, so chromatographic methods including TLC, GC, and HPLC are usually employed. The Shirota synthesis provides reliable access to gram quantities of pure psilocin and psilocybin for use as analytical standards. Since June 6, 2002, fungi containing psilocin and psilocybin have been regulated by the Narcotics and Psychotropic Control Law in Japan, making standard compounds essential for forensic and regulatory testing. The chromatography-free nature of this synthesis makes it accessible to forensic laboratories without specialised purification equipment.
+Beyond its synthetic utility, this discovery has implications for the analytical detection of psilocybin and its derivatives. The identification of "magic mushrooms" using morphologic and microscopic analyses is difficult without experts, so chromatographic methods including TLC, GC, and HPLC are usually employed. The Shirota synthesis provides reliable access to gram quantities of pure [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] for use as analytical standards. Since June 6, 2002, fungi containing psilocin and psilocybin have been regulated by the Narcotics and Psychotropic Control Law in Japan, making [[shirota-forensic-standard-compounds-magic-mushroom-identification]] essential for forensic and regulatory testing. The chromatography-free nature of this synthesis makes it accessible to forensic laboratories without specialised purification equipment.
 
-## Related Concepts
+## Related
+
+- [[shirota-zwitterion-discovery-intramolecular-benzyl-migration-phosphorylation]] Concepts
 
 - [[shirota-psilocin-psilocybin-synthesis]] — Complete six-step synthetic pathway overview
 - [[4-hydroxyindole-tryptamine-synthesis-building-block]] — Starting material chemistry and protection

@@ -1,5 +1,5 @@
 ---
-title: What Is Trap Cropping and How Does It Work?
+title: What Is comparison-trap-cropping-vs-beneficial-insects and How Does It Work?
 created: 2026-04-28
 tags:
   - trap-cropping
@@ -9,11 +9,12 @@ tags:
   - organic-gardening
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 # What Is Trap Cropping and How Does It Work?
-Trap cropping is a targeted pest management strategy in which specific
+Trap cropping is a targeted [[cannabis-pest-management-guide]] strategy in which specific
 plants are deliberately grown to lure insect pests away from the main
 cash or food crops. These sacrificial decoy plants concentrate pest
 populations in a defined area where they can be monitored, managed, or
@@ -24,7 +25,7 @@ management more efficient, more affordable, and more environmentally
 responsible. The technique pairs naturally with broader
 [[insectary-plants-guide]] and [[beneficial-insects-guide]] for detailed profiles
   and release protocols.
-- **Microbial controls**: Entomopathogenic fungi such as
+- **Microbial controls**: [[singh-entomopathogenic-fungi-biocontrol-agents]] such as
   [[integrated-pest-management]]
 frameworks as both a cultural and mechanical control method. Within an
 IPM program, trap crops serve several important functions:
@@ -43,7 +44,7 @@ recommendations, is documented on the [[trap-cropping]] reference page.
 - Trap cropping uses sacrificial plants to divert pests away from main
   crops, concentrating them in manageable zones.
 - The push-pull strategy combines repellent intercrops with attractive
-  perimeter trap plants for maximum directional pest control.
+  perimeter trap plants for maximum directional [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]].
 - Proven pairings include nasturtiums for aphids, marigolds for
   nematodes, blue Hubbard squash for squash bugs, and radishes for flea
   beetles.
@@ -69,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

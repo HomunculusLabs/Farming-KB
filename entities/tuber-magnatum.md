@@ -46,7 +46,7 @@ These compounds are responsible for the characteristic garlicky, cheesy, and dee
 
 ## Morphology
 
-The fruiting body (ascocarp) of T. magnatum is subglobose to irregular in shape, typically 2–12 cm in diameter, though specimens exceeding 1 kg have been recorded. The peridium (outer skin) is smooth to slightly verrucose, pale ochre to yellowish-tan, sometimes with greenish or brownish tones depending on soil contact and maturity.
+The [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] (ascocarp) of T. magnatum is subglobose to irregular in shape, typically 2–12 cm in diameter, though specimens exceeding 1 kg have been recorded. The peridium (outer skin) is smooth to slightly verrucose, pale ochre to yellowish-tan, sometimes with greenish or brownish tones depending on soil contact and maturity.
 
 The gleba (inner flesh) is firm when fresh, marbled with numerous whitish veins running through a pale cream to light brown matrix.
 
@@ -87,7 +87,7 @@ T. magnatum forms ectomycorrhizae with multiple host genera, a trait that distin
 - **Quercus pubescens** (Downy oak)
 - **Quercus cerris** (Turkey oak)
 - **Corylus avellana** (Hazel)
-- **Populus nigra** (Black poplar)
+- **Populus nigra** ([[growing-gourmet-black-poplar-agrocybe-cultivation]])
 - **Populus alba** (White poplar)
 - **Salix** spp. (Willows)
 - **Tilia** spp. (Linden)
@@ -123,14 +123,13 @@ Key market facts:
 
 ## Cultivation Attempts
 
-Unlike T. melanosporum, T. magnatum has resisted reliable cultivation. Inoculated plantations have been established across Europe, Australia, New Zealand, and North America, but fruiting remains sporadic and unpredictable. Key challenges include:
+Unlike T. melanosporum, T. magnatum has resisted reliable cultivation. Inoculated plantations have been established across Europe, Australia, New Zealand, and [[psilocybin-north-america-pacific-northwest]], but fruiting remains sporadic and unpredictable. Key challenges include:
 
-- Mycorrhizal colonization is easily outcompeted by indigenous fungi
-- Soil microbial community requirements are not fully understood
+- [[arbuscular-mycorrhizal-colonization-patterns]] is easily outcompeted by indigenous fungi
+- Soil [[edaphic-factors-microbial-community-structure]] requirements are not fully understood
 - Fruiting triggers are unknown — environmental cues beyond moisture remain elusive
 - Genetic diversity of planted inoculum may be insufficient
 - Some plantations produce mycorrhizae for decades without fruiting
-
 ## Related Species
 
 - **Tuber melanosporum** — Périgord black truffle; cultivated commercially, darker gleba
@@ -143,4 +142,7 @@ Unlike T. melanosporum, T. magnatum has resisted reliable cultivation. Inoculate
 
 - [[cantharellus-cibarius-entity]]
 - [[morchella-esculenta]]
-- [[hazelnut-corylus-spp]]
+- hazelnut-corylus-spp
+- [[populus-nigra]]
+- [[tuber-borchii]]
+- [[ectomycorrhiza]]

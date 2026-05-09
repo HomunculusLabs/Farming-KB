@@ -73,7 +73,7 @@ Flesh is thin, white, with a mild to slightly farinaceous odor and a mild taste,
 
 ## Distribution and Habitat
 
-Cystoderma amianthinum has a broad circumboreal distribution across Europe, North America, and parts of northern Asia.
+Cystoderma amianthinum has a broad circumboreal distribution across Europe, [[psilocybin-north-america-pacific-northwest]], and parts of northern Asia.
 
 In Europe it is found from Scandinavia to the Mediterranean, though it is more common in northern and central regions.
 
@@ -97,9 +97,9 @@ Given the taxonomic complexity and small stature, most experienced foragers simp
 
 ## Chemistry
 
-Chemical analysis of Cystoderma species has revealed the presence of several bioactive secondary metabolites.
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of Cystoderma species has revealed the presence of several bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]].
 
-C. amianthinum contains small amounts of sterols and fatty acids typical of Agaricaceae, including ergosterol and its derivatives.
+C. amianthinum contains small amounts of sterols and [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] typical of Agaricaceae, including ergosterol and its derivatives.
 
 Some Cystoderma species produce toxic peptides and alkaloids, though these have not been conclusively identified in C. amianthinum.
 
@@ -107,11 +107,11 @@ The genus is poorly studied biochemically compared to more commercially signific
 
 ## Ecology
 
-Cystoderma amianthinum contributes to decomposition of coniferous litter in forest ecosystems, breaking down complex organic compounds.
+Cystoderma amianthinum contributes to decomposition of coniferous litter in forest ecosystems, breaking down complex [[fungal-volatile-organic-compounds-communication]].
 
 Its fruiting bodies provide a minor food source for invertebrates, including collembola and various fungivorous beetles.
 
-The persistent annulus and granular cap surface may serve as adaptations to spore dispersal in the often-windy forest floor microenvironment.
+The persistent annulus and granular cap surface may serve as adaptations to [[aquatic-fungi-spore-dispersal-ingold]] in the often-windy forest floor microenvironment.
 
 ## Similar Species
 

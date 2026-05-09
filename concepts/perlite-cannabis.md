@@ -3,7 +3,7 @@ title: Perlite for Cannabis
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -11,7 +11,7 @@ tags: [cannabis]
 
 # Perlite for Cannabis
 
-Perlite is a versatile and widely used Cannabis Growing Mediums and soil amendment for cannabis cultivation. It is made from sand or volcanic glass that has been expanded by heat, resulting in a lightweight, porous material with excellent drainage and aeration properties.
+Perlite is a versatile and widely used [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]] Mediums and soil amendment for [[query-how-does-no-till-cannabis-cultivation-work]]. It is made from sand or volcanic glass that has been expanded by heat, resulting in a lightweight, porous material with excellent drainage and aeration properties.
 
 ## What is Perlite
 
@@ -31,7 +31,7 @@ Perlite is a naturally occurring siliceous volcanic rock that, when heated to ap
 ## Grades of Perlite
 
 Perlite is available in three main grades:
-- **Fine**: Small particles suitable for seed starting and fine potting mixes.
+- **Fine**: Small particles suitable for [[comparison-cannabis-cloning-vs-seed-starting-indoors]] and fine potting mixes.
 - **Medium**: General-purpose grade for most container growing applications.
 - **Coarse**: Larger particles preferred by most growers as a soil amendment for improved drainage and aeration.
 
@@ -55,7 +55,7 @@ Common soil and soilless mix ratios incorporating perlite:
 - Peat moss + perlite (a classic all-time favorite growing medium combination)
 - Soilless mix + 10 percent perlite for improved drainage
 - Coco coir + 50 percent perlite for extra drainage
-- Compost + soilless mix + 16 percent perlite (as part of a complete organic mix)
+- Compost + soilless mix + 16 percent perlite (as part of a [[solomon-complete-organic-fertilizer-guide]] mix)
 
 ## Perlite in Hydroponic Systems
 
@@ -104,11 +104,11 @@ Both have zero CEC, but [[coco-coir-cannabis]] retains much more water than perl
 - **Dust**: Dry perlite creates airborne dust. Always pre-moisten before mixing.
 - **Stratification**: Over time, perlite can separate from heavier components in a mix, creating distinct layers. Mix thoroughly before each use.
 - **Wind displacement**: Very light particles can be blown away in outdoor settings. Top-dress with a heavier material if needed.
-- **Salt accumulation**: While perlite itself does not accumulate salts, salt crusts can form on particle surfaces in poorly managed systems.
+- **[[jadam-salt-accumulation-in-soil]]**: While perlite itself does not accumulate salts, salt crusts can form on particle surfaces in poorly managed systems.
 
 ## Environmental Considerations
 
-Perlite is a naturally occurring volcanic material that is mined and processed with relatively low environmental impact. It is not biodegradable but is chemically inert and does not leach harmful substances. Perlite can be reused multiple times in container gardening. For disposal, spent perlite can be incorporated into garden soil as a permanent soil amendment to improve drainage and aeration.
+Perlite is a naturally occurring volcanic material that is mined and processed with relatively low environmental impact. It is not biodegradable but is chemically inert and does not leach harmful substances. Perlite can be reused multiple times in [[comparison-cold-frame-gardening-vs-container-gardening-guide]]. For disposal, spent perlite can be incorporated into garden soil as a permanent soil amendment to improve drainage and aeration.
 
 ## See Also
 

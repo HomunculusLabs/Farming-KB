@@ -5,7 +5,8 @@ tags: [cannabis, pH, soil-science, hydroponics, nutrients]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -14,7 +15,7 @@ type: concept
 The pH scale (1 to 14) measures acid-to-alkaline balance, where 1 is the most
 acidic, 7 is neutral, and 14 is the most alkaline. Jorge Cervantes
 emphasizes that accurate pH measurement and control are essential to a
-strong, healthy cannabis garden because pH directly governs nutrient
+strong, [[query-how-to-manage-ph-for-healthy-cannabis-plants]] garden because pH directly governs nutrient
 availability.
 
 ## The Importance of pH
@@ -31,14 +32,14 @@ deviations can significantly affect how well plants absorb nutrients.
 
 - **Soil cultivation**: pH 6.5 to 7.0 for optimal nutrient absorption
 - **Hydroponic systems**: pH 5.8 to 6.8; some growers run lower and report
-  no problems with nutrient uptake
+  no problems with [[plant-nutrient-uptake-mechanisms]]
 - **Organic soil mixes**: pH is particularly important because it governs the
   activity of pH-sensitive beneficial bacteria
 
-When pH drifts outside the optimal range, nutrient availability is severely
+When pH drifts outside the optimal range, [[ph-and-nutrient-availability-garden-soils]] is severely
 compromised. If pH is too low (acidic), acid salts chemically bind nutrients
 and roots cannot absorb them. If pH is too high (alkaline), nutrients become
-unavailable and toxic salt buildup can limit water intake by roots.
+unavailable and toxic [[cervantes-salt-buildup-leaching-management]] can limit water intake by roots.
 
 ## pH Testing Methods
 
@@ -85,8 +86,8 @@ Check water pH at least once a week:
 
 ## pH Problems and Solutions
 
-- **Acidic soil (below 6.0)**: Add dolomite lime or wood ash to raise pH
-- **Alkaline soil (above 7.5)**: Add sulfur, peat moss, or organic matter to
+- **Acidic soil (below 6.0)**: Add [[cervantes-dolomite-lime-ph-buffering]] or wood ash to raise pH
+- **Alkaline soil (above 7.5)**: Add sulfur, peat moss, or [[hamilton-composting-and-organic-matter-management]] to
   lower pH
 - **Fluctuating pH**: Ensure adequate drainage; stagnant water causes pH
   swings
@@ -99,3 +100,7 @@ preventive dolomite lime application is so important.
 
 See also: [[green-cannabis-grow-bible-sog-scrog-advanced-methods]],
 [[cervantes-growing-medium]], [[cervantes-macronutrient-deficiency-toxicity]]
+
+## See Also
+
+- [[cervantes-progeny-testing-combining-ability]]

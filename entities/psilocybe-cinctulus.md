@@ -12,7 +12,7 @@ updated: 2026-04-28
 sources:
   - Guzmán G, Allen JW, Gartz J (1998). "A worldwide geographical distribution of the neurotropic fungi." Bibliotheca Mycologica, 173.
   - Gerhardt J (1996). "Taxonomische Revision von Psilocybe s. lato." Dissertation, ETH Zürich.
-  - Allen JW, Merlin MD, Jansen RK (1992). "An ethnomycological review of hallucinogenic mushrooms in Australia and New Zealand." Journal of Psychoactive Drugs, 24(1), 73-80.
+  - Allen JW, Merlin MD, Jansen RK (1992). "An ethnomycological review of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] in Australia and New Zealand." Journal of Psychoactive Drugs, 24(1), 73-80.
   - Stijve T, Kuyper TW (1988). "Absorption of psilocybin from Psilocybe mushrooms." Planta Medica, 54(3), 271-274.
   - Gartz J (1994). "Extracting psilocybin from hallucinogenic mushrooms." Journal of Psychoactive Drugs, 26(1), 73-74.
 created: 2026-04-28
@@ -20,7 +20,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Psilocybe cinctulus** is a small, coprinoid psilocybin-containing mushroom in the family Hymenogastraceae. It is one of the most widely distributed psilocybin mushrooms globally, found across Europe, North America, South America, Asia, and Australasia.
+**Psilocybe cinctulus** is a small, coprinoid psilocybin-containing mushroom in the family Hymenogastraceae. It is one of the most widely distributed [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] globally, found across Europe, North America, South America, Asia, and Australasia.
 
 The species was originally described as *Agaricus cinctulus* by Elias Magnus Fries in 1838. It has undergone extensive taxonomic revision, previously placed in genera including *Deconica*, *Copelandia*, and *Panaeolus* before its current placement in *Psilocybe* sensu stricto.
 
@@ -73,11 +73,11 @@ Interest in *P. cinctulus* cultivation has increased among amateur mycologists s
 
 ## Similar Species
 
-*Psilocybe cinctulus* can be confused with several non-psychoactive coprinoid mushrooms in grassland habitats, particularly *Panaeolina foenisecii* (the mower's mushroom) which has darker, more evenly colored gills and lacks a ring zone on the stipe.
+*Psilocybe cinctulus* can be confused with several non-psychoactive coprinoid mushrooms in grassland habitats, particularly *[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]* (the mower's mushroom) which has darker, more evenly colored gills and lacks a ring zone on the stipe.
 
-*Panaeolus subbalteatus* is also grassland-dwelling and shares the mottled gill pattern, but it grows larger and lacks the distinctive hygrophanous color change. *Psilocybe merdaria* is dung-associated and has a different spore morphology.
+*[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]* is also grassland-dwelling and shares the mottled gill pattern, but it grows larger and lacks the distinctive hygrophanous color change. *Psilocybe merdaria* is dung-associated and has a different spore morphology.
 
-Microscopic examination is the most reliable method for confirmation. The combination of a germ-pored, ellipsoid spore and the presence of both cheilocystidia and pleurocystidia distinguishes *P. cinctulus* from most lookalikes.
+[[fungal-microscopic-examination-mounting-media-techniques]] is the most reliable method for confirmation. The combination of a germ-pored, ellipsoid spore and the presence of both cheilocystidia and pleurocystidia distinguishes *P. cinctulus* from most lookalikes.
 
 ## Ecological Role
 
@@ -89,7 +89,7 @@ The species appears to benefit from regular mowing and irrigation, which maintai
 
 ## Ethnobotanical History
 
-While *P. cinctulus* lacks the ceremonial significance of species like *Psilocybe mexicana* or *P. semilanceata*, it has been used recreationally and incidentally across its range. In Australia, Allen and Merlin documented Aboriginal knowledge of psychoactive mushrooms in grasslands, with *P. cinctulus* likely among the species involved.
+While *P. cinctulus* lacks the ceremonial significance of species like *[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]* or *P. semilanceata*, it has been used recreationally and incidentally across its range. In Australia, Allen and Merlin documented Aboriginal knowledge of psychoactive mushrooms in grasslands, with *P. cinctulus* likely among the species involved.
 
 In Europe and North America, the species has been widely known among amateur mycologists since the 1970s. Its abundance in suburban lawns has led to frequent accidental encounters and deliberate foraging. The modest potency means it is rarely targeted specifically, but it is commonly included in regional mushroom guides covering psychoactive species.
 

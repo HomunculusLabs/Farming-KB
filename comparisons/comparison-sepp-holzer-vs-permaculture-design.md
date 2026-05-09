@@ -1,5 +1,5 @@
 ---
-title: "Sepp Holzer vs Permaculture Design"
+title: "Sepp Holzer vs bill-mollison-permaculture-a-designers-manual-permaculture-design-principles"
 created: 2026-04-28
 tags:
   - permaculture
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 type: comparison
 ---
@@ -23,7 +24,7 @@ design provides a systematic framework applicable anywhere in the world.
 |--------|-------------------|---------------------|
 | Nature | Empirical and observational | Systematic and analytical |
 | Origin | Single farm in Austrian Alps | Global design movement |
-| Core tool | Direct nature observation | Zone and sector analysis |
+| Core tool | Direct nature observation | Zone and [[mollison-designers-sector-analysis-wind-sun-fire]] |
 | Approach | Practical, site-specific | Abstract, transferable |
 | Scale | Proven at 45+ hectares | Scales from balcony to farm |
 ## The Sepp Holzer Method
@@ -36,16 +37,16 @@ year-round without chemical inputs or irrigation.
   imposing human designs on the landscape.
 - **Zero chemicals**: Complete rejection of synthetic fertilizers, pesticides, and herbicides. Fertility comes from biological cycles.
 - **Zero irrigation**: Water management through landscape design. Over 70
-  ponds create microclimates and self-regulating water systems.
+  ponds [[query-how-do-i-create-microclimates-in-my-garden]] and self-regulating water systems.
 ### Key Techniques
 - **Raised beds**: Minimum 1.5m height with steep sides, creating varied
   microclimates and excellent drainage. Each bed becomes its own ecosystem.
 - **Water landscapes**: Ponds, channels, and wetlands that moderate temperature,
   provide habitat, and create edge effects for biodiversity.
 - **Terraces**: Contour-based earthworks preventing erosion and creating
-  level growing space on slopes.
+  level [[cotter-growing-space-design-fruiting-rooms]] on slopes.
 - **Hugelkultur**: Buried wood beds improving moisture retention and nutrient
-  cycling over time. See [[permaculture-zone-design]] for detailed zone planning.
+  cycling over time. See permaculture-zone-design for detailed [[mollison-course-zone-planning-and-design]].
 ### Sector Analysis
 Sectors map external energies: sun patterns, wind direction, water flow,
 fire risk, wildlife routes, and frost pockets, ensuring design accounts for all
@@ -73,7 +74,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +116,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

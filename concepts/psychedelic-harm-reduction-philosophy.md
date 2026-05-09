@@ -11,7 +11,7 @@ sources:
 
 Psychedelic harm reduction philosophy represents a comprehensive approach to minimizing the risks associated with psychedelic substance use while respecting individual autonomy and the inherent value of these experiences.
 
-It goes beyond simple safety instructions to encompass a worldview that recognizes altered states of consciousness as legitimate dimensions of human experience deserving of support and guidance.
+It goes beyond simple safety instructions to encompass a worldview that recognizes [[weil-the-natural-mind-altered-states-normalcy]] of consciousness as legitimate dimensions of human experience deserving of support and guidance.
 
 The philosophy emerges from the recognition that prohibition-based approaches to drug control have failed to eliminate psychedelic use while creating additional harms through criminalization, the spread of misinformation, and the elimination of quality control.
 
@@ -23,7 +23,7 @@ The first is that the main reason for negative psychedelic experiences is lack o
 
 This insight shifts the focus of harm reduction from eliminating risk entirely, an impossible goal, to educating and preparing individuals to navigate the challenges of psychedelic experience.
 
-Turner also notes that he has never heard of anyone experiencing long-term adverse effects through the use of natural psychedelics, such as psilocybin mushrooms or mescaline-containing cacti.
+Turner also notes that he has never heard of anyone experiencing long-term [[blesching-cannabis-safety-adverse-effects-evidence]] through the use of natural psychedelics, such as [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] or mescaline-containing cacti.
 
 When disturbing experiences are produced by these substances, users seem to take it in stride and come back to center.
 
@@ -51,7 +51,7 @@ Turner describes having a friend or sitter present as one of the safest methods 
 
 The sitter provides physical safety, emotional support, and a grounded presence that can help the voyager navigate challenging moments during the experience.
 
-The concept of set and setting — the user's mindset, expectations, and preparation (set) combined with the physical and social environment (setting) — is foundational to psychedelic harm reduction. Research and clinical experience consistently show that set and setting are more predictive of outcome than dose or substance. A supportive, comfortable environment with trusted companions dramatically reduces the likelihood of difficult experiences and increases the probability of meaningful, integrative outcomes. This principle, first articulated by Timothy Leary and expanded by subsequent researchers, underlies all modern psychedelic therapy protocols and informal harm reduction practices.
+The concept of set and setting — the user's mindset, expectations, and preparation (set) combined with the physical and social environment (setting) — is foundational to psychedelic harm reduction. Research and clinical experience consistently show that set and setting are more predictive of outcome than dose or substance. A supportive, comfortable environment with trusted companions dramatically reduces the likelihood of difficult experiences and increases the probability of meaningful, integrative outcomes. This principle, first articulated by Timothy Leary and expanded by subsequent researchers, underlies all modern [[metzner-psycholytic-psychedelic-therapy-models]] protocols and informal harm reduction practices.
 
 ## Substance Quality and Integration
 
@@ -65,7 +65,7 @@ The integration phase of psychedelic experience is increasingly recognized as a 
 
 D.M. Turner emphasizes that how one integrates a frightening or dark experience is important, noting that he generally learns more from unpleasant trips than from average psychedelic sessions.
 
-Effective harm reduction includes preparation for the integration process before the psychedelic experience begins. This may include journaling prompts, plans for follow-up conversations with trusted friends or therapists, and deliberate scheduling of rest and reflection time in the days following a session. Research from modern clinical trials consistently shows that the quality of integration correlates strongly with lasting positive outcomes from psychedelic experiences.
+Effective harm reduction includes preparation for the integration process before the psychedelic experience begins. This may include journaling prompts, plans for follow-up conversations with trusted friends or therapists, and deliberate scheduling of rest and reflection time in the days following a session. Research from modern [[mushroom-cancer-clinical-trials-overview]] consistently shows that the quality of integration correlates strongly with lasting positive outcomes from psychedelic experiences.
 
 ## Policy Dimensions and Risk Stratification
 
@@ -77,7 +77,7 @@ From a harm reduction perspective, the legal penalties associated with psychedel
 
 The philosophy distinguishes between different levels of risk associated with different substances and practices.
 
-Natural psychedelics like psilocybin mushrooms and mescaline cacti are generally recognized as having lower risk profiles than synthetic substances, while synthetic substances of unknown purity carry the highest risk.
+Natural psychedelics like psilocybin mushrooms and [[trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern]] are generally recognized as having lower risk profiles than synthetic substances, while synthetic substances of unknown purity carry the highest risk.
 
 Turner assigns intensity levels from 1 to 10 for different substances, and harm reduction practice involves respecting these differences.
 

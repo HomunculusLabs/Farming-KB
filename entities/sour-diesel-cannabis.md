@@ -12,9 +12,9 @@ sources: []
 
 ## Overview
 
-Sour Diesel (often abbreviated "Sour D") is a sativa-dominant hybrid cannabis strain that
+Sour Diesel (often abbreviated "Sour D") is a sativa-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] that
 emerged from the New York City underground scene in the early-to-mid 1990s. It became one of
-the defining strains of East Coast cannabis culture and went on to achieve global recognition.
+the defining strains of [[fukuoka-east-coast-forest-livestock-soil-damage]] [[mckenna-cannabis-culture-history]] and went on to achieve global recognition.
 The name derives from its characteristically pungent, diesel-fuel aroma undercut by sharp
 citrus notes. Sour Diesel is widely regarded as one of the most influential
 [[cannabidiol-cbd]] may be present depending on the cut and growing conditions.
@@ -23,7 +23,7 @@ analytical testing.
 
 | Terpene | Approx. Range | Notes |
 |---------|--------------|-------|
-| [[e-beta-caryophyllene-bcp]] | 0.4–1.0% | Peppery spice; dietary cannabinoid receptor agonist |
+| [[e-beta-caryophyllene-bcp]] | 0.4–1.0% | Peppery spice; dietary [[cannabis-cannabinoid-receptor-pharmacology]] agonist |
 | [[myrcene]] is the dominant terpene by weight, though [[og-kush]]
 and [[super-lemon-haze]], [[nyc-diesel]]
 
@@ -110,3 +110,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[lilac-diesel]]

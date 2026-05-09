@@ -1,5 +1,5 @@
 ---
-title: Food Drying and Dehydration Methods
+title: Food Drying and growing-gourmet-mushroom-dehydration-methods-equipment
 created: 2026-04-28
 tags: [food-preservation, dehydration, drying, solar-drying, self-sufficiency]
 date: 2026-04-25
@@ -30,17 +30,17 @@ devices such as apple corers and peelers can help speed the process.
 Over-ripe or even fermenting fruit can still make good fruit leather. Wash,
 peel, remove seeds and pits, then grind them up by mashing or blending.
 The puree must be thin enough to pour but not too thin to be watery. If it
-is too thick, add [[mushroom-preservation-methods]]
+is too thick, add mushroom-preservation-methods
 
 Food drying complements,, and canning. Dried foods take up less space than canned goods
 and require no electricity for storage once dried. Dried herbs from the
 garden provide year-round flavoring. A simple rule of thumb is that dried
 foods weigh approximately one-tenth of their fresh weight, making them
 extremely efficient for storage and transport. The food drying and dehydration can
-include a dedicated drying area or solar dehydrator as part of the home
+include a dedicated drying area or [[comparison-solar-dehydrator-vs-electric-dehydrator]] as part of the home
 design. Any food that cannot be dried or fermented can go to the
 or [[solar-and-electric-food-drying-methods]]
-- lacto fermentation preservation for another preservation method
+- [[comparison-lacto-fermentation-vs-canning]] preservation for another preservation method
 
 ## See Also
 
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +103,5 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+- [[food-dehydration-guide]]
+- [[solar-and-electric-food-drying-methods]]

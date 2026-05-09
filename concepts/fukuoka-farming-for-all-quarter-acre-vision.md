@@ -5,7 +5,8 @@ updated: 2026-04-18
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Farming for All and the Quarter-Acre Vision
@@ -19,7 +20,7 @@ The final chapter of [[fukuoka-mu-economics]] and [[fukuoka-agriculture-tomorrow
 
 # Fukuoka's Vision for Small-Scale Farming
 
-**Source:** [[one-straw-revolution-philosophy]] (The One Straw Revolution)
+**Source:** [[one-straw-revolution-philosophy]] (The One [[fukuoka-one-straw-revolution-conclusion]])
 **Updated:** 2026-04-18
 
 ## The Proper Scale of Agriculture
@@ -30,13 +31,13 @@ His own farm on Shikoku island was a demonstration of what was possible. On a mo
 
 ## The One-Acre Farm
 
-Fukuoka often described the potential of a single acre of land. With natural farming methods, one acre could produce enough rice and barley for a family of five, plus vegetables, fruit, and legumes. The same acre, managed scientifically with chemicals and machinery, might produce more of a single crop, but it would require external inputs and would degrade over time. The natural acre, by contrast, would improve every year.
+Fukuoka often described the potential of a single acre of land. With [[comparison-natural-farming-vs-permaculture]] methods, one acre could produce enough rice and barley for a family of five, plus vegetables, fruit, and legumes. The same acre, managed scientifically with chemicals and machinery, might produce more of a single crop, but it would require external inputs and would degrade over time. The natural acre, by contrast, would improve every year.
 
-The key was diversity. A natural farm does not grow one crop but many, arranged so that each supports the others. Legumes fix nitrogen for the grains. Deep-rooted plants bring up minerals for shallow-rooted ones. Ground covers protect the soil and suppress weeds. Trees provide shade, windbreaks, and habitat for beneficial organisms. The system is self-maintaining.
+The key was diversity. A natural farm does not grow one crop but many, arranged so that each supports the others. Legumes fix nitrogen for the grains. Deep-rooted plants bring up minerals for shallow-rooted ones. Ground covers protect the soil and suppress weeds. Trees provide shade, windbreaks, and [[query-how-do-i-design-habitat-for-beneficial-insects]] organisms. The system is self-maintaining.
 
 ## The Farmer as Observer
 
-On a small-scale natural farm, the farmer's primary role is not laborer but observer. Fukuoka spent much of his time simply walking through his orchard, watching what grew, what insects appeared, what the weather did. From this observation came a deep understanding of the land that no amount of scientific study could provide.
+On a small-scale natural farm, the farmer's primary role is not laborer but observer. Fukuoka spent much of his time simply walking through his orchard, watching what grew, what insects appeared, what the weather did. From this observation came a deep understanding of the land that no amount of [[roger-heim-scientific-study-psilocybin]] could provide.
 
 He contrasted this with the scientific farmer, who measures soil nutrients, applies precise amounts of fertilizer, and sprays pesticides according to a schedule. The scientific farmer knows a great deal about specific variables but nothing about the whole. The natural farmer knows little about specific variables but understands the whole.
 
@@ -48,7 +49,7 @@ Fukuoka noted that this independence was precisely what made natural farming una
 
 ## The Village Economy
 
-Fukuoka envisioned a revival of the traditional Japanese village economy, in which each community produced most of what it needed locally. Rice, vegetables, fruit, firewood, building materials, and clothing fiber could all come from the surrounding land. Trade between villages would supplement local production but not replace it.
+Fukuoka envisioned a revival of the traditional Japanese village economy, in which each community produced most of what it needed locally. Rice, vegetables, fruit, firewood, [[natural-building-materials-guide]], and clothing fiber could all come from the surrounding land. Trade between villages would supplement local production but not replace it.
 
 This vision was not about returning to the past but about building a sustainable future. The traditional village economy had been destroyed by the combination of chemical agriculture, urbanization, and global trade. But the principles behind it -- local production, self-reliance, intimate knowledge of place -- were timeless and could be applied anywhere.
 
@@ -56,7 +57,7 @@ This vision was not about returning to the past but about building a sustainable
 
 For Fukuoka, small-scale farming was not merely an economic arrangement but a spiritual practice. Working the land by hand, eating what you grow, living in harmony with the seasons -- these activities connected the farmer to something larger than themselves. The farm became a place of learning, not just about agriculture but about life itself.
 
-He observed that the visitors who thrived at his farm were not those who came with grand plans or philosophical questions, but those who were simply willing to work, eat simply, and pay attention. The farm taught them what books and teachers could not: that nature is wise, that human knowledge is limited, and that the best life is one lived in accordance with the natural order.
+He observed that the visitors who thrived at his farm were not those who came with grand plans or philosophical questions, but those who were simply willing to work, eat simply, and pay attention. The farm taught them what books and teachers could not: that nature is wise, that human knowledge is limited, and that the best life is one lived in accordance with the [[fukuoka-textdoc-natural-order-food-chain-unity]].
 
 ## Self-Sufficient Communities
 
@@ -83,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

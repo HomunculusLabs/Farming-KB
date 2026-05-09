@@ -1,5 +1,5 @@
 ---
-title: Greenhouse Ventilation Design for Mobile and Sliding Houses
+title: coleman greenhouse ventilation design Design for Mobile and Sliding Houses
 tags:
   - farming
   - greenhouse-design
@@ -18,7 +18,7 @@ type: concept
 
 # Greenhouse Ventilation Design for Mobile and Sliding Houses
 
-Ventilation is a critical design consideration for greenhouses used in year-round production, but it presents unique challenges for mobile and sliding structures. [[plants-without-mycorrhizal-associations]] damage
+Ventilation is a critical design consideration for greenhouses used in year-round production, but it presents unique challenges for mobile and sliding structures. [[chamovitz-gravitropism-plant-knows-where-it-is]] damage
 - During summer, the strip functions as a roll-up side for additional ventilation
 
 This design provides effective ventilation while maintaining the structural rigidity needed for houses that are physically pushed or pulled between sites.
@@ -39,15 +39,15 @@ The wide doorway is covered with a plastic sheet attached at the top and sides u
 
 This design enables three distinct ventilation modes:
 
-**Winter mode:** The wiggle wire is unclipped across the top and upper sides of one or both ends, and the plastic is dropped to open as large an area as required. Because the opening is at the top and upper sides, neither snow nor cold air can blow in directly across the crops at soil level. The openings are closed in the evening.
+**Winter mode:** The wiggle wire is unclipped across the top and upper sides of one or both ends, and the plastic is dropped to open as large an area as required. Because the opening is at the top and upper sides, neither snow nor [[hemenway-cold-air-drainage-and-frost-management]] can blow in directly across the crops at soil level. The openings are closed in the evening.
 
-**Early spring mode:** Once snow is no longer a concern, the door is rolled up from the bottom during the day and rolled down at night, functioning like a conventional roll-up sidewall. When cold air drafting across the crops might be detrimental, a 2-foot-wide piece of plastic is stretched horizontally across the bottom of the door opening as an air barrier.
+**[[coleman-overwintered-onions-and-early-spring-crops]] mode:** Once snow is no longer a concern, the door is rolled up from the bottom during the day and rolled down at night, functioning like a conventional roll-up sidewall. When cold air drafting across the crops might be detrimental, a 2-foot-wide piece of plastic is stretched horizontally across the bottom of the door opening as an air barrier.
 
 **Summer mode:** The doors at both ends are rolled up entirely and tied in place, ensuring maximum ventilation for summer crops and easy access for harvesting or [[soil-health-indicators]] for the subsequent crop.
 
 ## Integration with the Wiggle-Wire System
 
-The ventilation designs at Four Season Farm all depend on the wiggle-wire (wire-lock) plastic attachment system. This system's ability to quickly secure and release plastic sheeting makes it possible to open and close large ventilation areas as conditions change. Without this attachment method, the adaptive ventilation management that characterizes the winter harvest system would be impractical.
+The ventilation designs at Four Season Farm all depend on the wiggle-wire (wire-lock) plastic attachment system. This system's ability to quickly secure and release plastic sheeting makes it possible to open and close large ventilation areas as conditions change. Without this attachment method, the adaptive ventilation management that characterizes the [[coleman-claytonia-winter-harvest-cultivation]] system would be impractical.
 
 The best wiggle-wire channels are deep enough to accept two or more wires simultaneously. This allows a single channel to serve double duty: securing the end-wall plastic and the top-covering plastic at the overlap point. This detail may seem minor but it simplifies construction and reduces the number of attachment points that could fail.
 
@@ -80,7 +80,7 @@ The evolution of ventilation design at Four Season Farm illustrates several prin
 - Wind stabilization of large plastic surfaces is necessary for winter reliability
 - Structural decisions in one area (like choosing pipe rails over sled runners) have cascading effects on capabilities in other areas (like ventilation design)
 
-These ventilation innovations are integral to making mobile greenhouses practical for year-round use, ensuring that the benefits of winter protection do not come at the cost of inadequate ventilation during warmer periods. The continued evolution of these designs reflects the broader truth that the winter harvest system itself is not static but continues to be refined with each growing season.
+These ventilation innovations are integral to making mobile greenhouses practical for year-round use, ensuring that the benefits of winter protection do not come at the cost of inadequate ventilation during warmer periods. The continued evolution of these designs reflects the broader truth that the winter harvest system itself is not static but continues to be refined with each [[savory-growing-season-and-non-growing-season-management]].
 
 ## See Also
 

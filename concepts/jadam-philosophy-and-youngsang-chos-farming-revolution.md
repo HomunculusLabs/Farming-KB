@@ -11,7 +11,7 @@ sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 
 ## Overview
 
-JADAM (Korean: 자담, Jayeon Danbal Nongbeop, meaning "Nature-Return Farming") is a South Korean organic farming movement founded by **Youngsang Cho** in the village of Bongha. JADAM advocates **ultra-low-cost agriculture (ULC)** -- a system where farmers make all inputs themselves, breaking free from dependency on commercial agricultural products. The movement has over 60,000 registered members and is built on the principle that farming knowledge should belong to farmers, not corporations.
+JADAM (Korean: 자담, Jayeon Danbal Nongbeop, meaning "Nature-Return Farming") is a South Korean [[coleman-deep-organic-farming-philosophy]] movement founded by **Youngsang Cho** in the village of Bongha. JADAM advocates **ultra-low-cost agriculture (ULC)** -- a system where farmers make all inputs themselves, breaking free from dependency on commercial agricultural products. The movement has over 60,000 registered members and is built on the principle that farming knowledge should belong to farmers, not corporations.
 
 ## Core Philosophy
 
@@ -25,11 +25,11 @@ A core principle meaning that self and others, one's life and others' lives, are
 
 ### From Disinfection to Diversity
 
-Instead of trying to kill specific pathogens (disinfection), JADAM maximizes the population and diversity of microorganisms in soil. This is compared to athlete's foot: people who walk barefoot never get infected because their feet are full of diverse microorganisms. When diverse microbes co-exist, disease-causing organisms cannot dominate. This principle applies to soil, plants, and pest management.
+Instead of trying to kill specific pathogens (disinfection), JADAM maximizes the population and diversity of microorganisms in soil. This is compared to athlete's foot: people who walk barefoot never get infected because their feet are full of diverse microorganisms. When diverse microbes co-exist, disease-causing organisms cannot dominate. This principle applies to soil, plants, and [[cannabis-pest-management-guide]].
 
 ### SESE Principle
 
-All [[jadam-microbial-solution]] (JMS) replaces all microbial inputs, and natural pesticides derived from local herbs replace synthetic chemicals. The [[natural-farming-philosophy]]
+All [[jadam-microbial-solution]] (JMS) replaces all microbial inputs, and [[jadam-pest-control-with-natural-pesticides-jhs]] derived from local herbs replace synthetic chemicals. The 
 - [[compost-tea-recipe-guide]]
 ## Practical Applications
 
@@ -108,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -3,7 +3,7 @@ title: Pf Tek Global Spread And Cultural Impact
 created: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "PF TEK - Psilocybe Fanaticus (1996)"
+  - "PF TEK - pf-tek-psilocybe-fanaticus-cultivation-method (1996)"
 type: concept
 tags: [pf-tek, mushroom-cultivation, history, internet, culture, psilocybe-fanaticus]
 ---
@@ -11,7 +11,7 @@ tags: [pf-tek, mushroom-cultivation, history, internet, culture, psilocybe-fanat
 techniques in history. Its impact extended far beyond the original kit
 business in Seattle, Washington, spawning a global community of home
 cultivators and fundamentally democratizing access to psilocybin-
-containing mushrooms.
+[[psilocybin-containing-mushrooms-in-us]].
 
 ## Origins in High Times
 
@@ -36,10 +36,10 @@ stretch across space, creating a more aerobic and productive growing
 environment that better mimics natural substrates.
 
 The technique also departed from conventional cultivation by employing
-mass spore inoculation directly to the fruiting substrate, rather than
+mass spore inoculation directly to the [[pf-tek-maximum-fruiting-substrate-formula]], rather than
 the usual cloning of [[spore-syringe]]
 inoculation, and simple fruiting chambers — remain the foundation of
-beginner mushroom cultivation guides more than three decades after
+beginner [[accessible-mushroom-cultivation-for-disabilities]] guides more than three decades after
 their introduction. While advanced techniques using pressure canners,
 grain-to-grain transfers, and monotub fruiting chambers have since
 been developed, the PF TEK continues to be recommended as the
@@ -49,7 +49,7 @@ and forgiving error tolerance.
 The technique's emphasis on vermiculite as a structural substrate
 rather than a nutritional component was a genuinely innovative insight
 that has been validated by subsequent mycological research. The dry
-vermiculite contaminant barrier — described by PF as an "original
+[[pf-tek-dry-vermiculite-contaminant-barrier]] barrier — described by PF as an "original
 discovery" — remains a standard feature of home cultivation
 methodology.
 ## Practical Considerations
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

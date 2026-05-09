@@ -33,7 +33,7 @@ sources:
 **Coprinellus micaceus**, commonly known as the **Mica Cap** or **Glistening
 Inkcap**, is a widely distributed saprotrophic basidiomycete mushroom. It is
 one of the most recognizable coprinoid fungi, growing in dense clusters on
-stumps, buried roots, and dead wood of broadleaf trees in temperate regions
+stumps, buried roots, and [[fungal-dead-wood-diversity]] of broadleaf trees in temperate regions
 worldwide. The species epithet *micaceus* ("mica-like") refers to the fine,
 glistening granules on the young cap surface — a distinctive field mark.
 
@@ -70,7 +70,7 @@ short-lived, deliquescing completely within 24-48 hours.
 
 ### Geographic Range
 
-Nearly worldwide in temperate regions. Common throughout Europe, North America
+Nearly worldwide in temperate regions. Common throughout Europe, [[psilocybin-north-america-pacific-northwest]]
 (Alaska to Mexico), Asia, and Australasia. One of the most widely distributed
 coprinoid fungi.
 
@@ -89,7 +89,7 @@ coprinoid fungi.
 
 ## Cultivation
 
-Not commercially cultivated due to small size and extremely short shelf life.
+Not commercially cultivated due to small size and extremely short [[psilocybin-shelf-life-stability]].
 Can be grown on pasteurized hardwood sawdust or straw substrates. Occasionally
 encountered as a "weed" mushroom in commercial [[mushroom-cultivation]] facilities.
 ## See Also

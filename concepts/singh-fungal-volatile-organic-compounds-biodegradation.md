@@ -1,5 +1,5 @@
 ---
-title: Singh Fungal Volatile Organic Compounds Biodegradation
+title: Singh Fungal fungal-volatile-organic-compounds-communication Compounds Biodegradation
 created: 2026-04-28
 tags: [voc, btex, biofilters, bioreactors, indoor-air]
 date: 2026-04-25
@@ -28,7 +28,7 @@ manufacturing. Singh's discussion of [[laccase-mediator-system-dye]] and [[singh
 
 Biofilters consist of:
 
-- **Filter bed**: Packed with organic (peat, compost, wood chips) or
+- **Filter bed**: Packed with organic (peat, compost, [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]]) or
   synthetic media (ceramic beads, polyurethane foam) colonized by fungi
 - **Humidification chamber**: Pre-humidifies incoming gas stream
 - **Gas distribution system**: Ensures even flow through filter media
@@ -53,11 +53,11 @@ Biotrickling filters circulate a liquid phase through the filter bed:
 
 ### Fungal Immobilization Strategies
 
-- **Spore inoculation**: Direct seeding with subsequent colonization
+- **[[mushroom-spore-inoculation-techniques]]**: [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] with subsequent colonization
 - **Pre-colonized media**: Inoculated before installation for immediate
   treatment capacity
 - **Mixed cultures**: Combining fungi with bacteria for complementary
-  degradation pathways
+  [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]]
 
 ## Key Fungal Genera for VOC Biodegradation
 
@@ -80,9 +80,11 @@ Biotrickling filters circulate a liquid phase through the filter bed:
 
 - **Incomplete mineralization**: Some partial oxidation products may be
   more toxic than parent compounds
-- **Biofilter clogging**: Excessive fungal growth can obstruct gas flow
+- **Biofilter clogging**: Excessive [[brassinosteroid-fungal-growth-promotion]] can obstruct gas flow
 - **Sporulation and health concerns**: Spores may pose allergen risks
 - **Process control**: Maintaining optimal conditions at large scale
   requires sophisticated monitoring
 
 ## See Also
+
+- [[mycovolatiles-fungal-volatile-compounds]]

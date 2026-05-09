@@ -15,7 +15,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 **Also known as:** Fusarium moniliforme (synonym sensu stricto)
 
 ## Overview
-Fusarium verticillioides is a major fungal pathogen and endophyte of
+Fusarium verticillioides is a major [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] and endophyte of
 maize (Zea mays) worldwide. It is the most common species associated
 with Fusarium ear rot and stalk rot of corn, and it produces fumonisins,
 mycotoxins that contaminate maize-based food and feed products. The
@@ -70,7 +70,7 @@ helvellae.
   edema, and human esophageal cancer
 - Fumonisin contamination of maize is a global food safety concern,
   with highest levels in warm, humid regions
-- Also produces fusaric acid and other secondary metabolites
+- Also produces fusaric acid and other [[antifungal-secondary-metabolites-coprophilous-fungi]]
 
 ### Endophytic and Pathogenic Phases
 - Can colonize maize plants systemically without causing visible
@@ -110,7 +110,7 @@ helvellae.
 ## Relevance
 Fusarium verticillioides is one of the most important mycotoxin-producing
 fungi affecting global food security. Its dual lifestyle as endophyte
-and pathogen makes it a fascinating system for studying fungal ecology
+and pathogen makes it a fascinating system for studying [[gadd-fungal-ecology-endophytes]]
 and host-microbe interactions. The mycoparasitic fungi that antagonize
 it, documented in the source text, represent potential biological
 control agents for managing Fusarium diseases and reducing mycotoxin

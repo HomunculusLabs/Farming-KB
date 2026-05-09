@@ -51,7 +51,7 @@ The species prefers shallow standing water (0–50 cm depth) with mineral or org
 
 Compared to *T. latifolia*, narrowleaf cattail occupies slightly deeper water and more nutrient-poor sites. The hybrid *T. × glauca* occupies intermediate conditions and often outcompetes both parents through heterosis.
 
-In Eurasia, the species is considered a native component of healthy wetland ecosystems. However, it can become dominant in eutrophic conditions where nutrient loading favors rapid growth. Seasonal biomass production ranges from 1.5 to 4.0 kg dry weight per square meter in temperate climates.
+In Eurasia, the species is considered a native component of healthy wetland ecosystems. However, it can become dominant in eutrophic conditions where nutrient loading favors rapid growth. Seasonal [[dighton-fungal-biomass-production-aquatic-ecosystems]] ranges from 1.5 to 4.0 kg dry weight per square meter in temperate climates.
 
 ## Ecological Role
 
@@ -61,7 +61,7 @@ The rhizome system stabilizes shorelines and reduces erosion by binding sediment
 
 *T. angustifolia* serves as a larval host for several moth species, including the cattail moth (*Limnaecia phragmitella*). The pollen is an important early-summer food source for bees and other pollinators.
 
-The dense above-ground litter layer created by senescing cattail foliage modifies the microhabitat by insulating the soil and retaining moisture. This litter layer influences decomposition rates and nutrient cycling within the wetland. Invertebrate communities within cattail stands include chironomids, dragonfly nymphs, and aquatic snails that form the base of the wetland food web.
+The dense above-ground litter layer created by senescing cattail foliage modifies the microhabitat by insulating the soil and retaining moisture. This litter layer influences decomposition rates and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within the wetland. Invertebrate communities within cattail stands include chironomids, dragonfly nymphs, and aquatic snails that form the base of the wetland food web.
 
 ## Ethnobotanical Uses
 
@@ -69,15 +69,15 @@ The rhizomes are rich in starch (approximately 30–45% dry weight) and have bee
 
 The pollen has been used traditionally as a coagulant and protein supplement in Chinese cuisine, where it is collected in late spring. Young shoots (0.3–0.6 m tall) are edible when peeled and cooked, resembling asparagus in texture and flavor.
 
-Mature leaves have been used for thatching, mat weaving, and basket-making across cultures. The seed fluff was historically used as stuffing for pillows and as tinder for fire-starting. The dried stalks have served as lightweight building material for temporary shelters.
+Mature leaves have been used for thatching, mat weaving, and basket-making across cultures. The seed fluff was historically used as stuffing for pillows and as tinder for fire-starting. The dried stalks have served as lightweight [[fungal-building-material-deterioration]] for temporary shelters.
 
 The rhizome starch has also been fermented to produce alcoholic beverages in parts of eastern Europe and Russia. Medicinally, the powdered pollen has been applied to wounds as a hemostatic agent in traditional Chinese medicine. The gelatinous interior of young shoots was used by Native American peoples as a topical poultice for burns and insect bites.
 
 ## Phytoremediation
 
-*T. angustifolia* demonstrates significant capacity for heavy metal accumulation, particularly lead, cadmium, zinc, and copper. Studies have shown bioconcentration factors exceeding 1.0 for lead in root tissues, making it a candidate for constructed wetland remediation systems.
+*T. angustifolia* demonstrates significant capacity for heavy metal accumulation, particularly lead, cadmium, zinc, and copper. Studies have shown bioconcentration factors exceeding 1.0 for lead in root tissues, making it a candidate for [[comparison-constructed-wetland-vs-backyard-pond]] remediation systems.
 
-The species is effective at nutrient removal in wastewater treatment wetlands, absorbing nitrogen and phosphorus through both root uptake and microbial interactions in the rhizosphere. Constructed wetlands planted with *Typha* species achieve 60–90% nitrogen removal and 70–95% phosphorus removal under optimal conditions.
+The species is effective at nutrient removal in [[mollison-designers-wastewater-treatment-wetlands]] wetlands, absorbing nitrogen and phosphorus through both root uptake and microbial interactions in the rhizosphere. [[comparison-constructed-wetlands-vs-bioswales]] planted with *Typha* species achieve 60–90% nitrogen removal and 70–95% phosphorus removal under optimal conditions.
 
 Root-zone oxidation by radial oxygen release from *Typha* roots creates aerobic microsites in otherwise anoxic sediments. This oxygen leakage supports nitrifying bacteria that convert ammonium to nitrate, enabling coupled nitrification-denitrification processes that remove nitrogen as nitrogen gas.
 
@@ -103,6 +103,8 @@ Genetic studies have confirmed that the invasive *T. × glauca* populations in t
 
 ## See Also
 
+- [[typha-domingensis]]
+
 - [[phragmites-australis]]
 - [[nasturtium-officinale]]
 - [[azolla-filiculoides]]
@@ -111,3 +113,5 @@ Genetic studies have confirmed that the invasive *T. × glauca* populations in t
 - [[pistia-stratiotes]]
 - [[nuphar-lutea]]
 - [[canna-indica]]
+
+- [[typha-latifolia]]

@@ -5,7 +5,8 @@ updated: 2026-04-18
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## God and Nature Are One and the Same
@@ -32,9 +33,9 @@ There is only one truth -- past, present, and future. And that truth is unique. 
 
 - Why then does this unique God seem to have different faces?
 
-- If a drop of rain falls onto a mountain, if this flows left, it becomes Western philosophy
+- If a drop of [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]] onto a mountain, if this flows left, it becomes [[fukuoka-descartes-western-philosophy-nature]]
 
-- If it flows to the right, it becomes Eastern philosophy
+- If it flows to the right, it becomes [[fukuoka-western-eastern-philosophy-agriculture]]
 
 - When seen from the left, the individual sitting on the summit may appear as the face of Christ
 

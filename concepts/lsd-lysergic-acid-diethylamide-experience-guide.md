@@ -1,5 +1,5 @@
 ---
-title: LSD Lysergic Acid Diethylamide Experience Guide
+title: LSD ergot-and-lysergic-acid-history Diethylamide Experience Guide
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # LSD (Lysergic Acid Diethylamide) Experience Guide
 
-LSD (D-lysergic acid diethylamide) is a synthetic psychedelic compound derived from lysergic acid, found in Hawaiian Woodrose and Morning Glory seeds, or Ergot fungus (Claviceps purpurea), which grows on rye, wheat, and other grains. Lysergic acid itself is psychoactive, though not nearly as potent as LSD, and has been consumed for millennia in the form of those plant sources. The most common street name is "acid." Turner rates its intensity as 3 to 7 for most experiences.
+LSD (D-lysergic acid diethylamide) is a synthetic psychedelic compound derived from lysergic acid, found in Hawaiian Woodrose and [[golden-guide-morning-glory-and-ololiuqui]] seeds, or Ergot fungus ([[bloomfield-ergot-claviceps-purpurea-ergotism]]), which grows on rye, wheat, and other grains. Lysergic acid itself is psychoactive, though not nearly as potent as LSD, and has been consumed for millennia in the form of those plant sources. The most common street name is "acid." Turner rates its intensity as 3 to 7 for most experiences.
 
 ## Chemistry and History
 
@@ -26,7 +26,7 @@ LSD is extremely potent by weight — the amount required for a single dose is b
 | Dose | Effect |
 |------|--------|
 | 100 mcg | Minimum psychedelic dose — low-level experience, not overwhelming, no hallucinations |
-| 200 mcg | Minimum for full psychedelic experience with visuals and hallucinations (most people need more) |
+| 200 mcg | Minimum for full [[leary-psychedelic-experience-bardo-mapping]] with visuals and hallucinations (most people need more) |
 | 500 mcg | Strong dose — Turner's typical dose |
 | 1000+ mcg | Very large dose territory |
 
@@ -73,8 +73,8 @@ Most users report first few trips as like a ride through the funhouse — everyt
 
 ## Combinations
 
-- **Harmala Alkaloids**: Infuses the trip with a mystical and ancient quality. Normally on acid, one feels interfacing with their own mind; with Harmala, it feels like contact with the invisible world of Spirits. Even greater synergism exists between Harmala and tryptamine psychedelics (psilocybin, DMT)
-- **DMT**: Smoking N,N-DMT while on acid produces powerfully enlightening experiences. The DMT overwhelms the acid during its short duration, but acid puts one on a higher platform for launching into DMT
+- **[[turner-harmala-alkaloids-preparation-and-dosage]]**: Infuses the trip with a mystical and ancient quality. Normally on acid, one feels interfacing with their own mind; with Harmala, it feels like contact with the invisible world of Spirits. Even greater synergism exists between Harmala and tryptamine psychedelics (psilocybin, DMT)
+- **DMT**: Smoking N,N-DMT while on acid produces powerfully enlightening experiences. The DMT overwhelms the acid during its [[savory-short-duration-grazing-and-cell-systems]], but acid puts one on a higher platform for launching into DMT
 - **Nitrous Oxide**: Amplifies altered state, producing a dissociative state. Can add "an additional peak in your peak" or "break up" a state of mind. Works well with every psychedelic Turner tried
 - **Ludiomil** (anti-depressant): Nearly doubles acid strength while slightly altering the experience, producing a thin invisible membrane between self and senses. Produces highly vivid dreams for 3-4 nights afterward
 - See [[psychedelic-combination-guide]] for additional combinations

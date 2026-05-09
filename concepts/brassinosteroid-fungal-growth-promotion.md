@@ -6,7 +6,7 @@ significant finding in mycology and plant-fungal interactions.
 This cross-kingdom effect was first documented in a 1990 study by
 Gartz, Adam, and Vorbrodt, who observed that 22S,23S-
 homobrassinolide promoted mycelial growth and fruiting in the
-fungus Psilocybe cubensis.
+fungus [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]].
 
 ## The Original Study
 
@@ -30,7 +30,7 @@ assimilation mechanisms.
 The rapid colonization of the substrate by treated mycelium has
 practical implications for cultivation efficiency, as faster
 colonization reduces the window of vulnerability to competitor
-organisms and contamination. In commercial mushroom cultivation,
+organisms and contamination. In commercial [[accessible-mushroom-cultivation-for-disabilities]],
 reducing colonization time by even 30-50% would represent a
 significant improvement in production efficiency.
 
@@ -54,7 +54,7 @@ not merely accelerate mycelial growth.
 Total dry mass yield was also improved: brassinosteroid-treated
 cultures produced 3.4-3.9 g dry weight per 10 g of substrate,
 compared to 2.3-2.9 g for controls. This represents an
-approximately 35-50% increase in biological efficiency.
+approximately 35-50% increase in [[stamets-biological-efficiency-yield]].
 
 ## Reduction of Abnormalities
 
@@ -85,7 +85,7 @@ influencing membrane properties or signaling pathways.
 **Membrane effects**: As amphipathic molecules, brassinosteroids
 may alter membrane fluidity or permeability, potentially
 enhancing nutrient transport across the cell membrane and
-stimulating metabolic activity.
+stimulating [[arbuscule-isolation-metabolic-activity-assays]].
 
 **Metabolic activation**: Brassinosteroids may activate fungal
 enzyme systems involved in growth metabolism, possibly through
@@ -99,7 +99,7 @@ of these plant compounds.
 ## Implications for Mushroom Cultivation
 
 The observed effects have potential practical applications in the
-cultivation of edible and medicinal mushrooms. If brassinosteroid
+cultivation of edible and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. If brassinosteroid
 treatment proves effective across a range of commercially important
 species, it could significantly improve production efficiency
 through faster colonization, earlier fruiting, higher yields, and
@@ -110,7 +110,7 @@ and the need for regulatory approval for hormone-treated food
 products present challenges for commercial adoption. Further
 research is needed to optimize brassinosteroid application methods,
 determine effective concentrations for different species, and
-assess any effects on mushroom nutritional composition or
+assess any effects on mushroom [[dighton-fungal-nutritional-composition-animal-diets]] or
 bioactive compound profiles.
 
 ## See Also

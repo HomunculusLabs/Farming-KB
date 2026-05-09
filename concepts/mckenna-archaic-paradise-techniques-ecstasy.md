@@ -1,5 +1,5 @@
 ---
-title: Archaic Paradise and Techniques of Ecstasy
+title: mckenna archaic paradise techniques ecstasy and Techniques of Ecstasy
 created: 2026-04-28
 tags:
   - entheogen
@@ -41,7 +41,7 @@ from religion and art to social organization and cosmology.
 ## What Was Lost
 
 The ambience of the lost Edenic world can be partially reconstructed
-from the phenomenology of the psychedelic experience. The onset of an
+from the phenomenology of the [[leary-psychedelic-experience-bardo-mapping]]. The onset of an
 indole hallucinogen is characterized first by a somatic activation, a
 feeling in the body. The indoles are not soporifics but central nervous
 system stimulants. One must discipline the hindbrain and simply wait
@@ -96,7 +96,7 @@ The tryptamines are particularly interesting as candidates for the
 primary hallucinogen involved in the Archaic origin of consciousness.
 The human brain runs partially on 5-hydroxytryptamine, also known as
 serotonin. DMT, closely related to serotonin, is the hallucinogenic
-compound central to Amazonian shamanism and is the most powerful
+compound central to [[mckenna-food-gods-amazonian-shamanism-ayahuasca]] and is the most powerful
 hallucinogen in human beings.
 
 The structural similarity between serotonin and DMT may indicate the
@@ -107,7 +107,7 @@ how benign the compound is in human metabolism.
 
 ## Techniques of the Journey
 
-Good technique for the psychedelic journey is obvious: one sits down,
+Good technique for the [[ketamine-psychedelic-journey-guide]] is obvious: one sits down,
 one shuts up, and one pays attention. These journeys should be taken on
 an empty stomach, in silent darkness, and in a situation of comfort,
 familiarity, and security. The terms "set" and "setting," established
@@ -116,7 +116,7 @@ points.
 
 Set refers to the interiorized feelings, hopes, fears, and expectations
 of the voyager. Setting refers to the external situation, including
-noise level, light level, and level of familiarity. Both set and setting
+noise level, light level, and level of familiarity. Both [[lsd-set-and-setting-framework]]
 should optimize feelings of security and confidence. External stimuli
 should be severely limited. Comfortable, silent darkness is the
 preferred environment for the shaman to launch what the neo-Platonic
@@ -126,7 +126,7 @@ mystic Plotinus called "the flight of the alone to the Alone."
 
 The Archaic Revival is a call to recover our birthright, however
 uncomfortable that may be. It proposes that a worldwide attitude of fear
-toward drugs is being fostered by dominator culture. An interrupted
+toward drugs is being fostered by [[mckenna-dominator-culture-and-suppression-of-ecstasy]]. An interrupted
 psychophysical symbiosis between ourselves and the visionary plants is
 the unrecognized cause of the alienation of modernity.
 

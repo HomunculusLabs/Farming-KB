@@ -1,5 +1,5 @@
 ---
-title: "MMDA-3a (2-METHOXY-3,4-METHYLENEDIOXYAMPHETAMINE) -- PIHKAL Entry #134"
+title: "MMDA-3a (2-METHOXY-3,4-METHYLENEDIOXYAMPHETAMINE) -- 2c-b-pihkal-entry-20 #134"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -66,14 +66,14 @@ methylenedioxy must, perforce, have two oxygens that are adjacent, and
 there are none to be so found in the 2,4,6-orientation of TMA-6). So,
 with two possible MMDA-3's it becomes reasonable, in fact essential,
 to name one of them "a" and the other "b". The "a" orientation occurs
-in nature as the essential oil croweacin, or
+in nature as the [[permaculture-designers-manual-essential-oil-plants]] croweacin, or
 1-allyl-2-methoxy-3,4-methylenedioxybenzene. It thus can allow
 MMDA-3a to be classified as an Essential Amphetamine, since it can
 arise, in principle, by amination in the liver in vivo. But in the
 laboratory, croweacin is certainly not a practical starting material
 in this synthesis.
 
-I have been told of a number of clinical trials that have explored
+I have been told of a number of [[mushroom-cancer-clinical-trials-overview]] that have explored
 MMDA-3a at considerably higher levels, but I have no explicit
 quotations to give, and the details are quite sketchy. Three trials
 at 80 milligrams, and one at 100 milligrams, all made comparisons, in
@@ -113,7 +113,7 @@ There have been no trials at any higher dose.
 To a solution of 100 g of 2,3-dihydroxyanisole in 1 L dry
 acetone there was added 110 g of powdered anhydrous K2CO3 followed by
 210 g of methylene iodide. This was brought up to a reflux on the
-steam bath. There was a sudden appearance of a solid phase, and then
+[[scythian-cannabis-steam-bath-ritual]]. There was a sudden appearance of a solid phase, and then
 a gentle reflux was maintained for three days, during which time much
 of the heavy solid that initially formed had redissolved. The
 reaction mixture was filtered to remove the insoluble salts, and these
@@ -123,7 +123,7 @@ was leached with several portions of boiling hexane. These were
 pooled, and removal of the solvent under vacuum provided 53.6 g of
 2,3-methylenedioxyanisole as white crystals with a sharp spicy smell.
 A mixture of 120 g N-methylformanilide and 137 g POCl3 was allowed to
-incubate at ambient temperature for 0.5 h, then there was added 53 g
+incubate at [[jadam-ambient-temperature-principle]] for 0.5 h, then there was added 53 g
 of crude 2,3-methylenedioxyanisole. The dark reaction mixture was
 heated on the steam bath for 2 h and then poured into a beaker filled
 with shaved ice. This was stirred until hydrolysis was complete, and

@@ -1,11 +1,11 @@
 ---
-title: HPLC Analysis of Tryptamine Alkaloids
+title: HPLC hplc analysis of tryptamine alkaloids Alkaloids
 created: 2026-04-28
 tags: [HPLC, analytical-chemistry, psilocybin, psilocin, tryptamines, quantification, chromatography, quality-control]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bigwood, J. and Beug, M.W. (1982). Variation of Psilocybin and Psilocin Levels with Repeated Flushes of Mature Sporocarps of Psilocybe cubensis. Journal of Ethnopharmacology, 5, 287-291.
+  - Bigwood, J. and Beug, M.W. (1982). Variation of Psilocybin and Psilocin Levels with Repeated Flushes of Mature Sporocarps of brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting. Journal of Ethnopharmacology, 5, 287-291.
 type: concept
 ---
 
@@ -90,7 +90,7 @@ The clarified extract is injected directly into the HPLC system without further 
 
 [[psilocybin]] and poses special analytical challenges that must be addressed at every step of the workflow:
 
-- **Oxidation**: The free phenolic hydroxyl group is susceptible to oxidation, forming blue-colored quinone polymers. This is the same reaction responsible for the characteristic blue bruising observed when psilocybin mushrooms are handled or damaged.
+- **Oxidation**: The free phenolic hydroxyl group is susceptible to oxidation, forming blue-colored quinone polymers. This is the same reaction responsible for the characteristic blue bruising observed when [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] are handled or damaged.
 - **Light sensitivity**: Exposure to UV and visible light accelerates psilocin degradation
 - **Thermal lability**: Elevated temperatures promote both oxidation and potential thermal decomposition
 - **pKa considerations**: At neutral to basic pH, psilocin exists in its free base form and is more prone to oxidation
@@ -101,8 +101,8 @@ Mitigation strategies include rapid freeze-drying, cold storage in the dark, aci
 
 Mushroom tissue contains numerous compounds that can interfere with chromatographic analysis:
 
-- **Pigments and melanins**: Dark-colored compounds from the fruiting body that can absorb at the same UV wavelengths as tryptamines
-- **Lipids and fatty acids**: Cell membrane components that can co-extract and potentially foul the HPLC column over time
+- **Pigments and melanins**: Dark-colored compounds from the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] that can absorb at the same UV wavelengths as tryptamines
+- **Lipids and [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]**: [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] components that can co-extract and potentially foul the HPLC column over time
 - **Sugars and amino acids**: Primary metabolites present at much higher concentrations than the target alkaloids
 
 The reversed-phase separation provides adequate resolution for most samples, but heavily pigmented or lipid-rich extracts may require additional cleanup steps such as solid-phase extraction (SPE) prior to HPLC injection.

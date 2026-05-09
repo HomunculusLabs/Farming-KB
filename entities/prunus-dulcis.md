@@ -14,8 +14,8 @@ updated: 2026-04-28
 sources:
   - Kester, D.E. et al. (1991). "Almonds (Prunus dulcis)." Acta Horticulturae, 290, 643-680.
   - FAO (2023). FAOSTAT: Crops and Livestock Products — Almonds, with shell. fao.org.
-  - Micke, W.C. (1996). Almond Orchard Management. UC DANR Publication 3364.
-  - Dicenta, F. et al. (2005). "Heritability of fruit quality traits in almond." Plant Breeding, 124(1), 82-87.
+  - Micke, W.C. (1996). Almond [[fukuoka-orchard-management-detailed]]. UC DANR Publication 3364.
+  - Dicenta, F. et al. (2005). "Heritability of fruit [[cannabis-resin-production-and-quality-traits-clarke]] in almond." Plant Breeding, 124(1), 82-87.
   - Socias i Company, R. & Fernández i Martí, A. (2012). "Almond." In Badenes, M.L. & Byrne, D.H. (eds.), Fruit Breeding, Springer.
 created: 2026-04-28
 ---
@@ -43,7 +43,7 @@ In permaculture and agroforestry systems, almond trees serve multiple functions 
 
 The almond tree grows 4–10 meters tall with a spreading canopy and a trunk diameter of up to 30 cm at maturity. The bark is dark gray and rough-textured, becoming fissured with age.
 
-Leaves are lanceolate, 7–13 cm long and 2–4 cm wide, with finely serrated margins. They are bright green above and paler below, appearing simultaneously with or slightly before the flowers in early spring.
+Leaves are lanceolate, 7–13 cm long and 2–4 cm wide, with finely serrated margins. They are bright green above and paler below, appearing simultaneously with or slightly before the flowers in [[coleman-overwintered-onions-and-early-spring-crops]].
 
 Flowers are white to pale pink, approximately 3–5 cm in diameter, with five petals. They appear before the leaves in late winter to early spring (January–March), making them one of the earliest-blooming temperate fruit trees.
 
@@ -69,7 +69,7 @@ Trees begin bearing at 3–4 years from planting, with full production reached a
 
 In permaculture systems, almonds function as the upper canopy layer in food forests and silvopastoral designs. Their early bloom provides critical nectar resources for emerging pollinators when few other plants are flowering.
 
-The extensive root system helps stabilize soil on slopes and improves soil structure through root channels and annual leaf litter deposition. Leaf fall contributes organic matter and supports soil microbial communities.
+The extensive root system helps stabilize soil on slopes and improves soil structure through root channels and annual leaf litter deposition. Leaf fall contributes [[hamilton-composting-and-organic-matter-management]] and supports soil microbial communities.
 
 Almond orchards are increasingly used in combination with sheep grazing (silvopasture), where livestock manage understory vegetation while receiving shade and supplementary forage from fallen nuts.
 
@@ -77,7 +77,7 @@ Almond orchards are increasingly used in combination with sheep grazing (silvopa
 
 The primary challenges in almond cultivation include spring frost damage during the critical bloom period, susceptibility to fungal diseases (particularly shot hole disease caused by *Wilsonomyces carpophilus*), and high water requirements during kernel fill.
 
-Major insect pests include the navel orangeworm (*Amyelois transitella*), the most damaging pest in California production, and various aphid and mite species. Integrated pest management combining pheromone mating disruption and biological control agents has reduced pesticide dependence in commercial orchards.
+Major insect pests include the navel orangeworm (*Amyelois transitella*), the most damaging pest in California production, and various aphid and mite species. [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management combining pheromone mating disruption and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents has reduced pesticide dependence in commercial orchards.
 
 Pollination dependency is a critical factor — most commercial varieties are self-incompatible and require cross-pollination from compatible varieties, necessitating placement of honeybee hives at densities of 2–3 hives per hectare during bloom.
 

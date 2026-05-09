@@ -1,5 +1,5 @@
 ---
-title: "Set and Setting Hypothesis: Origins and Extensions"
+title: "Set and metzner set and setting hypothesis origins and extensions: Origins and Extensions"
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 tags: [ralph-metzner, set-and-setting, timothy-leary, george-litwin,
   psychotherapy, psychedelics, hypnosis, meditation, drumming,
@@ -12,7 +12,7 @@ created: 2026-05-08
 The [[timothy-leary]],
 George Litwin, and [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]]
 [[metzner-non-drug-methods-consciousness-transformation]]
-metzner grof perinatal matrices and transpersonal consciousness
+metzner [[metzner-grof-perinatal-matrices-and-transpersonal-realms]] matrices and transpersonal consciousness
 [[set-and-setting]]
 [[william-james-multiple-forms-of-consciousness]]
 ## Background and Context
@@ -143,4 +143,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

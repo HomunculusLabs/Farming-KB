@@ -1,10 +1,11 @@
 ---
-title: "How Do I Raise Rabbits in a Permaculture System?"
+title: "How Do I query how do i raise rabbits in a permaculture system in a Permaculture System?"
 created: 2026-04-28
 tags: [query, permaculture, rabbits, livestock, integration]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: query
 ---
@@ -14,11 +15,11 @@ type: query
 ## Short Answer
 Rabbits are exceptionally well-suited to permaculture systems because they are quiet, space-efficient, and produce both high-quality meat and nutrient-dense manure that can be directly applied to gardens.
 Their manure is one of the few animal wastes that does not require composting before use, making it an immediate fertilizer source.
-Integrating rabbits with worm composting, garden rotation, and forage systems creates closed-loop nutrient cycles that exemplify permaculture principles.
+Integrating rabbits with worm composting, [[organic-vegetable-garden-rotation-deep-beds]], and forage systems creates closed-loop nutrient cycles that exemplify permaculture principles.
 
 ## Detailed Explanation
 
-Rabbits occupy a unique niche in permaculture design as one of the most efficient converters of forage to protein.
+Rabbits occupy a unique niche in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] as one of the most efficient converters of forage to protein.
 They require minimal space compared to other livestock, produce little noise that might disturb neighbors, and can be raised entirely on backyard forage with appropriate planning.
 A doe can produce four to six litters per year, with six to ten kits per litter, making them one of the most productive small meat animals available.
 The [[mollison-rabbits-in-permaculture-design-and-soil-preparation]] framework details how to calculate the number of rabbits needed to fertilize a given garden area.
@@ -31,7 +32,7 @@ The rabbits benefit from fresh forage and a varied diet, while the garden benefi
 
 Toby Hemenway's Gaia's Garden describes the rabbit-worm integration in detail, showing how a single hutch connected to a worm bin can fertilize an entire backyard garden.
 The [[hemenway-worm-bin-rabbit-integration]] approach takes this concept further by designing the worm bin as a multi-stage flow-through system.
-The nutrient-rich liquid that drains from the worm bin can be diluted and used as a liquid fertilizer for garden plants throughout the growing season.
+The nutrient-rich liquid that drains from the worm bin can be diluted and used as a [[jadam-liquid-fertilizer-nutritional-perspective]] for garden plants throughout the [[savory-growing-season-and-non-growing-season-management]].
 Together, the rabbit-worm-compost system creates a nearly closed nutrient loop that turns forage into meat, manure, compost, and liquid fertilizer.
 
 Feeding rabbits in a permaculture system ideally relies on homegrown forage rather than commercial pellets for true self-sufficiency.
@@ -56,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,4 +99,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

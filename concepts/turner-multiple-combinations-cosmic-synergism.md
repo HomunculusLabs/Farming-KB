@@ -1,5 +1,5 @@
 ---
-title: Turner Multiple Psychedelic Combinations (Cosmic Synergism)
+title: Turner Multiple Psychedelic Combinations (turner-essential-psychedelics-cosmic-synergism-combinations)
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-D.M. Turner's "Multiple Combinations" chapter documents his experiments combining three or more psychedelic substances simultaneously. These experiments explore synergistic effects that emerge from complex polypharmacological combinations. All combinations described were personally tested by Turner, who emphasizes exercising high degrees of caution, especially when MAO inhibitors are involved.
+D.M. Turner's "turner multiple combinations cosmic synergism" chapter documents his experiments combining three or more psychedelic substances simultaneously. These experiments explore synergistic effects that emerge from complex polypharmacological combinations. All combinations described were personally tested by Turner, who emphasizes exercising high degrees of caution, especially when MAO inhibitors are involved.
 
 ## Safety Considerations
 
@@ -20,7 +20,7 @@ D.M. Turner's "Multiple Combinations" chapter documents his experiments combinin
 - Some combinations may not have been tried by anyone else
 - These combinations can be very heavy, both physically and mentally
 - Those using multiple combinations typically exercise a high degree of caution
-- Special caution with MAO inhibitors (harmala alkaloids)
+- Special caution with MAO inhibitors ([[turner-harmala-alkaloids-preparation-and-dosage]])
 - See also: [[turner-ketamine-combinations-and-cydelikspace-navigation]]
 
 ## LSD + Ketamine + N,N-DMT
@@ -70,7 +70,7 @@ This six-substance combination was described as "absolutely beautiful":
 - After observing lizards and geological formations, closing eyes produced visions progressing through evolutionary time
 - Saw saber-toothed tigers, bear-like forest creatures, dinosaurs, and all manifestations the land had been through over millions of years
 - Experienced becoming the "One Mind" onto which all experiences of time had been etched
-- Later, at the salt flats under a full moon, administered ketamine at the lowest elevation in the United States
+- Later, at the salt flats under a full moon, administered ketamine at the lowest elevation in the [[dmt-containing-plants-united-states-halpern]]
 - Felt becoming part of the earth, penetrating to levels deep within the "mind" of planetary consciousness
 - Becoming part of the earth's spirit is frequently experienced on ketamine
 
@@ -101,7 +101,9 @@ This six-substance combination was described as "absolutely beautiful":
 - Significantly increased recollection of the ketamine domain compared to ketamine alone
 - Valuable for creating a "bridge" between normal reality and the ketamine experience
 
-## Related Topics
+## Related
+
+- [[turner-essential-psychedelics-cosmic-synergism-combinations]] Topics
 
 - [[psychedelic-combination-guide]] - General combination safety and guidance
 - [[turner-ketamine-combinations-and-cydelikspace-navigation]] - Ketamine-specific combinations

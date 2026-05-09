@@ -20,14 +20,14 @@ milligrams and effects lasting up to 30 hours, DOB represents one of the
 most extreme examples of potency and duration among psychedelic substances.
 
 Its extraordinary profile has made DOB both a valuable pharmacological
-research tool and a significant harm reduction concern. Small measurement
+research tool and a significant [[adverse-effects-and-harm-reduction-psilocybin]] concern. Small measurement
 errors can lead to dangerous overdoses, and the extreme duration demands a
 full day and a half commitment. These characteristics have led to DOB being
 described as a "heroic" compound requiring the highest level of preparation.
 
 Despite its challenges, DOB has been important in pharmacological research,
 particularly in studying 5-HT2A receptor function. Its potency and
-selectivity have made it a valuable reference compound in receptor binding
+selectivity have made it a valuable reference compound in [[tihkal-receptor-binding-serotonin]]
 assays.
 
 ## Chemical Structure and Classification
@@ -67,7 +67,7 @@ shifting, spatial perception alterations, and fully immersive hallucinations
 at higher doses. The visual intensity is among the most pronounced of any
 phenethylamine.
 
-Cognitive effects include deep philosophical introspection, ego dissolution,
+Cognitive effects include deep philosophical introspection, [[psilocybin-ego-dissolution-mechanisms]],
 and profound contemplation. The extended duration amplifies both positive and
 difficult psychological content. Physical effects include pronounced
 stimulation, elevated heart rate and blood pressure, pupil dilation, appetite

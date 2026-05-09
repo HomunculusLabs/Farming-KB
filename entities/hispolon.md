@@ -39,16 +39,16 @@ Hispolon is a potent anti-inflammatory agent:
 
 The catechol moiety of hispolon confers significant antioxidant capacity:
 - Scavenges DPPH and ABTS radicals with IC50 values comparable to ascorbic-acid
-- Inhibits lipid peroxidation in cell membrane models
-- Reduces intracellular ROS levels in oxidative stress models
+- Inhibits lipid peroxidation in [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] models
+- Reduces intracellular ROS levels in [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] models
 - Upregulates endogenous antioxidant enzymes (SOD, catalase, GPx) via Nrf2/ARE pathway activation
 
 ### Antimicrobial Activity
 
-Hispolon exhibits antimicrobial properties against:
+Hispolon exhibits [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] against:
 - Gram-positive bacteria: Staphylococcus aureus (including MRSA), Bacillus subtilis
 - Gram-negative bacteria: Escherichia coli, Pseudomonas aeruginosa (moderate)
-- Fungi: Candida albicans, Cryptococcus neoformans
+- Fungi: [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]]
 
 ### Neuroprotective Effects
 
@@ -69,7 +69,7 @@ Total synthesis of hispolon has been achieved through multiple routes. The most 
 
 Hispolon shows low toxicity in preclinical studies. The LD50 in mice exceeds 2000 mg/kg (oral), indicating a wide safety margin. No genotoxicity was observed in Ames test and micronucleus assays. Histopathological examination of major organs revealed no treatment-related changes at therapeutic doses.
 
-Subacute toxicity studies in rats at doses up to 500 mg/kg/day for 28 days showed no adverse effects on body weight, food consumption, hematology, clinical chemistry, or organ histopathology. No-observed-adverse-effect level (NOAEL) was established at the highest dose tested.
+Subacute toxicity studies in rats at doses up to 500 mg/kg/day for 28 days showed no [[blesching-cannabis-safety-adverse-effects-evidence]] on body weight, food consumption, hematology, clinical chemistry, or organ histopathology. No-observed-adverse-effect level (NOAEL) was established at the highest dose tested.
 
 ## Derivatives and Analogues
 

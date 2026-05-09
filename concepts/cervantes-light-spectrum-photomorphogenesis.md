@@ -1,5 +1,5 @@
 ---
-title: Light Spectrum and Photomorphogenesis
+title: cannabis-light-spectrum-and-color-bands and Photomorphogenesis
 created: 2026-04-26
 sources: Marijuana Horticulture (Cervantes)
 synonyms: PAR, photosynthetically active radiation, photoperiod, Kelvin temperature, light wavelength
@@ -23,8 +23,8 @@ PPFD is the standard metric for measuring light intensity in horticulture. It qu
 Different growth stages and lighting technologies have different optimal PPFD ranges:
 
 - **Clones and seedlings**: 100-300 µmol/m²/s. Young plants are easily stressed by excessive light and require gentle illumination until they develop sufficient leaf area and root systems.
-- **Vegetative growth**: 300-600 µmol/m²/s. Most cannabis cultivars thrive in this range during vegetative growth, with compact indica-dominant strains tolerating the higher end and stretch-prone sativas preferring the lower end.
-- **Flowering**: 600-1,500 µmol/m²/s. The flowering stage benefits from the highest light intensity the plants can tolerate without stress. Many commercial growers target 800-1,000 µmol/m²/s as a practical balance between yield and energy cost. Some elite cultivars grown under CO2 enrichment can utilize intensities up to 1,500 µmol/m²/s, but this requires careful management of temperature, humidity, and nutrients.
+- **[[cannabis-vegetative-growth-stage]]**: 300-600 µmol/m²/s. Most cannabis cultivars thrive in this range during vegetative growth, with compact indica-dominant strains tolerating the higher end and stretch-prone sativas preferring the lower end.
+- **Flowering**: 600-1,500 µmol/m²/s. The [[cannabis-flowering-stage-management]] benefits from the highest light intensity the plants can tolerate without stress. Many commercial growers target 800-1,000 µmol/m²/s as a practical balance between yield and energy cost. Some elite cultivars grown under CO2 enrichment can utilize intensities up to 1,500 µmol/m²/s, but this requires careful management of temperature, humidity, and nutrients.
 - **Light stress threshold**: Above approximately 1,500-2,000 µmol/m²/s, most cannabis cultivars exhibit signs of light stress, including leaf curling (canoeing), chlorosis (bleaching of upper canopy leaves), and reduced photosynthetic efficiency due to photoinhibition.
 
 ### DLI (Daily Light Integral)
@@ -43,7 +43,7 @@ DLI provides a useful framework for comparing lighting systems regardless of spe
 
 ### Strategies for Even Canopy Illumination
 
-Achieving uniform light distribution across the entire canopy is one of the most important and often overlooked aspects of grow room lighting. Light intensity decreases rapidly with distancescreen-of-greene (following the inverse square law), and the canopy of a mature cannabis plant is inherently uneven due to branching patterns, plant height variation, and bud development.
+Achieving uniform light distribution across the entire canopy is one of the most important and often overlooked aspects of [[cannabis-grow-room-setup]] lighting. Light intensity decreases rapidly with distancescreen-of-greene (following the inverse square law), and the canopy of a mature cannabis plant is inherently uneven due to branching patterns, plant height variation, and bud development.
 
 - **Canopy management**: [[mushroom-grow-room-design]], motorized light movers distribute light more evenly by continuously changing the angle and distance of illumination. This reduces hot spots directly under the fixture and improves light penetration to the outer edges of the growing area.
 - **Overlapping coverage**: When using multiple fixtures, positioning them so that their coverage areas overlap ensures more uniform intensity at the boundaries between fixtures. A rule of thumb is to space fixtures so that the PPFD at the point equidistant between two fixtures is at least 75% of the PPFD directly under either fixture.
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

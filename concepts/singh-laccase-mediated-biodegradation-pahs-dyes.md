@@ -12,12 +12,12 @@ sources: [raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 
 Updated: 2026-04-18
 
-Source: Harbhajan Singh, Mycoremediation: [[singh-ligninolytic-enzymes-fungal-bioremediation]], [[lignin-degradation-mechanisms-wood-rot-fungi]] among fungi. It catalyzes the one-electron oxidation of phenolic substrates to phenoxy radicals while reducing molecular oxygen to water. The enzyme contains four copper atoms at its active site. Without mediators, laccase has a limited redox potential that restricts it to phenolic substrates. With mediators, it can oxidize nonphenolic compounds with higher redox potentials.
+Source: Harbhajan Singh, Mycoremediation: [[singh-ligninolytic-enzymes-fungal-bioremediation]], lignin-degradation-mechanisms-wood-rot-fungi among fungi. It catalyzes the one-electron oxidation of phenolic substrates to phenoxy radicals while reducing molecular oxygen to water. The enzyme contains four copper atoms at its active site. Without mediators, laccase has a limited redox potential that restricts it to phenolic substrates. With mediators, it can oxidize nonphenolic compounds with higher redox potentials.
 
 ## Key Mediators
 
 ### HBT (1-hydroxybenzotriazole)
-- Most effective mediator for mycoremediation-of-pahs|PAH degradation
+- Most effective mediator for mycoremediation-of-pahs|[[fungal-pah-degradation-and-soil-bioremediation]]
 - Enables oxidation of nonphenolic mycoremediation-of-pahs|PAHs by laccase
 - Dramatic enhancement: from 3-37% to 91-100% degradation
 
@@ -81,11 +81,11 @@ These metabolites are generally less toxic and more water-soluble than parent my
 - Coriolopsis gallica: high laccase activity for dye treatment
 - Bjerkandera adusta: effective for recalcitrant dyes
 - Pycnoporus cinnabarinus: strong laccase production
-- Ganoderma lucidum: dye decolorization capability
+- [[stamets-reishi-ganoderma-lucidum-cultivation]]: dye decolorization capability
 
 ### Decolorization Mechanisms
 1. **Enzymatic degradation**: laccase oxidizes dye chromophores, breaking conjugated systems
-2. **Biosorption**: dye molecules adsorb to fungal biomass
+2. **Biosorption**: dye molecules adsorb to [[bioremediation-fungal-biomass-biosorbent-material]]
 3. **Synergistic action**: laccase + mediators + other enzymes (MnP, LiP)
 
 ### Factors Affecting Decolorization
@@ -99,7 +99,7 @@ These metabolites are generally less toxic and more water-soluble than parent my
 
 ## Wastewater Decolorization in Constructed Wetlands
 
-Constructed wetlands employing fungal communities have been investigated for wastewater treatment:
+Constructed wetlands employing [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] have been investigated for [[mollison-designers-wastewater-treatment-wetlands]]:
 - Surface constructed wetland cells receiving secondary-treated pulp mill effluent showed diverse microbial communities
 - Decolorization depends on decomposer communities including fungi
 - Passive, low-maintenance approach suitable for rural and remote applications
@@ -116,7 +116,7 @@ Constructed wetlands employing fungal communities have been investigated for was
 ### Industrial Applications
 - Textile effluent treatment (azo dye removal)
 - Pulp and paper industry (chlorophenol and colored compound removal)
-- Olive mill wastewater treatment
+- [[fungal-olive-mill-wastewater-treatment]] wastewater treatment
 - Pharmaceutical industry wastewater
 
 ### Enzyme Stability

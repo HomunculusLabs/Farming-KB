@@ -1,5 +1,5 @@
 ---
-title: Deep Relaxation And Mind Body Healing
+title: blesching-cannabis-deep-relaxation-healing And blesching-cannabis-mind-body-medicine Healing
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -53,12 +53,12 @@ Mindfulness meditation produced measurable increases in gray matter density in b
 ## Reprogramming Beliefs
 
 ### Placebo Without Deception
-**Kaptchuk et al. (2010)**: "Placebos without deception: A randomized controlled trial in irritable bowel syndrome." PLoS ONE.
+**Kaptchuk et al. (2010)**: "Placebos without deception: A randomized controlled trial in [[blesching-cannabis-irritable-bowel-syndrome]] syndrome." PLoS ONE.
 
 Patients given a placebo they knew was a placebo still experienced significant improvement in IBS symptoms. This challenges the assumption that placebo effects require deception and suggests that the ritual of treatment itself has healing power.
 
 ### Genomic Changes from Relaxation
-**Dusek et al. (2008)**: The relaxation response produces changes in the expression of genes involved in inflammation, stress response, and energy metabolism.
+**Dusek et al. (2008)**: The relaxation response produces changes in the expression of genes involved in inflammation, [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]], and energy metabolism.
 
 ## Releasing Suppressed Emotions
 

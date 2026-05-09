@@ -1,10 +1,11 @@
 ---
-title: "Chicken Keeping vs Quail Husbandry"
+title: "comparison-chicken-keeping-vs-beekeeping-basics vs comparison-quail-husbandry-vs-rabbit-husbandry"
 created: 2026-04-28
 tags: [comparison, livestock, poultry, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -27,7 +28,7 @@ production.
 Coturnix quail are the most space-efficient micro-livestock available. They
 reach maturity in just 6 weeks, begin laying at 7-8 weeks, and can be harvested
 for meat at 8-10 weeks. A single breeder cage (24x18 inches) houses a trio,
-requiring only 1 square foot per bird. Quail produce 250-320 eggs per hen per
+requiring only 1 [[comparison-biointensive-vs-square-foot-gardening]] per bird. Quail produce 250-320 eggs per hen per
 year, similar to chickens, but at a fraction of the feed cost with a feed
 conversion ratio of 2.5-3 lbs of feed per lb of gain. They are quiet enough for
 urban settings, often classified as game birds rather than poultry in local
@@ -38,7 +39,7 @@ oz at maturity), and Pharaoh and Golden for reliable egg laying. All varieties
 are the same species and interbreed freely, allowing for easy selective breeding
 programs. Housing systems range from individual breeder cages with slide-out
 droppings trays for controlled breeding and clean egg collection, to colony
-cages housing 4-6 birds, to floor-based aviary systems with deep litter. Cage
+cages housing 4-6 birds, to floor-based aviary systems with [[comparison-deep-litter-vs-hot-composting]]. Cage
 wire mesh must be 1/2 inch for floors and 1 inch for sides, as quail can squeeze
 through gaps that would contain chickens.
 
@@ -73,11 +74,11 @@ it more fiddly than processing chickens.
 ## When to Choose Chickens
 
 Chickens are the better choice when you have adequate outdoor space (even a
-modest backyard), want large eggs for everyday kitchen use, value insect control
+modest backyard), want large eggs for everyday kitchen use, value [[mushroom-pests-insect-control-stamets]]
 and compost production as secondary benefits, and want an engaging, personable
 flock animal. They excel in rural and suburban homesteads where zoning permits,
 and their ability to free-range significantly reduces feed costs during the
-growing season. Chickens also offer more breed variety for both eggs and meat,
+[[savory-growing-season-and-non-growing-season-management]]. Chickens also offer more breed variety for both eggs and meat,
 and their larger size makes processing more straightforward for those new to
 butchering. A flock of 6-12 hens provides enough eggs for a family with surplus
 to share or sell, and their manure is a cornerstone of garden fertility systems.

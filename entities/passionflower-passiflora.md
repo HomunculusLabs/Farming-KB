@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-**Passiflora incarnata**, commonly known as passionflower, maypop, or wild passion vine, is a perennial climbing vine native to the southeastern United States and parts of Central and South America. Renowned for its strikingly complex flowers and edible fruit, passionflower has been used for centuries as a mild sedative, anxiolytic, and antispasmodic remedy. Modern clinical research has substantiated many of its traditional uses, particularly for anxiety and sleep disorders, making it one of the most well-studied calming herbs in Western herbal medicine.
+**Passiflora incarnata**, commonly known as passionflower, maypop, or wild passion vine, is a perennial climbing vine native to the southeastern United States and parts of Central and South America. Renowned for its strikingly complex flowers and edible fruit, passionflower has been used for centuries as a mild sedative, anxiolytic, and antispasmodic remedy. Modern [[hofmann-lsd-clinical-research-early-studies]] has substantiated many of its traditional uses, particularly for anxiety and [[cannabis-sleep-disorders-and-insomnia]], making it one of the most well-studied calming herbs in Western herbal medicine.
 
 ## Taxonomy
 
@@ -36,7 +36,7 @@ sources:
 | Genus | *Passiflora* |
 | Species | *P. incarnata* |
 
-The genus *Passiflora* contains over 500 species of vines, predominantly tropical and subtropical. *P. incarnata* is one of the most cold-hardy members, extending into temperate North America.
+The genus *Passiflora* contains over 500 species of vines, predominantly tropical and subtropical. *P. incarnata* is one of the most cold-hardy members, extending into temperate [[psilocybin-north-america-pacific-northwest]].
 
 ## Botanical Description
 
@@ -104,7 +104,7 @@ The primary mechanism involves modulation of the GABA system:
 
 ## Ethnobotanical History
 
-- **Native American**: Cherokee used root poultices for wounds and earaches; leaves for liver problems
+- **[[halpern-sacramental-peyote-and-native-american-church]]**: Cherokee used root poultices for wounds and earaches; leaves for liver problems
 - **Appalachian folk medicine**: Tea as a "nervine" for anxiety, insomnia, and hysteria
 - **European pharmacopeia**: Listed in US Pharmacopeia 1916–1936; in British Herbal Pharmacopoeia
 - **South American**: Various *Passiflora* species used as sedatives and antispasmodics
@@ -127,9 +127,9 @@ Vines die back to ground in zones 5–7 and regrow from rootstock. Requires trel
 2. **Edible fruit**: Maypops eaten fresh or processed into preserves
 3. **Medicinal**: Aerial parts harvested for tea and tincture
 4. **Pollinator support**: Attracts carpenter bees, bumblebees, and butterflies
-5. **Erosion control**: Deep root system stabilizes slopes and banks
+5. **[[permplant-willows-salix-erosion-control-fodder]]**: Deep root system stabilizes slopes and banks
 6. **Wildlife habitat**: Dense vine thickets provide cover for birds and mammals
-7. **Companion planting**: Can grow on fruit tree trellises in food forests
+7. **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]**: Can grow on fruit tree trellises in food forests
 
 ## Dosage and Safety
 
@@ -139,7 +139,6 @@ Vines die back to ground in zones 5–7 and regrow from rootstock. Requires trel
 | Tincture (1:5) | 1–3 mL, 3× daily |
 | Standardized extract | 250–500 mg, 2–3× daily |
 
-**Precautions**: Well-tolerated with wide safety margin. Enhances effects of other CNS depressants. Avoid during pregnancy (historically used as abortifacient). Rare allergic contact dermatitis. Not for children under 6 without supervision.
 ## See Also
 
 - [[passiflora-incarnata]]

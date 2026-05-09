@@ -1,5 +1,5 @@
 ---
-title: "Solar Cooking vs Rocket Stove"
+title: "comparison-solar-cooking-vs-cob-oven vs comparison-rocket-stove-vs-masonry-heater"
 tags: [comparison, cooking, energy, homesteading, off-grid]
 date: 2026-05-08
 updated: 2026-05-08
@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Solar cookers and rocket stoves represent two fundamentally different approaches
+Solar cookers and [[rocket-stoves-and-efficient-wood-burning-design]] represent two fundamentally different approaches
 to off-grid cooking. Solar cooking harnesses sunlight directly, producing zero
 emissions and requiring no fuel at all. Rocket stoves burn small-diameter wood
 with exceptional efficiency through an insulated combustion chamber, achieving
@@ -34,7 +34,7 @@ season. They heat rapidly and can boil water in minutes, making them practical
 for everyday cooking. The fuel is small sticks and branches that do not require
 splitting, which can often be gathered from the property rather than purchased.
 Beyond cooking, rocket stoves can heat water, support canning operations during
-power outages, and the same combustion principle scales up to rocket mass
+power outages, and the same combustion principle scales up to [[query-what-is-a-rocket-mass-heater-and-how-does-it-work]]
 heaters for whole-home space heating.
 
 The main drawback is the need for wood fuel, which requires either on-site
@@ -68,7 +68,7 @@ fuelwood is scarce or expensive. It excels during summer months when the long
 days and high sun angle provide ample energy. If you have the space to leave a
 cooker set up and can plan meals around sunny weather, solar cooking
 dramatically reduces fuel costs and eliminates smoke pollution entirely. It is
-also ideal for emergency preparedness kits because panel cookers are
+also ideal for [[emergency-preparedness]] kits because panel cookers are
 lightweight, portable, and require no fuel storage.
 
 Solar cooking pairs well with retained-heat cooking methods like haybox
@@ -105,4 +105,4 @@ while a solar cooker provides backup capability during fuel shortages.
 
 - [[comparison-solar-cooking-vs-solar-dehydrating]]
 - [[comparison-rocket-stove-vs-masonry-heater]]
-- [[faires-low-energy-cooking-methods]]
+- faires-low-energy-cooking-methods

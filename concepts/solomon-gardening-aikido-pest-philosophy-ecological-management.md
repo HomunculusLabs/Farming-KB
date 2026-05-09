@@ -3,7 +3,7 @@
 
 ## Overview
 
-Steve Solomon introduces the concept of "gardening aikido" as a philosophical framework for approaching pest and disease management in vegetable gardens. Drawing an explicit analogy with the martial art's principle of using an opponent's energy against them rather than meeting force with force, Solomon argues that the gardener's mindset about insects and diseases matters far more than any specific control technique. This philosophy stands in direct opposition to what he calls the "American Sanitary System" (ASS) — the widespread cultural expectation that food must be visually perfect and entirely free of insect damage.
+Steve Solomon introduces the concept of "gardening aikido" as a philosophical framework for approaching pest and [[plant-disease-management-solomon]] in vegetable gardens. Drawing an explicit analogy with the martial art's principle of using an opponent's energy against them rather than meeting force with force, Solomon argues that the gardener's mindset about [[solomon-insects-and-diseases-integrated-approach]] matters far more than any specific control technique. This philosophy stands in direct opposition to what he calls the "American Sanitary System" (ASS) — the widespread cultural expectation that food must be visually perfect and entirely free of insect damage.
 
 ## The Core Philosophy
 
@@ -13,7 +13,7 @@ Solomon's first and most provocative principle is that gardeners should dramatic
 
 - A vigorously growing plant can lose 5% or more of its leaf area to insects without any measurable reduction in yield
 - Aphid populations covering less than 5% of total leaf area are not worth treating
-- Occasional insect holes in leaves, scars on fruit skins, and minor blemishes do not affect nutritional quality or taste
+- Occasional insect holes in leaves, scars on fruit skins, and minor blemishes do not affect [[coleman-winter-greens-nutritional-quality-cold-sweetening]] or taste
 - The presence of some insects in the garden is actually a sign of ecological health, not a problem to be solved
 
 This attitude shift is fundamental because it changes the gardener's response from "kill everything" to "assess whether intervention is actually needed." Most gardeners, Solomon argues, waste enormous time, money, and ecological damage fighting insects that would have negligible impact on their harvest.
@@ -51,7 +51,7 @@ Solomon proposes a clear decision hierarchy when encountering pest or disease pr
 3. **Sow again as insurance** — Plant a second succession while the first planting either recovers or fails
 4. **Use physical barriers** — Spun-fabric row covers (Reemay, Agribon) exclude flying insects without any sprays
 5. **Hand removal** — For larger pests (caterpillars, beetles), handpicking is effective in small gardens
-6. **Use the least-toxic option** — Insecticidal soap, Bt (Bacillus thuringiensis), neem spray
+6. **Use the least-toxic option** — Insecticidal soap, Bt ([[cervantes-bacillus-thuringiensis-bt-control]]), neem spray
 7. **Accept the loss** — Some years are just difficult years; some species are not suited to your soil or climate
 
 ### Spun-Fabric Row Covers
@@ -60,7 +60,7 @@ Solomon particularly endorses spun-bonded polyester row covers as the most effec
 
 - Available in brands including Reemay, Agribon, and similar products
 - Typically 5-6 feet (1.5-1.8 m) wide, sold in various lengths
-- Provide 2-4°F (1-2°C) of frost protection, accelerating spring growth
+- Provide 2-4°F (1-2°C) of [[holzer-frost-protection-techniques]], accelerating spring growth
 - Completely exclude flying insect pests when all edges are sealed with soil or staples
 - Allow light and water through (though some light reduction occurs — Reemay reduces light by about 25%)
 - Almost weightless — plants lift the fabric as they grow, no support structure needed
@@ -74,7 +74,7 @@ For brassica crops (cabbage, broccoli, kale, cauliflower), Bt is Solomon's recom
 
 - Marketed as Dipel and other brand names
 - Lethal only to caterpillars of the Lepidoptera family (cabbageworms, loopers, cabbage moth larvae)
-- Safe for humans, bees, most beneficial insects, and can be sprayed the day of harvest
+- Safe for humans, bees, most [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], and can be sprayed the day of harvest
 - Remains active on leaves for about one week before degrading
 - Add a small amount of dishwashing liquid (1/4 teaspoon per quart) as a sticker/spreader
 - Spray undersides of leaves as thoroughly as tops, since most eggs are laid on undersides

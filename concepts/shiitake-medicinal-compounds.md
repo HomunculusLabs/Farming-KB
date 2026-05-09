@@ -12,7 +12,7 @@ Lentinus edodes, the **shiitake mushroom**, is indigenous to Japan, China, and o
 
 ## Lentinan
 
-**Lentinan** is a highly purified, high molecular weight polysaccharide extracted from fruiting bodies or mycelium. It is a cell wall constituent in a **triple helix structure** containing only glucose molecules with mostly beta-(1,3)-glucose linkages in the regularly branched backbone and beta-(1,6)-glucose side chains. The helical configuration is thought to be important for biological activity.
+**Lentinan** is a highly purified, high molecular weight polysaccharide extracted from fruiting bodies or mycelium. It is a [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] constituent in a **triple helix structure** containing only glucose molecules with mostly beta-(1,3)-glucose linkages in the regularly branched backbone and beta-(1,6)-glucose side chains. The helical configuration is thought to be important for biological activity.
 
 Lentinan is protein-free (devoid of nitrogen, phosphorous, or sulphur), water-soluble, heat stable, acid stable, and alkali labile. First isolated by Chihara et al. (1970), it was demonstrated to have anti-tumour effects greater than other mushroom polysaccharides and was active for some, but not all, types of tumours (Maeda et al., 1974). The purified polysaccharide has been shown in numerous xenografts to cause tumour regression and in some cases even a complete response.
 
@@ -32,14 +32,14 @@ It also stimulates acute phase proteins, colony stimulating factors (affecting p
 ### Receptor Binding
 
 Like other fungal [[sarcoma-180-antitumour-assay]], lentinan showed remarkable results:
-- 78.1% tumour inhibition at low dose with 6/10 complete regressions
+- 78.1% tumour inhibition at [[ultra-low-dose-brassinosteroid-response-psilocybe-cubensis]] with 6/10 complete regressions
 - 100% tumour inhibition at optimal dose with 10/10 complete regressions
 - 94.2% metastasis inhibition in DBA/2.MC.CS-T model
 - Prevention of oncogenesis: tumour incidence reduced from 83% to 31% and 78% to 37%
 
 ### Clinical Trials
 
-Lentinan is approved for clinical use in Japan and manufactured by several pharmaceutical companies. It has proved successful in prolonging overall survival of cancer patients, especially those with **gastric and colorectal carcinoma** (Furue et al., 1981; Taguchi et al., 1985a,b). In patients with inoperable or recurrent gastric cancer, tumour responses and prolonged median survival were also noted.
+Lentinan is approved for clinical use in Japan and manufactured by several pharmaceutical companies. It has proved successful in prolonging overall survival of cancer patients, especially those with **gastric and colorectal carcinoma** (Furue et al., 1981; Taguchi et al., 1985a,b). In patients with inoperable or recurrent [[lentinan-gastric-cancer-combination-therapy]], tumour responses and prolonged median survival were also noted.
 
 The pivotal randomised controlled study compared tegafur alone (n=68) versus Lentinan plus tegafur (n=77) in 145 patients. The 50% survival time nearly doubled: 92 days (tegafur alone) versus 173 days (Lentinan plus tegafur). Sub-group analysis by tumour extension, histology, and Borrman classification showed that Lentinan significantly prolonged 50% survival across each prognostic factor. Overall survival advantages: 19.5% survived more than one year, 10.4% more than two years, and 6.5% more than three years with combined therapy. The response rate was 14.9% for Lentinan group versus 2.0% for controls (Japan Society for Cancer Therapy criteria).
 
@@ -58,9 +58,9 @@ Increasing examples demonstrate synergy between shiitake-derived compounds and c
 
 ## Related
 
-- [[medicinal-mushroom-immune-modulation]] -- broader immune modulation mechanisms
+- [[medicinal-mushroom-immune-modulation]] -- broader [[cancer-immune-modulation-mechanisms]] mechanisms
 - [[functional-foods-medicinal-mushrooms]] -- dietary supplement context
-- [[mushroom-cytokine-production-immune-activation]]
+- mushroom-cytokine-production-immune-activation
 ## Practical Considerations
 
 Successful implementation of Shiitake Medicinal Compounds requires attention to
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

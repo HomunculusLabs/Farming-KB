@@ -1,5 +1,5 @@
 ---
-title: McKenna on Monotheism and Pathological Religion
+title: McKenna on mckenna monotheism and pathological religion Religion
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -30,7 +30,7 @@ Sadly, the Western tradition has suffered a long, sustained break with the socio
 
 The global triumph of Western values means we, as a species, have wandered into a state of prolonged neurosis because of the absence of a connection to the unconscious. Gaining access to the unconscious through plant hallucinogen use reaffirms our original bond to the living planet.
 
-Our estrangement from nature and the unconscious became entrenched roughly two thousand years ago, during the shift from the Age of the Great God Pan to that of Pisces that occurred with the suppression of the pagan mysteries and the rise of Christianity. The psychological shift that ensued left European civilization staring into two millennia of religious mania and persecution, warfare, materialism, and rationalism.
+Our estrangement from nature and the unconscious became entrenched roughly two thousand years ago, during the shift from the Age of the Great God Pan to that of Pisces that occurred with the suppression of the pagan mysteries and the rise of Christianity. The psychological shift that ensued left [[fukuoka-european-civilization-standstill]] staring into two millennia of religious mania and persecution, warfare, materialism, and rationalism.
 
 ## Shamanism as Authentic Religion
 
@@ -40,9 +40,9 @@ Wasson's view, which McKenna shares, is precisely the opposite: the presence of 
 
 ## Psychedelics as Feminizing Agents
 
-The natural psychedelic compounds acted as feminizing agents that tempered and civilized the egocentric values of the solitary hunter-individual with the feminine concerns for child-rearing and group survival. The prolonged and repeated exposure to the psychedelic experience, the Wholly Other rupture of the mundane plane caused by the hallucinogenic ritual ecstasy, acted steadily to dissolve that portion of the psyche which we moderns call the ego.
+The natural psychedelic compounds acted as feminizing agents that tempered and civilized the egocentric values of the solitary hunter-individual with the feminine concerns for child-rearing and group survival. The prolonged and repeated exposure to the [[leary-psychedelic-experience-bardo-mapping]], the Wholly Other rupture of the mundane plane caused by the hallucinogenic ritual ecstasy, acted steadily to dissolve that portion of the psyche which we moderns call the ego.
 
-Wherever and whenever the ego function began to form, it was akin to a calcareous tumor or a blockage in the energy of the psyche. The use of psychedelic plants in a context of shamanic initiation dissolved — as it dissolves today — the knotted structure of the ego into undifferentiated feeling, what Eastern philosophy calls the Tao.
+Wherever and whenever the ego function began to form, it was akin to a calcareous tumor or a blockage in the energy of the psyche. The use of psychedelic plants in a context of shamanic initiation dissolved — as it dissolves today — the knotted structure of the ego into undifferentiated feeling, what [[fukuoka-western-eastern-philosophy-agriculture]] calls the Tao.
 
 ## Dominator and Partnership Societies
 
@@ -62,7 +62,7 @@ McKenna also linked monotheism to the mind-body dualism that has characterized W
 
 ## Alternatives and the Archaic Revival
 
-McKenna did not advocate a return to prehistoric conditions but rather what he called an "Archaic Revival" — the recovery of the values and practices of partnership society within the context of modern civilization. This revival would include the reintegration of psychoactive plants into religious and therapeutic practice, the restoration of the feminine principle in both religion and social organization, and the development of a new ecological consciousness grounded in the recognition of human embeddedness in the natural world.
+McKenna did not advocate a return to prehistoric conditions but rather what he called an "Archaic Revival" — the recovery of the values and practices of [[mckenna-dominator-vs-partnership-society-model]] within the context of modern civilization. This revival would include the reintegration of psychoactive plants into religious and therapeutic practice, the restoration of the feminine principle in both religion and social organization, and the development of a new ecological consciousness grounded in the recognition of human embeddedness in the natural world.
 
 The Eastern religious traditions — particularly Hinduism, Buddhism, and Taoism — offered, in McKenna's view, important models for this revival. Unlike Western monotheism, these traditions preserve techniques of ecstasy (including, in some cases, the ritual use of psychoactive plants), maintain a sense of the divine as immanent rather than transcendent, and emphasize the interconnection of all beings rather than the authority of a single deity.
 
@@ -82,7 +82,7 @@ The suppression of Goddess worship and the rise of male sky-god monotheism thus 
 
 ## Wasson, Eliade, and the Origins Debate
 
-The scholarly debate over the origins of religion in psychoactive plant use centers on the disagreement between R. Gordon Wasson, who argued that hallucinogenic mushrooms were the original religious sacrament, and Mircea Eliade, who considered "narcotic" shamanism a late and decadent development. McKenna firmly sided with Wasson, arguing that Eliade's position reflected a bias toward textual and doctrinal religion — precisely the kind of religion that arises when direct experience has been lost.
+The scholarly debate over the origins of religion in psychoactive plant use centers on the disagreement between R. Gordon Wasson, who argued that [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] were the original religious sacrament, and Mircea Eliade, who considered "narcotic" shamanism a late and decadent development. McKenna firmly sided with Wasson, arguing that Eliade's position reflected a bias toward textual and doctrinal religion — precisely the kind of religion that arises when direct experience has been lost.
 
 The Wasson-Eliade debate has broader implications for the understanding of religious evolution. If Wasson is correct, then all of the world's religions are, at their root, responses to the same type of psychoactive experience — an experience that has been progressively diluted, symbolized, and institutionalized as access to the original sacrament has been lost. This reading suggests that the common core of the world's religions is not a set of theological propositions but a type of experience — one that psychedelic plants can reliably reproduce.
 

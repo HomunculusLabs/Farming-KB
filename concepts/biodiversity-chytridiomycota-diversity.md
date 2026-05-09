@@ -14,7 +14,7 @@ The Chytridiomycota comprises approximately 800 described
 species of zoosporic fungi, defined traditionally by the
 presence of a single posteriorly inserted smooth flagellum
 (Barr 2001). As the only fungi that retain a flagellated
-stage in their life cycles, chytrids represent the most
+stage in their [[bloomfield-rust-fungi-life-cycles-barberry-wheat]], chytrids represent the most
 basal lineage of the Kingdom Fungi, consistent with a
 choanoflagellate-like ancestor. At the time molecular methods
 came into use, some mycologists doubted that chytrids were
@@ -72,7 +72,7 @@ chytrids with unique zoospore types are included in
 phylogenetic analyses. Some chytrids with unique zoospore
 morphologies have not been classified in previously existing
 orders. Notably, Batrachochytrium dendrobatidis, the chytrid
-pathogen associated with global amphibian decline, does not
+pathogen associated with global [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]], does not
 fall within any of the groups defined on the basis of DNA
 characters. This finding underscores how little is known
 about chytrid diversity and the need for comprehensive
@@ -100,7 +100,7 @@ Chytrids occupy diverse ecological niches:
 - **Plant parasites**: Some chytrids parasitize aquatic plants
   and terrestrial plant roots.
 - **Soil fungi**: Various chytrids occur in soil, contributing
-  to nutrient cycling and decomposition processes.
+  to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and decomposition processes.
 - **Gut symbionts**: The Neocallimastigales are obligate
   anaerobes in herbivore digestive tracts.
 
@@ -111,9 +111,9 @@ Their microscopic size, aquatic habitat requirements, and
 lack of conspicuous fruiting structures mean they are
 routinely overlooked in standard fungal inventories. Special
 techniques, including baiting with substrata such as pollen,
-  chitin, or cellulose, and direct microscopic examination
+  chitin, or cellulose, and direct [[fungal-microscopic-examination-mounting-media-techniques]]
   of water samples and soil extracts, are required for
-  detection. See [[biodiversity-fungi-molecular-methods]] for discussion
+  detection. See biodiversity-fungi-molecular-methods for discussion
   of sampling approaches.
 
 ## Key Conclusions
@@ -131,5 +131,8 @@ techniques, including baiting with substrata such as pollen,
 ## See Also
 
 - [[biodiversity-ascomycete-diversity-taxonomy]]
-- [[fungal-diversity-extreme-environments]]
-- [[biodiversity-fungi-molecular-methods]]
+- fungal-diversity-extreme-environments
+- biodiversity-fungi-molecular-methods
+- [[decomposition]]
+- [[zoosporic-fungi]]
+- [[batrachochytrium-dendrobatidis]]

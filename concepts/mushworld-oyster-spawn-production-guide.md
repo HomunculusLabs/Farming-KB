@@ -1,5 +1,5 @@
 ---
-title: MushWorld Oyster Spawn Production Guide
+title: MushWorld Oyster growing-gourmet-sawdust-spawn-production-use Guide
 tags:
   - mushroom-cultivation
   - oyster-mushroom
@@ -18,11 +18,11 @@ type: concept
 
 # MushWorld Oyster Spawn Production Guide
 
-A comprehensive guide to producing oyster mushroom (Pleurotus spp.) spawn from agar culture through grain spawn, as described in the MushWorld Mushroom Growers' Handbook 1. Spawn is to mushroom what seed is to crop, and its quality is one of the most decisive factors for successful cultivation.
+A comprehensive guide to producing [[cotter-oyster-mushroom-cultivation]] (Pleurotus spp.) spawn from agar culture through [[comparison-grain-spawn-vs-grain-to-grain-transfer]], as described in the MushWorld Mushroom Growers' Handbook 1. Spawn is to mushroom what seed is to crop, and its quality is one of the most decisive factors for successful cultivation.
 
 ## Overview of Spawn Types
 
-Mushroom spawn comes in several forms, each suited to different scales of production:
+[[cuthill-mushroom-spawn-preparation-historical]] comes in several forms, each suited to different scales of production:
 
 - **Grain spawn**: Mycelium grown on sterilized grains such as rye, sorghum, or millet. Most commonly used for commercial production. Easy to distribute through substrate.
 - **Sawdust spawn**: Mycelium on sterilized sawdust, typically used for [[oyster-mushroom]]
@@ -105,4 +105,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

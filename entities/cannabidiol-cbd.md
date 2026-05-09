@@ -11,12 +11,12 @@ type: entity
 # Cannabidiol (CBD)
 
 **Type:** Chemical / Phytocannabinoid
-**Category:** Major cannabis cannabinoid
+**Category:** Major [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]
 **Also known as:** CBD, cannabidiol
 
 ## Overview
 Cannabidiol (CBD) is a non-psychoactive phytocannabinoid found in
-Cannabis sativa and Cannabis indica. It is the second most abundant
+[[comparison-cannabis-sativa-vs-cannabis-indica]] and Cannabis indica. It is the second most abundant
 cannabinoid in cannabis after THC and has emerged as one of the most
 promising therapeutic compounds in medical cannabis research. Unlike THC,
 CBD does not produce a "high" but instead modulates the effects of THC
@@ -34,7 +34,7 @@ and interacts with multiple biological pathways.
 
 ### Mechanism of Action
 CBD's therapeutic influence largely stems from its ability to suppress
-fatty acid amide hydrolase (FAAH), the enzyme that breaks down
+fatty [[lysergic-acid-amide-containing-plants-halpern]] hydrolase (FAAH), the enzyme that breaks down
 anandamide. By inhibiting FAAH, CBD keeps endogenous anandamide active
 at higher concentrations and for longer duration. CBD also engages
 serotonin receptors (particularly 5-HT1A) to achieve calming effects on
@@ -52,7 +52,7 @@ properties at higher concentrations.
   antidepressant effects. Reduces symptoms of acute paranoid
   schizophrenia comparably to Amisulpride but without significant side
   effects. Calms autonomic stress responses including rapid heart rate.
-- **Anti-inflammatory:** Clear therapeutic impact on inflammatory bowel
+- **Anti-inflammatory:** Clear therapeutic impact on [[blesching-cannabis-inflammatory-bowel-disease]]
   disease, arthritis, periodontitis, and atherosclerosis.
 - **Anti-cancer:** Produces significant anti-tumor activity both in
   vitro and in vivo. Selectively produces apoptosis in cancer cells.
@@ -73,7 +73,7 @@ properties at higher concentrations.
 
 ## Relevance
 CBD represents the most therapeutically versatile phytocannabinoid
-discovered to date. Its non-psychoactive nature makes it accessible for
+discovered to date. Its non-psychoactive [[coleman-first-rule-nature-makes-sense]] it accessible for
 patients who cannot tolerate THC's mind-altering effects. The 2018
 discovery of CBD's anti-seizure properties (leading to FDA-approved
 Epidiolex) marked a watershed moment in cannabis-based medicine. CBD's
@@ -83,6 +83,8 @@ applications. Its role as an FAAH inhibitor positions it as a key
 modulator of the body's own bliss molecule, anandamide.
 
 ## See Also
+
+- [[win55212-2]]
 - [[anandamide-aea]]
 - [[cannabichromene-cbc]]
 - [[e-beta-caryophyllene-bcp]]

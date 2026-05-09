@@ -25,7 +25,7 @@ accordingly.
 Zone 5 provides habitat for the full range of native species. Key habitat
 elements include:
 - Dead standing trees (snags) for cavity-nesting birds and mammals
-- Fallen logs and woody debris for invertebrates, fungi, and small mammals
+- Fallen logs and [[fungal-succession-woody-debris-ecology]] for invertebrates, fungi, and small mammals
 - Diverse vegetation structure from ground layer to canopy
 - Permanent water sources (streams, ponds, wetlands)
 - Rock outcrops and cliffs for raptor nesting and reptile habitat
@@ -35,8 +35,8 @@ elements include:
 Mollison notes that many beneficial species (insect predators, pollinators,
 songbirds) breed in Zone 5 and disperse into managed zones, providing free
 ecological services. This "spillover effect" is one of the most important
-reasons to maintain Zone 5. See [[food-forest-design]], [[mollison-pattern-understanding]] for how
-natural observation translates to design principles.
+reasons to maintain Zone 5. See [[food-forest-design]], mollison-pattern-understanding for how
+natural observation translates to [[holmgren-permaculture-twelve-design-principles-framework]].
 
 ## Legal and Social Considerations
 
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,5 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[mollison-designers-climate-zone-1-intensive-garden]]

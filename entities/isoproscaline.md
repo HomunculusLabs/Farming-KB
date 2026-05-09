@@ -51,7 +51,7 @@ The compound exists as a free base or as a crystalline hydrochloride salt. The h
 
 Isoproscaline acts primarily as a serotonin 5-HT₂A receptor agonist, the mechanism shared by most classical psychedelic phenethylamines and tryptamines. The 5-HT₂A receptor activation in cortical layer V pyramidal neurons is responsible for the characteristic psychedelic effects.
 
-The compound likely exhibits partial agonist activity at 5-HT₂A, similar to mescaline and other members of the phenethylamine class. Its binding affinity is expected to be moderate, though formal receptor binding data is limited in the published literature.
+The compound likely exhibits partial agonist activity at 5-HT₂A, similar to mescaline and other members of the phenethylamine class. Its binding affinity is expected to be moderate, though formal [[tihkal-receptor-binding-serotonin]] data is limited in the published literature.
 
 Additional serotonergic activity at 5-HT₂C receptors may contribute to the anxiety, stimulation, and nausea sometimes reported with mescaline-type compounds. Activity at trace amine-associated receptor 1 (TAAR1) is also possible but unstudied for this specific compound.
 
@@ -73,11 +73,11 @@ Isoproscaline is synthesized from 3,5-dimethoxy-4-hydroxybenzaldehyde (syringald
 
 The resulting 3,5-dimethoxy-4-isopropoxybenzaldehyde undergoes a Henry reaction (nitroaldol condensation) with nitromethane to form the corresponding β-nitrostyrene intermediate. Reduction of the nitrostyrene to the phenethylamine is typically accomplished using lithium aluminum hydride (LiAlH₄).
 
-The free base is converted to the hydrochloride salt for purification and stabilization. Shulgin's original synthesis route is described in detail in PIHKAL. The compound requires careful handling due to its psychoactive potency.
+The free base is converted to the hydrochloride salt for purification and stabilization. Shulgin's original [[four-hydroxyindole-psilocin-synthesis-route-shirota]] is described in detail in PIHKAL. The compound requires careful handling due to its psychoactive potency.
 
 ## Dosage and Harm Reduction
 
-Effective dose range for isoproscaline is 20–40 mg orally. Shulgin reported threshold effects at approximately 15 mg. A moderate dose of 25–30 mg provides a full psychedelic experience for most individuals.
+Effective dose range for isoproscaline is 20–40 mg orally. Shulgin reported threshold effects at approximately 15 mg. A moderate dose of 25–30 mg provides a full [[leary-psychedelic-experience-bardo-mapping]] for most individuals.
 
 The extended duration (10–14 hours) means users should plan for a full day and night experience. Driving or operating machinery is dangerous during and for at least 12 hours after dosing. A trip sitter is strongly recommended for first-time users.
 
@@ -85,15 +85,15 @@ As with all phenethylamines, individuals with cardiovascular conditions, schizop
 
 ## Legal Status
 
-Isoproscaline is unscheduled in most jurisdictions but may fall under analogue acts in countries with comprehensive drug scheduling frameworks. In the United States, the Federal Analogue Act potentially applies, though prosecution specifically for isoproscaline is unrecorded.
+Isoproscaline is unscheduled in most jurisdictions but may fall under analogue acts in countries with comprehensive drug scheduling frameworks. In the [[dmt-containing-plants-united-states-halpern]], the Federal Analogue Act potentially applies, though prosecution specifically for isoproscaline is unrecorded.
 
-In the United Kingdom, the Psychoactive Substances Act 2016 may encompass isoproscaline as a psychoactive substance. In Germany, the NpSG (New Psychoactive Substances Act) may apply to unlisted phenethylamine derivatives.
+In the United Kingdom, the Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016 may encompass isoproscaline as a psychoactive substance. In Germany, the NpSG (New Psychoactive Substances Act) may apply to unlisted phenethylamine derivatives.
 
 The compound is controlled by name in few countries due to its rarity. Legal status should be verified for each jurisdiction as regulations evolve with emerging psychoactive substances.
 
 ## Related Compounds
 
-**Proscaline** (3,5-dimethoxy-4-ethoxyphenethylamine) is the closest structural analog, differing only in the 4-position alkoxy chain length (ethoxy vs. isopropoxy). Proscaline has a similar dose range and slightly shorter duration.
+**Proscaline** (3,5-dimethoxy-4-ethoxyphenethylamine) is the closest structural analog, differing only in the 4-position alkoxy [[phenethylamine-chain-length-effects]] (ethoxy vs. isopropoxy). Proscaline has a similar dose range and slightly shorter duration.
 
 **Mescaline** (3,4,5-trimethoxyphenethylamine) is the parent compound of this series, with all three positions substituted by methoxy groups. Mescaline is significantly less potent (200–400 mg dose) with a shorter duration (6–10 hours).
 
@@ -109,4 +109,4 @@ The compound is controlled by name in few countries due to its rarity. Legal sta
 - [[lophophora-williamsii]]
 - [[echinopsis-bridgesii]]
 - [[muscimol-entity]]
-- [[ibotenic-acid-entity]]
+- ibotenic-acid-entity

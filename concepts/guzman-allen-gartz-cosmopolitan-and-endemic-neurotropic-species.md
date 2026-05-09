@@ -1,5 +1,5 @@
 ---
-title: Cosmopolitan and Endemic Neurotropic Species
+title: Cosmopolitan and guzman allen gartz cosmopolitan and endemic neurotropic species Species
 created: 2026-04-28
 tags:
   - biogeography
@@ -16,7 +16,7 @@ type: concept
 
 # Cosmopolitan and Endemic Neurotropic Species
 
-The distribution of neurotropic fungi spans the full range of biogeographic
+The [[global-distribution-of-neurotropic-fungi]] fungi spans the full range of biogeographic
 patterns, from truly cosmopolitan species to highly localized endemics.
 Guzmán, Allen and Gartz (1998/2000) applied Hongo's (1978) nine types of
 fungal distribution to the neurotropic fungi, revealing patterns that
@@ -35,7 +35,7 @@ others.
 
 ## Cosmopolitan Species
 
-Panaeolina foenisecii and almost all Panaeolus species are cosmopolitan.
+[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]] and almost all Panaeolus species are cosmopolitan.
 P. foenisecii is common worldwide but poorly documented in some regions; it
 is not recorded from Central America and the Caribbean, and in Japan was
 reported only by Hongo (1986) despite being very common there. Claviceps
@@ -47,11 +47,11 @@ grasses, respectively).
 ## Northern Hemisphere Species
 
 [[psilocybe-pelliculosa-entity]], and P. silvatica
-are characteristic northern hemisphere species. Amanita muscaria grows in
+are characteristic northern hemisphere species. [[allegro-amanita-muscaria-properties-and-pharmacology]] grows in
 mycorrhizal association with Pinus and Betula in northern forests, and has
 been introduced to pine plantations in tropical regions including Brazil,
 Colombia, Tanzania, Australia, and New Zealand. This introduction pattern
-demonstrates how human forestry practices can extend natural distribution
+demonstrates how human [[mycelium-running-forestry-practices-and-mushrooms]] can extend natural distribution
 ranges of [[psilocybe-cubensis]], P. subcubensis, and Copelandia spp. are primarily
 tropical and subtropical, with some exceptions. C. cyanescens sometimes
 grows in disturbed zones of temperate regions. The tropical concentration
@@ -73,7 +73,7 @@ to cold, maritime environments.
 ## Endemic Species: Geographic Concentrations
 
 Endemic neurotropic species are concentrated in specific regions. Mexico
-has the highest number of endemics, including Conocybe siligineoides,
+has the highest number of endemics, including [[guzman-conocybe-siligineoides-lost-sacred-mushroom-oaxaca-never-recollected]],
 Hypholoma naematoliformis, Psilocybe muliercula, P. chiapanensis, and P.
 laurae. Colombia has P. columbiana, P. guatapensis, and P. pintonii. Brazil
 has P. brasiliensis and P. paulensis. Spain has P. hispanica, Central Europe
@@ -110,5 +110,9 @@ proposed that P. cubensis was introduced to the Americas through the slave
 trade during the Spanish colonial period. This hypothesis explains the
 species' distribution pattern and its absence from Europe despite the
 availability of suitable substrates. See
-[[neurotropic-fungi-in-south-america]]
+neurotropic-fungi-in-south-america
 for more on this distribution.
+
+## See Also
+
+- [[inocybe-aeruginascens-and-neurotropic-inocybe-species]]

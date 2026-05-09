@@ -1,10 +1,10 @@
 ---
-title: Farming for Kings and Clergy - European Agriculture Critique
+title: fukuoka road farming for kings and clergy and Clergy - fukuoka-european-agriculture-observations Critique
 created: 2026-04-28
 tags: [europe, agriculture, history, critique, civilization]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources: []
 type: concept
 ---
 
@@ -81,9 +81,13 @@ Fukuoka's analysis of European agriculture reveals his core
 method: tracing the visible symptoms of ecological decline
 -- depleted soil, few trees, limited vegetation -- back to
 their root causes in human desire, institutional power, and
-philosophical errors. European civilization's beauty, he
+philosophical errors. [[fukuoka-european-civilization-standstill]]'s beauty, he
 argues, masks a deeper impoverishment that began when
 agriculture was directed toward serving the desires of
 kings and clergy rather than the needs of the land itself.
 See also [[fukuoka-european-agriculture-observations]], and [[fukuoka-road-flowers-and-beauty]]
 - [[fukuoka-road-weapons-for-defense]]
+
+## See Also
+
+- [[molecular-bonds-and-chemistry-for-gardeners]]

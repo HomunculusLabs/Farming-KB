@@ -55,7 +55,7 @@ ratios to target specific cannabinoid profiles.
   acidic form, but its decarboxylated product (CBG) has significant
   receptor activity
 - **Anti-proliferative effects:** Laboratory studies have shown that
-  CBGA, together with other cannabinoids, can inhibit cancer cell
+  CBGA, together with other cannabinoids, can inhibit [[blesching-cannabis-apoptosis-and-cancer-cell-death]]
   growth through multiple mechanisms
 - **Antibacterial properties:** Like the other major cannabinoids,
   CBGA contributes to the antibacterial activity of cannabis extracts
@@ -69,8 +69,8 @@ intoxication, making them candidates for conditions where cognitive
 clarity must be maintained.
 
 ### Agricultural Significance
-CBGA levels peak early in the flowering cycle and gradually decrease as
-the plant converts it to downstream cannabinoids. Harvest timing
+CBGA levels peak early in the [[cannabis-sativa-flowering-cycle-management]] and gradually decrease as
+the plant converts it to downstream cannabinoids. [[cannabis-harvest-timing-visual-cues]]
 affects the final CBGA content of the crop. Some breeders are now
 developing "CBG-dominant" strains by selecting for genetic profiles
 that limit conversion of CBGA to downstream cannabinoids, allowing
@@ -81,7 +81,7 @@ CBGA is the single most important molecule in cannabinoid
 biosynthesis, serving as the branching point for the entire cannabinoid
 chemical family. Understanding CBGA's role is essential for cannabis
 breeders developing strains with targeted cannabinoid profiles, and for
-researchers studying the entourage effect. The therapeutic potential
+researchers studying the [[cannabis-terpene-entourage-effect-profiles]]. The therapeutic potential
 of CBGA itself, independent of its downstream products, is an active
 area of investigation that may yield new non-psychoactive treatments
 for inflammation and other conditions.

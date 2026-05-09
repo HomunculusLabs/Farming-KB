@@ -1,30 +1,30 @@
 ---
-title: Psilocybin and Psilocin Chemistry and Pharmacology
+title: psilocybin|Psilocybin and psilocin|psilocybin psilocin chemistry and pharmacology emcdda and Pharmacology
 source: carolina-mushrooms_08qxp.md (EMCDDA Thematic Paper, 2006)
 type: concept
-tags: [psilocybin, psilocin, chemistry, pharmacology, tryptamines, serotonin, 5-HT2A]
+tags: [psilocybin, psilocin, chemistry, pharmacology, tryptamine|tryptamines, serotonin, 5-HT2A]
 created: 2026-05-08
 ---
 # [[cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains]] including Mexican, Thai, Colombian, and Amazonian.
-Some species such as Psilocybe mexicana and Psilocybe tampanensis form sclerotia
+Some species such as [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] and [[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]] form sclerotia
 — hardened masses of mycelium resistant to adverse environmental conditions —
 which are sold commercially as "truffles" or "philosopher's stones."
 
 Potency varies considerably. The most potent species (e.g., Psilocybe
 semilanceata) can contain up to 1% psilocybin by dry weight, with even higher
-potency reported in specific species like Psilocybe azurescens and Psilocybe
-bohemica. Psilocybe cubensis typically contains up to 0.6% combined psilocybin
+potency reported in specific species like [[stamets-psi-psilocybe-azurescens-species-guide]] and Psilocybe
+bohemica. [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] typically contains up to 0.6% combined psilocybin
 and psilocin. The primary visual distinguishing feature of most psilocybin
 mushrooms is blue bruising when handled, caused by oxidation of psilocin.
 
-## [[psilocybin-psilocin-chemistry-serotonin-5HT2A-mechanism-emcdda-2006]]
+## [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]
 
-- [[psilocybin-psilocin-chemistry-serotonin-5HT2A-mechanism-emcdda-2006]]
+- [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]
 
-- [[psilocybin-psilocin-chemistry-serotonin-5HT2A-mechanism-emcdda-2006]]
+- [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]
 
 - psilocybin biosynthesis in psilocybe species
-- tryptamine hallucinogen classification
+- [[mckenna-tryptamine-hallucinogen-classification-four-groups-plants]] classification
 - serotonin 5 ht2a receptor psychedelic mechanism
 - [[amanita-muscaria-chemistry-and-pharmacology]]
 ## Practical Applications
@@ -105,3 +105,22 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[hplc-analysis-psychedelic-mushroom-alkaloids]]
+
+- [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]
+
+- [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]
+
+- [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]
+
+- [[four-hydroxyindole-psilocin-synthesis-route-shirota]]
+
+- [[analytical-methods-psilocybin-psilocin-quantification]]
+
+- [[adverse-effects-and-harm-reduction-psilocybin]]
+
+- [[acetyl-protection-route-psilocin-psilocybin-synthesis]]
+
+- [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]

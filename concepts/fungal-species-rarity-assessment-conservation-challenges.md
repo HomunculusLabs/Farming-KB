@@ -1,11 +1,11 @@
 ---
-title: Fungal Species Rarity Assessment and Conservation Challenges
+title: Fungal Species fungal species rarity assessment conservation challenges and Conservation Challenges
 created: 2026-04-26
 tags:
   - fungal conservation
   - species rarity
-  - biodiversity assessment
-  - conservation biology
+  - [[fungal-biodiversity-assessment-methods]]
+  - [[mycelium-running-conservation-biology-and-fungi]]
   - taxonomy
 date: 2026-04-25
 updated: 2026-04-25
@@ -18,7 +18,7 @@ type: concept
 
 Assessing rarity and conservation status in fungi presents unique
 challenges that differ fundamentally from those facing plant and animal
-conservation. The cryptic nature of fungal fruiting, incomplete taxonomic
+conservation. The cryptic nature of [[brassinosteroid-fungal-fruiting-body-morphology]], incomplete taxonomic
 knowledge, and the ephemeral visibility of many species make it
 extremely difficult to distinguish truly rare species from those that
 are merely under-sampled or infrequently observed.
@@ -90,7 +90,7 @@ Multiple factors can contribute to rarity in fungal species:
   [[coprophilous-fungi]] with narrow host ranges are particularly
   vulnerable; with every loss of habitat or host, the potential for
   loss or reduction in the mycobiota is high
-- Conservation of fungal diversity requires conservation of the
+- Conservation of [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] requires conservation of the
   plants, animals, and environmental conditions on which fungi depend
 
 ## Role of Herbaria in Conservation
@@ -109,7 +109,7 @@ Herbaria play a critical role in fungal conservation by:
 
 ## Molecular Tools for Rarity Assessment
 
-Molecular approaches are increasingly important for assessing fungal
+[[staycare-molecular-approaches-fungal-bioremediation]] are increasingly important for assessing fungal
 rarity:
 
 - PCR-amplified DNA from environmental samples can detect species

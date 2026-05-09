@@ -1,5 +1,5 @@
 ---
-title: Fungal Biodiversity Patterns
+title: Fungal biodiversity-of-fungi-biodiversity-patterns-ecosystems
 created: 2026-04-28
 tags:
   - mycology
@@ -61,7 +61,7 @@ multiplying by 100.
 Many investigations of populations and communities describe patterns
 rather than test a priori hypotheses. The individual is usually the
 smallest biological unit for quantitative population and community
-indices. Because of the fungal growth form, the concept of individual
+indices. Because of the [[brassinosteroid-fungal-growth-promotion]] form, the concept of individual
 as used for animals and plants does not apply. Each investigator must
 establish a unit by which presence-absence, biomass, density, or
 frequency can be estimated over space and time.
@@ -70,7 +70,7 @@ The total number of species identified from an area increases as the
 number of samples increases but eventually attains a plateau. The
 number of samples required to reach the plateau will depend on the
 environmental heterogeneity of the area and the dispersion patterns and
-fruiting phenology of the focal species. Collector's curves should be
+[[macrofungal-fruiting-phenology-climate-variability]] of the focal species. Collector's curves should be
 generated for each type of habitat being compared.
 
 ### Sampling Plot Design
@@ -113,7 +113,7 @@ dynamics of those attributes over time and space.
 
 ## Differentiation Diversity
 
-Differentiation diversity (beta diversity) measures the change in
+Differentiation diversity ([[alpha-beta-diversity-cannabis-root-microbiomes]]) measures the change in
 species composition among sites or along environmental gradients.
 Resemblance functions and distance coefficients are used to quantify
 the similarity or dissimilarity between communities. Classification

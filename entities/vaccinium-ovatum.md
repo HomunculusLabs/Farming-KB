@@ -34,7 +34,7 @@ sources:
 
 **Vaccinium ovatum** is an evergreen shrub in the family Ericaceae, commonly known as the evergreen huckleberry or California huckleberry.
 
-It is native to the Pacific coast of North America from British Columbia to central California, valued for its flavorful dark berries and ornamental foliage.
+It is native to the Pacific coast of [[psilocybin-north-america-pacific-northwest]] from British Columbia to central California, valued for its flavorful dark berries and ornamental foliage.
 
 The species is an important component of coastal forest understories and has significant potential in permaculture, food forest, and native plant landscaping applications.
 
@@ -70,7 +70,7 @@ Optimal habitat is the understory of coniferous and mixed evergreen forests, esp
 
 It tolerates full sun along the coast but prefers partial to deep shade inland, where it can persist for decades as a stable understory dominant.
 
-The species grows best on acidic (pH 4.5–6.0), well-drained, humus-rich soils and is frequently associated with mycorrhizal networks in old-growth forest soils.
+The species grows best on acidic (pH 4.5–6.0), well-drained, humus-rich soils and is frequently associated with [[dighton-mycorrhizal-networks-carbon-transfer]] in old-growth forest soils.
 
 ## Edible and Culinary Use
 
@@ -84,7 +84,7 @@ Berry harvest occurs from late July through October, with peak quality in Septem
 
 Commercial wild harvesting continues in parts of Oregon and California, with berries commanding premium prices at farmers' markets.
 
-The berries freeze well and maintain flavor and nutritional quality for over a year in frozen storage.
+The berries freeze well and maintain flavor and [[coleman-winter-greens-nutritional-quality-cold-sweetening]] for over a year in frozen storage.
 
 ## Cultivation and Permaculture Applications
 
@@ -94,7 +94,7 @@ Established plants are extremely long-lived, with documented specimens exceeding
 
 The species is slow to establish from seed (germination 30–60 days, seedlings reaching 15–30 cm in 2 years) but grows steadily once rooted.
 
-In permaculture design, evergreen huckleberry serves as a productive, shade-tolerant understory shrub in food forest systems.
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], evergreen huckleberry serves as a productive, shade-tolerant understory shrub in food forest systems.
 
 It pairs well with *Rubus* species, *Sambucus*, and *Aronia* in multi-layered edible landscapes, occupying the shrub layer beneath fruit or nut trees.
 
@@ -110,7 +110,7 @@ Berries are consumed by numerous bird species including robins, thrushes, grouse
 
 The dense evergreen canopy provides year-round cover and nesting habitat for songbirds and small mammals.
 
-Like all *Vaccinium* species, it forms ericoid mycorrhizal associations essential for nutrient uptake in acidic, low-fertility soils.
+Like all *Vaccinium* species, it forms [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] associations essential for [[plant-nutrient-uptake-mechanisms]] in acidic, low-fertility soils.
 
 ## See Also
 

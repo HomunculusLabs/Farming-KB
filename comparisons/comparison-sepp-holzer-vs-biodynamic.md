@@ -5,6 +5,7 @@ tags: [comparison, farming-methods, regenerative-agriculture, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 type: comparison
 ---
@@ -15,7 +16,7 @@ A comparison of two European approaches to farming without chemical inputs.
 
 ## Overview
 
-Sepp Holzer's method is a practical, observation-based approach to agriculture developed at the Krameterhof in Austria at 1,500 meters altitude. It uses terraces, raised beds, ponds, and livestock integration to create productive landscapes without chemical inputs. Biodynamic agriculture, founded by Rudolf Steiner in the 1920s, uses homeopathic compost preparations and planting calendars while recognizing non-material forces in soil and plant health.
+Sepp Holzer's method is a practical, observation-based approach to agriculture developed at the Krameterhof in Austria at 1,500 meters altitude. It uses terraces, raised beds, ponds, and [[faires-livestock-integration-permaculture]] to create productive landscapes without chemical inputs. [[query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic]], founded by Rudolf Steiner in the 1920s, uses homeopathic compost preparations and planting calendars while recognizing non-material forces in soil and plant health.
 
 Both approaches reject synthetic chemicals and seek to work with natural processes, but they differ fundamentally in philosophy, core practices, and accessibility.
 
@@ -56,7 +57,7 @@ This means minimal pruning, no spraying, no fertilizing beyond what the system p
 
 Hugelkultur beds are built by burying logs, branches, and woody debris under topsoil. As the wood decomposes, it generates heat, retains moisture, and releases nutrients over many years. Holzer builds beds up to 6 feet tall, planting immediately with vegetables, herbs, and fruit trees. Beds remain productive for 15 to 20 years.
 
-Pond construction is another signature technique. Holzer places ponds at various elevations to create microclimates. Water bodies moderate temperature, reflect light to adjacent plantings, and provide habitat for fish, frogs, and beneficial insects. His Krameterhof includes over 70 ponds across the mountain slope.
+Pond construction is another signature technique. Holzer places ponds at various elevations to create microclimates. Water bodies moderate temperature, reflect light to adjacent plantings, and provide habitat for fish, frogs, and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. His Krameterhof includes over 70 ponds across the mountain slope.
 
 Livestock integration follows functional principles. Pigs root and clear ground for new plantings. Cattle graze paddocks sequentially, fertilizing as they move. Poultry follow larger animals to spread manure and control parasites. Each animal performs landscape work replacing human labor.
 
@@ -64,7 +65,7 @@ Livestock integration follows functional principles. Pigs root and clear ground 
 
 Biodynamic agriculture extends organic farming with a spiritual and cosmological dimension. Steiner's eight lectures in 1924 introduced the concept that farms are living organisms and that soil health depends on non-material forces enhanced through specific preparations.
 
-The nine biodynamic preparations are central to practice:
+The nine [[comparison-biodynamic-preparations-vs-biofertilizers]] are central to practice:
 
 1. BD 500 Horn manure for soil vitality
 2. BD 501 Horn silica for plant growth
@@ -92,11 +93,11 @@ Choose the Holzer method when your priorities include:
 2. Zero-chemical self-sustaining farming systems
 3. Integrated livestock, water, and plant farm design
 4. Practical, observation-driven methods
-5. Pond and terrace construction for microclimate
+5. Pond and [[holzer-terrace-construction-guide]] for microclimate
 6. Willingness to experiment and adapt locally
 7. Farm-scale production without certification needs
 
-Holzer's method is particularly powerful for difficult land. Techniques for microclimate creation, water management, and polyculture integration can transform sites that conventional agriculture considers unworkable.
+Holzer's method is particularly powerful for difficult land. Techniques for [[mollison-designers-microclimate-creation-frost-protection]], water management, and polyculture integration can transform sites that conventional agriculture considers unworkable.
 
 ## When to Choose Biodynamic Agriculture
 

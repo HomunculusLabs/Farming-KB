@@ -26,7 +26,7 @@ updated: 2026-05-02
 
 # Douglas-fir
 
-**Douglas-fir** (*Pseudotsuga menziesii*) is a large evergreen conifer native to western North America.
+**Douglas-fir** (*Pseudotsuga menziesii*) is a large evergreen conifer native to western [[psilocybin-north-america-pacific-northwest]].
 It is one of the most important timber trees in the world and a keystone forest species in the Pacific
 Northwest. The hyphenated common name signals that it is not a true fir in the genus *Abies*. It is also
 not a spruce, pine, or hemlock, despite several historical names. The genus name *Pseudotsuga* means
@@ -87,7 +87,7 @@ reflect harsher continental conditions.
 Douglas-fir forms ectomycorrhizal partnerships with many fungi. Associated genera include *Rhizopogon*,
 *Suillus*, *Tuber*, *Cortinarius*, *Russula*, *Laccaria*, and many others. These symbioses improve
 mineral nutrition, water relations, and seedling establishment. The species is central to discussions of
-common mycorrhizal networks because Douglas-fir seedlings can be linked with older trees and other
+common [[dighton-mycorrhizal-networks-carbon-transfer]] because Douglas-fir seedlings can be linked with older trees and other
 species through shared fungal partners. Seeds feed birds and small mammals. Foliage and twigs are browsed
 by deer and elk, especially in winter. Old trees provide cavities, platforms, coarse woody debris, and
 large snags. Downed wood stores carbon and supports fungi, invertebrates, bryophytes, and forest moisture
@@ -106,7 +106,7 @@ oaks. Management therefore depends strongly on site, history, and desired struct
 
 Douglas-fir wood is strong, stiff, and widely used for framing lumber, plywood, beams, poles, veneer,
 flooring, and engineered products. It has been planted outside its native range as a commercial forestry
-species, especially in Europe, New Zealand, and South America. The tree is also sold as a Christmas tree,
+species, especially in Europe, New Zealand, and South America. The tree is also sold as a [[arthur-christmas-tree-amanita-muscaria]],
 though sheared plantation forms look very different from forest-grown trees. Indigenous peoples used
 parts of the tree for fuel, tools, medicine, pitch, ceremonial purposes, and construction materials.
 Modern restoration projects use it where it matches local plant communities and future climate
@@ -114,9 +114,9 @@ expectations.
 
 ## Permaculture and Mycology Relevance
 
-Douglas-fir is a major host in ectomycorrhizal mushroom habitat. Chanterelles, boletes, truffles, and
+Douglas-fir is a major host in ectomycorrhizal [[psilocybin-mushroom-habitat-and-ecology]]. Chanterelles, boletes, truffles, and
 many sequestrate fungi are discussed in relation to Douglas-fir forests. For woodlots it offers durable
-timber, wind protection, wildlife structure, and long-term carbon storage. It is not a small-garden tree
+timber, [[cervantes-wind-protection-outdoor-cannabis]], wildlife structure, and long-term [[holmgren-soil-humus-carbon-storage-rebuilding]]. It is not a small-garden tree
 and should be placed only where its mature size, shade, roots, and fire context make sense. In
 mycoforestry, protecting soil, litter, coarse wood, and host-tree continuity is more important than
 treating the tree as an isolated crop.
@@ -124,7 +124,7 @@ treating the tree as an isolated crop.
 ## Related Concepts
 
 - [[mycorrhizal-networks-common-mycelial-network]]
-- [[mycorrhizal-mushrooms-forest-partnerships-stamets]]
+- mycorrhizal-mushrooms-forest-partnerships-stamets
 - [[ectomycorrhizal-fungal-ecology]]
 - [[mycoforestry-principles-stamets]]
-- [[fungal-pathogens-ecosystems]]
+- fungal-pathogens-ecosystems

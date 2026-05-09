@@ -16,7 +16,7 @@ sources:
 
 # Laetisaria arvalis
 
-Laetisaria arvalis is a soil-inhabiting basidiomycete fungus recognized as a potential biological control agent against soil-borne plant pathogenic fungi, particularly [[rhizoctonia-solani]], one of the most important soil-borne plant pathogens worldwide. R. solani causes damping-off, root rot, and stem canker on a wide range of crop plants, and its control has been a major focus of plant pathology research for decades. The fungus is among approximately 30 species of mycoparasites recorded for R. solani (Butler 1957; Chand and Logan 1984; Jeffries 1995).
+Laetisaria arvalis is a soil-inhabiting basidiomycete fungus recognized as a potential [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent against soil-borne plant pathogenic fungi, particularly [[rhizoctonia-solani]], one of the most important soil-borne plant pathogens worldwide. R. solani causes damping-off, root rot, and stem canker on a wide range of crop plants, and its control has been a major focus of plant pathology research for decades. The fungus is among approximately 30 species of mycoparasites recorded for R. solani (Butler 1957; Chand and Logan 1984; Jeffries 1995).
 
 ### Efficacy Against Rhizoctonia solani
 
@@ -39,7 +39,7 @@ The mechanism by which L. arvalis antagonizes R. solani is not fully understood.
 
 ## Soil Ecology and Survival Strategies
 
-As a soil-inhabiting basidiomycete, L. arvalis faces the challenge of surviving in a complex and competitive environment. Soil fungi must contend with fluctuating moisture conditions, competition from bacteria and other fungi for limited nutrients, and the presence of antagonistic organisms. L. arvalis likely persists in soil through the production of resistant structures such as thick-walled hyphal segments or sclerotium-like aggregations, though detailed studies of its survival structures are limited. Its ability to antagonize soil-borne plant pathogens may confer an ecological advantage by reducing competition from rapidly growing pathogenic fungi that would otherwise dominate the soil microbial community.
+As a soil-inhabiting basidiomycete, L. arvalis faces the challenge of surviving in a complex and competitive environment. Soil fungi must contend with fluctuating moisture conditions, competition from bacteria and other fungi for limited nutrients, and the presence of antagonistic organisms. L. arvalis likely persists in soil through the production of resistant structures such as thick-walled hyphal segments or sclerotium-like aggregations, though detailed studies of its survival structures are limited. Its ability to antagonize soil-borne plant pathogens may confer an ecological advantage by reducing competition from rapidly growing pathogenic fungi that would otherwise dominate the soil [[edaphic-factors-microbial-community-structure]].
 
 ## Agricultural Application Strategies
 
@@ -48,7 +48,7 @@ The potential use of L. arvalis in agricultural systems involves several approac
 - **Soil incorporation**: Direct addition of L. arvalis inoculum to soil at planting time, either as a culture preparation or as colonized organic substrate
 - **Seed coating**: Application of L. arvalis to seeds before planting, ensuring proximity between the biocontrol agent and the emerging seedling roots
 - **Crop rotation**: Management of cropping sequences to maintain or enhance L. arvalis populations in soil between susceptible crops
-- **Organic amendments**: Use of compost or other organic amendments that support the growth and activity of L. arvalis and other beneficial soil microorganisms
+- **[[cervantes-organic-amendments-chart]]**: Use of compost or other organic amendments that support the growth and activity of L. arvalis and other beneficial soil microorganisms
 
 These strategies reflect the broader principles of conservation biological control, where agricultural practices are managed to support naturally occurring or introduced biocontrol agents rather than relying solely on inundative applications of microbial preparations.
 
@@ -58,11 +58,11 @@ The comparison between L. arvalis and Trichoderma-based biocontrol systems highl
 
 ## Legacy and Influence on Biocontrol Research
 
-Although L. arvalis has not been developed into a commercial biocontrol product, the research conducted on this species established important precedents for the systematic evaluation of mycoparasitic fungi as plant disease control agents. The work of Burdsall and colleagues (1980) and Papavizas and colleagues (1983) on L. arvalis demonstrated that soil basidiomycetes could be isolated selectively, enumerated quantitatively, and evaluated for biocontrol potential using standardized methods. These methodological contributions have been adopted and adapted by subsequent researchers working with a wide range of fungal biocontrol agents, extending the influence of L. arvalis research well beyond the species itself.
+Although L. arvalis has not been developed into a commercial biocontrol product, the research conducted on this species established important precedents for the systematic evaluation of mycoparasitic fungi as plant [[hamilton-pest-and-disease-control-organic]] agents. The work of Burdsall and colleagues (1980) and Papavizas and colleagues (1983) on L. arvalis demonstrated that soil basidiomycetes could be isolated selectively, enumerated quantitatively, and evaluated for biocontrol potential using standardized methods. These methodological contributions have been adopted and adapted by subsequent researchers working with a wide range of fungal biocontrol agents, extending the influence of L. arvalis research well beyond the species itself.
 
 ## Interaction with Soil Fauna
 
-L. arvalis, like many soil fungi, likely interacts with soil fauna including nematodes, microarthropods, and earthworms. These interactions may influence the dispersal, survival, and biocontrol efficacy of the fungus in soil. Soil fauna can transport fungal propagules through the soil profile, create channels that facilitate hyphal growth, and modify the soil environment in ways that affect fungal activity. The potential for combining fungal biocontrol agents like L. arvalis with soil fauna management represents an area of integrated pest management that warrants further investigation.
+L. arvalis, like many soil fungi, likely interacts with soil fauna including nematodes, microarthropods, and earthworms. These interactions may influence the dispersal, survival, and biocontrol efficacy of the fungus in soil. Soil fauna can transport fungal propagules through the soil profile, create channels that facilitate hyphal growth, and modify the soil environment in ways that affect fungal activity. The potential for combining fungal biocontrol agents like L. arvalis with soil fauna management represents an area of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management that warrants further investigation.
 
 ## See Also
 
@@ -71,7 +71,7 @@ L. arvalis, like many soil fungi, likely interacts with soil fauna including nem
 - Ceratorhiza — binucleate Rhizoctonia species used in biocontrol
 - [[chaga-inonotus-obliquus-medicinal-profile]]
 - [[soil-food-web-nutrient-cycling]]
-- mycorrhizal fungi guide
+- [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] guide
 - [[fungal-pest-control]]
 ## Practical Considerations
 
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [hydroponics, organic-farming, aquaponics, bioponics, soil-less-growing]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -32,15 +33,15 @@ Both bioponics and aquaponics bridge the gap between hydroponics and organic gro
 
 ### Bioponics
 
-Bioponics (sometimes called "organoponics" or "biological hydroponics") feeds plants by dissolving organic materials directly into the nutrient solution. Compost tea, liquid kelp, fish emulsion, worm castings leachate, or [[fungal-enzyme-activity-nutrient-availability]] may improve as [[black-soldier-fly-larvae-as-feed]]) are improving but not yet mainstream.
+Bioponics (sometimes called "organoponics" or "biological hydroponics") feeds plants by dissolving organic materials directly into the [[cannabis-nutrient-solution-preparation]]. Compost tea, liquid kelp, fish emulsion, worm castings leachate, or fungal-enzyme-activity-nutrient-availability may improve as [[black-soldier-fly-larvae-as-feed]]) are improving but not yet mainstream.
 
-Bioponics relies on off-farm organic amendments (kelp harvested from ocean, composted materials, commercial organic fertilizers), giving it a higher external input dependency. On the other hand, these inputs can be produced on-site—compost, worm castings, and fermented plant extracts all come from waste streams that most homesteads already generate.
+Bioponics relies on off-farm [[cervantes-organic-amendments-chart]] (kelp harvested from ocean, composted materials, commercial [[hamilton-organic-fertilizers-and-plant-nutrition]]), giving it a higher external input dependency. On the other hand, these inputs can be produced on-site—compost, worm castings, and [[query-how-do-i-use-fermented-plant-extracts-in-my-garden]] all come from waste streams that most homesteads already generate.
 
 Energy consumption is comparable for both systems at similar scale, dominated by water pumps and supplemental lighting. Aquaponics may require additional energy for fish tank heating and backup aeration.
 
 ## Bottom Line
 
-Bioponics offers the control and simplicity of hydroponics with the organic integrity of compost-based growing. Aquaponics offers the elegance and productivity of a fully integrated ecosystem—at the cost of complexity and constrained chemistry. For most home growers focused on vegetable production, bioponics delivers better results with less effort. For those drawn to closed-loop systems or wanting to raise fish alongside vegetables, aquaponics remains uniquely rewarding.
+Bioponics offers the control and simplicity of hydroponics with the organic integrity of compost-based growing. Aquaponics offers the elegance and productivity of a fully integrated ecosystem—at the cost of complexity and constrained chemistry. For most home growers focused on [[dry-gardening-unirrigated-vegetable-production-solomon]], bioponics delivers better results with less effort. For those drawn to closed-loop systems or wanting to raise fish alongside vegetables, aquaponics remains uniquely rewarding.
 
 ## See Also
 
@@ -62,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

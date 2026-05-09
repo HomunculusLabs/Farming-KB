@@ -1,11 +1,12 @@
 ---
-title: Direct Observation Method
+title: fukuoka direct observation method Method
 created: 2026-04-18
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Direct Observation Method
@@ -40,7 +41,7 @@ This is what it means to "see and not examine and in not examining to know." Tho
 
 This approach means that when one encounters a problem -- a pest outbreak, poor growth, disease -- one does not immediately reach for a technical solution. Instead, one reflects on what human action may have caused the imbalance and seeks to restore conditions closer to nature.
 
-The real meaning of taking a transcendent perspective, in plain, down-to-earth terms, is to help provide both insect pests and beneficial insects with a pleasant environment in which to live. When the ecosystem is balanced, pests and diseases naturally remain within acceptable bounds. Only when the farmer has disrupted the natural balance through [[fukuoka-bushman-world-ecological-balance]] is not something the farmer creates but something the farmer learns to recognize and support.
+The real meaning of taking a transcendent perspective, in plain, down-to-earth terms, is to help provide both insect pests and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] with a pleasant environment in which to live. When the ecosystem is balanced, [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] naturally remain within acceptable bounds. Only when the farmer has disrupted the natural balance through [[fukuoka-bushman-world-ecological-balance]] is not something the farmer creates but something the farmer learns to recognize and support.
 
 The ultimate goal of the direct observation method is not to accumulate knowledge about nature but to achieve a state of unity with nature -- where the distinction between observer and observed dissolves and the farmer acts naturally, without effort or deliberation. This state of unity is the essence of [[fukuoka-nature-perfect-imperfect-philosophical-perspective]] and that human imperfection is the source of agricultural problems. The direct observation method is the means by which the farmer comes to see this truth for himself.
 
@@ -67,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

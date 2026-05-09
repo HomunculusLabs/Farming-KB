@@ -42,7 +42,7 @@ By the 8th hour, one subject reported being sober with no residue except slight 
 The synthesis of 3C-E proceeds from syringaldehyde (3,5-dimethoxy-4-hydroxybenzaldehyde):
 
 1. **Ethylation**: Syringaldehyde + ethyl iodide + KOH in MeOH, held at reflux for 2 days. After workup: 3.3 g of 3,5-dimethoxy-4-ethoxybenzaldehyde as pale amber crystals, mp 47-48 °C (recrystallized: 48-49 °C)
-2. **Nitrostyrene formation**: Benzaldehyde + nitroethane + NH4OAc, heated on steam bath for 36 h. Product: canary-yellow crystals of 1-(3,5-dimethoxy-4-ethoxyphenyl)-2-nitropropene, mp 84-85 °C (total yield: 2.9 g from two crops)
+2. **Nitrostyrene formation**: Benzaldehyde + nitroethane + NH4OAc, heated on [[scythian-cannabis-steam-bath-ritual]] for 36 h. Product: canary-yellow crystals of 1-(3,5-dimethoxy-4-ethoxyphenyl)-2-nitropropene, mp 84-85 °C (total yield: 2.9 g from two crops)
 3. **LAH reduction**: Nitrostyrene + LAH in THF, held at reflux for 48 h, then stirred at room temperature for another 48 h. Standard workup through acid-base extraction. Final product: 1.9 g 3,5-dimethoxy-4-ethoxyamphetamine hydrochloride as brilliant white crystals
 
 ## Qualitative Effects
@@ -64,7 +64,7 @@ At 60 mg, visuals were very strong and insistent. Body discomfort was heavy for 
 
 ## Structure-Activity Relationships
 
-3C-E occupies a unique position in the Shulgin catalog. It represents the "closing of the circle" — mescaline-entity|mescaline launched the entire phenethylamine research program, and the first half was the amphetamine period. When the two-carbon chain of mescaline was explored with knowledge of the critical 4-position substituent, compounds like 2c-b-compound-profile|2C-B and 2c-e-compound-profile|2C-E were discovered. 3C-E brings the 4-ethoxy substitution back to the amphetamine chain, completing a conceptual arc.
+3C-E occupies a unique position in the Shulgin catalog. It represents the "closing of the circle" — mescaline-entity|mescaline launched the entire phenethylamine [[hofmann-lsd-sandoz-research-program]], and the first half was the amphetamine period. When the two-carbon chain of mescaline was explored with knowledge of the critical 4-position substituent, compounds like 2c-b-compound-profile|2C-B and 2c-e-compound-profile|2C-E were discovered. 3C-E brings the 4-ethoxy substitution back to the amphetamine chain, completing a conceptual arc.
 
 The alpha-methyl group of 3C-E (compared to the phenethylamine Escaline) increases metabolic stability and duration, but adds stimulant properties and body load. This pattern is consistent across the 2C-to-DO series comparisons: 2C-I → [[dob-compound-profile]], etc.
 

@@ -1,51 +1,17 @@
 ---
-title: Casing Layer Technique
+title: gourmet-medicinal-mushroom-casing-layer-techniques Technique
 created: 2026-04-28
-tags: [[mycology, casing, fruiting, cultivation, substrate]
+tags: [mycology, casing, fruiting, cultivation, substrate]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 type: concept
 ---
-
-# Casing Layer Technique
-
-A casing layer is a non-nutritive (or very low-nutrition) layer of material
-applied on top of a fully colonized substrate to stimulate and support
-mushroom fruiting. Unlike the substrate itself, the casing provides moisture,
-microclimate regulation, and a physical surface for pin formation rather than
-serving as a food source for the mycelium.
-
-## Purpose of a Casing Layer
-
-The casing layer serves several critical functions:
-
-**Moisture reservoir**: The casing holds a large volume of water that
-mushrooms draw from during fruiting. Since mushrooms are approximately 90%
-water, maintaining adequate moisture at the fruiting surface is essential.
-
-**Microclimate creation**: The casing creates a humid micro-environment at
-the substrate surface with high relative humidity and stable temperature,
-conditions necessary for pin (primordia) formation.
-
-**Pin formation trigger**: Contact with a non-nutritive surface signals the
-mycelium that it has reached the edge of its food supply, triggering the
-reproductive (fruiting) phase.
-
-**Contamination buffer**: A properly prepared casing layer can help suppress
-contaminants, particularly when beneficial microorganisms are present.
-
-## Which Species Need Casing
-
-Not all mushroom species require a casing layer. Understanding the
-distinction is important:
-
-**Species that require casing**:
-- Button mushroom ([[pleurotus-eryngii]], king oyster)
+# Casing Layer Technique A casing layer is a non-nutritive (or very low-nutrition) layer of material applied on top of a fully colonized substrate to stimulate and support mushroom fruiting. Unlike the substrate itself, the casing provides moisture, microclimate regulation, and a physical surface for pin formation rather than serving as a food source for the mycelium. ## Purpose of a Casing Layer The casing layer serves several critical functions: **Moisture reservoir**: The casing holds a large volume of water that mushrooms draw from during fruiting. Since mushrooms are approximately 90% water, maintaining adequate moisture at the fruiting surface is essential. **Microclimate creation**: The casing creates a humid micro-environment at the substrate surface with high relative humidity and stable temperature, conditions necessary for pin (primordia) formation. **Pin formation trigger**: Contact with a non-nutritive surface signals the mycelium that it has reached the edge of its food supply, triggering the reproductive (fruiting) phase. **Contamination buffer**: A properly prepared casing layer can help suppress contaminants, particularly when beneficial microorganisms are present. ## Which Species Need Casing Not all mushroom species require a casing layer. Understanding the distinction is important: **Species that require casing**: - Button mushroom ([[pleurotus-eryngii]], king oyster)
 
 **Species that benefit from casing**:
 - Many Psilocybe species
-- Some [[stamets-pleurotus-oyster-cultivation]] (oyster) species
+- Some stamets-pleurotus-oyster-cultivation (oyster) species
 - [[grifola-frondosa]] (maitake)
 - [[hericium-erinaceus]] (lion's mane)
 
@@ -58,11 +24,11 @@ The most widely used casing formulation, especially for Agaricus cultivation:
 **50/50+ Casing**:
 - Peat moss: 50% by volume
 - Vermiculite: 50% by volume
-- Hydrated lime (calcium hydroxide): to adjust pH to 7.5-8.0
+- [[cervantes-hydrated-lime-quicklime-ph-adjustment]] (calcium hydroxide): to adjust pH to 7.5-8.0
 - Gypsum (calcium sulfate): 5-10% of peat volume
 
 Peat is naturally acidic (pH 3.5-4.5), so lime is essential to raise the pH
-into the range that favors mushroom growth and discourages contaminants.
+into the range that favors [[pf-tek-mushroom-growth-timeline]] and discourages contaminants.
 Gypsum provides calcium and sulfur while improving soil structure.
 
 ### Coco Coir Based
@@ -87,7 +53,7 @@ casing microorganisms.
 
 Topsoil mixed with sand or vermiculite can be used, but it introduces
 unpredictable microbial populations and potential contaminants. It is
-generally not recommended for indoor cultivation.
+generally not recommended for [[cannabis-sativa-indoor-cultivation-techniques]].
 
 ## Preparation
 

@@ -1,5 +1,5 @@
 ---
-title: Salt Buildup and Leaching Management
+title: cervantes salt buildup leaching management and Leaching Management
 created: 2026-04-28
 tags:
   - cannabis
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -27,7 +28,7 @@ Fertilizer salts accumulate in the growing medium over time as plants
 absorb water faster than nutrients. The remaining salts concentrate in
 the soil, gradually increasing electrical conductivity (EC) to toxic
 levels. This toxic salt buildup limits water intake by roots, creates
-nutrient lockout conditions, and can chemically bind essential
+[[cannabis-nutrient-lockout-and-ph]] conditions, and can chemically bind essential
 nutrients so roots cannot absorb them.
 
 Salt buildup is accelerated by:
@@ -42,7 +43,7 @@ Salt buildup is accelerated by:
 
 Collect EC samples from both the reservoir (or water source) and the
 growing medium. Under normal conditions, the EC in the growing medium
-should be slightly higher than the nutrient solution in the reservoir.
+should be slightly higher than the [[cannabis-nutrient-solution-preparation]] in the reservoir.
 
 If the EC of the solution drawn from the growing medium is
 substantially higher than the one from the reservoir, there is a salt

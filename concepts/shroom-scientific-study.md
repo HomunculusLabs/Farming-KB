@@ -1,5 +1,5 @@
 ---
-title: "Mycology and the Scientific Study of Psilocybin Mushrooms"
+title: "Mycology and the Scientific Study of forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -14,8 +14,8 @@ updated: 2026-04-24
 
 The scientific study of psychoactive mushrooms encompasses mycology,
 taxonomy, chemistry, and pharmacology. The identification, classification,
-and chemical analysis of psilocybin-containing species involved some of
-the twentieth century's most distinguished mycologists and chemists,
+and [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of psilocybin-containing species involved some of
+the [[coleman-louis-savier-twentieth-century-maraicher]]'s most distinguished mycologists and chemists,
 including Roger Heim, gordon-wasson, Rolf Singer, and Richard Evans
 Schultes. Their work transformed magic mushrooms from obscure
 poisonous-looking fungi into chemically understood organisms whose
@@ -30,7 +30,7 @@ tropical and subtropical species widely distributed through the
 Americas and beyond.
 
 The Liberty Cap was first described by the Swedish mycologist Elias
-Magnus Fries in the early nineteenth century, though its psychoactive
+Magnus Fries in the early [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], though its psychoactive
 properties were not recognised until the 1960s. The American mycologist
 Franklin Sumner Earle first described Psilocybe cubensis at the turn of
 the twentieth century. The pioneer of fungal taxonomy established the
@@ -40,7 +40,7 @@ The identification of the Liberty Cap as a psychoactive species was
 made in the late 1960s. The American mycologist Dr Rolf Singer stumbled
 across an episode in James Sowerby's Coloured Plates of English Fungi
 (1797-1815) in which a British mycological society had tested the
-effects of what were certainly Liberty Caps, Psilocybe semilanceata.
+effects of what were certainly Liberty Caps, [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]].
 Nineteenth-century advances in microscopy and fungal taxonomy eventually
 allowed scientists to reclassify the species accurately.
 
@@ -109,5 +109,5 @@ pseudonyms O. T. Oss and O. N. Oss. [[wasson-rediscovery-of-psilocybin]] -- Wass
 
 ## Source
 
-Letcher, Andy. Shroom: A Cultural History of the Magic Mushroom.
+Letcher, Andy. Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the Magic Mushroom.
 HarperCollins, 2006. Lines 735-850, 4142-4176, 10260-10290.

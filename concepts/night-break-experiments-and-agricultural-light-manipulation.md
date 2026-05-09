@@ -21,9 +21,9 @@ the lights on and off in the middle of the night. They could take
 a [[commercially-important-pleurotus-species-cultivation-guide]] species. Greenhouse growers
 use automated lighting systems to deliver precise night-break
 treatments, often controlled by computer timers that can
-illuminate acres of growing space with exact timing.
+illuminate acres of [[cotter-growing-space-design-fruiting-rooms]] with exact timing.
 
-The technique has also been adapted for cannabis cultivation,
+The technique has also been adapted for [[query-how-does-no-till-cannabis-cultivation-work]],
 where photoperiod manipulation is used to maintain vegetative
 growth under long-day conditions (typically 18 hours light, 6
 hours dark) and then trigger flowering by switching to short-day
@@ -57,7 +57,8 @@ crop species.
 - phytochrome molecular switch mechanism - Phytochrome switching
 - [[cannabis-photoperiodism-and-light-cycles]] - Photoperiod in cannabis
 
-See also: [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]]
+See also: [[legume-nitrogen-fixation-and-green-manure]]
+
 ## Practical Considerations
 
 Successful implementation of Night Break Experiments And Agricultural Light Manipulation requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

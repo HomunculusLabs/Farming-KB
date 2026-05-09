@@ -1,5 +1,5 @@
 ---
-title: "Magic Mushroom Prohibition and UK Drug Policy"
+title: "Magic magic mushroom prohibition and uk drug policy and UK mckenna-modest-proposal-drug-policy-reform"
 created: 2026-04-26
 tags:
   - drug-policy
@@ -29,7 +29,7 @@ is made.
 Psilocybin and psilocin had been classified as controlled substances
 under US Federal Law in 1970. The Comprehensive Drug Abuse Prevention
 and Control Act made the knowing possession, sale or use of a
-psilocybin mushroom a criminal offence punishable by fine or
+[[emcdda-psilocybin-mushroom-dose-and-effects]] a criminal offence punishable by fine or
 imprisonment. But the fact that all mushrooms were illegal did little
 to halt their spread. Arrests were few and far between, and were more
 often for trespassing than for possession of a prohibited substance.
@@ -48,12 +48,12 @@ Drugs Act, fresh mushrooms containing these compounds were not
 explicitly illegal. This was because the law controlled the chemical
 substances themselves, not the raw fungal material in which they
 occurred naturally. This loophole allowed the emergence of a
-significant trade in fresh magic mushrooms throughout the late 1990s
+significant trade in fresh [[guzman-magic-mushrooms-african-species]] throughout the late 1990s
 and early 2000s.
 
 ## The Commercial Boom
 
-As the Dutch pioneered commercial cultivation of Psilocybe cubensis,
+As the Dutch pioneered commercial [[grass-seed-cultivation-of-psilocybe-mushrooms]] cubensis,
 British entrepreneurs were quick to exploit the legal loophole. Smart
 shops and head shops across Britain began stocking fresh mushrooms
 alongside their other wares. The trade grew rapidly: at its peak,

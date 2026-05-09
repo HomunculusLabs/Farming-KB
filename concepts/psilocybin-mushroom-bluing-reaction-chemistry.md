@@ -1,18 +1,19 @@
 ---
-title: Psilocybin Mushroom Bluing Reaction Chemistry
+title: emcdda-psilocybin-mushroom-dose-and-effects Bluing fenton-reaction-chemistry-and-biochemistry
 created: 2026-04-28
 tags: [psilocybin, chemistry, bluing-reaction, mycology, identification]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
 # Psilocybin Mushroom Bluing Reaction Chemistry
 
 ## Overview of the Bluing Reaction
 
-A feature common to many [[tropisms-psilocybe-cubensis-gravitropism]] and [[psilocybe-semilanceata]] is high in
+A feature common to many tropisms-psilocybe-cubensis-gravitropism and [[psilocybe-semilanceata]] is high in
 psilocybin but low in psilocin, and rarely bruises bluish. In this
 species, the strength of the bluing reaction is not an indication
 of activity, unlike the majority of potent species that are
@@ -51,7 +52,7 @@ have been reported by experienced observers. A luminescent Mycena
 from Malaysia, M. chlorophos, produces white mycelium that bruises
 blue when cut, yet analyses have failed to detect psilocybin,
 psilocin, or baeocystin. Whether the bluing in these Mycenas is
-chemically similar to that in psilocybin mushrooms remains an open
+chemically similar to that in [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] remains an open
 question warranting further research.
 
 ## Practical Field Application
@@ -67,7 +68,7 @@ particularly spore color, greatly narrows the field to a small
 pool of candidates. The genus [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] consists of primarily
 grassland and dung-inhabiting species with mottled gills and
 blackish spore deposits. Combining bluing reaction observation
-with spore print color assessment provides the most reliable
+with [[comparison-spore-print-collection-vs-spore-syringe-production]] color assessment provides the most reliable
 practical field screening method for separating potentially
 active mushrooms from inactive or toxic species in the wild.
 

@@ -21,7 +21,7 @@ type: concept
 
 ## Overview
 
-The second of Fukuoka's four principles of natural farming is "no fertilizer." At the heart of this principle lies a radical reframing of the relationship between plants and soil: crops do not need to be raised because they grow of their own accord. This is not a semantic distinction but a fundamentally different understanding of plant nutrition, soil fertility, and the role of the farmer. Fukuoka's decades of experimentation demonstrated that trees and crops can produce yields equal to or better than fertilized cultivation when allowed to function within the natural soil ecosystem.
+The second of Fukuoka's four [[four-principles-of-natural-farming]] farming is "no fertilizer." At the heart of this principle lies a radical reframing of the relationship between plants and soil: crops do not need to be raised because they grow of their own accord. This is not a semantic distinction but a fundamentally different understanding of plant nutrition, soil fertility, and the role of the farmer. Fukuoka's decades of experimentation demonstrated that trees and crops can produce yields equal to or better than fertilized cultivation when allowed to function within the natural soil ecosystem.
 
 ## The Scientific Fallacy of Cause and Effect
 
@@ -39,7 +39,7 @@ The buds on a tree are made for budding and so this is what they do; the roots, 
 
 ## The Forest as Evidence
 
-Fukuoka's most compelling evidence for the no-fertilizer principle comes from direct observation of forest ecosystems:
+Fukuoka's most compelling evidence for the no-fertilizer principle comes from [[fukuoka-direct-observation-method]] of forest ecosystems:
 
 ### Timber Stand Productivity
 Reforested cedars in a favorable area generally grow about forty tons per quarter-acre over a period of twenty years, producing some two tons of new growth each year without fertilizer. Including small branches, leaves, and roots, annual production is probably closer to four tons. This would translate into two to four tons of fruit per year in an orchard without fertilizers, roughly equal to standard production levels.
@@ -101,7 +101,7 @@ Fertilizers account for thirty to fifty percent of the costs of running an orcha
 
 ## The Composting Critique
 
-Even organic farming's preferred alternative, composting, comes under Fukuoka's criticism:
+Even [[coleman-deep-organic-farming-philosophy]]'s preferred alternative, composting, comes under Fukuoka's criticism:
 
 ### Temporary Nitrogen Deficiency
 When compost such as straw, grasses, or seaweed is applied directly to a field, it takes time to decompose and trigger a fertilizer response. Microbes help themselves to available nitrogen in the soil, creating a temporary nitrogen deficiency that initially starves the crops.
@@ -110,7 +110,7 @@ When compost such as straw, grasses, or seaweed is applied directly to a field, 
 Organic farming ferments materials into prepared compost to avoid this deficiency. But all the trouble taken during preparation, including frequent turning of the pile, methods for stimulating aerobic bacteria, the addition of water, nitrogenous fertilizers, lime, super-phosphate, rice bran, and manure, achieves only a ten to twenty percent acceleration in decomposition response.
 
 ### Direct Application Works Better
-Fukuoka found that a method of applying straw directly to the field achieved outstanding results without any composting preparation. The net effect of all composting effort is minimal compared to the simplicity of allowing natural decomposition to occur in place.
+Fukuoka found that a method of applying straw directly to the field achieved outstanding results without any composting preparation. The net effect of all composting effort is minimal compared to the simplicity of allowing [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]] to occur in place.
 
 ### The Fundamental Pointlessness
 Fukuoka states firmly: while compost itself is not without value, the composting of organic materials is fundamentally useless. Nature already provides all the fertilization needed through its own decomposition processes.
@@ -127,11 +127,11 @@ These organisms:
 - Suppress disease organisms through competition
 - Form symbiotic relationships with plant roots
 
-When chemical fertilizers are applied to this living system, the results are unpredictable and often destructive. The farmer is throwing powerful chemicals into a complex ecosystem whose functioning he does not understand.
+When [[cervantes-chemical-fertilizers-guide]] are applied to this living system, the results are unpredictable and often destructive. The farmer is throwing powerful chemicals into a complex ecosystem whose functioning he does not understand.
 
 ## The Philosophical Foundation
 
-The no-fertilizer principle rests on the philosophical conviction that nature is perfect and self-sufficient. Fertilizer application represents human doubt in nature's perfection. When a farmer spreads fertilizer, he is saying, in effect, that nature is not good enough and that human knowledge can improve upon it.
+The no-fertilizer principle rests on the philosophical conviction that nature is perfect and self-sufficient. [[cervantes-fertilizer-application-strain-feeding]] represents human doubt in nature's perfection. When a farmer spreads fertilizer, he is saying, in effect, that nature is not good enough and that human knowledge can improve upon it.
 
 Fukuoka's natural farming takes the opposite stance: if a problem arises, one reflects that this was probably triggered by some human mistake. The cause invariably lies in some action by man. One never blames nature, but begins by blaming oneself. One searches unrelentingly for a way to grow crops in the heart of nature.
 

@@ -1,5 +1,5 @@
 ---
-title: "Psychotria Chacruna: The DMT Light in Ayahuasca"
+title: "schultes psychotria chacruna dmt admixture: The DMT Light in Ayahuasca"
 created: 2026-04-28
 tags: [ayahuasca, dmt, psychotria-viridis, amazon, shamanism,
   beta-carbolines, ethnobotany]
@@ -36,7 +36,7 @@ sometimes also referred to by indigenous names such as "Cahua."
 ## Role in Ayahuasca Preparation
 
 The preparation of [[dmt-dimethyltryptamine-experience-guide]] by dry weight, along with traces of
-other alkaloids. DMT is a potent tryptamine hallucinogen, but when taken
+other alkaloids. DMT is a potent [[mckenna-tryptamine-hallucinogen-classification-four-groups-plants]], but when taken
 orally it is normally inactive because the enzyme monoamine oxidase
 (MAO) in the gut breaks it down before it can cross the blood-brain
 barrier.
@@ -79,7 +79,7 @@ of tobacco and ayahuasca. Under its influence, the shaman acquires an
 eerie, distant voice and a quivering jaw, indicating the arrival of
 good spirits who sing and dance before him.
 
-The Santo Daime cult and the Uniao do Vegetal church, syncretic
+The [[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]] cult and the Uniao do Vegetal church, syncretic
 Brazilian religions, prepare their sacramental drinks using the original
 Indian recipe in which Banisteriopsis caapi vine and the leaves of the
 Chacruna shrub are boiled together to make an extremely psychedelic
@@ -98,7 +98,7 @@ likely remain uninvestigated for their psychoactive properties.
 
 - [[schultes-ayahuasca-magic-drink-amazon]] — the primary ayahuasca
   vine and its ceremonial use
-- [[schultes-syrian-rue-seeds-civilization]] — Peganum harmala, source
+- [[schultes-syrian-rue-seeds-civilization]] — [[mckenna-food-gods-peganum-harmala-soma]], source
   of harmine and harmaline alkaloids
 - [[schultes-morning-glory-ipomoea-seeds]] — another plant containing
   tryptamine-related compounds

@@ -13,7 +13,7 @@ sources:
   - Thysell, D.R. & Gower, S.T. (2003). "Camas." In: The Encyclopedia of Ecological Restoration, Island Press.
   - Peacock, S.L. & Turner, N.J. (2000). "Just like a garden." Ethnobiology of Camas. Journal of Ethnobiology 20(1): 107–129.
   - Gunther, E. (1973). Ethnobotany of Western Washington. University of Washington Press.
-  - Turner, N.J. & Kuhnlein, H.V. (1983). "Camas and the Northern Root Vegetable Complex." Journal of Ethnobiology 3(2): 133–137.
+  - Turner, N.J. & Kuhnlein, H.V. (1983). "Camas and the Northern [[fukuoka-western-root-vegetable-deficiency]] Complex." Journal of Ethnobiology 3(2): 133–137.
 ---
 
 ## Overview
@@ -28,7 +28,7 @@ of the Pacific Northwest. The bulbs were a dietary staple, harvested in
 massive quantities and cooked in earth ovens for 24–48 hours.
 
 Camas meadows were among the most intensively managed landscapes in
-pre-contact western North America. Indigenous peoples maintained these
+pre-contact western [[psilocybin-north-america-pacific-northwest]]. Indigenous peoples maintained these
 ecosystems through controlled burning to suppress competing vegetation and
 promote camas growth.
 
@@ -51,7 +51,7 @@ composed of tightly packed fleshy leaf bases and are capable of surviving
 several years underground.
 
 Each bulb produces 2–6 basal, linear leaves 20–60 cm long and 3–10 mm wide.
-Leaves emerge in early spring and wither after flowering.
+Leaves emerge in [[coleman-overwintered-onions-and-early-spring-crops]] and wither after flowering.
 
 The inflorescence is a raceme or spike 10–40 cm tall bearing 10–80 flowers.
 Flowers are star-shaped, 2–4 cm across, with six tepals that are blue to
@@ -100,7 +100,7 @@ Plants are cold-hardy to at least -25°C (USDA zone 4) and perform well in
 temperate climates worldwide. They naturalize readily in suitable conditions.
 
 Bulbs multiply slowly through offset production, typically doubling every 3–5
-years under favorable conditions. Seed propagation is possible but requires
+years under favorable conditions. [[jeavons-seed-propagation-techniques]] is possible but requires
 a warm stratification period followed by cold stratification.
 
 Major pests include bulb-eating rodents (voles, gophers) and deer browsing of

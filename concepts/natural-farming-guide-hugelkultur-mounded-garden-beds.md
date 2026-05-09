@@ -1,5 +1,5 @@
 ---
-title: Hugelkultur Mounded Garden Beds
+title: natural farming guide hugelkultur mounded garden beds Garden Beds
 created: 2026-04-28
 tags: [hugelkultur, raised-beds, soil-building, permaculture, water-retention,
       organic-matter, wood-decomposition, nitrogen-fixing, sustainable-gardening]
@@ -51,7 +51,7 @@ because decomposing wood robs the soil of nitrogen, you must add something to
 the soil to break down the wood faster and add needed nitrogen. The key
 ingredient is urine. If you have a separating [[natural-farming-guide-cover-cropping-and-green-manures]] such as clover.
    Clover fixes nitrogen and makes it available for other plants. If planted in
-   early spring, you will have time to plant root vegetables next: potatoes,
+   [[coleman-overwintered-onions-and-early-spring-crops]], you will have time to plant [[growing-root-vegetables-guide]] next: potatoes,
    carrots, radishes, and more.
 
 ## Integration With Other Systems
@@ -62,21 +62,21 @@ are corn, beans, and squash. The corn provides support for beans, and the squash
 shades the ground, preventing weeds. Together they produce much more food per
 square foot than they could when spread out on their own.
 
-Plant communities (sometimes called [[faires-plant-communities-and-guilds]]) organize plants around a central
-element based on companion planting and growing tendencies. This reduces root
+Plant communities (sometimes called faires-plant-communities-and-guilds) organize plants around a central
+element based on [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] and growing tendencies. This reduces root
 competition, provides shelter from elements, adds nutrients to soil, and deters
 pests.
 
 Plants can be placed strategically to attract predators that eat pests, sacrifice
 themselves to attract pests away from crops, trap pests, provide nutrients through
-nitrogen fixation, or create shelter by preventing frost and wind.
+[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], or create shelter by preventing frost and wind.
 
 ## Water Retention Benefits
 
 The buried wood acts like a sponge, absorbing water during rains and releasing
 it slowly to plants during dry periods. This makes hugelkultur especially
 valuable in arid climates or areas with irregular rainfall. The decomposition
-process also generates heat, which can extend the growing season slightly.
+process also generates heat, which can [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season slightly.
 
 ## Long-Term Soil Building
 
@@ -84,3 +84,9 @@ Over years, the wood breaks down completely, leaving behind humus-rich soil with
 excellent structure. The air pockets created during decomposition improve
 drainage and root penetration. This creates a self-sustaining soil ecosystem
 that improves with each passing year, reducing the need for external inputs.
+## See Also
+- [[hugelkultur-beds]]
+- [[natural-farming-guide-sheet-mulching-no-dig-garden-preparation]]
+- [[natural-farming-guide-forest-garden-strategy-and-ecological-succession]]
+- [[decomposition]]
+- [[companion-planting]]

@@ -1,5 +1,5 @@
 ---
-title: Cannabis Hermaphrodite Prevention and Management
+title: Cannabis cannabis hermaphrodite prevention and management and Management
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Cannabis Grow Bible, Greg Green (Ch. 7)
+Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, Greg Green (Ch. 7)
 
 Hermaphroditism in cannabis — the development of both male and female sex organs on the same plant — is one of the most dangerous threats to a sinsemilla harvest. Even a single hermaphrodite can release enough pollen to seed an entire crop.
 
@@ -46,7 +46,7 @@ If you discover hermaphroditic organs on your plant:
 
 ### Emergency Pollination Exposure
 If you suspect your females have been exposed to pollen:
-- Watch for swelling calyxes and slowed resin production in the following weeks
+- Watch for swelling calyxes and slowed [[cannabis-glandular-trichome-types-resin-production-clarke]] in the following weeks
 - Pollinated flowers will produce seeds instead of maximizing bud and resin development
 - The resulting seeds can be collected and used — they will be crosses of whatever male pollen reached your females
 - Pollinated bud is still smokable but less potent and less pleasant
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

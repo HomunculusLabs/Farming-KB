@@ -32,7 +32,7 @@ sources:
 
 ## Overview
 
-**Centella asiatica** (L.) Urb., commonly known as gotu kola, Indian pennywort, or spadeleaf, is a herbaceous perennial in the family Apiaceae. Native to tropical and temperate regions of Africa, Asia, Australia, and the western Pacific, it has been used for millennia in Ayurveda, Traditional Chinese Medicine (TCM), and Southeast Asian folk medicine. Known as *Mandukaparni* in Sanskrit ("frog-leaved"), it is classified as a **Medhya Rasayana** — a rejuvenating intellect tonic. Modern research focuses on its triterpenoid saponins (asiaticoside, madecassoside) for wound healing, venous insufficiency, cognitive enhancement, and anxiolytic effects. It also serves as a living ground cover in permaculture and a phytoremediation tool for heavy metal extraction.
+**Centella asiatica** (L.) Urb., commonly known as gotu kola, Indian pennywort, or spadeleaf, is a herbaceous perennial in the family Apiaceae. Native to tropical and temperate regions of Africa, Asia, Australia, and the western Pacific, it has been used for millennia in Ayurveda, Traditional Chinese Medicine (TCM), and Southeast Asian folk medicine. Known as *Mandukaparni* in Sanskrit ("frog-leaved"), it is classified as a **Medhya Rasayana** — a rejuvenating intellect tonic. Modern research focuses on its triterpenoid saponins (asiaticoside, madecassoside) for wound healing, venous insufficiency, cognitive enhancement, and anxiolytic effects. It also serves as a living [[fukuoka-citrus-orchard-ground-cover-cultivation]] in permaculture and a phytoremediation tool for [[dighton-fungal-biosorption-heavy-metal-remediation]] extraction.
 
 ## Botanical Description
 
@@ -86,7 +86,7 @@ Stimulates fibroblast proliferation and extracellular matrix production via TGF-
 Inhibits NF-κB, COX-2, and iNOS expression. Reduces pro-inflammatory cytokines (TNF-α, IL-1β, IL-6). Madecassoside suppresses MAPK signaling cascades and decreases capillary permeability.
 
 ### Anxiolytic and Nootropic
-Inhibits acetylcholinesterase (AChE), enhancing cholinergic transmission. Modulates serotonin, dopamine, and norepinephrine systems. Enhances GABA-A receptor binding. Upregulates BDNF and NGF expression. Reverses scopolamine-induced memory deficits in animal models.
+Inhibits acetylcholinesterase (AChE), enhancing cholinergic transmission. Modulates serotonin, dopamine, and norepinephrine systems. Enhances GABA-A [[tihkal-receptor-binding-serotonin]]. Upregulates BDNF and NGF expression. Reverses scopolamine-induced memory deficits in animal models.
 
 ### Venotropic Activity
 Strengthens venous vessel walls, improves venous tone, reduces capillary permeability and edema. Basis for European phytomedicine use in chronic venous insufficiency.
@@ -115,9 +115,9 @@ Significant reductions in Hamilton Anxiety Rating Scale scores after 60 days at 
 
 ### Permaculture Functions
 - **Living ground cover:** Dense, weed-suppressing mat for food forest understories
-- **Erosion control:** Stabilizes moist banks and wetland edges
-- **Phytoremediation:** Extracts heavy metals (lead, cadmium, arsenic) from contaminated soils
+- **[[permplant-willows-salix-erosion-control-fodder]]:** Stabilizes moist banks and wetland edges
+- **Phytoremediation:** Extracts [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] (lead, cadmium, arsenic) from contaminated soils
 - **[[bacopa-monnieri]] — fellow Medhya Rasayana herb, often confused with Centella
 - [[ginkgo-biloba]] — nootropic herb for circulation and memory
 - [[rhodiola-rosea]] — adaptogenic herb for fatigue and mental performance
-- triterpenoid saponins — bioactive compounds in medicinal plants
+- triterpenoid saponins — [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in medicinal plants

@@ -74,10 +74,10 @@ are cleared at different rates, with certain species such as
   epidermophyton
 - **Systemic pathogens**: internally invasive fungi in the genus
   Ajellomyces and related anamorphs in blastomyces,
-  [[permaculture-ethics]] capsulatum is indigenous to the
+  permaculture-ethics capsulatum is indigenous to the
 Mississippi River valley, associated strongly with bird or bat guano.
 blastomyces dermatitidis is specific to riparian and
-rodent-influenced habitats in boreal eastern North America.
+rodent-influenced habitats in boreal [[polypore-fungi-eastern-north-america]] America.
 coccidioides immitis entity immitis occurs primarily in desert soils of the
 American southwest and northern Mexico.
 
@@ -87,7 +87,7 @@ A great variety of fungi cause infections opportunistically. These
 organisms ordinarily are harmless but can invade animal tissues or
 extensively colonize body surfaces when a host becomes
 immunocompromised or is exposed to a heavy load of potentially
-immunodepressing fungal inoculum.
+immunodepressing [[ingham-fungal-inoculum-sourcing]].
 
 Major groups of opportunistic pathogens include:
 - Thermotolerant [[cryptococcus-neoformans-pathogenesis]], a cosmopolitan colonizer of bird

@@ -1,5 +1,5 @@
 ---
-title: "How Do Fungi Improve Soil Structure?"
+title: "How Do query how do fungi improve soil structure Soil Structure?"
 created: 2026-04-28
 tags: [query, mycology, soil-science, mycorrhiza, soil-health]
 date: 2026-04-25
@@ -31,7 +31,7 @@ destroy soil structure over time.
 
 Fungi are among the most important biological agents for building
 and maintaining soil structure. The
-[[fungal-soil-aggregate-formation-glomalin]] page describes
+fungal-soil-aggregate-formation-glomalin page describes
 how this physical binding creates water-stable aggregates that
 resist breakdown from rain impact and irrigation. These
 aggregates are the crumbly, chocolate-cake-like structure that
@@ -46,15 +46,15 @@ by
 resisting microbial decomposition far longer than most organic
 compounds. It is estimated to contribute 27 percent of total soil
 carbon in some ecosystems, making it one of the most significant
-carbon storage mechanisms on Earth. This means that building
+[[holmgren-soil-humus-carbon-storage-rebuilding]] mechanisms on Earth. This means that building
 fungal populations in soil simultaneously improves structure and
 sequesters carbon.
 
-Mycorrhizal networks deserve special attention because they are
+[[dighton-mycorrhizal-networks-carbon-transfer]] deserve special attention because they are
 both the most widespread and most structurally important fungal
 group in most terrestrial soils. [[teaming-with-microbes-fungi]] page describes how these
 networks function as an underground internet that transfers
-nutrients, water, and chemical signals between plants. The
+nutrients, water, and [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] between plants. The
 relationship between fungi and soil structure is one of the key
 reasons that no-till and minimum-till farming practices
 outperform conventional tillage over time.
@@ -62,7 +62,7 @@ outperform conventional tillage over time.
 - [[arbuscular-mycorrhizal-fungi]], acts as long-lasting biological glue for soil aggregates
 - Mycorrhizal networks create macropores, connect plants, and store significant carbon in stable forms
 - [[singh-fungal-roles-in-soil-aggregate-formation]] develop under no-till, perennial, and diverse plant systems
-- Saprophytic fungi decompose organic matter and incorporate it into humus-rich aggregates for long-term soil building
+- Saprophytic fungi decompose [[hamilton-composting-and-organic-matter-management]] and incorporate it into humus-rich aggregates for long-term soil building
 
 ## Related Questions
 - [[query-what-is-the-soil-food-web-and-why-does-it-matter]]
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -35,7 +35,7 @@ Ayurveda, where it has been used for over 2,500 years to treat
 intestinal worms, digestive disorders, and skin diseases. The small, pepper-like berries are the primary medicinal part, containing
 the bioactive quinone embelin as their principal constituent.
 
-The species is native to the Indian subcontinent and Southeast Asia and
+The species is native to the Indian subcontinent and [[psilocybe-southeast-asia-pacific]] and
 is increasingly studied for its anti-diabetic, anti-inflammatory, and
 anti-cancer properties beyond its traditional anthelmintic uses.
 
@@ -62,7 +62,7 @@ adulteration in commercial supply.
   clusters, blooming March–June
 - **Fruit:** Small globular berry, 3–5 mm diameter, reddish when
   immature, turning glossy black at maturity, resembling black
-  pepper (hence "false black pepper")
+  pepper (hence "false [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]]")
 - **Seeds:** One per fruit, globular, 2–3 mm, brownish
 
 ## Distribution and Habitat
@@ -77,7 +77,7 @@ China.
   secondary growth
 - **Climate:** Tropical monsoon; requires 1,000–2,000 mm annual
   rainfall, warm temperatures (20–35°C optimal)
-- **Soil:** Prefers well-drained forest loams with organic matter;
+- **Soil:** Prefers well-drained forest loams with [[hamilton-composting-and-organic-matter-management]];
   tolerant of lateritic and rocky soils
 - **Conservation:** Wild populations declining due to overharvesting
   of berries for medicinal trade; listed as vulnerable in several
@@ -86,7 +86,7 @@ China.
 ## Bioactive Compounds
 
 The pharmacological activity of vidanga centers on several classes of
-secondary metabolites:
+[[antifungal-secondary-metabolites-coprophilous-fungi]]:
 
 - **Embelin (2,5-dihydroxy-3-undecyl-1,4-benzoquinone):** The signature
   compound, comprising 2.5–3.2% of dried berries. A redox-active
@@ -118,7 +118,7 @@ and is increasingly validated by modern research:
   reduces TNF-α and IL-6 production
 - **Anti-cancer:** Embelin induces apoptosis via XIAP (X-linked
   inhibitor of apoptosis protein) inhibition; active against breast,
-  prostate, and colon cancer cell lines
+  prostate, and [[cannabis-and-colon-cancer-research]] cell lines
 - **Gastroprotective:** Reduces gastric acid secretion and protects
   mucosal lining; traditional ulcer remedy validated in animal models
 - **Antimicrobial:** Active against *Bacillus subtilis*, *Candida
@@ -140,6 +140,8 @@ a pungent (*katu*) taste and heating (*ushna*) potency.
 - **Yield:** 500–800 kg fresh berries/ha; variable seed viability
   complicates large-scale cultivation
 ## See Also
+
+- [[ribes-grossularia]]
 
 - [[glycyrrhiza-glabra]]
 - [[withania-somnifera]]

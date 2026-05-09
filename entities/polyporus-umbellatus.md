@@ -1,5 +1,5 @@
 ---
-title: "Polyporus umbellatus"
+title: "growing-gourmet-polyporus-umbellatus-zhu-ling-cultivation"
 created: 2026-04-28
 type: species
 tags:
@@ -41,9 +41,9 @@ the sclerotia in late summer to early fall at temperatures of 50-60°F.
 
 | Stage | Temperature | Humidity | Duration | CO2 | Light |
 |---|---|---|---|---|---|
-| Spawn Run | 60-75°F (15-24°C) | 90-100% RH | 21-30 days to 2 years | >5,000 ppm | Not specified |
-| Sclerotia Formation | 50-60°F (10-16°C) | 90-100% RH | 60-90 days | Not specified | Darkness required |
-| Primordia Formation | 40-50°F (4-10°C) | 90-100% RH | 30-60 days | <5,000 ppm | <200 lux |
+| [[mushroom-spawn-run-thermogenesis-cotter]] | 60-75°F (15-24°C) | 90-100% RH | 21-30 days to 2 years | >5,000 ppm | Not specified |
+| [[growing-gourmet-sclerotia-formation-biology-mushrooms]] | 50-60°F (10-16°C) | 90-100% RH | 60-90 days | Not specified | Darkness required |
+| [[growing-gourmet-primordia-formation-pinning]] | 40-50°F (4-10°C) | 90-100% RH | 30-60 days | <5,000 ppm | <200 lux |
 | Fruitbody Development | 50-60°F (10-16°C) | 85-95% RH | 30-90 days | <500 ppm ambient | 500-1,000 lux |
 
 **Cropping Cycle:** Seasonal, late summer to early fall.
@@ -51,7 +51,7 @@ the sclerotia in late summer to early fall at temperatures of 50-60°F.
 ## Medicinal Properties
 
 *Polyporus umbellatus* has long been heralded for potent anti-cancer and
-immuno-potentiating properties, especially in the treatment of lung cancer.
+immuno-potentiating properties, especially in the treatment of [[psk-breast-lung-cancer-clinical-trials]].
 During a 1983 visit to the Beijing Institute of Materia Medica, [[andrew-weil]], Gary Salzman, and [[butomus-umbellatus]]
 ## Practical Considerations
 
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

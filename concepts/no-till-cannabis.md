@@ -1,8 +1,9 @@
 ---
-title: No-Till Cannabis Cultivation
+title: No-Till query-how-does-no-till-cannabis-cultivation-work
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
@@ -20,7 +21,7 @@ No-till cultivation is grounded in several core principles that distinguish it f
 - **Minimal soil disturbance**: Avoid tilling, digging, or turning the soil. The soil structure and biology that develop are preserved intact.
 - **Soil biology preservation**: The complex ecosystem of bacteria, fungi, protozoa, nematodes, and other organisms is maintained undisturbed.
 - **Continuous organic inputs**: Fresh organic matter is added as a top dressing (mulch layer) rather than being mixed into the soil.
-- **Soil food web**: Rely on the natural decomposition cycle to make nutrients available to plants.
+- **Soil food web**: Rely on the [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]] cycle to make nutrients available to plants.
 - **Living soil foundation**: No-till builds on [[cervantes-compost-tea-organic-brewing]] or compost extract.
 4. Replants directly into the existing soil.
 
@@ -34,9 +35,9 @@ The initial no-till bed should be built with high-quality organic ingredients. B
 
 - **Base mix**: A combination of compost, coco coir or peat moss, and mineral amendments.
 - [[perlite-cannabis]] or [[cervantes-compost-tea-organic-brewing]] is a key tool for maintaining biological activity in no-till systems. Regular applications of compost tea:
-- Replenish beneficial bacterial and fungal populations.
+- Replenish beneficial [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] populations.
 - Speed decomposition of organic mulch layers.
-- Provide natural disease suppression.
+- Provide natural [[aact-disease-suppression-mechanisms-ingham]].
 - Improve nutrient cycling.
 
 Different tea recipes can be used depending on the needs of the system: bacterial-dominant teas for vegetative growth, fungal-dominant teas for flowering, and balanced mycorrhizal teas for overall soil health.
@@ -49,7 +50,7 @@ Different tea recipes can be used depending on the needs of the system: bacteria
 - **Water efficiency**: Improved soil structure increases water retention.
 - **Disease suppression**: A diverse soil biology outcompetes many pathogens.
 - **Sustainability**: No soil disposal or replacement needed between grows.
-- **Flavor enhancement**: Many growers report improved terpene profiles and flavor.
+- **Flavor enhancement**: Many growers report improved [[cannabis-terpene-profiles-sativa]] and flavor.
 
 ## Challenges of No-Till
 
@@ -57,7 +58,7 @@ Different tea recipes can be used depending on the needs of the system: bacteria
 - **Indoor limitations**: Outdoor soil mixes can create problems indoors with pests and poor drainage.
 - **pH management**: Less precise control than hydroponic-cannabis|hydroponics; pH must be managed through buffering amendments.
 - **Nutrient timing**: Slower nutrient release means less control over exact plant nutrition.
-- **Pest management**: Compost and organic inputs may introduce pests; use only clean, quality inputs.
+- **Pest management**: [[coleman-compost-and-organic-fertility-management]] inputs may introduce pests; use only clean, quality inputs.
 
 ## Transitioning to No-Till
 

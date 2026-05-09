@@ -58,7 +58,7 @@ It prefers calcareous or neutral, well-drained soils with good moisture retentio
 
 ## Bioactive Compounds
 
-Like other Tuber species, T. macrosporum produces a complex mixture of volatile organic compounds responsible for its aroma. Major volatiles include dimethyl sulfide, 2-methylbutanal, and phenylacetaldehyde.
+Like other Tuber species, T. macrosporum produces a complex mixture of [[fungal-volatile-organic-compounds-communication]] compounds responsible for its aroma. Major volatiles include dimethyl sulfide, 2-methylbutanal, and phenylacetaldehyde.
 
 The aroma profile is notably dominated by sulfur-containing compounds, which contribute to the species' reputation as one of the most powerfully scented truffles. These compounds are similar to but more concentrated than those found in T. melanosporum.
 
@@ -74,11 +74,11 @@ The stronger aroma means less quantity is needed per dish compared to other truf
 
 ## Cultivation
 
-Cultivation of T. macrosporum is experimental but has shown promising results. Mycorrhizal inoculation of hazel and poplar seedlings has been successfully achieved under controlled conditions.
+Cultivation of T. macrosporum is experimental but has shown promising results. [[teaming-with-fungi-mycorrhizal-inoculation-techniques]] of hazel and poplar seedlings has been successfully achieved under controlled conditions.
 
 Field plantations inoculated with T. macrosporum have produced sporocarps after 4–6 years in Italy and Hungary. However, yields remain inconsistent and commercial-scale production has not been established.
 
-The primary challenges are the long time to first harvest, low and unpredictable yields, and competition from other Tuber species in plantation soils. Research into optimizing host tree selection and soil conditions is ongoing.
+The primary challenges are the long time to first harvest, low and unpredictable yields, and competition from other Tuber species in plantation soils. Research into optimizing host [[hamilton-fruit-tree-selection-pollination]] and soil conditions is ongoing.
 
 ## Related Species
 
@@ -92,7 +92,7 @@ It can be confused with T. brumale in the field, but differs in its larger spore
 
 T. macrosporum plays an important role in forest ecosystems as an ectomycorrhizal symbiont. The fungal hyphae extend the effective root surface area of host trees, improving nutrient and water uptake.
 
-In riparian ecosystems, the species contributes to soil aggregation and organic matter cycling. The decomposing ascocarps release nitrogen and phosphorus back into the soil profile.
+In riparian ecosystems, the species contributes to soil aggregation and [[hamilton-composting-and-organic-matter-management]] cycling. The decomposing ascocarps release nitrogen and phosphorus back into the soil profile.
 
 Wild animals, particularly wild boar (*Sus scrofa*) and various rodents, are key dispersal agents. They locate and consume the truffles, spreading spores through their feces across the landscape.
 
@@ -102,9 +102,9 @@ The species shows moderate host specificity but performs best with Salicaceae ho
 
 T. macrosporum is classified as a species of conservation concern in several European countries due to habitat loss and overharvesting from wild populations. Riparian forest degradation has reduced available habitat.
 
-Unregulated harvesting with rakes damages the mycorrhizal network and reduces future productivity. Several Italian regions have implemented harvest regulations, including seasonal restrictions and permit requirements.
+Unregulated harvesting with rakes damages the [[arbuscular-mycorrhizal-network-visualization-anastomosis]] and reduces future productivity. Several Italian regions have implemented harvest regulations, including seasonal restrictions and permit requirements.
 
-Climate change poses an additional threat, as altered precipitation patterns and increased drought frequency may disrupt the soil moisture conditions that T. macrosporum requires for fruiting.
+[[dighton-fungi-climate-change-feedback]] poses an additional threat, as altered precipitation patterns and increased drought frequency may disrupt the soil moisture conditions that T. macrosporum requires for fruiting.
 
 Ex situ conservation through managed plantations offers a potential safeguard, though establishment remains technically challenging. Germplasm collections of characterized mycorrhizal strains are maintained at several European research institutions.
 

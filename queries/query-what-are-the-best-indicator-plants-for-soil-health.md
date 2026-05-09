@@ -1,10 +1,11 @@
 ---
-title: "What Are the Best Indicator Plants for Soil Health"
+title: "What Are the query what are the best indicator plants for soil health Plants for Soil Health"
 created: 2026-04-28
 tags: [query, soil-health, plants, observation, gardening]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -39,14 +40,14 @@ below 6.0, while chicory, bladder campion, and yarrow favor alkaline soils above
 blueberries, and cranberries growing naturally. These pH preferences are
 valuable because many garden vegetables and cannabis plants have specific pH
 requirements, and adjusting soil pH is one of the most impactful things a grower
-can do to improve plant health. The [[urban-permaculture-edge-effect-and-design-principles]], particularly the principle
+can do to improve plant health. The urban-permaculture-edge-effect-and-design-principles, particularly the principle
 of observing and interacting before making changes. Rather than immediately
 amending soil based on assumptions, permaculturists encourage spending time
 observing what is already growing and what those plants reveal about the site.
-This observation period might last a full growing season before major
-interventions are planned. Indicator plants also serve as dynamic accumulators
+This observation period might last a full [[savory-growing-season-and-non-growing-season-management]] before major
+interventions are planned. Indicator plants also serve as [[comparison-dynamic-accumulators-vs-cover-crops]]
 that can be harvested and used to make nutrient-rich compost teas or mulch.
-Nettles, for example, make an excellent nitrogen-rich liquid fertilizer when
+Nettles, for example, make an excellent nitrogen-rich [[jadam-liquid-fertilizer-nutritional-perspective]] when
 steeped in water for several weeks.
 
 For cannabis growers, understanding indicator plants is particularly valuable
@@ -72,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,3 +116,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[query-what-are-the-best-plants-for-a-hugelkultur-bed]]

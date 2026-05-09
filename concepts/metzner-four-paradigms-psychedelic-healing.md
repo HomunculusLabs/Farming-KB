@@ -27,7 +27,7 @@ consciousness-altering substances.
 
 Metzner, who worked with Timothy Leary and Richard Alpert at Harvard
 University in the 1960s on the therapeutic applications of LSD and
-psilocybin, spent over 35 years studying altered states of
+psilocybin, spent over 35 years studying [[weil-the-natural-mind-altered-states-normalcy]] of
 consciousness. His explorations spanned from laboratory psychotherapy
 to indigenous shamanic traditions studied through the work of Michael
 Harner, Joan Halifax, Peter Furst, and Terence and Dennis McKenna. He
@@ -43,18 +43,18 @@ in a Swiss pharmaceutical lab during World War II, they were
 characterized as "psychotomimetic" and "psycholytic." The Sandoz labs
 described LSD as bringing about "psychic loosening or opening"
 (*seelische Auflockerung*), which became the dominant model for LSD-
-assisted psychotherapy in Europe. In psycholytic therapy, patients
+assisted psychotherapy in Europe. In [[european-psycholytic-therapy-1960s-1970s]], patients
 were given LSD in a series of sessions at gradually increasing doses
 while undergoing analytic interactions using a Freudian perspective.
 
 The Czech psychiatrist Stanislav Grof, working within this model,
 discovered that patients could relive birth and prebirth memories,
-patterns he called "perinatal matrices." More or less simultaneously,
+patterns he called "[[metzner-grof-perinatal-matrices-and-transpersonal-realms]]." More or less simultaneously,
 the psychedelic model became preferred in Anglo-American circles,
 involving one or a small number of high-dose sessions during which
 unconscious contents would manifest as vivid hallucinatory imagery.
 
-Leary introduced and popularized the "set and setting" hypothesis,
+Leary introduced and popularized the "[[lsd-set-and-setting-framework]]" hypothesis,
 according to which the primary determinants of a psychedelic
 experience are the internal set (intention, expectation, motivation)
 and the external setting or context. This model connects to
@@ -76,7 +76,7 @@ Metzner identifies two points in which the worldview of shamanic and
 hybrid shamanic ceremonies differs radically from the accepted
 Western worldview:
 
-1. **Multiple Realities**: The belief and assumption, really a
+1. **[[metzner-spirit-beings-multiple-realities-entheogens]]**: The belief and assumption, really a
    perception, that there are multiple realities or "worlds" that can
    be explored in expanded states of consciousness. The Western
    paradigm typically assumes a single material reality.
@@ -95,6 +95,10 @@ derives from the Latin *alucinare* meaning "to wander in one's mind,"
 and "entheogen" (proposed by Wasson and Ott) means "releasing or
 expressing the divine within." The term "entheogen" connects to the
 broader discussion of [[metzner-psychedelic-psychotherapy-clinical-history]] - Metzner's
-  overview of clinical psychedelic therapy
+  overview of clinical [[metzner-psycholytic-psychedelic-therapy-models]]
 - [[metzner-ayahuasca-therapeutic-potential]] - Ayahuasca in
   therapeutic contexts
+
+## See Also
+
+- [[four-paradigms-of-psychedelic-use]]

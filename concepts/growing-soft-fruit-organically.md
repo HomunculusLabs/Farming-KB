@@ -1,5 +1,5 @@
 ---
-title: Growing Soft Fruit Organically
+title: Growing growing soft fruit organically Organically
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -24,9 +24,9 @@ Soft fruits encompass brambles, shrubs, and herbaceous perennials. Cane fruits n
 **Type:** Bush (5ft) or cordon (1-3ft).
 **Site:** Sunny, heavy moisture-retentive soil.
 **Time to crop:** 1-2 years.
-**Feeding:** Handful of rock potash in early spring.
-**Frost protection:** Woven polypropylene netting.
-**Pests:** Aphids, birds, mildew, sawfly, leaf spot.
+**Feeding:** Handful of rock potash in [[coleman-overwintered-onions-and-early-spring-crops]].
+**[[holzer-frost-protection-techniques]]:** Woven polypropylene netting.
+**Pests:** Aphids, birds, mildew, sawfly, [[jadam-canker-leaf-spot-pesticide]].
 
 ## Black Currants (Ribes nigrum)
 
@@ -62,7 +62,7 @@ Soft fruits encompass brambles, shrubs, and herbaceous perennials. Cane fruits n
 **Type:** Bush (6ft).
 **Site:** Sunny, acid soil essential (pH 4.5-5.5).
 **Time to crop:** 3-8 years.
-**Soil preparation:** If soil is not acid enough, grow in large pots of ericaceous compost. Mulch with pine needles or leaf mold.
+**Soil preparation:** If soil is not acid enough, grow in large pots of ericaceous compost. Mulch with pine needles or [[comparison-leaf-mold-composting-vs-hot-composting-method]].
 
 ## Grapes (Vitis vinifera)
 

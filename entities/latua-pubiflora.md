@@ -16,7 +16,7 @@ sources:
 
 # Latua pubiflora
 
-**Latua pubiflora** (Griseb.) Baill., commonly known as **Latue** or **Arbol de los Brujos** ("Tree of the Witches"), is a rare and powerful hallucinogenic plant endemic to Chile. It is one of the most mysterious psychoactive plants of South America, formerly used exclusively by Mapuche Indian shamans.
+**Latua pubiflora** (Griseb.) Baill., commonly known as **Latue** or **Arbol de [[latua-pubiflora-arbol-de-los-brujos-ethnobotany]]** ("Tree of the Witches"), is a rare and powerful hallucinogenic plant endemic to Chile. It is one of the most mysterious psychoactive plants of South America, formerly used exclusively by Mapuche Indian shamans.
 
 ## Taxonomy and Classification
 
@@ -50,7 +50,7 @@ Latua pubiflora was formerly used by the Mapuche Indian shamans of Valdivia, Chi
 
 ### Preparation Methods
 
-Traditional preparation methods for Latue are not well documented in the ethnographic literature. It is believed that the leaves and possibly the fruits were the primary plant parts used. Preparations may have included teas, infusions, or possibly smoking of dried plant material. The secrecy surrounding Mapuche shamanic practices has meant that much knowledge about the specific preparation and use of Latue has been lost.
+[[kava-traditional-preparation-ceremonial-context]] methods for Latue are not well documented in the ethnographic literature. It is believed that the leaves and possibly the fruits were the primary plant parts used. Preparations may have included teas, infusions, or possibly smoking of dried plant material. The secrecy surrounding Mapuche shamanic practices has meant that much knowledge about the specific preparation and use of Latue has been lost.
 
 ### Shamanic Context
 
@@ -104,7 +104,7 @@ The plant is so rare and restricted in distribution that it represents one of th
 
 ## Historical Documentation
 
-The earliest European references to Latue appear in the writings of 19th-century naturalists and ethnographers working in southern Chile. The plant was brought to wider scientific attention by Richard Evans Schultes and his colleagues, who documented its use among the Mapuche. Despite this attention, L. pubiflora remains one of the most poorly characterized psychoactive plants in terms of its chemistry and pharmacology.
+The earliest European references to Latue appear in the writings of 19th-century naturalists and ethnographers working in southern Chile. The plant was brought to wider scientific attention by Richard [[richard-evans-schultes-updated]] and his colleagues, who documented its use among the Mapuche. Despite this attention, L. pubiflora remains one of the most poorly characterized psychoactive plants in terms of its [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]].
 
 ## Conservation Status
 
@@ -116,7 +116,7 @@ The plant's restricted range makes it particularly vulnerable to habitat loss. C
 
 L. pubiflora can be compared with other hallucinogenic members of the Solanaceae family:
 
-- [[brugmansia-aurea]] — Golden Angel's Trumpet, widely used in South American ceremonies
+- [[brugmansia-aurea]] — Golden Angel's Trumpet, widely used in [[chiric-caspi-brunfelsia-south-american-hallucinogen]] ceremonies
 - [[datura-innoxia]] — another Datura species with tropane alkaloids
 
 The key distinguishing feature of L. pubiflora is its extreme rarity and geographic restriction. While other Solanaceae hallucinogens are widely distributed and well-characterized chemically, Latua remains one of the most poorly understood members of this pharmacologically important plant family.

@@ -11,7 +11,7 @@ entity_type: "compound"
 source: "TIHKAL"
 source_entry: "#49"
 classification: ["tryptamine", "monoalkyltryptamine"]
-synthesis_method: "from indole via oxalyl chloride and ethylamine, or from tryptamine via acetylation and LAH reduction"
+synthesis_method: "from indole via [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] and ethylamine, or from tryptamine via acetylation and LAH reduction"
 status: ["research chemical", "minimally active"]
 legal_status: ["varies by jurisdiction"]
 created: 2026-04-15
@@ -31,7 +31,7 @@ NET is N-ethyltryptamine, a monoalkyltryptamine in which a single ethyl group is
 
 The free base spontaneously crystallizes to a white waxy solid with a melting point of 80-81 degrees Celsius. The hydrochloride salt has a melting point of 181-182 degrees Celsius (from isopropanol/ether).
 
-Mass spectral data shows the C3H8N+ fragment at m/z 58 (100%), the indolemethylene+ fragments at m/z 131 and 130 (48%/33%), and the parent ion at m/z 188 (2%). Infrared spectroscopy shows characteristic absorptions at 751, 887, 940, 1021, 1051, and 1118 cm-1 for the free base, and at 750, 761, 825, 1020, 1108, and 1142 cm-1 for the hydrochloride salt.
+Mass [[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]] shows the C3H8N+ fragment at m/z 58 (100%), the indolemethylene+ fragments at m/z 131 and 130 (48%/33%), and the parent ion at m/z 188 (2%). Infrared spectroscopy shows characteristic absorptions at 751, 887, 940, 1021, 1051, and 1118 cm-1 for the free base, and at 750, 761, 825, 1020, 1108, and 1142 cm-1 for the hydrochloride salt.
 
 NET is documented in [[tryptamine-entity-tihkal]] - the unsubstituted parent compound
 - [[dpt-entity-tihkal]] - N,N-dipropyltryptamine, the disubstituted analogue
@@ -58,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,4 +100,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,10 +1,11 @@
 ---
-title: Blueberry Growing Guide
+title: Blueberry comparison-bean-growing-guide-vs-pepper-growing-guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cultivation, gardening, fruit-tree, ph, beginner, harvesting]
-sources: []
+sources:
+  sources: []
 ---
 
 ## Overview
@@ -17,7 +18,7 @@ Blueberries require acidic soil with a pH of 4.5-5.5. This is their most critica
 
 ### Testing and Targeting pH
 - Test soil pH before planting — most garden soils are too alkaline (pH 6.0-7.5)
-- Target pH 4.5-5.0 for optimal growth and nutrient uptake
+- Target pH 4.5-5.0 for optimal growth and [[plant-nutrient-uptake-mechanisms]]
 - At higher pH, blueberries develop iron chlorosis (yellowing leaves with green veins) and fail to thrive
 - Test annually — pH tends to drift upward over time
 
@@ -40,13 +41,13 @@ Blueberries require acidic soil with a pH of 4.5-5.5. This is their most critica
   - Southern highbush have lower chill hour requirements
 
 ### Lowbush Blueberries (Vaccinium angustifolium)
-- Native to northern North America; low spreading shrubs, 6-24 inches tall
+- Native to northern [[psilocybin-north-america-pacific-northwest]]; low spreading shrubs, 6-24 inches tall
 - Zones 2-6; small but intensely flavored berries
 - Varieties: Top Hat (ornamental), Brunswick, Fundy
 
 ### Rabbiteye Blueberries (Vaccinium virgatum)
 - Native to southeastern US; large vigorous shrubs, 6-10+ feet tall
-- Zones 7-9; very heat and drought tolerant, require cross-pollination
+- Zones 7-9; very heat and [[permplant-carob-drought-tolerant-food-tree]], require cross-pollination
 - Varieties: Brightwell, Premier, Tifblue, Climax, Powderblue
 
 ### Half-High Blueberries
@@ -61,9 +62,9 @@ Blueberries require acidic soil with a pH of 4.5-5.5. This is their most critica
 - Fall planting works in mild climates where roots can establish before freezing
 
 ### Site Selection
-- Full sun (6-8+ hours) for maximum fruit production
+- Full sun (6-8+ hours) for [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] production
 - Afternoon shade beneficial in very hot climates (zone 8+)
-- Good air circulation to reduce disease
+- Good [[stamets-growing-room-air-circulation-co2-management]] to reduce disease
 - Avoid frost pockets (low-lying areas where cold air settles)
 - Consistent moisture access — do not plant in droughty sites without irrigation
 
@@ -141,36 +142,6 @@ Birds are the primary pest of blueberries — they can strip a bush in a single 
 - Use ammonium sulfate or a fertilizer formulated for acid-loving plants (rhododendron/azalea fertilizer)
 - Avoid nitrate-based fertilizers (they raise soil pH)
 - Avoid chlorides (blueberries are chloride-sensitive)
-
-### Schedule
-- Year 1: No fertilizer at planting; first application 4-6 weeks after planting with 1 tablespoon of ammonium sulfate
-- Year 2: Apply in early spring and again in late spring — 2 tablespoons per plant per application
-- Mature plants (3+ years): Apply 1/4 to 1/2 cup of ammonium sulfate per plant in early spring, split into 2 applications (early spring and late spring)
-- Stop fertilizing by mid-summer to allow new growth to harden before winter
-
-### Nutrient Deficiencies
-- **Iron chlorosis**: Yellow leaves with green veins; lower soil pH with sulfur
-- **Nitrogen deficiency**: Pale leaves, slow growth; apply ammonium sulfate
-- **Magnesium deficiency**: Yellowing between leaf veins; apply Epsom salts as foliar spray
-
-## Watering
-
-- Blueberries have shallow root systems — consistent moisture is critical
-- 1-2 inches per week during the growing season
-- Drip irrigation is ideal (keeps foliage dry)
-- Mulch heavily to retain moisture
-- Critical watering periods: fruit development (May-June) and bud formation (August-September)
-- Do not allow soil to dry completely, but do not waterlog
-
-## Harvesting
-
-- Berries ripen over 3-5 weeks per variety
-- Do not pick until fully blue — flavor improves for 2-3 days after turning blue
-- Berries should detach easily when ripe
-- Pick every 2-3 days at peak season
-- Refrigerate immediately; do not wash until ready to eat
-- Fresh berries last 1-2 weeks refrigerated
-- Freeze on baking sheets, then transfer to bags — lasts 6-12 months
 
 ## See Also
 

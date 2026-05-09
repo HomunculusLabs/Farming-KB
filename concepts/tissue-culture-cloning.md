@@ -1,5 +1,5 @@
 ---
-title: Tissue Culture and Cloning
+title: comparison-seed-saving-techniques-vs-tissue-culture-cloning and Cloning
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -14,10 +14,10 @@ Tissue culture (cloning) is the process of isolating living mycelium from the in
 
 ## Why Clone
 
-- **Genetic consistency**: Preserves the exact dikaryotic genotype of a proven fruiting strain
+- **Genetic consistency**: Preserves the exact dikaryotic genotype of a proven [[cold-shock-fruiting-strain-specificity]]
 - **Fruiting guarantee**: Unlike multispore cultures, a dikaryotic tissue isolate is already mated and capable of fruiting (bypassing the illegitimate mating problem)
-- **Speed**: Mycelium from tissue culture is typically visible on agar within 3-7 days, versus 3-14 days for spore germination
-- **Strain improvement**: Enables selection of the best-performing individuals from a population
+- **Speed**: Mycelium from tissue culture is typically visible on agar within 3-7 days, versus 3-14 days for [[growing-gourmet-spore-germination-strain-isolation]]
+- **[[mushroom-strain-improvement-and-breeding-methods]]**: Enables selection of the best-performing individuals from a population
 
 ## Tissue Isolation Procedure
 
@@ -27,7 +27,7 @@ Tissue culture (cloning) is the process of isolating living mycelium from the in
 - Flame-sterilized scalpel or biopsy tool
 - Prepared agar plates (MEA or PDA)
 - Alcohol lamp or butane torch
-- Glove box or laminar flow hood
+- Glove box or [[comparison-laminar-flow-hood-vs-fruiting-chamber]] hood
 - 70% isopropyl alcohol
 
 ### Specimen Selection
@@ -59,7 +59,7 @@ The exterior of the mushroom is heavily contaminated with spores and microorgani
 2. Open the Petri dish minimally
 3. Place the tissue piece onto the center of the agar surface
 4. Close the dish and seal with parafilm or tape
-5. Incubate at the species' optimal temperature for mycelial growth
+5. Incubate at the species' optimal temperature for [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
 6. Visible mycelial growth typically appears within 3-7 days
 
 ### Contamination Management
@@ -101,5 +101,5 @@ For cultivators seeking reliable, repeatable results:
 
 - [[spore-syringe-production]] for the alternative inoculation method
 - [[grain-spawn-preparation]] for expanding the isolated strain into spawn
-- [[mushroom-spore-syringe-and-inoculation]]
+- mushroom-spore-syringe-and-inoculation
 - [[mushroom-long-term-storage]]

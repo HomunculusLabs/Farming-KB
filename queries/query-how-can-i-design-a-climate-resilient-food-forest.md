@@ -33,9 +33,9 @@ Before planting a single tree, understand the climate risks written into your la
 
 ### Key Climate Risk Factors to Map
 
-- **Frost pockets**: Cold air flows downhill and pools in low spots. Walk your site on frosty mornings and note where frost lingers. Avoid frost-sensitive species (citrus, avocado, pawpaw) here; use these for hardy root crops or berry bushes.
+- **Frost pockets**: [[hemenway-cold-air-drainage-and-frost-management]] flows downhill and pools in low spots. Walk your site on frosty mornings and note where frost lingers. Avoid frost-sensitive species (citrus, avocado, pawpaw) here; use these for hardy [[permaculture-plants-root-crops-and-tubers]] or berry bushes.
 - **Heat zones**: Identify south-facing slopes, reflected heat from structures, and full afternoon-sun areas. These are critical during heat waves but offer early-spring advantages.
-- **Flood and drought exposure**: Map seasonal water flow — where does water collect after heavy rain? Where does soil crack first in dry spells? Position water-loving species (willow, elderberry) in wet zones and drought-adapted species (carob, honey locust, seaberry) on high ground.
+- **Flood and drought exposure**: Map seasonal water flow — where does water collect after heavy rain? Where does soil crack first in dry spells? Position water-loving species (willow, elderberry) in wet zones and drought-adapted species (carob, [[permaculture-honey-locust-pod-fodder-system]], seaberry) on high ground.
 - **Wind corridors**: Observe prevailing wind direction and storm patterns. Note topographic funnelling effects. These dictate windbreak placement.
 
 ### Actionable Steps
@@ -71,7 +71,7 @@ For larger properties, keyline patterning (P.A. Yeomans) plows shallow subsoil c
 ### Drought-Proofing Strategies
 
 - Prioritize **deep-rooted perennials** — they access deep moisture and improve soil structure.
-- Apply 4–6 inches of woody mulch everywhere (reduces evaporation up to 70%).
+- Apply 4–6 inches of [[permaculture-woody-mulch-systems]] everywhere (reduces evaporation up to 70%).
 - Design a "dry garden" zone at the top with the most drought-tolerant species.
 - Incorporate **graywater systems** where regulations allow.
 
@@ -95,7 +95,7 @@ Healthy soil holds more water, cycles more nutrients, and supports the microbial
 Walk your site daily in all weather. Create base maps for topography, sun sectors, water flow, wind, vegetation, and soil. Gather historical climate data and local knowledge.
 
 ### Step 2: Analyze and Assess
-Overlay climate risk maps. Identify "zones of catastrophe" (frost pockets, flood zones) and "zones of opportunity" (thermal mass sites, deep soil). Soil test for pH, organic matter, nutrients, and compaction.
+Overlay climate risk maps. Identify "zones of catastrophe" (frost pockets, flood zones) and "zones of opportunity" (thermal mass sites, deep soil). Soil test for pH, [[hamilton-composting-and-organic-matter-management]], nutrients, and compaction.
 
 ### Step 3: Design the Framework
 Place water infrastructure first (swales, ponds, keyline). Design windbreaks. Lay out access paths and zone structure. Position canopy trees at mature spacing (20–40 feet apart).

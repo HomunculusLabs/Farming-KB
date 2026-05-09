@@ -1,21 +1,6 @@
 ---
-title: Trees and Water Cycling
-created: 2026-04-18
-updated: 2026-04-21
-type: concept
-tags: [[permaculture, gardening, urban-agriculture]
-sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
-
-# Trees and Water Cycling
-
-Trees are the primary drivers of local and regional water cycles. They create rainfall, harvest moisture from fog, moderate temperature extremes, purify air and water, and maintain the conditions that make terrestrial life possible. Understanding the relationship between trees and water is essential for [[permaculture]] Water Systems design.
-
-## Trees as Condensers
-
-On a sea-facing hillside, trees act as [condensers, ice nuclei, inducers of stream flow, and re-humidifiers of the airstream. They create most of the condensation that creates precipitation.
-
-Water-laden air flowing inland encounters the rapidly cooling surfaces of tree leaves, and condensation occurs. This process is greatly aided by colonies of bacteria (Pseudomonas) on leaf surfaces, which serve as nuclei for frost crystals and water droplets to settle on. These saturated airstreams produce seaward-facing mosses and [[lichens]] on rocks, but more importantly condense in trees to create copious soft condensation.
+# Trees and Water Cycling Trees are the primary drivers of local and regional water cycles. They create rainfall, harvest moisture from fog, moderate temperature extremes, purify air and water, and maintain the conditions that make terrestrial life possible. Understanding the relationship between trees and water is essential for permaculture Water Systems design. ## Trees as Condensers On a sea-facing hillside, trees act as [condensers, ice nuclei, inducers of stream flow, and re-humidifiers of the airstream. They create most of the condensation that creates precipitation. Water-laden air flowing inland encounters the rapidly cooling surfaces of tree leaves, and condensation occurs. This process is greatly aided by colonies of bacteria (Pseudomonas) on leaf surfaces, which serve as nuclei for frost crystals and water droplets to settle on. These saturated airstreams produce seaward-facing mosses and lichens on rocks, but more importantly condense in trees to create copious soft condensation.
 
 Condensation drip can be as high as 80-86% of total precipitation on upland slopes of islands or sea coasts. This condensation eventually produces the dense rainforests of Tasmania, Chile, Hawaii, Washington/Oregon, and Scandinavia. It produced the redwood forests of California and the giant laurel forests of the Canary Islands (now an arid area due to almost complete deforestation by the Spanish).
 
@@ -90,10 +75,60 @@ White or red-coloured roof vines over tiles can effectively lower summer tempera
 
 For permaculture designers, the implications are clear:
 
-- Plant trees as early as possible in any design -- they take years to reach full water-cycling function (see [[urban-permaculture-fodder-trees-livestock]]
+- Plant trees as early as possible in any design -- they take years to reach full water-cycling function (see urban permaculture trees water cycling
 
-- [[permaculture-water-systems]]
+- permaculture-water-systems
 [microclimate design
-- [[edge-effect-in-permaculture]]
+- edge-effect-in-permaculture
 - [Keyline Design
-- [[herb-spiral-design-guide]]
+- herb-spiral-design-guide
+
+## Merged: Fodder Trees for Livestock Integration
+
+# Fodder Trees for Livestock Integration
+
+Fodder trees are multi-purpose woody perennials that produce leaves, pods, or branches suitable for feeding livestock. They represent a cornerstone of comparison-sheet-mulching-vs-chop-and-drop for related techniques.
+
+## Leucaena (Leucaena leucocephala)
+
+A fast-growing leguminous tropical tree reaching 10-20 meters, though it can be kept manageable if permaculture-designers-manual-animal-forage-systems
+- comparison-sheet-mulching-vs-chop-and-drop
+
+---
+Updated: 2026-04-18
+
+## Merged: Fodder Trees Permaculture Systems
+Fodder trees provide a perennial source of livestock feed, reducing the need for imported feed, preventing soil erosion, and contributing nitrogen to the system through biological fixation. They are a critical component of [[permaculture-tree-crop-systems]], offering multiple yields from a single planting. They provide leaf protein for livestock, fix atmospheric nitrogen, offer [[cervantes-wind-protection-outdoor-cannabis]], prevent soil erosion on slopes, supply firewood and timber, create [[permaculture-earthworks-and-water-harvesting]] and land rehabilitation projects. In the wild it grows as a companion to Eucalyptus spp, other Acacia spp, Atriplex spp, Maireana spp, Eragrostis spp, Triodia spp, and Aristidia spp, demonstrating the [[permaculture-grazing-and-pasture]], sepp-holzer-livestock-integration, [[permaculture-difficult-sites-plant-guide]]
+## Practical Applications
+
+Fodder Trees for [[faires-livestock-integration-permaculture]] has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.

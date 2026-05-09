@@ -29,7 +29,7 @@ sources:
   - Chambers, R.M. et al. (1999). "Expansion of Phragmites australis into tidal wetlands of North America." Aquatic Botany 64(3-4): 261-273.
   - Saltonstall, K. (2002). "Cryptic invasion by a non-native genotype of the common reed." PNAS 99(4): 2445-2449.
   - "Phragmites australis." Royal Botanic Gardens Kew. https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:428713-1
-  - Vymazal, J. (2011). "Constructed wetlands for wastewater treatment." Ecological Engineering 37(1): 61-69.
+  - Vymazal, J. (2011). "[[comparison-constructed-wetlands-vs-bioswales]] for [[mollison-designers-wastewater-treatment-wetlands]]." Ecological Engineering 37(1): 61-69.
 created: 2026-05-07
 ---
 
@@ -63,7 +63,7 @@ Genetic research by Saltonstall (2002) demonstrated that the invasive North Amer
 
 ## Ecological Role
 
-*P. australis* provides critical ecosystem services in wetland environments. The dense stands filter suspended sediments and absorb excess nutrients (nitrogen, phosphorus) from water, functioning as a natural water treatment system. This capacity is the basis for its use in constructed wetlands.
+*P. australis* provides critical [[biodiversity-of-fungi-ecosystem-services-agriculture]] in wetland environments. The dense stands filter suspended sediments and absorb excess nutrients (nitrogen, phosphorus) from water, functioning as a natural water treatment system. This capacity is the basis for its use in constructed wetlands.
 
 The species supports diverse wildlife communities. Stands provide nesting habitat for wetland birds (marsh wrens, bitterns, reed warblers), cover for fish and amphibians, and foraging habitat for insects. Dead standing culms are used as perches by raptors and songbirds.
 
@@ -71,7 +71,7 @@ Litter accumulation from senesced reed biomass contributes to peat formation and
 
 The rhizosphere of *P. australis* hosts diverse microbial communities including nitrogen-fixing bacteria (Azotobacter, Diazotrophicus) and mycorrhizal fungi. These associations enhance nutrient cycling in wetland sediments and contribute to the overall productivity of the reed bed ecosystem.
 
-Seasonal dynamics drive significant carbon flux. Peak biomass occurs in late summer (up to 2 kg/m² above-ground dry matter), followed by autumn senescence and decomposition. This annual cycle makes reed beds significant carbon sources during decomposition and carbon sinks during active growth.
+Seasonal dynamics drive significant carbon flux. Peak biomass occurs in late summer (up to 2 kg/m² above-ground dry matter), followed by autumn senescence and decomposition. This annual cycle makes reed beds significant carbon sources during [[fungal-peat-decomposition-and-carbon-storage]] sinks during active growth.
 
 ## Phytoremediation and Water Treatment
 
@@ -89,19 +89,21 @@ Reed beds have been used in constructed wetland wastewater systems for decades, 
 
 The systems require no electricity or mechanical components beyond initial pumping, making them ideal for off-grid applications. Maintenance is limited to periodic harvesting of above-ground biomass and ensuring the inlet/outlet distribution systems remain clear. Design considerations include hydraulic loading rate, organic loading rate, bed depth, and substrate media selection.
 
-**Erosion control** — The dense rhizome network makes *P. australis* an excellent species for bank stabilization along waterways, drainage ditches, and reservoir margins. Reed plantings are used in erosion control projects worldwide, particularly in areas subject to wave action or fluctuating water levels.
+**[[permplant-willows-salix-erosion-control-fodder]]** — The dense rhizome network makes *P. australis* an excellent species for bank stabilization along waterways, drainage ditches, and reservoir margins. Reed plantings are used in erosion control projects worldwide, particularly in areas subject to wave action or fluctuating water levels.
 
 **Thatching** — *P. australis* has been the primary thatching material in northern Europe for centuries. Properly harvested and stored reed thatch has a lifespan of 50–60+ years. Harvesting occurs in winter when stems are dormant and nutrient content is lowest.
 
 Modern thatching remains an active craft industry in the UK, Netherlands, Denmark, and other European countries. Reed quality varies by source — Norfolk reed (UK) and Danube Delta reed (Romania) are considered premium grades due to their length, straightness, and durability.
 
-**Bioenergy** — Reed biomass is a promising feedstock for bioenergy production. It yields 10–15 tonnes dry matter per hectare annually. Applications include combustion, anaerobic digestion for biogas, and cellulosic ethanol production.
+**Bioenergy** — Reed biomass is a promising feedstock for bioenergy production. It yields 10–15 tonnes dry matter per hectare annually. Applications include combustion, [[biogas-digester-basics]] for biogas, and cellulosic ethanol production.
 
 The high cellulose and lignin content of reed biomass makes it suitable for combustion in biomass boilers. Ash content is moderate (5–8%), requiring appropriate boiler design. Anaerobic digestion yields 200–350 m³ biogas per tonne of fresh biomass, with methane content of 55–65%.
 
 Additional uses include basket weaving, paper pulp, musical reed instruments, and traditional medicine. In Chinese medicine, the rhizome (芦根, *lú gēn*) is used to clear heat and promote fluid production. The young shoots are edible when peeled and cooked, consumed as a vegetable in parts of East and Southeast Asia.
 
 ## See Also
+
+- [[muhlenbergia-capillaris]]
 
 - [[phytoremediation]]
 - bioremediation

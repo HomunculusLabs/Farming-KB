@@ -1,5 +1,5 @@
 ---
-title: biological slime mold computing
+title: biological biological [[myxomycete-mycetozoan-slime-mold-diversity-ecology]] computing computing
 created: 2026-04-28
 tags: [computational-biology, slime-mold, optimization, unconventional-computing, bioinformatics]
 date: 2026-04-28
@@ -10,8 +10,8 @@ type: concept
 # biological slime mold computing
 Slime mold computing refers to the use of unicellular or acellular organisms,
 primarily [[unconventional-computing]].
-## [[fungal-spores]], and decaying mollison designers humus. When food sources are located, the plasmodium extends toward them,
-forming efficient transport networks that connect multiple food sites. If
+## fungal-spores, and decaying mollison designers humus. When food sources are located, the plasmodium extends toward them,
+forming efficient [[biological-transport-networks]] that connect multiple food sites. If
 the network is disrupted, it rapidly reorganizes to restore connectivity,
 demonstrating adaptive resilience.
 ## Network Optimization
@@ -21,7 +21,7 @@ Nakagaki and colleagues, oat flakes were placed on a map of the greater
 Tokyo area corresponding to the locations of major cities. The slime mold
 was introduced and allowed to forage freely. The resulting vein network
 closely resembled the existing Tokyo rail system, with comparable efficiency
-metrics in terms of total network length, fault tolerance, and transport
+metrics in terms of total network length, [[byzantine-fault-tolerance]], and transport
 cost.
 This optimization emerges from simple local rules: tubes carrying more
 cytoplasm flow tend to thicken (positive feedback), while tubes carrying
@@ -93,7 +93,7 @@ fields:
   formation to generate structural layouts for buildings and urban spaces.
 ## Limitations and Criticisms
 Critics note that claims about slime mold "intelligence" can be overstated.
-The organism's and problem solving abilities emerge from relatively simple
+The organism's and [[maitake-problem-solving-troubleshooting]] abilities emerge from relatively simple
 physicochemical feedback mechanisms rather than cognitive processes.
 Computational performance degrades significantly for large problem instances
 compared to dedicated optimization algorithms. Scalability remains a practical

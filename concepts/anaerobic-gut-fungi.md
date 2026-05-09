@@ -14,7 +14,6 @@ type: concept
 updated: 2026-04-12
 ---
 
-
 # Anaerobic Gut Fungi
 
 Anaerobic gut fungi (phylum Chytridiomycota, order Neocallimastigales) are obligate anaerobic fungi found exclusively in the digestive tracts of herbivorous animals. They are among the most fibrolytic organisms known, playing critical roles in plant fiber digestion.
@@ -42,7 +41,7 @@ Discovered in 1975 by Colin Orpin, these zoosporic fungi were initially mistaken
 |-------|-------------|-------------------|---------------|
 | Neocallimastix | Polycentric, mycelioid | Polyflagellate | Rumen, cecum |
 | Piromyces | Filamentous rhizoids | Polyflagellate | Rumen, cecum, hindgut |
-| Caecomyces | Vegetative cell (unicellular) | Polyflagellate | Cecum (horse), rumen |
+| Caecomyces | [[spore-vs-vegetative-cell-resistance-microwave-sterilization]] (unicellular) | Polyflagellate | Cecum (horse), rumen |
 | Anaeromyces | Polycentric, mycelioid | Polyflagellate | Rumen |
 | Orpinomyces | Terminal globose sporangia | Apical pore discharge | Rumen |
 | Ruminomyces | Intercalary globose sporangia | Apical pore discharge | Rumen |
@@ -107,8 +106,8 @@ Anaerobic fungi are among the most effective organisms at degrading plant struct
   - Biomass conversion for biofuel production
   - Industrial processing of plant waste
   - Animal feed supplementation
-- Contribute to methane production in ruminants (greenhouse gas implications)
-- Recently isolated from pond sediments and marsh environments, suggesting roles in nutrient recycling beyond herbivore guts
+- Contribute to methane production in ruminants ([[dighton-fungal-greenhouse-gas-nitrogen-saturation]] implications)
+- Recently isolated from pond sediments and marsh environments, suggesting [[dighton-fungal-roles-in-nutrient-cycling]] recycling beyond herbivore guts
 
 ## Collection and Culture
 
@@ -138,14 +137,13 @@ Anaerobic fungi are among the most effective organisms at degrading plant struct
 - Genomic sequencing revealing extensive enzyme repertoires
 - Potential for biotechnological applications (biofuel production, feed enzymes)
 - Manipulation to enhance ruminant digestion efficiency
-- Role in methane emissions and climate change
-- Discovery in non-animal environments (ponds, marshes)
-- Metagenomic surveys revealing previously unknown diversity
+- Role in methane emissions and [[dighton-fungi-climate-change-feedback]]
+## Related
 
-## Related Topics
+- [[anaerobic-zoosporic-fungi]] Topics
 
-- [[fungal-biodiversity-biogeography]] — Fungal diversity patterns
+- [[fungal-biodiversity-biogeography]] — [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] patterns
 - [[mycorrhizal-types]] — Other fungal symbioses
 - [[fungal-enzymatic-capabilities]] — Fungal enzyme systems
-- [[soil-food-web-nutrient-cycling]] — Nutrient cycling in ecosystems
+- [[soil-food-web-nutrient-cycling]] — [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in ecosystems
 - [[saprotrophic-fungi]] — Decomposer strategies

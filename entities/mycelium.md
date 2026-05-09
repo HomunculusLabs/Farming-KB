@@ -26,7 +26,7 @@ Hyphae grow exclusively at their tips through a process called polarized extensi
 - **Moisture**: substrate moisture content of 50-65% by weight; below 40% growth stalls, above 75% the risk of anaerobic contamination increases
 - **pH**: slightly acidic conditions, typically pH 5.0-6.5 for most cultivated fungi; some species tolerate broader pH ranges
 - **Oxygen**: strictly aerobic conditions; mycelium requires continuous gas exchange for respiratory metabolism; sealed or anaerobic conditions lead to stunted growth and death
-- **Light**: most mycelial growth occurs optimally in complete darkness; however, some ambient light is tolerated and may be beneficial for primordia formation in later stages
+- **Light**: most mycelial growth occurs optimally in complete darkness; however, some ambient light is tolerated and may be beneficial for [[growing-gourmet-primordia-formation-pinning]] in later stages
 - **Carbon dioxide**: elevated CO2 levels (0.5-2%) promote mycelial growth and suppress fruiting; this is why cultivation containers are often partially sealed during the colonization phase
 
 ## Types of Mycelium
@@ -41,16 +41,16 @@ Monokaryotic mycelium can be isolated in the laboratory by germinating single sp
 4. Inoculation of a fruiting substrate with the colonized spawn
 5. Environmental triggering (temperature drop, humidity increase, light exposure) to initiate the transition from vegetative mycelial growth to reproductive fruiting
 
-During substrate colonization, the mycelium of [[tryptamine]] alkaloids psilocybin and psilocin as secondary metabolites. Alkaloid biosynthesis begins during active mycelial growth and increases during fruiting.
+During substrate colonization, the mycelium of [[tryptamine]] alkaloids psilocybin and psilocin as [[antifungal-secondary-metabolites-coprophilous-fungi]]. Alkaloid biosynthesis begins during active mycelial growth and increases during fruiting.
 
 ## Ecological Significance
 
-Mycelium plays critical and often underappreciated roles in ecosystem processes:
+Mycelium plays critical and often underappreciated roles in [[fungal-ecosystem-processes-overview]]:
 
 - **Decomposition**: fungi are the primary decomposers of lignin and cellulose in terrestrial ecosystems, recycling an estimated 1-2 billion tons of carbon annually
 - **Mycorrhizal associations**: approximately 80-90% of land plants form symbiotic mycorrhizal relationships with fungal mycelium, which enhances plant nutrient uptake (particularly phosphorus) in exchange for plant-derived carbon compounds
-- **Soil structure**: mycelial networks bind soil particles together, improving water retention, aeration, and resistance to erosion
-- **Biological networks**: mycorrhizal networks (sometimes called "common mycorrhizal networks" or "wood wide webs") connect multiple plants and trees, facilitating resource sharing, chemical signaling, and possibly even information transfer between individuals
+- **Soil structure**: [[fungal-mycelial-networks-nutrient-translocation]] bind soil particles together, improving water retention, aeration, and resistance to erosion
+- **Biological networks**: mycorrhizal networks (sometimes called "common mycorrhizal networks" or "wood wide webs") connect multiple plants and trees, facilitating [[mycelial-network-resource-sharing-plants]], [[plant-hormones-and-chemical-signaling-systems]], and possibly even information transfer between individuals
 - **Bioaccumulation**: mycelium can concentrate heavy metals and organic pollutants from soil and water, making it useful for bioremediation applications
 
 The largest known organism on Earth is a mycelial network of the honey fungus [[query-what-is-mycelium-and-how-does-it-function-in-nature]]
@@ -114,3 +114,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[dactylina-arctica]]

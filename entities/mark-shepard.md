@@ -22,7 +22,7 @@ sources:
 # Mark Shepard
 
 ## Overview
-Mark Shepard is an American farmer, author, and pioneering figure in the restoration agriculture movement. Based in southwestern Wisconsin, he founded New Forest Farm in 1994 on 106 acres of degraded former corn/soybean cropland, which he converted into one of the most documented large-scale perennial polyculture systems in North America. His 2013 book *Restoration Agriculture* introduced the concept of agricultural systems modeled directly on oak savanna ecosystems, combining chestnuts, hazelnuts, apples, cherries, and livestock into a self-sustaining, staple-crop-producing farm ecosystem. Shepard's work bridges permaculture design with commercial-scale farming, demonstrating that perennial polycultures can be economically viable at scale.
+Mark Shepard is an American farmer, author, and pioneering figure in the restoration agriculture movement. Based in southwestern Wisconsin, he founded New Forest Farm in 1994 on 106 acres of degraded former corn/soybean cropland, which he converted into one of the most documented large-scale perennial polyculture systems in [[psilocybin-north-america-pacific-northwest]]. His 2013 book *Restoration Agriculture* introduced the concept of agricultural systems modeled directly on oak savanna ecosystems, combining chestnuts, hazelnuts, apples, cherries, and livestock into a self-sustaining, staple-crop-producing farm ecosystem. Shepard's work bridges [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] with commercial-scale farming, demonstrating that perennial polycultures can be economically viable at scale.
 
 ## Biographical Details
 - **Born:** 1965, United States
@@ -37,7 +37,7 @@ Mark Shepard is an American farmer, author, and pioneering figure in the restora
 
 ### Restoration Agriculture Framework
 - Core thesis: agricultural systems should mimic the structure and function of pre-settlement native ecosystems (specifically midwestern oak savanna)
-- Replaces annual grain monocultures with perennial polycultures that produce human food calories, animal fodder, and ecosystem services simultaneously
+- Replaces annual grain monocultures with perennial polycultures that produce human food calories, animal fodder, and [[biodiversity-of-fungi-ecosystem-services-agriculture]] simultaneously
 - Three-layer canopy model: overstory (chestnut, hickory), midstory (apple, cherry, pear), understory (hazelnut, currant, raspberry), groundcover (pasture, annual crops)
 - Key insight: oak savannas were among the most productive food-producing ecosystems in North America before European settlement, supporting both wildlife and indigenous peoples through mast crops (acorns, chestnuts, hickory nuts)
 
@@ -46,7 +46,7 @@ Mark Shepard is an American farmer, author, and pioneering figure in the restora
 - **Overstory species:** Hybrid chestnut (*Castanea* spp.), hickory, oak, walnut — spaced at 40–50 foot intervals
 - **Midstory species:** Apple, pear, plum, cherry, pawpaw, persimmon — between overstory trees
 - **Shrub layer:** Hazelnut, elderberry, aronia, currant, gooseberry, honeyberry
-- **Groundcover:** Managed rotational grazing (cattle, pigs, poultry); pasture grasses, comfrey, nitrogen-fixing ground covers
+- **Groundcover:** Managed [[comparison-rotational-grazing-vs-continuous-grazing]] (cattle, pigs, poultry); pasture grasses, comfrey, nitrogen-fixing ground covers
 - **Water systems:** Keyline design, swales, and contoured access lanes; no irrigation required after establishment
 - **Inputs:** Zero synthetic fertilizers or pesticides; grazing animals provide fertility cycling
 - **Soil health:** Soil organic matter increased from ~1.5% (degraded cropland) to 4–6% over 25 years
@@ -94,7 +94,7 @@ Mark Shepard is an American farmer, author, and pioneering figure in the restora
 - One of the first to demonstrate permaculture principles at genuine commercial scale (100+ acres)
 - Inspired hundreds of farmers worldwide to transition from annual to perennial systems
 - Restoration Agriculture Development has consulted on installations across 20+ US states and multiple countries
-- Bridge figure between permaculture community and conventional agriculture — credible to both audiences
+- Bridge figure between [[urban-permaculture-community-building-social-design]] and conventional agriculture — credible to both audiences
 - Demonstrated economic viability: New Forest Farm generates commercial income from multiple perennial crop enterprises simultaneously
 
 ### Key Criticisms and Debates
@@ -102,7 +102,7 @@ Mark Shepard is an American farmer, author, and pioneering figure in the restora
 - **Establishment timeline:** Perennial systems require 10–20+ years to reach full production; economic viability during transition remains challenging without off-farm income or grants
 - **Scalability:** Large-scale equipment operation is difficult in tree-based systems; Shepard advocates for modified equipment and seasonal harvesting windows
 - **Nutritional completeness:** Chestnut-based diet lacks certain amino acids; requires complementary protein sources (hazelnuts, livestock)
-- **Regional specificity:** Oak savanna model is specific to midwestern North American biomes; adaptation required for other climates
+- **Regional specificity:** Oak savanna model is specific to midwestern [[growing-gourmet-north-american-reishi-species]] biomes; adaptation required for other climates
 
 ### Similar Figures and Lineage
 - **J. Russell Smith:** Author of *Tree Crops: A Permanent Agriculture* (1929) — Shepard directly extends Smith's vision
@@ -115,5 +115,5 @@ Mark Shepard is an American farmer, author, and pioneering figure in the restora
 
 - [[bill-mollison]]
 - [[sepp-holzer-entity]]
-- [[permaculture]]
+- permaculture
 - [[keyline-design]]

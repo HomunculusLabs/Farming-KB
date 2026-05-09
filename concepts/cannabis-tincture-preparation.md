@@ -12,7 +12,7 @@ tags: [cannabis, medicine-making]
 
 ## Overview
 
-Cannabis tinctures are liquid extracts made by dissolving cannabis resin glands in alcohol. According to Cervantes, a well-made tincture retains 60 percent or more of the THC contained in the raw material. Tinctures offer a discreet and precise method of cannabis consumption, with effects similar to edibles but faster onset.
+[[query-how-to-make-cannabis-tinctures-at-home]] are liquid extracts made by dissolving cannabis resin glands in alcohol. According to Cervantes, a well-made tincture retains 60 percent or more of the THC contained in the raw material. Tinctures offer a discreet and precise method of cannabis consumption, with effects similar to edibles but faster onset.
 
 ## Scientific Basis
 
@@ -81,7 +81,7 @@ Proper storage is critical for maintaining tincture potency:
 - Heat and light degrade tinctures quickly
 - Dark glass bottles are ideal for storage
 - Use the tincture within one to three months for best quality
-- Refrigeration extends shelf life
+- Refrigeration extends [[psilocybin-shelf-life-stability]]
 
 ## Culinary Applications
 
@@ -104,7 +104,7 @@ Compared to [[neem-oil-cannabis]]:
 
 ## Reference
 
-Cervantes references "The Marijuana Herbal Cookbook" by Tom Flowers (Flowers Publishing, 1995) for more complete information on cannabis extraction using butter, oil, and alcohol.
+Cervantes references "The Marijuana Herbal Cookbook" by Tom Flowers (Flowers Publishing, 1995) for more complete information on [[comparison-cannabis-extraction-basics-vs-extraction-methods]] using butter, oil, and alcohol.
 
 ## See Also
 

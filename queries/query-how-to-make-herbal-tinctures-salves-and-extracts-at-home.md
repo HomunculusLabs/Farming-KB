@@ -1,10 +1,11 @@
 ---
-title: How Do I Make Herbal Tinctures, Salves, and Extracts at Home?
+title: How Do I Make query how to make herbal tinctures salves and extracts at home, Salves, and Extracts at Home?
 created: 2026-04-28
 tags: [herbalism, medicine-making, herbal-preparations, home-remedies, permaculture]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -20,11 +21,11 @@ As your practice grows, you may want to switch from the folk method to the weigh
 
 Fresh herbs contain water, which dilutes your alcohol percentage. When using fresh plant material, account for this by using a higher proof alcohol. Dried herbs are more concentrated by weight and give you more control over the final alcohol content. Many herbalists prefer dried herbs for consistency, while others value fresh plants for their vitality and live enzymes. Either approach works as long as you adjust your solvent strength accordingly.
 
-A useful rule of thumb: when using fresh herbs, use 100-proof vodka minimum. For very juicy plants like lemon balm or fresh peppermint, consider using 190-proof alcohol to ensure the final tincture maintains at least 25 to 30 percent alcohol by volume, which is the minimum needed for reliable preservation.
+A useful rule of thumb: when using fresh herbs, use 100-proof vodka minimum. For very juicy plants like [[comparison-lemon-balm-vs-passionflower]] or fresh peppermint, consider using 190-proof alcohol to ensure the final tincture maintains at least 25 to 30 percent alcohol by volume, which is the minimum needed for reliable preservation.
 
 ## Glycerites: Alcohol-Free Alternatives
 
-Glycerites use vegetable glycerin instead of alcohol, making them suitable for children, people avoiding alcohol, and those with sensitive digestive systems. Glycerin is sweet, viscous, and primarily extracts water-soluble compounds. To make a glycerite, combine dried herb with a mixture of three parts glycerin to one part distilled water. Follow the same steeping process as a tincture: 4 to 6 weeks in a cool, dark place with daily shaking. Glycerites have a shorter shelf life than alcohol tinctures, typically lasting 1 to 2 years.
+Glycerites use vegetable glycerin instead of alcohol, making them suitable for children, people avoiding alcohol, and those with sensitive digestive systems. Glycerin is sweet, viscous, and primarily extracts water-soluble compounds. To make a glycerite, combine dried herb with a mixture of three parts glycerin to one part distilled water. Follow the same steeping process as a tincture: 4 to 6 weeks in a cool, dark place with daily shaking. Glycerites have a shorter [[psilocybin-shelf-life-stability]] than alcohol tinctures, typically lasting 1 to 2 years.
 
 ## Infused Oils: The Foundation for Topical Preparations
 
@@ -32,11 +33,11 @@ Infused oils extract lipid-soluble compounds from herbs for use in salves, massa
 
 ### Solar Infusion Method
 
-Pack a clean glass jar with dried herb, filling it about two-thirds full. Cover completely with a carrier oil such as olive oil, [[query-how-to-make-cannabis-tinctures-at-home]]
+Pack a clean [[sterile-spore-print-collection-glass-jar-technique]] with dried herb, filling it about two-thirds full. Cover completely with a carrier oil such as olive oil, [[query-how-to-make-cannabis-tinctures-at-home]]
 
 - [[query-how-to-make-herbal-salves-and-balms-at-home]]
 
-- [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]] for growing your own medicinal herbs
+- [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]] for growing your own [[permaculture-plants-medicinal-herbs-healing]]
 - [[query-what-are-the-best-mushrooms-for-medicinal-use]] for fungi-based preparations
 - [[cervantes-companion-planting-pest-deterrent]] for designing garden layouts that incorporate herbs alongside food crops
 - [[biointensive-seed-saving]] for preserving medicinal herb varieties year after year
@@ -56,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,4 +99,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

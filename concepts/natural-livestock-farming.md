@@ -1,5 +1,5 @@
 ---
-title: Natural Livestock Farming
+title: fukuoka-natural-livestock-farming Farming
 created: 2026-05-06
 tags:
 type: concept
@@ -19,7 +19,7 @@ sources:
 
 Natural livestock farming, as described by [[natural-farming]] seeks truth without conditions. To study animal feed,
 science gives various formulations to cows chained in a barn and judges
-the best mixture superior. natural farming instead asks how the cow
+the best mixture superior. [[comparison-natural-farming-vs-permaculture]] instead asks how the cow
 lives in open nature. By paying too much attention to what the cow feeds
 on, science loses a broader understanding of how it lives.
 
@@ -27,14 +27,14 @@ The very notion of "raising" livestock should not exist in natural
 farming. Nature is the one that raises and grows. Man follows nature;
 all he needs to know is with what and in what manner cattle live. Heat
 and cold exist, and yet do not exist, in nature. One will never be wrong
-in starting with the assumption that temperature and humidity are
+in starting with the assumption that [[greg-green-temperature-and-humidity-control]] are
 everywhere and at all times just right for raising livestock somewhere
 in nature.
 ## See Also
 
 - [[knf-livestock-chicken-house-natural-farming]]
 
-- knf livestock chicken house natural farming
+- knf [[knf-livestock-chicken-house-natural-farming]] house natural farming
 - knf livestock chicken house natural farming
 
 ## See Also
@@ -56,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,4 +98,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

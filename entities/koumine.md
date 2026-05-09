@@ -64,11 +64,11 @@ Neuroprotective effects include protection against glutamate-induced excitotoxic
 
 Koumine is markedly less toxic than gelsemine, with an approximate LD50 in mice of 84 mg/kg (i.p.) compared to approximately 1 mg/kg for gelsemine. This ~80-fold difference makes koumine a far more viable candidate for therapeutic development.
 
-The therapeutic index (LD50/minimum effective dose) is approximately 30–40 for anxiolytic effects, comparing favorably to many current anxiolytic medications including benzodiazepines.
+The [[cannabis-therapeutic-index-overview]] (LD50/minimum effective dose) is approximately 30–40 for anxiolytic effects, comparing favorably to many current anxiolytic medications including benzodiazepines.
 
 Chronic toxicity studies in rats at 10× the effective dose for 90 days showed no significant organ toxicity, hematological abnormalities, or histopathological changes in major organs.
 
-No serious adverse effects have been reported at therapeutic doses in animal studies. Mild sedation occurs at doses significantly above the anxiolytic range.
+No serious [[blesching-cannabis-safety-adverse-effects-evidence]] have been reported at therapeutic doses in animal studies. Mild sedation occurs at doses significantly above the anxiolytic range.
 
 No convulsant activity has been observed at any tested dose, distinguishing koumine sharply from other *Gelsemium* alkaloids and eliminating the primary safety concern of this alkaloid family.
 
@@ -80,9 +80,9 @@ Metabolism occurs primarily through hepatic cytochrome P450 enzymes, with CYP3A4
 
 Koumine is not specifically scheduled under international drug conventions. However, as a constituent of *G. elegans*, it falls under regulations governing this toxic plant species in several jurisdictions.
 
-In China, koumine-containing preparations are classified as investigational drugs requiring clinical trial approval.
+In China, koumine-containing preparations are classified as investigational drugs requiring [[psilocybin-clinical-trial-landscape-2020-2025]] approval.
 
-No koumine-based pharmaceuticals have yet reached market approval, though several candidates are in Phase I/II clinical development for anxiety disorders and chronic pain.
+No koumine-based pharmaceuticals have yet reached market approval, though several candidates are in Phase I/II clinical development for anxiety disorders and [[cannabis-chronic-pain-management]].
 
 ## Related Compounds
 

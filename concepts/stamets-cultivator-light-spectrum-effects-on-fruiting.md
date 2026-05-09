@@ -5,20 +5,21 @@ tags: [environmental-control, light, phototropism, fruiting-stimulus, growing-ro
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
 
 # Light Spectrum Effects on Fruiting
 
-Many cultivated mushrooms require light for pinhead initiation and proper
+Many [[fungi-cultivated-mushrooms-pathogens-competitors]] require light for pinhead initiation and proper
 development of the fruitbody. Phototropic mushrooms actually twist and
 turn towards a light source, especially if it is dim and distant in an
-otherwise darkened room. The role of light in mushroom cultivation varies
-significantly by species: some species like Agaricus bisporus require
+otherwise darkened room. The role of light in [[accessible-mushroom-cultivation-for-disabilities]] varies
+significantly by species: some species like [[genetic-improvement-agaricus-bisporus-molecular-approaches]] require
 no light at all, while others like Pleurotus ostreatus are strongly
 phototropic. Understanding light requirements is essential for proper
-[[stamets-fruiting-strategies-and-primordia-formation]].
+stamets-fruiting-strategies-and-primordia-formation.
 
 ## Light Intensity Requirements by Species
 
@@ -26,14 +27,14 @@ Different species have markedly different light needs:
 
 - **Pleurotus ostreatus**: Most responsive at 2,000 lux/hour for 12
   hours/day; grow-lux type fluorescent lighting recommended
-- **Psilocybe cubensis**: Diffuse natural light or 12-16 hours/day of
+- **[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]**: Diffuse natural light or 12-16 hours/day of
   grow-lux fluorescent high in blue spectra at 480nm wavelength
 - **Lentinus edodes (Shiitake)**: Ambient natural light or optimally 10
   lux in the 370-420 nanometer range; highest yields at 550 lux
 - **Lepista nuda**: Ambient natural light or optimally 10 lux in the
   370-420 nanometer range
 - **Agaricus bisporus**: No light required at any stage
-- **Flammulina velutipes**: Light not needed for primordia formation;
+- **Flammulina velutipes**: Light not needed for [[growing-gourmet-primordia-formation-pinning]];
   natural daylight or grow-light recommended during cropping on 12-hour
   cycle
 
@@ -56,7 +57,7 @@ standard when available, as it provides the broadest spectrum.
 
 ## Lighting System Design for Growing Rooms
 
-The [[stamets-cultivator-enokitake-flammulina-velutipes-cultivation]].
+The stamets-cultivator-enokitake-flammulina-velutipes-cultivation.
 
 ## Light Measurement Units
 
@@ -80,7 +81,7 @@ for all growing rooms.
 ## Species Without Light Requirements
 
 Not all cultivated mushrooms need light. Agaricus bisporus and
-Coprinus comatus fruit successfully in total darkness. For these species,
+[[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]] fruit successfully in total darkness. For these species,
 lighting in the growing room is needed only for the benefit of workers
 performing harvesting and maintenance tasks. This distinction is
 important when designing growing rooms, as eliminating unnecessary
@@ -110,4 +111,7 @@ light fixtures and tubes maintains optimal light output.
 ## Related Topics
 
 - [[stamets-pinning-initiation-stages-environmental-control]]
-- [[stamets-fruiting-strategies-and-primordia-formation]]
+- stamets-fruiting-strategies-and-primordia-formation
+- [[agaricus-bisporus]]
+- [[pleurotus-ostreatus]]
+- [[mushroom-cultivation]]

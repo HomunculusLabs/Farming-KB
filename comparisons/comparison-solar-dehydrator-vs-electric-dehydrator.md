@@ -1,5 +1,5 @@
 ---
-title: "Solar Dehydrator vs Electric Dehydrator"
+title: "comparison solar dehydrator vs electric dehydrator vs Electric Dehydrator"
 created: 2026-04-28
 tags: [comparison, food-preservation, off-grid, homesteading]
 date: 2026-04-25
@@ -17,7 +17,7 @@ Solar dehydrators and electric dehydrators both preserve food by
 removing moisture to levels that prevent microbial growth and enzyme
 activity, but they differ fundamentally in their power source,
 consistency, and suitability for different lifestyles. Solar
-dehydrators harness passive solar energy for zero-cost, off-grid
+dehydrators harness [[comparison-passive-solar-vs-earth-sheltered]] energy for zero-cost, off-grid
 preservation, while electric dehydrators provide precise temperature
 control and reliable year-round operation at the cost of grid
 dependency. The right choice depends on your climate, energy goals,
@@ -57,7 +57,7 @@ like dried flowers and dough art.
 
 | Aspect | Solar Dehydrator | Electric Dehydrator |
 |--------|-----------------|-------------------|
-| Power Source | Passive solar energy | Grid electricity |
+| Power Source | Passive solar energy | [[off-grid-electricity-basics]] |
 | Temperature Control | Vent adjustment, approximate | Precise digital thermostat |
 | Consistency | Weather-dependent | Highly consistent |
 | Capacity | Custom-built, scalable | Fixed tray count, expandable |
@@ -99,6 +99,8 @@ panel can power the backup element, keeping the entire system
 energy-independent.
 
 ## See Also
+
+- [[comparison-solar-dehydrator-vs-root-cellar]]
 
 - [[comparison-fermentation-vs-canning]] for alternative preservation
   methods

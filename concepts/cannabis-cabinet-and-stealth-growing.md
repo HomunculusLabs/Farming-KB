@@ -1,19 +1,19 @@
 ---
-title: Cannabis Cabinet and Stealth Growing
+title: Cannabis cannabis cabinet and stealth growing Growing
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis Cabinet and Stealth Growing
 
 Cabinet growing is a method of cultivating cannabis inside enclosed furniture or purpose-built boxes that conceal the grow from casual observation. This approach is used by growers who need to hide their cultivation from housemates, landlords, or visitors. Cabinet grows require careful planning to manage the unique challenges of growing in confined spaces with limited ventilation, light, and root volume.
 
-See [[cannabis-lighting-guide]] for selecting appropriate lighting, and [[cannabis-pruning-and-defoliation-guide]] during the vegetative stage creates a shorter, bushier plant. Low-stress training (LST) bends branches horizontally to fill the available width rather than growing tall.
+See [[cannabis-lighting-guide]] for selecting appropriate lighting, and [[cannabis-pruning-and-defoliation-guide]] during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] creates a shorter, bushier plant. Low-stress training (LST) bends branches horizontally to fill the available width rather than growing tall.
 
-Screen of Green (ScrOG) works exceptionally well in cabinet grows because the screen keeps all growth at a uniform, controlled height beneath the light. See [[screen-of-green]]
+[[cannabis-screen-of-green-scrog-guide]] (ScrOG) works exceptionally well in cabinet grows because the screen keeps all growth at a uniform, controlled height beneath the light. See [[screen-of-green]]
 
 - [[cannabis-odor-control-and-carbon-filters]]
 - [[cannabis-indoor-ventilation-setup]]
@@ -145,4 +145,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

@@ -1,7 +1,7 @@
 
 # Lichen Biogeochemistry and Pioneer Colonisation
 
-Lichens are among the most important pioneer organisms on rock surfaces,
+[[lichens]] are among the most important pioneer organisms on rock surfaces,
 initiating biological succession on newly exposed substrata. Through
 their biogeochemical activities, lichens contribute to rock
 weathering, soil formation, and the establishment of conditions
@@ -25,7 +25,7 @@ surfaces, including volcanic lava flows, glacial moraines, building
 stone, and mining waste. Their role as pioneers is critical because
 they begin the process of biological weathering that converts bare rock
 into soil. Lichen colonisation follows patterns related to rock type,
-moisture availability, light exposure, and air quality.
+moisture availability, light exposure, and [[cervantes-air-quality-ventilation]].
 
 ## Mechanisms of rock weathering by lichens
 
@@ -40,9 +40,9 @@ rock-lichen interface.
 
 ## Oxalate biomineralisation
 
-Lichens produce calcium oxalate crystals as a major metabolic product.
+Lichens produce [[fungal-calcium-oxalate-crystals]] crystals as a major metabolic product.
 These crystals occur in two forms: the monohydrate whewellite and the
-dihydrate weddellite. Calcium oxalate production at the lichen-rock
+dihydrate weddellite. Calcium [[fungal-oxalate-production-metal-transformation]] at the lichen-rock
 interface contributes to calcium mobilisation from rock-forming
 minerals. The balance between oxalate production and oxalate
 degradation by oxalate-degrading bacteria determines net calcium
@@ -65,7 +65,7 @@ Lichens with cyanobacterial photobionts in specialised structures
 called cephalodia fix atmospheric nitrogen. These include some
 Peltigera, Stereocaulon, and Lobaria species. Nitrogen fixed by
 cephalodiate lichens enters forest ecosystems through leaching from
-living thalli and [[old-growth-forest-fungi-conservation]]
+living thalli and old-growth-forest-fungi-conservation
 forests of the Pacific Northwest, nitrogen-fixing lichens contribute
 significantly to nitrogen input budgets.
 
@@ -73,7 +73,7 @@ significantly to nitrogen input budgets.
 
 Lichens are poikilohydric, lacking mechanisms to control water loss.
 They tolerate repeated desiccation and rehydration cycles. During
-desiccation, metabolic activity ceases and the thallus becomes dormant.
+desiccation, [[arbuscule-isolation-metabolic-activity-assays]] ceases and the thallus becomes dormant.
 Rehydration can restore photosynthetic activity within minutes. This
 desiccation tolerance enables lichens to survive in environments with
 intermittent water availability, including rock surfaces exposed to
@@ -82,5 +82,7 @@ direct sunlight and periodic rainfall.
 ## Biogeochemical signatures and stable isotopes
 
 Stable isotope analysis of lichen tissues provides information about
-nutrient sources and cycling. [[gadd-lichen-water-relations]]
-- [[gadd-lichen-water-relations]]
+nutrient sources and cycling. gadd-lichen-water-relations
+- gadd-lichen-water-relations
+## See Also
+- [[gadd-mineral-transformations-biogeochemistry]]

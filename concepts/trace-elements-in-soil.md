@@ -11,18 +11,18 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-Trace elements are called so because they are needed in very small quantities, yet they are vital to plant growth. Six are considered of major importance: iron, zinc, copper, manganese, boron, and molybdenum. In a properly managed organic garden, deficiencies are extremely rare because all trace elements are present in manure, compost, and other bulky organic matter.
+Trace elements are called so because they are needed in very small quantities, yet they are vital to plant growth. Six are considered of major importance: iron, zinc, copper, manganese, boron, and molybdenum. In a properly managed organic garden, deficiencies are extremely rare because all trace elements are present in manure, compost, and other bulky [[hamilton-composting-and-organic-matter-management]].
 
 ## The Alkalinity Problem
 
-The primary cause of trace element deficiency is not absence of the element but rather inhibition of its availability by alkaline (limy) soil. Iron, manganese, and boron are particularly affected. Excessive lime can chemically "lock up" trace elements, making them unavailable to plant roots. This results in nutrient deficiencies even when the elements are present in the soil.
+The primary cause of trace element deficiency is not absence of the element but rather inhibition of its availability by alkaline (limy) soil. Iron, manganese, and boron are particularly affected. Excessive lime can chemically "lock up" trace elements, making them unavailable to plant roots. This results in [[hamilton-nutrient-deficiencies-and-treatment]] even when the elements are present in the soil.
 
 ## The Six Key Trace Elements
 
 ### Iron
 - **Role:** Required in the formation of chlorophyll
 - **Deficiency symptoms:** Yellowing between the veins of the leaves, especially younger ones
-- **More likely on:** Alkaline soils; sometimes confused with magnesium deficiency
+- **More likely on:** Alkaline soils; sometimes confused with [[query-how-to-fix-magnesium-deficiency-in-cannabis]]
 - **Treatment:** Spray with liquid kelp, then apply kelp meal and/or manure to the soil
 
 ### Zinc and Copper
@@ -37,9 +37,9 @@ The primary cause of trace element deficiency is not absence of the element but 
 
 ### Boron
 - **Role:** Important to the growing tissue of all parts of the plant
-- **Deficiency symptoms:** Tissue breakdown causing internal "corkiness" (especially in apples and root crops), brown heart in celery and brassicas (broccoli, cauliflower, calabrese)
+- **Deficiency symptoms:** Tissue breakdown causing internal "corkiness" (especially in apples and [[permaculture-plants-root-crops-and-tubers]]), brown heart in celery and brassicas (broccoli, cauliflower, calabrese)
 - **More likely on:** Alkaline soils
-- **Critical note:** Boron deficiency must be prevented because, if deficiencies become apparent in a crop, it is too late to save it
+- **Critical note:** [[query-how-to-fix-boron-deficiency-in-cannabis]] must be prevented because, if deficiencies become apparent in a crop, it is too late to save it
 - **Treatment (preventive):** Apply kelp meal, manure, or compost to ensure the next crop will not suffer
 
 ### Molybdenum
@@ -52,7 +52,7 @@ The primary cause of trace element deficiency is not absence of the element but 
 
 The best treatment for trace-element deficiencies is to prevent them from occurring in the first place. In the organic garden, this is achieved by:
 
-1. **Continued use of bulky organic matter** (manure, compost, green manures) which contains the full range of trace elements
+1. **Continued use of bulky organic matter** (manure, compost, [[jeavons-green-manures-cover-crops]]) which contains the full range of trace elements
 2. **Annual application of kelp meal fertilizer** as insurance, especially where deficiencies have occurred before
 3. **Careful liming** — avoid excessive lime that locks up trace elements (see [[acid-and-alkaline-soil-management]])
 
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -3,7 +3,8 @@ title: "Dandelion vs Yarrow"
 tags: [comparison, medicinal-herbs, permaculture-plants, companion-planting]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources:
+  sources: []
 ---
 
 # Dandelion vs Yarrow
@@ -13,15 +14,13 @@ sources: []
 Dandelion (*Taraxacum officinale*) and yarrow (*Achillea millefolium*) are
 two of the most versatile and widely distributed perennial plants in
 temperate landscapes. Both belong to the Asteraceae family, serve as
-dynamic accumulators, support pollinators, and have deep roots in
+[[comparison-dynamic-accumulators-vs-cover-crops]], support pollinators, and have deep roots in
 traditional medicine. Despite these shared traits, they occupy distinct
 ecological niches and offer complementary benefits to the homestead
 garden. Understanding their differences helps growers decide where each
 plant delivers the most value.
 
 ## Dandelion
-
-[[yarrow]]
 
 Yarrow is a hardy perennial native to temperate regions of the Northern
 Hemisphere, ranging from USDA zones 3 through 9. Named for the Greek
@@ -39,7 +38,7 @@ menstrual cramping. The essential oil contains chamazulene, which gives
 distilled yarrow oil its characteristic blue color and provides
 anti-inflammatory activity.
 
-In permaculture design, yarrow serves multiple functions. Its deep
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], yarrow serves multiple functions. Its deep
 taproot accumulates copper, potassium, and phosphorus, making it a
 valuable dynamic accumulator. The flat flower heads attract ladybugs,
 lacewings, hoverflies, and parasitic wasps, providing biological pest
@@ -57,7 +56,7 @@ soils, and acts as a compost activator with its nutrient-rich foliage.
 | Pollinator role | Early spring nectar source | Summer-fall insectary plant |
 | Growth habit | Rosette, low to ground | Upright, 1-3 feet tall |
 | Spreading mechanism | Wind-dispersed seed | Rhizomes and seed |
-| Drought tolerance | Moderate | High |
+| [[dighton-fungal-drought-tolerance-plant-water-relations]] | Moderate | High |
 | Ideal soil | Tolerates most soils | Prefers well-drained, poor soil |
 | Lifespan | Perennial, individual rosettes | 3-5 year crown, spreads |
 
@@ -80,7 +79,7 @@ surface as leaves decompose.
 
 ## When to Choose Yarrow
 
-Yarrow is the better choice when companion planting and biological pest
+Yarrow is the better choice when [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] and biological pest
 control are priorities. Its flat flower heads are specifically adapted
 to attract predatory insects, and it repels cabbage moths, cucumber
 beetles, and bean beetles when planted as a garden border. For food
@@ -100,14 +99,14 @@ Dandelion and yarrow complement each other well in a diverse polyculture.
 Dandelion fills the low-growing niche with its rosette habit, while
 yarrow occupies the mid-layer. Together they provide pollinator forage
 from early spring (dandelion) through late summer (yarrow), covering
-nearly the entire growing season. Dandelion's calcium-rich decomposing
+nearly the entire [[savory-growing-season-and-non-growing-season-management]]. Dandelion's calcium-rich decomposing
 leaves pair with yarrow's copper and phosphorus accumulation to create
-a balanced mineral cycle. Both tolerate mowing and foot traffic, making
+a balanced [[savory-mineral-cycle-management]]. Both tolerate mowing and foot traffic, making
 them suitable for lawn alternatives or herbal ground covers.
 
 ## See Also
 
-- [[comfrey]]
+- comfrey
 - [[companion-planting-reference]]
-- [[permaculture-dandelion]]
-- [[medicinal-herb-growing-guide]]
+- permaculture-dandelion
+- [[medicinal-herb-growing]]

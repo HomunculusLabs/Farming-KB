@@ -33,7 +33,7 @@ Unlike [[psychedelic-dose-response]] for dose-response principles.
 - Complete dissociation from body and environment
 - Vivid closed-eye imagery, immersive dreamlike states
 - Sense of entering other realities or dimensions
-- Ego dissolution and profound altered states
+- [[psilocybin-ego-dissolution-mechanisms]] and profound [[weil-the-natural-mind-altered-states-normalcy]]
 - Difficulty communicating or moving
 
 ### Lower sub-anesthetic: 0.1-0.5 mg/kg IV, 25-75 mg insufflated
@@ -68,7 +68,7 @@ Ketamine is the most rapidly acting antidepressant known, with effects observabl
 FDA-approved (2019) nasal spray for treatment-resistant depression and depressive symptoms in adults with MDD with acute suicidal ideation. Administered under medical supervision in certified treatment centers. Cost and access remain significant barriers.
 
 ### Other Therapeutic Applications
-- Chronic pain management (CRPS, neuropathic pain)
+- [[cannabis-chronic-pain-management]] management (CRPS, neuropathic pain)
 - Palliative care and end-of-life anxiety
 - Research interest in alcohol use disorder, heroin addiction
 

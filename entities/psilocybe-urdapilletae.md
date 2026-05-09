@@ -10,7 +10,7 @@ sources: [/Users/t3erpz/wiki/raw/papers/cultivation-of-panaeolus-cyanescens-and-
 
 # Psilocybe urdapilletae
 
-**Psilocybe urdapilletae** is a rare psilocybin mushroom in the family Hymenogastraceae, described from the highlands of Jalisco state in western Mexico. The species was named by gastón-guzmán in honor of a local guide who assisted with mycological fieldwork in the region. It is classified in Psilocybe section Aztecorum, sharing morphological and ecological characteristics with [[psilocybe-pseudoaztecorum]] of central Mexico.
+**Psilocybe urdapilletae** is a rare [[emcdda-psilocybin-mushroom-dose-and-effects]] in the family Hymenogastraceae, described from the highlands of Jalisco state in western Mexico. The species was named by gastón-guzmán in honor of a local guide who assisted with mycological fieldwork in the region. It is classified in Psilocybe [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]], sharing morphological and ecological characteristics with [[psilocybe-pseudoaztecorum]] of central Mexico.
 
 ## Taxonomy
 
@@ -18,11 +18,11 @@ psilocybe urdapilletae was described by Guzmán based on collections from the Si
 
 ## Morphology
 
-The pileus measures 10–30 mm in diameter, convex to broadly convex, sometimes with a slight depression at the center with age. The surface is hygrophanous, dark brown to chestnut brown when moist, drying to a pale buff, cream, or light tan color. It is smooth and slightly viscid when wet, with a margin that may be slightly translucent-striate when fresh. The cap flesh is thin, whitish, and develops a noticeable blue to blue-green bruising when cut or handled. The bluing reaction is described as moderate to strong, comparable to [[psilocybin]] and [[psilocin]], which oxidizes to blue pigments upon tissue damage. Baeocystin has been tentatively identified but not quantified. No detailed quantitative analysis of the tryptamine profile has been published for this species. Based on comparisons with better-studied section Aztecorum members, total psilocybin content is estimated at approximately 0.3–0.6% of dried weight, placing psilocybe urdapilletae in the moderate potency range. The chemical profile and observed bluing intensity suggest that psilocin accounts for a significant proportion of the total tryptamine content, consistent with the prominent blue staining characteristic of fresh collections.
+The pileus measures 10–30 mm in diameter, convex to broadly convex, sometimes with a slight depression at the center with age. The surface is hygrophanous, dark brown to chestnut brown when moist, drying to a pale buff, cream, or light tan color. It is smooth and slightly viscid when wet, with a margin that may be slightly translucent-striate when fresh. The cap flesh is thin, whitish, and develops a noticeable blue to blue-green bruising when cut or handled. The [[field-guide-psilocybin-bluing-reaction-identification]] is described as moderate to strong, comparable to [[psilocybin]] and [[psilocin]], which oxidizes to blue pigments upon tissue damage. Baeocystin has been tentatively identified but not quantified. No detailed quantitative analysis of the tryptamine profile has been published for this species. Based on comparisons with better-studied section Aztecorum members, total psilocybin content is estimated at approximately 0.3–0.6% of dried weight, placing psilocybe urdapilletae in the moderate potency range. The chemical profile and observed bluing intensity suggest that psilocin accounts for a significant proportion of the total tryptamine content, consistent with the prominent blue staining characteristic of fresh collections.
 
 ## Molecular Phylogeny
 
-Molecular phylogenetic data for psilocybe urdapilletae remain limited due to the scarcity of available collections and the difficulty of obtaining fresh material from its remote high-elevation habitat. The few ITS and LSU sequences that have been deposited in public databases place the species within the broader Psilocybe clade in a position consistent with section Aztecorum membership. Preliminary phylogenetic analyses suggest that psilocybe urdapilletae is most closely related to [[psilocybe-pseudoaztecorum]], forming a Mesoamerican lineage within the section that is distinct from the North American [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] and [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] of central Mexico is the closest morphological match, but can be separated geographically (Jalisco versus the states of Mexico, Puebla, and Tlaxcala) and by subtle differences in spore dimensions and cheilocystidia shape. [[psilocybe-weilii]] from the southeastern United States is similar in gross morphology but has a disjunct distribution and distinct molecular signature. Non-psychoactive Mycena and Marasmius species of the same forest habitats lack bluing reactions and have different spore characteristics.
+Molecular phylogenetic data for psilocybe urdapilletae remain limited due to the scarcity of available collections and the difficulty of obtaining fresh material from its remote high-elevation habitat. The few ITS and LSU sequences that have been deposited in public databases place the species within the broader Psilocybe clade in a position consistent with section Aztecorum membership. Preliminary phylogenetic analyses suggest that psilocybe urdapilletae is most closely related to [[psilocybe-pseudoaztecorum]], forming a Mesoamerican lineage within the section that is distinct from the [[growing-gourmet-north-american-reishi-species]] [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] and [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] of central Mexico is the closest morphological match, but can be separated geographically (Jalisco versus the states of Mexico, Puebla, and Tlaxcala) and by subtle differences in spore dimensions and cheilocystidia shape. [[psilocybe-weilii]] from the southeastern United States is similar in gross morphology but has a disjunct distribution and distinct molecular signature. Non-psychoactive Mycena and Marasmius species of the same forest habitats lack bluing reactions and have different spore characteristics.
 
 ## Identification Notes
 
@@ -33,7 +33,7 @@ Field identification of psilocybe urdapilletae is challenging due to its rarity,
 - Slender, hollow stipe with fine appressed fibrils
 - Dark purplish brown spore print
 
-The bluing reaction is described as moderate to strong, which helps distinguish it from [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] predominates. Microscopic examination of spore dimensions (7–9 × 4.5–6 µm) and cheilocystidia morphology is necessary for definitive identification.
+The bluing reaction is described as moderate to strong, which helps distinguish it from [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] predominates. [[fungal-microscopic-examination-mounting-media-techniques]] of spore dimensions (7–9 × 4.5–6 µm) and cheilocystidia morphology is necessary for definitive identification.
 ## Seasonality
 
 The species fruits during the rainy season from July through September in the Sierra de Manantlán. Peak fruiting typically coincides with the wettest months of August and September, when consistent precipitation and cloud cover maintain high humidity levels in the cloud forest habitat. The relatively short fruiting window (approximately three months) and the species' restriction to remote high-elevation sites make it particularly difficult to encounter. Successful collection requires careful timing with seasonal precipitation patterns and willingness to access rugged, remote terrain.
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

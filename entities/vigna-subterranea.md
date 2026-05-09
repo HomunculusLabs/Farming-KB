@@ -63,7 +63,7 @@ Today it is cultivated across sub-Saharan Africa, from Senegal to Ethiopia and s
 
 It is also grown in parts of Southeast Asia, South America, and northern Australia, though primarily as a subsistence crop.
 
-The crop is well-adapted to sandy, infertile soils with low organic matter and pH as low as 4.5.
+The crop is well-adapted to sandy, infertile soils with low [[hamilton-composting-and-organic-matter-management]] and pH as low as 4.5.
 
 It tolerates annual rainfall as low as 300–500 mm and can survive extended dry periods during flowering.
 
@@ -79,13 +79,13 @@ Bambara groundnut seeds are nutritionally dense, containing 18–25% protein, 55
 
 The protein is rich in the essential amino acids lysine, methionine, and tryptophan, making it a valuable complement to cereal-based diets.
 
-It is considered to have a more balanced amino acid profile than most other grain legumes.
+It is considered to have a more balanced amino acid profile than most other [[query-best-grain-legumes-for-a-small-homestead]].
 
 The seeds are a good source of iron, zinc, calcium, magnesium, and B vitamins, particularly folate and thiamine.
 
 The fat content is predominantly unsaturated fatty acids, including linoleic and oleic acid.
 
-Traditional preparation methods include boiling, roasting, and milling into flour for making porridge and flatbreads.
+[[kava-traditional-preparation-ceremonial-context]] methods include boiling, roasting, and milling into flour for making porridge and flatbreads.
 
 A fermented product called "okpa" is popular in southeastern Nigeria, made from bambara groundnut flour wrapped in banana leaves.
 
@@ -93,11 +93,11 @@ A fermented product called "okpa" is popular in southeastern Nigeria, made from 
 
 As a legume, bambara groundnut fixes atmospheric nitrogen through symbiosis with Bradyrhizobium bacteria in root nodules.
 
-Nitrogen fixation rates are estimated at 30–80 kg per hectare per growing season.
+[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] rates are estimated at 30–80 kg per hectare per [[savory-growing-season-and-non-growing-season-management]].
 
 This makes it valuable in crop rotations for improving soil fertility without external nitrogen inputs.
 
-The crop's drought tolerance and low soil requirements make it ideal for intercropping with cereals such as millet and sorghum.
+The crop's [[dighton-fungal-drought-tolerance-plant-water-relations]] and low soil requirements make it ideal for intercropping with cereals such as millet and sorghum.
 
 Its creeping growth habit provides ground cover that reduces soil erosion and conserves soil moisture.
 

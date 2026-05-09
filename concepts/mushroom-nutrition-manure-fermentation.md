@@ -1,5 +1,5 @@
 ---
-title: Mushroom Nutrition and Manure Fermentation
+title: cotter-mushroom-nutrition-medicinal-compounds and Manure Fermentation
 created: 2026-04-23
 updated: 2026-04-27
 type: concept
@@ -45,17 +45,17 @@ As bacterial metabolism generates heat, thermophilic organisms replace mesophili
 - **Thermoactinomyces vulgaris:** A thermophilic actinomycete that degrades cellulose and hemicellulose in the straw, producing the characteristic "sweet" earthy smell of well-made compost
 - **Thermobifida fusca:** An important thermophilic cellulose degrader that breaks down straw structural polysaccharides
 - **Clostridium thermocellum:** An anaerobic thermophile that produces cellulase enzymes capable of degrading crystalline cellulose
-- **Saccharomonospora viridis:** A thermophilic actinomycete contributing to humus formation
+- **Saccharomonospora viridis:** A thermophilic actinomycete contributing to [[lowenfels-humus-formation-benefits]]
 
 ### Phase 3: Cooling and Curing Stage (40-25°C / 104-77°F)
 As the compost cools, a second wave of mesophilic organisms recolonizes:
 - **Streptomyces species:** Actinomycetes that complete the decomposition of complex organics and contribute earthy-smelling geosmin compounds
-- **Trichoderma species:** Thermotolerant fungi that degrade remaining cellulose and help suppress competing organisms in the finished compost
+- **Trichoderma species:** [[thermophilic-thermotolerant-fungi-ecology-isolation]] that degrade remaining cellulose and help suppress competing organisms in the finished compost
 - **Various fluorescent Pseudomonads:** Beneficial bacteria that colonize the compost and may provide biological protection against mushroom pathogens
 
 ## Modern Composting Methods
 
-Contemporary commercial mushroom compost production has evolved considerably from Duggar's era while maintaining the same biological principles:
+Contemporary commercial [[staycare-spent-mushroom-compost-bioremediation]] production has evolved considerably from Duggar's era while maintaining the same biological principles:
 
 ### Phase 1 Composting (Outdoor)
 Raw materials (typically wheat straw, horse or poultry manure, gypsum, and water) are mixed in long rows called windrows. The windrows are turned by specialized machinery every 2-3 days for 7-14 days. Turning incorporates oxygen, redistributes moisture, and ensures uniform decomposition. Gypsum (calcium sulfate) is added at 50-100 kg per ton of dry ingredients to improve structure, buffer pH, and provide calcium and sulfur. Internal temperatures reach 70-80°C, killing pathogens and weed seeds.
@@ -66,7 +66,7 @@ After Phase 1, the compost is moved into specially designed rooms or tunnels for
 2. **Conditioning:** Temperature is gradually reduced to 48-52°C and held for 5-7 days. During this critical period, thermophilic microbes convert remaining ammonia to microbial protein that the mushroom can utilize. The compost must be fully "cleared" of free ammonia before spawning, as residual ammonia is toxic to mushroom mycelium.
 
 ### Tunnel Composting
-Modern Dutch and British systems use forced-air tunnels for both Phase 1 and Phase 2 composting. Compost is filled into enclosed concrete tunnels with perforated floors through which conditioned air is blown. This provides precise control of temperature, oxygen, and moisture throughout the process, producing more consistent compost with higher biological efficiency than traditional outdoor methods.
+Modern Dutch and British systems use forced-air tunnels for both Phase 1 and Phase 2 composting. Compost is filled into enclosed concrete tunnels with perforated floors through which conditioned air is blown. This provides precise control of temperature, oxygen, and moisture throughout the process, producing more consistent compost with higher [[stamets-biological-efficiency-yield]] than traditional outdoor methods.
 
 ## Alternative Substrates
 
@@ -74,12 +74,14 @@ While horse manure remains the traditional substrate, modern cultivators have de
 
 - **Poultry manure and straw:** Poultry manure is nitrogen-rich and, when mixed with wheat or rice straw, produces compost equal or superior to horse manure. The higher nitrogen content allows shorter composting times. Typical formulation: 1 ton wheat straw, 500 kg poultry manure, 50 kg gypsum.
 - **Synthetic compost:** Formulated from agricultural by-products without animal manure. Typical ingredients include wheat straw, brewers' grain, cottonseed meal, molasses, gypsum, and urea or ammonium sulfate as nitrogen supplements. Produces reliable results but requires careful formulation.
-- **Spent mushroom substrate (SMS):** Compost that has already been through one mushroom crop can be re-composted with supplements and used for a second crop, though yields decline. SMS is also used as a soil amendment or mulching-guide|mulch.
+- **Spent [[gourmet-medicinal-mushroom-substrate-preparation]] (SMS):** Compost that has already been through one mushroom crop can be re-composted with supplements and used for a second crop, though yields decline. SMS is also used as a soil amendment or mulching-guide|mulch.
 - **Sawdust-based substrates:** For [[cotter-oyster-mushroom-cultivation]], and [[contamination-identification-prevention]] and [[mushroom-cultivation-bulk-substrates]] preparation today.
 
 ## See Also
 
-- [[mushroom-nutrition]]
+- [[duggar-mushroom-nutrition-science-fermentation-biological-requirement]]
+
+- mushroom-nutrition
 
 - [[mushroom-compost-bed-systems-duggar]]
 - [[soil-food-web-nutrient-cycling]]

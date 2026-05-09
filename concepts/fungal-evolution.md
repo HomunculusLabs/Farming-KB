@@ -35,7 +35,7 @@ The fungal kingdom is divided into several major phyla, representing deep evolut
 
 1. **Chytridiomycota** (chytrids) — basal lineage, flagellated spores
 2. **Zygomycota** (zygomycetes) — pin molds, bread molds
-3. **Glomeromycota** (arbuscular mycorrhizal fungi)
+3. **Glomeromycota** ([[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi)
 4. **Ascomycota** (sac fungi) — largest phylum
 5. **Basidiomycota** (club fungi) — mushrooms, rusts, smuts
 6. **Several newly described phyla**: Cryptomycota (Rozellomycota), Blastocladiomycota, Kickxellomycota, Zoopagomycota, Mucoromycota
@@ -51,7 +51,7 @@ The fungal kingdom is divided into several major phyla, representing deep evolut
 
 ### Zygomycota / Mucoromycota
 
-- **Key feature**: Sexual reproduction via zygospores — large, thick-walled resting spores formed by fusion of gametangia
+- **Key feature**: [[fungal-life-cycles-sexual-reproduction-metamorphosis]] via zygospores — large, thick-walled resting spores formed by fusion of gametangia
 - Includes familiar bread molds (Rhizopus stolonifer, Mucor)
 - Mostly fast-growing, opportunistic saprotrophs
 - Some species cause human infections (mucormycosis, especially in immunocompromised patients)
@@ -111,7 +111,7 @@ The transition from aquatic to terrestrial life was a pivotal event in fungal ev
 - Arbuscular mycorrhizae (Glomeromycota) are the ancestral condition — present in the earliest vascular plants
 - Ectomycorrhizae evolved later (~150-200 Ma) in multiple basidiomycete and ascomycete lineages
 - Ericoid mycorrhizae evolved with Ericaceae (heaths, heathers) in nutrient-poor acidic soils
-- Orchid mycorrhizae represent a specialized co-evolution — orchid seeds require fungal symbionts for germination
+- [[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]] represent a specialized co-evolution — orchid seeds require fungal symbionts for germination
 
 ### Pathogenic Evolution
 
@@ -126,7 +126,7 @@ The transition from aquatic to terrestrial life was a pivotal event in fungal ev
 
 - Evolved once in a common ancestor of white-rot fungi, approximately 300 Ma (Late Carboniferous)
 - Coincides with the end of the Carboniferous coal deposits — as fungi evolved to break down lignin, less plant material was preserved as coal
-- White-rot fungi produce lignin peroxidase, manganese peroxidase, and laccase enzymes
+- White-rot fungi produce [[fungal-lignin-peroxidase-veratryl-alcohol]], [[fungal-manganese-peroxidase-remediation]], and [[singh-fungal-laccase-enzymes-bioremediation]]
 - This innovation fundamentally altered the global carbon cycle
 
 ### Fruiting Bodies
@@ -134,37 +134,6 @@ The transition from aquatic to terrestrial life was a pivotal event in fungal ev
 - Mushroom-forming ability evolved in the common ancestor of Agaricomycetes, approximately 200-250 Ma
 - Fruiting bodies (sporocarps) elevate spores for better wind dispersal
 - Diverse forms evolved: gilled mushrooms, boletes, polypores, puffballs, corals, stinkhorns — each adapted to different spore dispersal strategies
-
-### Yeast Forms
-
-- Yeast growth (single-celled, budding) evolved independently multiple times from filamentous ancestors
-- Convergent evolution: Saccharomyces (ascomycete) and Cryptococcus (basidiomycete) both evolved yeast forms independently
-- Yeast forms are advantageous in liquid/sugar-rich environments (fruit surfaces, tree exudates)
-
-## Evolutionary Timeline Summary
-
-| Time (Ma) | Event |
-|-----------|-------|
-| ~1,500 | Opisthokont ancestor splits from other eukaryotes |
-| ~1,000-1,500 | Fungi diverge from Animalia |
-| ~800-1,000 | Chytrid lineages diversify |
-| ~600-700 | Zygomycete and Glomeromycota lineages diverge |
-| ~500-600 | Ascomycota and Basidiomycota lineages diverge |
-| ~460 | Earliest fungal fossils (Ordovician) |
-| ~460 | Fungi associated with earliest land plants (Rhynie Chert) |
-| ~400-450 | Ascomycetes and basidiomycetes diversify |
-| ~300 | White-rot fungi evolve lignin decomposition |
-| ~200-250 | Mushroom-forming ability evolves in Agaricomycetes |
-| ~150-200 | Ectomycorrhizae evolve independently in multiple lineages |
-| ~100 | Rust fungi diversify with angiosperm radiation |
-| ~65 | Major fungal radiation follows Cretaceous-Paleogene extinction |
-
-## Current Phylogenetic Research
-
-- High-throughput DNA sequencing is revealing vast undocumented fungal diversity
-- Environmental DNA (eDNA) sampling suggests the actual number of fungal species may exceed 5 million
-- Metagenomics reveals fungal communities in previously unexplored habitats (deep ocean, deep subsurface, Arctic permafrost)
-- Phylogenomic analyses continue to reshape the fungal tree of life — many deep relationships remain unresolved
 
 ## See Also
 

@@ -1,5 +1,5 @@
 ---
-title: "How to Grow Cannabis in an Aquaponics System"
+title: "How to query-how-do-i-grow-cannabis-in-a-greenhouse in an Aquaponics System"
 created: 2026-04-28
 tags: [query, cannabis, aquaponics, hydroponics, sustainable-growing]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: query
 # How to Grow Cannabis in an Aquaponics System
 
 ## Short Answer
-Aquaponics combines fish farming with hydroponic plant cultivation, using fish
+Aquaponics combines [[knf-fish-farming-integration]] with hydroponic plant cultivation, using fish
 waste as a natural nutrient source for cannabis. The system requires careful
 balancing of fish stocking density, biofiltration, pH management, and plant
 nutrient needs. While more complex than standalone hydroponics, aquaponics
@@ -27,7 +27,7 @@ aquaponics|aquaponics principles but requires specific adaptations for
 cannabis, which has higher nutrient demands than most aquaponic crops like
 lettuce and herbs.
 
-The biological engine of any aquaponics system is the nitrogen cycle. Fish
+The biological engine of any aquaponics system is the [[query-how-does-the-nitrogen-cycle-work-in-a-garden]]. Fish
 excrete ammonia through their gills and waste, which is toxic to both fish and
 plants. Nitrosomonas bacteria convert ammonia into nitrite, and Nitrobacter
 bacteria then convert nitrite into nitrate, which is the primary form of
@@ -58,7 +58,7 @@ root systems adapt more quickly to the aquaponic environment.
 ## Key Points
 - Aquaponics uses fish waste converted by bacteria into plant nutrients in a
   closed-loop system
-- Tilapia are the best fish for cannabis aquaponics due to hardiness and waste
+- Tilapia are the [[query-what-are-the-best-fish-species-for-different-aquaponics-setups]] for cannabis aquaponics due to hardiness and waste
   output
 - Supplement with organic phosphorus and potassium sources during flowering
 - Maintain pH between 5.8 and 6.2 as a compromise between fish, bacteria, and
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

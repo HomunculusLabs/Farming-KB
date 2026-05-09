@@ -1,5 +1,5 @@
 ---
-title: Cannabis Therapeutic Index Overview
+title: blesching-cannabis-therapeutic-window-dosing Index Overview
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 # Cannabis Therapeutic Index Overview
 
-The Cannabis Health Index (CHI) by Uwe Blesching provides an evidence-based framework for evaluating cannabis as a therapeutic agent across a wide range of conditions. It grades evidence from clinical trials, case studies, and preclinical research using a standardized index.
+The [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) by Uwe Blesching provides an evidence-based framework for evaluating cannabis as a therapeutic agent across a wide range of conditions. It grades evidence from [[mushroom-cancer-clinical-trials-overview]], case studies, and preclinical research using a standardized index.
 
 ## Evidence Grading System
 
@@ -45,7 +45,7 @@ Mixed evidence with important caveats:
 - Insomnia (moderate evidence, particularly for indica-dominant strains)
 
 ### Cancer Support
-Evidence supports cannabis for cancer symptom management:
+Evidence supports cannabis for [[cannabis-cancer-symptom-management]] management:
 - Chemotherapy-induced nausea and vomiting
 - Appetite stimulation
 - Cancer pain
@@ -53,7 +53,7 @@ Evidence supports cannabis for cancer symptom management:
 
 ### Gastrointestinal
 - Crohn's disease and ulcerative colitis
-- Irritable bowel syndrome
+- [[blesching-cannabis-irritable-bowel-syndrome]] syndrome
 - Appetite disorders
 
 ## Key Principle: The Entourage Effect
@@ -68,7 +68,7 @@ The therapeutic index emphasizes that whole-plant cannabis often outperforms iso
 
 ## Related
 - [[cannabis-endocannabinoid-system]] — for the biological basis
-- [[cannabis-for-chronic-pain]] — for pain management specifics
+- [[cannabis-for-chronic-pain]] — for [[cannabis-pain-management-protocols]] specifics
 - [[cannabis-cbd-therapeutic-profile]] — for CBD-specific evidence
 - [[cannabis-thc-therapeutic-profile]] — for THC-specific evidence
 ## Practical Considerations
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

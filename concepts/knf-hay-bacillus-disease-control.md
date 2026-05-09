@@ -1,5 +1,5 @@
 ---
-title: Hay Bacillus Disease Control
+title: Hay Bacillus hamilton-pest-and-disease-control-organic
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
@@ -12,11 +12,11 @@ sources:
 
 **Source:** [[knf-carrot-enzyme-soil-preparation]] for comprehensive seedling health
 - Applied alongside [[knf-oriental-herbal-nutrient]] for additional antimicrobial protection
-- Used with [[knf-indigenous-microorganism-culture]] collection phase, the rice substrate is inoculated with naturally occurring Bacillus subtilis strains found on the surfaces of rice straw or hay. The culture develops over 5-7 days at ambient temperature, producing a characteristic earthy smell.
+- Used with [[knf-indigenous-microorganism-culture]] collection phase, the rice substrate is inoculated with naturally occurring Bacillus subtilis strains found on the surfaces of rice straw or hay. The culture develops over 5-7 days at [[jadam-ambient-temperature-principle]], producing a characteristic earthy smell.
 
-For foliar application, the culture is diluted at 1:500 with water and mixed with a small amount of brown sugar as a food source for the bacteria. Applied in the early morning or late evening, the spray coats leaf surfaces with beneficial bacteria that outcompete pathogenic organisms for space and nutrients. This competitive exclusion is the primary mechanism of disease suppression -- not direct antibacterial action but ecological displacement.
+For [[ultra-low-cost-foliar-application-methods]], the culture is diluted at 1:500 with water and mixed with a small amount of brown sugar as a food source for the bacteria. Applied in the early morning or late evening, the spray coats leaf surfaces with beneficial bacteria that outcompete pathogenic organisms for space and nutrients. This competitive exclusion is the primary mechanism of [[aact-disease-suppression-mechanisms-ingham]] -- not direct antibacterial action but ecological displacement.
 
-Hay bacillus is particularly effective against foliar diseases such as powdery mildew, downy mildew, and bacterial leaf spot. It can also be applied to soil as a drench to suppress soil-borne pathogens like Fusarium and Rhizoctonia. Regular applications throughout the growing season maintain a protective bacterial film on plant surfaces.
+Hay bacillus is particularly effective against foliar diseases such as [[cervantes-powdery-mildew-prevention-treatment]], downy mildew, and bacterial leaf spot. It can also be applied to soil as a drench to suppress soil-borne pathogens like Fusarium and Rhizoctonia. Regular applications throughout the growing season maintain a protective bacterial film on plant surfaces.
 
 ## Scientific Basis
 
@@ -24,7 +24,7 @@ Bacillus subtilis is one of the most extensively studied beneficial bacteria in 
 
 ## Specific Disease Applications
 
-Against powdery mildew (Podosphaera and Erysiphe species), hay bacillus works primarily through competitive exclusion and production of iturin-class lipopeptides that disrupt fungal cell membranes. For Fusarium wilt, B. subtilis colonizes the root zone and produces antifungal compounds that suppress the soil-borne pathogen while simultaneously triggering induced systemic resistance (ISR) in the host plant. Against bacterial leaf spot (Xanthomonas species), the bacterium competes for leaf surface nutrients and produces antibacterial compounds that limit pathogen colonization.
+Against powdery mildew (Podosphaera and Erysiphe species), hay bacillus works primarily through competitive exclusion and production of iturin-class lipopeptides that disrupt fungal cell membranes. For Fusarium wilt, B. subtilis colonizes the root zone and produces antifungal compounds that suppress the soil-borne pathogen while simultaneously triggering [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance (ISR) in the host plant. Against bacterial leaf spot (Xanthomonas species), the bacterium competes for leaf surface nutrients and produces antibacterial compounds that limit pathogen colonization.
 
 ## Storage and Shelf Life
 
@@ -112,4 +112,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -7,7 +7,7 @@
 gardening literature.
 
 Solomon points out that most gardening books ignore this fundamental reality,
-promoting intensive vegetable production as though it were a path to food
+promoting intensive [[dry-gardening-unirrigated-vegetable-production-solomon]] as though it were a path to food
 independence. In reality, a family seeking genuine self-sufficiency must grow
 significant calorie crops, which means shifting from garden-scale to field-scale
 agriculture for at least part of their food production.
@@ -32,10 +32,10 @@ against the calorie returns from different cropping strategies.
 ## Regional Adaptation
 
 Solomon emphasizes that self-sufficiency strategies must be adapted to local
-climate and growing conditions. His discussion of climate zones and seed
+climate and growing conditions. His discussion of [[mollison-climate-zones-permaculture-strategies]] and seed
 companies (Veseys in Canada, William Dam Seeds in Ontario) reflects the
 principle that variety selection must match day length, temperature patterns,
-and growing season length for the specific latitude and microclimate.
+and [[savory-growing-season-and-non-growing-season-management]] length for the specific latitude and microclimate.
 
 Seed companies in different regions have selected varieties adapted to local
 conditions. Using seed from the wrong climate zone — a mistake Solomon made
@@ -50,7 +50,7 @@ Solomon's vision of true self-sufficiency rests on closing all nutrient loops:
 2. Human and animal waste is recycled (humanure, [[winter-squash-guide]], corn)
 - Use vegetable production to supplement calories and provide dietary variety
 - Invest in soil fertility as the foundation of all production
-- Learn to grow and process field crops (grain grinding, bean drying, root
+- Learn to [[query-how-do-you-grow-and-process-tea-at-home]] field crops (grain grinding, bean drying, root
   cellaring)
 - Prioritize composting and biomass recycling over purchased amendments
 - Select varieties adapted to your specific climate zone and latitude
@@ -66,9 +66,9 @@ infrastructure investment.
 
 ## See Also
 
-- humanure recycling and composting
+- [[solomon-humanure-recycling-and-composting]] and composting
 - [[winter-gardening-season-extension]]-and-season-planning
-- soil organic matter and tilth
+- soil [[hamilton-composting-and-organic-matter-management]] and tilth
 
 ## References
 
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

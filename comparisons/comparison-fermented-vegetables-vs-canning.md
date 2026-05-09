@@ -1,5 +1,5 @@
 ---
-title: Fermented Vegetables vs Canning and Preserving
+title: comparison fermented vegetables vs canning vs Canning and Preserving
 created: 2026-04-28
 tags: [preservation, food, homesteading, comparison]
 date: 2026-04-25
@@ -21,7 +21,7 @@ Understanding the strengths and limitations of each method allows you to build a
 
 Fermentation preserves vegetables by harnessing naturally occurring lactic acid bacteria, primarily Lactobacillus species, that convert sugars into lactic acid. This lowers the pH to a point where harmful organisms cannot survive. The process requires only salt, water, vegetables, and a suitable vessel, making it one of the most accessible preservation methods available.
 
-The ideal fermentation temperature range is 65 to 72 degrees Fahrenheit. Within this window, fermentation proceeds at a steady pace and produces clean, well-developed flavors. Temperatures above this range accelerate fermentation and may produce off-flavors or soft textures, while cooler temperatures slow the process and can extend it by weeks.
+The ideal fermentation [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] is 65 to 72 degrees Fahrenheit. Within this window, fermentation proceeds at a steady pace and produces clean, well-developed flavors. Temperatures above this range accelerate fermentation and may produce off-flavors or soft textures, while cooler temperatures slow the process and can extend it by weeks.
 
 The fermentation process unfolds in characteristic stages over one to four weeks. In the first 48 hours, aerobic bacteria consume available oxygen and create anaerobic conditions. From days two through seven, Lactobacillus species dominate and rapidly produce lactic acid. By week three, more acid-tolerant species take over and fermentation gradually slows. After 21 days or more, fermentation is largely complete.
 
@@ -37,7 +37,7 @@ Troubleshooting fermented vegetables is generally straightforward. A white film 
 
 ## Canning and Preserving
 
-Canning preserves food by applying heat inside sealed jars to destroy microorganisms, then relying on the vacuum seal to prevent recontamination. Two primary methods exist: water bath canning for high-acid foods with a pH of 4.6 or below, and pressure canning for low-acid foods, which must reach 240 to 250 degrees F to destroy Clostridium botulinum spores.
+Canning preserves food by applying heat inside sealed jars to destroy microorganisms, then relying on the vacuum seal to prevent recontamination. Two primary methods exist: water bath canning for high-acid foods with a pH of 4.6 or below, and [[comparison-pressure-canning-vs-water-bath-canning]] for low-acid foods, which must reach 240 to 250 degrees F to destroy Clostridium botulinum spores.
 
 The fundamental principle behind canning is that microorganisms, including dangerous pathogens, are destroyed by sustained heat. Once the jar cools, the vacuum seal prevents new organisms from entering. This combination of heat treatment and hermetic sealing is what makes canned food shelf-stable.
 
@@ -45,13 +45,13 @@ Botulism safety is the paramount concern in canning. The bacterium Clostridium b
 
 Canning produces shelf-stable food that can be stored at room temperature for one to five years without any refrigeration. It accommodates a remarkably wide range of foods including fruits, jams, jellies, pickles, acidified tomatoes, vegetables, meats, poultry, fish, soups, stews, beans, and broths. This versatility makes canning the most comprehensive single preservation method available.
 
-The process requires specific equipment including a large canning pot with rack for water bath canning, a pressure canner for low-acid foods, Mason jars, new single-use canning lids, reusable jar bands, and tools such as a jar lifter, funnel, headspace tool, and bubble remover. Altitude adjustments are necessary for both methods, adding processing time for water bath canning and increasing pressure for pressure canning.
+The process requires specific equipment including a large canning pot with rack for water bath canning, a [[pf-tek-pressure-canner-sterilization]] for low-acid foods, Mason jars, new single-use canning lids, reusable jar bands, and tools such as a jar lifter, funnel, headspace tool, and bubble remover. Altitude adjustments are necessary for both methods, adding processing time for water bath canning and increasing pressure for pressure canning.
 
 The primary strength of canning is its reliability and long shelf life. Properly canned goods are safe indefinitely when stored correctly, and the process is well-documented with tested recipes that remove guesswork from both safety and quality.
 
 Common mistakes in canning include using a water bath for low-acid foods, reusing canning lids, failing to adjust for altitude, over-tightening jar bands, not removing air bubbles, and skipping the steam venting step in pressure canning. Each of these errors can compromise seal integrity or food safety. Careful attention to procedure eliminates these risks.
 
-Storage conditions matter for canned goods. A cool, dark, dry location between 50 and 70 degrees F is ideal. While canned food is safe well beyond one year, quality gradually declines. Any jar with a broken seal, bulging lid, mold, off-odor, or spurting liquid when opened should be discarded without tasting.
+[[vegetable-storage-conditions-by-temperature-and-humidity]] matter for canned goods. A cool, dark, dry location between 50 and 70 degrees F is ideal. While canned food is safe well beyond one year, quality gradually declines. Any jar with a broken seal, bulging lid, mold, off-odor, or spurting liquid when opened should be discarded without tasting.
 
 ## Key Differences
 
@@ -69,7 +69,7 @@ The table below summarizes the most important distinctions between fermentation 
 | Flavor development | Complex, evolves and improves over time | Fixed at the time of canning |
 | Suitable foods | Vegetables and fruits with high water content | Nearly all foods including meats and soups |
 | Recipe flexibility | High; salt, time, and seasonings vary freely | Low; must follow tested recipes for safety |
-| Energy requirements | None (ambient temperature fermentation) | Stove fuel for boiling or pressure canning |
+| Energy requirements | None ([[jadam-ambient-temperature-principle]] fermentation) | Stove fuel for boiling or pressure canning |
 | Beginner friendliness | Very easy to start, forgiving of variation | Requires learning specific safety procedures |
 | Scalability | Moderate (limited by vessel and fridge space) | High (batch processing with standard jar sizes) |
 | Cost per batch | Very low (salt and vegetables only) | Moderate (jars, lids, energy costs) |

@@ -15,7 +15,7 @@ tags:
   - pollinator
 sources:
   - Martin, J.L. & Sherman, R.E. (2013). "Black Locust." USDA Forest Service Silvics Manual.
-  - Jacke, D. & Toensmeier, E. (2005). Edible Forest Gardens. Chelsea Green.
+  - Jacke, D. & Toensmeier, E. (2005). Edible [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]. Chelsea Green.
   - Mabberley, D.J. (2017). Mabberley's Plant-Book. Cambridge University Press.
   - Rackham, O. (1986). The History of the Countryside. J.M. Dent & Sons.
 ---
@@ -25,7 +25,7 @@ sources:
 
 ## Taxonomy
 
-Kingdom Plantae → Clade Eudicots → Order Fabales → Family Fabaceae → Subfamily Faboideae → Genus *Robinia* → Species *R. pseudoacacia*. Named by Linnaeus in 1753 for Jean Robin, royal gardener to Henri IV, who first cultivated the species in Europe from North American seed (1601). *Pseudoacacia* reflects resemblance to true acacia, which it is not closely related to.
+Kingdom Plantae → Clade Eudicots → Order Fabales → Family Fabaceae → Subfamily Faboideae → Genus *Robinia* → Species *R. pseudoacacia*. Named by Linnaeus in 1753 for Jean Robin, royal gardener to Henri IV, who first cultivated the species in Europe from [[growing-gourmet-north-american-reishi-species]] seed (1601). *Pseudoacacia* reflects resemblance to true acacia, which it is not closely related to.
 
 ## Morphology
 
@@ -41,7 +41,7 @@ Native to the Appalachian region and Ozark Plateau (southern Pennsylvania to nor
 
 ## Nitrogen Fixation
 
-Forms symbiotic relationships with *Rhizobium* spp., converting atmospheric N₂ to ammonia: 50–150 kg N/ha/year (high for woody species). Nodules most active during spring–summer growth. Fixed nitrogen transfers to adjacent plants through leaf litter decomposition, root exudation, and mycorrhizal networks. Leaf litter has high N content (2.5–3.5%), decomposes rapidly.
+Forms symbiotic relationships with *Rhizobium* spp., converting atmospheric N₂ to ammonia: 50–150 kg N/ha/year (high for woody species). Nodules most active during spring–summer growth. Fixed nitrogen transfers to adjacent plants through leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]], root exudation, and [[dighton-mycorrhizal-networks-carbon-transfer]]. Leaf litter has high N content (2.5–3.5%), decomposes rapidly.
 
 ## Wood Properties
 
@@ -53,7 +53,7 @@ Janka hardness 1,700 lbf; specific gravity 0.66–0.73; modulus of rupture 14,10
 - **Construction**: Beams, joists, flooring; historically used for shipbuilding and wagon hubs
 - **Honey**: Black locust honey is a premier monofloral — clear, very light, extremely sweet, slow to crystallize; high fructose (40%+)
 - **Mine reclamation**: Widely planted on coal spoil banks; N fixation and rapid growth stabilize disturbed sites
-- **Erosion control**: Extensive root system stabilizes slopes and streambanks; effective windbreak within 5–8 years
+- **[[permplant-willows-salix-erosion-control-fodder]]**: Extensive root system stabilizes slopes and streambanks; effective windbreak within 5–8 years
 
 ## Bioactive Compounds and Toxicity
 
@@ -87,7 +87,7 @@ Understory partners: berry bushes (currants, elderberry), nitrogen-demanding fru
 
 - **Seed**: Scarify (hot water 24h or acid), cold stratify 60–90 days; 60–80% germination; seedlings grow 60–120 cm first year
 - **Root cuttings**: 15–20 cm sections planted horizontally in spring; very reliable, clones parent characteristics
-- **Suckers**: Transplant in early spring before bud break; high success rate
+- **Suckers**: Transplant in early spring before bud break; high [[maitake-fruiting-body-success-rate-management]]
 - **Coppice**: Established trees managed indefinitely through rotation
 
 ## Coppice Management System

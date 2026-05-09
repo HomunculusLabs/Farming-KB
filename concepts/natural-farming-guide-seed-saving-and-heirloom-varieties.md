@@ -1,5 +1,5 @@
 ---
-title: Seed Saving and Heirloom Varieties from Natural Farming
+title: Seed Saving and Heirloom Varieties from comparison-natural-farming-vs-permaculture
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,15 +10,15 @@ tags: [natural-farming, plant-growth]
 
 # Seed Saving and Heirloom Varieties
 
-Seed saving is a critical skill for self-reliant farming and a core practice in permaculture. It preserves genetic diversity, reduces dependence on commercial seed suppliers, and allows farmers to select for traits adapted to their specific conditions. Seed sharing is identified as one of the foundational activities of permaculture culture, alongside organic agriculture, forest gardens, and other practices that support self-reliance.
+Seed saving is a critical skill for self-reliant farming and a core practice in permaculture. It preserves genetic diversity, reduces dependence on commercial seed suppliers, and allows farmers to select for traits adapted to their specific conditions. Seed sharing is identified as one of the foundational activities of permaculture culture, alongside organic agriculture, [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]], and other practices that support self-reliance.
 
 ## The Importance of Open-Pollinated and Heirloom Varieties
 
-Heritage varieties are central to natural farming because they breed true from seed, unlike modern hybrids. Heritage fruit trees are more likely to be disease-resistant. Seed saving from hybrids is explicitly cautioned against: "You can save seed from your second crop of grain (unless you're using a hybrid)." Hybrid seeds do not produce offspring with the same characteristics as the parent plant, making them unsuitable for seed saving.
+Heritage varieties are central to natural farming because they breed true from seed, unlike modern hybrids. Heritage [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] are more likely to be disease-resistant. Seed saving from hybrids is explicitly cautioned against: "You can save seed from your second crop of grain (unless you're using a hybrid)." [[heirloom-vs-hybrid-seeds-comparison]] do not produce offspring with the same characteristics as the parent plant, making them unsuitable for seed saving.
 
 ## Seed Saving for Grain Crops
 
-The grain harvest process includes careful seed selection and storage:
+The grain harvest process includes careful [[cannabis-seed-selection-and-strain-types]] and storage:
 
 1. Save seed from your second crop of grain (not the first, and not from hybrids)
 2. Select the best seed heads: unbroken and healthy specimens only
@@ -39,7 +39,7 @@ Dry ice method: Use 1 tablespoon of dry ice per 5 gallons of grain. Place in an 
 Heat method: For edible grain only (not seed grain, as heat kills viability). Spread a quarter-inch layer on a pan and heat in the oven at 140 degrees F (60 degrees C) for 30 minutes.
 
 ### [[natural-farming-seed-saving]]
-- [[permaculture-designers-manual-seed-saving-varieties]]
+- permaculture-designers-manual-seed-saving-varieties
 - [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]
 ## Practical Considerations
 
@@ -57,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +99,11 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
+## See Also
 
+- [[mollison-designers-seed-saving-varieties]]
+- [[natural-farming]]
+- [[natural-farming-seed-saving]]
+- [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]
+- [[forest-gardens]]
+- [[natural-farming-guide-swale-water-management]]

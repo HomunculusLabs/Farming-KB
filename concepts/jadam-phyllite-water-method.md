@@ -11,11 +11,11 @@ sources:
 
 ## Overview
 
-Phyllite water (phyllite solution) is a key mineral supplementation technology in the JADAM farming system. JADAM encourages the use of phyllite -- a fine-powdered metamorphic rock -- to replenish soil minerals, working in combination with [[jadam-nature-as-teacher-philosophy]]. In forests, trees pull minerals from deep in the earth through their roots, and when leaves and branches fall, those minerals are returned to the soil surface where microbes gradually release them. The phyllite water method accelerates this cycle by providing powdered mineral-rich rock that microbes can quickly break down.
+Phyllite water (phyllite solution) is a key mineral supplementation technology in the [[query-what-is-jadam-farming-and-how-does-it-work]] system. JADAM encourages the use of phyllite -- a fine-powdered metamorphic rock -- to replenish soil minerals, working in combination with [[jadam-nature-as-teacher-philosophy]]. In forests, trees pull minerals from deep in the earth through their roots, and when leaves and branches fall, those minerals are returned to the soil surface where microbes gradually release them. The phyllite water method accelerates this cycle by providing powdered mineral-rich rock that microbes can quickly [[query-can-fungi-break-down-plastic-pollution]].
 
 ## Cost Effectiveness
 
-A significant advantage of the phyllite water method is its low cost. One 60 kg batch of phyllite mixed with 500 L of water can be used repeatedly throughout the year, with only water refills needed. This makes comprehensive mineral supplementation accessible even to small-scale farmers with limited budgets.
+A significant advantage of the phyllite water method is its [[jadam-ultra-low-cost-agriculture]]. One 60 kg batch of phyllite mixed with 500 L of water can be used repeatedly throughout the year, with only water refills needed. This makes comprehensive mineral supplementation accessible even to small-scale farmers with limited budgets.
 
 ## See Also
 - [[jadam-cover-crop-method]]
@@ -102,4 +102,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

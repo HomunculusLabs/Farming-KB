@@ -11,7 +11,7 @@ created: 2026-04-28
 
 # Streptococcus and Dairy Soil Disease in the Ingham Soil Foodweb Framework
 
-High population levels of disease-causing *Streptococcus* species are a hallmark indicator of sick soil, particularly in dairy operations. Elaine Ingham's field guide correspondence provides a detailed analysis of how these pathogenic bacteria establish dominance and what is required to reverse the conditions that favor them.
+High population levels of disease-causing *Streptococcus* species are a hallmark indicator of sick soil, particularly in dairy operations. [[elaine-ingham]]'s [[ghouled-field-guide-historical-context]] correspondence provides a detailed analysis of how these pathogenic bacteria establish dominance and what is required to reverse the conditions that favor them.
 
 ## Why Streptococcus Dominance Develops
 
@@ -37,21 +37,21 @@ However, if the udder keeps getting re-infected by splash from contaminated soil
 
 ### 2. High Nitrate Levels
 
-Manure is naturally high in nitrate. While some nitrogen is volatized as ammonia during decomposition, the intermediate steps through nitrate create conditions that favor disease organisms. The nitrate pathway itself sets the stage for pathogen establishment.
+Manure is naturally high in nitrate. While some nitrogen is volatized as ammonia during [[decomposition]], the intermediate steps through nitrate create conditions that favor disease organisms. The nitrate pathway itself sets the stage for pathogen establishment.
 
-Ingham notes that the steps from organic nitrogen to ammonia pass through nitrate, and this intermediate nitrogen form creates conditions that disease organisms exploit. The nitrate intermediate is a biological bottleneck — it represents incomplete nitrogen cycling that signals a dysfunctional foodweb.
+Ingham notes that the steps from organic nitrogen to ammonia pass through nitrate, and this intermediate nitrogen form creates conditions that disease organisms exploit. The nitrate intermediate is a biological bottleneck — it represents incomplete [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] that signals a dysfunctional foodweb.
 
 ### 3. Undigested Organic Compounds
 
 High concentrations of undigested sugars, proteins, and short-chain anaerobic organic acids accumulate in manures and liquid sludge. Even when lime is applied to raise pH, this is a "symptom cure" — it does not address the underlying problem.
 
-When soil becomes waterlogged, no amount of lime can counteract the anaerobic organic acids pushing pH into the acid range. The undigested organic matter continues to fuel anaerobic metabolism, producing more acids and further lowering pH in a self-accelerating cycle.
+When soil becomes waterlogged, no amount of lime can counteract the anaerobic organic acids pushing pH into the acid range. The undigested [[hamilton-composting-and-organic-matter-management]] continues to fuel anaerobic metabolism, producing more acids and further lowering pH in a self-accelerating cycle.
 
 ## The Role of Anaerobic Conditions in Dairy Soil
 
 The fundamental mechanism linking all three selective factors is anaerobiosis.
 
-As un-composted dairy waste is spread on soil and liquid waste is sprayed, conditions progressively build for disease organisms. The typical soil organisms responsible for building soil structure — and thus maintaining air passageways — are killed off incrementally.
+As un-composted dairy waste is spread on soil and liquid waste is sprayed, conditions progressively build for disease organisms. The typical soil organisms responsible building soil soil structure — and thus maintaining air passageways — are killed off incrementally.
 
 Critically, these beneficial organisms do not simply "come back" on their own because the conditions will not return to what they need to survive. The conditions remain perfectly balanced for disease streptococci, *E. coli*, fecal coliforms, *Fusarium*, and other blights, wilts, and root rots. This creates a self-reinforcing cycle of declining soil health.
 
@@ -61,7 +61,7 @@ The self-reinforcing nature of dairy soil degradation deserves emphasis.
 
 In a healthy system, if anaerobic pockets develop, aerobic organisms from surrounding areas can recolonize once conditions improve. But in a dairy system where anaerobic waste is continuously applied, the anaerobic zone expands relentlessly. There is no reservoir of aerobic organisms left to recolonize from — they have all been eliminated.
 
-The soil compaction that results from loss of soil aggregation compounds the problem. Without fungal hyphae and bacterial slime layers binding soil particles together, the soil collapses into a dense, airless mass. Water cannot infiltrate, oxygen cannot diffuse, and roots cannot penetrate. The physical structure of the soil becomes a barrier to its own recovery.
+The soil compaction that results from loss of soil aggregation compounds the problem. With fungal hyphae phae and bacterial slime layers binding soil particles together, the soil collapses into a dense, airless mass. Water cannot infiltrate, oxygen cannot diffuse, and roots cannot penetrate. The physical structure of the soil becomes a barrier to its own recovery.
 
 Each intervention that kills biology — more lime, more fertilizer, more chemicals — pushes the system further toward anaerobic conditions, making the next intervention seem even more necessary. The farmer is caught in a chemical dependency cycle driven by biological collapse.
 
@@ -84,7 +84,7 @@ The practical sequence matters. Adding organisms to compacted, anaerobic soil wi
 Proper composting of dairy manure before field application is critical. The composting process kills or out-competes pathogens through multiple mechanisms:
 
 - **Temperature regimes** in thermal composting destroy pathogens directly
-- **Passage through earthworm guts** in vermicomposting exposes pathogens to digestive enzymes
+- **Passage through earthworm guts**[[vermicomposting]] ting exposes pathogens to digestive enzymes
 - **Competition with aerobic organisms** deprives pathogens of food and space
 - **Consumption by predators** (protozoa, nematodes) directly reduces pathogen populations
 
@@ -98,7 +98,7 @@ Antibiotics from dairy operations (particularly wormers/strongylid medicine) pre
 
 The biggest composting problems come from strongylid de-wormer, followed by herbicide residues, insecticides, fungicides, then copper and sulfur.
 
-If compost temperature does not respond normally during the startup phase — if temperatures stay low too long — this signals that inhibitory materials are present. The remedy is to add more nitrogen (fish hydrolysate for de-wormer problems), then molasses for energy, and potentially inoculants containing bacteria that decompose these materials.
+If compost temperature does not respond normally during the startup phase — if temperatures stay low too long — this signals that inhibitory materials are present. The remedy is to add more nitrogen ([[comparison-fish-hydrolysate-vs-fish-emulsion]] for de-wormer problems), then molasses for energy, and potentially inoculants containing bacteria that decompose these materials.
 
 ## Lagoon and Barn Floor Remediation
 
@@ -110,9 +110,9 @@ Barn floors present a contact-surface version of the same problem. Manure residu
 
 ## Connection to the Broader Soil Foodweb
 
-The Streptococcus problem illustrates a core principle of Ingham's framework: disease is not a single-organism problem but a systems failure. The whole foodweb needs to be restored — not just bacteria, but also beneficial fungi, all protozoa groups, beneficial nematodes, and microarthropods.
+The Streptococcus problem illustrates a core principle of Ingham's framework: disease is not a single-organism problem but a systems failure. The whole foodweb needs to be restored — not just bacteria, but also beneficial fungi, all protozoa groups, [[ingham-beneficial-nematodes-soil-food-web]], and microarthropods.
 
-Adding worm compost is especially helpful for re-establishing microarthropod populations. Worm castings introduce not only the organisms from the worm gut but also the microarthropod communities that colonize the worm beds. This provides a inoculum package that addresses multiple trophic levels simultaneously.
+Adding [[ingham-thermal-worm-compost-comparison]] is especially helpful for re-establishing microarthropod populations. Worm castings introduce not only the organisms from the worm gut but also the microarthropod communities that colonize the worm beds. This provides a inoculum package that addresses multiple trophic levels simultaneously.
 
 This case study reinforces the broader lesson that AACT is a preventative approach, not a pesticide. The mechanisms are mechanical — competition for food, space, and infection sites — not toxic. Pathogens are out-competed and eliminated through normal biological processes that have worked since biology first appeared on the planet.
 

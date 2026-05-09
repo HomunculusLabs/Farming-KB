@@ -5,13 +5,13 @@ updated: 2026-04-16
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+  sources: []
 ---
 # Casing Layer Microbiology
 
 The casing layer is far more than an inert moisture-retaining blanket placed over colonized substrate. It is a living ecosystem whose microbial communities directly influence mushroom fruiting initiation, yield, and crop health. Understanding the microbiology of the casing layer transforms it from a simple cultivation step into a sophisticated biological tool for [[bacteria-and-microorganisms-in-mushroom-fruiting]].
 
-Briefly, P. putida grows on acetone and ethanol — metabolic waste products released by mushroom mycelium. When the casing layer is applied, it traps these volatile compounds, creating favorable conditions for Pseudomonas proliferation. The bacteria then stimulate primordia formation through mechanisms that are not fully understood but may involve removal of inhibitory compounds or direct biological signaling.
+Briefly, P. putida grows on acetone and ethanol — metabolic waste products released by mushroom mycelium. When the casing layer is applied, it traps these [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]], creating favorable conditions for Pseudomonas proliferation. The bacteria then stimulate [[growing-gourmet-primordia-formation-pinning]] through mechanisms that are not fully understood but may involve removal of inhibitory compounds or direct biological signaling.
 
 ## The Hyphosphere Concept
 
@@ -29,7 +29,7 @@ Initially, the casing contains the microorganisms present in its raw materials �
 
 As mushroom mycelium grows up into the casing from the underlying substrate, it brings with it its own associated microorganisms and releases metabolites that selectively favor certain bacteria. Pseudomonas populations typically peak 7-14 days after casing application.
 
-Hayes and Nair (1974) demonstrated that adding 5% spawned compost to the casing layer resulted in the largest increase in Pseudomonas putida populations, the most pinheads, and the greatest overall yields. This is because spawned compost introduces the bacterial community that has already established a productive relationship with the mushroom mycelium.
+Hayes and Nair (1974) demonstrated that adding 5% spawned compost to the casing layer resulted in the largest increase in Pseudomonas putida populations, the most pinheads, and the greatest overall yields. This is because spawned compost introduces the [[core-endorhiza-bacterial-community-composition-cannabis]] that has already established a productive relationship with the mushroom mycelium.
 
 ## Other Casing Microorganisms
 
@@ -39,7 +39,7 @@ Actinomycetes — particularly Streptomyces species — contribute to the charac
 
 Bacillus species including Bacillus megaterium stimulate fruitbody formation and are among the bacteria marketed to farmers for increasing crop production. Their presence in the casing can enhance mushroom yields.
 
-Beneficial fungi in the casing are generally suppressed by the casing conditions (neutral pH, high moisture, low nutrient availability), which is one of the casing's important functions — it creates an environment that favors mushroom mycelium over competitor fungi.
+Beneficial fungi in the casing are generally suppressed by the casing conditions (neutral pH, high moisture, low [[ph-and-nutrient-availability-garden-soils]]), which is one of the casing's important functions — it creates an environment that favors mushroom mycelium over competitor fungi.
 
 ## Casing Materials and Microbial Activity
 
@@ -47,13 +47,13 @@ The choice of casing materials directly affects microbial activity and, conseque
 
 Peat-based casings have become the industry standard because peat is highly decomposed plant matter with a natural pH of 3.5-4.5. This acidic condition precludes many contaminants, making peat a relatively "clean" starting material. However, the low pH also limits microbial diversity, which is why pH buffering with limestone is essential.
 
-Soil-based casings contain a more diverse microbial community than peat-based casings but are more variable in composition and more likely to introduce contaminants. Some cultivators blend peat with small amounts of finished compost to introduce beneficial microorganisms while maintaining the clean starting conditions of peat.
+Soil-based casings contain a more diverse [[edaphic-factors-microbial-community-structure]] than peat-based casings but are more variable in composition and more likely to introduce contaminants. Some cultivators blend peat with small amounts of finished compost to introduce beneficial microorganisms while maintaining the clean starting conditions of peat.
 
 Vermiculite and perlite serve as structural components that improve aeration and moisture retention but do not contribute significantly to the microbial community.
 
 ## Managing Casing Microbiology
 
-Several practical approaches allow cultivators to optimize the microbial ecology of their casing layers.
+Several practical approaches allow cultivators to optimize the [[fukuoka-microbial-ecology-decomposition]] of their casing layers.
 
 Adding 5% spawned compost to the casing mix introduces Pseudomonas and other beneficial bacteria that have co-evolved with the mushroom strain being cultivated. This simple practice has been demonstrated to increase both pinhead formation and total yield.
 
@@ -69,11 +69,11 @@ Some species do not require a casing layer. [[growing-gourmet-tree-species-guide
 
 [[bacteria-and-microorganisms-in-mushroom-fruiting]] — detailed treatment of fruiting bacteria
 
-[[mushroom-substrate-supplementation]] — supplementation at casing time
+[[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] — supplementation at casing time
 
-[[mushroom-composting]] — compost-based cultivation systems
+mushroom-composting — compost-based cultivation systems
 
-[[mushroom-environmental-parameters]] — environmental conditions for cased crops
+mushroom-environmental-parameters — environmental conditions for cased crops
 ## Practical Considerations
 
 Successful implementation of Casing Layer Microbiology — The Role of Microorganisms in Fruiting requires attention to
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

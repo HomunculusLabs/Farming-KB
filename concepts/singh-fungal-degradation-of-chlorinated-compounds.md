@@ -1,5 +1,5 @@
 ---
-title: Fungal Degradation of Chlorinated Compounds
+title: singh-fungal-degradation-endocrine-disrupting-compounds of Chlorinated Compounds
 created: 2026-04-28
 tags:
   - chlorinated-compounds
@@ -16,7 +16,7 @@ type: concept
 
 # Fungal Degradation of Chlorinated Compounds
 
-Chlorinated organic compounds represent some of the most persistent
+Chlorinated [[fungal-volatile-organic-compounds-communication]] represent some of the most persistent
 environmental pollutants, including polychlorinated biphenyls (PCBs), dioxins,
 chlorinated solvents, and organochlorine pesticides. Fungi, particularly
 white-rot basidiomycetes, possess enzymatic systems capable of degrading these
@@ -32,13 +32,13 @@ and sediment matrices.
 
 White-rot fungi such as [[trametes-versicolor-entity]], and
 [[singh-white-rot-fungi-lignin-modifying-enzymes]]). Lignin
-peroxidase (LiP) and manganese peroxidase (MnP) initiate oxidation of PCBs
+peroxidase (LiP) and [[fungal-manganese-peroxidase-remediation]] (MnP) initiate oxidation of PCBs
 through one-electron transfers, generating aryl radicals that undergo further
 reactions including hydroxylation, ring opening, and dechlorination.
 
 The degree of PCB degradation correlates inversely with chlorination level.
 Dichlorinated and trichlorinated congeners are degraded more readily than
-highly chlorinated ones. Fungal ligninolytic enzymes show varying specificity
+highly chlorinated ones. Fungal [[singh-ligninolytic-enzymes-fungal-bioremediation]] show varying specificity
 toward different congener groups, with some preference for ortho- and meta-
 substituted congeners.
 
@@ -61,7 +61,7 @@ contribute through co-metabolic oxidation.
 
 Some ligninolytic fungi oxidize TCE to TCE-epoxide, which rapidly degrades to
 dichloroacetic acid, formic acid, and eventually carbon dioxide. Wood-inhabiting
-fungi including Phanerochaete chrysosporium and Phlebia tremellosa have shown
+fungi including [[staycare-phanerochaete-chrysosporium-in-bioremediation]] and Phlebia tremellosa have shown
 TCE mineralization capabilities. The process is cometabolic, meaning the fungi
 do not derive energy from TCE degradation; rather, it occurs incidentally
 during ligninolytic metabolism.
@@ -70,7 +70,7 @@ during ligninolytic metabolism.
 
 DDT, lindane (gamma-HCH), chlordane, dieldrin, and other organochlorine
 pesticides persist in agricultural soils decades after application. Fungal
-degradation pathways include:
+[[staycare-chlorophenol-degradation-pathways-white-rot-fungi]] include:
 
 - **DDT**: Dehydrochlorination to DDE, reductive dechlorination to DDD, and
   further ring cleavage. White-rot fungi and certain soil ascomycetes
@@ -86,6 +86,9 @@ promising strategies for complete mineralization of recalcitrant chlorinated
 pollutants.
 
 ## Related
+
+- [[fungal-chlorinated-aromatic-degradation]]
+- [[singh-fungal-degradation-endocrine-disrupting-compounds]]
 
 - [[singh-white-rot-fungi-lignin-modifying-enzymes]]
 - [[singh-composted-fungal-biomass-heavy-metal-immobilization]]

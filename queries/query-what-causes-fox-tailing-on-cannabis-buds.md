@@ -1,10 +1,11 @@
 ---
-title: "What Causes Fox-Tailing on Cannabis Buds"
+title: "What Causes Fox-Tailing on query-what-causes-airy-loose-cannabis-buds-and-how-to-prevent-them"
 created: 2026-04-28
 tags: [query, cannabis, bud-quality, light-stress, flowering]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 # What Causes Fox-Tailing on Cannabis Buds
@@ -13,7 +14,7 @@ type: query
 
 Fox-tailing is a condition where cannabis buds develop elongated, spiky calyx growth that protrudes from the main bud structure, resembling a fox's tail. It is most commonly caused by excessive light intensity, high temperatures, or genetic predisposition during the [[cannabis-light-burn]] for detailed coverage of light-related damage on cannabis plants.
 
-When cannabis buds receive more light energy than they can process, the plant responds by accelerating cellular growth at the bud surface. This runaway growth produces the elongated calyx structures characteristic of fox-tailing. The plant essentially tries to "grow away" from the excessive light intensity as a stress response. HPS (high-pressure sodium) lights can also cause fox-tailing, though typically at closer distances than LEDs because their light is more diffuse.
+When cannabis buds receive more light energy than they can process, the plant responds by accelerating cellular growth at the bud surface. This runaway growth produces the elongated calyx structures characteristic of fox-tailing. The plant essentially tries to "grow away" from the excessive light intensity as a [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]]. HPS (high-pressure sodium) lights can also cause fox-tailing, though typically at closer distances than LEDs because their light is more diffuse.
 
 Key indicators that light stress is the culprit:
 
@@ -60,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

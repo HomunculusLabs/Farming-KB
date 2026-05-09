@@ -22,7 +22,7 @@ created: 2026-04-28
 
 ## Overview
 
-THC Bomb is an indica-dominant hybrid cannabis strain bred by Bomb
+THC Bomb is an indica-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] bred by Bomb
 Seeds, a Dutch seed company. Released in the early 2010s, it combines
 a potent indica parent with a selected sativa to achieve exceptionally
 high THC production while maintaining manageable growth characteristics.
@@ -62,7 +62,7 @@ crystalline appearance. Some phenotypes develop purple hues in cooler
 conditions.
 
 The leaf-to-bud ratio is favorable for processing, with small sugar
-leaves easily trimmed. Resin production is exceptionally heavy.
+leaves easily trimmed. [[cannabis-glandular-trichome-types-resin-production-clarke]] is exceptionally heavy.
 
 ## Aroma and Flavor
 
@@ -104,7 +104,7 @@ relaxation spreads from neck and shoulders downward, producing a
 "bomb-like" physical heaviness that can lock users to the couch at
 higher doses.
 
-Common therapeutic applications include chronic pain, insomnia, muscle
+Common therapeutic applications include [[cannabis-chronic-pain-management]], insomnia, muscle
 tension, appetite stimulation, and stress relief. Duration averages
 2–3 hours, with body effects persisting longer than the cerebral
 phase.
@@ -112,7 +112,7 @@ phase.
 ## Cultivation
 
 THC Bomb is beginner-friendly with resilient genetics and forgiving
-growth. It performs well indoors and outdoors, with indoor cultivation
+growth. It performs well indoors and outdoors, with [[cannabis-sativa-indoor-cultivation-techniques]]
 offering greater control over potency and yield.
 
 Flowering time is 7–8 weeks indoors. Plants reach moderate height

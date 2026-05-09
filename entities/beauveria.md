@@ -13,12 +13,12 @@ tags:
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+  sources: []
 ---
 
 # Beauveria
 
-**Beauveria** is a genus of entomopathogenic fungi in the family
+**Beauveria** is a genus of [[singh-entomopathogenic-fungi-biocontrol-agents]] in the family
 Cordycipitaceae (order Hypocreales) that infect and kill insects across a
 remarkably broad host range. The genus was erected by Vuillemin in 1912 and
 named in honor of the French physician and naturalist Jean Beauverie. The type
@@ -42,7 +42,7 @@ The original basionym was *Botrytis bassiana* described by Balsamo-Crivelli in
 1888, itself based on Agostino Bassi's 1835 work identifying the fungus as the
 cause of muscardine disease in silkworms — one of the earliest demonstrations
 of germ theory, predating Pasteur and Koch. The teleomorph has been linked to
-*Cordyceps* species but sexual reproduction is rare; most propagation is clonal
+*Cordyceps* species but [[fungal-life-cycles-sexual-reproduction-metamorphosis]] is rare; most propagation is clonal
 via hydrophobic conidia.
 
 ## Major Species
@@ -108,19 +108,19 @@ When applied as a soil drench or seed treatment, *B. bassiana* colonizes
 plant roots and grows systemically into stems and leaves of many species
 (wheat, maize, coffee, banana, tomato). This provides "plant-mediated"
 biocontrol — insects feeding on colonized plants show higher mortality.
-Additional benefits include growth promotion, improved drought tolerance, and
+Additional benefits include [[brassinosteroid-growth-promotion-psilocybe-cubensis]], improved [[dighton-fungal-drought-tolerance-plant-water-relations]], and
 suppression of plant pathogens through competition. Colonization persists for
 weeks to months, outlasting foliar spray protection.
 
 ## Secondary Metabolites
 
-Key bioactive compounds include **beauvericin** (cyclic hexadepsipeptide
+Key [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include **beauvericin** (cyclic hexadepsipeptide
 ionophore; disrupts insect ion homeostasis and shows anticancer activity),
 **bassianolide** (causes insect muscle paralysis), **oosporein** (red quinone
 pigment with antimicrobial and insecticidal activity), and **tenellin** and
 **bassianin** (pyridone alkaloid siderophores). These compounds have
 pharmaceutical interest for their anticancer, immunosuppressive, and
-antimicrobial properties.
+[[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
 
 ## Safety and Regulatory Status
 
@@ -141,6 +141,6 @@ strain development), and Paul Stamets (mycopesticide advocacy).
 ## See Also
 
 - [[fungal-biopesticides]]
-- [[mycopesticides-entomopathogenic-fungi]]
+- mycopesticides-entomopathogenic-fungi
 - [[entomopathogenic-fungal-diversity-cordyceps-insect-pathogens]]
 - [[cordyceps-and-entomopathogenic-fungi]]

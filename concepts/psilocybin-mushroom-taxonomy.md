@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushroom Taxonomy
+title: emcdda-psilocybin-mushroom-dose-and-effects Taxonomy
 created: 2026-04-28
 tags:
   - mycology
@@ -44,14 +44,14 @@ phylogenetic classification.
 
 ## Historical Taxonomic Changes
 
-The renaming of Stropharia cubensis Earle to [[panaeolus-cyanescens-entity]] are among the most
+The renaming of [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] Earle to [[panaeolus-cyanescens-entity]] are among the most
 well-known psychoactive species in this genus.
 
 Conocybe species are small, fragile mushrooms found in grasslands
 and enriched soils. Gymnopilus species tend to be larger,
 wood-inhabiting mushrooms with orange to reddish-brown caps.
 Inocybe species are typically mycorrhizal and can be difficult
-to identify without microscopic examination. Pluteus species are
+to identify without [[fungal-microscopic-examination-mounting-media-techniques]]. Pluteus species are
 wood-inhabiting mushrooms with free gills and pink spore prints.
 
 ## Representative Characteristics
@@ -65,7 +65,7 @@ active species, particularly those high in psilocin, bruise
 bluish where injured due to the oxidation of psilocin.
 
 The gills are usually dark brown with whitish edges, ascending
-in attachment. The bluing reaction is a key diagnostic feature.
+in attachment. The [[field-guide-psilocybin-bluing-reaction-identification]] is a key diagnostic feature.
 Microscopic features including spore size, shape, and
 ornamentation, along with the presence or absence of
 cheilocystidia and pleurocystidia, are critical for species
@@ -85,10 +85,10 @@ mass spectrometry are the standard analytical techniques used.
 
 ## Regional Distribution and Diversity
 
-The diversity of psilocybin mushrooms varies significantly by
+The diversity of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] varies significantly by
 region. Mexico is the center of diversity for the genus
 Psilocybe, with numerous endemic species found across the
-southern highlands. Southeast Asia, South America, and
+southern highlands. [[psilocybe-southeast-asia-pacific]], South America, and
 Australasia also harbor significant diversity. In temperate
 regions, fewer species are found but some, like Psilocybe
 semilanceata, are extremely abundant and widely distributed.

@@ -1,5 +1,5 @@
 ---
-title: Dark Septate Endophytes in Stressed Environments
+title: Dark dark-septate-endophytes-root-colonizing-fungi in Stressed Environments
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -25,19 +25,19 @@ Dark septate endophytes are identified by several morphological features:
 
 Despite being non-mycorrhizal, DSE perform functions that overlap with and complement those of mycorrhizal fungi:
 
-- **Nutrient cycling**: DSE produce extracellular enzymes including phosphatases and proteases that mobilize nutrients from soil organic matter.
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: DSE produce extracellular enzymes including phosphatases and proteases that mobilize nutrients from soil organic matter.
 
 - **Plant growth promotion**: Some DSE promote plant growth under controlled conditions, though the effects are highly variable and context-dependent. Benefits may be most apparent under stress conditions where mycorrhizal fungi are less effective.
 
-- **Pathogen protection**: DSE colonization can reduce the severity of root diseases caused by soilborne pathogens, potentially through niche competition, antibiosis, or induced resistance.
+- **Pathogen protection**: DSE colonization can reduce the severity of root diseases caused by soilborne pathogens, potentially through niche competition, antibiosis, or [[mycorrhiza-induced-resistance-defense-priming]].
 
 - **Soil aggregation**: The melanized hyphae of DSE contribute to soil structure through physical binding of soil particles.
 
-- **Succession facilitation**: DSE may serve as pioneer root colonizers in disturbed or primary successional sites, preparing the root environment for subsequent mycorrhizal colonization.
+- **Succession facilitation**: DSE may serve as pioneer root colonizers in disturbed or primary successional sites, preparing the root environment for subsequent [[arbuscular-mycorrhizal-colonization-patterns]].
 
 ## Interactions with Mycorrhizal Fungi
 
-DSE frequently co-occur with mycorrhizal fungi in the same root system, and their interactions can be synergistic, neutral, or competitive:
+DSE frequently co-occur with [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] the same root system, and their interactions can be synergistic, neutral, or competitive:
 
 - **Facilitation**: DSE may facilitate subsequent mycorrhizal colonization by modifying root exudation patterns or reducing pathogen pressure.
 
@@ -51,7 +51,7 @@ DSE have been documented across a wide range of extreme habitats. In alpine and 
 
 ## Research Challenges
 
-The study of DSE faces several methodological challenges, including the difficulty of identifying sterile morphotypes, the lack of standardized colonization assessment methods, and the inability to culture many DSE species. Molecular approaches are increasingly being applied to resolve DSE diversity and function, but linking genotype to phenotype remains difficult for this diverse and functionally variable group.
+The study of DSE faces several methodological challenges, including the difficulty of identifying sterile morphotypes, the lack of standardized colonization assessment methods, and the inability to culture many DSE species. [[staycare-molecular-approaches-fungal-bioremediation]] are increasingly being applied to resolve DSE diversity and function, but linking genotype to phenotype remains difficult for this diverse and functionally variable group.
 
 ## Research Methodology
 
@@ -62,7 +62,7 @@ Studying DSE presents unique methodological challenges compared to mycorrhizal f
 - [[ericoid-mycorrhiza-heathland-ecosystems]]
 - [[fungal-endophytes-plant-fitness]]
 - [[arbuscular-mycorrhizal-fungi]]
-- [[fungal-biodiversity-alpine-arctic]]
+- fungal-biodiversity-alpine-arctic
 
 ## Related
 
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

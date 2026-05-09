@@ -10,7 +10,7 @@ tags: [cannabis, harvesting]
 
 # Harvest Window Cannabis
 
-The harvest window is the optimal period of 5-7 days during which cannabis buds reach
+The harvest window is the optimal period of 5-7 days during which [[query-what-causes-airy-loose-cannabis-buds-and-how-to-prevent-them]] reach
 peak ripeness for harvest. Harvesting at the right time is critical because growth stops
 at harvest -- THC content cannot increase and will only decrease afterward. Proper
 handling from this point forward determines the quality of the final product.
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

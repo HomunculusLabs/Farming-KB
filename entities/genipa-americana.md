@@ -21,9 +21,9 @@ sources:
 
 **Genipa americana**, commonly known as genipap, jagua, or genipa berry, is a medium-sized evergreen tree native to tropical regions of the Americas.
 
-It ranges from the Caribbean and southern Mexico through Central America to northern South America, including the Amazon Basin.
+It ranges from the Caribbean and southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to northern South America, including the Amazon Basin.
 
-The species is renowned for its edible fruit and its use as a natural body paint, producing a blue-black dye that has been used by Indigenous peoples for millennia.
+The species is renowned for its edible fruit and its use as a [[fukuoka-natural-body-and-health]] paint, producing a blue-black dye that has been used by Indigenous peoples for millennia.
 
 The fruit also has a long history of use in traditional medicine across its range, with applications for respiratory ailments, digestive disorders, and wound healing.
 
@@ -55,9 +55,9 @@ Genipap is distributed from southern Florida and the Caribbean (Cuba, Jamaica, P
 
 It is most abundant in lowland tropical moist and wet forests, typically below 500 m elevation.
 
-The species is also cultivated in home gardens and orchards throughout its native range and has been introduced to parts of West Africa and Southeast Asia.
+The species is also cultivated in home gardens and orchards throughout its native range and has been introduced to parts of West Africa and [[psilocybe-southeast-asia-pacific]].
 
-It grows well in a range of tropical soils but prefers deep, well-drained, fertile loams with pH 5.5–7.0.
+It grows well in a range of [[mollison-designers-tropical-soils-and-cation-exchange-management]] but prefers deep, well-drained, fertile loams with pH 5.5–7.0.
 
 Annual rainfall requirements are 1200–3000 mm, with a distinct dry season tolerated.
 
@@ -87,13 +87,13 @@ The fruit also contains geniposidic acid, gardenoside, and several other iridoid
 
 Pharmacological studies have demonstrated genipin has anti-inflammatory, antioxidant, hepatoprotective, and neuroprotective activities in vitro and in animal models.
 
-Antimicrobial activity against *Staphylococcus aureus*, *Escherichia coli*, and *Candida albicans* has been documented for genipap extracts.
+Antimicrobial activity against *Staphylococcus aureus*, *Escherichia coli*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* has been documented for genipap extracts.
 
 ## Cultivation
 
 Genipap is propagated primarily from seeds, which require scarification and warm, moist conditions for germination.
 
-Seed germination typically takes 30–60 days, with viability declining rapidly after 2–3 months of storage.
+[[cannabis-seed-germination-methods]] typically takes 30–60 days, with viability declining rapidly after 2–3 months of storage.
 
 Trees begin bearing fruit at 3–5 years from seed under favorable conditions.
 

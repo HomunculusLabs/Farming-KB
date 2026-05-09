@@ -1,5 +1,5 @@
 ---
-title: How to Set Up a Backyard Pond
+title: How to Set Up a comparison-aquaculture-in-permaculture-vs-backyard-pond-building
 created: 2026-04-28
 tags:
   - ponds
@@ -9,14 +9,15 @@ tags:
   - diy
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 # How to Set Up a Backyard Pond
 A backyard pond adds beauty, wildlife habitat, and water management capacity to
 your landscape. This guide covers the full process from planning through
 winterization, with connections to broader permaculture water harvesting
-strategies. For foundational design principles, see [[water-garden-and-ponds]].
+strategies. For foundational [[holmgren-permaculture-twelve-design-principles-framework]], see [[water-garden-and-ponds]].
 ## Step 2: Sizing and Depth Considerations
 Pond size depends on your goals: ornamental display, wildlife habitat, fish
 keeping, or water storage.
@@ -29,7 +30,7 @@ keeping, or water storage.
   cubic feet by 7.48 for gallons. Larger volumes are more stable.
 Detailed building guidance with dimension tables is in [[pond-maintenance-and-troubleshooting]].
 ## Step 6: Plant Selection
-Plants provide oxygen, shade, nutrient uptake, and habitat. Layer by depth:
+Plants provide oxygen, shade, [[plant-nutrient-uptake-mechanisms]], and habitat. Layer by depth:
 - **Marginal plants** (shelf zone, 0 to 6 inches): Blue flag iris, pickerelweed,
   soft rush, cattail, cardinal flower. They stabilize edges and filter runoff.
 - **Submerged plants** (deep zone): Hornwort, anacharis, eelgrass. These
@@ -64,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

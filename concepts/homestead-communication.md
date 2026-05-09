@@ -9,7 +9,7 @@ sources: []
 
 # Homestead Communication
 
-Reliable communication is a lifeline for rural homesteaders. Remote locations often lack cellular service and high-speed internet, and during emergencies, standard communication networks can fail entirely. This page covers amateur (ham) radio, internet options for rural areas, satellite communication, and emergency communication planning.
+Reliable communication is a lifeline for rural homesteaders. Remote locations often lack cellular service and high-speed internet, and during emergencies, standard communication networks can fail entirely. This page covers amateur (ham) radio, [[homestead-internet-options]] for rural areas, satellite communication, and emergency communication planning.
 
 ## Internet Options
 
@@ -71,7 +71,7 @@ If your homestead has landline phone service, DSL may be available:
 - Speeds typically 3-25 Mbps depending on distance from the telephone exchange
 - Limited by copper wire infrastructure
 - Declining availability as phone companies abandon copper networks
-- Low cost ($30-50/month)
+- [[jadam-ultra-low-cost-agriculture]] ($30-50/month)
 
 ## Amateur (Ham) Radio
 
@@ -141,25 +141,6 @@ Every homestead should have a dedicated emergency communication kit:
 - Whistle for signaling
 - Signal mirror
 - Flares or signal strobe
-
-### Emergency Frequencies
-
-- 146.520 MHz — National simplex calling frequency (ham)
-- 446.000 MHz — National UHF simplex calling frequency (ham)
-- Channel 19 (27.185 MHz) — CB emergency and trucker channel
-- FRS/GMRS Channel 1 — Family communication
-- NOAA Weather Radio — 162.400-162.550 MHz (your local frequency)
-- 3.840 MHz — Amateur Radio Emergency Service (ARES) frequency
-- 7.093 MHz — Southern California Emergency Net (example — find your local equivalent)
-
-### Family Communication Plan
-
-- Establish a check-in schedule (every 6-12 hours during emergencies)
-- Designate an out-of-area contact person as a relay point
-- Know how to reach local emergency services (911, sheriff direct line)
-- Practice using your communication equipment regularly
-- Ensure all family members can operate the radio equipment
-
 ## Related Concepts
 
 - [[mushroom-foraging-safety-guide]] — Emergency preparedness and risk management

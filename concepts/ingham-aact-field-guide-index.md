@@ -1,5 +1,5 @@
 ---
-title: Actively Aerated Compost Tea - Elaine Ingham (Mining Index)
+title: Actively actively-aerated-compost-tea-aact-brewing Tea - Elaine Ingham (Mining Index)
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -14,7 +14,7 @@ Updated: 2026-04-18
 
 Source: ~/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md (16,296 lines)
 
-This index tracks all wiki pages created from Elaine Ingham's comprehensive guide to actively aerated compost tea (AACT). The source covers brewing methodology, ingredient selection, equipment design, water quality management, pathogen safety, and application protocols. It is one of the most detailed practical references on compost tea available and serves as a primary source for the wiki's [[lowenfels-earthworms-soil-food-web]] as the foundation of plant health. Her methodology differs from simple fermented manure teas by maintaining aerobic conditions throughout the brewing process, which selectively promotes beneficial bacteria, fungi, protozoa, and nematodes while suppressing anaerobic organisms. This distinction is central to her work and to the [[aact-definitions-and-types-ingham]] - AACT, FCT, LBCT, NACT, compost extract vs leachate vs plant tea
+This index tracks all wiki pages created from Elaine Ingham's comprehensive guide to actively aerated compost tea (AACT). The source covers brewing methodology, ingredient selection, equipment design, water quality management, pathogen safety, and application protocols. It is one of the most detailed practical references on compost tea available and serves as a primary source for the wiki's [[lowenfels-earthworms-soil-food-web]] as the foundation of plant health. Her methodology differs from simple fermented manure teas by maintaining aerobic conditions throughout the brewing process, which selectively promotes beneficial bacteria, fungi, protozoa, and nematodes while suppressing [[ingham-anaerobic-organisms-role-soil]]. This distinction is central to her work and to the [[aact-definitions-and-types-ingham]] - AACT, FCT, LBCT, NACT, compost extract vs leachate vs plant tea
 
 - [[aact-brewing-ingredients-ingham]] - Foods by function (bacterial, fungal, micronutrient), compost ratios, sample recipe
 
@@ -30,7 +30,7 @@ This index tracks all wiki pages created from Elaine Ingham's comprehensive guid
 
 ### Compost Quality
 
-- [[aact-nematode-protozoa-management-ingham]] - Beneficial nematode types, root-feeder management, worm compost habitat, protozoa nutrient cycling
+- [[aact-nematode-protozoa-management-ingham]] - Beneficial nematode types, root-feeder management, worm compost habitat, [[ingham-protozoa-nutrient-cycling]] cycling
 
 ### Applications
 
@@ -42,7 +42,7 @@ Pages on related compost tea and soil biology topics created from other sources:
 
 - [[soil-food-web-nutrient-cycling]] - Soil food web overview from Lowenfels
 
-- [[composting-organic-garden]] and [[lowenfels-earthworms-soil-food-web]] — bacteria, fungi, protozoa, and nematodes. Each group performs distinct functions: bacteria decompose simple organic compounds and compete with pathogens on leaf surfaces; fungi decompose complex materials like lignin and cellulose while forming [[bacterial-vs-fungal-soil]] for detailed guidance on balancing these communities and [[aact-definitions-and-types-ingham]] for complete definitions and [[lowenfels-earthworms-soil-food-web]] diversity through cover cropping and organic matter additions, avoiding synthetic fertilizers and pesticides that harm non-target soil organisms, and maintaining appropriate soil moisture and pH. Ingham's approach contrasts with conventional agriculture's reliance on chemical inputs by treating the soil as a living ecosystem that, when properly managed, can provide plants with all the nutrients they need while suppressing disease organisms. The compost tea acts as a "microbial transplant" — analogous to a probiotic for soil — that introduces or reinforces beneficial organism populations. Foliar applications of compost tea create a competitive biological barrier on leaf surfaces, occupying the ecological niches that pathogenic fungi and bacteria would otherwise colonize. Soil drenches of compost tea inoculate the rhizosphere with organisms that cycle nutrients, fix nitrogen, solubilize phosphorus, and protect roots from pathogenic organisms. The frequency of application depends on the system: high-intensity vegetable production may benefit from weekly foliar sprays during the growing season, while perennial systems like orchards may only need annual or semi-annual applications. See [[aact-applications-guide-ingham]] for detailed application schedules and rates.
+- [[composting-organic-garden]] and [[lowenfels-earthworms-soil-food-web]] — bacteria, fungi, protozoa, and nematodes. Each group performs distinct functions: bacteria decompose simple [[fungal-volatile-organic-compounds-communication]] and compete with pathogens on leaf surfaces; fungi decompose complex materials like lignin and cellulose while forming [[bacterial-vs-fungal-soil]] for detailed guidance on balancing these communities and [[aact-definitions-and-types-ingham]] for complete definitions and [[lowenfels-earthworms-soil-food-web]] diversity through cover cropping and organic matter additions, avoiding synthetic fertilizers and pesticides that harm non-target soil organisms, and maintaining appropriate soil moisture and pH. Ingham's approach contrasts with conventional agriculture's reliance on chemical inputs by treating the soil as a living ecosystem that, when properly managed, can provide plants with all the nutrients they need while suppressing disease organisms. The compost tea acts as a "microbial transplant" — analogous to a probiotic for soil — that introduces or reinforces beneficial organism populations. Foliar applications of compost tea create a competitive biological barrier on leaf surfaces, occupying the ecological niches that pathogenic fungi and bacteria would otherwise colonize. Soil drenches of compost tea inoculate the rhizosphere with organisms that cycle nutrients, fix nitrogen, solubilize phosphorus, and protect roots from pathogenic organisms. The frequency of application depends on the system: high-intensity [[dry-gardening-unirrigated-vegetable-production-solomon]] may benefit from weekly foliar sprays during the growing season, while perennial systems like orchards may only need annual or semi-annual applications. See [[aact-applications-guide-ingham]] for detailed application schedules and rates.
 ## Practical Considerations
 
 When working with Actively Aerated Compost Tea - Elaine Ingham (Mining Index), several practical factors should be
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

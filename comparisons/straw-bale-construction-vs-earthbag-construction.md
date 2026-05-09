@@ -1,5 +1,5 @@
 ---
-title: Straw Bale Construction vs Earthbag Construction
+title: straw-bale-construction vs comparison-earthbag-construction-vs-cob-construction
 created: 2026-04-28
 subtitle: Comparing two owner-builder natural wall systems for insulation, mass, moisture, labor, and climate fit
 tags: [comparison, natural-building, straw-bale, earthbag, homesteading, sustainable-architecture]
@@ -16,7 +16,7 @@ related_concepts:
 type: comparison
 ---
 # Straw Bale Construction vs Earthbag Construction
-Straw bale construction and earthbag construction are both natural building methods popular with homesteaders and owner-builders.
+Straw bale construction and earthbag construction are both [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] methods popular with homesteaders and owner-builders.
 They are often discussed together because both can use low-cost materials, volunteer labor, and simple tools.
 They solve different problems, however, and they perform very differently in climate, structure, and comfort.
 Straw bale is primarily an insulation system.
@@ -31,7 +31,7 @@ Both systems require protective plaster, but the reason differs.
 Straw needs plaster to exclude water, oxygen, pests, and flame.
 Earthbags need plaster mainly to protect polypropylene bags from ultraviolet light and weather.
 ## Material Source
-Straw bale construction depends on access to clean, dry, tightly baled grain straw.
+Straw bale construction depends on access to clean, dry, tightly baled [[fukuoka-straw-winter-grain-straw-mulch]].
 Earthbag construction depends on mineral fill, ideally soil excavated from the site.
 If the site has usable subsoil, the wall fill can be nearly free.
 If the soil is unsuitable, imported sand, gravel, clay, or scoria may be required.
@@ -66,7 +66,7 @@ Polypropylene bags also degrade rapidly if sunlight reaches them before plasteri
 In very wet climates, earthbag may be more forgiving than straw bale.
 In any climate, neither method should be used as an excuse to ignore roof design, grading, or drainage.
 ## Fire, Pests, and Rot
-Plastered straw bale walls are surprisingly fire resistant because dense straw lacks oxygen.
+Plastered straw bale walls are surprisingly [[mollison-designers-fire-resistant-landscape-design]] because dense straw lacks oxygen.
 Nevertheless, straw is organic and depends on intact plaster and dry detailing.
 Earthbag walls are inherently noncombustible when filled with mineral soil or gravel.
 They also have little food value for pests.
@@ -102,7 +102,7 @@ Domes, vaults, and unusual forms may increase scrutiny.
 Accessory buildings, agricultural structures, garden walls, root cellars, and studios may be easier first projects than permitted residences.
 Documentation, engineering, fire data, moisture details, and examples of completed buildings improve approval prospects for both.
 ## Best Uses
-Straw bale is well suited to insulated houses, studios, workshops, retreat buildings, and passive solar homes where winter heat loss matters.
+Straw bale is well suited to insulated houses, studios, workshops, retreat buildings, and [[comparison-passive-solar-vs-earth-sheltered]] homes where winter heat loss matters.
 Earthbag is well suited to root cellars, retaining walls, domes, disaster-resistant shelters, thermal-mass buildings, and low-cost outbuildings.
 A hybrid building might use earthbags for foundations or thermal mass and straw bales for dry above-grade insulated walls.
 ## Decision Summary

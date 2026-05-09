@@ -49,7 +49,7 @@ Gills are adnate to slightly decurrent, crowded, and white to pale cream.
 They stain yellowish where damaged. The stipe is cylindrical, 4–8 cm tall and
 1–2 cm thick, white to pale ochre, and solid becoming hollow with age.
 
-Spore print is white to creamy. Spores are ellipsoid, 7–9 × 5.5–7 µm, ornamented
+[[comparison-spore-print-collection-vs-spore-syringe-production]] is white to creamy. Spores are ellipsoid, 7–9 × 5.5–7 µm, ornamented
 with amyloid warts and ridges forming a partial reticulum. Basidia are clavate,
 four-spored. Pleuromacrocystidia are lanceolate and abundant.
 
@@ -65,7 +65,7 @@ been recorded in North Africa and parts of western Asia.
 
 The species forms ectomycorrhizal associations primarily with oaks (*Quercus* spp.),
 particularly pedunculate oak (*Q. robur*) and sessile oak (*Q. petraea*).
-It is also found under beech (*Fagus sylvatica*), sweet chestnut (*Castanea sativa*),
+It is also found under beech (*Fagus sylvatica*), [[holzer-sweet-chestnut-and-nut-trees]] (*Castanea sativa*),
 and occasionally hornbeam (*Carpinus betulus*).
 
 Fruiting occurs from late summer to late autumn (August to November), with peak
@@ -87,17 +87,17 @@ latex.
 ## Ecological Role
 
 As an ectomycorrhizal species, L. chrysorrheus forms mutualistic associations
-with forest trees, facilitating nutrient exchange. The fungal mycelium extends
+with forest trees, facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. The fungal mycelium extends
 the root absorption zone, providing trees with increased access to water and
 minerals, particularly phosphorus.
 
-In return, the host tree supplies the fungus with photosynthetic carbohydrates.
+In return, the [[ectomycorrhizal-host-tree-partnerships]] supplies the fungus with photosynthetic carbohydrates.
 This relationship is particularly important for oak forest health, contributing
 to overall ecosystem productivity and resilience.
 
 The species is relatively common within its range and is not considered
 threatened. It serves as a food source for various invertebrates and may
-contribute to soil aggregation and organic matter cycling through its
+contribute to soil aggregation and [[hamilton-composting-and-organic-matter-management]] cycling through its
 decomposing fruiting bodies.
 
 ## Related Species

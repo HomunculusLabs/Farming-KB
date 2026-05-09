@@ -1,5 +1,5 @@
 ---
-title: Strain Selection and Genetics - Greg Green's Cannabis Grow Bible
+title: blesching-cannabis-strain-selection-receptor-targeting and Genetics - Greg Green's green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -53,7 +53,7 @@ The type of high is determined by species ratio:
 - Slight Indica cross = 60% body stone, 40% head high
 - Slight Sativa cross = 60% head high, 40% body stone
 
-Harvest timing also influences the high. Later harvests produce more
+[[cannabis-harvest-timing-visual-cues]] also influences the high. Later harvests produce more
 couch-lock; harvesting just before peak induces a cerebral high.
 
 ## THC Levels vs. Quantities
@@ -67,7 +67,7 @@ exaggerate.
 
 ## Selecting a Strain
 
-Key considerations when choosing seeds:
+Key considerations when [[solomon-choosing-seeds-and-catalogs]]:
 
 1. Match the strain to your grow environment (indoor vs. outdoor as
    intended by the breeder)
@@ -75,14 +75,14 @@ Key considerations when choosing seeds:
    exceed 8 feet
 3. You can shorten height through pruning but rarely double it if
    genetics limit growth to 2-3 feet
-4. Bud production equals growing environment plus genetic makeup plus
+4. Bud production equals [[cannabis-growing-environment-setup]] plus genetic makeup plus
    node count, not plant height alone
 5. Avoid GM hemp strains engineered for zero THC -- they will not
    produce a psychoactive effect
 
 ## Choosing a Seed Bank
 
-Green recommends verifying seed banks through community review sites,
+Green recommends verifying [[cannabis-seed-banks-and-genetics]] through community review sites,
 checking that they communicate promptly, and ensuring good packaging.
 Prices range from $80-$300 for 10-16 seeds. The best source of seeds is
 a friend who has grown a strain you already enjoy.

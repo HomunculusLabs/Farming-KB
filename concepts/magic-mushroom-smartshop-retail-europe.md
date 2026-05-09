@@ -1,18 +1,18 @@
 ---
-title: Magic Mushroom Smartshop Retail in Europe
+title: Magic emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets Retail in Europe
 source: carolina-mushrooms_08qxp.md
 author: Hillebrand, Olszewski, Sedefov (EMCDDA)
 tags: [smartshop, market, retail, europe, netherlands, legislation, emcdda]
 ---
 # Magic Mushroom Smartshop Retail in Europe
 
-The commercial retail of hallucinogenic mushrooms became a
+The commercial retail of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] became a
 significant phenomenon in Europe, centered primarily in the
-Netherlands. The [[psilocybin-mushrooms]]
+Netherlands. The 
 through licensed "smartshops" for over a decade. Key features of
 the Dutch system:
 
-- **Legal basis**: Fresh psilocybin mushrooms occupied a legal
+- **Legal basis**: Fresh [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] occupied a legal
   grey area. While psilocybin itself was scheduled under the
   Opium Act, fresh mushrooms were not explicitly listed. Dried
   mushrooms were treated as a preparation and were illegal.
@@ -75,7 +75,7 @@ profile incidents:
   open selling other products
 - The ban was estimated to reduce but not eliminate mushroom use,
   with online markets and home cultivation filling some of the gap
-- "Truffle" products (sclerotia of *Psilocybe tampanensis* and
+- "Truffle" products (sclerotia of *[[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]* and
   related species) remained legal for several more years before
   also being restricted
 
@@ -86,7 +86,7 @@ Survey data from the EMCDDA revealed consumption patterns:
 - Most users consumed mushrooms infrequently (1-5 times per year)
 - Group settings were the most common context (parties, nature,
   festivals)
-- The UK clubbing survey found 5.2% of clubbers used mushrooms
+- The UK [[emcdda-clubbing-survey-prevalence-data-polydrug-use-patterns-mushrooms]] found 5.2% of clubbers used mushrooms
   in the past month
 - Mushrooms were perceived as "natural" and therefore safer than
   synthetic drugs by many users
@@ -109,6 +109,6 @@ The EMCDDA assessed the public health burden of mushroom retail:
 
 ## See Also
 
-- hallucinogenic mushroom prevalence patterns europe - Use patterns
+- hallucinogenic [[hallucinogenic-mushroom-prevalence-europe]] patterns europe - Use patterns
 - hallucinogenic mushroom market analysis - Market overview
 - [[hallucinogenic-mushroom-mental-health-risks]] - Risk profile

@@ -1,6 +1,6 @@
 ---
 
-title: Water-Soluble Phosphoric Acid (WS-PA) — KNF Preparation
+title: Water-Soluble cho-water-soluble-phosphoric-acid-preparation (WS-PA) — KNF Preparation
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -23,7 +23,7 @@ sources:
 
 # Water-Soluble Phosphoric Acid (WS-PA)
 
-WS-PA is a KNF input extracted from sesame stem charcoal. Phosphoric acid is a component of every plant cell nucleus and is critical for root growth, flower formation, and energy transfer (ATP). WS-PA provides immediately bioavailable phosphorus during the changeover period when plants shift from vegetative to reproductive growth.
+WS-PA is a [[complete-knf-input-reference]] extracted from sesame stem charcoal. Phosphoric acid is a component of every plant cell nucleus and is critical for root growth, flower formation, and energy transfer (ATP). WS-PA provides immediately bioavailable phosphorus during the changeover period when plants shift from vegetative to [[knf-reproductive-growth-stage]].
 
 ## Why Phosphorus?
 
@@ -84,11 +84,11 @@ WS-PA is a KNF input extracted from sesame stem charcoal. Phosphoric acid is a c
 | WS-PA | Sesame stem charcoal + water | Pure phosphorus, fast extraction |
 | WS-CaPo | Animal bones + BRV | Calcium + phosphorus, slower extraction |
 
-Use WS-PA when you need phosphorus without additional calcium. See [[water-soluble-calcium-phosphate-wcp]] for the calcium phosphate version.
+Use WS-PA when you need phosphorus without additional calcium. See [[water-soluble-calcium-phosphate-wcp]] for the [[bionutrients-lab-calcium-phosphate-calamansi]] version.
 
 ## See Also
 
-- [[knf-preparations]] — all KNF inputs and application schedules
+- [[knf-preparations]] — all [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] and application schedules
 - [[water-soluble-calcium-phosphate-wcp]] — calcium phosphate input for changeover
 - [[water-soluble-calcium-wca]] — calcium for cell walls and fruit firmness
 - [[nutritive-cycle-theory]] — when to apply WS-PA in growth stages

@@ -12,8 +12,8 @@ type: concept
 # Fungal Remediation of Mining Tailings and Mine Waste
 
 Mining tailings and waste rock represent some of the most challenging
-environments for biological remediation, characterized by extreme metal
-contamination, acidic pH, nutrient deficiency, and physical instability.
+environments for [[combined-biological-remediation-approaches]], characterized by extreme metal
+contamination, acidic pH, [[cannabis-grow-nutrient-deficiency-problem-solving]], and physical instability.
 Singh's treatment of fungal remediation of mine wastes highlights the
 unique capabilities of fungi to tolerate and transform these hostile
 conditions, making them essential agents for ecological restoration of
@@ -49,7 +49,7 @@ associated with mining, characterized by low pH (often below 3), high
 dissolved metal concentrations, and elevated sulfate levels:
 
 - Fungi contribute to AMD mitigation through sulfate reduction in
-  constructed wetlands and passive treatment systems
+  [[comparison-constructed-wetlands-vs-bioswales]] and passive treatment systems
 - Sulfate-reducing fungi and fungal-bacterial consortia generate
   alkalinity through metabolic production of bicarbonate and hydroxide
 - Fungal biomass provides nucleation sites for metal hydroxide and
@@ -98,11 +98,11 @@ and soil binding, is the most practical remediation approach for vast
 tailings areas:
 
 - [[arbuscular-mycorrhizal-fungi]] support herbaceous plant establishment
-  for erosion control and initial site stabilization
+  for [[permplant-willows-salix-erosion-control-fodder]] and initial site stabilization
 - Mycorrhizal fungi reduce metal translocation from roots to shoots,
   keeping toxic metals below phytotoxic thresholds in aboveground
   plant tissues
-- The fungal mycelial network binds tailings particles into stable
+- The fungal [[gadd-mycelial-network-dynamics]] binds tailings particles into stable
   aggregates, reducing erosion and creating favorable microsites for
   seed germination and seedling establishment
 
@@ -122,7 +122,7 @@ application of fungal-based technologies:
 - Phase 2 (biological activation): introduction of saprophytic fungi
   and fungal-bacterial consortia to initiate decomposition of organic
   amendments, nutrient cycling, and soil organic matter accumulation
-- Phase 3 (vegetation establishment): mycorrhizal inoculation combined
+- Phase 3 (vegetation establishment): [[teaming-with-fungi-mycorrhizal-inoculation-techniques]] combined
   with seeding of metal-tolerant plant species to establish a permanent
   vegetative cover
 - Phase 4 (ecosystem development): facilitation of natural succession
@@ -138,3 +138,7 @@ mine tailings in the United Kingdom where ectomycorrhizal birch
 plantations achieved 80 percent canopy cover within five years, and gold
 mine tailings in South Africa where AMF-inoculated grasses reduced
 erosion rates by over 90 percent compared to unvegetated controls.
+
+## See Also
+
+- [[cotter-pet-livestock-waste-fungal-remediation-systems]]

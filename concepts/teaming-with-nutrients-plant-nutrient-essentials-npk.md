@@ -1,5 +1,5 @@
 ---
-title: "Plant Nutrient Essentials: NPK"
+title: "Plant teaming with nutrients plant nutrient essentials npk: NPK"
 created: "2026-04-24"
 updated: "2026-04-24"
 type: concept
@@ -45,9 +45,9 @@ concentration of potassium ions outside the cell, potassium can be actively
 transported into the cell -- this says something about the importance of
 potassium to the operation of the plant cell.
 Potassium is mobile in plants. Deficiency appears first in older leaves as
-dead spots (cells die when water/mineral balance cannot be maintained) and
+dead spots (cells die when water/[[holmgren-mineral-balance-soil-fertility]] cannot be maintained) and
 wilting (stomata fail to operate properly). Potassium is held by negative
-charges on clay and organic matter but not tightly adsorbed, so it remains
+charges on clay and [[hamilton-composting-and-organic-matter-management]] but not tightly adsorbed, so it remains
 readily available. It is the 8th most abundant element (2.5% of Earth's
 crust).
 Potassium uptake is the nutrient most affected by compacted soils. A whopping
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

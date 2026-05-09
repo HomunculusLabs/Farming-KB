@@ -63,21 +63,21 @@ distinctive margin. Seed coats are relatively thin compared to C. maxima.
 ## Cultivation
 
 Cucurbita moschata is grown as a warm-season annual in USDA zones 3–12. It
-requires a frost-free growing season of 90–120 days depending on cultivar.
+requires a frost-free [[savory-growing-season-and-non-growing-season-management]] of 90–120 days depending on cultivar.
 
 Plants perform best in full sun with well-drained, fertile soils pH 6.0–7.0.
 They are more tolerant of hot, humid conditions and poor soils than C. pepo,
 making them the dominant squash species in tropical and subtropical regions.
 
-Direct seeding is preferred when soil temperatures exceed 18°C. Row spacing
+[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is preferred when soil temperatures exceed 18°C. [[wide-row-spacing-intensive-gardening-comparison]]
 ranges from 1.5 to 3 meters with 0.5–1 meter in-row spacing depending on
 cultivar bushiness.
 
 The species exhibits strong vining vigor and produces large root systems that
-improve drought tolerance compared to other cultivated Cucurbita species.
+improve [[dighton-fungal-drought-tolerance-plant-water-relations]] compared to other cultivated Cucurbita species.
 
 Disease resistance is generally superior to C. pepo. Notable resistances
-include powdery mildew (Podosphaera xanthii), squash vine borer, and some
+include [[cervantes-powdery-mildew-prevention-treatment]] (Podosphaera xanthii), squash vine borer, and some
 strains of watermelon mosaic virus.
 
 Key pests include squash bugs (Anasa tristis), cucumber beetles
@@ -113,7 +113,7 @@ Cucurbita moschata is one of the most versatile culinary squashes. The sweet,
 dense flesh is used in soups, purées, pies, breads, curries, and roasted
 preparations worldwide.
 
-Butternut squash is the most commercially important cultivar in North America
+Butternut squash is the most commercially important cultivar in [[psilocybin-north-america-pacific-northwest]]
 and Europe. Its smooth, fibrous-free neck makes it easy to peel and cut,
 contributing to its popularity.
 

@@ -14,7 +14,7 @@ sources:
 ## Overview
 
 **Tuber melanosporum**, commonly known as the **Périgord black truffle**, is a subterranean ascomycete fungus and one of the most prized [[fruiting-initiation]] and autumn/winter chilling for maturation.
-- **Soil:** Well-drained, calcareous (limestone-derived) soils with pH 7.5–8.3 (ideally 7.8–8.0). Prefers stony, shallow soils over bedrock. Poor in [[mushroom-mites-and-nematodes-in-cultivation]]
+- **Soil:** Well-drained, calcareous (limestone-derived) soils with pH 7.5–8.3 (ideally 7.8–8.0). Prefers stony, shallow soils over bedrock. Poor in mushroom-mites-and-nematodes-in-cultivation
   - *Carpinus betulus* (hornbeam)
   - *Tilia* spp. (linden)
   - *Pinus* spp. (some pines) — occasional, less productive
@@ -24,11 +24,11 @@ sources:
 ## Cultivation (Trufficulture)
 
 ### History
-Truffle cultivation dates to the early 19th century. Joseph Talon in Provence (c. 1808) first observed that oak seedlings growing near productive truffle trees could themselves produce truffles, establishing the principle of inoculated seedling planting.
+[[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]] dates to the early 19th century. Joseph Talon in Provence (c. 1808) first observed that oak seedlings growing near productive truffle trees could themselves produce truffles, establishing the principle of inoculated seedling planting.
 
 ### Modern Trufficulture
-1. **Seedling inoculation:** Tree seedlings (oak or hazelnut) are grown in nurseries and inoculated with *T. melanosporum* spores or mycelial slurry. Mycorrhizal colonization is verified microscopically before planting.
-2. **Orchard establishment (truffière):** Inoculated seedlings are planted in prepared sites with suitable soil, climate, and drainage. Typical spacing: 6–8 m apart (150–300 trees/hectare). Soil pH is corrected with lime if necessary.
+1. **Seedling inoculation:** Tree seedlings (oak or hazelnut) are grown in nurseries and inoculated with *T. melanosporum* spores or mycelial slurry. [[arbuscular-mycorrhizal-colonization-patterns]] is verified microscopically before planting.
+2. **[[fukuoka-citrus-orchard-establishment-bare-hillside]] (truffière):** Inoculated seedlings are planted in prepared sites with suitable soil, climate, and drainage. Typical spacing: 6–8 m apart (150–300 trees/hectare). Soil pH is corrected with lime if necessary.
 3. **[[comparison-no-till-vs-mulch-soil-management]]:** Maintaining soil pH 7.8–8.0, controlling competing fungi (especially *Tuber brumale* and *Scleroderma* spp.). "Burning" the soil (solarization or controlled burning) is a traditional practice to reduce competitors.
    - **Pruning:** Trees are pruned to control canopy density and maintain optimal light penetration to the soil surface.
    - **[[tuber-aestivum]]
@@ -111,3 +111,7 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[tuber-brumale]]
+- [[tuber-macrosporum]]

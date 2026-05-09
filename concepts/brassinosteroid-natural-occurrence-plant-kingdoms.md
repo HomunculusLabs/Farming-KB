@@ -1,5 +1,5 @@
 ---
-title: Brassinosteroid Natural Occurrence Plant Kingdoms
+title: Brassinosteroid brassinosteroid natural occurrence plant kingdoms Plant Kingdoms
 created: 2026-04-28
 tags:
   - brassinosteroids
@@ -27,7 +27,7 @@ Vorbrodt (1990), approximately 30 brassinosteroid members had been
 identified at the time, detected in higher plants including Angiospermae
 and Gymnospermae as well as in a green alga. This broad phylogenetic
 distribution provides context for understanding why brassinosteroids
-might affect fungal growth, as shared eukaryotic heritage could mean
+might affect [[brassinosteroid-fungal-growth-promotion]], as shared eukaryotic heritage could mean
 brassinosteroid signaling has deep evolutionary roots.
 
 ## Discovery and Historical Context
@@ -37,7 +37,7 @@ napus) pollen, identified as the active principle responsible for the
 growth-promoting effects of pollen extracts. The original compound,
 brassinolide, was found at approximately 0.1 mg per kg of pollen. This
 discovery was significant because brassinolide represented an entirely
-new class of plant growth regulators, distinct from auxins, gibberellins,
+new class of plant [[ingham-natural-growth-regulators-soil-microbes]], distinct from auxins, gibberellins,
 cytokinins, abscisic acid, and ethylene.
 
 Systematic surveys revealed brassinosteroids throughout the plant
@@ -57,7 +57,7 @@ Within angiosperm tissues, concentrations are typically highest in
 pollen, immature seeds, and young growing tissues such as shoot tips
 and root elongation zones. Pollen is particularly enriched, containing
 concentrations orders of magnitude higher than vegetative tissues. This
-distribution aligns with known roles in promoting cell elongation and
+distribution aligns with known roles in promoting [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] and
 cell division, processes most active in meristematic and reproductive
 tissues.
 
@@ -121,7 +121,7 @@ Fungal sensitivity to brassinosteroids opens the possibility that
 brassinosteroids released by plants could influence fungal behavior in
 natural ecosystems. [[22s-23s-homobrassinolide-chemistry-and-synthesis]] for the specific
   compound structure and preparation from stigmasterol
-- Steroidal regulation of fungal development and growth for the
+- Steroidal regulation of [[steroidal-regulation-fungal-development-growth]] and growth for the
   implications of cross-kingdom steroid sensitivity
 
 ## See Also

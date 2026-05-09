@@ -1,5 +1,5 @@
 ---
-title: Permaculture Medicinal Herbs and Healing Plants
+title: Permaculture permaculture plants medicinal herbs healing and Healing Plants
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -12,7 +12,7 @@ tags: [culture, healing, medicine, permaculture, plants]
 
 Medicinal plants have been integral to human and animal health throughout history. In [[medicinal-herbs-for-livestock]]
 
-The source provides a comprehensive list of plants that can be incorporated into animal forage and fodder systems, allowing animals to access their own medicines. Animals browse the herbs as they need them. Not all herbs suit all areas, but as broad a spectrum as possible should be made available at all times:
+The source provides a comprehensive list of plants that can be incorporated into [[permaculture-designers-manual-animal-forage-systems]] and fodder systems, allowing animals to access their own medicines. Animals browse the herbs as they need them. Not all herbs suit all areas, but as broad a spectrum as possible should be made available at all times:
 
 ### Herbaceous Medicinal Herbs for Livestock Forage
 
@@ -25,7 +25,7 @@ Alder, ash, beech, birch, elder, elm, hawthorn, hazel, holly, juniper, lemon, li
 ## Specific Medicinal Plants from the Source
 
 ### Neem (Azadirachta indica)
-Close relative of Cape Lilac (Melia azedarach). Contains azadirachtin, a naturally occurring insecticide. Widely used in traditional medicine and natural pest control. The related Cape Lilac also contains insecticidal compounds.
+Close relative of Cape Lilac (Melia azedarach). Contains azadirachtin, a naturally occurring insecticide. Widely used in traditional medicine and [[cho-natural-pest-control-methods]] control. The related Cape Lilac also contains insecticidal compounds.
 
 ### White Sapote (Casimiroa edulis)
 - Fruit claimed to induce sleep
@@ -55,9 +55,10 @@ Close relative of Cape Lilac (Melia azedarach). Contains azadirachtin, a natural
 
 ### Fig ([[alpinia-officinarum]]
 
-- [[permaculture-plants-insectary-bee-forage]] - medicinal plants that double as bee forage
-- [[permaculture-plants-ground-covers-and-accumulators]] - medicinal ground covers
-- [[permaculture-plants-fruit-trees-subtropical]] - fruit trees with medicinal properties
+- [[permaculture-plants-insectary-bee-forage]] - medicinal plants that double as [[mollison-designers-bee-forage-tree-planting]]
+- [[permaculture-plants-ground-covers-and-accumulators]] - medicinal [[permaculture-plants-food-forest-ground-covers-bamboos]]
+- [[permaculture-plants-fruit-trees-subtropical]] - [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] with medicinal properties
+
 ## Practical Considerations
 
 Successful implementation of Permaculture Medicinal Herbs and Healing Plants requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -12,9 +12,9 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Hofmann, A. & Troxler, F. (1949). "Alkaloids of ergot: N-alkylated lysergic acid derivatives." Helvetica Chimica Acta, 32, 893–904.
+  - Hofmann, A. & Troxler, F. (1949). "Alkaloids of ergot: N-alkylated ergot-and-lysergic-acid-history derivatives." Helvetica Chimica Acta, 32, 893–904.
   - Trachsel, D., et al. (2013). "The lysergamides." In: Pharmacology of New Psychoactive Substances. Springer.
-  - Brandt, S.D., et al. (2016). "Return of the lysergamides." Drug Testing and Analysis, 8(9), 891–900.
+  - Brandt, S.D., et al. (2016). "Return of the lysergamides." [[psychedelic-drug-testing-and-adulterant-screening]] and Analysis, 8(9), 891–900.
   - Passie, T., et al. (2008). "The pharmacology of lysergic acid diethylamide." CNS Neuroscience & Therapeutics, 14(4), 295–314.
   - Nichols, D.E. (2018). "Psychedelics." Pharmacological Reviews, 70(3), 677–726.
 ---
@@ -53,7 +53,7 @@ The compound also shows activity at 5-HT2B, 5-HT2C, 5-HT1A, and 5-HT1B receptors
 
 Downstream signaling through the 5-HT2A receptor includes Gq/11-mediated phospholipase C activation and β-arrestin recruitment.
 
-The ethyl group at position 6 increases lipophilicity relative to LSD, potentially affecting blood-brain barrier penetration and receptor binding kinetics.
+The ethyl group at position 6 increases lipophilicity relative to LSD, potentially affecting blood-brain barrier penetration and [[tihkal-receptor-binding-serotonin]] kinetics.
 
 Functional selectivity (biased agonism) at 5-HT2A has been proposed for lysergamides, though specific data for Eth-LAD remains limited.
 
@@ -63,7 +63,7 @@ Subjective effects are broadly similar to those of LSD, with users reporting vis
 
 The visual component is often described as rich and detailed, with fractal geometry, color shifting, and pattern recognition enhancement.
 
-Cognitive effects include philosophical ideation, increased associative thinking, and occasional moments of ego dissolution at higher doses.
+Cognitive effects include philosophical ideation, increased associative thinking, and occasional moments of [[psilocybin-ego-dissolution-mechanisms]] at higher doses.
 
 The somatic profile resembles other lysergamides: mild body load, temperature dysregulation, pupil dilation, and increased sensory acuity.
 
@@ -102,7 +102,7 @@ Analytical characterization by LC-MS, GC-MS, and NMR spectroscopy is necessary t
 
 ## Legal Status
 
-Eth-LAD is controlled as a Schedule I substance in the United States under the Federal Analog Act, as it is substantially similar to LSD.
+Eth-LAD is controlled as a Schedule I substance in the [[dmt-containing-plants-united-states-halpern]] under the Federal Analog Act, as it is substantially similar to LSD.
 
 The European Union added Eth-LAD to its list of drug precursors and scheduled substances in 2021.
 
@@ -112,7 +112,7 @@ Despite scheduling, the compound continues to appear on the NPS market, often so
 
 ## See Also
 
-- [[ergoline]]
+- ergoline
 - [[psychedelic-substances-comparison]]
 - [[pihkal-introduction-and-methodology]]
 
@@ -125,3 +125,6 @@ Despite scheduling, the compound continues to appear on the NPS market, often so
 - [ald-52](ald-52.md)
 - [2c-b](2c-b.md)
 - [doi](doi.md)
+- [[lysergic-acid-diethylamide]]
+- [[lysergic-acid]]
+- [[albert-hofmann]]

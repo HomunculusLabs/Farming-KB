@@ -1,15 +1,12 @@
 ---
-title: Food Forest Succession and Year-Round Eating
+title: [[mollison-designers-food-forest-succession-design]] and Year-Round Eating
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
-tags: [[permaculture, gardening, urban-agriculture]
+tags: [permaculture, gardening, urban-agriculture]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
-
-# Food Forest Succession and Year-Round Eating
-
-[[pdc-food-forest-layers-and-succession]] at every stage. Successional eating means selecting crops and varieties that ripen in sequence, ensuring that something is always ready to harvest.
+# Food Forest Succession and Year-Round Eating [[pdc-food-forest-layers-and-succession]] at every stage. Successional eating means selecting crops and varieties that ripen in sequence, ensuring that something is always ready to harvest.
 
 ## Successional Eating: No Hungry Seasons
 
@@ -57,7 +54,7 @@ With canning, drying, and freezing, there is no problem eating jam, pesto, and a
 
 **Canning:**
 - Tomato sauce, salsa, jam, jelly, pickles, chutney, relish
-- Pressure canning for low-acid vegetables (beans, corn, carrots)
+- [[comparison-pressure-canning-vs-water-bath-canning]] for low-acid vegetables (beans, corn, carrots)
 - Fruit preserves capture the abundance of summer for winter eating
 
 **Drying/Dehydrating:**
@@ -83,7 +80,7 @@ With canning, drying, and freezing, there is no problem eating jam, pesto, and a
 
 ## Successional Planting in the Garden
 
-Beyond variety selection, successional planting techniques extend harvests:
+Beyond [[coleman-winter-greens-variety-selection]], successional [[hamilton-companion-planting-techniques]] extend harvests:
 
 - **Succession sowing** -- plant small batches of lettuce, radishes, and beans every 2-3 weeks for continuous harvest
 - **Intercropping** -- fast-maturing crops (radishes) between slow-maturing ones (carrots); harvest the radishes before the carrots need the space
@@ -97,9 +94,9 @@ A food forest passes through predictable successional stages:
 **Year 1-2: Pioneer phase**
 - Soil building with sheet mulch, cover crops, and green manures
 - Fast-growing annuals and short-lived perennials
-- Nitrogen-fixing trees and shrubs establish the nitrogen economy
-- [[mollison-permaculture-two-earth-houses-plant-shelters]] are self-maintaining
-- Ground covers suppress weeds without intervention
+- Nitrogen-fixing [[nitrogen-fixing-trees-and-shrubs]] establish the nitrogen economy
+- mollison-permaculture-two-earth-houses-plant-shelters are self-maintaining
+- Ground covers [[query-how-do-cover-crops-suppress-weeds]] without intervention
 - System produces more than it consumes
 
 **Year 15+: Mature phase**
@@ -122,12 +119,6 @@ Urban food forests follow the same principles at smaller scale:
 The goal is a landscape that feeds you through every season, with preservation strategies filling the gaps between fresh harvests. Diversity ensures that no single crop failure causes food insecurity.
 
 ## See Also
-
-- [[permaculture-forest-garden-design]]
+- [[root-vegetable-growing-guide-carrots-beets-turnips-parsnips-radishes]]
 - [[comparison-sheet-mulching-vs-chop-and-drop]]
-- Nitrogen-Fixing Plants Guide
-
----
-Updated: 2026-04-18
 - [[gaias-garden-cover-crops-soil-building]]
-- [[gaias-garden-fruit-tree-selection]]

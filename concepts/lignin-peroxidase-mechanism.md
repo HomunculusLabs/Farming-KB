@@ -8,11 +8,11 @@ sources: []
 ---
 # Lignin Peroxidase Mechanism
 
-Lignin peroxidase (LiP; EC 1.11.1.14) is a heme-containing glycoprotein that serves as one of the principal [[white-rot-fungi-effluent-decolorization]]. First purified from the lignin-degrading [[white-rot-fungi-effluent-decolorization]] species including Trametes versicolor, Bjerkandera adusta, Phlebia radiata, and Phanerochaete sordida. LiP plays a central role in [[white-rot-fungi-effluent-decolorization]] secreting at least five isozymes and [[manganese-peroxidase-mechanism]], though the substrate specificities and redox potentials differ significantly between the two enzymes.
+Lignin peroxidase (LiP; EC 1.11.1.14) is a heme-containing glycoprotein that serves as one of the principal white-rot-fungi-effluent-decolorization. First purified from the lignin-degrading white-rot-fungi-effluent-decolorization species including [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]], Bjerkandera adusta, Phlebia radiata, and [[staycare-phanerochaete-sordida-in-bioremediation]]. LiP plays a central role in white-rot-fungi-effluent-decolorization secreting at least five isozymes and [[manganese-peroxidase-mechanism]], though the substrate specificities and redox potentials differ significantly between the two enzymes.
 
 ## Veratryl Alcohol as a Cofactor
 
-Veratryl alcohol (3,4-dimethoxybenzyl alcohol) is a secondary metabolite produced by Phanerochaete chrysosporium and other white-rot fungi that plays a critical role in the LiP catalytic cycle. Veratryl alcohol acts as a redox mediator, cycling between its alcohol and aldehyde forms during the LiP reaction.
+Veratryl alcohol (3,4-dimethoxybenzyl alcohol) is a [[fungal-elicitors-enhanced-secondary-metabolite-production]] produced by [[staycare-phanerochaete-chrysosporium-in-bioremediation]] and other white-rot fungi that plays a critical role in the LiP catalytic cycle. Veratryl alcohol acts as a redox mediator, cycling between its alcohol and aldehyde forms during the LiP reaction.
 
 Veratryl alcohol is oxidized by LiP Compound I and Compound II, forming veratraldehyde. The veratryl alcohol cation radical generated during this process can diffuse away from the enzyme active site and oxidize nonphenolic lignin model compounds and other aromatic substrates. This long-range electron transfer mechanism enables LiP to oxidize large polymeric substrates that cannot directly access the heme active site.
 
@@ -20,11 +20,11 @@ The concentration of veratryl alcohol influences LiP activity and lignin degrada
 
 ## Substrate Specificity
 
-LiP oxidizes a broad range of aromatic compounds, including phenolic and nonphenolic lignin model compounds, methoxybenzenes, polycyclic aromatic hydrocarbons, and various chlorinated aromatic pollutants. The enzyme catalyzes alkyl-aryl cleavage, C alpha-C beta cleavage, and demethylation reactions on lignin model dimers.
+LiP oxidizes a broad range of aromatic compounds, including phenolic and nonphenolic lignin model compounds, methoxybenzenes, [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons, and various [[fungal-chlorinated-aromatic-degradation]] pollutants. The enzyme catalyzes alkyl-aryl cleavage, C alpha-C beta cleavage, and demethylation reactions on lignin model dimers.
 
 The ability to oxidize nonphenolic aromatic structures with high ionization potentials is the most distinctive feature of LiP. Nonphenolic structures constitute approximately 80 to 90% of lignin in softwoods and 50 to 70% in hardwoods. No other single enzyme system can directly oxidize such a wide range of nonphenolic aromatic substrates at the rates achieved by LiP.
 
-LiP oxidizes polymeric dyes including azo, anthraquinone, and triphenylmethane dyes, contributing to [[fungal-lignin-degradation-enzymology]] itself, producing lower molecular weight fragments that may be further metabolized by the fungus or other microorganisms.
+LiP oxidizes polymeric dyes including azo, anthraquinone, and triphenylmethane dyes, contributing to fungal-lignin-degradation-enzymology itself, producing lower molecular weight fragments that may be further metabolized by the fungus or other microorganisms.
 
 ## Role in PCB Degradation
 
@@ -32,7 +32,7 @@ LiP contributes to the [[manganese-peroxidase-mechanism]] are the two principal 
 
 Some white-rot fungi produce both LiP and MnP, while others produce only one or the other. [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]], which are priority pollutants found at many contaminated sites. LiP oxidizes PAHs with three or more fused aromatic rings, including anthracene, pyrene, and benzo[a]pyrene, through initial one-electron oxidation to form PAH radical cations. These reactive intermediates undergo further nonenzymatic reactions including ring hydroxylation, ring opening, and coupling to form polar metabolites that are more amenable to further biological degradation.
 
-The high redox potential of LiP gives it an advantage over other peroxidases in attacking the more recalcitrant high-molecular-weight PAHs. In combination with [[brown-rot-fungi-biodegradation]], LiP enables white-rot fungi to mineralize a broad spectrum of PAHs, achieving significant degradation of both individual PAHs and complex PAH mixtures commonly found in creosote, coal tar, and petroleum-contaminated soils.
+The high redox potential of LiP gives it an advantage over other peroxidases in attacking the more recalcitrant high-molecular-weight PAHs. In combination with brown-rot-fungi-biodegradation, LiP enables white-rot fungi to mineralize a broad spectrum of PAHs, achieving significant degradation of both individual PAHs and complex PAH mixtures commonly found in creosote, coal tar, and petroleum-contaminated soils.
 
 ## Chlorophenol and Chloroaromatic Degradation
 
@@ -52,7 +52,7 @@ LiP production in Phanerochaete chrysosporium is regulated by nutrient nitrogen 
 
 [[manganese-peroxidase-mechanism]]
 
-[[fungal-lignin-degradation-enzymology]]
+fungal-lignin-degradation-enzymology
 
 [[singh-cytochrome-p450-fungal-bioremediation]]
 ## Practical Considerations
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

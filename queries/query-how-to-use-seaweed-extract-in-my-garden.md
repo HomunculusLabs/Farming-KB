@@ -1,11 +1,11 @@
 ---
-title: "How to Use Seaweed Extract in My Garden"
+title: "How to Use comparison-seaweed-extract-vs-fish-hydrolysate in My Garden"
 created: 2026-04-28
 tags: [query, seaweed, kelp, biostimulant, foliar-feeding, organic-fertilizer, soil-amendment]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
   - https://www.fao.org/3/x5738e/x5738e07.htm
   - https://www.frontiersin.org/articles/10.3389/fpls.2020.00695/full
 type: query
@@ -41,7 +41,7 @@ Not all seaweed extracts are equal. Here is what to look for:
 
 ### Foliar Spray Application
 
-Foliar application is the fastest way to see results because leaves absorb the hormones and minerals directly:
+[[ultra-low-cost-foliar-application-methods]] is the fastest way to see results because leaves absorb the hormones and minerals directly:
 
 1. **Dilution:** 15–30 mL of liquid extract per liter of water. Start at the lower end and increase if plants respond well. For stressed plants, use the lower rate to avoid adding stress
 2. **Add a surfactant:** A few drops of mild liquid soap or a commercial non-ionic surfactant helps the solution spread across and stick to leaf surfaces. Without a surfactant, the solution beads up and runs off waxy leaves
@@ -49,8 +49,8 @@ Foliar application is the fastest way to see results because leaves absorb the h
 4. **Spray coverage:** Coat both the upper and lower leaf surfaces. The undersides of leaves have more stomata and thinner cuticles, so they absorb more efficiently
 5. **Frequency:** Every 2–4 weeks during active growth. More frequent light applications (every 2 weeks at half rate) generally outperform less frequent heavy doses
 6. **Best growth stages to apply:**
-   - **After transplanting:** Helps plants recover from root disturbance and transplant shock
-   - **Early vegetative growth:** Boosts photosynthesis and branching
+   - **After transplanting:** Helps plants recover from root disturbance and [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]]
+   - **Early [[cannabis-vegetative-growth-stage]]:** Boosts photosynthesis and branching
    - **Pre-flowering:** Enhances flower bud formation and fruit set
    - **After stress events:** Heat waves, frost, drought, hail, or pest damage — the cytokinins in seaweed help plants recover faster
    - **Pre-harvest:** Can extend shelf life and improve post-harvest quality of fruits and vegetables
@@ -61,7 +61,7 @@ Soil drenches deliver seaweed compounds to the root zone and surrounding soil bi
 
 1. **Dilution:** 20–40 mL per liter of water
 2. **Volume:** 100–250 mL per plant for established plants, 50–100 mL for seedlings, enough to wet the root zone thoroughly
-3. **Frequency:** Every 3–4 weeks, or combine with your regular watering schedule
+3. **Frequency:** Every 3–4 weeks, or combine with your regular [[cannabis-watering-schedule-and-frequency]]
 4. **Benefits:** Stimulates root growth, feeds beneficial soil microbes, improves soil structure over time through alginic acid deposition
 5. **Combine with compost tea** for a powerful one-two punch — seaweed provides minerals and hormones while compost tea delivers living microorganisms. Add the seaweed extract to the compost tea after brewing (not during) to avoid killing the microbes with the high pH of alkaline extracts
 
@@ -87,7 +87,7 @@ Seaweed extract synergizes with several other common organic inputs:
 
 - **With fish hydrolysate:** The amino acids in fish hydrolysate chelate seaweed minerals for better absorption, while seaweed cytokinins complement the auxin-like activity of fish amino acids. Together they form one of the most effective organic biostimulant programs available. See [[comparison-fish-aminos-vs-kelp-meal]] for pairing guidance
 - **With molasses:** Adding 5–10 mL of unsulfured blackstrap molasses per liter of seaweed spray solution provides additional sugars that feed beneficial leaf-surface microorganisms and may enhance the stickiness of the spray
-- **With mycorrhizal inoculants:** Apply seaweed extract separately from mycorrhizal products. The high pH of alkaline seaweed extracts can inhibit spore germination. Apply the mycorrhizal inoculant first, wait 1–2 weeks, then begin seaweed applications
+- **With [[pgpr-mycorrhizal-inoculants-microplant-establishment]]:** Apply seaweed extract separately from mycorrhizal products. The high pH of alkaline seaweed extracts can inhibit spore germination. Apply the mycorrhizal inoculant first, wait 1–2 weeks, then begin seaweed applications
 - **With neem oil:** Seaweed extract and neem oil can be tank-mixed for combined biostimulant and pest-control foliar sprays, but always do a small compatibility test first. The surfactant properties of some seaweed products can actually help emulsify neem oil
 
 ### Common Mistakes to Avoid

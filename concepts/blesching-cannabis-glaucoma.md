@@ -2,7 +2,7 @@
 title: Cannabis for Glaucoma
 created: 2026-04-26
 updated: 2026-04-24
-sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
+sources: "Uwe Blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
 wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology cannabis-chronic-pain-management"
 type: concept
 tags: [cannabis]
@@ -94,9 +94,9 @@ cannabinoids.
 
 The 1998 Department of Ophthalmology analysis from Medical College of Georgia
 noted that the benefits of smoked cannabis for glaucoma may not outweigh
-adverse effects, primarily because the IOP-lowering effect is relatively
+[[blesching-cannabis-safety-adverse-effects-evidence]], primarily because the IOP-lowering effect is relatively
 short-lived (3-4 hours), requiring frequent dosing throughout the day.
-However, newer delivery methods such as sublingual THC and sustained-release
+However, newer [[cannabis-delivery-methods-comparison]] such as sublingual THC and sustained-release
 formulations may address this limitation.
 
 ## Summary

@@ -1,5 +1,5 @@
 ---
-title: "Wicking Bed vs Raised Bed"
+title: "comparison-wicking-bed-vs-container-gardening vs Raised Bed"
 created: 2026-04-28
 tags: [comparison, gardening, water-management, soil-building, season-extension]
 date: 2026-04-25
@@ -24,7 +24,7 @@ more complex construction and are less flexible for certain crops and practices.
 [[raised-bed-gardening]]
 
 Raised beds elevate the growing surface above ground level, improving drainage,
-reducing soil compaction, extending the growing season, and providing better control
+reducing soil compaction, extending the [[savory-growing-season-and-non-growing-season-management]], and providing better control
 over soil quality. They are the foundation of most home vegetable gardens and offer
 flexibility in design and construction. Standard raised beds are open-bottomed
 frames filled with soil mix.
@@ -38,7 +38,7 @@ length, and 6 to 24 inches in height depending on purpose.
 
 The popular Mel's Mix combines one-third blended compost, one-third peat moss or
 coco coir, and one-third vermiculite. Raised beds are watered from the top by hand,
-drip irrigation, or sprinkler, and drain freely through the open bottom. They are
+[[comparison-drip-irrigation-vs-passive-irrigation]], or sprinkler, and drain freely through the open bottom. They are
 simple and inexpensive to construct from lumber, stone, concrete blocks, or
 corrugated metal. Annual soil amendment and crop rotation are straightforward.
 
@@ -51,8 +51,8 @@ corrugated metal. Annual soil amendment and crop rotation are straightforward.
 | Maintenance | Low; refill reservoir weekly | Higher; regular watering needed |
 | Construction Cost | Higher (liner, reservoir materials) | Lower (simple frame and soil) |
 | Drainage | Controlled via overflow pipe | Free-draining through open bottom |
-| Root Zone Moisture | Consistent, self-regulating | Variable, depends on watering schedule |
-| Best For | Water-scarce areas, absentee gardeners | General vegetable gardening |
+| Root Zone Moisture | Consistent, self-regulating | Variable, depends on [[cannabis-watering-schedule-and-frequency]] |
+| Best For | Water-scarce areas, absentee gardeners | General [[home-vegetable-garden-planning]] |
 | Soil Depth | 30+ cm growing medium above reservoir | Variable (15 to 60+ cm) |
 | Crop Flexibility | Limited for deep-rooted crops | Excellent for all crop types |
 | Annual Modification | Difficult (closed system) | Easy (open top, amend freely) |
@@ -71,7 +71,7 @@ suited to arid and semi-arid climates where water conservation is paramount.
 
 Raised beds are better for most standard gardening situations where water is readily
 available. They offer greater simplicity in construction, lower upfront cost, and more
-flexibility in crop selection including deep-rooted vegetables like carrots and
+flexibility in [[cover-crop-selection-guide]] including deep-rooted vegetables like carrots and
 potatoes. Raised beds are preferable when modifying soil annually, rotating crops
 aggressively, or growing plants requiring excellent drainage such as Mediterranean
 herbs. They are better suited for cold climates where the open bottom allows soil to

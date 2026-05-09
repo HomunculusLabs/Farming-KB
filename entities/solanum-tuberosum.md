@@ -55,15 +55,17 @@ Seed rates range from 1.5–2.5 tonnes/ha depending on tuber size and row spacin
 
 Nitrogen requirements are relatively high at 100–200 kg/ha, with split applications recommended to avoid excessive foliage at the expense of tuber yield. Phosphorus and potassium are critical for tuber quality and disease resistance.
 
-Major diseases include late blight (*Phytophthora infestans*), the pathogen responsible for the Irish Potato Famine, and early blight (*Alternaria solani*). Viral diseases transmitted by aphids cause progressive yield decline in seed stocks.
+Major diseases include late blight (*Phytophthora infestans*), the pathogen responsible for the Irish Potato Famine, and early blight (*Alternaria solani*). [[cervantes-viral-diseases-cannabis]] transmitted by aphids cause progressive yield decline in seed stocks.
 
-Global average yield is approximately 20 tonnes/ha, though yields of 40–60 tonnes/ha are common in intensive production systems. China, India, Russia, Ukraine, and the United States account for over 60% of world production.
+Global average yield is approximately 20 tonnes/ha, though yields of 40–60 tonnes/ha are common in [[mollison-designers-market-garden-intensive-production-design]] systems. China, India, Russia, Ukraine, and the United States account for over 60% of world production.
 
 ## Nutritional Value
 
 Raw potato tubers contain approximately 17% carbohydrates, primarily in the form of starch, and 2% protein. They are a significant source of vitamin C, potassium, and vitamin B6 in human diets.
 
 ## See Also
+
+- [[solanum-lycopersicum]]
 
 - solanum tuberosum
 - [[capsicum-annuum]]
@@ -81,7 +83,7 @@ Raw potato tubers contain approximately 17% carbohydrates, primarily in the form
 
 Global annual production exceeds 186 million tonnes, with China, India, Turkey, and the United States as the leading producers. The fruit is consumed fresh, processed into sauces, pastes, juices, and dried products, and serves as a staple ingredient in cuisines across virtually every culture.
 
-The tomato is a model organism for plant genetics, fruit development, and plant-pathogen interactions. Its relatively small diploid genome (approximately 900 Mb, 2n = 24) was sequenced in 2012, facilitating extensive functional genomics research.
+The tomato is a model organism for plant genetics, fruit development, and plant-pathogen interactions. Its relatively small diploid genome (approximately 900 Mb, 2n = 24) was sequenced in 2012, facilitating extensive [[magnaporthe-grisea-functional-genomics-rice-blast]] research.
 
 ## Taxonomy and Morphology
 
@@ -99,7 +101,7 @@ Domestication of the tomato began approximately 7,000–8,000 years ago in the A
 
 The Aztec and Maya civilizations cultivated tomatoes extensively, referring to them as *tomatl* (Nahuatl). Spanish colonizers introduced the tomato to Europe in the early 16th century, where it was initially regarded with suspicion as a member of the toxic nightshade family.
 
-By the 18th century, tomatoes were widely adopted in Italian and Spanish cuisine. Introduction to North America occurred through European settlers, though Thomas Jefferson is often credited with popularizing their cultivation in the United States during the early 19th century.
+By the 18th century, tomatoes were widely adopted in Italian and Spanish cuisine. Introduction to [[psilocybin-north-america-pacific-northwest]] occurred through European settlers, though Thomas Jefferson is often credited with popularizing their cultivation in the United States during the early 19th century.
 
 ## Cultivation
 
@@ -109,7 +111,7 @@ Commercial production systems include field cultivation, protected culture (gree
 
 Indeterminate cultivars produce fruit continuously on vining growth and are preferred for greenhouse and staked field production. Determinate cultivars terminate growth with a flower cluster and are used for mechanical harvesting in processing tomato operations.
 
-Grafting onto vigorous rootstocks is increasingly practiced to overcome soil-borne diseases and improve abiotic stress tolerance. Common rootstock species include *S. habrochaites* and interspecific hybrids.
+Grafting onto vigorous rootstocks is increasingly practiced to overcome soil-borne diseases and improve abiotic [[fungal-lichen-stress-tolerance-and-poikilohydry]]. Common rootstock species include *S. habrochaites* and interspecific hybrids.
 
 ## Nutritional Value
 
@@ -125,7 +127,7 @@ Late blight, caused by the oomycete *Phytophthora infestans*, is the most destru
 
 Bacterial wilt (*Ralstonia solanacearum*), Fusarium wilt (*Fusarium oxysporum* f. sp. *lycopersici*), and Verticillium wilt (*Verticillium dahliae*) are major soil-borne diseases. Resistance genes (e.g., *I-2*, *I-3*, *Ve*) have been introgressed from wild relatives.
 
-The tomato leafminer (*Tuta absoluta*), originating in South America, has become a devastating global pest since its detection in Spain in 2006. Integrated pest management combining pheromone traps, biological control agents, and selective insecticides is the standard approach.
+The tomato leafminer (*Tuta absoluta*), originating in South America, has become a devastating global pest since its detection in Spain in 2006. Integrated pest management combining pheromone traps, [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents, and selective insecticides is the standard approach.
 
 Tomato yellow leaf curl virus (TYLCV), transmitted by the silverleaf whitefly (*Bemisia tabaci*), causes severe yield losses in tropical and subtropical regions. Resistance alleles (*Ty-1*, *Ty-3*) derived from wild tomato species are deployed in commercial hybrids.
 

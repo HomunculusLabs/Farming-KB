@@ -1,7 +1,7 @@
 ---
 title: "Poor Land Syndrome"
 created: 2026-04-28
-tags: [[desertification]], foreign-aid, poverty, land-deterioration, policy]
+tags: [desertification], foreign-aid, poverty, land-deterioration, policy]
 date: 2026-04-27
 updated: 2026-04-27
 sources: [savory-holistic-resource-management.md]
@@ -30,10 +30,10 @@ results initially appear successful but ultimately accelerate land
 deterioration, population growth, and dependency.
 
 The pattern repeats at the individual ranch and community level: as land
-deteriorates, production costs rise, debt accumulates, families split as young
+deteriorates, [[fukuoka-textdoc-production-costs-not-coming-down]] rise, debt accumulates, families split as young
 people leave for urban centers, and social problems multiply. The syndrome
 describes not just developing nations but the trajectory of many farming and
-ranching communities worldwide, including those in the United States.
+ranching communities worldwide, including those in the [[dmt-containing-plants-united-states-halpern]].
 
 ## Key Concepts
 
@@ -89,8 +89,8 @@ not primarily about population but about the failure to manage holistically.
 
 Breaking Poor Land Syndrome requires addressing land health as the foundation
 of all other goals. Before investing in irrigation, technology, or economic
-development, managers must ensure the four ecosystem foundation blocks, water
-cycle, mineral cycle, energy flow, and community dynamics, are functioning
+development, managers must ensure the four [[savory-ecosystem-foundation-blocks]] blocks, water
+cycle, [[savory-mineral-cycle-management]], [[savory-energy-flow-and-solar-capture]], and community dynamics, are functioning
 effectively across the entire watershed.
 
 ### Government Structures as a Barrier
@@ -125,7 +125,7 @@ the operation becomes economically unsustainable.
 ### Breaking the Cycle
 
 Breaking Poor Land Syndrome requires the holistic perspective the HRM model
-provides. Managers must define the whole they manage, set a holistic goal
+provides. Managers must define the whole they manage, set a [[savory-holistic-goal-definition]]
 encompassing quality of life, production, and landscape, and then plan,
 monitor, and replan their actions to ensure they are moving toward all three
 simultaneously. Only by addressing the interconnected nature of land, people,
@@ -135,3 +135,4 @@ and economics can the syndrome be reversed.
 
 - [[savory-erosion-and-land-deterioration]]
 - [[savory-reductionist-vs-holistic-science]]
+- [[savory-land-monitoring]]

@@ -8,7 +8,7 @@ sources: []
 ---
 # Fomes
 
-*Fomes* is a genus of bracket fungi (polypores) in the family Polyporaceae, order Polyporales. The genus contains several species of wood-decay fungi that are ecologically significant as decomposers of dead and dying hardwood and conifer trees. The most well-known species is *Fomes fomentarius*, commonly called the tinder conk or hoof fungus, which has been used by humans for millennia as a fire-starting material and for medicinal purposes.
+*Fomes* is a genus of bracket fungi (polypores) in the family Polyporaceae, order Polyporales. The genus contains several species of wood-decay fungi that are ecologically significant as decomposers of dead and dying hardwood and conifer trees. The most well-known species is *[[fomes-fomentarius]]*, commonly called the tinder conk or hoof fungus, which has been used by humans for millennia as a fire-starting material and for medicinal purposes.
 
 ## Key Species
 
@@ -22,7 +22,7 @@ sources: []
 
 ## Ecological Role
 
-Fomes species are primary decomposers of standing dead wood and fallen timber. As white-rot or brown-rot fungi depending on species, they play critical roles in forest nutrient cycling by breaking down lignin and cellulose in woody substrates. Their perennial fruiting bodies can persist for years, producing spores over multiple growing seasons. The extensive mycelial networks they establish within wood contribute significantly to carbon flow through forest ecosystems.
+Fomes species are primary decomposers of standing dead wood and fallen timber. As white-rot or brown-rot fungi depending on species, they play critical roles in forest nutrient cycling by breaking down lignin and cellulose in woody substrates. Their perennial fruiting bodies can persist for years, producing spores over multiple growing seasons. The extensive [[mycelial-networks]] they establish within wood contribute significantly to carbon flow through forest ecosystems.
 
 In forest ecosystems, Fomes species serve as important habitat for other organisms. The cavities and crevices of old fruiting bodies provide shelter for insects, mites, and other arthropods. Birds and small mammals may use large bracket fungi as nesting sites or foraging platforms. The fungi also create entry points for secondary decomposers and contribute to the formation of hollow trees, which are critical habitat features for cavity-nesting wildlife.
 
@@ -42,11 +42,11 @@ The tinder conk (*F. fomentarius*) has one of the longest histories of human use
 
 Amadou production involves a laborious preparation process. The tough outer crust is removed, and the fibrous inner context is beaten, soaked in a solution of wood ash (potash), and dried repeatedly until it becomes soft, felt-like, and highly absorbent. This processed material can smolder for hours while holding an ember, making it invaluable for transporting fire in pre-industrial societies. Amadou was also used historically as a padding material for clothing and as a wound dressing due to its absorbent and hemostatic properties.
 
-In traditional Chinese medicine, Fomes species have been used to treat digestive disorders, throat inflammations, and skin conditions. Modern pharmacological studies have identified several bioactive compounds in *F. fomentarius*, including triterpenoids, polysaccharides, and sterols, some of which demonstrate anti-tumor, anti-inflammatory, and antimicrobial activities in laboratory assays.
+In traditional Chinese medicine, Fomes species have been used to treat digestive disorders, throat inflammations, and skin conditions. Modern pharmacological studies have identified several [[cordyceps-cancer-bioactive-compounds]] in *F. fomentarius*, including triterpenoids, polysaccharides, and sterols, some of which demonstrate anti-tumor, anti-inflammatory, and antimicrobial activities in laboratory assays.
 
 ## Cultivation and Commercial Interest
 
-While Fomes species are not commercially cultivated in the same way as edible mushrooms, there is growing interest in their potential for bioremediation and enzyme production. The ligninolytic enzymes produced by *F. fomentarius*, particularly laccase and manganese peroxidase, have applications in the degradation of environmental pollutants, the biobleaching of paper pulp, and the biotransformation of organic compounds.
+While Fomes species are not commercially cultivated in the same way as edible mushrooms, there is growing interest in their potential for bioremediation and enzyme production. The [[ligninolytic-enzymes]] produced by *F. fomentarius*, particularly laccase and [[fungal-manganese-peroxidase-remediation]], have applications in the degradation of environmental pollutants, the biobleaching of paper pulp, and the biotransformation of organic compounds.
 
 ## Pathogenicity
 
@@ -83,7 +83,7 @@ South America.
 Fomes species are perennial, meaning their fruiting bodies persist for
 multiple years and can be found year-round. However, spore release is
 typically seasonal, occurring during periods of favorable temperature and
-moisture. In temperate regions, peak spore dispersal occurs from spring
+moisture. In temperate regions, peak [[spore-dispersal]] occurs from spring
 through autumn.
 
 Annual growth zones can sometimes be observed on the upper surface of the

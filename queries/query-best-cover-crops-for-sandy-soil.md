@@ -21,11 +21,11 @@ type: query
 
 > **Q: What are the best cover crops for sandy soil?**
 >
-> Sandy soils are fast-draining, low in nutrients, and prone to erosion and leaching. The best cover crops are deep-rooted or drought-tolerant species that fix nitrogen, add organic matter, and hold soil in place. Top picks include **cowpea**, **crimson clover**, **hairy vetch**, **daikon radish**, **winter rye**, and **oats** — often grown as multi-species mixes for maximum benefit.
+> Sandy soils are fast-draining, low in nutrients, and prone to erosion and leaching. The best cover crops are deep-rooted or drought-tolerant species that [[query-how-to-fix-nitrogen-toxicity-in-cannabis]], add [[hamilton-composting-and-organic-matter-management]], and hold soil in place. Top picks include **cowpea**, **[[comparison-lupin-vs-crimson-clover-green-manure]]**, **hairy vetch**, **daikon radish**, **winter rye**, and **oats** — often grown as multi-species mixes for maximum benefit.
 
 ## Challenges of Sandy Soil
 
-- **Low CEC (Cation Exchange Capacity):** Sand particles have almost no negative charge, so the soil holds very few nutrients. Whatever you add can wash through quickly.
+- **Low CEC ([[mollison-designers-tropical-soils-and-cation-exchange-management]] Capacity):** Sand particles have almost no negative charge, so the soil holds very few nutrients. Whatever you add can wash through quickly.
 - **Rapid Drainage:** Water moves through sand in hours, not days. Drought stress is constant and irrigation is often required.
 - **Low Organic Matter:** Sandy soils typically sit at 1–2% organic matter. Without clay or silt to stabilize it, organic matter breaks down fast.
 - **Nutrient Leaching:** Soluble nutrients — especially nitrogen — flush past the root zone with every rain or irrigation event.
@@ -50,11 +50,11 @@ The right cover crop addresses several of these at once. See [[comparison-lupin-
 
 - **Hardiness:** Annual; varies by species
 - **Why it works:** Extremely deep taproot (3–6 feet) breaks compacted layers and pulls up leached nutrients. Tolerates acidic, sandy soils better than almost any other legume. Fixes 80–130 lb N/acre.
-- **Tips:** Sweet lupins (low-alkaloid) are preferred for cover. Slow to establish — be patient. See [[query-how-do-i-choose-the-right-cover-crop-for-my-garden]] and [[comparison-mulch-vs-cover-crops]] for when mulch alone may suffice versus full cover cropping.
+- **Tips:** Sweet lupins (low-alkaloid) are preferred for cover. Slow to establish — be patient. See [[query-how-do-i-choose-the-right-cover-crop-for-my-garden]] and [[comparison-mulch-vs-cover-crops]] for when mulch alone may suffice versus full [[fukuoka-clover-cover-cropping-soil-ecology]].
 
 ## Quick-Reference: Sandy Soil Suitability
 
-| Species | Type | Drought Tolerance | N-Fixation | Biomass | Root Depth | Sandy Suitability |
+| Species | Type | [[dighton-fungal-drought-tolerance-plant-water-relations]] | N-Fixation | Biomass | Root Depth | Sandy Suitability |
 |---------|------|-------------------|------------|---------|------------|-------------------|
 | Cowpea | Legume | ★★★★★ | High | Medium | Deep taproot | ★★★★★ |
 | Winter Rye | Grass | ★★★★☆ | None | High | Fibrous | ★★★★★ |

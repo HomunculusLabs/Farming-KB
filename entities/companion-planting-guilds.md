@@ -1,5 +1,5 @@
 ---
-title: "Companion Planting Guilds"
+title: "comparison-companion-planting-reference-vs-jadam-monoculture-critique Guilds"
 created: 2026-04-28
 type: species
 tags:
@@ -37,7 +37,7 @@ A well-designed guild addresses seven key ecological functions:
 
 1. **Food producers** — Plants yielding edible fruits, nuts, leaves, tubers, or seeds
 2. **Nitrogen fixers** — Leguminous plants that convert atmospheric nitrogen (N₂) to plant-available forms (NH₃/NH₄⁺) through rhizobial symbiosis
-3. **Dynamic accumulators** — Deep-rooted plants that mine minerals from subsoil layers and bring them to the surface via leaf litter and root exudates
+3. **[[comparison-dynamic-accumulators-vs-cover-crops]]** — Deep-rooted plants that mine minerals from subsoil layers and bring them to the surface via leaf litter and root exudates
 4. **Mulch producers** — Plants generating abundant biomass for sheet mulching and soil moisture retention
 5. **Pest confusion and insectary plants** — Species that repel pest insects, attract predatory insects, or disrupt pest life cycles through aromatic compounds
 6. **Ground covers** — Low-growing plants that suppress weeds, prevent soil erosion, and maintain soil moisture
@@ -77,7 +77,7 @@ The archetypal permaculture guild, modeled by Bill Mollison and expanded by Toby
 Designed for hot, dry climates around an olive or fig tree:
 
 - **Rosemary** (*Salvia rosmarinus*) — Pollinator attractor; aromatic pest deterrent; culinary herb
-- **Thyme** (*Thymus vulgaris*) — Ground cover; nectar source for beneficial insects; culinary herb
+- **Thyme** (*Thymus vulgaris*) — Ground cover; nectar source for [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]; culinary herb
 - **Lavender** (*Lavandula spp.*) — Attracts bees and butterflies; deters moths and fleas; soil stabilizer
 - **Oregano** (*Origanum vulgare*) — Insectary plant; culinary herb; medicinal properties
 - **Garlic** (*Allium sativum*) — Pest deterrent; culinary; accumulates sulfur
@@ -94,7 +94,7 @@ A classic tropical permaculture design combining water management with food prod
 - **Papaya** (*Carica papaya*) — Scattered through the guild; rapid nutrient cycling
 - **Sweet potato** (*Ipomoea batatas*) — Ground cover on mound; edible tubers and leaves
 - **Taro/arrowroot** (*Colocasia esculenta* / *Maranta arundinacea*) — Edible tubers in the moist zone
-- **Comfrey, lemongrass, canna lily** — Edge plants for mulch production, pest deterrence, and erosion control
+- **Comfrey, lemongrass, canna lily** — Edge plants for mulch production, pest deterrence, and [[permplant-willows-salix-erosion-control-fodder]]
 - **Pigeon pea** (*Cajanus cajan*) — Nitrogen-fixing shrub; edible seeds; chop-and-drop mulch
 
 ## Scientific Evidence
@@ -102,7 +102,7 @@ A classic tropical permaculture design combining water management with food prod
 ### Validated Companion Interactions
 
 - **Brassicas + aromatic herbs:** Intercropping cabbage with thyme, sage, or rosemary reduces diamondback moth (*Plutella xylostella*) populations by 30–50% through olfactory masking
-- **Tomatoes + basil:** Basil repels tomato hornworms and whiteflies; may enhance tomato flavor through volatile compound exchange (some studies show increased lycopene and phenolic content)
+- **Tomatoes + basil:** Basil repels tomato hornworms and whiteflies; may enhance tomato flavor through [[fungal-btex-volatile-compound-degradation]] exchange (some studies show increased lycopene and phenolic content)
 - **Legumes + cereals:** Legume-cereal intercropping increases total land equivalent ratio (LER) by 20–40% compared to monoculture, with the nitrogen contribution of legumes benefiting cereal yields for subsequent seasons
 - **Marigolds + solanaceous crops:** *Tagetes erecta* and *T. patula* roots release α-terthienyl, which is toxic to root-knot nematodes (*Meloidogyne* spp.), reducing infestation by 60–90% in some studies
 - **Alliums + roses/carrots:** Onions and garlic deter aphids and carrot rust fly; intercropping reduces pest pressure without yield penalty
@@ -114,7 +114,7 @@ Not all companion planting claims are supported by rigorous research. Some tradi
 - Soil type, climate, and growing conditions
 - Relative planting densities and spatial arrangements
 - Timing of planting and phenological synchrony
-- Local pest and beneficial insect populations
+- Local pest [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]] populations
 - Cultivar-specific interactions
 
 ## Designing Custom Guilds
@@ -138,6 +138,6 @@ A systematic approach to guild design:
 
 - [[natural-farming-guide-companion-planting-guilds]]
 - [[query-how-does-companion-planting-work-in-a-food-forest]]
-- [[nitrogen-fixing-plants]] — Comprehensive list of leguminous and actinorhizal nitrogen fixers
+- nitrogen-fixing-plants — Comprehensive list of leguminous and actinorhizal nitrogen fixers
 - [[keyline-design]] — Water management system that integrates with guild and food forest layout
 - [[hugelkultur]] — Raised bed technique using woody debris, often planted with companion guilds

@@ -1,5 +1,5 @@
 ---
-title: Kurgan Waves and the Indo-European Collapse of Partnership Society
+title: Kurgan Waves and the Indo-European Collapse of dominator-culture-and-partnership-society
 created: 2026-04-28
 tags: [mckenna, food-of-the-gods, indo-european, kurgan, gimbutas, partnership-society, dominator-culture, archaeology, cultural-evolution]
 date: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 
 # Kurgan Waves and the Indo-European Collapse of Partnership Society
 
-Terence McKenna's *Food of the Gods* presents a sweeping historical narrative in which the destruction of matrifocal partnership societies by Indo-European invaders represents the pivotal catastrophe of human civilization. Drawing on Marija Gimbutas and Riane Eisler, McKenna argues that this was not merely a political or military transition but the moment when humanity lost its symbiotic relationship with psychoactive plants and the divine feminine.
+[[terence-mckenna-stoned-ape-hypothesis]]'s *Food of the Gods* presents a sweeping historical narrative in which the destruction of matrifocal partnership societies by Indo-European invaders represents the pivotal catastrophe of human civilization. Drawing on Marija Gimbutas and Riane Eisler, McKenna argues that this was not merely a political or military transition but the moment when humanity lost its symbiotic relationship with psychoactive plants and the divine feminine.
 
 ## The Kurgan Hypothesis of Marija Gimbutas
 
@@ -23,7 +23,7 @@ Their archaeological signature includes horse remains, wheeled vehicles, weapons
 
 ### The Ceramic and Burial Evidence
 
-The Old European cultures produced sophisticated ceramics with organic, flowing designs. Their burials were egalitarian, with no marked differentiation between individuals based on wealth or status. Temples and shrines dominated the built environment rather than fortifications or military installations.
+The Old European cultures produced sophisticated ceramics with organic, flowing designs. Their burials were egalitarian, with no marked differentiation between individuals based on wealth or status. Temples and shrines dominated the [[artillery-fungus-and-built-environment-fungi]] rather than fortifications or military installations.
 
 Gimbutas's reconstruction of Old European religion revealed a sophisticated symbolic system centered on the female body, natural cycles of birth and death, and the regeneration of life. The transition marked by the Kurgan invasions was a fundamental transformation in the human relationship to the sacred.
 
@@ -31,7 +31,7 @@ Gimbutas's reconstruction of Old European religion revealed a sophisticated symb
 
 McKenna explicitly credits Riane Eisler's *The Chalice and the Blade* for the theoretical vocabulary of "partnership" and "dominator" cultural models. Eisler argued that partnership models of society preceded and were later oppressed by dominator forms.
 
-Dominator cultures are hierarchical, paternalistic, materialistic, and male-dominated. The tension between these organizational principles, and the overexpression of the dominator model, are responsible for alienation from nature, from ourselves, and from each other.
+[[archaic-revival-partnership-vs-dominator-cultures]] are hierarchical, paternalistic, materialistic, and male-dominated. The tension between these organizational principles, and the overexpression of the dominator model, are responsible for alienation from nature, from ourselves, and from each other.
 
 Eisler's analysis showed that over vast areas and for many centuries, the partnership societies of the ancient Middle East existed without warfare. Warfare and patriarchy arrived together with the dominator values carried by the Kurgan invaders from the northern steppes.
 
@@ -97,7 +97,7 @@ The persistent cult of Mary in Christianity, the fervor reserved for Kali in Hin
 
 McKenna contends that the mushroom was recognized as the third and hidden member of a shamanic trinity alongside the Goddess and her cattle. The mushroom was seen to be as much a product of cattle as milk, meat, and manure.
 
-It was recognized very early as the physical connection to the presence of the Goddess. This is the secret that was lost some six thousand years ago at the eclipse of Qatal Huyuk. The crucial difference between partnership and dominator societies, for McKenna, was the depth of each culture's relationship to gnosis through plant hallucinogens.
+It was recognized very early as the physical connection to the presence of the Goddess. This is the secret that was lost some six thousand years ago at the eclipse of Qatal Huyuk. The crucial difference between [[partnership-and-dominator-models]] societies, for McKenna, was the depth of each culture's relationship to gnosis through plant hallucinogens.
 
 ## The Vegetable Mind and Gaian Holism
 
@@ -121,10 +121,10 @@ The depth of connection to the Gaian collectivity of organic life determines the
 
 The consequence of the severed connection to the vegetable mind is the modern world, a planet dying under moral anesthesia. Suppression of the feminine and of knowledge of the natural world has been the hallmark of the intervening centuries. The next evolutionary step must involve not only a repudiation of dominator culture but a rebirth of awareness of the Goddess through the vegetable mind.
 
-The medieval Church conducted the great witch burnings to suppress all knowledge of plants such as thorn apple, deadly nightshade, and monkshood. The role of these plants in nocturnal activities was never stressed in Inquisition accounts, because the Church had no interest in a Devil diminished to relying on mere herbs. A natural explanation for phenomena attributed to demonic possession would have reduced the Devil to a carnival conjurer.
+The medieval Church conducted the great witch burnings to suppress all knowledge of plants such as thorn apple, [[plants-of-the-gods-atropa-belladonna-deadly-nightshade]], and monkshood. The role of these plants in nocturnal activities was never stressed in Inquisition accounts, because the Church had no interest in a Devil diminished to relying on mere herbs. A natural explanation for phenomena attributed to demonic possession would have reduced the Devil to a carnival conjurer.
 
 ## See Also
 
-- [[amanita-herb-indo-european-origins]]
+- [[rig-veda-soma-hymns-amanita-muscaria]]
 - [[mckenna-archaic-sexuality-and-partnership-society]]
 - [[terence-mckenna]]

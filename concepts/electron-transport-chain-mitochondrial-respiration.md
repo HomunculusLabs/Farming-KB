@@ -1,5 +1,5 @@
 ---
-title: "Electron Transport Chain — Mitochondrial Oxidative Phosphorylation"
+title: "Electron electron transport chain mitochondrial respiration — Mitochondrial Oxidative Phosphorylation"
 created: 2026-04-28
 updated: 2026-05-06
 tags: [biochemistry, cellular-respiration, mitochondria, electron-transport, oxidative-phosphorylation]
@@ -17,7 +17,7 @@ gradient, which drives ATP synthesis. This process, collectively termed
 oxidative phosphorylation, is responsible for producing approximately 90-95%
 of the ATP in aerobic eukaryotic cells. The ETC is the final common pathway
 of aerobic metabolism, integrating catabolic products from carbohydrates,
-fatty acids, and amino acids. The entire system operates with remarkable
+[[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], and amino acids. The entire system operates with remarkable
 efficiency, converting the chemical energy of reduced cofactors into the
 universal energy currency of the cell.
 
@@ -55,7 +55,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -97,4 +97,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

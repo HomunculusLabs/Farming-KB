@@ -8,7 +8,7 @@ preparing the ground for longer-lived species. Permaculture designers
 deliberately use pioneers to accelerate [[query-what-are-the-best-nitrogen-fixing-trees-for-permaculture]] manding
 plants.
 
-Pioneers are usually nitrogen fixing, fast growing, and often short lived.
+Pioneers are usually [[comparison-rhizobia-vs-free-living-nitrogen-fixing-bacteria]], fast growing, and often short lived.
 They are generally very variable and produce an abundance of seed, which is
 usually dispersed by animals and requires scarification to germinate.
 
@@ -17,9 +17,9 @@ tract or exposure to fire. In cultivation, we can scarify seeds by soaking in
 boiling water or filing hard seed cases.
 
 The pioneers are able to withstand the hostile conditions often imposed on
-young trees. They act as nurse trees, providing an ideal growing environment
+young trees. They act as nurse trees, providing an ideal [[cannabis-growing-environment-setup]]
 for longer-term trees. Specifically, they provide shade and shelter, crowd out
-competitive grasses, and supply mulch from leaf litter.
+competitive grasses, and supply mulch from [[dighton-fungal-decomposition-leaf-litter-dynamics]].
 
 As the longer-term trees grow, they often crowd out the pioneers, which then
 become a minor part of the system or disappear entirely.
@@ -41,7 +41,7 @@ species mature.
 
 ## Key Characteristics of [[query-how-do-i-build-a-wicking-bed-for-water-efficient-gardening]].
 
-Drought tolerance allows pioneers to survive on degraded, compacted, or eroded
+[[dighton-fungal-drought-tolerance-plant-water-relations]] allows pioneers to survive on degraded, compacted, or eroded
 soils where water retention is poor. Deep root systems and water-efficient
 metabolism enable them to persist where other species would fail.
 
@@ -59,8 +59,8 @@ a nurse crop. In New Zealand trials with fruit and nut trees, trees growing in
 close association with tagasaste (as close as 1 meter) consistently grew
 better than controls.
 
-The tree flowers in winter, providing bee forage when little else blooms. Its
-prolific seed production provides free-range chicken forage. The wood makes
+The tree flowers in winter, providing [[mollison-designers-bee-forage-tree-planting]] when little else blooms. Its
+prolific [[cervantes-seed-production-storage]] provides free-range chicken forage. The wood makes
 good firewood and has potential for tool handles and craft work.
 
 ## Tree Lupin (Lupinus arboreus)

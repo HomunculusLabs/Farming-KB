@@ -1,5 +1,5 @@
 ---
-title: "BOHD (2,5-Dimethoxy-beta-hydroxy-4-methyl-PEA) -- PIHKAL Entry #16"
+title: "BOHD (2,5-Dimethoxy-beta-hydroxy-4-methyl-PEA) -- 2c-b-pihkal-entry-20 #16"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -66,7 +66,7 @@ is: (1) to use RBOS as the alert to there being an oxygen on the
 A solution of 0.4 g
 1-(2,5-dimethoxy-4-methylphenyl)-1-methoxy-2-nitroethane (see
 preparation in the recipe for BOD) in 3.0 mL acetic acid was heated to
-100 deg C on a steam bath. There was added 1.0 g powdered zinc, followed
+100 deg C on a [[scythian-cannabis-steam-bath-ritual]]. There was added 1.0 g powdered zinc, followed
 by additional acetic acid as needed to maintain smooth stirring.
 After 0.5 h there was added 1.0 mL concentrated HCl and, following an
 additional few minutes heating, the reaction mixture was poured into
@@ -84,7 +84,7 @@ was that of an amine salt with a strong OH group present. Anal.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 
@@ -92,7 +92,6 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 - [[bom-entity-pihkal]]
 
 - PIHKAL (the source book)
-- [[bom-entity-pihkal]] -- BOM (PIHKAL #17)
 
 ## See Also
 

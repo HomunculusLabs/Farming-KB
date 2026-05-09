@@ -13,7 +13,7 @@ Third, McKenna's tendency to draw grand historical narratives from linguistic ev
 
 The cannabis-weaving hypothesis can be tested by examining whether cultures with different primary fiber crops show similar or divergent metaphorical patterns. Cotton cultures of South Asia developed rich textile vocabularies that similarly permeate abstract discourse. In Sanskrit, *sutra* means both "thread" and "aphoristic text" — the concise philosophical statements of the Yoga Sutras or Brahma Sutras are literally "threads" of thought. The word traveled into English through "suture" — a thread used to bind wounds.
 
-Silk cultures of East Asia provide another data point. Chinese *jing* (经) means both "warp" (the lengthwise threads in a loom) and "classic text" or "scripture" — the foundational texts of Confucianism and Daoism are called *jing* because they are the warp threads holding the fabric of civilization together. This parallel development in a culture with no historical hemp cultivation suggests that the textile-to-text metaphor is a universal cognitive pattern, not one dependent on any specific plant.
+Silk cultures of [[neurotropic-fungi-japan-east-asia-species-cultural-context]] provide another data point. Chinese *jing* (经) means both "warp" (the lengthwise threads in a loom) and "classic text" or "scripture" — the foundational texts of Confucianism and Daoism are called *jing* because they are the warp threads holding the fabric of civilization together. This parallel development in a culture with no historical hemp cultivation suggests that the textile-to-text metaphor is a universal cognitive pattern, not one dependent on any specific plant.
 
 However, McKenna might argue that the universality of this pattern actually supports his hypothesis: the cognitive leap from weaving to narrative is natural, but cannabis enhanced and accelerated it in the Indo-European world through its psychoactive properties. The plant did not create the metaphor but intensified its cultural penetration and persistence.
 
@@ -34,7 +34,7 @@ The cordage connection reminds us that human cognition did not develop in a vacu
 - [[mckenna-food-gods-set-setting-psychedelic-preparation]]
 ## Practical Applications
 
-Mckenna Food Gods Cannabis Language Weaving Cordage Connection has a range of practical applications that make it relevant to
+Mckenna Food Gods [[mckenna-cannabis-language-weaving-cordage-narrative]] Weaving Cordage Connection has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -109,4 +109,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

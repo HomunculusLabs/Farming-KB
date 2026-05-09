@@ -1,5 +1,5 @@
 ---
-title: Eleusinian Mysteries History and Structure
+title: mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries History and Structure
 created: 2026-04-13
 updated: 2026-04-18
 type: concept
@@ -14,7 +14,7 @@ The Eleusinian Mysteries were the most important religious initiation ceremony o
 
 ## Historical Overview
 
-The Mysteries were founded in the second millennium BCE by Early Man in Greece. They were governed for close to two millennia by two hierophantic families, the Eumolpids and the Kerykes, who held autocratic authority over the rites. The ceremony was finally suppressed in the fourth century CE when pagan religion succumbed to the recently legitimized Christians.
+The Mysteries were founded in the second millennium BCE by Early Man in Greece. They were governed for close to two millennia by two [[eleusinian-hierophantic-families-eumolpidae-kerykes]], the Eumolpids and the Kerykes, who held autocratic authority over the rites. The ceremony was finally suppressed in the fourth century CE when pagan religion succumbed to the recently legitimized Christians.
 
 The Mysteries endured as the supreme experience in an initiate's life. Sophocles spoke for all initiates when he said:
 
@@ -24,7 +24,7 @@ Aristides the Rhetor, writing in the 2nd century CE, described Eleusis as "a shr
 
 ## The Sacred Territory
 
-The village of Eleusis lay in a region sacred for its special affinity with the realm of departed spirits, who were thought to insure the fertility of the adjacent plain of grain. The famous Rarian plain was adjacent to the sanctuary, providing the sacred grain from which the kykeon was prepared. A narrow bridge -- expressly too narrow for vehicles -- crossed the brackish swamp waters that divided Athens from the sacred territory of Eleusis. This crossing symbolized the passage between the world of the living and the world of the dead.
+The village of Eleusis lay in a region sacred for its special affinity with the realm of departed spirits, who were thought to insure the fertility of the adjacent plain of grain. The famous Rarian plain was adjacent to the sanctuary, providing the [[rarian-plain-sacred-grain-eleusis]] from which the kykeon was prepared. A narrow bridge -- expressly too narrow for vehicles -- crossed the brackish swamp waters that divided Athens from the sacred territory of Eleusis. This crossing symbolized the passage between the world of the living and the world of the dead.
 
 The sacred water crossed by the narrow bridge had chthonic significance -- Eleusis was a simulacrum of the other world. Outside the sanctuary walls, initiates passed a cave that was an entrance to Hades and a rock where Demeter had sat in grief. The region was sacred for its special affinity with the realm of departed spirits, who were thought to insure the fertility of the adjacent plain of grain.
 
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

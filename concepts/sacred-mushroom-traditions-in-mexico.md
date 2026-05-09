@@ -1,11 +1,11 @@
 ---
-title: Sacred Mushroom Traditions in Mexico
+title: Sacred sacred mushroom traditions in mexico in Mexico
 created: 2026-04-28
 tags: [ethnobotany, mexico, psychedelics, indigenous-culture, sacred-mushrooms, neurotropic-fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Guzmán, Allen & Gartz (1998). A worldwide geographical distribution of the neurotropic fungi. Ann. Mus. civ. Rovereto 14: 189-280."
+  - "Guzmán, Allen & Gartz (1998). A worldwide geographical distribution of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification. Ann. Mus. civ. Rovereto 14: 189-280."
 type: concept
 ---
 
@@ -26,7 +26,7 @@ transformation.
 
 The use of sacred mushrooms in Mexico was first documented in the 16th century
 by Fray Bernardino de Sahagun (1569-1582), who recorded the Nahuatl word
-"teonanacatl" (divine mushroom). Richard Evans Schultes (1939) brought modern
+"teonanacatl" (divine mushroom). Richard [[richard-evans-schultes-updated]] (1939) brought modern
 scholarly attention to Sahagun's observations. The modern era began with
 Wasson and Wasson (1957), whose participation in a Mazatec ceremony in
 Huautla de Jimenez, Oaxaca, published in Life magazine, brought global
@@ -71,14 +71,14 @@ translations include:
 The most commonly used Spanish-language names among indigenous communities
 are "san isidros" (after Saint Isidore, patron saint of agriculture),
 "pajaritos" (little birds), and "derrumbes" (landslides). These names refer
-respectively to Psilocybe cubensis, P. mexicana, and P. zapotecorum.
+respectively to [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], P. mexicana, and P. zapotecorum.
 
 ## Major Ethnic Groups and Their Practices
 
 ### The Mazatec
 
 The Mazatec people of the Sierra Mazateca in Oaxaca are the most widely
-known practitioners of sacred mushroom ceremonies, largely due to the
+known practitioners of sacred [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]], largely due to the
 publicity surrounding Maria Sabina, the curandera who hosted Wasson's famous
 1955 velada. Mazatec ceremonies are conducted at night by a curandero or
 curandera (healer) who ingests the mushrooms to diagnose illness, locate
@@ -129,14 +129,16 @@ includes detailed species identification, dosing, and seasonal availability.
 The encounter between indigenous mushroom traditions and Spanish Catholic
 culture produced significant syncretism. Names like "san isidros" blend pre-
 Columbian practices with Catholic saint veneration. A church in Chignahuapan,
-Puebla, was built specifically dedicated to Ganoderma lobatum, decorated with
+Puebla, was built specifically dedicated to [[guzman-ganoderma-lobatum-church-cult-chignahuapan-puebla]], decorated with
 an image of Christ flanked by sun and moon, regarded by local indigenous
 people as a saint.
 ## See Also
 
+- [[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]]
+
 - [[andrija-puharich-sacred-mushroom-1959]]
 - [[sacred-mushroom-ceremonies]]
 - [[entheogen-culture]]
-- [[psilocybe-diversity-in-mexico]]
-- [[psilocybin-and-indole-alkaloid-chemistry-in-fungi]]
-- [[psilocybe-cubensis-distribution-and-ecology]]
+- psilocybe-diversity-in-mexico
+- psilocybin-and-indole-alkaloid-chemistry-in-fungi
+- psilocybe-cubensis-distribution-and-ecology

@@ -1,11 +1,12 @@
 ---
-title: Holzer Roundwood Shelters and Earth Cellars
+title: Holzer holzer roundwood shelters earth cellars and sepp-holzer-earth-cellars-and-philosophy
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Building Roundwood Shelters and Earth Cellars
@@ -40,11 +41,11 @@ Related topics in this wiki include: [[sepp-holzer-method]], [[sepp-holzer-terra
 
 Sepp Holzer began farming on his family's steep mountain land in Austria as a teenager, learning through experimentation.
 The Krameterhof demonstrates that high-altitude farms can be more productive than conventional lowland operations.
-Holzer's fish ponds serve multiple functions: aquaculture, irrigation, fire protection, and microclimate creation.
-Terrace construction on slopes prevents erosion while creating level planting areas with improved water retention.
-Mushroom cultivation on logs and in raised beds provides additional food production and aids decomposition.
+Holzer's fish ponds serve multiple functions: aquaculture, irrigation, fire protection, and [[mollison-designers-microclimate-creation-frost-protection]].
+[[holzer-terrace-construction-guide]] on slopes prevents erosion while creating level planting areas with improved water retention.
+[[accessible-mushroom-cultivation-for-disabilities]] on logs and in raised beds provides additional food production and aids decomposition.
 Holzer's pig paddock system uses animals to root and fertilize soil in controlled areas before planting.
-Ancient grain varieties selected for mountain conditions show superior resilience and nutritional quality.
+Ancient grain varieties selected for mountain conditions show superior resilience and [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
 The method has been successfully adapted in projects across Europe, Africa, Asia, and the Americas.
 
 Sepp Holzer began farming on his family's steep mountain land in Austria as a teenager, learning through experimentation.
@@ -81,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

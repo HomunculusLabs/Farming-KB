@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Critique of Western Cooking and the Return of True Taste"
+title: "Fukuoka's Critique of fukuoka western cooking taste numbing japanese food boom and the Return of True Taste"
 source: masanobu-fukuoka-the-road-back-to-nature
 topics: food-culture, western-cooking, macrobiotics, taste, japan, philosophy-of-food
 ---
@@ -31,7 +31,7 @@ in the West:
 1. **Regaining a true sense of taste**: As meat-eaters, Westerners
    had suffered a "numbing of the palate" that made them incapable
    of perceiving true taste and thus unable to appreciate subtle
-   flavors. Japanese cooking, with its emphasis on the natural
+   flavors. [[fukuoka-japanese-cooking-culture-disappearing]], with its emphasis on the natural
    flavors of ingredients rather than heavy seasoning, appeared
    extraordinarily delicious by contrast.
 
@@ -52,7 +52,7 @@ nutritional science."
 In Fukuoka's analysis, Western cooking followed the same reasoning
 used to raise hogs on synthetic feed. Meals were prepared with the
 belief that the body is sustained by three nutritional elements
-(protein, fat, carbohydrate). The focus on nutritional composition
+(protein, fat, carbohydrate). The focus on [[dighton-fungal-nutritional-composition-animal-diets]]
 rather than flavor and wholesomeness reduced cooking to a kind of
 chemical engineering.
 
@@ -79,7 +79,7 @@ remained alive enough to impress Western visitors.
 Fukuoka's analysis was reinforced by a visit from Herman Aihara,
 leader of the macrobiotic movement on the American West Coast.
 Aihara brought about twenty students to Japan to study the current
-state of natural diet. The group was not impressed with what they
+state of [[fukuoka-natural-diet-as-foundation]]. The group was not impressed with what they
 ate at a first-class Japanese restaurant in the city.
 
 The next day they stayed overnight at the huts in Fukuoka's orchard.
@@ -101,14 +101,14 @@ Fukuoka traced the Japanese food boom to the macrobiotic movement
 pioneered by George Ohsawa and spread in America by figures like
 Herman Aihara and Michio Kushi. The macrobiotic movement served as
 a bridge that introduced Westerners to the principles of traditional
-Japanese food — whole grains, fermented foods, seasonal eating —
+Japanese food — whole grains, fermented foods, [[fukuoka-seasonal-eating-natural-food-calendar]] —
 in a framework that made sense within Western philosophical categories.
 
 ### Natural Brown Rice in Europe
 
 The food boom had spread to Europe as well. Rice grown in France
 and Italy was shipped to Great Britain, Belgium, and Holland. The
-bulk of this rice was brown rice grown by natural farming methods.
+bulk of this rice was brown rice grown by [[comparison-natural-farming-vs-permaculture]] methods.
 "Naturally grown brown rice from the Milan area is especially
 prized," Fukuoka noted. "Rice grown scientifically is regarded
 today as second-rate food."
@@ -140,9 +140,6 @@ and spiritual concerns. He argued that:
 ## The Paradox of Japanese Modernization
 
 While Westerners were discovering the virtues of traditional Japanese
-food, the Japanese themselves were abandoning it. The Japanese had
-turned increasingly to bread and meat, distorting their sense of
-taste in the process. Fukuoka saw this as a tragic irony: just as
 ## See Also
 - [[fukuoka-japanese-cooking-culture-disappearing]]
 - [[fukuoka-western-vs-japanese-attitudes]]

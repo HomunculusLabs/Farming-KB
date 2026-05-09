@@ -1,5 +1,5 @@
 ---
-title: Coppice and Pollard Systems Guide
+title: coppice-and-pollard-systems Systems Guide
 created: 2025-05-08
 tags: [agroforestry, woodlot-management, sustainable-forestry, fuelwood, permaculture]
 ---
@@ -33,8 +33,8 @@ A mixed system where scattered standard trees (mature trees left to grow to full
 ### Species Selection
 
 **Excellent coppicers** (regenerate reliably for centuries):
-- Sweet chestnut (Castanea sativa): Premium coppice species; durable wood; fast growth; tannin-rich bark resists rot
-- Hazel (Corylus avellana): Traditional coppice species; flexible rods for hurdle-making and basketry; nut production
+- Sweet chestnut ([[castanea-sativa]]): Premium coppice species; durable wood; fast growth; tannin-rich bark resists rot
+- Hazel ([[corylus-avellana]]): Traditional coppice species; flexible rods for hurdle-making and basketry; nut production
 - Ash (Fraxinus excelsior): Fast-growing; strong elastic wood; firewood; currently threatened by ash dieback (Hymenoscyphus fraxineus)
 - Willow (Salix spp.): Fastest growth; short rotation biomass; basketry; living structures; stream bank stabilization
 - Oak (Quercus robur/petrea): Long-rotation coppice for timber and firewood; very slow initial growth but produces durable wood
@@ -51,7 +51,7 @@ A mixed system where scattered standard trees (mature trees left to grow to full
 
 Pollarding is identical to coppicing in its biological mechanism but differs in execution: cuts are made 1.5–4 m above ground level, above the reach of browsing animals. This technique was developed in wood-pasture systems where livestock grazed among trees — cutting above browse height protected the regrowth from deer, cattle, and horses.
 
-Pollarded trees develop a characteristic "lollipop" or "candelabra" form with a swollen bolling (the cut point) at the top of the trunk and a crown of regrowth poles. Ancient pollards are among the most visually distinctive features of the European agricultural landscape.
+Pollarded trees develop a characteristic "lollipop" or "candelabra" form with a swollen bolling (the cut point) at the top of the trunk and a crown of regrowth poles. Ancient pollards are among the most visually [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of the European agricultural landscape.
 
 ### Applications
 
@@ -97,14 +97,14 @@ A well-managed hazel coppice on a 7-year rotation produces 5–15 tonnes of gree
 
 **Short-rotation harvest** (1–5 years):
 - Basketry willow (Salix spp.) for weaving and living willow structures
-- Bean poles, pea sticks, and plant supports for vegetable gardens
+- Bean poles, pea sticks, and plant supports for [[maintaining-organic-matter-in-vegetable-gardens]]
 - Thatching spars, wattling hurdles, and woven fencing panels
 - Biomass fuel for chip boilers or pellet production
 
 **Medium-rotation harvest** (5–15 years):
 - Hazel hurdles for sheep pens and garden fencing
 - Gate posts, fence rails, and estate fencing
-- Charcoal production (especially from oak, alder, and black locust)
+- [[charcoal-production-for-cooking]] (especially from oak, alder, and black locust)
 - Tool handles (ash is traditional for axes, hammers, and sledges)
 - Walking sticks, broom handles, and turned wood products
 
@@ -122,6 +122,9 @@ The key to biodiversity is maintaining a varied age structure across the woodlan
 
 ## See Also
 
-- [[permaculture-designers-manual-coppice-systems]] — Mollison's coppice reference
-- [[chestnuts-castanea-spp]] — premier coppice species for timber and nuts
-- [[mollison-designers-silvopasture-integrated-tree-livestock]] — pollarding in wood-pasture systems
+- permaculture-designers-manual-coppice-systems — Mollison's coppice reference
+- chestnuts-castanea-spp — premier coppice species for timber and nuts
+- mollison-designers-silvopasture-integrated-tree-livestock — pollarding in wood-pasture systems
+- [[alnus-glutinosa]]
+- [[robinia-pseudoacacia]]
+- [[quercus-robur]]

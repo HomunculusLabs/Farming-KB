@@ -11,9 +11,9 @@ type: concept
 
 # Tryptamines and Quantum Mechanics
 
-In his 1983 Esalen lecture on tryptamine hallucinogens and consciousness,
+In his 1983 Esalen lecture on [[mckenna-tryptamine-hallucinogens-and-consciousness]] and consciousness,
 Terence McKenna proposed a provocative link between the phenomenology of
-tryptamine experiences and quantum mechanical processes in the brain. This
+tryptamine experiences and [[mckenna-quantum-mechanical-correlates-hallucinogenesis]] processes in the brain. This
 connection, while speculative, draws on research by John Smythies, Alexander
 Shulgin, and others who identified quantum mechanical correlates to
 hallucinogenesis.
@@ -61,10 +61,10 @@ be a single atom's position on a molecular ring. This level of specificity
 is characteristic of quantum mechanical interactions rather than classical
 pharmacological ones.
 
-In classical pharmacology, drug effects depend on dose, receptor binding
+In classical pharmacology, drug effects depend on dose, [[tihkal-receptor-binding-serotonin]]
 affinity, and metabolic pathways. But the tryptamine experience seems to
 involve something more fundamental: a direct interaction at the level where
-matter and consciousness interface. The speed of DMT onset (fifteen to
+matter and consciousness interface. The speed of [[mckenna-dmt-onset-phenomenology-and-mode-shift-experience]] (fifteen to
 forty-five seconds) and the completeness of the state shift suggest that
 quantum-level processes are being engaged, not merely classical receptor
 activation.
@@ -113,7 +113,7 @@ implications for consciousness studies:
   an epiphenomenon of neural computation.
 - It provides a framework for understanding why psychedelic experiences
   feel more "real" than dreams or fantasies.
-- It opens the possibility that altered states of consciousness provide
+- It opens the possibility that [[weil-the-natural-mind-altered-states-normalcy]] of consciousness provide
   access to genuine information about the nature of reality.
 - It implies that the brain is not merely a passive receiver of sensory
   data but an active participant in the construction of reality at the

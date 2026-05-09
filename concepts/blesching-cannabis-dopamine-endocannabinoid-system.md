@@ -31,7 +31,7 @@ This mechanism explains why cannabis produces euphoric effects: THC
 activates CB1 receptors, which indirectly stimulates dopamine release in
 mesolimbic reward circuits. However, chronic overactivation can lead to
 downregulation of both CB1 and dopamine receptors, contributing to tolerance
-and blesching cannabis tolerance dependence withdrawal.
+and blesching [[cervantes-cannabis-tolerance-addiction-pharmacology]] dependence withdrawal.
 
 ## Reward Pathways and Motivation
 
@@ -93,10 +93,12 @@ addiction while harnessing therapeutic benefits.
 
 ## Related Topics
 
-- blesching cannabis endocannabinoid system
+- blesching [[blesching-cannabis-endocannabinoid-mind-body]] system
 - blesching cannabis neurotransmitters and cannabinoids
 - [[blesching-cannabis-adhd]]
 
 ## See Also
+
+- [[n-arachidonoyl-dopamine-nada]]
 
 - [[blesching-cannabis-acetylcholine-memory-learning]]

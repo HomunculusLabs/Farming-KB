@@ -27,7 +27,7 @@ Catuaba is a common name for the bark of several tree species native to the Braz
 
 The term "catuaba" derives from the Tupi language, meaning "what gives strength to the Indian." It is one of the most commercially important herbal remedies in Brazilian phytotherapy.
 
-Commercial catuaba preparations may also include bark from **Anemopaegma arvense** (Bignoniaceae), known as "catuaba verdadeira" (true catuaba), leading to taxonomic confusion in the trade.
+Commercial catuaba preparations may also include bark from **Anemopaegma arvense** (Bignoniaceae), known as "catuaba verdadeira" (true catuaba), leading to [[neurotropic-fungi-taxonomic-confusion-and-identification]] in the trade.
 
 ## Taxonomy and Morphology
 
@@ -67,7 +67,7 @@ Animal studies show improvement in memory acquisition and retention, suggesting 
 
 The bark extracts exhibit anti-inflammatory and analgesic activities in carrageenan-induced paw edema and hot-plate models, respectively. Nitric oxide modulation may contribute to vasodilatory effects relevant to sexual function.
 
-Human clinical trials are limited. A small open-label study of a multi-herb preparation containing catuaba reported improved sexual function scores in male participants.
+Human [[mushroom-cancer-clinical-trials-overview]] are limited. A small open-label study of a multi-herb preparation containing catuaba reported improved sexual function scores in male participants.
 
 ## Traditional Use
 
@@ -85,7 +85,7 @@ Trichilia catigua is not listed as threatened by the IUCN, but wild harvesting o
 
 The Brazilian pharmacopeia officially recognizes catuaba, driving significant commercial demand. Annual harvest volumes are difficult to estimate due to informal collection networks and species substitution in the supply chain.
 
-Quality control in the catuaba trade is problematic. Adulteration with inert bark, substitution with A. arvense, and contamination with undeclared species are commonly reported by chemical analysis of commercial products.
+Quality control in the catuaba trade is problematic. Adulteration with inert bark, substitution with A. arvense, and contamination with undeclared species are commonly reported by [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of commercial products.
 
 Cultivation trials of T. catigua have shown that the tree can be grown from seed with bark harvest possible after 5–7 years. However, plantation-grown bark may have a different phytochemical profile than wild-harvested material.
 
@@ -95,7 +95,7 @@ Contemporary research on Trichilia catigua has expanded beyond its traditional a
 
 The combination preparation "Catuama," containing T. catigua, *Paullinia cupana*, *Zingiber officinale*, and *Trichilia elegans*, has been the subject of several Brazilian clinical studies. This formulation has shown antioxidant, antidepressant, and vasodilatory effects.
 
-Antimicrobial screening of T. catigua extracts has demonstrated activity against *Staphylococcus aureus*, *Escherichia coli*, and *Candida albicans*, though minimum inhibitory concentrations suggest modest potency.
+Antimicrobial screening of T. catigua extracts has demonstrated activity against *Staphylococcus aureus*, *Escherichia coli*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*, though minimum inhibitory concentrations suggest modest potency.
 
 The growing interest in natural products for cognitive enhancement has positioned catuaba as a candidate for further investigation as a natural nootropic and adaptogenic agent.
 

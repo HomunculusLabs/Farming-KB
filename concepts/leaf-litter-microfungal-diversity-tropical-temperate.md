@@ -1,5 +1,5 @@
 ---
-title: Leaf Litter Microfungal Diversity - Tropical and Temperate Patterns
+title: Leaf leaf litter microfungal diversity tropical temperate Diversity - Tropical and Temperate Patterns
 created: 2026-04-26
 tags:
   - microfungi
@@ -20,7 +20,7 @@ The microfungal communities associated with decomposing [[allegro-star-of-the-mo
 of terrestrial [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] than soil, and tropical forests harbor particularly
 rich and understudied assemblages. Sampling studies from temperate
 and tropical sites reveal striking patterns in species richness,
-community composition, [[staycare-arbuscular-mycorrhizal-fungi-in-hydrocarbon-remediation]] leaf litter is significantly greater than
+[[core-endorhiza-bacterial-community-composition-cannabis]], [[staycare-arbuscular-mycorrhizal-fungi-in-hydrocarbon-remediation]] leaf litter is significantly greater than
 that [[fungal-succession-in-decomposition]]
 - [[leaf-based-photoperiodic-perception]]
 ## Practical Applications
@@ -100,4 +100,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -9,13 +9,13 @@ sources:
 ---
 # Cannabis Trichome Types and Development
 
-Trichomes are hair-like epidermal outgrowths found on the surface of cannabis plants. Several types of trichomes are present on cannabis, and the glandular (secretory) varieties are responsible for producing the cannabinoid-rich resin that gives cannabis its therapeutic and psychoactive properties. Understanding trichome types and their development is essential for both breeders selecting for potency and growers determining optimal harvest timing.
+Trichomes are hair-like epidermal outgrowths found on the surface of cannabis plants. Several types of trichomes are present on cannabis, and the glandular (secretory) varieties are responsible for producing the cannabinoid-rich resin that gives cannabis its therapeutic and psychoactive properties. Understanding trichome types and their development is essential for both breeders selecting for potency and growers determining optimal [[cannabis-harvest-timing-visual-cues]].
 
 ## Trichome Classification
 
-Cannabis trichomes are divided into two broad categories: non-glandular and glandular. Non-glandular trichomes serve primarily structural and protective functions — they give the plant its characteristic fuzzy appearance and may help deter insect herbivory through physical barrier effects. These non-glandular hairs do not produce cannabinoids or significant amounts of terpenes.
+[[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]] are divided into two broad categories: non-glandular and glandular. Non-glandular trichomes serve primarily structural and protective functions — they give the plant its characteristic fuzzy appearance and may help deter insect herbivory through physical barrier effects. These non-glandular hairs do not produce cannabinoids or significant amounts of terpenes.
 
-Glandular trichomes are the resin-producing structures and are the primary source of all cannabinoids, terpenes, and other bioactive compounds found in cannabis. These glandular trichomes are further classified into three distinct types based on their morphology and secretory capacity.
+Glandular trichomes are the resin-producing structures and are the primary source of all cannabinoids, terpenes, and other [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] found in cannabis. These glandular trichomes are further classified into three distinct types based on their morphology and secretory capacity.
 
 ## Bulbous Trichomes
 
@@ -47,13 +47,13 @@ Terpene production starts as the glandular trichomes begin to secrete resin, but
 
 ### Early Floral Stage
 
-During the early floral stage, calyx production increases and internode length decreases. Older calyx pairs begin to swell and the pistils darken as they lose fertility. Some resin secretion is observed in trichomes along the veins of the calyx, but newly produced calyxes show few if any capitate-stalked trichomes. As a result of low resin production, only a slight terpene aroma and psychoactivity are detectable.
+During the early floral stage, calyx production increases and internode length decreases. Older calyx pairs begin to swell and the pistils darken as they lose fertility. Some resin secretion is observed in trichomes along the veins of the calyx, but newly produced calyxes show few if any capitate-stalked trichomes. As a result of low [[cannabis-glandular-trichome-types-resin-production-clarke]], only a slight terpene aroma and psychoactivity are detectable.
 
 ### Peak Floral Stage
 
 At peak floral stage, elongation growth of the main floral stem ceases. Young pistillate calyxes are rapidly producing capitate-stalked glandular trichomes to protect the unfertilized ovule. Since capitate-stalked trichomes now predominate, resin and THC production increase substantially. The elevated resin heads appear clear since fresh resin is still being actively secreted.
 
-THC acid production is at its peak during this stage, and CBD acid levels remain stable as molecules are rapidly converted to THC acids. Terpene production is also nearing its peak and the floral clusters are beautifully aromatic. Many cultivators prefer to harvest some strains during this stage for a clear, cerebral psychoactive effect with low sedative properties.
+THC [[staycare-fungal-organic-acid-production-metal-leaching]] is at its peak during this stage, and CBD acid levels remain stable as molecules are rapidly converted to THC acids. Terpene production is also nearing its peak and the floral clusters are beautifully aromatic. Many cultivators prefer to harvest some strains during this stage for a clear, cerebral psychoactive effect with low sedative properties.
 
 ### Late Floral Stage
 
@@ -71,7 +71,7 @@ Transparent resins, regardless of color, are a sign that the plant is actively c
 
 ## Trichome Density as Breeding Criterion
 
-For breeders, trichome density and type distribution are among the most important selection criteria when developing drug cannabis varieties. The number of glandular trichomes on leaves and calyxes correlates positively with cannabinoid content, making visual trichome assessment a rapid field screening method for identifying high-potency individuals.
+For breeders, trichome density and type distribution are among the most important [[cannabis-breeding-traits-selection-criteria-clarke]] when developing drug cannabis varieties. The number of glandular trichomes on leaves and calyxes correlates positively with cannabinoid content, making visual trichome assessment a rapid field screening method for identifying high-potency individuals.
 
 Strains may also be bred for resin tenacity — the degree to which resin heads adhere to the plant surface. Strains bred for hashish production benefit from resin heads that release easily with moderate agitation, while strains intended for marijuana use benefit from extremely tenacious resin heads that remain attached during handling and packaging.
 
@@ -80,8 +80,6 @@ Strains may also be bred for resin tenacity — the degree to which resin heads 
 - [[cannabis-flowering-stage-management]]
 
 - [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]
-
-- [[cannabis-flowering-stage-management]]
 
 - [[cannabis-breeding-basics]]
 - [[cannabis-glandular-trichome-types-resin-production-clarke]]

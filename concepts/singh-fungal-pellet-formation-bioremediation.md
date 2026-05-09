@@ -15,7 +15,7 @@ Fungal pellet formation is a critical morphological phenomenon that
 significantly influences bioreactor performance in bioremediation and
 industrial fermentation. Pellets are compact, spherical aggregates of
 mycelial biomass that offer advantages in mass transfer, biomass
-separation, and process control compared to dispersed mycelial growth.
+separation, and process control compared to dispersed [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]].
 
 ## Pellet Formation Mechanisms
 
@@ -27,7 +27,7 @@ A two-step process involving:
 2. Subsequent aggregation of germinating spore agglomerates into larger
    pellet structures
 
-This mechanism appears to operate in Phanerochaete chrysosporium,
+This mechanism appears to operate in [[phanerochaete-chrysosporium]],
 where surface polysaccharide bridging facilitates the initial
 aggregation step during pellet development. However, it remains unclear
 whether this mechanism applies universally across all pellet-forming
@@ -47,13 +47,13 @@ bioreactor operation.
 
 The internal structure of mycelial pellets is variable and ranges from
 loose, irregular aggregates to tight, compact spheres. Structural
-characteristics directly affect metabolic activity:
+characteristics directly affect [[arbuscule-isolation-metabolic-activity-assays]]:
 
-- **Penicillium chrysogenum**: Pellets under 400 micrometers diameter
+- **[[penicillium-chrysogenum]]**: Pellets under 400 micrometers diameter
   contain all active cells. Larger pellets exhibit four distinct zones:
   an outer layer of actively growing cells, two layers of less active
   cells, and a hollow center from autolysis
-- **Phanerochaete chrysosporium**: Only the outer 100 to 200 micrometer
+- **[[staycare-phanerochaete-chrysosporium-in-bioremediation]]**: Only the outer 100 to 200 micrometer
   layer of pellets assimilates glucose, indicating significant mass
   transfer limitations in the pellet interior
 - **Mass transfer**: Tightly compact pellets are deficient in free flow
@@ -87,7 +87,7 @@ reduced metabolite production caused by nutrient transfer limitations
 within pellet cells. However, small compact pellets can favor production
 efficiency by improving biomass harvesting and process operation.
 
-In Aspergillus oryzae submerged cultures, formation of small compact
+In [[aspergillus-oryzae]] submerged cultures, formation of small compact
 pellets favors efficiency of biomass protein production, harvesting,
 and process operation. The yield of biomass protein reached 6.1 g/L
 with 38% protein content from a 12-hour batch culture, with pellets
@@ -97,16 +97,16 @@ enabling easy biomass separation.
 
 Multiple methods exist for measuring fungal growth in pellet-forming
 cultures, each with distinct advantages:
-- **Dry weight measurement**: Standard method for liquid culture growth
+- **Dry weight measurement**: Standard method for [[comparison-liquid-culture-vs-grain-spawn]] growth
   in stationary or shake flasks; provides total biomass quantification
 - **Microtiter plate and microplate reader**: Enables rapid and efficient
   growth measurement in 96-well format (Langvad, 1999)
 - **Colony-forming units**: Routine enumeration of fungal propagules
   for quantification of viable biomass
 - **Electrochemical methods**: Cyclic voltammetry shows all four growth
-  phases of Fusarium solani; anodic peak corresponds to metabolites
+  phases of [[fusarium-solani]]; anodic peak corresponds to metabolites
   rather than biomass
-- **Chitin measurement**: Estimates fungal biomass in solid-state
+- **Chitin measurement**: Estimates [[bioremediation-fungal-biomass-biosorbent-material]] in solid-state
   fermentation systems
 - **Ergosterol content**: Biomarker for living fungal biomass, though
   subject to photochemical degradation requiring careful handling
@@ -123,11 +123,11 @@ Pellet morphology offers several advantages for remediation bioreactors:
 - Improved mass transfer characteristics at the pellet-liquid interface
 
 Phanerochaete chrysosporium pellets exhibit a 90% ability for starch
-degradation in wastewater treatment applications, demonstrating practical
+degradation in [[mollison-designers-wastewater-treatment-wetlands]] applications, demonstrating practical
 utility of pellet-based systems.
 
 ## See Also
 
 - [[singh-fungal-bioreactor-types-configurations]]
-- [[singh-fungal-treatment-industrial-wastewaters-overview]]
+- singh-fungal-treatment-industrial-wastewaters-overview
 - [[singh-immobilized-fungal-bioreactors-wastewater-treatment]]

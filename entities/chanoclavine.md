@@ -21,9 +21,9 @@ created: 2026-04-28
 
 ## Overview
 
-Chanoclavine is a clavine-type ergot alkaloid and a key intermediate in the biosynthetic pathway leading to lysergic acid derivatives including **[[ergotamine]]**.
+Chanoclavine is a clavine-type ergot alkaloid and a key intermediate in the biosynthetic pathway leading to [[ergot-and-lysergic-acid-history]] derivatives including **[[ergotamine]]**.
 
-It is produced by fungi in the Clavicipitaceae family, most notably *Claviceps purpurea* (ergot fungus) and various endophytic species of *Epichloë* and *Neotyphodium*.
+It is produced by fungi in the Clavicipitaceae family, most notably *[[bloomfield-ergot-claviceps-purpurea-ergotism]]* (ergot fungus) and various endophytic species of *Epichloë* and *Neotyphodium*.
 
 Chanoclavine exists in two isomeric forms: chanoclavine-I (the major biosynthetic intermediate) and chanoclavine-II, which is enzymatically reduced from chanoclavine-I.
 
@@ -63,7 +63,7 @@ The conversion of chanoclavine-I to chanoclavine-I aldehyde represents a critica
 
 One pathway leads to the lysergic acid derivatives (via paspalic acid and lysergic acid), while an alternative route yields festuclavine and other dihydroclavines.
 
-Recent genome mining studies (2010s) have identified the complete gene clusters responsible for chanoclavine biosynthesis in *Epichloë* species and *Aspergillus fumigatus*.
+Recent genome mining studies (2010s) have identified the complete gene clusters responsible for chanoclavine biosynthesis in *Epichloë* species and *[[gadd-aspergillus-fumigatus-glucan-virulence]]*.
 
 ## Pharmacology
 

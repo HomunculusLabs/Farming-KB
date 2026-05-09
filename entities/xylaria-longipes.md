@@ -1,4 +1,5 @@
 
+
 ## Overview
 
 *Xylaria longipes*, commonly known as the Dead Man's Fingers fungus, is a
@@ -24,12 +25,12 @@ is common within the Xylariaceae.
 
 ## Bioactive Compounds
 
-*X. longipes* produces a diverse array of secondary metabolites with
+*X. longipes* produces a diverse array of [[antifungal-secondary-metabolites-coprophilous-fungi]] with
 biological activity. Research has identified several classes of compounds
 with potential pharmaceutical and agricultural applications.
 
 Cytotoxic cytochalasins have been isolated from culture extracts, showing
-activity against various cancer cell lines. The species also produces
+activity against various [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines. The species also produces
 xylarenone and other naphthoquinone derivatives with antibacterial and
 antifungal properties.
 
@@ -37,15 +38,15 @@ Several novel polyketide-derived compounds unique to *X. longipes* have
 been reported. These include griseofulvin-related metabolites and
 xylarinic acid derivatives with moderate antimicrobial activity.
 
-Antioxidant phenolic compounds are produced during submerged fermentation,
+Antioxidant phenolic compounds are produced during [[cancer-medicinal-mushrooms-submerged-fermentation-production]],
 suggesting potential applications in [[malt-extract-agar]] (MEA). Colonies are
 slow-growing, forming compact, darkly pigmented mycelium.
 
-In liquid culture, the species produces extracellular enzymes useful in
+In [[comparison-liquid-culture-vs-grain-spawn]], the species produces extracellular enzymes useful in
 biotechnological applications. Laccase production can be induced with
 lignin-related phenolic compounds and copper supplementation.
 
-The fungus has been investigated as a biological control agent against
+The fungus has been investigated as a [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent against
 plant pathogenic fungi, leveraging its production of antifungal
 metabolites. Competition studies with forest pathogens show promising
 antagonistic activity.
@@ -53,12 +54,12 @@ antagonistic activity.
 ## See Also
 
 - [[litter-wood-decomposing-fungi]]
-- [[litter-wood-decomposing-fungi]]
 
 - [Xylaria polymorpha](xylaria-polymorpha.md)
 - [[trametes-versicolor-entity]](trametes-versicolor.md)
 - [[gymnopus-dryophilus]](gymnopus-dryophilus.md)
 - [[coprinellus-micaceus]]](coprinellus-micaceus.md)
+
 ## Practical Considerations
 
 Successful implementation of Xylaria Longipes requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

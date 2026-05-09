@@ -16,7 +16,7 @@ type: concept
 
 # Plant Nursery and Seedling Production
 
-Plant nurseries are foundational infrastructure in permaculture design.
+Plant nurseries are foundational infrastructure in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]].
 Bill Mollison discusses nursery systems in Permaculture: A Designers'
 Manual (Chapter 6: Trees and Their Energy Transactions, and Chapter 7:
 Soil) as essential for establishing tree crops, food forests, and
@@ -83,11 +83,11 @@ Many permaculture species require pre-treatment to break dormancy:
     medium for 30-90 days) for temperate tree seeds such as apples,
     pears, and many nuts
   - Scarification: Nicking, sanding, or acid treatment of hard seed
-    coats (acacia, carob, honey locust, tagasaste)
+    coats (acacia, carob, [[permaculture-honey-locust-pod-fodder-system]], tagasaste)
   - Hot water treatment: Pouring boiling water over seeds and soaking
     for 12-24 hours for leguminous species with impermeable coats
   - Smoke treatment: Exposure to smoke water for species from
-    fire-adapted ecosystems (some Australian and South African taxa)
+    fire-adapted ecosystems (some Australian and [[kanna-sceletium-south-african-narcotic]] taxa)
 
 Sowing depth is generally 2-3 times the seed diameter. Fine seeds are
 surface-sown and pressed into the medium without covering.
@@ -98,7 +98,7 @@ Seedlings grown in protected nursery conditions must be gradually
 acclimated to outdoor conditions before field planting. Hardening off
 involves progressively increasing exposure to direct sun, wind, and
 temperature fluctuations over 7-14 days. This process thickens leaf
-cuticles, strengthens stems, and reduces transplant shock.
+cuticles, strengthens stems, and reduces [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]].
 
 ## Timing and Seasonal Planning
 
@@ -124,8 +124,11 @@ continuous garden production.
 ## See Also
 
 - mollison designers tree propagation grafting
-- mollison designers food forest establishment
-- mollison designers zone planning
-- [[mollison-designers-plant-nursery-propagation-bed-design]]
+- mollison [[mollison-designers-food-forest-succession-design]] establishment
+- mollison designers [[mollison-course-zone-planning-and-design]]
+- mollison-designers-plant-nursery-propagation-bed-design
 - [[permaculture-designers-manual-plant-nursery]]
 - [[mollison-designers-chicken-tractors-egg-production]]
+- [[mollison-designers-plant-nursery-establishment]]
+- [[soil-food-web]]
+- [[permaculture-design]]

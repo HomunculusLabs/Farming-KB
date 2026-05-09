@@ -1,15 +1,16 @@
 ---
-title: Carrot Growing Guide
+title: Carrot comparison-bean-growing-guide-vs-pepper-growing-guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [vegetables, gardening, cultivation, beginner, soil, troubleshooting]
-sources: []
+sources:
+  sources: []
 ---
 
 ## Overview
 
-Carrots are a root vegetable prized for their sweetness, versatility, and storage capability. They require specific soil conditions but reward the gardener with a high-yielding, nutrient-dense crop. This guide covers soil preparation, variety selection, planting, care, harvesting, and common problems.
+Carrots are a [[fukuoka-western-root-vegetable-deficiency]] prized for their sweetness, versatility, and storage capability. They require specific soil conditions but reward the gardener with a high-yielding, nutrient-dense crop. This guide covers soil preparation, variety selection, planting, care, harvesting, and common problems.
 
 ## Soil Preparation
 
@@ -35,7 +36,7 @@ Carrots are demanding about soil texture. Poor soil is the primary cause of fork
 - Add coarse sand (not fine playground sand) to improve drainage
 - Mix in generous amounts of compost and leaf mold
 - Consider growing shorter varieties like Paris Market or Little Finger
-- Over multiple seasons, consistent organic matter additions transform heavy soil
+- Over multiple seasons, consistent [[hamilton-composting-and-organic-matter-management]] additions transform heavy soil
 
 ## Varieties
 
@@ -54,7 +55,7 @@ Carrots are demanding about soil texture. Poor soil is the primary cause of fork
 - **White**: Lunar White, White Satin — mild, crisp
 
 ### By Season
-- **Early**: 50-60 days; sow in early spring
+- **Early**: 50-60 days; sow in [[coleman-overwintered-onions-and-early-spring-crops]]
 - **Main Season**: 65-75 days; sow late spring for summer harvest
 - **Storage**: 70-80 days; sow mid-summer for fall/winter storage
 
@@ -132,7 +133,7 @@ Thinning is essential for properly sized roots. Crowded carrots will be small, t
 - **Wireworms**: Tunnel into roots. Remove decaying organic matter before planting
 
 ### Diseases
-- **Alternaria leaf blight**: Brown spots on leaves; improve air circulation, remove affected foliage
+- **Alternaria leaf blight**: Brown spots on leaves; improve [[stamets-growing-room-air-circulation-co2-management]], remove affected foliage
 - **Cercospora leaf spot**: Similar to alternaria; same management approach
 
 ## Harvesting
@@ -142,23 +143,8 @@ Thinning is essential for properly sized roots. Crowded carrots will be small, t
 - Check size by brushing soil away from the shoulder of a test carrot
 - Best flavor develops after a light frost (sugars concentrate)
 - Do not leave in ground through deep winter freezes in cold zones
-
-### How to Harvest
-- Loosen soil with a fork beside the row before pulling
-- Pull straight up gently; twist slightly if resistant
-- Harvest in the morning for best flavor and crispness
-
-## Storage
-
-- Remove tops immediately — they draw moisture from roots
-- Do not wash before storage; brush off loose soil only
-- Store at 32-38F with 95-100% humidity
-- Pack in damp sand, sawdust, or leaves in a root cellar or refrigerator crisper
-- Properly stored carrots last 4-6 months
-- Carrots can overwinter in the ground in zones 5-6 with heavy mulch (straw, leaves)
-
 ## See Also
 
-- [[seasonal-gardening-calendar]] for sowing and harvest timing
+- [[seasonal-gardening-calendar]] for sowing and [[cannabis-harvest-timing-visual-cues]]
 - [[brassica-growing-guide]] for companion root crops like radishes and turnips
 - [[urban-farming-methods]] for container carrot growing

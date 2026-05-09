@@ -13,8 +13,8 @@ updated: 2026-05-08
 sources:
   - Brinkman, K.A. (1974). *Corylus cornuta* Marsh., Beaked Hazelnut. USDA Forest Service.
   - Posluszny, U. et al. (2000). "Floral Development in *Corylus*." Int. J. Plant Sci.
-  - K不过, W.L. et al. (2010). "North American Hazelnuts." Horticultural Reviews.
-  - Moerman, D.E. (1998). Native American Ethnobotany. Timber Press.
+  - K不过, W.L. et al. (2010). "[[growing-gourmet-north-american-reishi-species]] Hazelnuts." Horticultural Reviews.
+  - Moerman, D.E. (1998). [[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany. Timber Press.
 ---
 
 ## Overview
@@ -61,7 +61,7 @@ Elevation range extends from sea level to approximately 2,100 meters in the Rock
 
 The nuts are edible and have a sweet, rich flavor comparable to European filberts, though significantly smaller (approximately 8–12 mm in diameter). Nut size varies considerably between eastern and western populations.
 
-Nutritional composition is similar to other hazelnut species: approximately 60% fat (predominantly oleic acid), 15% protein, and 17% carbohydrate by weight. The nuts provide significant amounts of vitamin E, manganese, and B vitamins.
+[[dighton-fungal-nutritional-composition-animal-diets]] is similar to other hazelnut species: approximately 60% fat (predominantly oleic acid), 15% protein, and 17% carbohydrate by weight. The nuts provide significant amounts of vitamin E, manganese, and B vitamins.
 
 Indigenous peoples across North America relied on beaked hazelnuts as a staple food. Nuts were harvested in late summer and fall, then dried and stored for winter use. They were eaten raw, roasted, ground into flour, or pressed for oil.
 
@@ -69,7 +69,7 @@ Commercial harvesting is limited, but interest in native nut crops for food fore
 
 ## Ecological Role
 
-Beaked hazelnut is one of the most important wildlife food plants in eastern North American forests. The nuts are consumed by squirrels, chipmunks, mice, ruffed grouse, wild turkey, blue jays, and woodpeckers.
+Beaked hazelnut is one of the most important wildlife food plants in [[polypore-fungi-eastern-north-america]] American forests. The nuts are consumed by squirrels, chipmunks, mice, ruffed grouse, wild turkey, blue jays, and woodpeckers.
 
 The dense, multi-stemmed growth form provides excellent cover and nesting habitat for songbirds and small mammals. Thickets serve as travel corridors and protective cover for wildlife moving between habitat patches.
 
@@ -77,7 +77,7 @@ The species is a larval host for several moth species, including the hazel sphin
 
 Root systems are extensive and fibrous, contributing to soil stabilization on slopes and stream banks. The species' ability to spread clonally through root suckering makes it effective at colonizing disturbed sites and preventing soil erosion.
 
-Beaked hazelnut also forms symbiotic associations with mycorrhizal fungi, which enhance nutrient uptake and may facilitate nutrient transfer between plants in the forest understory. These associations are particularly important on nutrient-poor sites.
+Beaked hazelnut also forms symbiotic associations with [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], which enhance [[plant-nutrient-uptake-mechanisms]] and may facilitate nutrient transfer between plants in the forest understory. These associations are particularly important on nutrient-poor sites.
 
 The pollen-rich catkins provide an early spring food source for emerging pollinators, particularly native bees that overwinter as adults. The timing of catkin expansion often coincides with the first warm days of spring when few other floral resources are available.
 

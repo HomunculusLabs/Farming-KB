@@ -1,5 +1,5 @@
 ---
-title: Natural Fruit Tree Form and Non Pruning
+title: fukuoka-natural-fruit-tree-pest-control Tree Form and Non Pruning
 created: 2026-04-28
 tags:
   - natural-farming
@@ -16,10 +16,10 @@ sources:
     title: "The Natural Way of Farming"
 type: concept
 ---
-[[persimmon]], mandarin orange, and
+persimmon, [[fukuoka-mandarin-orange-citrus]], and
 cherry branches is always directly above the first. Two leaves will
 not overlap within any five-inch length along the branch.
-Fukuoka determined that the natural form of most deciduous fruit trees
+Fukuoka determined that the natural form of most deciduous [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 is a central leader system. Persimmon, chestnut, pear, peach, and
 apple are all basically central leader type trees, resembling forest
 trees such as cryptomeria, Japanese cypress, pine, and live oak. Their
@@ -32,7 +32,7 @@ method of pruning needed.
 ## Citrus Tree Natural Form Discovery
 The natural form of citrus trees, and especially the Satsuma orange,
 was more difficult to determine. Fukuoka first tried applying natural
-farming methods to an established grove of Satsuma orange trees that
+[[natural-farming-methods-comparison]] to an established grove of Satsuma orange trees that
 had been trimmed into a wineglass shape about six or seven feet tall.
 When he simply discontinued pruning, large numbers of scaffold
 branches and laterals grew out at once, crisscrossing and growing in
@@ -45,7 +45,7 @@ natural forms shown in technical journals, all hemispherical with
 scaffold branches meandering upwards, were not true natural forms at
 all but shapes of abandoned trees. To discover the true form, Fukuoka
 planted citrus seed directly and observed the trees. He also looked at
-hardier citrus varieties such as summer orange and shaddock, which
+hardier [[query-best-citrus-varieties-for-different-climates]] such as summer orange and shaddock, which
 clearly showed a central leader type form. When he reported his
 findings that the natural form of citrus is a central leader type,
 this created a stir among specialists but was laughed off by farmers.
@@ -86,3 +86,6 @@ show its true form either. Plants grow under an incredible diversity
 of conditions and respond to injury from bird, beast, and insect.
 Garden trees, like the [[natural-farming]], [[do-nothing-farming]]
 ## See Also
+- [[fukuoka-pruning-fruit-tree-natural-management]]
+- [[fukuoka-textdoc-pruning-destruction-natural-tree-form]]
+- [[orchard-management]]

@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Fungi in Heavy Metal Phytostabilization
+title: arbuscular-mycorrhizal-fungi-biology-symbiosis in dighton-fungal-biosorption-heavy-metal-remediation Phytostabilization
 created: 2026-04-26
 tags:
   - mycorrhizal-fungi
@@ -18,11 +18,11 @@ type: concept
 
 ## Overview
 
-[[mycorrhizal-symbiosis]]
+mycorrhizal-symbiosis
 
 AMF belong to the phylum Glomeromycota and form intracellular
 arbuscules within root cortical cells, creating an extensive
-extraradical mycelial network in the surrounding soil. This hyphal
+extraradical [[gadd-mycelial-network-dynamics]] in the surrounding soil. This hyphal
 network extends the effective depletion zone of plant roots by up to
 several centimeters, enhancing nutrient and water uptake. The symbiosis
 is obligate for the fungus and largely beneficial for the host plant,
@@ -34,7 +34,7 @@ for mineral nutrients, particularly phosphorus.
 The Singh source identifies several mechanisms by which AMF confer
 heavy metal tolerance to host plants:
 
-- Extracellular immobilization: Fungal cell walls contain chitin,
+- Extracellular immobilization: [[gadd-fungal-cell-structure]] walls contain chitin,
   glucans, and melanin with abundant functional groups (carboxyl,
   amino, hydroxyl, phosphate) that bind metal cations through
   biosorption. Glomalin-related soil protein (GRSP) released by
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -11,7 +11,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-Yeast is a Korean Natural Farming microorganism input responsible for the final step of fermentation. It breaks sugars into alcohol and CO2, enhances metabolism, and helps plants recover from stress, disease, and damage. In KNF, cultivated yeast is particularly valued for its ability to resynthesize decomposed organic matter into forms directly beneficial to plants.
+Yeast is a Korean [[comparison-natural-farming-vs-permaculture]] microorganism input responsible for the final step of fermentation. It breaks sugars into alcohol and CO2, enhances metabolism, and helps plants recover from stress, disease, and damage. In KNF, cultivated yeast is particularly valued for its ability to resynthesize decomposed organic matter into forms directly beneficial to plants.
 
 ## What Is Yeast
 
@@ -20,11 +20,11 @@ Yeast is a microorganism (a single-celled fungus) that performs the last step of
 ## Functions of Yeast
 
 1. **Completes the fermentation process** by converting sugars to alcohol and CO2
-2. **Enhances metabolism** and expands capillary vessels in plants, improving nutrient transport
+2. **Enhances metabolism** and expands capillary vessels in plants, improving [[mycelial-network-nutrient-transport-imaging-gadd]]
 3. **Resynthesizes organic substances** decomposed by various microbes into amino acids, hormones, and vitamins beneficial to crops
 4. **Produces vitamins, nucleic acids, minerals, hormones, and fatty acids** that support plant growth
 5. **Produces 8 essential amino acids** that organisms cannot synthesize on their own
-6. **Decomposes chemical fertilizers** -- extremely useful for transitioning conventional farms to natural methods
+6. **Decomposes [[cervantes-chemical-fertilizers-guide]]** -- extremely useful for transitioning conventional farms to natural methods
 7. **Naturally occurs abundantly** on fruit surfaces, especially on grapes -- making it easy to collect
 
 The resynthetic function is particularly important: while bacteria and other microbes break down organic matter, yeast rebuilds these breakdown products into plant-available forms. This makes yeast a critical bridge between decomposition and plant nutrition.
@@ -69,7 +69,7 @@ The resynthetic function is particularly important: while bacteria and other mic
 
 ### When to Use Yeast
 
-1. When the plant becomes weak or lacks vigor -- yeast restores metabolic activity
+1. When the plant becomes weak or lacks vigor -- yeast restores [[arbuscule-isolation-metabolic-activity-assays]]
 2. When viral or bacterial disease occurs -- yeast supports the plant's immune response
 3. When branches or stems are heavily damaged by strong wind -- accelerates recovery
 4. When photosynthate production is low during rainy or high-humidity seasons -- compensates for reduced photosynthesis
@@ -78,7 +78,7 @@ The resynthetic function is particularly important: while bacteria and other mic
 
 ### Crop-Specific Applications
 
-- **Rice:** Apply during vegetative stage to promote tillering and leaf growth
+- **Rice:** Apply during [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] to promote tillering and leaf growth
 - **Fruit trees:** Apply after pruning or when trees show reduced vigor
 - **Vegetables:** Apply to seedlings for accelerated establishment
 - **Flowering plants:** Apply before flowering to support bud development (reduce near flowering to avoid excessive vegetative growth)
@@ -87,7 +87,7 @@ The resynthetic function is particularly important: while bacteria and other mic
 
 Yeast occupies the final position in the KNF fermentation hierarchy:
 
-1. [[knf-indigenous-microorganism-culture]] -- indigenous microorganisms initiate decomposition
+1. [[knf-indigenous-microorganism-culture]] -- [[beneficial-indigenous-microorganisms-bim]] initiate decomposition
 3. **Yeast** -- completes the process, converting sugars to alcohol
 
 This is why yeast is added last in preparations like [[knf-fermented-mixed-compost]]. The sequence matters: LAB creates the right pH, IMO breaks down complex materials, and yeast finishes the job by converting remaining sugars and resynthesizing nutrients.

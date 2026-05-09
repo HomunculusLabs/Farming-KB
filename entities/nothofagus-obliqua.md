@@ -71,11 +71,11 @@ Heartwood has moderate natural durability against decay (Class 3), but sapwood i
 
 N. obliqua is shade-intolerant in its juvenile phase, requiring canopy gaps or disturbance for successful regeneration. It is a pioneer to mid-successional species in montane forests.
 
-Seed production is irregular (mast seeding every 3–5 years), with seeds dispersed primarily by wind. Seeds are short-lived and lose viability within 1–2 years.
+[[cervantes-seed-production-storage]] is irregular (mast seeding every 3–5 years), with seeds dispersed primarily by wind. Seeds are short-lived and lose viability within 1–2 years.
 
-Seedlings establish best on mineral soil exposed by disturbance. They are sensitive to frost in the first two years but develop cold hardiness with age.
+Seedlings establish best on mineral soil exposed by disturbance. They are sensitive to frost in the first two years but develop [[coleman-cold-hardiness-testing-ratings]] with age.
 
-The species forms ectomycorrhizal associations with numerous fungal genera, including Cortinarius, Descolea, and Laccaria, which are critical for nutrient uptake in volcanic soils.
+The species forms ectomycorrhizal associations with numerous [[singh-key-fungal-genera-bioremediation]], including Cortinarius, Descolea, and Laccaria, which are critical for [[plant-nutrient-uptake-mechanisms]] in volcanic soils.
 
 Important animal associations include cavity-nesting birds (e.g., Magellanic woodpecker, Chilean pigeon), and browsing mammals (huemul deer, introduced red deer).
 
@@ -85,7 +85,7 @@ N. obliqua is increasingly planted in temperate regions worldwide, including New
 
 In New Zealand, it has naturalized in some areas and is considered a potential forestry species for areas too warm for radiata pine but too cold for eucalypts.
 
-Seed germination requires cold stratification at 2–5°C for 30–60 days, followed by sowing in well-drained nursery beds. Germination rates are typically 60–80% from fresh seed.
+[[cannabis-seed-germination-methods]] requires cold stratification at 2–5°C for 30–60 days, followed by sowing in well-drained nursery beds. Germination rates are typically 60–80% from fresh seed.
 
 In agroforestry systems, N. obliqua can serve as a component of silvopastoral systems in temperate highlands, providing shade for livestock and timber revenue.
 

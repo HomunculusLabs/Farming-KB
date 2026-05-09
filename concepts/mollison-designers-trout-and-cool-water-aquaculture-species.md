@@ -1,5 +1,5 @@
 ---
-title: Trout and Cool Water Aquaculture Species
+title: mollison designers trout and cool water aquaculture species Water Aquaculture Species
 created: 2026-04-28
 tags:
   - aquaculture
@@ -21,7 +21,7 @@ production in temperate and highland permaculture systems. Mollison integrates
 fish production into the broader water harvesting and landscape design
 framework, positioning aquaculture as a multi-functional element that produces
 food while improving water quality, providing irrigation storage, and creating
-wildlife habitat. This topic complements the general [[mollison-fish-pond-construction]]
+wildlife habitat. This topic complements the general mollison-fish-pond-construction
 principles.
 
 ## Species Selection for Cool and Cold Water Systems
@@ -34,12 +34,12 @@ The primary cold-water species for permaculture aquaculture in temperate
 regions. Rainbow trout are the most widely cultured cool-water fish globally
 and offer several advantages for integrated systems:
 
-- **Temperature range**: Optimal growth at 10-16 degrees Celsius; tolerate
+- **[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]**: Optimal growth at 10-16 degrees Celsius; tolerate
   0-25 degrees. Lethal above approximately 24-25 degrees. Require cool, well-
   oxygenated water year-round.
-- **Water quality requirements**: Dissolved oxygen above 6 mg/L (higher than
+- **Water quality requirements**: [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] above 6 mg/L (higher than
   most warm-water species); pH 6.5-8.0; low turbidity; low ammonia and nitrite.
-  See [[mollison-plant-stacking-and-interaction]]: each
+  See mollison-plant-stacking-and-interaction: each
 species occupies a distinct ecological niche, maximising total pond
 productivity while minimising competition.
 
@@ -64,7 +64,7 @@ polyculture:
 
 Cool-water aquaculture depends critically on reliable water supply and
 temperature control. Mollison integrates aquaculture water requirements with
-[[mollison-pond-systems-layouts-and-connectivity]] chapter details multi-pond series design.
+mollison-pond-systems-layouts-and-connectivity chapter details multi-pond series design.
 
 ### Stream Diversion
 Where springs are unavailable, stream water can be diverted through ponds.
@@ -76,5 +76,11 @@ Mollison stresses that diversion systems must:
 
 ### Dam and Reservoir Systems
 Larger water storage impoundments can support aquaculture as a secondary
-function. [[mollison-pond-edge-configuration-and-yield]] plantings that filter runoff and provide habitat.
+function. mollison-pond-edge-configuration-and-yield plantings that filter runoff and provide habitat.
 - Stocking levels must account for the larger volume and lower productivity
+## See Also
+- [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
+- [[mollison-designers-soil-water-storage-in-forest-systems]]
+- [[mollison-designers-hand-pump-and-water-lifting-devices]]
+- [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
+- [[mollison-designers-apple-guild-and-cool-climate-fruit-guilds]]

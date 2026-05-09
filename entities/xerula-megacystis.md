@@ -54,13 +54,13 @@ Pileipellis is a cutis of repent hyphae with scattered cylindrical to clavate pi
 
 ## Distribution and Habitat
 
-Xerula megacystis has a wide distribution across temperate regions of Europe, North America, and parts of Asia.
+Xerula megacystis has a wide distribution across temperate regions of Europe, [[psilocybin-north-america-pacific-northwest]], and parts of Asia.
 
 It is found in deciduous and mixed woodlands, particularly associated with oak, beech, and birch stands.
 
 Fruiting occurs from late spring through autumn, typically after sustained rainfall periods.
 
-The fungus is strongly lignicolous, fruiting from well-decayed buried roots, stumps, or coarse woody debris.
+The fungus is strongly lignicolous, fruiting from well-decayed buried roots, stumps, or [[fungal-diversity-leaf-litter-coarse-woody-debris]] debris.
 
 It is most commonly encountered on forest floor edges near fallen timber that has been partially incorporated into soil.
 
@@ -68,7 +68,7 @@ The preference for buried rather than exposed wood makes it an easily overlooked
 
 ## Ecology and Decomposition
 
-As a primary decomposer of woody substrates, Xerula megacystis contributes to nutrient cycling in forest ecosystems.
+As a primary decomposer of woody substrates, Xerula megacystis contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest ecosystems.
 
 The species specializes in the later stages of wood decay, colonizing material already softened by white-rot and brown-rot fungi.
 
@@ -88,7 +88,7 @@ Other Xerula species, particularly Xerula furfuracea (syn. Oudemansiella radicat
 
 Oudemansin A is a β-methoxyacrylate fungicide that inhibits mitochondrial respiration in competing fungi.
 
-It is unknown whether Xerula megacystis produces similar secondary metabolites, as bioassays have focused on related species.
+It is unknown whether Xerula megacystis produces similar [[antifungal-secondary-metabolites-coprophilous-fungi]], as bioassays have focused on related species.
 
 Preliminary screening of Xerula species for antioxidant and antimicrobial activity has shown weak to moderate effects.
 
@@ -104,7 +104,7 @@ Some foragers prize the cap of young specimens, but the species is too uncommon 
 
 There are no confirmed cases of poisoning from Xerula megacystis consumption.
 
-As with any wild mushroom, positive identification is essential before consumption.
+As with any [[emcdda-wild-mushroom-foraging-misidentification-hazards]], positive identification is essential before consumption.
 
 ## Similar Species
 
@@ -116,7 +116,7 @@ Xerula longipes is distinguished by its exceptionally long stipe relative to cap
 
 The deeply rooting stipe separates Xerula species from superficially similar Collybia or Marasmius species.
 
-Microscopic examination of cheilocystidia size and spore dimensions is necessary for confident species determination.
+[[fungal-microscopic-examination-mounting-media-techniques]] of cheilocystidia size and spore dimensions is necessary for confident species determination.
 
 ## See Also
 

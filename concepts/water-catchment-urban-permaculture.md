@@ -1,5 +1,5 @@
 ---
-title: Water Catchment in Urban Permaculture
+title: Water Catchment in pdc-urban-permaculture-design-principles
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Water catchment in urban permaculture focuses on capturing, storing, and directing rainwater, greywater, and street runoff within the built environment. Urban areas generate enormous volumes of water that typically run off into sewers — permaculture design intercepts this flow to irrigate gardens, recharge groundwater, and create productive landscapes.
+Water catchment in urban permaculture focuses on capturing, storing, and directing rainwater, greywater, and street runoff within the [[artillery-fungus-and-built-environment-fungi]]. Urban areas generate enormous volumes of water that typically run off into sewers — [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] intercepts this flow to irrigate gardens, recharge groundwater, and create productive landscapes.
 
 ## The Urban Water Problem
 
@@ -43,7 +43,7 @@ Water catchment in urban permaculture focuses on capturing, storing, and directi
 
 - 1/2-inch vinyl tube through window jam, suction-cupped to tub bottom
 - Hand pump starts the siphon
-- Route to deciduous fruit trees (fig, loquat, Asian pears) — trees that shade in summer but lose leaves for winter sun
+- Route to deciduous [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] (fig, loquat, Asian pears) — trees that shade in summer but lose leaves for winter sun
 - Can connect to old irrigation lines to reach multiple trees
 
 ## Greywater Systems
@@ -110,11 +110,11 @@ Water catchment in urban permaculture focuses on capturing, storing, and directi
 ### How Trees Create Water
 
 - Trees act as condensers: leaves provide surfaces for atmospheric moisture to condense
-- A single giant tree (e.g., Ocotea foetens) may present 16 hectares of leaf surface to moist air
+- A single giant tree (e.g., Ocotea foetens) may present 16 hectares of [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] to moist air
 - Condensation drip can be 80-86% of total precipitation on sea-facing slopes
 - Fog drip measured at 130-230 cm on Table Mountain (South Africa) and Lanai (Hawaii)
 - Forests return 75% of water to air (25% evaporated, 50% transpired)
-- Forested areas return 10x more moisture than bare ground, 2x more than grasslands
+- Forested areas return 10x more moisture than [[savory-bare-ground-and-soil-exposure]], 2x more than grasslands
 
 ### Ekman Spirals
 

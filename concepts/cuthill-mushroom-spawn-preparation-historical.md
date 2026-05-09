@@ -1,5 +1,5 @@
 ---
-title: Cuthill Mushroom Spawn Preparation Historical
+title: Cuthill Mushroom spawn-preparation Historical
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -81,7 +81,7 @@ Commercial brick spawn was the standard product available to gardeners:
 ## Cuthill's Method for Producing Spawn Quickly
 
 For cottagers and gardeners on tight budgets, Cuthill described a
-method to produce pure spawn in five to six weeks:
+method to produce [[duggar-tissue-culture-pure-spawn-method]] in five to six weeks:
 
 1. Lay a foundation of horse droppings about one square yard in area.
 2. First layer: four inches deep.
@@ -128,7 +128,7 @@ Cuthill recommended an additional technique for insurance:
 
 Some beds succeeded perfectly with natural spawn alone, but Cuthill
 considered artificial spawn valuable as insurance against mistakes in
-bed preparation, producing an earlier and longer-bearing crop. A bed
+[[azurescens-outdoor-bed-preparation-woodchips]], producing an earlier and longer-bearing crop. A bed
 spawned with artificial spawn showed mushrooms appearing exactly above
 where the spawn was inserted below. He preferred buying first-rate brick
 spawn at 4d.-6d. each rather than measuring by the bushel.
@@ -142,8 +142,9 @@ Cuthill noted that a bushel of spawn costing 5 shillings could be worth
 10 pounds in private service, while natural spawn saved from old beds
 ## See Also
 
-- [[mushroom-grain-spawn-preparation]]
+- mushroom-grain-spawn-preparation
 
 ## See Also
 
 - [[mushroom-spawn-preparation]]
+- [[grain-spawn-preparation]]

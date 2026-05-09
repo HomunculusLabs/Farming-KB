@@ -1,5 +1,5 @@
 ---
-title: "Natural Hallucinogen Sources Beyond Mushrooms"
+title: "emcdda natural hallucinogen sources beyond mushrooms Sources Beyond Mushrooms"
 source: carolina-mushrooms_08qxp.md (EMCDDA Thematic Paper, 2006)
 topics: natural hallucinogens, plant psychedelics, animal-derived psychoactives, ethnobotany
 created: 2026-05-08
@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-The EMCDDA's 2006 thematic paper contextualises hallucinogenic mushrooms
+The EMCDDA's 2006 thematic paper contextualises [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]
 within the broader landscape of naturally occurring hallucinogenic
 substances. These compounds derive from a wide variety of plant, fungal,
 and even animal sources, and have been used for thousands of years
@@ -24,7 +24,7 @@ tetrahydrocannabinol (THC) and other cannabinoids that act on CB1/CB2
 receptors. While sometimes grouped with hallucinogens due to perceptual
 effects at higher doses, cannabis is pharmacologically distinct from
 classical hallucinogens, producing effects through the endocannabinoid
-system rather than serotonin pathways.
+system rather than [[powell-psilocybin-serotonin-pathways-environmental-chemistry]].
 
 ### Peyote Cactus (Lophophora williamsii)
 
@@ -32,14 +32,14 @@ A small, spineless cactus native to the Rio Grande Valley of
 southern Texas and northern Mexico. Contains mescaline
 (3,4,5-trimethoxyphenethylamine), a phenylethylamine hallucinogen.
 Peyote has been used in ceremonial contexts by indigenous peoples for
-over 5,000 years, most notably by the Native American Church, which
+over 5,000 years, most notably by the [[halpern-sacramental-peyote-and-native-american-church]] Church, which
 gained legal protection for peyote use in religious ceremonies in the
 United States.
 
 ### Ayahuasca
 
 A psychoactive brew prepared from the Banisteriopsis caapi vine
-(contains harmala alkaloids acting as MAO inhibitors) combined
+(contains [[turner-harmala-alkaloids-preparation-and-dosage]] acting as MAO inhibitors) combined
 with Psychotria viridis or Diplopterys cabrerana leaves (containing
 DMT). The MAO inhibition allows orally active DMT, which would
 normally be broken down by monoamine oxidase enzymes in the gut.
@@ -108,7 +108,7 @@ produce distortions in sensations and markedly alter mood and thought
 processes, yet they achieve these effects through fundamentally
 different biochemical mechanisms:
 
-- **Tryptamine-based**: psilocybin mushrooms, ayahuasca (DMT), morning
+- **Tryptamine-based**: [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], ayahuasca (DMT), morning
   glory (LSA) — act primarily on serotonin receptors
 - **Phenylethylamine-based**: peyote (mescaline) — distinct receptor
   profile from tryptamines

@@ -11,7 +11,7 @@ sources:
 
 # Cannabis Legalization Era (2012-Present)
 
-The end of prohibition: from Colorado and Washington's historic legalization votes through the Farm Bill, hemp revival, state-by-state legalization, and federal rescheduling efforts. See [[cannabis-prohibition-history]] for the complete arc from ancient use through the War on Drugs.
+The end of prohibition: from Colorado and Washington's historic legalization votes through the Farm Bill, hemp revival, state-by-state legalization, and federal rescheduling efforts. See [[cannabis-prohibition-history]] for the complete arc from ancient use through the [[cervantes-war-on-drugs-statistics]].
 
 ## State Legalization Begins (2012-2016)
 
@@ -40,7 +40,7 @@ The end of prohibition: from Colorado and Washington's historic legalization vot
 
 - **2018 — Farm Bill 2018:**
   Legalizes industrial hemp (cannabis with <0.3% THC) nationwide.
-  Removes hemp from the Controlled Substances Act entirely.
+  Removes hemp from the Controlled [[controlled-substances-act-and-psychedelic-research]] entirely.
   Enables legal CBD production and hemp product sales across all 50 states.
   Major milestone separating hemp from marijuana in federal law.
 
@@ -73,7 +73,7 @@ The end of prohibition: from Colorado and Washington's historic legalization vot
 
 - **2023 — HHS rescheduling recommendation:**
   Department of Health and Human Services recommends
-  moving cannabis from Schedule I to Schedule III
+  [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]] from Schedule I to Schedule III
   based on scientific review.
   DEA begins formal rulemaking process.
 
@@ -98,6 +98,6 @@ The end of prohibition: from Colorado and Washington's historic legalization vot
 - [[cannabis-prohibition-history]] — complete history from ancient use through War on Drugs
 - [[cannabis-health-therapeutics]] — medical applications by condition
 - [[cannabis-genetics-and-breeding]] — breeding methods shaped by prohibition-era underground work
-- [[cannabis-living-soil-guide]] — modern living soil cultivation methods
+- [[cannabis-living-soil-guide]] — modern living soil [[synthetic-log-cultivation-methods-guide]]
 - [[cannabis-spiritual-ritual-use]] — ceremonial use across traditions
 - [[robert-clarke]] — cannabis botany and ethnobotany authority

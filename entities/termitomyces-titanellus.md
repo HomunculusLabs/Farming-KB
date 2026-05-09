@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Pegler, D.N. & Vanhaecke, M. (1994). "Termitomyces of the African region." Kew Bulletin, 49(4), 727-740.
   - Hegde, D.M. & Anke, T. (2012). "The genus Termitomyces: A review." Mycobiology, 40(3), 157-165.
-  - Oei, P. (2005). "Mushroom Cultivation with Special Emphasis on Appropriate Technologies for Developing Countries." Tools for Agriculture, 3rd ed.
+  - Oei, P. (2005). "[[accessible-mushroom-cultivation-for-disabilities]] with Special Emphasis on Appropriate Technologies for Developing Countries." Tools for Agriculture, 3rd ed.
   - Aanen, D.K. et al. (2002). "The evolution of fungus-growing termites and their mutualistic fungal symbionts." PNAS, 99(23), 14887-14892.
 ---
 
@@ -22,7 +22,7 @@ sources:
 
 **Termitomyces titanellus** is a large edible basidiomycete mushroom in the family Lyophyllaceae, obligately associated with fungus-growing termites (subfamily Macrotermitinae) across tropical Africa.
 
-It is among the most prized wild edible mushrooms on the African continent, sought after for both its substantial size and excellent culinary qualities. The species forms an obligate mutualism with termites of the genus *Macrotermes*, which cultivate the fungus within their subterranean comb structures.
+It is among the most prized wild [[palmer-edible-mushrooms-north-america]] on the African continent, sought after for both its substantial size and excellent culinary qualities. The species forms an obligate mutualism with termites of the genus *Macrotermes*, which cultivate the fungus within their subterranean comb structures.
 
 Fruiting bodies emerge synchronously from termite mounds during the rainy season, often after heavy downpours. This phenological pattern has made the mushroom culturally significant in many African communities as a seasonal delicacy and income source.
 
@@ -66,11 +66,11 @@ Fruiting occurs during the warm rainy season, typically between November and Mar
 
 ## Ethnobotanical Use
 
-*Termitomyces titanellus* is one of the most commercially important wild mushrooms in Africa. In many regions, it is collected for both subsistence consumption and local market sale, where prices can exceed those of cultivated mushrooms.
+*Termitomyces titanellus* is one of the most commercially important wild mushrooms in Africa. In many regions, it is collected for both subsistence consumption and local market sale, where prices can exceed those of [[fungi-cultivated-mushrooms-pathogens-competitors]].
 
 The mushroom is typically prepared by grilling, frying, or drying. Dried specimens are preserved for use during off-season months, retaining much of their flavor and nutritional value.
 
-In some communities, the mushroom is considered a prestige food served at festivals and ceremonies. Traditional preparation methods vary by region, with some communities smoking the dried mushrooms over firewood to enhance shelf life and develop a deeper umami flavor.
+In some communities, the mushroom is considered a prestige food served at festivals and ceremonies. [[kava-traditional-preparation-ceremonial-context]] methods vary by region, with some communities smoking the dried mushrooms over firewood to enhance shelf life and develop a deeper umami flavor.
 
 Collection is predominantly done by women and children, providing an important source of household income. The seasonal nature of the harvest, however, creates economic vulnerability, as yields fluctuate significantly between years based on rainfall patterns.
 
@@ -86,7 +86,7 @@ The termites consume both the degraded comb material and the *Termitomyces* myce
 
 ### Ecological Role
 
-*Termitomyces titanellus* plays a significant role in nutrient cycling in tropical savanna and woodland ecosystems. Through the termite-fungus symbiosis, the species contributes to the decomposition of large volumes of plant litter and the recycling of carbon, nitrogen, and phosphorus.
+*Termitomyces titanellus* plays a significant role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in tropical savanna and woodland ecosystems. Through the termite-fungus symbiosis, the species contributes to the decomposition of large volumes of plant litter and the recycling of carbon, nitrogen, and phosphorus.
 
 The termite mounds where *Termitomyces* grows are also biodiversity hotspots, supporting unique microbial communities and providing microhabitats for other organisms.
 
@@ -96,7 +96,7 @@ The termite mounds where *Termitomyces* grows are also biodiversity hotspots, su
 
 The mushroom is rich in minerals, particularly potassium, phosphorus, and zinc, and contains significant amounts of B vitamins including riboflavin, niacin, and folate. Total carbohydrate content is approximately 40-50% of dry weight, with dietary fiber constituting a substantial portion.
 
-Bioactive compounds identified in *Termitomyces* species include ergosterol (a vitamin D precursor), termitomycamide (a unique fatty acid amide), and various phenolic compounds with demonstrated antioxidant activity. These contribute to the mushroom's reputation in traditional medicine for supporting immune function.
+[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] identified in *Termitomyces* species include ergosterol (a vitamin D precursor), termitomycamide (a unique fatty acid amide), and various phenolic compounds with demonstrated antioxidant activity. These contribute to the mushroom's reputation in traditional medicine for supporting immune function.
 
 ## See Also
 
@@ -108,4 +108,4 @@ Bioactive compounds identified in *Termitomyces* species include ergosterol (a v
 - [[wolfiporia-extensa]]
 - [[volvariella-volvacea]]
 - [[poria-cocos]]
-- [[coprinus-comatus-detailed]]
+- [[coprinus-comatus]]

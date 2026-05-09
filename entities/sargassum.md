@@ -34,7 +34,7 @@ rather than land boundaries. Since 2011, unprecedented **Great Atlantic
 Sargassum Belt** blooms have created massive strandings on Caribbean, Gulf of
 Mexico, and West African coastlines, disrupting tourism and fisheries.
 
-Sargassum species produce a wide array of bioactive compounds including
+Sargassum species produce a wide array of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] including
 fucoidans, phlorotannins, and alginate. These have demonstrated antioxidant,
 antimicrobial, antitumor, and anti-inflammatory properties in research settings.
 
@@ -73,7 +73,7 @@ West Africa to the Gulf of Mexico. Seasonal blooms peak in summer months.
 Benthic species occupy the intertidal to shallow subtidal zones (0–30 m depth)
 on hard substrates. They are particularly abundant on coral reefs, rocky
 outcrops, and artificial structures. Growth is optimal at 20–28°C with
-moderate to high nutrient availability.
+moderate to high [[ph-and-nutrient-availability-garden-soils]].
 
 ## Ecology and Environmental Impact
 
@@ -126,11 +126,11 @@ in ruminant and poultry diets, though high iodine and arsenic content require
 careful processing to ensure safety.
 
 **Bioremediation** potential is significant — Sargassum efficiently absorbs
-heavy metals (lead, cadmium, copper) and excess nutrients from contaminated
-water. This has been applied in constructed wetlands and industrial wastewater
+[[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] (lead, cadmium, copper) and excess nutrients from contaminated
+water. This has been applied in [[comparison-constructed-wetlands-vs-bioswales]] and [[fungal-industrial-wastewater-treatment]]
 treatment systems.
 
-**Biofuel** production via anaerobic digestion or hydrothermal liquefaction
+**Biofuel** production via [[biogas-digester-basics]] or hydrothermal liquefaction
 converts Sargassum biomass to biogas or bio-oil. The relatively low lignin
 content of seaweed compared to terrestrial biomass makes it favorable for
 bioconversion processes.

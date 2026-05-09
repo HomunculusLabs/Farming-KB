@@ -18,15 +18,15 @@ The entire Western literary tradition about the fly-agaric traces back to a sing
 
 ## Twentieth-Century Literary Continuations
 
-The fly-agaric literary tradition persisted into the twentieth century, gaining new energy from the psychedelic revolution. Robert Graves, in The White Goddess (1948), drew connections between fly-agaric and various European mythological traditions, though his speculative approach was criticized by classical scholars. R. Gordon Wasson's identification of the [[fly-agaric-siberian-shamanic-practice]] for ethnographic details.
+The fly-agaric literary tradition persisted into the [[coleman-louis-savier-twentieth-century-maraicher]], gaining new energy from the psychedelic revolution. Robert Graves, in The [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]] (1948), drew connections between fly-agaric and various European mythological traditions, though his speculative approach was criticized by classical scholars. R. Gordon Wasson's identification of the [[fly-agaric-siberian-shamanic-practice]] for ethnographic details.
 
 ## Influence on Psychedelic Literature
 
-The fly-agaric literary tradition established narrative templates that would later be applied to psilocybin mushrooms and other psychedelics. Several key themes originated in the fly-agaric literature and persisted through the twentieth century: the idea that mushrooms offer access to hidden or ancient knowledge; the tension between their reputation as dangerous poisons and their potential as instruments of enlightenment; the association with altered body perception and size distortion; and the framing of indigenous mushroom use as evidence of a primordial psychedelic religion. These themes, first developed around the fly-agaric in the eighteenth and nineteenth centuries, were transferred almost wholesale to psilocybin mushrooms after Wasson's 1957 Life magazine article on Mexican mushroom ceremonies. The [[emcdda-psilocybin-mushroom-species-and-identification]] and [[amanita-muscaria-in-eastern-religions]] page explores some of these cross-cultural claims in greater detail.
+The fly-agaric literary tradition established narrative templates that would later be applied to [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] and other psychedelics. Several key themes originated in the fly-agaric literature and persisted through the twentieth century: the idea that mushrooms offer access to hidden or ancient knowledge; the tension between their reputation as dangerous poisons and their potential as instruments of enlightenment; the association with altered body perception and size distortion; and the framing of indigenous mushroom use as evidence of a primordial psychedelic religion. These themes, first developed around the fly-agaric in the eighteenth and nineteenth centuries, were transferred almost wholesale to psilocybin mushrooms after Wasson's 1957 Life magazine article on Mexican [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]]. The [[emcdda-psilocybin-mushroom-species-and-identification]] and [[amanita-muscaria-in-eastern-religions]] page explores some of these cross-cultural claims in greater detail.
 
 ## Modern Relevance
 
-The fly-agaric literary tradition remains relevant to contemporary psychedelic research and policy. The pattern of exaggeration and myth-making that Letcher identifies in the historical literature continues in modern discussions of psychedelics, where scientific findings are often overstated or selectively reported to support predetermined conclusions.
+The fly-agaric literary tradition remains relevant to contemporary [[mckenna-suppression-psychedelic-research-lsd-therapy]] and policy. The pattern of exaggeration and myth-making that Letcher identifies in the historical literature continues in modern discussions of psychedelics, where scientific findings are often overstated or selectively reported to support predetermined conclusions.
 
 Understanding this historical pattern of enthusiastic overinterpretation is valuable for anyone engaging with psychedelic science, whether as a researcher, therapist, policy maker, or interested layperson. The fly-agaric's literary history serves as a case study in how cultural desire for transcendent meaning can shape the interpretation of pharmacological evidence.
 
@@ -114,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -33,7 +33,7 @@ nematicidal properties, and culinary importance in Peruvian cuisine.
 The species is one of the most commercially significant *Tagetes*
 species due to its high essential oil yield (up to 2% dry weight),
 rich in ocimenone, dihydrotagetone, and tagetones. It is widely used
-in companion planting and biofumigation for pest and nematode control
+in [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] and biofumigation for pest and nematode control
 in agricultural systems.
 
 ## Taxonomy and Morphology
@@ -74,7 +74,7 @@ Single plant produces 2,000–10,000 seeds.
 Argentina, Chile. The name "huacatay" derives from Quechua.
 
 **Introduced range:** Widely naturalized in Europe, Africa, Asia,
-Australia, and North America. Invasive in parts of Australia,
+Australia, and [[psilocybin-north-america-pacific-northwest]]. Invasive in parts of Australia,
 eastern Africa, and India.
 
 **Habitat:** Roadsides, waste ground, cultivated fields, and disturbed
@@ -100,7 +100,7 @@ The essential oil of *T. minuta* is complex and chemotype-dependent:
 - **Coumarins:** Scopoletin and umbelliferone in aerial parts.
 
 **Chemotype variation:** At least four distinct chemotypes exist based
-on dominant oil components. South American accessions tend to be
+on dominant oil components. [[chiric-caspi-brunfelsia-south-american-hallucinogen]] accessions tend to be
 ocimenone-rich; some African populations are dihydrotagetone-dominant.
 
 ## Medicinal and Traditional Uses
@@ -123,7 +123,7 @@ in *ocopa* (roasted potato with spiced huacatay cheese sauce) and
 
 - **Biofumigation:** When incorporated as green manure, thiophene-rich
   tissues suppress soil-borne pathogens, nematodes, and weed seeds.
-  Used in organic farming rotations.
+  Used in [[coleman-deep-organic-farming-philosophy]] rotations.
 - **Nematicidal cover crop:** Root exudates and decomposing foliage
   are toxic to root-knot (*Meloidogyne*), lesion (*Pratylenchus*), and
   other plant-parasitic nematodes. Reduces populations by 60–90% when
@@ -134,11 +134,11 @@ in *ocopa* (roasted potato with spiced huacatay cheese sauce) and
   weed seed germination, reducing need for mechanical weed control.
 - **Essential oil crop:** Commercially cultivated in South Africa,
   India, and Argentina. Oil used in perfumery, flavoring, and as
-  natural pesticide. Attracts bees, butterflies, and beneficial
+  [[jadam-natural-pesticide-institute-and-research]]. Attracts bees, butterflies, and beneficial
   predatory insects (ladybugs, lacewings, parasitic wasps).
 ## See Also
 
-- [[symphytum-officinale]] — Comfrey, another dynamic accumulator for
+- [[symphytum-officinale]] — Comfrey, another [[nutrient-dynamic-accumulator-reference]] for
   permaculture systems
 - [[cymbopogon-citratus]] — Lemongrass, essential oil crop with similar
   insecticidal uses

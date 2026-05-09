@@ -1,6 +1,6 @@
 ---
 
-title: Organic Gardening Techniques (Geoff Hamilton)
+title: hamilton-geoffhamilton-nick-organic-gardening-companion-planting Techniques (Geoff Hamilton)
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -24,7 +24,7 @@ sources:
 
 # Organic Gardening Techniques (Geoff Hamilton)
 
-Practical techniques from Geoff Hamilton's organic gardening encyclopedia. Hamilton was a BBC Gardeners' World presenter and advocate of no-chemical gardening. This page covers techniques NOT already detailed in existing wiki pages. See [[composting-systems]] for composting methods, [[seed-starting-reference]] for propagation, [[greenhouse-design]] for protected growing, and [[orchard-management]] for fruit trees.
+Practical techniques from Geoff Hamilton's organic gardening encyclopedia. Hamilton was a BBC Gardeners' World presenter and advocate of no-chemical gardening. This page covers techniques NOT already detailed in existing wiki pages. See [[composting-systems]] for [[natural-farming-guide-composting-methods-and-techniques]], [[seed-starting-reference]] for propagation, [[greenhouse-design]] for protected growing, and [[orchard-management]] for fruit trees.
 
 ## The No-Dig Approach
 
@@ -43,7 +43,7 @@ Hamilton's core philosophy aligns with [[no-till-gardening-method]] but adds spe
 - Worm population increases dramatically (50+ per sq ft in established beds)
 - Water retention doubles compared to dug beds
 - Weed seeds that are buried stay dormant; surface-applied compost introduces few new weeds
-- Plant health improves as mycorrhizal networks remain undisturbed
+- Plant health improves as [[dighton-mycorrhizal-networks-carbon-transfer]] remain undisturbed
 
 ## Seasonal Calendar (UK Temperate — Adjust for Zone 7-8 by ~6 weeks)
 
@@ -93,7 +93,7 @@ Hamilton's core philosophy aligns with [[no-till-gardening-method]] but adds spe
 ### Onions and Garlic
 - **Sets vs. seed**: Sets are easier but varieties limited; seed gives wider choice
 - **Planting depth**: Just showing the tip above soil surface
-- **Onion fly**: Interplant with carrots (companion planting)
+- **Onion fly**: Interplant with carrots ([[comparison-companion-planting-reference-vs-jadam-monoculture-critique]])
 - **Harvest**: When tops fall over naturally — don't bend necks prematurely
 - **Curing**: Lay on dry ground or wire rack in sun for 2-3 weeks until skins rustle
 - **Storage**: Cool, dry, well-ventilated. Hang in mesh bags. Check monthly
@@ -102,7 +102,7 @@ Hamilton's core philosophy aligns with [[no-till-gardening-method]] but adds spe
 - **Indoor vs. outdoor**: Indoor varieties need heat; outdoor varieties bred for reliability
 - **Side shooting**: Remove all side shoots from cordon (indeterminate) varieties
 - **Feeding**: Start feeding when first truss sets fruit — high potash liquid feed (comfrey tea works well)
-- **Blight prevention**: Never wet foliage when watering; good air circulation; remove lower leaves as plants grow
+- **Blight prevention**: Never wet foliage when watering; good [[stamets-growing-room-air-circulation-co2-management]]; remove lower leaves as plants grow
 - **Green tomato ripening**: Wrap individually in newspaper, keep in cool dark place, or hang whole plant upside down indoors
 
 ## Organic Pest Management
@@ -120,7 +120,7 @@ Hamilton's core philosophy aligns with [[no-till-gardening-method]] but adds spe
 | Pest | Organic Control |
 |------|----------------|
 | Aphids | Ladybird attractants (calendula, dill); soap spray (1 tbsp liquid soap per gallon); blast with hose |
-| Slugs/snails | Beer traps; copper tape around pots; night patrol with torch; nematode biological control; encouraging hedgehogs |
+| Slugs/snails | Beer traps; copper tape around pots; night patrol with torch; nematode [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]; encouraging hedgehogs |
 | Cabbage white butterfly | Fine mesh netting (Enviromesh); companion plant with sage, thyme, rosemary |
 | Carrot fly | Companion plant with onions; surround bed with 2-foot barrier of fine mesh; harvest by torchlight |
 | Codling moth | Pheromone traps; grease bands on tree trunks; encourage tits (nest boxes) |
@@ -144,16 +144,6 @@ See [[companion-planting-reference]] for full details. Hamilton's top combinatio
 - [[seed-starting-reference]] — Indoor and outdoor propagation
 - [[greenhouse-design]] — Protected growing structures
 - [[orchard-management]] — Fruit tree care
-- [[mulching-guide]] — Mulch types and application
-- [[no-till-gardening-method]] — Minimum disturbance soil management
-- [[weed-management-strategies]] — Weed ecology and control
-- [[seasonal-planning]] — Monthly task calendar
-- [[soil-fertility-management]] — Organic soil management
-- [[cover-cropping-guide]] — Green manures and cover crops
-- [[organic-soil-management]] — Detailed soil care phases and conditioners
-- [[organic-greenhouse-gardening]] — Greenhouse growing, heating, and pest management
-- [[organic-herb-gardening]] — Herb classification, propagation, harvesting, and preserving
 ## Related
 
 - [[geoff-hamilton]]
-

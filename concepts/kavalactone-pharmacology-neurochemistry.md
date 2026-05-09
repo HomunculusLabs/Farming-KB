@@ -2,7 +2,7 @@
 
 ## Overview
 
-Kava ([[kavalactones]]es]]es]]** (or kavapyrones), which constitute approximately 3–20% of the dry root weight. At least 18 distinct kavalactones have been identified, with six major compounds accounting for roughly 95% of the total lactone content.
+Kava (** (or kavapyrones), which constitute approximately 3–20% of the dry root weight. At least 18 distinct kavalactones have been identified, with six major compounds accounting for roughly 95% of the total lactone content.
 
 ## Major Kavalactone Compounds
 
@@ -12,7 +12,7 @@ The six principal kavalactones, often abbreviated by a standardized numbering sy
 
 2. **Dihydrokavain (DHK)** — The hydrogenated analog of kavain. Contributes to sedative effects and has demonstrated anticonvulsant properties in animal models. Less potent than kavain at GABA-A receptor modulation.
 
-3. **Methysticin** — A methylenedioxy-substituted kavalactone with notable psychotropic effects. Inhibits monoamine oxidase B (MAO-B) at micromolar concentrations, potentially contributing to mood-elevating effects. Also shows significant P450 [[psilocybin-clinical-trials]]ials and is standardized to 70% kavalactones from noble cultivar sources. The move toward chemotype-specified extracts represents an important quality control advancement over generic "kava root extract" products.
+3. **Methysticin** — A methylenedioxy-substituted kavalactone with notable psychotropic effects. Inhibits monoamine oxidase B (MAO-B) at micromolar concentrations, potentially contributing to mood-elevating effects. Also shows significant P450 ials and is standardized to 70% kavalactones from noble cultivar sources. The move toward chemotype-specified extracts represents an important quality control advancement over generic "kava root extract" products.
 
 ## [[ayahuasca-drug-interactions]] and Contraindications
 
@@ -103,3 +103,9 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+- [[turner-multiple-combinations-specific-reports]]
+- [[ingham-aact-disease-case-studies-specific-pathogens]]
+- [[ingham-aact-disease-suppression-through-food-competition]]
+- [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
+- [[jadam-local-material-resource-cycling]]

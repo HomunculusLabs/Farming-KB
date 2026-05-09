@@ -40,9 +40,9 @@ tested: Fusarium culmorum, [[ceratocystis-fimbriata]], and Trichothecium roseum.
 C. rosea is frequently found on decaying polypore sporocarps
 (bracket fungi), where it occurs alongside Calcarisporium
 arbuscula, Rhinotrichella globulifera, Gliocladium viride, and G.
-polyporicola (Gams 1971). These fungal communities on decaying
+polyporicola (Gams 1971). These [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] on decaying
 wood represent important reservoirs of C. rosea inoculum in
-forest ecosystems and contribute to wood decomposition processes.
+forest ecosystems and contribute to [[fungal-wood-decomposition-spatial-variation]] processes.
 
 ### Selective Isolation
 C. rosea is selectively isolated from soil using medium with
@@ -59,7 +59,7 @@ known, capable of attacking diverse fungal hosts across multiple
 ecological niches. Its ability to overgrow toxin-producing fungi,
 colonize sclerotia at depth, and parasitize both soil-borne and
 foliar pathogens makes it a valuable biocontrol agent with broad
-applicability in integrated disease management programs across
+applicability in integrated [[plant-disease-management-solomon]] programs across
 agricultural and horticultural systems.
 
 ## See Also
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

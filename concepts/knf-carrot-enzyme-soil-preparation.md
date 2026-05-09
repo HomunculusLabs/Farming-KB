@@ -1,5 +1,5 @@
 ---
-title: Carrot Enzyme Soil Preparation
+title: knf carrot enzyme soil preparation Soil Preparation
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
@@ -16,7 +16,7 @@ sources:
 
 The carrot enzyme soil fits within the broader KNF nursery system, which includes [[knf-indigenous-microorganism-culture]] application, [[knf-indigenous-microorganism-culture]] preparations. When IMO #4 is used as the base soil in seedling trays, applying diluted carrot enzyme as a top dressing introduces additional beneficial microorganisms and enzymes that stimulate root development. The combination produces seedlings that are notably more vigorous and disease-resistant than those grown in sterile commercial potting mixes.
 
-Master Cho emphasized that the enzyme should be applied at a dilution of approximately 1:500 (one part enzyme to five hundred parts water) for soil drenching. For foliar application on seedlings, a more dilute solution of 1:1000 is recommended to avoid leaf burn. The timing of application is also important: apply during the early morning or late evening when temperatures are moderate and the enzyme solution will not evaporate quickly.
+Master Cho emphasized that the enzyme should be applied at a dilution of approximately 1:500 (one part enzyme to five hundred parts water) for soil drenching. For [[ultra-low-cost-foliar-application-methods]] on seedlings, a more dilute solution of 1:1000 is recommended to avoid leaf burn. The timing of application is also important: apply during the early morning or late evening when temperatures are moderate and the enzyme solution will not evaporate quickly.
 
 ## See Also
 
@@ -101,4 +101,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

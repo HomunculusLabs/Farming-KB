@@ -12,14 +12,14 @@ sources:
   - Tryon, R.M. & Tryon, A.F. (1982). "Ferns and Allied Plants." Springer-Verlag.
   - Moran, R.C. (2004). "A Natural History of Ferns." Timber Press.
   - Farnsworth, E. et al. (2007). "Wild edible ferns of Asia." Economic Botany, 61(1), 1-15.
-  - Cheng, H.H. et al. (2016). "Nutritional composition of edible ferns." Journal of Food Science, 81(6), C1432-C1439.
+  - Cheng, H.H. et al. (2016). "[[dighton-fungal-nutritional-composition-animal-diets]] of edible ferns." Journal of Food Science, 81(6), C1432-C1439.
 ---
 
 ## Overview
 
 Diplazium esculentum (Retz.) Sw., commonly known as the vegetable fern, is an edible fern species in the family Athyriaceae.
 
-It is widely consumed as a vegetable across South and Southeast Asia, where it is known by numerous local names including pako (Philippines), ningro (India), and pucuk pakis (Indonesia).
+It is widely consumed as a vegetable across South and [[psilocybe-southeast-asia-pacific]], where it is known by numerous local names including pako (Philippines), ningro (India), and pucuk pakis (Indonesia).
 
 The young fronds are harvested as a seasonal vegetable prized for their crisp texture and mild, slightly astringent flavor.
 
@@ -67,7 +67,7 @@ The species typically grows in moist, shaded environments along stream banks, in
 
 It thrives in humid tropical lowlands from sea level to approximately 1,500 meters elevation.
 
-The fern prefers acidic to neutral, well-drained loamy soils rich in organic matter.
+The fern prefers acidic to neutral, well-drained loamy soils rich in [[hamilton-composting-and-organic-matter-management]].
 
 It is commonly found in secondary forests, disturbed areas, and alongside cultivated fields.
 

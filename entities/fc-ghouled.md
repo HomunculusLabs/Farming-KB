@@ -23,17 +23,17 @@ sources:
 
 # F.C. Ghouled
 
-Author of "Field Guide to the Psilocybin Mushroom" (1972), published by Guidance Publications, New Orleans. One of the earliest dedicated field guides for identifying psychoactive mushrooms in North America, produced during a period when reliable mycological information on psilocybin species was scarce.
+Author of "Field Guide to the [[emcdda-psilocybin-mushroom-dose-and-effects]]" (1972), published by Guidance Publications, New Orleans. One of the earliest dedicated field guides for identifying psychoactive mushrooms in North America, produced during a period when reliable mycological information on psilocybin species was scarce.
 
 ## Key Work
 
-The 1972 field guide covered three species common to North America: Psilocybe cubensis, Panaeolus subbalteatus, and Psilocybe caerulescens. The guide provided detailed morphological descriptions of all four growth stages of each species — a critical feature since the appearance of psilocybin mushrooms changes significantly as they mature. It included habitat information (cow pastures, manure-enriched soil, stream banks), temperature requirements (45-85°F), and practical identification tips emphasizing that only specimens growing on manure that turn blue when damaged and have hollow stems need be considered.
+The 1972 field guide covered three species common to North America: Psilocybe cubensis, [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]], and Psilocybe caerulescens. The guide provided detailed morphological descriptions of all four growth stages of each species — a critical feature since the appearance of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] changes significantly as they mature. It included habitat information (cow pastures, manure-enriched soil, stream banks), temperature requirements (45-85°F), and practical identification tips emphasizing that only specimens growing on manure that turn blue when damaged and have hollow stems need be considered.
 
 The guide featured four full color photographs and included a bibliography referencing [[r-gordon-wasson]] and other early ethnomycological researchers. The introduction noted that over 16 species of psilocybin mushrooms exist in North America, though only a few are common.
 
 ## Publication and Circulation
 
-Published by Guidance Publications, PO Box 15667, New Orleans, Louisiana 70175. The guide was obscure in its time — the Usenet poster who digitized it in 1994 noted that "I sincerely doubt that more than a handful of copies were ever sold and finding one in a bookstore nowadays is almost an impossibility." Despite its limited initial circulation, the guide was widely distributed in the early internet era when it was typed out and posted to the alt.drugs Usenet newsgroup in June 1994, making it one of the first psychedelic mushroom identification texts available online.
+Published by Guidance Publications, PO Box 15667, New Orleans, Louisiana 70175. The guide was obscure in its time — the Usenet poster who digitized it in 1994 noted that "I sincerely doubt that more than a handful of copies were ever sold and finding one in a bookstore nowadays is almost an impossibility." Despite its limited initial circulation, the guide was widely distributed in the early internet era when it was typed out and posted to the alt.drugs Usenet newsgroup in June 1994, making it one of the first psychedelic [[psilocybin-mushroom-identification-guide]] texts available online.
 
 ## Historical Context
 
@@ -48,8 +48,8 @@ The guide included a caution section noting that possession of psilocybin mushro
 - [[gaston-guzman]] — Mexican mycologist who brought scientific rigor to psilocybin identification
 - [[paul-stamets]] — Author of comprehensive modern psilocybin mushroom guides
 - [[edible-wild-mushrooms-by-region]] — Modern foraging reference
-- [[mushroom-identification]] — Identification methodology
-- [[psychedelic-mushroom-history]] — Cultural history of magic mushrooms
+- mushroom-identification — Identification methodology
+- [[psychedelic-mushroom-history]] — [[shroom-cultural-history-hippie-revolution-and-counterculture]] of magic mushrooms
 ## Practical Considerations
 
 When working with F.C. Ghouled, several practical factors should be
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: "Australian Psilocybe Species: Comprehensive Guide"
+title: "allen australian psilocybe species comprehensive guide Species: Comprehensive Guide"
 created: 2026-04-28
 tags: [psilocybin, australia, psilocybe, identification, distribution,
   taxonomy, guzman, watling, subaeruginosa, cyanescens, cubensis, allen]
@@ -11,9 +11,9 @@ type: concept
 
 # Australian Psilocybe Species: Comprehensive Guide
 
-More than a dozen species of "magic mushrooms" are known from Australia and
+More than a dozen species of "[[guzman-magic-mushrooms-african-species]]" are known from Australia and
 New Zealand. Four of these species are dung-inhabiting mushrooms:
-*Psilocybe cubensis* and/or *P. subcubensis* (known locally as "gold caps"
+*[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* and/or *P. subcubensis* (known locally as "gold caps"
 or "gold tops"), *Psilocybe subaeruginosa*, and *Copelandia cyanescens*
 (known locally as "blue meanies"). These four species contain the mind-altering
 alkaloids psilocybine and psilocine and are the most common hallucinogenic
@@ -75,7 +75,7 @@ Very similar to *P. cyanescens* Wakefield. Fruits in April.
 
 Found in NSW near Canberra, Tidbinbilla Nature Reserve; near Queanbeyan,
 Talaganda Forest Reserve; near Sydney, Mt. Wilson. Solitary on soil or in
-small groups amongst grassy woody debris, or among mosses in shallow groves
+small groups amongst grassy [[fungal-succession-woody-debris-ecology]], or among mosses in shallow groves
 of Eucalyptus forests. Exhibits an "intense bluing at the base of the
 stipe." Similar to *P. cyanescens* Wakefield. Fruits in April.
 
@@ -112,7 +112,7 @@ additional new Psilocybe species: *P. eucalypta*, *P. australiana*, and
 ## Non-Psychoactive Species Often Confused
 
 Several species are commonly mistaken for psychoactive mushrooms:
-*Panaeolina foenisecii* (probably not hallucinogenic), *Panaeolus antillarum*
+*[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]* (probably not hallucinogenic), *Panaeolus antillarum*
 (the "hysteria fungus," not truly hallucinogenic), *Psilocybe coprophila*
 (cosmopolitan but does not contain psilocybin), and *Psilocybe collybioides*
 (its identification in Australia is inexact and it probably only occurs in
@@ -122,7 +122,7 @@ Argentina).
 
 - [[allen-gymnopilus-and-other-psychoactive-genera]]
 - [[allen-psilocybin-potency-australian-species]]
-- [[allen-magic-mushrooms-australia-newzealand-species-guide]]
+- allen-magic-mushrooms-australia-newzealand-species-guide
 - [[psilocybe-heterophyllia]]
 - [[psilocybe-venenata]]
 - [[psilocybe-viridescens]]

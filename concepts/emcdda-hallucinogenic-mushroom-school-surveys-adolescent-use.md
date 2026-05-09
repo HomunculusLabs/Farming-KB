@@ -1,5 +1,5 @@
 ---
-title: "EMCDDA Hallucinogenic Mushroom School Surveys and Adolescent Use"
+title: "EMCDDA emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative School Surveys and Adolescent Use"
 created: 2026-04-28
 tags:
   - emcdda
@@ -34,7 +34,7 @@ mushroom use among students aged 15 to 16 years old across 27 countries.
 
 ### Lifetime Prevalence Range
 
-- Lifetime use of hallucinogenic mushrooms among 15 to 16 year olds ranged
+- Lifetime use of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] among 15 to 16 year olds ranged
   from 0% to 8% across surveyed countries.
 - The Czech Republic, Netherlands, France, and Belgium had the highest
   prevalence estimates.
@@ -43,7 +43,7 @@ mushroom use among students aged 15 to 16 years old across 27 countries.
 
 ### Comparison with Ecstasy
 
-A notable finding was that lifetime use of hallucinogenic mushrooms was equal
+A notable finding was that lifetime use [[health-risks-of-hallucinogenic-mushrooms]] was equal
 to or higher than lifetime use of ecstasy in nine of the surveyed countries.
 This challenged the assumption that ecstasy was the dominant hallucinogenic
 drug among European adolescents.
@@ -121,7 +121,7 @@ Several limitations affect the interpretation of school survey data on
 hallucinogenic mushrooms:
 
 - Historically, surveys collected data on general hallucinogen categories
-  rather than mushroom-specific questions, limiting trend analysis.
+  rather than mushroom-specific questions, limiting [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]].
 - Different countries may have used different question formulations or
   survey methodologies.
 - School surveys exclude young people not enrolled in school, who may have

@@ -1,5 +1,5 @@
 ---
-title: Amanita Muscaria in Eastern Religions
+title: Amanita [[allegro-amanita-muscaria-properties-and-pharmacology]] in eastern religions Religions
 created: 2026-04-19
 updated: 2026-04-18
 type: concept
@@ -9,7 +9,7 @@ tags: [amanita-muscaria, mycology]
 
 # Amanita Muscaria in Eastern Religions
 
-The Herb of Immortality source argues that [[amanita-muscaria-fly-agaric-history-and-pharmacology]] theory, first proposed by R. Gordon Wasson in "Soma: Divine Mushroom of Immortality" (1968), identifies the fly agaric as the original Soma plant.
+The [[amanita-muscaria-herb-of-immortality-soma-hypothesis]] source argues that [[amanita-muscaria-fly-agaric-history-and-pharmacology]] theory, first proposed by R. [[gordon-wasson-comparative-method-ethnomycology]] in "Soma: [[soma-controversy-fly-agaric-as-divine-mushroom]] of Immortality" (1968), identifies the [[amanita-muscaria-fly-agaric-history-and-pharmacology]] as the original Soma plant.
 
 The Herb of Immortality author extends Wasson's argument by providing:
 
@@ -20,7 +20,7 @@ The Herb of Immortality author extends Wasson's argument by providing:
 
 ### Vedic Preparation Descriptions
 
-The Rig Veda describes Soma as being:
+The [[rig-veda-soma-hymns-amanita-muscaria]] describes Soma as being:
 
 - Pressed or pounded from a plant
 - Filtered through wool

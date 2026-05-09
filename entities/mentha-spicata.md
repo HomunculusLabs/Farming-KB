@@ -27,7 +27,7 @@ sources:
 
 ## Overview
 
-**Mentha spicata**, commonly known as spearmint, is a species of flowering plant in the family Lamiaceae native to much of Europe and southern Asia but now naturalized worldwide. It is one of the most widely cultivated and commercially important mint species, valued for its carvone-dominant essential oil, culinary versatility, medicinal properties, and ease of cultivation. Unlike its close relative peppermint (*Mentha × piperita*), spearmint contains minimal menthol and is instead characterized by a sweet, mildly warm flavor with notes of caraway — a profile derived from its primary terpene, (−)-carvone. In permaculture and ecological design, spearmint serves as a vigorous ground cover, insectary plant, and companion planting ally, though its aggressive rhizomatous spread requires careful management in integrated garden systems.
+**Mentha spicata**, commonly known as spearmint, is a species of flowering plant in the family Lamiaceae native to much of Europe and southern Asia but now naturalized worldwide. It is one of the most widely cultivated and commercially important mint species, valued for its carvone-dominant essential oil, culinary versatility, medicinal properties, and ease of cultivation. Unlike its close relative peppermint (*Mentha × piperita*), spearmint contains minimal menthol and is instead characterized by a sweet, mildly warm flavor with notes of caraway — a profile derived from its primary terpene, (−)-carvone. In permaculture and [[williams-pdc-ecological-design-principles]], spearmint serves as a vigorous ground cover, insectary plant, and [[companion-planting]] ally, though its aggressive rhizomatous spread requires careful management in integrated garden systems.
 
 ## Taxonomy and Classification
 
@@ -46,7 +46,7 @@ sources:
 
 ### Nomenclatural Notes
 
-The taxonomy of *Mentha* is notoriously complex due to widespread hybridization, polyploidy, and vegetative propagation. *Mentha spicata* as currently circumscribed may represent an allopolyploid of hybrid origin, likely involving *M. longifolia* and *M. suaveolens* or *M. rotundifolia*. The name *M. spicata* has been applied inconsistently in the literature, with some authors distinguishing between "native spearmint" (*M. spicata* sensu stricto) and "Scotch spearmint" (*M. × gracilis*, a hybrid of *M. spicata* × *M. arvensis*), which is the primary commercial source of spearmint oil in North America.
+The taxonomy of *Mentha* is notoriously complex due to widespread hybridization, polyploidy, and vegetative propagation. *Mentha spicata* as currently circumscribed may represent an allopolyploid of hybrid origin, likely involving *M. longifolia* and *M. suaveolens* or *M. rotundifolia*. The name *M. spicata* has been applied inconsistently in the literature, with some authors distinguishing between "native spearmint" (*M. spicata* sensu stricto) and "Scotch spearmint" (*M. × gracilis*, a hybrid of *M. spicata* × *M. arvensis*), which is the primary commercial source of spearmint oil in [[psilocybin-north-america-pacific-northwest]].
 
 ## Botanical Description
 
@@ -120,15 +120,15 @@ Spearmint has been used medicinally for millennia across multiple cultures:
 
 ### Modern Pharmacological Evidence
 
-- **Digestive health:** Clinical studies support the use of spearmint for relieving dyspepsia, nausea, and irritable bowel syndrome (IBS) symptoms. The carvone content has demonstrated antispasmodic activity on smooth muscle, reducing intestinal cramping. A 2016 randomized controlled trial found that spearmint tea significantly reduced nausea severity in postoperative patients compared to placebo.
-- **Hormonal effects:** Notably, spearmint has been studied for its anti-androgenic properties. Regular consumption of spearmint tea (2 cups daily for 30 days) has been shown in clinical trials to significantly reduce free testosterone levels and increase LH and FSH in women with hirsutism and polycystic ovary syndrome (PCOS). This effect is attributed to the phenolic compounds (particularly rosmarinic acid) rather than the essential oil components.
-- **Antimicrobial activity:** The essential oil exhibits broad-spectrum antibacterial and antifungal activity, with documented efficacy against *Staphylococcus aureus*, *Escherichia coli*, *Candida albicans*, and *Aspergillus niger*. Minimum inhibitory concentrations (MICs) typically range from 0.5–4 mg/mL depending on the organism.
+- **Digestive health:** Clinical studies support the use of spearmint for relieving dyspepsia, nausea, and [[blesching-cannabis-irritable-bowel-syndrome]] syndrome (IBS) symptoms. The carvone content has demonstrated antispasmodic activity on smooth muscle, reducing intestinal cramping. A 2016 randomized controlled trial found that spearmint tea significantly reduced nausea severity in postoperative patients compared to placebo.
+- **Hormonal effects:** Notably, spearmint has been studied for its anti-androgenic properties. Regular consumption of spearmint tea (2 cups daily for 30 days) has been shown in [[mushroom-cancer-clinical-trials-overview]] to significantly reduce free testosterone levels and increase LH and FSH in women with hirsutism and polycystic ovary syndrome (PCOS). This effect is attributed to the phenolic compounds (particularly rosmarinic acid) rather than the essential oil components.
+- **Antimicrobial activity:** The essential oil exhibits broad-spectrum antibacterial and antifungal activity, with documented efficacy against *Staphylococcus aureus*, *Escherichia coli*, *[[candida-albicans]]*, a aspergillus niger iger*. Minimum inhibitory concentrations (MICs) typically range from 0.5–4 mg/mL depending on the organism.
 - **Anti-inflammatory and antioxidant:** In vitro studies demonstrate significant free radical scavenging activity, attributed primarily to rosmarinic acid and the flavonoid fraction. Anti-inflammatory effects have been documented in carrageenan-induced paw edema models in rats.
 - **Respiratory:** The mild expectorant and decongestant properties of spearmint make it useful for relieving cold symptoms, sinus congestion, and mild bronchial irritation. The 1,8-cineole content contributes to mucolytic activity.
 
 ## Culinary Uses
 
-Spearmint is one of the most versatile culinary herbs, used globally across numerous cuisines:
+Spearmint is one of the most versatile [[holzer-medicinal-and-culinary-herbs-compendium]], used globally across numerous cuisines:
 
 - **Middle Eastern and Mediterranean:** Essential ingredient in tabbouleh, fattoush, and other Levantine salads; paired with lamb in kofta and kibbeh; used in yogurt sauces (tzatziki variations)
 - **South and Southeast Asian:** Key component of chutneys, raita, and biryani garnishes in Indian cuisine; used in Vietnamese spring rolls and Thai salads
@@ -143,4 +143,4 @@ Spearmint is one of the most versatile culinary herbs, used globally across nume
 
 - [[mentha-pulegium]] — pennyroyal, a more toxic mint species
 - [[rosmarinus-officinalis-entity]] — rosemary, Lamiaceae companion plant
-- [[calendula-officinalis]] — another insectary plant commonly used in permaculture guilds
+- [[calendula-officinalis]] — another insectary plant commo [[urban-permaculture-guilds-plant-stacking]] lture guilds

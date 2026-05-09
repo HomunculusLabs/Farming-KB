@@ -19,7 +19,7 @@ type: concept
 
 Fukuoka's "Farming for All" program is his most ambitious social vision — a call for the
 revival of villages where people can return to the original form of nature and enjoy genuine
-happiness. It extends far beyond agriculture into a comprehensive critique of modern
+happiness. It extends far beyond agriculture into a comprehensive [[fukuoka-road-critique-of-modern-science]]
 civilization, economics, law, and the human relationship with nature.
 
 ## The Cultural Diagnosis
@@ -42,7 +42,7 @@ People, feeling shackled by laws and stratospheric land prices, view the possibi
 ownership as hopeless, but there is plenty of land to be had. The mountains, forests, and
 other wilderness land that accounts for about eighty percent of Japan's land area is tied up
 by titles and laws that prevent its practical use. Even a small portion of this area freed for
-use as agricultural land would allow [[cho-imo-collection-bamboo-stump-and-paddy-field]] and vegetable
+use as [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] would allow [[cho-imo-collection-bamboo-stump-and-paddy-field]] and vegetable
 gardens, they raised rice, barley, and other grains, as well as [[fukuoka-textdoc-farming-for-all-mu-economy]]
 
 - [[fukuoka-mu-economics-and-value-of-nothing-essay]]
@@ -62,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,3 +105,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[fukuoka-road-farming-for-kings-and-clergy]]

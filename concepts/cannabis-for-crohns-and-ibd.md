@@ -1,15 +1,15 @@
 ---
-title: Cannabis for Crohn's Disease and Inflammatory Bowel Disease
+title: Cannabis for Crohn's Disease and blesching-cannabis-inflammatory-bowel-disease Disease
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis for Crohn's Disease and Inflammatory Bowel Disease
 
-Inflammatory bowel disease (IBD) primarily affects the gastrointestinal tract and is associated with chronic inflammation. Ulcerative colitis is a form of IBD that can affect other body parts. Crohn's disease, another form of IBD, is an autoimmune disorder affecting the GI tract. Irritable bowel syndrome (IBS) shares many symptoms but is classified separately.
+Inflammatory bowel disease (IBD) primarily affects the gastrointestinal tract and is associated with chronic inflammation. Ulcerative colitis is a form of IBD that can affect other body parts. Crohn's disease, another form of IBD, is an autoimmune disorder affecting the GI tract. [[blesching-cannabis-irritable-bowel-syndrome]] syndrome (IBS) shares many symptoms but is classified separately.
 
 ## Evidence-Based Confidence Level
 
@@ -45,7 +45,7 @@ An Italian meta-analysis (2010) of pre-clinical studies on cannabinoids and the 
 
 Research reveals that "psychiatric disorders, especially major depression, anxiety, and somatoform disorders, occur in up to 94% of patients with IBS." The mind-bowel axis is increasingly recognized as a significant factor in IBD/IBS etiology. International teams have demonstrated the significant therapeutic potential of belief/placebo in relieving IBS symptoms.
 
-Possible contributing factors include stressful life events, infections by unidentified pathogens or toxins, immune dysfunction, and unhealthy gut environment.
+Possible [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]] include stressful life events, infections by unidentified pathogens or toxins, immune dysfunction, and unhealthy gut environment.
 
 ## Related Topics
 
@@ -55,7 +55,7 @@ Possible contributing factors include stressful life events, infections by unide
 
 ## Key Considerations
 
-While human clinical trials specifically for IBD are limited, the extensive presence of cannabinoid receptors throughout the gut and promising pre-clinical results support further investigation. Patients should continue conventional IBD/IBS treatments and discuss cannabinoid therapy with their gastroenterologist.
+While human [[mushroom-cancer-clinical-trials-overview]] specifically for IBD are limited, the extensive presence of cannabinoid receptors throughout the gut and promising pre-clinical results support further investigation. Patients should continue conventional IBD/IBS treatments and discuss cannabinoid therapy with their gastroenterologist.
 
 ## See Also
 
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

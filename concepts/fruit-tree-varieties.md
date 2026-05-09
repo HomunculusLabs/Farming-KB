@@ -25,7 +25,7 @@ sources:
 
 # Fruit Tree Varieties, Rootstocks, and Chill Hours
 
-Detailed variety recommendations for zone 7-8 homestead orchards, plus rootstock selection and chill hour guidance. See [[orchard-management]] for site selection, planting, pruning, pest management, and seasonal care.
+Detailed variety recommendations for zone 7-8 homestead orchards, plus rootstock selection and chill hour guidance. See [[orchard-management]] for [[fukuoka-creating-natural-farm-site-selection-establishment]], planting, pruning, [[cannabis-pest-management-guide]], and seasonal care.
 
 ## Fruit Tree Selection
 
@@ -59,7 +59,7 @@ Detailed variety recommendations for zone 7-8 homestead orchards, plus rootstock
 #### Peaches (500-900 chill hours)
 | Variety | Disease Resistance | Pollination | Use | Chill Hours |
 |---------|-------------------|-------------|------|-------------|
-| Reliance | Good cold hardiness | Self-fertile | Fresh/canning | 800-1000 |
+| Reliance | Good [[coleman-cold-hardiness-testing-ratings]] | Self-fertile | Fresh/canning | 800-1000 |
 | Contender | Good bacterial spot resistance | Self-fertile | Fresh | 900-1000 |
 | Redhaven | Moderate | Self-fertile | Fresh/canning | 800-900 |
 | Elberta | Moderate | Self-fertile | Canning | 800-900 |
@@ -112,10 +112,10 @@ Rootstocks determine tree size, precocity, disease resistance, soil adaptation, 
 | Rootstock | Size | Notes |
 |-----------|------|-------|
 | M9 (apple) | Dwarf (8-10') | Precocious, needs staking, fire blight susceptible |
-| Bud 9 (apple) | Dwarf (8-10') | More cold hardy than M9, better fire blight resistance |
+| Bud 9 (apple) | Dwarf (8-10') | More [[coleman-cold-hardy-varieties]] than M9, better fire blight resistance |
 | M7 (apple) | Semi-dwarf (12-15') | Well-anchored, good general-purpose |
 | MM106 (apple) | Semi-dwarf (12-15') | Good anchorage, susceptible to crown rot in wet soils |
-| MM111 (apple) | Semi-standard (15-18') | Good drought tolerance |
+| MM111 (apple) | Semi-standard (15-18') | Good [[dighton-fungal-drought-tolerance-plant-water-relations]] |
 | Antonovka (apple) | Standard (20-25'+) | Very cold hardy, disease resistant |
 | OHxF 333 (pear) | Semi-dwarf (12-15') | Good fire blight resistance |
 | Lovell (peach) | ~75% standard | Deep-rooted, good drought tolerance |
@@ -141,54 +141,9 @@ Rootstocks determine tree size, precocity, disease resistance, soil adaptation, 
 ## Chill Hours
 
 ### What They Are
-Accumulated hours at 32-45°F during dormancy that trigger budbreak and normal flowering.
-
-### Why They Matter
-- **Insufficient chill**: Delayed/irregular budbreak, reduced fruit set, poor quality
-- **Zone 7**: Typically 700-1200 chill hours
-- **Zone 8**: Typically 400-900 chill hours
-- **Zone 8b/coastal**: Can be as low as 200-400 hours
-
-### Selecting Varieties
-| Your Chill Hours | Select Varieties With |
-|------------------|----------------------|
-| 200-400 | 200-500 chill hours (low-chill) |
-| 400-600 | 400-700 chill hours |
-| 600-800 | 500-900 chill hours |
-| 800-1000 | 700-1100 chill hours |
-
-**Signs of insufficient chill**: Leaves emerge before flowers, sparse bloom, fruit set only on lower branches.
-
-
-## Understory Planting
-
-Integrate with [[companion-planting-reference]] and [[cover-cropping-guide]] principles. Creates living mulch, supports beneficial insects, cycles nutrients.
-
-### Key Plants
-- **Comfrey**: Deep taproot dynamic accumulator, chop-and-drop mulch 4-6x/season. See [[dynamic-accumulators]].
-- **Clovers** (white, red, crimson): Nitrogen fixer, attracts pollinators, fixes 50-150 lbs N/acre
-- **Yarrow**: Attracts lady beetles, parasitic wasps, lacewings
-- **Dill, fennel, cilantro**: Umbelliferous flowers attract predatory wasps
-- **Garlic/chives**: Repels some pests, edible
-- **Strawberries**: Ground cover, fruit, tolerates partial shade
-- **Herbs** (thyme, oregano, lemon balm): Low-growing, aromatic, beneficial insect habitat
-
-### Plants to Avoid
-- Black walnut (juglone toxicity)
-- Eucalyptus (allelopathic)
-- Mint (uncontained — will take over)
-- Bermuda grass (competes aggressively)
-- Heavy feeders (tomatoes, corn) near tree root zones
-
-### Establishment Timeline
-- **Year 1-2**: Keep 3-4' circle around trunk weed-free; plant understory beyond this zone
-- **Year 3-5**: Extend understory closer as tree establishes
-- **Mature trees**: Full understory possible, adjust for shade
-
-
 ## See Also
 
 - [[orchard-management]] — Site selection, planting, pruning, pest management, harvest
-- [[food-forest-design]] — Integrating fruit trees into food forest systems
+- [[food-forest-design]] — Integrating [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] into food forest systems
 - [[seasonal-planning]] — Monthly task calendar for the integrated homestead
 - [[plant-propagation-methods]] — Grafting techniques (see Rootstocks section above)

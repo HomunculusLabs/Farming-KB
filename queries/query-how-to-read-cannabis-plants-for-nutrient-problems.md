@@ -5,6 +5,7 @@ tags: [query, cannabis, nutrients, deficiency-diagnosis, plant-care]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---
@@ -24,12 +25,12 @@ The ability to diagnose nutrient problems by reading plant symptoms is one of
 the most valuable skills a cannabis grower can develop. Before reaching for any
 supplement or adjustment, the first step is always to rule out environmental
 factors. Temperature stress, light burn, overwatering, and pest damage can all
-produce symptoms that look remarkably similar to nutrient deficiencies. Checking
+produce symptoms that look remarkably similar to [[hamilton-nutrient-deficiencies-and-treatment]]. Checking
 pH, temperature, humidity, and watering habits before making nutrient
 corrections prevents the common mistake of adding more nutrients to a plant that
 is actually suffering from an environmental problem.
 
-The most important diagnostic principle is understanding nutrient mobility.
+The most important diagnostic principle is understanding [[cervantes-nutrient-mobility-deficiency-diagnosis]].
 Mobile nutrients, including nitrogen, phosphorus, potassium, and magnesium, can
 be relocated within the plant from older tissues to newer growth. When a mobile
 nutrient is deficient, the plant pulls it from its older, lower fan leaves to
@@ -42,7 +43,7 @@ dramatically.
 Nitrogen deficiency is the most common nutrient issue and presents as a uniform
 pale yellowing of older leaves that progresses upward. The yellowing typically
 starts at the leaf tips and moves inward along the margins. In severe cases,
-leaves become completely pale and may drop off. During the flowering stage, some
+leaves become completely pale and may drop off. During the [[cannabis-flowering-stage-management]], some
 degree of nitrogen depletion is normal and even desirable, as it encourages the
 plant to redirect energy toward bud production. However, excessive nitrogen loss
 during early flowering can reduce overall yield. The
@@ -51,9 +52,9 @@ covers nitrogen, phosphorus, and potassium issues in depth.
 
 Micronutrient problems require closer observation. Iron deficiency causes bright
 yellow new leaves with green veins, a condition called interveinal chlorosis.
-Manganese deficiency looks similar but affects slightly older leaves and may
-include small brown spots. Zinc deficiency produces shortened internodes, small
-leaf blades, and distorted growth at the branch tips. Boron deficiency causes
+[[query-how-to-fix-manganese-deficiency-in-cannabis]] looks similar but affects slightly older leaves and may
+include small brown spots. [[query-how-to-fix-zinc-deficiency-in-cannabis]] produces shortened internodes, small
+leaf blades, and distorted growth at the branch tips. [[query-how-to-fix-boron-deficiency-in-cannabis]] causes
 growing tips to die back and hollow, brittle stems. The
 [[cannabis-nutrient-lockout-and-ph]]. In soil,
 cannabis absorbs nutrients best between pH 6.0 and 7.0, with 6.3 to 6.8 being
@@ -92,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

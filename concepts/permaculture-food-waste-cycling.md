@@ -4,12 +4,13 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, compost, composting, nutrient-cycling, ecology, forage, design]
-sources: []
+sources:
+  sources: []
 ---
 
 # Permaculture Food Waste Cycling
 
-Food waste cycling transforms organic waste streams into valuable resources — compost, animal feed, soil amendments, and biogas. In permaculture, "produce no waste" means every output becomes an input for another element. Food waste cycling closes loops between household, garden, and animal systems, reducing external inputs and building soil fertility.
+Food waste cycling transforms organic waste streams into valuable resources — compost, animal feed, soil amendments, and biogas. In permaculture, "[[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]]" means every output becomes an input for another element. Food waste cycling closes loops between household, garden, and animal systems, reducing external inputs and building soil fertility.
 
 ## The Waste Hierarchy
 
@@ -17,8 +18,8 @@ Food waste cycling transforms organic waste streams into valuable resources — 
 2. **Feed to animals** — direct conversion of food scraps to eggs, meat, and manure
 3. **Compost** — biological decomposition into stable humus
 4. **Vermicompost** — worm-processed compost, higher in nutrients
-5. **Bokashi** — anaerobic fermentation for including meat and dairy
-6. **Biogas** — anaerobic digestion producing methane for cooking/heating
+5. **Bokashi** — [[jadam-anaerobic-fermentation-principles]] for including meat and dairy
+6. **Biogas** — [[biogas-digester-basics]] producing methane for cooking/heating
 
 ## Compost Systems
 
@@ -33,7 +34,7 @@ Hot composting achieves temperatures of 130-160°F (55-70°C), killing weed seed
 - Compost is finished when temperature stabilizes at ambient, material is dark and crumbly
 
 **Carbon sources (browns):** dry leaves, straw, wood chips, cardboard, paper, sawdust
-**Nitrogen sources (greens):** kitchen scraps, green plant material, manure, coffee grounds
+**Nitrogen sources (greens):** kitchen scraps, green plant material, manure, [[oyster-mushroom-coffee-grounds-cultivation]]
 
 ### Cold Composting
 Simple stacking of materials without active management. Slower (6-12 months) but requires less labor. Does not reliably kill weed seeds or pathogens. Suitable for non-critical applications like mulching perennial beds.
@@ -101,7 +102,7 @@ Sprouting grains increases protein, vitamin, and enzyme content:
 
 ## Bokashi Fermentation
 
-Bokashi is an anaerobic fermentation process originating from Japan that pre-digests organic waste using effective microorganisms (EM).
+Bokashi is an anaerobic fermentation process originating from Japan that pre-digests organic waste using [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]] (EM).
 
 ### Process
 1. Add food waste (including meat, dairy, cooked foods) to a sealed bokashi bucket
@@ -126,7 +127,7 @@ A complete food waste cycling system integrates multiple methods:
 1. Kitchen scraps sorted by type
 2. Meat/dairy/oils to bokashi or BSFL
 3. Vegetable scraps to compost or direct poultry feed
-4. Garden waste to compost, mulch, or poultry forage
+4. Garden waste to compost, mulch, or [[free-range-poultry-forage-design-mollison]]
 5. Compost and frass to garden beds
 6. Bokashi tea as liquid fertilizer
 7. Poultry manure and bedding back to compost

@@ -1,5 +1,5 @@
 ---
-title: Mescaline (Peyote & San Pedro) - The Essential Psychedelics Guide
+title: Mescaline (Peyote & gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch) - The turner-essential-psychedelics-5-meo-dmt-void-experience Guide
 created: 2026-04-26
 author: D.M. Turner
 sources: The Essential Psychedelics Guide (1994)
@@ -33,12 +33,12 @@ Peyote and San Pedro are New World psychedelics. Peyote was used throughout Mexi
 - **Earliest San Pedro depiction**: stone tablet in Peru, **1300 B.C.**
 - **Earliest Peyote ritual objects**: **500 B.C.**
 - **Peyote introduction to U.S./Canada**: late 1800s
-- **Native American Church founded**: 1918 (to preserve right to use Peyote)
+- **[[halpern-sacramental-peyote-and-native-american-church]] Church founded**: 1918 (to preserve right to use Peyote)
 - **Mescaline first extracted/isolated**: 1896 (first psychedelic compound extracted)
 - **Mescaline first synthesized**: 1919 (first psychedelic synthesized)
 - **The Doors of Perception**: 1953, Aldous Huxley brought mescaline to public attention
 
-Today, natives throughout North America still perform sacred Peyote rituals. In South America, shamans continue traditional San Pedro ceremonies associated with healing, imparting/counteracting witchcraft, and supernatural/divinatory powers.
+Today, natives throughout [[psilocybin-north-america-pacific-northwest]] still perform sacred Peyote rituals. In South America, shamans continue traditional San Pedro ceremonies associated with healing, imparting/counteracting witchcraft, and supernatural/divinatory powers.
 
 ## Sources
 

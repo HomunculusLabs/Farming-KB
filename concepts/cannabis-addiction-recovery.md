@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis for Addiction Recovery
 
-Cannabis occupies a unique and sometimes controversial position in the context of addiction medicine. The Cannabis Health Index documents evidence for cannabis as a potential tool in managing withdrawal from more harmful substances, while also acknowledging the importance of understanding cannabis's own addiction potential.
+Cannabis occupies a unique and sometimes controversial position in the context of addiction medicine. The [[blesching-cannabis-health-index-autoimmune-conditions]] documents evidence for cannabis as a potential tool in managing withdrawal from more harmful substances, while also acknowledging the importance of understanding cannabis's own addiction potential.
 
 ## Cannabis as a Harm Reduction Tool
 
@@ -56,7 +56,7 @@ The Cannabis Health Index acknowledges that cannabis can produce dependence, tho
 - Social environment
 
 ### The Subjective Therapeutic Window
-The Cannabis Health Index emphasizes the concept of the "subjective therapeutic window" -- the dose range at which therapeutic effects occur without adverse effects. This window is highly individual and can shift over time:
+The Cannabis Health Index emphasizes the concept of the "subjective therapeutic window" -- the dose range at which therapeutic effects occur without [[blesching-cannabis-safety-adverse-effects-evidence]]. This window is highly individual and can shift over time:
 - Too low a dose: No therapeutic benefit
 - Within the window: Therapeutic effects achieved
 - Above the window: Adverse effects including anxiety, cognitive impairment, and potential dependence
@@ -70,12 +70,12 @@ CBD has emerged as a particularly promising cannabinoid for addiction treatment 
 - **Anti-anxiety**: Reduces anxiety that triggers substance use
 - **Anti-craving**: May reduce cravings for multiple substances
 - **Neuroprotective**: May help repair neural damage from substance abuse
-- **Safety profile**: Well-tolerated with minimal side effects, making it suitable for vulnerable populations
+- **[[cannabis-safety-profile-and-overdose-risk]]**: Well-tolerated with minimal side effects, making it suitable for vulnerable populations
 
 ## Clinical Considerations
 
 ### When Cannabis May Help
-- Chronic pain patients seeking to reduce opioid use
+- [[cannabis-chronic-pain-management]] patients seeking to reduce opioid use
 - Individuals with alcohol use disorder seeking harm reduction
 - Patients with anxiety-related substance use
 - Those with insomnia related to substance withdrawal
@@ -98,7 +98,7 @@ CBD has emerged as a particularly promising cannabinoid for addiction treatment 
 ## Harm Reduction Principles
 
 For patients using cannabis in addiction recovery contexts:
-1. **Set clear intentions**: Define the therapeutic goal (e.g., pain management, sleep, anxiety reduction)
+1. **Set clear intentions**: Define the therapeutic goal (e.g., [[cannabis-pain-management-protocols]], sleep, anxiety reduction)
 2. **Use the minimum effective dose**: Stay within the subjective therapeutic window
 3. **Choose appropriate preparations**: CBD-dominant for daytime, balanced for evening, THC-dominant only if needed
 4. **Maintain recovery support**: Cannabis should complement, not replace, therapy, support groups, and healthy coping strategies

@@ -1,5 +1,5 @@
 ---
-title: "TM (4-TM; 4-THIOMESCALINE;) -- PIHKAL Entry #156"
+title: "TM (4-TM; 4-THIOMESCALINE;) -- 2c-b-pihkal-entry-20 #156"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -7,7 +7,7 @@ tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
 # TM
-PIHKAL entry #156. 4-TM; 4-THIOMESCALINE;.
+[[2c-b-pihkal-entry-20]] #156. 4-TM; 4-THIOMESCALINE;.
 
 ## Chemical Name
 
@@ -140,8 +140,6 @@ PIHKAL entry #156. 4-TM; 4-THIOMESCALINE;.
 > closed, I found the imagery to be very impressive, but my thought
 > processes were quite convoluted and disjointed. Some were most
 > interesting, and some were ugly. I cannot see this as a party drug.
-## Extensions and Commentary
-The dosage range has been broadened to
 ## See Also
 - [[pihkal-qualitative-effects-themes]]
 - [[greg-green-temperature-and-humidity-control]]

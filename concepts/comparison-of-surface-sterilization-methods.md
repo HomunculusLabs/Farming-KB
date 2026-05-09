@@ -1,5 +1,5 @@
 ---
-title: "Comparison Of Surface Sterilization Methods"
+title: "Comparison Of challenge-organisms-nasa-microwave-surface-sterilization-testing Methods"
 ---
 
 # Comparison of Surface Sterilization Methods
@@ -20,7 +20,7 @@ Autoclaving uses pressurized steam at 121°C (15 psi) for 15–60 minutes.
 
 ### Advantages
 - Minimal thermal impact — localized heating only
-- No chemical residues; penetrates elastomeric materials
+- No chemical residues; penetrates [[microwave-penetration-through-elastomeric-materials-sterilization]]
 - Can sterilize enclosed systems and complex geometries
 - Rapid (minutes); effective against all tested organisms with water
 
@@ -53,7 +53,7 @@ Choose the method based on the primary constraint:
 - **Heat-sensitive**: Microwave, UV, or H₂O₂ vapor
 ## See Also
 
-- [[microwave-microorganism-interaction-mechanisms]] — How microwaves
+- microwave-microorganism-interaction-mechanisms — How microwaves
   kill microorganisms
 - [[pressure-cooker-sterilization-of-grain-jars]] — Autoclaving in
   practice
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,4 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+- [[conventional-surface-sterilization-methods-limitations-comparison]]

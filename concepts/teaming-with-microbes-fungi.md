@@ -29,13 +29,13 @@ Special soil fungi establish symbiotic relationships with plant roots:
 Some fungi have evolved remarkable trapping mechanisms:
 - *Arthrobotrys dactyloides* creates three-cell rings that swell to trap nematodes in 1/10 second
 - The fungus releases chemicals that attract nematodes to its trap
-- *Pleurotus ostreatus* (oyster mushroom) emits toxic drops from hyphal tips
+- *Pleurotus ostreatus* ([[cotter-oyster-mushroom-cultivation]]) emits toxic drops from hyphal tips
 - Some fungi use adhesives to stick to and digest nematodes and even springtails
 
 ## Pathogenic Fungi
 
 The book acknowledges the destructive potential of pathogenic fungi:
-- Powdery mildew, botrytis, fusarium wilt, downy mildew, root rots, rusts
+- [[cervantes-powdery-mildew-prevention-treatment]], botrytis, fusarium wilt, [[cervantes-downy-mildew-fungal-blight]], root rots, rusts
 - In a healthy [[teaming-with-microbes-bacteria]], [[mycorrhizal-fungi]], [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 - [[teaming-with-microbes-soil-minerals-cation-exchange]]
 
@@ -43,7 +43,7 @@ The book acknowledges the destructive potential of pathogenic fungi:
 
 In compost systems, fungi are the primary decomposers of lignin and
 cellulose — the tough structural compounds that bacteria cannot efficiently
-break down. A compost pile dominated by fungal activity tends to be cooler,
+[[query-can-fungi-break-down-plastic-pollution]]. A [[mushroom-cultivator-compost-pile-management]] dominated by fungal activity tends to be cooler,
 slower-decomposing, and produces a more stable, humus-rich finished compost.
 This is the type of compost preferred for perennial plantings, shrubs, and
 trees. Bacterial-dominated compost, by contrast, decomposes quickly at
@@ -51,13 +51,14 @@ higher temperatures and is better suited for annual vegetables and grasses.
 
 The book emphasizes that most garden soils are bacterial-dominated due to
 tillage, fertilizer use, and disturbance. Shifting the balance toward more
-fungal biomass benefits perennial systems including orchards, food forests,
+[[bioremediation-fungal-biomass-biosorbent-material]] benefits perennial systems including orchards, food forests,
 and ornamental landscapes. Strategies to encourage fungi include reducing
 tillage, applying woody mulches, incorporating fungal-dominated compost,
 and avoiding high-nitrogen synthetic fertilizers that favor bacterial
 growth. Testing the fungal-to-bacterial ratio through direct microscopy
 or proxy methods provides a baseline for tracking soil biology improvements
 over time.
+
 ## Practical Considerations
 
 Successful implementation of Teaming with Microbes — Fungi requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

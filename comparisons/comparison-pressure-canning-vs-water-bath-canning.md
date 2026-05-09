@@ -1,5 +1,5 @@
 ---
-title: "Pressure Canning vs Water Bath Canning"
+title: "comparison pressure canning vs water bath canning vs Water water-bath-canning-guide"
 created: 2026-04-28
 tags: [comparison, food-preservation, canning, homesteading, safety]
 date: 2026-04-25
@@ -18,7 +18,7 @@ Fahrenheit (100 degrees Celsius), the boiling point of water at sea level,
 while pressure canning achieves temperatures of 240 to 250 degrees
 Fahrenheit through pressurized steam. This temperature difference determines
 which foods can be safely preserved by each method, with low-acid foods
-requiring the higher temperatures only a pressure canner can achieve to
+requiring the higher temperatures only a [[pf-tek-pressure-canner-sterilization]] can achieve to
 eliminate the risk of botulism.
 
 ## Pressure Canning
@@ -44,7 +44,7 @@ The limitation is that water bath canning cannot safely preserve low-acid
 foods. Attempting to can vegetables, meats, or unpickled foods in a water
 bath creates a serious botulism risk. This restricts the method to
 high-acid products and means that a separate pressure canner is needed for
-preserving the bulk of a vegetable garden harvest. Some recipes try to
+preserving the bulk of a [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] harvest. Some recipes try to
 safely extend the range through acidification, but these must be followed
 precisely and tested for safety.
 

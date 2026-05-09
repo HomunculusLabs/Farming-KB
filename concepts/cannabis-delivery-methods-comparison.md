@@ -1,11 +1,11 @@
 ---
-title: Cannabis Delivery Methods Comparison
+title: Cannabis cannabis delivery methods comparison Comparison
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis Delivery Methods Comparison
 
@@ -38,12 +38,12 @@ Cannabis may be administered through multiple routes, each with distinct pharmac
   - Delivers medicine to specific, isolated problem areas
   - No psychoactive effects (minimal systemic absorption)
   - Can be combined with other therapeutic herbs
-  - Safe for localized pain, inflammation, skin conditions
+  - Safe for localized pain, inflammation, [[cannabis-for-skin-conditions-detailed]]
 - **Disadvantages:**
   - Absorption rates may be less systematic than oral methods
   - Effects are more local than systemic
 - **Bases:** Hemp oil, almond oil, coconut oil (preferably virgin, organic)
-- **Preparation:** Cannabis tinctures or oils mixed with topical bases; also combined with spice plants containing (E)-beta-caryophyllene
+- **Preparation:** [[query-how-to-make-cannabis-tinctures-at-home]] or oils mixed with topical bases; also combined with spice plants containing (E)-beta-caryophyllene
 
 ## Pharmaceutical Delivery Methods
 
@@ -51,7 +51,7 @@ Cannabis may be administered through multiple routes, each with distinct pharmac
 - Standardized whole-plant cannabis extract (THC:CBD)
 - Each spray delivers 2.7mg THC and 2.5mg CBD
 - Self-titrating spray mechanism
-- Widely studied in clinical trials (especially for MS)
+- Widely studied in [[mushroom-cancer-clinical-trials-overview]] (especially for MS)
 
 ### [[nabilone]] (Cesamet)
 - Synthetic cannabinoid in capsule form
@@ -65,10 +65,10 @@ Cannabis may be administered through multiple routes, each with distinct pharmac
 | Long-lasting relief | Edibles | 4-8 hours duration |
 | Precise dosing | Sublingual tincture | Dropper measurement |
 | Localized pain | Topical cream | Direct application |
-| Avoid psychoactivity | Raw juice, topical | Non-psychoactive routes |
+| Avoid psychoactivity | [[cannabis-raw-juice-non-psychoactive]], topical | Non-psychoactive routes |
 | GI tract targeting | Suppository | Local rectal delivery |
 | Nighttime use | Edible or indica tincture | Long duration, sedating |
-| Daytime use | Vaporization | Short duration, easy control |
+| Daytime use | Vaporization | [[savory-short-duration-grazing-and-cell-systems]], easy control |
 
 ## Safety Note
 
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

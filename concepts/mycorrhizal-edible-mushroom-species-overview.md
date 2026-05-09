@@ -1,24 +1,16 @@
 ---
-title: Mycorrhizal Edible Mushroom Species Overview
+title: Mycorrhizal bloomfield-boletus-satanus-edible-mushroom-hazards Species Overview
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [[mycology, soil-biology, symbiosis]
+tags: [mycology, soil-biology, symbiosis]
 sources: [papers/symbiotic-fungi.md]
 ---
-# Mycorrhizal Edible Mushroom Species Overview
-
-Mycorrhizal edible mushrooms are fungi that form symbiotic associations with plant roots and produce edible fruiting bodies. This diverse group includes some of the world's most prized and expensive mushrooms, from truffles and porcini to chanterelles and matsutake, all of which remain dependent on wild harvest because they cannot be reliably cultivated.
-
-## Overview
-
-Mycorrhizal mushrooms represent a distinct category within edible fungi, fundamentally different from cultivated mushrooms like shiitake, oyster, and button mushrooms. While cultivated species are saprotrophs that grow on dead organic matter and can be produced on prepared substrates in controlled environments, mycorrhizal mushrooms require living host plants and the complex soil ecosystem surrounding their roots.
-
-This biological dependency has profound implications for their availability, economics, and conservation. Most mycorrhizal edible mushrooms can only be obtained through wild harvest, making them subject to the variability of natural fruiting patterns and the pressures of growing demand. See [[truffle-guide]], [[truffle-orchard-design-establishment]] for comprehensive truffle information.
+# Mycorrhizal Edible Mushroom Species Overview Mycorrhizal edible mushrooms are fungi that form symbiotic associations with plant roots and produce edible fruiting bodies. This diverse group includes some of the world's most prized and expensive mushrooms, from truffles and porcini to chanterelles and matsutake, all of which remain dependent on wild harvest because they cannot be reliably cultivated. ## Overview Mycorrhizal mushrooms represent a distinct category within edible fungi, fundamentally different from cultivated mushrooms like shiitake, oyster, and button mushrooms. While cultivated species are saprotrophs that grow on dead organic matter and can be produced on prepared substrates in controlled environments, mycorrhizal mushrooms require living host plants and the complex soil ecosystem surrounding their roots. This biological dependency has profound implications for their availability, economics, and conservation. Most mycorrhizal edible mushrooms can only be obtained through wild harvest, making them subject to the variability of natural fruiting patterns and the pressures of growing demand. See [[truffle-guide]], [[truffle-orchard-design-establishment]] for comprehensive truffle information.
 
 ### Desert Truffles (Terfezia, Tirmania, Kalaharituber)
 
-Desert truffles are hypogeous fungi found in arid and semi-arid regions of the Middle East, North Africa, and southern Africa. They differ from true truffles in their taxonomy, ecology, and host associations, typically partnering with desert shrubs rather than forest trees.
+Desert truffles are [[dighton-hypogeous-fungi-mammal-spore-dispersal]] found in arid and semi-arid regions of the Middle East, North Africa, and southern Africa. They differ from true truffles in their taxonomy, ecology, and host associations, typically partnering with desert shrubs rather than forest trees.
 
 Major species include Terfezia claveryi, Terfezia boudieri, Tirmania nivea, and Kalaharituber pfeilii. These species have been gathered as food for millennia by indigenous peoples and remain important seasonal food resources. See [[african-truffle-species]], and [[bolete-mushrooms-ecology-edibility]], [[porcini-commercial-market]], and [[chanterelle-guide]], [[cantharellus-tubaeformis]] for chanterelle information.
 
@@ -34,13 +26,15 @@ The genus Russula includes several excellent edible species such as Russula vesc
 
 Correct identification is essential, as many Russula species are acrid or peppery and some are toxic. The taste test is the primary field identification tool. See [[matsutake-mushroom]] and [[wild-mushroom-harvest-sustainability]] and [[truffle-cultivation-basics]] and [[ectomycorrhizal-ecology]]
 
-- [[edible-wild-mushroom-guide]]
+- edible-wild-mushroom-guide
 
 ## Related
 
+- [[bloomfield-boletus-satanus-edible-mushroom-hazards]]
+
 - [[mushroom-foraging-safety]]
 
-- [[mycoforestry-forest-management-with-fungi]]
+- mycoforestry-forest-management-with-fungi
 ## Practical Considerations
 
 When working with Mycorrhizal Edible Mushroom Species Overview, several practical factors should be
@@ -57,7 +51,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +93,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -18,7 +18,7 @@ DMT occurs naturally in many plant genera found in the Amazon, including Psychot
 
 ## Psychotria Viridis: The Ayahuasca Companion
 
-Psychotria viridis, known as chacruna in the Amazon, is the most commonly used DMT-containing plant in ayahuasca preparation. The leaves of this small shrub contain significant quantities of N,N-dimethyltryptamine, which is rendered orally active by the harmine in the Banisteriopsis caapi vine.
+Psychotria viridis, known as chacruna in the Amazon, is the most commonly used DMT-containing plant in [[harner-amazonian-ayahuasca-preparation-methods]]. The leaves of this small shrub contain significant quantities of N,N-dimethyltryptamine, which is rendered orally active by the harmine in the Banisteriopsis caapi vine.
 
 The use of Psychotria viridis in combination with Banisteriopsis caapi represents one of the most sophisticated pharmacological discoveries in human history. The Amazonian peoples who developed this combination had no knowledge of MAO enzymes or their role in the metabolism of tryptamines, yet they discovered, through centuries or millennia of experimentation, the precise combination of plants needed to create a powerful and long-lasting visionary experience.
 
@@ -32,7 +32,7 @@ The inclusion of Diplopterys in some ayahuasca recipes suggests a sophisticated 
 
 Several Amazonian tribes use the resin of Virola trees as a snuff. The resin, rich in DMT and 5-MeO-DMT, is mixed with the ashes of other plants (which may contain alkaloids that facilitate absorption through the nasal mucosa) and blown into the nostrils through long tubes.
 
-The Virola snuff tradition represents a parallel pharmacological tradition to ayahuasca — a different route of administration for the same class of compounds. The snuff produces a rapid, intense, and short-lived experience compared to the slow, gentle onset of ayahuasca. Different tribes have developed different preferences for different administration routes.
+The [[entheogen-virola-snuff-ethnobotany-chemistry]] tradition represents a parallel pharmacological tradition to ayahuasca — a different route of administration for the same class of compounds. The snuff produces a rapid, intense, and short-lived experience compared to the slow, gentle onset of ayahuasca. Different tribes have developed different preferences for different administration routes.
 
 ## Mimosa Tenuiflora: The Yurema
 
@@ -54,7 +54,7 @@ See also:
 
 ## Significance in Psychedelic Thought
 
-McKenna's work represents one of the most ambitious attempts to construct a comprehensive theory of the role of psychoactive plants in human history and culture. While academic anthropologists have been skeptical of many specific claims, his ideas have been enormously influential in psychedelic culture and continue to inspire research into the relationship between psychoactive substances and human consciousness. The concept of an Archaic Revival — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
+McKenna's work represents one of the most ambitious attempts to construct a comprehensive theory of the role of psychoactive plants in human history and culture. While academic anthropologists have been skeptical of many specific claims, his ideas have been enormously influential in psychedelic culture and continue to inspire research into the relationship between psychoactive substances and human consciousness. The concept of an [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]] — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
 
 ## See Also
 - [[mckenna-archaic-revival]]
@@ -66,7 +66,7 @@ This analysis is part of McKenna's larger project, articulated most fully in [[p
 
 ## Contemporary Relevance
 
-McKenna's ideas about the relationship between psychoactive plants and human consciousness have found new relevance in the context of the modern psychedelic renaissance. Research into psychedelic-assisted therapy, documented in [[psychedelic-therapy-mechanisms]], has demonstrated that substances like psilocybin can produce mystical-type experiences that have lasting positive effects on personality, well-being, and attitudes toward death. These findings lend some empirical support to McKenna's argument that psychoactive plants have played a significant role in shaping human consciousness and culture.
+McKenna's ideas about the relationship between psychoactive plants and human consciousness have found new relevance in the context of the modern psychedelic renaissance. Research into psychedelic-assisted therapy, documented in [[psychedelic-therapy-mechanisms]], has demonstrated that substances like psilocybin can produce mystical-type experiences that have lasting positive effects on personality, well-being, and [[weil-cultural-attitudes-toward-altered-states]] death. These findings lend some empirical support to McKenna's argument that psychoactive plants have played a significant role in shaping human consciousness and culture.
 ## Practical Considerations
 
 Successful implementation of McKenna on DMT in Amazonian Ecosystems requires attention to
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

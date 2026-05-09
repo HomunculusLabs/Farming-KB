@@ -1,5 +1,5 @@
 ---
-title: Hamilton Garden Planning and Site Assessment
+title: Hamilton Garden mollison-permaculture-two-zone-planning-and-site-layout Assessment
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Successful organic gardening begins with understanding your site — its soil, climate, exposure, and existing features. The US contains at least 32 distinct climatic regions, each with different growing conditions. Site assessment determines what you can grow, when to perform tasks, and how to manage the land.
+Successful [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] begins with understanding your site — its soil, climate, exposure, and existing features. The US contains at least 32 distinct climatic regions, each with different growing conditions. Site assessment determines what you can grow, when to perform tasks, and how to manage the land.
 
 ## Climatic Regions
 
@@ -45,15 +45,15 @@ Take a handful of soil and rub between finger and thumb:
 
 ### Soil Profile
 Dig a deep hole to identify three layers:
-1. **Topsoil**: darkest layer, contains organic matter and microorganisms; depth ranges from 2 inches (5 cm) to 6 feet (2 m) — the deeper the better
+1. **Topsoil**: darkest layer, contains [[hamilton-composting-and-organic-matter-management]] and microorganisms; depth ranges from 2 inches (5 cm) to 6 feet (2 m) — the deeper the better
 2. **Subsoil**: lighter color, low in nutrients, few microorganisms; affects drainage
 3. **Parent material**: original mineral rock, usually deep enough not to concern the gardener
 
 ### Soil Testing
-- **pH testing**: essential for all gardens; affects nutrient availability and plant selection
+- **pH testing**: essential for all gardens; affects [[ph-and-nutrient-availability-garden-soils]] and plant selection
 - **Professional soil analysis**: recommended for new gardens on virgin soil; sends sample to a lab for complete chemical makeup
 - **Annual pH testing** is sufficient once initial analysis is done
-- Request organic fertilizer recommendations when sending samples
+- Request [[complete-organic-fertilizer-cof-recipe-solomon]] recommendations when sending samples
 
 ### Soil Types and Their Management
 
@@ -85,7 +85,7 @@ Dig a deep hole to identify three layers:
 - Deep bed system: raises soil above surroundings, improves drainage and warming
 - Beds should be narrow enough to reach across without stepping on soil
 - Plan paths for year-round access, especially on heavy soils in wet weather
-- See [[hamilton-wildflower-meadow]] and [[hamilton-garden-pond-maintenance]] support wildlife and create microclimates
+- See [[hamilton-wildflower-meadow]] and [[hamilton-garden-pond-maintenance]] support wildlife and [[query-how-do-i-create-microclimates-in-my-garden]]
 - Construct ponds in spring
 - Include marsh plants, submerged oxygenators, and deep-water aquatics
 

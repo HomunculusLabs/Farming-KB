@@ -15,18 +15,18 @@ updated: 2026-04-28
 sources:
   - Ravindran, P.N., et al. (2004). "Chemistry and technology of Pimenta." In: Spices. CRC Press, pp. 427–452.
   - Leung, A.Y., Foster, S. (1996). Encyclopedia of Common Natural Ingredients Used in Food, Drugs, and Cosmetics. 2nd ed. Wiley.
-  - Marquez, L., et al. (2008). "Essential oil composition of Pimenta dioica from Jamaica." Journal of Essential Oil Research, 20(1), 31–34.
+  - Marquez, L., et al. (2008). "[[permaculture-designers-manual-essential-oil-plants]] composition of Pimenta dioica from Jamaica." Journal of Essential Oil Research, 20(1), 31–34.
   - Morton, J.F. (1981). "Atlas of Medicinal Plants of Middle America." Springer.
-  - Duke, J.A. (2002). Handbook of Medicinal Herbs. 2nd ed. CRC Press.
+  - Duke, J.A. (2002). Handbook of [[permaculture-plants-medicinal-herbs-healing]]. 2nd ed. CRC Press.
 ---
 
 ## Overview
 
 **Pimenta dioica** (L.) Merr., commonly known as allspice, pimento, or Jamaica
 pepper, is a tropical evergreen tree in the family Myrtaceae. Native to the
-Greater Antilles (particularly Jamaica) and parts of Central America, it is
+Greater Antilles (particularly Jamaica) and parts of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], it is
 cultivated for its dried unripe berries, which possess a unique flavor profile
-combining the aromas of cinnamon, nutmeg, clove, and black pepper — hence the
+combining the aromas of cinnamon, nutmeg, clove, and [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]] — hence the
 name "allspice."
 
 The species is the source of one of the most important spice commodities in
@@ -89,7 +89,7 @@ contains more methyleugenol.
 The eugenol content is responsible for allspice's clove-like aroma and much
 of its biological activity. Eugenol demonstrates antibacterial activity
 against oral pathogens (Streptococcus mutans, Porphyromonas gingivalis),
-antifungal activity against Candida albicans, and analgesic properties
+antifungal activity against [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], and analgesic properties
 mediated by TRPV1 receptor modulation.
 
 Additional compounds of interest include tannins (5–10%), quercetin and
@@ -132,7 +132,7 @@ income for 100+ years. In Jamaican coffee-growing regions, allspice trees
 serve as both shade canopy and supplementary cash crop.
 
 The dense evergreen canopy makes allspice useful as a windbreak and privacy
-screen in permaculture designs. Its drought tolerance once established, pest
+screen in permaculture designs. Its [[dighton-fungal-drought-tolerance-plant-water-relations]] once established, pest
 resistance, and longevity make it a low-maintenance, high-reward inclusion
 in food forest systems.
 ## See Also

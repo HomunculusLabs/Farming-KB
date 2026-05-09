@@ -15,7 +15,7 @@ sources:
   - Winston, D. & Maimes, S. (2007). Adaptogens: Herbs for Strength, Stamina, and Stress Relief. Healing Arts Press.
   - Panossian, A. & Wikman, G. (2010). "Effects of Adaptogens on the Central Nervous System." Current Clinical Pharmacology 5(2).
   - Bone, K. & Mills, S. (2013). The Principles and Practice of Phytotherapy. Churchill Livingstone.
-  - Duke, J. (2002). Handbook of Medicinal Herbs. CRC Press.
+  - Duke, J. (2002). Handbook of [[permaculture-plants-medicinal-herbs-healing]]. CRC Press.
   - Mao, J.J. et al. (2015). "Schisandra chinensis: a review of chemistry, pharmacology, and clinical applications." Chinese Journal of Natural Medicines 13(5).created: 2026-05-07
 type: comparison
 
@@ -44,7 +44,7 @@ Schisandra (*Schisandra chinensis*), ashwagandha (*Withania somnifera*), and rho
 | **Propagation** | Seed, cuttings, layering | Seed (direct sow) | Seed, division |
 | **Shade tolerance** | Partial shade preferred | Full sun required | Full sun to partial shade |
 | **Soil pH** | 5.5–7.0 (slightly acidic) | 6.5–7.5 (neutral to slightly alkaline) | 5.5–7.0 |
-| **Water needs** | Moderate; even moisture | Low–moderate; drought-tolerant once established | Low; excellent drought tolerance |
+| **Water needs** | Moderate; even moisture | Low–moderate; drought-tolerant once established | Low; excellent [[dighton-fungal-drought-tolerance-plant-water-relations]] |
 | **Market demand** | Growing; niche | High and established | Growing rapidly |
 | **Cultivation difficulty** | Moderate | Easy | Moderate–Hard |
 
@@ -64,7 +64,7 @@ Schisandra (*Schisandra chinensis*), ashwagandha (*Withania somnifera*), and rho
 
 ### Ashwagandha (*Withania somnifera*)
 
-**Site requirements:** Ashwagandha demands full sun and well-drained, sandy loam soils. It is extremely drought-tolerant once established and thrives in heat (25–35°C optimal). The plant is intolerant of waterlogged soils and heavy frost, making it effectively an annual crop in most of North America and Europe (grown from seed each spring).
+**Site requirements:** Ashwagandha demands full sun and well-drained, sandy loam soils. It is extremely drought-tolerant once established and thrives in heat (25–35°C optimal). The plant is intolerant of waterlogged soils and heavy frost, making it effectively an annual crop in most of [[psilocybin-north-america-pacific-northwest]] and Europe (grown from seed each spring).
 
 **Establishment:** Direct sow after last frost, 1 cm deep, 30–50 cm spacing. Germination in 10–15 days. Seed is the primary method — cuttings are possible but rarely used commercially. Pre-soaking seed in water for 24 hours improves germination.
 
@@ -95,7 +95,7 @@ Schisandra (*Schisandra chinensis*), ashwagandha (*Withania somnifera*), and rho
 | **Anti-stress** | Moderate — cortisol modulation | Strong — lowers cortisol, modulates HPA axis | Strong — reduces cortisol, enhances stress resilience |
 | **Cognitive enhancement** | Moderate — improves concentration | Moderate — nootropic via GABA modulation | Strong — enhances mental performance under fatigue |
 | **Liver protection** | Strong — hepatoprotective lignans | Moderate — antioxidant support | Moderate — general antioxidant |
-| **Immune modulation** | Moderate | Strong — immunomodulatory withanolides | Moderate — immune-stimulating |
+| **[[cancer-immune-modulation-mechanisms]]** | Moderate | Strong — immunomodulatory withanolides | Moderate — immune-stimulating |
 | **Sleep support** | Indirect — via stress reduction | Strong — mild sedative, GABAergic | Indirect — via stress reduction |
 | **Sexual health** | Strong — traditional use for both sexes | Strong — aphrodisiac, sperm quality | Moderate — fatigue-related libido improvement |
 | **Physical endurance** | Moderate | Moderate — improves VO2 max in studies | Strong — enhances exercise performance |
@@ -119,7 +119,7 @@ Schisandra (*Schisandra chinensis*), ashwagandha (*Withania somnifera*), and rho
 
 ## Summary: Which to Grow?
 
-**Grow Schisandra if:** You have a temperate climate (Zones 4–8), acidic forest soil, and space for a long-term perennial vine. Best suited for food forests and perennial herb gardens where you can provide a trellis and wait 3–5 years for returns. Highest value per plant for niche markets.
+**Grow Schisandra if:** You have a [[permaculture-designers-manual-temperate-climate-design]] (Zones 4–8), acidic forest soil, and space for a long-term perennial vine. Best suited for food forests and perennial herb gardens where you can provide a trellis and wait 3–5 years for returns. Highest value per plant for niche markets.
 
 **Grow Ashwagandha if:** You have a warm, sunny, well-drained site and want fast returns. Ideal for annual market garden rotations in Zones 8–11, or as a summer annual in cooler zones. Lowest barrier to entry with established market demand. Best option for commercial herb farming.
 
@@ -128,8 +128,10 @@ Schisandra (*Schisandra chinensis*), ashwagandha (*Withania somnifera*), and rho
 ## See Also
 
 - [[comparison-ashwagandha-vs-tulsi|Ashwagandha vs. Tulsi]]
-- [[mushroom-log-stump-cultivation-tree-species-guide|Stinging Nettle Cultivation]]
+- [[comparison-stinging-nettle-vs-horsetail]] Cultivation
 
 ## See Also
 
 - [[comparison-ashwagandha-vs-rhodiola-cultivation]]
+- [[schisandra-chinensis]]
+- [[stinging-nettle]]

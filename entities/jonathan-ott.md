@@ -32,8 +32,8 @@ Mexican-based ethnobotanist, pharmacognosist, and author. Coined the term "enthe
 ## Key Works
 
 - **"Pharmacotheon" (1993)** — A comprehensive reference on psychoactive plants and compounds, considered one of the most thorough pharmacological surveys of entheogenic substances ever published. The book catalogs hundreds of psychoactive plants with detailed chemistry, pharmacology, and ethnobotanical context.
-- **"Ayahuasca Analogues: Pegaamga"** — Extensive documentation of "ayahuasca analogs," plant combinations that replicate the DMT + MAOI pharmacology using different species than the traditional Amazonian Banisteriopsis caapi and Psychotria viridis. Ott identified numerous botanical sources of DMT and beta-carboline MAO inhibitors worldwide.
-- Co-author with [[jochen-gartz]] on magic mushroom research; acknowledged as a key expert consultant in Gartz's "Magic Mushrooms Around the World"
+- **"Ayahuasca Analogues: Pegaamga"** — Extensive documentation of "[[schultes-ayahuasca-analogs-dmt-plants]]," plant combinations that replicate the DMT + MAOI pharmacology using different species than the traditional Amazonian Banisteriopsis caapi and Psychotria viridis. Ott identified numerous [[dmt-botanical-sources-pharmacology]] of DMT and beta-carboline MAO inhibitors worldwide.
+- Co-author with [[jochen-gartz]] on magic mushroom research; acknowledged as a key expert consultant in Gartz's "[[guzman-magic-mushrooms-african-species]] [[fungi-around-the-world-species-distribution]]"
 - Translator of [[albert-hofmann]]'s "LSD: My Problem Child" into English, providing a preface from Vashon Island, Washington
 
 ## The Term "Entheogen"
@@ -53,7 +53,7 @@ The term "entheogen," proposed by [[r-gordon-wasson]] and Jonathan Ott, derives 
 - [[albert-hofmann]] — Discoverer of LSD and psilocybin; Ott translated his autobiography
 - [[jochen-gartz]] — Collaborator on magic mushroom research
 - [[terence-mckenna]] — Fellow second-generation ethnomycologist
-- [[psychedelic-mushroom-history]] — History of psychedelic mushroom research
+- [[psychedelic-mushroom-history]] — History of [[archaeology-of-psychedelic-mushroom-use]] research
 - [[entheogen-culture]] — Cultural context of sacred plant use
 ## Practical Considerations
 
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

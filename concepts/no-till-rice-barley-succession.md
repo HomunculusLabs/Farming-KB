@@ -20,9 +20,9 @@ type: concept
 
 # No-Till Rice-Barley Succession
 
-**No-till rice-barley succession** is the core cultivation method of [[natural-farming]] system. It involves growing rice and winter grain (barley or wheat) in continuous alternation on the same field without plowing, using clover as a living ground cover and [[clay-pellet-seed-balls]] containing rice seed are scattered over the straw before the New Year (mid-November to December). For high yields, hardy panicle-weight type varieties with erect leaves are preferred.
+**No-till rice-barley succession** is the core [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] of [[natural-farming]] system. It involves growing rice and winter grain (barley or wheat) in continuous alternation on the same field without plowing, using clover as a living ground cover and [[clay-pellet-seed-balls]] containing rice seed are scattered over the straw before the New Year (mid-November to December). For high yields, hardy panicle-weight type varieties with erect leaves are preferred.
 
-With the winter grain growing and the rice seed sown, there is now nothing left to do until the harvesting of the winter grain.
+With the winter [[jeavons-grain-growing-mini-farms]] and the rice seed sown, there is now nothing left to do until the harvesting of the winter grain.
 
 ### Spring: Barley Harvest and Flooding
 
@@ -34,7 +34,7 @@ After the barley harvest, the field is flooded for four to five days to weaken t
 
 ### Summer: Water Management
 
-In June and July, the field is left unirrigated. In August, water is run through the drainage ditches once every week to ten days. During the first half of the growing season, the rice grows well under conditions similar to upland rice cultivation. In the second half of the season, irrigation increases with plant growth.
+In June and July, the field is left unirrigated. In August, water is run through the drainage ditches once every week to ten days. During the first half of the [[savory-growing-season-and-non-growing-season-management]], the rice grows well under conditions similar to upland rice cultivation. In the second half of the season, irrigation increases with plant growth.
 
 Fukuoka did not hold standing water for more than five days at a stretch, maintaining about 80 percent soil moisture. Water management, consisting of irrigation and drainage, is the most important part of crop management in rice cultivation.
 
@@ -42,7 +42,7 @@ Fukuoka did not hold standing water for more than five days at a stretch, mainta
 
 Before starting no-till cultivation, drainage channels must be established. Two to three weeks before the rice harvest, a water outlet is cut through the levee and the field surface drained.
 
-After the rice harvest, drainage channels are dug at intervals of 12 to 15 feet across the field, about 8 inches deep and 8 inches wide. These provide sufficient drainage for good growth of green manure crops and barley even in a moist field. Once dug, these channels can be used for many years in both rice and barley cultivation.
+After the rice harvest, drainage channels are dug at intervals of 12 to 15 feet across the field, about 8 inches deep and 8 inches wide. These provide sufficient drainage for good growth of green manure crops and barley even in a moist field. Once dug, these channels can be used for many years in both rice and [[fukuoka-textdoc-barley-cultivation-three-stage-no-tillage-evolution]].
 
 ## Levee Maintenance
 
@@ -68,7 +68,7 @@ Strong, healthy grain tolerates fresh straw without disease problems. Although i
 
 Fukuoka noted that releasing ten ducklings per quarter-acre onto the field when the rice seedlings become established could replace fertilization entirely. The ducks weed, pick off insects, and turn the soil.
 
-This represents an alternative to chicken manure application, integrating animal husbandry with grain production in a way that mirrors natural ecosystem processes.
+This represents an alternative to chicken manure application, integrating animal husbandry with [[fukuoka-no-till-grain-production-method]] in a way that mirrors natural [[fungal-ecosystem-processes-overview]].
 
 ## Alternative Configurations
 

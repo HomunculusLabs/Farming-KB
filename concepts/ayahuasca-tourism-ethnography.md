@@ -1,5 +1,5 @@
 ---
-title: "Ayahuasca Tourism Ethnography"
+title: "stuart-r-ayahuasca-tourism-cautionary-ethnography Ethnography"
 tags:
   - ayahuasca
   - ethnography
@@ -21,13 +21,13 @@ type: concept
 
 # [[banisteriopsis-caapi]] vine and [[diplopterys-cabrerana]] alternative), has been used for centuries in healing rituals, divination, and community ceremonies.
 
-In Peru, ayahuasca occupies a unique legal and cultural position. Unlike the United States, where the brew exists in a legal grey area regulated through religious exemptions (notably for the União do Vegetal and Santo Daime churches), Peruvians regard ayahuasca as an herbal tonic rather than an illegal drug. The government sponsors ayahuasca festivals, the brew and its raw materials are openly sold in markets, and even Peru's then president Alejandro Toledo participated in an ayahuasca ceremony. This permissive environment has made Peru the primary destination for ayahuasca tourism.
+In Peru, ayahuasca occupies a unique legal and cultural position. Unlike the [[dmt-containing-plants-united-states-halpern]], where the brew exists in a legal grey area regulated through religious exemptions (notably for the União do Vegetal and [[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]] churches), Peruvians regard ayahuasca as an herbal tonic rather than an illegal drug. The government sponsors ayahuasca festivals, the brew and its raw materials are openly sold in markets, and even Peru's then president Alejandro Toledo participated in an ayahuasca ceremony. This permissive environment has made Peru the primary destination for ayahuasca tourism.
 
 ## Western Spiritual Seeking and the Appeal of Shamanism
 
 Westerners have a long history of seeking alternative spiritual traditions when discontent with Judeo-Christian heritage. Each decade has seen a different focal point: Zen Buddhism among the Beats in the 1950s, Hindu gurus in the 1960s, cult movements in the 1970s, Tibetan Buddhism among New Agers in the 1980s, and shamanism in the 1990s and beyond. Ayahuasca tourism is the latest expression of this pattern, with North Americans and Europeans traveling to South America to find wisdom and experiences through indigenous practices.
 
-This spiritual tourism intersects with the broader entheogenic renaissance, where psychoactive plants are sought not merely for recreational use but for perceived healing, self knowledge, and spiritual growth. The exoticism of the Amazon setting amplifies the perceived authenticity of the experience, even when the reality may be more commercially mediated.
+This [[western-spiritual-tourism-chronology]] intersects with the broader entheogenic renaissance, where psychoactive plants are sought not merely for recreational use but for perceived healing, self knowledge, and spiritual growth. The exoticism of the Amazon setting amplifies the perceived authenticity of the experience, even when the reality may be more commercially mediated.
 
 ## Key Destinations and Tourism Models
 
@@ -44,7 +44,7 @@ The Shipibo town of San Francisco, reachable by taxi from Yarina near Pucallpa, 
 ### [[ayahuasca]] for the botanical and pharmacological properties of the brew
 - [[entheogen-culture]] for the study of psychoactive substances in spiritual contexts
 - cultural appropriation for frameworks analyzing the dynamics of cultural borrowing
-- metzner brazilian ayahuasca churches santo daime udv barquinia for the Brazilian syncretic ayahuasca church tradition
+- metzner [[metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism]] churches santo daime udv barquinia for the Brazilian syncretic ayahuasca church tradition
 - peru for the broader cultural and political context of the primary destination
 ## Practical Considerations
 
@@ -62,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

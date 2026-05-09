@@ -1,5 +1,5 @@
 ---
-title: Reductionist vs Holistic Science
+title: savory reductionist vs holistic science Science
 created: 2026-04-28
 tags: [research, science, paradigm, methodology, holism]
 date: 2026-04-25
@@ -16,14 +16,14 @@ long-hallowed procedures of scientific research. Modern science, which Savory ca
 reductionist, seeks by controlling all variables to reduce phenomena to a simple form
 for study. By contrast, [[savory-recovery-and-grazing-periods]] between
 defoliations. That knowledge plus twenty years of trial and error application led to
-the development of the biological planning used in Holistic Resource Management.
+the development of the biological planning used in [[savory-holistic-resource-management-animal-impact]] Management.
 
 ## Research Gaps and Needs
 
 In both farming and ranching, the HRM model indicates countless important but far less
 grandiose research challenges. Biological planning frequently calls for information about
 [[savory-weak-link-analysis]] in
-pest life cycles rather than merely attacking symptoms.
+pest [[bloomfield-rust-fungi-life-cycles-barberry-wheat]] rather than merely attacking symptoms.
 
 ## The Danger of Technological Nonsolutions
 
@@ -114,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

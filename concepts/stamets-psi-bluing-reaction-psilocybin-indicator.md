@@ -1,10 +1,10 @@
 ---
-title: Bluing Reaction in psilocybin Mushrooms
+title: field-guide-psilocybin-bluing-reaction-identification in forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc
 created: 2026-04-28
 tags: [chemistry, bluing, psilocin, identification, pharmacology]
 date: 2026-04-25
 updated: 2026-04-25
-sources: ["raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"]
+sources: sources: []
 type: concept
 ---
 
@@ -85,7 +85,7 @@ species that blue heavily tend to lose potency more rapidly during
 handling and storage. This has practical implications:
 
 - Fresh specimens are more potent than bruised ones
-- Careful harvesting techniques preserve alkaloid content
+- Careful [[water-harvesting-techniques-comparison]] preserve alkaloid content
 - Drying can arrest the enzymatic degradation process
 - Species like psilocybe-semilanceata that are low in psilocin
   and high in psilocybin have longer storage lives because they do
@@ -104,21 +104,21 @@ concentrations in cultivation substrates directly affected the
 psilocin content of psilocybe-cubensis mycelia, from 0.09% to 3.3%
 of dried mass. Higher psilocin content correlates with more intense
 bluing, but the relationship is not perfectly linear due to the
-complexity of enzymatic degradation pathways.
+complexity of enzymatic [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]].
 
 ## Recommendations
 
 Foragers and researchers should use the bluing reaction as one of
 several identification features, never as the sole criterion. The most
 reliable identification methods combine:
-- Spore print color (purplish brown for Psilocybe)
+- [[comparison-spore-print-collection-vs-spore-syringe-production]] color (purplish brown for Psilocybe)
 - Macroscopic features (cap shape, gill attachment, veil remnants)
-- Microscopic examination (spore morphology, cystidia)
+- [[fungal-microscopic-examination-mounting-media-techniques]] (spore morphology, cystidia)
 - Habitat and distribution knowledge
 - Bluing reaction (supportive but not definitive)
 
 ## See Also
 
 - [[psilocybin-bluing-reaction]]
-- [[mushroom-identification]] - comprehensive identification methods
+- mushroom-identification - comprehensive identification methods
 - Galerina - deadly species that may appear to blue

@@ -1,5 +1,5 @@
 ---
-title: PF TEK Mushroom Morphology and Lifecycle Stages
+title: PF TEK pleurotoid-mushroom-morphology-gilled-fungi and Lifecycle Stages
 tags:
   - pf-tek
   - psilocybe-cubensis
@@ -17,9 +17,9 @@ sources:
 # PF TEK Mushroom Morphology and Lifecycle Stages
 
 The PF TEK documentation provides detailed observations of the morphological
-stages that Psilocybe cubensis passes through during cultivation, from spore
+stages that [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] passes through during cultivation, from spore
 germination through mature sporulation. Understanding these stages is essential
-for proper timing of harvest, contamination identification, and overall
+for proper timing of harvest, [[mushroom-cultivation-contamination-troubleshooting]], and overall
 cultivation success.
 
 ## Spore Germination
@@ -31,7 +31,7 @@ spore viability. The first visible sign of germination is small white fuzzy
 spots appearing on the substrate.
 
 These spots quickly expand into cottony white growth and strandy rhizomorphs,
-which are the branching filaments of the mycelial network. The rhizomorphs are
+which are the branching filaments of the [[gadd-mycelial-network-dynamics]]. The rhizomorphs are
 thicker, rope-like strands that indicate vigorous and healthy colonization.
 Their presence is a positive sign that the mycelium is actively seeking
 nutrients and expanding through the substrate.
@@ -72,7 +72,7 @@ nutritional reserves, the fruiting cycle is triggered. This typically occurs
 within 2 weeks after surface colonization. The first visible signs of fruiting
 are tiny white pin-like structures called pins.
 
-These pins represent the earliest stage of mushroom formation and are the
+These pins represent the earliest stage of [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] and are the
 beginning of the reproductive phase. Following pinning, small round fungus
 growths appear that begin to turn yellow. These transitional structures
 develop into primordia.
@@ -85,7 +85,7 @@ optimal stage for harvest in terms of alkaloid potency per unit weight.
 
 The pinning process is the result of the mycelium sensing that it has
 exhausted its nutritional reserves in the immediate area and shifting from
-vegetative growth to reproductive mode. Environmental factors including
+vegetative growth to reproductive mode. [[duggar-mushroom-environmental-factors-temperature-moisture-light]] including
 humidity, light, and fresh air exchange all influence the timing and density
 of pin formation.
 

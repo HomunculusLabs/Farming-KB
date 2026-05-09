@@ -1,5 +1,5 @@
 ---
-title: Liberty Cap — Psilocybe semilanceata History and Biology
+title: Liberty Cap — guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution History and Biology
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Liberty Cap — Psilocybe semilanceata History and Biology
 
-The Liberty Cap (Psilocybe semilanceata) is the most widely distributed and commonly consumed psilocybin mushroom in the temperate world. Its name derives from the distinctive Phrygian bonnet shape of its cap, associated with the French revolutionaries who stormed the Bastille.
+The Liberty Cap (Psilocybe semilanceata) is the most widely distributed and commonly consumed [[emcdda-psilocybin-mushroom-dose-and-effects]] in the temperate world. Its name derives from the distinctive Phrygian bonnet shape of its cap, associated with the French revolutionaries who stormed the Bastille.
 
 ## Distribution and Habitat
 
@@ -19,7 +19,7 @@ Despite being thought of as "British," it actually grows in many temperate regio
 - Western Europe: Scandinavia to the Spanish Picos mountains
 - Eastern Europe: Czech Republic to Russia
 - North America: Pacific Northwest
-- Southern Hemisphere: New Zealand and Tasmania
+- [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]: New Zealand and Tasmania
 
 Contrary to popular wisdom, it is not coprophilic (dung-loving) but grows saprophytically upon the dead root cells of certain grasses.
 
@@ -39,17 +39,17 @@ The [[magic-mushrooms-british-underground]] began experimenting with native spec
 
 The delay can be attributed to the deep-rooted [[magic-mushrooms-british-underground]] of the late 1960s and 1970s.
 
-Unlike imported cannabis or synthesised LSD, the Liberty Cap was a native species — growing freely in British fields, connecting the psychedelic experience to the landscape itself.
+Unlike imported cannabis or synthesised LSD, the Liberty Cap was a native species — growing freely in British fields, connecting the [[leary-psychedelic-experience-bardo-mapping]] to the landscape itself.
 
 ## Modern Legal Status
 
 The legal status of Liberty Caps has fluctuated across jurisdictions. In Britain, fresh mushrooms were legal until the Drugs Act 2005, which closed a loophole that had permitted their sale.
 
-Across much of Europe, psilocybin mushrooms remain in a legal grey area or are explicitly prohibited.
+Across much of Europe, [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] remain in a legal grey area or are explicitly prohibited.
 
 The [[dutch-smart-shop-paddos-history]]
 
-- [[magic-mushroom-cultural-history]]
+- magic-mushroom-cultural-history
 - [[soma-and-the-sacred-mushroom-debate]]
 - [[global-psychedelic-mushroom-species-diversity]]
 - [[psychedelic-mushroom-set-and-setting]], who emerged as "one of the most original psychedelic thinkers since Gordon Wasson." For McKenna, mushrooms were not just a drug but a portal to a shamanic realm where "alien entities strained to impart information of quite possibly earth-shattering importance."
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

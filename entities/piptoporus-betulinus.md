@@ -2,14 +2,12 @@
 title: piptoporus betulinus
 created: 2026-04-28
 type: species
-tags: [[mycology, polypores, birch, piptoporus]
+tags: [mycology, polypores, birch, piptoporus]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 ---
-# Piptoporus betulinus
-
-Piptoporus betulinus, commonly known as the Birch Polypore or Razor Strop Fungus, is a distinctive bracket fungus found almost exclusively on birch trees. Historically significant as one of the earliest mushrooms used by humans, this species was famously found among the possessions of Otzi the Iceman, the 5,300-year-old mummy discovered in the Alps. Traditionally used for sharpening tools (hence "Razor Strop"), as a medicine, and even as a transportable fire-starting material, P. betulinus holds a unique place in ethnomycology. See fomitopsis-officinalis for another historically significant polypore and [[white-rot-fungi]] (e.g., [[agar]]ikon, another historically significant medicinal polypore; see fomitopsis-officinalis
+# Piptoporus betulinus Piptoporus betulinus, commonly known as the Birch Polypore or Razor Strop Fungus, is a distinctive bracket fungus found almost exclusively on birch trees. Historically significant as one of the earliest mushrooms used by humans, this species was famously found among the possessions of Otzi the Iceman, the 5,300-year-old mummy discovered in the Alps. Traditionally used for sharpening tools (hence "Razor Strop"), as a medicine, and even as a transportable fire-starting material, P. betulinus holds a unique place in ethnomycology. See fomitopsis-officinalis for another historically significant polypore and [[white-rot-fungi]] (e.g., agarikon, another historically significant medicinal polypore; see fomitopsis-officinalis
 - **Ganoderma applanatum** — Artist's Conk, another birch-associated bracket fungus; see [[ganoderma-lucidum]] — Reishi, comparison of medicinal polypores
 - laetiporus-sulphureus — Chicken of the Woods, edible bracket fungus
 - fomes-fomentarius — Tinder Conk, another birch polypore with fire-starting uses
@@ -64,7 +62,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -114,7 +112,7 @@ Building resilience into systems through diversity, redundancy, and
 adaptive capacity helps mitigate the impacts of these uncertainties.
 
 Knowledge gaps and the ongoing evolution of understanding mean that
-current best practices represent our current state of knowledge rather
+current [[knf-imo-diversity-and-best-practices]] represent our current state of knowledge rather
 than final answers. Practitioners should maintain intellectual humility
 and remain open to new information and approaches that may improve
 upon established methods. Continuous learning and observation are
@@ -142,4 +140,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

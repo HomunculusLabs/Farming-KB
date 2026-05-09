@@ -50,9 +50,9 @@ McKenna's analysis of sugar, slavery, and dominance remains relevant in the 21st
 - Sugar triggers dopamine-driven reward cycles functionally identical to those of addictive drugs, but its use is socially sanctioned
 - The suppression of cannabis and hemp served the economic interests of sugar-dependent industries
 - Dominator drugs (sugar, alcohol, caffeine, tobacco) stimulate the sympathetic nervous system, while partnership drugs (psychedelics, cannabis) stimulate the parasympathetic system
-- The [[psychedelic-therapy-current-research]].
+- The .
 
-The sugar-dominator analysis specifically has influenced scholars working at the intersection of political ecology and drug policy. By framing the legal status of psychoactive substances as a function of their compatibility with capitalist economic structures rather than their pharmacological danger, McKenna anticipated arguments that would later be developed by critics of the war on drugs and by researchers investigating the commercial determinants of health. His insistence that sugar is a drug has moved from the fringes toward mainstream acceptance as evidence of sugar's addictive properties has accumulated.
+The sugar-dominator analysis specifically has influenced scholars working at the intersection of political ecology and [[mckenna-modest-proposal-drug-policy-reform]]. By framing the [[ayahuasca-tourism-legal-status-by-country]] of psychoactive substances as a function of their compatibility with capitalist economic structures rather than their pharmacological danger, McKenna anticipated arguments that would later be developed by critics of the [[cervantes-war-on-drugs-statistics]] and by researchers investigating the commercial determinants of health. His insistence that sugar is a drug has moved from the fringes toward mainstream acceptance as evidence of sugar's addictive properties has accumulated.
 
 ## Related McKenna Topics
 
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

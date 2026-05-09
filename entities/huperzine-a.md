@@ -32,7 +32,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Huperzine A** is a naturally occurring sesquiterpene indole alkaloid and potent acetylcholinesterase inhibitor isolated from the club moss *Huperzia serrata* (Thunb. ex Murray) Trevis.
+**Huperzine A** is a naturally occurring sesquiterpene [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] and potent acetylcholinesterase inhibitor isolated from the club moss *Huperzia serrata* (Thunb. ex Murray) Trevis.
 
 It has been used for centuries in traditional Chinese medicine under the name **Qian Ceng Ta** (千层塔, "thousand-layer pagoda").
 
@@ -56,13 +56,13 @@ Huperzine A acts as a **reversible, competitive acetylcholinesterase (AChE) inhi
 
 Unlike many AChE inhibitors, huperzine A shows high selectivity for AChE over butyrylcholinesterase (BuChE), which reduces peripheral cholinergic side effects.
 
-It also exhibits **neuroprotective activity** through multiple mechanisms: NMDA receptor antagonism, reduction of oxidative stress via mitochondrial pathways, and attenuation of amyloid-beta-induced neurotoxicity.
+It also exhibits **neuroprotective activity** through multiple mechanisms: NMDA receptor antagonism, reduction of [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] via mitochondrial pathways, and attenuation of amyloid-beta-induced neurotoxicity.
 
 Animal studies demonstrate that huperzine A can reduce neuronal apoptosis, improve synaptic plasticity, and upregulate nerve growth factor (NGF) expression in the hippocampus.
 
 ## Effects and Dosage
 
-In human clinical trials, huperzine A has shown significant improvements in memory, cognition, and behavioral function in patients with Alzheimer's disease and vascular dementia.
+In human [[mushroom-cancer-clinical-trials-overview]], huperzine A has shown significant improvements in memory, cognition, and behavioral function in patients with Alzheimer's disease and vascular dementia.
 
 Common supplemental doses range from **50–200 μg/day**, typically divided into two doses taken with meals. Cognitive enhancement in healthy individuals has been reported at 50–100 μg/day.
 
@@ -88,15 +88,15 @@ Huperzine A is available as a **dietary supplement** in the United States, Canad
 
 It is classified as a prescription drug in China, where it is approved under the brand name **Shuangyiping** for the treatment of Alzheimer's disease.
 
-The compound is not scheduled under the Controlled Substances Act in any jurisdiction and is widely available through supplement retailers and online vendors.
+The compound is not scheduled under the Controlled [[controlled-substances-act-and-psychedelic-research]] in any jurisdiction and is widely available through supplement retailers and online vendors.
 
 ## Source Organism
 
-*Huperzia serrata* is an evergreen lycophyte in the family Lycopodiaceae, found in mountainous regions of southeastern China, India, Nepal, and Southeast Asia at elevations of 300–2700 m.
+*Huperzia serrata* is an evergreen lycophyte in the family Lycopodiaceae, found in mountainous regions of southeastern China, India, Nepal, and [[psilocybe-southeast-asia-pacific]] at elevations of 300–2700 m.
 
 The plant is slow-growing, taking 5–8 years to reach harvestable maturity, which contributes to supply constraints for natural huperzine A production.
 
-Huperzine A content in dried herb ranges from 0.03–0.12% by dry weight, with highest concentrations found in above-ground aerial parts harvested during the summer growing season.
+Huperzine A content in dried herb ranges from 0.03–0.12% by dry weight, with highest concentrations found in above-ground aerial parts harvested during the summer [[savory-growing-season-and-non-growing-season-management]].
 
 Cultivation programs in China and commercial extraction facilities have helped stabilize supply, though wild harvesting remains a significant source.
 

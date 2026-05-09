@@ -12,12 +12,12 @@ Updated: 2026-04-18
 
 Source: The Cannabis Grow Bible, Greg Green (Ch. 5, 6)
 
-Container selection directly impacts root health, plant size, watering frequency, and ultimately yield. Greg Green covers pot sizing as part of the indoor growing setup.
+Container selection directly impacts root health, plant size, watering frequency, and ultimately yield. Greg Green covers pot sizing as part of the [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]] setup.
 
 ## Container Types
 
 ### Standard Pots
-Plastic pots are the most common choice. They are inexpensive, lightweight, and available in many sizes. The main drawback is poor drainage compared to fabric pots.
+[[query-fabric-pots-vs-plastic-pots-vs-air-pots-for-cannabis]] are the most common choice. They are inexpensive, lightweight, and available in many sizes. The main drawback is poor drainage compared to fabric pots.
 
 ### Fabric Pots (Smart Pots)
 Fabric pots allow air pruning of roots, preventing the root circling that occurs in solid containers. This promotes a healthier root mass and better oxygen exchange. They dry out faster than solid pots, requiring more frequent watering.
@@ -37,7 +37,7 @@ Similar to fabric pots but with rigid plastic walls perforated with many small h
 
 ### By Growing Method
 - **SOG (Sea of Green)**: Smaller containers (1–2 gallon) since plants flower young and small
-- **ScrOG (Screen of Green)**: 3–5 gallon pots to support extended vegetative growth
+- **ScrOG ([[cannabis-screen-of-green-scrog-guide]])**: 3–5 gallon pots to support extended [[cannabis-vegetative-growth-stage]]
 - **Single large plant**: 5–10+ gallons for maximum root mass and plant size
 - See [[cannabis-transplanting-guide]] for transplanting solutions
 
@@ -48,9 +48,9 @@ Greg Green recommends transplanting seedlings through progressively larger conta
 1. Start seedlings in small containers or propagation cubes
 2. Transplant to a 1-gallon pot once established
 3. Move to final container (3–5+ gallons) once roots fill the intermediate pot
-4. Minimize transplant shock by watering well before and after
+4. Minimize [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]] by watering well before and after
 
-Transplant during the vegetative stage only — avoid transplanting during flowering, which causes significant stress.
+Transplant during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] only — avoid transplanting during flowering, which causes significant stress.
 
 ## Drainage
 
@@ -88,6 +88,8 @@ Smaller pots:
 A compromise is to start in a 1-gallon pot and move directly to the final container, skipping intermediate steps.
 
 ## Related
+
+- [[greg-green-container-and-pot-sizing]]
 
 - [[cannabis-transplanting-guide]] — detailed transplanting techniques
 - [[cannabis-soil-and-nutrients]] — soil for containers

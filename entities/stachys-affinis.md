@@ -62,7 +62,7 @@ The tubers have a thin, pale skin and crisp, white, juicy flesh.
 
 Stachys affinis is native to northern China, specifically the provinces of Hebei, Shandong, and Shanxi.
 
-It has been cultivated in China for centuries as a specialty root vegetable.
+It has been cultivated in China for centuries as a specialty [[fukuoka-western-root-vegetable-deficiency]].
 
 The species was introduced to France in the 1880s by a French missionary, Auguste Pailleux, who brought it from China.
 
@@ -110,15 +110,15 @@ The aerial parts of the plant are not consumed and have limited medicinal applic
 
 ## Cultivation
 
-Chinese artichoke is propagated exclusively by planting whole tubers or tuber segments in early spring.
+Chinese artichoke is propagated exclusively by planting whole tubers or tuber segments in [[coleman-overwintered-onions-and-early-spring-crops]].
 
 Tubers are planted 5–8 cm deep, 20–30 cm apart, in rows 40–50 cm apart.
 
-The plant prefers full sun to partial shade and regular moisture throughout the growing season.
+The plant prefers full sun to partial shade and regular moisture throughout the [[savory-growing-season-and-non-growing-season-management]].
 
 Growth is moderate, with the plant reaching full size by mid-summer.
 
-Tuber formation begins in late summer as day length shortens, continuing until the first frost.
+Tuber formation begins in late summer as [[coleman-winter-day-length-and-persephone-months]] shortens, continuing until the first frost.
 
 Harvest occurs in late autumn after the foliage has died back, typically 6–7 months after planting.
 

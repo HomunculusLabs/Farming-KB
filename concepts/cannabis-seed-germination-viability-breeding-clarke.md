@@ -11,7 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/robert-c-clarke-marijuana-botany-an-advan
 
 ## Seed Germination Basics
 
-Cannabis seeds are planted in spring and usually germinate in 3 to 7 days. The seedling emerges from the ground by pushing through the soil surface. Fresh seeds approach 100% viability, but this decreases with age, storage conditions, and handling. Seeds cannot be stored forever -- even under the best storage conditions, viability eventually declines.
+[[query-how-to-store-cannabis-seeds-for-long-term-viability]] are planted in spring and usually germinate in 3 to 7 days. The seedling emerges from the ground by pushing through the soil surface. Fresh seeds approach 100% viability, but this decreases with age, [[vegetable-storage-conditions-by-temperature-and-humidity]], and handling. Seeds cannot be stored forever -- even under the best storage conditions, viability eventually declines.
 
 ## Germination Conditions
 
@@ -68,24 +68,24 @@ Both fiber and drug production interfere with the natural cycle and block pathwa
 
 ### Sinsemilla Operations
 - Sinsemilla cultivation eliminates pollination entirely
-- Seed production requires separate controlled pollination events
+- Seed production requires separate [[cannabis-controlled-pollination-seed-production]] events
 - Pollen from a selected male plant is applied to specific pistillate plants
 - Resulting hybrid seed is stored for later planting
 
 ## Role of Seeds in Strain Preservation
 
-Because sexual propagation introduces variation, imported Cannabis strains usually exhibit great seedling diversity. To minimize variation and ensure preservation of desirable parental traits:
+Because [[cannabis-sexual-propagation-genetics]] introduces variation, imported Cannabis strains usually exhibit great seedling diversity. To minimize variation and ensure preservation of desirable parental traits:
 1. Careful selection of parent plants
 2. Controlled pollination techniques
 3. Systematic record-keeping of crosses
-4. Proper seed storage and viability monitoring
+4. Proper [[cannabis-seed-storage-and-viability]] viability monitoring
 5. Maintenance of backup seed collections
 
 The genetic diversity within imported seed populations is both a challenge (unpredictable offspring) and an opportunity (potential for discovering novel phenotypes).
 
 ## Related
 
-- [[cannabis-propagation-sexual-vs-asexual-clarke]] - Propagation methods overview
+- [[cannabis-propagation-sexual-vs-asexual-clarke]] - [[vegetative-propagation-methods-mollison]] overview
 - [[cannabis-seed-germination-methods]] - Modern germination methods
 - [[cannabis-fiber-vs-drug-strain-phenotypes-clarke]]
 - [[cannabis-resin-production-and-quality-traits-clarke]]

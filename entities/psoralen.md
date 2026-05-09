@@ -69,7 +69,7 @@ umbelliferone (7-hydroxycoumarin):
   psoralen
 
 **Major plant sources:**
-- *Ficus carica* (fig) — latex and leaf sap contain high concentrations
+- *[[permplant-fig-ficus-carica-fruit-tree]]* (fig) — latex and leaf sap contain high concentrations
 - *Ammi majus* (bishop's weed) — commercial source for medicinal psoralen
 - *Pastinaca sativa* (parsnip) — furanocoumarins in roots and foliage
 - *Citrus* spp. — peel oils contain bergamottin and related furanocoumarins
@@ -91,7 +91,7 @@ umbelliferone (7-hydroxycoumarin):
   edema, and bullous lesions appearing 24–48 hours after UVA exposure
 - Giant hogweed (*Heracleum mantegazzianum*) injuries are severe enough to
   cause permanent scarring and photosensitivity lasting months to years
-- **Drug interactions:** Furanocoumarins in grapefruit juice inhibit intestinal
+- **[[cannabis-drug-interactions-and-contraindications]]:** Furanocoumarins in grapefruit juice inhibit intestinal
   CYP3A4, increasing bioavailability of numerous medications (statins,
   immunosuppressants, benzodiazepines)
 
@@ -103,7 +103,7 @@ protection during treatment.
 
 - Psoralen and methoxsalen are unscheduled in most jurisdictions
 - Methoxsalen (8-MOP) is FDA-approved as a prescription drug for PUVA therapy
-- Sold as pharmaceutical under brand names Uvadex, Oxsoralen, and Meladinine
+- Sold as pharmaceutical under [[emcdda-brand-names-user-terms-smartshop-marketing]] Uvadex, Oxsoralen, and Meladinine
 
 ## Related Compounds
 

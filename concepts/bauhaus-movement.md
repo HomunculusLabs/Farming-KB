@@ -3,7 +3,7 @@ title: "bauhaus movement"
 created: 2026-04-28
 updated: 2026-05-06
 sources:
-  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
+  - "raw/papers/permaculture|permaculture-a-designers-manual-bill-mollison.md"
 tags: []
 type: concept
 ---
@@ -30,7 +30,7 @@ Laszlo Moholy-Nagy promoted photography, light, technology, and experimental med
 Josef Albers developed rigorous studies of color and material perception.
 Marcel Breuer designed influential tubular steel furniture.
 [[urban-permaculture-community-building-social-design]]
-- [[pdc-invisible-structures-and-social-design]]
+- pdc-invisible-structures-and-social-design
 ## Practical Applications
 
 bauhaus movement has a range of practical applications that make it relevant to
@@ -60,7 +60,7 @@ implementation. Careful attention to these factors improves outcomes
 and reduces the likelihood of common problems and setbacks.
 
 Environmental conditions play a particularly significant role in
-determining outcomes. Factors such as temperature, moisture, light
+[[det|det]]ermining outcomes. Factors such as temperature, moisture, light
 exposure, and seasonal timing can substantially affect results.
 Monitoring these conditions and adapting practices accordingly is
 a hallmark of experienced and effective practice in this area.
@@ -108,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

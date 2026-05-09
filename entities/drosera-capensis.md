@@ -22,7 +22,7 @@ sources:
 
 The species uses sticky glandular tentacles on its leaves to capture insects. When prey contacts the mucilaginous secretion, the tentacles slowly bend toward the prey over several minutes, entrapping it more firmly.
 
-Due to its ease of cultivation and prolific seed production, *Drosera capensis* has established invasive populations in parts of North America, Europe, New Zealand, and Australia. It is considered one of the most successful colonizing carnivorous plants.
+Due to its ease of cultivation and prolific seed production, *Drosera capensis* has established invasive populations in parts of [[psilocybin-north-america-pacific-northwest]], Europe, New Zealand, and Australia. It is considered one of the most successful colonizing carnivorous plants.
 
 ## Taxonomy and Morphology
 
@@ -34,7 +34,7 @@ The genus *Drosera* is one of the largest genera of carnivorous plants, with app
 
 The plant forms a basal rosette of lanceolate leaves, each five to fifteen centimeters long and approximately five millimeters wide. Leaves are green to reddish depending on light exposure and cultivar.
 
-Both surfaces of each leaf bear two types of glandular trichomes. Stalked tentacles at the leaf margins and lamina produce the sticky mucilage that captures prey. Sessile glands on the leaf surface secrete digestive **enzyme** compounds.
+Both surfaces of each leaf bear two types of glandular trichomes. Stalked tentacles at the leaf margins and lamina produce the sticky mucilage that captures prey. Sessile glands on the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] secrete digestive **enzyme** compounds.
 
 The mucilage droplets glisten in sunlight, creating an attractive display for flying insects. Each stalked tentacle can bend independently, allowing the plant to respond to multiple prey contacts simultaneously.
 
@@ -58,13 +58,13 @@ The trapping mechanism of *Drosera capensis* relies on adhesive mucilage produce
 
 When an insect contacts the mucilage, it becomes stuck. The tentacles surrounding the contact point undergo a thigmonastic bending response, moving toward the prey over a period of five to thirty minutes.
 
-This bending response is driven by rapid changes in cell turgor pressure on the tentacle's abaxial (outer) surface. The movement brings additional mucilage glands into contact with the prey, increasing the area of adhesion.
+This bending response is driven by rapid changes in cell [[bloomfield-turgor-pressure-and-hyphal-invasion]] on the tentacle's abaxial (outer) surface. The movement brings additional mucilage glands into contact with the prey, increasing the area of adhesion.
 
 After capture, the leaf blade itself may fold along its central axis to further envelop the prey. Digestive enzymes are secreted by sessile glands on the leaf surface, breaking down soft tissues over several days.
 
-Nutrient absorption occurs primarily through the sessile digestive glands on the leaf surface. Absorbed nitrogen and phosphorus are transported to growing meristems, supporting rapid vegetative growth and flower production.
+Nutrient absorption occurs primarily through the sessile digestive glands on the leaf surface. Absorbed nitrogen and phosphorus are transported to growing meristems, supporting rapid [[cannabis-vegetative-growth-stage]] and flower production.
 
-The mucilage is primarily composed of polysaccharides with adhesive and viscoelastic properties. It also contains secondary metabolites that may paralyze small prey through surfactant action on insect respiratory spiracles.
+The mucilage is primarily composed of polysaccharides with adhesive and viscoelastic properties. It also contains [[antifungal-secondary-metabolites-coprophilous-fungi]] that may paralyze small prey through surfactant action on insect respiratory spiracles.
 
 ## Bioactive Compounds
 
@@ -84,7 +84,7 @@ The species is propagated readily from seed, leaf cuttings, and root cuttings. U
 
 In its native range, *D. capensis* co-occurs with other carnivorous plants including *Drosera aliciae* and *D. trinervia*. The species occupies a similar ecological niche to **drosera-rotundifolia** in temperate regions.
 
-The plant contributes to **nitrogen** cycling in its native **wetland** habitats through prey capture and nutrient absorption. Stable isotope studies indicate that sundews can derive significant nitrogen from insect sources.
+The plant contributes to **nitrogen** cycling in its native **wetland** habitats through prey capture and nutrient absorption. [[fungal-stable-isotope-ecology]] studies indicate that sundews can derive significant nitrogen from insect sources.
 
 ## Conservation Status
 

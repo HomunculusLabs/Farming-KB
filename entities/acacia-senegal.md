@@ -39,9 +39,9 @@ created: 2026-04-28
 
 Acacia senegal (syn. Senegalia senegal) is a deciduous, leguminous tree native to the semi-arid Sahel region of Africa and the Indian subcontinent. It is the primary source of true gum arabic, one of the world's most important commercial gums, used extensively in food, pharmaceutical, and industrial applications.
 
-The tree is a keystone species in Sahelian agroforestry systems, valued for soil stabilization, nitrogen fixation, and provision of fodder, fuelwood, and gum in marginal agricultural environments. It forms a classic component of traditional parkland systems across Sudan, Senegal, and Niger.
+The tree is a keystone species in Sahelian agroforestry systems, valued for soil stabilization, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], and provision of fodder, fuelwood, and gum in marginal agricultural environments. It forms a classic component of traditional parkland systems across Sudan, Senegal, and Niger.
 
-A. senegal demonstrates exceptional drought tolerance, surviving in areas receiving as little as 100–400 mm of annual rainfall. Its deep taproot system can extend 5–10 meters below the surface, accessing groundwater unavailable to most crops.
+A. senegal demonstrates exceptional [[dighton-fungal-drought-tolerance-plant-water-relations]], surviving in areas receiving as little as 100–400 mm of annual rainfall. Its deep taproot system can extend 5–10 meters below the surface, accessing groundwater unavailable to most crops.
 
 ## Taxonomy and Morphology
 
@@ -77,9 +77,9 @@ Sustainability concerns have driven development of improved tapping and harvesti
 
 As a nitrogen-fixing legume, A. senegal contributes significantly to soil fertility in marginal environments. Its association with rhizobial bacteria enables atmospheric nitrogen fixation, enriching soils for intercropped cereals such as millet and sorghum.
 
-The tree's extensive root system stabilizes soils and reduces wind erosion, making it a critical component of desertification control programs across the Sahel. Fallen leaves contribute organic matter and nutrients to the soil surface.
+The tree's extensive root system stabilizes soils and reduces wind erosion, making it a critical component of desertification control programs across the Sahel. Fallen leaves contribute [[hamilton-composting-and-organic-matter-management]] and nutrients to the soil surface.
 
-In traditional parkland agroforestry systems, A. senegal is intercropped with pearl millet, groundnut, and cowpea. The tree's light canopy allows sufficient light penetration for understory crops while providing shade that reduces evapotranspiration and heat stress.
+In traditional parkland agroforestry systems, A. senegal is intercropped with pearl millet, groundnut, and cowpea. The tree's light canopy allows sufficient light penetration for understory crops while providing shade that reduces evapotranspiration and [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]].
 
 The species also serves as a windbreak, reduces sand encroachment, and provides habitat for birds, insects, and small mammals. Its flowers are an important nectar source for honeybees, producing a distinct, light-colored honey.
 
@@ -89,13 +89,13 @@ In traditional African medicine, various parts of A. senegal are used therapeuti
 
 The bark is used in tanning leather and as an astringent. Decoctions of bark and roots are applied to wounds, skin infections, and inflammatory conditions. The leaves provide fodder for livestock, particularly during the dry season when other forage is scarce.
 
-Wood is used for fuel, charcoal production, and light construction. It produces a hot, clean-burning charcoal. The pods are eaten by livestock and occasionally by humans during famine periods.
+Wood is used for fuel, [[mollison-designers-charcoal-production-biochar-soil-amendment]], and light construction. It produces a hot, clean-burning charcoal. The pods are eaten by livestock and occasionally by humans during famine periods.
 
 ## Cultivation
 
 Propagation is primarily from seed, though direct sowing has variable success. Seed pretreatment — mechanical scarification or acid scarification — significantly improves germination rates from below 20% to above 80%.
 
-Seedlings are raised in nursery beds for 3–6 months before transplanting at the onset of rains. Spacing of 4 × 4 meters to 10 × 10 meters is typical, depending on the intended agroforestry configuration. Survival rates of 60–80% can be achieved with adequate weed management.
+Seedlings are raised in nursery beds for 3–6 months before transplanting at the onset of rains. Spacing of 4 × 4 meters to 10 × 10 meters is typical, depending on the intended agroforestry configuration. Survival rates of 60–80% can be achieved with adequate [[fukuoka-weed-management-and-green-manure]].
 
 Tapping for gum begins when trees are 4–5 years old, with peak production at 15–20 years. Trees can remain productive for 25–30 years. Sustainable harvesting involves rotating tapping among trees and limiting the number and severity of incisions per season.
 

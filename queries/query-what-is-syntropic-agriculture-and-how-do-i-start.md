@@ -1,10 +1,11 @@
 ---
-title: "What Is Syntropic Agriculture and How Do I Start?"
+title: "What Is query what is syntropic agriculture and how do i start and How Do I Start?"
 created: 2026-04-28
 tags: [syntropic-farming, permaculture, agroforestry, regenerative-agriculture, soil-health]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -21,14 +22,14 @@ Syntropic systems are organized into vertical strata that mirror a natural fores
 
 - **Emergent layer** — tall timber trees (canopy pioneers, climax species)
 - **High canopy** — medium trees for fruit, nuts, or timber
-[[permaculture]] and agroforestry but is distinguished by its intense focus on succession management and the principle that pruning drives system fertility.
+permaculture and agroforestry but is distinguished by its intense focus on succession management and the principle that pruning drives system fertility.
 
 ## Resources for Learning More
 
 - **Ernst Götsch's work** — search for "Life in Syntropy" documentary (free online)
 - **Felipe Pasini and Dayana Andrade** — Brazilian practitioners who teach syntropic methods internationally
 - **Project Wadi Attir** — syntropic principles applied in arid Middle Eastern conditions
-- **Lincoln Smith** — applies syntropic methods in temperate North America
+- **Lincoln Smith** — applies syntropic methods in temperate [[psilocybin-north-america-pacific-northwest]]
 - **Syntropic Agroforestry groups** — active communities on Facebook and Telegram sharing regional experiences
 
 The best way to learn syntropic agriculture is to start small, observe closely, and prune boldly. The system teaches you as much as you teach it.
@@ -55,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -97,4 +98,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: JADAM Universal Pesticide Approach
+title: JADAM jadam universal pesticide approach Approach
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -26,7 +26,7 @@ Rather than studying all 1,000+ pest and pathogen species, JADAM identifies the 
 1. Powdery mildew -- the hardest pathogen to control
 2. Aphids -- the most persistent pest
 
-If you can control powdery mildew, you can control most pathogens. If you can control aphids, you can control most pests. The pesticide that controls powdery mildew, when made stronger, controls aphids. This methodology solves approximately 90% of all pest and pathogen problems.
+If you can control powdery mildew, you can control most pathogens. If you can [[query-how-do-i-identify-and-control-aphids-on-cannabis]], you can control most pests. The pesticide that controls powdery mildew, when made stronger, controls aphids. This methodology solves approximately 90% of all pest and pathogen problems.
 
 ## The Cosmetics Analogy
 
@@ -58,7 +58,7 @@ The closer you get to the truth, the simpler it becomes. JADAM's vision: bring s
 JADAM developed a simple, affordable research method for farmers:
 
 ### Germicide Testing
-1. Collect leaf mold (holds millions of microorganisms)
+1. Collect [[comparison-leaf-mold-composting-vs-hot-composting-method]] (holds millions of microorganisms)
 2. Mix leaf mold in water
 3. Pour equal amounts into many cups
 4. Add same amount of molasses to feed microbes
@@ -78,7 +78,7 @@ The simple lab costs approximately $50 to set up. Results are remarkably consist
 
 ## Remaining 10%
 
-For the approximately 10% of pest problems not solved by the universal approach, JADAM offers additional specific options: JADAM sulfur for diseases, different JADAM herb solutions for specific pests, and various combination strategies.
+For the approximately 10% of pest problems not solved by the universal approach, JADAM offers additional specific options: [[ultra-low-jadam-sulfur-js]] for diseases, different [[ultra-low-jadam-herb-solution-jhs]] solutions for specific pests, and various combination strategies.
 
 ## See Also
 

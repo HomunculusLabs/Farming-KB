@@ -1,5 +1,5 @@
 ---
-title: Microscope Identification of Soil Organisms
+title: ingham-microscope-identification-soil-biology of Soil Organisms
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -45,7 +45,7 @@ What to look for:
 - Bacteria appear as tiny, round (cocci) or rod-shaped (bacilli) dots
 - Individual bacteria are 0.5-5 micrometers in size
 - At 400x, you can see bacterial colonies (groups) and estimate relative biomass
-- Active bacteria show movement (Brownian motion or directed swimming)
+- Active bacteria show movement ([[mckenna-spore-brownian-motion-and-galactic-percolation]] or directed swimming)
 - Distinguishing individual species requires much higher magnification
 
 Assessment:
@@ -65,7 +65,7 @@ What to look for:
 - Spores appear as round or oval structures (typically 5-50 micrometers)
 
 Assessment:
-- High fungal biomass: many long hyphae visible, crossing the field of view in multiple directions
+- High [[bioremediation-fungal-biomass-biosorbent-material]]: many long hyphae visible, crossing the field of view in multiple directions
 - Low fungal biomass: few or no hyphae visible
 - Beneficial indicator: bright, clear hyphae with active growing tips
 - Problem indicator: hyphae being attacked by bacteria (hyphae appear ragged or fragmented) -- this indicates oxygen levels have dropped below 5-6 ppm
@@ -79,14 +79,14 @@ What to look for:
 
 Assessment:
 - Good worm composts contain great numbers of protozoa
-- Protozoa indicate a functioning nitrogen cycling system (they eat bacteria and release plant-available nitrogen)
+- Protozoa indicate a functioning [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] system (they eat bacteria and release plant-available nitrogen)
 - High ciliate numbers may indicate anaerobic conditions (ciliates tolerate lower oxygen than flagellates and amoebae)
 
 ## Nematodes
 
 What to look for:
 - Nematodes are microscopic roundworms, visible at 40-100x
-- The largest beneficial nematodes are about 25 micrometers in width and 150 micrometers in length
+- The largest [[ingham-beneficial-nematodes-soil-food-web]] are about 25 micrometers in width and 150 micrometers in length
 - They move in a characteristic sinuous (snake-like) pattern
 - Different mouth parts indicate different feeding types:
   - Bacterial-feeding: simple tube-like mouth
@@ -95,7 +95,7 @@ What to look for:
   - Predatory: large mouth with teeth or grasping structures
 
 Assessment:
-- Beneficial: bacterial-feeding and fungal-feeding nematodes (indicate nutrient cycling)
+- Beneficial: bacterial-feeding and fungal-feeding nematodes (indicate [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]])
 - Problem: root-feeding nematodes (indicate plant stress and food web imbalance)
 - Excellent: predatory nematodes (indicate mature, balanced food web)
 
@@ -121,7 +121,7 @@ For compost tea, the key indicators under the microscope:
 
 - [[hamilton-soil-types-identification]]
 
-- [[fungal-competition-antagonism-soil]]
+- fungal-competition-antagonism-soil
 - [[ingham-soil-food-web-assessment-methods]]
 - soil microscope analysis
 - [[fungal-indicators-soil-quality-ecosystem-health]]

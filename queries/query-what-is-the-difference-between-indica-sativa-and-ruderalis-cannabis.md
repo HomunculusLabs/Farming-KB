@@ -1,10 +1,11 @@
 ---
-title: "What Is the Difference Between Indica, Sativa, and Ruderalis Cannabis?"
+title: "What Is the query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis, Sativa, and Ruderalis Cannabis?"
 created: 2026-04-28
 tags: [query, cannabis, taxonomy, strain-selection]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -14,7 +15,7 @@ type: query
 Cannabis is divided into three subspecies: indica (short, bushy, sedating),
 sativa (tall, uplifting, energizing), and ruderalis (tiny, autoflowering,
 low-THC). Modern strains are almost always hybrids, and the effects people
-attribute to "indica vs sativa" are largely driven by terpene profiles rather
+attribute to "indica vs sativa" are largely driven by [[cannabis-terpene-profiles-sativa]] rather
 than genetics alone. Understanding these categories helps with strain selection
 but should not be the sole factor in choosing what to grow for your specific
 needs and environment.
@@ -35,7 +36,7 @@ by their [[cannabis-terpene-entourage-effect]]. These
 plants are well-suited for indoor cultivation where space is limited and for
 growers seeking faster turnover between harvests.
 
-Cannabis ruderalis is the smallest and least potent of the three subspecies.
+[[cervantes-cannabis-ruderalis-autoflowering]] is the smallest and least potent of the three subspecies.
 It rarely exceeds two feet in height, produces minimal THC, and flowers
 automatically based on age rather than photoperiod. This autoflowering trait
 was discovered in the 1940s by Russian botanist Janiszewski and later
@@ -46,7 +47,7 @@ terpenes play an equal or greater role in determining effects. The
 categories almost entirely. Most commercial strains are hybrids with varying
 ratios of indica to sativa heritage. When selecting a strain, growers should
 consider flowering time, expected yield, terpene profile, resistance to
-pests and diseases, and suitability for their growing environment rather
+[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]], and suitability for their [[cannabis-growing-environment-setup]] rather
 than relying solely on the indica/sativa label. Understanding
 [[autoflowering-cannabis]] breeding programs
 - Effects are driven more by [[cannabis-chemotype-classification]] for accurate chemical profiling
@@ -72,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

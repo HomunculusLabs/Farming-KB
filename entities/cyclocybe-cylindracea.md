@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - "Wasser, S.P. (2014). \"Mushroom Biotechnology.\" In: biotechnology of higher fungi. Springer."
   - "Wang, S. & Zhang, Y. (2020). \"Advances in cultivation of Cyclocybe cylindracea.\" Journal of Fungi, 6(4), 289."
-  - "Kawai, G. et al. (2018). \"Nutritional composition and medicinal mushroom ex agrocybe cylindracea ompounds of Agrocybe cylindracea.\" Food Chemistry, 245, 472-479."
+  - "Kawai, G. et al. (2018). \"[[dighton-fungal-nutritional-composition-animal-diets]] and [[gourmet-medicinal-mushroom-casing-layer-techniques]] ex agrocybe cylindracea ompounds of Agrocybe cylindracea.\" Food Chemistry, 245, 472-479."
   - "Zhang, M. et al. (2019). \"Immunomodulatory effects of Cyclocybe cylindracea polysaccharides.\" International Journal of Biological Macromolecules, 132, 941-949."
   - Index Fungorum. "Agrocybe cylindracea (DC.) Maire." www.indexfungorum.org.
 ---
@@ -52,7 +52,7 @@ nutty flavor, firm [[growing-gourmet-cloning-wild-vs-cultivated-mushrooms]] in C
 ## Distribution and Habitat
 
 Cyclocybe cylindracea is broadly distributed across temperate and subtropical
-regions of Europe, Asia, and North America. It fruits on hardwood stumps and
+regions of Europe, Asia, and [[psilocybin-north-america-pacific-northwest]]. It fruits on hardwood stumps and
 logs, especially Populus, Salix, Quercus, and Betula. A primary decomposer of
 woody substrates, it can also fruit from buried roots of living trees.
 
@@ -74,16 +74,16 @@ mushrooms in China by production volume, with well-established protocols.
 - **Fruiting induction:** Temperature drop to 15–20°C, high humidity (90–95%),
   fresh air exchange (5–8 exchanges/hour), ambient light (200–500 lux).
 - **Fruiting cycle:** 7–14 days from primordia to harvest. Multiple flushes
-  over 2–3 months. Biological efficiency typically 60–100% on supplemented
+  over 2–3 months. [[stamets-biological-efficiency-yield]] typically 60–100% on supplemented
   sawdust.
 - **Yields:** 0.8–1.2 kg fresh per kg dry substrate across 3–4 flushes.
 
 ### Commercial Methods
 
 Most commercial production uses bag-cultivation on sterilized supplemented
-sawdust, similar to Shiitake methodology. Some operations employ outdoor log
+sawdust, similar to Shiitake methodology. Some operations employ [[growing-gourmet-outdoor-log-inoculation-techniques]]
 cultivation on poplar bolts. The species is relatively contamination-resistant
-and tolerant of a wide temperature range, making it suitable for low-tech farming.
+and tolerant of a wide [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]], making it suitable for low-tech farming.
 
 ## Chemistry and Pharmacology
 

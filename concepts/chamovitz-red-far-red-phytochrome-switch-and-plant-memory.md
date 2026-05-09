@@ -1,7 +1,7 @@
 ---
-title: "Red-Far-Red Phytochrome Switch and Plant Memory"
+title: "Red-Far-Red chamovitz red far red phytochrome switch and plant memory and Plant Memory"
 source: grahamholmes-what-a-plant-knowsindd.md (Daniel Chamovitz, 2012)
-topics: phytochrome, red light, far-red light, photoperiodism, plant memory
+topics: phytochrome, [[phytochrome-red-far-red-light-switch]], far-red light, photoperiodism, plant memory
 created: 2026-05-08
 ---
 
@@ -40,7 +40,7 @@ When scientists tested different colours of light for the night-break
 flash, they found a surprising result: only **red light** influenced
 flowering. Blue or green flashes had no effect. This indicated that
 plants use separate photoreceptor systems for different purposes —
-blue light for directional bending (phototropism) and red light for
+[[chamovitz-julius-von-sachs-blue-light-phototropism]] for directional bending (phototropism) and red light for
 measuring night length (photoperiodism).
 
 ## The Far-Red Reversal
@@ -125,7 +125,7 @@ differently from the phototropism system Darwin discovered:
 
 If a single leaf is illuminated with red light during the night,
 it is as if the entire plant were illuminated. Phytochrome in the
-leaf receives the light cue and initiates a mobile signal that
+leaf receives the light cue and initiates a [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]] that
 propagates throughout the plant to induce or suppress flowering.
 
 Conversely, if all leaves are removed, leaving only the stem and
@@ -138,9 +138,11 @@ leaves, not the shoot tip, are the photoperiodic "eyes."
 The mobile signal from activated phytochrome was identified as
 **florigen** (FT protein, FLOWERING LOCUS T), which travels through
 the phloem from leaves to the shoot apex and triggers the transition
-from vegetative growth to flowering.
+from [[cannabis-vegetative-growth-stage]] to flowering.
 
 ## See Also
+
+- [[chamovitz-plant-photoreceptors-beyond-phytochrome]]
 
 - [[phytochrome-red-far-red-switch-and-photoperiodism]]
 - [[shade-avoidance-syndrome]]

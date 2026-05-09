@@ -28,7 +28,7 @@ sources:
 Chemdog (also written Chem Dog) is a legendary cannabis hybrid strain that serves as a genetic cornerstone for
 numerous iconic modern cultivars, including Sour Diesel, OG Kush, and Girl Scout Cookies. Originating from a chance
 encounter at a Grateful Dead concert in the early 1990s, it has become one of the most influential breeding lines in
-cannabis genetics.
+[[vic-high-cannabis-genetics-mendelian-inheritance]].
 
 ## Lineage and Origin Story
 
@@ -37,7 +37,7 @@ Chemdog purchased a small amount of cannabis at a Grateful Dead show in Indiana.
 these out, identifying four distinct phenotypes (Chemdog '91, Chemdog '91 B, Chem Sis, and Chemdawg D). These four
 plants became the foundation of the entire Chemdog lineage. Seeds were later shared with growers in Colorado and
 California, where the genetics diverged into the many Chemdawg variants known today. The original genetics are believed
-to descend from a cross of Nepalese indica and Thai sativa landrace stock, though the exact parentage remains debated.
+to descend from a cross of Nepalese indica and Thai [[cannabis-sativa-landrace-strains]] stock, though the exact parentage remains debated.
 
 ## Aroma and Flavor Profile
 
@@ -58,7 +58,7 @@ Chemdog's distinctive aroma is driven by a terpene profile rich in:
 - **Humulene** — woody, earthy depth; appetite suppressant properties.
 
 The exceptionally high total terpene content (often exceeding 2–3%) contributes to the strain's unmistakable
-olfactory signature and is partly responsible for its potent entourage effects.
+olfactory signature and is partly responsible for its potent [[beta-caryophyllene-entourage-effects-cannabis]].
 
 ## Effects
 
@@ -77,7 +77,7 @@ disorientation in sensitive individuals.
 ## Medical Applications
 
 - **Chronic pain**: Strong analgesic properties, particularly for neuropathic pain and migraines.
-- **Nausea and appetite**: Effective appetite stimulant and anti-emetic for patients undergoing chemotherapy.
+- **[[cannabis-for-nausea-and-appetite-stimulation]]**: Effective appetite stimulant and anti-emetic for patients undergoing chemotherapy.
 - **Mood disorders**: Euphoric onset provides temporary relief from depression and PTSD symptoms.
 - **Insomnia**: The sedative comedown phase makes it useful for sleep onset in high-dose applications.
 
@@ -88,7 +88,7 @@ Chemdog is considered a moderately difficult strain to cultivate, best suited fo
 - **Flowering time**: 9–10 weeks indoors; mid-October outdoors.
 - **Yield**: Moderate (350–450 g/m² indoors); plants tend to stretch significantly during early flowering.
 - **Growing style**: Performs well in both soil and hydroponic setups; responds well to SCROG and LST techniques.
-- **Climate**: Prefers warm, dry conditions; susceptible to powdery mildew and botrytis in high humidity.
+- **Climate**: Prefers warm, dry conditions; susceptible to [[cervantes-powdery-mildew-prevention-treatment]] and botrytis in high humidity.
 - **Nutrient needs**: Heavy feeder during flowering; cal-mag supplementation recommended.
 
 ## Potency and Cannabinoid Profile
@@ -114,7 +114,7 @@ The original four Chemdog phenotypes remain the genetic source for most modern C
 
 ## Legacy and Offspring
 
-Chemdog's genetics form the backbone of modern cannabis breeding. Notable direct descendants include:
+Chemdog's genetics form the backbone of modern [[oner-cannabis-breeding-fundamentals]]. Notable direct descendants include:
 
 - **Sour Diesel** — Chemdog '91 × Mass Super Skunk
 - **OG Kush** — Chemdog '91 × Lemon Thai × Hindu Kush (disputed)

@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-Stereum hirsutum, commonly known as the false turkey tail, is a widespread wood-decay crust fungus found on dead hardwood across temperate and subtropical regions worldwide. Despite its common name, it is not closely related to the true turkey tail (Trametes versicolor) and belongs to a different order (Russulales rather than Polyporales).
+Stereum hirsutum, commonly known as the false turkey tail, is a widespread wood-decay crust fungus found on dead hardwood across temperate and subtropical regions worldwide. Despite its common name, it is not closely related to the true turkey tail ([[staycare-trametes-versicolor-bioremediation-applications]]) and belongs to a different order (Russulales rather than Polyporales).
 
 The species is one of the most commonly encountered wood-inhabiting fungi in temperate forests.
 
@@ -56,11 +56,11 @@ Spores are ellipsoid, smooth, hyaline, measuring 6–8 × 3–4 μm. The hyphal 
 
 ## Distribution and Habitat
 
-Stereum hirsutum has a nearly cosmopolitan distribution in temperate and subtropical regions. It is common throughout Europe, North America, East Asia, and parts of South America, Africa, and Australasia.
+Stereum hirsutum has a nearly cosmopolitan distribution in temperate and subtropical regions. It is common throughout Europe, [[psilocybin-north-america-pacific-northwest]], East Asia, and parts of South America, Africa, and Australasia.
 
 The species is predominantly found on dead hardwood, especially on the bark of fallen branches and standing dead trunks.
 
-It shows a strong preference for Quercus (oak) and is frequently encountered on Fagus (beech), Betula (birch), Alnus (alder), and various fruit trees in orchard settings.
+It shows a strong preference for Quercus (oak) and is frequently encountered on Fagus (beech), Betula (birch), Alnus (alder), and various [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] in orchard settings.
 
 S. hirsutum can also function as a mild wound parasite on living trees, colonizing through bark injuries and pruning wounds.
 
@@ -76,7 +76,7 @@ As a pioneer decomposer, S. hirsutum helps condition wood for subsequent fungal 
 
 Its initial degradation of lignin barriers and bark adhesion facilitates establishment of later-succession species such as Trametes versicolor, Bjerkandera adusta, and various Ascomycetes.
 
-The species also produces a range of extracellular enzymes including laccases and peroxidases. These enzymes have been studied for biotechnological applications including pulp biobleaching, textile dye decolorization, and bioremediation of phenolic pollutants.
+The species also produces a range of extracellular enzymes including laccases and peroxidases. These enzymes have been studied for biotechnological applications including pulp biobleaching, [[fungal-laccase-and-textile-dye-decolorization]] decolorization, and bioremediation of phenolic pollutants.
 
 S. hirsutum is a well-documented host for the parasitic fungus Tremella aurantia (golden jelly fungus), which is actually a parasite of Stereum rather than the wood substrate itself.
 
@@ -86,7 +86,7 @@ Stereum hirsutum is not edible. Its tough, leathery texture and small size make 
 
 No significant toxicity has been reported, but it is simply ignored by foragers.
 
-The species has been investigated for antimicrobial properties. Stereum species produce various sesquiterpenes and other secondary metabolites, and extracts of S. hirsutum have shown activity against certain bacteria and fungi in laboratory assays.
+The species has been investigated for [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. Stereum species produce various sesquiterpenes and other [[antifungal-secondary-metabolites-coprophilous-fungi]], and extracts of S. hirsutum have shown activity against certain bacteria and fungi in laboratory assays.
 
 In horticulture, S. hirsutum is considered a minor pathogen when it colonizes pruning wounds on fruit trees, though it typically only affects already-compromised or poorly managed trees.
 
@@ -108,6 +108,8 @@ The most common confusion is with Trametes versicolor (true turkey tail), which 
   wood rather than hardwood.
 
 ## See Also
+
+- [[stereum-ostrea]]
 
 - [[daedaleopsis-confragosa]]
 - [[tremella-mesenterica]]

@@ -10,17 +10,17 @@ updated: 2026-04-26
 
 # The Tassili Cave Paintings and Ancient Mushroom Use
 
-The Tassili Plateau in the central Sahara Desert preserves some of the most extraordinary and earliest archaeological evidence for the human use of psychoactive mushrooms. In *Food of the Gods*, Terence McKenna argues that these rock paintings, dating from the late Neolithic to approximately two thousand years ago, represent the visual record of an ancient shamanic mushroom cult that spread from Africa into the broader ancient world.
+The [[mckenna-tassili-plateau-round-head-civilization]] in the central Sahara Desert preserves some of the most extraordinary and earliest archaeological evidence for the human use of psychoactive mushrooms. In *Food of the Gods*, [[terence-mckenna]] argues that these rock paintings, dating from the late Neolithic to approximately two thousand years ago, represent the visual record of an ancient shamanic mushroom cult that spread from Africa into the broader ancient world.
 
 ## The Tassili-n-Ajjer Plateau
 
-The Tassili-n-Ajjer is a vast plateau in southeastern Algeria, now one of the most arid regions on Earth. However, during the period when these paintings were created, the Sahara was a well-watered grassland supporting abundant wildlife, cattle herding, and settled human communities. The rock art of Tassili documents a thriving pastoral culture that existed during the African Humid Period, roughly 10,000 to 4,000 years ago, before the desertification of the Sahara drove its inhabitants outward.
+The Tassili-n-Ajjer is a vast plateau in southeastern Algeria, now one of the most arid regions on Earth. However, during the period when these paintings were created, the Sahara was a well-watered grassland supporting abundant wildlife, cattle herding, and settled human communities. The rock art of Tassili documents a thriving pastoral culture that existed during the African Humid Period, roughly 10,000 to 4,000 years ago, before the [[desertification]] of the Sahara drove its inhabitants outward.
 
 ## Shamans Dancing with Mushrooms
 
 The most remarkable paintings from Tassili show figures that McKenna interprets as shamans. These figures are depicted in poses of ecstatic dance, with mushrooms sprouting from their bodies or clutched in their fists. The two most frequently cited sites are:
 
-- **Matalen-Amazar**: Features a running shamanic figure with a mushroom held in each hand, the body covered in geometric patterns characteristic of entoptic phenomena (visual effects generated within the eye/visual cortex itself, commonly reported during altered states of consciousness).
+- **Matalen-Amazar**: Features a running shamanic figure with a mushroom held in each hand, the body covered in geometric patterns characteristic of entoptic phenomena (visual effects generated within the eye/visual cortex itself, commonly reported during [[weil-the-natural-mind-altered-states-normalcy]] of consciousness).
 - **Ti-n-Tazarift**: Contains the famous "mushroom-headed" figure — a being whose entire head takes the form of a mushroom, surrounded by rows of smaller mushroom-like forms and geometric hallucination patterns.
 
 McKenna emphasized that these geometric patterns — concentric circles, zigzags, meandering lines, dot patterns, and radiating forms — correspond precisely to the six categories of entoptic phenomena identified by neuropsychologists J.D. Lewis-Williams and T.A. Dowson as universal constants of altered states of consciousness. This correspondence provides strong circumstantial evidence that the artists were depicting visionary experiences induced by psychoactive mushrooms.
@@ -46,11 +46,11 @@ McKenna used the Tassili evidence to support a model of cultural diffusion. He p
 
 At Çatal Höyük, McKenna identified what he considered the critical religious innovation: the recognition of the mushroom as "the third and hidden member" of the shamanic trinity. The mushroom, seen to be as much a product of cattle as milk, meat, and manure, was recognized very early as the physical connection to the presence of the Goddess. "This is the secret that was lost some six thousand years ago at the eclipse of Çatal Höyük," McKenna wrote.
 
-The destruction of Çatal Höyük — which McKenna attributed to Indo-European invasion bringing the horse, the wheel, mead cults (which replaced mushroom use), and human god-kings (who replaced the Goddess religion) — represented for McKenna the decisive break between partnership society and dominator culture.
+The destruction of Çatal Höyük — which McKenna attributed to Indo-European invasion bringing the horse, the wheel, mead cults (which replaced mushroom use), and human god-kings (who replaced the Goddess religion) — represented for McKenna the decisive break between [[mckenna-dominator-vs-partnership-society-model]] and [[mckenna-dominator-culture-and-suppression-of-ecstasy]].
 
 ## Broader Implications
 
-The Tassili paintings are significant not only as early evidence of mushroom use but as visual proof that the human fascination with altered states of consciousness is at least as old as complex symbolic culture itself. The geometric entoptic patterns in the paintings demonstrate that the visual vocabulary of the psychedelic experience is ancient, universal, and deeply embedded in the human nervous system — not, as dominator culture would have it, a pathology or a deviation, but a fundamental dimension of human consciousness that was once celebrated and integrated into religious life.
+The Tassili paintings are significant not only as early evidence of mushroom use but as visual proof that the human fascination with altered states of consciousness is at least as old as complex symbolic culture itself. The geometric entoptic patterns in the paintings demonstrate that the visual vocabulary of the [[leary-psychedelic-experience-bardo-mapping]] is ancient, universal, and deeply embedded in the human nervous system — not, as dominator culture would have it, a pathology or a deviation, but a fundamental dimension of human consciousness that was once celebrated and integrated into religious life.
 
 ## See Also
 ## The Tassili-n-Ajjer Plateau
@@ -83,7 +83,7 @@ There the partnership society arose and flourished; there hunter-gatherer cultur
 
 ## The Genesis Connection
 
-At the beginning of Western civilization, in the Book of Genesis, McKenna reads an account of history's first drug bust: Eve, mistress of the magical plants, eats and shares the fruits of the Tree of Knowledge, fruits which are "pleasing to the eye and pleasing to contemplate." The eyes of both of them were opened. This mysterious fruit is identified by McKenna as the psilocybin-containing mushroom *Stropharia cubensis* that catalyzed the Tassili partnership Eden.
+At the beginning of Western civilization, in the Book of Genesis, McKenna reads an account of history's first drug bust: Eve, mistress of the magical plants, eats and shares the fruits of the Tree of Knowledge, fruits which are "pleasing to the eye and pleasing to contemplate." The eyes of both of them were opened. This mysterious fruit is identified by McKenna as the psilocybin-containing mu [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] cubensis* that catalyzed the Tassili partnership Eden.
 
 The angel with flashing sword who guards the return to Eden seems an obvious symbol of the unforgiving harshness of the desert sun and the severe drought conditions that accompany it. The retreat of the glaciers from the Eurasian landmass and the simultaneous acceleration of aridity in the African grasslands eventually brought the "casting out of Eden" allegorically conveyed in Genesis.
 
@@ -100,6 +100,6 @@ Lhote's interpretations were sometimes speculative and controversial. Modern res
 The broader significance of the Tassili paintings extends beyond mushroom iconography. They document a period when the Sahara was green and fertile, supporting large pastoral populations with cattle herds and complex religious practices — a dramatic contrast to the arid desert it is today. Climate change over thousands of years transformed this landscape, forcing the mushroom-using pastoral peoples to migrate.
 
 UNESCO designated the Tassili-n-Ajjer as a World Heritage Site in 1982, recognizing both its outstanding natural geological formations and its extraordinary collection of prehistoric rock art, one of the most important in the world.
-- [[mushroom-stone-artifacts]]
+- mushroom-stone-artifacts
 - [[psilocybin-mushroom-legal-history]]
 - [[sacred-mushroom-names-cross-cultural-synonyms]]

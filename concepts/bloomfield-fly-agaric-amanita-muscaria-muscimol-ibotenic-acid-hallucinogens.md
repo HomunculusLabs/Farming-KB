@@ -1,5 +1,5 @@
 ---
-title: Fly Agaric Pharmacology: Amanita muscaria, Muscimol, and Ibotenic Acid
+title: amanita-muscaria-fly-agaric-history-and-pharmacology Pharmacology: allegro-amanita-muscaria-properties-and-pharmacology, Muscimol, and amanita-muscaria-muscimol-ibotenic-acid-pharmacology
 created: 2026-04-28
 tags:
   - mycology
@@ -114,8 +114,8 @@ function remains speculative.
 ## Distinction from Deadly Amanita Toxins
 
 The psychoactive compounds of Amanita muscaria must be distinguished
-from the lethal amatoxins of Amanita phalloides (death cap) and
-Amanita virosa (destroying angel). Amatoxins are cyclic octapeptides
+from the lethal amatoxins of Amanita phalloides ([[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]]) and
+[[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]] (destroying angel). Amatoxins are cyclic octapeptides
 that inhibit RNA polymerase II, causing fatal hepatic necrosis.
 Muscimol and ibotenic acid act on neurotransmitter receptors and do
 not cause organ damage. Fatalities are extremely rare; the primary
@@ -127,7 +127,7 @@ prized edible for centuries.
 
 The fly agaric is one of several psychoactive mushroom species.
 Psilocybe produces psilocybin and psilocin, indole alkaloids acting
-as serotonin 5-HT2A receptor agonists with fundamentally different
+as serotonin 5-HT2A [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] with fundamentally different
 chemistry from Amanita muscaria. Conocybe species are listed as both
 poisonous and hallucinogenic, a profoundly dangerous combination.
 The diversity of fungal neuroactive compounds underscores the

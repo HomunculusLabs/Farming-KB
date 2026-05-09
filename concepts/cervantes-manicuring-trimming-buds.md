@@ -1,11 +1,12 @@
 ---
-title: Manicuring and Trimming Cannabis Buds
+title: Manicuring and Trimming query-what-causes-airy-loose-cannabis-buds-and-how-to-prevent-them
 created: 2026-04-26
 tags: [cannabis, harvest, manicuring, trimming, post-harvest]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -22,7 +23,7 @@ Leaves around buds have much lower THC potency than the resin-covered bud
 tissue itself. Removing them concentrates the psychoactive material and
 improves the appearance, flavor, and smoothness of the final product. Proper
 manicuring also speeds drying and reduces the risk of mold, since leftover
-leaf petioles attract moisture and can become sites for fungal growth.
+leaf petioles attract moisture and can become sites for [[brassinosteroid-fungal-growth-promotion]].
 
 ## Time Investment
 
@@ -70,7 +71,7 @@ is much slower, more tedious, and more difficult.
   trimming time by two-thirds or more
 - **Automatic trimmers** - Machines like the Aardvark, Twister, and Grass
   Chopper feature vacuum leaf removal and process buds much faster
-- **Rubber gloves** - Wear inexpensive rubber gloves to collect "finger hash"
+- **Rubber gloves** - Wear inexpensive rubber gloves to collect "[[cervantes-finger-hash-manicuring]]"
   that accumulates during trimming
 
 ## Collecting Resin During Manicuring
@@ -88,7 +89,7 @@ Manicuring produces valuable byproducts:
   up fallen resin glands and press into blocks of hash
 - **Trim for hash** - All trimmed leaf material can be processed into
   [[cervantes-air-quality-ventilation]] for
-  odor control during manicuring
+  [[cannabis-odor-control-and-carbon-filters]] during manicuring
 
 See also: [[cervantes-harvest-timing-trichome-ripeness]],
 [[cervantes-hash-making-extracts]], [[cervantes-drying-buds-methods]]

@@ -1,5 +1,5 @@
 ---
-title: "E -- 3,5-DIMETHOXY-4-ETHOXYPHENETHYLAMINE -- PIHKAL Entry #72"
+title: "E -- 3,5-DIMETHOXY-4-ETHOXYPHENETHYLAMINE -- 2c-b-pihkal-entry-20 #72"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,9 +8,9 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # E (ESCALINE)
 
-[[low-energy-futures-in-permaculture]]. An anonymous flyer appeared in the California drug community in 1984 stating an effective range to be 50 to 100 milligrams, but it described the drug as the sulfate. The above data all pertain to thmescalineloride salt.
+low-energy-futures-in-permaculture. An anonymous flyer appeared in the California drug community in 1984 stating an effective range to be 50 to 100 milligrams, but it described the drug as the sulfate. The above data all pertain to thmescalineloride salt.
 
-The replacement of that one methyl group with an ethyl group leads to a nice jeu de mots. The play on words depends on a remarkable coincidence. The name of the alkaloid mescaline stems from an ancient Nahuatl word for a drink (Mexcalli) which also provided the source of the term Mescal (an Agave of entirely different pharmacology). The prefix for the simplest, the one carbon organic radical, is methyl. This is from the Greek word "methy" and represents wine from wood. Such is, indeed, methyl alcohol, or methanol, or wood alcohol, the simplest one-carbon drink and a rather dangerous one for the human animal. And this is the group that is on the central oxygen of mescaline.
+The replacement of that one methyl group with an ethyl group leads to a nice jeu de mots. The play on words depends on a remarkable coincidence. The name of the alkaloid mescaline stems from an ancient Nahuatl word for a drink (Mexcalli) which also provided the source of the term Mescal (an Agave of entirely different pharmacology). The prefix for the simplest, the one carbon organic radical, is methyl. This is from the Greek word "methy" and represents wine from wood. Such is, indeed, [[psilocybin-methyl-alcohol-extraction-technique]], or methanol, or wood alcohol, the simplest one-carbon drink and a rather dangerous one for the human animal. And this is the group that is on the central oxygen of mescaline.
 
 It is customary to refer to homologs (bigger-by-one) of methanol by their classical chemical names, so the natural extension of methyl is ethyl, and that of mescaline would be escaline. One carbon-chain on
 
@@ -26,7 +26,7 @@ Thus, R2-CS implies that a known amphetamine drug has been shortened to a phenet
 
 To a solution of 72.3 g 2,6-dimethoxyphenol in 400 mL MeOH, there was added 53.3 g of a 40% solution of aqueous dimethylamine folowed by 40 g of a 40% aqueous solution of formaldehyde. The dark solution was heated under reflux for 1.5 h on a steambath. The volatiles were then removed under vacuum yielding a dark oily residue of 2,6-dimethoxy-4-dimethylaminomethylphenol. This residue was dissolved in 400 mL of IPA, to which there was added 50 mL of methyl iodide. The spontaneously exothermic reaction deposited crystals within 3 min, and was allowed to return to room temperature and occasionally stirred over the course of 4 h. The solids were removed by filtration, washed with cold IPA, and allowed to air dry yielding 160 g of the methiodide of 2,6-dimethoxy-4-dimethylaminomethylphenol as a cream-colored crystalline solid.
 
-A suspension of 155 g of the above methiodide of 2,6-dimethoxy-4-dimethylaminophenol in 600 mL H2O was treated with a solution of 130 g KCN in 300 mL H2O. The reaction mixture was heated on a steam bath for 6 h during which time there was a complete dissolving, the development of a brownish color with a bright blue film on the surface and the walls of the flask, and the gentle evolution of fine gas bubbles. The hot reaction mixture was poured into 1.2 L H2O and acidified with concentrated HCl (careful, HCN evolution). The aqueous solution was extracted with 3x150 mL CH2Cl2, the extracts pooled, washed with saturated NaHCO3 which removed much of the color. The solvent was removed under vacuum yielding about 70 g of a viscous black oil. This was distilled at 0.4 mm/Hg at 150-160 deg C to provide 52.4 g of homosyringonitrile (3,5-dimethoxy-4-hydroxyphenylacetonitrile) as a white oil that spontaneously crystallized to lustrous white crystals that melted at 57-58 deg C.
+A suspension of 155 g of the above methiodide of 2,6-dimethoxy-4-dimethylaminophenol in 600 mL H2O was treated with a solution of 130 g KCN in 300 mL H2O. The reaction mixture was heated on a [[scythian-cannabis-steam-bath-ritual]] for 6 h during which time there was a complete dissolving, the development of a brownish color with a bright blue film on the surface and the walls of the flask, and the gentle evolution of fine gas bubbles. The hot reaction mixture was poured into 1.2 L H2O and acidified with concentrated HCl (careful, HCN evolution). The aqueous solution was extracted with 3x150 mL CH2Cl2, the extracts pooled, washed with saturated NaHCO3 which removed much of the color. The solvent was removed under vacuum yielding about 70 g of a viscous black oil. This was distilled at 0.4 mm/Hg at 150-160 deg C to provide 52.4 g of homosyringonitrile (3,5-dimethoxy-4-hydroxyphenylacetonitrile) as a white oil that spontaneously crystallized to lustrous white crystals that melted at 57-58 deg C.
 
 A solution of 5.75 g of homosyringonitrile and 12.1 g ethyl iodide in 50 mL dry acetone was treated with 6.9 g finely powdered anhydrous K2CO3 and held at reflux for 18 h. The mixture was diluted with 100 mL Et2O, filtered, and the filtrate solvent removed under vacuum The residue was recrystallized from Et2O/hexane to yield 5.7 g 3,5-dimethoxy-4-ethoxyphenylacetonitrile with a mp 57-58 deg C. Anal. (C12H15NO3) C,H,N.
 
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -90,7 +90,7 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
 
 Integration with other disciplines and approaches creates synergies that
@@ -98,9 +98,8 @@ advance the field as a whole. Cross-pollination of ideas from biology,
 ecology, data science, and traditional knowledge systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

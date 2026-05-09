@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [comparison, farming, cropping, permaculture, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -21,11 +22,11 @@ offs that depend on scale, climate, labor availability, and market goals.
 
 ## Monoculture
 
-[[gaias-garden-polyculture-design-guidelines]]
+gaias-garden-polyculture-design-guidelines
 
 Polyculture interplants multiple species to occupy complementary ecological
 niches, mimicking natural plant communities. Gaia's Garden guidelines,
-drawn from Ianto Evans' work, emphasize ten key design principles: seeding
+drawn from Ianto Evans' work, emphasize ten key [[holmgren-permaculture-twelve-design-principles-framework]]: seeding
 multiple varieties of each species for genetic resilience, sowing at
 reduced density to allow each plant full expression, mixing plant families
 rather than just species to break pest cycles, including fast-growing
@@ -41,14 +42,14 @@ Research from temperate-climate trials shows that well-designed
 polycultures can match or exceed monoculture yields on a per-area basis
 while producing multiple harvests from the same space. The diversity of
 root exudates feeds a correspondingly diverse soil microbiome, building
-soil structure and disease suppression naturally.
+soil structure and [[aact-disease-suppression-mechanisms-ingham]] naturally.
 
 The limitations of polyculture are equally real. Designing effective
 combinations requires deep knowledge of plant interactions, and what works
 in one climate may fail in another. Daily observation and management are
 essential, as one aggressive species can outcompete and suppress others if
 not monitored. Mechanization is largely incompatible with mixed plantings,
-limiting polyculture to hand- managed scales. Harvest timing becomes
+limiting polyculture to hand- managed scales. [[cannabis-harvest-timing-visual-cues]] becomes
 complex when multiple crops mature at different rates, and processing mixed
 harvests requires more diverse kitchen or market infrastructure.
 
@@ -76,9 +77,9 @@ Monoculture suits large-scale grain and commodity operations where
 mechanization drives profitability, or when growing a single high- value
 crop for market. The JADAM approach makes monoculture viable at smaller
 scales by eliminating residue removal and maintaining soil biology through
-microbial inputs and returned organic matter. Farmers with limited labor
+microbial inputs and returned [[hamilton-composting-and-organic-matter-management]]. Farmers with limited labor
 who need predictable, harvestable quantities of a single product may also
-prefer monoculture, particularly when combined with cover cropping between
+prefer monoculture, particularly when combined with [[fukuoka-clover-cover-cropping-soil-ecology]] between
 cash crop cycles to maintain soil health. Monoculture is also practical for
 beginning farmers who want to master one crop before adding complexity.
 
@@ -99,7 +100,7 @@ harvests.
 
 Many successful farms combine elements of both approaches. Strip
 intercropping places single-species rows within diverse hedgerow systems.
-Alley cropping runs monoculture vegetable rows between rows of perennial
+[[comparison-alley-cropping-vs-silvopasture]] runs monoculture vegetable rows between rows of perennial
 fruit or nut trees. The JADAM approach of maintaining monoculture with
 returned residues and microbial inputs effectively hybridizes monoculture's
 simplicity with polyculture's soil health principles. Crop rotation between
@@ -110,3 +111,6 @@ the cash crop phase.
 
 - [[comparison-polyculture-vs-intercropping]]
 - [[comparison-green-manure-vs-cover-crops]]
+- [[alley-cropping]]
+- [[root-exudates]]
+- [[comparison-food-forest-vs-polyculture]]

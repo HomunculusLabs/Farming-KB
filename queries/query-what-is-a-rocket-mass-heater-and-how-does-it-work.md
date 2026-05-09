@@ -1,5 +1,5 @@
 ---
-title: "What Is a Rocket Mass Heater and How Does It Work"
+title: "What Is a query what is a rocket mass heater and how does it work Heater and How Does It Work"
 created: 2026-04-28
 tags: [query, rocket-mass-heater, heating, natural-building, energy-efficiency]
 date: 2026-04-25
@@ -19,8 +19,8 @@ using a fraction of the wood required by a conventional wood stove.
 
 ## Detailed Explanation
 The rocket mass heater was developed in the 1980s by Ianto Evans and Leslie Jackson,
-drawing on earlier rocket stove technology developed for efficient cooking in
-developing countries. The design has since been refined by the natural building
+drawing on earlier [[comparison-rocket-stove-vs-masonry-heater]] technology developed for efficient cooking in
+developing countries. The design has since been refined by the [[query-how-do-i-choose-a-natural-building-method-for-my-climate]]
 community and popularized through permaculture networks as one of the most
 efficient and clean-burning wood heating systems available to home builders.
 
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

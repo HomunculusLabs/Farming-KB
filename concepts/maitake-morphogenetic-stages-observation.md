@@ -1,5 +1,5 @@
 ---
-title: Maitake Morphogenetic Stages and Visual Observation Guide
+title: Maitake maitake morphogenetic stages observation and Visual Observation Guide
 created: 2026-04-28
 tags:
   - maitake
@@ -21,7 +21,7 @@ type: concept
 The growth sequence of [[fruiting-body-development]]. Growth and
 differentiation are continuous processes where each stage merges into the
 next. Several distinct morphological stages are recognizable in typical
-G. frondosa strains during fruiting body development.
+G. frondosa strains during [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] development.
 
 ## Spawn Run (Vegetative Mycelial Phase)
 
@@ -44,7 +44,7 @@ period of metabolic activities.
    These cause discoloration of the previously white mycelia.
 
 4. **Surface mycelial coat formation** -- Toward the later stage of
-   the spawn run, tighter [[mushroom-primordia-formation-triggers]]** -- By approximately 40-42 days, grayish
+   the spawn run, tighter mushroom-primordia-formation-triggers** -- By approximately 40-42 days, grayish
    primordia reaching 2.54 to 5.08 cm in diameter form on the
    substrate surface within the closed bag.
 
@@ -86,8 +86,8 @@ As the mushroom continues to grow, overlapping fan-shaped caps develop
 along the elongated stems, creating the cluster flower stage. The
 mushroom color becomes progressively lighter during the intricate
 morphogenesis from the dark grayish-black primordia. Depending on the
-strain, [[medicinal-mushroom-compound-extraction]] Grifola frondosa (Maitake). International
-Journal of Medicinal Mushrooms, Vol. 1, pp. 153-167.
+strain, [[medicinal-mushroom-compound-extraction]] [[maitake-grifola-frondosa-comprehensive-profile]] (Maitake). International
+Journal of [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], Vol. 1, pp. 153-167.
 
 ## See Also
 

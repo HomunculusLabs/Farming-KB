@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-The growing global interest in psychedelic and entheogenic plant medicines — ayahuasca, psilocybin mushrooms, peyote, iboga, San Pedro, and others — raises profound ethical questions about cultural appropriation, ecological sustainability, indigenous rights, intellectual property, and the responsibilities of practitioners and participants. This page examines these issues and proposes frameworks for ethical engagement.
+The growing global interest in psychedelic and entheogenic plant medicines — ayahuasca, [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], peyote, iboga, [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]], and others — raises profound ethical questions about cultural appropriation, ecological sustainability, indigenous rights, intellectual property, and the responsibilities of practitioners and participants. This page examines these issues and proposes frameworks for ethical engagement.
 
 ## Cultural Appropriation vs. Cultural Appreciation
 
@@ -20,7 +20,7 @@ The growing global interest in psychedelic and entheogenic plant medicines — a
 Many psychedelic plant medicines are sacred to indigenous communities who have used them for centuries or millennia:
 
 - Ayahuasca: Indigenous peoples of the Amazon basin (Shipibo, Ashaninka, Quechua, and many others)
-- Peyote: Native American Church members, Huichol (Wixarika) people of Mexico
+- Peyote: [[halpern-sacramental-peyote-and-native-american-church]] Church members, Huichol (Wixarika) people of Mexico
 - Iboga: Bwiti spiritual tradition of Gabon and surrounding regions
 - Psilocybin mushrooms: Mazatec people of Oaxaca, Mexico; various Mesoamerican cultures
 - San Pedro (Echinopsis pachanoi): Andean indigenous traditions
@@ -64,7 +64,7 @@ Lophophora williamsii (peyote) is experiencing severe population decline:
 
 ### Iboga
 
-- Tabernanthe iboga is slow-growing and overharvested in Gabon
+- [[plants-of-the-gods-tabernanthe-iboga-chemistry]] is slow-growing and overharvested in Gabon
 - Some estimates suggest wild populations could be depleted within decades at current rates
 - The Bwiti tradition depends on iboga access for coming-of-age ceremonies
 - Cultivation programs exist but are insufficient to meet global demand
@@ -138,46 +138,6 @@ Practical approaches to economic justice:
 
 The facilitator-participant relationship involves inherent power asymmetry:
 
-- Facilitators hold authority during altered states of consciousness
-- Participants are in vulnerable, suggestible states
-- This dynamic has been exploited in cases of sexual abuse, financial exploitation, and spiritual manipulation
-
-Ethical facilitation requires:
-
-- Clear boundaries and informed consent
-- Trauma-informed training
-- Accountability structures (oversight, peer review)
-- Transparency about facilitator's training, experience, and limitations
-- Right of participants to refuse or stop at any time
-- No sexual contact between facilitators and participants (zero tolerance)
-
-### Cultural Authenticity
-
-Questions for practitioners and participants:
-
-- Am I honoring or extracting from the tradition I am practicing?
-- Do I have the cultural context to practice this responsibly?
-- Am I being transparent about the origins of my methods?
-- Am I compensating the communities whose knowledge I am using?
-- Would the tradition's originators recognize and approve of how I am practicing?
-
-### Accessibility and Equity
-
-- Psychedelic therapy and ceremonies should be accessible beyond the wealthy
-- Sliding scale fees, scholarship programs, and community-based models
-- Recognition that indigenous communities often lack access to their own traditions due to criminalization
-- Advocacy for equitable policy reform that does not prioritize corporate interests
-
-## Synthesis: An Ethical Framework
-
-Five principles for ethical engagement with plant medicines:
-
-1. Acknowledge: Recognize and name the indigenous origins of the practices and plants
-2. Respect: Honor the boundaries set by source communities regarding how knowledge is used
-3. Reciprocate: Contribute materially, financially, and socially to source communities
-4. Sustain: Ensure ecological practices that protect plant populations and habitats
-5. Integrate: Approach the work with humility, ongoing learning, and willingness to be corrected
-
 ## See Also
 
 - [[entheogenic-ceremony-preparation]] — practical preparation including ethical considerations
@@ -186,4 +146,4 @@ Five principles for ethical engagement with plant medicines:
 
 ## See Also
 
-- [[ayahuasca-and-dmt-plant-medicine]]
+- [[entheogen-ayahuasca-admixture-plants]]

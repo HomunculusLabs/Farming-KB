@@ -13,7 +13,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Vega-Gálvez A et al. (2010). "Nutritional aspects and health benefits of quinoa." Journal of Cereal Science 52(2): 229–233.
-  - Bazile D et al. (2016). "State of the Art Report on Quinoa Around the World." FAO/CIRAD.
+  - Bazile D et al. (2016). "State of the Art Report on Quinoa [[fungi-around-the-world-species-distribution]]." FAO/CIRAD.
   - Berti M et al. (2020). "Quinoa: A Potential New Crop for Mediterranean Climates." Agronomy 10(7): 993.
   - Filho AM et al. (2017). "Quinoa: Nutritional, Functional, and Antinutritional Aspects." Critical Reviews in Food Science 57(8): 1618–1630.
 ---
@@ -56,7 +56,7 @@ conditions. The stems are erect, striate, and may be green, red, or purple
 depending on the variety.
 
 Leaves are broadly triangular to hastate, 3–15 cm long, with irregularly
-dentate margins. The leaf surface is coated with a layer of
+dentate margins. The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is coated with a layer of
 hydrophobic saponin-containing vesicles, giving it a mealy appearance.
 
 The inflorescence is a terminal panicle, 15–70 cm long, with both
@@ -74,7 +74,7 @@ sea level.
 
 The species is remarkably adaptable and has been successfully cultivated
 in over 95 countries worldwide. It now grows in diverse climates including
-the Himalayas, northern Europe, East Africa, and North America.
+the Himalayas, northern Europe, East Africa, and [[psilocybin-north-america-pacific-northwest]].
 
 Optimal growing conditions include cool temperatures (15–20°C during
 growth), well-drained soils, and moderate precipitation. Quinoa exhibits
@@ -97,7 +97,7 @@ Quinoa is naturally gluten-free, making it a safe grain alternative for
 celiac patients and those with gluten sensitivity. Its glycemic index is
 low to moderate.
 
-The seeds contain bioactive compounds including flavonoids (quercetin and
+The seeds contain [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] including flavonoids (quercetin and
 kaempferol), saponins with anti-inflammatory properties, and phytosterols.
 
 ## Cultivation
@@ -137,7 +137,7 @@ breeding programs in Denmark and the Netherlands.
 
 ## See Also
 
-- [[amaranthus-retroflexus]]
+- amaranthus-retroflexus
 - [[ipomoea-batatas]]
 - [[colocasia-esculenta]]
 - [[tropaeolum-majus]]

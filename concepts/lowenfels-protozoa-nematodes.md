@@ -18,7 +18,7 @@ microbe-locked nutrients into plant-available forms. Protozoa are single-celled
 animals that feed on bacteria and other microbes; nematodes are tiny unsegmented
 roundworms that feed on bacteria, fungi, and each other. A teaspoon of good
 garden soil contains thousands of protozoa and dozens of nematodes. Both groups
-play essential roles in nutrient cycling and soil food web regulation.
+play essential [[dighton-fungal-roles-in-nutrient-cycling]] cycling and soil food web regulation.
 
 ## Protozoa: The Three Types
 
@@ -60,7 +60,7 @@ Protozoa are essential for maintaining bacterial populations in active growth
 phase. Without predation pressure, bacteria would consume all available food and
 then go dormant -- a less productive state for nutrient cycling. Protozoa
 continuously harvest bacteria, which forces the remaining bacteria to remain
-active, growing, and decomposing organic matter. This grazing pressure maintains
+active, growing, and decomposing [[hamilton-composting-and-organic-matter-management]]. This grazing pressure maintains
 the nutrient cycling engine of the soil food web.
 
 ## Nematodes: Overview
@@ -91,8 +91,8 @@ and are classified into functional groups based on their feeding habits.
 4. **Root-feeding (plant-parasitic) nematodes** -- These attack plant roots,
    causing significant agricultural damage worldwide. A healthy soil food web
    suppresses these pests: predatory nematodes eat them, fungi trap them, and
-   the chemical signals from mycorrhizae deter them. Chemical pesticides that
-   kill beneficial nematodes actually make root-feeding nematode problems worse.
+   the [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] from mycorrhizae deter them. Chemical pesticides that
+   kill [[ingham-beneficial-nematodes-soil-food-web]] actually make root-feeding nematode problems worse.
 
 ## Nematodes and Soil Structure
 

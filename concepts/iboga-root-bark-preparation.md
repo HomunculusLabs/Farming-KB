@@ -1,5 +1,5 @@
 ---
-title: Iboga Root Bark Preparation
+title: Iboga iboga root bark preparation Preparation
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Tabernanthe iboga is a perennial rainforest shrub native to Gabon, Cameroon, and the Republic of Congo in West-Central Africa. The root bark of iboga contains ibogaine — a complex indole alkaloid with unique psychoactive properties. Unlike classical psychedelics (which primarily act on serotonin receptors), ibogaine acts on multiple receptor systems simultaneously, including NMDA receptors, kappa opioid receptors, and the serotonin transporter.
+[[plants-of-the-gods-tabernanthe-iboga-chemistry]] is a perennial rainforest shrub native to Gabon, Cameroon, and the Republic of Congo in West-Central Africa. The root bark of iboga contains ibogaine — a complex [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] with unique psychoactive properties. Unlike classical psychedelics (which primarily act on serotonin receptors), ibogaine acts on multiple receptor systems simultaneously, including NMDA receptors, kappa opioid receptors, and the serotonin transporter.
 
 Iboga has been used for centuries in the Bwiti spiritual tradition of the Fang people of Gabon. In the West, ibogaine has gained attention for its reputed ability to interrupt substance addiction, particularly opioid dependence — though this application remains experimental and unapproved by major medical regulatory bodies.
 
@@ -58,13 +58,13 @@ Traditional Bwiti practice involves consuming raw or minimally processed root ba
 2. The bark can be chewed directly, though it is extremely bitter and fibrous
 3. More commonly, the bark is powdered and mixed with water into a slurry
 4. Some people fill capsules with the powder to avoid the taste
-5. Ginger, honey, or fruit juice can help mask the bitterness
+5. Ginger, honey, or [[bionutrients-lab-fermented-fruit-juice-ffj]] can help mask the bitterness
 
 ### Flood Dose Protocol
 
 A "flood dose" is a large, single dose intended to produce the full visionary experience. This is the traditional initiation approach:
 
-**Preparation Phase (1–2 weeks before):**
+**[[cultivator-compost-preparation-phase-methods]] (1–2 weeks before):**
 - Discontinue all psychoactive substances (critical safety requirement)
 - Stop SSRIs at least 2 weeks prior (serotonin syndrome risk)
 - Discontinue opioids — withdrawal should be managed before the flood dose
@@ -114,7 +114,7 @@ Voacanga africana seeds contain voacangine, which can be chemically converted to
 
 ## Safety Screening
 
-Ibogaine carries significant medical risks and requires thorough screening:
+Ibogaine carries significant [[ayahuasca-tourism-medical-risks-prescription-interactions]] and requires thorough screening:
 
 **Absolute contraindications:**
 - History of heart arrhythmia, prolonged QT interval, or recent cardiac events
@@ -140,8 +140,6 @@ Ibogaine carries significant medical risks and requires thorough screening:
 Ibogaine has been associated with cardiac fatalities — the primary risk mechanism is prolongation of the QT interval leading to torsades de pointes, a potentially fatal arrhythmia.
 
 ## Legal Status
-
-Ibogaine is classified as a Schedule I substance in the United States. It is illegal in several other countries but unscheduled or available for medical use in others (e.g., Brazil, New Zealand has limited medical provisions). See [[psychedelic-plants-legal-status]] for a country-by-country breakdown.
 
 ## Related Topics
 

@@ -89,4 +89,4 @@ monotub or shoebox. This bridges the gap between methods, requiring no
 pressure cooker while still achieving yields closer to monotub levels.
 
 ## See Also
-- [[fruiting-chamber-design]]
+- fruiting-chamber-design

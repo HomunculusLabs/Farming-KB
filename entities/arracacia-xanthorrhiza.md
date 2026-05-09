@@ -41,7 +41,7 @@ Arracacha is native to the Andean region, spanning from Venezuela and Colombia s
 
 The species thrives in cool tropical climates with mean annual temperatures of 12–18°C and annual rainfall of 800–1,500 mm. It requires well-drained volcanic or loamy soils with moderate fertility.
 
-Outside its native range, arracacha has been introduced to southern Brazil, Costa Rica, and parts of Central America at suitable altitudes. Limited trials have occurred in New Zealand and parts of Southeast Asia.
+Outside its native range, arracacha has been introduced to southern Brazil, Costa Rica, and parts of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] at suitable altitudes. Limited trials have occurred in New Zealand and parts of Southeast Asia.
 
 The species performs best on volcanic ash-derived soils (Andisols) common in the Andean highlands. It tolerates acidic conditions (pH 4.5–6.5) but is sensitive to waterlogging and heavy clay soils.
 
@@ -69,9 +69,9 @@ Dried arracacha flour contains approximately 75% carbohydrate, 5% protein, and 0
 
 In traditional Andean agriculture, arracacha is intercropped with maize, beans, and other tubers in polyculture systems. Its erect foliage provides partial shade for understory crops while its deep roots improve soil structure.
 
-The crop contributes to soil health through root exudates and organic matter return from leaf litter. Its canopy protects soil from erosion on steep Andean slopes, making it valuable in conservation agriculture.
+The crop contributes to soil health through root exudates and [[hamilton-composting-and-organic-matter-management]] return from leaf litter. Its canopy protects soil from erosion on steep Andean slopes, making it valuable in conservation agriculture.
 
-In permaculture design, arracacha fits well in high-altitude food forests and temperate-zone root crop guilds. Its long growing season requires planning but rewards with reliable yields in cool climates where few other root crops succeed.
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], arracacha fits well in high-altitude food forests and temperate-zone root crop guilds. Its long [[savory-growing-season-and-non-growing-season-management]] requires planning but rewards with reliable yields in cool climates where few other root crops succeed.
 
 The deep root system helps break compacted subsoil layers, making arracacha a useful pioneer species in soil rehabilitation projects. Its biomass contribution through leaf litter adds organic matter to the upper soil profile.
 
@@ -85,7 +85,7 @@ Root-knot nematodes (*Meloidogyne* spp.) pose a serious threat in areas where ar
 
 Fungal crown rot caused by *Sclerotinia sclerotiorum* and *Fusarium* species can devastate stored roots, particularly under humid conditions. Improved post-harvest handling and prompt processing are the primary management strategies.
 
-Insect pests include the arracacha weevil and various aphid species that serve as vectors for viral diseases. Cultural controls such as crop rotation and removal of volunteer plants are standard practices.
+Insect pests include the arracacha weevil and various aphid species that serve as vectors for [[cervantes-viral-diseases-cannabis]]. Cultural controls such as crop rotation and removal of volunteer plants are standard practices.
 
 ## Cultural Significance
 
@@ -101,7 +101,7 @@ Considerable genetic diversity exists among arracacha landraces, particularly in
 
 Breeding programs at CIAT (Colombia) and CIP (Peru) have focused on improving shelf life, disease resistance, and yield stability. Hybridization between ecotypes has produced promising lines with shorter maturity periods.
 
-Conservation of arracacha germplasm faces challenges because the species is propagated vegetatively and maintains limited seed fertility. Gene banks maintain living collections in field plots and in vitro tissue culture.
+Conservation of arracacha germplasm faces challenges because the species is propagated vegetatively and maintains limited seed fertility. Gene banks maintain living collections in field plots and in vitro [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]].
 
 ## See Also
 

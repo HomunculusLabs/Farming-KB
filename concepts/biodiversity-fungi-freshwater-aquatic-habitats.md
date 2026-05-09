@@ -1,5 +1,5 @@
 ---
-title: "Fungi in Freshwater Aquatic Habitats"
+title: "Fungi in biodiversity fungi freshwater aquatic habitats Habitats"
 created: 2026-04-28
 tags:
   - freshwater-fungi
@@ -21,7 +21,7 @@ fungus-like straminipiles and protists. Fungi are found in all types of
 freshwater habitats, including rivers, streams, drainage ditches, marshes,
 swamps, bogs, lakes, ponds, temporary ponds, and wetlands. Fungal
 saprobes play a major role in freshwater ecosystems as decomposers of
-plant and animal tissues, and parasitic fungi occur on planktonic and
+plant and animal tissues, and [[escovopsis-parasitic-fungi-attine-ant-gardens]] occur on planktonic and
 benthic algae, aquatic macrophytes, fish, amphibians, invertebrates, and
 animal-like protists.
 
@@ -50,7 +50,7 @@ research of specialist mycologists. Notable contributions include studies
 of chytrids associated with algae in the English Lake District by H. M.
 Canter and colleagues, and saprotrophic chytrids of lake margins and
 muds by L. G. Willoughby. F. K. Sparrow and colleagues documented
-[[agar]] (commonly PmTG with antibiotics), and sporangia are cleaned
+agar (commonly PmTG with antibiotics), and sporangia are cleaned
 by pushing them through the agar with a fine needle to remove bacteria.
 After cleaning, sporangia are isolated and plates sealed with laboratory
 film. An alternative method for tiny sporangia involves washing the
@@ -93,4 +93,9 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[decomposition]]
+- [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]]
+- [[freshwater-fungi-biodiversity]]
+- [[guzman-africa-neurotropic-fungi-underexplored-biodiversity]]
+- [[biodiversity-of-fungi-ecosystem-services-agriculture]]

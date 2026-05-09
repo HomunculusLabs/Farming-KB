@@ -30,7 +30,7 @@ Brassinosteroids are polyhydroxylated steroidal compounds characterized by a com
 
 ## Agricultural Applications
 
-Synthetic brassinosteroids and brassinosteroid analogs have been evaluated for crop improvement, with documented benefits including increased yields of rice, wheat, maize, and vegetables. They are applied at extremely low concentrations (nanomolar range), making them cost-effective growth enhancers. Their anti-stress properties have generated interest for use in climate-resilient agriculture. Field trials across multiple crop species and growing regions have demonstrated that brassinosteroid application can improve seed germination rates, root development, vegetative growth, and reproductive output. The stress-mitigating efepibrassinolidecularly noteworthy: brassinosteroid-treated plants show improved recovery from drought, heat, cold, and salinity stress, as well as enhanced resistance to fungal and bacterial pathogens. Commercial brassinosteroid formulations, primarily based on 24-epibrassinolide and 28-homobrassinolide, are registered for agricultural use in several countries, particularly in Asia and Latin America. Interest in brassinosteroids for sustainable agriculture continues to grow as climate change increases abiotic stress on crop production worldwide.
+Synthetic brassinosteroids and brassinosteroid analogs have been evaluated for crop improvement, with documented benefits including increased yields of rice, wheat, maize, and vegetables. They are applied at extremely low concentrations (nanomolar range), making them cost-effective growth enhancers. Their anti-stress properties have generated interest for use in climate-resilient agriculture. Field trials across multiple crop species and growing regions have demonstrated that brassinosteroid application can improve [[cannabis-seed-germination-methods]] rates, root development, [[cannabis-vegetative-growth-stage]], and reproductive output. The stress-mitigating efepibrassinolidecularly noteworthy: brassinosteroid-treated plants show improved recovery from drought, heat, cold, and salinity stress, as well as enhanced resistance to fungal and bacterial pathogens. Commercial brassinosteroid formulations, primarily based on 24-epibrassinolide and 28-homobrassinolide, are registered for agricultural use in several countries, particularly in Asia and Latin America. Interest in brassinosteroids for sustainable agriculture continues to grow as [[dighton-fungi-climate-change-feedback]] increases abiotic stress on crop production worldwide.
 
 ## Biosynthesis in Plants
 
@@ -42,7 +42,7 @@ Active brassinosteroids are maintained at very low concentrations in plant tissu
 
 ## Cross-Talk with Other Hormonal Pathways
 
-Brassinosteroid signaling intersects extensively with other plant hormonal systems. It synergizes with [[homobrassinolide]] at 10⁻² ppm dramatically accelerated mycelial growth and fruiting in [[mushroom-cultivation]], as brassinosteroid application could potentially improve yields of cultivated species.
+Brassinosteroid signaling intersects extensively with other plant hormonal systems. It synergizes with [[homobrassinolide]] at 10⁻² ppm dramatically accelerated [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and fruiting in [[mushroom-cultivation]], as brassinosteroid application could potentially improve yields of cultivated species.
 
 ## Brassinosteroid Deficiency and Mutants
 
@@ -50,7 +50,7 @@ Mutants deficient in brassinosteroid biosynthesis or signaling display a charact
 
 ## Commercial Products
 
-Several commercial brassinosteroid formulations are available for agricultural use, primarily based on 24-epibrassinolide and 28-homobrassinolide. These products are marketed as plant growth regulators and stress mitigants. Application rates are typically in the range of 0.01 to 0.1 mg/L, reflecting the high biological activity of these compounds. The global market for brassinosteroid-based products has been growing steadily, particularly in China, India, and Latin America.
+Several commercial brassinosteroid formulations are available for agricultural use, primarily based on 24-epibrassinolide and 28-homobrassinolide. These products are marketed as [[singh-fungal-plant-growth-regulators-production]] and stress mitigants. [[ingham-compost-tea-application-rates-and-timing]] are typically in the range of 0.01 to 0.1 mg/L, reflecting the high biological activity of these compounds. The global market for brassinosteroid-based products has been growing steadily, particularly in China, India, and Latin America.
 
 ## See Also
 
@@ -59,6 +59,7 @@ Several commercial brassinosteroid formulations are available for agricultural u
 - [[psilocybe-cubensis]]
 - j.-gartz
 - arabidopsis thaliana
+
 ## Practical Considerations
 
 Successful implementation of Brassinosteroid requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -15,11 +15,11 @@ Ectomycorrhizal (ECM) fungi form symbiotic associations with roots of forest tre
 
 ECM fungi offer several unique advantages for soil [[mycorrhizal-fungi-rhizosphere-remediation]] for comprehensive mycorrhizal remediation
 - [[mycorrhizal-pah-tnt-degradation]] for PAH and explosives degradation
-- [[mycorrhizal-hydrocarbon-remediation]] for petroleum degradation
+- mycorrhizal-hydrocarbon-remediation for petroleum degradation
 - [[ectomycorrhizal-morphological-structures]]
 
 ## Merged: In Situ vs Ex Situ Bioremediation
-Bioremediation strategies are broadly categorized as in situ (treating contamination in place) or ex situ (excavating contaminated material for treatment elsewhere). The choice between these approaches depends on contaminant type, soil conditions, site accessibility, time constraints, and regulatory requirements. See [[mycorrhizal-fungi-basics-lowenfels]] with established vegetation. The [[staycare-bioavailability-pollutants-fungal-bioremediation]], Ectomycorrhizal approaches, [[phytoremediation-mechanisms]], [[ectomycorrhizal-ecology]] [[ectomycorrhizal-host-tree-partnerships]] [[fungal-mycelial-network-architecture]] [[fungal-nutrient-translocation-mycelial-systems]] ectomycorrhizal remediation [[mycorrhizal-types-diversity]] The exploration type concept recognizes that ectomycorrhizal fungal species differ systematically in the amount of biomass they invest in extraradical hyphae, the distance these hyphae extend from the root surface, and the degree to which hyphae are aggregated into differentiated structures such as rhizomorphs and cords.
+[[comparison-bioremediation-strategies-vs-biostimulation-techniques]] are broadly categorized as in situ (treating contamination in place) or ex situ (excavating contaminated material for treatment elsewhere). The choice between these approaches depends on contaminant type, soil conditions, site accessibility, time constraints, and regulatory requirements. See mycorrhizal-fungi-basics-lowenfels with established vegetation. The [[staycare-bioavailability-pollutants-fungal-bioremediation]], Ectomycorrhizal approaches, [[phytoremediation-mechanisms]], [[ectomycorrhizal-ecology]] [[ectomycorrhizal-host-tree-partnerships]] fungal-mycelial-network-architecture fungal-nutrient-translocation-mycelial-systems ectomycorrhizal remediation [[mycorrhizal-types-diversity]] The exploration type concept recognizes that ectomycorrhizal fungal species differ systematically in the amount of biomass they invest in extraradical hyphae, the distance these hyphae extend from the root surface, and the degree to which hyphae are aggregated into differentiated structures such as rhizomorphs and cords.
 ## Practical Applications
 
 Ectomycorrhizal Remediation of Contaminated Soils has a range of practical applications that make it relevant to
@@ -97,4 +97,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -5,7 +5,8 @@ updated: 2026-04-16
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka's Philosophy of Mu (Nothingness) and the Road to Nature
 
@@ -22,7 +23,7 @@ teaches that all things fuse into a circle, which reverts to a point, and
 all laws
 emanate from one source and return to Mu.
 
-In Fukuoka's framework, discriminating knowledge (the analytical, categorizing
+In Fukuoka's framework, [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] (the analytical, categorizing
 intellect)
 creates a false perception of nature. Nature as perceived by man through
 discriminating
@@ -42,8 +43,8 @@ Fukuoka describes three levels or circles of understanding, with Mu at the
 innermost
 center (circle 0). Moving outward:
 1. Mu — the state of nothingness, origin and destination
-2. Mahayana natural farming — encompassing all things
-3. Scientific agriculture — the world of discriminating knowledge and intervention
+2. Mahayana [[comparison-natural-farming-vs-permaculture]] — encompassing all things
+3. [[fukuoka-critique-scientific-agriculture-civilization]] — the world of discriminating knowledge and intervention
 
 Each level is subsumed by the one within it. Scientific agriculture (Hinayana
 farming)
@@ -51,7 +52,7 @@ will always yield to Mahayana natural farming, and Mahayana encompasses everythi
 
 ## Critique of Scientific Civilization
 
-Fukuoka's philosophy extends to a sweeping critique of modern civilization.
+Fukuoka's philosophy extends to a sweeping [[fukuoka-road-critique-of-modern-science]] civilization.
 Scientists
 envision domed cities with enormous heaters and cooling systems, but these
 are merely

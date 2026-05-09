@@ -124,7 +124,7 @@ The two species are compatible when planted together: vetiver does not compete w
 
 ## Combined Use
 
-Vetiver and bamboo are complementary rather than competing. In large-scale watershed projects, vetiver hedges planted on contour lines anchor the mid-slope while bamboo clumps established at the toe of slope and along waterways provide structural reinforcement and shade. This stacked approach combines vetiver's subsurface anchoring with bamboo's above-ground biomass, delivering erosion control across the full soil profile.
+Vetiver and bamboo are complementary rather than competing. In large-scale watershed projects, vetiver hedges planted on contour lines anchor the mid-slope while bamboo clumps established at the toe of slope and along waterways provide structural reinforcement and shade. This stacked approach combines vetiver's subsurface anchoring with bamboo's above-ground biomass, delivering [[soil-erosion-control]] across the full soil profile.
 
 ## See Also
 

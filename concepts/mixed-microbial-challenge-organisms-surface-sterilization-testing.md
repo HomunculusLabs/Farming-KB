@@ -2,7 +2,7 @@
 
 ## Overview
 
-The NASA microwave surface sterilization system (MSC-22484) was validated using a mixed population of three challenge organisms: *Bacillus pumilus*, *Escherichia coli*, and *Pseudomonas cepacia* (now reclassified as *Burkholderia cepacia*). This combination was deliberately chosen to represent different categories of microbial life forms with varying resistance to sterilization methods, providing a rigorous test of the system's capability.
+The NASA [[challenge-microorganisms-microwave-surface-sterilization]] sterilization system (MSC-22484) was validated using a mixed population of three challenge organisms: *Bacillus pumilus*, *Escherichia coli*, and *Pseudomonas cepacia* (now reclassified as *Burkholderia cepacia*). This combination was deliberately chosen to represent different categories of microbial life forms with varying resistance to [[conventional-surface-sterilization-methods-limitations-comparison]], providing a rigorous test of the system's capability.
 
 ## Challenge Organism Profiles
 
@@ -13,12 +13,12 @@ The NASA microwave surface sterilization system (MSC-22484) was validated using 
 **Significance as a challenge organism**:
 - *B. pumilus* is a spore-forming bacterium whose endospores are among the most resistant biological structures to physical and chemical sterilization methods.
 - Spores are the gold standard for sterilization validation because they represent the hardest-to-kill life stage of the hardest-to-kill organisms.
-- *B. pumilus* spores are widely used as biological indicators for sterilization processes including gamma irradiation, hydrogen peroxide plasma, and dry heat.
+- *B. pumilus* spores are widely used as biological indicators for sterilization processes including gamma irradiation, [[cervantes-hydrogen-peroxide-sterilization]] plasma, and dry heat.
 
 **Resistance characteristics**:
-- Spores lack free water in their cytoplasm, making them resistant to microwave sterilization methods that rely on water coupling.
+- Spores lack free water in their cytoplasm, making them resistant to [[nasa-microwave-sterilization-challenge-organisms-kill-kinetics]] methods that rely on water coupling.
 - The spore coat and cortex provide multiple protective layers against heat, radiation, and chemical attack.
-- In the NASA system, *B. pumilus* was the last organism to be eliminated during microwave exposure, confirming its role as the most resistant member of the challenge panel.
+- In the NASA system, *B. pumilus* was the last organism to be eliminated during [[microbial-kill-curve-microwave-exposure-dose-response]], confirming its role as the most resistant member of the challenge panel.
 - Destruction of *B. pumilus* spores required the enhanced trace-water method, where approximately 9 µL/cm² of water was added to the surface to generate flash steam.
 
 ### *Escherichia coli*
@@ -47,7 +47,7 @@ The NASA microwave surface sterilization system (MSC-22484) was validated using 
 
 **Resistance characteristics**:
 - Moderate resistance to chemical disinfectants due to efflux pumps and low outer membrane permeability.
-- As a vegetative organism with high water content, it is susceptible to microwave irradiation similar to *E. coli*.
+- As a vegetative organism with high water content, it is susceptible to [[dry-microwave-irradiation-spore-resistance]] similar to *E. coli*.
 - In mixed-population testing, *P. cepacia* typically shows intermediate susceptibility — eliminated more easily than spores but potentially more persistent than *E. coli* under some conditions.
 
 ## Rationale for Mixed-Population Testing
@@ -126,6 +126,8 @@ While the NASA system was developed for aerospace applications, the mixed-challe
 - **Clean room procedures**: The principles of mixed-population testing apply to the design and validation of inoculation and casing procedures in cultivation environments.
 
 ## See Also
+
+- [[challenge-organisms-nasa-microwave-surface-sterilization-testing]]
 
 - [[microbial-kill-curve-microwave-surface-sterilization-kinetics]]
 - [[spore-vs-vegetative-cell-resistance-microwave-sterilization]]

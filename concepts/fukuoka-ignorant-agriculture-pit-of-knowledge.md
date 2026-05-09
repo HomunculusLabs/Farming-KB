@@ -1,15 +1,16 @@
 ---
-title: Fukuoka Ignorant Agriculture and the Pit of Knowledge
+title: Fukuoka fukuoka ignorant agriculture pit of knowledge and the fukuoka-pit-of-knowledge-fragmented-science
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka Ignorant Agriculture and the Pit of Knowledge
 
-In the final section of "The Road Back to Nature," Fukuoka delivers his most pointed critique of modern science, medicine, and agriculture, arguing that specialized knowledge has created a "pit of ignorance" from which humanity cannot escape.
+In the final section of "The Road Back to Nature," Fukuoka delivers his most pointed [[fukuoka-road-critique-of-modern-science]] science, medicine, and agriculture, arguing that specialized knowledge has created a "pit of ignorance" from which humanity cannot escape.
 
 ## The Pit of Knowledge
 
@@ -47,7 +48,7 @@ This directly parallels [[fukuoka-critique-genetic-engineering]] for expanded an
 
 ## The Nature University Vision
 
-Against this backdrop, Fukuoka saw the proposed International Nature University as an attempt to create an alternative educational model -- one that would teach people to understand nature directly rather than through the fragmented lens of specialized science. See [[fukuoka-dharmic-law-all-things-return-to-one]] and [[fukuoka-ignorant-medicine-hospital-collapse]] Concepts
+Against this backdrop, Fukuoka saw the proposed [[fukuoka-international-nature-university-peace-march]] University as an attempt to create an alternative educational model -- one that would teach people to understand nature directly rather than through the fragmented lens of specialized science. See [[fukuoka-dharmic-law-all-things-return-to-one]] and [[fukuoka-ignorant-medicine-hospital-collapse]] Concepts
 
 - [[fukuoka-nature-god-limits-of-knowledge]]
 - [[fukuoka-critique-genetic-engineering]]
@@ -68,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

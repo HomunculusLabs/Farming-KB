@@ -5,7 +5,8 @@ updated: 2026-04-18
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Origin of Agriculture and Human Dietary Cravings
@@ -30,7 +31,7 @@ The process follows a predictable pattern:
 3. He goes off in search of even greater culinary extravagance
 4. His cravings proceed one step ahead of his efforts to satisfy them
 
-"The food that animals eat by instinct constitutes a complete diet, but man, with his reliance on discriminating knowledge, has lost sight of what a complete diet is."
+"The food that animals eat by instinct constitutes a complete diet, but man, with his reliance on [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]], has lost sight of what a complete diet is."
 
 ## The Fragmentation of Diet
 
@@ -62,11 +63,11 @@ The person forced to eat such food would complain: "How much easier, cheaper, an
 
 ## Connection to Natural Farming
 
-This analysis of dietary origin directly informs Fukuoka's [[fukuoka-natural-diet-food-philosophy]]: if natural food is inherently sufficient, then any agricultural system that produces different food is solving a problem that nature never posed. Agriculture, in this view, is humanity's ongoing attempt to manufacture the satisfaction that comes freely from eating what nature provides. The entire edifice of agrarian civilization — irrigation, plowing, selective breeding, fertilizers, pesticides, genetic engineering — is, in Fukuoka's framework, a cascade of interventions necessitated by the original error of dietary discrimination.
+This analysis of dietary origin directly informs Fukuoka's [[fukuoka-natural-diet-food-philosophy]]: if natural food is inherently sufficient, then any agricultural system that produces different food is solving a problem that nature never posed. Agriculture, in this view, is humanity's ongoing attempt to manufacture the satisfaction that comes freely from eating what nature provides. The entire edifice of agrarian civilization — irrigation, plowing, selective breeding, fertilizers, pesticides, [[fukuoka-textdoc-genetic-engineering-critique-warning]] — is, in Fukuoka's framework, a cascade of interventions necessitated by the original error of dietary discrimination.
 
 ## The Craving-Agriculture Feedback Loop
 
-Fukuoka identifies a self-reinforcing cycle between craving and agricultural development. As humans cultivated crops, they selectively bred for sweetness, size, and yield — effectively engineering food to satisfy increasingly refined palates. Each improvement in food quality raised the baseline of expectation, making natural foods seem inadequate by comparison. Agriculture thus became an arms race between craving and production, with each advance in cultivation technology enabling (and being driven by) more sophisticated gustatory demands.
+Fukuoka identifies a self-reinforcing cycle between craving and agricultural development. As humans cultivated crops, they selectively bred for sweetness, size, and yield — effectively engineering food to satisfy increasingly refined palates. Each improvement in food quality raised the baseline of expectation, making [[fukuoka-natural-foods-movement-america]] seem inadequate by comparison. Agriculture thus became an arms race between craving and production, with each advance in cultivation technology enabling (and being driven by) more sophisticated gustatory demands.
 
 This feedback loop explains, in Fukuoka's view, why agricultural intensification never satisfies the hunger it claims to address. No matter how productive farming becomes, the perceived need for better, more varied, more exotic food always outpaces supply. The modern global food system — with its year-round availability of every imaginable ingredient — represents the endpoint of this process: staggering productive capacity paired with persistent dietary anxiety and dissatisfaction.
 
@@ -74,7 +75,7 @@ This feedback loop explains, in Fukuoka's view, why agricultural intensification
 
 Fukuoka's theory is philosophical rather than empirical, but it intersects with several anthropological debates. The "broad spectrum revolution" hypothesis, proposed by Kent Flannery and others, suggests that the shift to agriculture was preceded by a broadening of the human diet to include a wider variety of foods — supporting Fukuoka's claim that dietary expansion, not scarcity, drove agricultural development. Archaeological evidence from the Natufian culture in the Levant shows that sedentary communities with abundant wild food resources were among the first to experiment with cultivation, suggesting that agriculture was not a desperate response to starvation.
 
-However, mainstream anthropology offers important qualifications. Jared Diamond's famous question — "the worst mistake in the history of the human race" — captures the paradox that agriculture often reduced nutritional quality and health even as it increased caloric output, lending some support to Fukuoka's negative assessment. Yet most anthropologists would reject Fukuoka's claim that nature provided unlimited food for all. Population pressure, climate change (particularly the Younger Dryas), and localized resource depletion all played documented roles in the transition to agriculture in various parts of the world.
+However, mainstream anthropology offers important qualifications. Jared Diamond's famous question — "the worst mistake in the history of the human race" — captures the paradox that agriculture often reduced [[coleman-winter-greens-nutritional-quality-cold-sweetening]] and health even as it increased caloric output, lending some support to Fukuoka's negative assessment. Yet most anthropologists would reject Fukuoka's claim that nature provided unlimited food for all. Population pressure, [[dighton-fungi-climate-change-feedback]] (particularly the Younger Dryas), and localized resource depletion all played documented roles in the transition to agriculture in various parts of the world.
 
 Fukuoka's theory also neglects the co-evolutionary relationship between humans and domesticated plants. Many scholars now argue that certain plants (such as wheat) essentially domesticated humans as much as humans domesticated them — the relationship being mutualistic rather than one-sided. This more nuanced view complicates Fukuoka's narrative of human arrogance but does not entirely contradict it; the mutualism argument can be read as evidence that agriculture emerged from ecological relationship rather than rational design, which is somewhat consistent with Fukuoka's skepticism toward human intentionality.
 

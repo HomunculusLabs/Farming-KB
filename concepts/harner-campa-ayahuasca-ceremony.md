@@ -1,5 +1,5 @@
 ---
-title: Campa Ayahuasca Ceremony and the Shaman-Priest Transition
+title: harner campa [[ayahuasca-ceremony-pharmacology-safety]] Ceremony and the Shaman-Priest Transition
 created: 2026-04-26
 sources: Harner (ed.), Hallucinogens and Shamanism (1973), Ch. 4 (Weiss)
 related:
@@ -18,7 +18,7 @@ The Campa Indians of eastern Peru use ayahuasca in a ceremony that may illuminat
 
 The Campa call the brew **kamdrampi**, meaning "to vomit," reflecting its extremely bitter and sometimes emetic qualities. It is prepared by boiling:
 - Fragments of ayahuasca vine (also called *kamdrampi*), found wild and transplanted near settlements
-- Leaves of an uncultivated tree called *horeva* (*Psychotria viridis*)
+- Leaves of an uncultivated tree called *horeva* (*[[chacruna-psychotria-viridis]]*)
 
 ## The Ceremony
 
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

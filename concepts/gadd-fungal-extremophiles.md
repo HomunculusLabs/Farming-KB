@@ -16,9 +16,9 @@ Fungi inhabit virtually every environment on Earth, including habitats that are 
 
 ## Thermotolerant and Thermophilic Fungi
 
-Thermophilic fungi are defined as those with maximum growth temperatures at or above 50 degrees C and minimum growth temperatures at or above 20 degrees C. Thermotolerant fungi can grow at high temperatures but have lower minimum growth temperatures than true thermophiles. These fungi are common inhabitants of:
+Thermophilic fungi are defined as those with maximum growth temperatures at or above 50 degrees C and minimum growth temperatures at or above 20 degrees C. [[thermophilic-thermotolerant-fungi-ecology-isolation]] can grow at high temperatures but have lower minimum growth temperatures than true thermophiles. These fungi are common inhabitants of:
 
-- **Compost and self-heating organic matter**: Decomposing organic materials can reach 60-70 degrees C through microbial metabolic heat production. Thermophilic fungi are key agents in the thermophilic phase of composting.
+- **Compost and self-heating [[hamilton-composting-and-organic-matter-management]]**: Decomposing organic materials can reach 60-70 degrees C through microbial metabolic heat production. Thermophilic fungi are key agents in the thermophilic phase of composting.
 - **Soils**: Especially warm soils in tropical and subtropical regions, and sun-heated surface soils in temperate zones.
 - **Desert soils**: Where daytime surface temperatures can exceed 60 degrees C.
 - **Stored grain and animal feed**: Where spontaneous heating can create thermophilic conditions.
@@ -29,7 +29,7 @@ Important thermophilic species include Myriococcum thermophilum, Malbranchea cin
 
 Psychrotolerant fungi can grow at low temperatures (near or below 0 degrees C) but have optimum growth temperatures above 15 degrees C. True psychrophiles have optimum growth temperatures below 15 degrees C and maximum temperatures below 20 degrees C. Cold-adapted fungi are found in:
 
-- **Polar and alpine soils**: Antarctica, Arctic tundra, and high mountain environments harbor diverse cold-adapted fungal communities including Cylindrocarpon, Chrysosporium, Mortierella, Oidiodendron, and various Penicillium species.
+- **Polar and alpine soils**: Antarctica, Arctic tundra, and high mountain environments harbor diverse cold-adapted [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] including Cylindrocarpon, Chrysosporium, Mortierella, Oidiodendron, and various Penicillium species.
 - **Snow mold habitats**: Low-temperature-tolerant soil-borne fungi such as Microdochium nivale, Myriosclerotinia borealis, Typhula ishikariensis, and Coprinus psychromorbidus can grow at the bases of snow-covered plants and cause extensive damage to grasses and cereals.
 - **Cold storage environments**: Fungi that spoil refrigerated foods and stored products.
 - **Cold bogs and coniferous swamps**: Where yeasts, yeastlike forms, Tolypocladium, Trichoderma, and certain penicillia and eurotialean fungi predominate.
@@ -40,7 +40,7 @@ Cold-adapted fungi produce cold-active enzymes that remain functional at low tem
 
 Although copper, nickel, and zinc are essential trace elements for fungal growth, an overabundance of these micronutrients or the presence of toxic heavy metals (cadmium, lead, mercury, silver) can severely inhibit fungal growth. Heavy-metal tolerance involves several mechanisms:
 
-- **Efflux pumps**: Active transport of metal ions out of the cell.
+- **Efflux pumps**: [[diffusion-osmosis-and-active-transport-in-plants]] of metal ions out of the cell.
 - **Sequestration**: Intracellular binding of metals by metallothioneins, phytochelatins, and glutathione.
 - **Cell wall binding**: Chitin and other cell wall components can adsorb and immobilize metal ions.
 - **Extracellular complexation**: Production of organic acids and other chelating agents that bind metals outside the cell.
@@ -51,7 +51,7 @@ Heavy-metal-tolerant fungi can be isolated from most metal-contaminated sites. N
 
 Water activity (aw) is a critical factor determining where fungi can grow. Most microorganisms are restricted to substrata with aw values of 0.95 and higher. Osmophilic fungi can grow on substrata whose low water activities result from high solute (sugar or salt) concentrations. Important osmophilic genera include Aspergillus, Penicillium, Wallemia, and Xeromyces, as well as the osmophilic yeasts Debaryomyces hansenii and Saccharomyces rouxii.
 
-Foods with low water activities subject to fungal spoilage include salted fish, jams, jellies, and candy. Desert soils harbor surprisingly diverse osmophilic fungal communities -- one study in Saudi Arabia isolated 100 species in 38 genera from desert soil using high-sucrose media.
+Foods with low water activities subject to fungal spoilage include salted fish, jams, jellies, and candy. Desert soils harbor surprisingly diverse [[water-activity-osmophilic-fungal-media-preparation]] communities -- one study in Saudi Arabia isolated 100 species in 38 genera from desert soil using high-sucrose media.
 
 ## Xerotolerant and Xerophilic Fungi
 
@@ -65,7 +65,7 @@ Desert ecosystems can have higher fungal species diversity than predicted based 
 
 ### Acidophilic Fungi
 
-Mildly acidic habitats (pH 3-4) are relatively common, including acidified lakes, some pine soils, and acidic bogs. More extreme acid environments (pH below 3) occur near hot springs, coal mine refuse piles, and mining effluents. Although most fungi grow best in weakly acidic to neutral pH ranges, some species tolerate or prefer strongly acidic conditions. Acidophilic fungi have adapted their membrane transport systems and enzyme activities to function at low pH.
+Mildly acidic habitats (pH 3-4) are relatively common, including acidified lakes, some pine soils, and acidic bogs. More extreme acid environments (pH below 3) occur near hot springs, coal mine refuse piles, and mining effluents. Although most fungi grow best in weakly acidic to neutral pH ranges, some species tolerate or prefer strongly acidic conditions. Acidophilic fungi have adapted their [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] systems and enzyme activities to function at low pH.
 
 ### Alkalophilic Fungi
 
@@ -85,6 +85,6 @@ Oligotrophic fungi are adapted to grow in extremely nutrient-poor environments. 
 
 - [[xerophilic-xerotolerant-fungi]]
 - [[acidophilic-alkalophilic-fungi]]
-- [[fungal-biodiversity-alpine-arctic]]
+- fungal-biodiversity-alpine-arctic
 - [[gadd-fungal-biodiversity-conservation]]
 - [[gadd-fungal-ecology-saprotrophs]]

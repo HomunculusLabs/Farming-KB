@@ -9,7 +9,7 @@ sources:
 ---
 # JADAM Antibiotic Contamination and Soil Health Crisis
 
-JADAM identifies the contamination of soil by antibiotics from factory livestock operations as one of the most serious and underrecognized threats to agricultural sustainability. The use of antibiotic-laden manure on farms creates a cascade of soil degradation that undermines the foundation of crop production.
+JADAM identifies the contamination of soil by antibiotics from [[fukuoka-factory-livestock-critique-natural-grazing-philosophy]] operations as one of the most serious and underrecognized threats to agricultural sustainability. The use of antibiotic-laden manure on farms creates a cascade of soil degradation that undermines the foundation of crop production.
 
 ## The Antibiotic Pathway from Livestock to Soil
 
@@ -28,7 +28,7 @@ A University of Minnesota study, supported by the US Department of Agriculture (
 
 - Antibiotics do move into the plants
 - Concentrations became higher as the use of manure increased
-- Root vegetables (potatoes, carrots, radish) that come into direct contact with soil were far more vulnerable to antibiotic contamination
+- [[growing-root-vegetables-guide]] (potatoes, carrots, radish) that come into direct contact with soil were far more vulnerable to antibiotic contamination
 - The implications extend beyond soil health to food safety and consumer health
 
 ## JADAM's Position
@@ -36,14 +36,14 @@ A University of Minnesota study, supported by the US Department of Agriculture (
 JADAM's core message on this issue:
 - "Any form of farming should be judged based on its ability to sustain production"
 - Continuing farming that contaminates soil with chemicals is "compromising our future"
-- Organic farming bans the use of such livestock waste for good reason
+- [[coleman-deep-organic-farming-philosophy]] bans the use of such [[cotter-pet-livestock-waste-fungal-remediation-systems]] for good reason
 - The principle: "Food going into my mouth determines my health; manure going into the soil determines the health of the crops"
 - The prescription: "Eat whole foods for your body and apply wholesome fertilizers for the crops"
 
 ## Connection to Soil Compaction
 
 Antibiotic contamination compounds the soil compaction problem:
-- Heavy tractors create a hardened plow pan at approximately 15 cm depth
+- Heavy tractors create a hardened [[ultra-low-soil-compaction-and-plow-pan-solutions]] at approximately 15 cm depth
 - Chemicals cannot penetrate deep into the soil through this compacted layer
 - Instead, they linger at the sub-surface level after water evaporates
 - This residue is highly detrimental to crop roots
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

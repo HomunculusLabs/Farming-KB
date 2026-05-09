@@ -9,7 +9,7 @@ updated: 2026-04-26
 
 # Energy, Fiber, and Other Non-Food Crops
 
-The GROW BIOINTENSIVE method envisions the mini-farm as producing not only food
+The [[jeavons-grow-biointensive-method-overview]] method envisions the mini-farm as producing not only food
 but also materials for clothing, building, paper, and other needs. Energy,
 fiber, and miscellaneous crops expand the self-sufficiency of the garden
 beyond dietary needs.
@@ -20,7 +20,7 @@ Jeavons organizes mini-farm crops into five broad groups:
 
 1. Grains, protein sources, and vegetable oil crops
 
-2. Compost, organic matter, and fodder crops
+2. Compost, [[hamilton-composting-and-organic-matter-management]], and fodder crops
 
 3. Tree and cane food crops
 
@@ -61,7 +61,7 @@ crop suitable for small-scale fiber production.
 Two types of bamboo are included in the Master Charts: paper bamboo and
 regular bamboo. Both are listed as under research, indicating that yield data
 and growing instructions are still being developed. Bamboo has enormous
-potential as a renewable building material, and many varieties are suitable
+potential as a renewable [[fungal-building-material-deterioration]], and many varieties are suitable
 for small-scale cultivation.
 
 ### Sunflowers
@@ -93,7 +93,7 @@ as a hedgerow plant with 50 plants in the spacing.
 
 **Gopher Plant** serves as a pest deterrent in the garden.
 
-**Sprouts** (alfalfa) provide high-nutrition food from minimal growing space.
+**Sprouts** (alfalfa) provide high-nutrition food from minimal [[cotter-growing-space-design-fruiting-rooms]].
 
 ## Biomass Considerations
 
@@ -101,7 +101,7 @@ Some compost crops, such as pearl millet, sorghum, and corn, can produce very
 high yields of biomass and should be fully recycled through composting
 whenever possible to minimize the potential for soil depletion. The
 sustainability equation requires that organic matter exported from the garden
-(in the form of food, fiber, or building materials) be balanced by organic
+(in the form of food, fiber, or [[natural-building-materials-guide]]) be balanced by organic
 matter returned to the soil through compost.
 
 ## Self-Sufficiency and Non-Food Crops
@@ -111,7 +111,7 @@ complete self-sufficiency on the mini-farm. Growing cotton or flax for
 clothing, bamboo for building, and sunflower seeds for cooking oil reduces
 dependence on external supply chains and creates a truly closed-system
 homestead. These crops are introduced after the gardener has mastered basic
-vegetable production and soil building.
+[[dry-gardening-unirrigated-vegetable-production-solomon]] and soil building.
 
 ## See Also
 

@@ -1,5 +1,5 @@
 ---
-title: Natural Livestock Caloric Efficiency: Bantam vs Leghorn
+title: Natural fukuoka-textdoc-livestock-caloric-land-carrying-capacity Efficiency: Bantam vs Leghorn
 created: 2026-04-28
 tags: [fukuoka, natural-farming, livestock, chickens, caloric-efficiency, energy-accounting, poultry]
 date: 2026-04-28
@@ -11,11 +11,11 @@ type: concept
 
 # Natural Livestock Caloric Efficiency: Bantam vs Leghorn
 
-Fukuoka presents a devastating caloric accounting of modern livestock farming,
-contrasting the energy efficiency of traditional free-range poultry with industrial
-caged systems. His comparison of the Japanese Bantam with the White Leghorn
+Fukuoka presents a devastating caloric accounting of [[fukuoka-critique-modern-livestock-fisheries]] farming,
+contrasting the [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] of traditional free-range poultry with industrial
+caged systems. His comparison of the [[fukuoka-textdoc-japanese-bantam-leghorn-calorie-efficiency-chicken]] with the White Leghorn
 illustrates a broader principle: that natural, self-sufficient animal husbandry is
-vastly more energy efficient than artificially intensified production.
+vastly more [[cervantes-case-study-energy-efficient-sea-of-green]] than artificially intensified production.
 
 ## The Caloric Cost of Eating Above the Food Chain
 
@@ -78,7 +78,7 @@ enclosures is the only workable approach to mass production. They are convinced 
 this is intelligent, economical livestock farming. The very opposite is true.
 
 Artificial livestock practices consisting essentially of the conversion of feed into
-eggs, milk, or meat are actually very energy wasteful. The larger and more highly
+eggs, milk, or meat are actually very [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]. The larger and more highly
 improved the breed of animal being raised, the greater the energy input required and
 the greater the effort and pains that must be taken by the farmer.
 

@@ -1,11 +1,12 @@
 ---
-title: Fukuoka Critique of Genetic Engineering
+title: Fukuoka Critique of fukuoka-textdoc-genetic-engineering-critique-warning
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka's Critique of Genetic Engineering
 
@@ -21,7 +22,7 @@ would later emerge.
 
 Fukuoka's critique of genetic engineering rests on the same epistemological
 foundation
-as his critique of all scientific agriculture: the belief that humans can
+as his critique of all [[fukuoka-critique-scientific-agriculture-civilization]]: the belief that humans can
 improve
 upon nature through knowledge and manipulation is fundamentally mistaken.
 Genes are
@@ -29,7 +30,7 @@ not isolated units that can be rearranged without consequence — they are
 components
 of an integrated whole that humans cannot fully comprehend.
 
-When scientists insert a gene for pest resistance into a crop, they are treating
+When scientists insert a gene for [[cannabis-disease-pest-resistance-breeding-clarke]] into a crop, they are treating
 the organism as a machine that can be modified part-by-part. But organisms
 are not
 machines; they are expressions of the wholeness of nature. The inserted gene
@@ -44,16 +45,16 @@ Fukuoka repeatedly emphasized that nature has already solved the problems
 that genetic
 engineering seeks to address. Pest resistance exists in natural ecosystems
 through
-biodiversity and ecological balance. Disease resistance exists through the
+biodiversity and [[fukuoka-ecological-balance-principles]]. Disease resistance exists through the
 natural
-co-evolution of plants and pathogens. Drought tolerance exists in locally
+co-evolution of plants and pathogens. [[dighton-fungal-drought-tolerance-plant-water-relations]] exists in locally
 adapted
 varieties.
 
 The scientist who develops a drought-resistant variety through genetic engineering
 is trying to solve a problem that nature solved millions of years ago — and
 that
-natural farming addresses by working with, not against, natural systems.
+[[comparison-natural-farming-vs-permaculture]] addresses by working with, not against, natural systems.
 
 ## The Hubris of Creation
 

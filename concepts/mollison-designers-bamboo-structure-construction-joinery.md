@@ -1,5 +1,5 @@
 ---
-title: Bamboo Structure Construction and Joinery
+title: mollison designers bamboo structure construction joinery Construction and Joinery
 created: 2026-04-28
 tags:
   - permaculture
@@ -19,7 +19,7 @@ type: concept
 Bamboo is one of the most versatile and rapidly renewable building
 materials available, and Bill Mollison devotes significant attention
 to it in Permaculture: A Designers' Manual (Chapter 10: The Humid
-Tropics, and throughout discussions of appropriate technology). Bamboo
+Tropics, and throughout discussions of [[mollison-designers-appropriate-technology-small-scale-tools]]). Bamboo
 combines the tensile strength of steel with the workability of timber,
 making it ideal for structural applications in tropical and subtropical
 permaculture systems. Its growth rate of up to 1 meter per day makes it
@@ -37,7 +37,7 @@ emphasizes selecting large-diameter, thick-walled species:
     strong, preferred for heavy structural applications
   - Gigantochloa apus: Southeast Asian construction bamboo, durable
     and straight
-  - Guadua angustifolia: South American timber bamboo, exceptional
+  - Guadua angustifolia: [[chiric-caspi-brunfelsia-south-american-hallucinogen]] timber bamboo, exceptional
     structural qualities, used extensively in Colombia and Ecuador
   - Phyllostachys edulis (Moso): Temperate bamboo suitable for
     construction in subtropical climates
@@ -71,7 +71,7 @@ beetles) and fungal decay. Mollison describes several treatment methods:
 
 ## Bamboo Joinery Techniques
 
-Joinery is the critical challenge in bamboo construction. Unlike timber,
+Joinery is the critical challenge in [[comparison-bamboo-construction-vs-cob-building]]. Unlike timber,
 bamboo is hollow and segmented by nodes, requiring specialized
 connection methods:
 
@@ -119,7 +119,10 @@ Bamboo construction in permaculture systems includes:
 
 ## See Also
 
-- mollison designers natural building methods
-- [[mollison-designers-bamboo-construction-uses]]
+- mollison designers [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] methods
+- mollison-designers-bamboo-construction-uses
 - [[mollison-designers-wickiup-and-quick-shelter-construction]]
-- [[mollison-designers-pond-construction-liner-sealing]]
+- mollison-designers-pond-construction-liner-sealing
+- [[bamboo-construction]]
+- [[appropriate-technology]]
+- [[natural-building]]

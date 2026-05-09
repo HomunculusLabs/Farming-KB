@@ -1,19 +1,20 @@
 ---
-title: "What Causes Cannabis Bud Rot and How to Prevent It?"
+title: "What query what causes cannabis bud rot and how to prevent it query-how-do-i-prevent-and-treat-bud-rot-on-cannabis and How to Prevent It?"
 created: 2026-04-28
 tags: [query, cannabis, diseases, prevention]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
 # What Causes Cannabis Bud Rot and How to Prevent It?
 
 ## Short Answer
-Bud rot, or botrytis cinerea (gray mold), is a fungal infection that attacks
+Bud rot, or botrytis cinerea ([[cervantes-gray-mold-botrytis-prevention]]), is a fungal infection that attacks
 cannabis flowers from the inside out, typically caused by prolonged high
-humidity, poor air circulation, and cool, damp conditions during the flowering
+humidity, poor [[stamets-growing-room-air-circulation-co2-management]], and cool, damp conditions during the flowering
 stage. Prevention centers on maintaining proper environmental conditions,
 especially relative humidity below 50% during late flowering, ensuring
 adequate airflow between branches, and removing affected tissue immediately to
@@ -30,7 +31,7 @@ knowledge for every cultivator, whether growing indoors, outdoors, or in a
 greenhouse.
 
 The primary environmental trigger for bud rot is excessive humidity combined
-with inadequate airflow. During the flowering stage, cannabis buds become
+with inadequate airflow. During the [[cannabis-flowering-stage-management]], [[query-what-causes-airy-loose-cannabis-buds-and-how-to-prevent-them]] become
 increasingly dense as calyxes stack and trichomes develop. This dense floral
 structure creates microclimates within the bud where moisture becomes trapped,
 especially if ambient humidity is elevated. When relative humidity consistently

@@ -9,7 +9,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-text
 
 # Anticholinergic Plant Poisons Dangers
 
-Anticholinergic plants containing atropine and scopolamine are among the most dangerous psychoactive botanicals available. Found growing wild throughout much of the United States and commonly cultivated as ornamentals, these plants can cause severe, prolonged, and potentially fatal intoxication. Understanding their pharmacology, identification, and risks is essential for foragers, clinicians, and anyone interested in psychoactive plants.
+Anticholinergic plants containing atropine and scopolamine are among the most dangerous psychoactive botanicals available. Found growing wild throughout much of the [[dmt-containing-plants-united-states-halpern]] and commonly cultivated as ornamentals, these plants can cause severe, prolonged, and potentially fatal intoxication. Understanding their pharmacology, identification, and risks is essential for foragers, clinicians, and anyone interested in psychoactive plants.
 
 [[solanaceous-hallucinogens-pharmacology]]
 
@@ -43,11 +43,11 @@ Anticholinergic delirium produces a genuine break from reality. The user typical
 
 The danger of anticholinergic intoxication is compounded by the complete loss of judgment and risk assessment. Users have walked into traffic, jumped from heights, and inflicted serious self-injury while in anticholinergic delirium, with no awareness of the danger.
 
-[[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
+hallucinogenic-mushroom-health-risks-and-harm-reduction
 
 ## Historical Context and Shamanic Use
 
-Despite their dangers, anticholinergic plants have a long history of use in shamanic and magical contexts throughout the world. Native American, European, Asian, and African cultures all have traditions involving these plants.
+Despite their dangers, anticholinergic plants have a long history of use in shamanic and magical contexts throughout the world. [[halpern-sacramental-peyote-and-native-american-church]], European, Asian, and African cultures all have traditions involving these plants.
 
 The shamanic use of anticholinergics differs fundamentally from recreational experimentation. Traditional practitioners underwent lengthy training and preparation before working with these dangerous plants. The use was typically embedded in elaborate ceremonial contexts with specific intentions, purification rituals, and experienced guides present.
 
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

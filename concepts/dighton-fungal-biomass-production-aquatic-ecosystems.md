@@ -16,7 +16,7 @@ type: concept
 
 # Fungal Biomass and Production in Aquatic Ecosystems
 
-Fungi play major roles in decomposition and nutrient cycling across a
+Fungi play major roles in decomposition and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] across a
 range of aquatic ecosystems, from salt marshes to freshwater streams.
 Their biomass often exceeds that of bacteria on decomposing leaf litter
 in aquatic systems, and they serve as critical links between detritus
@@ -53,7 +53,7 @@ fungal biomass.
 ## Mangrove Swamp Fungi
 
 Mangrove swamps are tropical equivalents of temperate salt marshes.
-High rates of primary production produce copious detritus supporting
+High rates of [[lichens-primary-production-soil-formation-dighton]] produce copious detritus supporting
 diverse detritivore fungi, bacteria, and fauna. Mangrove fungi are
 almost exclusively saprotrophic, consisting of some 23 ascomycete
 species, 17 mitosporic species, and two basidiomycetes. Fungal biomass
@@ -69,13 +69,13 @@ to 60% mass loss). Mangrove leaves rapidly accumulate oomycete fungi
 Lulworthia grandispora.
 
 Export of plant detritus from mangroveys to oceans transfers 60 to 260
-tons per year of carbon, mainly as dissolved organic carbon. Fungi play
+tons per year of carbon, mainly as [[dighton-fungal-dissolved-organic-carbon-production]] carbon. Fungi play
 a major role in this decomposition and nutrient mineralization.
 
 ## Freshwater Stream Ecosystems
 
 More than 600 species of aquatic fungi exist, many with specific
-morphological and physiological adaptations. Aquatic hyphomycetes occur
+morphological and physiological adaptations. [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]] occur
 on almost all substrates in freshwater systems. Fungal biomass is
 usually greater than bacterial biomass on decomposing leaf litter in
 aquatic ecosystems. Plant litter inputs into headwater streams can reach
@@ -101,8 +101,8 @@ resources.
 ## Fungal Succession in Aquatic Decomposition
 
 Gessner et al. (1997) provide a conceptual model of interactions among
-internal controls (litter quality), external controls (environmental
-variables), and fungal metabolic activity determining decomposition
+internal controls ([[dighton-litter-quality-fungal-decomposition-rates]]), external controls (environmental
+variables), and fungal [[arbuscule-isolation-metabolic-activity-assays]] determining decomposition
 outcomes. Bacteria and fungi partition decomposition roles: bacteria
 access dissolved organic matter during early stages, while fungi enter
 intact structural components later. Within the fungal community,
@@ -111,6 +111,8 @@ decomposition, utilizing more recalcitrant resources.
 
 ## See Also
 
-- [[freshwater-fungi-ingoldian-spores]]
+- [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]]
+
+- freshwater-fungi-ingoldian-spores
 - [[dighton-fungal-decomposition-leaf-litter-dynamics]]
 - [[dighton-fungal-roles-in-nutrient-cycling]]

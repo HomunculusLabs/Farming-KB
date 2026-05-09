@@ -1,5 +1,5 @@
 ---
-title: Spent Mushroom Substrate
+title: Spent gourmet-medicinal-mushroom-substrate-preparation
 created: 2026-04-28
 tags:
   - mushroom-cultivation
@@ -17,10 +17,10 @@ type: concept
 
 # Spent Mushroom Substrate
 
-Spent mushroom substrate (SMS) is the residual growing medium remaining after
-mushroom cultivation has been completed and the useful flushes harvested.
+Spent mushroom substrate (SMS) is the residual [[cervantes-green-algae-growing-medium]] remaining after
+[[accessible-mushroom-cultivation-for-disabilities]] has been completed and the useful flushes harvested.
 Far from being a waste product, SMS is a valuable resource that retains
-significant nutritional content and is fully colonized with fungal mycelium.
+significant nutritional content and is fully colonized with [[fungal-mycelium-hyphae-and-the-feeding-phase]].
 The management and utilization of spent mushroom substrate represents
 an important aspect of sustainable [[spent-mushroom-substrate-applications]]
 - [[staycare-spent-mushroom-compost-bioremediation]]
@@ -42,7 +42,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -92,7 +92,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -102,4 +102,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

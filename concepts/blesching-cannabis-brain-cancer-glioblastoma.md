@@ -1,5 +1,5 @@
 ---
-title: Cannabis and Brain Cancer (Glioblastoma)
+title: Cannabis and blesching cannabis brain cancer glioblastoma (Glioblastoma)
 created: 2026-04-26
 tags:
   - cannabis
@@ -55,7 +55,7 @@ malignant tumor size.
 
 By 2003, Italian studies expanded understanding by showing that the
 non-psychoactive CBD produced significant anti-brain tumor activity both in
-vitro and in vivo. CBD selectively produced oxidative stress in brain cancer
+vitro and in vivo. CBD selectively produced [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in brain cancer
 cells, triggering apoptosis (programmed cell death) while leaving normal cells
 unaffected.
 
@@ -83,7 +83,7 @@ Two additional Spanish studies on mice and humans with recurring glioblastoma
 found that TIMP-1 down-regulation and MMP-2 down-regulation may be hallmarks
 of cannabinoid-induced inhibition of glioma progression.
 
-A 2010 San Francisco study showed that THC and CBD acted synergistically to
+A 2010 [[shipibo-san-francisco-ceremonial-center-ucayali]] study showed that THC and CBD acted synergistically to
 inhibit brain cancer cell growth by inducing reactive oxygen species to produce
 apoptosis.
 
@@ -93,7 +93,7 @@ Both THC and CBD are potent inhibitors of cancer cell development and produce
 apoptosis independently. Greater effects may be produced synergistically when
 THC and CBD are applied together. Both sativa and indica strains deliver the
 full range of plant cannabinoids. Patients wishing to employ a non-psychoactive
-form may use raw juice made from fresh cannabis leaves.
+form may use [[cannabis-raw-juice-non-psychoactive]] made from fresh [[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]].
 
 ## Key Cannabinoids Studied
 
@@ -118,6 +118,6 @@ fears of change may cause rigidity in a naturally soft and ever-changing organ.
 - [[cannabis-health-cancer]]
 
 - [[blesching-cannabis-neuroprotection]]
-- [[blesching-endocannabinoid-system-overview]]
+- [[endocannabinoid-system-overview]]
 - [[cannabis-for-epilepsy-and-seizure-disorders]]
 - [[blesching-cannabis-stroke]]

@@ -1,22 +1,13 @@
 ---
-title: Growing Room Design for Gourmet Mushroom Cultivation
+title: duggar-mushroom-growing-room-design Design for gourmet-mushroom-cultivation
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [[mushroom-cultivation, species-guide, equipment]
-sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+tags: [mushroom-cultivation, species-guide, equipment]
+sources: sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-
-# Growing Room Design for Gourmet Mushroom Cultivation
-#mushroom-cultivation #indoor-cultivation #infrastructure #environmental-control
-
-Updated: 2026-04-18
-
-Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Appendix III "The Growing Room"
-
-## Overview
-
-The growing room is the controlled environment where mushroom fruiting occurs. Unlike the spawn laboratory (constant temperature/humidity), the growing room's environment is actively fluctuated during mushroom crop development. These changes are specific and sometimes radical, triggering the switch-over from mycelial growth to mushroom formation. See also [[stamets-mushroom-growing-room-design]], [[agaricus-bisporus-cultivation-biology]].
+# Growing Room Design for Gourmet Mushroom Cultivation #mushroom-cultivation #indoor-cultivation #infrastructure #environmental-control Updated: 2026-04-18 Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Appendix III "The Growing Room" ## Overview The growing room is the controlled environment where mushroom fruiting occurs. Unlike the spawn laboratory (constant temperature/humidity), the growing room's environment is actively fluctuated during mushroom crop development. These changes are specific and sometimes radical, triggering the switch-over from mycelial growth to mushroom formation. See also stamets-mushroom-growing-room-design, [[agaricus-bisporus-cultivation-biology]].
 
 ## Structures Suitable for Retrofit
 
@@ -69,7 +60,7 @@ Airplane hangers, army barracks, barns, basements, bomb shelters, car washes, ca
 ### 7. Air Exchange
 - Rate depends on species, metabolic rate, and density of fill
 - Tropical strains generate more CO2 than cold-weather strains
-- Density of fill: max 1/4 of room for button mushrooms; 1/6 to 1/8 for gourmet mushrooms
+- Density of fill: max 1/4 of room for button mushrooms; 1/6 to 1/8 for [[growing-gourmet-mushrooms-civilization-history]]
 - At 1000 cfm, a 10,000 cu ft room exchanges every 10 min = 6 air exchanges/hour
 - Recommended: 6-12 air exchanges per hour
 - Rooms should always remain positive-pressurized (cloth/plastic strip above door jam as visual indicator)
@@ -82,7 +73,7 @@ Airplane hangers, army barracks, barns, basements, bomb shelters, car washes, ca
 - Class 2 pre-filter: particles to 10 microns, 30% efficiency, replace every 1-3 months
 - Electrostatic filter: particles to 1 micron, 95% efficiency, clean periodically with soapy solution
 - For 10,000-20,000 cu ft rooms: 25 x 20 x 6 in electrostatic filter with 1000-2000 cfm fan
-- Growing rooms do NOT require laboratory-grade HEPA filtration
+- Growing rooms do NOT require laboratory-grade [[growing-gourmet-hepa-filtration-laboratory-air-systems]]
 
 ### 9. Recirculated Air
 - Relatively clean during colonization phase
@@ -104,12 +95,14 @@ Airplane hangers, army barracks, barns, basements, bomb shelters, car washes, ca
 ### 11. Insect Control
 - Flies are the bane of mushroom cultivators
 - A single pregnant fly gives rise to hundreds of voracious offspring in weeks
-- Bug zappers, sticky traps, circular black light traps with central fan creating negative-pressure vortex
+- Bug zappers, [[cervantes-sticky-traps-pest-monitoring]], circular black light traps with central fan creating negative-pressure vortex
 - Wash growing rooms twice daily
-- Small tree frogs as natural pest control (no pesticides advocated)
-- See [[stamets-contamination-identification-and-control]]
+- Small tree frogs as [[cho-natural-pest-control-methods]] control (no pesticides advocated)
+- See stamets-contamination-identification-and-control
 
 ## Farm Environment
 
-Room/activity scheduling is essential. No caustic chemicals should be used. The laboratory complex design is detailed in Appendix II (see [[tropical-mushroom-spawn-production-materials]]
+Room/activity scheduling is essential. No caustic chemicals should be used. The laboratory complex design is detailed in Appendix II (see tropical-mushroom-spawn-production-materials
 - [[oyster-mushroom-species-fruiting-parameters]]
+## See Also
+- [[stamets-growing-room-air-circulation-co2-management]]

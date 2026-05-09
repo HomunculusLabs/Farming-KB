@@ -53,7 +53,7 @@ Seeds are oval, flat, white, approximately 1 cm long, embedded in white spongy f
 
 *Benincasa hispida* is believed to have originated in tropical Asia, with wild progenitors in the region spanning India to Japan.
 
-Cultivation extends across South Asia (India, Bangladesh, Sri Lanka), Southeast Asia (China, Vietnam, Thailand, Indonesia, Philippines), and increasingly in Africa and tropical America.
+Cultivation extends across South Asia (India, Bangladesh, Sri Lanka), [[psilocybe-southeast-asia-pacific]] (China, Vietnam, Thailand, Indonesia, Philippines), and increasingly in Africa and tropical America.
 
 The plant thrives in warm, humid tropical and subtropical climates at elevations up to 1500 meters, requiring mean temperatures of 20–30°C for optimal growth.
 
@@ -85,9 +85,9 @@ The mucilaginous gel extracted from the fruit rind has been used traditionally a
 
 ## Permaculture and Agroforestry Applications
 
-Winter melon's vigorous vine growth and large leaf canopy provide effective ground cover in tropical food forests, suppressing weeds and reducing soil moisture loss through evaporation.
+Winter melon's vigorous vine growth and large leaf canopy provide effective [[fukuoka-citrus-orchard-ground-cover-cultivation]] in tropical food forests, suppressing weeds and reducing soil moisture loss through evaporation.
 
-The plant can be intercropped with maize, cassava, and pigeon pea in tropical polyculture systems, where its climbing habit utilizes vertical space above shorter companion crops.
+The plant can be intercropped with maize, cassava, and [[comparison-pigeon-pea-vs-cowpea]] in tropical polyculture systems, where its climbing habit utilizes vertical space above shorter companion crops.
 
 Mature fruit left unharvested can be used as animal fodder, providing a low-cost supplemental feed source for livestock during dry seasons when other forage is scarce.
 
@@ -99,11 +99,11 @@ The long storage life of harvested fruit makes it a valuable component in food s
 
 Spacing is typically 1.5–2.0 meters between plants, with trellising recommended to improve fruit quality, reduce disease pressure, and maximize land-use efficiency.
 
-The crop requires adequate moisture throughout the growing season but is relatively drought-tolerant once established compared to other cucurbits.
+The crop requires adequate moisture throughout the [[savory-growing-season-and-non-growing-season-management]] but is relatively drought-tolerant once established compared to other cucurbits.
 
 Flowering begins 45–60 days after sowing, with fruit maturing 80–120 days from planting. The mature fruit's waxy coating enables storage at room temperature for 3–6 months.
 
-Common pests include fruit flies (*Bactrocera* spp.), aphids, and red pumpkin beetle (*Aulacophora foveicollis*). Powdery mildew (*Podosphaera xanthii*) and downy mildew are the most prevalent diseases.
+Common pests include fruit flies (*Bactrocera* spp.), aphids, and red pumpkin beetle (*Aulacophora foveicollis*). [[cervantes-powdery-mildew-prevention-treatment]] (*Podosphaera xanthii*) and [[cervantes-downy-mildew-fungal-blight]] are the most prevalent diseases.
 
 ## See Also
 

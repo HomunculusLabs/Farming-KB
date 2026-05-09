@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Dosage Titration Methodology
+title: Psychedelic psychedelic dosage titration methodology Methodology
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -23,7 +23,7 @@ Shulgin's titration methodology followed a consistent pattern for each new compo
 
 1. **Literature review**: Study all available information about related compounds and expected pharmacological class
 
-2. **Initial low dose**: Begin with a very small dose — often 1 mg or less for unknown compounds
+2. **Initial [[ultra-low-dose-brassinosteroid-response-psilocybe-cubensis]]**: Begin with a very small dose — often 1 mg or less for unknown compounds
 
 3. **Observe**: Wait for effects, using the [[qualitative-comments-methodology-pihkal]] methodology
 
@@ -51,11 +51,11 @@ The museum level concept has been adopted by the broader [[tihkal-shulgin-rating
 
 ## Interindividual Variation
 
-An important consideration in dosage titration is the significant variation in sensitivity between individuals. Factors that affect individual dose response include:
+An important consideration in dosage titration is the significant variation in sensitivity between individuals. Factors that affect individual [[microwave-sterilization-dose-response-microbial-kill-curves]] include:
 
 - Body weight and metabolic rate
 
-- Prior psychedelic experience (tolerance and cross-tolerance)
+- Prior [[leary-psychedelic-experience-bardo-mapping]] (tolerance and cross-tolerance)
 
 - Genetic differences in enzyme expression (e.g., CYP2D6 polymorphisms)
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

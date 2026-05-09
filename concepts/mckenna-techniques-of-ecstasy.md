@@ -14,11 +14,11 @@ sources:
 
 Mircea Eliade, in his landmark study of shamanism, defined the shaman as "a man of the techniques of ecstasy." By ecstasy, Eliade meant the shaman's ability to enter a trance state at will, during which the soul is believed to leave the body and travel to other realms — the upper world, the lower world, or the spirit world. This is the oldest and most universal form of religious experience, predating organized religion by tens of thousands of years.
 
-McKenna drew heavily on Eliade's work but added a crucial element that Eliade, writing in the 1950s, largely avoided: the role of psychoactive plants in facilitating the shamanic trance. Eliade acknowledged plant use among Siberian shamans (particularly [[mckenna-ayahuasca-and-amazonian-shamanism]], psilocybin mushrooms, [[psilocybin-and-mystical-experience]] and [[mckenna-dissolution-of-the-dominator-culture]], in his view, stem directly from this suppression.
+McKenna drew heavily on Eliade's work but added a crucial element that Eliade, writing in the 1950s, largely avoided: the role of psychoactive plants in facilitating the shamanic trance. Eliade acknowledged plant use among Siberian shamans (particularly [[mckenna-ayahuasca-and-amazonian-shamanism]], [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], [[psilocybin-and-mystical-experience]] and [[mckenna-dissolution-of-the-dominator-culture]], in his view, stem directly from this suppression.
 
 ## The Recovery of Ecstasy
 
-The contemporary resurgence of interest in psychedelics, meditation, and alternative states of consciousness represents what McKenna called the "archaic revival" — a recovery of the techniques of ecstasy that were lost during the rise of dominator culture. This revival, he believed, is essential for the survival of humanity in an age of ecological crisis, because the ecstatic perspective — the sense of interconnectedness with all life — is precisely the consciousness shift needed to address the environmental crisis.
+The contemporary resurgence of interest in psychedelics, meditation, and alternative states of consciousness represents what McKenna called the "[[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]" — a recovery of the techniques of ecstasy that were lost during the rise of [[mckenna-dominator-culture-and-suppression-of-ecstasy]]. This revival, he believed, is essential for the survival of humanity in an age of ecological crisis, because the ecstatic perspective — the sense of interconnectedness with all life — is precisely the consciousness shift needed to address the environmental crisis.
 
 See also:
 - [[mckenna-ayahuasca-and-amazonian-shamanism]]
@@ -28,7 +28,7 @@ See also:
 ## Key Points
 
 - McKenna's analysis connects psychoactive plant use to fundamental patterns in human cultural evolution
-- The stoned ape hypothesis, while controversial, raises important questions about the role of psychoactive substances in human cognitive development
+- The stoned [[stoned-ape-hypothesis-mckenna-psychedelic-evolution]], while controversial, raises important questions about the role of psychoactive substances in human cognitive development
 - McKenna's critique of dominator culture draws on both anthropological evidence and contemporary political analysis
 - The [[psychedelic-therapy-current-research]].
 
@@ -57,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +99,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

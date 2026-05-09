@@ -1,5 +1,5 @@
 ---
-title: "Bjerkandera and Pleurotus Species in Pollutant Degradation"
+title: "staycare bjerkandera and pleurotus in pollutant degradation Species in Pollutant Degradation"
 created: 2026-04-28
 tags: [bioremediation, white-rot-fungi, pah, dye-decolorization, pollutant-degradation]
 date: 2026-04-25
@@ -26,7 +26,7 @@ of PAHs, synthetic dyes, and other recalcitrant compounds.
 Bjerkandera sp. strain BOS55 produces lignin peroxidase (LiP), manganese
 peroxidase (MnP), and manganese-independent peroxidase, giving it a
 versatile enzymatic repertoire for pollutant degradation. The combination
-of LiP and MnP, coupled with hydrogen peroxide generation, produces
+of LiP and MnP, coupled with [[cervantes-hydrogen-peroxide-sterilization]] generation, produces
 Fenton-type radicals that oxidatively attack not only lignin but also a
 wide range of aromatic compounds including PAHs, chlorinated phenols, and
 synthetic dyes.
@@ -35,7 +35,7 @@ Bjerkandera adusta has been shown to produce manganese-independent
 peroxidase activity, and Coriolopsis gallica has been involved in the
 oxidation of chlorophenols. These species demonstrate that the
 Bjerkandera genus possesses diverse lignin-modifying capabilities that
-extend beyond those of the better-studied Phanerochaete chrysosporium.
+extend beyond those of the better-studied [[staycare-phanerochaete-chrysosporium-in-bioremediation]].
 
 ## Bjerkandera in PAH Degradation
 
@@ -91,7 +91,7 @@ benzo[a]pyrene hydroxylation.
 
 ## Comparative Performance
 
-When P. ostreatus, P. chrysosporium, and Trametes versicolor were
+When P. ostreatus, P. chrysosporium, and [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] were
 compared for their ability to degrade PAHs and produce ligninolytic
 enzymes in soil, colonization of sterilized soil from straw-grown
 inocula and degradation of anthracene, phenanthrene, and pyrene were
@@ -107,7 +107,7 @@ decolorization capabilities. Bjerkandera adusta and P. ostreatus have
 been studied for manganese-independent peroxidase activity relevant to
 dye degradation. The laccase and MnP systems of these fungi can oxidize
 synthetic dyes through radical-mediated mechanisms, with applications in
-textile wastewater treatment and industrial effluent decolorization.
+textile [[mollison-designers-wastewater-treatment-wetlands]] and industrial effluent decolorization.
 
 ## Challenges and Limitations
 
@@ -117,7 +117,7 @@ controls, despite both strains being able to degrade PAHs extensively in
 pure-culture liquid media. This discrepancy between laboratory and field
 performance highlights the challenges of translating controlled
 experimental results to practical remediation applications, including
-competition with indigenous microorganisms and variable environmental
+competition with [[beneficial-indigenous-microorganisms-bim]] and variable environmental
 conditions.
 
 ## See Also

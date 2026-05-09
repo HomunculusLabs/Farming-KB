@@ -5,12 +5,13 @@ updated: 2026-04-18
 type: concept
 tags: [seeds, gardening]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Seed Balls (Tsuchi Dango)
 
-Seed balls, or "tsuchi dango" (earth dumplings), are a no-till seed propagation technique developed by Masanobu Fukuoka. Seeds are encased in a mixture of clay and compost, then scattered on the soil surface. The clay protects seeds from predation and desiccation while compost provides initial nutrients for germination. This technique is central to [[guerilla-gardening-tactics-methods]] for urban applications.
+Seed balls, or "tsuchi dango" (earth dumplings), are a no-till [[jeavons-seed-propagation-techniques]] technique developed by Masanobu Fukuoka. Seeds are encased in a mixture of clay and compost, then scattered on the soil surface. The clay protects seeds from predation and desiccation while compost provides initial nutrients for germination. This technique is central to [[guerilla-gardening-tactics-methods]] for urban applications.
 
 ## How Seed Balls Work
 
@@ -19,8 +20,8 @@ When rain strikes a seed ball, the clay absorbs moisture and slowly breaks down.
 Key advantages:
 - Seeds protected from birds, insects, and rodents
 - No need to prepare seedbeds or till soil
-- Can be scattered on bare ground, degraded land, or vacant lots
-- Long shelf life if kept dry (months to a year)
+- Can be scattered on [[savory-bare-ground-and-soil-exposure]], degraded land, or vacant lots
+- Long [[psilocybin-shelf-life-stability]] if kept dry (months to a year)
 - Mix multiple species for polyculture effect
 
 ## Materials
@@ -34,7 +35,7 @@ Key advantages:
 
 Standard Fukuoka ratio (by volume):
 
-- 5 parts clay powder
+- 5 parts [[jadam-red-clay-powder-method]]
 - 1 part compost
 - 1 part seeds (by volume, varies with seed size)
 
@@ -68,7 +69,7 @@ Keep seed balls dry until scattering. Store in paper bags or cardboard boxes -- 
 Timing depends on climate and target species:
 
 - **Spring scattering**: after last frost for warm-season annuals. Scatter before spring rains if possible.
-- **Fall scattering**: for cool-season species, cover crops, and wildflowers. Fall rain + winter moisture = spring germination.
+- **Fall scattering**: for cool-season species, [[gaias-garden-cover-crops-soil-building]], and wildflowers. Fall rain + winter moisture = spring germination.
 - **Monsoon/tropical**: scatter before rainy season.
 
 Do not scatter during prolonged dry periods -- seeds will sit dormant and may be eaten once the clay softens without enough moisture to germinate.
@@ -77,7 +78,7 @@ Do not scatter during prolonged dry periods -- seeds will sit dormant and may be
 
 ### Revegetation and Land Restoration
 
-- Clover (red, white, crimson) -- nitrogen fixer, erosion control
+- Clover (red, white, crimson) -- nitrogen fixer, [[permplant-willows-salix-erosion-control-fodder]]
 - Daikon radish -- deep taproot breaks compacted soil
 - Mustard -- fast germination, biofumigation
 - Buckwheat -- quick cover, attracts pollinators

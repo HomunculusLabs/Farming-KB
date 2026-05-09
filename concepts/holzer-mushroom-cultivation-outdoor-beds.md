@@ -1,9 +1,10 @@
 ---
-title: Holzer Mushroom Cultivation (Outdoor Methods)
+title: Holzer accessible-mushroom-cultivation-for-disabilities (Outdoor Methods)
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 type: concept
 tags: [cultivation, holzer, mushroom-cultivation]
 ---
@@ -14,7 +15,7 @@ Mushroom cultivation is a significant component of [[shiitake-cultivation-guide]
 
 ## Understanding Fungi Structure
 
-The widespread opinion that fungi consist only of visible fruiting bodies is incorrect. The main body is the mycelium -- a network of fine threads that grows through the substrate. Many fungi also develop mycorrhizae and form symbiotic associations with the roots of plants and trees. This is why it is so important to preserve old forest stands: when ancient spruce monocultures are cleared, the symbiotic fungi in the soil are lost, and replanted trees at different altitudes will not have the fungi they need.
+The widespread opinion that fungi consist only of visible fruiting bodies is incorrect. The main body is the mycelium -- a network of fine threads that grows through the substrate. Many fungi also develop mycorrhizae and form symbiotic associations with the roots of plants and trees. This is why it is so important to preserve old forest stands: when ancient spruce monocultures are cleared, the [[mycelium-running-symbiotic-fungi-relationships]] in the soil are lost, and replanted trees at different altitudes will not have the fungi they need.
 
 ## Health Benefits
 
@@ -25,8 +26,8 @@ Mushrooms are high in fibre, low in calories, and rich in vitamins and minerals.
 ### Substrate Requirements
 
 - Only fresh, healthy, uncontaminated wood should be used
-- Trees near busy roads, motorways, or industrial areas contain heavy metals accumulated in bark, making logs unusable
-- Wood must not have been previously colonised by other fungi -- they will displace cultivated mushrooms
+- Trees near busy roads, motorways, or industrial areas contain [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] accumulated in bark, making logs unusable
+- Wood must not have been previously colonised by other fungi -- they will displace [[fungi-cultivated-mushrooms-pathogens-competitors]]
 - Cut a slice from each end of logs before inoculation to reduce contamination risk
 - Wood stored more than half a year is probably unsuitable (except tree stumps, inoculated once they stop sprouting)
 - Healthy wood: no dark or rotten areas, cut surfaces light-coloured and firm, adequate moisture content
@@ -43,13 +44,13 @@ Mushrooms are high in fibre, low in calories, and rich in vitamins and minerals.
 
 All listed species grow on hardwood at the Krameterhof. Oyster varieties can also grow on straw.
 
-- [[oyster-mushroom-bag-cultivation]] (Pleurotus ostreatus) -- very easy to cultivate; grows especially well on beech, maple, and elm
+- oyster-mushroom-bag-cultivation (Pleurotus ostreatus) -- very easy to cultivate; grows especially well on beech, maple, and elm
 - King Oyster (P. eryngii) -- excellent flavour, thick fleshy stems, very versatile
-- Golden Oyster (P. citrinopileatus) -- large yellow clusters, excellent culinary mushroom
+- [[growing-gourmet-golden-oyster-citrinopileatus-cultivation]] (P. citrinopileatus) -- large yellow clusters, excellent culinary mushroom
 - Sheathed Woodtuft (Kuehneromyces mutabilis) -- intense flavour, predominantly used in sauces and soups, particularly undemanding
 - Nameko (Pholiota nameko) -- Japanese sheathed woodtuft, excellent culinary mushroom
 - Enoki (Flammulina velutipes) -- "winter mushroom," fruits in autumn/winter from as low as 2C
-- Black Poplar Mushroom (Agrocybe aegerita) -- very aromatic, requires higher temperatures (from ~15C), prefers softwood (poplar, willow)
+- [[growing-gourmet-black-poplar-agrocybe-cultivation]] Mushroom (Agrocybe aegerita) -- very aromatic, requires higher temperatures (from ~15C), prefers softwood (poplar, willow)
 - Judas' Ear (Auricularia auricula-judae) -- popular in Asian cuisine and as medicinal fungus; prefers elder but grows on other woods
 
 ### Inoculation Methods

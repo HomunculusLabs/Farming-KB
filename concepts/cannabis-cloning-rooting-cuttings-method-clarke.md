@@ -1,5 +1,5 @@
 ---
-title: Cannabis Cloning and Rooting Cuttings Detailed Method (Clarke)
+title: comparison-cannabis-cloning-vs-seed-starting-indoors and cannabis cloning rooting cuttings method clarke Detailed Method (Clarke)
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -12,9 +12,9 @@ sources:
 
 ## Principle of Asexual Propagation
 
-Asexual propagation (cloning) preserves genotype because only normal cell division (mitosis) occurs during growth and regeneration. Every vegetative cell in Cannabis has the same genotype (diploid, 2n = 20 chromosomes), so a plant resulting from asexual propagation will have the same genotype as the mother plant and develop identically under the same environmental conditions.
+Asexual propagation (cloning) preserves genotype because only normal cell division (mitosis) occurs during growth and regeneration. Every [[spore-vs-vegetative-cell-resistance-microwave-sterilization]] in Cannabis has the same genotype (diploid, 2n = 20 chromosomes), so a plant resulting from asexual propagation will have the same genotype as the mother plant and develop identically under the same environmental conditions.
 
-Meristematic areas used for cloning: shoot apex, root tip meristems, and the meristematic cambium layer of the stalk. Clones can be produced from even a single cell, because every cell possesses the genetic information necessary to regenerate a complete plant.
+Meristematic areas used for cloning: shoot apex, root tip meristems, and the meristematic cambium layer of the stalk. Clones can be produced from even a [[fungal-single-cell-protein-production]], because every cell possesses the genetic information necessary to regenerate a complete plant.
 
 ## Advantages of Cloning
 
@@ -69,7 +69,7 @@ Initiation usually begins within a week; young roots appear within four weeks. A
 - Leach soil with large amounts of fresh water
 - Withhold nitrogenous fertilizer
 - Allow stock plants to grow in full sunlight
-- Crowd roots to reduce excessive vegetative growth and allow carbohydrate accumulation
+- Crowd roots to reduce excessive [[cannabis-vegetative-growth-stage]] and allow carbohydrate accumulation
 
 ### Method 2: Select Optimal Cutting Location
 - Lower branches that have ceased lateral growth and begun to accumulate starch are best
@@ -84,6 +84,6 @@ Initiation usually begins within a week; young roots appear within four weeks. A
 ## Related Topics
 
 - [[cannabis-cloning-and-mother-plants]] - Modern cloning techniques
-- [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]] - Breeding techniques
+- [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]] - [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]]
 - [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]]
 - [[cannabis-seed-selection-and-strain-types]]

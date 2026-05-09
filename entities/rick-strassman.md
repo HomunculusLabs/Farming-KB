@@ -22,7 +22,7 @@ over two decades. Between 1990 and 1995, Strassman administered over
 400 doses of DMT to approximately 60 human volunteers at the University
 of New Mexico, generating foundational data on DMT pharmacology,
 psychology, and phenomenology. His 2001 book *DMT: The Spirit Molecule*
-brought psychedelic research to mainstream attention and helped catalyze
+brought [[mckenna-suppression-psychedelic-research-lsd-therapy]] to mainstream attention and helped catalyze
 the modern psychedelic renaissance.
 
 ## Education and Training
@@ -57,7 +57,7 @@ psychedelic study since the mid-1970s.
 ### Study Design
 
 Research was conducted at UNM Hospital with healthy adults who had
-prior psychedelic experience, screened extensively. Studies progressed
+prior [[leary-psychedelic-experience-bardo-mapping]], screened extensively. Studies progressed
 through escalating IV DMT doses:
 
 - **Dose-finding**: Established safe parameters for IV DMT — threshold,
@@ -86,8 +86,8 @@ from 0.05 mg/kg to 0.4 mg/kg IV; effects lasted 15-30 minutes.
 
 ## *DMT: The Spirit Molecule* (2001)
 
-Strassman popular science book synthesized clinical research with
-speculative hypotheses about endogenous DMT. Published by Park Street
+Strassman popular science book synthesized [[hofmann-lsd-clinical-research-early-studies]] with
+speculative hypotheses about [[mckenna-endogenous-dmt-brain-familiarity]]. Published by Park Street
 Press, it became a cult classic introducing millions to psychedelic
 science. A 2010 documentary (Mitch Schultz) further amplified reach.
 
@@ -99,7 +99,7 @@ DMT is definitively produced in the pineal gland or released at death.
 
 - *DMT: The Spirit Molecule* (2001) — Clinical research and hypotheses.
 - *Inner Paths to Outer Space* (2008, co-edited with Wojtowicz, Luna,
-  Frecska) — Entity encounters and parallels with UFO contact and
+  Frecska) — [[dmt-entity-encounters-and-the-logos]] and parallels with UFO contact and
   religious revelation.
 - *The Psychedelic Census* — Ongoing survey project on psychedelic
   experiences.
@@ -130,7 +130,7 @@ different goals.
 
 Strassman DMT research is a landmark in psychopharmacology. It proved
 rigorous, federally approved human psychedelic research was possible
-after decades of prohibition, and established the safety profile and
+after decades of prohibition, and established the [[cannabis-safety-profile-and-overdose-risk]] and
 phenomenological map of IV DMT that informed all subsequent research.
 
 ## Related

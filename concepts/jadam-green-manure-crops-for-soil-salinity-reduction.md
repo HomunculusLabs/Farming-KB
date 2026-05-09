@@ -1,5 +1,5 @@
 ---
-title: JADAM Green Manure Crops for Soil Salinity Reduction
+title: JADAM Green green-manure-crops-detailed for Soil Salinity Reduction
 created: 2026-04-28
 tags: [jadam, soil-salinity, green-manure, salt-remediation]
 date: 2026-04-25
@@ -23,8 +23,8 @@ characteristics of compacted soil, directly attacking the root cause of salt
 accumulation.
 
 Rye can survive temperatures below minus 25 degrees C, making it suitable
-for winter cover cropping in most climates. Its total biomass production of
-20 tons (44,092 lb) per 0.1 ha provides enormous organic matter that
+for winter [[fukuoka-clover-cover-cropping-soil-ecology]] in most climates. Its total [[dighton-fungal-biomass-production-aquatic-ecosystems]] of
+20 tons (44,092 lb) per 0.1 ha provides enormous [[hamilton-composting-and-organic-matter-management]] that
 further improves soil structure and water infiltration. As soil structure
 improves, water can drain deeper instead of stagnating and evaporating.
 
@@ -40,7 +40,7 @@ Sudan grass is specifically recommended for salt removal in protected
 cultivations (greenhouses). Greenhouses are particularly prone to salinity
 because there is no rainwater to flush the soil. All irrigation water
 eventually evaporates, leaving minerals and salts behind. Over time, this
-creates serious salt accumulation that reduces crop yields and quality.
+creates serious [[jadam-salt-accumulation-in-soil]] that reduces crop yields and quality.
 
 Sudan grass is tolerant of high temperatures and drought, making it well-
 suited to greenhouse conditions during warm periods. To use Sudan grass for
@@ -98,7 +98,7 @@ through the soil profile without stagnating and evaporating.
 
 - Eliminate the compacted soil layer that traps water and causes
   evaporation-based salt accumulation
-- Use rye as winter cover crop for open field salt absorption
+- Use rye as winter [[query-how-do-i-choose-the-right-cover-crop-for-my-garden]] open field salt absorption
 - Use Sudan grass in greenhouses, growing for 60+ days then removing
 - Apply JMS to accelerate decomposition and enhance soil biology
 - Maintain continuous cover to prevent future compaction and salinity

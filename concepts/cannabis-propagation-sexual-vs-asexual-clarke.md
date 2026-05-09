@@ -1,5 +1,5 @@
 ---
-title: Cannabis Propagation Sexual vs Asexual Methods (Clarke)
+title: Cannabis cannabis propagation sexual vs asexual clarke vs Asexual Methods (Clarke)
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -55,7 +55,7 @@ The unique characteristics of a plant result from the combination of genes in ch
 - Faster to harvest (no seedling stage needed)
 
 ### Disadvantages
-- No genetic variation means no adaptation potential; entire clone population is susceptible to the same pests and diseases
+- No genetic variation means no adaptation potential; entire clone population is susceptible to the same [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]
 - Requires maintaining mother plants
 - More labor-intensive than seed production
 - Limited transport options compared to seeds
@@ -79,11 +79,13 @@ Various theories explain the unusually potent psychoactive properties of unferti
 - Fiber crops are usually harvested in the juvenile or prefloral stage (before viable seed)
 - Sinsemilla cultivation eliminates the natural reproductive pathway
 - Both fiber and drug production interfere with natural inheritance pathways
-- Controlled pollination is needed for seed production while maintaining product quality
+- [[cannabis-controlled-pollination-seed-production]] is needed for seed production while maintaining product quality
 
 ## Related
 
-- [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]] - Breeding and trait fixing
+- [[cannabis-sexual-propagation-genetics]]
+
+- [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]] - Breeding and [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]]
 - [[cannabis-cloning-and-mother-plants]] - Cloning techniques
 - [[cannabis-fiber-vs-drug-strain-phenotypes-clarke]]
 - [[cannabis-resin-production-and-quality-traits-clarke]]

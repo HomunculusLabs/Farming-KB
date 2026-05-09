@@ -18,9 +18,9 @@ sources:
 
 ## Overview
 
-Coreopsis tinctoria, commonly known as plains coreopsis, calliopsis, or golden tickseed, is an annual flowering plant in the family Asteraceae native to central and western North America.
+Coreopsis tinctoria, commonly known as plains coreopsis, calliopsis, or golden tickseed, is an annual flowering plant in the family Asteraceae native to central and western [[psilocybin-north-america-pacific-northwest]].
 
-The species is widely cultivated as an ornamental annual and has a notable history of use as a dye plant by Native American peoples. It is also valued for its drought tolerance and attractiveness to pollinators.
+The species is widely cultivated as an ornamental annual and has a notable history of use as a dye plant by [[halpern-sacramental-peyote-and-native-american-church]] peoples. It is also valued for its [[dighton-fungal-drought-tolerance-plant-water-relations]] and attractiveness to pollinators.
 
 ## Taxonomy and Morphology
 
@@ -48,9 +48,9 @@ C. tinctoria is native to the Great Plains and western regions of North America,
 
 The species inhabits prairies, open woodlands, roadsides, disturbed sites, and riparian areas. It tolerates a wide range of soil types, including clay, sandy, and alkaline soils.
 
-It has naturalized widely outside its native range, occurring in eastern North America, Europe, Asia, and Australia. In some areas, it is considered a roadside weed.
+It has naturalized widely outside its native range, occurring in [[polypore-fungi-eastern-north-america]] America, Europe, Asia, and Australia. In some areas, it is considered a roadside weed.
 
-The plant is highly adaptable and colonizes disturbed habitats rapidly. It is a common component of wildflower seed mixes for highway beautification and prairie restoration.
+The plant is highly adaptable and colonizes disturbed habitats rapidly. It is a common component of wildflower seed mixes for highway beautification and [[comparison-prairie-restoration-vs-silvopasture]].
 
 In agricultural landscapes, C. tinctoria sometimes appears as a volunteer in fields and pastures. It is not considered a problematic agricultural weed due to its shallow root system and non-competitive growth habit.
 
@@ -60,7 +60,7 @@ The species shows potential for phytoremediation of mildly contaminated soils, a
 
 Plains coreopsis is an excellent nectar and pollen source for bees, butterflies, and other pollinators. It is visited by a diverse assemblage of generalist pollinators throughout its long bloom period.
 
-The flowers are also attractive to beneficial insects such as hoverflies, soldier beetles, and parasitic wasps. These insects contribute to biological pest control in adjacent agricultural areas.
+The flowers are also attractive to [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] such as hoverflies, soldier beetles, and parasitic wasps. These insects contribute to biological pest control in adjacent agricultural areas.
 
 Goldfinches and other small seed-eating birds consume the achenes in late summer and autumn. The plant's prolific seed production supports bird populations through the winter.
 
@@ -91,6 +91,6 @@ The dried flowers retain color well and have been used in potpourri and dried ar
 ## See Also
 
 - [[echinacea-purpurea]]
-- [[tagetes-erecta-entity]]
+- tagetes-erecta-entity
 - [[carthamus-tinctorius]]
 - [[achillea-millefolium]]

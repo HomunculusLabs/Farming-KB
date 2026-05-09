@@ -1,5 +1,5 @@
 ---
-title: Acquired Tastes and the Chemical Addiction Syndrome
+title: mckenna acquired tastes chemical addiction syndrome and the Chemical Addiction Syndrome
 created: 2026-04-28
 tags:
   - addiction
@@ -23,7 +23,7 @@ type: concept
 
 ## Overview
 
-In *Food of the Gods*, Terence McKenna develops a theory of "acquired tastes" that connects the
+In *Food of the Gods*, [[terence-mckenna]] develops a theory of "acquired tastes" that connects the
 mundane phenomenon of learning to enjoy initially unpleasant foods with the deeper mechanisms of
 chemical addiction. His central insight is that the process of acquiring a taste for a bitter or
 otherwise aversive substance follows the same neurological pathway as the development of drug
@@ -80,7 +80,7 @@ regulatory systems.
 ## Psychoactive Compounds as a Chemical Language
 
 McKenna places the acquisition of chemical dependencies within a broader framework of
-chemical communication between species. Among the vast number of chemicals that constitute
+[[bloomfield-siren-songs-fungal-chemical-communication-reproduction-chapter-7]] between species. Among the vast number of chemicals that constitute
 nature's molecular storehouse, he focuses on a relatively small number of compounds that
 interact with the senses and the neurological processing of sensory data. These include all
 of the psychoactive amines, alkaloids, pheromones, and hallucinogens, as well as all

@@ -1,5 +1,5 @@
 ---
-title: Acetyl Protection Route in Psilocin and Psilocybin Synthesis
+title: shirota-4-hydroxyindole-acetyl-protection-experimental Route in tryptamine-chemistry-psilocin-and-psilocybin-synthesis Synthesis
 created: 2026-04-28
 tags:
   - psilocybin
@@ -8,7 +8,7 @@ tags:
   - organic-chemistry
   - 4-hydroxyindole
   - acetylation
-  - oxalyl chloride
+  - [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]]
   - glyoxalylamide
   - lithium-aluminum-hydride
   - shirota
@@ -35,7 +35,7 @@ Isolation from fungal material on gram scale is impractical because psilocin is 
 
 The synthesis begins with commercially available 4-hydroxyindole. While the Nichols and Frescas (1999) approach used benzyl ether protection of the 4-hydroxyl group, Shirota et al. selected acetylation for several reasons:
 
-- **Single-step deprotection**: Acetyl groups are removed during the LiAlH4 reduction step that simultaneously converts the glyoxalylamide intermediate to psilocin, eliminating a separate deprotection step. Benzyl protection requires catalytic hydrogenolysis or other dedicated deprotection.
+- **Single-step deprotection**: Acetyl groups are removed during the LiAlH4 reduction step that simultaneously converts the glyoxalylamide intermediate to psilocin, eliminating a separate deprotection step. Benzyl protection requires [[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]] or other dedicated deprotection.
 - **Crystalline intermediates**: The acetyl-protected intermediate 4-acetylindole forms ivory white crystals, facilitating isolation by simple filtration. The benzyl-protected analog was reported as somewhat unstable without careful reaction control and was not isolated in crystal form.
 - **Gram-scale feasibility**: All intermediates in the acetyl route are crystalline solids that can be isolated by filtration and washing, making the entire sequence amenable to scale-up without chromatographic equipment.
 
@@ -97,7 +97,7 @@ The acetyl protection route's simplicity, avoidance of exotic reagents, and reli
 
 ## Historical Context of Psilocybin Synthesis
 
-The synthesis of psilocybin has a history spanning several decades since Albert Hofmann's original isolation and characterization of the compound from Psilocybe mexicana in 1958. Hofmann also accomplished the first total synthesis of psilocybin, establishing the foundational route that subsequent researchers sought to improve. The Shirota et al. route described in this concept represents one of the most significant advances in this history, achieving yields and scalability that previous approaches could not match. The development of efficient synthetic routes has become increasingly important as psilocybin enters mainstream clinical research, with regulatory bodies requiring pharmaceutical-grade material produced under controlled conditions.
+The synthesis of psilocybin has a history spanning several decades since Albert Hofmann's original isolation and characterization of the compound from [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] in 1958. Hofmann also accomplished the first total synthesis of psilocybin, establishing the foundational route that subsequent researchers sought to improve. The Shirota et al. route described in this concept represents one of the most significant advances in this history, achieving yields and scalability that previous approaches could not match. The development of efficient synthetic routes has become increasingly important as psilocybin enters mainstream [[hofmann-lsd-clinical-research-early-studies]], with regulatory bodies requiring pharmaceutical-grade material produced under controlled conditions.
 
 Key milestones in psilocybin synthesis include Hofmann's original route via phosphorylation of psilocin, the Speeter and Anthony approach using 4-hydroxyindole as a starting material, and the various modifications introduced by subsequent researchers to improve yields, reduce the number of steps, or avoid hazardous reagents. The Shirota route is distinguished by its combination of high overall yield, avoidance of chromatographic purification, and scalability to multi-gram quantities.
 
@@ -119,3 +119,5 @@ The catalytic hydrogenolysis step using palladium on carbon is also well-establi
 - [[psilocin-synthesis-4-hydroxyindole-to-psilocin]]
 - [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]]
 - [[synthetic-tryptamine-methods]]
+
+- [[shirota-acetyl-versus-benzyl-protection-psilocin-synthesis-stability-forensic-standards]]

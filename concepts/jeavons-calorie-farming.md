@@ -11,11 +11,11 @@ updated: 2026-04-26
 
 # Calorie Farming and Calorie Crops
 
-One of the eight features of GROW BIOINTENSIVE is the use of calorie-efficient crops — planting approximately 30% of the growing area in special root crops that produce large amounts of calories per unit of area.
+One of the eight features of [[jeavons-grow-biointensive-method-overview]] is the use of calorie-efficient crops — planting approximately 30% of the growing area in special [[permaculture-plants-root-crops-and-tubers]] that produce large amounts of calories per unit of area.
 
 ## Why Calorie Farming Matters
 
-Conventional vegetable gardening, even at high yields, cannot sustain a person's caloric needs on a small area. A typical vegetable garden provides vitamins and minerals but negligible calories. To achieve food self-sufficiency on 4,000 square feet, calorie production must be deliberately planned alongside vegetable production.
+Conventional [[home-vegetable-garden-planning]], even at high yields, cannot sustain a person's caloric needs on a small area. A typical vegetable garden provides vitamins and minerals but negligible calories. To achieve food self-sufficiency on 4,000 square feet, [[solomon-self-sufficiency-calorie-production-economics]] must be deliberately planned alongside [[dry-gardening-unirrigated-vegetable-production-solomon]].
 
 GROW BIOINTENSIVE can produce 200% to 400% more calories per unit of area than conventional methods.
 
@@ -70,7 +70,7 @@ Up to 50-75% of the vegetable area may be used for income crops if missing vitam
 
 Grains: wheat, cereal rye, oats, barley, triticale, corn, sorghum, amaranth, quinoa.
 
-Other: fava beans (grown to maturity for dry bean and dry biomass), sunflowers (very high in fat; maximum 0.62 lb/day to avoid copper toxicity), Jerusalem artichoke, filberts, raisins.
+Other: fava beans (grown to maturity for dry bean and dry biomass), sunflowers (very high in fat; maximum 0.62 lb/day to avoid copper toxicity), [[comparison-jerusalem-artichoke-vs-potato]], filberts, raisins.
 
 ### Root Crops to Avoid for Calorie Production
 

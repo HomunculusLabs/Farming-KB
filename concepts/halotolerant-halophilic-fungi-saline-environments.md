@@ -1,5 +1,5 @@
 ---
-title: "Halotolerant and Halophilic Fungi in Saline Environments"
+title: "Halotolerant and halotolerant halophilic fungi saline environments in Saline Environments"
 created: 2026-04-26
 tags:
   - mycology
@@ -48,7 +48,7 @@ can colonize both saline and non-saline habitats.
 
 The primary mechanism of osmotic adaptation in halophilic
 fungi is the intracellular accumulation of compatible
-solutes, organic compounds that do not interfere with
+solutes, [[fungal-volatile-organic-compounds-communication]] that do not interfere with
 normal cellular metabolism even at high concentrations.
 These include:
 - **Glycerol**: The most common compatible solute in
@@ -63,7 +63,7 @@ These include:
 ### Ion Exclusion and Compartmentation
 
 Halophilic fungi maintain low intracellular concentrations
-of sodium and chloride ions through active transport
+of sodium and chloride ions through [[diffusion-osmosis-and-active-transport-in-plants]]
 mechanisms that exclude these ions from the cytoplasm or
 sequester them in vacuoles. This prevents the disruption
 of enzyme function and protein structure that would occur
@@ -92,7 +92,7 @@ changes in salt concentration.
 ### Saline Soils and Desert Crusts
 
 Arid and semi-arid regions with saline soils support
-distinctive fungal communities. In Saudi Arabian deserts,
+distinctive [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]. In Saudi Arabian deserts,
 halotolerant and halophilic fungi have been isolated from
 soil, and studies have found that fungi from more saline
 environments tend to be more halotolerant than fungi from
@@ -106,7 +106,7 @@ integrity.
 ### Hypersaline Habitats
 
 Hypersaline environments, including salt pans, solar
-salterns, and the Dead Sea, represent the extreme end
+salterns, and the [[allegro-dead-sea-scrolls-and-early-christian-sects]], represent the extreme end
 of saline habitats. Few fungi can grow at the highest
 salinities, but some species have been isolated from
 these environments. The fungal communities of hypersaline
@@ -118,7 +118,7 @@ derive additional protection from their dark pigments.
 Salinization of agricultural soils due to irrigation is
 a growing global problem. The fungi that persist in these
 affected soils include both halotolerant saprotrophs and
-plant pathogens. Changes in fungal community composition
+plant pathogens. Changes in fungal [[core-endorhiza-bacterial-community-composition-cannabis]]
 due to salinization can affect soil health, nutrient
 cycling, and plant productivity.
 
@@ -140,5 +140,7 @@ physiological studies.
 Several species of Aspergillus and Penicillium show
 
 ## See Also
+
+- [[saprotrophic-fungi-heterogeneous-environments]]
 
 - [[dematiaceous-fungi-melanin-fungal-ecology]]

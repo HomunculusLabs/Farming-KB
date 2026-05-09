@@ -1,5 +1,5 @@
 ---
-title: Cannabis Indoor Soil Mix and Preparation
+title: comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing Soil Mix and Preparation
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -12,7 +12,7 @@ Updated: 2026-04-18
 
 Source: The Cannabis Grow Bible, Greg Green (Ch. 5, 6, 8)
 
-Soil is the foundation of an indoor cannabis grow. Greg Green covers soil selection, pH management, and nutrient requirements as core components of successful indoor cultivation.
+Soil is the foundation of an indoor cannabis grow. Greg Green covers soil selection, pH management, and nutrient requirements as core components of successful [[cannabis-sativa-indoor-cultivation-techniques]].
 
 ## Basic Soil Requirements
 
@@ -42,7 +42,7 @@ Cannabis prefers a well-draining, slightly acidic soil rich in organic matter. T
 - **Worm castings**: Gentle, slow-release nutrients, improves soil structure
 - **Bat guano**: High-nitrogen (for veg) or high-phosphorus (for flower) depending on source
 - **Bone meal**: Slow-release phosphorus and calcium
-- **Blood meal**: Nitrogen-rich for vegetative growth
+- **Blood meal**: Nitrogen-rich for [[cannabis-vegetative-growth-stage]]
 - **Kelp meal**: Trace minerals, growth hormones
 - **Dolomite lime**: Raises pH, provides calcium and magnesium
 
@@ -59,7 +59,7 @@ Cannabis prefers a well-draining, slightly acidic soil rich in organic matter. T
 - 1 part compost
 - 1 part perlite
 - 0.5 part worm castings
-- 0.5 part castings or composted manure
+- 0.5 part castings or [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]]
 - 2 tablespoons dolomite lime per gallon
 - 1 tablespoon each: bone meal, kelp meal, blood meal per gallon
 
@@ -70,10 +70,10 @@ See also [[cannabis-soilless-grow-media]] for hydroponic alternatives.
 
 ## pH Management in Soil
 
-Soil pH directly affects nutrient availability:
+Soil pH directly affects [[ph-and-nutrient-availability-garden-soils]]:
 
 - **Optimal range**: 6.3–6.8
-- **Too low (acidic)**: Nutrient lockout of calcium, magnesium, and phosphorus
+- **Too low (acidic)**: [[cannabis-nutrient-lockout-and-ph]] of calcium, magnesium, and phosphorus
 - **Too high (alkaline)**: Nutrient lockout of iron, manganese, zinc, and copper
 
 ### Adjusting Soil pH

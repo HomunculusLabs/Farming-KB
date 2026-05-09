@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Clarke, R.C. (1998). Hashish! Red Eye Press.
   - Emboden, W. (1972). "Ritual use of Cannabis sativa L." Economic Botany.
-  - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last Two Decades." Biological Psychiatry.
+  - ElSohly, M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] Over the Last Two Decades." Biological Psychiatry.
   - Leafly Strain Database. "Acapulco Gold."
   - Mel Frank & Ed Rosenthal (1998). The Big Book of Buds. Quick American Archives.
 created: 2026-04-28
@@ -24,7 +24,7 @@ created: 2026-04-28
 
 ## Overview
 
-Acapulco Gold is one of the most legendary cannabis strains in history, an heirloom sativa landrace that originated in the Guerrero region of Mexico near Acapulco. Named for its golden-brown hue and the region where it grew wild, it was a staple of the 1960s and 1970s cannabis counterculture and is widely regarded as one of the foundational strains that shaped modern cannabis genetics. True, unhybridized Acapulco Gold is now extremely rare, with many modern offerings being crosses or approximations rather than the authentic landrace.
+Acapulco Gold is one of the most legendary cannabis strains in history, an heirloom [[cannabis-sativa-landrace-strains]] that originated in the Guerrero region of Mexico near Acapulco. Named for its golden-brown hue and the region where it grew wild, it was a staple of the 1960s and 1970s cannabis counterculture and is widely regarded as one of the foundational strains that shaped modern [[vic-high-cannabis-genetics-mendelian-inheritance]]. True, unhybridized Acapulco Gold is now extremely rare, with many modern offerings being crosses or approximations rather than the authentic landrace.
 
 ## Genetic Background
 
@@ -37,7 +37,7 @@ Acapulco Gold is one of the most legendary cannabis strains in history, an heirl
 
 ### Genetic Profile
 
-Acapulco Gold represents the quintessential Mexican sativa phenotype. It belongs to a broader group of Mexican landraces that were the genetic backbone of early American cannabis breeding. Along with Colombian and Thai landraces, Mexican sativas formed the foundation of the "Big Three" imported strains that defined pre-modern cannabis.
+Acapulco Gold represents the quintessential Mexican sativa phenotype. It belongs to a broader group of Mexican landraces that were the genetic backbone of early American [[oner-cannabis-breeding-fundamentals]]. Along with Colombian and Thai landraces, Mexican sativas formed the foundation of the "Big Three" imported strains that defined pre-modern cannabis.
 
 ### Genetic Relatives and Descendants
 
@@ -48,17 +48,17 @@ Acapulco Gold represents the quintessential Mexican sativa phenotype. It belongs
 
 ## Historical Significance
 
-Acapulco Gold occupies a central place in cannabis culture history:
+Acapulco Gold occupies a central place in [[mckenna-cannabis-culture-history]] history:
 
 - **1960s–1970s:** One of the most sought-after imported strains during the golden age of cannabis smuggling. Mexican brick weed containing Acapulco Gold genetics flooded the American market.
 - **Cultural icon:** Referenced extensively in music, literature, and film of the era (Cheech & Chong, Bob Dylan, counterculture literature)
 - **Genetic foundation:** Mexican landrace genetics, including Acapulco Gold, were the starting point for virtually all American cannabis breeding programs
-- **Decline:** The War on Drugs devastated Mexican cannabis cultivation in the 1980s. Eradication programs, hybridization with inferior genetics, and the shift to indoor cultivation led to the near-extinction of pure Mexican landraces
+- **Decline:** The War on Drugs devastated Mexican [[query-how-does-no-till-cannabis-cultivation-work]] in the 1980s. Eradication programs, hybridization with inferior genetics, and the shift to indoor cultivation led to the near-extinction of pure Mexican landraces
 - **Modern revival:** Some breeders have worked to preserve and recreate Acapulco Gold from stored seeds and genetic archives, but true, unhybridized specimens remain exceptionally rare
 
 ## See Also
 
-- [[thai-stick-entity]] — Southeast Asian landrace counterpart
+- thai-stick-entity — Southeast Asian landrace counterpart
 - haze — Multi-landrace hybrid with Mexican genetics
 - mexican sativa landraces — Overview of Mexico's cannabis genetic heritage
 - [[blesching-cannabis-sativa-indica-classification]] — Detailed comparison of cannabis subspecies classifications
@@ -80,4 +80,6 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+- [[acapulco-gold]]
+- [[cannabis-sativa]]
+- [[cannabis-colombian-gold-landrace-sativa]]

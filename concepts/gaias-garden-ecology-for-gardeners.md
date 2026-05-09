@@ -1,5 +1,5 @@
 ---
-title: Gaia's Garden Ecology for Gardeners
+title: Gaia's gaias garden ecology for gardeners for Gardeners
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -49,7 +49,7 @@ Biodiversity in ecosystems isn't random — it is structured and functional. Key
 
 - **Niche diversity** matters more than species count — a diverse array of niches supports more species
 - **Structural diversity** (layers, edges, varied terrain) creates more niches
-- **Functional diversity** (different roles: nitrogen-fixers, pest predators, mulch producers) matters more than visual diversity
+- **[[fungal-functional-diversity-decomposition]]** (different roles: nitrogen-fixers, pest predators, mulch producers) matters more than visual diversity
 - More biodiversity generally means more stability and resilience, but diversity must be functional, not just numerical
 
 ## Perennials versus Annuals
@@ -61,7 +61,7 @@ The ecological garden imitates a mature ecosystem by emphasizing perennials rath
 - Eliminate seed-starting, tilling, and the opportunity for weeds that tilling brings — three chores at one stroke
 - Need less water and fertilizer than annuals
 - Deep root systems tap moisture and nutrients that annuals cannot reach
-- Year-round presence provides dependable habitat for wildlife and beneficial insects
+- Year-round presence provides dependable habitat for wildlife and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - No need to replant each season
 
 ### Perennial Food Plants
@@ -69,7 +69,7 @@ The ecological garden imitates a mature ecosystem by emphasizing perennials rath
 - **Greens:** Good King Henry, perennial kale and broccoli, French sorrel
 - **Alliums:** Perennial onions, garlic chives, walking onions
 - **Root crops:** Various perennial root vegetables
-- **Herbs:** Most culinary herbs are perennial
+- **Herbs:** Most [[holzer-medicinal-and-culinary-herbs-compendium]] are perennial
 - **Vegetables:** Asparagus, artichokes, rhubarb
 - **Fruits and nuts:** Berries, fruit trees, nut trees
 
@@ -117,8 +117,8 @@ Plants pull nutrients from deep subsoil and deposit them at the surface through 
 
 ## See Also
 
-- [[gaias-garden-stacking-functions]] — stacking functions and redundancy
+- [[gaias-garden-stacking-functions]] — [[gaias-garden-stacking-functions-detailed]] and redundancy
 - [[gaia-garden-plant-guilds]] — plant guild design
-- [[mollison-observation-design]] — observation in permaculture design
+- mollison-observation-design — observation in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
 - [[gaias-garden-water-harvesting-swales-and-greywater]]
 - [[gaias-garden-cover-crops-soil-building]]

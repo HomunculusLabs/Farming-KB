@@ -1,5 +1,5 @@
 ---
-title: "Seasonal Vegetable Planting Guide"
+title: "Seasonal purdue-vegetable-planting-reference-table Guide"
 created: 2026-04-28
 tags: [seasonal-planting, vegetable-gardening, sowing,
       succession-planting, organic-gardening]
@@ -53,7 +53,7 @@ three years.
 
 ### Midsummer
 - Start late sowings of turnips and carrots for autumn
-- Sow Swiss chard for winter harvest
+- Sow Swiss chard for [[coleman-claytonia-winter-harvest-cultivation]]
 - Draw soil away from onions to encourage ripening
 - Continue hoeing regularly as many weeds now seed
 - Thin gooseberries for larger dessert fruit
@@ -86,7 +86,7 @@ gives your vegetables a head start over competition.
 
 ### Cloches and Protection
 Sheets of polyethylene, cloches, and garden fabric extend
-the growing season by protecting from frost and warming
+the [[savory-growing-season-and-non-growing-season-management]] by protecting from frost and warming
 the soil for earlier sowing. Remove covers during the day
 to allow pollination and ventilation.
 
@@ -94,7 +94,7 @@ to allow pollination and ventilation.
 
 - Lift and store main crop potatoes
 - Plant garlic, shallots, and onion sets for next year
-- Sow broad beans and peas for early spring harvest
+- Sow broad [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]] for early spring harvest
 - Dig in green-manure crops before the ground freezes
 - Apply manure and compost to empty beds
 - Plan next year's rotation
@@ -110,13 +110,13 @@ pest or disease problems encountered.
 
 ## Extending the Season
 
-Many modern vegetable varieties are bred to remain in the
+Many modern [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] are bred to remain in the
 ground without deteriorating for some time after maturing.
 This provides flexibility in harvesting. Main crop onions,
 for example, can be stored throughout winter. Use cold
 frames and greenhouses to start crops earlier and extend
 the harvest later into autumn. Row covers of horticultural
-fleece provide several degrees of frost protection.
+fleece provide several degrees of [[holzer-frost-protection-techniques]].
 
 ## Planning for Continuous Supply
 
@@ -126,3 +126,7 @@ through winter. Quick-maturing radishes and salad leaves
 fill gaps between main crops. [[crop-rotation-vegetable-garden]]
 - [[seed-saving-storage]]
 - [[soil-health-management]]
+
+## See Also
+
+- [[hamilton-seasonal-planting-calendars]]

@@ -13,7 +13,7 @@ type: concept
 Defining what constitutes a fungal species has been one of the most
 persistent challenges in mycology and evolutionary biology. Fungi defy
 many of the assumptions underlying species concepts developed for animals
-and plants, including strict sexual reproduction, stable observable
+and plants, including strict [[fungal-life-cycles-sexual-reproduction-metamorphosis]], stable observable
 morphology, and discrete genetic boundaries between taxa. The diversity
 of [[mycorrhizal-fungi]], specificity to particular host plants can define
 meaningful ecological units even when genetic divergence is minimal. The
@@ -32,7 +32,7 @@ radiating or recently diverged groups.
 The growing gap between molecular phylogenetic evidence and formal
 taxonomic description has led to an explosion of undescribed phylogenetic
 lineages known only from sequence data in environmental surveys. These
-"dark taxa" represent a significant portion of detected fungal diversity
+"[[fungal-dark-taxa-environmental-dna-sequencing]]" represent a significant portion of detected [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 that cannot be formally named or studied without additional evidence.
 
 Bridging this taxonomic gap between phylogenetic discovery and formal
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

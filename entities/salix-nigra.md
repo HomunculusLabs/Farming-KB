@@ -9,7 +9,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Argus, G.W. (2010). "Salix of North America." American Journal of Botany, 97(5), 797–821.
+  - Argus, G.W. (2010). "Salix of psilocybin-north-america-pacific-northwest." American Journal of Botany, 97(5), 797–821.
   - Mosseler, A. et al. (1988). "Reproductive biology of Salix nigra." Canadian Journal of Botany, 66, 1957–1964.
   - Rood, S.B. et al. (2003). "A riparian cottonwood and willow ecosystem." In: Stewart, W.C. & Higgins, D.A. (eds.), The Bow River Basin Water Forum.
   - Karrenberg, S. et al. (2002). "Life in the flood zone: survival strategies of riparian plants." Perspectives in Plant Ecology, Evolution and Systematics, 5, 61–72.
@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Salix nigra**, commonly known as black willow, is the largest and most commercially important native willow species in eastern North America. It is a fast-growing deciduous tree in the family Salicaceae, reaching 10–30 meters in height along river systems.
+**Salix nigra**, commonly known as black willow, is the largest and most commercially important native willow species in [[polypore-fungi-eastern-north-america]] America. It is a fast-growing deciduous tree in the family Salicaceae, reaching 10–30 meters in height along river systems.
 
 The species is a dominant component of bottomland hardwood forests and riparian corridors throughout the eastern United States and adjacent Canada. Its dark, deeply furrowed bark distinguishes it from other native North American willows.
 
@@ -26,7 +26,7 @@ Black willow is the only tree-size willow native to the southeastern United Stat
 
 The species is relatively short-lived, typically 50–70 years, though some specimens persist to 100+ years in protected riparian sites. Growth is extremely rapid, with young trees capable of adding 2 meters or more in height per year.
 
-Black willow provides critical ecosystem services including streambank stabilization, flood mitigation, and wildlife habitat. The wood has traditional uses in basketry, furniture, and crate manufacture.
+Black willow provides critical [[biodiversity-of-fungi-ecosystem-services-agriculture]] including streambank stabilization, flood mitigation, and wildlife habitat. The wood has traditional uses in basketry, furniture, and crate manufacture.
 
 ## Taxonomy and Morphology
 
@@ -68,15 +68,15 @@ Black willow is planted for streambank stabilization and riparian restoration th
 
 The wood is light, soft, and relatively weak with a density of approximately 380 kg/m³. Despite its low strength, the wood has been used for crates, boxes, pallets, and artificial limbs due to its light weight and workability.
 
-Traditional uses include basketry, charcoal production, and wickerwork. Black willow was historically a primary source of basket rods in the southeastern United States, though it produces coarser material than European osier willows.
+Traditional uses include basketry, [[mollison-designers-charcoal-production-biochar-soil-amendment]], and wickerwork. Black willow was historically a primary source of basket rods in the southeastern United States, though it produces coarser material than European osier willows.
 
 The bark contains salicin and was used medicinally by Native American peoples for pain relief, fever reduction, and wound treatment. Settlers adopted willow bark preparations as a folk remedy before the development of synthetic aspirin.
 
 The Cherokee used black willow bark tea for fever and rheumatism, while the Creek applied bark poultices to wounds and swellings. The Choctaw used willow root preparations for headache and toothache relief.
 
-In modern forestry, black willow is occasionally managed for biomass production. Annual coppice growth rates of 2–4 meters are common on favorable riparian sites, though commercial bioenergy plantings remain limited.
+In modern forestry, black willow is occasionally managed for [[dighton-fungal-biomass-production-aquatic-ecosystems]]. Annual coppice growth rates of 2–4 meters are common on favorable riparian sites, though commercial bioenergy plantings remain limited.
 
-The species has been investigated for use in constructed wetlands and mine reclamation. Its tolerance of heavy metals and ability to thrive in waterlogged, nutrient-poor substrates make it suitable for phytoremediation of contaminated sites.
+The species has been investigated for use in [[comparison-constructed-wetlands-vs-bioswales]] and mine reclamation. Its tolerance of heavy metals and ability to thrive in waterlogged, nutrient-poor substrates make it suitable for phytoremediation of contaminated sites.
 
 ## Ecological Role
 

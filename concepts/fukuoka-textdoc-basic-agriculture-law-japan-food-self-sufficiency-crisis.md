@@ -1,5 +1,5 @@
 ---
-title: "Japan's Basic Agriculture Law and the Food Self-Sufficiency Crisis"
+title: "Japan's fukuoka textdoc basic agriculture law japan food self sufficiency crisis Law and the Food Self-Sufficiency Crisis"
 created: 2026-04-28
 tags: [fukuoka, agriculture-policy, japan, food-security, postwar-agriculture, farmland-reduction]
 date: 2026-04-28
@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Masanobu Fukuoka's *The Natural Way of Farming* contains a scathing political and economic analysis of Japan's postwar agricultural transformation. He documents how government policy systematically dismantled the farming class, transferring wealth and labor from rural communities to urban industrial centers while driving Japan's food self-sufficiency below thirty percent.
+Masanobu Fukuoka's *The Natural Way of Farming* contains a scathing political and economic analysis of Japan's [[fukuoka-japan-postwar-agricultural-transformation-mechanization-trap]] transformation. He documents how government policy systematically dismantled the farming class, transferring wealth and labor from rural communities to urban industrial centers while driving Japan's food self-sufficiency below thirty percent.
 
 This critique centers on the Basic Agriculture Law of 1961, which Fukuoka argues was not a foundation for farmers but an instrument of control that transferred power to the financial community.
 
@@ -33,9 +33,9 @@ The first step in Japan's agricultural transformation was the arrival of the mot
 
 Before long, ropeways, monorails, and paved roads stretched to the furthest corners of the village, all of which completely altered the farmer's notions of time and space.
 
-With this wave of change from labor-intensive to capital-intensive farming came the replacement of the horse-drawn plow with tillers, and later, tractors. Methods of pesticide and fertilizer application underwent major revisions, with motorized hand sprayers being abandoned in favor of helicopter spraying.
+With this wave of change from labor-intensive to capital-intensive farming came the replacement of the horse-drawn plow with tillers, and later, tractors. Methods of pesticide and [[cervantes-fertilizer-application-strain-feeding]] underwent major revisions, with motorized hand sprayers being abandoned in favor of helicopter spraying.
 
-Traditional farming with draft animals was abandoned and replaced with methods involving the heavy application of chemical fertilizers and pesticides.
+Traditional farming with draft animals was abandoned and replaced with methods involving the heavy application of [[cervantes-chemical-fertilizers-guide]] and pesticides.
 
 The rapid mechanization of agriculture lit the fires for the revival and precipitous growth of the machine industry, while the adoption of pesticides, chemical fertilizers, and petroleum-based farming materials laid the foundation for development of the chemical industry.
 
@@ -71,7 +71,7 @@ While the one-acre farmer was doing all he could to work his way up to three or 
 
 ## The Price of Rice and Distribution Costs
 
-People talk of cheap rice, but it has never been the farmer who sets the price of rice or other farm produce. Nor is it the farmer who determines production costs. The price of rice nowadays is the price calculated to support the manufacturers of agricultural equipment; it is the price needed for the production of new farm implements; it is the price at which fuel can be bought.
+People talk of cheap rice, but it has never been the farmer who sets the price of rice or other farm produce. Nor is it the farmer who determines [[fukuoka-textdoc-production-costs-not-coming-down]]. The price of rice nowadays is the price calculated to support the manufacturers of agricultural equipment; it is the price needed for the production of new farm implements; it is the price at which fuel can be bought.
 
 The retail price of farm produce is said to be too high in Japan, but this is because the costs of distribution are too high. Distribution costs in Japan are five times those in the United States and twice as high as in West Germany.
 
@@ -97,7 +97,7 @@ The farmer who is in love with money no longer has any time or affection for nat
 
 ## The Warning from American Agriculture
 
-In 1979, Fukuoka visited the United States and was astounded by what he saw. Because meat is the food staple in America, agriculture is dominated by livestock farming. Grazing has destroyed the ecology of natural grasses, devastating the land.
+In 1979, Fukuoka visited the United States and was astounded by what he saw. Because meat is the food staple in America, agriculture is dominated by [[fukuoka-textdoc-natural-livestock-farming-open-grazing]]. Grazing has destroyed the ecology of natural grasses, devastating the land.
 
 Land that has lost its fertility is barren of nature's strength. This accounts for the development of a modern agriculture totally reliant on petroleum energy. The low productivity of the land drives farmers to large-scale operations. Large operations require mechanization with machinery of increasing size. This big iron breaks down the structure of the soil, setting up a negative cycle.
 

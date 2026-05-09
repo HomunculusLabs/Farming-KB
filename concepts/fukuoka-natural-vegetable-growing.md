@@ -1,11 +1,12 @@
 ---
-title: Fukuoka Natural Vegetable Growing
+title: Fukuoka fukuoka natural vegetable growing Growing
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka's Natural Vegetable Growing
@@ -29,7 +30,7 @@ Fukuoka does not plan specific crop rotations in the conventional sense. Instead
 - Seeds are scattered and allowed to grow where conditions suit them
 - Some species flourish, then fade in an ongoing succession
 - Plants of the same species do not all grow in the same place and way
-- Different types flourish at different times, creating natural rotation
+- Different types flourish at different times, [[fukuoka-creating-natural-farm-site-selection-establishment]] rotation
 - The cycles of coexistence, competition, and mutual benefit repeat themselves
 
 ### Vegetable Disease and Pest Resistance
@@ -51,7 +52,7 @@ Fukuoka's preferred method is growing vegetables beneath [[mollison-designers-hu
 
 Many leaf vegetables grow well in semi-wild conditions:
 - They can be cut repeatedly for harvest while continuing to grow
-- They provide ground cover that suppresses weeds
+- They provide [[fukuoka-citrus-orchard-ground-cover-cultivation]] that suppresses weeds
 - They are among the easiest vegetables to naturalize
 
 ### Wild and Semi-Wild Vegetables
@@ -59,13 +60,13 @@ Many leaf vegetables grow well in semi-wild conditions:
 Fukuoka particularly values wild and semi-wild vegetables for their nutritional and medicinal qualities:
 
 - "The wilder and more primitive the food, the greater its medicinal value"
-- Many edible wild plants grow naturally in and around cultivated areas
+- Many [[query-how-do-i-identify-the-most-common-edible-wild-mushrooms]] plants grow naturally in and around cultivated areas
 - These can be encouraged rather than suppressed
 - They provide diversity in the diet and resilience in the garden
 
 ## The Seed Ball Technique for Vegetables
 
-While Fukuoka's seed ball technique is most famous for rice and grain cultivation, it is equally applicable to vegetables. See [[biodiversity-of-fungi-biomass-carbon-soil-structure]] at multiple levels
+While Fukuoka's seed ball technique is most famous for rice and [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]], it is equally applicable to vegetables. See [[biodiversity-of-fungi-biomass-carbon-soil-structure]] at multiple levels
 - Continuous vegetable growing (when done with natural rotation) actually improves soil rather than depleting it
 
 ## Fukuoka's Practical Approach
@@ -91,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

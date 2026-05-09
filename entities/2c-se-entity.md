@@ -9,7 +9,7 @@ sources:
 ---
 # 2C-SE
 
-**PIHKAL Entry #38** -- 2,5-Dimethoxy-4-methylselenophenethylamine
+**[[2c-b-pihkal-entry-20]] #38** -- 2,5-Dimethoxy-4-methylselenophenethylamine
 
 ## Chemical Name
 

@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-The Cannabis Health Index dedicates substantial attention to the
+The [[blesching-cannabis-health-index-autoimmune-conditions]] dedicates substantial attention to the
 mind-body medicine dimensions of sexually transmitted diseases (STDs).
 Blesching presents a comprehensive framework for understanding how
 mental and emotional factors influence susceptibility, transmission,
@@ -45,7 +45,7 @@ specific vulnerability patterns:
   next "fix" is her only priority.
 - **Assault victims**: May refuse to get treatment, insisting that the
   pain in their genitals is less onerous than a doctor's physical exam
-  and the admission that they were unable to defend themselves.
+  and the admission that they were unable to [[query-how-do-plants-defend-themselves-chemically]].
 - **Childhood shame**: A distorted self-concept based on unresolved
   childhood shame may induce an adult to validate their perceived
   "worthlessness" by repeatedly taking excessive risks in the sexual
@@ -57,7 +57,7 @@ Guilt, fear, and shame figure prominently in the emotional context of
 STDs. Our sexuality and the meanings and values we attach to it are very
 complex, and significantly influenced by religious, cultural, family, and
 personal circumstances. Conflicts between these perspectives can lead to
-"cognitive dissonance" or discomfort and stress.
+"[[mckenna-cognitive-dissonance-translinguistic-object]]" or discomfort and stress.
 
 Stress, especially chronic stress, gives rise to an internal environment
 in which the body becomes vulnerable to disease. Many pathogens involved

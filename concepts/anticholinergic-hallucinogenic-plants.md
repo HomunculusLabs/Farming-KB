@@ -96,22 +96,22 @@ for days or weeks.
 Scopolamine and atropine are described as euphorogenic, and shamanic
 use has occurred among Native Americans and indigenous peoples
 worldwide. These plants have a long history in various cultural
-contexts including European witchcraft and folk magic, Native American
+contexts including [[harner-european-witchcraft-hallucinogens]] and folk magic, Native American
 ceremonial practices, ancient Greek and Roman oracle rituals, and
-medieval European medicine.
+[[solanaceous-hallucinogens-of-medieval-european-witchcraft]] medicine.
 
 ## Geographic Distribution
 
 Most anticholinergic plants were introduced to the US as ornamental
 flowers. Datura species have become widely naturalized and grow wild
 throughout most of the US (except Wyoming and Alaska). Their hardiness
-and prolific seed production make them persistent weeds.
+and prolific [[cervantes-seed-production-storage]] make them persistent weeds.
 
 ## Risk Profile
 
 The risk profile is among the highest of all psychoactive botanicals:
 
-- **Narrow therapeutic index**: Small difference between active and
+- **Narrow [[cannabis-therapeutic-index-overview]]**: Small difference between active and
   lethal doses
 - **Unpredictable alkaloid content**: Varies significantly between
   plants and plant parts

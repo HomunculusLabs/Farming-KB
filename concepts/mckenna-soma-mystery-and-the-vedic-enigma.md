@@ -1,5 +1,5 @@
 ---
-title: McKenna's Soma Mystery and the Vedic Enigma
+title: McKenna's mckenna soma mystery and the vedic enigma and the Vedic Enigma
 source: mckenna_t-food_of_the_gods.md
 topics: vedic, soma, archaeology, india, entheogens
 ---
@@ -11,14 +11,14 @@ substances is the identity of Soma — the divine plant sacrament of the
 ancient Vedic religion of India. [[fly-agaric]] mushroom, [[syrian-rue]]) as a more plausible
 candidate. This plant contains harmine and harmaline — beta-carboline
 alkaloids that are MAO inhibitors. When combined with DMT-containing
-plants, the harmala alkaloids make the DMT orally active (the same
-pharmacological principle as Amazonian ayahuasca).
+plants, the [[turner-harmala-alkaloids-preparation-and-dosage]] make the DMT orally active (the same
+pharmacological principle as [[harner-amazonian-ayahuasca-preparation-methods]]).
 
 The Haoma of the Zoroastrian tradition in Persia (cognate with Vedic
-Soma) was associated with Peganum harmala, providing cultural and
+Soma) was associated with [[mckenna-food-gods-peganum-harmala-soma]], providing cultural and
 geographical support for this identification. The plant's distribution
 across Central Asia and the Middle East fits the Indo-European migration
-patterns better than Amanita muscaria.
+patterns better than [[allegro-amanita-muscaria-properties-and-pharmacology]].
 
 ## The Wasson Contradictions
 
@@ -66,7 +66,7 @@ people whose language family gave rise to most European languages.
 McKenna framed the Soma mystery as a historical watershed — the moment
 when humanity's original partnership with visionary plants began to be
 lost. The forgetting of Soma's identity represents the beginning of the
-end of the Archaic worldview, to be replaced by the dominator culture's
+end of the Archaic worldview, to be replaced by the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]'s
 suppression of direct ecstatic experience in favor of priestly mediation
 and dogmatic authority.
 
@@ -81,5 +81,11 @@ Soma ceremony a form of proto-ayahuasca.
 
 ## See Also
 
+- [[soma-and-the-vedic-enigma-identity-of-sacred-plant]]
+
+- [[soma-mystery-identity]]
+- [[mckenna-search-for-soma-vedic-enigma]]
+
 - [[global-distribution-of-neurotropic-fungi]]
-- [[global-distribution-of-neurotropic-fungi]]
+
+- [[soma-vedic-enigma]]

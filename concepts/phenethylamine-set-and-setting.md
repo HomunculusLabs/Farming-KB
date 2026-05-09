@@ -1,5 +1,5 @@
 ---
-title: Phenethylamine Set and Setting
+title: Phenethylamine lsd-set-and-setting-framework
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -11,7 +11,7 @@ sources: [raw/papers/shulgin-a-pihkal.md]
 
 ## Overview
 
-The concepts of "set" (the user's mindset, expectations, and psychological state) and "setting" (the physical and social environment) are fundamental to understanding psychedelic experience. While these concepts were most explicitly articulated by Timothy Leary and others in the 1960s, they are implicitly woven throughout Shulgin's PIHKAL documentation.
+The concepts of "set" (the user's mindset, expectations, and psychological state) and "setting" (the physical and social environment) are fundamental to understanding [[leary-psychedelic-experience-bardo-mapping]]. While these concepts were most explicitly articulated by Timothy Leary and others in the 1960s, they are implicitly woven throughout Shulgin's PIHKAL documentation.
 
 ## Set: Internal Factors
 
@@ -100,7 +100,7 @@ The period after a phenethylamine experience is as important as the experience i
 Derived from the principles implicit in PIHKAL's documentation:
 
 1. Know the compound: its dosage, duration, and expected effects
-2. Start with a low dose and work upward gradually ([[shulgin-dosage-guidelines]])
+2. Start with a [[ultra-low-dose-brassinosteroid-response-psilocybe-cubensis]] and work upward gradually ([[shulgin-dosage-guidelines]])
 3. Choose a safe, comfortable, familiar environment
 4. Have trusted, experienced companions present
 5. Prepare mentally — set a clear intention

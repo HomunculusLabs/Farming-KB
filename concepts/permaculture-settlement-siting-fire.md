@@ -1,20 +1,13 @@
 ---
-title: Permaculture Settlement Siting for Fire Safety
+title: permaculture permaculture settlement siting fire for Fire Safety
 created: 2026-04-28
-tags: [[permaculture, fire-control, settlement-siting, landscape-design, hazard-planning, zone-planning]
+tags: [permaculture, fire-control, settlement-siting, landscape-design, hazard-planning, zone-planning]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [bill-mollison-permaculture-design-course.md]
 type: concept
 ---
-
-# Permaculture Settlement Siting for Fire Safety
-
-## Overview
-
-Fire is one of the most common and destructive hazards in permaculture
-landscapes, and proper settlement siting is the first line of defense.
-[[permaculture-design]] Course, emphasizing that the real danger of fire is
+# Permaculture Settlement Siting for Fire Safety ## Overview Fire is one of the most common and destructive hazards in permaculture landscapes, and proper settlement siting is the first line of defense. [[permaculture-design]] Course, emphasizing that the real danger of fire is
 not flame but radiation. Four hundred feet before a fire, hair catches
 alight; at two hundred feet, bodies split and fat ignites. Effective
 settlement siting for fire safety requires understanding fire periodicity,
@@ -82,4 +75,6 @@ these receive accelerated winds during fires. Mollison witnessed a
 landscape architect placing a house with an acre of fire-promoting
 eucalyptus and pampas grass converging toward it. While the aesthetics
 were reasonable, the function could be fatal. See
-[[permaculture-settlement-design]], [[permaculture-household-economics]]
+[[permaculture-settlement-design]], permaculture-household-economics
+## See Also
+- [[permaculture]]

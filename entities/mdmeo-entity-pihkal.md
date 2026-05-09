@@ -1,5 +1,5 @@
 ---
-title: "MDMEO (N-METHOXY-MDA; 3,4-METHYLENEDIOXY-N-METHYOXYAMPHETAMINE) -- PIHKAL Entry #111"
+title: "MDMEO (N-METHOXY-MDA; 3,4-METHYLENEDIOXY-N-METHYOXYAMPHETAMINE) -- 2c-b-pihkal-entry-20 #111"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -55,7 +55,7 @@ formation of a solid phase, and the evolution of what appeared to be
 hydrogen cyanide. To this there were added about 4 mL 5% NaOH which
 brought the pH to the vicinity of 3 or 4. Another 1.0 g of sodium
 cyanoborohydride was added (no gas evolution this time) and stirring
-was continued at ambient temperature for 6 days. All was added to 500
+was continued at [[jadam-ambient-temperature-principle]] for 6 days. All was added to 500
 mL H2O, acidified with 10 mL HCl, and extraction with 3x100 mL CH2Cl2
 removed almost all the color. The aqueous phase was made basic with
 25% NaOH, and extracted with 4x100 mL CH2Cl2. Evaporation of the
@@ -76,7 +76,7 @@ group a sharp singlet at 4.06 ppm. Anal. (C11H16ClNO3) N.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

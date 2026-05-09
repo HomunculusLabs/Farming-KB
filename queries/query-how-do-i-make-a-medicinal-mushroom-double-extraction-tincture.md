@@ -1,5 +1,5 @@
 ---
-title: How Do I Make a Medicinal Mushroom Double Extraction Tincture?
+title: How Do I Make a gourmet-medicinal-mushroom-casing-layer-techniques Double Extraction Tincture?
 created: 2026-04-28
 tags: [herbalism, mycology, herbal-medicine, extraction, mushrooms]
 date: 2026-04-28
@@ -10,7 +10,7 @@ type: query
 
 # How Do I Make a Medicinal Mushroom Double Extraction Tincture?
 
-A double extraction tincture captures both the water-soluble and alcohol-soluble compounds from medicinal mushrooms. Many of the most valued mushrooms — including reishi, [[cancer-medicinal-mushrooms-turkey-tail-psk-and-psp]], and maitake — contain beneficial polysaccharides like [[query-how-to-grow-reishi-mushrooms]] for cultivating your own reishi
+A double extraction tincture captures both the water-soluble and alcohol-soluble compounds from [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. Many of the most valued mushrooms — including reishi, [[cancer-medicinal-mushrooms-turkey-tail-psk-and-psp]], and maitake — contain beneficial polysaccharides like [[query-how-to-grow-reishi-mushrooms]] for cultivating your own reishi
 - [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]] for general herbal extraction principles
 - [[query-how-to-make-fermented-plant-extracts-for-natural-fertilizer]] for plant-focused fermentation methods
 ## Background and Context
@@ -141,4 +141,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

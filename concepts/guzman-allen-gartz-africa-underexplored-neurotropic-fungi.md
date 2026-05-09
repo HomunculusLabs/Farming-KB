@@ -3,7 +3,7 @@
 
 ## The African Knowledge Gap
 
-In their comprehensive survey of the world-wide distribution of neurotropic
+In their comprehensive survey of the world-wide [[global-distribution-of-neurotropic-fungi]]
 fungi, Guzmán, Allen, and Gartz identify sub-Saharan Africa as one of the most
 significant gaps in our understanding of [[psilocybe-species-diversity-and-biogeographic-origin]] — the African continent remains
 largely unexplored from a mycological perspective.
@@ -27,14 +27,14 @@ its membership in the neurotropic fungi.
 
 Several *Panaeolus* and *Copelandia* species have been documented across
 various African regions. These dung-inhabiting species are often associated with
-livestock grazing areas and tropical/subtropical climates. Their presence across
+[[savory-livestock-grazing-planning]] areas and tropical/subtropical climates. Their presence across
 widely separated African regions suggests an ancient distribution rather than
 recent introduction.
 
 ### Gymnopilus Species
 
 Neurotropic *Gymnopilus* species have been found in parts of Africa, growing
-primarily on dead wood. The genus *Gymnopilus* contains several species known to
+primarily on [[fungal-dead-wood-diversity]]. The genus *Gymnopilus* contains several species known to
 contain psilocybin and/or bis-noryangonin, and the African representatives
 remain poorly characterized chemically and taxonomically.
 
@@ -80,11 +80,13 @@ Africa harbors ancient lineages, this could reshape our understanding of the
 biogeographic origins of the genus *Psilocybe* and related neurotropic genera.
 The continent's position as the ancestral home of humanity also raises
 fascinating questions about the co-evolutionary relationship between humans
-and psychoactive fungi.
+and [[cattle-dispersal-psychoactive-fungi-australia]].
 
 ## See Also
 
+- [[guzman-africa-neurotropic-fungi-underexplored-biodiversity]]
+
 - [[magic-mushrooms-australia-new-zealand]]
-- Psilocybe Natalensis   South African Neurotropic Species
+- Psilocybe Natalensis   [[kanna-sceletium-south-african-narcotic]] Neurotropic Species
 - Copelandia and Panaeolus   Tropical Dung Inhabiting Genera
-- Psilocybe Cubensis   The Global Cosmopolitan Species
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]   The Global Cosmopolitan Species

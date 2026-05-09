@@ -1,5 +1,5 @@
 ---
-title: "BIS-TOM (2,5-Bismethylthio-4-methyl-A) -- PIHKAL Entry #12"
+title: "BIS-TOM (2,5-Bismethylthio-4-methyl-A) -- 2c-b-pihkal-entry-20 #12"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -85,6 +85,8 @@ thermal rearrangement of the N,N-dimethylthioncarbamate. The impure
 ## Safety Notes
 
 ## See Also
+
+- [[bis-tom-pihkal-entry-12]]
 
 - [[tp-entity-pihkal]]
 

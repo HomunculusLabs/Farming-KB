@@ -9,7 +9,7 @@ sources: []
 
 # Extreme Heat Preparedness
 
-Extreme heat is the deadliest weather-related hazard in the United States, causing more fatalities than hurricanes, tornadoes, floods, and earthquakes combined. Homesteaders face unique heat risks due to outdoor physical labor, limited access to cooling infrastructure, and the need to care for livestock and crops.
+Extreme heat is the deadliest weather-related hazard in the [[dmt-containing-plants-united-states-halpern]], causing more fatalities than hurricanes, tornadoes, floods, and earthquakes combined. Homesteaders face unique heat risks due to outdoor physical labor, limited access to cooling infrastructure, and the need to care for livestock and crops.
 
 ## Understanding Heat Risk
 
@@ -83,7 +83,7 @@ Livestock suffer severely during heat waves because they cannot escape condition
 - Provide continuous access to shade — natural or constructed
 - Ensure unlimited access to cool, clean water — consumption doubles or triples
 - Check water sources multiple times daily
-- Add electrolytes to water if animals show heat stress
+- Add electrolytes to water if animals show [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]]
 - Avoid handling, transporting, or working livestock during peak heat
 - Ensure adequate ventilation in all animal shelters
 
@@ -122,7 +122,6 @@ Livestock suffer severely during heat waves because they cannot escape condition
 - animal husbandry — Routine livestock care and management
 - livestock health — Livestock health monitoring during stress events
 - [[water-management]] — Water supply and irrigation during drought and heat
-
 
 ## Related
 

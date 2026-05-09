@@ -1,5 +1,5 @@
 ---
-title: Microsoft Word
+title: [[microsoft-word-document-format]]
 created: 2026-04-28
 tags: [word-processing, office-suites, document-format, microsoft, history]
 date: 2026-04-28
@@ -41,10 +41,10 @@ Microsoft Word has profoundly influenced document creation practices and
 expectations. The concept of "What You See Is What You Get" (WYSIWYG) editing
 was popularized in part through Word's interface design. The widespread
 adoption of Word templates and the `.docx` format created an ecosystem of
-document interoperability challenges, particularly in legal and government
+[[document-interoperability-standards]] challenges, particularly in legal and government
 contexts where document fidelity is critical.
 
-The "Track Changes" feature has become a standard workflow for collaborative
+The "[[track-changes]]" feature has become a standard workflow for collaborative
 editing in publishing, academia, and business. However, it has also introduced
 security concerns, as metadata, revision history, and hidden comments can
 inadvertently be shared in documents. Tools for scrubbing document metadata
@@ -57,13 +57,13 @@ and LaTeX-based workflows. Google Docs' collaborative-first approach challenged
 Word's dominance in the 2010s, particularly in education and startups. The
 rise of markdown and plain-text-based workflows represents another
 challenge, particularly among developers and technical writers who prefer
-version-controlled, format-agnostic document formats.
+version-controlled, format-agnostic [[word-document-formats]].
 
 ## See Also
 
 - [[microsoft-word-document-format-history]]
 - [[word-ribbon-interface]]
-- [[docx]] — Office Open XML file format
+- [[docx]] — [[office-open-xml]] XML file format
 - word processing — History and evolution of word processors
 - microsoft office — The broader productivity suite
 - latex — Academic document preparation system
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

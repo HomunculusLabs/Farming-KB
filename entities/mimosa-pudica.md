@@ -1,5 +1,5 @@
 ---
-title: "Mimosa pudica"
+title: "tompkins-mimosa-pudica-sensitive-plant-experiments"
 created: 2026-04-28
 type: species
 tags:
@@ -72,15 +72,15 @@ Mimosa pudica is a creeping or sprawling annual or short-lived perennial herb in
 
 ## Distribution and Habitat
 
-- Native to tropical America, from southern Mexico through Central America to northern Argentina and the Caribbean
-- Naturalized pantropically: Africa, South and Southeast Asia, Pacific Islands, northern Australia
+- Native to tropical America, from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to northern Argentina and the Caribbean
+- Naturalized pantropically: Africa, South and [[psilocybe-southeast-asia-pacific]], Pacific Islands, northern Australia
 - Grows in disturbed sites, roadsides, pastures, cultivated fields, lawns, and open woodlands
 - Thrives in full sun to partial shade; tolerates a wide range of soils from sandy to clay
 - Invasive in some tropical regions (Australia, parts of Southeast Asia)
 
 ## Phytochemistry
 
-Key bioactive compounds identified in *Mimosa pudica*:
+Key [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] identified in *Mimosa pudica*:
 
 - **Alkaloids:** Mimosine (major alkaloid; found in leaves, seeds, and roots at 0.5–1.5% dry weight), N,N-dimethyltryptamine (DMT) in trace amounts in root bark
 - **Flavonoids:** Quercetin, kaempferol, myricetin derivatives; apigenin, luteolin
@@ -96,8 +96,8 @@ Key bioactive compounds identified in *Mimosa pudica*:
 
 ## Permaculture Applications
 
-- **Nitrogen fixation:** Fixes atmospheric nitrogen via Bradyrhizobium root nodules; improves soil fertility
-- **Living mulch:** Dense, low-growing habit suppresses weeds effectively
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** Fixes atmospheric nitrogen via Bradyrhizobium root nodules; improves soil fertility
+- **[[comparison-living-mulch-vs-cover-crops]]:** Dense, low-growing habit suppresses weeds effectively
 - **[[companion-planting]]:** Pest-repellent properties; some studies show reduced nematode populations
 - **Educational plant:** Touch response makes it ideal for botany education and engagement
 - **Bee forage:** Flowers attract pollinators when in bloom

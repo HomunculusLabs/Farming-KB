@@ -16,7 +16,7 @@ type: concept
 
 # Fungal Metabolites of PAHs and Their Mutagenicity
 
-Fungal metabolism of polycyclic aromatic hydrocarbons (PAHs) produces a
+[[singh-fungal-metabolism-pahs]] of [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) produces a
 diverse array of metabolites with varying degrees of toxicity and
 mutagenicity. Understanding the metabolic pathways and the toxicological
 properties of these metabolites is critical for evaluating the safety and
@@ -26,7 +26,7 @@ systems and metabolic capabilities.
 
 ### Benz[a]anthracene Metabolism
 
-Cunninghamella elegans metabolizes benz[a]anthracene to metabolites
+[[staycare-cunninghamella-elegans-in-bioremediation]] metabolizes benz[a]anthracene to metabolites
 including trans-3,4-dihydrodiol (4%), trans-8,9-dihydrodiol (90%),
 trans-10,11-dihydrodiol (6%), and tetraol derivatives. Benz[a]anthracene
 tetraol was identified as a metabolite, representing the first report of
@@ -78,7 +78,7 @@ Fungi produce various conjugated metabolites from PAHs:
   racemosum
 
 These conjugation reactions generally reduce the toxicity and
-bioavailability of PAH metabolites, facilitating their excretion or
+bioavailability of singh fungal pah metabolites mutagenicity, facilitating their excretion or
 further degradation.
 
 ## Mutagenicity of Fungal Metabolites
@@ -128,3 +128,5 @@ strategies.
 
 The formation of mutagenic intermediates during fungal PAH metabolism
 ## See Also
+
+- [[singh-ectomycorrhizal-pah-tnt-transformation]]

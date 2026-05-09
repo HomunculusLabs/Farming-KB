@@ -3,7 +3,7 @@
 
 ## Overview
 
-[[mushroom-bed-installation-spawning-duggar-1915]]. His work at Cornell University and elsewhere represented a departure from the purely empirical tradition of mushroom growing, introducing experimental methodology into what had been a craft passed down through generations of practical cultivators.
+mushroom-bed-installation-spawning-duggar-1915. His work at Cornell University and elsewhere represented a departure from the purely empirical tradition of [[duggar-mushroom-growing-history-and-methods]], introducing experimental methodology into what had been a craft passed down through generations of practical cultivators.
 
 ## Temperature Requirements
 
@@ -13,9 +13,9 @@ The optimum air temperature for mushroom growing under commercial conditions was
 
 ### Heat Tolerance in Pure Culture vs. Practice
 
-One of Duggar's most significant findings was the dramatic difference between the mushroom's thermal tolerance in pure culture and its apparent tolerance in commercial beds. In pure cultures, Agaricus campestris mycelium grew well up to 85°F (29°C) provided sufficient moisture was maintained. Sporophores were produced in Mason jar cultures at temperatures constantly at or above 70°F, and in pot cultures under practically sterile conditions at 60°F to 70°F.
+One of Duggar's most significant findings was the dramatic difference between the mushroom's thermal tolerance in pure culture and its apparent tolerance in commercial beds. In pure cultures, [[agaricus-campestris]] mycelium grew well up to 85°F (29°C) provided sufficient moisture was maintained. Sporophores were produced in Mason jar cultures at temperatures constantly at or above 70°F, and in pot cultures under practically sterile conditions at 60°F to 70°F.
 
-Yet in commercial beds, temperatures of 72°F sustained for just 24 hours proved fatal to pin heads and injurious to established spawn. This discrepancy was not due to direct thermal damage but to the stimulation of competing organisms—bacteria, fungi, and insects—that either crowded out or directly attacked the [[mushroom-quality-of-life-cancer]]. Sporophores expanded and elongated too rapidly at elevated temperatures, preventing the formation of large, heavy buttons that commanded the highest market prices. This effect was partially attributable to decreased atmospheric humidity at higher temperatures. Duggar proposed that refrigeration or complete compost fumigation might enable summer production, though he doubted large-scale compost sterilization was a practical possibility at the time. The vision of year-round mushroom production through [[mushroom-species-cultivation-methods]] beyond the common button mushroom. The environmental requirements of different Agaricus species varied considerably: A. campestris and A. fabaceus had different needs, as did A. arvensis and A. silvicola, and much experimental work was required before any definite rules could be laid down governing practices with these diverse forms.
+Yet in commercial beds, temperatures of 72°F sustained for just 24 hours proved fatal to pin heads and injurious to established spawn. This discrepancy was not due to direct thermal damage but to the stimulation of competing organisms—bacteria, fungi, and insects—that either crowded out or directly attacked the mushroom-quality-of-life-cancer. Sporophores expanded and elongated too rapidly at elevated temperatures, preventing the formation of large, heavy buttons that commanded the highest market prices. This effect was partially attributable to decreased atmospheric humidity at higher temperatures. Duggar proposed that refrigeration or complete compost fumigation might enable summer production, though he doubted large-scale compost sterilization was a practical possibility at the time. The vision of year-round mushroom production through [[mushroom-species-cultivation-methods]] beyond the common [[growing-gourmet-button-mushroom-agaricus-cultivation]]. The environmental requirements of different Agaricus species varied considerably: A. campestris and A. fabaceus had different needs, as did A. arvensis and A. silvicola, and much experimental work was required before any definite rules could be laid down governing practices with these diverse forms.
 
 ## Bed Type and Environmental Considerations
 
@@ -25,7 +25,7 @@ For the flat bed, Duggar recommended a depth of 8 to 10 inches after suitable co
 
 ## Practical Rules for Environmental Management
 
-Based on his extensive experimentation and field experience, Duggar distilled several practical rules that any cultivator could follow. First, never spawn a bed when the heat is rising or when warmer than 100°F; always spawn when the temperature is declining and under 90°F. Second, maintain the growing house at 54°F to 56°F for best results, extending the acceptable range to 50°F to 65°F if necessary. Third, keep atmospheric humidity between 60 and 75 percent, ensuring gradual surface evaporation without dripping or drying. Fourth, do not fear light, but be aware that sunlight brings heat that must be managed. Fifth, use fresh spawn rather than old, as vitality degrades over time regardless of storage conditions. These rules, grounded in experimental evidence rather than tradition, represented a modernizing influence on the ancient art of mushroom cultivation.
+Based on his extensive experimentation and field experience, Duggar distilled several practical rules that any cultivator could follow. First, never spawn a bed when the heat is rising or when warmer than 100°F; always spawn when the temperature is declining and under 90°F. Second, maintain the growing house at 54°F to 56°F for best results, extending the acceptable range to 50°F to 65°F if necessary. Third, keep atmospheric humidity between 60 and 75 percent, ensuring gradual surface evaporation without dripping or drying. Fourth, do not fear light, but be aware that sunlight brings heat that must be managed. Fifth, use fresh spawn rather than old, as vitality degrades over time regardless of [[spawn-storage-conditions]]. These rules, grounded in experimental evidence rather than tradition, represented a modernizing influence on the ancient art of [[mushroom-cultivation]].
 
 ## See Also
 
@@ -98,7 +98,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -108,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

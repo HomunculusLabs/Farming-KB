@@ -1,10 +1,10 @@
 ---
-title: Somalia Desert Greening Mission
+title: Somalia fukuoka-desert-greening-plant-irrigation Mission
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [regenerative, soil]
-sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources: []
 ---
 
 # Somalia Desert Greening Mission
@@ -13,7 +13,7 @@ updated: 2026-04-18
 
 Masanobu Fukuoka's forty-day journey to Africa, particularly his time
 in Somalia, represented the practical application of his vision for
-using [[fukuoka-forty-days-africa]]
+using Africa
 - [[fukuoka-desert-greening-projects]]
 - [[fukuoka-desert-greening-plant-irrigation]]
 - [[fukuoka-africa-natural-farming]]
@@ -96,4 +96,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

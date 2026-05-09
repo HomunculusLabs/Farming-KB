@@ -11,7 +11,7 @@ created: 2026-05-08
 ## Overview
 
 Endorhiza bacteria are microorganisms that have colonized the
-internal tissues of plant roots. Unlike rhizosphere bacteria
+internal tissues of plant roots. Unlike [[lowenfels-rhizosphere-bacteria-plant-interaction]]
 living in soil surrounding roots, endorhiza (endophytic) bacteria
 reside within root tissue itself, forming intimate associations
 with their host plant. In Cannabis spp., the endorhiza community
@@ -28,14 +28,14 @@ interior tissues, distinct from:
   have not penetrated tissue
 
 In the Cannabis microbiome study, endorhiza samples were
-collected by excising root tissue after surface sterilization
+collected by excising root tissue after [[challenge-organisms-nasa-microwave-surface-sterilization-testing]]
 (alcohol and sterile water rinses), ensuring only internally
 colonized bacteria were captured.
 
 ## Core Endorhiza Community
 
 Despite cultivar-specific differences, all Cannabis endorhiza
-shared a core bacterial community:
+shared a core [[core-endorhiza-bacterial-community-composition-cannabis]]:
 
 ### Pseudomonas
 Widely studied plant growth-promoting rhizobacteria (PGPR) known
@@ -75,7 +75,7 @@ specificity of community structure.
 Three cultivars (Burmese, Bookoo Kush, Sour Diesel) in similar
 soil showed highly significant endorhiza differences:
 - Weighted UniFrac: ADONIS R² = 0.59, p = 0.004
-- Unweighted UniFrac: ADONIS R² = 0.39, p = 0.003
+- [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]: ADONIS R² = 0.39, p = 0.003
 
 ### Experiment 2 Evidence
 
@@ -101,7 +101,7 @@ reside within root tissue.
 
 ### Disease Suppression
 Endophytic bacteria suppress plant diseases through antibiotic
-production, resource competition, and induced systemic resistance.
+production, resource competition, and [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance.
 
 ### Phytotoxicant Tolerance
 Assist host plants in tolerating environmental toxicants including
@@ -110,7 +110,7 @@ heavy metals and organic soil contaminants.
 ### Terroir Contributions
 Endophytes may contribute to localized 'flavor' or terroir, as
 demonstrated for wine grapes. In Cannabis, they could influence
-terpene profiles and cultivar-specific therapeutic characteristics.
+[[cannabis-terpene-profiles-sativa]] and cultivar-specific therapeutic characteristics.
 
 ## Colonization Process
 
@@ -139,9 +139,6 @@ tissue boundary.
 ## Cultivation Relevance
 
 Cultivar-specificity of Cannabis endorhiza communities suggests
-that different cultivars may benefit from different microbial
-inoculant formulations. Breeding for beneficial root microbial
-associations could improve plant fitness and yield.
 ## See Also
 
 - [[cannabis-rhizosphere-microbiome]]

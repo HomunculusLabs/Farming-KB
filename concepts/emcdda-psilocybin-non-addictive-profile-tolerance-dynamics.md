@@ -1,9 +1,9 @@
 ---
-title: Psilocybin Non-Addictive Pharmacological Profile and Tolerance Dynamics
+title: psilocybin Non-Addictive Pharmacological Profile and Tolerance Dynamics
 created: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "EMCDDA Thematic Papers - Hallucinogenic Mushrooms: An Emerging Trend Case Study (2006)"
+  - "EMCDDA Thematic Papers - emcdda-hallucinogenic-mushrooms-emerging-trend-europe: An emcdda-epod-project-emerging-trend-detection-methodology Case Study (2006)"
 type: concept
 tags: [psilocybin, addiction, tolerance, dependence, withdrawal, emcdda, pharmacology]
 ---
@@ -11,7 +11,7 @@ tags: [psilocybin, addiction, tolerance, dependence, withdrawal, emcdda, pharmac
 
 The EMCDDA's 2006 thematic paper provides a clear clinical statement
 that psychological and physical dependency does not occur with
-hallucinogenic mushrooms and that there are no withdrawal symptoms.
+[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] and that there are no withdrawal symptoms.
 This pharmacological profile distinguishes psilocybin from most other
 substances of abuse and has significant implications for both clinical
 management and [[allegro-canaanite-religion-and-the-mushroom]]
@@ -19,7 +19,7 @@ experience that limit its appeal as a regular drug of use. User
 accounts suggest that the experience is not viewed in a sufficiently
 favourable light to repeat it frequently. Unpredictable potency
 contributes to anxiety about dosing — since psilocybin content varies
-significantly [[emcdda-hallucinogenic-mushroom-polydrug-use-patterns]] even if they
+significantly emcdda-hallucinogenic-mushroom-polydrug-use-patterns even if they
 wanted to — the pharmacology itself prevents it.
 
 This self-limiting tolerance mechanism operates differently from the
@@ -32,14 +32,14 @@ than compelling increased consumption.
 
 ## Comparison with Controlled Substances
 
-The EMCDDA's positioning of hallucinogenic mushrooms within the broader
+The EMCDDA's positioning [[health-risks-of-hallucinogenic-mushrooms]] within the broader
 drug landscape reveals an interesting paradox. In nine EU countries,
 ever-in-lifetime use of hallucinogenic mushrooms among 15-16 year old
 school students was equal to or higher than lifetime use of ecstasy —
-a substance with demonstrated serotonergic neurotoxicity at high doses
+a substance with demonstrated [[mdma-serotonergic-neurotoxicity]] at high doses
 and a more problematic dependence profile. Yet mushrooms have
 consistently been classified alongside or above ecstasy in legal
-penalty schedules, despite their more favourable safety profile in
+penalty schedules, despite their more favourable [[cannabis-safety-profile-and-overdose-risk]] in
 terms of addiction potential, organ toxicity, and lethality.
 
 The report notes that the proportion of current users (defined as
@@ -52,13 +52,13 @@ the three substances.
 ## Implications for Drug Policy
 
 The EMCDDA's findings on the non-addictive profile of hallucinogenic
-mushrooms create tension with the legal responses documented in the
+mushrooms create tension with the [[emcdda-hallucinogenic-mushroom-legal-responses]] documented in the
 report. Six EU countries tightened their legislation between 2001 and
 2006, yet the pharmacological evidence suggests that the substance
 poses minimal dependence risk. The report highlights that the
 prohibition of mushrooms in the UK was followed by retailers switching
 to legal alternatives such as [[fly-agaric]]) and
-Purple Ohms capsules containing Hawaiian Baby Woodrose (Argyreia
+[[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]] capsules containing Hawaiian Baby Woodrose (Argyreia
 nervosa) — products that carry their own, potentially more serious,
 health risks. This substitution effect illustrates how prohibition of
 a relatively safe substance can paradoxically increase exposure to
@@ -81,4 +81,5 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[emcdda-psilocybin-non-addictive-profile-tolerance]]

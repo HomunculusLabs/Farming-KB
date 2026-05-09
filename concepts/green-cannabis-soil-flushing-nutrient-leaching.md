@@ -75,7 +75,7 @@ health. During recovery:
 
 - Any burnt or dead leaves should be clipped away.
 - Feeding should be reintroduced gradually at reduced strength.
-- The plant should be monitored closely for signs of nutrient deficiency
+- The plant should be monitored closely for signs of [[cannabis-grow-nutrient-deficiency-problem-solving]]
   since the soil has been largely stripped.
 - Keep the plant in optimal environmental conditions to minimize
   additional stress.
@@ -88,11 +88,11 @@ The best approach is to avoid situations that require emergency flushing:
   regularly to prevent drift into dangerous ranges.
 - Use quality [[nutrient-lockout]]
 
-Flushing is sometimes attempted as a remedy for nutrient lockout -- a
+Flushing is sometimes attempted as a remedy for [[cannabis-nutrient-lockout-and-ph]] -- a
 condition where the plant cannot access nutrients due to chemical
 reactions in the medium. Lockout can be caused by:
 
-- pH problems that prevent nutrient uptake.
+- pH problems that prevent [[plant-nutrient-uptake-mechanisms]].
 - Chemical reactions creating toxic substances that block roots.
 - Reactions that change the chemical properties of other nutrients.
 - Contaminants introduced into the growing solution.
@@ -121,5 +121,7 @@ involves repeatedly saturating the soil and monitoring the runoff until
 it runs clear. Plants that survive require approximately two weeks to
 
 ## See Also
+
+- [[green-cannabis-soil-mixes]]
 
 - [[cannabis-soil-and-nutrients]]

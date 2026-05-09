@@ -55,7 +55,7 @@ swelling of hydrated mucilage produced by fungal colonies.
 
 The three main mechanisms of mineral solubilization are acidolysis
 (proton-promoted dissolution), complexolysis (ligand-promoted dissolution),
-and redoxolysis (redox transformations). Acidolysis occurs when fungi
+and redoxolysis ([[fungal-metal-redox-transformations-detailed]]). Acidolysis occurs when fungi
 acidify their microenvironment through proton excretion, organic acid
 secretion, and carbonic acid formation from respiratory CO2. Complexolysis
 involves the excretion of metal-complexing metabolites including carboxylic
@@ -74,7 +74,7 @@ soil formation and carbon cycling.
 
 Microbial carbonate precipitation coupled with silicate weathering provides
 an important CO2 sink. Many near-surface limestones and calcic soil horizons
-are secondarily cemented with calcite (CaCO3) and whewellite (calcium oxalate
+are secondarily cemented with calcite (CaCO3) and whewellite ([[fungal-calcium-oxalate-crystals]]
 monohydrate). Fungal filaments mineralized with calcite have been documented
 in limestones and calcareous soils worldwide. Calcium oxalate can be degraded
 to calcium carbonate, acting to cement pre-existing limestones. During
@@ -99,8 +99,8 @@ mobilization and immobilization processes.
 Fungal mineral transformations have far-reaching ecological consequences.
 By solubilizing phosphate minerals, fungi make phosphorus available to
 plants. Through mycorrhizal associations, they are major agents in
-carbon, nitrogen, and phosphorus cycling. Metal transformations affect
-soil toxicity and nutrient availability. Precipitation of secondary minerals
+carbon, nitrogen, and [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]]. [[fungal-metal-transformations-biosorption]] affect
+soil toxicity and [[ph-and-nutrient-availability-garden-soils]]. Precipitation of secondary minerals
 contributes to soil aggregation and structure formation. Fungal weathering
 of basaltic outcrops in sub-polar areas appears to be chronologically
 the first weathering process, preceding cryogenic weathering. Alkaline
@@ -108,12 +108,14 @@ rocks are generally more susceptible to fungal attack than acidic rocks.
 
 ## See Also
 
+- [[fungal-biogeochemical-mineral-transformations]]
+
 - [[fungal-ecology-decomposition-cycles]]
 - [[mycelial-network-nutrient-transport-imaging-gadd]]
 
 ## Source
 
 - Gadd, G.M., Burford, E.P., Fomina, M. & Melville, K. (2006). Mineral
-  transformations and biogeochemical cycles: a geomycological perspective.
+  transformations and fungal mineral transformations biogeochemical cycles gadd: a geomycological perspective.
   In Gadd, G.M., Watkinson, S.C. & Dyer, P.S. (eds.), *Fungi in the
   Environment*, pp. 77-111. Cambridge University Press.

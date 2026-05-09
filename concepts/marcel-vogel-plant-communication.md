@@ -1,5 +1,5 @@
 ---
-title: "Marcel Vogel and Plant Communication"
+title: "[[tompkins-marcel-vogel-plant-human-communication]] and Plant Communication"
 created: 2026-04-28
 tags: [plant-communication, bioelectricity, liquid-crystals, psychic-energy, vogel]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: concept
 
 Marcel Vogel, an IBM research chemist in Los Gatos, California, demonstrated
 that plants can enter into recordable communication with human beings through
-the bioelectric field. Building on Cleve Backster's work, Vogel developed
+the bioelectric field. Building on [[tompkins-cleve-backster-primary-perception]]'s work, Vogel developed
 refined electrode techniques and showed that the quality of human-plant
 interaction depends on emotional bonding, positive mental attitude, and the
 cultivation of a sensitivity analogous to deep meditative states.

@@ -77,8 +77,8 @@ present.
 Berberine demonstrates antibacterial, antifungal, antiviral, anti-
 inflammatory, antidiabetic, and cardioprotective activities in preclinical
 studies. It activates AMPK signaling, improves insulin sensitivity, and
-reduces hepatic glucose output. Clinical trials support berberine's efficacy
-in type 2 diabetes, dyslipidemia, and metabolic syndrome.
+reduces hepatic glucose output. [[mushroom-cancer-clinical-trials-overview]] support berberine's efficacy
+in type 2 diabetes, dyslipidemia, and [[cannabis-metabolic-syndrome-research]].
 
 Palmatine contributes additional antimicrobial and anti-inflammatory effects.
 The bark extract as a whole shows synergistic activity exceeding individual
@@ -100,7 +100,7 @@ turnery.
 
 *P. amurense* serves multiple functions in designed ecosystems. Its deep
 taproot system stabilizes soil on slopes and accesses subsoil nutrients. As
-a member of Rutaceae, it contributes aromatic leaf litter that may repel
+a member of Rutaceae, it contributes aromatic [[dighton-fungal-decomposition-leaf-litter-dynamics]] that may repel
 certain insect pests.
 
 The tree provides shade, windbreak function, and wildlife habitat. Its

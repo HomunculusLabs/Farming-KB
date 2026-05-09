@@ -16,16 +16,16 @@ sources: []
 ---
 # Cannabis Training Techniques Comparison
 
-Plant training manipulates cannabis canopy structure to increase light exposure, improve airflow, and maximize yield per plant or per square foot. Techniques range from gentle, continuous bending to aggressive structural cuts that fundamentally alter plant architecture. Choosing the right technique — or combination of techniques — depends on grow space constraints, experience level, strain characteristics, and time available for vegetative growth. For vegetative stage management fundamentals, see [[cannabis-plant-anatomy]].
+Plant training manipulates cannabis canopy structure to increase light exposure, improve airflow, and maximize yield per plant or per [[comparison-biointensive-vs-square-foot-gardening]]. Techniques range from gentle, continuous bending to aggressive structural cuts that fundamentally alter plant architecture. Choosing the right technique — or combination of techniques — depends on grow space constraints, experience level, strain characteristics, and time available for [[cannabis-vegetative-growth-stage]]. For [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] management fundamentals, see [[cannabis-plant-anatomy]].
 
 ## Technique Comparison Table
 
 | Technique | Difficulty | Yield Impact | Veg Time Needed | Stress on Plant | Recovery Time | Best For | Equipment Needed |
 |-----------|-----------|-------------|----------------|-----------------|--------------|----------|-----------------|
 | **LST ([[fimming]]** | Low-Moderate | +10-25% | +1-2 weeks | Low-Moderate | 3-7 days | Similar to topping but less precise | Clean scissors |
-| **SCRoG (Screen of Green)** | Moderate | +20-50% | +2-4 weeks | Low-Moderate | Ongoing (daily management) | Indoor grows, horizontal light distribution | Screen/mesh, ties |
+| **SCRoG ([[cannabis-screen-of-green-scrog-guide]])** | Moderate | +20-50% | +2-4 weeks | Low-Moderate | Ongoing (daily management) | Indoor grows, horizontal light distribution | Screen/mesh, ties |
 | **Mainlining (Manifold)** | High | +25-60% | +4-8 weeks | High | 2-3 weeks per node level | Experienced growers, maximizing yield per plant | Scissors, patience |
-| **Super Cropping** | Moderate | +10-20% | +1 week | Moderate-High | 3-7 days | Taller plants, reducing height, strengthening stems | Fingers (technique-based) |
+| **[[cannabis-super-cropping-technique]]** | Moderate | +10-20% | +1 week | Moderate-High | 3-7 days | Taller plants, reducing height, strengthening stems | Fingers (technique-based) |
 | **Defoliation** | Low-Moderate | +5-15% | Minimal | Low | 1-3 days | Dense canopies, airflow issues | Scissors |
 
 ## Detailed Technique Breakdown

@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Assisted Therapy
+title: Psilocybin metzner-mdma-assisted-therapy-research
 created: 2026-04-28
 tags: [therapy, psilocybin, mental-health, psychiatry, clinical-research]
 date: 2026-04-28
@@ -15,7 +15,7 @@ daily medication, PAT typically uses one to three administrations of a high
 dose of psilocybin within a structured therapeutic framework. The approach
 combines the acute neuroplastic and psychoactive effects of psilocybin with
 psychotherapeutic preparation, guidance during the session, and integration
-afterward. Clinical trials have demonstrated efficacy for treatment-resistant
+afterward. [[mushroom-cancer-clinical-trials-overview]] have demonstrated efficacy for treatment-resistant
 depression, end-of-life anxiety, substance use disorders, and other
 conditions that respond poorly to existing treatments.
 ## Historical Context
@@ -25,9 +25,9 @@ therapeutic potential of LSD and psilocybin. Early researchers including
 Humphry Osmond, Abram Hoffer, and Stanislav Grof developed therapeutic
 protocols for alcoholism, anxiety, and existential distress. These programs
 were curtailed in the early 1970s when psychedelics were scheduled as
-controlled substances, effectively ending clinical research for nearly three
+controlled substances, effectively ending [[hofmann-lsd-clinical-research-early-studies]] for nearly three
 decades.
-Modern psilocybin research resumed in 1999 when [[psilocybe-cubensis]]) in a comfortable, controlled clinical environment.
+Modern [[early-paris-psilocybin-research-1960s]] resumed in 1999 when [[psilocybe-cubensis]]) in a comfortable, controlled clinical environment.
 The client reclines on a couch or bed, wears an eye mask, and listens to a
 carefully curated music playlist. One or two therapists are present throughout
 the session, which lasts approximately six to eight hours. Therapists provide
@@ -44,9 +44,9 @@ The therapeutic mechanisms of psilocybin are not fully understood but involve
 multiple interacting neurobiological and psychological processes. The 5-HT2A
 receptor agonism produced by psilocin increases cortical entropy, disrupting
 rigid patterns of thinking and allowing novel perspectives on entrenched
-problems. Functional brain imaging shows decreased connectivity within the
+problems. Functional [[neurochemical-probes-brain-imaging-pihkal]] shows decreased connectivity within the
 default mode network (DMN) and increased global connectivity, correlated with
-the subjective experience of ego dissolution and increased cognitive
+the subjective experience of [[psilocybin-ego-dissolution-mechanisms]] and increased cognitive
 flexibility.
 Psilocybin also stimulates neuroplasticity through increased expression of
 brain-derived neurotrophic factor (BDNF) and activation of mammalian target
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

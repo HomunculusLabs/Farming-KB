@@ -15,7 +15,7 @@ methods, each fundamentally different in how they make food shelf-stable.
 Dehydration removes moisture to levels where microorganisms cannot grow, while
 lacto-fermentation encourages beneficial bacteria to produce lactic acid,
 creating an acidic environment hostile to pathogens. Choosing between them
-depends on the food type, desired nutritional outcome, storage conditions, and
+depends on the food type, desired nutritional outcome, [[vegetable-storage-conditions-by-temperature-and-humidity]], and
 flavor goals.
 
 ## Dehydration
@@ -23,7 +23,7 @@ flavor goals.
 [[lacto-fermentation-and-food-preservation-methods]]
 
 Lacto-fermentation preserves food by creating an acidic environment through
-the action of lactic acid bacteria (LAB) naturally present on vegetable
+the action of lactic [[lactic-acid-bacteria-knf]] (LAB) naturally present on vegetable
 surfaces. As these bacteria consume sugars, they produce lactic acid, which
 lowers the pH below 4.6 and prevents the growth of harmful organisms
 including Clostridium botulinum. A salt brine of 2-3% by weight selects for
@@ -38,17 +38,17 @@ Fermented foods are ready to eat in days to weeks and improve with extended
 aging.
 
 The standout advantage of lacto-fermentation is its probiotic content.
-Fermented vegetables are rich in beneficial Lactobacillus strains that support
+[[comparison-fermented-vegetables-vs-canning]] are rich in beneficial Lactobacillus strains that support
 gut microbiome diversity. Fermentation also increases nutrient
 bioavailability, enhances B vitamin content, and can produce more vitamin C
 than the raw vegetable contained. Unlike heat-based preservation methods,
-fermentation preserves and often enhances nutritional quality.
+fermentation preserves and often enhances [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
 
 ## Key Differences
 
 | Aspect | Dehydration | Lacto-Fermentation |
 |--------|-------------|-------------------|
-| Mechanism | Moisture removal | Acid production by LAB |
+| Mechanism | Moisture removal | [[staycare-fungal-organic-acid-production-metal-leaching]] by LAB |
 | Best Foods | Fruits, herbs, meats, vegetables | Vegetables, dairy, beverages |
 | Equipment | Dehydrator, solar dryer, oven | Glass jars, weights, salt |
 | Temperature | 95-160 F (controlled heat) | 65-72 F (ambient/cool) |
@@ -75,7 +75,7 @@ and failures are usually obvious (mold growth or insufficient drying).
 Lacto-fermentation is the superior choice when gut health and nutritional
 enhancement are priorities. It is ideal for preserving seasonal vegetable
 gluts: cabbage becomes sauerkraut or kimchi, cucumbers become crispy pickles,
-and root vegetables develop complex tangy flavors. Fermentation requires no
+and [[growing-root-vegetables-guide]] develop complex tangy flavors. Fermentation requires no
 energy input beyond a cool, dark space, making it truly sustainable. The
 probiotic benefit is unique among preservation methods and increasingly
 supported by research on the gut microbiome. Fermentation also creates

@@ -1,13 +1,6 @@
 ---
-title: Psilocybin Mushroom Identification
-created: 2026-04-28
-tags: [identification, mushrooms, mycology, taxonomy, field-guide]
-date: 2026-04-28
-updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-psilocybin-mushroom-image-guide.md]
-type: concept
----
 
+---
 # Psilocybin Mushroom Identification
 
 Accurate identification of psilocybin-containing mushrooms is essential for both
@@ -16,7 +9,7 @@ exposure to toxic lookalikes (some potentially lethal) to legal consequences.
 Psilocybin mushrooms belong to multiple genera and share morphological features
 with many non-psychoactive and poisonous species. No single characteristic
 reliably identifies a psilocybin mushroom; identification requires considering
-multiple morphological, ecological, and microscopic features together. Beyond the well-known Psilocybe genus, [[guzman-allen-gartz-conocybe-gerronema-neurotropic-species]] covers lesser-known neurotropic fungi that complicate identification further.
+multiple morphological, ecological, and microscopic features together. Beyond the well-known Psilocybe genus, guzman-allen-gartz-conocybe-gerronema-neurotropic-species covers lesser-known neurotropic fungi that complicate identification further.
 
 ## Key Morphological Features
 
@@ -24,13 +17,13 @@ The cap (pileus) of psilocybin mushrooms varies considerably by species.
 Psilocybe cubensis caps are convex when young, becoming broadly convex to
 plane with age, ranging from one to eight centimeters in diameter. Cap color
 is typically golden-brown to light tan when moist (hygrophanous), fading to
-nearly white or pale yellow as the cap dries. [[decomposition]] processes described in fungal ecology. Those
+nearly white or pale yellow as the cap dries. decomposition processes described in fungal ecology. Those
 growing on dung (Psilocybe cubensis, Panaeolus cyanescens) are unlikely to be
 confused with woodland species. Those growing on wood (Psilocybe cyanescens,
 Gymnopilus species) occupy a different niche than grassland species. Season,
-altitude, latitude, and associated vegetation all provide clues. The [[psilocybin-mushrooms-overview]], [[psychedelic-harm-reduction]], [[stamets-psi-galerina-deadly-look-alikes-safety]] — detailed guide to distinguishing Galerina marginata and other deadly lookalikes
-- [[amanita-phalloides-death-cap]] — the amatoxin-containing species whose toxins are shared by the deadliest psilocybin lookalikes
-- [[stamets-psi-galerina-deadly-look-alikes-safety]] | [[amanita-phalloides-death-cap]] | [[baeocystin]]
+altitude, latitude, and associated vegetation all provide clues. The psilocybin-mushrooms-overview, psychedelic-harm-reduction, stamets-psi-galerina-deadly-look-alikes-safety — detailed guide to distinguishing Galerina marginata and other deadly lookalikes
+- amanita-phalloides-death-cap — the amatoxin-containing species whose toxins are shared by the deadliest psilocybin lookalikes
+- stamets-psi-galerina-deadly-look-alikes-safety | amanita-phalloides-death-cap | baeocystin
 ## Practical Applications
 
 Psilocybin Mushroom Identification has a range of practical applications that make it relevant to
@@ -109,3 +102,41 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## Merged: Mushroom Identification Resources
+
+the-mysterious-world-of-mushrooms-molds-and-mycologists.md
+  - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
+---
+
+# Mushroom Identification Resources
+
+A guide to safely identifying [[edible-wild-mushrooms-by-region]] using morphological features, microscopy, DNA barcoding, and regional field guides. See also mushroom-identification for basic ID features and [[mushroom-species-guide]] for commonly cultivated species.
+
+## Key Morphological Features
+
+### Cap (Pileus)
+Size, shape (convex, flat, umbonate, funnel), surface texture (smooth, scaly, viscid, dry), color changes with age, margin characteristics. The cap alone is never sufficient for identification.
+
+### Gills/Pores/Tubes
+Gill attachment (free, adnate, decurrent, sinuate), spacing (close, distant), color, bruising reaction. Some species have pores (boletes) or teeth (hydnoids) instead of gills. Spore-producing surface is critical for genus-level identification.
+
+### Stem (Stipe)
+Presence/absence of ring (annulus), volva (cup at base), surface texture, bruising color. The base is particularly important — Amanita species have a sac-like volva that may be underground.
+
+### Veil and Ring
+Partial veil remnants (annulus on stem), universal veil remnants (volva at base, warts on cap). These features distinguish many dangerous species.
+
+### Spore Print
+Made by placing the cap gills-down on paper for 4-24 hours. Color categories: white, cream, pink, brown, rusty-brown, purple-brown, black. Essential first step in narrowing identification. Psilocybe species typically have dark purple-brown to black spore prints.
+
+### Flesh and Bruising
+Color of cut flesh, bruising reactions (blue in psilocybin-containing species, red in certain boletes). Odor and taste (when safe to test) provide additional characters.
+## See Also
+
+[[hallucinogenic-mushrooms-european-trends]]
+- mushroom-identification — Basic ID features and poisonous genera
+- [[mushroom-species-guide]] — Cultivated species profiles
+- [[edible-wild-mushrooms-by-region]] — Seasonal foraging calendar
+- [[amanita-muscaria-guide]] — Amanita identification and preparation
+- [[psilocybin-mushroom-chemistry]] — Distribution of psychoactive species
+- [[mushroom-folklore-and-culture]] — [[weil-cultural-attitudes-toward-altered-states]] toward fungi

@@ -1,5 +1,5 @@
 ---
-title: Serpula lacrymans
+title: fungal-serpula-lacrymans-dry-rot-buildings
 created: 2026-04-28
 type: species
 tags:
@@ -21,7 +21,7 @@ sources:
 *Serpula lacrymans* is a basidiomycete fungus notorious as the causative agent of dry rot in buildings. Commonly called the dry rot fungus, it is one of the most destructive fungi environment [[mycelium]] is the primary diagnostic feature encountered in building inspections. It forms:
 
 - **White, cottony sheets** spreading over masonry, timber, and plaster
-- **Strands (rhizomorphs)**: Thick, fleshy, white to grayish cords that conduct water and nutrients over considerable distances (meters). These are the primary mechanism for moisture transport through otherwise dry building materials
+- **Strands (rhizomorphs)**: Thick, fleshy, white to grayish cords that conduct water and nutrients over considerable distances (meters). These are the primary mechanism for moisture transport through otherwise dry [[natural-building-materials-guide]]
 - **Fruiting bodies (sporophores)**: Plate-like or bracket-shaped, rust-colored to ochre, with wrinkled pore surfaces. Produce massive basidiospore loads that give affected rooms a characteristic reddish-brown dust
 
 ### Decay Characteristics
@@ -34,18 +34,18 @@ Causes **brown rot**, characterized by:
 
 ## Brown Rot Mechanism
 
-*S. lacrymans* employs a Fenton chemistry-based decay system rather than the extensive extracellular enzyme suites used fungal degradation pcbs. The mechanism involves:
+*S. lacrymans* employs a Fenton chemistry-based decay system rather than the extensive [[dighton-fungal-extracellular-enzyme-systems-decomposition]] suites used [[singh-fungal-degradation-endocrine-disrupting-compounds]] pcbs. The mechanism involves:
 
 1. Secretion of low-molecular-weight iron-reducing compounds (e.g., oxalic acid, 2,5-dimethoxyhydroquinone)
 2. Reduction of Fe³⁺ to Fe²⁺
 3. Generation of hydroxyl radicals (•OH) via and biochemistry: Fe²⁺ + H₂O₂ → Fe³⁺ + •OH + OH⁻
 4. Hydroxyl radicals non-enzymatically cleave cellulose chains and hemicellulose
 
-This extracellular radical-based system is highly efficient at depolymerizing crystalline cellulose and allows the fungus to reach deep into wood alpha glucan fungal without requiring direct contact.
+This extracellular radical-based system is highly efficient at depolymerizing crystalline cellulose and allows the fungus to reach deep into wood alpha [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] without requiring direct contact.
 
 ## Ecological Niche
 
-Interestingly, *S. lacrymans* is rarely found in natural forest environments. It is thought to have evolved from forest-inhabiting ancestors (possibly *Serpula himantioides*) and adapted to the built environment. Its natural niche may be in specific microhabitats such as high-altitude conifer forests in mountainous regions of Central Asia (the Himalayas), where its closest wild relatives are found.
+Interestingly, *S. lacrymans* is rarely found in natural forest environments. It is thought to have evolved from forest-inhabiting ancestors (possibly *Serpula himantioides*) and adapted to the [[artillery-fungus-and-built-environment-fungi]]. Its natural niche may be in specific microhabitats such as high-altitude conifer forests in mountainous regions of Central Asia (the Himalayas), where its closest wild relatives are found.
 
 ## Building Management
 
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

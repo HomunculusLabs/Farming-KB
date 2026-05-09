@@ -2,7 +2,7 @@
 title: Cannabis for Multiple Sclerosis Spasticity
 created: 2026-04-26
 updated: 2026-04-24
-sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
+sources: "Uwe Blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
 wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology cannabis-chronic-pain-management blesching-cannabis-neurodegenerative-diseases"
 type: concept
 tags: [cannabis]
@@ -54,7 +54,7 @@ Even the U.S. federal government issued itself a patent on the neuroprotective p
 
 ### Adhesion Molecule Inhibition
 
-One of the latest animal studies on the cannabinoid receptor systems alludes to the involvement of cannabinoids in the inhibition of brain adhesion molecules, which in turn may be responsible for some therapeutic effects on MS. If clinical trials can confirm these results, scientists may be able to partly understand how to slow or even reverse the progression of MS.
+One of the latest animal studies on the [[cannabis-cannabinoid-receptor-pharmacology]] systems alludes to the involvement of cannabinoids in the inhibition of brain adhesion molecules, which in turn may be responsible for some therapeutic effects on MS. If [[mushroom-cancer-clinical-trials-overview]] can confirm these results, scientists may be able to partly understand how to slow or even reverse the progression of MS.
 
 ### Overall Assessment
 
@@ -92,9 +92,9 @@ In some trials, THC:CBD spray significantly reduced neuropathic pain, spasticity
 
 ## Safety and Dosing
 
-Most clinical studies report adverse effects of cannabis use in addition to benefits dependent on dose and form. Adverse effects include reduced balance and posture, nausea, and dizziness; and at high dosages, negative psychological symptoms such as anxiety. These studies indicated that when used within the proper subjective therapeutic dose, cannabinoids' potential adverse effects are usually well tolerated and negligible, especially when compared to the beneficial effects.
+Most clinical studies report [[blesching-cannabis-safety-adverse-effects-evidence]] of cannabis use in addition to benefits dependent on dose and form. Adverse effects include reduced balance and posture, nausea, and dizziness; and at high dosages, negative psychological symptoms such as anxiety. These studies indicated that when used within the proper [[cannabis-subjective-therapeutic-window-dosing]] dose, cannabinoids' potential adverse effects are usually well tolerated and negligible, especially when compared to the beneficial effects.
 
-To determine the best possible therapeutic window, seek advice from peers with MS who have used cannabis themselves, and consult a licensed health care professional familiar with cannabinoids.
+To determine the best possible [[blesching-cannabis-therapeutic-window-dosing]], seek advice from peers with MS who have used cannabis themselves, and consult a licensed health care professional familiar with cannabinoids.
 
 ## Strain-Specific Considerations
 

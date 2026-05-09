@@ -25,15 +25,15 @@ sources:
 
 ## Overview
 
-Cap Junky is a potent indica-dominant hybrid cannabis strain created by crossing
+Cap Junky is a potent indica-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] created by crossing
 **Capulator's MAC (Miracle Alien Cookies)** with **Alien Cookies BX1**. Bred by
 Seed Junky Genetics in collaboration with Compound Genetics, it was released in
 the early 2020s and rapidly became one of the most sought-after exotic strains
-in the North American market.
+in the [[growing-gourmet-north-american-reishi-species]] market.
 
 The strain is renowned for its staggering potency — consistently testing between
 30–36% THC — combined with an extraordinarily pungent, fuel-forward aroma profile
-that has become the benchmark for the "gas" category in modern cannabis breeding.
+that has become the benchmark for the "gas" category in modern [[oner-cannabis-breeding-fundamentals]].
 
 ## Lineage
 
@@ -104,14 +104,14 @@ approach with caution due to the extreme potency.
 
 Cap Junky is considered a moderate-to-difficult strain to cultivate, requiring
 experienced growers to achieve optimal results. It responds well to both indoor
-and outdoor environments but demands careful nutrient management and climate
+and outdoor environments but demands careful [[green-cannabis-grow-bible-nutrient-management-ppm]] and climate
 control to express its full terpene potential.
 
 - **Flowering time:** 8–10 weeks indoors
 - **Indoor yield:** 350–450 g/m²
 - **Outdoor yield:** 400–550 g/plant
 - **Preferred climate:** Mediterranean or warm temperate; 65–80°F (18–27°C)
-- **Resistance:** Moderate resistance to powdery mildew; susceptible to botrytis
+- **Resistance:** Moderate resistance to [[cervantes-powdery-mildew-prevention-treatment]]; susceptible to botrytis
   in high-humidity environments
 - **Training:** Responds well to LST, topping, and ScrOG methods
 

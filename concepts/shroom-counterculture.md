@@ -1,5 +1,5 @@
 ---
-title: "Magic Mushrooms in 1960s Counterculture"
+title: "guzman-magic-mushrooms-african-species in 1960s Counterculture"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -31,7 +31,7 @@ of that movement, including [[paul-stamets]] discovered that [[andrew-weil]], Sc
 
 ## Source
 
-Letcher, Andy. Shroom: A Cultural History of the Magic Mushroom.
+Letcher, Andy. Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the Magic Mushroom.
 HarperCollins, 2006. Lines 8760-10000, 4610-4700.
 ## Practical Applications
 
@@ -110,4 +110,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

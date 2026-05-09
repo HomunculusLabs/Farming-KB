@@ -17,7 +17,7 @@ type: concept
 # JADAM on Soil Compaction from Heavy Machinery
 
 Soil compaction is the primary cause of farming difficulty worldwide. According
-to JADAM organic farming, continued use of heavy machinery creates a hardened
+to JADAM [[coleman-deep-organic-farming-philosophy]], continued use of heavy machinery creates a hardened
 layer (plow pan) at approximately 15 centimeters (6 inches) below the soil
 surface that traps agricultural chemicals, prevents root penetration, and
 destroys soil biology. This page covers the causes, consequences, and
@@ -85,7 +85,7 @@ accumulated chemical load that cannot cycle through the soil profile.
 ### Disease and Low Yield
 
 Farming becomes progressively more difficult. Plants suffer from increased
-soil-borne diseases, reduced drought tolerance, and poor nutrient uptake. The
+soil-borne diseases, reduced [[dighton-fungal-drought-tolerance-plant-water-relations]], and poor [[plant-nutrient-uptake-mechanisms]]. The
 fundamental problem is not pest pressure or variety selection but the
 inability of roots to function in compacted, contaminated soil.
 
@@ -105,7 +105,7 @@ JADAM indigenous microorganism solution (JMS) is probably the best means for
 solving soil compaction. Applied over a prolonged period, as microbial
 population and diversity increase, chemicals trapped in the compacted layer
 begin to dissolve and the layer gradually disappears. This leads to faster
-decomposition of organic matter and reduced need for chemical fertilizer.
+decomposition of [[hamilton-composting-and-organic-matter-management]] and reduced need for chemical fertilizer.
 
 JADAM recommends applying microorganisms regularly, three to four times per
 month throughout the year, by mixing them into irrigation water. When soil
@@ -118,7 +118,7 @@ compaction through their powerful root activity.
 
 ### Switch from Chemicals to Natural Inputs
 
-Replace chemical fertilizers with JADAM liquid fertilizers (JLF). A
+Replace [[cervantes-chemical-fertilizers-guide]] with JADAM [[solomon-liquid-fertilizers-and-foliar-feeding]] (JLF). A
 contaminated soil with low microbial activity does not respond to fertilizer,
 creating a cycle of increasing chemical application. Breaking this cycle
 requires transitioning to biological inputs.

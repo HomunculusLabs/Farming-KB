@@ -29,7 +29,7 @@ Several subspecies are recognized, reflecting the species' broad geographic dist
 
 ## Taxonomy and Morphology
 
-**Pinus nigra** J.F.Arnold was described in 1785. The species belongs to subgenus Pinus, section Pinus (the "hard pines"), alongside other Eurasian and North American two-needle pines.
+**Pinus nigra** J.F.Arnold was described in 1785. The species belongs to subgenus Pinus, section Pinus (the "hard pines"), alongside other Eurasian and [[growing-gourmet-north-american-reishi-species]] two-needle pines.
 
 Five major subspecies are generally recognized by modern taxonomists. *P. nigra* subsp. *nigra* (Austrian pine) occupies central and southeast Europe. Subsp. *salzmannii* ranges from the Pyrenees to North Africa.
 
@@ -49,7 +49,7 @@ European black pine occupies a broad but disjunct native range across southern E
 
 The species typically grows at elevations of 200–1,600 meters, reaching its highest altitudes in the southern portions of its range. In the Mediterranean, it forms montane forests above the sclerophyllous oak zone.
 
-Preferred soils include limestone, dolomite, and other calcareous substrates, though the species also colonizes siliceous and volcanic soils. Its drought tolerance allows establishment on thin, rocky slopes where few other tree species compete.
+Preferred soils include limestone, dolomite, and other calcareous substrates, though the species also colonizes siliceous and volcanic soils. Its [[dighton-fungal-drought-tolerance-plant-water-relations]] allows establishment on thin, rocky slopes where few other tree species compete.
 
 Native habitats include mixed coniferous forests with oaks, firs, and other pines. In some regions, it forms pure stands on exposed ridges and south-facing slopes.
 
@@ -59,7 +59,7 @@ Climate requirements include warm, dry summers and cold winters with moderate pr
 
 European black pine is a moderately shade-intolerant, pioneer to mid-successional species. It colonizes open sites rapidly after disturbance, including fire, logging, and grazing abandonment.
 
-The species is ectomycorrhizal, forming associations with numerous fungal genera including Suillus, Lactarius, and Amanita. These mycorrhizal networks enhance nutrient uptake, particularly on nutrient-poor calcareous soils.
+The species is ectomycorrhizal, forming associations with numerous fungal genera including Suillus, Lactarius, and Amanita. These [[dighton-mycorrhizal-networks-carbon-transfer]] enhance [[plant-nutrient-uptake-mechanisms]], particularly on nutrient-poor calcareous soils.
 
 Wildfire plays a significant ecological role in some portions of its range. Thick bark provides moderate fire resistance in mature trees, and serotinous cones in some subspecies ensure post-fire regeneration from aerial seed banks.
 
@@ -67,7 +67,7 @@ Silvicultural systems for European black pine vary by region and management obje
 
 Rotation lengths for timber production range from 80 to 120 years in managed stands. Thinning regimes typically begin at 15–20 years to reduce competition and promote straight stem development.
 
-Insect pests include the pine processionary moth (Thaumetopoea pityocampa) and the pine weevil (Hylobius abietis). The fungal pathogen Sphaeropsis sapinea causes shoot blight and canker, particularly on stressed trees.
+Insect pests include the pine processionary moth (Thaumetopoea pityocampa) and the pine weevil (Hylobius abietis). The [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] Sphaeropsis sapinea causes shoot blight and canker, particularly on stressed trees.
 
 ### Wildlife Value
 
@@ -95,7 +95,7 @@ The timber is used for construction lumber, railway sleepers, pit props, and pul
 
 Resin tapping has been practiced in some parts of the Mediterranean, yielding oleoresin for turpentine and rosin production. This practice has declined with the availability of synthetic alternatives.
 
-The species also provides ecosystem services including watershed protection, soil stabilization on erosion-prone slopes, and windbreak shelter for agriculture. Its drought tolerance makes it valuable for reforestation in degraded Mediterranean landscapes.
+The species also provides [[biodiversity-of-fungi-ecosystem-services-agriculture]] including watershed protection, soil stabilization on erosion-prone slopes, and windbreak shelter for agriculture. Its drought tolerance makes it valuable for reforestation in degraded Mediterranean landscapes.
 
 Black pine plantations have been established across southern Africa, Australia, and New Zealand. In some of these regions, the species has naturalized and is considered a mild invasive threat to native vegetation.
 

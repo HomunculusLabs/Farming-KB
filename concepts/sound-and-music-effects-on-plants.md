@@ -1,5 +1,5 @@
 ---
-title: "Sound and Music Effects on Plants"
+title: "Sound and sound and music effects on plants on Plants"
 created: 2026-04-28
 tags: [sound, music, plant-growth, vibration, frequency, raga]
 date: 2026-04-25
@@ -21,7 +21,7 @@ chromosome count.
 ## Overview
 
 The investigation of sound's effect on plants dates back to Charles
-Darwin, who played his bassoon to a Mimosa pudica to stimulate its
+Darwin, who played his bassoon to a [[tompkins-mimosa-pudica-sensitive-plant-experiments]] to stimulate its
 leaflets into movement. The experiment failed, but the German plant
 physiologist Wilhelm Pfeffer also tried unsuccessfully. The breakthrough
 came in 1950 when Professor Julian Huxley, visiting Dr. T.C. Singh at
@@ -52,7 +52,7 @@ palisade cells up to 50 percent longer and broader than controls.
 - Rhythmic beat transmitted through the earth, as in dance, can
   accelerate plant growth and flowering
 - Sound energy may increase molecular activity in plants, raising soil
-  temperature and enhancing nutrient uptake
+  temperature and enhancing [[plant-nutrient-uptake-mechanisms]]
 
 ## Indian Classical Music and Plant Growth
 

@@ -1,5 +1,5 @@
 ---
-title: Stachybotrys chartarum and Indoor Mold Toxicity
+title: Stachybotrys chartarum and bloomfield-fungal-allergens-indoor-mold-respiratory-health-lycoperdonosis Toxicity
 created: 2026-04-28
 tags:
   - mycology
@@ -63,7 +63,7 @@ more common indoor molds.
 Part of the contemporary problem lies in the construction of
 well-insulated, energy-efficient homes. Drafty older houses, despite
 their thermal inefficiency, can be effective at protecting occupants
-from molds because air circulation allows water vapor to escape. Modern
+from molds because [[stamets-growing-room-air-circulation-co2-management]] allows water vapor to escape. Modern
 polymer-wrapped houses with hermetically sealed windows create living
 spaces with very stale air. The cavities between wall materials can
 become extremely humid when there is no opportunity for water vapor to
@@ -101,7 +101,7 @@ coughing, breathing difficulties, and a burning sensation in the lungs.
 Contact with eyes causes tearing and blurred vision. Ingestion results
 in nausea, repeated vomiting, and bloody diarrhea.
 
-A few milligrams of the most potent trichothecene mycotoxins,
+A few milligrams of the most potent [[bloomfield-trichothecene-mycotoxins-biological-warfare-yellow-rain]],
 including T-2 toxin and diacetoxyscirpenol, are lethal. At lower doses,
 patients become anemic and platelets become scarce within days, with
 plunging white blood cell counts indicating immune system collapse.

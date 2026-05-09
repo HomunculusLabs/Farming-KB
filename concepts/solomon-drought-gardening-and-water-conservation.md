@@ -1,5 +1,5 @@
 ---
-title: "Drought Gardening and Water Conservation"
+title: "comparison-drought-gardening-vs-rainwater-harvesting and Water Conservation"
 created: 2026-04-28
 tags: [drought, water-conservation, dry-farming, moisture, climate]
 date: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 
 # Drought Gardening and Water Conservation
 
-Steve Solomon draws heavily on John Widstoe's 1911 book "Dry Farming" to
+Steve Solomon draws heavily on John Widstoe's 1911 book "[[comparison-dry-farming-vs-xeriscaping]]" to
 redefine drought for vegetable gardeners. Widstoe argued that drought is
 not simply a lack of rainfall but rather a condition under which crops
 fail to mature because of an insufficient supply of water. Often, the
@@ -44,7 +44,7 @@ Crop scientists of Widstoe's era noticed that it took twice as much
 water to make a given weight of dry plant material on soils that were
 infertile as it did on soil that was highly fertile. William Albrecht
 explained that much of what appears to be drought damage is actually
-nutrient deficiency induced by dry surface soil when plant nutrients
+[[cannabis-grow-nutrient-deficiency-problem-solving]] induced by dry surface soil when plant nutrients
 are located in the plowed surface layer.
 
 ## Strategies for Drought Years
@@ -70,7 +70,7 @@ water, because it dramatically increases water-use efficiency.
 
 ## Fertigation for Water Efficiency
 
-Fertigation is the practice of delivering dilute liquid fertilizer
+Fertigation is the practice of delivering dilute [[jadam-liquid-fertilizer-nutritional-perspective]]
 directly to individual plants through a bucket with a small drain hole.
 In Solomon's dry-farming trials in Oregon, a fertigated winter squash
 vine yielded 30 pounds (13 kilograms) of squash using only 20 gallons
@@ -101,11 +101,11 @@ erosion while maintaining surface openness for water infiltration.
 
 ## Choosing Drought-Resistant Crops and Varieties
 
-Some vegetable species are inherently more drought tolerant than
+Some vegetable species are inherently more [[permplant-carob-drought-tolerant-food-tree]] than
 others. Climbing bean varieties, for example, have much larger root
 systems than bush varieties and consequently are far less drought
 tolerant in the reverse sense -- actually, climbers with their deeper
-roots access more subsoil moisture and are more resilient. Root crops
+roots access more subsoil moisture and are more resilient. [[permaculture-plants-root-crops-and-tubers]]
 like carrots and parsnips can penetrate deep subsoil in search of
 moisture and are capable of surviving drought and coming out the other
 side with a usable harvest.
@@ -129,6 +129,10 @@ extensive spacing continue to discover large amounts of soil water held
 in storage as their ever-expanding root systems explore new territory.
 
 ## Related
+
+- [[solomon-winter-gardening-and-season-planning]]
+- [[solomon-fertigation-and-transplant-establishment]]
+- [[solomon-shade-and-sunlight-requirements]]
 
 - [[solomon-watering-and-dry-farming]]
 - [[solomon-intensive-vs-extensive-spacing]]

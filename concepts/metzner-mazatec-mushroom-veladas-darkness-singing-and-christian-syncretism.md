@@ -1,5 +1,5 @@
 ---
-title: "Mazatec Mushroom Veladas: Darkness, Singing, and Christian Syncretism"
+title: "maria-sabina-mazatec-mushroom-ceremony Veladas: Darkness, Singing, and Christian Syncretism"
 created: 2026-04-28
 tags:
   - psilocybin
@@ -59,16 +59,16 @@ R. gordon-wasson's 1957 article describing his experiences with Maria
 Sabina. Metzner references Wasson's broader body of work, including his
 1980 book *The Wondrous Mushroom*, as foundational to the field of
 ethnobotanical research on entheogenic plants. Wasson's rediscovery of
-the pre-Columbian magic mushroom cult is cited by Metzner as part of the
+the pre-Columbian [[australian-magic-mushroom-common-names]] cult is cited by Metzner as part of the
 generation of anthropological and ethnobotanical research inspired by
 psychedelic discoveries, a generation that also included the work of
 [[shamanic-singing-and-darkness-in-entheogenic-ceremonies]]
 - [[shamanic-singing-and-darkness-in-entheogenic-ceremonies]]
 
 - [[shamanic-singing-and-darkness-in-entheogenic-ceremonies]]
-- Metzner Four Paradigms of Entheogenic Healing
-- Shamanic Healing and Divination
-- Set and Setting Hypothesis
+- Metzner Four Paradigms of [[shamanic-entheogenic-healing-rituals]]
+- [[metzner-shamanic-healing-and-divination-paradigm]] and Divination
+- Set and [[metzner-set-and-setting-hypothesis-origins-and-extensions]]
 ## Practical Considerations
 
 Successful implementation of Mazatec Mushroom Veladas: Darkness, Singing, and Christian Syncretism requires attention to
@@ -88,3 +88,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[christian-ratsch]]

@@ -51,7 +51,7 @@ Machine milking becomes worthwhile at 5+ animals or for daily time savings.
 Cooling milk quickly after milking is the most important step for quality and safety. See [[raw-milk-guide]] for detailed protocols.
 
 -  **Ice bath setup** — Place the milking bucket in a larger container (milk can or bus tub) filled with ice water. Stir milk periodically for even cooling. Bring from 38 C to 4 C within 1 hour.
--  **Plate cooler** — A heat exchanger that uses cold running water to chill milk as it flows from the milking bucket to the storage container. Requires a steady cold water supply. Cost: $100-300.
+-  **Plate cooler** — A [[heat-exchanger-effectiveness-ntu]] that uses cold running water to chill milk as it flows from the milking bucket to the storage container. Requires a steady cold water supply. Cost: $100-300.
 -  **Bulk tank with cooling** — For larger operations. An insulated tank with a built-in refrigeration unit that agitates and cools milk to 4 C automatically. Cost: $1,500-5,000.
 
 ### Storage Containers
@@ -96,7 +96,7 @@ A cream separator spins milk at high speed in a centrifuge, separating the light
 
 1.  **Source cream** — Separate from fresh milk using the cream separator. Let cream ripen at 12-15 C for 12-24 hours for cultured butter, or use fresh for sweet cream butter.
 2.  **Churn** — Agitate cream until butter grains form and separate from buttermilk (10-20 minutes depending on method and temperature). Optimal cream temperature: 10-15 C (50-59 F).
-3.  **Drain buttermilk** — Pour off the buttermilk through a strainer. Save for baking, drinking, or animal feed.
+3.  **Drain buttermilk** — Pour off the buttermilk through a strainer. Save for baking, drinking, or [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]].
 4.  **Wash butter** — Add cold water to the butter grains, knead to remove residual buttermilk. Repeat until rinse water runs clear. Residual buttermilk causes off-flavors and rapid spoilage.
 5.  **Salt** — Knead in non-iodized salt to taste (1/4 teaspoon per pound of butter is standard). Salt acts as a preservative and flavor enhancer.
 6.  **Shape and store** — Press into molds, roll into logs with wax paper, or pack into containers. Refrigerate for up to 2 months or freeze for up to 12 months.
@@ -113,12 +113,12 @@ Pasteurization equipment is needed when selling dairy products commercially or w
 ### Small-Batch Pasteurizer Options
 
 -  **Double boiler method** — Heat milk in a stainless steel container set inside a larger pot of water. Stir constantly. Use a dairy thermometer to verify temperature. Heat to 63 C (145 F) and hold for 30 minutes (vat method). Cool rapidly in ice bath. No special equipment beyond what most kitchens already have.
--  **Dedicated dairy pasteurizer** — Electric units with built-in temperature control and agitation. Ensure precise temperature and hold time. Cost: $200-600.
--  **Solar pasteurizer** — Solar oven design that achieves pasteurization temperatures. Useful for off-grid operations but less precise.
+-  **Dedicated dairy pasteurizer** — Electric units with built-in [[hamilton-greenhouse-heating-and-temperature-control]] and agitation. Ensure precise temperature and hold time. Cost: $200-600.
+-  **Solar pasteurizer** — [[solar-oven-cooking]] design that achieves pasteurization temperatures. Useful for off-grid operations but less precise.
 
 ### Pasteurization Methods
 
--  **Vat method (LTLT)** — 63 C (145 F) for 30 minutes. Preserves more flavor and nutritional quality. Best for homestead scale.
+-  **Vat method (LTLT)** — 63 C (145 F) for 30 minutes. Preserves more flavor and [[coleman-winter-greens-nutritional-quality-cold-sweetening]]. Best for [[homestead-scale-assessment]].
 -  **HTST (flash)** — 72 C (161 F) for 15 seconds. Requires specialized equipment with rapid heating and cooling. More common in commercial operations.
 
 ## Cheese Presses
@@ -144,28 +144,6 @@ A cheese press applies controlled pressure to drained curds, expelling whey and 
 | Cheese | Pressure | Duration |
 |--------|----------|----------|
 | Feta | None (self-pressing under brine) | 24 hours |
-| Chevre | None (gravity drain) | 6-12 hours |
-| Gouda | 2.5 kg / 9 kg / 23 kg (increasing) | 20 min / 20 min / 12 hr |
-| Cheddar | 5 kg / 11 kg / 22 kg | 15 min / 15 min / 12 hr |
-| Parmesan | 5 kg / 11 kg / 22 kg / 45 kg | 30 min / 30 min / 2 hr / 12 hr |
-
-## Additional Useful Equipment
-
--  **Yogurt maker** — An electric incubator that maintains 40-43 C for yogurt fermentation. Alternatively, use a dehydrator, thermos, or oven with the light on.
--  **Cheese wax melter** — Small electric pot for melting cheese wax evenly. Prevents scorching. Cost: $30-60.
--  **Curd knife** — A long, thin knife (30+ cm) with a flat blade for cutting curds evenly.
--  **pH meter** — Essential for consistent cheese making. Measures acidity development during the cheese making process. Cost: $50-200.
--  **Refractometer** — Measures total solids in milk. Useful for assessing milk quality and predicting cheese yield. Cost: $30-100.
-
-## Equipment Maintenance
-
-- Clean all dairy equipment immediately after each use — milk residue bakes onto surfaces and becomes nearly impossible to remove
-- Use dairy-specific cleaners (alkaline wash for milk fat removal, acid wash for mineral deposits)
-- Sanitize before each use with a dairy sanitizer
-- Replace rubber parts (inflatable liners, gaskets) annually or when they show signs of wear
-- Store stainless steel equipment dry to prevent pitting
-- Follow manufacturer maintenance schedules for milking machines (oil vacuum pump, check pulsator timing)
-
 ## See Also
 
 - [[homestead-dairy-guide]]

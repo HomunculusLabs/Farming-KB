@@ -1,5 +1,5 @@
 ---
-title: Tissue Culture and Micropropagation
+title: comparison-seed-saving-techniques-vs-tissue-culture-cloning and Micropropagation
 created: 2026-04-26
 sources: Marijuana Horticulture (Cervantes)
 synonyms: meristem culture, in vitro propagation, agar cloning, sterile culture
@@ -14,13 +14,13 @@ Tissue culture (micropropagation) is an advanced propagation technique that invo
 
 ## Meristem Culture
 
-The meristem is the central stem tip containing actively dividing, undifferentiated cells. It is the plant tissue from which all new growth originates. Cutting the meristem (top growth tip) for propagation exploits the fact that this tissue is typically free of viral pathogens and many bacterial infections, since most pathogens do not readily enter the actively dividing cells of the apical meristem.
+The meristem is the central stem tip containing actively dividing, undifferentiated cells. It is the plant tissue from which all new growth originates. Cutting the meristem (top growth tip) for propagation exploits the fact that this tissue is typically free of viral pathogens and many [[cannabis-for-bacterial-infections-and-mrsa]], since most pathogens do not readily enter the actively dividing cells of the apical meristem.
 
 Meristem pruning is the practice of cutting away the growth tip to encourage lateral branching. When used for tissue culture, the tiny meristem tip (often just 0.1-0.5mm) is excised under sterile conditions and placed on a nutrient agar medium.
 
 ## The Agar Medium
 
-Tissue culture medium typically contains a gelatinous agar base supplemented with macronutrients (nitrogen, phosphorus, potassium), micronutrients (iron, manganese, zinc, boron), vitamins (thiamine, nicotinic acid), and [[laminar-flow-hood-construction-hepa-filter]], autoclave, pH meter) and specialized knowledge. Contamination by bacteria or fungi is the most common problem and can destroy entire batches. The initial establishment of cultures has a steep learning curve, and the transition from agar-grown plantlets to soil or hydroponic media (acclimatization) requires careful humidity management.
+Tissue culture medium typically contains a gelatinous agar base supplemented with macronutrients (nitrogen, phosphorus, potassium), micronutrients (iron, manganese, zinc, boron), vitamins (thiamine, nicotinic acid), and [[laminar-flow-hood-construction-hepa-filter]], autoclave, pH meter) and specialized knowledge. Contamination by bacteria or fungi is the most common problem and can destroy entire batches. The initial establishment of cultures has a steep learning curve, and the transition from agar-grown plantlets to soil or hydroponic media (acclimatization) requires careful [[stamets-cultivator-humidity-management-fogging-systems]].
 
 The process is also time-consuming compared to traditional cloning. While traditional cuttings root in 7-14 days, tissue culture from initial explant to rooted plantlet ready for transplant can take 6-12 weeks.
 
@@ -37,7 +37,7 @@ The process is also time-consuming compared to traditional cloning. While tradit
 
 ## Disease-Free Clone Production
 
-Traditional cloning methods transmit pests (spider mites, powdery mildew) and systemic diseases from mother to clone. Tissue culture breaks this cycle by starting from pathogen-free meristem tissue. For commercial operations and breeders maintaining elite genetics, tissue culture represents the gold standard for clone production and genetic preservation.
+Traditional cloning methods transmit pests (spider mites, [[cervantes-powdery-mildew-prevention-treatment]]) and systemic diseases from mother to clone. Tissue culture breaks this cycle by starting from pathogen-free meristem tissue. For commercial operations and breeders maintaining elite genetics, tissue culture represents the gold standard for clone production and genetic preservation.
 
 ## Agar Media Composition
 
@@ -55,7 +55,7 @@ The Murashige and Skoog (MS) medium, developed in 1962, is the most widely used 
 - **Gelling agent**: Agar at 6-8 g/L solidifies the medium. Phytagel (0.2-0.3%) is sometimes used as an alternative, providing a clearer medium that makes it easier to observe root development.
 
 The pH of the prepared medium is adjusted to 5.6-5.8 (using NaOH or KOH to raise pH, or HCl to lower it) before autoclaving. This pH range optimizes [[cervantes-cloning]] for traditional cloning methods
-- [[cervantes-pest-disease]] for disease prevention
+- [[cervantes-pest-disease]] for [[cervantes-pest-disease-prevention-overview]]
 - [[cannabis-genetics-and-breeding]] for breeding and genetic selection
 ## Practical Considerations
 
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

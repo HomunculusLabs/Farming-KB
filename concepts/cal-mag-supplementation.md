@@ -10,10 +10,10 @@ tags: [reference]
 
 # Cal Mag Supplementation
 
-Calcium (Ca) and magnesium (Mg) are secondary macronutrients essential for healthy
+Calcium (Ca) and magnesium (Mg) are [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]] essential for healthy
 cannabis growth. While not required in the large quantities of nitrogen, phosphorus, and
 potassium, calcium and magnesium deficiencies are among the most common problems in
-indoor cannabis cultivation. Supplementation is often necessary, especially in
+indoor [[query-how-does-no-till-cannabis-cultivation-work]]. Supplementation is often necessary, especially in
 hydroponic systems and when using certain growing media.
 
 ## Calcium's Role
@@ -28,7 +28,7 @@ Calcium is classified as an immobile nutrient. Immobile nutrients -- calcium (Ca
 boron (B), chlorine (Cl), cobalt (Co), copper (Cu), iron (Fe), manganese (Mn),
 molybdenum (Mo), silicon (Si), and sulfur (S) -- do not translocate to new growing
 areas as needed. They remain deposited in their original place in older leaves. This is
-the reason calcium deficiency symptoms appear first in the upper, new leaves on top of
+the reason [[knf-calcium-deficiency-symptoms]] symptoms appear first in the upper, new leaves on top of
 the plant.
 
 ## Magnesium's Role
@@ -40,7 +40,7 @@ non-enriched plants. Monitor [[ph-management-cannabis]] ensures calcium and magn
 
 ## Cal Mag During Flowering
 
-In the flowering stage, nitrogen takes a backseat to potassium, phosphorus, and calcium
+In the [[cannabis-flowering-stage-management]], nitrogen takes a backseat to potassium, phosphorus, and calcium
 intake. Using a super bloom fertilizer with less nitrogen and more potassium,
 phosphorus, and calcium promotes fat, heavy, dense buds. Calcium demands increase
 significantly during flowering as bud structures develop rapidly.
@@ -49,7 +49,7 @@ significantly during flowering as bud structures develop rapidly.
 
 - [[ec-tds-cannabis]] -- monitoring nutrient concentration
 - [[co2-enrichment-cannabis]] -- increased nutrient demand
-- Cannabis Growing Mediums -- Ca/Mg needs vary by medium
+- [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]] Mediums -- Ca/Mg needs vary by medium
 - [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]
 ## Practical Considerations
 
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

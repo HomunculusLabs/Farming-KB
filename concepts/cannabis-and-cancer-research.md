@@ -12,23 +12,23 @@ sources:
 
 updated: 2026-04-18
 
-The Cannabis Health Index documents extensive research on cannabinoids and cancer, covering multiple cancer types with laboratory studies showing anti-tumor effects and clinical studies managing cancer treatment side effects. This page provides a comprehensive overview of the research landscape.
+The [[blesching-cannabis-health-index-autoimmune-conditions]] documents extensive research on cannabinoids and cancer, covering multiple cancer types with laboratory studies showing anti-tumor effects and clinical studies managing cancer treatment side effects. This page provides a comprehensive overview of the research landscape.
 
 ## Key Research Finding
 
-Cannabinoids have demonstrated anti-tumor activity across virtually every cancer type studied, through multiple mechanisms including apoptosis induction, anti-angiogenesis, cell cycle arrest, and metastasis inhibition. The research spans from laboratory studies to clinical trials.
+Cannabinoids have demonstrated anti-tumor activity across virtually every cancer type studied, through multiple mechanisms including apoptosis induction, anti-angiogenesis, cell cycle arrest, and metastasis inhibition. The research spans from laboratory studies to [[mushroom-cancer-clinical-trials-overview]].
 
 ## Cancer Types with Cannabinoid Research
 
 ### Brain Cancer (Glioblastoma)
 - CB2 receptor activation inhibits glioma growth in vivo (Sanchez et al., 2001)
-- CBD triggers caspase activation and oxidative stress in glioma cells (Massi et al., 2006)
+- CBD triggers caspase activation and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in glioma cells (Massi et al., 2006)
 - Cannabinoids inhibit VEGF pathway in gliomas (Blazquez et al., 2004)
 - Pilot clinical study: THC in patients with recurrent glioblastoma multiforme showed antitumoral action (Guzman et al., 2006, British Journal of Cancer)
 - CBD enhances THC's inhibitory effects on glioblastoma cells (Marcu et al., 2010)
 
 ### Breast Cancer
-- Anandamide (endogenous cannabinoid) inhibits human breast cancer cell proliferation (De Petrocellis et al., 1998, PNAS)
+- Anandamide (endogenous cannabinoid) inhibits human breast [[blesching-cannabis-apoptosis-and-cancer-cell-death]] proliferation (De Petrocellis et al., 1998, PNAS)
 - CBD as novel inhibitor of Id-1 gene in aggressive breast cancer (McAllister et al., 2007)
 - THC inhibits cell cycle progression via Cdc2 regulation (Caffarel et al., 2006)
 - Endocannabinoids suppress Trk receptors and prolactin receptors (Melck et al., 2000)
@@ -42,7 +42,7 @@ Cannabinoids have demonstrated anti-tumor activity across virtually every cancer
 - Clove (Syzygium aromaticum) as potential chemopreventive agent for lung cancer (Banerjee et al., 2006)
 
 ### Prostate Cancer
-- Cannabinoid receptor as novel treatment target (Sarfaraz et al., 2005, Cancer Research)
+- [[cannabis-cannabinoid-receptor-pharmacology]] as novel treatment target (Sarfaraz et al., 2005, Cancer Research)
 - Increased CB1 and TRPV1 expression in prostate carcinoma (Czifra et al., 2009)
 - Capsaicin induces apoptosis in prostate tumor PC-3 cells (Sanchez et al., 2006)
 - Garlic-derived S-allylmercaptocysteine as antimetastatic agent (Howard et al., 2007)

@@ -9,7 +9,7 @@ sources: [raw/papers/a-selection-permaculture-plants.md]
 
 # Water Plant Guide
 
-Water plants provide direct food for humans and aquatic animals, and oxygenate water. No aquatic system is complete without a range of plants. They fall into four broad groups:
+Water plants provide direct food for humans and [[fungi-aquatic-animals-pathogens-parasites]], and oxygenate water. No aquatic system is complete without a range of plants. They fall into four broad groups:
 
 1. **Submerged Plants**: Roots act only as anchors; nutrients, CO2, and oxygen transfer over the entire plant surface. Oxygen released during photosynthesis goes directly into the water, benefiting fish and aerobic bacteria.
 2. **Floating-Leaved Plants**: Often directly useful to humans but less so to fish. Usually found only in calm waters. Some anchor to bottom, others float freely. Leaves shade the water surface, reducing light, heat, and oxygen.
@@ -24,7 +24,7 @@ A reasonable balance can be established by introducing water from an established
 ## Floating-Leaved Plants
 
 ### Azolla spp (Family: Azollaceae)
-Small, perennial, free-floating fern hosting a microscopic alga (*Anabaena azolla*) in its leaves. The alga fixes atmospheric nitrogen and makes it available as ammonia. Laboratory research has found the alga can also produce hydrogen from water -- promising for solar energy storage. Used extensively in Vietnam as a rice paddy companion. Valuable food for pigs, poultry, and waterfowl. Controls mosquitoes and weeds by covering the water surface. Good nitrogen-rich mulch when dried, with water-holding properties similar to peat moss.
+Small, perennial, free-floating fern hosting a microscopic alga (*Anabaena azolla*) in its leaves. The alga fixes atmospheric nitrogen and makes it available as ammonia. Laboratory research has found the alga can also produce hydrogen from water -- promising for [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] storage. Used extensively in Vietnam as a [[fukuoka-textdoc-creating-rice-paddy-natural-methods]] companion. Valuable food for pigs, poultry, and waterfowl. Controls mosquitoes and weeds by covering the water surface. Good nitrogen-rich mulch when dried, with water-holding properties similar to peat moss.
 
 ### Duckweed (Family: Lemnaceae)
 Wolffia, Wolffiella, Spirodela, and Lemna -- about 40 known perennial free-floating species, among the most vigorously growing plants on earth (some double every 3 days). Valuable for removing excess nutrients from water. Tests on *Lemna minor* and *L. trisulca* show they concentrate boron, aluminium, manganese, iron, titanium, copper, and cobalt from water.
@@ -48,7 +48,7 @@ Root in mud, leaves float on water (depths up to 1.5 m). Roots are edible. *N. a
 Aquatic fern growing in ditches, swamps, and paddy fields of the tropics and semi-tropics. Fiddleheads eaten raw and cooked. Entire plant except root may be cooked as greens.
 
 ### Taro (Colocasia esculenta)
-Possibly the earliest cultivated plant. Grown in paddy culture like rice or on dry land under irrigation. Requires 6-7 month frost-free period. Corms comparable nutritionally to potatoes and sweet potatoes. Leaves and petioles cooked like spinach. Plant must be cooked. Some cultivars are highly salt tolerant.
+Possibly the earliest cultivated plant. Grown in paddy culture like rice or on dry land under irrigation. Requires 6-7 month frost-free period. Corms comparable nutritionally to potatoes and sweet potatoes. Leaves and petioles cooked like spinach. Plant must be cooked. Some cultivars are highly [[halotolerant-halophilic-fungi-salt-tolerant-diversity]].
 
 Taro leaf nutrition (per 100 g): Water 87.2%, 40 cal, Carbohydrate 7.4 g, Fat 0.8 g, Protein 3.0 g, Calcium 76 mg, Iron 1.0 mg, Vitamin C 31 mg.
 
@@ -59,6 +59,7 @@ Taro corm nutrition (per 100 g): Water 73%, 98 cal, Carbohydrate 23.7 g, Fat 0.2
 - [[salt-tolerant-plant-guide]]
 - [[difficult-site-planting]]
 - [[permaculture-plant-selection-guide]]
+
 ## Practical Considerations
 
 Successful implementation of Water Plant Guide requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

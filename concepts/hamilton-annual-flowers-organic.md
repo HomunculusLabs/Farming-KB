@@ -1,5 +1,5 @@
 ---
-title: Growing Annual Flowers Organically
+title: Growing hamilton annual flowers organic Organically
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 updated: 2026-04-18
 
-Annual flowers are plants that grow from seed, flower, and die in the same year. Though they need to be replaced each year, they provide a very bright display of color through the whole summer and can be very useful for covering soil and providing flowers in a new bed until you have planned your permanent planting. They also attract many beneficial insects into the garden, including bees for pollination and hoverflies for the natural control of greenfly and other aphids.
+Annual flowers are plants that grow from seed, flower, and die in the same year. Though they need to be replaced each year, they provide a very bright display of color through the whole summer and can be very useful for covering soil and providing flowers in a new bed until you have planned your permanent planting. They also attract many [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] into the garden, including bees for pollination and hoverflies for the natural control of greenfly and other aphids.
 
 ## Hardy Annuals
 
@@ -23,7 +23,7 @@ Mark out the area you wish to sow and sow seeds into shallow seed rows 6 inches 
 
 ### Sowing in Trays
 
-Sow seeds fairly thickly in a seed tray in early spring. When the seedlings are 1 inch (2.5cm) or so tall, take the block out of the tray and cut into small squares with a penknife. Plant the clumps. This method is much better if your soil is heavy and stays wet in early spring.
+Sow seeds fairly thickly in a seed tray in [[coleman-overwintered-onions-and-early-spring-crops]]. When the seedlings are 1 inch (2.5cm) or so tall, take the block out of the tray and cut into small squares with a penknife. Plant the clumps. This method is much better if your soil is heavy and stays wet in early spring.
 
 ### Choosing Hardy Annuals
 
@@ -40,7 +40,7 @@ These are much more difficult to grow than hardy annuals but are generally worth
 3. Grow them until they can be handled without damaging the delicate stems
 4. Transfer to another seed tray with wider spacing
 5. Grow until all danger of frost has passed
-6. "Harden off" by putting them in a closed cold frame, then increasing ventilation gradually over a week or so
+6. "Harden off" by putting them in a closed [[comparison-cold-frame-gardening-vs-container-gardening-guide]], then increasing ventilation gradually over a week or so
 7. Plant out in soil prepared with manure or compost
 
 ### Planting
@@ -74,6 +74,8 @@ Biennials are plants sown one year that flower the next, after which they die. S
 Sow seed outside in early summer in a dedicated seed bed. When seedlings are sturdy enough to handle, transplant about 4 inches (10cm) apart in rows. Transplant again to final positions in early fall, after summer-flowering annuals have finished. Spring-flowering biennials will flower until early summer, when they can be pulled up, composted, and replaced with summer annuals.
 
 ## Related
+
+- [[hamilton-biennial-flowers-organic]]
 
 - [[hamilton-perennial-flowers-organic]]
 - [[geoff-hamilton-organic-techniques]]

@@ -1,5 +1,5 @@
 ---
-title: Pezizales and Discomycete Ascomycete Diversity
+title: Pezizales and pezizales discomycete ascomycete diversity Diversity
 created: 2026-04-26
 tags:
   - pezizales
@@ -49,7 +49,7 @@ to specialized parasites and saprobes on dung.
 ### Morchellaceae
 The Morchellaceae includes the prized morels morchella taxonomy culinary use
 (morels) and Verpa species. Morels are among the most
-economically valuable wild mushrooms collected for food. The
+economically valuable [[edible-wild-mushrooms-by-region]] collected for food. The
 family also includes Disciotis and other genera. Molecular
 studies have revealed that Morchella species are more diverse
 than previously recognized, with numerous phylogenetic species
@@ -69,8 +69,8 @@ litter. Sarcoscypha coccinea, the scarlet elf cup, is one
 of the most widely recognized cup fungi in temperate forests.
 (Section truncated for length.)
   plant debris in forest floors and grasslands
-- **mycorrhizal fungi ecology functions diversity** -- truffles, morels, and
-  many other Pezizales form ectomycorrhizal fungi tree associations associations
+- **[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] ecology functions diversity** -- truffles, morels, and
+  many other Pezizales form [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] tree associations associations
   with trees
 (Section truncated for length.)
 ## Hypogeous versus Epigeous Fruiting
@@ -78,11 +78,15 @@ A major ecological and morphological transition within the
 Pezizales is the shift from epigeous (above-ground) to
 hypogeous (underground) fruiting. This transition occurred
 independently in multiple lineages and is associated with:
-- Loss of forcible ascospore discharge
-- Evolution of animal-dispersed spore dispersal strategies
+- Loss of forcible [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]]
+- Evolution of animal-dispersed [[aquatic-fungi-spore-dispersal-ingold]] strategies
 - Dependence on mycophagous mammals for spore dispersal
 - Changes in ascomatal morphology from cup-shaped to
   irregular, enclosed structures
 Hypogeous members include the true truffles (Tuberaceae),
 Genea, and other sequestrate genera. This transition has
 significant implications for [[helotiales-inoperculate-discomycete-diversity-ecology]]
+
+## See Also
+
+- [[peziza-vesiculosa]]

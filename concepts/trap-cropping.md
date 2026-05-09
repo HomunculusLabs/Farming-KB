@@ -1,15 +1,16 @@
 ---
-title: Trap Cropping
+title: comparison-trap-cropping-vs-beneficial-insects
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [pest-management, companion-planting, agriculture, gardening, vegetables, plants, ecology]
-sources: []
+sources:
+  sources: []
 ---
 
 # Trap Cropping
 
-Trap cropping is the practice of growing a sacrificial "trap" crop that attracts pests away from the main cash crop. The pests concentrate on the trap crop, which is then monitored, managed, or destroyed along with the pests. It is a key strategy in integrated pest management (IPM) and pairs well with [[companion-planting-reference]] and [[insectary-plantings]].
+Trap cropping is the practice of growing a sacrificial "trap" crop that attracts pests away from the main cash crop. The pests concentrate on the trap crop, which is then monitored, managed, or destroyed along with the pests. It is a key strategy in [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management (IPM) and pairs well with [[companion-planting-reference]] and [[insectary-plantings]].
 
 ## How Trap Cropping Works
 
@@ -26,7 +27,6 @@ The most sophisticated trap cropping approach combines push-pull principles:
 ## Trap Crops for Major Pests
 
 ### Aphids
-
 
 **Trap Crops:**
 - **Nasturtiums**: One of the most effective aphid trap crops. Aphids swarm nasturtiums while leaving nearby crops relatively untouched. Plant 2-3 nasturtium plants per 10 square feet of garden.
@@ -78,12 +78,12 @@ Tomato hornworms (Manduca quinquemaculata) and tobacco hornworms (Manduca sexta)
 
 **Trap Crops:**
 - **Dill**: Hornworms prefer dill over tomatoes. Plant dill at the perimeter of tomato beds. Adult moths are also attracted to dill flowers for nectar.
-- **Borage**: Attracts hornworms and also repels them through volatile compounds (conflicting research — may depend on density). Plant near tomatoes.
+- **Borage**: Attracts hornworms and also repels them through [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] (conflicting research — may depend on density). Plant near tomatoes.
 - **Moonflowers (Datura inoxia)**: Extremely attractive to hornworm adults for egg-laying. A "dead-end" trap crop — larvae that feed on datura die from the toxic alkaloids.
 
 **Management:**
 - Hand-pick hornworms from trap crops (they are large and easy to spot)
-- Parasitic braconid wasps provide biological control — leave parasitized hornworms (those with white cocoons on their backs) alone
+- Parasitic braconid wasps provide [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] — leave parasitized hornworms (those with white cocoons on their backs) alone
 - See [[beneficial-insects-guide]] for braconid wasp support
 
 ### Cabbage Worms and Loopers
@@ -97,7 +97,7 @@ Imported cabbageworm, cabbage looper, and diamondback moth larvae damage brassic
 
 **Management:**
 - Monitor trap crops for eggs and small larvae
-- Apply Bacillus thuringiensis (Bt) to trap crops only, or to the entire brassica bed when larvae are small
+- Apply [[cervantes-bacillus-thuringiensis-bt-control]] (Bt) to trap crops only, or to the entire brassica bed when larvae are small
 - Use floating row covers on the main crop until the trap crop is established
 - Destroy trap crop at end of season to reduce overwintering population
 
@@ -140,57 +140,8 @@ Slugs and snails feed at night on a wide range of plants.
 **Management:**
 - Hand-pick slugs at night with a flashlight
 - Beer traps (shallow dishes of beer sunk into the soil) drown slugs
-- Diatomaceous earth around the main crop (see [[natural-pest-deterrents]])
+- [[query-how-to-use-diatomaceous-earth-in-the-garden]] around the main crop (see [[natural-pest-deterrents]])
 - Reduce mulch depth near susceptible crops (slugs hide in mulch)
-
-## Trap Crop Design Principles
-
-### Perimeter Trap Cropping
-
-Plant the trap crop completely around the border of the main crop. Pests approaching from outside encounter the trap crop first and concentrate there.
-
-- Most common and effective design
-- The main crop is surrounded by a protective barrier of trap plants
-- Easy to manage and monitor (all trap plants are accessible)
-
-### Row Interplanting
-
-Alternate rows of trap crop and main crop.
-
-- Useful when pests move between rows within the field
-- More complex to manage than perimeter planting
-- Use 1 row of trap crop per 4-8 rows of main crop
-
-### Sequential Trap Cropping
-
-Plant multiple trap crop species that flower or mature at different times, providing a continuous attractant throughout the pest season.
-
-- Early trap crop catches the first pest generation
-- Later trap crop catches subsequent generations
-- Requires more planning but provides longer protection
-
-### Dead-End Trap Cropping
-
-Use plants that attract pests for egg-laying or feeding but on which the pest cannot complete its life cycle. The pest's offspring die on the trap crop.
-
-- Blue Hubbard squash for squash bugs (partially effective — some complete development)
-- Indian mustard for diamondback moth
-- Datura for hornworms
-
-## Integration with Other Strategies
-
-- **Combine with [[insectary-plantings]]**: Plant beneficial insect habitat near trap crops so predators can find and consume concentrated pest populations
-- **Combine with [[beneficial-insects-guide]]**: Parasitic wasps and predators are more effective when pests are concentrated on trap crops
-- **Combine with [[natural-pest-deterrents]]**: Use repellent plants or sprays on the main crop while attracting pests to the trap crop
-- **Combine with [[weed-management-strategies]]**: Keep the area around trap crops clean to prevent pests from migrating to alternate hosts
-
-## Common Mistakes
-
-- Planting the trap crop too late — it must be established and attractive before the main crop is vulnerable
-- Not monitoring trap crops — if the trap crop becomes overwhelmed, pests may spill over to the main crop
-- Not destroying the trap crop after infestation — it becomes a breeding ground for the next generation
-- Using a trap crop that also supports the pest's full life cycle without management
-- Placing trap crops too far from the main crop (within 10-20 feet is ideal for most pests)
 
 ## Related Topics
 

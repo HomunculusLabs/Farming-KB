@@ -12,7 +12,7 @@ updated: 2026-04-28
 sources:
   - Singer, R. (1986). "The Agaricales in Modern Taxonomy." 4th ed. Koeltz Scientific Books.
   - Chang, S.T. & Miles, P.G. (2004). "Mushrooms: Cultivation, Nutritional Value, Medicinal Effect, and Environmental Impact." 2nd ed. CRC Press.
-  - Stamets, P. (1993). "Growing Gourmet and Medicinal Mushrooms." Ten Speed Press.
+  - Stamets, P. (1993). "Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]." Ten Speed Press.
   - Wasser, S.P. (2010). "Medicinal mushroom science: history, current status, future trends, and unsolved problems." International Journal of Medicinal Mushrooms 12(1): 1-16.
 ---
 
@@ -86,11 +86,11 @@ The species shows a preference for exposed wood surfaces and is frequently found
 
 *V. bombycina* is considered a secondary cultivated mushroom, commercially less important than *V. volvacea* but gaining interest for its nutritional profile.
 
-Cultivation utilizes pasteurized straw, sawdust, or agricultural waste substrates similar to those used for *Pleurotus* species.
+Cultivation utilizes pasteurized straw, sawdust, or [[fungi-in-composting-and-agricultural-waste-conversion]] substrates similar to those used for *Pleurotus* species.
 
 Optimal fruiting temperature ranges from 25–32°C with high humidity (85–95% relative humidity).
 
-The biological efficiency on supplemented straw substrates typically ranges from 40–60%, lower than *P. ostreatus* but comparable to *V. volvacea*.
+The [[stamets-biological-efficiency-yield]] on supplemented straw substrates typically ranges from 40–60%, lower than *P. ostreatus* but comparable to *V. volvacea*.
 
 Pin formation requires high humidity and adequate fresh air exchange; excessive CO₂ leads to elongated stipes and small caps.
 
@@ -100,7 +100,7 @@ One significant advantage of *V. bombycina* cultivation is its relatively short 
 
 The fruiting body is edible when positively identified and is considered a good nutritional mushroom with a mild, pleasant flavor.
 
-Protein content ranges from 20–30% of dry weight, comparable to other cultivated mushrooms, with a favorable amino acid profile.
+Protein content ranges from 20–30% of dry weight, comparable to other [[fungi-cultivated-mushrooms-pathogens-competitors]], with a favorable amino acid profile.
 
 The species contains notable amounts of ergosterol (provitamin D₂), β-glucans, and several phenolic compounds with documented antioxidant activity.
 
@@ -110,7 +110,7 @@ Preliminary studies indicate antimicrobial activity against Gram-positive bacter
 
 **Critical warning:** *V. bombycina* shares its saccate volva with deadly *Amanita* species and must be distinguished by its pink spore print and free gills.
 
-*Amanita phalloides* (death cap) and *A. virosa* (destroying angel) have white spore prints and attached gills.
+*Amanita phalloides* (death cap) and *A. virosa* ([[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]) have white spore prints and attached gills.
 
 *Amanita volvata* and similar species may superficially resemble *V. bombycina* but differ in spore color and gill attachment.
 
@@ -118,7 +118,7 @@ Collectors should always perform a spore print test before consumption; any spec
 
 ## Ecological Role
 
-As a primary decomposer of hardwood, *V. bombycina* plays an important role in nutrient cycling within forest ecosystems.
+As a primary decomposer of hardwood, *V. bombycina* plays an important role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within forest ecosystems.
 
 The species contributes to carbon mineralization and releases bound nitrogen and phosphorus from woody substrates back into the soil.
 
@@ -129,4 +129,4 @@ It serves as a food source for various invertebrates including beetles (Coleopte
 - [[amanita-phalloides]]
 - [[pleurotus-ostreatus]]
 - [[lentinula-edodes]]
-- [[coprinus-comatus-detailed]]
+- [[coprinus-comatus]]

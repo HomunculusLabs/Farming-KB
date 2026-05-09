@@ -12,9 +12,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Myles S. et al. (2011). "Genomic structure of the cultivated grapevine, Vitis vinifera L." Nature.
-  - McGovern P.E. (2003). "Ancient Wine: The Search for the Origins of Viniculture." Princeton University Press.
+  - McGovern P.E. (2003). "[[amanita-muscaria-ancient-wine-question]]: The Search for the Origins of Viniculture." Princeton University Press.
   - Yang J., Martin I., Martin C. (2009). "Production of resveratrol and its derivatives in grape cell cultures." Methods in Molecular Biology.
-  - Xia E.H. et al. (2017). "The grapevine genome and the diversification of fruit quality traits." Nature Communications.
+  - Xia E.H. et al. (2017). "The grapevine genome and the diversification of fruit [[cannabis-resin-production-and-quality-traits-clarke]]." Nature Communications.
   - Waterhouse A.L. (2002). "Wine phenolics." Annals of the New York Academy of Sciences.
 created: 2026-04-28
 ---
@@ -25,7 +25,7 @@ created: 2026-04-28
 
 It is the most commercially important grape species, providing the vast majority of the world's wine, table grape, and raisin production.
 
-The species has been under cultivation for at least 6,000–8,000 years, making it one of humanity's oldest domesticated fruit crops.
+The species has been under cultivation for at least 6,000–8,000 years, making it one of humanity's oldest domesticated uncommon specialty fruit crops for permaculture.
 
 Beyond its fruit, grape leaves, seeds, and skins are rich sources of polyphenolic compounds with documented antioxidant and anti-inflammatory properties.
 
@@ -77,7 +77,7 @@ Resveratrol activates SIRT1 (sirtuin 1) and AMPK pathways, mimicking caloric res
 
 Grape seed proanthocyanidins (GSPCs) have demonstrated protective effects against cardiovascular disease through LDL oxidation inhibition and endothelial function improvement.
 
-Anti-cancer activities include induction of apoptosis, cell cycle arrest, and inhibition of angiogenesis in multiple cancer cell lines.
+Anti-cancer activities include induction of apoptosis, cell cycle arrest, and inhibition of angiogenesis in multiple [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines.
 
 Neuroprotective effects have been documented, with grape polyphenols showing potential in reducing Alzheimer's disease biomarkers in animal studies.
 
@@ -93,7 +93,7 @@ They are commonly trained on trellises, pergolas, and along fences, providing sh
 
 Grape leaves are edible and used in Mediterranean cuisine (dolmades), providing a dual-yield crop from the same plant.
 
-Companion planting with grapevines includes nitrogen-fixing understory plants and aromatic herbs that may deter common vine pests.
+[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with grapevines includes nitrogen-fixing understory plants and aromatic herbs that may deter common vine pests.
 
 Fallen leaves provide a potassium-rich mulch, and pruned canes serve as carbon-rich material for compost or hugelkultur beds.
 
@@ -109,9 +109,11 @@ Major global cultivars include Cabernet Sauvignon, Merlot, Chardonnay, Pinot Noi
 
 ## See Also
 
+- [[vitis-rupestris]]
+
 - [[food-forest]]
 - [[permaculture-multi-purpose-plants]]
 - [[symphytum-officinale]]
-- [[permaculture]]
+- permaculture
 - [[rosmarinus-officinalis-entity]]
 - [[origanum-vulgare-entity]]

@@ -12,7 +12,7 @@ sources:
   - Nowak, D.J. & Rowntree, R.A. (1990). "History and Range of Norway Maple." Journal of Arboriculture 16(11): 291-296.
   - Webb, S.L. & Kaunzinger, C.K. (1993). "Relationship of Seed Rain and Ground-Layer Vegetation in an Eastern Deciduous Forest." Bulletin of the Torrey Botanical Club 120(2): 128-136.
   - Martin, P.H. (1999). "Norway Maple (Acer platanoides) Invasion of a Natural Forest Stand." Journal of the Torrey Botanical Society 126(4): 341-346.
-  - USDA Forest Service (2023). "Acer platanoides." Silvics of North America.
+  - USDA Forest Service (2023). "Acer platanoides." Silvics of [[psilocybin-north-america-pacific-northwest]].
   - Rehder, A. (1940). Manual of Cultivated Trees and Shrubs. Macmillan, New York.
 ---
 
@@ -22,9 +22,9 @@ sources:
 
 The species is widely planted as a street and shade tree across temperate regions worldwide. Several cultivars, particularly purple-leaved and variegated forms, are among the most popular ornamental trees in urban landscapes.
 
-Norway maple has become naturalized and invasive in parts of North America, eastern Canada, and New Zealand. Its dense canopy shades out native understory vegetation, and its prolific seed production facilitates rapid colonization.
+Norway maple has become naturalized and invasive in parts of North America, eastern Canada, and New Zealand. Its dense canopy shades out native understory vegetation, and its prolific [[cervantes-seed-production-storage]] facilitates rapid colonization.
 
-The species was among the most popular street trees planted in mid-20th century North American cities. Its broad, dense crown provides excellent shade, and its tolerance of road salt and compacted soils made it ideal for urban conditions.
+The species was among the most popular street trees planted in mid-20th century [[growing-gourmet-north-american-reishi-species]] cities. Its broad, dense crown provides excellent shade, and its tolerance of road salt and compacted soils made it ideal for urban conditions.
 
 ## Taxonomy and Morphology
 
@@ -46,7 +46,7 @@ The fruit is a paired samara (schizocarp) with wings spreading at an acute angle
 
 Root systems are shallow and wide-spreading, which can compete with turf grass and other groundcover plants. The roots are also capable of generating suckers if the tree is damaged or stressed.
 
-Autumn foliage color is variable, typically turning clear yellow to golden-yellow. The 'Crimson King' cultivar retains its dark purple coloration throughout the growing season but does not develop significant fall color.
+Autumn foliage color is variable, typically turning clear yellow to golden-yellow. The 'Crimson King' cultivar retains its dark purple coloration throughout the [[savory-growing-season-and-non-growing-season-management]] but does not develop significant fall color.
 
 ## Distribution and Habitat
 
@@ -58,7 +58,7 @@ In its native range, Norway maple grows in mixed deciduous forests from lowland 
 
 The species is hardy to USDA Zone 3, making it exceptionally cold-tolerant for a broadleaved tree. It is also tolerant of urban pollution, compacted soils, and moderate drought once established.
 
-Outside its native range, Norway maple is extensively planted across North America, particularly in the northeastern United States and southeastern Canada. It has escaped cultivation and naturalized widely in these regions.
+Outside its native range, Norway maple is extensively planted across North America, particularly in the northeastern [[dmt-containing-plants-united-states-halpern]] and southeastern Canada. It has escaped cultivation and naturalized widely in these regions.
 
 Naturalized populations are most abundant in disturbed habitats, forest edges, and urban woodlots. Dispersal is primarily by wind, with samaras traveling up to 100 meters from the parent tree. Birds and rodents also contribute to secondary dispersal.
 
@@ -86,7 +86,7 @@ In North America, Norway maple supports fewer herbivorous insect species than na
 
 This reduced herbivore load is a key mechanism behind its invasiveness — fewer natural enemies and less leaf damage allow it to outcompete native trees. The dense shade cast by its canopy further suppresses native understory plants.
 
-Fallen Norway maple leaves decompose more slowly than those of many native species, creating a thick leaf litter layer that can inhibit seed germination of understory plants. Allelopathic compounds in the leaves may contribute to this suppression effect.
+Fallen Norway maple leaves decompose more slowly than those of many native species, creating a thick leaf litter layer that can inhibit [[cannabis-seed-germination-methods]] of understory plants. Allelopathic compounds in the leaves may contribute to this suppression effect.
 
 ## Invasive Potential
 

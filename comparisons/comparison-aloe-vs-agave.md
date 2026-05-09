@@ -10,7 +10,7 @@ type: comparison
 
 # Aloe vs Agave — Key Differences and Growing Guide
 
-Aloe and Agave are two of the most widely recognized succulent genera, frequently confused by gardeners, foragers, and permaculture designers. Both form rosettes of fleshy leaves adapted to dry conditions, but they belong to entirely different plant families, originate from opposite sides of the world, and serve radically different ecological and practical roles. Mistaking one for the other can mean planting a frost-sensitive medicinal herb where a cold-hardy fiber crop was intended — or reaching for a gel-filled leaf and getting a mouthful of caustic sap instead.
+Aloe and Agave are two of the most widely recognized succulent genera, frequently confused by gardeners, foragers, and [[permaculture-designers-manual-animal-forage-systems]]. Both form rosettes of fleshy leaves adapted to dry conditions, but they belong to entirely different plant families, originate from opposite sides of the world, and serve radically different ecological and practical roles. Mistaking one for the other can mean planting a frost-sensitive medicinal herb where a cold-hardy fiber crop was intended — or reaching for a gel-filled leaf and getting a mouthful of caustic sap instead.
 
 This page provides a detailed comparison to help with identification, cultivation decisions, and permaculture design.
 
@@ -21,7 +21,7 @@ This page provides a detailed comparison to help with identification, cultivatio
 | Family | Asphodelaceae | Asparagaceae |
 | Subfamily | Asphodeloideae | Agavoideae |
 | Species count | ~600 described species | ~200+ described species |
-| Origin | Old World: Africa, Arabian Peninsula, Madagascar | New World: Americas (Mexico, southwestern US, Central/South America) |
+| Origin | Old World: Africa, Arabian Peninsula, Madagascar | New World: Americas (Mexico, southwestern US, Central America) |
 
 Despite convergent evolution producing similar rosette forms, these genera diverged tens of millions of years ago. Aloe is most closely related to Gasteria and Haworthia; Agave is grouped with Yucca, Hosta, and Manfreda.
 
@@ -33,7 +33,7 @@ Despite convergent evolution producing similar rosette forms, these genera diver
 
 ## Leaf Morphology
 
-This is the most reliable field identification feature:
+This is the most reliable [[palmer-mushroom-hunting-field-identification]] feature:
 
 **Aloe leaves:**
 - Soft, fleshy, and filled with a clear mucilaginous gel
@@ -72,7 +72,7 @@ This is the most reliable field identification feature:
 ## Practical Uses
 
 **Aloe:**
-- **Medicinal:** *Aloe vera* gel is used topically for burns, wounds, and skin irritation; oral use is controversial due to laxative compounds in the leaf rind
+- **Medicinal:** *[[aloe-vera]]* gel is used topically for burns, wounds, and skin irritation; oral use is controversial due to laxative compounds in the leaf rind
 - **Cosmetics:** Widespread use in skincare products for moisturizing and anti-inflammatory properties
 - **Minor food:** Young leaves of some species consumed as a vegetable in parts of Africa and Asia
 - **Ornamental:** Extremely popular houseplants and landscape succulents in frost-free climates
@@ -80,7 +80,7 @@ This is the most reliable field identification feature:
 **Agave:**
 - **Food and beverage:** *A. tequilana* (blue agave) is the source of tequila; *A. americana* and others yield pulque and mezcal; agave nectar/syrup is a commercial sweetener
 - **Fiber:** *A. sisalana* (sisal) produces durable fiber for rope, twine, and matting
-- **Construction:** Dried flower stalks used as building material (vigas) in traditional Mexican architecture
+- **Construction:** Dried flower stalks used as [[bamboo-as-building-material]] (vigas) in traditional Mexican architecture
 - **Biofuel:** Agave is investigated as a high-yield bioethanol feedstock in marginal lands
 - **Ornamental:** Bold architectural presence in xeriscaping
 
@@ -88,7 +88,7 @@ This is the most reliable field identification feature:
 
 **Aloe** propagates readily from offsets (pups), which most species produce abundantly around the base. Separate pups when they have several roots. Seed propagation is straightforward but slow — seedlings reach transplant size in 6–12 months.
 
-**Agave** propagates by offsets, bulbils (plantlets forming on the flower stalk), and seed. Offsets vary by species: some (e.g., *A. americana*) produce many; others are solitary. Bulbil production is species-dependent and prolific in some (e.g., *A. vilmoriniana*). Seed-grown plants show more genetic diversity.
+**Agave** propagates by offsets, bulbils (plantlets forming on the flower stalk), and seed. Offsets vary by species: some (e.g., *A. americana*) produce many; others are solitary. Bulbil production is species-dependent and prolific in some (e.g., *A. vilmoriniana*). Seed-grown plants show more [[biodiversity-fungal-genetic-diversity]].
 
 ## Lifespan
 

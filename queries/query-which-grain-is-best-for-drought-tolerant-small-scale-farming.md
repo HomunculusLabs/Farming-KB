@@ -10,11 +10,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "FAO – Crops and Drought Tolerant Varieties (fao.org)"
+  - "FAO – Crops and permplant-carob-drought-tolerant-food-tree Varieties (fao.org)"
   - "National Research Council – Lost Crops of Africa, Vol. I & II (nap.nationalacademies.org)"
   - "ICRISAT – Pearl Millet and Sorghum Research (icrisat.org)"
   - "Rodale Institute – Dryland Grain Cropping Systems (rodaleinstitute.org)"
-  - "ECHOcommunity – Small-Scale Grain Production Technical Notes (echocommunity.org)"
+  - "ECHOcommunity – Small-Scale [[fukuoka-no-till-grain-production-method]] Technical Notes (echocommunity.org)"
 created: 2026-04-28
 type: query
 ---
@@ -79,7 +79,7 @@ Traditional wheat and barley landraces (e.g., heritage wheat varieties, barley f
 
 | Criteria | Pearl Millet | Sorghum | Finger Millet | Foxtail Millet | Amaranth | Quinoa | Teff |
 |---|---|---|---|---|---|---|---|
-| Drought tolerance | ★★★★★ | ★★★★☆ | ★★★☆☆ | ★★★★☆ | ★★★★☆ | ★★★☆☆ | ★★★☆☆ |
+| [[dighton-fungal-drought-tolerance-plant-water-relations]] | ★★★★★ | ★★★★☆ | ★★★☆☆ | ★★★★☆ | ★★★★☆ | ★★★☆☆ | ★★★☆☆ |
 | Heat tolerance | ★★★★★ | ★★★★☆ | ★★★☆☆ | ★★★☆☆ | ★★★★★ | ★★☆☆☆ | ★★★☆☆ |
 | Speed to maturity | ★★★★☆ | ★★★☆☆ | ★★★☆☆ | ★★★★★ | ★★★☆☆ | ★★☆☆☆ | ★★★☆☆ |
 | Yield potential | ★★★☆☆ | ★★★★☆ | ★★★☆☆ | ★★★☆☆ | ★★★☆☆ | ★★★☆☆ | ★★☆☆☆ |
@@ -91,7 +91,7 @@ Traditional wheat and barley landraces (e.g., heritage wheat varieties, barley f
 ## Quick Recommendations by Context
 
 ### Hot Semi-Arid (250–400 mm annual rainfall, >35 °C summer peaks)
-**Pearl millet** is your crop. It is the only reliable grain producer at the lower end of this range. Pair with cowpea or pigeon pea for nitrogen fixation. See semi arid grain systems.
+**Pearl millet** is your crop. It is the only reliable grain producer at the lower end of this range. Pair with cowpea or [[comparison-pigeon-pea-vs-cowpea]] for [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. See semi arid grain systems.
 
 ### Semi-Arid Subtropical (400–600 mm, warm winters)
 **Sorghum** or **pearl millet** depending on your exact rainfall. Sorghum gives higher yields and better fodder at the upper end. Consider a pearl millet–sorghum rotation.
@@ -99,7 +99,7 @@ Traditional wheat and barley landraces (e.g., heritage wheat varieties, barley f
 ### Short Rainy Season / Double Cropping
 ## Related Pages
 
-- semi arid grain systems · [[grain-harvesting-and-storage]] · small scale milling options · seed saving for grains
+- semi arid grain systems · [[grain-harvesting-and-storage]] · small scale milling options · [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] for grains
 - amaranth processing guide · water wise farming overview
 
 - [[grain-and-staple-crops]]

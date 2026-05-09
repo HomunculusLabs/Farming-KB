@@ -13,7 +13,7 @@ sources:
 
 ## Overview
 
-acremonium strictum is a cosmopolitan fungal species belonging to the phylum [[agar]] or malt extract agar, colonies grow slowly to moderately, reaching a diameter of 2 to 4 cm within 14 days at 25 degrees Celsius. Colonies are typically compact, velvety to floccose, and range in color from pale grayish-green to rose or salmon-pink.
+acremonium strictum is a cosmopolitan fungal species belonging to the phylum agar or malt extract agar, colonies grow slowly to moderately, reaching a diameter of 2 to 4 cm within 14 days at 25 degrees Celsius. Colonies are typically compact, velvety to floccose, and range in color from pale grayish-green to rose or salmon-pink.
 - **Hyphae:** Hyaline, septate, and thin-walled, forming a dense mycelial mat.
 - **Conidiophores:** Simple, erect, unbranched or sparingly branched, arising from the substrate hyphae. They are thin-walled and bear phialides at their apices.
 - **Conidia:** Cylindrical to ellipsoidal, hyaline, smooth-walled, produced in slimy heads (gloioconidia) at the tips of the phialides. Conidia typically measure 3 to 7 micrometers in length.
@@ -23,17 +23,17 @@ acremonium strictum is a cosmopolitan fungal species belonging to the phylum [[a
 
 acremonium strictum is a widely distributed species found across a broad range of terrestrial habitats. It has been isolated from soil, plant material, air, and various extreme environments. Its ecological versatility allows it to occupy multiple niches:
 
-- Temperate and tropical forest soils
+- Temperate and [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] soils
 - Rhizosphere of ericaceous plants
 - Agricultural soils and grasslands
-- Indoor environments and building materials
-- Surfaces in high-radiation environments (Chernobyl reactor roomycorrhizal-symbiosisstrates a remarkable capacity for stress tolerance, thriving in environments that would be hostile to most microorganisms. This adaptability likely contributes to its cosmopolitan distribution.
+- Indoor environments and [[natural-building-materials-guide]]
+- Surfaces in high-radiation environments (Chernobyl reactor roomycorrhizal-symbiosisstrates a remarkable capacity for [[fungal-lichen-stress-tolerance-and-poikilohydry]], thriving in environments that would be hostile to most microorganisms. This adaptability likely contributes to its cosmopolitan distribution.
 
 ## Role in Ecosystem Processes
 
 ### Ericoid Mycorrhizal Symbiosis
 
-One of the most ecologically significant roles of acremonium strictum is its function as an ericoid mycorrhizal fungus. As documented in Dighton (2003), A. strictum, along with [[plants-without-mycorrhizal-associations]] with salal (Gaultheria shallon), an important ericaceous understory plant in Pacific Northwest forests.
+One of the most ecologically significant roles of acremonium strictum is its function as an ericoid mycorrhizal fungus. As documented in Dighton (2003), A. strictum, along with [[chamovitz-gravitropism-plant-knows-where-it-is]] with salal (Gaultheria shallon), an important ericaceous understory plant in Pacific Northwest forests.
 
 In this symbiotic role, acremonium strictum enables its host plant to access organic forms of nutrients that would otherwise be unavailable. Specifically, the ericoid mycorrhizae of salal are able to utilize:
 
@@ -45,7 +45,7 @@ This ability to mobilize organic nitrogen is particularly important in the nitro
 
 ### Soil Saprotrophism
 
-As a soil saprotroph, acremonium strictum contributes to the decomposition of organic matter and the cycling of nutrients in soil ecosystems. It participates in the breakdown of plant litter and other organic residues, releasing inorganic nutrients that become available for plant uptake.
+As a soil saprotroph, acremonium strictum contributes to the decomposition of [[hamilton-composting-and-organic-matter-management]] and the cycling of nutrients in soil ecosystems. It participates in the breakdown of plant litter and other organic residues, releasing inorganic nutrients that become available for plant uptake.
 
 ## Radiation Tolerance
 
@@ -68,11 +68,11 @@ Beyond its mycorrhizal association with Ericaceae, acremonium strictum has been 
 
 ### Microbial Interactions
 
-In soil environments, acremonium strictum interacts with bacterial communities and other fungal species. Its presence in the rhizosphere suggests competitive interactions with other microorganisms for space and resources, as well as potential synergistic relationships in organic matter decomposition.
+In soil environments, acremonium strictum interacts with [[cultivar-endorhiza-bacterial-communities-cannabis]] and other fungal species. Its presence in the rhizosphere suggests competitive interactions with other microorganisms for space and resources, as well as potential synergistic relationships in organic matter decomposition.
 
 ### Bioremediation Applications
 
-The ability of acremonium strictum to colonize environments contaminated with heavy metals and radionuclides has generated interest in its potential for bioremediation applications. Fungi that can tolerate and accumulate radioactive materials may be useful for:
+The ability of acremonium strictum to colonize environments contaminated with [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] and radionuclides has generated interest in its potential for bioremediation applications. Fungi that can tolerate and accumulate radioactive materials may be useful for:
 
 - Biostabilization of radionuclide-contaminated soils
 - Bioaccumulation of heavy metals from polluted environments

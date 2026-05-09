@@ -1,11 +1,12 @@
 ---
-title: Holzer Livestock Philosophy and Paddock System
+title: Holzer holzer livestock philosophy paddock system and Paddock System
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Livestock Philosophy and Paddock System
@@ -58,8 +59,8 @@ Poultry, pigs, horses, cattle, sheep, goats, and many other animals can all be u
 ## Integration with Crop Growing
 
 - Paddocks used simultaneously for crops and livestock
-- Fruit trees, cereal crops, and livestock on the same terraces
-- Livestock shelters serve multiple purposes: animal housing, crop storage, tool storage
+- [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], cereal crops, and livestock on the same terraces
+- Livestock shelters serve multiple purposes: [[permaculture-designers-manual-animal-housing-detailed]], crop storage, tool storage
 - Design buildings for multiple uses from the start to prevent large-scale alterations later
 
 ## Animal Welfare Principles
@@ -95,12 +96,12 @@ increases habitat diversity. However, pigs require strong fencing and
 supervision to prevent excessive damage.
 
 Ruminants (cattle, sheep, goats) are the primary grazing engine in most
-holistic management systems. Cattle are generalist grazers that do well
+[[savory-holistic-management-overview]] systems. Cattle are generalist grazers that do well
 on diverse pastures, while sheep and goats offer complementary grazing
 preferences — sheep prefer shorter grasses and forbs while goats are
 browsers that control woody encroachment. The combination of cattle and
 sheep or goats in the same paddock system provides more complete
-vegetation utilization and reduces selective grazing pressure on
+vegetation utilization and reduces [[dighton-selective-grazing-fungal-community-shifts]] pressure on
 preferred species. Holzer also integrates less common species like
 highland cattle and ancient pig breeds, selecting for hardiness and
-ability to thrive on rough terrain without supplemental feeding.
+ability to thrive on rough terrain without [[savory-supplemental-feeding-and-winter-management]].

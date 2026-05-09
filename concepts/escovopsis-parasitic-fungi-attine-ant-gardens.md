@@ -1,5 +1,5 @@
 ---
-title: "Escovopsis and Parasitic Fungi of Attine Ant Gardens"
+title: "Escovopsis and escovopsis parasitic fungi attine ant gardens of Attine Ant Gardens"
 created: 2026-04-26
 tags:
   - mycology
@@ -93,10 +93,10 @@ antifungal compounds that help protect the colony.
 ## Biogeographic Patterns
 
 The biogeographic breadth of the attine symbiosis extends
-from the southern United States through Central and South
+from the southern [[dmt-containing-plants-united-states-halpern]] through Central and South
 America, with the highest diversity in the Neotropics.
 The absence of fungus-growing termites in the Neotropics
-distinguishes this region from Africa and Southeast Asia,
+distinguishes this region from Africa and [[psilocybe-southeast-asia-pacific]],
 where termite-fungus agriculture has evolved independently.
 The diversity of Escovopsis and other garden parasites
 likely mirrors the phylogenetic diversity of the attine

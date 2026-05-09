@@ -47,7 +47,7 @@ Synthesized from 5-methoxy-N-methyltryptamine (5-MeO-NMT) by reductive coupling 
 
 ## The Oral vs. Smoked Paradox
 
-5-MeO-MIPT is remarkable for being several times more potent orally than when smoked -- a dramatic contrast to 5-MeO-DMT which is not orally active at all. When smoked, the two compounds appear similar: comparable speed of onset, intense depersonalization, loss of contact with surroundings, and impressive recall of early memories. But the oral activity difference reveals they are "totally different from one another."
+5-MeO-MIPT is remarkable for being several times more potent orally than when smoked -- a dramatic contrast to 5-MeO-DMT which is not orally active at all. When smoked, the two compounds appear similar: comparable speed of onset, intense depersonalization, loss of contact with surroundings, and impressive recall of early memories. But the [[tihkal-oral-activity-mao-inhibition]] difference reveals they are "totally different from one another."
 
 Shulgin speculates on the mechanism: preferential metabolism, first-pass effects, pyrolysis products from smoking, different receptors, or lipophilicity differences. The mystery remains unresolved. As Shulgin quotes Mark Twain: "I like science because it gives one such a wholesome return of conjecture from such a trifling investment of fact."
 

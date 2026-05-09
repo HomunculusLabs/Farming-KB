@@ -7,7 +7,7 @@ tags: mycology, fungi]
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
-# [[fungal-biodiversity-forest-floor]] data presents unique challenges due to the cryptic nature of fungi, episodic fruiting, methodological dependencies, and the difficulty of defining fungal individuals. This page covers quantitative approaches for assessing growing gourmet global, drawn from Chapter 5 of "Biodiversity of Fungi" (Zak and Willig).
+# fungal-biodiversity-forest-floor data presents unique challenges due to the cryptic nature of fungi, episodic fruiting, methodological dependencies, and the difficulty of defining fungal individuals. This page covers quantitative approaches for assessing growing gourmet global, drawn from Chapter 5 of "Biodiversity of Fungi" (Zak and Willig).
 
 ## Types of Biodiversity Data
 
@@ -144,3 +144,5 @@ Statistical approaches for detecting change over time:
 ## See Also
 
 - [[lichen-biodiversity-sampling-protocols-data-analysis]]
+- [[fungal-biodiversity]]
+- [[singh-cost-analysis-fungal-bioremediation]]

@@ -1,5 +1,5 @@
 ---
-title: Goat Dairy and Cheese Production
+title: mollison designers goat dairy and cheese production and Cheese Production
 created: 2026-04-28
 tags:
   - permaculture
@@ -52,7 +52,7 @@ kidding. Staggered kidding dates ensure year-round milk supply.
 Before milking, the udder is cleaned with warm water and dried. Sanitary
 milking practices include washing hands, cleaning equipment, and filtering
 milk immediately. Milk should be cooled to 4 degrees Celsius within one hour
-of milking to maintain quality and extend shelf life. Stainless steel equipment
+of milking to maintain quality and extend [[psilocybin-shelf-life-stability]]. Stainless steel equipment
 is preferred for ease of cleaning and sanitation.
 
 ## Housing Design
@@ -76,7 +76,7 @@ waterways and food production areas.
 Goats are natural browsers, preferring leaves, twigs, and shoots over grass.
 This browsing behaviour makes them ideal for integrating with [[permaculture-design]], dairy goat forage systems combine: managed browsing in
 orchards and woodlots (strip grazing with electric fencing to prevent bark
-damage to valuable trees), rotational grazing on mixed pastures (see
+damage to valuable trees), [[comparison-rotational-grazing-vs-continuous-grazing]] on mixed pastures (see
 [[permaculture-tagasaste]], leucaena, mulberry, willow, poplar,
 comfrey, and various leguminous shrubs for browse. Pasture species such as
 clover, chicory, plantain, and lucerne provide high-protein grazing. Grain
@@ -101,7 +101,7 @@ aged for weeks to months at controlled [[hamilton-greenhouse-heating-and-tempera
 ## Integration with Orchard and Pasture Systems
 
 Dairy goats integrate productively with orchard systems through managed
-browsing. Goats control competing vegetation beneath fruit trees, reducing
+browsing. Goats control competing vegetation beneath [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], reducing
 mowing costs while converting weeds into milk and manure. Portable electric
 fencing allows strip grazing that prevents over-browsing of any single area.
 Goat manure deposited in the orchard adds nitrogen and phosphorus directly

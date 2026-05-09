@@ -15,7 +15,7 @@ sources:
   - "Rodale, J.I. (1974). *The Complete Book of Composting*. Rodale Press."
   - "Brinton, W.F. (2008). 'Compost Teas: Active or Passive?' *Biocycle*, 49(12), 46-49."
   - "Couplan, F. (1998). *The Encyclopedia of Edible Plants of North America*. Contemporary Books."
-  - "Sarrantonio, M. (1994). *Northeast Cover Crop Handbook*. Rodale Institute."
+  - "Sarrantonio, M. (1994). *Northeast [[cover-crop]] Handbook*. Rodale Institute."
 type: comparison
 ---
 
@@ -23,9 +23,9 @@ type: comparison
 
 ## Overview
 
-**Comfrey tea** and **compost tea** are both liquid organic fertilizers widely used in permaculture and organic growing, but they are produced by fundamentally different processes and deliver different benefits. Comfrey tea is a fermented extract made by steeping comfrey leaves (*Symphytum officinale*, typically Bocking 14) in water, yielding a potassium-rich liquid fertilizer. Compost tea is an aerated aqueous extract of finished compost, designed to multiply and deliver beneficial soil microorganisms to plant root zones and foliar surfaces.
+**Comfrey tea** and **compost tea** are both liquid organic fertilizers widely used in permaculture and organic growing, but they are produced by fundamentally different processes and deliver different benefits. Comfrey tea is a fermented extract made by steeping comfrey leaves (*[[symphytum-officinale]]*, typically Bocking 14) in water, yielding a potassium-rich liquid fertilizer. Compost tea is an aerated aqueous extract of finished compost, designed to multiply and deliver beneficial soil microorganisms to plant root zones and foliar surfaces.
 
-The key distinction is that comfrey tea is primarily a **nutrient delivery system**, while compost tea is primarily a **biological inoculant**. Comfrey tea supplies soluble potassium, moderate phosphorus, and trace minerals mined by comfrey's deep taproot from subsoil layers. Compost tea supplies living bacteria, fungi, protozoa, and nematodes that improve nutrient cycling, disease suppression, and soil structure.
+The key distinction is that comfrey tea is primarily a **nutrient delivery system**, while compost tea is primarily a **biological inoculant**. Comfrey tea supplies [[knf-water-soluble-potassium-detailed]], moderate phosphorus, and trace minerals mined by comfrey's deep taproot from subsoil layers. Compost tea supplies living bacteria, fungi, protozoa, and nematodes that improve nutrient cycling, disease suppression, and soil structure.
 
 ## Nutrient Profiles
 
@@ -35,7 +35,7 @@ Comfrey leaves contain one of the highest potassium concentrations of any temper
 
 - **Potassium (K)**: 3–5% in dried leaf; the dominant nutrient, essential for fruit and flower development, disease resistance, and water regulation.
 - **Phosphorus (P)**: 0.3–0.5%; moderate, supporting root development and flowering.
-- **Nitrogen (N)**: 1.5–3.0% in dried leaf; however, much of this is lost as ammonia gas during anaerobic fermentation, so finished tea is relatively nitrogen-poor.
+- **Nitrogen (N)**: 1.5–3.0% in dried leaf; however, much of this is lost as ammonia gas during [[jadam-anaerobic-fermentation]], so finished tea is relatively nitrogen-poor.
 - **Calcium (Ca)**: 2.0–3.0%; significant, supporting cell wall structure.
 - **Trace minerals**: Comfrey accumulates magnesium, iron, manganese, zinc, copper, and boron from deep subsoil layers.
 
@@ -47,7 +47,7 @@ The nutrient content of compost tea depends entirely on the source compost. Typi
 - **Phosphorus (P)**: 0.05–0.3 ppm; soluble forms extracted aerobically.
 - **Potassium (K)**: 0.2–1.0 ppm; lower than comfrey tea by an order of magnitude.
 - **Humic and fulvic acids**: Dissolved organic compounds that improve nutrient availability and soil structure.
-- **Microbial biomass**: The primary value — billions of bacteria, fungal hyphae, protozoa, and nematodes per milliliter.
+- **Microbial biomass**: The primary value — billions of bacteria, [[fungal-hyphae]], protozoa, and nematodes per milliliter.
 
 ## Preparation Methods
 
@@ -85,7 +85,7 @@ An aerobic "quick brew" method exists (aerating leaves and water for 24–48 hou
 | **Brew time** | 2–6 weeks | 12–24 hours |
 | **Dominant nutrient** | Potassium (3–5% in leaf) | Microbial biomass |
 | **NPK contribution** | Low-moderate (K dominant) | Very low (trace dissolved) |
-| **Microbial content** | Minimal (anaerobic organisms) | Very high (diverse aerobic biology) |
+| **Microbial content** | Minimal ([[ingham-anaerobic-organisms-role-soil]]) | Very high (diverse aerobic biology) |
 | **pH of finished product** | Acidic (~4.0–5.5) | Near neutral (~6.0–7.5) |
 | **Odor** | Strong, foul (ammonia) | Earthy, sweet |
 | **Application methods** | Soil drench only | Foliar spray or soil drench |

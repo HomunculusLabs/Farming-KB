@@ -20,7 +20,7 @@ Masanobu Fukuoka's search for the ideal form of rice represents a unique
 convergence of practical agronomy and philosophical inquiry in *The
 Natural Way of Farming*. Rather than following the conventional laboratory
 approach of breaking down and analyzing rice plants, Fukuoka chose to
-observe from afar, seeking the true form of natural rice and asking what
+observe from afar, seeking the true form of [[fukuoka-lundberg-family-farms-natural-rice-transition]] and asking what
 healthy rice is.
 
 ## Abandoning the Laboratory Approach
@@ -39,7 +39,7 @@ robust, and bears fine golden heads of grain. Even rice grown under
 terrible conditions on depleted soil gives surprisingly high yields.
 
 The conditions that produced the ideal form were precisely those of
-natural farming: no tillage, no fertilizer, no pesticides, and the
+[[comparison-natural-farming-vs-permaculture]]: no tillage, no fertilizer, no pesticides, and the
 companionship of clover as a living mulch and nitrogen source.
 
 ## Eight Characteristics of Ideal Rice
@@ -80,7 +80,7 @@ per head or percent of ripened grains.
 
 ## The Inverted Triangular Shape
 
-The most counterintuitive finding was that the ideal rice plant has an
+The most counterintuitive finding was that the [[fukuoka-ideal-rice-plant-form-dimensions-high-yield]] has an
 inverted triangular shape: long second leaf with decreasing length
 downward. When leaves are unhealthy and droop, highest yields come from
 small, erect top leaves that do not shield lower leaves from the sun.
@@ -91,7 +91,7 @@ Fukuoka endeavored to suppress rather than promote vegetative growth by
 not irrigating during the first half of the season and applying fresh
 straw. He came to believe that rice can do fine with just three
 above-ground nodes. The ideal plant remains small and yellow during the
-vegetative stage but gradually greens during the reproductive stage.
+[[comparison-cannabis-vegetative-stage-vs-flowering-stage]] but gradually greens during the reproductive stage.
 
 ## The Masculine Versus Feminine Form
 
@@ -102,8 +102,8 @@ productive than the feminine form prized by conventional breeding.
 
 ## Surface Area for Starch Synthesis
 
-Fukuoka estimated 0.1 square inch of leaf surface per grain of rice —
-extraordinary efficiency that redirects energy toward grain production
+Fukuoka estimated 0.1 square inch of [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] per grain of rice —
+extraordinary efficiency that redirects energy toward [[fukuoka-no-till-grain-production-method]]
 rather than vegetative growth.
 
 ## Implications for Modern Rice Breeding

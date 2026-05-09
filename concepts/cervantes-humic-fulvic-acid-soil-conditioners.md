@@ -1,5 +1,5 @@
 ---
-title: Humic and Fulvic Acid as Soil Conditioners
+title: teaming-with-microbes-humic-and-fulvic-acids Acid as Soil Conditioners
 created: 2026-04-26
 tags:
   - humic-acid
@@ -10,15 +10,16 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Humic and Fulvic Acid as Soil Conditioners
 
-Humic and fulvic acids are organic compounds formed by the decomposition
+Humic and fulvic acids are [[fungal-volatile-organic-compounds-communication]] formed by the decomposition
 of plant and animal matter over long periods. These substances play
-critical roles in soil health, nutrient availability, and plant
+critical roles in soil health, [[ph-and-nutrient-availability-garden-soils]], and plant
 vitality. They are among the most valuable soil conditioners available
 to cannabis growers.
 
@@ -27,7 +28,7 @@ to cannabis growers.
 Humic acids are carbons formed by the decomposition of organic
 substances, primarily that of vegetation. Applied to substrate, humic
 acid encourages the creation of strong tissue growth and helps in
-nutrient transport. Plants grow thicker foliage and are more resistant
+[[mycelial-network-nutrient-transport-imaging-gadd]]. Plants grow thicker foliage and are more resistant
 to drought and disease.
 
 Poor soils can be improved by humic acid which enhances the
@@ -89,3 +90,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[humus-humic-acid-fulvic-acid-distinctions]]

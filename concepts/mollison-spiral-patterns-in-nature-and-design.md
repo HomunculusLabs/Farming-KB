@@ -1,5 +1,5 @@
 ---
-title: Spiral Patterns in Nature and Permaculture Design
+title: Spiral patterns-in-nature and permaculture-design
 created: 2026-04-26
 tags:
   - permaculture
@@ -70,7 +70,7 @@ The cycling spirals can be found in biological clocks, such as those
 which govern the 24-hour metabolism of flowers and fruit-flies,
 stimulated by oxygen or light pulses. Within a specific organism,
 specific pulsers exist; the 24-hour rhythm (circadian) of birds is
-controlled by the pineal gland which secretes a regular nocturnal
+controlled by the [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]] which secretes a regular nocturnal
 pulse of the hormone melatonin. The changing levels of melatonin
 trigger the annual cycles of breeding and nest-building in birds.
 
@@ -98,10 +98,10 @@ use of such forms at appropriate places in our designs.
 
 ## Permaculture Design Applications
 
-Spiral patterns have been applied directly in permaculture design:
+Spiral patterns have been applied directly [[mollison-rabbits-in-permaculture-design-and-soil-preparation]]:
 
-- **The herb spiral**: Evolved by Mollison in 1978 as a compact
-  way to grow culinary herbs. A spiral 2 m across and 1 m high
+- **The [[herb-spiral]]**: Evolved by Mollison in 1978 as a compact
+  way to grow [[holzer-medicinal-and-culinary-herbs-compendium]]. A spiral 2 m across and 1 m high
   provides ample culinary herbs in a form that creates multiple
   microclimates: moist and shady at the base, dry and exposed at
   the top, with gradients of sun, shade, moisture, and temperature
@@ -119,7 +119,7 @@ Spiral patterns have been applied directly in permaculture design:
 - **Garden access**: The spiral form creates compact access paths
   that bring the gardener into close contact with every part of
   the garden, following the principle that convoluted paths
-  enhance nutrient exchange and servicing efficiency.
+  enhance [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] and servicing efficiency.
 
 - **Compost and processing systems**: Spiral arrangements of compost
   bays or processing stations create efficient workflows where
@@ -131,10 +131,12 @@ A spiral galaxy also describes a spiral in its movement through
 space. The yang, swastika, infinity, and mandala symbols all encode
 spiral principles found throughout nature. Understanding these
 universal patterns connects permaculture design to the deepest
-principles of natural form and process.
+[[four-principles-of-natural-farming]] form and process.
 
 ## See Also
 
 - [[mollison-designers-pattern-understanding-in-design]]
 - [[mollison-tessellation-and-annidation-in-design]]
-- [[mollison-zone-one-garden-design]]
+- mollison-zone-one-garden-design
+
+- [[patterns-in-nature]]

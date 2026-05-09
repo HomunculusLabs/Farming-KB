@@ -1,23 +1,13 @@
 ---
-title: Fungal Bioreactor Types for Bioremediation
+title: singh-fungal-bioreactor-types-configurations Types for Bioremediation
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources: []
 ---
-# Fungal Bioreactor Types for Bioremediation
-
-Fungal bioreactors provide engineered systems for applying mycoremediation at scale, from laboratory treatability studies to industrial wastewater treatment and soil remediation. Reactor design must account for the unique growth characteristics of filamentous fungi, including mycelial morphology, pellet formation, oxygen requirements, and enzyme production kinetics.
-
-## Batch Stirred-Tank Reactors
-
-The simplest and earliest bioreactor configuration used for fungal remediation studies. The entire volume of contaminated solution is treated as a single batch with fungal inoculum. Key considerations include:
-
-- Retention times of 2-5 minutes for rapid biosorption processes
-- Polyelectrolyte addition for biomass flocculation and settling
-- Continuous operation achieved through sequential batch processing
-- Suitable for [[fungal-bioreactors-for-phenol-and-chlorophenol-removal]]
+# Fungal Bioreactor Types for Bioremediation Fungal bioreactors provide engineered systems for applying mycoremediation at scale, from laboratory treatability studies to industrial wastewater treatment and soil remediation. Reactor design must account for the unique growth characteristics of filamentous fungi, including mycelial morphology, pellet formation, oxygen requirements, and enzyme production kinetics. ## Batch Stirred-Tank Reactors The simplest and earliest bioreactor configuration used for fungal remediation studies. The entire volume of contaminated solution is treated as a single batch with fungal inoculum. Key considerations include: - Retention times of 2-5 minutes for rapid biosorption processes - Polyelectrolyte addition for biomass flocculation and settling - Continuous operation achieved through sequential batch processing - Suitable for [[fungal-bioreactors-for-phenol-and-chlorophenol-removal]]
 - Membrane fouling by fungal mycelium is a major operational challenge
 
 ## Rotating Drum and Stirred-Tank Bioreactors
@@ -25,26 +15,26 @@ The simplest and earliest bioreactor configuration used for fungal remediation s
 Used primarily for [[pulp-paper-effluent-treatment]]:
 
 - Rotating drum reactors provide alternating exposure to liquid and air phases
-- Stirred-tank reactors with fungal pellets achieve effective dye decolorization
+- Stirred-tank reactors with fungal pellets achieve effective [[singh-textile-dye-decolorization-fungal]]
 - Laccase and MnP production can be maintained under controlled conditions
 
 ## Solid-State Bioreactors
 
 For soil remediation applications, solid-state bioreactors use fungal-colonized substrates:
 
-- PCB-contaminated soil mixed with fungal-inoculated wood chips (Pleurotus ostreatus at 3% w/w)
+- PCB-contaminated soil mixed with fungal-inoculated [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] (Pleurotus ostreatus at 3% w/w)
 - Compost bioreactors for PAH-contaminated soil treatment
-- Tube reactors with nylon net separation between fungal growth zone and contaminated soil
+- Tube reactors with nylon net separation between [[brassinosteroid-fungal-growth-promotion]] zone and contaminated soil
 
 ## See Also
 
-- [[fungal-heavy-metal-biosorption-detailed]] for metal biosorption applications
+- [[fungal-heavy-metal-biosorption-detailed]] for [[fungal-heavy-metal-biosorption-and-detoxification]] applications
 - [[mycoremediation-textile-dye-degradation]] for dye treatment reactors
-- [[fungal-biosorption-desorption-regeneration]] for regeneration protocols
+- fungal-biosorption-desorption-regeneration for regeneration protocols
 
 ## Related
 
-- [[fungal-bioreactor-types-for-pollutant-removal]]
+- fungal-bioreactor-types-for-pollutant-removal
 - [[fungal-textile-dye-effluent-decolorization]]
 ## Practical Considerations
 
@@ -62,7 +52,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +94,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

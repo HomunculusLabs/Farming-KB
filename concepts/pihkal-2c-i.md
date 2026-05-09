@@ -35,7 +35,7 @@ Shulgin's work: heavier halogens increase both potency and duration, from
 2C-I's IUPAC name is 2-(4-iodo-2,5-dimethoxyphenyl)ethan-1-amine. It
 features the characteristic 2,5-dimethoxyphenethylamine backbone shared by
 all 2C compounds, with an iodine atom at the 4-position. The iodine's large
-atomic radius and high polarizability influence receptor binding profile
+atomic radius and high polarizability influence [[tihkal-receptor-binding-serotonin]] profile
 and metabolic stability, contributing to longer duration compared to smaller
 halogen-substituted analogues.
 
@@ -89,7 +89,7 @@ and overwhelming experiences.
 ## Pharmacology
 
 2C-I acts primarily as a serotonin 5-HT2A receptor agonist with additional
-affinity for 5-HT2C. The iodine substituent increases receptor binding
+affinity for 5-HT2C. The iodine substituent increases [[beta-glucan-receptor-binding]]
 affinity compared to smaller halogens. Some research suggests 5-HT1A
 activity, which could contribute to anxiolytic properties at lower doses.
 

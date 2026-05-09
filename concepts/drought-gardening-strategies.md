@@ -1,5 +1,5 @@
 ---
-title: Drought Gardening Strategies
+title: comparison-drought-gardening-vs-rainwater-harvesting Strategies
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -15,15 +15,15 @@ Water management is increasingly important for gardeners facing dry spells, wate
 
 ### Improving Water Retention
 
-The single most effective drought strategy is to improve the soil's ability to hold moisture. This is achieved by adding generous quantities of organic matter — compost, well-rotted [[fukuoka-natural-cover-grass-green-manure]] when vacant.
+The single most effective drought strategy is to improve the soil's ability to hold moisture. This is achieved by adding generous quantities of [[hamilton-composting-and-organic-matter-management]] — compost, well-rotted [[fukuoka-natural-cover-grass-green-manure]] when vacant.
 
 ### Mulching to Reduce Evaporation
 
-A thick layer of mulching-techniques|mulch on the soil surface dramatically reduces water loss through evaporation. Bark chippings, compost, grass cuttings, or well-rotted manure all serve this purpose. A 3in (7cm) layer of compost mulch not only retains moisture but also suppresses weeds that would otherwise compete with garden plants for water.
+A thick layer of mulching-techniques|mulch on the soil surface dramatically reduces water loss through evaporation. Bark chippings, compost, grass cuttings, or well-rotted manure all serve this purpose. A 3in (7cm) layer of [[teaming-with-microbes-compost-mulch-tea]] not only retains moisture but also suppresses weeds that would otherwise compete with garden plants for water.
 
 ### Keeping the Ground Covered
 
-Bare soil exposed to sun and wind loses moisture rapidly. Keeping the ground covered at all times — with crops, green manures, or mulches — is a fundamental principle of drought-conscious gardening. The [[comparison-cold-frame-gardening-vs-container-gardening-guide]] requires vigilant attention to watering.
+Bare soil exposed to sun and wind loses moisture rapidly. Keeping the ground covered at all times — with crops, [[jeavons-green-manures-cover-crops]], or mulches — is a fundamental principle of drought-conscious gardening. The [[comparison-cold-frame-gardening-vs-container-gardening-guide]] requires vigilant attention to watering.
 
 ### New Plantings
 
@@ -54,7 +54,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -96,4 +96,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

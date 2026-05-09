@@ -1,18 +1,18 @@
 ---
-title: Ganoderma Lucidum (Reishi) — Comprehensive Profile
+title: stamets-reishi-ganoderma-lucidum-cultivation (Reishi) — Comprehensive Profile
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+  sources: []
 ---
 
-**Source:** Mycelium Running (Paul Stamets) | **Updated:** 2026-04-18
+**Source:** [[woodlovers-mycelium-running-pathway-technique]] (Paul Stamets) | **Updated:** 2026-04-18
 
 ## Overview
 
-Known as reishi (Japanese for "divine mushroom"), ling chi (Chinese for "tree of life mushroom"), or mannen-take ("10,000-year mushroom"), this species has been used for over two millennia. The earliest mention dates to Shih-huang of the Ch'in Dynasty (221-207 B.C.). See also [[reishi-cultivation-guide]], and [[turkey-tail-trametes-versicolor]] (Trametes versicolor).
+Known as reishi (Japanese for "divine mushroom"), ling chi (Chinese for "tree of life mushroom"), or mannen-take ("10,000-year mushroom"), this species has been used for over two millennia. The earliest mention dates to Shih-huang of the Ch'in Dynasty (221-207 B.C.). See also [[reishi-cultivation-guide]], and [[turkey-tail-trametes-versicolor]] ([[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]).
 
 ## Related
 
@@ -22,7 +22,7 @@ Known as reishi (Japanese for "divine mushroom"), ling chi (Chinese for "tree of
 - [[turkey-tail-trametes-versicolor]]
 - [[medicinal-mushroom-extraction-preparation]]
 - mycorestoration
-- [[medicinal-mushroom-cardiovascular-cholesterol-research]]
+- medicinal-mushroom-cardiovascular-cholesterol-research
 ## Practical Applications
 
 Ganoderma Lucidum (Reishi) — Comprehensive Profile has a range of practical applications that make it relevant to
@@ -100,4 +100,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

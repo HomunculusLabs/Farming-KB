@@ -1,5 +1,5 @@
 ---
-title: BIS-TOM (4-Methyl-2,5-bis-(methylthio)amphetamine) - PIHKAL Entry #12
+title: BIS-TOM (4-Methyl-2,5-bis-(methylthio)amphetamine) - 2c-b-pihkal-entry-20 #12
 created: 2026-04-28
 tags: [pihkal, amphetamine, dom-analogue, thio-compound, inactive-compound]
 date: 2026-04-28
@@ -50,7 +50,7 @@ and methylation with methyl iodide/KOH.
 
 ### Step 2: Bromination
 The toluene (3.9 g) was brominated with elemental bromine
-(3.5 g) and catalytic iodine in acetic acid on the steam bath
+(3.5 g) and catalytic iodine in acetic acid on the [[scythian-cannabis-steam-bath-ritual]]
 for 1 h, giving 1.9 g of 2,5-bis-(methylthio)-4-bromotoluene
 (mp 133-134 °C from IPA).
 
@@ -97,7 +97,7 @@ more potent than corresponding amphetamines.
 BIS-TOM demonstrates the cumulative penalty of sulfur
 substitution in the 2,5-dimethoxy pattern. While single sulfur
 substitutions (as in the TOM, TOET, ALEPH, and 2C-T series)
-produce active compounds, double sulfur substitution effectively
+produce active compounds, double [[pihkal-sulfur-substitution-potency-sar]] effectively
 destroys psychedelic activity. Few psychedelic drugs contain two
 sulfur atoms, limiting SAR data for this substitution pattern.
 

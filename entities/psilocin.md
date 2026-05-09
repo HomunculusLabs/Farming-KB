@@ -16,7 +16,7 @@ classical serotonergic psychedelic and the primary
 pharmacologically active metabolite of psilocybin. It acts as a
 partial agonist at the 5-HT2A receptor, producing profound
 alterations in perception, mood, and cognition characteristic of
-the psychedelic experience.
+the [[leary-psychedelic-experience-bardo-mapping]].
 
 First isolated from Psilocybe mushrooms in 1959 by Albert Hofmann
 at Sandoz, psilocin was identified as the active principle after
@@ -40,7 +40,7 @@ circulation.
 - **pKa:** ~9.5 (amine), ~9.9 (phenol)
 
 The phenolic 4-hydroxyl is the key feature distinguishing
-psilocin from DMT, dramatically altering receptor binding —
+psilocin from DMT, dramatically altering [[tihkal-receptor-binding-serotonin]] —
 converting a short-acting tryptamine into a classical psychedelic
 with enhanced 5-HT2A affinity and longer duration (4-6 hr vs
 30-90 min for DMT). The 4-hydroxyl also makes psilocin
@@ -65,7 +65,7 @@ V pyramidal neurons, promoting entropic neural activity. The
 partial agonist profile (lower efficacy than serotonin) may
 explain favorable safety. 5-HT1A activation contributes
 anxiolytic and antidepressant effects. fMRI shows decreased
-default mode network connectivity with magnitude correlating to
+[[psilocybin-default-mode-network-ego-dissolution]] network connectivity with magnitude correlating to
 mystical experience intensity and therapeutic outcomes.
 
 ### Comparison with Related Tryptamines
@@ -102,7 +102,7 @@ transfer. Total alkaloid content ranges 0.1-3.3% dry weight.
 
 ## Natural Occurrence
 
-{w("Psilocin and psilocybin occur in 200+ species across 15+ genera:")}
+{w("[[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] occur in 200+ species across 15+ genera:")}
 
 - **Psilocybe:** P. cubensis, P. semilanceata, P. cyanescens,
   P. azurescens, P. mexicana. Potency 0.2-3.3%.
@@ -141,7 +141,9 @@ psilocybin). UN Convention Schedule I. Recent changes: Oregon
 2020, Colorado 2022, Australia 2023.
 ## See Also
 
+- [[4-ho-ept]]
+- [[norpsilocybin]]
+- [[pinoline]]
+
 - gordon-wasson
 - [[dimethyltryptamine]]
-
-- [[psilocybin]] — the phosphorylated prodrug form of psilocin.

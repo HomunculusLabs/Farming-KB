@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-**Source:** The Cannabis Health Index (Uwe Blesching) | **CHI:** 10 | **Studies:** 3 | **Updated:** 2026-04-18
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]] (Uwe Blesching) | **CHI:** 10 | **Studies:** 3 | **Updated:** 2026-04-18
 
 ## Overview
 
@@ -24,7 +24,7 @@ Three studies support cannabis for migraine treatment.
 
 **Endocannabinoid Deficiency Hypothesis (2004, Russo)**
 - Ethan Russo proposed the concept of Clinical Endocannabinoid Deficiency (CECD)
-- CECD may explain therapeutic benefits of cannabis in migraine, fibromyalgia, irritable bowel syndrome, and other treatment-resistant conditions
+- CECD may explain therapeutic benefits of cannabis in migraine, fibromyalgia, [[blesching-cannabis-irritable-bowel-syndrome]] syndrome, and other treatment-resistant conditions
 - Migraine patients may have deficient endocannabinoid levels, making supplementation beneficial
 
 **Cannabinoid Mechanisms in Migraine**
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

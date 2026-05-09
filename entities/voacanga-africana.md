@@ -24,7 +24,7 @@ sources:
 - **Genus:** Voacanga
 - **Species:** V. africana
 - **Authority:** Stapf
-- **[[nitrogen-fixing-trees-and-shrubs]] distributed across Africa and Southeast Asia. V. africana was first described by the British botanist Otto Stapf in the late 19th century. The Apocynaceae family is well known for containing psychoactive species, including [[tabernanthe-iboga]], with iboga-like visual phenomena and dream recall.
+- **[[nitrogen-fixing-trees-and-shrubs]] distributed across Africa and [[psilocybe-southeast-asia-pacific]]. V. africana was first described by the British botanist Otto Stapf in the late 19th century. The Apocynaceae family is well known for containing psychoactive species, including [[tabernanthe-iboga]], with iboga-like visual phenomena and dream recall.
 
 ### V. grandiflora
 
@@ -50,7 +50,7 @@ The bark and seeds of Voacanga africana contain up to 10% indole alkaloids of th
 
 The primary psychoactive alkaloids in V. africana are ibogaine and voacangine, both of which act on multiple receptor systems:
 
-- **Ibogaine** — acts as a NMDA receptor antagonist, kappa-opioid receptor agonist, and serotonin reuptake inhibitor; produces a complex psychedelic experience with oneirophrenic (dream-like) qualities
+- **Ibogaine** — acts as a NMDA receptor antagonist, kappa-opioid receptor agonist, and serotonin reuptake inhibitor; produces a complex [[leary-psychedelic-experience-bardo-mapping]] with oneirophrenic (dream-like) qualities
 - **Voacangine** — a precursor to ibogaine with similar but milder effects
 - **Voccamine** — has demonstrated antiarrhythmic and cardiotonic properties
 
@@ -58,14 +58,14 @@ The anti-addictive properties of ibogaine have received considerable scientific 
 
 ## Historical Documentation
 
-The psychoactive properties of V. africana were first brought to wider attention through the work of Richard Evans Schultes and others who documented the ethnobotany of West Africa in the mid-20th century. The chemical characterization of Voacanga alkaloids followed, with ibogaine being first isolated from Voacanga species before its more famous identification in Tabernanthe iboga. Modern interest in V. africana has been driven primarily by the search for sustainable sources of ibogaine for addiction treatment research.
+The psychoactive properties of V. africana were first brought to wider attention through the work of Richard [[richard-evans-schultes-updated]] and others who documented the ethnobotany of West Africa in the mid-20th century. The chemical characterization of Voacanga alkaloids followed, with ibogaine being first isolated from Voacanga species before its more famous identification in [[plants-of-the-gods-tabernanthe-iboga-chemistry]]. Modern interest in V. africana has been driven primarily by the search for sustainable sources of ibogaine for addiction treatment research.
 
 ## Comparison with Other Iboga-Type Plants
 
 V. africana can be compared with other plants containing iboga-type alkaloids:
 
 - [[tabernanthe-iboga]] — Iboga, the primary source of ibogaine in African ethnobotany
-- [[anadenanthera-peregrina]] — Yopo, for comparison of African and South American psychoactive plants
+- [[anadenanthera-peregrina]] — Yopo, for comparison of African and [[chiric-caspi-brunfelsia-south-american-hallucinogen]] psychoactive plants
 - rauwolfia-serpentina — another Apocynaceae plant with psychoactive alkaloids
 ## Practical Considerations
 
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

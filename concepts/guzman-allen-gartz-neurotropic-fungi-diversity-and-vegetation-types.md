@@ -1,5 +1,5 @@
 ---
-title: Neurotropic Fungi Diversity and Vegetation Types
+title: challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification Diversity and Vegetation Types
 created: 2026-04-28
 tags:
   - vegetation-types
@@ -16,7 +16,7 @@ type: concept
 
 # Neurotropic Fungi Diversity and Vegetation Types
 
-The distribution of neurotropic fungi is strongly correlated with specific
+The [[global-distribution-of-neurotropic-fungi]] fungi is strongly correlated with specific
 vegetation types. Guzmán, Allen and Gartz (1998/2000) provided detailed
 analysis of how different forest types, from tropical rainforests to
 coniferous woodlands, support varying levels of neurotropic species diversity.
@@ -38,7 +38,7 @@ optimal habitat for Psilocybe species.
 ## Tropical Forests: Underexplored Diversity
 
 Despite having relatively fewer documented species, tropical forests likely
-harbor substantial undiscovered neurotropic fungal diversity. The Amazon
+harbor substantial undiscovered [[mexico-center-neurotropic-fungal-biodiversity]]. The Amazon
 basin, Congo basin, and Southeast Asian rainforests remain mycologically
 poorly explored. Mexico's tropical forests have yielded only 4 confirmed
 neurotropic Psilocybe species, but this number likely reflects collection
@@ -53,8 +53,8 @@ Mexican endemic species are restricted to specific forest types: P.
 aztecorum to alpine grasslands above treeline, P. caerulescens to tropical
 deciduous forests, and various species to specific cloud forest types. The
 narrow ecological requirements of many species, combined with habitat
-fragmentation, suggest that some endemic neurotropic fungi may be threatened
-by deforestation and climate change. The relationships between vegetation,
+fragmentation, suggest that some [[guzman-allen-gartz-cosmopolitan-and-endemic-neurotropic-species]] fungi may be threatened
+by deforestation and [[dighton-fungi-climate-change-feedback]]. The relationships between vegetation,
 elevation, and species distribution are further explored in
 [[guzman-allen-gartz-cosmopolitan-and-endemic-neurotropic-species]] achieve their distributions.
 
@@ -71,6 +71,13 @@ than better-studied coniferous forests, likely applies globally and should
 guide future collecting strategies.
 
 ## See Also
+
+- [[neurotropic-fungi-colombia-species-diversity-and-ecology]]
+
+- [[bolete-fungi-appalachian-region]]
+
+- [[guzman-allen-gartz-mexico-center-neurotropic-diversity]]
+- [[guzman-neurotropic-fungi-genus-diversity-overview]]
 
 - [[guzman-allen-gartz-amazonia-and-unexplored-neotropical-regions]]
 - [[guzman-allen-gartz-hymenogastraceae-minor-neurotropic-genera]]
@@ -94,4 +101,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

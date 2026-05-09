@@ -10,18 +10,18 @@ sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
 
 # Lactic Acid Bacteria Serum (LABS)
 
-**Lactic Acid Bacteria Serum (LABS)** is a key biological input in **Korean Natural Farming (KNF)**, developed by Master Cho Han-Kyu. LABS is a concentrated preparation of beneficial lactic acid bacteria, primarily *Lactobacillus* species, collected from rice wash water and cultured through a simple milk fermentation process. It serves as a microbial inoculant, soil conditioner, disease suppressant, and composting accelerator in the KNF system.
+**Lactic Acid Bacteria Serum (LABS)** is a key biological input in **Korean [[comparison-natural-farming-vs-permaculture]] (KNF)**, developed by Master Cho Han-Kyu. LABS is a concentrated preparation of beneficial lactic acid bacteria, primarily *Lactobacillus* species, collected from rice wash water and cultured through a simple milk fermentation process. It serves as a microbial inoculant, soil conditioner, disease suppressant, and composting accelerator in the KNF system.
 
 ## Purpose and Function
 
 In the KNF framework, LABS serves multiple critical functions:
 
 1. **Pathogen suppression**: Lactic acid bacteria produce bacteriocins and organic acids that inhibit pathogenic bacteria and fungi in soil and on plant surfaces
-2. **Nutrient cycling**: LAB solubilize minerals and break down organic matter, making nutrients more available to plants
+2. **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: LAB solubilize minerals and break down organic matter, making nutrients more available to plants
 3. **Compost acceleration**: Inoculation with LABS speeds up decomposition of organic materials and reduces composting odors
-4. **Odor control**: Applied to animal housing and manure, LABS suppress malodorous anaerobic bacteria and reduce ammonia emissions
-5. **Plant immune stimulation**: Foliar application of LABS may stimulate plant defense responses through induced systemic resistance
-6. **Fermentation support**: LABS provides the lactic acid bacteria needed for other KNF preparations, including Fermented Plant Juice (FPJ) and Oriental Herbal Nutrient (OHN)
+4. **Odor control**: Applied to animal [[mollison-designers-rabbit-housing-and-manure-management]], LABS suppress malodorous anaerobic bacteria and reduce ammonia emissions
+5. **Plant immune stimulation**: Foliar application of LABS may stimulate plant defense responses through [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance
+6. **Fermentation support**: LABS provides the lactic acid bacteria needed for other KNF preparations, including [[bionutrients-lab-fermented-plant-juice-fpj]] (FPJ) and Oriental Herbal Nutrient (OHN)
 
 ## Collection and Production
 
@@ -77,7 +77,7 @@ The KNF approach to LABS offers several advantages over commercial microbial ino
 
 - **Cost**: LABS can be produced for a fraction of the cost of commercial biological products, using rice, water, and milk
 - **Local adaptation**: The bacteria collected from locally grown rice are already adapted to local conditions
-- **Diversity**: The natural fermentation process produces a more diverse microbial community than single-strain commercial products
+- **Diversity**: The natural fermentation process produces a more diverse [[edaphic-factors-microbial-community-structure]] than single-strain commercial products
 - **Self-sufficiency**: Farmers are not dependent on external suppliers for biological inputs
 - **Freshness**: LABS can be produced as needed, ensuring viability of the microorganisms
 

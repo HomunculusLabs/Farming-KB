@@ -9,7 +9,7 @@ sources: []
 
 # Yakuruna: Water Spirits of the Amazon
 
-The yakuruna are aquatic spirit beings central to Amazonian shamanic cosmology. They inhabit the underwater realms of rivers and lakes, dwelling in cities of great splendor beneath the surface. Yakuruna appear in ayahuasca visions as humanoid figures, sometimes with green hair, who rest in serpent-hammocks among groves of golden trees. They are allies of the muraya (high-degree shamans) and serve as teachers, guides, and protectors.
+The yakuruna are aquatic [[metzner-spirit-beings-multiple-realities-entheogens]] central to Amazonian shamanic cosmology. They inhabit the underwater realms of rivers and lakes, dwelling in cities of great splendor beneath the surface. Yakuruna appear in [[amaringo-ayahuasca-visions-shipibo-iconography]] as humanoid figures, sometimes with green hair, who rest in serpent-hammocks among groves of golden trees. They are allies of the muraya (high-degree shamans) and serve as teachers, guides, and protectors.
 
 ## Types of Yakuruna
 
@@ -63,9 +63,11 @@ The muraya's power is specifically associated with dominion over the water realm
 
 The Yakuruna represent a fundamentally different aspect of Amazonian cosmology than the terrestrial and aerial spirit beings. While beings like Sachamama and Huairamama are tied to specific physical locations, the Yakuruna inhabit an entire parallel dimension — the underwater world. This cosmological framework reflects the Amazon's own geography, where rivers and waterways are as central to life as the forest itself.
 
-The aquatic realm is viewed as a source of primordial knowledge, accessible only to the most advanced practitioners. In ceremonies, the Yakuruna are sometimes perceived as bringing gifts of underwater plants, stones, or substances that possess unique healing properties not found in the terrestrial world. The yakuruna are also associated with the control of aquatic animals and fish, and Muraya shamans may call upon them to ensure good fishing or to protect against dangerous river creatures.
+The aquatic realm is viewed as a source of primordial knowledge, accessible only to the most advanced practitioners. In ceremonies, the Yakuruna are sometimes perceived as bringing gifts of underwater plants, stones, or substances that possess unique healing properties not found in the terrestrial world. The yakuruna are also associated with the control of [[fungi-aquatic-animals-pathogens-parasites]] and fish, and Muraya shamans may call upon them to ensure good fishing or to protect against dangerous river creatures.
 
-## Related Topics
+## Related
+
+- [[yakuruna-water-spirits]] Topics
 
 - [[sachamama-the-mother-of-the-forest]] -- the terrestrial counterpart to aquatic spirits
 - Huairamama Wind Serpent Of The Amazon -- the sky realm spirits
@@ -90,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

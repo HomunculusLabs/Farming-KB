@@ -14,7 +14,7 @@ sources:
 
 # Tussilago farfara
 
-Tussilago farfara, commonly known as coltsfoot, is a low-growing herbaceous perennial in the aster family (Asteraceae), native to Europe and parts of Asia. One of the earliest flowering plants in temperate regions, coltsfoot sends up dandelion-like yellow flowers in late winter and early spring before any leaves emerge — a phenological strategy reflected in its genus name, derived from the Latin *tussis* (cough) and *ago* (to drive away), and its medieval Latin name *filius ante patrem* ("the son before the father"), referring to the flowers appearing before the foliage. Coltsfoot has an extensive history of use in European and Asian traditional medicine as a premier respiratory remedy, particularly for coughs, bronchitis, and asthma. However, modern safety concerns regarding pyrrolizidine alkaloids (PAs) have significantly tempered its therapeutic use.
+Tussilago farfara, commonly known as coltsfoot, is a low-growing herbaceous perennial in the aster family (Asteraceae), native to Europe and parts of Asia. One of the earliest flowering plants in temperate regions, coltsfoot sends up dandelion-like yellow flowers in late winter and [[coleman-overwintered-onions-and-early-spring-crops]] before any leaves emerge — a phenological strategy reflected in its genus name, derived from the Latin *tussis* (cough) and *ago* (to drive away), and its medieval Latin name *filius ante patrem* ("the son before the father"), referring to the flowers appearing before the foliage. Coltsfoot has an extensive history of use in European and Asian traditional medicine as a premier respiratory remedy, particularly for coughs, bronchitis, and asthma. However, modern safety concerns regarding pyrrolizidine alkaloids (PAs) have significantly tempered its therapeutic use.
 
 ## Taxonomy and Classification
 
@@ -43,7 +43,7 @@ The plant possesses an extensive, creeping rhizome system that grows horizontall
 ### Native Range
 Native to Europe (from the British Isles to western Russia), North Africa (Morocco, Algeria), and temperate Asia (Turkey, the Caucasus, Siberia, China, Japan, Korea). The species has been widely naturalized outside its native range:
 
-- **North America:** Established in eastern Canada and the northeastern and midwestern United States since the 17th century, introduced by European settlers for medicinal purposes
+- **[[psilocybin-north-america-pacific-northwest]]:** Established in eastern Canada and the northeastern and midwestern [[dmt-containing-plants-united-states-halpern]] since the 17th century, introduced by European settlers for medicinal purposes
 - **South America:** Naturalized in parts of Argentina and Chile
 - **New Zealand and Australia:** Established and classified as an invasive weed in some regions
 
@@ -54,7 +54,7 @@ Coltsfoot is a pioneer species characteristic of disturbed, nutrient-poor soils:
 - **Roadsides and railway embankments:** Frequently found on gravelly, compacted substrates
 - **Clay pits and quarries:** Colonizes bare, mineral-rich substrates rapidly
 - **Waste ground and urban margins:** Common in vacant lots, demolition sites, and construction zones
-- **Agricultural land:** A persistent weed of arable fields, particularly on heavy clay soils
+- **[[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]]:** A persistent weed of arable fields, particularly on heavy clay soils
 
 ## Medicinal Properties
 
@@ -65,7 +65,7 @@ Coltsfoot has been one of the most important [[permaculture-design]], coltsfoot 
 Coltsfoot functions as a dynamic accumulator, mining minerals from subsoil layers through its deep rhizome system:
 
 - **Zinc:** Exceptionally high zinc accumulation in leaf tissue — among the highest of any temperate herb
-- **Calcium:** Moderate to high accumulation, contributing calcium-rich organic matter to the soil surface
+- **Calcium:** Moderate to high accumulation, contributing calcium-rich [[hamilton-composting-and-organic-matter-management]] to the soil surface
 - **Potassium and phosphorus:** Moderate cycling through annual leaf decomposition
 
 ### Invasive Potential
@@ -76,7 +76,7 @@ The early flowering period (February–April) provides a critical nectar and pol
 
 ## Cultivation and Management
 
-- **Propagation:** Division of rhizome sections (5–10 cm segments) in autumn or early spring; seed germination requires light and cool temperatures
+- **Propagation:** Division of rhizome sections (5–10 cm segments) in autumn or early spring; [[cannabis-seed-germination-methods]] requires light and cool temperatures
 - **Hardiness:** USDA Zones 3–7; extremely cold-tolerant, emerging through snow cover
 - **Soil:** Tolerates a wide range including heavy clay, gravel, and nutrient-poor substrates; prefers moist but well-drained soils
 - **Light:** Full sun to partial shade

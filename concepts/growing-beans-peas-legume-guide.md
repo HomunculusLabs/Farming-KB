@@ -1,5 +1,5 @@
 ---
-title: Growing Beans and Peas - Legume Guide
+title: solomon-growing-beans-and-peas and Peas - Legume Guide
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -15,9 +15,9 @@ Steve Solomon provides detailed guidance on growing all types of legumes, correc
 
 ## The Nitrogen Myth
 
-Everybody thinks legumes enrich soil by making nitrates. Actually, all nitrates formed in the roots are immediately incorporated into above-ground parts -- leaves and then seeds. Thus legumes do NOT supply fertility to companion crops. However, if their crops are turned under while still green and lush (as green manure), their decomposition does add significant quantities of nitrates for the following crop.
+Everybody thinks legumes enrich soil by making nitrates. Actually, all nitrates formed in the roots are immediately incorporated into above-ground parts -- leaves and then seeds. Thus legumes do NOT supply fertility to companion crops. However, if their crops are turned under while still green and lush (as [[comparison-green-manure-guide-vs-mulch-types-and-effects]]), their decomposition does add significant quantities of nitrates for the following crop.
 
-Nitrates are made by specialized soil-dwelling microorganisms that beneficially colonize legume roots, forming nodules. These organisms will not be present in soil that is highly depleted of organic matter.
+Nitrates are made by specialized soil-dwelling microorganisms that beneficially colonize legume roots, forming nodules. These organisms will not be present in soil that is highly depleted of [[hamilton-composting-and-organic-matter-management]].
 
 ## Soil Requirements
 
@@ -33,7 +33,7 @@ When starting a new garden in humus-deficient soil, assume nitrate-forming bacte
 - They sprout in chilly soils of spring, but it's best to chit (pre-sprout) seeds for earliest possible harvest.
 - Bush varieties don't climb; they mature in concentrated fashion in massed multiple-rowed plantings across wide raised beds.
 - Plant two seeds in every spot, then thin to the best plant after they are established.
-- Bush varieties leave the soil in magnificent condition -- excellent as a potentially edible green manure on any beds worked in early spring but not needed for a few months.
+- Bush varieties leave the soil in magnificent condition -- excellent as a potentially edible green manure on any beds worked in [[coleman-overwintered-onions-and-early-spring-crops]] but not needed for a few months.
 
 ### Succession Planting
 
@@ -58,14 +58,14 @@ Climbing varieties (Alderman, Tall Telephone, original Sugar Snap) allow more ex
 - Where summers are hot and steamy, sow again after worst heat passes for autumn harvest.
 - Bush varieties yield for only a month at most.
 - Climbing varieties take a week or two longer to begin yielding but continue bearing as long as roots have room to grow and weather suits.
-- Bush varieties have much smaller root systems and are far less drought tolerant.
+- Bush varieties have much smaller root systems and are far less [[permplant-carob-drought-tolerant-food-tree]].
 - Climbing varieties have superior flavor.
 
 ### Trellising Climbing Beans
 
 - 8-foot (245 cm) tough poles lashed together near the top as a tepee. One plant per pole.
 - Or: stout 7-foot posts at row ends, strong wire stretched between them at top and 5-6 inches above ground, with string run top to bottom.
-- Most important: allow plants enough growing room. Vines can fork many times and one plant may produce quite a few runners.
+- Most important: allow plants enough [[duggar-mushroom-growing-room-design]]. Vines can fork many times and one plant may produce quite a few runners.
 
 ### Runner Beans (Phaseolus multifloris)
 
@@ -93,7 +93,9 @@ Climbing varieties (Alderman, Tall Telephone, original Sugar Snap) allow more ex
 - Sow all varieties at the same time; as later seed formation happens, the earlier flowers it may form, and the larger the harvest.
 - Prepare by boiling when pods have become fat but are not yet hard.
 
-## Related Concepts
+## Related
+
+- [[growing-by-chunking-guide]] Concepts
 
 - [[david-holmgren]]
 - [[garden-nutrition-and-diet]]

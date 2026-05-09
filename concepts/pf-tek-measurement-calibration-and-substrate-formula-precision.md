@@ -1,5 +1,5 @@
 ---
-title: "PF Tek Measurement Calibration and Substrate Formula Precision"
+title: "PF pf tek measurement calibration and substrate formula precision Calibration and pf-tek-substrate-formula-details Precision"
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 topics: measurement calibration, substrate formula, metric conversions, brown rice powder, vermiculite
 created: 2026-05-08
@@ -9,8 +9,8 @@ created: 2026-05-08
 
 ## Overview
 
-Psilocybe Fanaticus emphasised that measurement accuracy is critical
-to successful mushroom cultivation. The PF Tek substrate formula uses
+[[pf-tek-psilocybe-fanaticus-cultivation-method]] emphasised that measurement accuracy is critical
+to successful [[accessible-mushroom-cultivation-for-disabilities]]. The PF [[pf-tek-substrate-moisture-diagnosis-and-correction]] formula uses
 small volumes in half-pint jars, where even minor measurement errors
 can lead to substrate failure. Fanaticus specifically warned that
 inaccurate measuring cups "will set up certain failure or diminished
@@ -109,7 +109,7 @@ The correct substrate moisture level should feel "damp and cohesive"
 when mixed. Fanaticus advised keeping detailed notes on formula
 variations to identify the mix that produces the best fruiting:
 
-- **Too dry**: evidenced by spore germination but halted growth at
+- **Too dry**: evidenced by [[growing-gourmet-spore-germination-strain-isolation]] but halted growth at
   a certain point — the mycelium spreads but then stops
 - **Too wet**: the substrate becomes sloppy, waterlogged, and
   susceptible to bacterial contamination

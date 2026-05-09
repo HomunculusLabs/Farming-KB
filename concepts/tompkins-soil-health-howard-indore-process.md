@@ -4,7 +4,7 @@
 ## Overview
 
 Sir Albert Howard, a British agricultural scientist working in India
-in the early twentieth century, developed what became known as the
+in the early [[coleman-louis-savier-twentieth-century-maraicher]], developed what became known as the
 "Indore process" of humus production, a revolutionary approach to
 soil fertility that challenged the emerging dominance of chemical
 fertilizers. His work demonstrated that the health of plants, animals,
@@ -20,12 +20,12 @@ connects directly to the [[rudolf-steiner]].
 
 ## See Also
 
-- [[singh-fungal-plant-growth-regulators-production]] - Chemical signaling
+- [[singh-fungal-plant-growth-regulators-production]] - [[plant-hormones-and-chemical-signaling-systems]]
   between plants and their environment
-- [[singh-fungal-plant-growth-regulators-production]] - Natural growth regulation systems
+
 ## Practical Applications
 
-Tompkins Soil Health Howard Indore Process has a range of practical applications that make it relevant to
+Tompkins Soil Health tompkins soil health howard indore process Process has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -100,4 +100,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

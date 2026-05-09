@@ -19,7 +19,7 @@ aliases:
   - Sabinen
   - Δ-4-Carene Isomer
 sources:
-  - Bohlmann F, Zeisberg R, Klein E (1971). "New Natural Products from Essential Oils." Phytochemistry 10(12): 3253–3263.
+  - Bohlmann F, Zeisberg R, Klein E (1971). "New Natural Products from comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap." Phytochemistry 10(12): 3253–3263.
   - Adams RP (2007). "Identification of Essential Oil Components by Gas Chromatography/Mass Spectrometry." Allured Publishing.
   - Gershenzon J, Dudareva N (2007). "The Function of Terpene Natural Products in the Natural World." Nature Chemical Biology 3(7): 408–414.
   - Rice PJ, Coats JR (1994). "Insecticidal Properties of Several Monoterpenoid Essential Oils." Pesticide Science 42(4): 261–266.
@@ -33,7 +33,7 @@ Sabinene is a bicyclic monoterpene found in the essential oils of numerous plant
 
 It exists as two enantiomers, (−)-α-sabinene and (+)-β-sabinene, with (−)-α-sabinene being the more commonly occurring natural form.
 
-The compound is a significant constituent of black pepper, juniper berry, and several cannabis cultivars.
+The compound is a significant constituent of [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], juniper berry, and several cannabis cultivars.
 
 Sabinene has demonstrated antimicrobial, anti-inflammatory, and insecticidal activities in preclinical studies.
 
@@ -85,7 +85,7 @@ Sabinene exhibits several biological activities relevant to both medicinal and a
 
 Activity against Gram-negative bacteria is generally weaker but still measurable at higher concentrations.
 
-Antifungal activity has been documented against *Candida albicans* and *Aspergillus niger*.
+Antifungal activity has been documented against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and *Aspergillus niger*.
 
 **Anti-inflammatory effects:** In vitro studies show sabinene reduces pro-inflammatory cytokine production including TNF-α and IL-6.
 
@@ -105,7 +105,7 @@ It is more commonly found in sativa-dominant and hybrid cultivars, though it is 
 
 Sabinene typically occurs alongside pinene, myrcene, and limonene in cannabis essential oil profiles.
 
-The entourage effect hypothesis suggests sabinene may modulate the pharmacological effects of THC and CBD.
+The [[cannabis-terpene-entourage-effect-profiles]] hypothesis suggests sabinene may modulate the pharmacological effects of THC and CBD.
 
 However, specific pharmacological interactions between sabinene and cannabinoids remain poorly characterized.
 

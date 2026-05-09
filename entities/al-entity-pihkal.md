@@ -1,5 +1,5 @@
 ---
-title: "AL (4-Allyloxy-3,5-dimethoxy-PEA) -- PIHKAL Entry #2"
+title: "AL (4-Allyloxy-3,5-dimethoxy-PEA) -- 2c-b-pihkal-entry-20 #2"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -48,7 +48,7 @@ PIHKAL entry #2. 4-Allyloxy-3,5-dimethoxy-PEA.
 > unusual ease of free association. All throughout the session, the
 > talk was high in spirits and somehow indicative of an inner
 > excitement. Affect was entirely pleasant, but not exalting nor
-> conducive to insight or to problem solving. There were no
+> conducive to insight or to [[maitake-problem-solving-troubleshooting]]. There were no
 > requirements for withdrawal into the self. The material seemed wholly
 > social in nature. No visual, auditory or olfactory sharpening was in
 > evidence. The plateau for this material seemed unusually long. I was
@@ -111,7 +111,7 @@ to 0 deg C and vigorously stirred. There was added, dropwise, 2.8 mL
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

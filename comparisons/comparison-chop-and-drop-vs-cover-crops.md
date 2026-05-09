@@ -11,7 +11,7 @@ type: comparison
 # Chop and Drop vs Cover Crops
 
 ## Overview
-Chop and drop mulching and cover cropping are two of the most effective
+Chop and drop [[solomon-mulching-and-cover-cropping]] cropping are two of the most effective
 practices for building soil organic matter, suppressing weeds, and cycling
 nutrients in sustainable growing systems. While they share similar goals —
 feeding soil biology, retaining moisture, and improving soil structure — they
@@ -25,7 +25,7 @@ maximize soil health with minimal external inputs.
 Cover crops are plants grown primarily to benefit the soil rather than for
 harvest. They protect soil from erosion, suppress weeds, fix atmospheric
 nitrogen (legumes), scavenge residual soil nutrients, build organic matter,
-break compaction with deep taproots, and attract beneficial insects. A well-
+break compaction with deep taproots, and attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. A well-
 planned cover crop program is foundational to any regenerative homestead or
 farm, providing multiple soil health benefits simultaneously.
 Cover crops are selected by season and purpose. Spring options include crimson
@@ -36,7 +36,7 @@ weeds). Summer covers include cowpeas, sorghum-sudangrass, and sunn hemp. Fall
 and winter covers feature cereal rye, hairy vetch, clovers, and Austrian
 winter peas. Each species brings specific benefits, and multi-species mixes
 often outperform monocultures by providing complementary root architectures
-and nutrient cycling.
+and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 The key distinction from chop and drop is intentionality. Cover crops are
 planted specifically for soil improvement and are typically terminated before
 they set seed, either by mowing, crimping, tilling, or grazing. The terminated
@@ -53,9 +53,9 @@ structure, and biological activity.
 | Planting Required | No (uses what grows) | Yes (seed purchase and sowing) |
 | Timing | Ongoing during growing season | Between main crop cycles |
 | Biomass Source | Perennials, trees, weeds | Annual species chosen for purpose |
-| Nitrogen Fixation | Only if legumes present | Yes (when legume cover crops used) |
+| [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] | Only if legumes present | Yes (when legume cover crops used) |
 | Weed Suppression | Good (mulch layer) | Excellent (competition + allelopathy) |
-| Erosion Control | Moderate | Excellent (root systems hold soil) |
+| [[permplant-willows-salix-erosion-control-fodder]] | Moderate | Excellent (root systems hold soil) |
 | Labor | Low (cut and leave) | Moderate (plant, manage, terminate) |
 | Cost | Free (uses existing plants) | Seed cost ($20-80/acre) |
 | Compaction Relief | Minimal | Excellent (deep taproot species) |
@@ -88,7 +88,7 @@ The most effective soil-building strategies use both approaches
 synergistically. Plant cover crops in annual beds during fallow periods, then
 terminate them using chop and drop techniques — cutting the cover crop and
 leaving the biomass in place as mulch for the subsequent main crop. In
-perennial systems, interplant nitrogen-fixing and dynamic accumulator species
+perennial systems, interplant nitrogen-fixing and [[nutrient-dynamic-accumulator-reference]] species
 among productive plants, then chop and drop their biomass throughout the
 season. This combination ensures continuous soil coverage, maximizes biomass
 production, and creates a self-sustaining cycle where soil improvement

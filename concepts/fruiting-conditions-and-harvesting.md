@@ -14,7 +14,7 @@ type: concept
 ## Overview
 
 The fruiting stage begins when colonized substrate cakes are transferred from
-their jars into the dual chambered terrarium. This is where the actual
+their jars into the dual [[dual-chambered-terrarium-design]]. This is where the actual
 mushrooms develop and mature. Proper environmental conditions, particularly
 humidity, temperature, and light, are essential for successful fruiting.
 Understanding when and how to harvest is equally important for maximizing both
@@ -25,7 +25,7 @@ yield and potency.
 The moment the fungus cake is removed from the jar is referred to as the
 "birthday." The best time for this is when primordia (tiny worm-like structures
 with reddish heads) appear on the cake while still inside the jar. The cake is
-slid out onto an old jar lid that serves as a base, then any water droplets on
+slid out onto an old [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] that serves as a base, then any water droplets on
 the cake are daubed with tissue paper. The cake goes immediately into the
 terrarium for the fruiting cycle.
 
@@ -39,7 +39,7 @@ the target. The dual chambered terrarium achieves this through the spray shield
 system, which molecularizes water spray into a fine mist that envelops the
 cakes without directly wetting them.
 
-Symptoms of low humidity include:
+Symptoms of [[pf-tek-low-humidity-symptoms-and-remediation]] include:
 - Fuzzy white [[spore]] collection and display.
 
 ### Aborts

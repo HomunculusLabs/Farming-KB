@@ -1,5 +1,5 @@
 ---
-title: Compost Tea Brewing Equipment (Ingham)
+title: comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide ingham-aact-brewing-equipment-reliability-machine-testing-standards (Ingham)
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Field Guide I for Actively Aerated Compost Tea, Dr. Elaine Ingham, Soil Foodweb Inc.
+Source: The [[ghouled-field-guide-historical-context]] I for Actively [[actively-aerated-compost-tea]] Tea, Dr. Elaine Ingham, Soil Foodweb Inc.
 
 Ingham provides guidance on selecting, using, and maintaining compost tea brewing equipment, based on years of testing different machines at Soil Foodweb Inc.
 
@@ -34,7 +34,7 @@ Key design considerations:
 
 ### The Air Pump
 - Must be adequate for the tank volume and the oxygen demand of growing organisms
-- Oxygen demand depends on: food additions, compost quality, and water temperature
+- Oxygen demand depends on: food additions, [[aact-compost-quality-standards-ingham]], and water temperature
 - Bacteria can use up all oxygen in any amount of water within minutes when well-fed
 - More powerful is not always better — supersaturation can kill organisms
 
@@ -97,7 +97,7 @@ If the compost has documented adequate fungi but they aren't appearing in the te
 The SARE grant study compared multiple machines using a standardized recipe:
 - 0.5% molasses
 - Same amount of kelp
-- 0.25% humic acid
+- 0.25% [[comparison-humic-acid-vs-fulvic-acid]]
 - Best available compost
 
 Results showed significant variation between machines in their ability to extract and grow beneficial organisms.
@@ -133,6 +133,8 @@ See also: [[aact-troubleshooting-ingham]], [[compost-tea-aact]]
 - [[aact-compost-quality-standards-ingham]]
 
 ## See Also
+
+- [[ingham-compost-tea-holding-time-shelf-life]]
 
 - [[ingham-charcoal-biochar-compost-tea]]
 - [[ingham-light-uv-effects-compost-tea]]

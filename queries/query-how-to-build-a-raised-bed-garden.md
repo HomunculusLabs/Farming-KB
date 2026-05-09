@@ -5,6 +5,7 @@ tags: [query, gardening, raised-beds, soil-preparation, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 type: query
 ---
@@ -12,10 +13,10 @@ type: query
 # How to Build a Raised Bed Garden
 
 ## Short Answer
-A raised bed garden is an elevated frame filled with quality soil that improves drainage, reduces compaction, and extends your growing season. Building one involves choosing a sunny site, constructing a frame from safe materials, filling it with a nutrient-rich soil blend, and planting with intensive spacing techniques.
+A raised bed garden is an elevated frame filled with quality soil that improves drainage, reduces compaction, and extends your [[savory-growing-season-and-non-growing-season-management]]. Building one involves choosing a sunny site, constructing a frame from safe materials, filling it with a nutrient-rich soil blend, and planting with intensive spacing techniques.
 
 ## Key Points
-- Raised beds improve drainage, warm earlier in spring, reduce weeds, and let you create ideal soil regardless of what lies beneath
+- Raised beds improve drainage, warm earlier in spring, reduce weeds, and let you create ideal soil regardless of what [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]]
 - Build frames from untreated cedar or redwood at 4 feet wide by 8 feet long and 10 to 12 inches tall
 - Fill with a blend of 50% topsoil, 30% compost, and 20% aeration material rather than expensive bagged mixes
 - Use intensive grid spacing rather than traditional rows to maximize production per square foot
@@ -33,7 +34,7 @@ By elevating the growing area 6 to 24 inches, raised beds improve drainage in we
 
 The [[biointensive-bed-preparation]] method recommends double-digging the native soil beneath the raised bed frame. This loosens compaction and improves root penetration into the subsoil. This step is optional for beds 12 inches or taller but highly recommended for shallower beds.
 
-Consider proximity to a water source when planning your layout. Position beds within reach of a hose or plan to install drip irrigation from the start. Access to a compost pile nearby also simplifies ongoing top-dressing and maintenance.
+Consider proximity to a water source when planning your layout. Position beds within reach of a hose or plan to install [[comparison-drip-irrigation-vs-passive-irrigation]] from the start. Access to a [[mushroom-cultivator-compost-pile-management]] nearby also simplifies ongoing top-dressing and maintenance.
 
 ### Choosing Construction Materials
 Frame construction materials should be safe, durable, and affordable. The table below compares the most common options for home gardeners:
@@ -67,15 +68,15 @@ For a full guide on building hugelkultur beds, see [[square-foot-gardening]] met
 - **9 per square:** spinach, bush beans, beets
 - **16 per square:** carrots, radishes, onions, parsnips
 
-This intensive approach can produce two to five times more food per square foot than conventional row gardening. Succession planting works especially well in raised beds because the soil warms quickly and beds can be replanted immediately after each harvest.
+This intensive approach can produce two to five times more food per square foot than conventional row gardening. [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] works especially well in raised beds because the soil warms quickly and beds can be replanted immediately after each harvest.
 
 ### Maintenance and Seasonal Care
 Raised beds require less ongoing maintenance than in-ground gardens, but a few seasonal tasks keep them productive year after year:
 - **Top-dress** with 1 to 2 inches of finished compost in early spring before planting
 - **Mulch** with straw, leaves, or wood chips to retain moisture and suppress weeds
 - **Rotate crops** by plant family each season to prevent disease buildup and nutrient depletion
-- **Apply compost tea** every 2 to 4 weeks during the growing season for a microbial boost
+- **Apply [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]]** every 2 to 4 weeks during the growing season for a microbial boost
 
-For detailed instructions on brewing compost tea, see [[query-what-is-wattle-and-daub-and-how-do-i-build-with-it]] Questions
+For detailed instructions on brewing compost tea, see query-what-is-wattle-and-daub-and-how-do-i-build-with-it Questions
 - [[holzer-raised-bed-techniques-hugelkultur]]
 - [[query-how-to-make-compost-tea-for-my-plants]]

@@ -1,5 +1,5 @@
 ---
-title: "Northern Lights Cannabis Strain"
+title: "northern-lights Cannabis Strain"
 created: 2026-04-28
 type: strain
 tags:
@@ -20,8 +20,8 @@ sources:
   - "Sensi Seeds (1985). Northern Lights — strain history and breeding program. Amsterdam."
   - "Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press."
   - "ElSohly, M.A., et al. (2016). Changes in cannabis potency over the last two decades. Biological Psychiatry, 79(7), 613-619."
-  - "Mudge, E.M., et al. (2018). Cannabis sativa L. cultivar nomenclature. Journal of AOAC International, 101(5), 1436-1442."
-  - "Hazekamp, A. & Fischedick, J.T. (2012). Cannabis — from cultivar to chemovar. Drug Testing and Analysis, 4(7-8), 660-667."
+  - "Mudge, E.M., et al. (2018). [[cannabis-sativa]] L. cultivar nomenclature. Journal of AOAC International, 101(5), 1436-1442."
+  - "Hazekamp, A. & Fischedick, J.T. (2012). Cannabis — from cultivar to chemovar. Drug [[soil-testing-and-analysis]], 4(7-8), 660-667."
   - "Lewis, M.A., et al. (2018). Parsing cannabis's complex chemotaxonomy. American Journal of Botany, 105(9), 1-10."
   - "https://www.leafly.com/strains/northern-lights"
 ---
@@ -34,7 +34,7 @@ sources:
 
 | Parent | Origin | Contribution |
 |--------|--------|-------------|
-| **Afghani Indica #1** | Landrace from Hindu Kush mountains, Afghanistan | Pure indica morphology, resin density, sedative effects, hashish quality |
+| **Afghani Indica #1** | Landrace from [[hindu-kush]] mountains, Afghanistan | Pure indica morphology, resin density, sedative effects, hashish quality |
 | **Afghani Indica #2** | Separate Afghani landrace selection | Genetic diversity, vigor, additional resin profile complexity |
 
 Northern Lights was developed from **11 pure Afghani indica seeds** acquired in the late 1970s and selectively bred in the Pacific Northwest (primarily Washington state) before being brought to Amsterdam by **Nevil Schoenmakers** of **The Seed Bank** (later merged into Sensi Seeds). The breeding program involved extensive inbreeding and selection over multiple generations to stabilize desirable traits:
@@ -44,7 +44,7 @@ Northern Lights was developed from **11 pure Afghani indica seeds** acquired in 
 - **NL#5**: The most famous selection — the most potent and resinous of the line; parent to countless hybrids
 - **NL#9**: A less common selection with distinct aromatic profile
 
-The **NL#5** cut became the reference standard and genetic backbone for numerous award-winning hybrids including Super Silver Haze, Jack Herer, Shiva Skunk, and many others. Sensi Seeds acquired the full Northern Lights program and continues to offer original genetics to this day.
+The **NL#5** cut became the reference standard and genetic backbone for numerous award-winning hybrids including Super Silver Haze, [[jack-herer]], Shiva Skunk, and many others. Sensi Seeds acquired the full Northern Lights program and continues to offer original genetics to this day.
 
 ## Morphology and Growing Characteristics
 
@@ -111,7 +111,7 @@ Northern Lights is widely regarded as one of the **best strains for sleep** in e
 Northern Lights is arguably the **single most influential strain** in modern cannabis breeding history. Its genetic contribution includes:
 
 - **Direct parent**: Super Silver Haze, Jack Herer, Shiva Skunk, NL x Haze, Northern Lights #5 x Haze, many Sensi Seeds hybrids
-- **Grandparent/contributor**: Blue Dream (through Blueberry x NL), El Niño, Medicine Man, White Rhino, and hundreds more
+- **Grandparent/contributor**: Blue Dream (through Blueberry x NL), El Niño, Medicine Man, [[white-rhino]], and hundreds more
 - **Indica reference standard**: NL#5 is frequently used as the indica benchmark in breeding programs worldwide
 - **Competition record**: Multiple High Times Cannabis Cup wins (1988, 1989, 1990); numerous additional competition victories globally
 

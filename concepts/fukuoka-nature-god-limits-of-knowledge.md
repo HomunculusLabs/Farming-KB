@@ -5,7 +5,8 @@ updated: 2026-04-16
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka on Nature, God, and the Limits of Knowledge
 
@@ -23,7 +24,7 @@ In his chapter "Nature, God, and Man," Fukuoka develops a universalist theology 
 
 ## The Vision of Totality
 
-Fukuoka recounts a transformative experience in his youth: "One day, while still a young man, I saw suddenly the totality of God." This vision, which he kept hidden for nearly fifty years, became the foundation of his life and farming philosophy. Yet he immediately turned away from it, choosing instead "the road of a dilettante farmer tilling a lost paradise."
+Fukuoka recounts a transformative experience in his youth: "One day, while still a young man, I saw suddenly the totality of God." This vision, which he kept hidden for nearly fifty years, became the foundation of his life and [[cho-natural-farming-philosophy-of-non-interference]]. Yet he immediately turned away from it, choosing instead "the road of a dilettante farmer tilling a lost paradise."
 
 ## Nature as the Only True Teacher
 
@@ -54,7 +55,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -96,4 +97,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

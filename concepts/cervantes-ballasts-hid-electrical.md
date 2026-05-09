@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -19,7 +20,7 @@ type: concept
 Ballasts are critical components of high intensity discharge (HID)
 lighting systems that regulate voltage and starting requirements for
 lamps. Jorge Cervantes provides essential guidance on selecting,
-installing, and maintaining ballasts for indoor cannabis cultivation.
+installing, and maintaining ballasts for indoor [[query-how-does-no-till-cannabis-cultivation-work]].
 
 ## What a Ballast Does
 
@@ -27,7 +28,7 @@ A ballast regulates specific starting requirements and line voltage
 for specific HID lamps. Without a properly matched ballast, lamps will
 not ignite correctly, will produce incorrect light output, and will
 burn out prematurely. The ballast is essentially the engine of any
-HID lighting system, converting and controlling the electrical current
+[[cannabis-hid-lighting-specifications]] system, converting and controlling the electrical current
 that powers the lamp.
 
 ## Types of Ballasts
@@ -41,7 +42,7 @@ The "core" or transformer is housed in a protective metal box along
 with a capacitor (for HPS and some metal halides) and a starter.
 
 Magnetic ballasts generate significant heat and produce an audible
-hum. Placing ballasts outside the grow room or in a separate, well-
+hum. Placing ballasts outside the [[cannabis-grow-room-setup]] or in a separate, well-
 ventilated area reduces the heat load on the
 [[cervantes-lighting-systems]] and [[cervantes-grow-room-design-advanced]]. Multiple HID systems require
 careful circuit planning to avoid overloading household circuits. A
@@ -63,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

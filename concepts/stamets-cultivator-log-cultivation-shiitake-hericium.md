@@ -1,22 +1,23 @@
 ---
-title: Log Cultivation for Shiitake and Wood-Loving Mushrooms
+title: comparison-mushroom-log-cultivation-vs-monotub-cultivation for Shiitake and Wood-Loving Mushrooms
 created: 2026-04-28
 tags: [log-cultivation, shiitake, wood-decomposers, outdoor-methods, natural-culture]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
 
 # Log Cultivation for Shiitake and Wood-Loving Mushrooms
 
-Log cultivation is the traditional method for growing shiitake (Lentinus
+Log cultivation is the traditional [[query-what-is-the-kratky-method-for-growing-cannabis]] shiitake (Lentinus
 edodes) and other wood-decomposing mushrooms. Using freshly cut hardwood
 logs provides a semi-sterile substrate requiring no special treatment,
 making it one of the most effective and accessible methods for home
 cultivators. This approach complements indoor sawdust-based methods
-described in [[stamets-shiitake-and-stropharia-cultivation]].
+described in stamets-shiitake-and-stropharia-cultivation.
 
 ## Log Selection and Preparation
 
@@ -31,7 +32,9 @@ of sarcoma-180 and several other kinds of tumors. Additional research
 by Cochran (1978), Tokita et al. (1972), and Tokuda and Kaneda (1979)
 has described further beneficial properties of this species.
 
-## Related Topics
+## Related
+
+- [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]] Topics
 
 - [[stamets-shiitake-fruiting-management]]
 - [[stamets-outdoor-natural-culture-methods]]
@@ -112,4 +115,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

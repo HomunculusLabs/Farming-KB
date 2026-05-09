@@ -1,5 +1,5 @@
 ---
-title: Paddy Straw Mushroom Cultivation (Volvariella volvacea)
+title: Paddy Straw accessible-mushroom-cultivation-for-disabilities (Volvariella volvacea)
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -11,7 +11,7 @@ sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 
 Updated: 2026-04-18
 
-Paddy straw mushroom (Volvariella volvacea) is the most popular mushroom in rural areas of the Philippines and throughout Southeast Asia. Naturally growing on paddy straw and decomposing banana leaves, it has been cultivated for generations. Known locally as kabuteng dayami or kabuteng saging in the Philippines, it thrives in tropical temperatures (30-35C).
+Paddy straw mushroom (Volvariella volvacea) is the most popular mushroom in rural areas of the Philippines and throughout [[psilocybe-southeast-asia-pacific]]. Naturally growing on paddy straw and decomposing banana leaves, it has been cultivated for generations. Known locally as kabuteng dayami or kabuteng saging in the Philippines, it thrives in tropical temperatures (30-35C).
 
 ## Production Methods
 
@@ -19,9 +19,9 @@ Paddy straw mushroom (Volvariella volvacea) is the most popular mushroom in rura
 
 Uses agricultural wastes: dried paddy straw, rice stubbles, water lily, banana leaves, and stalks. The choice depends on local availability.
 
-**Site selection:** Area free from ants, termites, and rodents. Preferably under trees with wide canopy. Spread rice hulls and burn to ash to eliminate pests and soil-borne pathogens.
+**[[fukuoka-creating-natural-farm-site-selection-establishment]]:** Area free from ants, termites, and rodents. Preferably under trees with wide canopy. Spread rice hulls and burn to ash to eliminate pests and soil-borne pathogens.
 
-**Bed preparation:**
+**[[azurescens-outdoor-bed-preparation-woodchips]]:**
 1. Sun-dry collected bedding materials
 2. Trim and bundle substrates into 12-inch lengths x 2-inch diameter bundles
 3. Soak bundles for 12 hours in clean water
@@ -78,17 +78,17 @@ Philippine climate: maximum temperature 30-35C, rainfall 55-225mm. Substrates (p
 
 ### Zero Farm Wastes Integration
 
-Spent substrate from paddy straw mushroom production can be further utilized:
+[[oyster-mushroom-spent-substrate-recycling]] from paddy straw mushroom production can be further utilized:
 - Substrate for [[volvariella-bombycina]]
 
 - [[pleurotus-tuberregium-sclerotia-cultivation]]
-- [[tropical-mushroom-spawn-production-materials]]
+- tropical-mushroom-spawn-production-materials
 
 ## Sources
 
-- Reyes, R.G., Abella, E.A., Eguchi, F., Iijima, T., Higaki, M., and Quimio, T.H. Chapter 11 in Oyster Mushroom Cultivation (MushWorld, 2004)
+- Reyes, R.G., Abella, E.A., Eguchi, F., Iijima, T., Higaki, M., and Quimio, T.H. Chapter 11 in [[cotter-oyster-mushroom-cultivation]] Cultivation (MushWorld, 2004)
 - Quimio, T.H. 1993. Indoor Cultivation of Volvariella volvacea
 - Chang, S.T. and Quimio, T.H. Tropical Mushrooms
-- [[mushroom-sawdust-bran-spawn-preparation]]
+- mushroom-sawdust-bran-spawn-preparation
 - [[oyster-mushroom-growing-house-types]]
-- [[oyster-mushroom-cultivation-economics]]
+- oyster-mushroom-cultivation-economics

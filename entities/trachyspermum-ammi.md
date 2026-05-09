@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-Trachyspermum ammi, commonly known as ajwain, ajowan, or bishop's weed, is an annual herbaceous plant in the family Apiaceae. It is native to the eastern Mediterranean, Iran, and the Indian subcontinent, where it has been cultivated for millennia as both a spice and a medicinal herb.
+Trachyspermum ammi, commonly known as ajwain, ajowan, or bishop's weed, is an annual herbaceous plant in the family Apiaceae. It is native to the eastern Mediterranean, Iran, and the Indian subcontinent, where it has been cultivated for millennia as both a spice and a [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]].
 
 The small, oval fruits (often called seeds) are the primary plant part used. They possess a distinctive thyme-like aroma due to their high thymol content and are a cornerstone of Indian, Middle Eastern, and North African cuisines.
 
@@ -49,11 +49,11 @@ Inflorescences are compound umbels, 3–5 cm in diameter, with 8–16 rays. Flow
 
 The fruit is a cremocarp (schizocarp) composed of two mericarps, each 1.5–3 mm long.
 
-The fruits are brownish-grey, ovoid, and ribbed, with a strong aromatic odor when crushed. Each mericarp contains a single seed and has five prominent primary ribs with oil ducts (vittae) beneath them.
+The fruits are brownish-grey, ovoid, and ribbed, with a strong aromatic odor when crushed. Each mericarp contains a [[cervantes-selfing-single-seed-descent]] and has five prominent primary ribs with oil ducts (vittae) beneath them.
 
 ## Chemistry and Pharmacology
 
-**Essential oil composition:** The dried fruits yield 2.5–5.0% essential oil by steam distillation. The principal constituent is **thymol** (35–60%), followed by **p-cymene** (15–30%), **γ-terpinene** (5–12%), **β-pinene** (2–8%), and **limonene** (2–5%).
+**[[permaculture-designers-manual-essential-oil-plants]] composition:** The dried fruits yield 2.5–5.0% essential oil by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]]. The principal constituent is **thymol** (35–60%), followed by **p-cymene** (15–30%), **γ-terpinene** (5–12%), **β-pinene** (2–8%), and **limonene** (2–5%).
 
 Other minor constituents include α-pinene, myrcene, α-thujene, carvacrol, and camphor. The essential oil profile varies with genotype, growing region, and harvest stage.
 
@@ -63,7 +63,7 @@ Other minor constituents include α-pinene, myrcene, α-thujene, carvacrol, and 
 
 - **Carminative and antispasmodic:** Thymol relaxes smooth muscle of the gastrointestinal tract, reducing gas and bloating. This is the most well-validated traditional use.
 
-- **Antimicrobial:** The essential oil exhibits broad-spectrum activity against Gram-positive bacteria (Staphylococcus aureus, Bacillus subtilis), Gram-negative bacteria (Escherichia coli, Pseudomonas aeruginosa), and Candida albicans. MIC values range from 0.1–1.0 mg/mL.
+- **Antimicrobial:** The essential oil exhibits broad-spectrum activity against Gram-positive bacteria (Staphylococcus aureus, Bacillus subtilis), Gram-negative bacteria (Escherichia coli, Pseudomonas aeruginosa), and [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]. MIC values range from 0.1–1.0 mg/mL.
 
 - **Anti-inflammatory:** Oral administration of the aqueous extract significantly reduced carrageenan-induced paw edema in rat models, comparable to indomethacin at 100 mg/kg dose.
 
@@ -87,7 +87,7 @@ T. ammi is cultivated primarily in India (Rajasthan, Gujarat, Madhya Pradesh, Ut
 
 **Growing requirements:** The crop performs best in sandy loam to loamy soils with good drainage. Optimal soil pH is 6.5–8.0. It is drought-tolerant once established but requires moderate moisture during germination and early growth.
 
-Seeds are sown directly in October–November (rabi season in India) at a rate of 3–4 kg/ha. Row spacing is 30–45 cm with 15–20 cm within rows. The crop matures in 120–140 days.
+Seeds are sown directly in October–November (rabi season in India) at a rate of 3–4 kg/ha. [[wide-row-spacing-intensive-gardening-comparison]] is 30–45 cm with 15–20 cm within rows. The crop matures in 120–140 days.
 
 Flowering occurs 70–80 days after sowing, with fruit maturation at 110–130 days. Harvest is timed when the lower umbels turn brown. Plants are cut at ground level, dried in the sun, and threshed.
 
@@ -108,6 +108,6 @@ In **folk medicine** across South Asia, ajwain is given for colic in infants (di
 - [[crocus-sativus]]
 - [[pimpinella-anisum]]
 - nigella-sativa
-- [[ferula-assafoetida]]
+- ferula-assafoetida
 - [[cinnamomum-verum]]
 - [[borago-officinalis]]

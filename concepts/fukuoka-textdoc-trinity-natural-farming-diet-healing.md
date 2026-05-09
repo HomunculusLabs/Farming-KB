@@ -1,5 +1,5 @@
 ---
-title: The Trinity of Natural Farming, Diet, and Healing
+title: The Trinity of comparison-natural-farming-vs-permaculture, Diet, and Healing
 created: 2026-04-28
 tags:
   - natural-farming
@@ -47,14 +47,14 @@ creates natural health and natural people.
 Man's ideals today are in a state of confusion. A hundred schools of thought on
 natural diet and natural farming compete for attention. Bookstores are flooded
 with books on natural diet, and magazines and journals are full of methods that
-depart from scientific farming. But to Fukuoka, these all look pretty much the
+depart from [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]. But to Fukuoka, these all look pretty much the
 same. They are all on the same level and amount to no more than just one field of
-scientific agriculture.
+[[fukuoka-critique-scientific-agriculture-civilization]].
 
 Each new approach merely substitutes one set of intellectual frameworks for
 another. Whether it is macrobiotics, organic certification, permaculture design,
-or nutritional science, these are all products of discriminating knowledge that
-miss the essential point: nature transcends human understanding and cannot be
+or nutritional science, these are all products of [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] that
+miss the essential point: [[fukuoka-nature-transcends-human-knowledge]] human understanding and cannot be
 captured by any system.
 
 ## Creating True People
@@ -93,7 +93,7 @@ in gratitude, lives the best and most perfect life possible.
 Illness begins when man moves away from nature, and the severity with which he
 is afflicted is proportional to his estrangement. This is why a sick person who
 returns to nature is cured. As mankind distances itself from nature, the number
-of sick people rises rapidly and desires for a return to nature intensify.
+of sick people rises rapidly and desires for a [[emcdda-return-to-nature-megatrend-mushroom-appeal]] intensify.
 
 But attempts to return are thwarted because people do not know what nature is,
 nor do they know what a natural body is. Living a primitive life deep in the

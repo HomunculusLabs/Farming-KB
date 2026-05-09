@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo IM, Sharnoff SD, Sharnoff S (2001). *Lichens of North America*. Yale University Press.
+  - Brodo IM, Sharnoff SD, Sharnoff S (2001). *Lichens of psilocybin-north-america-pacific-northwest*. Yale University Press.
   - Nash TH III (2008). *Lichen Biology*. 2nd ed. Cambridge University Press.
   - Huneck S, Yoshimura I (1996). *Identification of Lichen Substances*. Springer.
   - Hauck M, Spribille T (2005). "The significance of substrate pH for substrate selection." *Lichenologist* 37(6): 577-585.
@@ -27,7 +27,7 @@ The species forms grey to brownish-grey rosettes with distinctly hollow, inflate
 that are brown and pustulate underneath. This characteristic pouching of the lower lobe
 surface distinguishes it from most other foliose genera.
 
-*H. physodes* is a well-established bioindicator of air quality and heavy metal
+*H. physodes* is a well-established bioindicator of [[cervantes-air-quality-ventilation]] and heavy metal
 accumulation. Its tolerance for moderate pollution levels and its ability to concentrate
 metals make it a standard organism in environmental monitoring programs.
 
@@ -55,7 +55,7 @@ protocetraric acid. The cortex contains atranorin.
 
 ## Distribution and Habitat
 
-*Hypogymnia physodes* has a circumpolar boreal and temperate distribution. It occurs
+*Hypogymnia physodes* has a circumpolar boreal and [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]]. It occurs
 throughout Europe, northern Asia, North America, and extends into mountainous regions at
 lower latitudes.
 
@@ -83,11 +83,11 @@ as secondary medullary constituents.
 The cortex contains atranorin, contributing to the grey coloration and providing UV
 protection. The medullary depsidones serve antimicrobial and anti-herbivory functions.
 
-Physodic acid has documented antioxidant, anti-inflammatory, and antimicrobial properties
+Physodic acid has documented antioxidant, anti-inflammatory, and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]
 in laboratory studies. These bioactivities have attracted interest from pharmaceutical
 researchers, though no clinical applications have been developed.
 
-The species accumulates heavy metals including lead, cadmium, mercury, and arsenic from
+The species accumulates [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] including lead, cadmium, mercury, and arsenic from
 atmospheric deposition. Metal concentration in thalli correlates with ambient levels,
 making it useful for passive biomonitoring of atmospheric contamination.
 
@@ -101,7 +101,7 @@ Its tolerance for moderate pollution makes it a pioneering epiphyte in recoverin
 areas. As air quality improves, *H. physodes* often appears before more sensitive
 species, facilitating subsequent lichen community development.
 
-The species is a standard bioindicator in European and North American air quality
+The species is a standard bioindicator in European and [[growing-gourmet-north-american-reishi-species]] air quality
 monitoring networks. Lichen zones based on its presence and vigor are used to map
 deposition patterns of sulfur dioxide, nitrogen, and heavy metals.
 

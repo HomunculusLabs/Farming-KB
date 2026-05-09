@@ -20,11 +20,11 @@ Boron is a [[cannabis-calcium-nutrient]] are poor candidates for [[cannabis-calc
 - Apply hydroponic micronutrients containing boron
 - Hydroponic gardeners should keep boron dosage below 20 ppm because boron quickly becomes toxic if concentrated in the solution
 
-During flowering, boron, calcium, and iron move slowly. A supplemental foliar dose often speeds the growth when it slows. However, calcium and boron are poor candidates for foliar feeding because they translocate poorly, so results may be limited.
+During flowering, boron, calcium, and iron move slowly. A supplemental foliar dose often speeds the growth when it slows. However, calcium and boron are poor candidates for [[comparison-foliar-feeding-vs-compost-tea-nutrients]] because they translocate poorly, so results may be limited.
 
 ## Toxicity
 
-Boron can quickly become toxic if concentrated in the nutrient solution. This makes boron one of the micronutrients that requires careful monitoring in hydroponic systems.
+Boron can quickly become toxic if concentrated in the [[cannabis-nutrient-solution-preparation]]. This makes boron one of the micronutrients that requires careful monitoring in hydroponic systems.
 
 ### Symptoms
 
@@ -46,11 +46,11 @@ Avoid using excessive amounts of boric acid-based insecticides. Keep boron level
 
 ## Common Mistakes
 
-- Confusing boron deficiency tip burn with HID light burn (very similar appearance)
+- Confusing [[query-how-to-fix-boron-deficiency-in-cannabis]] tip burn with HID [[query-how-to-prevent-and-treat-cannabis-light-burn-and-heat-stress]] (very similar appearance)
 - Over-applying boric acid in hydroponics (narrow range between optimal and toxic)
 - Using boric acid-based insecticides without accounting for cumulative boron in the nutrient solution
 - Relying on foliar feeding for boron correction (poor translocation through leaves)
-- Failing to consider boron when calcium deficiency symptoms persist despite adequate calcium levels
+- Failing to consider boron when [[knf-calcium-deficiency-symptoms]] symptoms persist despite adequate calcium levels
 - Not distinguishing between above-ground and below-ground boron deficiency symptoms
 
 ## See Also
@@ -58,6 +58,7 @@ Avoid using excessive amounts of boric acid-based insecticides. Keep boron level
 - [[cannabis-iron-nutrient]]
 - [[cannabis-nutrient-toxicity]]
 - [[cannabis-nutrient-solution-preparation]]
+
 ## Practical Considerations
 
 Successful implementation of Cannabis Boron Nutrient requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

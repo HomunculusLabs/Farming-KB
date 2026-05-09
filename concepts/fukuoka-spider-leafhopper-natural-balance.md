@@ -1,11 +1,12 @@
 ---
-title: Fukuoka: Spider and Leafhopper Natural Balance
+title: Fukuoka: Spider and fukuoka spider leafhopper natural balance Balance
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
 tags: [fukuoka, natural-farming]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/masanobu-fukuoka-the-one-straw-revolution.md
 ---
 
@@ -17,7 +18,7 @@ Researchers at the Kochi Testing Centre once came to investigate why there were 
 
 When the leafhoppers are few, their natural predators are far more numerous in the untreated fields than in the sprayed fields.
 
-This observation is a direct challenge to the foundational assumption of chemical agriculture: that insects must be controlled through human intervention. Fukuoka's fields demonstrated that the natural ecosystem, when left undisturbed, maintains pest populations at acceptable levels without any help from humans. The chemicals were not just unnecessary -- they were counterproductive, destroying the very predators that kept pest populations in check.
+This observation is a direct challenge to the foundational assumption of chemical agriculture: that insects must be controlled through human intervention. Fukuoka's fields demonstrated that the [[fukuoka-natural-ecosystem-food-chain-interconnection]], when left undisturbed, maintains pest populations at acceptable levels without any help from humans. The chemicals were not just unnecessary -- they were counterproductive, destroying the very predators that kept pest populations in check.
 
 ## The Shifting Balance of Predators
 
@@ -35,7 +36,7 @@ The spider-leafhopper dynamic directly supports Fukuoka's [[fukuoka-natural-frui
 
 3. Biodiversity provides resilience: The shifting balance among multiple predator species means that pest control does not depend on any single species. If one predator declines, another fills the ecological niche.
 
-4. The no-intervention principle: The most effective pest management strategy is to do nothing -- to trust the [[fukuoka-spider-swarm-natural-predator-balance]] Concepts
+4. The no-intervention principle: The most effective [[cannabis-pest-management-guide]] strategy is to do nothing -- to trust the [[fukuoka-spider-swarm-natural-predator-balance]] Concepts
 
 - [[fukuoka-pest-ecology]]
 
@@ -45,13 +46,13 @@ The spider-leafhopper dynamic directly supports Fukuoka's [[fukuoka-natural-frui
 
 - fukuoka spider leafhopper natural balance
 
-- [[fukuoka-natural-way-of-farming-theory-of-natural-farming]], Fukuoka presents a detailed case study of how pesticide use triggers cascading ecological disruptions, drawing on his personal experience with a loquat botrytis outbreak and his laboratory research on fungal cross-breeding.
+- [[fukuoka-natural-way-of-farming-theory-of-natural-farming]], Fukuoka presents a detailed case study of how pesticide use triggers cascading ecological disruptions, drawing on his personal experience with a loquat [[fukuoka-textdoc-botrytis-outbreak-pesticide-microbial-mutation]] and his laboratory research on fungal cross-breeding.
 
 ## The Loquat Gray Mold Outbreak
 
 Fukuoka's village was noted for its Karakawa loquats. When loquat flowers began rotting year after year, villagers blamed cold weather. Fukuoka investigated and found the corollas covered in botrytis fungus spores. He recommended spraying, and the local horticulture cooperative organized a village-wide pesticide program that brought the organism under control.
 
-But Fukuoka asked the deeper question: why had this outbreak occurred in the first place? His theory implicated the postwar spraying of new pesticides for citrus disease control, combined with four specific factors:
+But Fukuoka asked the deeper question: why had this outbreak occurred in the first place? His theory implicated the postwar spraying of new pesticides for citrus [[hamilton-pest-and-disease-control-organic]], combined with four specific factors:
 
 1. **Interplanting of citrus trees in loquat groves** due to the citrus production boom
 2. **Transition from clear cultivation to mulching and sod cultivation**, creating a soil surface environment of increased moisture ideal for microbial propagation
@@ -70,7 +71,7 @@ Fukuoka describes the botrytis fungus life cycle in detail. The fungus remains d
 
 Fukuoka conducted cross-breeding experiments between the resin disease fungus attacking lemon and grapefruit trees in the United States and the fungus attacking Satsuma oranges and summer oranges in Japan. Although these bore different scientific names and were thought to be different species, "mycelial conjugation took place and ascospores were formed. By crossing these eight spores in various ways, I was able to produce different strains."
 
-This demonstrated that fungal pathogens can cross-breed to produce new variants -- a finding with direct implications for pesticide resistance.
+This demonstrated that [[bloomfield-fungal-pathogens-and-parasites]] can cross-breed to produce new variants -- a finding with direct implications for pesticide resistance.
 
 ## The Matsutake Connection
 

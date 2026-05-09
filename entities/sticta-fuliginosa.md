@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. Natural History Museum Publications."
-  - "Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of North America. Yale University Press."
+  - "Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press."
   - "Huneck, S. & Yoshimura, I. (1996). Identification of Lichen Substances. Springer."
   - "James, P.W. et al. (2006). \"Sticta.\" In: The Lichen Flora of Great Britain and Ireland, 2nd supp. British Lichen Society."
 ---
@@ -26,7 +26,7 @@ The species is one of the most visually distinctive lichens in temperate forests
 
 *Sticta fuliginosa* has a long history in European traditional medicine, where it was collected as a pulmonary remedy under the name "lungwort lichen." It was used in treatments for respiratory complaints from the 16th century onward.
 
-The species is an obligate cyanolichen, requiring both a green alga (*Dictyochloropsis*) and a cyanobacterium (*Nostoc*) as photobionts. This tripartite association enables nitrogen fixation and enhances survival in shaded, nutrient-poor microhabitats.
+The species is an obligate cyanolichen, requiring both a green alga (*Dictyochloropsis*) and a cyanobacterium (*Nostoc*) as photobionts. This tripartite association enables [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and enhances survival in shaded, nutrient-poor microhabitats.
 
 ## Taxonomy and Morphology
 
@@ -58,7 +58,7 @@ Isidia and soredia are absent, limiting vegetative dispersal. Reproduction depen
 
 ## Distribution and Habitat
 
-*Sticta fuliginosa* has a predominantly oceanic temperate distribution. In Europe, it occurs from western Norway and the British Isles through western France, northern Iberia, and along the Atlantic coast.
+*Sticta fuliginosa* has a predominantly oceanic [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]]. In Europe, it occurs from western Norway and the British Isles through western France, northern Iberia, and along the Atlantic coast.
 
 The species is most abundant in hyperoceanic regions with high rainfall, frequent fog, and narrow temperature ranges. It is rare or absent in continental interiors with more extreme seasonal climates.
 
@@ -121,6 +121,8 @@ The species is not currently used in mainstream herbal medicine. Commercial harv
 - ***Peltigera leucophlebia*** — Freckle pelt, brown upper surface with white flecks of cyanobacterial colonies visible through thallus. Grows on mossy substrates and soil. Tripartite like *S. fuliginosa*.
 
 ## See Also
+
+- [[sticta-limbata]]
 
 - [[sticta-sylvatica]] — Tree lungwort, closest congener
 - [[peltigera-canina]] — Dog pelt lichen, ground-dwelling foliose cyanolichen

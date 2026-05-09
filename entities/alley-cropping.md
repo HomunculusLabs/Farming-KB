@@ -12,8 +12,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Nair, P.K.R. (2012). "Agroforestry: The Future of Global Land Use." Springer.
-  - Garrett, H.E.G. (2009). "North American Agroforestry: An Integrated Science and Practice." American Society of Agronomy.
-  - Jose, S. (2009). "Agroforestry for Ecosystem Services and Environmental Benefits." Agroforestry Systems, 76(1), 1–10.
+  - Garrett, H.E.G. (2009). "[[growing-gourmet-north-american-reishi-species]] Agroforestry: An Integrated Science and Practice." American Society of Agronomy.
+  - Jose, S. (2009). "Agroforestry for [[biodiversity-of-fungi-ecosystem-services-agriculture]] and Environmental Benefits." Agroforestry Systems, 76(1), 1–10.
   - Gold, M.A. & Garrett, H.E. (2009). "Agroforestry Systems." In: Encyclopedia of Soil Science.
 ---
 
@@ -40,7 +40,7 @@ rows, depending on tree species, crop requirements, and machinery access.
 Key design variables include tree-row orientation (ideally north-south to
 minimize shade competition in temperate zones), alley width, tree species
 selection, and root-pruning management. The ratio of tree to crop area
-determines the balance between woody and agricultural production.
+determines the balance between woody and [[fukuoka-agricultural-production-net-energy-deduction]].
 
 Temporal management involves synchronizing tree canopy management with crop
 growth cycles. In humid tropics, trees may be heavily pruned during peak
@@ -70,12 +70,12 @@ reducing crop management inputs.
 ## Environmental Benefits
 
 Alley cropping delivers multiple ecosystem services beyond crop production.
-Soil erosion control is significantly improved compared to open-field
+Soil [[permplant-willows-salix-erosion-control-fodder]] is significantly improved compared to open-field
 agriculture — tree rows act as barriers reducing wind and water erosion.
 
 The practice enhances soil organic matter through leaf litter decomposition
 and root turnover. In systems with nitrogen-fixing trees, biological
-nitrogen fixation can add 40–160 kg N/ha/year to the soil, reducing
+[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] can add 40–160 kg N/ha/year to the soil, reducing
 fertilizer requirements for inter-row crops.
 
 Biodiversity is enhanced through habitat creation. The tree rows serve
@@ -114,7 +114,7 @@ establishment benefits from weed control, irrigation during establishment,
 and protection from browsing animals.
 
 Ongoing management includes periodic tree pruning (coppicing or pollarding
-at 1–3 year intervals), nutrient management, and pest monitoring. Root
+at 1–3 year intervals), [[green-cannabis-grow-bible-nutrient-management-ppm]], and pest monitoring. Root
 pruning with subsoiling equipment may be needed to reduce tree-crop root
 competition in some systems.
 

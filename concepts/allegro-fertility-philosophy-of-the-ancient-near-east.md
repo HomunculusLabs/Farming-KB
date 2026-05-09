@@ -1,5 +1,5 @@
 ---
-title: Fertility Philosophy of the Ancient Near East (Allegro)
+title: allegro fertility philosophy of the ancient near east of the Ancient ancient-cannabis-use-near-east-and-egypt (Allegro)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -10,11 +10,11 @@ sources:
 
 # Fertility Philosophy of the Ancient Near East
 
-In John Allegro's "The Sacred Mushroom and the Cross," the foundational worldview underlying all ancient Near Eastern religion is identified as a coherent fertility philosophy. This was not primitive animism but a sophisticated system of thought that saw all creative power as fundamentally sexual and generative, traceable to the earliest written records of ancient Sumer.
+In John Allegro's "The [[allegro-the-sacred-mushroom-amanita-identification]] and the Cross," the foundational worldview underlying all ancient Near Eastern religion is identified as a coherent fertility philosophy. This was not primitive animism but a sophisticated system of thought that saw all creative power as fundamentally sexual and generative, traceable to the earliest written records of ancient Sumer.
 
 ## The Cosmic Penis and Heavenly Semen
 
-The core reasoning of ancient fertility theology was direct and powerful: since rain makes crops grow, it must contain the seed of life. In human reproduction this seed is spermatozoa, ejected from the penis at orgasm. Therefore rain was understood as heavenly semen — the all-powerful creator, God himself. The most forceful spurting of this "seed" was accompanied by thunder and the shrieking wind. This was the "voice" of God.
+The core reasoning of ancient fertility theology was direct and powerful: since rain makes [[fukuoka-textdoc-crops-grow-own-accord-independence-fertilizer]], it must contain the seed of life. In human reproduction this seed is spermatozoa, ejected from the penis at orgasm. Therefore rain was understood as heavenly semen — the all-powerful creator, God himself. The most forceful spurting of this "seed" was accompanied by thunder and the shrieking wind. This was the "voice" of God.
 
 Somewhere above the sky a mighty penis reaches orgasm that shakes the heavens. The "lips" of the penis-tip, the glans, open, and the divine seed shoots forth and is borne by the wind to earth. As saliva can be seen mixed with breath during forceful human speech, so the "speaking" of the divine penis is accompanied by a powerful blast of wind — the holy, creative spirit — bearing the "spittle" of semen.
 
@@ -50,7 +50,7 @@ The seed of God was supremely holy — whether appearing as rain, sap or resin o
 
 ## Law as Outpouring
 
-God was the ultimate source of justice. In Semitic the same words are used for "justice" and religious "alms-giving," and specifically in the Old Testament for "rain." The Hebrew Torah (Law) is literally the "outpouring"; the "lawgiver" or "teacher" is the "outpourer," properly of "semen, grace, favour." Kings and priests were "shepherds" — their task primarily that of promoting the fecundity and enrichment of the land.
+God was the ultimate source of justice. In Semitic the same words are used for "justice" and religious "alms-giving," and specifically in the [[allegro-old-testament-figures-as-fertility-deities]] for "rain." The Hebrew Torah (Law) is literally the "outpouring"; the "lawgiver" or "teacher" is the "outpourer," properly of "semen, grace, favour." Kings and priests were "shepherds" — their task primarily that of promoting the fecundity and enrichment of the land.
 
 ## The Dream of Becoming God
 
@@ -58,12 +58,12 @@ The dream of man was to become God — omnipotent, no longer fearful of the elem
 
 ## Scholarly Significance and Criticism
 
-Allegro's interpretation of death and resurrection mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
+Allegro's interpretation of [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
 
 ## See Also
 - [[allegro-philological-methodology]]
 - [[allegro-fungal-iconography-in-ancient-art]]
-- [[controversy-sacred-mushroom-theory]]
+- controversy-sacred-mushroom-theory
 - [[allegro-names-of-the-gods-and-their-fertility-origins]]
 - [[allegro-criticism-rebuttal]]
 
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

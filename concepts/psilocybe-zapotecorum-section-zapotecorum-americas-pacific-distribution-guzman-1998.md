@@ -1,5 +1,5 @@
 ---
-title: Psilocybe zapotecorum Section Zapotecorum: Americas Pacific Distribution
+title: Psilocybe psilocybe zapotecorum section zapotecorum americas pacific distribution guzman 1998 Zapotecorum: Americas Pacific Distribution
 created: 2026-05-06
 tags: mycology, psilocybe, zapotecorum, aucklandii, biogeography, trans-pacific, section-zapotecorum, guzman-1998
 type: concept
@@ -11,15 +11,15 @@ sources: "Guzmán, Allen & Gartz (1998)"
 # Psilocybe zapotecorum Section Zapotecorum: Americas Pacific Distribution
 
 Section Zapotecorum of the genus Psilocybe represents one of the most
-biogeographically significant groups of neurotropic fungi, with a
+biogeographically significant groups of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]], with a
 distribution spanning from Mesoamerica through South America to the
 Pacific Islands, including a remarkable trans-Pacific disjunction between
 the Americas and New Zealand. According to [[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]]
 - [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]]
 - [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
 
-- Southern Hemisphere Origin Hypothesis for Neurotropic Fungi
-- Mexico as a Northern and Southern Mycobiotic Convergence Zone
+- [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] Origin Hypothesis for Neurotropic Fungi
+- Mexico as a Northern and [[mexico-northern-southern-mycobiotic-convergence-zone-guzman-1998]] Convergence Zone
 - [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]]
 ## Practical Applications
 
@@ -98,4 +98,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

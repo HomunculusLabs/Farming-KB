@@ -3,6 +3,7 @@ title: Wick System for Cannabis
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
@@ -11,11 +12,11 @@ tags: [cannabis]
 
 # Wick System for Cannabis
 
-Wick systems are passive hydroponic systems that rely on capillary action to transfer nutrient solution from a reservoir to the growing medium and plant roots. They are the simplest type of hydroponic-cannabis|hydroponic system, requiring no pumps, timers, or moving parts. Despite their simplicity, Dutch growers have perfected wick systems and achieved amazing results with them.
+Wick systems are passive hydroponic systems that rely on capillary action to transfer [[cannabis-nutrient-solution-preparation]] from a reservoir to the growing medium and plant roots. They are the simplest type of hydroponic-cannabis|hydroponic system, requiring no pumps, timers, or moving parts. Despite their simplicity, Dutch growers have perfected wick systems and achieved amazing results with them.
 
 ## How Wick Systems Work
 
-In a wick system, nutrient solution is passively absorbed by a wick or by the growing medium itself and transported to the root zone through capillary action. The wick draws solution from the reservoir below and delivers it to the growing medium surrounding the plant roots. Absorbent growing mediums are ideal for passive wick systems because they enhance capillary action and moisture distribution.
+In a wick system, nutrient solution is passively absorbed by a wick or by the growing medium itself and transported to the root zone through capillary action. The wick draws solution from the reservoir below and delivers it to the growing medium surrounding the plant roots. Absorbent [[cervantes-growing-mediums-comparison]] are ideal for [[comparison-wicking-bed-vs-passive-wick-hydroponics]] systems because they enhance capillary action and moisture distribution.
 
 ## Types of Wick Systems
 
@@ -68,7 +69,7 @@ Some commercial containers have built-in wicking chambers or water reservoirs in
 - Ensure wicks remain in contact with the reservoir solution at all times.
 - Top off the reservoir regularly to maintain solution level.
 - Monitor the growing medium for overly wet or dry spots.
-- Flush the medium periodically to prevent salt accumulation.
+- Flush the medium periodically to prevent [[jadam-salt-accumulation-in-soil]].
 - Replace wicks if they become clogged, degraded, or discolored.
 - Adjust the number of wicks based on plant size and water consumption.
 - Clean the reservoir between grows to prevent algae and bacterial growth.
@@ -76,7 +77,7 @@ Some commercial containers have built-in wicking chambers or water reservoirs in
 
 ## Troubleshooting
 
-- **Plants wilting despite wet medium**: Root rot from insufficient aeration. Mix in more perlite or use a lighter medium blend.
+- **Plants wilting despite wet medium**: [[cannabis-root-rot-prevention-and-treatment]] from insufficient aeration. Mix in more perlite or use a lighter medium blend.
 - **Slow growth**: Nutrient delivery too slow. Add more wicks or switch to a more absorbent medium.
 - **Salt crust on medium surface**: Mineral accumulation from evaporation. Flush with plain water and reduce nutrient concentration.
 - **Algae in reservoir**: Light reaching the solution. Cover the reservoir completely.

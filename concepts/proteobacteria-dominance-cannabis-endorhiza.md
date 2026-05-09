@@ -1,5 +1,5 @@
 ---
-title: Proteobacteria Dominance in Cannabis Endorhiza
+title: Proteobacteria Dominance in edaphic-factors-cannabis-endorhiza-microbiome-assembly
 created: 2026-04-28
 tags: [microbiome, cannabis, proteobacteria, endorhiza]
 date: 2026-04-28
@@ -104,12 +104,12 @@ functional implications:
 - **Plant growth promotion**: Many Proteobacteria genera (Pseudomonas,
   Rhizobium, Burkholderia) are known to produce indole-3-acetic acid,
   gibberellins, and other phytohormones that stimulate root growth.
-- **Disease suppression**: Proteobacteria produce antibiotics,
+- **[[aact-disease-suppression-mechanisms-ingham]]**: Proteobacteria produce antibiotics,
   siderophores, and lipopeptides that inhibit soil-borne pathogens.
-- **Nutrient cycling**: Rhizobiales contribute to nitrogen fixation,
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: Rhizobiales contribute to [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]],
   while other Proteobacteria participate in phosphorus solubilization
   and sulfur cycling.
-- **Stress tolerance**: Endophytic Proteobacteria can help plants
+- **[[fungal-lichen-stress-tolerance-and-poikilohydry]]**: Endophytic Proteobacteria can help plants
   tolerate abiotic stresses including drought, salinity, and heavy
   metals through ACC deaminase activity and other mechanisms.
 
@@ -139,5 +139,5 @@ conserved core community, while both orders showed significant abundance
 ## See Also
 
 - [[endorhiza-bacterial-communities]] for the complete endorhiza community
-- [[cannabis-cultivar-microbiome-specificity]] for cultivar effects
+- [[cannabis-cultivar-microbiome-specificity]] for [[cannabis-cultivar-effects-soil-microbiome]]
 - [[rhizosphere-microbiome-selection-model]] for the assembly framework

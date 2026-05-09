@@ -22,7 +22,7 @@ Tilling causes cascading damage to the soil ecosystem:
 
 - **Destroys fungal networks:** It completely chops up the miles of fungal
   hyphae that exist even in bacterially dominated soils. Breaking up fungal
-  networks reverses years of ecological succession, converting fungally
+  networks reverses years of [[holmgren-ecological-succession-and-pulsing]], converting fungally
   dominated soils to bacterial ones.
 - **Displaces soil biota:** Worm tunnels and pores between soil particles are
   blown apart. The soil appears fluffy immediately after tilling, but the
@@ -45,7 +45,7 @@ The practice of breaking up soil gained momentum when Jethro Tull
 placed seed at set depth in premade holes. Tull also encouraged loosening soil
 before planting. He incorrectly believed plant roots had "little mouths" that
 ate soil particles, and that loose soil (smaller particles) would more easily
-fit into these mouths. His writings influenced George Washington and Thomas
+fit into these mouths. His writings influenced [[tompkins-george-washington-carver-plant-alchemy]] and Thomas
 Jefferson, embedding soil turning into Western agricultural and gardening
 practice -- even though we now know roots do not eat soil particles.
 
@@ -78,7 +78,7 @@ If you feed them, they shall come:
   to promote bacterial dominance. Finer mulch = higher bacterial growth.
   Even dried grass clippings and straw are still "green" mulch because
   sugars remain after chlorophyll fades. Keep mulch damp but not waterlogged.
-- **Organic microbe food:** Use any organic fertilizer with all three NPK
+- **Organic microbe food:** Use any [[complete-organic-fertilizer-cof-recipe-solomon]] with all three NPK
   numbers below 10 to ensure fragile fungi are not killed. Apply in the
   root zone when planting or side-dress before mulching.
 - **Compost tea:** Apply bacterially dominated teas as both soil drench and
@@ -86,7 +86,7 @@ If you feed them, they shall come:
 - **Autumn amendments:** Add organics in autumn so bacteria begin breaking
   them down before spring planting. Nitrogen tie-up at the soil-mulch
   interface, if it occurs, will be over by spring.
-- **Nutrient cycling helpers:** Apply protozoa soup as a soil drench to
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] helpers:** Apply protozoa soup as a soil drench to
   increase nutrient recycling. Wash down bacterial food applications with
   protozoa soup immediately. Good compost and compost tea remain the most
   economical way to increase nutrient-cycling nematode populations.
@@ -123,9 +123,9 @@ take remedial action using all three soil food web tools to restore biology.
 - Better water retention and drainage from stable soil aggregates
 - Reduced weed pressure from undisturbed seed banks and mulch barriers
 - Higher microbial diversity including fungi needed for aggregation
-- Mycorrhizal networks preserved for better nutrient and water access
+- [[dighton-mycorrhizal-networks-carbon-transfer]] preserved for better nutrient and water access
 - Less gardener labor -- no annual rototilling required
-- Proper nutrient cycling without chemical fertilizers
+- Proper nutrient cycling without [[cervantes-chemical-fertilizers-guide]]
 - No dangerous chemicals leaching into water tables
 
 ## See Also

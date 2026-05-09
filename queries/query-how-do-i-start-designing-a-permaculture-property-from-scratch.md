@@ -1,9 +1,11 @@
 ---
-title: "How Do I Start Designing a Permaculture Property from Scratch?"
+title: "How Do I query how do i start designing a permaculture property from scratch a query-how-to-design-a-permaculture-property-from-scratch from Scratch?"
 tags: [query, permaculture, site-design, property-planning, observation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 created: 2026-04-28
 type: query
 ---
@@ -14,13 +16,13 @@ type: query
 
 Start with observation, not action. Spend at least one full year observing
 your land through all four seasons before making any permanent changes.
-Map your sun, wind, water, soil, and existing vegetation patterns.
+Map your sun, wind, water, soil, and existing [[holmgren-vegetation-patterns-biomass-fertility]].
 Identify zones of use based on how often you visit each area.
 Then layer in elements like food forests, water systems, and animal
 integrations gradually, designing from patterns to details as outlined
 in [[permaculture-principles]] zone system organizes your property
 by frequency of use. Zone 0 is your home and immediate living space. Zone 1
-contains intensively managed elements you visit daily: culinary herbs,
+contains intensively managed elements you visit daily: [[holzer-medicinal-and-culinary-herbs-compendium]],
 salad greens, seedlings, and small animals like chickens. Zone 2 is visited
 every few days and includes main crop gardens, orchard trees, and larger
 animal systems. Zone 3 is managed less frequently with broadacre crops,
@@ -41,13 +43,13 @@ should be closest to your water sources.
 
 ### Soil Building from Day One
 
-Even before planting your first tree, begin building soil. [[compost-biology-soil-food-web-inoculation]] is the engine of any productive permaculture property. Apply [[fungal-bioremediation]] or [[permaculture-principles]] and makes small properties productive
+Even before planting your first tree, begin building soil. [[compost-biology-soil-food-web-inoculation]] is the engine of any productive permaculture property. Apply fungal-bioremediation or [[permaculture-principles]] and makes small properties productive
 far beyond what conventional landscaping achieves.
 
 ## Key Points
 
 - Observe your land for at least one full year before making permanent
-  changes — [[permaculture-principles]] zone and sector analysis.
+  changes — [[permaculture-principles]] zone and [[mollison-designers-sector-analysis-wind-sun-fire]].
 - Place the most frequently used elements (herbs, salad greens, chickens)
   closest to your home in Zone 1 for maximum management efficiency.
 - Design water systems first — [[swale]] systems set the foundation for everything else.
@@ -69,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,3 +114,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[query-how-do-i-start-a-silvopasture-system-on-my-property]]

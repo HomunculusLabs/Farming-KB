@@ -18,7 +18,7 @@ in their own [[lowenfels-bacteria-role-soil]]. Unlike bacteria, which need a
 film of water to spread, fungal hyphae can bridge gaps and travel over
 considerable distances to locate new food sources. Their hyphae contain cytoplasm
 circulated throughout their cells, allowing them to transport nutrients from one
-location to another -- effectively acting as a conveyor belt. When a hyphal tip
+location to another -- effectively acting as a conveyor belt. When a [[gadd-hyphal-tip-growth-and-branching-mechanisms]]
 invades a nematode, it drains the victim of nutrients and distributes them
 through the hyphal network to locations yards away. Once inside the fungus,
 nutrients are immobilized and will not leach from the soil.
@@ -32,7 +32,7 @@ Fungi are the primary decay agents in the [[rhizosphere-fungal-community-analysi
 Fungi have evolved remarkable predation strategies. Arthrobotrys dactyloides
 creates rings from three inverted hyphal cells that swell to three times their
 size in a tenth of a second when touched by a nematode. Pleurotus ostreatus (the
-oyster mushroom) emits toxic drops from hyphal tips that immobilize nematodes on
+[[cotter-oyster-mushroom-cultivation]]) emits toxic drops from hyphal tips that immobilize nematodes on
 contact. Some fungi use adhesives to stick to prey; others trap springtails large
 enough to see with the naked eye. Fungi send out scout filaments, use tactile
 sensing, and track specific chemicals to locate food sources.
@@ -40,8 +40,8 @@ sensing, and track specific chemicals to locate food sources.
 ## Symbiosis with Plants
 
 Fungi form two critical symbiotic relationships with plants. First, lichens --
-associations with green algae where the fungus provides structure and the alga
-provides photosynthetic food. Lichens break down rock and wood to create soil
+associations with [[cervantes-green-algae-growing-medium]] where the fungus provides structure and the alga
+provides photosynthetic food. Lichens [[query-can-fungi-break-down-plastic-pollution]] rock and wood to create soil
 minerals and nutrients. Second, [[lowenfels-compost-tea-brewing]] for tea requires carefully calibrated energy --
 too little and they stay attached, too much and they are destroyed.
 
@@ -51,7 +51,7 @@ In a healthy soil food web, fungi and bacteria share many functions: both serve
 as decomposers, nutrient cyclers, soil structure builders, and disease
 suppressors. Both produce vitamins and antibiotics. The key difference lies in
 what they decay (simple vs. complex compounds), how they travel (water film vs.
-hyphal growth), and how they influence soil pH (bacterial slime raises it, fungal
+[[bloomfields-orchard-hyphal-growth-and-invasive-biology]]), and how they influence soil pH (bacterial slime raises it, fungal
 acids lower it). Their relative populations -- the [[fungi-in-garden-ecosystems]]
 ## Practical Considerations
 
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

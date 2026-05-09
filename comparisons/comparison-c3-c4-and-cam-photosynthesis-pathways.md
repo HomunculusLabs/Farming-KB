@@ -1,5 +1,5 @@
 ---
-title: "C3 vs C4 vs CAM Photosynthesis Pathways"
+title: "C3 vs C4 vs comparison c3 c4 and [[c4-and-cam-photosynthesis]] pathways Pathways"
 created: 2026-04-28
 tags:
   - photosynthesis
@@ -14,7 +14,8 @@ tags:
   - plant-science
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -36,7 +37,7 @@ and the types of plants that employ them.
 | **Water use efficiency** | Low | Moderate | Very high |
 | **Typical climate** | Cool, moist, moderate light | Hot, sunny, moderately dry | Arid, desert, very dry |
 | **Leaf anatomy** | Standard | Kranz anatomy (bundle sheath) | Large vacuoles, few stomata |
-| **Maximum growth rate** | Moderate | High | Low to moderate |
+| **Maximum [[soil-temperature-plant-growth-rate-doubling-rule]]** | Moderate | High | Low to moderate |
 | **Species proportion** | ~85% | ~3% | ~7% |
 | **Key crops** | Wheat, rice, soybean, potato | Corn, sorghum, sugarcane, millet | Pineapple, agave, cactus, vanilla |
 
@@ -100,14 +101,14 @@ steps **temporally** rather than spatially:
    chloroplasts. Light provides ATP and NADPH while the plant remains sealed.
 
 CAM represents the ultimate arid adaptation—water use efficiency 5–10× greater than
-C3. The trade-off is slow growth, because vacuolar storage capacity limits total CO₂
+C3. The trade-off is [[holmgren-long-rotation-forestry-slow-growth]], because vacuolar storage capacity limits total CO₂
 fixed per day to roughly 1/3 to 1/2 of what C3 plants manage under favorable
 conditions.
 
 Some species are **facultative CAM** (e.g., *Mesembryanthemum crystallinum*,
 *Talinum triangulare*) that switch between C3 and CAM depending on water
 availability—a remarkable metabolic plasticity enabling survival across wide
-environmental gradients.
+[[fungal-adaptations-environmental-gradients]].
 
 ## Ecological Distribution
 
@@ -121,8 +122,8 @@ grasses could maintain productivity during dry seasons when C3 grasses declined.
 This expansion may have driven the evolution of human ancestors who lived in these
 expanding grassland habitats.
 
-CAM plants are most diverse in arid regions (deserts) and epiphytic habitats
-(tropical forest canopies), where water is the primary limiting factor. Epiphytic
+CAM plants are most diverse in [[fukuoka-natural-farming-in-arid-regions]] (deserts) and epiphytic habitats
+([[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] canopies), where water is the primary limiting factor. Epiphytic
 orchids and bromeliads use CAM because they cannot access soil water.
 
 ## Agricultural Implications

@@ -1,5 +1,5 @@
 ---
-title: "Hallucinogenic Mushroom Telephone Helplines and Emergency Response"
+title: "emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Telephone Helplines and Emergency Response"
 created: 2026-04-28
 tags:
   - emergency-response
@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - EMCDDA Thematic Paper: Hallucinogenic Mushrooms, An Emerging Trend Case Study (2006)
+  - EMCDDA Thematic Paper: emcdda-hallucinogenic-mushrooms-emerging-trend-europe, An emcdda-epod-project-emerging-trend-detection-methodology Case Study (2006)
 type: concept
 ---
 
@@ -27,7 +27,7 @@ The European Foundation of Drug Helplines (FESAT) collects information biannuall
 
 ### Overall Trends
 
-The FESAT data revealed no significant increase in calls to drug help lines regarding the use of hallucinogenic mushrooms during 2004. This finding is notable given the reported increases in prevalence and market expansion during the same period, and may reflect either genuinely low rates of acute harm requiring assistance, limited awareness of helpline services among mushroom users, or underreporting of mushroom related calls.
+The FESAT data revealed no significant increase in calls to drug help lines regarding the use of hallucinogenic mushrooms during 2004. This finding is notable given the reported increases in [[eu-magic-mushroom-prevalence-and-market-trends]] expansion during the same period, and may reflect either genuinely low rates of acute harm requiring assistance, limited awareness of helpline services among mushroom users, or underreporting of mushroom related calls.
 
 ## Belgian Druglijn Data
 
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -32,11 +32,11 @@ sources:
 ## Overview
 
 Hypericin is a red-colored naphthodianthrone compound found in *Hypericum*
-species, most abundantly in *Hypericum perforatum* (St. John's wort). It is
+species, most abundantly in *[[hypericum-perforatum]]* (St. John's wort). It is
 one of the principal bioactive constituents responsible for the plant's
 antidepressant, antiviral, and photosensitizing properties.
 
-First isolated in the mid-19th century, hypericin is a polycyclic aromatic
+First isolated in the mid-19th century, hypericin is a [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]
 quinone with potent photodynamic activity. When exposed to visible light
 (especially 590–660 nm wavelengths), it generates reactive oxygen species
 (ROS) that can damage cellular membranes, proteins, and nucleic acids.
@@ -72,7 +72,7 @@ that hypericin concentrations in standard extracts are too low for
 significant MAO inhibition at therapeutic doses. The antidepressant effect
 of *H. perforatum* extracts is now attributed primarily to hyperforin and
 adhyperforin, though hypericin may contribute through modulation of
-dopamine, serotonin, and GABA receptor systems.
+dopamine, [[serotonin]], and GABA receptor systems.
 
 **Photodynamic activity:** Upon absorption of visible light, hypericin
 undergoes type I and type II photosensitization reactions. Type I involves
@@ -119,7 +119,7 @@ erythema, pruritus, and in severe cases, blistering. Livestock
 develop photosensitization syndrome ("hypericism"), leading to skin
 inflammation, edema, and secondary infections.
 
-**Drug interactions:** Hypericin induces cytochrome P450 enzymes
+**[[cannabis-drug-interactions-and-contraindications]]:** Hypericin induces cytochrome P450 enzymes
 (CYP3A4, CYP2C9) and P-glycoprotein, reducing plasma concentrations of
 numerous drugs including oral contraceptives, warfarin, cyclosporine,
 and antiretroviral protease inhibitors.
@@ -128,7 +128,7 @@ and antiretroviral protease inhibitors.
 
 **Photodynamic therapy (PDT):** Hypericin's potent photosensitizing
 properties have been investigated for treatment of basal cell carcinoma,
-actinic keratosis, and cutaneous T-cell lymphoma. Clinical trials
+actinic keratosis, and cutaneous T-cell lymphoma. [[mushroom-cancer-clinical-trials-overview]]
 demonstrate tumor-selective accumulation and effective lesion regression
 with topical or systemic hypericin followed by visible light irradiation.
 
@@ -143,4 +143,4 @@ of premalignant lesions in the bladder and gastrointestinal tract.
 
 - [[psilocybin]]
 - [[berberine]]
-- [[resveratrol]]
+- resveratrol

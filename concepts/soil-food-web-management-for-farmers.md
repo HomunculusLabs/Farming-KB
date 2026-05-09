@@ -5,7 +5,8 @@ updated: 2026-04-13
 type: concept
 tags: [soil, agriculture]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Soil Food Web Management for Farmers
 
@@ -20,7 +21,7 @@ Feed the soil biology, and the soil biology will feed the plants. In a functioni
 - Protozoa and nematodes consume bacteria and fungi, releasing plant-available nutrients (the "microbial loop")
 - Predatory nematodes and microarthropods regulate pest populations
 - Mycorrhizal fungi extend plant root access to water and nutrients
-- Disease suppression occurs through competition, antibiosis, and predation
+- [[aact-disease-suppression-mechanisms-ingham]] occurs through competition, antibiosis, and predation
 
 ## Assessing Your Soil Biology
 
@@ -33,7 +34,7 @@ Ingham emphasizes direct observation as the primary assessment tool. A compound 
 
 ### Organism Groups and Their Roles
 
-**Bacteria**: Rapid decomposers of simple organic compounds; dominate in disturbed or annual crop soils; retain nutrients in their biomass; food for protozoa and bacterial-feeding nematodes.
+**Bacteria**: Rapid decomposers of simple [[fungal-volatile-organic-compounds-communication]]; dominate in disturbed or annual crop soils; retain nutrients in their biomass; food for protozoa and bacterial-feeding nematodes.
 
 **Fungi**: Decomposers of complex organic matter (lignin, cellulose); dominate in perennial systems, forests, and no-till soils; retain more nutrients per unit biomass than bacteria; essential for mycorrhizal associations.
 
@@ -46,7 +47,7 @@ Ingham emphasizes direct observation as the primary assessment tool. A compound 
 ## Bacterial vs. Fungal Dominance
 
 ### The Succession Spectrum
-Ingham describes a succession from bacterial to fungal dominance:
+Ingham describes a succession from [[ingham-bacterial-to-fungal-succession-soil-food-web]] dominance:
 
 - **Highly disturbed** (bare soil, intensive tillage): Bacterial-dominated
 - **Annual crops, moderate disturbance**: Bacterial to slightly fungal
@@ -63,7 +64,7 @@ Ingham describes a succession from bacterial to fungal dominance:
 ## Management Practices
 
 ### 1. Reduce or Eliminate Tillage
-Tillage destroys fungal hyphae, disrupts mycorrhizal networks, and releases CO2 from soil organic matter. No-till or reduced tillage:
+[[fukuoka-why-tillage-destroys-soil]] fungal hyphae, disrupts [[dighton-mycorrhizal-networks-carbon-transfer]], and releases CO2 from soil organic matter. No-till or reduced tillage:
 - Preserves mycorrhizal networks between growing seasons
 - Maintains soil aggregate structure built by fungal hyphae and bacterial glues
 - Reduces organic matter oxidation
@@ -99,7 +100,7 @@ Quality compost is the most direct way to add diverse biology:
 
 ## Expected Benefits
 
-- Reduced fertilizer inputs as nutrient cycling improves
+- Reduced fertilizer inputs as [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] improves
 - Decreased disease pressure through biological suppression
 - Improved water retention and infiltration
 - Better soil structure and reduced compaction
@@ -110,5 +111,5 @@ Quality compost is the most direct way to add diverse biology:
 
 - [[soil-food-web-structure]] -- the soil food web concept
 - [[fukuoka-crop-rotation-and-natural-weeds]] -- natural farming practices for crop management
-- [[fungal-chromogens-and-color-change]]
+- fungal-chromogens-and-color-change
 - [[ozier-pdc-composting-and-soil-building]]

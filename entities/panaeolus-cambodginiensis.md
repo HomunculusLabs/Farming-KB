@@ -12,15 +12,15 @@ updated: 2026-04-28
 sources:
   - Guzmán, G. et al. (2004). "A new bluing Psilocybe from Mexico." Mycotaxon, 90, 299-306.
   - Ola'h, G.M. (1969). "Le Genre Panaeolus." Recherches Mycologiques, Neuchâtel.
-  - Stamets, P. (1996). "Psilocybin Mushrooms of the World." Ten Speed Press.
+  - Stamets, P. (1996). "[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World." Ten Speed Press.
   - Allen, J.W. et al. (1992). "A new species of Panaeolus from Thailand." Mycotaxon, 43, 327-332.
-  - Allen, J.W. & Merlin, M.D. (1992). "Psychoactive fungi in Thailand." Journal of Psychoactive Drugs, 24(2), 183-191.
+  - Allen, J.W. & Merlin, M.D. (1992). "[[cattle-dispersal-psychoactive-fungi-australia]] in Thailand." Journal of Psychoactive Drugs, 24(2), 183-191.
 created: 2026-04-28
 ---
 
 ## Overview
 
-*Panaeolus cambodginiensis* is a tropical psilocybin-containing mushroom in the family Bolbitiaceae. It was first described from Cambodia and is widely distributed across Southeast Asia, where it grows on bovine dung in pastures and grasslands.
+*Panaeolus cambodginiensis* is a tropical psilocybin-containing mushroom in the family Bolbitiaceae. It was first described from Cambodia and is widely distributed across [[psilocybe-southeast-asia-pacific]], where it grows on bovine dung in pastures and grasslands.
 
 The species is commonly referred to as "Cambodian panaeolus" and is noted for its potent psilocybin content relative to its small size.
 
@@ -38,7 +38,7 @@ Several non-psychoactive Panaeolus species share the coprophilous habitat and mo
 
 ## Cultivation
 
-*Panaeolus cambodginiensis* can be cultivated using standard dung-based substrates, reflecting its natural coprophilous ecology.
+*Panaeolus cambodginiensis* can be cultivated using standard dung-based substrates, reflecting its natural [[mckenna-psilocybin-coprophilous-ecology-and-bovine-symbiosis]].
 
 Pasteurized horse or cow manure mixed with straw is the preferred substrate, with colonization temperatures of 24-28°C.
 
@@ -46,8 +46,8 @@ Fruiting requires high humidity (90%+) and warm temperatures of 22-28°C with ad
 
 Yields are generally lower than [[panaeolus-cyanescens-entity]] — blue meanies, closely related coprophilous psilocybin species
 - [[psilocybin]] — primary psychoactive compound
-- [[baeocystin]] — minor psychoactive alkaloid
-- [[coprinus-comatus-detailed]] — shaggy ink cap, another coprophilous-associated mushroom
+- [[baeocystin]] — [[kwashi-and-galanga-minor-psychoactive-plants]] alkaloid
+- [[coprinus-comatus]] — shaggy ink cap, another coprophilous-associated mushroom
 ## Practical Considerations
 
 When working with Panaeolus cambodginiensis, several practical factors should be
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

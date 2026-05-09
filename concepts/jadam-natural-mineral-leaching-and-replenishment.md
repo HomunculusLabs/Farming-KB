@@ -1,5 +1,5 @@
 ---
-title: JADAM Natural Mineral Leaching and Replenishment
+title: ultra-low-cost-jadam-natural-pesticide-jnp ultra-low-cost-mineral-leaching-and-sea-salt-replenishment and Replenishment
 created: 2026-04-28
 tags: [jadam, soil-minerals, nutrient-cycling, mineral-depletion]
 date: 2026-04-25
@@ -61,7 +61,7 @@ vicious cycle that benefits fertilizer and pesticide companies.
 ## The JADAM Replenishment Strategy
 
 JADAM addresses mineral depletion through several complementary approaches.
-Sea water and sea salt are central to the JADAM replenishment program. Sea
+Sea water and [[jadam-sea-salt-and-mineral-solutions]] are central to the JADAM replenishment program. Sea
 water contains 83 identified minerals, including selenium (Se) and germanium
 (Ge), which are known to be extremely beneficial. Even the Korean National
 Institute of Agricultural Sciences has confirmed the benefits of sea water
@@ -70,7 +70,7 @@ time water is applied to fields.
 
 For farmers who cannot obtain sea water, sea salt is an effective
 alternative. The recommendation is 20 liters (5.28 gal) of sea water or 600
-grams (1.3 lb) of sea salt per 0.1 ha (quarter acre). Normal sea water has
+grams (1.3 lb) of sea salt per 0.1 ha ([[fukuoka-agriculture-tomorrow-quarter-acre-vision]]). Normal sea water has
 a salt concentration between 3.1-3.8%. Historically, rice paddies and
 orchards near the sea were showered with sea water elements for millennia,
 contributing to their fertility.

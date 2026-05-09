@@ -1,22 +1,22 @@
 ---
-title: Clay Pellet Desert Greening
+title: fukuoka-clay-pellet-aerial-seeding-method fukuoka-desert-greening-plant-irrigation
 created: 2026-04-18
 updated: 2026-04-22
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources: []
 ---
 
 # Clay Pellet Desert Greening
 
-One of Masanobu Fukuoka's most ambitious projects was the use of clay pellet seed balls for [[fukuoka-green-belt-projects]] creation. This technique, which he developed originally for his no-tillage farming in Japan, was later adapted for revegetating barren and desertified lands around the world. The clay pellet method represents one of the simplest and most elegant examples of working with natural processes rather than against them.
+One of Masanobu Fukuoka's most ambitious projects was the use of clay pellet seed balls for [[fukuoka-green-belt-projects]] creation. This technique, which he developed originally for his no-tillage farming in Japan, was later adapted for revegetating barren and desertified lands [[fungi-around-the-world-species-distribution]]. The clay pellet method represents one of the simplest and most elegant examples of working with natural processes rather than against them.
 
 ## The Seed Ball Technique
 
-The clay pellet (or "seed ball") technique is remarkably simple: seeds are mixed with clay and sometimes compost or organic matter, then formed into small balls about the size of a marble. When scattered on the ground, the clay protects the seeds from being eaten by birds and insects and from drying out in the sun. When rain comes, the clay softens and dissolves, allowing the seeds to germinate in place.
+The clay pellet (or "seed ball") technique is remarkably simple: seeds are mixed with clay and sometimes compost or [[hamilton-composting-and-organic-matter-management]], then formed into small balls about the size of a marble. When scattered on the ground, the clay protects the seeds from being eaten by birds and insects and from drying out in the sun. When rain comes, the clay softens and dissolves, allowing the seeds to germinate in place.
 
-Fukuoka originally developed this technique for his rice-barley rotation on Shikoku Island. Rather than transplanting rice seedlings or plowing the soil, he would scatter rice seeds embedded in clay pellets onto the standing clover cover. The seeds would lie dormant until conditions were right, then germinate and grow without any soil preparation. This same principle — sowing without plowing, planting without cultivation — was the foundation of his [[fukuoka-desert-cause-vegetation]].
+Fukuoka originally developed this technique for his rice-barley rotation on Shikoku Island. Rather than transplanting rice seedlings or plowing the soil, he would scatter rice seeds embedded in [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] onto the standing [[fukuoka-clover-cover-cropping-soil-ecology]]. The seeds would lie dormant until conditions were right, then germinate and grow without any soil preparation. This same principle — sowing without plowing, planting without cultivation — was the foundation of his [[fukuoka-desert-cause-vegetation]].
 
 ## Desert Greening Projects
 
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -19,7 +19,7 @@ type: entity
 Suillus granulatus is an ectomycorrhizal basidiomycete fungus closely
 associated with pine (Pinus) species. It is a member of the Suillaceae
 family, commonly known as slippery jacks, and plays an important role in
-forest nutrient cycling, particularly in phosphorus and nitrogen
+forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], particularly in phosphorus and nitrogen
 acquisition for its host trees. It is notably tolerant of acidic soils.
 
 ## Taxonomy and Classification
@@ -39,7 +39,7 @@ acquisition for its host trees. It is notably tolerant of acidic soils.
 - Pores on the underside are angular and yellow, staining brownish
 - Stem is solid with granular dots near the apex
 - Flesh is pale yellow, mild-tasting (edible when thoroughly cooked)
-- Spore print is cinnamon-brown
+- [[comparison-spore-print-collection-vs-spore-syringe-production]] is cinnamon-brown
 
 ### Host Specificity
 - Strongly associated with Pinus species (pines)
@@ -56,7 +56,7 @@ acquisition for its host trees. It is notably tolerant of acidic soils.
 - Accesses nitrogen from organic sources such as bovine serum albumin
   more effectively than many other ectomycorrhizal species
 - Participates in phosphorus transfer networks between saprotrophic
-  and mycorrhizal fungal communities (Lindahl et al., 1999)
+  and [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] communities (Lindahl et al., 1999)
 
 ### Aluminum Tolerance
 - Shows remarkable tolerance to aluminum toxicity, with no growth
@@ -70,8 +70,8 @@ acquisition for its host trees. It is notably tolerant of acidic soils.
 - Works synergistically with Paxillus involutus in decomposing leaf
   litter in the absence of competing saprotrophs
 - Less effective than saprotrophic fungi (e.g., Lepista nuda) at leaf
-  litter decomposition (Colpaert and van Tichelen, 1996)
-- Forms mycelial networks that capture phosphorus translocated from
+  [[dighton-pine-needle-litter-decomposition-fungal-succession]] (Colpaert and van Tichelen, 1996)
+- Forms [[fungal-mycelial-networks-nutrient-translocation]] that capture phosphorus translocated from
   saprotrophic fungal mycelium
 
 ### Successional Status
@@ -82,13 +82,15 @@ acquisition for its host trees. It is notably tolerant of acidic soils.
   successional species like Laccaria and Pisolithus
 
 ## Relevance
-Suillus granulatus is ecologically significant for pine forest health and
+Suillus granulatus is ecologically significant for [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] health and
 productivity. Its exceptional aluminum tolerance makes it a candidate for
 forest reclamation on acidic, degraded soils. In sustainable forestry and
 permaculture, understanding Suillus ecology helps inform tree planting
 strategies and soil management practices for conifer-dominated systems.
 
 ## See Also
+
+- [[suillus-placidus]]
 
 - [[paxillus-involutus]]
 - [[cenococcum-geophilum]]

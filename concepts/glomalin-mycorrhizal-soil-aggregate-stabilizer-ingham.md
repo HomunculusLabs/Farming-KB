@@ -16,7 +16,7 @@ points out, many other organisms in soil make similar materials. Glomalin has
 become a general term for many types of compounds that stick things together
 in soil. Glues are produced by many bacteria as well as fungi. Bacteria use
 their own glues to hold themselves to soil particles and to leaf surfaces.
-However, the glomalin produced by mycorrhizal fungi is particularly significant
+However, the glomalin produced by [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] is particularly significant
 due to the vast network of hyphae these fungi extend through soil.
 
 ## How Glomalin Stabilizes Soil Aggregates
@@ -27,7 +27,7 @@ Ingham, aerobic bacteria produce glues that form microaggregates (the smallest
 structural units), while aerobic fungi produce glues — including glomalin — that
 form macroaggregates by binding microaggregates together into larger structures.
 
-The mechanism works as follows: as mycorrhizal fungal hyphae grow through the
+The mechanism works as follows: as [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] hyphae grow through the
 soil, glomalin is deposited along the hyphal surfaces and on surrounding soil
 particles. This sticky coating binds clay particles, silt, sand grains, and
 organic matter particles together. When hyphae eventually die and decompose, the
@@ -56,7 +56,7 @@ soils, up to 27 percent of the total organic carbon. This means that
 mycorrhizal fungi, through glomalin production, are sequestering significant
 amounts of atmospheric carbon into stable soil forms.
 
-The implications for climate change mitigation are substantial. Soils with
+The implications for [[dighton-fungi-climate-change-feedback]] mitigation are substantial. Soils with
 healthy mycorrhizal populations continuously produce and accumulate glomalin,
 building carbon stores that resist decomposition and remain locked in stable
 aggregate structures for decades.
@@ -77,8 +77,8 @@ compacted and less able to retain water or support root growth. As Ingham
 emphasizes, building and rebuilding soil structure is strictly a biological
 process that cannot be replicated by mechanical means alone.
 
-Ingham's twelve-step soil foodweb balancing protocol addresses this directly:
-Step Five requires that if mycorrhizal colonization is between 0 and 15
+Ingham's twelve-step soil [[soil-foodweb-balancing-protocol-ingham]] protocol addresses this directly:
+Step Five requires that if [[arbuscular-mycorrhizal-colonization-patterns]] is between 0 and 15
 percent, an inoculum of mycorrhizal spores must be placed next to the roots or
 on and around the seed. If colonization is between 15 to 40 percent, addition
 of humic acid to feed the existing fungi is possible.
@@ -93,7 +93,7 @@ applications ensure these glue-producing organisms can thrive.
 
 Fungal-dominant compost teas are particularly important for supporting the
 mycorrhizal fungi that produce glomalin. While mycorrhizal spores themselves
-are not typically extracted into liquid tea, the beneficial fungal communities
+are not typically extracted into liquid tea, the beneficial [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
 delivered by fungal-dominant teas compete with pathogens and create soil
 conditions favorable for mycorrhizal colonization. Adding humic acid as a food
 source for fungi further supports this process.

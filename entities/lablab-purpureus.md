@@ -11,8 +11,8 @@ tags:
   - cover-crop
   - fabaceae
 sources:
-  - "Purseglove, J.W. (1968). Tropical Crops: Dicotyledons. Longman."
-  - "Maass, B.L. et al. (2010). \"Lablab purpureus — a crop for the future.\" Grain Legumes, 56, 16-18."
+  - "Purseglove, J.W. (1968). mollison-specialist-tropical-crops-forest-products: Dicotyledons. Longman."
+  - "Maass, B.L. et al. (2010). \"Lablab purpureus — a crop for the future.\" [[query-best-grain-legumes-for-a-small-homestead]], 56, 16-18."
   - "Rachie, K.O. & Roberts, L.M. (1974). Lablab purpureus. IITA Monograph."
   - "Pengelly, B.C. & Maass, B.L. (2001). \"Lablab purpureus as a forage crop.\" ACIAR Technical Reports, 55."
   - "Duke, J.A. (1981). Handbook of Legumes of World Economic Importance. Plenum Press."
@@ -25,11 +25,11 @@ sources:
 Lablab purpureus is a fast-growing, nitrogen-fixing legume native to
 Africa and widely cultivated across tropical and subtropical regions.
 It produces edible beans, tender young pods, nutritious foliage for
-forage, and serves as a dual-purpose [[cajanus-cajan]] — Pigeon pea, another multipurpose tropical
+forage, and serves as a dual-purpose [[cajanus-cajan]] — [[comparison-pigeon-pea-vs-cowpea]], another [[mollison-designers-moringa-and-multipurpose-tropical-trees]]
   legume for permaculture systems
-- [[tagasaste]] — Tree lucerne, woody leguminous fodder for drylands
-- [[glycine-max-soybean-permaculture]] — Soybean permaculture
-  applications and nitrogen fixation
+- tagasaste — Tree lucerne, woody leguminous fodder for drylands
+- [[glycine-max]] — Soybean permaculture
+  applications and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
 ## Practical Applications
 
 Lablab purpureus has a range of practical applications that make it relevant to
@@ -107,4 +107,5 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[ceratodon-purpureus]]

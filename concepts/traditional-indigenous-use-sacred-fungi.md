@@ -18,7 +18,7 @@ type: concept
 
 ## Mesoamerican Mushroom Traditions
 
-The use of neurotropic fungi in sacred ceremonies is best documented in
+The use of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] in sacred ceremonies is best documented in
 Mesoamerica, where a continuous tradition spanning thousands of years
 persists to the present day. The Aztecs (Mexica) used mushrooms known as
 teonanacatl ("flesh of the gods" or "divine flesh") in religious
@@ -31,13 +31,13 @@ continue these traditions.
 ## Indigenous Groups and Their Practices
 
 Multiple indigenous groups in southern and central Mexico maintain active
-sacred mushroom traditions:
+[[allegro-the-sacred-mushroom-amanita-identification]] traditions:
 
 - **Mazatec**: The most well-known mushroom-using group, inhabiting the
-  Sierra Mazateca of Oaxaca. The Mazatec use Psilocybe mexicana, P.
+  Sierra Mazateca of Oaxaca. The Mazatec use [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]], P.
   caerulescens var. mazatecorum, P. hoogshagenii, P. muliercula, P.
   wassoniorum, and Conocybe siligineoides in all-night veladas (vigils)
-  led by curanderos (healers). Maria Sabina, the famous Mazatec
+  led by curanderos (healers). [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]], the famous Mazatec
   curandera who introduced Wasson to the mushroom ritual, is the most
   iconic figure in the history of sacred mushroom use.
 
@@ -62,7 +62,7 @@ began with the expeditions of R. Gordon Wasson, a vice-president of J.P.
 Morgan and amateur mycologist. Wasson and his wife Valentina Pavlovna
 traveled to Huautla de Jimenez, Oaxaca, in 1955 and participated in a
 velada with Maria Sabina. Their 1957 Life magazine article "Seeking the
-Magic Mushroom" brought the practice to global attention. Wasson's work
+[[australian-magic-mushroom-common-names]]" brought the practice to global attention. Wasson's work
 inspired the chemical investigation by gordon-wasson at Sandoz, who
 isolated psilocybin from P. mexicana in 1958. Roger Heim, Director of
 the Museum National d'Histoire Naturelle in Paris, accompanied Wasson

@@ -25,7 +25,7 @@ sources:
 the family Fabaceae, native to Europe, western Asia, and northwest Africa.
 One of the most important forage legumes in temperate agriculture, it is
 widely valued as a nitrogen-fixing cover crop, pasture species, and
-medicinal herb rich in phytoestrogenic isoflavones.
+[[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] rich in phytoestrogenic isoflavones.
 
 ## Taxonomy and Morphology
 
@@ -48,7 +48,7 @@ atmospheric nitrogen.
 ## Distribution and Habitat
 
 Native to Europe, the Caucasus, and western Asia. Introduced and
-naturalized in North America, South America, Australia, New Zealand,
+naturalized in [[psilocybin-north-america-pacific-northwest]], South America, Australia, New Zealand,
 and temperate Asia. Found in meadows, pastures, roadsides, and forest
 margins at elevations up to 2,500 m.
 
@@ -58,12 +58,12 @@ at 15–25°C with 600–1,200 mm annual rainfall.
 
 ## Cultivation and Varieties
 
-Established by direct seeding at 8–12 kg/ha in early spring or late
+Established by [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] at 8–12 kg/ha in [[coleman-overwintered-onions-and-early-spring-crops]] or late
 summer. Inoculation with *R. trifolii* recommended on new sites.
 Seedling emergence in 5–7 days; first cut at 50–60 days.
 
 Red clover typically persists 2–3 years. Dry matter yields range
-from 8–14 t/ha/year. Nitrogen fixation: 100–200 kg N/ha/year.
+from 8–14 t/ha/year. [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]: 100–200 kg N/ha/year.
 
 Major types include **medium red clover** (double-cut, two hay cuts
 per season, 2-year persistence) and **mammoth red clover** (single-
@@ -115,7 +115,7 @@ In temperate permaculture designs, red clover serves multiple functions:
 - **Living mulch**: Undersown in orchards and vineyards to suppress
   weeds and retain soil moisture.
 - **Pollinator support**: Long bloom period (May–October) provides
-  consistent forage for beneficial insects.
+  consistent forage for [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
 - **Animal forage**: High protein (15–22% CP) for grazing systems.
 - **Soil building**: Deep taproot breaks compacted layers and cycles
   subsoil minerals.
@@ -125,4 +125,4 @@ white clover.
 
 ## See Also
 
-- [[lupinus-albus]] · [[alfalfa-medicago-sativa]] · [[dynamic-accumulators]] · [[food-forest-permaculture]] · [[three-sisters]]
+- lupinus-albus · [[alfalfa-medicago-sativa]] · [[dynamic-accumulators]] · [[food-forest-permaculture]] · three-sisters

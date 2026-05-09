@@ -1,5 +1,5 @@
 ---
-title: Old Testament Figures as Fertility Deities (Allegro)
+title: allegro old testament figures as fertility deities Figures as Fertility Deities (Allegro)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -10,19 +10,19 @@ sources:
 
 # Old Testament Figures as Fertility Deities
 
-Allegro extends his cryptographic analysis to the major figures of the Old Testament, arguing that patriarchs, prophets, and heroes are not historical persons but personifications of the sacred mushroom and its cultic use.
+Allegro extends his cryptographic analysis to the major figures of the Old Testament, arguing that patriarchs, prophets, and heroes are not historical persons but personifications of the [[allegro-the-sacred-mushroom-amanita-identification]] and its cultic use.
 
 ## Abraham: The Father of the Mushroom
 
 Abraham's name is traditionally explained as "father of a multitude" (Hebrew 'ab hamon goyim, Gen 17:5). Allegro connects it instead to the Sumerian AB-BA-RA-AM, a mushroom name meaning "father of the erect one" or "father of fecundity." Abraham is the personification of the cosmic phallus — the "father" who impregnates the world.
 
-His journey from Ur of the Chaldees (Gen 11:31) to Canaan mirrors the spread of the mushroom cult from Sumer westward. The covenant of circumcision (Gen 17:9-14) is a literalized version of the mushroom's phallic significance — the cutting of the foreskin mirrors the mushroom's emergence from its volva.
+His journey from Ur of the Chaldees (Gen 11:31) to Canaan mirrors the spread of the [[african-mushroom-cult-history]] from Sumer westward. The covenant of circumcision (Gen 17:9-14) is a literalized version of the mushroom's phallic significance — the cutting of the foreskin mirrors the mushroom's emergence from its volva.
 
 The near-sacrifice of Isaac (Gen 22) encodes the mushroom cult's understanding of death and rebirth. Isaac is bound on an "altar" (the drying rack), a "ram" (the mushroom itself) is substituted, and the story ends with a promise of blessing — the mushroom's gift of fertility restored.
 
 ## Isaac: The Laughing Mushroom
 
-Isaac (Hebrew Yitschaq, "he laughs") derives, Allegro argues, from a Sumerian mushroom name connected to laughter — the ecstatic laughter produced by the Amanita muscaria. Sarah's laughter at the promise of a child in old age (Gen 18:12) and Abraham's laughter (Gen 17:17) both encode the mushroom experience.
+Isaac (Hebrew Yitschaq, "he laughs") derives, Allegro argues, from a Sumerian mushroom name connected to laughter — the ecstatic laughter produced by the [[allegro-amanita-muscaria-properties-and-pharmacology]]. Sarah's laughter at the promise of a child in old age (Gen 18:12) and Abraham's laughter (Gen 17:17) both encode the mushroom experience.
 
 The "binding of Isaac" (Aqedah) is the mushroom's binding for drying. The ram caught by its horns in a thicket (Gen 22:13) is the mushroom's cap caught in vegetation — its white spots (warts) like the ram's fleece.
 
@@ -42,13 +42,13 @@ His ascent into heaven in a whirlwind of fire (2 Kgs 2:11) describes the mushroo
 
 ## Jonah: The Mushroom in the Deep
 
-Jonah (Hebrew Yonah, "dove") connects to the dove as a fertility symbol (see [[sacred-mushroom-and-the-cross]]. While mainstream Assyriologists and biblical scholars have largely rejected his philological methods, the broader question of psychoactive plant use in ancient Near Eastern religion continues to receive serious scholarly attention. The discovery of psychoactive substances at archaeological sites and the analysis of ritual plant residues have opened new avenues for investigating the role of entheogens in ancient religion that were unavailable in Allegro's time.
+Jonah (Hebrew Yonah, "dove") connects to the dove as a fertility symbol (see [[sacred-mushroom-and-the-cross]]. While mainstream Assyriologists and biblical scholars have largely rejected his philological methods, the broader question of psychoactive plant use in [[allegro-fertility-philosophy-of-the-ancient-near-east]] Eastern religion continues to receive serious scholarly attention. The discovery of psychoactive substances at archaeological sites and the analysis of ritual plant residues have opened new avenues for investigating the role of entheogens in ancient religion that were unavailable in Allegro's time.
 
 Critics argue that Allegro's methodology relies on selective citation of Sumerian and Hebrew roots, ignoring established philological standards. Supporters note that his work, even where flawed, raised important questions about the literal reading of ancient religious texts and the possible role of psychoactive substances in the development of religious concepts that deserve further investigation.
 
 ## Key Points
 
-- Death-resurrection myths across the ancient Near East share structural similarities with mushroom life cycles
+- Death-resurrection myths across the ancient Near East share structural similarities with [[pf-tek-mushroom-life-cycle-timeline]] cycles
 - Allegro connected Sumerian and Hebrew terminology for life, death, and resurrection to mushroom-related roots
 - The pattern extended from Mesopotamian Tammuz/Inanna cults through Greek Dionysian mysteries to Christian resurrection narratives
 - The goddess-god dynamic in these myths was interpreted as reflecting the earth-mushroom relationship
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

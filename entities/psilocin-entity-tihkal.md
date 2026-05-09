@@ -55,26 +55,26 @@ This variability is one of the strongest arguments for chemical purity in psycho
 
 Psilocin (4-HO-DMT) was synthesized from 4-acetoxyindole via indoleglyoxyl chloride, dimethylamide formation, and LAH reduction. The free base crystallizes from ethyl acetate/hexane with mp 103–104 °C. IR shows OH stretch at 3240 cm⁻¹. MS (m/z): C3H8N+ 58 (100%); parent ion 204 (15%).
 
-Most early syntheses employ the O-benzyl ether as a protecting group, requiring additional steps for reductive debenzylation. The phosphate ester (psilocybin) requires conversion of 4-HO-DMT sodium salt with dibenzyl chlorophosphonate, followed by catalytic hydrogenolysis. Yields are very bad, often less than 10%. Psilocybin is much more stable in air than psilocin and is water-soluble.
+Most early syntheses employ the O-benzyl ether as a protecting group, requiring additional steps for reductive debenzylation. The phosphate ester (psilocybin) requires conversion of 4-HO-DMT sodium salt with dibenzyl chlorophosphonate, followed by [[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]]. Yields are very bad, often less than 10%. Psilocybin is much more stable in air than psilocin and is water-soluble.
 
 Sandoz's code for 1-methyl-psilocin is CMY; it has been explored in clinical settings but Shulgin reports no knowledge of its activity.
 
 ## Legal Status
 
-Under the original Controlled Substances Act of 1970, only four plants were explicitly listed as Scheduled Drugs: Marijuana, Peyote, Opium poppy, and Coca leaves. Genera such as Psilocybe, Stropharia, Panaeolus, and Inocybe are nowhere named in the statutes. However, since both psilocin and psilocybin are Schedule I drugs, mushrooms containing them become legal complications — the dried fruiting bodies could be seen as packaging for delivery of a Scheduled I drug, and cultivation as manufacture.
+Under the original Controlled Substances Act of 1970, only four plants were explicitly listed as Scheduled Drugs: Marijuana, Peyote, Opium poppy, and Coca leaves. Genera such as Psilocybe, Stropharia, Panaeolus, and Inocybe are nowhere named in the statutes. However, since both [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] are Schedule I drugs, mushrooms containing them become legal complications — the dried fruiting bodies could be seen as packaging for delivery of a Scheduled I drug, and cultivation as manufacture.
 
 Shulgin noted the drift from criminal statutes (where the burden of proof falls on the accuser and "presumption of innocence" provides protection) to regulatory statutes (where the accused must prove innocence). The random urine test demands, without probable cause, that you prove you do not have drugs in your system — no presumption of innocence. The legal landscape around psychedelic mushrooms remains contested.
 
 ## See Also
 
 - [[bufotenin-entity-tihkal]] — 5-HO-DMT (bufotenine), the 5-hydroxy positional isomer
-- [[psilocybe-cubensis]] — the most widely cultivated psychedelic mushroom species
+- [[psilocybe-cubensis]] — the most widely cultivated [[global-psychedelic-mushroom-species-diversity]]
 
 ## Contemporary Relevance
 
-The pharmacological profile of psilocin and psilocybin has taken on renewed clinical significance since the 2000s resurgence of psychedelic research. Modern clinical trials at institutions like Johns Hopkins and Imperial College London have demonstrated efficacy in treating depression, anxiety, and substance use disorders, using pure synthetic psilocybin rather than mushroom material. This validates Shulgin's early distinction between the value of pure compounds versus crude botanical preparations for controlled research.
+The pharmacological profile of psilocin and psilocybin has taken on renewed clinical significance since the 2000s resurgence of [[mckenna-suppression-psychedelic-research-lsd-therapy]]. Modern [[mushroom-cancer-clinical-trials-overview]] at institutions like Johns Hopkins and Imperial College London have demonstrated efficacy in treating depression, anxiety, and substance use disorders, using pure synthetic psilocybin rather than mushroom material. This validates Shulgin's early distinction between the value of pure compounds versus crude botanical preparations for controlled research.
 
-The compounds' relatively short duration (3-6 hours), compared to LSD (8-12 hours), makes them particularly attractive for therapeutic settings. See [[ketamine-psychedelic-journey-guide]] for the broader clinical context. The growing [[psychedelic-mushroom-decriminalization]] and the emergence of psilocybin therapy centers in Oregon and Colorado represent a remarkable shift from the prohibition era that Shulgin navigated, suggesting that these compounds may finally receive the clinical and cultural recognition their pharmacological profiles have always warranted.
+The compounds' relatively [[savory-short-duration-grazing-and-cell-systems]] (3-6 hours), compared to LSD (8-12 hours), makes them particularly attractive for therapeutic settings. See [[ketamine-psychedelic-journey-guide]] for the broader clinical context. The growing [[psychedelic-mushroom-decriminalization]] and the emergence of psilocybin therapy centers in Oregon and Colorado represent a remarkable shift from the prohibition era that Shulgin navigated, suggesting that these compounds may finally receive the clinical and cultural recognition their pharmacological profiles have always warranted.
 ## Practical Considerations
 
 Successful implementation of Psilocin & Psilocybin — TIHKAL Entry #18 requires attention to
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

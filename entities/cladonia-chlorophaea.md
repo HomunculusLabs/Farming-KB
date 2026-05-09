@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Ahti T. (2000). "Cladoniaceae." Flora Neotropica Monograph 78.
-  - Brodo IM, Sharnoff SD, Sharnoff S. (2001). Lichens of North America. Yale University Press.
+  - Brodo IM, Sharnoff SD, Sharnoff S. (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
   - Purvis OW, Coppins BJ, Hawksworth DL, et al. (1992). The Lichen Flora of Great Britain and Ireland. Natural History Museum.
   - Hammer S. (2001). "A revision of the Australian Cladonia." Bibliotheca Lichenologica 78.
   - Smith CW, Aptroot A, Coppins BJ, et al. (2009). The Lichens of Great Britain and Ireland. British Lichen Society.
@@ -23,7 +23,7 @@ sources:
 
 The species is circumpolar in distribution and occurs across boreal and temperate regions of the Northern Hemisphere. It is a common component of forest floor communities, particularly in coniferous and mixed woodlands.
 
-*C. chlorophaea* is chemically variable, containing several depsidones and depsides that have historically been important in lichen taxonomy. These secondary metabolites include fumarprotocetraric acid and other lichen acids.
+*C. chlorophaea* is chemically variable, containing several depsidones and depsides that have historically been important in lichen taxonomy. These [[antifungal-secondary-metabolites-coprophilous-fungi]] include fumarprotocetraric acid and other lichen acids.
 
 ## Taxonomy and Morphology
 
@@ -51,7 +51,7 @@ The species occurs most commonly on humus, mossy ground, and decaying wood in co
 
 It tolerates a range of moisture regimes but is most abundant in humid, shaded microsites. It is less common in heavily polluted urban environments but persists in moderately polluted areas.
 
-In the Southern Hemisphere, scattered populations occur in montane South America, New Zealand, and southeastern Australia. These disjunct populations may reflect ancient Gondwanan distributions.
+In the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], scattered populations occur in montane South America, New Zealand, and southeastern Australia. These disjunct populations may reflect ancient Gondwanan distributions.
 
 The species is also recorded from rocky outcrops, peatland margins, and acidic soils. It occasionally colonises tree bases and rotting stumps in old-growth forests.
 
@@ -67,9 +67,9 @@ A second chemotype contains **fumarprotocetraric acid** plus **cryptochlorophaei
 
 Trace amounts of thamnolic acid, squamatic acid, and usnic acid have been reported from some populations. These minor constituents are useful for fine-scale chemotaxonomic discrimination.
 
-Chemical analysis by thin-layer chromatography (TLC) or high-performance liquid chromatography (HPLC) is typically required to distinguish *C. chlorophaea* from morphologically similar species in the *C. pyxidata* complex.
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] by thin-layer chromatography (TLC) or high-performance liquid chromatography (HPLC) is typically required to distinguish *C. chlorophaea* from morphologically similar species in the *C. pyxidata* complex.
 
-The depsidones produced by *C. chlorophaea* have documented antimicrobial properties. Fumarprotocetraric acid shows moderate activity against Gram-positive bacteria and some fungal pathogens.
+The depsidones produced by *C. chlorophaea* have documented [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. Fumarprotocetraric acid shows moderate activity against Gram-positive bacteria and some [[bloomfield-fungal-pathogens-and-parasites]].
 
 These lichen acids may also serve defensive functions against herbivory and microbial attack. The chemical variability within the species may reflect local adaptation to different environmental pressures.
 

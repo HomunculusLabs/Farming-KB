@@ -1,5 +1,5 @@
 ---
-title: Hallucinogenic Mushroom Markets and Smartshop Economy in the EU
+title: emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Markets and Smartshop Economy in the EU
 source: carolina-mushrooms_08qxp.md (EMCDDA Thematic Paper, 2006)
 type: concept
 tags: [hallucinogenic-mushrooms, smartshops, drug-markets, EU, psilocybin, legislation]
@@ -9,17 +9,17 @@ created: 2026-05-08
 
 ## Overview
 
-The commercial market for hallucinogenic mushrooms in the European Union
+The commercial market for [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] in the European Union
 emerged as a notable drug trend in the late 1990s and early 2000s, driven by
 the expansion of smartshops in the Netherlands and the rapid growth of internet
 sales. The European Monitoring Centre for Drugs and Drug Addiction (EMCDDA)
-conducted a comprehensive [[free-spore-ring-europe-mushroom-cultivation-network]] Ring Europe (fsre.org) provided various strains at
+conducted a comprehensive [[free-spore-ring-europe-mushroom-cultivation-network]] [[emcdda-free-spore-ring-europe-spore-distribution-network]] (fsre.org) provided various strains at
 approximately €1 per print as a non-profit service.
 
 ## [[psilocybin-psilocin-chemistry]]
 - [[amanita-muscaria-chemistry-and-pharmacology]]
-- emcdda hallucinogenic mushrooms emerging trend
-- mushroom cultivation methods comparison
+- emcdda hallucinogenic mushrooms [[emcdda-epod-project-emerging-trend-detection-methodology]]
+- [[accessible-mushroom-cultivation-for-disabilities]] methods comparison
 ## Practical Applications
 
 Hallucinogenic Mushroom Markets and Smartshop Economy in the EU has a range of practical applications that make it relevant to
@@ -97,4 +97,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

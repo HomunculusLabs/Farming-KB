@@ -15,7 +15,7 @@ Post-traumatic stress disorder (PTSD) arises following exposure to
 extremely painful or traumatic events and can persist for decades.
 Primary orthodox treatments include talk-therapy and pharmaceutical
 medications, primarily antidepressants and anxiolytics. However, misuse
-of prescription drugs and severe adverse effects frame clear limitations
+of prescription drugs and severe [[blesching-cannabis-safety-adverse-effects-evidence]] frame clear limitations
 of pharmaceutical intervention. Despite success from cognitive
 behavioral therapies, patients often show vulnerability to reversal of
 progress by exposure to stress and stress triggers. Cannabis offers a
@@ -36,10 +36,10 @@ extinction. This may explain why cannabinoids can modulate panic
 responses both before and after traumatic events.
 
 An Ottawa study (2009) reported that cannabis could remove fear
-responses to stressors such as nightmares, poor sleep, night sweats,
+responses to stressors such as nightmares, poor sleep, [[blesching-cannabis-cancer-night-sweats]],
 and flashbacks. Forty-seven PTSD patients whose nightmares failed to
 respond adequately to standard pharmaceutical antidepressants and
-hypnotics received the synthetic cannabinoid [[endocannabinoid-system]] plays a necessary role in the extinction of
+hypnotics received the synthetic cannabinoid [[cannabis-health-endo-cannabinoid-system]] plays a necessary role in the extinction of
 aversively motivated behaviors. Their results provided compelling
 support for the hypothesis that endogenous cannabinoids are involved
 specifically in forgetting painful events while being expendable for
@@ -72,7 +72,7 @@ persistent aspects of PTSD.
 ## Extinction Learning Mechanism
 
 The endocannabinoid system's role in extinction learning is central to
-its therapeutic potential for PTSD. Extinction learning is the process
+its [[metzner-ayahuasca-therapeutic-potential]] for PTSD. Extinction learning is the process
 by which conditioned fear responses are diminished through repeated
 exposure to fear-inducing stimuli without adverse consequences. This
 is the goal of most PTSD therapies. Cannabinoids facilitate this
@@ -104,7 +104,7 @@ social isolation.
 
 ## Summary
 
-Cannabis shows promising potential for PTSD treatment through multiple
+Cannabis shows promising potential for [[cannabis-anxiety-and-ptsd-treatment]] through multiple
 mechanisms: modulation of the amygdala's fear response via CB1
 receptors, facilitation of extinction learning, reduction of nightmares
 and flashbacks, and improvement in sleep quality. The total CHI value of

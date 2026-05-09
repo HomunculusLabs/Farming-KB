@@ -51,7 +51,7 @@ It thrives in a wide range of habitats including hedgerows, woodland margins, sc
 
 *C. oxyacantha* is hardy to USDA Zone 4 (−34 °C) and prefers full sun to partial shade. It is drought-tolerant once established and withstands strong winds, making it a common component of windbreak plantings and agricultural hedgerows.
 
-The plant has been widely naturalized outside its native range, particularly in eastern North America, New Zealand, and temperate South America. It is considered an invasive species in parts of the Pacific Northwest of the United States.
+The plant has been widely naturalized outside its native range, particularly in [[polypore-fungi-eastern-north-america]] America, New Zealand, and temperate South America. It is considered an invasive species in parts of the Pacific Northwest of the [[dmt-containing-plants-united-states-halpern]].
 
 In its native range, *C. oxyacantha* is one of the most characteristic components of traditional agricultural hedgerows, often planted alongside *Prunus spinosa* (blackthorn), *Crataegus monogyna*, and various *Rosa* species. These mixed hedges serve as livestock barriers, wildlife corridors, and sources of wild-harvested fruits.
 
@@ -65,7 +65,7 @@ The pharmacological activity of *C. oxyacantha* is attributed primarily to flavo
 
 **Triterpenic acids** including oleanolic acid, ursolic acid, and crataegolic acid are present in the leaves and contribute to anti-inflammatory activity.
 
-Cardiovascular effects include positive inotropic action (increased myocardial contractility), coronary vasodilation, and mild ACE-inhibitory activity. Clinical trials have demonstrated reductions in blood pressure and improvements in exercise tolerance in patients with NYHA class II heart failure.
+Cardiovascular effects include positive inotropic action (increased myocardial contractility), coronary vasodilation, and mild ACE-inhibitory activity. [[mushroom-cancer-clinical-trials-overview]] have demonstrated reductions in blood pressure and improvements in exercise tolerance in patients with NYHA class II heart failure.
 
 The European Medicines Agency recognizes hawthorn leaf and flower extracts as a "well-established use" herbal medicine for mild heart failure (HMPC monograph, 2016). Typical therapeutic doses range from 160–900 mg of standardized extract daily.
 
@@ -89,7 +89,7 @@ The flowers are an important nectar source for pollinators in early summer, attr
 
 The fruits are consumed by over 30 species of birds, including blackbirds (*Turdus merula*), fieldfares (*Turdus pilaris*), and redwings (*Turdus iliacus*). Mammals including foxes, badgers, and small rodents also disperse haws, contributing to the species' natural regeneration and spread.
 
-The plant serves as a host for several gall-forming insects and rust fungi, most notably *Gymnosporangium clavipes* (cedar-hawthorn rust), which alternates between *Juniperus* and *Crataegus* hosts. It is also a host for numerous Lepidoptera larvae, including the hawthorn moth (*Scythropia crataegella*) and several hairstreak butterflies.
+The plant serves as a host for several gall-forming insects and [[biodiversity-rust-fungi-urediniomycetes]], most notably *Gymnosporangium clavipes* (cedar-hawthorn rust), which alternates between *Juniperus* and *Crataegus* hosts. It is also a host for numerous Lepidoptera larvae, including the hawthorn moth (*Scythropia crataegella*) and several hairstreak butterflies.
 
 In agroforestry systems, hawthorn hedges reduce soil erosion, filter agricultural runoff, and act as windbreaks that improve microclimate conditions for adjacent crops. Hedgerow management practices that maintain mature hawthorn specimens are recognized as beneficial for farmland biodiversity in EU Common Agricultural Policy guidelines.
 
@@ -100,7 +100,7 @@ As an ornamental, hawthorn is valued for its dense thorny habit (useful as a bar
 ## See Also
 
 - [[crataegus-laevigata]]
-- [[rosa-canina]]
+- rosa-canina
 - [[rubus-fruticosus]]
 - [[ginkgo-biloba]]
 - [[salvia-officinalis]]

@@ -1,5 +1,5 @@
 ---
-title: "Shamanic Singing and Darkness in Entheogenic Ceremonies"
+title: "Shamanic shamanic singing and darkness in entheogenic ceremonies in metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti"
 tags:
   - shamanism
   - entheogens
@@ -29,12 +29,12 @@ created: 2026-05-07
 ## Three Distinctive Features of Shamanic Ceremony
 
 Ralph Metzner identified three features that consistently distinguish traditional shamanic
-entheogenic ceremonies from Western psychedelic psychotherapy sessions. These three elements
+entheogenic ceremonies from Western [[metzner-psychedelic-psychotherapy-clinical-history]] sessions. These three elements
 — minimal talking, essential singing, and darkness or low light — represent a convergent
 cultural solution to the practical challenges of navigating expanded states of consciousness.
 They have been independently arrived at by cultures separated by continents and millennia,
 suggesting they address fundamental neurophysiological and psychological needs of the human
-organism in altered states.
+organism in [[weil-the-natural-mind-altered-states-normalcy]].
 
 ### Minimal Talking Among Participants
 
@@ -61,7 +61,7 @@ simultaneous functions. The rhythmic pulse of the singing provides a "support fo
 through the flow of visions," preventing the voyager from becoming stuck in frightening or
 seductive experiences. The shaman's singing "profoundly shapes the quality and content of
 the experience" — this is not mere accompaniment but active co-creation of the visionary
-landscape. In Amazonian ayahuasca ceremonies, the shaman's songs are called *icaros*, and
+landscape. In [[harner-amazonian-ayahuasca-preparation-methods]] ceremonies, the shaman's songs are called *icaros*, and
 through them the actual healing and/or diagnosis takes place. The singing typically has a
 "fairly rapid beat, similar to the rhythmic pulse in shamanic drumming journeys" found
 throughout Northern Hemisphere shamanic traditions, suggesting it addresses a fundamental
@@ -81,7 +81,7 @@ visual input of ordinary daylight.
 
 ## Mazatec Velada
 
-The mushroom ceremonies (*velada*) of the Mazatec Indians of Mexico involve participants
+The [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]] (*velada*) of the Mazatec Indians of Mexico involve participants
 sitting or lying in a very dark room with only a small candle. The healer — who may be a
 woman or a man — sings almost uninterruptedly throughout the night, weaving into the chants
 the names of Christian saints, spirit allies, and the spirits of the Earth, the elements,
@@ -136,10 +136,15 @@ consciousness. The rapid rhythmic singing provides a stable auditory anchor that
 the voyager from being overwhelmed by the intensity of the experience. The combination of
 darkness, minimal talking, and continuous singing works synergistically to prevent the
 common problem of becoming "stuck" in a particular vision, emotion, or thought loop. The
-presence of continuous singing allows the participant to surrender without the anxiety of
 ## See Also
+
+- [[hybrid-shamanic-therapeutic-rituals-metzner]]
+
+- [[shamanic-entheogenic-ceremony-structure-common-elements]]
+
+- [[darkness-low-light-facilitation-entheogenic-ceremonies]]
 
 - [[metzner-shamanic-healing-and-divination-paradigm]] for the broader shamanic framework
 - [[metzner-hybrid-shamanic-therapeutic-rituals]] for modern adaptations
 - [[harner-shamanic-journey-and-altered-states]] for Northern Hemisphere drumming traditions
-- [[metzner-syncretic-entheogenic-folk-ceremonies-community-ritual]] for syncretic forms
+- metzner-syncretic-entheogenic-folk-ceremonies-community-ritual for syncretic forms

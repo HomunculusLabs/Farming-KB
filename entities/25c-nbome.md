@@ -106,14 +106,14 @@ primarily from:
   consuming multiple tabs believing they are LSD, leading to massive
   overdose (25C-NBOMe is active at doses 10–30× lower than LSD).
 
-Harm reduction practices include using reagent tests (Ehrlich's
+[[adverse-effects-and-harm-reduction-psilocybin]] practices include using reagent tests (Ehrlich's
 reagent distinguishes LSD from NBOMe compounds), starting with very
 low doses with volumetric dosing, and never combining with other
 serotonergic drugs.
 
 ## Legal Status
 
-Controlled or scheduled in numerous jurisdictions. In the United States,
+Controlled or scheduled in numerous jurisdictions. In the [[dmt-containing-plants-united-states-halpern]],
 it is a Schedule I substance under the Federal Analog Act. The UK
 classified all NBOMe compounds as Class A drugs in 2014. Many other
 countries (Australia, New Zealand, Germany, Sweden) have placed it
@@ -130,6 +130,8 @@ under emergency scheduling or permanent control.
   pharmacological and dose differences distinguish the two.
 
 ## See Also
+
+- [[25i-nbome]]
 
 - [[25b-nbome]]
 - [[lsd]]

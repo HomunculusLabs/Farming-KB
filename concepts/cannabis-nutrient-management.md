@@ -1,5 +1,5 @@
 ---
-title: Cannabis Nutrient Management
+title: Cannabis green-cannabis-grow-bible-nutrient-management-ppm
 created: 2026-04-28
 tags:
   - cannabis
@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-Proper nutrient management is fundamental to successful cannabis cultivation.
+Proper nutrient management is fundamental to successful [[query-how-does-no-till-cannabis-cultivation-work]].
 The cannabis plant produces long, winding roots into the soil that absorb
 water and minerals to fuel growth. Understanding the three major factors of
 soil management (pH, nutrients, and structure) allows growers to create
@@ -51,7 +51,7 @@ nutrient delivery without the stress of transplanting a flowering plant.
 pH is a measurement of acidity and alkalinity on a scale of 1-14, where 7
 is neutral. Cannabis plants in soil prefer a pH of approximately 7. Going
 above or below this range can cause significant plant problems including
-nutrient lockout, where minerals become unavailable to roots even when
+[[cannabis-nutrient-lockout-and-ph]], where minerals become unavailable to roots even when
 present in the soil.
 
 Check pH regularly, at least once per week for soil-grown plants, and
@@ -108,8 +108,8 @@ With experience, the ratios can be fine-tuned to specific plant needs.
 
 Nutrient problems manifest visually on the leaves. Nitrogen deficiency
 causes yellowing of lower leaves (chlorosis) that progresses upward.
-Phosphorus deficiency shows as dark green or purplish leaves with slow
-growth. Potassium deficiency causes brown leaf edges and weak stems.
+[[query-how-to-fix-phosphorus-deficiency-in-cannabis]] shows as dark green or purplish leaves with slow
+growth. [[knf-potassium-deficiency-and-excess]] causes brown leaf edges and weak stems.
 
 Nutrient toxicity (nutrient burn) typically results from over-fertilization.
 Leaves develop burned, curled tips that feel dry and crispy. If nutrient
@@ -131,5 +131,5 @@ systems.
 
 - [[soil-ph-management]]
 - [[vermiculite-cannabis]]
-- cannabis pest and disease management
+- cannabis pest and [[plant-disease-management-solomon]]
 - [[teaming-with-nutrients-essential-plant-nutrients]]

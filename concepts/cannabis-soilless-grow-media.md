@@ -5,19 +5,19 @@ updated: 2026-04-16
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis Soilless Grow Media
 
 Soilless growing media are artificial or mineral-based substrates used to support cannabis plants in hydroponic and container growing systems. Unlike soil, these media provide physical support and moisture retention but contain little to no inherent nutritional value, requiring all nutrients to be delivered through fertigation. The selection of growing medium significantly impacts root health, water management, and overall plant performance.
 
-The early developers of artificial growing media discovered that plants needed a suitable material that holds minerals, performs drainage, and allows air to reach the roots. When they found that roots did not respond well to the mediums themselves but thrived when nutrients were added by hand, they looked to history and found that many ancient civilizations grew plants directly in running streams. This insight eventually led to the development of modern hydroponic growing media.
+The early developers of artificial growing media discovered that plants needed a suitable material that holds minerals, performs drainage, and allows air to reach the roots. When they found that roots did not respond well to the mediums themselves but thrived when nutrients were added by hand, they looked to history and found that many ancient civilizations grew plants directly in running streams. This insight eventually led to the development of modern [[cannabis-grow-hydroponic-growing-systems]] media.
 
 ## Rockwool
 
-Rockwool is the most widely used soilless growing medium in cannabis cultivation. It is manufactured by spinning molten basaltic rock into fine fibers, which are then compressed into cubes, slabs, or blocks. Rockwool cubes come in various sizes and are particularly popular for seed germination and clone rooting.
+Rockwool is the most widely used soilless growing medium in [[query-how-does-no-till-cannabis-cultivation-work]]. It is manufactured by spinning molten basaltic rock into fine fibers, which are then compressed into cubes, slabs, or blocks. Rockwool cubes come in various sizes and are particularly popular for seed germination and clone rooting.
 
-Rockwool provides excellent water retention while maintaining adequate air porosity, creating an ideal balance for root development. However, rockwool is naturally alkaline with a pH around 8.0, so it must be pre-soaked for 24 hours in pH-adjusted water (around 5.5) before use. This conditioning step stabilizes the fiber and brings the pH into the acceptable range for cannabis nutrient uptake.
+Rockwool provides excellent water retention while maintaining adequate air porosity, creating an ideal balance for root development. However, rockwool is naturally alkaline with a pH around 8.0, so it must be pre-soaked for 24 hours in pH-adjusted water (around 5.5) before use. This conditioning step stabilizes the fiber and brings the pH into the acceptable range for [[green-cannabis-nutrient-schedules]] uptake.
 
 Rockwool cubes are excellent for cloning and propagation. Cuttings root readily in rockwool when provided with adequate moisture and humidity. Once rooted, clones can be transplanted directly from rockwool cubes into larger rockwool blocks or other growing systems without disturbing the root ball, minimizing transplant shock.
 
@@ -55,19 +55,19 @@ Vermiculite is often used in seed germination and clone rooting because of its e
 
 ## Peat Moss
 
-Peat moss is partially decomposed sphagnum moss harvested from peat bogs. It has excellent water retention and provides a slightly acidic growing environment. In cannabis cultivation, peat moss is most commonly used as a component of soilless potting mixes, often combined with perlite, vermiculite, and nutrient amendments.
+Peat moss is partially decomposed sphagnum moss harvested from peat bogs. It has excellent water retention and provides a slightly acidic [[cannabis-growing-environment-setup]]. In cannabis cultivation, peat moss is most commonly used as a component of soilless potting mixes, often combined with perlite, vermiculite, and nutrient amendments.
 
 Peat moss has significant cation exchange capacity and provides a hospitable environment for beneficial microorganisms when used in living soil systems. However, it is not considered a sustainable resource since peat bogs regenerate extremely slowly. Many growers are transitioning to coco coir as a more renewable alternative with similar properties.
 
 ## Pro-Mix and Commercial Blends
 
-Commercial soilless blends such as Pro-Mix combine peat moss, perlite, vermiculite, and often mycorrhizal inoculants and wetting agents into pre-formulated growing media. These products offer convenience and consistency but vary widely in quality. Some blends include starter nutrients, while others are completely inert.
+Commercial soilless blends such as Pro-Mix combine peat moss, perlite, vermiculite, and often [[pgpr-mycorrhizal-inoculants-microplant-establishment]] and wetting agents into pre-formulated growing media. These products offer convenience and consistency but vary widely in quality. Some blends include starter nutrients, while others are completely inert.
 
 ## Selection Considerations
 
 The choice of growing medium depends on the cultivation system, grower experience level, and specific plant needs. Beginners may find soil-based or coco-based media more forgiving, while experienced growers often prefer the precision of rockwool or clay pebbles in hydroponic systems.
 
-Water retention, drainage characteristics, pH stability, and reusability are the primary factors to consider. Whatever medium is selected, proper preparation and conditioning before planting is essential for optimal results. Each medium has specific requirements for pre-treatment, pH adjustment, and nutrient management that must be followed for success.
+Water retention, drainage characteristics, pH stability, and reusability are the primary factors to consider. Whatever medium is selected, proper preparation and conditioning before planting is essential for optimal results. Each medium has specific requirements for pre-treatment, pH adjustment, and [[green-cannabis-grow-bible-nutrient-management-ppm]] that must be followed for success.
 
 Cost is another important consideration. Rockwool and peat moss are relatively inexpensive per use but are disposable, while clay pebbles have higher upfront costs but can be reused indefinitely with proper cleaning. Coco coir falls in the middle range and is increasingly available at competitive prices in compressed brick form.
 

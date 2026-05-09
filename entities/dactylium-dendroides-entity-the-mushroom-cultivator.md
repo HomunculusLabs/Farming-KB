@@ -6,7 +6,7 @@ tags: [contaminant, cobweb-mold, pathogen, casing-contaminant, fungal-disease]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+  sources: []
 ---
 
 # Dactylium dendroides
@@ -22,7 +22,7 @@ Hypomyces rosellus, a teleomorphic fungus in the Hypocreales. Some species of
 Hypomyces are known to attack wild mushrooms, particularly Lactarius, Russula,
 Agaricus, and Amanita species. D. dendroides is commonly known by several names
 including Cobweb Mold, Downy Mildew, and Soft Mildew, all of which describe its
-characteristic appearance in mushroom cultivation environments.
+characteristic appearance in [[accessible-mushroom-cultivation-for-disabilities]] environments.
 
 ## Morphology
 
@@ -51,13 +51,13 @@ specialization in trapping nematodes by arranging their hyphae into loose coils.
 a nematode enters one of these loops, the hyphae contract and trap the organism. This
 nematode-trapping behavior indicates a predatory ecological role for some members of
 this fungal group. D. dendroides is well adapted to the moist, nutrient-rich
-conditions found in mushroom growing rooms and casing layers.
+conditions found in [[duggar-mushroom-growing-history-and-methods]] rooms and casing layers.
 
 ## Role in Mushroom Cultivation
 
 In The Mushroom Cultivator, Dactylium dendroides is identified as one of the most
 troublesome casing layer contaminants in mushroom cultivation. It is listed in the
-Contaminants of Mushroom Culture chapter with a full description of its
+[[cultivator-contaminants-of-mushroom-culture]] Culture chapter with a full description of its
 characteristics, identification, and control measures. Cobweb Mold is described as a
 fast-growing, tenacious contaminant that poses a serious threat to mushroom crops,
 particularly during the fruiting stage. Spores germinate upon contact with a mushroom
@@ -72,7 +72,7 @@ operations.
 The Mushroom Cultivator provides several recommended measures for controlling
 Dactylium dendroides contamination:
 
-- **Immediate isolation** of parasitized fruitbodies from the growing environment to
+- **Immediate isolation** of parasitized fruitbodies from the [[cannabis-growing-environment-setup]] to
   prevent further spread.
 - **Lowering relative humidity** to create conditions less favorable for cobweb mold
   growth.
@@ -86,7 +86,7 @@ Dactylium dendroides contamination:
 
 Spores of Dactylium dendroides are killed when exposed to temperatures of 115-122
 degrees F for only 30 minutes (Anderson, 1956). This relatively low thermal death
-point means that proper pasteurization of casing materials is an effective preventive
+point means that proper pasteurization of [[mushroom-cultivator-casing-materials-buffering-agents]] is an effective preventive
 measure.
 
 ## Spread and Transmission
@@ -100,7 +100,7 @@ Water used for misting or watering can carry spores from contaminated areas to c
 areas. Insects, particularly fungus gnats and other small flies commonly found in
 mushroom growing rooms, can transport spores on their bodies as they move between
 substrates. The multiple transmission pathways make comprehensive hygiene and
-environmental control essential for managing cobweb mold outbreaks.
+[[eclss-environmental-control-life-support]] essential for managing cobweb mold outbreaks.
 
 ## Interactions
 

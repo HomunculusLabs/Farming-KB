@@ -13,7 +13,7 @@ sources:
 
 DMMDA (PIHKAL #58) is a psychedelic amphetamine with a uniquely crowded substitution pattern — methoxy groups at the 2 and 5 positions plus a methylenedioxy bridge spanning the 3 and 4 positions. This five-substituent pattern (four substituents on four positions of the ring, with one bridge covering two) makes DMMDA one of the most heavily substituted amphetamine derivatives in PIHKAL. It is derived from apiole, a constituent of parsley oil.
 
-DMMDA holds historical significance as the first tetraoxygenated amphetamine ever explored in man, with initial testing dating back to 1962. Its natural origin from parsley essential oil — specifically the compound apiole — provides a fascinating connection between the botanical spice world and synthetic psychopharmacology. See [[shulgin-dosage-guidelines]].
+DMMDA holds historical significance as the first tetraoxygenated amphetamine ever explored in man, with initial testing dating back to 1962. Its natural origin from parsley [[permaculture-designers-manual-essential-oil-plants]] — specifically the compound apiole — provides a fascinating connection between the botanical spice world and synthetic psychopharmacology. See [[shulgin-dosage-guidelines]].
 
 ## Effects
 
@@ -45,9 +45,9 @@ The contrast between graded and single-dose administration at the same total amo
 
 ## The Ten Essential Amphetamines
 
-DMMDA occupies a special position in Shulgin's body of work as "one of the ten essential amphetamines." These ten compounds are each derived from one of ten essential oils — botanical sources that bridge the worlds of natural products chemistry and synthetic psychopharmacology.
+DMMDA occupies a special position in Shulgin's body of work as "one of the ten essential amphetamines." These ten compounds are each derived from one of ten [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] — [[dmt-botanical-sources-pharmacology]] that bridge the worlds of natural products chemistry and synthetic psychopharmacology.
 
-The natural precursor for DMMDA is apiole, isolated from commercial Oil of Parsley by fractional distillation (bp 165-167 °C at 27 mm/Hg). Shulgin reflected that this connection "ties together the spice world and the amphetamine world" — a poetic framing of the relationship between culinary herbs and synthetic psychedelics. The concept of "essential amphetamines" parallels and extends the classical "essential oils" of perfumery and herbalism, reframing botanical chemistry through the lens of psychopharmacology.
+The natural precursor for DMMDA is apiole, isolated from commercial Oil of Parsley by [[cannabis-fractional-distillation-cannabinoids]] (bp 165-167 °C at 27 mm/Hg). Shulgin reflected that this connection "ties together the spice world and the amphetamine world" — a poetic framing of the relationship between [[holzer-medicinal-and-culinary-herbs-compendium]] and synthetic psychedelics. The concept of "essential amphetamines" parallels and extends the classical "essential oils" of perfumery and herbalism, reframing botanical chemistry through the lens of psychopharmacology.
 
 ## Synthesis (from PIHKAL)
 
@@ -63,7 +63,7 @@ The N-methylated derivative of DMMDA, also designated DMMDMA, represents an [[mm
 
 - Variable dose-response — individual sensitivity varies considerably
 - Some nausea on onset
-- Relatively short duration (6-8 hours) for an amphetamine-based psychedelic
+- Relatively [[savory-short-duration-grazing-and-cell-systems]] (6-8 hours) for an amphetamine-based psychedelic
 - The natural origin from parsley oil does not imply safety
 - High dose requirements (up to 75 mg) increase the risk of dosing errors
 - The graded-dosing paradox (no effects from gradual administration) complicates titration approaches
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

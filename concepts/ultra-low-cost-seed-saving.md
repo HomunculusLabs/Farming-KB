@@ -16,7 +16,7 @@ In the JADAM ultra-low-cost farming system, seed self-sufficiency is a critical 
 
 ## Growing Your Own Seedlings
 
-JADAM strongly recommends that farmers grow their own seedlings rather than purchasing them from commercial nurseries. In modern commercial agriculture, seedling growers prioritize appearance over health — they often use chemical fertilizers to boost visual appeal while neglecting the plant's overall lifecycle and long-term vitality.
+JADAM strongly recommends that farmers grow their own seedlings rather than purchasing them from commercial nurseries. In modern commercial agriculture, seedling growers prioritize appearance over health — they often use [[cervantes-chemical-fertilizers-guide]] to boost visual appeal while neglecting the plant's overall lifecycle and long-term vitality.
 
 For perennial crops and fruit trees, JADAM considers it essential to grow your own saplings and prepare them the JADAM way for at least 1-2 years before transplanting. This ensures that plants have been raised with balanced nutrition, proper microbial inoculation, and strong root systems from the very beginning.
 
@@ -26,7 +26,7 @@ For seasonal crops where growing your own seedlings is not always practical, JAD
 
 JADAM has developed a simple but effective seed and seedling treatment using leaf mold. This treatment boosts biodiversity in the seed and seedling environment, providing protection from soil-borne diseases and giving young plants a strong microbial start:
 
-**For seed treatment:**
+**For [[jadam-seed-treatment-and-nursery-management]]:**
 1. Collect leaf mold from a local forest or field
 2. Prepare a solution of leaf mold in water
 3. Place seeds in a porous bag
@@ -53,7 +53,7 @@ JADAM's approach to seed selection follows natural principles rather than commer
 
 ## The Nutritional Perspective Applied to Seeds
 
-JADAM's "nutritional perspective" — the principle that things similar to a crop are good food for that crop — extends to seed saving. The seeds you save carry the nutritional signature of the soil and inputs used to grow the parent plant. When you grow crops using crop-residue-based liquid fertilizers and local microorganisms, the resulting seeds are nutritionally adapted to that system. This creates a positive feedback loop: locally adapted seeds grown with local inputs produce plants that are increasingly well-suited to your farm.
+JADAM's "nutritional perspective" — the principle that things similar to a crop are good food for that crop — extends to seed saving. The seeds you save carry the nutritional signature of the soil and inputs used to grow the parent plant. When you grow crops using crop-residue-based [[solomon-liquid-fertilizers-and-foliar-feeding]] and local microorganisms, the resulting seeds are nutritionally adapted to that system. This creates a positive feedback loop: locally adapted seeds grown with local inputs produce plants that are increasingly well-suited to your farm.
 
 ## Seed Exchanges and Community Seed Systems
 
@@ -64,20 +64,20 @@ JADAM's philosophy of knowledge-sharing extends naturally to seed sharing. While
 - Sharing varieties that have proven successful in the local area
 - Building community resilience through distributed seed stocks
 
-Seed exchanges work best when participating farmers use similar low-input growing methods, as the resulting seeds will be adapted to comparable conditions.
+Seed exchanges work best when participating farmers use similar low-input [[mushroom-growing-methods-comparison]], as the resulting seeds will be adapted to comparable conditions.
 
 ## Seed Storage
 
 JADAM does not prescribe elaborate seed storage systems. Traditional seed storage methods — keeping seeds dry, cool, and protected from pests — remain effective. For ultra-low-cost operations, simple methods include:
 
 - Storing seeds in paper bags or cloth sacks in a dry, cool location
-- Using natural pest deterrents like neem leaves or dried herbs in storage containers
+- Using [[cho-natural-pest-control-methods]] deterrents like neem leaves or dried herbs in storage containers
 - Saving seeds from multiple harvests to ensure backup supply
 - Germination testing before planting to verify viability
 
 ## Cover Crop Seeds
 
-Cover crops play a central role in JADAM farming, and their seeds should also be saved when possible. Many cover crop species — including rye, hairy vetch, clover, and various grasses — readily produce harvestable seed. Rye is particularly valued for its deep root penetration (2-3 meters), which pulls minerals from subsoil and alleviates compaction. Once established, many cover crops will self-seed, eliminating the need for annual reseeding.
+Cover crops play a central role in [[query-what-is-jadam-farming-and-how-does-it-work]], and their seeds should also be saved when possible. Many cover crop species — including rye, hairy vetch, clover, and various grasses — readily produce harvestable seed. Rye is particularly valued for its deep root penetration (2-3 meters), which pulls minerals from subsoil and alleviates compaction. Once established, many cover crops will self-seed, eliminating the need for annual reseeding.
 
 ## The Cost Savings of Seed Self-Sufficiency
 

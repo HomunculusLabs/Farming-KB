@@ -1,5 +1,5 @@
 ---
-title: "Oxalis tuberosa"
+title: "oxalis-tuberosa"
 type: species
 tags:
   - oxalidaceae
@@ -25,7 +25,7 @@ The crop is valued for its productivity at high altitudes (2,500–4,000 m) wher
 
 ## Taxonomy and Morphology
 
-**Oxalis tuberosa** Molina belongs to the family Oxalidaceae and is one of approximately 800 species in the genus *Oxalis*. It is placed in section *Ionoxalis* alongside other tuber-bearing South American species.
+**Oxalis tuberosa** Molina belongs to the family Oxalidaceae and is one of approximately 800 species in the genus *Oxalis*. It is placed in section *Ionoxalis* alongside other tuber-bearing [[chiric-caspi-brunfelsia-south-american-hallucinogen]] species.
 
 The plant grows 20–30 cm tall with a compact, bushy habit and trifoliate leaves resembling clover. Each leaflet is heart-shaped, 2–6 cm long, and folds downward at night (nyctinasty).
 
@@ -43,7 +43,7 @@ Archaeological evidence from the Lake Titicaca basin indicates oca cultivation a
 
 The species grows between 2,500 and 4,000 meters elevation in cool highland climates with mean temperatures of 10–16°C. It requires reliable moisture during the growing season but tolerates moderate frost once established.
 
-Outside South America, oca has been introduced to New Zealand (where it is known as "New Zealand yam"), Mexico, and parts of Europe and North America. In New Zealand it has become naturalized and is sold commercially.
+Outside South America, oca has been introduced to New Zealand (where it is known as "New Zealand yam"), Mexico, and parts of Europe and [[psilocybin-north-america-pacific-northwest]]. In New Zealand it has become naturalized and is sold commercially.
 
 ## Cultivation
 
@@ -73,11 +73,11 @@ Yellow and orange varieties are highest in carotenoids, particularly beta-carote
 
 Oca plays an important role in traditional Andean polyculture systems, often intercropped with potatoes, quinoa, beans, and ulluco. Its sprawling growth habit provides ground cover that suppresses weeds and reduces soil erosion.
 
-The crop contributes nitrogen to the soil through leaf litter decomposition, though it does not form nitrogen-fixing symbioses. Its shallow root system makes it compatible with deep-rooted companion crops.
+The crop contributes nitrogen to the soil through leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]], though it does not form nitrogen-fixing symbioses. Its shallow root system makes it compatible with deep-rooted companion crops.
 
 Oca's tolerance of poor, acidic soils makes it suitable for marginal agricultural land where inputs are limited. The crop can produce acceptable yields on slopes too steep for mechanized agriculture.
 
-In permaculture design, oca suits cool-climate food forests and high-altitude garden systems. Day-neutral varieties have expanded its potential for temperate-zone perennial vegetable beds.
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], oca suits cool-climate food forests and high-altitude garden systems. Day-neutral varieties have expanded its potential for temperate-zone perennial vegetable beds.
 
 Oca's ornamental value is increasingly recognized, with colorful tubers sold through specialty seed companies. Its clover-like foliage and late-season harvest extend the productive season in home gardens.
 
@@ -87,7 +87,7 @@ Oca is relatively pest-resistant compared to potato, though it can be affected b
 
 Foliar diseases include downy mildew (*Peronospora* spp.) and leaf spot fungi, particularly under humid conditions. These rarely cause significant yield losses but can reduce plant vigor.
 
-Viral diseases are considered the most serious long-term threat because oca propagation is entirely vegetative. Virus accumulation over successive clonal generations can lead to gradual yield decline, a phenomenon known as cultivar degeneration.
+[[cervantes-viral-diseases-cannabis]] are considered the most serious long-term threat because oca propagation is entirely vegetative. Virus accumulation over successive clonal generations can lead to gradual yield decline, a phenomenon known as cultivar degeneration.
 
 ## Genetic Resources and Breeding
 

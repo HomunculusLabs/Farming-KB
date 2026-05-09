@@ -1,5 +1,5 @@
 ---
-title: Amanita muscaria — Muscimol and Ibotenic Acid
+title: allegro-amanita-muscaria-properties-and-pharmacology — Muscimol and amanita-muscaria-muscimol-ibotenic-acid-pharmacology
 slug: amanita-muscaria-muscimol-ibotenic-acid
 source: halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
 tags: [amanita, muscimol, ibotenic-acid, mycology, gaba-receptor]
@@ -12,7 +12,7 @@ created: 2026-05-08
 
 Amanita muscaria (fly agaric) and Amanita pantherina (panther
 cap) are mushrooms containing the psychoactive compounds muscimol
-and ibotenic acid. Unlike psilocybin mushrooms which act on
+and ibotenic acid. Unlike [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] which act on
 serotonin receptors, Amanita species produce intoxication through
 GABA receptor agonism and glutamate receptor activity. These
 mushrooms grow throughout much of the United States but carry
@@ -75,7 +75,7 @@ had initially ingested the mushrooms — the active compounds
 pass through largely unmetabolized (Wasson, 1979).
 
 Shamanic practices with Amanita muscaria have been noted among
-traditional peoples of the Arctic Circle and some Native American
+traditional peoples of the Arctic Circle and some [[halpern-sacramental-peyote-and-native-american-church]]
 tribes. The urine recycling practice allowed the psychoactive
 effects to be shared or extended without consuming additional
 mushroom material.
@@ -94,7 +94,7 @@ after ingestion, by which time significant liver damage has
 occurred.
 
 ### Other Toxic Amanita Species
-A. virosa (destroying angel), A. verna, and other white Amanita
+A. virosa ([[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]), A. verna, and other white Amanita
 species contain the same deadly amatoxins as A. phalloides.
 
 ### Why Misidentification Occurs
@@ -109,7 +109,7 @@ species contain the same deadly amatoxins as A. phalloides.
 ## Geographic Distribution
 
 Amanita muscaria grows throughout much of the United States,
-particularly in temperate and boreal forests. It forms
+particularly in temperate and [[fungal-diversity-boreal-forests-taiga]]. It forms
 mycorrhizal associations with birch, pine, spruce, and other
 trees. Despite its wide distribution, poison control centers
 rarely receive reports of suspected Amanita muscaria poisonings,
@@ -127,6 +127,8 @@ a more desirable experience, though it does not eliminate all
 risk.
 
 ## See Also
+
+- muscimol-compound
 
 - [[salvia-divinorum-salvinorin]]
 - [[mescaline-peyote-san-pedro-cactus]]

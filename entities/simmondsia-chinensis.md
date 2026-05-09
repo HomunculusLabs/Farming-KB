@@ -52,7 +52,7 @@ one of the most commercially significant arid-zone crop species.
 - **Edible nuts:** Eaten raw or roasted by indigenous peoples
 
 ### Traditional and Indigenous Uses
-- Name "jojoba" from the native American Hohowi people
+- Name "jojoba" from the [[halpern-sacramental-peyote-and-native-american-church]] Hohowi people
 - Coahuila tribe ground and boiled nuts to make a drink
 - Early settlers used nuts as a coffee substitute
 - Mexicans made a thick chocolate-like drink from roasted nuts,
@@ -78,7 +78,7 @@ one of the most commercially significant arid-zone crop species.
 Jojoba is a model arid-zone crop species for permaculture systems in
 dry regions. Its liquid wax is irreplaceable in many industrial
 applications, providing a high-value product from marginal land. The
-plant's extreme drought tolerance, longevity, and salinity resistance
+plant's extreme [[dighton-fungal-drought-tolerance-plant-water-relations]], longevity, and salinity resistance
 make it ideal for desert agroforestry, while the protein-rich seed
 cake provides a valuable livestock feed byproduct.
 

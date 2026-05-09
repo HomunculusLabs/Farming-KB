@@ -3,6 +3,7 @@ title: Main-Lining
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
@@ -11,7 +12,7 @@ tags: [reference]
 
 # Main-Lining
 
-Main-lining is a systematic cannabis training technique that creates a perfectly symmetrical plant with evenly spaced colas arranged on a horizontal plane. The method combines [[low-stress-training]] (bending and tying branches) to force the plant to grow multiple main stems of equal size and strength. Cervantes describes the underlying principle when he advises to "remove all but the four main branches" and explains that "the meristem (central stem) is removed just above the four lowest branches" so that "fewer branches are stronger and bear a larger quantity of dense, heavy flower tops."
+Main-lining is a systematic [[query-sog-vs-scrog-cannabis-training-methods]] technique that creates a perfectly symmetrical plant with evenly spaced colas arranged on a horizontal plane. The method combines [[low-stress-training]] (bending and tying branches) to force the plant to grow multiple main stems of equal size and strength. Cervantes describes the underlying principle when he advises to "remove all but the four main branches" and explains that "the meristem (central stem) is removed just above the four lowest branches" so that "fewer branches are stronger and bear a larger quantity of dense, heavy flower tops."
 
 ## Core Concept
 
@@ -23,7 +24,7 @@ The technique is sometimes called "manifolding" because the trained branch struc
 
 Cervantes explains the hormonal basis for main-lining:
 
-- "Floral hormones are concentrated in four main branches" when the central leader is removed
+- "Floral hormones are concentrated in four main branches" when the [[comparison-central-leader-vs-open-center-fruit-tree-training]] is removed
 - "Removing the central leader concentrates the floral hormones in the four remaining branches"
 - "Fewer branches are stronger and bear a larger quantity of dense, heavy flower tops"
 - "Removing or bending a branch or branch tip causes hormonal balances to shift"
@@ -66,7 +67,7 @@ A practical timeline for a 4-cola main-line:
 - Week 3: First top above the 3rd node; tie down remaining branches
 - Week 4-5: Recovery and new growth from topped branches
 - Week 5-6: LST to position branches into quadrants; optional second top
-- Week 6-8: Final recovery and vegetative growth; fill canopy
+- Week 6-8: Final recovery and [[cannabis-vegetative-growth-stage]]; fill canopy
 - Week 8+: Switch to 12/12 flowering
 
 Total vegetative time: approximately 6-8 weeks. This is longer than SOG (1-4 weeks) but produces a more structured, higher-quality result per plant.
@@ -88,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: "Lumsden-Wilson Gene Culture Coevolution Theory"
+title: "Lumsden-Wilson mckenna lumsden wilson gene culture coevolution Coevolution Theory"
 created: 2026-04-28
 tags: [evolution, genetics, culture, gene-culture-coevolution, memetics, epigenetics, mckenna]
 date: 2026-04-28
@@ -15,7 +15,7 @@ type: concept
 
 Charles Lumsden and E.O. Wilson's 1981 book *Genes, Mind, and Culture* proposed a comprehensive framework for understanding the relationship between genetic evolution and cultural transmission — a process they termed **gene-culture coevolution**.
 
-Terence McKenna referenced their work in *Food of the Gods* as a theoretical anchor for his own argument that psychoactive plants catalyzed the rapid evolution of human consciousness, language, and social organization.
+[[terence-mckenna]] referenced their work in *Food of the Gods* as a theoretical anchor for his own argument that psychoactive plants catalyzed the rapid evolution of human consciousness, language, and social organization.
 
 While Lumsden and Wilson's sociobiological framework does not explicitly address psychedelic plants, McKenna saw their concept of "culturgens" — units of cultural information that shape gene selection — as providing a scientific basis for understanding how dietary practices could drive genetic evolution.
 
@@ -57,7 +57,7 @@ This estimate suggests that cultural innovations that create new selective envir
 
 The thousand-year rule implies that the major transitions in human prehistory — the development of language, the adoption of agriculture, the rise of civilization — would have been accompanied by corresponding genetic changes.
 
-It also implies that cultural practices persisting for many generations can literally reshape the gene pool of the populations that practice them.
+It also implies that cultural practices persisting for many generations can literally reshape the [[cannabis-gene-pool-preservation-acclimatization-clarke]] of the populations that practice them.
 
 McKenna saw this estimate as crucial for his argument about the impact of psychedelic mushrooms: if psychoactive use persisted for the hundreds of thousands of years of the African grassland phase, its effects on human genetics would have been profound.
 
@@ -123,7 +123,7 @@ Diet is a culturgen — food choices are culturally transmitted and vary widely 
 
 Diet also directly affects the biological organism, influencing health, reproduction, cognitive function, and gene expression.
 
-A dietary innovation that introduces novel bioactive compounds into the food supply creates immediate biological effects that can alter the selective landscape.
+A dietary innovation that introduces novel [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] into the food supply creates immediate biological effects that can alter the selective landscape.
 
 The adoption of psychoactive plants into the diet would represent an extreme case of this general principle — a dietary culturgen with potent effects on cognition, behavior, and possibly genetics.
 

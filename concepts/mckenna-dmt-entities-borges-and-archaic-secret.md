@@ -17,7 +17,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - McKenna T (1992) "Tryptamine Hallucinogens and Consciousness." In The Archaic Revival. HarperSanFrancisco. Originally delivered at the Lilly/Goswami Conference on Consciousness and Quantum Physics, Esalen, December 1983.
+  - McKenna T (1992) "mckenna-tryptamine-hallucinogens-and-consciousness and Consciousness." In The mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained. HarperSanFrancisco. Originally delivered at the Lilly/Goswami Conference on Consciousness and Quantum Physics, Esalen, December 1983.
 type: concept
 ---
 
@@ -54,7 +54,7 @@ A central theme of the lecture is that tryptamines work directly on the language
 
 This produces a state of glossolalia distinct from the classical speaking-in-tongues phenomenon. Rather than producing random vocalizations, the tryptamine-induced glossolalia expresses what McKenna calls "the assembly language that lies behind language" or a primal "Ursprache" (original language) that emerges from within. He connects this to Robert Graves's concept in The White Goddess and to the Kabbalistic language described in the Zohar.
 
-McKenna proposes that this translinguistic capacity is a latent human ability that could, with ten thousand years of cultural engagement, become a "cultural convenience" comparable to mathematics or language itself. The cognitive dissonance produced by encountering a "translinguistic object" that cannot be mapped onto existing language generates the states of wonder, astonishment, and awe at the brink of terror that characterize the tryptamine experience.
+McKenna proposes that this translinguistic capacity is a latent human ability that could, with ten thousand years of cultural engagement, become a "cultural convenience" comparable to mathematics or language itself. The [[mckenna-cognitive-dissonance-translinguistic-object]] produced by encountering a "translinguistic object" that cannot be mapped onto existing language generates the states of wonder, astonishment, and awe at the brink of terror that characterize the tryptamine experience.
 
 ## The Black Hole Effect
 
@@ -72,11 +72,11 @@ McKenna connects the mushroom consciousness to Philip K. Dick's novel Valis, in 
 
 ## The Mushroom as Symbiote
 
-McKenna recounts the hypothesis from Psilocybin: The Magic Mushroom Grower's Guide, in which Stropharia cubensis is proposed as an extraterrestrial species that achieved symbiosis with humanity through association with domesticated cattle. He balances this with a second interpretation: that the human soul is so alienated from modern culture that it is experienced as extraterrestrial. The DMT trance "would remain more weird" than any Hollywood-style alien contact, and what we encounter may actually be the alienated human Self.
+McKenna recounts the hypothesis from Psilocybin: The Magic Mushroom Grower's Guide, in which [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] is proposed as an extraterrestrial species that achieved symbiosis with humanity through association with domesticated cattle. He balances this with a second interpretation: that the human soul is so alienated from modern culture that it is experienced as extraterrestrial. The DMT trance "would remain more weird" than any Hollywood-style alien contact, and what we encounter may actually be the alienated human Self.
 
 ## Eschatology and the Standing Now
 
-The lecture concludes with McKenna's vision of the tryptamine state as "transtemporal," an anticipation of the future described by Plato's metaphor of time as "the moving image of eternity." He describes the tryptamine ecstasy as "a stepping out of the moving image and into eternity," the nunc stans (standing now) of Thomas Aquinas, from which all of human history is seen as leading toward a culminating moment.
+The lecture concludes with McKenna's vision of the tryptamine state as "transtemporal," an anticipation of the future described by Plato's metaphor of time as "the moving image of eternity." He describes the [[mckenna-tryptamine-ecstasy-and-platonic-eternity]] as "a stepping out of the moving image and into eternity," the nunc stans (standing now) of Thomas Aquinas, from which all of human history is seen as leading toward a culminating moment.
 
 McKenna identifies acceleration as visible in all processes around us: fire discovered millions of years ago, language perhaps 35,000 years ago, measurement 5,000 years ago, Galileo 400 years ago, then Watson and Crick and DNA. "What is obviously happening is that everything is being drawn together." He contrasts this accelerationist vision with the "dualistic conception" of physics that projects billions of years into both past and future, calling it "very unsophisticated when applied to the nature of consciousness and language."
 
@@ -104,7 +104,7 @@ A puzzling observation McKenna raises is the near-total absence of DMT-like moti
 
 ## The Stropharia Cubensis as Teaching Plant
 
-A recurring theme in the lecture is McKenna's emphasis on Stropharia cubensis (now Psilocybe cubensis) as the primary vehicle for accessing the tryptamine dimension. He describes it as "the teaching plant par excellence" and contrasts it with other psychedelic substances, noting its unique capacity to produce experiences of genuine otherness rather than merely distorted perception. His specific focus on this species reflects his belief that it occupies a special position among entheogenic organisms, one connected to the ancient relationship between hominids and mushrooms that he develops more fully in his book Food of the Gods.
+A recurring theme in the lecture is McKenna's emphasis on Stropharia cubensis (now [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]) as the primary vehicle for accessing the tryptamine dimension. He describes it as "the teaching plant par excellence" and contrasts it with other psychedelic substances, noting its unique capacity to produce experiences of genuine otherness rather than merely distorted perception. His specific focus on this species reflects his belief that it occupies a special position among entheogenic organisms, one connected to the ancient relationship between hominids and mushrooms that he develops more fully in his book Food of the Gods.
 
 McKenna also speculates about the evolutionary implications of the human-psilocybin relationship, suggesting that the integration of psilocybin into early hominid diets may have influenced the development of language, visual acuity, and social bonding, themes he elaborates in his Stoned Ape hypothesis presented elsewhere in his work.
 

@@ -4,11 +4,12 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [cannabis, cultivation]
-sources: []
+sources:
+  sources: []
 ---
 # Cannabis Chromatography for Cannabinoid Purification
 
-Chromatography is an advanced analytical and preparative technique used to separate the individual components of cannabis oil with high selectivity. In cannabis alchemy, chromatography serves as a powerful purification method capable of removing non-psychoactive constituents from hashish extracts, isolating specific cannabinoids, and producing materials of extremely high purity. While more complex than solvent extraction or winterization, chromatography achieves separations that are impossible through simpler methods.
+Chromatography is an advanced analytical and preparative technique used to separate the individual components of [[cervantes-hash-cannabis-oil-production]] with high selectivity. In [[lemon-cannabis-alchemy-advanced-refinement-techniques]], chromatography serves as a powerful purification method capable of removing non-psychoactive constituents from hashish extracts, isolating specific cannabinoids, and producing materials of extremely high purity. While more complex than solvent extraction or winterization, chromatography achieves separations that are impossible through simpler methods.
 
 ## Principles of Cannabis Chromatography
 
@@ -20,7 +21,7 @@ Compounds with greater affinity for the stationary phase move slowly through the
 
 The most commonly cited method for cannabis chromatography uses Florisil as the stationary phase. Florisil is a magnesium silicate adsorbent with selective adsorption properties that effectively separate cannabinoids from other plant compounds. It is particularly effective at removing chlorophyll, plant pigments, and non-cannabinoid constituents from hashish extracts.
 
-The process begins with extracting hashish using a solvent such as hexane or petroleum ether. In one documented procedure, 13 kilograms of confiscated hashish was extracted with 95 percent ethyl alcohol at 50 degrees Celsius, followed by hexane extraction of the resulting oil. The combined hexane extracts were washed with 50 percent aqueous ethanol to remove polar impurities.
+The process begins with extracting hashish using a solvent such as hexane or petroleum ether. In one documented procedure, 13 kilograms of confiscated hashish was extracted with 95 percent [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]] at 50 degrees Celsius, followed by hexane extraction of the resulting oil. The combined hexane extracts were washed with 50 percent aqueous ethanol to remove polar impurities.
 
 The hashish oil was then loaded onto a Florisil column and eluted with methanol in hexane (2 percent methanol). The resulting dark oil contained approximately 50 percent cannabidiol, 20 percent cannabinol, 15 percent delta-9-THC, and 15 percent unidentified components. This represented a significant purification from the starting crude extract.
 
@@ -62,7 +63,9 @@ Column chromatography is labor-intensive and requires significant amounts of sol
 
 Modern flash chromatography systems have automated much of the column chromatography process, allowing faster separations with less solvent. Pre-packed columns and automated fraction collectors reduce the manual labor involved. However, the fundamental chemistry remains the same as the classical methods.
 
-## Related Topics
+## Related
+
+- [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] Topics
 
 - [[cannabis-fractional-distillation-cannabinoids]] for alternative advanced purification
 - [[cannabis-oil-isomerization]] for CBD-to-THC conversion
@@ -71,7 +74,7 @@ Modern flash chromatography systems have automated much of the column chromatogr
 
 ## Thin-Layer Chromatography for Quick Analysis
 
-Thin-layer chromatography (TLC) provides a rapid, low-cost method for assessing cannabis oil composition without the need for expensive instrumentation. In TLC, a small amount of cannabis extract is spotted onto a glass or aluminum plate coated with a thin layer of silica gel. The plate is placed in a chamber containing a small amount of developing solvent, which travels up the plate by capillary action, carrying the different components of the extract at different rates.
+Thin-layer chromatography (TLC) provides a rapid, low-cost method for assessing cannabis oil composition without the need for expensive instrumentation. In TLC, a small amount of cannabis extract is spotted onto a glass or aluminum plate coated with a thin layer of [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]]. The plate is placed in a chamber containing a small amount of developing solvent, which travels up the plate by capillary action, carrying the different components of the extract at different rates.
 
 After development, the plate is visualized using UV light or chemical staining reagents. Different cannabinoids appear as separate spots at characteristic positions (Rf values) on the plate. While TLC is less quantitative than GC or HPLC, it provides a quick qualitative assessment of the major cannabinoids present in a sample.
 
@@ -79,7 +82,7 @@ TLC is particularly useful for monitoring the progress of isomerization reaction
 
 ## Preparative vs. Analytical Chromatography
 
-Chromatography serves two distinct purposes in cannabis work. Analytical chromatography aims to identify and quantify the components of a mixture, typically using small sample sizes and sensitive detection methods. Preparative chromatography aims to separate and collect individual components in quantities sufficient for further use or study.
+Chromatography serves two distinct purposes in cannabis work. Analytical chromatography aims to identify and quantify the components of a mixture, typically using small sample sizes and sensitive [[singh-detection-methods-degrading-fungi-environment]]. Preparative chromatography aims to separate and collect individual components in quantities sufficient for further use or study.
 
 The Florisil column chromatography described earlier is an example of preparative chromatography, where the goal is to purify cannabinoid fractions in gram quantities. Gas-liquid chromatography, by contrast, is typically analytical, using microgram samples to determine the composition of an extract.
 

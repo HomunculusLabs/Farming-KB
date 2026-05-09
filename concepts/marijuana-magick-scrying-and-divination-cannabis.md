@@ -1,5 +1,5 @@
 ---
-title: Scrying and Divination with Cannabis
+title: marijuana magick scrying and divination cannabis with Cannabis
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -66,7 +66,7 @@ NURWQ
 NIRWC
 ```
 
-The practitioner is instructed to "imagine it in front of you as you visualize it." The sigil's meaning is not explained in the text, suggesting it functions as a focus point whose significance emerges through contemplation rather than intellectual understanding. This approach is consistent with Austin Osman Spare's sigil magic method, where sigils are charged through gnosis (altered states) rather than decoded rationally.
+The practitioner is instructed to "imagine it in front of you as you visualize it." The sigil's meaning is not explained in the text, suggesting it functions as a focus point whose significance emerges through contemplation rather than intellectual understanding. This approach is consistent with Austin Osman Spare's sigil magic method, where sigils are charged through gnosis ([[weil-the-natural-mind-altered-states-normalcy]]) rather than decoded rationally.
 
 ### Phase Five: Vocal Release and Banishing
 
@@ -102,14 +102,14 @@ After the mirror work, the guide describes a vowel-vibration banishing technique
 5. Draw a pentagram line for each vowel using a wand, athame, or finger. Turn 90 degrees and repeat through all four directions
 6. Reverse the vowel sequence (o, a, e, i) after completing all four directional pentagrams
 
-The association of specific vowels with specific body parts (head, throat, chest, stomach) maps directly onto the chakra system, suggesting that the banishing serves an energetic cleansing function in addition to its protective role.
+The association of specific vowels with specific body parts (head, throat, chest, stomach) [[maps]] directly onto the chakra system, suggesting that the banishing serves an energetic cleansing function in addition to its protective role.
 
 ## Cannabis as a Scrying Aid
 
 The text frames cannabis as a tool that helps practitioners reach "the depths of our minds when we might not be able to ourselves." In divination contexts specifically, cannabis functions in several ways:
 
-- **Consciousness expansion**: The Vortex ritual's instruction to consume more than usual specifically aims to push past ordinary awareness into a state where visualization becomes vivid and sustained
-- **Chakra opening**: The Blessing of the Oil ritual states that cannabis aids in "opening the gateways of the body and the chakras," facilitating the flow of energy that divination practices attempt to read and direct
+- **[[mckenna-consciousness-expansion-and-drug-war]]**: The Vortex ritual's instruction to consume more than usual specifically aims to push past ordinary awareness into a state where visualization becomes vivid and sustained
+- **Chakra opening**: The Blessing of the Oil ritual states that [[blesching-cannabis-aids-opportunistic-infections]] in "opening the gateways of the body and the chakras," facilitating the flow of energy that divination practices attempt to read and direct
 - **Barrier dissolution**: Cannabis reduces the mental resistance and self-censorship that prevent deep meditative states, allowing the practitioner to "say all that needs to be said" during the Vortex ritual
 - **Earth anchoring**: Despite its consciousness-altering properties, cannabis is paradoxically framed as an "anchor to the earth" -- the practitioner is described as becoming "one with the earth" rather than escaping from it
 - **Multi-sensory intensification**: Cannabis heightens the sensory impact of the ritual environment (sound, light, smell, taste of the wine), making the scrying experience more immersive

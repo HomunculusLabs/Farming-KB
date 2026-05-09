@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 
 # α-Methyltryptamine
 
-**α-Methyltryptamine** (α-MT, **AMT**) is a synthetic tryptamine with a distinctive triple-action pharmacological profile combining psychedelic, stimulant, and entactogenic (empathogen) effects. Developed in the 1960s as an antidepressant candidate, it never reached pharmaceutical market but has persisted as a research chemical and recreational substance.
+**α-Methyltryptamine** (α-MT, **AMT**) is a [[synthetic-tryptamine-methods]] with a distinctive triple-action pharmacological profile combining psychedelic, stimulant, and entactogenic (empathogen) effects. Developed in the 1960s as an antidepressant candidate, it never reached pharmaceutical market but has persisted as a research chemical and recreational substance.
 
 ## Chemistry
 
@@ -24,9 +24,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 
 ## Pharmacology
 
-- Acts as a **non-selective [[mdma]], and amphetamine
-- The alpha-methyl group provides significant resistance to MAO degradation, giving oral bioavailability and a long duration of action (10–14 hours)
-- **5-HT₂B agonism** is a noted concern — chronic activation of this receptor is associated with valvular heart disease (similar to fenfluramine)
+- Acts as a **non-selective mdma, and amphetamine
+- The alpha-methyl group provides significant resistance to MAO degradation, giving [[first-pass-metabolism-and-oral-bioavailability]] and a long duration of action (10–14 hours)
+- **5-HT₂B agonism** is a noted concern — chronic activation of this receptor is associated with valvular [[blesching-cannabis-heart-disease]] (similar to fenfluramine)
 
 ## Dosing
 
@@ -59,7 +59,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 - **Hyperthermia**: Serotonergic + stimulant combination increases heatstroke risk, especially in warm environments or with physical activity
 - **Prolonged duration**: Users frequently underestimate the length of effect, leading to difficult extended experiences
 - **Vasoconstriction**: Can produce uncomfortable peripheral vasoconstriction and muscle tension
-- **Drug interactions**: Contraindicated with SSRIs, MAOIs, and other serotonergic agents; serotonin syndrome risk is significant
+- **[[cannabis-drug-interactions-and-contraindications]]**: Contraindicated with SSRIs, MAOIs, and other serotonergic agents; [[serotonin]] syndrome risk is significant
 
 ## See Also
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

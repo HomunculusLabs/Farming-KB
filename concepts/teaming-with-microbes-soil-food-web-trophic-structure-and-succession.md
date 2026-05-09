@@ -1,5 +1,5 @@
 ---
-title: Soil Food Web Trophic Structure and Succession
+title: Soil Food teaming with microbes soil food web trophic structure and succession Structure and Succession
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -20,17 +20,17 @@ types of plants.
 
 Photosynthetic organisms form the base of the soil food web. Plants are
 the dominant primary producers, capturing solar energy and converting it
-to organic compounds through photosynthesis. They release root exudates
+to [[fungal-volatile-organic-compounds-communication]] through photosynthesis. They release [[mycorrhizal-root-exudates-pathogen-interactions]]
 (sugars, proteins, carbohydrates) into the
 [[teaming-with-microbes-compost-tea-and-microbial-inoculants]])
 are photoautotrophic -- they also capture solar energy and produce their
-own food, contributing to primary production particularly on bare soil
+own food, contributing to [[lichens-primary-production-soil-formation-dighton]] particularly on bare soil
 surfaces.
 
 ### Level 2: Decomposers and Mutualists
 
 [[teaming-with-microbes-fungi]]
-are the primary decomposers. They consume organic matter (dead plant
+are the primary decomposers. They consume [[hamilton-composting-and-organic-matter-management]] (dead plant
 material, root exudates, and other organisms) and break it down into
 simpler compounds. In the process, they incorporate nutrients into their
 biomass -- a process called [[mycorrhizal-fungi]] occupy this
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

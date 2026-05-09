@@ -1,5 +1,5 @@
 ---
-title: "Kanna (Sceletium tortuosum): South African Narcotic Plant"
+title: "Kanna (Sceletium tortuosum): kanna sceletium south african narcotic Narcotic Plant"
 created: "2026-04-17"
 updated: "2026-04-17"
 type: concept
@@ -46,11 +46,11 @@ The chewing method of administration, with the material retained in the mouth, a
 
 In recent years, kanna has experienced a significant revival of interest, both as a commercial dietary supplement and as a subject of scientific research. Sceletium extracts are now marketed as natural antidepressants, anxiolytics, and cognitive enhancers, available in various forms including capsules, tinctures, and chewing gums.
 
-Clinical trials have investigated the efficacy of Sceletium extracts for the treatment of depression and anxiety, with generally positive results. The plant's long history of traditional use provides a strong ethnopharmacological basis for these investigations, and the novel mechanism of action of its alkaloids makes it an interesting subject for drug development.
+[[mushroom-cancer-clinical-trials-overview]] have investigated the efficacy of Sceletium extracts for the treatment of depression and anxiety, with generally positive results. The plant's long history of traditional use provides a strong ethnopharmacological basis for these investigations, and the novel mechanism of action of its alkaloids makes it an interesting subject for drug development.
 
 ## Place in African Ethnopharmacology
 
-Kanna is one of the few African psychoactive plants with well-documented historical use. While Africa has a rich tradition of psychoactive plant use — including [[old-world-hallucinogenic-plants-overview]], kanna represents the southern African contribution to a diverse global pharmacopoeia. Its unique serotonergic alkaloid profile distinguishes it from the tropane-containing plants of Europe, the tryptamine-containing plants of the Americas, and the cannabinoid-containing plants of Asia, demonstrating the remarkable chemical diversity of psychoactive plants across the Old World.
+Kanna is one of the few African psychoactive plants with well-documented historical use. While Africa has a rich tradition of psychoactive plant use — including [[old-world-hallucinogenic-plants-overview]], kanna represents the southern African contribution to a diverse global pharmacopoeia. Its unique serotonergic alkaloid profile distinguishes it from the tropane-containing plants of Europe, the tryptamine-containing plants of the Americas, and the cannabinoid-containing plants of Asia, demonstrating the remarkable chemical diversity of psychoactive plants across the [[datura-metel-old-world-ethnobotany]].
 
 ## Historical Context
 
@@ -66,9 +66,11 @@ Clinical and preclinical studies have provided preliminary support for the anxio
 
 ## See Also
 
-[[old-world-hallucinogenic-plants-overview]] — overview of Old World hallucinogenic plants.
+- [[sceletium-tortuosum]]
 
-[[sinicuichi-heimia-salicifolia-auditory-hallucinogen]] — Mexican dream herb with oneirogenic properties.
+[[old-world-hallucinogenic-plants-overview]] — overview of Old [[old-world-hallucinogenic-plants-overview]] plants.
+
+[[sinicuichi-heimia-salicifolia-auditory-hallucinogen]] — Mexican [[calea-zacatechichi-dream-herb-ethnobotany]] with oneirogenic properties.
 
 [[allegro-plants-and-drugs-in-the-ancient-world]]
 - [[cultural-evolution-and-psychoactive-substances]]
@@ -90,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

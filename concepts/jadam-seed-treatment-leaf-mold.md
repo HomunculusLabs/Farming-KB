@@ -1,5 +1,5 @@
 ---
-title: JADAM Seed and Seedling Treatment with Leaf Mold
+title: JADAM cho-seed-and-seedling-vitality-restoration Treatment with Leaf Mold
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -9,15 +9,15 @@ sources:
 ---
 # JADAM Seed and Seedling Treatment with Leaf Mold
 
-Leaf mold from mountains is a reservoir of millions of different indigenous microorganisms and their excreta -- a super nutrient-rich material that easily replaces commercial root promoters. Using it for seed and seedling treatment boosts biodiversity in the plant's immediate environment, suppresses disease outbreak, and promotes vigorous root settlement.
+Leaf mold from mountains is a reservoir of millions of different [[beneficial-indigenous-microorganisms-bim]] and their excreta -- a super nutrient-rich material that easily replaces commercial root promoters. Using it for seed and seedling treatment boosts biodiversity in the plant's immediate environment, suppresses disease outbreak, and promotes vigorous root settlement.
 
 ## The Science Behind It
 
-JADAM's view is that canker and athlete's foot are essentially the same problem: a single pathogen dominating an area. Chemical pesticide cannot control canker; medicine rarely cures athlete's foot. But when you tackle them with microbial diversity, the disease-causing organisms are neutralized. This simple seed/seedling treatment promotes root settlement and disease prevention simultaneously.
+JADAM's view is that canker and athlete's foot are essentially the same problem: a single pathogen dominating an area. Chemical pesticide cannot control canker; medicine rarely cures athlete's foot. But when you tackle them with microbial diversity, the disease-causing organisms are neutralized. This simple seed/seedling treatment promotes root settlement and [[cervantes-pest-disease-prevention-overview]] simultaneously.
 
 ## Leaf Mold Source
 
-Collect leaf mold from nearby mountains or forests. The darker and more decomposed, the richer in microbial life. Mountain leaf mold contains the full indigenous microbial ecology of your region -- this is far more valuable than any commercial microbial inoculant.
+Collect leaf mold from nearby mountains or forests. The darker and more decomposed, the richer in microbial life. Mountain leaf mold contains the full indigenous [[fukuoka-microbial-ecology-decomposition]] of your region -- this is far more valuable than any commercial microbial inoculant.
 
 ## Seed Soaking Protocol
 
@@ -56,7 +56,7 @@ This works for all crop seeds. The leaf mold water coats the seed with millions 
 ## Transplant Treatment (Soil Drench)
 
 After transplanting, drench the soil around the new planting with leaf mold water to further establish microbial diversity in the root zone. This is especially important for:
-- Fruit tree saplings (grow at least 1-2 years the JADAM way before planting)
+- [[comparison-berry-growing-vs-fruit-tree-pruning]] saplings (grow at least 1-2 years the JADAM way before planting)
 - Pepper, tomato, and other vegetable transplants
 - Rice seedlings before transplanting to paddy
 
@@ -87,7 +87,7 @@ If rice seedlings show disease in the seedbed:
 
 ## Root Settlement and High Yield
 
-High yield is determined at the early stage of plant growth. How well the root settles right after transplanting decides the yield. The [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]] foliar application -- it is a battle of numbers, and diversity + population wins.
+High yield is determined at the early stage of plant growth. How well the root settles right after transplanting decides the yield. The [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]] [[ultra-low-cost-foliar-application-methods]] -- it is a battle of numbers, and diversity + population wins.
 
 ## See Also
 

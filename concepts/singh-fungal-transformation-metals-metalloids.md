@@ -1,5 +1,5 @@
 ---
-title: Fungal Transformation of Metals and Metalloids
+title: singh fungal transformation metals metalloids of Metals and Metalloids
 created: 2026-04-26
 tags: [fungal-transformation, metals, metalloids, reduction, methylation, bioremediation]
 date: 2026-04-25
@@ -25,7 +25,7 @@ are known to remove iron from alloys (Siegel et al., 1990). Fungi can
 solubilize at least one toxic metal compound including ZnO, Co3(PO4)2,
 and Zn3(PO4)2, with approximately 10% of soil fungi solubilizing all
 three (Sayer et al., 1995). In Penicillium simplicissimum, zinc
-adsorption is accompanied by citric acid production (Franz et al., 1991).
+adsorption is accompanied by citric [[staycare-fungal-organic-acid-production-metal-leaching]] (Franz et al., 1991).
 
 ## Reduction Reactions
 
@@ -33,7 +33,7 @@ Aureobasidium pullulans reduces Ag(I) to Ag(0) (Kierans et al., 1991).
 Saccharomyces cerevisiae mediates the reduction of Fe(III) to Fe(II)
 through both reductive and nonreductive pathways (Lesuisse and Labbe,
 1989). Fusarium species reduce Se(IV) or Se(VI) to Se(0) (Gharieb et
-al., 1995) and Te(II) to Te(0) (Gharieb et al., 1999). Candida albicans
+al., 1995) and Te(II) to Te(0) (Gharieb et al., 1999). [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]
 reduces Hg(II) to Hg(0) (Yannai et al., 1991). Penicillium citrinum and
 Schizosaccharomyces pombe reduce Te(IV) or Te(VI) to Te(0) (Smith, 1974).
 
@@ -76,7 +76,7 @@ effectively removes Fe(II) from groundwater samples (Murugesan et al.,
 2006). The modification of mobility and toxicity of metalloids through
 fungal processes leads to significant biotechnological potential in
 bioremediation. The diverse arsenic species encountered in contaminated
-environments can be addressed through combined fungal biosorption and
+environments can be addressed through combined [[dighton-fungal-biosorption-heavy-metal-remediation]] and
 transformation strategies.
 
 ## Dealkylation Reactions
@@ -103,4 +103,7 @@ high external Al concentrations appears to involve different mechanisms
 
 - [[singh-fungal-biosorbents-mycosorption-mechanisms]]
 - [[singh-chromium-bioremediation-fungi]]
-- [[fungal-biosorption-desorption-regeneration]]
+- fungal-biosorption-desorption-regeneration
+- [[alternaria-alternata]]
+- [[penicillium-simplicissimum]]
+- [[gliocladium-roseum]]

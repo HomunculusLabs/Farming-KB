@@ -1,5 +1,5 @@
 ---
-title: "Practical Farm Establishment, Site Selection, and Soil Preparation"
+title: "Practical fukuoka textdoc farm establishment site selection soil prep, fukuoka-creating-natural-farm-site-selection-establishment, and Soil Preparation"
 created: 2026-04-28
 tags:
   - fukuoka
@@ -24,8 +24,8 @@ type: concept
 In *The Natural Way of Farming*, Masanobu Fukuoka provides detailed
 guidance on establishing a natural farm from scratch. This covers the
 critical decisions of site selection, land evaluation, soil management,
-and the transition from conventional or degraded land to a
-self-sustaining natural farming system. Unlike his philosophical
+and the [[query-how-to-transition-from-conventional-to-no-till-farming]] or degraded land to a
+self-sustaining [[comparison-natural-farming-vs-permaculture]] system. Unlike his philosophical
 chapters, this material is grounded in decades of practical experience.
 
 ## The Natural Farming Philosophy of Establishment
@@ -59,7 +59,7 @@ Gentle hillside land can be excellent if it receives adequate rainfall
 and has deep soil. Steep slopes present challenges for access and
 erosion, though Fukuoka notes that terracing, when done with natural
 materials and following the contour of the land, can convert difficult
-terrain into productive growing space. He cautions that large-scale
+terrain into productive [[cotter-growing-space-design-fruiting-rooms]]. He cautions that large-scale
 terracing projects requiring heavy machinery almost always do more harm
 than good by destroying the natural soil structure.
 
@@ -85,7 +85,7 @@ analysis, he observes the native vegetation, soil color, texture,
 drainage, and the presence of earthworms and other soil organisms.
 
 Dark, crumbly soil with abundant earthworms indicates healthy, active
-soil life. Hard, compacted, pale soil with no visible organic matter
+soil life. Hard, compacted, pale soil with no visible [[hamilton-composting-and-organic-matter-management]]
 suggests poor conditions. He notes that soil analysis can be misleading
 because it measures only chemical constituents present at a moment in
 time, not the dynamic biological processes that make nutrients available
@@ -134,6 +134,10 @@ Fukuoka emphasizes that soil preparation is not a one-time event but an
 ongoing process. The soil improves year after year under natural farming
 as organic matter accumulates and biological activity increases.
 ## See Also
+
+- [[fukuoka-shelterbelt-and-farm-site-selection]]
+
+- [[fukuoka-creating-natural-farm-site-selection-establishment]]
 
 - [[fukuoka-textdoc-natural-soil-management]]
 - [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]]

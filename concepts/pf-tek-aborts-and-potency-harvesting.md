@@ -1,5 +1,5 @@
 ---
-title: PF TEK Aborts and Potency Harvesting
+title: PF pf tek aborts and potency harvesting and Potency Harvesting
 created: 2026-04-28
 tags: [pf-tek, harvesting, potency, psilocybin, mushroom-cultivation]
 date: 2026-04-28
@@ -11,12 +11,12 @@ type: concept
 
 # PF TEK Aborts and Potency Harvesting
 
-The PF TEK emphasizes that the potency of [[psilocybe-fanaticus]]
+The PF TEK emphasizes that the potency of psilocybe-fanaticus
 advocated harvesting mushrooms at a young, immature stage and collecting
 aborts, the small malformed mushrooms that cease growing early in the fruiting
-cycle. This approach, combined with cool desiccant drying and a brown rice
+cycle. This approach, combined with cool [[mushroom-desiccant-drying-methods]] and a brown rice
 substrate, can produce specimens with potency comparable to the more celebrated
-[[jochen-gartz]] showed that Psilocybe Cubensis can achieve a baseline
+[[jochen-gartz]] showed that [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] can achieve a baseline
 psilocybin content of approximately 1%, which is similar to Psilocybe
 Semilanceata. However, achieving this level depends entirely on cultivation and
 harvesting practices: the substrate used (brown rice), the age at harvest
@@ -55,7 +55,7 @@ quite a pile of small specimens, potentially totaling several dried grams.
 
 ## The Veil as a Harvest Indicator
 
-For normal fruiting specimens (sporocarps), the critical harvest timing is
+For normal fruiting specimens (sporocarps), the critical [[cannabis-harvest-timing-visual-cues]] is
 determined by the partial veil beneath the cap. The veil is a thin membrane
 connecting the cap margin to the stem. As the mushroom matures, the veil
 stretches and eventually tears. The PF TEK recommends harvesting before the
@@ -73,7 +73,7 @@ they are notably weaker in psychedelic potency.
 
 ## Harvesting Technique
 
-Psilocybe Fanaticus recommended using a pointed knife blade for removing aborts
+[[pf-tek-psilocybe-fanaticus-cultivation-method]] recommended using a pointed knife blade for removing aborts
 and small primordia from the cake. The pointed tip allows precise cutting
 without damaging the surrounding mycelium or disturbing neighboring developing
 mushrooms. Aborts should be harvested as soon as it can be determined that they
@@ -107,7 +107,7 @@ experience can match that of more potent wild species.
 ## Dosage Considerations
 
 [[paul-stamets]], as quoted in the PF TEK document, provided dosage guidance based
-on Psilocybe Semilanceata as a standard. For first timers, 1 to 2 grams of
+on [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] as a standard. For first timers, 1 to 2 grams of
 dried mushrooms is recommended for moderate effects. Experienced users may
 increase in single gram increments. At 2 grams dried, colorful geometric
 patterns and auditory changes typically appear. At 3 to 4 grams, visual waves
@@ -126,3 +126,10 @@ PF recommended consuming dried fungi as a deliberate ritual. The entire dose
 should be eaten at one sitting rather than piece-mealed over time. The lag
 between ingestion and onset of effects can be deceptive, and consuming the dose
 incrementally may prevent reaching the intended peak experience.
+## See Also
+
+- [[pf-tek-mushroom-potency-harvest-timing]]
+- [[psilocybe-fanaticus]]
+- [[psilocybe-semilanceata]]
+- [[psilocybe-cubensis]]
+- [[mushroom-harvesting-potency]]

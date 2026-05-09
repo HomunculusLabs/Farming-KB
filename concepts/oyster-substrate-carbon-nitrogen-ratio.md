@@ -1,5 +1,5 @@
 ---
-title: "Oyster Mushroom Substrate Carbon Nitrogen Ratio"
+title: "Oyster gourmet-medicinal-mushroom-substrate-preparation ingham-carbon-nitrogen-ratios-compost-tea Ratio"
 created: 2026-04-28
 tags: [substrate, nutrition, biochemistry, supplementation]
 date: 2026-04-28
@@ -13,14 +13,14 @@ type: concept
 The carbon-to-nitrogen (C/N) ratio is a critical factor determining substrate
 suitability for [[agaricus-bisporus]] requires an optimal C/N
 ratio of approximately 17 after composting, oyster mushrooms prefer a much
-higher ratio. Most agricultural waste substrates suitable for Pleurotus have
+higher ratio. Most [[fungi-in-composting-and-agricultural-waste-conversion]] substrates suitable for Pleurotus have
 C/N ratios ranging from 32 to 600, with pH values between 5.0 and 7.5. The
 wide range reflects the tremendous variety of organic materials that oyster
 mushrooms can utilize.
 
 ## C/N Ratios of Common Substrates
 
-Different substrate materials vary dramatically in their C/N ratios:
+Different [[growing-gourmet-substrate-materials-wood-types]] vary dramatically in their C/N ratios:
 
 | Substrate Material              | C/N Ratio  |
 |-------------------------------|------------|
@@ -39,7 +39,7 @@ Different substrate materials vary dramatically in their C/N ratios:
 
 Most primary substrate materials such as cereal straw, cotton waste, and
 sawdust are carbon-rich and require nitrogen supplementation to reach the
-optimal C/N ratio for oyster mushroom cultivation. Common nitrogen supplements
+optimal C/N ratio for oyster [[accessible-mushroom-cultivation-for-disabilities]]. Common nitrogen supplements
 include:
 
 - **Wheat bran**: Most widely used supplement, typically 10-25% by volume.
@@ -79,7 +79,7 @@ nitrogen supplements are necessary to raise yields adequately.
 
 ## Relationship to Substrate Composition
 
-The C/N ratio reflects the overall nutritional composition of the substrate:
+The C/N ratio reflects the overall [[dighton-fungal-nutritional-composition-animal-diets]] of the substrate:
 
 - **High C/N (>100)**: Materials like sawdust and corncobs are extremely
   carbon-rich, containing high cellulose and lignin but very low nitrogen.

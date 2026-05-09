@@ -42,7 +42,7 @@ Treating the "acidity symptom" with lime would have addressed a momentary snapsh
 
 ## The Broader Pattern of Failure
 
-Fukuoka argued that Liebig's law exemplifies a pattern repeated throughout agricultural science: identifying a symptom, treating it as a cause, and developing a technological fix that addresses neither the true cause nor the systemic context. Chemical fertilizers are effective only when soil is already degraded; pesticides protect only already-unhealthy plants; farm machinery is useful only when one is compelled to cultivate large areas.
+Fukuoka argued that Liebig's law exemplifies a pattern repeated throughout agricultural science: identifying a symptom, treating it as a cause, and developing a technological fix that addresses neither the true cause nor the systemic context. [[cervantes-chemical-fertilizers-guide]] are effective only when soil is already degraded; pesticides protect only already-unhealthy plants; farm machinery is useful only when one is compelled to cultivate large areas.
 
 These technologies do not increase yields above natural levels — they merely prevent declines below artificially reduced baselines. They appear to work because they are measured against the degraded conditions they themselves helped create. A nutrient in short supply decreases yield, but providing sufficient amounts does not increase yield — it merely prevents a loss in yield.
 
@@ -58,7 +58,7 @@ Fukuoka proposed that all the recognized laws of agricultural science — dimini
 
 Each law is nothing other than a manifestation of the great harmony and balance of nature. Each springs from a single source. What has misled man is that, when the same law emanates from a single source in different directions, he perceives each image as representing a different law. Nature is an absolute void; those who see it as a point have gone one step astray, those who see it as a circle have gone two steps astray.
 
-From this perspective, what matters is not which nutrient is deficient but whether the overall system approaches the condition of natural wholeness. A healthy, living soil in ecological balance produces abundantly without nutritional supplements because the biological system self-regulates nutrient availability.
+From this perspective, what matters is not which nutrient is deficient but whether the overall system approaches the condition of natural wholeness. A healthy, living soil in [[fukuoka-ecological-balance-principles]] produces abundantly without nutritional supplements because the biological system self-regulates nutrient availability.
 
 ## The Sawdust Experiment in Detail
 
@@ -78,7 +78,7 @@ Fukuoka noted that chemical fertilizers can increase yields when soil is poor an
 
 ## Inductive Research and the Illusion of Progress
 
-The broader problem with Liebig's framework is that it emerges from inductive reasoning — accumulating observations and deriving general laws. Fukuoka argued that inductive agricultural research "is useful only in a negative sense, as a means for preventing a decline in crop yields." Although it throws light on existing methods, "it cannot break new ground in agriculture." Only deductive reasoning — beginning with an intuitive understanding of the whole and working toward specific applications — can lead to positive gains.
+The broader problem with Liebig's framework is that it emerges from inductive reasoning — accumulating observations and deriving general laws. Fukuoka argued that inductive agricultural research "is useful only in a negative sense, as a means for preventing a decline in crop yields." Although it throws light on existing methods, "it cannot break new ground in agriculture." Only [[fukuoka-textdoc-critique-inductive-deductive-reasoning-agriculture]] — beginning with an intuitive understanding of the whole and working toward specific applications — can lead to positive gains.
 
 Research stations that collected data on seeding rates, fertilizer amounts, and pest control schedules were essentially "analyzing and interpreting rice that yielded 15 to 20 bushels per quarter-acre to begin with." They were not discovering how to exceed natural yields but cataloging the conditions under which degraded systems partially recovered.
 
@@ -90,13 +90,13 @@ Liebig later revised his famous statement, acknowledging that the availability o
 
 ## The Fallacy of Isolated Variables
 
-Liebig's law exemplifies what Fukuoka called "the fallacy of isolated variables." Agricultural science typically studies one factor at a time: nitrogen rate, phosphorus rate, potassium rate, seeding density, planting date. Each factor is optimized in isolation, then combined in what is assumed to be an additive fashion. But biological systems do not work this way. The effect of nitrogen depends on the availability of carbon, the microbial community, the soil structure, the plant's growth stage, and dozens of other interacting factors.
+Liebig's law exemplifies what Fukuoka called "the fallacy of isolated variables." Agricultural science typically studies one factor at a time: nitrogen rate, phosphorus rate, potassium rate, seeding density, planting date. Each factor is optimized in isolation, then combined in what is assumed to be an additive fashion. But biological systems do not work this way. The effect of nitrogen depends on the availability of carbon, the [[edaphic-factors-microbial-community-structure]], the soil structure, the plant's growth stage, and dozens of other interacting factors.
 
 This is why agricultural experiments that show dramatic yield increases under controlled conditions so often fail to deliver the same results in the field. The controlled experiment eliminates precisely the variables that make the real system work. By isolating a single factor, the experiment creates an artificial situation that does not exist in nature and cannot be replicated on a farm.
 
 ## Connections to Holistic Management
 
-Fukuoka's critique of Liebig's law anticipates many of the arguments made by holistic management advocates. Allan Savory, for instance, argues that the health of a grazing ecosystem depends on the interaction of livestock, plants, soil organisms, and water cycling — not on any single nutrient or management factor. Both Fukuoka and Savory insist that management must address the whole system, not its individual components.
+Fukuoka's [[fukuoka-critique-of-liebig-law-of-minimum]]'s law anticipates many of the arguments made by holistic management advocates. Allan Savory, for instance, argues that the health of a grazing ecosystem depends on the interaction of livestock, plants, soil organisms, and water cycling — not on any single nutrient or management factor. Both Fukuoka and Savory insist that management must address the whole system, not its individual components.
 
 The common thread is a rejection of reductionism in favor of holism. Where Liebig sees a collection of nutrient deficiencies to be corrected, Fukuoka sees a living system whose health depends on the integrity of its internal relationships. The practical implication is the same: stop adding things and start observing how the system works on its own.
 
@@ -106,7 +106,7 @@ Both thinkers arrived at their conclusions not through laboratory experimentatio
 
 Fukuoka provided a concrete example of how soil self-regulates without reference to Liebig's model. In his rice-barley rotation, he never applied lime to correct soil pH, despite the warnings of extension agents. Yet his soil maintained a pH near neutral year after year. How?
 
-The answer lay in the biological buffer system maintained by the clover cover crop and the continuous return of organic matter. Leguminous plants release organic acids during nitrogen fixation, which tend to lower pH. But the decomposition of rice straw and other organic matter produces bicarbonate and other alkaline compounds that raise pH. The two processes counterbalance each other, maintaining pH within a narrow range without any human intervention.
+The answer lay in the biological buffer system maintained by the clover cover crop and the continuous return of organic matter. Leguminous plants release organic acids during [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], which tend to lower pH. But the decomposition of rice straw and other organic matter produces bicarbonate and other alkaline compounds that raise pH. The two processes counterbalance each other, maintaining pH within a narrow range without any human intervention.
 
 This is not a system that Liebig's law can describe. There is no single limiting factor, no nutrient to add, no deficiency to correct. The system is dynamically stable because of the interactions among its components, not because any individual component is at an optimal level. Attempting to "optimize" any single factor — adding lime, adding nitrogen, adjusting pH — would disrupt the balance and create a new set of problems.
 

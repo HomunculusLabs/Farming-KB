@@ -13,13 +13,13 @@ sources:
   - Leafly (2024). "Lemon Cherry Gelato Strain Information." www.leafly.com.
   - AllBud (2024). "Lemon Cherry Gelato." www.allbud.com.
   - Wikileaf (2024). "Lemon Cherry Gelato Strain Review." www.wikileaf.com.
-  - Cannabis Training University (2023). "Gelato Family Tree and Lineage Guide."
+  - [[query-sog-vs-scrog-cannabis-training-methods]] University (2023). "Gelato Family Tree and Lineage Guide."
 created: 2026-04-28
 ---
 
 ## Overview
 
-**Lemon Cherry Gelato** is a balanced hybrid cannabis strain descended from the
+**Lemon Cherry Gelato** is a balanced hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] descended from the
 iconic Gelato genetic line. Bred by crossing Lemon Haze with Cherry Gelato, it
 combines bright citrus terpenes with sweet, creamy dessert flavors characteristic
 of the Gelato family.
@@ -56,7 +56,7 @@ Coloration is striking: dark forest green base with deep purple and violet hues,
 punctuated by bright orange pistils. The purple intensifies under cooler nighttime
 temperatures during the final weeks of flowering.
 
-The resin production is exceptionally heavy. Buds feel sticky and leave significant
+The [[cannabis-glandular-trichome-types-resin-production-clarke]] is exceptionally heavy. Buds feel sticky and leave significant
 residue on fingers when handled, making it popular for hash and concentrate extraction.
 
 ## Aroma and Flavor
@@ -97,7 +97,7 @@ and high-potency therapeutic category. Novice consumers should approach with cau
 
 Onset is relatively fast, typically felt within 5–10 minutes of inhalation. The
 initial effect is cerebral — a rush of euphoria, heightened sensory perception, and
-creative energy that reflects the sativa heritage.
+creative energy that reflects the [[cannabis-landrace-sativa-heritage-varieties]].
 
 As the high progresses, the indica side emerges as a warm body relaxation that
 spreads from the shoulders downward. This physical component is noticeable but not
@@ -109,11 +109,11 @@ gentle comedown. Higher doses shift the balance toward heavier sedation.
 ## Cultivation
 
 Lemon Cherry Gelato is considered moderate in cultivation difficulty. Plants respond
-well to both indoor and outdoor environments, with indoor cultivation preferred for
+well to both indoor and outdoor environments, with [[cannabis-sativa-indoor-cultivation-techniques]] preferred for
 quality control.
 
 Flowering time is 8–9 weeks indoors. Outdoor harvest falls in early to mid-October.
-Indoor yields range from 350–450 g/m². The plants benefit from training techniques
+Indoor yields range from 350–450 g/m². The plants benefit from [[cannabis-training-techniques-comparison]]
 such as low-stress training and scrog to manage canopy height and maximize light
 penetration.
 
@@ -125,8 +125,8 @@ airflow.
 
 - [[white-cherry-gelato]]
 
-- [[gelato-cannabis]]
+- [[gelato]]
 - [[thin-mint-cookies]]
-- [[wedding-cake-cannabis]]
+- [[wedding-cake]]
 - [[linalool]]
 - [[beta-caryophyllene]]

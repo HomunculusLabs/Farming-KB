@@ -1,16 +1,16 @@
 ---
-title: Shiitake Cultivation
+title: gourmet-medicinal-mushroom-shiitake-cultivation-logs
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
-tags: [[mycology, shiitake, lentinula, cultivation, logs]
+tags: [mycology, shiitake, lentinula, cultivation, logs]
 sources: [cotter-organic-mushroom-farming-mycoremediation]
 ---
 # [[lentinula-edodes]]) is one of the most popular and commercially valuable cultivated mushrooms worldwide. Known for its rich umami flavor and medicinal properties, shiitake can be grown outdoors on logs or indoors on supplemented sawdust. From Cotter's "Organic Mushroom Farming and Mycoremediation."
 
 ## Species Overview
 
-- Scientific name: Lentinula edodes
+- Scientific name: [[staycare-lentinula-edodes-in-bioremediation]]
 - Difficulty: Indoor 3 / Outdoor 1
 - One of the most recognized and marketable mushrooms globally
 - Fruiting temperatures: 50-75°F (10-24°C) depending on strain
@@ -21,10 +21,10 @@ sources: [cotter-organic-mushroom-farming-mycoremediation]
 
 - White, cottony mycelium that becomes brown with age
 - Exudes a light yellow metabolite on overcolonized substrates
-- Slower growing than oyster mushroom mycelium
+- Slower growing than [[cotter-oyster-mushroom-cultivation]] mycelium
 - Fruity, sweet smell when healthy
 - Commercial spawn available as cereal grain, supplemented sawdust, and wooden dowels (plug spawn)
-- Grain spawn preferred for indoor cultivation; sawdust or plug spawn for outdoor
+- [[comparison-grain-spawn-vs-grain-to-grain-transfer]] preferred for [[cannabis-sativa-indoor-cultivation-techniques]]; sawdust or plug spawn for outdoor
 
 ## Strain Selection
 
@@ -55,7 +55,7 @@ Shiitake strains are categorized by fruiting temperature windows:
 3. Insert plug spawn into each hole; tap flush with a hammer
 4. Seal each hole with food-grade wax (cheese wax or beeswax) to prevent drying
 5. Also wax the cut ends of the logs
-6. Stack logs in a shaded area with good air circulation
+6. Stack logs in a shaded area with good [[stamets-growing-room-air-circulation-co2-management]]
 
 ### Inoculation with Sawdust Spawn
 

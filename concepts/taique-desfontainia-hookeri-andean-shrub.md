@@ -1,5 +1,5 @@
 ---
-title: Taique - Desfontainia Hookeri Andean Shrub
+title: Taique - taique desfontainia hookeri andean shrub Andean Shrub
 created: 2026-04-28
 tags: [ethnobotany, chile, andes, desfontainiaceae, folk-medicine,
   narcotic-plants, schultes, south-america]
@@ -18,7 +18,7 @@ likely prepared as a tea infusion. Whether the effects of taique are truly
 hallucinogenic remains unconfirmed, and the chemical composition of the
 plant has not been investigated. The genus Desfontainia contains one or two
 other Andean species and belongs to the family Desfontainiaceae. A related
-family, Loganiaceae, includes the plants from which certain South American
+family, Loganiaceae, includes the plants from which certain [[chiric-caspi-brunfelsia-south-american-hallucinogen]]
 arrow poisons (curares) are derived, suggesting potential toxicity.
 
 ## Botanical Description and Classification
@@ -38,7 +38,7 @@ Columelliaceae or treated Desfontainiaceae as a separate but closely
 related lineage. Regardless of precise familial classification, the
 relationship to Loganiaceae noted by Schultes is significant from a
 pharmacological perspective. Loganiaceae includes genera such as Strychnos,
-the source of strychnine and several South American arrow poisons
+the source of strychnine and several [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]] arrow poisons
 (curares), suggesting that Desfontainia may share toxic or psychoactive
 chemical pathways with these well-known poisonous plants.
 
@@ -73,7 +73,7 @@ and death.
 While there is no evidence that taique is used as an arrow poison, the
 phylogenetic relationship suggests that the plant may produce similar classes
 of bioactive alkaloids. Many plants in closely related families share
-biosynthetic pathways for alkaloid production, and the narcotic effects
+biosynthetic pathways for [[mycelial-broth-alkaloid-production]], and the narcotic effects
 reported for taique could theoretically be related to compounds similar to
 those found in Loganiaceous plants. However, without chemical investigation,
 this remains entirely speculative.
@@ -88,7 +88,7 @@ data means that the active constituents, mechanism of action, toxicity
 profile, and psychoactive potential of taique are all unknown.
 
 The lack of chemical investigation may reflect the plant's relatively
-limited geographic distribution in southern Chile and its use by relatively
+limited [[sequestrate-fungi-taxonomy-geographic-distribution]] in southern Chile and its use by relatively
 small indigenous populations. Plants used by large, well-documented groups
 (such as the ayahuasca vines of the western Amazon) have attracted far more
 scientific attention than geographically restricted species like taique.
@@ -118,7 +118,7 @@ Taique grows in the Andean valleys of southern Chile, a region characterized
 by temperate rainforests, volcanic soils, and a rich indigenous cultural
 heritage dominated by the Mapuche people. This region is home to several
 other psychoactive plant species documented in the Golden Guide, including
-Latua pubiflora (arbol de los brujos) and tree daturas used by the Mapuche.
+[[latua-pubiflora]] (arbol de [[latua-pubiflora-arbol-de-los-brujos-ethnobotany]]) and [[tree-daturas-brugmansia-south-american-ethnobotany]] used by the Mapuche.
 The concentration of psychoactive plants in southern Chile reflects both the
 region's botanical diversity and the sophisticated ethnopharmacological
 knowledge of its indigenous inhabitants.

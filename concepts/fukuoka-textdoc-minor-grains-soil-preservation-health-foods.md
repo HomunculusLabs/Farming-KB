@@ -14,7 +14,7 @@ type: concept
 Masanobu Fukuoka advocated strongly for the revival of minor grains including
 millet, corn, buckwheat, and Job's tears, arguing that these crops play vital
 roles both as prototypic health foods essential for human well-being and as coarse
-organic matter essential for soil preservation. Their decline in cultivation
+[[hamilton-composting-and-organic-matter-management]] essential for soil preservation. Their decline in cultivation
 represented, in his view, a serious loss for both human nutrition and
 agricultural sustainability that would be difficult to reverse.
 
@@ -30,7 +30,7 @@ nutritional and medicinal qualities often superior to refined staple grains.
 
 The category is defined not by any single botanical or agronomic trait but by its
 exclusion from the dominant trio of rice, wheat, and maize that constitute the
-vast majority of global grain production. This exclusion is itself a product of
+vast majority of global [[fukuoka-no-till-grain-production-method]]. This exclusion is itself a product of
 modern agricultural economics and taste preferences rather than any inherent
 inferiority of the minor grains themselves.
 
@@ -64,7 +64,7 @@ represents an irreversible erosion of agricultural heritage and food security.
 Once the seed stock of traditional grain varieties is lost, centuries of
 co-evolution between crop and environment cannot be recovered.
 
-The decline of minor grain cultivation was driven by several interconnected
+The decline of minor [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] was driven by several interconnected
 factors. Taste preferences shifted toward the milder, more uniform flavor of
 polished rice and white wheat flour. Market economics offered no incentive to
 grow crops with limited commercial demand. Research neglect meant that processing
@@ -74,10 +74,10 @@ was being lost as diets modernized and globalized.
 
 Fukuoka viewed this seed preservation crisis as part of the broader pattern of
 [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]] approach. In his
-vision, a natural farm includes winter grains such as barley and wheat as
+vision, a natural farm includes winter grains such as [[ergot-of-barley-and-wheat-alkaloid-composition]] as
 cool-season staples, summer grains such as rice and upland rice as warm-season
 staples, minor grains such as millet and buckwheat as rotational partners,
-leguminous green manures like clover and vetch for nitrogen fixation, and
+leguminous green manures like clover and vetch for [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], and
 vegetables of various families for diversity and soil health.
 
 Each crop in this rotation plays a specific ecological role, and the minor
@@ -90,7 +90,7 @@ more closely resembles natural plant communities.
 
 Fukuoka also discussed upland rice as a crop with significant potential that
 is underutilized. He noted that upland rice could become "one effective way of
-coping with the worldwide scarcity of food" if cultivation methods were
+coping with the worldwide scarcity of food" if [[synthetic-log-cultivation-methods-guide]] were
 improved. However, upland rice faces challenges including susceptibility to
 drought, lower yields than paddy rice, and declining fertility under continuous
 cropping.

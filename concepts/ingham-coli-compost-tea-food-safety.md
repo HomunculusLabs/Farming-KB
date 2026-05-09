@@ -1,5 +1,5 @@
 ---
-title: Coliforms, E. coli, and Compost Tea Food Safety
+title: Coliforms, E. coli, and comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide Food Safety
 created: 2026-04-28
 tags: [food-safety, compost-tea, pathogens, testing, microbiology]
 date: 2026-04-28
@@ -114,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -5,6 +5,7 @@ tags: [query, permaculture, guilds, companion-planting, polyculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: query
 ---
@@ -26,10 +27,10 @@ Plant guilds are one of the most distinctive and practical design techniques in
 permaculture. The concept was popularized by
 [[apple-centered-guild-design]] is one of the most well-known examples, in
 which an apple tree serves as the canopy anchor while companion plants fill the
-understory layers beneath it. A typical apple guild might include comfrey for dynamic
+understory layers beneath it. A typical [[mollison-designers-apple-guild-and-cool-climate-fruit-guilds]] might include comfrey for dynamic
 nutrient accumulation, daffodils or garlic to deter pests, nitrogen-fixing plants like
 clover or lupine beneath the canopy, and flowering herbs such as yarrow or fennel to
-attract beneficial insects. Each species plays a specific role that supports the apple
+attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. Each species plays a specific role that supports the apple
 tree and the guild as a whole. The [[permaculture-principles]], particularly the principle to
 [[urban-permaculture-guilds-plant-stacking]] is especially important in
 space-constrained environments, where every layer of the guild, from the root zone up
@@ -46,7 +47,7 @@ Beyond food production, guilds play an important role in building soil health, m
 water, and creating wildlife habitat. When guilds are combined with earthworks such as
 swales, as described in approaches to [[walnut-hackberry-guild-design]] accounts for the allelopathic properties of walnut
 trees by choosing companion plants tolerant of juglone, while also ensuring that
-nutrient cycling, pest management, and pollination functions are covered by the
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], [[cannabis-pest-management-guide]], and pollination functions are covered by the
 understory species. Thoughtful guild design draws on established references and local
 knowledge of plant interactions to create assemblies that are both productive and
 ecologically sound.
@@ -61,7 +62,7 @@ their ecological impact and harvest a wider range of yields.
 - A plant guild is a mutually supportive community of plants assembled around a
   central element, designed to reduce external inputs and increase ecosystem
   resilience by mimicking natural cooperative relationships.
-- Guild members are chosen for their functional roles, including nitrogen fixation,
+- Guild members are chosen for their functional roles, including [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]],
   nutrient accumulation, pest management, pollination support, and ground cover,
   reflecting the principle to [[apple-centered-guild-design]] is a classic and widely studied example, but
   guilds can be built around any central tree, shrub, or element and adapted to any
@@ -82,5 +83,5 @@ their ecological impact and harvest a wider range of yields.
 - What is the difference between a guild and a food forest?
 - How do super guilds connect multiple plant communities?
 - What plants are compatible with walnut trees in a guild design?
-- How does plant stacking work in urban permaculture guilds?
+- How does plant stacking work in urban [[urban-permaculture-guilds-plant-stacking]]?
 - What is the edge effect and how does it apply to guild design?

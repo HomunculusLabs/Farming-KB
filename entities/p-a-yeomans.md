@@ -22,9 +22,9 @@ sources:
 # P.A. Yeomans
 
 **Percival Alfred Yeomans** (1904–1984), known as **P.A. Yeomans**, was an Australian mining engineer, farmer, and inventor who developed the **Keyline system** of land management.
-His work on water harvesting, [[bill-mollison]] and [[keyline-design]] remains a standard module in PDC (Permaculture Design Certificate) programs
-- Land designers including [[keyline-design]] — Detailed treatment of the Keyline Design system
-- [[david-holmgren]] — Co-originator of permaculture; Keyline influenced his zone and sector analysis
+His work on water harvesting, [[bill-mollison]] and [[keyline-design]] remains a standard module in PDC ([[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Certificate) programs
+- Land designers including [[keyline-design]] — Detailed treatment of the [[query-how-does-keyline-design-work-in-permaculture]] system
+- [[david-holmgren]] — Co-originator of permaculture; Keyline influenced his zone and [[mollison-designers-sector-analysis-wind-sun-fire]]
 ## Practical Applications
 
 P.A. Yeomans has a range of practical applications that make it relevant to
@@ -102,4 +102,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

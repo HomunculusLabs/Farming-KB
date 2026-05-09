@@ -12,7 +12,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Cao, T. & Vitt, D.H. (1986). "A taxonomic revision of the genus Rhodobryum in China." Journal of the Hattori Botanical Laboratory 61: 159–179.
-  - Spence, J.R. (2005). "Bryaceae." Flora of North America, Vol. 27. Oxford University Press.
+  - Spence, J.R. (2005). "Bryaceae." Flora of [[psilocybin-north-america-pacific-northwest]], Vol. 27. Oxford University Press.
   - Koponen, T. (1968). "Generic revision of Mniaceae Mitt. (Bryophyta)." Annales Botanici Fennici 5(2): 117–151.
   - Wu, P.-C. et al. (2011). "A checklist of Chinese mosses." Journal of Systematics and Evolution 49(3): 213–243.
   - Ochi, H. (1972). "A revision of African Bryaceae and Mniiaceae." Journal of the Hattori Botanical Laboratory 35: 193–313.
@@ -44,7 +44,7 @@ The leaf lamina is loosely arranged with elongated, thick-walled laminal cells. 
 
 R. giganteum has a broad but discontinuous distribution across temperate and subtropical regions. In Asia, it occurs in China (Yunnan, Sichuan, Guizhou, Hubei, Zhejiang, Taiwan), Japan, Korea, and the Himalayan region (Nepal, Bhutan, northern India). In Africa, populations are known from the Ethiopian highlands, East African mountains, and South Africa.
 
-The species also occurs in Central and South America (Mexico, Costa Rica, Colombia, Brazil) and has been reported from isolated locations in southeastern North America. The disjunct distribution pattern suggests an ancient origin with subsequent range fragmentation during Pleistocene climatic oscillations. Molecular dating studies estimate the crown group divergence of Rhodobryum at approximately 30–40 million years ago, consistent with a Gondwanan origin and subsequent dispersal across Southern Hemisphere landmasses.
+The species also occurs in Central and South America (Mexico, Costa Rica, Colombia, Brazil) and has been reported from isolated locations in southeastern North America. The disjunct distribution pattern suggests an ancient origin with subsequent range fragmentation during Pleistocene climatic oscillations. Molecular dating studies estimate the crown group divergence of Rhodobryum at approximately 30–40 million years ago, consistent with a Gondwanan origin and subsequent dispersal across [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] landmasses.
 
 Herbarium records indicate the species was more widely collected in the early 20th century than in recent decades, suggesting possible range contraction in some regions. Climate warming at lower elevations may be pushing populations upward into increasingly restricted montane habitats.
 
@@ -54,11 +54,11 @@ The species is associated with late-successional forests and is sensitive to hab
 
 ## Ecological Role
 
-R. giganteum contributes to forest floor moisture retention and nutrient cycling through its capacity to absorb and slowly release water. Large colonies create a moist microhabitat favorable for germination of vascular plant seedlings and for soil invertebrates including springtails and nematodes.
+R. giganteum contributes to forest floor moisture retention and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] through its capacity to absorb and slowly release water. Large colonies create a moist microhabitat favorable for germination of vascular plant seedlings and for soil invertebrates including springtails and nematodes.
 
 The species serves as a substrate for epiphytic algae, fungi, and micro-arthropods. In montane cloud forests, moss mats of R. giganteum and related species intercept fog drip, channeling water to the forest floor and contributing significantly to local hydrological cycles.
 
-As a relatively large and productive moss species, R. giganteum accumulates organic carbon in its persistent biomass. Decomposing moss mats contribute to humus formation and soil development in montane ecosystems where rates of litter decomposition are slow.
+As a relatively large and productive moss species, R. giganteum accumulates organic carbon in its persistent biomass. Decomposing moss mats contribute to [[lowenfels-humus-formation-benefits]] and soil development in montane ecosystems where rates of litter decomposition are slow.
 
 The species provides nesting material for birds and small mammals in some regions. In Chinese bamboo forests, R. giganteum is among the dominant ground-layer bryophytes, forming extensive carpets that stabilize the soil surface and reduce erosion on steep slopes.
 
@@ -68,9 +68,9 @@ In traditional Chinese medicine, R. giganteum is prescribed under the name *juan
 
 TCM practitioners classify R. giganteum as sweet, bitter, and neutral in nature, attributing to it hemostatic, anti-inflammatory, and cardiotonic properties. It is often combined with other hemostatic herbs such as *Notoginseng* (Panax notoginseng) in prescriptions for traumatic injury and internal bleeding.
 
-Modern pharmacological research has identified several bioactive compounds from R. giganteum including flavonoids, terpenoids, and bis(bibenzyls). Extracts have demonstrated cardiovascular effects in animal models, including positive inotropic action on cardiac muscle and vasodilatory activity.
+Modern pharmacological research has identified several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] from R. giganteum including flavonoids, terpenoids, and bis(bibenzyls). Extracts have demonstrated cardiovascular effects in animal models, including positive inotropic action on cardiac muscle and vasodilatory activity.
 
-Specific compounds isolated include gigantol, a bibenzyl derivative also found in orchids, and various flavonoid glycosides. In vitro studies report antioxidant, antiplatelet, and anti-ischemic activities consistent with the traditional cardiovascular indications. However, clinical trials in humans are lacking, and the pharmacological evidence base remains preliminary.
+Specific compounds isolated include gigantol, a bibenzyl derivative also found in orchids, and various flavonoid glycosides. In vitro studies report antioxidant, antiplatelet, and anti-ischemic activities consistent with the traditional cardiovascular indications. However, [[mushroom-cancer-clinical-trials-overview]] in humans are lacking, and the pharmacological evidence base remains preliminary.
 
 The species is commercially harvested from wild populations in Yunnan, Sichuan, and Guizhou provinces for the TCM trade. Overharvesting has been reported in some areas, leading to local population declines and conservation concerns. Cultivation trials are underway to develop sustainable supply chains.
 

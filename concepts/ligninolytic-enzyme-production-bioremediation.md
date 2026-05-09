@@ -22,7 +22,7 @@ White-rot basidiomycetes produce three principal enzymes involved in lignin depo
 
 - **Regulation**: Production is strongly induced under nitrogen limitation (secondary metabolism). Putative regulatory elements in the promoter region of P. chrysosporium LiP genes have been identified, and gene expression varies between strains (Dosoretz and Grethlein 1991).
 
-- **Applications**: Degrades pentachlorophenol, polycyclic aromatic hydrocarbons, polychlorinated biphenyls, textile dyes, and various phenolic compounds.
+- **Applications**: Degrades pentachlorophenol, [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons, polychlorinated biphenyls, textile dyes, and various phenolic compounds.
 
 ### Manganese Peroxidase (MnP)
 
@@ -32,7 +32,7 @@ White-rot basidiomycetes produce three principal enzymes involved in lignin depo
 
 - **Versatility**: Catalyzes the oxidation of chlorinated phenols to chlorobenzoquinones and degrades PAHs, dyes, and lignin-derived compounds.
 
-- **Bioreactor applications**: A two-stage immobilized MnP bioreactor using Lentinula edodes has been optimized for catalytic Mn(III) generation and chlorophenol oxidation (Grabski et al. 1998).
+- **Bioreactor applications**: A two-stage immobilized MnP bioreactor using [[staycare-lentinula-edodes-in-bioremediation]] has been optimized for catalytic Mn(III) generation and chlorophenol oxidation (Grabski et al. 1998).
 
 ### Laccase
 
@@ -52,7 +52,7 @@ Ligninolytic enzyme production is regulated by multiple environmental and physio
 
 - **Carbon source**: Different carbon sources (glucose, cellulose, wood chips) differentially affect enzyme profiles. Straw supports higher ligninolytic enzyme activities than liquid culture.
 
-- **Mediator compounds**: Guaiacol, veratryl alcohol, and other mediators enhance enzyme activity and broaden substrate range. Tween 80 and oleic acid enhance ligninase production.
+- **Mediator compounds**: Guaiacol, [[staycare-veratryl-alcohol-as-lignin-peroxidase-mediator]], and other mediators enhance enzyme activity and broaden substrate range. Tween 80 and oleic acid enhance ligninase production.
 
 - **Metal ions**: Mn(II) is essential for MnP production. Cu2+ is required for laccase synthesis.
 
@@ -62,11 +62,11 @@ Ligninolytic enzyme production is regulated by multiple environmental and physio
 
 Several bioreactor configurations have been developed for fungal enzyme production:
 
-- **Stirred-tank reactors**: Achieved LiP activities of 4600 U/l on day 13 for P. chrysosporium. Stirred-tank fermentors allow precise control of environmental conditions but may damage mycelial morphology through shear forces.
+- **Stirred-tank reactors**: Achieved LiP activities of 4600 U/l on day 13 for P. chrysosporium. Stirred-tank fermentors allow precise control of environmental conditions but may damage [[growing-gourmet-mycelial-morphology-classification-agar-media]] through shear forces.
 
-- **Airlift reactors**: Comparable enzyme production with lower shear stress. An internal airlift loop reactor with ceramic honeycomb support showed effective enzyme production for fungal wastewater treatment.
+- **Airlift reactors**: Comparable enzyme production with lower shear stress. An internal airlift loop reactor with ceramic honeycomb support showed effective enzyme production for fungal [[mollison-designers-wastewater-treatment-wetlands]].
 
-- **Packed-bed bioreactors**: Trametes versicolor on nylon cubes in a packed-bed bioreactor eliminated COD from contaminated wastewater. Immobilized fungi show sustained enzyme production over extended periods.
+- **Packed-bed bioreactors**: [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] on nylon cubes in a packed-bed bioreactor eliminated COD from contaminated wastewater. Immobilized fungi show sustained enzyme production over extended periods.
 
 - **Solid-state fermentation**: Enzyme production on solid substrates (wheat straw, corncobs, rice straw) often yields higher activities than submerged liquid culture.
 
@@ -104,5 +104,8 @@ Protein engineering approaches are being applied to improve the properties of li
 
 - [[key-fungal-species-bioremediation]]
 - [[fungal-degradation-of-textile-dyes]]
-- [[fungal-wastewater-treatment]]
-- [[lignin-degradation-mechanisms-wood-rot-fungi]]
+- fungal-wastewater-treatment
+- lignin-degradation-mechanisms-wood-rot-fungi
+- [[cytochrome-p450-enzyme-system]]
+- [[ligninolytic-enzymes]]
+- [[lentinula-edodes]]

@@ -1,5 +1,5 @@
 ---
-title: "Cannabis Breeding Traits Selection Criteria"
+title: "oner-cannabis-breeding-fundamentals Traits Selection Criteria"
 created: 2026-04-28
 tags: [cannabis, breeding, traits, selection, resin, maturation, Clarke]
 date: 2026-04-25
@@ -24,7 +24,7 @@ important that the maximum fiber content of the crop be reached early
 and that all individuals in the crop mature at the same time to
 facilitate commercial harvesting.
 
-Seed production requires the even maturation of both pollen and seed
+[[cervantes-seed-production-storage]] requires the even maturation of both pollen and seed
 parents to ensure even setting and maturation of seeds. An understanding
 of floral maturation is the key to the production of high quality drug
 Cannabis. Changes in gross morphology are accompanied by changes in
@@ -49,7 +49,7 @@ maturation.
 
 ## Root Production
 
-The size and shape of Cannabis root systems vary greatly. Although
+The size and shape of [[alpha-beta-diversity-cannabis-root-microbiomes]] systems vary greatly. Although
 every embryo sends out a taproot from which lateral roots grow, the
 individual growth pattern and final size and shape of the roots vary
 considerably. Some plants send out a deep taproot, up to 1 meter (39
@@ -74,7 +74,7 @@ of nodes along each branch and the extent of branching at each node. A
 tall, thin plant with slender limbs made up of long internodes and nodes
 with little branching (Oaxaca, Mexico strain) contrasts with a stout,
 densely branched plant with limbs of short internodes and highly branched
-nodes (Hindu Kush hashish strains).
+nodes ([[cannabis-hindu-kush-strain-description-clarke]] hashish strains).
 
 Different branching patterns are preferred for different agricultural
 applications. Tall, thin plants with long internodes and no branching
@@ -99,7 +99,7 @@ trichomes and protective resins.
 
 ## Resin Quality Traits
 
-Resin production by the glandular trichomes varies. A strain may have
+[[cannabis-glandular-trichome-types-resin-production-clarke]] by the glandular trichomes varies. A strain may have
 many glandular trichomes but they may not secrete very much resin. Resin
 color also varies from strain to strain. Some strains produce fresh
 resins that are transparent amber instead of clear and colorless, and

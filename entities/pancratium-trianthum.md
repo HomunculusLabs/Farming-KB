@@ -54,7 +54,7 @@ areas. It is often found in seasonally dry habitats where the bulb allows
 it to survive extended drought periods by entering dormancy. The species
 favors warm, well-drained soils and positions with full sun to partial
 shade. Several related *Pancratium* species are found in similar African
-habitats, and their distributions sometimes overlap, making [[fungal-methylation-oxidative-coupling]] patterns. The principal alkaloids found in *Pancratium*
+habitats, and their distributions sometimes overlap, making fungal-methylation-oxidative-coupling patterns. The principal alkaloids found in *Pancratium*
 species include:
 - **Lycorine** — the most widely distributed Amaryllidaceae alkaloid,
   found in many genera within the family; it has emetic, antiviral,
@@ -62,7 +62,7 @@ species include:
   of the acute toxicity of Amaryllidaceae bulbs
 - **Pancratistatin** — a phenanthridone-type alkaloid with notable
   antitumor and antiviral activity, first isolated from *Pancratium
-  littorale*; it exhibits selective cytotoxicity against cancer cell lines
+  littorale*; it exhibits selective cytotoxicity against [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines
   while showing minimal toxicity to normal cells, making it a promising
   lead compound for anticancer drug development
 - **Galanthamine** — an isoquinoline alkaloid found in some

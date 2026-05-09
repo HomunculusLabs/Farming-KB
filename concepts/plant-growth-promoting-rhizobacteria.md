@@ -13,7 +13,7 @@ colonize the rhizosphere and, when applied to seeds, roots, or soil, stimulate
 plant growth through a variety of mechanisms. First described by Kloepper and
 Schroth in 1978, PGPR have since become one of the most studied groups of
 beneficial plant-associated microorganisms. They represent a sustainable
-alternative to chemical fertilizers and pesticides in agriculture and
+alternative to [[cervantes-chemical-fertilizers-guide]] and pesticides in agriculture and
 horticulture, including cannabis cultivation.
 ## Classification of PGPR
 PGPR are classified by their relationship with the host plant into two broad
@@ -23,14 +23,14 @@ enter root cells and form endophytic associations. Common ePGPR genera include
 Pseudomonas, Bacillus, Azotobacter, Serratia, and Azospirillum. Common iPGPR
 include Rhizobium, Bradyrhizobium, Frankia, and Allorhizobium.
 PGPR can also be categorized by their primary mechanism of action.
-Biofertilizer PGPR enhance nutrient availability through nitrogen fixation,
-phosphate solubilization, or siderophore production. Phytostimulant PGPR
+Biofertilizer PGPR enhance nutrient availability through [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]],
+phosphate solubilization, or [[singh-fungal-siderophore-production-iron-acquisition]]. Phytostimulant PGPR
 produce phytohormones that directly stimulate plant growth. Biocontrol PGPR
 suppress plant diseases through antagonism against pathogens. Stress-tolerant
 PGPR help plants withstand abiotic stress conditions. Many PGPR strains
 exhibit multiple mechanisms simultaneously.
 ## Nitrogen Fixation
-Biological nitrogen fixation is the conversion of atmospheric nitrogen gas
+[[biological-nitrogen-fixation-agriculture]] fixation is the conversion of atmospheric nitrogen gas
 (N2) into ammonia (NH3) by nitrogenase enzymes. Free-living diazotrophic
 PGPR including Azotobacter, Azospirillum, and Gluconacetobacter fix nitrogen
 in the rhizosphere without forming specialized structures on roots. While the
@@ -117,14 +117,14 @@ dipping, foliar spraying, or incorporation into growing media. Seed treatment
 is the most common and economical method. Carrier materials including peat,
 vermiculite, compost, and polymer formulations protect bacteria during storage.
 Success depends on strain selection, formulation quality, application timing,
-and compatibility with the target crop. Indigenous rhizosphere bacteria often
+and compatibility with the target crop. Indigenous [[lowenfels-rhizosphere-bacteria-plant-interaction]] often
 outcompete introduced strains, making establishment a key challenge. Repeat
 applications, co-inoculation with compatible strains, and use of strains
 adapted to specific crops improve persistence. In cannabis, PGPR products
 containing Bacillus and Pseudomonas species are increasingly integrated into
 both soil and hydroponic production systems.
 See also: [[rhizosphere-ecology]],
-biological control agents, [[soil-health-and-management]]
+[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents, [[soil-health-and-management]]
 
 ## See Also
 

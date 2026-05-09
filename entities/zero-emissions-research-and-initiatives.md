@@ -1,5 +1,5 @@
 ---
-title: Zero Emissions Research and Initiatives
+title: Zero zero emissions research and initiatives and Initiatives
 created: 2026-04-28
 type: organization
 aliases:
@@ -59,7 +59,7 @@ A good ZERI design produces several linked products instead of one product plus 
 Fungi are central to many ZERI-style cascades because they digest lignocellulosic
 materials that humans and many animals cannot use directly.
 Straw, sawdust, coffee pulp, spent grain, corn residues, and woody debris can become
-mushroom substrate.
+[[gourmet-medicinal-mushroom-substrate-preparation]].
 After fruiting, the spent mushroom substrate may become animal feed, vermicompost,
 soil amendment, biogas feedstock, or mycoremediation material.
 This is why ZERI appears in concept pages on fungal sustainability, packaging,
@@ -73,9 +73,9 @@ In a ZERI-style system, that grain can feed oyster mushrooms such as [[fungal-ro
 project in Tsumeb, Namibia.
 That example matters because it demonstrates ZERI's preference for practical cascades
 rather than abstract sustainability language.
-The project links brewing, mushroom cultivation, animal feed, methane production, and
+The project links brewing, [[accessible-mushroom-cultivation-for-disabilities]], animal feed, methane production, and
 soil-building outputs.
-For the wiki, it is a useful bridge between fungal decomposition in ancient ecosystems
+For the wiki, it is a useful bridge between [[dighton-fungal-decomposition-leaf-litter-dynamics]] in ancient ecosystems
 and modern circular production systems.
 
 ## Coffee Project
@@ -97,7 +97,7 @@ through multiple uses of the same resource stream.
 It is therefore both ecological and entrepreneurial.
 
 ## Relationship to Permaculture
-ZERI overlaps with permaculture principles such as "produce no waste" and "integrate
+ZERI overlaps with permaculture principles such as "[[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]]" and "integrate
 rather than segregate."
 It links farms, factories, fungi, animals, water systems, and communities.
 The difference is emphasis: permaculture often begins with land design, while ZERI
@@ -121,7 +121,9 @@ The durable lesson is the design method, not any single universal recipe.
 
 ## In This Wiki
 This entity should be linked from pages about fungal sustainability, spent mushroom
-substrate, mycelium materials, zero-waste design, and biological cascades.
+substrate, [[comparison-mycelium-materials-vs-bioplastics-pla-pha]], zero-waste design, and biological cascades.
 It also connects [[gunter-pauli]]
 - [[fungal-roles-in-mass-extinction-recovery]]
-- [[produce-no-waste-permaculture-principle]]
+- produce-no-waste-permaculture-principle
+## See Also
+- [[decomposition]]

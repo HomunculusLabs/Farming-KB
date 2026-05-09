@@ -1,5 +1,5 @@
 ---
-title: Green Park Incident 1799 First Psilocybin Intoxication
+title: Green green park incident 1799 psilocybin 1799 First Psilocybin Intoxication
 created: 2026-04-19
 updated: 2026-04-18
 type: concept
@@ -9,13 +9,13 @@ tags: [reference]
 
 # The Green Park Incident of 1799: First Documented Psilocybin Intoxication in Europe
 
-On October 3, 1799, in London's St. James's Green Park, an impoverished family inadvertently consumed [[psilocybin-toxicity-and-safety-profile]] -- no deaths have ever been conclusively attributed to psilocybin mushroom ingestion alone. The fact that an eight-year-old child who ate a "large proportion" of the mushrooms recovered without lasting harm is particularly noteworthy.
+On October 3, 1799, in London's St. James's Green Park, an impoverished family inadvertently consumed [[psilocybin-toxicity-and-safety-profile]] -- no deaths have ever been conclusively attributed to [[emcdda-psilocybin-mushroom-dose-and-effects]] ingestion alone. The fact that an eight-year-old child who ate a "large proportion" of the mushrooms recovered without lasting harm is particularly noteworthy.
 
 ### The Mycophobic Frame
 
-The incident is framed entirely within a pathological model -- as "poisoning" rather than as an "experience." This framing reflects the broader European pattern of interpreting psychoactive mushroom effects as symptoms of mental illness rather than as potentially meaningful altered states of consciousness. See [[psilocybe-semilanceata]] -- The species responsible
+The incident is framed entirely within a pathological model -- as "poisoning" rather than as an "experience." This framing reflects the broader European pattern of interpreting psychoactive [[psychedelic-mushroom-effects-guide]] as symptoms of mental illness rather than as potentially meaningful [[weil-the-natural-mind-altered-states-normalcy]] of consciousness. See [[psilocybe-semilanceata]] -- The species responsible
 - [[psilocybin-toxicity-and-safety-profile]] -- Modern safety data
-- [[everard-brande-1799-european-mushroom-discovery]]
+- everard-brande-1799-european-mushroom-discovery
 
 - [[liberty-cap-psilocybe-semilanceata-history-biology]]
 - [[psilocybin-mushroom-common-names-slang]]
@@ -96,4 +96,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

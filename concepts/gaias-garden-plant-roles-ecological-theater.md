@@ -16,7 +16,7 @@ type: concept
 [[green-manure-cover-crops]] also serve as mulch:
 clovers, vetches, grasses and grains (oats, wheat,
 barley), mustard, crotolaria, and [[chop-and-drop-mulching]] technique
-takes advantage of these woody mulch makers:
+takes advantage of these woody [[hemenway-mulch-makers-and-plant-functional-roles]]:
 
 - Alder, Elaeagnus, Scotch broom, ceanothus
 - Trimmings from pencil-thin branches need no
@@ -30,7 +30,7 @@ of dry mulch plus those of living plants:
 - Dwarf yarrow, thrift, ajuga
 - Wild strawberry, stonecrop (Sedum)
 - Periwinkle (Vinca minor)
-- White clover
+- [[fukuoka-white-clover-cover-crop-system]]
 
 ## Nutrient Accumulators
 
@@ -67,14 +67,14 @@ young gardens.
 
 Nitrogen fixers come in all sizes:
 
-- **Ground covers**: Clover, vetch
+- **[[permaculture-plants-food-forest-ground-covers-bamboos]]**: Clover, vetch
 - **Herbs**: Alfalfa, lupine, cowpeas, fava beans
 - **Shrubs**: Ceanothus, buffaloberry, Elaeagnus,
   Siberian pea shrub, [[acacia]], mesquite
 
 ### Key Benefits
 
-[[gaias-garden-growing-by-chunking]]
+gaias-garden-growing-by-chunking
 
 - [[mycorrhizal-fungi]] for the underground fungal partners that connect plant guilds
 - [[plant-guild]] for how multiple plant roles combine in complementary groupings

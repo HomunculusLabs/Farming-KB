@@ -15,7 +15,7 @@ sources:
   - "Bown, D. (2000). Aroids: Plants of the Arum Family. Timber Press."
   - "Onwueme, I.C. (1999). Taro Cultivation in Asia and the Pacific. RAP Publication."
   - "Huang, C.C. et al. (2007). \"Molecular analysis of the taro (Colocasia esculenta) germplasm.\" Genetic Resources and Crop Evolution, 54(4), 813-821."
-  - "Aguegia, V. et al. (2015). \"Nutritional composition of taro corms and leaves.\" Journal of Food Composition and Analysis, 42, 1-5."
+  - "Aguegia, V. et al. (2015). \"[[dighton-fungal-nutritional-composition-animal-diets]] of taro corms and leaves.\" Journal of Food Composition and Analysis, 42, 1-5."
 ---
 
 # Colocasia esculenta (*Taro, Dasheen, Kalo*)
@@ -25,7 +25,7 @@ sources:
 Colocasia esculenta is a tropical perennial herb of the family Araceae,
 cultivated primarily for its large starchy corms. One of the oldest
 cultivated crops in human history (dating back 10,000+ years), taro is
-a staple carbohydrate source across Oceania, Southeast Asia, South Asia,
+a staple carbohydrate source across Oceania, [[psilocybe-southeast-asia-pacific]], South Asia,
 and West Africa. The species is highly adaptable, tolerates waterlogged
 conditions, and provides both edible corms and nutritious leaf greens.
 
@@ -81,9 +81,9 @@ Cultivation spans diverse systems:
 - **Lowland (wetland):** Flooded paddies and swamp margins
 - **Home garden:** Pervasive in tropical kitchen gardens as a staple
 
-Growth parameters: optimal temperature 21–30°C, annual rainfall
+[[chen-maitake-growth-parameters-environmental-control]]: optimal temperature 21–30°C, annual rainfall
 1,500–2,500 mm, tolerates 0–60 cm standing water, pH 5.5–7.0,
-prefers loamy to clay loam soils with high organic matter.
+prefers loamy to clay loam soils with high [[hamilton-composting-and-organic-matter-management]].
 
 Maturity: 6–15 months depending on variety and conditions. Yields range
 from 5–30 tonnes/ha corms depending on cultivation intensity.
@@ -107,7 +107,7 @@ digestible and suitable for infant foods and specialty industrial
 applications. The leaves are also eaten as a cooked green, providing
 beta-carotene, vitamin K, and calcium.
 
-⚠️ **Oxalate content:** Raw taro contains calcium oxalate crystals
+⚠️ **Oxalate content:** Raw taro contains [[fungal-calcium-oxalate-crystals]] crystals
 (raphides) that cause severe oral irritation. All parts must be cooked
 thoroughly before consumption. The acridity is neutralized by heat.
 
@@ -125,7 +125,7 @@ Taro contains several bioactive constituents:
 Traditional medicinal uses across cultures include:
 
 - **Anti-inflammatory:** Poultices of corm applied to wounds and
-  inflammatory skin conditions in Polynesian and Ayurvedic practice
+  inflammatory [[cannabis-for-skin-conditions-detailed]] in Polynesian and Ayurvedic practice
 - **Digestive support:** Cooked corm used as a bland, easily digested
   food for convalescence and infant weaning
 - **Respiratory ailments:** Leaf preparations used in Chinese folk

@@ -1,5 +1,5 @@
 ---
-title: Blesching Cannabis Epinephrine Norepinephrine Endocannabinoid System
+title: Blesching blesching cannabis epinephrine norepinephrine endocannabinoid system Norepinephrine Endocannabinoid System
 created: 2026-04-26
 tags: [epinephrine, norepinephrine, catecholamines, stress-response, endocannabinoid-system]
 date: 2026-04-25
@@ -15,7 +15,7 @@ Epinephrine (adrenaline) and norepinephrine (noradrenaline) are
 catecholamine neurotransmitters and hormones central to the body's
 fight-or-flight response. In "The [[uwe-blesching]]
 examines how the blesching [[blesching-cannabis-cortisol-stress-endocannabinoid-system]],
-these catecholamines form the three pillars of the stress response. While
+these catecholamines form the three pillars of the [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]]. While
 essential for survival, chronic catecholamine elevation drives
 hypertension, cardiac arrhythmias, anxiety disorders, insomnia, and
 immune suppression.
@@ -41,7 +41,7 @@ to understanding:
 Conversely, under chronic stress, endocannabinoid tone in the LC becomes
 depleted, leading to unchecked norepinephrine release and persistent
 hyperarousal. This is a core neurobiological feature of
-blesching cannabis ptsd and trauma and generalized anxiety disorder.
+blesching [[blesching-cannabis-ptsd-anxiety]] and trauma and generalized anxiety disorder.
 
 ## Adrenal CB1 Receptors
 
@@ -129,3 +129,7 @@ and cortisol excess, which can be combined with cannabinoid therapy:
 
 Blesching cautions that while the ECS modulates catecholamines,
 cannabinoid use has complex cardiovascular effects:
+
+## See Also
+
+- [[blesching-mind-body-medicine-psychosomatic-foundations]]

@@ -1,5 +1,5 @@
 ---
-title: "Ice Cream Cake"
+title: "Ice ice cream cake cannabis"
 created: 2026-04-28
 type: strain
 tags: [cannabis, strain, indica-dominant, hybrid, gsc-lineage,
@@ -20,7 +20,7 @@ Genetics in Southern California, it won first place at the
 relaxation, and high THC (typically 20-25%, some phenotypes
 exceeding 30%), it has become a staple in dispensaries. The
 strain exemplifies the modern "dessert cannabis" breeding
-trend prioritizing rich, sweet terpene profiles over raw
+trend prioritizing rich, sweet [[cannabis-terpene-profiles-sativa]] over raw
 potency alone.
 
 ## Lineage and Breeding
@@ -41,7 +41,7 @@ potency alone.
 ## Appearance
 - **Buds:** Dense, tightly packed, medium to large
   chunky calyxes
-- **Color:** Deep forest green with purple/violet
+- **Color:** Deep [[trichoderma-forest-green-mold-guide]] with purple/violet
   undertones (enhanced by cool night temps); bright
   orange pistils throughout
 - **Trichomes:** Extremely heavy frosty white coating;
@@ -105,7 +105,7 @@ uplift before deeper physical relaxation.
 
 ### Medical Applications
 - **Insomnia:** Highly effective for sleep induction
-- **Pain:** Chronic pain, muscle spasms, tension
+- **Pain:** [[cannabis-chronic-pain-management]], muscle spasms, tension
   headaches
 - **Anxiety/stress:** Calming for generalized anxiety
 - **Appetite loss:** Chemo patients, eating disorders
@@ -135,7 +135,11 @@ uplift before deeper physical relaxation.
 
 ## See Also
 
-- [[gelato-cannabis]]
+- [[london-pound-cake]]
+
+- [[jungle-cake-cannabis]]
+
+- [[gelato]]
 - [[girl-scout-cookies]]
 - sunset sherbert cannabis
 - [[og-kush]]

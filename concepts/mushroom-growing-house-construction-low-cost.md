@@ -1,17 +1,12 @@
 ---
-title: Low-Cost Mushroom Growing House Construction
+title: Low-Cost duggar-mushroom-growing-history-and-methods mushroom-house-construction-duggar
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[mycology, mushrooms, cultivation]
+tags: [mycology, mushrooms, cultivation]
 sources: [papers/benjamin-minge-duggar-mushroom-growing.md]
 ---
-
-Updated: 2026-04-18
-
-Source: FAO RAP Publication 2001/12, "A Training Manual on Mushroom Cultivation for People with Disabilities" by Johanne Hanko. Based on the Ubon Ratchathani mushroom house design, Thailand.
-
-A complete mushroom growing house for 1000 substrate bags can be constructed for approximately 500 Baht (US$12) using locally available materials. See also [[mushroom-cultivation-for-disabilities-training-program]].
+Updated: 2026-04-18 Source: FAO RAP Publication 2001/12, "A [[mushroom-cultivation-disabilities-training-manual-overview]] on [[accessible-mushroom-cultivation-for-disabilities]] for People with Disabilities" by Johanne Hanko. Based on the Ubon Ratchathani mushroom [[mollison-designers-house-design-climate-zones]], Thailand. A complete mushroom growing house for 1000 substrate bags can be constructed for approximately 500 Baht (US$12) using locally available materials. See also [[mushroom-cultivation-for-disabilities-training-program]].
 
 ## Standard House Specifications
 
@@ -134,7 +129,7 @@ For 1000 bags (Thailand 2000 costs):
 
 Mushrooms can be produced and sold within 2-4 months, making this a rapid-return enterprise.
 
-See also: [[oyster-mushroom-growing-house-site-selection]], [[mushroom-cultivation-for-disabilities-training-program]], [[mushroom-cultivation-fruiting-chambers]]
+See also: oyster-mushroom-growing-house-site-selection, [[mushroom-cultivation-for-disabilities-training-program]], [[mushroom-cultivation-fruiting-chambers]]
 
 ## Merged: Victorian Mushroom Cellar and House Design
-Victorian-era mushroom cultivation relied on a variety of purpose-built and adapted structures, as detailed by William Falconer in "Mushrooms: How to Grow Them" (1891). Chapters II through V describe underground cellars, dwelling house cellars, mushroom houses, sheds, and greenhouses — each offering distinct advantages for growing [[falconer-paris-cave-mushroom-cultivation]] (2 feet wide × 2 feet high, tapering to 6–8 inches at the top, with 1 foot alleys between ridges). See [[stone-cellar-building]] for further detail on cellar construction methods. See [[monotub-cultivation]], mushroom growing house construction low cost, [[victorian-mushroom-science]], [[mushroom-grow-room-design]]
+Victorian-era mushroom cultivation relied on a variety of purpose-built and adapted structures, as detailed by William Falconer in "Mushrooms: How to Grow Them" (1891). Chapters II through V describe underground cellars, [[falconer-dwelling-house-mushroom-growing]] cellars, mushroom houses, sheds, and greenhouses — each offering distinct advantages for growing falconer-paris-cave-mushroom-cultivation (2 feet wide × 2 feet high, tapering to 6–8 inches at the top, with 1 foot alleys between ridges). See [[stone-cellar-building]] for further detail on cellar construction methods. See [[monotub-cultivation]], mushroom growing house construction low cost, victorian-mushroom-science, [[mushroom-grow-room-design]]

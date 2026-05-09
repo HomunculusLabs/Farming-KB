@@ -29,11 +29,11 @@ sources:
 
 ## Overview
 
-Garcinia mangostana, the mangosteen, is a tropical evergreen tree prized for its edible fruit — widely regarded as one of the finest-tasting tropical fruits in the world, earning the title "queen of fruits" in Southeast Asia.
+Garcinia mangostana, the mangosteen, is a tropical evergreen tree prized for its edible fruit — widely regarded as one of the finest-tasting tropical fruits in the world, earning the title "queen of fruits" in [[psilocybe-southeast-asia-pacific]].
 
 The species is believed to have originated in the Sunda Islands and the Moluccas of Indonesia. It has been cultivated throughout Southeast Asia for centuries and was introduced to tropical America and Australia in more recent times.
 
-The fruit is notable both for its culinary value and its rich phytochemical profile. The pericarp (rind) contains a unique class of bioactive compounds called xanthones, particularly α-mangostin, which have attracted significant pharmacological research interest.
+The fruit is notable both for its culinary value and its rich phytochemical profile. The pericarp (rind) contains a unique class of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] called xanthones, particularly α-mangostin, which have attracted significant pharmacological research interest.
 
 ## Taxonomy and Morphology
 
@@ -57,7 +57,7 @@ The trunk is straight with dark brown to black, flaky bark. Branching is symmetr
 
 Native to the Malay Archipelago, the species is widely cultivated throughout tropical Southeast Asia — Thailand, Vietnam, Malaysia, Indonesia, Philippines, and Myanmar.
 
-Thailand is the world's largest producer, followed by Indonesia and Malaysia. Commercial plantings also exist in Sri Lanka, India, Australia (Queensland), and Central America.
+Thailand is the world's largest producer, followed by Indonesia and Malaysia. Commercial plantings also exist in Sri Lanka, India, Australia (Queensland), and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
 
 The tree requires a strictly tropical climate with consistent temperatures of 25–35°C. It is extremely cold-sensitive, suffering damage below 5°C and death below 0°C.
 
@@ -85,7 +85,7 @@ The pericarp contains over 40 xanthones, with α-mangostin, β-mangostin, γ-man
 
 Anti-inflammatory mechanisms include inhibition of NF-κB signaling, COX-2 suppression, and reduction of iNOS expression. These effects have been demonstrated in both in vitro and animal models.
 
-Antimicrobial activity of mangostin extends to Gram-positive bacteria (*Staphylococcus aureus*, *Mycobacterium tuberculosis*), fungi (*Candida albicans*), and viruses (HSV-1, HIV-1 protease inhibition).
+Antimicrobial activity of mangostin extends to Gram-positive bacteria (*Staphylococcus aureus*, *Mycobacterium tuberculosis*), fungi (*[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*), and viruses (HSV-1, HIV-1 protease inhibition).
 
 Garcinol, a polyisoprenylated benzophenone found in the fruit rind, exhibits significant anticancer activity through induction of apoptosis and cell cycle arrest in multiple cancer cell lines.
 
@@ -95,7 +95,7 @@ The aril (edible portion) contains moderate levels of vitamin C (3.4 mg/100g), B
 
 Mangosteen is an excellent canopy tree for tropical food forests. Its dense evergreen canopy provides shade for understory crops while the tree itself produces a high-value fruit crop.
 
-The deep root system improves soil structure and nutrient cycling. Leaf litter contributes organic matter and supports soil microbial communities.
+The deep root system improves soil [[root-anatomy-structure-and-nutrient-uptake]] cycling. Leaf litter contributes [[hamilton-composting-and-organic-matter-management]] and supports soil microbial communities.
 
 In mixed plantings, mangosteen combines well with durian (*Durio zibethinus*), rambutan (*Nephelium lappaceum*), and jackfruit (*Artocarpus heterophyllus*), which occupy different canopy layers.
 
@@ -113,7 +113,9 @@ The name "mangosteen" derives from the Malay word *manggustan*. In Filipino, it 
 
 ## See Also
 
+- [[garcinia-atroviridis]]
+
 - [[moringa-oleifera]]
-- [[punica-granatum]]
-- [[durio-zibethinus]]
+- punica-granatum
+- durio-zibethinus
 - [[cinnamomum-verum]]

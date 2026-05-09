@@ -1,5 +1,5 @@
 ---
-title: Dynamic Accumulator Plants — Phosphorus
+title: nutrient-dynamic-accumulator-reference Plants — Phosphorus
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -20,13 +20,13 @@ Phosphorus accumulators operate through several mechanisms:
 - **Deep rooting**: Taprooted plants access phosphorus from deeper soil layers unreachable by shallow-rooted crops
 - **Mycorrhizal associations**: Many accumulators form symbiotic relationships with mycorrhizal fungi that greatly expand phosphorus uptake capacity
 - **Legume cycling**: Legumes accumulate phosphorus and slowly release it as their residues decompose
-- **Soil modification**: Root channels created by deep-rooted accumulators improve overall soil structure, indirectly improving phosphorus availability for subsequent crops
+- **Soil modification**: Root channels created by deep-rooted accumulators improve overall soil structure, indirectly improving [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] for subsequent crops
 
 ## Key Phosphorus-Accumulating Plants
 
 ### Legumes
 
-Legumes serve a dual role as both nitrogen fixers and phosphorus accumulators. When alfalfa (*Medicago sativa*) is left in the field as a cover crop or green manure, there is a slow but measurable improvement in the soil's supply of available phosphorus. Using legumes as cover crops is a primary strategy for enhancing phosphorus cycling within a backyard or farm landscape.
+Legumes serve a dual role as both nitrogen fixers and phosphorus accumulators. When alfalfa (*Medicago sativa*) is left in the field as a cover crop or green manure, there is a slow but measurable improvement in the soil's supply of available phosphorus. Using legumes as cover crops is a primary strategy for enhancing [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]] within a backyard or farm landscape.
 
 All legumes noted as nitrogen fixers also contribute to phosphorus cycling, including clovers, vetches, alfalfa, cowpeas, and field beans.
 
@@ -40,7 +40,7 @@ Buckwheat is one of the most important phosphorus accumulators and deserves a ce
 - Actively excretes phosphorus from its roots for neighboring plants
 - Fast-growing — can be succession-planted multiple times through the growing season
 - Grows well in poor soils; tolerates acidic conditions
-- Attracts beneficial insects and pollinators when allowed to flower briefly
+- Attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] and pollinators when allowed to flower briefly
 
 ### Mustards (*Brassica* spp.)
 
@@ -65,7 +65,7 @@ From documented observations, the following plants also accumulate phosphorus at
 
 ### Perennial Accumulators
 
-- **Chicory** (*Cichorium intybus*) — deep taproot perennial; drought tolerant
+- **Chicory** (*Cichorium intybus*) — deep taproot perennial; [[permplant-carob-drought-tolerant-food-tree]]
 - **Plantains** (*Plantago* spp.) — common broadleaf "weeds"; very deep taproots
 - **Yarrow** (*Achillea millefolium*) — perennial with extensive root system; drought tolerant once established
 - **Vetches** (*Vicia* spp.) — dual N and P accumulator; excellent cool-season cover crop
@@ -121,7 +121,7 @@ The three key phosphorus accumulators — alfalfa, buckwheat, and mustard — de
 ## Phosphorus Availability Notes
 
 - Phosphorus accumulators are most effective when their biomass is returned to the soil (not removed)
-- Combining accumulator plants with mycorrhizal inoculants amplifies phosphorus cycling significantly
+- Combining accumulator plants with [[pgpr-mycorrhizal-inoculants-microplant-establishment]] amplifies phosphorus cycling significantly
 - Soil pH affects phosphorus availability — slightly acidic to neutral (pH 6.0-7.0) is optimal for most accumulators
 - Phosphorus is very slow to move through the soil profile; surface applications with accumulator mulch keep it in the root zone
 - Avoid applying phosphorus accumulators to areas with already excessive phosphorus levels

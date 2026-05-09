@@ -1,27 +1,12 @@
 ---
-title: Fungal Degradation of PCBs by White-Rot Fungi
+title: Fungal fungal degradation of pcbs by white rot fungi by White-Rot Fungi
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-
-# Fungal Degradation of PCBs by White-Rot Fungi
-
-White-rot fungi are among the most effective microorganisms for degrading polychlorinated biphenyls (PCBs), exploiting their lignin-degrading enzyme system. This system, secreted extracellularly, includes lignin peroxidases (LiPs), Mn(II)-dependent manganese peroxidases (MnPs), and H2O2-producing enzymes, all induced during secondary metabolism under nutrient-limiting conditions. Their non-specific free radical mechanism provides the basis for degradation of a wide variety of structurally diverse pollutants.
-
-## PCB Properties and Environmental Significance
-
-Polychlorinated biphenyls were used in dielectric fluids, heat-transfer fluids, hydraulic fluids, flame retardants, adhesives, solvent extenders, textiles, and printing. PCBs are marketed as complex mixtures under trade names such as Aroclor, Clophen, and Delor.
-
-Commonly used Aroclors include 1242, 1254, and 1260, containing 42, 54, and 60% chlorine by weight with an average of 3, 5, and 6 chlorine atoms per biphenyl molecule. Their inherent chemical inertness, stable molecular structure, and hydrophobicity result in low biodegradation and environmental persistence. Mutagenic effects of PCBs in rodents are well documented.
-
-## Principal PCB-Degrading Species
-
-Beyond the model organism Phanerochaete chrysosporium, multiple white-rot fungi degrade PCBs effectively:
-
-- [[pleurotus-ostreatus]]
+# Fungal Degradation of PCBs by White-Rot Fungi White-rot fungi are among the most effective microorganisms for degrading polychlorinated biphenyls (PCBs), exploiting their lignin-degrading enzyme system. This system, secreted extracellularly, includes lignin peroxidases (LiPs), Mn(II)-dependent manganese peroxidases (MnPs), and H2O2-producing enzymes, all induced during secondary metabolism under nutrient-limiting conditions. Their non-specific free radical mechanism provides the basis for degradation of a wide variety of structurally diverse pollutants. ## PCB Properties and Environmental Significance Polychlorinated biphenyls were used in dielectric fluids, heat-transfer fluids, hydraulic fluids, flame retardants, adhesives, solvent extenders, textiles, and printing. PCBs are marketed as complex mixtures under trade names such as Aroclor, Clophen, and Delor. Commonly used Aroclors include 1242, 1254, and 1260, containing 42, 54, and 60% chlorine by weight with an average of 3, 5, and 6 chlorine atoms per biphenyl molecule. Their inherent chemical inertness, stable molecular structure, and hydrophobicity result in low biodegradation and environmental persistence. Mutagenic effects of PCBs in rodents are well documented. ## Principal PCB-Degrading Species Beyond the model organism Phanerochaete chrysosporium, multiple white-rot fungi degrade PCBs effectively: - [[pleurotus-ostreatus]]
 
 - Coriolopsis polyzona
 
@@ -33,7 +18,7 @@ Beyond the model organism Phanerochaete chrysosporium, multiple white-rot fungi 
 
 - Trametes multicolor
 
-- Grifola frondosa (Maitake mushroom M51)
+- [[maitake-grifola-frondosa-comprehensive-profile]] (Maitake mushroom M51)
 
 - Aspergillus niger (dechlorinates Aroclor 1242 but not 1254)
 
@@ -67,7 +52,7 @@ The PCB chlorination pattern also affects degradation: about 10% of 2,2',4,4'-TC
 
 ## Enzymatic Mechanisms
 
-Both high and stable activities of LiP, MnP, Mn-independent peroxidase (MIP), and laccase are responsible for efficient PCB degradation. However, regression analysis of biodegradation, mineralization, and enzyme activities across 14 strains revealed no linear correlation, suggesting initial oxidation may involve an unknown enzymatic system beyond the standard ligninolytic enzymes.
+Both high and stable activities of LiP, MnP, Mn-independent peroxidase (MIP), and laccase are responsible for efficient PCB degradation. However, regression analysis of biodegradation, mineralization, and enzyme activities across 14 strains revealed no linear correlation, suggesting initial oxidation may involve an unknown enzymatic system beyond the standard [[singh-ligninolytic-enzymes-fungal-bioremediation]].
 
 Notably, degradation does not require induction by biphenyl and occurs in high nitrogen or malt-extract media where LiPs and MnPs are not known to be produced. Metabolic intermediates identified include 4-chlorobenzoic acid and 4-chlorobenzoyl alcohol in the PCB degradation pathway of P. chrysosporium.
 
@@ -77,7 +62,7 @@ B. adusta, P. ostreatus, and T. versicolor were shown to be more efficient than 
 
 Solid-state bioreactors have been demonstrated for PCB remediation:
 
-- PCB-soaked wood chips inoculated with Pleurotus ostreatus (3% w/w)
+- PCB-soaked [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] inoculated with Pleurotus ostreatus (3% w/w)
 
 - Tube reactors divided into two compartments by a fine nylon net, with fungal straw inoculum in one and sterilized contaminated soil (Delor 103 commercial mixture) in the other
 
@@ -87,14 +72,14 @@ Solid-state bioreactors have been demonstrated for PCB remediation:
 
 ## Contaminated Soil Remediation
 
-White-rot fungi degrade PCBs extracted from historically contaminated soil at high concentrations. P. chrysosporium was most effective at 3000 mg/l, removing up to 34% of the PCB mixture. Tween 80 emulsified PCB extracts without inhibiting fungal growth, while Triton X-100 and Tergitol NP-10 inhibited growth by 75-95%.
+White-rot fungi degrade PCBs extracted from historically contaminated soil at high concentrations. P. chrysosporium was most effective at 3000 mg/l, removing up to 34% of the PCB mixture. Tween 80 emulsified PCB extracts without inhibiting [[brassinosteroid-fungal-growth-promotion]], while Triton X-100 and Tergitol NP-10 inhibited growth by 75-95%.
 
 Field-scale experiments have shown practical difficulties due to competition from indigenous soil organisms and the difficulty of growing fungi to sufficient biomass. Detection of fungal growth in soils by PCR may help assess survival and relative contribution to [[petroleum-degradation-fungi]]
 
 - [[enzymatic-degradation-in-mycoremediation]]
 
-- [[fungal-bioremediation]]
+- fungal-bioremediation
 
-- [[lignin-degradation-mechanisms-wood-rot-fungi]]
+- lignin-degradation-mechanisms-wood-rot-fungi
 - [[fungal-competition-survival-contaminated-soils]]
 - [[singh-ligninolytic-enzymes-fungal-bioremediation]]

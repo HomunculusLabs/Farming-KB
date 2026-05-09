@@ -23,7 +23,7 @@ sources:
 
 # Steve Solomon
 
-Steve Solomon is a garden writer, seed saver, and advocate for nutrient-dense food production. He founded the Territorial Seed Company in 1979 and authored several influential gardening books including "Growing Vegetables West of the Cascades" and "Gardening When It Counts."
+Steve Solomon is a garden writer, seed saver, and advocate for nutrient-dense food production. He founded the Territorial Seed Company in 1979 and authored several influential gardening books including "[[container-growing-vegetables-herbs]] West of the Cascades" and "Gardening When It Counts."
 
 ## Background
 
@@ -35,7 +35,7 @@ Steve Solomon is a garden writer, seed saver, and advocate for nutrient-dense fo
 ## Core Contributions
 
 ### Complete Organic Fertilizer (COF)
-Solomon's most widely adopted contribution is his COF recipe — a complete mineral fertilizer using organic ingredients:
+Solomon's most widely adopted contribution is his [[complete-organic-fertilizer-cof-recipe-solomon]] — a complete mineral fertilizer using organic ingredients:
 
 - Seed meal + lime + bone meal + kelp meal
 - Provides all 13 essential plant nutrients, not just NPK
@@ -43,10 +43,10 @@ Solomon's most widely adopted contribution is his COF recipe — a complete mine
 - See [[nutrient-dense-gardening]] for the full recipe
 
 ### Nutrient-Dense Food Movement
-- Argued that modern organic gardening focuses too much on NPK and compost
+- Argued that modern [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] focuses too much on NPK and compost
 - Championed the idea that trace mineral deficiencies in soil produce nutritionally poor food
-- Promoted brix testing as a simple way to measure produce quality
-- Connected soil mineralization to pest resistance, taste, and storage life
+- Promoted [[ingham-brix-testing-plant-quality]] as a simple way to measure produce quality
+- Connected soil mineralization to [[cannabis-disease-pest-resistance-breeding-clarke]], taste, and storage life
 
 ### Regional Gardening
 - "Growing Vegetables West of the Cascades" was groundbreaking in addressing the specific challenges of maritime Pacific Northwest gardening (cool summers, dry summers, acid soils)
@@ -78,7 +78,7 @@ Solomon's approach combines several threads:
 ## Criticisms and Debates
 
 - Some permaculture advocates disagree with his skepticism about raised beds and intensive spacing
-- His criticism of John Jeavons' biointensive method sparked ongoing debate
+- His criticism of John Jeavons' [[jeavons-grow-biointensive-method-overview]] sparked ongoing debate
 - Some organic purists object to including any mined minerals (rock phosphate, lime) in "organic" systems
 - His low-irrigation approach may not suit all climates
 

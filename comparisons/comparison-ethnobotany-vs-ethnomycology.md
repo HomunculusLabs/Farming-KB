@@ -24,7 +24,7 @@ by John Harshberger. Modern ethnobotany spans paleoethnobotany (archaeological p
 remains), pharmacognosy (drug discovery from plants), anmedicinal-mushrooms
 (intellectual property and biopiracy debates).
 **Ethnomycology** is the study of the historical uses and sociocultural impact of
-fungi. It encompasses edible and medicinal mushrooms, psychoactive fungi,
+fungi. It encompasses edible and [[medicinal-mushrooms]], psychoactive fungi,
 fermentation agents (yeasts), and the roles of decay fungi in traditional
 technologies like papermaking and textile processing. The term was coined by R.
 Gordon Wasson in the 1950s following his expeditions to Mexico to study psilocybin
@@ -42,7 +42,7 @@ this work into Haiti and other regions. Today ethnobotany departments exist at
 major universities worldwide.
 Ethnomycology's trajectory is more recent and tightly linked to a single catalytic
 event: Wasson's 1957 *Life* magazine article "Seeking the Magic Mushroom," which
-introduced psilocybin mushrooms to the Western public and launched ethnomycology
+introduced [[psilocybin-mushrooms]] to the Western public and launched ethnomycology
 as a recognized pursuit. While mycological knowledge existed in every foraging
 culture, the academic study of human-fungal relationships lagged behind ethnobotany
 and remains comparatively niche. Giorgio Samorini has been a leading European voice,
@@ -55,10 +55,10 @@ documenting mushroom traditions across Africa and the Mediterranean.
 | **Cultural weight** | Central — plants anchor agriculture and shelter | Peripheral but potent — fungi carry ritual significance |
 | **Documentation** | Extensive global records spanning millennia | Growing but still sparse in many regions |
 | **Seasonality** | Plants often collectable year-round | Many fungi fruit within narrow seasonal windows |
-| **Cultivation history** | Millennia of domestication | Mushroom cultivation is only centuries old |
+| **Cultivation history** | Millennia of domestication | [[mushroom-cultivation]] is only centuries old |
 ## Ritual and Psychoactive Traditions
 Both fields intersect powerfully in the study of psychoactive organisms. Ethnobotany
-documents visionary plants — ayahuasca (*Banisteriopsis caapi*), peyote (*Lophophora
+documents visionary plants — ayahuasca (*[[banisteriopsis-caapi]]*), peyote (*Lophophora
 williamsii*), iboga (*Tabernanthe iboga*), and *Datura* species — within their full
 cultural contexts of healing, divination, and community cohesion. These plants are
 typically cultivated, embedded in agricultural systems, and used in structured
@@ -66,7 +66,7 @@ ceremonies.
 Ethnomycology focuses on psychoactive fungi: psilocybin mushrooms (*Psilocybe* spp.)
 used across Mesoamerica, the *Amanita muscaria* traditions of Siberian and
 circumpolar shamanism, and ergot (Claviceps purpurea) connections to the ancient
-Greek Eleusinian mysteries. Wasson proposed the controversial theory that Vedic
+Greek [[eleusinian-mysteries]]. Wasson proposed the controversial theory that Vedic
 soma was *A. muscaria*, linking mycological inquiry to some of the oldest religious
 texts in history. A critical difference: psychoactive plants are typically
 cultivated, while fungi are more often wild-foraged within seasonal windows, making
@@ -78,7 +78,7 @@ Ethnobotany's food dimension is vast — the domestication of wheat, rice, maize
 potatoes, and cassava are all ethnobotanical stories. Ethnomycology's food
 dimension centers on wild mushroom foraging traditions, mushroom cultivation
 innovations (shiitake on logs in China since the Song Dynasty), and fermented foods.
-The domestication of *Saccharomyces cerevisiae* for brewing and baking is one of the
+The domestication of *[[saccharomyces-cerevisiae]]* for brewing and baking is one of the
 most consequential human-microbial relationships in history. Traditional
 fermentation — Ethiopian injera, Indonesian tempeh (*Rhizopus oligosporus*),
 Japanese koji (*Aspergillus oryzae*) — represents deep ethnomycological knowledge

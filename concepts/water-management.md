@@ -1,6 +1,6 @@
 ---
 
-title: Water Management -- Swales, Keyline, and Rainwater Harvesting
+title: Water Management -- Swales, Keyline, and comparison-xeriscaping-guide-vs-rainwater-harvesting-systems
 created: 2026-04-10
 updated: 2026-04-12
 type: concept
@@ -30,7 +30,7 @@ Water is the most critical resource on a homestead. Permaculture water managemen
 
 From Gaia's Garden, effective water management combines five approaches:
 
-1. **Rich soil** (high organic matter) -- stores water like a sponge. Every 1% increase in organic matter allows soil to hold roughly 20,000 more gallons of water per acre
+1. **Rich soil** (high [[hamilton-composting-and-organic-matter-management]]) -- stores water like a sponge. Every 1% increase in organic matter allows soil to hold roughly 20,000 more gallons of water per acre
 2. **Contouring and swales** -- catch and redirect runoff
 3. **The right plants** -- natives, Mediterranean-climate plants, and deep-rooted species that access groundwater
 4. **Dense plantings** -- shade soil, reducing evaporation by over 60%
@@ -94,7 +94,7 @@ Every roof is a water collection system. Calculate catchment:
 - Use overflow to fill swales or rain gardens
 
 ### Earthworks for Water
-- **Ponds**: Store water at the highest practical elevation for gravity-fed irrigation. Sepp Holzer uses ponds extensively for microclimate creation and aquaculture
+- **Ponds**: Store water at the highest practical elevation for gravity-fed irrigation. Sepp Holzer uses ponds extensively for [[mollison-designers-microclimate-creation-frost-protection]] and aquaculture
 - **Rain gardens**: Shallow depressions planted with water-tolerant species in low spots
 - **French drains**: Gravel-filled trenches to redirect excess water
 - **Berm-and-basin**: Small berms create basins that catch runoff around individual trees
@@ -102,16 +102,16 @@ Every roof is a water collection system. Calculate catchment:
 ## Greywater Systems
 
 Household wastewater from sinks, showers, and laundry can irrigate gardens:
-- **Simple**: Drain washing machine hose to mulched swale or tree basin
+- **Simple**: Drain [[cervantes-washing-machine-hash]] hose to mulched swale or tree basin
 - **Intermediate**: Drum system to temporarily hold and distribute greywater
-- **Advanced**: Constructed wetland (gravel-filled marsh with bog plants) that purifies greywater before it reaches a pond or irrigation area
+- **Advanced**: [[comparison-constructed-wetland-vs-backyard-pond]] (gravel-filled marsh with bog plants) that purifies greywater before it reaches a pond or irrigation area
 
 From Gaia's Garden: A family producing 100 gallons of greywater daily needs a wetland roughly 10x12 feet. Essential wetland plants: cattail, bulrush, reed canary grass, canna lily.
 
 **Greywater rules**:
 - Never store greywater more than 1-2 days (bacteria multiply)
 - Only use biodegradable, low-phosphate soaps
-- Do not use on root vegetables or leafy greens eaten raw
+- Do not use on [[growing-root-vegetables-guide]] or leafy greens eaten raw
 - Divert to sewer/septic in winter in freezing climates
 - Check local codes before installing
 

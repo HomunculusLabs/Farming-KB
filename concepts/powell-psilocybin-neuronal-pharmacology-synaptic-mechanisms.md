@@ -1,5 +1,5 @@
 ---
-title: Powell Psilocybin Neuronal Pharmacology Synaptic Mechanisms
+title: Powell powell psilocybin neuronal pharmacology synaptic mechanisms Pharmacology Synaptic Mechanisms
 created: 2026-04-28
 tags: [psilocybin, neuroscience, neurons, synapse, neurotransmitter, brain, powell]
 date: 2026-04-25
@@ -10,8 +10,8 @@ type: concept
 
 # Psilocybin Neuronal Pharmacology and Synaptic Mechanisms
 
-Simon G. Powell's The Psilocybin Solution devotes significant attention
-to the neuroscience underlying the psychedelic experience. The book
+Simon G. Powell's The [[powell-psilocybin-solution-ecological-cognition-theory]] devotes significant attention
+to the neuroscience underlying the [[leary-psychedelic-experience-bardo-mapping]]. The book
 provides an accessible yet detailed exploration of how psilocybin
 interacts with the brain's neuronal architecture, specifically through
 the mechanism of synaptic transmission and the serotonergic system.
@@ -126,7 +126,7 @@ psychedelic experience.
 Powell argues that by examining the chemical changes associated with
 changes in consciousness, we can come to a deeper understanding of the
 nature of mind. Just as brain damage research allows speculation about
-normal brain function, so too can the analysis of altered states of
+normal brain function, so too can the analysis of [[weil-the-natural-mind-altered-states-normalcy]] of
 consciousness lead to insights about the nature of normal consciousness.
 The synapse is where psilocybin, [[powell-psilocybin-brain-plasticity]]
 - [[powell-mutability-of-consciousness-chemical-lens]]

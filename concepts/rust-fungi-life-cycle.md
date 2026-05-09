@@ -20,11 +20,11 @@ Rust fungi are basidiomycete pathogens — see [[bloomfield-buller-drop-surface-
 
 ### Insect-Mediated Sexual Reproduction
 
-Rust fungi cannot reproduce sexually without insects. After growing within the barberry leaf for a few days, the fungus forms tiny flask-shaped **spermagonia** that rupture the upper leaf surface. Thin hairs protrude from the opening, and each spermagonium exudes sugary nectar along with masses of spherical **spermatia** that function as sperm cells.
+Rust fungi cannot reproduce sexually without insects. After growing within the barberry leaf for a few days, the fungus forms tiny flask-shaped **spermagonia** that rupture the upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]. Thin hairs protrude from the opening, and each spermagonium exudes sugary nectar along with masses of spherical **spermatia** that function as sperm cells.
 
 Flies and other insects, attracted by the nectar, carry spermatia from one spermagonium to another. When a spermatial nucleus is injected into the hair of a compatible mate, it migrates down the hair and divides repeatedly, transforming the mycelium from one with identical nuclei into a **dikaryon** containing two different nuclear types.
 
-Some rusts, like *Puccinia monoica*, have evolved extraordinary flower mimicry. Clusters of leaves covered with yellow spermagonia so perfectly resemble real flowers that pollinating insects prefer them over actual flowers of neighboring plant species, fundamentally altering the ecology of the entire habitat.
+Some rusts, like *[[bloomfield-puccinia-monoica-pseudoflowers-rust-mimicry]]*, have evolved extraordinary flower mimicry. Clusters of leaves covered with yellow spermagonia so perfectly resemble real flowers that pollinating insects prefer them over actual flowers of neighboring plant species, fundamentally altering the ecology of the entire habitat.
 
 ### Aeciospore Return to Wheat
 
@@ -36,12 +36,12 @@ The standard explanation for the complex life cycle centers on **resilience**. T
 
 ## Agricultural Significance and Control
 
-Black stem rust causes more crop damage than any other single pathogen. Control strategies include:
+Black stem rust causes more crop damage than any other single pathogen. [[jadam-weed-control-strategies-natural]] include:
 
-- **Chemical fungicides**: Ranging from sulfur-containing mixtures to synthetic compounds like triadimefon that inhibit ergosterol biosynthesis
+- **[[cervantes-chemical-fungicides-insecticides]]**: Ranging from sulfur-containing mixtures to synthetic compounds like triadimefon that inhibit ergosterol biosynthesis
 - **Resistant crop varieties**: Plant breeders select for cultivars with hypersensitive reactions that destroy their own cells around infection points
 - **Barberry eradication**: Removing the alternate host retards the evolution of new rust races by eliminating sexual reproduction
-- **Genetic engineering**: Prospects for crops with built-in antifungal defenses
+- **[[fukuoka-textdoc-genetic-engineering-critique-warning]]**: Prospects for crops with built-in antifungal defenses
 
 The arms race between rusts and their host plants continues, with evolution favoring new rust races that overcome plant defenses — a diversity explored in [[bloomfield-coffee-rust-and-crop-pathogens]] for details on this economically devastating species. It has no alternate host and survives on coffee alone, making control particularly challenging since barberry eradication is not an option.
 
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

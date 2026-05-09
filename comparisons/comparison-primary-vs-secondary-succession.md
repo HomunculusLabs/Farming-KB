@@ -32,11 +32,11 @@ type: comparison
 The most fundamental distinction lies in **soil and biological legacy**. Primary
 succession starts from a truly abiotic foundation. Lichens and cyanobacteria are
 often the first colonizers, gradually breaking down rock through physical and
-chemical weathering while contributing organic matter upon death. This
+chemical weathering while contributing [[hamilton-composting-and-organic-matter-management]] upon death. This
 soil-building phase can take centuries before vascular plants establish.
 
 Secondary succession, by contrast, begins with a head start. The soil already
-contains nutrients, microorganisms, and a seed bank. Root systems, rhizomes,
+contains nutrients, microorganisms, and a [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]]. Root systems, rhizomes,
 and surviving individuals allow rapid regrowth. This is why a cleared field can
 become shrubland within a decade, whereas a lava flow may remain mostly barren
 for the same period.
@@ -66,7 +66,7 @@ allowing more complex food webs to reassemble quickly.
 - Agricultural abandonment (old fields reverting to natural vegetation)
 - Flooding that destroys above-ground biomass but preserves soil
 - Pest outbreaks or disease killing dominant tree species
-- Grazing cessation allowing woody plant encroachment
+- Grazing cessation allowing [[savory-woody-plant-encroachment-and-succession]]
 
 ## Overlap and Gray Areas
 
@@ -93,18 +93,18 @@ interventions restoration practitioners should consider.
 Understanding succession types is essential for effective restoration:
 
 - **Primary succession sites** require active intervention — soil amendments,
-  [[nurse-plants]], and careful pioneer species selection.
+  nurse-plants, and careful pioneer species selection.
   Natural recovery may be impractically slow for human management timescales.
   Mine reclamation and volcanic restoration are canonical examples.
 
 - **Secondary succession sites** often benefit from passive restoration:
   removing ongoing stressors (e.g., overgrazing, invasive species pressure) and
   allowing natural recovery. Assisted natural regeneration — light seeding,
-  erosion control, or targeted planting — can accelerate the process without
+  [[permplant-willows-salix-erosion-control-fodder]], or targeted planting — can accelerate the process without
   the cost of full active restoration.
 
 - **Severity assessment** determines the approach. Evaluating soil depth,
-  organic matter content, seed bank viability, and microbial community health
+  organic matter content, seed bank viability, and [[edaphic-factors-microbial-community-structure]] health
   helps practitioners choose between active planting, soil reconstruction, or
   protective exclusion measures.
 
@@ -129,4 +129,6 @@ guidelines, and monitoring protocols in major restoration programs worldwide.
 
 ## See Also
 
-- [[mycorrhizal-succession-primary-secondary]]
+- mycorrhizal-succession-primary-secondary
+- [[dighton-fungi-volcanic-glacier-primary-succession]]
+- [[comparison-stevia-vs-monk-fruit-sweetener-cultivation]]

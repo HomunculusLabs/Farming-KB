@@ -1,5 +1,5 @@
 ---
-title: Azo Dye Degradation Mechanisms by Ligninolytic Fungi
+title: Azo azo-dye-degradation-biochemistry Mechanisms by biochemistry-of-ligninolytic-fungi-bioremediation
 created: 2026-04-28
 tags: [bioremediation, azo-dyes, degradation-mechanisms, ligninolytic-enzymes, textile-wastewater]
 date: 2026-04-25
@@ -10,12 +10,12 @@ type: concept
 
 # Azo Dye Degradation Mechanisms by Ligninolytic Fungi
 
-Azo dyes are the predominant group of synthetic dyes, accounting for
+Azo dyes are the predominant group of [[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste]], accounting for
 approximately 50% of all industrial dyes produced worldwide. They are
 widely used in textile dyeing, paper printing, color photography, and
 petroleum products. Approximately 10-15% of produced dyes end up in
 industrial effluents, and many are recalcitrant to conventional
-wastewater treatment. White rot fungi and their ligninolytic enzymes
+[[mollison-designers-wastewater-treatment-wetlands]]. White rot fungi and their [[singh-ligninolytic-enzymes-fungal-bioremediation]]
 offer promising biological degradation pathways for these problematic
 compounds.
 
@@ -43,7 +43,7 @@ hydroperoxide, depending on the dye structure.
 
 Lignin peroxidase from [[pleurotus-eryngii]] decolorize
 reactive dyes through their peroxidase systems; P. ostreatus and
-T. hispida use primarily laccase for dye decolorization; Pycnoporus
+T. hispida use primarily laccase for [[singh-textile-dye-decolorization-fungal]]; Pycnoporus
 cinnabarinus uses laccase-mediator systems; and Flavoplavus sp.
 isolated from mangroves shows promising dye degradation activity.
 
@@ -58,6 +58,8 @@ substitution patterns all affect degradability through steric
 hindrance, electron distribution, and charge effects.
 
 ## See Also
+
+- [[azo-dye-degradation-biochemistry]]
 
 - [[staycare-fungal-degradation-of-synthetic-dyes]]
 - [[staycare-laccase-enzymes-in-bioremediation]]
@@ -80,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

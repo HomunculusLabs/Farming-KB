@@ -41,9 +41,9 @@ prefer a no-heat method that preserves more of the delicate honey aromatics. In 
 approach, you simply stir the honey into room-temperature water until fully dissolved.
 
 Once the must is prepared, it needs to be aerated before pitching the yeast. Yeast
-needs oxygen during the initial growth phase to reproduce and build healthy cell
+needs oxygen during the initial growth phase to reproduce and [[query-how-to-build-healthy-garden-soil]] cell
 populations. Vigorously stirring the must or using an aeration wand introduces the
-dissolved oxygen the yeast needs.
+[[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] the yeast needs.
 
 After pitching the yeast, the fermentation vessel should be fitted with an airlock
 that allows carbon dioxide to escape while preventing airborne contaminants from
@@ -68,7 +68,7 @@ The [[mead-making-guide]]
 
 ## Related Questions
 - [[kimchi-making]]
-- kombucha brewing
+- [[query-how-does-kombucha-brewing-work]]
 ## Practical Considerations
 
 Successful implementation of How to Make Mead at Home requires attention to
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

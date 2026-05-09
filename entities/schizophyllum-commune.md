@@ -27,24 +27,26 @@ sources:
 *S. commune* was the first basidiomycete to have its genome fully sequenced (2004) and serves as the primary genetic model for the mushroom-forming fungi. Major contributions include:
 
 - **Mating system**: A tetrapolar outcrossing system with two unlinked mating-type loci (A and B), each with multiple specificities, generating thousands of compatible mating combinations
-- **Developmental biology**: The genetic regulation of mushroom formation (fruiting) has been extensively characterized
-- **Hyphal interactions**: Nuclear migration, clamp connection formation, and dikaryon maintenance were first elucidated in this species
+- **Developmental biology**: The genetic regulation of [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] (fruiting) has been extensively characterized
+- **Hyphal interactions**: Nuclear migration, clamp [[clamp-connection-formation-and-nuclear-migration]], and dikaryon maintenance were first elucidated in this species
 - **Genome**: ~38.5 Mb genome with ~13,000 predicted genes
 
 ## Medicinal Properties
 
-Research has identified several bioactive compounds with therapeutic potential:
+Research has identified several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with therapeutic potential:
 
-- **Schizophyllan (SPG)**: A β-(1→3)-glucan with β-(1→6) branches, produced in submerged culture. Approved in Japan as an immunotherapeutic adjuvant for cancer treatment, particularly cervical cancer. Functions as a biological response modifier (BRM), activating macrophages, natural killer cells, and T-cell-mediated immunity
+- **Schizophyllan (SPG)**: A β-(1→3)-glucan with β-(1→6) branches, produced in submerged culture. Approved in Japan as an immunotherapeutic adjuvant for cancer treatment, particularly cervical cancer. Functions as a [[medicinal-mushrooms-biological-response-modifiers]] modifier (BRM), activating macrophages, natural killer cells, and T-cell-mediated immunity
 - **Antioxidant activity**: Methanol extracts show significant DPPH radical scavenging activity
 - **Antimicrobial compounds**: Exhibits activity against various Gram-positive and Gram-negative bacteria
 - **Anti-inflammatory**: Polysaccharide fractions demonstrate inhibitory effects on pro-inflammatory cytokines
 
 ## Ecological Role
 
-A white-rot decomposer that efficiently degrades lignin and cellulose in dead wood. Its broad host range and global distribution make it one of the primary agents of wood decomposition in tropical and temperate forests. The desiccation tolerance of its fruiting bodies allows it to persist and sporulate across seasons, contributing to its ecological success.
+A white-rot decomposer that efficiently degrades lignin and cellulose in dead wood. Its broad host range and [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] make it one of the primary agents of wood decomposition in tropical and temperate forests. The desiccation tolerance of its fruiting bodies allows it to persist and sporulate across seasons, contributing to its ecological success.
 
 ## See Also
+
+- [[nostoc-commune]]
 
 - [[fungal-ecology-and-decomposition]]
 
@@ -65,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

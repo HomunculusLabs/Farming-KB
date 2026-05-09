@@ -1,5 +1,5 @@
 ---
-title: "Neurotropic Fungi of Central America and Caribbean"
+title: "challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification of Central America and Caribbean"
 created: 2026-04-28
 tags:
   - guzman-allen-gartz
@@ -21,7 +21,7 @@ type: concept
 
 ## Overview
 
-Mexico is the global center of neurotropic fungal diversity, harboring 76
+Mexico is the global center of [[mexico-center-neurotropic-fungal-biodiversity]], harboring 76
 species of neurotropic fungi, of which 44 belong to Psilocybe -- representing
 39% of all known Psilocybe species worldwide. This concentration makes Mexico
 the most important country for neurotropic mycodiversity and the cradle of
@@ -57,7 +57,7 @@ from Mexico were distributed across vegetation types as follows:
   southern mycobiotas converge. Northern species like P. caerulipes reach
   northeastern Mexico through Fagus-dominated forests, while southern
   species like P. yungensis reach Mexico through Alnus-dominated forests.
-- **Tropical forest**: 4 species -- Despite the vast extent of Mexico's
+- **[[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]**: 4 species -- Despite the vast extent of Mexico's
   tropical forests, relatively few neurotropic Psilocybe species occur.
 - **Coniferous forest**: 4 species -- Surprisingly few despite coniferous
   forests being more intensively studied mycologically in Mexico.
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

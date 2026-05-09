@@ -53,7 +53,7 @@ Also known as Triangle Mints #23. Indica-dominant cross of Triangle Kush and Ani
 
 ### Gorilla Glue #4 (GG4)
 
-A multiple Cannabis Cup winner. Chem's Sister crossed with Sour Dubb and Chocolate Diesel. Extremely sticky resin production (named for the glue-like trichomes). Potent hybrid effects — heavy relaxation with happy, euphoric mental state. High THC content regularly exceeding 25%.
+A multiple Cannabis Cup winner. Chem's Sister crossed with Sour Dubb and Chocolate Diesel. Extremely sticky [[cannabis-glandular-trichome-types-resin-production-clarke]] (named for the glue-like trichomes). Potent hybrid effects — heavy relaxation with happy, euphoric mental state. High THC content regularly exceeding 25%.
 
 ### Pineapple Express
 
@@ -72,9 +72,9 @@ Creating hybrids involves understanding [[cannabis-breeding-basics|fundamental b
 Successful hybridization begins with selecting parent strains that complement each other. Breeders consider:
 
 - Desired effect profile (energetic, relaxing, balanced)
-- Terpene profiles for aroma and flavor
+- [[cannabis-terpene-profiles-sativa]] for aroma and flavor
 - Growth characteristics (height, yield, flowering time)
-- Pest and disease resistance
+- [[hamilton-pest-and-disease-control-organic]] resistance
 - Environmental adaptability
 
 ### Stabilizing Hybrid Genetics
@@ -98,7 +98,7 @@ Hybrid growing characteristics fall between sativa and indica norms:
 
 ### Space Requirements
 
-Most hybrids reach medium height (4-7 feet), making them adaptable to both [[cannabis-indoor-growing-basics|indoor]] and [[cannabis-outdoor-growing|outdoor]] environments. Training techniques like topping, LST, and trellising help manage canopy structure.
+Most hybrids reach medium height (4-7 feet), making them adaptable to both [[cannabis-indoor-growing-basics|indoor]] and [[cannabis-outdoor-growing|outdoor]] environments. [[cannabis-training-techniques-comparison]] like topping, LST, and trellising help manage canopy structure.
 
 ### Flowering Time
 
@@ -117,11 +117,11 @@ Hybrids tend to be more adaptable to varying growing conditions than pure sativa
 Hybrids are popular medical strains because they can be tailored to specific conditions:
 
 - Anxiety disorders: balanced hybrids with moderate THC and CBD
-- Chronic pain: indica-dominant hybrids with caryophyllene
+- [[cannabis-chronic-pain-management]]: indica-dominant hybrids with caryophyllene
 - Daytime symptom management: sativa-dominant hybrids
 - Nausea: hybrids with limonene and pinene terpenes
 - [[cannabis-and-exercise-recovery|Exercise recovery]]: balanced hybrids for anti-inflammatory benefits without heavy sedation
-- Sleep disorders: indica-dominant hybrids with myrcene and linalool
+- [[cannabis-sleep-disorders-and-insomnia]]: indica-dominant hybrids with myrcene and linalool
 
 ## Testing Hybrid Quality
 

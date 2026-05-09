@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Potency Variation
+title: Psilocybin psilocybe-cubensis-potency-variation-by-flush
 created: 2026-04-28
 tags:
   - mycology
@@ -19,7 +19,7 @@ type: concept
 Psilocybin potency variation refers to the substantial and often unpredictable
 differences in psilocybin and psilocin concentrations found across
 specimens, harvests, strains, and growing conditions of psilocybin-mushrooms. This variability has significant implications for ethnopharmacology,
-recreational use, clinical research, and harm reduction. The phenomenon was
+recreational use, [[hofmann-lsd-clinical-research-early-studies]], and [[adverse-effects-and-harm-reduction-psilocybin]]. The phenomenon was
 systematically documented in controlled cultivation studies as early as the
 1980s, most notably by Bigwood and Beug (1982), and remains a central concern
 in modern psychedelic science.
@@ -85,20 +85,20 @@ and the ability to detect additional alkaloids such as [[aeruginascin]].
 
 ## Factors Influencing Potency
 
-Multiple variables contribute to potency variation in psilocybin mushrooms:
+Multiple variables contribute to potency variation in [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]:
 
 - **Genetics and strain**: Different spore collections and genetic lineages
   produce characteristic alkaloid profiles, though even clonal cultures show
   significant flush-to-flush variability.
 - **Flush number**: As demonstrated by Bigwood and Beug, early flushes tend to
   have low or zero psilocin, while psilocybin remains variable throughout.
-- **Substrate composition**: The nutritional composition of the growth medium
+- **Substrate composition**: The [[dighton-fungal-nutritional-composition-animal-diets]] of the growth medium
   (rye grain, compost, manure, straw) can influence alkaloid production,
   though controlled comparisons remain limited.
 - **Environmental conditions**: Temperature, humidity, light exposure, and
   CO2 levels during fruiting all potentially modulate secondary-metabolism
   and alkaloid biosynthesis.
-- **Drying and storage**: Psilocin is less stable than psilocybin and degrades
+- **[[psilocybin-mushroom-drying-and-storage-methods]]**: Psilocin is less stable than psilocybin and degrades
   more rapidly with improper drying or storage, further contributing to
   observed variability in analyzed specimens.
 - **Morphological part**: Caps and stems differ in alkaloid concentration,

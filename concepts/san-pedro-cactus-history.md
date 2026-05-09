@@ -1,5 +1,5 @@
 ---
-title: San Pedro Cactus History in Plants of the Gods
+title: San san pedro cactus history History in Plants of the Gods
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -34,7 +34,7 @@ shaman, holding Huachuma (the indigenous name for Trichocereus).
 San Pedro is Trichocereus pachanoi [= Echinopsis pachanoi], a fast-growing
 columnar cactus that develops few if any thorns when cultivated. The cactus
 is known in northern coastal Peru as San Pedro and in the northern Andes as
-Huachuma or Achuma. A species from the Trichocereus genus not yet
+Huachuma or Achuma. A species from the [[entheogen-trichocereus-genus-mescaline-cacti]] not yet
 botanically categorized grows in northwestern Argentina, where it is also
 called San Pedro and used psychoactively.
 
@@ -63,7 +63,7 @@ in the Christian belief that Saint Peter holds the keys to heaven. But the
 overall context of the moon-oriented ritual surrounding its use indicates a
 true amalgam of pagan and Christian elements.
 
-San Pedro is now employed in curanderismo (folk healing) to cure sickness,
+San Pedro is now employed in curanderismo ([[entheogen-cimora-folk-healing-ceremony]]) to cure sickness,
 including alcoholism and insanity, for divination, to undo love witchcraft, to
 counter sorcery, and to ensure success in personal ventures. It is the
 principal -- but not the only -- "magical" plant known to shamans, collected

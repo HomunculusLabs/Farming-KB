@@ -1,5 +1,5 @@
 ---
-title: The Natural Order and Microbial Ecology
+title: The fukuoka-textdoc-natural-order-food-chain-unity and fukuoka-microbial-ecology-decomposition
 created: 2026-04-28
 tags:
   - natural-farming
@@ -40,7 +40,7 @@ moles and centipedes that eat the eggs of earwigs, swallows that feed on centipe
 that eat small birds, and kites and dogs that kill snakes. Bacteria and viruses attack these
 birds, beasts, and insects. Amoebae and nematodes feed on the bacteria, and the remains of
 nematodes are fed on in turn by earthworms, which are relished by moles. Weasels feed on the
-moles, and microorganisms break down the carcass of the weasel, providing a nutrient source for
+moles, and microorganisms [[query-can-fungi-break-down-plastic-pollution]] the carcass of the weasel, providing a nutrient source for
 plants.
 
 ## Microbes as Scavengers
@@ -61,7 +61,7 @@ Thanks to the microbes that dispose of the remains of animals and plants, the ea
 is always clean and beautiful. If animals died and the carcasses just remained there without
 decomposing, a couple of days is all it would take to make the world an intolerable place to
 be. People look on casually at this activity by microbes and [[magnaporthe-grisea-functional-genomics-rice-blast]] disease, leaf blotch, and rot-causing fungi spread rapidly over the straw, but
-   spider mites soon crawl over this fungal growth.
+   [[cervantes-spider-mites-identification-control]] soon crawl over this [[brassinosteroid-fungal-growth-promotion]].
 3. Different microbes begin to proliferate — yeasts, blue mold, bread mold, and trichoderma
    fungi — which destroy the pathogens and begin to decompose the straw.
 4. Nematodes that feed on the fungi, bacteria that feed on the nematodes, mites that consume
@@ -69,7 +69,7 @@ be. People look on casually at this activity by microbes and [[magnaporthe-grise
    earwigs, mole crickets, and slugs are drawn to the straw.
 5. Once fibrin-decomposing fungi run out of food, they are supplanted by lipoid- and
    lignin-decomposing bacteria, then by anaerobic bacteria.
-6. Lactic acid bacteria round off the process with lactic acid fermentation, at which point
+6. Lactic [[lactic-acid-bacteria-knf]] round off the process with lactic acid fermentation, at which point
    all trace of the straw disappears.
 
 ## Man as the Sole Heretic
@@ -89,3 +89,9 @@ damage may consist of only a broken gear, in nature a disruption gives rise to a
 series of repercussions.
 
 ## See Also
+
+- [[microbial-ecology-fungi]]
+- [[fukuoka-bushman-scrabbling-existence-not-natural]]
+- [[fukuoka-illusions-of-natural-science]]
+- [[fukuoka-textdoc-man-sole-heretic-natural-order]]
+- [[fukuoka-california-desertification-myth-natural-aridity]]

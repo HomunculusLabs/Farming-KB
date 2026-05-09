@@ -1,5 +1,5 @@
 ---
-title: The Profanation of 415 BC and Historical Evidence for Eleusinian Psychoactivity
+title: The Profanation of 415 BC and Historical the profanation of 415 bc and evidence for eleusinian psychoactivity Psychoactivity
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -14,7 +14,7 @@ The most compelling historical evidence that the Eleusinian kykeon contained a p
 
 ## The Events of 415 BC
 
-In the summer of 415 BC, on the eve of the Athenian expedition to Sicily, a series of religious scandals erupted in Athens. Among them was the deliberate profanation of the Eleusinian Mysteries by prominent aristocrats who held private, unauthorized versions of the initiation ceremony.
+In the summer of 415 BC, on the eve of the Athenian expedition to Sicily, a series of religious scandals erupted in Athens. Among them was the deliberate profanation of the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] by prominent aristocrats who held private, unauthorized versions of the initiation ceremony.
 
 ### The Private Mysteries
 
@@ -39,7 +39,7 @@ This testimony establishes several key points:
 
 ### The Possible Pun on "Crumb"
 
-The Wasson-Hofmann-Ruck interpretation suggests a possible pun in the Greek: the informer's testimony about "crumbs of barley" (oula) might play on the similarity to "purples of barley" (oula) -- referring to the purple sclerotia of Claviceps purpurea ergot mixed with the barley. If the kykeon contained ergot, the purple sclerotia would be visible among the barley groats.
+The Wasson-Hofmann-Ruck interpretation suggests a possible pun in the Greek: the informer's testimony about "crumbs of barley" (oula) might play on the similarity to "purples of barley" (oula) -- referring to the purple sclerotia of [[bloomfield-ergot-claviceps-purpurea-ergotism]] ergot mixed with the barley. If the kykeon contained ergot, the purple sclerotia would be visible among the barley groats.
 
 ## The Legal Framework
 
@@ -60,7 +60,7 @@ The comic playwright Aristophanes (c. 446-386 BC) made multiple references to th
 
 ### The Self-Enforcing Secrecy
 
-Multiple ancient sources note that the secrecy of Eleusis was largely self-enforcing. Initiates who had experienced the revelation found it impossible or undesirable to describe the experience in words. As the Homeric Hymn states: "awful mysteries which no one may in any way transgress or pry into or utter, for deep awe of the gods checks the voice."
+Multiple ancient sources note that the secrecy of Eleusis was largely self-enforcing. Initiates who had experienced the revelation found it impossible or undesirable to describe the experience in words. As the [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]] states: "awful mysteries which no one may in any way transgress or pry into or utter, for deep awe of the gods checks the voice."
 
 This self-enforcing secrecy is characteristic of entheogenic experiences worldwide. Those who have not had the experience cannot understand it from description; those who have had it find words inadequate.
 
@@ -72,7 +72,7 @@ The Eleusinian Mysteries were celebrated continuously for nearly 2,000 years (ap
 
 The Wasson-Hofmann-Ruck argument draws on the comparative pattern:
 - Every known entheogenic cult features self-enforcing secrecy
-- The Eleusinian Mystery has all the hallmarks of an entheogenic cult (fasting, taboo foods, darkness, single experience, lasting bond of fellowship)
+- The [[mckenna-eleusinian-mystery-and-psychedelic-sacrament]] has all the hallmarks of an entheogenic cult (fasting, taboo foods, darkness, single experience, lasting bond of fellowship)
 - The kykeon was prepared from barley grown on the Rarian plain (ergot habitat) mixed with water and mint
 - Water-soluble hallucinogenic ergot alkaloids could be extracted with ancient technology
 - Hofmann proved ergonovine is hallucinogenic at accessible doses

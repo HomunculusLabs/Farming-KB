@@ -1,5 +1,5 @@
 ---
-title: Recurrent Selection and Pedigree Breeding in Cannabis
+title: cervantes recurrent selection pedigree breeding and Pedigree Breeding in Cannabis
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -23,7 +24,7 @@ improvement of breeding stock toward defined goals.
 
 ## Recurrent Selection
 
-Recurrent selection is any breeding program designed to concentrate
+Recurrent selection is any [[cervantes-breeding-program-design-goal-setting]] designed to concentrate
 favorable genes scattered among a number of individuals by repeated
 cycles of selection for favorable traits. Rather than a single pass of
 selection, recurrent selection operates in ongoing cycles that
@@ -79,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

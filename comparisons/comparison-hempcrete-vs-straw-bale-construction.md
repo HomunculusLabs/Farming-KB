@@ -1,10 +1,11 @@
 ---
-title: Hempcrete vs Straw Bale Construction
+title: Hempcrete vs Straw straw-bale-construction-vs-earthbag-construction
 created: 2026-04-28
 tags: [natural-building, hempcrete, straw-bale, sustainable-construction, insulation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -14,7 +15,7 @@ Both hempcrete and straw bale construction are natural, plant-fiber-based buildi
 
 ## Material Composition
 
-**Hempcrete** is a biocomposite made from the woody core (shiv) of industrial hemp stalks mixed with a lime-based binder (hydrated lime, hydraulic lime, or pozzolanic additives) and water. The lime cures through carbonation, gradually absorbing CO₂ from the atmosphere and petrifying the hemp fibers into a lightweight, stone-like matrix. The ratio is typically 1 part lime binder to 1.5–2 parts hemp shiv by volume.
+**Hempcrete** is a biocomposite made from the woody core (shiv) of industrial hemp stalks mixed with a lime-based binder ([[cervantes-hydrated-lime-quicklime-ph-adjustment]], hydraulic lime, or pozzolanic additives) and water. The lime cures through carbonation, gradually absorbing CO₂ from the atmosphere and petrifying the hemp fibers into a lightweight, stone-like matrix. The ratio is typically 1 part lime binder to 1.5–2 parts hemp shiv by volume.
 
 **Straw bale construction** uses baled agricultural straw (wheat, oat, barley, rice, or rye) as both structural or infill wall elements. Bales are stacked like oversized bricks, pinned with rebar or bamboo stakes, and plastered on both sides with earth or lime-based renders. The straw itself is simply the dried stalk residue left after grain harvest — no binder is mixed into the wall material; the bale structure holds itself together through compression and tension from strapping or plaster skins.
 
@@ -37,7 +38,7 @@ Both systems are hygroscopic and vapor-permeable, meaning they absorb and releas
 
 ## Structural Role
 
-- **Hempcrete** is **not** load-bearing in standard applications. It is always cast around a structural frame — typically timber frame, though steel or concrete can be used. The hempcrete provides insulation, thermal mass, and the wall surface, but the frame carries vertical loads. Some experimental load-bearing hempcrete exists but is not mainstream.
+- **Hempcrete** is **not** load-bearing in standard applications. It is always cast around a structural frame — typically [[comparison-bamboo-construction-vs-timber-frame-basics]], though steel or concrete can be used. The hempcrete provides insulation, thermal mass, and the wall surface, but the frame carries vertical loads. Some experimental load-bearing hempcrete exists but is not mainstream.
 - **Straw bale** can be built as either **load-bearing** (Nebraska style) or **infill** within a structural frame. Load-bearing straw bale walls rely on pre-compression (strapping or threaded rods) to transfer roof loads through the bales. This eliminates the need for a timber frame but requires careful engineering and typically a top plate beam to distribute loads evenly.
 
 **Winner for versatility**: Straw bale (offers both load-bearing and infill options).
@@ -45,7 +46,7 @@ Both systems are hygroscopic and vapor-permeable, meaning they absorb and releas
 ## Fire Resistance
 
 - **Hempcrete**: Excellent fire resistance. The mineralized lime-hemp matrix does not support combustion. Hempcrete walls typically achieve a 1–2 hour fire rating. The lime binder acts as an insulating char layer if exposed to flame.
-- **Straw bale**: Better than many assume, but requires plaster. Unplastered straw bales are a fire hazard, but once plastered on both sides with at least 1 inch of earth or lime plaster, straw bale walls have passed 2-hour fire ratings in ASTM E119 testing. The dense, plastered wall leaves no oxygen for combustion.
+- **Straw bale**: Better than many assume, but requires plaster. Unplastered straw bales are a fire hazard, but once plastered on both sides with at least 1 inch of earth or [[comparison-lime-plaster-vs-earthen-plaster]], straw bale walls have passed 2-hour fire ratings in ASTM E119 testing. The dense, plastered wall leaves no oxygen for combustion.
 
 Both are fire-safe when properly finished, though hempcrete's inherent non-combustibility gives it an edge in the event of finish failure.
 
@@ -55,7 +56,7 @@ Both are fire-safe when properly finished, though hempcrete's inherent non-combu
 
 Both materials sequester carbon biogenically — the CO₂ absorbed by the growing plant remains locked in the building:
 
-- **Hempcrete**: Hemp is an exceptional carbon sink, growing 10–15 feet in 100 days and sequestering an estimated 110–165 kg of CO₂ per cubic meter of hempcrete (including the carbonation of lime). The lime binder continues to absorb CO₂ over decades as it cures, further increasing the net carbon storage.
+- **Hempcrete**: Hemp is an exceptional carbon sink, growing 10–15 feet in 100 days and sequestering an estimated 110–165 kg of CO₂ per cubic meter of hempcrete (including the carbonation of lime). The lime binder continues to absorb CO₂ over decades as it cures, further increasing the net [[holmgren-soil-humus-carbon-storage-rebuilding]].
 - **Straw bale**: Straw sequesters approximately 40–60 kg of CO₂ per cubic meter of baled wall. The carbon was already captured during the grain crop's growth cycle, so straw bale construction repurposes an existing agricultural byproduct.
 
 **Winner**: Hempcrete (significantly higher carbon sequestration per volume).
@@ -63,7 +64,7 @@ Both materials sequester carbon biogenically — the CO₂ absorbed by the growi
 ## Cost and Availability
 
 - **Hempcrete**: Hemp shiv and lime binders are more expensive than straw. Industrial hemp processing infrastructure is still developing in many regions, and shipping adds cost. Total material cost for hempcrete walls is roughly 20–40% higher than straw bale. Lime binder is heavy and energy-intensive to produce, partially offsetting hemp's carbon benefits. Hempcrete also requires formwork for casting, adding labor and material costs.
-- **Straw bale**: Straw is extremely cheap — often a byproduct of local grain farming that farmers are happy to give away or sell for minimal cost. Bales are lightweight, easy to handle, and require no formwork. Plaster materials (earth, sand, lime) are also inexpensive. Straw bale construction is frequently one of the lowest-cost [[comparison-scented-geraniums-vs-edible-flowers]]
+- **Straw bale**: Straw is extremely cheap — often a byproduct of local [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]] that farmers are happy to give away or sell for minimal cost. Bales are lightweight, easy to handle, and require no formwork. Plaster materials (earth, sand, lime) are also inexpensive. Straw bale construction is frequently one of the lowest-cost [[comparison-scented-geraniums-vs-edible-flowers]]
 
 - [[comparison-cicadas-vs-locusts]]
 
@@ -89,3 +90,7 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[comparison-light-straw-clay-vs-hempcrete]]
+- [[comparison-straw-bale-vs-cordwood-construction]]

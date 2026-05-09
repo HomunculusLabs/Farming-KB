@@ -1,9 +1,9 @@
 ---
-title: Cannabis Light Burn
+title: query-how-to-prevent-and-treat-cannabis-light-burn-and-heat-stress Burn
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -11,11 +11,11 @@ tags: [cannabis]
 
 # Cannabis Light Burn
 
-Light burn occurs when cannabis plants receive excessive light intensity, typically from being placed too close to high-intensity discharge (HID) lamps or other powerful grow lights. The symptoms can resemble other problems such as nutrient burn or heat stress, making proper diagnosis important for effective treatment. Burned foliage from light burn is also susceptible to pest and disease attack, creating secondary problems if not addressed.
+Light burn occurs when cannabis plants receive excessive light intensity, typically from being placed too close to high-intensity discharge (HID) lamps or other powerful grow lights. The symptoms can resemble other problems such as nutrient burn or heat stress, making proper diagnosis important for effective treatment. Burned foliage from light burn is also susceptible to [[hamilton-pest-and-disease-control-organic]] attack, creating secondary problems if not addressed.
 
 ## Understanding Light Intensity
 
-HID lamps (metal halide and high-pressure sodium) produce intense light and significant heat. The temperature within cannabis leaves can climb to an excess of 110°F (43°C) because leaves store heat radiated by the lamp. At this temperature, the internal chemistry of a marijuana leaf is disrupted:
+HID lamps (metal halide and high-pressure sodium) produce intense light and significant heat. The temperature within [[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]] can climb to an excess of 110°F (43°C) because leaves store heat radiated by the lamp. At this temperature, the internal chemistry of a marijuana leaf is disrupted:
 
 - Manufactured proteins are broken down and become unavailable to the plant
 - As internal leaf temperature climbs, plants are forced to use and evaporate more water
@@ -44,7 +44,7 @@ Light burn can be confused with several other cannabis problems:
 - **Heat stress**: Often occurs simultaneously — both conditions are caused by proximity to the lamp; heat stress causes more general wilting while light burn causes localized bleaching
 - **Nitrogen deficiency**: Both cause yellowing, but deficiency progresses from older to newer leaves (mobile nutrient), while light burn is localized to the canopy top
 - **Wind burn**: From fans directed too strongly at foliage; causes similar edge damage but affects leaves on one side or in the fan's path
-- **Fungal disease**: Light burn can be mistaken for fungus; do not confuse nutrient deficiencies or toxicities with insect and disease damage or poor cultural practices
+- **[[bloomfield-amphibian-decline-fungal-disease-climate-interactions]]**: Light burn can be mistaken for fungus; do not confuse [[hamilton-nutrient-deficiencies-and-treatment]] or toxicities with [[vegetable-insect-and-disease-control]] damage or poor cultural practices
 
 Key diagnostic: Light burn only affects the top portion of the plant closest to the light source, while nutrient problems typically show more uniformly across the plant or on lower foliage first.
 

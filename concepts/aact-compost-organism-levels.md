@@ -1,5 +1,5 @@
 ---
-title: AACT Compost Organism Levels
+title: AACT aact compost organism levels Levels
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # AACT Compost Organism Levels
 
-Elaine Ingham and Soil Foodweb Inc. (SFI) established specific organism biomass thresholds for compost used in AACT production. These levels ensure that compost tea will contain adequate beneficial organisms for disease suppression and soil improvement. The measurements use direct microscopy on fresh weight compost, expressed per gram dry weight.
+Elaine Ingham and Soil Foodweb Inc. (SFI) established specific organism biomass thresholds for compost used in AACT production. These levels ensure that compost tea will contain adequate beneficial organisms for [[aact-disease-suppression-mechanisms-ingham]] and soil improvement. The measurements use direct microscopy on fresh weight compost, expressed per gram dry weight.
 
 ## Desired Organism Levels in Aerobic Compost or Vermicompost
 
@@ -17,7 +17,7 @@ Elaine Ingham and Soil Foodweb Inc. (SFI) established specific organism biomass 
 | Parameter | Minimum Level |
 |---|---|
 | Active bacteria | 15–30+ µg/g dry weight |
-| Total bacteria | 150 µg (fungal compost) to 300+ µg (bacterial compost) per g dry weight |
+| Total bacteria | 150 µg ([[bacterial-vs-fungal-compost-teas]]) to 300+ µg (bacterial compost) per g dry weight |
 
 Total bacterial biomass below 300 µg/ml in finished tea indicates insufficient leaf surface coverage.
 
@@ -25,7 +25,7 @@ Total bacterial biomass below 300 µg/ml in finished tea indicates insufficient 
 | Parameter | Minimum Level |
 |---|---|
 | Active fungi | 2–10+ µg/g dry weight |
-| Total fungal biomass | 150 µg (bacterial compost) to 500+ µg (fungal compost) per g dry weight |
+| Total [[bioremediation-fungal-biomass-biosorbent-material]] | 150 µg (bacterial compost) to 500+ µg (fungal compost) per g dry weight |
 | Hyphal diameter | 2.5 µm or greater on average |
 
 For fungal-dominant compost: above 150 µg fungal biomass, preferably 300+ µg, with 10+ µg active fungi.
@@ -43,7 +43,7 @@ High ciliate numbers (above range) indicate anaerobic conditions from compaction
 ### Nematodes
 | Parameter | Minimum Level |
 |---|---|
-| Total beneficial nematodes | 20–100 per gram dry weight |
+| Total [[ingham-beneficial-nematodes-soil-food-web]] | 20–100 per gram dry weight |
 | Bacterial-feeding | 10–15 per gram |
 | Fungal-feeding | 5–10 per gram |
 | Predatory | 1–5 per gram |
@@ -61,7 +61,7 @@ To obtain death of pests and pathogens, compost must maintain:
 
 | Requirement | Standard |
 |---|---|
-| Dissolved oxygen | 5.5+ ppm throughout compost cycle |
+| [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] | 5.5+ ppm throughout compost cycle |
 | Odor | Pleasant (no putrid or sour smells) |
 | Moisture | 45–75% |
 | Organism set | Complete foodweb: bacteria, fungi, protozoa, beneficial nematodes |

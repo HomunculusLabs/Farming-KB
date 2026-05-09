@@ -1,5 +1,5 @@
 ---
-title: "Fungal Roles in Carbon Sequestration"
+title: "dighton-fungal-roles-in-nutrient-cycling in mycorrhizal-fungi-soil-carbon-sequestration-by-type"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -13,7 +13,7 @@ sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-e
 
 ## Overview
 
-[[mycorrhizal-types]] and Carbon Cycling
+[[mycorrhizal-types]] and [[dighton-fungi-elevated-co2-global-carbon-cycling]]
 
 The major biomes are dominated by plants with one of three kinds of [[soil-food-web-nutrient-cycling]]
 - [[fungal-biodiversity-forest-ecosystems]]
@@ -67,7 +67,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -145,4 +145,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

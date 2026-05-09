@@ -1,18 +1,13 @@
 ---
-title: Ectomycorrhizal Fungi
+title: query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with
 created: 2026-04-28
-tags: [[mycology, symbiosis, forest-ecology, soil-biology]
+tags: [mycology, symbiosis, forest-ecology, soil-biology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
 type: concept
 ---
-
-# Ectomycorrhizal Fungi
-
-Ectomycorrhizal (ECM) fungi form symbiotic associations with the roots of
-approximately 8,000 plant species, predominantly trees in temperate and boreal
-forests. Unlike [[peroxidase-catalyzed-decolorization-of-textile-dyes]] -- that break down organic matter, accessing nitrogen bound in
+# Ectomycorrhizal Fungi Ectomycorrhizal (ECM) fungi form symbiotic associations with the roots of approximately 8,000 plant species, predominantly trees in temperate and boreal forests. Unlike [[peroxidase-catalyzed-decolorization-of-textile-dyes]] -- that break down organic matter, accessing nitrogen bound in
 proteins, chitin, and other complex polymers. This organic nitrogen mining is
 critical in boreal forests where inorganic nitrogen is severely limiting.
 
@@ -32,13 +27,13 @@ topologies influence forest regeneration and stability.
 
 ECM fungi are sensitive to environmental change. Atmospheric nitrogen
 deposition, a consequence of industrial pollution, reduces the plant's
-dependence on fungal nitrogen supply and can shift community composition toward
+dependence on fungal nitrogen supply and can shift [[core-endorhiza-bacterial-community-composition-cannabis]] toward
 less mutualistic species. In nitrogen-saturated forests, ECM diversity
 declines and carbon allocation to belowground networks decreases.
 
-Climate change poses additional threats. Drought stress reduces carbon flow
+[[dighton-fungi-climate-change-feedback]] poses additional threats. Drought stress reduces carbon flow
 to fungal partners, potentially collapsing networks during extended dry
-periods. However, ECM fungi also improve host drought tolerance by enhancing
+periods. However, ECM fungi also improve host [[dighton-fungal-drought-tolerance-plant-water-relations]] by enhancing
 water uptake through hyphal exploration of soil micropores. The net effect
 depends on the severity and duration of water limitation.
 
@@ -50,7 +45,7 @@ requiring re-establishment from spore banks or surviving refugia.
 
 ## Ecological Succession
 
-ECM fungi play a central role in forest succession. Early-successional species
+ECM fungi play a central role in [[mollison-designers-food-forest-succession-design]]. Early-successional species
 such as Laccaria and Hebeloma are "ruderal" strategists -- fast-
 growing, spore-dependent colonizers that establish quickly after disturbance.
 Late-successional species like Cortinarius and Russula are
@@ -66,7 +61,7 @@ processes in forest recovery.
 
 ## Biogeographic Patterns
 
-ECM fungal diversity peaks in temperate and boreal regions, contrasting with
+ECM [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] peaks in temperate and boreal regions, contrasting with
 the tropical dominance of arbuscular mycorrhizae. This latitudinal gradient
 reflects both host plant distribution and soil chemistry. ECM associations are
 advantageous in cold, organic-matter-rich soils where enzyme-mediated nutrient

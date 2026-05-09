@@ -1,15 +1,16 @@
 ---
-title: Nameko Mushroom Cultivation
+title: Nameko accessible-mushroom-cultivation-for-disabilities
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [cultivation, mycology]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Nameko Mushroom Cultivation
 
-Nameko (Pholiota nameko) is one of the most popular cultivated mushrooms in Japan, closely ranking behind Shiitake and Enokitake. It has an excellent flavor and texture, though its thick, translucent, glutinous slime covering the cap can be off-putting to Western consumers. The slime disappears upon cooking and is undetectable when served.
+Nameko (Pholiota nameko) is one of the most popular [[fungi-cultivated-mushrooms-pathogens-competitors]] in Japan, closely ranking behind Shiitake and Enokitake. It has an excellent flavor and texture, though its thick, translucent, glutinous slime covering the cap can be off-putting to Western consumers. The slime disappears upon cooking and is undetectable when served.
 
 ## Species Information
 
@@ -25,7 +26,7 @@ Nameko (Pholiota nameko) is one of the most popular cultivated mushrooms in Japa
 - Stem: 5-8 cm long, equal, covered with fibrils, swelled near base
 - Partial veil: cortinate, dusted purple-brown with spores on upper stem
 - Spores: cinnamon brown, ellipsoid, small, 4-7 x 2.5-3.0 microns, smooth with germ pore
-- Distribution: Common in cool temperate highlands of northern Japan; not known from Europe or North America in the wild
+- Distribution: Common in cool temperate highlands of northern Japan; not known from Europe or [[psilocybin-north-america-pacific-northwest]] in the wild
 
 ## Unique Feature: Single-Spore Fruiting
 
@@ -48,13 +49,13 @@ Cropping cycle: Two crops in 60 days, 10-14 days apart. This mushroom is more se
 - Arita (1969): no more than 10% rice bran for oak hardwood formulations
 - Stamets: 20% rice bran supports more massive flushes when using red alder (Alnus rubra)
 - 15% rice bran optimal for conifer sawdust (Asian Pine, Japanese Cedar)
-- One of the few gourmet mushrooms that fruits substantially on conifer wood
+- One of the few [[growing-gourmet-mushrooms-civilization-history]] that fruits substantially on conifer wood
 
 ### Outdoor Log Culture
 On logs of broad-leaf hardwoods, especially beech, poplar, and deciduous oaks, using methods similar to Shiitake. Due to high moisture requirements, partially burying logs in a high peat moss soil base is recommended.
 
 ## Spawn Production
-Liquid inoculation of grain from petri dish cultures is recommended. Grain spawn can be exponentially expanded two generations via grain-to-grain transfers. Intermediate sawdust spawn from grain spawn can inoculate final fruiting substrate. Direct grain-to-sawdust approach is also viable.
+Liquid inoculation of grain from petri dish cultures is recommended. Grain spawn can be exponentially expanded two generations via grain-to-grain transfers. Intermediate sawdust spawn from grain spawn can inoculate final [[pf-tek-maximum-fruiting-substrate-formula]]. Direct grain-to-sawdust approach is also viable.
 
 ## Mycelial Characteristics
 Whitish, longitudinally radial, becoming light orangish or tawny from center as mycelium ages. On sterilized grain: densely cottony white, becoming speckled with yellowish to orangish zones at maturity. Fragrance: musty, farinaceous, not pleasant.
@@ -73,12 +74,12 @@ Water and sodium hydroxide extracts are 60% and 90% effective, respectively, aga
 ## Related Topics
 - [[oyster-mushroom-spawn-production]] for grain and sawdust spawn
 - mushroom cloning tissue culture for strain isolation
-- mushroom fruiting conditions for environmental parameters
+- [[ectomycorrhizal-mushroom-fruiting-ecology]] conditions for environmental parameters
 
 ## Market and Culinary Notes
 
 In Japan, nameko is a staple ingredient in miso soup and nabemono (hot pot dishes), where its glutinous coating acts as a natural thickener. The global market for nameko remains concentrated in East Asia, though interest is growing among specialty mushroom growers in North America and Europe.
 
 The mushroom's sensitivity to moisture and CO2 levels during fruiting makes it more challenging for beginners than oyster mushrooms ([[gourmet-mushroom-species-guide]] for market trends and mushroom-substrates|substrate options for formulation details.
-- [[stamets-mushroom-growing-parameters-by-species]]
+- stamets-mushroom-growing-parameters-by-species
 - [[stamets-outdoor-natural-culture-methods]]

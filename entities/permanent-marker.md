@@ -12,9 +12,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly Staff (2023). "Strain of the Year 2023: Permanent Marker." Leafly.
-  - AllBud Database (2024). "Permanent Marker Cannabis Strain Review."
+  - AllBud Database (2024). "Permanent Marker [[blesching-cannabis-strain-selection-receptor-targeting]] Review."
   - Cookies Genetics (2023). "Permanent Marker Lineage and Release Notes."
-  - Cannabis Training University (2024). "Growing Permanent Marker: A Guide."
+  - [[query-sog-vs-scrog-cannabis-training-methods]] University (2024). "Growing Permanent Marker: A Guide."
   - Weedmaps Strain Library (2024). "Permanent Marker Profile."
 ---
 
@@ -28,7 +28,7 @@ for 2023, it has rapidly become one of the most sought-after modern
 cultivars, known for its extremely potent aroma profile and heavy resin
 production.
 
-The strain exemplifies the contemporary "exotic" trend in cannabis breeding,
+The strain exemplifies the contemporary "exotic" trend in [[oner-cannabis-breeding-fundamentals]],
 combining loud terpene expression with high THC content and bag appeal.
 Its name references the pungent, lingering scent that seems to persist on
 everything it contacts.
@@ -64,7 +64,7 @@ and capitate-stalked trichome heads are abundant.
 The aroma is intensely pungent and complex, described as a combination of:
 - **Sharp, chemical marker-like notes** (hence the name) — gassy, acrid
 - **Creamy dessert undertones** — vanilla, cookie dough, sweet cream
-- **Earthy funk** — damp soil, skunk, fermented fruit
+- **Earthy funk** — damp soil, skunk, [[bionutrients-lab-fermented-fruit-juice-ffj]]
 
 The flavor follows the aroma closely: initial hits deliver a creamy, sweet
 cookie-like inhale followed by an acrid, gassy, peppery exhale. The
@@ -110,7 +110,7 @@ versatile for both daytime and evening use at moderate doses.
 bud structure.
 
 Permanent Marker performs well in both soil and hydroponic setups. Plants
-are medium height with strong lateral branching. Training techniques
+are medium height with strong lateral branching. [[cannabis-training-techniques-comparison]]
 (low-stress training, topping) improve yield significantly.
 
 The dense bud structure makes it susceptible to bud rot (*Botrytis
@@ -118,7 +118,7 @@ cinerea*) in high humidity during late flowering. Maintaining relative
 humidity below 50% in weeks 7–9 is essential. The strain responds well to
 defoliation for airflow improvement.
 
-Optimal temperature range is 20–26°C during flowering. Cooler night
+Optimal [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] is 20–26°C during flowering. Cooler night
 temperatures (18–20°C) in the final two weeks can enhance purple
 coloration and terpene production.
 

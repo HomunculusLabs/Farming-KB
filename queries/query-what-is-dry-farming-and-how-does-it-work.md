@@ -5,6 +5,7 @@ tags: [query, dry-farming, water-conservation, soil-management, sustainable-agri
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: query
 ---
@@ -17,11 +18,11 @@ supplemental irrigation, relying entirely on stored soil moisture from
 winter precipitation. It works by building soil structure that retains water
 deep in the profile, using careful tillage timing to create a
 moisture-conserving dust mulch, and selecting drought-adapted varieties that
-can thrive with minimal water inputs throughout the growing season.
+can thrive with minimal water inputs throughout the [[savory-growing-season-and-non-growing-season-management]].
 
 ## Detailed Explanation
 Dry farming has been practiced for thousands of years in arid and
-Mediterranean climates around the world, from the Mediterranean basin to
+Mediterranean climates [[fungi-around-the-world-species-distribution]], from the Mediterranean basin to
 the American West. The core principle is simple: capture and conserve every
 drop of winter rain and snowmelt in the soil, then manage that moisture
 carefully through the growing season so crops can mature without any
@@ -36,7 +37,7 @@ sandy soils. Building this soil structure takes years of incorporating
 organic matter, maintaining living root systems, and minimizing disturbance.
 The [[fukuoka-direct-seeded-no-tillage-rice-barley-method]] demonstrates how careful variety selection and timing can produce reliable yields without irrigation.
 
-Water harvesting techniques often complement dry farming. Swales, berms, and
+Water [[water-harvesting-techniques-comparison]] often complement dry farming. Swales, berms, and
 contour plantings capture runoff and allow it to infiltrate into the soil
 rather than flowing off the site. As explored in the
 [[mulch-types-and-effects]] depends on the
@@ -52,17 +53,17 @@ prices for their intensity and complexity. However, yields are typically
 lower than irrigated production, so dry farming requires careful economic
 planning and market positioning.
 
-Climate change is making dry farming techniques increasingly relevant as
+[[dighton-fungi-climate-change-feedback]] is making dry farming techniques increasingly relevant as
 water scarcity becomes a more widespread challenge. Even growers in
 traditionally water-rich regions are finding that reducing irrigation
 dependency improves soil health, reduces input costs, and produces more
-resilient crops. Learning dry farming principles is valuable insurance
+resilient crops. Learning dry [[fukuoka-natural-farming-principles-do-nothing-agriculture-personal-testimony]] is valuable insurance
 against both water restrictions and rising irrigation costs, regardless of
 your current climate or water availability.
 
 ## Key Points
 - Dry farming relies on capturing winter precipitation and conserving it
-  through careful soil surface management and dust mulching techniques
+  through careful soil [[jadam-soil-surface-management-no-till]] and dust mulching techniques
 - Building deep, organic-rich soil with good structure is essential for
   maximizing water-holding capacity in dry-farmed systems
 - [[comparison-drought-gardening-vs-rainwater-harvesting]]
@@ -92,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

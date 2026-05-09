@@ -1,17 +1,12 @@
 ---
-title: Permaculture Beekeeping
+title: comparison-permaculture-beekeeping-vs-natural-beekeeping
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [[permaculture, design]
+tags: [permaculture, design]
 sources: []
 ---
-
-# Permaculture Beekeeping
-
-updated: 2026-04-18
-
-Bees are essential producers in any [[korean-natural-farming-lab-and-ohn-recipes]]
+# Permaculture Beekeeping updated: 2026-04-18 Bees are essential producers in any [[korean-natural-farming-lab-and-ohn-recipes]]
 
 - [[pollinator-habitat]]
 - [[zone-1-intensive-garden]]
@@ -66,7 +61,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -144,4 +139,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

@@ -1,5 +1,5 @@
 ---
-title: Heavy Metal Remediation by Fungi
+title: Heavy heavy metal remediation fungi by Fungi
 created: 2026-04-28
 tags:
   - bioremediation
@@ -23,7 +23,7 @@ components of metal biogeochemistry. Fungi interact with toxic metals through
 multiple mechanisms that are relevant to environmental bioremediation,
 including biosorption, solubilization, precipitation, and intracellular
 sequestration. This page focuses on [[heavy-metal-biosorption]] refers to the metabolism-independent binding of
-metals to fungal biomass, occurring whether the biomass is dead or alive.
+metals to [[bioremediation-fungal-biomass-biosorbent-material]], occurring whether the biomass is dead or alive.
 Cell walls of fungi contain chitin, glucans, and proteins that provide
 abundant binding sites for metal ions through functional groups including
 carboxyl, amino, phosphate, and sulfhydryl groups.
@@ -45,13 +45,13 @@ of organic acids serve as proton sources.
 
 Organic acid anions are frequently capable of forming soluble complexes with
 metal cations, thereby increasing metal mobility. The incidence of metal-
-solubilizing ability among natural soil fungal communities appears to be high;
+solubilizing ability among natural soil [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] appears to be high;
 approximately one-third of tested isolates could solubilize at least one
 insoluble metal compound, and approximately one-tenth could solubilize all
 three tested compounds.
 
 Siderophores, low-molecular-weight iron-chelating compounds, are the most
-common means of iron acquisition by fungi. The most common fungal siderophore
+common means of [[fungal-siderophores-iron-acquisition-mycorrhiza]] by fungi. The most common [[singh-fungal-siderophore-production-iron-acquisition]]
 is ferrichrome. Siderophore production can also mobilize other metals from
 mineral sources.
 
@@ -62,7 +62,7 @@ dependent. Metabolism-dependent processes sequester, precipitate, internalize,
 or transform metal species and produce extracellular metabolites. These
 processes are significant for plant productivity and [[heavy-metal-biosorption]]
 - [[heavy-metal-tolerant-fungi-contaminated-soils]]
-- [[mycoremediation-heavy-metals-detailed]]
+- [[mycoremediation-of-heavy-metals]]
 ## Practical Considerations
 
 Successful implementation of Heavy Metal Remediation by Fungi requires attention to
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

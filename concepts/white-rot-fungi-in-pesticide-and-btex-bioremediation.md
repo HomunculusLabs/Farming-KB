@@ -1,5 +1,5 @@
 ---
-title: White-Rot Fungi in Pesticide and BTEX Bioremediation
+title: White-Rot white rot fungi in pesticide and btex bioremediation and BTEX Bioremediation
 created: 2026-04-19
 updated: 2026-04-20
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # White-Rot Fungi in Pesticide and BTEX Bioremediation
 
-White-rot fungi, particularly Phanerochaete chrysosporium, degrade a remarkably wide range of persistent organic pollutants including pesticides, BTEX compounds, chlorobenzenes, and chlorinated solvents. Their ligninolytic enzyme systems (LiP, MnP, laccase) and cytochrome P450 systems enable cometabolic transformation of many recalcitrant compounds. The non-specific free radical mechanism of lignin degradation provides the basis for the degradation of structurally diverse pollutants.
+White-rot fungi, particularly [[staycare-phanerochaete-chrysosporium-in-bioremediation]], degrade a remarkably wide range of persistent organic pollutants including pesticides, BTEX compounds, chlorobenzenes, and chlorinated solvents. Their ligninolytic enzyme systems (LiP, MnP, laccase) and cytochrome P450 systems enable cometabolic transformation of many recalcitrant compounds. The non-specific free radical mechanism of [[query-how-does-lignin-degradation-by-fungi-work]] provides the basis for the degradation of structurally diverse pollutants.
 
 ## Pesticide Degradation
 
@@ -19,7 +19,7 @@ White-rot fungi, particularly Phanerochaete chrysosporium, degrade a remarkably 
 
 - **Aldrin, Heptachlor, Mirex**: Undergo substantial biotransformation (disappearance of starting material) but not complete mineralization. P. chrysosporium, P. eryngii, Pleurotus florida, and P. sajor-caju show extensive heptachlor degradation.
 
-- **DDT**: First chlorinated aromatic shown to be degraded by P. chrysosporium (Bumpus et al., 1985). First metabolite is DDD, which disappears on continued incubation. Requires additional carbon source (cellulose, corn cobs). Soil-corn cob amended systems support growth and 14CO2 evolution.
+- **DDT**: First [[fungal-chlorinated-aromatic-degradation]] shown to be degraded by P. chrysosporium (Bumpus et al., 1985). First metabolite is DDD, which disappears on continued incubation. Requires additional carbon source (cellulose, corn cobs). Soil-corn cob amended systems support growth and 14CO2 evolution.
 
 ### Acetanilide Herbicides
 
@@ -79,11 +79,15 @@ Cladophialophora sp. strain T1 degrades alkylated benzenes such as toluene, ethy
 
 ## Field Applications and Limitations
 
-White rot fungi have been successfully applied to remediate contaminated field soils. P. chrysosporium depleted 2,4,5-T and pentachlorophenol from contaminated soil samples. In field studies with P. chrysosporium and P. sordida, 88-91% of PCP was depleted within 6.5 weeks even under suboptimal temperature conditions. Spent sawdust cultures of Lentinula edodes reduced PCP levels in soil by 44.4-60.5%.
+White rot fungi have been successfully applied to remediate contaminated field soils. P. chrysosporium depleted 2,4,5-T and pentachlorophenol from contaminated soil samples. In field studies with P. chrysosporium and P. sordida, 88-91% of PCP was depleted within 6.5 weeks even under suboptimal temperature conditions. Spent sawdust cultures of [[staycare-lentinula-edodes-in-bioremediation]] reduced PCP levels in soil by 44.4-60.5%.
 
-However, the fungus must compete with indigenous microorganisms, and conditions favoring peroxidase production may enhance growth of antagonistic pseudomonads. P. chrysosporium can degrade xenobiotics in soil under non-sterile conditions, indicating ability to compete under natural conditions. Optimization of environmental parameters and selection of superior strains remain key to improving [[fungal-pesticide-and-herbicide-degradation]]
+However, the fungus must compete with [[beneficial-indigenous-microorganisms-bim]], and conditions favoring peroxidase production may enhance growth of antagonistic pseudomonads. P. chrysosporium can degrade xenobiotics in soil under non-sterile conditions, indicating ability to compete under natural conditions. Optimization of environmental parameters and selection of superior strains remain key to improving [[fungal-pesticide-and-herbicide-degradation]]
 
 - [[enzymatic-degradation-in-mycoremediation]]
 
-- [[fungal-bioremediation]]
-- [[fungal-culture-media-formulas-applications]]
+- fungal-bioremediation
+- fungal-culture-media-formulas-applications
+
+## See Also
+
+- [[pesticide-bioremediation]]

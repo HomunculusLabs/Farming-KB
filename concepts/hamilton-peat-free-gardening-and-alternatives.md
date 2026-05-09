@@ -32,7 +32,7 @@ significant contradiction in principles.
 
 There are many alternatives available that are either completely free of
 peat or have a reduced peat content. The majority are made from bark, coir,
-or wood chips, with some even incorporating material produced from green
+or [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]], with some even incorporating material produced from green
 recycling centres. These products work well in practice, with coir being
 the preferred choice for propagation while the others are more suited for
 growing established plants.
@@ -51,7 +51,7 @@ added when using it as a growing medium.
 Composted bark is a well-established alternative, especially for
 ornamental beds and container growing. It provides good structure and
 drainage while also acting as a mulch to suppress weeds. Bark composts
-break down more slowly than peat, providing a longer-lasting growing
+[[query-can-fungi-break-down-plastic-pollution]] more slowly than peat, providing a longer-lasting growing
 medium. The lignin in bark takes time to decompose, so additional nitrogen
 may be needed to compensate for nitrogen locked up during the breakdown
 process.
@@ -95,16 +95,16 @@ plants, it is worth sticking with it.
 For plants grown in containers outside, where they may not be watered as
 regularly as they need, soil-based composts may be preferable because they
 retain moisture longer and are easier to rewet. Clay pots are porous and
-suitable for soil-based composts, while plastic pots work better with peat
+suitable for soil-based composts, while [[query-fabric-pots-vs-plastic-pots-vs-air-pots-for-cannabis]] work better with peat
 and peat-free media since they dry out more quickly.
 
 ## Nutrient Management in Peat-Free Media
 
 Because peat-free composts contain little or no inherent nutrients,
 careful attention to feeding is essential. Incorporate slow-release
-organic fertilizers such as pelleted chicken manure or blood, fish, and
+[[hamilton-organic-fertilizers-and-plant-nutrition]] such as pelleted chicken manure or blood, fish, and
 bone meal at the time of planting. Supplement with liquid feeds during
-the growing season. Kelp-based liquid feeds are particularly valuable
+the [[savory-growing-season-and-non-growing-season-management]]. Kelp-based liquid feeds are particularly valuable
 because they supply a full spectrum of trace elements that may be lacking
 in peat-free growing media. The importance of regular feeding cannot be
 overstated, as container-grown plants in peat-free media will exhaust
@@ -114,7 +114,7 @@ available nutrients more quickly than those in soil-based composts.
 
 The transition to peat-free gardening can be gradual. Start with
 ornamental containers and general garden use before moving to more
-demanding applications such as seed sowing and propagation. Many
+demanding applications such as [[hamilton-seed-sowing-techniques]] and propagation. Many
 gardeners find that a peat-reduced approach, mixing peat with alternative
 materials, provides a comfortable middle ground while they adjust to the
 different characteristics of peat-free media. Keep notes on which

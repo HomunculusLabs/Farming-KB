@@ -1,11 +1,11 @@
 ---
 title: "Casing Layer Materials and Buffering Agents"
 created: 2026-04-28
-tags: [[substrate-preparation]], mushroom-cultivator,
+tags: cotter-compost-substrate-preparation-manure-mushroom-cultivation], mushroom-cultivator,
       peat-moss, buffering-agents, pH-management]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [~/wiki/raw/papers/the-mushroom-cultivator-stamets.md]
+sources: sources: []
 type: concept
 ---
 
@@ -13,10 +13,10 @@ type: concept
 
 The casing layer is a critical component in the cultivation of many
 mushroom species. It provides the microclimate necessary for
-primordia formation and serves as a water reservoir supporting
+[[growing-gourmet-primordia-formation-pinning]] and serves as a water reservoir supporting
 mushroom development through multiple flushes. The Mushroom
 Cultivator provides detailed guidance on selecting, formulating,
-and applying casing materials.
+and applying mushroom cultivator casing materials buffering agents.
 
 ## Functions of the Casing Layer
 
@@ -51,13 +51,13 @@ Water is more easily bound by clay.
 ### Loam
 A loose soil composed of varying proportions of sand and clay with
 high humus content. Agaricus growers found that clay/loam soil was
-the best type for mushroom growing, as the humus and sand open up
+the best type for [[duggar-mushroom-growing-history-and-methods]], as the humus and sand open up
 the dense clay while retaining the aggregation property.
 
 ## Peat-Based Casing Development
 
 The development of peat moss-based casings has practically eliminated
-the use of soil in mushroom culture. Peat is highly decomposed plant
+the use of soil in [[mazatec-mushroom-culture-and-velada]]. Peat is highly decomposed plant
 matter with a pH in the 3.5-4.5 range. This acidic condition
 precludes many contaminants from colonizing it, making peat a fairly
 "clean" starting material that rarely requires pasteurization.
@@ -132,7 +132,7 @@ presoaked to saturation before mixing.
 
 ## Moisture Target
 
-Optimum casing moisture is normally 2-4% below saturation,
+Optimum [[mushroom-casing-moisture-management]] is normally 2-4% below saturation,
 typically 70-75% for peat-based casings. Saturation is determined by
 completely saturating a sample, draining for 30 minutes, then oven-
 drying a 100-gram sample at 200 degrees Fahrenheit.
@@ -145,3 +145,4 @@ deeper the casing layer. Agaricus growers use minimum 1 inch to
 
 - [[mushroom-cultivation-basics]]
 - [[mushroom-cultivator-casing-soil]]
+- [[casing-soil-recipe-peat-vermiculite-limestone]]

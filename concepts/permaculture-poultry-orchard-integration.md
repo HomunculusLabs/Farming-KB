@@ -1,20 +1,16 @@
 ---
-title: "Permaculture Poultry Orchard Integration"
+title: "Permaculture permaculture poultry orchard integration Integration"
 created: 2026-04-28
-tags: [[permaculture, poultry, chickens, orchard, integration, zone-2]
+tags: [permaculture, poultry, chickens, orchard, integration, zone-2]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 type: concept
 ---
-
-# Permaculture Poultry Orchard Integration
-
-Integrating poultry into orchards and food production systems is one of the
-most productive and mutually beneficial strategies in [[fukuoka-critique-soil-cultivation]], and food production while the orchard provides them with
+# Permaculture Poultry Orchard Integration Integrating poultry into orchards and food production systems is one of the most productive and mutually beneficial strategies in [[fukuoka-critique-soil-cultivation]], and food production while the orchard provides them with
 forage, shelter, and shade. The key principle is placing elements so that
 the outputs of one system become the inputs of another, creating closed
-loops that reduce labor and external inputs. In the [[mollison-permaculture-two-zone-planning-and-site-layout]]
+loops that reduce labor and external inputs. In the 
 layout with chickens and an orchard, heavy duty wire mesh fencing is needed,
 supplemented by barbed wire, electric wire, and thorny shrubs. A thick hedge
 is the ideal long-term fencing solution because it keeps out most animals,
@@ -25,7 +21,7 @@ Chickens perform multiple functions in the orchard: they scratch the soil
 and break up compacted surface layers, they eat insect pests and weed seeds,
 and their manure adds nitrogen to the soil. Because chickens pick the ground
 clean, the pen itself can be used as a firewall between a fire hazard sector
-and the house. The chicken coop should be placed next to the vegetable garden
+and the house. The chicken coop should be placed next to the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]
 for easy manure transfer while also connecting to a forage garden. When
 starting out, crowd everything in as much as possible and stick the chicken
 coop as close to the house as feasible. It is easier to thin things out
@@ -51,9 +47,9 @@ systems without the space requirements of chickens.
 The ideal orchard layout for poultry integration includes widely spaced
 trees with mulched alleys between rows. Chickens and ducks range freely
 through the alleys, controlling weeds and pests while fertilizing the soil.
-Fruit trees should be protected with trunk guards to prevent poultry from
+[[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] should be protected with trunk guards to prevent poultry from
 damaging bark. The orchard should include hedgerows that provide additional
-forage, wind protection (see [[permaculture-windbreak-design-species]]), and wildlife habitat. Hedge species should be
+forage, [[cervantes-wind-protection-outdoor-cannabis]] (see [[permaculture-windbreak-design-species]]), and wildlife habitat. Hedge species should be
 selected to benefit the maximum number of inhabitants: feeding chickens or
 bees, providing bird habitat, and producing human food.
 

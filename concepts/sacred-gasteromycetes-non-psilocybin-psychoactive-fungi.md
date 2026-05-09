@@ -1,5 +1,5 @@
 ---
-title: Sacred Gasteromycetes and Non-Psilocybin Psychoactive Fungi
+title: Sacred Gasteromycetes and Non-Psilocybin cattle-dispersal-psychoactive-fungi-australia
 created: 2026-04-28
 tags:
   - mycology
@@ -11,13 +11,13 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Guzmán, Allen & Gartz (2000) - A Worldwide Geographical Distribution of the Neurotropic Fungi
+  - Guzmán, Allen & Gartz (2000) - A Worldwide Geographical Distribution of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification
 type: concept
 ---
 
 # Sacred Gasteromycetes and Non-Psilocybin Psychoactive Fungi
 
-Beyond the well-known [[chemical-analysis-psilocybin-mushrooms]] or contain entirely different classes of psychoactive compounds. These include gasteromycetes (puffballs), boletes, and other groups that fall into their Group 4 classification of "[[pre-columbian-mushroom-use]] manuscript that depicts scenes of mushroom worship including figures associated with gasteromycete-like forms. Lowy (1972) also discussed puffball symbolism in Maya codices, and Burck (1983) documented puffball usages among North [[mesoamerican-mushroom-ceremonies-teonanacatl]]
+Beyond the well-known [[chemical-analysis-psilocybin-mushrooms]] or contain entirely different classes of psychoactive compounds. These include gasteromycetes (puffballs), boletes, and other groups that fall into their Group 4 classification of "pre-columbian-mushroom-use manuscript that depicts scenes of mushroom worship including figures associated with gasteromycete-like forms. Lowy (1972) also discussed puffball symbolism in Maya codices, and Burck (1983) documented puffball usages among North mesoamerican-mushroom-ceremonies-teonanacatl
 - [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]]
 ## Practical Applications
 
@@ -96,4 +96,9 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[neurotropic-fungi]]
+- [[guzman-allen-gartz-sacred-non-psilocybin-fungi-polypores-boletes-puffballs]]
+- [[guzman-allen-gartz-sacred-non-psilocybin-fungi-cordyceps-and-claviceps]]
+- [[gasteromycetes-sacred-fungi]]
+- [[bloomfields-orchard-gasteromycetes-and-stinkhorn-fungi]]

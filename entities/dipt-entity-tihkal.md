@@ -46,7 +46,7 @@ Smoked onset is rapid, with effects noted within 4-8 minutes.
 
 ## The Auditory Mechanism
 
-A physician colleague described the mechanism: "If the drug delayed only the neural response to a stimulus, pitch might have been shifted down, yet harmony between notes should have been preserved. A variable delay related to the pitch of the stimulus would produce the disharmony but would not explain the preservation of normal relationship between single tones. It seems clear that this compound affects the auditory processing centers in the brain in a complex way which deserves further scientific study. The lack of significant toxic effects should make this compound useful for further studies."
+A physician colleague described the mechanism: "If the drug delayed only the neural response to a stimulus, pitch might have been shifted down, yet harmony between notes should have been preserved. A variable delay related to the pitch of the stimulus would produce the disharmony but would not explain the preservation of normal relationship between single tones. It seems clear that this compound affects the auditory processing centers in the brain in a complex way which deserves further [[roger-heim-scientific-study-psilocybin]]. The lack of significant toxic effects should make this compound useful for further studies."
 
 Shulgin proposed labeling with carbon-11 and using positron emission tomography to locate where the drug acts -- the auditory cortex, an association area, or perhaps only a small part of the cortical region handling musical pitch. The compound could be a tool for localizing the pitch center in the brain and a prototypic drug for structural modification.
 
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

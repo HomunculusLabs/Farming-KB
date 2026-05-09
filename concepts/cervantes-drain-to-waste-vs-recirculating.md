@@ -5,17 +5,18 @@ tags: [cannabis, hydroponics, drain-to-waste, recirculating, irrigation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Drain-to-Waste vs Recirculating Hydroponic Systems
 
 Hydroponic cannabis systems are broadly categorized by how they
-handle nutrient solution after it passes through the growing medium.
+handle [[cannabis-nutrient-solution-preparation]] after it passes through the growing medium.
 Jorge Cervantes describes both drain-to-waste (also called run-to-
 waste) and recirculating approaches, each with distinct advantages
-and maintenance requirements that affect nutrient management, disease
+and maintenance requirements that affect [[green-cannabis-grow-bible-nutrient-management-ppm]], disease
 risk, and operational complexity.
 
 ## Recirculating Systems
@@ -43,7 +44,7 @@ configurations -- are inherently recirculating.
   conditions for Fusarium wilt and other waterborne diseases
 - pH and EC drift as plants selectively absorb different elements
   between reservoir changes
-- Salt accumulation requires periodic complete reservoir changes
+- [[jadam-salt-accumulation-in-soil]] requires periodic complete reservoir changes
   (every two to four weeks maximum)
 - A malfunction (pump failure, clogged drain, pH fluctuation) can
   affect the entire garden simultaneously
@@ -72,7 +73,7 @@ growers commonly use run-to-waste systems.
   to another through the nutrient solution
 - Simpler nutrient management: fresh solution is mixed for each
   irrigation cycle, eliminating pH and EC drift concerns
-- Cleaner root zone environment with less salt buildup
+- Cleaner root zone environment with less [[cervantes-salt-buildup-leaching-management]]
 - Easier to isolate and treat individual plants with problems
 - Reduced risk of catastrophic system-wide failure
 
@@ -104,7 +105,7 @@ but provides guidance based on context. Recirculating systems are
 more water-efficient but demand vigilant monitoring. Drain-to-waste
 systems offer cleaner root zones and disease isolation at higher
 operating cost. Commercial operations often favor drain-to-waste for
-reliability and disease prevention. Home growers may prefer
+reliability and [[cervantes-pest-disease-prevention-overview]]. Home growers may prefer
 recirculating systems for simplicity and lower resource consumption.
 
 The choice also depends on the growing medium used. Rockwool and
@@ -127,5 +128,5 @@ accumulated salts from the root zone.
 ## See Also
 
 - [[cervantes-hydroponic-systems]] - overview of all system types
-- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - water-based growing methods
+- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - water-based [[mushroom-growing-methods-comparison]]
 - [[cervantes-ph-management-testing]] - pH and EC monitoring

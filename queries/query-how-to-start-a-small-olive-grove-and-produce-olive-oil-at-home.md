@@ -6,7 +6,7 @@ updated: 2026-04-28
 sources:
   - "UC Davis Olive Center — University of California Cooperative Extension"
   - "International Olive Council (IOC) — Standards & Best Practices"
-  - "Texas A&M AgriLife Extension — Olive Production Guide"
+  - "Texas A&M AgriLife Extension — Olive [[comparison-biochar-production-guide-vs-biochar-soil-amendment]]"
   - "Oregon State University Extension Service — Olives for the Pacific Northwest"
   - "Australian Olive Association — Small-Scale Production Manual"
   - "University of Georgia Cooperative Extension — Home Olive Growing"
@@ -22,14 +22,14 @@ Starting a small olive grove for home oil production is highly feasible with as 
 
 Olive trees thrive in Mediterranean climates: **USDA zones 8–10**, minimum 400 mm (16 in) annual rainfall, 200–300 chill hours, and summer highs of 25–35°C. They need well-drained soil (sandy loam to clay loam, pH 6.0–8.0) and full sun (6–8 hours daily). Avoid frost pockets — young trees are damaged below −7°C (20°F), though mature trees tolerate brief dips to −12°C. Windbreaks help in exposed sites; raised beds are essential in heavy soils.
 
-Marginal areas (zone 7, humid subtropical) can succeed with careful variety selection and raised beds for drainage, but disease pressure (especially *Verticillium* wilt) increases significantly. Coastal Mediterranean zones are ideal. If you're unsure, contact your county extension office for a site assessment before investing in trees.
+Marginal areas (zone 7, humid subtropical) can succeed with careful variety selection and raised beds for drainage, but disease pressure (especially *Verticillium* wilt) increases significantly. Coastal Mediterranean zones are ideal. If you're unsure, contact your county extension office for a [[mollison-designers-design-client-interview-and-site-assessment-process]] before investing in trees.
 
 ## What Varieties Should I Plant for Oil?
 
 For small-scale oil production, plant complementary pollinator pairs rather than relying on a single self-fertile variety:
 
 - **Arbequina + Arbosana** — Best for space-constrained groves. Arbequina is compact (3–4 m), early-bearing, and cold-tolerant with mild buttery oil. Arbosana cross-pollinates it and adds peppery complexity.
-- **Frantoio + Leccino (+ Pendolino as pollinator)** — Classic Italian group producing rich Tuscan-style oil. Larger trees (6–8 m), higher yield, and excellent cold hardiness.
+- **Frantoio + Leccino (+ Pendolino as pollinator)** — Classic Italian group producing rich Tuscan-style oil. Larger trees (6–8 m), higher yield, and excellent [[coleman-cold-hardiness-testing-ratings]].
 - **Koroneiki** — Greek variety, self-fertile, very high oil content (20–25%), robust flavor. Pairs well with Arbequina as a second pollinator.
 
 **Tip:** Arbequina + Arbosana is the most space-efficient pair and bears earliest (year 2–3). For richer oil complexity, add a Koroneiki as a third tree.
@@ -54,7 +54,7 @@ Mature trees (year 8+) produce 15–40 kg olives each, converting at roughly 4�
 
 **Irrigation:** Year 1 — 2–3× per week, 20–30 L/tree. Year 2 — 1–2× per week, 30–50 L. Year 3 — 1× per week, 40–60 L. Reduce water in autumn to concentrate oil. Critical periods: flowering (spring) and oil accumulation (late summer–fall).
 
-**Fertilization:** Year 1 — light nitrogen only (50–100 g urea, split into 2 spring applications). Years 2–3 — 150–300 g balanced NPK (10-10-10) in early spring. Avoid excess nitrogen; it reduces oil quality and promotes vegetative growth at the expense of fruit.
+**Fertilization:** Year 1 — light nitrogen only (50–100 g urea, split into 2 spring applications). Years 2–3 — 150–300 g balanced NPK (10-10-10) in early spring. Avoid excess nitrogen; it reduces oil quality and promotes [[cannabis-vegetative-growth-stage]] at the expense of fruit.
 
 **Weed control:** Keep a 1 m weed-free radius around each trunk. Hand-pull or shallow-hoe only — avoid deep cultivation that damages surface roots.
 
@@ -106,7 +106,7 @@ Use dark glass, tin, or stainless steel fustis for bulk storage. Store at 14–1
 **Startup (10 trees):**
 
 - Trees: $200–400 ($20–40 each from certified nurseries)
-- Drip irrigation kit: $150–300
+- [[comparison-drip-irrigation-vs-passive-irrigation]] kit: $150–300
 - Mulch, stakes, tools: $100–200
 - Soil test + amendments: $50–150
 
@@ -117,7 +117,7 @@ Use dark glass, tin, or stainless steel fustis for bulk storage. Store at 14–1
 - Irrigation (water + maintenance): $50–100
 - Fertilizer: $30–60
 - Pruning supplies: $20–50
-- Pest/disease management: $0–80
+- Pest/[[plant-disease-management-solomon]]: $0–80
 - Mill fees: ~$0.30–0.80/kg
 
 **Total (excluding mill): $100–290/year.**
@@ -135,6 +135,8 @@ Use dark glass, tin, or stainless steel fustis for bulk storage. Store at 14–1
 Olive growing is a long-term, low-maintenance investment. A well-planned 10-tree grove can supply your household with premium extra-virgin olive oil for decades.
 
 ## See Also
+
+- [[query-how-do-i-start-making-fermented-dairy-at-home]]
 
 - [[query-what-is-agroforestry-and-how-can-i-start]]
 - [[query-what-is-syntropic-agriculture-and-how-do-i-start]]

@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Mabberley DJ (1997). "A classification for edible Citrus." Telopea 7(2).
-  - Stashenko EE et al. (1996). "Essential oil composition of Citrus aurantium." J. Agric. Food Chem.
+  - Stashenko EE et al. (1996). "[[permaculture-designers-manual-essential-oil-plants]] composition of Citrus aurantium." J. Agric. Food Chem.
   - Pellati F et al. (2005). "Analysis of polyphenols in Citrus aurantium." J. Chromatogr. A.
   - USDA ARS (2024). "Citrus aurantium L." GRIN Taxonomy Database.
 ---
@@ -19,12 +19,12 @@ sources:
 ## Overview
 
 **Citrus aurantium**, the bitter orange or Seville orange, is an
-evergreen tree in the family Rutaceae native to Southeast Asia. It is
+evergreen tree in the family Rutaceae native to [[psilocybe-southeast-asia-pacific]]. It is
 widely cultivated for its fruit peel, essential oil, and use in
 traditional medicine.
 
-The species is the most commercially important bitter citrus fruit. Its
-peel is the primary source of neroli and petitgrain essential oils, and
+The species is the most commercially important bitter [[hamilton-citrus-fruit-growing]]. Its
+peel is the primary source of neroli and petitgrain [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]], and
 the juice is used in marmalade production and as a flavoring agent.
 
 ## Taxonomy and Morphology
@@ -65,7 +65,7 @@ rainfall of 1,000–1,500 mm.
 ## Cultivation
 
 Bitter orange is typically propagated by grafting onto sour orange or
-trifoliate orange rootstocks. Seed propagation is uncommon due to
+trifoliate orange rootstocks. [[jeavons-seed-propagation-techniques]] is uncommon due to
 genetic variability and extended juvenility.
 
 Trees begin bearing fruit 3–5 years after planting. Mature trees may
@@ -77,7 +77,7 @@ It is tolerant of citrus tristeza virus and is used as a rootstock in
 some regions, though it is susceptible to citrus gummosis.
 
 In Mediterranean climates, the tree requires minimal irrigation once
-established. Pruning focuses on removing dead wood and maintaining an
+established. Pruning focuses on removing [[fungal-dead-wood-diversity]] and maintaining an
 open canopy structure.
 
 ## Chemistry and Pharmacology

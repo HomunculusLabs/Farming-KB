@@ -1,11 +1,12 @@
 ---
-title: Nutrient Solution and Reservoir Management
+title: cannabis-nutrient-solution-preparation and Reservoir Management
 created: 2026-04-26
 tags: [cannabis, hydroponics, nutrients, reservoir, water-management]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -14,12 +15,12 @@ type: concept
 Proper nutrient solution and reservoir management are the backbone of
 successful [[cannabis-root-rot-prevention-and-treatment]],
   wilts, and fungus gnat attacks
-- **Colder is generally better**: Lower temperatures promote nutrient uptake
+- **Colder is generally better**: Lower temperatures promote [[plant-nutrient-uptake-mechanisms]]
   and help control humidity through reduced transpiration
 
 ### Heating the Solution
 
-In cold environments, heat the nutrient solution rather than the room air to
+In cold environments, heat the nutrient solution rather than the [[stamets-growing-room-air-circulation-co2-management]] to
 save energy. Methods include:
 - **Submersible aquarium heaters** - Most common; can take a day or longer to
   warm a large volume of solution
@@ -45,14 +46,14 @@ differentials between ambient air and the reservoir.
 A two-part nutrient solution is mixed before application. Each reservoir holds
 one part of the solution, which are combined at the time of use. This
 prevents premature chemical reactions between concentrated nutrient
-components that can cause precipitation and nutrient lockout.
+components that can cause precipitation and [[cannabis-nutrient-lockout-and-ph]].
 
 ### EC and pH Monitoring
 
 Regularly monitor the electrical conductivity (EC) and pH of the nutrient
 solution:
 - **pH range for hydroponics**: 5.5 to 6.5
-- **EC**: Varies by growth stage and nutrient brand; follow manufacturer
+- **EC**: Varies by [[cho-plant-growth-stage-treatment-protocols]] and nutrient brand; follow manufacturer
   guidelines
 - Check pH and EC at least once a week
 - pH and EC gradually change between irrigation cycles as plants absorb
@@ -82,3 +83,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[cervantes-copper-micronutrient-management]]

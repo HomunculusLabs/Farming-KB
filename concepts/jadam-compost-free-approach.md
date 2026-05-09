@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-JADAM argues that the prevalent method of compost-making in organic farming circles is unnecessarily complicated, labor-intensive, and counterproductive. Instead, JADAM advocates a simple "autumn application" method that eliminates the need for compost piles, turning, and temperature management while achieving better results by working with nature's own decomposition processes.
+JADAM argues that the prevalent method of compost-making in [[coleman-deep-organic-farming-philosophy]] circles is unnecessarily complicated, labor-intensive, and counterproductive. Instead, JADAM advocates a simple "autumn application" method that eliminates the need for compost piles, turning, and temperature management while achieving better results by working with nature's own decomposition processes.
 
 ## The Problem with Conventional Composting
 
@@ -26,7 +26,7 @@ The standard compost method in organic farming requires farmers to:
 7. Turn frequently to prevent clumping and hardening
 8. Work hard all winter to complete fermentation for spring application
 
-JADAM calls this "making organic farming more and more difficult." The temperature claim -- that compost must reach 75 degrees Celsius -- is challenged as "not backed by science." All organic matter has decomposed at ambient temperature for billions of years. Is nature, as a result, full of only harmful bacteria?
+JADAM calls this "making organic farming more and more difficult." The temperature claim -- that compost must reach 75 degrees Celsius -- is challenged as "not backed by science." All [[hamilton-composting-and-organic-matter-management]] has decomposed at [[jadam-ambient-temperature-principle]] for billions of years. Is nature, as a result, full of only harmful bacteria?
 
 ## The JADAM Alternative: Autumn Surface Application
 
@@ -34,7 +34,7 @@ In the traditional farming system, there was no composting in the form practiced
 
 1. In autumn, mix all organic ingredients together
 2. Scatter them on the field (fresh, raw, on the surface)
-3. Apply [[jadam-cover-crop-method]]. Cover crops provide complete nutritional balance because they contain all the nutrients that the plant body holds, not just the byproducts of processing.
+3. Apply [[jadam-cover-crop-method]]. [[gaias-garden-cover-crops-soil-building]] provide complete [[jadam-nutritional-balance-fertilizer]] because they contain all the nutrients that the plant body holds, not just the byproducts of processing.
 
 When using skin fertilizers, JADAM advises using them in less than 1/10 of the total amount of organic matter applied.
 
@@ -65,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

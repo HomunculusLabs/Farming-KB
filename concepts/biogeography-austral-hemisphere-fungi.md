@@ -1,5 +1,5 @@
 ---
-title: Biogeography of Austral Hemisphere Fungi
+title: Biogeography of biogeography austral hemisphere fungi Fungi
 created: 2026-04-28
 tags:
   - biogeography
@@ -23,25 +23,25 @@ Islands) hosts a distinctive neurotropic mycoflora that reflects both
 ancient Gondwanan evolutionary history and more recent introductions
 through human activity. The paper by Guzman, Allen, and Gartz documents
 approximately 25-30 neurotropic species from the Austral region, including
-several notable endemics. The distribution patterns in this region provide
+several notable endemics. The [[guzman-global-distribution-patterns-neurotropic-fungi]] in this region provide
 important insights into [[psilocybe-subaeruginosa]]**: The most common and widely distributed
   Australian neurotropic species, found in the southern and eastern
   states (Victoria, New South Wales, South Australia, Tasmania). It
-  fruits on wood chips, decomposing wood, and garden mulch, and is
+  fruits on wood chips, decomposing wood, and [[cotter-outdoor-mushroom-garden-mulch-beds]], and is
   particularly common in urban and suburban areas. It is one of the
   most potent Psilocybe species, with significant psilocybin and
   psilocin concentrations.
 
-- **[[psilocybe-australiana]]**: An Australian species found in New South
+- **psilocybe-australiana**: An Australian species found in New South
   Wales and Victoria, growing on dung and enriched soil.
 
-- **[[psilocybe-aucklandii]]**: Endemic to New Zealand, found in the
+- **psilocybe-aucklandii**: Endemic to New Zealand, found in the
   Auckland region. This species is restricted to the North Island and
   represents a unique component of New Zealand's mycoflora.
 
 - **[[psilocybe-semilanceata]]**: Found in New Zealand pastures, this
   species represents a circumpolar distribution shared with Europe
-  and North America.
+  and [[psilocybin-north-america-pacific-northwest]].
 
 - **Psilocybe subaeruginosa**: Also present in New Zealand, shared
   with Australia.
@@ -53,7 +53,7 @@ important insights into [[psilocybe-subaeruginosa]]**: The most common and widel
   inclusion in Psilocybe represents a remarkable evolutionary
   transition.
 
-- **Gymnopilus purpuratus**: Shared with Australia and South America.
+- **[[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]]**: Shared with Australia and South America.
 
 New Zealand's isolation and long evolutionary history have resulted in
 a distinctive mycoflora with significant endemism. The native forests
@@ -70,7 +70,7 @@ natural distributions and human introductions:
   muscaria (introduced with pine plantations), Copelandia cyanescens,
   [[psilocybe-cyanescens]], which is native to the Pacific Northwest of
 North America, has been widely introduced to Australia and New Zealand
-through the movement of wood chips and garden mulch. Amanita muscaria
+through the movement of wood chips and garden mulch. [[allegro-amanita-muscaria-properties-and-pharmacology]]
 was deliberately introduced to New Zealand and Australia as an
 ectomycorrhizal associate of introduced pine trees.
 

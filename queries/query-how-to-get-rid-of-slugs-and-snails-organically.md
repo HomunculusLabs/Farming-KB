@@ -1,11 +1,11 @@
 ---
-title: "How to Get Rid of Slugs and Snails Organically"
+title: "How to query how to get rid of slugs and snails organically of Slugs and Snails Organically"
 created: 2026-04-28
 tags: [query, organic-gardening, pest-control, slugs, snails]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 type: query
 ---
 
@@ -14,7 +14,7 @@ type: query
 ## Short Answer
 Slugs and snails can be controlled organically using a combination of beer 
 traps, copper
-barriers, diatomaceous earth, handpicking, encouraging natural predators, and 
+barriers, [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]], handpicking, encouraging natural predators, and 
 creating
 habitat that favors predators over pests. A multi-pronged approach is most 
 effective, as no
@@ -28,7 +28,7 @@ copper metal.
 When they come into contact with copper tape or flashing, it delivers a mild 
 electric-like
 shock that repels them without killing them. Wrap copper tape around the rims of
- raised beds,
+ [[comparison-raised-beds-vs-hugelkultur]],
 individual pots, and plant stems to create an effective barrier. Copper barriers
  are most
 effective when the copper surface is clean and free of oxidation. While the 
@@ -36,7 +36,7 @@ initial cost is
 higher than other methods, copper tape is durable and reusable across multiple 
 growing
 seasons, making it cost-effective over time. The [[comparison-neem-oil-vs-diatomaceous-earth]] page compares DE with other 
-organic pest
+[[cervantes-neem-oil-organic-pest-control]]
 control options for different garden situations.
 
 Handpicking is labor-intensive but highly effective, especially for small 
@@ -51,7 +51,7 @@ two weeks can dramatically reduce populations. Check under leaves, near the base
  of plants,
 under pots, and in any dark, moist hiding spots where slugs congregate during 
 daylight hours.
-The [[faires-pond-design-and-aquaculture]], and 
+The faires-pond-design-and-aquaculture, and 
 avoiding
 broad-spectrum pesticides that kill beneficial species alongside target pests. 
 The
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

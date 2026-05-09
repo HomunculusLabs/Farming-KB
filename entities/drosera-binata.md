@@ -31,7 +31,7 @@ The plant forms a rosette of erect, bifurcated leaves that can reach 20–60 cm 
 
 The lamina is narrow and linear, typically 1–3 mm wide along each branch. It is covered in sessile and stipitate glandular trichomes that produce the adhesive mucilage responsible for prey capture.
 
-Flowers are white, five-petaled, and borne on scapes rising well above the foliage. They appear from spring through autumn in the Southern Hemisphere. The pedicels are 5–15 mm long with reflexed sepals.
+Flowers are white, five-petaled, and borne on scapes rising well above the foliage. They appear from spring through autumn in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]. The pedicels are 5–15 mm long with reflexed sepals.
 
 The root system is shallow and fibrous, typical of plants adapted to waterlogged substrates. It forms a compact rhizome that enables regrowth after seasonal dieback in cooler climates.
 
@@ -53,11 +53,11 @@ The leaves of **D. binata** function as passive flypaper traps. Glandular tricho
 
 When an insect contacts the mucilage, it becomes entrapped. The tentacles of *Drosera* exhibit thigmonastic movement, slowly bending toward the prey to increase contact area. This response is mediated by auxin redistribution triggered by mechanical stimulation.
 
-Digestion is extracellular, with the glands secreting proteases, chitinases, phosphatases, and nucleases. The resulting nutrient solution is absorbed through the leaf surface, supplementing the plant's nitrogen and phosphorus intake.
+Digestion is extracellular, with the glands secreting proteases, chitinases, phosphatases, and nucleases. The resulting [[cannabis-nutrient-solution-preparation]] is absorbed through the leaf surface, supplementing the plant's nitrogen and phosphorus intake.
 
 Prey items include small flying insects such as gnats, mosquitoes, and small flies. Larger insects may escape before digestion is complete. The capture rate is highest during warm, humid conditions when mucilage production peaks.
 
-Research has shown that the mucilage of *D. binata* exhibits antimicrobial properties, which may prevent prey decomposition from damaging the leaf surface. The polysaccharide matrix also serves as a hygroscopic agent, maintaining leaf moisture in open habitats.
+Research has shown that the mucilage of *D. binata* exhibits [[mycelium-running-mushroom-antimicrobial-properties-species-chart]], which may prevent prey decomposition from damaging the leaf surface. The polysaccharide matrix also serves as a hygroscopic agent, maintaining leaf moisture in open habitats.
 
 ## Cultivation
 
@@ -69,11 +69,11 @@ It prefers full sun to bright indirect light. In temperate climates, outdoor cul
 
 Propagation is straightforward from leaf cuttings, root cuttings, or division of the rhizome. Seed germination requires stratification in some forms and benefits from surface sowing on wet peat under strong light.
 
-Pests include aphids, which can infest emerging flower buds, and fungal infections if humidity is excessive and air circulation is poor. The plant is generally pest-resistant when grown in healthy conditions outdoors.
+Pests include aphids, which can infest emerging flower buds, and [[blesching-cannabis-fungal-infections-candida]] if humidity is excessive and air circulation is poor. The plant is generally pest-resistant when grown in healthy conditions outdoors.
 
 ## Bioactive Compounds
 
-**Drosera binata** produces several secondary metabolites characteristic of the genus. The most notable are plumbagin (5-hydroxy-2-methyl-1,4-naphthoquinone) and its derivatives, which contribute to the plant's antimicrobial activity.
+**Drosera binata** produces several [[antifungal-secondary-metabolites-coprophilous-fungi]] characteristic of the genus. The most notable are plumbagin (5-hydroxy-2-methyl-1,4-naphthoquinone) and its derivatives, which contribute to the plant's antimicrobial activity.
 
 Plumbagin exhibits documented antibacterial properties against Gram-positive bacteria including *Staphylococcus aureus* and *Bacillus subtilis*. It also shows antifungal activity and has been studied for potential pharmaceutical applications.
 
@@ -91,7 +91,7 @@ Modern pharmacological studies have investigated plumbagin for anti-inflammatory
 
 Within the **Drosera** genus, *D. binata* is placed in the section *Erythrorhiza*, which includes Australian species with perennial rhizomatous habits and erect or climbing growth forms.
 
-Its closest relatives include *Drosera gigantea* and *Drosera huegelii*, both of which share the arborescent, multi-branching leaf architecture. *D. binata* is distinguished by its narrower leaf divisions and more compact growth habit.
+Its closest relatives include *Drosera gigantea* and *Drosera huegelii*, both of which share the arborescent, multi-branching leaf architecture. *D. binata* is distinguished by its narrower leaf divisions and more [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit.
 
 The bifurcated leaf morphology is unique among New Zealand *Drosera* species. Other New Zealand sundews (*D. spatulata*, *D. peltata*) produce simple, undivided leaves and have different ecological strategies.
 
@@ -112,3 +112,5 @@ The natural range of *D. binata* overlaps with several other carnivorous plant g
 - species
 - family
 - photosynthesis
+
+- [[drosera-peltata]]

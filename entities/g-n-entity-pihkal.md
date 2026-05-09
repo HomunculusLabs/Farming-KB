@@ -1,5 +1,5 @@
 ---
-title: "G-N (1,4-DIMETHOXYNAPHTHYL-2-ISOPROPYLAMINE) -- PIHKAL Entry #86"
+title: "G-N (1,4-DIMETHOXYNAPHTHYL-2-ISOPROPYLAMINE) -- 2c-b-pihkal-entry-20 #86"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -34,7 +34,7 @@ No extensions and commentary available in source.
 To a solution of 3.9 g 1,4-dimethoxy-2-naphthaldehyde (see
 under 2C-G-N for the preparation) in 13.5 mL nitroethane there was
 added 0.7 g anhydrous ammonium acetate, and the mixture heated on the
-steam bath for 5 h. The deep orange reaction mixture was stripped of
+[[scythian-cannabis-steam-bath-ritual]] for 5 h. The deep orange reaction mixture was stripped of
 excess solvent under vacuum. The residue was a red oil that, upon
 dilution with two volumes MeOH, immediately set to orange crystals.
 This crude product (mp 115-118 deg C) was recrystallized from 70 mL EtOH
@@ -71,7 +71,7 @@ Anal. (C15H20ClNO2aH2O) C,H.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

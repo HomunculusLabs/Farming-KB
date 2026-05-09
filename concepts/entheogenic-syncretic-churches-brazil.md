@@ -1,5 +1,5 @@
 ---
-title: Entheogenic Syncretic Churches of Brazil
+title: Entheogenic entheogenic syncretic churches brazil of Brazil
 created: 2026-04-28
 updated: 2026-04-28
 type: concept
@@ -18,12 +18,12 @@ the general public. Three principal Brazilian churches, the Santo Daime, the
 Uniao do Vegetal (UDV), and the Barquinia, use ayahuasca as their central
 sacrament, while the Bwiti cult of Central Africa provides a parallel example
 with the iboga plant. Together, these movements demonstrate how entheogenic
-practices can evolve from shamanic healing contexts into broad-based religious
+practices can evolve from [[metzner-shamanic-healing-and-divination-paradigm]] contexts into broad-based religious
 institutions.
 
 ## Origins and Founding Visions
 
-All three Brazilian ayahuasca churches were founded in the 1950s by rubber
+All three [[metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism]] churches were founded in the 1950s by rubber
 tappers working in the Amazon region who came into contact with indigenous or
 mestizo ayahuasca practitioners. Each founder reported a significant visionary
 experience that instructed them to organize a church using the brew as the
@@ -39,14 +39,14 @@ communal religious practice.
 
 Members of the Brazilian churches come from all walks of life in both urban and
 rural environments. Each has by now several thousand members in Brazil, and two
-of the churches have established significant satellite centers in North America
+of the churches have established significant satellite centers in [[psilocybin-north-america-pacific-northwest]]
 and Europe. The churches are officially recognized and the use of ayahuasca is
 legal in Brazil within that framework.
 
 ## Categorizing the Ceremonial Forms
 
 In his comparative framework, Metzner distinguishes four paradigms for the use
-of hallucinogenic substances. The first is Western psychedelic psychotherapy,
+of hallucinogenic substances. The first is Western [[metzner-psychedelic-psychotherapy-clinical-history]],
 where the drug amplifies internal self-analysis. The second is traditional
 shamanic healing and divination, where the healer takes the medicine to see the
 causes of illness. The third is syncretic folk religious ceremonies, which form
@@ -121,7 +121,7 @@ woven together with the ayahuasca sacrament as the unifying element.
 ## The Bwiti Cult: An African Parallel
 
 The Bwiti cult among the Fang people in Gabon and Zaire provides a parallel
-example of syncretic entheogenic religion outside the Americas, using iboga
+example of [[metzner-syncretic-entheogenic-churches-brazil-bwiti]] religion outside the Americas, using iboga
 rather than ayahuasca as the sacrament. Originally, the Fang, who are village
 dwellers, said they learned about the iboga brew from the Pygmies, the deep
 forest dwellers.

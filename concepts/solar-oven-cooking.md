@@ -35,7 +35,7 @@ A insulated box with a dark interior, a transparent lid, and reflective
 panels that fold out to direct light into the box.
 
 **Characteristics:**
-- Temperature range: 200-300F (93-149C)
+- [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]: 200-300F (93-149C)
 - Cooking style: slow, similar to a crock pot
 - Advantages: stable temperature, easy to use, good for baking
 - Disadvantages: heavier, slower to heat up
@@ -141,24 +141,10 @@ normal cooking time.
 - Let stand 10 minutes before opening
 
 ## Water Pasteurization
-
-Solar ovens can pasteurize water when fuel is unavailable. Water does not
-need to boil to be safe — pasteurization occurs at 150F (65C) held for
-6 minutes. A WAPI (Water Pasteurization Indicator) — a small tube of wax
-that melts at 150F — indicates when water is safe.
-
-## Limitations and Considerations
-
-- **Weather dependent** — clouds, rain, and short winter days limit usability
-- **Time investment** — requires planning and periodic adjustment
-- **Learning curve** — cooking times vary with conditions; requires
-  experimentation
-- **Complement, don't replace** — best used alongside other cooking methods;
-  see [[root-cellaring-guide]] and [[ice-house-and-spring-house]] for
-  other off-grid food preservation approaches
-
-## Off-Grid Integration
-
-Solar ovens pair well with other off-grid infrastructure. For water heating
-systems, see [[solar-water-heating]]. For general off-grid living principles,
-see [[rainwater-harvesting-systems]].
+## See Also
+- [[conventional-surface-sterilization-methods-limitations-comparison]]
+- [[comparison-solar-cooking-vs-cob-oven]]
+- [[hamilton-mulching-materials-and-techniques]]
+- [[query-how-to-use-diatomaceous-earth-in-the-garden]]
+- [[query-how-to-use-aquaponics-to-grow-herbs-and-vegetables]]
+- [[solar-cooking-methods]]

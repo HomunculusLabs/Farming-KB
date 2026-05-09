@@ -5,7 +5,7 @@ updated: 2026-04-23
 type: concept
 tags: [soil-biology, soil-food-web, microbiology]
 sources:
-  - "raw/papers/teaming-with-microbes-lowenfels.md"
+  sources: []
 ---
 
 # Soil Food Web Overview
@@ -20,7 +20,7 @@ At the center of any viable soil food web are plants. They control the web for t
 
 Early [[teaming-with-microbes-bacterial-vs-fungal-dominance]].
 
-Bacterial numbers stay roughly constant across environments (100 million to 1 billion per teaspoon). What changes is fungal biomass: from several yards of hyphae in garden soil, to tens to hundreds of yards in prairie soil, to 4 to 40 miles in conifer forest soil. Prairie plants prefer a balance; lawn grass is analogous.
+Bacterial numbers stay roughly constant across environments (100 million to 1 billion per teaspoon). What changes is [[bioremediation-fungal-biomass-biosorbent-material]]: from several yards of hyphae in garden soil, to tens to hundreds of yards in prairie soil, to 4 to 40 miles in conifer forest soil. Prairie plants prefer a balance; lawn grass is analogous.
 
 ## The fungal to bacterial ratio
 
@@ -33,7 +33,7 @@ The [[teaming-with-microbes-tilling-damage-to-fungal-networks]] that chops up fu
 
 Every single plant produces exudates and attracts microbiology to its rhizosphere. This community in turn attracts arthropods, worms, mollusks, and the rest of a complete soil food web. It is a natural system that operates just fine without interference from man-made fertilizers, herbicides, and pesticides.
 
-As the book's final chapter reminds us: no one ever fertilized an old growth forest. The beautiful plants in natural areas are completely controlled by the soil food webs in which they live. You can return the same kind of soil food web to your yard.
+As the book's final chapter reminds us: no one ever fertilized an [[fungal-roles-in-old-growth-forests]] forest. The beautiful plants in natural areas are completely controlled by the soil food webs in which they live. You can return the same kind of soil food web to your yard.
 
 ## See also
 
@@ -56,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,4 +98,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

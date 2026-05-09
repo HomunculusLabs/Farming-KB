@@ -1,5 +1,5 @@
 ---
-title: "Rainwater Harvesting for Gardens"
+title: "comparison-xeriscaping-guide-vs-rainwater-harvesting-systems for Gardens"
 created: 2026-04-28
 tags: [rainwater, water-collection, irrigation, water-storage, sustainability]
 date: 2026-04-28
@@ -29,7 +29,7 @@ source for countless rural households and their gardens.
 
 In the 1930s, few farms had electricity. Many vegetable gardens were
 grown without running water at all. Before 1880, when 90 percent of
-North Americans lived on family farms or in tiny villages, it would be
+North Americans lived on [[fukuoka-lundberg-family-farms-natural-rice-transition]] or in tiny villages, it would be
 a fair guess that over 90 percent of all vegetable gardens were grown
 without any piped water supply. Rainwater collection and careful moisture
 management were essential skills.
@@ -96,7 +96,7 @@ Larger tanks provide more buffer against dry spells but cost more.
 
 Captured rainwater can be used with any garden irrigation method:
 watering cans, hose-end sprayers, sprinkler systems, drip lines, or
-the fertigation buckets that Solomon recommends for drought gardening.
+the fertigation buckets that Solomon recommends for [[comparison-drought-gardening-vs-rainwater-harvesting]].
 The key advantage of stored rainwater is having water available exactly
 when the garden needs it, regardless of municipal restrictions or well
 recovery rates.
@@ -105,7 +105,7 @@ recovery rates.
 
 Solomon's broader water management philosophy complements rainwater
 harvesting. By using extensive plant spacing, maintaining soil humus
-for moisture retention, practicing surface cultivation to prevent
+for moisture retention, practicing [[jeavons-surface-cultivation-technique]] to prevent
 crusting, and fertigation to maximize water-use efficiency, the total
 water demand of the garden can be dramatically reduced. When combined
 with rainwater capture, these practices can make a garden largely

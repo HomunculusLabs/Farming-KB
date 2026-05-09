@@ -13,12 +13,12 @@ The core philosophy of [[steve-solomon]]: producing substantial amounts of nutri
 
 ## The Coming Hard Times
 
-Steve Solomon identifies several converging forces that make low-input vegetable gardening essential:
+Steve Solomon identifies several converging forces that make low-input [[home-vegetable-garden-planning]] essential:
 
-- **Energy scarcity**: Oil and natural gas are becoming scarcer and more expensive. Chemical fertilizers and many organic ones are made with petroleum or natural gas.
+- **Energy scarcity**: Oil and natural gas are becoming scarcer and more expensive. [[cervantes-chemical-fertilizers-guide]] and many organic ones are made with petroleum or natural gas.
 - **Declining purchasing power**: Average people in industrialized nations will have less real income while food and energy costs rise.
 - **Water scarcity**: Rural well flow is declining, watersheds are degrading, and electricity (needed for pumping) will cost more.
-- **Fertilizer costs**: Both chemical and organic fertilizers will become more expensive as petroleum costs rise.
+- **Fertilizer costs**: Both chemical and [[hamilton-organic-fertilizers-and-plant-nutrition]] will become more expensive as petroleum costs rise.
 
 ## The Problem with Intensive Gardening
 
@@ -27,7 +27,7 @@ During the fat years (1980s-2000s), intensive raised-bed gardening became the st
 - Intensive beds require large quantities of rich manure, compost, and fertilizer
 - They demand significant time and effort for relatively modest yield increases
 - They rely on abundant water for irrigation
-- They waste money building soil fertility to excessive levels, which actually lowers the nutritional quality of vegetables
+- They waste money building soil fertility to excessive levels, which actually lowers the [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of vegetables
 
 ## Solomon's Alternative Approach
 
@@ -49,7 +49,7 @@ This approach includes:
 
 - 2,700 square feet (250 square meters) can provide about half the calories for two adults
 - A complete family diet centered on potatoes or sweet potatoes needs about 3,500-4,500 square feet per adult
-- In mild climates without freezing winters, you need roughly double the growing area because you must rotate beds out of vegetable production every 3-5 years due to disease and soil-dwelling insect buildup
+- In mild climates without freezing winters, you need roughly double the growing area because you must rotate beds out of [[dry-gardening-unirrigated-vegetable-production-solomon]] every 3-5 years due to disease and soil-dwelling insect buildup
 - Solomon uses a "ley" system: every 4-5 years, vegetable beds go to rest in grass and clover, while grass beds are turned over for vegetables
 
 ## Historical Precedents
@@ -66,7 +66,7 @@ Solomon advocates making vegetables the core of your diet. From 1980-1983, most 
 1. Grow food that provides actual calories (potatoes, sweet potatoes, corn) rather than only salad vegetables
 2. Use the [[organic-fertilizer-recipes]] (COF) recipe to supplement modest amounts of compost or manure
 3. Avoid over-fertilizing — excessive fertility lowers the nutritional quality of produce
-4. Plant for resilience: grow twice as much as you need so pests and diseases can't wipe out your food supply
+4. Plant for resilience: grow twice as much as you need so [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] can't wipe out your food supply
 5. Start with strong seeds from reliable suppliers, not mass-market picture packets
 
 ## Related
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -25,9 +25,9 @@ scar tissue, impaired tissue metabolism, impairment of nerve fiber insulation
 (demyelination), and inflammation all individually or together contribute to
 neuropathies.
 
-According to the Cannabis Health Index, the evidence for cannabis in treating
+According to the [[blesching-cannabis-health-index-autoimmune-conditions]], the evidence for cannabis in treating
 neuropathies is based on 5 studies reviewed with a total CHI value of 15,
-yielding a CHI score of 3.00.
+yielding a [[blesching-cannabis-chi-score-methodology]] of 3.00.
 
 See also: [[cannabis-chronic-pain-management]],
 [[blesching-cannabis-multiple-sclerosis]],
@@ -77,7 +77,7 @@ With the exception of vitamin deficiency-induced neuropathies, patients
 typically find modern medicine's treatment of neuropathies ineffective. This
 often derives from the inability to cure many of the underlying illnesses.
 Some medications used can be potentially habit-forming or result in dangerous
-adverse effects.
+[[blesching-cannabis-safety-adverse-effects-evidence]].
 
 ## Cannabis and Neuropathies: The Evidence
 
@@ -104,7 +104,7 @@ improved sleep, and no major adverse effects.
 ### Whole-Plant Extracts (2003, Oxford, UK)
 
 A consecutive series of double-blind, randomized, placebo-controlled single-
-patient crossover trials of 24 patients with MS and spinal cord injuries
+patient crossover trials of 24 patients with MS and [[blesching-cannabis-spinal-cord-injuries]] injuries
 using whole-plant extracts (CBD:THC sublingual spray, 2.5-120 mg/24 hours)
 showed significant pain relief.
 
@@ -130,8 +130,8 @@ Total CHI Value: 15
 ## Strain-Specific Considerations
 
 The cannabinoids reviewed include the oromucosal spray Sativex, cannabis, and
-THC. Sativex contains THC and CBD in similar proportions as Cannabis sativa.
-Sativa or sativa-dominant strains generally contain a higher THC:CBD ratio.
+THC. Sativex contains THC and CBD in similar proportions as [[comparison-cannabis-sativa-vs-cannabis-indica]].
+Sativa or sativa-dominant strains generally contain a higher THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]].
 
 For neuropathic pain, both CB1 and CB2 signaling pathways appear to modulate
 pain perception. Indica strains with their lower THC:CBD ratio may provide

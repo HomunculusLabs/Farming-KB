@@ -1,5 +1,5 @@
 ---
-title: "Stropharia cubensis Extraterrestrial Hypothesis and Spore Dispersal"
+title: "Stropharia stropharia-cubensis-extraterrestrial-hypothesis Hypothesis and Spore Dispersal"
 source: mckenna_t-tryptamines_consciousness.md
 type: concept
 tags: [mckenna, stropharia, extraterrestrial, panspermia, spore-dispersal, mycology, panspermia-fungal]
@@ -10,9 +10,9 @@ tags: [mckenna, stropharia, extraterrestrial, panspermia, spore-dispersal, mycol
 ## Overview
 
 Terence McKenna proposed one of the most provocative hypotheses in the study of
-psychoactive fungi: that *Stropharia cubensis* (now *Psilocybe cubensis*) may
+psychoactive fungi: that *Stropharia cubensis* (now *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*) may
 not have evolved on Earth. This idea emerged directly from experiences within the
-psilocybin mushroom trance, where McKenna reported being informed by what he
+[[emcdda-psilocybin-mushroom-dose-and-effects]] trance, where McKenna reported being informed by what he
 called "the mushroom consciousness" about its own origins and evolutionary
 strategy. The hypothesis combines elements of directed panspermia, fungal
 biology, and speculative astrophysics into a single framework for understanding
@@ -29,7 +29,7 @@ to absorb deep ultraviolet radiation at the far end of the electromagnetic
 spectrum, suggesting evolutionary adaptation to cosmic radiation environments.
 
 The casing of the spore is reported to be one of the hardest organic substances
-known, with electron density approaching that of a metal. This extraordinary
+known, with [[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]] approaching that of a metal. This extraordinary
 durability is presented as evidence of adaptation to the extreme conditions of
 space travel, including exposure to cosmic rays, temperature extremes, and the
 vacuum of interstellar space.
@@ -83,7 +83,7 @@ well.
 
 McKenna proposed that once a culture achieves complete understanding of its own
 genetic information, it re-engineers itself for survival. The mushroom's version
-of this self-re-engineering takes two forms: a mycelial network strategy when
+of this self-re-engineering takes two forms: a [[gadd-mycelial-network-dynamics]] strategy when
 in contact with planetary surfaces, and a spore-dispersion strategy as a means
 of radiating throughout the galaxy. This dual strategy represents a complete
 biological solution to the problem of long-term species survival that requires
@@ -106,7 +106,7 @@ principle.
 The hypothesis sits at the intersection of several disciplines:
 
 - **Mycology**: Spore durability and dispersal capacity are real biological
-  properties of many fungi, though interstellar dispersal has not been
+  properties of many fungi, though [[spore-interstellar-dispersal-hypothesis]] has not been
   demonstrated.
 - **Astrobiology**: Panspermia hypotheses have been debated since the work of
   Arrhenius and have received renewed attention with the discovery of

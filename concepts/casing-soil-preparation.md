@@ -1,18 +1,12 @@
 ---
-title: Casing Soil Preparation for Mushroom Cultivation
+title: Casing Soil Preparation for mushroom-cultivation
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [[mushroom-cultivation, casing, peat, vermiculite, fruiting, pinning]
+tags: [mushroom-cultivation, casing, peat, vermiculite, fruiting, pinning]
 sources: [/Users/t3rpz/wiki/raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md]
 ---
-
-# Casing Soil Preparation for Mushroom Cultivation
-
-A casing layer is a non-nutritive material applied to the surface of fully
-colonized substrate to create the microclimate necessary for mushroom
-formation (pinning). The casing soil recipe and preparation method described
-here has been proven effective for [[psilocybe-tampanensis-cultivation]], and [[grass-seed-substrate-preparation]] for the underlying substrate method.
+# Casing Soil Preparation for Mushroom Cultivation A casing layer is a non-nutritive material applied to the surface of fully colonized substrate to create the microclimate necessary for mushroom formation (pinning). The casing soil recipe and preparation method described here has been proven effective for psilocybe-tampanensis-cultivation, and [[grass-seed-substrate-preparation]] for the underlying substrate method.
 
 ## Purpose of Casing
 
@@ -22,7 +16,7 @@ substrate cannot provide:
 - **Moisture reservoir**: Maintains high humidity at the substrate surface
   where primordia (pins) form. The casing holds water that slowly evaporates,
   creating the humid microclimate needed for pin development.
-- **Microclimate creation**: Provides a gradient of moisture, CO₂
+- **[[mollison-designers-microclimate-creation-frost-protection]]**: Provides a gradient of moisture, CO₂
   concentration, and humidity that triggers the shift from vegetative mycelial
   growth to reproductive fruiting.
 - **Physical support**: Gives developing mushrooms a stable matrix to anchor
@@ -53,7 +47,7 @@ ratio by volume:
 - **Limestone (Marl)**: Calcium carbonate source that buffers the acidic peat
   to the slightly alkaline pH (~7.0-7.5) that most mushrooms prefer for
   fruiting. Agricultural lime (calcium carbonate) or dolomitic lime can be
-  substituted. Do NOT use hydrated lime — it is too caustic.
+  substituted. Do NOT use [[cervantes-hydrated-lime-quicklime-ph-adjustment]] — it is too caustic.
 
 ## Mixing and Hydration
 
@@ -89,7 +83,7 @@ sterilized casing compared to untreated or pasteurized material.
 
 ## Application to Colonized Substrate
 
-Once the grain substrate is fully colonized, casing is applied:
+Once the [[brassinosteroid-dung-grain-substrate-fruiting-enhancement]] is fully colonized, casing is applied:
 
 1. Shake the colonized jar to loosen the grain and empty it into a clean
    1-liter disposable plastic tray.
@@ -109,11 +103,11 @@ fruiting conditions.
 ## Initiating Fruiting
 
 When mycelium has colonized the casing layer, remove the foil and transfer
-the tray to a fruiting chamber. Simple clear plastic bins covered with
+the tray to a [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]. Simple clear plastic bins covered with
 polyethylene sheeting work well. Five trays per bin, with holes melted in the
 sides for air exchange (covered with mesh to exclude flies).
 
-For harder-to-fruit strains, a **cold shock** (one night in the refrigerator)
+For harder-to-fruit strains, a **[[growing-gourmet-cold-shock-temperature-initiation-fruiting]]** (one night in the refrigerator)
 before introducing to the fruiting chamber can help initiate pinning. Easy
 strains like Ecuador cubensis do not require this treatment.
 
@@ -129,6 +123,7 @@ strains like Ecuador cubensis do not require this treatment.
 ## See Also
 
 - [[grass-seed-substrate-preparation]] — the substrate beneath the casing
-- [[fruiting-chamber-design]] — simple setups for mushroom production
-- [[pinning-triggers]] — environmental conditions that initiate fruit body
+- fruiting-chamber-design — simple setups for mushroom production
+- [[pinning-triggers]] — environmental conditions that initiate [[abort-suppression-brassinosteroid-incomplete-fruit-body-reduction]]
   formation
+- [[mycelium]]

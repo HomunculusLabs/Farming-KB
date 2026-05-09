@@ -1,5 +1,5 @@
 ---
-title: Mushroom Species and Cultivation Methods
+title: Mushroom Species and synthetic-log-cultivation-methods-guide
 created: 2026-04-28
 tags: [mushroom-species, cultivation-methods, oyster-mushroom,
   straw-mushroom, ear-mushroom, spawn-production]
@@ -12,10 +12,10 @@ type: concept
 
 # Mushroom Species and Cultivation Methods
 
-Mushroom cultivation can be found in forests around the world. Given the
+[[accessible-mushroom-cultivation-for-disabilities]] can be found in forests [[fungi-around-the-world-species-distribution]]. Given the
 proper environment, mushrooms grow and offer a good source of natural
-vitamins and minerals. The most commonly and easily cultivated mushrooms
-in Thailand and Southeast Asian countries are oyster mushrooms, ear
+vitamins and minerals. The most commonly and easily [[fungi-cultivated-mushrooms-pathogens-competitors]]
+in Thailand and Southeast Asian countries are [[query-how-to-grow-oyster-mushrooms-at-home]], ear
 mushrooms, and straw mushrooms. Selecting the right type must be based on
 climatic conditions and market demand.
 
@@ -31,7 +31,7 @@ nutrients, plus a disease-free environment. Three groups exist:
    dead matter.
 2. **Parasites** - Feed on living plants or animals, sometimes damaging
    or killing their host.
-3. **Symbiotic fungi** - Grow on living plants without damaging them.
+3. **[[mycelium-running-symbiotic-fungi-relationships]]** - Grow on living plants without damaging them.
    Both organisms benefit from the relationship.
 
 Mushrooms develop from mycelium (loosely arranged thread-like hyphae)

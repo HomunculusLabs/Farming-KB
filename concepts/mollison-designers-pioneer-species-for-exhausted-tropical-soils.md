@@ -1,5 +1,5 @@
 ---
-title: "Pioneer Species for Exhausted Tropical Soils"
+title: "Pioneer Species for mollison designers pioneer species for exhausted tropical soils Soils"
 created: 2026-04-26
 tags:
   - permaculture
@@ -42,7 +42,7 @@ too presents an opportunity for enterprise in the humid tropics.
 Given rains of 60-150 cm, a set of rough pioneer legumes are
 available for the rehabilitation of exhausted sites, including mine
 spoils and road embankments. Providing enough seed can be obtained,
-direct seeding in scratch holes or chiselled strips will result in
+[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] in scratch holes or chiselled strips will result in
 the fast establishment of some or all of the listed species. Tropical
 grasses, scythed or mown 5-8 times annually, make good mulch for
 trees and gardens.
@@ -57,7 +57,7 @@ or eventually eliminated.
 ### Acacia auriculiformis
 An important pioneer for exhausted savannah and tropical soils. It
 can defeat blady grass (Imperata cylindrica), restore fertility,
-provide firewood, and act as a tree nurse crop. It reduces fire and
+provide firewood, and act as a tree [[tagasaste-nurse-crop-fodder-systems]]. It reduces fire and
 provides good paper pulp. It coppices and self-seeds and is widely
 used in tropics as a shade and street tree.
 
@@ -67,7 +67,7 @@ stemmed and therefore better suited to forestry operations.
 
 ### Sesbania grandiflora
 A fast tropical pioneer that can be coppiced and is a good forage
-tree, an excellent green manure in rice, and re-invigorates worn-
+tree, an excellent [[comparison-green-manure-guide-vs-mulch-types-and-effects]] in rice, and re-invigorates worn-
 out land. Exceptional nodulation. Grows to 10 m and provides good
 firewood. Wide soil tolerance, extensively used for eroded hill
 sites. Young leaves, pods, and flowers used for human food (36%
@@ -87,7 +87,7 @@ cuttings (India).
 
 ### Enterolobium cyclocarpum
 A durable timber tree with large pods that defeats grasses in
-Central America.
+[[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
 
 ### Mimosa scabrella
 A subtropical pioneer from Brazil that provides good humus and a
@@ -115,7 +115,11 @@ If Leucaena, Samanea, Prosopis, and Inga are planted, a long-term
 forage system will evolve, providing replanting or rest periods are
 given for seedlings to re-establish. Species such as Pterocarpus
 indicus or P. erinaceus can be first seed-planted in a nursery
-stand, then [[mollison-savannah-forestry-and-land-rehabilitation]], [[mollison-designers-seed-pelleting-and-pretreatment]], and [[mollison-soil-erosion-control]]. The National
+stand, then mollison-savannah-forestry-and-land-rehabilitation, [[mollison-designers-seed-pelleting-and-pretreatment]], and [[mollison-soil-erosion-control]]. The National
 Academy of Sciences publication referenced by Mollison provides a
 comprehensive selection of potential species for tropical
 rehabilitation.
+
+## See Also
+
+- [[pioneer-species-for-land-reclamation]]

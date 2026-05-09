@@ -34,7 +34,7 @@ sourced, roundwood timber. The house, built within a working coppice
 woodland, became an iconic example of low-impact, ecologically integrated
 building.
 
-Law's work spans woodland management, natural building, permaculture design,
+Law's work spans woodland management, [[query-how-do-i-choose-a-natural-building-method-for-my-climate]], [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]],
 and rural crafts. He has authored five books and regularly teaches courses
 on woodland management and roundwood construction at his Prickly Nut Wood
 holding in the Sussex Weald.
@@ -51,7 +51,7 @@ generate livelihoods while enhancing biodiversity.
 His *Grand Designs* appearance in 2003 brought his building methods to
 a national audience. The episode became one of the most popular in the
 series' history and remains frequently rebroadcast. The house was
-constructed using hand-felled roundwood (primarily sweet chestnut, oak,
+constructed using hand-felled roundwood (primarily [[holzer-sweet-chestnut-and-nut-trees]], oak,
 and larch) from the surrounding woodland, with walls of cob and straw
 bale and a reciprocal-frame roof — all built with minimal powered
 machinery.
@@ -86,12 +86,12 @@ Law's woodland management philosophy combines traditional coppice
 rotation with permaculture design. At Prickly Nut Wood, he maintains:
 
 - **Coppice cycles:** Sweet chestnut and hazel coppiced on 12–16 year
-  rotations, providing a continuous supply of building material, fencing,
+  rotations, providing a continuous supply of [[fungal-building-material-deterioration]], fencing,
   and charcoal
 - **Standards and canopy trees:** Mature oak and ash retained as
   standards above the coppice layer, providing timber, shelter, and
   habitat continuity
-- **Non-timber forest products:** Mushroom cultivation (shiitake on oak
+- **Non-timber forest products:** [[accessible-mushroom-cultivation-for-disabilities]] (shiitake on oak
   logs), basketry materials, and wild food harvesting integrated into
   the management plan
 - **Biodiversity enhancement:** Deadwood habitat retention, glade
@@ -132,7 +132,7 @@ in the British permaculture literature.
 - **Roundwood Timber Framing** (2010) — Technical manual for building
   with unmilled timber
 - **Woodsman** (2014) — Practical handbook covering tree felling,
-  coppicing, charcoal production, and other woodland crafts
+  coppicing, [[mollison-designers-charcoal-production-biochar-soil-amendment]], and other woodland crafts
 - **The Woodland Year** (2015) — Month-by-month guide to seasonal
   woodland management activities
 

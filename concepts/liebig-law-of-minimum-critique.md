@@ -1,5 +1,5 @@
 ---
-title: Liebig Law of Minimum Critique
+title: Liebig Law of liebig-law-of-minimum-critique-natural-farming
 created: 2026-04-28
 tags: [agriculture, science-critique, liebig, soil-nutrients, farming-theory, fukuoka]
 date: 2026-04-28
@@ -15,7 +15,7 @@ Justus von Liebig's law of minimum is one of the foundational principles of
 modern agricultural science, stating that crop yield is limited by the
 nutrient present in shortest supply. Masanobu Fukuoka subjected this law to a
 systematic critique, arguing that it exemplifies the fundamental errors of
-scientific agriculture: the reduction of organic wholes to isolated variables,
+[[fukuoka-critique-scientific-agriculture-civilization]]: the reduction of organic wholes to isolated variables,
 the confusion of loss prevention with productivity gains, and the failure to
 account for the interrelatedness of all factors affecting crop growth.
 
@@ -29,7 +29,7 @@ phosphorus is the limiting nutrient on volcanic soil despite abundant
 nitrogen, potassium, calcium, and iron, then adding phosphate fertilizer
 will raise yields. This principle has been extended beyond soil nutrients to
 encompass all factors of production, including light, water, temperature,
-pest pressure, and cultivation methods.
+pest pressure, and [[synthetic-log-cultivation-methods-guide]].
 
 The appeal of Liebig's law lies in its apparent simplicity and directness.
 It identifies a clear target for intervention: find the limiting factor and
@@ -42,7 +42,7 @@ yields can be progressively increased toward a theoretical maximum.
 
 Fukuoka's first objection to Liebig's barrel is that it floats in the air
 without a foundation. In the real world, yield is not determined solely by
-nutrient availability but by the general outcome of all conditions and factors
+[[ph-and-nutrient-availability-garden-soils]] but by the general outcome of all conditions and factors
 of cultivation. The barrel must be shown sitting on a column or pedestal
 representing these broader conditions: soil structure, biological activity,
 climate, water availability, and the complex interactions among all factors.
@@ -84,7 +84,7 @@ restoration, not an advance. Scientific agriculture routinely confuses these
 two outcomes, interpreting restored productivity as increased productivity
 and celebrating as high-yield technology what is actually damage control.
 
-Fukuoka demonstrated this with the example of chemical fertilizers. On
+Fukuoka demonstrated this with the example of [[cervantes-chemical-fertilizers-guide]]. On
 degraded soil that produces only 4 to 5 bushels of rice per quarter-acre,
 heavy fertilization may produce an average yield increase of about 2 bushels
 over the long term. On soil that already produces 7 to 8 bushels, the same
@@ -106,7 +106,7 @@ natural yield, the best and highest yield attainable.
 
 The actual harvest is lower than this maximum because some rooms are
 invariably vacant, representing flaws or weaknesses in some elements of
-cultivation. Scientific farming attempts to fill these vacant rooms, but
+cultivation. [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] attempts to fill these vacant rooms, but
 this is merely a way of minimizing losses. The only true way to raise
 yields is to enlarge the hotel itself, to strengthen the natural foundation
 rather than renovating individual rooms.
@@ -136,6 +136,8 @@ laws, agricultural science has created the illusion of understanding while
 moving further from the truth.
 
 ## See Also
+
+- [[liebig-law-of-minimum]]
 
 - [[von-liebig-law-of-the-minimum-and-fertilizer-history]]
 - [[fukuoka-food-civilization-critique]]

@@ -1,5 +1,5 @@
 ---
-title: "Set and Setting"
+title: "lsd-set-and-setting-framework"
 type: concept
 tags:
   - psychology
@@ -26,7 +26,7 @@ created: 2026-05-07
 
 # Set and Setting
 
-**Set and setting** is a foundational concept in psychedelic research, psychopharmacology, and consciousness studies describing the two primary non-pharmacological factors that determine the character, intensity, and outcome of a psychoactive drug experience. "Set" refers to the psychological state, expectations, personality, mood, and preparation of the person taking the substance. "Setting" refers to the physical, social, and cultural environment in which the experience takes place. The concept was formalized by [[richard-alpert|Richard Alpert]] (Ram Dass), and Ralph Metzner at Harvard University in the early 1960s, and remains a cornerstone of modern psychedelic therapy, harm reduction, and clinical trial design.
+**Set and setting** is a foundational concept in [[mckenna-suppression-psychedelic-research-lsd-therapy]], psychopharmacology, and consciousness studies describing the two primary non-pharmacological factors that determine the character, intensity, and outcome of a psychoactive drug experience. "Set" refers to the psychological state, expectations, personality, mood, and preparation of the person taking the substance. "Setting" refers to the physical, social, and cultural environment in which the experience takes place. The concept was formalized by [[richard-alpert|Richard Alpert]] (Ram Dass), and Ralph Metzner at Harvard University in the early 1960s, and remains a cornerstone of modern [[metzner-psycholytic-psychedelic-therapy-models]], harm reduction, and clinical trial design.
 
 ## Historical Development
 
@@ -34,7 +34,7 @@ created: 2026-05-07
 
 The concept emerged from the Harvard Psilocybin Project, where Leary, Alpert, and Metzner administered psilocybin to hundreds of volunteers — including prisoners, graduate students, divinity students, and artists. They observed that identical doses produced dramatically different experiences depending on the participant's mindset and surrounding conditions, leading them to formalize "set and setting" as a fundamental principle.
 
-Their 1964 book *The Psychedelic Experience*, adapted from the Tibetan Book of the Dead, provided a structured framework for preparing "set" through meditation, intention-setting, and psychological readiness.
+Their 1964 book *The [[leary-psychedelic-experience-bardo-mapping]]*, adapted from the Tibetan Book of the Dead, provided a structured framework for preparing "set" through meditation, intention-setting, and psychological readiness.
 
 ### Precedents
 
@@ -46,7 +46,7 @@ While Leary's group coined the specific term, the underlying principle was recog
 
 ## Scientific Evidence
 
-Modern research has quantitatively validated the set and setting hypothesis:
+Modern research has quantitatively validated the set and [[metzner-set-and-setting-hypothesis-origins-and-extensions]]:
 
 - A 2016 meta-analysis found therapeutic alliance and preparation quality were stronger outcome predictors than dose
 - Johns Hopkins psilocybin studies showed mystical-type experiences (strongly setting-dependent) mediate long-term therapeutic benefit
@@ -95,6 +95,6 @@ Contemporary psychedelic therapy research has operationalized set and setting in
 - **Power dynamics**: Clinical therapist-participant relationships introduce authority dynamics absent in peer-led ceremonies
 ## See Also
 
-- [[stanislav-grof|Stanislav Grof]] — holotropic breathwork and psychedelic therapy pioneer
+- [[stanislav-grof|Stanislav Grof]] — [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]] and psychedelic therapy pioneer
 - [[maria-sabina|Maria Sabina]] — Mazatec curandera who demonstrated ritual setting mastery
 - [[ketamine|Ketamine]] — clinical application of set and setting principles

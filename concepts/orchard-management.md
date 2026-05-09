@@ -1,6 +1,6 @@
 ---
 
-title: Orchard Management
+title: fukuoka-orchard-management-detailed
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -32,7 +32,7 @@ Establishing and maintaining a productive orchard is a cornerstone of [[regenera
 ## Site Selection
 
 ### Soil Requirements
-- **Ideal**: Loam soils with 2-5% organic matter, pH 6.0-7.0 (apples/pears prefer 6.0-6.5, stone fruits 6.5-7.0)
+- **Ideal**: Loam soils with 2-5% [[hamilton-composting-and-organic-matter-management]], pH 6.0-7.0 (apples/pears prefer 6.0-6.5, stone fruits 6.5-7.0)
 - **Minimum**: 18-24 inches of well-drained soil before reaching hardpan or water table
 - **Heavy clay**: Amend with compost, consider raised beds or mounds 12-18" high, 6-8' diameter
 - **Sandy soil**: Add organic matter, mulch heavily
@@ -48,7 +48,7 @@ Establishing and maintaining a productive orchard is a cornerstone of [[regenera
 - Avoid depressions where water pools
 
 ### Sun Exposure
-- Minimum 6-8 hours direct sun during growing season
+- Minimum 6-8 hours direct sun during [[savory-growing-season-and-non-growing-season-management]]
 - Morning sun is critical: dries dew, reducing disease pressure
 - Full sun = better fruit set, sugar development, disease resistance
 - Observe winter sun angle — don't assume summer pattern applies year-round
@@ -60,7 +60,7 @@ Cold air flows downhill and pools in low spots. Avoid:
 - Areas behind solid fences that block cold air drainage
 - Frost pockets can be 5-10°F colder than surrounding slopes
 
-**Mitigation**: If no alternative, plant later-blooming varieties or use overhead irrigation for frost protection.
+**Mitigation**: If no alternative, plant later-blooming varieties or use overhead irrigation for [[holzer-frost-protection-techniques]].
 
 ### Wind Protection
 - Sustained winds >15 mph damage trees, reduce pollinator activity, increase water loss
@@ -119,7 +119,7 @@ Cold air flows downhill and pools in low spots. Avoid:
 
 ### Training Systems
 
-**Central Leader** (Apples, Pears, Sweet Cherries): Single main trunk with scaffold branches in tiers. First tier at 24-30", subsequent tiers every 18-24". Good for tighter spacing.
+**[[comparison-central-leader-vs-open-center-fruit-tree-training]]** (Apples, Pears, Sweet Cherries): Single main trunk with scaffold branches in tiers. First tier at 24-30", subsequent tiers every 18-24". Good for tighter spacing.
 
 **Open Center/Vase** (Peaches, Plums, Sour Cherries): 3-5 scaffolds radiating from trunk at 18-24" height. Essential for peaches (fruit on 1-year wood).
 
@@ -137,7 +137,7 @@ Cold air flows downhill and pools in low spots. Avoid:
 
 ## Pest Management
 
-Orchard IPM targets the most common pests and diseases: codling moth, cedar apple rust, apple maggot, plum curculio, brown rot, fire blight, and peach leaf curl. Key strategies include resistant varieties, sanitation, canopy management, and targeted organic sprays. See [[orchard-pest-management]] for detailed identification, treatment, and scouting guidance.
+Orchard IPM targets the most common [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]: codling moth, cedar apple rust, apple maggot, plum curculio, brown rot, fire blight, and peach leaf curl. Key strategies include resistant varieties, sanitation, canopy management, and targeted organic sprays. See [[orchard-pest-management]] for detailed identification, treatment, and scouting guidance.
 
 ## Thinning
 
@@ -148,52 +148,3 @@ Orchard IPM targets the most common pests and diseases: codling moth, cedar appl
 - Improves air circulation and disease resistance
 
 ### When and How
-- **Apples/Pears**: When fruit are dime- to quarter-sized. Thin to 6-8" apart.
-- **Peaches**: When fruit are 1/2-3/4" diameter. Thin to 6-8" apart.
-- **Plums**: 3-4" between fruit
-- **Cherries**: Generally not thinned
-- Aggressive thinning pays off — better to over-thin than under-thin
-
-## Harvest
-
-### Signs of Ripeness
-- **Apples**: Background color changes green to yellow-cream; fruit separates easily with upward twist
-- **Pears**: Pick when still firm — pears ripen off the tree
-- **Peaches**: Ground color green to yellow; fruit softens; aromatic
-- **Cherries**: Color fully developed; firm but not hard; stems pull easily
-- **Figs**: Fruit droops; skin fully colored; soft; figs don't ripen further after picking
-
-### Storage
-- Short-term: Refrigerate 32-38°F, high humidity. Stone fruits 1-2 weeks max.
-- Long-term (apples): 32-35°F, 90-95% humidity. Best keepers: GoldRush, Arkansas Black. 3-6 months.
-- See [[food-preservation-canning]] for canning, drying, freezing methods
-
-## Seasonal Calendar
-
-| Month | Tasks |
-|-------|-------|
-| **Jan** | Order trees, prune dormant, copper spray for peach leaf curl |
-| **Feb** | Plant bareroot trees, continue pruning |
-| **Mar** | Finish planting, dormant oil, monitor for plum curculio |
-| **Apr** | Bloom sprays, set codling moth traps, begin thinning |
-| **May** | Thin fruit, mulch, monitor pests, install apple maggot traps |
-| **Jun** | Summer pruning, codling moth spray, understory maintenance |
-| **Jul** | Early harvest, pest monitoring |
-| **Aug** | Main harvest, trunk banding, soil prep |
-| **Sep** | Late harvest, preservation |
-| **Oct** | Fall planting, sow cover crops |
-| Nov | Apply compost, mouse guards |
-| Dec | Planning, tool sharpening |
-
-See [[seasonal-planning]] for integrated annual planning.
-
-## Troubleshooting
-
-| Problem | Likely Cause | Solution |
-|---------|-------------|----------|
-| No fruit set | Poor pollination, frost, insufficient chill | Check bloom overlap, protect from frost, verify chill hours |
-| Sparse, yellow leaves | Nitrogen deficiency, water stress | Soil test, check irrigation |
-| Leaves curl (peach) | Peach leaf curl | Copper spray next dormant season |
-| Cankers on branches | Fire blight, winter injury | Prune out, improve air circulation |
-
-

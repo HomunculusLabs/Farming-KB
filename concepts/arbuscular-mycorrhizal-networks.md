@@ -1,5 +1,5 @@
 ---
-title: Arbuscular Mycorrhizal Networks
+title: comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi Networks
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -10,12 +10,12 @@ sources: [raw/papers/teaming-with-fungi-lowenfels.md]
 # Arbuscular Mycorrhizal Networks
 ## Overview
 
-Arbuscular mycorrhizal (AM) fungi (phylum Glomeromycota) form the most widespread and ancient symbiosis with land plants, associating with approximately 80% of all vascular plant families. These networks of hyphae connecting plant roots are critical for nutrient exchange, interplant communication, and ecosystem stability. Fossil evidence and DNA analysis suggest AM fungi appeared 400-460 million years ago, coinciding with the first plant colonization of land.
+Arbuscular mycorrhizal (AM) fungi (phylum Glomeromycota) form the most widespread and ancient symbiosis with land plants, associating with approximately 80% of all vascular plant families. These networks of hyphae connecting plant roots are critical for [[arbuscule-isolation-and-nutrient-exchange-mechanisms]], interplant communication, and ecosystem stability. Fossil evidence and DNA analysis suggest AM fungi appeared 400-460 million years ago, coinciding with the first plant colonization of land.
 
 ## Structure and Colonization
 
 AM fungi penetrate root cortical cells, forming highly branched tree-like structures called arbuscules that are the primary sites of nutrient exchange. The symbiosis involves:
-- **Internal phase**: Intraradical hyphae, arbuscules (nutrient exchange), and vesicles (storage structures) within root cells
+- **Internal phase**: [[arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots]], arbuscules (nutrient exchange), and vesicles (storage structures) within root cells
 - **External phase**: Extraradical hyphae extending into soil, exploring volumes inaccessible to roots, and spores for dispersal
 
 Arbuscules in Early Devonian fossils (Aglaophyton major) are morphologically identical to living AM arbuscules, consisting of a basal trunk and repeatedly branched bush-like tufts within plant cells. The colonization occurs in a specialized meristematic root cortex region that continually provides new cells for infection.
@@ -27,7 +27,7 @@ Arbuscules in Early Devonian fossils (Aglaophyton major) are morphologically ide
 AM fungi dramatically enhance phosphorus uptake through:
 - Physical exploration beyond the root depletion zone
 - Mycorrhizal hyphae being much smaller in diameter than the smallest root, providing larger surface area for absorption
-- Production of phosphatase enzymes cleaving phosphate from organic compounds
+- Production of phosphatase enzymes cleaving phosphate from [[fungal-volatile-organic-compounds-communication]]
 - Access to phosphorus sources immobilized in basic pH soils where root absorption alone fails
 
 ### Carbon Flow
@@ -35,7 +35,7 @@ AM fungi dramatically enhance phosphorus uptake through:
 Plants supply 10-20% of photosynthate to AM fungi as carbohydrates. This carbon supports:
 - Hyphal growth and soil exploration
 - Spore production and dispersal
-- Maintenance of the extensive extraradical mycelial network
+- Maintenance of the extensive extraradical [[gadd-mycelial-network-dynamics]]
 
 ### Other Nutrients
 
@@ -72,14 +72,17 @@ Amaranthus and Perry (1989) showed Douglas-fir survival was 90% in partially cle
 
 ## Environmental Influences
 
-- **Phosphorus availability**: AM colonization initially increases with P availability, then decreases at high P concentrations (Johnson, 1998; White and Charvat, 1999)
+- **[[query-how-does-phosphorus-availability-change-across-soil-ph-levels]]**: AM colonization initially increases with P availability, then decreases at high P concentrations (Johnson, 1998; White and Charvat, 1999)
 - **Soil salinity**: Reduces AM spore germination and hyphal growth
 - **Tidal inundation**: Has limited effect on colonization depth in salt marsh species
 - **Soil disturbance**: Removes residual inoculum, reducing colonization potential
 
 ## See Also
 
-- [[mycorrhizal-plant-signaling]] for communication mechanisms
-- [[fungal-chromogens-and-color-change]]
+- mycorrhizal-plant-signaling for communication mechanisms
+- fungal-chromogens-and-color-change
 - [[arbuscular-mycorrhizal-colonization-patterns]]
-- [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
+- fungal-symbiosis-with-plants-beyond-mycorrhizae
+- [[mycorrhizal-networks]]
+- [[phosphorus-availability]]
+- [[endobacteria-arbuscular-mycorrhizal-fungi]]

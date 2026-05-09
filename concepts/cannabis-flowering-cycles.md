@@ -1,5 +1,5 @@
 ---
-title: Cannabis Flowering Cycles and Photoperiodism
+title: green-cannabis-flowering-management Cycles and Photoperiodism
 created: 2026-04-28
 tags: [cannabis, flowering, photoperiod, sinsemilla, plant-biology]
 date: 2026-04-25
@@ -12,9 +12,9 @@ type: concept
 # Cannabis [[cannabis-pre-flowering-and-sexing]]
 - [[cannabis-plant-anatomy]] for detailed morphology of cannabis
   structures
-- cannabis cannabinoid biosynthesis for the biochemical pathways
-  of THC and cannabinoid production
-- plant stress responses for how environmental factors affect
+- cannabis [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]] for the biochemical pathways
+  of [[greg-green-thc-and-cannabinoid-science]] production
+- plant stress responses for how [[duggar-mushroom-environmental-factors-temperature-moisture-light]] affect
   plant development
 
 ## See Also
@@ -97,4 +97,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

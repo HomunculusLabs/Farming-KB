@@ -28,9 +28,9 @@ How farming and gardening practices affect mycorrhizal fungi — what helps, wha
 
 ### Tillage
 
-Any surface soil disturbance — plowing, tilling, stock grazing — damages the belowground mycorrhizal network. Arbuscular mycorrhizal spores concentrate in the top 6-15 inches (15-38 cm) of soil, so tillage destroys or buries spores beyond root reach. Hyphae are severed, cutting nutrient transport.
+Any surface soil disturbance — plowing, tilling, stock grazing — damages the belowground [[arbuscular-mycorrhizal-network-visualization-anastomosis]]. [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] spores concentrate in the top 6-15 inches (15-38 cm) of soil, so [[fukuoka-why-tillage-destroys-soil]] or buries spores beyond root reach. Hyphae are severed, cutting nutrient transport.
 
-**Fall tillage is especially damaging** — hyphae damaged in fall won't be available for cover crops or spring planting, reducing phosphorus availability until a new network forms.
+**Fall tillage is especially damaging** — hyphae damaged in fall won't be available for cover crops or spring planting, reducing [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] until a new network forms.
 
 ### High Phosphorus Fertilizer
 
@@ -60,7 +60,7 @@ Spores die above 120°F (49°C). Post-harvest field burning creates enough heat 
 
 ### GM Crops with Bt
 
-Bt toxin released into the rhizosphere can negatively impact helper organisms in the mycorrhizosphere and reduce mycorrhizal colonization. More study needed as GM crop varieties expand.
+Bt toxin released into the rhizosphere can negatively impact helper organisms in the mycorrhizosphere and reduce [[arbuscular-mycorrhizal-colonization-patterns]]. More study needed as GM crop varieties expand.
 
 ### Non-Host Crop Rotation
 
@@ -122,5 +122,5 @@ Example: A label showing 10-20-10 actually contains 10% N, 8.8% P, 8.3% K.
 - [[no-till-gardening-method]] — Reduced tillage systems
 - [[cover-cropping-guide]] — Cover crop selection and management
 - [[composting-systems]] — Compost compatibility with mycorrhizae
-- [[fertilizer-npk-decoded]] — Fertilizer math and nutrient management
+- [[fertilizer-npk-decoded]] — Fertilizer math and [[green-cannabis-grow-bible-nutrient-management-ppm]]
 - [[soil-food-web-nutrient-cycling]] — The soil ecosystem supporting mycorrhizae

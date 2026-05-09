@@ -16,7 +16,7 @@ production enterprise -- was one of Savory's early ideas in the 1960s.
 While the concept has merit, subsequent experience revealed that wild
 game without their natural predators can be as damaging to vegetation
 as domestic stock. The key insight is that game ranching must account
-for the time and movement factors central to holistic management  overview.
+for the time and movement factors central to [[savory-holistic-management-overview]]  overview.
 
 ## Origins of the Game Ranching Concept
 
@@ -45,7 +45,7 @@ at different levels, distributing impact across the plant community.
 
 ## Economic Considerations
 
-Game ranching must be evaluated using enterprise overhead and gross  profit analysis:
+Game ranching must be evaluated using [[savory-enterprise-overhead-and-gross-profit-analysis]] and gross  profit analysis:
 
 - Compare gross margins against livestock, crops, or recreation.
 - Fixed costs (land, infrastructure) remain the same regardless of
@@ -63,7 +63,7 @@ Game ranching must address several challenges:
 - **Stock density**: Can adequate density be achieved for needed
   animal impact and herd effect? In fenced game ranches, animals
   may spread thinly across large areas, producing partial rest.
-- **Species mix**: What combination best replicates natural grazing
+- **Species mix**: What combination best replicates [[fukuoka-factory-livestock-critique-natural-grazing-philosophy]]
   patterns and distributes impact across the plant community?
 - **Population regulation**: Without predators, how are populations
   prevented from exceeding carrying capacity and degrading land?
@@ -73,7 +73,7 @@ Game ranching must address several challenges:
 ## The Biodiversity Argument
 
 Mixed wildlife communities contribute to ecosystem health: more complex
-plant succession and community dynamics through diverse grazing
+plant [[savory-plant-succession-and-community-dynamics]] dynamics through diverse grazing
 pressures; enhanced mineral cycle management through varied dung
 distributions; greater stability through population complexity; and
 aesthetic and recreational values commanding premium prices through
@@ -93,9 +93,9 @@ land being managed.
 
 ## The Planning Challenge
 
-The fundamental challenge is managing time. livestock grazing planning
+The fundamental challenge is managing time. [[savory-livestock-grazing-planning]] planning
 techniques can be adapted for wildlife, but the inability to physically
-move wild animals creates complications. This is why wildlife livestock  integration is often preferred -- livestock can be moved to create
+move wild animals creates complications. This is why [[savory-wildlife-livestock-integration]]  integration is often preferred -- livestock can be moved to create
 desired patterns, and wildlife benefits from improved conditions.
 
 ## See Also

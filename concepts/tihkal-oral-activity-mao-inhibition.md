@@ -1,5 +1,5 @@
 ---
-title: "Tryptamine Oral Activity and MAO Inhibition"
+title: "Tryptamine tihkal oral activity mao inhibition and MAO Inhibition"
 created: 2026-04-26
 sources: "TIHKAL - Tryptamines I Have Known and Loved (Shulgin & Shulgin)"
 tags: [MAO, oral activity, harmaline, tryptamine, metabolism, pharmacokinetics]
@@ -13,7 +13,7 @@ updated: 2026-04-26
 
 The single most important factor determining whether a tryptamine is orally active is its susceptibility to **monoamine oxidase (MAO)** -- an enzyme system that oxidatively deaminates primary and secondary amines, rendering them pharmacologically inactive.
 
-Simple tryptamines like DMT are orally inactive because MAO in the gut and liver efficiently destroys them before they can reach the brain. This is the fundamental pharmacological barrier that explains why indigenous cultures developed ayahuasca (combining DMT-containing plants with MAOI-containing plants).
+Simple tryptamines like DMT are orally inactive because MAO in the gut and liver efficiently destroys them before they can reach the brain. This is the fundamental pharmacological barrier that explains why [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]] developed ayahuasca (combining DMT-containing plants with MAOI-containing plants).
 
 ## How MAO Inhibition Works
 
@@ -94,7 +94,7 @@ Some tryptamines are effective MAO inhibitors:
 
 ## The Pharmahuasca Paradigm
 
-The combination of discrete MAOI compounds with discrete tryptamines ("pharmahuasca") invariably shows properties that neither component can show alone. This is the controlled experimental analogue of the traditional ayahuasca preparation.
+The combination of discrete MAOI compounds with discrete tryptamines ("pharmahuasca") invariably shows properties that neither component can show alone. This is the controlled experimental analogue of the traditional [[harner-amazonian-ayahuasca-preparation-methods]].
 
 ## Sources
 

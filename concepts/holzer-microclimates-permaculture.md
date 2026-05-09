@@ -5,6 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
+  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 # Microclimates
@@ -29,7 +30,7 @@ In South Africa, northern Brazil and Colombia, large stretches of land lie fallo
 
 In the Scottish Highlands, the areas had been cleared centuries ago. Nothing but miles and miles of heath with not a tree to be seen. The rainfall is very heavy and the wind is constant. I constructed small stone walls and islands. In the lee of the islands there is shelter from the wind and the stones balance out the temperature.
 
-The beneficial effects of microclimates have even allowed me to grow cacti outside during the winter, and apricots, sweet chestnut, grapes and kiwi fruit in particularly warm and sheltered areas on the Krameterhof at 1,100-1,500m above sea level.
+The beneficial effects of microclimates have even allowed me to grow cacti outside during the winter, and apricots, [[holzer-sweet-chestnut-and-nut-trees]], grapes and kiwi fruit in particularly warm and sheltered areas on the Krameterhof at 1,100-1,500m above sea level.
 
 [[holzer-assessing-the-land]] | [[holzer-terrace-systems]] | [[holzer-pig-keeping-paddock-system]]
 
@@ -37,11 +38,11 @@ Related topics in this wiki include: [[sepp-holzer-method]], [[sepp-holzer-terra
 
 Sepp Holzer began farming on his family's steep mountain land in Austria as a teenager, learning through experimentation.
 The Krameterhof demonstrates that high-altitude farms can be more productive than conventional lowland operations.
-Holzer's fish ponds serve multiple functions: aquaculture, irrigation, fire protection, and microclimate creation.
-Terrace construction on slopes prevents erosion while creating level planting areas with improved water retention.
-Mushroom cultivation on logs and in raised beds provides additional food production and aids decomposition.
+Holzer's fish ponds serve multiple functions: aquaculture, irrigation, fire protection, and [[mollison-designers-microclimate-creation-frost-protection]].
+[[holzer-terrace-construction-guide]] on slopes prevents erosion while creating level planting areas with improved water retention.
+[[accessible-mushroom-cultivation-for-disabilities]] on logs and in raised beds provides additional food production and aids decomposition.
 Holzer's pig paddock system uses animals to root and fertilize soil in controlled areas before planting.
-Ancient grain varieties selected for mountain conditions show superior resilience and nutritional quality.
+Ancient grain varieties selected for mountain conditions show superior resilience and [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
 The method has been successfully adapted in projects across Europe, Africa, Asia, and the Americas.
 
 Sepp Holzer began farming on his family's steep mountain land in Austria as a teenager, learning through experimentation.
@@ -61,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

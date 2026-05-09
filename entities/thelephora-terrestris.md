@@ -11,13 +11,13 @@ sources:
 
 # Thelephora terrestris
 
-**Thelephora terrestris** is an ectomycorrhizal basidiomycete fungus in the family Thelephoraceae, commonly known as the earthfan. It is one of the most common and widely distributed ectomycorrhizal fungi, frequently found as a natural colonizer of tree seedlings in forest nurseries and reforestation sites. Despite its ubiquity, it is generally considered less effective than purpose-selected mycorrhizal inoculants for tree growth promotion.
+**Thelephora terrestris** is an ectomycorrhizal basidiomycete fungus in the family Thelephoraceae, commonly known as the earthfan. It is one of the most common and widely distributed ectomycorrhizal fungi, frequently found as a natural colonizer of tree seedlings in forest nurseries and reforestation sites. Despite its ubiquity, it is generally considered less effective than purpose-selected [[pgpr-mycorrhizal-inoculants-microplant-establishment]] for tree growth promotion.
 
 ## Taxonomy and Distribution
 
 Thelephora terrestris is a cosmopolitan ectomycorrhizal fungus associated with a broad range of coniferous and deciduous tree hosts. It is particularly prevalent in forest nurseries, where it commonly appears as a "weed fungus" that spontaneously colonizes seedling root systems, often outcompeting intentionally inoculated mycorrhizal species. The fungus produces fan-shaped to funnel-shaped basidiocarps that grow on the soil surface at the base of host trees.
 
-The species has been extensively documented in pine (Pinus spp.) plantations and nurseries across North America and Europe. It is one of the first ectomycorrhizal fungi to colonize young seedlings in nursery conditions and can form extensive mycorrhizal networks in bareroot nursery seedling beds.
+The species has been extensively documented in pine (Pinus spp.) plantations and nurseries across [[psilocybin-north-america-pacific-northwest]] and Europe. It is one of the first ectomycorrhizal fungi to colonize young seedlings in nursery conditions and can form extensive [[dighton-mycorrhizal-networks-carbon-transfer]] in bareroot [[mollison-designers-plant-nursery-seedling-production]] beds.
 
 ## Mycorrhizal Effectiveness
 
@@ -43,7 +43,7 @@ Evidence from the evaluation of enzyme production by mycorrhizal fungi suggests 
 
 ### Gadgil Effect and Litter Decomposition Suppression
 
-Colpaert and van Tichelen (1996) demonstrated that the decomposition of beech leaf litter was significantly less in the presence of Scots pine seedlings colonized by Thelephora terrestris compared to the presence of the saprotroph Lepista nuda. In their experiment, nitrogen mineralization only occurred in the presence of Lepista, not in the presence of Thelephora terrestris or the other ectomycorrhizal species tested (Suillus bovinus and Paxillus involutus).
+Colpaert and van Tichelen (1996) demonstrated that the decomposition of beech leaf litter was significantly less in the presence of Scots pine seedlings colonized by Thelephora terrestris compared to the presence of the saprotroph Lepista nuda. In their experiment, [[fungal-nitrogen-mineralization-pathways]] only occurred in the presence of Lepista, not in the presence of Thelephora terrestris or the other ectomycorrhizal species tested (Suillus bovinus and Paxillus involutus).
 
 This finding supports the Gadgil hypothesis, first proposed by Gadgil and Gadgil (1971, 1975), that the presence of mycorrhizal tree roots can suppress leaf litter decomposition. Berg and Lindberg (1980) repeated the experiment in a northern coniferous forest and found the opposite effect, highlighting the context-dependency of this phenomenon.
 
@@ -90,7 +90,7 @@ The observation that collembolan grazing reduces mycorrhizal development has imp
 
 Thelephora terrestris occupies a paradoxical position in forest ecology: it is among the most frequently encountered ectomycorrhizal fungi in disturbed and nursery environments, yet it consistently ranks below species like Pisolithus tinctorius, Hebeloma spp., and Laccaria spp. in terms of host growth promotion and nutrient acquisition efficiency. This "weed fungus" status suggests that its competitive success derives from rapid colonization ability and broad host range rather than from superior mutualistic function.
 
-Despite its moderate effectiveness as a plant symbiont, Thelephora terrestris plays an important role in decomposition suppression via the Gadgil effect, contributing to carbon sequestration in forest soils. Its interactions with soil fauna (collembola, nematodes) further influence belowground food web dynamics, creating indirect effects on nutrient cycling that may be ecologically significant even when direct benefits to host plants are limited.
+Despite its moderate effectiveness as a plant symbiont, Thelephora terrestris plays an important role in decomposition suppression via the Gadgil effect, contributing to carbon sequestration in forest soils. Its interactions with soil fauna (collembola, nematodes) further influence belowground food web dynamics, creating indirect effects on [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] that may be ecologically significant even when direct benefits to host plants are limited.
 
 Thelephora terrestris was found fortuitously colonizing pine seedlings along with a native grass (Panicum virgatum) in reforestation studies. Dighton and Mason studied the respiration rates of various ectomycorrhizal fungi including Thelephora terrestris, contributing to understanding of carbon allocation belowground in forest ecosystems.
 

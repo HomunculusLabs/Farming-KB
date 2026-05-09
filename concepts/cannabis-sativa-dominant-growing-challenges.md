@@ -18,10 +18,10 @@ Several strategies help manage sativa height:
 ## Nutrient Sensitivity
 Sativa strains often exhibit greater sensitivity to nutrients than indicas,
 particularly when grown with [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]] has been bringing sativa
-qualities — the psychedelic head highs, the complex terpene profiles, the
+qualities — the psychedelic head highs, the complex [[cannabis-terpene-profiles-sativa]], the
 creative inspiration — into plants with indica-like growth characteristics.
-North American breeders have focused on introducing sativa traits into indica
-plants, creating hybrids that remain small enough for indoor growing while
+[[growing-gourmet-north-american-reishi-species]] breeders have focused on introducing sativa traits into indica
+plants, creating hybrids that remain small enough for [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]] while
 delivering the energetic, cerebral effects that sativa enthusiasts seek.
 Strains like Jack the Ripper from Subcool's TGA Genetics and Psycho Killer
 Bubba Kush from Riot Seeds represent this approach, bringing the best of
@@ -46,7 +46,7 @@ height management
 challenges.
 Photoperiod sensitivity also differs between sativa and indica
 strains. Many
-pure sativas are adapted to equatorial latitudes where day length varies by
+pure sativas are adapted to equatorial latitudes where [[coleman-winter-day-length-and-persephone-months]] varies by
 ## See Also
 - [[green-cannabis-grow-bible-plant-training-pruning-and-yield]]
 ## Practical Considerations
@@ -65,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -33,14 +33,14 @@ Some organisms transmit information about environmental conditions to their
 offspring through epigenetic mechanisms. *Caenorhabditis elegans* exposed to
 a pathogen produce progeny with heightened pathogen avoidance for up to four
 generations. Plants subjected to drought stress produce seeds that germinate
-with enhanced drought tolerance.
+with enhanced [[dighton-fungal-drought-tolerance-plant-water-relations]].
 
 ## Mechanisms
 
 ### Ionic and Electrical Signaling
 Action potentials are not exclusive to neurons. Plants propagate electrical
 signals (variation potentials, action potentials) via ion channel cascades.
-Fungal hyphae invasive produce and potassium waves that coordinate behavior
+Fungal [[fungal-hyphae-invasive-growth-mechanisms]] produce and potassium waves that coordinate behavior
 across the organism. These signals can encode stimulus intensity, location,
 and temporal patterns.
 

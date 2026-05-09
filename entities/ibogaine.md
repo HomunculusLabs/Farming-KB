@@ -15,7 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Alper, K.R. et al. (2001). "Ibogaine: A Review." The Heffter Review
-    of Psychedelic Research, 2, 17-27.
+    of [[mckenna-suppression-psychedelic-research-lsd-therapy]], 2, 17-27.
   - Mash, D.C. et al. (2000). "Ibogaine: Complex Pharmacokinetics, Common
     Effects." Journal of Ethnopharmacology, 71(1-2), 275-283.
   - Lotsof, H.S. (1995). "Ibogaine in the Treatment of Chemical
@@ -29,7 +29,7 @@ sources:
 
 # Ibogaine
 
-Ibogaine is a naturally occurring psychoactive indole alkaloid classified as
+Ibogaine is a naturally occurring psychoactive [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] classified as
 a tryptamine derivative and the primary active constituent of *Tabernanthe
 iboga*, a perennial shrub native to West Central Africa. It has been used for
 centuries in the Bwiti spiritual tradition and is unique among psychedelics
@@ -83,7 +83,7 @@ psychedelics like psilocybin or LSD.
 
 ## History
 
-First isolated from *T. iboga* root bark in 1901 by Édouard Landrin.
+First isolated from *T. iboga* [[iboga-root-bark-preparation]] in 1901 by Édouard Landrin.
 Briefly marketed in France as Lambarene (neuromuscular stimulant) in the
 1930s before withdrawal due to safety concerns.
 
@@ -108,7 +108,7 @@ as a rite-of-passage sacrament, healing ceremony, and divinatory tool.
 
 ## Legal Status
 
-Schedule I in the United States; listed under the UN Convention on
+Schedule I in the [[dmt-containing-plants-united-states-halpern]]; listed under the UN Convention on
 Psychotropic Substances (1971) as Schedule I. Illegal in Belgium, France,
 Switzerland, Sweden. Unregulated or decriminalized in Brazil, New Zealand,
 Canada, Portugal, South Africa.
@@ -127,14 +127,14 @@ Mexico, Costa Rica, Brazil, and the Netherlands, treating an estimated
 - **Fatalities:** 19+ deaths reported (1990–2008), primarily cardiac in
   origin, mostly involving pre-existing conditions or contraindicated
   concurrent medications.
-- **Therapeutic index:** Narrow margin between therapeutic and toxic doses.
+- **[[cannabis-therapeutic-index-overview]]:** Narrow margin between therapeutic and toxic doses.
 
 ## Related Compounds
 
 - **Noribogaine:** Active metabolite, longer-acting, primary mediator of
   sustained anti-addictive effects.
 - **18-Methoxycoronaridine (18-MC):** Synthetic analogue developed as
-  safer anti-addictive with reduced cardiotoxicity; in clinical trials
+  safer anti-addictive with reduced cardiotoxicity; in [[mushroom-cancer-clinical-trials-overview]]
   for opioid use disorder.
 - **Tabernanthine:** Minor iboga alkaloid with stimulant properties.
 - **Ibogamine:** Less potent at NMDA and opioid receptors.

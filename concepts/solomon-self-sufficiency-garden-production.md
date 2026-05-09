@@ -1,5 +1,5 @@
 ---
-title: "Self-Sufficiency Through Vegetable Gardening - Steve Solomon"
+title: "Self-Sufficiency Through home-vegetable-garden-planning - Steve Solomon"
 created: 2026-04-26
 tags:
   - gardening
@@ -18,7 +18,7 @@ type: concept
 Steve Solomon's "Gardening When It Counts" is fundamentally about growing
 food that truly sustains you. This page synthesizes his key arguments and
 practical guidance for achieving meaningful self-sufficiency through home
-vegetable production.
+[[dry-gardening-unirrigated-vegetable-production-solomon]].
 
 ## Historical Lessons
 
@@ -51,7 +51,7 @@ leading edge in developing holistic non-petroleum-based horticulture.
 
 Solomon provides a rough gauge based on the British wartime allotment
 experience. Britain's cool, frequently cloudy summers mean vegetables grow
-more slowly than in most of North America, but the mild winters allow
+more slowly than in most of [[psilocybin-north-america-pacific-northwest]], but the mild winters allow
 growing frost-hardy crops year-round. The wartime British got about a
 third of their family's total caloric intake from their 2,700 square feet
 of vegetable gardens, including potatoes.
@@ -78,7 +78,7 @@ Solomon practices a ley system: every four or five years, a large section
 of his land goes to rest -- not watered, growing rough grass and clover
 like a pasture. It is thoroughly mowed a few times each summer, and all
 the clippings lie in place to decompose. A ley rebuilds the soil's
-content of organic matter and restores the biological process to a stable,
+content of [[hamilton-composting-and-organic-matter-management]] and restores the biological process to a stable,
 healthy balance.
 
 Every four or five years, most of the vegetable beds are put to rest in

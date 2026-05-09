@@ -1,5 +1,5 @@
 ---
-title: Fungal Degradation of Chlorinated Insecticides DDT and Endosulfan
+title: singh-fungal-degradation-endocrine-disrupting-compounds of Chlorinated Insecticides DDT and Endosulfan
 created: 2026-04-26
 tags: [ddt, endosulfan, chlorinated-insecticides, fungal-degradation, organochlorine]
 date: 2026-04-25
@@ -34,7 +34,7 @@ ring cleavage as primary mechanisms.
 The white-rot fungus Phanerochaete chrysosporium has been the primary
 focus of ligninolytic DDT degradation research. Bumpus and Aust (1987)
 and Bumpus et al. (1993a) postulated a pathway for DDT degradation by
-P. chrysosporium. The fungus produces lignin peroxidase (LiP) which
+P. chrysosporium. The fungus produces [[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP) which
 mineralizes DDT. Formation of DDD occurs during the initial
 nonligninolytic phase through a mechanism different from the
 lignin-degrading system. The extent of mineralization of [14C]dicofol
@@ -111,7 +111,7 @@ biomass at optimized conditions (Rigas et al., 2005).
 Methods have been developed for P. chrysosporium inoculation of soils
 contaminated with organochlorines (Lestan et al., 1996). Soil
 inoculation represents a practical approach for field application of
-fungal bioremediation. Coriolus versicolor proved the best performer
+[[staycare-composting-as-a-fungal-bioremediation-strategy]]. Coriolus versicolor proved the best performer
 for chlorpyrifos degradation in a biobed matrix (Bending et al., 2002),
 demonstrating the applicability of fungal systems for on-farm
 pesticide containment and degradation.

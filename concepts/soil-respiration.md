@@ -5,24 +5,25 @@ tags: [soil-science, carbon-cycle, microbiology, agroecology, climate]
 date: 2026-05-02
 updated: 2026-05-02
 type: concept
-sources: []
+sources:
+  sources: []
 ---
 
 ## Overview
 
 Soil respiration is the process by which carbon dioxide is
 produced in
-soil through the metabolic activity of soil organisms and
+soil through the [[arbuscule-isolation-metabolic-activity-assays]] of soil organisms and
 plant roots.
 It is the primary pathway returning fixed carbon from
 terrestrial
 ecosystems to the atmosphere and a critical component of the
 global
-carbon cycle. Soil respiration accounts for 60-80% of total
+[[photosynthesis-carbon-cycle-plants]]. Soil respiration accounts for 60-80% of total
 terrestrial
 ecosystem respiration, releasing roughly 10 times more CO2
 annually
-than fossil fuel combustion, though balanced by
+than [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]] combustion, though balanced by
 photosynthetic uptake.
 
 ## Components of Soil Respiration
@@ -111,4 +112,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

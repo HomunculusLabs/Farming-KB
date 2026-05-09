@@ -1,11 +1,12 @@
 ---
-title: Fukuoka Ground Cover Strategy
+title: Fukuoka fukuoka-citrus-orchard-ground-cover-cultivation Strategy
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka's Ground Cover Strategy
 
@@ -22,7 +23,7 @@ Living ground cover works in tandem with straw mulch:
 - Living plants grow through the straw, establishing permanent cover
 - Straw decomposes into the soil, feeding the organisms that maintain soil structure
 - The combination of living and dead plant material creates ideal conditions for soil life
-- "The straw must be scattered uncut and tossed randomly, just as though the stalks had fallen naturally" -- not laid down neatly like garden mulch
+- "The straw must be scattered uncut and tossed randomly, just as though the stalks had fallen naturally" -- not laid down neatly like [[cotter-outdoor-mushroom-garden-mulch-beds]]
 
 ## The Scientific Case Against Bare Soil
 
@@ -42,10 +43,10 @@ By maintaining continuous ground cover, all of these problems are prevented simu
 For farmers wanting to adopt Fukuoka's ground cover approach:
 
 1. Stop tilling immediately -- even one more tilling session sets back recovery
-2. Broadcast white clover seed at appropriate rates
-3. Return all crop residue to the field surface
+2. Broadcast [[fukuoka-white-clover-cover-crop-system]] seed at appropriate rates
+3. Return all [[jadam-crop-residue-fertilizer]] to the field surface
 4. Accept the "messy" appearance of the first few years
-5. Observe the weed succession process without intervening
+5. Observe the [[fukuoka-textdoc-clover-decline-and-weed-succession-orchard]] process without intervening
 6. Within three to five years, a stable, self-maintaining ground cover will develop
 
 "The first few years after abandoning cultivation are the hardest. The weeds grow thick and the farmer's patience is tested. But if he can endure, nature will take over and the land will heal itself."
@@ -73,7 +74,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +116,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

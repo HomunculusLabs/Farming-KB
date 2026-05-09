@@ -1,22 +1,14 @@
 ---
-title: Fungal Ecosystem Indicator Species
+title: Fungal [[dighton-fungal-ecosystem-services-framework]] indicator species Species
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-
-# Fungal Ecosystem Indicator Species
-
-Updated: 2026-04-18
-
-Specific fungal species serve as reliable indicators of ecosystem conditions, habitat quality, and environmental change. The use of fungal indicator species is well-established in [[extracted-fungal-species]]
-
-- [[rare-endangered-fungi-conservation]]
-- [[soil-quality-fungal-bioindicators]]
+# Fungal Ecosystem Indicator Species Updated: 2026-04-18 Specific fungal species serve as reliable indicators of ecosystem conditions, habitat quality, and environmental change. The use of fungal indicator species is well-established in extracted-fungal-species - rare-endangered-fungi-conservation - [[soil-quality-fungal-bioindicators]]
 - [[biodiversity-of-fungi-soil-isolation-methods]]
-- [[old-growth-forest-fungi-conservation]]
+- old-growth-forest-fungi-conservation
 ## Background and Context
 
 Fungal Ecosystem Indicator Species is an important subject that has garnered significant attention
@@ -67,7 +59,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -145,4 +137,5 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-
+## See Also
+- [[fungal-biodiversity-by-ecosystem]]

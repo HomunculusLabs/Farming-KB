@@ -1,11 +1,11 @@
 ---
-title: "How to Use Diatomaceous Earth in the Garden"
+title: "How to Use comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis in the Garden"
 created: 2026-04-28
 tags: [query, pest-control, organic-gardening, diatomaceous-earth]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 type: query
 ---
 
@@ -17,7 +17,7 @@ Diatomaceous earth (DE) is a natural, abrasive powder made from fossilized aquat
 - Apply as a dry dust for maximum effectiveness; water-based sprays are less potent
 - Reapply after rain, heavy watering, or periods of high humidity
 - Wear an N95 respirator, safety goggles, and gloves during every application
-- Non-selective: avoid applying where pollinators and beneficial insects are active
+- Non-selective: avoid applying where pollinators and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] are active
 
 ## Related Questions
 
@@ -101,4 +101,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

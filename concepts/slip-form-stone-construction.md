@@ -1,5 +1,5 @@
 ---
-title: Slip Form Stone Construction
+title: comparison-slip-form-stone-vs-timber-frame Construction
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -11,7 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and
 
 Updated: 2026-04-19
 
-Slip form stone construction (also called slipform masonry) is a natural building technique that uses removable wooden forms to build stone walls with concrete mortar. Stones are placed within the forms and concrete is poured around them, creating a monolithic wall that combines the beauty and thermal mass of stone with the structural strength of concrete.
+Slip form stone construction (also called slipform masonry) is a [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] technique that uses removable wooden forms to build stone walls with concrete mortar. Stones are placed within the forms and concrete is poured around them, creating a monolithic wall that combines the beauty and thermal mass of stone with the [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]] of concrete.
 
 ## Construction Method
 
@@ -45,7 +45,7 @@ Forms are typically built from 2x6 or 2x8 lumber with 2x4 uprights and cross-bra
 
 ## Materials
 
-- **Stone** -- any locally available stone can be used. Field stones gathered from the property, creek beds, or excavation are ideal. A rock pile accumulated during gardening can supply building material over time
+- **Stone** -- any locally available stone can be used. Field stones gathered from the property, creek beds, or excavation are ideal. A rock pile accumulated during gardening can supply [[fungal-building-material-deterioration]] over time
 
 - **Concrete** -- standard Portland cement concrete mix (typically 1 part cement, 2-3 parts sand, 3-4 parts gravel)
 

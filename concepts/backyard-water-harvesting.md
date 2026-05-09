@@ -12,11 +12,11 @@ In an ecologically designed garden, water is not an externally caused event -- i
 
 ## The Fivefold Path to Water Wisdom
 
-The ecological design principle states that each function should be supported by many elements. A garden that captures, holds, and recycles water through multiple complementary strategies can survive months between waterings. The five complementary techniques are:
+The [[williams-pdc-ecological-design-principles]] principle states that each function should be supported by many elements. A garden that captures, holds, and recycles water through multiple complementary strategies can survive months between waterings. The five complementary techniques are:
 
 ### 1. Building Organically Rich Soil
 
-Soil with as little as 2 percent organic matter can reduce irrigation needs by 75 percent compared to poor soils with less than 1 percent organic matter. Humus acts as a sponge, swelling to hold several times its weight in water. One foot of rich, moist soil blanketing a backyard holds as much water as a 3-inch-deep lake the same size. The key is building organic matter through compost, mulch, and the techniques of [[cover-crop-multifunction-design]].
+Soil with as little as 2 percent [[hamilton-composting-and-organic-matter-management]] can reduce irrigation needs by 75 percent compared to poor soils with less than 1 percent organic matter. Humus acts as a sponge, swelling to hold several times its weight in water. One foot of rich, moist soil blanketing a backyard holds as much water as a 3-inch-deep lake the same size. The key is building organic matter through compost, mulch, and the techniques of [[cover-crop-multifunction-design]].
 
 Rich soil is stingy with water: a rainstorm must first saturate the soil before a single drop trickles away as runoff. Unlike pond water, moisture held in soil doesn't evaporate easily. As Hemenway observes, three quarts of dry soil hold about one quart of water — but soil enriched with humus swells to hold several times its own weight. The practical implication is that every inch of topsoil gained is equivalent to adding a significant water reservoir to your property.
 
@@ -36,7 +36,7 @@ Sculpting the land to catch and hold water includes several techniques. See [[pe
 
 ### 5. Mulching Deeply
 
-A thick layer of mulch slows evaporation, cools soil, adds fertility, boosts soil life, and smothers weeds. Deep mulching and rich soil work together: mulch feeds the soil organisms that create the humus that holds the water. [[permaculture-dynamic-accumulator-plants]] and [[permaculture-water-strategies]] for how these techniques interlock at larger scales.
+A thick layer of mulch slows evaporation, cools soil, adds fertility, boosts soil life, and smothers weeds. Deep mulching and rich soil work together: mulch feeds the soil organisms that create the humus that holds the water. [[permaculture-dynamic-accumulator-plants]] and permaculture-water-strategies for how these techniques interlock at larger scales.
 
 ## Greywater Systems
 
@@ -44,7 +44,7 @@ Household greywater from sinks, showers, and laundry can be directed into mulch 
 
 ## Backyard Wetlands
 
-A backyard wetland created at the lowest point of the property serves dual purposes: purifying water that passes through it and providing habitat for wildlife. Even a small constructed wetland can process greywater, capture runoff, and create a biodiversity hotspot that supports frogs, dragonflies, birds, and beneficial insects. See [[permaculture-pond-construction]] for guidance.
+A backyard wetland created at the lowest point of the property serves dual purposes: purifying water that passes through it and providing habitat for wildlife. Even a small [[comparison-constructed-wetland-vs-backyard-pond]] can process greywater, capture runoff, and create a biodiversity hotspot that supports frogs, dragonflies, birds, and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. See [[permaculture-pond-construction]] for guidance.
 
 ## Ponds and Wetlands
 
@@ -58,10 +58,10 @@ Rain barrels and cisterns capture roof runoff for later use. While soil storage 
 
 - water-harvesting-techniques-comparison Concepts
 
-- [[cover-crop-multifunction-design]] -- cover crops build soil organic matter for water retention
+- [[cover-crop-multifunction-design]] -- [[gaias-garden-cover-crops-soil-building]] build soil organic matter for water retention
 - [[organic-vegetable-growing-calendar]] -- detailed guidance on building swales
 - [[greywater-systems-detailed]] -- turning household wastewater into irrigation
-- [[rain-garden-design]] -- constructed wetlands for water purification and habitat
+- [[rain-garden-design]] -- [[comparison-constructed-wetlands-vs-bioswales]] for water purification and habitat
 ## Practical Considerations
 
 Successful implementation of Backyard Water Harvesting requires attention to
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

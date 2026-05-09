@@ -1,5 +1,5 @@
 ---
-title: "Atropa belladonna: Deadly Nightshade"
+title: "[[belladonna-atropa-belladonna-ethnobotany]]: Deadly Nightshade"
 created: 2026-04-28
 tags:
   - solanaceae
@@ -18,7 +18,7 @@ type: concept
 
 ## Botanical Description
 
-*Atropa belladonna* L. is a much-branched perennial herb of the
+*[[atropa-belladonna]]* L. is a much-branched perennial herb of the
 Solanaceae (Nightshade family), reaching up to 3 ft (90 cm) tall,
 glabrous or pubescent-glandular. The ovate leaves attain a length
 of 8 in. (20 cm). The solitary, drooping, bell-shaped, brown-purple
@@ -32,15 +32,15 @@ In addition to the usual Belladonna there is a rare, yellow-blooming
 variety (*var. lutea*) as well as little-known related kinds. The
 Indian Belladonna (*Atropa acuminata* Royle ex Lindl.) is cultivated
 for pharmaceutical purposes because of its high content of
-scopolamine. In Asia the Caucasian Belladonna (*Atropa caucasia*
+[[scopolamine]]. In Asia the Caucasian Belladonna (*Atropa caucasia*
 Kreyer) and the Turkmenish Belladonna (*Atropa komarovii* Blin. et
 Shal) are found. Belladonna is still cultivated for the
-pharmaceutical production of atropine.
+pharmaceutical production of [[atropine]].
 
 ## Chemistry of Deadly Nightshade
 
 The three solanaceous plants Atropa, [[schultes-mandrake-mandragora-officinarum]] contain
-the same active principles: primarily the alkaloids hyoscyamine,
+the same active principles: primarily the alkaloids [[hyoscyamine]],
 atropine, and scopolamine. The difference is only one of relative
 concentration. Belladonna contains little scopolamine, but this
 alkaloid is the main component of Mandrake and especially of Henbane.

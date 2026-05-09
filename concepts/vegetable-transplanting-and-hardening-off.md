@@ -1,5 +1,5 @@
 ---
-title: vegetable transplanting and hardening off
+title: vegetable solomon-transplanting-and-hardening-off off
 created: 2026-04-28
 tags: [transplanting, hardening-off, seed-starting, vegetable-gardening, frost-protection]
 date: 2026-04-28
@@ -44,7 +44,7 @@ nights are forecast. Suitable coverings include:
 - **Blankets or old bed sheets**: Can cover multiple plants at once.
 - **Hot caps**: Wax-coated paper or plastic domes placed over
   individual plants.
-- **Fabric row covers**: Spun-bonded polyester fabrics that allow
+- **Fabric [[solomon-row-covers-and-season-extension]]**: Spun-bonded polyester fabrics that allow
   light and moisture through while trapping heat.
 - **Newspaper tents**: Simple and effective for small plants.
 
@@ -61,7 +61,7 @@ nights are forecast. Suitable coverings include:
 
 ## Related Topics
 
-- [[home-vegetable-garden-planning]] for garden layout and timing
+- [[home-vegetable-garden-planning]] for [[hamilton-garden-layout-beds-borders-paths]] and timing
 - [[vegetable-garden-harvest]] for harvesting mature transplanted crops
 ## Practical Considerations
 
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: Hallucinogenic Drugs in Psychotherapy History
+title: Hallucinogenic hallucinogenic-drugs-in-psychotherapy-and-shamanism History
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -13,11 +13,11 @@ sources:
 
 ## Overview
 
-The use of hallucinogenic drugs in psychotherapy spans several distinct eras, paradigms, and cultural traditions. Ralph Metzner's comparative overview identifies four paradigms: (1) standard Western psychedelic psychotherapy, (2) shamanic rituals of healing and divination, (3) syncretic folk religious ceremonies, and (4) hybrid shamanic-therapeutic rituals.
+The use of hallucinogenic drugs in psychotherapy spans several distinct eras, paradigms, and cultural traditions. Ralph Metzner's comparative overview identifies four paradigms: (1) standard Western [[metzner-psychedelic-psychotherapy-clinical-history]], (2) shamanic rituals of [[metzner-shamanic-healing-and-divination-paradigm]], (3) syncretic folk religious ceremonies, and (4) hybrid shamanic-therapeutic rituals.
 
 ## Western Paradigm: Psycholytic Therapy
 
-When LSD's mind-altering properties were first discovered, it was characterised as "psychotomimetic" and "psycholytic." The psycholytic concept became the dominant model in Europe. Neurotic patients suffering from anxiety, depression, or obsessive-compulsive disorders were given LSD in a series of sessions at gradually increasing doses, while undergoing standard analytic interactions using a Freudian perspective. The Czech psychiatrist **Stanislav Grof**, working within this model, discovered that patients would relive birth and pre-birth memories -- patterns he named "perinatal matrices."
+When LSD's mind-altering properties were first discovered, it was characterised as "psychotomimetic" and "psycholytic." The psycholytic concept became the dominant model in Europe. Neurotic patients suffering from anxiety, depression, or obsessive-compulsive disorders were given LSD in a series of sessions at gradually increasing doses, while undergoing standard analytic interactions using a Freudian perspective. The Czech psychiatrist **Stanislav Grof**, working within this model, discovered that patients would relive birth and pre-birth memories -- patterns he named "[[metzner-grof-perinatal-matrices-and-transpersonal-realms]]."
 
 ## Western Paradigm: Psychedelic Therapy
 
@@ -25,7 +25,7 @@ More or less simultaneously, the psychedelic model became preferred in Anglo-Ame
 
 ## The Harvard Research Project
 
-**Timothy Leary, Frank Barron, and Richard Alpert** conducted research at Harvard that focused not on treatment but on exploring the value of the psychedelic experience for "normals" (mostly graduate students), artists, musicians, poets, and writers. They introduced the concept of "consciousness expansion" and popularized the "set and setting" hypothesis: that the primary determinants of a psychedelic experience are the internal set (intention, expectation, motivation) and the external setting or context, including the presence of a guide.
+**Timothy Leary, Frank Barron, and Richard Alpert** conducted research at Harvard that focused not on treatment but on exploring the value of the psychedelic experience for "normals" (mostly graduate students), artists, musicians, poets, and writers. They introduced the concept of "[[mckenna-consciousness-expansion-and-drug-war]]" and popularized the "set and setting" hypothesis: that the primary determinants of a psychedelic experience are the internal set (intention, expectation, motivation) and the external setting or context, including the presence of a guide.
 
 ## Military Interest
 
@@ -37,7 +37,7 @@ A significant extension occurred with **Alexander Shulgin's** discovery of phene
 
 ## Shamanic Healing
 
-Indigenous shamanic systems differ profoundly from Western psychotherapy in their worldview. Shamans take the medicine primarily to "see" the causes of illness and know what remedy to apply (divination). Two key differences from the Western paradigm: (1) the belief in "multiple realities" accessible through expanded states of consciousness, and (2) the belief that "spirits" encountered in dreams and visions are "just as real as the physical organism."
+Indigenous shamanic systems differ profoundly from Western psychotherapy in their worldview. Shamans take the medicine primarily to "see" the causes of illness and know what remedy to apply (divination). Two key differences from the Western paradigm: (1) the belief in "[[metzner-spirit-beings-multiple-realities-entheogens]]" accessible through expanded states of consciousness, and (2) the belief that "spirits" encountered in dreams and visions are "just as real as the physical organism."
 
 Indigenous people are known to have "profound knowledge of plants and herbs and their effects on the body and mind" and are "well able to distinguish harmful from beneficial medicines." Vision-inducing plants with a history of shamanic usage are "much more likely to be safe" than newly synthesized drugs.
 
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

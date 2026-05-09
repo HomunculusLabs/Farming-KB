@@ -1,5 +1,5 @@
 ---
-title: Cannabis and Epilepsy Research (Status Epilepticus)
+title: Cannabis and cannabis-epilepsy-research-detailed (Status Epilepticus)
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis and Epilepsy Research (Status Epilepticus)
 
-**Source:** Uwe Blesching, The Cannabis Health Index (2017)
+**Source:** Uwe Blesching, The [[blesching-cannabis-health-index-autoimmune-conditions]] (2017)
 **Last Updated:** 2026-04-19
 **CHI Value: 13** (5 studies reviewed)
 
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

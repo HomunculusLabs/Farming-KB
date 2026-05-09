@@ -11,7 +11,7 @@ type: entity
 # Lucuma
 
 **Type:** Species (Plant)
-**Category:** Evergreen fruit tree
+**Category:** Evergreen [[comparison-berry-growing-vs-fruit-tree-pruning]]
 **Also known as:** Pouteria lucuma, Pouteria obovata, lucmo, lucumo,
 lucmarucma, mamon, eggfruit
 
@@ -39,7 +39,7 @@ can be dried into a flour that stores for years.
   but not waterlogging or extended humid weather
 - Temperature: As a rule, grows wherever a lemon will grow
 - Soil: Most soil types if well-drained; yields best in deep alluvial
-  soils rich in organic matter
+  soils rich in [[hamilton-composting-and-organic-matter-management]]
 - Water: Drought-adapted once established
 
 ### Fruit Characteristics
@@ -62,7 +62,7 @@ can be dried into a flour that stores for years.
   milk for milkshakes
 - **Dried flour:** Fruit dried and ground into flour; keeps for years;
   added to other flours for desserts
-- **Animal forage:** Valuable chicken forage; promotes eggs with bright
+- **[[permaculture-designers-manual-animal-forage-systems]]:** Valuable chicken forage; promotes eggs with bright
   orange yolks
 - **Timber:** Wood used in construction
 - **Cultural:** Important traditional fruit in Peru, Ecuador, and

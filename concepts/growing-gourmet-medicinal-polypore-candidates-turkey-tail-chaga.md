@@ -1,5 +1,5 @@
 ---
-title: "Medicinal Polypore Candidates: Turkey Tail, Chaga, and Future Species"
+title: "growing gourmet medicinal polypore candidates turkey tail chaga Candidates: Turkey Tail, Chaga, and Future Species"
 created: 2026-04-26
 tags:
   - medicinal-mushrooms
@@ -30,7 +30,7 @@ frondosa) and Zhu Ling ([[ganoderma-applanatum]] (Elfvingia applanata)
 
 [[inonotus-obliquus]])
 
-Inonotus obliquus, commonly known as Chaga, is a sterile
+[[chaga-inonotus-obliquus-medicinal-profile]], commonly known as Chaga, is a sterile
 conk that grows primarily on birch trees in cold northern
 climates. Rather than producing a typical mushroom
 fruitbody, Chaga forms a dark, cracked mass of mycelium
@@ -45,7 +45,7 @@ and potential anti-cancer properties.
 The sterile conk can grow for decades on living birch
 trees, slowly extracting nutrients from the host. Chaga
 is typically harvested from wild populations, and
-cultivation methods are still being developed.
+[[synthetic-log-cultivation-methods-guide]] are still being developed.
 
 See also: [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]]
 
@@ -60,7 +60,7 @@ growth Abies procera (California red fir) or on their
 stumps.
 
 Less than a dozen specimens have ever been collected. The
-Noble Polypore's ability to produce a fruiting body that
+Noble Polypore's ability to produce a [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] that
 survives for more than 25 years suggests unique
 anti-rotting properties from antibiotics or other compounds
 that could be useful medicinally.
@@ -70,8 +70,8 @@ that could be useful medicinally.
 The cultivation of polypore species can take several
 tracks:
 
-1. **Log inoculation**: Hardwood logs are inoculated
-   similarly to Shiitake cultivation. By burying the
+1. **[[growing-gourmet-outdoor-log-inoculation-techniques]]**: Hardwood logs are inoculated
+   similarly to [[gourmet-medicinal-mushroom-shiitake-cultivation-logs]]. By burying the
    inoculated logs in sawdust or soil, moisture is better
    preserved and fruitings extend over several years.
 

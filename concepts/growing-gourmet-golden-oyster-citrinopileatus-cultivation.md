@@ -1,5 +1,5 @@
 ---
-title: Golden Oyster Mushroom (Pleurotus citrinopileatus) Cultivation
+title: Golden cotter-oyster-mushroom-cultivation (Pleurotus citrinopileatus) Cultivation
 created: 2026-04-26
 tags:
   - mycology
@@ -38,7 +38,7 @@ a grayish brown mushroom. As strains senesce, the yellow cap color is
 lost, becoming beige, and fewer mushrooms are produced in each
 primordial cluster. Geographically, P. citrinopileatus is limited to
 Asia whereas P. cornucopiae occurs in Europe. Neither has been found
-growing wild in North America.
+growing wild in [[psilocybin-north-america-pacific-northwest]].
 
 ## Distribution and Natural Habitat
 
@@ -61,7 +61,7 @@ strands. Primordia are yellow at first, especially from strains kept
 close to their natural origins. Mycelium dense on grain. Colonization
 of bulk substrates at first wispy, only becoming dense well after
 colonization. Casts a much finer mycelial mat than [[pleurotus-ostreatus]]
-or P. pulmonarius on wheat straw.
+or P. pulmonarius on [[non-sterilized-wheat-straw-oyster-cultivation]].
 
 ## Fragrance Signature
 
@@ -78,7 +78,7 @@ States wheat straw or hardwood sawdust are most frequently employed.
 
 ### Spawn Expansion
 Grain spawn sown directly into sterilized sawdust or pasteurized
-substrates. The generation of intermediate sawdust spawn is not
+substrates. The generation of intermediate [[growing-gourmet-sawdust-spawn-production-use]] is not
 necessary. Straw inoculated with grain spawn has substantially greater
 yields than straw inoculated with sawdust spawn.
 
@@ -92,7 +92,7 @@ Rye, wheat, sorghum, milo or millet for all three generations.
 Pasteurized wheat, cottonseed hulls, chopped corn cobs, and hardwood
 sawdusts. Alternative substrates include sugar cane bagasse, paper
 by-products, banana fronds and peanut hulls. Every part of the coffee
-plant can be recycled growing Golden Oyster mushrooms, from coffee
+plant can be recycled growing Golden [[query-how-to-grow-oyster-mushrooms-at-home]], from coffee
 grounds to hulls, stalks and leaves.
 
 ### Containers
@@ -132,6 +132,6 @@ Perforated plastic columns, bags, trays and bottles.
 This species is not as prolific as the more commonly cultivated P.
 ostreatus and P. pulmonarius in the conversion of substrate mass to
 mushrooms. After the second flush, comparatively few mushrooms form.
-Biological efficiency rating: 25-75% indoors on wheat straw. Yield
+[[stamets-biological-efficiency-yield]] rating: 25-75% indoors on wheat straw. Yield
 efficiencies are higher on cottonseed-amended substrates.
 ## See Also

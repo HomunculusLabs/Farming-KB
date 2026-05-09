@@ -1,5 +1,5 @@
 ---
-title: How to Manage Pests and Diseases in Mushroom Cultivation
+title: How to Manage Pests and Diseases in accessible-mushroom-cultivation-for-disabilities
 created: 2026-04-28
 tags:
   - mushroom-cultivation
@@ -39,7 +39,7 @@ seal indoors.
 ### Pseudomonas (Bacterial Blotch)
 
 Pseudomonas tolaasii causes brown, sunken lesions on mushroom caps and spreads
-through water splash and high humidity with poor air circulation. Reducing
+through water splash and high humidity with poor [[stamets-growing-room-air-circulation-co2-management]]. Reducing
 surface moisture and improving fresh air exchange are the most effective
 controls. Avoid misting fruiting mushrooms directly.
 
@@ -52,7 +52,7 @@ feed on mycelium and damage developing mushrooms, while phorid flies carry mold
 spores and bacteria between grows. Yellow sticky traps placed at substrate level
 catch adults before they lay eggs. Biological controls such as beneficial
 nematodes (Steinernema feltiae) can target larvae in the substrate. Paul
-Stamets provides detailed integrated pest management strategies in
+Stamets provides detailed [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management strategies in
 [[botrytis-cinerea]] for
 identification details and targeted management approaches.
 
@@ -67,7 +67,7 @@ grow area. Sanitize tools between every block or tray you inspect.
 
 ### Sterilization and Pasteurization
 
-Proper substrate preparation is your first line of defense. Grain spawn
+Proper [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] is your first line of defense. Grain spawn
 requires full sterilization (121 degrees C at 15 PSI for 60 to 90 minutes) to
 eliminate resilient endospores. Bulk substrates use pasteurization (60 to 80
 degrees C for 1 to 2 hours) to kill competitors while preserving beneficial
@@ -76,7 +76,7 @@ microorganisms. See [[laminar-flow-hood-guide]] for setup and maintenance best p
 ## Environmental Controls
 
 Temperature, humidity, and fresh air exchange must be tuned to favor your
-target species over competitors. Most cultivated mushrooms fruit at 18 to 24
+target species over competitors. Most [[fungi-cultivated-mushrooms-pathogens-competitors]] fruit at 18 to 24
 degrees C with 85 to 95 percent relative humidity. Avoid condensation on
 substrate surfaces, as standing water invites bacterial growth. Adequate fresh
 air exchange prevents CO2 buildup, which stresses mushrooms and creates
@@ -88,7 +88,7 @@ a log to identify patterns that precede contamination events.
 Inspect your grows at least once daily. Look for color changes on substrate,
 unusual odors, reduced colonization speed, or deformed fruiting bodies. Sticky
 traps near grow containers catch flying insects before populations explode.
-Keep a spray bottle of 3 percent hydrogen peroxide for spot-treating small
+Keep a spray bottle of 3 percent [[cervantes-hydrogen-peroxide-sterilization]] for spot-treating small
 mold outbreaks. A digital microscope or jeweler's loupe (20x to 40x) is
 invaluable for confirming contaminant identity early.
 

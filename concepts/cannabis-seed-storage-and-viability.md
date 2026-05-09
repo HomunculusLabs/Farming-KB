@@ -1,22 +1,22 @@
 ---
-title: Cannabis Seed Storage And Viability
+title: cervantes-cannabis-seed-purchasing-storage Storage And Viability
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 
 # Cannabis Seed Storage and Viability
 
-Proper seed storage is essential for preserving the genetic potential of cannabis genetics over time. Whether preserving seeds from a prized strain, maintaining a breeding program, or simply storing purchased seeds for future grows, understanding the factors that affect seed viability allows growers to maintain high germination rates for months or years.
+Proper seed storage is essential for preserving the genetic potential of [[vic-high-cannabis-genetics-mendelian-inheritance]] over time. Whether preserving seeds from a prized strain, maintaining a [[cervantes-breeding-program-design-goal-setting]], or simply storing purchased seeds for future grows, understanding the factors that affect seed viability allows growers to maintain high germination rates for months or years.
 
 [[cannabis-genetics-and-breeding]]
 
 ## Short-Term Storage (Up to 6 Months)
 
-For seeds that will be used within six months, a simple approach is sufficient. Seeds should be placed in an airtight container such as a film canister, small glass jar, or dedicated seed storage vial. Adding a small desiccant packet (silica gel) to the container helps maintain low humidity.
+For seeds that will be used within six months, a simple approach is sufficient. Seeds should be placed in an airtight container such as a film canister, small glass jar, or dedicated seed storage vial. Adding a small desiccant packet (silica gel) to the container helps maintain [[pf-tek-low-humidity-symptoms-and-remediation]].
 
 The sealed container should be stored in a cool, dark place such as a refrigerator crisper drawer, a basement, or a dark cupboard. Avoid storing seeds near heat sources, in direct sunlight, or in areas with temperature fluctuations.
 
@@ -28,7 +28,7 @@ Seeds stored this way typically maintain germination rates above 80% for up to s
 
 Several indicators help predict whether stored seeds will germinate successfully.
 
-Healthy cannabis seeds are dark in color, typically brown, gray, or black. Light-colored, pale, or whitish seeds are often immature and have lower germination rates. However, some strains naturally produce lighter-colored seeds, so color alone is not definitive.
+[[query-how-to-manage-ph-for-healthy-cannabis-plants]] seeds are dark in color, typically brown, gray, or black. Light-colored, pale, or whitish seeds are often immature and have lower germination rates. However, some strains naturally produce lighter-colored seeds, so color alone is not definitive.
 
 Viable seeds have a hard, durable outer shell. Seeds that crush easily between the fingers or appear shriveled and cracked are less likely to germinate. Gently squeezing a seed between thumb and forefinger should reveal firm resistance from a viable seed.
 
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

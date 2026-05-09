@@ -1,5 +1,5 @@
 ---
-title: Solomon Lime Calcium Ph Management
+title: Solomon solomon lime calcium ph management Ph Management
 created: 2026-04-26
 tags:
   - gardening
@@ -62,7 +62,7 @@ important for clay.
 Solomon's COF recipe includes lime as a standard ingredient:
 
 - 1 part ordinary agricultural lime (best finely ground)
-- Or 1 part dolomite lime (if soil needs magnesium)
+- Or 1 part [[cervantes-dolomite-lime-ph-buffering]] (if soil needs magnesium)
 - 1/4 part gypsum (if you do not use gypsum, double the quantity of
   agricultural lime)
 
@@ -73,8 +73,8 @@ micronutrients.
 
 ## Trace Elements and Micronutrients
 
-Solomon emphasizes that the complete organic fertilizer provides calcium,
-magnesium, and trace nutrients in balanced proportions. The kelp meal in
+Solomon emphasizes that the complete [[complete-organic-fertilizer-cof-recipe-solomon]] provides calcium,
+magnesium, and trace nutrients in balanced proportions. The [[comparison-kelp-meal-vs-rock-dust]] in
 COF is especially important as a source of trace minerals. The nutritional
 quality of vegetables depends directly on the mineral content of the soil
 they grow in. See
@@ -82,6 +82,6 @@ they grow in. See
 
 While Solomon is skeptical about pH-based liming recommendations, soil
 tests can provide useful information. The key is interpreting results in
-light of your gardening system. If you garden with COF and organic matter,
+light of your gardening system. If you garden with COF and [[hamilton-composting-and-organic-matter-management]],
 most deficiencies self-correct over time. See
 [[solomon-soil-testing-and-interpretation-low-input]].

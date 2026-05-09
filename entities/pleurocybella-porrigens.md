@@ -82,19 +82,19 @@ If consumed, thorough cooking is essential. Boiling and discarding the cooking w
 
 ## Ecological Role
 
-*P. porrigens* is a **white-rot decomposer** of conifer wood. It produces lignin-degrading enzymes including laccase and manganese peroxidase, contributing to the breakdown of woody debris in forest ecosystems.
+*P. porrigens* is a **white-rot decomposer** of conifer wood. It produces lignin-degrading enzymes including laccase and [[fungal-manganese-peroxidase-remediation]], contributing to the breakdown of woody debris in forest ecosystems.
 
-Its role in **nutrient cycling** is particularly important in old-growth conifer forests where hemlock and spruce are dominant. The species helps convert recalcitrant lignin into simpler organic compounds available to other soil organisms.
+Its role in **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]** is particularly important in old-growth conifer forests where hemlock and spruce are dominant. The species helps convert recalcitrant lignin into simpler [[fungal-volatile-organic-compounds-communication]] available to other soil organisms.
 
 The fruiting bodies serve as a food source for various invertebrates, including fungivorous beetles and springtails. Deer and small mammals occasionally browse the clusters, though the tough texture makes it a less preferred food item.
 
 ## Chemical Composition
 
-Analysis of *P. porrigens* has revealed the presence of **volatile organic compounds** including octanol and nonanol, which contribute to its mild odor. The species contains typical fungal sterols including ergosterol and ergosterol peroxide.
+Analysis of *P. porrigens* has revealed the presence of **[[plant-communication-volatile-organic-compounds]] compounds** including octanol and nonanol, which contribute to its mild odor. The species contains typical fungal sterols including ergosterol and ergosterol peroxide.
 
 The suspected toxin **pleurocybellazine** is an unstable amino acid derivative that degrades rapidly at room temperature. This instability may explain why historical consumption appeared safe while specific batches proved lethal.
 
-Additional bioactive compounds include lectins with hemagglutinating activity and small peptides with potential antimicrobial properties. Research into the species' chemistry remains limited compared to more commercially significant fungi.
+Additional [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include lectins with hemagglutinating activity and small peptides with potential [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. Research into the species' chemistry remains limited compared to more commercially significant fungi.
 
 ## Similar Species
 
@@ -106,7 +106,7 @@ Additional bioactive compounds include lectins with hemagglutinating activity an
 ## See Also
 
 - [[hericium-coralloides]]
-- [[coprinus-comatus-detailed]]
+- [[coprinus-comatus]]
 - [[fomes-fomentarius]]
 - [[psilocybe-cubensis]]
 - [[paul-stamets]]

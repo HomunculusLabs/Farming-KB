@@ -1,5 +1,5 @@
 ---
-title: Functional Genomics of Arbuscular mycorrhizal-symbiosis
+title: magnaporthe-grisea-functional-genomics-rice-blast of Arbuscular mycorrhizal-symbiosis
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -15,16 +15,16 @@ M. truncatula (barrel medic) has become the primary model legume for AM research
 - Extensive genetic resources including EST databases, mutant collections (dmi mutants), and genomic tools
 - Forms effective symbioses with both AMF (Glomus spp.) and rhizobia
 - The J5 wild-type line and dmi3 mutant are commonly used for comparative studies
-### [[fungal-environmental-sensing]], defense, and metabolism
+### fungal-environmental-sensing, defense, and metabolism
 ### Key Transcript Categories
 **Signaling genes**:
 - MAP kinases (upregulated during early root colonization and appressorium formation)
 - Serine/threonine kinases (adaptation to changing conditions)
-- GTP-binding proteins (mediators of signal transduction, protein transport, growth regulation)
+- GTP-binding proteins (mediators of [[fungal-environmental-sensing-signal-transduction-read]], protein transport, growth regulation)
 **Defense-related genes**:
 - Peroxidases (increase in both ecto- and endomycorrhizal symbioses)
 - Chitinases and glucanases (pathogenesis-related proteins)
-- Glutathione-S-transferases (symbiotic fungi endophytic, arbuscule development)
+- Glutathione-S-transferases (symbiotic [[biodiversity-of-fungi-endophytic-fungi]], arbuscule development)
 - Phenylpropanoid pathway enzymes (flavonoid and phenolic compound biosynthesis)
 **Metabolic genes**:
 - Alanine aminotransferase (primary metabolism)
@@ -48,7 +48,7 @@ Two-dimensional gel electrophoresis coupled with mass spectrometry:
 | Probable peroxidase precursor | MtC10717 | Defense/ROS | Up |
 | GTP-binding protein | MtC00087 | Signal transduction | Up |
 | Glutathione-S-transferase | MtC00681 | Detoxification | Up |
-| GST (Tau class) | MtC10018 | Stress response | Down |
+| GST (Tau class) | MtC10018 | [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] | Down |
 | 40S ribosomal protein S5 | MtC00128 | Translation | Up |
 ### Transcript-Protein Correspondence
 A key finding is the limited correlation between transcriptomic and proteomic data:
@@ -88,4 +88,8 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[gadd-arbuscular-mycorrhizal-genomics]]
+- [[techniques-arbuscular-mycorrhiza-inoculum-reduction]]
+- [[proteomics-early-arbuscular-mycorrhiza-symbiosis]]
+- [[magnaporthe-grisea-functional-genomics-rice-blast]]

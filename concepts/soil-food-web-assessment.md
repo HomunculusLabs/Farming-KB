@@ -25,10 +25,10 @@ Ingham strongly advocates direct microscopy over plate count methods:
 
 **Direct microscopy** (SFI method):
 - Dilutes the soil, stains sub-samples, and measures length, width, and number of individuals of each group
-- Uses an activity stain to distinguish living organisms from dormant ones
+- Uses an activity stain to distinguish [[savory-living-organisms-as-tools]] from dormant ones
 - Can identify bacteria, fungi, protozoa, and nematodes by morphology
 - Can differentiate active from total biomass
-- Can assess mycorrhizal colonization of roots
+- Can assess [[arbuscular-mycorrhizal-colonization-patterns]] of roots
 - Can identify disease fungi and root necrotic conditions
 
 **Plate counts** (traditional lab method):
@@ -50,7 +50,7 @@ Ingham strongly advocates direct microscopy over plate count methods:
 - Beneficial aerobic fungi: thick white strands/hyphae through compost (not gray fuzz or dust-like spores)
 - Fungi make glues that form macroaggregates
 - Fungi hold calcium, nitrogen, and phosphorus
-- Key for disease suppression: "If conditions are perfect for mildew, black spot, etc., then the fungal component appears to be critical for prevention"
+- Key for [[aact-disease-suppression-mechanisms-ingham]]: "If conditions are perfect for mildew, black spot, etc., then the fungal component appears to be critical for prevention"
 
 ### Protozoa
 - Three groups: **flagellates** (smallest), **amoebae** (medium), **ciliates** (largest)
@@ -81,7 +81,7 @@ Ingham strongly advocates direct microscopy over plate count methods:
 | Annual vegetables, brassicas | Bacterial dominated (~10:1 or higher) |
 | Grasses, pasture | Bacterial dominated |
 | Row crops (corn, wheat) | Slightly bacterial (~3:1 to 10:1) |
-| Perennial vegetables | Balanced (1:1 to 3:1) |
+| [[comparison-perennial-vegetables-vs-cover-crops]] | Balanced (1:1 to 3:1) |
 | Shrubs, berries | Fungal dominated (~1:3 to 1:10) |
 | Deciduous trees | Fungal dominated |
 | Conifers | Strongly fungal dominated |
@@ -92,12 +92,14 @@ Per Ingham's framework:
 
 - **All groups low**: Add quality [[cervantes-compost-tea-organic-brewing]]
 - **Ciliates too high**: Soil is anaerobic or compacted; improve aeration
-- **Fungi too low**: Add fungal foods (humic acid, fish hydrolysate); use fungal compost
+- **Fungi too low**: Add fungal foods (humic acid, [[comparison-fish-hydrolysate-vs-fish-emulsion]]); use [[bacterial-vs-fungal-compost-teas]]
 - **Bacteria too low**: Add bacterial foods (molasses); use compost tea
 - **Root-feeding nematodes present**: Improve soil structure and aeration; the pests thrive in reduced oxygen conditions
 - **Pathogens detected**: Add compost tea with high diversity to out-compete
 
 ## See Also
+
+- [[aact-soil-food-web-twelve-step-balancing-protocol]]
 
 - [[compost-tea-brewing-methods]]
 - [[compost-tea-application-rates]]

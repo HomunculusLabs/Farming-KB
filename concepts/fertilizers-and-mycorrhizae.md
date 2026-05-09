@@ -14,7 +14,7 @@ The relationship between fertilizers and [[plant-nutrient-deficiency-guide]] for
 
 ## Organic vs. Inorganic Fertilizer Compatibility
 
-Studies indicate that organic fertilizers are generally compatible with mycorrhizae, whereas phosphorus-rich inorganic fertilizers can inhibit mycorrhizal growth. Organic solutions are always preferred over chemical ones when it comes to mycorrhizae.
+Studies indicate that [[hamilton-organic-fertilizers-and-plant-nutrition]] are generally compatible with mycorrhizae, whereas phosphorus-rich [[ingham-inorganic-fertilizers-soil-biology-damage]] can inhibit mycorrhizal growth. Organic solutions are always preferred over chemical ones when it comes to mycorrhizae.
 
 Organic mulches such as chicken litter, rice hulls, straw, and sewage sludge can increase colonization of host plants, but each type has a unique impact on colonization and reproduction rates. Composts and composted animal manures are also compatible, though heavy and frequent use of manures can result in phosphorus buildup that inhibits colonization.
 
@@ -30,7 +30,7 @@ The phosphorus number represents phosphorus pentoxide (P₂O₅), and the potass
 
 Understanding these conversions is essential for managing phosphorus levels below the threshold that discourages mycorrhizal formation. See [[mycorrhizal-agricultural-practices]] for more on managing these interactions.
 
-Timing and rate of application of fungicides determine whether chemicals will affect mycorrhizae. Spraying plant leaves has far less impact than drenching soil with fungicide as mycorrhizae are beginning to form. Not all fungicides impact arbuscular mycorrhizal fungi; some, like those containing metalaxyl, actually stimulate mycorrhizal formation by eliminating competing fungi.
+Timing and rate of application of fungicides determine whether chemicals will affect mycorrhizae. Spraying plant leaves has far less impact than drenching soil with fungicide as mycorrhizae are beginning to form. Not all fungicides impact [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi; some, like those containing metalaxyl, actually stimulate mycorrhizal formation by eliminating competing fungi.
 
 Herbicides and pesticides are not usually toxic to mycorrhizal fungi but have nonselective reach. If a mycorrhizal host plant is killed after an herbicide application, spore counts in the soil can be reduced. Some agricultural chemicals can impact mycorrhizae positively—for example, certain pesticides result in higher colonization, perhaps by killing pests and producing healthier plants with more exudates.
 ## See Also
@@ -47,7 +47,7 @@ Herbicides and pesticides are not usually toxic to mycorrhizal fungi but have no
 
 # Hamilton Bone Meal, Blood Meal, and Fish Products
 
-The concentrated organic fertilizers derived from animal products are essential tools in the organic gardener's arsenal. They provide specific nutrients in readily available forms and form the basis of Hamilton's recommended nutrition plan.
+The [[hamilton-concentrated-organic-fertilizer-products]] fertilizers derived from animal products are essential tools in the organic gardener's arsenal. They provide specific nutrients in readily available forms and form the basis of Hamilton's recommended nutrition plan.
 
 ## Blood, Fish, and Bone Meal
 
@@ -91,12 +91,12 @@ Fish meal is a useful fertilizer containing nitrogen and phosphate (phosphorus).
 
 Nutrient content: Nitrogen 9 percent, Phosphorus 2.5 percent.
 
-Fish meal provides a balanced combination of nitrogen and phosphorus, making it useful for general garden feeding, particularly where organic matter supplies are limited.
+Fish meal provides a balanced combination of nitrogen and phosphorus, making it useful for general garden feeding, particularly where [[hamilton-composting-and-organic-matter-management]] supplies are limited.
 
 ## Fish Emulsion and Liquid Fish Products
 
 While Hamilton does not describe fish emulsion specifically, liquid fish-based fertilizers would fall into the same category as liquid animal manures. These contain all the major nutrients in small quantities but are rich in trace elements and are very useful for treating trace element deficiencies.
 
-Liquid fish products share many properties with liquid kelp and can be used as foliar sprays for rapid nutrient delivery.
+Liquid fish products share many properties with liquid kelp and can be used as [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] for rapid nutrient delivery.
 
 ## Hoof and Horn Meal

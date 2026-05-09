@@ -1,5 +1,5 @@
 ---
-title: "Guava vs Passion Fruit Cultivation"
+title: "Guava vs Passion stone-fruit-tree-care"
 tags: [guava, passion-fruit, tropical-fruit, subtropical-cultivation, fruit-trees, permaculture]
 date: 2026-04-28
 updated: 2026-04-28
@@ -23,11 +23,11 @@ Guava (*Psidium guajava*) and passion fruit (*Passiflora edulis*) are two of the
 | Parameter | Guava | Passion Fruit |
 |---|---|---|
 | **Growth habit** | Shrub or small tree (3–10 m) | Vigorous woody vine (climber) |
-| **Climate zones** | USDA 9b–11 | USDA 9–11 |
+| **[[mollison-climate-zones-permaculture-strategies]]** | USDA 9b–11 | USDA 9–11 |
 | **Optimal temperature** | 23–28 °C | 20–30 °C |
 | **Cold tolerance** | Tolerates light frost (−2 °C briefly) | Killed by frost; damaged below 1 °C |
 | **Soil pH** | 4.5–7.0 (prefers 5.5–6.5) | 5.5–7.0 (prefers 6.0–6.5) |
-| **Water needs** | Moderate; [[raised-beds-vs-in-ground-vs-containers]] are recommended in heavy soils. Passion fruit vines need full sun for maximum flowering and fruit set, whereas guava tolerates partial shade, though fruiting is reduced. Soils rich in organic matter (3–5%) support the rapid vine growth required for high yields. Mulching around the root zone helps retain moisture and suppress weeds for both species. Passion fruit is less tolerant of saline conditions than guava and may show leaf tip burn in soils with elevated salt content.
+| **Water needs** | Moderate; [[raised-beds-vs-in-ground-vs-containers]] are recommended in heavy soils. Passion fruit vines need full sun for maximum flowering and fruit set, whereas guava tolerates partial shade, though fruiting is reduced. Soils rich in [[hamilton-composting-and-organic-matter-management]] (3–5%) support the rapid vine growth required for high yields. Mulching around the root zone helps retain moisture and suppress weeds for both species. Passion fruit is less tolerant of saline conditions than guava and may show leaf tip burn in soils with elevated salt content.
 
 | Soil Factor | Guava | Passion Fruit |
 |---|---|---|
@@ -49,7 +49,7 @@ Guava pruning focuses on opening the canopy, removing dead or crossing branches,
 
 Passion fruit requires more intensive pruning. After the main vine reaches the trellis wire, lateral shoots are trained along the wire. Once laterals have fruited, they are cut back to a node near the main leader to encourage new lateral growth. [[vegetative-propagation-methods-mollison]] by air layering, grafting (onto seedling rootstock), or cuttings produces fruiting trees in 1–2 years and preserves selected characteristics. Grafting is preferred for disease resistance and uniformity in commercial orchards. Softwood cuttings under mist have moderate success (40–60%).
 
-Passion fruit is almost always propagated vegetatively. Hardwood cuttings (20–30 cm) treated with rooting hormone strike readily under mist or high humidity. Grafting onto resistant rootstocks (e.g., wild *Passiflora* species such as *P. caerulea* or *P. nitida*) is used where soil-borne diseases are prevalent. Seed propagation is used mainly in breeding programs, as seedling vines are variable in fruit quality and yield. Tissue culture is emerging as a method for producing clean, virus-free planting material. Rooting success for cuttings typically exceeds 80% under ideal conditions.
+Passion fruit is almost always propagated vegetatively. Hardwood cuttings (20–30 cm) treated with rooting hormone strike readily under mist or high humidity. Grafting onto resistant rootstocks (e.g., wild *Passiflora* species such as *P. caerulea* or *P. nitida*) is used where soil-borne diseases are prevalent. Seed propagation is used mainly in breeding programs, as seedling vines are variable in fruit quality and yield. [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] is emerging as a method for producing clean, virus-free planting material. Rooting success for cuttings typically exceeds 80% under ideal conditions.
 
 ## Best Uses (Culinary and Market)
 
@@ -67,12 +67,12 @@ Passion fruit is prized for its aromatic pulp and juice, used in beverages, dess
 | **Water availability** | Moderate or limited irrigation | Reliable, consistent moisture available |
 | **Labor** | Low-to-moderate pruning needs | Can provide regular vine training and pruning |
 | **Market** | Fresh fruit, processed products, juice | Premium juice market, specialty fruit |
-| **Disease pressure** | Guava wilt not endemic to your area | Can manage viral and fungal disease risks |
+| **Disease pressure** | Guava wilt not endemic to your area | Can manage viral and [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] risks |
 | **Speed to harvest** | Willing to wait 2–4 years | Need fruit within 1–2 years |
 | **Soil conditions** | Wide pH tolerance; moderate drainage ok | Excellent drainage essential; pH-sensitive |
 | **Nutritional focus** | High vitamin C or lycopene market | Aromatic juice and flavoring market |
 
-For permaculture and food forest designs, guava serves as a productive mid-canopy tree providing shade and wind protection for understory crops, while passion fruit can be trained along fence lines or over structures as a productive vertical element. Both species benefit from companion planting with [[fruit-tree-grafting-guide]]
+For permaculture and food forest designs, guava serves as a productive mid-canopy tree providing shade and wind protection for understory crops, while passion fruit can be trained along fence lines or over structures as a productive vertical element. Both species benefit from [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with [[fruit-tree-grafting-guide]]
 - [[mollison-designers-macadamia-nut-in-tropical-polyculture]]
 ## Practical Considerations
 
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

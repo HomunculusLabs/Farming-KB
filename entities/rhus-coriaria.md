@@ -107,7 +107,7 @@ The fruits are rich in bioactive phytochemicals:
   punicalagin) contribute astringency and antioxidant activity.
 - **Organic acids:** Malic acid (primary), citric acid, and ascorbic acid provide tartness.
 - **Flavonoids:** Quercetin, myricetin, kaempferol, and their glycosides.
-- **Volatile compounds:** The essential oil contains alpha-pinene, beta-caryophyllene, and
+- **[[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]:** The [[permaculture-designers-manual-essential-oil-plants]] contains alpha-pinene, beta-caryophyllene, and
   limonene.
 
 ## Pharmacology and Health Effects
@@ -121,7 +121,7 @@ Modern research supports several bioactivities:
   and *E. coli* in vitro.
 - **Anti-inflammatory:** Gallotannins inhibit COX-2 and NF-kB signaling pathways.
 - **Hypoglycemic effect:** Animal studies show blood sugar reduction; human trials are limited.
-- **Anticancer:** Preliminary in vitro studies show antiproliferative effects on cancer cell
+- **Anticancer:** Preliminary in vitro studies show antiproliferative effects on [[blesching-cannabis-apoptosis-and-cancer-cell-death]]
   lines, attributed to anthocyanin and tannin content.
 
 ## Permaculture Applications
@@ -129,7 +129,7 @@ Modern research supports several bioactivities:
 *Rhus coriaria* is well-suited to dryland permaculture systems. Its extensive root network
 prevents erosion on degraded hillsides. It provides windbreak, wildlife habitat, and
 pollinator forage. The multi-use harvest (spice, dye, tannin) makes it economically valuable
-in agroforestry. It serves as a nurse plant for establishing fruit trees and understory
+in agroforestry. It serves as a nurse plant for establishing [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and understory
 crops in Mediterranean food forests.
 
 ## See Also

@@ -1,10 +1,10 @@
 ---
-title: Hallucinogenic Mushroom Legislation in Europe
+title: emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Legislation in Europe
 tags: [legislation, drug-policy, EU, EMCDDA, prohibition, scheduling, Netherlands, UK]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - EMCDDA Thematic Paper: Hallucinogenic Mushrooms, An Emerging Trend Case Study (2006)created: 2026-05-07
+  - EMCDDA Thematic Paper: emcdda-hallucinogenic-mushrooms-emerging-trend-europe, An emcdda-epod-project-emerging-trend-detection-methodology Case Study (2006)created: 2026-05-07
 type: concept
 
 created: 2026-05-07
@@ -18,7 +18,7 @@ The legal status of hallucinogenic mushrooms in Europe has been shaped by the te
 
 ## International Framework
 
-Psilocin and psilocybin are controlled under the **1971 UN Convention on Psychotropic Substances**, listed in Schedule I under the names "psilocybine" and "psilocine" (or "psilotsin"). All EU member states control these substances at the national level accordingly.
+[[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] are controlled under the **1971 UN Convention on Psychotropic Substances**, listed in Schedule I under the names "psilocybine" and "psilocine" (or "psilotsin"). All EU member states control these substances at the national level accordingly.
 
 However, the Convention controls the chemical compounds, not the biological organisms that produce them. This gap between controlling a substance and controlling a living fungus created the central legal challenge that individual countries addressed in different ways.
 
@@ -76,7 +76,7 @@ The Netherlands took the narrowest approach, distinguishing between fresh and pr
 
 Different countries' laws do not always apply to the same mushrooms:
 
-- **Denmark**: controls "Psilocybe semilanceata, Psilocybe cubensis or other fungi/spores containing psilocin or psilocybin"
+- **Denmark**: controls "[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] or other fungi/spores containing psilocin or psilocybin"
 - **Italy**: lists "Fungi of the genus Strofaria, Conocybe and Psilocybe"
 - **UK**: controls "Fungus (of any kind) which contains psilocin or an ester of psilocin"
 
@@ -108,7 +108,7 @@ A 2000 Dutch National Criminal Intelligence Service (CRI) investigation found no
 
 Reports from the UK suggest that the 2005 prohibition had an immediate impact on both the availability of mushrooms and the overall volume of internet sales. The Mixmag 2005 survey found 67% of respondents reporting reduced availability post-prohibition.
 
-However, legislation also created unintended consequences: retailers shifted to selling [[argyreia-nervosa]] (Hawaiian Baby Woodrose) with LSA.
+However, legislation also created unintended consequences: retailers shifted to selling argyreia-nervosa (Hawaiian Baby Woodrose) with LSA.
 
 ## Risk Reduction Information
 

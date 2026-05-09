@@ -1,5 +1,5 @@
 ---
-title: "KNF LAB Culturing and Uses"
+title: "KNF knf lab culturing and uses and Uses"
 created: 2026-04-28
 tags: [knf, natural-farming, lab, lactic-acid-bacteria, fermentation]
 date: 2026-04-25
@@ -65,7 +65,7 @@ of brown sugar and stir with a wooden stick. Keep at cool temperature
 ## How to Use LAB
 
 The basic dilution ratio is 1:1000. LAB can be applied alone or
-combined with other Natural Farming inputs for enhanced effects.
+combined with other [[comparison-natural-farming-vs-permaculture]] inputs for enhanced effects.
 
 ## Ten Specific Uses of LAB
 
@@ -81,12 +81,12 @@ combined with other Natural Farming inputs for enhanced effects.
    fruits and leaves large, though the amount should be reduced
    approaching later growth stages.
 
-4. Accelerates fermentation: When used together with mixed compost
+4. Accelerates fermentation: When used together with [[cho-fermented-mixed-compost-methods]]
    or IMO, the fermentation process occurs fast. LAB prevents
-   fermented mixed compost from decaying by maintaining proper
+   [[knf-fermented-mixed-compost]] compost from decaying by maintaining proper
    fermentation conditions.
 
-5. Promotes vegetative growth quality: During the vegetative growth
+5. Promotes [[cannabis-vegetative-growth-stage]] quality: During the vegetative growth
    period of fruiting vegetables, LAB produces higher quality plants
    that may be kept for longer periods in storage.
 
@@ -110,7 +110,7 @@ combined with other Natural Farming inputs for enhanced effects.
 
 ## Complementary Use with FPJ
 
-LAB works synergistically with Fermented Plant Juice. When applied
+LAB works synergistically with [[bionutrients-lab-fermented-plant-juice-fpj]]. When applied
 together, they enhance each other's effects on plant growth and
 soil health. LAB provides the microbial workforce while FPJ supplies
 the nutrients and enzymes that fuel microbial activity.
@@ -129,6 +129,8 @@ the nutrients and enzymes that fuel microbial activity.
 
 ## See Also
 
-- [[freshwater-fungi-collection-and-culturing]]
+- [[knf-faa-uses-and-bone-recycling]]
+
+- freshwater-fungi-collection-and-culturing
 
 See also: [[lactic-acid-bacteria-knf]]

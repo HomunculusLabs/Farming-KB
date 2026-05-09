@@ -1,5 +1,5 @@
 ---
-title: "Fungi and Mycorrhizal Relationships"
+title: "teaming with microbes fungi and mycorrhizal relationships Relationships"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -23,7 +23,7 @@ Fungal hyphae can grow in length, traveling over distances measured in feet or
 meters -- truly epic for a microorganism. Unlike bacteria, fungi do not need a
 film of water to spread through soil, allowing them to bridge gaps and locate
 new food sources. Fungal hyphae contain cytoplasm circulated throughout their
-septa, functioning as a nutrient transport system (a "conveyor belt") that can
+septa, functioning as a [[mycelial-network-nutrient-transport-imaging-gadd]] system (a "conveyor belt") that can
 move nutrients from one location to another several yards away. Once inside
 the fungus, nutrients are immobilized and will not be lost from the soil.
 
@@ -82,14 +82,14 @@ roots by 700 to 1000 times. They mine phosphorus, copper, calcium, magnesium,
 zinc, and iron using acids they produce to unlock chemically bound nutrients.
 Phosphorus retrieval appears to be a major function. They form intricate webs
 and sometimes carry water and nutrients to roots of different plants, not just
-their host -- a remarkable form of interplant resource sharing. Nutrient
+their host -- a remarkable form of interplant [[mycelial-network-resource-sharing-plants]]. Nutrient
 compounds not delivered to roots are locked up in fungal tissue and released
 when fungi die and decay.
 
 ## Vulnerability and Protection
 
 Soil fungi are very fragile. Compaction crushes fungal tubes. Fungicides,
-pesticides, inorganic fertilizers, and physical soil disturbance (rototilling,
+pesticides, [[ingham-inorganic-fertilizers-soil-biology-damage]], and physical soil disturbance (rototilling,
 double digging) destroy fungal hyphae -- chemicals by sucking out cytoplasm,
 tillage by physically breaking them apart. Air pollution, particularly
 nitrogenous substances, also decreases mycorrhizal fruiting bodies.
@@ -102,14 +102,16 @@ human body.
 
 ## Plant Preferences and Succession
 
-The path from bacterial to fungal domination follows the general course of
+The path from [[ingham-bacterial-to-fungal-succession-soil-food-web]] domination follows the general course of
 plant succession. Early successional plants (annuals, weeds, grasses) prefer
 bacterially dominated soils with nitrogen in nitrate form. Later successional
 plants (perennials, shrubs, trees) prefer fungally dominated soils with
-nitrogen in ammonium form. Chemical fertilizers providing nitrates will not
+nitrogen in ammonium form. [[cervantes-chemical-fertilizers-guide]] providing nitrates will not
 support plants that prefer fungally dominated soils.
 
 ## See Also
+
+- [[oomycete-phylogeny-straminipile-relationships]]
 
 - [[teaming-with-fungi-mycorrhizal-inoculation-techniques]]
 

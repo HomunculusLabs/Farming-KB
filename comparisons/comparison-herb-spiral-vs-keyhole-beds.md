@@ -1,10 +1,11 @@
 ---
-title: "Herb Spiral vs Keyhole Beds"
+title: "Herb Spiral vs gaias-garden-keyhole-beds-and-mandala-gardens"
 created: 2026-04-28
 tags: [comparison, permaculture, garden-design, intensive-gardening]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -18,10 +19,10 @@ maximizes plantable area while minimizing space lost to pathways. Both are
 classic permaculture Zone 1 design elements that intensify production in
 small spaces, but they solve different problems: the spiral creates
 microclimatic diversity, while the keyhole bed maximizes growing area
-efficiency for standard vegetable production.
+efficiency for standard [[dry-gardening-unirrigated-vegetable-production-solomon]].
 
 ## Herb Spiral
-[[keyhole-beds]]
+keyhole-beds
 
 Keyhole beds are circular or horseshoe-shaped garden beds, typically 8-12
 feet in diameter, with a narrow path leading to a central circular clearing.
@@ -32,7 +33,7 @@ space efficiency is their primary advantage over conventional layouts.
 
 Keyhole beds can be created by mounding fertile topsoil into a horseshoe
 shape or by lasagna-layering with leaves, compost, newspaper, and soil using
-sheet mulching techniques. The plantable zone is 3-5 feet across, similar to
+[[comparison-sheet-mulching-vs-chop-and-drop-mulching]] techniques. The plantable zone is 3-5 feet across, similar to
 a standard raised bed. The access path is about a foot wide, with the central
 clearing 18-24 inches in diameter, providing enough room to turn around and
 access all parts of the bed without stepping on the soil and causing
@@ -44,7 +45,7 @@ tomatoes and peppers sit behind them, and single-harvest crops like potatoes
 and cabbage occupy the back. The circular geometry can be oriented to create
 a U-shaped sun bowl that traps warmth for heat-loving varieties. Multiple
 keyhole beds can extend along a central walkway to create an attractive,
-productive Zone 1 garden layout.
+productive Zone 1 [[hamilton-garden-layout-beds-borders-paths]].
 
 ## Key Differences
 | Aspect | Herb Spiral | Keyhole Beds |
@@ -74,7 +75,7 @@ foot matters. They are easier and cheaper to build than herb spirals,
 requiring no retaining walls, and they accommodate standard vegetable crops
 without the microclimatic constraints of a spiral. Keyhole beds are the
 practical choice for food production, while spirals serve a more specialized
-role for herb diversity and microclimate creation in compact spaces.
+role for herb diversity and [[mollison-designers-microclimate-creation-frost-protection]] in compact spaces.
 
 ## Hybrid Approaches
 A keyhole bed can incorporate herb spiral principles by mounding the bed
@@ -84,7 +85,7 @@ herb spiral at the center of a keyhole bed, combining microclimatic diversity
 with space-efficient access. Multiple small spirals can also be arranged along
 a keyhole bed's central path, creating an intensively planted herb garden
 with maximum accessibility for daily harvesting and garden maintenance
-throughout the growing season.
+throughout the [[savory-growing-season-and-non-growing-season-management]].
 
 ## See Also
 - [[comparison-mandala-garden-design-vs-keyhole-garden-design]]

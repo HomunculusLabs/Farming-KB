@@ -65,7 +65,7 @@ reduce direct gastric irritation caused by free salicylic acid.
 
 Salicin functions as a prodrug, undergoing hepatic metabolism to
 saligenin (salicyl alcohol) and then to salicylic acid, the active
-pharmacological agent. This metabolic pathway is slower and more gradual
+pharmacological agent. This [[gluconeogenesis-biochemistry-metabolic-pathway]] is slower and more gradual
 than direct administration of salicylic acid or aspirin.
 
 The primary mechanism of action involves inhibition of cyclooxygenase
@@ -116,15 +116,15 @@ conditions.
 
 - **White willow (*Salix alba*):** The most commercially important
   source, bark contains 0.5–1.5% salicin by dry weight.
-- **Black willow (*Salix nigra*):** Native to eastern North America,
+- **Black willow (*[[salix-nigra]]*):** Native to [[polypore-fungi-eastern-north-america]] America,
   bark contains moderate salicin concentrations.
-- **Purple willow (*Salix purpurea*):** European species with bark
+- **Purple willow (*[[salix-purpurea]]*):** European species with bark
   salicin content comparable to white willow.
 - **Poplar species (*Populus* spp.):** Bark and leaf tissue contain
   salicin and related phenolic glycosides, including populin.
 
 Willow bark extracts standardized to salicin content are commercially
-available as dietary supplements and [[salix-alba]]
+available as [[medicinal-mushroom-dietary-supplements]] and [[salix-alba]]
 
 - [[psilocybin]] — A bioactive fungal compound with distinct
   pharmacological mechanisms, demonstrating the breadth of natural
@@ -132,4 +132,4 @@ available as dietary supplements and [[salix-alba]]
 
 ## See Also
 
-- [[herbal-medicine-making]]
+- [[herbal-medicine-making-basics]]

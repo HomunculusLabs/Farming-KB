@@ -4,14 +4,15 @@ created: 2026-04-28
 tags: [comparison, cannabis, growing-systems, soilless, sustainability]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
 # Aquaponics vs Hydroponics
 
 ## Overview
-Aquaponics and hydroponics are both soilless cultivation methods, but they
+Aquaponics and hydroponics are both soilless [[synthetic-log-cultivation-methods-guide]], but they
 differ fundamentally in their nutrient source and system complexity. Hydroponics
 uses manufactured mineral nutrient solutions to feed plants directly, while
 aquaponics integrates fish aquaculture with plant cultivation, using fish waste
@@ -24,8 +25,8 @@ they serve different goals and require different levels of commitment.
 [[cannabis-hydroponic-systems]]
 
 Hydroponics delivers pre-formulated nutrient solutions directly to plant roots,
-bypassing soil entirely. Common systems include Deep Water Culture (DWC),
-Nutrient Film Technique (NFT), Ebb and Flow, and drip irrigation, each with
+bypassing soil entirely. Common systems include [[cannabis-deep-water-culture-guide]] (DWC),
+Nutrient Film Technique (NFT), Ebb and Flow, and [[comparison-drip-irrigation-vs-passive-irrigation]], each with
 different approaches to delivering water and nutrients. The key advantage is
 precise control over the nutrient solution, allowing growers to tailor NPK
 ratios, micronutrient levels, pH, and EC/TDS to the exact requirements of each
@@ -42,12 +43,12 @@ mature and well-documented, with extensive community knowledge and affordable
 equipment options for every scale from hobbyist to commercial.
 
 The downsides include ongoing nutrient costs, the need to manage and
-periodically replace nutrient solutions to prevent salt buildup and nutrient
+periodically replace nutrient solutions to prevent [[cervantes-salt-buildup-leaching-management]] and nutrient
 lockout, and the environmental impact of synthetic fertilizer production and
 disposal. Hydroponic wastewater must be managed responsibly, as concentrated
 nutrient solutions can pollute waterways. Root diseases like pythium can spread
 rapidly through shared water reservoirs, requiring vigilant monitoring of
-solution temperature and dissolved oxygen levels.
+solution temperature and [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] levels.
 
 ## Key Differences
 | Aspect | Aquaponics | Hydroponics |
@@ -70,7 +71,7 @@ plant production into their existing infrastructure.
 
 ## When to Choose Hydroponics
 Hydroponics is the practical choice for growers who prioritize yield,
-consistency, and precise control over the growing environment. It suits cannabis
+consistency, and precise control over the [[cannabis-growing-environment-setup]]. It suits cannabis
 cultivators who need to tailor nutrient profiles for specific strains and growth
 stages, which is difficult in aquaponic systems. The faster setup time, simpler
 management, and more predictable results make hydroponics ideal for both

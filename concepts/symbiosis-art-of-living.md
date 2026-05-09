@@ -35,15 +35,15 @@ Most symbiotic relationships probably started out as facultative. Over many gene
 
 ## Mutualism in Detail
 
-Mutualistic symbiosis, where both partners benefit, is the most ecologically significant form. Examples of plant-fungal mutualism include mycorrhizal associations, endophytic fungi that confer stress tolerance, and lichen symbioses where fungi and algae or cyanobacteria function as a single organism. In mycorrhizal relationships, the fungal partner extends the plant's effective root system through an extensive hyphal network, dramatically increasing nutrient and water absorption. In return, the plant supplies the fungus with carbohydrates produced through photosynthesis.
+Mutualistic symbiosis, where both partners benefit, is the most ecologically significant form. Examples of plant-fungal mutualism include mycorrhizal associations, [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]] that confer [[fungal-lichen-stress-tolerance-and-poikilohydry]], and lichen symbioses where fungi and algae or cyanobacteria function as a single organism. In mycorrhizal relationships, the fungal partner extends the plant's effective root system through an extensive hyphal network, dramatically increasing nutrient and water absorption. In return, the plant supplies the fungus with carbohydrates produced through photosynthesis.
 
 ## Parasitism and Evolutionary Transitions
 
-Parasitic relationships represent one end of the symbiotic spectrum. Some fungi form parasitic associations with plants, causing diseases such as rusts, smuts, and wilts. Interestingly, many mycorrhizal fungi show a continuum from mutualism to parasitism depending on environmental conditions — a fungus that is mutualistic when soil phosphorus is low may become weakly parasitic when phosphorus is abundant and the plant no longer needs fungal assistance.
+Parasitic relationships represent one end of the symbiotic spectrum. Some fungi form parasitic associations with plants, causing diseases such as rusts, smuts, and wilts. Interestingly, many [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] show a continuum from mutualism to parasitism depending on environmental conditions — a fungus that is mutualistic when soil phosphorus is low may become weakly parasitic when phosphorus is abundant and the plant no longer needs fungal assistance.
 
 ## Commensalism
 
-In commensal relationships, one partner benefits while the other is unaffected. Many endophytic fungi that inhabit plant tissues without causing disease fall into this category. These fungi may provide subtle benefits such as improved drought tolerance or herbivore deterrence through production of alkaloids, but the plant can survive without them.
+In commensal relationships, one partner benefits while the other is unaffected. Many endophytic fungi that inhabit plant tissues without causing disease fall into this category. These fungi may provide subtle benefits such as improved [[dighton-fungal-drought-tolerance-plant-water-relations]] or herbivore deterrence through production of alkaloids, but the plant can survive without them.
 
 ## Mutualism in Detail
 
@@ -71,7 +71,7 @@ In commensal relationships, one partner benefits while the other is unaffected. 
 
 ## Historical Development
 
-The fungus helps the host plant absorb inorganic nitrogen and phosphorus from the soil. Some mycorrhizal fungi also secrete antibiotics which may help protect their host from invasion by parasitic fungi and bacteria. About 80% of all land plants have a symbiotic relationship with fungi of the phylum Glomeromycota.
+The fungus helps the host plant absorb inorganic nitrogen and phosphorus from the soil. Some mycorrhizal fungi also secrete antibiotics which may help protect their host from invasion by [[escovopsis-parasitic-fungi-attine-ant-gardens]] and bacteria. About 80% of all land plants have a symbiotic relationship with fungi of the phylum Glomeromycota.
 
 A.B. Frank's observations and hypotheses about mycorrhizae in 1885 flew in the face of conventional thinking. He reported that ectomycorrhizae were widespread on root systems of many woody plant species and hypothesized that mycorrhizae represent an all-encompassing mutualistic symbiosis in which fungus and host nutritionally rely on each other. Frank coined the term "mycorrhiza" in 1885.
 

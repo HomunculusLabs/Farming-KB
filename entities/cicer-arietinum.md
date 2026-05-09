@@ -13,7 +13,7 @@ updated: 2026-05-08
 sources:
   - van der Maesen LJG (1972). Cicer L., a Monograph of the Genus. Wageningen.
   - Singh KB, Diwakar BN (1995). "Chickpea breeding." Advances in Agronomy 54: 163–193.
-  - Jukanti AK, Gaur PM, Gowda CLL, Chibbar RN (2012). "Nutritional quality and health benefits of chickpea." British Journal of Nutrition 108(S1): S11–S26.
+  - Jukanti AK, Gaur PM, Gowda CLL, Chibbar RN (2012). "[[coleman-winter-greens-nutritional-quality-cold-sweetening]] and health benefits of chickpea." British Journal of Nutrition 108(S1): S11–S26.
   - Kassie M, Shiferaw B, Muricho G (2011). "Production and importance of chickpea." Field Crops Research 122(1): 1–13.
 ---
 
@@ -54,7 +54,7 @@ resemblance of the seed to a ram's head.
 
 Chickpea is an erect or spreading annual herb reaching 20–60 cm in height.
 Stems are branched and pubescent with glandular hairs that exude malic acid,
-providing moderate pest resistance.
+providing moderate [[cannabis-disease-pest-resistance-breeding-clarke]].
 
 Leaves are pinnately compound with 9–15 serrate leaflets, each 5–15 mm long.
 The rachis terminates in a rudimentary tendril in many cultivars.
@@ -105,7 +105,7 @@ The seeds provide significant dietary fiber (15–20 g/100 g dry), iron
 partially reduce phytic acid that limits mineral bioavailability.
 
 In traditional medicine, chickpea preparations have been used for digestive
-complaints, bronchitis, and skin conditions. Modern research supports moderate
+complaints, bronchitis, and [[cannabis-for-skin-conditions-detailed]]. Modern research supports moderate
 benefits for type 2 diabetes management and cholesterol reduction.
 
 Chickpea aquafaba (cooking liquid) has gained popularity as a plant-based
@@ -119,11 +119,11 @@ excellent rotation partner for cereals, breaking disease cycles and
 contributing residual nitrogen.
 
 In permaculture designs, chickpea serves as a nitrogen-fixing understory
-crop beneath fruit trees or within polyculture beds. Its drought tolerance
+crop beneath fruit trees or within polyculture beds. Its [[dighton-fungal-drought-tolerance-plant-water-relations]]
 suits it for dryland food forests and water-limited systems.
 
-The crop is compatible with cereals, brassicas, and root vegetables in
-intercropping arrangements, contributing soil fertility and organic matter
+The crop is compatible with cereals, brassicas, and [[growing-root-vegetables-guide]] in
+intercropping arrangements, contributing soil fertility and [[hamilton-composting-and-organic-matter-management]]
 through its leaf litter and root residues.
 
 ## See Also

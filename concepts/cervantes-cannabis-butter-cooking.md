@@ -1,18 +1,18 @@
 ---
-title: Cannabis Butter and Cooking Oil Extraction
+title: cervantes cannabis butter cooking and Cooking Oil Extraction
 type: concept
 created: 2026-04-25
 type: concept
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources: []
 tags: [cannabis, edibles, butter, cooking, extraction]
 ---
 
 # Cannabis Butter and Cooking Oil Extraction
 
 Cannabis butter and oil are simple to make and form the
-foundation of most cannabis edibles. Each takes a little time
+foundation of most [[oner-cannabis-edibles-infusion-dosing]]. Each takes a little time
 to prepare, but large batches can be processed and stored in
 the refrigerator or freezer for later use. The psychoactive
 cannabinoids dissolve readily in butter, cooking oil, or
@@ -27,7 +27,7 @@ butter contains about 80 percent of the cannabinoids that
 were in the original foliage used to make it. This represents
 a significant retention rate for home extraction methods.
 
-Well-made cannabis oil is extremely potent, often registering
+Well-made [[cervantes-hash-cannabis-oil-production]] is extremely potent, often registering
 more than 70 percent THC when made from quality starting
 material.
 

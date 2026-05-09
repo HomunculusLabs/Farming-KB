@@ -1,5 +1,5 @@
 ---
-title: Kelp Meal Fertilizer
+title: [[comparison-kelp-meal-vs-rock-dust]] Fertilizer
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-Kelp meal is an alternative to blood, fish, and bone meal. Though more expensive, it is better balanced and its nutrients are in slow-release form. It contains 60 to 70 different chemical elements, including the complete range of trace elements.
+Kelp meal is an alternative to blood, fish, and bone meal. Though more expensive, it is better balanced and its nutrients are in slow-release form. It contains 60 to 70 different chemical elements, including the complete range of [[teaming-with-nutrients-micronutrients-and-trace-elements]].
 
 ## Nutrient Content
 
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

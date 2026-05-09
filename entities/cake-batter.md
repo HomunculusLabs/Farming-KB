@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly (2024). "Cake Batter Strain Information." leafly.com.
-  - AllBud (2024). "Cake Batter Cannabis Strain." allbud.com.
+  - AllBud (2024). "Cake Batter [[blesching-cannabis-strain-selection-receptor-targeting]]." allbud.com.
   - Weedmaps (2024). "Cake Batter Strain Review." weedmaps.com.
   - MRA Labs (2023). "Cannabinoid and Terpene Profiling: Cake Batter." MRA Analytics.
   - Cookies Fam Breeders (2023). "Lineage documentation: Cake Batter." Internal breeding records.
@@ -20,7 +20,7 @@ created: 2026-04-28
 
 ## Overview
 
-Cake Batter is a modern hybrid cannabis strain bred by the Cookies family, emerging from the prolific California breeding scene of the late 2010s. It combines the dessert-forward genetics of the Girl Scout Cookies lineage with cake-phenotype terpene profiles, producing dense, trichome-laden buds with a distinctive vanilla-cake aroma.
+Cake Batter is a modern hybrid cannabis strain bred by the Cookies family, emerging from the prolific California breeding scene of the late 2010s. It combines the dessert-forward genetics of the Girl Scout Cookies lineage with cake-phenotype [[cannabis-terpene-profiles-sativa]], producing dense, trichome-laden buds with a distinctive vanilla-cake aroma.
 
 The strain has gained significant popularity in the licensed dispensary market, particularly on the US West Coast and in Oklahoma. Its reputation centers on a smooth, creamy flavor profile and balanced effects that lean slightly toward relaxation without heavy sedation. Cake Batter represents the broader trend of dessert-themed cannabis branding that has dominated commercial breeding since approximately 2018.
 
@@ -34,7 +34,7 @@ The genetic ratio is approximately 55% indica to 45% sativa, though phenotypic v
 
 Buds are medium to large, densely packed, and roughly conical in shape. The calyxes are tightly curled with moderate internode spacing, producing chunky colas typical of the Cookies lineage. Colors range from deep forest green to purple-tinged, particularly in cooler growing conditions.
 
-Trichome coverage is heavy, giving buds a frosted, nearly white appearance when mature. Pistils are orange to amber, contrasting sharply against the dark foliage. The overall visual impression is one of density and resin production consistent with high-potency modern hybrids.
+Trichome coverage is heavy, giving buds a frosted, nearly white appearance when mature. Pistils are orange to amber, contrasting sharply against the dark foliage. The overall visual impression is one of density and [[cannabis-glandular-trichome-types-resin-production-clarke]] consistent with high-potency modern hybrids.
 
 ## Aroma and Flavor
 
@@ -67,15 +67,15 @@ Medical users commonly reach for Cake Batter for stress relief, mild anxiety man
 
 ## Cultivation
 
-Cake Batter is considered moderately difficult to cultivate, requiring attention to humidity and nutrient management. It performs best in controlled indoor environments but can be grown outdoors in Mediterranean climates with flowering finishing by mid-October.
+Cake Batter is considered moderately difficult to cultivate, requiring attention to humidity and [[green-cannabis-grow-bible-nutrient-management-ppm]]. It performs best in controlled indoor environments but can be grown outdoors in Mediterranean climates with flowering finishing by mid-October.
 
-Indoor flowering time is 8–9 weeks with yields of 350–450 g/m². The plants respond well to trellising and moderate defoliation to manage the dense canopy. They are moderately susceptible to powdery mildew and botrytis in high-humidity environments.
+Indoor flowering time is 8–9 weeks with yields of 350–450 g/m². The plants respond well to trellising and moderate defoliation to manage the dense canopy. They are moderately susceptible to [[cervantes-powdery-mildew-prevention-treatment]] and botrytis in high-humidity environments.
 
 ## Growing Tips and Phenotypes
 
 The most commercially desired phenotype expresses dense, purple-tinted buds with maximum vanilla terpene expression. Growers can enhance this phenotype by reducing night temperatures by 5–8°C during weeks 5–7 of flowering. The color shift is primarily anthocyanin production triggered by cooler conditions.
 
-Nutrient requirements are moderate to heavy during the vegetative stage, with reduced nitrogen and increased phosphorus and potassium during flowering. Cake Batter benefits from calcium and magnesium supplementation, particularly in coco coir or peat-based media. Overfeeding can reduce terpene expression and produce harsh, ammonia-tainted smoke.
+Nutrient requirements are moderate to heavy during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]], with reduced nitrogen and increased phosphorus and potassium during flowering. Cake Batter benefits from calcium and magnesium supplementation, particularly in coco coir or peat-based media. Overfeeding can reduce terpene expression and produce harsh, ammonia-tainted smoke.
 
 Multiple cuttings circulate commercially under the Cake Batter name, with significant phenotypic variation. The "Tier 1" cut, associated with the Cookies brand, commands premium prices and is characterized by the strongest vanilla-cake terpene expression and the highest THC content. Less selected cuts may express more generic Cookies-family characteristics.
 
@@ -108,7 +108,7 @@ Appetite stimulation is reliable, consistent with the high THC content and Cooki
 ## See Also
 
 - [[granddaddy-purple]]
-- [[gelato-cannabis]]
+- [[gelato]]
 - [[ice-cream-cake-cannabis]]
 - [[og-kush]]
 - [[headband]]

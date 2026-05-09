@@ -11,9 +11,9 @@ type: concept
 # Masanobu Fukuoka
 
 Masanobu Fukuoka (1913-2008) was a Japanese farmer, philosopher, and author who
-developed the system of natural farming described in his major works. His approach
+developed the system of [[comparison-natural-farming-vs-permaculture]] described in his major works. His approach
 to agriculture, rooted in Zen Buddhist philosophy and decades of direct field
-observation, challenged the foundations of modern scientific agriculture and
+observation, challenged the foundations of modern [[fukuoka-critique-scientific-agriculture-civilization]] and
 influenced sustainable farming movements worldwide. Fukuoka described himself as
 "a farmer who for fifty years has wandered about in search of nature."
 
@@ -37,7 +37,7 @@ nature no longer truly natural.
 
 ## The Farm at Iyo
 
-Fukuoka established his farming methods on a hilltop orchard overlooking the
+Fukuoka established his [[natural-farming-methods-comparison]] on a hilltop orchard overlooking the
 Inland Sea of Japan in Iyo, Ehime Prefecture. The farm consisted of citrus
 orchards and rice paddies that he cultivated using his "do-nothing" method. Young
 people from Japanese cities and from abroad came to live and work on the farm,
@@ -46,9 +46,9 @@ eating brown rice and vegetables, without electricity or running water, in mud-
 walled huts among the fruit trees.
 
 Over thirty years of farming at Iyo, Fukuoka's rice paddies were never plowed or
-turned. He applied no chemical fertilizers, no prepared compost, and no
+turned. He applied no [[cervantes-chemical-fertilizers-guide]], no prepared compost, and no
 pesticides. Yet he consistently harvested close to 22 bushels (1,300 pounds) of
-winter grain and 22 bushels of rice per quarter-acre. He reported approximately
+[[direct-seeded-no-tillage-rice-winter-grain-succession]] and 22 bushels of rice per quarter-acre. He reported approximately
 250 heads of grain per square yard with an average of 200 grains per head. His
 goal was to eventually reach 33 bushels per quarter-acre through natural
 improvement of his methods.
@@ -56,7 +56,7 @@ improvement of his methods.
 ## The Natural Way of Farming
 
 Fukuoka's major work, "The Natural Way of Farming: The Theory and Practice of
-Green Philosophy," presents his complete agricultural philosophy. The book is both
+[[fukuoka-sowing-green-philosophy-one-grain-revolution]]," presents his complete agricultural philosophy. The book is both
 a practical farming manual and a philosophical treatise on humanity's
 relationship with the natural world. It argues that nature cannot be understood
 through scientific analysis because nature is an organic whole that dies when
@@ -71,7 +71,7 @@ farmer and land was destroyed.
 
 ## Desert Revegetation Vision
 
-In his later years, Fukuoka became deeply concerned with [[permaculture]]. He saw natural farming as more than an agricultural technique,
+In his later years, Fukuoka became deeply concerned with permaculture. He saw natural farming as more than an agricultural technique,
 calling it "the practical foundation of a spiritual movement, of a revolution to
 change the way man lives."
 

@@ -1,5 +1,5 @@
 ---
-title: "Hurricane and Cyclone Resilient Design"
+title: "Hurricane and mollison hurricane and cyclone resilient design Design"
 created: 2026-04-26
 tags:
   - permaculture
@@ -61,16 +61,16 @@ efficiency of solar devices and insulation. Therefore, shelter strategies
 become paramount:
 
 - Dense, wind-resistant tree belts should surround settlements and
-  gardens, as described in [[mollison-windbreak-design]] for species selection and placement of
+  gardens, as described in mollison-windbreak-design for species selection and placement of
   shelterbelts in cyclone-prone areas.
-- [[mollison-dam-types-landscape-placement]] for siting water storages
+- mollison-dam-types-landscape-placement for siting water storages
   above surge lines.
-- [[mollison-microclimate-creation]] for moderating wind effects on
+- mollison-microclimate-creation for moderating wind effects on
   crops and settlements.
 
 ## Key Principles
 
-1. In cyclonic areas, wind protection overrides all other design factors.
+1. In cyclonic areas, [[cervantes-wind-protection-outdoor-cannabis]] overrides all other design factors.
 2. Design refuge structures as the first priority in hurricane zones.
 3. Site settlements above storm surge lines on well-drained hillside
   locations.
@@ -79,3 +79,9 @@ become paramount:
 5. Plan for evacuation routes and emergency shelter access.
 6. Build stoutly from the outset rather than waiting for destruction to
   teach the lesson.
+## See Also
+- [[bill-mollison]]
+- [[mollison-course-swales-and-earthworks-design]]
+- [[mollison-pdc-small-pond-frog-habitat-design]]
+- [[mollison-designers-food-forest-succession-design]]
+- [[mollison-designers-high-island-and-tropical-valley-design]]

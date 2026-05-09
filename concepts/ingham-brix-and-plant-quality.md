@@ -1,5 +1,5 @@
 ---
-title: Brix and Plant Quality from Ingham AACT Field Guide
+title: Brix and Plant Quality from Ingham AACT ghouled-field-guide-historical-context
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -145,3 +145,6 @@ conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
 
+## See Also
+
+- [[aact-compost-quality-standards-ingham]]

@@ -1,5 +1,5 @@
 ---
-title: "Early Paris Psilocybin Research (1960s)"
+title: "Early early paris psilocybin research 1960s Research (1960s)"
 created: 2026-04-26
 tags:
   - history
@@ -19,7 +19,7 @@ type: concept
 ## Jean Delay, Sainte-Anne Hospital, and the Investigation of Psilocybin's
 ## Effects on Mind and Creativity
 
-While the [Harvard Psilocybin Project
+While the [[leary-harvard-psilocybin-project]] Project
 grabbed headlines in America, a quieter but equally significant programme
 of psilocybin research was being conducted in Paris throughout the 1960s.
 Led by the psychiatrist Professor Jean Delay (1907-1987) and his team at
@@ -48,7 +48,7 @@ attention difficulties, euphoria (and/or dysphoria) and anxiety, but the
 list also included auditory hallucinations and what he termed
 'bizarverie de l'ambiance' (peculiar moods or atmospheres). This
 catalogue of effects was among the most comprehensive produced during the
-first wave of psychedelic research.
+first wave of [[mckenna-suppression-psychedelic-research-lsd-therapy]].
 
 ## Therapeutic Potential
 
@@ -73,7 +73,7 @@ days of Romanticism.
 In the 1940s, the London psychiatrists Walter Maclay and Erich Guttman,
 who were interested in understanding the hallucinations of their mentally
 ill patients, gave mescaline to artists and asked them to paint what they
-saw. Believing mescaline to create a 'model psychosis', the researchers
+saw. Believing mescaline to create a '[[lsd-model-psychosis-research]]', the researchers
 hoped to find what in German is called the Stilwandel, or change of
 style, that would distinguish drug-induced art from genuine psychotic
 art.

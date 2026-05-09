@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, workflow, annual-calendar, reference, economics]
-sources: []
+sources:
+  sources: []
 ---
 
 # Homestead Record Keeping
@@ -13,7 +14,7 @@ Systematic record keeping transforms a homestead from a collection of guesswork 
 
 ## Why Keep Records
 
-- **Yield tracking** — know which varieties, planting dates, and methods produce the most food per square foot
+- **Yield tracking** — know which varieties, planting dates, and methods produce the most food per [[comparison-biointensive-vs-square-foot-gardening]]
 - **Financial accountability** — understand true costs versus income from homestead products
 - **Seasonal planning** — refer to past years to optimize planting, harvesting, and preservation schedules
 - **Animal health** — track vaccinations, breeding, weight gain, feed consumption, and health events
@@ -29,20 +30,20 @@ For each crop, record:
 - Germination rate and date
 - Spacing and location (garden bed number or map reference)
 - Fertilizer/amendment applications (type, rate, date)
-- Pest and disease observations
+- [[hamilton-pest-and-disease-control-organic]] observations
 - First harvest date
 - Total yield (weight or count)
 - Taste notes and quality assessment
-- Storage method and shelf life
+- Storage method and [[psilocybin-shelf-life-stability]]
 
-A simple garden journal or spreadsheet handles this well. Include a garden map each year showing what was planted where — essential for crop rotation.
+A simple garden journal or spreadsheet handles this well. Include a garden map each year showing what was planted where — essential for [[comparison-crop-rotation-vs-cover-cropping]].
 
 ### Harvesting and Preservation Records
 Track everything you preserve:
 - Date
 - Crop/variety
 - Quantity harvested (raw weight)
-- Preservation method (canning, freezing, dehydrating, fermenting, root cellaring)
+- Preservation method (canning, freezing, dehydrating, fermenting, [[comparison-root-cellaring-guide-vs-canning-and-preserving]])
 - Quantity preserved (jars, pounds, bags)
 - Shelf life observations
 - Consumption tracking (when you open/use preserved goods)
@@ -84,7 +85,7 @@ Track every dollar in and out of the homestead operation. Categories:
 - Equipment and tools (with depreciation)
 - Fuel and utilities
 - Veterinary care and medications
-- Building materials and repairs
+- [[natural-building-materials-guide]] and repairs
 - Insurance
 - Processing supplies (jars, lids, freezer bags, etc.)
 - Education and training
@@ -142,15 +143,8 @@ Maintain separate records for tax purposes:
 - Depreciation schedules for equipment
 - Agricultural exemption documentation
 - Property tax records
-
-Consult a tax professional familiar with agricultural operations. Many homestead expenses are deductible if you can demonstrate profit intent.
-
-## Getting Started
-
-Start simple. Do not let the ideal system prevent you from starting. A notebook and a pencil, used consistently, is infinitely better than a perfect database you never maintain. Add complexity as you identify needs. The most important habit is recording data at the time it happens, not from memory days later.
-
-For financial tracking that connects to your records, see [[homestead-financial-planning]]. Planning your seasonal activities is aided by the resources in [[homestead-education-resources]].
-
 ## See Also
 
 - [[query-how-to-start-beekeeping-on-a-homestead]]
+- [[jeavons-garden-planning-four-year-rotation]]
+- [[homestead-financial-planning]]

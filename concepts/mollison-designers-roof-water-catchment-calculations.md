@@ -1,5 +1,5 @@
 ---
-title: Roof Water Catchment Calculations
+title: [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] roof water catchment calculations Calculations
 created: 2026-04-28
 tags:
   - water-harvesting
@@ -16,17 +16,17 @@ type: concept
 
 # Roof mollison designers roof water catchment calculations
 
-Bill Mollison provides detailed guidance on roof water harvesting in
+[[bill-mollison]] provides detailed guidance on roof water harvesting in
 Chapter 6 (Water in the Landscape) and Chapter 14 of Permaculture: A
 Designers' Manual. He treats roof catchment as a primary water supply
-strategy for [[homestead-water-systems]] that also includes [[mollison-designers-rainwater-tanks-and-roof-catchment-systems]] due to
+strategy for [[homestead-water-systems]] that also includes mollison-designers-rainwater-tanks-and-roof-catchment-systems due to
 its high runoff coefficient, durability, and non-toxic surface (unlike
 some treated materials that may leach chemicals into drinking water).
 
 ## First-Flush Systems
 
 The first several millimetres of rain after a dry period wash accumulated
-dust, bird droppings, leaf litter, and atmospheric pollutants from the
+dust, bird droppings, [[dighton-fungal-decomposition-leaf-litter-dynamics]], and atmospheric pollutants from the
 roof surface. Mollison emphasises that first-flush diversion is essential
 for water quality. Common systems include:
 
@@ -70,7 +70,7 @@ rainfall patterns, and roof area. The calculation balances supply against
 demand across dry periods:
 
 1. Determine average daily household water demand (typically 100 to 200
-   litres per person per day for conservative use, less with composting
+   litres per person per day for conservative use, less with [[composting]]
    toilets and greywater reuse)
 2. Determine the longest expected dry period (consecutive days with
    negligible rainfall)
@@ -107,4 +107,4 @@ lowest point in the cumulative balance curve). In Mediterranean or
 
 ## See Also
 
-- [[mollison-designers-roof-water-catchment]]
+- mollison-designers-roof-water-catchment

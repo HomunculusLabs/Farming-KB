@@ -1,11 +1,12 @@
 ---
-title: Sepp Holzer Terracing and Hugelkultur
+title: Sepp sepp holzer terracing and hugelkultur and Hugelkultur
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [reference]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 # Sepp Holzer Terracing and Hugelkultur
 
@@ -41,11 +42,11 @@ Sepp Holzer, the "Agri-Rebel" of Austria, farms 110 acres at 1,500m elevation in
 - **Nutrient release**: Wood decomposition provides slow-release nutrients for 10-20 years
 - **Soil building**: Fungal decomposition creates humus, improving soil structure
 - **Raised bed advantages**: Better drainage, no compaction, extended growing season
-- **Carbon sequestration**: Buried wood stores carbon long-term
+- **[[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]**: Buried wood stores carbon long-term
 - **Uses "waste" material**: Fallen trees, branches, brush piles
 
 ### Variations
-- **Hugelkultur raised bed**: 3-6 ft tall, rectangular, for vegetable gardens
+- **[[natfarm-hugelkultur-raised-beds]] bed**: 3-6 ft tall, rectangular, for vegetable gardens
 - **Hugelkultur swale**: Hugel bed on contour, intercepting water runoff
 - **Hugelkultur terrace**: Mound built into a slope, creating a level growing area
 - **Crater garden**: Sunken center with hugel mound rim (Holzer's variation for arid climates)
@@ -91,12 +92,14 @@ Sepp Holzer, the "Agri-Rebel" of Austria, farms 110 acres at 1,500m elevation in
 
 ### Water Management on Terraces
 - Each terrace has a slight level area that holds water
-- Swales or diversion drains direct water to each terrace
+- Swales or [[mollison-designers-diversion-drains-and-interceptor-banks]] direct water to each terrace
 - Excess water flows to the next terrace below
 - Ponds at intervals for water storage and microclimate
 
 ## Related
-- [[permaculture-slope-analysis-and-reading]] — for slope analysis
-- [[sepp-holzer-livestock-integration]] — for Holzer's animal integration
-- [[faires-hugelkultur-and-soil-building]]
+
+- [[sepp-holzer-earth-cellars-and-philosophy]]
+- [[permaculture-slope-analysis-and-reading]] — for [[mollison-designers-slope-analysis-keyline-design]]
+- sepp-holzer-livestock-integration — for Holzer's [[mollison-animal-integration-permaculture-design]]
+- faires-hugelkultur-and-soil-building
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]

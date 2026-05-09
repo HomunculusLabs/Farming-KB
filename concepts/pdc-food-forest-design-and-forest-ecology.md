@@ -23,7 +23,7 @@ Smaller versions of overstory trees plus shade-tolerant species such as dogwood 
 Woody shrubs including gooseberry, coralberry, and highbush cranberry. In food forests, berry-producing shrubs occupy this layer, providing abundant food in a relatively small footprint.
 
 ### 4. Herbaceous Layer
-The most diverse layer, composed mostly of non-woody species -- grasses, sedges, and wildflowers. In food forests this includes [[lichens]]. This layer is critical for nutrient cycling, water retention, and soil health. In food forests, ground covers and low-growing plants protect and build soil.
+The most diverse layer, composed mostly of non-woody species -- grasses, sedges, and wildflowers. In food forests this includes [[lichens]]. This layer is critical for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], water retention, and soil health. In food forests, [[permaculture-plants-food-forest-ground-covers-bamboos]] and low-growing plants protect and build soil.
 
 ### 6. Root Layer
 Below-ground food production: root crops such as carrots, potatoes, Jerusalem artichokes, and other tubers. This layer takes advantage of the three-dimensional production space below ground level.
@@ -36,7 +36,7 @@ Climbing vines such as grapes, hops, kiwi, and passionfruit that grow up through
 Williams teaches that all forests follow the same process pattern of evolution and growth called succession, with two types:
 
 ### Primary Succession
-Forest development on a "blank slate" -- bare rock, lava field, or severely disturbed land with no pre-existing soil or organic matter. This is the slowest form of succession.
+Forest development on a "blank slate" -- bare rock, lava field, or severely disturbed land with no pre-existing soil or [[hamilton-composting-and-organic-matter-management]]. This is the slowest form of succession.
 
 ### Secondary Succession
 Forest development on land that previously supported an ecosystem whose ecology collapsed. This is faster than primary succession because some [[natural-farming-philosophy-and-principles]].
@@ -46,7 +46,7 @@ Forest development on land that previously supported an ecosystem whose ecology 
 Food forests are gardens modeled after the three-dimensional aspect of forests. Key design considerations from the Williams PDC:
 
 1. **Layer planning**: Select species for all seven layers, ensuring each has appropriate light, moisture, and root space
-2. **Guild design**: Create plant communities where species support each other through nitrogen fixation, pest control, shade provision, and nutrient cycling
+2. **Guild design**: Create plant communities where species support each other through [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], shade provision, and nutrient cycling
 3. **Succession awareness**: Design the food forest to progress through succession stages rather than installing a mature system all at once
 4. **Native species priority**: The most prized plants are native species that perform desired functions and grow naturally in the area
 5. **Pioneer species**: Include small, hardy perennials with rapid propagation rates to prepare sites for more complex plantings
@@ -85,7 +85,7 @@ Williams extends forest concepts to urban environments:
 
 ### Urban Forest Benefits
 - Cooling through shade and evapotranspiration
-- Improved air quality
+- Improved [[cervantes-air-quality-ventilation]]
 - Wind blocking and temperature moderation
 - Natural stormwater cleansing before percolation
 - Reduced stormwater runoff

@@ -118,10 +118,32 @@ the benefit of absolute spore elimination. The key is matching the sterilization
 objective to the appropriate protocol: disinfection targets vegetative organisms
 and can use dry treatment, while true sterilization requiring spore elimination
 demands the trace water enhanced approach.
-
 ## See Also
 
 - [[trace-water-enhanced-microwave-surface-sterilization]]
 - [[microwave-2-45-ghz-water-dipolar-coupling]]
 - [[sterilization-techniques-mushroom-cultivation]]
 - [[contamination-prevention-mycology]]
+
+## Merged: Differential Resistance of Spores vs. Vegetative Cells to Dry Microwave Irradiation
+
+# Differential Resistance of Spores vs. Vegetative Cells to Dry Microwave Irradiation
+
+## Overview
+
+A key finding from NASA's [[mushroom-cultivation]], the spore-vegetative cell differential has direct practical relevance:
+
+- Grain substrates naturally contain both types of organisms from the field and processing environment
+- Sterilization methods must be designed to kill the more resistant spore forms, not just vegetative cells
+- Partial sterilization (killing vegetatives but not spores) leads to deceptive early results followed by contamination outbreaks
+- This explains why substrate that appears "sterile" can become contaminated days later as surviving spores germinate
+- Pressure cooker sterilization at 15 psi for 60-120 minutes exceeds the thermal death time of the most resistant spore-formers
+
+## Related Topics
+
+- [[bacillus-pumilus-radiation-resistance-surface-decontamination|Bacillus pumilus Radiation Resistance]]
+- [[microwave-penetration-through-elastomeric-materials-sterilization|Microwave Penetration of Elastomers]]
+
+---
+
+*Source: NASA MSC-22484, Sterilizing Surfaces by Irradiation with Microwaves (Atwater, Streech & Garmon)*

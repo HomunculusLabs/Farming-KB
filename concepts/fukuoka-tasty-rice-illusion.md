@@ -1,11 +1,12 @@
 ---
-title: Fukuoka's Tasty Rice Illusion
+title: Fukuoka's fukuoka-tasty-rice-illusion-food-processing Illusion
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka's Tasty Rice Illusion
 
@@ -24,7 +25,7 @@ One could say that it is the farmer, the rice dealer, and the housewife who crea
 
 - [[2c-d-pihkal-entry-23]]
 - [[fukuoka-road-back-to-nature-overview]]
-- [[fukuoka-critique-modern-agriculture]]
+
 ## Practical Applications
 
 Fukuoka's Tasty Rice Illusion has a range of practical applications that make it relevant to
@@ -102,4 +103,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

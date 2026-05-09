@@ -1,19 +1,20 @@
 ---
-title: Fukuoka Do-Nothing Farming and Spiritual Life
+title: Fukuoka Do-Nothing fukuoka do nothing farming and spiritual life Life
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka Do-Nothing Farming and Spiritual Life
 
-Book V of *The One-Straw Revolution* explores the spiritual dimension of Fukuoka's philosophy -- the paradox of advocating "do-nothing" farming while recognising the hard physical work it actually requires, and his critique of modern civilisation's obsession with progress and development. This chapter weaves together conversations with young visitors at his mountain huts, philosophical reflections, and stories that illuminate the [[natural-farming-philosophy]] in miniature -- a community living close to nature, growing brown rice, vegetables, and citrus, with time for leisure and contemplation. Fukuoka tells the young people again and again: "Do not try to imitate me. Simply live in nature and apply yourself to your daily work."
+Book V of *The One-Straw Revolution* explores the spiritual dimension of Fukuoka's philosophy -- the paradox of advocating "do-nothing" farming while recognising the hard physical work it actually requires, and his [[fukuoka-road-critique-of-modern-science]] civilisation's obsession with progress and development. This chapter weaves together conversations with young visitors at his mountain huts, philosophical reflections, and stories that illuminate the [[natural-farming-philosophy]] in miniature -- a community living close to nature, growing [[cho-brown-rice-vinegar-preparation]], vegetables, and citrus, with time for leisure and contemplation. Fukuoka tells the young people again and again: "Do not try to imitate me. Simply live in nature and apply yourself to your daily work."
 
 ## The Original Insight
 
-The "do-nothing" philosophy originated in a moment of spiritual crisis. At age 25, working as a plant pathologist at the Yokohama Customs Bureau, Fukuoka contracted acute pneumonia. During his recovery, he fell into deep depression, wandering the streets at night, unable to sleep or work. One morning in May, collapsed in exhaustion against a tree on a hill overlooking the harbor, he watched the sunrise through clearing mist. A night heron cried sharply and flew away. In that instant: "All my doubts and the gloomy mist of my confusion vanished. Everything I had held in firm conviction was swept away with the wind. 'In this world there is nothing at all.'"
+The "do-nothing" philosophy originated in a moment of spiritual crisis. At age 25, working as a plant pathologist at the Yokohama Customs Bureau, Fukuoka contracted acute pneumonia. During his recovery, he fell into deep depression, wandering the streets at night, unable to sleep or work. One morning in May, collapsed in exhaustion against a tree on a hill overlooking the harbor, he watched the sunrise through clearing mist. A [[fukuoka-night-heron-revelation-origin-story]] cried sharply and flew away. In that instant: "All my doubts and the gloomy mist of my confusion vanished. Everything I had held in firm conviction was swept away with the wind. 'In this world there is nothing at all.'"
 
 The next day he resigned from his job, wandered Japan for a time, and eventually returned to his father's farm to put his realization into practice. This experience, which he calls understanding "nothing," became the foundation of everything that followed.
 

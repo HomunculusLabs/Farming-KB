@@ -1,5 +1,5 @@
 ---
-title: Carbon and Calorie Crop Integration
+title: Carbon and jeavons carbon and calorie crop integration Integration
 created: 2026-04-28
 tags: [biointensive, calorie-crops, carbon-crops, sustainability, jeavons]
 date: 2026-04-28
@@ -40,12 +40,12 @@ to maintain soil fertility while also meeting dietary needs. See
 growing specifics.
 
 **Legumes for interplanting**: Fava beans (grown to maturity for
-dry bean and biomass production) interplanted with grains provide
-nitrogen fixation. Grow fava beans among wheat in winter and bush
+dry bean and [[dighton-fungal-biomass-production-aquatic-ecosystems]]) interplanted with grains provide
+[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. Grow fava beans among wheat in winter and bush
 beans with corn in summer to supply the nitrogen needed for good
 compost.
 
-**Other calorie crops**: Jerusalem artichoke (if stored long
+**Other calorie crops**: [[comparison-jerusalem-artichoke-vs-potato]] (if stored long
 term—almost weight-efficient and minimally carbon-efficient),
 filberts, raisins, and sunflower seeds. Note sunflower seeds are
 very high in fat; maximum to avoid copper toxicity is 0.62 pound
@@ -77,10 +77,10 @@ contribution, additional nitrogen amendments would be needed.
 
 The carbon-and-calorie crops are the engine of the compost
 system. Their stems, stalks, leaves, and roots provide the dry
-carbonaceous material essential for balanced compost. When these
+carbonaceous material essential for [[query-how-to-make-a-balanced-compost-recipe]]. When these
 crops are grown on 60% of the garden area and properly composted,
 they can generate enough cured compost to maintain soil fertility
-across the entire growing area. Each 4-month growing season,
+across the entire growing area. Each 4-month [[savory-growing-season-and-non-growing-season-management]],
 up to 1 inch (8 cubic feet) of cured compost per 100 sq ft is
 applied, continuously building soil quality.
 

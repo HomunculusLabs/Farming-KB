@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Inoculum Production - Best Practices for Agriculture
+title: Mycorrhizal directed-inoculum-production-process-for-amf - Best Practices for Agriculture
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -11,15 +11,15 @@ sources: [raw/papers/symbiotic-fungi.md]
 
 Updated: 2026-04-18
 
-Source: Symbiotic Fungi (Varma and Kharkwal, eds.), Chapters 19, 20
+Source: [[mycelium-running-symbiotic-fungi-relationships]] (Varma and Kharkwal, eds.), Chapters 19, 20
 
 ## Introduction
 
-The application of quality assessment standards to arbuscular mycorrhizal inoculum (AM) requires that the product is "fit for purpose." The product must meet or exceed the customer's requirements. Customers may define different quality characteristics for mycorrhizal inoculum: formulation, handling, weight, safety, functionality, or others. Only the application of all instruments of concurrent quality control procedures results in a traceable and reliable supply chain with the consequence of reliability of the whole product chain as basis for sustainability.
+The application of quality assessment standards to [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] inoculum (AM) requires that the product is "fit for purpose." The product must meet or exceed the customer's requirements. Customers may define different quality characteristics for mycorrhizal inoculum: formulation, handling, weight, safety, functionality, or others. Only the application of all instruments of concurrent quality control procedures results in a traceable and reliable supply chain with the consequence of reliability of the whole product chain as basis for sustainability.
 
 This pre-requisite prevents the customer from buying expensive, non-effective inoculum instead of high-quality AM inoculum.
 
-See also: [[mycorrhizal-inoculant-production-methods]], [[techniques-arbuscular-mycorrhiza-inoculum-reduction]], [[pgpr-mycorrhizal-inoculants-microplant-establishment]], [[mycorrhizal-helper-bacteria]]
+See also: mycorrhizal-inoculant-production-methods, [[techniques-arbuscular-mycorrhiza-inoculum-reduction]], [[pgpr-mycorrhizal-inoculants-microplant-establishment]], [[mycorrhizal-helper-bacteria]]
 
 ### Field Application Considerations
 
@@ -104,4 +104,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

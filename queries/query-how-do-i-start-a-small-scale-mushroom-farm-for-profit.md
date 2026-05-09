@@ -16,7 +16,7 @@ type: query
 Starting a small-scale mushroom farm requires relatively low startup costs
 compared to other agricultural ventures. The basic steps include choosing which
 species to grow, setting up a growing space with proper environmental controls,
-mastering sterilization and inoculation techniques, and developing markets for
+mastering sterilization and [[cotter-inoculation-techniques-and-hygiene]], and developing markets for
 your fresh and dried mushrooms. Oyster mushrooms are the most common beginner
 species due to their fast growth and strong market demand.
 
@@ -38,7 +38,7 @@ mushroom life cycle. The
 areas or at least separate phases for inoculation and incubation versus
 fruiting. During incubation, substrate bags or jars need warm, dark conditions
 around 75 to 80 degrees Fahrenheit. During fruiting, the
-[fruiting chamber needs cooler temperatures
+[[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] needs cooler temperatures
 around 60 to 70 degrees, high humidity above 85 percent, fresh air exchange, and
 indirect light. The
 [essential equipment includes a pressure cooker or
@@ -46,19 +46,19 @@ autoclave, a still air box or
 flow hood, and environmental controls.
 
 Mastering
-[sterile technique is the single most important
+[[cultivator-sterile-technique-and-agar-culture]] is the single most important
 skill for a profitable mushroom farm.
 [Contamination is the leading cause
 of crop loss, especially for beginners. Learning to prepare clean
 [substrate, handle [grain spawn
 handle
-mushroom-grain-spawn-preparation|grain  without introducing competitors, and maintain clean working conditions will determine your success rate. The [contaminant identification key
+mushroom-grain-spawn-preparation|grain  without introducing competitors, and maintain clean working conditions will determine your success rate. The [[mushroom-contaminant-identification-key]] key
 without introducing competitors, and maintain clean working conditions will
 determine your success rate. The
 identification helps you quickly recognize problems before they spread to
 healthy cultures.
 
-For [[substrate-preparation]], many small farms use straw or supplemented sawdust
+For [[substrate-preparation]], many small farms use straw or [[oyster-mushroom-supplemented-sawdust-blocks]]
 depending on the species. The
 [straw cultivation method cultivation is
 popular for oyster mushrooms because it is inexpensive and relatively simple.
@@ -90,7 +90,7 @@ cultures. The
 [harvesting and potency and considerations also
 affect product quality and market value.
 
-Budget planning should account for ongoing costs including substrate materials,
+Budget planning should account for ongoing costs including [[growing-gourmet-substrate-materials-wood-types]],
 energy for environmental controls, packaging, and labor. A realistic first-year
 goal for a small operation running one or two fruiting chambers might be 10 to
 50 pounds of fresh mushrooms per week, depending on chamber size and species. As
@@ -107,6 +107,9 @@ growing house.
 - Plan for spawn genetics management to avoid [senescence over time
 
 ## Related
+
+- [[query-how-to-start-a-worm-farm-for-profit]]
+- [[query-how-do-i-start-a-small-scale-mushroom-log-cultivation-operation]]
 
 - query-how-do-i-start-a-small-home-vineyard-for-table-grapes
 

@@ -1,5 +1,5 @@
 ---
-title: Solomon Hybrid vs Open Pollinated Varieties
+title: Solomon Hybrid vs cervantes-open-pollinated-heirloom-seeds Varieties
 created: 2026-04-18
 updated: 2026-04-22
 sources: Gardening When It Counts (Steve Solomon)
@@ -23,7 +23,7 @@ There are minor advantages to hybrid solanums -- they may be a bit more producti
 
 ## Outcrossing Species
 
-In species that naturally outcross (brassicas, corn, cucurbits), breeders have worked out clever methods of mass-producing hybrid seeds. Commercial growers prefer hybrid varieties because they are more vigorous and perfectly uniform. Despite hybrid seed's high price, higher yields make the grower more money.
+In species that naturally outcross (brassicas, corn, cucurbits), breeders have worked out clever methods of mass-producing hybrid seeds. Commercial growers prefer [[cervantes-hybrid-varieties-types]] because they are more vigorous and perfectly uniform. Despite hybrid seed's high price, higher yields make the grower more money.
 
 Because the economic superiority of hybrids has caused interest in using OP seed to virtually disappear within the commercial trade, the remaining OP varieties are produced only for the noncritical home-garden market. Home gardeners are usually offered degenerated, ragged, low-quality OP material.
 
@@ -41,9 +41,9 @@ Sometimes seed labelled as hybrid and sold for hybrid prices may as well be OP. 
 
 Solomon credits Dr. Alan Kapuler for a key insight: modern OP varieties bred after 1870 are NOT as nutritious or tasty as old-fashioned heirlooms. The reason involves natural selection over thousands of years.
 
-For millennia, each family raised seed for its own unique varieties, selected over generations to suit family needs and the soil they grew on. Before antibiotics and sanitation, children had to survive childhood diseases. The family with better vegetable varieties tended to have children who survived to carry on those varieties. Less-nutritious varieties tended to disappear.
+For millennia, each family raised seed for its own unique varieties, selected over generations to suit family needs and the soil they grew on. Before antibiotics and sanitation, children had to survive childhood diseases. The family with better [[solomon-vegetable-varieties-self-sufficiency]] tended to have children who survived to carry on those varieties. Less-nutritious varieties tended to disappear.
 
-After about 1870, vegetable growing ceased to be a subsistence activity. Varieties were now selected for marketability -- appearance, shipping quality, yield per acre -- not nutritional quality. Modern breeding, whether hybrid or OP, has largely continued this market-oriented selection.
+After about 1870, [[fukuoka-semi-wild-vegetable-growing-natural-method]] ceased to be a subsistence activity. Varieties were now selected for marketability -- appearance, shipping quality, yield per acre -- not [[coleman-winter-greens-nutritional-quality-cold-sweetening]]. Modern breeding, whether hybrid or OP, has largely continued this market-oriented selection.
 
 So it is true on average that modern hybrids are not as nutritious or tasty as old-fashioned OP heirlooms. But it is also true that modern OP varieties developed since 1870 are not either. And much of what passes for "heirloom" OP varieties these days is really just commercial varieties used before WWII or relatively modern varieties that have been misnamed by unethical primary growers producing cheap garden seed.
 
@@ -66,7 +66,7 @@ Solomon notes that for gardeners growing primarily for home consumption rather t
 
 Solomon provides concrete guidance on variety selection for different species:
 
-- **Tomatoes**: For home gardeners in most climates, well-chosen OP varieties can match or exceed hybrid performance. Reliable OP tomatoes include Oregon Spring, Stupice, and Glacier for cool climates; Brandywine, Cherokee Purple, and Amish Paste for flavor; and Roma VF for processing. Hybrid tomatoes like Big Beef and Early Girl offer disease resistance and uniformity but are not necessary for most home gardens
+- **Tomatoes**: For home gardeners in most climates, well-chosen OP varieties can match or exceed hybrid performance. Reliable OP tomatoes include Oregon Spring, Stupice, and Glacier for [[greenhouse-cool-climates-mollison]]; Brandywine, Cherokee Purple, and Amish Paste for flavor; and Roma VF for processing. Hybrid tomatoes like Big Beef and Early Girl offer disease resistance and uniformity but are not necessary for most home gardens
 - **Sweet corn**: This is the crop where hybrids dominate most. OP sweet corns lose sweetness rapidly after harvest (the su gene converts sugar to starch quickly). If growing corn for fresh eating, hybrids with the se (sugar enhanced) or sh2 (supersweet) genes provide superior eating quality. For cornmeal or polenta, OP field corns like Bloody Butcher or Reid's Yellow Dent are excellent and easy to save
 - **Brassicas**: Modern hybrid broccoli like Green Valiant and Packman is hard to beat for uniformity and yield. However, Tim Peters' Umpqua OP demonstrates that good OP broccoli is achievable. For cabbage, OP varieties like Early Jersey Wakefield and Golden Acre remain competitive
 - **Peppers**: Hybrid peppers offer genuine advantages in marginal climates -- earlier maturity, better set in cool conditions, and disease resistance. In favorable climates, OP peppers like California Wonder (bell), Jalapeno, and Ancho are productive and easy to save

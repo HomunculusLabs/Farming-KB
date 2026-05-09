@@ -1,5 +1,5 @@
 ---
-title: Cannabis For Post Surgery Wounds
+title: Cannabis For blesching-cannabis-post-surgery-wounds Wounds
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -18,7 +18,7 @@ Cannabis has been used topically and internally for wound care throughout histor
 
 **CHI Value: 4** (1 study reviewed)
 
-Research on wound healing with cannabis preparations has shown promising results for post-surgical wound care. The anti-inflammatory, analgesic, and antimicrobial properties of cannabis make it relevant to wound management.
+Research on wound healing with cannabis preparations has shown promising results for post-surgical wound care. The anti-inflammatory, analgesic, and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] of cannabis make it relevant to wound management.
 
 ## Anti-Inflammatory Action
 
@@ -26,7 +26,7 @@ A 2009 Worcester, Massachusetts meta-analysis reviewed all cannabinoid studies p
 
 ## Beta-Caryophyllene for Deep Wound Healing
 
-Beta-caryophyllene, a dietary cannabinoid found in black pepper, cloves, cinnamon, and many other spices, signals CB2 receptors to initiate:
+Beta-caryophyllene, a dietary cannabinoid found in [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], cloves, cinnamon, and many other spices, signals CB2 receptors to initiate:
 - Immune strengthening
 - Inflammation reduction
 - Deep wound healing
@@ -78,7 +78,9 @@ Indica strains tend to have higher CBD content, which is particularly relevant f
 ## Mind-Body Perspective
 Wounds represent a breach of our boundaries -- physical, emotional, or psychological. The skin is our interface with the world. Wound healing asks: What boundaries have been violated? What needs to be repaired at the deepest level? The healing of wounds parallels the healing of emotional wounds.
 
-## Related Topics
+## Related
+
+- [[blesching-cannabis-post-surgery-wounds]] Topics
 
 - [[cannabis-skin-conditions]]
 - [[cannabis-topical-applications]] for detailed preparation and application guidance.

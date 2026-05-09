@@ -4,11 +4,12 @@ created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 # Growing Alliums Organically
 
-The allium family includes onions, garlic, leeks, shallots, and chives. These are among the most widely grown vegetables and are relatively straightforward in an organic [[growing-brassicas-organically]] system. They are useful in crop rotation and their strong scent can help deter certain pests.
+The allium family includes onions, garlic, leeks, shallots, and chives. These are among the most widely grown vegetables and are relatively straightforward in an organic [[growing-brassicas-organically]] system. They are useful in [[comparison-crop-rotation-vs-cover-cropping]] and their strong scent can help deter certain pests.
 
 ## General Growing Principles
 
@@ -26,7 +27,7 @@ Alliums generally prefer an open, sunny position with well-drained soil. They do
 
 **Harvest:** When foliage has yellowed and fallen over naturally, lift bulbs on a dry day. Leave on the ground to dry in the sun for a few days, then hang in nets or strings in a cool, dry, well-ventilated place.
 
-**Pests:** Onion fly (maggots attack roots -- rotate crops and avoid planting near previous onion sites), onion mildew (purple-grey fungal growth -- do not compost infected material), thrips (tiny insects -- spray with insecticidal soap).
+**Pests:** Onion fly (maggots attack roots -- [[query-what-is-the-best-way-to-rotate-crops-in-a-vegetable-garden]] and avoid planting near previous onion sites), onion mildew (purple-grey [[brassinosteroid-fungal-growth-promotion]] -- do not compost infected material), thrips (tiny insects -- spray with insecticidal soap).
 
 ## Garlic (Allium sativum)
 
@@ -54,7 +55,7 @@ Alliums generally prefer an open, sunny position with well-drained soil. They do
 
 ## Shallots (Allium cepa var. aggregatum)
 
-**Planting:** Plant sets in late winter or early spring, pushing into soil so half the bulb is visible. Space 6-9in (15-23cm) apart in rows 12in apart.
+**Planting:** Plant sets in late winter or [[coleman-overwintered-onions-and-early-spring-crops]], pushing into soil so half the bulb is visible. Space 6-9in (15-23cm) apart in rows 12in apart.
 
 **Harvest:** When foliage yellows and falls over in midsummer. Lift, dry, and store like onions. Each set produces a cluster of 6-12 bulbs.
 
@@ -64,7 +65,7 @@ Hardy perennial herb. Sow or divide in spring, 12in (30cm) apart. Cut with sciss
 
 ## Storage
 
-All alliums store best in cool, dry, well-ventilated conditions. Onions and shallots can be hung in strings or stored in nets. Garlic keeps best in cool, dry conditions with good air circulation. Leeks are best left in the ground and lifted as needed.
+All alliums store best in cool, dry, well-ventilated conditions. Onions and shallots can be hung in strings or stored in nets. Garlic keeps best in cool, dry conditions with good [[stamets-growing-room-air-circulation-co2-management]]. Leeks are best left in the ground and lifted as needed.
 
 ## Shallots (Allium ascalonicum)
 
@@ -84,7 +85,7 @@ Green onions are picked before the mature bulb forms. They have a milder flavor 
 
 ## Soil Preparation for All Bulb Vegetables
 
-All the bulb vegetables prefer sunshine and a soil rich in organic matter. Dig in plenty of well-rotted compost or manure. If necessary, add lime to raise the soil pH above 6.5. Avoid recently manured ground for onions — it can cause thick necks and poor storage. In a three-year rotation, grow bulb vegetables in Plot A.
+All the bulb vegetables prefer sunshine and a soil rich in [[hamilton-composting-and-organic-matter-management]]. Dig in plenty of well-rotted compost or manure. If necessary, add lime to raise the soil pH above 6.5. Avoid recently manured ground for onions — it can cause thick necks and poor storage. In a three-year rotation, grow bulb vegetables in Plot A.
 
 ## Companion Planting with Alliums
 

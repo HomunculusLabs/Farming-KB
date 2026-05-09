@@ -1,11 +1,12 @@
 ---
-title: Organic Mineral Amendments
+title: cervantes organic mineral amendments Amendments
 created: 2026-04-26
 tags: [cannabis, soil, amendments, organic, cervantes]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -35,7 +36,7 @@ increasing alkalinity.
 When calcium from one source combines with sulfur
 from another, they form crude, insoluble gypsum
 (calcium sulfate). This can cause a residue that
-affects nutrient availability if nutrient
+affects [[ph-and-nutrient-availability-garden-soils]] if nutrient
 combinations are not managed properly.
 
 ## Rock Phosphate
@@ -104,7 +105,7 @@ soil acidity.
 Kelp meal is derived from seaweed and contains
 60 to 70 trace minerals that are already chelated,
 existing in a water-soluble and mobile form in the
-soil. It also contains natural growth hormones
+soil. It also contains [[ingham-natural-growth-regulators-soil-microbes]] hormones
 (cytokinins) that can stimulate plant development.
 Kelp meal releases nutrients moderately quickly
 and helps plants withstand light frosts.

@@ -15,7 +15,7 @@ sources:
 
 ## Biochemical Function
 
-PsiH inserts a hydroxyl group at the C4 position of the indole ring of tryptamine, using molecular oxygen and NADPH as co-substrates. This reaction is the key regioselective step that distinguishes the psilocybin pathway from other fungal indole alkaloid pathways.
+PsiH inserts a hydroxyl group at the C4 position of the indole ring of tryptamine, using molecular oxygen and NADPH as co-substrates. This reaction is the key regioselective step that distinguishes the psilocybin pathway from other fungal [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] pathways.
 
 **Reaction:**
 Tryptamine + O₂ + NADPH + H⁺ → 4-Hydroxytryptamine + NADP⁺ + H₂O
@@ -52,7 +52,7 @@ Engineering PsiH for improved expression, solubility, and catalytic efficiency i
 
 ## Practical Assessment
 
-Psih Enzyme is best evaluated by its role in whole-system design, not as an isolated technique. Key questions include where it fits in a site plan, which inputs it requires, what outputs it produces, and how its risks change across climates, seasons, and management styles.
+Psih Enzyme is best evaluated by its role in whole-system design, not as an isolated technique. Key questions include where it fits in a site plan, which inputs it requires, what outputs it produces, and how its risks [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] climates, seasons, and management styles.
 
 ## Implementation Notes
 
@@ -65,7 +65,7 @@ Start with small trials before relying on psih enzyme at production scale. Recor
 ## See Also
 
 - [[psik-enzyme]] — downstream kinase that phosphorylates PsiH's 4-HT product
-- [[tryptophan]] — the original amino acid precursor entering the pathway
+- [[tryptophan]] — the original [[cho-fish-amino-acid-preparation]] precursor entering the pathway
 - [[serotonin]] — the endogenous structural analog of 4-hydroxytryptamine
 ## Practical Considerations
 
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -4,10 +4,10 @@
 
 Trichocereus cacti are mescaline-containing columnar cacti native to the Andes Mountains of South America.
 The two most commonly encountered species are Trichocereus pachanoi (San Pedro) and Trichocereus peruvianus (Peruvian torch).
-Although not indigenous to the United States, these cacti are extremely common ornamental plants sold in garden shops across the country.
+Although not indigenous to the [[dmt-containing-plants-united-states-halpern]], these cacti are extremely common ornamental plants sold in garden shops across the country.
 Their widespread availability as decorative plants, combined with significant mescaline content,
 makes them one of the most accessible naturally occurring hallucinogenic plant sources in America.
-Many garden centers sell them without any awareness of their psychoactive properties.
+Many [[solomon-garden-centers-seedling-traps]] sell them without any awareness of their psychoactive properties.
 
 ## Botanical Description
 
@@ -34,7 +34,7 @@ suggesting its central role in religious and healing practices.
 Stone carvings at Chavin de Huantar show figures holding San Pedro cacti,
 and the cactus iconography appears on textiles, ceramics, and monolithic stones throughout the region.
 
-Traditional preparation typically involves slicing the cactus into sections,
+[[kava-traditional-preparation-ceremonial-context]] typically involves slicing the cactus into sections,
 removing the spines, and boiling the flesh for extended periods to produce a concentrated tea.
 The resulting brew, sometimes called "cimora" when combined with other admixture plants,
 is consumed in ceremonial contexts for healing, divination, and spiritual purposes.
@@ -123,17 +123,19 @@ Mescaline itself is a Schedule I controlled substance in the United States.
 However, the Trichocereus plants themselves are not specifically scheduled,
 meaning they can be legally purchased, possessed, and cultivated as ornamental plants.
 This legal gray area means garden shops sell them without restriction.
-The Native American Church's peyote exemption does not extend to Trichocereus cacti.
+The [[halpern-sacramental-peyote-and-native-american-church]] Church's peyote exemption does not extend to Trichocereus cacti.
 
 ## Safety and Risks
 
 The primary risks associated with Trichocereus consumption include nausea and vomiting
 (nearly universal), psychological distress (particularly in unprepared users),
 and the potential for dangerous behavior while intoxicated.
-The experience is long-lasting (8-12 hours), increasing the importance of proper set and setting.
+The experience is long-lasting (8-12 hours), increasing the importance of proper [[lsd-set-and-setting-framework]].
 ## See Also
 
-- [[peyote]]
+- [[trichocereus-mescaline-cacti-san-pedro-peruvian-torch]]
+
+- peyote
 - [[entheogen-trichocereus-genus-mescaline-cacti]]
 - [[false-peyotes-mexican-cactus-ethnobotany]]
 

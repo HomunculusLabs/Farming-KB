@@ -1,10 +1,10 @@
 ---
-title: Mycoremediation of Pharmaceutical Contaminants
+title: staycare mycoremediation of pharmaceutical contaminants Contaminants
 created: 2026-04-26
 synonyms:
   - fungal degradation of pharmaceuticals
   - pharmaceutical bioremediation by fungi
-  - pharmaceutical wastewater fungal treatment
+  - [[singh-pharmaceutical-wastewater-fungal-treatment]] fungal treatment
 type: concept
 tags: [contamination, mycology, pollution]
 sources:
@@ -16,7 +16,7 @@ updated: 2026-04-26
 
 ## Overview
 
-Pharmaceutical compounds are increasingly recognized as emerging environmental contaminants. Drugs from human and veterinary medicine enter the environment through wastewater effluent, agricultural runoff, improper disposal, and manufacturing waste. While conventional wastewater treatment is often ineffective at removing these compounds, fungi — particularly white rot basidiomycetes — have demonstrated the ability to degrade or transform a wide range of pharmaceutical structures through their non-specific ligninolytic enzyme systems.
+Pharmaceutical compounds are increasingly recognized as emerging environmental contaminants. Drugs from human and veterinary medicine enter the environment through wastewater effluent, agricultural runoff, improper disposal, and manufacturing waste. While conventional [[mollison-designers-wastewater-treatment-wetlands]] is often ineffective at removing these compounds, fungi — particularly white rot basidiomycetes — have demonstrated the ability to degrade or transform a wide range of pharmaceutical structures through their non-specific ligninolytic enzyme systems.
 
 ## Why Pharmaceuticals Are Problematic
 
@@ -41,7 +41,7 @@ Antibiotics in the environment contribute to the development and spread of antib
 Endocrine-disrupting compounds (EDCs) including natural and synthetic estrogens, androgens, and progestins are found in water bodies downstream of wastewater treatment plants. These compounds contain aromatic ring structures that are potential substrates for fungal oxidative enzymes:
 
 - **Estradiol and ethinyl estradiol**: Aromatic steroid structures susceptible to oxidation by laccase and peroxidase
-- The non-specific nature of ligninolytic enzymes makes them suitable for attacking diverse steroid structures
+- The non-specific nature of [[singh-ligninolytic-enzymes-fungal-bioremediation]] makes them suitable for attacking diverse steroid structures
 
 ### Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
@@ -70,7 +70,7 @@ The primary mechanism involves ligninolytic enzymes:
 
 1. **Laccase**: Direct oxidation of phenolic pharmaceuticals; with mediators, extends to non-phenolic compounds
 2. **Lignin peroxidase (LiP)**: One-electron oxidation generating cation radicals; unique in oxidizing non-phenolic aromatics
-3. **Manganese peroxidase (MnP)**: Via Mn³⁺ and lipid peroxidation pathways
+3. **[[fungal-manganese-peroxidase-remediation]] (MnP)**: Via Mn³⁺ and lipid peroxidation pathways
 
 ### Detoxification Through Polymerization
 
@@ -100,4 +100,4 @@ Mycorrhizal fungi can degrade pharmaceuticals and pesticides through incorporati
 - Hoff, T., Liu, S.Y. & Bollag, J.M. (1985). Polymerization of chloroanilines by laccase of [[trametes-versicolor-entity]].
 - Khadrani, A. et al. (1999). Degradation of phenylurea herbicides by micromycetes.
 - Maloney, S.E. Chapter 8: Pesticide degradation by fungi. In Staycare.
-- Mougin, C. et al. (1994). Biotransformation of atrazine by Phanerochaete chrysosporium.
+- Mougin, C. et al. (1994). Biotransformation of atrazine by [[staycare-phanerochaete-chrysosporium-in-bioremediation]].

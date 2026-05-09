@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Crum, H.A. & Anderson, L.E. (1981). Mosses of Eastern North America. Columbia University Press.
+  - Crum, H.A. & Anderson, L.E. (1981). Mosses of polypore-fungi-eastern-north-america America. Columbia University Press.
   - Glime, J.M. (2017). "Fontinalis antipyretica." Bryophyte Ecology, Volume 2. Michigan Technological University.
   - Smith, A.J.E. (2004). The Moss Flora of Britain and Ireland. Cambridge University Press, 2nd edition.
   - Vanderpoorten, A. & Goffinet, B. (2009). Introduction to Bryophytes. Cambridge University Press.
@@ -27,7 +27,7 @@ The species grows entirely submerged in flowing or standing water, forming dense
 
 Its specific epithet *antipyretica* ("against fever") reflects its historical use in folk medicine as a fever remedy, though modern pharmacology has not validated these properties.
 
-The moss is a valuable bioindicator of water quality, as it is sensitive to organic pollution and eutrophication but tolerant of moderate heavy metal contamination.
+The moss is a valuable bioindicator of water quality, as it is sensitive to organic pollution and eutrophication but tolerant of moderate [[dighton-fungal-biosorption-heavy-metal-remediation]] contamination.
 
 ## Taxonomy and Morphology
 
@@ -57,7 +57,7 @@ Vegetative reproduction is the primary mode of propagation. Fragmentation of ste
 
 In Europe, it is widespread from Scandinavia and the British Isles south to the Mediterranean region, though it becomes less common in warmer, drier southern areas.
 
-In North America, it ranges from Alaska and Canada across the northern United States, with disjunct populations extending south along the Appalachian Mountains.
+In North America, it ranges from Alaska and Canada across the northern [[dmt-containing-plants-united-states-halpern]], with disjunct populations extending south along the Appalachian Mountains.
 
 **Habitat** is exclusively aquatic. The species grows submerged in streams, rivers, lakes, ponds, canals, and ditches, typically in clean, cool, moderately flowing water.
 
@@ -73,7 +73,7 @@ It typically occurs at elevations below 1000 m but has been recorded at higher a
 
 *F. antipyretica* is widely used as a bioindicator of freshwater quality. Its presence generally indicates moderate to high water quality, as it is intolerant of severe organic pollution and high nutrient loads.
 
-The moss bioaccumulates heavy metals from the water column, including lead, zinc, copper, cadmium, and iron. Concentrations in moss tissue can be 10–1000× higher than ambient water levels.
+The moss bioaccumulates [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] from the water column, including lead, zinc, copper, cadmium, and iron. Concentrations in moss tissue can be 10–1000× higher than ambient water levels.
 
 This bioaccumulation capacity has been exploited in biomonitoring programs across Europe and North America. Transplanted moss bags of *Fontinalis* are deployed in streams to measure metal contamination gradients.
 
@@ -91,7 +91,7 @@ The species name *antipyretica* derives from the Greek *anti-* (against) and *py
 
 Historical herbal references recommend preparations of *Fontinalis* as a diaphoretic, diuretic, and febrifuge. The moss was typically gathered, dried, and brewed into teas or applied as poultices.
 
-Native American peoples reportedly used *Fontinalis* for bedding and wound dressing, taking advantage of its water-retentive and soft-textured properties.
+[[halpern-sacramental-peyote-and-native-american-church]] peoples reportedly used *Fontinalis* for bedding and wound dressing, taking advantage of its water-retentive and soft-textured properties.
 
 The medicinal use of *F. antipyretica* as an antifever treatment has not been substantiated by modern pharmacological research. No active compounds with confirmed antipyretic activity have been isolated from the species.
 

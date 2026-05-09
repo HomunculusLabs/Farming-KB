@@ -18,7 +18,7 @@ sources:
 
 **Lycoperdon marginatum** Vitt., commonly known as a puffball fungus, is one of two species of Lycoperdon used traditionally in Mexico for their psychoactive properties. Along with [[lycoperdon-mixtecorum]], with a well-developed sterile base and a distinct margin at the junction of the fertile and sterile regions. The outer surface (peridium) may be smooth or covered with small spines or warts that wear away as the puffball matures.
 
-The internal spore mass (gleba) is initially white and firm, turning dark brown and powdery as the spores mature. At maturity, a pore develops at the apex of the fruiting body through which spores are released in response to physical disturbance or wind pressure.
+The internal spore mass (gleba) is initially white and firm, turning dark brown and powdery as the spores mature. At maturity, a pore develops at the apex of the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] through which spores are released in response to physical disturbance or wind pressure.
 
 The basidiospores are spherical to subglobose, with a smooth or finely roughened surface. Spore size and ornamentation are important taxonomic characters for distinguishing Lycoperdon species.
 
@@ -26,7 +26,7 @@ The basidiospores are spherical to subglobose, with a smooth or finely roughened
 
 The species occurs in the temperate zones of Mexico. It is found in northern Mexico, particularly among the Tarahumara people of Chihuahua. The fungus grows in a variety of habitats including grasslands, forest margins, and disturbed soils.
 
-Fruiting typically occurs during the rainy season when adequate moisture supports fungal growth. The fungus is saprophytic, obtaining nutrients from decaying organic matter in the soil. Its distribution in northern Mexico overlaps with regions where the Tarahumara also use psychoactive cacti and mushrooms.
+Fruiting typically occurs during the rainy season when adequate moisture supports [[brassinosteroid-fungal-growth-promotion]]. The fungus is saprophytic, obtaining nutrients from decaying [[hamilton-composting-and-organic-matter-management]] in the soil. Its distribution in northern Mexico overlaps with regions where the Tarahumara also use [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] and mushrooms.
 
 ## Ethnobotanical Uses
 
@@ -40,7 +40,7 @@ The Tarahumara preparation of Kalamota and its specific ceremonial context have 
 
 In southern Mexico, the Mixtec of Oaxaca employ two species of Lycoperdon to induce a condition described as **half-sleep**. There seems to be no ceremony connected with the use of these fungi, distinguishing them from more ritualized psychoactive plant use.
 
-The "half-sleep" state induced by Lycoperdon species is a distinctive altered state of consciousness that differs from the visionary experiences produced by psilocybin mushrooms or Peyote. It is described as a dreamlike state in which the user remains partially aware of their surroundings while experiencing vivid internal imagery.
+The "half-sleep" state induced by Lycoperdon species is a distinctive altered state of consciousness that differs from the visionary experiences produced by [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] or Peyote. It is described as a dreamlike state in which the user remains partially aware of their surroundings while experiencing vivid internal imagery.
 
 ### Non-Ceremonial Context
 
@@ -56,7 +56,7 @@ Several hypotheses have been proposed regarding the possible active constituents
 
 - Unknown indole alkaloids related to but distinct from psilocybin
 - Unusual peptide or protein-based psychoactive compounds
-- Volatile organic compounds with psychoactive properties
+- [[fungal-volatile-organic-compounds-communication]] compounds with psychoactive properties
 - Compounds that interact with GABAergic neurotransmitter systems
 
 The unique "half-sleep" state produced by these fungi suggests that their mechanism of action may differ significantly from that of classical psychedelics.
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

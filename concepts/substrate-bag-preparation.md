@@ -9,7 +9,7 @@ sources: [raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disab
 
 # Substrate Bag Preparation
 
-Complete step-by-step guide to producing substrate bags for mushroom cultivation. Based on FAO training manual for tropical mushroom cultivation in Thailand. See [[mushroom-substrates]] for substrate science and [[mushroom-pasteurization]] for pasteurization methods.
+Complete step-by-step guide to producing substrate bags for [[accessible-mushroom-cultivation-for-disabilities]]. Based on FAO [[mushroom-cultivation-disabilities-training-manual-overview]] for tropical mushroom cultivation in Thailand. See [[mushroom-substrates]] for substrate science and [[mushroom-pasteurization]] for pasteurization methods.
 
 ## Materials Needed
 
@@ -38,8 +38,8 @@ Complete step-by-step guide to producing substrate bags for mushroom cultivation
 | Water (for moisture) | to reach 65-75% |
 
 ### Recipe Notes
-- Recipe serves as reference; can be modified with rice flour, sticky rice flour, corn flour, cassava peels, cotton waste, soybean residue, and other agricultural waste
-- In cool climates: additives up to 20% possible
+- Recipe serves as reference; can be modified with rice flour, sticky rice flour, corn flour, cassava peels, cotton waste, soybean residue, and other [[fungi-in-composting-and-agricultural-waste-conversion]]
+- In [[greenhouse-cool-climates-mollison]]: additives up to 20% possible
 - In hot climates: do NOT exceed 7.5% additives (contamination risk)
 
 ## Rice Straw Substrate (Alternative)
@@ -115,7 +115,7 @@ Multiple species can be cultivated in substrate bags. See [[mushroom-species-cul
 ## Related
 
 - [[mushroom-pasteurization]] — Country-style pasteurization in 200L drums
-- [[pda-and-tissue-culture]] — PDA and tissue culture for spawn production
+- [[pda-and-tissue-culture]] — PDA and [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] for [[growing-gourmet-sawdust-spawn-production-use]]
 - [[mushroom-substrates]] — Substrate science, C:N ratios, alternatives
 - [[mushroom-spawn-making-detailed]] — Grain and sawdust spawn production
 - [[mushroom-sterile-technique-detailed]] — Sterile inoculation procedures

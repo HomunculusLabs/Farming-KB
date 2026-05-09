@@ -1,5 +1,5 @@
 ---
-title: What Are the Best Native Nitrogen-Fixing Plants for Permaculture Food Forests?
+title: What Are the Best Native Nitrogen-Fixing Plants for holzer-sweet-chestnut-and-nut-trees?
 tags:
   - nitrogen-fixers
   - permaculture
@@ -14,8 +14,8 @@ updated: 2026-04-28
 sources:
   - Martin, A.C. (1951). "American Wildlife and Plants." McGraw-Hill.
   - NCRS Plant Materials Program — USDA Conservation Plant Guides.
-  - Holzer, S. (2010). Sepp Holzer's Permaculture. Chelsea Green.
-  - Jacke, D. & Toensmeier, E. (2005). Edible Forest Gardens Vol. 1 & 2. Chelsea Green.
+  - Holzer, S. (2010). [[sepp-holzer-entity]]'s Permaculture. Chelsea Green.
+  - Jacke, D. & Toensmeier, E. (2005). Edible [[forest-gardens]] Vol. 1 & 2. Chelsea Green.
   - Allen, O.N. & Allen, E.K. (1981). The Leguminosae: A Source Book of Characteristics, Uses, and Nodulation. University of Wisconsin Press.created: 2026-05-07
 type: query
 
@@ -26,14 +26,14 @@ created: 2026-05-07
 
 ## Short Answer
 
-The best native nitrogen-fixing plants for North American permaculture food forests depend on your region and the layer you need to fill. Top choices include **red alder** and **black locust** for canopy/nitrogen trees, **American elderberry**, **pussy willow**, and **buffaloberry** for the shrub layer, **leadplant**, **New Jersey tea**, and **wild indigo** for the herbaceous layer, and **white clover**, **partridge pea**, and **wild lupine** for groundcovers. Select species native to your specific ecoregion for best results, as locally adapted plants form more effective rhizobial partnerships and provide superior wildlife habitat.
+The best native nitrogen-fixing plants for North American permaculture food forests depend on your region and the layer you need to fill. Top choices include **red alder** and **black locust** for canopy/nitrogen trees, **American elderberry**, **pussy willow**, and **buffaloberry** for the shrub layer, **leadplant**, **New Jersey tea**, and **wild indigo** for the herbaceous layer, and **white clover**, **partridge pea**, and **wild lupine** for groundcovers. Select species native to your specific ecoregion for best results, as locally adapted plants form more effective rhizobial partnerships and provide superior [[hemenway-backyard-wildlife-habitat]].
 
 ## Why Native Nitrogen Fixers Matter in Food Forests
 
 Nitrogen is the most commonly limiting nutrient in temperate food forests. While many permaculture designs rely on nitrogen-fixing legumes, not all species are equally valuable. Native nitrogen fixers offer several advantages over introduced species:
 
 1. **Effective local rhizobial partnerships** — native plants co-evolved with local rhizobia, often nodulating more reliably and fixing more nitrogen than non-natives with mismatched symbionts
-2. **Wildlife food and habitat** — native species support native pollinators, birds, and beneficial insects in ways that exotics often cannot
+2. **Wildlife food and habitat** — native species support native pollinators, birds, and [[beneficial-insects-guide]] in ways that exotics often cannot
 3. **Invasiveness risk** — non-native nitrogen fixers (Scotch broom, Russian olive, autumn olive, kudzu) are among the most damaging invasive plants in North America; using natives eliminates this risk
 4. **Climate adaptation** — natives are matched to local rainfall, temperature, and soil conditions
 5. **Regulatory compliance** — some jurisdictions restrict planting of known invasive nitrogen fixers
@@ -132,7 +132,7 @@ Nitrogen is the most commonly limiting nutrient in temperate food forests. While
 - **Range:** Eastern and central North America
 - **Size:** 0.3–1.5 m; annual or short-lived perennial
 - **N-fixation:** Rhizobial; significant
-- **Food forest role:** Annual nitrogen-fixing cover crop for food forest establishment; self-seeds readily; excellent for filling gaps during early succession
+- **Food forest role:** Annual nitrogen-fixing [[cover-crop]] for food forest establishment; self-seeds readily; excellent for filling gaps during early succession
 - **Additional benefits:** Larval host for cloudless sulfur and sleepy orange butterflies; excellent pollinator plant; deer-resistant
 - **Caveats:** Annual (dies back each year); can be aggressive in open areas
 
@@ -141,6 +141,8 @@ Nitrogen is the most commonly limiting nutrient in temperate food forests. While
 - **Range:** Eastern North America
 - **Size:** 30–60 cm; striking blue flower spikes
 ## See Also
+
+- query-best-native-fruiting-shrubs-for-permaculture-hedges
 
 - [[cover-cropping-guide|Agroforestry and Alley Cropping]]
 - [[dynamic-accumulator-quick-reference|Dynamic Accumulator Quick Reference]]

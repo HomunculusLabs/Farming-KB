@@ -1,48 +1,19 @@
 ---
-title: Right Livelihood and Permaculture Economics
+title: pdc right livelihood and permaculture economics and permaculture Economics
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [[permaculture, design, economics]
-sources: [raw/papers/bill-mollison-permaculture-design-course.md]
+tags: [permaculture, design, economics]
+sources: sources: []
 ---
-
-# Right Livelihood and Permaculture Economics
-
-updated: 2026-04-22
-
-[[pdc-invisible-structures-and-social-design]]) that govern economic life.
-
-## Five Economic Input Streams
-
-A permaculture economist recognizes five streams of economic input:
-
-### 1. Market Economy
-The conventional economy of goods and services traded for legal currency. Participating typically means having a paying job or running a business. While essential, sole dependence on the market economy creates vulnerability to job loss, inflation, and economic instability.
-
-### 2. Barter Economy
-Direct trade without currency -- "you give me that and I will give you this." Barter exchanges are often equal-value trades, though "one man's junk is another man's treasure." Barter builds local relationships and keeps resources circulating within a community rather than extracting value to distant corporations.
-
-### 3. Gift Economy
-Superficially similar to barter but ethically distinct. The gift economy involves giving from abundance without expectation of return. Things are simply given, never asked for. The gift economy builds trust and social cohesion. When you produce excess through [[pdc-zone-analysis-guide]] produces more than it consumes, creating genuine wealth measured in soil fertility, biodiversity, clean water, and food security rather than monetary terms alone.
-
-## Invisible Structures of Economics
-
-Every economic choice creates physical ripple effects. The 8-hour work day is an invisible structure with physical manifestations: freeway systems sized for commuter traffic, suburbs built around automotive access, childcare industries, and fast-food convenience. A permaculture designer must read these invisible structures the same way they read patterns in nature.
-
-Choosing right livelihood means designing economic activity that creates beneficial invisible structures -- local food networks that reduce transport emissions, skill-sharing circles that build community knowledge, barter systems that keep resources local. These choices have physical consequences just as significant as where you place a [[pdc-invisible-structures-and-social-design]] in that economic patterns shape the physical world. It connects to [[pdc-invisible-structures-and-social-design]] because sustainable livelihoods depend on strong social networks and shared resources.
-
-## Case Study: Permaculture-Based Livelihoods
-
-Real-world examples of right livelihood in permaculture demonstrate how the five economic streams work in practice:
-
-- **Nursery and plant sales:** Propagating perennial food plants, medicinal herbs, and [[permaculture-oak-acorn-processing]], natural building).
-- **Value-added products:** Transforming raw produce into shelf-stable goods — dried herbs, ferments, preserves, carob|carob powder, herbal tinctures. These products command premium prices and reduce waste.
-- **Ecological services:** Land restoration, bioremediation, erosion control, and [[pdc-invisible-structures-and-social-design]] frequently engage with these institutional dimensions of economic localization.
+# Right Livelihood and Permaculture Economics updated: 2026-04-22 pdc-invisible-structures-and-social-design) that govern economic life. ## Five Economic Input Streams A permaculture economist recognizes five streams of economic input: ### 1. Market Economy The conventional economy of goods and services traded for legal currency. Participating typically means having a paying job or running a business. While essential, sole dependence on the market economy creates vulnerability to job loss, inflation, and economic instability. ### 2. Barter Economy Direct trade without currency -- "you give me that and I will give you this." Barter exchanges are often equal-value trades, though "one man's junk is another man's treasure." Barter builds local relationships and keeps resources circulating within a community rather than extracting value to distant corporations. ### 3. Gift Economy Superficially similar to barter but ethically distinct. The gift economy involves giving from abundance without expectation of return. Things are simply given, never asked for. The gift economy builds trust and social cohesion. When you produce excess through pdc-zone-analysis-guide produces more than it consumes, creating genuine wealth measured in soil fertility, biodiversity, clean water, and food security rather than monetary terms alone. ## Invisible Structures of Economics Every economic choice creates physical ripple effects. The 8-hour work day is an invisible structure with physical manifestations: freeway systems sized for commuter traffic, suburbs built around automotive access, childcare industries, and fast-food convenience. A permaculture designer must read these invisible structures the same way they read patterns in nature. Choosing right livelihood means designing economic activity that creates beneficial invisible structures -- local food networks that reduce transport emissions, skill-sharing circles that build community knowledge, barter systems that keep resources local. These choices have physical consequences just as significant as where you place a pdc-invisible-structures-and-social-design in that economic patterns shape the physical world. It connects to pdc-invisible-structures-and-social-design because sustainable livelihoods depend on strong social networks and shared resources. ## Case Study: Permaculture-Based Livelihoods Real-world examples of right livelihood in permaculture demonstrate how the five economic streams work in practice: - **Nursery and plant sales:** Propagating perennial food plants, medicinal herbs, and [[permaculture-oak-acorn-processing]], natural building).
+- **Value-added products:** Transforming raw produce into shelf-stable goods — dried herbs, ferments, preserves, carob|carob powder, [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]]. These products command premium prices and reduce waste.
+- **Ecological services:** Land restoration, bioremediation, [[permplant-willows-salix-erosion-control-fodder]], and pdc-invisible-structures-and-social-design frequently engage with these institutional dimensions of economic localization.
 
 ## Guild Economics and Polyculture Income
 
-Permaculture's concept of plant guilds — mutually beneficial plant communities — extends naturally into economic planning. Just as a fruit tree guild might include nitrogen-fixing legumes, dynamic accumulators, pest-confusing plants, and ground covers, an economic guild combines multiple income-producing activities that support each other. A small farm might integrate nursery sales, education workshops, value-added products, and ecological services into a single livelihood system where each enterprise provides inputs, customers, or stability for the others. This polycultural approach to income mirrors [[williams-pdc-right-livelihood]]
+Permaculture's concept of plant guilds — mutually beneficial plant communities — extends naturally into economic planning. Just as a fruit tree guild might include nitrogen-fixing legumes, [[comparison-dynamic-accumulators-vs-cover-crops]], pest-confusing plants, and [[permaculture-plants-food-forest-ground-covers-bamboos]], an economic guild combines multiple income-producing activities that support each other. A small farm might integrate nursery sales, education workshops, value-added products, and ecological services into a single livelihood system where each enterprise provides inputs, customers, or stability for the others. This polycultural approach to income mirrors [[williams-pdc-right-livelihood]]
+
 ## Practical Considerations
 
 When working with Right Livelihood and Permaculture Economics, several practical factors should be
@@ -59,7 +30,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,3 +73,5 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+- [[permaculture]]

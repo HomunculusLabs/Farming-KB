@@ -1,7 +1,7 @@
 ---
-title: Mulch Materials Sources and Application in the Tropics
+title: mollison mulch materials sources and tropical application Sources and Application in the Tropics
 created: 2026-04-26
-tags: permaculture, mulching, tropical-agriculture, soil-health, organic-matter]
+tags: [permaculture], mulching, tropical-agriculture, soil-health, organic-matter]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
@@ -10,7 +10,7 @@ type: concept
 ---
 # Mulch Materials, Sources, and Application in the Tropics
 Mulch is the primary soil management tool in tropical
-[[turmeric]], and vines. Coconut husks and coarse fronds or
+turmeric, and vines. Coconut husks and coarse fronds or
 grasses, held by a log edge, provide mulch for home gardens;
 greywater irrigation is ideal for such beds.
 ## Detritus and Forest Floor Materials
@@ -53,7 +53,7 @@ site. The solution is to establish on-site mulch production
 systems through pioneer species, tree crops, and ground
 covers that generate their own mulch.
 ## Mulch in Rehabilitating Poor Soils
-Growing in exhausted or poor mollison designers pioneer is possible, but
+Growing in exhausted or poor mollison [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]] is possible, but
 the early work of rehabilitation takes hard work, seed,
 essential fertiliser resources, and a strategy of starting
 small and expanding the system at the periphery. Dense
@@ -69,7 +69,7 @@ Mollison provides analysis data for various mulch materials:
 - Mulch of maize, cowpea, soyabean, and cassava all have
   distinct nutrient profiles
 - The crop for cowpea, soya bean, and cassava mulch follows
-  a beneficial and nutrient cycling pattern
+  a beneficial and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] pattern
 ## See Also
 - [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
 
@@ -94,4 +94,4 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+- [[bill-mollison]]

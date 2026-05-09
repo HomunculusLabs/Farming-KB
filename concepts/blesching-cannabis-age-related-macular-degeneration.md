@@ -24,7 +24,7 @@ and does not know the exact mechanism causing the disease's development.
 
 Possible causes include aging, family history, plaque build-up, high glycemic
 index food consumption, high blood pressure, smoking, and damage from
-oxidative stress. Signs and symptoms may include drusen (tissue build-up on the
+[[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]. Signs and symptoms may include drusen (tissue build-up on the
 eye), sudden loss of visual accuracy, blurred vision, and loss of central
 vision. The disease will not cause blindness, and many people learn to function
 with peripheral vision alone. However, patients might lose the ability to drive
@@ -34,7 +34,7 @@ Various treatments exist. Orthodox approaches involve injections of
 pharmaceutical agents directly into the eye. Scientists are also testing
 experimental treatments using stem cells. Natural treatments currently practiced
 include dietary changes and nutritional supplements such as lutein,
-carotenoids, and omega-3 fatty acids.
+carotenoids, and omega-3 [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]].
 
 ## Cannabis and Age-Related Macular Degeneration
 
@@ -67,7 +67,7 @@ cardiovascular health directly impacts retinal blood supply and function.
 The identification of cannabinoid receptors in retinal pigment epithelial
 cells opens several promising avenues for research:
 
-- Clinical trials examining cannabinoid preparations for AMD prevention or
+- [[mushroom-cancer-clinical-trials-overview]] examining cannabinoid preparations for AMD prevention or
   progression slowing
 - Studies comparing different cannabinoid ratios and their effects on retinal
   cell protection
@@ -76,4 +76,4 @@ cells opens several promising avenues for research:
   (lutein, zeaxanthin, omega-3 fatty acids)
 
 While the current evidence base is limited (CHI value of 1), the theoretical
-framework is strong and the safety profile of cannabis makes further
+framework is strong and the [[cannabis-safety-profile-and-overdose-risk]] of cannabis makes further

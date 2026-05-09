@@ -1,5 +1,5 @@
 ---
-title: "ALEPH (4-Methylthio-2,5-dimethoxy-A) -- PIHKAL Entry #3"
+title: "ALEPH (4-Methylthio-2,5-dimethoxy-A) -- 2c-b-pihkal-entry-20 #3"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -76,7 +76,7 @@ colleague of mine, one who was very familiar with such states of
 A solution of 2.3 g
 2,5-dimethoxy-4-(methylthio)benzaldehyde (see under 2C-T for its
 synthesis) in 7.5 mL nitroethane was treated with 0.45 g anhydrous
-ammonium acetate and heated on the steam bath for 6 h. The excess
+ammonium acetate and heated on the [[scythian-cannabis-steam-bath-ritual]] for 6 h. The excess
 solvent/reagent was removed under vacuum leaving a mass of orange
 crystals as residue. These were ground up under 10 mL MeOH,
 col-lected by filtration, washed with a little MeOH, and air dried to
@@ -98,7 +98,7 @@ and stirring were maintained for an additional 7 h, then the reaction
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 
@@ -106,7 +106,6 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 - [[aleph-6-entity-pihkal]]
 
 - PIHKAL (the source book)
-- [[aleph-2-entity-pihkal]] -- ALEPH-2 (PIHKAL #4)
 
 ## See Also
 

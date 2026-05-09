@@ -1,5 +1,5 @@
 ---
-title: Mushroom Cultivation Contamination Prevention
+title: Mushroom gottlieb-psilocybin-cultivation-contamination-prevention Prevention
 created: 2026-04-28
 tags: mycology, contamination, sterile-technique, cultivation]
 date: 2026-04-28
@@ -28,12 +28,12 @@ substrate is especially vulnerable.
 Cobweb mold appears as fine, grayish-white webbing over the substrate surface.
 Unlike mushroom mycelium, it is easily disturbed and does not recover when
 touched. Increasing fresh air exchange usually controls mild outbreaks. A light
-spray of 3 percent hydrogen peroxide can suppress heavier infestations.
+spray of 3 percent [[cervantes-hydrogen-peroxide-sterilization]] can suppress heavier infestations.
 
 ### Bacterial Contamination
 
 Bacterial contamination manifests as slimy patches, sour or rotten odors, and
-a wet, matted appearance of grain spawn. *Bacillus subtilis* ("wet spot") is
+a wet, matted appearance of [[comparison-grain-spawn-vs-grain-to-grain-transfer]]. *Bacillus subtilis* ("wet spot") is
 the most common bacterial contaminant. It usually indicates insufficient
 sterilization, over-hydrated grain, or poor jar ventilation.
 
@@ -86,7 +86,7 @@ Early detection is critical because contamination spreads exponentially.
 If contamination is detected before sporulation, the affected jar can sometimes
 be salvaged by transferring clean mycelium to fresh substrate. Once a
 contaminant has sporulated, discard the entire culture immediately. Seal it in
-a bag before removing from the grow area to prevent spore dispersal.
+a bag before removing from the grow area to prevent [[aquatic-fungi-spore-dispersal-ingold]].
 
 ## Environmental Hygiene
 
@@ -107,8 +107,11 @@ cultures.
 
 ## See Also
 
+- [[contamination-identification-prevention-mushroom-cultivation]]
+- [[mushroom-cultivation-contamination-troubleshooting]]
+
 - [[contamination-mushroom-cultivation]]
 
 - [[mushroom-substrate-preparation-sterilization]]
 - [mushroom-and-inoculation]
-- [[mushroom-fruiting-chamber-designs]]-and-parameters]
+- mushroom-fruiting-chamber-designs-and-parameters]

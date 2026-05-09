@@ -13,24 +13,24 @@ type: query
 ## Short Answer
 Growing cannabis in a greenhouse combines the best of indoor and outdoor
 cultivation by harnessing natural sunlight while giving you control over
-environmental variables like temperature, humidity, and light deprivation. A
+environmental variables like temperature, humidity, and [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]]. A
 well-designed query how do i grow cannabis in a greenhouse can produce
 multiple harvests per year with lower energy costs than a fully indoor
 operation, making it an excellent option for both hobbyists and commercial
 cultivators.
 
 ## Detailed Explanation
-Greenhouse cannabis cultivation occupies the middle ground between indoor and
+Greenhouse [[query-how-does-no-till-cannabis-cultivation-work]] occupies the middle ground between indoor and
 outdoor growing. You benefit from free, full-spectrum sunlight that produces
-robust terpene profiles and dense flower structure, while retaining the ability
+robust [[cannabis-terpene-profiles-sativa]] and dense flower structure, while retaining the ability
 to manipulate the environment to some degree. The [[cannabis-growing-environment-setup]]
 for a greenhouse must account for both daily temperature swings and seasonal
 variations that are more extreme than in an indoor grow room.
 
-Humidity control is equally important and often more challenging in a
-greenhouse. High humidity promotes bud rot, powdery mildew, and other fungal
+[[cervantes-humidity-control-dehumidification]] is equally important and often more challenging in a
+greenhouse. High humidity promotes bud rot, [[cervantes-powdery-mildew-prevention-treatment]], and other fungal
 diseases that can devastate a cannabis crop. Dehumidifiers are usually
-necessary, especially during the flowering stage when plants transpire heavily
+necessary, especially during the [[cannabis-flowering-stage-management]] when plants transpire heavily
 and the dense canopy traps moisture. Good airflow design with oscillating fans
 throughout the canopy and proper plant spacing helps prevent microclimates
 where humidity concentrates around individual plants.
@@ -46,7 +46,7 @@ Supplemental lighting extends the growing season in shoulder months and ensures
 consistent light intensity during overcast periods. LED grow lights mounted
 above the canopy can provide supplemental photons during short winter days or
 on cloudy weeks, bridging gaps in natural light. The
-[[gaias-garden-host-plants-beneficial-insects]] provide effective, natural
+gaias-garden-host-plants-beneficial-insects provide effective, natural
   pest control in the semi-open greenhouse environment
 - Choose photoperiod-cannabis|photoperiod strains for maximum control over
   flowering timing
@@ -59,6 +59,7 @@ on cloudy weeks, bridging gaps in natural light. The
 - [[query-how-to-build-a-passive-solar-greenhouse]]
 - [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]
 - [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]
+
 ## Practical Considerations
 
 Successful implementation of How Do I Grow Cannabis in a Greenhouse? requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

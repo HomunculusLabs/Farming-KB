@@ -1,5 +1,5 @@
 ---
-title: "Jerusalem Artichoke vs Potato"
+title: "comparison jerusalem artichoke vs potato vs Potato"
 tags: [comparison, tuber-crops, perennial-vs-annual, root-vegetables,
   staple-crops]
 date: 2026-05-08
@@ -16,9 +16,9 @@ tuberosum*) are both underground storage crops that produce calorie-dense
 tubers in temperate climates, but they occupy fundamentally different
 positions in a food system. The potato is the world's fourth-largest food
 crop, an annual staple grown in neat rows with careful hilling and
-disease management. Jerusalem artichoke is a hardy perennial sunflower
+[[plant-disease-management-solomon]]. Jerusalem artichoke is a hardy perennial sunflower
 that reliably produces tubers year after year with almost no intervention,
-making it a favourite in permaculture design. Comparing them illuminates
+making it a favourite in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. Comparing them illuminates
 the trade-off between maximised annual yield and reduced perennial
 maintenance.
 
@@ -27,7 +27,7 @@ maintenance.
 [[jerusalem-artichoke]]
 
 Jerusalem artichoke is a perennial member of the aster family
-(Asteraceae) native to central and eastern North America. It stores
+(Asteraceae) native to central and [[polypore-fungi-eastern-north-america]] America. It stores
 energy as inulin, a fructan fibre that feeds gut microbiota rather than
 spiking blood glucose. Plants reach 1.5-3 metres tall, produce small
 sunflower-like blooms, and generate tubers in late autumn after frost
@@ -44,7 +44,7 @@ the crop's aggressive spread if not managed.
 
 | Aspect | Potato | Jerusalem Artichoke |
 |--------|--------|---------------------|
-| Life cycle | Annual, replanted each year | Perennial, regrows from tubers |
+| [[bloomfield-fungal-life-cycle-spiral-versus-circle]] | Annual, replanted each year | Perennial, regrows from tubers |
 | Plant family | Solanaceae (nightshade) | Asteraceae (sunflower) |
 | Storage carbohydrate | Starch | Inulin (fructan fibre) |
 | Calories per 100 g (raw) | ~77 kcal | ~73 kcal |

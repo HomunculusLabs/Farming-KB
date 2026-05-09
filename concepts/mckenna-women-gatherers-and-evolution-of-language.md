@@ -1,5 +1,5 @@
 ---
-title: Women Gatherers and the Evolution of Language
+title: mckenna women gatherers and evolution of language and the Evolution of Language
 created: 2026-04-28
 tags:
   - linguistics
@@ -7,7 +7,7 @@ tags:
   - gender-studies
   - mckenna
   - food-of-the-gods
-  - shamanism
+  - [[shamanism]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -22,7 +22,7 @@ arose, who possessed it, and what its emergence cost humanity.
 
 ## The Hunter Versus the Gatherer
 
-The standard narrative of [[psilocybin-mushroom-image-guide-lookalike-species]] ds to the need to differentiate
+The standard narrative of psilocybin-mushroom-image-guide-lookalike-species ds to the need to differentiate
 between lookalike species, some edible and some toxic, that the gatherer
 encounters daily.
 
@@ -38,7 +38,7 @@ The linguistic depth women attained as gatherers eventually led, in McKenna's
 narrative, to a momentous discovery: the discovery of agriculture. Women
 realized that they co [[mckenna-catal-huyuk-natufian-link]] in present-day Anatolian Turkey, one of the earliest
 known agricultural settlements, as a place where the old goddess culture died
-and where agriculture may have first arisen. At Catal Huyuk and Jericho, humans
+and where agriculture may have first arisen. At [[mckenna-catal-huyuk-natufian-link]] and Jericho, humans
 and their domesticated plants and animals became for the first time physically
 and psychologically separate from the life of untamed nature.
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

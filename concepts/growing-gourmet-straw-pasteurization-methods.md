@@ -1,5 +1,5 @@
 ---
-title: Straw Pasteurization Methods for Mushroom Cultivation
+title: growing gourmet straw pasteurization methods Methods for accessible-mushroom-cultivation-for-disabilities
 created: 2026-04-26
 tags:
   - mycology
@@ -34,7 +34,7 @@ accepting a limited number of contaminants and selectively favoring
 mushroom mycelium.
 
 Growing on straw is far less expensive than growing on sawdust.
-Many cottage growers enter the gourmet mushroom industry by first
+Many cottage growers enter the [[growing-gourmet-mushroom-dehydration-methods-equipment]] industry by first
 cultivating [[growing-gourmet-king-stropharia-cultivation]], [[growing-gourmet-button-mushroom-agaricus-cultivation]] also thrive on straw-based substrates.
 
 ## The Hot Water Bath Method
@@ -55,7 +55,7 @@ layer onto cleaned surfaces to rapidly cool.
 An important note: after two soakings, the hot water must be
 discarded. The discolored water, often referred to as "straw tea,"
 becomes toxic to mushroom mycelium after the third soaking,
-retarding or preventing further mycelial growth. Interestingly,
+retarding or preventing further [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]. Interestingly,
 this tea is toxic to most vegetation and could be used as a natural
 herbicide.
 
@@ -67,7 +67,7 @@ straw must be moistened by spreading chopped straw over a large
 surface area and spraying with water over a two to four day period.
 The straw is turned every day to expose dry zones.
 
-One ton of wheat straw, chopped and soaked, occupies approximately
+One ton of [[non-sterilized-wheat-straw-oyster-cultivation]], chopped and soaked, occupies approximately
 250 cubic feet of space. The straw can be filled to a depth as
 great as 8 feet. Multiple thermometers are inserted in at least
 three locations: low (within 4-6 inches), midway, and high (within
@@ -87,7 +87,7 @@ straw is then drained and inoculated using standard methods.
 After three or four days of initial growth, pH slowly falls as the
 mycelium races through the straw, secreting acids and enzymes. If
 colonization is not complete within 7-10 days, competitors usually
-arise. Oyster mushroom mycelia tolerate this alkaline environment
+arise. [[cotter-oyster-mushroom-cultivation]] mycelia tolerate this alkaline environment
 better than most competitors.
 
 ## The Bleach Bath Method
@@ -134,5 +134,5 @@ attempting alternative methods commercially.
 
 - [[growing-gourmet-substrate-preparation]]
 - [[growing-gourmet-gypsum-lime-ph-management]]
-- [[growing-gourmet-species-sequencing-substrate-recycling]]
+- growing-gourmet-species-sequencing-substrate-recycling
 - growing gourmet pink oyster djamor cultivation

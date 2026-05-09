@@ -13,12 +13,12 @@ sources:
   - Christensen, K.I. (1992). "Ligustrum L." In: Flora Europaea, Vol. 1, 2nd ed., Cambridge University Press.
   - Reichard, S.H. & White, P. (2001). "Horticulture as a pathway of invasive plant introductions in the United States." Bioscience, 51(2), 103-113.
   - Environmental Protection Agency (2023). "Invasive Plant Atlas of the United States: Ligustrum vulgare."
-  - Duke, J.A. (2002). "Handbook of Medicinal Herbs." 2nd ed., CRC Press.
+  - Duke, J.A. (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]]." 2nd ed., CRC Press.
 ---
 
 ## Overview
 
-**Ligustrum vulgare** (common privet, European privet) is a deciduous to semi-evergreen shrub in the family Oleaceae. It is native to Europe, North Africa, and southwestern Asia, and widely naturalized in North America and other temperate regions.
+**Ligustrum vulgare** (common privet, European privet) is a deciduous to semi-evergreen shrub in the family Oleaceae. It is native to Europe, North Africa, and southwestern Asia, and widely naturalized in [[psilocybin-north-america-pacific-northwest]] and other temperate regions.
 
 The species is best known for its use as a hedging plant, valued for its dense foliage, rapid growth, and tolerance of heavy pruning. It has been cultivated in gardens since at least the 16th century.
 
@@ -52,11 +52,11 @@ The shrub tolerates full sun to deep shade and a broad range of soil pH. It esta
 
 In urban environments, L. vulgare is frequently found along roadsides, fence lines, and vacant lots. It tolerates air pollution and compacted soils better than many native shrub species, contributing to its persistence in developed landscapes.
 
-Elevation range in its native habitat spans from sea level to approximately 1,200 meters. At higher elevations it tends toward a more compact growth form with smaller leaves.
+Elevation range in its native habitat spans from sea level to approximately 1,200 meters. At higher elevations it tends toward a more [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] form with smaller leaves.
 
 ## Cultivation and Uses
 
-Common privet has been a standard hedging plant in European and North American gardens for centuries. Its tolerance of frequent shearing and dense branching habit make it ideal for formal and informal hedges.
+Common privet has been a standard hedging plant in European and [[growing-gourmet-north-american-reishi-species]] gardens for centuries. Its tolerance of frequent shearing and dense branching habit make it ideal for formal and informal hedges.
 
 Growth rate is moderate to fast, with plants capable of producing 30–60 cm of new growth per year under favorable conditions. Mature specimens can reach ages of 50–100 years in cultivation.
 
@@ -66,7 +66,7 @@ In traditional European herbal medicine, the leaves and bark were used as a toni
 
 The hard, white wood has limited commercial use but has been employed for turnery, tool handles, and engraving blocks. Its flexibility when green made it useful for basket weaving in rural traditions.
 
-Privet hedges require regular maintenance, typically 2–3 shearings per growing season, to maintain a dense, formal appearance. Neglected hedges quickly become leggy and open at the base.
+Privet hedges require regular maintenance, typically 2–3 shearings per [[savory-growing-season-and-non-growing-season-management]], to maintain a dense, formal appearance. Neglected hedges quickly become leggy and open at the base.
 
 In agricultural settings, privet was traditionally planted as livestock fencing due to its thornless, dense growth. Living hedges of L. vulgare were common in European mixed farming systems before the advent of wire fencing.
 
@@ -92,11 +92,15 @@ Bird dispersal of berries allows rapid colonization of natural areas far from pl
 
 Control methods include mechanical removal, herbicide application to cut stumps, and prescribed burning. Integrated management combining mechanical and chemical approaches has proven most effective for large infestations.
 
-Biological control research has identified several potential agents, but no approved biocontrol programs exist for L. vulgare as of 2026. The risk to native Oleaceae species, including economically important olive (Olea europaea), limits biocontrol development.
+[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] research has identified several potential agents, but no approved biocontrol programs exist for L. vulgare as of 2026. The risk to native Oleaceae species, including economically important olive (Olea europaea), limits biocontrol development.
 
 Prevention through public education and promotion of non-invasive alternatives remains the most cost-effective management strategy. Native hedge species such as Cornus sericea and Carpinus caroliniana are recommended replacements in North American landscapes.
 
 ## See Also
+
+- [[ligustrum-sinense]]
+
+- [[ligustrum-ovalifolium]]
 
 - [[forsythia-suspensa]]
 - [[jasminum-officinale]]

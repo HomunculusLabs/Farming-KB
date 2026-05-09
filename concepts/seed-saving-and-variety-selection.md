@@ -1,6 +1,6 @@
 ---
-title: Seed Saving and Variety Selection
-source: Gardening When It Counts - [[steve-solomon]]
+title: Seed seed saving and variety selection Selection
+source: Gardening When It Counts - steve-solomon
 source_author: Steve Solomon
 tags: [gardening, seeds, seed-saving, variety-selection, plant-breeding]
 created: 2026-05-08
@@ -13,7 +13,7 @@ created: 2026-05-08
 Steve Solomon's experience as founder of Territorial Seed Company gave
 him deep insight into the commercial seed industry and the critical
 importance of starting with high-quality seeds from reliable sources. In
-*Gardening When It Counts*, he argues that successful vegetable gardening
+*Gardening When It Counts*, he argues that successful [[home-vegetable-garden-planning]]
 begins with choosing the right varieties from honest suppliers, and that
 seed saving is an essential skill for resilient, self-reliant food
 production.
@@ -30,7 +30,7 @@ performance.
 An honest seed business tests varieties in actual garden conditions
 before offering them for sale. Many mass-market suppliers simply
 resell whatever is cheapest from wholesale growers, without regard for
-whether the variety performs well in home garden conditions. The result
+whether the variety performs well in [[cool-climate-home-garden-mollison]] conditions. The result
 is that many beginning gardeners fail not because of their own mistakes
 but because they started with poor genetic material.
 
@@ -87,7 +87,7 @@ good germination for three to five years or more.
 
 ## Selecting Plants for Seed Saving
 
-Not every plant in the garden should be used for seed production. The
+Not every plant in the garden should be used for [[cervantes-seed-production-storage]]. The
 gardener should select the best individuals — those with the most
 desirable traits for flavor, vigor, disease resistance, or other
 qualities important to the gardener's goals.
@@ -129,8 +129,8 @@ Solomon notes that most gardeners purchase far more seed than they use
 
 One of the most important factors in variety selection is regional
 adaptation. A variety that performs brilliantly in one climate may
-fail completely in another. Day length sensitivity, heat tolerance,
-cold hardiness, and disease resistance profiles all vary by variety
+fail completely in another. [[coleman-winter-day-length-and-persephone-months]] sensitivity, heat tolerance,
+[[coleman-cold-hardiness-testing-ratings]], and disease resistance profiles all vary by variety
 and must be matched to local growing conditions.
 
 Solomon recommends that gardeners focus on varieties with proven
@@ -142,5 +142,8 @@ about what grows well in a particular area.
 
 ## See Also
 
+- [[hepa-filter-selection-and-testing]]
+
 - [[dryland-vegetable-gardening]]
 - [[complete-organic-fertilizer-cof]]
+- [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]

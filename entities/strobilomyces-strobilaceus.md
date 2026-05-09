@@ -13,7 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Hall, I.R. et al. (2003). Edible and Poisonous Mushrooms of the World. Timber Press.
+  - Hall, I.R. et al. (2003). Edible and palmer-poisonous-mushrooms-deadly-species of the World. Timber Press.
   - Kirk, P.M. et al. (2008). Dictionary of the Fungi, 10th Edition. CABI Publishing.
   - Arora, D. (1986). Mushrooms Demystified, 2nd Edition. Ten Speed Press.
   - Zhang, Y. et al. (2015). "Strobilomyces (Boletaceae): A New Species from China." Mycotaxon, 130(2), 497–505.
@@ -27,7 +27,7 @@ distinctive bolete mushroom recognized by its dark, shaggy cap that
 resembles a mature pinecone.
 
 It is an ectomycorrhizal species found in deciduous and mixed forests
-across temhuckleberries-and-wild-berries-of-north-americaf , Europe, and East Asia.
+across temhuckleberries-and-wild-berries-of-north-americaf , Europe, and [[neurotropic-fungi-japan-east-asia-species-cultural-context]].
 
 The species is edible when thorouquery-how-to-process-acorns-for-foodked, with a mild flavor, and
 is collected for food in parts of China, Japan, and eastern Europe.
@@ -95,7 +95,7 @@ The mushroom is ectomycorrhizal, forming associations primarily with
 oaks (Quercus spp.) and beeches (Fagus spp.), occasionally with other
 hardwoods and rarely with conifers.
 
-It prefers moist, well-drained forest soils rich in organic matter,
+It prefers moist, well-drained forest soils rich in [[hamilton-composting-and-organic-matter-management]],
 often fruiting in groups or scattered on forest floors during warm, wet
 periods of late summer and early autumn.
 
@@ -119,6 +119,8 @@ undercooked specimens may cause mild gastrointestinal upset.
 Some fiel  ution that the dark pore surface and blackish
 [[boletus-edulis-entity]]
 - [[mushroom-toxicity-identification-warnings]]
-- mushroom cultivation-for-people-with-disabilities]]
-- ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]
-- [[mycoforestry-forest-management-with-fungi]]
+- mushroom cultivation-for-people-with-disabilities
+- ectomycorrhizal-fungi-and-which-plants-do-they-associate-with
+- mycoforestry-forest-management-with-fungi
+## See Also
+- [[ectomycorrhiza]]

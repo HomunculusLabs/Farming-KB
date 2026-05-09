@@ -26,14 +26,14 @@ All enzymes are proteins made by linking amino acids in very specific order. Eac
 
 - A single plant cell might have 10,000 different kinds of enzymes, with 1 million copies of each
 - Enzyme names usually end in -ase (lactase, protease, lipase, amylase)
-- Proteases break down protein chains; peptidases break peptide bonds
+- Proteases [[query-can-fungi-break-down-plastic-pollution]] protein chains; peptidases break peptide bonds
 - Lipases break down lipids; amylases break down starches into sugars
 - Without enzymes to speed up chemical reactions, there is no life
 - Once an important enzyme cannot be replicated, a cell will die
 
 ## Lipids
 
-Lipids are characterized by chains of fatty acids (carbon, hydrogen, oxygen). They are nonpolar — having no charges on their long chains — which means they don't dissolve in water. This property makes them essential for cellular membranes.
+Lipids are characterized by chains of [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] (carbon, hydrogen, oxygen). They are nonpolar — having no charges on their long chains — which means they don't dissolve in water. This property makes them essential for cellular membranes.
 
 ### Classification
 
@@ -70,7 +70,7 @@ Carbohydrates, proteins, and lipids are useless unless put into order and given 
 
 ### Gene Expression Regulation
 
-Not all genes are active at all times. Plants regulate which genes are expressed based on environmental cues such as light, temperature, nutrient availability, and pathogen attack. Epigenetic modifications — chemical changes to DNA or histone proteins that don't alter the nucleotide sequence — can silence or activate genes in response to environmental stress. This flexibility allows plants to adapt their metabolism to changing conditions.
+Not all genes are active at all times. Plants regulate which genes are expressed based on environmental cues such as light, temperature, [[ph-and-nutrient-availability-garden-soils]], and pathogen attack. Epigenetic modifications — chemical changes to DNA or histone proteins that don't alter the nucleotide sequence — can silence or activate genes in response to environmental stress. This flexibility allows plants to adapt their metabolism to changing conditions.
 
 ### Protein Synthesis
 

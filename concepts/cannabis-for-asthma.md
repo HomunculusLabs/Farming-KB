@@ -14,7 +14,7 @@ Asthma is typically a chronic medical problem, ranging from mild breathing diffi
 
 ## Evidence Base
 
-The Cannabis Health Index (CHI) rates the evidence for cannabis in asthma at a CHI value of 24, based on 7 studies reviewed. This represents a robust evidence base, primarily from clinical trials conducted in the 1970s examining THC's bronchodilator properties.
+The [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) rates the evidence for cannabis in asthma at a CHI value of 24, based on 7 studies reviewed. This represents a robust evidence base, primarily from [[mushroom-cancer-clinical-trials-overview]] conducted in the 1970s examining THC's bronchodilator properties.
 
 ## Bronchodilator Properties
 
@@ -38,7 +38,7 @@ The conducting scientist concluded that the mode of action of THC differs from s
 
 In 1977 and 1978, studies evaluated aerosolized THC compared to placebo and isoproterenol. Results showed aerosolized THC was less pronounced than isoproterenol in producing bronchodilation in the short term (5 minutes) but significantly better in longer time ranges (1 to 3 hours).
 
-However, researchers noted that aerosolized THC caused moderate to severe bronchoconstriction associated with cough and chest discomfort in some patients, indicating that local irritation of the airways may make raw aerosolized THC unsuitable for therapeutic use. This highlights the need for refined delivery methods.
+However, researchers noted that aerosolized THC caused moderate to severe bronchoconstriction associated with cough and chest discomfort in some patients, indicating that local irritation of the airways may make raw aerosolized THC unsuitable for therapeutic use. This highlights the need for refined [[cannabis-delivery-methods-comparison]].
 
 ## Mechanism of Action
 
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

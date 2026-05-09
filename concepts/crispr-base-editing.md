@@ -2,7 +2,8 @@
 title: "CRISPR Base Editing"
 created: 2026-04-28
 updated: 2026-05-06
-sources: []
+sources:
+  sources: []
 tags: []
 type: concept
 ---
@@ -86,14 +87,14 @@ Base editing does not remove those concerns, because precise tools can still be 
 
 ## Applications and significance
 The most prominent application is correction of monogenic disease variants.
-Potential targets include cannabis sickle cell, beta-thalassemia, familial hypercholesterolemia, and some forms of blindness.
+Potential targets include cannabis [[cannabis-and-sickle-cell-disease]], beta-thalassemia, familial hypercholesterolemia, and some forms of blindness.
 Some strategies directly repair a pathogenic base.
 Others disrupt regulatory elements to produce a compensatory effect.
 For example, editing blood stem cells can reactivate fetal hemoglobin pathways.
 In liver disease, lipid nanoparticle delivery is attractive because the liver naturally takes up nanoparticles.
 In eye disease, local delivery can limit systemic exposure.
 In agriculture, base editing can introduce beneficial alleles without foreign DNA integration.
-Plant breeders use it to modify disease resistance, yield traits, oil composition, and symbiotic fungi endophytic.
+Plant breeders use it to modify disease resistance, yield traits, oil composition, and symbiotic [[biodiversity-of-fungi-endophytic-fungi]].
 In microbes, base editing supports metabolic engineering.
 It allows libraries of point mutations to be generated without killing cells through excessive DNA breaks.
 In [[holmgren-genetic-engineering-and-evolution]]

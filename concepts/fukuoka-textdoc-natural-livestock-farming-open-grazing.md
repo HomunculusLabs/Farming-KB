@@ -1,5 +1,5 @@
 ---
-title: "Natural Livestock Farming and Open Grazing"
+title: "fukuoka-natural-livestock-farming Farming and Open Grazing"
 created: 2026-04-28
 tags:
   - natural-farming
@@ -19,7 +19,7 @@ type: concept
 
 # Natural Livestock Farming and Open Grazing
 
-Fukuoka extends his critique of scientific agriculture to livestock
+Fukuoka extends his [[fukuoka-critique-of-scientific-agriculture]] agriculture to livestock
 farming, arguing that modern confinement-based animal production is
 ecologically destructive, ethically indefensible, and ultimately less
 efficient than allowing animals to graze freely in natural environments.
@@ -52,7 +52,7 @@ like operations.
 
 ## Natural Grazing as the Ideal
 
-Under the precepts of natural farming, livestock farming takes the
+Under the precepts of [[comparison-natural-farming-vs-permaculture]], livestock farming takes the
 form of open grazing. Cattle, pigs, and chickens fattened while free to
 roam at will on the open land under the sun's rays are a precious,
 irreplaceable source of food for man. The problem lies elsewhere, in the
@@ -108,11 +108,11 @@ in cool, breezy areas and is closely related to humidity and
 temperature. The problem can be prevented by providing the right
 environment rather than by applying chemical treatments. It suffices to
 raise hardier cattle and give consideration to the protection and
-raising of beneficial insects that help control tick populations.
+raising of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] that help control tick populations.
 
 ## Livestock Farming as Search for Unconditional Truth
 
-Scientific farming studies animal feed by giving various formulations
+[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] studies animal feed by giving various formulations
 to cows chained in a barn under fixed environmental conditions, then
 judges the mixture producing the best results to be superior. This is
 inductive experimentation that yields conditional truth at best. Natural

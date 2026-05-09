@@ -12,18 +12,18 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Clerc, P. (1987). "Systematics of the Usnea barbata-type in Europe." Bibliotheca Lichenologica, 25, 1–158.
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). "Lichens of [[psilocybin-north-america-pacific-northwest]]." Yale University Press.
   - Purvis, O.W. et al. (1992). "The Lichen Flora of Great Britain and Ireland." London: Natural History Museum.
   - Halonen, P. et al. (1999). "The family Usneaceae in Finland." Acta Botanica Fennica, 162, 1–60.
 ---
 
 ## Overview
 
-Usnea subfloridana is a fruticose beard lichen in the family Parmeliaceae, widespread across temperate and boreal forests of Europe and North America.
+Usnea subfloridana is a fruticose beard lichen in the family Parmeliaceae, widespread across temperate and [[fungal-diversity-boreal-forests-taiga]] of Europe and North America.
 
 It forms bushy, pendulous thalli hanging from tree branches, with a distinctive internal anatomy featuring a tough central cartilaginous strand.
 
-The species is one of the more common Usnea species in lowland and montane forests, tolerating a wider range of air quality conditions than many of its congeners.
+The species is one of the more common Usnea species in lowland and montane forests, tolerating a wider range of [[cervantes-air-quality-ventilation]] conditions than many of its congeners.
 
 It is readily identified by its robust main branches, regular dichotomous branching, and abundant fibrils covering the branch surfaces.
 
@@ -61,7 +61,7 @@ Spot tests show K− or K+ pale yellow on the medulla (fumarprotocetraric acid),
 
 Usnea subfloridana is widely distributed across temperate Europe, from the British Isles and Scandinavia to the Mediterranean region and east into the Carpathians.
 
-In North America, it occurs from eastern Canada south through the Appalachian Mountains to the southeastern United States.
+In North America, it occurs from eastern Canada south through the Appalachian Mountains to the southeastern [[dmt-containing-plants-united-states-halpern]].
 
 The species is primarily epiphytic, growing on the bark and branches of a wide range of deciduous and coniferous trees.
 
@@ -79,11 +79,11 @@ Usnea subfloridana plays a role in forest canopy micro-ecosystems, providing hab
 
 Its dense thallus mats intercept moisture from fog and rain, creating humid microhabitats that benefit other epiphytic organisms including mosses and liverworts.
 
-The species contributes to nutrient cycling by trapping atmospheric particles and slowly releasing mineral nutrients through leaching and decomposition.
+The species contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by trapping atmospheric particles and slowly releasing mineral nutrients through leaching and decomposition.
 
 U. subfloridana serves as an important winter forage for arboreal invertebrates and has been recorded as a minor food source for woodland birds during harsh weather.
 
-The lichen's ability to accumulate atmospheric heavy metals makes it useful in passive biomonitoring programmes.
+The lichen's ability to accumulate atmospheric [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] makes it useful in passive biomonitoring programmes.
 
 It is slow-growing, with annual elongation rates of 2–8 mm per year under optimal conditions.
 

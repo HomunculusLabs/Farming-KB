@@ -1,5 +1,5 @@
 ---
-title: "French Intensive Bed Method"
+title: "coleman-british-adoption-of-french-intensive-gardening Bed Method"
 created: 2026-04-28
 tags: [french-intensive, beds, close-spacing, biointensive, organic]
 date: 2026-04-25
@@ -12,9 +12,9 @@ type: concept
 
 The French intensive bed method is a historical approach to vegetable
 production that Eliot Coleman has adapted and refined for year-round
-organic farming. Originating in the market gardens of 19th-century
+[[coleman-deep-organic-farming-philosophy]]. Originating in the market gardens of 19th-century
 Paris, this system emphasizes deep soil preparation, close plant
-spacing, and intensive organic matter management to achieve
+spacing, and intensive [[hamilton-composting-and-organic-matter-management]] management to achieve
 extraordinarily high yields per unit area.
 
 ## Historical Origins
@@ -23,7 +23,7 @@ The French intensive method emerged from the marais (marsh) districts
 of Paris where market gardeners developed techniques to produce
 vegetables year-round for the urban population. These growers used
 deep, heavily manured beds protected by cloches and glass frames to
-extend the growing season. Their methods produced remarkable yields
+[[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season. Their methods produced remarkable yields
 — reportedly four to six times the production of conventional field
 agriculture on the same land area.
 
@@ -57,10 +57,10 @@ crop residues, animal manures, and off-farm organic materials.
 ## Integration with Winter Production
 
 The French intensive bed method is the production foundation upon
-which Coleman's winter harvest system is built. Deep, fertile,
+which Coleman's [[coleman-claytonia-winter-harvest-cultivation]] system is built. Deep, fertile,
 well-structured beds are essential for establishing crops before the
 Persephone Period. Close spacing maximizes the output of limited
-protected growing space. And the emphasis on soil biology creates
+protected [[cotter-growing-space-design-fruiting-rooms]]. And the emphasis on soil biology creates
 resilient growing conditions that buffer crops against winter stress.
 
 Combined with [[coleman-soil-preparation-for-winter]] for seasonal
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

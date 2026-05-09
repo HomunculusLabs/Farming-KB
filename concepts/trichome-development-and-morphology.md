@@ -1,5 +1,5 @@
 ---
-title: Trichome Development and Morphology
+title: cannabis-trichome-development-cannabinoid-biosynthesis-sites and Morphology
 created: 2026-04-28
 tags:
   - cannabis
@@ -20,11 +20,11 @@ type: concept
    light producing longer stalks that may improve volatile terpene
    dispersal.
 3. **Disc expansion**: Secretory disc cells proliferate and differentiate
-   into metabolically active secretory cells. Each disc cell develops an
+   into [[isolation-metabolically-active-arbuscules-intraradical-hyphae]] secretory cells. Each disc cell develops an
    extensive endoplasmic reticulum network and numerous lipid droplets
    containing cannabinoid and terpene precursors.
 4. **Secretory cavity formation**: The secretory cells secrete a
-   hydrophobic resin into the subcuticular space between the cell wall
+   hydrophobic resin into the subcuticular space between the [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]]
    and the cuticle. This space expands dramatically as resin accumulates,
    creating the visible "mushroom cap" appearance. The cuticle stretches
    but remains intact, forming a thin membrane over the resin reservoir.
@@ -36,7 +36,7 @@ type: concept
    trichomes contain significant CBN (cannabinol), the oxidative
    degradation product of THC.
 ## Secretory Mechanism
-Cannabinoid and terpene biosynthesis occurs within the secretory disc
+Cannabinoid and [[clarke-marijuana-botany-terpene-biosynthesis-aromatic-profiles]] occurs within the secretory disc
 cells. Enzymes including THCAS, CBDAS, and CBCAS are localized to the
 secretory cell cytoplasm and membrane surfaces. The pathway proceeds from
 precursors imported through the apoplastic space into the secretory
@@ -54,7 +54,7 @@ handling or solvent extraction) releases the resin and exposes
 cannabinoids to oxygen, UV light, and moisture, accelerating
 degradation.
 ## Environmental Influences on Trichome Development
-Multiple environmental factors modulate trichome density, size, and
+Multiple [[duggar-mushroom-environmental-factors-temperature-moisture-light]] modulate trichome density, size, and
 productivity:
 - **UV-B radiation**: The most powerful stimulus for trichome
   development. UV-B exposure increases trichome density by 20-40% and
@@ -68,7 +68,7 @@ productivity:
   Celsius. Temperatures above 30 degrees Celsius reduce trichome density
   and accelerate cannabinoid degradation. Night temperatures below 18
   degrees Celsius during late flowering can increase trichome production
-  as a stress response.
+  as a [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]].
 - **Humidity**: Low relative humidity (40-50%) during late flowering
   promotes trichome density and resin viscosity. High humidity reduces
   terpene volatility and may increase susceptibility to botrytis (gray

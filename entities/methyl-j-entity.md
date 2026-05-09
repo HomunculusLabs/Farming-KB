@@ -9,7 +9,7 @@ sources:
 ---
 # METHYL-J (MBDB; EDEN; 2-Methylamino-1-(3,4-methylenedioxyphenyl)butane)
 
-METHYL-J, also known as MBDB or EDEN, is the N-methyl derivative of J (BDB) and the alpha-ethyl analogue of [[mdma]].
+METHYL-J, also known as MBDB or EDEN, is the N-methyl derivative of J (BDB) and the alpha-ethyl analogue of mdma.
 
 It is one of the key compounds in the Muni-Metro series (see below).
 
@@ -19,7 +19,7 @@ METHYL-J is an active entactogenic compound with a dosage range of 180 to 210 mi
 
 The duration of effects is 4 to 6 hours.
 
-The compound produces effects very similar to [[mdma]] in some ways.
+The compound produces effects very similar to mdma in some ways.
 
 Empathy and intuition levels were felt to be somewhat lower than with MDMA.
 
@@ -61,20 +61,26 @@ MBDB may offer advantages in therapeutic settings where less stimulation is desi
 
 ## The Muni-Metro Naming System
 
-The H, I, J, K naming convention was inspired by the San Francisco Municipal Railway (Muni-Metro) system.
+The H, I, J, K naming convention was inspired by the [[shipibo-san-francisco-ceremonial-center-ucayali]] Municipal Railway (Muni-Metro) system.
 
 Several streetcar lines fan across San Francisco to the outer Avenues, named by sequential letters: J Church Street, K Ingelside, L Taraval, M Ocean, N Judah.
 
 In the pharmacological exploration of chain-lengthened MDA analogues, two coincidental benchmarks appeared in the proposed names.
 
-The naming system thus follows the Muni-Metro letter designations for the alpha-alkyl chain length series.
+The naming system thus follows the Muni-Metro letter designations for the alpha-alkyl [[phenethylamine-chain-length-effects]] series.
 
 ## The Chain-Lengthening Series
 
 METHYL-J occupies a position in the systematic exploration of alpha-alkyl chain extension from the MDA/MDMA scaffold.
 
-[[mdma]]
+mdma
 
 [[mde-entity]]
 
 [[mbdb-entity]]
+## See Also
+- [[methyl-mmda-2-entity-pihkal]]
+- [[n-methyl-pea-entity]]
+- [[methyl-j-entity-pihkal]]
+- [[methyl-ma-entity-pihkal]]
+- [[methyl-dob-entity-pihkal]]

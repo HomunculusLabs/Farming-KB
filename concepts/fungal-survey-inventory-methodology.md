@@ -1,5 +1,5 @@
 ---
-title: Fungal Survey and Inventory Methodology
+title: am-fungal-survey-methods and Inventory Methodology
 created: 2026-04-26
 tags:
   - methodology
@@ -26,7 +26,7 @@ and the diverse life histories of fungal organisms.
 
 ## Survey versus Inventory versus Monitoring
 
-Surveys are broad explorations that document fungal taxa present
+Surveys are broad explorations that document [[undescribed-fungal-taxa]] present
 in an area. Inventories are more structured efforts designed to
 compile comprehensive species lists for defined sites. Monitoring
 involves repeated sampling over time to detect population trends
@@ -50,7 +50,7 @@ comparable species richness.
 
 ## Sampling Approaches
 
-Two main approaches are used in fungal biodiversity assessment:
+Two main approaches are used in [[fungal-biodiversity]] assessment:
 
   - Convenience sampling: Experienced individuals visit a
     location and document taxa they find. This approach is
@@ -75,7 +75,7 @@ Deciding how much area to sample, the size and distribution of
 plots, and the frequency of sampling is not trivial. One rule
 states that sampling is adequate when every taxon occurs in at
 least two sampling units, but this criterion is probably
-impossible to meet when sampling macrofungi. Species-area curves
+impossible to meet when [[recommended-protocols-sampling-macrofungi]]. Species-area curves
 and species-effort curves help determine when additional sampling
 yields diminishing returns. For macrofungi in forests, plots of
 1000 m2 with a minimum of five per community type have been
@@ -97,7 +97,7 @@ Frequency of sampling depends on species turnover between
 sampling dates. For Xylariaceae and small ascomycetes in the
 tropics, 3-month intervals provide optimal balance between
 discovery and effort. Fruiting agarics require weekly or
-biweekly sampling in both temperate and tropical forests. For
+biweekly sampling in both temperate and [[fungal-biodiversity-tropical-forests]]. For
 soil fungi, seasonal fluctuations in species composition occur
 but compositions are typically similar from year to year within
 seasons. Multi-year sampling is necessary to capture species
@@ -113,4 +113,4 @@ vertebrates and plants, macrofungi are poorly known taxonomically
 and their natural histories are poorly known. However,
 [[fungal-beta-diversity-species-turnover]]
 - [[fungal-monitoring-long-term-studies]]
-- [[fungal-biodiversity-forest-floor]]
+- fungal-biodiversity-forest-floor

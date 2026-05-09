@@ -10,7 +10,7 @@ tags: [cannabis]
 
 # Fungus Gnats on Cannabis
 
-Fungus gnats are small flying insects whose larvae (maggots) infest growing media and feed on cannabis roots. They are especially problematic in hydroponic systems with moist growing mediums and can cause significant root damage that invites secondary fungal infections. While adult gnats are primarily a nuisance, their larvae can cause serious harm to the root system, and adult gnats that stick to resinous buds can contaminate the harvest.
+Fungus gnats are small flying insects whose larvae (maggots) infest growing media and feed on cannabis roots. They are especially problematic in hydroponic systems with moist [[cervantes-growing-mediums-comparison]] and can cause significant root damage that invites secondary [[blesching-cannabis-fungal-infections-candida]]. While adult gnats are primarily a nuisance, their larvae can cause serious harm to the root system, and adult gnats that stick to resinous buds can contaminate the harvest.
 
 ## Identification
 
@@ -61,9 +61,9 @@ Fungus gnats are small flying insects whose larvae (maggots) infest growing medi
 - **Secondary infection**: Root wounds invite wilt fungi like [Fusarium or [Pythium, especially if plants are nutrient-stressed and growing in soggy conditions
 - **Bud contamination**: Adult gnats stick to resinous buds, contaminating harvest and making finished product difficult to clean
 - **Growth reduction**: Damaged root systems cannot support normal growth rates
-- **Nutrient deficiency symptoms**: May appear as leaves yellow despite adequate nutrient availability
+- **[[cannabis-grow-nutrient-deficiency-problem-solving]] symptoms**: May appear as leaves yellow despite adequate [[ph-and-nutrient-availability-garden-soils]]
 
-Maggots prefer to consume dead or decaying soggy plant material and green algae, but will also feed on healthy root tissue when other food sources are depleted. The combination of direct root damage and secondary pathogen infection makes fungus gnats one of the most damaging below-ground pests in cannabis cultivation.
+Maggots prefer to consume dead or decaying soggy plant material and green algae, but will also feed on healthy root tissue when other food sources are depleted. The combination of direct root damage and secondary pathogen infection makes fungus gnats one of the most damaging below-ground pests in [[query-how-does-no-till-cannabis-cultivation-work]].
 
 ## Cultural and Physical Control
 
@@ -86,5 +86,5 @@ Maggots prefer to consume dead or decaying soggy plant material and green algae,
 - [Spider Mites — common concurrent pest in indoor gardens
 - [Thrips — another flying pest that can be monitored with sticky traps
 - cannabis pest management — comprehensive IPM overview
-- [Beneficial Insects — predator options for gnats
+- [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] — predator options for gnats
 - [[nutrient-movement-through-soil-to-plant-roots]]

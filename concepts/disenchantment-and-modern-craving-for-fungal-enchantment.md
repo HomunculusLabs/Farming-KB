@@ -1,5 +1,5 @@
 ---
-title: "Disenchantment and the Modern Craving for Fungal Enchantment"
+title: "Disenchantment and the disenchantment and modern craving for fungal enchantment for Fungal Enchantment"
 created: 2026-04-26
 tags:
   - disenchantment
@@ -16,7 +16,7 @@ type: concept
 
 # Disenchantment and the Modern Craving for Fungal Enchantment
 
-Why has the modern West embraced the magic mushroom with such
+Why has the modern West embraced the [[australian-magic-mushroom-common-names]] with such
 enthusiasm? The answer lies not in pharmacology but in culture. The
 sociologist Max Weber's concept of the "disenchantment of the world"
 provides a framework for understanding why a significant residuum of
@@ -59,7 +59,7 @@ they are continually driven to find re-enchantment elsewhere.
 ## The Limits of Cultural Tolerance
 
 The prevailing cultural discourses do not make this easy. Anyone who
-stands up and proclaims the existence of hives of transforming machine
+stands up and proclaims the existence of hives of [[dmt-self-transforming-machine-elves-mckenna]]
 elves in a parallel dimension is likely to meet with a cynical and
 derisive response. Culture can only tolerate elves and faerie denizens
 if they are bound firmly into film, the realm of fiction, or the
@@ -99,7 +99,7 @@ ardent craving for enchantment.
 
 Mushroom enthusiasts typically portray humanity as being at a
 crossroads, our choice of direction framed in exactly these terms: the
-mushroom cloud and annihilation, or the archaic revival of the magic
+mushroom cloud and annihilation, or the [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]] of the magic
 mushroom and salvation. Daniel Pinchbeck, the New Age journalist,
 puts it like this: modern civilisation faces convulsions before it is
 "expunged from the planet forever, unless there is a quick and
@@ -111,7 +111,7 @@ our social body."
 
 The mushroom's popularity reveals something fundamental about the
 attitudes and sensibilities that have shaped our time. The tension
-between those who embrace the psychedelic experience and those who
+between those who embrace the [[leary-psychedelic-experience-bardo-mapping]] and those who
 dismiss it reveals, like the ricochets and collisions of matter and
 antimatter, something about the underlying structure of contemporary
 Western culture. Science delivered up the magic mushroom to the West

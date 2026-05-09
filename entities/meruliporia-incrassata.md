@@ -11,7 +11,7 @@ sources:
 
 # Meruliporia incrassata
 
-**Meruliporia incrassata** is a basidiomycete fungus and the primary cause of dry rot in buildings in California and other parts of North America.
+**Meruliporia incrassata** is a basidiomycete fungus and the primary cause of [[fungal-serpula-lacrymans-dry-rot-buildings]] in buildings in California and other parts of [[psilocybin-north-america-pacific-northwest]].
 
 It is one of the most destructive wood-decay fungi affecting residential structures, capable of reducing homes to rubble and sawdust within remarkably short periods.
 
@@ -27,11 +27,11 @@ The fungus enters buildings through several pathways:
 - Cracks in concrete slabs and holes for pipes or electrical work
 - Plumbing leaks providing moisture
 
-Once established in a basement, hyphae of dry rot fungi forge through the microscopic cells of hardwood beams, digesting cellulose walls.
+Once established in a basement, hyphae of dry [[comparison-white-rot-fungi-vs-trichoderma]] forge through the microscopic cells of hardwood beams, digesting cellulose walls.
 
 The brown colour of the decayed wood is due to the progressive concentration of dark-pigmented lignin.
 
-Unlike white rot fungi that extract lignin, brown rot fungi like M. incrassata selectively remove cellulose.
+Unlike [[fungal-degradation-of-pcbs-by-white-rot-fungi]] fungi that extract lignin, [[comparison-brown-rot-vs-white-rot-bioremediation]] fungi like M. incrassata selectively remove cellulose.
 
 ## Rhizomorphs and Water Transport
 
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

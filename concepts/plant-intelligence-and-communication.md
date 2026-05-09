@@ -24,8 +24,8 @@ perception and inter-organism communication.
 
 ## The Backster Effect
 
-The modern investigation of [[mycelium-network-intelligence]] and [[mycorrhizal-plant-signaling]] field
-specifically studies how mycorrhizal fungi mediate inter-plant
+The modern investigation of [[mycelium-network-intelligence]] and mycorrhizal-plant-signaling field
+specifically studies how [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] mediate inter-plant
 communication, particularly regarding defense responses.
 
 ## Implications for Ecology and Agriculture
@@ -33,7 +33,7 @@ communication, particularly regarding defense responses.
 Understanding plant communication has significant implications
 for ecology and agriculture. The ability of plants to warn
 neighbors of insect attack through volatile signals suggests
-possibilities for developing pest management strategies that
+possibilities for developing [[cannabis-pest-management-guide]] strategies that
 work with natural plant defenses. The role of [[mycorrhizal-fungi]] in facilitating inter-plant nutrient transfer
 and defense signaling is an active area of research with
 direct applications to sustainable farming practices.
@@ -47,7 +47,7 @@ difficult to replicate consistently in controlled laboratory
 settings, leading many mainstream scientists to question his
 conclusions. However, the broader field of plant signaling has
 gained considerable legitimacy through rigorous research on
-volatile organic compounds, electrical signals, and root
+[[fungal-volatile-organic-compounds-communication]] compounds, electrical signals, and root
 exudates. The question of whether plants possess consciousness
 or primary perception remains open, but their sophisticated
 communication capabilities are now well established.
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,3 +110,7 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[exopheromones-and-plant-intelligence]]
+- [[metzner-plant-teachers-diagnosis-divination-intelligence-communication]]

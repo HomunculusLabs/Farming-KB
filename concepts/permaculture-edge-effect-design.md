@@ -11,14 +11,15 @@ tags:
   - holmgren
   - mollison
 sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - raw/papers/bill-mollison-permaculture-design-course.md
   - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
 ---
 
 # Permaculture Edge Effect Design
 
-The edge effect is one of the most powerful concepts in permaculture design. Both Mollison and Holmgren emphasize that the interface between two ecosystems or conditions is where biological productivity, diversity, and interaction are greatest. Deliberately designing for and maximizing edge is a fundamental permaculture strategy.
+[[query-what-is-the-edge-effect-in-permaculture]] is one of the most powerful concepts in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. Both Mollison and Holmgren emphasize that the interface between two ecosystems or conditions is where biological productivity, diversity, and interaction are greatest. Deliberately designing for and maximizing edge is a fundamental permaculture strategy.
 
 ## What Is the Edge Effect?
 
@@ -35,7 +36,7 @@ Edge zones contain species from both adjoining ecosystems plus species unique to
 The energy flux is greater at edges. Resources, nutrients, and information flow between the two systems, creating more biological activity. Agricultural research consistently shows higher yields at field edges (though conventional agriculture discards this data as "bias").
 
 ### Greater Interaction
-More species in proximity means more ecological interactions -- pollination, predation, competition, symbiosis. These interactions create the dynamic, self-regulating quality of healthy ecosystems.
+More species in proximity means more [[king-stropharia-ecological-interactions-permaculture]] -- pollination, predation, competition, symbiosis. These interactions create the dynamic, self-regulating quality of healthy ecosystems.
 
 ### Innovation and Adaptation
 Edges are where evolution happens fastest. The meeting of different conditions creates selective pressures that drive adaptation. In design, edges are where innovation occurs.
@@ -66,14 +67,14 @@ This geometric principle explains why [[permaculture-herb-spiral-details|herb sp
 - Connect multiple water bodies with streams or channels for additional edge
 
 ### Food Forests and Orchards
-- Create clearings within forest gardens for sun-loving plants
+- Create clearings within [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] for sun-loving plants
 - Use multiple canopy layers for edge between light and shade
 - Design the transition between forest garden and open garden as a productive ecotone
 
 ### Property Boundaries
 - Design hedgerows and shelterbelts instead of fences where possible
 - Create a productive transition zone between wild and cultivated areas
-- Use multiple layers in boundary plantings (trees, shrubs, ground covers)
+- Use multiple layers in boundary plantings (trees, shrubs, [[permaculture-plants-food-forest-ground-covers-bamboos]])
 
 ### Buildings and Structures
 - Design the building-garden interface for maximum productive edge

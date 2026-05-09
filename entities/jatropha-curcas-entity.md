@@ -9,9 +9,10 @@ sources:
   - "General botanical and agricultural knowledge"
 ---
 # Jatropha curcas
+
 ## Physic Nut
 Semi-evergreen shrub or small tree in the Euphorbiaceae family, native to
-Central America and now pantropical in distribution. Jatropha curcas gained
+[[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and now pantropical in distribution. Jatropha curcas gained
 global attention in the 2000s as a drought-tolerant biofuel feedstock, with
 seeds containing 30–40% inedible oil suitable for [[candida-albicans]]
 - **Anti-inflammatory:** Leaf extracts and bark decoctions used for
@@ -21,7 +22,8 @@ seeds containing 30–40% inedible oil suitable for [[candida-albicans]]
   against Plasmodium falciparum; used traditionally in West Africa
 - **Anticancer:** Phorbol esters from toxic genotypes show tumor-promoting
   activity, but isolated non-phorbol constituents (curcin, betulinic
-  acid) exhibit selective cytotoxicity against cancer cell lines
+  acid) exhibit selective cytotoxicity against [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines
+
 ## Permaculture Applications
 ### Living Fence and Boundary
 Jatropha's primary permaculture value is as a living fence. Planted at
@@ -35,7 +37,7 @@ effective for stabilizing slopes, gullies, and degraded lands. In
 tropical rehabilitation projects, it is often the first species
 established on severely eroded sites.
 ### Phytoremediation
-J. curcas accumulates heavy metals (lead, cadmium, zinc) from
+J. curcas accumulates [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] (lead, cadmium, zinc) from
 contaminated soils, making it a candidate for phytoremediation of
 mine tailings and industrial sites. Growth is reduced under heavy metal
 stress but the species survives where few others can.
@@ -46,6 +48,7 @@ stress but the species survives where few others can.
   substantially below early optimistic projections (5–12 tonnes/ha);
   irrigation and fertilization improve yields but reduce the marginal-
   land advantage
+
 ## Cultivation Notes
 - **Propagation:** Primarily by seed (direct or nursery-raised seedlings);
   vegetative propagation by stem cuttings (20–30 cm, 1–2 year old wood)
@@ -55,10 +58,12 @@ stress but the species survives where few others can.
 - **Time to first harvest:** 12–18 months from seed; 6–12 months from
   cutting
 - **Yield:** 0.5–2.0 tonnes seed/ha/year; 5–8 tonnes fruit/ha/year
+
 ## See Also
 - [[moringa-oleifera]]
 - jatropha curcas entity
 - [[simmondsia-chinensis]]
+
 ## Practical Considerations
 
 Successful implementation of Jatropha curcas requires attention to
@@ -77,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

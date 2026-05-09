@@ -30,7 +30,7 @@ Several highly productive herbaceous perennials grow in or near water:
 
 - **Lotus (Nelumbo nucifera)** -- Herbaceous perennial to 2 m. Cultivated for seed, leaves (spring), and rhizomes (autumn). Leaves can reach 1 m diameter.
 
-- **Cumbungi / Cattail (Typha spp)** -- Tall plants to 2 m with grass-like leaves. Edible pollen (rich in protein, carbohydrate, oil, sulphur, phosphorus) used as flour additive up to 1:1 ratio. Young spring shoots steamed as vegetable. Tubers cooked like potatoes. Roots high in starch, dried and ground into sweet flour. One hectare yields 7,000 kg. Pollen flour successfully fermented to ethyl alcohol.
+- **Cumbungi / Cattail (Typha spp)** -- Tall plants to 2 m with grass-like leaves. Edible pollen (rich in protein, carbohydrate, oil, sulphur, phosphorus) used as flour additive up to 1:1 ratio. Young spring shoots steamed as vegetable. Tubers cooked like potatoes. Roots high in starch, dried and ground into sweet flour. One hectare yields 7,000 kg. Pollen flour successfully fermented to [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]].
 
 - **Arrowhead (Sagittaria spp)** -- Plants at water's edge to 0.5 m depth. American Indians called tubers "wapatoo" -- said to be as good as potatoes. S. trifolia produces 8+ underground stems each with a corm, boiled like potatoes, high in protein (5-7%) for a root crop.
 
@@ -40,7 +40,7 @@ Several highly productive herbaceous perennials grow in or near water:
 
 - **Pampas Grass (Cortaderia selloana)** -- Clumping perennial to 3 m. Suited to cool and heat, acid and alkaline soils, including waterlogged areas. Fast recovery from grazing. Good windbreak and shelter. One acre planted at 1.8 m x 1.8 m equivalent to 3000 bales of hay. Deep roots bring up trace elements controlling grass tetany. May be invasive in some reforestation.
 
-- **Elephant Grass (Pennisetum purpureum)** -- Clumping perennial to 4 m, native to tropical Africa. Fairly tolerant of different soil conditions, remarkably drought tolerant. Very fast to recover from browsing. Propagated simply by placing small branches into damp soil.
+- **Elephant Grass (Pennisetum purpureum)** -- Clumping perennial to 4 m, native to tropical Africa. Fairly tolerant of different soil conditions, remarkably [[permplant-carob-drought-tolerant-food-tree]]. Very fast to recover from browsing. Propagated simply by placing small branches into damp soil.
 
 - **Bana Grass (P. purpureum x americanum)** -- Hybrid with broader leaf than elephant grass, less aggressive, produces little seed. Propagated by laying whole stems (up to 4 m) into shallow trenches.
 
@@ -71,12 +71,12 @@ Some of the most productive herbaceous perennials documented:
 - Integrate aquatic perennials into pond and dam edges at multiple depths
 - Design ponds with graduated depth zones for submerged, floating, emergent, and margin plants
 - Medicinal herbs should be available to livestock at all times in a broad spectrum
-- Perennial grasses provide drought reserve fodder and erosion control
+- Perennial grasses provide drought reserve fodder and [[permplant-willows-salix-erosion-control-fodder]]
 - Duckweed systems convert nutrient-rich water into high-protein animal feed
 - Many wetland perennials produce food while filtering and oxygenating water
 - Combine nitrogen-fixing aquatics (azolla, water mimosa) with food-producing species
-- Use productive aquatic species in greywater treatment and constructed wetlands
+- Use productive aquatic species in [[mollison-designers-greywater-treatment-reedbeds]] and [[comparison-constructed-wetlands-vs-bioswales]]
 - Fodder grasses can be managed as lock-up systems, cut and carried to stock
-- Select perennial vegetables that also provide medicinal functions (comfrey, gotu kola)
+- Select [[comparison-perennial-vegetables-vs-cover-crops]] that also provide medicinal functions (comfrey, gotu kola)
 - Neem offers [[perennial-vegetables]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]

@@ -31,7 +31,7 @@ the groundwork for modern psychedelic-assisted palliative care.
 Pahnke was born in 1931 and attended **Pomona College** in Claremont,
 California, earning his AB in 1953. He pursued medical training at
 **Harvard Medical School** (MD, 1962), where he became involved with the
-psychedelic research program of **Timothy Leary** and **Richard Alpert** at
+[[mckenna-suppression-psychedelic-research-lsd-therapy]] program of **Timothy Leary** and **Richard Alpert** at
 the Center for Research in Personality. Concurrently, he studied at
 **Harvard Divinity School**, reflecting his interest in the intersection of
 religion, mysticism, and psychopharmacology. The comparative religion
@@ -85,7 +85,7 @@ Hospital** in Baltimore County, Maryland, in the mid-1960s. Working with
 investigated **LSD-assisted psychotherapy** for terminal cancer patients.
 The Spring Grove studies found that a single psychedelic session could
 significantly reduce anxiety, depression, and fear of death, with some
-patients reporting transformative mystical experiences that altered their
+patients reporting transformative [[psilocybin-mystical-experiences-personality-change]] that altered their
 relationship to dying. Pahnke was also affiliated with the **Maryland
 Psychiatric Research Center (MPRC)**, one of the last institutional
 bastions of psychedelic research before regulatory shutdown in the early
@@ -124,7 +124,7 @@ psychedelic research is presented at major conferences. His Good Friday
 Experiment is cited in virtually every major review of psychedelic therapy
 history. His work at Spring Grove anticipated the modern revival of
 psychedelic-assisted palliative care at NYU, Johns Hopkins, and UCLA, and
-his MEQ remains a standard instrument in contemporary clinical trials.
+his MEQ remains a standard instrument in contemporary [[mushroom-cancer-clinical-trials-overview]].
 
 ## See Also
 

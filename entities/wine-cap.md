@@ -1,5 +1,5 @@
 ---
-title: "Wine Cap Mushroom (Stropharia rugosoannulata)"
+title: "Wine wine-cap-mushroom-cultivation (Stropharia rugosoannulata)"
 created: 2026-05-07
 type: species
 tags:
@@ -14,9 +14,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Stamets, P. (2000). "Growing Gourmet and Medicinal Mushrooms." 3rd ed. Ten Speed Press.
+  - Stamets, P. (2000). "Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive." 3rd ed. Ten Speed Press.
   - Szudy, E. (2017). "Stropharia rugosoannulata: The Wine-Cap Mushroom, a Promising Species for Permaculture." Mycosphere, 8(4), 537-551.
-  - Zervakis, G., et al. (2012). "Cultivation of the Edible Mushroom Stropharia rugosoannulata on Agro-Industrial Residues." Bioresource Technology, 114, 494-502.
+  - Zervakis, G., et al. (2012). "Cultivation of the [[bloomfield-boletus-satanus-edible-mushroom-hazards]] Stropharia rugosoannulata on Agro-Industrial Residues." Bioresource Technology, 114, 494-502.
   - Piattoni, F., et al. (2014). "Soil Fertility and Mycological Properties as Affected by Stropharia rugosoannulata." Applied Soil Ecology, 73, 1-9.
   - Cleary, T., et al. (2019). "Optimization of Wine Cap Cultivation on Hardwood Chips." Mushroom Science, 19(2), 167-178.
 ---
@@ -28,11 +28,11 @@ sources:
 
 ### Key Identification Features
 
-The combination of a burgundy cap (when young), prominent wrinkled ring, dark spore print, and growth on wood chips or straw distinguishes S. rugosoannulata from similar species. The only potentially confusing lookalike is the inedible *[[mycelial-networks]] stabilize mulch layers on slopes and berms
+The combination of a burgundy cap (when young), prominent wrinkled ring, dark [[comparison-spore-print-collection-vs-spore-syringe-production]], and growth on wood chips or straw distinguishes S. rugosoannulata from similar species. The only potentially confusing lookalike is the inedible *[[mycelial-networks]] stabilize mulch layers on slopes and berms
 
 ### [[query-how-to-grow-wine-cap-mushrooms]]
-- wine cap stropharia cultivation
-- [[king-stropharia-wine-cap-cultivation]]
+- wine [[wine-cap-stropharia-cultivation]] cultivation
+- king-stropharia-wine-cap-cultivation
 ## Practical Applications
 
 Wine Cap Mushroom (Stropharia rugosoannulata) has a range of practical applications that make it relevant to
@@ -110,4 +110,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

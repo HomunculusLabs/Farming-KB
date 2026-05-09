@@ -41,7 +41,7 @@ interconnected mechanisms:
 
 - **T-cell activation:** Acts as a T-cell oriented immunopotentiator,
   requiring a functional T-cell component for biological activity
-- **Helper T-cell increase:** Stimulates increased production of
+- **Helper T-cell increase:** Stimulates [[fukuoka-textdoc-increased-production-not-increased-yields]] of
   helper T-cells, which coordinate the immune response
 - **Macrophage activation:** Increases macrophage production and
   activity, enhancing the body's first-line immune defense
@@ -62,7 +62,7 @@ were suppressed with cyclosporin A, confirming that both require a
 competent T-cell system for their anti-cancer effects.
 
 ### Clinical Applications
-- **Gastric cancer:** Has proved useful in treating recurrent and
+- **[[lentinan-gastric-cancer-combination-therapy]]:** Has proved useful in treating recurrent and
   inoperable gastric cancers
 - **Head and neck cancers:** Shown to increase survival times in
   patients with head and neck cancers
@@ -73,7 +73,7 @@ competent T-cell system for their anti-cancer effects.
 - **Route of administration:** Effective via intravenous route
 
 ### Research Status
-Schizophyllan has been through Phase I, II, and III clinical trials,
+Schizophyllan has been through Phase I, II, and III [[mushroom-cancer-clinical-trials-overview]],
 primarily in Japan. Research has demonstrated that its anti-tumor
 activity is due mainly to host-mediated immune responses rather than
 direct cytotoxic effects on cancer cells. The induction of cytokine
@@ -86,7 +86,7 @@ mushroom-derived beta-glucans, with decades of research and clinical
 use in Japan. Its triple-helix structure is a model for understanding
 how beta-glucan conformation relates to immunological activity. For
 mushroom cultivators, Schizophyllum commune is one of the easiest
-mushrooms to grow in liquid culture, making schizophyllan production
+mushrooms to grow in [[comparison-liquid-culture-vs-grain-spawn]], making schizophyllan production
 relatively accessible through fermentation methods.
 
 ## See Also

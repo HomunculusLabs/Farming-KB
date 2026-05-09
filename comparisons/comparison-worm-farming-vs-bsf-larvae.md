@@ -1,5 +1,5 @@
 ---
-title: "Worm Farming vs Black Soldier Fly Larvae"
+title: "comparison worm farming vs bsf larvae vs comparison-black-soldier-fly-composting-vs-bokashi [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]]"
 created: 2026-04-28
 tags: [comparison, composting, livestock-feed, protein-production]
 date: 2026-04-25
@@ -17,9 +17,9 @@ production both convert organic waste into valuable products, but
 they target different end markets and operate on different biological
 principles. Worm farming produces premium soil amendments including
 castings, worm tea, and live worms for sale to gardeners and
-farmers. BSF larvae production generates high-protein animal feed
+farmers. BSF larvae production generates high-protein [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]]
 for poultry, aquaculture, and livestock operations. Both systems
-embody the permaculture principle of turning waste into value, but
+embody the [[permaculture-principle-apply-self-regulation]] of turning waste into value, but
 their revenue models, scaling dynamics, and operational requirements
 diverge significantly.
 
@@ -74,7 +74,7 @@ slows dramatically in cooler temperatures.
 
 Choose worm farming when your primary goal is producing soil
 amendments and your target market includes gardeners, organic
-farmers, and compost enthusiasts. Worm castings command premium
+farmers, and compost enthusiasts. [[ingham-vermicompost-worm-castings]] command premium
 prices and build long-term customer relationships. The low startup
 cost and free feedstock make it accessible to anyone with space
 for bins. Multiple revenue streams provide income diversification
@@ -97,7 +97,7 @@ The most sophisticated operations combine both organisms in
 integrated waste processing cascades. Worm castings fertilize
 plants, plant waste feeds BSF colonies, BSF pre-compost feeds
 worms, and both systems supply their respective end products.
-This circular integration maximizes waste conversion efficiency,
+This circular integration maximizes [[fungi-in-composting-and-agricultural-waste-conversion]] efficiency,
 diversifies revenue, and creates biological resilience through
 species diversity. Each organism processes material the other
 cannot, creating complementary treatment stages.

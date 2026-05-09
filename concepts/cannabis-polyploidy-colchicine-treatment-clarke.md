@@ -1,5 +1,5 @@
 ---
-title: Cannabis Polyploidy [[colchicine]] Treatment Clarke
+title: Cannabis cannabis polyploidy colchicine treatment clarke Treatment Clarke
 created: 2026-04-28
 tags: [cannabis, genetics, polyploidy, breeding, Clarke]
 date: 2026-04-25
@@ -49,7 +49,7 @@ potency is genetically determined.
 More recent research by A. I. Zhatov with fiber Cannabis showed that
 some economically valuable traits such as fiber quantity may be improved
 through polyploidy. Polyploids require more water and are usually more
-sensitive to changes in environment. Vegetative growth cycles are
+sensitive to changes in environment. [[cannabis-vegetative-growth-stage]] cycles are
 extended by up to 30-40% in polyploids.
 
 An extended vegetative period could delay the flowering of polyploid
@@ -119,11 +119,11 @@ Except for changes in leaf shape and phyllotaxy, no outstanding
 characteristics have developed in these strains and potency seems
 unaffected.
 
-Seed treatment is the most effective and safest way to apply colchicine.
+[[jadam-seed-treatment-and-nursery-management]] is the most effective and safest way to apply colchicine.
 The entire plant growing from a colchicine-treated seed could be
-polyploid and if any colchicine exists at the end of the growing season
+polyploid and if any colchicine exists at the end of the [[savory-growing-season-and-non-growing-season-management]]
 the amount would be infinitesimal. Colchicine is nearly always lethal
-to Cannabis seeds, and in the treatment there is a very fine line
+to [[query-how-to-store-cannabis-seeds-for-long-term-viability]], and in the treatment there is a very fine line
 between polyploidy and death.
 
 ## Chromosome Mapping
@@ -138,10 +138,12 @@ chromosome.
 In the future, chromosome mapping will enable us to picture the
 location of the genes influencing the phenotype of Cannabis. This will
 enable geneticists to determine and manipulate the important
-characteristics contained in the gene pool. For each trait the number
+characteristics contained in the [[cannabis-gene-pool-preservation-acclimatization-clarke]]. For each trait the number
 of genes in control will be known, which chromosomes carry them, and
-where they are located along those chromosomes.
 ## See Also
+
+- [[cervantes-colchicine-polyploidy-mutagenesis]]
 
 - [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]]
 - [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]
+- [[query-how-can-companion-plants-protect-cannabis-from-pests]]

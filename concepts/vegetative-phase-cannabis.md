@@ -1,5 +1,5 @@
 ---
-title: Vegetative Phase Cannabis
+title: green-cannabis-grow-bible-vegetative-phase-management Cannabis
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -10,8 +10,8 @@ tags: [cannabis]
 
 # Vegetative Phase Cannabis
 
-The vegetative phase is the growth stage where cannabis develops its root system, stem,
-branch structure, and foliage before flowering. Strong, healthy vegetative growth is the
+The vegetative phase is the [[cho-plant-growth-stage-treatment-protocols]] where cannabis develops its root system, stem,
+branch structure, and foliage before flowering. Strong, healthy [[cannabis-vegetative-growth-stage]] is the
 foundation of a heavy harvest. This stage is maintained by providing 16 or more hours
 of light daily via the [[greg-green-mother-plants-and-clone-maintenance]] in perpetual vegetative growth for
 years.
@@ -19,7 +19,7 @@ years.
 ## Light Requirements
 
 Vegetative growth is maintained with 16 or more hours of light. Plants grow faster under
-24 hours of continuous light. Metal halide lamps are preferred for vegetative growth due
+24 hours of continuous light. [[cervantes-metal-halide-lighting-systems]] lamps are preferred for vegetative growth due
 to their blue-rich spectrum, which promotes compact, sturdy growth. Fluorescent and LED
 lights also work well for seedlings and young vegetative plants.
 
@@ -76,7 +76,7 @@ regimen, pre-flowers show more quickly and are often more pronounced.
 
 ## Cloning and Transplanting
 
-The vegetative stage is when [[transplanting-techniques-low-input]],
+The [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] is when [[transplanting-techniques-low-input]],
 pruning, and training are performed. Clones taken during vegetative growth root reliably
 and grow vigorously. Transplanting to progressively larger containers should be done
 before plants become root-bound.

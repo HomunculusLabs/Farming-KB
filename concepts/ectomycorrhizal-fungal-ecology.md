@@ -17,7 +17,7 @@ Ectomycorrhizal (ECM) fungi form symbiotic associations primarily with woody pla
 
 The ECM association involves:
 - **Fungal mantle**: Dense layer of hyphae enveloping the root tip, acting as a physical barrier and modified absorptive surface
-- **Hartig net**: Labyrinthine network of hyphae between root cortical cells, the primary site of nutrient exchange
+- **Hartig net**: Labyrinthine network of hyphae between root cortical cells, the primary site of [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
 - **Extraradical mycelium**: Extensive network of hyphae and hyphal cords extending into soil, sometimes for meters from the root
 - **Fruiting bodies**: Above-ground mushrooms produced by basidiomycete and ascomycete ECM fungi
 
@@ -42,7 +42,7 @@ ECM fungi enhance phosphorus uptake through:
 
 ### Enzymatic Capabilities
 
-ECM diversity includes species with varying enzymatic repertoires. Some ECM species produce lignin-degrading enzymes (peroxidases, laccases), allowing them to function as saprotrophs in addition to symbionts. This enzymatic diversity is critical in ecosystems where litter quality is low (high C:N, high lignin content).
+ECM diversity includes species with varying enzymatic repertoires. Some ECM species produce lignin-degrading enzymes (peroxidases, laccases), allowing them to function as saprotrophs in addition to symbionts. This [[fungal-enzymatic-diversity-decomposition]] is critical in ecosystems where [[dighton-litter-quality-fungal-decomposition-rates]] is low (high C:N, high lignin content).
 
 ## Community Structure and Succession
 
@@ -50,13 +50,13 @@ ECM communities change predictably during forest development:
 - **Early-stage fungi** (Laccaria, Hebeloma, Thelephora): Rapid colonizers, broad host range, tolerant of disturbance
 - **Late-stage fungi** (Amanita, Cortinarius, Russula): Slower to establish, narrower host preferences, form long-term associations
 
-Last et al. (1987) described successions of sheathing mycorrhizal fungi where the community composition shifts as stands mature. This succession reflects both changes in soil chemistry and competitive interactions among fungal species.
+Last et al. (1987) described successions of sheathing mycorrhizal fungi where the [[core-endorhiza-bacterial-community-composition-cannabis]] shifts as stands mature. This succession reflects both changes in soil chemistry and competitive interactions among fungal species.
 
 ## Interplant Connections
 
 ECM networks connect trees of the same or different species:
 - Read et al. (1985) showed preferential 14C transfer between pine seedlings sharing the same ECM association compared to plants with arbuscular mycorrhizae
-- Simard et al. (1997) demonstrated field carbon transfer from paper birch to Douglas-fir, with transferred carbon constituting 13% of fir and 45% of birch shoot carbon
+- Simard et al. (1997) demonstrated field [[singh-mycorrhizal-network-carbon-transfer-plants]] from paper birch to Douglas-fir, with transferred carbon constituting 13% of fir and 45% of birch shoot carbon
 - Amaranthus and Perry (1989) showed that remnant ECM networks in partially cleared sites support 90% tree survival vs. 50% in fully cleared sites
 
 ## Ecosystem Roles
@@ -64,7 +64,7 @@ ECM networks connect trees of the same or different species:
 ### Forest Regeneration
 
 ECM networks facilitate forest regeneration by:
-- Connecting seedlings to established trees for resource sharing
+- Connecting seedlings to established trees for [[mycelial-network-resource-sharing-plants]]
 - Providing established nutrient pools to establishing individuals
 - Enhancing seedling survival during competitive establishment
 - Onguene and Kuyper (2002) showed ECM networks enhance seedling survival and mycorrhiza formation in Cameroon rain forests
@@ -96,6 +96,6 @@ Dighton and Jansen (1991) modeled ECM responses to elevated CO2:
 ## See Also
 
 - [[mycorrhizal-networks]] for interplant connections
-- [[fungal-chromogens-and-color-change]]
+- fungal-chromogens-and-color-change
 - [[bolete-mushrooms-ecology-edibility]]
 - [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]

@@ -31,15 +31,15 @@ sources:
 ## Overview
 
 Russula cyanoxantha, commonly known as the charcoal burner, is a widely
-distributed edible mushroom in the Russulaceae family. It is considered one of
+distributed [[bloomfield-boletus-satanus-edible-mushroom-hazards]] in the Russulaceae family. It is considered one of
 the finest edible species in the large genus *Russula*, prized for its mild,
 nutty flavor and firm texture that holds up well to cooking. Found across Europe,
-Asia, and North America, it fruits from early summer through autumn in deciduous
+Asia, and [[psilocybin-north-america-pacific-northwest]], it fruits from early summer through autumn in deciduous
 and mixed woodlands, forming ectomycorrhizal associations primarily with oaks
 and beech. The species epithet *cyanoxantha* refers to its variable cap coloration
 combining blue-green and pink-purple tones. It is one of the few *Russula*
 species widely recommended for beginners due to its reliable edibility and
-distinctive features.
+[[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]].
 
 ## Taxonomy
 
@@ -62,7 +62,7 @@ distinctive features.
   firm; turns slowly grey-brown with age or handling
 - **Flesh:** White, firm, thick; does not change color when cut or bruised;
   mild, slightly nutty taste and fruity odor
-- **Spore print:** White to pale cream (3a–3b in Romagnesi color scale)
+- **[[comparison-spore-print-collection-vs-spore-syringe-production]]:** White to pale cream (3a–3b in Romagnesi color scale)
 - **Spores:** Globose to broadly ellipsoid, 6.5–9 × 5.5–7.5 µm; ornamented
   with isolated warts connected by fine ridges forming a partial reticulum
 
@@ -91,7 +91,7 @@ distinctive features.
 ## Distribution and Habitat
 
 - **Geographic range:** Widespread across temperate Europe, parts of Asia (China,
-  Japan, Korea), eastern North America, and North Africa
+  Japan, Korea), [[polypore-fungi-eastern-north-america]] America, and North Africa
 - **Habitat:** Ectomycorrhizal, forming associations with hardwood trees;
   primarily found under oak (*Quercus* spp.) and beech (*Fagus sylvatica*);
   occasionally under hornbeam, birch, or chestnut
@@ -133,7 +133,7 @@ distinctive features.
   causes nausea and vomiting
 - **Key safety rule:** Always taste a small piece (chew and spit) when foraging
   *Russula*; acrid or peppery-tasting species should be discarded
-- **General caution:** As with all wild mushrooms, positive identification by
+- **General caution:** As with all [[edible-wild-mushrooms-by-region]], positive identification by
   an experienced forager is essential before consumption
 
 ## See Also

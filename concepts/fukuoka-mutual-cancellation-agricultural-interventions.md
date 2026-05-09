@@ -2,7 +2,7 @@
 
 ## Overview
 
-One of Masanobu Fukuoka's most incisive critiques of scientific agriculture was
+One of [[masanobu-fukuoka]]'s most incisive critiques of [[fukuoka-critique-scientific-agriculture-civilization]] was
 his theory of mutual cancellation — the observation that human interventions
 in farming systems tend to neutralize each other, producing no net improvement
 despite enormous effort and expense. In "The Natural Way of Farming," Fukuoka
@@ -27,9 +27,9 @@ This principle derives from what Fukuoka called the "equilibrium of nature."
 Nature is not a passive system that can be incrementally improved by adding
 inputs. It is an active, self-regulating system that resists perturbation.
 When the farmer applies fertilizer to boost growth, the resulting lush
-vegetation creates conditions favorable to pests and diseases. When the
+vegetation creates conditions favorable to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. When the
 farmer applies pesticides to control these new pests, the pesticides kill
-beneficial insects that were keeping other pest populations in check, creating
+[[comparison-beneficial-insects-guide-vs-integrated-pest-management]] that were keeping other pest populations in check, creating
 new pest problems. Each intervention generates a reaction that cancels the
 original benefit.
 
@@ -38,7 +38,7 @@ original benefit.
 Fukuoka illustrated mutual cancellation with a detailed analysis of rice
 cultivation. Scientists had identified many individual factors believed to
 increase rice yields: varieties that bear large grain heads, maximum sunlight
-exposure, heavy fertilizer application, thorough pest control, and efficient
+exposure, heavy [[cervantes-fertilizer-application-strain-feeding]], thorough pest control, and efficient
 irrigation. Each factor, tested in isolation, appeared to improve yields. But
 when combined, they cancelled each other out.
 
@@ -50,7 +50,7 @@ farmer's efforts to arrange plants for maximum light. Thorough pest control
 measures result in lodging (plants falling over) because the chemicals weaken
 the plant's structural integrity. Water-conserving irrigation to improve light
 exposure may actually reduce available light when weed growth increases in the
-moist conditions, and insufficient water interferes with nutrient transport.
+moist conditions, and insufficient water interferes with [[mycelial-network-nutrient-transport-imaging-gadd]].
 
 The use of all these measures simultaneously produces an indefinite result —
 no clear conclusion at all. The farmer has expended enormous effort and
@@ -73,7 +73,7 @@ state it would have reached without intervention.
 Fukuoka argued that mutual cancellation renders most agricultural research
 futile. When a researcher identifies the cause of a poor harvest in one year,
 that knowledge is useless the following year because the weather, biological
-environment, cultivation methods, soil conditions, and disease pressure will
+environment, [[synthetic-log-cultivation-methods-guide]], soil conditions, and disease pressure will
 all be different. Since all factors of production are organically interrelated,
 when one factor changes, all other factors and conditions change with it. What
 was learned from this year's experience is totally useless for setting next

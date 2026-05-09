@@ -1,24 +1,25 @@
 ---
-title: Humidity Management and Fogging Systems
+title: stamets cultivator humidity management fogging systems and Fogging Systems
 created: 2026-04-28
 tags: [environmental-control, humidity, fogging, growing-room, climate-systems]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
 
 # Humidity Management and Fogging Systems
 
-Proper humidity management is critical for successful mushroom cultivation.
+Proper humidity management is critical for successful [[mushroom-cultivation]].
 Without adequate moisture, mushrooms do not grow. The fruiting of mushrooms
 requires a high-humidity environment that can be readily controlled. Once
 primordia are set, relative humidity should be lowered to 85-92% and held
 constant throughout the cropping cycle. Besides maintaining humidity for
 mushroom development, environmental moisture must also be managed to
-suppress contaminants like Trichoderma (Forest Green Mold) and Bacterial
-Blotch (Pseudomonas).
+suppress contaminants like [[trichoderma]] ([[trichoderma-forest-green-mold-guide]] Mold) and Bacterial
+Blotch ([[pseudomonas]]).
 
 ## Steam Humidification
 
@@ -58,7 +59,7 @@ saturated with water. Similar in principle to a "swamp cooler," this
 system is widely used at nurseries. The temperature of the supply water
 can be regulated to provide both heating and cooling. Like the atomizing
 nozzle system, it produces free water requiring drainage. This method is
-particularly effective in arid climates where evaporative cooling
+particularly effective in arid climates where [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]]
 provides additional temperature control benefits.
 
 ## Dehumidification
@@ -69,23 +70,23 @@ air exchange. Systems that recirculate as well as draw fresh air share
 the common trait of drawing warm air over a colder surface. Moisture
 condenses out of the air, effectively dehumidifying the room. Properly
 balanced air handling systems in the
-[[stamets-mushroom-growing-room-design]] should include
+stamets-mushroom-growing-room-design should include
 maximum-minimum thermometers and a hygrometer or sling psychrometer for
 measuring humidity. Hygrometers should be periodically calibrated with a
 sling psychrometer for accuracy. Advanced equipment helpful to growers
-includes CO2 detectors, moisture meters, anemometers, and light
+includes CO2 detectors, [[cervantes-moisture-meters-watering-technique]], anemometers, and light
 measuring devices.
 
 ## Humidity Requirements by Growth Stage
 
-Different stages of the mushroom cultivation cycle require different
+Different stages of the [[accessible-mushroom-cultivation-for-disabilities]] cycle require different
 humidity levels. During [[stamets-cultivator-trichoderma-prevention-and-treatment]].
 
 ## Water Quality Considerations
 
 Water quality, including its pH and mineral content, varies from region
 to region. Water used for humidification and misting should be free from
-contaminants that could harm mycelium or introduce competing organisms.
+contaminants that could harm [[mycelium]] or introduce competing organisms.
 The temperature of the supply water in both evaporative pad and
 atomizing nozzle systems can be regulated to provide a measure of heating
 and cooling in addition to humidification, making these dual-purpose
@@ -93,5 +94,5 @@ systems especially efficient for smaller operations.
 
 ## Related Topics
 
-- [[stamets-mushroom-growing-room-design]]
+- stamets-mushroom-growing-room-design
 - [[stamets-pinning-initiation-stages-environmental-control]]

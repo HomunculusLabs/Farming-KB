@@ -1,5 +1,5 @@
 ---
-title: "Diversion Drains and Interceptor Banks in Permaculture Design"
+title: "mollison designers diversion drains and interceptor banks and Interceptor Banks in bill-mollison-permaculture-a-designers-manual-permaculture-design-principles"
 created: 2026-04-26
 tags:
   - water-harvesting
@@ -17,14 +17,14 @@ type: concept
 # Diversion Drains and Interceptor Banks in Permaculture Design
 
 Diversion drains and interceptor banks are critical earthwork
-features in permaculture water management. While [[mollison-pdc-keypoint-keyline-humid]] systems,
+features in permaculture water management. While mollison-pdc-keypoint-keyline-humid systems,
 they form the complete toolkit for landscape water management.
 
 ## Diversion Drains: Purpose and Function
 
 Diversion drains are gently sloping channels used to lead
 water away from valleys and streams and into storages and
-irrigation systems, or into [[mollison-fire-control-design]] system in forested areas.
+irrigation systems, or into mollison-fire-control-design system in forested areas.
 
 For sophisticated wildfire or irrigation control, both slide
 gates and dam-base gate valves can be remotely operated by
@@ -78,9 +78,15 @@ from waterlogging and salt seepage, enabling the
 rehabilitation of previously desertified soils through
 subsequent [[mollison-designers-check-dam-types-and-landscape-placement]]
   for water storage
-- [[mollison-keyline-water-conservation]] systems
+- mollison-keyline-water-conservation systems
   for gravity-fed irrigation
 - [[mollison-earthworks-planning-and-post-earthworks-planting]]
   planning and follow-up planting
 
 The landscape can be viewed (as though sliced into layers
+## See Also
+- [[irrigation-systems]]
+- [[water-management]]
+- [[permaculture-design]]
+- [[mollison-designers-community-seed-banks-and-exchange]]
+- [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]]

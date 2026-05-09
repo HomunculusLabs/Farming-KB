@@ -1,5 +1,5 @@
 ---
-title: Fermented Mixed Compost Methods
+title: cho fermented mixed compost methods Compost Methods
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 
 Fermented Mixed Compost (FMC) is a premium compost input in Dr. Cho's
-Natural Farming system. While similar in appearance to ordinary farm
+[[comparison-natural-farming-vs-permaculture]] system. While similar in appearance to ordinary farm
 yard manure, its quality is completely different. FMC is highly
 effective in promoting micronutrient absorption, enhancing plant
 hormone effectiveness, and providing vitamins. It incorporates
@@ -40,7 +40,7 @@ work without bacterial competition.
 - IMO-4 (10% of total materials)
 - Oil cake, fish waste, bone meal, bean oil cake, egg shell
 - Powdered oyster, crab, shrimp, or eggshells (calcium source)
-- Natural Farming inputs: FPJ, FAA, OHN, etc.
+- Natural [[natural-farming-inputs-cho]]: FPJ, FAA, OHN, etc.
 - Rice straw mat for covering
 
 ### Procedure
@@ -48,7 +48,7 @@ work without bacterial competition.
    sun and rain. Total materials should exceed 500 kg (difficult to
    maintain fermentation heat with smaller volumes)
 2. Add IMO-4 (10% of total). One microorganism possesses hundreds of
-   enzymes and compounds that change materials into easily absorbed
+   enzymes and compounds that [[phase-change-materials-thermal-energy-storage]] into easily absorbed
    substances
 3. Heap to 40 cm height in hot weather, 80 cm in cold weather
 4. Adjust moisture to 60% using diluted (1:500) FPJ, FAA, OHN. The
@@ -81,7 +81,7 @@ work without bacterial competition.
 ## Method 2: Simplified Procedure
 
 1. Mix IMO-4 with compost materials (oil cake, fowl droppings, pig
-   manure, cow manure, fish meal, commercial organic fertilizer) at
+   manure, cow manure, fish meal, commercial [[complete-organic-fertilizer-cof-recipe-solomon]]) at
    a 1:10 ratio
 2. Ferment for 7-14 days
 3. For enhanced results, add cow bone powder, shrimp shell, or crab
@@ -111,7 +111,7 @@ active than conventional compost.
    survive better)
 4. Surface application under rice straw or mulching is effective
 5. Small lump form is better than smashed form for sustainability
-6. As liquid fertilizer: immerse FMC in cloth with water, add FPJ
+6. As [[jadam-liquid-fertilizer-nutritional-perspective]]: immerse FMC in cloth with water, add FPJ
    and LAB (1:1000); spray on crops in evening or at night
 
 ## Ingredient Diversity

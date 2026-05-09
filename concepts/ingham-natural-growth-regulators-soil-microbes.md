@@ -1,5 +1,5 @@
 ---
-title: Natural Growth Regulators Produced by Soil Microbes
+title: Natural singh-fungal-plant-growth-regulators-production Produced by Soil Microbes
 created: 2026-04-28
 tags: [microbiology, plant-growth, soil-foodweb, hormones]
 date: 2026-04-28
@@ -12,14 +12,14 @@ type: concept
 
 ## The Microbial Basis of [[cordyceps-cancer-bioactive-compounds]]. When organisms are applied to soil or
 plant surfaces, they produce these materials as part of their normal
-metabolic activity. The plant then benefits from these compounds as
+[[arbuscule-isolation-metabolic-activity-assays]]. The plant then benefits from these compounds as
 they become available in the root zone or on leaf surfaces.
 
 ## What Kinds of Growth Regulators Are Produced
 
 Soil microorganisms produce a wide range of growth-regulating
 substances including root growth hormones, plant growth promoters,
-enzymes, and various bioactive compounds. These are produced as
+enzymes, and various [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]. These are produced as
 normal metabolic byproducts when the right set of organisms is
 present and active in the soil or compost tea. The specific
 compounds produced depend on the species of bacteria and fungi
@@ -29,10 +29,10 @@ conditions under which they are growing.
 ## The Role of the Beneficial Organism Assay
 
 The Beneficial Organism assay developed by SFI and Holmes Enviro
-uses selective media, enzyme analysis, and molecular approaches to
+uses selective media, enzyme analysis, and [[staycare-molecular-approaches-fungal-bioremediation]] to
 identify beneficial bacteria in soil, compost, or compost tea. See [[root-exudates]] provide food for these microorganisms,
 and in return, the organisms produce growth regulators that
-influence root development, branching, and nutrient uptake capacity.
+influence root development, branching, and [[plant-nutrient-uptake-mechanisms]] capacity.
 This mutualistic exchange is fundamental to plant health and is why
 building the right biology around roots is so important.
 
@@ -41,7 +41,7 @@ building the right biology around roots is so important.
 Commercial root hormone products are microbial in origin, meaning
 they were originally produced by bacteria or fungi. However, these
 products are stabilized with preservatives and do not contain
-living organisms. They provide a one-time dose of growth regulators
+[[savory-living-organisms-as-tools]]. They provide a one-time dose of growth regulators
 but cannot sustain production over time. A healthy [[soil-food-web]], by
 contrast, produces growth regulators continuously as long as the
 organisms remain active and have adequate food resources.
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

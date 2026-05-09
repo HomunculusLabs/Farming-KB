@@ -13,10 +13,10 @@ type: concept
 
 Raising worms is no more difficult than [[natural-farming-guide-composting-methods-and-techniques]] and [[sheet-mulching]]
 
-Vermicomposting integrates well with [[faires-composting-toilets-and-humanure]] systems. While
+Vermicomposting integrates well with faires-composting-toilets-and-humanure systems. While
 worms should not be added directly to fresh humanure, finished and cured human
 compost can be fed to worms for additional processing. This creates a multi-
-stage treatment system that produces exceptionally high-quality soil amendments
+[[cho-plant-growth-stage-treatment-protocols]] system that produces exceptionally high-quality soil amendments
 from all household organic waste streams.
 
 ## Seasonal Considerations
@@ -55,7 +55,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -97,4 +97,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushroom Drying and Storage Methods - Ghouled Guide
+title: emcdda-psilocybin-mushroom-dose-and-effects Drying and Storage Methods - Ghouled Guide
 created: 2026-04-28
 tags:
   - psilocybin
@@ -17,7 +17,7 @@ type: concept
 # Psilocybin Mushroom Drying and Storage Methods
 
 Proper drying and storage of [[psilocybin-compound-profile]] (psilocybin and psilocin) over extended periods. F.C. Ghouled's
-1972 *Field Guide to the Psilocybin Mushroom* provided some of the earliest
+1972 *[[ghouled-field-guide-historical-context]] to the Psilocybin Mushroom* provided some of the earliest
 practical advice on this topic, making claims about decades-long potency
 retention that remain relevant to contemporary discussions of [[psilocybe-cubensis-potency-variation-by-flush]] specimens are over 90%
 water by weight. Ghouled observed that "the sun quickly causes those mushrooms
@@ -44,15 +44,15 @@ heat, and moisture.
 ## Optimal Storage Conditions
 
 Based on Ghouled's advice and subsequent research, optimal storage
-conditions for dried psilocybin mushrooms include:
+conditions for dried [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] include:
 
 - **Temperature**: Cool environment; refrigeration or freezing extends
-  shelf life further. Ghouled mentioned storing extracted residue at
+  [[psilocybin-shelf-life-stability]] further. Ghouled mentioned storing extracted residue at
   "a cool temperature."
 - **Container**: Breathable containers (paper bags, open glass jars with
   desiccant). Never airtight unless completely desiccated.
 - **Light**: Dark storage, as UV light can degrade alkaloids.
-- **Humidity**: Low humidity environment; desiccant packets recommended.
+- **Humidity**: [[pf-tek-low-humidity-symptoms-and-remediation]] environment; desiccant packets recommended.
 
 ## Ghouled's Preference: Whole Dried Caps
 
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

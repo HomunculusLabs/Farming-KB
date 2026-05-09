@@ -10,7 +10,7 @@ sources: ["raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"]
 
 **Updated:** 2026-04-24
 
-Lactic acid bacteria (LAB) serum is one of the major workhorse beneficial indigenous microorganisms used in natural farming. LAB is popularly used in composting to arrest foul odors associated with anaerobic decomposition. It thrives and feeds on the ammonia released during decomposition, converting wastes into harmless forms through natural biological processes. As described by Gil Carandang of Herbana Farms, LAB serum is the single most important microorganism in the beneficial indigenous microorganism (BIM) formulation, comprising 50% of the total mix.
+Lactic acid bacteria (LAB) serum is one of the major workhorse beneficial [[beneficial-indigenous-microorganisms-bim]] used in [[comparison-natural-farming-vs-permaculture]]. LAB is popularly used in composting to arrest foul odors associated with anaerobic decomposition. It thrives and feeds on the ammonia released during decomposition, converting wastes into harmless forms through natural biological processes. As described by Gil Carandang of Herbana Farms, LAB serum is the single most important microorganism in the beneficial indigenous microorganism (BIM) formulation, comprising 50% of the total mix.
 
 Related preparations include [[bionutrients-lab-fish-aminos]], [[bionutrients-lab-fermented-plant-juice-fpj]], and [[lactic-acid-bacteria]] and [[teaming-with-microbes-compost-tea-brewing-guide]], and [[bokashi-composting]] describes how LAB is used in anaerobic fermented compost systems.
 
@@ -80,7 +80,7 @@ For plants, the full BIM blend is used. For animals, pure lacto bacilli alone is
 
 ## Key Observations
 
-- LAB is used in combination with bionutrients (fermented plant extracts, fermented fruit juices, ginger-garlic nutrients, brown rice vinegar, fish amino acid) to make it more effective
+- LAB is used in combination with bionutrients ([[query-how-do-i-use-fermented-plant-extracts-in-my-garden]], fermented fruit juices, ginger-garlic nutrients, brown rice vinegar, fish amino acid) to make it more effective
 - The general health improvements observed include better nutrient assimilation, feed conversion, and toxin elimination in animals
 - For any kind of imbalance — in soil or digestive systems — lacto bacilli can be of help
 - A popular Japanese commercial inoculant contains lactic acid bacteria as its major component, along with photosynthetic bacteria, yeasts, actinomycetes, and fermenting fungi
@@ -93,14 +93,14 @@ The source material draws a direct connection between LAB application and the or
 - When beneficial bacteria (like LAB) outnumber harmful ones, balance is restored
 - The analogy of diarrhea is instructive: diarrhea occurs when bad bacteria predominate over good ones; restoring good bacterial populations ceases the diarrhea
 - The same principle applies to plant phyllosphere and soil ecology
-- Spraying LAB combined with herbal bionutrients across an entire farm (not just affected plants) has been observed to control persistent pest and disease problems
+- Spraying LAB combined with herbal bionutrients across an entire farm (not just affected plants) has been observed to control persistent [[hamilton-pest-and-disease-control-organic]] problems
 - Oriental medicine suggests that when there is balance and harmony of yin and yang, health and life are observed
 
 ## Complementary Microorganisms
 
 The source notes that a popular Japanese beneficial microorganism inoculant contains lactic acid bacteria as its major component, supplemented by:
 
-- **Photosynthetic bacteria:** Convert sunlight into energy, support nutrient cycling
+- **Photosynthetic bacteria:** Convert sunlight into energy, support [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - **Yeasts:** Produce growth factors and vitamins, support fermentation processes
 - **Actinomycetes:** Decompose complex organic matter, produce natural antibiotics
 - **Fermenting fungi:** Break down lignin and cellulose, improve soil structure
@@ -114,7 +114,7 @@ While these can be purchased as imported pure cultures and subcultured, the natu
 - **Molasses preferred over crude sugar** in some applications due to its additional mineral content
 - **Fresh milk is best** for the purification stage, though skim or powdered milk work
 - **Temperature matters:** 20-25 degrees C is the ideal range for LAB collection from rice wash
-- **Air gap is critical:** The 50-75% air space in containers is not optional — it enables the correct microbial ecology to develop
+- **Air gap is critical:** The 50-75% air space in containers is not optional — it enables the correct [[fukuoka-microbial-ecology-decomposition]] to develop
 - **Storage:** Pure LAB culture keeps indefinitely with equal parts sugar/molasses at room temperature
 - **Start small:** A single batch of rice wash + milk can produce enough LAB to inoculate an entire farm through subculturing
 - **Observe and adapt:** Natural farming has "no clear-cut rule" — adjust based on experimentation and results

@@ -1,6 +1,6 @@
 ---
 title: Tryptamines and the Logos
-aliases: [Logos in psychedelic experience, tryptamine language, glossolalia]
+aliases: [Logos in [[leary-psychedelic-experience-bardo-mapping]], tryptamine language, glossolalia]
 tags: [psychedelics, tryptamines, language, consciousness, Logos]
 sources:
   - mckenna_t-tryptamines_consciousness.md
@@ -20,7 +20,7 @@ The Logos is a term with a rich philosophical history. In Greek philosophy,
 it referred to the underlying rational principle governing the cosmos. In
 Christian theology, it became identified with the Word of God — the divine
 reason implicit in the cosmos, ordering it and giving it form and meaning.
-In the Kabbalistic tradition, a primal language called the "Ursprache" was
+In the Kabbalistic tradition, a [[mckenna-glossolalia-and-primal-language-tryptamine-states]] called the "Ursprache" was
 conceived as the language of creation itself.
 
 McKenna adopted the term to describe the phenomenon he encountered in
@@ -57,7 +57,7 @@ it? Did I speak in tongues?"
 The tryptamine-induced glossolalia is different. It is a brain state that
 allows the expression of what McKenna called "the assembly language that lies
 behind language" — a primal language of the sort that Robert Graves discussed
-in The White Goddess, or a Kabbalistic language of the sort described in the
+in The [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]], or a Kabbalistic language of the sort described in the
 Zohar. It is a primal Ursprache that comes out of oneself.
 
 The significance of this phenomenon is that it suggests that beneath the

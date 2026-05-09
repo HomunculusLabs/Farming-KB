@@ -11,20 +11,20 @@ sources: [raw/papers/symbiotic-fungi.md]
 
 Updated: 2026-04-18
 
-Source: Symbiotic Fungi (Varma and Kharkwal, eds.), Chapter 1: Symbiosis - The Art of Living
+Source: [[mycelium-running-symbiotic-fungi-relationships]] (Varma and Kharkwal, eds.), Chapter 1: Symbiosis - The Art of Living
 
 ## Overview
 
-Nitrogen fixation is one of the most important symbiotic processes for agriculture. Biological nitrogen fixation contributes approximately 50-75% of the nitrogen requirement of crops in many agricultural systems. Symbiotic relationships in which both species benefit are mutualistic. One of the most important examples of mutualism in the overall economy of the biosphere is the symbiotic relationship between certain nitrogen-fixing bacteria and their legume hosts.
+[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] is one of the most important symbiotic processes for agriculture. [[biological-nitrogen-fixation-agriculture]] fixation contributes approximately 50-75% of the nitrogen requirement of crops in many agricultural systems. Symbiotic relationships in which both species benefit are mutualistic. One of the most important examples of mutualism in the overall economy of the biosphere is the symbiotic relationship between certain nitrogen-fixing bacteria and their legume hosts.
 
-See also: [[actinorhizal-symbiosis-frankia]], [[mycorrhizal-nitrogen-transfer-between-plants]], [[actinorhizal-symbiosis-frankia]]
+See also: [[actinorhizal-symbiosis-frankia]], mycorrhizal-nitrogen-transfer-between-plants, [[actinorhizal-symbiosis-frankia]]
 
 ## Azolla-Anabaena Symbiosis
 
 ### The Fern-Cyanobacteria Partnership
 
 Azolla, a floating fern, forms a symbiotic relationship with the blue-green alga Anabaena that fixes atmospheric nitrogen. This association:
-- Is important for rice production in some regions ("a hungry world")
+- Is important for [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]] in some regions ("a hungry world")
 - Provides an easily maintainable system for laboratory exercises
 - Produces heterocysts at 25-30% frequency (vs 5-10% in free-living condition)
 - Transfers fixed nitrogen from Anabaena to Azolla
@@ -34,7 +34,7 @@ Azolla, a floating fern, forms a symbiotic relationship with the blue-green alga
 Azolla has been used as a green manure in rice paddies in Asia for centuries. When incorporated into flooded rice fields:
 - Fixes atmospheric nitrogen for rice nutrition
 - Reduces weed growth by covering the water surface
-- Provides organic matter when decomposed
+- Provides [[hamilton-composting-and-organic-matter-management]] when decomposed
 - Can contribute significant nitrogen (up to 100+ kg N/ha per season)
 
 See also: [[lichen-symbiosis-mechanisms-photobiont-selection]], [[fungal-lichen-stress-tolerance-and-poikilohydry]]
@@ -56,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,3 +99,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[insect-fungi-gardening-symbioses]]

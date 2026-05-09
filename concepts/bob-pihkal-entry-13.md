@@ -1,5 +1,5 @@
 ---
-title: BOB (beta-Methoxy-2C-B) - PIHKAL Entry #13
+title: BOB (beta-Methoxy-2C-B) - 2c-b-pihkal-entry-20 #13
 created: 2026-04-28
 tags: [pihkal, phenethylamine, 2c-b-analogue, beta-alkoxy, box-family]
 date: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 
 # BOB (beta-Methoxy-2C-B)
 
-**PIHKAL Entry #13**
+**[[2c-b-pihkal-entry-20]] #13**
 
 ## Chemical Identity
 
@@ -39,9 +39,9 @@ but the evening dinner company was canceled. Described as "pretty
 negative" overall.
 
 ### At 10 mg (Subject 2)
-Began by weeding in the vegetable garden for almost an hour.
+Began by weeding in the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] for almost an hour.
 Then lay down and experienced a vivid visualization of a
-magnificent vegetable garden in Southern France, with
+magnificent [[crop-rotation-vegetable-garden]] in Southern France, with
 extraordinary zucchini and magically pulled weeds. After a
 couple of hours, neurological overstimulation became apparent,
 and the rest of the day was spent "defending myself." In the
@@ -84,7 +84,7 @@ potency as 2C-B (10-20 mg range) but with significantly more
 physical risk. The 10-20 hour duration extends the window of
 vulnerability.
 
-Separation of optical isomers might yield different activity
+Separation of [[optical-isomers-psychedelic-phenethylamines]] might yield different activity
 profiles, with potentially cleaner effects from one isomer, but
 no strong impetus for further exploration was noted.
 
@@ -109,7 +109,7 @@ these questions.
 - [[pihkal-qualitative-effects-themes]]
 - [[dosage-ambiguity-fuzzy-numbers-pihkal]]
 
-Within the broader context of Shulgin's research program, BOB
+Within the broader context of Shulgin's [[hofmann-lsd-sandoz-research-program]], BOB
 exemplifies the systematic exploration of beta-substituted phenethylamine
 analogs. The beta-position is adjacent to the primary amine, and
 substitutions here can dramatically alter the basicity, conformational

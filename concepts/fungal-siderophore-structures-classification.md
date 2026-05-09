@@ -1,5 +1,5 @@
 ---
-title: "Fungal Siderophore Structures and Classification"
+title: "Fungal fungal siderophore structures classification and Classification"
 created: 2026-04-28
 tags: [siderophores, mycorrhiza, iron-acquisition, fungal-chemistry, nutrient-cycling]
 date: 2026-04-25
@@ -19,8 +19,8 @@ to the negative 17 molar. This renders iron biologically unavailable unless
 organisms produce specialized solubilization systems. Most bacteria and
 fungi excrete siderophores as chelating agents that form soluble complexes
 with Fe(III) having very high formation constants, thus solubilizing ferric
-iron for microbial uptake. Mycorrhizal fungi produce diverse siderophore
-structures that play critical roles in plant iron nutrition and soil
+iron for microbial uptake. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] produce diverse siderophore
+structures that play critical roles in plant [[siderophore-iron-nutrition-mycorrhizal-fungi]] and soil
 ecology.
 
 ## Hydroxamate Siderophores
@@ -58,8 +58,8 @@ its derivatives neocoprogen I and neocoprogen II are cyclic triester
 structures containing three N5-acyl-N5-hydroxyornithine residues. The
 fusarinine family includes fusigen (779 Da) and triacetylfusarinine C (905
 Da). These siderophores are generally more lipophilic than the ferrichromes
-and may play roles in iron acquisition from different soil microenvironments.
-Ericoid mycorrhizal fungi have been shown to produce ferricrocin or fusigen
+and may play roles in [[fungal-siderophores-iron-acquisition-mycorrhiza]] from different soil microenvironments.
+[[dighton-ericoid-mycorrhizal-nutrient-acquisition]] fungi have been shown to produce ferricrocin or fusigen
 as their main siderophores.
 
 ## Rhizoferrin: A Polycarboxylate Siderophore
@@ -93,8 +93,8 @@ may be most limiting.
 
 The ecological significance of fungal siderophores extends beyond simple
 iron acquisition. In the [[rhizosphere-fungal-community-analysis-rrna-rdna]], as
-iron is often a limiting resource that shapes microbial community structure.
+iron is often a limiting resource that shapes [[edaphic-factors-microbial-community-structure]] structure.
 Furthermore, siderophores can complex with other metals including toxic
-heavy metals, potentially contributing to [[mycorrhizal-siderophores-iron-chelation]] for iron chelation mechanisms
+heavy metals, potentially contributing to mycorrhizal-siderophores-iron-chelation for iron chelation mechanisms
 - [[siderophores-mycorrhizal-fungi]] for ecological roles
 - [[fungal-heavy-metal-biosorption-detailed]] for metal chelation

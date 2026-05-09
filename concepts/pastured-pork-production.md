@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [livestock, animal-husbandry, forage, agriculture, economics, homesteading]
-sources: []
+sources:
+  sources: []
 ---
 
 # Pastured Pork Production
@@ -15,7 +16,7 @@ Pasture-raised pork comes from pigs raised outdoors with access to living vegeta
 
 Benefits over confinement:
 - Higher vitamin D (sunlight exposure)
-- More omega-3 fatty acids from forage
+- More omega-3 [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] from forage
 - Better animal welfare (natural behaviors: rooting, wallowing, exploring)
 - Lower feed costs (20-40% of diet from pasture/forage)
 - Superior meat flavor and fat quality
@@ -39,7 +40,7 @@ Crossbreeding: Berkshire x Duroc or Tamworth x Berkshire crosses combine fast gr
 Pigs are omnivores and will consume a wide variety of forage:
 
 ### Permanent Pasture Species
-- White clover, red clover, alfalfa (high protein)
+- [[fukuoka-white-clover-cover-crop-system]], red clover, alfalfa (high protein)
 - Orchardgrass, ryegrass, fescue
 - Chicory (deep-rooted, drought-tolerant, high mineral content)
 - Plantain (broadleaf, palatable, mineral-rich)
@@ -47,7 +48,7 @@ Pigs are omnivores and will consume a wide variety of forage:
 ### Annual Forage Crops
 - Winter rye and oats for cool-season grazing
 - Cowpeas and soybeans for summer protein
-- Turnips and radishes for fall/winter root crops
+- Turnips and radishes for fall/winter [[permaculture-plants-root-crops-and-tubers]]
 - Field peas (spring planting)
 - Sorghum-sudangrass for summer bulk
 
@@ -94,8 +95,8 @@ Ideal slaughter weight: 240-280 lbs live (175-200 lbs hanging weight).
 
 - Electric fencing is essential: 2-3 strands at 6, 12, and 24 inches
 - Train pigs to electric fence in a small enclosure first
-- Portable fencing (polywire + step-in posts) allows rotational grazing
-- Shelter: simple 3-sided hoop house or A-frame, 8x10 ft minimum per 3-4 pigs
+- Portable fencing (polywire + step-in posts) allows [[comparison-rotational-grazing-vs-continuous-grazing]]
+- Shelter: simple 3-sided [[growing-gourmet-shade-house-hoop-house-structures]] or A-frame, 8x10 ft minimum per 3-4 pigs
 - Water: nipple waterers or heavy rubber tubs (they'll tip lightweight ones)
 - Wallows: pigs need access to mud in summer for cooling and sun protection
 - Winter: deep bedding (straw, hay) in shelter -- pigs will compost it themselves
@@ -103,7 +104,7 @@ Ideal slaughter weight: 240-280 lbs live (175-200 lbs hanging weight).
 ## Pasture Rotation
 
 - Move pigs every 1-4 weeks depending on stocking density
-- Rest paddocks minimum 60 days (ideally a full growing season)
+- Rest paddocks minimum 60 days (ideally a full [[savory-growing-season-and-non-growing-season-management]])
 - Follow pigs with poultry to break parasite cycles
 - Pigs root deeply -- use this intentionally on areas needing renovation
 - Permanent pastures: use nose rings on heavy rooters if you want to preserve sod
@@ -142,21 +143,8 @@ Average yield from 250 lb live pig:
 
 ### Profitability
 - Net profit per pig (retail): $200-600
-- Selling live: $50-150 profit (thin margins)
-- Key is direct marketing -- see farmers market selling guide
-- Annual production of 6-10 pigs can generate $2,000-6,000 net income
-
-## Health Considerations
-
-- Vaccinate for erysipelas and circovirus
-- Deworm: ivermectin or fenbendazole, 2-3 times/year
-- Watch for external parasites (mange, lice) -- treat promptly
-- Provide shade and wallows to prevent heat stress
-- Pigs are susceptible to stress -- handle calmly and consistently
-- Biosecurity: quarantine new arrivals for 30 days
-
-Pastured pork complements [[grass-fed-beef-production]] in a diversified livestock operation and generates valuable manure for [[hot-composting-vs-vermicompost-vs-bokashi|compost]] and soil building.
-
 ## See Also
 
 - [[pastured-egg-production]]
+- [[reforestation-with-pigs]]
+- [[pasture-management-and-forage]]

@@ -1,5 +1,5 @@
 ---
-title: Panaeolus Foenisecii Taxonomy Debate
+title: Panaeolus panaeolus foenisecii taxonomy debate Debate
 created: 2026-04-19
 updated: 2026-04-18
 type: concept
@@ -30,7 +30,7 @@ Panaeolus foenisecii is a small, inconspicuous mushroom:
 
 ### Gartz's Position
 
-Gartz notes the confusion between P. foenisecii and psychoactive species but does not classify P. foenisecii itself as psychoactive. The species is mentioned primarily as a source of taxonomic confusion and as a comparison point for definitively psychoactive Panaeolus species.
+Gartz notes the confusion between P. foenisecii and psychoactive species but does not classify P. foenisecii itself as psychoactive. The species is mentioned primarily as a source of [[neurotropic-fungi-taxonomic-confusion-and-identification]] and as a comparison point for definitively psychoactive Panaeolus species.
 
 ### The Misidentification Problem
 
@@ -45,10 +45,10 @@ The most likely explanation for reports of P. foenisecii psychoactivity is misid
 
 ### Lawn Decomposer
 
-P. foenisecii is a saprophytic decomposer that breaks down grass clippings and other organic matter in lawns and pastures. Its ecological role includes:
+P. foenisecii is a saprophytic decomposer that breaks down grass clippings and other [[hamilton-composting-and-organic-matter-management]] in lawns and pastures. Its ecological role includes:
 
 - Decomposition of grass residues after mowing
-- Nutrient cycling in grassland ecosystems
+- [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in grassland ecosystems
 - Food source for invertebrates
 - Possible mycorrhizal associations (under investigation)
 
@@ -85,7 +85,7 @@ The P. foenisecii debate has important harm reduction implications:
 
 ### The "Lawn Mushroom" Warning
 
-The P. foenisecii situation illustrates a general principle of mushroom foraging:
+The P. foenisecii situation illustrates a general principle of [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]]:
 
 - Just because a mushroom grows in a lawn does NOT mean it is safe
 - Common, ubiquitous mushrooms can be confused with toxic or psychoactive species

@@ -12,9 +12,9 @@ type: query
 # What Is JADAM Farming and How Does It Work?
 
 ## Short Answer
-JADAM (Jayonul Damun Umulgyeok) is a Korean natural farming system developed by Youngsang Cho that aims to make ultra-low-cost organic agriculture accessible to all farmers.
+JADAM (Jayonul Damun Umulgyeok) is a Korean [[comparison-natural-farming-vs-permaculture]] system developed by Youngsang Cho that aims to make ultra-low-cost organic agriculture accessible to all farmers.
 It simplifies Korean Natural Farming by reducing the number of inputs, emphasizing no-till soil management, and using microorganism solutions and plant-based pesticides that can be made from free, locally available materials for pennies per application.
-JADAM's pesticide solutions cost roughly 500 times less than commercial organic alternatives, making it one of the most cost-effective organic farming systems ever developed.
+JADAM's pesticide solutions cost roughly 500 times less than commercial organic alternatives, making it one of the most cost-effective [[coleman-deep-organic-farming-philosophy]] systems ever developed.
 
 ## Detailed Explanation
 JADAM was founded by Youngsang Cho, who studied under Han Kyu Cho (the creator of Korean Natural Farming) before developing his own streamlined approach in the 1990s.
@@ -25,7 +25,7 @@ The system removes barriers to entry by eliminating the need for expensive equip
 
 ### Microorganism Solutions and Soil Biology
 
-The most fundamental JADAM technique is the production of JADAM Microorganism Solution (JMS), which differs from KNF's IMO in important ways.
+The most fundamental JADAM technique is the production of [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]] Solution (JMS), which differs from KNF's IMO in important ways.
 The [[jadam-all-purpose-pesticide]] is a fermented solution made from plant materials, used cooking oil, and JMS that acts as both a contact insecticide and a foliar nutrient.
 The basic recipe involves blending plant leaves (any non-toxic plant works, with garlic and hot pepper being popular additions), mixing with a small amount of used cooking oil as a surfactant, and fermenting with JMS and brown sugar.
 Unlike synthetic pesticides that kill indiscriminately, JADAM pesticides are designed to work primarily through physical means, such as coating and suffocating pest insects, while simultaneously feeding the plant with nutrients from the fermented plant material.
@@ -40,12 +40,12 @@ This principle of using local plant materials means that JADAM pesticide recipes
 ### No-Till Soil Management
 
 Soil management in JADAM follows a strict no-till philosophy that sets it apart from many other farming systems.
-The [[jadam-coexisting-with-wild-grass]] principle takes this further, arguing that many wild grasses actually benefit crops by cycling nutrients from deep soil layers, providing habitat for beneficial insects, and protecting soil from erosion and desiccation.
+The  principle takes this further, arguing that many wild grasses actually benefit crops by cycling nutrients from deep soil layers, providing [[query-how-do-i-design-habitat-for-beneficial-insects]] insects, and protecting soil from erosion and desiccation.
 This approach challenges conventional wisdom about weed control and encourages farmers to observe and understand weed ecology before removing any plants.
 
 JADAM also produces a range of liquid fertilizers from locally available materials, following the same fermentation principles used for JMS.
 The [[jadam-calcium-fertilizer]] uses eggshells or oyster shells soaked in vinegar to create calcium acetate, while the [[jadam-anaerobic-fermentation]] process is central to most JADAM input production.
-Unlike the aerobic compost tea systems popular in Western organic agriculture, JADAM relies on controlled anaerobic fermentation to break down organic materials and produce biologically active solutions.
+Unlike the [[ingham-anaerobic-vs-aerobic-compost-tea]] tea systems popular in Western organic agriculture, JADAM relies on controlled [[jadam-anaerobic-fermentation-principles]] to break down organic materials and produce biologically active solutions.
 The [[jadam-ambient-temperature-principle]] is another core concept stating that inputs should be produced and stored at ambient outdoor temperatures, not in climate-controlled environments.
 This principle ensures that the microorganisms in JMS and other inputs are adapted to local conditions and will thrive when applied to the field.
 It also eliminates the need for expensive temperature-controlled fermentation equipment, keeping costs minimal.
@@ -58,6 +58,7 @@ Similarly, the [[no-till-cannabis]] approaches and [[jadam-all-purpose-pesticide
 
 - [[query-jadam-vs-korean-natural-farming]]
 - [[query-what-is-korean-natural-farming-and-how-does-it-work]]
+
 ## Practical Considerations
 
 Successful implementation of What Is JADAM Farming and How Does It Work? requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

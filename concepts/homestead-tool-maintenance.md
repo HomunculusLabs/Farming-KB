@@ -9,7 +9,7 @@ sources: []
 
 # Homestead Tool Maintenance
 
-Well-maintained tools work better, last longer, and are safer to use. A [[homesteading|homestead]] relies heavily on hand tools — shovels, axes, saws, pruners, hoes, knives, and more. Regular maintenance including cleaning, sharpening, oiling, and proper storage extends tool life by years or decades and reduces replacement costs significantly.
+Well-maintained tools work better, last longer, and are safer to use. A [[homesteading|homestead]] relies heavily on [[garden-hand-tools-solomon]] — shovels, axes, saws, pruners, hoes, knives, and more. Regular maintenance including cleaning, sharpening, oiling, and proper storage extends tool life by years or decades and reduces replacement costs significantly.
 
 ## Basic Tool Care Principles
 
@@ -30,7 +30,7 @@ Well-maintained tools work better, last longer, and are safer to use. A [[homest
 ### Store Properly
 
 - Hang tools or store them off the ground
-- Keep in a dry location (humidity causes rust and wood rot)
+- Keep in a dry location (humidity causes rust and [[singh-wood-rot-fungi-structural-timber-decay]])
 - Organize so tools do not bang against each other (prevents edge damage)
 - Use tool racks, pegboards, or shadow boards for organization
 
@@ -140,56 +140,6 @@ Wooden handles require periodic oiling to prevent drying, cracking, and splinter
 - Apply 2-3 coats, allowing each to soak in before wiping excess
 - Reapply annually or when wood looks dry
 - Food-safe when fully cured
-- Available at any hardware store
-
-### Tung Oil
-
-- Natural, food-safe finish
-- Penetrates deeply, water-resistant
-- More expensive than linseed oil
-- Reapply annually
-
-### Mineral Oil
-
-- Food-safe, won't go rancid
-- Does not harden — sits on surface
-- Good for cutting boards and wooden spoons
-- Requires more frequent reapplication
-
-### Application Process
-
-1. Sand handle lightly with 220 grit sandpaper
-2. Wipe clean of dust
-3. Apply oil generously with a rag
-4. Let soak in for 15-30 minutes
-5. Wipe off excess
-6. Allow to cure for 24-48 hours
-7. Apply second coat if needed
-8. Repeat annually or when handle feels dry
-
-## Rust Prevention
-
-### Immediate Prevention
-
-- Never store tools wet
-- Dry all metal surfaces after cleaning
-- Apply a light coat of oil after each use
-
-### Long-Term Protection
-
-**Machine Oil or WD-40**
-- Spray or wipe on metal surfaces
-- WD-40 is a water displacer — good for short-term protection
-- Machine oil (3-in-One, sewing machine oil) provides longer-lasting protection
-
-**Paste Wax (Johnson's Paste Wax or Renaissance Wax)**
-- Apply a thin coat to clean, dry metal
-- Buff to a shine
-- Provides excellent long-term rust protection
-- Does not attract dust or dirt like oil
-- Good for tools stored long-term
-
-**Boiled Linseed Oil on Steel**
 ## Related
 
 - [[fruit-tree-pruning]]

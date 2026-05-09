@@ -1,5 +1,5 @@
 ---
-title: Natural Farming and Sustainable Living Principles
+title: comparison-natural-farming-vs-permaculture and natural farming sustainable living principles Principles
 created: 2026-04-28
 tags:
   - permaculture
@@ -47,7 +47,7 @@ an excess of resources is the natural result.
 
 ## Seven Principles of Design
 
-Permaculture follows several core design principles:
+Permaculture follows several core [[holmgren-permaculture-twelve-design-principles-framework]]:
 
 1. Everything is connected to and supported by everything else.
 2. Every element should serve many functions. Permaculture focuses on
@@ -84,7 +84,7 @@ When designing a sustainable land system, achievable goals include:
 
 ## Patterns in Nature
 
-Almost all permaculture design strategies are drawn from recurring patterns
+Almost all [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] strategies are drawn from recurring patterns
 found in nature. The wilderness may seem chaotic but contains ordered method
 in everything, from organism structures to invisible chemical cycles. Water,
 nitrogen, seasons, birth, and death are all patterns we live within.
@@ -106,9 +106,9 @@ overcoming pioneer plants.
 conditions, shading out pioneers which die and fertilize soil.
 
 Permaculture accelerates this succession for human benefit. Note that
-companion planting is distinct from ecological succession. Succession
+[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] is distinct from ecological succession. Succession
 happens over years or decades, while companion planting benefits plants
-within a single growing season.
+within a single [[savory-growing-season-and-non-growing-season-management]].
 
 ## The Edge Effect
 

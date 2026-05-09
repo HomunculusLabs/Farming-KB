@@ -12,13 +12,13 @@ sources:
 
 ## Water as the Foundation of Farming
 
-In the JADAM ultra-low-cost farming system, water is considered the single most important factor for plant health. Water constitutes approximately 95% of a plant's structure — even higher than the 70% found in the human body. The quality of water directly impacts plant growth, nutrient uptake, and disease resistance. JADAM's approach to irrigation is not merely about delivering water to crops, but about integrating water delivery with soil biology, mineral supplementation, and microbial inoculation.
+In the JADAM ultra-low-cost farming system, water is considered the single most important factor for plant health. Water constitutes approximately 95% of a plant's structure — even higher than the 70% found in the human body. The quality of water directly impacts plant growth, [[plant-nutrient-uptake-mechanisms]], and disease resistance. JADAM's approach to irrigation is not merely about delivering water to crops, but about integrating water delivery with soil biology, mineral supplementation, and microbial inoculation.
 
 ## JADAM's Integrated Watering Method
 
-The most important technology in JADAM farming is the integrated watering protocol. Rather than applying plain water, JADAM recommends combining three elements every time crops are watered:
+The most important technology in [[query-what-is-jadam-farming-and-how-does-it-work]] is the integrated watering protocol. Rather than applying plain water, JADAM recommends combining three elements every time crops are watered:
 
-1. **JADAM Indigenous Microorganism Solution (JMS)**: A liquid culture of locally collected microorganisms that continuously inoculates the soil with beneficial biology
+1. **JADAM Indigenous [[jadam-microorganism-solution-culturing]] (JMS)**: A [[comparison-liquid-culture-vs-grain-spawn]] of locally collected microorganisms that continuously inoculates the soil with beneficial biology
 2. **Sea water or sea salt solution**: Provides a complete spectrum of 83+ trace minerals that have been leached from soil over time
 3. **Phyllite solution**: A rock powder extract supplying additional inorganic nutrients
 
@@ -26,7 +26,7 @@ This integrated approach transforms routine watering into a comprehensive soil-b
 
 ## Sea Water as Mineral Supplement
 
-JADAM strongly advocates the use of diluted sea water as a mineral supplement for crops. The reasoning is straightforward: minerals leached from soil over centuries ultimately end up in the ocean. Sea water contains a mineral balance remarkably similar to plant fluid and human blood plasma, with 83 identified elements including essential Mg, Ca, K, B, P, I, Se, and Ge.
+JADAM strongly advocates the use of diluted sea water as a mineral supplement for crops. The reasoning is straightforward: minerals leached from soil over centuries ultimately end up in the ocean. Sea water contains a [[holmgren-mineral-balance-soil-fertility]] remarkably similar to plant fluid and human blood plasma, with 83 identified elements including essential Mg, Ca, K, B, P, I, Se, and Ge.
 
 Application guidelines:
 - Dilute sea water 30-100 times with fresh water (sea water is ~3% salt; plant fluid is ~1%)
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

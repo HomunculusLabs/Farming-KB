@@ -37,7 +37,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Mephedrone**, chemically known as **4-methylmethcathinone (4-MMC)**, is a synthetic stimulant of the cathinone class. It is a beta-keto analogue of **[[mdma]]** and **dopamine-releasing** amphetamines, with significant activity at serotonin, dopamine, and norepinephrine transporters.
+**Mephedrone**, chemically known as **4-methylmethcathinone (4-MMC)**, is a synthetic stimulant of the cathinone class. It is a beta-keto analogue of **mdma** and **dopamine-releasing** amphetamines, with significant activity at serotonin, dopamine, and norepinephrine transporters.
 
 ## Chemical Properties
 
@@ -55,21 +55,21 @@ Synthesis is relatively straightforward from 4-methylpropiophenone via brominati
 
 Mephedrone acts primarily as a **non-selective monoamine releasing agent** and **reuptake inhibitor** at the three major monoamine transporters: serotonin transporter (SERT), dopamine transporter (DAT), and norepinephrine transporter (NET).
 
-In vitro studies using rat brain synaptosomes demonstrate that mephedrone is a potent substrate-type releaser at DAT and SERT, with EC₅₀ values in the low micromolar range. It is approximately equipotent at DAT and SERT, similar to the profile of **[[mdma]]**. Users report enhanced empathy, talkativeness, and sensory enhancement.
+In vitro studies using rat brain synaptosomes demonstrate that mephedrone is a potent substrate-type releaser at DAT and SERT, with EC₅₀ values in the low micromolar range. It is approximately equipotent at DAT and SERT, similar to the profile of **mdma**. Users report enhanced empathy, talkativeness, and sensory enhancement.
 
 Stimulant effects include elevated heart rate, increased blood pressure, pupillary dilation, hyperthermia, bruxism, and reduced appetite. These effects are dose-dependent and more pronounced with intravenous or insufflated administration compared to oral dosing.
 
 Common oral doses range from 100–250 mg. Intranasal doses are typically lower at 50–150 mg due to higher bioavailability. Effects onset within 10–20 minutes (nasal) to 15–45 minutes (oral), peak at 30–60 minutes, and last 2–4 hours.
 
-Adverse effects are common and dose-related. Acute toxicity presents with tachycardia, hypertension, hyperthermia, agitation, anxiety, paranoia, and hallucinations. Severe cases may progress to serotonin syndrome, rhabdomyolysis, acute kidney injury, or cardiac arrhythmias.
+[[blesching-cannabis-safety-adverse-effects-evidence]] are common and dose-related. Acute toxicity presents with tachycardia, hypertension, hyperthermia, agitation, anxiety, paranoia, and hallucinations. Severe cases may progress to serotonin syndrome, rhabdomyolysis, acute kidney injury, or cardiac arrhythmias.
 
 Intravenous use is associated with more severe complications including injection site infections, thrombosis, and increased risk of overdose death. The rapid onset and intense rush from IV administration creates significant addiction potential.
 
 ## Legal Status
 
-Mephedrone was first controlled in Sweden in 2007, followed by Denmark, Israel, and Germany in 2008–2009. The UK enacted an emergency class B drug classification in April 2010, making it one of the fastest drug scheduling actions in British legislative history.
+Mephedrone was first controlled in Sweden in 2007, followed by Denmark, Israel, and Germany in 2008–2009. The UK enacted an emergency class B [[emcdda-hallucinogenic-drug-classification-and-terminology-taxonomy]] in April 2010, making it one of the fastest drug scheduling actions in British legislative history.
 
-The compound was placed under international control in 2015 when the UN Commission on Narcotic Drugs added it to Schedule II of the Convention on Psychotropic Substances. It is now controlled in most jurisdictions worldwide, including the United States (Schedule I since 2011), European Union, Canada, Australia, and New Zealand.
+The compound was placed under international control in 2015 when the UN Commission on Narcotic Drugs added it to Schedule II of the Convention on Psychotropic Substances. It is now controlled in most jurisdictions worldwide, including the [[dmt-containing-plants-united-states-halpern]] (Schedule I since 2011), European Union, Canada, Australia, and New Zealand.
 
 Despite international scheduling, mephedrone and closely related synthetic cathinones continue to appear in illicit drug markets. Manufacturers circumvent legislation through minor structural modifications, producing analogues such as **[[butylone]]**, and other N-substituted cathinones.
 
@@ -83,7 +83,7 @@ The drug's peak prevalence occurred in the UK between 2009 and 2010, where it wa
 
 Following the UK ban in April 2010, prevalence declined sharply but did not disappear. The drug continued to circulate in illicit markets alongside newer synthetic cathinones that filled the market gap left by scheduling.
 
-Mephedrone has been detected in illicit drug markets in Europe, Southeast Asia, and Australia. It is frequently found as an adulterant in **[[mdma]]** or **[[pentylone]]
+Mephedrone has been detected in illicit drug markets in Europe, [[psilocybe-southeast-asia-pacific]], and Australia. It is frequently found as an adulterant in **mdma** or **[[pentylone]]
 
 - [[ethylone]] — beta-keto analogue of MDMA and structural relative of mephedrone
 - [[mescaline-entity]] — natural phenethylamine psychedelic with different receptor profile

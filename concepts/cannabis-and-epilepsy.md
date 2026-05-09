@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-**Source:** The Cannabis Health Index (Uwe Blesching) | **CHI:** 13 | **Studies:** 5 | **Updated:** 2026-04-18
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]] (Uwe Blesching) | **CHI:** 13 | **Studies:** 5 | **Updated:** 2026-04-18
 
 ## Overview
 
@@ -25,7 +25,7 @@ Five studies support the use of cannabis in epilepsy management.
 **CBD Oil Safety and Efficacy in Pediatrics**
 - CBD oil demonstrated safety and tolerability in pediatric patients with treatment-resistant epilepsy
 - Patients showed ≥25% improvement in seizure frequency
-- No significant adverse effects at therapeutic doses
+- No significant [[blesching-cannabis-safety-adverse-effects-evidence]] at therapeutic doses
 - Some patients achieved >50% seizure reduction
 
 **Endocannabinoid System and Seizures**
@@ -37,14 +37,14 @@ Five studies support the use of cannabis in epilepsy management.
 **Indica Strains**
 - Indica-dominant strains are preferred for epilepsy as they tend to favor CB2 receptor activity
 - Higher CBD:THC ratios reduce seizure risk (THC at high doses may be proconvulsant)
-- Strain selection should prioritize CBD content and terpene profiles (myrcene, linalool)
+- [[blesching-cannabis-strain-selection-receptor-targeting]] should prioritize CBD content and [[cannabis-terpene-profiles-sativa]] (myrcene, linalool)
 
 ## Therapeutic Considerations
 
 ### Strain Selection
 - High-CBD, low-THC strains preferred
 - Indica-dominant genetics
-- Whole-plant extracts preferred over isolated CBD for entourage effects
+- Whole-plant extracts preferred over isolated CBD for [[beta-caryophyllene-entourage-effects-cannabis]]
 - Notable strains: Charlotte's Web, ACDC, Harlequin (balanced)
 
 ### Administration

@@ -1,5 +1,5 @@
 ---
-title: Powell - Psychedelics and Problem Solving
+title: Powell - Psychedelics and maitake-problem-solving-troubleshooting
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [psilocybin, psychedelics]
 
 # Powell - Psychedelics and Problem Solving
 
-Simon G. Powell argues that psilocybin and other entheogenic compounds function as cognitive tools for solving fundamental problems -- both individual psychological crises and civilizational-level challenges about humanity's place in Nature. In *The Psilocybin Solution*, psychedelics are positioned not as recreational substances or mere neurochemical curiosities but as agents that enable novel informational integration, expanding the scope of problems the human mind can address.
+Simon G. Powell argues that psilocybin and other entheogenic compounds function as cognitive tools for solving fundamental problems -- both individual psychological crises and civilizational-level challenges about humanity's place in Nature. In *The [[powell-psilocybin-solution-ecological-cognition-theory]]*, psychedelics are positioned not as recreational substances or mere neurochemical curiosities but as agents that enable novel informational integration, expanding the scope of problems the human mind can address.
 
 Powell's approach is distinctive in framing psychedelic cognition within an explicitly ecological and computational context. Rather than treating the psilocybin experience as an isolated neurological event, he views it as an instance of the broader Gaian system's capacity for self-knowledge -- a moment when one part of the biosphere (the mushroom) acts upon another part (the human mind) to restore informational harmony and generate novel understanding. The psilocybin experience thus functions as a "neo-shamanic phenomenology," yielding forms of knowledge that conventional rational-scientific methods alone cannot access.
 
@@ -45,7 +45,7 @@ The psilocybin experience functions as what Powell calls a "neo-shamanic phenome
 
 Powell cites poet Robert Graves, who after his first psilocybin experience in Wasson's New York apartment in 1960 "had even felt capable of solving any problem in the world as if he had access to all of the world's knowledge." Graves described seeing a "mountain-top Eden" and experiencing the "bliss of innocence" and "the knowledge of good and evil." While Powell treats this as subjective testimony, he argues it points to a genuine expansion of cognitive capacity -- the feeling of access to broader informational patterns reflects the actual neurochemical expansion of information processing.
 
-Graves had been intrigued by mushrooms since childhood, when he licked a species of fly agaric and experienced burning sensations on his tongue. He went on to predict that a once sacred substance entrusted to an elite few would soon be sought out by "jaded sensation seekers," though they would likely be dissatisfied since psilocybin "failed to stupefy like alcohol." His prescient warning about psilocybin's power remains relevant: whoever prepares to consume hallucinogenic mushrooms "should take as careful stock of his mental and moral well-being as initiates took before attending the [[permaculture-problem-is-solution]] Concepts
+Graves had been intrigued by mushrooms since childhood, when he licked a species of [[amanita-muscaria-fly-agaric-history-and-pharmacology]] and experienced burning sensations on his tongue. He went on to predict that a once sacred substance entrusted to an elite few would soon be sought out by "jaded sensation seekers," though they would likely be dissatisfied since psilocybin "failed to stupefy like alcohol." His prescient warning about psilocybin's power remains relevant: whoever prepares to consume [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] "should take as careful stock of his mental and moral well-being as initiates took before attending the permaculture-problem-is-solution Concepts
 
 - [[powell-paradigm-shifting-and-the-psychedelic-revolution]]
 - [[powell-numinous-experience-and-psychedelic-awe]]
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,3 +112,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[maitake-problem-solving-troubleshooting]]

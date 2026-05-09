@@ -34,7 +34,7 @@ stems, seeds, and roots. All parts possess a distinctive celery-
 like aroma with complex peppery, anise, and yeasty undertones.
 
 In permaculture, lovage serves multiple functions: deep-rooted
-nutrient mining, insectary plant, dynamic accumulator, and
+nutrient mining, insectary plant, [[nutrient-dynamic-accumulator-reference]], and
 long-lived perennial vegetable requiring minimal maintenance
 once established.
 
@@ -76,7 +76,7 @@ once established.
 
 ## Bioactive Compounds
 
-- **Essential oil (0.5–1.0%):** Dominated by ligustilide
+- **[[permaculture-designers-manual-essential-oil-plants]] (0.5–1.0%):** Dominated by ligustilide
   (30–70%) — primary aroma and bioactive constituent
 - **Phthalides:** Ligustilide, butylphthalide, butylidene-
   phthalide — antispasmodic and anti-inflammatory

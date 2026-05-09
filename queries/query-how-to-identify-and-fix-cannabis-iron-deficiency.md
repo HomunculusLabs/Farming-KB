@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [query, cannabis, nutrients, deficiency, troubleshooting]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -15,22 +16,22 @@ Iron deficiency in cannabis causes interveinal chlorosis on new leaves, leaving 
 
 ### Why Iron Deficiency Is So Common
 
-Iron deficiency is one of the most frequently diagnosed nutrient problems in cannabis cultivation, affecting growers across all experience levels and all growing methods. The reason for its prevalence is simple: iron is present in virtually all growing media and nutrient solutions, but it is also one of the most pH-sensitive nutrients. A relatively small upward drift in pH, sometimes as little as 0.3 to 0.5 points, can make iron unavailable to the plant. Because pH drift is common and often gradual, iron deficiency can appear seemingly overnight even in gardens that have been running smoothly for weeks. The good news is that this also means iron deficiency is one of the easiest problems to prevent and correct once you understand the pH connection.
+Iron deficiency is one of the most frequently diagnosed nutrient problems in [[query-how-does-no-till-cannabis-cultivation-work]], affecting growers across all experience levels and all [[mushroom-growing-methods-comparison]]. The reason for its prevalence is simple: iron is present in virtually all growing media and nutrient solutions, but it is also one of the most pH-sensitive nutrients. A relatively small upward drift in pH, sometimes as little as 0.3 to 0.5 points, can make iron unavailable to the plant. Because pH drift is common and often gradual, iron deficiency can appear seemingly overnight even in gardens that have been running smoothly for weeks. The good news is that this also means iron deficiency is one of the easiest problems to prevent and correct once you understand the pH connection.
 
 ## Detailed Explanation
-Iron is a micronutrient that cannabis needs in small amounts for chlorophyll synthesis, enzyme function, and electron transport during photosynthesis. Despite being required only in trace quantities, a deficiency can rapidly impact plant health and vigor. The most important thing to understand about [[cannabis-manganese-nutrient]] deficiency since both cause interveinal chlorosis on new growth, but manganese deficiency typically affects a slightly wider band of tissue and may include small brown necrotic spots.
+Iron is a micronutrient that cannabis needs in small amounts for chlorophyll synthesis, enzyme function, and electron transport during photosynthesis. Despite being required only in trace quantities, a deficiency can rapidly impact plant health and vigor. The most important thing to understand about [[cannabis-manganese-nutrient]] deficiency since both cause interveinal chlorosis on new growth, but [[query-how-to-fix-manganese-deficiency-in-cannabis]] typically affects a slightly wider band of tissue and may include small brown necrotic spots.
 
 The single most common cause of iron deficiency is pH that is too high. In soil, iron becomes increasingly unavailable above pH 6.5 to 7.0. In hydroponic systems or soilless media, the optimal range is narrower, between 5.5 and 6.0. When pH drifts upward, iron precipitates into forms the roots cannot absorb, even when plenty is present. This is why careful [[cannabis-chemical-burn-vs-deficiency]] is a common diagnostic confusion, especially when growers apply excessive cal-mag products that raise pH as a side effect. Light burn from overly intense LEDs can cause bleaching at the canopy top that resembles iron chlorosis, but the leaf texture and vein color differ. Always check pH and examine the pattern of symptoms across the plant before applying any corrective treatment.
 
 To fix iron deficiency, first correct the pH of your growing medium. In soil, drench with a slightly acidic solution around pH 6.0 to bring the root zone back into range. In hydroponic reservoirs, adjust the nutrient solution to pH 5.5 to 5.8. Once pH is corrected, iron already present in the medium or nutrient solution becomes available again, and new growth should recover within a week. For faster results, [[cannabis-manganese-nutrient]] deficiency also causes interveinal chlorosis on new growth, but the yellowing tends to be more diffuse and is often accompanied by small brown or tan spots on the affected leaves. Manganese deficiency is also less common than iron deficiency and typically occurs at lower pH levels rather than high pH.
 
-Magnesium deficiency causes interveinal chlorosis too, but it appears on older, lower leaves first and progresses upward, the opposite pattern of iron deficiency. This distinction in where symptoms appear first is one of the most reliable diagnostic clues: if the newest leaves at the top are pale while older leaves below are still green, think iron. If the oldest leaves at the bottom are yellowing while new growth stays green, think nitrogen or magnesium.
+[[query-how-to-fix-magnesium-deficiency-in-cannabis]] causes interveinal chlorosis too, but it appears on older, lower leaves first and progresses upward, the opposite pattern of iron deficiency. This distinction in where symptoms appear first is one of the most reliable diagnostic clues: if the newest leaves at the top are pale while older leaves below are still green, think iron. If the oldest leaves at the bottom are yellowing while new growth stays green, think nitrogen or magnesium.
 
 Light stress from overly intense LED grow lights can bleach or yellow the newest leaves near the light source, mimicking iron deficiency. However, light-stressed leaves typically show a more uniform yellowing or white bleaching without the distinctive green-vein pattern of true iron chlorosis. The leaf tissue may also feel papery or crisp rather than soft. Raising the light height or reducing intensity corrects light stress but does nothing for a genuine iron deficiency caused by pH lockout.
 
 ### Iron in the Nutrient Regimen
 
-Most complete cannabis nutrient lines include iron in chelated form, typically as iron DTPA or iron EDDHA. Chelation protects the iron molecule from precipitating out of solution at higher pH values, making it available over a wider pH range than plain iron sulfate. Iron EDDHA is the most stable chelate and remains available up to pH 9.0, while iron DTPA is effective up to approximately pH 7.5. Using a nutrient line that includes chelated iron provides a safety margin against pH-related lockout.
+Most complete [[green-cannabis-nutrient-schedules]] lines include iron in chelated form, typically as iron DTPA or iron EDDHA. Chelation protects the iron molecule from precipitating out of solution at higher pH values, making it available over a wider pH range than plain iron sulfate. Iron EDDHA is the most stable chelate and remains available up to pH 9.0, while iron DTPA is effective up to approximately pH 7.5. Using a nutrient line that includes chelated iron provides a safety margin against pH-related lockout.
 
 For organic growers, iron can be supplemented through organic sources like kelp meal, which contains trace minerals including iron, or through compost teas made with diverse organic materials. Some growers add a small amount of iron sulfate to their soil mix as a preventative measure, though this should be done sparingly because excess iron can interfere with phosphorus and manganese uptake. In living soil systems where the microbiome is active and diverse, iron is typically cycled efficiently by soil bacteria and fungi, making deficiency rare as long as pH is within range.
 
@@ -54,7 +55,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -96,4 +97,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

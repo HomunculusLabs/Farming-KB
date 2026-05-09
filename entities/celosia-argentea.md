@@ -47,7 +47,7 @@ The specific epithet *argentea* means "silvery," referring to the silvery sheen 
 
 ## Distribution and Habitat
 
-*Celosia argentea* is native to tropical and subtropical regions of Africa and South and Southeast Asia. Its exact center of origin is uncertain, but it has been cultivated across the Old World tropics for centuries.
+*Celosia argentea* is native to tropical and subtropical regions of Africa and South and [[psilocybe-southeast-asia-pacific]]. Its exact center of origin is uncertain, but it has been cultivated across the [[datura-metel-old-world-ethnobotany]] tropics for centuries.
 
 The species has been introduced and naturalized in the Americas, Australia, and Pacific Islands. It grows as a weed in disturbed areas, roadsides, and cultivated fields in tropical and warm temperate regions worldwide.
 
@@ -81,9 +81,9 @@ As an ornamental, *C. argentea* is grown from seed or nursery transplants and is
 
 ## Bioactive Compounds and Pharmacology
 
-Phytochemical screening of *Celosia argentea* has revealed a range of secondary metabolites with potential biological activity. The leaves and seeds contain flavonoids (including vitexin and isovitexin), saponins, tannins, alkaloids, and phenolic acids.
+Phytochemical screening of *Celosia argentea* has revealed a range of [[antifungal-secondary-metabolites-coprophilous-fungi]] with potential biological activity. The leaves and seeds contain flavonoids (including vitexin and isovitexin), saponins, tannins, alkaloids, and phenolic acids.
 
-Ethanol and aqueous leaf extracts have demonstrated moderate antibacterial activity against *Staphylococcus aureus*, *Escherichia coli*, and *Pseudomonas aeruginosa* in vitro. Antifungal activity has been reported against *Candida albicans* and *Aspergillus niger*.
+Ethanol and aqueous leaf extracts have demonstrated moderate antibacterial activity against *Staphylococcus aureus*, *Escherichia coli*, and *Pseudomonas aeruginosa* in vitro. Antifungal activity has been reported against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and *Aspergillus niger*.
 
 Anti-inflammatory and antioxidant activities have been documented in rodent models. Methanolic leaf extracts showed significant free radical scavenging activity in DPPH and ABTS assays. These activities are attributed primarily to the flavonoid and phenolic acid content.
 
@@ -97,11 +97,11 @@ The plant can become weedy in agricultural fields, particularly in tropical and 
 
 Several related *Celosia* species are also cultivated, including *C. cristata* (the crested cockscomb, sometimes treated as conspecific with *C. argentea*) and *C. trigyna*, a wild African species consumed as a leaf vegetable. The taxonomic boundaries within the genus remain somewhat unresolved, with some authorities treating the crested and plumed forms as varieties of a single polymorphic species.
 
-As a fast-growing annual, *C. argentea* can provide rapid ground cover in disturbed sites. Its root system is relatively shallow but helps stabilize surface soil and reduce erosion in the early stages of ecological succession.
+As a fast-growing annual, *C. argentea* can provide rapid [[fukuoka-citrus-orchard-ground-cover-cultivation]] in disturbed sites. Its root system is relatively shallow but helps stabilize surface soil and reduce erosion in the early stages of [[holmgren-ecological-succession-and-pulsing]].
 
 ## See Also
 
-- [[amaranthus-palmeri]]
+- amaranthus-palmeri
 - [[chenopodium-album]]
 - [[spinacia-oleracea]]
 - [[talinum-paniculatum]]

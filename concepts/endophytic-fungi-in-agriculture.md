@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Endophytic fungi live inside plant tissues without causing disease symptoms. These symbiotic relationships, found in virtually all plant species studied, can confer drought tolerance, pest resistance, disease resistance, and enhanced nutrient uptake to host plants. Agricultural research is increasingly focused on harnessing endophytes as alternatives to chemical inputs.
+Endophytic fungi live inside plant tissues without causing disease symptoms. These symbiotic relationships, found in virtually all plant species studied, can confer [[dighton-fungal-drought-tolerance-plant-water-relations]], pest resistance, disease resistance, and enhanced nutrient uptake to host plants. Agricultural research is increasingly focused on harnessing endophytes as alternatives to chemical inputs.
 
 ## Types of Endophytic Fungi
 
@@ -32,7 +32,7 @@ Endophytic fungi live inside plant tissues without causing disease symptoms. The
 - Melanized hyphae colonize root tissues
 - Found in stressed environments (arid, alpine, contaminated soils)
 - Confer drought, salt, and temperature stress tolerance
-- May have mycorrhiza-like functions in nutrient exchange
+- May have mycorrhiza-like functions in [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
 - Common genera: Exophiala, Cladosporium, Leptodontidium
 
 ## Mechanisms of Plant Protection
@@ -45,7 +45,7 @@ Endophytic fungi live inside plant tissues without causing disease symptoms. The
 - Production of protease inhibitors that reduce insect digestion
 
 ### Disease Resistance
-- Induced Systemic Resistance (ISR): Endophytes prime plant immune responses
+- [[endophytic-mycorrhizal-induced-systemic-resistance]] Resistance (ISR): Endophytes prime plant immune responses
 - Production of antimicrobial compounds (antibiotics, siderophores)
 - Competition with pathogens for colonization sites and nutrients
 - Activation of plant pathogenesis-related (PR) proteins
@@ -60,9 +60,9 @@ Endophytic fungi live inside plant tissues without causing disease symptoms. The
 - Dark septate endophytes particularly effective for drought tolerance
 
 ### Nutrient Enhancement
-- Biological nitrogen fixation by some endophytic species
+- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation by some endophytic species
 - Phosphorus solubilization through organic acid production
-- Enhanced iron acquisition through siderophore production
+- Enhanced iron acquisition through [[singh-fungal-siderophore-production-iron-acquisition]]
 - Increased root branching and exploration
 - Upregulation of plant nutrient transporter genes
 
@@ -87,7 +87,7 @@ One of the most studied agricultural endophytes:
 ### Serendipita indica (formerly Sebacina vermifera)
 - Root endophyte with broad host range
 - Promotes plant growth and stress tolerance
-- Enhances mycorrhizal colonization when co-inoculated
+- Enhances [[arbuscular-mycorrhizal-colonization-patterns]] when co-inoculated
 - Compatible with many agricultural crops
 
 ### Fusarium spp. (non-pathogenic strains)
@@ -137,55 +137,6 @@ One of the most studied agricultural endophytes:
 - Endophyte-colonized plantlets propagated through tissue culture
 - Used for "novel endophyte" grass varieties in pasture systems
 - Maintains endophyte through vegetative propagation
-
-## Crop Applications
-
-### Cereals and Grains
-- Endophyte-infected tall fescue and perennial ryegrass for pastures
-- Piriformospora indica increases rice and wheat yield under stress
-- Barley endophytes improve drought tolerance and grain quality
-
-### Vegetables
-- Tomato: Endophytes reduce Fusarium wilt, improve fruit quality
-- Pepper: Enhanced resistance to Phytophthora and aphids
-- Cucumber: Trichoderma endophytes suppress powdery mildew
-- Lettuce: Endophyte inoculation reduces post-harvest decay
-
-### Fruit Trees
-- Citrus: Endophytic Beauveria reduces psyllid vectors of citrus greening
-- Apple: Endophytes suppress apple scab and fire blight
-- Grape: Endophytes reduce Botrytis bunch rot; some improve wine quality
-
-### Legumes
-- Soybean: Endophytes increase nodulation and nitrogen fixation
-- Bean: Piriformospora indica improves drought tolerance and yield
-- Endophytes can synergize with rhizobial inoculants
-
-## Research Frontiers
-
-### Microbiome Engineering
-- Designing synthetic endophyte consortia for specific crops and conditions
-- Combining endophytes with mycorrhizal inoculants for multi-functional protection
-- Understanding endophyte-endophyte interactions within plant hosts
-
-### Stress Adaptation
-- Screening endophytes from extreme environments (deserts, salt flats, thermal vents)
-- Pre-conditioning crops with endophytes for climate change resilience
-- Connecting to [[fungi-in-climate-change]] adaptation strategies
-
-### Molecular Mechanisms
-- Multi-omics approaches to understand endophyte-plant communication
-- Small RNA exchange between fungi and plant hosts
-- Epigenetic effects of endophyte colonization on plant gene expression
-
-## Limitations and Challenges
-
-- Endophyte colonization is variable and influenced by environment
-- Laboratory results often exceed field performance
-- Regulatory approval for novel endophyte products varies by jurisdiction
-- Potential for non-target effects (endophytes may affect non-pest organisms)
-- Long-term stability of endophyte-plant associations in agricultural fields is uncertain
-- Some endophytes may become pathogenic under stress or in new hosts
 
 ## See Also
 

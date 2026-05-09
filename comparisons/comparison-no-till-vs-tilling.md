@@ -17,8 +17,8 @@ type: comparison
 No-till and conventional tilling represent fundamentally opposing philosophies
 about soil management. Tilling physically turns and aerates the soil using
 mechanical implements, breaking up compaction and incorporating amendments. No-
-till gardening avoids soil disturbance entirely, relying on surface applications
-of compost, mulch, and organic matter to feed the soil food web from above. The
+[[no-till-gardening-method]] avoids soil disturbance entirely, relying on surface applications
+of compost, mulch, and [[hamilton-composting-and-organic-matter-management]] to feed the soil food web from above. The
 debate between these approaches centers on whether the short- term benefits of
 soil aeration and weed burial outweigh the long-term damage that tilling
 inflicts on soil structure, microbial communities, and fungal networks.
@@ -38,7 +38,7 @@ soil improvement.
 However, "Teaming with Microbes" identifies rototilling and excessive soil
 disturbance as perhaps the most destructive traditional gardening practices. The
 damage is multi-layered. Fungal hyphae are chopped up, destroying the
-mycorrhizal networks that plants depend on for nutrient gathering. Soil
+[[dighton-mycorrhizal-networks-carbon-transfer]] that plants depend on for nutrient gathering. Soil
 structure is blown apart, and the fluffy appearance after tilling is temporary:
 the first watering or rain begins a compaction cycle that worsens with each
 subsequent irrigation. Established microbial communities are disrupted, and the
@@ -51,7 +51,7 @@ weeds but brings buried weed seeds to the surface where they germinate. This
 creates a perpetual cycle of tilling to control weeds that actually generates
 more weeds. The disturbed soil surface is also more vulnerable to erosion from
 wind and rain, particularly on sloped ground. For these reasons, most soil
-biology experts recommend tilling only for initial bed preparation on severely
+biology experts recommend tilling only for initial [[azurescens-outdoor-bed-preparation-woodchips]] on severely
 degraded soil, then transitioning to no-till methods for ongoing management.
 
 ## Key Differences
@@ -67,7 +67,7 @@ degraded soil, then transitioning to no-till methods for ongoing management.
 | Short-term Results | Slower improvement | Immediate bed preparation |
 | Labor Over Time | Decreasing (less weeding) | Ongoing (repeated tilling) |
 | Best For | Established beds, long-term soil | New beds, initial preparation |
-| Carbon Storage | Increasing (builds humus) | Decreasing (releases CO2) |
+| [[holmgren-soil-humus-carbon-storage-rebuilding]] | Increasing (builds humus) | Decreasing (releases CO2) |
 
 ## When to Choose No-Till
 
@@ -76,7 +76,7 @@ already developing. It is particularly beneficial for perennial plantings, food
 forests, and any system where mycorrhizal associations are important. No-till
 soils improve continuously over time, requiring fewer inputs and less labor as
 the soil food web matures. For organic growers who depend on biological nutrient
-cycling and disease suppression, no-till practices preserve the very organisms
+cycling and [[aact-disease-suppression-mechanisms-ingham]], no-till practices preserve the very organisms
 that make organic growing possible.
 
 ## When to Choose Tilling

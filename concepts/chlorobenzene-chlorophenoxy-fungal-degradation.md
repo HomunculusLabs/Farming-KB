@@ -1,5 +1,5 @@
 ---
-title: "Chlorobenzene and Chlorophenoxy Herbicide Fungal Degradation"
+title: "Chlorobenzene and Chlorophenoxy Herbicide singh-fungal-degradation-endocrine-disrupting-compounds"
 created: 2026-04-28
 tags: [bioremediation, chlorophenol, herbicide, white-rot-fungi, pesticide]
 date: 2026-04-25
@@ -11,11 +11,11 @@ type: concept
 
 # Chlorobenzene and Chlorophenoxy Herbicide Fungal Degradation
 
-Chlorinated aromatic compounds represent one of the largest and most
+[[fungal-chlorinated-aromatic-degradation]] compounds represent one of the largest and most
 environmentally problematic classes of synthetic chemicals. Chlorobenzenes
 and chlorophenoxyacetic acid herbicides are widely used in agriculture and
 industry, and their persistence, bioaccumulation potential, and toxicity
-pose significant environmental and human health concerns. White rot fungi
+pose significant environmental and human health concerns. [[white-rot-fungi]]
 have demonstrated remarkable capabilities for degrading these recalcitrant
 compounds through both ligninolytic and non-ligninolytic enzymatic
 pathways, offering promising approaches for bioremediation of contaminated
@@ -36,9 +36,9 @@ crop productivity and environmental quality.
 Fungal oxidative enzymes have shown activity against other halogenated
 compounds including nerve agents. VX and Russian VX (RVX), along with the
 insecticide analog diisopropylamiton containing phosphothiolate bonds,
-were rapidly and completely oxidized by [[chlorophenol-degradation-by-white-rot-fungi]] for chlorophenol pathways
-- [[fungal-biodegradation-pesticides]] for pesticide metabolism
-- [[fungal-enzyme-systems-in-bioremediation]] for enzymatic mechanisms
+were rapidly and completely oxidized by chlorophenol-degradation-by-white-rot-fungi for chlorophenol pathways
+- fungal-biodegradation-pesticides for pesticide metabolism
+- fungal-enzyme-systems-in-bioremediation for enzymatic mechanisms
 ## Practical Considerations
 
 When working with Chlorobenzene and Chlorophenoxy Herbicide Fungal Degradation, several practical factors should be
@@ -55,7 +55,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -97,4 +97,9 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[fungal-enzyme-systems-xenobiotic-degradation]]
+- [[fungal-melanoidin-degradation]]
+- [[trichloroethylene-fungal-degradation]]
+- [[fungal-cellulose-degradation]]
+- [[fungal-degradation-of-textile-dyes]]

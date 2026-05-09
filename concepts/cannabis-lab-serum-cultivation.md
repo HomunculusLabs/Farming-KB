@@ -5,17 +5,17 @@ updated: 2026-04-16
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis LAB Serum Cultivation
 
-Lactic acid bacteria (LAB) serum represents a practical, low-cost biological amendment that cannabis cultivators can produce at home to potentially enhance plant health, terpene production, and trichome development. Derived from the principles of Effective Microorganisms (EM) and Korean Natural Farming, LAB serum involves fermenting a simple mixture of rice, milk, and molasses to produce a probiotic culture rich in beneficial lactic acid bacteria.
+Lactic acid bacteria (LAB) serum represents a practical, low-cost biological amendment that cannabis cultivators can produce at home to potentially enhance plant health, terpene production, and [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]]. Derived from the principles of [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]] (EM) and Korean Natural Farming, LAB serum involves fermenting a simple mixture of rice, milk, and molasses to produce a probiotic culture rich in beneficial lactic acid bacteria.
 
 ## Origins in Effective Microorganisms
 
-The concept of using cultured beneficial microorganisms in agriculture was formalized by Teruo Higa through his development of Effective Microorganisms (EM/EM1). Higa's original formulation described an inoculant of multiple species of beneficial microorganisms providing a wide variety of functions, including suppression of plant pathogens and diseases, conservation of energy in plants, solubilization of soil minerals, and maintenance of soil microbial-ecological balance, photosynthetic efficiency, and biological nitrogen fixation.
+The concept of using cultured beneficial microorganisms in agriculture was formalized by Teruo Higa through his development of Effective Microorganisms (EM/EM1). Higa's original formulation described an inoculant of multiple species of beneficial microorganisms providing a wide variety of functions, including suppression of plant pathogens and diseases, conservation of energy in plants, solubilization of soil minerals, and maintenance of soil microbial-ecological balance, photosynthetic efficiency, and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation.
 
-The original EM blend included lactic acid bacteria, purple bacteria, yeast, actinomycetes, and fermenting fungi. Higa later revised his mixture to include only lactic acid bacteria, purple bacteria, and yeast. The LAB serum approach described for cannabis cultivation follows a similar philosophy but focuses specifically on culturing lactic acid bacteria through a simplified fermentation process that can be performed by individual growers.
+The original EM blend included lactic acid bacteria, purple bacteria, yeast, actinomycetes, and fermenting fungi. Higa later revised his mixture to include only lactic acid bacteria, purple bacteria, and yeast. The LAB serum approach described for [[query-how-does-no-till-cannabis-cultivation-work]] follows a similar philosophy but focuses specifically on culturing lactic acid bacteria through a simplified fermentation process that can be performed by individual growers.
 
 ## Evidence from Agricultural Research
 
@@ -33,9 +33,9 @@ In the second phase, the extracted rice wash solution is mixed with ten parts mi
 
 ## Application to Cannabis
 
-The stabilized LAB serum can be applied to cannabis plants through soil drenching or foliar spraying. For soil application, the serum is diluted with water and applied to the root zone, where the lactic acid bacteria colonize the rhizosphere and contribute to the soil microbial community. Foliar application sprays the diluted serum directly onto leaf surfaces, where it can help suppress pathogenic microorganisms.
+The stabilized LAB serum can be applied to cannabis plants through soil drenching or foliar spraying. For soil application, the serum is diluted with water and applied to the root zone, where the lactic acid bacteria colonize the rhizosphere and contribute to the soil [[edaphic-factors-microbial-community-structure]]. Foliar application sprays the diluted serum directly onto leaf surfaces, where it can help suppress pathogenic microorganisms.
 
-Application timing appears to influence results. Some cultivators apply LAB serum throughout the vegetative stage and into early flowering, then reduce or discontinue applications as flowers mature to avoid introducing moisture and microbial activity that could promote bud rot. Other growers continue light applications through flowering, reporting enhanced terpene profiles.
+Application timing appears to influence results. Some cultivators apply LAB serum throughout the vegetative stage and into early flowering, then reduce or discontinue applications as flowers mature to avoid introducing moisture and microbial activity that could promote bud rot. Other growers continue light applications through flowering, reporting enhanced [[cannabis-terpene-profiles-sativa]].
 
 ## The Curd Byproduct
 
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

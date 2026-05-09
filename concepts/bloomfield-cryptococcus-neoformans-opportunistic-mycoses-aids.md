@@ -1,5 +1,5 @@
 ---
-title: Cryptococcus Neoformans and Opportunistic Mycoses
+title: bloomfield-cryptococcus-neoformans-capsule-melanin-brain and Opportunistic Mycoses
 created: 2026-04-28
 tags:
   - mycology
@@ -21,7 +21,7 @@ type: concept
 
 Cryptococcus neoformans is an encapsulated yeast that causes life-threatening meningitis,
 particularly in immunocompromised patients. It represents one of the most clinically
-significant opportunistic fungal pathogens, affecting approximately 10 percent of AIDS
+significant opportunistic [[bloomfield-fungal-pathogens-and-parasites]], affecting approximately 10 percent of AIDS
 patients worldwide. The organism illustrates the critical relationship between host
 immunity and fungal virulence that defines the field of medical mycology.
 
@@ -29,7 +29,7 @@ immunity and fungal virulence that defines the field of medical mycology.
 
 Cryptococcus is a yeast surrounded by a distinctive polysaccharide capsule, visible
 under the microscope as a clear halo surrounding each cell. This capsule is a key
-virulence factor, protecting the yeast from phagocytosis by host immune cells. The
+virulence factor, protecting the yeast from phagocytosis by [[fungal-virulence-factors-host-immune-evasion]] cells. The
 fungus is very widespread in the environment, and humans probably encounter its cells
 on a frequent basis through inhalation of spores or yeast cells from soil contaminated
 with bird droppings.
@@ -49,7 +49,7 @@ debilitating headaches, and eventually to blindness, dementia, and death.
 Cryptococcosis is diagnosed by collecting cerebrospinal fluid from a lumbar puncture.
 The clear fluid circulating through the ventricles of the brain is spread on culture
 plates, where colonies of Cryptococcus appear within a day or two. Swifter diagnosis
-can be performed by direct microscopic examination of the cerebrospinal fluid or by
+can be performed by direct [[fungal-microscopic-examination-mounting-media-techniques]] of the cerebrospinal fluid or by
 using immunological tests that detect the polysaccharides produced by the fungus. The
 India ink stain is a classic rapid diagnostic method that reveals the encapsulated
 yeast cells suspended in the fluid.
@@ -78,7 +78,7 @@ where the aim shifts from cure to symptom relief.
 
 Amphotericin is often prescribed with 5-fluorocytosine, a compound that impairs RNA
 function and DNA synthesis in the fungus. The action of the two drugs together is
-synergistic, providing the same cessation of fungal growth with lower doses of each
+synergistic, providing the same cessation of [[brassinosteroid-fungal-growth-promotion]] with lower doses of each
 drug and diminishing undesirable side effects. Fluconazole, an azole antifungal that
 blocks ergosterol synthesis by inhibiting the enzyme 14-alpha-demethylase, is a third
 drug effective at halting cryptococcal infection progression.
@@ -114,8 +114,12 @@ pigs, rats, shrews, snakes, and a variety of birds. This enormous range of susce
 hosts suggests the yeast has been a pathogen for millions of years, long predating the
 emergence of HIV and modern immunosuppressive medicine.
 
-## Related Topics
+## Related
+
+- bloomfield-cryptococcus-neoformans-pathogenic-yeast-meningitis
+- [[bloomfield-dermatophytes-ringworm-malassezia-skin-mycoses]]
+- [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]] Topics
 
 - [[bloomfield-fungal-parasites-of-insects]]
-- [[bloomfield-poisonous-mushrooms-and-mycotoxins]]
+- bloomfield-poisonous-mushrooms-and-mycotoxins
 - [[bloomfield-fungal-plant-pathogens]]

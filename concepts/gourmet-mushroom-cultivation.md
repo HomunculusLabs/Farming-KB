@@ -1,19 +1,13 @@
 ---
-title: Gourmet Mushroom Cultivation
+title: Gourmet mushroom-cultivation
 created: 2026-04-28
-tags: [[mycology, cultivation, gourmet-mushrooms, agriculture]
+tags: [mycology, cultivation, gourmet-mushrooms, agriculture]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 type: concept
 ---
-
-# Gourmet Mushroom Cultivation
-
-Gourmet mushroom cultivation is the practice of growing edible fungi for
-culinary markets. The most commonly cultivated species include **shiitake**
-(*Lentinula edodes*), **oyster mushrooms** (*Pleurotus* spp.), **king oyster**
-(*Pleurotus eryngii*), **enoki** (*[[hericium-erinaceus]]*).
+# Gourmet Mushroom Cultivation Gourmet mushroom cultivation is the practice of growing edible fungi for culinary markets. The most commonly cultivated species include **shiitake** (*Lentinula edodes*), **oyster mushrooms** (*Pleurotus* spp.), **king oyster** (*Pleurotus eryngii*), **enoki** (*[[hericium-erinaceus]]*).
 Each species has distinct growing parameters, substrate preferences, and market
 value. The global gourmet mushroom market exceeds $50 billion and is growing
 annually as consumer demand for functional foods and plant-based proteins
@@ -21,8 +15,8 @@ increases.
 
 ## Spawn Production
 
-Cultivation begins with **spawn** — mushroom [[agar]] plates (malt extract agar or potato dextrose agar)
-- **Sterile technique** — working in a laminar flow hood or still-air box to
+Cultivation begins with **spawn** — mushroom agar plates (malt extract agar or potato dextrose agar)
+- **[[cultivator-sterile-technique-and-agar-culture]]** — working in a laminar flow hood or still-air box to
   prevent contamination by bacteria, mold spores, or competing fungi
 - **Grain preparation** — soaking, boiling, and sterilizing grain in jars or
   bags at 15 PSI for 90-120 minutes; proper grain moisture (50-55%) is
@@ -51,9 +45,9 @@ different substrates based on their natural ecological role as decomposers:
   agricultural waste; highly versatile and aggressive decomposers that can
   fruit on dozens of substrate types; the easiest mushroom for beginners
 - **King oyster**: enriched hardwood sawdust with higher supplementation (20-25%
-  bran) for larger fruiting bodies; demands careful environmental control for
+  bran) for larger fruiting bodies; demands careful [[eclss-environmental-control-life-support]] for
   thick-stemmed, market-quality specimens
-- **Enoki**: hardwood sawdust or enriched sawdust; requires cold shocking for
+- **Enoki**: hardwood sawdust or [[gourmet-mushroom-enriched-sawdust-cultivation]]; requires cold shocking for
   proper morphology; commercial enoki is grown in high-CO₂ conditions to
   produce long, white stems
 
@@ -73,7 +67,7 @@ environmental conditions:
   ventilation is critical for normal development; CO₂ above 1000 ppm causes
   stem elongation and cap deformation in most species
 - **Humidity** — 85-95% relative humidity maintained via fogging or misting;
-  evaporative cooling from growing mushrooms contributes to local humidity
+  [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] from growing mushrooms contributes to local humidity
 - **Temperature** — varies by species; oysters fruit at 15-25°C, shiitake at
   10-20°C, enoki at 5-15°C; most species benefit from a 5-10°C temperature
   drop to initiate fruiting
@@ -93,7 +87,7 @@ substrate block:
   1-2 weeks with reduced humidity to allow substrate recovery
 - **Third flush and beyond** — diminishing returns; most commercial growers
   harvest 2-3 flushes before discarding blocks
-- **Total biological efficiency** — kilograms fresh mushrooms per kilogram dry
+- **Total [[stamets-biological-efficiency-yield]]** — kilograms fresh mushrooms per kilogram dry
   substrate; oyster mushrooms achieve 50-100%, shiitake 30-50%, king oyster
   40-70%
 
@@ -107,7 +101,7 @@ creating mess) and develop tougher textures. Post-harvest handling includes:
 - Immediate cooling to 2-4°C to slow metabolism and respiration
 - Packaging in breathable containers (not sealed plastic) to prevent moisture
   accumulation and bacterial growth
-- Shelf life of 5-14 days depending on species and storage conditions
+- Shelf life of 5-14 days depending on species and [[vegetable-storage-conditions-by-temperature-and-humidity]]
 - Drying (dehydrator at 35-45°C) or freezing as preservation alternatives for
   longer storage; dried mushrooms rehydrate well and often develop deeper
   flavors through the Maillard reaction during cooking
@@ -139,3 +133,5 @@ due to short shelf life, perishability, and growing demand from restaurants,
 food service, and health-conscious consumers. Oyster mushrooms offer the fastest
 return (3-4 weeks from inoculation to harvest), while shiitake on logs requires
 6-12 months but produces multiple crops over 3-5 years from a single
+## See Also
+- [[mycelium]]

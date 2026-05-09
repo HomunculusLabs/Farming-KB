@@ -14,7 +14,7 @@ Humulene (α-caryophyllene), also known as α-humulene, is a sesquiterpene (C15)
 
 ### Analgesic Properties
 
-Humulene demonstrates analgesic activity primarily through anti-inflammatory mechanisms, including reduction of inflammatory mediators, modulation of pain signaling pathways, and potential interaction with opioid and cannabinoid receptors. The analgesic synergy between humulene and cannabinoids represents an important component of the entourage effect in pain management.
+Humulene demonstrates analgesic activity primarily through anti-inflammatory mechanisms, including reduction of inflammatory mediators, modulation of pain signaling pathways, and potential interaction with opioid and cannabinoid receptors. The analgesic synergy between humulene and cannabinoids represents an important component of the [[cannabis-terpene-entourage-effect-profiles]] in pain management.
 
 ### Anticancer Properties
 
@@ -22,19 +22,19 @@ Emerging research has identified anticancer potential for humulene, including an
 
 ### Antioxidant Activity
 
-Humulene exhibits moderate antioxidant activity, scavenging free radicals and reducing oxidative stress in cellular models. This contributes to its anti-inflammatory, neuroprotective, and potentially chemopreventive effects.
+Humulene exhibits moderate antioxidant activity, scavenging free radicals and reducing [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in cellular models. This contributes to its anti-inflammatory, neuroprotective, and potentially chemopreventive effects.
 
 ## Comparison with β-Caryophyllene
 
-Humulene and β-caryophyllene are structural isomers that often co-occur in plant essential oils. Key pharmacological differences include: β-caryophyllene is a selective CB2 receptor agonist while humulene does not bind cannabinoid receptors; both are potent anti-inflammatory agents though they may differ in relative potency across pathways; β-caryophyllene has a more peppery aroma while humulene is more earthy and woody; and humulene appears to suppress appetite while β-caryophyllene has not demonstrated this property.
+Humulene and β-caryophyllene are structural isomers that often co-occur in plant [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]. Key pharmacological differences include: β-caryophyllene is a selective CB2 receptor agonist while humulene does not bind cannabinoid receptors; both are potent anti-inflammatory agents though they may differ in relative potency across pathways; β-caryophyllene has a more peppery aroma while humulene is more earthy and woody; and humulene appears to suppress appetite while β-caryophyllene has not demonstrated this property.
 
 ## Cultivation Factors Affecting Humulene Content
 
-As a sesquiterpene, humulene biosynthesis may be affected differently by environmental factors than monoterpenes. Genetics is the primary determinant. Sesquiterpenes may continue to increase later in the flowering cycle compared to monoterpenes. Warmer conditions may favor sesquiterpene production. The compound is somewhat less volatile than monoterpenes and may be retained better during drying.
+As a sesquiterpene, humulene biosynthesis may be affected differently by [[duggar-mushroom-environmental-factors-temperature-moisture-light]] than monoterpenes. Genetics is the primary determinant. Sesquiterpenes may continue to increase later in the [[cannabis-sativa-flowering-cycle-management]] compared to monoterpenes. Warmer conditions may favor sesquiterpene production. The compound is somewhat less volatile than monoterpenes and may be retained better during drying.
 
 ## Safety Profile
 
-Humulene is classified as GRAS by the FDA and is widely consumed through dietary sources including hops in beer, culinary herbs, and spices. It has low acute toxicity and is generally well tolerated at normal exposure levels.
+Humulene is classified as GRAS by the FDA and is widely consumed through dietary sources including hops in beer, [[holzer-medicinal-and-culinary-herbs-compendium]], and spices. It has low acute toxicity and is generally well tolerated at normal exposure levels.
 
 Related: [[medicinal-mushroom-antioxidant-anti-inflammatory]], [[ptychopetalus-olacoides]]
 ## Practical Applications
@@ -114,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

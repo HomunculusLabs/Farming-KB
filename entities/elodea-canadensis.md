@@ -19,11 +19,11 @@ sources:
 
 ## Overview
 
-**Elodea canadensis** Michx., commonly known as Canadian waterweed or common elodea, is a submerged perennial aquatic plant in the family Hydrocharitaceae. It is native to most of North America and has become widely naturalized in Europe, Asia, Australia, and New Zealand.
+**Elodea canadensis** Michx., commonly known as Canadian waterweed or common elodea, is a submerged perennial aquatic plant in the family Hydrocharitaceae. It is native to most of [[psilocybin-north-america-pacific-northwest]] and has become widely naturalized in Europe, Asia, Australia, and New Zealand.
 
 The species was one of the first documented cases of an aquatic plant invasion, having spread from North America to Europe and the British Isles in the mid-19th century. It is often cited in historical accounts as a model invasive aquatic species.
 
-Despite its reputation as an invasive species outside its native range, *E. canadensis* provides important ecological functions including oxygen production, habitat structure, and nutrient cycling in freshwater systems.
+Despite its reputation as an invasive species outside its native range, *E. canadensis* provides important ecological functions including oxygen production, habitat structure, and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in freshwater systems.
 
 ## Taxonomy and Morphology
 
@@ -43,7 +43,7 @@ Only female plants occur in most European populations, a phenomenon attributed t
 
 The species was first recorded in Europe in 1836 in the British Isles, likely introduced through ballast water or the aquarium trade. It spread rapidly across western Europe, reaching continental waterways by the 1840s and Scandinavia by the 1860s. It is now established across most of temperate Europe.
 
-It inhabits a broad range of freshwater environments including lakes, ponds, slow-moving rivers, streams, canals, and ditches. The plant tolerates depths from 0.5 to 7 meters, though optimal growth occurs in shallow waters (0.5–3 m) with moderate nutrient availability.
+It inhabits a broad range of freshwater environments including lakes, ponds, slow-moving rivers, streams, canals, and ditches. The plant tolerates depths from 0.5 to 7 meters, though optimal growth occurs in shallow waters (0.5–3 m) with moderate [[ph-and-nutrient-availability-garden-soils]].
 
 Substrate preference includes mud, clay, and sandy bottoms. The species is moderately shade-tolerant and can persist under the canopy of other submersed macrophytes. It is tolerant of moderate water pollution but declines under severe eutrophication.
 
@@ -51,7 +51,7 @@ Substrate preference includes mud, clay, and sandy bottoms. The species is moder
 
 In its native range, *E. canadensis* is a common component of freshwater plant communities, coexisting with diverse assemblages of submersed macrophytes. It provides structural habitat for invertebrates, fish fry, and amphibian larvae.
 
-Outside its native range, dense *E. canadensis* beds can reduce biodiversity by displacing native aquatic vegetation. The species alters benthic light regimes, sediment chemistry, and nutrient cycling through its high biomass production and decomposition rates.
+Outside its native range, dense *E. canadensis* beds can reduce biodiversity by displacing native aquatic vegetation. The species alters benthic light regimes, sediment chemistry, and nutrient cycling through its high [[dighton-fungal-biomass-production-aquatic-ecosystems]] and decomposition rates.
 
 Vegetative propagation is the primary dispersal mechanism. Stem fragments as short as a single node can produce new plants. Fragment dispersal occurs via water currents, boat traffic, fishing equipment, and waterfowl transport.
 
@@ -79,11 +79,11 @@ Mechanical removal by cutting or raking provides temporary relief from dense gro
 
 Herbicide treatments using fluridone, diquat, or endothall have been employed with varying success. Fluridone at low concentrations (10–20 ppb) applied over 6–8 weeks can achieve effective control with minimal non-target impacts on native plant species.
 
-Biological control options for *E. canadensis* are limited. Grass carp (*Ctenopharyngodon idella*) will consume the plant but are non-selective grazers that may damage desirable native vegetation. No host-specific herbivores have been developed for this species.
+[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] options for *E. canadensis* are limited. Grass carp (*Ctenopharyngodon idella*) will consume the plant but are non-selective grazers that may damage desirable native vegetation. No host-specific herbivores have been developed for this species.
 
 ## Reproductive Biology
 
-Sexual reproduction occurs through unisexual flowers that emerge at or above the water surface. In North American populations where both sexes occur, pollination is primarily hydrophilous, with pollen floating on the water surface to reach female flowers.
+[[fungal-life-cycles-sexual-reproduction-metamorphosis]] occurs through unisexual flowers that emerge at or above the water surface. In North American populations where both sexes occur, pollination is primarily hydrophilous, with pollen floating on the water surface to reach female flowers.
 
 Most European populations are clonal, consisting entirely of female plants. This reproductive bottleneck has not prevented the species from becoming widely established, demonstrating the effectiveness of vegetative propagation in aquatic environments.
 

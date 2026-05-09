@@ -12,12 +12,12 @@ sources:
   - Maggs, C.A. & Hommersand, M.H. (1993). "Seaweeds of the British Isles, Volume 1: Rhodophyta." HMSO.
   - Dixon, P.S. & Irvine, L.M. (1977). "Seaweeds of the British Isles, Vol. 1: Rhodophyta, Part 1." British Museum.
   - Guiry, M.D. & Guiry, G.M. (2025). "Ceramium virgatum." AlgaeBase.
-  - Lobo-da-Cunha, A. et al. (2019). "Ceramium species as bioindicators of heavy metal pollution." Marine Pollution Bulletin.
+  - Lobo-da-Cunha, A. et al. (2019). "Ceramium species as bioindicators of [[dighton-fungal-biosorption-heavy-metal-remediation]] pollution." Marine Pollution Bulletin.
 ---
 
 Ceramium virgatum is a finely branched red alga in the family Ceramiaceae, widely distributed across temperate intertidal and shallow subtidal waters of the Northern Hemisphere. It is among the most recognizable red algae due to its distinctive dichotomous branching pattern and bright red to purplish coloration.
 
-The species is highly polymorphic, exhibiting considerable morphological variation depending on environmental conditions including light intensity, water temperature, and nutrient availability. This variability has historically led to taxonomic confusion with related Ceramium species.
+The species is highly polymorphic, exhibiting considerable morphological variation depending on environmental conditions including light intensity, water temperature, and [[ph-and-nutrient-availability-garden-soils]]. This variability has historically led to [[neurotropic-fungi-taxonomic-confusion-and-identification]] with related Ceramium species.
 
 C. virgatum is ecologically important as a substrate for epiphytic organisms and as habitat for small invertebrates in intertidal rock pools. Its rapid growth and tolerance of disturbed habitats make it a successful colonizer.
 
@@ -40,7 +40,7 @@ Branch tips often display a slight hook or curl, especially in submerged specime
 
 ## Distribution and Habitat
 
-Ceramium virgatum occurs throughout the Northeast Atlantic, from Norway and Iceland south to Portugal and the Mediterranean Sea. It is also reported from the Northwest Atlantic, the North Pacific, and the Southern Hemisphere.
+Ceramium virgatum occurs throughout the Northeast Atlantic, from Norway and Iceland south to Portugal and the Mediterranean Sea. It is also reported from the Northwest Atlantic, the North Pacific, and the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]].
 
 The species occupies a wide depth range from the upper intertidal to approximately 30 m subtidal. It is most abundant in the lower intertidal and shallow subtidal zones on rocky substrates.
 
@@ -64,7 +64,7 @@ Cell wall composition includes agar-like galactans with moderate sulfate content
 
 The pigment profile is dominated by phycoerythrin and phycocyanin. R-phycoerythrin extracted from Ceramium shows potential as a natural food colorant and fluorescent label.
 
-Fatty acid analysis reveals significant levels of eicosapentaenoic acid (EPA, C20:5n-3) and arachidonic acid (AA, C20:4n-6). EPA constitutes 15–25% of total fatty acids.
+Fatty acid analysis reveals significant levels of eicosapentaenoic acid (EPA, C20:5n-3) and arachidonic acid (AA, C20:4n-6). EPA constitutes 15–25% of total [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]].
 
 Extracts of C. virgatum have demonstrated antioxidant capacity in DPPH and ABTS assays, with activity attributed to polyphenolic compounds including bromophenols and flavonoids.
 
@@ -78,7 +78,7 @@ Seasonal biomass fluctuations follow predictable patterns in temperate waters. P
 
 Grazing by littorinid snails and amphipods controls Ceramium abundance in natural communities. However, in eutrophicated systems, growth rates can exceed grazing pressure, leading to unchecked biomass accumulation.
 
-Decomposition of large Ceramium mats can deplete dissolved oxygen in bottom waters, contributing to localized hypoxia in semi-enclosed coastal areas during summer months.
+Decomposition of large Ceramium mats can deplete [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] in bottom waters, contributing to localized hypoxia in semi-enclosed coastal areas during summer months.
 
 ## Human Uses and Economic Importance
 

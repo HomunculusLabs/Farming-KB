@@ -1,5 +1,5 @@
 ---
-title: "Surfactant-Enhanced Bioavailability in Fungal Bioremediation"
+title: "Surfactant-Enhanced staycare surfactant enhanced bioavailability in fungal bioremediation Bioremediation"
 created: 2026-04-28
 tags: [bioremediation, surfactants, bioavailability, pah, soil-remediation]
 date: 2026-04-25
@@ -8,12 +8,12 @@ sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
 type: concept
 ---
 
-# Surfactant-Enhanced [[fungal-bioremediation]] of persistent organic pollutants (POPs) in
+# Surfactant-Enhanced fungal-bioremediation of persistent organic pollutants (POPs) in
 soil. Surfactants, both synthetic and microbially produced, can increase
 the aqueous solubility and accessibility of hydrophobic pollutants such
-as polycyclic aromatic hydrocarbons (PAHs) to fungal degradative
+as [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) to fungal degradative
 enzymes. The use of surfactants to enhance bioavailability represents an
-important strategy for improving fungal remediation outcomes.
+important strategy for improving [[cotter-pet-livestock-waste-fungal-remediation-systems]] outcomes.
 
 ## Bioavailability as a Limiting Factor
 
@@ -55,7 +55,7 @@ Non-ionic surfactants like Tween 80 increase the bioavailability of PAHs
 for Bjerkandera sp. strain BOS55. In experiments with this fungus,
 surfactant addition increased the solubility of PAHs and enhanced by up
 to fivefold the oxidation of anthracene, pyrene, and benzo[a]pyrene by
-ligninolytic enzymes. This dramatic enhancement demonstrates that
+[[singh-ligninolytic-enzymes-fungal-bioremediation]]. This dramatic enhancement demonstrates that
 bioavailability is a major factor controlling PAH transformation rates.
 
 Studies by Boyle, Wiesner, and Richardson (1998), Kotterman et al.
@@ -67,7 +67,7 @@ further development of surfactant-amended fungal remediation.
 ## Surfactant-Based Soil Washing
 
 An integrated approach using surfactant-based soil washing followed by
-fungal transformation of PAHs in the resulting surfactant/PAH mixture
+[[singh-fungal-transformation-metals-metalloids]] of PAHs in the resulting surfactant/PAH mixture
 has been proposed. This two-step process separates the pollutant from
 the soil matrix and concentrates it in a treatment solution where fungal
 enzymes can act more effectively, potentially achieving higher overall
@@ -89,7 +89,7 @@ accessibility.
 Manganese is another potential candidate for addition to soil to improve
 fungal remediation. It can stimulate fungal biotransformation of atrazine
 in liquid culture by increasing membrane permeability and stimulating
-manganese peroxidase activity. Normal soil solution concentrations of
+[[fungal-manganese-peroxidase-remediation]] activity. Normal soil solution concentrations of
 manganese vary between 0.1 micromol per liter in aerated alkaline soils
 to 400 micromol per liter in submerged soils. As fungi grow best in
 aerated soils with reduced manganese availability, manganese amendment
@@ -116,6 +116,10 @@ management, and appropriate soil amendments will enable more efficient
 soil colonization and subsequent POP transformation.
 
 ## See Also
+
+- [[staycare-lentinula-edodes-in-bioremediation]]
+
+- [[surfactant-enhanced-fungal-bioremediation]]
 
 - [[staycare-fungal-immobilization-and-entrapment-for-bioremediation]]
 - [[staycare-non-ligninolytic-fungi-in-pah-biodegradation]]

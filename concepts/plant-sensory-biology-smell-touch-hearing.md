@@ -1,9 +1,9 @@
 # Plant Sensory Biology: Smell, Touch and Hearing
 
 ## Overview
-Beyond light perception, plants possess sensory capabilities that would seem
+Beyond [[plant-vision-and-light-perception-mechanisms]], plants possess sensory capabilities that would seem
 remarkable if attributed to any organism lacking a nervous system. Plants can
-detect volatile chemical signals (analogous to smell), respond to mechanical
+detect volatile [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] (analogous to smell), respond to mechanical
 stimulation (analogous to touch), and may even perceive sound vibrations.
 Daniel Chamovitz's research, detailed in *What a Plant Knows*, reveals that
 these sensory modalities, while fundamentally different from animal senses in
@@ -13,7 +13,7 @@ environment.
 
 ## What a Plant Smells: Volatile Organic Compound Detection
 
-Plants are exquisitely sensitive to volatile organic compounds (VOCs) in their
+Plants are exquisitely sensitive to volatile [[fungal-volatile-organic-compounds-communication]] (VOCs) in their
 surrounding environment. When a plant is attacked by herbivores, it releases a
 characteristic blend of VOCs that serve multiple defensive functions.
 Neighboring plants of the same or different species can detect these airborne
@@ -37,7 +37,7 @@ Plants also use volatile signals to coordinate with beneficial organisms. When
 under attack by caterpillars, some plants release VOCs that attract parasitoid
 wasps, which then locate and attack the caterpillars. This tritrophic
 interaction — plant, herbivore, and natural enemy of the herbivore — is
-mediated entirely by chemical communication. The plant effectively "calls for
+mediated entirely by [[bloomfield-siren-songs-fungal-chemical-communication-reproduction-chapter-7]]. The plant effectively "calls for
 help" using volatile signals, requiring perception of both the initial
 herbivore damage (through mechanoreception and detection of herbivore-specific
 compounds in the oral secretions) and the subsequent emission of specific
@@ -59,7 +59,7 @@ shut in approximately 100 milliseconds when trigger hairs on the inner surface
 are touched twice within about 20 seconds. The two-trigger-hair requirement
 within a specific time window prevents false closures triggered by raindrops
 or wind-blown debris. This rapid response is mediated by changes in cell
-turgor pressure driven by rapid ion fluxes across cell membranes, not by
+[[bloomfield-turgor-pressure-and-hyphal-invasion]] driven by rapid ion fluxes across cell membranes, not by
 muscle-like contractile proteins — a fundamentally plant-specific mechanism.
 
 The sensitive plant (*Mimosa pudica*) exhibits thigmonasty — rapid leaf
@@ -108,7 +108,7 @@ research.
 Recognizing that plants possess sophisticated sensory capabilities challenges
 traditional assumptions about plant passivity. While plant senses operate
 through fundamentally different mechanisms than animal senses — involving
-chemical signaling, electrical impulses, calcium waves, and changes in gene
+[[plant-hormones-and-chemical-signaling-systems]], electrical impulses, calcium waves, and changes in gene
 expression rather than neurons and synapses — the functional outcomes are
 remarkably similar: plants gather information about their environment and use
 it to guide adaptive responses. Understanding plant sensory biology has
@@ -122,4 +122,7 @@ leveraging plants' innate sensory capabilities.
 
 ## See Also
 
-- [[plant-sensory-biology-and-intelligence]]
+- plant sensory biology smell touch hearing
+- [[mimosa-pudica]]
+- [[daniel-chamovitz]]
+- [[dionaea-muscipula]]

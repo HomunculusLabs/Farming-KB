@@ -1,5 +1,5 @@
 ---
-title: Autoclave and Retort Selection for Mushroom Cultivation
+title: Autoclave and Retort Selection for accessible-mushroom-cultivation-for-disabilities
 created: 2026-04-26
 tags: [sterilization, mushroom-cultivation, equipment, autoclave, spawn-production]
 date: 2026-04-25
@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 # Autoclave and Retort Selection for [[sterilization]] vessel is one [[bacteria-and-microorganisms-in-mushroom-fruiting]] cultivation. Home-style
-pressure cookers are ideal for sterilizing agar media and
+pressure cookers are ideal for sterilizing [[growing-gourmet-agar-media-formulas-preparation]] and
 small batches of grain, but they have insufficient capacity
 for the sterilization of bulk substrates needed for
 commercial production. For [[allegro-names-of-the-gods-and-their-fertility-origins]] pressure ratings have been
@@ -100,4 +100,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

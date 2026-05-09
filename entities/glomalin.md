@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-Glomalin is a glycoprotein produced by [[glomus-intraradices]]* (now *Rhizophagus irregularis*), from which it derives its name. It is now recognized as a major component of soil organic matter, contributing 27% or more of total soil carbon in some ecosystems.
+Glomalin is a glycoprotein produced by [[glomus-intraradices]]* (now *Rhizophagus irregularis*), from which it derives its name. It is now recognized as a major component of soil [[hamilton-composting-and-organic-matter-management]], contributing 27% or more of total soil carbon in some ecosystems.
 
 ## Chemical Properties
 
@@ -38,11 +38,11 @@ Glomalin functions as a biological glue that binds soil microaggregates (53–25
 3. Hydrophobic and adhesive properties promote particle binding
 4. The iron-containing structure provides additional cross-linking stability
 
-Soils with higher glomalin content exhibit improved water-stable aggregation, which translates to better infiltration, reduced erosion, and enhanced aeration. Glomalin-related soil protein (GRSP) concentrations correlate strongly with aggregate stability across diverse soil types.
+Soils with higher glomalin content exhibit improved water-stable aggregation, which translates to better infiltration, reduced erosion, and enhanced aeration. Glomalin-related soil protein (GRSP) concentrations correlate strongly with aggregate [[psilocybin-level-stability-across-flushes]] diverse soil types.
 
 ## Carbon Sequestration
 
-Global estimates suggest glomalin stores approximately 700 petagrams of carbon in soils worldwide — more than three times the carbon contained in all terrestrial vegetation. As a recalcitrant organic compound, glomalin represents one of the most stable forms of soil organic carbon. Management practices that promote AMF activity — reduced tillage, cover cropping, diverse rotations — can increase glomalin deposition and enhance soil carbon sequestration.
+Global estimates suggest glomalin stores approximately 700 petagrams of carbon in soils worldwide — more than three times the carbon contained in all terrestrial vegetation. As a recalcitrant [[plant-olfaction-volatile-organic-compound-signaling]], glomalin represents one of the most stable forms of soil [[dighton-fungal-dissolved-organic-carbon-production]]. Management practices that promote AMF activity — reduced tillage, cover cropping, diverse rotations — can increase glomalin deposition and enhance [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]].
 
 ## Agricultural Relevance
 
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -4,7 +4,8 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [fungi, biology, ecology, health, academia, plants, troubleshooting]
-sources: []
+sources:
+  sources: []
 ---
 
 # Fungal Parasites and Pathogens
@@ -18,7 +19,7 @@ Fungal parasitism spans the full spectrum of host organisms:
 - **Plants**: The largest group of fungal pathogens. Over 10,000 species of fungi cause plant diseases
 - **Humans**: ~300 species known to infect humans; a handful cause the majority of disease
 - **Insects**: Entomopathogenic fungi are natural insect regulators and emerging biocontrol agents
-- **Other fungi**: Mycoparasites (fungi that parasitize other fungi) are important in biological control
+- **Other fungi**: Mycoparasites (fungi that parasitize other fungi) are important in [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]
 - **Animals**: Amphibians, reptiles, fish, and mammals are all susceptible to fungal infections
 
 ## Plant Pathogenic Fungi
@@ -37,14 +38,14 @@ Fungal parasitism spans the full spectrum of host organisms:
 - Fusarium species: Cause wilts, rots, and head blight. Some produce mycotoxins (fumonisins, trichothecenes)
 
 **Hemibiotrophs**: Start as biotrophs, then switch to necrotrophic phase.
-- Magnaporthe oryzae (rice blast): Most important disease of rice worldwide. Infects through a specialized appressorium that generates enormous turgor pressure to penetrate the leaf cuticle
+- Magnaporthe oryzae (rice blast): Most important disease of rice worldwide. Infects through a specialized appressorium that generates enormous [[bloomfield-turgor-pressure-and-hyphal-invasion]] to penetrate the leaf cuticle
 - Phytophthora infestans (potato late blight): Oomycete. Caused the Irish Potato Famine (1845-1852). Still a major global threat to potato and tomato production
 - Colletotrichum species (anthracnose): Important fruit and foliar pathogen
 
 ### Impact on Agriculture
 
 - **Global crop losses**: Fungal pathogens destroy 20-30% of global crop production annually. Estimated losses: $200-300 billion per year
-- **Historical impact**: Irish Potato Famine (P. infestans), American chestnut blight (Cryphonectria parasitica — eliminated 3.5 billion chestnut trees from eastern North American forests), Dutch elm disease (Ophiostoma)
+- **Historical impact**: Irish Potato Famine (P. infestans), American chestnut blight (Cryphonectria parasitica — eliminated 3.5 billion chestnut trees from [[polypore-fungi-eastern-north-america]] American forests), Dutch elm disease (Ophiostoma)
 - **Emerging threats**: Wheat stem rust Ug99 (Puccinia graminis f. sp. tritici) threatens global wheat production. First identified in Uganda (1999), has spread across Africa and the Middle East
 - **Banana**: Panama disease (Fusarium oxysporum f. sp. cubense Tropical Race 4) threatens the Cavendish banana — the world's most consumed banana variety. No effective control; could cause a global banana supply crisis
 
@@ -61,21 +62,21 @@ Fungal parasitism spans the full spectrum of host organisms:
 ### Major Human Fungal Pathogens
 
 **Candida species**
-- Candida albicans: The most common human fungal pathogen. Part of normal microbiome (mouth, gut, vagina) but causes opportunistic infections when host defenses are compromised
+- [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]: The most common human fungal pathogen. Part of normal microbiome (mouth, gut, vagina) but causes opportunistic infections when host defenses are compromised
 - **Oral thrush**: White patches on tongue and oral mucosa. Common in infants, immunocompromised patients
 - **Vaginal candidiasis**: Affects ~75% of women. Second most common vaginal infection
 - **Invasive candidiasis**: Systemic infection with mortality 30-50%. Risk factors: chemotherapy, organ transplant, broad-spectrum antibiotics, central venous catheters
 - C. glabrata, C. krusei, C. auris: Emerging species with antifungal resistance. C. auris (identified 2009) is a global health threat — often multidrug-resistant, survives on surfaces, causes outbreaks in hospitals
 
 **Aspergillus species**
-- Aspergillus fumigatus: The most common cause of aspergillosis. Ubiquitous in soil and decaying organic matter. Spores are tiny (2-3 micrometers) and airborne — humans inhale hundreds daily
+- [[gadd-aspergillus-fumigatus-glucan-virulence]]: The most common cause of aspergillosis. Ubiquitous in soil and decaying organic matter. Spores are tiny (2-3 micrometers) and airborne — humans inhale hundreds daily
 - **Allergic bronchopulmonary aspergillosis (ABPA)**: Allergic reaction to Aspergillus in the lungs. Affects asthma and cystic fibrosis patients
 - **Chronic pulmonary aspergillosis**: Slowly progressive lung infection in people with pre-existing lung disease
 - **Invasive aspergillosis**: Life-threatening infection in immunocompromised patients (especially neutropenic). Mortality 50-90%. Infects lungs, can disseminate to brain and other organs
 - A. flavus: Produces aflatoxins (potent carcinogens) on stored grains and nuts. Major cause of liver cancer in developing countries
 - A. niger: Industrial workhorse (citric acid production) but can cause lung infection (aspergilloma)
 
-**Cryptococcus neoformans / C. gattii**
+**[[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]] / C. gattii**
 - Environmental yeast found in soil and pigeon droppings (C. neoformans) or eucalyptus trees (C. gattii)
 - **Cryptococcal meningitis**: Most common cause of adult meningitis in sub-Saharan Africa. ~220,000 cases/year, ~180,000 deaths
 - Polysaccharide capsule inhibits phagocytosis. Can cross the blood-brain barrier
@@ -135,41 +136,6 @@ Fungi that infect and kill insects are critical natural regulators of insect pop
 
 **Cordyceps / Ophiocordyceps**
 - Famous "zombie ant" fungi (Ophiocordyceps unilateralis) manipulate ant behavior — infected ants climb to elevated positions and clamp onto vegetation before dying, optimizing spore dispersal
-- Cordyceps militaris and C. sinensis: Medicinal fungi with immunomodulatory properties
-- Cordycepin (3'-deoxyadenosine) from Cordyceps has antitumor and antiviral activity
-- See [[fungal-pest-control]] for agricultural applications
-
-### Mechanism of Infection
-
-1. **Attachment**: Spores adhere to insect cuticle using hydrophobins and adhesins
-2. **Germination**: Spore germinates when conditions are favorable (humidity, temperature)
-3. **Penetration**: Germ tube produces appressorium. Enzymes (proteases, chitinases, lipases) and mechanical pressure breach the cuticle
-4. **Invasion**: Hyphae proliferate in the hemocoel, producing blastospores (yeast-like cells) that circulate in hemolymph
-5. **Death**: Toxins (destruxins in Metarhizium, beauvericin in Beauveria) and nutrient depletion kill the host
-6. **Sporulation**: Under appropriate conditions, fungus emerges from the cadaver and produces conidia for dispersal
-
-## Mycoparasites (Fungi That Parasitize Fungi)
-
-### Trichoderma Species
-
-- Aggressive mycoparasites that attack other fungi
-- Mechanisms: Enzymatic degradation of competitor cell walls (chitinases, glucanases), antibiotic production, competition for nutrients and space
-- **Biocontrol agents**: T. harzianum and T. viride are widely used commercial biocontrol products against plant pathogenic fungi (Rhizoctonia, Fusarium, Pythium)
-- Also promote plant growth through root colonization and induced systemic resistance
-
-### Other Mycoparasites
-
-- **Ampelomyces quisqualis**: Parasitizes powdery mildew fungi. Commercial biocontrol agent
-- **Sporidesmium sclerotivorum**: Parasitizes Sclerotinia sclerotiorum. Attacks the overwintering sclerotia
-- **Pythium oligandrum**: Mycoparasitic oomycete used as a biocontrol agent against Pythium and Phytophthora species
-
-## Ecological Significance
-
-- **Population control**: Fungal pathogens regulate populations of plants, insects, and other organisms in natural ecosystems
-- **Biodiversity**: By preventing any single species from dominating, fungal pathogens maintain species diversity (Janzen-Connell hypothesis in tropical forests)
-- **Nutrient cycling**: By killing organisms and decomposing their remains, fungal parasites accelerate nutrient turnover
-- **Evolutionary pressure**: Host-pathogen coevolution drives genetic diversity in both fungi and their hosts
-
 ## See Also
 
 - [[fungal-ecology]] for fungi in ecological systems

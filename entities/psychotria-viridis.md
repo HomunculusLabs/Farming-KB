@@ -22,7 +22,7 @@ sources:
 
 - **Family:** Rubiaceae (the coffee family — the fourth largest family of flowering plants, with approximately 620 genera and 13,000 species)
 - **Genus:** Psychotria (one of the largest genera of flowering plants, with over 1,500 species distributed throughout tropical and subtropical regions worldwide)
-- **Distribution:** Lowland tropical rainforests from Colombia and Ecuador through Peru and Bolivia to Brazil. Also found in Central America and parts of the Caribbean. Altitudinal range from sea level to approximately 1,500 m.
+- **Distribution:** Lowland tropical rainforests from Colombia and Ecuador through Peru and Bolivia to Brazil. Also found in [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and parts of the Caribbean. Altitudinal range from sea level to approximately 1,500 m.
 - **Common names:** Chacruna (Peru, Ecuador), Chacrona (Brazil), Amiruca panga (Shipibo), Chacruna negra (some Amazonian groups, referring to darker-leafed varieties), Rami (Asháninka), Lady of the Night (English, rarely used).
 
 Taxonomic uncertainty persists within the P. viridis complex. Some botanists recognize multiple varieties or closely related species that are used interchangeably in ayahuasca preparations, including P. carthaginensis (found from Mexico to Bolivia, also containing DMT) and P. nepalensis (sometimes used as an adulterant or substitute in Brazil). Molecular phylogenetic studies suggest that the Psychotria species used in ayahuasca preparations form a natural group, though formal taxonomic revision is still needed.
@@ -59,7 +59,7 @@ P. viridis is one of the two most commonly used DMT admixture plants in ayahuasc
 - The ratio of chacruna to caapi varies widely between traditions and practitioners, producing brews of different potency and subjective character. More chacruna generally produces stronger visual effects, while more caapi produces a deeper, more "bodily" experience.
 - In some regions, the specific leaves used are selected based on the desired therapeutic or spiritual outcome—different leaf sizes, positions on the plant, or harvest times are believed to produce different effects.
 
-In Brazilian ayahuasca traditions (Santo Daime, UDV, Barquinha), P. viridis is typically the preferred DMT source, though P. carthaginensis is sometimes used as a substitute. In Colombian Amazonian traditions, *Diplopterys cabrerana* (chagropanga) is more commonly used than P. viridis.
+In [[metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism]] traditions ([[metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha]], UDV, Barquinha), P. viridis is typically the preferred DMT source, though P. carthaginensis is sometimes used as a substitute. In Colombian Amazonian traditions, *Diplopterys cabrerana* (chagropanga) is more commonly used than P. viridis.
 
 ## Cultivation
 
@@ -68,13 +68,15 @@ P. viridis is cultivated both within its native range and internationally by aya
 - **Softwood or semi-hardwood cuttings** (most common and reliable method; rooting hormone improves success rates; cuttings typically root in 4–8 weeks under humid conditions with bottom heat)
 - **Seed** (less commonly used; seeds have variable germination rates and require fresh, viable seed; germination may take 4–12 weeks)
 
-The plant prefers warm (20–30°C), humid (60–90% relative humidity), shaded conditions similar to its native understory habitat. It is sensitive to frost, direct intense sun, and drought. Soil should be well-draining, slightly acidic (pH 5.5–6.5), and rich in organic matter. In non-tropical climates it is grown in greenhouses or indoors under grow lights with high humidity enclosures. Pests include spider mites, scale insects, and mealybugs, particularly when grown indoors.
+The plant prefers warm (20–30°C), humid (60–90% relative humidity), shaded conditions similar to its native understory habitat. It is sensitive to frost, direct intense sun, and drought. Soil should be well-draining, slightly acidic (pH 5.5–6.5), and rich in [[hamilton-composting-and-organic-matter-management]]. In non-tropical climates it is grown in greenhouses or indoors under grow lights with high humidity enclosures. Pests include [[cervantes-spider-mites-identification-control]], scale insects, and mealybugs, particularly when grown indoors.
 
 ## Modern Context
 
-P. viridis has become a globally traded botanical due to the spread of ayahuasca ceremonies. DMT is a Schedule I controlled substance in many countries, which creates legal complexity around the plant despite it being relatively easy to cultivate. Research into ayahuasca's therapeutic potential (depression, addiction, PTSD) necessarily involves P. viridis as the DMT source in traditional preparations. The species has also attracted broader phytochemical interest in the Psychotria genus, which contains numerous species producing bioactive alkaloids, including compounds with antimicrobial, antiviral, and anticancer properties.
+P. viridis has become a globally traded botanical due to the spread of [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]. DMT is a Schedule I controlled substance in many countries, which creates legal complexity around the plant despite it being relatively easy to cultivate. Research into ayahuasca's therapeutic potential (depression, addiction, PTSD) necessarily involves P. viridis as the DMT source in traditional preparations. The species has also attracted broader phytochemical interest in the Psychotria genus, which contains numerous species producing bioactive alkaloids, including compounds with antimicrobial, antiviral, and anticancer properties.
 
 ## See Also
+
+- [[ayahuasca-pharmacology-maoi-interactions]]
 
 - [[banisteriopsis-caapi]]
 - [[dimethyltryptamine]]

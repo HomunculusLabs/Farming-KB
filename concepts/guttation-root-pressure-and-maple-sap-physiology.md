@@ -1,5 +1,5 @@
 ---
-title: Guttation Root Pressure and Maple Sap Physiology
+title: Guttation guttation root pressure and maple sap physiology and Maple Sap Physiology
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -22,9 +22,9 @@ Root pressure can push sap several meters up the plant, but this is the practica
 ### When Root Pressure Dominates
 
 - At night when stomata are closed and transpiration stops
-- In early spring before leaves emerge (no transpiration possible)
+- In [[coleman-overwintered-onions-and-early-spring-crops]] before leaves emerge (no transpiration possible)
 - In high-humidity environments where evaporation is minimal
-- In newly planted seedlings with limited leaf surface area
+- In newly planted seedlings with limited [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] area
 
 ## Guttation
 

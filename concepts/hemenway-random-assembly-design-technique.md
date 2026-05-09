@@ -1,5 +1,5 @@
 ---
-title: Random Assembly Design Technique
+title: hemenway random assembly design technique Design Technique
 created: 2026-04-26
 tags: [design, creativity, permaculture, planning, layout]
 date: 2026-04-25
@@ -21,8 +21,8 @@ articulated, but before the final layout is determined.
 ## The Problem It Solves
 
 Garden designers often get stuck in conventional thinking
-patterns. We place the greenhouse here, the compost pile there,
-the fruit tree over there, without considering the hundreds of
+patterns. We place the greenhouse here, the [[mushroom-cultivator-compost-pile-management]] there,
+the [[comparison-berry-growing-vs-fruit-tree-pruning]] over there, without considering the hundreds of
 possible relationships between elements. Random assembly forces
 the designer to think in terms of connections rather than
 isolated placements, often yielding surprising and innovative
@@ -74,7 +74,7 @@ that conventional thinking would never reach.
 Random assembly works because it suspends judgment and forces
 the brain to process unusual combinations. Most garden designs
 are constrained by habit: we put the compost pile in the back
-corner, the vegetable garden in full sun, the herbs near the
+corner, the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] in full sun, the herbs near the
 kitchen door. These conventions exist for good reasons, but
 they also prevent us from seeing unconventional solutions that
 might be equally or more effective.
@@ -83,16 +83,16 @@ The technique also embodies the permaculture principle of
 integrating rather than segregating. When we think about
 elements in isolation, we place them in separate locations. But
 when we think about how elements relate to each other, we begin
-to see opportunities for [[hemenway-zone-and-sector-planning]] to identify general placement zones.
+to see opportunities for hemenway-zone-and-sector-planning to identify general placement zones.
 - Then use random assembly to discover specific relationships
   between nearby elements.
-- Use a [[hemenway-guild-design-roles-and-assembly]], randomly combining plant species with
+- Use a hemenway-guild-design-roles-and-assembly, randomly combining plant species with
 functional roles to discover novel plant combinations. The same
 principle applies: by forcing unusual pairings, we discover
 synergies that conventional plant selection would miss.
 
 ## See Also
 
-- [[hemenway-zone-and-sector-planning]]
+- hemenway-zone-and-sector-planning
 - [[gaias-garden-many-gardens-garden-design-process]]
 - [[gaias-garden-stacking-functions-detailed]]

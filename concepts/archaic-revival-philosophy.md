@@ -1,5 +1,5 @@
 ---
-title: Archaic Revival Philosophy
+title: mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained Philosophy
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -33,7 +33,7 @@ McKenna's historical analysis divides human social organization into two fundame
 
 ## The Great Transition
 
-McKenna identifies several historical moments when partnership society was displaced by dominator society:
+McKenna identifies several historical moments when [[mckenna-dominator-vs-partnership-society-model]] was displaced by dominator society:
 
 - **Catal Huyuk** (c. 6500 BCE): Destroyed by fire, marking "the end of the age of undefended cities, the age of partnership"
 - **Minoan Crete** (c. 1450 BCE): Destroyed by the Theran eruption and Mycenaean invasion
@@ -42,7 +42,7 @@ McKenna identifies several historical moments when partnership society was displ
 
 ## The Abandonment of the Mystery
 
-Central to the Archaic Revival thesis is McKenna's argument that the original partnership societies were catalyzed and maintained by psychedelic mushroom use. The progressive loss of mushroom use (due to climate change, migration, and cultural suppression) led through four stages of abandonment:
+Central to the Archaic Revival thesis is McKenna's argument that the original partnership societies were catalyzed and maintained by [[archaeology-of-psychedelic-mushroom-use]] use. The progressive loss of mushroom use (due to [[dighton-fungi-climate-change-feedback]], migration, and cultural suppression) led through four stages of abandonment:
 
 1. Substitution with other psychoactive plants
 2. Symbolic replacement with inactive materials
@@ -55,7 +55,7 @@ Western civilization, in this analysis, represents the terminal stage of this pr
 
 McKenna identifies several contemporary phenomena as evidence that the Archaic Revival is already underway:
 
-- The widespread use of cannabis and psychedelic compounds despite legal prohibition: "Everything about cannabis that makes it inimical to contemporary bourgeois values endears it to the Archaic Revival. It diminishes the power of ego, has a mitigating effect on competitiveness, causes one to question authority, and reinforces the notion of the merely relative importance of social values."
+- The widespread use of cannabis and psychedelic compounds despite [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]]: "Everything about cannabis that makes it inimical to contemporary bourgeois values endears it to the Archaic Revival. It diminishes the power of ego, has a mitigating effect on competitiveness, causes one to question authority, and reinforces the notion of the merely relative importance of social values."
 - The counterculture of the 1960s as the most visible manifestation of the Archaic Revival impulse
 - The revival of shamanic practices, nature spirituality, and goddess worship
 - The environmental movement as an expression of partnership values
@@ -70,7 +70,7 @@ Psychedelics are central to the Archaic Revival because they are the most direct
 - They generate the sense of the sacred that is absent from secular scientism
 - They catalyze language, creativity, and cognitive flexibility
 
-McKenna argues that the suppression of psychedelic research "is an obvious case" of the fourth stage of abandonment: "the rediscovery of the mystery and its interpretation as evil and threatening to social values."
+McKenna argues that the suppression of [[mckenna-suppression-psychedelic-research-lsd-therapy]] "is an obvious case" of the fourth stage of abandonment: "the rediscovery of the mystery and its interpretation as evil and threatening to social values."
 
 ## The Gaia Hypothesis Connection
 
@@ -79,5 +79,5 @@ The Archaic Revival connects to James Lovelock's Gaia hypothesis (the Earth as a
 ## See Also
 
 - [[mckenna-transcendent-other-and-exopheromones]]
-- [[mushroom-symbolism-rock-art-ancient-imagery]]
-- [[psychedelic-use-in-ancient-greece]] - [[mushroom-symbolism-in-ancient-cultures]] - [[psychedelic-use-in-ancient-greece]] - [[mckenna-minoan-crete-mushroom-religion]]
+- mushroom-symbolism-rock-art-ancient-imagery
+- [[psychedelic-use-in-ancient-greece]] - mushroom-symbolism-in-ancient-cultures - [[psychedelic-use-in-ancient-greece]] - [[mckenna-minoan-crete-mushroom-religion]]

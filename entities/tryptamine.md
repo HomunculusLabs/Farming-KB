@@ -28,13 +28,13 @@ The indole ring system is planar and aromatic, contributing to the molecule's ab
 
 ## Biosynthesis
 
-In living organisms, tryptamine is produced through a straightforward enzymatic pathway:
+In [[savory-living-organisms-as-tools]], tryptamine is produced through a straightforward enzymatic pathway:
 
 1. **Tryptophan uptake**: The essential amino acid tryptophan is obtained from dietary sources (in animals) or synthesized de novo via the shikimate pathway (in plants and microorganisms)
 2. **Decarboxylation**: The enzyme aromatic L-amino acid decarboxylase (also called DOPA decarboxylase) catalyzes the removal of the carboxyl group from tryptophan's alpha-carbon
 3. **Tryptamine formation**: The product is tryptamine, with the release of carbon dioxide
 
-In mammals, this pathway operates primarily in the brain and peripheral tissues, producing tryptamine as a trace monoamine neurotransmitter alongside its more abundant derivative serotonin (5-hydroxytryptamine). In fungi and plants, tryptamine serves as a central precursor to a wide variety of secondary metabolites.
+In mammals, this pathway operates primarily in the brain and peripheral tissues, producing tryptamine as a trace monoamine neurotransmitter alongside its more abundant derivative serotonin (5-hydroxytryptamine). In fungi and plants, tryptamine serves as a central precursor to a wide variety of [[antifungal-secondary-metabolites-coprophilous-fungi]].
 
 ## Biological Roles
 
@@ -46,13 +46,13 @@ Endogenous tryptamine is metabolized extremely rapidly by monoamine oxidase A (M
 
 ### Fungal Secondary Metabolism
 
-In psilocybin mushrooms such as [[psilocybe-cubensis]], and [[psilocybe-azurescens]] can exceed 2% of the mushroom's dry weight.
+In [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] such as [[psilocybe-cubensis]], and [[psilocybe-azurescens]] can exceed 2% of the mushroom's dry weight.
 
 ### Plant Secondary Metabolism
 
 In plants, tryptamine is a precursor to numerous important indole alkaloids through a pathway that begins with the strictosidine synthase reaction. Notable examples include:
 
-- **Harmala alkaloids**: harmine, harmaline, and tetrahydroharmine found in [[peganum-harmala]] (Syrian rue), which act as MAO inhibitors
+- **[[turner-harmala-alkaloids-preparation-and-dosage]]**: harmine, harmaline, and tetrahydroharmine found in [[peganum-harmala]] (Syrian rue), which act as MAO inhibitors
 - **Ergot alkaloids**: produced by [[anadenanthera-peregrina]] (yopo) seeds and bufo alvarius (Colorado River toad) venom
 - **Bufotenin** (5-hydroxy-DMT): found in toad venoms and some mushrooms; less commonly psychoactive in humans due to poor blood-brain barrier penetration
 
@@ -70,10 +70,14 @@ In plants, tryptamine is a precursor to numerous important indole alkaloids thro
 
 ## Pharmacology
 
-Tryptamine derivatives generally exert their primary effects through interactions with serotonin (5-HT) receptors in the central nervous system. The psychedelic tryptamines are primarily 5-HT2A receptor agonists, which leads to profound alterations in perception, cognition, mood, and sense of self. The specific receptor activation profile, including affinity for 5-HT1A, 5-HT2C, and other subtypes, determines the qualitative character and intensity of effects.
+Tryptamine derivatives generally exert their primary effects through interactions with serotonin (5-HT) receptors in the central nervous system. The psychedelic tryptamines are primarily 5-HT2A [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]], which leads to profound alterations in perception, cognition, mood, and sense of self. The specific receptor activation profile, including affinity for 5-HT1A, 5-HT2C, and other subtypes, determines the qualitative character and intensity of effects.
 
-Substitutions at the 4-position (hydroxylation), 5-position (methoxylation), and on the amine nitrogen (N-methylation) are the most common modifications that alter pharmacological properties. These modifications affect receptor binding affinity, metabolic stability, blood-brain barrier permeability, and duration of action. See also [[mycelium]] for the fungal growth phase during which tryptamine alkaloid biosynthesis occurs.
+Substitutions at the 4-position (hydroxylation), 5-position (methoxylation), and on the amine nitrogen (N-methylation) are the most common modifications that alter pharmacological properties. These modifications affect [[tihkal-receptor-binding-serotonin]] affinity, metabolic stability, blood-brain barrier permeability, and duration of action. See also [[mycelium]] for the fungal growth phase during which tryptamine alkaloid biosynthesis occurs.
 
 ## See Also
+
+- [[7-hydroxymitragynine]]
+
+- [[ehrlich-reagent-tryptamine-detection-tlc-mycology]]
 
 - [[yuremamine]]

@@ -1,5 +1,5 @@
 ---
-title: Bacterial Endophyte Isolation and Detection in Plant Roots
+title: Bacterial bacterial endophyte isolation detection plant roots and Detection in Plant Roots
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -11,7 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-
 
 ## Overview
 
-Endophytic bacteria live inside plant tissue without causing substantive harm to the host. They may benefit the host through competition for habitat (antibiotic production), induction of plant defense mechanisms, production of plant growth stimulators, and improving soil quality. Endophytes represent an abundant source of biologically important and chemically novel bioactive compounds with pharmaceutical and agricultural potential.
+Endophytic bacteria live inside plant tissue without causing substantive harm to the host. They may benefit the host through competition for habitat (antibiotic production), induction of plant defense mechanisms, production of plant growth stimulators, and improving soil quality. Endophytes represent an abundant source of biologically important and chemically novel [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with pharmaceutical and agricultural potential.
 
 ## Plant Material Selection
 
@@ -29,7 +29,7 @@ Always select healthy, disease-free plant material to avoid isolating localized 
 ### Pre-Washing
 Thorough pre-washing removes adhering soil particles and dust to reduce surface flora load:
 - Vigorous washing with tap water, distilled water, or dilute saline buffers (pH 7.2)
-- Sonication may be used to dislodge soil and organic matter before sterilization
+- Sonication may be used to dislodge soil and [[hamilton-composting-and-organic-matter-management]] before sterilization
 - Root tissue should be freshly collected and processed immediately
 
 ### Sterilization Agents
@@ -37,7 +37,7 @@ Common surface-sterilizing chemicals:
 - Sodium hypochlorite
 - Mercuric chloride
 - Ethanol (70%)
-- Hydrogen peroxide
+- [[cervantes-hydrogen-peroxide-sterilization]]
 - Chloramine T
 - Propylene oxide vapor (less common)
 - Formaldehyde (less common)
@@ -53,7 +53,7 @@ Alternative: ethanol followed by mercuric chloride followed by ethanol. Concentr
 
 ## Vital Staining Detection (TTC Method)
 
-The tetrazolium dye method (Patriquin and Dobereiner 1978) demonstrates bacteria inside plant tissue by detecting metabolic activity:
+The tetrazolium dye method (Patriquin and Dobereiner 1978) demonstrates bacteria inside plant tissue by detecting [[arbuscule-isolation-metabolic-activity-assays]]:
 
 ### Principle
 Bacteria inside surface-sterilized root tissue utilize malic acid as carbon source and reduce 2,3,5-triphenyl tetrazolium chloride (TTC) to form water-insoluble red-colored formazans. Actively respiring (viable) bacterial cells deposit formazans as discrete dark red to purple granules visible by light microscopy.
@@ -85,7 +85,7 @@ Understanding endophytic bacterial flora opens new biotechnological opportunitie
 - Plant growth-promoting microorganisms
 - Sources of novel bioactive compounds (antibiotics, anticancer agents)
 - Improved understanding of plant-microbe interactions
-- Integration with mycorrhizal symbiosis for comprehensive plant health management
+- Integration with [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] for comprehensive plant health management
 
 ## Related Topics
 
@@ -93,3 +93,7 @@ Understanding endophytic bacterial flora opens new biotechnological opportunitie
 - [[endophytic-fungi-plant-interactions]]
 - [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]
 - [[bacterial-endophytes-plant-roots]]
+
+## See Also
+
+- [[parasitic-plant-host-detection-volatile-sensing]]

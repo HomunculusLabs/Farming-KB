@@ -14,14 +14,14 @@ sources:
   - Hammer, S. (2001). "Cladonia." In: Nash III, T.H. et al., "Lichen Flora of the Greater Sonoran Desert Region," Vol. 1, pp. 141–159.
   - Purvis, O.W. et al. (1992). "The Lichen Flora of Great Britain and Ireland." London: Natural History Museum.
   - Ahti, T. & Hammer, S. (2002). "Cladonia." In: Nash III, T.H. et al., "Lichen Flora of the Greater Sonoran Desert Region," Vol. 2, pp. 531–546.
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). "Lichens of [[psilocybin-north-america-pacific-northwest]]." Yale University Press.
 ---
 
 ## Overview
 
 Cladonia uncialis is a fruticose lichen in the family Cladoniaceae, recognised by its distinctive cup-shaped podetia and powdery sorediate surface.
 
-It forms extensive mats in boreal and subarctic regions, where it plays an important ecological role as a ground cover species and caribou forage.
+It forms extensive mats in boreal and subarctic regions, where it plays an important ecological role as a [[fukuoka-citrus-orchard-ground-cover-cultivation]] species and caribou forage.
 
 The species is widely distributed across the Northern Hemisphere and is one of the more chemically variable members of the genus Cladonia.
 
@@ -59,7 +59,7 @@ Cladonia uncialis has a circumpolar boreal and subarctic distribution, occurring
 
 In Europe, it ranges from the Arctic tundra south through the boreal zone into montane regions of central and southern Europe.
 
-In North America, it is widespread across Canada and Alaska, extending into the northern tier of the United States and mountainous areas further south.
+In North America, it is widespread across Canada and Alaska, extending into the northern tier of the [[dmt-containing-plants-united-states-halpern]] and mountainous areas further south.
 
 The species grows on well-drained, acidic soils in open coniferous forests, heathlands, tundra, and rocky outcrops.
 
@@ -79,7 +79,7 @@ As a component of caribou and reindeer winter diet, C. uncialis provides essenti
 
 The species is moderately slow-growing, with podetial elongation rates of approximately 2–5 mm per year.
 
-Nitrogen deposition can alter competitive dynamics, favouring vascular plants over lichen mats and potentially reducing C. uncialis abundance over time.
+[[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] can alter competitive dynamics, favouring vascular plants over lichen mats and potentially reducing C. uncialis abundance over time.
 
 Fire is a major disturbance factor; while C. uncialis can survive low-intensity ground fires, severe burns destroy the thallus and require decades for recovery.
 
@@ -91,7 +91,7 @@ The species serves as a microhabitat for various tardigrades, nematodes, and mic
 
 Cladonia uncialis has been used as a minor component of traditional reindeer fodder in northern Scandinavian cultures.
 
-The species has no significant history of medicinal use, though related Cladonia species with similar chemistry have been investigated for bioactive compounds.
+The species has no significant history of medicinal use, though related Cladonia species with similar chemistry have been investigated for [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
 
 No modern commercial or pharmaceutical applications have been developed specifically for C. uncialis.
 

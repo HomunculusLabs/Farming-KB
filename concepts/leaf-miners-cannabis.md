@@ -1,9 +1,9 @@
 ---
-title: Leaf Miners - Cannabis Pest Guide
+title: Leaf Miners - query-how-to-use-neem-oil-for-cannabis-pest-control Guide
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -11,7 +11,7 @@ tags: [cannabis]
 
 # Leaf Miners on Cannabis
 
-Leaf miners are the larval stage of small flies that burrow between leaf surfaces, creating distinctive tunnel patterns. They are more common in greenhouses and outdoor gardens than in indoor grow rooms, but can cause significant damage if left unchecked. While leaf miners cause relatively few problems to indoor cannabis crops compared to other pests, their tunneling damage reduces photosynthetic capacity and creates entry points for disease organisms.
+Leaf miners are the larval stage of small flies that burrow between leaf surfaces, creating distinctive tunnel patterns. They are more common in greenhouses and outdoor gardens than in indoor grow rooms, but can cause significant damage if left unchecked. While leaf miners cause relatively few problems to [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]] crops compared to other pests, their tunneling damage reduces photosynthetic capacity and creates entry points for disease organisms.
 
 ## Identification
 
@@ -32,7 +32,7 @@ Leaf miners have a complete metamorphosis with four life stages:
 - **Pupa**: Mature larvae exit the leaf tunnel and drop to the soil to pupate
 - **Adult**: Small flies emerge from pupae, mate, and lay eggs on new foliage to begin the cycle again
 - The complete life cycle takes approximately 2-4 weeks depending on temperature
-- Multiple generations can occur during a growing season
+- Multiple generations can occur during a [[savory-growing-season-and-non-growing-season-management]]
 - Warmer temperatures accelerate development and increase the number of generations per season
 
 ## Damage Symptoms
@@ -41,7 +41,7 @@ Leaf miners have a complete metamorphosis with four life stages:
 - **Young growth targeted**: Damage usually occurs on young, supple growth where tissue is easier to penetrate
 - **Growth reduction**: Plant growth slows as photosynthetic area is destroyed by tunneling
 - **Flowering delays**: Flowering is prolonged and buds remain small due to reduced photosynthesis
-- **Disease entry**: Wound damage encourages secondary disease infection; open tunnels provide entry points for fungal pathogens
+- **Disease entry**: Wound damage encourages secondary disease infection; open tunnels provide entry points for [[bloomfield-fungal-pathogens-and-parasites]]
 - **Rarely fatal**: Unless left unchecked for extended periods, leaf miners seldom kill plants outright
 - **Reduced yield**: The cumulative effect of reduced photosynthesis across many leaves can lower final harvest weight
 
@@ -83,7 +83,7 @@ Parasitic wasps lay eggs inside or on leaf miner larvae. The wasp larvae then co
 
 ## Impact Assessment
 
-Leaf miners cause relatively few problems to indoor cannabis crops compared to other pests like [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]] and bacterial infections
+Leaf miners cause relatively few problems to indoor cannabis crops compared to other pests like [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]] and [[cannabis-for-bacterial-infections-and-mrsa]]
 - Slow overall plant development and delay maturation
 - Prolong flowering time, potentially reducing yield
 - Affect plant aesthetics and harvest quality in severe cases
@@ -125,7 +125,7 @@ The key advantage in leaf miner management is that the protected nature of larva
 - Remove and destroy infested foliage promptly to break the life cycle
 - Keep the grow area clean and free of plant debris where pupae might develop
 - In outdoor gardens, remove weeds that could serve as alternate hosts for leaf miners
-- Ensure good air circulation and overall plant health to minimize susceptibility
+- Ensure good [[stamets-growing-room-air-circulation-co2-management]] and overall plant health to minimize susceptibility
 - Check plants regularly, paying special attention to young growth where eggs are typically laid
 
 ## See Also

@@ -1,5 +1,5 @@
 ---
-title: Selfing and Single Seed Descent
+title: Selfing and cervantes selfing single seed descent Descent
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -82,7 +83,7 @@ parents. Both methods increase homozygosity, but selfing does so faster.
 In cross-pollinated species like cannabis, selfing can reveal
 deleterious recessive alleles that remain hidden in out-crossed
 populations. This makes selfing useful for identifying and eliminating
-unwanted recessive traits, but it also means inbreeding depression can
+unwanted [[cervantes-dominance-recessive-traits-alleles]], but it also means [[cervantes-hybrid-vigor-inbreeding-depression]] can
 appear rapidly.
 
 ## Practical Considerations

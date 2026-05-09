@@ -1,5 +1,5 @@
 ---
-title: Root Cellaring and No-Energy Food Storage
+title: comparison-root-cellaring-guide-vs-canning-and-preserving and No-Energy Food Storage
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -16,7 +16,7 @@ Root cellaring is the practice of storing food without processing or energy inpu
 
 ## Live Storage Principles
 
-Many foods can be stored "live" -- without any processing -- in properly maintained cold storage. Suitable crops include pumpkins, potatoes, dry beans and peas, onions, parsnips, turnips, apples, oranges, pears, tomatoes, and most root vegetables. Success depends on:
+Many foods can be stored "live" -- without any processing -- in properly maintained cold storage. Suitable crops include pumpkins, potatoes, dry [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]], onions, parsnips, turnips, apples, oranges, pears, tomatoes, and most [[growing-root-vegetables-guide]]. Success depends on:
 - Selecting species bred for preserving
 - Harvesting at the right time
 - Using only unbruised, unblemished specimens
@@ -28,7 +28,7 @@ Fruits must be stored away from vegetables because ethylene gas from apples caus
 
 ## Temperature and Humidity Management
 
-The target temperature is 32 degrees F (0 degrees C). Monitor with thermometers both inside and outside the cellar daily. Use doors and windows to regulate temperature: open the door in cold weather, close in very cold or hot weather. Alternatively, install a fan attached to a thermostat, similar to greenhouse ventilation. Maintain humidity at 60-75% using pans of water, sprinkling the floor, or covering the floor with damp sawdust. If too damp, move pumpkins, squash, and onions to a drier area to prevent rotting. Remove all spoiled food immediately -- rotting items must be discarded, and any about to spoil should be dried quickly.
+The target temperature is 32 degrees F (0 degrees C). Monitor with thermometers both inside and outside the cellar daily. Use doors and windows to regulate temperature: open the door in cold weather, close in very cold or hot weather. Alternatively, install a fan attached to a thermostat, similar to [[coleman-greenhouse-ventilation-design]]. Maintain humidity at 60-75% using pans of water, sprinkling the floor, or covering the floor with damp sawdust. If too damp, move pumpkins, squash, and onions to a drier area to prevent rotting. Remove all spoiled food immediately -- rotting items must be discarded, and any about to spoil should be dried quickly.
 
 ## Storage Duration and Methods by Food
 
@@ -65,17 +65,19 @@ For those without a cellar, a clamp is an ancient storage device between a cella
 Some root vegetables can simply be left in the ground through winter, protected from frost. This is done in October or November before the first frost. Protection methods vary by vegetable:
 - Brussels sprouts: cover well with dry straw and plastic sheet
 - Carrots, radishes, leeks: cover with straw and plastic
-- Parsnip, Jerusalem artichoke, salsify: leave in ground, cover with straw
+- Parsnip, [[comparison-jerusalem-artichoke-vs-potato]], salsify: leave in ground, cover with straw
 - Cabbage: dig an 8x8 inch trench running east to west, lay cabbages stem-south, cover with straw
-- Endive: cut leaves, cover with 8 inches of dirt, eat shoots in early spring
+- Endive: cut leaves, cover with 8 inches of dirt, eat shoots in [[coleman-overwintered-onions-and-early-spring-crops]]
 - Lettuce: dig 16x16 inch trench, lay heads not touching, cover with straw
 
 Raised wooden beds can simply be covered with straw and plastic over the plants. Without raised beds, sink wooden boards around the bed to help hold insulation.
 
 ## See Also
 
+- [[tree-energy-transactions]]
+
 - [[root-cellar-design-and-construction]]
 - [[canning-and-preserving]]
 - [[homesteading-food-preservation]]
 - [[raised-beds-vs-in-ground-vs-containers]]
-- [[faires-food-drying-and-no-energy-storage]]
+- faires-food-drying-and-no-energy-storage

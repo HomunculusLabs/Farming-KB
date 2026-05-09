@@ -1,5 +1,5 @@
 ---
-title: Fungal Disease Case Studies from Ingham AACT Field Guide
+title: Fungal ingham-aact-disease-case-studies-specific-pathogens from Ingham AACT Field Guide
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -19,7 +19,7 @@ pesticides requiring EPA registration.
 Black spot is one of the easier fungal diseases to control with AACT.
 
 **Mechanism:** The main agent of protection seems to be coverage. If some
-organism is already present on the leaf surface, the black spot fungus
+organism is already present on the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]], the black spot fungus
 cannot push someone else out of the spot. The enzymatic ability of the
 black-spot fungi is so weak that it cannot outcompete any other critter.
 
@@ -34,7 +34,7 @@ the fungal component appears to be critical for prevention.
 
 ## Powdery Mildew (Vines and Strawberries)
 
-AACT is being used to control powdery mildew on vines (3 months of
+AACT is being used to control [[query-how-to-prevent-and-treat-powdery-mildew-on-cannabis]] vines (3 months of
 successful results documented) and strawberries (4 months documented).
 
 **Tea type needed:** Fungal component is required for reliable mildew
@@ -50,7 +50,7 @@ likes fungi of the genus Erysiphales (powdery mildew), so the more mildew
 affected leaves in your compost, the more of the parasite should be
 present. Inoculating compost with inoculum containing this fungus is
 recommended until you know it is established. It prefers humidity, high
-organic matter, and lots of fungi.
+[[hamilton-composting-and-organic-matter-management]], and lots of fungi.
 
 ## Anthracnose
 
@@ -64,8 +64,8 @@ anthracnose with a just-bacterial tea.
 
 Apple scab can sometimes be prevented with bacterial tea alone, but
 fungal tea provides more reliable protection. SFI has been working with
-compost tea makers preventing apple scab along with leaf curl, anthracnose,
-and foliar feeding insects.
+[[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] makers preventing apple scab along with leaf curl, anthracnose,
+and [[comparison-foliar-feeding-vs-vermicompost-tea]] insects.
 
 ## Rust (Cedar Apple Rust and Wheat Rust)
 

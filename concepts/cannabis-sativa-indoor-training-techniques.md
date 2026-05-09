@@ -87,7 +87,7 @@ At approximately 90% sativa, Dragon's Teeth will reach 6 to 8 feet if left untop
 
 Training changes the plant's architecture, which in turn affects nutrient demand. Sativa plants with multiple trained colas have more active growing tips and therefore higher nitrogen demand during vegetation. During flowering, the even canopy produced by training means more bud sites developing simultaneously, increasing phosphorus and potassium requirements proportionally.
 
-Organic cultivation is generally recommended for sativa strains. As The Rev notes, sativa plants are "wild-ish and highly adaptable plants, and by their very nature don't really like being force fed synthetic nutrients, and it shows." Living soil systems with slow-release organic amendments provide a more natural feeding pattern that suits sativa genetics.
+Organic cultivation is generally recommended for sativa strains. As The Rev notes, sativa plants are "wild-ish and highly adaptable plants, and by their very nature don't really like being force fed [[query-organic-vs-synthetic-nutrients-cannabis]], and it shows." Living soil systems with slow-release [[cervantes-organic-amendments-chart]] provide a more natural feeding pattern that suits sativa genetics.
 
 ## Common Mistakes in Sativa Training
 
@@ -99,13 +99,13 @@ Organic cultivation is generally recommended for sativa strains. As The Rev note
 
 ## Environmental Considerations
 
-Beyond physical training techniques, several environmental factors influence sativa growth indoors:
+Beyond physical training techniques, several [[duggar-mushroom-environmental-factors-temperature-moisture-light]] influence sativa growth indoors:
 
 - **Light spectrum** — Sativa strains evolved under the full spectrum of tropical sunlight. While modern LED grow lights can approximate this spectrum, some growers report that adding UV-B supplemental lighting during late flowering enhances terpene production in sativa-dominant strains, potentially improving both flavor and resin quality.
 
 - **Temperature management** — Sativa plants generally tolerate higher temperatures than indicas, reflecting their tropical origins. Daytime temperatures of 75 to 85°F (24 to 29°C) are well-tolerated. However, temperature differentials of 10 to 15°F between day and night periods can improve terpene development and bud density.
 
-- **Humidity control** — The longer flowering period of sativa strains means that humidity management must be maintained for extended periods. During weeks 6 through 12+ of flowering, relative humidity should be gradually reduced from 50% to 40% to prevent mold in the dense colas that sativa plants produce.
+- **[[cervantes-humidity-control-dehumidification]]** — The longer flowering period of sativa strains means that [[stamets-cultivator-humidity-management-fogging-systems]] must be maintained for extended periods. During weeks 6 through 12+ of flowering, relative humidity should be gradually reduced from 50% to 40% to prevent mold in the dense colas that sativa plants produce.
 
 - **Container size** — Sativa root systems are deep and extensive. Container sizes of 5 to 10 gallons or larger are recommended for indoor sativa cultivation. Smaller containers restrict root growth, which limits plant size but can also reduce yield potential and increase the frequency of nutrient supplementation.
 
@@ -113,7 +113,7 @@ Beyond physical training techniques, several environmental factors influence sat
 
 Many experienced sativa cultivators advocate for organic growing methods over synthetic nutrient programs. The rationale extends beyond preference: sativa plants, as products of wild landrace genetics, appear to metabolize organic nutrient sources more efficiently than synthetic ones. Living soil systems that rely on microbial activity to break down organic amendments provide a slow, steady nutrient release pattern that matches the extended growth cycle of sativa strains.
 
-Organic methods also tend to produce superior flavor and aroma profiles. The complex terpene profiles that make sativa strains valued by connoisseurs are best expressed when plants are grown in biologically active soil rather than fed simplified mineral salts. This observation aligns with the broader principle that sativa strains, being closer to their wild ancestors than most modern indica hybrids, perform best when cultivation conditions most closely approximate natural growing environments.
+Organic methods also tend to produce superior flavor and aroma profiles. The complex [[cannabis-terpene-profiles-sativa]] that make sativa strains valued by connoisseurs are best expressed when plants are grown in biologically active soil rather than fed simplified mineral salts. This observation aligns with the broader principle that sativa strains, being closer to their wild ancestors than most modern indica hybrids, perform best when cultivation conditions most closely approximate natural growing environments.
 
 ## Related
 

@@ -1,5 +1,5 @@
 ---
-title: "2C-E (4-Ethyl-2,5-dimethoxy-PEA) -- PIHKAL Entry #24"
+title: "2C-E (4-Ethyl-2,5-dimethoxy-PEA) -- 2c-b-pihkal-entry-20 #24"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -23,7 +23,7 @@ PIHKAL entry #24. 4-Ethyl-2,5-dimethoxy-PEA.
 > pairing. As I was being told of the ecstatic white-light ascent of my
 > partner into the God-space of an out-of-body experience, I was
 > fighting my way out of a brown ooze. She saw the young Jesus at the
-> bottom of a ladder drifting upwards step by step to some taking-off
+> bottom of a ladder drifting upwards [[fukuoka-rice-barley-step-by-step-method]] to some taking-off
 > place, and I saw all the funny gargoyles around the base of the ladder
 > surrounded by picnic bunting. For me it was the 4th of July, rather
 > than Easter!S
@@ -86,7 +86,7 @@ by one subject.
 A suspension of 140 g anhydrous AlCl3 in 400 mL CH2Cl2 was
 treated with 100 g acetyl chloride. This slurry was added to a
 vigorously stirred solution of 110 g p-dimethoxybenzene in 300 mL
-CH2Cl2. Stirring was continued at ambient temperature for an
+CH2Cl2. Stirring was continued at [[jadam-ambient-temperature-principle]] for an
 additional 40 min, then all was poured into 1 L water and the phases
 separated. The aqueous phase was extracted with 2x100 mL CH2Cl2 and
 the combined organic phases washed with 3x150 mL 5% NaOH. These
@@ -108,11 +108,10 @@ In a round bottom flask equipped with a reflux condenser, a take-off
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 
 - [[2c-b-entity-pihkal]]
 - [[2c-d-entity-pihkal]]
-- [[2c-d-entity-pihkal]] -- 2C-D (PIHKAL #23)
 - [[3c-e-entity-pihkal]] -- 3C-E (PIHKAL #25)

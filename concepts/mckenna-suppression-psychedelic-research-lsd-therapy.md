@@ -1,5 +1,5 @@
 ---
-title: Suppression of Psychedelic Research and LSD Therapy
+title: Suppression of mckenna suppression psychedelic research lsd therapy and LSD Therapy
 created: 2026-04-28
 tags: [lsd, psychedelic-research, prohibition, psychiatry, mckenna, history, hoffer, osmond]
 date: 2026-04-28
@@ -37,9 +37,9 @@ physics community at the news of the splitting of the atom.
 
 Whereas the power of the atom, convertible into weapons of mass
 destruction, was fascinating to the dominator Establishment, the
-psychedelic experience loomed ultimately as an abyss. By the end of the
+[[leary-psychedelic-experience-bardo-mapping]] loomed ultimately as an abyss. By the end of the
 1960s, psychedelic research had been hounded out of existence, not only
-in the United States but around the world. All psychedelic drugs, even
+in the United States but [[fungi-around-the-world-species-distribution]]. All psychedelic drugs, even
 such unknowns as ibogaine and bufotenine, were made illegal.
 
 ## LSD as a Counter-Agenda Commodity
@@ -57,7 +57,7 @@ that LSD be stopped.
 How and by whom LSD was suppressed is a story well told by Jay Stevens
 in Storming Heaven and Martin Lee and Bruce Shlain in Acid Dreams.
 When the methods that worked for colonial empires peddling opium in the
-nineteenth century were applied by the CIA to the internal management of
+[[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] were applied by the CIA to the internal management of
 the American state of mind during the Vietnam War, they nearly
 destabilized the entire social order.
 
@@ -119,11 +119,13 @@ not be evaluated.
 
 It fell to the humble science of botany to advance our understanding of
 hallucinogenic plants after psychiatry abandoned the field. The
-ethnobotanical work of Richard Schultes and his students at Harvard
+ethnobotanical work of [[mckenna-richard-schultes-harvard-ethnobotany-psychoactive-plants]] and his students at Harvard
 became the primary source of new knowledge about psychoactive plants
-during the decades when clinical research was impossible.
+during the decades when [[hofmann-lsd-clinical-research-early-studies]] was impossible.
 
 ## See Also
+
+- [[mckenna-pandora-box-lsd-cia-mkultra-suppression]]
 
 - [[mckenna-discovery-and-impact-of-lsd]] - the discovery of LSD
 - [[mckenna-drugs-governments-and-intelligence-agencies]] - government involvement

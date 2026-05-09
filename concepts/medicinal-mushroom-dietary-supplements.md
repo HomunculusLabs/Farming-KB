@@ -1,24 +1,15 @@
 ---
-title: Medicinal Mushroom Dietary Supplements
+title: gourmet-medicinal-mushroom-casing-layer-techniques Dietary Supplements
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [[mycology, medicine, mushrooms]
+tags: [mycology, medicine, mushrooms]
 sources: []
 ---
-# Medicinal Mushroom Dietary Supplements
-
-Medicinal mushroom dietary supplements (DS) represent a multi-billion dollar global market estimated at US$5-6 billion per year. Products range from simple dried fruiting body powders to highly refined mycelial fermentation extracts. Understanding the different product types, their quality challenges, and safety considerations is essential for both consumers and manufacturers.
-
-## Product Categories
-
-### Type 1: Dried Wild-Harvested Fruiting Bodies
-- Pulverized into capsules or tablets
-- Least controlled source — identification and purity concerns
-- Most valued and expensive products (e.g., wild-harvested [[lentinan-pre-clinical-antitumour-models]], [[psk-psp-polysaccharide-peptides]], [[medicinal-mushroom-guide-cordyceps]] DS market in 1995: US$1.628 billion
+# Medicinal Mushroom Dietary Supplements Medicinal mushroom dietary supplements (DS) represent a multi-billion dollar global market estimated at US$5-6 billion per year. Products range from simple dried fruiting body powders to highly refined mycelial fermentation extracts. Understanding the different product types, their quality challenges, and safety considerations is essential for both consumers and manufacturers. ## Product Categories ### Type 1: Dried Wild-Harvested Fruiting Bodies - Pulverized into capsules or tablets - Least controlled source — identification and purity concerns - Most valued and expensive products (e.g., wild-harvested [[lentinan-pre-clinical-antitumour-models]], [[psk-psp-polysaccharide-peptides]], [[medicinal-mushroom-guide-cordyceps]] DS market in 1995: US$1.628 billion
 - [[medicinal-mushroom-guide-cordyceps]] depends on size and age)
 - **Processing methods** — different extraction solvents and conditions yield different compound profiles
-- **Storage conditions** — temperature-dependent degradation of active polysaccharides by endogenous enzymes
+- **[[vegetable-storage-conditions-by-temperature-and-humidity]]** — temperature-dependent degradation of active polysaccharides by endogenous enzymes
 - **Strain genetics** — genetic variation between strains of the same species
 
 ### The Dosage Amplification Problem
@@ -26,7 +17,7 @@ Medicinal mushroom dietary supplements (DS) represent a multi-billion dollar glo
 Modern concentrated extracts deliver far higher doses of active compounds than traditional use:
 - 200 kg of fresh [[lentinan-pre-clinical-antitumour-models]]
 - A traditional user could not ingest as much active polysaccharide as a modern user taking purified extracts
-- This amplification heightens the possibility of adverse effects from traditionally "safe" mushrooms
+- This amplification heightens the possibility of [[blesching-cannabis-safety-adverse-effects-evidence]] from traditionally "safe" mushrooms
 
 ## Safety Considerations
 
@@ -46,7 +37,7 @@ Modern concentrated extracts deliver far higher doses of active compounds than t
 
 The logical progression for quality and consistency involves:
 - Reduced production time (weeks vs. months)
-- Optimized culture medium composition
+- Optimized [[fukuoka-matsutake-culture-medium-appendix]] composition
 - Controlled physico-chemical conditions regulating metabolism
 - Improved and reproducible yields of specific products
 - Possible designed variation in product types
@@ -57,10 +48,13 @@ Mushroom DS products may play a role in cancer chemoprevention — the preventio
 
 ## Related
 
-- [[query-fruity-body-vs-mycelium-extract-medicinal-mushroom-supplements]]
+- [[mushroom-delayed-release-supplements]]
 
-- [[medicinal-mushroom-regulatory-frameworks]]
+- query-fruity-body-vs-mycelium-extract-medicinal-mushroom-supplements
+
+- medicinal-mushroom-regulatory-frameworks
 - [[ahcc-active-hexose-correlated-compound]]
+
 ## Practical Considerations
 
 Successful implementation of Medicinal Mushroom Dietary Supplements requires attention to
@@ -79,4 +73,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

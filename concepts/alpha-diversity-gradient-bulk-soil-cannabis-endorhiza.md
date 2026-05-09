@@ -1,5 +1,5 @@
 ---
-title: Alpha Diversity Gradient from Bulk Soil to Cannabis Endorhiza
+title: Alpha alpha diversity gradient bulk soil cannabis endorhiza from Bulk Soil to edaphic-factors-cannabis-endorhiza-microbiome-assembly
 tags:
   - cannabis
   - microbiome
@@ -19,11 +19,11 @@ sources:
 
 ## Overview
 
-A consistent finding across the cannabis microbiome literature is that alpha diversity follows a declining gradient from bulk soil through the rhizosphere to the [[two-tier-selection-model]].
+A consistent finding across the [[cultivar-cannabis-microbiome-two-tier-selection-model]] literature is that alpha diversity follows a declining gradient from bulk soil through the rhizosphere to the [[two-tier-selection-model]].
 
 ### Rhizosphere as a Semi-Permeable Filter
 
-The transition from bulk soil to rhizosphere involves the first major selective filter. Rhizodeposition including root exudates, mucilage, border cells, and dead cell material creates a nutrient-rich environment that favors certain microbial groups over others.
+The transition from bulk soil to rhizosphere involves the first major selective filter. Rhizodeposition including [[mycorrhizal-root-exudates-pathogen-interactions]], mucilage, border cells, and dead cell material creates a nutrient-rich environment that favors certain microbial groups over others.
 
 However, this enrichment effect is relatively modest in terms of diversity loss. The modest reduction suggests the rhizosphere is a relatively permissive environment where most soil organisms can persist at some level, even if their relative abundances shift.
 
@@ -37,7 +37,7 @@ The most dramatic diversity reduction occurs during the transition from rhizosph
 
 These adaptations include the ability to colonize intercellular spaces, tolerate plant defense compounds such as phytoalexins and reactive oxygen species, form mutualistic signaling relationships with the host, and compete effectively in the nutrient-rich but biologically challenging root interior.
 
-The loss of approximately 27% of rhizosphere species during this transition represents a substantial culling event. It fundamentally reshapes community composition, producing the cultivar-specific patterns observed in the endorhiza.
+The loss of approximately 27% of rhizosphere species during this transition represents a substantial culling event. It fundamentally reshapes [[core-endorhiza-bacterial-community-composition-cannabis]], producing the cultivar-specific patterns observed in the endorhiza.
 
 ## Soil Type Effects on Alpha Diversity
 
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,3 +114,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[beta-diversity-distances-bulk-soil-rhizosphere-cannabis-endorhiza]]

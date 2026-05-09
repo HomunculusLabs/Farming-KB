@@ -1,5 +1,5 @@
 ---
-title: Luther Burbank - Intuitive Plant Breeding
+title: tompkins luther burbank intuitive breeding - Intuitive Plant Breeding
 created: 2026-04-26
 tags: [history, agriculture, botany, biography]
 date: 2026-04-25
@@ -32,12 +32,12 @@ Vries: "I keep it in my head."
 
 His methodology, often branded as wizardry or even charlatanry by
 jealous competitors, rested on an extraordinary sensitivity to plants.
-In 1901, Burbank told the San Francisco Floral Congress: "The secret
+In 1901, Burbank told the [[shipibo-san-francisco-ceremonial-center-ucayali]] Floral Congress: "The secret
 of improved plant breeding, apart from scientific knowledge, is love."
 
 ## Early Success with the Burbank Potato
 
-While still in Massachusetts, Burbank happened upon a seed ball in his
+While still in Massachusetts, Burbank happened upon a [[clay-pellet-seed-ball-method-for-desert-revegetation]] in his
 patch of potatoes -- a vegetable which almost never sets seed. Knowing
 that potato seeds would not reproduce the exact qualities of the parent
 plant but would instead yield something new, Burbank recognized an
@@ -117,7 +117,7 @@ communication between humans and plants may be more profound than
 science has acknowledged -- anticipates many of the findings discussed
 throughout The Secret Life of Plants.
 
-Modern epigenetics, which studies how environmental factors influence
+Modern epigenetics, which studies how [[duggar-mushroom-environmental-factors-temperature-moisture-light]] influence
 gene expression without changing the DNA sequence, may eventually
 provide a scientific framework for understanding some of what Burbank
 intuitively practiced. The possibility that human intention could

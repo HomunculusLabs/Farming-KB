@@ -1,5 +1,5 @@
 ---
-title: Sclerotia Production in Jars on Grass Seed Substrate
+title: dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis in Jars on Grass Seed Substrate
 created: 2026-04-28
 tags: [sclerotia, psilocybe-mexicana, psilocybe-tampanensis, grass-seed-substrate, stone-mushrooms, truffle-like-fungi, indoor-cultivation]
 date: 2026-04-28
@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Sclerotia are dense, compact masses of mycelium that serve as survival structures for certain fungal species. In the context of indoor cultivation, sclerotia are sometimes called "stone mushrooms" or "philosopher's stones" and are produced by species including [[psilocybe-tampanensis-entity]]. A detailed practical guide from the Exotic Cultivation Series documents the production of sclerotia directly within colonized grass seed jars, without the need for a separate casing or fruiting stage.
+Sclerotia are dense, compact masses of mycelium that serve as survival structures for certain fungal species. In the context of [[cannabis-sativa-indoor-cultivation-techniques]], sclerotia are sometimes called "stone mushrooms" or "philosopher's stones" and are produced by species including [[psilocybe-tampanensis-entity]]. A detailed practical guide from the Exotic Cultivation Series documents the production of sclerotia directly within colonized grass seed jars, without the need for a separate casing or fruiting stage.
 
 ## Species That Produce Cultivable Sclerotia
 
@@ -26,7 +26,7 @@ The guide specifically addresses sclerotia production for:
 
 Grass seed is particularly well suited to sclerotia production for several reasons:
 
-1. **Nutrient density**: Grass seeds provide a rich but not overwhelming nutrient profile that supports sustained mycelial metabolism over months of sclerotia formation
+1. **Nutrient density**: Grass seeds provide a rich but not overwhelming nutrient profile that supports sustained mycelial metabolism over months of [[growing-gourmet-sclerotia-formation-biology-mushrooms]]
 2. **Small kernel size**: The small size of individual grass seeds creates numerous inoculation points and allows thorough colonization within a compact volume
 3. **Water absorption**: Properly hydrated grass seed holds adequate moisture for the extended sclerotia production period without becoming anaerobic
 4. **Space efficiency**: Multiple jars can be stored in a small area during the 3 to 4 month sclerotia maturation period
@@ -35,7 +35,7 @@ The most commonly used grass seed is **rye grass** (Lolium perenne), though mixt
 
 ## Jar Preparation for Sclerotia Production
 
-The substrate formula for 720 ml jars:
+The [[pf-tek-measurement-calibration-and-substrate-formula-precision]] for 720 ml jars:
 
 - **110 grams grass seed** per jar
 - **180 ml water** per jar
@@ -51,7 +51,7 @@ Rather than adding water directly to dry seed, the seed can be **soaked overnigh
 Different grass seed varieties and even different batches of the same variety vary significantly in water absorption capacity:
 
 - **Too much water**: produces a slimy, clumped mass that cannot be shaken to redistribute colonized kernels
-- **Too little water**: produces a dry substrate with poor mycelial growth and minimal sclerotia formation
+- **Too little water**: produces a dry substrate with poor [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and minimal sclerotia formation
 
 Empirical testing with each new batch of seed is recommended to calibrate the correct water ratio.
 
@@ -74,7 +74,7 @@ A standard boiling pot is insufficient. After sterilization, once the pressure h
 Once jars reach room temperature, inoculation proceeds using any standard method:
 
 - **Spore syringe**: most common for [[psilocybe-tampanensis-entity]]
-- **Mycelium syringe**: liquid culture for faster colonization
+- **Mycelium syringe**: [[comparison-liquid-culture-vs-grain-spawn]] for faster colonization
 - **Agar wedge**: transferred with a flamed scalpel
 
 Strict hygiene is critical. The guide emphasizes:
@@ -102,5 +102,5 @@ Unlike fruiting body production, sclerotia form **without a casing layer** and *
 1. After full colonization, keep jars in a **clean, preferably dark location**
 2. Maintain temperature around 20°C
 3. Sclerotia of [[psilocybe-mexicana]] and [[sclerotia-cultivation]]
-- [[psilocybe-tampanensis-cultivation]]
+- psilocybe-tampanensis-cultivation
 - [[sclerotia-formation-in-psilocybe-species]]

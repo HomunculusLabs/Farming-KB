@@ -1,6 +1,6 @@
 ---
-title: "One-Carbon Metabolism vs Glutathione Redox Biology"
-aliases: [one carbon metabolism vs glutathione, methylation vs redox metabolism, folate metabolism and glutathione]
+title: "One-Carbon Metabolism vs one carbon metabolism vs glutathione redox biology Biology"
+aliases: [[query-how-does-one-carbon-metabolism-affect-methylation]] vs glutathione, methylation vs redox metabolism, folate metabolism and glutathione]
 tags: [comparison, biochemistry, metabolism, nutrition, redox-biology]
 created: 2026-05-02
 updated: 2026-05-06
@@ -15,11 +15,11 @@ One-carbon metabolism manages transferable single-carbon units for nucleotide sy
 Glutathione redox biology manages cellular reducing power, peroxide detoxification, electrophile conjugation, and thiol-disulfide balance.
 The two systems meet through homocysteine, transsulfuration, cysteine supply, and oxidative-stress responses.
 A practical way to distinguish them is to say that one-carbon metabolism allocates carbon and methyl groups, while glutathione metabolism allocates sulfur and reducing capacity.
-Neither system is isolated; changes in methylation demand can affect glutathione production, and oxidative stress can alter one-carbon flux.
+Neither system is isolated; changes in methylation demand can affect glutathione production, and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] can alter one-carbon flux.
 
 ## Core Difference
 
-One-carbon metabolism is centered on folate cofactors, the methionine cycle, and carbon transfer reactions.
+One-carbon metabolism is centered on folate cofactors, the methionine cycle, and [[singh-mycorrhizal-network-carbon-transfer-plants]] reactions.
 Its characteristic molecules include tetrahydrofolate derivatives, methionine, S-adenosylmethionine, S-adenosylhomocysteine, and homocysteine.
 Its characteristic outputs include thymidylate, purines, methylated biomolecules, and remethylated methionine.
 Glutathione redox biology is centered on the tripeptide glutathione, which is made from glutamate, cysteine, and glycine.
@@ -44,7 +44,7 @@ One-carbon metabolism is sensitive to folate, vitamin B12, vitamin B6, riboflavi
 Folate and B12 are especially important for remethylating homocysteine to methionine.
 Vitamin B6 supports transsulfuration, which connects one-carbon metabolism to cysteine production.
 Riboflavin supports MTHFR because that enzyme uses a flavin cofactor.
-Glutathione biology depends on cysteine, glutamate, glycine, selenium-containing glutathione peroxidases, NADPH production, and overall amino acid status.
+Glutathione biology depends on cysteine, glutamate, glycine, selenium-containing glutathione peroxidases, NADPH production, and overall [[cho-fish-amino-acid-preparation]] status.
 Cysteine is often the limiting precursor for glutathione synthesis.
 Glycine is shared by both systems because it can feed one-carbon flux and is also a component of glutathione.
 Dietary context therefore determines whether a stress appears mainly as methylation strain, antioxidant strain, or both.
@@ -54,7 +54,7 @@ Dietary context therefore determines whether a stress appears mainly as methylat
 One-carbon metabolism is most visible when cells are dividing, developing, methylating, or repairing DNA.
 It is essential for embryos, bone marrow, intestinal lining, immune cells, and tumors because those cells require nucleotides.
 It also supports epigenetic regulation through SAM-dependent methylation reactions.
-Glutathione biology is most visible when cells face oxidants, electrophiles, heavy metals, inflammatory stress, or high detoxification demand.
+Glutathione biology is most visible when cells face oxidants, electrophiles, [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]], inflammatory stress, or high detoxification demand.
 It protects membranes, enzymes, mitochondrial components, and DNA from oxidative injury.
 It also participates in phase II metabolism by conjugating reactive compounds through glutathione S-transferases.
 In short, one-carbon metabolism is strongly biosynthetic and regulatory, while glutathione metabolism is strongly protective and redox-buffering.
@@ -110,7 +110,9 @@ One-carbon metabolism describes how the cell budgets carbon and methylation reso
 Glutathione redox biology describes how the cell preserves chemical stability under reactive stress.
 Together they form a central axis linking nutrition, metabolism, pharmacology, and cellular resilience.
 
-## Related Concepts
+## Related
+
+- [[one-carbon-metabolism]] Concepts
 
 - [[glutathione-biochemistry-and-redox-biology]]
 - [[phase-ii-metabolism]]

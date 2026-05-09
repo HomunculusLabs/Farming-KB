@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-The canning jar lid is a critical component of the PF TEK system, serving multiple functions throughout the cultivation cycle. Its configuration changes depending on the stage: loose during steam sterilization, taped during inoculation, and either tight or loose during incubation depending on substrate moisture content. Proper lid management directly impacts colonization success, contamination prevention, and overall yield.
+The canning jar lid is a critical component of the PF TEK system, serving multiple functions throughout the cultivation cycle. Its configuration changes depending on the stage: loose during steam sterilization, taped during inoculation, and either tight or loose during incubation depending on [[pf-tek-substrate-moisture-diagnosis-and-correction]] content. Proper lid management directly impacts colonization success, contamination prevention, and overall yield.
 
 ## Lid Selection and Requirements
 
@@ -78,7 +78,7 @@ After inoculation, the cultivator must choose between keeping the lid tight or l
 
 A tight lid preserves moisture content within the jar, making it appropriate when:
 
-- The substrate formula is on the dry side
+- The [[pf-tek-measurement-calibration-and-substrate-formula-precision]] is on the dry side
 - Finer vermiculite is used (less water needed)
 - The standard formula is used (1/8 cup brown rice powder)
 - Ambient humidity is low
@@ -100,7 +100,7 @@ The relationship between lid tightness and substrate moisture involves multiple 
 - The water needs of the growing mycelium
 - The size of the jar and available air space
 - The type and grade of vermiculite used
-- Ambient temperature and humidity
+- Ambient [[greg-green-temperature-and-humidity-control]]
 - The specific substrate formula employed
 
 Only through direct experimentation and comparison can the right balance be found for a given set of conditions. Keeping detailed notes on lid configuration and results is essential for replicating successful outcomes.
@@ -122,7 +122,7 @@ When a pressure canner is used for faster sterilization, the jar lid configurati
 - 1/2 pint PF substrate jars are sterilized at 12 PSI for 20 minutes
 - The same four hole configuration applies
 - Tape protection is still used
-- After pressure sterilization, jars cool with tightened lids
+- After [[boil-a-bag-pressure-sterilization-technique]], jars cool with tightened lids
 
 The pressure canner does not change the fundamental lid design, it merely accelerates the sterilization process.
 
@@ -134,12 +134,12 @@ When a tight lid causes water to collect at the bottom of the jar, the solution 
 
 ### Contamination Through Holes
 
-If contamination appears at inoculation points after inoculation, the cause is either a contaminated syringe or a breached dry vermiculite layer during the inoculation process. The holes themselves are not the problem if proper sterile technique is maintained.
+If contamination appears at inoculation points after inoculation, the cause is either a contaminated syringe or a breached dry vermiculite layer during the inoculation process. The holes themselves are not the problem if proper [[cultivator-sterile-technique-and-agar-culture]] is maintained.
 
 ### Substrate Drying
 
 ## See Also
 
-- [[pf-substrate-formula]] for jar filling and substrate preparation
+- [[pf-substrate-formula]] for jar filling and [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]
 - [[pf-tek-dry-vermiculite-contaminant-barrier]] for the barrier system
 - [[pf-tek-cake-birthing-technique]] for removing the cake from the jar

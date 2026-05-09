@@ -35,7 +35,7 @@ The hallucinations produced are typically described as non-differentiated from r
 
 ## Traditional Use
 
-In South American shamanic traditions, *Brugmansia* species are known as *toé* or *borrachero*. They are used cautiously by experienced shamans, typically as an additive to other entheogenic preparations rather than as a primary sacrament. In San Pedro (*Echinopsis pachanoi*) ceremonies, *toé* leaves are sometimes added to enhance the visionary effects.
+In [[chiric-caspi-brunfelsia-south-american-hallucinogen]] shamanic traditions, *Brugmansia* species are known as *toé* or *borrachero*. They are used cautiously by experienced shamans, typically as an additive to other entheogenic preparations rather than as a primary sacrament. In [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] (*Echinopsis pachanoi*) ceremonies, *toé* leaves are sometimes added to enhance the visionary effects.
 
 In the Putumayo region of Colombia, *B. suaveolens* has been used in sorcery and healing practices. Scopolamine extracted from the plant has been implicated in criminal poisonings in Colombia, where it is used to incapacitate victims — a practice known locally as *burundanga*.
 
@@ -74,7 +74,7 @@ plants to anthropogenic habitat loss.
 
 ## Legal Status
 
-*Brugmansia suaveolens* is regulated or prohibited in several countries. In the United States, it is not federally scheduled but is restricted in some states and municipalities. In many countries, cultivation is permitted but extraction of the alkaloids is illegal.
+*Brugmansia suaveolens* is regulated or prohibited in several countries. In the [[dmt-containing-plants-united-states-halpern]], it is not federally scheduled but is restricted in some states and municipalities. In many countries, cultivation is permitted but extraction of the alkaloids is illegal.
 
 ## See Also
 
@@ -82,4 +82,4 @@ plants to anthropogenic habitat loss.
 - [[plants-of-the-gods-brugmansia-angels-trumpet]]
 - [[datura-stramonium]] — jimsonweed, a related tropane alkaloid-containing plant
 - Scopolamine — the primary active compound
-- [[echinopsis-pachanoi]] — San Pedro cactus, often combined with *toé* in Andean ceremonies
+- [[echinopsis-pachanoi]] — San [[san-pedro-cactus-history]], often combined with *toé* in Andean ceremonies

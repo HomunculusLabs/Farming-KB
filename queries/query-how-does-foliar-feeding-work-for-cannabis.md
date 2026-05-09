@@ -1,5 +1,5 @@
 ---
-title: "How Does Foliar Feeding Work for Cannabis?"
+title: "How Does comparison-foliar-feeding-vs-compost-tea-nutrients Work for Cannabis?"
 created: 2026-04-28
 tags: [query, cannabis, foliar-feeding, nutrients, growing]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: query
 # How Does Foliar Feeding Work for Cannabis?
 
 ## Short Answer
-Foliar feeding is the practice of spraying a diluted nutrient solution directly onto
+Foliar feeding is the practice of spraying a diluted [[cannabis-nutrient-solution-preparation]] directly onto
 cannabis leaves, where nutrients are absorbed through stomata and leaf cuticle surfaces.
 It provides rapid nutrient delivery that bypasses the root system, making it effective
 for quickly correcting deficiencies or giving plants a boost during key growth stages.
@@ -19,7 +19,7 @@ Foliar feeding is a supplemental technique, not a replacement for root-zone nutr
 
 ## Detailed Explanation
 
-Foliar feeding works because cannabis leaves are not just passive solar panels for
+Foliar feeding works because cannabis leaves are not just [[comparison-passive-solar-vs-earth-sheltered]] panels for
 photosynthesis; they are also capable of absorbing water and dissolved nutrients through
 microscopic pores called stomata, which are concentrated on the undersides of leaves, as
 well as through the waxy cuticle layer on the leaf surface. When you spray a fine mist
@@ -29,14 +29,14 @@ to plant is significantly faster than the root uptake route, where nutrients mus
 be absorbed by roots, move through the xylem, and then distribute to tissues. For
 growers managing a complete nutrient program, foliar feeding is one tool among many, as
 described in [[cannabis-nutrient-deficiency-guide]].
-Foliar feeding is also useful during the early vegetative stage when root systems are
+Foliar feeding is also useful during the early [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] when root systems are
 still small and may not be able to access enough nutrients from the growing medium.
 
 ### Best Nutrients for Foliar Application
 
 Not all nutrients are equally effective when applied as foliar sprays. Nitrogen in the
 form of amino acids or urea is readily absorbed through leaves, making fish hydrolysate
-or diluted liquid kelp excellent choices for vegetative growth. Micronutrients like iron,
+or diluted liquid kelp excellent choices for [[cannabis-vegetative-growth-stage]]. Micronutrients like iron,
 zinc, manganese, and boron are particularly well-suited to foliar application because
 they are needed in small quantities and can become locked out in the root zone due to
 pH imbalances. Calcium and magnesium can also be foliar-fed, though they are somewhat
@@ -68,7 +68,7 @@ buffer to moderate concentration. Always start with a very dilute solution and i
 gradually. Another common error is spraying during the wrong time of day. Midday sprays
 under intense light will almost always cause damage. Finally, be aware that foliar
 feeding addresses symptoms but does not fix underlying root-zone problems. If a plant
-has a nutrient deficiency due to incorrect pH or root damage, foliar feeding provides
+has a [[cannabis-grow-nutrient-deficiency-problem-solving]] due to incorrect pH or root damage, foliar feeding provides
 temporary relief while you address the root cause. This is particularly relevant for
 issues like [[green-cannabis-grow-bible-sog-scrog-advanced-methods]], foliar feeding is a natural extension of a biological
 farming approach. Compost tea foliar sprays deliver beneficial microbes directly to the

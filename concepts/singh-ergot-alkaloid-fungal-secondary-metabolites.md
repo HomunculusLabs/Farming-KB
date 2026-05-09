@@ -1,5 +1,5 @@
 ---
-title: Ergot Alkaloid Fungal Secondary Metabolites
+title: kykeon-composition-and-ergot-alkaloid-hypothesis Fungal antifungal-secondary-metabolites-coprophilous-fungi
 created: 2026-04-28
 tags:
   - ergot-alkaloids
@@ -25,7 +25,7 @@ Singh's treatment of ergot alkaloids intersects with broader discussions
 of [[claviceps-purpurea]] and the Ergot Disease
 
 ### Life Cycle and Sclerotia Formation
-Claviceps purpurea is the classic [[laurencia-dendroidea]]
+[[bloomfield-ergot-claviceps-purpurea-ergotism]] is the classic [[laurencia-dendroidea]]
 
 - [[singh-entomopathogenic-fungi-biocontrol-agents]]
 - [[mycoremediation-pahs]]
@@ -107,3 +107,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[ergot-alkaloid-chemistry-history]]

@@ -1,20 +1,21 @@
 ---
-title: "Cervantes - Drip Irrigation Systems for Cannabis"
+title: "Cervantes - comparison-drip-irrigation-vs-passive-irrigation Systems for Cannabis"
 created: 2026-04-26
 tags: [cannabis, irrigation, drip-system, hydroponics, fertigation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Drip Irrigation Systems for Cannabis
 
 Drip irrigation is a precise, low-volume watering method that
-delivers nutrient solution one drop at a time or at a very slow
+delivers [[cannabis-nutrient-solution-preparation]] one drop at a time or at a very slow
 rate through a network of plastic pipes and emitters. In
-cannabis cultivation, drip systems offer consistency and reduced
+[[query-how-does-no-till-cannabis-cultivation-work]], drip systems offer consistency and reduced
 maintenance once properly installed, making them popular for both
 soil and [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]] production.
 

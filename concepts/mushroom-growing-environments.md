@@ -1,7 +1,7 @@
 ---
-title: Mushroom Growing Environments
+title: duggar-mushroom-growing-history-and-methods Environments
 created: 2026-04-28
-tags: [mushrooms, environment, grow-chamber, cultivation, [[mycology]]]
+tags: [mushrooms, environment, grow-chamber, cultivation, mycology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -12,7 +12,7 @@ type: concept
 
 The growing environment, often called a [[shotgun-fruiting-chamber]] (SGFC)
 
-The SGFC is the most common beginner fruiting chamber. It consists of a
+The SGFC is the most common beginner [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]. It consists of a
 clear plastic tote with holes drilled on all six sides (1/4 inch holes
 spaced 2 inches apart in a grid pattern). The bottom is filled with 3
 to 5 inches of moist perlite. Moisture evaporating from the perlite
@@ -45,7 +45,7 @@ A Martha tent is a commercial greenhouse unit repurposed for mushroom
 cultivation. These tall, zip-up enclosures with shelving can hold many
 substrate blocks simultaneously. They require an external humidifier
 (usually an ultrasonic fogger) connected to a humidistat for automated
-humidity control.
+[[cervantes-humidity-control-dehumidification]].
 
 The large volume of a Martha tent makes air exchange more challenging.
 An oscillating fan inside the tent provides internal circulation, but
@@ -101,7 +101,11 @@ hour for most species.
 ### Temperature Control
 
 Mini-split air conditioners provide the most precise temperature
-control for indoor grow spaces. For smaller setups, portable air
+control for [[cannabis-indoor-grow-lighting-systems]] spaces. For smaller setups, portable air
 conditioners or aquarium heaters in water baths can work. The key is
 to avoid rapid temperature fluctuations, which stress the [[cotter-substrate-preparation]]
 - [[cotter-substrate-preparation]]
+## See Also
+- [[shotgun-fruiting-chamber]]
+- [[cotter-substrate-preparation]]
+- [[simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation]]

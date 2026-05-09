@@ -4,7 +4,7 @@ created: 2026-04-26
 synonyms:
   - fungal-bacterial consortia bioremediation
   - mixed fungal cultures pollutant degradation
-  - synergistic fungal bioremediation
+  - synergistic [[staycare-composting-as-a-fungal-bioremediation-strategy]]
   - microbial consortia mycoremediation
 type: concept
 tags: [fungi]
@@ -32,7 +32,7 @@ Fungal consortia — combinations of multiple fungal species, or fungi with bact
 ### Advantages of Consortia
 
 1. **Complementary enzyme systems**: Different organisms contribute different enzymes (laccase, LiP, MnP, dioxygenases, hydrolases, dehalogenases)
-2. **Complete mineralization**: Sequential degradation pathways distributed across community members
+2. **Complete mineralization**: Sequential [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]] distributed across community members
 3. **Robustness**: Community more resilient to environmental fluctuations
 4. **Broad substrate coverage**: Different organisms target different pollutant classes
 5. **Synergistic interactions**: Cross-feeding, co-metabolism, and physical facilitation
@@ -48,16 +48,16 @@ Fungal consortia — combinations of multiple fungal species, or fungi with bact
 
 #### Ectomycorrhizal Consortia
 
-- Ectomycorrhizal fungi compete better with indigenous populations than introduced saprophytic fungi (Donnelly & Fletcher, 1995)
+- [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] compete better with indigenous populations than introduced saprophytic fungi (Donnelly & Fletcher, 1995)
 - [[staycare-scale-up-challenges-in-fungal-bioremediation]])
 - Biostimulation (nutrient addition) rather than bioaugmentation where possible
 
 ### Succession and Community Dynamics
 
 Effective consortia may need to account for microbial succession:
-- Early colonizers modify the environment (pH, nutrient availability, pollutant form) for later colonizers
+- Early colonizers modify the environment (pH, [[ph-and-nutrient-availability-garden-soils]], pollutant form) for later colonizers
 - Fungal-bacterial interactions change over time as community structure evolves
-- Degradation pathways may shift as community composition changes
+- Degradation pathways may shift as [[core-endorhiza-bacterial-community-composition-cannabis]] changes
 
 ## Challenges in Consortium Design
 
@@ -83,5 +83,5 @@ An alternative to introducing consortia is biostimulation — stimulating indige
 - Donnelly, P.K. & Fletcher, J.S. (1995). PCB metabolism by ectomycorrhizal fungi.
 - Donnelly, P.K., Entry, J.A. & Crawford, D.L. (1993). Degradation of herbicides by mycorrhizal fungi.
 - Golyshin, P.N. et al. (1999). Analysis of PCB-degrading bacteria.
-- Sasek, V. et al. (1993). Degradation of PCBs by mixed cultures of white rot fungi and yeasts.
+- Sasek, V. et al. (1993). [[fungal-degradation-of-pcbs-by-white-rot-fungi]] by mixed cultures of white rot fungi and yeasts.
 - Unterman, R. et al. (1988). Field trials of PCB bioremediation.

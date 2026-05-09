@@ -25,7 +25,7 @@ The name "Jimson weed" itself derives from the Jamestown, Virginia colony, where
 
 ## Mandrake (Mandragora)
 
-Mandragora officinarum, the true mandrake, is perhaps the most legendary of all magical plants in European tradition. Its forked root, which often resembles a human form, gave rise to an elaborate body of folklore. The plant was believed to emit a lethal scream when pulled from the earth, and various magical procedures were prescribed for its safe harvesting — including tying a dog to the root and then calling the dog away.
+[[mandrake-mandragora-officinarum-in-european-folklore]], the true mandrake, is perhaps the most legendary of all magical plants in European tradition. Its forked root, which often resembles a human form, gave rise to an elaborate body of folklore. The plant was believed to emit a lethal scream when pulled from the earth, and various magical procedures were prescribed for its safe harvesting — including tying a dog to the root and then calling the dog away.
 
 The root contains the tropane alkaloids hyoscyamine, scopolamine, and atropine. In classical antiquity, mandrake was used as an anaesthetic and sedative. Dioscorides prescribed it for pain relief, and it was administered in wine before surgery. Theophrastus warned that harvesting mandrake required specific ritual precautions.
 
@@ -43,7 +43,7 @@ The sensation of body dissolution — feeling one's feet grow lighter, parts of 
 
 ## Belladonna (Deadly Nightshade)
 
-Atropa belladonna is perhaps the most toxic member of the family. Its name derives from the Italian "bella donna" (beautiful woman), because women historically used preparations from the plant to dilate their pupils — a practice considered aesthetically desirable. The plant contains atropine, scopolamine, and hyoscyamine.
+Atropa belladonna is perhaps the most toxic member of the family. Its name derives from the Italian "bella donna" ([[fukuoka-scalpel-beautiful-woman-science-nature]]), because women historically used preparations from the plant to dilate their pupils — a practice considered aesthetically desirable. The plant contains atropine, scopolamine, and hyoscyamine.
 
 Belladonna was a primary ingredient in witches' flying ointments. The physician Andrés Laguna in 1545 identified belladonna among the "herbs cold and soporiferous in the ultimate degree" that composed the ointment confiscated from accused witches.
 
@@ -75,7 +75,7 @@ In medieval and early modern Europe, the solanaceous plants became inextricably 
 
 Schultes, R. E., & Hofmann, A. (1992). Plants of the Gods: Their Sacred, Healing, and Hallucinogenic Powers. Healing Arts Press.
 
-Harner, M. J. (1973). "The Role of Hallucinogenic Plants in European Witchcraft." In Hallucinogens and Shamanism. Oxford University Press.
+Harner, M. J. (1973). "The Role of Hallucinogenic Plants in [[harner-european-witchcraft-hallucinogens]]." In Hallucinogens and Shamanism. Oxford University Press.
 
 Hoffman, R. S., & Mofenson, H. C. (1990). " poisoning from Ingestion of Datura-Related Plants." Journal of Toxicology: Clinical Toxicology, 28(2), 197-206.
 
@@ -89,7 +89,7 @@ Latua pubiflora, known locally as "latué" or "árbol de los brujos" ("sorcerers
 
 Latua pubiflora is a shrub or small tree belonging to the nightshade family (Solanaceae), the same family that contains [[belladonna-atropa-belladonna-ethnobotany]], and [[tree-daturas-brugmansia-south-american-ethnobotany]]), though the two genera are distinct.
 
-The leaves are oval to lanceolate, with a velvety texture from the dense covering of fine hairs. Young branches and leaf undersides are particularly pubescent. The wood is relatively soft and the plant has a bushy growth habit, often forming dense thickets in its preferred moist, shaded habitat. Flowering typically occurs during the Southern Hemisphere spring and summer months (October through February).
+The leaves are oval to lanceolate, with a velvety texture from the dense covering of fine hairs. Young branches and leaf undersides are particularly pubescent. The wood is relatively soft and the plant has a bushy growth habit, often forming dense thickets in its preferred moist, shaded habitat. Flowering typically occurs during the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] spring and summer months (October through February).
 
 The genus Latua is monotypic — Latua pubiflora is the sole species. This taxonomic isolation, combined with its extremely restricted geographic range, has made it one of the most poorly studied psychoactive solanaceous plants. The plant is confined to the coastal mountains of central Chile, primarily in the Valdivia and Los Lagos regions, where it grows in moist, shaded ravines and forest margins.
 
@@ -105,13 +105,13 @@ Hyoscyamine, the other major alkaloid, produces similar but generally less prono
 
 Unlike most psychoactive plants used in indigenous South American cultures, latué is not employed within a formalized religious or ceremonial framework. There is no cult or ritual surrounding its use, but the tree is widely feared and respected throughout Mapuche territory. Its use is restricted to the machi (medicine men or shamans), who employ it as a tool for causing delirium and hallucinations.
 
-The absence of a structured ceremonial context is unusual and may reflect the plant's primary association with sorcery and interpersonal conflict rather than communal spiritual practice. Most well-documented indigenous psychoactive plant traditions — from the Amazonian [[ayahuasca-preparation-and-ceremony]] ceremonies to the Huichol peyote pilgrimage — involve elaborate ritual frameworks that structure and contain the psychedelic experience. Latué, by contrast, appears to be used in a more ad hoc and potentially clandestine manner.
+The absence of a structured ceremonial context is unusual and may reflect the plant's primary association with sorcery and interpersonal conflict rather than communal spiritual practice. Most well-documented indigenous psychoactive plant traditions — from the Amazonian [[ayahuasca-preparation-and-ceremony]] ceremonies to the Huichol peyote pilgrimage — involve elaborate ritual frameworks that structure and contain the [[leary-psychedelic-experience-bardo-mapping]]. Latué, by contrast, appears to be used in a more ad hoc and potentially clandestine manner.
 
 The primary application of latué is in the context of interpersonal conflict and sorcery. Mapuche medicine men are said to use the plant to induce targeted madness in individuals — a form of pharmacological sorcery that reflects the plant's association with the "brujos" (sorcerers) in its Spanish common name. This malevolent use contrasts sharply with the more commonly documented healing and divinatory applications of psychoactive plants in indigenous cultures.
 
 Dosages are described as a closely guarded secret, passed down through generations of Mapuche healers. The belief that a skilled practitioner can induce madness of any desired duration — from hours to permanent insanity — indicates an intimate practical knowledge of the plant's dose-response curve. This precision is remarkable given the variability of tropane alkaloid content in solanaceous plants, which can fluctuate significantly based on growing conditions, plant part, and season.
 
-The natives employ the fresh fruits of latué, though the specific method of preparation and administration is not well documented in the ethnographic literature. The fruits may be consumed directly, prepared as a beverage, or used in some other manner that has not been recorded by outside observers. Some accounts suggest that the fruits are crushed and mixed with water, while others describe the use of leaf preparations. The secrecy surrounding latué use means that many details of its traditional preparation may never be fully documented.
+The natives employ the fresh fruits of latué, though the specific method of preparation and administration is not well documented in the ethnographic literature. The fruits may be consumed directly, prepared as a beverage, or used in some other manner that has not been recorded by outside observers. Some accounts suggest that the fruits are crushed and mixed with water, while others describe the use of leaf preparations. The secrecy surrounding latué use means that many details of its [[kava-traditional-preparation-ceremonial-context]] may never be fully documented.
 
 The Mapuche classification of latué as a plant of the machi (rather than a communal ceremonial plant like peyote or ayahuasca) reflects its specialized and somewhat feared status. While many psychoactive plants are understood as mediators between humans and the divine, latué is conceived primarily as a tool of power — one that can be used for both healing and harm depending on the practitioner's intent and skill.
 

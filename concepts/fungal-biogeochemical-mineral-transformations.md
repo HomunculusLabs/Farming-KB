@@ -1,7 +1,7 @@
 ---
-title: Fungal Biogeochemical Mineral Transformations
+title: Fungal Biogeochemical fungal-mineral-transformations-biogeochemical-cycles-gadd
 source: Fungi in the Environment - Gadd, Watkinson, Dyer
-source_author: [[geoffrey-gadd]], Sarah C. Watkinson, Paul S. Dyer
+source_author: geoffrey-gadd, Sarah C. Watkinson, Paul S. Dyer
 tags: [geomycology, mineral-weathering, biogeochemical-cycling, metal-transformations, fungal-ecology, rock-decomposition]
 created: 2026-05-08
 ---
@@ -12,9 +12,9 @@ created: 2026-05-08
 
 Fungi play pivotal roles in the transformation of minerals and the cycling of elements
 across Earth's surface environments. The field of geomycology—the study of fungal
-interactions with geological substrates—encompasses mineral weathering, metal
+interactions with geological substrates—encompasses [[mycorrhizal-mineral-weathering-nutrient-acquisition]], metal
 mobilization and immobilization, and the formation of biogenic minerals through
-fungal metabolic activity.
+fungal [[arbuscule-isolation-metabolic-activity-assays]].
 
 These processes operate at the interface between the biosphere and the lithosphere,
 fundamentally influencing soil development, nutrient availability, and ecosystem
@@ -53,13 +53,13 @@ manganese(II) and iron(II) to more soluble oxidized forms.
 
 Reductive transformations are equally important. Many fungi can reduce uranium(VI) to
 uranium(IV), chromium(VI) to chromium(III), and other toxic metals to less mobile
-species. These transformations underpin fungal [[mycorrhizal-fungi]] serve as critical conduits for nitrogen transfer to host plants,
+species. These transformations underpin fungal [[mycorrhizal-fungi]] serve as critical conduits for [[symbiotic-fungi-mycorrhizal-nitrogen-transfer-networks]] to host plants,
 accessing organic nitrogen sources that would otherwise be unavailable. This function
 is particularly important in boreal and temperate forests where nitrogen availability
 limits primary productivity.
 
-Phosphorus cycling is similarly influenced by fungal activity. The excretion of
-organic acids and phosphatase enzymes solubilizes mineral-bound phosphorus, wh [[fungal-hyphae]] contribute to aggregate formation by binding mineral
+[[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]] is similarly influenced by fungal activity. The excretion of
+organic acids and phosphatase enzymes solubilizes mineral-bound phosphorus, wh [[fungal-hyphae]] contribute to [[soil-aggregate-formation-fungal-contributions]] by binding mineral
 particles together with extracellular polymeric substances and hyphal networks. This
 aggregation improves soil structure, water retention, and resistance to erosion,
 further demonstrating the integral role of fungi in soil ecosystem function.
@@ -80,3 +80,8 @@ Research in geomycology continues to reveal new dimensions of fungal interaction
 with the mineral world, including roles in radionuclide migration, rare earth element
 cycling, and the formation of unique mineral assemblages in cave ecosystems and
 hydrothermal environments.
+## See Also
+- [[fungal-hyphae]]
+- [[mycorrhizal-fungi]]
+- fungi-in-the-environment-fungal-mineral-weathering
+- [[fungal-mineral-weathering]]

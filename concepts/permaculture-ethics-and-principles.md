@@ -4,7 +4,9 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, ethics, principles, design, sustainability, ecology]
-sources: []
+sources:
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 
 # Permaculture Ethics and Principles
@@ -26,9 +28,9 @@ Also called "limits to growth and redistribution of surplus," this ethic complet
 
 David Holmgren articulated 12 principles that function as thinking tools for design. They are not rigid rules but lenses through which to evaluate and refine any system.
 
-1. **Observe and Interact** — Spend time understanding the site, its patterns, seasons, and existing relationships before making changes. Good observation prevents costly mistakes.
+1. **[[holmgren-observe-and-interact-detailed]]** — Spend time understanding the site, its patterns, seasons, and existing relationships before making changes. Good observation prevents costly mistakes.
 
-2. **Catch and Store Energy** — Harvest resources when they are abundant for use during scarcity. This applies to water (rain tanks, swales), solar energy, biomass, seeds, and even knowledge.
+2. **[[permaculture-principle-catch-and-store-energy]] Energy** — Harvest resources when they are abundant for use during scarcity. This applies to water (rain tanks, swales), solar energy, biomass, seeds, and even knowledge.
 
 3. **Obtain a Yield** — Every element in the system should produce something useful. If a component is not yielding food, fiber, fuel, or fertility, reconsider its place.
 
@@ -36,11 +38,11 @@ David Holmgren articulated 12 principles that function as thinking tools for des
 
 5. **Use and Value Renewable Resources and Services** — Prioritize biological resources over fossil inputs. Compost instead of synthetic fertilizer, draft animals instead of tractors, biological pest control instead of chemicals.
 
-6. **Produce No Waste** — Every output should be an input for something else. See [[permaculture-food-waste-cycling]] for strategies to close waste loops through composting and animal feed.
+6. **[[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]]** — Every output should be an input for something else. See [[permaculture-food-waste-cycling]] for strategies to close waste loops through [[query-how-do-i-use-black-soldier-flies-for-composting-and-animal-feed]] feed.
 
-7. **Design from Patterns to Details** — Start with the big picture — watershed, climate, social context — then work down to specific plant placements and structures. See [[permaculture-site-analysis]] for pattern-level observation methods.
+7. **[[permaculture-principle-design-from-patterns-to-details]] to Details** — Start with the big picture — watershed, climate, social context — then work down to specific plant placements and structures. See [[permaculture-site-analysis]] for pattern-level observation methods.
 
-8. **Integrate Rather Than Segregate** — Place elements so they support each other. Chickens in orchards, nitrogen fixers near fruit trees, ducks in rice paddies. See [[permaculture-animal-integration]] and [[permaculture-guild-design]].
+8. **[[permaculture-principle-integrate-rather-than-segregate]] Than Segregate** — Place elements so they support each other. Chickens in orchards, nitrogen fixers near fruit trees, ducks in rice paddies. See [[permaculture-animal-integration]] and [[permaculture-guild-design]].
 
 9. **Use Small and Slow Solutions** — Start small, observe results, and scale up. Small-scale interventions are easier to manage, cheaper, and more adaptable than large, irreversible changes.
 

@@ -1,5 +1,5 @@
 ---
-title: Neurotropic Fungi Five Historical Periods
+title: Neurotropic neurotropic fungi five historical periods Periods
 created: 2026-04-28
 tags:
   - mycology
@@ -33,7 +33,7 @@ well-documented ancient traditions come from:
 
 - **Mesoamerica**: The Aztec "teonanacatl" (divine mushroom), documented by
   the Spanish friar Sahagun (1569-1582), was used in religious ceremonies.
-  More than 200 common names for sacred mushrooms exist in indigenous
+  More than 200 common names for [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]] exist in indigenous
   Mexican languages, including Nahuatl terms like "apipiltzin" (kid or
   little boy), "atkad" (mayor or leader), and "di nize taaya" (fungus of
   the genius). Spanish names adopted by indigenous peoples include "san
@@ -42,12 +42,12 @@ well-documented ancient traditions come from:
 
 - **Siberia**: [[psilocybe-cubensis]] based on some unidentified materials
 from Schultes's collections in Mexico. This period reflected the profound
-taxonomic confusion that existed before systematic mycological investigation.
+[[neurotropic-fungi-taxonomic-confusion-and-identification]] that existed before systematic mycological investigation.
 
 In the late 1950s, only about 20 species of neurotropic fungi were
 recognized, belonging to the genera Psilocybe (the majority), Conocybe
 (e.g., C. siliginoides), Stropharia (e.g., S. cubensis, later identified
-as Psilocybe cubensis), Panaeolus (as P. sphinctrinus), Cordyceps (two
+as [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]), Panaeolus (as P. sphinctrinus), Cordyceps (two
 species), Claviceps (C. purpurea), and Amanita (A. muscaria). Edible
 species of Clavariadelphus and Gomphus were also erroneously mixed with
 the properties of Cordyceps spp. during this period.
@@ -109,14 +109,14 @@ period has been characterized by:
   including Psathyrella candolleana, [[gymnopilus-fulgens]],
   G. spectabilis, Hygrocybe psittacina, and others.
 
-- **Global scope confirmation**: The broad distribution of neurotropic
+- **Global scope confirmation**: The broad [[global-distribution-of-neurotropic-fungi]]
   fungi was confirmed across all continents, from Alaska and Siberia in
   the north to Chile, Australia, and New Zealand in the south, and from
   sea level to 4,000 meters elevation.
 
 ## Related
 
-- [[neurotropic-fungi-in-mexico]] is closely tied to
+- neurotropic-fungi-in-mexico is closely tied to
   the broader topic of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].
-- Taxonomic challenges in identifying neurotropic species are detailed in
+- [[guzman-allen-gartz-psilocybe-taxonomic-challenges-and-synonymy]] in identifying neurotropic species are detailed in
   [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].

@@ -13,7 +13,7 @@ sources:
   - "Ravindran, P.N. et al. (2007). Curcuma: The Genus Curcuma. CRC Press."
   - "Joshi, R.K. et al. (2014). \"Chemical composition and antimicrobial activity of the rhizome essential oil of Curcuma zedoaria.\" Journal of Ethnopharmacology, 151(1), 299-306."
   - "Aggarwal, B.B. et al. (2013). Molecular Targets and Therapeutic Uses of Curcumin in Health and Disease. Springer."
-  - "Li, R.W. et al. (2012). \"Curcuma species: a comprehensive review on phytochemistry, pharmacology and clinical trials.\" Chinese Medicine, 7, 15."
+  - "Li, R.W. et al. (2012). \"Curcuma species: a comprehensive review on phytochemistry, pharmacology and [[mushroom-cancer-clinical-trials-overview]].\" Chinese Medicine, 7, 15."
 ---
 
 # Curcuma zedoaria (Zedoary)
@@ -54,7 +54,7 @@ Natural populations have declined in parts of their native range due to habitat 
 
 ## Phytochemistry
 
-The rhizomes contain a diverse array of bioactive secondary metabolites. The essential oil (2–5% of dry weight) is dominated by sesquiterpenes, with curzerenone, curdione, germacrone, and furanodiene as the principal constituents.
+The rhizomes contain a diverse array of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]. The essential oil (2–5% of dry weight) is dominated by sesquiterpenes, with curzerenone, curdione, germacrone, and furanodiene as the principal constituents.
 
 Curcuminoid content is lower than in C. longa, typically 0.3–1.5% of dry rhizome weight. The primary curcuminoids present are curcumin, demethoxycurcumin, and bisdemethoxycurcumin, in ratios distinct from common turmeric.
 
@@ -82,25 +82,25 @@ In TCM, the dried rhizome (*E Zhu*) is classified as a blood-activating and stas
 
 Fresh zedoary rhizomes are used as a spice in South and Southeast Asian cuisines. In Indonesian cooking, the grated rhizome imparts a bitter-woody flavor to curries and rendang. In Indian pickles, thin slices of zedoary are preserved in spiced oil.
 
-The dried, powdered rhizome was historically used as a substitute for arrowroot as a food thickener in Europe. It was also an ingredient in medieval European spiced wine and condiment preparations before being displaced by cheaper alternatives.
+The dried, powdered rhizome was historically used as a substitute for arrowroot as a food thickener in Europe. It was also an ingredient in [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] spiced wine and condiment preparations before being displaced by cheaper alternatives.
 
 In Japan, the species is used to produce a starch called *konzatsu* from the rhizome, though production has declined since the mid-20th century. The essential oil is used in perfumery for its woody-spicy base notes, particularly in oriental fragrance compositions.
 
 The food industry utilizes zedoary extract as a natural colorant and flavoring agent. The rhizome starch has potential applications in biodegradable film production due to its favorable film-forming properties.
 
-Recent research has explored zedoary rhizome extract as a natural preservative in food systems. The essential oil demonstrates efficacy against post-harvest fungal pathogens on stored grains and fruits, suggesting potential as a botanical fungicide.
+Recent research has explored zedoary rhizome extract as a natural preservative in food systems. The essential oil demonstrates efficacy against post-harvest [[bloomfield-fungal-pathogens-and-parasites]] on stored grains and fruits, suggesting potential as a botanical fungicide.
 
 ## Cultivation
 
 Curcuma zedoaria is propagated primarily from rhizome pieces. Planting occurs at the onset of the monsoon season in tropical regions, with rhizome sets placed 5–10 cm deep and spaced 30–45 cm apart in rows.
 
-The crop prefers well-drained, loamy soils rich in organic matter with a pH of 5.5–7.0. Partial shade is tolerated and can improve rhizome quality in hot climates. Optimal growth occurs at 25–30°C with annual rainfall of 1500–2500 mm.
+The crop prefers well-drained, loamy soils rich in [[hamilton-composting-and-organic-matter-management]] with a pH of 5.5–7.0. Partial shade is tolerated and can improve rhizome quality in hot climates. Optimal growth occurs at 25–30°C with annual rainfall of 1500–2500 mm.
 
 Rhizome maturity is reached 7–9 months after planting when the aerial parts begin to senesce. Yields of fresh rhizome range from 15–25 tonnes per hectare under good management. Post-harvest, rhizomes are washed, sliced, and dried in shade to preserve essential oil content.
 
 Major production areas include India (West Bengal, Assam, Odisha), Indonesia, Thailand, China (Guangxi, Yunnan), and Bangladesh. The crop is increasingly cultivated as an intercrop with coconut, areca nut, and fruit trees in agroforestry systems.
 
-Organic cultivation methods are common, as the species is relatively pest-resistant. The primary pests include rhizome-feeding weevils and nematodes, while leaf spot diseases caused by Colletotrichum species can reduce yields in humid conditions.
+Organic [[synthetic-log-cultivation-methods-guide]] are common, as the species is relatively pest-resistant. The primary pests include rhizome-feeding weevils and nematodes, while leaf spot diseases caused by Colletotrichum species can reduce yields in humid conditions.
 
 ## See Also
 

@@ -70,13 +70,13 @@ are devoted to food production and small livestock suited to local needs."
 
 Holmgren's 12 principles, each with an associated proverb:
 
-1. **Observe and Interact** — "Beauty is in the eye of the beholder."
+1. **[[holmgren-observe-and-interact-detailed]]** — "Beauty is in the eye of the beholder."
 2. **Catch and Store Energy** — "Make hay while the sun shines."
 3. **Obtain a Yield** — "You can't work on an empty stomach."
 4. **Apply Self-Regulation and Accept Feedback** — "The sins of the fathers
    are visited on the children unto the seventh generation."
 5. **Use and Value Renewable Resources** — "Let nature take its course."
-6. **Produce No Waste** — "Waste not, want not."
+6. **[[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]]** — "Waste not, want not."
 7. **Design from Patterns to Details** — "Can't see the wood for the trees."
 8. **Integrate Rather Than Segregate** — "Many hands make light work."
 9. **Use Small and Slow Solutions** — "The bigger they are, the harder they
@@ -93,7 +93,7 @@ Holmgren's 12 principles, each with an associated proverb:
   (house) to Zone 5 (wilderness)
 - **Sector analysis** — Mapping external energies (sun, wind, fire, water,
   wildlife) influencing the site
-- **Pattern understanding** — Recognizing natural patterns (branching, spirals,
+- **[[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]]** — Recognizing natural patterns (branching, spirals,
   waves, nets) and applying them to design
 - **Element analysis** — Understanding inputs, outputs, and characteristics of
   each element
@@ -102,13 +102,13 @@ Holmgren's 12 principles, each with an associated proverb:
 
 ## Applications
 
-- **Food production**: Food forests, companion planting, keyhole gardens,
+- **Food production**: Food forests, [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]], keyhole gardens,
   integrated animal systems
-- **Water management**: Swales, keyline design, greywater, rainwater harvesting
+- **Water management**: Swales, keyline design, greywater, [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 - **Building design**: Passive solar, natural building, earth-sheltered
   structures
 - **Community economics**: Local currencies, cooperatives, CSA, skill-sharing
-- **Land restoration**: Erosion control, reforestation, soil building, watershed
+- **Land restoration**: [[permplant-willows-salix-erosion-control-fodder]], reforestation, soil building, watershed
   management
 - **Social systems**: Governance, conflict resolution, education
 
@@ -129,10 +129,15 @@ the most influential approaches to sustainable development.
 
 ## See Also
 
+- [[caulophyllum-thalictroides]]
+- [[dave-jacke]]
+- [[polygonum-multiflorum]]
+- [[schizochytrium-limacinum]]
+
 - [[david-holmgren]] — co-originator, articulator of the 12 principles
 - [[sepp-holzer-entity]] — Austrian permaculture innovator
-- [[robert-hart]] — pioneer of forest gardening
+- robert-hart — pioneer of forest gardening
 - [[eliot-coleman]] — four-season farming innovator
-- [[crataegus-monogyna]]
-- [[agrimonia-eupatoria]]
+- crataegus-monogyna
+- agrimonia-eupatoria
 - [[nasturtium-officinale]]

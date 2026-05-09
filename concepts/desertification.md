@@ -5,7 +5,8 @@ updated: 2026-04-15
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Desertification
 
@@ -20,7 +21,7 @@ drought.
 
 - **Overgrazing**: Removing vegetation cover faster than it can regenerate, exposing soil to wind and rain
 - **Deforestation**: Loss of tree cover reduces rainfall interception and soil stability, disrupting local hydrological cycles
-- **Poor irrigation practices**: Salt accumulation from improper [[masanobu-fukuoka]] observed that "rain does not fall from the heavens; it issues
+- **Poor irrigation practices**: [[jadam-salt-accumulation-in-soil]] from improper [[masanobu-fukuoka]] observed that "rain does not fall from the heavens; it issues
 forth from the ground. Deserts do not form because there is no rain; rather,
 rain ceases to fall because the vegetation has disappeared." This insight
 challenges conventional approaches that treat the symptom (lack of water)
@@ -42,9 +43,9 @@ context.
 ## Reversal Approaches
 
 - **Water harvesting**: Swales, contour bunds, micro-catchments to maximize infiltration
-- **Revegetation**: Pioneer species, nitrogen-fixing trees, seed ball broadcasting
+- **Revegetation**: Pioneer species, nitrogen-fixing trees, [[clay-pellet-seed-ball-method-for-desert-revegetation]] broadcasting
 - **Holistic grazing**: Mimicking natural herd movement patterns to stimulate plant growth
-- **Soil building**: Composting, biochar, mulching to restore organic matter
+- **Soil building**: Composting, biochar, mulching to restore [[hamilton-composting-and-organic-matter-management]]
 - **Windbreaks**: Tree and shrub belts to reduce wind erosion
 - **Land contouring**: [[mycorrhizal-inoculation]]**: Introducing beneficial fungi to restore soil biology and plant-fungal networks
 
@@ -60,7 +61,7 @@ resources.
 In arid and semi-arid environments, biological soil crusts (also called
 cryptogamic, microbiotic, or cryptobiotic crusts) play a critical role in
 stabilizing surfaces against wind and water erosion. These crusts are composed
-of cyanobacteria, mosses, lichens, green algae, and fungi that colonize the
+of cyanobacteria, mosses, lichens, [[cervantes-green-algae-growing-medium]], and fungi that colonize the
 soil surface. Cyanobacteria in particular secrete polysaccharides that bind
 soil particles together, forming a cohesive crust that resists erosion and
 improves water infiltration. When desertification degrades these biological

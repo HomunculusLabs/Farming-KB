@@ -1,5 +1,5 @@
 ---
-title: Fruit Vegetables Organic Growing
+title: hamilton fruit vegetables organic Organic Growing
 created: 2026-04-28
 tags:
   - organic-gardening
@@ -18,7 +18,7 @@ type: concept
 
 Fruit vegetables, including tomatoes, eggplants, and peppers, are some
 of the most rewarding crops in the organic garden. They generally
-belong in Plot A of the [[hamilton-organic-fertilizers-and-plant-nutrition]] every two weeks during the growing season.
+belong in Plot A of the [[hamilton-organic-fertilizers-and-plant-nutrition]] every two weeks during the [[savory-growing-season-and-non-growing-season-management]].
 
 ### Greenhouse Tomato Care
 
@@ -29,7 +29,7 @@ fruit cluster that is ripening. Hose down daily and shake the
 supporting wires to move the pollen around.
 
 When the plants reach the top of the greenhouse, pinch off the growing
-points. Feed with liquid fertilizer at every watering for best results.
+points. Feed with [[jadam-liquid-fertilizer-nutritional-perspective]] at every watering for best results.
 
 ### Outdoor Tomatoes
 
@@ -40,10 +40,10 @@ plants 2ft (60cm) apart. Stake them firmly and tie in the main stem.
 
 ### Greenhouse Cultivation
 
-In the cold greenhouse, plant outside in mid-spring, setting the
+In the [[coleman-cold-greenhouse-double-layer-protection]], plant outside in mid-spring, setting the
 plants 2ft to 2ft 6in (60-75cm) apart in the borders. Or grow them
 three to a growing bag, or put them into 8in (20cm) pots of
-worm-worked potting compost. Support the plants with short stakes and
+worm-worked [[hamilton-potting-compost-recipes-and-growing-media]]. Support the plants with short stakes and
 feed at every watering.
 
 Pinch off the top of the plant when it is about 12in (30cm) tall, and
@@ -61,7 +61,7 @@ sweetest possible flavor, cut the fruits when the flesh is most shiny.
 Peppers are slightly easier to grow than eggplants in cold climates,
 though it is still worthwhile providing cloche protection. Red peppers
 are the same varieties as green, but are left to ripen longer. Hot
-peppers, or "chili peppers," are smaller and considerably hotter.
+peppers, or "[[query-how-to-grow-chili-peppers-from-seed-to-harvest]]," are smaller and considerably hotter.
 
 ### Varieties
 

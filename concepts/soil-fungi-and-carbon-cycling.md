@@ -14,13 +14,13 @@ Soil fungi are primary drivers of the terrestrial carbon cycle, mediating the
 decomposition of organic matter, the formation of stable soil carbon pools, and
 the flux of carbon dioxide between terrestrial ecosystems and the atmosphere.
 Understanding fungal contributions to carbon cycling is critical for predicting
-how ecosystems will respond to climate change and for developing accurate
+how ecosystems will respond to [[dighton-fungi-climate-change-feedback]] and for developing accurate
 global carbon models.
 
 ## The Fungal Carbon Pump
 
 The concept of the "fungal carbon pump" parallels the microbial carbon pump
-described for marine ecosystems. Fungi transform labile plant carbon inputs
+described for [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]]. Fungi transform labile plant carbon inputs
 into more recalcitrant forms that persist in soil for decades to centuries.
 This transformation occurs through several mechanisms: selective degradation
 of easily metabolized compounds, leaving resistant residues; production of
@@ -45,15 +45,15 @@ completely to CO2 and water. This pathway releases substantial carbon to the
 atmosphere but leaves behind mineral-associated organic matter with long
 residence times.
 
-Brown-rot fungi lack peroxidases and instead employ Fenton chemistry to
+Brown-rot fungi lack peroxidases and instead employ [[bioremediation-fenton-chemistry-brown-rot-fungi]] to
 depolymerize cellulose while partially modifying lignin into polyphenolic
 compounds. These residues form the basis of humus and contribute to long-term
-carbon storage. The brown-rot pathway is considered one of the primary
+[[holmgren-soil-humus-carbon-storage-rebuilding]]. The brown-rot pathway is considered one of the primary
 mechanisms by which carbon is sequestered in forest soils.
 
 ## Mycorrhizal Carbon Dynamics
 
-Mycorrhizal fungi receive 10-20% of total net primary production as
+Mycorrhizal fungi receive 10-20% of total net [[lichens-primary-production-soil-formation-dighton]] as
 carbohydrates from their host plants. This carbon flux, estimated at 5-10
 gigatons per year globally, represents one of the largest carbon transfers
 in the terrestrial biosphere. A significant portion of this carbon is
@@ -93,11 +93,13 @@ predictions of future carbon-climate feedbacks.
 
 Advances in biomarker analysis, particularly the use of ergosterol and
 phospholipid fatty acid signatures, along with molecular tools like
-metatranscriptomics and stable isotope probing, are improving our ability to
+metatranscriptomics and [[fungal-stable-isotope-ecology]] probing, are improving our ability to
 track carbon through fungal pathways in situ.
 
 ## See Also
 
-- [[mycorrhizal-symbiosis]]
+- [[dighton-fungi-elevated-co2-global-carbon-cycling]]
+
+- mycorrhizal-symbiosis
 - [[brown-rot-and-white-rot-fungi-in-mycoremediation]]
 - [[soil-food-web-nutrient-cycling]]

@@ -3,18 +3,14 @@ title: Nematophagous Fungi
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, biocontrol]
+tags: [mycology, biocontrol]
 sources: []
 ---
-# Nematophagous Fungi
-
-Nematophagous fungi are a diverse guild of fungal species that obtain part or all of their nutrition by attacking and consuming living microscopic invertebrates, principally nematodes and rotifers. The existence of fungi using this nutritional mode was first revealed through the detailed studies of Charles Drechsler (1933, 1941a, 1941b, 1941c), who described fungi that attack nematodes and other microfauna by means of specialized trapping devices.
-
-More than 300 recognized species of nematode- and rotifer-destroying fungi are now known, distributed across the Ascomycota, Basidiomycota, Chytridiomycota, and Zygomycota, as well as the fungus-like phylum Oomycota. These fungi play important roles in [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] literature.
+# Nematophagous Fungi Nematophagous fungi are a diverse guild of fungal species that obtain part or all of their nutrition by attacking and consuming living microscopic invertebrates, principally nematodes and rotifers. The existence of fungi using this nutritional mode was first revealed through the detailed studies of Charles Drechsler (1933, 1941a, 1941b, 1941c), who described fungi that attack nematodes and other microfauna by means of specialized trapping devices. More than 300 recognized species of nematode- and rotifer-destroying fungi are now known, distributed across the Ascomycota, Basidiomycota, Chytridiomycota, and Zygomycota, as well as the fungus-like phylum Oomycota. These fungi play important roles in [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] literature.
 
 ## Strategies of Nematode Attack
 
-Fungal parasites and predators of microfauna employ three fundamental modes of existence: predation, parasitism of adult invertebrates, and parasitism of invertebrate eggs and cysts. The two primary strategies relevant to adult nematodes are endoparasitism and predation.
+[[bloomfield-fungal-parasites-of-insects]] and predators of microfauna employ three fundamental modes of existence: predation, parasitism of adult invertebrates, and parasitism of invertebrate eggs and cysts. The two primary strategies relevant to adult nematodes are endoparasitism and predation.
 
 ### Endoparasites
 
@@ -24,7 +20,7 @@ Each spore is capable of attacking only one animal, so one mycelial individual i
 
 ### Predators
 
-Predatory species form extensive mycelial networks in the substratum and capture many animal prey per mycelial individual. The hyphae give rise to trapping devices — adhesive knobs, adhesive nets, constricting rings, and nonconstricting rings — which are used to attract and capture nematodes.
+Predatory species form extensive [[fungal-mycelial-networks-nutrient-translocation]] in the substratum and capture many animal prey per mycelial individual. The hyphae give rise to trapping devices — adhesive knobs, adhesive nets, constricting rings, and nonconstricting rings — which are used to attract and capture nematodes.
 
 Once an animal is captured, the capture organ produces one or more penetration pegs that pierce the animal's cuticle and then germinate, forming digestive hyphae within the body. Predatory species generally produce noninfective conidia on their external mycelium, distinguishing them from endoparasites.
 
@@ -58,9 +54,9 @@ The discovery that fungi of the Arthrobotrys complex are anamorphs of species of
 
 ## Pleurotus as Nematode Predators
 
-Species of the genus Pleurotus (oyster mushrooms) are notable among nematode predators because they are macroscopic, edible fungi that also possess nematode-destroying capabilities. All species of Pleurotus and some species of Hyphoderma are predaceous on nematodes (Liou and Tzean 1992; Tzean and Liou 1993; Thorn et al. 2000). These fungi would not be recovered using standard soil baiting techniques described for microscopic predators. Species of Pleurotus, Hyphoderma, and other macroscopic fungi that are putative nematode predators should be collected and cultured using standard methods for macrofungi. Once a culture is established, the isolate can be challenged with nematodes by growing it on water agar and adding a few drops of nematode culture.
+Species of the genus Pleurotus ([[query-how-to-grow-oyster-mushrooms-at-home]]) are notable among nematode predators because they are macroscopic, edible fungi that also possess nematode-destroying capabilities. All species of Pleurotus and some species of Hyphoderma are predaceous on nematodes (Liou and Tzean 1992; Tzean and Liou 1993; Thorn et al. 2000). These fungi would not be recovered using standard soil baiting techniques described for microscopic predators. Species of Pleurotus, Hyphoderma, and other macroscopic fungi that are putative nematode predators should be collected and cultured using standard methods for macrofungi. Once a culture is established, the isolate can be challenged with nematodes by growing it on water agar and adding a few drops of nematode culture.
 
-This connection between commonly cultivated mushrooms and [[fungal-pest-control]].
+This connection between commonly [[fungi-cultivated-mushrooms-pathogens-competitors]] and [[fungal-pest-control]].
 
 The development of commercial formulations containing nematophagous fungi for application to agricultural soils continues to be an active area of research, with challenges including survival of inoculum in soil, competition with native microorganisms, and consistency of control across different environmental conditions.
 
@@ -87,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

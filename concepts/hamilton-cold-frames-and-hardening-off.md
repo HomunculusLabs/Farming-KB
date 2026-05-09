@@ -1,5 +1,5 @@
 ---
-title: Cold Frames and Hardening Off Plants
+title: hamilton cold frames and hardening off and Hardening Off Plants
 created: 2026-04-28
 tags:
   - organic-gardening
@@ -16,13 +16,13 @@ type: concept
 
 # Cold Frames and Hardening Off Plants
 
-A cold frame is an important piece of equipment, especially if you use
-the [[geoff-hamilton]] advocated a layered approach to season extension, starting
+[[query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel]] is an important piece of equipment, especially if you use
+the [[geoff-hamilton]] advocated a layered approach to [[comparison-season-extension-techniques-vs-cold-frame-gardening]], starting
 with the simplest methods (cloches) and progressing to more permanent
 structures (greenhouses, polytunnels). Cold frames occupy the middle
 ground: affordable, movable, and effective for bridging the shoulder
 seasons. They embody the organic principle of working with natural
-processes rather than against them, using solar energy and thermal mass
+processes rather than against them, using [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] and thermal mass
 to create favourable growing conditions without fuel inputs.
 
 In combination with [[hamilton-greenhouse-management-organic]]
@@ -105,4 +105,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

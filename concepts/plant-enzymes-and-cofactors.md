@@ -9,7 +9,7 @@ sources: []
 
 # Plant Enzymes and Cofactors
 
-Enzymes are proteins that act as catalysts, dramatically speeding up chemical reactions in plant cells. Without enzymes, the biochemical reactions necessary for life would be millions of times too slow to sustain living processes. Every aspect of plant metabolism -- photosynthesis, respiration, nutrient uptake, protein synthesis -- depends on enzymatic activity.
+Enzymes are proteins that act as catalysts, dramatically speeding up chemical reactions in plant cells. Without enzymes, the biochemical reactions necessary for life would be millions of times too slow to sustain living processes. Every aspect of plant metabolism -- photosynthesis, respiration, [[plant-nutrient-uptake-mechanisms]], protein synthesis -- depends on enzymatic activity.
 
 ## How Enzymes Work
 
@@ -27,15 +27,15 @@ Enzymes are highly specific. Each enzyme typically catalyzes only one type of re
 
 ### The Active Site
 
-The active site is the specific region of the enzyme where the substrate binds. This pocket or cleft is formed by the folding of the protein chain and contains amino acid residues positioned to interact chemically with the substrate. Even slight changes in the active site's shape — caused by mutations, pH shifts, or temperature extremes — can destroy enzyme function.
+The active site is the specific region of the enzyme where the substrate binds. This pocket or cleft is formed by the folding of the protein chain and contains [[cho-fish-amino-acid-preparation]] residues positioned to interact chemically with the substrate. Even slight changes in the active site's shape — caused by mutations, pH shifts, or temperature extremes — can destroy enzyme function.
 
 ## Major Enzyme Classes in Plants
 
-Plants employ enzymes from all six major classes recognized by biochemists:
+Plants employ enzymes from all six [[ascomycota-phylogeny-major-classes-lineages]] recognized by biochemists:
 
 - **Oxidoreductases**: Catalyze oxidation-reduction reactions; essential for photosynthesis and respiration
 - **Transferases**: Move functional groups between molecules; critical for amino acid and sugar metabolism
-- **Hydrolases**: Break bonds by adding water; include proteases, lipases, and amylases that break down macromolecules
+- **Hydrolases**: Break bonds by adding water; include proteases, lipases, and amylases that [[query-can-fungi-break-down-plastic-pollution]] macromolecules
 - **Lyases**: Add or remove groups to form double bonds; involved in decarboxylation reactions
 - **Isomerases**: Rearrange atoms within molecules; convert glucose to fructose and other isomers
 - **Ligases**: Join molecules using ATP energy; essential for DNA repair and synthesis
@@ -63,13 +63,13 @@ This is why micronutrient deficiencies have cascading effects throughout plant m
 
 ## The Energy Cost of Enzymes
 
-Producing enzymes is expensive for the plant. Each enzyme requires amino acids (nitrogen), ATP for assembly, and specific cofactors. The plant must constantly synthesize new enzymes as old ones degrade. This energy investment underscores why nutrient availability directly affects plant health -- without the building blocks for enzymes, metabolic processes grind to a halt.
+Producing enzymes is expensive for the plant. Each enzyme requires amino acids (nitrogen), ATP for assembly, and specific cofactors. The plant must constantly synthesize new enzymes as old ones degrade. This energy investment underscores why [[ph-and-nutrient-availability-garden-soils]] directly affects plant health -- without the building blocks for enzymes, metabolic processes grind to a halt.
 
 ### Soil Biology and Enzyme Availability
 
 The [[adenosine-triphosphate-and-cellular-energy]] -- energy source for enzyme-driven reactions
 - [[temperature-effects-plant-nutrient-uptake]] -- how temperature affects enzyme activity
-- [[soil-microbiology-basics]] -- microbial enzymes in soil nutrient cycling
+- [[soil-microbiology-basics]] -- microbial enzymes in soil [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 ## Practical Considerations
 
 Successful implementation of Plant Enzymes and Cofactors requires attention to
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

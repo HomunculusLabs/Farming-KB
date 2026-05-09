@@ -1,5 +1,5 @@
 ---
-title: Growing Vegetables with Less Fertilizer
+title: container-growing-vegetables-herbs with Less Fertilizer
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -33,7 +33,7 @@ Steve Solomon advocates for a balanced approach to soil fertility that maximizes
 ## The Ley System (Long-Term Fertility)
 
 ### Concept
-- Rotate between vegetable garden and grass/clover pasture (ley)
+- Rotate between [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] and grass/clover pasture (ley)
 - 3-5 years of ley restores soil fertility naturally
 - Grass sod builds soil structure; clover fixes nitrogen
 - No imported fertilizer needed during ley phase
@@ -41,13 +41,13 @@ Steve Solomon advocates for a balanced approach to soil fertility that maximizes
 ### Implementation
 - Year 1-4: Grass and clover ley (mow regularly, leave clippings)
 - Year 5: Till in the sod (massive organic matter addition)
-- Year 5-8: Intensive vegetable production using soil reserves
+- Year 5-8: Intensive [[dry-gardening-unirrigated-vegetable-production-solomon]] using soil reserves
 - Year 9: Return to ley
 
 ### Benefits
 - Eliminates need for compost or imported fertilizer
 - Rebuilds soil structure better than any amendment
-- Breaks pest and disease cycles
+- Breaks [[hamilton-pest-and-disease-control-organic]] cycles
 - Provides grazing or hay during ley years
 
 ## Balanced Mineral Nutrition
@@ -95,8 +95,8 @@ Steve Solomon advocates for a balanced approach to soil fertility that maximizes
 - Build soil biology (compost, mulch, cover crops) — biology makes nutrients available
 - Use nitrogen-fixing cover crops (clover, vetch, peas, beans)
 - Return all crop residues to the soil
-- Use dynamic accumulators (comfrey, yarrow) to mine deep nutrients
-- Minimize tillage (preserves mycorrhizal networks)
+- Use [[comparison-dynamic-accumulators-vs-cover-crops]] (comfrey, yarrow) to mine deep nutrients
+- Minimize tillage (preserves [[dighton-mycorrhizal-networks-carbon-transfer]])
 - Keep soil covered (mulch, cover crops — prevent erosion and leaching)
 
 ## Related

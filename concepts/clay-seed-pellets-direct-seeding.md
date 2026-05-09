@@ -19,7 +19,7 @@ type: concept
 
 # Clay Seed Pellets for Direct Seeding
 
-Clay seed pellets are a core technology in Fukuoka's natural farming system and the centerpiece of his visionary proposal for revegetating the world's deserts. Seeds are coated in layers of soil and clay to form small pellets that protect the seeds from predation, regulate germination timing, and enable broadcasting over unworked land. This simple technique eliminates the need for seed beds, transplanting, and most conventional seeding equipment.
+Clay seed pellets are a core technology in Fukuoka's [[comparison-natural-farming-vs-permaculture]] system and the centerpiece of his visionary proposal for revegetating the world's deserts. Seeds are coated in layers of soil and clay to form small pellets that protect the seeds from predation, regulate germination timing, and enable broadcasting over unworked land. This simple technique eliminates the need for seed beds, transplanting, and most conventional seeding equipment.
 
 ## Construction of Clay Pellets
 
@@ -77,13 +77,13 @@ He initially tried increasing seeding area by 25, 30, and 40 percent, then sowin
 
 ## Fukuoka's Discovery of Natural Seeding
 
-The original inspiration came from an observation during Fukuoka's work on the yellow rice borer eradication program in Kochi Prefecture. While passing through a pine wood at Kotogahama, he spotted young rice seedlings sprouting from unhulled seed spilled where farmers had threshed rice the year before. This "volunteer rice" — rice that planted itself and overwintered — led to his method of biennial cultivation and eventually to the clay pellet system.
+The original inspiration came from an observation during Fukuoka's work on the yellow rice borer eradication program in Kochi Prefecture. While passing through a pine wood at Kotogahama, he spotted young rice seedlings sprouting from unhulled seed spilled where farmers had threshed rice the year before. This "volunteer rice" — rice that planted itself and overwintered — led to his method of [[fukuoka-textdoc-perennial-rice-biennial-cultivation-exploration]] and eventually to the clay pellet system.
 
 Once he noticed this phenomenon, he began seeing it everywhere: overwintered rice germinating from seed still attached to rice straw. Nature was "planting without sowing seed." The clay pellet was simply Fukuoka's way of imitating and facilitating this natural process.
 
 ## Limitations and Considerations
 
-Clay pellet technology has limitations that must be acknowledged. Pellet production is labor-intensive if done by hand, though it can be mechanized. Seed viability varies with storage conditions and pellet composition. Germination rates in desert applications are inherently unpredictable and require patience across multiple growing seasons.
+Clay pellet technology has limitations that must be acknowledged. Pellet production is labor-intensive if done by hand, though it can be mechanized. Seed viability varies with [[vegetable-storage-conditions-by-temperature-and-humidity]] and pellet composition. Germination rates in desert applications are inherently unpredictable and require patience across multiple growing seasons.
 
 The approach also requires knowledge of appropriate seed mixtures for specific climates and soil types. Fukuoka's approach was to include maximum diversity and let natural selection determine which species establish, but this means initial sowings will have low and unpredictable germination rates. He acknowledged that one cannot know in advance which plant was the first to die off in a land turned to desert, nor whether to begin by planting the first type of vegetation to disappear or the last to survive.
 
@@ -101,9 +101,9 @@ The critical management technique is the brief flooding of the paddy in late May
 
 ## Forage and Vegetable Applications
 
-Fukuoka extended the clay pellet technique beyond grains. He used it to establish forage crops in orchards, broadcasting pellets containing clover, alfalfa, and bur clover seeds. He also used it for vegetable gardening, mixing seeds of different vegetables into the same pellet — daikon, radish, cabbage, mustard, and others — and scattering them into standing rice straw or into a clover cover crop. The vegetables would emerge at different times and in different micro-locations, creating a natural polyculture without any formal planting, tilling, or weeding.
+Fukuoka extended the clay pellet technique beyond grains. He used it to establish forage crops in orchards, broadcasting pellets containing clover, alfalfa, and bur clover seeds. He also used it for [[home-vegetable-garden-planning]], mixing seeds of different vegetables into the same pellet — daikon, radish, cabbage, mustard, and others — and scattering them into standing rice straw or into a clover cover crop. The vegetables would emerge at different times and in different micro-locations, creating a natural polyculture without any formal planting, tilling, or weeding.
 
-This approach turned vegetable growing into an almost effortless process. Instead of carefully preparing seedbeds, transplanting seedlings, and weeding rows, the farmer simply scattered pellets at the appropriate season and harvested whatever emerged. Yields per plant were lower than in a carefully tended garden, but total productivity per unit of labor was much higher, and the ecological benefits of diverse planting were substantial.
+This approach turned [[fukuoka-semi-wild-vegetable-growing-natural-method]] into an almost effortless process. Instead of carefully preparing seedbeds, transplanting seedlings, and weeding rows, the farmer simply scattered pellets at the appropriate season and harvested whatever emerged. Yields per plant were lower than in a carefully tended garden, but total productivity per unit of labor was much higher, and the ecological benefits of diverse planting were substantial.
 
 ## Mechanical Pellet Production
 
@@ -124,7 +124,7 @@ The clay pellet provides advantages that bare seed cannot: protection from birds
 - [[fukuoka-four-principles-of-natural-farming]]
 - [[natural-farming-vs-scientific-agriculture]]
 - Direct-Seeded Rice-Barley Succession
-- Seed Dormancy and Germination Triggers
+- Seed Dormancy and [[spore-germination-triggers-and-dormancy-breaking]]
 - Broadcast Seeding Techniques
 - Happy Hill Rice Variety
 - Green Manure and Cover Cropping

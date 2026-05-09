@@ -12,7 +12,7 @@ type: concept
 
 One of Julius Palmer's most persistent campaigns was against the
 various "tests" and "rules" that the public believed could distinguish
-edible mushrooms from poisonous ones. He declared unequivocally that
+[[palmer-edible-mushrooms-north-america]] from poisonous ones. He declared unequivocally that
 "no test of any kind, in form, shape, color, basis of growth, or
 experimental action, will distinguish healthful from harmful fungi."
 
@@ -69,7 +69,7 @@ bitter or having fetid smell, those changing color when bruised, or
 marked by a snail's trail, could under no circumstances be eaten.
 
 Palmer methodically refuted each point: damp, dark places produced
-"the very best mushrooms"; the edible fairy-ring champignon had a very
+"the very [[query-what-are-the-best-mushrooms-for-beginners-to-grow]]"; the edible fairy-ring champignon had a very
 thin cap; the elm-tree mushroom had an eccentric stem; several
 [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]) turned to ink; many
 edible boletus-edulis|Boleti changed color when bruised.
@@ -127,5 +127,10 @@ toadstool." The curse of mycology, he declared, had always been
 tradition perpetuated by those who wrote without personal acquaintance
 with a single toadstool.
 
-See also: [[mushroom-identification]],
+See also: mushroom-identification,
 [[ramsbottom-poisonous-fungi-identification-guide]]
+
+## See Also
+
+- mushroom-identification-myth-infallible-tests
+- [[palmer-mushroom-vs-toadstool-terminology]]

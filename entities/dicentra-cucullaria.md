@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Ownbey, G.B. (1947). "A Monograph of the North American Species of Dicentra." Brittonia, 6(1), 1–53.
+  - Ownbey, G.B. (1947). "A Monograph of the growing-gourmet-north-american-reishi-species Species of Dicentra." Brittonia, 6(1), 1–53.
   - Kindscher, K. (1992). *Medicinal Wild Plants of the Prairie.* University Press of Kansas.
   - Facchini, P.J. (2001). "Alkaloid Biosynthesis in Plants: Biochemistry, Cell Biology, Molecular Regulation, and Metabolic Engineering Applications." Annual Review of Plant Physiology and Plant Molecular Biology, 52, 29–66.
   - USDA NRCS (2023). "Dicentra cucullaria — Plant Guide." plants.usda.gov.
@@ -19,13 +19,13 @@ sources:
 
 ## Overview
 
-**Dicentra cucullaria**, commonly known as Dutchman's breeches, is a perennial herbaceous plant native to the deciduous woodlands of eastern North America.
+**Dicentra cucullaria**, commonly known as Dutchman's breeches, is a perennial herbaceous plant native to the deciduous woodlands of [[polypore-fungi-eastern-north-america]] America.
 
 It is one of the most recognizable spring ephemerals, named for its distinctive white, pantaloon-shaped flowers that dangle from arching stems.
 
 The species is a member of the poppy family (Papaveraceae) and contains isoquinoline alkaloids similar to those found in its relative, the opium poppy.
 
-Dutchman's breeches is an important early-season nectar source for native bees, particularly long-tongued bumblebees.
+Dutchman's breeches is an important early-season nectar source for [[query-how-to-attract-native-bees-and-beneficial-insects]], particularly long-tongued bumblebees.
 
 ## Taxonomy and Morphology
 
@@ -52,7 +52,7 @@ It extends into the Ozark Mountains of Arkansas and Missouri.
 
 The species is most abundant in rich, moist, deciduous forests on north-facing slopes and in floodplain terraces.
 
-It prefers loamy soils high in organic matter with a pH of 5.5–7.0.
+It prefers loamy soils high in [[hamilton-composting-and-organic-matter-management]] with a pH of 5.5–7.0.
 
 Elevation ranges from near sea level to approximately 1200 m.
 
@@ -112,4 +112,4 @@ Under garden conditions, Dutchman's breeches naturalizes readily and can form ex
 - [[sanguinaria-canadensis]]
 - [[datura-stramonium]]
 - [[hydrastis-canadensis]]
-- [[actaea-racemosa]]
+- actaea-racemosa

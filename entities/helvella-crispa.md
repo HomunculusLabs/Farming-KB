@@ -20,7 +20,7 @@ updated: 2026-04-28
 sources:
   - Kuo, M. (2024). "Helvella crispa." MushroomExpert.com.
   - Breitenbach, J. & Kränzlin, F. (1984). Fungi of Switzerland, Vol. 1. Verlag Mykologia.
-  - Denison, W.C. (1968). "The genus Helvella in North America." Mycologia 60(5): 1013-1037.
+  - Denison, W.C. (1968). "The genus Helvella in [[psilocybin-north-america-pacific-northwest]]." Mycologia 60(5): 1013-1037.
   - https://www.mushroomexpert.com/helvella_crispa.html
 ---
 
@@ -106,7 +106,7 @@ and consumed.
 
 *Helvella crispa* is likely ectomycorrhizal, forming associations with hardwood trees in forest
 ecosystems. Evidence for mycorrhizal status in Helvellaceae is growing, though some species may
-also be saprotrophic on woody debris. The species contributes to nutrient cycling in forest soils
+also be saprotrophic on [[fungal-succession-woody-debris-ecology]]. The species contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest soils
 and serves as a food source for various invertebrates and small mammals.
 
 ## Similar Species

@@ -34,7 +34,7 @@ Hyperspace in McKenna's framework is not a speculative physics concept but a phe
 - The presence of [[psilocybin]] trance
 - The [[philip-k-dick-valis-and-psychedelic-mysticism]]'s novel Valis for the concept of the Logos as a "creature of pure information" that was buried at Nag Hammadi along with the Chenoboskion Library circa 370 A.D.
 
-The Logos existed as static information until 1947, when the Nag Hammadi texts were translated and read, bringing the symbiotic intelligence back to life. This parallels the rediscovery of psilocybin mushrooms by the Wassons in the 1950s, which "unleashed" a consciousness that had been driven into hiding.
+The Logos existed as static information until 1947, when the Nag Hammadi texts were translated and read, bringing the symbiotic intelligence back to life. This parallels the rediscovery of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] by the Wassons in the 1950s, which "unleashed" a consciousness that had been driven into hiding.
 
 ## The Future Belongs to the Mind
 
@@ -62,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

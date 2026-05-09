@@ -26,17 +26,17 @@ The gills are free to slightly adnexed, crowded, and white, becoming cream-color
 The stipe is 6 to 12 cm tall and 1 to 2 cm thick, white to pale cream, cylindrical, and clavate at the base. It features a prominent, membranous, hanging annulus (ring) that is white with a brownish margin on the upper surface. The base is bulbous and surrounded by a sac-like volva that is white to cream, often with 2 to 3 concentric zones.
 
 ### Flesh and Spores
-The flesh is white and does not change color when cut. The odor is mild to slightly radish-like. Spore print is white. Basidiospores are broadly ellipsoid to globose, 8 to 12 by 6 to 9 µm, smooth, amyloid, and non-guttulate.
+The flesh is white and does not change color when cut. The odor is mild to slightly radish-like. [[comparison-spore-print-collection-vs-spore-syringe-production]] is white. Basidiospores are broadly ellipsoid to globose, 8 to 12 by 6 to 9 µm, smooth, amyloid, and non-guttulate.
 
 ## Distribution and Habitat
 
-Amanita pantherina has a broad distribution across temperate regions of the Northern Hemisphere. It is found throughout Europe, from the Mediterranean to Scandinavia, across much of Asia including Japan and China, and in North America. In the southern hemisphere it has been reported from Australia, likely introduced with ectomycorrhizal host trees.
+Amanita pantherina has a broad distribution across temperate regions of the Northern Hemisphere. It is found throughout Europe, from the Mediterranean to Scandinavia, across much of Asia including Japan and China, and in [[psilocybin-north-america-pacific-northwest]]. In the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] it has been reported from Australia, likely introduced with ectomycorrhizal host trees.
 
 The species is ectomycorrhizal, forming associations primarily with coniferous trees, especially species of Pinus, Picea, and Abies, as well as broadleaf trees such as Quercus and Betula. It fruits singly or in scattered groups from late summer through autumn, preferring acidic to neutral soils in mixed and coniferous forests, woodland edges, and sometimes parks and gardens.
 
 ## Chemistry and Pharmacology
 
-The primary bioactive compounds in Amanita pantherina are amanita-muscaria-and-ibotenic-acid-fungi and muscimol. Ibotenic acid is a potent glutamate receptor agonist acting primarily on metabotropic glutamate receptors (mGluRs) and ionotropic AMPA and kainate receptors. It acts as an excitotoxin at high doses, causing overstimulation of neurons.
+The primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in Amanita pantherina are amanita-muscaria-and-ibotenic-acid-fungi and muscimol. [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] is a potent glutamate receptor agonist acting primarily on metabotropic glutamate receptors (mGluRs) and ionotropic AMPA and kainate receptors. It acts as an excitotoxin at high doses, causing overstimulation of neurons.
 
 Muscimol, the decarboxylated product of ibotenic acid, is the principal psychoactive compound. It is a selective GABA-A receptor agonist, producing sedative, hypnotic, and hallucinatory effects. The conversion of ibotenic acid to muscimol occurs through decarboxylation, which can be accelerated by drying or heating the mushroom tissue.
 

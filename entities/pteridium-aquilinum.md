@@ -13,7 +13,7 @@ updated: 2026-05-08
 sources:
   - R. M. Tryon (1968). "A monograph of the genus Pteridium." Contributions from the Gray Herbarium.
   - Fenwick, G. R. (1988). "Bracken (Pteridium aquilinum) — toxic effects and edible potential." Toxicon, 26(8), 799–810.
-  - Taylor, J. A. (2006). "Bracken fern: distribution, ecology and control." Invasive Plant Science and Management.
+  - Taylor, J. A. (2006). "[[dynamic-accumulator-bracken-fern-potash]]: distribution, ecology and control." Invasive Plant Science and Management.
   - Gil, L. & Adan, M. P. (2014). "Pteridium aquilinum: a review of its traditional uses, phytochemistry, and pharmacology." Journal of Ethnopharmacology, 152(2), 317–331.
   - Pakeman, R. J. et al. (2000). "Bracken (Pteridium aquilinum) control and vegetation restoration." Applied Vegetation Science, 3(2), 195–204.
 ---
@@ -28,7 +28,7 @@ Bracken is a large, coarse fern that can form extensive monocultures through its
 
 Pteridium aquilinum belongs to the family Dennstaedtiaceae within the order Polypodiales. The species was first described by Carl Linnaeus in 1753 as Pteris aquilina and later transferred to Pteridium by Johann Friedrich Kaulfuss in 1824.
 
-Several infraspecific taxa are recognized, with Pteridium aquilinum subsp. aquilinum occurring in Europe and western Asia, and subsp. latiusculum in eastern North America. Additional subspecies are found in tropical and subtropical regions of Asia, Africa, and the Americas.
+Several infraspecific taxa are recognized, with Pteridium aquilinum subsp. aquilinum occurring in Europe and western Asia, and subsp. latiusculum in [[polypore-fungi-eastern-north-america]] America. Additional subspecies are found in tropical and subtropical regions of Asia, Africa, and the Americas.
 
 Fronds grow to 0.5–2.5 meters in height, arising from a deep, creeping rhizome that can extend several meters horizontally. The rhizome is dark, scaly, and densely covered in dark hairs, forming an extensive underground network.
 
@@ -48,7 +48,7 @@ It colonizes a wide range of habitats including open woodlands, heathlands, moor
 
 Optimal growth occurs on acidic, well-drained soils with pH 4.5–5.5, though it tolerates a broad soil spectrum. Full sun to partial shade conditions favor its spread, and it is particularly aggressive on sandy, nutrient-poor soils.
 
-Bracken shows moderate tolerance to heavy metals and has been observed colonizing metalliferous mine spoil and contaminated soils. This tolerance has prompted research into its potential use in phytoremediation of lead- and copper-contaminated sites, though practical applications remain limited.
+Bracken shows moderate tolerance to [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] and has been observed colonizing metalliferous mine spoil and contaminated soils. This tolerance has prompted research into its potential use in phytoremediation of lead- and copper-contaminated sites, though practical applications remain limited.
 
 In many temperate regions, bracken has expanded dramatically over the past century due to changes in land management. Reduction of traditional grazing and hay-cutting practices has allowed it to dominate large areas of upland pasture and moorland.
 
@@ -86,7 +86,7 @@ Nutritionally, bracken fiddleheads provide modest amounts of vitamins A and C, p
 
 ## Ecological Role
 
-Bracken fern plays a significant ecological role in many ecosystems as both a habitat provider and a competitive dominant. Its dense frond canopy shades out competing vegetation, while the thick litter layer inhibits seed germination and seedling establishment of other species.
+Bracken fern plays a significant ecological role in many ecosystems as both a habitat provider and a competitive dominant. Its dense frond canopy shades out competing vegetation, while the thick litter layer inhibits [[cannabis-seed-germination-methods]] and seedling establishment of other species.
 
 The extensive rhizome system contributes to soil stabilization on slopes and disturbed sites. However, the same rhizome network can make bracken extremely difficult to eradicate once established, as it regenerates readily from fragmented rhizome sections.
 
@@ -94,13 +94,15 @@ Bracken provides cover and foraging habitat for various birds, small mammals, an
 
 In fire-prone ecosystems, bracken contributes to fuel loads due to its accumulation of dry frond material. The fern itself resprouts vigorously after fire, often expanding its coverage at the expense of slower-growing woody species.
 
-Control methods include repeated cutting, herbicide application (asulam, glyphosate), and encouraging competitive vegetation through reseeding and grazing management. Biological control has been investigated but no effective agents have been deployed at scale.
+Control methods include repeated cutting, herbicide application (asulam, glyphosate), and encouraging competitive vegetation through reseeding and grazing management. [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] has been investigated but no effective agents have been deployed at scale.
 
-Bracken litter decomposition is slow due to high lignin and phenolic content, leading to deep accumulations of undecomposed material that alter soil chemistry. This creates a thick mor humus layer with low pH and reduced microbial activity, further favoring bracken over competing vegetation.
+Bracken [[dighton-pine-needle-litter-decomposition-fungal-succession]] is slow due to high lignin and phenolic content, leading to deep accumulations of undecomposed material that alter soil chemistry. This creates a thick mor humus layer with low pH and reduced microbial activity, further favoring bracken over competing vegetation.
 
 In succession dynamics, bracken is typically a mid-successional species that colonizes after disturbance but may persist indefinitely where fire frequency or grazing regimes prevent woody encroachment. Its persistence creates a semi-stable community type known as bracken heath or bracken fernland in many temperate regions.
 
 ## See Also
+
+- [[onoclea-sensibilis]]
 
 - [[lycopodium-clavatum]]
 - [[allium-ursinum]]

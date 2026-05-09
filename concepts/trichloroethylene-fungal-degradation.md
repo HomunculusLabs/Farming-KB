@@ -1,5 +1,5 @@
 ---
-title: "Trichloroethylene Degradation by Fungi"
+title: "Trichloroethylene query-how-does-lignin-degradation-by-fungi-work"
 created: 2026-04-28
 tags: [bioremediation, TCE, chlorinated-solvents, white-rot-fungi, groundwater]
 date: 2026-04-25
@@ -14,7 +14,7 @@ type: concept
 Trichloroethylene (TCE) is a volatile aliphatic halocarbon compound widely
 used as an industrial degreasing solvent and as a chemical precursor in
 manufacturing processes. TCE is recognized as one of the most important
-pollutants of soils, air, and aquifers, particularly in the United States,
+pollutants of soils, air, and aquifers, particularly in the [[dmt-containing-plants-united-states-halpern]],
 where extensive groundwater contamination has resulted from decades of
 industrial use and improper disposal. TCE is classified as a suspected
 carcinogen, and chronic exposure is associated with cardiac and neurological
@@ -40,19 +40,19 @@ several well-characterized pathways. Aerobic bacteria such as methanotrophs
 and propane-oxidizing bacteria cometabolize TCE using methane or propane
 monooxygenases. Anaerobic reductive dechlorination by Dehalococcoides and
 related organisms sequentially removes chlorine atoms from TCE, ultimately
-producing ethene. Fungal degradation offers a complementary approach that
+producing ethene. [[singh-fungal-degradation-endocrine-disrupting-compounds]] offers a complementary approach that
 may be advantageous under certain environmental conditions. The ability of
 fungi to function under nutrient-rich conditions, unlike the nutrient-
 limited conditions required for ligninolytic activity, may make fungal
 systems more suitable for treatment of mixed-waste streams containing both
-TCE and readily metabolizable organic compounds.
+TCE and readily metabolizable [[fungal-volatile-organic-compounds-communication]].
 
 ## Environmental Significance of TCE Contamination
 
 TCE contamination poses unique environmental challenges due to the
 compound's physical and chemical properties. As a dense non-aqueous phase
 liquid, TCE sinks through groundwater and accumulates above impermeable
-layers, creating long-term contamination sources that slowly dissolve into
+layers, creating long-term [[stamets-contamination-sources-laboratory-hygiene]] that slowly dissolve into
 passing groundwater. The resulting plumes can extend for kilometers from the
 source and persist for decades. Traditional remediation approaches include
 pump-and-treat systems, air sparging, and in situ chemical oxidation, but
@@ -61,7 +61,7 @@ Biological approaches including [[bioaugmentation-strategies]] with fungal inocu
 [[fungal-bioremediation-mechanisms]] for co-contaminants is an
 important consideration, as TCE contamination frequently co-occurs with other
 chlorinated solvents such as tetrachloroethylene (PCE) and 1,1,1-
-trichloroethane (TCA), as well as petroleum hydrocarbons and heavy metals
+trichloroethane (TCA), as well as petroleum hydrocarbons and [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
 at industrial sites.
 
 ## Challenges for Field Application
@@ -87,5 +87,5 @@ conditions for maximum degradation rates. The exploration of other fungal
 species beyond P. chrysosporium for TCE degradation capability could reveal
 organisms with higher transformation rates or greater environmental
 tolerance. The development of [[chlorinated-solvent-bioremediation]] for broader solvent treatment
-- [[fungal-bioremediation-organic-pollutants]] for organic pollutant scope
+- fungal-bioremediation-organic-pollutants for organic pollutant scope
 - [[bioaugmentation-strategies]] for inoculum deployment approaches

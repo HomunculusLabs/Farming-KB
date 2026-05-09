@@ -43,11 +43,11 @@ Okra is grown across a broad latitudinal range, from 40°N to 40°S. Major produ
 
 The species requires warm conditions for optimal growth, with a minimum germination temperature of 15°C and optimal growth at 25–30°C. Growth ceases below 12°C, and frost is lethal. Daylength sensitivity varies by cultivar; most are day-neutral but some tropical types are short-day flowering.
 
-Soil requirements are moderate — okra tolerates a wide pH range (5.5–7.5) and performs well in sandy loam to clay loam soils. Drought tolerance is moderate once established, though pod quality declines under water stress. The crop is notably tolerant of poor soils and moderate salinity.
+Soil requirements are moderate — okra tolerates a wide pH range (5.5–7.5) and performs well in sandy loam to clay loam soils. [[dighton-fungal-drought-tolerance-plant-water-relations]] is moderate once established, though pod quality declines under water stress. The crop is notably tolerant of poor soils and moderate salinity.
 
 ## Cultivation
 
-Direct seeding is the standard practice, at 2–3 cm depth, with final spacing of 30–60 cm within rows and 60–100 cm between rows. Seed germination occurs in 5–10 days under favorable conditions. Transplanting is possible but uncommon due to the species' sensitive taproot.
+[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is the standard practice, at 2–3 cm depth, with final spacing of 30–60 cm within rows and 60–100 cm between rows. Seed germination occurs in 5–10 days under favorable conditions. Transplanting is possible but uncommon due to the species' sensitive taproot.
 
 Harvest begins 50–65 days after sowing and continues for 8–12 weeks. Pods must be harvested every 2–3 days at the tender stage (5–10 cm length), as oversized pods become woody and fibrous. Typical yields range from 5–15 tonnes per hectare, with hybrid cultivars achieving 20+ tonnes under intensive management.
 
@@ -71,9 +71,9 @@ Beyond food use, okra mucilage has industrial applications as a paper sizing age
 
 ## Health Benefits and Pharmacology
 
-Clinical and preclinical studies have demonstrated okra's hypoglycemic effects, attributed to both the soluble fiber (which slows glucose absorption) and specific bioactive compounds. Polysaccharides from okra inhibit α-amylase and α-glucosidase enzymes, reducing postprandial blood glucose elevation.
+Clinical and preclinical studies have demonstrated okra's hypoglycemic effects, attributed to both the soluble fiber (which slows glucose absorption) and specific [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]. Polysaccharides from okra inhibit α-amylase and α-glucosidase enzymes, reducing postprandial blood glucose elevation.
 
-The seed extracts exhibit antioxidant activity through phenolic compounds, flavonoids, and quercetin derivatives. These compounds scavenge free radicals and reduce oxidative stress markers in diabetic animal models.
+The seed extracts exhibit antioxidant activity through phenolic compounds, flavonoids, and quercetin derivatives. These compounds scavenge free radicals and reduce [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers in diabetic animal models.
 
 Okra mucilage forms a protective coating on the gastrointestinal mucosa, which may explain its traditional use for gastric ulcers and digestive discomfort. Preliminary in vitro studies suggest antibacterial activity against *Helicobacter pylori* and selected enteric pathogens.
 
@@ -85,9 +85,9 @@ Okra's rapid growth and drought tolerance make it suitable for intercropping sys
 
 The plant's deep taproot (up to 2 meters) improves soil structure and accesses nutrients unavailable to shallow-rooted species. Root exudates may contribute to beneficial microbial communities in the rhizosphere.
 
-Okra serves as a living mulch in tropical garden systems, with the dense foliage suppressing weed growth between rows. The high biomass production returns significant organic matter to the soil when crop residues are incorporated at the end of the growing season.
+Okra serves as a living mulch in tropical garden systems, with the dense foliage suppressing weed growth between rows. The high [[dighton-fungal-biomass-production-aquatic-ecosystems]] returns significant organic matter to the soil when crop residues are incorporated at the end of the growing season.
 
-As a trap crop, okra can attract certain pests away from more vulnerable vegetable species. The flowers provide nectar and pollen for pollinators and beneficial insects, supporting biological pest control in diversified farming systems.
+As a trap crop, okra can attract certain pests away from more vulnerable vegetable species. The flowers provide nectar and pollen for pollinators and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], supporting biological pest control in diversified farming systems.
 
 ## History and Dispersal
 
@@ -98,6 +98,11 @@ The species name "esculentus" (Latin for "edible") reflects its primary value as
 Introduction to the Americas likely occurred in the 17th century through multiple pathways: Portuguese traders to Brazil, French colonists to Louisiana, and enslaved Africans throughout the Caribbean. The crop became deeply embedded in African-American culinary traditions, where it remains culturally significant today.
 
 ## See Also
+
+- [[luffa-cylindrica]]
+
+- [[strobilurus-esculentus]]
+- [[cyperus-esculentus]]
 
 - [[hibiscus-sabdariffa]]
 - [[vigna-unguiculata]]

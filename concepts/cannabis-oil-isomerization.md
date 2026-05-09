@@ -1,5 +1,5 @@
 ---
-title: Cannabis Oil Isomerization — Converting CBD to THC
+title: cervantes-hash-cannabis-oil-production Isomerization — Converting CBD to THC
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 # Cannabis Oil Isomerization — Converting CBD to THC
 
-The process of converting cannabidiol (CBD) to delta-9-THC through acid-catalyzed isomerization. Based on techniques from Lemon's "Cannabis Alchemy" (1990). See [[cannabis-extraction-basics]] for the complete extraction process.
+The process of converting cannabidiol (CBD) to delta-9-THC through acid-catalyzed isomerization. Based on techniques from Lemon's "[[lemon-cannabis-alchemy-advanced-refinement-techniques]]" (1990). See [[cannabis-extraction-basics]] for the complete extraction process.
 
 ## Why Isomerize?
 

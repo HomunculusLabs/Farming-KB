@@ -11,7 +11,7 @@ sources:
 
 ## Hybrid Cross Fundamentals
 
-Hybrid crosses between imported pure varieties were the beginning of nearly every domestic strain of Cannabis. Understanding hybrid genetics is essential for Cannabis breeding.
+Hybrid crosses between imported pure varieties were the beginning of nearly every domestic strain of Cannabis. Understanding hybrid genetics is essential for [[oner-cannabis-breeding-fundamentals]].
 
 ### F1 Generation
 - In hybrid crosses, some dominant characteristics from each parental variety are exhibited in various combinations by F1 offspring
@@ -22,7 +22,7 @@ Hybrid crosses between imported pure varieties were the beginning of nearly ever
 ### F2 Generation
 - The F2 generation exhibits great variation
 - Offspring tend to look more like one or the other original imported parental varieties
-- Recessive traits not apparent in either parent can appear
+- [[cervantes-dominance-recessive-traits-alleles]] not apparent in either parent can appear
 - If F1 offspring are desirable, it is difficult to continue the hybrid traits in subsequent generations
 - Enough original F1 hybrid seeds are produced so they may be used year after year to produce uniform crops of desirable plants
 
@@ -50,7 +50,7 @@ Fiber strains are characterized by:
 - Limbless growth habit (selected for long fiber production)
 - Often monoecious (more even maturation than dioecious strains)
 - Not grown long enough to set seed
-- Originating in northern temperate climates of Europe, Japan, China, and North America
+- Originating in northern temperate climates of Europe, Japan, China, and [[psilocybin-north-america-pacific-northwest]]
 - Most fiber strains contain CBD as the primary cannabinoid with little if any THC
 - Escaped fiber strains (e.g., midwestern U.S.) are tall, skinny, weakly branched, weakly flowered, and low in cannabinoid production
 
@@ -70,7 +70,7 @@ Fiber strains are characterized by:
 
 ### Huge Upright Phenotype
 - Characterized by medium-size leaves with narrow, highly serrated leaflets (similar to creeper strains)
-- May also be an acclimatized North American phenotype
+- May also be an acclimatized [[growing-gourmet-north-american-reishi-species]] phenotype
 - Long, straight central stalk from 2 to 4 meters (6.5 to 13 feet) tall
 - Long, slender primary limbs grow upright until nearly as tall or occasionally taller than the central stalk
 - Resembles Hindu Kush strains in general shape, except the entire plant is much larger
@@ -89,7 +89,7 @@ The best approach to creating desirable hybrids involves:
 
 ### Polyploid Breeding
 - Triploid and tetraploid strains of Cannabis with up to twice the potency of diploid strains have been produced
-- Chromosome doubling can be induced with colchicine treatment
+- Chromosome doubling can be induced with [[cannabis-polyploidy-colchicine-treatment-clarke]]
 - Polyploid plants are generally more vigorous but may have reduced fertility
 
 ## Genetic Preservation Concerns
@@ -102,6 +102,6 @@ The best approach to creating desirable hybrids involves:
 
 ## Related Topics
 - [[cannabis-breeding-basics]] - Breeding fundamentals
-- [[cannabis-colombian-strain-description-clarke]] - Colombian strain profile
+- [[cannabis-colombian-strain-description-clarke]] - [[cannabis-colombian-strain-description-clarke]] profile
 - [[cannabis-thai-strain-description-clarke]] - Thai strain profile
 - [[cannabis-seed-selection-and-strain-types]]

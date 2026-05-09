@@ -1,5 +1,5 @@
 ---
-title: "Peyote Legal Status and Conservation"
+title: "gottlieb peyote legal status and conservation Status and Conservation"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -13,7 +13,7 @@ tags: [reference]
 ## Federal Law in the United States
 
 Both mescaline and peyote are illegal under the statutes of the US Federal Government
-and most States. This creates a complex legal landscape for psychoactive cacti that
+and most States. This creates a complex legal landscape for [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] that
 varies depending on the specific plant and how it is used.
 
 ## Native American Church Exemption
@@ -34,7 +34,7 @@ these plants occupies a gray area:
 - Technically it would be illegal to possess these for their psychoactive properties
 - Because they are common ornamental plants, it is permissible to use these cacti for
   normal horticultural purposes
-- If a person attempts to use any of these plants for a psychedelic experience,
+- If a person attempts to use any of these plants for a [[leary-psychedelic-experience-bardo-mapping]],
   prosecution is possible
 - If mescaline is extracted from these plants, the alkaloid would definitely be
   contraband material
@@ -43,7 +43,7 @@ these plants occupies a gray area:
 
 The distinction between plant possession and alkaloid extraction is important:
 
-- Extracting mescaline from peyote or San Pedro cactus produces an illegal substance
+- Extracting mescaline from peyote or San [[san-pedro-cactus-history]] produces an illegal substance
 - To extract the alkaloids from non-mescaline bearing cacti such as Donana is not
   illegal
 - The legal status depends on whether the extracted alkaloid is a controlled substance
@@ -70,7 +70,7 @@ To collect peyote properly:
 
 ### Impact on Rare Species
 
-Several of the peyote substitute cacti of central Mexico are quite rare. Thousands of
+Several of the peyote substitute [[psychoactive-cacti-of-central-mexico]] Mexico are quite rare. Thousands of
 people have obtained these plants from cactus dealers and ingested them, usually with
 disappointing and sometimes nauseating results. If too many people destroy them
 experimentally, they may become seriously endangered species.

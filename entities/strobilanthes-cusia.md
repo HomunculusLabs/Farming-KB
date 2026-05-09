@@ -64,7 +64,7 @@ Fujian, Yunnan, Guizhou, and Sichuan provinces.
 
 The species grows in forest margins, stream banks, grassy slopes, and
 disturbed sites at elevations from 200 to 2,000 meters. It prefers moist,
-well-drained soils rich in organic matter with partial shade.
+well-drained soils rich in [[hamilton-composting-and-organic-matter-management]] with partial shade.
 
 Cultivated stands are maintained in southern China and Taiwan for commercial
 indigo and medicinal production. Wild populations have declined due to habitat
@@ -95,9 +95,9 @@ indigo pigment, which is used in traditional Japanese *aizome* and Chinese
 
 ## Bioactive Compounds and Pharmacology
 
-The principal bioactive compounds in S. cusia include indigo, indirubin,
+The principal [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] S. cusia include indigo, indirubin,
 tryptanthrin, and isatin. Indirubin has been identified as the major
-antileukemic constituent and has entered clinical trials for chronic myeloid
+antileukemic constituent and has entered [[mushroom-cancer-clinical-trials-overview]] for chronic myeloid
 leukemia treatment.
 
 Tryptanthrin exhibits anti-inflammatory, antimicrobial, and antiparasitic
@@ -125,15 +125,15 @@ requires stratification and consistent moisture for germination. Stem
 cuttings of 15–20 cm length root readily in moist nursery beds.
 
 Commercial cultivation in China follows a two-year cycle: seedlings are
-transplanted in spring, leaves are harvested during the first growing season
+transplanted in spring, leaves are harvested during the first [[savory-growing-season-and-non-growing-season-management]]
 for dye production, and roots are harvested in the second year for medicinal
 use.
 
-The plant prefers a warm, humid climate with annual rainfall above 1,500 mm.
+The plant prefers a warm, [[mollison-designers-cool-humid-climate-design-overview]] with annual rainfall above 1,500 mm.
 Optimal growth occurs at temperatures of 20–28°C. Partial shade improves leaf
 quality for dye production compared to full sun exposure.
 
-Organic fertilization with composted manure is standard practice. Pesticide
+Organic fertilization with [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]] is standard practice. Pesticide
 use is minimal in traditional cultivation systems. Post-harvest, roots are
 washed, sliced, and sun-dried for the medicinal trade.
 ## See Also

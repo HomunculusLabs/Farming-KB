@@ -25,7 +25,7 @@ accomplished through the use of iboga.
 *Tabernanthe iboga* is a perennial shrub that grows in the understory of
 tropical West African forests. The plant belongs to the Apocynaceae family,
 which includes many species known for their alkaloid content, though iboga
-is unique within the family for its psychoactive properties. The root bark
+is unique within the family for its psychoactive properties. The [[iboga-root-bark-preparation]]
 is the primary plant part used, containing the highest concentration of
 active alkaloids. The root is yellowish in color and is prepared in various
 ways for consumption, most commonly by scraping, grinding, and mixing with
@@ -64,7 +64,7 @@ their cosmological beliefs.
 
 ## Chemistry: Ibogaine and Related Alkaloids
 
-Ibogaine is the principal indole alkaloid among a dozen others found in
+Ibogaine is the principal [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] among a dozen others found in
 iboga. The pharmacology of ibogaine is well known and has been extensively
 studied. In addition to being a hallucinogen, ibogaine in large doses is a
 strong central nervous system stimulant. At very high doses it can lead to
@@ -73,8 +73,8 @@ profile of ibogaine is complex, acting on multiple neurotransmitter systems
 simultaneously.
 
 The indole alkaloids found in *Tabernanthe iboga* belong to the same broad
-chemical family as the tryptamines found in psilocybin mushrooms and the
-ergolines found in morning glories and ergot, though ibogaine's specific
+chemical family as the tryptamines found in [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] and the
+ergolines found in [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] and ergot, though ibogaine's specific
 structure and effects are distinct from these other classes. Ibogaine has
 attracted significant modern research interest for its reported ability to
 interrupt addiction to opiates and other substances, though this research
@@ -94,7 +94,7 @@ undergoing death and rebirth being commonly reported.
 The stimulant and hallucinogenic effects of iboga can persist for many hours,
 sometimes extending beyond 24 hours during ceremonial use. This prolonged
 duration distinguishes iboga from most other hallucinogenic plants and
-contributes to the intensity of the Bwiti initiation experience. The
+contributes to the intensity of the [[mckenna-iboga-tabernanthe-ibogaine-fang-bwiti-initiation-cult]] experience. The
 aftereffects can include a period of introspection and reduced desire for
 formerly habitual substances, which has contributed to iboga's reputation
 in traditional medicine as a remedy for various ailments.

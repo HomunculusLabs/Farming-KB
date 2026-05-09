@@ -20,7 +20,7 @@ The King Oyster (Pleurotus eryngii), also known as Eryngii, is the largest membe
 
 ## Species Description
 
-King Oyster produces large, thick-stemmed fruiting bodies with stems 4-10 cm in diameter and caps 5-15 cm across. Unlike other oyster mushrooms that develop thin stems and large caps, the King Oyster naturally produces the opposite morphology: a massive, fleshy stem with a relatively small cap. The color ranges from white to light tan, depending on strain and growing conditions.
+King Oyster produces large, thick-stemmed fruiting bodies with stems 4-10 cm in diameter and caps 5-15 cm across. Unlike other [[query-how-to-grow-oyster-mushrooms-at-home]] that develop thin stems and large caps, the King Oyster naturally produces the opposite morphology: a massive, fleshy stem with a relatively small cap. The color ranges from white to light tan, depending on strain and growing conditions.
 
 Natural habitat: saprophytic on the roots and buried stems of Apiaceae family plants (Eryngium, Ferula, Thapsia) in Mediterranean and Central Asian grasslands. This specific ecological niche distinguishes it from other Pleurotus species.
 
@@ -28,7 +28,7 @@ Natural habitat: saprophytic on the roots and buried stems of Apiaceae family pl
 
 ### Supplemented Sawdust Blocks
 
-The standard method for King Oyster cultivation uses enriched sawdust substrates:
+The standard method for King Oyster cultivation uses [[gourmet-mushroom-enriched-sawdust-cultivation]] substrates:
 
 - **Base substrate:** Hardwood sawdust (oak, beech, poplar, or mixed hardwoods)
 - **Supplementation:** 20-30% wheat bran or rice bran -- King Oyster benefits from higher supplementation rates than many other species
@@ -39,13 +39,13 @@ The standard method for King Oyster cultivation uses enriched sawdust substrates
 ### Alternative Substrates
 
 - **Straw:** Wheat or rice straw (lower yields but economical)
-- **Coffee grounds:** Mixed with sawdust or straw; high nitrogen content supports good growth
+- **[[oyster-mushroom-coffee-grounds-cultivation]]:** Mixed with sawdust or straw; high nitrogen content supports good growth
 - **Corn cob:** Viable substrate in areas where corn processing waste is available
 - **Paper/cardboard:** Experimental; can supplement other substrates
 
 ### Sterilization
 
-Autoclave at 15 psi for 60-90 minutes. King Oyster substrate is often packed into larger bags (5-10 lbs) for commercial production.
+Autoclave at 15 psi for 60-90 minutes. King [[mushworld-oyster-substrate-materials-worldwide-survey]] is often packed into larger bags (5-10 lbs) for commercial production.
 
 ## Spawn Running (Colonization)
 
@@ -104,7 +104,7 @@ Cut cleanly at the base with a sharp knife. Handle carefully to avoid bruising, 
 
 ### Yield
 
-- **Biological efficiency:** 100-180% on supplemented sawdust (very high)
+- **[[stamets-biological-efficiency-yield]]:** 100-180% on supplemented sawdust (very high)
 - **Flushes:** 2-3 flushes per block; first flush is typically 60-70% of total
 - **Typical yield per 5 lb block:** 2.5-4.5 lbs fresh weight
 
@@ -125,11 +125,11 @@ King Oyster is valued for its:
 - **Short stems / large caps:** CO2 too low; increase restriction around growing area
 - **Browning:** Temperature too high, physical damage, or bacterial contamination
 - **Cracked stems:** Rapid humidity fluctuations or temperature stress
-- **Pest issues:** Fungus gnats and phorid flies are attracted to the high-nutrient substrate
+- **Pest issues:** [[query-how-to-control-fungus-gnats-organically]] and phorid flies are attracted to the high-nutrient substrate
 
 ## See Also
 
-- [[oyster-mushroom-cultivation|oyster mushroom cultivation]]
+- [[cotter-oyster-mushroom-cultivation|oyster mushroom cultivation]]
 - [[oyster-mushroom-species-guide|oyster mushroom species comparison]]
 - [[bulk-substrate-preparation|bulk substrate preparation]]
 - [[mushroom-cultivation-basics|mushroom cultivation fundamentals]]

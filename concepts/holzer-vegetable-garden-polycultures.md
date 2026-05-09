@@ -1,22 +1,23 @@
 ---
-title: Holzer Vegetable Garden Polycultures
+title: Holzer fukuoka-dutch-priest-vegetable-garden-spiritual-renewal Polycultures
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Vegetable Garden Polycultures
 
-Sepp Holzer's approach to vegetable gardening centres on [[holzer-polycultures-catch-crop-combinations]], minimal soil disturbance, and no artificial irrigation. His childhood garden (the Gachtl) at the Krameterhof, at 1,300 metres above sea level, served as the living laboratory for these methods.
+Sepp Holzer's approach to [[home-vegetable-garden-planning]] centres on [[holzer-polycultures-catch-crop-combinations]], minimal soil disturbance, and no artificial irrigation. His childhood garden (the Gachtl) at the Krameterhof, at 1,300 metres above sea level, served as the living laboratory for these methods.
 
 ## Traditional Kitchen Garden Layout
 
 Holzer's family garden was enclosed with a picket fence and organised by microclimate zones:
 
-- Sunny, warm spots: runner beans and peas, kohlrabi, cabbages, turnips, radishes, broccoli, and salad plants including butterhead lettuce, iceberg lettuce, loose-leaf lettuce, and endive
+- Sunny, warm spots: runner [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]], kohlrabi, cabbages, turnips, radishes, broccoli, and salad plants including butterhead lettuce, iceberg lettuce, loose-leaf lettuce, and endive
 - Dry, stony places: thyme, lavender, and sage, which develop more intense flavour and higher nutrient content in poor, dry soils
 - Nutrient-rich, moist areas: mint, lemon balm, sun bonnet (Melissa), motherwort, and lovage
 - By the garden gate (quickest access): lovage, chives, leeks, onions, and garlic
@@ -30,12 +31,12 @@ Holzer describes specific plant combinations used in the family garden:
 
 - Runner beans planted mid-May (due to altitude) with lettuce between them as cold protection. Lettuce presents no competition to beans. Radishes and carrots also serve as catch crops alongside beans.
 - Beans and peas are legumes that increase nitrogen in the soil, making them undemanding and low in nutrient requirements
-- Cabbage planted with peas and beans to improve the soil, plus marigolds to discourage nematodes, and southernwood, basil, and mint to repel pests with their scent and essential oils
+- Cabbage planted with peas and beans to improve the soil, plus marigolds to discourage nematodes, and southernwood, basil, and mint to repel pests with their scent and [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]
 - Carrots paired with onions, leeks, peas, beans, lettuce, and black savoury
 - Potatoes with marigolds (nematode deterrent), peas, beans, and onions
 - Pumpkins and courgettes with beans and peas (soil improvement), maize, tomatoes, Good King Henry, and Jerusalem artichokes as windbreak
 - Maize (corn) with beans, peas, tomatoes, and lettuce as ground cover
-- Tomatoes with garlic and basil (mildew prevention), spinach, beans, leeks, lettuce, and peppers
+- Tomatoes with garlic and basil ([[cervantes-powdery-mildew-prevention-treatment]]), spinach, beans, leeks, lettuce, and peppers
 - Beetroot with beans, peas, onions, radishes, lettuce, borage, and cabbage
 
 ## Modern Reduced-Maintenance Approach
@@ -70,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -5,21 +5,22 @@ updated: 2026-04-15
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Advanced Seed Ball Methods
 
 ## The Principle
 
-Seed balls (clay pellets) solve the central problem of direct seeding: protecting seeds from birds, rodents, insects, and desiccation until conditions are right for germination. Seeds are enclosed in a clay shell that hardens but allows moisture to penetrate when rain falls, triggering germination at the optimal moment. This technique is fundamental to [[direct-seeding-techniques]] approach.
+Seed balls ([[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]]) solve the central problem of [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]: protecting seeds from birds, rodents, insects, and desiccation until conditions are right for germination. Seeds are enclosed in a clay shell that hardens but allows moisture to penetrate when rain falls, triggering germination at the optimal moment. This technique is fundamental to [[direct-seeding-techniques]] approach.
 
 ## Desert Greening Application
 
-Fukuoka proposed seed balls as the primary tool for global desert revegetation. The pellets contain seeds of green manure trees (such as black wattle, which grows with less than 2 inches of annual rainfall), clover, alfalfa, bur clover, and grain and vegetable seeds. "Microbe-containing clay pellets" scatter the seeds of many species simultaneously. "Once scattered, the seeds within the hard clay pellets will not sprout until rain has fallen and conditions are just right for germination."
+Fukuoka proposed seed balls as the primary tool for global [[fukuoka-desert-revegetation-clay-pellets]]. The pellets contain seeds of green manure trees (such as black wattle, which grows with less than 2 inches of annual rainfall), clover, alfalfa, bur clover, and grain and vegetable seeds. "Microbe-containing clay pellets" scatter the seeds of many species simultaneously. "Once scattered, the seeds within the hard clay pellets will not sprout until rain has fallen and conditions are just right for germination."
 
 ### Multi-Species Seed Balls
 
-For desert greening specifically, Fukuoka mixed seeds of many species: green manure trees like black wattle for arid conditions, clover, alfalfa, bur clover, and various grain and vegetable seeds. These are coated first with soil, then with a clay layer. The multi-species approach ensures that whatever survives — even at 1% germination — provides "precious clues" about what that environment can support. See [[fukuoka-rice-barley-dual-culture]] reveals how seed balls integrate into a complete farming cycle:
+For desert greening specifically, Fukuoka mixed seeds of many species: green manure trees like black wattle for arid conditions, clover, alfalfa, bur clover, and various grain and vegetable seeds. These are coated first with soil, then with a clay layer. The multi-species approach ensures that whatever survives — even at 1% germination — provides "precious clues" about what that environment can support. See  reveals how seed balls integrate into a complete farming cycle:
 
 1. **Clover**: Sow clover in fall as the permanent ground cover
 2. **Barley**: Broadcast barley seed before the rice harvest, letting it fall among standing rice stalks
@@ -46,7 +47,7 @@ A single piece of rice straw on the ground undergoes a remarkable succession: ri
 ## See Also
 
 - [[fukuoka-seeds-in-the-dirt]] — the philosophy behind scattering seed
-- [[fukuoka-rice-barley-dual-culture]] — seed ball use in grain production
+- [[fukuoka-rice-barley-dual-culture]] — seed ball use in [[fukuoka-no-till-grain-production-method]]
 - [[fukuoka-natural-fertility-cycle]] — natural soil building
 - [[fukuoka-clay-pellet-desert-greening]] and clay pellet techniques for multiple purposes: overwintering rice seed, establishing vegetables in orchards, and revegetating deserts. The basic principle is enclosing seeds in a protective coating of clay that prevents premature germination and protects from birds and rodents.
 
@@ -70,14 +71,14 @@ For [[fukuoka-clay-pellet-desert-greening]] and scattered over the field in mid-
 
 Topsoil-containing clay may be used to form pellets, but if pellets crumble too early in spring, the seed will be devoured by rodents and other pests. Well-crushed clay or red earth that holds together through winter is preferred.
 
-For those preferring a scientific method of convenience, seeds may be coated with synthetic resin such as styrofoam containing necessary pesticides — though Fukuoka preferred the pesticide-free approach.
+For those preferring a [[fukuoka-limits-scientific-method-agriculture]] of convenience, seeds may be coated with synthetic resin such as styrofoam containing necessary pesticides — though Fukuoka preferred the pesticide-free approach.
 
 ## Desert Greening Seed Balls
 
 For [[fukuoka-desert-greening-techniques-detailed]], the seed ball method is scaled up dramatically:
 
 1. Mix seeds of green manure trees (such as black wattle) that grow in areas with annual rainfall under 2 inches
-2. Add seeds of clover, alfalfa, bur clover, and other green manures
+2. Add seeds of clover, alfalfa, bur clover, and other [[jeavons-green-manures-cover-crops]]
 3. Include grain and vegetable seeds
 4. Coat the mixture first with a layer of soil, then one of clay
 5. The finished pellets contain microorganisms from the soil

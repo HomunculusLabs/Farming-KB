@@ -1,5 +1,5 @@
 ---
-title: Animal Manure — Types and Use in the Garden
+title: fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic — Types and Use in the Garden
 created: 2026-04-28
 tags:
   - organic-gardening
@@ -16,7 +16,7 @@ type: concept
 
 # Animal Manure — Types and Use in the Garden
 
-Animal manures are among the very best sources of organic matter
+Animal manures are among the very best sources of [[hamilton-composting-and-organic-matter-management]]
 available to the gardener. They improve soil condition, feed the soil
 with nutrients, and help maintain the high level of fertility that
 organic growers continually strive to achieve. Although manures can be
@@ -25,6 +25,8 @@ the high nitrogen content will assist [[hamilton-green-manure-crops-and-cover-cr
 and [[organic-soil-management]] programme.
 
 ## See Also
+
+- [[animal-face]]
 
 - [[solomon-manure-types-and-nutrient-values]]
 ## Practical Applications
@@ -104,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -26,23 +26,23 @@ Electroactive microorganisms, also called exoelectrogens, can transfer electrons
 
 At the cathode, microorganisms can accept electrons from the electrode and use them to reduce contaminants including nitrate, perchlorate, uranium, and chlorinated solvents.
 
-The potential difference between anode and cathode drives electron flow through an external circuit, which can be harvested as electrical energy in microbial fuel cells or supplemented with external power in microbial electrolysis cells.
+The potential difference between anode and cathode drives electron flow through an external circuit, which can be harvested as electrical energy in [[singh-microbial-fuel-cells-fungal-electrogenesis]] cells or supplemented with external power in microbial electrolysis cells.
 
-The ability to control the electrode potential provides a means to regulate microbial metabolism, favoring specific degradation pathways or optimizing the rate and extent of contaminant transformation.
+The ability to control the electrode potential provides a means to regulate microbial metabolism, favoring specific [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]] or optimizing the rate and extent of contaminant transformation.
 
-Bioelectrochemical systems can operate under both aerobic and anaerobic conditions, providing flexibility for treating contaminants with different redox requirements.
+Bioelectrochemical systems can operate under both [[query-what-is-the-difference-between-aerobic-and-anaerobic-composting]] conditions, providing flexibility for treating contaminants with different redox requirements.
 
 ## Microbial Fuel Cells for Wastewater Treatment
 
-Microbial fuel cells (MFCs) generate electricity from the oxidation of organic matter in wastewater while simultaneously treating the wastewater.
+Microbial fuel cells (MFCs) generate electricity from the oxidation of [[hamilton-composting-and-organic-matter-management]] in wastewater while simultaneously treating the wastewater.
 
-In a typical MFC configuration, electroactive bacteria in the anode chamber oxidize organic compounds, releasing electrons to the anode and protons into the solution.
+In a typical MFC configuration, electroactive bacteria in the anode chamber oxidize [[fungal-volatile-organic-compounds-communication]], releasing electrons to the anode and protons into the solution.
 
 Electrons flow through an external circuit to the cathode, while protons migrate through a proton exchange membrane, where they combine with oxygen at the cathode to form water.
 
 The electricity generated can be used to power monitoring equipment, operate pumps, or be fed back into the power grid, though current power densities are typically low.
 
-[[fungal-bacterial-coculture-bioremediation]], represents an emerging area of bioelectrochemical research.
+fungal-bacterial-coculture-bioremediation, represents an emerging area of bioelectrochemical research.
 
 ## System Design and Engineering Considerations
 
@@ -50,7 +50,7 @@ Electrode materials significantly affect bioelectrochemical system performance. 
 
 Three-dimensional electrode architectures provide high surface area for microbial colonization while maintaining low internal resistance for electron flow.
 
-Membrane selection affects proton transport between anode and cathode compartments. Cation exchange membranes are most commonly used, though membraneless designs reduce cost and internal resistance.
+Membrane selection affects proton transport between anode and cathode compartments. [[mollison-designers-tropical-soils-and-cation-exchange-management]] membranes are most commonly used, though membraneless designs reduce cost and internal resistance.
 
 Reactor configuration influences mass transport, electrode spacing, and overall system performance. Continuous-flow designs are preferred for wastewater treatment applications, while batch configurations are useful for laboratory studies.
 
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

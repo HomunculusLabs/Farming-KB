@@ -1,5 +1,5 @@
 ---
-title: Fungal Degradation of Pesticides and Persistent Organic Pollutants
+title: fungal-degradation-of-pesticides and Persistent Organic Pollutants
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -10,16 +10,16 @@ sources:
 
 # Fungal Degradation of Pesticides and Persistent Organic Pollutants
 
-Fungi possess unique capabilities for degrading pesticides and persistent organic pollutants (POPs) that complement bacterial degradation pathways. Their filamentous growth habit, enzyme systems, and ability to form symbiotic associations with plants make them particularly valuable for agricultural and environmental remediation.
+Fungi possess unique capabilities for degrading pesticides and persistent organic pollutants (POPs) that complement bacterial [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]]. Their filamentous growth habit, enzyme systems, and ability to form symbiotic associations with plants make them particularly valuable for agricultural and environmental remediation.
 
 ## Fungal Advantages in POP Degradation
 
 Compared to bacteria, fungi offer several advantages:
-- **Extracellular enzyme systems**: Non-specific ligninolytic enzymes can attack a wide range of structurally diverse pollutants without requiring prior adaptation
+- **[[dighton-fungal-extracellular-enzyme-systems-decomposition]] systems**: Non-specific [[ligninolytic-enzymes]] can attack a wide range of structurally diverse pollutants without requiring prior adaptation
 - **Filamentous growth**: Hyphae penetrate soil aggregates and reach pollutants in microenvironments inaccessible to bacteria
 - **Co-metabolic degradation**: Many POPs are degraded as incidental substrates while fungi grow on primary carbon sources
-- **Plant symbiosis**: Mycorrhizal fungi extend degradation capabilities into the root zone (see [[fungal-biodegradation-pesticides]]
-- [[fungal-ligninolytic-enzyme-systems-overview]]
+- **Plant symbiosis**: [[mycorrhizal-fungi]] extend degradation capabilities into the root zone (see fungal-biodegradation-pesticides
+- fungal-ligninolytic-enzyme-systems-overview
 - [[mycoremediation-basics]]
 
 - [[staycare-fungal-formulation-in-situ-bioremediation]]
@@ -100,4 +100,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

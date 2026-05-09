@@ -1,5 +1,5 @@
 ---
-title: Ketamine Anaesthetic Realm - Turner's Essential Psychedelics Guide
+title: turner essential psychedelics ketamine anaesthetic realm Realm - Turner's turner-essential-psychedelics-5-meo-dmt-void-experience Guide
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [psychedelics]
 
 # Ketamine Anaesthetic Realm
 
-Turner dedicates a full chapter to ketamine, titled "The Ultimate Psychedelic
+Turner dedicates a full chapter to ketamine, titled "The [[ketamine-ultimate-psychedelic-journey]]
 Journey," rating its intensity at "10 -- Infinity." He calls it "the most
 intense, bizarre, and enjoyable psychedelic I've tried," a view shared by most
 of his experienced acquaintances.
@@ -110,7 +110,7 @@ uncommon to feel slightly drained or lackadaisical after a ketamine trip.
 ## Related Concepts
 
 - dissociative anaesthetic
-- ego dissolution
+- [[psilocybin-ego-dissolution-mechanisms]]
 - clear light
 - hyperspace
 - k-hole

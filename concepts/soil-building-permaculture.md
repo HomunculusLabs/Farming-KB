@@ -9,7 +9,7 @@ sources:
 ---
 # Soil Building in Permaculture
 
-Soil is the foundation of [[fire-control-in-permaculture]] as a fuel reduction strategy.
+Soil is the foundation of fire-control-in-permaculture as a fuel reduction strategy.
 
 ### Soil Conditioning
 
@@ -23,24 +23,24 @@ The conditioner includes a seed box that drips seeds at pre-regulated rates into
 
 ### Swales and Earthworks
 
-[[permaculture-zones-system]]. The [[soil-food-web-structure]] -- bacteria, fungi, protozoa, nematodes, microarthropods, and earthworms -- is the engine of nutrient cycling. Mycorrhizal fungi form the most critical link, extending root systems by orders of magnitude and facilitating nutrient exchange between plants. Holmgren notes that "a rainforest clearing with abundant sunlight and fertility will grow a profusion of competing annual weeds, vines and trees; in the mature forest, adjacent plants are more likely to have mutual or symbiotic relationships, such as trees that exchange nutrients via mycorrhizal fungi."
+permaculture-zones-system. The [[soil-food-web-structure]] -- bacteria, fungi, protozoa, nematodes, microarthropods, and earthworms -- is the engine of [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] form the most critical link, extending root systems by orders of magnitude and facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between plants. Holmgren notes that "a rainforest clearing with abundant sunlight and fertility will grow a profusion of competing annual weeds, vines and trees; in the mature forest, adjacent plants are more likely to have mutual or symbiotic relationships, such as trees that exchange nutrients via mycorrhizal fungi."
 
 ### Energy Descent and Soil
 
-Holmgren argues that [[forests-in-permaculture]] build soil through leaf litter and root turnover
+Holmgren argues that forests-in-permaculture build soil through leaf litter and root turnover
 - [[composting-systems]] close the nutrient loop between household waste and garden fertility
 - [[permaculture-beginners-guide-soil-building-basics]]
 
 - [[soil-food-web-structure]]
-- [[forage-systems-animals-permaculture]]
-- [[faires-hugelkultur-and-soil-building]]
-- [[nurse-crop-species-permaculture]]
+- forage-systems-animals-permaculture
+- faires-hugelkultur-and-soil-building
+- nurse-crop-species-permaculture
 - [[mollison-permaculture-two-broadscale-soil-improvement]]
 
 ## Merged: Hamilton Soil Management Regime
-A systematic approach to soil management is the foundation of successful organic gardening. Geoff Hamilton recommends a four-stage approach that addresses soil testing, conditioning, general fertilization, and specific crop needs. - [[composting-science-solomon]] If you are starting out, especially on virgin soil, it is a good idea to have it tested at the outset so that you know where you stand.
+A systematic approach to soil management is the foundation of successful [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]. Geoff Hamilton recommends a four-stage approach that addresses soil testing, conditioning, general fertilization, and specific crop needs. - [[composting-science-solomon]] If you are starting out, especially on virgin soil, it is a good idea to have it tested at the outset so that you know where you stand.
 ## Merged: Holmgren: Soil Building and Mineral Fertility
-Holmgren's treatment of soil fertility goes beyond organic gardening nostrums to address the deep energetic and mineral basis of soil health. This connects [[holmgren-catch-and-store-energy-detailed]] and [[holmgren-living-soil-ethic]] extends Aldo Leopold's land ethic to the underground ecosystem. The role of pioneer species in ecological succession ([[holmgren-mineral-fertilizers-soil-building]], [[teaming-with-microbes-bacteria]], [[geoff-hamilton-organic-techniques]] - [[organic-composting-methods]] heap. If using a [[companion-planting-deterrents]] - soil building permaculture
+Holmgren's treatment of soil fertility goes beyond organic gardening nostrums to address the deep energetic and mineral basis of soil health. This connects holmgren-catch-and-store-energy-detailed and holmgren-living-soil-ethic extends Aldo Leopold's land ethic to the underground ecosystem. The role of pioneer species in [[holmgren-ecological-succession-and-pulsing]] (holmgren-mineral-fertilizers-soil-building, [[teaming-with-microbes-bacteria]], [[geoff-hamilton-organic-techniques]] - [[organic-composting-methods]] heap. If using a [[companion-planting-deterrents]] - soil building permaculture
 ## Practical Considerations
 
 When working with Soil Building in Permaculture, several practical factors should be
@@ -57,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +99,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -13,7 +13,7 @@ sources:
   - Bailey, L.H. & Bailey, E.Z. (1976). Hortus Third. Macmillan Publishing.
   - Valder, P. (1999). The Garden Plants of China. Timber Press.
   - Royal Horticultural Society. "Trachelospermum jasminoides." RHS Plant Explorer.
-  - Chen, S. et al. (2019). "Volatile compounds from Trachelospermum jasminoides flowers." Journal of Essential Oil Research, 31(3), 215–222.
+  - Chen, S. et al. (2019). "[[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] from Trachelospermum jasminoides flowers." Journal of [[permaculture-designers-manual-essential-oil-plants]] Research, 31(3), 215–222.
 ---
 
 ## Overview
@@ -78,9 +78,9 @@ The vine climbs by twining stems and aerial rootlets, requiring a support struct
 
 It can also be grown as a sprawling ground cover, forming a dense mat 30–60 cm tall.
 
-Common propagation methods include semi-hardwood cuttings in summer and layering of trailing stems.
+Common [[vegetative-propagation-methods-mollison]] include semi-hardwood cuttings in summer and layering of trailing stems.
 
-Seed propagation is possible but slow; germination benefits from warm stratification.
+[[jeavons-seed-propagation-techniques]] is possible but slow; germination benefits from warm stratification.
 
 Few serious pests or diseases affect the plant, though scale insects and spider mites can occur in hot, dry conditions.
 
@@ -88,13 +88,13 @@ Root rot from poorly drained soils is the most common cultural problem.
 
 ## Chemistry and Fragrance
 
-The characteristic fragrance of *T. jasminoides* flowers is produced by a complex blend of volatile organic compounds.
+The characteristic fragrance of *T. jasminoides* flowers is produced by a complex blend of [[fungal-volatile-organic-compounds-communication]] compounds.
 
 Major scent components include linalool, benzyl acetate, indole, and (E)-β-ocimene.
 
 The fragrance profile is often described as intermediate between true jasmine (*Jasminum grandiflorum*) and orange blossom.
 
-Essential oil can be extracted by steam distillation of fresh flowers, yielding approximately 0.1–0.3% by weight.
+Essential oil can be extracted by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of fresh flowers, yielding approximately 0.1–0.3% by weight.
 
 The essential oil is used in perfumery as a cheaper alternative to jasmine absolute, particularly in commercial fragrances.
 

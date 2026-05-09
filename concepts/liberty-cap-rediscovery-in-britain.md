@@ -3,7 +3,7 @@ title: Liberty Cap Rediscovery in Britain
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Letcher - Shroom: A Cultural History of the Magic Mushroom"
+  - "Letcher - Shroom: A shroom-cultural-history-hippie-revolution-and-counterculture of the Magic Mushroom"
 type: concept
 tags: [reference]
 ---
@@ -21,7 +21,7 @@ In 1963, [[amanita-muscaria-cultural-history]], a mushroom that was not eaten wi
 enthusiasm. The playwright Jeremy Sandford, for instance, swore in his 1972 book
 In Search of the Magic Mushroom that the fly-agaric was the British
 hallucinogen. This confusion persisted even though a 1961 BBC documentary, Eye
-on Research: The Sacred Mushroom, had featured interviews with [[london-underground-and-british-magic-mushroom-discovery]]
+on Research: The [[allegro-the-sacred-mushroom-amanita-identification]], had featured interviews with [[london-underground-and-british-magic-mushroom-discovery]]
 and the nascent hippy underground.
 
 ## The 1970s Mushroom Craze
@@ -63,7 +63,7 @@ occurring psychedelic in the British Isles.
 The spread of Liberty Cap identification knowledge in Britain followed a
 characteristically grassroots trajectory, moving through informal networks
 rather than institutional channels. Before the 1970s, mycological knowledge
-about Psilocybe semilanceata was confined to academic circles — it had been
+about [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] was confined to academic circles — it had been
 described by Elias Magnus Fries as early as 1838 and was well known to British
 mycologists as a common but unremarkable species of pastureland. The critical
 transition was the dissemination of this taxonomic knowledge to a
@@ -72,7 +72,7 @@ psychedelics.
 
 A key factor in the spread of identification knowledge was the publication of
 practical field guides. Richard Keynes's 1979 guide "A Guide to British
-Psilocybin Mushrooms" was among the first to bridge the gap between academic
+[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]" was among the first to bridge the gap between academic
 mycology and popular use, providing clear descriptions, habitat information, and
 warnings about potentially dangerous lookalikes. The Liberty Cap's distinctive
 appearance — its conical or bell-shaped cap (the "liberty cap" or "Phrygian cap"
@@ -96,10 +96,10 @@ emphasised as a matter of survival, given the genuine risk of confusion with
 toxic species such as Galerina marginata (the deadly skullcap) and various
 Inocybe species that share similar grassland habitats.
 
-The British mycological community's relationship with psychedelic mushroom
+The British mycological community's [[i-thou-relationship-with-psychedelic-entities]] mushroom
 foragers was ambivalent. Official mycological societies generally avoided the
 topic, unwilling to be associated with illegal drug use. However, individual
 mycologists sometimes provided identification advice quietly, motivated by a
 concern for public safety — the risk of fatal poisoning from misidentification
 was real and well documented. This tension between scientific knowledge and
-legal prohibition created a paradoxical situation in which accurate
+[[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]] created a paradoxical situation in which accurate

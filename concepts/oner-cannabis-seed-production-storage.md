@@ -1,11 +1,11 @@
 ---
-title: Cannabis Seed Production and Storage
+title: Cannabis cervantes-seed-production-storage and Storage
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
 tags: [cannabis, seeds, breeding, cultivation]
 sources:
-  - "S.T. Oner - Cannabis Sativa Volume 3: The Essential Guide"
+  - "S.T. Oner - comparison-cannabis-sativa-vs-cannabis-indica Volume 3: The Essential Guide"
 ---
 
 # [[cervantes-cannabis-seed-purchasing-storage]]
@@ -141,3 +141,7 @@ conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
 
+## See Also
+
+- [[cannabis-seed-storage]]
+- [[cannabis-seed-production]]

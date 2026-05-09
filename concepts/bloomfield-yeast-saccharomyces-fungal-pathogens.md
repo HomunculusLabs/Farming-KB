@@ -1,5 +1,5 @@
 ---
-title: Yeast, Saccharomyces, and Human Fungal Pathogens
+title: Yeast, Saccharomyces, and Human bloomfield-fungal-pathogens-and-parasites
 created: 2026-04-28
 tags:
   - mycology
@@ -35,7 +35,7 @@ is more intimate than any other between fungi and our species.
 
 ## [[candida-albicans]]: The Opportunistic Pathogen
 
-Candida albicans is a fungus that lives as part of the microbial
+[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]] is a fungus that lives as part of the microbial
 community on and inside human bodies. As a yeast it thrives on our skin
 and in our mouths and intestines. Up to 1,000 Candida cells can be
 present in every gram of feces. Problems arise when the yeast transforms
@@ -55,7 +55,7 @@ ringworm infections of skin, hair, and nails, with Latin names
 indicating the infection site: tinea pedis (feet), tinea capitis (hair),
 and tinea unguium (nails). Hair and nails are composed of keratin
 proteins, and dermatophytes possess the enzymes needed to dissolve this
-material into an amino acid soup unavailable to animals.
+material into an [[cho-fish-amino-acid-preparation]] soup unavailable to animals.
 
 In tinea capitis, the fungus invades the hair shaft, weakening the
 structure enzymatically, then reemerges and showers the scalp with
@@ -70,7 +70,7 @@ effective at curing these infections.
 The scalp is a grease bath where yeasts of the genus Malassezia immerse
 themselves in sebaceous fat and gorge on dandruff flakes. Malassezia is
 a microscopic epicure that can be grown on agar only if bathed with
-olive oil. Dandruff is a complex complaint exacerbated by stress, diet,
+[[staycare-fungal-treatment-of-olive-oil-mill-wastewater]]. Dandruff is a complex complaint exacerbated by stress, diet,
 hormone balance, and weather, but is always accompanied by Malassezia.
 The active component of Head and Shoulders shampoo, pyrithione zinc,
 inhibits fungal proliferation on the scalp.

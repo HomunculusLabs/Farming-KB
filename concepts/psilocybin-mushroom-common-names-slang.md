@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushroom Common Names and Slang
+title: Psilocybin psilocybin mushroom common names slang and Slang
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -20,7 +20,7 @@ Some of these popular names are also known and applied by users outside of Austr
 
 The term was invented by a *Life Magazine* editor in 1957, in connection with [[psilocybe-subaeruginosa-australia]] is known as "golden tops", "gold tops", or sometimes "gold caps."
 
-These Australian epithets may have been given to this species by members of a local, drug-using group of surfers which frequented the Gold Coast region of Eastern Australia. The Gold Coast's subtropical climate provides ideal growing conditions for *Psilocybe cubensis*, and the surfing subculture appears to have been central to the popularisation of these names.
+These Australian epithets may have been given to this species by members of a local, drug-using group of surfers which frequented the Gold Coast region of Eastern Australia. The Gold Coast's subtropical climate provides ideal growing conditions for *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*, and the surfing subculture appears to have been central to the popularisation of these names.
 
 However, some of these names have apparently been used to describe several different species of *Psilocybe* by users in Australia (see [[psilocybin-mushroom-potency-and-dosage-guide]].
 
@@ -42,13 +42,13 @@ This natural colour transformation from golden-brown when fresh to a lighter, so
 
 In the Hawaiian Islands, *Copelandia cyanescens* is commonly referred to as "dimple tops" and "cone heads," names that describe the distinctive shape of the mushroom's cap.
 
-These same popular names have also been used by visiting surfers from both New Zealand and Australia to describe the macroscopic characteristics of the species. The connection between Australian surfers and Hawaiian mushroom culture is notable: surfers visiting Hawaii's North Shore have reportedly ingested mushrooms prior to surfing, as do many locally based surfers in Australia and New Zealand.
+These same popular names have also been used by visiting surfers from both New Zealand and Australia to describe the macroscopic characteristics of the species. The connection between Australian surfers and Hawaiian [[mazatec-mushroom-culture-and-velada]] is notable: surfers visiting Hawaii's North Shore have reportedly ingested mushrooms prior to surfing, as do many locally based surfers in Australia and New Zealand.
 
 This cross-Pacific surfing culture appears to have facilitated the exchange of common names for psychoactive mushrooms, creating a shared vocabulary among wave-riding communities across the Pacific.
 
 ## European Names: "Liberty Cap" and "Psilos"
 
-In the United States, Canada, Great Britain and Europe, *Psilocybe semilanceata* is often referred to as the "liberty cap" (see Allen 1997a and 1997b). The name derives from the distinctive shape of the cap, which resembles the Phrygian cap worn as a symbol of liberty during the French Revolution.
+In the [[dmt-containing-plants-united-states-halpern]], Canada, Great Britain and Europe, *[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]* is often referred to as the "liberty cap" (see Allen 1997a and 1997b). The name derives from the distinctive shape of the cap, which resembles the Phrygian cap worn as a symbol of liberty during the French Revolution.
 
 The species is also known to many Europeans simply as "Psilos" — a shorthand derived from the genus name *Psilocybe* that has entered common slang usage. This abbreviation reflects how deeply embedded these mushrooms have become in European drug culture.
 
@@ -67,7 +67,7 @@ Species like [[magic-mushrooms-australia-new-zealand]].
 - [[psilocybin-mushroom-potency-and-dosage-guide]] — Potency differences between species
 
 - [[insect-allies]] — Author and ethnomyologist documenting these names
-- [[australian-nz-psychoactive-mushroom-species]]
+- australian-nz-psychoactive-mushroom-species
 - [[comparison-morel-vs-chanterelle]]
 ## Practical Considerations
 
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

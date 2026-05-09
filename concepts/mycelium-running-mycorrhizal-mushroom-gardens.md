@@ -1,9 +1,9 @@
 ---
-title: "Mycorrhizal Mushroom Gardens and Cultivation"
+title: "mycelium running mycorrhizal mushroom gardens Gardens and Cultivation"
 created: 2026-04-26
 updated: "2025-04-23"
 sources:
-  - "raw/papers/mycelium-running-stamets.md"
+  sources: []
 type: concept
 tags: [gardening, mushroom-cultivation, mycelium, mycology, mycorrhizal]
 ---
@@ -24,7 +24,7 @@ chemistry, and predominant microflora limit success.
 Chanterelles demonstrate an unusual interdependence on soil yeasts,
 making [[mycelium-running-gourmet-mushroom-species]]),
 which can fetch up to $500 per pound. Despite decades of effort and
-tissue culture techniques replacing traditional transplanting, most
+tissue [[agar-culture-techniques-detailed]] replacing traditional transplanting, most
 plantings beyond native habitats still fail to produce mushrooms.
 
 Native species of mycorrhizae quickly outcompete foreign European
@@ -64,7 +64,7 @@ For gardeners seeking mycorrhizal benefits:
 - Native species are far more likely to succeed than imports
 - Start with seedling inoculation rather than direct spore casting
 - Use the seedling proximity method for highest success rates
-- Even if gourmet mushrooms never appear, trees and plants benefit from
+- Even if [[growing-gourmet-mushrooms-civilization-history]] never appear, trees and plants benefit from
   the pairing
 - Inoculations by one generation of mycologists may not see fruition
   until the next generation
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

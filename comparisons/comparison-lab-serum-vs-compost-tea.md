@@ -13,7 +13,7 @@ sources:
   - Cho, Han Kyu. Korean Natural Farming Handbook.
   - Ingham, Elaine. The Compost Tea Brewing Manual, 5th Edition.
   - Savidov, N. et al. "Evaluation of Compost Tea for Control of Foliar Diseases." Acta Horticulturae, 2004.
-  - Endo, A. & Dicksved, J. "Lactobacillus Communities in Organic Farming." Microbial Ecology, 2015.
+  - Endo, A. & Dicksved, J. "Lactobacillus Communities in Organic Farming." [[fukuoka-microbial-ecology-decomposition]], 2015.
   - ATTRA (NCAT). "Compost Teas: A Practical Guide for Growers." 2022.
 type: comparison
 ---
@@ -59,7 +59,7 @@ The microbial profile is the single most important difference. LAB serum deliver
 - Common in KNF systems alongside other IMO preparations
 
 **Compost Tea:**
-- Inoculates soil or leaf surfaces with a complete microbial community
+- Inoculates soil or leaf surfaces with a complete [[edaphic-factors-microbial-community-structure]]
 - Improves soil structure through bacterial and fungal glues (aggregation)
 - Protozoa consume bacteria, releasing plant-available nitrogen
 - Fungal component supports woody plant health and disease resistance
@@ -100,7 +100,7 @@ LAB serum is the most accessible biological amendment a grower can make. Compost
 |---|---|---|
 | **Shelf life (with sugar)** | 6–12+ months | Hours — must use immediately |
 | **Without preservative** | 1–2 weeks refrigerated | 4–6 hours maximum |
-| **Storage conditions** | Cool, dark place; fridge extends life | Cannot be stored effectively |
+| **[[vegetable-storage-conditions-by-temperature-and-humidity]]** | Cool, dark place; fridge extends life | Cannot be stored effectively |
 | **Quality over time** | Gradual decline in viable count | Rapid decline once aeration stops |
 | **Freezing** | Can be frozen long-term | Not recommended |
 
@@ -108,9 +108,9 @@ This is a major practical difference. LAB serum is a "make once, use for months"
 
 ## Effectiveness for Disease Suppression
 
-**LAB serum** suppresses disease through **competitive exclusion and biochemical inhibition** — lactic acid, bacteriocins, and hydrogen peroxide directly inhibit pathogens, while the acidic leaf surface environment prevents fungal establishment. Good efficacy against powdery mildew, downy mildew, and bacterial leaf spots when applied preventively.
+**LAB serum** suppresses disease through **competitive exclusion and biochemical inhibition** — lactic acid, bacteriocins, and [[cervantes-hydrogen-peroxide-sterilization]] directly inhibit pathogens, while the acidic leaf surface environment prevents fungal establishment. Good efficacy against powdery mildew, downy mildew, and bacterial leaf spots when applied preventively.
 
-**Compost tea** works through **ecological competition and induced systemic resistance**. The diverse community occupies niches on leaves and in the rhizosphere, blocking pathogens. Fungi suppress soil-borne diseases (Fusarium, Pythium, Rhizoctonia), protozoa consume pathogenic bacteria, and the tea can trigger the plant's immune responses for systemic protection.
+**Compost tea** works through **ecological competition and [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance**. The diverse community occupies niches on leaves and in the rhizosphere, blocking pathogens. Fungi suppress soil-borne diseases (Fusarium, Pythium, Rhizoctonia), protozoa consume pathogenic bacteria, and the tea can trigger the plant's immune responses for systemic protection.
 
 **Bottom line**: LAB serum is strong for targeted foliar disease prevention. Compost tea provides broader-spectrum protection including soil-borne pathogens, but effectiveness depends on source compost quality.
 
@@ -131,7 +131,7 @@ This is a major practical difference. LAB serum is a "make once, use for months"
 ## When to Choose One Over the Other
 
 **Choose LAB Serum when:** you need a simple, low-cost input with long shelf life; foliar disease prevention is the primary goal; you're in a KNF system; or you lack space/budget for a tea brewer.
-**Choose Compost Tea when:** you need broad-spectrum biology including fungi and protozoa; you're managing soil-borne diseases; you want improved soil structure and nutrient cycling; or you need a one-product solution for overall plant health.
+**Choose Compost Tea when:** you need broad-spectrum biology including fungi and protozoa; you're managing soil-borne diseases; you want improved soil [[root-anatomy-structure-and-nutrient-uptake]] cycling; or you need a one-product solution for overall plant health.
 ## See Also
 
 - [[comparison-compost-tea-vs-vermicompost-tea]]

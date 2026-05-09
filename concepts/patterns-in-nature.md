@@ -1,6 +1,6 @@
 ---
 
-title: Patterns in Nature
+title: mollison-spiral-patterns-in-nature-and-design
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -22,7 +22,7 @@ sources:
 
 # Patterns in Nature
 
-Natural patterns are the templates for permaculture design. Mollison's Designer's Manual devotes Chapter 4 entirely to pattern understanding; Holmgren's Principle 7 ("Design from Patterns to Details") provides the practical framework. See [[permaculture-design-methods]] for how patterns integrate into the design process.
+Natural patterns are the templates for permaculture design. Mollison's Designer's Manual devotes Chapter 4 entirely to [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]]; Holmgren's Principle 7 ("[[permaculture-principle-design-from-patterns-to-details]] to Details") provides the practical framework. See [[permaculture-design-methods]] for how patterns integrate into the design process.
 
 ## The General Pattern Model
 
@@ -42,7 +42,7 @@ Galaxies, sunflowers, snail shells, global air circulation, whirlpools, chains o
 
 - Spirals arise whenever growth combines with rotation or expansion over time
 - The Fibonacci sequence (1, 1, 2, 3, 5, 8, 13...) governs spiral packing in seeds, leaves, and petals
-- **Design application**: Herb spirals create microclimates (dry/sunny top, moist/shady bottom), water flow in ponds, garden bed access paths, chicken tractor rotation spirals
+- **Design application**: Herb spirals [[query-how-do-i-create-microclimates-in-my-garden]] (dry/sunny top, moist/shady bottom), water flow in ponds, garden bed access paths, [[comparison-chicken-tractor-vs-free-range]] rotation spirals
 
 ## Waves
 
@@ -103,7 +103,7 @@ Holmgren emphasises that systems operate at different scales. Functional scale i
 ## Related Pages
 - [[permaculture-principles]] -- Principle 7: Design from Patterns to Details
 - [[permaculture-design-methods]] -- Full design process
-- [[permaculture-design]] -- Zone and sector analysis
+- [[permaculture-design]] -- Zone and [[mollison-designers-sector-analysis-wind-sun-fire]]
 - [[edge-effect-and-microclimate]] -- Edge as a pattern phenomenon
 - [[keyline-design]] -- Pattern-based water management
 - [[food-forest-design]] -- Forest structure as applied pattern

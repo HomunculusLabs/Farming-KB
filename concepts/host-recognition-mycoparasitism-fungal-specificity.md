@@ -2,7 +2,7 @@
 title: "Host Recognition and Specificity in Fungal Mycoparasitism"
 created: 2026-04-26
 tags:
-  - [[fungal-ecology]]
+  - fungal-ecology
   - cell-signaling
 date: 2026-04-25
 updated: 2026-04-25
@@ -24,7 +24,7 @@ enormously among mycoparasitic fungi, from generalists
 that attack a broad range of fungal hosts to specialists
 restricted to a single species. Understanding these
 recognition mechanisms is essential for elucidating the
-ecology and evolution of zoosporic mycoparasites aquatic fungi,
+ecology and evolution of zoosporic mycoparasites [[bloomfield-ingoldian-aquatic-fungi-spore-dispersal]],
 terrestrial [[trichoderma-harzianum]], widely used as a biocontrol agent,
 can parasitize numerous plant pathogenic fungi including
 Rhizoctonia, Fusarium, Pythium, and Sclerotinia species.
@@ -32,7 +32,7 @@ Similarly, some zoosporic mycoparasites such as certain
 Rozella species can infect multiple chytrid and oomycete
 genera. Broad host range is often associated with
 generalist enzyme systems capable of degrading diverse
-fungal cell wall types.
+[[gadd-fungal-cell-structure]] wall types.
 
 ### Narrow-Spectrum Specialists
 
@@ -73,17 +73,17 @@ communication system.
 
 ### Cell Wall Degradation Products
 
-Degradation products of host alpha glucan fungal, released by the
+Degradation products of host alpha [[alpha-1-3-glucan-fungal-pathogen-cell-walls]], released by the
 parasite's own lytic enzymes, can serve as positive feedback
 signals that reinforce the parasitic interaction. Small
 oligosaccharide fragments released from chitin or glucan
-in the host wall may stimulate further enzyme production
+in the host wall may stimulate further [[ligninolytic-enzyme-production-bioremediation]]
 by the parasite, creating a cascade of degradation and
 recognition.
 
 ### Secondary Metabolites
 
-Some mycoparasites produce singh ergot alkaloid that
+Some mycoparasites produce singh [[kykeon-composition-and-ergot-alkaloid-hypothesis]] that
 suppress host defenses or facilitate host recognition.
 Antibiotic compounds may inhibit the growth of competing
 microorganisms, creating a favorable niche for the
@@ -100,3 +100,5 @@ Many have evolved defense mechanisms that can limit or
 ## See Also
 
 - [[fungal-endemism-host-specificity]]
+- mycorrhizal-specificity-and-host-range
+- [[mycorrhiza]]

@@ -1,130 +1,146 @@
 ---
 title: Fungal Community Assembly and Dynamics
 created: 2026-04-28
-tags: [[mycology, community-ecology, fungal-communities, succession, species-interactions]
+tags: [mycology, community ecology, fungal communities, succession,  species interactions]
 date: 2026-04-28
-updated: 2026-04-28
+updated: 2026-05-09
 sources: ["/Users/t3erpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
 
 # Fungal Community Assembly and Dynamics
 
-Fungal community assembly refers to the processes by which
-fungal species colonize, establish, and interact within a
-given habitat. Understanding these processes is fundamental
-to explaining patterns of fungal diversity, distribution, and
-ecosystem function. Fungal communities are shaped by a complex
-interplay of deterministic factors (environmental filtering,
-species interactions) and stochastic processes (dispersal
-limitation, ecological drift).
+Fungal community assembly refers to the processes by which fungal species
+colonize, establish, and interact within a given habitat. Understanding these
+processes is fundamental to explaining patterns of fungal diversity,
+distribution, and ecosystem function. Fungal communities are shaped by a
+complex interplay of deterministic factors (environmental filtering, species
+interactions) and stochastic processes ([[fungal-dispersal-limitation-biogeographic-barriers]], ecological drift).
+
+## Community Assembly Theory
+
+Community assembly theory provides the conceptual framework for understanding
+how fungal communities are constructed from the regional species pool.
+Deterministic assembly occurs when environmental conditions selectively filter
+species based on their traits, allowing only those adapted to local conditions
+to establish. Stochastic assembly results from random processes such as the
+order of species arrival, demographic fluctuations, and dispersal limitation
+that operate independently of species traits.
+
+In practice, most fungal communities are assembled through a combination of
+both deterministic and stochastic processes. The relative importance of each
+varies with spatial scale, habitat heterogeneity, and disturbance regime. At
+local scales, deterministic filtering by substrate chemistry and moisture
+often dominates. At broader geographic scales, stochastic dispersal limitation
+becomes increasingly important.
 
 ## Determinants of Fungal Community Structure
 
-The assembly of fungal communities is influenced by multiple
-overlapping factors. Plant diversity and distribution exert
-the greatest influence on microfungal diversity at a site,
-because a large proportion of microfungi have at least some
-degree of host and substratum preference. Fungal diversity is
-also affected by variations in host life form; lignified
-tissues such as wood, bark, and bamboo stems decay much more
-slowly than non-lignified remains and therefore exhibit more
-extensive succession of fungal species.
+The assembly of fungal communities is influenced by multiple overlapping
+factors. Plant diversity and distribution exert the greatest influence on
+[[leaf-litter-microfungal-diversity-tropical-temperate]] at a site, because a large proportion of microfungi have
+at least some degree of host and substratum preference. Fungal diversity is
+also affected by variations in host life form; lignified tissues such as
+wood, bark, and bamboo stems decay much more slowly than non-lignified remains
+and therefore exhibit more extensive succession of fungal species.
 
-Distinct guilds of fungi are associated with dead bryophytes,
-algae, grasses, and other plant groups, and the diversity of
-the fungi will be strongly positively correlated with the
-numbers of these plant groups. Water availability directly
-affects rates of decomposition and promotes fungal growth in
-general. Fungi vary in their tolerances to water stress, and
-interspecific competition can modify community composition
-under different moisture regimes.
+Water availability directly affects rates of decomposition and promotes fungal
+growth in general. Fungi vary in their tolerances to water stress, and
+interspecific competition can modify [[core-endorhiza-bacterial-community-composition-cannabis]] under different
+moisture regimes. Temperature, pH, and [[ph-and-nutrient-availability-garden-soils]] further shape the
+environmental template on which assembly processes operate.
 
-## Successional Patterns
+## Succession Patterns
 
-Fungal succession is a well-documented phenomenon in which
-species replace one another over time on a given substrate.
-In coprophilous (dung-inhabiting) fungi, a classic succession
-has been described: Zygomycetes appear early (within 5 to 14
-days), followed by Ascomycetes, then Basidiomycetes, and much
+Fungal succession is a well-documented phenomenon in which species replace one
+another over time on a given substrate. In coprophilous (dung-inhabiting)
+fungi, a classic succession has been described: Zygomycetes appear early
+(within 5 to 14 days), followed by Ascomycetes, then Basidiomycetes, and much
 later by Myxomycetes, over a period as long as two months.
 
-The sequence of species in succession is based on the types of
-substrates, carbohydrates, cellulose, and lignins used by each
-fungal group. Competition from other organisms and availability
-of specific nutrients and substrates modify the strict linear
-progression. Certain fungi are antagonistic to and suppress
-the fruiting of other fungi through hyphal interference, which
-is apparently widespread among coprophilous fungi. Other fungi
-produce diffusible antibiotics that restrict the growth of
-competing species.
+The sequence of species in succession is based on the types of substrates,
+carbohydrates, cellulose, and lignins used by each fungal group. Competition
+from other organisms and availability of specific nutrients modify the strict
+linear progression. Certain fungi are antagonistic to and suppress the
+fruiting of other fungi through hyphal interference, which is apparently
+widespread among coprophilous fungi.
 
-Environmental factors also influence the composition of
-mycobiota during succession. Temperature affects which species
-dominate at different times, and light can influence fungal
-succession, with some taxa being positively phototropic.
-Moisture availability is a self-evident factor that shapes
-successional trajectories.
+In wood decay, succession follows a predictable pattern from primary
+colonizers (soft-rot fungi and some Ascomycetes) through secondary decomposers
+(white-rot and brown-rot Basidiomycetes) to late-stage specialists that
+exploit the remaining recalcitrant materials. This successional gradient
+creates a dynamic community structure that changes over years to decades.
+
+## Disturbance Effects
+
+Human disturbance, including logging, cultivation, and chemical pollution,
+has dramatic effects on microfungus diversity, both through impacts on plant
+communities and through direct [[brassinosteroid-effects-on-fungal-morphology]] populations. Disturbance
+can simplify fungal communities by removing specialist species and favoring
+generalists that tolerate degraded conditions. The intensity, frequency, and
+type of disturbance all influence community recovery trajectories.
+
+Natural disturbances such as wildfire, flooding, and windthrow also shape
+fungal communities. Fire can both eliminate fire-sensitive species and create
+conditions favorable for pyrophilous (fire-loving) fungi. Post-disturbance
+communities typically show reduced diversity initially, followed by a gradual
+recovery as succession proceeds. The speed and completeness of recovery
+depends on the availability of inoculum from undisturbed refugia.
+
+## Functional Groups
+
+Fungal communities are composed of multiple functional groups that occupy
+distinct ecological niches. Saprotrophic fungi decompose dead organic matter
+and are the primary agents of nutrient cycling in terrestrial ecosystems.
+Pathogenic fungi attack living organisms and can structure plant communities
+through host-specific effects. Mutualistic mycorrhizal fungi form symbiotic
+associations with plant roots, facilitating nutrient exchange.
+
+Endophytic fungi inhabit living plant tissues without causing apparent
+disease, and many produce [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] that influence community
+interactions. The relative abundance of these functional groups varies across
+habitats and successional stages. Early-successional communities tend to be
+dominated by fast-growing saprotrophs, while mature communities often harbor
+more diverse assemblages including specialists and mutualists.
 
 ## Species Interactions and Competition
 
-Species interactions are central to fungal community assembly.
-Mycoparasitism, in which one fungus parasitizes another, is
-a major force structuring fungal communities. Fungal
-community structure is strongly influenced by mycoparasitic
-interactions, with some fungicolous fungi producing antibiotic
-metabolites that antagonize potential competitors over a
-distance.
+Species interactions are central to fungal community assembly. Mycoparasitism,
+in which one fungus parasitizes another, is a major force structuring fungal
+communities. Hyphal interference, antibiotic production, and enzymatic
+degradation of competitor cell walls all contribute to competitive outcomes.
+The ability of some fungicolous fungi to reduce the abundance of specific
+competitors can significantly alter community composition.
 
-The ability of some fungicolous fungi to reduce the
-abundance of specific competitors can significantly alter
-community composition. Hyphal interference, antibiotic
-production, and enzymatic degradation of competitor cell
-walls all contribute to competitive outcomes. In soil
-environments, the spatial arrangement of fungal colonies and
-their interaction networks creates complex community
-dynamics that are difficult to study in situ.
+In soil environments, the spatial arrangement of fungal colonies and their
+interaction networks creates complex community dynamics that are difficult to
+study in situ. Fungal-fungal interactions can be antagonistic, competitive,
+or even facilitative, with some species creating conditions that favor the
+establishment of others.
 
 ## Stochastic Processes and Dispersal
 
-Stochastic processes play an important role in fungal
-community assembly, particularly through dispersal limitation.
-Spore production in a wide range of fungi depends on adequate
-rainfall, and the considerable diversity of fungi in aquatic
-environments is indicative of the importance of water as a
-factor limiting fungal existence and dispersal. Spore
-deposition patterns, which are influenced by wind, water, and
+Stochastic processes play an important role in fungal community assembly,
+particularly through dispersal limitation. Spore production depends on adequate
+rainfall, and the considerable diversity of fungi in aquatic environments is
+indicative of the importance of water as a factor limiting fungal existence
+and dispersal. Spore deposition patterns, influenced by wind, water, and
 animal vectors, introduce randomness into community assembly.
 
-A smaller fraction of soil fungi may be incidental or
-transient invaders whose spores are introduced accidentally
-and then remain dormant until they perish. These transient
-species contribute to the apparent species pool but may not
-participate actively in community processes.
+A smaller fraction of soil fungi may be incidental or transient invaders whose
+spores are introduced accidentally and then remain dormant until they perish.
+These transient species contribute to the apparent species pool but may not
+participate actively in community processes. The distinction between resident
+and transient species is important for understanding true community diversity.
 
 ## Methods for Studying Community Assembly
 
-Inventories using a single isolation method detect only a
-portion of the organisms present. Varied new approaches to
-the evaluation of soil and rhizosphere communities have
-demonstrated that combining multiple isolation techniques
-is essential for capturing fungal community diversity. Direct
-observation of fungi in soil is possible, but usually only
-indistinct and featureless mycelia are visible. Molecular
-methods, including DNA-based community profiling, are
-increasingly important for characterizing fungal community
-assembly without the biases inherent in cultivation.
-
-## Implications for Biodiversity Estimation
-
-Understanding community assembly processes is critical for
-accurate estimation of fungal biodiversity. Human disturbance,
-including logging, cultivation, and chemical pollution, has
-dramatic effects on microfungus diversity, both through
-impacts on plant communities and through direct effects on
-fungal populations. Standardization of sampling protocols
-remains essential for meaningful comparisons across studies
-and ecosystems.
+Inventories using a single isolation method detect only a portion of the
+organisms present. Combining multiple isolation techniques is essential for
+capturing fungal community diversity. Molecular methods, including DNA-based
+community profiling and high-throughput sequencing, are increasingly important
+for characterizing fungal community assembly without the biases inherent in
+cultivation.
 
 ## See Also
 

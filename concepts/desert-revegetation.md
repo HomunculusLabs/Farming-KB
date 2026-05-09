@@ -1,5 +1,5 @@
 ---
-title: Desert Revegetation
+title: fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique
 created: 2026-04-28
 tags: [ecology, climate, restoration, agriculture]
 date: 2026-04-28
@@ -13,7 +13,7 @@ type: concept
 **Desert revegetation** is the process of restoring plant cover to arid and
 semi-arid lands that have lost their native vegetation. Masanobu Fukuoka
 proposed a distinctive approach to desert revegetation based on scattering
-clay-encased seed pellets containing diverse species mixtures, arguing that
+clay-encased [[clay-seed-pellets-direct-seeding]] containing diverse species mixtures, arguing that
 large-scale ecological recovery could be initiated through this simple,
 low-cost intervention. His proposal challenged both the scientific consensus on
 desertification causation and the conventional approaches to land restoration.
@@ -49,10 +49,10 @@ maximum resilience across a range of possible conditions:
 - **Pioneer trees**: Black wattle (*Acacia mearnsii*) and similar species
   capable of establishing in extremely arid conditions (less than 2 inches of
   annual rainfall), fixing atmospheric nitrogen, and providing initial shade
-  and wind protection for subsequent succession.
+  and [[cervantes-wind-protection-outdoor-cannabis]] for subsequent succession.
 
-- **Leguminous ground covers**: Clover, alfalfa, and bur clover to fix
-  nitrogen, build soil organic matter, and create a moisture-retaining mulch
+- **Leguminous [[permaculture-plants-food-forest-ground-covers-bamboos]]**: Clover, alfalfa, and bur clover to fix
+  nitrogen, build soil [[hamilton-composting-and-organic-matter-management]], and create a moisture-retaining mulch
   layer as they die back seasonally.
 
 - **Grasses and grains**: Fast-growing species to provide rapid ground cover,
@@ -87,7 +87,7 @@ the appropriate outcomes.
 
 Fukuoka's desert revegetation proposals attracted international attention and
 were tested in pilot projects in India, the Philippines, Tanzania, and the
-United States. Results were mixed, with some sites showing promising
+[[dmt-containing-plants-united-states-halpern]]. Results were mixed, with some sites showing promising
 establishment while others failed to achieve significant vegetation cover.
 Ecologists generally agreed with his diagnosis of vegetation-rainfall feedback
 loops but questioned whether clay pellet broadcasting alone could overcome the

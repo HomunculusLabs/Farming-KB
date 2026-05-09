@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Urbatsch, L.E. (2000). "Rudbeckia." In Flora of North America North of Mexico, Vol. 21. Oxford University Press.
+  - Urbatsch, L.E. (2000). "Rudbeckia." In Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 21. Oxford University Press.
   - USDA NRCS (2024). "Rudbeckia laciniata L." PLANTS Database. https://plants.usda.gov/home/plantProfile?symbol=RULA
   - Fernald, M.L. (1950). Gray's Manual of Botany, 8th ed. American Book Company.
   - Kindscher, K. (1987). Edible Wild Plants of the Prairie. University Press of Kansas.
@@ -52,15 +52,15 @@ Achenes are dark brown to black, 4–5 mm long, quadrangular, and lack a pappus.
 
 The fruit is a dark achene, 3–4 mm long, lacking a pappus or with a short crown-like remnant.
 
-The root system consists of a fibrous root crown with short, thick rhizomes. Established plants develop a substantial root mass that contributes to drought tolerance.
+The root system consists of a fibrous root crown with short, thick rhizomes. Established plants develop a substantial root mass that contributes to [[dighton-fungal-drought-tolerance-plant-water-relations]].
 
 Several recognized varieties have been described, including var. humilis (a shorter, more compact form) and var. ampla (a western form with larger flower heads).
 
 ## Distribution and Habitat
 
-**Rudbeckia laciniata** is native to most of eastern North America, from Quebec and Ontario south to Georgia and west to Minnesota and Oklahoma.
+**Rudbeckia laciniata** is native to most of [[polypore-fungi-eastern-north-america]] America, from Quebec and Ontario south to Georgia and west to Minnesota and Oklahoma.
 
-Disjunct populations occur in the western United States, likely introduced or naturalized from cultivation.
+Disjunct populations occur in the western [[dmt-containing-plants-united-states-halpern]], likely introduced or naturalized from cultivation.
 
 The species has been widely introduced in Europe and Asia as an ornamental and has naturalized in parts of Scandinavia, Japan, and China.
 
@@ -86,11 +86,11 @@ Plants perform best in rich, moist soil in full sun to partial shade.
 
 Taller stems may require staking in exposed sites, especially in cultivars with heavy flower heads.
 
-The species is relatively pest-free, though slugs and snails can damage young foliage in damp conditions.
+The species is relatively pest-free, though [[query-how-to-get-rid-of-slugs-and-snails-organically]] can damage young foliage in damp conditions.
 
 ## Edibility and Traditional Uses
 
-Young shoots and leaves of **Rudbeckia laciniata** are edible when cooked and were historically consumed by Native American tribes and early settlers.
+Young shoots and leaves of **Rudbeckia laciniata** are edible when cooked and were historically consumed by [[halpern-sacramental-peyote-and-native-american-church]] tribes and early settlers.
 
 The Potawatomi and Iroquois traditionally harvested the tender young stems in spring, boiling them as a potherb.
 

@@ -1,5 +1,5 @@
 ---
-title: Composting Critique and the Futility of Prepared Organic Matter
+title: fukuoka textdoc composting critique futility prepared organic matter and the Futility of Prepared hamilton-composting-and-organic-matter-management
 created: 2026-04-28
 tags: [fukuoka, natural-farming, compost, organic-farming, soil-fertility, decomposition, mulberry, straw, no-fertilizer, critique]
 date: 2026-04-28
@@ -14,8 +14,8 @@ type: concept
 While Fukuoka acknowledged that compost itself is not without value, he
 firmly maintained that the composting of organic materials is fundamentally
 useless. This position placed him in direct opposition not only to
-conventional chemical agriculture but also to the organic farming movement,
-which he regarded as just another form of scientific farming dressed in green
+conventional chemical agriculture but also to the [[coleman-deep-organic-farming-philosophy]] movement,
+which he regarded as just another form of [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] dressed in green
 clothing.
 
 ## The Composting Process and Its Diminishing Returns
@@ -76,7 +76,7 @@ involved. Nonintervention is the wisest course of action.
 ## The Straw Mulch Alternative
 
 Fukuoka had already discovered a method of applying straw that achieved
-outstanding results without any composting preparation. In his rice and barley
+outstanding results without any composting preparation. In his [[fukuoka-rice-and-barley-natural-farming]]
 succession system, straw from the harvested crop is simply spread over the
 field as mulch. This straw protects the soil surface, retains moisture,
 suppresses weeds, and gradually decomposes in place, feeding soil organisms
@@ -111,7 +111,7 @@ transporting them, applying them, and managing their effects. Each step takes
 the farmer further from nature.
 
 The no-fertilizer principle does not say that fertilizers are worthless, but
-that there is no need to apply chemical fertilizers. The same logic extends
+that there is no need to apply [[cervantes-chemical-fertilizers-guide]]. The same logic extends
 to compost: there is no need to prepare compost when nature can build soil
 through its own mechanisms of ground cover, root penetration, microbial
 activity, and natural succession.

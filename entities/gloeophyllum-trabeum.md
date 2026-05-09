@@ -16,7 +16,7 @@ sources:
 
 # Gloeophyllum trabeum
 
-**Gloeophyllum trabeum** is a basidiomycete brown rot fungus and one of the most aggressive and widely studied wood-decay organisms in forest ecosystems and the built environment. Commonly known as the **labyrinthine polypore** or **brown oak polypore**, it is a primary cause of brown rot decay in structural timber, utility poles, railroad ties, and other wood products in service. *G. trabeum* is frequently used as a reference organism in wood preservation research and is designated as a standard test fungus in international standards for evaluating wood preservatives.
+**Gloeophyllum trabeum** is a basidiomycete brown rot fungus and one of the most aggressive and widely studied wood-decay organisms in forest ecosystems and the built environment. Commonly known as the **labyrinthine polypore** or **brown oak polypore**, it is a primary cause of brown rot decay in [[singh-wood-rot-fungi-structural-timber-decay]], utility poles, railroad ties, and other wood products in service. *G. trabeum* is frequently used as a reference organism in wood preservation research and is designated as a standard test fungus in international standards for evaluating wood preservatives.
 
 ## Taxonomy and Classification
 
@@ -36,7 +36,7 @@ The genus *Gloeophyllum* was historically placed within the Polyporales but has 
 - **Upper Surface:** When pileate, the upper surface is concentrically zoned with varying shades of brown, ranging from light tan to dark reddish-brown. The surface may be smooth to finely hairy
 - **Pore Surface (Hymenophore):** The underside bears a daedaleoid (labyrinthine) to poroid pore surface, with elongated, maze-like pores. This distinctive pore morphology gives the fungus its common name. Pores are angular and irregular, 1 to 3 per millimeter
 - **Context (Flesh):** Tough and corky, pale brown to cinnamon-colored
-- **Spore Print:** White
+- **spore print rint:** White
 - **Basidiospores:** Cylindrical to ellipsoidal, smooth, 6 to 9 by 2 to 3.5 μm, non-amyloid
 
 ### Mycelium and Decay Characteristics
@@ -52,7 +52,7 @@ The genus *Gloeophyllum* was historically placed within the Polyporales but has 
 The primary mechanism of wood decay in *G. trabeum* involves the generation of hydroxyl radicals through Fenton reaction:
 
 1. **Iron Reduction:** The fungus secretes extracellular low-molecular-weight compounds that reduce Fe3+ to Fe2+. Key compounds include catecholate and hydroxyquinolate siderophores
-2. **Hydrogen Peroxide Generation:** The fungus produces hydrogen peroxide through the action of extracellular oxidases and through intracellular metabolic pathways
+2. **[[cervantes-hydrogen-peroxide-sterilization]] Generation:** The fungus produces hydrogen peroxide through the action of extracellular oxidases and through intracellular metabolic pathways
 3. **Hydroxyl Radical Production:** Fe2+ reacts with H2O2 in the Fenton reaction to produce hydroxyl radicals, the most powerful oxidizing agents in biological systems
 4. **Non-Enzymatic Depolymerization:** Hydroxyl radicals attack cellulose and hemicellulose in the wood cell wall, causing depolymerization long before hyphae physically reach the affected areas
 
@@ -68,7 +68,7 @@ Research has identified specific iron-reducing compounds produced by *G. trabeum
 
 - **Natural Habitat:** Commonly found on dead wood of coniferous trees (especially pine, spruce, and fir) in forest ecosystems. Also occurs on hardwoods, particularly oak. Prefers relatively dry conditions compared to many other wood-decay fungi
 - **Built Environment:** A major cause of decay in structural timber, utility poles, railroad ties (sleepers), fence posts, and exterior woodwork. Capable of decaying wood at relatively low moisture contents (15 to 20 percent)
-- **Geographic Distribution:** Cosmopolitan in temperate regions worldwide, found across North America, Europe, Asia, and parts of the Southern Hemisphere
+- **Geographic Distribution:** Cosmopolitan in temperate regions worldwide, found across North America, Europe, Asia, and parts of the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]
 - **Ecological Role:** An important decomposer of woody debris in forest ecosystems, contributing to carbon cycling and nutrient release from dead wood
 
 ## Importance in Wood Preservation
@@ -97,7 +97,7 @@ The genome of *G. trabeum* has been sequenced, providing insights into brown rot
 
 - **Genome Reduction:** Compared to white rot ancestors, the *G. trabeum* genome shows a contraction in the repertoire of lignin-degrading enzymes (lignin peroxidases, manganese peroxidases, and certain laccases), consistent with the evolution of the brown rot strategy
 - **Iron Metabolism Genes:** An expanded set of genes involved in iron acquisition and reduction, supporting the importance of Fenton chemistry in its decay mechanism
-- **Secondary Metabolism:** Contains gene clusters for the production of various secondary metabolites, some of which may function in competitive interactions with other microorganisms
+- **Secondary Metabolism:** Contains gene clusters for the production of various [[antifungal-secondary-metabolites-coprophilous-fungi]], some of which may function in competitive interactions with other microorganisms
 
 ## Ecological Interactions
 
@@ -105,13 +105,13 @@ The genome of *G. trabeum* has been sequenced, providing insights into brown rot
 
 - **Competition:** Competes with other wood-decay fungi and bacteria for wood substrates. Its ability to rapidly colonize and chemically modify wood ahead of hyphal growth provides a competitive advantage
 - **Invertebrate Associations:** Wood-decaying fungi, including *G. trabeum*, serve as food sources and habitat for various invertebrates, including wood-boring beetles and their gut fungi
-- **Nutrient Cycling:** Through its decomposition activities, *G. trabeum* releases carbon, nitrogen, and other nutrients bound in woody biomass, making them available for uptake by plants and other organisms
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]:** Through [[decomposition]] tion activities, *G. trabeum* releases carbon, nitrogen, and other nutrients bound in woody biomass, making them available for uptake by plants and other organisms
 
 ## Comparative Analysis with Other Brown Rot Fungi
 
 *Gloeophyllum trabeum* can be compared with other major brown rot fungi to highlight the diversity of decay strategies:
 
-- **Decay Rate:** *G. trabeum* is generally considered the most aggressive brown rot fungus in standardized soil block tests (AWPA E10, EN 113), typically causing greater mass loss in pine sapwood than *Coniophora puteana* or *Serpula lacrymans* under comparable conditions
+- **Decay Rate:** *G. trabeum* is generally considered the most aggressive brown rot fungus in standardized soil block tests (AWPA E10, EN 113), typically causing greater mass loss in pine sa coniophora puteana hora puteana* or *[[fungal-serpula-lacrymans-dry-rot-buildings]]* under comparable conditions
 - **Moisture Tolerance:** Unlike *C. puteana* and *S. lacrymans*, *G. trabeum* can initiate and sustain decay at relatively low wood moisture contents (15 to 20%), making it particularly problematic in above-ground exterior wood applications such as utility poles and fence posts
 - **Iron Chelation:** *G. trabeum* produces 2,5-dimethoxyhydroquinone (2,5-DMHQ) as a key iron-reducing compound, while *Serpula* and *Coniophora* species utilize different low-molecular-weight iron chelators, reflecting convergent evolution of Fenton chemistry
 - **Genomic Reduction:** The *G. trabeum* genome shows a more complete loss of lignin-degrading peroxidases compared to *C. puteana*, suggesting a more specialized brown rot strategy

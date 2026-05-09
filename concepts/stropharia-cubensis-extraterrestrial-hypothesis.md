@@ -1,5 +1,5 @@
 ---
-title: "Stropharia Cubensis Extraterrestrial Hypothesis"
+title: "Stropharia stropharia cubensis extraterrestrial hypothesis Hypothesis"
 created: 2026-04-28
 tags: [stropharia-cubensis, extraterrestrial, panspermia, spores,
       mckenna, mushroom, symbiosis]
@@ -24,7 +24,7 @@ McKenna reported that within the mushroom trance, he was informed that
 "once a culture has complete understanding of its genetic information,
 it re-engineers itself for survival." According to this account, the
 Stropharia cubensis mushroom's version of re-engineering involves a
-mycelial network strategy when in contact with planetary surfaces and a
+[[gadd-mycelial-network-dynamics]] strategy when in contact with planetary surfaces and a
 spore-dispersion strategy for radiating throughout the galaxy.
 
 The mushroom presented itself explicitly as an extraterrestrial organism,
@@ -35,14 +35,14 @@ to be explored rather than a revelation to be believed.
 
 ## Spore Biology and Interstellar Travel
 
-McKenna advanced several observations about psilocybin mushroom spores
+McKenna advanced several observations about [[emcdda-psilocybin-mushroom-dose-and-effects]] spores
 that he argued are consistent with an extraterrestrial origin:
 
 - The spores are "deep, deep purple," the color they would need to be
   to absorb the deep ultraviolet end of the spectrum in space.
 - The casing of a spore is one of the hardest organic substances known,
-  with electron density approaching that of a metal.
-- Spores are extremely light and, by Brownian motion, capable of
+  with [[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]] approaching that of a metal.
+- Spores are extremely light and, by [[mckenna-spore-brownian-motion-and-galactic-percolation]], capable of
   percolating to the edge of a planet's atmosphere.
 - Through interaction with energetic particles, some spores could
   potentially escape into interstellar space.
@@ -84,7 +84,7 @@ dimensions of experience that would otherwise remain inaccessible.
 McKenna traced the historical suppression of mushroom use to the
 Spanish conquest of Mexico. The Franciscans "assumed they had an
 absolute monopoly on theophagy, the eating of God," yet in the New
-World they encountered people who called a mushroom teonanacatl, "the
+World they encountered people who called a [[mckenna-mushroom-teonanacatl-franciscan-theophagy-and-oaxaca-survival]], "the
 flesh of the gods." The Inquisition was able to push the old religion
 into the mountains of Oaxaca, where it only survived in a few villages
 when Valentina and Gordon Wasson rediscovered it in the 1950s.

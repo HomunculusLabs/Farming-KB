@@ -1,34 +1,29 @@
 ---
-title: Cold Climate Greenhouse
+title: permaculture-designers-manual-cold-climate-design Greenhouse
 created: 2026-04-15
 updated: 2026-04-21
 type: concept
-tags: [[permaculture, design]
+tags: [permaculture, design]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-
-# Cold Climate Greenhouse
-
-updated: 2026-04-18
-
-From: [[graywater-systems]] so that water from household sinks and showers is filtered and routed to the greenhouse, reducing the need for fresh irrigation water.
-Mollison emphasises that greywater from composting toilets or animal pens, when properly treated through biological filtration systems, can supply both water and nutrients to greenhouse crops.
+# Cold Climate Greenhouse updated: 2026-04-18 From: [[graywater-systems]] so that water from household sinks and showers is filtered and routed to the greenhouse, reducing the need for fresh irrigation water.
+Mollison emphasises that greywater from [[comparison-composting-toilets-vs-greywater-systems-detailed]] or animal pens, when properly treated through biological filtration systems, can supply both water and nutrients to greenhouse crops.
 The integration of water storage, thermal mass, and nutrient recycling exemplifies the permaculture principle of each element performing multiple functions.
 
 ## Climate-Specific Crop Selection
 
-Cold climate greenhouses extend the growing season but crop selection must still account for lower light levels and cooler temperatures during winter months.
+Cold climate greenhouses [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season but crop selection must still account for lower light levels and cooler temperatures during winter months.
 Leafy greens such as spinach, kale, chard, and Asian greens perform well in cool greenhouse conditions with minimal supplemental heat.
 Root vegetables like radishes, carrots, and turnips can be grown in deep raised beds inside the greenhouse.
 Cold-tolerant herbs including parsley, cilantro, and chives provide year-round harvests.
-For fruiting crops like tomatoes and peppers, the greenhouse must maintain minimum temperatures above 10°C (50°F); in very cold climates this typically requires supplementary heat from compost systems or animal housing.
-Succession planting ensures continuous harvests: as one crop is harvested, seedlings started in a warm propagation area are transplanted into the vacated space.
+For fruiting crops like tomatoes and peppers, the greenhouse must maintain minimum temperatures above 10°C (50°F); in very cold climates this typically requires supplementary heat from compost systems or [[permaculture-designers-manual-animal-housing-detailed]].
+[[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] ensures continuous harvests: as one crop is harvested, seedlings started in a warm propagation area are transplanted into the vacated space.
 
 ## Related Topics
 
-- [[permaculture-designers-manual-cold-climates]] - cold climate strategies
-- [[permaculture-designers-manual-animal-housing-detailed]] - integrated animal shelters
-- [[permaculture-designers-manual-climate-factors]]
+- permaculture-designers-manual-cold-climates - cold climate strategies
+- [[permaculture-designers-manual-animal-housing-detailed]] - [[permaculture-integrated-animal-systems]] shelters
+- permaculture-designers-manual-climate-factors
 - [[graywater-systems]] - greywater integration
 - permaculture-designers-manual-zones-and-sectors - zone placement
 - [[williams-pdc-earthworks]] - pit greenhouse excavation
@@ -109,4 +104,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

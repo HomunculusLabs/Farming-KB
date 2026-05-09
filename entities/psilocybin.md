@@ -23,9 +23,9 @@ sources:
     url: "https://clinicaltrials.gov/study/NCT05795481"
   - name: "Usona Institute — Psilocybin for Major Depressive Disorder (NCT03866174)"
     url: "https://clinicaltrials.gov/study/NCT03866174"
-  - name: "MAPS — Psilocybin Research"
+  - name: "MAPS — [[early-paris-psilocybin-research-1960s]]"
     url: "https://maps.org/research/mdma/psilocybin"
-  - name: "Beckley Foundation — Psychedelic Research Programme"
+  - name: "Beckley Foundation — [[mckenna-suppression-psychedelic-research-lsd-therapy]] Programme"
     url: "https://beckleyfoundation.org/science/psychedelic-research/"
   - name: "Johnson et al. (2019) — Psilocybin for treatment of alcohol dependence"
     url: "https://pubmed.ncbi.nlm.nih.gov/29356150/"
@@ -37,7 +37,7 @@ sources:
 
 ## Overview
 
-**Psilocybin** is a naturally occurring psychedelic prodrug of the [[psilocybin-mushrooms]], commonly known as "magic mushrooms." Upon ingestion, psilocybin is rapidly dephosphorylated by alkaline phosphatase in the gastrointestinal tract and liver to yield [[lsd]], [[mescaline-entity]]. It has been used for millennia in indigenous ceremonial and healing contexts across Mesoamerica and is currently the subject of intensive clinical research for its therapeutic potential in treatment resistant depression, anxiety, PTSD, substance use disorders, and existential distress in life-threatening illness.
+**Psilocybin** is a naturally occurring psychedelic prodrug of the [[psilocybin-mushrooms]], commonly known as "magic mushrooms." Upon ingestion, psilocybin is rapidly dephosphorylated by alkaline phosphatase in the gastrointestinal tract and liver to yield [[lsd]], [[mescaline-entity]]. It has been used for millennia in indigenous ceremonial and healing contexts across Mesoamerica and is currently the subject of intensive [[hofmann-lsd-clinical-research-early-studies]] for its therapeutic potential in treatment resistant depression, anxiety, PTSD, substance use disorders, and existential distress in life-threatening illness.
 
 ## Chemical Properties & Pharmacology
 
@@ -58,7 +58,7 @@ Western science formally encountered psilocybin in 1938 when Swiss chemist gordo
 
 ## Mechanism of Action
 
-Psilocybin's effects are mediated almost entirely by its metabolite serotonin receptor pharmacology, serotonin receptor pharmacology, and psilocybin at imperial college london demonstrated rapid and sustained reductions in depressive symptoms following a single dose of psilocybin in patients with treatment-resistant depression. Follow-up data showed significant improvements maintained at six-month and three-year follow-ups. The usona institute has conducted a Phase II clinical trial (NCT03866174) evaluating psilocybin for major depressive disorder, and [[roland-griffiths]] at johns hopkins university and stephen ross at nyu langone health demonstrated clinically significant and sustained improvements in mood, attitudes toward death, and quality of life following psilocybin-assisted psychotherapy.
+Psilocybin's effects are mediated almost entirely by its metabolite serotonin receptor pharmacology, serotonin receptor pharmacology, and psilocybin at imperial college london demonstrated rapid and sustained reductions in depressive symptoms following a single dose of psilocybin in patients with treatment-resistant depression. Follow-up data showed significant improvements maintained at six-month and three-year follow-ups. The usona institute has conducted a Phase II clinical trial (NCT03866174) evaluating psilocybin for major depressive disorder, and [[roland-griffiths]] at johns hopkins university and stephen ross at nyu langone health demonstrated clinically significant and sustained improvements in mood, [[weil-cultural-attitudes-toward-altered-states]] death, and quality of life following psilocybin-assisted psychotherapy.
 
 ### Substance Use Disorders
 
@@ -71,15 +71,24 @@ Following oral administration, psilocybin is rapidly dephosphorylated by alkalin
 Internationally, legal status varies considerably:
 
 - **Netherlands**: Psilocybin-containing mushrooms are banned, but truffles (sclerotia) containing psilocybin remain legal and widely available.
-- **Brazil**: Psilocybin mushrooms are not explicitly scheduled under Brazilian law, placing them in a legal gray area where possession and cultivation have been judicially defended.
+- **Brazil**: [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] are not explicitly scheduled under Brazilian law, placing them in a legal gray area where possession and cultivation have been judicially defended.
 
 Globally, psilocybin is regulated under the un convention on psychotropic substances (1971), though enforcement and scheduling vary widely by jurisdiction.
 
 ## Safety & Toxicity
 
-Psilocybin is considered to have a favorable safety profile. The [[set-and-setting]], and integration practices substantially mitigate these risks.
+Psilocybin is considered to have a favorable [[cannabis-safety-profile-and-overdose-risk]]. The [[set-and-setting]], and integration practices substantially mitigate these risks.
 
 ## See Also
+
+- [[artemisinin]]
+- [[ethocybin]]
+- [[ferula-drudeana]]
+- [[gramine]]
+- [[illudin]]
+- [[mipla]]
+- [[salicin]]
+- [[yohimbine]]
 
 - [[compass-pathways]] — Clinical-stage biotechnology company
 - usona institute — Nonprofit psilocybin research organization

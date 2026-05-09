@@ -1,5 +1,5 @@
 ---
-title: McKenna's Dominator vs Partnership Society Model
+title: McKenna's Dominator vs mckenna dominator vs partnership society model Model
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -21,7 +21,7 @@ claim.
 Psychedelic plants functioned as "feminizing agents" that tempered and
 civilized egocentric hunter values with feminine concerns for child-rearing
 and group survival. Prolonged exposure to the Wholly Other dissolved the
-ego into undifferentiated feeling -- what Eastern philosophy calls the Tao.
+ego into undifferentiated feeling -- what [[fukuoka-western-eastern-philosophy-agriculture]] calls the Tao.
 Protohominid societies that were premushroom may well have been dominator
 in style; the mushroom interlude was a brief tendency toward true dynamic
 equilibrium with nature.
@@ -33,8 +33,8 @@ partnership society and the shamanic investigation of nature. The Archaic
 tradition was replaced by dogma, priestcraft, patriarchy, warfare, and
 eventually "rational and scientific" or dominator values. The terror the ego
 feels in contemplating the dissolution of boundaries between self and world
-explains the suppression of altered states, the feminine, the foreign, and
-transcendental experiences. With the eclipse of Minoan Crete, humankind
+explains the suppression of [[weil-the-natural-mind-altered-states-normalcy]], the feminine, the foreign, and
+transcendental experiences. With the eclipse of [[mckenna-food-gods-minoan-crete-mushroom-religion]], humankind
 crossed a watershed into the progressively more vacant, more ego-dominated
 world.
 
@@ -55,7 +55,7 @@ through contact with dominator values.
 women bond with older men controlling resources for security. Power lay
 exclusively with aging, powerful males. The French notion of orgasm as
 *petit mort* perfectly encapsulates the fear and fascination that
-boundary-dissolving orgasm holds for dominator cultures.
+boundary-dissolving orgasm holds for [[partnership-and-dominator-cultures-in-human-history]].
 
 ## Pathological Monotheism as Dominator Carrier
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

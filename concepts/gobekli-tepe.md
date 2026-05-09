@@ -17,7 +17,7 @@ The oldest major phases of the site date to the Pre-Pottery Neolithic, roughly t
 This makes Gobekli Tepe older than Stonehenge, the Egyptian pyramids, and the first cities of Mesopotamia.
 The site is significant because it shows large-scale ritual architecture before widespread urbanism and metallurgy.
 It also complicates older models in which farming, permanent villages, and social hierarchy necessarily came before monument building.
-Gobekli Tepe was not a city in the later sense, but a special-purpose place used by hunter-gatherer or early farming communities.
+Gobekli Tepe was not a city in the later sense, but a special-purpose place used by hunter-gatherer or [[fukuoka-early-farming-experiments]] communities.
 Its pillars depict animals such as foxes, snakes, wild boar, birds, aurochs, scorpions, and insects.
 Some pillars also contain stylized human features, including arms, hands, belts, and loincloth-like forms.
 The site suggests a symbolic world rich in animal imagery, embodied stone beings, and communal labor.
@@ -57,12 +57,12 @@ The site's scale required planning, skilled carving, food organization, and coor
 This does not necessarily imply a state or monarchy.
 It does imply social mechanisms capable of mobilizing people around shared meanings.
 The absence of pottery places the early phases before the ceramic technologies common in later Neolithic villages.
-The site's preservation depends on balancing research, tourism, erosion control, and local stewardship.
+The site's preservation depends on balancing research, tourism, [[permplant-willows-salix-erosion-control-fodder]], and local stewardship.
 
 ## History and Context
 Gobekli Tepe was first noted in archaeological surveys in the 1960s but was not immediately recognized as extraordinary.
 Its importance became clear after Klaus Schmidt began excavations in the 1990s.
-Schmidt argued that the site represented a major ceremonial center of hunter-gatherer groups.
+Schmidt argued that the site represented a major [[shipibo-san-francisco-ceremonial-center-ucayali]] of hunter-gatherer groups.
 His work helped overturn assumptions that monumental religious architecture must follow agriculture.
 The broader region is part of the Fertile Crescent, where wheat, barley, lentils, sheep, goats, pigs, and cattle were domesticated over millennia.
 The Pre-Pottery Neolithic was a period of settlement growth, symbolic elaboration, and changing human-plant-animal relationships.
@@ -71,7 +71,7 @@ Nevali Cori, now submerged by a dam reservoir, also had T-shaped pillars and rit
 Karahan Tepe has recently become important for comparison because it shares related monumental traditions.
 These parallels show that Gobekli Tepe was part of a regional symbolic horizon.
 The site emerged after the Younger Dryas, a climatic interval that affected environments and resources in Southwest Asia.
-Climate change may have influenced settlement, mobility, and cultivation strategies.
+[[dighton-fungi-climate-change-feedback]] may have influenced settlement, mobility, and cultivation strategies.
 However, no simple environmental determinism explains the site.
 Religious, social, ecological, and economic factors likely interacted.
 Earlier theories often placed agriculture first, then surplus, then social complexity, then monuments.
@@ -107,12 +107,12 @@ It also illustrates why absence of writing does not mean absence of complex thou
 The site has significance for the anthropology of religion because it predates textual traditions.
 It provides material evidence for ritual behavior that must be inferred from architecture, objects, landscape, and deposition.
 It also cautions against projecting later gods, temples, or priesthoods too confidently onto early Neolithic remains.
-The site encourages comparison with other early ceremonial places around the world.
+The site encourages comparison with other early ceremonial places [[fungi-around-the-world-species-distribution]].
 It asks how communities create shared places that outlast individual lifetimes.
 It also asks how memory, labor, and symbolism become embedded in stone.
 
 ## Related Concepts
-[[chinampas]] offers a later example of sophisticated landscape engineering outside simple evolutionary stereotypes.
+chinampas offers a later example of sophisticated landscape engineering outside simple evolutionary stereotypes.
 [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] shares the challenge of interpreting symbolic material culture without written records.
 [[dominator-culture-and-partnership-society]] intersects with debates about social hierarchy, though its categories should be applied carefully.
 [[gaian-psychotherapy-and-entheogenic-plants]] illustrates the broader ethnobotanical temptation to overinterpret prehistoric symbols.

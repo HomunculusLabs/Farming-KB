@@ -1,5 +1,5 @@
 ---
-title: "Psilocybe Global Biodiversity Hotspots"
+title: "Psilocybe psilocybe global biodiversity hotspots Hotspots"
 type: concept
 tags:
   - psilocybe
@@ -26,7 +26,7 @@ The genus *Psilocybe* is the largest and most widely distributed group
 of neurotropic fungi, containing approximately 116 known species as
 documented by Guzmán, Allen, and Gartz in their comprehensive 2000
 survey. The distribution of these species is markedly uneven, with the
-majority concentrated in or near the Austral hemisphere, particularly
+majority concentrated in or near the [[biogeography-austral-hemisphere-fungi]], particularly
 in subtropical humid forests.
 
 ## Global Distribution Pattern
@@ -40,7 +40,7 @@ decaying wood, and rich forest litter — in warm, humid conditions.
 
 The concentration in or near the Austral hemisphere is notable. While
 Psilocybe species do occur in temperate regions of the Northern
-Hemisphere (including Europe and North America), the genus achieves
+Hemisphere (including Europe and [[psilocybin-north-america-pacific-northwest]]), the genus achieves
 far greater species richness in tropical and subtropical latitudes.
 This pattern distinguishes Psilocybe from many other mushroom genera
 that peak in diversity in temperate forests.
@@ -51,7 +51,7 @@ that peak in diversity in temperate forests.
 
 Mexico is the global center of Psilocybe diversity, harboring 44
 species — approximately 39% of the world's total. This extraordinary
-concentration reflects Mexico's complex topography, varied climate zones,
+concentration reflects Mexico's complex topography, varied [[mollison-climate-zones-permaculture-strategies]],
 and position at the intersection of Nearctic and Neotropical biogeographic
 realms. Mexican Psilocybe species occupy habitats ranging from tropical
 lowland forests to high-altitude subtropical cloud forests.
@@ -60,7 +60,7 @@ lowland forests to high-altitude subtropical cloud forests.
 
 The Amazon Basin and adjacent montane forests support significant
 Psilocybe diversity, though the full extent remains poorly documented
-due to limited mycological exploration. Countries including Colombia,
+due to limited [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]]. Countries including Colombia,
 Ecuador, Peru, Brazil, and Venezuela all harbor multiple species. The
 Andean cloud forests are particularly rich habitats.
 
@@ -87,7 +87,7 @@ species) and decaying wood or forest litter (lignicolous and humicolous
 species). A smaller number of species grow in grasslands, on moss, or
 in disturbed habitats.
 
-Coprophilous species such as *Psilocybe cubensis* are among the most
+Coprophilous species such as *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* are among the most
 widely distributed, found throughout the tropics and subtropics wherever
 large herbivores deposit dung in open or semi-open environments.
 Lignicolous species tend to be more habitat-specific and geographically
@@ -132,4 +132,5 @@ even documented.
 - [[neurotropic-fungi]]
 - [[psilocybe-cubensis]]
 - ethnomycology
-- [[rare-endangered-fungi-conservation]]
+- rare-endangered-fungi-conservation
+- [[psilocybe-global-biogeography]]

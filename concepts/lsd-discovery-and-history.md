@@ -1,5 +1,5 @@
 ---
-title: LSD Discovery and History
+title: hofmann-lsd-discovery-bicycle-day and History
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -24,7 +24,7 @@ The discovery of LSD by Albert Hofmann, its early medical use, its spread into t
 
 ### Context: Ergot Research at Sandoz
 
-Albert Hofmann (1906-2008) was a Swiss chemist working at the Sandoz pharmaceutical company in Basel. In the early 1930s, he was studying ergot alkaloids -- compounds derived from the ergot fungus (*Claviceps purpurea*), a parasite of rye. Ergot had a remarkable dual history: once dreaded as a cause of mass poisonings (St. Anthony's Fire), it had become a source of valuable medicines including ergotamine (for migraine) and ergobasine/ergometrine (for postpartum hemorrhage).
+Albert Hofmann (1906-2008) was a Swiss chemist working at the Sandoz pharmaceutical company in Basel. In the early 1930s, he was studying ergot alkaloids -- compounds derived from the ergot fungus (*[[bloomfield-ergot-claviceps-purpurea-ergotism]]*), a parasite of rye. Ergot had a remarkable dual history: once dreaded as a cause of mass poisonings (St. Anthony's Fire), it had become a source of valuable medicines including ergotamine (for migraine) and ergobasine/ergometrine (for postpartum hemorrhage).
 
 Hofmann's goal was to synthesize ergobasine artificially, which he accomplished by combining lysergic acid with the amino alcohol propanolamine. He then produced a series of lysergic acid derivatives with various pharmacological properties.
 
@@ -61,8 +61,8 @@ April 19 has since been celebrated as **Bicycle Day** by the psychedelic communi
 - Sandoz began distributing LSD in 1947 under the brand name **Delysid**. It was made available free of charge to qualified researchers worldwide.
 - In the UK, psychiatrist Humphrey Osmond administered mescaline to Aldous Huxley in 1953 (the experiment behind *The Doors of Perception*), and Osmond is credited with coining the term "psychedelic" (mind-manifesting) in 1957.
 - Over 1,000 clinical papers and several books were published on LSD between 1950 and 1965, covering its use in treating alcoholism, neurosis, psychosomatic disorders, and as an adjunct to psychotherapy.
-- The model psychosis concept -- that LSD could temporarily induce a schizophrenia-like state, allowing psychiatrists to study and empathize with their patients -- drove much early research.
-- Stanislav Grof conducted extensive LSD psychotherapy research in Czechoslovakia and later in the United States, developing his theory of perinatal matrices.
+- The [[lsd-model-psychosis-research]] concept -- that LSD could temporarily induce a schizophrenia-like state, allowing psychiatrists to study and empathize with their patients -- drove much early research.
+- Stanislav Grof conducted extensive LSD [[psilocybin-psychotherapy-research-history]] in Czechoslovakia and later in the United States, developing his theory of [[metzner-grof-perinatal-matrices-and-transpersonal-realms]].
 
 ### Psilocybin Connection
 
@@ -77,7 +77,7 @@ Roger Heim, the French mycologist who classified Wasson's Mexican mushrooms, app
 
 ## From Medicine to Counterculture (1960-1966)
 
-- Timothy Leary and Richard Alpert at Harvard adopted LSD and psilocybin as tools for consciousness expansion, ultimately being dismissed in 1963.
+- Timothy Leary and Richard Alpert at Harvard adopted LSD and psilocybin as tools for [[mckenna-consciousness-expansion-and-drug-war]], ultimately being dismissed in 1963.
 - LSD spread rapidly through the 1960s counterculture, becoming "the number-one inebriating drug" by the mid-1960s.
 - Hofmann expressed dismay: "LSD was swept up in the huge wave of an inebriant mania that began to spread over the Western world."
 - Sandoz ceased LSD distribution on April 13, 1966. See [[psilocybin-mushroom-legal-history]] for subsequent scheduling.

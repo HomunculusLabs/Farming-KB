@@ -1,5 +1,5 @@
 ---
-title: Panaeoloid Fungi Taxonomy and Distribution
+title: guzman allen gartz panaeoloid fungi taxonomy and distribution Taxonomy and Distribution
 created: 2026-04-28
 tags:
   - panaeolus
@@ -17,7 +17,7 @@ type: concept
 # Panaeoloid Fungi: Taxonomy and Distribution
 
 The Panaeoloideous fungi represent one of the most taxonomically complex
-groups within the neurotropic fungi. Guzmán, Allen and Gartz (1998/2000)
+groups within the [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]. Guzmán, Allen and Gartz (1998/2000)
 recognized 29 species across three genera: Copelandia (12 species), Panaeolina
 (4 species), and Panaeolus (13 species). These fungi are primarily
 coprophilous (dung-inhabiting) and are distributed worldwide, though their
@@ -62,7 +62,7 @@ mycological authorities.
 
 ## Distribution Patterns
 
-Panaeolina foenisecii and almost all Panaeolus species cover broad
+[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]] and almost all Panaeolus species cover broad
 geographic distributions. The cosmopolitan nature of these [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]], P. foenisecii exemplifies this problem, with contradictory
 chemical results from different laboratories.
 
@@ -71,7 +71,7 @@ chemical results from different laboratories.
 Guzmán, Allen and Gartz observed that Panaeolina foenisecii appears to be a
 toxic fungus rather than neurotropic, which may be characteristic of the
 majority of Panaeoloideous fungi. This toxicity may account for some of the
-adverse effects reported by individuals who consume these fungi expecting
+[[blesching-cannabis-safety-adverse-effects-evidence]] reported by individuals who consume these fungi expecting
 psychoactive experiences. The distinction between toxicity and genuine
 psychoactivity requires careful chemical characterization and should be a
 priority for future research on this group.
@@ -94,5 +94,7 @@ suitable mammalian hosts.
 these fungi within the diverse spectrum of psychoactive Basidiomycotina.
 
 ## See Also
+
+- [[sequestrate-fungi-taxonomy-geographic-distribution]]
 
 - [[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]

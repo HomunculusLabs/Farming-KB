@@ -1,5 +1,5 @@
 ---
-title: "Tropical Soils and Cation Exchange Capacity Management"
+title: "mollison designers tropical soils and cation exchange management and cation-exchange-capacity Management"
 created: 2026-04-26
 tags:
   - soil-science
@@ -20,7 +20,7 @@ Tropical soils present special challenges for permaculture
 designers because, except in areas of recent vulcanism such
 as Indonesia, soils are old (not renewed by glaciation) and
 deeply leached. Understanding the chemistry of
-[[mollison-green-manure-soil-fertility]] in humid tropical
+mollison-green-manure-soil-fertility in humid tropical
 [[mollison-designers-legume-tree-inoculation-and-nitrogen-distribution]]
 - Perennial crops rather than annuals
 - Any cultivation loses humus as carbon dioxide, so
@@ -62,7 +62,7 @@ that also helps buffer soil pH.
 ### Cement Powder
 Small quantities of cement powder supply calcium and raise
 pH. It should be used sparingly and in combination with
-organic matter.
+[[hamilton-composting-and-organic-matter-management]].
 
 ### Coral and Shell
 On coral cays and near coasts, coral and shell provide
@@ -76,7 +76,7 @@ triphosphate (platin or calcrete).
 Bamboo mulch supplies essential silica, which is often
 deficient in heavily leached tropical soils. Silica
 strengthens plant cell walls and improves resistance to
-pests and diseases.
+[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
 
 ## The pH-CEC Interaction
 
@@ -103,6 +103,12 @@ calcium-rich tropical soils, fine rock phosphate yields
 more slowly and is therefore more likely to provide
 long-term benefits.
 
-A return of crop wastes as [[mollison-mulching-and-soil-health]]
+A return of crop wastes as mollison-mulching-and-soil-health
 is also essential on coral cays, which can reduce pH and
 improve conditions for a wider range of crops.
+## See Also
+- [[cation-exchange-capacity]]
+- [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]]
+- [[mollison-designers-high-island-and-tropical-valley-design]]
+- [[mollison-designers-cloudburst-and-stormwater-management]]
+- [[mollison-designers-coppicing-management-of-legume-trees]]

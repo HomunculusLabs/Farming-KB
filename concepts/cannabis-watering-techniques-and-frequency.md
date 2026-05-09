@@ -1,5 +1,5 @@
 ---
-title: Cannabis Watering Techniques and Frequency
+title: Cannabis cannabis watering techniques and frequency and Frequency
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -12,7 +12,7 @@ Updated: 2026-04-18
 
 Source: The Cannabis Grow Bible, Greg Green (Ch. 5, 6, 9)
 
-Proper watering is one of the most important and commonly misunderstood aspects of cannabis cultivation. Both overwatering and underwatering cause significant problems.
+Proper watering is one of the most important and commonly misunderstood aspects of [[query-how-does-no-till-cannabis-cultivation-work]]. Both overwatering and underwatering cause significant problems.
 
 ## How to Determine When to Water
 
@@ -80,7 +80,7 @@ Overwatering is the most common mistake among new growers. It does not mean "too
 1. **Water thoroughly**: Apply enough water so that runoff comes from the drainage holes
 2. **Water slowly**: Pour gradually to allow the soil to absorb rather than running off
 3. **Do not overcorrect**: After underwatering, return to a proper schedule — do not flood the plant
-4. **Check soil retention**: If soil dries out too fast, add more organic matter or reduce perlite
+4. **Check soil retention**: If soil dries out too fast, add more [[hamilton-composting-and-organic-matter-management]] or reduce perlite
 
 ## Watering Best Practices
 
@@ -93,7 +93,7 @@ Overwatering is the most common mistake among new growers. It does not mean "too
 ### How to Water Properly
 
 1. **Water slowly and evenly** around the base of the plant, not just one spot
-2. **Water until 10–20% runoff** comes from drainage holes — this prevents nutrient salt buildup
+2. **Water until 10–20% runoff** comes from drainage holes — this prevents nutrient [[cervantes-salt-buildup-leaching-management]]
 3. **Do not water on a fixed schedule** — let the plant tell you when it needs water using the finger test
 4. **Avoid getting water on the foliage**, especially under intense lights — wet leaves promote mold and mildew
 5. **Adjust for growth stage**: Larger plants need more water; seedlings need very little
@@ -112,7 +112,7 @@ Always use the finger test rather than counting days.
 ## Hydroponic Watering
 
 Hydroponic systems handle watering differently:
-- **DWC/Bubbler**: Roots are always submerged in aerated nutrient solution
+- **DWC/Bubbler**: Roots are always submerged in aerated [[cannabis-nutrient-solution-preparation]]
 - **Ebb and flow**: Flooding cycles (typically 2–4 times per day during lights-on)
 - **Drip systems**: Continuous or periodic dripping to each plant
 - **NFT**: Thin film of nutrient solution constantly flowing over roots
@@ -122,4 +122,4 @@ Hydroponic systems handle watering differently:
 
 - [[cannabis-root-rot-prevention-and-treatment]] — root diseases from overwatering
 - [[cannabis-indoor-soil-mix-and-preparation]] — soil mixes that drain properly
-- [[cannabis-flowering-stage]] — flowering stage watering adjustments
+- [[cannabis-flowering-stage]] — [[cannabis-flowering-stage-management]] watering adjustments

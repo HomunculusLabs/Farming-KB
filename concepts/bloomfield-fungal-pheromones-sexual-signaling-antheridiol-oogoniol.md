@@ -13,13 +13,13 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Nicholas P. Money, 2002), Chapter 7: Siren Songs"
+  - "Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Nicholas P. Money, 2002), Chapter 7: bloomfield-siren-songs-fungal-chemical-communication-reproduction-chapter-7"
 type: concept
 ---
 
 # Fungal Sexual Pheromones and Mating Communication
 
-Fungi communicate with one another through chemical signals during reproduction, engaging
+Fungi communicate with one another through [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] during reproduction, engaging
 in molecular dialogues of Where are you and Who are you. The study of fungal sexual
 pheromones reveals sophisticated signaling systems that parallel and sometimes
 prefigure those found in animals. The water mold pheromones antheridiol and oogoniol,
@@ -55,7 +55,7 @@ John Raper of Harvard University was the first to demonstrate that the developme
 antheridia and oogonia was coordinated by chemical signals. He worked with different
 strains of Achlya ambisexualis, a species he discovered himself, and its relative
 Achlya bisexualis, isolated from ponds. Culturing water molds requires baiting pond
-water samples with sterilized seeds. Cannabis seeds have a very high fat content and
+water samples with sterilized seeds. [[query-how-to-store-cannabis-seeds-for-long-term-viability]] have a very high fat content and
 serve as superb bait, though they are grown in greenhouses for scientific purposes and
 shipped presterilized. Following painstaking purification, single-strain cultures can
 be maintained indefinitely on agar.
@@ -100,7 +100,7 @@ the ability to reproduce without a mate is a particularly effective strategy whe
 conditions are harsh and unpredictable. Environmental stress in seasonal habitats
 apparently favors genetic assurance over the benefits of sexual recombination. This
 ecological insight connects fungal mating systems to fundamental evolutionary theory
-about the advantages and disadvantages of sexual reproduction.
+about the advantages and disadvantages of [[fungal-life-cycles-sexual-reproduction-metamorphosis]].
 
 ## Historical Rivalries in Water Mold Research
 
@@ -115,7 +115,7 @@ a technique Hartog regarded with suspicion.
 
 ## Broader Significance
 
-The study of fungal pheromones has illuminated fundamental principles of chemical
+The study of bloomfield fungal pheromones sexual signaling antheridiol oogoniol has illuminated fundamental principles of chemical
 communication that extend far beyond mycology. The structural similarity between
 fungal steroids and animal sex hormones, despite the vast evolutionary distance
 between oomycetes and animals, demonstrates the deep conservation of steroid-based

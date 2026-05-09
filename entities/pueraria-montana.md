@@ -24,7 +24,7 @@ sources:
 
 ## Overview
 
-**Pueraria montana**, commonly known as kudzu, is a fast-growing, perennial climbing vine in the family Fabaceae (legume family). Native to East Asia (Japan, China, Korea), kudzu was widely introduced to the United States and other regions as an ornamental plant, forage crop, and erosion control agent in the early 20th century. It has since become one of the most notorious invasive species in the southeastern United States, where it earns the dramatic nickname "the vine that ate the South." Despite its invasive reputation, kudzu has significant traditional medicinal value in East Asian medicine, potential industrial applications, and underutilized permaculture potential as a nitrogen-fixing ground cover and biomass producer.
+**Pueraria montana**, commonly known as kudzu, is a fast-growing, perennial climbing vine in the family Fabaceae (legume family). Native to East Asia (Japan, China, Korea), kudzu was widely introduced to the United States and other regions as an ornamental plant, forage crop, and [[permplant-willows-salix-erosion-control-fodder]] agent in the early 20th century. It has since become one of the most notorious invasive species in the southeastern United States, where it earns the dramatic nickname "the vine that ate the South." Despite its invasive reputation, kudzu has significant traditional medicinal value in East Asian medicine, potential industrial applications, and underutilized permaculture potential as a nitrogen-fixing ground cover and biomass producer.
 
 ## Taxonomy
 
@@ -71,7 +71,7 @@ The genus Pueraria contains approximately 20 species distributed across Asia and
 Kudzu's invasive success is driven by several biological characteristics:
 
 - **Extreme growth rate:** Outcompetes native vegetation for light, smothering trees, shrubs, and ground cover
-- **Nitrogen fixation:** Symbiotic rhizobia (*Bradyrhizobium* spp.) in root nodules fix atmospheric nitrogen, giving kudzu a competitive advantage on nitrogen-poor soils and altering soil chemistry to favor further invasion
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** Symbiotic rhizobia (*Bradyrhizobium* spp.) in root nodules fix atmospheric nitrogen, giving kudzu a competitive advantage on nitrogen-poor soils and altering soil chemistry to favor further invasion
 - **Root reserves:** Massive carbohydrate reserves in tuberous roots allow survival through repeated defoliation, cutting, burning, and even herbicide application
 - **Vegetative reproduction:** Spreads primarily through stem rooting at nodes — any stem segment contacting soil can form new roots and establish a new plant
 - **Low seed requirement:** While seed germination is low, the species spreads effectively through vegetative means
@@ -79,7 +79,7 @@ Kudzu's invasive success is driven by several biological characteristics:
 ### Environmental Consequences
 
 - **Biodiversity loss:** Dense kudzu mats eliminate native plant communities by shading, creating near-monocultures
-- **Forest mortality:** Trees are killed by heavy vine loads that break branches and trunks, and by light deprivation
+- **Forest mortality:** Trees are killed by heavy vine loads that break branches and trunks, and by [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]]
 - **Soil alteration:** Nitrogen fixation increases soil nitrogen, favoring weedy, nitrophilic species over native plants adapted to low-nitrogen soils
 - **Altered fire regimes:** Dead kudzu mats create abnormal fuel loads that carry fire into forest canopies, a pattern not typical of native southeastern forests
 - **Erosation paradox:** While planted for erosion control, kudzu can increase long-term erosion risk by killing deep-rooted trees and creating shallow-rooted vine monocultures
@@ -90,7 +90,7 @@ Kudzu's invasive success is driven by several biological characteristics:
 
 Kudzu root (*Gé Gēn*, 葛根) has been used in Traditional Chinese Medicine (TCM) for over 2,000 years. The dried root is one of the most commonly prescribed herbs in Chinese pharmacopeia:
 
-- **Isoflavones:** The primary bioactive compounds, including puerarin (daidzein-8-C-glucoside), daidzin, daidzein, and genistin. Puerarin is the most abundant and pharmacologically significant compound, comprising up to 5% of dry root weight.
+- **Isoflavones:** The primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]], including puerarin (daidzein-8-C-glucoside), daidzin, daidzein, and genistin. Puerarin is the most abundant and pharmacologically significant compound, comprising up to 5% of dry root weight.
 - **Cardiovascular effects:** Puerarin improves microcirculation, reduces blood pressure, and has anti-arrhythmic properties. It is used clinically in China for angina pectoris and coronary heart disease.
 - **Neuroprotective effects:** Puerarin crosses the blood-brain barrier and has demonstrated neuroprotective effects in models of ischemic stroke, Alzheimer's disease, and Parkinson's disease. Mechanisms include antioxidant activity, anti-apoptotic effects, and modulation of neurotransmitter systems.
 - **Antidiabetic effects:** Kudzu root extracts improve insulin sensitivity, reduce fasting blood glucose, and protect pancreatic β-cells. Daidzin has been studied for its ability to reduce alcohol consumption in animal models.
@@ -109,7 +109,7 @@ Kudzu root (*Gé Gēn*, 葛根) has been used in Traditional Chinese Medicine (T
 Despite its invasive reputation, kudzu has several potential applications in managed permaculture systems:
 
 - **Nitrogen fixation:** Fixes 100–200 kg N/ha/year, comparable to other vigorous legumes
-- **Biomass production:** Produces enormous quantities of organic matter — up to 12 tonnes of above-ground dry matter per hectare per year
+- **[[dighton-fungal-biomass-production-aquatic-ecosystems]]:** Produces enormous quantities of organic matter — up to 12 tonnes of above-ground dry matter per hectare per year
 - **Forage:** High-protein forage for livestock (15–25% crude protein in leaves); palatable to cattle, goats, and sheep. Used extensively as forage in its native range.
 - **Soil stabilization:** Effective on steep slopes when managed, though long-term ecological impacts must be considered
 - **Biofuel feedstock:** Cellulosic ethanol production from kudzu biomass has been investigated; the high carbohydrate content of roots and rapid growth rate make it a promising feedstock
@@ -130,11 +130,12 @@ Eradication of established kudzu is notoriously difficult and typically requires
 
 - **Herbicides:** Glyphosate, triclopyr, and metsulfuron applied during active growth. Multiple applications over 3–10 years are usually required.
 - **Mechanical:** Cutting, mowing, and grazing reduce biomass but rarely achieve eradication without herbicide follow-up.
-- **Biological control:** Several natural enemies have been investigated, including the kudzu bug (*Megacopta cribraria*), fungal pathogens (*Myrothecium verrucaria*), and various insects. No biological control agent has been approved for release in the US due to concerns about impacts on native legumes.
+- **[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]:** Several natural enemies have been investigated, including the kudzu bug (*Megacopta cribraria*), fungal pathogens (*Myrothecium verrucaria*), and various insects. No biological control agent has been approved for release in the US due to concerns about impacts on native legumes.
 - **Prescribed fire:** Can be effective for top-killing but does not kill the root crown.
 
 ## See Also
 
 - [[trifolium-repens]] — White Clover, a non-invasive ground cover nitrogen fixer
 - [[moringa-oleifera]] — Moringa, a multipurpose tree with medicinal and nutritional value
-- [[permaculture]] — Core permaculture principles and design framework
+- permaculture — C permaculture principles ples and design framework
+- [[apios-americana]]

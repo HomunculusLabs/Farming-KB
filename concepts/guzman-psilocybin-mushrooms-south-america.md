@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushrooms of South America
+title: forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of South America
 created: 2026-04-26
 aliases:
   - Neurotropic fungi of South America
@@ -22,7 +22,7 @@ updated: 2026-04-26
 # Psilocybin Mushrooms of South America
 
 South America hosts a diverse array of neurotropic fungi, particularly in its
-tropical and subtropical forests. While no single South American country rivals
+tropical and subtropical forests. While no single [[chiric-caspi-brunfelsia-south-american-hallucinogen]] country rivals
 Mexico's species count, the continent as a whole harbors many endemic species and
 demonstrates significant mycological diversity, especially in Brazil, Colombia,
 and the Andean nations.
@@ -31,19 +31,19 @@ and the Andean nations.
 
 ### Argentina
 Claviceps paspali, C. purpurea, Conocybe kuhneriana, Gerronema fibula,
-Gymnopilus sapineus, G. spectabilis, Panaeolina foenisecii, Panaeolus fimicola,
+Gymnopilus sapineus, G. spectabilis, [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]], Panaeolus fimicola,
 P. retirugis, P. sphinctrinus, P. subbalteatus, Psilocybe collybioides, P.
 cubensis, P. hoogshagenii var. hoogshagenii, P. wrightii, P. zapotecorum.
 
 ### Bolivia
 Claviceps paspali, Copelandia anomala, C. cyanescens, Gerronema fibula,
-Psilocybe cubensis, P. mammilata, P. subcubensis, P. yungensis.
+[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], P. mammilata, P. subcubensis, P. yungensis.
 
 ### Brazil
 Brazil has the richest South American neurotropic mycobiota with many endemic
 species. Notable genera and species include:
 
-- **Amanita muscaria** (introduced in pine plantations)
+- **[[allegro-amanita-muscaria-properties-and-pharmacology]]** (introduced in pine plantations)
 - **Copelandia anomala, C. cyanescens**
 - **Gerronema fibula, Gymnopilus spectabilis**
 - **Panaeolina foenisecii, Panaeolus fimicola, P. papilionaceus, P.
@@ -90,7 +90,7 @@ Claviceps paspali, Psilocybe subcubensis, P. yungensis.
 Psilocybe cubensis.
 
 ### Peru
-Claviceps purpurea, Gymnopilus spectabilis (?), Psilocybe cubensis, P.
+[[bloomfield-ergot-claviceps-purpurea-ergotism]], Gymnopilus spectabilis (?), Psilocybe cubensis, P.
 yungensis (?), P. zapotecorum.
 
 ### Uruguay
@@ -119,4 +119,4 @@ widespread across South America, found from Colombia to Chile and Argentina.
 - [[psilocybin-mushroom-distribution-worldwide]]
 - [[natto-making]]
 - [[psychedelic-mushroom-art-and-iconography]]
-- [[teonanacatl-and-mesoamerican-mushroom-cults]]
+- teonanacatl-and-mesoamerican-mushroom-cults

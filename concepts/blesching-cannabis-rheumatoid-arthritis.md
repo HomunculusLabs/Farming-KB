@@ -25,9 +25,9 @@ parts of the body such as joints. Long-time rheumatoid arthritis sufferers can
 often be identified from a distance because their joints take on a gnarly
 appearance.
 
-According to Uwe Blesching's Cannabis Health Index (CHI), the evidence-based
+According to Uwe Blesching's [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI), the evidence-based
 confidence level for cannabis in treating rheumatoid arthritis is based on 3
-studies reviewed with a total CHI value of 10, yielding a CHI score of 3.33.
+studies reviewed with a total CHI value of 10, yielding a [[blesching-cannabis-chi-score-methodology]] of 3.33.
 
 See also: [[cannabis-autoimmune-conditions-detailed]],
 [[blesching-cannabis-neuropathic-pain]],
@@ -83,7 +83,7 @@ Total CHI Value: 10
 ## Strain-Specific Considerations
 
 Sativex is not synthetic but rather made from cannabis. The formulation ratios
-are very similar to actual Cannabis sativa ratios. Sativa and sativa-prominent
+are very similar to actual [[comparison-cannabis-sativa-vs-cannabis-indica]] ratios. Sativa and sativa-prominent
 hybrids contain relatively higher THC:CBD ratios and thus activate both CB1
 and CB2 receptors.
 

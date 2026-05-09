@@ -1,5 +1,5 @@
 ---
-title: Macronutrient Deficiency and Toxicity in Cannabis
+title: Macronutrient cannabis-nutrient-deficiency-and-toxicity-guide in Cannabis
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,7 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources: []
 type: concept
 ---
 # Macronutrient Deficiency and Toxicity in Cannabis
@@ -37,7 +37,7 @@ bone meal, natural phosphates, or barnyard manure into soil.
 ### Toxicity
 Excessive phosphorus interferes with calcium, copper, iron, magnesium,
 and zinc stability and uptake. Toxic symptoms manifest as deficiency of
-zinc, iron, magnesium, calcium, and copper; zinc deficiency is most
+zinc, iron, magnesium, calcium, and copper; [[query-how-to-fix-zinc-deficiency-in-cannabis]] is most
 common. May take several weeks to surface, especially if buffered by a
 stable pH.
 **Treatment:** Flush growing medium with a very mild complete fertilizer.
@@ -67,7 +67,7 @@ is usually present in soil but locked in by high salinity.
 N-P-K fertilizer. Organic growers add soluble potash (wood ashes) mixed
 with water. Be careful: wood ash pH is normally above 10. Use a
 pH-lowering mix to bring pH to around 6.5 before application. Foliar
-feeding for potassium deficiency is not recommended.
+feeding for [[knf-potassium-deficiency-and-excess]] is not recommended.
 ### Toxicity
 Difficult to diagnose because it is mixed with deficiency symptoms of
 other nutrients. Too much potassium impairs and slows absorption of
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -9,7 +9,7 @@ sources: []
 
 # Porcini (Boletus) Guide
 
-Porcini (Boletus edulis and related species) are among the most sought-after wild mushrooms in the world. Known as "cepes" in France, "steinpilz" in Germany, "porcini" in Italy, and "king bolete" in North America, these mushrooms have a rich, nutty, meaty flavor that makes them a cornerstone of European cuisine. Like [[chanterelle-guide]] species, porcini are mycorrhizal and cannot be cultivated.
+Porcini (Boletus edulis and related species) are among the most sought-after [[edible-wild-mushrooms-by-region]] in the world. Known as "cepes" in France, "steinpilz" in Germany, "porcini" in Italy, and "king bolete" in [[psilocybin-north-america-pacific-northwest]], these mushrooms have a rich, nutty, meaty flavor that makes them a cornerstone of European cuisine. Like [[chanterelle-guide]] species, porcini are mycorrhizal and cannot be cultivated.
 
 ## Overview
 
@@ -24,7 +24,7 @@ Molecular research has revealed that what was traditionally considered a single 
 - Boletus reticulatus (syn. B. aereus): Europe, "Dark Bolete" or "Bronze Bolete"
 - Boletus pinophilus: Europe, pine-associated, "Pine Bolete"
 - Boletus rex-veris: western North America, spring fruiting
-- Boletus variipes: eastern North America, associated with oak
+- Boletus variipes: [[polypore-fungi-eastern-north-america]] America, associated with oak
 - Boletus fibrillosus: Pacific Northwest, spruce/hemlock
 
 All are edible and excellent, with similar culinary qualities. The distinctions are primarily geographic and ecological.
@@ -39,7 +39,7 @@ All are edible and excellent, with similar culinary qualities. The distinctions 
 - Stem: thick, solid, club-shaped; white with a fine brown network (reticulation) at the top
 - Flesh: white, firm, does not change color when cut
 - Odor: nutty, pleasant, slightly fruity
-- Spore print: olive-brown
+- [[comparison-spore-print-collection-vs-spore-syringe-production]]: olive-brown
 - Mycorrhizal partners: spruce, pine, birch, oak, beech, chestnut (varies by species)
 - Season: varies — summer/fall in most regions; spring in some
 
@@ -127,7 +127,7 @@ Several Boletus species stain blue when bruised. Some are edible (after thorough
 - Check for insect damage (porcini are notoriously prone to worm infestation)
 - Slice open lengthwise in the field to check for larvae
 - Accept some insect damage — it is normal and does not affect the edible portions
-- Carry in a basket or mesh bag for spore dispersal
+- Carry in a basket or mesh bag for [[aquatic-fungi-spore-dispersal-ingold]]
 - Do not wash — brush off debris
 
 ## Preservation (Drying)
@@ -143,43 +143,6 @@ Drying is the traditional and preferred preservation method for porcini:
 - Reconstituted porcini provide both the mushroom and a rich soaking liquid
 
 ### Drying Methods
-
-1. Thread on string and hang in a warm, dry, well-ventilated area
-2. Dehydrator: 95-110 F for 8-24 hours until brittle
-3. Oven: lowest setting with door propped open; 95-110 F for 6-12 hours
-4. Slice 1/4 to 1/2 inch thick for even drying
-
-### Storage
-
-- Completely dry until brittle (no flexibility)
-- Store in airtight glass jars away from light
-- Check for moisture periodically; re-dry if needed
-- Vacuum sealing extends storage life
-
-### Reconstitution
-
-- Soak in warm water for 20-30 minutes
-- Save the soaking liquid — it is intensely flavorful (strain through coffee filter)
-- Use both reconstituted mushrooms and liquid in soups, risottos, sauces, and braises
-
-## Culinary Use
-
-Porcini are among the most versatile and prized culinary mushrooms:
-
-- Fresh: sauteed, grilled, stuffed caps, risotto, pasta
-- Dried: reconstituted for risotto, soups, stews, braises, pasta sauces
-- Powdered: as a seasoning, umami booster, in rubs and compound butters
-- Pairs with: butter, Parmesan, garlic, thyme, cream, white wine, sage
-- The soaking liquid from dried porcini is liquid gold — never discard it
-- Fresh porcini have a shorter shelf life than many mushrooms (3-5 days refrigerated)
-
-## Common Problems
-
-- Wormy specimens: extremely common; slice to check, cut out damaged portions
-- Slimy texture: over-mature or improperly stored; use within 1-2 days of harvest
-- Bitter taste: mistaken identification (T. felleus); discard
-- Spoilage: fresh porcini deteriorate rapidly; process or dry within 48 hours
-
 ## Related
 
 - [[truffle-guide]]

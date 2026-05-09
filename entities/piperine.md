@@ -5,7 +5,7 @@ type: chemical
 aliases:
   - 1-Piperoylpiperidine
   - Bioperine
-  - Black Pepper Alkaloid
+  - [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]] Alkaloid
 tags:
   - alkaloid
   - bioenhancer
@@ -30,7 +30,7 @@ sources:
 # Piperine
 
 ## Overview
-Piperine is the principal alkaloid responsible for the pungent taste of black pepper (Piper nigrum) and long pepper (Piper longum).
+Piperine is the principal alkaloid responsible for the pungent taste of black pepper (Piper nigrum) and long pepper ([[piper-longum]]).
 It was first isolated in 1819 by the Danish chemist Hans Christian Ørsted.
 Piperine is classified as a bioenhancer — a substance that increases the bioavailability of co-administered drugs and nutrients.
 The bioenhancer concept originated from Ayurvedic medicine, where black pepper (Maricha) was routinely combined with other herbs.
@@ -89,12 +89,12 @@ Piperine stimulates secretion of digestive enzymes including pancreatic lipase, 
 It increases gastrointestinal blood flow, enhancing the rate of drug and nutrient absorption across the mucosa.
 Piperine may modulate intestinal tight junction proteins, transiently increasing paracellular permeability.
 The thermogenic action of piperine activates TRPV1 (transient receptor potential vanilloid 1) receptors in the gut.
-TRPV1 activation increases submucosal blood flow and may stimulate active transport mechanisms.
+TRPV1 activation increases submucosal blood flow and may stimulate [[diffusion-osmosis-and-active-transport-in-plants]] mechanisms.
 
 ## Pharmacokinetic Enhancement Data
 Piperine's bioenhancement has been demonstrated across numerous drug and nutrient classes:
 - **Curcumin:** 2,000% increased bioavailability with 20 mg piperine in humans — the most commercially significant interaction.
-- **Resveratrol:** 229–445% enhanced bioavailability in animal models.
+- **Resveratrol:** 229–445% [[staycare-surfactant-enhanced-bioavailability-in-fungal-bioremediation]] in animal models.
 - **Coenzyme Q10:** Approximately 30% increased plasma levels in human supplementation trials.
 - **Vitamin B6:** Enhanced absorption and plasma concentrations in human studies.
 - **Beta-carotene:** Approximately 60% increased plasma levels with piperine co-administration.
@@ -109,9 +109,9 @@ Beyond bioenhancement, piperine exhibits direct pharmacological activities of th
 - **Anti-inflammatory:** Inhibits NF-κB signaling, COX-2 expression, and TNF-α production; reduces prostaglandin and leukotriene synthesis.
 - **Antioxidant:** Scavenges free radicals (DPPH, ABTS assays); upregulates SOD, catalase, and glutathione peroxidase.
 - **Antimicrobial:** Active against Gram-positive bacteria and fungi; synergizes with ciprofloxacin and ampicillin.
-- **Neuroprotective:** Protects neurons against oxidative stress and amyloid-beta toxicity; may enhance memory via acetylcholinesterase inhibition.
+- **Neuroprotective:** Protects neurons against [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] and amyloid-beta toxicity; may enhance memory via acetylcholinesterase inhibition.
 - **Anti-obesity:** Inhibits adipocyte differentiation and lipid accumulation; increases thermogenesis via TRPV1 activation.
-- **Antidepressant-like:** Reduces immobility in forced swim tests via MAO inhibition and serotonin modulation.
+- **Antidepressant-like:** Reduces immobility in forced swim tests via MAO inhibition and [[serotonin]] modulation.
 - **Anticancer:** Induces apoptosis in cancer cell lines; inhibits tumor growth in xenograft models.
 - **Hepatoprotective:** Reduces liver damage from carbon tetrachloride and acetaminophen in animal models.
 ## Metabolism and Safety
@@ -119,8 +119,8 @@ Piperine is metabolized primarily by hepatic CYP3A4 and CYP2D6 to piperidine, pi
 Peak plasma concentration occurs 1–2 hours after oral ingestion with an elimination half-life of 6–7 hours.
 Piperine is GRAS (Generally Recognized As Safe) by the US FDA as a food additive at typical dietary levels.
 Dietary black pepper (10–15 g/day) provides approximately 20–40 mg of piperine within historical safe exposure limits.
-At supplemental doses of 5–20 mg/day, adverse effects are rare and generally mild (GI discomfort, headache).
-The primary safety concern is drug interactions via CYP3A4 and P-gp inhibition.
+At supplemental doses of 5–20 mg/day, [[blesching-cannabis-safety-adverse-effects-evidence]] are rare and generally mild (GI discomfort, headache).
+The primary safety concern is [[cannabis-drug-interactions-and-contraindications]] via CYP3A4 and P-gp inhibition.
 Piperine can increase plasma concentrations of warfarin, cyclosporine, midazolam, and other CYP3A4 substrates.
 Patients on narrow-therapeutic-index medications should consult providers before piperine supplementation.
 No genotoxicity or mutagenicity has been observed in standard Ames test and micronucleus evaluations.
@@ -134,5 +134,6 @@ Similar traditions exist in Unani medicine (Filfil Siyah) and traditional Chines
 Understanding piperine's effects is essential for rational dosing in modern herbal medicine and nutraceutical development.
 ## See Also
 - [[curcumin|Curcumin]]
-- [[resveratrol|Resveratrol]]
+- Resveratrol
 - [[bioavailability-in-fungal-bioremediation|Bioavailability]]
+- [[herbal-medicine]]

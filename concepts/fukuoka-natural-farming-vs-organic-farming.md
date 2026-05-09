@@ -1,9 +1,10 @@
 ---
-title: Fukuoka Natural Farming vs Organic Farming
+title: masanobu-fukuoka-natural-farming-philosophy comparison-biodynamic-farming-vs-organic-farming Farming
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 type: concept
 tags: [fukuoka, natural-farming]
@@ -17,7 +18,7 @@ Masanobu Fukuoka drew a sharp and fundamental distinction between his [[fukuoka-
 
 Fukuoka's analysis of nitrogen flows reveals the fundamental difference in approach. He observed that about seventy percent of the nitrogenous components absorbed by rice and barley are supplied directly by the soil, while about thirty percent are furnished artificially by fertilization. If all the straw and chaff from threshed grain were returned to the fields, farmers would need to apply at most fifteen percent of the nitrogenous components required.
 
-Organic farming addresses this by composting organic materials and applying them as prepared fertilizer. Natural farming addresses it by returning all straw to the field and maintaining a [[fukuoka-nature-perfect-imperfect-philosophical-perspective]].
+Organic farming addresses this by [[comparison-vermicomposting-vs-composting-organic-garden]] materials and applying them as prepared fertilizer. Natural farming addresses it by returning all straw to the field and maintaining a [[fukuoka-nature-perfect-imperfect-philosophical-perspective]].
 
 **Non-intervention vs. substituted intervention**: Organic farming substitutes organic inputs for synthetic ones, but still operates on the paradigm of intervening in natural processes. Natural farming seeks to eliminate intervention entirely, trusting that nature "grows the rice and wheat" without human help.
 
@@ -25,11 +26,11 @@ Organic farming addresses this by composting organic materials and applying them
 
 **Knowledge-dependent vs. knowledge-free**: Organic farming requires considerable knowledge -- what to compost, how to compost it, when to apply it. Fukuoka's natural farming seeks to eliminate the need for knowledge altogether, operating instead on what he called the [[fukuoka-straw-mulch-philosophy]], and occasional water management. This creates what Fukuoka called "a farm that does not require energy inputs" -- a system that is not merely sustainable but truly self-sustaining.
 
-Fukuoka also questioned the knowledge requirements. Organic farming demands that the farmer learn composting recipes, organic spray formulations, and complex crop rotation schedules. Natural farming, by contrast, seeks to reduce the farmer's knowledge requirements to near zero. "No farming method that is dependent on knowledge of techniques can be called natural," he wrote. The [[fukuoka-critique-organic-farming-ecology]] is that organic farming's achievements, like those of scientific farming, "may excel in a restricted sense but are invariably inferior in all other ways."
+Fukuoka also questioned the knowledge requirements. Organic farming demands that the farmer learn composting recipes, organic spray formulations, and complex crop rotation schedules. Natural farming, by contrast, seeks to reduce the farmer's knowledge requirements to near zero. "No farming method that is dependent on knowledge of techniques can be called natural," he wrote. The [[fukuoka-critique-organic-farming-ecology]] is that organic farming's achievements, like those of [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]], "may excel in a restricted sense but are invariably inferior in all other ways."
 
 ## The Economic Trap
 
-Fukuoka observed that the mechanization championed by scientific agriculture had not truly reduced labor but merely displaced it. "Farmers must use the extra hours away from their fields to earn outside income to help pay for their equipment. All they have done is exchange their work in the fields for a job in some company; they have traded the joy of working outdoors in the open fields for dreary hours of labor shut up inside a factory." This economic dynamic applies with equal force to organic farming, which often requires more hand labor than conventional methods while producing food that commands premium prices -- prices that may not reflect genuine quality improvements.
+Fukuoka observed that the mechanization championed by [[fukuoka-critique-scientific-agriculture-civilization]] had not truly reduced labor but merely displaced it. "Farmers must use the extra hours away from their fields to earn outside income to help pay for their equipment. All they have done is exchange their work in the fields for a job in some company; they have traded the joy of working outdoors in the open fields for dreary hours of labor shut up inside a factory." This economic dynamic applies with equal force to organic farming, which often requires more hand labor than conventional methods while producing food that commands premium prices -- prices that may not reflect genuine quality improvements.
 
 The reduction in labor brought about by scientific farming "has succeeded only in forcing farmers off the land." The same risk exists for organic farming when it becomes dependent on costly inputs and certification systems that favor larger operations over small self-sufficient farms.
 
@@ -55,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -97,4 +98,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

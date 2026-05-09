@@ -11,7 +11,7 @@ One of the most overlooked factors in long-term vegetable garden planning is whe
 
 In regions with cold winters, the annual deep freeze serves as a natural reset mechanism for garden soils. When soil temperatures drop well below freezing for extended periods:
 
-- **Soil-borne pathogen populations** (fungal pathogens, bacterial wilt organisms, nematode cysts) are significantly reduced or eliminated in the upper soil layers where most vegetable roots grow
+- **Soil-borne pathogen populations** ([[bloomfield-fungal-pathogens-and-parasites]], bacterial wilt organisms, nematode cysts) are significantly reduced or eliminated in the upper soil layers where most vegetable roots grow
 - **Soil-dwelling insect pests** (root maggots, wireworms, grubs, cutworm pupae) experience heavy mortality during prolonged frozen conditions
 - **Weed seed viability** in the surface layers is reduced, though many weed seeds survive freezing remarkably well
 
@@ -70,17 +70,17 @@ Gardeners in mild-winter climates must adopt additional strategies to compensate
 Modern soil biology research supports Solomon's observation about the importance of winter freezing, but with additional nuance. While freezing reduces pathogen populations, it also reduces beneficial soil organism populations. In cold climates:
 
 - The spring biological rebound is critical and depends on organic matter levels
-- Mycorrhizal networks are disrupted by deep freezing but typically re-establish from spores
-- Bacterial and fungal communities shift composition after each freeze-thaw cycle
+- [[dighton-mycorrhizal-networks-carbon-transfer]] are disrupted by deep freezing but typically re-establish from spores
+- [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] communities shift composition after each freeze-thaw cycle
 - Earthworm populations may be reduced but usually recover
 
-The key insight is that in cold climates, the annual freeze tends to reduce pathogens MORE than beneficial organisms, because many beneficial soil organisms (especially diverse bacterial communities, mycorrhizal spores, and beneficial nematodes) have evolved better cold-survival strategies than many specialized plant pathogens. This differential survival is what makes the freeze beneficial overall.
+The key insight is that in cold climates, the annual freeze tends to reduce pathogens MORE than beneficial organisms, because many beneficial soil organisms (especially diverse [[cultivar-endorhiza-bacterial-communities-cannabis]], mycorrhizal spores, and [[ingham-beneficial-nematodes-soil-food-web]]) have evolved better cold-survival strategies than many specialized plant pathogens. This differential survival is what makes the freeze beneficial overall.
 
 ## Climate Change Considerations
 
 As winters warm in many temperate regions, the protective effect of soil freezing is diminishing. Gardeners who have historically relied on winter freezes for pest [[solomon-crop-rotation-and-garden-planning]]
 - [[soil-foodweb-balancing-protocol-ingham]]
-- ingham aact disease suppression mechanisms
+- ingham aact [[aact-disease-suppression-mechanisms-ingham]] mechanisms
 
 ## See Also
 

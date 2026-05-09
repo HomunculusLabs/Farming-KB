@@ -1,5 +1,5 @@
 ---
-title: "Sam Stein's Psilocybe Cubensis Bad Trip (1961)"
+title: "Sam Stein's brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting emcdda-bad-trip-phenomenology-psychiatric-intervention (1961)"
 created: 2026-04-26
 tags:
   - history
@@ -18,7 +18,7 @@ type: concept
 
 ## The First Documented Psilocybin Bad Trip in a Laboratory Setting
 
-Among the many episodes in the early scientific investigation of magic
+Among the many episodes in the [[psilocybin-isolation-and-early-scientific-research]] investigation of magic
 mushrooms, the experience of Sam Stein stands out as both remarkable and
 deeply instructive. Stein was the boss of [[guzman-allen-gartz-global-psilocybe-biogeography]], who
 along with the German Jochen Gartz and the American John Allen, dedicated
@@ -33,7 +33,7 @@ in a corner of the room that turned out to be his mushroom-drying unit.
 
 The Stein episode remains relevant for contemporary
 [[leary-harvard-psilocybin-project]]. It underscores the
-importance of proper set and setting, the need for experienced guides or
+importance of proper [[lsd-set-and-setting-framework]], the need for experienced guides or
 facilitators, and the value of thorough preparation before ingesting
 psychoactive substances. The fact that Stein drove while intoxicated also
 highlights safety concerns that modern research protocols specifically
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

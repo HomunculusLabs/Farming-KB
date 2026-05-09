@@ -10,7 +10,7 @@ type: concept
 
 # Fukuoka on Medicine and the Collapse of Human Health
 
-Masanobu Fukuoka extended his critique of scientific agriculture to
+Masanobu Fukuoka extended his [[fukuoka-critique-of-scientific-agriculture]] agriculture to
 modern medicine, arguing that both fields operate on the same flawed
 premise: creating problems through intervention and then claiming to solve
 them. He saw the expansion of hospitals as a barometer of the collapse
@@ -66,7 +66,7 @@ For Fukuoka, the fundamental problem lies in what people eat and how
 they live. The modern diet, divorced from nature and filled with
 processed, petroleum-based foods, creates bodies that require constant
 medical attention. Just as weak rice grown in depleted soil needs
-chemical fertilizers, weak humans eating unnatural food need doctors.
+[[cervantes-chemical-fertilizers-guide]], weak humans eating unnatural food need doctors.
 
 The number of doctors is increasing and hospitals are thriving too.
 Physicians think that they are curing the ill, but they are merely
@@ -114,7 +114,7 @@ region, when they live in harmony with the seasons, and when they
 work with nature rather than against it, the body regains its natural
 strength and the need for medical intervention diminishes.
 
-The connection between natural farming and natural health is direct
+The connection between [[comparison-natural-farming-vs-permaculture]] and natural health is direct
 and inseparable. One cannot have healthy food from unhealthy farming
 practices, and one cannot have healthy bodies from unnatural food.
 See also: [[fukuoka-diet-non-discrimination-diet-of-the-sick]]

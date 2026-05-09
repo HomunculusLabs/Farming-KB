@@ -4,21 +4,24 @@ created: 2026-05-02
 updated: 2026-05-02
 type: comparison
 tags: [amendments, soil-science]
-sources: []
+sources:
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 ---
 title: "Kelp Meal vs Rock Dust"
 tags: [comparison, soil-amendments, fertilizers, trace-minerals]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Kelp Meal vs Rock Dust
 
 ## Overview
 Kelp meal and rock dust are both broad-spectrum mineral amendments that
-    address trace element deficiencies, but they differ fundamentally in their
+    address [[fukuoka-textdoc-fertilizer-acidification-trace-element-deficiency]] deficiencies, but they differ fundamentally in their
     origin, nutrient release speed, and biological activity. Kelp meal is
     dried seaweed that provides 60 to 70 trace elements plus natural plant
     growth hormones. Rock dusts are ground geological materials that release
@@ -44,7 +47,7 @@ The remineralization theory underlying rock dust application holds that
     balance. Release rates are extremely slow, operating on a timeline of
     years as soil microbes and weak acids gradually weather the mineral
     particles. This makes rock dusts foundational for long-term soil building
-    rather than quick correction. Application rates range from five to one
+    rather than quick correction. [[ingham-compost-tea-application-rates-and-timing]] range from five to one
     hundred pounds per one thousand square feet depending on the material and
     purpose, and costs are low at fifteen to twenty-five dollars per
     fifty-pound bag covering one thousand to five thousand square feet.
@@ -58,7 +61,7 @@ The remineralization theory underlying rock dust application holds that
 | Growth Hormones | Yes (cytokinins, auxins, gibberellins) | No |
 | Nutrient Release | Weeks to months (biological breakdown) | Years
     (microbial weathering) |
-| Application Methods | Soil, foliar, seed treatment, compost | Soil
+| Application Methods | Soil, foliar, [[jadam-seed-treatment-and-nursery-management]], compost | Soil
     incorporation only |
 | Cost | High ($$$ per area) | Low ($ per area) |
 | Biological Activity | High (feeds microbes, stimulates biology) |
@@ -74,8 +77,8 @@ Choose kelp meal when rapid trace element correction is needed, when
     compost activator. Foliar applications of kelp meal tea provide the
     fastest trace element delivery, making kelp ideal for addressing
     mid-season deficiencies. Seed treatments with kelp extract improve
-    germination rates and reduce transplant shock. Kelp meal is particularly
-    valuable in container gardens and raised beds where no native mineral pool
+    germination rates and reduce [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]]. Kelp meal is particularly
+    valuable in container gardens and [[comparison-raised-beds-vs-hugelkultur]] where no native mineral pool
     exists, and in organic operations where biostimulants are preferred over
     synthetic inputs. Its hormone content makes it uniquely valuable during
     critical growth transitions like transplanting, flowering, and fruit set.
@@ -91,7 +94,7 @@ Choose rock dust for foundational, long-term soil remineralization and
     access to the mineral diversity of native subsoil. Matching the rock dust
     type to the specific deficiency (gypsum for calcium without pH change,
     soft rock phosphate for phosphorus, greensand for potassium) provides
-    targeted correction at low cost.
+    targeted correction at [[jadam-ultra-low-cost-agriculture]].
 
 ## Hybrid Approaches
 The most effective mineral programs use both inputs in complementary

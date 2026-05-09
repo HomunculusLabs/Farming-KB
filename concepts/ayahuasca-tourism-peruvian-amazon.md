@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca Tourism in the Peruvian Amazon
+title: stuart-r-ayahuasca-tourism-cautionary-ethnography in the Peruvian Amazon
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -11,7 +11,7 @@ sources: [raw/papers/stuart-r-ayahuasca-tourism.md]
 
 ## Overview
 
-Ayahuasca tourism is a growing phenomenon in which Western seekers travel to South America — primarily Peru, Brazil, and Ecuador — to participate in traditional ayahuasca ceremonies led by indigenous or mestizo shamans. The practice has expanded from a niche spiritual pursuit into a significant tourist industry, particularly in the Peruvian Amazon regions of Iquitos, Pucallpa, and the Ucayali river basin. R. Stuart's 2002 ethnographic account provides a cautionary perspective based on fieldwork in Ucayali, Peru.
+Ayahuasca tourism is a growing phenomenon in which [[ayahuasca-tourism-western-seekers-and-integration]] travel to South America — primarily Peru, Brazil, and Ecuador — to participate in traditional [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] led by indigenous or mestizo shamans. The practice has expanded from a niche spiritual pursuit into a significant tourist industry, particularly in the Peruvian Amazon regions of Iquitos, Pucallpa, and the Ucayali river basin. R. Stuart's 2002 ethnographic account provides a cautionary perspective based on fieldwork in Ucayali, Peru.
 
 ## Historical Context
 
@@ -29,7 +29,7 @@ This pattern reflects a persistent Western dissatisfaction with Judeo-Christian 
 ## Legal and Cultural Status in Peru
 
 ### Legal Framework
-Unlike the United States, Peru does not classify ayahuasca as an illegal drug. The brew is regarded as an herbal tonic and is openly:
+Unlike the [[dmt-containing-plants-united-states-halpern]], Peru does not classify ayahuasca as an illegal drug. The brew is regarded as an herbal tonic and is openly:
 
 - Sold in markets as raw materials and prepared brew
 - Consumed in public and private ceremonies
@@ -74,7 +74,7 @@ Stuart reports the death of an AIDS patient during a ceremony in Bolivia. The pa
 ### Tourist Responsibility
 Since most shamans are unfamiliar with Western pharmaceuticals, it is the tourist's responsibility to:
 
-- Research all drug interactions before participating
+- Research all [[cannabis-drug-interactions-and-contraindications]] before participating
 - Consult with a physician about medication compatibility
 - Disclose all medications to the shaman or retreat organizers
 - Have a sitter or companion present during the ceremony

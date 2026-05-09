@@ -1,5 +1,5 @@
 ---
-title: "Mycorrhizal Exudates and Root Exudate Interactions"
+title: "singh mycorrhizal exudates root exudate interactions and Root Exudate Interactions"
 created: 2026-04-28
 tags: [mycorrhizae, root-exudates, signaling, organic-acids, rhizosphere]
 date: 2026-04-25
@@ -14,7 +14,7 @@ type: concept
 ## Overview
 
 Root exudates and mycorrhizal exudates form the chemical foundation of
-communication and nutrient exchange at the [[mycoremediation-pahs]] emphasizes that the [[mycorrhizal-fungi]] (AMF) and ectomycorrhizal fungi secrete
+communication and [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] at the [[mycoremediation-pahs]] emphasizes that the [[mycorrhizal-fungi]] (AMF) and ectomycorrhizal fungi secrete
 their own complement of compounds into the soil:
 
 - **Mycelial exudates**: Low molecular weight organic acids (oxalate,
@@ -40,18 +40,18 @@ contaminant transformation. Key processes include:
    participate in redox cycling, reducing Fe(III) to Fe(II) and
    influencing the speciation of redox-sensitive contaminants
 3. **Enzyme induction**: Co-secretion of plant and fungal enzymes
-   creates synergistic degradation pathways for organic pollutants
+   creates synergistic [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]] for organic pollutants
 
 ## Signaling at the Interface
 
-Mycorrhizal symbiosis is established through molecular dialogue:
+[[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] is established through molecular dialogue:
 
 - **Plant-to-fungus signals**: Strigolactones released under phosphate
   deficiency stimulate hyphal branching in AMF. Flavonoids activate
   fungal gene expression programs associated with colonization
 - **Fungus-to-plant signals**: Myc factors trigger calcium spiking in
   root cells, activating the common symbiosis signaling pathway (CSSP)
-- **Volatile organic compounds**: Fungal VOCs including sesquiterpenes
+- **[[fungal-volatile-organic-compounds-communication]] compounds**: Fungal VOCs including sesquiterpenes
   prime plant defense responses and alter root architecture
 
 ## Contaminant Transformation by Exudates
@@ -61,7 +61,7 @@ Mycorrhizal exudates contribute directly to [[staycare-fungal-degradation-of-pol
 
 ## Organic Acid Secretion and Nutrient Mobilization
 
-The principal organic acids involved in mycorrhizal nutrient mobilization
+The principal organic acids involved in [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] mobilization
 are:
 
 | Organic Acid | pKa | Primary Function |

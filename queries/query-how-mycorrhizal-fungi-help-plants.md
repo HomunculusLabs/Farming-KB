@@ -1,5 +1,5 @@
 ---
-title: "How Do Mycorrhizal Fungi Help Plants Grow?"
+title: "How Do arbuscular-mycorrhizal-fungi-biology-symbiosis Help Plants Grow?"
 created: 2026-04-28
 tags: [query, mycorrhizal-fungi, soil-biology, plant-health, symbiosis]
 date: 2026-04-25
@@ -27,7 +27,7 @@ The exchange works as follows:
 **Plant provides to fungus:**
 - Lipids and carbohydrates from photosynthesis
 - A protected environment within root tissue
-- Access to root exudates (sugars, amino acids)
+- Access to [[mycorrhizal-root-exudates-pathogen-interactions]] (sugars, amino acids)
 
 **Fungus provides to plant:**
 - Phosphorus from soil beyond root reach
@@ -38,7 +38,7 @@ The exchange works as follows:
 
 ## Expanding the Root Zone
 
-The most significant benefit of mycorrhizal colonization is the dramatic expansion of the effective root system.
+The most significant benefit of [[arbuscular-mycorrhizal-colonization-patterns]] is the dramatic expansion of the effective root system.
 
 Key facts about hyphal networks:
 - A single gram of soil can contain 100 meters of fungal hyphae
@@ -48,13 +48,13 @@ Key facts about hyphal networks:
 
 The [[arbuscular-mycorrhizal-networks]] create physical connections between plants.
 
-This "wood wide web" enables:
+This "wood [[wood-wide-web-theory]]" enables:
 - **Nutrient sharing** - carbon, nitrogen, and phosphorus flow between plants
 - **Chemical signaling** - plants receive warnings about pest or pathogen attacks
 - **Seedling support** - mother trees funnel carbon to offspring through the network
 - **Stress communication** - drought-stressed plants signal neighbors to prepare
 
-Research has shown that neighboring plants can receive early warnings of insect attack through mycorrhizal networks, activating defensive chemistry preemptively.
+Research has shown that neighboring plants can receive early warnings of insect attack through [[dighton-mycorrhizal-networks-carbon-transfer]], activating defensive chemistry preemptively.
 
 ## Drought Resistance
 
@@ -102,7 +102,7 @@ Non-mycorrhizal families include:
 
 This is important when planning crop rotations and companion plantings.
 
-Mycorrhizal crops can support the fungal network that then benefits neighboring mycorrhizal plants.
+Mycorrhizal crops can support the [[mycelium-running-mycelium-natures-internet-fungal-network-theory]] that then benefits neighboring mycorrhizal plants.
 
 ## Key Points
 

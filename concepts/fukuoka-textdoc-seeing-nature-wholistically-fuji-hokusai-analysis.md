@@ -1,5 +1,5 @@
 ---
-title: Seeing Nature Wholistically - Mt Fuji, Hokusai, and the Limits of Analysis
+title: fukuoka textdoc seeing nature wholistically fuji hokusai analysis Wholistically - Mt Fuji, Hokusai, and the Limits of Analysis
 created: 2026-05-06
 tags:
   - natural-farming
@@ -21,7 +21,7 @@ type: concept
 
 ## Overview
 
-Fukuoka's epistemological framework for understanding nature rests on the principle that the living, holistic biosystem that is nature cannot be dissected or resolved into its parts. Once broken down, it dies. He uses the metaphor of Mount Fuji, the artist Hokusai, and the parable of Okuninushi's sack to illustrate the fundamental limitation of scientific analysis: that examining the parts never gives a complete picture of the whole. This philosophical stance underpins every practical aspect of natural farming.
+Fukuoka's epistemological framework for understanding nature rests on the principle that the living, holistic biosystem that is nature cannot be dissected or resolved into its parts. Once broken down, it dies. He uses the metaphor of Mount Fuji, the artist Hokusai, and the parable of Okuninushi's sack to illustrate the fundamental limitation of scientific analysis: that examining the parts never gives a complete picture of the whole. This philosophical stance underpins every practical aspect of [[natural-farming]].
 
 ## The Mt Fuji Metaphor
 
@@ -74,7 +74,7 @@ Without the whole, the parts are lost, and without the parts, there is no whole.
 
 ## The Limits of Analytical Knowledge
 
-Fukuoka traces the failure of scientific agriculture to its foundational methodology:
+Fukuoka traces the failure of [[fukuoka-critique-scientific-agriculture-civilization]] to its foundational methodology:
 
 ### The Scientific Method's Four Steps
 1. Consciously focus attention on something and observe it mentally
@@ -96,17 +96,17 @@ The different laws of agricultural science are merely scattered images of a sing
 Fukuoka argues that to perceive nature correctly, one must adopt a perspective that transcends the conventional limitations of time and space:
 
 ### The Circumstantial Trap
-When captive to the notions of space and time, we are capable only of seeing things circumstantially. Scientific farming is confined within the limits of time and space, concerned with harvesting so much from a given field over such-and-such a period. But Mahayana natural farming comes into being only in a world beyond time and space.
+When captive to the notions of space and time, we are capable only of seeing things circumstantially. [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] is confined within the limits of time and space, concerned with harvesting so much from a given field over such-and-such a period. [[mahayana-natural-farming]] ming comes into being only in a world beyond time and space.
 
 ### The Rice Plant and the Insect
 When an insect alights on a rice plant, science immediately zeros in on the relationship between the rice and the insect. If the insect feeds on the plant and the plant dies, the insect is viewed as a pest. The natural farmer, by contrast, sees yet does not see the rice; sees and yet does not see the insect. He reaches beyond time and space by taking the stance that there are no crops or pests in nature to begin with.
 
 ### The Long-Range Perspective
-The scientist studies rice damage by a particular insect, but it would suffice to observe cases where the insect does no damage. Such cases invariably exist. Instances of damage are naturally accompanied by instances of no damage. Natural farming examines cases in which little or no damage occurs and the reasons why, creating circumstances where nothing is done, yet insect damage is nonexistent.
+The scientist studies rice damage by a particular insect, but it would suffice to observe cases where the insect does no damage. Such cases invariably exist. Instances of damage are naturally accompanied by instances of no damage. [[comparison-natural-farming-vs-permaculture]] examines cases in which little or no damage occurs and the reasons why, creating circumstances where nothing is done, yet insect damage is nonexistent.
 
 ## The Rice Plant Metaphor
 
-Fukuoka extends the wholistic perception to practical farming:
+Fukuoka extends the [[fukuoka-textdoc-wholistic-perception-mt-fuji-metaphor]] to practical farming:
 
 ### Putting Yourself in the Place of the Rice
 Farming is an activity conducted by the hand of nature. We must look carefully at a rice plant and listen to what it tells us. To "look at" or "scrutinize" rice does not mean to view rice as an object. One should essentially put oneself in the place of the rice. In so doing, the self looking upon the rice plant vanishes.
@@ -135,7 +135,7 @@ The wholistic view has concrete consequences for how farming should be conducted
 Because all factors of production are organically interrelated, no single intervention can be made independently. Modifying one factor inevitably changes all others. The scientist who applies nitrogen fertilizer to increase yield may simultaneously increase disease susceptibility, alter root growth patterns, change weed competition dynamics, and shift microbial populations.
 
 ### Context-Dependent Truth
-What works in one time and place may not work in another. Weather is never the same, so the rice growing environment next year will be entirely different. Although useful for examining results in retrospect, the explanations of yesterday cannot be used to set tomorrow's strategy.
+What works in one time and place may not work in another. Weather is never the same, so the rice [[cannabis-growing-environment-setup]] next year will be entirely different. Although useful for examining results in retrospect, the explanations of yesterday cannot be used to set tomorrow's strategy.
 
 ### The Futility of Specialized Research
 Progressive specialization in research actually has the opposite effect of its intent. Methods intended to boost productivity lead instead to the devastation of nature, lowering overall productivity. The scientist believes that accumulated findings will provide a total picture, but a collection of infinite parts includes infinite unknown parts. These unknown gaps prevent the whole from ever being completely reassembled.
@@ -144,4 +144,6 @@ Progressive specialization in research actually has the opposite effect of its i
 
 [[fukuoka-textdoc-maze-relative-subjectivity]]
 [[fukuoka-textdoc-nature-must-not-be-dissected-limits-scientific-analysis]]
-[[fukuoka-textdoc-errors-of-human-intellect]]
+## See Also
+
+- [[fukuoka-textdoc-wholistic-perception-mt-fuji-metaphor]]

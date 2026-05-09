@@ -1,17 +1,17 @@
 ---
-title: "Gourmet and Medicinal Mushroom Substrate Preparation"
+title: "Gourmet and Medicinal Mushroom cotter-compost-substrate-preparation-manure-mushroom-cultivation"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
-  - "Growing Gourmet and Medicinal Mushrooms (Paul Stamets, 1993)"
-  - "Oyster Mushroom Cultivation (MushWorld, 2004)"
+  - "Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (Paul Stamets, 1993)"
+  - "Oyster [[accessible-mushroom-cultivation-for-disabilities]] (MushWorld, 2004)"
 type: concept
 tags: [bulk-substrate, medicine, mushroom-cultivation]
 ---
 
 # Gourmet and Medicinal Mushroom Substrate Preparation
 
-Substrate preparation is the foundation of successful mushroom cultivation. The substrate serves as both the nutritional base and physical structure for mycelial growth and fruiting. Different mushroom species have evolved to decompose specific materials, and selecting the right substrate is critical to achieving high biological efficiency.
+Substrate preparation is the foundation of successful mushroom cultivation. The substrate serves as both the nutritional base and physical structure for mycelial growth and fruiting. Different mushroom species have evolved to decompose specific materials, and selecting the right substrate is critical to achieving high [[stamets-biological-efficiency-yield]].
 
 ## Categories of Substrate Materials
 
@@ -23,7 +23,7 @@ The primary structural components provide the bulk of the carbohydrate nutrition
 
 - **Wheat straw**: The most widely used substrate for oyster mushrooms. Contains approximately 0.36% total nitrogen, 30% hemicellulose, 41% cellulose, and 15% lignin. Wheat, rye, oat, and sorghum straws are all suitable. Hay with abundant seed kernels should be avoided as grains tend to contaminate. Straw supports all gourmet oyster mushrooms including P. ostreatus, P. pulmonarius, P. eryngii, and P. citrinopileatus.
 
-- **Hardwood sawdust**: Oak, alder, poplar, cottonwood, maple, birch, beech, wild cherry, and elm are all suitable. Pine, cedar, and redwood sawdust contain resins that inhibit mycelial growth and should be avoided. Sawdust from fast-decomposing hardwoods (alder, poplar, cottonwood) is preferred for supplemented sawdust formulas, while denser hardwoods (oak, ironwood) produce longer-lasting logs.
+- **Hardwood sawdust**: Oak, alder, poplar, cottonwood, maple, birch, beech, wild cherry, and elm are all suitable. Pine, cedar, and redwood sawdust contain resins that inhibit mycelial growth and should be avoided. Sawdust from fast-decomposing hardwoods (alder, poplar, cottonwood) is preferred for [[oyster-mushroom-supplemented-sawdust-blocks]] formulas, while denser hardwoods (oak, ironwood) produce longer-lasting logs.
 
 - **Wood chips**: Hardwood chips 1/2 to 4 inches are mixed with sawdust to improve aeration and structure in supplemented sawdust blocks.
 
@@ -109,7 +109,7 @@ Substrates must be heat-treated before inoculation to kill competitors. Two appr
 Supplemented substrates must be sterilized (not merely pasteurized) because the added nutrients make them highly susceptible to contamination:
 
 - **Autoclave/retort**: 15 psi (250 degrees F) for 2-4 hours depending on container size
-- **Normal pressure sterilization**: 90-95 degrees C for 5-8 hours, or 100 degrees C for 4 hours
+- **Normal [[boil-a-bag-pressure-sterilization-technique]]**: 90-95 degrees C for 5-8 hours, or 100 degrees C for 4 hours
 
 Straw is a "forgiving" substrate for small cultivators because pasteurization is sufficient, whereas supplemented sawdust requires full sterilization and more expensive equipment.
 
@@ -117,5 +117,11 @@ Straw is a "forgiving" substrate for small cultivators because pasteurization is
 
 Oyster mushrooms demonstrate some of the highest biological efficiencies in cultivation. In decomposing dry straw, approximately 50% of mass is liberated as CO2, 20% is lost as water, 20% remains as spent compost, and 10% is converted into dry mushrooms. This equates to roughly 25% conversion of wet substrate mass into fresh mushrooms. Biological efficiencies for oyster mushrooms frequently exceed 100%.
 - [[gourmet-medicinal-mushroom-shiitake-cultivation-logs]]
-- [[mushroom-sawdust-bran-spawn-preparation]]
-- [[oyster-mushroom-agricultural-waste-substrates-survey]]
+- mushroom-sawdust-bran-spawn-preparation
+- oyster-mushroom-agricultural-waste-substrates-survey
+## See Also
+- [[mushroom-substrate-preparation]]
+- [[substrate-preparation]]
+- [[oyster-mushroom]]
+- [[mushroom-substrates]]
+- [[oyster-mushrooms]]

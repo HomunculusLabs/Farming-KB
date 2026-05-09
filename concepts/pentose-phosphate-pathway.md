@@ -36,7 +36,7 @@ and is subject to tight regulation: it is allosterically stimulated by NADP+ and
 inhibited by NADPH, maintaining the cytosolic NADPH:NADP+ ratio at approximately 100:1 in
 liver. G6PD is also regulated post-translationally by SIRT2-mediated deacetylation, w [[staycare-cytochrome-p450-in-fungal-biodegradation]] sterol synthesis, cytochrome P450 reactions) and in the glutathione
 system creates the demand signal. SIRT2-mediated deacetylation of G6PD provides rapid
-post-translational activation during oxidative stress.
+post-translational activation during [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]].
 
 ## Role in Redox Homeostasis
 
@@ -48,7 +48,7 @@ proteins, lipids, and DNA. Without adequate PPP-derived NADPH, H2O2 accumulates 
 be co [[hemoglobin-oxygen-transport-biochemistry]]. Phagocytic
 white blood cells use the PPP to fuel the respir [[fungal-fruiting-body-formation-environmental-triggers]] toin, dapsone), or foods (fava beans, causing
 favism). These triggers overwhelm the impaired NADPH production, leading to hemoglobin
-denaturation (Heinz body formation), hemolytic anemia, hemoglobinuria (dark urine), jaundice,
+denaturation (Heinz [[fungal-fruiting-body-formation-environmental-triggers]]), hemolytic anemia, hemoglobinuria (dark urine), jaundice,
 and fatigue. Neonatal jaundice can be severe, potentially progressing to kernicterus with brain
 damage. Diagnosis is by fluorescent spot test, quantitative enzyme assay, or genetic testing.
 Management is avoidance of known triggers; acute hemolysis is self-limiting and managed with
@@ -63,7 +63,7 @@ bacteria) to produce aromatic amino acids. The NADPH output supports fatty acid 
 liver and adipose, cholesterol [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]](the reductive pentose phosphate cycle). Ribulose-1,5-
 bisphosphate carboxylase/oxygenase (Rubisco) fixes CO2, and the resulting sugars are
 rearranged by the same transketolase and transaldolase reactions to regenerate ribulose-1,5-
-bisphosphate, creating a cyclic pathway for carbon fixation. The shared enzymes underscore the
+bisphosphate, creating a cyclic pathway for [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]]. The shared enzymes underscore the
 ancient evolutionary origin of these carbon-carbon rearrangement reactions.
 ## Practical Considerations
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -33,7 +33,7 @@ Koji produces both alpha and beta amylase in quantities that far exceed what occ
 
 ### Proteases
 
-In addition to amylases, koji produces protease enzymes that break down proteins into amino acids and peptides. These amino acids are responsible for the savory umami character of miso and soy sauce. They also provide nitrogen for yeast nutrition in sake production.
+In addition to amylases, koji produces protease enzymes that [[query-can-fungi-break-down-plastic-pollution]] proteins into amino acids and peptides. These amino acids are responsible for the savory umami character of miso and soy sauce. They also provide nitrogen for yeast nutrition in sake production.
 
 ## Making Koji
 
@@ -63,9 +63,9 @@ In addition to amylases, koji produces protease enzymes that break down proteins
 
 - Temperature control is the most important variable. Too hot and the mold dies; too cold and growth is too slow
 - Humidity must be high (85-95%) to prevent the grain from drying out
-- Air circulation is important to prevent overheating and ensure even growth
+- [[stamets-growing-room-air-circulation-co2-management]] is important to prevent overheating and ensure even growth
 - Cleanliness is essential to prevent contamination by unwanted molds or bacteria
-- The koji is finished when it has maximum enzyme production -- typically 40-48 hours
+- The koji is finished when it has maximum [[ligninolytic-enzyme-production-bioremediation]] -- typically 40-48 hours
 
 ## Products Made with Koji
 
@@ -76,7 +76,7 @@ Sake is the most refined application of koji technology. The koji-rice-mash-yeas
 ### Miso
 
 Miso is made by combining koji (typically on rice or barley) with cooked soybeans and salt, then fermenting for months to years. The koji enzymes break down soybean proteins and starches into the complex, savory paste that is a cornerstone of Japanese cuisine. See [[miso-making]] for detailed miso fermentation instructions
-- [[faires-food-fermentation-methods]] for other fermentation techniques
+- faires-food-fermentation-methods for other fermentation techniques
 - [[beer-brewing-basics]] for how enzymes work in the mashing process
 - [[vinegar-making]] for acetic acid fermentation
-- [[faires-food-drying-and-no-energy-storage]]
+- faires-food-drying-and-no-energy-storage

@@ -38,7 +38,7 @@ species), A. longa took 4.4 (5th), and A. chlorotica took only 0.6
 (last). The broadly similar preferences among earthworm species
 combined with differential palatability of fungal species indicate that
 earthworms are selective fungivores that can differentially affect
-saprotrophic fungal community composition through grazing.
+saprotrophic fungal [[core-endorhiza-bacterial-community-composition-cannabis]] through grazing.
 
 ## Spore Survival Through Earthworm Gut
 
@@ -47,13 +47,13 @@ spore viability after passage through earthworm guts. Chaetomium
 globosum showed 80.5% survival through Lumbricus terrestris (33 of 41
 spores viable) and a remarkable 155% increase through Aporrectodea
 longa (76 of 49 spores viable), suggesting that earthworm gut fluids
-stimulate spore germination. In contrast, Fusarium lateritium failed
+stimulate [[growing-gourmet-spore-germination-strain-isolation]]. In contrast, Fusarium lateritium failed
 to survive passage through either species, and Agrocybe temulenta also
 failed through Lumbricus. The decline in spore germination was caused
 by intestinal fluid action, not soil abrasion; abrasion actually
 stimulated germination. This survival and enhanced germination suggests
 adaptation to faunal dispersal, with implications for how earthworm
-activity structures fungal communities.
+activity structures [[biodiversity-of-fungi-soil-fungal-communities-agriculture]].
 
 ## Nematode Food Resource
 
@@ -62,7 +62,7 @@ populations of 1,427 nematodes per plate, with 99% being Aphelenchoides
 saprophilus. This made it the most productive saprotrophic fungus
 tested, far exceeding Agrocybe gibberosa (349 nematodes) and Mucor
 heimalis (24). While its capacity was lower than the best
-ectomycorrhizal fungi (Lactarius rufus at 25,890), C. globosum was
+[[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] (Lactarius rufus at 25,890), C. globosum was
 the premier saprotrophic nematode food source. The near-complete
 dominance of A. saprophilus indicates particularly suitable conditions
 for this nematode species.
@@ -72,7 +72,7 @@ for this nematode species.
 Earthworms transport propagules of saprotrophic, mycorrhizal, and
 pathogenic fungi. Gange (1993) showed that earthworm feeding
 concentrates on dead and dying root material, resulting in ingestion of
-large amounts of arbuscular mycorrhizal spores. Viable spores
+large amounts of [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] spores. Viable spores
 deposited in casts provide local inoculum for establishing plant
 species. Doube et al. (1994a,b; 1995) further showed that Aporrectodea
 species assist plant roots in colonization by biocontrol bacteria
@@ -88,7 +88,7 @@ soil. Casts contained 401 mg/g nitrogen, 8 mg/g phosphorus, 42 mg/g
 potassium, 191 mg/g calcium, and 23 mg/g magnesium, compared to
 inter-row soil with only 72 mg/g N, 1.4 mg/g P, 7.5 mg/g K, 27 mg/g
 Ca, and 3 mg/g Mg. The combined influence of tree-derived leaf litter,
-earthworm consumption, and fungal decomposition including Chaetomium
+earthworm consumption, and [[dighton-fungal-decomposition-nutrient-cycling]] including Chaetomium
 globosum significantly improves soil fertility in both agricultural and
 natural ecosystems.
 

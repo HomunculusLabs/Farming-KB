@@ -68,10 +68,10 @@ forests at 300–2,500 m elevation.
 Prefers well-drained, slightly acidic soils on sheltered slopes.
 
 Extremely cold-hardy to -30°C, enabling cultivation across temperate
-zones in Korea, Japan, Europe, and North America.
+zones in Korea, Japan, Europe, and [[psilocybin-north-america-pacific-northwest]].
 
 Wild populations are rare and threatened; nearly all commercial material
-is cultivated. The species has naturalized in parts of eastern North
+is cultivated. The species has naturalized in parts of [[polypore-fungi-eastern-north-america]]
 America and Europe.
 
 ## Phytochemistry
@@ -103,7 +103,7 @@ pain, weakness, frequent urination, and hypertension.
 Modern research validates multiple traditional applications.
 
 Anti-hypertensive effects are well-documented: aqueous bark extracts
-lower blood pressure in animal models and clinical trials through
+lower blood pressure in animal models and [[mushroom-cancer-clinical-trials-overview]] through
 modulation of the renin-angiotensin system and direct vasodilation.
 
 Anti-osteoporotic activity includes osteoblast stimulation, increased
@@ -125,9 +125,9 @@ softwood cuttings in early summer. Trees require 5–8 years before
 sustainable bark harvest; commercial plantations strip vertical bark
 sections rotationally.
 
-In permaculture design, E. ulmoides serves as a multipurpose temperate
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], E. ulmoides serves as a multipurpose temperate
 tree: medicinal bark, edible young leaves, rubber-producing biomass,
-deep taproot for drought tolerance, erosion control, and effective
+deep taproot for [[dighton-fungal-drought-tolerance-plant-water-relations]], [[permplant-willows-salix-erosion-control-fodder]], and effective
 windbreak or shade canopy.
 
 Interplanting with understory medicinal herbs creates productive

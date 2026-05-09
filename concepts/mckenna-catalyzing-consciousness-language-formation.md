@@ -1,5 +1,5 @@
 ---
-title: Catalyzing Consciousness and Language Formation
+title: mckenna-catalyzing-consciousness-and-language and Language Formation
 created: 2026-04-28
 tags:
   - consciousness
@@ -43,7 +43,7 @@ The first encounters between hominids and psilocybin-containing mushrooms
 may have occurred on the African grasslands. The strategy of early hominid
 omnivores was to eat everything that seemed foodlike and to test
 everything for its food potential. The eminent ethnobotanist Richard
-Evans Schultes has documented the presence of psychoactive mushrooms in
+[[richard-evans-schultes-updated]] has documented the presence of psychoactive mushrooms in
 virtually every area of the world where cattle graze.
 
 Hominids and hallucinogenic plants were in close association for a long
@@ -91,7 +91,7 @@ objectification of our collective linguistic intent.
 
 ## The Mushroom of Language
 
-Henry Munn described this phenomenon in his essay on Mazatec mushroom
+Henry Munn described this phenomenon in his essay on [[maria-sabina-mazatec-mushroom-ceremony]]
 use: "Language is an ecstatic activity of signification. Intoxicated by
 the mushrooms, the fluency, the ease, the aptness of expression one
 becomes capable of are such that one is astounded by the words that issue

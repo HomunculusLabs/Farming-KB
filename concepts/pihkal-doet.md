@@ -27,7 +27,7 @@ more emotion-focused members of the phenethylamine family.
 
 DOET was one of the compounds that contributed to Shulgin's broader
 understanding of how 4-position substituents influenced the character of
-psychedelic experience, a theme that runs throughout PIHKAL.
+[[leary-psychedelic-experience-bardo-mapping]], a theme that runs throughout PIHKAL.
 
 ## Chemical Structure and Classification
 
@@ -101,7 +101,7 @@ end of the spectrum.
 ## Pharmacology
 
 DOET acts primarily as a 5-HT2A receptor agonist, the mechanism common to
-all psychedelic DO compounds. However, its receptor binding profile may
+all psychedelic DO compounds. However, its [[tihkal-receptor-binding-serotonin]] profile may
 differ from the halogenated compounds due to the different electronic and
 steric properties of the ethyl group, which is less electron-withdrawing
 than halogens. The alpha-methyl group provides the same metabolic resistance

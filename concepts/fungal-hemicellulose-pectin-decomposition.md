@@ -3,19 +3,12 @@ title: Fungal Hemicellulose and Pectin Decomposition
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Hemicellulose and Pectin Decomposition
-
-## Overview
-
-Hemicellulose and pectin are major structural polysaccharides in plant cell walls that
-occupy the space between cellulose microfibrils and provide cross-linking with lignin.
-Their decomposition by fungi is a critical but often underappreciated component of
-[[fungal-decomposition-ecology]], and the
+# Fungal Hemicellulose and Pectin Decomposition ## Overview Hemicellulose and pectin are major structural polysaccharides in plant cell walls that occupy the space between cellulose microfibrils and provide cross-linking with lignin. Their decomposition by fungi is a critical but often underappreciated component of [[fungal-decomposition-ecology]], and the
 trajectory of [[fungal-cellulose-degradation]] or [[fungal-functional-diversity-decomposition]] of decomposer
-communities and may help explain why more diverse microbial communities often achieve
+communities and may help explain why more diverse [[soil-edaphic-factors-microbial-communities]] often achieve
 more complete decomposition of complex plant materials.
 - [[fungal-leaf-litter-succession]]
 ## Practical Applications
@@ -35,7 +28,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -85,7 +78,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -95,4 +88,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

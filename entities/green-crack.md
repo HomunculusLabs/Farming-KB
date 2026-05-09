@@ -19,7 +19,7 @@ the original name didn't capture the strain's intense, invigorating
 effects. The renaming proved controversial but undeniably boosted the
 strain's popularity. Green Crack has since become one of the most
 widely available and consistently sought-after sativa-leaning strains
-in the North American legal and illicit markets, prized by recreational
+in the [[growing-gourmet-north-american-reishi-species]] legal and illicit markets, prized by recreational
 users for daytime energy and by medical patients for fatigue,
 depression, and attention-related conditions.
 
@@ -116,16 +116,16 @@ Green Crack is considered a moderately easy strain to cultivate,
 suitable for beginners with some experience. Key cultivation
 considerations include:
 
-- **Indoor cultivation:** Thrives in soil and hydroponic systems;
-  responds well to SCROG and LST training techniques to manage
+- **[[cannabis-sativa-indoor-cultivation-techniques]]:** Thrives in soil and hydroponic systems;
+  responds well to SCROG and LST [[cannabis-training-techniques-comparison]] to manage
   sativa stretch. Maintain temperatures of 22-28°C during flowering.
 - **Outdoor cultivation:** Prefers warm, Mediterranean-type climates
   with consistent sunlight. Harvest in late September to mid-October
   (Northern Hemisphere). May require support for tall branches.
 - **Nutrient needs:** Moderate to heavy feeder, particularly during
-  mid-flowering. Watch for nitrogen toxicity in vegetative stage.
+  mid-flowering. Watch for [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] in [[comparison-cannabis-vegetative-stage-vs-flowering-stage]].
   CalMag supplementation recommended.
-- **Common issues:** Susceptible to powdery mildew in humid conditions;
+- **Common issues:** Susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in humid conditions;
   the strong aroma requires carbon filtration for indoor grows.
   Branches can become brittle under heavy bud weight.
 

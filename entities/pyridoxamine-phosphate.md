@@ -15,7 +15,7 @@ inchi_key: ZMJGSOSNSPKHNH-UHFFFAOYSA-N
 created: 2026-05-02
 updated: 2026-05-02
 related_concepts:
-  - pyridoxal-phosphate-coenzyme-chemistry
+  - [[pyridoxal-phosphate-coenzyme-chemistry]]
 sources:
   - https://pubchem.ncbi.nlm.nih.gov/compound/1053
   - https://en.wikipedia.org/wiki/Pyridoxamine
@@ -52,7 +52,7 @@ The surrounding protein controls when PMP releases its amino group to a keto aci
 
 PMP and PLP are interconverted during aminotransferase catalytic cycles.
 PLP begins many transamination reactions as an aldehyde-containing amino-group acceptor.
-An amino acid substrate transfers its amino group to PLP.
+An [[cho-fish-amino-acid-preparation]] substrate transfers its amino group to PLP.
 The carbon skeleton of that amino acid leaves as an alpha-keto acid.
 The cofactor is then present as PMP.
 PMP subsequently reacts with a second alpha-keto acid.
@@ -91,7 +91,7 @@ PMP's importance is therefore inseparable from the enzyme architecture that hold
 
 PMP is a necessary transient form in the redistribution of amino nitrogen.
 Nitrogen from dietary and cellular amino acids often passes through aminotransferase reactions.
-Those reactions help connect amino acid pools with central carbon metabolism.
+Those reactions help connect amino acid pools with central [[one-carbon-metabolism-vs-glutathione-redox-biology]].
 They also help produce nonessential amino acids from available keto acid precursors.
 In the liver, aminotransferase activity supports nitrogen handling before urea-cycle disposal.
 In muscle, transamination participates in alanine and glutamate cycling during exercise and fasting.
@@ -136,4 +136,4 @@ It is an entity because it is a specific compound with a defined formula, databa
 
 - [[catalytic-triad-enzyme-mechanism]]
 
-See also: [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]]
+See also: [[legume-nitrogen-fixation-and-green-manure]]

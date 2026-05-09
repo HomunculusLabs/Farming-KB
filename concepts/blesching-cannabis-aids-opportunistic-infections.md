@@ -21,7 +21,7 @@ type: concept
 Mainstream orthodox medicine considers acquired immune deficiency syndrome
 (AIDS) to be a disease of the immune system caused by human
 immunodeficiency virus (HIV) transmitted through sexual or blood contact.
-Within a weakened immune system, infectious agents such as parasites,
+Within a weakened immune system, [[blesching-cannabis-infectious-agents-cancer]] such as parasites,
 fungi, bacteria, or viruses encounter little resistance from natural
 defenses.
 
@@ -113,13 +113,15 @@ pharmaceuticals, the HIV-AIDS hypothesis itself, the fact that AIDS
 behaves unlike a contagious disease, and the lack of focus on other
 possible causative or contributing elements.
 
-## Related Topics
+## Related
+
+- [[blesching-cannabis-bacterial-infections]] Topics
 
 - [[blesching-cannabis-fungal-infections-candida]] - Fungal
   opportunistic infections including candidiasis
 - [[blesching-cannabis-hepatitis]] - Hepatitis as an AIDS-related
   complication
-- [[blesching-cannabis-immune-system-modulation]] - Cannabis immune
+- [[blesching-cannabis-immune-system-modulation]] - [[blesching-cannabis-immune-system-modulation]]
   modulation in immunocompromised states
 - [[blesching-cannabis-palliative-care]] - Palliative approaches for
   advanced AIDS

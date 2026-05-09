@@ -1,5 +1,5 @@
 ---
-title: Diffusion Osmosis and Active Transport in Plants
+title: Diffusion Osmosis and diffusion osmosis and active transport in plants in Plants
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -34,7 +34,7 @@ Several environmental and biological factors influence how quickly molecules dif
 
 ### Facilitated Diffusion
 
-Some molecules cannot pass through the cell membrane on their own but can cross with help from transport proteins embedded in the membrane. These proteins change shape or utilize internal electrical charges to help molecules through. This is still considered diffusion (passive) because no energy is added to the system -- the protein merely facilitates the natural movement down the concentration gradient.
+Some molecules cannot pass through the cell membrane on their own but can cross with help from [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] embedded in the membrane. These proteins change shape or utilize internal electrical charges to help molecules through. This is still considered diffusion (passive) because no energy is added to the system -- the protein merely facilitates the natural movement down the concentration gradient.
 
 Ion channels and aquaporins are examples of transport proteins that allow facilitated diffusion. Aquaporins are particularly important — they are water-specific channels that can dramatically increase the rate of water movement across membranes compared to simple diffusion through the lipid bilayer.
 
@@ -46,7 +46,7 @@ The solutes, if they can pass through the membrane, move in the opposite directi
 
 ### Turgor Pressure
 
-When water enters a plant cell by osmosis, the cell swells against its rigid cell wall. This outward pressure is called turgor pressure, and it is essential for maintaining plant structure. Without turgor pressure, cells become flaccid and the plant wilts. Turgor pressure also drives cell expansion during growth and keeps guard cells turgid so stomata can open for gas exchange.
+When water enters a plant cell by osmosis, the cell swells against its rigid [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]]. This outward pressure is called turgor pressure, and it is essential for maintaining plant structure. Without turgor pressure, cells become flaccid and the plant wilts. Turgor pressure also drives cell expansion during growth and keeps guard cells turgid so stomata can open for gas exchange.
 
 ### Osmosis in Plant Roots
 
@@ -88,7 +88,7 @@ All three mechanisms work together:
 
 Without any one of these mechanisms, plant nutrition would fail.
 
-These four transport mechanisms operate simultaneously and are tightly integrated. Diffusion handles short-distance ion movement within the root cortex and at the soil-root interface. Osmosis drives water uptake and creates the transpiration stream that carries dissolved nutrients upward. Active transport provides the selectivity needed for nutrient discrimination, allowing plants to preferentially absorb scarce essential elements over abundant non-essential ones. Bulk flow through the xylem distributes nutrients from roots to shoots at rates that would be impossible through diffusion alone. The [[fungal-contributions-soil-structure]] determines how easily water and dissolved nutrients can reach root surfaces. Healthy soils with good aggregation and organic matter content maintain optimal conditions for all transport mechanisms.
+These four transport mechanisms operate simultaneously and are tightly integrated. Diffusion handles short-distance ion movement within the root cortex and at the soil-root interface. Osmosis drives water uptake and creates the transpiration stream that carries dissolved nutrients upward. Active transport provides the selectivity needed for nutrient discrimination, allowing plants to preferentially absorb scarce essential elements over abundant non-essential ones. Bulk flow through the xylem distributes nutrients from roots to shoots at rates that would be impossible through diffusion alone. The [[fungal-contributions-soil-structure]] determines how easily water and dissolved nutrients can reach root surfaces. Healthy soils with good aggregation and [[hamilton-composting-and-organic-matter-management]] content maintain optimal conditions for all transport mechanisms.
 
 ## Related Topics
 

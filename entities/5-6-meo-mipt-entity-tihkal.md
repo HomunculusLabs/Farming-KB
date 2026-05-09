@@ -11,7 +11,7 @@ entity_type: "compound"
 source: "TIHKAL"
 source_entry: "#41"
 classification: ["tryptamine"]
-synthesis_method: "from 5,6-dimethoxyindole via oxalyl chloride and methylisopropylamine"
+synthesis_method: "from 5,6-dimethoxyindole via [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] and methylisopropylamine"
 status: ["research chemical", "inactive"]
 legal_status: ["varies by jurisdiction"]
 created: 2026-04-15
@@ -31,7 +31,7 @@ sources:
 
 The full chemical name is 5,6-dimethoxy-3-[2-(isopropylmethylamino)ethyl]indole. The compound is also designated as 5,6-dimethoxyindole-3-ethaneamine, N-isopropyl-N-methyl.
 
-The free base has a melting point of 71-73 degrees Celsius after crystallization from hexane. Mass spectral data shows the characteristic C5H12N+ fragment at m/z 86 (100%), the indolemethylene+ fragment at m/z 190 (4%), and the parent ion at m/z 276 (9%).
+The free base has a melting point of 71-73 degrees Celsius after crystallization from hexane. Mass [[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]] shows the characteristic C5H12N+ fragment at m/z 86 (100%), the indolemethylene+ fragment at m/z 190 (4%), and the parent ion at m/z 276 (9%).
 
 This compound belongs to the 5,6-dimethoxy series of tryptamines, which has been systematically explored but has consistently failed to demonstrate significant psychoactivity. The methyl-isopropyl nitrogen pattern is the same one found in the highly active compounds [[4-ho-mipt-entity-tihkal]], making the inactivity of 5,6-MeO-MIPT all the more striking.
 
@@ -52,7 +52,7 @@ The glyoxylamide is reduced with lithium aluminum hydride in anhydrous tetrahydr
 
 ## The 6-Position Problem
 
-The consistent inactivity of 5,6-disubstituted tryptamines raises an important question about the role of the 6-position in tryptamine pharmacology. Whether the substituent is a methoxy group, a methylenedioxy bridge, or a methyl group, the presence of anything at the 6-position appears to significantly reduce or eliminate psychedelic activity.
+The consistent inactivity of 5,6-disubstituted tryptamines raises an important question about the role of the 6-position in [[mckenna-food-gods-tryptamine-pharmacology-indoles]]. Whether the substituent is a methoxy group, a methylenedioxy bridge, or a methyl group, the presence of anything at the 6-position appears to significantly reduce or eliminate psychedelic activity.
 
 This is in contrast to the 5-position, where methoxylation produces some of the most potent tryptamine psychedelics known (such as [[amt-entity-tihkal]] in the TIHKAL series. The 6-position appears to be a "kiss of death" for tryptamine psychedelic activity, a finding that has important implications for understanding the structural requirements for binding at serotonin 5-HT2A receptors and related sites.
 
@@ -62,9 +62,11 @@ Shulgin, A. and Shulgin, A. (1997). Tryptamines I Have Known and Loved: The Chem
 
 ## See Also
 
+- [[mbt-entity-tihkal]]
+
 - [[5-meo-mipt-entity-tihkal]] - the active 5-methoxy analogue
 - [[4-meo-mipt-entity-tihkal]] - the moderately active 4-methoxy analogue
-- 5 6 meo mipt entity tihkal - the 5,6-methylenedioxy analogue
+- 5 6 meo [[4-ho-mipt-entity-tihkal]] tihkal - the 5,6-methylenedioxy analogue
 - [[tihkal-introduction-and-methodology]] - overview of the TIHKAL project
 ## Practical Considerations
 
@@ -84,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

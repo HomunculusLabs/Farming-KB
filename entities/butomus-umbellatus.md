@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-**Butomus umbellatus** L., commonly known as flowering rush, is a perennial emergent aquatic plant in the monogeneric family Butomaceae. It is native to Europe and parts of Asia but has become an invasive species in North America, where it disrupts wetland and shoreline ecosystems.
+**Butomus umbellatus** L., commonly known as flowering rush, is a perennial emergent aquatic plant in the monogeneric family Butomaceae. It is native to Europe and parts of Asia but has become an invasive species in [[psilocybin-north-america-pacific-northwest]], where it disrupts wetland and shoreline ecosystems.
 
 The species produces attractive umbels of pink to rose-colored flowers, which made it a popular ornamental plant in water gardens. Its escape from cultivation has led to widespread establishment in the Great Lakes region, the St. Lawrence River watershed, and Pacific Northwest waterways.
 
@@ -50,7 +50,7 @@ In its native range, *B. umbellatus* is a component of diverse wetland plant com
 
 In North America, flowering rush forms dense, monospecific stands that displace native wetland vegetation including bulrushes (*Schoenoplectus* spp.), cattails (*Typha* spp.), and native submersed plants. These dense stands reduce plant diversity and alter habitat structure for fish and wildlife.
 
-The species exhibits a dual reproductive strategy combining sexual reproduction through seeds and vegetative propagation through rhizome fragmentation and bulbils. In North American populations, vegetative reproduction predominates, with most populations consisting of a single triploid clone that reproduces exclusively through bulbils.
+The species exhibits a dual reproductive strategy combining [[fungal-life-cycles-sexual-reproduction-metamorphosis]] through seeds and vegetative propagation through rhizome fragmentation and bulbils. In North American populations, vegetative reproduction predominates, with most populations consisting of a single triploid clone that reproduces exclusively through bulbils.
 
 Fragment dispersal occurs through water currents, boat propellers, and contaminated soil or equipment. Bulbils can remain viable in sediment for extended periods, creating persistent propagule banks that resist eradication efforts.
 
@@ -60,15 +60,15 @@ Small infestations can be managed through manual digging, ensuring complete remo
 
 Herbicide treatments using imazapyr, glyphosate, or diquat have shown variable efficacy. Treatment is most effective when applied during early flowering, when carbohydrate reserves in rhizomes are at their lowest. Repeat applications over multiple growing seasons are typically necessary.
 
-Biological control agents have not been developed specifically for *B. umbellatus*. Generalist herbivores including muskrats and waterfowl consume the plant but do not provide effective population suppression. Research into host-specific natural enemies from the native range is ongoing.
+[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents have not been developed specifically for *B. umbellatus*. Generalist herbivores including muskrats and waterfowl consume the plant but do not provide effective population suppression. Research into host-specific natural enemies from the native range is ongoing.
 
 ## Physiological Characteristics
 
-*Butomus umbellatus* possesses well-developed aerenchyma tissue throughout its stems, leaves, and rhizomes, facilitating oxygen transport from aerial portions to submerged roots. This adaptation allows the species to thrive in anaerobic substrates where most terrestrial plants cannot survive.
+*Butomus umbellatus* possesses well-developed aerenchyma tissue throughout its stems, leaves, and rhizomes, facilitating [[hemoglobin-oxygen-transport-biochemistry]] from aerial portions to submerged roots. This adaptation allows the species to thrive in anaerobic substrates where most terrestrial plants cannot survive.
 
 The plant exhibits C₃ photosynthesis with moderate rates of carbon fixation. Unlike many submersed aquatic plants, flowering rush relies primarily on atmospheric CO₂ for photosynthesis rather than bicarbonate utilization, which may limit its competitive ability in alkaline waters.
 
-Nutrient uptake occurs through both root absorption from sediment and foliar uptake from the water column. The species shows strong luxury uptake of phosphorus, storing excess in rhizome tissue for later use during periods of low nutrient availability.
+Nutrient uptake occurs through both root absorption from sediment and foliar uptake from the water column. The species shows strong luxury uptake of phosphorus, storing excess in rhizome tissue for later use during periods of low [[ph-and-nutrient-availability-garden-soils]].
 
 ## Reproductive Biology
 
@@ -92,7 +92,7 @@ Population genetic studies using microsatellite and AFLP markers have confirmed 
 
 Remote sensing techniques including aerial photography and multispectral satellite imagery have been used to map flowering rush infestations along shorelines. Flowering rush can be distinguished from co-occurring vegetation by its distinctive spectral signature during peak flowering.
 
-Environmental DNA detection methods are being developed for early identification of *B. umbellatus* in water bodies. These molecular tools can detect the species at low densities before visible colonization occurs, enabling more effective rapid response management.
+Environmental DNA [[singh-detection-methods-degrading-fungi-environment]] are being developed for early identification of *B. umbellatus* in water bodies. These molecular tools can detect the species at low densities before visible colonization occurs, enabling more effective rapid response management.
 
 ## Impacts on Aquatic Ecosystems
 

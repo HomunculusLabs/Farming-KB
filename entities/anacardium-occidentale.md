@@ -20,7 +20,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Cavalcanti, R.V. et al. (2017). "Cashew (Anacardium occidentale L.) as a Source of Functional Compounds." In: Nutritional Composition of Fruit Cultivars. Academic Press, 197-211.
+  - Cavalcanti, R.V. et al. (2017). "Cashew (Anacardium occidentale L.) as a Source of Functional Compounds." In: dighton-fungal-nutritional-composition-animal-diets of Fruit Cultivars. Academic Press, 197-211.
   - Kubo, I. et al. (1999). "Multifunctional Effects of Anacardic Acids." Journal of Agricultural and Food Chemistry, 47(8), 3077-3081.
   - Abreu, B.V.D.S. et al. (2013). "Anacardium occidentale: Ethnopharmacology, Phytochemistry, and Pharmacology." Revista Brasileira de Farmacognosia, 23(4), 775-787.
   - Morton, J.F. (1987). "Cashew Apple." Fruits of Warm Climates. Miami, FL.
@@ -41,7 +41,7 @@ The cashew nut shell liquid (CNSL), a byproduct of nut processing, is a
 significant industrial raw material containing anacardic acid, cardanol,
 and cardol — compounds with applications in resins, friction linings, and
 pesticides. The species is increasingly valued in tropical agroforestry
-and permaculture systems for its drought tolerance, soil stabilization,
+and permaculture systems for its [[dighton-fungal-drought-tolerance-plant-water-relations]], soil stabilization,
 and multi-product yield.
 
 ## Taxonomy and Morphology
@@ -68,7 +68,7 @@ encased in a thin shell containing the vesicant CNSL.
 Native to the coastal tablelands of northeastern Brazil (Piauí, Ceará,
 Rio Grande do Norte), where wild populations still exist. Portuguese
 colonizers introduced cashew to Mozambique and India in the 16th century;
-from India, cultivation spread throughout Southeast Asia and Africa.
+from India, cultivation spread throughout [[psilocybe-southeast-asia-pacific]] and Africa.
 
 Today, major producers include Vietnam, India, Nigeria, Côte d'Ivoire,
 and Brazil. The tree thrives in tropical lowlands (0–700 m elevation)
@@ -80,7 +80,7 @@ deep, well-drained sandy soils.
 
 The tree's chemistry is dominated by phenolic lipids from the Anacardiaceae:
 
-- **Anacardic acids** — salicylic acid derivatives with C15 alkyl side
+- **Anacardic acids** — [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]] derivatives with C15 alkyl side
   chains (primarily C15:0, C15:1, C15:2, C15:3); strong antibacterial,
   anti-inflammatory, and tyrosinase-inhibiting activity. Concentrated in
   the nut shell liquid (25–35%).
@@ -124,7 +124,7 @@ production at 8–10 years, with economic lifespans of 30–40 years.
 In permaculture and agroforestry, cashew serves as a multi-function canopy
 tree. Its drought tolerance makes it ideal for dryland food forests and
 reclamation of degraded sandy soils. The extensive root system stabilizes
-soil and the leaf litter contributes organic matter. Cashew intercropping
+soil and the [[dighton-fungal-decomposition-leaf-litter-dynamics]] contributes [[hamilton-composting-and-organic-matter-management]]. Cashew intercropping
 with cowpea, groundnut, or cassava provides ground-level food production
 while the tree establishes.
 

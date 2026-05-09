@@ -12,7 +12,7 @@ updated: 2026-04-26
 
 ## Overview
 
-Saprotrophic fungi are the primary decomposers of organic matter in terrestrial ecosystems. They play an indispensable role in nutrient cycling, breaking down complex plant polymers -- cellulose, hemicellulose, lignin, pectin, chitin, and cutin -- into simpler compounds that can be assimilated by fungi themselves and by other organisms. In most ecosystems, fungi contribute the largest proportion of decomposer biomass, accounting for an estimated 78-90% of total decomposer biomass in grassland soils and approximately 89% of total living microbial biomass in British deciduous forest soils. The ecological activities of saprotrophic fungi are fundamental to carbon and nitrogen cycling, soil formation and stabilization, and the maintenance of soil fertility.
+Saprotrophic fungi are the primary decomposers of organic matter in terrestrial ecosystems. They play an indispensable role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], breaking down complex plant polymers -- cellulose, hemicellulose, lignin, pectin, chitin, and cutin -- into simpler compounds that can be assimilated by fungi themselves and by other organisms. In most ecosystems, fungi contribute the largest proportion of decomposer biomass, accounting for an estimated 78-90% of total decomposer biomass in grassland soils and approximately 89% of total living microbial biomass in British deciduous forest soils. The ecological activities of saprotrophic fungi are fundamental to carbon and [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]], soil formation and stabilization, and the maintenance of soil fertility.
 
 ## Decomposer Roles and Succession
 
@@ -30,11 +30,11 @@ Wood-inhabiting macrofungi represent one of the best-studied groups of saprotrop
 
 ### White Rot
 
-White-rot fungi (primarily basidiomycetes) are unique in their ability to degrade all major components of wood -- cellulose, hemicellulose, and lignin. They produce ligninolytic enzymes (lignin peroxidases, manganese peroxidases, and laccases) that attack the lignin polymer, leaving behind a bleached, fibrous, and often soft or spongy residue. White rot represents the most complete form of wood decomposition and is critical for carbon and nutrient cycling in forest ecosystems. In standing trees, white-rot decay fungi can be root-, butt-, or heart-rot organisms.
+White-rot fungi (primarily basidiomycetes) are unique in their ability to degrade all major components of wood -- cellulose, hemicellulose, and lignin. They produce [[singh-ligninolytic-enzymes-fungal-bioremediation]] (lignin peroxidases, manganese peroxidases, and laccases) that attack the lignin polymer, leaving behind a bleached, fibrous, and often soft or spongy residue. White rot represents the most complete form of wood decomposition and is critical for carbon and nutrient cycling in forest ecosystems. In standing trees, white-rot decay fungi can be root-, butt-, or heart-rot organisms.
 
 ### Brown Rot
 
-Brown-rot fungi degrade cellulose and hemicellulose while largely leaving lignin intact, producing a characteristic brown, cubical, cracked residue. This brown-rot debris acts as a moisture sink for the maintenance of mycorrhizal fungi in seasonally dry forests. Brown-rot residues can become a major soil component in some forest types. The brown-rot decay strategy selectively removes carbohydrates, leaving behind a lignin-rich residue that contributes to humus formation.
+Brown-rot fungi degrade cellulose and hemicellulose while largely leaving lignin intact, producing a characteristic brown, cubical, cracked residue. This brown-rot debris acts as a moisture sink for the maintenance of mycorrhizal fungi in seasonally dry forests. Brown-rot residues can become a major soil component in some forest types. The brown-rot decay strategy selectively removes carbohydrates, leaving behind a lignin-rich residue that contributes to [[lowenfels-humus-formation-benefits]].
 
 ### Decay Class Progression
 
@@ -44,7 +44,7 @@ Wood decomposition proceeds through recognizable stages that can be classified i
 
 Leaf litter decomposition is a major pathway of carbon and nutrient flux in terrestrial ecosystems. Fungi are the dominant decomposers of leaf litter in most forest and grassland environments. The litter layer supports a distinct fungal community that is typically more species-rich than the underlying mineral soil, especially in humid tropical forests where the litter-soil interface may be abrupt and the two layers support markedly different mycotas.
 
-Key factors influencing leaf litter fungal communities include:
+Key factors influencing leaf litter [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] include:
 
 - **Leaf quality**: Litter chemistry (C:N ratio, lignin content, tannin concentration, toughness) strongly affects fungal species composition and decomposition rates. High-quality litter (low C:N, low lignin) supports faster decomposition and different fungal assemblages than recalcitrant litter.
 - **Moisture**: Water availability is a primary constraint on fungal activity in leaf litter. Decomposition rates are highest when litter remains continuously moist.
@@ -60,7 +60,7 @@ Soil is a highly complex medium with myriad minute and microscopic habitats and 
 - **Fungivore-fungus symbioses**: Some soil animals facilitate fungal growth, as in the mutualisms between wood-boring beetles, attine ants, and certain termites with their cultivated fungi.
 - **Antagonists**: Soil fungi engage in internecine warfare through the production of antibiotics, mycotoxins, and competitive enzyme systems.
 
-All major taxonomic groups of fungi are encountered in soils, including members of the Saprolegniales, Pythiales, Mucorales, Eurotiales, Microascales, Hypocreales, Sordariales, Onygenales, Leotiales, Pezizales, and a plethora of mitosporic fungi (primarily anamorphs of ascomycete or basidiomycete species). Basidiomycetes, described as "the missing link in soil mycology" more than 50 years ago, are still underrepresented in soil surveys due to methodological biases in culture-based techniques.
+All major [[coprophilous-fungi-taxonomic-groups-distribution]] of fungi are encountered in soils, including members of the Saprolegniales, Pythiales, Mucorales, Eurotiales, Microascales, Hypocreales, Sordariales, Onygenales, Leotiales, Pezizales, and a plethora of mitosporic fungi (primarily anamorphs of ascomycete or basidiomycete species). Basidiomycetes, described as "the missing link in soil mycology" more than 50 years ago, are still underrepresented in soil surveys due to methodological biases in culture-based techniques.
 
 ## Ecological Patterns and Biodiversity
 
@@ -76,9 +76,9 @@ Sampling studies have shown that species-substrata curves rarely reach an asympt
 ## See Also
 
 - [[soil-food-web-nutrient-cycling]]
-- [[fungal-cellulose-decomposition-fungal-enzymes]]
+- fungal-cellulose-decomposition-fungal-enzymes
 - [[fungal-hemicellulose-pectin-decomposition]]
-- [[biodiversity-fungi-wood-decay-succession]]
+- biodiversity-fungi-wood-decay-succession
 - [[dighton-wood-decay-ecosystem-carbon]]
 - [[gadd-fungal-nutrition-metabolism]]
 - [[gadd-fungal-cell-structure]]

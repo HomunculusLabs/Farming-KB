@@ -1,5 +1,5 @@
 ---
-title: Cannabis Chemical Fertilizers
+title: Cannabis cervantes-chemical-fertilizers-guide
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -18,7 +18,7 @@ Chemical (synthetic/soluble) fertilizers are an excellent choice for indoor cont
 
 ### Soluble Fertilizers
 
-Soluble fertilizers dissolve in water and offer the most control for cannabis cultivation:
+Soluble fertilizers dissolve in water and offer the most control for [[query-how-does-no-till-cannabis-cultivation-work]]:
 
 - Easy to measure and apply
 - Easy to flush from growing medium if problems arise
@@ -39,7 +39,7 @@ Chemical granular fertilizers work well but carry significant risks:
 - Convenient; only require one application every few months
 - Exact control is lost
 - Best suited for ornamental containerized plants
-- Not recommended for cannabis where precise nutrient management is needed
+- Not recommended for cannabis where precise [[green-cannabis-grow-bible-nutrient-management-ppm]] is needed
 
 ## Understanding Fertilizer Labels
 
@@ -72,7 +72,7 @@ Mix fertilizer with water and apply with each watering. Use a siphon applicator 
 
 ### Foliar Feeding
 
-Spray liquid fertilizer solution on foliage. See [[cervantes-chemical-fertilizers-guide]]
+Spray [[jadam-liquid-fertilizer-nutritional-perspective]] solution on foliage. See [[cervantes-chemical-fertilizers-guide]]
 
 - [[cannabis-nutrient-solution-preparation]]
 - [[cannabis-nutrient-toxicity]]

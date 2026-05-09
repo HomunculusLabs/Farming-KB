@@ -8,7 +8,7 @@ sources: [papers/gaias-garden-toby-hemenway.md, papers/a-selection-permaculture-
 ---
 # Mulch-Producing Plants
 
-Mulch-producing plants are species deliberately grown to generate abundant biomass that can be cut and used as surface mulch around other plants. They eliminate the need to import mulch materials, build soil fertility on-site, and form a critical component of [[soil-building-permaculture]] systems.
+Mulch-producing plants are species deliberately grown to generate abundant biomass that can be cut and used as surface mulch around other plants. They eliminate the need to import [[mollison-mulch-materials-sources-and-tropical-application]], build soil fertility on-site, and form a critical component of [[soil-building-permaculture]] systems.
 
 ## The Role of Mulch Plants
 
@@ -16,7 +16,7 @@ Growing mulch under trees and between crops eliminates the need to trudge around
 
 As the nutrient-rich greenery rots, it delivers a large dose of minerals and organic matter to the soil. The resulting thick layer of compost is home to a thriving and diverse population of worms, fungi, bacteria, and other helpful denizens of the soil. This living soil suppresses diseases because the churning soil life competes fiercely for food and habitat below the ground.
 
-With all the resources divided evenly between the soil's many inhabitants, no one microbial species can get out of balance and become a pest. Buildups of harmful fungi are less likely when there is too much competition and too many predators for a single-species population explosion. This biological disease suppression is a key benefit of on-site mulch production, connecting to [[permaculture-dynamic-accumulator-plants]]), and can be made into a tea for drinking or for fertilising the garden.
+With all the resources divided evenly between the soil's many inhabitants, no one microbial species can get out of balance and become a pest. Buildups of harmful fungi are less likely when there is too much competition and too many predators for a single-species population explosion. This biological [[aact-disease-suppression-mechanisms-ingham]] is a key benefit of on-site mulch production, connecting to [[permaculture-dynamic-accumulator-plants]]), and can be made into a tea for drinking or for fertilising the garden.
 
 A ring of comfrey around a fruit tree can be hacked down four or five times a summer. Each cutting produces a thick layer of nutrient-rich biomass. Comfrey's deep taproot (extending up to 3 meters) mines minerals from deep soil layers that other plants cannot reach, bringing them to the surface in its leaves.
 
@@ -36,17 +36,17 @@ Nasturtiums are particularly useful in [[pioneer-species-permaculture]].
 
 ## Dynamic Accumulators as Mulch Plants
 
-Many dynamic accumulator plants double as excellent mulch producers. Chicory, dandelion, yarrow, and plantain all produce biomass that, when cut and used as mulch, returns accumulated minerals to the soil surface where crop plants can access them.
+Many [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]] double as excellent mulch producers. Chicory, dandelion, yarrow, and plantain all produce biomass that, when cut and used as mulch, returns accumulated minerals to the soil surface where crop plants can access them.
 
-These plants serve a dual function: mining minerals from deep soil layers and then delivering those minerals to the surface through their decomposing leaves. This nutrient cycling is fundamental to [[chop-and-drop-mulching]] systems, where plants are cut in place and left to decompose where they fall. This approach minimises labour (no carrying mulch to where it is needed), maximises nutrient cycling (minerals from decomposing plants stay in the root zone), and builds soil organic matter over time.
+These plants serve a dual function: mining minerals from deep soil layers and then delivering those minerals to the surface through their decomposing leaves. This [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] is fundamental to [[chop-and-drop-mulching]] systems, where plants are cut in place and left to decompose where they fall. This approach minimises labour (no carrying mulch to where it is needed), maximises nutrient cycling (minerals from decomposing plants stay in the root zone), and builds soil organic matter over time.
 
-The key to successful chop-and-drop mulching is timing: cut plants before they set seed to prevent unwanted spread, and cut during active growth periods when nutrient content in leaves is highest. Multiple cuts per season from the same plants maximise total biomass production.
+The key to successful chop-and-drop mulching is timing: cut plants before they set seed to prevent unwanted spread, and cut during active growth periods when nutrient content in leaves is highest. Multiple cuts per season from the same plants maximise total [[dighton-fungal-biomass-production-aquatic-ecosystems]].
 
 ## Mulch Plants in Different Climates
 
 The choice of mulch-producing plants varies with climate. In temperate regions, comfrey, artichokes, rhubarb, and clovers are the mainstay mulch producers. In tropical and subtropical areas, canna lilies, banana leaves, pigeon pea, and sweet potato vines produce abundant biomass.
 
-In arid regions, mulch production is more challenging but still possible. Native grasses, saltbush, and certain acacia species can produce useful mulch quantities even with limited water. The key is selecting species adapted to local rainfall patterns and soil conditions, connecting to [[permaculture-food-forest-design-principles]] system. Once established, the gardener's role shifts from active mulch application to passive observation and occasional management, demonstrating [[permaculture-dryland-strategies]] where water
+In arid regions, mulch production is more challenging but still possible. Native grasses, saltbush, and certain acacia species can produce useful mulch quantities even with limited water. The key is selecting species adapted to local rainfall patterns and soil conditions, connecting to [[permaculture-food-forest-design-principles]] system. Once established, the gardener's role shifts from active mulch application to passive observation and occasional management, demonstrating permaculture-dryland-strategies where water
 conservation is paramount.
 
 Living mulch plants like clover provide additional moisture benefits through
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

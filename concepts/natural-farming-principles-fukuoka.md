@@ -1,5 +1,5 @@
 ---
-title: Natural Farming Principles of Masanobu Fukuoka
+title: Natural natural farming principles fukuoka of Masanobu Fukuoka
 created: 2026-05-06
 tags:
   - farming
@@ -67,18 +67,18 @@ modern civilization. His arguments proceed from several fundamental premises:
 
 **Nature cannot be understood through reductionist science.** The living
 biosystem is an organic whole that cannot be dissected without killing it.
-"Once broken down, it dies." Scientific agriculture studies dead, fragmented
+"Once broken down, it dies." [[fukuoka-critique-scientific-agriculture-civilization]] studies dead, fragmented
 nature and then claims to "know," "use," or "conquer" it. Man can never truly
 know even a single leaf or a single handful of earth.
 
-**Scientific farming creates its own problems.** Plowing compacts soil,
-creating the "need" for further plowing. Chemical fertilizers kill [[natural-diet]]. Traditional farming with draft animals
+**[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] creates its own problems.** Plowing compacts soil,
+creating the "need" for further plowing. [[cervantes-chemical-fertilizers-guide]] kill [[natural-diet]]. Traditional farming with draft animals
 required ten times as much energy input; small-scale mechanization doubled that;
 large-scale mechanization doubled it yet again in geometric progression.
 
 **Even organic farming is insufficient.** Fukuoka was critical of the organic
 farming movement, arguing that the elaborate processing and transportation of
-compost and organic materials represented "just another type of scientific
+[[coleman-compost-and-organic-fertility-management]] materials represented "just another type of scientific
 farming." The gains were local and temporary; examined broadly, many efforts
 to "protect" ecology through organic methods were actually destructive.
 
@@ -95,5 +95,9 @@ independence for nations facing scarcity.
 
 ## Desert Revegetation Proposal
 
-Fukuoka proposed greening deserts using [[fukuoka-five-principles-natural-farming]]
+Fukuoka proposed [[fukuoka-textdoc-greening-deserts-plant-irrigation]] using fukuoka-five-principles-natural-farming
 - [[fukuoka-do-nothing-farming-and-spiritual-life]]
+
+## See Also
+
+- [[fukuoka-natural-farming-principles-do-nothing-agriculture-personal-testimony]]

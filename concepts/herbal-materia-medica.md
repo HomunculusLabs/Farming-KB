@@ -4,11 +4,12 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [herbalism, herbs, medicine]
-sources: []
+sources:
+  sources: []
 ---
 # Herbal Materia Medica
 
-A materia medica is a comprehensive reference catalog of medicinal substances, documenting their botanical identification, active constituents, therapeutic actions, indications, contraindications, preparations, and dosing guidelines. The herbal materia medica is the core reference tool of the herbal practitioner, providing the detailed knowledge of individual herbs necessary for safe and effective clinical practice.
+A materia medica is a comprehensive reference catalog of medicinal substances, documenting their botanical identification, active constituents, therapeutic actions, indications, contraindications, preparations, and [[cannabis-dosing-guidelines-by-condition]]. The herbal materia medica is the core reference tool of the herbal practitioner, providing the detailed knowledge of individual herbs necessary for safe and effective clinical practice.
 
 This page serves as an organizational framework and introduction to key herbs. Individual herbs are organized by their primary therapeutic action categories, consistent with the action classification described in [[herb-drug-interactions]] for detailed interaction information.
 
@@ -18,13 +19,13 @@ This page serves as an organizational framework and introduction to key herbs. I
 
 Turmeric is one of the most extensively researched medicinal plants, with its primary active compound, curcumin, demonstrating potent anti-inflammatory, antioxidant, and anticancer properties through multiple mechanisms including COX-2 inhibition, NF-kappaB modulation, and free radical scavenging.
 
-Turmeric is indicated for joint inflammation (arthritis), digestive inflammation, cardiovascular support, and as a general anti-inflammatory. Bioavailability of curcumin is relatively low but can be enhanced by combining with piperine (from black pepper), using liposomal formulations, or consuming with fats.
+Turmeric is indicated for joint inflammation (arthritis), digestive inflammation, cardiovascular support, and as a general anti-inflammatory. Bioavailability of curcumin is relatively low but can be enhanced by combining with piperine (from [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]]), using liposomal formulations, or consuming with fats.
 
 Turmeric may interact with anticoagulant and antiplatelet medications and should be used cautiously by individuals with gallbladder disease or bile duct obstruction. High doses may cause gastrointestinal discomfort.
 
 ### Willow Bark (Salix alba)
 
-Willow bark is a traditional analgesic and anti-inflammatory herb that contains salicin, a precursor to salicylic acid (the active metabolite of aspirin). It has been used for pain relief for over 2,000 years, documented by Hippocrates, Dioscorides, and Galen.
+Willow bark is a traditional analgesic and anti-inflammatory herb that contains salicin, a precursor to [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]] (the active metabolite of aspirin). It has been used for pain relief for over 2,000 years, documented by Hippocrates, Dioscorides, and Galen.
 
 Willow bark is indicated for musculoskeletal pain (back pain, osteoarthritis), headache, and fever reduction. Its effects are slower in onset but longer-lasting than aspirin, with fewer gastrointestinal side effects because the salicin is converted to salicylic acid gradually in the intestines rather than directly in the stomach.
 
@@ -42,7 +43,7 @@ Calendula is indicated for wounds, burns, rashes, eczema, dermatitis, and fungal
 - herbal plant remedies — additional plant remedy profiles
 - [[herb-drug-interactions]] — interaction profiles
 - [[herbal-medicine]] — overview of herbal medicine
-- [[gaultheria-procumbens]]
+- gaultheria-procumbens
 ## Practical Considerations
 
 When working with Herbal Materia Medica, several practical factors should be
@@ -59,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

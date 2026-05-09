@@ -5,7 +5,8 @@ created: 2026-04-25
 type: concept
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 tags: [cannabis, hash, extraction, charas, traditional]
 ---
 
@@ -26,7 +27,7 @@ Hand rubbing is most common in the Himalayan foothill regions
 of Nepal, India, and Kashmir where "charas" (the Indian word
 for hand-rubbed hash) are fairly common. Most small-scale and
 commercial growers also collect the little bit of hash from
-their hands and tools during manicuring. This finger hash is
+their hands and tools during manicuring. This [[cervantes-finger-hash-manicuring]] is
 the closest thing to hand-rubbed hash that most Western growers
 experience.
 
@@ -85,7 +86,7 @@ hand until it reaches your desired consistency.
 
 ## Yield and Storage
 
-Hand rubbed hash is best enjoyed within a few weeks of
+cervantes hand rubbed hash charas hash is best enjoyed within a few weeks of
 collection. Collecting hand-rubbed resin is extremely time
 consuming. An average collector can rub all day and collect a
 mere five to ten grams. This low yield is one reason the
@@ -106,7 +107,7 @@ cannabis plants, gently rubbing the flowering tops between
 their palms throughout the day. The resulting dark, aromatic
 resin is rolled into characteristic finger-shaped sticks or
 balls. Unlike sieved hash, charas retains more of the plant's
-essential oils and has a distinctive aroma profile.
+[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] and has a distinctive aroma profile.
 
 ## Comparison to Other Methods
 
@@ -125,3 +126,7 @@ growers with minimal equipment. See
 alternatives, and [[cervantes-hash-making-extracts]]
 - [[cervantes-harvest-timing-trichome-ripeness]]
 - [[cervantes-terpenoids-terpene-profiles]]
+
+## See Also
+
+- [[cervantes-finger-hash-manicuring]]

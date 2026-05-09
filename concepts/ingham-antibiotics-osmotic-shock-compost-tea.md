@@ -1,5 +1,5 @@
 ---
-title: Antibiotics and Osmotic Shock in Compost Tea
+title: Antibiotics and ingham antibiotics osmotic shock compost tea in comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide
 created: 2026-04-28
 tags: [compost-tea, microbiology, honey, osmotic-shock]
 date: 2026-04-28
@@ -45,7 +45,7 @@ osmotic shock at high enough concentrations. See [[aact-fungal-dominant-tea]] an
 ## Biologically Activated Materials
 
 Anything biologically activated by having organisms turn inorganic
-compounds into organic compounds under aerobic conditions will help
+compounds into [[fungal-volatile-organic-compounds-communication]] under aerobic conditions will help
 keep that nutrient from leaching below the rooting zone. The
 osmotic shock capacity of the original salt is decreased because
 the organisms have turned it into a wide diversity of organic
@@ -87,3 +87,7 @@ Competition for resources is a biological interaction between
 organisms. pH extremes create chemical stress. Each mechanism
 requires a different management approach, and confusing them can
 lead to ineffective solutions.
+
+## See Also
+
+- [[ingham-blackstrap-molasses-compost-tea-concentration-osmotic-effects]]

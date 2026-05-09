@@ -34,11 +34,11 @@ one of the most widely recognized members and is closely related to
 several other psychoactive species including:
 
 - **[[datura-innoxia]]** Mill. — prickly Datura, native to Mexico and the
-  southwestern United States, used in traditional medicine.
+  southwestern [[dmt-containing-plants-united-states-halpern]], used in traditional medicine.
 - **Datura ferox** L. — long-spined thorn apple, native to South
   America.
 - **Datura wrightii** Regel — sacred thorn apple, used by southwestern
-  Native American peoples.
+  [[halpern-sacramental-peyote-and-native-american-church]] peoples.
 
 All Datura species contain similar tropane alkaloids responsible for
 both their psychoactive and toxic effects, though concentrations vary
@@ -73,9 +73,9 @@ distances.
 
 Datura stramonium is an ancient species whose precise origin remains
 uncertain. Authorities have proposed various centers of origin including
-the Caspian Sea region, Mexico, and North America. Regardless of its
+the Caspian Sea region, Mexico, and [[psilocybin-north-america-pacific-northwest]]. Regardless of its
 exact native range, the plant has become thoroughly cosmopolitan. It
-is found throughout the Americas, North Africa, Europe, the Near East,
+is found throughout the Americas, North Africa, Europe, the [[ancient-cannabis-use-near-east-and-egypt]],
 and the Himalayas, growing from tropical to temperate zones in both
 hemispheres.
 
@@ -128,6 +128,8 @@ delirium. Datura remains one of the most important therapeutic plants
 with a long debated medicinal history.
 
 ## See Also
+
+- [[dicentra-cucullaria]]
 
 - [[turbina-corymbosa]]
 - [[ipomoea-violacea]]

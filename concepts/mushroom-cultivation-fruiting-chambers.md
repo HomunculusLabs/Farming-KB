@@ -1,10 +1,10 @@
 ---
-title: Mushroom Cultivation - Fruiting Chambers
+title: accessible-mushroom-cultivation-for-disabilities - Fruiting Chambers
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [mushroom-cultivation, fruiting-chamber, humidity, temperature, fungi, mycology, cultivation, fae, co2]
-sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+sources: sources: []
 ---
 
 # Mushroom Cultivation - Fruiting Chambers
@@ -19,10 +19,10 @@ Most mushrooms require 85-95% relative humidity for proper fruitbody development
 Methods of humidification include:
 - Steam injection into the air system
 - Atomizing nozzles projecting fine mist (0.5-1.0 gallons per hour at 20-30 psi)
-- Evaporative cooling pads ("swamp cooler" principle)
+- [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] pads ("swamp cooler" principle)
 
 ### Fresh Air Exchange (FAE)
-Carbon dioxide levels directly affect mushroom formation. High CO2 during spawn running promotes mycelial growth; low CO2 triggers fruiting. Air changes per hour: 4-6 for Agaricus brunnescens, 2-3 for Psilocybe cubensis.
+Carbon dioxide levels directly affect [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]. High CO2 during spawn running promotes mycelial growth; low CO2 triggers fruiting. Air changes per hour: 4-6 for Agaricus brunnescens, 2-3 for Psilocybe cubensis.
 
 Fan sizing formula: X = (4 air exchanges/hour * Y cubic feet free air space) / 60 minutes. For an 8x8x15 ft room with 800 cu ft free air space: X = 53.3 CFM.
 
@@ -32,7 +32,7 @@ The air-to-bed ratio (cubic feet free air space / square feet cropping surface) 
 Each species has specific temperature requirements for fruiting. Temperature affects metabolic rate, CO2 production, and moisture loss. Heating can be dry (hot water coils, baseboard electric) or live steam. Cooling is best achieved through fresh air exchange, taking advantage of cooler night temperatures.
 
 ## Lighting
-Many cultivated mushrooms require light for pinhead initiation and proper development. Phototropic mushrooms twist toward light sources. Fluorescent fixtures with broad blue spectra (440-495 nm) are ideal. "Daylite 65" (6500 K color temperature) or "Vita-Lite" (5500 K) fluorescent tubes provide proper blue light for promoting primordia formation.
+Many [[fungi-cultivated-mushrooms-pathogens-competitors]] require light for pinhead initiation and proper development. Phototropic mushrooms twist toward light sources. Fluorescent fixtures with broad blue spectra (440-495 nm) are ideal. "Daylite 65" (6500 K color temperature) or "Vita-Lite" (5500 K) fluorescent tubes provide proper blue light for promoting [[growing-gourmet-primordia-formation-pinning]].
 
 Lights should be mounted at least 18 inches above the cropping surface, evenly distributed. Ballasts should be placed outside the room to eliminate heat and drying.
 
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

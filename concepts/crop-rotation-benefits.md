@@ -13,13 +13,13 @@ Crop rotation is the practice of growing different types of vegetables in differ
 
 ## The Three-Year Rotation System
 
-The classic rotation divides the vegetable garden into plots and moves three main crop groups around them over a three-year cycle. This ensures that at least two years elapse before any crop family returns to its original site.
+The classic rotation divides the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] into plots and moves three main crop groups around them over a three-year cycle. This ensures that at least two years elapse before any crop family returns to its original site.
 
 ### Crop Groups
 
 1. **Legumes**: Peas, beans (broad beans, runner beans, French beans)
 2. **Brassicas**: Cabbage, broccoli, cauliflower, Brussels sprouts, kale, radish, turnip
-3. **Root vegetables and others**: Carrots, parsnips, onions, leeks, celery, potatoes
+3. **[[growing-root-vegetables-guide]] and others**: Carrots, parsnips, onions, leeks, celery, potatoes
 
 ### The Four-Plot System
 
@@ -37,7 +37,7 @@ Each year, the crop groups move to the next plot. Potatoes, as a "cleaning crop,
 - The soil for brassicas should be firm
 - If using a crop rotation benefits, grow all brassicas in Plot C
 - Since brassicas generally follow legumes in the rotation, rows should thrive without added fertilizer (the nitrogen from the root nodules of peas and beans is available)
-- Never grow brassicas in the same plot in consecutive years — strict crop rotation helps deter the build-up of [[clubroot-disease-management]]
+- Never [[query-how-do-i-grow-brassicas-successfully]] in the same plot in consecutive years — strict crop rotation helps deter the build-up of [[clubroot-disease-management]]
 
 ## Kale (Brassica oleracea acephala)
 
@@ -51,13 +51,13 @@ Kale, also known as "Borecole" (from Dutch "Boerenkool," meaning "peasants' cabb
 
 **Harvesting:** Pull a few leaves from the center of each plant while they are still young and tender. Do not completely strip the plants.
 
-**Pests and Diseases:** Cabbage butterflies, cabbage moth, cabbage root fly, and clubroot. After harvesting young leaves, pull up the rest of the plant to deter the build-up of clubroot.
+**[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]:** Cabbage butterflies, cabbage moth, cabbage root fly, and clubroot. After harvesting young leaves, pull up the rest of the plant to deter the build-up of clubroot.
 
 ## Brussels Sprouts (Brassica oleracea gemmifera)
 
 Brussels sprouts are an invaluable winter vegetable, improved greatly by a touch of frost. Fast-maturing vegetables like lettuce and radishes can be interplanted between rows in early stages.
 
-**Varieties:** Grow two seasonal crops for a long harvest. Romulus is an early variety ready in early fall through midwinter. Trafalgar takes over and goes into early spring. F1 hybrid varieties are far superior for standing without deteriorating.
+**Varieties:** Grow two seasonal crops for a long harvest. Romulus is an early variety ready in early fall through midwinter. Trafalgar takes over and goes into early spring. F1 [[cervantes-hybrid-varieties-types]] are far superior for standing without deteriorating.
 
 **Sowing and Planting:** Brussels sprouts need a longer growing period than most brassicas, so start in the seedbed in early or mid-spring. Sow seeds thinly in shallow rows 6in (15cm) apart, using netting to protect seedlings against birds. Plant out when seedlings are no more than 2-3in (5-8cm) tall. Space 3ft (1m) square for fresh eating, or 20in (50cm) square for smaller sprouts for freezing. Use a dibber and press in well. Water after planting, then leave for at least a week before watering again.
 
@@ -73,7 +73,7 @@ It is possible to harvest cabbages throughout the entire year if the right sprin
 
 These easy-to-grow brassicas produce spears like individual florets of cauliflower. Calabrese is simply broccoli that matures in summer.
 
-**Varieties:** For summer harvest: Hydra (abundant sideshoots after main head cut), Romanesco (creamy yellow heads, superb flavor in late summer/fall). For winter harvest: Early Purple Sprouting and White Sprouting provide spears from midwinter to late spring.
+**Varieties:** For summer harvest: Hydra (abundant sideshoots after main head cut), Romanesco (creamy yellow heads, superb flavor in late summer/fall). For [[coleman-claytonia-winter-harvest-cultivation]]: Early Purple Sprouting and White Sprouting provide spears from midwinter to late spring.
 ## Practical Considerations
 
 Successful implementation of Crop Rotation Benefits requires attention to
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

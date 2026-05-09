@@ -1,5 +1,5 @@
 ---
-title: Smoking Cannabis Oil by Direct Vaporization
+title: Smoking cervantes-hash-cannabis-oil-production by Direct Vaporization
 created: 2026-04-28
 tags: [cannabis, vaporization, smoking, oil, consumption]
 date: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 
 # Smoking Cannabis Oil by Direct Vaporization
 
-Chapter 7 of *Cannabis Alchemy* by [[lemon-cannabis-alchemy-thc-extraction-purification]]
+Chapter 7 of *[[lemon-cannabis-alchemy-advanced-refinement-techniques]]* by [[lemon-cannabis-alchemy-thc-extraction-purification]]
 - [[lemon-cannabis-alchemy-reefers-preparation]]
 - [[lemon-cannabis-alchemy-hashing-and-extraction]]
 ## Background and Context
@@ -143,3 +143,6 @@ conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
 
+## See Also
+
+- [[lemon-haze-cannabis]]

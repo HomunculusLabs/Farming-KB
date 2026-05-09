@@ -1,5 +1,5 @@
 ---
-title: Kykeon Composition and Ergot Alkaloid Hypothesis
+title: Kykeon Composition and kykeon composition and ergot alkaloid hypothesis Hypothesis
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Kykeon Composition and Ergot Alkaloid Hypothesis
 
-The kykeon was the sacred potion consumed during the culminating rites of the [Eleusinian Mysteries. Its preparation is described in the Homeric Hymn to Demeter: Demeter declined wine and instead requested a drink of meal (barley groats) mixed with water and soft mint (plektron). This simple recipe has been the subject of intense scholarly debate since Wasson, Hofmann, and Ruck proposed that it contained psychoactive ergot alkaloids.
+The kykeon was the sacred potion consumed during the culminating rites of the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]. Its preparation is described in the Homeric Hymn to Demeter: Demeter declined wine and instead requested a drink of meal (barley groats) mixed with water and soft mint (plektron). This simple recipe has been the subject of intense scholarly debate since Wasson, Hofmann, and Ruck proposed that it contained psychoactive ergot alkaloids.
 
 ## The Textual Description
 
@@ -21,7 +21,7 @@ The scholiast on Lucian confirms that kykeon was barley meal mixed with water, w
 
 ## Ergot: Biology and Chemistry
 
-Ergot is the English name for the sclerotium of *Claviceps purpurea*, a parasitic fungus on rye, barley, wheat, and other cereals and wild grasses. It appears as dark purple-brown protrusions from the ears of grain. Other species of the genus *Claviceps* (C. paspali, C. nigricans, C. glabra) parasitise many species and varieties of wild grasses.
+Ergot is the English name for the sclerotium of *[[bloomfield-ergot-claviceps-purpurea-ergotism]]*, a parasitic fungus on rye, barley, wheat, and other cereals and wild grasses. It appears as dark purple-brown protrusions from the ears of grain. Other species of the genus *Claviceps* (C. paspali, C. nigricans, C. glabra) parasitise many species and varieties of wild grasses.
 
 Ergot is not of uniform chemical composition. It occurs in "biological" or "chemical" races, differing mainly in their alkaloidal constituents. In Switzerland alone, three varieties exist: one containing mainly ergotamine, one with ergototoxine-group alkaloids, and one with no alkaloids at all. Furthermore, ergot growing on different hosts (wheat, barley, millet, various wild grasses) shows wide variations in alkaloidal makeup.
 
@@ -53,7 +53,7 @@ Hofmann concluded that ergonovine does possess hallucinogenic activity, though a
 
 ## The Paspalum Connection
 
-A further finding of great significance: the main constituents of Mexican morning glory seeds (lysergic acid amide and lysergic acid hydroxyethylamide) are also the main alkaloids in ergot growing on the wild grass *Paspalum distichum*, which grows commonly all around the Mediterranean basin and is often infected with *Claviceps paspali*. This was discovered by F. Arcamone et al. in 1960. The Greek hierophants could therefore have obtained hallucinogenic ergot from wild grasses as well as from cultivated cereals.
+A further finding of great significance: the main constituents of [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] glory seeds (lysergic acid amide and lysergic acid hydroxyethylamide) are also the main alkaloids in ergot growing on the wild grass *Paspalum distichum*, which grows commonly all around the Mediterranean basin and is often infected with *Claviceps paspali*. This was discovered by F. Arcamone et al. in 1960. The Greek hierophants could therefore have obtained hallucinogenic ergot from wild grasses as well as from cultivated cereals.
 
 ## Technical Challenges and Possible Solutions
 
@@ -68,10 +68,10 @@ Raw ergot contains toxic ergopeptine alkaloids that cause ergotism (St. Anthony'
 - **Mint as an antidote**: The addition of pennyroyal mint (*Mentha pulegium*) may not have been merely for flavor. Pennyroyal has emetic and antispasmodic properties that could counteract gastrointestinal distress, similar to how ololiuhqui seeds in Mexico were traditionally served with a plant companion (coapatzle).
 
 ### The Blechon and Weed
-The kykeon preparation used two plants -- fragrant blechon (mint) and barley from which the rust-infested weed had been removed. Both blechon and the weed were associated with primitivism and the ways of life before the institutions of society. The barley's potential as food depended upon keeping at bay the reddening corruption that would draw it back to its worthless avatar. This careful selection process parallels the meticulous preparation of sacred mushrooms in Mesoamerican rites, where the [preparation of entheogenic ceremonies demanded equally precise botanical knowledge and ritual attention.
+The kykeon preparation used two plants -- fragrant blechon (mint) and barley from which the rust-infested weed had been removed. Both blechon and the weed were associated with primitivism and the ways of life before the institutions of society. The barley's potential as food depended upon keeping at bay the reddening corruption that would draw it back to its worthless avatar. This careful selection process parallels the meticulous preparation of sacred mushrooms in Mesoamerican rites, where the [preparation of [[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]] demanded equally precise botanical knowledge and ritual attention.
 
 ### Dosage Control
-The experience at Eleusis was carefully managed, with the hierophant controlling when the kykeon was prepared and distributed. The priestly families maintained strict quality control over grain grown in the Rarian plain, analogous to how indigenous Mexican curanderos maintain precise knowledge of dosage, side effects, and plant preparation for sacred mushrooms.
+The experience at Eleusis was carefully managed, with the hierophant controlling when the kykeon was prepared and distributed. The priestly families maintained strict quality control over grain grown in the Rarian plain, analogous to how [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] curanderos maintain precise knowledge of dosage, side effects, and plant preparation for sacred mushrooms.
 
 ## Comparative Evidence
 

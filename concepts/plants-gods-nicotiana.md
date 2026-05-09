@@ -33,18 +33,18 @@ most important species are:
 - **[[tagetes-lucida]] (Yauhtli), frequently drinking a fermented
 maize beer along with the smoking "to produce clearer visions." The
 smoking of Tobacco flowers, either alone or with tobacco, is documented
-in several South American traditions.
+in several [[chiric-caspi-brunfelsia-south-american-hallucinogen]] traditions.
 
 Throughout Amazonia, Tobacco smoke is blown over patients in healing
 ceremonies, used in benediction rituals, and employed as a purifying
-agent. Shamans smoke enormous quantities during ayahuasca ceremonies,
+agent. Shamans smoke enormous quantities during [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]],
 using Tobacco to heighten their visionary capacity and protect against
 malevolent spirits. In many indigenous South American traditions,
 Tobacco serves as an additive to other psychoactive preparations,
 enhancing their effects.
 
 Tobacco use extends beyond the Americas. In India, Tobacco was adopted
-into religious practices. In Southeast Asia, Tobacco and Datura were
+into religious practices. In [[psilocybe-southeast-asia-pacific]], Tobacco and Datura were
 combined and smoked. Indigenous peoples in many parts of the world
 integrated Tobacco into their ceremonial life after its introduction
 through colonial trade.
@@ -59,7 +59,7 @@ The primary psychoactive constituent of Tobacco is:
   producing both stimulant and sedative effects depending on dose and
   route of administration.
 
-Additional bioactive compounds include:
+Additional [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include:
 
 - **Nornicotine**: A nicotine metabolite with similar pharmacological
   activity.
@@ -84,14 +84,14 @@ body, producing a complex pharmacological profile:
   visionary states, nausea, purgation, trance, and encounters with
   spirit beings
 
-The rapid onset and short duration of nicotine's effects when smoked
+The rapid onset and [[savory-short-duration-grazing-and-cell-systems]] of nicotine's effects when smoked
 make it suitable for repeated dosing during extended ceremonies. The
 combination of nicotine with MAO-inhibiting beta-carbolines naturally
 present in Tobacco may enhance and prolong its psychoactive effects.
 
 ## Cultural and Historical Significance
 
-Tobacco's cultural significance in the Americas predates European
+Tobacco's [[ethnomycology-cultural-significance-sacred-fungi]] in the Americas predates European
 contact by millennia. Archaeological evidence suggests Tobacco use
 among indigenous South Americans dating back thousands of years.
 The plant was considered sacred by numerous indigenous groups, who

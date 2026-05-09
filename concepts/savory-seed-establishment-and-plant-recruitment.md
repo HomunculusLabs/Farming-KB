@@ -1,5 +1,5 @@
 ---
-title: "Seed Establishment and Plant Recruitment"
+title: "savory seed establishment and plant recruitment and Plant Recruitment"
 created: 2026-04-28
 tags: [holistic-management, seed-establishment, plant-recruitment,
   succession, soil-disturbance, brittle-environments, seed-germination]
@@ -13,14 +13,14 @@ type: concept
 
 The establishment of new plants from seed is one of the most critical
 yet overlooked processes in rangeland management. Savory's observations
-reveal that seed production is rarely the limiting factor -- the
-conditions for germination and establishment are the weak link. This
+reveal that [[cervantes-seed-production-storage]] is rarely the limiting factor -- the
+conditions for germination and establishment are the [[savory-weak-link-analysis]]. This
 understanding is essential to advancing plant succession and  community dynamics and reversing [[savory-woody-plant-encroachment-and-succession]]
 - [[savory-soil-surface-and-capping]] - Surface conditions preventing
   establishment
-- animal impact and herd effect - Creating disturbance for
+- [[savory-animal-impact-and-herd-effect]] and herd effect - Creating disturbance for
   establishment
-- partial rest and algal crusts - How rest prevents recruitment
+- [[savory-partial-rest-and-algal-crusts]] and algal crusts - How rest prevents recruitment
 
 ## See Also
 
@@ -102,4 +102,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

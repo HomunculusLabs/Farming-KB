@@ -1,14 +1,14 @@
 ---
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 source_author: Gastón Guzmán, J.W. Allen, J. Gartz
-title: Transcontinental Species Pairs and Southern Hemisphere Origins
+title: Transcontinental Species Pairs and guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi Origins
 topic: mycology
 created: 2026-05-08
 ---
 
 # Transcontinental Species Pairs and Southern Hemisphere Origins
 
-One of the most intriguing biogeographic patterns in neurotropic fungi is the
+One of the most intriguing biogeographic patterns in [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] is the
 existence of closely related species pairs separated by vast oceanic distances.
 Species from Mexico and Central America have near-identical counterparts in
 Southeast Asia and the South Pacific, suggesting ancient Gondwanan
@@ -17,7 +17,7 @@ distributions or long-distance dispersal events that predate human migration.
 ## The Section Mexicanae Connection
 
 The clearest example involves species in Section Mexicanae:
-*Psilocybe mexicana* (Mexico/Guatemala), *P. samuiensis* (Thailand), and
+*[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]* (Mexico/Guatemala), *P. samuiensis* (Thailand), and
 *P. makarorae* (New Zealand) are closely related despite being separated by
 the Pacific Ocean. The
 relationship suggests either an ancient distribution on a now-fragmented
@@ -33,7 +33,7 @@ across the width of the Pacific.
 
 Egon Horak (1983) documented similar trans-Pacific relationships in other
 agaric genera including Cystoagaricus, Galerina, Mycena, and Paxillus. He
-found that South American and Mesoamerican species of these fungi are closely
+found that [[chiric-caspi-brunfelsia-south-american-hallucinogen]] and Mesoamerican species of these fungi are closely
 related to species from Southeastern Asia (New Guinea, Indonesia, Australia).
 
 This broader pattern suggests that the trans-Pacific connections in Psilocybe
@@ -74,7 +74,7 @@ species pairs, suggests an ancient Australasian-South American connection.
 
 New Guinea is particularly significant because it hosts indigenous cultures
 with documented ceremonial mushroom use, paralleling the Mesoamerican
-tradition. The independent development of mushroom ceremonies on opposite
+tradition. The independent development of [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]] on opposite
 sides of the Pacific, combined with the biological relationships between the
 fungi themselves, suggests a deep historical connection.
 
@@ -93,7 +93,7 @@ South America than currently documented.
 
 ## The Cattle Introduction Factor
 
-The distribution of dung-dependent species like *Psilocybe cubensis* adds a
+The distribution of dung-dependent species like *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* adds a
 human-mediated layer to these biogeographic patterns. Cattle introduced by
 Spanish colonizers in the 16th-17th centuries created new substrate
 availability across the Americas. *P. cubensis*, which does not grow in

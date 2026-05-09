@@ -37,7 +37,7 @@ cultural systems.
 The source critiques the modern mindset of "Homo economicus" that
 cannot understand the invaluable aspect of seed diversity, citing
 Oscar Wilde: "The cynical age that we live in knows the price of
-everything but the value of nothing."
+everything but the [[fukuoka-mu-economics-and-value-of-nothing-essay]]."
 
 ## Benefits of Native Seed Varieties
 
@@ -47,14 +47,14 @@ varieties that have been acclimatized to local ecological conditions:
 **Superior Adaptability**: Native seed varieties have far more
 superior adaptability to adverse climatic conditions and better
 immunity. They can survive with less or no external input in the
-form of chemical fertilizers, pesticides, hormones, and antibiotics.
+form of [[cervantes-chemical-fertilizers-guide]], pesticides, hormones, and antibiotics.
 
 **Better Keeping Quality**: Traditional seed varieties have better
 keeping quality and pest resistance capacity. They take a longer time
 for maturation, which from the nutrition point of view is very
 substantial and provides real functional benefit.
 
-**Nutritional Superiority**: Modern nutrition science recognizes that
+**Nutritional Superiority**: Modern [[duggar-mushroom-nutrition-science-fermentation-biological-requirement]] recognizes that
 the starch providing majority of energy should be of a certain
 composition to keep people healthy. The source references amylopectin
 in the starch of short-term crops and seed varieties, suggesting
@@ -69,7 +69,7 @@ materials and minimizing dependence on purchased inputs.
 ## Seed Diversity and Microbial Life
 
 The source draws an important connection between seed diversity and
-the microbial world. Dr. Cho's natural farming system connects seeds
+the microbial world. Dr. Cho's [[comparison-natural-farming-vs-permaculture]] system connects seeds
 to the microbial world of nature. The human body, as an analogy,
 consists of 100 trillion cells, of which 90 trillion belong to
 microbes. Similarly, Earth's biodiversity of species, whether seed or
@@ -93,7 +93,7 @@ natural powers.
 Commercial seeds are described as being soaked in chemicals and
 unable to grow without human protection. The conventional practice of
 soaking seeds for long periods before broadcast causes nutrient loss.
-KNF uses a brief seed/seedling solution treatment period to restore
+KNF uses a brief seed/[[cho-seed-seedling-solution-treatment]] treatment period to restore
 the seed's natural vitality without the drawbacks of prolonged
 soaking.
 
@@ -116,8 +116,10 @@ farming practice.
 ## Key Principles
 
 - Native seed varieties have superior adaptability, pest resistance,
-  and nutritional quality compared to commercial seeds.
+  and [[coleman-winter-greens-nutritional-quality-cold-sweetening]] compared to commercial seeds.
 ## See Also
+
+- [[knf-imo-diversity-and-best-practices]]
 
 - [[seed-saving-techniques]]
 

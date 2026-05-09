@@ -13,7 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). lichens of North America. Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
   - Ingólfsdóttir, K. (2002). "Usnic Acid." Phytochemistry, 61(7), 729–736.
   - Freysdottir, J. et al. (2008). "Immunomodulatory Effects of Lichen-Derived Polysaccharides." Phytotherapy Research, 22(9), 1175–1180.
   - Odinokova, L.N. et al. (2012). "Biologically Active Substances from the Lichen Cetraria islandica." Chemistry of Natural Compounds, 48(3), 465–467.
@@ -63,7 +63,7 @@ occasional darker reticulations.
 Apothecia () are rare but when present, brown and lecanorine,
 borne on lobe tips.
 
-**Distinctive features:** The flattened, corrugated thallus with a paler
+**[[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]]:** The flattened, corrugated thallus with a paler
 lower surface and characteristic rolled margins separate C. islandica from
 similar Cetraria species such as C. nivalis and C. aculeata.
 
@@ -110,7 +110,7 @@ derivative with demonstrated antiproliferative activity against cancer
 cell lines.
 
 **Fumarprotocetraric acid** and **protocetraric acid** contribute
-bitterness and antimicrobial properties.
+bitterness and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
 
 **Usnic acid** is present in smaller quantities, providing antibacterial
 and antifungal activity, particularly against Gram-positive bacteria.
@@ -131,7 +131,7 @@ lichenin stimulates macrophage activity and enhances natural killer cell
 cytotoxicity in vitro.
 
 Protolichesterinic acid has shown antiproliferative effects against
-breast and colon cancer cell lines, with IC50 values in the low
+breast and [[cannabis-and-colon-cancer-research]] cell lines, with IC50 values in the low
 micromolar range.
 
 The polysaccharides demonstrate gastroprotective effects in animal
@@ -139,13 +139,11 @@ models, supporting traditional use for gastric ulcers and dyspepsia.
 
 Anti-inflammatory activity has been demonstrated through inhibition of
 NF-κB signaling and reduction of pro-inflammatory cytokines (TNF-α,
-IL-6) in stimulated macrophages.
-
-Topical applications exploit the antimicrobial lichen acids for wound
-healing and minor skin infections.
 ## See Also
+
+- [[cetraria-pinastri]]
+
+- [[cetraria-aculeata]]
 - [[teaming-with-microbes-specific-bacteria-fungi]]
 
 ## See Also
-
-- [[biodiversity-lichenized-fungi-symbiosis]]

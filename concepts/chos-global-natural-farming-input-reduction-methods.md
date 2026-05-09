@@ -1,5 +1,5 @@
 ---
-title: Cho's Global Natural Farming - Input Reduction Methods
+title: Cho's Global comparison-natural-farming-vs-permaculture - Input Reduction Methods
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,11 +10,11 @@ tags: [natural-farming]
 
 # Cho's Global Natural Farming - Input Reduction Methods
 
-Dr. Cho Han Kyu's Global Natural Farming (CGNF) system was founded in the 1960s in South Korea as a direct response to the rising costs and environmental damage of chemical-intensive agriculture. At its core, CGNF replaces expensive commercial fertilizers and pesticides with locally sourced, microbially produced inputs that can be made on-farm at minimal cost. The philosophy is that farmers should not feed the plant directly, but rather nurture the soil so that the soil nurtures the plant through indigenous microorganisms (IMOs).
+Dr. Cho Han Kyu's Global Natural Farming (CGNF) system was founded in the 1960s in South Korea as a direct response to the rising costs and environmental damage of chemical-intensive agriculture. At its core, CGNF replaces expensive commercial fertilizers and pesticides with locally sourced, microbially produced inputs that can be made on-farm at minimal cost. The philosophy is that farmers should not feed the plant directly, but rather nurture the soil so that the soil nurtures the plant through [[beneficial-indigenous-microorganisms-bim]] (IMOs).
 
 ## The Problem with Chemical Inputs
 
-Modern chemical agriculture requires farmers to purchase expensive synthetic fertilizers, pesticides, hormones, and antibiotics. These inputs are often unaffordable, especially for small-scale farmers in developing countries. Dr. Cho recognized that this dependency on purchased inputs traps farmers in cycles of debt while degrading soil health over time. Chemical fertilizers, while capable of boosting short-term yields, gradually destroy the soil's native microbial populations and organic matter, requiring ever-increasing applications to maintain productivity.
+Modern chemical agriculture requires farmers to purchase expensive synthetic fertilizers, pesticides, hormones, and antibiotics. These inputs are often unaffordable, especially for small-scale farmers in developing countries. Dr. Cho recognized that this dependency on purchased inputs traps farmers in cycles of debt while degrading soil health over time. [[cervantes-chemical-fertilizers-guide]], while capable of boosting short-term yields, gradually destroy the soil's native microbial populations and organic matter, requiring ever-increasing applications to maintain productivity.
 
 ## The NF Input Philosophy
 
@@ -22,12 +22,12 @@ Natural Farming uses natural materials instead of chemicals to create its unique
 
 - **Cost reduction**: All inputs are produced from locally available materials -- rice, brown sugar, fish waste, eggshells, plant matter, seawater, and common herbs
 - **Self-reliance**: Farmers become producers of their own agricultural inputs rather than consumers of commercial products
-- **Soil health**: IMOs decompose complex organic compounds into nutrients easily absorbable by plants, while producing antibiotic substances, enzymes, and lactic acids that suppress diseases
+- **Soil health**: IMOs decompose complex [[fungal-volatile-organic-compounds-communication]] into nutrients easily absorbable by plants, while producing antibiotic substances, enzymes, and lactic acids that suppress diseases
 - **Non-toxic**: NF inputs are non-poisonous and safe for users, unlike chemical pesticides and fertilizers that pose health hazards
 
 ## Core Natural Farming Inputs
 
-CGNF employs a suite of fermented biological preparations, each serving a specific function in the nutritive cycle:
+CGNF employs a suite of fermented biological preparations, each serving a specific function in the [[cho-nutritive-cycle-theory]]:
 
 ### Indigenous Microorganisms (IMO)
 
@@ -71,7 +71,7 @@ Used to revitalize crops, livestock, and humans. BRV aids in mineral solubilizat
 
 CGNF is guided by the Nutritive Cycle Theory, which states that plants and livestock have different nutritional requirements at different stages of growth. Rather than applying a uniform fertilizer regimen, NF practitioners apply specific inputs at specific times:
 
-- **Early vegetative stage**: FPJ and FAA promote leaf and stem growth
+- **Early [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]**: FPJ and FAA promote leaf and stem growth
 - **Reproductive stage**: FFJ supplies the phosphorus and potassium needed for flowering and fruiting
 - **Calcium supplementation**: WCA and WCP strengthen cell walls and support structural integrity
 - **Pest control**: Aromatic Insect Attractants (AIA) draw pests away from crops rather than killing them with chemicals

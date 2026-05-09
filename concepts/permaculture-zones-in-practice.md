@@ -17,7 +17,7 @@ tags:
 - no-till
 
 sources:
-- raw/papers/bill-mollison-permaculture-design-course.md
+sources: []
 - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 - raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
@@ -44,7 +44,7 @@ Practical application of permaculture zones 0-5 for a regenerative homestead wit
 - Place the bokashi bin and vermicompost directly in or adjacent to the kitchen — distance kills participation.
 - Route greywater ([[homestead-water-systems]]) from kitchen and laundry to Zone 1 gardens.
 - Passive solar design: south-facing windows for winter heat gain, deciduous trees for summer shade.
-- Keep a clipboard or whiteboard for daily observations — connects to the "Observe and Interact" principle.
+- Keep a clipboard or whiteboard for daily observations — connects to the "[[holmgren-observe-and-interact-detailed]]" principle.
 
 ## Zone 1 — Intensive Garden (Daily Visit)
 
@@ -52,13 +52,13 @@ Practical application of permaculture zones 0-5 for a regenerative homestead wit
 
 ### Elements
 - **Annual vegetable beds**: No-till [[no-till-gardening-method]] beds with [[companion-planting-reference]]. Lettuce, tomatoes, peppers, cucumbers, herbs — things you pick daily.
-- **Kitchen herb spiral**: Culinary herbs (basil, thyme, rosemary, oregano, parsley, cilantro) right outside the door. Spiral design creates microclimates (dry top, moist bottom).
-- **Greenhouse / cold frame**: [[greenhouse-design]] for season extension. Seed starting in spring, winter greens, heat-loving crops in summer.
+- **Kitchen herb spiral**: [[holzer-medicinal-and-culinary-herbs-compendium]] (basil, thyme, rosemary, oregano, parsley, cilantro) right outside the door. Spiral design creates microclimates (dry top, moist bottom).
+- **Greenhouse / cold frame**: [[greenhouse-design]] for [[cervantes-season-extension-cloches-row-covers]]. Seed starting in spring, winter greens, heat-loving crops in summer.
 - **Compost system**: [[composting-systems]] bins between kitchen and garden. Hot compost, [[vermicomposting]], and [[bokashi]] pre-compost all within 20 steps of the back door.
 - **Duck pond**: Small pond for 3-5 ducks ([[duck-keeping]]). Positioned for daily interaction. Overflow irrigates garden beds.
 - **Rain barrels**: 2-4 barrels on downspouts ([[homestead-water-systems]]). Fill watering cans or connect to drip irrigation ([[irrigation-systems]]).
 - **Salad and cut flower beds**: Pick-and-come-again greens, calendula, zinnias.
-- **Seedling nursery**: Flats and trays for succession planting.
+- **Seedling nursery**: Flats and trays for [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]].
 
 ### Design Tips
 - The path from kitchen to garden should be direct and level — you will walk it daily.
@@ -83,7 +83,7 @@ Practical application of permaculture zones 0-5 for a regenerative homestead wit
 ### Design Tips
 - Place duck/goat housing where daily chores are convenient but downwind of the house.
 - Fruit trees on the Zone 2/3 boundary — they need less attention than vegetables but more than timber.
-- Plant comfrey, clover, and dill under fruit trees for nutrient cycling and pest control ([[food-forest-layers-and-species]]).
+- Plant comfrey, clover, and dill under fruit trees for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and pest control ([[food-forest-layers-and-species]]).
 - Run ducks through orchard in late summer/fall for codling moth larvae cleanup.
 - Protect young trees from goats with welded wire cages (4-5 ft tall).
 
@@ -93,7 +93,7 @@ Practical application of permaculture zones 0-5 for a regenerative homestead wit
 
 ### Elements
 - **Standard fruit and nut trees**: Full-size apple, pear, chestnut, pecan, persimmon ([[food-forest-design]] canopy layer).
-- **Pasture for goats**: [[pasture-management]] — rotational grazing paddocks with [[cover-cropping-guide]] rest periods.
+- **Pasture for goats**: [[pasture-management]] — [[comparison-rotational-grazing-vs-continuous-grazing]] paddocks with [[cover-cropping-guide]] rest periods.
 - **Main crop fields**: [[grain-and-staple-crops]] — corn, beans, squash, potatoes, grains. Also larger vegetable plantings.
 - **Cover cropping areas**: [[cover-cropping-guide]] — clover, vetch, rye, buckwheat for soil building between crops.
 - **Mushroom log cultivation**: [[mushroom-log-cultivation]] — inoculated logs stacked in shade.
@@ -136,24 +136,6 @@ Practical application of permaculture zones 0-5 for a regenerative homestead wit
 - **Reference ecosystem**: Observe how natural systems work without intervention — informs all other zone management.
 - [[natural-farming-fukuoka]] observation — study what nature does when left alone.
 - **Seed bank of native plants**: Let natives go to seed. Source of local adaptation genetics.
-
-### Design Tips
-- Even on a small 1-5 acre homestead, dedicate at least 10-20% of land to Zone 5.
-- Place on the least productive or hardest-to-access part of the property.
-- Use as the "control" — compare your managed zones against this baseline.
-- A Zone 5 area reduces pest pressure by hosting predator insects and birds that spill into Zone 2-3.
-- Connect Zone 5 to Zone 4 with hedgerow corridors for wildlife movement.
-
-## Zone Summary for This Homestead
-
-| Zone | Key Systems | Visit Frequency | Priority |
-|------|-------------|-----------------|----------|
-| 0 | Cannabis grow, kitchen, KNF lab, vermicompost | Constant | Start here |
-| 1 | Vegetables, herbs, greenhouse, compost, ducks | Daily | Build in year 1 |
-| 2 | Fruit trees, berries, goats, bees, food forest edges | Daily-weekly | Build in year 1-2 |
-| 3 | Pasture, main crops, cover crops, full food forest | Weekly-monthly | Build in year 2-3 |
-| 4 | Woodlot, pond, foraging, mushroom logs | Monthly | Establish year 2-3 |
-| 5 | Wildlife corridor, IMO collection, observation | Rarely | Protect from day 1 |
 
 ## Related Pages
 - [[permaculture-principles]] — Ethics and 12 design principles

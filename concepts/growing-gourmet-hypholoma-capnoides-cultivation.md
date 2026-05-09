@@ -1,5 +1,5 @@
 ---
-title: "Hypholoma capnoides: Brown Gilled Clustered Woodlover Cultivation"
+title: "growing gourmet hypholoma capnoides cultivation: Brown Gilled Clustered Woodlover Cultivation"
 created: 2026-04-26
 tags:
   - mushroom-cultivation
@@ -17,14 +17,14 @@ type: concept
 # Hypholoma capnoides: Brown Gilled Clustered Woodlover
 
 Hypholoma capnoides is an aggressive conifer stump decomposer and
-one of the few gourmet mushrooms well-suited to cultivation on
+one of the few [[growing-gourmet-mushrooms-civilization-history]] well-suited to cultivation on
 conifer wood. Its role in [[hypholoma-capnoides]] belongs to the genus Hypholoma (Fries) Kummer, which includes several
 interesting species, all of which thrive in cold weather, not
 producing when temperatures exceed 60-65 F (15-18 C). Aggressive
 wood decomposers, they share similar cultural requirements and
 produce a type of mycelium quite distinct from other saprophytic
-mushroom species. See [[stamets-fruiting-strategies-and-primordia-formation]]
-for primordia formation strategies and [[growing-gourmet-king-stropharia-cultivation]] for a related Strophariaceae species.
+mushroom species. See stamets-fruiting-strategies-and-primordia-formation
+for [[growing-gourmet-primordia-formation-pinning]] strategies and [[growing-gourmet-king-stropharia-cultivation]] for a related Strophariaceae species.
 
 ## Description
 
@@ -42,7 +42,7 @@ brown with spores on the upper regions. Usually growing in
 clusters.
 
 ## Distribution and Habitat
-[[mushroom-identification]]. [[stamets-psi-galerina-deadly-look-alikes-safety]]
+mushroom-identification. [[stamets-psi-galerina-deadly-look-alikes-safety]]
 for identification of dangerous lookalikes. Cultivators should be forewarned
 that several mushroom species can inhabit a single stump or log.
 This danger is entirely avoided by growing H. capnoides indoors
@@ -56,7 +56,7 @@ on sterilized sawdust/chips, or by honing identification skills.
 - Duration: 20-28 days (+20 day resting period)
 - CO2: >10,000 ppm
 - Fresh Air Exchanges: 0-1 per hour
-- Light Requirements: n/a
+- [[growing-gourmet-light-requirements-mushroom-fruiting]]: n/a
 
 ### Primordia Formation
 - Initiation Temperature: 45-55 F (7-13 C)
@@ -79,19 +79,19 @@ on sterilized sawdust/chips, or by honing identification skills.
 
 ## Mycelial Characteristics
 
-Produces a white, silky, rhizomorphic mycelium, usually
+Produces a white, silky, [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]], usually
 exquisitely formed, and growing out in distinct zonations.
 Mycelium becomes overlain with yellow tones in age but not the
 rusty brown colorations typical of Hypholoma sublateritium.
 
 Fragrance signature: A fresh, sweet, forest-like, pleasant
-fragrance, similar to [[stump-inoculation-techniques]] for outdoor inoculation methods.
+fragrance, similar to [[stump-inoculation-techniques]] for outdoor [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]].
 
 ### Spawn Expansion
 Nutrified agar into liquid fermentation for 48 hours. The broth
 should be fortified with 2-5 grams of sawdust per liter. Once
 fermented, the liquid inoculum is transferred into sterilized
 grain which can be expanded two or three more generations. See
-[[spawn-generation-techniques]] for spawn expansion methods. The
+[[shiitake-mushroom-cultivation]] for spawn expansion methods. The
 grain spawn can inoculate sterilized sawdust/chips, but the spawn
 rate should not exceed 10% (moist spawn/moist sawdust).

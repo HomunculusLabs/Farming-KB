@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Terminology Hallucinogenic Entheogenic
+title: Psychedelic psychedelic terminology hallucinogenic entheogenic Entheogenic
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Psychedelic Terminology Hallucinogenic Entheogenic
 
-The language used to describe psychoactive plants and compounds has evolved significantly over the past century. Three terms, hallucinogenic, psychedelic, and entheogenic, are commonly used to describe the same or similar substances, but each carries distinct connotations reflecting different historical contexts, cultural frameworks, and attitudes toward these compounds.
+The language used to describe psychoactive plants and compounds has evolved significantly over the past century. Three terms, hallucinogenic, psychedelic, and entheogenic, are commonly used to describe the same or similar substances, but each carries distinct connotations reflecting different historical contexts, cultural frameworks, and [[weil-cultural-attitudes-toward-altered-states]] these compounds.
 
 [[hallucinogenic-plant-chemistry]]
 
@@ -18,11 +18,11 @@ The language used to describe psychoactive plants and compounds has evolved sign
 
 The term psychedelic was coined in 1956 by British psychiatrist Humphrey Osmond in a letter exchange with Aldous Huxley. The word combines the Greek roots psyche (mind, soul) and delos (manifest, visible), meaning mind-manifesting. Osmond proposed the term to distinguish these substances from psychotomimetic (mimicking psychosis), the prevailing classification at the time.
 
-Timothy Leary and the Harvard research group adopted and popularized the term psychedelic in the early 1960s. The Psychedelic Review was first published in 1963. The concept of psychedelic therapy and consciousness expansion became associated with the term, reflecting the view that these substances could enhance awareness rather than simply model psychosis.
+Timothy Leary and the Harvard research group adopted and popularized the term psychedelic in the early 1960s. The Psychedelic Review was first published in 1963. The concept of [[metzner-psycholytic-psychedelic-therapy-models]] and [[mckenna-consciousness-expansion-and-drug-war]] became associated with the term, reflecting the view that these substances could enhance awareness rather than simply model psychosis.
 
 The term entered widespread popular culture during the 1960s counterculture and has remained the most recognized term among the general public. However, its association with the counterculture and its subsequent political suppression contributed to a stigma that affected research funding and public acceptance for decades.
 
-In contemporary usage, psychedelic refers broadly to the classical hallucinogens (LSD, psilocybin, mescaline, DMT) and sometimes extends to related compounds such as MDMA, ketamine, and Salvia divinorum. The modern psychedelic renaissance in clinical research has rehabilitated the term in academic and medical contexts.
+In contemporary usage, psychedelic refers broadly to the classical hallucinogens (LSD, psilocybin, mescaline, DMT) and sometimes extends to related compounds such as MDMA, ketamine, and Salvia divinorum. The modern psychedelic renaissance in [[hofmann-lsd-clinical-research-early-studies]] has rehabilitated the term in academic and medical contexts.
 
 [[entheogen-culture]]
 
@@ -32,7 +32,7 @@ The term psychotomimetic (mimicking psychosis) was the earliest scientific class
 
 The psychotomimetic model profoundly shaped early research directions, particularly the interest of military and intelligence agencies in LSD as a potential weapon or interrogation tool. The concept of drug-induced psychosis also influenced the later prohibition of these substances.
 
-Critics of the psychotomimetic classification, including Osmond and Huxley, argued that the psychedelic experience was qualitatively different from psychotic states. While both may involve altered perception, the psychedelic experience typically includes enhanced pattern recognition, emotional insight, and mystical or transcendent elements that are absent in genuine psychosis.
+Critics of the psychotomimetic classification, including Osmond and Huxley, argued that the [[leary-psychedelic-experience-bardo-mapping]] was qualitatively different from psychotic states. While both may involve altered perception, the psychedelic experience typically includes enhanced pattern recognition, emotional insight, and mystical or transcendent elements that are absent in genuine psychosis.
 
 The term psychotimetic is now considered outdated and misleading, though it appears in historical research literature.
 
@@ -59,6 +59,7 @@ The dissociative experience is qualitatively different from the classical psyche
 Ketamine has gained significant attention in recent years for its rapid antidepressant effects at sub-anesthetic doses, leading to FDA approval of esketamine (S-ketamine) for treatment-resistant depression. This therapeutic application represents a different paradigm from the psychotherapeutic uses of classical psychedelics.
 
 [[ketamine-compound-profile]]
+
 ## Practical Considerations
 
 Successful implementation of Psychedelic Terminology Hallucinogenic Entheogenic requires attention to
@@ -78,3 +79,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic]]

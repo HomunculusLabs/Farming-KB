@@ -1,5 +1,5 @@
 ---
-title: JADAM Monoculture Critique
+title: comparison-companion-planting-reference-vs-jadam-monoculture-critique Critique
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -33,13 +33,13 @@ In nature, leaves, branches, trees, roots, and fruits -- the whole body of the p
 
 What is happening with human monoculture is the exact opposite. After taking away the fruits, humans eliminate all crop residues. Crop residues contain valuable nutrients that should be released back to the soil so plants can grow again. Rotational cultivation is offered as a panacea but completely misses the point.
 
-JADAM does not perceive crop residues (branches, leaves, and any remaining parts of the plant) as a source of disease; it sees them as a source of nutrients. These must be put back into the soil. Only then will the problem of monoculture disorder begin to be solved. Crop residues become the perfect fertilizer for crops.
+JADAM does not perceive crop residues (branches, leaves, and any remaining parts of the plant) as a source of disease; it sees them as a source of nutrients. These must be put back into the soil. Only then will the problem of [[jadam-monoculture-disorder-crop-residues]] begin to be solved. Crop residues become the perfect fertilizer for crops.
 
 ## The Fertilizer Industry Connection
 
-If you want your farming to be awesome, you must give awesome food for crops. Crop residue is the substance with the best nutritional balance for the crop. If someone starts convincing you that you should not give crop residues to your crops but throw them away, and that you should buy fertilizer to provide the best nutritional balance, who does it benefit?
+If you want your farming to be awesome, you must give awesome food for crops. Crop residue is the substance with the best [[jadam-nutritional-balance-fertilizer]] for the crop. If someone starts convincing you that you should not give crop residues to your crops but throw them away, and that you should buy fertilizer to provide the best nutritional balance, who does it benefit?
 
-Many experts teach that all crop residues should be completely destroyed because they are the source of canker, powdery mildew, and other diseases. However, these organisms are so common that it is impossible to get rid of them by burning crop residues. They are everywhere in the soil. Just one spore can propagate into 1 billion in 10 hours.
+Many experts teach that all crop residues should be completely destroyed because they are the source of canker, [[cervantes-powdery-mildew-prevention-treatment]], and other diseases. However, these organisms are so common that it is impossible to get rid of them by burning crop residues. They are everywhere in the soil. Just one spore can propagate into 1 billion in 10 hours.
 
 ## Disease Prevention Through Diversity
 
@@ -53,7 +53,7 @@ JADAM's position on monoculture has several practical implications:
 - All crop residues should be returned to the soil as fertilizer
 - The nutritional balance of crop residue is ideal for the same crop that produced it
 - Disease prevention should focus on microbial diversity, not elimination of crop residues
-- True natural farming will thrive even with repeated cultivation of a single variety
+- True [[comparison-natural-farming-vs-permaculture]] will thrive even with repeated cultivation of a single variety
 
 This approach is supported by numerous case studies documented on the JADAM website, demonstrating that the monoculture problem was "cured" by returning crop residues to the soil rather than rotating crops.
 
@@ -65,7 +65,7 @@ In a healthy, living soil, even monoculture can coexist with rich microbial and 
 
 ## Real-World Validation
 
-JADAM has documented numerous case studies on its website where farmers cured "monoculture disorder" by simply returning crop residues to the soil instead of removing them. These cases span multiple crop types including peppers, strawberries, and fruit trees. In each case, the supposed problem of repeated cultivation was resolved not by rotating crops but by restoring the natural mineral cycle.
+JADAM has documented numerous case studies on its website where farmers cured "monoculture disorder" by simply returning crop residues to the soil instead of removing them. These cases span multiple crop types including peppers, strawberries, and fruit trees. In each case, the supposed problem of repeated cultivation was resolved not by rotating crops but by restoring the [[jadam-natural-mineral-leaching-and-replenishment]] cycle.
 
 The implications for farm economics are significant: if monoculture is not inherently problematic, farmers can specialize in their most profitable crop without the complexity and risk of rotation schedules. This aligns with JADAM's [[jadam-cover-crop-soil-temperature-management]]
 - [[jadam-natural-farming-philosophy]]

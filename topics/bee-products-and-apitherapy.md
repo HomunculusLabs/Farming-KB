@@ -15,7 +15,7 @@ sources:
 
 ## Introduction
 
-Apitherapy is the medicinal use of honey bee (*Apis mellifera*) products — honey, propolis, royal jelly, bee pollen, beeswax, bee venom, and bee bread. The practice spans millennia, with documented use in ancient Egypt (papyrus Ebers, ~1550 BCE), Greek medicine (Hippocrates prescribed honey for wound care), traditional Chinese medicine, and Ayurveda. Modern research has begun to validate many traditional claims, identifying specific bioactive compounds responsible for therapeutic effects.
+Apitherapy is the medicinal use of honey bee (*Apis mellifera*) products — honey, propolis, royal jelly, bee pollen, beeswax, bee venom, and bee bread. The practice spans millennia, with documented use in ancient Egypt (papyrus Ebers, ~1550 BCE), Greek medicine (Hippocrates prescribed honey for wound care), traditional Chinese medicine, and Ayurveda. Modern research has begun to validate many traditional claims, identifying specific [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] responsible for therapeutic effects.
 
 The global apitherapy market has grown significantly as consumers seek natural alternatives, though quality standardization remains a challenge. This page covers each major [[bee-product-medicinal-uses]]'s composition, evidence-based therapeutic applications, safety considerations, and sourcing guidance.
 
@@ -34,15 +34,15 @@ Honey is a supersaturated solution produced by honey bees from flower nectar (or
 | Minerals | 0.1–1.2% | Potassium, calcium, magnesium, iron, zinc |
 | Vitamins | Trace | B-complex (B6, thiamin, niacin, riboflavin), vitamin C |
 | Enzymes | Various | Diastase, invertase, glucose oxidase, catalase |
-| Polyphenols | 50–500 mg/kg | Flavonoids (quercetin, luteolin) and phenolic acids |
+| Polyphenols | 50–500 mg/kg | Flavonoids ([[quercetin]], [[luteolin]]) and phenolic acids |
 | Amino acids | 0.1–0.5% | Proline is dominant; used as a freshness marker |
 
 ### Types of Honey
 
-- **Raw honey**: Unfiltered, unpasteurized; retains pollen, enzymes, and volatile compounds. Preferred for therapeutic use.
-- **Manuka honey** (*Leptospermum scoparium*): Unique non-peroxide antibacterial activity from methylglyoxal (MGO). Graded by UMF (Unique Manuka Factor) or MGO rating. Supported by clinical trials for wound healing (Medihoney® dressings approved by FDA).
+- **Raw honey**: Unfiltered, unpasteurized; retains pollen, enzymes, and [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]. Preferred for therapeutic use.
+- **Manuka ho leptospermum scoparium coparium*): Unique non-peroxide antibacterial activity from methylglyoxal (MGO). Graded by UMF (Unique Manuka Factor) or MGO rating. Supported by clinical trials for wound healing (Medihoney® dressings approved by FDA).
 - **Buckwheat honey**: Dark amber, high in antioxidants (ORAC values 2–3× lighter honeys). Evidence for cough suppression in children.
-- **Acacia honey**: Light, mild, high fructose; slow to crystallize. Soothing for gastrointestinal discomfort.
+- **[[acacia]] honey**: Light, mild, high fructose; slow to crystallize. Soothing for gastrointestinal discomfort.
 - **Thyme honey** (*Thymus* spp.): High thymol content; strong antimicrobial activity studied in respiratory infections.
 - **Wildflower honey**: Mixed nectar source; polyphenol profile varies by season and region.
 - **Tualang honey** (*Koompassia excelsa*): Malaysian forest honey; studied for anti-diabetic and anti-cancer properties.
@@ -52,11 +52,11 @@ Honey is a supersaturated solution produced by honey bees from flower nectar (or
 
 **Wound healing**: Honey's therapeutic action in wounds is multifactorial — hyperosmolarity draws fluid from tissues, [[hydrogen-peroxide-tissue-culture-wild-polypores]] (produced via glucose oxidase in the presence of water) provides antibacterial activity, low pH (3.2–4.5) inhibits pathogens, and its viscous barrier protects from contamination. Manuka honey's non-peroxide activity (from MGO) provides sustained antibacterial action even in the presence of catalase. Meta-analyses support its use for burns, diabetic foot ulcers, and surgical wounds, with outcomes comparable or superior to conventional dressings.
 
-**Cough suppression**: A well-known pediatric study (Paul et al., 2007, *Archives of Pediatric and Adolescent Medicine*) found buckwheat honey superior to dextromethorphan for nighttime cough in children aged 2–18. The WHO and American Academy of Pediatrics recommend honey as a first-line cough remedy for children over 1 year.
+**Cough suppression**: A well-known pediatric study (Paul et al., 2007, *Archives of Pediatric and Adolescent Medicine*) found buckwheat honey dextromethorphan romethorphan for nighttime cough in children aged 2–18. The WHO and American Academy of Pediatrics recommend honey as a first-line cough remedy for children over 1 year.
 
-**Gastrointestinal health**: Honey has prebiotic effects, promoting growth of *Bifidobacterium* and *Lactobacillus* species. Evidence supports use for *Helicobacter pylori* infection (as adjunct therapy), gastric ulcer healing, and relief of gastroesophageal reflux symptoms. Manuka honey at UMF 15+ has shown the strongest anti-*H. pylori* activity.
+**Gastrointestinal health**: Honey has prebiotic effects, promoting growth of *Bifidobact lactobacillus actobacillus* species. Evidence supports use for *Helicobacter pylori* infection (as adjunct therapy), gastric ulcer healing, and relief of gastroesophageal reflux symptoms. Manuka honey at UMF 15+ has shown the strongest anti-*H. pylori* activity.
 
-**Antimicrobial activity**: Beyond wound care, honey has demonstrated in-vitro activity against *Staphylococcus aureus* (including some MRSA strains), *Pseudomonas aeruginosa*, *Escherichia coli*, *[[candida-albicans]]*, and biofilm-forming bacteria. The dual hydrogen peroxide + non-peroxide systems (in manuka) make resistance development unlikely.
+**Antimicrobial activity**: Beyond wound care, honey has demonstrated in-vitro activity against *Staphylococcus aureus* (including some MRSA [[pseudomonas]]*Pseudomonas aeruginosa*, *Escherichia coli*, *[[candida-albicans]]*, and biofilm-forming bacteria. The dual [[cervantes-hydrogen-peroxide-sterilization]] + non-peroxide systems (in manuka) make resistance development unlikely.
 
 **Antioxidant and anti-inflammatory**: Honey polyphenols (especially in darker varieties) reduce oxidative stress markers and inflammatory cytokines (TNF-α, IL-6) in clinical and animal studies.
 
@@ -71,7 +71,7 @@ Honey is a supersaturated solution produced by honey bees from flower nectar (or
 
 ### What Is Propolis?
 
-Propolis (from Greek *pro* = "before" + *polis* = "city") is a resinous substance collected by honey bees from tree buds, sap flows, and other botanical sources. Bees use it to seal gaps in the hive, reinforce structural integrity, and mummify dead intruders — essentially the hive's immune defense system.
+Propolis (from Greek *pro* = "before" + *polis* = "city") is a resinous substance collected by honey bees from tree buds, sap flows, and other [[dmt-botanical-sources-pharmacology]]. Bees use it to seal gaps in the hive, reinforce structural integrity, and mummify dead intruders — essentially the hive's immune defense system.
 
 ### Chemical Composition
 
@@ -86,13 +86,13 @@ Propolis is chemically complex, with over 300 compounds identified across differ
 | Aromatic acids | Benzoic acid, cinnamic acid | Preservative, antimicrobial |
 | Beeswax | Esters, hydrocarbons | Structural matrix |
 
-The "type" of propolis depends on the local flora: **poplar type** (Europe, North America), **green Brazilian type** (*Baccharis dracunculifolia*), **red Brazilian type** (*Dalbergia ecastaphyllum*), and **Pacific type** (New Zealand, Australia, Taiwan) each have distinct chemoprofiles.
+The "type" of propolis depends on the local flora: **poplar type** (Europe, [[psilocybin-north-america-pacific-northwest]]), **green Brazilian type** (*Baccharis dracunculifolia*), **red Brazilian type** (*Dalbergia ecastaphyllum*), and **Pacific type** (New Zealand, Australia, Taiwan) each have distinct chemoprofiles.
 
 ### Pharmacological Activities
 
 **Antibacterial**: Propolis exhibits broad-spectrum activity against Gram-positive bacteria (including MRSA) with minimum inhibitory concentrations (MICs) often below 400 μg/mL. Activity against Gram-negative bacteria is weaker but enhanced when combined with antibiotics — a synergistic effect documented against *P. aeruginosa* and *E. coli*. Mechanisms include disruption of cell membranes, inhibition of bacterial efflux pumps, and interference with quorum sensing.
 
-**Antifungal**: Effective against *Candida albicans*, *C. tropicalis*, *C. krusei*, and dermatophytes. Inhibits biofilm formation and germ tube development in *Candida* species.
+**Antifungal**: Effective against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*, *C. tropicalis*, *C. krusei*, and dermatophytes. Inhibits biofilm formation and germ tube development in *Candida* species.
 
 **Antiviral**: In-vitro studies show activity against HSV-1, HSV-2, influenza A (H1N1, H3N2), HIV, and SARS-CoV-2. Mechanisms include blocking viral entry, inhibiting viral polymerases, and modulating host immune responses.
 
@@ -147,182 +147,3 @@ A single queen cell contains approximately 200–300 mg of royal jelly, harveste
 **Antioxidant activity**: Moderate free radical scavenging, primarily from flavonoids and MRJPs. Protects against oxidative stress in liver, kidney, and brain tissues in animal models.
 
 **Neuroprotective effects**: Royal jelly stimulates neural stem cell proliferation, improves memory in rodent models (Morris water maze), and shows preliminary evidence for protection against neurodegenerative processes. A small RCT (2016) found improved cognitive function in healthy older adults after 6 months of supplementation.
-
-**Lipid metabolism**: Several clinical trials demonstrate modest reduction in total cholesterol (7–15%) and LDL cholesterol, with some trials showing increased HDL. Proposed mechanisms include inhibition of HMG-CoA reductase and enhanced bile acid excretion.
-
-**Menopausal symptoms**: A randomized trial (2011, *Gynecological Endocrinology*) found significant reduction in menopausal symptoms (hot flashes, mood changes) after 12 weeks of royal jelly supplementation (1,000 mg/day), possibly through weak estrogenic activity.
-
-**Wound healing**: Accelerates wound closure in animal models through enhanced collagen synthesis, fibroblast migration, and angiogenesis.
-
-**Anti-diabetic potential**: Animal studies show hypoglycemic effects, improved insulin sensitivity, and protection of pancreatic β-cells. Human trials are limited but promising.
-
-### Safety Concerns
-
-- **Allergic reactions**: Most common adverse effect, ranging from contact dermatitis to anaphylaxis. Cross-reactivity with bee pollen allergies is possible.
-- **Asthma risk**: Case reports of bronchospasm and asthma exacerbation, particularly in atopic individuals.
-- **Estrogenic effects**: Weak estrogen receptor binding may be contraindicated in estrogen-sensitive conditions (breast cancer history, endometriosis).
-- **Pregnancy/breastfeeding**: Insufficient safety data; avoidance recommended.
-
-## Bee Pollen
-
-### Collection
-
-Bee pollen consists of pollen grains packed by foraging bees into corbicular pellets on their hind legs. Beekeepers harvest it using pollen traps at hive entrances — grids that gently scrape off ~10–15% of incoming pollen, leaving sufficient for colony nutrition.
-
-### Composition
-
-Bee pollen is nutritionally dense, though composition varies enormously by floral source:
-
-- **Protein**: 10–35% (crude protein), including all 22 amino acids
-- **Carbohydrates**: 25–55% (glucose, fructose, sucrose, starch, fiber)
-- **Lipids**: 1–20% (polyunsaturated fatty acids, phytosterols)
-- **Vitamins**: Provitamin A, B-complex, C, D, E
-- **Minerals**: Calcium, iron, magnesium, potassium, zinc, selenium, copper
-- **Phytochemicals**: Flavonoids (quercetin, kaempferol, myricetin), carotenoids, phytosterols
-- **Enzymes**: Amylase, diastase, catalase, phosphatase
-
-### Uses and Evidence
-
-Marketed as a "superfood" for energy, athletic performance, and immune support. Evidence is mixed:
-
-- **Nutritional supplement**: Provides broad micronutrient coverage but is not a replacement for a varied diet. Bioavailability of some nutrients may be limited by the pollen wall (exine).
-- **Allergic rhinitis**: Local bee pollen has been studied as immunotherapy for seasonal allergies, but results are inconsistent and the allergen content is unpredictable.
-- **Antioxidant**: Significant in-vitro antioxidant capacity, but in-vivo studies are limited.
-- **Anti-inflammatory**: Reduces inflammatory markers in animal models of colitis and arthritis.
-
-### Allergen Concerns
-
-Bee pollen can trigger severe allergic reactions in sensitized individuals, including anaphylaxis. People with pollen allergies should exercise extreme caution and consult an allergist before use.
-
-## Beeswax
-
-### Production and Composition
-
-Beeswax is secreted by worker bees (8–17 days old) from four pairs of wax glands on the ventral abdomen. It takes approximately 6–8 kg of honey to produce 1 kg of wax. Composition:
-
-- **Esters**: 67–71% (mainly myricyl palmitate)
-- **Free fatty acids**: 12–15% (cerotic acid, melissic acid)
-- **Hydrocarbons**: 10–15%
-- **Long-chain alcohols**: 1–2%
-
-### Applications
-
-- **Cosmetics**: Base for salves, lip balms, creams, and lotions; provides structure and occlusive barrier.
-- **Pharmaceuticals**: Coating for pills, base for ointments, dental impressions.
-- **Food**: Coating for cheese (rind development), candy (gummy bears, jelly beans), fruit preservation.
-- **Candles**: Clean-burning alternative to paraffin; produces negative ions and subtle honey scent.
-- **Wood and leather**: Polish and waterproofing agent.
-- **Horticulture**: Grafting wax for tree grafting, wax coating for rootstock protection.
-- **Textile arts**: Batik wax-resist dyeing, encaustic painting.
-- **Sewing and leatherwork**: Thread conditioning (beeswax-coated thread resists tangling).
-
-## Bee Venom (Apitoxin)
-
-### Composition
-
-Bee venom is a complex mixture of peptides, enzymes, and biogenic amines delivered via the worker bee's stinger:
-
-| Component | % of Dry Weight | Activity |
-|---|---|---|
-| Melittin | 40–50% | Cytolytic, antimicrobial, anti-inflammatory at low doses |
-| Phospholipase A2 | 10–12% | Major allergen; membrane disruption |
-| Apamin | 2–3% | Neurotoxic; blocks potassium channels |
-| Hyaluronidase | 1–2% | Spreading factor; breaks down connective tissue |
-| Mast cell degranulating peptide | 1–2% | Triggers histamine release |
-| Adolapin | <1% | Anti-inflammatory, analgesic |
-| Dopamine, norepinephrine | Trace | Vasoactive amines |
-
-### Therapeutic Use
-
-**Bee venom therapy (BVT)** involves intentional stinging or injection of standardized venom extract. Historically used in traditional medicine across multiple cultures, it has gained modern interest for:
-
-- **Osteoarthritis and rheumatoid arthritis**: Several clinical trials show reduction in pain, swelling, and stiffness. Proposed mechanisms include melittin-mediated inhibition of NF-κB and COX-2, and modulation of inflammatory cytokine cascades.
-- **Multiple sclerosis**: Anecdotal reports are widespread, but the landmark trial (2005, *Neurology*) found no significant benefit over placebo. Research continues on neuroprotective mechanisms.
-- **Pain management**: Melittin has demonstrated analgesic effects through Substance P depletion at nerve endings and modulation of pain signaling pathways.
-- **Skin conditions**: Investigated for atopic dermatitis, psoriasis, and keloid scar treatment.
-
-### Risks and Contraindications
-
-- **Anaphylaxis**: Life-threatening allergic reaction occurs in 0.5–3% of the general population. Venom-specific IgE testing and skin prick tests are mandatory before BVT.
-- **Absolute contraindications**: Known bee venom allergy, history of anaphylaxis, severe cardiovascular disease, pregnancy, tuberculosis.
-- **Relative contraindications**: Autoimmune conditions (theoretically), kidney or liver disease, bleeding disorders.
-
-## Bee Bread (Perga)
-
-Bee bread is fermented pollen stored in honeycomb cells. Bees mix collected pollen with honey, nectar, and salivary enzymes, then seal it with wax. [[lactic-acid-bacteria]] fermentation by *Lactobacillus* and *Pediococcus* species over 2–3 weeks produces lactic acid, which preserves the pollen and increases bioavailability of nutrients.
-
-Compared to dried bee pollen, bee bread has:
-- Higher bioavailability of proteins and amino acids (fermentation breaks down the pollen exine wall)
-- Increased levels of B vitamins and some enzymes
-- Probiotic lactic acid bacteria
-- Lower allergenicity (some allergenic proteins are partially degraded)
-
-It has a tangy, slightly sour flavor and is consumed as a dietary supplement or mixed into foods.
-
-## Quality and Sourcing
-
-### Raw vs. Processed
-
-- **Honey**: Raw honey retains heat-sensitive enzymes, pollen, and volatile aromatics. Commercial processing (filtration, pasteurization at 65–70°C) extends shelf life and prevents crystallization but destroys diastase, glucose oxidase, and some antioxidants. For therapeutic use, raw honey is strongly preferred.
-- **Propolis**: Extract quality depends on solvent type, extraction time, and raw material freshness. Aged or poorly stored propolis has reduced bioactive content. Standardized extracts (guaranteed flavonoid or CAPE content) are most reliable.
-- **Royal jelly**: Extremely perishable — must be stored frozen or lyophilized within hours of harvest. Fresh royal jelly is preferable to dried. Look for 10-H2DA content as a quality marker (should be >1.4%).
-
-### Adulteration Issues
-
-- **Honey fraud**: Estimated 30%+ of commercially sold honey is adulterated with inverted sugar syrups (C4 plant origin detectable by isotope analysis). Ultrafiltration removes all pollen, masking geographic origin. "Honey blends" from multiple countries may contain minimal actual honey.
-- **Propolis adulteration**: Addition of poplar bud extracts, beeswax, or synthetic flavonoids to inflate weight.
-- **Bee pollen**: Some products are machine-collected plant pollen rather than bee-collected; lack the enzymatic processing and beneficial microbial load.
-
-### Organic Certification
-
-Organic honey certification requires apiary placement in areas free of synthetic pesticides within a 3 km (some standards: 5 km) radius, which is increasingly difficult in agricultural landscapes. Many "organic" labels rely on the absence of applied chemicals rather than environmental purity testing. Small-scale local beekeepers often produce higher-quality products than large certified operations.
-
-## Safety and Contraindications
-
-### Infant Botulism
-
-**Honey must never be given to children under 12 months.** *Clostridium botulinum* spores (ubiquitous in the environment) can germinate in an infant's immature gastrointestinal tract, producing botulinum toxin. After 12 months, gastric acid and mature gut flora prevent spore germination. This applies to all honey, regardless of processing.
-
-### Allergy Cross-Reactivity
-
-- **Bee pollen and royal jelly** can trigger reactions in individuals with pollen allergies, particularly to ragweed, birch, and grasses.
-- **Bee venom allergy** does not necessarily predict allergy to other bee products (honey, pollen, propolis), but cross-sensitivity is possible.
-- **Propolis allergy** is documented, particularly in individuals sensitive to balsam of Peru (cross-reactive constituents).
-
-### Drug Interactions
-
-- **Warfarin/anticoagulants**: Royal jelly may have additive anticoagulant effects.
-- **Antidiabetic medications**: Honey and royal jelly may enhance hypoglycemic effects.
-- **Immunosuppressants**: Bee products' immunostimulatory effects may counteract immunosuppressive therapy.
-- **Sedatives**: Apamin (bee venom) may potentiate CNS depressants.
-
-### Pregnancy and Breastfeeding
-
-Honey is generally safe during pregnancy and breastfeeding. Royal jelly, bee pollen, propolis extracts, and bee venom lack sufficient safety data — avoidance is recommended unless directed by a healthcare provider.
-
-## Environmental Context
-
-### Bee Health and Product Quality
-
-The quality of bee products is directly tied to colony health and foraging environment:
-
-- **Neonicotinoids and systemic pesticides**: Detected in honey, pollen, and wax at sub-lethal concentrations. While residues are typically below human safety thresholds, chronic low-dose exposure effects are still being studied. The primary concern is impact on bee health and product integrity.
-- **Habitat diversity**: Colonies foraging on diverse, pesticide-free landscapes produce honey with higher polyphenol content and more complex flavor profiles. Monoculture landscapes yield单一-source honeys that may lack the breadth of bioactive compounds found in wildflower varieties.
-- **Climate change**: Altered flowering phenology disrupts nectar flows, affecting honey production volumes and seasonal availability. Warmer temperatures may shift the geographic range of valuable honey-producing floral species.
-
-### Supporting Beekeepers Through Apitherapy Demand
-
-Purchasing bee products directly supports beekeeping operations, which in turn supports pollination services essential for ~35% of global food production. Choosing products from local, treatment-free or low-intervention beekeepers ensures higher quality and supports sustainable apiculture. However, consumers should be aware that not all apitherapy marketing claims are evidence-supported — demand transparency about sourcing, testing, and composition.
-
-## References
-
-1. Al Naggar, Y., et al. (2022). "Antibacterial activity of honey: A comprehensive review of its main components." *Frontiers in Microbiology*, 13, 840708.
-2. Eteraf-Oskouei, T., & Najafi, M. (2013). "Traditional and modern uses of natural honey in human diseases." *Iranian Journal of Basic Medical Sciences*, 16(8), 731–742.
-3. Hank, C. A., & Tollefsbol, T. O. (2022). "Anti-cancer effects of honey and its major components." *Frontiers in Nutrition*, 9, 834049.
-4. Kurek-Górecka, A., et al. (2013). "Antioxidant activity evaluation of ethnobotanical Polish honeys." *Food Chemistry*, 136(3–4), 1357–1363.
-5. Miguel, M. G., et al. (2010). "Propolis: Recent advances in chemistry and plant origin." In *Honey Analysis* (pp. 155–195). Springer.
-6. Paul, I. M., et al. (2007). "Effect of honey, dextromethorphan, and no treatment on nocturnal cough and sleep quality for coughing children and their parents." *Archives of Pediatrics & Adolescent Medicine*, 161(12), 1140–1146.
-7. Ramadan, M. F., & Al-Ghamdi, A. (2012). "Bioactive compounds and health-promoting properties of royal jelly: A review." *Journal of [[functional-foods-medicinal-mushrooms]]*, 4(1), 39–52.
-8. Samarghandian, S., et al. (2017). "The protective effect of royal jelly against cardiovascular risk factors." *Pharmacologyonline*, 3, 1–14.
-9. Silva-Carvalho, R., et al. (2020). "Propolis: A natural product with many biological activities." In *Products from Apis mellifera* (pp. 55–73). Springer.
-10. Srećković, V., et al. (2019). "Bee bread — Chemical composition and functional properties: A review." *Journal of Apicultural Research*, 58(4), 494–517.

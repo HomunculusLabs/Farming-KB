@@ -12,11 +12,11 @@ type: entity
 
 **Type:** Species
 **Category:** Medium deciduous leguminous tree
-**Also known as:** [[permaculture]] systems, combining nitrogen fixation, natural insect
+**Also known as:** permaculture systems, combining [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], natural insect
 control, biofuel production, and high-quality timber. Its extreme
 environmental tolerance, including salt water, makes it valuable for
-coastal and degraded-land agroforestry. The dual use of presscake as
-both insecticide and poultry feed exemplifies the closed-loop
+coastal and degraded-land [[agroforestry]]. The dual use of presscake as
+both insecticide and [[knf-poultry-feed-preparation]] exemplifies the closed-loop
 efficiency valued in [[azadirachta-indica]]
 - [[simmondsia-chinensis]]
 ## Practical Applications
@@ -96,4 +96,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

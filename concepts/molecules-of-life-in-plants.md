@@ -18,7 +18,7 @@ Carbohydrates are carbon-based molecules made of carbon, oxygen, and hydrogen --
 
 ### Monosaccharides (Simple Sugars)
 
-The simplest carbohydrates, with up to six carbons. Glucose (C6H12O6) is the most common monosaccharide in both plants and animals. It serves as both energy source and building material -- its carbon, hydrogen, and oxygen atoms are used to construct all other cellular molecules.
+The simplest carbohydrates, with up to six carbons. Glucose (C6H12O6) is the most common monosaccharide in both plants and animals. It serves as both energy source and [[fungal-building-material-deterioration]] -- its carbon, hydrogen, and oxygen atoms are used to construct all other cellular molecules.
 
 Plants produce roughly 100 billion tons of glucose annually through photosynthesis, enough to fill a line of tanker trucks 25 to 30 million miles long.
 
@@ -38,7 +38,7 @@ Steroids are lipids consisting of four carbon rings with various attached molecu
 
 ### Phospholipids
 
-Phospholipids form all cellular membranes. Their dual nature -- a polar phosphate head (water-loving) and nonpolar lipid tails (water-fearing) -- creates the bilayer structure that is the foundation of every cell membrane. These membranes contain transport proteins and prevent unwanted molecules from entering cells.
+Phospholipids form all cellular membranes. Their dual nature -- a polar phosphate head (water-loving) and nonpolar lipid tails (water-fearing) -- creates the bilayer structure that is the foundation of every [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]. These membranes contain transport proteins and prevent unwanted molecules from entering cells.
 
 ## Proteins
 
@@ -70,9 +70,9 @@ Organic molecules are defined as those containing carbon and hydrogen (some defi
 
 Every one of these organic molecules is composed of essential plant nutrients. Carbohydrates need C, H, O. Proteins need N plus C, H, O. Nucleic acids need P and N in addition. Lipids need C, H, O. This is why depriving a plant of any essential nutrient cascades through every molecular system.
 
-Plants continuously break down and rebuild these molecules throughout their life cycle. During seed germination, stored lipids and carbohydrates are mobilized for energy. During vegetative growth, the plant synthesizes new proteins for enzyme systems and nucleic acids for cell division. Under stress conditions (drought, cold, pathogen attack), the balance of molecular synthesis shifts — stress proteins are upregulated while growth-related molecules may be temporarily deprioritized.
+Plants continuously [[query-can-fungi-break-down-plastic-pollution]] and rebuild these molecules throughout their life cycle. During [[cannabis-seed-germination-methods]], stored lipids and carbohydrates are mobilized for energy. During [[cannabis-vegetative-growth-stage]], the plant synthesizes new proteins for enzyme systems and nucleic acids for cell division. Under stress conditions (drought, cold, pathogen attack), the balance of molecular synthesis shifts — stress proteins are upregulated while growth-related molecules may be temporarily deprioritized.
 
-This stress-responsive allocation of molecular resources is a key survival mechanism. A plant facing drought will synthesize abscisic acid (a terpenoid hormone) that signals stomatal closure, reducing water loss at the cost of reduced CO2 uptake and slower photosynthesis. Pathogen attack triggers the synthesis of phytoalexins (antimicrobial compounds) and salicylic acid, which activates systemic acquired resistance throughout the plant.
+This stress-responsive allocation of molecular resources is a key survival mechanism. A plant facing drought will synthesize abscisic acid (a terpenoid hormone) that signals stomatal closure, reducing water loss at the cost of reduced CO2 uptake and slower photosynthesis. Pathogen attack triggers the synthesis of phytoalexins (antimicrobial compounds) and [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]], which activates systemic acquired resistance throughout the plant.
 
 ## Related Topics
 

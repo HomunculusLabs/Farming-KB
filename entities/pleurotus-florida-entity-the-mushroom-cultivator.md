@@ -6,7 +6,7 @@ tags: [edible-mushroom, cultivable-species, oyster-mushroom, primary-decomposer,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+  sources: []
 ---
 # Pleurotus florida
 ## Taxonomy
@@ -23,10 +23,10 @@ Dr. Rolf Singer places P. floridanus in Section Lentodiellum, characterized by
 metuloid pleurocystidia and mycelia that do not sclerotize. He assigns P.
 ostreatus to section Pleurotus, which lacks these features. Despite these
 differences, monokaryons from single [[mycelium]] is fast growing, ranging from rhizomorphic to linear. Its color
-is typically whitish. The mycelial network readily permeates straw substrates,
+is typically whitish. The [[gadd-mycelial-network-dynamics]] readily permeates straw substrates,
 making this species efficient at colonization.
 ## Habitat and Ecology
-Pleurotus ostreatus, including the Florida variety, is a wood decomposing,
+Pleurotus ostreatus, including the Florida variety, is a [[litter-wood-decomposing-fungi]],
 saprophytic or parasitic fungus growing abundantly on standing and fallen alder,
 cottonwood, and maple. It is especially numerous in river valleys and fruits in
 the fall, early winter, and spring in subtropical environments.
@@ -52,7 +52,7 @@ Type Culture Collection lists this mushroom under P. ostreatus as number 38538,
 which is Block's original strain.
 ## Cultivation Parameters
 ### Spawn Medium
-Rye grain is the standard spawn medium.
+[[bigwood-beug-miniculture-rye-grain-flush-variation-method]] is the standard spawn medium.
 ### Fruiting Substrates
 Cereal straw, normally wheat, balanced to 75% moisture content. The straw,
 chopped or whole, is pasteurized by submerging in a 160 degree F water bath

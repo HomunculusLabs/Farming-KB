@@ -1,5 +1,5 @@
 ---
-title: Rabbit Husbandry
+title: [[comparison-rabbit-husbandry-vs-chicken-keeping]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -13,7 +13,7 @@ Rabbits are the most space-efficient meat animal for the homestead. A single
 breeding trio (1 buck, 2 does) can produce 80-100+ lbs of meat per year in
 a footprint smaller than a garden shed. They are quiet, reproduce rapidly,
 and produce lean, mild-tasting meat. Their manure is an outstanding garden
-fertilizer that can be applied directly without composting.
+fertilizer that can be applied directly without [[composting]].
 
 ## Breed Selection
 
@@ -94,7 +94,7 @@ fertilizer that can be applied directly without composting.
   and calcium). Too rich for adult maintenance.
 
 ### Fresh Feed
-- 10-20% of diet can be fresh greens: dandelion, plantain, comfrey,
+- 10-20% of diet can be fresh greens: [[dandelion]], plantain, comfrey,
   raspberry leaves, clover, parsley.
 - Avoid iceberg lettuce (causes diarrhea), cabbage family in excess,
   potatoes, rhubarb.
@@ -143,48 +143,7 @@ fertilizer that can be applied directly without composting.
 - Gutting: small incision below the sternum, remove entrails carefully.
   Save liver, heart, kidneys.
 - Chill carcass for at least 4 hours before cutting or freezing.
-- Yield: approximately 60% dress-out (live to hanging weight).
-- See [[animal-harvest-and-processing]] for detailed processing procedures.
-
-## Tanning Hides
-
-Rabbit pelts are an excellent byproduct. Flesh thoroughly after skinning,
-salt flesh-side with non-iodized salt for 24-48 hours, then tan with
-alum-and-salt, brain tanning, or commercial solutions. Stretch and dry on a
-frame. Pelts are thin — handle carefully. Can be sewn into hats, mittens,
-blankets.
-
-## Manure
-
-- Rabbit manure is "cold" — one of the few animal manures that can go
-  directly on gardens without composting.
-- Rich in nitrogen, phosphorus, and potassium (NPK approximately 2.4-1.4-0.6).
-- Excellent addition to compost piles as a nitrogen activator.
-- Worms love rabbit manure — makes outstanding vermicompost feedstock.
-- Each rabbit produces approximately 200 lbs of manure per year.
-
-## Health Care
-
-- Sore hocks: pressure sores on feet from wire floors. Provide resting
-  boards, keep cages clean.
-- Ear mites: dark crust inside ears. Treat with mineral oil or ivermectin.
-- Pasteurellosis ("snuffles"): respiratory infection, contagious, no cure.
-  Cull affected animals. Prevent with good ventilation and low stress.
-- Enteritis (scours): digestive upset, often fatal in young rabbits. Caused
-  by stress, diet change, or bacterial imbalance. Prevention is key.
-- Mastitis: in lactating does. Hot, swollen udder. Treat with antibiotics.
-- Wool block (in Angoras): hair accumulates in gut. Provide plenty of roughage
-  and papaya enzyme tablets.
-- Prevention: clean housing, good ventilation, consistent diet, low stress,
-  quarantine new animals.
-
-## Links
-
-- [[animal-harvest-and-processing]]
-- [[livestock-feed-formulation]]
-- [[integrated-homestead-design]]
-- [[quail-husbandry-detailed]]
-
 ## Related
 
 - [[animal-butcher-and-processing]]
+- [[faires-meat-processing-curing-and-smoking]]

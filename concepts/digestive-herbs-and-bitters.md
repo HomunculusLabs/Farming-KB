@@ -34,11 +34,11 @@ Licorice root (Glycyrrhiza glabra) is a demulcent with additional anti-inflammat
 
 ## Digestive Spices in Traditional Practice
 
-The Cannabis Health Index references the traditional Cuban use of cinnamon infusion for stimulating digestion and treating digestive problems. Cinnamon (Cinnamomum zeylanicum) bark contains cinnamaldehyde, which has demonstrated carminative, antiemetic, and antimicrobial properties. Cinnamon tea is a warming digestive preparation, especially for cold-type indigestion with bloating and gas.
+The [[blesching-cannabis-health-index-autoimmune-conditions]] references the traditional Cuban use of cinnamon infusion for stimulating digestion and treating digestive problems. Cinnamon (Cinnamomum zeylanicum) bark contains cinnamaldehyde, which has demonstrated carminative, antiemetic, and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. Cinnamon tea is a warming digestive preparation, especially for cold-type indigestion with bloating and gas.
 
 Turmeric (Curcuma longa) is another digestive spice with extensive research backing its anti-inflammatory properties. The German Commission E approved turmeric for digestive difficulties at specified doses. Curcumin, turmeric's primary active compound, stimulates bile production and has protective effects on the gastric mucosa.
 
-Permaculture plant references note that many traditional food plants have dual roles as digestive remedies. Plants listed in companion planting and food forest literature frequently include digestive herbs such as fennel, dill, anise, balm, and chamomile, reflecting their historical integration into daily life as both food and medicine.
+Permaculture plant references note that many traditional food plants have dual roles as digestive remedies. Plants listed in [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] and food forest literature frequently include digestive herbs such as fennel, dill, anise, balm, and chamomile, reflecting their historical integration into daily life as both food and medicine.
 
 ## Formulation and Timing
 
@@ -48,7 +48,9 @@ Timing is important for digestive herbs. Bitters and carminatives are most effec
 
 For chronic digestive complaints, consistent use over four to eight weeks is often needed for significant improvement. Acute complaints (indigestion after a heavy meal, gas, mild nausea) respond more quickly, often within minutes for carminative teas and tinctures. See [[herbal-formulation-principles]] for specific dosing recommendations.
 
-## Related Topics
+## Related
+
+- [[immune-modulating-mushrooms-and-herbs]] Topics
 
 - [[herbal-materia-medica]] — Detailed profiles of individual digestive herbs
 - [[herbal-formulation-principles]] — Dosing recommendations
@@ -71,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

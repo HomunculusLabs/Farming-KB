@@ -1,5 +1,5 @@
 ---
-title: "Oyster Mushroom Cultivation on Spent Coffee Grounds"
+title: "Oyster accessible-mushroom-cultivation-for-disabilities on Spent oyster mushroom coffee grounds cultivation"
 created: 2026-04-28
 tags:
   - mushroom-cultivation
@@ -16,11 +16,11 @@ type: concept
 
 # Oyster Mushroom Cultivation on Spent Coffee Grounds
 
-Cultivating oyster mushrooms on spent coffee grounds is one of the most accessible
+Cultivating [[query-how-to-grow-oyster-mushrooms-at-home]] on spent coffee grounds is one of the most accessible
 entry points into mushroom cultivation. It requires minimal equipment, uses a
 widely available waste product, and can be done in a kitchen or classroom. The
 method was popularized by Tradd Cotter as a simple home activity suitable for
-all ages, producing edible mushrooms while diverting organic waste from landfills.
+all ages, producing [[palmer-edible-mushrooms-north-america]] while diverting organic waste from landfills.
 
 ## Sourcing Coffee Grounds
 
@@ -33,12 +33,12 @@ grounds and will be colonized by the mycelium as well.
 
 ## Why Coffee Grounds Work
 
-Spent coffee grounds retain significant nitrogen content and organic compounds
+Spent coffee grounds retain significant nitrogen content and [[fungal-volatile-organic-compounds-communication]]
 after brewing, making them a viable substrate for [[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]] (*Pleurotus pulmonarius*), though
 some European growers have also successfully fruited parasol mushrooms from
 coffee grounds. While yields per pound are lower than commercial wheat straw or
 cotton waste formulas, the zero-cost substrate makes this method economically
-competitive when production costs are factored in.
+competitive when [[fukuoka-textdoc-production-costs-not-coming-down]] are factored in.
 
 ## Step-by-Step Process
 

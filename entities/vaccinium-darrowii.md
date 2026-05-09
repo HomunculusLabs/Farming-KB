@@ -13,7 +13,7 @@ updated: 2026-05-08
 sources:
   - USDA NRCS (2024). "Vaccinium darrowii." PLANTS Database.
   - Lyrene, P.M. (2008). "Breeding Blueberries for a Changing Climate." HortScience 43(1): 39–43.
-  - Vander Kloet, S.P. (1988). "The Genus Vaccinium in North America." Research Branch, Agriculture Canada.
+  - Vander Kloet, S.P. (1988). "The Genus Vaccinium in [[psilocybin-north-america-pacific-northwest]]." Research Branch, Agriculture Canada.
   - Williamson, J.G. & Lyrene, P.M. (2004). "Blueberry Botany and Horticulture." Horticultural Reviews 30: 31–82.
   - Ballington, J.R. (2001). "Collection of Native Vaccinium Species in the Southeastern United States." HortScience 36(2): 351–353.
 ---
@@ -30,7 +30,7 @@ Its compact habit, small glossy leaves, and attractive pink-to-white flowers als
 
 ## Taxonomy and Morphology
 
-**Vaccinium darrowii** Camp was described by William James Camp in 1941, named after blueberry breeder George M. Darrow.
+**Vaccinium darrowii** Camp was described by [[metzner-william-james-radical-empiricism-multiple-consciousness]] Camp in 1941, named after blueberry breeder George M. Darrow.
 
 It belongs to *Vaccinium* section *Cyanococcus*, the true blueberries, alongside the highbush and lowbush blueberries.
 
@@ -48,7 +48,7 @@ Fruits are small blue-black berries, 5–8 mm in diameter, with a waxy bloom, ri
 
 The fruit contains numerous small seeds and has a sweet, mildly tart flavor.
 
-Roots are fine and fibrous, forming associations with ericoid mycorrhizal fungi essential for nutrient uptake in acidic soils.
+Roots are fine and fibrous, forming associations with [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] fungi essential for [[plant-nutrient-uptake-mechanisms]] in acidic soils.
 
 ## Distribution and Habitat
 
@@ -58,7 +58,7 @@ Populations are concentrated in the Gulf Coastal Plain and the Atlantic Coastal 
 
 Typical habitats include sandy pine flatwoods, turkey oak barrens, xeric scrub, and dry sandy prairies.
 
-The species is adapted to acidic, well-drained sandy soils with pH 4.0–5.5 and low organic matter.
+The species is adapted to acidic, well-drained sandy soils with pH 4.0–5.5 and low [[hamilton-composting-and-organic-matter-management]].
 
 It is fire-adapted, resprouting vigorously from the root crown after prescribed burns or wildfires.
 
@@ -98,7 +98,7 @@ White-tailed deer occasionally browse the foliage, though palatability is modera
 
 The dense low growth form provides cover for ground-nesting birds and small mammals in pine flatwood ecosystems.
 
-Ericoid mycorrhizal associations in the root system facilitate nutrient cycling in nutrient-poor sandy soils.
+Ericoid mycorrhizal associations in the root system facilitate [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in nutrient-poor sandy soils.
 
 The species contributes to the vegetative structure of fire-maintained pine flatwood and scrub communities across the southeastern coastal plain.
 
@@ -120,6 +120,6 @@ The species serves as an indicator of healthy, fire-maintained pine flatwood and
 
 - [[vaccinium-angustifolium]]
 - [[vaccinium-macrocarpon]]
-- [[arctostaphylos-uva-ursi]]
+- arctostaphylos-uva-ursi
 - [[vaccinium-ovatum]]
 - [[vaccinium-pallidum]]

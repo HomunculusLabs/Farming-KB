@@ -13,7 +13,7 @@ sources:
 
 Cannabis may be eaten raw, cooked into other foods, drunk as juice, inhaled after vaporization, smoked in a pipe, wrapped in paper and smoked, or rubbed into the skin. The method of consumption significantly affects onset time, duration of effects, bioavailability, and therapeutic appropriateness for different conditions. The [[query-how-does-foliar-feeding-work-for-cannabis]] to be absorbed through the gastrointestinal tract. The effects of consumed cannabis thus tend to be delayed, last much longer (4-8 hours), and are noticeably different compared to the effects of inhalation. Oral consumption undergoes first-pass hepatic metabolism, which converts THC to 11-hydroxy-THC -- a more potent metabolite that produces stronger psychoactive effects.
 
-Any favorite recipes can be fortified with cannabis-infused oil, or an alcohol-based tincture that supports specific needs. The oil or tincture should be added after the cooking process is completed, and at the right dose specific to the therapeutic window.
+Any favorite recipes can be fortified with cannabis-infused oil, or an alcohol-based tincture that supports specific needs. The oil or tincture should be added after the cooking process is completed, and at the right dose specific to the [[blesching-cannabis-therapeutic-window-dosing]].
 
 **Advantages:**
 - Longest duration of effects (4-8 hours)
@@ -58,7 +58,7 @@ Topical creams are used to deliver medicine to specific and isolated problem are
 
 Common topical preparations include:
 - **Balms and salves**: Oil-based preparations for localized pain and inflammation
-- **Creams and lotions**: Water-based preparations for skin conditions
+- **Creams and lotions**: Water-based preparations for [[cannabis-for-skin-conditions-detailed]]
 - **Oils**: Direct application to affected areas
 - **Patches**: Sustained-release topical delivery
 

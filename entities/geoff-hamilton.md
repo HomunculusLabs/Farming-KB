@@ -11,7 +11,7 @@ sources:
 
 # Geoff Hamilton
 
-Geoffrey "Geoff" Hamilton (1936–1996) was a British gardener, broadcaster, and author, best known as presenter of BBC's "Gardeners' World" and one of the most influential advocates for organic gardening methods in the English-speaking world. His book *Organic Gardening* (DK Publishing, first American edition 1993, revised by Nick Hamilton 2011) remains a comprehensive practical reference.
+Geoffrey "Geoff" Hamilton (1936–1996) was a British gardener, broadcaster, and author, best known as presenter of BBC's "Gardeners' World" and one of the most influential advocates for [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] methods in the English-speaking world. His book *Organic Gardening* (DK Publishing, first American edition 1993, revised by Nick Hamilton 2011) remains a comprehensive practical reference.
 
 ## BBC Career
 
@@ -19,27 +19,27 @@ Hamilton presented BBC *Gardeners' World* from 1979 until his death in 1996, rea
 
 ## Barnsdale Gardens
 
-Hamilton created a demonstration garden at Barnsdale in Rutland that showcased organic techniques, companion planting, and sustainable design. It became the most visited private garden in Britain. The garden demonstrated that beautiful, productive gardens could be created affordably using recycled materials and home-grown plants rather than expensive garden center purchases.
+Hamilton created a demonstration garden at Barnsdale in Rutland that showcased organic techniques, [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]], and sustainable design. It became the most visited private garden in Britain. The garden demonstrated that beautiful, productive gardens could be created affordably using recycled materials and home-grown plants rather than expensive garden center purchases.
 
 ## Organic Gardening Philosophy
 
-Hamilton championed chemical-free gardening, composting, and natural pest control long before these practices became mainstream. His *Organic Gardening* book (over 18,000 lines of content) covers the full spectrum of organic growing: soil health, composting systems, natural pest management, companion planting, vegetable growing, fruit cultivation, and garden design. The book was revised and updated by his son Nick Hamilton in 2011.
-
+Hamilton championed chemical-free gardening, composting, and natural pest control long before these practices became mainstream. His *Organic Gardening* book (over 18,000 lines of content) covers the full spectrum of organic growing: soil health, composting systems, natural pest management, companion planting, [[fukuoka-semi-wild-vegetable-growing-natural-method]], fruit cultivation, and garden design. The book was revised and updated by his son Nick Hamilton in 2011.
 
 ## Key Organic Techniques
 
-Hamilton's *Organic Gardening* book covers a comprehensive range of chemical-free growing methods:
+Hamilton's *Organic Gardening* book covers a comprehensive range of chemical-free [[mushroom-growing-methods-comparison]]:
 
 - **Composting systems:** Multiple composting approaches including open bins, enclosed bins, tumblers, and sheet composting; emphasis on compost as the foundation of soil fertility
 - **Natural pest control:** Companion planting strategies, biological controls (ladybugs, lacewings), barrier methods, and homemade sprays; integrated approach to pest management
 - **Soil health:** Deep digging vs. no-dig methods, green manures, cover crops, mulching systems; soil testing and amendment recommendations
 - **Propagation:** Seed sowing techniques, cutting propagation, division, layering; making the most of free plant material
-- **Greenhouse growing:** Organic greenhouse management, heating with minimal energy, extending the growing season
+- **Greenhouse growing:** Organic [[hamilton-greenhouse-management-organic]], heating with minimal energy, extending the growing season
 - **Fruit growing:** Pruning techniques, training systems (espalier, cordon), pest management for orchard fruits and soft fruit
 - **Water management:** Water conservation techniques, irrigation systems, drought-resistant planting strategies
-- **Garden design:** Designing for wildlife, creating habitats for beneficial insects, ornamental edible gardens
+- **Garden design:** Designing for wildlife, creating habitats for [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], ornamental edible gardens
 
 Hamilton's approach was distinctive for its emphasis on recycling and using found or inexpensive materials rather than purchasing expensive garden products — making organic methods accessible regardless of budget. His BBC platform gave these ideas enormous reach.
+
 ## Major Works
 
 - *Organic Gardening* — Comprehensive DK guide to chemical-free growing (revised edition 2011)
@@ -60,6 +60,7 @@ Hamilton's emphasis on organic methods, recycling, and making gardening accessib
 - [[composting-systems]] — Organic soil building
 - [[companion-planting-reference]] — Plant relationships
 - [[orchard-pest-management]] — Natural pest control methods
+
 ## Practical Considerations
 
 Successful implementation of Geoff Hamilton requires attention to
@@ -78,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

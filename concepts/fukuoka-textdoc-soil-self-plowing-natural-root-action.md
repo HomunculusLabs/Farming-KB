@@ -1,5 +1,5 @@
 ---
-title: "Soil Self-Plowing and Natural Root Action"
+title: "Soil Self-Plowing and fukuoka textdoc soil self plowing natural root action Action"
 created: 2026-04-28
 tags:
   - natural-farming
@@ -34,7 +34,7 @@ inches, whereas the roots of grasses and green manure crops work the
 soil down to twelve inches, fifteen inches, or more. When these roots
 reach down deep into the earth, air and water penetrate into the soil
 together with the roots. As the roots wither and die, many types of
-microorganisms proliferate, feeding on the organic matter and creating
+microorganisms proliferate, feeding on the [[hamilton-composting-and-organic-matter-management]] and creating
 humus that softens the soil and improves its structure.
 
 This process operates continuously and at depths far greater than any
@@ -79,7 +79,7 @@ in the soil, turning it a rich black. The soil aggregates and softens,
 increasing water retention. Each stage builds on the previous one,
 creating increasingly favorable conditions for plant growth.
 
-When black wattle is planted in depleted soil on a mountainside and
+When [[fukuoka-black-wattle-fertilizer-tree-method]] is planted in depleted soil on a mountainside and
 succeeded a number of years later by giant cedars many times their size,
 the great productive powers of the soil become evident. If the forest is
 left to itself, this process continues indefinitely without any need for
@@ -93,9 +93,9 @@ Transplanting saplings interferes with the natural root development
 process. Even a slight entanglement of a tree's roots during
 transplanting interferes with the normal growth of the first generation
 of roots and weakens the tree's ability to send roots deep into the
-soil. Applying chemical fertilizers encourages the tree to grow a
+soil. Applying [[cervantes-chemical-fertilizers-guide]] encourages the tree to grow a
 shallow root structure that extends along the topsoil rather than
-penetrating to depth. Fertilizer application and weeding bring a halt to
+penetrating to depth. [[cervantes-fertilizer-application-strain-feeding]] and weeding bring a halt to
 the normal aggregation and enrichment of topsoil.
 
 ## The Cycle of Destructive Intervention
@@ -104,7 +104,7 @@ Fukuoka describes a self-reinforcing cycle of soil destruction. The
 farmer clears the forest, carries off all organic material, digs deep
 into the earth pulling up roots, burns everything, then turns the soil
 over and over again. In so doing, he destroys the physical structure of
-the soil. After pounding and kneading it like bread dough, he drives out
+the soil. After pounding and kneading it like [[fukuoka-textdoc-plowing-ruins-soil-compaction-bread-dough-analogy]], he drives out
 air and the humus so essential to microorganisms, reducing it to a
 yellow mineral matter barren of life.
 
@@ -131,6 +131,8 @@ feed soil microorganisms.
 ## The Hundred Million Microbes per Gram
 
 ## See Also
+
+- [[fukuoka-textdoc-soil-self-regulation-failure-lime-correction]]
 
 - [[fukuoka-textdoc-natural-soil-management]] for broader soil
 management principles

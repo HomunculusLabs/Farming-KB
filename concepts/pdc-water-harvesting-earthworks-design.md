@@ -1,5 +1,5 @@
 ---
-title: Water Harvesting Earthworks Design
+title: Water pdc water harvesting earthworks design Design
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [design, harvesting, water]
 
 # Water Harvesting Earthworks Design
 
-In Permaculture Design, human-made geo-morphology is referred to as earthworks. Any Permaculture Design will probably require some extent of earthworks, some more than others. The point of Permaculture earthworks is not just moving earth around -- you are not a painter and the earth your canvas. The point is to create geo-morphological conditions that increase the ecological health of the site.
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], human-made geo-morphology is referred to as earthworks. Any Permaculture Design will probably require some extent of earthworks, some more than others. The point of [[query-what-are-permaculture-earthworks-and-how-do-i-plan-them]] is not just moving earth around -- you are not a painter and the earth your canvas. The point is to create geo-morphological conditions that increase the ecological health of the site.
 
 ## Core Principle: Slow, Spread, and Sink
 
@@ -23,7 +23,7 @@ The purpose of a swale is to catch rain water and slow it down. A swale should c
 1. Dig down creating a trench about the depth and width of your shovel head.
 2. Collapse in the sides of the trench to create a V-shaped trench with very gentle slopes -- it should not look like a mancatching trap but rather a gentle dip in the landscape.
 3. Fill the swale with mulch -- cut grasses, leaves, sticks, twigs, any woody or leafy thing that will break down into mulch.
-4. Plant the swale typically with summer and winter perennial ground covers, and possibly some edibles.
+4. Plant the swale typically with summer and winter perennial [[permaculture-plants-food-forest-ground-covers-bamboos]], and possibly some edibles.
 
 A swale must be level. Techniques for leveling include:
 - Using an architect's level with two bricks placed in the trench.
@@ -62,7 +62,7 @@ To calculate how much rain water you can expect off a surface: determine the squ
 
 ## Earthworks Caution
 
-Earthworks is probably the single most transformative, or destructive, element in any design. As you put in berms, swales and foundations you must constantly be aware of the effect all of this earthmoving will have on the overall ecological health of your site. Fire breaks created by swales are excellent, and swales can serve multiple functions including erosion control and water harvesting. But a poorly placed earthwork can redirect water in destructive ways.
+Earthworks is probably the single most transformative, or destructive, element in any design. As you put in berms, swales and foundations you must constantly be aware of the effect all of this earthmoving will have on the overall ecological health of your site. Fire breaks created by swales are excellent, and swales can serve multiple functions including [[permplant-willows-salix-erosion-control-fodder]] and water harvesting. But a poorly placed earthwork can redirect water in destructive ways.
 
 ## Water Consumption Planning
 
@@ -70,14 +70,14 @@ Remember that all rain water calculations are based on average rainfall. This me
 
 ## Recommended Reading
 
-Rainwater Harvesting for Drylands and Beyond by Brad Lancaster.
+[[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]] for Drylands and Beyond by Brad Lancaster.
 
 ## Related Pages
 
 - [[pdc-swales-and-earthworks-water-management]]
-- [[pdc-water-harvesting-design]]
+- pdc-water-harvesting-design
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
 - [[soil-erosion-control]]
-- [[pdc-earthworks-and-earth-resources]]
+- pdc-earthworks-and-earth-resources
 - [[mycelium-running-filtering-water-with-fungi]]
 - [[pdc-landform-and-topography-reading]]

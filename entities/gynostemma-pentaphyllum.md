@@ -25,7 +25,7 @@ sources:
 - **Scientific name:** Gynostemma pentaphyllum (Thunb.) Makino
 - **Family:** Cucurbitaceae | **Order:** Cucurbitales
 - **Designation:** "Southern ginseng" — gypenosides structurally overlap with ginsenosides
-- **Primary use:** Adaptogenic tonic; broad-spectrum medicinal herb
+- **Primary use:** Adaptogenic tonic; broad-spectrum [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]]
 - **Key feature:** Broadest range of saponins (gypenosides 1–82) of any known plant
 - **Forms:** Dried tea, capsules, tinctures, standardized extracts (≥10% gypenosides)
 
@@ -67,7 +67,7 @@ sources:
 ### Additional Constituents
 | Class | Examples | Class | Examples |
 |-------|----------|-------|----------|
-| Flavonoids | [[kaempferol]], rutin | Trace minerals | Se, Zn, Fe, Mg, Ca |
+| Flavonoids | [[kaempferol]], rutin | [[dynamic-accumulator-plants-trace-minerals]] | Se, Zn, Fe, Mg, Ca |
 | Polysaccharides | GPP (immunomodulatory) | Amino acids | 18 identified (Gln, Asp, Leu…) |
 | Organic acids | Gynostemmic acid | Sterols | β-Sitosterol, [[panax-ginseng]] — Ginsenoside structural analogues
 - adaptogens — Stress-modulating herb category
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

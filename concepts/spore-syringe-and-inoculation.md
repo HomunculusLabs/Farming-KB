@@ -1,24 +1,18 @@
 ---
-title: Spore Syringe and Inoculation
+title: spore-syringe and Inoculation
 created: 2026-04-28
-tags: [[mycology, cultivation, inoculation, sterile-technique]
+tags: [mycology, cultivation, inoculation, sterile-technique]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 type: concept
 ---
-
-# Spore Syringe and Inoculation
-
-## Overview
-
-Inoculation is the process of introducing fungal genetic material into a sterile
-substrate to initiate [[mushroom-cultivation]].
+# Spore Syringe and Inoculation ## Overview Inoculation is the process of introducing fungal genetic material into a sterile substrate to initiate [[mushroom-cultivation]].
 
 ## Spore Biology
 
-Mushroom spores are single-celled reproductive units produced by the gills,
-pores, teeth, or other spore-bearing surfaces of the fruiting body. A single
+[[query-how-to-store-mushroom-spores-long-term]] are single-celled reproductive units produced by the gills,
+pores, teeth, or other spore-bearing surfaces of the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]. A single
 mushroom can release millions to billions of spores. Each spore is haploid and
 contains half the genetic material of the parent organism. When a spore
 germinates, it produces a monokaryotic mycelium — a network of hyphae each
@@ -27,14 +21,14 @@ containing a single nucleus per cell.
 For most Basidiomycota, fruiting requires a dikaryotic mycelium, formed when two
 compatible monokaryotic hyphae undergo plasmogamy (cell fusion) without
 immediate nuclear fusion. This means that spores from a single mushroom must
-find compatible mating partners to form a fertile colony. Basidiomycete mating
+find compatible mating partners to form a fertile colony. [[bloomfield-basidiomycete-mating-systems-tetrapolar-incompatibility-dikaryon-genetics]]
 systems are typically tetrapolar (controlled by two unlinked mating-type loci,
 A and B), meaning that only about 25% of random pairings between spores from
 the same parent will be compatible. This is why multispore inoculation (using
 many spores simultaneously) is preferred over single-spore isolation for
 beginners — the odds of compatible mating are much higher.
 
-Spore syringes exploit this by suspending millions of spores in sterile water,
+[[query-spore-syringes-vs-liquid-culture]] exploit this by suspending millions of spores in sterile water,
 ensuring that at least some compatible pairs will germinate and fuse upon
 inoculation. However, multispore inoculation produces genetically variable
 progeny, which can result in inconsistent yields and characteristics. For
@@ -58,7 +52,7 @@ to minimize airflow disturbance while allowing gas exchange.
    gauge), and distilled water are sterilized by pressure cooking (15 PSI /
    121°C for 30+ minutes). Distilled water is used to prevent mineral
    contamination.
-2. **Scrape spores** — in a still-air box or laminar flow hood, spores are
+2. **Scrape spores** — in a still-air box or [[comparison-laminar-flow-hood-vs-fruiting-chamber]] hood, spores are
    scraped from the print into the sterile water using a flame-sterilized
    scalpel. A small amount of spore material goes a long way; a single
    10 cc syringe can hold enough spores for 10–20 grain jars.
@@ -103,7 +97,7 @@ greater inoculation volume per jar, further accelerating colonization.
 
 ## Aseptic Technique
 
-Contamination is the primary cause of failure in mushroom cultivation. Every
+Contamination is the primary cause of failure in [[accessible-mushroom-cultivation-for-disabilities]]. Every
 step from syringe preparation through inoculation must follow strict aseptic
 protocols:
 
@@ -123,5 +117,6 @@ protocols:
 
 ## See Also
 
-- [[mycelium-network]]
+- mycelium-network
 - [[mushroom-cultivation-lifecycle]]
+- [[mycelium]]

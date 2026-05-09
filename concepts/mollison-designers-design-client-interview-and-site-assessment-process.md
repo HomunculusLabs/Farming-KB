@@ -1,5 +1,5 @@
 ---
-title: Design Client Interview and Site Assessment Process
+title: Design williams-pdc-client-interview-process and permaculture-site-assessment-checklist Process
 created: 2026-04-28
 tags:
   - design-process
@@ -16,7 +16,7 @@ type: concept
 
 # Design Client Interview and Site Assessment Process
 
-The [[mollison-pdc-design-report-methodology]], [[mollison-professional-design-practice]] chapters of the Designers' Manual, but the practical details of
+The [[mollison-pdc-design-report-methodology]], mollison-professional-design-practice chapters of the Designers' Manual, but the practical details of
 client interaction and site assessment merit focused treatment as they
 fundamentally shape every subsequent design decision.
 
@@ -33,8 +33,8 @@ The first contact between designer and client establishes the framework for
 the entire project:
 
 - **Client's motivation**: Understanding why the client is seeking a
-  permaculture design is essential. Are they motivated by food production,
-  environmental restoration, energy independence, community building, aesthetic
+  [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] is essential. Are they motivated by food production,
+  environmental restoration, energy independence, [[urban-permaculture-community-building-social-design]], aesthetic
   goals, economic return, or a combination? Different motivations lead to
   different design priorities.
 - **Property details**: Size, location, legal tenure (ownership, lease,
@@ -42,7 +42,7 @@ the entire project:
   (covenants, easements, zoning).
 - **Budget and resources**: Available financial resources, labour (family,
   volunteers, contractors), equipment, and timeline. Mollison's
-  [[mollison-design-report-structure]]
+  mollison-design-report-structure
   varies accordingly.
 
 ## The Client Interview Process
@@ -56,7 +56,7 @@ approach:
 
 - **Household composition**: Number of people, ages, dietary preferences,
   health considerations, pets, livestock interests. This directly informs
-  [[mollison-zone-one-garden-design]] scale.
+  mollison-zone-one-garden-design scale.
 - **Time availability**: How many hours per week can the client devote to
   garden and property management? This determines the appropriate balance
   between intensive zone 1-2 systems and self-maintaining zone 3-5 systems.
@@ -78,7 +78,7 @@ A thorough inventory of available resources guides realistic design:
 - **Material resources**: Existing buildings, fencing, tools, machinery,
   timber, stone, and other on-site materials.
 - **Human resources**: Family labour, community networks, WWOOFers, student
-  groups, local tradespeople. The [[mollison-seed-resources-and-sovereignty]].
+  groups, local tradespeople. The mollison-seed-resources-and-sovereignty.
 
 ## Site Assessment Methodology
 
@@ -115,3 +115,7 @@ conditions, before beginning design work. The [[mollison-designers-slope-analysi
 #### Water Resources
 - **Existing water features**: Dams, tanks, bores, wells, springs, streams,
   wetlands. Map their location, capacity, reliability, and water quality.
+
+## See Also
+
+- [[williams-pdc-client-interview-process]]

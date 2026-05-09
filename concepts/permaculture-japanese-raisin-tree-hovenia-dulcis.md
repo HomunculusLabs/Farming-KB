@@ -1,5 +1,5 @@
 ---
-title: "Japanese Raisin Tree for Permaculture Systems"
+title: "permaculture japanese raisin tree hovenia dulcis Tree for Permaculture Systems"
 created: 2026-04-28
 tags:
   - permaculture
@@ -19,8 +19,8 @@ type: concept
 The Japanese raisin tree (Hovenia dulcis) is a deciduous tree from the
 Rhamnaceae family, native to Japan, China, and the Himalayas. It is
 suited to temperate and subtropical climates and valued for its unique
-edible fruit stalks, bee forage, and ornamental qualities. Though
-lesser-known than mainstream fruit trees, it offers multiple functions
+edible fruit stalks, [[mollison-designers-bee-forage-tree-planting]], and ornamental qualities. Though
+lesser-known than mainstream [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], it offers multiple functions
 for [[permaculture-food-forests-design-course]] harvest
 calendar. In China, the stalks are traditionally used to annul the
 effects of wine, suggesting medicinal properties related to alcohol
@@ -42,14 +42,14 @@ it valuable for [[bee-forage-plant-system]] ensures early-season bee nutrition.
 
 The tree is native to a range spanning Japan, China, and the Himalayas,
 indicating broad climatic adaptability within temperate and subtropical
-zones. Its cold hardiness is a significant advantage, allowing
+zones. Its [[coleman-cold-hardiness-testing-ratings]] is a significant advantage, allowing
 cultivation in areas where more tender fruit species would fail.
 
 Specific soil and site requirements are less documented than for
 commercial fruit trees, but in its native habitat it typically grows in
 well-drained forest soils. It is likely tolerant of a range of soil
 types given its wide natural distribution across different geological
-and climatic zones.
+and [[permaculture-designers-manual-climatic-zones-tropical]].
 
 ## Role in Permaculture Design
 
@@ -58,7 +58,7 @@ and climatic zones.
 Growing to 18m, the Japanese raisin tree functions as an upper canopy
 element in [[permaculture-plants-insectary-bee-forage]] species
 that bloom at different times, Hovenia dulcis helps ensure continuous
-nectar availability throughout the growing season. Its spring flowering
+nectar availability throughout the [[savory-growing-season-and-non-growing-season-management]]. Its spring flowering
 complements summer and autumn-blooming species in the [[permaculture-plants-medicinal-herbs-healing]] approaches.
 
 ## Companion Planting Considerations
@@ -69,7 +69,7 @@ companion to any fruit trees requiring pollination during that period.
 Its canopy provides dappled shade suitable for understory herbs and
 [[permaculture-food-forests-design-course]]
 - [[bee-forage-plant-system]]
-- [[permaculture-plant-guilds]]
+- permaculture-plant-guilds
 - [[permaculture-plants-ground-covers-living-mulches]]
 ## Practical Considerations
 
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

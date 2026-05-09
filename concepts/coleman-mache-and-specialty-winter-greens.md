@@ -1,5 +1,5 @@
 ---
-title: Mache and Specialty Winter Greens
+title: Mache and coleman mache and specialty winter greens Greens
 created: 2026-04-28
 tags:
   - winter-greens
@@ -27,7 +27,7 @@ important roles in the winter crop mix.
 
 Mache is a true winter annual that thrives in cold conditions. Unlike
 many crops that merely survive winter, mache actively continues
-growing during the Persephone months when days are short. This makes
+growing during the [[coleman-persephone-months-winter-day-length]] when days are short. This makes
 it one of the most dependable crops for midwinter harvest. Its
 nutty, mild flavor and tender texture make it highly prized by chefs
 and customers alike.
@@ -44,7 +44,7 @@ Mache is not a cut-and-come-again crop. Each plant is harvested
 once, either as part of the salad mix or as a whole-plant product.
 This single-harvest characteristic makes properly timed succession
 sowings absolutely crucial for maintaining a steady supply throughout
-the winter and early spring.
+the winter and [[coleman-overwintered-onions-and-early-spring-crops]].
 
 ## Succession Sowing Requirements
 
@@ -73,7 +73,7 @@ sold loose in the standard 3.5-pound box used for other greens.
 This bulk format appeals to restaurants and specialty customers who
 want whole mache rosettes for salads, garnishes, or light cooking.
 The European tradition of selling with field grit intact trades
-shelf life for presentation, while the farm's washed-and-loose
+[[psilocybin-shelf-life-stability]] for presentation, while the farm's washed-and-loose
 approach prioritizes immediate usability and cleanliness.
 
 ## Mache as a Winter-Only Crop
@@ -114,7 +114,7 @@ crop.
 ### Watercress
 Watercress adds a peppery bite to the salad mix. Cool winter
 temperatures keep it from becoming too strong or biting, making it a
-more versatile mix ingredient than it would be in warm weather.
+more versatile mix ingredient than it would be in [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]].
 
 ### Narrow-Stem Chard
 Baby leaves of narrow-stem chard provide color and tenderness to the
@@ -129,11 +129,13 @@ a diverse, high-quality salad mix throughout winter. Each crop has
 specific strengths: mache for reliability, claytonia for productivity,
 minutina for texture, sylvetta for flavor intensity. By managing each
 crop's planting timing, bed placement, and harvest stage carefully,
-the farm maintains consistent salad mix quality even during the most
+the farm maintains consistent salad [[coleman-baby-leaf-salad-mix-quality-standards]] even during the most
 challenging winter conditions.
 
-See also [[coleman-winter-greens]], [[coleman-winter-harvest-planting-schedule]].
+See also coleman-winter-greens, [[coleman-winter-harvest-planting-schedule]].
 
 ## See Also
+
+- [[coleman-mache]]
 
 - [[coleman-winter-day-length-and-persephone-months]]

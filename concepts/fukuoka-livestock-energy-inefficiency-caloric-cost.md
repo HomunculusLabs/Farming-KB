@@ -1,6 +1,6 @@
 ---
 title: "Fukuoka on Livestock Energy Inefficiency"
-aliases: [livestock caloric cost, energy input meat production, bantam chicken free-range]
+aliases: [[fukuoka-textdoc-livestock-caloric-land-carrying-capacity]] cost, energy input meat production, bantam chicken free-range]
 tags: [natural-farming, livestock, energy-efficiency, agriculture-economics, fukuoka]
 source: masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 ---
@@ -8,7 +8,7 @@ source: masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 # Livestock Energy Inefficiency in Modern Agriculture
 
 Masanobu Fukuoka presents one of the most forceful critiques of modern
-livestock farming in "The Natural Way of Farming," arguing that
+[[fukuoka-textdoc-natural-livestock-farming-open-grazing]] in "The Natural Way of Farming," arguing that
 industrial animal agriculture is not merely inefficient but represents
 a fundamental misunderstanding of energy flows in natural systems. His
 analysis rests on simple caloric arithmetic that reveals the staggering
@@ -65,7 +65,7 @@ calories, they actually cut the number in half.
 ## The Cascade of Destruction
 
 Fukuoka traces the consequences of livestock energy inefficiency beyond
-the farm gate. Modern livestock operations in countries like Japan
+the farm gate. [[fukuoka-critique-modern-livestock-fisheries]] operations in countries like Japan
 raise cattle in indoor stalls with feed grain shipped from the United
 States. This practice has helped deplete American soil. Not only are
 such practices uneconomical, they amount essentially to a campaign to
@@ -98,7 +98,7 @@ then dried and burned the droppings as fuel, depleting soil fertility.
 Fukuoka draws a direct parallel between animal labor and mechanization.
 Mechanized farming is worse than animal farming. Instead of reducing
 the farmer's work, machinery enslaves him to his equipment. To the
-farmer, machinery is the largest domestic animal of all — a great
+farmer, machinery is the largest [[mollison-designers-domestic-animal-integration-design]] of all — a great
 guzzler of oil, a consumer good rather than a capital good.
 
 While mechanization appears to increase productivity per worker and
@@ -121,10 +121,10 @@ food chain when humans intervene.
 
 Fukuoka's alternative is not vegetarianism per se but a fundamental
 rethinking of the relationship between animals and farms. In his
-natural farming system, chickens run free through the orchard and
+[[comparison-natural-farming-vs-permaculture]] system, chickens run free through the orchard and
 semi-wild vegetables grow in the clover among the trees. Animals are
 not separated from the farm ecosystem but integrated into it as
-participants in natural nutrient cycling.
+participants in natural [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 The goal is not maximum production of any single product but a balanced
 system where animals contribute to soil fertility, pest control, and

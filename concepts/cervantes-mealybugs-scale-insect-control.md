@@ -5,18 +5,19 @@ tags: [cannabis, pest-control, mealybugs, scale-insects, sucking-insects]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Mealybugs and Scale Insects on Cannabis
 
 Mealybugs and scale insects are sap-sucking pests that, while
-somewhat uncommon in indoor cannabis gardens, can cause
+somewhat uncommon in [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]] gardens, can cause
 significant damage when they establish colonies. Both pests
 are slow-moving, long-lived, and often go unnoticed until
 populations build to damaging levels. They share similar
-feeding habits and control strategies.
+feeding habits and [[jadam-weed-control-strategies-natural]].
 
 ## Mealybug Identification
 
@@ -78,7 +79,7 @@ through their sap-feeding behavior:
 
 The honeydew excreted by both pests is particularly
 problematic because it creates conditions favorable for
-fungal growth and attracts additional pest problems.
+[[brassinosteroid-fungal-growth-promotion]] and attracts additional pest problems.
 
 ## Cultural and Physical Control
 

@@ -10,7 +10,7 @@ sources:
 
 # Cannabis and GERD (Gastro-Esophageal Reflux Disease)
 
-**Source:** Uwe Blesching, The Cannabis Health Index
+**Source:** Uwe Blesching, The [[blesching-cannabis-health-index-autoimmune-conditions]]
 
 ## Overview
 
@@ -34,9 +34,9 @@ Gastro-Esophageal Reflux Disease (GERD) is commonly known as heartburn and acid 
 
 ## Key Research Finding
 
-Dutch researchers (2009) at the Academic Medical Centre, Amsterdam, found that **10 mg doses of THC** given to healthy human volunteers and dogs **significantly reduced** meal-induced TLESR and spontaneous swallowing. However, **20 mg doses caused adverse effects** including nausea, vomiting, hypotension, and rapid heart rate, leading researchers to discontinue dosage escalation before reaching study parameters.
+Dutch researchers (2009) at the Academic Medical Centre, Amsterdam, found that **10 mg doses of THC** given to healthy human volunteers and dogs **significantly reduced** meal-induced TLESR and spontaneous swallowing. However, **20 mg doses caused [[blesching-cannabis-safety-adverse-effects-evidence]]** including nausea, vomiting, hypotension, and rapid heart rate, leading researchers to discontinue dosage escalation before reaching study parameters.
 
-This indicates a **narrow therapeutic window** -- cannabinoids appear to help GERD at specific doses but may worsen symptoms at higher doses.
+This indicates a **narrow [[blesching-cannabis-therapeutic-window-dosing]]** -- cannabinoids appear to help GERD at specific doses but may worsen symptoms at higher doses.
 
 ## ECS Involvement
 

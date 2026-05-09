@@ -21,17 +21,17 @@ sources:
   - "Strains: The Essential Guide to the World's Top Cannabis Varieties" (2022). Snoop Dogg (ed.). Chronicle Books.
   - Cannabis Cup & Emerald Cup historical results (2010–2023).
   - Smart, R. et al. (2017). "Cannabis: A complete guide." CRC Press.
-  - ElSohly, M.A. et al. (2016). "Changes in cannabis potency over the last 2 decades." Biological Psychiatry, 79(7), 613–619.
+  - ElSohly, M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] over the last 2 decades." Biological Psychiatry, 79(7), 613–619.
 ---
 
 # Bruce Banner
 
-**Bruce Banner** (often designated **Bruce Banner #3** or **BB#3**) is a high-THC, sativa-dominant hybrid cannabis strain created by Colorado-based breeder **Jason "Darkhorse" Holck** of **Delta 9 Labs** (later operating under the banner **OG Genetics** / **The Green Thumb**). Named after the Marvel Comics character Dr. Bruce Banner — the mild-mannered scientist who transforms into the Hulk — the strain's name is a playful reference to its deceptive nature: the initial cerebral euphoria (the "Banner" phase) builds to a powerful, heavy body stone (the "Hulk smash" phase). First bred in the early 2010s, Bruce Banner rapidly gained recognition as one of the highest-THC strains available and has won multiple cannabis competition awards. It remains a staple of the Colorado cannabis scene and is widely available in legal markets across North America.
+**Bruce Banner** (often designated **Bruce Banner #3** or **BB#3**) is a high-THC, sativa-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] created by Colorado-based breeder **Jason "Darkhorse" Holck** of **Delta 9 Labs** (later operating under the banner **OG Genetics** / **The Green Thumb**). Named after the Marvel Comics character Dr. Bruce Banner — the mild-mannered scientist who transforms into the Hulk — the strain's name is a playful reference to its deceptive nature: the initial cerebral euphoria (the "Banner" phase) builds to a powerful, heavy body stone (the "Hulk smash" phase). First bred in the early 2010s, Bruce Banner rapidly gained recognition as one of the highest-THC strains available and has won multiple cannabis competition awards. It remains a staple of the Colorado cannabis scene and is widely available in legal markets across [[psilocybin-north-america-pacific-northwest]].
 
 ## Lineage and Genetics
 
 **Parent strains:**
-- **OG Kush** (♀ maternal parent) — the legendary indica-dominant hybrid that forms the backbone of modern West Coast cannabis genetics. Contributes potency, complex terpene profile (earthy, piney, fuel), and sedative body effects.
+- **OG Kush** (♀ maternal parent) — the legendary indica-dominant hybrid that forms the backbone of modern West Coast [[vic-high-cannabis-genetics-mendelian-inheritance]]. Contributes potency, complex terpene profile (earthy, piney, fuel), and sedative body effects.
 - **Strawberry Diesel** (♂ paternal parent) — a cross of [[nyc-diesel]]. Contributes sweet berry and diesel aromatics, uplifting sativa-driven cerebral effects, and bright green coloration.
 
 **Genetic ratio:** Approximately 60% sativa / 40% indica, though the experience shifts markedly from sativa-dominant onset to indica-dominant come-down.
@@ -46,7 +46,7 @@ sources:
 Bruce Banner produces visually striking flowers:
 
 - **Buds:** Large, dense, and chunky, with a tapered, spade-like structure. Calyxes are tightly packed and heavily swollen with trichomes.
-- **Coloration:** Bright to forest green as the base, with striking flashes of deep purple and violet, especially on the sugar leaves and calyx tips. Orange to rust-colored pistils (stigmas) are abundant, curling through the resinous calyxes. The contrast between green, purple, and orange is visually dramatic.
+- **Coloration:** Bright to [[trichoderma-forest-green-mold-guide]] as the base, with striking flashes of deep purple and violet, especially on the sugar leaves and calyx tips. Orange to rust-colored pistils (stigmas) are abundant, curling through the resinous calyxes. The contrast between green, purple, and orange is visually dramatic.
 - **Trichome coverage:** Exceptionally heavy — buds are coated in a thick layer of translucent to milky-white trichomes, giving them a frosty, crystalline appearance. This density of glandular trichomes is consistent with the strain's high THC content.
 - **Leaf structure:** Broad-fingered indica-style leaves with some sativa elongation, often showing purple hues during flowering.
 
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

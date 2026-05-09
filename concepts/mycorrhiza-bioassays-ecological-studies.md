@@ -1,12 +1,6 @@
 ---
-title: Mycorrhiza Bioassays and Ecological Studies
-created: 2026-04-28
-updated: 2026-05-02
-type: concept
-tags: [mycorrhiza, bioassay, ecology, soil-science]
-sources: []
----
 
+---
 ## Overview
 
 Arbuscular mycorrhizal (AM) fungi are ubiquitous in agricultural and natural ecosystems, and most plant species form symbiotic associations with these fungi. The symbiosis increases plant growth and development by enhancing nutrient uptake, especially phosphorus (Ortas 1996; Smith et al. 2004). Bioassays provide critical tools for assessing the functional significance of mycorrhizal associations in ecological contexts.
@@ -49,7 +43,7 @@ The mycorrhizal dependency (MD) of a plant species is calculated as: MD = (dry w
 
 ## Ecological Applications
 
-- Assessing the impact of land use change on [[arbuscular-mycorrhizal-inoculum-production-best-practices]] and [[arbuscular-mycorrhizal-inoculum-production-best-practices]]. Understanding the ecological function of native mycorrhizal communities helps inform decisions about when and how to supplement with commercial inoculants. Field bioassays can reveal whether native AM fungal populations are already providing adequate services, potentially saving the cost of unnecessary inoculant applications.
+- Assessing the impact of land use change on arbuscular-mycorrhizal-inoculum-production-best-practices and arbuscular-mycorrhizal-inoculum-production-best-practices. Understanding the ecological function of native mycorrhizal communities helps inform decisions about when and how to supplement with commercial inoculants. Field bioassays can reveal whether native AM fungal populations are already providing adequate services, potentially saving the cost of unnecessary inoculant applications.
 
 ## Applications in Soil Health Assessment
 
@@ -68,7 +62,7 @@ eroded landscapes where topsoil has been lost, as the surviving microbial
 community may be severely depleted. Bioassay results guide decisions about
 whether mycorrhizal inoculation is necessary for successful revegetation.
 ---
-title: Mycorrhiza Bioassays in Ecological Studies
+title: [[mycorrhiza-bioassays-soil-infectivity]] in Ecological Studies
 created: 2026-04-21
 updated: 2026-05-01
 type: concept
@@ -81,7 +75,7 @@ sources: []
 ## See Also
 
 - [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]]
-- [[tropical-rainforest-restoration-arbuscular-mycorrhizal-fungi]]
+- tropical-rainforest-restoration-arbuscular-mycorrhizal-fungi
 - [[mycorrhizal-diversity-assessment]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- mycorrhiza bioassays ecological studies
+- mycorrhiza mycorrhiza bioassays ecological studies studies

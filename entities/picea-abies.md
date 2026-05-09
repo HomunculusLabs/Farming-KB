@@ -87,9 +87,9 @@ Cortinarius species.
 
 The genus *Cortinarius* is particularly species-rich in spruce forests,
 with many species showing strong host preference for *Picea*. These
-associations are critical for nutrient cycling in boreal forest soils.
+associations are critical for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in boreal forest soils.
 
-Spruce needle litter decomposes slowly due to high lignin content and low
+Spruce [[dighton-pine-needle-litter-decomposition-fungal-succession]] decomposes slowly due to high lignin content and low
 nutrient concentration, contributing to the development of thick mor
 humus layers characteristic of boreal spruce forests.
 
@@ -99,7 +99,7 @@ seed cones as a primary food source in boreal regions.
 
 Dead spruce supports significant wood-decay fungus communities. Fomes-
 fomentarius and trametes-versicolor are common decomposers on spruce
-coarse woody debris.
+[[fungal-diversity-leaf-litter-coarse-woody-debris]] debris.
 
 ## Timber and Economic Uses
 
@@ -112,14 +112,14 @@ musical instruments (notably violin soundboards), and paper production.
 Spruce pulpwood is a primary raw material for the Scandinavian paper
 industry.
 
-The species is the leading Christmas tree species in Europe, with
+The species is the leading [[arthur-christmas-tree-amanita-muscaria]] species in Europe, with
 extensive plantations dedicated to the holiday market. Norway accounts
 for a significant share of European Christmas tree exports.
 
 ## Cultivation and Silviculture
 
 Norway spruce is the dominant plantation conifer across central and
-northern Europe. Seed germination is epigeal, requiring light for
+northern Europe. [[cannabis-seed-germination-methods]] is epigeal, requiring light for
 optimal germination. Cold stratification for 30–60 days at 1–5°C
 improves germination rates.
 
@@ -136,6 +136,8 @@ The bark beetle *Ips typographus* is the major pest, capable of killing
 extensive stands during outbreaks triggered by drought or storm damage.
 
 ## See Also
+
+- [[picea-jezoensis]]
 
 - [[juniperus-communis]]
 - [[araucaria-araucana]]

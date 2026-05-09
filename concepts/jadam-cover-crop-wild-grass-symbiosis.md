@@ -1,5 +1,5 @@
 ---
-title: JADAM Cover Crop Method and Wild Grass Symbiosis
+title: JADAM Cover Crop Method and Wild endophytic-fungi-grass-symbiosis-insect-defense-alkaloids-epichloe-neotyphodium
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-JADAM's cover crop method transforms the relationship between farmers and wild grass from antagonistic to symbiotic. Rather than viewing grass as a competitor to be eliminated, JADAM treats it as a partner that provides organic matter, mineral mining, temperature regulation, and disease suppression.
+JADAM's cover crop method transforms the relationship between farmers and wild grass from antagonistic to symbiotic. Rather than viewing grass as a competitor to be eliminated, JADAM treats it as a partner that provides [[hamilton-composting-and-organic-matter-management]], mineral mining, temperature regulation, and [[aact-disease-suppression-mechanisms-ingham]].
 
 ## Core Philosophy
 
@@ -20,7 +20,7 @@ The key is management, not elimination. Leave space between crop rows so grass c
 
 ### 1. Prevents Early Flowering
 
-Global warming causes rapid spring temperature rises, triggering fruit trees to flower too early. This produces poor quality pollen and failed pollination.
+Global warming causes rapid spring temperature rises, triggering [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] to flower too early. This produces poor quality pollen and failed pollination.
 
 Cover crop solution:
 - Sow grass seeds around October, before fruit trees drop their leaves
@@ -41,7 +41,7 @@ Evidence from nature: leaf mold in mountains rarely freezes in winter, even when
 
 ### 3. Suppresses Soil Overheating in Summer
 
-When soil temperature reaches 40C (104F), most crop roots stop functioning. Under black plastic mulch, surface soil can reach 45C (113F) in early summer, with nighttime drops to 15C (59F). This extreme temperature fluctuation damages roots.
+When soil temperature reaches 40C (104F), most crop roots stop functioning. Under black [[jadam-plastic-mulch-problems]], surface soil can reach 45C (113F) in early summer, with nighttime drops to 15C (59F). This extreme temperature fluctuation damages roots.
 
 Cover crop solution:
 - Grass shades the soil surface
@@ -61,7 +61,7 @@ Wild grass roots penetrate deep -- more than 1.5 times the above-ground height. 
 - Physically breaks up compacted soil layers
 - Pulls minerals from deep subsoil to the surface
 - Deposits organic matter at depth as roots die and decompose
-- Creates channels for water infiltration and air circulation
+- Creates channels for water infiltration and [[stamets-growing-room-air-circulation-co2-management]]
 
 Rye roots penetrate 2-3 meters (7-10 feet), enriching deep soil with organic matter and bringing up inorganic nutrients from the subsoil sphere.
 

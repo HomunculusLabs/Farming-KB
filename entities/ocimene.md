@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - Degenhardt, J. et al. (2009). "Monoterpene and sesquiterpene synthases and the origin of terpene molecular diversity in plants." Phytochemistry, 70(15-16), 1621-1637.
   - Maffei, M.E. et al. (2011). "The evolutionary history of terpenoid biosynthesis in plants." Perspectives in Plant Ecology, Evolution and Systematics, 13(3), 161-167.
-  - Booth, J.K. & Bohlmann, J. (2019). "Terpenes in Cannabis sativa — From biosynthesis to potential health benefits." In: Cannabis sativa L. — Phytochemistry and Pharmacology. Springer.
+  - Booth, J.K. & Bohlmann, J. (2019). "Terpenes in [[comparison-cannabis-sativa-vs-cannabis-indica]] — From biosynthesis to potential health benefits." In: Cannabis sativa L. — Phytochemistry and Pharmacology. Springer.
   - Rice, S. & Koziel, J.A. (2015). "The role of terpenes in cannabis." In: Handbook of Cannabis. Oxford University Press.
   - Gershenzon, J. & Dudareva, N. (2007). "The function of terpene natural products in the natural world." Nature Chemical Biology, 3(7), 408-414.
 ---
@@ -35,7 +35,7 @@ isomer is the most commonly occurring in nature and the predominant
 form found in cannabis.
 
 In cannabis, ocimene is considered a minor to moderate terpene,
-typically present at concentrations of 0.1–1.5% of the essential oil
+typically present at concentrations of 0.1–1.5% of the [[permaculture-designers-manual-essential-oil-plants]]
 profile. It contributes to the sweet, herbaceous, and woody aromatic
 notes characteristic of many cannabis cultivars.
 
@@ -119,7 +119,7 @@ with GABAergic neurotransmission pathways.
 aromatherapy as an expectorant and decongestant, contributing
 to its inclusion in some over-the-counter respiratory products.
 
-The contribution of ocimene to the entourage effect in cannabis
+The contribution of ocimene to the [[cannabis-terpene-entourage-effect-profiles]] in cannabis
 remains an area of active investigation. As a minor terpene,
 its individual pharmacological impact is likely modest but may
 synergize with cannabinoids and other terpenes.
@@ -127,7 +127,7 @@ synergize with cannabinoids and other terpenes.
 ## Role in Cannabis Aroma
 
 Ocimene contributes sweet, woody, and herbal notes to the
-cannabis terpene profile. It is often associated with
+[[oner-cannabis-terpene-profiles-effects]] profile. It is often associated with
 tropical and fruity aromas, complementing the profiles of
 myrcene and limonene.
 

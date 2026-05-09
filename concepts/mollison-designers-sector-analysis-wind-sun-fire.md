@@ -1,5 +1,5 @@
 ---
-title: Sector Analysis - Wind, Sun, Fire and Site Energies
+title: [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]] wind sun fire - Wind, Sun, Fire and Site Energies
 created: 2026-04-28
 tags:
   - permaculture
@@ -48,7 +48,7 @@ and high overhead in summer. Mollison advises placing the home and main
 growing areas to capture maximum winter sun while providing summer shade.
 Deciduous trees on the southern side provide summer shade but allow winter
 sun penetration. Evergreen windbreaks on the northern side block cold
-winds without shading. See [[mollison-windbreak-design]]) for cold or
+winds without shading. See mollison-windbreak-design) for cold or
 damaging winds, funnelling structures for cooling breezes, and planted
 shelterbelts that slow wind without creating turbulence. Mollison notes
 that windbreak effectiveness depends on species selection, height, density,
@@ -63,12 +63,12 @@ Fire analysis maps the direction of greatest wildfire risk based on:
 - Historical fire patterns in the region
 - Access for fire-fighting vehicles
 
-Mollison's fire design strategies include:
+Mollison's fire [[mollison-designers-snow-ice-and-winter-design-strategies]] include:
 - Zone 5 wilderness as a fire buffer on the risk side of the property
 - Fuel-reduced corridors and firebreaks
 - Deciduous or fire-resistant tree species in the fire sector
 - Water storage (dams, tanks) positioned for fire-fighting access
-- Building design with non-combustible materials on the fire-exposed side
+- [[permaculture-building-design]] with non-combustible materials on the fire-exposed side
 - Multiple escape routes from all occupied areas
 
 Fire sector design connects to [[keyline-design]] principles to capture, store, and
@@ -86,7 +86,7 @@ or neighboring properties. Mollison recommends:
 - Buffer zones of woodland between noise sources and sensitive areas
 - Building placement to minimize noise exposure
 
-Pollution sectors map sources of air pollution, chemical drift, dust, and
+Pollution sectors map sources of [[air-pollution-fungal-community-responses]], chemical drift, dust, and
 light pollution. Windbreaks and vegetated buffers intercept airborne
 pollutants. Building orientation minimizes exposure to traffic exhaust and
 industrial emissions.

@@ -1,5 +1,5 @@
 ---
-title: "MAL (METHALLYLESCALINE;) -- PIHKAL Entry #99"
+title: "MAL (METHALLYLESCALINE;) -- 2c-b-pihkal-entry-20 #99"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MAL
 
-PIHKAL entry #99. METHALLYLESCALINE;.
+[[2c-b-pihkal-entry-20]] #99. METHALLYLESCALINE;.
 
 ## Chemical Name
 
@@ -128,7 +128,7 @@ stirred, cooled to 0 deg C, and treated with 2.95 ml of 100% H2SO4 added
 dropwise. This was followed by the addition of 6.0 g of
 3,5-dimethoxy-4-methallyloxy-phenylacetonitrile dissolved in 10 mL
 anhydrous THF, at a slow rate with vigorous stirring. The reaction
-mixture was held at reflux on the steam bath for 0.5 h, brought back
+mixture was held at reflux on the [[scythian-cannabis-steam-bath-ritual]] for 0.5 h, brought back
 to room temperature, and the excess hydride destroyed with IPA.
 Sufficient 15% NaOH was added to convert the formed solids to a loose,
 granular texture, and the entire mixture filtered and washed with THF.
@@ -140,8 +140,6 @@ removed under vacuum, and the residual pale amber oil distilled at
 120-130 deg C at 0.3 mm/Hg to provide 1.5 g of a white oil. This was
 dissolved in 8.0 mL of IPA and neutralized with 25 drops of
 concentrated HCl. The addition of 40 ml of anhydrous Et2O with
-stirring produced, after a few moments delay, a spontaneous
-crystallization of 3,5-dimethoxy-4-methallyloxyphenethylamine
 ## See Also
 - [[methyl-dob-entity-pihkal]]
 - [[propynyl-entity-pihkal]]

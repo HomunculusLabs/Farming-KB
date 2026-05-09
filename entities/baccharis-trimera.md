@@ -63,7 +63,7 @@ Hepatoprotective applications include treatment of liver inflammation, support d
 
 The plant is also used traditionally as an anti-inflammatory agent for joint pain and arthritis. External preparations (poultices and compresses) of fresh leaves are applied to wounds, skin ulcers, and insect bites.
 
-Other folk applications include use as a diuretic, antipyretic, and antidiabetic agent. In some communities it is consumed as a general health tonic and appetite stimulant, often combined with other medicinal herbs.
+Other folk applications include use as a diuretic, antipyretic, and antidiabetic agent. In some communities it is consumed as a general health tonic and appetite stimulant, often combined with other [[permaculture-plants-medicinal-herbs-healing]].
 
 In southern Brazilian folk practice, carqueja is frequently combined with boldo (*Peumus boldus*), espinheira-santa (*Maytenus ilicifolia*), and guaco (*Mikania glomerata*) in multi-herb formulations. These combinations target the liver, respiratory system, and digestive tract simultaneously.
 
@@ -81,9 +81,9 @@ Antioxidant capacity of aqueous and ethanol extracts is well documented through 
 
 ## Cultivation and Harvesting
 
-*Baccharis trimera* is easily propagated from stem cuttings taken during the growing season. Cuttings of 15–20 cm rooted in sandy substrate under mist achieve 70–80% rooting success within 3–4 weeks. Seed germination is also viable but less commonly practiced.
+*Baccharis trimera* is easily propagated from stem cuttings taken during the [[savory-growing-season-and-non-growing-season-management]]. Cuttings of 15–20 cm rooted in sandy substrate under mist achieve 70–80% rooting success within 3–4 weeks. Seed germination is also viable but less commonly practiced.
 
-The plant prefers full sun to partial shade and tolerates a wide range of soil types, from sandy acidic to clay loam. It is moderately drought-tolerant once established but benefits from regular irrigation during dry periods for optimal biomass production.
+The plant prefers full sun to partial shade and tolerates a wide range of soil types, from sandy acidic to clay loam. It is moderately drought-tolerant once established but benefits from regular irrigation during dry periods for optimal [[dighton-fungal-biomass-production-aquatic-ecosystems]].
 
 Harvesting of aerial parts occurs during flowering when phytochemical content is highest. The entire above-ground portion is cut 10–15 cm above ground level, allowing regrowth for subsequent harvests. Two to three harvests per year are possible under cultivation.
 
@@ -91,16 +91,16 @@ Drying should be done in a well-ventilated, shaded area to preserve flavonoid co
 
 ## Permaculture and Agroforestry Applications
 
-*Baccharis trimera* offers potential utility in permaculture systems as a medicinal hedgerow plant. Its drought tolerance, rapid growth, and soil-binding root system make it useful for erosion control on slopes and degraded land.
+*Baccharis trimera* offers potential utility in permaculture systems as a medicinal hedgerow plant. Its [[dighton-fungal-drought-tolerance-plant-water-relations]], rapid growth, and soil-binding root system make it useful for [[permplant-willows-salix-erosion-control-fodder]] on slopes and degraded land.
 
-The species can serve as a nurse plant, providing shade and wind protection for establishing slower-growing perennial crops. Its ability to grow in poor soils and disturbed sites makes it valuable for ecological restoration projects.
+The species can serve as a nurse plant, providing shade and [[cervantes-wind-protection-outdoor-cannabis]] for establishing slower-growing perennial crops. Its ability to grow in poor soils and disturbed sites makes it valuable for ecological restoration projects.
 
 As a nectar source, carqueja supports pollinator populations including bees and butterflies. Flowering occurs from March to November, providing an extended period of forage availability during the transition between dry and wet seasons.
 
 ## See Also
 
 - [[arctium-lappa-entity]]
-- [[solidago-virgaurea]]
+- solidago-virgaurea
 - [[glycyrrhiza-glabra]]
 - [[leonurus-cardiaca-entity]]
 - [[verbascum-thapsus]]

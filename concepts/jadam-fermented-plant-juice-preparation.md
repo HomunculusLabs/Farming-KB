@@ -9,7 +9,7 @@ sources:
 ---
 # JADAM Herb Solution (JHS) Preparation
 
-JADAM herb solution (JHS) is made by boiling herbs in water and is used primarily for insect control. JHS is a core component of JADAM natural pesticide (JNP). It also functions as a fertilizer, providing nutrients unlike chemical pesticides.
+JADAM herb solution (JHS) is made by boiling herbs in water and is used primarily for [[mushroom-pests-insect-control-stamets]]. JHS is a core component of JADAM [[jadam-natural-pesticide-institute-and-research]] (JNP). It also functions as a fertilizer, providing nutrients unlike chemical pesticides.
 
 ## Boiling Method (Recommended)
 
@@ -52,7 +52,7 @@ If a bottle inflates during storage, sterilization failed and microbial decompos
 
 ### Alternative Method: Electric Heater
 
-Use a heat-resistant 110 L (29 gal) container. Insert an electric coiled water heater. Maintain temperature around 120C (248F). Do in a warm, protected place. High electricity consumption; use earth leakage breaker.
+Use a heat-resistant 110 L (29 gal) container. Insert an electric coiled water heater. Maintain temperature around 120C (248F). Do in a warm, protected place. High [[cervantes-electricity-consumption-cost-management]]; use earth leakage breaker.
 
 ## Non-Boiling Methods
 
@@ -65,7 +65,7 @@ Some herbs that resist decomposition can be extracted by soaking in water:
 
 | Strength | Herb | Plant Parts Used | Collection Time |
 |----------|------|-----------------|-----------------|
-| Basic | Jerusalem artichoke | Leaves, branches, roots | Spring to autumn |
+| Basic | [[comparison-jerusalem-artichoke-vs-potato]] | Leaves, branches, roots | Spring to autumn |
 | Stronger | Ginkgo | Fresh leaves, fallen leaves, fruits | Spring to autumn |
 | Strongest | Korean pasque flower root | Roots | Autumn |
 
@@ -88,7 +88,7 @@ Analysis of Korean pasque flower root JHS shows it contains N (0.01%), P2O5 (0.0
 
 ## Herbal Oil Enhancement
 
-Herbs with strong scent (peppermint, Korean mint, cinnamon bark, star anise, rosemary, lavender, hot pepper, mustard) can be deep-fried in canola oil. Poisonous substances melt into the oil, which preserves the flavor long-term. This oil can replace canola oil in making JWA, creating "herbal JWA" (H-JWA) -- water plus H-JWA would suffice to control pests.
+Herbs with strong scent (peppermint, Korean mint, cinnamon bark, star anise, rosemary, lavender, hot pepper, mustard) can be deep-fried in canola oil. Poisonous substances melt into the oil, which preserves the flavor long-term. This oil can replace canola oil in making JWA, creating "herbal JWA" (H-JWA) -- water plus H-JWA would suffice to [[query-how-to-control-pests-without-chemicals]].
 
 ## Key Advantages Over Other Extraction Methods
 
@@ -97,7 +97,7 @@ Herbs with strong scent (peppermint, Korean mint, cinnamon bark, star anise, ros
 | Boiling (JADAM) | Very low | Easy | Strong | Excellent (mixes well, foams) |
 | Vinegar brewing | Medium | Medium | Moderate | Poor (causes clotting) |
 | Wood vinegar brewing | Medium | Medium | Moderate | Poor (causes clotting) |
-| Alcohol extraction | High | Hard | Strong | Good (mixes well) |
+| [[pf-tek-alcohol-extraction-method]] | High | Hard | Strong | Good (mixes well) |
 | Fresh juice blending | Low | Hard | Weak | Poor (sticky residue) |
 | Water soaking | Low | Easy | Mild | Good |
 

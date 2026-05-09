@@ -12,7 +12,7 @@ sources:
 
 # Golden Teacher
 
-**Golden Teacher** is a widely recognized strain of *Psilocybe cubensis*, a
+**Golden Teacher** is a widely recognized strain of *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*, a
 psychoactive basidiomycete fungus known for producing psilocybin and psilocin.
 It is among the most popular and well-documented strains in the mycology
 community, valued for its reliability and accessibility.
@@ -47,7 +47,7 @@ membranous annulus on the upper stipe. Spore prints are dark purplish-brown.
 
 Regarded as one of the most beginner-friendly strains, Golden Teacher has
 moderate colonization speed (10–14 days on grain), producing thick white
-rhizomorphic mycelium with relative resistance to common contaminants. Fruiting
+[[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]] with relative resistance to common contaminants. Fruiting
 is robust and prolific, with first flushes yielding medium to large fruits and
 2–4 subsequent flushes of smaller but abundant mushrooms.
 
@@ -63,8 +63,8 @@ is robust and prolific, with first flushes yielding medium to large fruits and
 | Light | Indirect ambient or 6500K fluorescent, 12 h on/off |
 | pH | 6.0–7.0 |
 
-Performs well on [[spore-syringe]] or liquid culture introduced to
-   sterile grain substrate.
+Performs well on [[spore-syringe]] or [[comparison-liquid-culture-vs-grain-spawn]] introduced to
+   sterile [[brassinosteroid-dung-grain-substrate-fruiting-enhancement]].
 2. **Colonization (Days 1–14):** Mycelium spreads; full colonization by
    day 10–14.
 3. **Consolidation (Days 14–21):** Mycelium strengthens for 3–7 additional
@@ -93,13 +93,13 @@ research.
 
 Golden Teacher holds a central position in amateur mycology. It is the most
 commonly recommended first strain for novice cultivators due to forgiving
-growth parameters, reliable yields, and extensive documentation. Its moderate
+[[chen-maitake-growth-parameters-environmental-control]], reliable yields, and extensive documentation. Its moderate
 potency suits all experience levels. Spores are among the most traded in the
 microscopy community, widely referenced in forums and cultivation guides.
 
 ## Genetic Stability and Lineage
 
-Golden Teacher demonstrates good genetic stability across multispore generations,
+Golden Teacher demonstrates good genetic [[psilocybin-level-stability-across-flushes]] multispore generations,
 retaining golden cap coloration, moderate potency, and growth parameters. Some
 phenotypic variation is expected; cloned sub-strains preserve traits more
 consistently. Multiple lineages circulate under the Golden Teacher name due to

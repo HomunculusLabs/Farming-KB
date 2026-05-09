@@ -1,5 +1,5 @@
 ---
-title: Legume Shade Tree Pasture Systems
+title: mollison designers legume shade tree pasture systems Tree Pasture Systems
 created: 2026-04-28
 tags:
   - agroforestry
@@ -17,7 +17,7 @@ type: concept
 # Legume Shade Tree Pasture Systems
 
 Leguminous shade trees integrated into pastoral systems represent one of the
-most productive and ecologically beneficial forms of [[permaculture-designers-manual-bamboo]], Bill Mollison describes how nitrogen-fixing
+most productive and ecologically beneficial forms of permaculture-designers-manual-bamboo, Bill Mollison describes how nitrogen-fixing
 trees such as Leucaena, Albizia, and Calliandra transform open pasture into
 multistrata production systems that simultaneously improve animal welfare,
 soil fertility, and overall farm productivity.
@@ -25,11 +25,11 @@ soil fertility, and overall farm productivity.
 ## Core Concept
 
 The integration of leguminous trees into pasture achieves multiple functions
-that conventional open pasture cannot provide. Shade trees reduce heat stress
+that conventional open pasture cannot provide. Shade trees reduce [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]]
 on livestock during hot seasons, which directly improves weight gain, milk
 production, and reproductive performance. The leguminous trees fix atmospheric
-nitrogen through symbiotic nitrogen fixation with rhizobial bacteria,
-enriching the soil and boosting pasture grass growth beneath the canopy.
+nitrogen through symbiotic [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] with rhizobial bacteria,
+enriching the soil and boosting [[mollison-designers-tropical-pasture-grass-species-and-establishment]] growth beneath the canopy.
 Many species also produce edible fodder, fuelwood, timber, and nectar for
 [[gaias-garden-stacking-functions]]
 in [[pasture-management]] and
@@ -111,4 +111,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

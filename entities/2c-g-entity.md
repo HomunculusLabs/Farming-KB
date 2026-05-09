@@ -9,7 +9,7 @@ sources:
 ---
 # 2C-G
 
-**PIHKAL Entry #27** -- 2,5-Dimethoxy-3,4-dimethylphenethylamine
+**[[2c-b-pihkal-entry-20]] #27** -- 2,5-Dimethoxy-3,4-dimethylphenethylamine
 
 ## Chemical Name
 
@@ -23,7 +23,7 @@ sources:
 
 ## Qualitative Effects
 
-2C-G produces a long-lasting, insight-enhancing psychedelic experience:
+2C-G produces a long-lasting, insight-enhancing [[leary-psychedelic-experience-bardo-mapping]]:
 
 - At 22 mg: functional but altered -- coffee tastes strange, energy tremor throughout, body generally at ease, mental effects only to ++ but pleasant
 
@@ -55,7 +55,7 @@ The compound demonstrated that the historical bias toward viewing amphetamines a
 
 - 2C-G-5 (benzonorbornane): 10-16 mg, 32-48 h
 
-The dimethyl substitution pattern at the 3,4-positions represents a departure from the typical 2C family structure, where the 4-position bears a single substituent and the 3-position is unsubstituted. By placing methyl groups at both positions, 2C-G creates a bulky, hydrophobic patch that projects differently into the receptor binding pocket compared to simpler 2C compounds.
+The dimethyl substitution pattern at the 3,4-positions represents a departure from the typical 2C [[md-family-structure-activity]], where the 4-position bears a single substituent and the 3-position is unsubstituted. By placing methyl groups at both positions, 2C-G creates a bulky, hydrophobic patch that projects differently into the [[tihkal-receptor-binding-serotonin]] pocket compared to simpler 2C compounds.
 
 ## Pharmacological Discussion
 

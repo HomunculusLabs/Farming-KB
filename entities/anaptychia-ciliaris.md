@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Smith, C.W., Aptroot, A., Coppins, B.J. et al. (2009). "The Lichens of Great Britain and Ireland." British Lichen Society.
   - Nash III, T.H. et al. (2004). "Lichen Biology." Cambridge University Press.
   - Purvis, O.W. et al. (1992). "The Lichen Flora of Great Britain and Ireland." Natural History Museum Publications.
@@ -20,7 +20,7 @@ sources:
 
 **Anaptychia ciliaris** is a large, foliose lichen in the family Physciaceae, commonly known as the **ciliate fringe lichen**. It is named for the conspicuous dark cilia (hair-like projections) along its lobe margins.
 
-The species is widespread in temperate regions of Europe, western North America, and parts of East Asia. It typically grows on the bark of deciduous trees in well-lit, open woodland habitats.
+The species is widespread in temperate regions of Europe, western North America, and parts of [[neurotropic-fungi-japan-east-asia-species-cultural-context]]. It typically grows on the bark of deciduous trees in well-lit, open woodland habitats.
 
 Anaptychia ciliaris is morphologically distinctive and relatively easy to identify in the field. Its combination of gray-brown upper surface, pale lower surface, and densely ciliated lobe margins separates it from most other foliose lichens.
 
@@ -44,7 +44,7 @@ Pycnidia (asexual fruiting bodies) are also frequently present, producing conidi
 
 ## Distribution and Habitat
 
-Anaptychia ciliaris has a broadly temperate distribution. In Europe, it occurs from Scandinavia and the British Isles south to the Mediterranean basin. In North America, it is found along the Pacific Coast from Alaska to California.
+Anaptychia ciliaris has a broadly [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]]. In Europe, it occurs from Scandinavia and the British Isles south to the Mediterranean basin. In North America, it is found along the Pacific Coast from Alaska to California.
 
 The species is corticolous (bark-dwelling), preferring the trunks and branches of deciduous trees, especially **oak** (*Quercus* spp.), **elm** (*Ulmus* spp.), and **ash** (*Fraxinus* spp.). It occasionally colonizes fence posts and weathered wood.
 
@@ -56,13 +56,13 @@ Elevation ranges from sea level to approximately 1500 m. It is more common in oc
 
 ## Chemistry and Bioactivity
 
-Anaptychia ciliaris contains **atranorin** in the cortex and **gyrophoric acid** in the medulla. These secondary metabolites are detected by spot tests: cortex K+ yellow, medulla C+ rose, KC+ rose, P+ rose.
+Anaptychia ciliaris contains **atranorin** in the cortex and **gyrophoric acid** in the medulla. These [[antifungal-secondary-metabolites-coprophilous-fungi]] are detected by spot tests: cortex K+ yellow, medulla C+ rose, KC+ rose, P+ rose.
 
 Atranorin has documented antimicrobial activity against several Gram-positive bacteria and some antifungal properties. It also serves as a UV-absorbing sunscreen compound, protecting the photobiont from excessive radiation.
 
 Gyrophoric acid is a depsidone with anti-inflammatory and antioxidant properties demonstrated in vitro. It is found in many lichen genera and contributes to the species' resistance to herbivory.
 
-Extracts of *A. ciliaris* have shown moderate cytotoxic activity against certain cancer cell lines in laboratory screening, though these results have not been pursued in clinical studies.
+Extracts of *A. ciliaris* have shown moderate cytotoxic activity against certain [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines in laboratory screening, though these results have not been pursued in clinical studies.
 
 The species is not known to contain any toxic compounds and has no documented history of use in traditional medicine. Its chemistry is relatively simple compared to many other foliose lichens.
 
@@ -74,7 +74,7 @@ The species plays a role in bark microhabitat complexity. Its thallus provides s
 
 Birds occasionally use fragments of *A. ciliaris* as nesting material. The cilia may help anchor the lichen fragments within the nest structure.
 
-Anaptychia ciliaris is moderately sensitive to air pollution, particularly nitrogen deposition. It has declined in parts of western Europe where agricultural ammonia emissions have increased bark nutrient levels, favoring nitrophytic species.
+Anaptychia ciliaris is moderately sensitive to air pollution, particularly [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]. It has declined in parts of western Europe where agricultural ammonia emissions have increased bark nutrient levels, favoring nitrophytic species.
 
 The ciliate margin may serve a defensive function, deterring invertebrate herbivores from grazing on the lobe edges where new growth occurs.
 

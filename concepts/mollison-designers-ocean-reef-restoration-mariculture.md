@@ -17,13 +17,13 @@ type: concept
 # Ocean Reef Restoration and Mariculture
 
 Mariculture and ocean restoration represent a significant but often
-overlooked dimension of permaculture design. In Permaculture: A
+overlooked dimension of [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. In Permaculture: A
 Designers' Manual (Chapter 11: The Humid Tropics, and Chapter 8:
 Water in the Landscape), Bill Mollison extends permaculture principles
 to coastal and marine environments, arguing that the same design ethics
 of earth care, people care, and fair share apply to ocean ecosystems.
 Coastal permaculture integrates land-based food production with marine
-resource management, creating productive buffer zones that protect
+[[savory-holistic-resource-management-animal-impact]], creating productive buffer zones that protect
 shorelines while generating food, fuel, and fiber.
 
 ## Seaweed Cultivation
@@ -31,7 +31,7 @@ shorelines while generating food, fuel, and fiber.
 Seaweed (macroalgae) is one of the most productive mariculture crops.
 Mollison notes that seaweeds can produce 10-20 times more biomass per
 hectare than terrestrial crops, requiring no freshwater, fertilizer, or
-arable land. Cultivation methods include:
+arable land. [[synthetic-log-cultivation-methods-guide]] include:
 
   - Rope culture: Seedlings are attached to ropes suspended in the
     water column from floating frames or buoys. Species include
@@ -61,8 +61,8 @@ quality. Mollison describes several shellfish cultivation approaches:
   - Bottom culture: Clams and scallops seeded directly onto
     suitable seabed substrates
 
-Shellfish farms provide ecosystem services including water
-filtration, nutrient cycling, and habitat structure. A single
+Shellfish farms provide [[biodiversity-of-fungi-ecosystem-services-agriculture]] including water
+filtration, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and habitat structure. A single
 oyster can filter up to 190 liters of water per day, removing
 excess nitrogen and particulate matter that contribute to
 eutrophication and algal blooms.
@@ -70,7 +70,7 @@ eutrophication and algal blooms.
 ## Fish Farming in Permaculture
 
 Permaculture fish farming emphasizes integrated, low-input systems
-that mimic natural ecosystem processes. Mollison distinguishes between
+that mimic natural [[fungal-ecosystem-processes-overview]]. Mollison distinguishes between
 intensive aquaculture (which he critiques for pollution and feed
 dependency) and extensive or integrated systems:
 
@@ -131,5 +131,8 @@ Coastal permaculture zones integrate land and sea systems:
 - mollison designers coastal zone management
 - mollison designers polyculture systems
 - [[mollison-designers-dam-construction-and-water-storage]]
-- [[mollison-designers-gabions-and-stone-weirs-for-gully-control]]
-- [[mollison-designers-geodesic-and-dome-structures]]
+- mollison-designers-gabions-and-stone-weirs-for-gully-control
+- mollison-designers-geodesic-and-dome-structures
+- [[permaculture-zones]]
+- [[permaculture-design]]
+- [[bill-mollison]]

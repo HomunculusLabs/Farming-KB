@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-Ralph Metzner's analysis of hallucinogenic drugs in psychotherapy and shamanism includes a detailed examination of the structure and technique of the shamanic journey.
+[[ralph-metzner]]'s analysis of [[hallucinogenic-drugs]] in [[metzner-hallucinogens-psychotherapy-and-shamanism]] includes a detailed examination of the structure and technique of the shamanic journey.
 
 The shamanic journey is the core practice of shamanism worldwide: a deliberate, structured entry into non-ordinary states of consciousness for purposes of healing, divination, and spiritual exploration.
 
@@ -33,7 +33,7 @@ The upper world is typically described as a realm of celestial beings, divine te
 
 Each world has its own inhabitants, its own physics, and its own kind of knowledge, and the shaman travels between them to gather information, retrieve lost souls, or negotiate with spirits.
 
-The three-world model is remarkably consistent across cultures separated by vast distances and historical periods, from Siberia to the Amazon to Mesoamerica.
+The three-world model is remarkably consistent across cultures separated by vast distances and [[neurotropic-fungi-five-historical-periods]], from Siberia to the Amazon to Mesoamerica.
 
 ## The Departure Phase
 
@@ -41,7 +41,7 @@ The shamanic journey begins with a deliberate departure from ordinary consciousn
 
 The departure is not an accidental or passive process but a skilled, intentional transition managed by the shaman through years of training and practice.
 
-In plant-based traditions, the departure is facilitated by the ingestion of specific hallucinogenic preparations such as ayahuasca, peyote, psilocybin mushrooms, or iboga.
+In plant-based traditions, the departure is facilitated by the ingestion of specific hallucinogenic preparations such as ayahuasca, peyote, [[psilocybin-mushrooms]], or iboga.
 
 The pharmacological effects of the plant are understood not as the cause of the journey but as a vehicle or bridge that carries the shaman's consciousness from the middle world into the other worlds.
 
@@ -83,7 +83,7 @@ The shaman functions as a guide for both the journeyer and the community, using 
 
 The shaman's knowledge includes the pharmacology of psychoactive plants, the geography of the non-ordinary worlds, the languages of the spirits, and the techniques for diagnosis and healing.
 
-In group ceremonies, the shaman manages the set and setting for all participants, using songs, chants, and rituals to create a safe container for the collective journey.
+In group ceremonies, the shaman manages the [[set-and-setting]] for all participants, using songs, chants, and rituals to create a safe container for the collective journey.
 
 The shaman's songs—known as icaros in the Amazonian tradition—are believed to have power in themselves, structuring the experience and communicating with the spirits.
 

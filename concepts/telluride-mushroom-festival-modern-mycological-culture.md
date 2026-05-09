@@ -1,5 +1,5 @@
 ---
-title: "The Telluride Mushroom Festival and Modern Mycological Culture"
+title: "The Telluride modern-mushroom-festival-culture and Modern Mycological Culture"
 created: 2026-04-26
 tags:
   - mushroom-festival
@@ -33,11 +33,11 @@ hand to help with identification. The day's pickings are diligently
 wrapped in wax paper and carried back to the town centre, where they
 are formally identified, labelled and laid out in a marquee for all to
 see. Some of America's top mycologists lecture on all aspects of
-fungal taxonomy, ecology, or conduct workshops on cultivation. The
-latest technique is apparently growing mushrooms on newspaper and
+[[molecular-methods-fungal-taxonomy-and-diversity]], ecology, or conduct workshops on cultivation. The
+latest technique is apparently [[falconer-growing-mushrooms-in-sheds]] on newspaper and
 cardboard.
 
-The festival combines the serious scientific study of fungi with a
+The festival combines the serious [[roger-heim-scientific-study-psilocybin]] of fungi with a
 broader cultural celebration of mushroom lore. It attracts both
 dedicated amateur mycologists and those drawn by the more mystical
 or countercultural associations of mushrooms. This dual character
@@ -51,14 +51,14 @@ in mushrooms has expanded dramatically. The 1970s saw the first waves
 of popular interest in magic mushrooms, but the current era has seen
 mushroom enthusiasm diversify far beyond psychedelic use. Functional
 mushrooms like lion's mane, reishi, and cordyceps have entered
-mainstream wellness culture. The mycorrhizal networks connecting
+mainstream wellness culture. The [[dighton-mycorrhizal-networks-carbon-transfer]] connecting
 forest trees have captured public imagination through books like
 Merlin Sheldrake's Entangled Life. Mycological societies have seen
 membership surge.
 
 The Telluride festival sits at the confluence of these streams.
 Attendees may come for the rigorous taxonomy workshops, the culinary
-mushroom cookery demonstrations, the mushroom identification forays,
+mushroom cookery demonstrations, the [[psilocybin-mushroom-identification-guide]] forays,
 or the more esoteric lectures on psychedelic fungi and their cultural
 history. The festival does not discriminate between these motivations,
 treating all forms of mushroom enthusiasm as equally valid.
@@ -114,9 +114,11 @@ mushrooms, whether as food, medicine, intoxicant, or object of wonder,
 is not merely surviving in the modern world but adapting and
 flourishing in new forms.
 
-## Related Topics
+## Related
 
-- [[mushroom-foraging-traditions-europe]] - European foraging
+- [[modern-mushroom-festival-culture]] Topics
+
+- mushroom-foraging-traditions-europe - European foraging
   - traditions
 - [[neo-shamanic-phenomenology-and-limits-of-science]] - neo-shamanic
   - culture

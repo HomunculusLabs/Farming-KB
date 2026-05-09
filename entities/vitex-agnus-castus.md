@@ -42,7 +42,7 @@ The inflorescence is a terminal, erect spike (raceme) 10–25 cm (4–10 inches)
 The fruit is a small, hard, spherical drupe (berry-like) 3–4 mm (0.12–0.16 inches) in diameter, resembling black pepper corns — hence the common name "monk's pepper." Fruits ripen from green to dark brown or black and contain four small seeds. The dried ripe fruits (chasteberry) are the primary medicinal plant part.
 
 ### Root System
-The root system is extensive and deep, with a well-developed taproot and widespread lateral roots. This deep root architecture contributes to the species' exceptional drought tolerance once established.
+The root system is extensive and deep, with a well-developed taproot and widespread lateral roots. This deep root architecture contributes to the species' exceptional [[dighton-fungal-drought-tolerance-plant-water-relations]] once established.
 
 ## Distribution and Habitat
 
@@ -57,7 +57,7 @@ The species has been widely planted and naturalized far beyond its native range:
 - **Southern United States:** Common ornamental and naturalized in the southeastern states (Texas, Louisiana, Georgia, Florida, the Carolinas), where it is valued for heat tolerance and butterfly attraction
 - **Australia:** Established in southeastern Australia; classified as an environmental weed in some coastal areas of Victoria and New South Wales
 - **South America:** Naturalized in parts of Argentina and Chile
-- **India:** Widely planted as a medicinal and ornamental shrub
+- **India:** Widely planted as a medicinal and [[hamilton-ornamental-shrub-care]]
 
 ### Habitat Preferences
 - **Mediterranean scrubland (maquis and garrigue):** A characteristic species of these fire-adapted plant communities
@@ -77,12 +77,12 @@ Chaste tree has one of the longest documented histories of medicinal use in West
 - **Menopausal symptoms:** Used for hot flashes, night sweats, and mood changes during perimenopause, though evidence is less robust than for PMS
 
 ### Phytochemistry
-The key bioactive compounds responsible for the medicinal activity are concentrated in the dried ripe fruits:
+The key [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] responsible for the medicinal activity are concentrated in the dried ripe fruits:
 
-- **Diterpenes:** Casticin, rotundifuran, vitexilactone, and 6β,7β-dihydroxyvitexilactone — the most pharmacologically significant constituents. These compounds act as dopamine D2 receptor agonists in the anterior pituitary, inhibiting prolactin secretion
+- **Diterpenes:** Casticin, rotundifuran, vitexilactone, and 6β,7β-dihydroxyvitexilactone — the most pharmacologically significant constituents. These compounds act as dopamine D2 [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] in the anterior pituitary, inhibiting prolactin secretion
 - **Iridoid glycosides:** Aucubin, agnuside, and catalpol — anti-inflammatory and hepatoprotective activity
 - **Flavonoids:** Casticin, penduletin, vitexin, isovitexin, orientin, and quercetagetin — antioxidant and anti-inflammatory effects
-- **Essential oil:** Rich in α-pinene, 1,8-cineole, limonene, and sabinene; contributes the aromatic properties and has mild antimicrobial activity
+- **[[permaculture-designers-manual-essential-oil-plants]]:** Rich in α-pinene, 1,8-cineole, [[limonene]], and [[sabinene]]; contributes the aromatic properties and has mild antimicrobial activity
 - **Linoleic acid:** Present at significant concentrations in the seed oil (15–20%); anti-inflammatory precursor
 - **Volatile amines:** Trace amounts of compounds with dopaminergic activity identified in fruit extracts
 
@@ -109,8 +109,7 @@ The long flowering period (8–12 weeks from July through September) makes chast
 - **Bees:** Honeybees, bumblebees, and various solitary bee species forage extensively on the flowers
 - **Beneficial wasps:** Parasitic wasps critical for [[drought-tolerant-planting-design]], requiring minimal supplemental irrigation. Its deep taproot system accesses groundwater unavailable to shallower-rooted plants, making it an excellent choice for:
 
-- **Xeriscaping:** A cornerstone plant in water wise orchard irrigation landscaping in Mediterranean and warm-temperate climates
-- **Food forest canopy edge:** Suitable as a small tree or large shrub in the mid-layer of food forest designs, providing dappled shade for understory herbs while requiring no irrigation
+- **Xeriscaping:** A cornerstone p water water wise orchard irrigation irrigation rigation landscaping in Mediterranean and warm-temperate clima food forest d forest canopy edge:** Suitable as a small tree or large shrub in the mid-layer of food forest designs, providing dappled shade for understory herbs while requiring no irrigation
 - **Riparian buffer margins:** Thrives on the edges of seasonal waterways where periodic flooding is followed by extended dry periods
 
 ### Dynamic Accumulator and Soil Builder

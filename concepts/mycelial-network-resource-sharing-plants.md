@@ -1,5 +1,5 @@
 ---
-title: Mycelial Network Resource Sharing Between Plants
+title: gadd-mycelial-network-dynamics Resource Sharing Between Plants
 source: general knowledge
 topics:
   - mycology
@@ -13,8 +13,8 @@ topics:
 
 ## Overview
 
-Mycelial networks, often popularly called the "mycorrhizal networks and the wood wide web web,"
-form vast undergroun dark septate endophytes and non mycorrhizal fungal symbioses een plants through
+[[fungal-mycelial-networks-nutrient-translocation]], often popularly called the "[[dighton-mycorrhizal-networks-carbon-transfer]] and the wood wide web web,"
+form vast undergroun dark [[dark-septate-endophytes-root-colonizing-fungi]] and non mycorrhizal fungal symbioses een plants through
 mycorrhizal fungal hyphae. These networks facilitate the
 transfer of carbon, nitrogen, phosphorus, water, and even
 chemical defense signals between individual plants, sometimes
@@ -33,7 +33,7 @@ advantage for plants in shared networks.
 
 ## Ecological Implications
 
-CMNs influence plant community composition, succession
+CMNs influence plant [[core-endorhiza-bacterial-community-composition-cannabis]], succession
 dynamics, and ecosystem productivity. By facilitating seedling
 establishment near mature plants (nursing effect), CMNs
 promote biodiversity and canopy gap filling. They may also
@@ -52,7 +52,7 @@ challenging.
 
 ## Methods
 
-Key techniques include stable isotope probing (13C, 15N, 2H),
+Key techniques include [[fungal-stable-isotope-ecology]] probing (13C, 15N, 2H),
 radioactive tracers (14C), DNA-based fungal identification to
 confirm network connectivity, microdialysis for in situ soil
 chemistry, and increasingly, molecular tools like transcriptomics
@@ -61,7 +61,7 @@ roots but allow hyphae remain the standard design.
 
 ## See Also
 
-- [[fungal-resource-translocation-in-mycelial-networks]]
+- fungal-resource-translocation-in-mycelial-networks
 ## Practical Considerations
 
 Successful implementation of Mycelial Network Resource Sharing Between Plants requires attention to
@@ -80,4 +80,6 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+- [[wood-wide-web]]
+- [[decomposition]]
+- [[dark-septate-endophytes]]

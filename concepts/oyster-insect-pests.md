@@ -1,5 +1,5 @@
 ---
-title: "Insect Pests of Oyster Mushrooms"
+title: "Insect Pests of query-how-to-grow-oyster-mushrooms-at-home"
 created: 2026-04-28
 tags: [pests, insects, mites, sciarids, pest-management]
 date: 2026-04-28
@@ -10,7 +10,7 @@ type: concept
 
 # Insect Pests of Oyster Mushrooms
 
-Oyster mushroom cultivation beds provide ideal conditions for insect pests:
+Oyster [[accessible-mushroom-cultivation-for-disabilities]] beds provide ideal conditions for insect pests:
 plentiful food, warm temperatures, and high humidity. Five kinds of flies and
 two types of mites are reported as the major pests affecting oyster mushroom
 production. These pests damage crops by feeding on mycelia and fruiting
@@ -102,12 +102,12 @@ Sanitation and hygiene form the foundation of pest management:
 - Install mesh screening with apertures not exceeding 0.5-0.6mm on air
   inlets to exclude adult flies
 - Keep doors closed during spawning and mycelium growth phases
-- Maintain low fly populations during spawn run to prevent the initial
+- Maintain low fly populations during [[mushroom-spawn-run-thermogenesis-cotter]] to prevent the initial
   infestations that produce high populations later
 - Pasteurize substrates thoroughly, especially for mite control
-- Burn mosquito coils inside growing houses as effective fly control
+- Burn mosquito coils inside growing houses as effective [[jadam-fly-control-livestock]]
 - Minimize the number of people entering growing rooms
-- Monitor pest populations regularly using sticky traps and visual
+- Monitor pest populations regularly using [[cervantes-sticky-traps-pest-monitoring]] and visual
   inspection to detect infestations early
 
 ## Seasonal Patterns

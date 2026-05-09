@@ -45,7 +45,7 @@ The naturally occurring (−)-enantiomer is significantly more pharmacologically
 
 ## Natural Sources
 
-α-Bisabolol is biosynthesized via the mevalonate pathway and accumulates in the essential oils of several plant families.
+α-Bisabolol is biosynthesized via the mevalonate pathway and accumulates in the [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of several plant families.
 
 **Matricaria chamomilla** (German chamomile) is the most well-known source, where α-bisabolol constitutes up to 50% of the essential oil in high-quality chemotypes. The compound was first isolated from chamomile in the 1950s and has since been the subject of extensive pharmacological investigation.
 
@@ -53,9 +53,9 @@ The naturally occurring (−)-enantiomer is significantly more pharmacologically
 
 **Vanillosmopsis arborea** (Brazilian candeia) is a related species also used for commercial bisabolol extraction, though E. erythrocladus is the preferred source.
 
-**Cannabis sativa** produces α-bisabolol as a secondary terpene. While typically present at 0.01–0.5% of essential oil content, select cultivars express higher concentrations. It is found in trace amounts across many chemovars but is most notable in strains with sweet, floral aroma profiles.
+**[[comparison-cannabis-sativa-vs-cannabis-indica]]** produces α-bisabolol as a secondary terpene. While typically present at 0.01–0.5% of essential oil content, select cultivars express higher concentrations. It is found in trace amounts across many chemovars but is most notable in strains with sweet, floral aroma profiles.
 
-Other minor botanical sources include myrrh (Commiphora myrrha), sandalwood (Santalum album), and certain Salvia species.
+Other minor [[dmt-botanical-sources-pharmacology]] include myrrh (Commiphora myrrha), sandalwood (Santalum album), and certain Salvia species.
 
 ## Pharmacology and Biological Activity
 
@@ -63,7 +63,7 @@ Other minor botanical sources include myrrh (Commiphora myrrha), sandalwood (San
 
 **Anti-inflammatory activity:** Reduces pro-inflammatory cytokine production (TNF-α, IL-1β, IL-6) and inhibits COX-2 and NF-κB signaling pathways. Topical application reduces edema and leukocyte migration in animal inflammation models. These effects underpin its traditional use for skin irritation and inflammatory dermatological conditions.
 
-**Antimicrobial activity:** Demonstrates activity against Gram-positive bacteria (Staphylococcus aureus, Streptococcus pyogenes), Candida albicans, and some dermatophyte fungi. The mechanism involves disruption of microbial cell membrane integrity.
+**Antimicrobial activity:** Demonstrates activity against Gram-positive bacteria (Staphylococcus aureus, Streptococcus pyogenes), [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], and some dermatophyte fungi. The mechanism involves disruption of microbial cell membrane integrity.
 
 **Analgesic properties:** Exhibits peripheral and central analgesic effects in rodent models, partially mediated through interaction with opioid and TRP (transient receptor potential) channels, particularly TRPV1 and TRPA1.
 
@@ -73,7 +73,7 @@ Other minor botanical sources include myrrh (Commiphora myrrha), sandalwood (San
 
 ## Cannabis Terpene Context
 
-Within the cannabis terpene profile, α-bisabolol is classified as a minor terpene but contributes meaningfully to the entourage effect. Its presence is associated with strains exhibiting sweet, floral, and mildly spicy aroma profiles.
+Within the cannabis terpene profile, α-bisabolol is classified as a minor terpene but contributes meaningfully to the [[cannabis-terpene-entourage-effect-profiles]]. Its presence is associated with strains exhibiting sweet, floral, and mildly spicy aroma profiles.
 
 Strains with notable bisabolol content tend to be favored by medical cannabis patients seeking anti-inflammatory effects. The compound's demonstrated ability to reduce skin inflammation and promote wound healing makes it particularly relevant for topical cannabis preparations.
 
@@ -81,7 +81,7 @@ Synergistic interactions between bisabolol and cannabinoids (particularly CBD) h
 
 ## Industrial and Cosmetic Applications
 
-α-Bisabolol is one of the most widely used terpenes in the global cosmetics industry, valued for its pleasant floral scent, skin-soothing properties, and excellent safety profile.
+α-Bisabolol is one of the most widely used terpenes in the global cosmetics industry, valued for its pleasant floral scent, skin-soothing properties, and excellent [[cannabis-safety-profile-and-overdose-risk]].
 
 It is formulated into creams, lotions, sunscreens, aftershave products, baby care items, and oral care products. Concentrations in cosmetic formulations typically range from 0.1–1.0%. The compound is approved by major regulatory agencies (EU Cosmetics Regulation, FDA GRAS list) for topical use.
 

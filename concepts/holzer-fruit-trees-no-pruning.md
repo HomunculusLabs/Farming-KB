@@ -5,7 +5,8 @@ updated: 2026-04-21
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Fruit Tree Cultivation Without Pruning
@@ -40,7 +41,7 @@ holzer fruit trees no pruning | [[holzer-experiences-soil-test-areas]] | [[sepp-
 2. Holzer's Krameterhof farm at 1,500m elevation in Austria proves that extreme climates can support abundant food production.
 3. The method relies on creating diverse microclimates through strategic use of water, earthworks, and plant placement.
 4. Raised beds and hugelkultur are central techniques that improve drainage, warmth, and soil fertility simultaneously.
-5. Animal integration — particularly pigs and poultry — plays a crucial role in soil preparation and pest management.
+5. [[mollison-animal-integration-permaculture-design]] — particularly pigs and poultry — plays a crucial role in soil preparation and pest management.
 6. Holzer emphasizes the importance of observing the land for at least a year before making major design decisions.
 7. Water retention landscapes including ponds and swales are key infrastructure elements in Holzer's approach.
 8. The method avoids synthetic inputs entirely, relying on natural cycles and biological diversity for fertility and pest control.
@@ -52,7 +53,7 @@ holzer fruit trees no pruning | [[holzer-experiences-soil-test-areas]] | [[sepp-
 - Walk the land extensively during different seasons and weather conditions before beginning any earthworks or planting.
 - Construct raised beds using available materials — logs, branches, soil, and organic matter in layered mounds.
 - Install ponds and water features at high points to enable gravity-fed irrigation and create reflective microclimates.
-- Integrate livestock grazing patterns with crop rotation to naturally fertilize and manage vegetation.
+- Integrate [[savory-livestock-grazing-planning]] patterns with crop rotation to naturally fertilize and manage vegetation.
 - Plant fruit trees and berry bushes on mounds and slopes where water drainage is optimal.
 - Use stone walls and large rocks as thermal mass to create warm microclimates for heat-loving crops.
 - Establish polyculture strips with diverse root depths, growth habits, and maturity dates.
@@ -65,11 +66,11 @@ Related topics in this wiki include: [[sepp-holzer-method]], [[sepp-holzer-terra
 
 Sepp Holzer began farming on his family's steep mountain land in Austria as a teenager, learning through experimentation.
 The Krameterhof demonstrates that high-altitude farms can be more productive than conventional lowland operations.
-Holzer's fish ponds serve multiple functions: aquaculture, irrigation, fire protection, and microclimate creation.
-Terrace construction on slopes prevents erosion while creating level planting areas with improved water retention.
-Mushroom cultivation on logs and in raised beds provides additional food production and aids decomposition.
+Holzer's fish ponds serve multiple functions: aquaculture, irrigation, fire protection, and [[mollison-designers-microclimate-creation-frost-protection]].
+[[holzer-terrace-construction-guide]] on slopes prevents erosion while creating level planting areas with improved water retention.
+[[accessible-mushroom-cultivation-for-disabilities]] on logs and in raised beds provides additional food production and aids decomposition.
 Holzer's pig paddock system uses animals to root and fertilize soil in controlled areas before planting.
-Ancient grain varieties selected for mountain conditions show superior resilience and nutritional quality.
+Ancient grain varieties selected for mountain conditions show superior resilience and [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
 The method has been successfully adapted in projects across Europe, Africa, Asia, and the Americas.
 
 Sepp Holzer began farming on his family's steep mountain land in Austria as a teenager, learning through experimentation.
@@ -92,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

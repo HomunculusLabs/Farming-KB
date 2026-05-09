@@ -1,5 +1,5 @@
 ---
-title: "Cannabis Sativa and Indica Classification"
+title: "comparison-cannabis-sativa-vs-cannabis-indica and Indica Classification"
 created: 2026-04-28
 tags: [cannabis, sativa, indica, taxonomy, chemotype, strain-selection]
 date: 2026-04-25
@@ -34,7 +34,7 @@ shorter, bushier, and have broader leaflets than sativa varieties. They tend
 to produce a more body-centered, sedating effect profile, which many patients
 find beneficial for pain relief, muscle relaxation, sleep promotion, and
 anxiety reduction. Indica strains generally have shorter flowering cycles and
-are better suited for indoor cultivation.
+are better suited for [[cannabis-sativa-indoor-cultivation-techniques]].
 
 Cannabis sativa varieties originated in equatorial regions and are typically
 taller with narrower leaflets. They produce what many patients describe as a
@@ -58,13 +58,13 @@ making them more challenging for indoor cultivation.
   subjective psychoactive effect profiles
 - Taxonomic debate continues about whether cannabis represents one species
   or multiple distinct species
-- Strain selection should be based on observed therapeutic response rather
+- [[blesching-cannabis-strain-selection-receptor-targeting]] should be based on observed therapeutic response rather
   than classification alone
 
 ## Therapeutic Differences by Classification
 
 The therapeutic effects associated with sativa and indica classifications
-relate primarily to their differing cannabinoid and terpene profiles. Sativas
+relate primarily to their differing cannabinoid and [[cannabis-terpene-profiles-sativa]]. Sativas
 and sativa-heavy hybrids tend to have higher THC-to-CBD ratios and encourage
 a more activating, cerebral experience. These strains activate both CB1 and
 CB2 receptors relatively equally, similar to how the endogenous cannabinoid
@@ -81,7 +81,7 @@ of the anxiety-producing effects of THC.
 
 It is important to note that the sativa-indica classification is a
 generalization and that individual strain effects can vary significantly.
-Factors including growing conditions, harvest timing, curing methods, and
+Factors including growing conditions, [[cannabis-harvest-timing-visual-cues]], curing methods, and
 individual patient biochemistry all influence the actual therapeutic response.
 Patients are encouraged to track their responses to different strains and
 adjust their selections based on personal experience rather than relying
@@ -115,7 +115,7 @@ conversations with healthcare providers about cannabis-based treatment.
 Strain selection is one of the most practical aspects of medical cannabis
 therapy. For conditions requiring daytime alertness and cognitive function,
 patients may prefer sativa or sativa-dominant hybrid strains. For evening use,
-sleep disorders, or conditions requiring significant pain relief and muscle
+[[cannabis-sleep-disorders-and-insomnia]], or conditions requiring significant pain relief and muscle
 relaxation, indica or indica-dominant strains may be more appropriate.
 Balanced hybrids can provide a middle ground for patients who need both mental
 and physical therapeutic effects simultaneously.

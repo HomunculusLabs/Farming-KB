@@ -62,9 +62,9 @@ The morpheein model adds another possibility: proteins can dissociate, change sh
 
 Allosteric regulation is a central mechanism of metabolic feedback control. A pathway end product may inhibit the first committed enzyme, preventing wasteful accumulation when the product is abundant.
 
-Adenine nucleotides often report and cellular energy state: ATP signals energy sufficiency, while AMP or ADP signals energy stress. Phosphofructokinase in glycolysis integrates ATP, AMP, citrate, and fructose-2,6-bisphosphate to tune carbon flux.
+Adenine nucleotides often report and [[adenosine-triphosphate-and-cellular-energy]] state: ATP signals energy sufficiency, while AMP or ADP signals energy stress. Phosphofructokinase in glycolysis integrates ATP, AMP, citrate, and fructose-2,6-bisphosphate to tune [[fungal-respiration-carbon-flux]].
 
-Aspartate transcarbamoylase integrates pyrimidine demand through allosteric effects of CTP and ATP. These examples show why allostery is not a decorative property but a core design principle of biochemical networks.
+Aspartate transcarbamoylase integrates pyrimidine demand through allosteric effects of CTP and ATP. These examples show why allostery is not a decorative property but a core [[design-principle-integration]] of biochemical networks.
 
 It lets one enzyme serve as a computational node that weighs substrate availability, energy status, and downstream demand.
 
@@ -114,19 +114,19 @@ Not every noncompetitive inhibitor is a clean allosteric modulator; aggregation,
 
 A distant binding site does not prove functional coupling unless the binding event measurably changes another site or activity.
 
-A crystal structure can miss the relevant state if the important allosteric pocket is transient, membrane-dependent, or stabilized only by a partner protein.
+A [[crystal-structure-and-crystal-defects]] can miss the relevant state if the important allosteric pocket is transient, membrane-dependent, or stabilized only by a partner protein.
 
 Hill coefficients are useful diagnostics, but they are not mechanistic proof of a particular model.
 
 Allosteric ligands can show probe dependence, meaning their effect changes with different orthosteric ligands tested in the same receptor.
 
-This can be a feature in drug design but a trap when data from different assays are compared without context.
+This can be a feature in [[bioisosterism-in-drug-design]] but a trap when data from different assays are compared without context.
 
 ## Related Concepts
 
-Allosteric regulation overlaps with [[enzyme-kinetics-michaelis-menten-model]], [[fungal-environmental-sensing]].
+Allosteric regulation overlaps with [[enzyme-kinetics-michaelis-menten-model]], fungal-environmental-sensing.
 
-A practical distinction is that enzyme inhibition describes an observed effect, while allostery explains one class of mechanisms that can create that effect.
+A practical distinction is that [[enzyme-inhibition]] describes an observed effect, while allostery explains one class of mechanisms that can create that effect.
 
 In systems biology, allosteric control is one of the fastest regulatory layers because it changes existing protein activity without requiring transcription or translation.
 

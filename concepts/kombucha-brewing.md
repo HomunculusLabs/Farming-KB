@@ -1,5 +1,5 @@
 ---
-title: Kombucha Brewing
+title: query-how-does-kombucha-brewing-work
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,13 +9,13 @@ sources: []
 
 ## What Is Kombucha
 
-Kombucha is a fermented tea beverage produced using a symbiotic culture of bacteria and yeast (SCOBY). The fermentation process converts sugar and tea compounds into organic acids, B vitamins, enzymes, and probiotics. The result is a lightly effervescent, tangy drink that has been brewed for centuries, likely originating in Manchuria.
+Kombucha is a [[kombucha-and-fermented-teas-guide]] beverage produced using a symbiotic culture of bacteria and yeast (SCOBY). The fermentation process converts sugar and tea compounds into organic acids, B vitamins, enzymes, and probiotics. The result is a lightly effervescent, tangy drink that has been brewed for centuries, likely originating in Manchuria.
 
 ## The SCOBY
 
 The SCOBY (Symbiotic Culture of Bacteria and Yeast) is a gelatinous cellulose mat that forms on the surface of fermenting kombucha. It houses:
 
-- Acetobacter species (acetic acid bacteria) — produce acetic acid, giving kombucha its tang
+- Acetobacter species (acetic [[bionutrients-lab-lactic-acid-bacteria-serum]]) — produce acetic acid, giving kombucha its tang
 - Gluconacetobacter — produces gluconic acid and builds the cellulose pellicle
 - Various yeast strains (Saccharomyces, Zygosaccharomyces) — consume sugar and produce ethanol and CO2
 - Lactobacillus species — contribute lactic acid and additional probiotics
@@ -41,7 +41,7 @@ The SCOBY needs sugar as fuel. Most sugar is consumed during fermentation; finis
 - White cane sugar — standard, cleanest fermentation
 - Organic evaporated cane juice — slight mineral benefit
 - Honey — use raw and unfiltered; may slow fermentation initially
-- Avoid artificial sweeteners, stevia, or monk fruit — the SCOBY cannot metabolize them
+- Avoid artificial sweeteners, stevia, or [[comparison-stevia-vs-monk-fruit-sweetener-cultivation]] — the SCOBY cannot metabolize them
 
 Typical ratio: 1 cup sugar per gallon of tea. Dissolve sugar fully in hot tea before cooling.
 
@@ -78,7 +78,7 @@ The second ferment (2F) is where kombucha becomes fizzy and flavored.
 
 1. Remove the SCOBY and 1/2 cup starter liquid — set aside for the next batch
 2. Strain the kombucha into bottles (swing-top glass bottles work best)
-3. Add flavorings: fresh fruit, fruit juice, herbs, spices, ginger, etc.
+3. Add flavorings: fresh fruit, [[bionutrients-lab-fermented-fruit-juice-ffj]], herbs, spices, ginger, etc.
 4. Leave 1-2 inches of headspace in each bottle
 5. Seal tightly and ferment at room temperature for 2-7 days
 6. "Burp" bottles daily to release excess pressure and avoid explosions
@@ -117,6 +117,8 @@ The second ferment (2F) is where kombucha becomes fizzy and flavored.
 - Start with 4-8 oz per day and increase gradually to assess tolerance
 
 ## See Also
+
+- [[liquid-gelato]]
 
 - [[kefir-making]] — another cultured beverage using grains
 - [[vinegar-making]] — related acetic acid fermentation process

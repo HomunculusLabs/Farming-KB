@@ -1,18 +1,11 @@
 ---
-title: "Comparison Banana Circle Vs Herb Spiral"
-created: 2026-05-02
-updated: 2026-05-02
-type: comparison
-tags: [general]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
----
-title: Banana Circle vs [[herb-spiral]]
+title: Banana Circle vs herb-spiral
 date: 2026-04-25
 updated: 2026-04-25
 tags: [comparison, permaculture, garden-design, tropical, water-management]
 sources:
+  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
@@ -27,13 +20,13 @@ sunken pit system designed for tropical and subtropical climates that processes
 organic waste and greywater while producing massive biomass through 
 heavy-feeding crops. The herb spiral is a raised stone mound that creates 
 vertical microclimates for herb cultivation, functioning primarily as an 
-ornamental and productive kitchen garden feature. Both demonstrate 
+ornamental and productive [[holzer-kitchen-garden-herbs-and-medicinal-plants]] feature. Both demonstrate 
 permaculture's principle of multiple functions, but they serve entirely 
 different ecological niches and gardener needs.
 
 ## Banana Circle
 
-A banana circle is a sunken circular pit approximately 2 meters across and 0.6 
+[[query-what-is-a-banana-circle-in-permaculture]] is a sunken circular pit approximately 2 meters across and 0.6 
 to 1 meter deep, with the excavated soil mounded around the rim as a raised 
 berm. The pit is filled with coarse mulch, green waste, and kitchen scraps that 
 decompose rapidly in tropical conditions. Bananas, papayas, sweet potatoes, and 
@@ -62,7 +55,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +97,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

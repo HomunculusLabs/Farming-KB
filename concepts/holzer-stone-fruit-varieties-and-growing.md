@@ -1,12 +1,4 @@
 ---
-title: Holzer Stone Fruit Varieties and Growing
-created: 2026-04-18
-updated: 2026-04-18
-type: concept
-tags: [holzer, permaculture, homesteading]
-sources:
-  - raw/papers/sepp-holzer-practical-guide.md
----
 
 # Holzer Stone Fruit Varieties and Growing
 
@@ -18,8 +10,14 @@ Holzer provides specific variety recommendations for damsons and plums, all sele
 
 | Variety | Location | Ripening | Characteristics |
 |---------|----------|----------|----------------|
-## See Also
 
+## See Also
+- holzer-stone-cellar-construction
+- [[holzer-recommended-old-fruit-varieties]]
+- huckleberries and wild berries of north america
+- [[sepp-holzer-fruit-tree-varieties]]
+- [[holzer-soft-fruit-bushes-and-berries]]
+- [[winter-gardening-season-extension]]
 - holzer stone fruit varieties and growing
 
 ## Merged: Best Stone Fruit Varieties for Different Climate Zones
@@ -28,11 +26,11 @@ Holzer provides specific variety recommendations for damsons and plums, all sele
 
 ## What Are Chill Hours and Why Do They Matter?
 
-Chill hours are the cumulative number of hours between 32°F (0°C) and 45°F (7.2°C) that a deciduous [[brown-rot-fungi-cellulose-degradation-wood-decay]], but the short growing season increases risk of [[fruit-growing-guide-organic]] regions. Most commercial stone fruit production in North America falls within these zones, offering the widest selection of varieties.
+Chill hours are the cumulative number of hours between 32°F (0°C) and 45°F (7.2°C) that a deciduous brown-rot-fungi-cellulose-degradation-wood-decay, but the short growing season increases risk of fruit-growing-guide-organic regions. Most commercial stone fruit production in North America falls within these zones, offering the widest selection of varieties.
 
 ### Recommended Varieties
 
-- **Peaches:** Elberta (800–950), Redhaven (800–850), Madison (700–850), Cresthaven (850–950). Redhaven is widely considered the benchmark [[organic-fruit-tree-care-calendar]] for planting and training guidelines, and [[coleman-season-extension-timeline-and-frost-protection]] for zone 3–4 specific strategies.
+- **Peaches:** Elberta (800–950), Redhaven (800–850), Madison (700–850), Cresthaven (850–950). Redhaven is widely considered the benchmark organic-fruit-tree-care-calendar for planting and training guidelines, and coleman-season-extension-timeline-and-frost-protection for zone 3–4 specific strategies.
 
 ---
 
@@ -51,18 +49,19 @@ Chill hours are the cumulative number of hours between 32°F (0°C) and 45°F (7
 
 ## Frequently Asked Questions
 
-**Can I grow stone fruits in zone 2?** Stone fruits are generally not viable in zone 2 (-50°F to -40°F). The extreme cold kills dormant buds and can cause trunk splitting. Saskatoon berries (Amelanchier alnifolia) and Siberian pea shrub (Caragana arborescens) are better-adapted alternatives for cold-hardy fruit production.
+**Can I grow [[fruit-growing-guide-organic|stone fruit]]s in zone 2?** Stone fruits are generally not viable in zone 2 (-50°F to -40°F). The extreme cold kills dormant buds and can cause trunk splitting. Saskatoon berries (Amelanchier alnifolia) and Siberian pea shrub (Caragana arborescens) are better-adapted alternatives for cold-hardy fruit production.
 
 **What if my chill hours are borderline?** Select varieties with chill requirements 100–150 hours below your typical winter accumulation. This provides a buffer for warm winters. Keep records of chill hour accumulation over multiple years using weather station data or a chill hours calculator.
 
-**Are there disease-resistant varieties for the humid Southeast?** Yes. The University of Florida and USDA-Byron have bred bacterial spot-resistant peaches (e.g., Gulf varieties). For brown rot, no variety is fully immune, but Oriental-type peaches show partial tolerance. Cultural practices (sanitation, pruning, fungicide timing) remain essential.
+**Are there disease-resistant varieties for the humid Southeast?** Yes. The University of Florida and USDA-Byron have bred bacterial spot-resistant peaches (e.g., Gulf varieties). For [[comparison-brown-rot-vs-white-rot-bioremediation]], no variety is fully immune, but Oriental-type peaches show partial tolerance. Cultural practices (sanitation, pruning, fungicide timing) remain essential.
 
 **Can I grow sweet cherries in the deep South?** Only with careful low-chill variety selection (Royal Lee, Minnie Royal) and even then, production is inconsistent. Most gardeners in zones 9–10 will have more success with figs, persimmons, citrus, and low-chill peaches as alternatives.
 
 **How do I count chill hours?** The simplest method is to count hours between 32°F and 45°F from November 1 through February 28 using local weather data. More sophisticated models (e.g., Utah Chill Model, Dynamic Model) weight partial chilling and account for negation by high temperatures. Many university extension offices provide regional chill hour tracking tools.
+
 ## Practical Considerations
 
-Successful implementation of Holzer Stone Fruit Varieties and Growing requires attention to
+Successful implementation of [[holzer-farming-philosophy|Holzer]] Stone holzer stone fruit varieties and growing and Growing requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -78,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

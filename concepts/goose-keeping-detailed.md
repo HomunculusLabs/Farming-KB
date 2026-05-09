@@ -4,7 +4,8 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 
 # Goose Keeping Detailed Guide
@@ -17,7 +18,7 @@ Geese eat grass and weeds and in return fertilize the soil while leaving crops a
 - Fence at least 3 feet (0.9 m) high
 - Can live in Zone 2, especially if you also keep ducks
 - Remove from garden before it ripens (they will eat fruit and vegetables)
-- Can be let into Zone 1 vegetable garden after plants like strawberries and tomatoes are large enough to withstand walking
+- Can be let into Zone 1 [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] after plants like strawberries and tomatoes are large enough to withstand walking
 - Six geese maximum per acre of water surface
 - Heavy breeds will not breed without sufficient water
 
@@ -69,7 +70,7 @@ Difficult without practice. Flip upside down and examine vent. Less accurate met
 - Brooder space: 1.5 sq ft (0.14 sq m) until 7 weeks, then 2.5 sq ft (0.23 sq m)
 - Maximum 25 goslings per 250-watt heat lamp
 - Feed 4 times daily, enough to eat in 15 minutes
-- Diet: tender green grass/weeds, duck food, grit
+- Diet: tender [[knf-green-grass-liquid-fertilizer]]/weeds, duck food, grit
 - At 5-6 weeks: can survive on large pasture (1 acre per 20-40 geese), add grain optional
 - Butcher before winter when pinfeathers are not growing in (they grow in cycles)
 - Goose grease traditionally used for frying, pastry, and hand salves (greasier than other meats)
@@ -83,6 +84,6 @@ Difficult without practice. Flip upside down and examine vent. Less accurate met
 ## See Also
 
 - [[duck-keeping-guide-detailed]]
-- [[chicken-integration-permaculture-guide]]
+- chicken-integration-permaculture-guide
 - [[growing-vegetables-with-less-fertilizer]]
 - [[gaias-garden-cover-crops-soil-building]]

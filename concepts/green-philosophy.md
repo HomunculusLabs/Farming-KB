@@ -1,5 +1,5 @@
 ---
-title: Green Philosophy
+title: fukuoka-sowing-green-philosophy-one-grain-revolution
 created: 2026-04-28
 tags: [philosophy, ecology, agriculture, ethics]
 date: 2026-04-28
@@ -14,7 +14,7 @@ type: concept
 Farming*, is a comprehensive worldview that extends far beyond agricultural
 technique into epistemology, ethics, spirituality, and the relationship between
 human knowledge and ecological destruction. Fukuoka subtitled his book "The
-Theory and Practice of Green Philosophy," indicating that natural farming was
+Theory and Practice of Green Philosophy," indicating that [[comparison-natural-farming-vs-permaculture]] was
 both an expression of and a laboratory for a deeper philosophical stance toward
 nature.
 
@@ -27,7 +27,7 @@ imposes artificial order on systems that are inherently holistic and
 interconnected. This fragmentation leads to interventions that address isolated
 symptoms while disrupting the larger patterns that sustain health and balance.
 
-He described scientific agriculture as the primary manifestation of this error.
+He described [[fukuoka-critique-scientific-agriculture-civilization]] as the primary manifestation of this error.
 By studying soil chemistry in isolation from soil biology, plant pathology in
 isolation from ecosystem dynamics, and individual crop yields in isolation from
 long-term land productivity, agricultural science generates knowledge that is
@@ -58,7 +58,7 @@ instead align human activity with existing natural patterns.
 Green philosophy holds that nature, left to its own processes, maintains
 balance and productivity without human management. Forests grow without
 planting, soil builds fertility without fertilization, insects remain in
-equilibrium without pesticides, and fruit trees bear abundantly without
+equilibrium without pesticides, and [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] bear abundantly without
 pruning. These are not romantic idealizations, in Fukuoka's account, but
 empirical observations from decades of farming practice. The role of the farmer
 is not to impose order on chaos but to recognize and participate in the order
@@ -88,8 +88,8 @@ of philosophical and spiritual development.
 ## Distinguishing Green Philosophy from Environmentalism
 
 Fukuoka was careful to distinguish green philosophy from mainstream
-environmentalism. He criticized organic farming as "just another type of
-scientific farming" — substituting natural inputs for synthetic ones while
+environmentalism. He criticized [[coleman-deep-organic-farming-philosophy]] as "just another type of
+[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]" — substituting natural inputs for synthetic ones while
 maintaining the same paradigm of human intervention and control. Many
 environmental protection efforts, he argued, "are actually destructive" when
 examined from a broader perspective, because they manage symptoms while leaving
@@ -99,7 +99,7 @@ the natural world.
 
 ## See Also
 
-- [[oyster-mushroom-green-mold-disease]]
+- oyster-mushroom-green-mold-disease
 - [[fukuoka-western-eastern-philosophy-agriculture]]
 - [[natural-farming]]
 - [[do-nothing-farming]]

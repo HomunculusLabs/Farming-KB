@@ -42,7 +42,7 @@ G. aurea is widely distributed across South America, with records from Brazil, P
 
 The species inhabits seasonally wet or permanently moist sandy soils. Typical habitats include riverbanks, sandy savannas, wet grasslands, and the margins of shallow pools and streams.
 
-G. aurea is an annual or short-lived perennial that completes its life cycle during the wet season. Above-ground portions may die back during dry periods, with the plant surviving as dormant buds or seed.
+G. aurea is an annual or short-lived perennial that completes its [[bloomfield-fungal-life-cycle-spiral-versus-circle]] during the wet season. Above-ground portions may die back during dry periods, with the plant surviving as dormant buds or seed.
 
 It often grows in shallow water or saturated sand, with the rosette at or slightly above the water level. The underground traps extend into the wet substrate below.
 
@@ -66,7 +66,7 @@ Flowering occurs primarily during the wet season. The flowers are bilabiate, wit
 
 Pollination is likely performed by small bees and flies attracted to the bright coloration. The flowers are self-compatible, ensuring seed set even in the absence of pollinators.
 
-Seed capsules produce numerous tiny seeds. The seeds are dispersed by water and may remain viable in the soil seed bank for extended periods, allowing the species to persist through unfavorable conditions.
+Seed capsules produce numerous tiny seeds. The seeds are dispersed by water and may remain viable in the soil [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]] for extended periods, allowing the species to persist through unfavorable conditions.
 
 ## Research Significance
 
@@ -78,7 +78,7 @@ Comparative genomic studies have used G. aurea to investigate the evolution of g
 
 ## Cultivation
 
-G. aurea is cultivated by specialist carnivorous plant growers, though it remains less common in collections than bladderworts or sundews. Its annual growth habit requires regular seed sowing for continuous cultivation.
+G. aurea is cultivated by specialist carnivorous plant growers, though it remains less common in collections than bladderworts or sundews. Its annual growth habit requires [[vic-high-selfing-and-regular-seed-production]] sowing for continuous cultivation.
 
 Plants are typically grown in shallow trays of sandy peat or pure silica sand kept continuously saturated. Warm conditions (20–30°C) and strong light promote growth and flowering.
 
@@ -92,7 +92,7 @@ Genlisea aurea is not currently listed as threatened, owing to its wide distribu
 
 Wetland drainage for agriculture and urban development has reduced available habitat in several regions. The species' dependence on seasonally wet sandy soils makes it particularly vulnerable to hydrological changes.
 
-Collection from the wild for the horticultural trade is minimal. The species is readily propagated from seed, and commercial availability through tissue culture has reduced any pressure from wild harvesting.
+Collection from the wild for the horticultural trade is minimal. The species is readily propagated from seed, and commercial availability through [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] has reduced any pressure from wild harvesting.
 
 ## Ecological Interactions
 
@@ -111,5 +111,7 @@ Above ground, the flowers support pollinator communities. The nectar produced by
 - [[drosera-capensis]]
 - [[sarracenia-purpurea]]
 - [[heliamphora-nutans]]
-- [[darlingtonia-californica]]
+- darlingtonia californica
 - [[byblis-liniflora]]
+
+- [[genlisea-margaretae]]

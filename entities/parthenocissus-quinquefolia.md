@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Moore, M.O. (1991). "Parthenocissus." In: Flora of North America, Vol. 3, Oxford University Press.
+  - Moore, M.O. (1991). "Parthenocissus." In: Flora of psilocybin-north-america-pacific-northwest, Vol. 3, Oxford University Press.
   - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." 6th ed., Stipes Publishing.
   - Clemants, S.E. & Moore, G. (2005). "The native flora of the New York City region." Journal of the Torrey Botanical Society, 132(3), 428–456.
   - Lack, H.W. (2001). "A garden of antiquity." Curtis's Botanical Magazine, 18(2), 89–103.
@@ -67,21 +67,21 @@ Propagation is readily achieved by seed (requiring cold stratification), softwoo
 
 The species requires minimal maintenance once established. Pruning, when necessary, is best performed in late winter or early spring before bud break.
 
-The spectacular autumn foliage colour is its primary ornamental attribute. In large-scale landscape plantings, Virginia creeper is used for erosion control on slopes and as a ground cover in shaded areas.
+The spectacular autumn foliage colour is its primary ornamental attribute. In large-scale landscape plantings, Virginia creeper is used for [[permplant-willows-salix-erosion-control-fodder]] on slopes and as a ground cover in shaded areas.
 
-The species is recommended for green roof and green wall installations due to its drought tolerance, rapid establishment, and low maintenance requirements. Its root system helps stabilise soil on steep banks.
+The species is recommended for green roof and green wall installations due to its [[dighton-fungal-drought-tolerance-plant-water-relations]], rapid establishment, and low maintenance requirements. Its root system helps stabilise soil on steep banks.
 
-In permaculture designs, Virginia creeper serves as a multipurpose plant providing wildlife habitat, erosion control, and seasonal aesthetic value. Its productivity as a biomass accumulator contributes organic matter to the soil surface.
+In permaculture designs, Virginia creeper serves as a multipurpose plant providing wildlife habitat, erosion control, and seasonal aesthetic value. Its productivity as a biomass accumulator contributes [[hamilton-composting-and-organic-matter-management]] to the soil surface.
 
 ## Bioactive Compounds and Toxicity
 
-Virginia creeper contains calcium oxalate crystals in its sap and tissues, which can cause contact dermatitis in sensitive individuals. The berries contain oxalic acid and are mildly toxic if ingested in quantity.
+Virginia creeper contains [[fungal-calcium-oxalate-crystals]] crystals in its sap and tissues, which can cause contact dermatitis in sensitive individuals. The berries contain oxalic acid and are mildly toxic if ingested in quantity.
 
 Symptoms of berry ingestion include nausea, vomiting, diarrhoea, and abdominal pain. Cases of serious poisoning are rare, as the bitter taste of the berries generally discourages consumption. Children are the most commonly affected group.
 
 The sap can cause skin irritation and blistering in susceptible individuals, similar to but generally milder than poison ivy dermatitis. Gardeners should wear gloves when pruning large specimens.
 
-Despite these cautions, the species has been used in traditional medicine. Native American tribes prepared leaf infusions as a wash for skin conditions and used root preparations for various ailments.
+Despite these cautions, the species has been used in traditional medicine. [[halpern-sacramental-peyote-and-native-american-church]] tribes prepared leaf infusions as a wash for skin conditions and used root preparations for various ailments.
 
 ## Ecological Role
 

@@ -14,7 +14,7 @@ Animal tractoring in [[chicken-tractor-systems]] and pig tractor systems.
 
 The fundamental principle of animal tractoring is that concentrated animal activity on a defined area can replace mechanical cultivation, herbicide application, and synthetic fertilisation. Animals scratch, root, trample, and manure the ground, preparing it for planting while adding fertility. The key is to confine animals at sufficient density to achieve the desired land preparation effect within a defined time period, then move them to the next area.
 
-Animal tractor systems follow the same rotational pattern as managed grazing, but with higher stock density and shorter duration. The high density ensures thorough ground disturbance and manure coverage. The short duration prevents over-grazing or soil damage. The rotation allows each area to recover and be planted before the animals return.
+Animal tractor systems follow the same rotational pattern as managed grazing, but with higher [[savory-fencing-economics-and-stock-density-curve]] and shorter duration. The high density ensures thorough ground disturbance and manure coverage. The [[savory-short-duration-grazing-and-cell-systems]] prevents over-grazing or soil damage. The rotation allows each area to recover and be planted before the animals return.
 
 ## Chicken Tractor Systems
 
@@ -26,17 +26,17 @@ The chickens are moved to the next plot, and in about 6-8 weeks vegetables are i
 
 ## Advanced Chicken Tractor Design
 
-Mollison reports seeing numerous chicken tractors, all different. Some incorporate passionfruit fence and trellis crops, some function as vegetable gardens, and some prepare ground for small fruit trees or herbaceous orchards. All are remarkable for lack of weeds and high production.
+Mollison reports seeing numerous [[mollison-designers-chicken-tractors-egg-production]], all different. Some incorporate passionfruit fence and trellis crops, some function as vegetable gardens, and some prepare ground for small fruit trees or herbaceous orchards. All are remarkable for lack of weeds and high production.
 
 In more mature cycles, buckwheat, [[comfrey-plant-guide]], call for a pig tractor. The density of pigs per pen should be at the proportion of 50 per hectare for full clearance of weeds.
 
-In practice, 0.5-2 hectare plots are fenced, most economically using permanent electric fencing, which is much cheaper than chicken mesh fencing. Once each pen is bare after 6-10 weeks and rough-ploughed by rooting pigs, it is easy to plant lucerne, comfrey sets, sunroot (Jerusalem artichoke), sweet potato, Inga trees, papaya, banana, and similar crops for pig forages, and to maintain this rotation until the pigs return.
+In practice, 0.5-2 hectare plots are fenced, most economically using permanent electric fencing, which is much cheaper than chicken mesh fencing. Once each pen is bare after 6-10 weeks and rough-ploughed by rooting pigs, it is easy to plant lucerne, comfrey sets, sunroot ([[comparison-jerusalem-artichoke-vs-potato]]), sweet potato, Inga trees, papaya, banana, and similar crops for pig forages, and to maintain this rotation until the pigs return.
 
 ## Large-Scale Pig Tractor Systems
 
 On a large scale of 20-40 hectares, the pig tractor system can pioneer high-quality milk-cow pasture of chicory, dandelion, [[fukuoka-duck-rice-fish-polyculture]] integrated farming.
 
-Rabbit tractors can be used for small-scale soil preparation and fertilisation in garden systems. Rabbits are less destructive to perennial plants than chickens or pigs and produce concentrated manure. Mobile rabbit hutches with open bottoms allow rabbits to fertilise and lightly cultivate garden beds. See [[goat-husbandry]] for more on goat management.
+Rabbit tractors can be used for small-scale soil preparation and fertilisation in garden systems. Rabbits are less destructive to perennial plants than chickens or pigs and produce concentrated manure. Mobile rabbit hutches with open bottoms allow rabbits to fertilise and lightly cultivate garden beds. See [[goat-husbandry]] for more on [[mollison-designers-goat-management-and-browsing-systems]].
 
 ## Integration with Cropping Systems
 
@@ -46,7 +46,7 @@ The timing of the rotation is critical. Crops should be planted immediately afte
 
 ## Benefits
 
-Animal tractor systems offer multiple benefits. They replace mechanical cultivation and herbicide application with animal labour. They convert weeds and pest insects into animal protein. They distribute manure evenly across the land. They break pest and disease cycles through rotation. They reduce feed costs by allowing animals to harvest their own forage. They improve soil structure through the physical action of animals on the ground.
+Animal tractor systems offer multiple benefits. They replace mechanical cultivation and herbicide application with animal labour. They convert weeds and pest insects into animal protein. They distribute manure evenly across the land. They break [[hamilton-pest-and-disease-control-organic]] cycles through rotation. They reduce feed costs by allowing animals to harvest their own forage. They improve soil structure through the physical action of animals on the ground.
 
 ## Design Considerations
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

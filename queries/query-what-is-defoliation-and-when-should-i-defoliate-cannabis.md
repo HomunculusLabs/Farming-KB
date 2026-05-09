@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [query, cannabis, training, pruning, yield]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -34,22 +35,22 @@ producing and maintaining large fan leaves. While these leaves
 are essential for photosynthesis during the
 [[cannabis-flowering-stage]]
 it begins to redirect energy away from foliage and toward
-reproductive growth. By strategically removing leaves that are
+[[knf-reproductive-growth-stage]]. By strategically removing leaves that are
 not directly contributing to bud development, you help the plant
 focus its energy where it matters most.
 
 There are two main approaches to defoliation. The first involves
-removing large fan leaves during the vegetative stage, typically
+removing large fan leaves during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]], typically
 2 to 3 weeks before the flip to flowering. This early defoliation
 opens up the canopy structure and encourages lateral branching,
 which is especially beneficial when combined with training
-techniques like [[water-in-permaculture]].
+techniques like water-in-permaculture.
 
 The second approach is defoliation during early flowering,
 usually around weeks 2 to 3 after the flip, when the plant has
 stretched and lower leaves may be blocking light to newly forming
 bud sites. This timing takes advantage of the natural transition
-the plant is already making from vegetative growth to flower
+the plant is already making from [[cannabis-vegetative-growth-stage]] to flower
 production.
 
 [[lollipopping]], which involves removing the lower growth entirely so the plant focuses energy on the top colas. While defoliation removes individual leaves throughout the canopy, lollipopping strips the lower branches clean. Many growers combine both techniques for maximum effect. The [[cannabis-flowering-stage-management]] page
@@ -58,14 +59,14 @@ covers the timeline in more detail.
 Some growers also avoid defoliating autoflowering varieties
 altogether because these plants have a fixed life cycle and
 limited recovery time, unlike photoperiod strains that can be
-kept in vegetative growth indefinitely. Environmental factors
+kept in vegetative growth indefinitely. [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
 should also be considered before defoliating. Plants that are
 already stressed from heat, nutrient issues, or pest problems
 should not be defoliated until they have recovered fully.
 
-Good airflow in the growing environment is also important because
+Good airflow in the [[cannabis-growing-environment-setup]] is also important because
 removing foliage increases light exposure to areas that may be
-more prone to humidity-related problems if air circulation is
+more prone to humidity-related problems if [[stamets-growing-room-air-circulation-co2-management]] is
 inadequate. The technique works best on healthy, vigorously
 growing plants with established root systems that can support the
 increased metabolic demands of flowering.
@@ -94,4 +95,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

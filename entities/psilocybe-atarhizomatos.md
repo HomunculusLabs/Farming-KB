@@ -11,8 +11,8 @@ created: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Guzmán, G. (2005). The Genus Psilocybe: A Systematic Revision of the Known Species. Verlag von Cramer."
-  - "Guzmán, G., Allen, J.W. & Gartz, J. (2000). A Worldwide Geographical Distribution of the Neurotropic Fungi. Bibliotheca Mycologica, 193."
-  - "Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press."
+  - "Guzmán, G., Allen, J.W. & Gartz, J. (2000). A Worldwide Geographical Distribution of the [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]. Bibliotheca Mycologica, 193."
+  - "Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press."
   - "Guzmán, G. & Tapia, F. (1973). \"The genus Psilocybe in Mexico.\" Beih. Nova Hedwigia, 74, 273–289."
 ---
 
@@ -48,7 +48,7 @@ Section placement has varied between *Stuntzii* and *Mexicanae* across different
 - Surface smooth, hygrophanous, reddish-brown to ochraceous when moist
 - Fading to pale straw-yellow or cream upon drying
 - Margin sometimes appendiculate with partial veil remnants in young specimens
-- Bluing reaction moderate on handling or bruising
+- [[field-guide-psilocybin-bluing-reaction-identification]] moderate on handling or bruising
 
 ### Lamellae
 
@@ -60,7 +60,7 @@ Section placement has varied between *Stuntzii* and *Mexicanae* across different
 
 - Stem 30–60 mm long, 1–2 mm thick, cylindrical, equal or slightly enlarged at base
 - Surface smooth to finely fibrillose, white to pale brownish
-- Base with conspicuous rhizomorphic mycelium (a key diagnostic feature)
+- Base with conspicuous [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]] (a key diagnostic feature)
 - Context stuffed or hollow, bluing strongly where handled
 - Partial veil evanescent, sometimes leaving a faint annular zone
 
@@ -117,13 +117,13 @@ Related species in section *Stuntzii* and *Mexicanae* are cultivated on steriliz
 
 The species likely requires cooler incubation temperatures (18–22°C) consistent with its high-elevation montane origin.
 
-Spore germination is generally slow among section *Stuntzii* members, often requiring 2–4 weeks on standard agar media.
+[[growing-gourmet-spore-germination-strain-isolation]] is generally slow among section *Stuntzii* members, often requiring 2–4 weeks on standard agar media.
 
 No commercial spawn or cultivation kits are available for this species.
 
 ## See Also
 
 - [[psilocybe-mexicana]] — Sclerotia-producing species in section *Mexicanae*
-- [[psilocybe-semilanceata]] — Liberty cap, one of the most potent known species
+- [[psilocybe-semilanceata]] — [[peter-mantle-liberty-cap-chromatographic-discovery-1969]], one of the most potent known species
 - [[psilocybe-cyanescens]] — Wavy caps, widespread in the Pacific Northwest
 - [[psilocybin]] — Primary psychoactive compound in bluing *Psilocybe* species

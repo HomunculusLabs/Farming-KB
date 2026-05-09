@@ -1,5 +1,5 @@
 ---
-title: Compost Toilet Humanure Systems
+title: mollison designers compost toilet humanure systems Humanure Systems
 created: 2026-04-28
 tags:
   - waste-recycling
@@ -16,7 +16,7 @@ type: concept
 
 # Compost Toilet Humanure Systems
 
-Compost toilets and humanure systems represent a fundamental shift in how
+Compost [[composting-toilet-systems]] systems represent a fundamental shift in how
 human waste is perceived and managed. In the [[soil-nutrient-cycling]] resource
 that should be returned to productive landscapes.
 
@@ -45,7 +45,7 @@ common design uses two or more sealed chambers or containers. While one
 chamber fills with fresh deposits and cover material, the previous chamber
 ages and composts. After a sufficient retention period (typically 6 to 12
 months), the composted material is removed and applied to non-food crops or
-fruit trees.
+[[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]].
 
 The classic batch toilet consists of a toilet seat mounted over a container
 (a 20-litre bucket or larger bin). After each use, the deposit is covered
@@ -106,7 +106,7 @@ pathogen destruction. Key safety practices include:
   climates, 12 months or more in temperate climates
 - Achieving thermophilic temperatures where possible
 - Applying finished compost to non-food crops or fruit trees rather than
-  root vegetables or leafy greens eaten raw
+  [[growing-root-vegetables-guide]] or [[solomon-leafy-greens-growing]] eaten raw
 - Practising good hygiene when handling compost or emptying containers
 
 ## Integration with Permaculture Design
@@ -128,5 +128,5 @@ recycling.
 ## References
 
 - Mollison, Bill. *Permaculture: A Designers' Manual.* Tagari Publications,
-  1988. Sections on waste and nutrient cycling.
-- Related concepts: [[soil-nutrient-cycling]], [[sewage-waste-recycling-permaculture]], [[humanure-composting]]
+  1988. Sections on waste and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
+- Related concepts: [[soil-nutrient-cycling]], sewage-waste-recycling-permaculture, [[humanure-composting]]

@@ -1,5 +1,5 @@
 ---
-title: Natural Intelligence and the Universal Computation
+title: powell [[computational-universe-and-natural-intelligence]] and the universal computation and the Universal Computation
 created: 2026-04-28
 tags: [natural-intelligence, universal-computation, information-theory,
   consciousness, evolution, gaia]
@@ -62,7 +62,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -140,4 +140,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

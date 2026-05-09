@@ -102,7 +102,7 @@ DXM is one of the most commonly abused over-the-counter drugs, particularly
 among adolescents. It is typically consumed as cough syrup, gel capsules,
 or extracted powder.
 
-**Adverse effects include:** tachycardia, hypertension, hyperthermia,
+**[[blesching-cannabis-safety-adverse-effects-evidence]] include:** tachycardia, hypertension, hyperthermia,
 nystagmus, ataxia, nausea, vomiting, urinary retention, and serotonin
 syndrome when combined with MAOIs or SSRIs.
 
@@ -119,7 +119,7 @@ remains debated.
 In 2022, the FDA approved Auvelity (dextromethorphan 45 mg / bupropion
 105 mg) for major depressive disorder. Bupropion inhibits CYP2D6, increasing
 DXM bioavailability. This combination demonstrated rapid antidepressant
-effects in clinical trials, with improvement observed within one week.
+effects in [[mushroom-cancer-clinical-trials-overview]], with improvement observed within one week.
 
 DXM has also been investigated for pseudobulbar affect, neuropathic pain,
 and as a neuroprotective agent in stroke models, though these applications

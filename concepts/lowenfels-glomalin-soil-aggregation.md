@@ -16,8 +16,8 @@ type: concept
 
 # Glomalin and Soil Aggregation
 
-Glomalin is a glycoprotein produced by arbuscular mycorrhizal fungi (AMF)
-that plays a central role in soil aggregation and carbon sequestration.
+Glomalin is a glycoprotein produced by [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF)
+that plays a central role in soil aggregation and [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]].
 Discovered by USDA researcher Sara Wright in 1996, glomalin has transformed
 our understanding of how [[lowenfels-cover-crops-soil-biology]] that maintain living root systems are
 essential for sustaining glomalin production.
@@ -26,7 +26,7 @@ essential for sustaining glomalin production.
 
 Glomalin's primary function in soil is to bind mineral particles together
 into stable aggregates. Soil aggregates are clusters of sand, silt, and clay
-particles held together by organic compounds, biological filaments, and
+particles held together by [[fungal-volatile-organic-compounds-communication]], biological filaments, and
 electrochemical forces. Glomalin acts as a persistent biological glue,
 coating particle surfaces and creating sticky junction points where particles
 bind together. This binding creates water-stable aggregates that resist
@@ -37,7 +37,7 @@ Aggregate stability is critical for soil health for several reasons:
 - Aggregation protects organic matter inside aggregates from rapid
   decomposition
 - Well-aggregated soils resist erosion and surface crusting
-- Aggregate formation creates diverse pore sizes that support different
+- [[soil-aggregate-formation-fungal-contributions]] creates diverse pore sizes that support different
   soil organisms
 - Stable aggregates improve root penetration and seedling emergence
 
@@ -77,7 +77,7 @@ rainfall events and release it gradually to plants over time.
 The improvement in water-holding capacity has practical significance for
 drought resilience. Soils with high glomalin content maintain plant-available
 water longer during dry periods, reducing crop stress and irrigation needs.
-In the context of climate change and increasing water scarcity, building
+In the context of [[dighton-fungi-climate-change-feedback]] and increasing water scarcity, building
 glomalin-rich soils through biological management is a practical adaptation
 strategy.
 
@@ -94,6 +94,6 @@ physical structure of soil, making it a bridge between biological and
 physical soil health. Aggregates formed with glomalin provide habitat for
 the [[lowenfels-soil-protozoa-cycling]], and shelter for
 [[lowenfels-soil-food-web-succession]]
-from bacterial to fungal dominance corresponds with increasing glomalin
+from [[ingham-bacterial-to-fungal-succession-soil-food-web]] dominance corresponds with increasing glomalin
 accumulation as ecosystems mature. Glomalin exemplifies the central thesis
 of Lowenfels and Lewis: that biological processes, not chemical inputs, are

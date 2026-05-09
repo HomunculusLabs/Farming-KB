@@ -1,5 +1,5 @@
 ---
-title: "Homobrassinolide Chemistry and Synthesis from Stigmasterol"
+title: "22s-23s-homobrassinolide-chemistry-and-synthesis and Synthesis from Stigmasterol"
 created: 2026-04-28
 tags: [chemistry, brassinosteroid, homobrassinolide, stigmasterol, phytohormones, synthesis]
 date: 2026-04-28
@@ -13,7 +13,7 @@ type: concept
 22S,23S-homobrassinolide is a synthetic brassinosteroid prepared from the
 plant sterol stigmasterol. It was the specific compound used in the landmark
 Gartz, Adam, and Vorbrodt (1990) study demonstrating that brassinosteroids
-promote fungal growth. Understanding its chemical structure and origin is
+promote [[brassinosteroid-fungal-growth-promotion]]. Understanding its chemical structure and origin is
 essential for replicating the study and exploring brassinosteroid applications
 in mycology.
 
@@ -21,7 +21,7 @@ in mycology.
 
 Brassinosteroids are a class of polyhydroxylated steroidal lactones that
 function as plant growth hormones. By 1990, approximately 30 members had been
-identified across angiosperms, gymnosperms, and green algae. Homobrassinolide
+identified across angiosperms, gymnosperms, and [[cervantes-green-algae-growing-medium]]. Homobrassinolide
 belongs to the subgroup of brassinosteroids with an extended side chain
 (homologated at C-24), distinguishing it from the parent compound brassinolide
 by an additional methylene group in the side chain.

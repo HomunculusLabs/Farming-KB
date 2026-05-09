@@ -1,5 +1,5 @@
 ---
-title: Cider vs Mead Making
+title: comparison cider vs mead making Making
 created: 2026-04-28
 tags: [fermentation, brewing, homesteading, alcohol, comparison]
 date: 2026-04-28
@@ -10,7 +10,7 @@ type: comparison
 
 # Cider vs Mead Making
 
-Cider and mead are two of the oldest and most accessible fermented beverages a homesteader can produce. Both are simpler than beer brewing and more forgiving than grape wine, yet each has a distinct character rooted in its single defining ingredient: apples for cider, honey for mead. Understanding their differences helps you choose the right project for your season, available inputs, and patience level.
+Cider and mead are two of the oldest and most accessible fermented beverages a homesteader can produce. Both are simpler than [[comparison-beer-brewing-vs-cider-making]] and more forgiving than grape wine, yet each has a distinct character rooted in its single defining ingredient: apples for cider, honey for mead. Understanding their differences helps you [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] project for your season, available inputs, and patience level.
 
 ## Overview
 
@@ -47,7 +47,7 @@ The higher sugar content of mead means more alcohol, more stress on the yeast, a
 
 ## Yeast Selection
 
-Cider yeast choices include Nottingham Ale for clean neutral character, Lalvin 71B for fruity sweetness, Safale US-05 for dry American-style cider, Mangrove Jack's M02 for enhanced fruit aromatics, and Lalvin EC-1118 for complete dryness in sparkling ciders. Wild fermentation on apple skins is also viable for funky, terroir-driven results.
+Cider yeast choices include Nottingham Ale for clean neutral character, Lalvin 71B for fruity sweetness, Safale US-05 for dry American-style cider, Mangrove Jack's M02 for enhanced fruit aromatics, and Lalvin EC-1118 for complete dryness in sparkling ciders. [[comparison-wild-fermentation-vs-commercial-starter-culture]] on apple skins is also viable for funky, terroir-driven results.
 
 Mead yeast choices overlap considerably: Lalvin 71B and D47 are versatile workhorses with 14% ABV tolerance. Lalvin EC-1118 handles up to 18% for big meads. Lalvin K1-V1116 offers vigorous fermentation and fruity character. Red Star Premier Blanc enhances floral notes. The higher alcohol tolerance requirements of mead make yeast selection somewhat more critical than in cider.
 
@@ -90,9 +90,9 @@ Mead is drinkable as a session mead at 1 month, but standard meads (8 to 14% ABV
 
 **Cider pitfalls**: oxidation from delayed pressing or careless racking; thin body from low starting gravity (below 1.045); bacterial spoilage if pH exceeds 3.8; off-flavors from supermarket apples treated with post-harvest chemicals; dead yeast creating off-flavors if not racked promptly off the lees. Low gravity can be corrected by adding sugar or juice concentrate before fermentation begins. High gravity above 1.065 produces overly strong cider that may need dilution or simply more aging.
 
-**Mead pitfalls**: stalled fermentation from nutrient deficiency, the single most common problem; hydrogen sulfide from stressed yeast lacking nitrogen; medicinal or band-aid flavors from chlorinated water; excessively hot alcohol character in young high-gravity batches; finished mead that is too dry or too sweet depending on fermentation completeness. Stalled fermentation can be rescued by adding Fermaid-O, warming the must, or repitching with a more tolerant yeast strain.
+**Mead pitfalls**: stalled fermentation from [[cannabis-grow-nutrient-deficiency-problem-solving]], the single most common problem; hydrogen sulfide from stressed yeast lacking nitrogen; medicinal or band-aid flavors from chlorinated water; excessively hot alcohol character in young high-gravity batches; finished mead that is too dry or too sweet depending on fermentation completeness. Stalled fermentation can be rescued by adding Fermaid-O, warming the must, or repitching with a more tolerant yeast strain.
 
-The common thread is that both beverages reward careful sanitation, proper ingredient selection, and patience. But mead's requirement for nutrient management adds a layer of complexity that cider simply does not have. Both benefit from potassium metabisulfite additions at each racking to prevent oxidation. Both should be stabilized with potassium sorbate and sulfite before backsweetening to prevent dangerous bottle re-fermentation.
+The common thread is that both beverages reward careful sanitation, proper ingredient selection, and patience. But mead's requirement for [[green-cannabis-grow-bible-nutrient-management-ppm]] adds a layer of complexity that cider simply does not have. Both benefit from potassium metabisulfite additions at each racking to prevent oxidation. Both should be stabilized with potassium sorbate and sulfite before backsweetening to prevent dangerous bottle re-fermentation.
 
 ## Cost Comparison
 

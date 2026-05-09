@@ -44,7 +44,7 @@ water surface. Each frond is bilobed, with a dorsal lobe containing the
 symbiont-containing cavity and a ventral lobe floating on the water surface.
 
 Fronds are green to reddish-bronze, with color shifting to deep red under
-stress (cold, phosphorus deficiency, high light). Roots hang 2–5 cm below
+stress (cold, [[query-how-to-fix-phosphorus-deficiency-in-cannabis]], high light). Roots hang 2–5 cm below
 the frond into the water column, absorbing nutrients directly.
 
 The symbiotic cyanobacterium *Nostoc azollae* inhabits a specialized cavity
@@ -59,7 +59,7 @@ Zealand as a biofertilizer and ornamental plant.
 
 It thrives in still or slow-moving freshwater bodies: ponds, ditches, rice
 paddies, and marshes. Optimal conditions include water temperature 18–30°C,
-pH 5.5–7.5, full sun, and moderate phosphorus availability.
+pH 5.5–7.5, full sun, and moderate [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]].
 
 Azolla can survive brief freezing and temperatures up to 35°C. Under
 tropical conditions it grows year-round; in temperate climates it dies back
@@ -119,7 +119,7 @@ In permaculture water systems, azolla serves multiple functions:
 - **Animal feed**: Renewable on-site protein for poultry and fish.
 - **Climate resilience**: Shade cools water, reduces evaporation.
 
-Azolla integrates into duckweed-based wastewater treatment systems,
+Azolla integrates into duckweed-based [[mollison-designers-wastewater-treatment-wetlands]] systems,
 chinampas-style aquaponic beds, and backyard rice paddies. In aquaponics,
 it absorbs dissolved nutrients and provides supplemental feed for fish.
 
@@ -127,15 +127,15 @@ it absorbs dissolved nutrients and provides supplemental feed for fish.
 
 *A. filiculoides* is considered invasive outside its native range.
 Its rapid growth can completely cover water bodies, blocking light,
-depleting dissolved oxygen, and displacing native vegetation.
+depleting [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]], and displacing native vegetation.
 
-Management requires physical removal and biological control (the weevil
+Management requires physical removal and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] (the weevil
 *Stenopelmus rufinasus* is an effective specialist herbivore). Local
 regulations should be checked before introducing azolla to new water bodies.
 
 ## Related Species
 
-- *Azolla caroliniana* Willd. — North American native; similar
+- *Azolla caroliniana* Willd. — [[growing-gourmet-north-american-reishi-species]] native; similar
   nitrogen-fixing capacity; slightly smaller fronds.
 - *Azolla pinnata* R.Br. — Asian/African species; widely used in
   tropical rice cultivation.
@@ -143,7 +143,7 @@ regulations should be checked before introducing azolla to new water bodies.
 
 ## See Also
 
-- [[glycine-max-soybean-permaculture]]
-- [[lupinus-albus]]
+- [[glycine-max]]
+- lupinus-albus
 - [[dynamic-accumulators]]
 - spirulina · [[biochar]]

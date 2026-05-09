@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-**Source:** The Cannabis Health Index (Uwe Blesching) | **CHI:** 7 | **Studies:** 3 | **Updated:** 2026-04-18
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]] (Uwe Blesching) | **CHI:** 7 | **Studies:** 3 | **Updated:** 2026-04-18
 
 ## Overview
 
@@ -18,7 +18,7 @@ CB1 receptor density in the amygdala is critical for modulating fear responses, 
 
 ## Clinical Trials and Observational Data
 
-A landmark 2020 observational study from the Multidisciplinary Association for Psychedelic Studies (MAPS) examined PTSD patients enrolled in state-level medical cannabis programs.
+A landmark 2020 observational study from the [[maps-multidisciplinary-association-for-psychedelic-studies]] for Psychedelic Studies (MAPS) examined PTSD patients enrolled in state-level medical cannabis programs.
 Participants reported significant reductions in PTSD symptom severity as measured by the Clinician-Administered PTSD Scale (CAPS), with over 75% reporting clinically meaningful improvement.
 Symptom reduction was most pronounced for sleep disturbances, hyperarousal, and intrusive memories.
 A 2021 randomized controlled trial at the University of Colorado investigated smoked cannabis with varying THC:CBD ratios in 76 PTSD veterans.
@@ -33,7 +33,7 @@ Prolonged Exposure (PE) therapy and Cognitive Processing Therapy (CPT) are the g
 Eye Movement Desensitization and Reprocessing (EMDR) is another well-validated approach that may synergize with cannabinoid-facilitated memory processing.
 Mindfulness-based stress reduction (MBSR) and body-based therapies such as yoga and somatic experiencing complement the physiological calming effects of cannabinoids.
 The integrative approach recognizes that PTSD involves cognitive, emotional, somatic, and social dimensions that require multimodal treatment.
-See [[hallucinogenic-mushroom-health-risks-and-harm-reduction]] for comparative risk discussions of psychoactive substances.
+See hallucinogenic-mushroom-health-risks-and-harm-reduction for comparative risk discussions of psychoactive substances.
 
 ## Related Topics
 
@@ -41,7 +41,7 @@ See [[hallucinogenic-mushroom-health-risks-and-harm-reduction]] for comparative 
 - [[cannabis-for-parkinsons-disease]]
 - cannabinoid-receptors
 - [[cannabis-anxiety-and-ptsd-treatment]]
-- [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
+- hallucinogenic-mushroom-health-risks-and-harm-reduction
 ## Practical Considerations
 
 When working with Cannabis and PTSD, several practical factors should be
@@ -58,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,4 +100,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

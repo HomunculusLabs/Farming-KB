@@ -1,5 +1,5 @@
 ---
-title: Sclerotia Formation Biology in Mushrooms
+title: growing gourmet sclerotia formation biology mushrooms Biology in Mushrooms
 created: 2026-04-26
 tags:
   - mycology
@@ -20,7 +20,7 @@ type: concept
 
 Sclerotia are hardened, asexual masses of fungal cells that serve as
 survival structures for many mushroom species. Understanding sclerotia
-is the key to cultivating species like Morels, Polyporus umbellatus,
+is the key to cultivating species like Morels, [[growing-gourmet-polyporus-umbellatus-zhu-ling-cultivation]],
 and Pleurotus tuber-regium. These structures represent a nutrient
 storage and resting stage, allowing mushroom species to survive
 inclement weather and periods of environmental stress.
@@ -30,8 +30,8 @@ inclement weather and periods of environmental stress.
 A sclerotium is a hardened, asexual mass of cells which roughly
 resembles a gold nugget or walnut in form and size. Sclerotia are
 produced by many mushroom species, including Collybia tuberosa,
-Conocybe cyanopus, Hypholoma sublateritium, Polyporus umbellatus,
-Pleurotus tuber-regium, Psilocybe mexicana, Psilocybe tampanensis,
+[[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]], Hypholoma sublateritium, Polyporus umbellatus,
+Pleurotus tuber-regium, [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]], [[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]],
 and dozens of others. Mushrooms which form sclerotia tend to be
 soil-dwellers.
 
@@ -51,7 +51,7 @@ The sclerotia represent a nutrient storage and resting stage, allowing
 the mushroom species to survive inclement weather. They can be dried
 to the point of flammability and, upon rehydration, as the cells
 swell with moisture, the sclerotium springs to life and transforms
-into either a mushroom or into a new mycelial network.
+into either a mushroom or into a new [[gadd-mycelial-network-dynamics]].
 
 This survival strategy is particularly important for species that
 inhabit environments with seasonal extremes. The sclerotium bridges
@@ -113,4 +113,7 @@ Key considerations include:
 
 - [[growing-gourmet-morel-cultivation]]
 - [[growing-gourmet-pleurotus-tuber-regium-african-sclerotial-oyster]]
-- [[growing-gourmet-mushroom-life-cycle]]
+- growing-gourmet-mushroom-life-cycle
+- [[sclerotia-formation]]
+- [[hypholoma-sublateritium]]
+- [[conocybe-cyanopus]]

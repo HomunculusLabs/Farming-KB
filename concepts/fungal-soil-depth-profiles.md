@@ -3,20 +3,17 @@ title: Fungal Soil Depth Profiles
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources: []
 ---
-# Fungal Soil Depth Profiles and Vertical Distribution
-
-Fungal communities vary significantly with soil depth, reflecting gradients in organic matter availability, oxygen concentration, moisture, temperature, and root density. Understanding vertical distribution patterns is essential for accurate assessment of soil fungal diversity.
-
-[[saprobic-soil-fungi]] [[saprobic-soil-fungi]] [[fungal-environmental-sensing]] [[fungal-community-assembly]] [[mycorrhizal-fungi]]
+# Fungal Soil Depth Profiles and Vertical Distribution Fungal communities vary significantly with soil depth, reflecting gradients in organic matter availability, oxygen concentration, moisture, temperature, and root density. Understanding vertical distribution patterns is essential for accurate assessment of soil fungal diversity. [[saprobic-soil-fungi]] [[saprobic-soil-fungi]] fungal-environmental-sensing [[fungal-community-assembly]] [[mycorrhizal-fungi]]
 
 ## Disturbance Effects on Soil Profile
 
 Soil disturbance including cultivation, logging, and fire alters the vertical distribution of fungal communities. Tillage mixes soil layers, disrupting the natural stratification. Fire can sterilize surface layers while leaving deeper communities intact.
 
-Effects of disturbance on soil fungal communities have been discerned and quantified using the Wisconsin protocol, but such effects are usually quantitative rather than qualitative. The basic structure of soil fungal communities may persist even after significant disturbance.
+Effects of disturbance on [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] have been discerned and quantified using the Wisconsin protocol, but such effects are usually quantitative rather than qualitative. The basic structure of soil fungal communities may persist even after significant disturbance.
 
 [[fungal-diversity-fire-ecology]]
 
@@ -24,13 +21,13 @@ Effects of disturbance on soil fungal communities have been discerned and quanti
 
 Standard fungal soil surveys typically sample the upper 10-15 cm of mineral soil, capturing the zone of maximum diversity. Deeper sampling is rarely performed but may reveal specialized communities adapted to low-oxygen, low-nutrient conditions.
 
-The choice of sampling depth significantly affects species richness estimates and community composition assessments. Standardization of sampling depth is essential for comparing studies.
+The choice of sampling depth significantly affects species richness estimates and [[core-endorhiza-bacterial-community-composition-cannabis]] assessments. Standardization of sampling depth is essential for comparing studies.
 
 [[key-fungal-species-bioremediation]]
 
 ## Deep Soil Fungi
 
-Deep soil layers harbor fungi adapted to low oxygen, low organic matter, and stable temperatures. These communities may include specialized basidiomycetes, ascomycetes, and zygomycetes that play roles in deep-soil nutrient cycling.
+Deep soil layers harbor fungi adapted to low oxygen, low organic matter, and stable temperatures. These communities may include specialized basidiomycetes, ascomycetes, and zygomycetes that play roles in deep-soil [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 The application of molecular methods to deep soil cores is revealing unexpected fungal diversity in soil horizons below the rooting zone, challenging assumptions about the depth limit of fungal activity.
 
@@ -42,7 +39,7 @@ Seasonal fluctuations in temperature and moisture affect fungal communities diff
 
 The considerable seasonal variation in microbial biomass of soil and litter, driven by temperature and water availability, may be more pronounced in surface layers than in deeper soil.
 
-[[fungal-environmental-sensing]]
+fungal-environmental-sensing
 
 ## Biome-Level Patterns
 
@@ -67,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

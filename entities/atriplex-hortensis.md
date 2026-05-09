@@ -43,11 +43,11 @@ The fruit is an achene enclosed in the accrescent bracteoles, which may become w
 
 ## Distribution and Habitat
 
-The native range extends from the Iberian Peninsula eastward through central and southern Europe to western Siberia and Central Asia. It has naturalized in North America, Australia, and parts of southern Africa.
+The native range extends from the Iberian Peninsula eastward through central and southern Europe to western Siberia and Central Asia. It has naturalized in [[psilocybin-north-america-pacific-northwest]], Australia, and parts of southern Africa.
 
 Wild populations occur in disturbed habitats including roadsides, waste ground, field margins, and coastal shingle. The species is characteristic of nitrogen-rich, often saline soils.
 
-The plant demonstrates exceptional salt tolerance, capable of completing its life cycle in soils with electrical conductivity up to 15 dS/m. It accumulates salt in specialized epidermal bladder cells, sequestering it away from metabolically active tissues.
+The plant demonstrates exceptional salt tolerance, capable of completing its life cycle in soils with electrical conductivity up to 15 dS/m. It accumulates salt in specialized epidermal bladder cells, sequestering it away from [[isolation-metabolically-active-arbuscules-intraradical-hyphae]] tissues.
 
 Garden orache is frost-tolerant and can be grown as a cool-season crop in temperate regions. It bolts rapidly in hot weather, limiting its productive season in warm climates.
 
@@ -59,11 +59,11 @@ Successional plantings allow continuous harvest from early spring through late a
 
 Direct sowing is the standard establishment method. Seeds are sown 1–2 cm deep in rows 30–45 cm apart, then thinned to 15–25 cm within rows as seedlings develop.
 
-The crop matures quickly, with the first harvest possible 40–60 days after sowing. Successional sowings every 2–3 weeks extend the harvest period through the growing season.
+The crop matures quickly, with the first harvest possible 40–60 days after sowing. Successional sowings every 2–3 weeks extend the harvest period through the [[savory-growing-season-and-non-growing-season-management]].
 
 Garden orache tolerates poor, sandy, and moderately saline soils. It requires moderate fertility and responds well to nitrogen applications, though excessive nitrogen promotes sappy, less flavorful growth.
 
-Pest and disease pressure is generally low. Aphids and leaf miners may occur but rarely cause significant damage. The farinose leaf coating may deter some herbivorous insects.
+[[hamilton-pest-and-disease-control-organic]] pressure is generally low. Aphids and leaf miners may occur but rarely cause significant damage. The farinose leaf coating may deter some herbivorous insects.
 
 Ornamental cultivars with red, purple, and bronze foliage are available. These are grown primarily for their architectural form and autumn color in ornamental borders.
 
@@ -91,7 +91,7 @@ Garden orache was among the earliest cultivated leaf vegetables in Europe. Archa
 
 The ancient Greeks and Romans recognized multiple forms of orache. Dioscorides (c. 40–90 CE) described the medicinal properties of various *Atriplex* species in his *De Materia Medica*.
 
-In medieval European monastery gardens, orache was a standard pot herb alongside cabbage, leeks, and parsley. It remained widely cultivated through the Renaissance before declining in favor of spinach during the 17th–18th centuries.
+In [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] monastery gardens, orache was a standard pot herb alongside cabbage, leeks, and parsley. It remained widely cultivated through the Renaissance before declining in favor of spinach during the 17th–18th centuries.
 
 The red-leaved form has been cultivated as an ornamental since the 16th century. John Gerard's *Herball* (1597) describes both green and red forms growing in English gardens.
 
@@ -99,11 +99,13 @@ The red-leaved form has been cultivated as an ornamental since the 16th century.
 
 *Atriplex halimus* (saltbush) is a closely related perennial species native to the Mediterranean basin. It is used for forage, land reclamation, and as a salt-tolerant hedge plant in arid regions.
 
-*Atriplex canescens* (four-wing saltbush) is a North American perennial shrub important for rangeland restoration. It provides valuable browse for livestock and wildlife in semi-arid western grasslands.
+*Atriplex canescens* (four-wing saltbush) is a [[growing-gourmet-north-american-reishi-species]] perennial shrub important for rangeland restoration. It provides valuable browse for livestock and wildlife in semi-arid western grasslands.
 
 *Atriplex rosea* (tumbling orache) is an annual species native to Eurasia that has naturalized widely. It is considered a weed in agricultural settings but shares the salt tolerance characteristic of the genus.
 
 ## See Also
+
+- [[majorana-hortensis]]
 
 - [[beta-vulgaris]]
 - [[chenopodium-album]]

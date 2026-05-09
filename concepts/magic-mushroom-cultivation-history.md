@@ -1,11 +1,12 @@
 ---
-title: Magic Mushroom Cultivation History — From McKenna to PF Tek
+title: Magic accessible-mushroom-cultivation-for-disabilities History — From McKenna to PF Tek
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [cultivation, mycology]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Magic Mushroom Cultivation History — From McKenna to PF Tek
@@ -24,19 +25,19 @@ Terence and Dennis McKenna, together with Kat Harrison and Jeremy Bigwood, publi
 
 The brothers estimated there were tens of thousands of people worldwide following the method. By autumn 1976, spores and growing kits were being advertised in High Times magazine.
 
-The cultivation guide was a direct product of [[wasson-hofmann-ruck-collaboration]] published a similar method and eventually found and developed Psilocybe tampanensis. His involvement in cultivation brought him to the attention of multiple government agencies before his murder in 1981.
+The cultivation guide was a direct product of [[wasson-hofmann-ruck-collaboration]] published a similar method and eventually found and developed [[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]. His involvement in cultivation brought him to the attention of multiple government agencies before his murder in 1981.
 
-Pollock's story illustrates the dangers that surrounded even semi-legitimate psychedelic research in this period. His murder remains unsolved, but his contributions to the taxonomy and cultivation of rare psilocybin species were significant.
+Pollock's story illustrates the dangers that surrounded even semi-legitimate [[mckenna-suppression-psychedelic-research-lsd-therapy]] in this period. His murder remains unsolved, but his contributions to the taxonomy and cultivation of rare psilocybin species were significant.
 
 ## Paul Stamets (1983)
 
 Paul Stamets and J.S. Chilton published The Mushroom Cultivator in 1983, which remains "the bible" for today's magic mushroom farmer. While spores could be traded legally, growing magic mushrooms with intent to supply remained a felony. Mushroom cultivation became celebrated as an illicit folk art.
 
-Stamets's later career has been devoted to the ecological and medicinal applications of fungi, but his early work on psilocybin cultivation remains his most culturally influential contribution. His techniques for sterile cultivation procedures are still used by both amateur and professional mycologists.
+Stamets's later career has been devoted to the ecological and medicinal applications of fungi, but his early work on [[gottlieb-psilocybin-cultivation-bulk-substrate-preparation]] remains his most culturally influential contribution. His techniques for sterile cultivation procedures are still used by both amateur and professional mycologists.
 
 ## The PF Tek Revolution
 
-Robert McPherson (1947-), better known as "Psilocybe Fanaticus," developed the revolutionary "PF Tek" (Psylocybe Fanaticus Technique):
+Robert McPherson (1947-), better known as "[[pf-tek-psilocybe-fanaticus-cultivation-method]]," developed the revolutionary "PF Tek" (Psylocybe Fanaticus Technique):
 
 ### Innovation
 
@@ -58,11 +59,11 @@ McPherson was eventually busted, charged with spore distribution, and pleaded gu
 
 ## The Internet Era
 
-The PF Tek coincided with the emergence of the World Wide Web, creating a perfect storm of accessible technology and distributed information. Online forums, cultivation guides, and spore exchange networks proliferated throughout the 1990s and 2000s. The [[psilocybin-mushroom-legal-status-worldwide]] of mushroom cultivation varies dramatically by jurisdiction. In many countries, psilocybin mushrooms themselves are prohibited, while spores (which contain no active compounds) occupy a legal grey area. This legal ambiguity has been central to the cultivation subculture, allowing spore vendors to operate openly while actual growing remains clandestine.
+The PF Tek coincided with the emergence of the World Wide Web, creating a perfect storm of accessible technology and distributed information. Online forums, cultivation guides, and spore exchange networks proliferated throughout the 1990s and 2000s. The [[psilocybin-mushroom-legal-status-worldwide]] of mushroom cultivation varies dramatically by jurisdiction. In many countries, [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] themselves are prohibited, while spores (which contain no active compounds) occupy a legal grey area. This legal ambiguity has been central to the cultivation subculture, allowing spore vendors to operate openly while actual growing remains clandestine.
 
 ## The Species at the Centre
 
-The vast majority of cultivation efforts have centred on [[magic-mushroom-cultural-history]]
+The vast majority of cultivation efforts have centred on magic-mushroom-cultural-history
 - [[psychedelic-mushroom-set-and-setting]]
 - [[roger-heim-scientific-study-psilocybin]]
 
@@ -87,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

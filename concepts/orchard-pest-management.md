@@ -26,7 +26,7 @@ sources:
 
 # Orchard Pest Management
 
-Detailed IPM guidance for fruit tree pests and diseases in zone 7-8 homestead orchards. See [[orchard-management]] for site selection, planting, pruning, and seasonal care.
+Detailed IPM guidance for fruit tree [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] in zone 7-8 homestead orchards. See [[orchard-management]] for [[fukuoka-creating-natural-farm-site-selection-establishment]], planting, pruning, and seasonal care.
 
 ## Pest Management (IPM)
 
@@ -66,8 +66,8 @@ Detailed IPM guidance for fruit tree pests and diseases in zone 7-8 homestead or
 - If infected: Tree will usually releaf; rake and destroy fallen leaves
 
 ### General IPM Strategies
-- Scout weekly during growing season
-- Preserve beneficial insects (lady beetles, lacewings, parasitic wasps)
+- Scout weekly during [[savory-growing-season-and-non-growing-season-management]]
+- Preserve [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] (lady beetles, lacewings, parasitic wasps)
 - Good sanitation, proper pruning, adequate nutrition
 - Accept some damage — perfect fruit isn't necessary for home use
 - See [[cannabis-pest-management]] for general IPM principles applicable across crops
@@ -124,7 +124,7 @@ The key insight from permaculture research is that "a little powerful diversity"
 - 2-4 tbsp horticultural oil + copper sulfate per gallon of water
 - Applied during dormancy (late winter before bud break)
 - Smothers overwintering eggs of mites, scale, and aphids
-- Copper provides disease suppression for bacterial canker and fire blight
+- Copper provides [[aact-disease-suppression-mechanisms-ingham]] for bacterial canker and fire blight
 
 ## Seasonal IPM Calendar
 
@@ -138,23 +138,11 @@ The key insight from permaculture research is that "a little powerful diversity"
 | Post-harvest | Sanitation, remove mummified fruit | Brown rot, disease carryover |
 | Late fall | Copper or lime sulfur spray | Peach leaf curl |
 
-## Ecological Pest Management Principles
-
-Following [[regenerative-agriculture-history]] principles, the most sustainable pest management relies on building ecosystem resilience rather than reactive spraying:
-
-1. **Biodiversity** — diverse plantings support complex food webs that naturally suppress pest outbreaks
-2. **Soil health** — healthy trees grown in nutrient-rich, biologically active soil resist pests and diseases more effectively (see [[soil-food-web-nutrient-cycling]])
-3. **Habitat for predators** — maintain hedgerows, wild areas, and insectary plants to support lady beetles, lacewings, parasitic wasps, and birds
-4. **Cultural practices** — proper pruning (see [[fruit-tree-pruning]]), adequate spacing, and [[mulching-guide]] reduce disease pressure
-5. **Monitoring** — regular scouting catches problems early when intervention is most effective
-6. **Tolerance** — accepting some cosmetic damage focuses resources on tree health rather than perfection
-
 ## See Also
 
 - [[orchard-management]] — Site selection, planting, pruning, harvest, seasonal calendar
 - [[fruit-tree-varieties]] — Disease-resistant variety recommendations
 - [[cannabis-pest-management]] — General IPM principles applicable across crops
 - [[companion-planting-reference]] — Pest-repellent companion plants
-- [[companion-planting-reference]] — Detailed companion planting reference
 - [[fungal-pest-control]] — Fungal-based pest management approaches
-- [[fruit-tree-pruning]] — Pruning for disease prevention
+- [[fruit-tree-pruning]] — Pruning for [[cervantes-pest-disease-prevention-overview]]

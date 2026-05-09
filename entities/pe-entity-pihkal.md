@@ -1,5 +1,5 @@
 ---
-title: "PE (PHENESCALINE; 3,5-DIMETHOXY-4-PHENETHYLOXYPHENETHYLAMINE) -- PIHKAL Entry #141"
+title: "PE (PHENESCALINE; 3,5-DIMETHOXY-4-PHENETHYLOXYPHENETHYLAMINE) -- 2c-b-pihkal-entry-20 #141"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -34,7 +34,7 @@ PHENESCALINE; 3,5-DIMETHOXY-4-PHENETHYLOXYPHENETHYLAMINE
 There is not much there, so there is not
 much to make commentary on. This response is called a "threshhold"
 effect, and cannot be used to predict with any confidence just what
-level (if any) would produce psychological effects.
+level (if any) would produce [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]].
 
 A similar chain on the 4-position, but with one less carbon atom,
 deserves special comment. Rather than a phenethyloxy group, this
@@ -47,7 +47,7 @@ the compound PM (for phenylmescaline or, more likely
 phenylmethoxydimethoxyphenethylamine), since the term BZ is awkward
 and misleading. It is a code name that has been given to a potent CNS
 agent known as quinuclidin-3-yl benzilate, which is a chemical and
-biological warfare (CBW) incapacitating agent currently being stored
+[[bloomfield-trichothecene-mycotoxins-biological-warfare-yellow-rain]] (CBW) incapacitating agent currently being stored
 by the military to the extent of 20,000 pounds. And, BZ has also
 recently become the jargon name given to benzodiazepine receptors.
 They have been called the BZ-receptors.
@@ -90,7 +90,7 @@ A solution of 7.9 g of distilled
 added to a 0 deg C solution of AH prepared from a vigorously stirred
 solution of 4.6 g LAH in 160 ml THF which had been treated, at 0 deg C
 with 3.6 mL 100% H2SO4 under an atmosphere of He. The gelatinaceous
-reaction mixture was brought to a brief reflux on the steam bath, then
+reaction mixture was brought to a brief reflux on the [[scythian-cannabis-steam-bath-ritual]], then
 cooled again. It was treated with 5 mL IPA which destroyed the
 unreacted hydride, followed by sufficient 15% NaOH to give loose,
 white filterable solids. These were removed by filtration and washed
@@ -108,7 +108,7 @@ after air drying, and the mp was 151-152 deg C. Anal. (C18H24ClNO3) C,H.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [herbalism, propagation, cuttings, herbal-medicine, gardening]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -30,7 +31,7 @@ Remove the lower leaves, keeping only the top 2 to 4 pairs. Any leaves that will
 
 Commercial rooting powders containing indole-3-butyric acid (IBA) significantly improve success rates for woody cuttings. Dip the bottom inch of the cutting into the powder, tap off excess, and insert into your medium. Liquid and gel formulations are also available and can be easier to control for consistent dosing.
 
-Natural alternatives work reasonably well for home growers. Fresh aloe vera gel contains natural rooting compounds and antimicrobial agents — simply slit a leaf open and dip the cutting end into the gel. Willow water, made by soaking chopped willow twigs in water for 24 to 48 hours, provides salicylic acid that both stimulates rooting and protects against fungal infection. Honey diluted with warm water has mild antimicrobial properties that can help prevent rot at the cut site, though it does not directly stimulate root growth.
+Natural alternatives work reasonably well for home growers. Fresh aloe vera gel contains [[mollison-designers-willow-water-and-natural-rooting-propagation]] compounds and antimicrobial agents — simply slit a leaf open and dip the cutting end into the gel. Willow water, made by soaking chopped willow twigs in water for 24 to 48 hours, provides [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]] that both stimulates rooting and protects against fungal infection. Honey diluted with warm water has mild [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] that can help prevent rot at the cut site, though it does not directly stimulate root growth.
 
 Cinnamon powder dusted on the cut end is another popular option — it acts primarily as an antifungal rather than a rooting stimulant, which is still valuable since fungal rot is the leading cause of cutting failure.
 
@@ -38,7 +39,7 @@ Cinnamon powder dusted on the cut end is another popular option — it acts prim
 
 The rooting medium must balance moisture retention with adequate aeration. A mix of 50% perlite and 50% coconut coir or peat moss is the standard for most woody herbs. Straight perlite, vermiculite, or a blend of sand and peat also work. Avoid garden soil — it compacts, drains poorly, and introduces soil-borne pathogens.
 
-For Mediterranean herbs like rosemary, lavender, and thyme, lean toward grittier mixes. These plants are adapted to well-drained conditions and are particularly susceptible to rot. A mix of 60% perlite or coarse sand with 40% coir prevents waterlogging around the cutting base.
+For [[query-best-mediterranean-herbs-for-beginner-herb-garden]] like rosemary, lavender, and thyme, lean toward grittier mixes. These plants are adapted to well-drained conditions and are particularly susceptible to rot. A mix of 60% perlite or coarse sand with 40% coir prevents waterlogging around the cutting base.
 
 Fill small pots or cell trays with your medium, moisten it thoroughly, and pre-drill holes with a pencil or dibber to avoid damaging the cutting when inserting it. Insert each cutting about one-third to one-half of its length into the medium and gently firm the soil around it.
 
@@ -46,13 +47,13 @@ Fill small pots or cell trays with your medium, moisten it thoroughly, and pre-d
 
 Warmth at the root zone is critical. Most woody herbs root best with bottom heat between 65 and 75°F (18 to 24°C). A seedling heat mat with a thermostat is the most reliable way to provide this. Rooting can still occur at cooler temperatures but will be significantly slower.
 
-Humidity is the other essential factor. Cuttings have no root system to uptake water, so they rely entirely on atmospheric moisture. A humidity dome, clear plastic bag, or propagation chamber that maintains 70 to 90% relative humidity is ideal. Open the dome briefly every few days to exchange air and prevent mold.
+Humidity is the other essential factor. Cuttings have no root system to uptake water, so they rely entirely on atmospheric moisture. A humidity dome, clear plastic bag, or propagation chamber that maintains 70 to 90% relative humidity is ideal. Open the dome briefly every few days to exchange air and [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]].
 
 Light should be bright but indirect. Direct sun will cook cuttings under a humidity dome and increase transpiration beyond what the stem can support. A fluorescent or LED grow light positioned 12 to 18 inches above the cuttings and run for 14 to 16 hours per day provides excellent conditions.
 
 ## Species-Specific Tips
 
-Rosemary roots slowly — expect 4 to 8 weeks or longer. Use semi-hardwood cuttings from non-flowering stems. Bottom heat dramatically improves results. Some growers report success with rooting in plain water, but the transition from water to soil causes significant transplant shock.
+Rosemary roots slowly — expect 4 to 8 weeks or longer. Use semi-hardwood cuttings from non-flowering stems. Bottom heat dramatically improves results. Some growers report success with rooting in plain water, but the transition from water to soil causes significant [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]].
 
 Lavender can be stubborn. Take cuttings from soft, non-flowering tips in early autumn or from semi-hardwood growth. Use a very gritty medium — 70% perlite to 30% coir. Avoid overwatering; let the medium surface dry slightly between mistings.
 
@@ -78,7 +79,9 @@ Cuttings are ready to transplant when roots are 1 to 2 inches long and visible t
 
 Gradually reduce humidity over 7 to 10 days by propping the dome open incrementally or increasing ventilation. This hardening-off period strengthens the cutting and prepares it for ambient conditions. After 2 to 3 weeks of reduced humidity, the new plant can be moved to its permanent location.
 
-## Related Topics
+## Related
+
+- [[query-how-to-propagate-woody-herbs-from-cuttings]] Topics
 
 - [[query-how-to-grow-medicinal-herbs-at-home]]
 - [[query-how-to-make-herbal-infused-oils-at-home]]

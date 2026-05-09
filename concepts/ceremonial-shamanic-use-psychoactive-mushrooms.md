@@ -15,12 +15,12 @@ type: concept
 The ceremonial and shamanic use of psychoactive mushrooms represents one of
 humanity's oldest and most profound relationships with the fungal kingdom.
 From Siberian fly [[amanita-muscaria-entity]]) rituals to the ongoing velada
-ceremonies of the Mazatec people in Mexico, psychoactive fungi have served as
+ceremonies of the Mazatec people in Mexico, [[cattle-dispersal-psychoactive-fungi-australia]] have served as
 sacred sacraments enabling shamans to access spiritual dimensions, heal the
 sick, and gain transcendental knowledge for their communities. The study of
 these practices, known as ethnomycology, was largely pioneered by Robert
 Gordon Wasson, whose three-decade investigation culminated in his famous 1957
-Life magazine article revealing the sacred Mexican mushroom to the Western
+Life magazine article revealing the sacred [[gartz-wasson-mexican-mushroom-cult-rediscovery]] to the Western
 world.
 
 The ceremonial context fundamentally distinguishes shamanic mushroom use from
@@ -29,7 +29,7 @@ with reverence, employed within structured ritual frameworks, and guided by
 experienced practitioners who mediate between the human and spiritual realms.
 As Powell (2011) observes, "to this day, aboriginal shamans in places like
 Amazonia and Mexico still utilise the powerful effects of indigenous
-entheogenic plants and fungi in order to fulfil their shamanic healing role."
+entheogenic plants and fungi in order to fulfil their [[metzner-shamanic-healing-and-divination-paradigm]] role."
 
 ## Key Concepts
 
@@ -113,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

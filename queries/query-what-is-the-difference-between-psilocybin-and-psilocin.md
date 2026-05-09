@@ -1,31 +1,12 @@
 ---
-title: "Query What Is The Difference Between Psilocybin And Psilocin"
+title: "Query What Is The query what is the difference between psilocybin and psilocin And Psilocin"
 created: 2026-05-02
 updated: 2026-05-02
 type: query
-tags: [[mycology, psychedelics]
-sources:
-  - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
-  - "raw/papers/leary-t-the-psychedelic-experience.md"
-  - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
+tags: [mycology, psychedelics]
+sources: - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md" - "raw/papers/leary-t-the-psychedelic-experience.md" - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
 ---
----
-title: "What Is the Difference Between Psilocybin and Psilocin"
-tags: [query, mycology, chemistry, psilocybin, pharmacology]
-date: 2026-04-25
-updated: 2026-04-25
-sources: [papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md]
----
-
-# What Is the Difference Between Psilocybin and Psilocin?
-
-## Short Answer
-Psilocybin and psilocin are two closely related psychedelic compounds found in
-magic mushrooms. Psilocybin is a stable prodrug that the body converts into
-psilocin, which is the active compound responsible for the psychedelic effects.
-
-## Detailed Explanation
-[[psilocin]] are both indole alkaloids belonging to the
+--- title: "What Is the Difference Between Psilocybin and Psilocin" tags: [query, mycology, chemistry, psilocybin, pharmacology] date: 2026-04-25 updated: 2026-04-25 sources: [papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md] --- # What Is the Difference Between Psilocybin and Psilocin? ## Short Answer Psilocybin and psilocin are two closely related psychedelic compounds found in [[guzman-magic-mushrooms-african-species]]. Psilocybin is a stable prodrug that the body converts into psilocin, which is the active compound responsible for the psychedelic effects. ## Detailed Explanation [[psilocin]] are both indole alkaloids belonging to the
 tryptamine class of compounds, and they are the primary psychoactive
 constituents found in psilocybin-containing mushrooms. While they are
 chemically similar, they differ in their molecular structure, stability, and
@@ -50,7 +31,7 @@ metabolic conversion. Some psilocin may also be present directly in fresh
 mushrooms, but it exists in much smaller quantities compared to psilocybin.
 
 The biosynthesis of these compounds in fungal tissue follows a pathway that
-begins with the amino acid [[tryptophan-decarboxylase]]
+begins with the [[cho-fish-amino-acid-preparation]] [[tryptophan-decarboxylase]]
 converts tryptophan into tryptamine, which then undergoes hydroxylation and
 methylation steps through the [[baeocystin]] is also
 produced, which is a demethylated analog of psilocybin found in varying
@@ -72,7 +53,7 @@ researchers studying dose-response relationships and therapeutic protocols.
 
 Legal and regulatory considerations also differ subtly between the two
 compounds. In most jurisdictions, both psilocybin and psilocin are scheduled
-substances, but testing methods typically detect psilocin rather than psilocybin
+substances, but [[soil-testing-methods-interpretation]] typically detect psilocin rather than psilocybin
 in biological samples because psilocybin is rapidly converted. The stability
 differences between the two compounds also affect analytical testing of mushroom
 specimens. Fresh mushrooms contain more psilocin relative to psilocybin than

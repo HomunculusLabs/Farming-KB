@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3erpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources: []
 ---
 
 # Psilocybe makarorae
@@ -21,7 +21,7 @@ Zealand. It was formally classified by Johnston and Buchanan in 1996 and is name
 Makarora region on the South Island where it was originally collected. The species is
 recognized by its conic to campanulate cap with a pronounced umbo, greenish blue bruising, and
 its growth on rotting wood of southern beech (Nothofagus). It remains one of the lesser-
-known psilocybian fungi from the Southern Hemisphere and has been documented only from a
+known psilocybian fungi from the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] and has been documented only from a
 limited number of collections, primarily from the South Island of New Zealand.
 
 ## Taxonomy
@@ -37,7 +37,7 @@ congeners.
 The holotype specimen was collected from rotting wood in the Makarora vicinity. The authors
 noted its distinctive microscopic characters, particularly the presence of pleurocystidia and
 the morphology of the cheilocystidia with their relatively long necks, as key diagnostic
-features separating it from superficially similar taxa such as psilocybe caerulipes entity the mushroom cultivator. No
+features separating it from superficially similar taxa such as psilocybe caerulipes [[coprinus-atrementarius-entity-the-mushroom-cultivator]] cultivator. No
 varieties or subspecies have been described to date.
 
 ## Description
@@ -52,7 +52,7 @@ specimen dries. Coloration ranges from yellowish brown to orangish brown overall
 noticeably as the cap dries. The margin is lighter in color than the center of the cap and is
 distinctly striate when moist, reflecting the gill plates beneath. The flesh is whitish and
 bruises greenish blue where injured, which is a key field indicator of psilocybin and/or
-psilocin content in members of this genus.
+[[psilocin]] content in members of this genus.
 
 ### Gills
 
@@ -67,7 +67,7 @@ gills (lamellulae) interspersed among the full length gills.
 The stem ranges from 30 to 60 mm in length and 2 to 4 mm in thickness. It is equal in width
 throughout (not bulbous or tapering). The upper portion of the stem is white, transitioning to
 brownish coloration near the base. The base characteristically radiates white rhizomorphs into
-the surrounding substrate, anchoring the fruiting body to its woody substrate. The stem
+the surrounding substrate, anchoring the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] to its woody substrate. The stem
 surface is finely fibrillose and silky in texture, a feature best observed with a hand lens or
 under magnification.
 
@@ -109,10 +109,10 @@ The chemical potency of *Psilocybe makarorae* has not been formally quantified t
 laboratory analysis. However, the characteristic greenish blue bruising reaction observed upon
 injury to the flesh strongly suggests the presence of psilocybin and/or psilocin, the primary
 psychoactive compounds found in members of the genus *Psilocybe*. Based on the intensity of
-the bluing reaction and its phylogenetic placement within the genus, the species is probably
+the [[field-guide-psilocybin-bluing-reaction-identification]] and its phylogenetic placement within the genus, the species is probably
 moderately active. Definitive alkaloid profiling through analytical techniques such as GC-MS
 or HPLC remains to be conducted and would provide valuable data for comparison with better-
-studied Australasian species like [[psilocybe-australiana]].
+studied Australasian species like psilocybe-australiana.
 
 ## Taxonomic Relationships
 
@@ -128,15 +128,19 @@ relative to other Australasian and global *Psilocybe* lineages.
 
 ## Similar Species
 
-*Psilocybe makarorae* most closely resembles psilocybe caerulipes entity the mushroom cultivator, a North American
+*Psilocybe makarorae* most closely resembles psilocybe caerulipes entity the mushroom cultivator, a [[growing-gourmet-north-american-reishi-species]]
 species known as the "blue-footed psilocybe." The two species share a similar cap shape and
 bluing reaction, but can be reliably separated microscopically: *P. makarorae* possesses
 pleurocystidia (which are absent in *P. caerulipes*) and has longer-necked cheilocystidia.
 
-Among Australasian taxa, [[psilocybe-eucalypta]] should also be
+Among Australasian taxa, psilocybe-eucalypta should also be
 considered for comparison, though each differs in substrate preference and microscopic
 features. [[psilocybe-stuntzii-profile]]
 - [[psilocybe-wassoniorum]]
 
 - psilocybe caerulipes entity the mushroom cultivator - North American look-alike species
-- [[psilocybe-eucalypta]] - Australasian congener
+- psilocybe-eucalypta - Australasian congener
+## See Also
+- [[psilocybe-caerulipes]]
+
+- [[psilocybe-makarorae-new-zealand-profile]]

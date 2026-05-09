@@ -12,7 +12,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 
 **Type:** Species (Fungus)
 **Category:** Mycoparasitic Filamentous Ascomycete
-**Also known as:** Green mold
+**Also known as:** [[growing-gourmet-trichoderma-green-mold-management]]
 
 ## Overview
 Trichoderma viride is a cosmopolitan soil-dwelling fungus renowned for
@@ -58,7 +58,7 @@ as a suppressor of mushroom pathogens in commercial cultivation.
 - Common soil fungus found worldwide in diverse habitats
 - Frequently isolated from forest soils, agricultural fields,
   compost, and decaying wood
-- Opportunistic colonizer of various fungal fruiting bodies
+- Opportunistic colonizer of various [[brassinosteroid-fungal-fruiting-body-morphology]] bodies
   and substrates
 - Found as an endophyte in some plant tissues
 - Tolerant of a wide range of environmental conditions and
@@ -87,7 +87,7 @@ as a suppressor of mushroom pathogens in commercial cultivation.
 - Combined with Penicillium funiculosum cellulase and
   Aspergillus niger hemicellulase to prevent cell clumping
   during protoplast formation
-- Plays a key role in fungal cell wall degradation for DNA
+- Plays a key role in [[gadd-fungal-cell-structure]] wall degradation for DNA
   extraction and transformation studies
 
 ### Biocontrol Applications
@@ -114,7 +114,7 @@ as a suppressor of mushroom pathogens in commercial cultivation.
   for soil isolation
 - Dual culture assays on PDA for assessing antagonistic
   activity against target pathogens
-- Molecular identification via ITS rDNA and translation
+- [[biodiversity-fungal-molecular-identification-dna-barcoding]] via ITS rDNA and translation
   elongation factor (TEF1) gene sequencing
 - Enzyme activity assays for cellulase, chitinase, and
   glucanase production
@@ -122,7 +122,7 @@ as a suppressor of mushroom pathogens in commercial cultivation.
   interactions
 
 ## Relevance
-Trichoderma viride is a cornerstone species in biological control of
+Trichoderma viride is a cornerstone species in [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] of
 plant diseases and industrial mycology. Its dual significance as both a
 mycoparasite attacking pathogenic fungi and a producer of industrially
 important cellulolytic enzymes makes it one of the most practically

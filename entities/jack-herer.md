@@ -18,7 +18,7 @@ sources:
 
 # Jack Herer
 
-**Jack Herer** (often capitalized as **JH**) is a legendary sativa-dominant cannabis strain named in honor of Jack Herer (1939–2010), the American cannabis activist and author of *The Emperor Wears No Clothes* (1985), the seminal book arguing for hemp legalization and cannabis decriminalization. The strain is widely regarded as one of the most important and influential cannabis varieties ever created.
+**Jack Herer** (often capitalized as **JH**) is a legendary sativa-dominant [[blesching-cannabis-strain-selection-receptor-targeting]] named in honor of Jack Herer (1939–2010), the American cannabis activist and author of *The Emperor Wears No Clothes* (1985), the seminal book arguing for hemp legalization and cannabis decriminalization. The strain is widely regarded as one of the most important and influential cannabis varieties ever created.
 
 ## Genetic Lineage
 
@@ -27,10 +27,10 @@ Jack Herer is a complex hybrid resulting from the cross of three parent strains:
 | Parent | Role | Characteristics Contributed |
 |--------|------|---------------------------|
 | **Haze** | Primary sativa parent | Cerebral effects, tropical aroma, long flowering time |
-| **Northern Lights #5** | Indica contributor | Resin production, reduced flowering time, compact structure |
+| **Northern Lights #5** | Indica contributor | [[cannabis-glandular-trichome-types-resin-production-clarke]], reduced flowering time, compact structure |
 | **Shiva Skunk** | Secondary contributor | Potency, skunky undertones, yield improvement |
 
-The original breeding program was conducted in the **Netherlands** during the late 1980s and early 1990s by an anonymous breeder associated with the Sensi Seed Bank. The goal was to capture the legendary cerebral high of Haze while reducing its impractically long flowering period and low yield.
+The original [[cervantes-breeding-program-design-goal-setting]] was conducted in the **Netherlands** during the late 1980s and early 1990s by an anonymous breeder associated with the Sensi Seed Bank. The goal was to capture the legendary cerebral high of Haze while reducing its impractically long flowering period and low yield.
 
 Multiple phenotypic expressions exist, and cuttings from the original breeding program have been propagated and stabilized by various seed companies, leading to slight genetic drift between different "Jack Herer" lines available commercially. Greenhouse Seeds, Dutch Passion, and Sensi Seeds each maintain their own version.
 
@@ -39,7 +39,7 @@ Multiple phenotypic expressions exist, and cuttings from the original breeding p
 ### Plant Structure
 - **Height**: Tall (indoor: 100–150 cm; outdoor: 150–250 cm)
 - **Structure**: Open, branchy sativa growth pattern with moderate internodal spacing
-- **Leaf morphology**: Long, narrow-fingered sativa-type leaves, light green
+- **[[cannabis-leaf-morphology-and-phyllotaxy]]**: Long, narrow-fingered sativa-type leaves, light green
 - **Branching**: Lateral branches develop well under training; responds favorably to LST and SCROG
 
 ### Buds
@@ -98,7 +98,7 @@ Jack Herer is considered the archetype of a **functional, creative sativa high**
 **Onset (0–30 min)**: Euphoria, enhanced sensory perception, cerebral stimulation, creative ideation. **Peak (30–90 min)**: Focused energy, conversational fluency, motivational drive — often used as a "daytime" strain, with mild body relaxation. **Come-down (2–4 hr)**: Smooth taper with minimal burnout or grogginess.
 
 ### Medicinal Applications
-Reported relief from depression (euphoric properties), fatigue (stimulating effects), stress/anxiety (low-to-moderate doses), chronic pain (moderate analgesic, especially headache/neuropathic), and PTSD (mood stabilization). ADHD focus improvement is anecdotal.
+Reported relief from depression (euphoric properties), fatigue (stimulating effects), stress/anxiety (low-to-moderate doses), [[cannabis-chronic-pain-management]] (moderate analgesic, especially headache/neuropathic), and PTSD (mood stabilization). ADHD focus improvement is anecdotal.
 
 ## Cultivation
 
@@ -123,7 +123,7 @@ Jack Herer rewards experienced growers but presents challenges for beginners due
 - **Stretch**: Significant stretch during early flowering (up to 2–3× height increase); plan vertical space accordingly
 - **Training**: LST, SCROG, and topping recommended to control height and maximize light exposure
 - **Nutrients**: Moderate-to-heavy feeder during flowering; benefits from phosphorus and potassium supplementation in mid-to-late flower
-- **Pest resistance**: Moderate; may be susceptible to spider mites and powdery mildew in high-humidity environments
+- **Pest resistance**: Moderate; may be susceptible to spider mites and [[cervantes-powdery-mildew-prevention-treatment]] in high-humidity environments
 - **Terpene preservation**: Lower curing temperatures (18–20°C) preserve the delicate terpinolene-dominant profile
 - **Trichome maturation**: Harvest when 50–70% of trichomes are cloudy with some amber for optimal effect balance
 

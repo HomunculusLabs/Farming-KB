@@ -1,5 +1,5 @@
 ---
-title: Sooty Molds and Black Mildews - Tropical Foliar Fungi
+title: Sooty Molds and sooty molds black mildews tropical foliar fungi - Tropical Foliar Fungi
 created: 2026-04-26
 tags:
   - sooty-molds
@@ -30,7 +30,7 @@ colonies may consist of mixed populations of eight or more
 species.
 ### Colony Morphology
 Sooty molds may form:
-- A thin network of hyphae on the leaf surface
+- A thin network of hyphae on the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]
 - A velvety growth
 - A dark crust on leaves and smaller twigs
 - More robust growth on trunks and larger branches
@@ -55,7 +55,7 @@ Reynolds (1975) recognized two growth forms for sooty molds:
    representative.
 ### Geographic Distribution
 Sooty molds predominate along the continental margins of
-North and [[stamets-mushrooms-world-mexico-central-america]], and on islands
+North and stamets-mushrooms-world-mexico-central-america, and on islands
 in the Western Hemisphere. They occur in some form in most
 vegetation types worldwide but are prevalent around the
 margins of rain forest communities. Hughes (1976) noted that
@@ -82,7 +82,7 @@ microscope slide, and the collodion is removed with acetone.
 ### Biology
 Black mildews are obligate plant parasites especially abundant
 in the tropics but also occurring from Chile to the southern
-United States, from South Africa to central Europe and
+[[dmt-containing-plants-united-states-halpern]], from South Africa to central Europe and
 Scotland, and from Japan to Tasmania. The name derives from
 the scattered, dark, superficial, circular colonies produced
 by the fungi on host plant surfaces. Black mildews belong to
@@ -101,7 +101,7 @@ presence of short, two-celled lateral branches called
 capitate hyphopodia, distributed in opposite, alternate, or
 mixed arrangements at the ends of hyphal cells. A fine
 hyphal filament beneath the hyphopodium penetrates the host
-cell wall to produce a haustorium within the host cell. Black
+[[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] to produce a haustorium within the host cell. Black
 mildews lack asexual states, unlike sooty molds.
 ### Setose Colonies
 Species of Meliola are characterized by mycelial setae,

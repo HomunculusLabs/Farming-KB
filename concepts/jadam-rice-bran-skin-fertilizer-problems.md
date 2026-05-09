@@ -1,5 +1,5 @@
 ---
-title: JADAM Rice Bran and Skin Fertilizer Problems
+title: JADAM jadam-rice-bran-problems and Skin Fertilizer Problems
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-JADAM strongly criticizes the widespread organic farming practice of using rice bran, perilla press cake, oil cake, and similar "skin" products as fertilizers. These are described as "skin fertilizers" because they are the leftovers (peel/residue) after the grain, nut, or fruit has been extracted of its nutritional essences. JADAM argues they are fundamentally inadequate and potentially harmful for soil management.
+JADAM strongly criticizes the widespread [[coleman-deep-organic-farming-philosophy]] practice of using rice bran, perilla press cake, oil cake, and similar "skin" products as fertilizers. These are described as "skin fertilizers" because they are the leftovers (peel/residue) after the grain, nut, or fruit has been extracted of its nutritional essences. JADAM argues they are fundamentally inadequate and potentially harmful for soil management.
 
 ## What Are Skin Fertilizers
 
@@ -21,11 +21,11 @@ The term refers to organic inputs that are byproducts of food processing:
 - Oil cake: residue after pressing seeds for vegetable oil
 - Press cake: general term for seed-pressing residues
 
-These are widely recommended in organic farming circles and sold as certified organic fertilizers at about 20 dollars per sack.
+These are widely recommended in organic farming circles and sold as certified [[hamilton-organic-fertilizers-and-plant-nutrition]] at about 20 dollars per sack.
 
 ## The Fundamental Problem
 
-An egg contains all the nutrients needed to create life. A fruit contains all the nutrients needed by a seed to sprout and grow. But rice bran is not the whole rice -- it is just the outer layer. The nutritional essences have been removed. "Putting rice bran in soil changes nutritional balance toward rice-growing conditions."
+An egg contains all the nutrients needed to create life. A fruit contains all the nutrients needed by a seed to sprout and grow. But rice bran is not the whole rice -- it is just the outer layer. The nutritional essences have been removed. "Putting rice bran in soil changes [[jadam-nutritional-balance-fertilizer]] toward rice-growing conditions."
 
 ## Specific Problems
 
@@ -35,7 +35,7 @@ An egg contains all the nutrients needed to create life. A fruit contains all th
 - Different skin fertilizers push soil conditions toward the crop they came from
 
 ### Crop-Specific Bias
-- Would you grow tomatoes in soil conditioned with rice bran? The nutritional balance would favor rice, not tomatoes
+- Would you [[query-how-do-i-grow-tomatoes-in-a-greenhouse]] in soil conditioned with rice bran? The nutritional balance would favor rice, not tomatoes
 - Overuse of perilla pulp ruins soil -- it pushes conditions toward perilla growing
 - Each skin fertilizer carries the "memory" of its source crop
 
@@ -49,7 +49,7 @@ If using skin fertilizers at all, use less than 1/10 of the total fertilizer amo
 ## The JADAM Alternative
 
 Instead of skin fertilizers, JADAM recommends:
-- [[jadam-wild-grass-liquid-fertilizer]]: Use entire wild grass plants -- roots, stems, leaves, flowers -- as fertilizer
+- [[jadam-wild-grass-liquid-fertilizer]]: Use entire [[jadam-cover-crop-wild-grass-symbiosis]] plants -- roots, stems, leaves, flowers -- as fertilizer
 - [[jadam-customized-liquid-fertilizer]]: Use whole fruits of the same species as fertilizer
 
 The principle is always the same: use the whole organism, not a processed remnant. "A fruit is equivalent to the egg -- do not turn them into waste."
@@ -62,7 +62,9 @@ Many of the pH and nutrient problems that farmers then try to correct with lime,
 
 The organic input industry promotes skin fertilizers because they are profitable byproducts of food processing. Marketing them as "organic" and "natural" makes farmers willing to pay premium prices for what are essentially waste products. This is part of the broader pattern JADAM identifies: agricultural knowledge has been taken from farmers and commodified by corporations.
 
-## Related Concepts
+## Related
+
+- [[jadam-rice-bran-problems]] Concepts
 
 - [[jadam-cover-crop-method]] -- using whole plants for balanced nutrition
 - [[jadam-compost-free-approach]] -- eliminating unnecessary processing
@@ -85,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

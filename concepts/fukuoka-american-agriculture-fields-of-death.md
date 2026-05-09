@@ -3,11 +3,11 @@
 ## Overview
 
 During his travels in the United States, Masanobu Fukuoka observed American
-agriculture from a perspective shaped by decades of natural farming in Japan.
+agriculture from a perspective shaped by decades of [[comparison-natural-farming-vs-permaculture]] in Japan.
 What he saw horrified him. From the air, the American Midwest appeared as
 a vast pattern of monoculture — corn, wheat, and soybeans stretching to the
 horizon — which he described as "fields of death" that had "suffered the
-relentless injuries of heavy machinery, chemical fertilizers, and
+relentless injuries of heavy machinery, [[cervantes-chemical-fertilizers-guide]], and
 pesticides." His critique extended beyond agriculture to encompass the
 broader ecological destruction of the continent, from dying pine forests
 in California to depleted soils on the East Coast.
@@ -24,7 +24,7 @@ to produce crops continuously. The fallow periods were not restorative
 but merely a pause in the process of degradation.
 
 The soil, Fukuoka observed, had been "pulverized by large tractors" and
-its organic matter "consumed and exhausted." Few microbes survived in this
+its [[hamilton-composting-and-organic-matter-management]] "consumed and exhausted." Few microbes survived in this
 depleted medium. When rain fell, topsoil washed away at a rate of perhaps
 ten or more tons per acre per year. Most American farmland was hilly and
 rolling, with no terracing or reservoirs to prevent erosion. When the
@@ -44,7 +44,7 @@ American farmers were putting two calories of energy into the land. This
 meant that American agriculture was not producing food but converting
 fossil fuel into food at a net energy loss.
 
-"Modern scientific farming," Fukuoka concluded, "amounts to no more than
+"Modern [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]," Fukuoka concluded, "amounts to no more than
 essentially slash-and-burn agriculture in total disregard of nature." The
 apparent productivity of the system was an illusion maintained by massive
 energy subsidies. Strip away the fossil fuel inputs, and the system would
@@ -66,11 +66,11 @@ disruption rather than a specific pathogen.
 Fukuoka was dismissive of the explanations offered by both American and
 Japanese researchers. American scholars attributed the pine die-off to
 jet planes and drought; Japanese researchers focused on specific insect
-pests and fungal pathogens. "It seemed to me," Fukuoka wrote, "as if the
+pests and [[bloomfield-fungal-pathogens-and-parasites]]. "It seemed to me," Fukuoka wrote, "as if the
 net cast by American researchers is too coarse while that cast by Japanese
 researchers is too fine. As a result, neither are able to catch the fish
 they are after." His own view was that the pine die-off was a symptom of
-broader ecosystem collapse caused by destructive land management practices.
+broader [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] caused by destructive land management practices.
 
 ## The East Coast: A Shadow of Nature
 

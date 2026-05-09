@@ -14,7 +14,7 @@ distinctive edible fungus in the family Sparassidaceae. It forms large,
 cream to pale brown fruiting bodies composed of tightly packed, ruffled
 and flattened branches that strongly resemble a head of cauliflower or
 brain coral. The species is highly regarded as a culinary mushroom in
-East Asia, Europe, and North America, and has attracted significant
+East Asia, Europe, and [[psilocybin-north-america-pacific-northwest]], and has attracted significant
 research interest for its immunomodulatory polysaccharides,
 particularly beta-glucan. It is a root-pathogen associate and
 ectomycorrhizal symbiont most commonly found at the base of mature
@@ -33,7 +33,7 @@ conifers, especially pines.
 | Species | S. crispa |
 
 The species was originally described by Wulfen in 1781. Several
-taxonomic revisions have occurred; some North American collections
+taxonomic revisions have occurred; some [[growing-gourmet-north-american-reishi-species]] collections
 previously identified as S. crispa are now recognized as the separate
 species S. americana or S. radicata, which tend to have larger, more
 robust fruiting bodies and different spore morphology. The European S.
@@ -123,10 +123,10 @@ Key pharmacological findings include:
 ## Cultivation
 
 Commercial cultivation of Sparassis crispa is well-established in Japan
-and Korea, where it is grown on supplemented sawdust substrates. The
+and Korea, where it is grown on [[oyster-mushroom-supplemented-sawdust-blocks]] substrates. The
 cultivation process requires careful management:
 
-- Spawn preparation typically uses grain (rye or millet) inoculated with
+- [[azurescens-spawn-preparation-grain-to-wood]] typically uses grain (rye or millet) inoculated with
   pure culture.
 - Substrate consists of hardwood or softwood sawdust supplemented with
   wheat bran (10-20% dry weight) and calcium carbonate.
@@ -134,9 +134,11 @@ cultivation process requires careful management:
 - Incubation at 20-25°C for 60-90 days until full colonization.
 - Fruiting is induced by lowering temperature to 15-18°C, increasing
   humidity above 90%, and providing fresh air exchange and diffuse light.
-- Biological efficiency on supplemented sawdust ranges from 30-60%.
-- The mushroom is also available in liquid culture form for
+- [[stamets-biological-efficiency-yield]] on supplemented sawdust ranges from 30-60%.
+- The mushroom is also available in [[comparison-liquid-culture-vs-grain-spawn]] form for
 ## See Also
+
+- [[sparassis-latifolia]]
 
 - [[hericium-erinaceus]]
 - [[trametes-versicolor-entity]]

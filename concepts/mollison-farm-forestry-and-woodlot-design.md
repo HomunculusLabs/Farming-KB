@@ -1,5 +1,5 @@
 ---
-title: "Farm Forestry and Woodlot Design in Permaculture"
+title: "mollison farm forestry and woodlot design and Woodlot Design in Permaculture"
 created: 2026-04-26
 tags:
   - permaculture
@@ -26,7 +26,7 @@ or forestry research centres.
 
 ## Benefits of Tree Integration
 
-The benefits of integrating trees into farm systems are
+The [[query-benefits-of-integrating-chickens-into-permaculture]] trees into farm systems are
 numerous and well-documented:
 
 - Trees provide forages in hard times for livestock and
@@ -52,7 +52,7 @@ sheep or geese.
 Many trees are hostile to pasture, competing for water or
 nutrients (forest eucalypts, some pines), while others are less
 competitive (Acacia melanoxylon, Eucalyptus camaldulensis,
-Grevillea robusta, honey locust). Trees such as poplar, fig,
+Grevillea robusta, [[permaculture-honey-locust-pod-fodder-system]]). Trees such as poplar, fig,
 willow, chestnut, oak, and pine may all provide forage and
 other products in the medium term.
 
@@ -67,7 +67,7 @@ less integrated with livestock. Woodlot types include:
   Acacia species, Casuarina, and eucalypt species.
 - Polewood production for fencing, house, and furniture
   construction. Durable timbers include chestnut, raspberry jam
-  acacia, osage orange, black or honey locust, and cedars.
+  acacia, [[bloomfield-ghosts-of-evolution-osage-orange-anachronism]], black or honey locust, and cedars.
 - Long-term fine timbers such as black walnut, oak, rosewood,
   fine cedars, redwoods, and blackwood, planted as retirement
   trusts for farmers or their families.
@@ -126,7 +126,7 @@ or village, forestry.
 There can be 5-6 types of forestry on any farm of 50 ha or more
 (or in and around villages), including orchard production. Some
 special forests are possible on specific sites such as swamps
-or acid uplands. Farm forest design should be oriented to site
+or acid uplands. Farm [[comparison-food-forest-design-vs-backyard-orchard-design]] should be oriented to site
 and purpose to enhance other farm enterprises, to supply local
 needs, and to give potential for a wide range of end products.
 
@@ -134,13 +134,15 @@ needs, and to give potential for a wide range of end products.
 
 For very small farms, trees need to be carefully selected and
 placed to maximise short- to medium-term uses (forage, mulch,
-honey, nitrogen fixation in soils), to assist crop and building
+honey, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] in soils), to assist crop and building
 efficiency, and to assist the microclimate of the property.
 Small farm design needs as much detailing as large forest
 design systems.
 
 ## See Also
 
+- [[mollison-farm-dam-design-modifications]]
+
 - [[woodlot-and-coppicing]]
 - [[mollison-tree-biomass-and-forest-as-living-entity]]
-- [[mollison-windbreak-design]]
+- mollison-windbreak-design

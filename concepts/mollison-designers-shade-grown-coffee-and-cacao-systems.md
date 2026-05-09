@@ -1,5 +1,5 @@
 ---
-title: Shade-Grown Coffee and Cacao Systems
+title: Shade-Grown [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] shade grown coffee and cacao systems Systems
 created: 2026-04-26
 tags:
   - permaculture
@@ -17,9 +17,9 @@ type: concept
 # Shade-Grown Coffee and Cacao Systems
 
 Coffee (Coffea spp., especially C. arabica and C. robusta) and cacao
-(Theobroma cacao) are presented in the Permaculture Designers Manual as
+([[theobroma-cacao]]) are presented in the Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] as
 ideal understory crops within tropical polycultures. Rather than being
-grown as monoculture plantations, both crops achieve their highest yields
+grown as monoculture plantations, both crops achieve their [[query-which-cannabis-training-techniques-produce-highest-yields]]
 and quality when integrated into multi-strata systems that mimic natural
 forest architecture.
 
@@ -30,7 +30,7 @@ Coffee bushes thrive in the shade of larger trees. In the discussion of
 
 - [[mollison-wet-tropical-forest-structure-and-polyculture]]
 - [[mollison-avenue-cropping-with-legumes]]
-- [[mollison-evolving-polyculture-systems-for-settlements]]
+- mollison-evolving-polyculture-systems-for-settlements
 ## Practical Applications
 
 Shade-Grown Coffee and Cacao Systems has a range of practical applications that make it relevant to
@@ -48,7 +48,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -98,7 +98,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -108,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

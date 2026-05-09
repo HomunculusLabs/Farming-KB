@@ -14,7 +14,7 @@ Ergometrine is a potent uterotonic agent used in obstetrics to prevent and
 treat postpartum hemorrhage. It also exhibits vasoconstrictive, serotonergic,
 dopaminergic, and mild psychedelic properties. As a direct structural precursor
 to [[ergot-alkaloids-eleusinian-mysteries]]; contributes
-  to receptor binding conformation.
+  to [[tihkal-receptor-binding-serotonin]] conformation.
 - **C-9,10 double bond**: Essential for planarity of the D ring and 5-HT
   receptor interaction.
 - **Chirality**: Natural isomer is (8R,9S); inversion at C-8 abolishes
@@ -53,12 +53,13 @@ before placental delivery.
 
 ## Natural Occurrence
 
-- **Claviceps purpurea**: Primary source, parasitizing rye, wheat, barley.
+- **[[bloomfield-ergot-claviceps-purpurea-ergotism]]**: Primary source, parasitizing rye, wheat, barley.
   Ergometrine comprises ~10-20% of ergot sclerotia alkaloid content.
 - **Claviceps paspali**: Produces ergometrine alongside clavine alkaloids.
 - **[[morning-glory-entheogens]]): Minor constituent alongside ergine.
-- **[[argyreia-nervosa]]
+- **argyreia-nervosa
 - [[claviceps-paspali]]
+
 ## Practical Considerations
 
 Successful implementation of Ergometrine requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

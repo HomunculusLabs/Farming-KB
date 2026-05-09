@@ -1,5 +1,5 @@
 ---
-title: Plutarch and Cicero on the Eleusinian Mysteries
+title: Plutarch and Cicero on the mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
@@ -36,7 +36,7 @@ Plutarch provides the most vivid description of the initiatory experience in his
 This passage maps the psychological trajectory of the experience with precision:
 
 1. **Pre-initiation anxiety**: "wandering and toilsome running about" -- the pilgrimage along the Sacred Road, fasting, and anticipatory dread.
-2. **The onset**: "terrors, shuddering and trembling, and sweat" -- the physical symptoms of the psychoactive compound taking effect in the darkened telesterion. These symptoms (fear, trembling, nausea, cold sweat) are precisely the initial effects reported for lysergic acid amide and related compounds. The [[wasson-hofmann-ruck-collaboration]] -- the kykeon was not a teaching tool but a catalyst for direct experience.
+2. **The onset**: "terrors, shuddering and trembling, and sweat" -- the physical symptoms of the psychoactive compound taking effect in the darkened telesterion. These symptoms (fear, trembling, nausea, cold sweat) are precisely the initial effects reported for [[ergot-and-lysergic-acid-history]] amide and related compounds. The [[wasson-hofmann-ruck-collaboration]] -- the kykeon was not a teaching tool but a catalyst for direct experience.
 
 ## The Secrecy Problem
 
@@ -54,11 +54,11 @@ Additional references from ancient authors, while briefer, reinforce the pattern
 
 - **Sophocles**: "Thrice happy are those of mortals, who having seen those rites depart for Hades; for to them alone is granted to have a true life there."
 - **Aristides**: Called Eleusis "a shrine common to the whole earth, and of all the divine things that exist among men, it is both the most awesome and the most luminous."
-- **Pindar**: The great lyric poet testified to the overwhelming value of what was seen at Eleusis. As the authors of *The Road to Eleusis* note, the Greeks were sophisticated about drama and it is highly unlikely they could have been duped by theatrical trickery alone.
+- **Pindar**: The great lyric poet testified to the overwhelming value of what was seen at Eleusis. As the authors of *The [[the-road-to-eleusis-wasson-hofmann-ruck]]* note, the Greeks were sophisticated about drama and it is highly unlikely they could have been duped by theatrical trickery alone.
 - **Isocrates**: Praised the Mysteries for teaching piety and the proper conduct of life.
 - **Aristophanes**: The comic poet, in "The Frogs," parodied the initiation but in doing so revealed knowledge of its structure -- suggesting the basic framework was widely known even if the central experience remained secret.
 
-The consistent pattern across all testimonies -- from poets, philosophers, and politicians spanning centuries -- is that the [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]] of Demeter and Persephone provided the narrative container, but the transformative power came from what happened within the telesterion.
+The consistent [[psilocin-accumulation-pattern-across-flushes]] all testimonies -- from poets, philosophers, and politicians spanning centuries -- is that the [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]] of Demeter and Persephone provided the narrative container, but the transformative power came from what happened within the telesterion.
 
 Source: raw/papers/the-road-to-eleusis.md
 
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

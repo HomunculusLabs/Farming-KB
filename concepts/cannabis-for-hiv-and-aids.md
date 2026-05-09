@@ -57,7 +57,7 @@ Supporting approaches: working with personal power, appropriate defenses, love a
 ## Supporting Herbs
 
 - **Acacia**: Aqueous extract effective in vitro against HIV reverse transcriptase (Mumbai study, 2006)
-- **Coconut**: Medium-chain fatty acids reduce virus concentration in HIV-infected blood products; potential spermicidal and virucidal agents
+- **Coconut**: Medium-chain [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] reduce virus concentration in HIV-infected blood products; potential spermicidal and virucidal agents
 
 ## See Also
 
@@ -67,7 +67,7 @@ Supporting approaches: working with personal power, appropriate defenses, love a
 
 ## Source
 
-Blesching, U. (2015). *The Cannabis Health Index*. Chapter IV: "HIV/AIDS." North Atlantic Books.
+Blesching, U. (2015). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. Chapter IV: "HIV/AIDS." North Atlantic Books.
 - [[cannabis-for-cachexia-and-appetite-stimulation]]
 ## Practical Considerations
 
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

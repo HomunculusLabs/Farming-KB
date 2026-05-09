@@ -1,5 +1,5 @@
 ---
-title: 4 Tim Entity
+title: 4 2-tim-entity-pihkal
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # 4-TIM (4-Thioisomescaline; 3,4-Dimethoxy-5-methylthiophenethylamine)
 
-4-TIM is a sulfur-substituted phenethylamine and the thio-analogue of isomescaline, with a methylthio group replacing the 5-methoxy oxygen. It is a member of the thiomescaline series with moderate potency and a mixed quality of effects. The compound is listed as PIHKAL entry #154.
+4-TIM is a sulfur-substituted phenethylamine and the thio-analogue of isomescaline, with a methylthio group replacing the 5-methoxy oxygen. It is a member of the thiomescaline series with moderate potency and a mixed quality of effects. The compound is listed as [[2c-b-pihkal-entry-20]] #154.
 
 ## Chemical Classification
 
@@ -107,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

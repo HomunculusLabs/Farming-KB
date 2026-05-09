@@ -1,17 +1,11 @@
 ---
-title: "Comparison Biointensive Vs Square Foot Gardening"
-created: 2026-05-02
-updated: 2026-05-02
-type: comparison
-tags: [gardening]
-sources: []
 ---
----
-title: "Biointensive vs [[square-foot-gardening]]"
+title: "Biointensive vs square-foot-gardening"
 tags: [comparison, gardening, biointensive, square-foot, intensive-agriculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 ---
 
 # Biointensive vs Square Foot Gardening
@@ -20,7 +14,7 @@ sources: []
 
 Biointensive gardening and [[john-jeavons]] through
 Ecology Action, emphasizes closed-loop soil fertility through dedicated compost crops, deep
-[[natural-farming-guide-raised-bed-and-intensive-gardening]] with a grid-based raised bed system using a
+[[natural-farming-guide-raised-bed-and-intensive-gardening]] with a grid-based [[comparison-chinampas-vs-raised-bed-gardening]] system using a
 proprietary soil mix and standardized plant spacing rules.
 
 ## Biointensive Gardening
@@ -40,7 +34,7 @@ bed, making it impractical for many home gardeners.
 A core philosophy of biointensive gardening is that at least 60% of the growing area should be
 devoted to compost crops (such as wheat, oats, rye, and fava beans) and calorie crops (such as
 potatoes, sweet potatoes, and parsnips) rather than vegetables. This focus on soil-building and
-staple calorie production creates a genuinely self-sufficient food system, but it means less
+staple [[solomon-self-sufficiency-calorie-production-economics]] creates a genuinely self-sufficient food system, but it means less
 space is available for the diverse vegetable harvests that most home gardeners expect. The
 method has been validated through decades of research at Ecology Action's mini-farm in Willits,
 California, and is widely taught in sustainable agriculture programs worldwide.
@@ -57,8 +51,8 @@ Square foot gardening is the best choice for beginners, urban gardeners, and any
 productive garden without the physical demands of traditional methods. The system is
 particularly well-suited for educational settings such as schools, community gardens, and
 therapeutic horticulture programs because the grid provides a clear visual framework for
-learning about plant spacing and garden planning. It is also ideal for gardeners with physical
-limitations since the raised beds reduce bending and the small area minimizes walking and heavy
+learning about plant spacing and [[hamilton-garden-planning-and-site-assessment]]. It is also ideal for gardeners with physical
+limitations since the [[comparison-raised-beds-vs-hugelkultur]] reduce bending and the small area minimizes walking and heavy
 lifting.
 
 ## Hybrid Approaches
@@ -92,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

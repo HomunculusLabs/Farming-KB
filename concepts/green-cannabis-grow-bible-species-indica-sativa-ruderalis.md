@@ -1,5 +1,5 @@
 ---
-title: Cannabis Species - Indica, Sativa, and Ruderalis - Greg Green's Cannabis Grow Bible
+title: Cannabis Species - Indica, Sativa, and Ruderalis - Greg Green's green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
 created: 2026-04-26
 tags:
   - cannabis-species
@@ -48,11 +48,11 @@ Indica plants are compact and bushy compared to Sativa. Key traits:
 - Leaf: Rounded leaves with marble-like patterns.
 - High: Produces a "body stone" or couch-lock effect.
 - Flowering time: Shorter flowering period, typically 6 to 8 weeks.
-- Growth: Stays compact, ideal for indoor growing.
+- Growth: Stays compact, ideal for [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]].
 
 Pure Indica delivers a total body stone/couch-lock. Indica plants are
 well-suited to indoor environments because of their short stature and
-rapid flowering cycle. Many indoor growers prefer Indica-dominant strains.
+rapid [[cannabis-sativa-flowering-cycle-management]]. Many indoor growers prefer Indica-dominant strains.
 
 ### Ruderalis
 
@@ -92,7 +92,7 @@ The type of high produced depends on the species ratio in a strain:
 - 60% Indica / 40% Sativa = 60% body stone, 40% head high
 - 60% Sativa / 40% Indica = 60% head high, 40% body stone
 
-The 60/40 ratio is the most common among hybrids. Harvest timing also
+The 60/40 ratio is the most common among hybrids. [[cannabis-harvest-timing-visual-cues]] also
 affects the high type. Later harvests promote more couch-lock effects,
 while harvesting just before peak induces a more cerebral experience.
 

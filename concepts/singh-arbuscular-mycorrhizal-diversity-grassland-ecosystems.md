@@ -1,5 +1,5 @@
 ---
-title: Arbuscular Mycorrhizal Diversity in Grassland Ecosystems
+title: comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi Diversity in Grassland Ecosystems
 created: 2026-04-28
 tags: [arbuscular-mycorrhiza, grassland-ecology, biodiversity, soil-ecology]
 date: 2026-04-25
@@ -25,7 +25,7 @@ fluctuations in diversity, abundance, and activity patterns:
   summer
 - Extraradical hyphal length density fluctuates with soil moisture and
   temperature, reaching maximum extension during warm, moist periods
-- Community composition shifts seasonally as different AMF taxa exhibit
+- [[core-endorhiza-bacterial-community-composition-cannabis]] shifts seasonally as different AMF taxa exhibit
   distinct phenological patterns and environmental optima
 - Winter dormancy reduces but does not eliminate AMF activity, with
   some cold-tolerant species maintaining low-level hyphal growth and
@@ -33,7 +33,7 @@ fluctuations in diversity, abundance, and activity patterns:
 
 Molecular monitoring studies have revealed that rare AMF taxa may serve
 as a seed bank that responds rapidly to changing environmental conditions,
-maintaining functional resilience of the mycorrhizal community across
+maintaining functional resilience of the [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] across
 seasonal fluctuations.
 
 ## Grazing Effects on AMF Communities
@@ -87,7 +87,7 @@ community restoration in some cases.
 
 ## Soil Properties and AMF Diversity
 
-Edaphic factors that structure AMF communities in grasslands include:
+[[soil-edaphic-factors-microbial-communities]] that structure AMF communities in grasslands include:
 
 - Soil pH strongly filters AMF species composition, with acidic soils
   favoring Acaulosporaceae and alkaline soils supporting Glomeraceae
@@ -96,7 +96,7 @@ Edaphic factors that structure AMF communities in grasslands include:
   selecting for species with extensive extraradical networks and clay
   soils supporting species with intensive intraradical colonization
 - Organic matter content correlates positively with AMF diversity through
-  improved soil structure, moisture retention, and nutrient availability
+  improved soil structure, moisture retention, and [[ph-and-nutrient-availability-garden-soils]]
 - Soil moisture regime distinguishes hygrophilous from xerophilous AMF
   communities, with implications for grassland responses to drought and
   climate change
@@ -107,7 +107,7 @@ The functional consequences of AMF diversity loss in grasslands include
 reduced plant productivity, decreased plant community stability, impaired
 nutrient cycling, and increased susceptibility to invasion by non-mycorrhizal
 plant species. Conservation of AMF diversity is therefore essential for
-maintaining grassland ecosystem services including forage production, carbon
+maintaining grassland [[biodiversity-of-fungi-ecosystem-services-agriculture]] including forage production, carbon
 sequestration, and biodiversity support.
 ## See Also
 

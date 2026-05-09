@@ -1,11 +1,11 @@
 ---
-title: Cannabis Pruning and Defoliation Guide
+title: Cannabis cannabis pruning and defoliation guide Guide
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 
 # Cannabis Pruning and Defoliation Guide
@@ -18,11 +18,11 @@ See [[cannabis-scrog-and-sog-methods]] for canopy management in specialized setu
 
 Cannabis plants develop in three distinct vertical sections during their life cycle: the top cola, the mid-section with secondary branches and buds, and the base with large fan leaves and minimal bud production. The top cola receives the most light and produces the largest bud. The mid-section produces smaller but equally potent buds between nodes near the stem. The bottom section is dominated by fan leaves that gather light for the plant but produce little smokable material.
 
-Understanding these zones allows the grower to direct the plant's energy toward the most productive areas. Pruning, thinning, and defoliation are tools for this redirection. The fundamental principle is that the plant will always try to grow like a Christmas tree, with a dominant central cola and progressively smaller branches below. The grower's job is to reshape this natural form into something that better serves the indoor environment.
+Understanding these zones allows the grower to direct the plant's energy toward the most productive areas. Pruning, thinning, and defoliation are tools for this redirection. The fundamental principle is that the plant will always try to grow like a [[arthur-christmas-tree-amanita-muscaria]], with a dominant central cola and progressively smaller branches below. The grower's job is to reshape this natural form into something that better serves the indoor environment.
 
 ## Topping (Apical Pruning)
 
-Topping is the practice of removing the apical meristem, the main growing tip of the plant, during the third or fourth week of vegetative growth. The cut is made just above the last branch formation, typically at a 45-degree angle to the shoot being cut. This causes the main stem to split into two or more new branches, replacing a single top cola with two or more colas of similar size.
+Topping is the practice of removing the apical meristem, the main growing tip of the plant, during the third or fourth week of [[cannabis-vegetative-growth-stage]]. The cut is made just above the last branch formation, typically at a 45-degree angle to the shoot being cut. This causes the main stem to split into two or more new branches, replacing a single top cola with two or more colas of similar size.
 
 The effectiveness of topping varies significantly by strain. Some strains like Blueberry respond dramatically to topping, producing substantially more total bud when topped versus left untrained. Other strains simply redistribute the same volume across two smaller colas, with no net gain. Experimenting with topping on 2 out of every 10 plants per grow is recommended to learn how a particular strain responds.
 
@@ -46,7 +46,7 @@ Most stem breaks heal within one to two weeks if properly supported. The plant w
 
 ## Defoliation and Pest Prevention
 
-Removing dead or dying foliage from the grow area reduces hiding places for pests and eliminates potential sites for mold colonization. Leaves with visible mold, rust, or unusual spotting should be removed immediately and disposed of outside the grow space. Good defoliation hygiene is a component of integrated pest management as described in cannabis pest management.
+Removing dead or dying foliage from the grow area reduces hiding places for pests and eliminates potential sites for mold colonization. Leaves with visible mold, rust, or unusual spotting should be removed immediately and disposed of outside the grow space. Good defoliation hygiene is a component of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management as described in [[query-how-to-use-neem-oil-for-cannabis-pest-control]] management.
 
 Mold looks like a rust or fluff on leaves and will spread to other parts of the plant if left unchecked. Any leaves showing signs of mold should be cut away during thinning sessions. Maintaining good airflow through proper pruning and plant spacing is one of the most effective mold prevention strategies available.
 
@@ -58,7 +58,7 @@ All tools should be sterilized with isopropyl alcohol between plants to prevent 
 
 ## Pruning and Strain Response
 
-Indica-dominant strains tend to respond well to topping and bush training because their natural branching structure supports multiple colas. Sativa-dominant strains are naturally tall with longer internodal spacing and may require more aggressive training to control height. Without pruning, a Sativa plant will typically stretch to five feet or more indoors, making topping or training almost mandatory for most grow spaces.
+Indica-dominant strains tend to respond well to topping and bush training because their [[fukuoka-phyllotaxy-natural-branching-law]] structure supports multiple colas. Sativa-dominant strains are naturally tall with longer internodal spacing and may require more aggressive training to control height. Without pruning, a Sativa plant will typically stretch to five feet or more indoors, making topping or training almost mandatory for most grow spaces.
 
 When learning a new strain, always test pruning techniques on a subset of plants rather than the entire garden. Some strains have very specific responses that can only be learned through direct experience. Document the results of different pruning approaches for each strain to build a personal cultivation knowledge base.
 - [[cannabis-cloning-rooting-cuttings-method-clarke]]
@@ -82,3 +82,7 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[palmer-about-mushrooms-habitat-and-seasonal-guide]]
+- [[pf-tek-equipment-and-material-procurement-guide]]

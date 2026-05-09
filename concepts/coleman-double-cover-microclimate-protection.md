@@ -3,7 +3,7 @@ title: Double Cover Microclimate Protection
 created: 2026-05-08
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
-    title: The Winter Harvest Handbook - [[eliot-coleman]]
+    title: The [[coleman-claytonia-winter-harvest-cultivation]] Handbook - eliot-coleman
     author: Eliot Coleman
 updated: 2026-05-08
 type: concept
@@ -14,10 +14,10 @@ tags: [reference]
 
 ## The Two-Layer Principle
 
-The core innovation behind successful winter harvesting in cold
+The core innovation behind successful [[coleman-winter-harvesting-techniques]] in cold
 climates is the use of double coverage -- a greenhouse outer layer
 combined with a lightweight inner layer of floating row cover. This
-simple technique transforms the growing environment inside the beds
+simple technique transforms the [[cannabis-growing-environment-setup]] inside the beds
 from one that would be impossible for plant growth into a protected
 microclimate where cold-hardy vegetables can thrive through the
 coldest months of the year.
@@ -32,7 +32,7 @@ of its individual parts.
 
 ## Temperature Protection That Increases with Cold
 
-Research conducted both in the United States and during a January 1996
+Research conducted both in the [[dmt-containing-plants-united-states-halpern]] and during a January 1996
 study trip along the 44th parallel in France and Italy has revealed
 a remarkable characteristic of double-layer protection. When the
 outside temperature drops to 25 degrees Fahrenheit (-4 degrees
@@ -62,7 +62,7 @@ The practical significance of this zone shift cannot be overstated.
 Many crops that would be impossible to grow outdoors in a Zone 5
 winter -- including spinach, claytonia, mache, and various Asian
 greens -- not only survive but continue productive growth throughout
-the Persephone months. The twice-tempered microclimate of the beds
+the [[coleman-persephone-months-winter-day-length]]. The twice-tempered microclimate of the beds
 keeps soil temperatures above freezing even on the coldest nights,
 allowing replanting to continue right through winter.
 
@@ -97,7 +97,7 @@ overheating.
 The row cover fabric should be managed daily -- opened on sunny
 mornings and closed before temperatures drop in late afternoon. This
 routine becomes second nature quickly and represents the primary
-daily labor involved in winter greenhouse production. The fabric
+daily labor involved in [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] production. The fabric
 itself is lightweight and can be handled by one person, making it
 practical for small-scale operations.
 
@@ -124,3 +124,4 @@ considered impossible.
 
 - [[coleman-high-tunnel-cold-frame-design]]
 - [[coleman-cold-hardy-varieties]]
+- [[coleman-cold-greenhouse-double-layer-protection]]

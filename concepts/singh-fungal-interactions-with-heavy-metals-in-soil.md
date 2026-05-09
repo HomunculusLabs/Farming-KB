@@ -1,5 +1,5 @@
 ---
-title: "Fungal Interactions with Heavy Metals in Soil"
+title: "singh fungal interactions with heavy metals in soil with fungal-biosorption-of-heavy-metals-by-filamentous-fungi in Soil"
 created: 2026-04-28
 tags: [heavy-metals, biosorption, bioaccumulation, metallothioneins, tolerance]
 date: 2026-04-25
@@ -22,7 +22,7 @@ Singh's treatment of [[aspergillus-niger-in-fungal-bioleaching]] and penicillium
 - **Sources**: Lead-based paints, gasoline additives (historical), mining
 - **Toxicity**: Neurotoxin, particularly dangerous to children
 - **Fungal interactions**: Precipitated as insoluble lead phosphate by
-  phosphate-solubilizing fungi; adsorbed to cell wall components
+  phosphate-solubilizing fungi; adsorbed to [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] components
 
 ### Zinc (Zn) and Copper (Cu)
 
@@ -49,7 +49,7 @@ Singh's treatment of [[aspergillus-niger-in-fungal-bioleaching]] and penicillium
 
 ## Biosorption: Passive Metal Binding
 
-Biosorption is passive uptake by non-living fungal biomass through
+Biosorption is passive uptake by non-living [[bioremediation-fungal-biomass-biosorbent-material]] through
 physicochemical mechanisms:
 
 ### Cell Wall Binding Sites
@@ -96,7 +96,7 @@ metal ions and facilitate vacuolar sequestration.
 4. **Enzymatic detoxification**: Cr(VI) reduction, arsenic methylation,
   As(III) oxidation
 5. **Antioxidant defense**: SOD, catalase, and glutathione peroxidase
-  counter metal-induced oxidative stress
+  counter metal-induced [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
 
 ## Soil Interactions and Mycoremediation
 
@@ -104,3 +104,7 @@ Fungi influence metal mobility through multiple mechanisms:
 [[mycorrhizal-fungi]] for enhanced extraction), and in situ immobilization
 (fungal inoculation precipitating metals as insoluble forms).
 ## See Also
+
+- [[fungal-interactions-organisms]]
+- [[singh-bioaccumulation-heavy-metals-fungi]]
+- fungal-microbe-interactions

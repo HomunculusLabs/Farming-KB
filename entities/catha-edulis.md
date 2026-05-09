@@ -14,7 +14,7 @@ sources: []
 
 ## Taxonomy and Nomenclature
 
-*Catha edulis* is the sole species in the genus *Catha*, which belongs to the family Celastraceae (the bittersweet or staff vine family). The family includes approximately 90 genera and 1,300 species, many of which contain bioactive compounds. The species was first described by the Finnish botanist Peter Forsskål based on specimens collected in Yemen in the 1760s, though earlier botanical references exist.
+*Catha edulis* is the sole species in the genus *Catha*, which belongs to the family Celastraceae (the bittersweet or staff vine family). The family includes approximately 90 genera and 1,300 species, many of which contain [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]. The species was first described by the Finnish botanist Peter Forsskål based on specimens collected in Yemen in the 1760s, though earlier botanical references exist.
 
 The Arabic name *qat* (قات) is the origin of the English word "khat." Alternative names reflect the plant's wide cultural distribution: *miraa* and *veve* in Kenya, *chat* in Ethiopia, *jaad* in Somalia, and *gaadhaa* in Oromo. In botanical literature prior to the 20th century, the plant was sometimes classified in the genus *Celastrus* or *Buxus*.
 
@@ -38,7 +38,7 @@ The plant thrives at elevations between 1,500 and 2,500 meters in regions with a
 
 The psychoactive properties of khat are primarily attributed to several phenylalkylamine alkaloids that are structurally related to amphetamines:
 
-- **Cathinone** (S-(-)-alpha-aminopropiophenone) — the principal active compound and a Schedule I controlled substance in many countries. Cathinone is chemically identical in structure to the naturally occurring alkaloid in *Catha edulis* and is closely related to amphetamine (differing only by a ketone group at the beta position). It is a releasing agent for dopamine, norepinephrine, and serotonin. Cathinone is highly unstable and degrades rapidly after harvest, with a half-life of approximately 48 hours at room temperature.
+- **Cathinone** (S-(-)-alpha-aminopropiophenone) — the principal active compound and a Schedule I controlled substance in many countries. Cathinone is chemically identical in structure to the naturally occurring alkaloid in *Catha edulis* and is closely related to amphetamine (differing only by a ketone group at the beta position). It is a releasing agent for dopamine, norepinephrine, and [[serotonin]]. Cathinone is highly unstable and degrades rapidly after harvest, with a half-life of approximately 48 hours at room temperature.
 - **Cathine** (d-norpseudoephedrine or (+)-norsynephrine) — a milder stimulant and the primary degradation product of cathinone. Cathine is approximately 7 to 10 times less potent than cathinone but is more stable and persists in dried plant material. It is a Schedule IV controlled substance in the United States.
 - **Norephedrine** (L-phenylpropanolamine) — a minor alkaloid also present in the plant with mild stimulant properties.
 - **Merucathinone** and **merucathine** — additional minor cathinone analogs identified in some cultivars.
@@ -52,7 +52,7 @@ Khat chewing produces stimulant effects broadly similar to those of amphetamine 
 - **Onset**: 15 to 30 minutes after beginning to chew fresh leaves
 - **Duration**: 3 to 6 hours, depending on the freshness, quantity consumed, and individual tolerance
 - **Physical effects**: Increased alertness and wakefulness, elevated heart rate (10 to 30 bpm increase) and blood pressure, mild pupil dilation, reduced appetite, increased body temperature, improved physical endurance, and mild bronchodilation
-- **Psychological effects**: Euphoria, increased talkativeness and sociability, enhanced concentration and focus, elevated mood, mild anxiolysis at moderate doses, and occasional irritability or anxiety at higher doses. Some users report enhanced creative thinking and intellectual productivity.
+- **[[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]]**: Euphoria, increased talkativeness and sociability, enhanced concentration and focus, elevated mood, mild anxiolysis at moderate doses, and occasional irritability or anxiety at higher doses. Some users report enhanced creative thinking and intellectual productivity.
 
 The experience is consistently described by habitual users as producing a pleasant sense of well-being, increased mental clarity, and enhanced social interaction. Unlike many stimulants, khat is almost exclusively used in social, communal settings rather than individually. The communal nature of khat sessions means that the stimulant effects are typically channeled into conversation, debate, and group activities rather than solitary pursuits.
 
@@ -72,7 +72,7 @@ These sessions play crucial roles in the social fabric: they serve as venues for
 
 ### Economic Significance
 
-Khat cultivation and trade constitute a major sector of the economies of Ethiopia, Yemen, and Somalia. In Ethiopia, khat is one of the top export crops, generating hundreds of millions of dollars annually. In Yemen, khat cultivation occupies a significant percentage of arable land and irrigation water, raising concerns about food security and resource allocation. The trade is facilitated by air transport to ensure freshness, as the psychoactive cathinone degrades rapidly after harvest. Daily flights from Ethiopian growing regions to markets across the Horn of Africa, the Middle East, and increasingly to diaspora communities in Europe and North America are a well-known feature of regional aviation.
+Khat cultivation and trade constitute a major sector of the economies of Ethiopia, Yemen, and Somalia. In Ethiopia, khat is one of the top export crops, generating hundreds of millions of dollars annually. In Yemen, khat cultivation occupies a significant percentage of arable land and irrigation water, raising concerns about food security and resource allocation. The trade is facilitated by air transport to ensure freshness, as the psychoactive cathinone degrades rapidly after harvest. Daily flights from Ethiopian growing regions to markets across the Horn of Africa, the Middle East, and increasingly to diaspora communities in Europe and [[psilocybin-north-america-pacific-northwest]] are a well-known feature of regional aviation.
 
 ## Health Considerations
 
@@ -92,7 +92,7 @@ The World Health Organization has classified khat as a drug of abuse causing dep
 
 The plant requires well-draining, fertile soils and a climate with consistent moisture and moderate temperatures. Khat is typically grown as an intercrop with food crops such as coffee, enset (false banana), maize, and legumes. In Yemen, khat is often terraced on steep hillsides. Regular pruning encourages the production of young, tender growth with higher alkaloid content. Plants reach harvestable size within 3 to 5 years and can remain productive for 50 to 100 years with proper management.
 
-Pests and diseases affecting khat include various fungal pathogens, nematodes, and insect pests such as whiteflies and caterpillars. However, khat is generally considered a hardy crop with relatively low vulnerability to major pest outbreaks.
+[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] affecting khat include various [[bloomfield-fungal-pathogens-and-parasites]], nematodes, and insect pests such as whiteflies and caterpillars. However, khat is generally considered a hardy crop with relatively low vulnerability to major pest outbreaks.
 
 ## Economic and Social Impact
 
@@ -108,7 +108,7 @@ Khat's legal status varies dramatically worldwide, reflecting the tension betwee
 - **Controlled or banned**: United Kingdom (classified as a Class C drug since June 2014, making it illegal to produce, supply, possess, or import), Canada (Schedule IV), the Netherlands (banned since 2012), most Scandinavian countries, and many EU member states
 - **United States**: Cathinone is a Schedule I controlled substance. The plant material itself is not federally scheduled but is classified as a controlled substance in several states. Federal prosecutors have used the Federal Analog Act to prosecute khat-related cases in some jurisdictions.
 - **Australia**: Classified as a Schedule 4 (prescription only) controlled substance nationally since the 1980s. Importation and possession without a prescription are criminal offenses.
-- **Canada**: Cathinone and cathine are listed in Schedule I and Schedule IV of the Controlled Drugs and Substances Act, respectively. Khat importation and possession are prohibited.
+- **Canada**: Cathinone and cathine are listed in Schedule I and Schedule IV of the Controlled Drugs and [[controlled-substances-act-and-psychedelic-research]], respectively. Khat importation and possession are prohibited.
 - **Israel**: Khat is classified as a dangerous drug and its importation, sale, and possession are criminal offenses, despite its presence in neighboring Arab countries.
 - **Middle Eastern countries**: Most Gulf Cooperation Council (GCC) nations have banned khat, including Saudi Arabia, the United Arab Emirates, and Kuwait.
 

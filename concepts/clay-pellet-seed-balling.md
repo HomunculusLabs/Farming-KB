@@ -1,5 +1,5 @@
 ---
-title: Clay Pellet Seed Balling
+title: fukuoka-clay-pellet-aerial-seeding-method Seed Balling
 created: 2026-04-28
 tags:
   - natural-farming
@@ -18,13 +18,13 @@ type: concept
 # Clay Pellet Seed Balling
 
 Clay pellet seed balling is [[direct-seeded-no-tillage-rice-barley-succession|no-tillage rice-barley]]
-succession cropping system depends on reliable direct seeding. However, direct seeding
+succession cropping system depends on reliable [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]. However, direct seeding
 into untilled soil presents several challenges: seeds may be eaten by birds, mice, or
 insects; they may dry out before germinating; or they may be washed away by rain. In a
 conventional tilled field, these problems are addressed by plowing, harrowing, and
 covering the seed bed, but this defeats the purpose of no-tillage farming.
 
-Clay pellets solve these problems elegantly by providing physical protection and
+[[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] solve these problems elegantly by providing physical protection and
 microenvironmental control without disturbing the soil.
 
 ## Composition of the Clay Pellet
@@ -37,7 +37,7 @@ The pellet also serves as a microbial delivery system. One gram of soil from Fuk
 farm contained about 100 million nitrogen-fixing bacteria and other soil-enriching
 microbes. By mixing soil into the pellet, these beneficial microorganisms are inoculated directly into the germination zone.
 
-The inclusion of organic matter within the pellet provides initial nutrients for the
+The inclusion of [[hamilton-composting-and-organic-matter-management]] within the pellet provides initial nutrients for the
 seedling once germination begins, while the clay regulates moisture retention and
 release. This combination of physical protection, biological inoculation, and nutrient
 provision creates ideal conditions for germination without any external inputs.
@@ -58,7 +58,7 @@ minimal equipment. The basic steps are:
 5. **Store or broadcast**: Dried pellets can be stored for later use or broadcast
    directly onto the field surface.
 
-The simplicity of this process is intentional. Fukuoka insists that farming methods
+The simplicity of this process is intentional. Fukuoka insists that [[natural-farming-methods-comparison]]
 should be accessible to anyone, requiring no specialized equipment or imported inputs.
 
 ## Applications in Farming

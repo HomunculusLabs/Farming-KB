@@ -11,7 +11,7 @@ updated: 2026-05-08
 sources:
   - Archer AW, Elix JA. (2004). "A key and annotated species catalogue of the lichen family Pertusariaceae in Australia." Bibliotheca Lichenologica 88.
   - Smith CW, Aptroot A, Coppins BJ, et al. (2009). The Lichens of Great Britain and Ireland. British Lichen Society.
-  - Brodo IM, Sharnoff SD, Sharnoff S. (2001). Lichens of North America. Yale University Press.
+  - Brodo IM, Sharnoff SD, Sharnoff S. (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
   - Wirth V, Hauck M, Schultz M. (2013). Die Flechten Deutschlands. Eugen Ulmer.
 ---
 
@@ -21,7 +21,7 @@ Pertusaria pertusa, commonly known as the wart lichen, is a widespread crustose 
 
 The species is one of the most common and recognizable Pertusaria species in temperate Europe. It is an important component of mature epiphytic lichen communities on old-growth trees in forested landscapes.
 
-P. pertusa is chemically distinctive, containing thiophanic acid as its primary secondary metabolite. This compound gives the medulla a characteristically yellow reaction with potassium hydroxide (K+ yellow).
+P. pertusa is chemically distinctive, containing thiophanic acid as its primary [[fungal-elicitors-enhanced-secondary-metabolite-production]]. This compound gives the medulla a characteristically yellow reaction with potassium hydroxide (K+ yellow).
 
 ## Taxonomy and Morphology
 
@@ -41,9 +41,9 @@ Pycnidia are immersed, producing filiform (thread-like) conidia approximately 15
 
 ## Distribution and Habitat
 
-Pertusaria pertusa has a broad distribution across temperate regions of Europe, extending from Scandinavia and the British Isles to the Mediterranean and into western Asia. It is also reported from eastern North America.
+Pertusaria pertusa has a broad distribution across temperate regions of Europe, extending from Scandinavia and the British Isles to the Mediterranean and into western Asia. It is also reported from [[polypore-fungi-eastern-north-america]] America.
 
-In the British Isles, P. pertusa is widespread and locally common, particularly in areas with mature forest cover and good air quality. It has shown significant recovery since the reduction of sulfur dioxide pollution.
+In the British Isles, P. pertusa is widespread and locally common, particularly in areas with mature forest cover and good [[cervantes-air-quality-ventilation]]. It has shown significant recovery since the reduction of sulfur dioxide pollution.
 
 The species is primarily epiphytic on the bark of mature deciduous trees, especially oak (Quercus spp.), ash (Fraxinus excelsior), and beech (Fagus sylvatica). It also occurs on sheltered siliceous rock surfaces and old stone walls.
 
@@ -55,9 +55,9 @@ The species is intolerant of heavy shade and is rarely found in dense forest int
 
 Pertusaria pertusa contains thiophanic acid as its primary medullary compound, which produces a K+ yellow reaction. This chemical signature distinguishes P. pertusa from many other Pertusaria species that contain different depsidones.
 
-Additional secondary metabolites may include stictic acid traces and occasionally norstictic acid in some populations. The cortical layer contains no distinctive secondary compounds, giving C– reactions.
+Additional [[antifungal-secondary-metabolites-coprophilous-fungi]] may include stictic acid traces and occasionally norstictic acid in some populations. The cortical layer contains no distinctive secondary compounds, giving C– reactions.
 
-The species is morphologically variable and chemical analysis is often necessary for reliable identification. Thin-layer chromatography (TLC) is the standard method for confirming the presence of thiophanic acid.
+The species is morphologically variable and [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] is often necessary for reliable identification. Thin-layer chromatography (TLC) is the standard method for confirming the presence of thiophanic acid.
 
 Standard spot test reactions for P. pertusa are: cortex K–, C–, KC–, PD–; medulla K+ yellow, C–, PD–. The K+ yellow medullary reaction with large multi-celled spores is diagnostic.
 

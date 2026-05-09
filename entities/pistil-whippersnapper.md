@@ -20,7 +20,7 @@ sources:
 
 # Pistil Whippersnapper
 
-**Pistil Whippersnapper** is a sativa-dominant cannabis strain known for its energetic, creatively stimulating effects and distinctive tropical aroma profile. The strain is appreciated by cultivators for its vigorous growth, high yields, and resilience in warm climates, making it a favorite among outdoor and greenhouse growers in Mediterranean and subtropical regions.
+**Pistil Whippersnapper** is a sativa-dominant cannabis strain known for its energetic, creatively stimulating effects and distinctive tropical aroma profile. The strain is appreciated by cultivators for its vigorous growth, high yields, and resilience in warm climates, making it a favorite among [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]] growers in Mediterranean and subtropical regions.
 
 ## Genetic Lineage
 
@@ -38,7 +38,7 @@ The dominant terpenes in Pistil Whippersnapper are:
 - **Myrcene** (~0.8–1.2%) — Herbal, musky base note; contributes to the relaxing body component
 - **Limonene** (~0.6–1.0%) — Citrus, orange peel; elevating, mood-enhancing
 - **Pinene (alpha and beta)** (~0.4–0.8%) — Pine, fresh forest; promotes alertness and counteracts THC-induced cognitive fog
-- **Caryophyllene** (~0.3–0.5%) — Pepper, spice; anti-inflammatory via CB₂ receptor binding
+- **Caryophyllene** (~0.3–0.5%) — Pepper, spice; anti-inflammatory via CB₂ [[tihkal-receptor-binding-serotonin]]
 - **Terpinolene** (~0.2–0.4%) — Floral, fruity, slightly herbal; adds complexity and may contribute anxiolytic effects
 - **Linalool** (trace) — Floral, lavender; calming undertone
 
@@ -52,7 +52,7 @@ Typical laboratory-tested cannabinoid ranges:
 
 - **THC:** 18–24% (occasionally reaching 27% in well-grown phenotype selections)
 - **CBD:** <0.1–0.3% (non-significant; not recommended for CBD-dominant therapeutic use)
-- **CBG:** 0.5–1.2% (moderate; contributes to entourage effects)
+- **CBG:** 0.5–1.2% (moderate; contributes to [[beta-caryophyllene-entourage-effects-cannabis]])
 - **THCV:** 0.1–0.4% (present in some phenotypes; may contribute to the strain's stimulating, appetite-suppressing qualities)
 - **CBC:** Trace amounts
 
@@ -85,7 +85,7 @@ The cannabinoid-to-terpene ratio in Pistil Whippersnapper is notable for its rel
 
 ### Reported Therapeutic Uses
 
-- **Fatigue and low energy:** The stimulating properties make it suitable for daytime use by patients managing chronic fatigue syndrome, MS-related fatigue, or depression-related lethargy
+- **Fatigue and low energy:** The stimulating properties make it suitable for daytime use by patients managing [[cannabis-chronic-fatigue-research]] syndrome, MS-related fatigue, or depression-related lethargy
 - **Depression:** The mood-elevating effects can provide temporary relief from depressive symptoms, though it is not a substitute for clinical treatment
 - **ADHD:** Some patients report improved focus and task completion, though clinical evidence for cannabis in ADHD remains limited
 - **Mild pain management:** Effective for mild-to-moderate pain including headaches, muscle tension, and menstrual cramps, though not potent enough for severe or chronic pain
@@ -107,7 +107,7 @@ The cannabinoid-to-terpene ratio in Pistil Whippersnapper is notable for its rel
 - **Temperature:** Prefers 22–30°C during vegetative growth; tolerates higher temperatures better than most strains. Can handle temperatures up to 35°C with adequate watering and root zone cooling. Optimal flowering temperature: 18–26°C with a 5–8°C day/night differential for terpene production.
 - **Humidity:** 50–70% vegetative; reduce to 40–50% during flowering to prevent bud rot (this strain's large, dense colas are susceptible to Botrytis in humid conditions)
 - **Light:** High light requirements (PPFD 800–1200 μmol/m²/s); benefits from supplemental UV-B during late flowering for enhanced trichome production
-- **Nutrients:** Heavy feeder during vegetative stage; moderate nitrogen, elevated phosphorus and potassium during flowering. Responds well to organic amendments (compost tea, bat guano, kelp meal). Watch for nitrogen toxicity—this strain can be sensitive to excess nitrogen, presenting as dark green, clawing leaves.
+- **Nutrients:** Heavy feeder during vegetative stage; moderate nitrogen, elevated phosphorus and potassium during flowering. Responds well to [[cervantes-organic-amendments-chart]] (compost tea, bat guano, kelp meal). Watch for [[query-how-to-fix-nitrogen-toxicity-in-cannabis]]—this strain can be sensitive to excess nitrogen, presenting as dark green, clawing leaves.
 - **Training:** LST (low-stress training) and SCROG ([[botrytis-cinerea]] (bud rot) due to dense cola formation — ensure good airflow and low flowering humidity
 - **Moderate resistance** to thrips and fungus gnats
 - Neem oil and predatory mite introductions (*Amblyseius cucumeris*, *Phytoseiulus persimilis*) are effective [[cannabis-flowering-stage-management]]

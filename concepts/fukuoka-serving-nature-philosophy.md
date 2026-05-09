@@ -1,10 +1,10 @@
 ---
-title: Serving Nature — The Philosophy of Non-Intervention
+title: fukuoka serving [[fukuoka-return-to-nature-philosophy]] — The Philosophy of Non-Intervention
 created: 2026-05-08
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-fukuoka.md
-    title: The One-Straw Revolution - [[masanobu-fukuoka]]
-    author: Masanobu Fukuoka
+    title: The One-Straw Revolution - masanobu-fukuoka
+    author: [[masanobu-fukuoka]]
 updated: 2026-05-08
 type: concept
 tags: [reference]
@@ -43,7 +43,7 @@ Many farmers are unaware of nature even while living and working in
 natural surroundings, but farming offers many opportunities for
 greater awareness. An old country song expresses the truth: "Whether
 autumn will bring wind or rain, I cannot know, but today I will be
-working in the fields." In simply sowing seed and caring tenderly
+working in the fields." In simply [[fukuoka-sowing-seed-ball-desert-revegetation]] and caring tenderly
 for plants under nature's guidance, there is joy.
 
 ## The Dwindling of Leisure
@@ -57,7 +57,7 @@ holiday.
 
 This dwindling indicates how busy the farmer has become and how
 they have lost their easygoing physical and spiritual well-being.
-There is no time in modern agriculture for a farmer to write a poem
+There is no time in [[fukuoka-critique-modern-agriculture]] for a farmer to write a poem
 or compose a song. Fukuoka found haiku poems centuries old hanging
 on the walls of the village shrine -- evidence that even poor
 farmers once had leisure for creative expression. Now there is no

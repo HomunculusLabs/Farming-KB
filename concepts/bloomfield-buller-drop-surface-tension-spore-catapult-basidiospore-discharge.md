@@ -9,7 +9,7 @@ accelerations of tens of thousands of g-forces. This feat is
 accomplished not by muscles or explosive chemistry, but by the
 surface tension of a microscopic water droplet called Buller's drop.
 Named after A. H. Reginald Buller, who documented it in the early
-twentieth century, the mechanism remained partially understood for
+[[coleman-louis-savier-twentieth-century-maraicher]], the mechanism remained partially understood for
 more than seventy years before being fully elucidated by John
 Webster and collaborators.
 
@@ -30,7 +30,7 @@ control and the spore accelerates straight down between the gills.
 ## A. H. Reginald Buller and Early Research
 
 A. H. Reginald Buller, professor of botany at the University of
-Manitoba, produced much of the early research on spore discharge.
+Manitoba, produced much of the early research on [[bloomfield-fungal-spore-discharge-and-dispersal]].
 His seven-volume Researches on Fungi (1909-1950) remains one of the
 most comprehensive bodies of experimental mycology ever produced.
 Mycologists call the fluid drop on the spore's hilar appendix
@@ -84,7 +84,7 @@ mechanism:
 The catapult depends on water condensation, facilitated by mushrooms
 being significantly colder than surrounding air. During spore
 release, gill temperatures can be 5 degrees Celsius below ambient.
-This evaporative cooling is the same principle producing chill after
+This [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] is the same principle producing chill after
 swimming. Cooling promotes water buildup on spore surfaces by
 slowing molecular movement, encouraging condensation. If the
 mushroom warms, drops never expand and spores remain trapped.
@@ -129,4 +129,6 @@ was beading on a mushroom before tree resin preserved the instant.
 
 ## See Also
 
-- [[bloomfield-mushroom-gill-anatomy-spore-discharge-bullers-drop]]
+- bloomfield-mushroom-gill-anatomy-spore-discharge-bullers-drop
+- [[bullers-drop-spore-discharge]]
+- [[bloomfields-orchard-spore-discharge-mechanisms]]

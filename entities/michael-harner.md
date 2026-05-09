@@ -59,8 +59,8 @@ Harner later founded the Foundation for Shamanic Studies and developed "core sha
 ## See Also
 
 - [[siberian-shamanism-and-amanita]] — Siberian shamanism with fly-agaric, as discussed by Harner
-- [[r-gordon-wasson]] — Wasson's Mexican mushroom discoveries that complement Harner's Amazonian work
-- [[psychedelic-mushroom-history]] — Broader timeline of psychedelic mushroom use
+- [[r-gordon-wasson]] — Wasson's [[gartz-wasson-mexican-mushroom-cult-rediscovery]] discoveries that complement Harner's Amazonian work
+- [[psychedelic-mushroom-history]] — Broader timeline of [[archaeology-of-psychedelic-mushroom-use]] use
 - [[entheogen-culture]] — Broader context of psychoactive substances in spiritual practice
 ## Practical Considerations
 
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

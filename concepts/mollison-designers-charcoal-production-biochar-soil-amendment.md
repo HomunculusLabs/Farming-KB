@@ -1,5 +1,5 @@
 ---
-title: "Charcoal Production and Biochar Soil Amendment"
+title: "mollison designers charcoal production biochar soil amendment and Biochar Soil Amendment"
 created: 2026-04-28
 tags:
   - permaculture
@@ -19,10 +19,10 @@ type: concept
 Bill Mollison's [[soil-food-web]] microbial
 communities far more diverse than surrounding unmodified soils.
 
-Mollison presents terra preta as evidence that charcoal-amended soils
+Mollison presents [[comparison-hugelkultur-vs-terra-preta-soil-building]] as evidence that charcoal-amended soils
 can be extraordinarily persistent. The charcoal provides a stable
 carbon matrix with high internal surface area, creating habitat for
-beneficial mycorrhizal fungi and bacteria. Nutrients adsorbed onto
+beneficial [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] and bacteria. Nutrients adsorbed onto
 charcoal surfaces resist leaching in high-rainfall tropical
 environments, solving one of the primary challenges of tropical
 agriculture.
@@ -33,7 +33,7 @@ For permaculture application, biochar is distinguished from fuel
 charcoal primarily by its preparation. Effective biochar is:
 
 - Finely crushed or screened to increase surface area
-- Inoculated with compost tea, manure, or microbial cultures before
+- Inoculated with [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]], manure, or microbial cultures before
   application, because raw charcoal is biologically inert and can
   temporarily adsorb nutrients from soil
 - Applied at rates of 5-20 tonnes per hectare for initial
@@ -47,7 +47,7 @@ rather than purely consumptive.
 
 ## Integration into Permaculture Design
 
-Biochar production fits naturally into [[fruit-tree-pruning]] waste,
+[[comparison-biochar-production-guide-vs-biochar-soil-amendment]] fits naturally into [[fruit-tree-pruning]] waste,
 invasive woody species, and forestry residues that would otherwise be
 burned openly or left to decompose. The resulting biochar feeds back
 into [[keyline-design]]
@@ -60,7 +60,7 @@ biochar returns to the soil that produced the original biomass.
 
 ## See Also
 
-- [[permaculture-designers-manual-bamboo]] -- source reference
+- permaculture-designers-manual-bamboo -- source reference
 - [[vermicomposting]] -- inoculating biochar with compost
 - [[keyline-design]] -- integrating biochar into broadacre design
 ## Practical Considerations
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

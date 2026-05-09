@@ -1,5 +1,5 @@
 ---
-title: "Phallus impudicus"
+title: "bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting"
 type: species
 tags:
   - basidiomycota
@@ -12,9 +12,9 @@ updated: 2026-04-28
 sources:
   - Arora, D. (1986). "Mushrooms Demystified." 2nd ed. Ten Speed Press.
   - Kreisel, H. (2001). "Die Gattung Phallus in Mitteleuropa." Zeitschrift für Mykologie, 67, 89-104.
-  - Tuno, N. (1998). "Spore dispersal of Dictyophora indusiata and Phallus impudicus." Mycoscience, 39, 79-83.
+  - Tuno, N. (1998). "[[aquatic-fungi-spore-dispersal-ingold]] of Dictyophora indusiata and Phallus impudicus." Mycoscience, 39, 79-83.
   - Courtney, R. & Tuthill, D. (2000). "Stinkhorn fungi." Mycologist, 14(3), 104-105.
-  - Lincoff, G.H. (1981). "National Audubon Society Field Guide to North American Mushrooms." Knopf.
+  - Lincoff, G.H. (1981). "National Audubon Society Field Guide to [[growing-gourmet-north-american-reishi-species]] Mushrooms." Knopf.
 created: 2026-04-28
 ---
 
@@ -22,7 +22,7 @@ created: 2026-04-28
 
 *Phallus impudicus*, commonly known as the common stinkhorn or phallus fungus, is a widespread saprotrophic basidiomycete fungus recognizable by its phallic-shaped mature fruiting body and strong carrion-like odor. It is native to Europe and widely distributed across temperate regions of the Northern Hemisphere.
 
-The species plays an ecologically significant role as a decomposer of woody organic matter and in nutrient cycling within forest ecosystems.
+The species plays an ecologically significant role as a decomposer of woody organic matter and in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within forest ecosystems.
 
 The fetid odor of the mature fruiting body attracts flies and other insects that serve as primary spore dispersal vectors, making *P. impudicus* a classic example of entomochory in fungi.
 
@@ -80,7 +80,7 @@ This entomochorous dispersal strategy allows the fungus to colonize isolated pat
 
 ## Chemistry and Bioactive Compounds
 
-The distinctive odor of the mature gleba is produced by a complex mixture of volatile organic compounds.
+The distinctive odor of the mature gleba is produced by a complex mixture of [[fungal-volatile-organic-compounds-communication]] compounds.
 
 Dimethyl disulfide and dimethyl trisulfide are the primary volatile sulfur compounds responsible for the carrion-like smell.
 
@@ -117,4 +117,4 @@ The species is not toxic but is generally avoided due to its appearance and odor
 - [[clathrus-archeri]] — devil's fingers, star-shaped stinkhorn
 - [[helvella-crispa]] — elfin saddle, woodland saprotrophic ascomycete
 - [[hugelkultur]] — permaculture technique utilizing woody debris where stinkhorns commonly fruit
-- [[mycoremediation]] — fungal decomposition applied to environmental cleanup
+- [[mycoremediation]] — [[dighton-fungal-decomposition-nutrient-cycling]] applied to environmental cleanup

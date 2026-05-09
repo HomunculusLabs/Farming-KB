@@ -1,5 +1,5 @@
 ---
-title: Cannabis Seed Storage
+title: cervantes-cannabis-seed-purchasing-storage Storage
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -12,14 +12,14 @@ tags: [cannabis, plant-growth]
 
 Proper seed storage is essential for maintaining cannabis seed viability
 over extended periods. Cervantes provides detailed guidance on optimal
-storage conditions, common threats to seed longevity, and practical
+[[vegetable-storage-conditions-by-temperature-and-humidity]], common threats to seed longevity, and practical
 storage methods suitable for both home growers and commercial seed
 banks.
 
 ## Why Storage Matters
 
 A seed contains all the genetic characteristics of a plant -- its size,
-disease and pest resistance, root, stem, leaf, and flower production,
+disease and [[cannabis-disease-pest-resistance-breeding-clarke]], root, stem, leaf, and flower production,
 cannabinoid levels, and many other traits. The genetic makeup of a seed
 is the single most important factor dictating plant performance.
 Seeds stored too long will germinate slowly and have a high rate of
@@ -90,7 +90,7 @@ container to absorb excess moisture. Label all containers clearly.
 ### Long-Term Storage
 
 For storage longer than a couple of months, use heat-sealed containers.
-Some growers use dedicated refrigerators with humidity control
+Some growers use dedicated refrigerators with [[cervantes-humidity-control-dehumidification]]
 maintained below five percent. Vacuum-packing removes oxygen and
 further extends viability. For maximum longevity, store in the freezer
 or using cryogenic methods.
@@ -121,13 +121,13 @@ longer even under the best conditions.
 ## Seed Pests and Fungi
 
 Temperatures from 68-85 degrees F (20-30 degrees C) promote Pythium
-(damping-off) and rhizoctonia fungi. Cannabis seeds grow best at 78
+(damping-off) and rhizoctonia fungi. [[query-how-to-store-cannabis-seeds-for-long-term-viability]] grow best at 78
 degrees F (25 degrees C), which unfortunately also favors some fungal
 growth. Keep storage areas clean, dry, and monitored for pest activity.
 
 ## See Also
 
-- green cannabis grow bible seed germination methods
+- green cannabis grow bible [[cannabis-seed-germination-methods]] methods
 - [[cannabis-seed-germination-viability-breeding-clarke]]
 - [[cannabis-germination-techniques]]
 - [[cannabis-controlled-pollination-seed-production]]

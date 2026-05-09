@@ -9,25 +9,25 @@ sources: [raw/papers/lowenfels-teaming-with-microbes.md]
 
 # Soil Arthropods
 
-Soil arthropods are invertebrate animals with jointed legs and exoskeletons that live in the soil and leaf litter. They are essential decomposers, predators, and engineers of soil structure. A healthy garden soil contains thousands of arthropods per square meter.
+Soil arthropods are invertebrate animals with jointed legs and exoskeletons that live in the soil and leaf litter. They are essential decomposers, predators, and engineers of soil structure. A [[query-how-to-build-healthy-garden-soil]] soil contains thousands of arthropods per square meter.
 
 ## Major Groups
 
 ### Mites (Acari)
 - The most numerous soil arthropods (100,000+ per square meter in healthy soil)
 - **Oribatid mites**: Slow-moving decomposers that break down tough plant material, fungi, and humus. They are the earthworms of the microscopic world — slow but essential
-- **Predatory mites**: Hunt nematodes, springtails, and other small organisms
-- Key role in nutrient cycling and humus formation
+- **[[comparison-predatory-mites-vs-ladybugs-biocontrol]]**: Hunt nematodes, springtails, and other small organisms
+- Key role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and [[lowenfels-humus-formation-benefits]]
 
 ### Springtails (Collembola)
 - Small (1-2mm), primitive insects that jump using a forked appendage
 - 10,000-100,000 per square meter in healthy soil
 - Feed on fungi, decaying plant material, and bacteria
 - Important fungal grazers — stimulate fungal growth by pruning mycelium
-- Indicate healthy soil with good organic matter
+- Indicate healthy soil with good [[hamilton-composting-and-organic-matter-management]]
 
 ### Beetles (Coleoptera)
-- **Ground beetles (Carabidae)**: Predators that hunt slugs, cutworms, root maggots, and other soil pests at night. Essential biological control agents
+- **Ground beetles (Carabidae)**: Predators that hunt slugs, cutworms, root maggots, and other soil pests at night. Essential [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents
 - **Rove beetles (Staphylinidae)**: Predators in compost and rich soil
 - **Dung beetles (Scarabaeidae)**: Bury and decompose animal manure, incorporating nutrients into soil
 - Encourage ground beetles with stone mulch, ground cover, and reduced tillage
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

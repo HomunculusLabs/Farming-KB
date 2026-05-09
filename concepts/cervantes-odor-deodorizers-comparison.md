@@ -1,19 +1,20 @@
 ---
-title: "Odor Deodorizers and Comparison"
+title: "cervantes odor deodorizers comparison and Comparison"
 created: 2026-04-28
 tags: [odor-control, deodorizers, negative-ion, ozone, carbon-filter]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md]
+sources: sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Odor Deodorizers and Comparison
 
-Controlling cannabis odor is one of the most important challenges
+Controlling [[query-how-to-manage-cannabis-odor-and-stay-discreet]] is one of the most important challenges
 for indoor growers, particularly those in residential areas or
 jurisdictions where cultivation may attract unwanted attention.
-Jorge Cervantes outlines a hierarchy of odor control methods in
+Jorge Cervantes outlines a hierarchy of [[cannabis-odor-control-and-carbon-filters]] methods in
 Chapter Thirteen of the Marijuana Horticulture guide, ranging from
 simple ventilation to sophisticated chemical and electronic
 solutions. The fundamental principle is that a good exhaust fan
@@ -26,7 +27,7 @@ first line of defense is always adequate ventilation: a properly
 sized exhaust fan that exchanges the total volume of the grow room
 air in less than five minutes. When ventilation alone is
 insufficient, growers can layer additional technologies including
-deodorizing agents, negative ion generators, ozone generators, and
+deodorizing agents, [[cervantes-ozone-generators-negative-ion-odor]] generators, ozone generators, and
 activated carbon filters. Many successful growers combine two or
 more of these methods for comprehensive coverage.
 
@@ -34,7 +35,7 @@ more of these methods for comprehensive coverage.
 
 Deodorizers work by changing the molecular structure of odors at
 the atomic level. Products such as Odor Killer, Ona, VaporTek,
-and Ozium are formulated from essential oils that create a neutral
+and Ozium are formulated from [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] that create a neutral
 atmosphere. These products are available in gel, liquid, and spray
 forms. Growers typically use gels for long-term placement and
 reserve sprays for emergency situations, such as unexpected visitors
@@ -128,7 +129,7 @@ draw adequate air volume through the carbon filter.
 
 ## Combining Methods
 
-The most effective odor control strategies combine multiple
+The most effective odor [[jadam-weed-control-strategies-natural]] combine multiple
 technologies. A common arrangement uses an exhaust fan with an
 inline carbon filter for primary odor removal, supplemented by an
 ozone generator in the ductwork for additional treatment. Some

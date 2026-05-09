@@ -1,9 +1,9 @@
 ---
-title: Stump Inoculation Techniques
+title: Stump cotter-inoculation-techniques-and-hygiene
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Stamets - Mycelium Running"
+  - "Stamets - woodlovers-mycelium-running-pathway-technique"
 type: concept
 tags: [sterile-technique]
 ---
@@ -33,11 +33,11 @@ Different mushroom species have different affinities for stump substrates:
 
 - **Oyster mushrooms** (Pleurotus ostreatus): Aggressive colonizers, prolific fruiting, strong competition
 - **Shiitake** (Lentinula edodes): Not recommended for stump inoculation by plug method
-- **Reishi** (Ganoderma lucidum): Excellent stump species with high medicinal value
-- **Wood lovers** (Hypholoma capnoides): Can fruit from the same stump for more than 10 years
-- **Turkey tail** (Trametes versicolor): Strong competitor with well-documented medicinal properties
+- **Reishi** ([[stamets-reishi-ganoderma-lucidum-cultivation]]): Excellent stump species with high medicinal value
+- **Wood lovers** ([[growing-gourmet-hypholoma-capnoides-cultivation]]): Can fruit from the same stump for more than 10 years
+- **Turkey tail** ([[staycare-trametes-versicolor-bioremediation-applications]]): Strong competitor with well-documented medicinal properties
 - **Cauliflower mushroom** (Sparassis crispa): Responds well to rope spawn on conifer stumps
-- **Maitake** (Grifola frondosa): Can be inoculated into hardwood stumps, logs, or standing trees
+- **Maitake** ([[maitake-grifola-frondosa-comprehensive-profile]]): Can be inoculated into hardwood stumps, logs, or standing trees
 
 ## Disease Prevention Through Stump Inoculation
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

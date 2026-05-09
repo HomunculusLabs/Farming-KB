@@ -1,28 +1,22 @@
 ---
-title: Oyster Mushroom Spawn Preparation
+title: cotter-oyster-mushroom-cultivation azurescens-spawn-preparation-grain-to-wood
 created: 2026-04-28
-tags: [[mycology, oyster-mushrooms, spawn, grain-inoculation, sterile-technique]
+tags: [mycology, oyster-mushrooms, spawn, grain-inoculation, sterile-technique]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
 type: concept
 ---
-
-# Oyster Mushroom Spawn Preparation
-
-Spawn is the living mycelial inoculum used to seed bulk substrates for mushroom
-cultivation. High-quality spawn is the single most important input determining
-cultivation success. Poor spawn leads to slow colonization, low yields, and
-frequent contamination failures. [[malt-extract-agar]] or potato dextrose agar. Cultures are stored at 2 to 4
+# Oyster Mushroom Spawn Preparation Spawn is the living mycelial inoculum used to seed bulk substrates for mushroom cultivation. High-quality spawn is the single most important input determining cultivation success. Poor spawn leads to slow colonization, low yields, and frequent contamination failures. [[malt-extract-agar]] or potato dextrose agar. Cultures are stored at 2 to 4
 degrees Celsius, where growth slows dramatically and the culture can remain
 viable for 6 to 12 months. Periodic transfer to fresh media is necessary to
-maintain vigor. Strain selection is critical: commercial strains are bred for
+maintain vigor. [[blesching-cannabis-strain-selection-receptor-targeting]] is critical: commercial strains are bred for
 yield, disease resistance, temperature tolerance, and fruiting characteristics.
 Wild isolates require extensive testing before use in production.
 
 ## Grain Spawn Production
 
-Grain is the preferred spawn medium for oyster mushrooms. Rye grain, millet,
+Grain is the preferred spawn medium for [[query-how-to-grow-oyster-mushrooms-at-home]]. Rye grain, millet,
 sorghum, and wheat are commonly used, each offering different advantages. Rye
 grain is the traditional choice due to its ideal size, nutrient content, and
 moisture retention. Millet produces more inoculation points per volume due to
@@ -56,7 +50,7 @@ the surface is normal and desirable.
 
 ## Liquid Culture Spawn
 
-Liquid culture (LC) is an alternative spawn format where mycelium is grown in a
+Liquid culture (LC) is an [[liquid-inoculation-alternative-spawn-media]] format where mycelium is grown in a
 sterilized nutrient broth, typically based on malt extract, honey, or light
 malt syrup. LC offers several advantages over grain spawn: it can be expanded
 more rapidly, provides more even distribution in substrate, and is easier to
@@ -77,7 +71,7 @@ to contamination during substrate inoculation.
 
 ## Related Concepts
 
-- [[mushroom-contamination-prevention]] covers sterile technique and hygiene
+- [[mushroom-contamination-prevention]] covers [[cultivator-sterile-technique-and-agar-culture]] and hygiene
   protocols critical during spawn production
 - [[oyster-mushroom-fruiting-environment]] explains the environmental conditions
   needed after substrate colonization is complete

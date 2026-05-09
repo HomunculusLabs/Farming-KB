@@ -1,5 +1,5 @@
 ---
-title: Cannabis and Epilepsy Research
+title: Cannabis and cannabis epilepsy research detailed
 created: 2026-04-18
 updated: 2026-04-19
 type: concept
@@ -9,7 +9,7 @@ sources: [ben-lemon-cannabis-alchemy.md]
 
 # Cannabis and Epilepsy Research
 
-**Source:** The Cannabis Health Index (Uwe Blesching, 2017)
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]] (Uwe Blesching, 2017)
 
 **Last Updated:** 2026-04-18
 
@@ -27,7 +27,7 @@ Status epilepticus (SE) is a potentially life-threatening condition involving co
 
 - **Anandamide deficiency in epilepsy (2009, Rome, Italy):** Significantly lower anandamide levels found in epilepsy patients' cerebrospinal fluid compared to healthy controls, suggesting anandamide presence or absence may play a part in epilepsy.
 
-- **CB1 receptor redistribution (2009, Virginia Commonwealth University):** Chemically induced SE caused redistribution of cannabinoid receptor sites (CB1) in the hippocampus, suggesting a role for endocannabinoid system dysregulation during epileptogenesis.
+- **CB1 receptor redistribution (2009, Virginia Commonwealth University):** Chemically induced SE caused redistribution of [[cannabis-cannabinoid-receptor-pharmacology]] sites (CB1) in the hippocampus, suggesting a role for endocannabinoid system dysregulation during epileptogenesis.
 
 - **CBD in pediatric patients (2005, Leiden/Rome):** 18 children with epileptic seizures who failed traditional pharmaceutical anti-seizure medications received CBD oil. All patients responded positively. "No side effects of such severity were observed as to require CBD discontinuation; in most, improvement of crises equal to or higher than 25% was obtained; in all, clear improvement of consciousness and spasticity was observed."
 
@@ -53,9 +53,9 @@ Limitations of the CHI-reviewed studies include small sample sizes, open-label d
 
 ## Dosing Considerations
 
-Epilepsy dosing is highly individualized and should be managed by experienced healthcare providers. CBD doses used in clinical trials have ranged from 5 mg/kg/day to 50 mg/kg/day (Epidiolex), with most patients responding to 10-25 mg/kg/day. For a 50 kg patient, this translates to 500-1,250 mg/day of CBD -- significantly higher than typical wellness doses.
+Epilepsy dosing is highly individualized and should be managed by experienced healthcare providers. CBD doses used in [[mushroom-cancer-clinical-trials-overview]] have ranged from 5 mg/kg/day to 50 mg/kg/day (Epidiolex), with most patients responding to 10-25 mg/kg/day. For a 50 kg patient, this translates to 500-1,250 mg/day of CBD -- significantly higher than typical wellness doses.
 
-For adjunctive use alongside standard anti-epileptic drugs (AEDs), starting doses of 5-10 mg/kg/day with gradual titration every 1-2 weeks is standard practice. CBD should be introduced slowly to monitor for drug interactions and side effects. Blood levels of concomitant AEDs (especially clobazam, valproate) should be monitored, as CBD can alter their metabolism.
+For adjunctive use alongside standard anti-epileptic drugs (AEDs), starting doses of 5-10 mg/kg/day with gradual titration every 1-2 weeks is standard practice. CBD should be introduced slowly to monitor for [[cannabis-drug-interactions-and-contraindications]] and side effects. Blood levels of concomitant AEDs (especially clobazam, valproate) should be monitored, as CBD can alter their metabolism.
 
 Sublingual tinctures or oil preparations are the most common [[cannabis-terpene-entourage-effect-profiles]], though standardized purified CBD (Epidiolex) has the strongest clinical evidence.
 
@@ -76,6 +76,8 @@ Pediatric considerations include potential effects on brain development, though 
 Seizure activity has been associated with religious vision and hyperreligiosity in temporal lobe epilepsy. The tonic-clonic movements simulate a short circuit without a circuit breaker -- intense thoughts and feelings the person refuses to consciously experience. Some children use seizure activities as an unconscious defense mechanism. Studies suggest mental activity that engages the person fully (sports, swimming, trapeze, classes they enjoy) can reduce seizure frequency.
 
 ## See Also
+
+- [[cannabis-schizophrenia-research-detailed]]
 
 - [[cannabis-and-epilepsy]]
 - [[cannabis-health-index]]

@@ -15,7 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Bown, D. (2001). Encyclopedia of Herbs and Their Uses. DK Publishing
-  - Chevallier, A. (2016). Encyclopedia of Herbal Medicine. 3rd ed. DK Publishing
+  - Chevallier, A. (2016). Encyclopedia of [[herbal-medicine]]. 3rd ed. DK Publishing
   - Hoffmann, D. (2003). Medical Herbalism. Healing Arts Press
   - Foster, S. & Duke, J.A. (2013). Peterson Field Guide to Medicinal Plants. 3rd ed. Houghton Mifflin
   - Duke, J.A. et al. (2002). Handbook of Medicinal Herbs. 2nd ed. CRC Press
@@ -24,14 +24,14 @@ sources:
 
 # Angelica archangelica
 
-**Angelica archangelica**, commonly known as garden angelica, wild celery, or Norwegian angelica, is a tall biennial or short-lived perennial herbaceous plant in the family Apiaceae. Native to the cold temperate regions of the Northern Hemisphere, it is one of the most historically significant medicinal and culinary plants in European herbalism, with a recorded use spanning over 1,500 years. The species has a distinctive sweet, musky-aromatic fragrance and all parts of the plant are utilized in medicine, cuisine, and beverage production.
+**Angelica archangelica**, commonly known as garden angelica, wild celery, or Norwegian angelica, is a tall biennial or short-lived perennial herbaceous plant in the family Apiaceae. Native to the cold temperate regions of the Northern Hemisphere, it is one of the most historically significant [[holzer-medicinal-and-culinary-herbs-compendium]] plants in European herbalism, with a recorded use spanning over 1,500 years. The species has a distinctive sweet, musky-aromatic fragrance and all parts of the plant are utilized in medicine, cuisine, and beverage production.
 
 ## Taxonomy and Etymology
 
 The genus *Angelica* belongs to the family Apiaceae (the carrot or parsley family) and the subfamily Apioideae. The species epithet and common name derive from medieval European folklore: according to legend, the Archangel Michael revealed the plant's medicinal virtues to a monk during a plague epidemic, hence *archangelica* — "the angelic herb." This association with divine healing persisted throughout the medieval period, and the plant was sometimes called "herb of the Holy Ghost."
 
 Several other *Angelica* species share common names and uses:
-- *Angelica sinensis* (dong quai) — Chinese angelica; primary women's tonic in TCM
+- *[[angelica-sinensis]]* (dong quai) — Chinese angelica; primary women's tonic in TCM
 - *Angelica dahurica* (Bai Zhi) — used in traditional Chinese and Kampo medicine
 - *Angelica sylvestris* (wild angelica) — European native, less aromatic, occasionally used
 
@@ -105,9 +105,9 @@ Angelica has a rich pharmacological profile attributed to its diverse phytochemi
 
 Angelica has significant value in permaculture and ecological gardening:
 
-- **Pollinator support:** The large umbels are excellent nectar and pollen sources for a wide range of beneficial insects, including bees, hoverflies, lacewings, and parasitic wasps. Insectary plantings of angelica support biological pest control in adjacent crops.
-- **Soil improvement:** The deep taproot mines subsoil minerals and brings them to the surface. Decomposing root channels improve soil structure and drainage.
-- **Companion planting:** The aromatic foliage may help deter certain pest insects when interplanted with vegetables.
+- **Pollinator support:** The large umbels are excellent nectar and pollen sources for a wide range of beneficial insects, including bees, hoverflies, lacewings, and parasitic wasps. [[insectary-plantings]] of angelica support biological pest control in adjacent crops.
+- **Soil improvement:** The deep taproot mines subsoil minerals and brings them to the surface. Decomposing root channels [[query-how-do-fungi-improve-soil-structure]] and drainage.
+- **[[companion-planting]]:** The aromatic foliage may help deter certain pest insects when interplanted with vegetables.
 - **Food forest integration:** Angelica thrives in the damp, semi-shaded margins of food forests, orchards, and forest garden edges.
 - **Self-seeding:** Plants that set seed will often naturalize in suitable microsites, though they are not aggressively invasive in most climates.
 - **Carbon farming:** The large biennial plants contribute significant biomass, which can be composted or used as mulch.

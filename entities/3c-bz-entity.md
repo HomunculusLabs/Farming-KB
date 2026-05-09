@@ -8,7 +8,7 @@ sources: []
 ---
 # 3C-BZ
 
-**PIHKAL Entry #21** -- 4-Benzyloxy-3,5-dimethoxyamphetamine
+**[[2c-b-pihkal-entry-20]] #21** -- 4-Benzyloxy-3,5-dimethoxyamphetamine
 
 ## Chemical Name
 
@@ -70,7 +70,7 @@ maintaining reflux conditions, this slowly redissolved, and was replaced by the
 steady deposition of KCl. After 6 h, the reaction mixture was cooled, and the
 solids removed by filtration. The filtrate was stripped of solvent under vacuum
 to give 57 g of crude 5-allyl-2-benzyloxy-1,3-dimethoxybenzene. This was
-dissolved in a solution of 60 g KOH in 80 mL EtOH and heated on the steam bath
+dissolved in a solution of 60 g KOH in 80 mL EtOH and heated on the [[scythian-cannabis-steam-bath-ritual]]
 for 16 h, giving 35.6 g of crude 2-benzyloxy-1,3-dimethoxy-5-propenylbenzene.
 
 To a stirred, ice-cold solution of this and 13.6 g pyridine in 142 mL acetone,

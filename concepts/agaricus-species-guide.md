@@ -9,7 +9,7 @@ sources: []
 
 # Agaricus Species Guide
 
-The genus Agaricus contains some of the most commercially important and widely consumed mushrooms in the world, including the common button mushroom and its mature forms (cremini and portobello). The genus also includes excellent wild-foraged species and a few toxic members that foragers must learn to distinguish.
+The genus Agaricus contains some of the most commercially important and widely consumed mushrooms in the world, including the common [[growing-gourmet-button-mushroom-agaricus-cultivation]] and its mature forms (cremini and portobello). The genus also includes excellent wild-foraged species and a few toxic members that foragers must learn to distinguish.
 
 ## Overview
 
@@ -19,7 +19,7 @@ Agaricus is a large genus of mushroom-forming fungi with a worldwide distributio
 
 ### Overview
 
-The most cultivated mushroom species globally, accounting for the majority of worldwide mushroom production. Native to Europe and North America, it was first cultivated in France in the 1700s and has since become a staple food worldwide.
+The most cultivated mushroom species globally, accounting for the majority of worldwide mushroom production. Native to Europe and [[psilocybin-north-america-pacific-northwest]], it was first cultivated in France in the 1700s and has since become a staple food worldwide.
 
 ### The Three Forms
 
@@ -31,7 +31,7 @@ What appears to be three different mushrooms are actually the same species at di
 
 ### Cultivation
 
-A. bisporus cultivation is the most industrialized mushroom production system in the world:
+A. [[agaricus-bisporus-cultivation-biology]] is the most industrialized mushroom production system in the world:
 
 - Substrate: composted straw, horse manure, and/or chicken manure with gypsum
 - Two-phase composting: Phase 1 (outdoor, thermophilic composting for 7-14 days) and Phase 2 (pasteurization and conditioning at 140 F for 7-10 days)
@@ -91,7 +91,7 @@ The wild ancestor of the cultivated button mushroom, A. campestris is a common f
 
 ### Overview
 
-A large, robust wild Agaricus species found in pastures and grasslands. One of the finest wild edible mushrooms in Europe, prized for its size and almond-like aroma.
+A large, robust wild Agaricus species found in pastures and grasslands. One of the finest wild [[palmer-edible-mushrooms-north-america]] in Europe, prized for its size and almond-like aroma.
 
 ### Identification
 
@@ -141,55 +141,9 @@ A woodland-dwelling Agaricus species found in forests and wooded areas across Eu
 ### Key Difference from A. arvensis
 
 - A. silvicola grows in forests, not open grasslands
-- Generally smaller and more slender
-- Less robust and meaty
-
-### Culinary Use
-
-- Good edible, though less meaty than A. arvensis
-- Almond aroma is pleasant
-- Use in any mushroom dish
-
-## Identification Key for Common Agaricus Species
-
-### Step 1: Habitat
-- Open grassland/pasture: A. campestris or A. arvensis
-- Forest/woodland: A. silvicola
-- Cultivated/compost: A. bisporus
-
-### Step 2: Odor
-- Pleasant almond/anise: A. arvensis or A. silvicola
-- Mild, mushroomy: A. campestris or A. bisporus
-- Chemical/phenol/ink: A. xanthodermus — TOXIC, discard
-
-### Step 3: Bruising Reaction
-- Cut the stem base and wait 30-60 seconds
-- Chrome yellow staining + chemical odor: A. xanthodermus — discard
-- Pale yellow or no staining: likely A. arvensis, A. silvicola, or A. campestris
-- No staining + chemical odor: still possibly A. xanthodermus — discard
-
-### Step 4: Spore Print
-- Dark chocolate brown: Agaricus genus confirmed
-- White or other colors: NOT Agaricus — reconsider identification entirely
-
-### Step 5: Size and Features
-- Very large (4-10 inch cap) + double ring + almond odor: A. arvensis
-- Medium (2-4 inch cap) + thin ring + mild odor: A. campestris
-- Medium + forest habitat + almond odor: A. silvicola
-- Cultivated/compost origin: A. bisporus
-
-## Foraging Safety Rules
-
-1. Always take a spore print (dark chocolate brown for all Agaricus)
-2. Cut the stem base and check for yellow staining
-3. Smell the mushroom (chemical/phenol = toxic)
-4. Never eat any mushroom with white gills that you cannot positively identify
-5. Learn A. xanthodermus thoroughly before collecting any wild Agaricus
-6. When in doubt, throw it out
-
 ## Related Topics
 
 - [[oyster-mushroom-species-guide]] for other commonly cultivated species
-- [[chanterelle-guide]] for wild mushroom foraging safety and techniques
-- [[shiitake-cultivation-guide]] for indoor mushroom cultivation methods
+- [[chanterelle-guide]] for wild [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]] safety and techniques
+- [[shiitake-cultivation-guide]] for indoor [[accessible-mushroom-cultivation-for-disabilities]] methods
 - [[composting-methods-comparison]]

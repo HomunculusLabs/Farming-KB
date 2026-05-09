@@ -1,5 +1,5 @@
 ---
-title: "Jurema Mimosa hostilis Ethnobotany"
+title: "entheogen jurema mimosa hostilis ethnobotany hostilis Ethnobotany"
 created: 2026-04-28
 tags: [ethnobotany, entheogen, leguminosae, dmt, brazilian]
 date: 2026-04-25
@@ -63,7 +63,7 @@ states of consciousness.
 
 Early chemical studies of Mimosa hostilis indicated the presence of
 an active alkaloid that was given the name nigerine, but this was
-later shown to be identical with N,N-dimethyltryptamine ([[dmt-and-ayahuasca-history]] is a potent short-acting tryptamine hallucinogen that is also
+later shown to be identical with N,N-dimethyltryptamine ([[dmt-and-ayahuasca-history]] is a potent short-acting [[mckenna-tryptamine-hallucinogen-classification-four-groups-plants]] that is also
 found in [[psychotria-viridis]]
 and in the resin of Virola species used as snuff.
 
@@ -72,7 +72,7 @@ tryptamines are not active when taken orally unless in the presence
 of a monoamine oxidase inhibitor (MAOI), it is obvious that the
 traditional jurema drink must contain ingredients other than M.
 hostilis itself, or that the plant must contain an endogenous MAOI
-in its tissues. The root bark of M. hostilis has been shown to be
+in its tissues. The [[iboga-root-bark-preparation]] of M. hostilis has been shown to be
 exceptionally rich in DMT, with concentrations that make it one of
 the most potent natural sources of this compound known, but the
 full complement of its alkaloids has not been fully characterized
@@ -122,6 +122,8 @@ source -- continue to stimulate research and debate among
 ethnobotanists, chemists, and pharmacologists.
 
 ## See Also
+
+- [[jurema]]
 
 - [[mimosa-hostilis]]
 

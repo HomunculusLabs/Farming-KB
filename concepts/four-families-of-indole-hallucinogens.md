@@ -1,5 +1,5 @@
 ---
-title: Four Families of Indole Hallucinogens
+title: Four four families of indole hallucinogens Hallucinogens
 created: 2026-04-28
 tags: [indole-hallucinogens, mckenna, tryptamines, psychedelics, ethnobotany]
 date: 2026-04-25
@@ -22,7 +22,7 @@ Ibogaine occurs in two related tree genera, Tabernanthe and
 Tabernamontana. Tabernanthe iboga is a small, yellow-flowered bush with
 a history of use as a hallucinogen in tropical West Africa, particularly
 among the Fang people of Gabon in the Bwiti religion. Its active
-compounds bear a structural relationship to beta-carbolines. Ibogaine is
+compounds bear a [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to beta-carbolines. Ibogaine is
 known as both a powerful aphrodisiac and a hallucinogen capable of
 inducing profound visionary and emotional experiences. The root bark is
 consumed in prodigious amounts to "open one's head."
@@ -40,7 +40,7 @@ Darwinian view of nature as endless warfare among competing species.
 ### The Ur Plant Hypothesis
 
 By a process of elimination, McKenna argued that psilocybin-containing
-mushrooms - specifically Stropharia cubensis - were the most likely
+mushrooms - specifically [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] - were the most likely
 catalyst for the emergence of human consciousness. The mushroom is
 pandemic wherever zebu cattle graze, requires no preparation, is
 continuously available, and confers immediate tangible benefits.
@@ -59,10 +59,10 @@ criticized as preventing research into potentially valuable treatments.
 
 ### Ethnobotanical Conservation
 
-Understanding the botanical sources of these compounds supports
+Understanding the [[dmt-botanical-sources-pharmacology]] of these compounds supports
 conservation of indigenous knowledge and the plant species that produce
-them. The Bwiti religion's use of iboga, Amazonian ayahuasca practices,
-and Mesoamerican mushroom traditions all represent irreplaceable
+them. The Bwiti religion's use of iboga, [[harner-amazonian-ayahuasca-preparation-methods]] practices,
+and Mesoamerican [[sacred-mushroom-traditions-in-mexico]] all represent irreplaceable
 cultural-biological heritage.
 
 ### Neuroscience Research

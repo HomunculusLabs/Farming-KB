@@ -17,15 +17,15 @@ Fungi possess remarkable abilities to transform, degrade, and immobilize environ
 
 Fungi can degrade a wide range of organic pollutants through the action of extracellular enzyme systems:
 
-- **Ligninolytic enzymes**: [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] turns metals into chemically more inert forms, resulting in detoxification
+- **[[singh-ligninolytic-enzymes-fungal-bioremediation]]**: [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] turns metals into chemically more inert forms, resulting in detoxification
 - **Extracellular precipitation**: Fungi can precipitate metals as oxalates, carbonates, phosphates, and other insoluble compounds. Metal oxalate formation is particularly common and effectively immobilizes metals
 - **Intracellular accumulation**: Metals can be sequestered within vacuoles or bound to metallothioneins and phytochelatins
-- **Redox transformations**: Fungi can reduce toxic metals (e.g., Cr(VI) to Cr(III)) or oxidize others, changing their mobility and toxicity
+- **[[fungal-metal-redox-transformations-detailed]]**: Fungi can reduce toxic metals (e.g., Cr(VI) to Cr(III)) or oxidize others, changing their mobility and toxicity
 - **Volatilization**: Some fungi can convert metals to volatile forms, though this may redistribute rather than remove contamination
 
 ### Mineral Dissolution and Leaching
 
-Fungi can dissolve minerals and mobilize metals through excretion of organic acids (oxalic, citric, gluconic) and protons. This "heterotrophic leaching" capability can be harnessed for:
+Fungi can dissolve minerals and mobilize metals through excretion of organic acids (oxalic, citric, gluconic) and protons. This "[[staycare-fungal-heterotrophic-leaching-biosorption]]" capability can be harnessed for:
 - Recovery of metals from low-grade ores
 - Treatment of metal-contaminated solid wastes and by-products
 - Cleaning of metal-bearing industrial residues
@@ -34,8 +34,8 @@ Fungi can dissolve minerals and mobilize metals through excretion of organic aci
 
 ### Phytostabilization
 
-[[fungal-bioremediation-organic-pollutants]] a wide range of organic contaminants including:
-- Polycyclic aromatic hydrocarbons (PAHs)
+fungal-bioremediation-organic-pollutants a wide range of organic contaminants including:
+- [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs)
 - Polychlorinated biphenyls (PCBs)
 - Pesticides and herbicides
 - Explosives (TNT, RDX)
@@ -46,19 +46,20 @@ White-rot fungi are particularly effective due to their ligninolytic enzyme syst
 
 ### Building Material Deterioration
 
-A negative aspect of fungal bioremediation relevance is their ability to degrade mineral-based building materials. Concrete, cement, and ceramic materials can be degraded by fungi, sometimes more efficiently than by bacteria. This raises concerns for nuclear waste storage, where concrete barrier materials must remain intact. Fungi have been shown to colonize and corrode concrete surfaces while avoiding areas filled with toxic materials.
+A negative aspect of fungal bioremediation relevance is their ability to degrade mineral-based [[natural-building-materials-guide]]. Concrete, cement, and ceramic materials can be degraded by fungi, sometimes more efficiently than by bacteria. This raises concerns for nuclear waste storage, where concrete barrier materials must remain intact. Fungi have been shown to colonize and corrode concrete surfaces while avoiding areas filled with toxic materials.
 
 ## Challenges and Considerations
 
 ### In Situ vs Ex Situ Applications
 
 [[staycare-scale-up-challenges-in-fungal-bioremediation]] fungal bioremediation from laboratory to field conditions remains a challenge. Molecular tools for [[factors-affecting-mycoremediation-efficiency]] enables continued food production
-- Mycorrhizal inoculation of crops on marginal lands improves establishment and reduces metal uptake
-- [[fungal-bioremediation]]
+- [[teaming-with-fungi-mycorrhizal-inoculation-techniques]] of crops on marginal lands improves establishment and reduces metal uptake
+- fungal-bioremediation
 - [[factors-affecting-mycoremediation-efficiency]]
 - [[mycorrhizal-fungi-bioremediation]]
 - [[ligninolytic-enzymes-bioremediation]]
 - [[bioavailability-in-fungal-bioremediation]]
+
 ## Practical Considerations
 
 Successful implementation of Fungi in the Environment - Bioremediation Applications requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

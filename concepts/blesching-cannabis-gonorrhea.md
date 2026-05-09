@@ -66,7 +66,7 @@ Orthodox medical treatment uses antibiotics exclusively to eliminate the
 bacteria. While penicillin was initially advertised as able to cure
 gonorrhea in four hours, today it and most other antibiotics are generally
 ineffective. The bacteria have become resistant and easily survive most
-antibiotic treatments. The U.S. Centers for Disease Control recommend
+antibiotic treatments. The U.S. Centers for [[hamilton-pest-and-disease-control-organic]] recommend
 cephalosporin antibiotics to treat all gonococcal infections.
 
 Gonorrhea may soon become a "superbug" infection, resistant to all known
@@ -88,7 +88,7 @@ antibacterial impact of cannabinoids on the gonorrhea bacterium.
 Arabic and Indian Ayurvedic physicians have long applied the diuretic,
 sedative, and anti-inflammatory properties of cannabis to treat cystitis
 and gonorrhea. Prior to the discovery of penicillin, cannabidiolic acids
-were commonly prescribed for bacterial infections such as gonorrhea. An
+were commonly prescribed for [[cannabis-for-bacterial-infections-and-mrsa]] such as gonorrhea. An
 1892 treatment guideline describes the use of cannabis to treat gonorrhea:
 "it lessens the discharge, inflammation, burning pains, and restlessness,
 and allays chordee (downward curvature of the penis)."
@@ -102,19 +102,19 @@ and injected into the urethra using a pipette.
 
 The major cannabinoids (THC, CBD, CBG, CBC, and CBN) are present in both
 sativa and indica. Non-psychoactive CBD-acid is present in relatively
-high concentrations in raw, fresh cannabis flower, leaf, and juice. CBD
+high concentrations in raw, fresh [[cervantes-cannabis-flower-anatomy]], leaf, and juice. CBD
 activates CB2 receptors in immune cells and may play a part in modulating
 immune responses.
 
 ## Supporting Foods
 
-- **Coconut**: Medium-chain fatty acids, especially capric acid, worked
+- **Coconut**: Medium-chain [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], especially capric acid, worked
   effectively in killing all strains of Neisseria gonorrhea in laboratory
   studies. Lauric acid and capric acid also showed strong antibacterial
   abilities and effectively inactivated chlamydia.
 - **Spices containing (E)-beta-caryophyllene**: An FDA-approved dietary
   cannabinoid that activates CB2 receptor sites and initiates potent
-  anti-inflammatory actions. Found in black pepper, basil, cinnamon,
+  anti-inflammatory actions. Found in [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], basil, cinnamon,
   rosemary, oregano, and clove.
 
 ## Related Topics
@@ -122,5 +122,5 @@ immune responses.
 - [[blesching-cannabis-hiv-aids]] - Gonorrhea screening in HIV patients
 - [[blesching-cannabis-cystitis]] - Related urogenital conditions treated
   historically with cannabis
-- [[blesching-endocannabinoid-system-overview]] - Endocannabinoid system
+- [[endocannabinoid-system-overview]] - Endocannabinoid system
   role in immune function

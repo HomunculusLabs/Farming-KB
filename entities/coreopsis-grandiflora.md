@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - USDA NRCS (2024). "Coreopsis grandiflora." PLANTS Database.
-  - Lehm, D., O'Brien, M., & St. John, C. (2018). "Coreopsis." In: J.C. Runkle (ed.), "Flora of North America." Oxford University Press.
+  - Lehm, D., O'Brien, M., & St. John, C. (2018). "Coreopsis." In: J.C. Runkle (ed.), "Flora of [[psilocybin-north-america-pacific-northwest]]." Oxford University Press.
   - Armitage, A.M. (2001). "Armitage's Garden Perennials." Timber Press.
   - Cullina, W. (2000). "The New England Wild Flower Society Guide to Growing and Propagating Wildflowers." Houghton Mifflin.
   - Xerces Society (2016). "Pollinator Plants of the Great Lakes Region."
@@ -21,11 +21,11 @@ sources:
 
 **Coreopsis grandiflora** (large-flowered tickseed, Atlantic coreopsis) is a clump-forming perennial herb in the family Asteraceae.
 
-It is native to central and eastern North America and is among the most widely cultivated Coreopsis species in horticulture.
+It is native to central and [[polypore-fungi-eastern-north-america]] America and is among the most widely cultivated Coreopsis species in horticulture.
 
 The species produces abundant bright golden-yellow flower heads with notched ray florets throughout the summer months.
 
-Its long bloom period, drought tolerance, and ease of cultivation have made it a standard component of perennial borders and meadow plantings.
+Its long bloom period, [[dighton-fungal-drought-tolerance-plant-water-relations]], and ease of cultivation have made it a standard component of perennial borders and meadow plantings.
 
 ## Taxonomy and Morphology
 
@@ -51,7 +51,7 @@ Achenes are flat, dark brown, winged, and approximately 3–4 mm long.
 
 The native range extends from Ontario and Minnesota south to Missouri, Arkansas, and Georgia.
 
-It is most common in prairies, open woodlands, glades, and roadsides of the central United States.
+It is most common in prairies, open woodlands, glades, and roadsides of the central [[dmt-containing-plants-united-states-halpern]].
 
 Populations are concentrated in the Ozark region, the tallgrass prairie, and the Ohio River Valley.
 
@@ -95,13 +95,13 @@ Seeds are consumed by songbirds including goldfinches, sparrows, and towhees dur
 
 The foliage supports larvae of the dimorphic gray moth (*Rheumaptera hastata*) and several leaf-mining flies.
 
-As a clump-forming species, it provides moderate ground cover that benefits soil stabilization in planting beds.
+As a clump-forming species, it provides moderate [[fukuoka-citrus-orchard-ground-cover-cultivation]] that benefits soil stabilization in planting beds.
 
 Its extended bloom period fills an important mid-season nectar niche in pollinator gardens and meadow mixtures.
 
 ## Cultural Significance
 
-The species was among the first North American wildflowers exported to European horticulture, cultivated in England by the early 18th century.
+The species was among the first [[growing-gourmet-north-american-reishi-species]] wildflowers exported to European horticulture, cultivated in England by the early 18th century.
 
 It has received the Royal Horticultural Society's Award of Garden Merit for reliable garden performance.
 

@@ -1,5 +1,5 @@
 ---
-title: Nutritive Cycle Theory in Cho's Natural Farming
+title: cho-nutritive-cycle-theory Theory in Cho's comparison-natural-farming-vs-permaculture
 source: chos-global-natural-farming.md
 tags: [natural-farming, nutritive-cycle, plant-growth, cho-han-kyu, KNF, sustainable-agriculture]
 ---
@@ -8,15 +8,15 @@ tags: [natural-farming, nutritive-cycle, plant-growth, cho-han-kyu, KNF, sustain
 
 ## Historical Context
 
-Dr. Cho Han Kyu developed the Nutritive Cycle Theory in the 1960s at the Janong Natural Farming Institute in South Korea, at a time when the Green Revolution was rapidly spreading chemical-intensive agriculture across Asia. As a final-year agriculture student in 1965, Cho and his friends boycotted the special paper on Green Revolution Technologies, believing they were irrelevant and harmful for Asian farming conditions. He spent decades studying traditional farming practices across South Korea and Japan, treating enlightened farmers as his real teachers.
+Dr. Cho [[cho-han-kyu-life-and-philosophy]] developed the Nutritive Cycle Theory in the 1960s at the Janong Natural Farming Institute in South Korea, at a time when the Green Revolution was rapidly spreading chemical-intensive agriculture across Asia. As a final-year agriculture student in 1965, Cho and his friends boycotted the special paper on Green Revolution Technologies, believing they were irrelevant and harmful for Asian farming conditions. He spent decades studying traditional farming practices across South Korea and Japan, treating enlightened farmers as his real teachers.
 
 His insistence that farmers are free to experiment and substitute local materials lends the system remarkable flexibility. This adaptability has allowed KNF to spread to over 15 countries across Asia, the Americas, and beyond. The Nutritive Cycle Theory remains the intellectual backbone of this global movement, providing a scientifically grounded yet philosophically rich framework for sustainable food production.
 
 ## See Also
 
 - **Cho's Global Natural Farming** — The broader farming system within which the Nutritive Cycle Theory operates.
-- **IMO Collection and Cultivation** — A companion KNF practice for building soil microbial health.
-- **Fermented Plant Juice (FPJ)** — A primary nitrogen-bearing input for the vegetative growth stage.
+- **[[bahay-kubo-imo-collection-and-preparation]] and Cultivation** — A companion KNF practice for building soil microbial health.
+- **[[bionutrients-lab-fermented-plant-juice-fpj]] (FPJ)** — A primary nitrogen-bearing input for the [[cannabis-vegetative-growth-stage]] stage.
 - **[[korean-natural-farming]] (KNF)** — The cultural and practical tradition from which these methods originate.
 ## Practical Applications
 
@@ -95,4 +95,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

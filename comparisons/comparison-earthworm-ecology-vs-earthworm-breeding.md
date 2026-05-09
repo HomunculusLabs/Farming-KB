@@ -1,10 +1,11 @@
 ---
-title: "Earthworm Ecology vs Earthworm Breeding"
+title: "comparison earthworm ecology vs earthworm breeding vs Earthworm Breeding"
 created: 2026-04-28
 tags: [comparison, earthworms, soil-biology, vermicomposting, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -36,7 +37,7 @@ A simple breeding setup requires a wooden box of about one cubic meter filled
 with a substrate of straw, cardboard, soil, a little dung, natural fabrics,
 and layers of branches, leaves, and roots for aeration. Worms are fed kitchen
 waste (excluding onions and garlic), used coffee filters with grounds, and any
-organic matter. The feeding rate should match the worms' processing capacity:
+[[hamilton-composting-and-organic-matter-management]]. The feeding rate should match the worms' processing capacity:
 if food breaks down as fast as new food accumulates, the rate is optimal. This
 prevents harmful mold buildups.
 
@@ -48,7 +49,7 @@ holes in the bottom of breeding containers. Worms must be protected from UV
 light, which they are sensitive to.
 
 The products of worm breeding serve multiple purposes. Worms and their eggs
-can be scattered over new terraces and raised beds in the evening during wet
+can be scattered over new terraces and [[comparison-raised-beds-vs-hugelkultur]] in the evening during wet
 weather to establish populations. The nutrient-rich, fine crumbly worm humus
 is used for especially valuable and demanding plants, including balcony
 flowers. In greenhouse systems, worms can be bred directly in the soil beneath
@@ -68,11 +69,11 @@ growing crops, creating a self-sustaining fertility system.
 
 ## When to Study Earthworm Ecology
 Gardeners and farmers who want to understand the foundations of soil health
-should learn earthworm ecology before attempting any breeding program. The
+should learn earthworm ecology before attempting any [[cervantes-breeding-program-design-goal-setting]]. The
 ecological perspective reveals that worm presence is a reliable soil health
 indicator: thriving worms mean the broader soil food web is functioning.
 Ecology also teaches which practices harm worms: rototilling destroys burrows
-and cuts worms into non-regenerating pieces, chemical fertilizers are salts
+and cuts worms into non-regenerating pieces, [[cervantes-chemical-fertilizers-guide]] are salts
 that irritate and repel them, and pesticides poison them directly or destroy
 their food sources. This knowledge prevents well-intentioned gardeners from
 undermining their own efforts.
@@ -92,9 +93,11 @@ worms need permanent soil cover, adequate moisture, and organic matter tells
 you exactly how to design your breeding system and where to release bred
 worms. Scattering bred worms across mulched, no-till garden beds ensures they
 establish permanent populations that continue the ecological functions of
-burrowing, casting, and nutrient cycling without further intervention. The
+burrowing, casting, and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] without further intervention. The
 breeder's job is to jumpstart the ecology; the ecology then sustains itself.
 
 ## See Also
+
+- [[comparison-bsf-composting-vs-earthworm-breeding]]
 - [[soil-food-web-structure]] — the complete soil biology beyond earthworms
 - [[ozier-pdc-composting-and-soil-building]] — tillage-free systems that protect earthworm habitat

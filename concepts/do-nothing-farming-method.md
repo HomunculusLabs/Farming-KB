@@ -8,7 +8,7 @@ created: 2026-05-08
 # Do-Nothing Farming Method
 
 Fukuoka's do-nothing farming method is the practical application of his
-natural farming philosophy. The term is somewhat misleading, as the method
+natural [[fukuoka-do-nothing-farming-philosophy-and-practice]]. The term is somewhat misleading, as the method
 does require work, especially at harvest time. Rather, it describes an
 approach of continuous reduction, eliminating unnecessary agricultural
 practices one by one until only the essential tasks remain. Over thirty
@@ -24,13 +24,13 @@ pounds of rice per quarter acre, sometimes reaching 29 bushels.
 Fukuoka's method rests on four foundational principles. First, no cultivation
 or plowing of the soil. Fukuoka demonstrated that plowing actually damages
 soil structure, disrupts microbial communities, and accelerates erosion.
-Second, no chemical fertilizers or prepared compost. The soil maintains its
+Second, no [[cervantes-chemical-fertilizers-guide]] or prepared compost. The soil maintains its
 fertility through natural processes including the decomposition of straw
 mulch and the nitrogen-fixing activity of clover cover crops. Third, no
 weeding by tillage or herbicides. Weeds are controlled through the
 strategic use of ground covers, particularly white clover, and straw mulch.
-Fourth, no dependence on chemicals. Insect and disease balance is maintained
-through the health and diversity of the natural ecosystem that develops
+Fourth, no dependence on chemicals. [[vegetable-insect-and-disease-control]] balance is maintained
+through the health and diversity of the [[fukuoka-natural-ecosystem-food-chain-interconnection]] that develops
 in the fields over time.
 
 ## The Rice-Barley Succession System
@@ -52,7 +52,7 @@ Fukuoka was candid about the failures he experienced while developing his
 method. When he first inherited the citrus orchard, he left the trees
 completely unattended in the belief that natural farming meant doing
 absolutely nothing. The branches became intertwined, insects attacked, and
-nearly two acres of mandarin orange trees withered and died. He later
+nearly two acres of [[fukuoka-mandarin-orange-citrus]] trees withered and died. He later
 wiped out another 400 trees before arriving at a workable approach. He
 distinguished sharply between abandonment and natural farming: abandonment
 is simply leaving things to deteriorate, while natural farming requires
@@ -109,7 +109,7 @@ the rice or barley straw is spread evenly across the field surface. This layer o
 straw serves multiple functions simultaneously: it suppresses weed growth by
 blocking sunlight, retains soil moisture, moderates soil temperature, prevents
 erosion from rain, and gradually decomposes to add organic matter to the soil.
-The straw also creates habitat for spiders and other beneficial insects that
+The straw also creates habitat for spiders and other [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] that
 help maintain the natural pest balance. Fukuoka noted that spreading straw is
 one of the few essential tasks in his system, along with sowing seeds and
 harvesting. The simplicity of these three core activities, sowing, spreading

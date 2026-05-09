@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Thomson, J.W. (1984). "American Arctic Lichens: The Macrolichens." Columbia University Press.
   - Nimis, P.L. (2016). "The Lichens of Italy: A Second Annotated Catalogue." EUT Edizioni.
   - McCune, B. & Geiser, L. (2009). "Macrolichens of the Pacific Northwest." 2nd ed. Oregon State University Press.
@@ -21,7 +21,7 @@ sources:
 
 **Dactylina arctica** is a fruticose to subfruticose cyanolichen in the family Physciaceae, commonly known as the **Arctic finger lichen**. It forms dark brown to black, coral-like tufts on soil, moss, and decaying wood in Arctic and alpine tundra environments.
 
-The species is notable for its exclusively northern distribution and its association with *Nostoc* cyanobacteria, which enable nitrogen fixation in nutrient-poor tundra soils. It is one of the few lichens in its family to form a tripartite symbiosis with cyanobacteria.
+The species is notable for its exclusively northern distribution and its association with *Nostoc* cyanobacteria, which enable [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] in nutrient-poor tundra soils. It is one of the few lichens in its family to form a tripartite symbiosis with cyanobacteria.
 
 ## Taxonomy and Morphology
 
@@ -31,7 +31,7 @@ The thallus forms erect to suberect tufts 2–8 cm tall, arising from a compact 
 
 The surface color is dark brown to nearly black when dry, becoming darker and somewhat glossy when wet. The cortex is thin and the medulla is white to pale, containing the cyanobacterial photobiont cells visible as a bluish-green tinge in section.
 
-Cyphellae are absent, but the species produces characteristic conidiomata — small pustule-like asexual fruiting bodies — on branch surfaces. Apothecia are extremely rare and poorly documented, suggesting minimal sexual reproduction.
+Cyphellae are absent, but the species produces characteristic conidiomata — small pustule-like asexual fruiting bodies — on branch surfaces. Apothecia are extremely rare and poorly documented, suggesting minimal [[fungal-life-cycles-sexual-reproduction-metamorphosis]].
 
 ## Distribution and Habitat
 
@@ -43,7 +43,7 @@ It is most abundant in well-drained tundra soils with low vegetation cover, incl
 
 ## Ecology and Symbiosis
 
-The *Nostoc* cyanobacterial partner of *D. arctica* enables biological nitrogen fixation, making this lichen ecologically important in nitrogen-limited Arctic ecosystems. Fixed nitrogen is released to the soil through leaching and thallus decomposition, enriching the surrounding tundra community.
+The *Nostoc* cyanobacterial partner of *D. arctica* enables [[biological-nitrogen-fixation-agriculture]] fixation, making this lichen ecologically important in nitrogen-limited Arctic ecosystems. Fixed nitrogen is released to the soil through leaching and thallus decomposition, enriching the surrounding tundra community.
 
 *Dactylina arctica* is among the first colonizers of disturbed ground in Arctic environments, including recently deglaciated terrain, frost-patterned ground, and cryoturbated soils. Its ability to establish on bare substrate and contribute nitrogen makes it a pioneer species in primary succession.
 
@@ -57,7 +57,7 @@ Growth rates are extremely slow, with annual biomass accumulation estimated at l
 
 The chemistry profile helps distinguish *D. arctica* from morphologically similar terricolous lichens. Pannarin gives a yellow reaction with the C spot test and can be confirmed through thin-layer chromatography analysis.
 
-Triterpenoids and fatty acid derivatives have also been isolated from the species. The antimicrobial properties of these compounds have been investigated for potential biotechnological applications, though no commercial products have been developed.
+Triterpenoids and fatty acid derivatives have also been isolated from the species. The [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] of these compounds have been investigated for potential biotechnological applications, though no commercial products have been developed.
 
 ## Cultural Significance
 
@@ -65,7 +65,7 @@ Triterpenoids and fatty acid derivatives have also been isolated from the specie
 
 The species' role in nitrogen enrichment of tundra soils has indirect cultural significance through its support of the caribou and reindeer herds that Arctic indigenous communities depend upon. Healthy lichen communities contribute to the productivity of grazing ecosystems.
 
-In scientific culture, *D. arctica* has served as a model organism for studying cyanolichen symbiosis in extreme environments. Research on its nitrogen fixation rates has contributed to understanding of nutrient cycling in polar ecosystems.
+In scientific culture, *D. arctica* has served as a model organism for studying cyanolichen symbiosis in extreme environments. Research on its nitrogen fixation rates has contributed to understanding of [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in polar ecosystems.
 
 ## Similar Species
 
@@ -99,7 +99,7 @@ In Arctic environments, wind-blown snow and ice may transport fragments across f
 - [[cladonia-rangiferina]]
 - [[cladonia-arbuscula]]
 - [[peltigera-canina]]
-- [[peltigera-apthosa]]
+- [[peltigera-aphthosa]]
 - [[nephroma-arcticum]]
 - [[hypogymnia-physodes]]
 - [[alectoria-sarmentosa]]

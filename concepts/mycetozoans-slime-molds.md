@@ -9,7 +9,7 @@ sources: []
 
 # Mycetozoans — Slime Molds and Their Relatives
 
-Mycetozoans (slime molds and their relatives) are a diverse assemblage of protists that share amoeboid trophic stages and fruiting body formation. They include the Myxomycetes (plasmodial slime molds), Dictyostelia (cellular slime molds), and Protostelia, classified together in the class Eumycetozoa.
+Mycetozoans (slime molds and their relatives) are a diverse assemblage of protists that share amoeboid trophic stages and fruiting [[suppressed-incomplete-fruit-body-formation-brassinosteroid-treatment]]. They include the Myxomycetes (plasmodial slime molds), Dictyostelia (cellular slime molds), and Protostelia, classified together in the class Eumycetozoa.
 
 ## Classification and Phylogeny
 
@@ -56,7 +56,7 @@ Standard method for dictyostelids:
 1. Collect soil from multiple sites
 2. Dilute and suspend set mass of soil in set volume of sterile water
 3. Spread on weak nutrient agar overlain with E. coli suspension
-4. Incubate at ambient temperature for 3-4 days
+4. Incubate at [[jadam-ambient-temperature-principle]] for 3-4 days
 5. Individual clones form plaques in bacterial lawn
 6. Subculture on 1.5% nonnutrient agar with E. coli
 
@@ -64,13 +64,13 @@ Standard method for dictyostelids:
 Feest's modification uses Saccharomyces cerevisiae instead of E. coli. Plasmodia appear after several days. The yeast prevents plates from being overrun by filamentous fungi while allowing food bacteria to grow.
 
 ### Canopy Soil
-Material collecting around bases of vascular epiphytes on tree trunks and branches in rainforests. This decaying organic matter microhabitat supports diverse mycetozoan communities.
+Material collecting around bases of vascular epiphytes on tree trunks and branches in rainforests. This decaying [[hamilton-composting-and-organic-matter-management]] microhabitat supports diverse mycetozoan communities.
 
 ## Geographic Distribution
 
 ### Protostelids
 - Probably ubiquitous; the great majority of species appear cosmopolitan
-- Collected from subarctic North America, temperate and desert areas, Caribbean, Brazil, Melanesia, Micronesia, Polynesia, Japan, southeastern Asia, England, Africa
+- Collected from subarctic [[psilocybin-north-america-pacific-northwest]], temperate and desert areas, Caribbean, Brazil, Melanesia, Micronesia, Polynesia, Japan, southeastern Asia, England, Africa
 - All or most known species expected within a single 50,000-hectare tropical or temperate forest plot
 
 ### Myxomycetes
@@ -84,8 +84,8 @@ Most mycetozoans can be identified from fruiting body morphology alone, but cult
 
 ## Ecological Roles
 
-- Bacterial predators in soil and litter ecosystems
-- Contribute to nutrient cycling
+- [[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]] in soil and litter ecosystems
+- Contribute to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - Food source for soil microarthropods
 - Some species produce compounds of pharmacological interest
 - Myxomycete plasmodia occasionally feed on wood-rotting basidiomycetes

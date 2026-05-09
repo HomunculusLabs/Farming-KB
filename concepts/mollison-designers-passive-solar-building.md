@@ -1,5 +1,5 @@
 ---
-title: "Passive Solar Building Design"
+title: "comparison-passive-solar-vs-earth-sheltered Building Design"
 created: 2026-04-28
 tags:
   - passive-solar
@@ -26,7 +26,7 @@ Passive solar design rests on four interrelated principles:
 
 1. **Collection**: Capturing solar energy through appropriately oriented and
    sized glazing (windows, skylights, sunspaces).
-2. **Storage**: Absorbing and retaining thermal energy in high-density
+2. **Storage**: Absorbing and retaining [[phase-change-materials-thermal-energy-storage]] in high-density
    materials (thermal mass) for release when needed.
 3. **Distribution**: Moving stored heat through the building by natural
    convection, conduction, and radiation.
@@ -41,7 +41,7 @@ solar access provide no heating benefit.
 ## Orientation and Solar Access
 
 In the northern hemisphere, the primary solar-collecting facade should face
-within 15 degrees of true south. In the southern hemisphere, it should face
+within 15 degrees of true south. In the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], it should face
 true north. This orientation maximizes winter solar gain when the sun is low
 on the horizon while allowing easy shading in summer when the sun is high.
 
@@ -53,7 +53,7 @@ the northern hemisphere) should be well-insulated with small windows for
 daylight and ventilation.
 
 Solar access must be protected from shading by buildings, trees, and terrain.
-Mollison advises designing the Mollison Designers Zone Planning layout
+Mollison advises designing the Mollison Designers [[mollison-course-zone-planning-and-design]] layout
 so that deciduous trees are positioned to shade buildings in summer but allow
 winter sun penetration after leaf fall. Evergreen windbreaks should be placed
 to the north and west of buildings, never to the south.
@@ -97,9 +97,9 @@ perform exceptionally well.
 **Hot arid climates**: Minimize east and west glazing. Use massive
 construction (adobe, rammed earth) for thermal lag. Shade all windows in
 summer. Encourage night ventilation to flush stored heat. Courtyards and
-evaporative cooling reduce daytime temperatures.
+[[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] reduce daytime temperatures.
 
-**Humid tropics**: Elevate buildings for air circulation. Use lightweight
+**Humid tropics**: Elevate buildings for [[stamets-growing-room-air-circulation-co2-management]]. Use lightweight
 construction with low thermal mass. Maximize cross-ventilation. Deep
 overhanging roofs shade walls from sun and rain. Vegetation around buildings
 provides evaporative cooling.

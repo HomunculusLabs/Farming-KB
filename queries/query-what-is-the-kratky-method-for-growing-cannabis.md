@@ -1,5 +1,5 @@
 ---
-title: "What Is the Kratky Method for Growing Cannabis"
+title: "What Is the query what is the kratky method for growing cannabis for Growing Cannabis"
 created: 2026-04-28
 tags: [query, cannabis, hydroponics, kratky-method, beginner]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: query
 
 ## Short Answer
 The Kratky method is a passive hydroponic technique that grows plants in a 
-nutrient solution
+[[cannabis-nutrient-solution-preparation]]
 without pumps, airstones, or electricity. The plant sits in a net pot above a 
 reservoir, and
 as roots grow downward and the plant drinks, the water level drops, creating an 
@@ -25,7 +25,7 @@ lower yields than active systems like DWC. The [[nutrient-film-technique]] pages
 
 The Kratky method was developed by Dr. B.A. Kratky at the University of Hawaii 
 as a
-simplified approach to hydroponic growing that eliminates the need for any 
+simplified approach to [[cannabis-grow-hydroponic-growing-systems]] that eliminates the need for any 
 moving parts or
 electronic equipment. It is often described as the gateway to hydroponics 
 because it requires
@@ -51,7 +51,7 @@ that supports the plant, an inert growing medium for the net pot, hydroponic
 nutrients, a
 pH meter, and a ppm or EC meter for nutrient strength measurement. Container 
 size matters
-significantly for a full cannabis grow from seed to harvest. Plan on at least 5 
+significantly for a full [[query-how-do-i-transition-my-cannabis-grow-from-synthetic-to-organic-nutrients]] seed to harvest. Plan on at least 5 
 gallons per
 plant, with 10 gallons or more preferred for larger plants or longer flowering 
 periods.
@@ -60,7 +60,7 @@ planting, and
 let the system run without intervention until harvest. The [[cannabis-environment-control]] pages cover medium selection and environmental
 requirements for cannabis grows including Kratky systems.
 
-Nutrient management in a Kratky system requires careful upfront calculation. 
+[[green-cannabis-grow-bible-nutrient-management-ppm]] in a Kratky system requires careful upfront calculation. 
 Because you
 cannot easily top off or adjust the reservoir during the grow, you must fill it 
 with the
@@ -75,7 +75,7 @@ systems where
 the reservoir is regularly topped off with fresh water and adjusted. The
 [[aeroponics-guide]] page contrasts the Kratky method with more complex 
 hydroponic
-approaches for cannabis cultivation.
+approaches for [[query-how-does-no-till-cannabis-cultivation-work]].
 
 ## Key Points
 - The Kratky method is a passive hydroponic technique requiring no pumps, airstones, or electricity beyond lighting

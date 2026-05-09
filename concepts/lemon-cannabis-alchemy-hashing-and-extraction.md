@@ -1,5 +1,5 @@
 ---
-title: Lemon Cannabis Alchemy - Hashing and Extraction
+title: Lemon lemon-cannabis-alchemy-advanced-refinement-techniques - Hashing and Extraction
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [cannabis]
 
 # Lemon Cannabis Alchemy - Hashing and Extraction
 
-Ben Lemon's "Cannabis Alchemy" provides detailed methods for extracting, purifying, and refining cannabis oils, along with techniques for producing hashish from extracted oil and through dry-sieving (screening). The book presents a progression from basic solvent extraction through increasingly refined processes including isomerization, acetylation, and charcoal filtration to produce oils of extraordinary potency.
+Ben Lemon's "Cannabis Alchemy" provides detailed methods for extracting, purifying, and refining cannabis oils, along with techniques for producing hashish from [[cannabis-hashish-from-extracted-oil-techniques]] and through dry-sieving (screening). The book presents a progression from basic solvent extraction through increasingly refined processes including isomerization, acetylation, and charcoal filtration to produce oils of extraordinary potency.
 
 ## Overview of the Extraction Process
 
@@ -26,7 +26,7 @@ Reducing material to the finest powder possible ruptures cell walls so the oil i
 
 ### Step 3: Refluxing
 
-The essential oil is extracted by refluxing (boiling) the powdered cannabis in a solvent. The essential oil -- containing THC, related cannabinoids, chlorophyll, and taste/smell compounds -- dissolves in the solvent while cellulose does not. A water-bath-based refluxing apparatus is used, consisting of a small stainless-steel pot inside a larger stew pot with an inverted ice-cooled lid, all inside a boiling-water tub. This prevents exposure to flammable fumes. Refluxing continues for three to four hours.
+The [[permaculture-designers-manual-essential-oil-plants]] is extracted by refluxing (boiling) the powdered cannabis in a solvent. The essential oil -- containing THC, related cannabinoids, chlorophyll, and taste/smell compounds -- dissolves in the solvent while cellulose does not. A water-bath-based refluxing apparatus is used, consisting of a small stainless-steel pot inside a larger stew pot with an inverted ice-cooled lid, all inside a boiling-water tub. This prevents exposure to flammable fumes. Refluxing continues for three to four hours.
 
 ### Solvent Options
 
@@ -35,7 +35,7 @@ Four solvents are recommended, each with distinct advantages:
 - **Methanol** (boiling point 64C): Commonly available, does a fine job if used correctly. Fumes are toxic and explosive; inhalation causes body ache and potential permanent damage. Does not extract many water-soluble, non-psychoactive tars.
 - **Isopropyl rubbing alcohol** (70% isopropyl, 30% water): Available at low cost, less toxic and explosive. The water content extracts non-psychoactive substances, doubling oil yield but halving potency. Higher evaporation temperature due to water content.
 - **Ethanol** (boiling point 78.5C): Very desirable extraction properties similar to methanol but less toxic. Difficult to obtain due to liquor taxation. Denatured ethanol contains non-removable poisons.
-- **Petroleum ether** (boiling point 30-60C): Much more selective than alcohols. Produces oil twice as potent by weight. Best used for re-extraction after initial alcohol extraction to minimize handling of this highly explosive solvent.
+- **Petroleum ether** (boiling point 30-60C): Much more selective than alcohols. Produces oil twice as potent by weight. Best used for re-extraction after initial [[pf-tek-alcohol-extraction-method]] to minimize handling of this highly explosive solvent.
 
 ### Step 4: Soxhleting
 
@@ -55,7 +55,7 @@ The quantity of cannabidiol (CBD) in the oil is important because it can be conv
 
 ## THC Acetate
 
-THC acetate has twice the potency of THC on the Adams scale (THC = 7.3, acetate = 14.6), with a 25% increase in weight from the added acetate structure. The effect is more spiritual and psychedelic than ordinary THC, with a delay of approximately thirty minutes before effects are felt. It is produced by refluxing cannabis oil with acetic anhydride (three times the oil volume) for three hours under a nitrogen atmosphere in a glove-box safety apparatus. After cooling, the acetic anhydride is distilled off and the oil is purified through double extraction with petroleum ether.
+THC acetate has twice the potency of THC on the Adams scale (THC = 7.3, acetate = 14.6), with a 25% increase in weight from the added acetate structure. The effect is more spiritual and psychedelic than ordinary THC, with a delay of approximately thirty minutes before effects are felt. It is produced by refluxing cannabis oil with acetic anhydride (three times the oil volume) for three hours under a nitrogen atmosphere in a glove-box safety apparatus. After cooling, the acetic anhydride is distilled off and the oil is purified through [[query-how-do-i-make-a-medicinal-mushroom-double-extraction-tincture]] with petroleum ether.
 
 ## Translucent (Honey) Oil
 
@@ -117,7 +117,7 @@ The book's extraction methods allow the practitioner to produce hashish in any o
 
 The book repeatedly emphasizes safety precautions for solvent handling. All extraction should be performed in well-ventilated areas away from open flames. The water-bath heating method is specifically designed to prevent direct contact between the heat source and flammable solvents. Methanol fumes are particularly dangerous, causing cumulative health effects with repeated exposure. Petroleum ether is extremely explosive, with a flash point below freezing.
 
-The purification step using petroleum ether requires careful handling of this highly volatile solvent. The separation funnel technique, while effective, must be performed slowly to avoid emulsions and ensure clean layer separation. The book recommends performing ether extractions outdoors or in fume hoods whenever possible.
+The purification step using petroleum ether requires careful handling of this highly [[cervantes-volatile-solvent-extraction]]. The separation funnel technique, while effective, must be performed slowly to avoid emulsions and ensure clean layer separation. The book recommends performing ether extractions outdoors or in fume hoods whenever possible.
 
 ## See Also
 

@@ -1,5 +1,5 @@
 ---
-title: "2C-T-7 -- 2,5-DIMETHOXY-4-(n)-PROPYLTHIOPHENETHYLAMINE -- PIHKAL Entry #43"
+title: "2C-T-7 -- 2,5-DIMETHOXY-4-(n)-PROPYLTHIOPHENETHYLAMINE -- 2c-b-pihkal-entry-20 #43"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -39,7 +39,7 @@ lithium hydride in cold THF to provide 2,5-dimethoxy-4-(n)-propyl-N-methyl-phene
 
 To a solution of 3.4 g of KOH pellets in 50 mL hot MeOH, there was added a mixture of 6.8 g 2,5-dimethoxythiophenol (see under
 
-the recipe for 2C-T-2 for its preparation) and 7.4 g (n)-propylbromide dissolved in 20 mL MeOH. The reaction was exothermic, with the deposition of white solids. This was heated on the steam bath for 0.5 h, added to 800 mL H2O, additional aqueous NaOH added until the pH was basic, and extracted with 3x75 mL CH2Cl2. The pooled extracts were washed with dilute NaOH, and the solvent removed under vacuum. The residue was 2,5-dimethoxyphenyl (n)-propyl sulfide which was obtained as a pale yellow oil, and which weighed 8.9 g. It had a light pleasant fruity smell, and was sufficiently pure for use in the next reaction without distillation.
+the recipe for 2C-T-2 for its preparation) and 7.4 g (n)-propylbromide dissolved in 20 mL MeOH. The reaction was exothermic, with the deposition of white solids. This was heated on the [[scythian-cannabis-steam-bath-ritual]] for 0.5 h, added to 800 mL H2O, additional aqueous NaOH added until the pH was basic, and extracted with 3x75 mL CH2Cl2. The pooled extracts were washed with dilute NaOH, and the solvent removed under vacuum. The residue was 2,5-dimethoxyphenyl (n)-propyl sulfide which was obtained as a pale yellow oil, and which weighed 8.9 g. It had a light pleasant fruity smell, and was sufficiently pure for use in the next reaction without distillation.
 
 A mixture of 14.4 g POCl3 and 13.4 g N-methylformanilide was heated for 10 min on the steam bath. To this claret-colored solution was added 8.9 g of 2,5-dimethoxyphenyl (n)-propyl sulfide, and the mixture heated an additional 25 min on the steam bath. This was then added to 800 mL of well-stirred warm H2O (pre-heated to 55 deg C) and the stirring continued until the oily phase had completely solidified (about 15 minutes). The resulting brown sugar-like solids were removed by filtration, and washed with additional H2O. After sucking as dry as possible, they were dissolved in an equal weight of boiling MeOH which, after cooling in an ice-bath, deposited pale ivory colored crystals. After filtration, modest washing with cold MeOH, and air drying to constant weight, there was obtained 8.3 g of 2,5-dimethoxy-4-(n-propyl-thio)benzaldehyde with a mp of 73-76 deg C. Recrystallization from 2.5 volumes of MeOH provided a white analytical sample with mp 76-77 deg C. The NMR spectrum in CDCl3 was textbook perfect, with the two aromatic protons showing singlet signals at 6.81 and 7.27 ppm, giving assurance that the assigned location of the introduced aldehyde group was correct.
 
@@ -67,12 +67,12 @@ extreme caution. This compound is not approved for human consumption.
 
 2C-T-7 is a phenethylamine of the 2C family with a propylthio substituent at
 the 4-position. Like other members of the 2C-T series, the thioether linkage
-at the 4-position is the defining structural feature. The propyl chain length
+at the 4-position is the defining structural feature. The propyl [[phenethylamine-chain-length-effects]]
 appears to be optimal for psychedelic activity within the 2C-T series, with
 shorter chains (methyl, ethyl) producing less potent compounds and longer
 chains reducing activity or altering duration significantly.
 
-The compound is a potent agonist at serotonin 5-HT2A receptors, the primary
+The compound is a potent agonist at [[serotonin]] 5-HT2A receptors, the primary
 mechanism underlying its psychedelic effects. The 2,5-dimethoxy substitution
 pattern is characteristic of highly active psychedelic phenethylamines, and
 the lipophilic propylthio group at position 4 likely enhances receptor
@@ -94,11 +94,11 @@ active range.
 
 2C-T-7 has been specifically scheduled as a controlled substance in many
 countries following reports of recreational use and adverse events. In the
-United States, it was emergency-scheduled by the DEA in 2001 and subsequently
+[[dmt-containing-plants-united-states-halpern]], it was emergency-scheduled by the DEA in 2001 and subsequently
 placed under permanent Schedule I control. Several deaths associated with
 2C-T-7 use — particularly when combined with other substances — accelerated
 regulatory action. In the United Kingdom, the 2C family of phenethylamines
-is controlled under the Psychoactive Substances Act and existing drug
+is controlled under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] and existing drug
 misuse regulations. Canada, Australia, and most European nations have also
 scheduled 2C-T-7 specifically or as part of broader phenethylamine controls.
 

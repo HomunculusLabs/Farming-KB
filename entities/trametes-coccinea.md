@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ryvarden, L. & Gilbourn, R.L. (2004). "Polypores of North America." Fungiflora, Oslo.
+  - Ryvarden, L. & Gilbourn, R.L. (2004). "Polypores of psilocybin-north-america-pacific-northwest." Fungiflora, Oslo.
   - Núñez, M. & Ryvarden, L. (2001). "A Monograph of the Genus Trametes." Synopsis Fungorum 14.
   - Justo, A. et al. (2017). "A revised morphological classification of the Polyporales." Mycologia, 109(4), 668-686.
   - URL: https://www.indexfungorum.org/
@@ -22,10 +22,12 @@ created: 2026-04-28
 
 **Trametes coccinea** is a tropical and subtropical polypore fungus in the family Polyporaceae. It is a white-rot decomposer commonly found on dead hardwood, recognized by its bright orange to reddish, concentrically zoned pileus and relatively thin, flexible basidiocarps.
 
-The species is closely related to the well-known [[trametes-versicolor-entity]]** — Turkey tail, the most widely known Trametes species
+The species is closely related to the well-known [[trametes-versicolor-entity]]** — [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], the most widely known Trametes species
 - **[[trametes-ochracea]]** — Ochre polypore of temperate hardwood forests
 
 ## See Also
+
+- [[quercus-coccinea]]
 
 - [[white-rot-fungi]]
 - [[singh-fungal-composting-bioremediation-contaminated-soils]]
@@ -111,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

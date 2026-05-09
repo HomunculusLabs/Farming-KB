@@ -11,7 +11,7 @@ sources:
 
 AL (4-allyloxy-3,5-dimethoxyphenethylamine) is a psychedelic phenethylamine and one of the most potent 3,4,5-trisubstituted phenethylamines yet described.
 
-It appears as PiHKAL entry #2, first explored by the Czech chemist Otakar Leminger in Prague.
+It appears as [[2c-b-pihkal-entry-20]] #2, first explored by the Czech chemist Otakar Leminger in Prague.
 
 AL represents one of the few simple phenethylamines with an allyloxy group that demonstrates significant central activity.
 

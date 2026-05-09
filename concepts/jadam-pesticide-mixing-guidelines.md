@@ -1,5 +1,5 @@
 ---
-title: JADAM Pesticide Mixing Guidelines
+title: JADAM jadam pesticide mixing guidelines Guidelines
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Proper mixing of JADAM natural pesticide (JNP) ingredients is critical for effectiveness and safety. Incorrect mixing can result in clotting, reduced effectiveness, or plant damage. These guidelines cover the universal mixing protocol, ingredient interactions, and common mistakes to avoid.
+Proper mixing of JADAM [[jadam-natural-pesticide-institute-and-research]] (JNP) ingredients is critical for effectiveness and safety. Incorrect mixing can result in clotting, reduced effectiveness, or plant damage. These guidelines cover the universal mixing protocol, ingredient interactions, and common mistakes to avoid.
 
 ## Universal Mixing Protocol
 
@@ -30,8 +30,8 @@ If you mix these, there will be little foam (dilute at ~1000 rate):
 - Vinegar
 - Wood vinegar
 - Sea water
-- Sea salt
-- Liquid fertilizers made using sugar or molasses
+- [[jadam-sea-salt-and-mineral-solutions]]
+- [[solomon-liquid-fertilizers-and-foliar-feeding]] made using sugar or molasses
 
 ### When Increasing JHS, Always Increase JWA
 - JHS and JWA must increase together

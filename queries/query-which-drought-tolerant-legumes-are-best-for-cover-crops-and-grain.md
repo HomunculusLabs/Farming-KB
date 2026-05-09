@@ -5,9 +5,9 @@ date: 2026-04-28
 updated: 2026-04-28
 ## Related
 
-- [[cover-crop-selection-guide|Cover Crop Selection Guide]]
-- [[rhizobia-legume-nodule-formation|Rhizobia Inoculation Guide]]
-- [[query-how-do-i-design-a-duck-pond-system-for-permaculture]] Food Forests?
+- cover-crop-selection-guide|Cover Crop Selection Guide
+- rhizobia-legume-nodule-formation|Rhizobia Inoculation Guide
+- query-how-do-i-design-a-duck-pond-system-for-permaculture Food Forests?
 
 ## Quick Answer
 
@@ -90,9 +90,9 @@ These trees handle extreme heat, alkaline soils, and prolonged dry seasons:
 
 - **Minimum rainfall**: 500 mm (supplemental during fruiting)
 - **Yield**: 10–30 kg/tree/year
-- **Fruit**: Sweet-tart yellow-orange fruit in late winter/early spring (fills a seasonal gap)
-- **Why it excels**: Evergreen; flowers in autumn (bee forage when little else blooms); fruit ripens when other trees are bare; tolerates partial shade and a wide range of soils
-- **Food forest role**: Mid-canopy evergreen; provides structure, privacy, and wind protection year-round
+- **Fruit**: Sweet-tart yellow-orange fruit in late winter/[[coleman-overwintered-onions-and-early-spring-crops]] (fills a seasonal gap)
+- **Why it excels**: Evergreen; flowers in autumn ([[mollison-designers-bee-forage-tree-planting]] when little else blooms); fruit ripens when other trees are bare; tolerates partial shade and a wide range of soils
+- **Food forest role**: Mid-canopy evergreen; provides structure, privacy, and [[cervantes-wind-protection-outdoor-cannabis]] year-round
 - **Cultivars**: 'Gold Nugget', 'Champagne', 'Mogi', 'Thales', 'Advance'
 
 ### Persimmon (*Diospyros spp.*)
@@ -101,7 +101,7 @@ These trees handle extreme heat, alkaline soils, and prolonged dry seasons:
 - **Yield**: 25–80 kg/tree/year
 - **Fruit**: Sweet astringent or non-astringent fruit; excellent fresh or dried; high in vitamins A and C
 - **Why it excels**: Few pest problems; beautiful fall foliage; long-lived (75+ years); fruit persists on bare branches through winter; tolerant of a wide range of soils including clay
-- **Food forest role**: Canopy tree with seasonal interest; leaf litter breaks down to improve soil
+- **Food forest role**: Canopy tree with seasonal interest; [[dighton-fungal-decomposition-leaf-litter-dynamics]] breaks down to improve soil
 - **Species**: Asian persimmon (*D. kaki*, less cold-hardy, more fruit diversity) and American persimmon (*D. virginiana*, extremely cold-hardy, smaller fruit)
 - **Cultivars (Asian)**: 'Fuyu', 'Hachiya', 'Jiro', 'Saijo', 'Chocolate'
 
@@ -113,9 +113,9 @@ These trees handle extreme heat, alkaline soils, and prolonged dry seasons:
 
 - **Minimum rainfall**: 600–700 mm
 - **Yield**: 10–30 kg/tree/year
-- **Fruit**: Tropical-tasting fruit (banana-mango-custard) native to eastern North America; the largest edible fruit native to the continent
+- **Fruit**: Tropical-tasting fruit (banana-mango-custard) native to [[polypore-fungi-eastern-north-america]] America; the largest edible fruit native to the continent
 - **Why it excels**: Native understory tree adapted to deciduous forest conditions; tolerant of shade as a young tree; needs only modest watering once established; very few pests; supports zebra swallowtail butterfly larvae
-- **Food forest role**: Perfect understory fruit tree for temperate food forests; naturally grows beneath taller canopy
+- **Food forest role**: Perfect understory [[comparison-berry-growing-vs-fruit-tree-pruning]] for temperate food forests; naturally grows beneath taller canopy
 - **Cultivars**: 'Mango', 'Shenandoah', 'Wabash', 'Susquehanna', 'KSU-Atwood'
 
 ### Serviceberry / Saskatoon (*Amelanchier spp.*)
@@ -132,10 +132,15 @@ These trees handle extreme heat, alkaline soils, and prolonged dry seasons:
 - **Minimum rainfall**: 500 mm
 ## See Also
 
+- [[query-best-grain-legumes-for-a-small-homestead]]
+
 - 
 - 
 - 
 
 ## See Also
-- [[food-forest-understory-plants]]
+
+- [[query-best-grain-legumes-for-a-small-homestead]]
+- food-forest-understory-plants
 - [[permplant-persimmon-diospyros-kaki-fruit-tree]]
+- [[query-how-to-design-a-food-forest-guild-for-fruit-trees]]

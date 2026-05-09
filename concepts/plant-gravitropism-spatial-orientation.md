@@ -49,13 +49,17 @@ Gravitropism knowledge is applied in several agricultural and horticultural cont
 
 ## See Also
 
-- plant vision and light perception
-- phototropism and blue light receptors
+- [[chamovitz-gravitropism-plant-knows-where-it-is]]
+
+- plant [[what-a-plant-knows-plant-vision-and-light-perception]] perception
+- phototropism and [[chamovitz-julius-von-sachs-blue-light-phototropism]] receptors
 - auxin transport and polar cell growth
 - [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]]
+- [[plant-proprioception-statolith-gravitropism-mechanism]]
+
 ## Practical Considerations
 
-When working with Plant Gravitropism Spatial Orientation, several practical factors should be
+When working with Plant plant gravitropism spatial orientation Orientation, several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this
@@ -69,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

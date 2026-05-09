@@ -1,5 +1,5 @@
 ---
-title: Pine Needle Litter Decomposition and Fungal Succession
+title: Pine Needle Litter Decomposition and dighton-fungal-succession-disturbance
 created: 2026-04-26
 tags:
   - mycology
@@ -38,7 +38,7 @@ with species such as Verticicladium becoming dominant. This stage involves
 more extensive penetration of the needle tissue and utilization of more complex
 carbohydrate resources.
 
-Stage 3: Basidiomycete fungi such as Marasmius and Collybia colonize the
+Stage 3: [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] such as Marasmius and Collybia colonize the
 needle, capable of degrading more recalcitrant components including cellulose
 and lignin. This stage sees a marked decrease in the C:N ratio from
 approximately 200:1 to around 30:1 as fungal biomass accumulates and nutrients
@@ -52,7 +52,7 @@ mycorrhizal fungi, and nutrients become more available in inorganic form.
 ## Factors Controlling Decomposition Rates
 
 The rate at which needle litter decomposes depends on its chemical composition,
-edaphic factors (available moisture and temperature), and colonization by
+[[soil-edaphic-factors-microbial-communities]] (available moisture and temperature), and colonization by
 appropriate saprotrophic organisms. The carbon:nitrogen and lignin:nitrogen
 ratios serve as determinants of resistance to decomposition and nutrient
 mineralization (Melillo et al., 1982). Where these ratios are high, rates of
@@ -112,6 +112,12 @@ widespread across mycorrhizal types.
 
 ## Implications for Forest Management and Carbon Sequestration
 
-The fungal succession model for pine needle decomposition has direct implications for forest carbon cycling and management practices. Because the early stages of decomposition are dominated by phylloplane fungi that are already present on living needles, forest health and needle chemistry influence the initial decomposition trajectory. Nitrogen deposition from atmospheric pollution can accelerate early-stage decomposition by increasing needle nitrogen content, but paradoxically slows late-stage decomposition by suppressing lignin-degrading basidiomycete enzyme production — a phenomenon known as the "nitrogen inhibition effect." This means that nitrogen-saturated forests may accumulate partially decomposed litter with altered carbon chemistry, potentially affecting long-term soil carbon storage and the formation of stable humus. Understanding these [[dighton-fungal-decomposition-leaf-litter-dynamics]]
+The fungal succession model for pine needle decomposition has direct implications for forest carbon cycling and management practices. Because the early stages of decomposition are dominated by phylloplane fungi that are already present on living needles, forest health and needle chemistry influence the initial decomposition trajectory. [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] from atmospheric pollution can accelerate early-stage decomposition by increasing needle nitrogen content, but paradoxically slows late-stage decomposition by suppressing lignin-degrading basidiomycete [[ligninolytic-enzyme-production-bioremediation]] — a phenomenon known as the "nitrogen inhibition effect." This means that nitrogen-saturated forests may accumulate partially decomposed litter with altered carbon chemistry, potentially affecting long-term soil [[holmgren-soil-humus-carbon-storage-rebuilding]] and the formation of stable humus. Understanding these [[dighton-fungal-decomposition-leaf-litter-dynamics]]
 - [[fungal-leaf-litter-succession]]
 - [[dighton-fungal-roles-in-nutrient-cycling]]
+
+## See Also
+
+- [[dighton-fungal-succession-disturbance]]
+
+- [[dighton-litter-quality-fungal-decomposition-rates]]

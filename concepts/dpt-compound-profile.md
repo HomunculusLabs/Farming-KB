@@ -9,13 +9,13 @@ sources:
 ---
 # DPT Compound Profile
 
-DPT (N,N-dipropyltryptamine) is a synthetic tryptamine described in TIHKAL as compound #9. It has been used in clinical psychotherapy research, particularly by Claudio Naranjo and others exploring psychedelic-assisted therapy. It is active by multiple routes of administration.
+DPT (N,N-dipropyltryptamine) is a synthetic tryptamine described in TIHKAL as compound #9. It has been used in clinical [[psilocybin-psychotherapy-research-history]], particularly by Claudio Naranjo and others exploring psychedelic-assisted therapy. It is active by multiple routes of administration.
 
 ## Basic Information
 - **Full name**: N,N-Dipropyltryptamine
 - **Molecular weight**: 244.3 g/mol
 - **Category**: Tryptamine, simple dialkyl
-- **Legal status**: Schedule I in US (since 2004), controlled in many countries
+- **[[ayahuasca-tourism-legal-status-by-country]]**: Schedule I in US (since 2004), controlled in many countries
 
 ## Dosage by Route
 - **Oral**: 100-250 mg, duration 2-4 hours
@@ -33,12 +33,12 @@ DPT (N,N-dipropyltryptamine) is a synthetic tryptamine described in TIHKAL as co
 - Possible vomiting at higher doses
 
 ### Mental
-- Psychedelic experience comparable to DMT or psilocybin
+- [[leary-psychedelic-experience-bardo-mapping]] comparable to DMT or psilocybin
 - Visual imagery: colors, patterns, geometric forms
 - Emotional opening, catharsis
 - Mystical or spiritual experiences possible at higher doses
 - Less "speedy" than some tryptamines
-- IM and IV routes produce rapid, intense experiences (psychedelic therapy)
+- IM and IV routes produce rapid, intense experiences ([[metzner-psycholytic-psychedelic-therapy-models]])
 
 ### Comparison with Related Compounds
 - Longer acting than DMT but shorter than psilocybin
@@ -72,11 +72,11 @@ DPT (N,N-dipropyltryptamine) is a synthetic tryptamine described in TIHKAL as co
 Synthesized from tryptamine or indole via standard reductive amination with dipropylamine. Straightforward synthesis using lithium aluminum hydride or sodium borohydride reduction.
 
 ## Safety Notes
-- Limited modern clinical research
+- Limited modern [[hofmann-lsd-clinical-research-early-studies]]
 - IM/IV routes require medical supervision
 - Nausea is common
 - MAOI interactions: potentially dangerous
-- Set and setting critical (especially for IM/IV routes)
+- [[lsd-set-and-setting-framework]] critical (especially for IM/IV routes)
 - Long-term effects unknown
 
 ## Related

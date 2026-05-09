@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Silphium perfoliatum**, commonly known as cup plant, is a tall perennial herb in the family Asteraceae native to central and eastern North America. It is among the tallest native prairie plants, regularly reaching 2–3 m in height.
+**Silphium perfoliatum**, commonly known as cup plant, is a tall perennial herb in the family Asteraceae native to central and [[polypore-fungi-eastern-north-america]] America. It is among the tallest native prairie plants, regularly reaching 2–3 m in height.
 
 The species is named for its distinctive perfoliate leaves — pairs of opposite leaves that fuse at their bases around the stem, forming small cups that collect rainwater. These water reservoirs attract birds and insects, making cup plant an exceptional wildlife-supporting species.
 
@@ -29,7 +29,7 @@ The species is named for its distinctive perfoliate leaves — pairs of opposite
 
 Plants grow 1.5–3 m tall from a deep, fibrous root system with thick rhizomes. Stems are stout, square in cross-section, and glabrous to slightly roughened. The opposite leaves are large, ovate to triangular, 15–30 cm long, with serrate margins.
 
-The uppermost leaf pairs are perfoliate, their bases completely encircling the stem and forming cup-like structures. These cups typically hold 3–5 mL of water and provide drinking stations for songbirds and beneficial insects.
+The uppermost leaf pairs are perfoliate, their bases completely encircling the stem and forming cup-like structures. These cups typically hold 3–5 mL of water and provide drinking stations for songbirds and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
 
 Flower heads are 4–7 cm across, borne in branching cymes at the stem apex. Each head contains 20–30 yellow ray florets surrounding a central disk of yellow disk florets. The flowering period extends from July through September.
 
@@ -37,7 +37,7 @@ Achenes are 10–14 mm long, flattened, and winged. The species reproduces prima
 
 Seed germination requires cold stratification of 30–60 days at 2–5°C. Germination rates of 60–80% are typical under optimal conditions. Seeds remain viable for 2–3 years when stored cool and dry.
 
-The root system is exceptionally deep, with taproots documented extending 2+ meters in favorable soils. This deep rooting contributes to the species' drought tolerance and makes it competitive with adjacent vegetation for soil moisture and nutrients.
+The root system is exceptionally deep, with taproots documented extending 2+ meters in favorable soils. This deep rooting contributes to the species' [[dighton-fungal-drought-tolerance-plant-water-relations]] and makes it competitive with adjacent vegetation for soil moisture and nutrients.
 
 ## Distribution and Habitat
 
@@ -55,7 +55,7 @@ European research has focused on cup plant as a perennial alternative to maize f
 
 *Silphium* species contain sesquiterpene lactones, triterpenoids, and resin acids. *S. perfoliatum* produces several bioactive sesquiterpene lactones including silphinin and related guaianolide-type compounds.
 
-The resinous sap has been reported to have mild antimicrobial properties. Native American traditional use of the resin as a chewing gum suggests astringent and potentially antiseptic qualities, though modern pharmacological studies are limited.
+The resinous sap has been reported to have mild [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. Native American traditional use of the resin as a chewing gum suggests astringent and potentially antiseptic qualities, though modern pharmacological studies are limited.
 
 The leaves contain moderate levels of protein and minerals, which has contributed to interest in the species as a forage crop. Unlike many Asteraceae species, *S. perfoliatum* does not accumulate toxic levels of pyrrolizidine alkaloids.
 
@@ -89,7 +89,7 @@ In ornamental horticulture, cup plant is used in large-scale native plantings, r
 
 Established plants are extremely long-lived, with individual clumps persisting for decades. Division is the primary vegetative propagation method, as seed-grown plants require 2–3 years to reach flowering size. Plants are spaced 60–90 cm apart in cultivation.
 
-The species has low pest and disease pressure in cultivation. Powdery mildew may occur in humid conditions but rarely affects plant health. Deer browsing is generally light due to the coarse foliage and rough stem texture.
+The species has low [[hamilton-pest-and-disease-control-organic]] pressure in cultivation. [[cervantes-powdery-mildew-prevention-treatment]] may occur in humid conditions but rarely affects plant health. Deer browsing is generally light due to the coarse foliage and rough stem texture.
 
 ## See Also
 

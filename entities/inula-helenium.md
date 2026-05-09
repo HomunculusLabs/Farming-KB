@@ -27,10 +27,10 @@ sources:
 perennial herb in the family Asteraceae.
 
 Native to Europe and western Asia, it has been cultivated for
-centuries as a medicinal herb growing guide, particularly valued for respiratory
+centuries as a [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] [[comparison-bean-growing-guide-vs-pepper-growing-guide]], particularly valued for respiratory
 conditions. Growing 1.5–2.5 m tall, it produces large leaves and
 bright yellow flower heads. Its thick aromatic root contains inulin
-(up to 44%), alantolactone, and isoalantolactone.herbal-medicine-preparation-methodsan**Introduced:** Northeastern [[gartz-magic-mushrooms-species-south-america]], [[medicinal-mushroom-extraction-bioactive-compounds]]
+(up to 44%), alantolactone, and isoalantolactone.herbal-medicine-preparation-methodsan**Introduced:** Northeastern gartz-magic-mushrooms-species-south-america, [[medicinal-mushroom-extraction-bioactive-compounds]]
 
 **Sesquiterpene lactones (1.5–3% of dry root):**
 - **Alantolactone** — major active; [[camphene]]. Warm, camphoraceous aroma.
@@ -49,12 +49,12 @@ traditional antiparasitic, prebiotic from inulin.
 
 **Antimicrobial:** Broad-spectrum in vitro activity against
 Gram-positive bacteria and [[companion-planting]]:** Aromatic root may deter soil pests; planted
-at vegetable bed edges.
+at [[hamilton-vegetable-bed-preparation]] edges.
 
 ## Side Effects
 
 - Contact dermatitis in Asteraceae-sensitive individuals
-- Large doses of essential oil: nausea, vomiting, mucosal irritation
+- Large doses of [[permaculture-designers-manual-essential-oil-plants]]: nausea, vomiting, mucosal irritation
 - Contraindicated in pregnancy (uterine stimulant in animal studies)
 - Possible interaction with anticoagulants (coumarin content)
 
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

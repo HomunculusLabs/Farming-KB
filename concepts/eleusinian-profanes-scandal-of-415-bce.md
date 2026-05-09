@@ -1,5 +1,5 @@
 ---
-title: Eleusinian Profanes Scandal of 415 BCE
+title: Eleusinian eleusinian profanes scandal of 415 bce of 415 BCE
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -8,7 +8,7 @@ sources: []
 ---
 # Eleusinian Profanes Scandal of 415 BCE
 
-**Source:** The Road to Eleusis, Chapter III — Carl A. P. Ruck
+**Source:** The [[the-road-to-eleusis-wasson-hofmann-ruck]], Chapter III — Carl A. P. Ruck
 
 ## Overview
 
@@ -20,7 +20,7 @@ The Athenians' horrified response would then reflect an intuitive understanding 
 
 ## Legacy
 
-The scandal became a cautionary tale about the consequences of profaning sacred knowledge. It also inadvertently provides some of the best evidence for the power and importance of the Eleusinian Mysteries — the extreme reaction of the Athenian state demonstrates that what happened at Eleusis was considered genuinely transformative and dangerous.
+The scandal became a cautionary tale about the consequences of profaning sacred knowledge. It also inadvertently provides some of the best evidence for the power and importance of the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] — the extreme reaction of the Athenian state demonstrates that what happened at Eleusis was considered genuinely transformative and dangerous.
 
 The [[eleusinian-hierophantic-families-eumolpidae-kerykes]] and the Athenian
   state acting in tandem, reflecting the unique status of the Mysteries
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

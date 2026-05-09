@@ -57,10 +57,10 @@ Suillus grevillei, commonly known as the **larch bolete** or **Greville's bolete
 ## Ecology and Distribution
 
 **Host specificity**: Suillus grevillei is an obligate ectomycorrhizal symbiont of larch species (Larix spp.), including:
-- European larch (Larix decidua)
-- Japanese larch (Larix kaempferi)
+- European larch ([[larix-decidua]])
+- Japanese larch ([[larix-kaempferi]])
 - Dahurian larch (Larix gmelinii)
-- Tamarack (Larix laricina)
+- Tamarack ([[larix-laricina]])
 - Himalayan larch (Larix griffithii)
 
 This tight host specificity makes S. grevillei an excellent bioindicator for the presence of larch in mixed forest stands. The mycorrhizal association enhances larch nutrition (particularly phosphorus uptake) and provides the fungus with a reliable carbohydrate source.
@@ -81,7 +81,7 @@ Suillus grevillei is considered an **excellent edible** mushroom when properly p
 - **Culinary applications**: Widely used in Eastern European cuisine — pickled, sautéed with onions and sour cream, dried for winter soups, or made into preserves. In Russian and Polish traditions, larch boletes are considered among the finest wild mushrooms for pickling due to their firm texture and mild, slightly nutty flavor
 - **Preservation**: Dries well with good flavor retention; also freezes well after blanching
 
-**Caution**: As with all wild mushrooms, proper identification is critical. S. grevillei can be confused with Suillus viscidus (also on larch, but lacks a ring), Suillus luteus (associated with two-needle pines, has a more brownish cap), and Tylopilus felleus (bitter bolete, though this has pink pores). No deadly lookalikes are associated with larch, but consumption of misidentified boletes from other hosts should be avoided.
+**Caution**: As with all wild mushrooms, proper identification is critical. S. grevillei can be confused with Suillus viscidus (also on larch, but lacks a ring), [[suillus-luteus]] (associated with two-needle pines, has a more brownish cap), and [[tylopilus-felleus]] (bitter bolete, though this has pink pores). No deadly lookalikes are associated with larch, but consumption of misidentified boletes from other hosts should be avoided.
 
 ## Bioactive Compounds
 
@@ -96,7 +96,7 @@ Research on Suillus grevillei has identified several notable bioactive constitue
 
 Suillus grevillei is a valuable species in permaculture and forest garden contexts:
 - **Ectomycorrhizal inoculant**: Can be introduced to larch plantings to accelerate mycorrhizal establishment and improve seedling survival, particularly in reforestation and mine reclamation sites
-- **Larch companion planting**: The mutualism enhances phosphorus and micronutrient uptake in larch, supporting faster growth in nutrient-poor or disturbed soils
+- **Larch [[companion-planting]]**: The mutualism enhances phosphorus and micronutrient uptake in larch, supporting faster growth in nutrient-poor or disturbed soils
 - **Food forest integration**: In temperate food forests incorporating larch for timber or nitrogen cycling, S. grevillei provides a secondary yield of edible mushrooms
 - **Soil ecology**: Contributes to soil aggregation, organic matter cycling, and formation of a distinctive larch forest soil microbiome that benefits understory plant communities
 - **Succession indicator**: Presence of S. grevillei indicates healthy, functioning ectomycorrhizal networks in larch stands, a sign of ecosystem maturity

@@ -1,19 +1,20 @@
 ---
-title: Permaculture Chicken Tractors
+title: Permaculture mollison-designers-chicken-tractors-egg-production
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, animal-husbandry, forage, equipment, livestock, design, construction]
-sources: []
+sources:
+  sources: []
 ---
 
 # Permaculture Chicken Tractors
 
-A chicken tractor is a mobile, floorless enclosure that allows chickens to forage on fresh ground while being protected from predators. In permaculture design, chicken tractors serve multiple functions: soil preparation, pest control, fertilization, weed management, and of course egg and meat production. They embody the principle "each element performs multiple functions."
+[[query-how-to-design-a-chicken-tractor-system]] is a mobile, floorless enclosure that allows chickens to forage on fresh ground while being protected from predators. In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], chicken tractors serve multiple functions: soil preparation, pest control, fertilization, weed management, and of course egg and meat production. They embody the principle "each element performs multiple functions."
 
 ## Core Functions
 
-1. **Soil preparation** — chickens scratch and till the top few inches of soil, removing vegetation and incorporating organic matter
+1. **Soil preparation** — chickens scratch and till the top few inches of soil, removing vegetation and incorporating [[hamilton-composting-and-organic-matter-management]]
 2. **Fertilization** — manure is deposited directly where it is needed
 3. **Pest control** — chickens eat insect larvae, weed seeds, slugs, and other pests
 4. **Weed management** — repeated grazing suppresses weed growth before planting
@@ -99,7 +100,7 @@ Chickens on pasture still need supplemental feed, especially in winter or when f
 - Oyster shell for calcium (eggshell quality)
 - Grit for digestion
 - Kitchen scraps (see [[permaculture-food-waste-cycling]])
-- Black soldier fly larvae (protein supplement from waste)
+- [[comparison-black-soldier-fly-composting-vs-bokashi]] fly larvae (protein supplement from waste)
 
 ## Breed Considerations
 
@@ -110,7 +111,9 @@ Chickens on pasture still need supplemental feed, especially in winter or when f
 
 ## See Also
 
-- [[permaculture-animal-integration]] — integrating chickens with other animals
+- [[permaculture-chicken-raising]]
+
+- [[permaculture-animal-integration]] — [[query-benefits-of-integrating-chickens-into-permaculture]] with other animals
 - [[permaculture-guild-design]] — chickens as part of plant guilds
 - [[permaculture-food-waste-cycling]] — feeding chickens from food waste systems
 - [[permaculture-duck-pond-systems]] — comparison with duck-based systems

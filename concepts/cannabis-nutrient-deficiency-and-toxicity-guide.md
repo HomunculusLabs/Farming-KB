@@ -5,11 +5,11 @@ updated: 2026-04-17
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis Nutrient Deficiency and Toxicity Guide
 
-Diagnosing nutrient problems in cannabis requires distinguishing between true nutrient deficiencies, chemical burns from over-fertilization, pH-related lockout, and pest or disease damage. The key diagnostic difference is that a chemical burn looks like damage that starts at the leaf tips and moves inward with crispy, flaky residue, while a nutrient deficiency appears as cellular collapse with discoloration but without the burnt appearance.
+Diagnosing nutrient problems in cannabis requires distinguishing between true [[hamilton-nutrient-deficiencies-and-treatment]], chemical burns from over-fertilization, pH-related lockout, and pest or disease damage. The key diagnostic difference is that a chemical burn looks like damage that starts at the leaf tips and moves inward with crispy, flaky residue, while a nutrient deficiency appears as cellular collapse with discoloration but without the burnt appearance.
 
 See [[cannabis-nutrient-recipes]] for feeding solutions, and [[cannabis-environment-control]] for pH management details.
 
@@ -17,7 +17,7 @@ The location of symptoms on the plant provides critical diagnostic information. 
 
 ## Nitrogen (N) Deficiency
 
-Nitrogen deficiency is the most common nutrient problem in cannabis. During vegetative growth, leaves turn uniformly yellow, starting from the lowest leaves and progressing upward. During flowering, nitrogen deficiency manifests as stunted growth with yellowing leaves. If the plant appears to be actively dying during flowering with severe yellowing, nitrogen is still needed. If the plant looks otherwise healthy but has dark green or reddish-yellow discoloration during flowering, this is a phosphorus deficiency, not nitrogen.
+Nitrogen deficiency is the most common nutrient problem in cannabis. During vegetative growth, leaves turn uniformly yellow, starting from the lowest leaves and progressing upward. During flowering, nitrogen deficiency manifests as stunted growth with yellowing leaves. If the plant appears to be actively dying during flowering with severe yellowing, nitrogen is still needed. If the plant looks otherwise healthy but has dark green or reddish-yellow discoloration during flowering, this is a [[query-how-to-fix-phosphorus-deficiency-in-cannabis]], not nitrogen.
 
 Nitrogen is highly mobile in the plant, which is why symptoms appear first in the oldest (lowest) leaves. A mild nitrogen deficiency during late flowering is normal and even desirable, as it encourages the plant to use up stored nitrogen and focus energy on bud production.
 
@@ -29,13 +29,13 @@ Phosphorus deficiency can be difficult to distinguish from normal late-flowering
 
 ## Magnesium (Mg) Deficiency
 
-Magnesium deficiency causes leaves to curl upward, twist, and turn yellow while the leaf veins remain green. This interveinal chlorosis is the hallmark symptom. Before attributing curling yellow leaves to magnesium deficiency, verify that the lights are not burning the foliage and that the grow chamber has adequate air circulation.
+[[query-how-to-fix-magnesium-deficiency-in-cannabis]] causes leaves to curl upward, twist, and turn yellow while the leaf veins remain green. This interveinal chlorosis is the hallmark symptom. Before attributing curling yellow leaves to magnesium deficiency, verify that the lights are not burning the foliage and that the grow chamber has adequate air circulation.
 
 Epsom salts (magnesium sulfate) are the standard remedy. Add one-quarter to one-third tablespoon of Epsom salts per 3 gallons of water and apply as a foliar spray or soil drench. Results should be visible within a few days as new growth emerges green and healthy.
 
 ## Potassium (K) Deficiency
 
-Potassium deficiency causes the tips of leaves to turn brown and curl slightly. The browning typically starts at the leaf edges and tips and progresses inward. Potassium is important for water regulation, enzyme activation, and overall plant vigor. Deficiency is more common during heavy flowering when potassium demand is highest.
+[[knf-potassium-deficiency-and-excess]] causes the tips of leaves to turn brown and curl slightly. The browning typically starts at the leaf edges and tips and progresses inward. Potassium is important for water regulation, enzyme activation, and overall plant vigor. Deficiency is more common during heavy flowering when potassium demand is highest.
 
 ## Iron (Fe) Deficiency
 
@@ -45,7 +45,7 @@ Iron deficiency is often caused by pH being too high rather than an actual absen
 
 ## Manganese (Mn) Deficiency
 
-Manganese deficiency causes yellowing at the base of leaves while the tips remain unaffected and healthy-looking. This distinguishes it from other nutrient deficiencies that typically affect tips first. Manganese plays a role in photosynthesis and enzyme function.
+[[query-how-to-fix-manganese-deficiency-in-cannabis]] causes yellowing at the base of leaves while the tips remain unaffected and healthy-looking. This distinguishes it from other nutrient deficiencies that typically affect tips first. Manganese plays a role in photosynthesis and enzyme function.
 
 ## Chemical Burn (Nutrient Toxicity)
 
@@ -71,7 +71,7 @@ Some nutrient-like symptoms are caused by poor genetics rather than actual nutri
 
 ## Calcium (Ca) Deficiency
 
-Calcium deficiency causes new growth to appear distorted, curled, or crinkled. Leaf tips may hook downward and the plant may show signs of rot at the root zone. Calcium is immobile in the plant, so symptoms appear on new growth first. Calcium plays a critical role in cell wall structure and root development.
+[[knf-calcium-deficiency-symptoms]] causes new growth to appear distorted, curled, or crinkled. Leaf tips may hook downward and the plant may show signs of rot at the root zone. Calcium is immobile in the plant, so symptoms appear on new growth first. Calcium plays a critical role in cell wall structure and root development.
 
 Calcium deficiency is often related to growing medium pH rather than actual calcium absence. In soilless and hydroponic systems, calcium is typically supplied through cal-mag supplements. Ensuring adequate calcium also helps prevent bud rot during late flowering.
 

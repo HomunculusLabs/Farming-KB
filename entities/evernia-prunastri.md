@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo IM, Sharnoff SD, Sharnoff S (2001). "Lichens of North America." Yale University Press.
+  - Brodo IM, Sharnoff SD, Sharnoff S (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Purvis OW, Coppins BJ, Hawksworth DL, James PW, Moore DM (1992). "The Lichen Flora of Great Britain and Ireland." Natural History Museum Publications.
   - Culberson CF (1969). "Chemical and Taxonomic Studies on the Lichens of the Evernia prunastri Group." Bryologist 72(4): 431–443.
   - Guillermet S, et al. (2012). "In vitro antioxidant and anti-inflammatory activities of Evernia prunastri extracts." Journal of Medicinal Plants Research 6(5): 798–806.
@@ -57,17 +57,17 @@ In Europe, it is particularly abundant in Mediterranean and Atlantic regions wit
 
 The species is almost exclusively corticolous, growing on the bark of deciduous and coniferous trees.
 
-Preferred host trees include oak (Quercus spp.), hazel (Corylus avellana), pine (Pinus spp.), fir (Abies spp.), and fruit trees.
+Preferred host trees include oak (Quercus spp.), hazel (Corylus avellana), pine (Pinus spp.), fir (Abies spp.), and [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]].
 
 It is most commonly found on the trunks and main branches of mature trees in open woodlands, hedgerows, and orchards.
 
 Elevation ranges from sea level to approximately 1,800 m, though it is most abundant below 1,000 m.
 
-The species favors well-lit, humid microhabitats with good air quality and is less common in densely shaded interiors of closed-canopy forests.
+The species favors well-lit, humid microhabitats with good [[cervantes-air-quality-ventilation]] and is less common in densely shaded interiors of closed-canopy forests.
 
 ## Chemistry
 
-E. prunastri produces a distinctive profile of lichen secondary metabolites, dominated by evernic acid (a depside) and atranorin (a depsidone) in the cortex.
+E. prunastri produces a distinctive profile of lichen [[antifungal-secondary-metabolites-coprophilous-fungi]], dominated by evernic acid (a depside) and atranorin (a depsidone) in the cortex.
 
 Additional compounds include usnic acid, chloroatranorin, and various thamnolic acid derivatives.
 
@@ -89,7 +89,7 @@ It was employed in folk medicine as a treatment for respiratory ailments, digest
 
 The lichen was historically steeped in alcohol or boiled in water to prepare decoctions and tinctures for medicinal use.
 
-In Italian folk tradition, oakmoss extracts were applied externally to treat wounds, ulcers, and inflammatory skin conditions.
+In Italian folk tradition, oakmoss extracts were applied externally to treat wounds, ulcers, and inflammatory [[cannabis-for-skin-conditions-detailed]].
 
 Its most significant commercial use is in the perfumery industry, where it has been used as a base note and fixative since the 16th century.
 
@@ -109,7 +109,7 @@ It contributes to forest microhabitats by providing shelter and food for various
 
 The pendulous growth form creates a humid microenvironment beneath the thallus that supports diverse microbial communities.
 
-E. prunastri plays a role in nutrient cycling by trapping atmospheric dust and gradually releasing minerals as the thallus decomposes.
+E. prunastri plays a role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by trapping atmospheric dust and gradually releasing minerals as the thallus decomposes.
 
 The species is relatively slow-growing, with annual biomass increases estimated at 5–10% under optimal conditions.
 

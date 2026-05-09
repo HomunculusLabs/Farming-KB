@@ -6,7 +6,7 @@ The cannabis endorhiza (internal root tissue microbiome)
 is characterized by dramatic enrichment of Proteobacteria
 relative to the surrounding rhizosphere and bulk soil.
 This enrichment is a hallmark of plant-driven selection
-in the two-tier selection model of root microbiome assembly.
+in the two-tier [[two-tier-selection-model-plant-microbiome]] of root microbiome assembly.
 The shift involves significant Acidobacteria decrease
 and corresponding Proteobacteria increase,
 one of the most consistent transitions in plant microbiome studies.
@@ -37,10 +37,10 @@ A methylotroph utilizing one-carbon compounds as carbon and energy sources.
 
 ## Sources
 
-- Winston, M.E. et al. (2014). Understanding Cultivar-Specificity and Soil Determinants of the Cannabis Microbiome. PLoS ONE, 9(6), e99641.
+- Winston, M.E. et al. (2014). Understanding Cultivar-Specificity and Soil Determinants of the [[cultivar-cannabis-microbiome-two-tier-selection-model]]. PLoS ONE, 9(6), e99641.
 ## Practical Considerations
 
-When working with Proteobacteria Dominance Cannabis Endorhiza Community, several practical factors should be
+When working with Proteobacteria proteobacteria dominance cannabis endorhiza community Endorhiza Community, several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this
@@ -54,7 +54,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -96,4 +96,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

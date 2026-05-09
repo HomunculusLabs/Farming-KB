@@ -4,13 +4,14 @@ created: 2026-04-28
 tags: [herbs, umbelliferae, companion-planting, culinary-herbs, pollinator-plants, apiaceae]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
 # Fennel vs Dill
 
-Both fennel (*Foeniculum vulgare*) and dill (*Anethum graveolens*) belong to the Apiaceae (umbellifer) family, share feathery foliage, and produce umbrella-shaped flower clusters. Despite their visual similarities, they differ markedly in flavor chemistry, growth habit, ecological interactions, and garden behavior.
+Both fennel (*Foeniculum vulgare*) and dill (*Anethum graveolens*) belong to the Apiaceae (umbellifer) family, share feathery foliage, and produce umbrella-shaped flower clusters. Despite their visual similarities, they differ markedly in flavor chemistry, growth habit, [[king-stropharia-ecological-interactions-permaculture]], and garden behavior.
 
 ## Overview
 
@@ -49,14 +50,14 @@ Florence fennel (*F. vulgare* var. *azoricum*) forms a swollen leaf base (the "b
 
 ### Dill
 - Benefits from moderate fertility; excess nitrogen produces leggy, floppy plants
-- Succession planting essential for continuous leaf harvest
+- [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] essential for continuous leaf harvest
 - Allow some plants to go to seed for voluntary reseeding next season
 - Short-lived — typically 6–8 weeks before bolting in warm weather
 
 ## Ecological Roles
 
 ### Pollinators
-Both are excellent attractors of beneficial insects. Their umbel flowers provide accessible nectar and pollen platforms for:
+Both are excellent attractors of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. Their umbel flowers provide accessible nectar and pollen platforms for:
 - Syrphid flies (hoverflies) — key aphid predators
 - Parasitic wasps (*Aphidius*, *Trichogramma* spp.)
 - Lady beetles
@@ -118,10 +119,10 @@ Both are generally recognized as safe (GRAS) for culinary use. Medicinal doses o
 ## When to Choose Dill
 
 - You need a fast-growing annual for a single season
-- You want a companion plant that integrates into a mixed vegetable garden
+- You want a companion plant that integrates into a mixed [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]
 - Pickling is a primary goal — dill seed and weed are irreplaceable here
-- You're succession planting through the growing season
-- You have limited space or are container gardening
+- You're succession planting through the [[savory-growing-season-and-non-growing-season-management]]
+- You have limited space or are [[comparison-cold-frame-gardening-vs-container-gardening-guide]]
 - You want a milder, more versatile herb for fish, potatoes, and salads
 
 ## Can You Grow Them Together?

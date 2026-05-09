@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-Green manure is a crop grown specifically to add organic matter and nutrients to beds that are empty for a period. It is sown with the intention of digging it into the soil. While more valuable to large-scale farmers, green manure crops are useful in small gardens too, particularly on light soils that should be kept covered when vacant to prevent nutrient leaching through winter drainage.
+Green manure is a crop grown specifically to add [[hamilton-composting-and-organic-matter-management]] and nutrients to beds that are empty for a period. It is sown with the intention of digging it into the soil. While more valuable to large-scale farmers, green manure crops are useful in small gardens too, particularly on light soils that should be kept covered when vacant to prevent nutrient leaching through winter drainage.
 
 ## Benefits of Green Manure
 
@@ -35,11 +35,11 @@ Choose a crop that matures in the time available. For winter cover, sow in late 
 
 ### Crop Selection
 
-Choose a crop unlike either the preceding or following crop to avoid perpetuating pests and diseases. For example, never sow mustard (a brassica) after cabbages due to clubroot risk.
+Choose a crop unlike either the preceding or following crop to avoid perpetuating [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. For example, never sow mustard (a brassica) after cabbages due to clubroot risk.
 
 ### Soil Preparation
 
-Prepare the seedbed as thoroughly as for any other crop. If soil is low in nutrients, apply [[cervantes-compost-tea-organic-brewing]] or animal manure tea to assist rotting
+Prepare the seedbed as thoroughly as for any other crop. If soil is low in nutrients, apply [[cervantes-compost-tea-organic-brewing]] or [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] tea to assist rotting
 
 ## Nitrogen-Fixing Green Manures
 
@@ -67,15 +67,15 @@ One of the most useful crops -- grows through winter when land is vacant. Produc
 
 ### Buckwheat (Fagopyrum esculentum)
 
-Requires the whole summer. Sow when weather is warm. Tall with extensive root system. Does not fix nitrogen but attracts [[clubroot-disease-management]]. Scatter at 1oz per 4 sq yards or sow in rows 6in apart.
+Requires the whole summer. Sow when weather is warm. Tall with extensive root system. Does not [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] but attracts [[clubroot-disease-management]]. Scatter at 1oz per 4 sq yards or sow in rows 6in apart.
 
 ### Italian Ryegrass (Lolium multiflorum)
 
-Fast-growing and bulky, germinates quickly even in cold soils. Can be dug in before ground warms for tender vegetables. Essential to use the annual strain "Westerwolds" -- perennial or biennial strains will regrow and cause endless problems. Dig in before seed production. Scatter 1oz per 4 sq yards.
+Fast-growing and bulky, germinates quickly even in cold soils. Can be dug in before ground warms for tender vegetables. Essential to use the annual strain "Westerwolds" -- perennial or biennial strains will regrow and cause endless problems. Dig in before [[cervantes-seed-production-storage]]. Scatter 1oz per 4 sq yards.
 
 ## Integration with Garden Systems
 
 Green manure fits well within [[deep-bed-cultivation]], sow green manure between crops or during winter fallow periods. The resulting organic matter feeds the [[cover-crop-guide-detailed]] -- detailed cover crop reference
-- [[companion-planting-deterrents]] -- phacelia and buckwheat attract beneficial insects
+- [[companion-planting-deterrents]] -- phacelia and buckwheat attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - [[crop-rotation-benefits]] -- integrating green manure into rotation plans
 - [[legume-nitrogen-dynamics]] -- nitrogen fixation mechanics

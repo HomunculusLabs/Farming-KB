@@ -13,13 +13,13 @@ sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md
 ---
 
-Farm woodlots and hedgerows serve multiple on-farm purposes that extend far beyond commercial timber production. While farmers are often encouraged to plant trees suited to central processing for wood pulp or off-farm markets, Bill Mollison emphasizes the many on-farm needs that woodlots can satisfy: fuel from high sugar crops, structural timber for fences and buildings, forage for both winter and summer feed, and shelter for gardens, livestock, and dwellings.
+Farm woodlots and hedgerows serve multiple on-farm purposes that extend far beyond commercial timber production. While farmers are often encouraged to plant trees suited to central processing for wood pulp or off-farm markets, Bill Mollison emphasizes the many on-farm needs that woodlots can satisfy: fuel from high sugar crops, [[singh-wood-rot-fungi-structural-timber-decay]] for fences and buildings, forage for both winter and summer feed, and shelter for gardens, livestock, and dwellings.
 
 ## On-Farm Uses of Woodlots
 
 Woodlots designed for the farm itself serve several critical functions simultaneously. Species can be selected that provide fuel, structural materials, forage, and shelter in integrated systems. Some very valuable trees, such as black walnut, not only produce young trees for structural use but may be sold as rootstock for grafting. At maturity, premium timber species can provide substantial crop income, potentially funding a farmer's retirement.
 
-The key to effective farm forestry is selecting species that serve multiple functions within the system. Conifers, while useful as timber, are generally slow-growing and less broadly useful in permaculture systems compared to multi-use species. This approach mirrors the broader [[permaculture-design]] and complements strategies like [[windbreak-shelterbelt-species-selection]] for integrated land use.
+The key to effective [[mollison-farm-forestry-and-woodlot-design]] is selecting species that serve multiple functions within the system. Conifers, while useful as timber, are generally slow-growing and less broadly useful in permaculture systems compared to multi-use species. This approach mirrors the broader [[permaculture-design]] and complements strategies like [[windbreak-shelterbelt-species-selection]] for integrated land use.
 
 ## Timber Durability Ratings
 
@@ -41,14 +41,14 @@ Species marked with an asterisk in the original source are recommended specifica
 
 ### Moderate Durability (30-70 Years in Ground)
 
-A second tier of durable species provides options across different climate zones:
+A second tier of durable species provides options across different [[mollison-climate-zones-permaculture-strategies]]:
 
 - Chestnut (*Castanea dentata*)
 - Red Mulberry (*Morus rubra*)
-- Osage Orange (*Maclura pomifera*)
+- [[bloomfield-ghosts-of-evolution-osage-orange-anachronism]] (*Maclura pomifera*)
 - Bald Cypress (*Taxodium distichum*)
 - Redwood (*Sequoia sempervirens*)
-- Honey Locust (*Gleditsia triacanthos*)
+- [[permaculture-honey-locust-pod-fodder-system]] (*Gleditsia triacanthos*)
 - White Oak (*Quercus alba*)
 - Tasmanian Tallowood (*Pittosporum bicolor*)
 - Macrocarpa (*Cupressus macrocarpa*)
@@ -56,7 +56,7 @@ A second tier of durable species provides options across different climate zones
 - Desert Oak (*Casuarina decaisneana*)
 - Celery-top Pine (*Phyllocladus rhomboidalis*)
 
-This list can be greatly expanded, but from any such compilation the farmer can choose shelter-belt, hedgerow, and cattle or poultry forage species, bee forage plants, and species yielding foliage or fruit for distillation as oils or alcohols. Some species suit arid conditions, others riverine or coastal environments.
+This list can be greatly expanded, but from any such compilation the farmer can choose shelter-belt, hedgerow, and cattle or [[free-range-poultry-forage-design-mollison]] species, bee forage plants, and species yielding foliage or fruit for distillation as oils or alcohols. Some species suit arid conditions, others riverine or coastal environments.
 
 ## Plant Barriers for Livestock Containment
 
@@ -87,7 +87,7 @@ The permaculture approach to [[farm-forestry-design-mollison]] systems, providin
 For poultry integration, species that provide both barrier function and forage are especially valuable. The honey locust, for example, produces pods relished by poultry while also forming an effective hedge. Black locust serves as both a nitrogen-fixing fence post tree and a source of nectar for bees.
 
 The design of farm boundaries in permaculture moves beyond single-function fencing toward integrated biological systems that produce food, fuel, fiber, and shelter while containing livestock and modifying microclimate.
-- [[arid-zone-permaculture-strategies-mollison]]
+- arid-zone-permaculture-strategies-mollison
 
 ## See Also
 

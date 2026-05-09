@@ -1,13 +1,6 @@
 ---
-title: "Comparison Amf Vs Ecm"
-created: 2026-05-02
-updated: 2026-05-02
-type: comparison
-tags: [general]
-sources: []
 ---
----
-title: "[[ectomycorrhizal-fungi]]"
+title: "ectomycorrhizal-fungi"
 tags: [comparison, mycorrhizal-fungi, amf, ecm, symbiosis]
 date: 2026-04-25
 updated: 2026-04-25
@@ -26,7 +19,7 @@ over 400 million years to the earliest land plants. They are obligate symbionts,
 meaning they cannot complete their life cycle or reproduce without a living host
 plant. Upon contacting a suitable root, AMF hyphae penetrate the root cortex and
 form highly branched arbuscules inside individual cortical cells. These arbuscules
-are the primary sites of nutrient exchange: the plant provides carbohydrates produced
+are the primary sites of [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]: the plant provides carbohydrates produced
 through photosynthesis, while the fungus delivers phosphorus, nitrogen, zinc, copper,
 and other minerals scavenged from the soil.
 
@@ -59,8 +52,8 @@ prominent fruiting bodies visible above ground, unlike AMF which rarely produce
 visible sporocarps and instead reproduce through large multinucleate spores.
 
 ECM fungi play a foundational role in forest ecosystem function by facilitating
-nutrient cycling between soil organic matter and plant uptake, connecting trees of
-different species through common mycorrhizal networks, and contributing to soil
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] between soil organic matter and plant uptake, connecting trees of
+different species through common [[dighton-mycorrhizal-networks-carbon-transfer]], and contributing to soil
 weathering through organic acid exudation. They are particularly effective at
 accessing organic nitrogen forms that plants cannot use directly, making them
 essential for tree nutrition in boreal and temperate forests. Research has shown
@@ -80,7 +73,7 @@ seedlings in the understory, sometimes called "mother tree" effects.
 | Soil Building | Produce glomalin; aggregate stabilization | Organic matter decomposition and weathering |
 | Fruiting Bodies | Rarely produce visible mushrooms | Many produce prominent edible mushrooms |
 | Evolutionary Age | Over 400 million years old | Approximately 200 million years old |
-| Cultivation | Difficult; obligate symbionts | Some culturable; truffle cultivation established |
+| Cultivation | Difficult; obligate symbionts | Some culturable; [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]] established |
 | Network Scale | Moderate (centimeters from root) | Extensive (meters in forest soils) |
 | Best For | Crops, grasslands, tropical systems | Forests, timber, orchards, truffle production |
 | Drawbacks | Sensitive to tillage, high P, fungicides | Limited to woody hosts, complex ecology |
@@ -92,8 +85,8 @@ compatibility and significant fertilizer reduction potential. However, their obl
 nature makes cultivation difficult, and they are highly vulnerable to common farming
 practices including tillage and high-phosphorus fertilization.
 
-ECM provide extraordinary ecosystem services in forest environments including organic
-matter decomposition, nutrient mining, and interplant resource sharing through
+ECM provide extraordinary [[biodiversity-of-fungi-ecosystem-services-agriculture]] in forest environments including organic
+matter decomposition, nutrient mining, and interplant [[mycelial-network-resource-sharing-plants]] through
 extensive networks. Their limitation to woody hosts and complex ecological
 requirements make them less immediately applicable to agriculture, though their
 importance in agroforestry and reforestation is increasingly recognized.

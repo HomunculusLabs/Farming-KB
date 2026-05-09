@@ -41,7 +41,7 @@ Thorns are stout, curved, 5–12 mm long, and arranged at nodes along the stems.
 
 Leaves are alternate, ovate to broadly elliptic, 8–16 cm long, with entire margins.
 
-The upper leaf surface is dark green and slightly rough; the lower surface is paler with prominent venation.
+The upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dark green and slightly rough; the lower surface is paler with prominent venation.
 
 The inflorescence consists of three flowers surrounded by three large, papery bracts.
 
@@ -65,7 +65,7 @@ It prefers well-drained, slightly acidic soils and is intolerant of waterlogged 
 
 Bougainvillea has been introduced and naturalized across tropical and subtropical regions globally.
 
-It is a defining feature of landscapes in the Mediterranean, southern California, India, and Southeast Asia.
+It is a defining feature of landscapes in the Mediterranean, southern California, India, and [[psilocybe-southeast-asia-pacific]].
 
 ## Cultivation
 
@@ -75,7 +75,7 @@ Propagation is by semi-hardwood cuttings, which root readily under mist and bott
 
 The plant flowers most prolifically when subjected to slight drought stress.
 
-Regular pruning after flowering cycles maintains compact growth and encourages repeat blooming.
+Regular pruning after flowering cycles maintains [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] and encourages repeat blooming.
 
 In cooler climates, bougainvillea is widely grown as a container plant and brought indoors in winter.
 
@@ -105,9 +105,9 @@ The thorny, dense growth provides nesting habitat for small birds.
 
 In naturalized areas, bougainvillea can form impenetrable thickets that exclude native species.
 
-Its drought tolerance and vigorous growth give it competitive advantages in arid environments.
+Its [[dighton-fungal-drought-tolerance-plant-water-relations]] and vigorous growth give it competitive advantages in arid environments.
 
-Seed production is rare in most cultivated settings, limiting its spread primarily to vegetative propagation.
+[[cervantes-seed-production-storage]] is rare in most cultivated settings, limiting its spread primarily to vegetative propagation.
 
 ## Cultural Significance
 
@@ -119,11 +119,11 @@ Bougainvillea is the floral emblem of several cities including Guangzhou, China,
 
 The plant has become an iconic symbol of tropical and Mediterranean landscaping worldwide.
 
-In India, bougainvillea is commonly planted along roadsides and railway embankments for erosion control.
+In India, bougainvillea is commonly planted along roadsides and railway embankments for [[permplant-willows-salix-erosion-control-fodder]].
 
 ## See Also
 
 - [[passiflora-edulis]] — purple passionfruit, a tropical vine with edible fruit
 - [[hedera-helix]] — English ivy, an evergreen climbing plant for walls and structures
 - [[parthenocissus-tricuspidata]] — Boston ivy, a self-clinging climber for architectural use
-- [[rosa-canina]] — dog rose, a thorny shrub with showy flowers in European landscapes
+- rosa-canina — dog rose, a thorny shrub with showy flowers in European landscapes

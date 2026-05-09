@@ -10,7 +10,7 @@ updated: 2026-04-26
 
 # DMT and the Tryptamine Dimension
 
-DMT (N,N-dimethyltryptamine) occupies a unique and central place in McKenna's pharmacological cosmology. He called it "the most powerful of all hallucinogens" and argued that the DMT experience reveals the existence of a genuinely other dimension of reality — what he variously termed "hyperspace," "the [[shamanism]] and the human brain form one of the key pillars of McKenna's argument in *Food of the Gods*.
+DMT (N,N-dimethyltryptamine) occupies a unique and central place in McKenna's pharmacological cosmology. He called it "the most powerful of all hallucinogens" and argued that the [[mckenna-dmt-experience-and-hyperspace]] reveals the existence of a genuinely other dimension of reality — what he variously termed "hyperspace," "the [[shamanism]] and the human brain form one of the key pillars of McKenna's argument in *Food of the Gods*.
 
 ## Pharmacology and History
 
@@ -21,13 +21,13 @@ DMT was first synthesized by the Czech chemist Steven Szara in 1956. Szara's acc
 Key pharmacological properties:
 - **Extraordinary potency** — active in doses measured in milligrams
 - **Rapid onset** — when smoked, peak effects occur in approximately one minute
-- **Short duration** — the full experience clears the system in less than fifteen minutes when smoked (compared to nearly an hour by intramuscular injection)
+- **[[savory-short-duration-grazing-and-cell-systems]]** — the full experience clears the system in less than fifteen minutes when smoked (compared to nearly an hour by intramuscular injection)
 - **Structural similarity to [[psilocybin]], bear a "striking resemblance to human neurochemistry." The structural similarity between DMT and serotonin "may indicate the great antiquity of the evolutionary relationship between human brain metabolism and these particular compounds." This structural affinity, combined with the benign metabolic profile (rapid clearance, no known toxicity), led McKenna to identify tryptamines as the primary class of hallucinogens involved in the Archaic origin of consciousness.
 
 He distinguished tryptamines from other psychoactive compounds by several criteria:
 - **Metabolic benignity** — "If after you have taken a plant, your eyes are not in focus forty-eight hours later, or your knees are feeling rubbery three days later, then this is not a benign compound"
 - **Evolutionary co-adaptation** — compounds that have been used in shamanic contexts for thousands of years represent "a smooth hand-in-glove fit with the human user"
-- **Structural relationship to endogenous neurotransmitters** — suggesting deep evolutionary entanglement
+- **[[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to endogenous neurotransmitters** — suggesting deep evolutionary entanglement
 
 ## The DMT Experience
 
@@ -42,7 +42,7 @@ McKenna insisted that what occurs during DMT intoxication "is much more peculiar
 
 ## Hyperspace and the Law
 
-DMT is a Schedule I controlled substance in the United States — a classification reserved for drugs deemed to have "no proven medical application whatsoever." McKenna noted the irony that "not even cocaine rates a Schedule I classification," and that psilocybin and DMT were made Schedule I "without any scientific evidence at all being presented for or against their use." In the paranoid atmosphere of the late 1960s, "the mere fact that these compounds cause hallucinations was sufficient grounds for their placement in a category so restrictive that even medical research is discouraged."
+DMT is a Schedule I controlled substance in the [[dmt-containing-plants-united-states-halpern]] — a classification reserved for drugs deemed to have "no proven medical application whatsoever." McKenna noted the irony that "not even cocaine rates a Schedule I classification," and that psilocybin and DMT were made Schedule I "without any scientific evidence at all being presented for or against their use." In the paranoid atmosphere of the late 1960s, "the mere fact that these compounds cause hallucinations was sufficient grounds for their placement in a category so restrictive that even medical research is discouraged."
 
 McKenna compared the prohibition of DMT research to the Church's prohibition of dissection: "Modern anatomy was created by medical students who visited battlefields or who stole corpses from the gallows. To advance their knowledge of the human body, they risked arrest and imprisonment. Should we be any less courageous in attempting to push back the frontiers of the known and the possible?"
 
@@ -59,7 +59,7 @@ He offered these ideas "in a speculative vein," acknowledging "I have no strong 
 
 ## The Octopus as Model
 
-In a characteristically imaginative passage, McKenna proposed the octopus as the totemic model for future human communication. Cephalopods communicate through rapid color changes, postures, and movements — their minds and bodies are the same, and they "wear their language like a kind of second skin." McKenna drew a parallel to Philo Judaeus's concept of a "more perfect Logos" that is "not heard but beheld" — "our destiny is to become what we think, to have our thoughts become our bodies and our bodies become our thoughts."
+In a characteristically imaginative passage, McKenna proposed the octopus as the totemic model for future human communication. Cephalopods communicate through rapid color changes, postures, and movements — their minds and bodies are the same, and they "wear their language like a kind of second skin." McKenna drew a parallel to [[mckenna-philo-judaeus-logos-hearing-to-beholding]]'s concept of a "more perfect Logos" that is "not heard but beheld" — "our destiny is to become what we think, to have our thoughts become our bodies and our bodies become our thoughts."
 
 ## See Also
 
@@ -68,7 +68,7 @@ In a characteristically imaginative passage, McKenna proposed the octopus as the
 
 ## Additional Context
 
-Further research on mckenna food gods tryptamine dimension continues to advance our understanding of this field. Contemporary studies build upon the foundational work described above, incorporating modern molecular techniques, genomic analyses, and ecological modeling approaches.
+Further research on mckenna food mckenna food gods tryptamine dimension dimension continues to advance our understanding of this field. Contemporary studies build upon the foundational work described above, incorporating modern molecular techniques, genomic analyses, and ecological modeling approaches.
 ## Practical Considerations
 
 Successful implementation of DMT and the tryptamine Dimension requires attention to
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

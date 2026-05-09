@@ -19,13 +19,13 @@ sources:
 Steam sterilization of PF substrate jars using regular kitchen cookware is
 possible specifically because the PF TEK substrate contains no whole grain to
 cook up and the substrate is airy. This is a fundamental distinction from
-grain-based methods that require pressure canning. The steam sterilization
+grain-based methods that require [[comparison-pressure-canning-vs-water-bath-canning]]. The steam sterilization
 process, when performed correctly, reliably eliminates contaminants while
 preserving the substrate structure and moisture content.
 
 ## Why Steam Sterilization Works for PF TEK
 
-Traditional grain-based mushroom substrates require pressure canning at 15 psi
+Traditional grain-based [[query-what-are-the-best-mushroom-substrates-for-different-species]] require pressure canning at 15 psi
 to achieve temperatures above 250 degrees Fahrenheit because the dense grain
 matrix can harbor heat-resistant bacterial endospores that survive
 atmospheric-pressure boiling.
@@ -43,7 +43,7 @@ steam reaches all parts of the substrate evenly.
 
 The accessibility of this approach was revolutionary when the PF TEK was
 introduced. It eliminated the need for expensive pressure canning equipment
-and made mushroom cultivation possible using only common kitchen items.
+and made [[accessible-mushroom-cultivation-for-disabilities]] possible using only common kitchen items.
 
 ## The Gentle Boil Principle
 
@@ -74,7 +74,7 @@ sterilization.
 Second, it prevents excessive moisture loss from the substrate jars, which
 would lead to the dried substrate problem. If the pot lid does not fit
 tightly, steam escapes freely around the edges, reducing the effective
-temperature and humidity inside the pot.
+[[greg-green-temperature-and-humidity-control]] inside the pot.
 
 If the standard pot lid is loose, the PF TEK implies that supplemental
 sealing methods should be employed. The jars can sit in water but care must
@@ -100,7 +100,7 @@ sterilization and cooling, the lids are tightened for storage.
 
 The most common sterilization problem is overheating, which dries the
 substrate and causes a distinctive failure pattern. Drying is evidenced by
-normal spore germination followed by halted mycelial growth at a certain
+normal spore germination followed by halted [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] at a certain
 point.
 
 The fungus spreads initially because sufficient moisture exists near the
@@ -126,7 +126,7 @@ reflect the different heat penetration requirements of each item type.
 
 The pressure canner is particularly useful for preparing sterile water for
 spore syringe production and for sterilizing equipment that cannot be
-adequately treated with atmospheric steam alone.
+adequately treated with [[growing-gourmet-atmospheric-steam-sterilization]] alone.
 
 However, the PF TEK warns that pressure canners can be dangerous if used
 incorrectly. Cultivators should always refer to the manufacturer's manual

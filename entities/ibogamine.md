@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Ibogamine** is an indole alkaloid found in the root bark of **Tabernanthe iboga** and related Apocynaceae species, including *Voacanga africana* and *Tabernaemontana divaricata*. It is a close structural relative of ibogaine, the principal psychoactive alkaloid of the iboga plant.
+**Ibogamine** is an [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] found in the root bark of **[[plants-of-the-gods-tabernanthe-iboga-chemistry]]** and related Apocynaceae species, including *Voacanga africana* and *Tabernaemontana divaricata*. It is a close structural relative of ibogaine, the principal psychoactive alkaloid of the iboga plant.
 
 Ibogamine is classified as a tryptamine derivative with a complex pentacyclic structure. It is one of at least 12 iboga-type alkaloids identified in *T. iboga*, occurring at lower concentrations than ibogaine or voacangine.
 
@@ -32,7 +32,7 @@ Research interest in ibogamine stems from its shared pharmacological properties 
 
 The structure features a pentacyclic ring system characteristic of the iboga alkaloid family. It differs from ibogaine primarily at the C-19 position — ibogamine lacks the methoxy substituent present on ibogaine's indole ring.
 
-This structural difference significantly affects potency and receptor binding profiles. The absence of the methoxy group generally reduces affinity for serotonin 5-HT₂A receptors compared to ibogaine.
+This structural difference significantly affects potency and [[tihkal-receptor-binding-serotonin]] profiles. The absence of the methoxy group generally reduces affinity for serotonin 5-HT₂A receptors compared to ibogaine.
 
 **Solubility:** Lipophilic, soluble in organic solvents (chloroform, ethanol, DMSO). Poorly soluble in water. Forms crystalline solids with melting point approximately 160–162°C.
 
@@ -68,7 +68,7 @@ Total iboga alkaloid content in *T. iboga* root bark typically ranges from 5–1
 
 ## Legal Status
 
-Ibogamine is not individually scheduled in most jurisdictions. However, its natural occurrence in *Tabernanthe iboga* root bark means it is regulated indirectly in countries where iboga is controlled.
+Ibogamine is not individually scheduled in most jurisdictions. However, its [[brassinosteroid-natural-occurrence-plant-kingdoms]] in *Tabernanthe iboga* root bark means it is regulated indirectly in countries where iboga is controlled.
 
 In the United States, ibogaine and iboga are Schedule I substances. Ibogamine is not explicitly listed but may be considered a controlled substance analogue under the Federal Analogue Act due to its structural similarity to ibogaine.
 
@@ -98,13 +98,13 @@ Despite its early discovery, ibogamine has remained overshadowed by ibogaine in 
 
 The 1990s saw renewed interest in ibogaine as a potential anti-addiction treatment, spurred by anecdotal reports and the work of researchers like Deborah Mash and Stanley Glick. This research boom largely bypassed ibogamine, though some comparative studies included it as a reference compound.
 
-Current research gaps include a lack of human pharmacokinetic data, no controlled clinical trials, and limited receptor binding characterization. Ibogamine's primary value in research is as a comparative tool for understanding structure-activity relationships within the iboga alkaloid family.
+Current research gaps include a lack of human pharmacokinetic data, no controlled [[mushroom-cancer-clinical-trials-overview]], and limited receptor binding characterization. Ibogamine's primary value in research is as a comparative tool for understanding structure-activity relationships within the iboga alkaloid family.
 
 ## Safety and Toxicology
 
 The toxicological profile of ibogamine is not well characterized in humans. Animal studies suggest it shares the cardiac safety concerns of ibogaine, including hERG potassium channel blockade that can prolong the QT interval.
 
-In rodent models, the LD50 of ibogamine is moderately higher than ibogaine, suggesting a somewhat wider therapeutic index. However, species differences in iboga alkaloid metabolism make direct extrapolation to humans unreliable.
+In rodent models, the LD50 of ibogamine is moderately higher than ibogaine, suggesting a somewhat wider [[cannabis-therapeutic-index-overview]]. However, species differences in iboga alkaloid metabolism make direct extrapolation to humans unreliable.
 
 No fatal overdoses attributed specifically to ibogamine have been documented. This is likely due to its rarity as an isolated compound rather than inherent safety. Caution is warranted when considering ibogamine-containing plant material, as the full alkaloid profile may include more cardiotoxic constituents.
 

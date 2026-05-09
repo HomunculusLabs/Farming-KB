@@ -1,11 +1,12 @@
 ---
-title: Critique of Modern Livestock Farming
+title: fukuoka-road-critique-of-modern-science fukuoka-textdoc-natural-livestock-farming-open-grazing
 created: 2026-04-18
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Critique of Modern Livestock Farming
@@ -32,7 +33,7 @@ This analysis is central to Fukuoka's [[fukuoka-food-civilization-critique]].
 
 ## The Very Notion of "Raising" Livestock
 
-"The very notion of 'raising' livestock should not even exist in natural farming," Fukuoka wrote. "Nature is the one that raises and grows. Man follows nature; all he needs to know is with what and in what manner cattle live."
+"The very notion of 'raising' livestock should not even exist in [[comparison-natural-farming-vs-permaculture]]," Fukuoka wrote. "Nature is the one that raises and grows. Man follows nature; all he needs to know is with what and in what manner cattle live."
 
 Modern livestock farming treats animals as machines for converting grain and soybeans into meat, milk, and eggs. The animals are confined, fed unnatural diets, given antibiotics and hormones, and denied any expression of their natural behavior. This is not agriculture but industrial production.
 
@@ -40,7 +41,7 @@ Modern livestock farming treats animals as machines for converting grain and soy
 
 Livestock farming is a major driver of environmental destruction worldwide. Forests are cleared for grazing land. Feed crops (corn, soy) are grown on vast monocultures that deplete the soil and require enormous inputs of chemicals and water. Manure from concentrated animal operations pollutes waterways and creates dead zones in coastal waters.
 
-Fukuoka saw these problems as inevitable consequences of treating animals as commodities rather than as participants in the ecological community. In a natural farming system, livestock would be integrated with crops, playing essential roles in nutrient cycling, pest control, and [[fukuoka-food-civilization-critique]], [[fukuoka-living-soil]], [[fukuoka-return-to-nature-philosophy]], [[fukuoka-critique-of-scientific-agriculture]] has destroyed soils and ecosystems, modern medicine has destroyed the natural healing capacity of the human body. Both operate from the same flawed premise: that human knowledge can improve upon nature.
+Fukuoka saw these problems as inevitable consequences of treating animals as commodities rather than as participants in the ecological community. In a natural farming system, livestock would be integrated with crops, playing essential [[dighton-fungal-roles-in-nutrient-cycling]] cycling, pest control, and [[fukuoka-food-civilization-critique]], [[fukuoka-living-soil]], [[fukuoka-return-to-nature-philosophy]], [[fukuoka-critique-of-scientific-agriculture]] has destroyed soils and ecosystems, modern medicine has destroyed the natural healing capacity of the human body. Both operate from the same flawed premise: that human knowledge can improve upon nature.
 
 He argues that scientists today have become the "palanquin bearers of rampaging science," drunk on the sound of the words "high technology." Medical researchers, like agricultural researchers, pursue ever more specialized knowledge while losing sight of the whole.
 
@@ -52,7 +53,7 @@ Central to Fukuoka's health philosophy is the conviction that the human body, wh
 
 Fukuoka views the medical establishment with the same skepticism he directs at agricultural institutions. He argues that doctors cannot bear responsibility for the life and death of a person even if they can protect life and assist in birth. Even though the medical goal may be to create genetically superior children, who decides what is superior? Only nature knows whether the rabbit is weaker or stronger than the lion. It is up to nature to decide whether an inferior gene should be eliminated or preserved.
 
-He extends this critique to genetic engineering and biotechnology, arguing that regardless of how superior and seemingly natural the organisms that man may create, these can only be anti-natural progeny. Anti-natural things are invariably incomplete, and will either meet with failure or proceed along a lonely path.
+He extends this critique to [[fukuoka-textdoc-genetic-engineering-critique-warning]] and biotechnology, arguing that regardless of how superior and seemingly natural the organisms that man may create, these can only be anti-natural progeny. Anti-natural things are invariably incomplete, and will either meet with failure or proceed along a lonely path.
 
 ## Health as Religious-Spiritual Question
 
@@ -73,7 +74,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +116,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

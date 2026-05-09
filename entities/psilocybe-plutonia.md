@@ -23,7 +23,7 @@ in pastures). The species has sometimes been placed in synonymy or confused with
 dark-spored, dung-inhabiting psilocybian species due to its nondescript appearance and small size.
 
 In the comprehensive classification system of Guzmán, Allen, and Gartz (2000), which cataloged
-216 known neurotropic fungal species worldwide, *P. plutonia* is recognized as one of the 116
+216 known [[mexico-center-neurotropic-fungal-biodiversity]] species worldwide, *P. plutonia* is recognized as one of the 116
 species within the genus Psilocybe that contain or are suspected to contain [[psilocybin]]-containing core group), which is characterized by dark spore prints,
 the presence of a pleurocystidia (sterile cells on gill faces), and the
 absence of a true partial veil (annulus) in most species.
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

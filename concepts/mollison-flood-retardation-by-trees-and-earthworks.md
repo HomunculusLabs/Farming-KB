@@ -1,5 +1,5 @@
 ---
-title: "Flood Retardation by Trees and Earthworks"
+title: "mollison flood retardation by trees and earthworks by Trees and Earthworks"
 created: 2026-04-26
 tags:
   - permaculture
@@ -55,7 +55,7 @@ When forests are cleared, several hydrological changes occur:
 
 In arid or semi-arid areas, flood retardation structures become
 especially important because the brief, intense rainfall events can
-cause devastating flash floods. Diversion drains, swales, and check dams
+cause devastating flash floods. [[mollison-designers-diversion-drains-and-interceptor-banks]], swales, and check dams
 are critical for spreading flood waters across the landscape.
 
 ## Earthworks for Flood Management
@@ -63,8 +63,8 @@ are critical for spreading flood waters across the landscape.
 ### Swales
 Swales are absorption beds placed on contour to intercept overland flow
 and allow infiltration. They convert destructive runoff into beneficial
-soil moisture recharge. Swale design is covered in detail in
-[[mollison-dam-types-landscape-placement]] for comprehensive dam
+soil moisture recharge. [[comparison-swale-design-vs-contour-swale-irrigation-design]] is covered in detail in
+mollison-dam-types-landscape-placement for comprehensive dam
   placement strategies.
 - [[mollison-water-harvesting-management-permaculture]] for water
   harvesting systems.
@@ -84,3 +84,9 @@ soil moisture recharge. Swale design is covered in detail in
   cost lives.
 6. Treat sediment as a resource: capture it where it does good rather
   than letting it damage downstream systems.
+## See Also
+- [[mollison-course-swales-and-earthworks-design]]
+- [[mollison-designers-coppicing-management-of-legume-trees]]
+- [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
+- [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]
+- [[mollison-designers-grafting-and-budding-fruit-trees]]

@@ -1,5 +1,5 @@
 ---
-title: Rock Garden Design and Alpine Plants
+title: Rock comparison-mandala-garden-design-vs-keyhole-garden-design and Alpine Plants
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -55,7 +55,7 @@ A scree garden reproduces the gravelly conditions of a mountain slope. One way t
 2. Put in about 9 inches (23cm) of sawdust as a drainage layer
 3. Refill with equal parts of good soil, sphagnum peat (or coir), and coarse gravel
 
-The very formal shape of the scree garden is softened by informal planting and stepping stones. A wide range of ground cover plants will thrive in this well-drained site.
+The very formal shape of the scree garden is softened by informal planting and stepping stones. A wide range of [[fukuoka-citrus-orchard-ground-cover-cultivation]] plants will thrive in this well-drained site.
 
 ## Container Growing
 

@@ -33,12 +33,12 @@ He also identified television as an "electronic drug" — a passive, escapist fo
 
 - McKenna, T. (1992). *Food of the Gods: The Search for the Original Tree of Knowledge*. Bantam Books.
 - Eisler, R. (1987). *The Chalice and the Blade: Our History, Our Future*. Harper & Row.
-- Gimbutas, M. (1991). *The Civilization of the Goddess*. Harper San Francisco.
+- Gimbutas, M. (1991). *The Civilization of the Goddess*. Harper [[shipibo-san-francisco-ceremonial-center-ucayali]].
 - Sutherland, I. (1998). *The Handbook of Psychoactive Herbs*. Haworth Press.
 - Rudgley, R. (1998). *The Alchemy of Culture: Intoxicants in Society*. British Museum Press.
 ## Practical Applications
 
-Mckenna Alcohol Vs Psychedelics Dominator Cultures has a range of practical applications that make it relevant to
+Mckenna Alcohol Vs mckenna alcohol vs psychedelics dominator cultures Cultures has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -113,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -16,7 +16,7 @@ sources:
   - Bown, D. (2001). "Encyclopedia of Herbs and Their Uses." DK Publishing.
   - Chevallier, A. (2016). "Encyclopedia of Herbal Medicine." 3rd ed. DK.
   - Wichtl, M. (2004). "Herbal Drugs and Phytopharmaceuticals." 3rd ed. MedPharm Scientific Publishers.
-  - Duke, J.A. (2002). "Handbook of Medicinal Herbs." 2nd ed. CRC Press.
+  - Duke, J.A. (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]]." 2nd ed. CRC Press.
 created: 2026-04-28
 ---
 
@@ -24,7 +24,7 @@ created: 2026-04-28
 
 **Marrubium vulgare**, commonly known as **white horehound**, is a perennial herbaceous plant in the mint family (Lamiaceae), native to Europe, North Africa, and Central Asia.
 
-It has been used as a medicinal herb for over 2,000 years, documented by Dioscorides, Pliny the Elder, and later medieval herbalists for its potent respiratory and digestive properties.
+It has been used as [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] for over 2,000 years, documented by Dioscorides, Pliny the Elder, and later medieval herbalists for its potent respiratory and digestive properties.
 
 The species derives its common name from the Old English *harhune*, meaning "hoary plant," referring to the dense white woolly pubescence covering its stems and leaves.
 
@@ -65,7 +65,7 @@ Flowering occurs from June to September, with individual flowers producing four 
 
 * M. vulgare* is native to Europe, North Africa, and temperate Asia, with a natural range extending from the British Isles eastward to western China.
 
-The species has been widely naturalized in North America, South America, Australia, and New Zealand, often establishing in disturbed sites, roadsides, and abandoned fields.
+The species has been widely naturalized in [[psilocybin-north-america-pacific-northwest]], South America, Australia, and New Zealand, often establishing in disturbed sites, roadsides, and abandoned fields.
 
 It prefers dry, well-drained, calcareous or alkaline soils in full sun to partial shade, and is commonly found in rocky, sandy, or stony habitats.
 
@@ -110,11 +110,11 @@ Horehound is exceptionally easy to cultivate, requiring minimal inputs and toler
 
 Propagation is by seed (stratification improves germination), division of mature clumps in spring, or semi-hardwood cuttings.
 
-Plants should be spaced 30–45 cm apart; no fertilization is required and may actually reduce essential oil and bitter principle concentrations.
+Plants should be spaced 30–45 cm apart; no fertilization is required and may actually reduce [[permaculture-designers-manual-essential-oil-plants]] and bitter principle concentrations.
 
 Overwatering and waterlogged soils are the primary causes of failure; the species is genuinely drought-tolerant once established.
 
-In **permaculture design**, horehound serves multiple functions: as a bee forage plant (flowers are attractive to honeybees and native pollinators), as a dynamic accumulator of minerals, and as a companion plant.
+In **[[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]**, horehound serves multiple functions: as a bee forage plant (flowers are attractive to honeybees and native pollinators), as a [[nutrient-dynamic-accumulator-reference]] of minerals, and as a companion plant.
 
 Its allelopathic properties can suppress certain weed species, though care should be taken near desirable plants.
 

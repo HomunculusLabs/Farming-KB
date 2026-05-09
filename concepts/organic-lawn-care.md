@@ -28,7 +28,7 @@ Grass seed should be sown in early spring or early fall, when some wet weather c
 - [[sheet-mulching-lasagna-gardening]]
 - [[bacterial-vs-fungal-soil]]
 - [[gaias-garden-cover-crops-soil-building]]
-- [[faires-permaculture-soil-and-sheet-mulching]]
+- faires-permaculture-soil-and-sheet-mulching
 ## Practical Applications
 
 Organic Lawn Care has a range of practical applications that make it relevant to
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

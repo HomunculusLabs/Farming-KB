@@ -13,16 +13,16 @@ tags:
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - "raw/papers/mycelium-running-stamets.md"
+  sources: []
 ---
 
 # Metarhizium
 
-**Metarhizium** is a genus of entomopathogenic fungi in the family Clavicipitaceae
+**Metarhizium** is a genus of [[singh-entomopathogenic-fungi-biocontrol-agents]] in the family Clavicipitaceae
 (order Hypocreales) that infect and kill insects, while also living as soil
 saprotrophs and plant root colonizers. First described by Sorokin in 1883 from
 the green muscardine disease of beetles, the genus contains approximately 12-15
-accepted species and is among the most widely used fungi in biological pest
+accepted species and is among the most widely used fungi in [[cervantes-biological-pest-control-predators]]
 control worldwide. The 2009 taxonomic revision by Bischoff, Rehner & Humber
 split the former *M. anisopliae* species complex into multiple distinct species
 based on multilocus phylogenetics.
@@ -41,7 +41,7 @@ based on multilocus phylogenetics.
 The genus was originally established when Sorokin renamed *Oospora destructor*
 Metschnikoff (1879) to *Metarhizium anisopliae*, with the species epithet
 referring to the host beetle genus *Anisoplia*. The teleomorph (sexual stage)
-has been linked to *Metacordyceps* species, though sexual reproduction is
+has been linked to *Metacordyceps* species, though [[fungal-life-cycles-sexual-reproduction-metamorphosis]] is
 rarely observed. Most reproduction is clonal via conidia.
 
 ## Major Species
@@ -97,11 +97,11 @@ and soil-dwelling grubs and wireworms.
 *Metarhizium* species also colonize plant roots as endophytes — a discovery
 that transformed understanding of the genus. *M. robertsii* and *M. brunneum*
 actively colonize the rhizosphere and grow within root cortical tissue without
-causing disease, facilitated by root exudates that stimulate directional
+causing disease, facilitated by [[mycorrhizal-root-exudates-pathogen-interactions]] that stimulate directional
 hyphal growth (key genes: MadA/MadB, Mrt transporters). The plant benefits are
 substantial: *M. robertsii* can transfer nitrogen from killed insects directly
 to plant roots (Behie et al., 2012), some strains solubilize phosphates,
-suppress plant pathogens, and improve drought tolerance. Applying *Metarhizium*
+suppress plant pathogens, and improve [[dighton-fungal-drought-tolerance-plant-water-relations]]. Applying *Metarhizium*
 as a biopesticide thus simultaneously establishes a beneficial root symbiont.
 
 ## Secondary Metabolites
@@ -132,12 +132,12 @@ yielding 10^9-10^11 conidia per gram.
 grow at 37C, and shows no carcinogenicity or mutagenicity. Non-target effects
 are minimal: bees are partially protected by their body temperature, and
 earthworms, birds, and aquatic organisms are unaffected. Conidia are
-UV-sensitive but persist in soil for weeks to months. No pest resistance has
+UV-sensitive but persist in soil for weeks to months. No [[cannabis-disease-pest-resistance-breeding-clarke]] has
 ## See Also
 
 - [[fungal-biopesticides]]
-- [[mycopesticides-entomopathogenic-fungi]]
+- mycopesticides-entomopathogenic-fungi
 - [[cordyceps-and-entomopathogenic-fungi]]
 - [[mycelium-running-pest-control-with-fungi]]
 - [[biological-nitrogen-fixation-agriculture]]
-- [[mycorrhizal-fungi-in-aact]]
+- mycorrhizal-fungi-in-aact

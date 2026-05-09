@@ -1,5 +1,5 @@
 ---
-title: "No Reflective Hood Lighting (Bare Bulb)"
+title: "No cervantes no reflective hood lighting Lighting (Bare Bulb)"
 created: 2026-04-28
 tags:
   - cannabis-lighting
@@ -10,13 +10,14 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "/Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md"
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # No Reflective Hood Lighting (Bare Bulb)
 
-One option for indoor cannabis growers is to remove the reflective
+One option for [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]] growers is to remove the reflective
 hood entirely and run HID lamps as "bare bulbs." With no hood, the lamp
 burns cooler and emits only direct light. This approach has specific
 advantages and limitations that Jorge Cervantes explores in Chapter 9
@@ -42,7 +43,7 @@ readings were taken every 12 inches (30 cm) on a floor matrix.
 
 Five different lamps were tested, all positioned three feet from the
 floor:
-- 1000W super metal halide
+- 1000W super [[cervantes-metal-halide-lighting-systems]]
 - 1000W HPS
 - 600W HPS
 - 400W super metal halide
@@ -50,7 +51,7 @@ floor:
 
 ### Key Findings
 
-- There is a huge difference between reflective hoods from different
+- There is a huge difference between [[cervantes-reflective-hoods-light-distribution]] from different
   manufacturers. Some companies do not test their hoods before market.
 - When a reflector distributes light evenly, the lamp can be placed
   closer to plants for more effective illumination.
@@ -67,7 +68,7 @@ maximize light utilization without adding wattage:
 
 - Use several 400W or 600W lamps instead of 1000W units
 - Manually rotate plants regularly for even exposure
-- Add shelving around the grow room perimeter for smaller plants
+- Add shelving around the [[cannabis-grow-room-setup]] perimeter for smaller plants
 - Install rolling beds to move plants under light
 - Grow a perpetual crop to maximize light usage year-round
 - Use a light mover to distribute light more evenly

@@ -1,9 +1,9 @@
 ---
-title: Psilocybin and Ego Dissolution Mechanisms
+title: psilocybin and psilocybin ego dissolution mechanisms Mechanisms
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - The Psilocybin Solution by Simon G. Powell
+  - The powell-psilocybin-solution-ecological-cognition-theory by Simon G. Powell
 type: concept
 tags: [psilocybin]
 ---
@@ -24,7 +24,7 @@ Psilocybin's disruption of the ego follows directly from its pharmacological act
 
 The serotonergic homeostatic system that normally "screens out distracting sensory cues" and maintains a "steady" perception of reality is chemically dismantled. When this screening function is disrupted, the tightrope of normal perceptual awareness is destabilized. The informational pattern that constitutes the ego -- normally maintained as a stable, coherent center of experience -- begins to lose its integrity as new and novel patterns of neuronal firing emerge throughout the brain.
 
-The result is that one no longer experiences reality through the lens of a bounded self. As one participant in the Good Friday experiment described, the visionary experience was "apart from me but very vivid" -- a perception of information issuing from somewhere outside of one's sense of self, or ego.
+The result is that one no longer experiences reality through the lens of a bounded self. As one participant in the Good [[good-friday-experiment-marsh-chapel]] described, the visionary experience was "apart from me but very vivid" -- a perception of information issuing from somewhere outside of one's sense of self, or ego.
 
 ## The "Movie-Like" Quality of Visionary Experience
 
@@ -38,7 +38,7 @@ Reverend K.B. from the Good Friday experiment described it this way: "with my ey
 
 Psilocybin also seems to force one to confront bad habits and neuroses. Nothing remains hidden to the mushroom and this will often lead to a psychological "shake-up" to persons hitherto blind to self-knowledge. After all, the tenet "know thyself" is bound up in some way with all spiritual disciplines, suggesting that one must come fully to terms with oneself before one can begin to inwardly develop one's state of consciousness.
 
-One sees oneself clearly without the superficial trappings of a contrived image and personality. The long-term follow-up of the Good Friday experiment showed that eight of the ten psilocybin subjects reported some negative aspects to their experiences in the way of "psychological struggles." Such struggles are somewhat inevitable if one has engaged with the psychedelic experience, since the dissolution of ego defenses exposes aspects of the psyche that are normally protected from conscious awareness.
+One sees oneself clearly without the superficial trappings of a contrived image and personality. The long-term follow-up of the Good Friday experiment showed that eight of the ten psilocybin subjects reported some negative aspects to their experiences in the way of "psychological struggles." Such struggles are somewhat inevitable if one has engaged with the [[leary-psychedelic-experience-bardo-mapping]], since the dissolution of ego defenses exposes aspects of the psyche that are normally protected from conscious awareness.
 
 ## Temporal Dissolution and Infinity
 

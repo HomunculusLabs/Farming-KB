@@ -5,6 +5,7 @@ updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
+  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Casing Layer Principles and Techniques
@@ -74,7 +75,7 @@ Different species have different casing preferences:
 
 - [[bulk-substrate-preparation]]
 - [[mushroom-yield-optimization]]
-- [[fruiting-chamber-design]]
+- fruiting-chamber-design
 
 ---
 

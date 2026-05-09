@@ -1,5 +1,5 @@
 ---
-title: Science Destroy and Rebuild Paradox
+title: fukuoka science destroy and rebuild paradox and Rebuild Paradox
 created: 2026-04-28
 tags: [science, agriculture, ecology, fukuoka, paradox, nature, reductionism, 
 systems]
@@ -23,7 +23,7 @@ further from the self-regulating balance of the original natural system.
 
 ## The Core Mechanism
 
-The paradox begins with what Fukuoka called "discriminating knowledge," the 
+The paradox begins with what Fukuoka called "[[non-discriminating-knowledge-and-critique-of-scientific-reductionism]]," the 
 analytical intelligence that examines nature by taking it apart. When 
 scientists study a forest, they see individual trees. When they study soil, 
 they see NPK values. When they study a crop, they see yield per hectare. This 
@@ -43,7 +43,7 @@ to figure out how to restore the mountain to its original state."
 
 ## The Mouse-Weasel-Rodenticide Cycle
 
-Fukuoka's ecosystem collapse chain provides a concrete illustration of the 
+Fukuoka's [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] chain provides a concrete illustration of the 
 paradox in action. When pine forests are clear-cut and replanted with 
 commercial cedar, the altered tree cover changes forest soil characteristics. 
 Small birds disappear without food, allowing long-horned beetles to flourish. 
@@ -72,7 +72,7 @@ whose interactions produce fertility.
 
 "Properly speaking, nature is neither living nor dead. Nor is it small or 
 large, weak or strong, feeble or thriving." By reducing soil to an inert medium 
-for delivering nutrient solutions, scientific agriculture eliminates the very 
+for delivering nutrient solutions, [[fukuoka-critique-scientific-agriculture-civilization]] eliminates the very 
 processes that make natural fertility possible. The result is plants that 
 appear healthy but are "inferior in quality, although perhaps in ways unknown 
 to man." The plant grown in living soil participates in a web of relationships 
@@ -85,7 +85,7 @@ scientists identified nitrogen as essential for plant growth, they developed
 synthetic nitrogen fertilizers. The fertilizers produced higher yields, which 
 encouraged monoculture, which eliminated the diversity that naturally regulated 
 pest populations, which necessitated the development of chemical pesticides. 
-The pesticides killed beneficial insects along with pests, which required the 
+The pesticides killed [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] along with pests, which required the 
 development of new pesticides, which selected for resistant pest populations, 
 which required still more powerful chemicals.
 
@@ -135,7 +135,7 @@ ancient, it is also forever new."
 - [[fukuoka-clover-and-green-manure-cropping]]
 - [[fukuoka-culture-of-clothing-and-meat]]
 
-- [Illusions of Scientific Farming](fukuoka-illusions-scientific-farming.md)
+- [[fukuoka-illusions-of-scientific-farming]] Farming](fukuoka-illusions-scientific-farming.md)
 - [Fukuoka One Straw Revolution](fukuoka-one-straw-revolution.md)
 - [Natural Farming Principles](natural-farming-principles.md)
 - [Discriminating vs Non-Discriminating 

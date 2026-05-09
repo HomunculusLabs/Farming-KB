@@ -5,10 +5,11 @@ updated: 2026-05-06
 aliases: [plant immunity, pattern-triggered immunity, effector-triggered immunity, zig-zag model, plant defense]
 tags: [plant-science, plant-pathology, immunology, agriculture, crop-protection, molecular-biology]
 type: concept
-sources: []
+sources:
+  sources: []
 ---
 
-Plants lack an adaptive immune system (no antibodies or T-cells) and instead rely on a sophisticated two-tiered innate immune system to detect and respond to pathogens. This system was formalized by Jones and Dangl in 2006 as the **zig-zag model** of plant-pathogen coevolution. The two tiers are **Pattern-Triggered Immunity (PTI)** — a broad-spectrum basal defense activated by membrane-localized receptors — and **Effector-Triggered Immunity (ETI)** — a stronger, more specific defense triggered by intracellular receptors that detect pathogen virulence factors. Recent work has shown PTI and ETI are not independent but form a mutual amplification loop, with NLR activation enhancing PRR signaling components.
+Plants lack an adaptive immune system (no antibodies or T-cells) and instead rely on a sophisticated two-tiered innate immune system to detect and respond to pathogens. This system was formalized by Jones and Dangl in 2006 as the **zig-zag model** of plant-pathogen coevolution. The two tiers are **Pattern-Triggered Immunity (PTI)** — a broad-spectrum basal defense activated by membrane-localized receptors — and **Effector-Triggered Immunity (ETI)** — a stronger, more specific defense triggered by intracellular receptors that detect pathogen [[fungal-virulence-factors-host-immune-evasion]]. Recent work has shown PTI and ETI are not independent but form a mutual amplification loop, with NLR activation enhancing PRR signaling components.
 
 ## Pattern-Triggered Immunity (PTI)
 
@@ -48,7 +49,7 @@ The zig-zag model describes four phases of coevolution: PTI activates basal defe
 
 ## The Gene-for-Gene Hypothesis
 
-The gene-for-gene hypothesis, proposed by Harold Flor in 1971 based on flax-rust interactions, predates the zig-zag model. It states that for each **avirulence (Avr) gene** in the pathogen, there is a corresponding **resistance (R) gene** in the host plant. If the plant possesses the R gene and the pathogen possesses the matching Avr gene, the result is resistance; if either is absent, the result is susceptibility. This was the foundational model for understanding plant-pathogen specificity and was molecularly explained by NLR-effector recognition. Flor's work established the conceptual framework for breeding disease-resistant cultivars and understanding pathogen population genetics.
+The gene-for-gene hypothesis, proposed by Harold Flor in 1971 based on flax-rust interactions, predates the zig-zag model. It states that for each **avirulence (Avr) gene** in the pathogen, there is a corresponding **resistance (R) gene** in the host plant. If the plant possesses the R gene and the pathogen possesses the matching Avr gene, the result is resistance; if either is absent, the result is susceptibility. This was the foundational model for understanding plant-pathogen specificity and was molecularly explained by NLR-effector recognition. Flor's work established the [[holmgren-permaculture-flower-conceptual-framework]] for breeding disease-resistant cultivars and understanding pathogen [[aspergillus-fumigatus-population-genetics]].
 
 ETI is triggered when intracellular **NLR receptors** (Nucleotide-binding Leucine-rich Repeat proteins, NB-LRR) detect pathogen effectors. NLRs are classified as **CNLs** (coiled-coil N-terminal domain, e.g., ZAR1, RPM1, RPS2, RPS5) and **TNLs** (TIR N-terminal domain, e.g., RPS4, RPS6, N). TNL TIR domains possess NADase activity, hydrolyzing NAD+ to produce v-cADPR and ADPR signaling molecules.
 
@@ -79,6 +80,6 @@ In uninfected plants, NPR1 exists as disulfide-bonded oligomers in the cytoplasm
 NPR1 turnover is controlled by CUL3-based E3 ligase with NPR3/NPR4 as SA-dependent substrate adaptors — NPR3 degrades NPR1 at high SA levels (preventing over-activation), NPR4 at low SA (maintaining basal turnover). This dual-receptor system creates a SA concentration-dependent switch. NPR3 and NPR4 also function as direct SA receptors.
 
 Mobile SAR signals travel through the phloem to uninfected tissues. The strongest candidate is **N-hydroxypipecolic acid (NHP)**, derived from L-lysine via ALD1 to pipecolic acid to FMO1 hydroxylation. NHP accumulates systemically and can induce SAR without prior infection, partly by amplifying SA biosynthesis through positive feedback on ICS1. Other signals include MeSA (methyl salicylate, [[integrated-pest-management]] — practical pest management framework combining biological, cultural, and chemical approaches
-- [[rhizosphere-ecology]] — root zone microbial community dynamics and plant-microbe interactions
-- systemic acquired resistance — detailed SAR signaling pathways and agricultural deployment
-- [[plant-defense-mechanisms]] — overview of constitutive and induced plant defenses including physical barriers and secondary metabolites
+- [[rhizosphere-ecology]] — root zone [[edaphic-factors-microbial-community-structure]] dynamics and plant-microbe interactions
+- systemic acquired resistance — detailed SAR [[plant-signaling-pathways]] and agricultural deployment
+- [[plant-defense-mechanisms]] — overview of constitutive and induced plant defenses including physical barriers and [[antifungal-secondary-metabolites-coprophilous-fungi]]

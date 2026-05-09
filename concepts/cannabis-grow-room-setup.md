@@ -9,7 +9,7 @@ sources: [raw/papers/greg-green-the-cannabis-grow-bible.md]
 
 # Cannabis Grow Room Setup
 
-Setting up a proper grow room is the foundation of a successful cannabis cultivation. The key factors are light, air, temperature, humidity, and space management.
+Setting up a proper grow room is the foundation of a successful [[query-how-does-no-till-cannabis-cultivation-work]]. The key factors are light, air, temperature, humidity, and space management.
 
 ## Space Requirements
 - Minimum: 2x2x4 ft (small tent, 1-2 plants)
@@ -39,16 +39,16 @@ Setting up a proper grow room is the foundation of a successful cannabis cultiva
 
 ## Ventilation
 - Inline fan: 4-inch for small tents, 6-inch for 4x4, 8-inch for larger
-- Carbon filter: essential for odor control (match fan size)
+- Carbon filter: essential for [[cannabis-odor-control-and-carbon-filters]] (match fan size)
 - Passive intake: intake hole 2x the exhaust area (with light-proof baffle)
-- Oscillating fan: air circulation prevents mold and strengthens stems
+- Oscillating fan: [[stamets-growing-room-air-circulation-co2-management]] prevents mold and strengthens stems
 - Minimum: full room air exchange every 1-3 minutes
 
 ## Environmental Controls
 - Temperature: 70-85°F (21-29°C) day, 60-70°F (15-21°C) night
 - Humidity: 60-70% seedling, 50-60% vegetative, 40-50% flowering
 - CO2: Supplement to 1200-1500 ppm increases yield 20-30% (requires sealed room)
-- Controller: Inkbird or AC Infinity for automated temp/humidity management
+- Controller: Inkbird or AC Infinity for automated temp/[[stamets-cultivator-humidity-management-fogging-systems]]
 
 ## Growing Mediums
 - **Soil**: Easiest for beginners. Ocean Forest + perlite. pH 6.0-7.0
@@ -57,10 +57,10 @@ Setting up a proper grow room is the foundation of a successful cannabis cultiva
 - **Living soil**: Organic, no bottled nutrients. Builds soil food web
 
 ## Related
-- [[cannabis-soil-and-nutrients]] — for nutrient management
+- [[cannabis-soil-and-nutrients]] — for [[jadam-nutrient-management-wetting-agent-and-calcium]]
 - [[cannabis-vegetative-stage-management]] — for grow phase
 - cannabis grow room setup — for lighting details
-- cannabis grow room setup — for general indoor growing principles
+- cannabis grow room setup — for general [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]] principles
 
 ## See Also
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

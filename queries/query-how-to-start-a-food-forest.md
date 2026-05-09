@@ -12,7 +12,7 @@ type: query
 
 ## Short Answer
 
-A food forest is a perennial polyculture system modeled on natural forest ecosystems that produces food, medicine, fiber, and fuel while building soil and supporting biodiversity. Starting a food forest begins with thorough site observation and design, followed by establishing canopy and support trees, then progressively filling in understory layers with fruit trees, berry shrubs, herbaceous plants, ground covers, and root crops over several years.
+A food forest is a perennial polyculture system modeled on natural forest ecosystems that produces food, medicine, fiber, and fuel while building soil and supporting biodiversity. Starting a food forest begins with thorough site observation and design, followed by establishing canopy and support trees, then progressively filling in understory layers with fruit trees, berry shrubs, herbaceous plants, [[permaculture-plants-food-forest-ground-covers-bamboos]], and root crops over several years.
 
 ## What Is a Food Forest?
 
@@ -38,23 +38,23 @@ The [[forest-garden-seven-layers]] reference details each layer:
 | Shrub layer | 3-15 feet | Blueberry, currant, raspberry, hazelnut |
 | Herbaceous layer | Ground level | Comfrey, rhubarb, asparagus, herbs |
 | Ground cover | Below surface | Clover, creeping thyme, strawberries |
-| Root layer | Underground | Jerusalem artichoke, potatoes, sweet potato |
+| Root layer | Underground | [[comparison-jerusalem-artichoke-vs-potato]], potatoes, [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]] |
 | Vine layer | Climbing | Grape, kiwi, passionfruit, hops |
 
 Filling every niche maximizes productivity and creates a self-maintaining system.
 
 ## Step 3: Design Your Zones
 
-The [[permaculture-plant-guilds]] are the building blocks of a food forest.
+The permaculture-plant-guilds are the building blocks of a food forest.
 
 A guild is a group of plants working together in mutual support, centered around a fruit tree.
 
 Classic apple tree guild:
 - **Apple tree** (center) - main productive element
-- **Comfrey** - dynamic accumulator, mulch producer, bee attractor
+- **Comfrey** - [[nutrient-dynamic-accumulator-reference]], mulch producer, bee attractor
 - **Daffodils** - pest deterrent (repels nematodes)
 - **Clover** - nitrogen fixer, living mulch
-- **Yarrow** - beneficial insect attractor
+- **Yarrow** - [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] attractor
 - **Garlic chives** - fungicide properties, pest deterrent
 
 ## Step 6: Site Preparation
@@ -80,7 +80,7 @@ Timing and sequencing are critical for food forest establishment:
 
 **Year 1:**
 - Infrastructure (swales, pathways, irrigation)
-- Support trees and nitrogen fixers
+- Support [[permaculture-plants-legume-trees-acacia-carob-locust]] fixers
 - Ground covers and soil-building cover crops
 
 **Years 2-3:**
@@ -98,7 +98,7 @@ Timing and sequencing are critical for food forest establishment:
 
 ## Key Points
 
-- Start with thorough site observation and design; see [[food-forest-layers-and-species]] and [[permaculture-plant-guilds]] are the functional building blocks for mutual support
+- Start with thorough site observation and design; see [[food-forest-layers-and-species]] and permaculture-plant-guilds are the functional building blocks for mutual support
 - A food forest takes 5-10 years to reach full productivity but yields begin within 2-3 years
 
 ## Related

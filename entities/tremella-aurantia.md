@@ -10,11 +10,11 @@ sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 
 # Tremella aurantia
 
-**Tremella aurantia**, commonly known as the golden ear fungus or orange jelly fungus, is a parasitic jelly fungus in the family Tremellaceae. It is notable for its striking orange-golden appearance and its obligate parasitic relationship with the medicinal mushroom [[tremella-mesenterica]] and [[tremella-fuciformis-entity]] but similar to [[trametes-versicolor-entity]] or related polypores. T. aurantia often has a deeper orange color.
+**Tremella aurantia**, commonly known as the golden ear fungus or orange jelly fungus, is a parasitic jelly fungus in the family Tremellaceae. It is notable for its striking orange-golden appearance and its obligate parasitic relationship with the medicinal mushroom [[tremella-mesenterica]] and [[tremella-fuciformis]] but similar to [[trametes-versicolor-entity]] or related polypores. T. aurantia often has a deeper orange color.
 - **Dacrymyces chrysospermus:** An orange jelly fungus that grows on conifer wood. It can be distinguished by its habitat preference and microscopic features (different basidial morphology).
 - **Tremella fuciformis:** White to pale yellow, never bright orange, and grows on hardwood associated with Annulohypoxylon species rather than trametoid fungi.
 
-The most reliable distinguishing feature is the growth directly on [[trametes-hirsuta]]an obligate mycoparasite, growing almost exclusively on the fruiting bodies of its host fungus. The primary host is [[tremella-fuciformis-entity]] and [[tremella-fuciformis-entity]]
+The most reliable distinguishing feature is the growth directly on [[trametes-hirsuta]]an obligate mycoparasite, growing almost exclusively on the fruiting bodies of its host fungus. The primary host is [[tremella-fuciformis]] and [[tremella-fuciformis]]
 
 ### Anti-Inflammatory Effects
 
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

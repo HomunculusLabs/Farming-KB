@@ -5,7 +5,7 @@ updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
-  - raw/papers/the-mushroom-cultivator-stamets.md
+  sources: []
 ---
 
 Updated: 2026-04-18
@@ -15,7 +15,7 @@ Updated: 2026-04-18
 Mycoforestry is a set of practices developed by Paul Stamets that applies fungal ecology to sustainable forest management. The core principle is working with fungal networks to enhance forest health, accelerate reforestation, reduce reliance on slash-and-burn practices, and create long-term sustainable forest ecosystems.
 
 Source: [[cortes-island-mycoforestry-project]])
-- Greater drought tolerance
+- Greater [[dighton-fungal-drought-tolerance-plant-water-relations]]
 - Enhanced disease resistance
 - More efficient nutrient uptake
 
@@ -43,7 +43,7 @@ Some important forestry species form arbuscular mycorrhizae:
 
 A healthy forest typically has many tree species, each associated with many fungal species. This diversity:
 - Provides insurance against pathogen outbreaks
-- Ensures nutrient cycling across different substrate types
+- Ensures [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] across different substrate types
 - Supports complex food webs
 - Enhances ecosystem resilience to disturbance
 
@@ -58,7 +58,7 @@ After timber harvesting, mycoforestry approaches include:
 2. Inoculate seedling root balls with appropriate mycorrhizal fungi
 3. Apply wood chips as mulch around planted seedlings
 4. Install [[stropharia-rugoso-annulata-mycofiltration]] for soil building
-- Introduce pioneer plant species with mycorrhizal inoculation
+- Introduce pioneer plant species with [[teaming-with-fungi-mycorrhizal-inoculation-techniques]]
 - Follow natural succession, accelerating each stage with strategic fungal introductions
 
 ***
@@ -68,15 +68,15 @@ After timber harvesting, mycoforestry approaches include:
 ### Cost Savings
 
 - Logging road reclamation with mycofiltration: approximately **50%** of conventional cost
-- Reduced need for chemical fertilizers (mycorrhizae provide nutrients)
+- Reduced need for [[cervantes-chemical-fertilizers-guide]] (mycorrhizae provide nutrients)
 - Reduced replanting costs (inoculated seedlings survive better)
 - Long-term soil improvement reduces future management costs
 
 ### Value-Added Products
 
 Mycoforestry can generate additional income streams:
-- Edible mushroom cultivation in managed forests (chanterelles, porcini, shiitake)
-- Medicinal mushroom harvesting (reishi, turkey tail, maitake)
+- Edible [[accessible-mushroom-cultivation-for-disabilities]] in managed forests (chanterelles, porcini, shiitake)
+- Medicinal [[oyster-mushroom-harvesting-post-harvest]] (reishi, turkey tail, maitake)
 - Carbon credits for enhanced soil carbon storage
 - Ecotourism based on forest health and mushroom diversity
 

@@ -1,7 +1,7 @@
 ---
-title: "Psilocybin and the Mutability of Consciousness"
+title: "Psilocybin and the powell-mutability-of-consciousness-chemical-lens"
 created: 2026-04-26
-sources: "The Psilocybin Solution — Simon G. Powell"
+sources: "The powell-psilocybin-solution-ecological-cognition-theory — Simon G. Powell"
 author: "Simon G. Powell"
 topics: ["consciousness", "psilocybin", "entheogens", "philosophy-of-mind", "epistemology"]
 type: concept
@@ -50,7 +50,7 @@ This chemical mediation is framed within a Gaian context. Serotonin, the key neu
 affected by psilocybin, evolved over millions of years determined by chemicals available in the
 environment. If the chemical constituency of the natural environment were radically different,
 Nature would have evolved completely different neurotransmitters. In this sense, consensus reality is
-described as a "popular serotonergic hallucination" — and the introduction of psilocybin mushrooms
+described as a "popular serotonergic hallucination" — and the introduction of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]
 into the diet shifts this to a "rare psilocybinetic reality."
 
 ## Historical Routes to Altered Consciousness

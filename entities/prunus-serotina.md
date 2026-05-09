@@ -12,7 +12,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). Silvics of North America, Vol. 2. USDA Forest Service.
+  - Burns, R.M. & Honkala, B.H. (1990). Silvics of psilocybin-north-america-pacific-northwest, Vol. 2. USDA Forest Service.
   - Hough, R.B. (1957). Hough's Encyclopedia of American Woods. Robert Clarke Co.
   - USDA NRCS (2024). Plant Profile: *Prunus serotina*.
   - Duke, J.A. (2002). Handbook of Medicinal Herbs. CRC Press.
@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-**Black cherry** (*Prunus serotina*) is a medium to large deciduous tree native to eastern North America, valued for its fine woodworking timber and distinctive dark, bitter fruit. It is the largest of the native North American *Prunus* species, reaching 25–30 meters in height in forest conditions.
+**Black cherry** (*Prunus serotina*) is a medium to large deciduous tree native to [[polypore-fungi-eastern-north-america]] America, valued for its fine woodworking timber and distinctive dark, bitter fruit. It is the largest of the native [[growing-gourmet-north-american-reishi-species]] *Prunus* species, reaching 25–30 meters in height in forest conditions.
 
 The species is an important timber tree, producing prized cherry wood used in fine furniture, cabinetry, and musical instruments. Black cherry lumber commands premium prices among North American hardwoods, second only to black walnut in per-board-foot value.
 
@@ -40,7 +40,7 @@ Flowers are arranged in slender racemes 10–15 cm long, each flower approximate
 
 Fruit is a drupe 1–1.5 cm in diameter, ripening from green to red to nearly black in August to October. The flesh is thin and tart, while the stone (pit) is large relative to fruit size.
 
-The root system is moderately deep with a well-developed taproot on upland sites and a more spreading root system on moist bottomlands. Black cherry forms both ectomycorrhizal and arbuscular mycorrhizal associations, enhancing nutrient uptake.
+The root system is moderately deep with a well-developed taproot on upland sites and a more spreading root system on moist bottomlands. Black cherry forms both ectomycorrhizal and [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] associations, enhancing nutrient uptake.
 
 Winter buds are long, pointed, and 6–12 mm in length, with several visible bud scales giving a characteristic elongated appearance. Terminal buds are absent — the species is determinate in shoot elongation.
 
@@ -64,7 +64,7 @@ The ripe fruit of black cherry is edible when fully mature, though the flesh is 
 
 Black cherry flavor is widely used in commercial food products, beverages, and pharmaceuticals. The characteristic almond-like aroma of the bark has historically been used to flavor cordials and cough medicines.
 
-Native American peoples used the fruit extensively, consuming it fresh, dried, or pounded into cakes with animal fat for winter storage. The bark was brewed into medicinal teas for treating colds, coughs, and digestive ailments.
+[[halpern-sacramental-peyote-and-native-american-church]] peoples used the fruit extensively, consuming it fresh, dried, or pounded into cakes with animal fat for winter storage. The bark was brewed into medicinal teas for treating colds, coughs, and digestive ailments.
 
 The fruit is relished by numerous bird species, which are the primary agents of seed dispersal. American robins, cedar waxwings, and thrushes are particularly important consumers.
 
@@ -92,14 +92,14 @@ The bark contains coumarin derivatives and benzaldehyde, which contribute to its
 
 Ripe fruit pulp contains significantly lower concentrations of cyanogenic glycosides than leaves and bark, making it safe for human consumption. However, the pits retain high amygdalin concentrations and should not be crushed or consumed in quantity.
 
-Traditional herbal medicine uses include preparations of the inner bark as a mild sedative and cough suppressant. Wild cherry bark remains an ingredient in some commercial cough syrups, though its efficacy has not been rigorously demonstrated in controlled clinical trials.
+Traditional herbal medicine uses include preparations of the inner bark as a mild sedative and cough suppressant. Wild cherry bark remains an ingredient in some commercial cough syrups, though its efficacy has not been rigorously demonstrated in controlled [[mushroom-cancer-clinical-trials-overview]].
 
 The fruit contains anthocyanins, particularly cyanidin-3-glucoside and cyanidin-3-rutinoside, which contribute to its dark pigmentation and have demonstrated antioxidant activity in vitro. These compounds are of interest for their potential anti-inflammatory and neuroprotective properties.
 
 ## See Also
 
 - [[prunus-dulcis]]
-- [[crataegus-monogyna]]
+- crataegus-monogyna
 - [[acer-saccharum]]
 - [[betula-pendula]]
 - [[populus-tremuloides]]

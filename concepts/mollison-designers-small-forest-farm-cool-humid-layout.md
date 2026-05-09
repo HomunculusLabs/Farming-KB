@@ -18,24 +18,24 @@ type: concept
 
 Mollison presents a detailed model for a 12-16 hectare (30-40 acre) family
 forest farm adapted to [[mollison-designers-cold-caves-root-cellar-storage]],
-nursery, small livestock housing. Kitchen garden with annual and perennial
+nursery, small livestock housing. [[holzer-kitchen-garden-herbs-and-medicinal-plants]] with annual and perennial
 vegetables, herbs, and salad greens. Composting systems, worm farms, and
 sprouting facilities for winter feed.
 
 **Zone 2 (0.5-3 ha):** Dense food forest with fruit trees, berries, nut
 hedges, and [[mollison-designers-poultry-forage-design-pastured-systems]] runs
-integrated with orchard floor management. Beehives placed along garden edges.
+integrated with [[fukuoka-orchard-floor-management]] management. Beehives placed along garden edges.
 Mushroom logs stacked in shade of fruit trees.
 
 **Zone 3 (3-10 ha):** Mixed forest with timber trees, coppice rotations,
 nut orchards, and [[mollison-designers-free-range-forage-design-principles]] pigs
-and poultry forage in forest understory. Small fruit plantings (blueberry,
-elderberry, currant) in forest openings. Seed production plots for tree and
+and [[free-range-poultry-forage-design-mollison]] in forest understory. Small fruit plantings (blueberry,
+elderberry, currant) in forest openings. [[cervantes-seed-production-storage]] plots for tree and
 shrub species.
 
 **Zone 4 (10-14 ha):** Managed woodland with selective harvesting, wildlife
 corridors, and [[mollison-designers-dam-construction-and-water-storage]].
-Fur animal housing (rabbits, potentially mink or fox in appropriate
+Fur [[permaculture-designers-manual-animal-housing-detailed]] (rabbits, potentially mink or fox in appropriate
 contexts).
 
 **Zone 5 (remaining):** Unmanaged reserve forest providing genetic
@@ -50,7 +50,7 @@ income and nutrition with minimal labour.
 
 **Seed production:** Zones 3-4 produce tree seeds, shrub seeds, and
 herbaceous plant seeds for nursery sale or own planting. Seed orchards of
-selected provenance planted at wide spacing for easy access.
+selected provenance planted at [[solomon-wide-spacing-versus-intensive-gardening-debate]] for easy access.
 
 **Small fruit:** Ribes (currants and gooseberries), blueberries, elderberries,
 and bramble fruits planted in the understory and at forest edges. These
@@ -65,7 +65,7 @@ that requires minimal infrastructure.
 placed at multiple elevations to store water for irrigation, stock, and
 aquaculture. Swale systems on contour slow runoff and recharge groundwater.
 
-See also: [[gaias-garden-forest-garden-installation-phased-design]], [[mollison-zone-planning-frequency-distance-and-placement]]
+See also: gaias-garden-forest-garden-installation-phased-design, mollison-zone-planning-frequency-distance-and-placement
 ## Practical Considerations
 
 Successful implementation of Small Forest Farm Cool Humid Layout requires attention to
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

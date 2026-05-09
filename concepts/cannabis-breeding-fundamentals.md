@@ -1,5 +1,5 @@
 ---
-title: Cannabis Breeding Fundamentals
+title: oner-cannabis-breeding-fundamentals Fundamentals
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -11,9 +11,9 @@ tags: [cannabis]
 # Cannabis Breeding Fundamentals
 
 Cannabis breeding is the science and practice of developing new cannabis
-varieties through controlled sexual reproduction. The breeding chapter
+varieties through controlled [[fungal-life-cycles-sexual-reproduction-metamorphosis]]. The breeding chapter
 in Cervantes' "Marijuana Horticulture," authored by Chimera of Chimera
-Seeds, provides one of the most thorough treatments of cannabis genetics
+Seeds, provides one of the most thorough treatments of [[vic-high-cannabis-genetics-mendelian-inheritance]]
 and breeding methodology available to growers.
 
 ## Sexual vs. Asexual Propagation
@@ -74,14 +74,14 @@ Pure-breeding (true-breeding) lines are homozygous at most loci. See
 ## The Five Components of a Breeding Program
 
 1. **Develop a breeding goal.** Define what traits you are selecting
-   for -- potency, flavor, yield, pest resistance, growth stature, etc.
+   for -- potency, flavor, yield, [[cannabis-disease-pest-resistance-breeding-clarke]], growth stature, etc.
 
 2. **Find or create variability.** Most commercially available seeds
    are unstable hybrids with ample variation for selection. Serious
    breeders must stabilize stock before beginning hybridization phases.
 
 3. **Grow and evaluate.** The more plants grown, the more phenotypes
-   discovered. Some recessive traits appear in only 1 in 100 or 1 in
+   discovered. Some [[cervantes-dominance-recessive-traits-alleles]] appear in only 1 in 100 or 1 in
    1000 plants. Testing the final product through consumption is a
    crucial evaluation step.
 
@@ -93,7 +93,7 @@ Pure-breeding (true-breeding) lines are homozygous at most loci. See
 5. **Commercialize (optional).** Ethical breeding focuses on improving
    populations and preserving genetic resources, not just making seeds
    for sale. Years of persecution and greedy seed-making practices have
-   created a genetic bottleneck.
+   created a [[cervantes-genetic-bottleneck-and-diversity-loss]].
 
 ## Types of Seed Populations
 

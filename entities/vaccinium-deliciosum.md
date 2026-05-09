@@ -11,8 +11,8 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Vander Kloet, S.P. (1988). "The Genus Vaccinium in North America." Research Branch, Agriculture Canada Publication 1828.
-  - Minore, D. (1972). "The Wild Huckleberries of Oregon and Washington: A Field Guide." USDA Forest Service Research Paper PNW-143.
+  - Vander Kloet, S.P. (1988). "The Genus Vaccinium in psilocybin-north-america-pacific-northwest." Research Branch, Agriculture Canada Publication 1828.
+  - Minore, D. (1972). "The Wild Huckleberries of Oregon and Washington: A [[ghouled-field-guide-historical-context]]." USDA Forest Service Research Paper PNW-143.
   - Pitcher, D. & McKern, J. (1998). "Vaccinium deliciosum: Taxonomy, distribution, and ecology." Madroño, 45(3), 187-194.
   - Höerdemann, M.L. (2018). "Huckleberries of the Pacific Northwest." Mountaineers Books.
 ---
@@ -21,7 +21,7 @@ sources:
 
 **Vaccinium deliciosum** (Cascade huckleberry, blue huckleberry, tall huckleberry) is a deciduous shrub in the family Ericaceae native to western North America. It is closely related to and frequently confused with V. membranaceum, but differs in leaf texture, berry color, and habitat preference.
 
-The species produces sweet, flavorful berries ranging from blue to dark purple. The specific epithet "deliciosum" reflects the exceptional palatability of the fruit, which is considered among the finest wild berries in the Pacific Northwest.
+The species produces sweet, flavorful berries ranging from blue to dark purple. The specific epithet "deliciosum" reflects the exceptional palatability of the fruit, which is considered among the finest huckleberries and wild berries of north america in the Pacific Northwest.
 
 Compared to the more widely known V. membranaceum, V. deliciosum berries are often described as milder and sweeter, with less of the characteristic huckleberry tartness. This flavor profile makes them particularly popular for fresh eating.
 
@@ -47,7 +47,7 @@ Vaccinium deliciosum ranges from southern British Columbia through the Cascade R
 
 The species occupies subalpine meadows, open coniferous forests, and moist rocky slopes between 900 and 2,800 meters elevation. It is most characteristic of the subalpine parkland zone dominated by mountain hemlock and subalpine fir.
 
-Habitat preferences include moist to mesic conditions with well-drained, acidic soils high in organic matter. The species is frequently found on north-facing slopes, near snowmelt drainages, and in avalanche track communities.
+Habitat preferences include moist to mesic conditions with well-drained, acidic soils high in [[hamilton-composting-and-organic-matter-management]]. The species is frequently found on north-facing slopes, near snowmelt drainages, and in avalanche track communities.
 
 V. deliciosum often co-occurs with V. membranaceum but tends to occupy slightly moister and higher-elevation microsites. The two species can be distinguished in the field by leaf texture and berry surface characteristics.
 
@@ -77,7 +77,7 @@ In the subalpine zone, V. deliciosum contributes to vegetation structure and div
 
 The species is an important component of post-disturbance succession in subalpine forests. It colonizes disturbed sites relatively quickly and may persist as a dominant understory species for decades.
 
-Ericoid mycorrhizal associations are essential for V. deliciosum survival and growth. These fungal partnerships enable nutrient uptake from the nutrient-poor acidic soils typical of subalpine environments.
+[[dighton-ericoid-mycorrhizal-nutrient-acquisition]] associations are essential for V. deliciosum survival and growth. These fungal partnerships enable [[plant-nutrient-uptake-mechanisms]] from the nutrient-poor acidic soils typical of subalpine environments.
 
 ## Cultivation
 

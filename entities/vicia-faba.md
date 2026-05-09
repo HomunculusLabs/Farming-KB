@@ -26,7 +26,7 @@ sources:
   - Maxted, N. (1995). "Vicia faba L." In: "Evolution of Crop Plants" (2nd ed.). Longman.
   - Cubero, J.I. (1974). "On the evolution of Vicia faba L." Theoretical and Applied Genetics 45(2).
   - Duc, G. et al. (2010). "Faba bean." In: Singh, R.J. (ed.) "Genetic Resources, Chromosome Engineering, and Crop Improvement." CRC Press.
-  - Crépon, K. et al. (2010). "Nutritional value of faba bean." Grain Legumes 56.
+  - Crépon, K. et al. (2010). "Nutritional value of faba bean." [[query-best-grain-legumes-for-a-small-homestead]] 56.
   - Bond, D.A. & Lawes, D.A. (1978). "The influence of Vicia faba on the nitrogen economy of rotations." Rothamsted Experimental Station Report.
 created: 2026-04-28
 ---
@@ -35,7 +35,7 @@ created: 2026-04-28
 
 *Vicia faba* L., commonly known as fava bean, broad bean, or horse bean, is an annual leguminous crop in the family Fabaceae. It is one of the oldest domesticated crops, with archaeological evidence of cultivation dating to the Neolithic period in the Near East approximately 10,000 years ago.
 
-The species is cultivated worldwide for its edible seeds, which are rich in protein, dietary fiber, and minerals. It also serves as a green manure, cover crop, and nitrogen-fixing companion plant in diverse agricultural systems.
+The species is cultivated worldwide for its edible seeds, which are rich in protein, dietary fiber, and minerals. It also serves as a [[comparison-green-manure-guide-vs-mulch-types-and-effects]], cover crop, and nitrogen-fixing companion plant in diverse agricultural systems.
 
 Fava beans are unique among major food legumes for their ability to fix atmospheric nitrogen through symbiosis with *Rhizobium leguminosarum* sv. *viciae*, contributing 50–300 kg N/ha depending on cultivar and growing conditions.
 
@@ -51,7 +51,7 @@ Fava beans are unique among major food legumes for their ability to fix atmosphe
 
 **Flowers:** White to purplish with a dark purplish-black spot on each wing petal. Flowers are borne in short axillary racemes of 2–6 flowers. They are papilionaceous, 20–30 mm long, and predominantly self-pollinating though some cross-pollination occurs via bees.
 
-**Roots:** Taproot system with extensive lateral branching. Root nodules form in symbiosis with *Rhizobium leguminosarum* sv. *viciae*, enabling biological nitrogen fixation. Nodule biomass is typically 50–150 kg/ha at flowering.
+**Roots:** Taproot system with extensive lateral branching. Root nodules form in symbiosis with *Rhizobium leguminosarum* sv. *viciae*, enabling [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation. Nodule biomass is typically 50–150 kg/ha at flowering.
 
 **Fruit:** Legume pods, 50–250 mm long × 15–35 mm wide, containing 2–8 seeds. Pod color varies from green to dark brown depending on cultivar. Seeds are 15–40 mm long, oval to flattened, with colors ranging from white and green to brown, purple, and black.
 
@@ -61,7 +61,7 @@ Fava beans are adapted to cool temperate climates and are cultivated between 55�
 
 The crop performs best in well-drained loam to clay loam soils with pH 6.0–8.0. It is relatively salt-tolerant compared to other grain legumes and can be grown in moderately saline conditions where other crops fail.
 
-Optimal growing temperatures range from 15–25°C, with the crop notably sensitive to heat stress during flowering. Temperatures above 27°C cause flower abortion and reduced pod set. Frost tolerance varies by cultivar, with winter types surviving temperatures as low as -10°C.
+Optimal growing temperatures range from 15–25°C, with the crop notably sensitive to [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]] during flowering. Temperatures above 27°C cause flower abortion and reduced pod set. Frost tolerance varies by cultivar, with winter types surviving temperatures as low as -10°C.
 
 ## Nutritional Value
 
@@ -85,7 +85,7 @@ Fava beans are also used as a chop-and-drop mulch crop in food forests. When the
 
 Fava bean flowers are an early-season nectar source for bumblebees and other long-tongued pollinators. Planting fava beans at the edges of food forests supports pollinator populations during a period when few other crops are in bloom.
 
-The crop's deep root system improves soil structure through penetration of compacted layers. After harvest, root residues contribute organic matter and slowly mineralize nitrogen for subsequent crops in rotation.
+The crop's deep root system improves soil structure through penetration of compacted layers. After harvest, root residues contribute [[hamilton-composting-and-organic-matter-management]] and slowly mineralize nitrogen for subsequent crops in rotation.
 
 In traditional Mediterranean agriculture, fava beans are a keystone crop in dryland farming systems where they are rotated with cereals in a two- or three-year cycle. This rotation exploits complementary nutrient demands and reduces pathogen pressure compared to monoculture.
 
@@ -95,7 +95,7 @@ Seeding rate is 150–250 kg/ha for field types (30–40 plants/m²) or 40–60 
 
 Seed depth is 5–8 cm in firm, moist seedbeds. Autumn sowing (October–November) is standard in mild-winter regions, while spring sowing (February–April) suits areas with cold winters.
 
-Harvest timing depends on intended use: green pods are picked 80–100 days after sowing, while mature dry beans require 140–180 days. Dry bean yields range from 2–6 t/ha depending on cultivar, rainfall, and management.
+[[cannabis-harvest-timing-visual-cues]] depends on intended use: green pods are picked 80–100 days after sowing, while mature dry beans require 140–180 days. Dry bean yields range from 2–6 t/ha depending on cultivar, rainfall, and management.
 
 ## Bioactive Compounds and Health Effects
 
@@ -110,5 +110,5 @@ Polyphenolic compounds in fava beans, including catechin, epicatechin, and procy
 - [[trifolium-pratense]]
 - [[vicia-villosa]]
 - phaseolus vulgaris
-- [[glycine-max-soybean-permaculture]]
-- [[arachis-pintoi-entity]]
+- [[glycine-max]]
+- arachis-pintoi-entity

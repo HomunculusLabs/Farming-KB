@@ -18,7 +18,7 @@ type: entity
 Cannabinol (CBN) is a phytocannabinoid found in [[cannabis-indica]], notable primarily as an oxidative degradation product of
 tetrahydrocannabinol (THC). As cannabis ages and is exposed to oxygen,
 light, and heat, THC gradually converts to CBN. This makes CBN content
-a useful indicator of cannabis freshness and storage conditions. CBN
+a useful indicator of cannabis freshness and [[vegetable-storage-conditions-by-temperature-and-humidity]]. CBN
 is one of the five major cannabinoids studied in medical cannabis
 research.
 
@@ -48,7 +48,7 @@ whole-plant constituents are additive or cancel each other out.
 - **Antibacterial:** CBN demonstrated potent activity against
   methicillin-resistant Staphylococcus aureus (MRSA) in the 2008
   multi-center international study, alongside THC, CBD, CBG, and CBC.
-- **Anti-cancer:** CBN and THC (but not CBD) retarded lung cancer cell
+- **Anti-cancer:** CBN and THC (but not CBD) retarded [[psk-breast-lung-cancer-clinical-trials]] cell
   growth and reduced tumor size in laboratory studies conducted in
   Richmond, VA.
 - **Sedative effects:** CBN is often associated with sedative properties
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

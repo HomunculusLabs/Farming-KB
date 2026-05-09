@@ -20,7 +20,7 @@ type: concept
 # DMT Black Hole Effect and the Ineffability of Tryptamine Experience
 
 Terence McKenna coined the phrase black hole effect to describe a
-distinctive epistemological property of the DMT experience: the more
+distinctive epistemological property of the [[mckenna-dmt-experience-and-hyperspace]]: the more
 precisely one attempts to articulate what happens in the tryptamine
 state, the less comprehensible the account becomes to others. This
 paradox is not merely a practical difficulty but appears to be a
@@ -32,7 +32,7 @@ curvature preventing signal escape from a physical black hole.
 Once one knows about the DMT experience, it becomes very hard for
 others to understand what one is talking about. The more one can
 articulate what the experience entails, the less others can comprehend.
-This contrasts with other altered states including LSD, where
+This contrasts with other [[weil-the-natural-mind-altered-states-normalcy]] including LSD, where
 phenomenology has clear analogues in existing cultural traditions.
 McKenna noted that while his LSD experiences showed similarities to
 Mahayana Buddhist iconography, the motifs of DMT were entirely absent
@@ -43,7 +43,7 @@ symbolic vocabulary for communication.
 
 McKenna described arriving in a place defying description, a space
 with a feeling of being underground or somehow insulated and domed,
-resembling what James Joyce in Finnegans Wake called the merry go
+resembling what James Joyce in [[dmt-finnegans-wake-and-the-merry-go-raum]] called the merry go
 raum (from German raum, meaning space). In that space one feels like
 a child, though one has come out somewhere in eternity. The experience
 reminded McKenna of the twenty-fourth fragment of Heraclitus: The Aeon
@@ -63,7 +63,7 @@ approximately fifteen seconds, reaches full intensity within thirty
 seconds, and lasts roughly five minutes. The onset is accompanied by a
 sound like ripping cellophane, an ascending tone, and shifting
 geometric surfaces. At the synaptic level, all available receptor sites
-are occupied as the subject undergoes a mode shift.
+are occupied as the subject undergoes a [[mckenna-dmt-onset-phenomenology-and-mode-shift-experience]].
 
 ## Cognitive Dissonance and the Translinguistic Object
 
@@ -78,7 +78,7 @@ to pour language over the experience, but it sheds language like water
 off a duck's back. This repeated failure generates wonder, astonishment,
 and awe at the brink of terror, the flutter or wow response.
 
-McKenna described the entities as self-transforming machine elves,
+McKenna described the entities as self-transforming [[dmt-self-transforming-machine-elves-mckenna]],
 hyperdimensional beings that bathe one in open-hearted love and present
 as fractal reflections of some previously hidden autonomous part of the
 psyche. They speak, urging the voyager not to be alarmed and to do
@@ -92,7 +92,7 @@ glossolalia. Classical glossolalia produces fluent but semantically
 empty vocalizations, after which speakers ask whether they succeeded.
 The DMT-induced phenomenon is fundamentally different: a brain state
 allowing expression of an assembly language behind language, a primal
-Ursprache described by Robert Graves in The White Goddess or in the
+Ursprache described by Robert Graves in The [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]] or in the
 Kabbalistic Zohar. This is language at a pre-semantic level where
 meaning is conveyed through sound, visual form, and felt quality
 without conventional linguistic mediation.

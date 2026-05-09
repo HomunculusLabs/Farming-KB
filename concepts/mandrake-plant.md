@@ -10,10 +10,10 @@ tags: [plants]
 
 # Mandrake Plant
 
-Mandragora officinarum (mandrake) is a perennial herbaceous plant of the
+[[mandrake-mandragora-officinarum-in-european-folklore]] (mandrake) is a perennial herbaceous plant of the
 Solanaceae (nightshade) family native to the Mediterranean region. Known as the
 "man-like plant" for its anthropomorphic root, mandrake has one of the most
-complex and legendary histories of any psychoactive plant in European culture.
+complex and legendary histories of any psychoactive plant in [[fukuoka-road-european-culture-of-food]].
 It was employed as a stupefacient and was one of the strongest ingredients in
 the brews concocted by witches of the Middle Ages. Its mythology spans classical
 antiquity, medieval folklore, and early modern herbalism.
@@ -46,7 +46,7 @@ Pythagoras had described Mandrake root as an anthropomorph, or tiny human
 being, reflecting the ancient recognition of the root's human-like form.
 
 In the first century A.D., Josephus Flavius wrote that a plant grew in the
-Dead Sea area that glowed red at night and was difficult to approach. It could
+[[allegro-dead-sea-scrolls-and-early-christian-sects]] area that glowed red at night and was difficult to approach. It could
 be tamed if urine and menstrual blood were sprinkled on it. It was physically
 dangerous to pull the plant from the earth, but a dog tied to the root was
 employed to extract it, after which the animal usually died. This account
@@ -59,7 +59,7 @@ but shone like a star at night, and that when being pulled from the ground, the
 plant let out unearthly shrieks that could drive the collectors mad. Eventually,
 only black dogs -- a color denoting evil and death -- were employed to pull the
 root. Early Christians believed the Mandrake root was originally created by God
-as an experiment before he created man in the Garden of Eden.
+as an experiment before he created man in the [[allegro-garden-of-eden-and-delight]].
 
 When Mandrake began to be cultivated in central Europe during the Dark Ages, it
 was thought that the plant would grow only under gallows where urine or semen
@@ -98,7 +98,7 @@ elaborate mythology that developed around it over millennia.
 
 Mandrake was one of the main ingredients of the witches' brews of medieval
 Europe, alongside [[datura-stramonium]]. These plants of the nightshade family were the major
-plants involved in European witchcraft and divination, long exerting a great
+plants involved in [[harner-european-witchcraft-hallucinogens]] and divination, long exerting a great
 cultural and historical influence.
 
 Porta, a contemporary of Galileo, wrote in 1589 that under the effects of a

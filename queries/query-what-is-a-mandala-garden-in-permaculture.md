@@ -1,5 +1,5 @@
 ---
-title: "What Is a Mandala Garden in Permaculture"
+title: "What Is a comparison-mandala-garden-design-vs-keyhole-garden-design in Permaculture"
 created: 2026-04-28
 tags: [query, mandala-garden, permaculture, garden-design, polyculture]
 date: 2026-04-25
@@ -26,9 +26,9 @@ efficient garden designs in permaculture. Adapted from traditional mandala art
 forms, these circular gardens replace the straight rows of conventional gardens
 with flowing, organic curves that follow natural patterns. The design was
 popularized by Linda Woodrow in her book The Permaculture Home Garden and has
-since been widely adopted by permaculture practitioners around the world.
+since been widely adopted by permaculture practitioners [[fungi-around-the-world-species-distribution]].
 
-The [[permaculture-mandala-garden-design]] explains how this access pattern
+The permaculture-mandala-garden-design explains how this access pattern
 dramatically increases the ratio of growing space to path space compared to
 traditional rectangular bed layouts with parallel paths.
 
@@ -39,26 +39,26 @@ vegetables. Inner rings are lower and narrower, suited to herbs, lettuce, and
 compact crops.
 
 The [[comparison-mandala-garden-design-vs-keyhole-garden-design]] examines the
-relationship between mandala gardens and simpler keyhole garden layouts, which
+relationship between mandala gardens and simpler [[comparison-keyhole-garden-vs-raised-bed]] layouts, which
 are essentially individual wedge-shaped beds that can stand alone or be combined
 into larger circular patterns.
 
 Plant diversity is a hallmark of mandala gardens. Each wedge-shaped section
 typically contains a polyculture of complementary plants rather than a single
-crop. This diversity reduces pest pressure, improves nutrient cycling, and
+crop. This diversity reduces pest pressure, improves [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and
 creates a more resilient garden ecosystem.
 
 Common plant combinations include the three sisters (corn, beans, and squash),
 tomatoes with basil and marigolds, and root vegetables with alliums and leafy
-greens. The [[permaculture-designers-manual-keyhole-garden]] describes how keyhole access
+greens. The permaculture-designers-manual-keyhole-garden describes how keyhole access
 designs have been used in various cultural contexts, from traditional African
 gardens to modern permaculture installations.
 
 Building a mandala garden begins with marking the circles on the ground using a
 stake, string, and compass. The beds are then formed by mounding soil, compost,
-and organic matter into raised rings, with paths excavated between them.
+and [[hamilton-composting-and-organic-matter-management]] into raised rings, with paths excavated between them.
 
-Sheet mulching (layering cardboard, compost, and mulch directly on top of grass
+[[comparison-sheet-mulching-vs-chop-and-drop-mulching]] (layering cardboard, compost, and mulch directly on top of grass
 or weeds) is an effective way to create mandala garden beds without tilling.
 
 The [[mandala-garden-design]]
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

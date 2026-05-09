@@ -1,5 +1,5 @@
 ---
-title: "Trichocereus Genus Mescaline Cacti"
+title: "entheogen trichocereus genus mescaline cacti trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern"
 created: 2026-04-28
 tags: [ethnobotany, entheogen, cactaceae, mescaline, phenethylamine]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: concept
 
 The genus Trichocereus (recently reclassified by many taxonomists into
 Echinopsis) comprises approximately 40 species of columnar cacti native to
-the subtropical and temperate regions of the South American Andes. Several
+the subtropical and temperate regions of the [[chiric-caspi-brunfelsia-south-american-hallucinogen]] Andes. Several
 species within this genus contain the phenethylamine alkaloid [[peyote-ceremony]] (Lophophora williamsii), Trichocereus
 cacti are large, fast-growing, tree-like columns that have been cultivated
 for ceremonial use since ancient times. Their ease of propagation and rapid
@@ -39,7 +39,7 @@ approximately 1571 states that Inca medicine men foretold the future using
 these cactus preparations, indicating continuity of use from pre-Columbian
 through colonial times.
 
-In the Andean region, San Pedro is known by several indigenous names including
+In the Andean region, [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] is known by several indigenous names including
 aguacolla, giganton, huachuma, and achuma. The cactus is sometimes planted
 along field margins as a living fence to keep sheep and cattle from grazing,
 reflecting its integration into everyday agricultural life alongside its
@@ -88,5 +88,7 @@ interest for conservation-oriented researchers seeking sustainable
 alternatives to wild harvesting of endangered cactus species.
 
 ## See Also
+
+- [[mescaline-containing-cacti]]
 
 - [[trichocereus-pachanoi]]

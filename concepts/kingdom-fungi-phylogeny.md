@@ -1,5 +1,5 @@
 ---
-title: Kingdom Fungi Phylogeny and Classification
+title: [[fungal-taxonomy-and-kingdom-fungi]] Phylogeny and Classification
 created: 2026-04-28
 tags:
   - mycology
@@ -19,7 +19,7 @@ type: concept
 ## Overview
 
 Fungi are heterotrophic organisms that permeate our environment. With
-few exceptions, fungi have filamentous bodies enclosed by cell walls,
+few exceptions, fungi have filamentous bodies enclosed by [[alpha-1-3-glucan-fungal-pathogen-cell-walls]],
 are nonmotile, and reproduce both sexually and asexually by spores.
 During the last decade, mycologists have made unprecedented progress
 toward producing a phylogenetic classification of fungi; a skeleton
@@ -30,7 +30,7 @@ several independent eukaryotic lineages.
 
 ## True Fungi as a Monophyletic Group
 
-A monophyletic group, exclusive of slime molds and oomycetes, is well
+A monophyletic group, exclusive of [[bloomfield-slime-molds-myxomycetes-plasmodial-protists]] and oomycetes, is well
 defined and supported as "true fungi," a kingdom-level taxon. Members
 Members of Kingdom Fungi are most closely related to animals, not
 plants, possibly through a choanoflagellate-like ancestor. The
@@ -64,7 +64,7 @@ to a separate kingdom.
 
 ## Slime Molds
 
-Slime molds include the Plasmodiophorales (parasitic slime molds),
+[[slime-molds]] include the Plasmodiophorales (parasitic slime molds),
 Myxomycota, Dictyosteliomycota (plasmodial and cellular slime molds),
 and Acrasiomycota. Dictyostelid and myxomycete slime molds may comprise
 a monophyletic group that, together with certain amoebae, is the sister
@@ -83,6 +83,6 @@ are associated with Glomales. Today the crown groups predominate in
 terrestrial environments and make life on Earth possible.
 ## See Also
 
-- [[kingdom-fungi-overview]]
+- kingdom-fungi-overview
 - [[fungal-species-estimates-biodiversity-overview]] for species counts
 - [[fungal-biodiversity-forest-ecosystems]] for analytical approaches

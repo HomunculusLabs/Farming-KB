@@ -1,22 +1,13 @@
 ---
 title: Soil and Humus Management
 created: 2026-04-28
-tags: [[permaculture, soil, compost, humus, fertility]
+tags: [permaculture, soil, compost, humus, fertility]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
 type: concept
 ---
-
-# Soil and Humus Management
-
-Bill Mollison considered soil the foundation of all terrestrial life and
-dedicated substantial attention to soil science and management in *Permaculture:
-A Designers' Manual*. He approached soil not as an inert growing medium but
-as a living ecosystem teeming with bacteria, fungi, protozoa, nematodes,
-arthropods, and earthworms. The goal of permaculture soil management is to
-build and maintain a deep, fertile, humus-rich soil that supports abundant
-plant and animal life. This approach connects to [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] and [[permaculture-design]]
+# Soil and Humus Management Bill Mollison considered soil the foundation of all terrestrial life and dedicated substantial attention to soil science and management in *Permaculture: A Designers' Manual*. He approached soil not as an inert growing medium but as a living ecosystem teeming with bacteria, fungi, protozoa, nematodes, arthropods, and earthworms. The goal of permaculture soil management is to build and maintain a deep, fertile, humus-rich soil that supports abundant plant and animal life. This approach connects to [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] and [[permaculture-design]]
 of recycling nutrients on-site and turning waste into resources.
 
 ## Mulching
@@ -33,7 +24,7 @@ soil organisms as they decompose into humus. [[bill-mollison-permaculture-a-desi
 Mollison argued strongly against excessive tillage, which destroys soil
 structure, kills beneficial fungi, releases carbon dioxide, and accelerates
 erosion. Permaculture favors no-till or minimum tillage approaches that
-maintain soil structure and biological communities. Sheet mulching creates
+maintain soil structure and biological communities. [[comparison-sheet-mulching-vs-chop-and-drop-mulching]] creates
 new garden beds without digging by layering cardboard, compost, and mulch
 directly over grass or weeds. In [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
 systems use pasture cropping, where annual crops are direct-drilled into
@@ -54,12 +45,12 @@ soils.
 
 ## Mycorrhizal Networks
 
-Mollison recognized the importance of mycorrhizal fungi, which form symbiotic
+Mollison recognized the importance of [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], which form symbiotic
 relationships with plant roots, extending the effective root zone and
-facilitating nutrient exchange between plants. In a healthy mycorrhizal
+facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between plants. In a healthy mycorrhizal
 network, trees can share nutrients and water with neighboring plants through
 underground fungal connections. These networks are disrupted by tillage,
-chemical fertilizers, and fungicides. Permaculture design protects and
+[[cervantes-chemical-fertilizers-guide]], and fungicides. [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] protects and
 encourages mycorrhizal networks through minimal soil disturbance, diverse
 plantings, and the addition of fungal food sources such as woody mulches.
 [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] often relies on mycorrhizal connections
@@ -72,7 +63,7 @@ matter and cycles nutrients. Bacteria and fungi decompose organic material.
 Protozoa and nematodes consume bacteria and fungi, releasing plant-available
 nutrients. Microarthropods fragment organic material and stimulate fungal
 growth. Earthworms aerate soil, create channels for water infiltration, and
-produce nutrient-rich castings. Predatory mites and beetles control pest
+produce nutrient-rich castings. [[comparison-predatory-mites-vs-ladybugs-biocontrol]] and beetles control pest
 populations. Mollison's approach to soil management feeds the entire food web
 rather than targeting individual nutrients, creating a self-regulating fertility
 system that becomes more productive and resilient over time.
@@ -95,3 +86,7 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[mollison-designers-rabbit-housing-and-manure-management]]
+- [[permaculture-woodlot-management]]

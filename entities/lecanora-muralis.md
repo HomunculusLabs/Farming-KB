@@ -12,7 +12,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. London: Natural History Museum.
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of North America. Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
   - Wirth, V. (2010). Flechten Baden-Württembergs. Eugen Ulmer Verlag.
   - Nimis, P.L. & Martellos, S. (2008). ITALIC - The Information System on Italian Lichens. University of Trieste.
   - Feurer, T. & Wirth, V. (2000). "Rote Liste der Flechten (Lichenes) Deutschlands." Schriftenreihe für Vegetationskunde, 35, 219-306.
@@ -53,7 +53,7 @@ is frequently sterile in urban populations, reproducing primarily through
 soredia from marginal soralia.
 
 Chemically, the thallus contains **usnic acid** and **zeorin** as major
-secondary metabolites, detectable by standard spot tests (P+ yellow-orange
+[[antifungal-secondary-metabolites-coprophilous-fungi]], detectable by standard spot tests (P+ yellow-orange
 from zeorin, K-).
 
 ## Distribution and Habitat
@@ -80,9 +80,9 @@ urban stone surfaces, often forming extensive mats on walls, tombstones,
 and pavement. It plays a significant role in stone biodeterioration
 through physical penetration of substrate and chemical weathering.
 
-The species contributes to [[lichen-air-quality-biomonitoring-sampling-protocols]] and invertebrates.
+The species contributes to lichen-air-quality-biomonitoring-sampling-protocols and invertebrates.
 
-In air quality biomonitoring, *L. muralis* is classified as highly
+In [[cervantes-air-quality-ventilation]] biomonitoring, *L. muralis* is classified as highly
 pollution-tolerant. Its presence alone indicates little about air quality,
 but its abundance relative to more sensitive species provides a useful
 measure of pollution gradients.
@@ -96,7 +96,7 @@ and assess conservation needs.
 *Lecanora muralis* is widely used as a model organism in lichen
 physiology research due to its ease of cultivation and tolerance of
 laboratory conditions. Studies have investigated its responses to
-desiccation, UV radiation, and heavy metal contamination.
+desiccation, UV radiation, and [[dighton-fungal-biosorption-heavy-metal-remediation]] contamination.
 
 The species has been employed in experiments on extraterrestrial survival
 aboard spacecraft, demonstrating remarkable resistance to vacuum, UV, and
@@ -107,3 +107,5 @@ Conservation status is of least concern globally due to its abundance in
 human-modified environments. However, the species can cause damage to
 historic stone structures, creating tensions between biodiversity
 conservation and heritage preservation.
+## See Also
+- [[lichens]]

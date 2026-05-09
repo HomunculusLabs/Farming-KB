@@ -1,5 +1,5 @@
 ---
-title: Fungal Biomass, Carbon Storage, and Soil Structure in Farming Systems
+title: Fungal Biomass, holmgren-soil-humus-carbon-storage-rebuilding, and Soil Structure in Farming Systems
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -10,14 +10,14 @@ sources: [raw/papers/unknown-biodiversity-of-fungi.md]
 Updated: 2026-04-18
 Source: Biodiversity of Fungi (Hyde et al., eds.), Chapters 11, 13, and related sections
 ## The Scale of Fungal Biomass in Soils
-Fungi are the dominant living organisms in many soils by biomass. In grassland soils, fungi comprise an estimated 78-90% of total decomposer biomass. In a British deciduous forest, fungal mycelia contributed approximately 89% of total living microbial biomass. In the total litter and humus of a British deciduous forest, including woody debris and dead roots, basidiomycetes alone accounted for approximately 60% of total living microbial biomass.
-This immense fungal biomass represents a substantial carbon and nutrient pool in agricultural soils. Changes in fungal biomass -- driven by management practices -- can significantly alter soil carbon storage, nutrient cycling, and soil physical properties.
-See also: [[soil-food-web-nutrient-cycling]], [[soil-food-web]], carbon flows from plant material through decomposer fungi before reaching higher trophic levels. The fungal pathway has several distinctive features:
+Fungi are the dominant [[savory-living-organisms-as-tools]] in many soils by biomass. In grassland soils, fungi comprise an estimated 78-90% of total decomposer biomass. In a British deciduous forest, fungal mycelia contributed approximately 89% of total living microbial biomass. In the total litter and humus of a British deciduous forest, including woody debris and dead roots, basidiomycetes alone accounted for approximately 60% of total living microbial biomass.
+This immense fungal biomass represents a substantial carbon and nutrient pool in agricultural soils. Changes in fungal biomass -- driven by management practices -- can significantly alter soil carbon storage, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and soil physical properties.
+See also: [[soil-food-web-nutrient-cycling]], [[soil-food-web]], carbon flows from plant material through decomposer fungi before reaching higher trophic levels. The fungal pathway has several [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]]:
 1. **High carbon use efficiency**: Fungi convert a larger proportion of consumed carbon into biomass (higher CUE) compared to bacteria. Typical fungal CUE ranges from 30-60%, compared to 10-30% for bacteria.
-2. **Carbon sequestration**: Fungal biomass and necromass contribute to stable soil organic matter. Fungal cell walls contain chitin and melanin that are resistant to decomposition.
+2. **[[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]**: Fungal biomass and necromass contribute to stable soil organic matter. Fungal cell walls contain chitin and melanin that are resistant to decomposition.
 3. **Recalcitrant metabolites**: Fungi produce glomalin (from AMF), melanin, and other recalcitrant compounds that persist in soil for years to decades.
 4. **Hyphal turnover**: As fungal hyphae grow and die, they continuously deposit organic material throughout the soil matrix, not just at the surface.
-See also: [[fungal-carbon-use-efficiency]], [[humus-formation-and-soil-organic-matter]], [[fungal-glomalin-and-soil-carbon]]: Glomalin is a glycoprotein produced by arbuscular [[fungal-soil-aggregate-formation-glomalin]], [[fungal-soil-aggregation]], [[fungal-microaggregate-formation-and-soil-stability]]
+See also: fungal-carbon-use-efficiency, [[humus-formation-and-soil-organic-matter]], [[fungal-glomalin-and-soil-carbon]]: Glomalin is a glycoprotein produced by arbuscular fungal-soil-aggregate-formation-glomalin, fungal-soil-aggregation, [[fungal-microaggregate-formation-and-soil-stability]]
 ### Aggregate Stability
 Fungal-dominated soils typically have more stable aggregates than bacterial-dominated soils because:
 - Fungal hyphae are more resistant to degradation than bacterial capsules
@@ -41,6 +41,8 @@ See also: [[compost-biology-organisms]]
 ### Cover Cropping
 ## See Also
 - [[crystal-structure-and-crystal-defects]]
+- [[fungi-dominant-soil-biomass-ecosystem-engineers]]
+
 ## Practical Considerations
 
 When working with Fungal Biomass, Carbon Storage, and Soil Structure in Farming Systems, several practical factors should be
@@ -57,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

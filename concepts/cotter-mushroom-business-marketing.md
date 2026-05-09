@@ -1,14 +1,12 @@
 ---
-title: Mushroom Business and Marketing
+title: cotter mushroom business marketing and Marketing
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
-tags: [[mycology, business, marketing, entrepreneurship]
+tags: [mycology, business, marketing, entrepreneurship]
 sources: [cotter-organic-mushroom-farming-mycoremediation]
 ---
-# Mushroom Business and Marketing
-
-Starting a [[mycoremediation]]," Chapter 15.
+# Mushroom Business and Marketing Starting a [[mycoremediation]]," Chapter 15.
 
 ## Starting a Mushroom Farm
 
@@ -16,14 +14,14 @@ Starting a [[mycoremediation]]," Chapter 15.
 
 - Begin with species you can reliably produce; expand variety as skills improve
 - Start small and scale gradually; mushrooms have a steep learning curve
-- Understand the full production cycle: [[mushroom-spawn]] inoculation rate: 5-10% by weight of substrate
+- Understand the full production cycle: mushroom-spawn inoculation rate: 5-10% by weight of substrate
 - Shiitake spawn: ~100 plugs per log for 4-inch diameter logs
 - Producing your own spawn significantly reduces costs but requires lab equipment and skills
 
 ### Substrate and Materials
 
-- Wheat straw: $100-200 per ton (sufficient for thousands of fruiting blocks)
-- Hardwood sawdust/wood chips: varies; often free from arborists or sawmills
+- [[non-sterilized-wheat-straw-oyster-cultivation]]: $100-200 per ton (sufficient for thousands of fruiting blocks)
+- Hardwood sawdust/[[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]]: varies; often free from arborists or sawmills
 - Supplements (wheat bran, cotton seed hulls): $300-500 per ton
 - Containers (bags, buckets, logs): varies by method
 - Growing medium: straw bags cost $2-5 in materials each
@@ -32,7 +30,7 @@ Starting a [[mycoremediation]]," Chapter 15.
 
 - Home-scale pasteurization setup: $200-$1,500
 - [[mycorrhizal-agricultural-practices]] (GAP) certification opens larger market access
-- [[mushroom-business-marketing-basics]]
+- mushroom-business-marketing-basics
 ## Practical Applications
 
 Mushroom Business and Marketing has a range of practical applications that make it relevant to
@@ -110,4 +108,5 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[mushroom-training-marketing-business]]

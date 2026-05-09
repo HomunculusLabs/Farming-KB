@@ -1,5 +1,5 @@
 ---
-title: "Hofmann and Ernst Junger: LSD, Literature, and Philosophical Dialogue"
+title: "Hofmann and hofmann ernst junger lsd literary dialogue: LSD, Literature, and Philosophical Dialogue"
 created: 2026-04-28
 tags: [lsd, hofmann, junger, literature, philosophy, psychedelic-history]
 date: 2026-04-25
@@ -17,7 +17,7 @@ Albert Hofmann. In the light of Junger's perspective, which
 stereoscopically comprises the surfaces and depths of things, the world
 Hofmann knew took on a new, translucent splendor. This enchantment began
 long before the discovery of LSD and before Hofmann came into personal
-contact with the author in connection with hallucinogenic drugs.
+contact with the author in connection with [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]].
 
 Hofmann's enchantment began with Junger's book "Das Abenteuerliche Herz"
 (The Adventurous Heart). Again and again over forty years he returned to
@@ -57,7 +57,7 @@ with nets. He locked himself up in his studio for trips into the dreamy
 regions. He said that all countries and unknown islands were woven into
 the tapestry. The drugs served him as keys to entry into the chambers
 and caves of this world." Peri's library contained the great inspirers
-of the nineteenth century: De Quincey, E.T.A. Hoffmann, Poe, and
+of the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]: De Quincey, E.T.A. Hoffmann, Poe, and
 Baudelaire, alongside ancient herbals, necromancy texts, and
 demonological works. The library also held "a heavy old volume by the
 Heidelberg psychologists on the extract of mescal buttons, and a paper on
@@ -73,7 +73,7 @@ artistic person in a nonmedical milieu.
 
 Professor Heribert Konzett, physician and pharmacologist, was invited for
 medical support. The trip took place at 10:00 in the morning in the
-living room of Hofmann's house in Bottmingen. A low dose of 0.05 mg was
+living room of Hofmann's house in Bottmingen. A [[ultra-low-dose-brassinosteroid-response-psilocybe-cubensis]] of 0.05 mg was
 chosen as a precaution.
 
 ## The Experience

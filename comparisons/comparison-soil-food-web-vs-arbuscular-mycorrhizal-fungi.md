@@ -1,5 +1,5 @@
 ---
-title: "Soil Food Web vs Arbuscular Mycorrhizal Fungi"
+title: "Soil Food Web vs comparison soil food web vs arbuscular mycorrhizal fungi Fungi"
 created: 2026-04-28
 tags: [comparison, soil-science, mycology, ecology]
 date: 2026-04-25
@@ -25,7 +25,7 @@ essential for understanding soil health, but they operate at different scales.
 Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on
 Earth, associating with 80-90% of terrestrial plant species. Belonging to
 the phylum Glomeromycota, AMF form intracellular structures called arbuscules
-within root cortical cells where nutrient exchange occurs. They are essential
+within root cortical cells where [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] occurs. They are essential
 for plant nutrition, soil health, and ecosystem function across virtually
 all terrestrial environments.
 
@@ -39,7 +39,7 @@ produce glomalin, a glycoprotein that binds soil particles into stable
 aggregates, improving soil structure and water-holding capacity.
 
 AMF are promoted by low to moderate soil phosphorus, minimal tillage, cover
-crops, organic matter, and diverse rotations. They are suppressed by high
+crops, [[hamilton-composting-and-organic-matter-management]], and diverse rotations. They are suppressed by high
 phosphorus fertilizer, conventional tillage, fallow periods, and fungicides.
 Notable non-host families include Brassicaceae (cabbage, broccoli) and
 Chenopodiaceae (spinach, beet), which do not form AM associations and
@@ -49,7 +49,7 @@ therefore cannot benefit from this symbiotic relationship.
 | Aspect | Soil Food Web | Arbuscular Mycorrhizal Fungi |
 |--------|--------------|------------------------------|
 | Scope | Entire soil ecosystem | One symbiotic fungal group |
-| Focus | Trophic interactions among all organisms | Plant-fungal nutrient exchange |
+| Focus | [[dighton-fungal-trophic-interactions-soil-food-webs]] among all organisms | Plant-fungal nutrient exchange |
 | Organisms | Bacteria, fungi, protozoa, nematodes | Glomeromycota fungi only |
 | Plant relationship | Indirect (decomposition, cycling) | Direct symbiosis with roots |
 | Management | Build overall biology | Create conditions for colonization |
@@ -68,7 +68,7 @@ multiple stressors simultaneously rather than targeting one issue.
 ## When to Focus on AMF
 Targeted AMF management is appropriate when specific crops are known to be
 mycorrhizal-dependent (onions, garlic, tomatoes, peppers, corn, beans), when
-phosphorus availability is limiting, or when drought tolerance is a priority.
+[[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] is limiting, or when [[dighton-fungal-drought-tolerance-plant-water-relations]] is a priority.
 It is also valuable in no-till systems where preserving existing mycorrhizal
 networks is a primary goal and any soil disturbance would destroy years of
 network development. AMF-focused management is simpler to implement since it

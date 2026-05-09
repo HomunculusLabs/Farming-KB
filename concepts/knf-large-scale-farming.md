@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-While Korean Natural Farming (KNF) is often associated with small-scale operations, its principles are fully applicable to large-scale farming. Dr. Cho demonstrated that farming with [[knf-indigenous-microorganism-culture]] are collected locally and multiplied through a staged process:
+While Korean [[comparison-natural-farming-vs-permaculture]] (KNF) is often associated with small-scale operations, its principles are fully applicable to large-scale farming. Dr. Cho demonstrated that farming with [[knf-indigenous-microorganism-culture]] are collected locally and multiplied through a staged process:
 
 - **IMO-1:** Collected on steamed rice in the field (small scale)
 - **IMO-2:** IMO-1 mixed with equal weight of jaggery/brown sugar
@@ -46,7 +46,7 @@ This solution is applied three times: before broadcast of seeds, during the midd
 
 The [[knf-chicken-house-design]] can be replicated for large flocks:
 
-- Multiple housing units follow the same design principles
+- Multiple housing units follow the same [[holmgren-permaculture-twelve-design-principles-framework]]
 - Soil floors with IMO-treated bedding work at any size
 - The PVC water pipe system scales linearly
 - Feed production from local materials can be organized at community scale
@@ -56,22 +56,22 @@ The [[knf-chicken-house-design]] can be replicated for large flocks:
 
 KNF is compatible with appropriate mechanization:
 
-- Sprayers for liquid input application
+- Sprayers for liquid [[knf-input-application-timing]]
 - Mixing machines for FMC production
 - Spreaders for IMO-4 and FMC field application
 - Irrigation systems for dilute liquid input delivery
 - Simple equipment for harvesting and processing plant materials for input production
 
-What KNF does NOT require is the heavy machinery associated with conventional tillage. In KNF, earthworms and soil organisms replace mechanical tillers, and grass mulching replaces mechanical weed control. This actually reduces capital requirements for large farms.
+What KNF does NOT require is the heavy machinery associated with conventional tillage. In KNF, earthworms and soil organisms replace mechanical tillers, and grass mulching replaces mechanical [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]. This actually reduces capital requirements for large farms.
 
 ## Crop Spacing and Density
 
 The book notes that KNF emphasizes "planting with proper distance in crops and plants" rather than the conventional approach of "planting more crops in a limited area." This yields more because it emphasizes "formless nutrients" such as sunlight and air. At scale, this means:
 
-- Proper spacing improves air circulation and reduces disease pressure
+- Proper spacing improves [[stamets-growing-room-air-circulation-co2-management]] and reduces disease pressure
 - Better light penetration increases photosynthesis
 - Individual plants reach their full potential rather than competing excessively
-- The Nutritive Cycle Theory ensures each plant gets the right nutrients at the right time
+- The [[cho-nutritive-cycle-theory]] Theory ensures each plant gets the right nutrients at the right time
 
 ## Community-Scale KNF
 

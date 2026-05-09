@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -31,7 +32,7 @@ effectiveness. Aerosol forms contain synergists.
 
 ### What It Controls
 A broad-spectrum contact pesticide, pyrethrum kills aphids, whiteflies,
-spider mites, and insects including beneficials. It is very effective to
+[[cervantes-spider-mites-identification-control]], and insects including beneficials. It is very effective to
 control flying insects, but they must receive a killing knockdown dose, or
 they may revive and buzz off.
 
@@ -125,12 +126,14 @@ and seedlings are at least a month old before spraying.
    climate control)
 2. Manual Removal (fingers, sponges)
 3. Organic Sprays (pyrethrum, neem, insecticidal soap)
-4. Natural Predators (beneficial insects)
+4. Natural Predators ([[comparison-beneficial-insects-guide-vs-integrated-pest-management]])
 5. Chemicals (last resort only)
 
 ## See Also
 
-- [[cervantes-pest-disease]] for general pest management
-- [[cervantes-bacillus-thuringiensis-bt-control]] for biological pest
+- [[cervantes-chemical-fungicides-insecticides]]
+
+- [[cervantes-pest-disease]] for general [[cannabis-pest-management-guide]]
+- [[cervantes-bacillus-thuringiensis-bt-control]] for [[cervantes-biological-pest-control-predators]]
   control
 - [[spider-mites-cannabis]] for specific pest information

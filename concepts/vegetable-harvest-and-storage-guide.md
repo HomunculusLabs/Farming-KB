@@ -1,5 +1,5 @@
 ---
-title: Vegetable Harvest and Storage Guide
+title: Vegetable vegetable harvest and storage guide Guide
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -13,7 +13,7 @@ sources:
 Proper harvesting at the right stage of maturity ensures high-quality,
 nutritious vegetables from the home garden and prevents waste. Each crop has
 optimal harvest indicators and specific storage requirements depending on its
-category and sensitivity to temperature and humidity.
+category and sensitivity to [[greg-green-temperature-and-humidity-control]].
 
 ## General Harvest Principles
 
@@ -24,7 +24,7 @@ sharp tools to minimize damage and reduce the risk of introducing pathogens.
 Handle all produce gently to avoid bruising, which accelerates spoilage.
 
 Check the garden frequently during peak harvest periods. Many vegetables,
-especially beans, summer squash, and sweet corn, pass their prime quickly
+especially beans, summer squash, and [[growing-sweet-corn-organically]], pass their prime quickly
 and become tough or starchy if left too long. See [[root-vegetable-storage-guide]] and [[solomon-growing-root-crops-guide]].
 
 Parsnips develop their sweetest flavor after exposure to cold in late fall.

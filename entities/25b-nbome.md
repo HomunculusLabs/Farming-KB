@@ -123,8 +123,8 @@ overdose risk.
 
 ## Legal Status
 
-- **United States:** Schedule I (permanent, 2016).
-- **UK:** Class A (Psychoactive Substances Act, 2016).
+- **[[dmt-containing-plants-united-states-halpern]]:** Schedule I (permanent, 2016).
+- **UK:** Class A (Psychoactive [[controlled-substances-act-and-psychedelic-research]], 2016).
 - **Australia:** Schedule 9 (prohibited).
 - **EU:** Controlled under member state NPS legislation.
 - **Japan:** Designated substance under Pharmaceutical Affairs Law.

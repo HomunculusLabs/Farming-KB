@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [clothing, culture, farming, tradition, philosophy]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
@@ -31,13 +32,13 @@ The farmer works in the service of God; his is an earnest
 struggle with the scythe and hoe. Both in theory and in practice, the samurai holding his sword and the farmer
 swinging his scythe must be identical in spirit and
 attitude. Fukuoka demonstrated the correct use of the scythe
-and hoe at the Zen Center in California and at farms in
+and hoe at the [[fukuoka-green-gulch-zen-center-desert-reclamation]] in California and at farms in
 Italy.
 
 The farmer's work clothes have to be the proper dress
 before God. In this sense, the doi, which blends features
 of the haori and hakama, has a clean style that braces the
-spirit. See also [[fungal-decomposition-of-wood]],
+spirit. See also fungal-decomposition-of-wood,
 earth, and paper, wear the doi, and drink tea. The revival
 of a Japanese people held in high esteem by the world
 begins with the geta at Fukuoka's feet; it begins with a
@@ -62,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +105,4 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+- [[decomposition]]

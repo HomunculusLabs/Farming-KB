@@ -1,5 +1,5 @@
 ---
-title: Intuitive Reasoning Beyond Induction and Deduction in Agricultural Science
+title: fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research Beyond Induction and Deduction in Agricultural Science
 created: 2026-04-28
 tags:
   - fukuoka
@@ -22,7 +22,7 @@ type: concept
 
 ## Overview
 
-Masanobu Fukuoka proposed a third way of knowing in agricultural science that transcends both inductive and deductive reasoning. He called this "intuitive reasoning," a mode of understanding that arises from direct perception of nature's essence rather than from the accumulation of data (induction) or logical derivation from premises (deduction). This epistemological framework underpins his entire critique of scientific agriculture and his alternative approach to natural farming.
+Masanobu Fukuoka proposed a third way of knowing in agricultural science that transcends both inductive and [[fukuoka-textdoc-critique-inductive-deductive-reasoning-agriculture]]. He called this "intuitive reasoning," a mode of understanding that arises from direct perception of nature's essence rather than from the accumulation of data (induction) or logical derivation from premises (deduction). This epistemological framework underpins his entire [[fukuoka-critique-of-scientific-agriculture]] agriculture and his alternative approach to [[comparison-natural-farming-vs-permaculture]].
 
 ## The Inductive Method in Agricultural Science
 
@@ -67,7 +67,7 @@ Fukuoka illustrated the difference between scientific and intuitive approaches u
 
 **Scientific (inductive) approach**: Study all aspects of rice production. Run many different tests on fertilizers, varieties, planting dates, water management, and pest control. Gradually develop recommendations based on accumulated data. No clear endpoint guides the research; it proceeds wherever the results lead.
 
-**Natural farming (intuitive) approach**: Begin with an ideal vision of rice cultivation in which the rice grows strong and healthy without human intervention. Infer the environmental conditions under which such a situation could arise: fertile soil, natural predator-prey balance, appropriate water conditions. Work out a method (direct seeding, clover ground cover, no tillage) that creates those conditions.
+**Natural farming (intuitive) approach**: Begin with an ideal vision of rice cultivation in which the rice grows strong and healthy without human intervention. Infer the environmental conditions under which such a situation could arise: fertile soil, natural predator-prey balance, appropriate water conditions. Work out a method ([[comparison-seed-starting-indoors-vs-direct-seeding-techniques]], clover ground cover, no tillage) that creates those conditions.
 
 The intuitive approach starts from the end and works backward. The inductive approach starts from the beginning and works forward, without knowing where it is going.
 
@@ -90,7 +90,7 @@ Fukuoka's analysis suggests fundamental limitations in how agricultural research
 
 ## Connection to Buddhist Epistemology
 
-Fukuoka grounded intuitive reasoning in Buddhist philosophy, specifically the concept of non-discriminating knowledge. Inductive and deductive reasoning both operate within the realm of discriminating knowledge, which divides the world into subject and object, cause and effect, good and bad. Intuitive reasoning transcends this dualistic framework by perceiving nature as an undivided whole.
+Fukuoka grounded intuitive reasoning in Buddhist philosophy, specifically the concept of non-discriminating knowledge. Inductive and deductive reasoning both operate within the realm of discriminating knowledge, which divides the world into subject and object, [[fukuoka-textdoc-no-cause-and-effect-in-nature]], good and bad. Intuitive reasoning transcends this dualistic framework by perceiving nature as an undivided whole.
 
 This does not mean abandoning rationality. It means recognizing that rational analysis operates within boundaries that intuitive perception can see beyond. The farmer who understands nature intuitively does not need to analyze every variable because he perceives the pattern that connects them.
 
@@ -114,6 +114,9 @@ This does not diminish the value of scientific research, but it does reposition 
 
 ## See Also
 
-- [[fukuoka-textdoc-high-yield-theory-photosynthesis-critique]]
+- fukuoka-textdoc-high-yield-theory-photosynthesis-critique
 - [[fukuoka-textdoc-mahayana-hinayana-scientific-farming-ways]]
 - [[fukuoka-textdoc-hotel-building-model-harvest-yields]]
+- [[fukuoka-textdoc-intuitive-reasoning-vs-inductive-experimentation]]
+- [[water-management]]
+- [[masanobu-fukuoka]]

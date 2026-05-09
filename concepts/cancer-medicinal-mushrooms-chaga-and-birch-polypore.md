@@ -1,5 +1,5 @@
 ---
-title: "Chaga (Inonotus obliquus) and Birch Polypore (Piptoporus betulinus)"
+title: "Chaga (chaga-inonotus-obliquus-medicinal-profile) and Birch Polypore (Piptoporus betulinus)"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -68,18 +68,18 @@ Modern research has confirmed notable bioactivity:
 
 The broad-spectrum antibiotic activity of P. betulinus is particularly notable
 given its ancient use as a wound treatment. The Iceman is believed to have
-carried these mushrooms for medicinal purposes, suggesting an intuitive
+carried these [[query-what-are-the-best-mushrooms-for-medicinal-use]] purposes, suggesting an intuitive
 understanding of their healing properties in prehistoric times.
 
 ## The Polyporales: An Under-Investigated Order
 
-The Polyporales order contains many of the most important medicinal mushrooms
+The Polyporales order contains many of the most important [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]
 discussed in the source document. The bracket-like or shelf-like growth form
 is characteristic. Key medicinal polypores include:
 
-  - Ganoderma lucidum (Reishi) -- >100 polysaccharides, >100 triterpenoids,
+  - [[stamets-reishi-ganoderma-lucidum-cultivation]] (Reishi) -- >100 polysaccharides, >100 triterpenoids,
     >$1.6 billion annual market
-  - Trametes versicolor (Turkey Tail) -- PSK and PSP, approved drugs in
+  - [[staycare-trametes-versicolor-bioremediation-applications]] (Turkey Tail) -- PSK and PSP, approved drugs in
     Japan and China
   - Fomes fomentarius -- beta-glucan identified from fruiting body
   - Fomitopsis pinicola -- multiple beta-glucan fractions identified
@@ -91,7 +91,7 @@ is characteristic. Key medicinal polypores include:
 The source document emphasises that the Basidiomycetes have been
 insufficiently investigated and that the broad range of structural types
 of antibiotics they produce suggests they are a promising source of new
-bioactive compounds (Anke, 1989). Both Chaga and Birch Polypore exemplify
+[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] (Anke, 1989). Both Chaga and Birch Polypore exemplify
 this untapped potential.
 
 ## Cancer Chemoprevention Through Dietary Mushrooms

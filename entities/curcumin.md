@@ -29,9 +29,9 @@ sources:
 # Curcumin
 
 Curcumin is the principal bioactive curcuminoid of turmeric (*[[permaculture-design]], turmeric serves multiple functions:
-edible root crop, natural dye, pest deterrent (its essential oil repels certain soil nematodes), and ground
+edible root crop, natural dye, pest deterrent (its [[permaculture-designers-manual-essential-oil-plants]] repels certain soil nematodes), and ground
 cover that suppresses weeds during establishment. It integrates well with leguminous support species and
-can be intercropped with ginger, cardamom, and black pepper (the latter providing piperine for the
+can be intercropped with ginger, cardamom, and [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]] (the latter providing piperine for the
 curcumin bioavailability synergy).
 ## See Also
 
@@ -114,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

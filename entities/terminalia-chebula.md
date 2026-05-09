@@ -27,12 +27,12 @@ medicinal plants in Ayurveda, where it is a constituent of the classical
 formulation Triphala (alongside T. bellirica and Emblica officinalis).
 
 The dried ripe fruits of T. chebula have been used for over 2,500 years in
-traditional medicine systems across South and Southeast Asia for treating
+traditional medicine systems across South and [[psilocybe-southeast-asia-pacific]] for treating
 digestive disorders, wound healing, and as a general rejuvenative tonic.
 
 Modern research has validated many traditional uses, identifying a rich
-profile of tannins, phenolic acids, and other bioactive compounds with
-antioxidant, anti-inflammatory, and antimicrobial properties.
+profile of tannins, phenolic acids, and other [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with
+antioxidant, anti-inflammatory, and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
 
 ## Taxonomy
 
@@ -54,7 +54,7 @@ and Emblica officinalis (amalaki).
 In Tibetan medicine, it is used as a component of many multi-herb formulas.
 In Unani medicine, the fruit is used as a digestive and astringent.
 
-Traditional preparation methods include powdering the dried fruit, preparing
+[[kava-traditional-preparation-ceremonial-context]] methods include powdering the dried fruit, preparing
 decoctions, or fermenting the fruit (known as "abhyanga haritaki").
 
 ## Permaculture Applications
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

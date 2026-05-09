@@ -9,7 +9,7 @@ sources:
 ---
 # JADAM SESE Philosophy
 
-SESE is the foundational design principle of the JADAM farming system, standing for Simple, Easy, Scientific, and Effective. Youngsang Cho created this framework as the benchmark for evaluating whether any agricultural technology truly serves farmers.
+SESE is the foundational design principle of the [[query-what-is-jadam-farming-and-how-does-it-work]] system, standing for Simple, Easy, Scientific, and Effective. Youngsang Cho created this framework as the benchmark for evaluating whether any agricultural technology truly serves farmers.
 
 ## The Four Pillars
 
@@ -22,9 +22,9 @@ JADAM has striven to create an agricultural system based on SESE because only wh
 
 ## Why SESE Was Created
 
-Modern organic farming has evolved into a system where farmers must "buy expensive things from afar instead of valuing what is near and cheap." Manufacturers, distributors, and retailers of farm inputs shaped organic farming into its current high-cost form. Their profit-seeking motivated the development of agricultural technology.
+Modern [[coleman-deep-organic-farming-philosophy]] has evolved into a system where farmers must "buy expensive things from afar instead of valuing what is near and cheap." Manufacturers, distributors, and retailers of farm inputs shaped organic farming into its current high-cost form. Their profit-seeking motivated the development of agricultural technology.
 
-Cho observes that technology becomes more and more complicated not because it truly needs to be, but to scare farmers into dependence on experts. If farming appears very difficult, farmers give up trying to understand it and instead rely on microorganism product producers, liquid fertilizer factories, and pesticide companies who claim the position of true experts.
+Cho observes that technology becomes more and more complicated not because it truly needs to be, but to scare farmers into dependence on experts. If farming appears very difficult, farmers give up trying to understand it and instead rely on microorganism product producers, [[jadam-liquid-fertilizer-nutritional-perspective]] factories, and pesticide companies who claim the position of true experts.
 
 ## The Religious Parallel
 
@@ -44,7 +44,7 @@ The SESE philosophy explicitly challenges the capitalistic structure of modern a
 
 - Corporations have persisted in seeking profit for centuries
 - Input markets thrive while farmers lose their knowledge
-- Farming costs keep rising in both conventional and organic systems
+- Farming costs keep rising in both [[jadam-conventional-and-organic-pesticide-integration]] systems
 - This is not coincidence -- it is structural
 
 JADAM seeks to destroy this fundamental structure by making farming technology that farmers themselves can create and control. The [[jadam-nature-as-teacher-philosophy]] and jadam sese philosophy for deeper philosophical foundations.
@@ -53,7 +53,7 @@ JADAM seeks to destroy this fundamental structure by making farming technology t
 
 SESE holds the key to high-quality and high-yield production. In practice this means:
 
-- [[jadam-liquid-fertilizer]] can be made from crop residues and leaf mold
+- [[jadam-liquid-fertilizer]] can be made from crop residues and [[comparison-leaf-mold-composting-vs-hot-composting-method]]
 - [[jadam-herb-solution-jhs]] uses locally available herbs
 - All inputs cost a fraction of commercial organic alternatives
 
@@ -63,7 +63,7 @@ Beyond guiding JADAM's own methods, SESE serves as an evaluation framework for a
 
 ## Comparison with Other Systems
 
-- Knf Vs Jadam Vs Em -- JADAM differs from Korean Natural Farming and EM by emphasizing zero reliance on purchased products
+- Knf Vs Jadam Vs Em -- JADAM differs from Korean [[comparison-natural-farming-vs-permaculture]] and EM by emphasizing zero reliance on purchased products
 - [[fukuoka-do-nothing-farming-philosophy]] -- Fukuoka's "do-nothing" approach shares SESE's simplicity but arrives from a different philosophical starting point
 
 ## Related Concepts
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

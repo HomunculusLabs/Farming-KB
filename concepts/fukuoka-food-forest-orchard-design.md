@@ -33,7 +33,7 @@ Fukuoka experimented with thirty different species of green manure plants before
 
 ### Deep Soil Improvement
 
-For deeper soil improvement, Fukuoka initially tried burying organic material such as partially decayed tree trunks and branches collected from surrounding woodlands. He eventually abandoned this approach as requiring too much effort for too little return. Instead, he planted nitrogen-fixing acacia trees among the citrus. The fast-growing acacias loosened the deep soil with their root systems. After 8-9 years, Fukuoka cut the acacias for firewood and building material, leaving the roots to decompose and enrich the deeper soil layers. As he removed acacias, he planted new ones in different locations, ensuring continuous soil-building activity throughout the orchard.
+For deeper soil improvement, Fukuoka initially tried burying organic material such as partially decayed tree trunks and branches collected from surrounding woodlands. He eventually abandoned this approach as requiring too much effort for too little return. Instead, he planted nitrogen-fixing acacia trees among the citrus. The fast-growing acacias loosened the deep soil with their root systems. After 8-9 years, Fukuoka cut the acacias for firewood and [[fungal-building-material-deterioration]], leaving the roots to decompose and enrich the deeper soil layers. As he removed acacias, he planted new ones in different locations, ensuring continuous soil-building activity throughout the orchard.
 
 ### Canopy and Diversity
 
@@ -47,13 +47,13 @@ Over time, Fukuoka added trees and shrubs of many types at different canopy leve
 
 ### Animal Integration
 
-The orchard included chickens, geese, a few goats, rabbits, and bee hives. The chickens and geese ranged freely through the orchard, eating insects, scratching the soil surface (providing light cultivation), and contributing manure. The bees provided pollination services and honey. This integration of animals created additional nutrient cycling and pest control pathways.
+The orchard included chickens, geese, a few goats, rabbits, and bee hives. The chickens and geese ranged freely through the orchard, eating insects, scratching the soil surface (providing light cultivation), and contributing manure. The bees provided pollination services and honey. This integration of animals created additional [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and pest control pathways.
 
 ## The Mature Food Forest
 
 By the time Larry Korn arrived at the farm in 1973, the orchard had reached a mature state of diversity and productivity. Korn described "trees of all types and sizes, shrubs, vines, vegetables growing in the spaces between the trees, and chickens running everywhere." The system produced nearly 200,000 pounds of mandarin oranges annually for shipment to Tokyo, along with a wide variety of other fruits, nuts, vegetables, and animal products.
 
-Shiitake mushrooms grew on decaying logs arranged in shady areas beneath the trees. Medicinal plants grew throughout the orchard. Vegetables were grown in a "semi-wild" manner, scattered among the trees and allowed to self-seed and naturalize.
+[[query-how-to-grow-shiitake-mushrooms-on-logs]] grew on decaying logs arranged in shady areas beneath the trees. Medicinal plants grew throughout the orchard. Vegetables were grown in a "semi-wild" manner, scattered among the trees and allowed to self-seed and naturalize.
 
 ## Key Design Principles
 
@@ -69,11 +69,11 @@ Plants that landed in appropriate locations thrived; those that didn't, died. Ov
 
 ### Minimal Intervention
 
-The mature orchard required very little ongoing work. Fukuoka scattered seeds, spread straw, cut the ground cover back once each summer (leaving the cuttings in place), replaced trees and shrubs from time to time, and harvested. The system was designed to be self-maintaining: the clover fixed nitrogen and suppressed weeds, the mulch retained moisture and added organic matter, the diverse plant community supported beneficial insects that controlled pests, and the animals provided additional nutrient cycling and pest control.
+The mature orchard required very little ongoing work. Fukuoka scattered seeds, spread straw, cut the ground cover back once each summer (leaving the cuttings in place), replaced trees and shrubs from time to time, and harvested. The system was designed to be self-maintaining: the clover fixed nitrogen and suppressed weeds, the mulch retained moisture and added organic matter, the diverse plant community supported [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] that controlled pests, and the animals provided additional nutrient cycling and pest control.
 
 ### Edge Effect Maximization
 
-The orchard design maximized edge effects — the productive interfaces between different plant communities. In a natural ecosystem, edges (where forest meets meadow, water meets land, etc.) are typically the most productive and biodiverse zones. By creating many small patches of different plant types rather than large homogeneous blocks, Fukuoka maximized the total edge within the orchard.
+The orchard design maximized edge effects — the productive interfaces between different plant communities. In a [[fukuoka-natural-ecosystem-food-chain-interconnection]], edges (where forest meets meadow, water meets land, etc.) are typically the most productive and biodiverse zones. By creating many small patches of different plant types rather than large homogeneous blocks, Fukuoka maximized the total edge within the orchard.
 
 ## Lessons for Modern Food Forest Design
 
@@ -91,7 +91,7 @@ Fukuoka's orchard design has limitations that should be acknowledged. The system
 
 ## Natural Pest Management in the Orchard
 
-Fukuoka's orchard demonstrates a key principle of natural farming: that pest problems are largely created by agricultural practices that disrupt ecological balance. In a diverse, healthy ecosystem, pest populations are naturally controlled by predators, parasites, and competition.
+Fukuoka's orchard demonstrates a key principle of natural farming: that pest problems are largely created by agricultural practices that disrupt [[fukuoka-ecological-balance-principles]]. In a diverse, healthy ecosystem, pest populations are naturally controlled by predators, parasites, and competition.
 
 In the early years of the orchard's transition, when the ecosystem was still simplified and unbalanced, Fukuoka had to use natural insecticides. He grew chrysanthemum plants and extracted pyrethrum, a natural insecticide, to control aphids and caterpillars on his vegetables. However, as the soil improved and the diversity of plants and habitats increased, natural pest control established itself. Eventually, even the pyrethrum became unnecessary.
 
@@ -104,3 +104,7 @@ The orchard relied entirely on natural rainfall and a spring for its water needs
 Fukuoka noted that the soil in his orchard became progressively better at retaining water over time. As organic matter increased and soil structure improved through root activity and decomposition, the soil developed a sponge-like quality that absorbed and retained rainfall rather than allowing it to run off. This natural water management capacity is one of the most valuable but often overlooked benefits of [[masanobu-fukuoka-natural-farming-philosophy]]
 - [[fukuoka-direct-seeding-rice-barley-cultivation]]
 - fukuoka clay seed pellets and revegetation
+
+## See Also
+
+- [[faires-food-forest-design]]

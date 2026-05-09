@@ -14,13 +14,13 @@ sources:
   - Leopold, D.J. (2005). "Native Plants of the Northeast." Timber Press.
   - Cullina, W. (2002). "Native Trees, Shrubs, and Vines." New England Wild Flower Society.
   - USDA NRCS (2024). "Lindera benzoin Plant Guide." USDA Natural Resources Conservation Service.
-  - Moerman, D.E. (1998). "Native American Ethnobotany." Timber Press.
+  - Moerman, D.E. (1998). "[[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany." Timber Press.
   - Brinkman, K.A. (1974). "Lindera benzoin (L.) Blume — Spicebush." USDA Forest Service Silvics Manual.
 ---
 
 ## Overview
 
-**Lindera benzoin** is a deciduous shrub in the family Lauraceae, native to eastern North America from Maine to Florida and west to Kansas and Texas. It is commonly known as spicebush, Benjamin bush, or wild allspice, names referring to the aromatic fragrance of its crushed leaves, twigs, and drupes.
+**Lindera benzoin** is a deciduous shrub in the family Lauraceae, native to [[polypore-fungi-eastern-north-america]] America from Maine to Florida and west to Kansas and Texas. It is commonly known as spicebush, Benjamin bush, or wild allspice, names referring to the aromatic fragrance of its crushed leaves, twigs, and drupes.
 
 The species is dioecious, producing small yellow flowers in early spring before leaf emergence. Female plants bear bright red drupes in late summer and fall, which are relished by migratory birds.
 
@@ -44,7 +44,7 @@ Flowers appear in March–April before the leaves, clustered in small axillary f
 
 The fruit is an ovoid red drupe, ~6–10 mm long, containing a single seed. Drupes ripen from August to October and persist into early winter unless consumed by birds.
 
-Bark is gray-brown, smooth on young stems, becoming slightly fissured with age. The root system consists of a deep taproot with shallow lateral roots, contributing to drought tolerance once established.
+Bark is gray-brown, smooth on young stems, becoming slightly fissured with age. The root system consists of a deep taproot with shallow lateral roots, contributing to [[dighton-fungal-drought-tolerance-plant-water-relations]] once established.
 
 ## Distribution and Habitat
 
@@ -76,13 +76,13 @@ Spacing in landscape plantings is typically 1.5–2.5 m on center. In mass plant
 
 All above-ground parts of *Lindera benzoin* are aromatic and edible, though the fruits and leaves are most commonly used. The drupes can be dried and ground as a spice resembling allspice, with complex notes of pepper, clove, and citrus.
 
-Dried spicebush berries are used in baking, marinades, teas, and seasonal beverages. They pair well with game meats, root vegetables, and autumn squash dishes. The flavor is more nuanced than commercial allspice, with a brighter, more citrus-forward profile.
+Dried spicebush berries are used in baking, marinades, teas, and seasonal beverages. They pair well with game meats, [[growing-root-vegetables-guide]], and autumn squash dishes. The flavor is more nuanced than commercial allspice, with a brighter, more citrus-forward profile.
 
 Young leaves can be brewed into a mild, refreshing tea with a sweet-spicy character. Twigs are also used for tea, especially in early spring when the aromatic compounds are most concentrated.
 
 Native American peoples used the dried fruits as a seasoning and the leaves for tea. The Cherokee, Creek, and Iroquois all incorporated spicebush into their foodways.
 
-The essential oil derived from twigs and fruits contains linalool, cineole, and various terpenoids, which account for the characteristic fragrance. Commercial spicebush products remain a niche market.
+The [[permaculture-designers-manual-essential-oil-plants]] derived from twigs and fruits contains linalool, cineole, and various terpenoids, which account for the characteristic fragrance. Commercial spicebush products remain a niche market.
 
 Spicebush tea has a long tradition as a warming winter beverage in Appalachian folk medicine. Modern interest in native edibles has increased demand for spicebush products at regional farmers' markets.
 
@@ -96,13 +96,17 @@ The early-spring flowers provide nectar and pollen for emerging native bees, fli
 
 Spicebush is increasingly recommended in pollinator garden designs for its dual role as both nectar source and larval host. It pairs well with other native spring-blooming understory species like serviceberry and redbud.
 
-As an understory shrub, spicebush contributes to forest structure and provides cover for ground-nesting birds and small mammals. Its dense thickets create microhabitats for amphibians and invertebrates.
+As an understory shrub, spicebush contributes to [[mollison-wet-tropical-forest-structure-and-polyculture]] and provides cover for ground-nesting birds and small mammals. Its dense thickets create microhabitats for amphibians and invertebrates.
 
 The species is considered an indicator of high-quality forest habitat in the eastern U.S. Its presence in riparian corridors signals relatively intact hydrology and low disturbance levels.
 
 Deer browsing can suppress spicebush regeneration in heavily overpopulated areas. However, the shrub's rapid growth rate allows it to recover once browsing pressure is reduced.
 
 ## See Also
+
+- [[lindera-melissifolia]]
+
+- [[lindera-obtusiloba]]
 
 - [[cinnamomum-verum]]
 - [[persea-americana]]

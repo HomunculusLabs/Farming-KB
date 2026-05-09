@@ -1,15 +1,17 @@
 ---
-title: Top Bar Hive Beekeeping
+title: comparison-beekeeping-basics-vs-top-bar-hive Hive Beekeeping
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, animal-husbandry, insects, homestead-crafts, design]
-sources: []
+sources:
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Top Bar Hive Beekeeping
 
-Top bar hives are a natural beekeeping system that allows bees to build comb freely from suspended wooden bars rather than pre-formed frames. Popularized in the 1960s by the [[food-forest-design]] movement and proponents of low-intervention apiculture, top bar hives represent a departure from conventional Langstroth beekeeping.
+Top bar hives are a [[comparison-natural-beekeeping-vs-standard-beekeeping]] system that allows bees to build comb freely from suspended wooden bars rather than pre-formed frames. Popularized in the 1960s by the [[food-forest-design]] movement and proponents of low-intervention apiculture, top bar hives represent a departure from conventional Langstroth beekeeping.
 
 ## Design and Dimensions
 
@@ -37,7 +39,7 @@ Bees in a top bar hive build comb to their own specifications, adjusting cell si
 
 ## Management Practices
 
-Top bar hive management is inherently more hands-off than frame-based systems. Inspections are less frequent, and the beekeeper works from above rather than lifting heavy boxes.
+Top bar [[bee-forage-hive-management-mollison]] is inherently more hands-off than frame-based systems. Inspections are less frequent, and the beekeeper works from above rather than lifting heavy boxes.
 
 ### Seasonal Management
 
@@ -85,4 +87,4 @@ Place the hive on a stand 18-24 inches off the ground, facing southeast for earl
 
 - [[candle-making]] for processing beeswax from crushed comb
 - [[herbal-salves-and-balms]] for using beeswax in salve recipes
-- [[wildlife-habitat-creation]] for planting bee forage
+- [[wildlife-habitat-creation]] for planting [[mollison-designers-bee-forage-tree-planting]]

@@ -1,5 +1,5 @@
 ---
-title: "McKenna on Shamanic Identification Signs and Training"
+title: "McKenna on mckenna shamanic identification signs and training methods Signs and Training"
 source: mckenna_t-tryptamines_consciousness.md
 type: concept
 tags: [mckenna, shamanism, shamanic-calling, initiation, indigenous-healing, entheogenic-shamanism]
@@ -51,7 +51,7 @@ indicators:
 
 - **Hypersensitivity to trance states**: Among aspiring shamans, there must be
   some demonstrable sign of inner strength or an unusual capacity for entering
-  and navigating altered states of consciousness.
+  and navigating [[weil-the-natural-mind-altered-states-normalcy]] of consciousness.
 
 ## The Shaman's Social Position
 
@@ -72,7 +72,7 @@ independence.
 
 ## The Shaman as Phenomenologist
 
-Based on his direct encounters with shamans around the world, McKenna
+Based on his direct encounters with shamans [[fungi-around-the-world-species-distribution]], McKenna
 challenged the anthropological stereotype of shamans as passive bearers of
 tradition. He found that shamans are invariably sophisticated about what they
 are doing. They understand plant chemistry at a practical level, yet they

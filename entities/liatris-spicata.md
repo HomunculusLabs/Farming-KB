@@ -19,9 +19,9 @@ sources:
 
 ## Overview
 
-**Liatris spicata**, commonly known as dense blazing star or marsh blazing star, is a perennial herbaceous plant in the family Asteraceae. It is native to eastern North America, occurring from Ontario and New York south to Florida and west to Wisconsin and Texas.
+**Liatris spicata**, commonly known as dense blazing star or marsh blazing star, is a perennial herbaceous plant in the family Asteraceae. It is native to [[polypore-fungi-eastern-north-america]] America, occurring from Ontario and New York south to Florida and west to Wisconsin and Texas.
 
-The species is among the most popular native wildflowers for cultivation, valued for its tall, showy spikes of purple flower heads that bloom from the top downward. It is a premier butterfly and bee plant, ranking highly in pollinator preference surveys across multiple eastern North American studies.
+The species is among the most popular native wildflowers for cultivation, valued for its tall, showy spikes of purple flower heads that bloom from the top downward. It is a premier butterfly and bee plant, ranking highly in pollinator preference surveys across multiple eastern [[growing-gourmet-north-american-reishi-species]] studies.
 
 ## Taxonomy and Morphology
 
@@ -55,9 +55,9 @@ The species has naturalized outside its native range in parts of Europe, where i
 
 The corms contain inulin-type fructans as the primary carbohydrate storage compound. Inulin from *Liatris* species has been investigated as a potential prebiotic fiber source, though commercial extraction has not been developed.
 
-Unlike many Asteraceae species, *L. spicata* does not contain significant quantities of pyrrolizidine alkaloids or other toxic secondary metabolites. The foliage and corms are not considered toxic to livestock or humans.
+Unlike many Asteraceae species, *L. spicata* does not contain significant quantities of pyrrolizidine alkaloids or other toxic [[antifungal-secondary-metabolites-coprophilous-fungi]]. The foliage and corms are not considered toxic to livestock or humans.
 
-Limited phytochemical screening has identified trace amounts of coumarins and phenolic acids in the aerial parts. The essential oil profile has not been thoroughly characterized, and the species is not used commercially for essential oil production.
+Limited phytochemical screening has identified trace amounts of coumarins and phenolic acids in the aerial parts. The [[permaculture-designers-manual-essential-oil-plants]] profile has not been thoroughly characterized, and the species is not used commercially for essential oil production.
 
 The genus *Liatris* has received relatively little phytochemical investigation compared to other Asteraceae genera. Further research may reveal additional bioactive compounds, particularly in the corm tissue where secondary metabolite concentrations tend to be highest.
 
@@ -85,13 +85,13 @@ The dense flower spikes provide landing platforms for large-bodied butterflies t
 
 ## Cultivation
 
-Dense blazing star is one of the most widely cultivated native North American perennials. It is propagated commercially from seed, corm divisions, and tissue culture. Seed germination requires no stratification and occurs readily at 20–25°C with light exposure.
+Dense blazing star is one of the most widely cultivated native North American perennials. It is propagated commercially from seed, corm divisions, and [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]. Seed germination requires no stratification and occurs readily at 20–25°C with light exposure.
 
 Corms are planted 5–8 cm deep in spring or fall, spaced 15–30 cm apart. Plants typically flower in the second or third year from seed but may bloom in the first year from large corm divisions. Established clumps can be divided every 3–4 years.
 
 The species is a popular cut flower, with flower spikes lasting 10–14 days in arrangements. Several cultivars are available, including 'Floristan Violet' (deep purple), 'Floristan White' (white), and 'Kobold' (compact, 60 cm). 'Kobold' is the most widely grown cultivar in commercial horticulture.
 
-Plants require full sun for optimal flowering but tolerate light shade, particularly in hotter southern portions of the range. Excessive shade produces leggy growth and reduced flower production. Drought tolerance is moderate once established, though plants benefit from supplemental irrigation during extended dry periods.
+Plants require full sun for optimal flowering but tolerate light shade, particularly in hotter southern portions of the range. Excessive shade produces leggy growth and reduced flower production. [[dighton-fungal-drought-tolerance-plant-water-relations]] is moderate once established, though plants benefit from supplemental irrigation during extended dry periods.
 
 In mass plantings, *L. spicata* is most effective when planted in groups of 7 or more to create visual impact. The vertical flower spikes contrast effectively with rounded or spreading forms of companion plants such as [[rudbeckia-laciniata]], and [[echinacea-purpurea]]
 - [[monarda-fistulosa]]

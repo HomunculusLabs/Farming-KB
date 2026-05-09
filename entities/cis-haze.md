@@ -10,7 +10,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Mills, S. (2012). \"Cannabis: The Genus Cannabis.\" CRC Press."
-  - "ElSohly, M.A. & Slade, D. (2005). \"Chemical Constituents of Marijuana.\" Perspectives in Medicinal Chemistry and Pharmacology Research, 1, 1–17."
+  - "ElSohly, M.A. & Slade, D. (2005). \"Chemical Constituents of Marijuana.\" Perspectives in Medicinal [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]] Research, 1, 1–17."
   - "Hazekamp, A. & Fischedick, J.T. (2012). \"Cannabis — from Cultivar to Chemovar.\" Drug Testing and Analysis, 4(10), 660–667."
   - "Lewis, M.A. et al. (2018). \"Tolerance to the Effects of High-Potency Cannabis.\" Neuropsychopharmacology, 43(4), 726–735."created: 2026-05-07
 
@@ -27,7 +27,7 @@ The strain carries forward the classic Haze aromatics of earthy spice and sweet 
 
 ## Lineage
 
-CIS Haze traces its genetics to the original Haze breeding program of the 1960s and 1970s in California. The foundational Haze cross combined Colombian, Mexican, Thai, and South Indian landrace sativas.
+CIS Haze traces its genetics to the original Haze [[cervantes-breeding-program-design-goal-setting]] of the 1960s and 1970s in California. The foundational Haze cross combined Colombian, Mexican, Thai, and South Indian landrace sativas.
 
 The "CIS" designation indicates a specific selection or phenotype within this broad gene pool, likely stabilized through backcrossing to preserve desired sativa traits. Some sources place it as a sibling or cousin line to Amnesia Haze and Super Lemon Haze.
 
@@ -63,17 +63,17 @@ Duration of effects typically spans 2–3 hours, with a gradual comedown.
 
 ## Cultivation
 
-CIS Haze exhibits vigorous vegetative growth with significant stretch during the early flowering phase. Indoor flowering time averages 9–11 weeks, shorter than many classic Haze varieties that require 12+ weeks.
+CIS Haze exhibits vigorous vegetative growth with significant stretch during the early [[green-cannabis-grow-bible-flowering-phase-and-harvest]]. Indoor flowering time averages 9–11 weeks, shorter than many classic Haze varieties that require 12+ weeks.
 
-Plants develop tall, branching structures with elongated sativa-style internodes. Training techniques such as low-stress training or scrog are recommended for indoor grows to manage height.
+Plants develop tall, branching structures with elongated sativa-style internodes. [[cannabis-training-techniques-comparison]] such as low-stress training or scrog are recommended for indoor grows to manage height.
 
-Yields are moderate to high when grown under optimal conditions. The strain responds well to moderate nutrient regimens and shows good resistance to common mold and pests.
+Yields are moderate to high when grown under optimal conditions. The strain responds well to moderate [[cannabis-nutrient-regimens-comparison]] and shows good resistance to common mold and pests.
 
 It performs best in warm, Mediterranean-like climates when grown outdoors, with harvest typically finishing in mid to late October in the Northern Hemisphere.
 
 ## Medical Applications
 
-CIS Haze is sometimes used medicinally for daytime symptom management. Patients with chronic fatigue or treatment-resistant depression report benefit from its stimulating profile.
+CIS Haze is sometimes used medicinally for daytime symptom management. Patients with [[cannabis-chronic-fatigue-research]] or treatment-resistant depression report benefit from its stimulating profile.
 
 The terpinolene-dominant terpene profile has been studied for potential anxiolytic and antioxidant properties. Limonene may contribute mood-elevating effects through interaction with serotonin and dopamine pathways.
 
@@ -111,5 +111,5 @@ Contraindications include use by individuals with a personal or family history o
 - thc
 - cbd
 - [[white-widow-entity]]
-- [[gelato-cannabis]]
+- [[gelato]]
 - [[mac-1]]

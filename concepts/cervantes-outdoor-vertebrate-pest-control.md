@@ -1,5 +1,5 @@
 ---
-title: Outdoor Vertebrate Pest Control
+title: [[cervantes-outdoor-soil-types-clay-sand-loam]] vertebrate [[beneficial-insects-and-biological-pest-control]] comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol
 created: 2026-04-28
 tags:
   - vertebrate-pests
@@ -9,7 +9,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 synonyms:
   - gopher control
   - rabbit deterrents
@@ -21,7 +22,7 @@ type: concept
 
 # Outdoor Vertebrate Pest Control
 
-Outdoor cannabis gardens face threats from a variety of vertebrate pests
+[[indoor-vs-outdoor-cannabis]] gardens face threats from a variety of vertebrate pests
 including gophers, moles, mice, voles, and rabbits. [[outdoor-cannabis-growing]]
 - [[cervantes-companion-planting-pest-deterrent]]
 
@@ -45,7 +46,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -95,7 +96,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -105,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

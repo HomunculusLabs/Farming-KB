@@ -1,5 +1,5 @@
 ---
-title: Ego Intactness During DMT Experience
+title: dmt ego intactness witness function phenomenology During mckenna-dmt-experience-and-hyperspace
 source: mckenna_t-tryptamines_consciousness.md
 tags: [dmt, ego, consciousness, tryptamines, phenomenology, psychedelic-experience, terror, astonishment, mckenna]
 created: 2026-05-08
@@ -9,10 +9,10 @@ created: 2026-05-08
 
 ## Overview
 
-One of the most distinctive features of the N,N-dimethyltryptamine (DMT) experience, as described by [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]]
+One of the most [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of the N,N-dimethyltryptamine (DMT) experience, as described by [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]]
 - [[tryptamine-hallucinogens-and-consciousness]]
 - [[self-transforming-machine-elves]]
-- translinguistic matter and exteriorized soul
+- [[mckenna-translinguistic-matter-and-exteriorized-soul]] and [[mckenna-exteriorized-soul-and-psychedelic-bar-mitzvah]]
 ## Background and Context
 
 Ego Intactness During DMT Experience is an important subject that has garnered significant attention
@@ -141,4 +141,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

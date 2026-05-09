@@ -1,5 +1,5 @@
 ---
-title: King Oyster Mushroom (Pleurotus eryngii) Cultivation
+title: King cotter-oyster-mushroom-cultivation (Pleurotus eryngii) Cultivation
 created: 2026-04-26
 tags:
   - mycology
@@ -24,7 +24,7 @@ Cap 3-12 cm in diameter, at first convex, expanding with age, becoming
 funnel-shaped, with the margin typically inrolled, extending with age.
 Stem 3-10 cm in length, central, thick, tapering downwards. Gills
 fairly distant, thin, grayish, and decurrent. Growing individually or
-in small groups. Cultivated mushrooms achieve greater stature and
+in small groups. [[fungi-cultivated-mushrooms-pathogens-competitors]] achieve greater stature and
 overall size compared to ones collected in the wild.
 
 ## Common Names
@@ -66,9 +66,9 @@ Outdoors on log sections turned vertically, and on stumps inoculated
 with plug spawn. Easily grown on straw outdoors using the mound method.
 
 ### Spawn Expansion
-Traditional or liquid inoculation of grain spawn which is then
+Traditional or [[growing-gourmet-liquid-inoculation-fermentation]] of grain spawn which is then
 broadcast into fruiting substrates, preferably sterilized sawdust.
-Pasteurized straw cultivation is comparatively less productive unless
+[[oyster-mushroom-pasteurized-straw-cultivation]] cultivation is comparatively less productive unless
 inoculated with equal quantities of sawdust and grain spawn. Every ton
 of wheat straw (2000 lbs dry weight) should simultaneously receive 100
 lbs of grain spawn (wet weight) and 100 lbs of sawdust spawn (wet
@@ -84,7 +84,7 @@ Rye, wheat, sorghum, milo, or millet.
 ### Fruiting Substrates
 Most hardwoods, wheat straw, and cottonseed hulls support fruitings.
 Not as adaptive as P. pulmonarius and P. ostreatus to a broad range of
-substrates. See [[mushroom-primordia-formation-triggers]].
+substrates. See mushroom-primordia-formation-triggers.
 
 ### Primordia Formation
 - Temperature: 50-60 degrees F (10-15 degrees C)
@@ -107,7 +107,7 @@ substrates. See [[mushroom-primordia-formation-triggers]].
 
 ## CO2 Tolerance and pH
 
-Zadrazil (1974) showed mycelial growth peaked when carbon dioxide
+Zadrazil (1974) showed [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] peaked when carbon dioxide
 levels approached 220,000 ppm or 22%. The stimulatory effect of CO2 on
 mycelial growth allows this mushroom to grow under conditions that
 would be stifling for most other mushrooms and lifeforms. Optimum pH
@@ -119,6 +119,12 @@ fruiting.
 
 Approximately 1 lb of mushrooms per 5 lbs of sterilized sawdust/chips/
 bran. Wheat straw fruitings tally approximately 1/2 of that from
-enriched sawdust. The stage at which fruitbodies are picked significantly
+[[gourmet-mushroom-enriched-sawdust-cultivation]]. The stage at which fruitbodies are picked significantly
 affects yield efficiencies. This mushroom can become quite large if the
 substrate has sufficient nutritional base. When cap margins are deeply incurved, the mushrooms are at an adolescent stage and likely to grow much larger.
+## See Also
+- [[growing-gourmet-tarragon-oyster-euosmus-cultivation]]
+- [[growing-gourmet-king-stropharia-cultivation]]
+- [[growing-gourmet-abalone-oyster-cystidiosus-cultivation]]
+- [[growing-gourmet-golden-oyster-citrinopileatus-cultivation]]
+- [[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]]

@@ -50,7 +50,7 @@ for riparian management and the biological planning described in
 especially important in riparian areas because changes can be rapid and the
 consequences of mismanagement severe.
 
-Stock density must be high enough to achieve desired [[savory-overgrazing-vs-overrest]] of
+[[savory-fencing-economics-and-stock-density-curve]] must be high enough to achieve desired [[savory-overgrazing-vs-overrest]] of
 riparian vegetation and [[savory-water-cycle-management]] is poor in the
 uplands, flash floods scour stream banks, and base flows decline. Where upland
 management promotes effective rainfall penetration and slow release, streams run
@@ -70,7 +70,7 @@ composition, and shifts in the balance between woody and herbaceous plants. Thes
 indicators reflect the health of the whole watershed and should trigger replanning
 when adverse trends are detected through the [[savory-land-planning-and-grazing-cell-design]]
 
-In long-term land planning, riparian areas deserve special attention in the overlay
+In long-term [[savory-land-planning-and-grazing-cell-design]], riparian areas deserve special attention in the overlay
 mapping process. Separate overlays showing stream corridors, water sources, and
 sensitive riparian vegetation help ensure that the final paddock or herding layout
 provides adequate protection during critical periods while still allowing the

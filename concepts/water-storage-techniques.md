@@ -9,7 +9,7 @@ sources:
 ---
 # Water Storage Techniques
 
-Water storage is one of the most critical elements of [[solomon-humus-building-and-soil-life]] creates enormous subsurface water storage capacity. Conditioned soils commonly average 15-19 degrees Fahrenheit above surrounding soil temperatures in winter because wet soil is "an enormous heat mass" with much air space. This extends the growing season at both ends.
+Water storage is one of the most critical elements of [[solomon-humus-building-and-soil-life]] creates enormous subsurface water storage capacity. Conditioned soils commonly average 15-19 degrees Fahrenheit above surrounding soil temperatures in winter because wet soil is "an enormous [[coleman-soil-heat-mass-passive-thermal-storage]]" with much air space. This extends the [[savory-growing-season-and-non-growing-season-management]] at both ends.
 
 When water drains across conditioned soil, "it encounters a series of ribbed systems that run it out and store it up." Roots follow these crevices and create channels for further water penetration. The goal is to return soil to its "forest absorption capacity" -- the capacity it had before compaction by grazing animals.
 
@@ -17,7 +17,7 @@ When water drains across conditioned soil, "it encounters a series of ribbed sys
 
 Mollison provides detailed guidance on building earth tanks using the puddled clay core technique:
 
-1. **Site selection**: Choose locations where the natural catchment concentrates water flow, typically in valleys or saddles between ridges. "You walk the valley floor and find where it levels. At the point where it starts to level, you often find that it tightly constricts, and you will find the logical valley dam site."
+1. **[[fukuoka-creating-natural-farm-site-selection-establishment]]**: Choose locations where the natural catchment concentrates water flow, typically in valleys or saddles between ridges. "You walk the valley floor and find where it levels. At the point where it starts to level, you often find that it tightly constricts, and you will find the logical valley dam site."
 
 2. **Key trench**: Dig a trench along the centerline of the dam wall down to impervious clay or rock. This locks the wall into the foundation and prevents water seeping under the dam.
 
@@ -50,16 +50,16 @@ A critical function of water storage is capturing dissolved nutrients before the
 4. Run the enriched water through wetland plant systems for high growth
 5. Water that finally leaves the property is clean again
 
-These are "very efficient little biological machines, working at the molecular level, straining out the nutrients before the nutrients leave your property." This approach produces duck manure, fish, and [[permaculture-zones-system]] design. High dams in zone 3-4 provide irrigation for lower gardens and [[ohana-watershed-system]] treats the entire water cycle from mountain to sea as a single design unit.
+These are "very efficient little biological machines, working at the molecular level, straining out the nutrients before the nutrients leave your property." This approach produces duck manure, fish, and permaculture-zones-system design. High dams in zone 3-4 provide irrigation for lower gardens and [[ohana-watershed-system]] treats the entire water cycle from mountain to sea as a single design unit.
 
 ## See Also
 
 - [[permaculture-earthworks-and-water-harvesting]]
 - [[permaculture-design]]
-- [[arid-landscape-permaculture]]
-- [[urban-permaculture-guilds-and-swales]]
+- arid-landscape-permaculture
+- urban-permaculture-guilds-and-swales
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
-- [[permaculture-earthworks-and-water-harvesting]]
+
 ## Practical Considerations
 
 Successful implementation of Water Storage Techniques requires attention to
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

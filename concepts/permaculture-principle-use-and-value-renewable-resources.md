@@ -1,16 +1,17 @@
 ---
-title: Permaculture Principle 5 — Use and Value Renewable Resources and Services
+title: Permaculture Principle 5 — Use and permaculture principle use and value renewable resources Resources and Services
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, principles, energy, sustainability, design, resources]
 sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 
 # Permaculture Principle 5 — Use and Value Renewable Resources and Services
 
-The fifth of David Holmgren's twelve permaculture design principles. This principle distinguishes between renewable and non-renewable resources, urging us to make the best use of nature's abundant renewable flows while using non-renewables wisely to establish systems that can eventually run on renewables alone.
+The fifth of David Holmgren's twelve [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] principles. This principle distinguishes between renewable and non-renewable resources, urging us to make the best use of nature's abundant renewable flows while using non-renewables wisely to establish systems that can eventually run on renewables alone.
 
 > "Let nature take its course: If we can make use of natural processes, we can reduce our labor and the use of non-renewable resources." — David Holmgren
 
@@ -29,7 +30,7 @@ Holmgren makes an important distinction between resources (things we use and dep
 Holmgren provides specific guidance on appropriate use of non-renewables:
 
 - **Best use for non-renewable resources and technology should be to establish a system, rather than to maintain or harvest it** — even if the establishment process takes a lifetime or generations
-- A passive solar house uses high-embodied-energy glass to capture free solar energy permanently
+- A [[comparison-passive-solar-vs-earth-sheltered]] house uses high-embodied-energy glass to capture free solar energy permanently
 - Bulldozers and earth-moving equipment create well-designed water-harvesting earthworks that can then be maintained by human labor indefinitely
 - Deep ripping of hard pans followed by managed plantings can permanently improve soil structure
 
@@ -37,7 +38,7 @@ Holmgren provides specific guidance on appropriate use of non-renewables:
 
 Holmgren emphasizes that nature provides services that we often replace with energy-intensive technology:
 
-- **Trees** provide windbreaks, shade, water pumping (through transpiration), nutrient cycling, soil building, habitat, and microclimate moderation — all simultaneously and for free
+- **Trees** provide windbreaks, shade, water pumping (through transpiration), [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], soil building, habitat, and microclimate moderation — all simultaneously and for free
 - **Chickens** scratch, manure, eat pests, produce eggs, and recycle food scraps
 - **Worms** aerate soil, process organic matter, and produce castings
 - **Bees** pollinate crops and produce honey
@@ -55,7 +56,7 @@ The broader aim of this principle is to progressively reduce dependence on non-r
 
 ## Connections
 
-This principle links directly to [[permaculture-principle-catch-and-store-energy]] (capturing renewable energy flows), [[permaculture-principle-produce-no-waste]] (wasting non-renewables is doubly harmful), [[permaculture-principle-use-small-and-slow-solutions]] (small scale systems are easier to power renewably), and [[permaculture-principle-obtain-a-yield]] (renewable systems must still yield). See also [[permaculture-principles]] and [[permaculture-zone-and-sector-analysis]].
+This principle links directly to [[permaculture-principle-catch-and-store-energy]] (capturing [[holmgren-wind-power-and-renewable-energy-debate]] flows), [[permaculture-principle-produce-no-waste]] (wasting non-renewables is doubly harmful), [[permaculture-principle-use-small-and-slow-solutions]] (small scale systems are easier to power renewably), and [[permaculture-principle-obtain-a-yield]] (renewable systems must still yield). See also [[permaculture-principles]] and [[zone-sector-analysis-guide]].
 ## Practical Considerations
 
 When working with Permaculture Principle 5 — Use and Value Renewable Resources and Services, several practical factors should be
@@ -72,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

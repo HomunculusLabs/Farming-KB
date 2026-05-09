@@ -79,7 +79,7 @@ Insulation is critical — metal buses conduct heat and cold aggressively. Witho
 - Cost: $500-1,000
 
 **Havelock Wool (Natural Option)**
-- Sheep's wool insulation batts
+- Sheep's [[mollison-designers-wool-insulation-and-natural-textiles]] batts
 - Naturally manages moisture, fire-resistant
 - Cost: $2,000-3,000
 
@@ -141,50 +141,6 @@ Build a stud wall framework inside the bus:
 - Mount propane tanks in a ventilated exterior compartment
 - Run copper or CSST flexible gas line to appliances
 - Install propane regulator, shutoff valve, and leak detector
-- Appliances: cooktop, oven, heater, water heater, refrigerator
-
-### Phase 8: Interior Finish (2-4 Weeks)
-
-1. Install wall paneling (tongue-and-groove pine, shiplap, or painted plywood)
-2. Install ceiling (thin plywood or paneling)
-3. Install flooring
-4. Build cabinets and furniture (lightweight plywood construction)
-5. Install countertops
-6. Install appliances
-7. Install windows and doors
-8. Trim work and finishing
-
-### Phase 9: Exterior Work (1-2 Weeks)
-
-1. Paint exterior (if desired) — remove all school district markings
-2. Install awning
-3. Mount solar panels
-4. Install exterior storage compartments
-5. Add backup camera and side mirrors
-6. Install roof vent fans (Maxxair or Fantastic Fan)
-
-## Driving and Parking Considerations
-
-- CDL may be required depending on state, length, and passenger capacity
-- Most states exempt RV-converted buses from CDL requirements
-- RV parks may or may not accept skoolies — call ahead
-- BLM land, National Forests, and private land offer free/cheap parking
-- Weight: A converted bus weighs 18,000-26,000 lbs — plan routes carefully for steep grades and low bridges
-
-## Cost Summary
-
-| Item | Budget | Mid-Range | Premium |
-|------|--------|-----------|---------|
-| Bus purchase | $3,000 | $6,000 | $10,000 |
-| Demo and rust | $500 | $1,000 | $2,000 |
-| Insulation | $800 | $2,500 | $4,000 |
-| Electrical | $1,500 | $4,000 | $8,000 |
-| Plumbing | $500 | $1,500 | $3,000 |
-| Propane | $300 | $800 | $1,500 |
-| Interior finish | $1,500 | $4,000 | $8,000 |
-| Appliances | $1,000 | $3,000 | $6,000 |
-| **Total** | **$9,100** | **$22,800** | **$42,500** |
-
 ## See Also
 
 - [[tiny-house-on-wheels]]

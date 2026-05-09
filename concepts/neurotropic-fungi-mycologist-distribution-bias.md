@@ -47,7 +47,7 @@ The example of the Mixtec Indians of Oaxaca is instructive. These people had det
 
 Several regions are identified as particularly promising for future discovery based on their ecological characteristics and the current paucity of mycological records:
 
-Central Africa, including the Congo Basin, contains vast tracts of tropical forest that have received virtually no mycological exploration for neurotropic fungi. The records from Kenya, Tanzania, and Uganda are fragmentary and largely based on old collections by Pegler and others in the 1960s and 1970s.
+Central Africa, including the Congo Basin, contains vast tracts of tropical forest that have received virtually no [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]] for neurotropic fungi. The records from Kenya, Tanzania, and Uganda are fragmentary and largely based on old collections by Pegler and others in the 1960s and 1970s.
 
 Southeast Asia, particularly Myanmar, Laos, Cambodia, and parts of Indonesia beyond Java, has been only superficially explored. The rich traditions of mushroom use in Thailand and the discovery of Psilocybe samuiensis suggest that more species await discovery in this region.
 
@@ -57,7 +57,7 @@ The Caribbean islands beyond Cuba, Jamaica, and Puerto Rico have received limite
 
 ## Correcting the Bias
 
-Future efforts to map the true distribution of neurotropic fungi should prioritize under-explored regions, employ local collaborators with indigenous knowledge, and use modern molecular techniques that can identify species from environmental DNA samples without requiring fruiting body collection. Such approaches could dramatically expand our understanding of the global diversity and distribution of these remarkable organisms.
+Future efforts to map the true [[global-distribution-of-neurotropic-fungi]] fungi should prioritize under-explored regions, employ local collaborators with indigenous knowledge, and use modern molecular techniques that can identify species from environmental DNA samples without requiring fruiting body collection. Such approaches could dramatically expand our understanding of the global diversity and distribution of these remarkable organisms.
 
 ## Quantifying the Bias
 
@@ -67,7 +67,7 @@ Rarefaction curves, commonly used in ecology to estimate total species richness 
 
 ## The Herbarium Specimen Gap
 
-A particularly telling indicator of the mycologist distribution bias is the distribution of herbarium specimens. Major herbaria in Europe (Kew, Leiden, Paris) and North America (Field Museum, New York Botanical Garden) hold extensive collections of neurotropic fungi from temperate regions, but tropical collections are sparse. Many tropical records exist only as field observations without voucher specimens, or as specimens deposited in local herbaria that are not accessible to the international scientific community.
+A particularly telling indicator of the mycologist distribution bias is the distribution of herbarium specimens. Major herbaria in Europe (Kew, Leiden, Paris) and [[psilocybin-north-america-pacific-northwest]] (Field Museum, New York Botanical Garden) hold extensive collections of neurotropic fungi from temperate regions, but tropical collections are sparse. Many tropical records exist only as field observations without voucher specimens, or as specimens deposited in local herbaria that are not accessible to the international scientific community.
 
 The lack of voucher specimens for many tropical records creates a cascade of problems: species cannot be verified or re-examined using modern molecular techniques, distribution records cannot be confirmed, and type specimens for new species descriptions may not be deposited in recognized institutions. This specimen gap perpetuates the bias, as species described without adequate documentation cannot be reliably included in biogeographic analyses or taxonomic revisions.
 
@@ -77,13 +77,13 @@ The rise of citizen science platforms has begun to address the mycologist distri
 
 However, citizen science data introduces its own biases. Observers are concentrated in wealthy, urbanized countries with high internet penetration and strong mycological cultures, particularly the United States, western Europe, and Australia. The same tropical regions that were under-sampled by professional mycologists remain under-sampled by citizen scientists, though the gap is slowly narrowing as smartphone adoption increases globally.
 
-The quality of citizen science identifications is another concern. While platforms like iNaturalist use community consensus and expert review to improve identification accuracy, the identification of neurotropic fungi to species level often requires microscopic examination of spore morphology and chemical testing, which are beyond the capabilities of most casual observers. Many citizen science records are therefore identified only to genus level or remain unidentified entirely.
+The quality of citizen science identifications is another concern. While platforms like iNaturalist use community consensus and expert review to improve identification accuracy, the identification of neurotropic fungi to species level often requires [[fungal-microscopic-examination-mounting-media-techniques]] of spore morphology and chemical testing, which are beyond the capabilities of most casual observers. Many citizen science records are therefore identified only to genus level or remain unidentified entirely.
 
 ## Climate Change and Shifting Distributions
 
 Climate change adds another layer of complexity to understanding neurotropic fungi distributions. As temperatures and precipitation patterns shift, the ranges of many fungal species are expected to change, potentially expanding into higher latitudes and altitudes. The historical distribution data compiled by Guzmán, Allen, and Gartz provides an essential baseline against which future changes can be measured.
 
-Psilocybe semilanceata, for example, has been reported from increasingly southern latitudes in the Southern Hemisphere and from higher altitudes in tropical mountains, consistent with a climate-driven range expansion. Monitoring these distributional changes requires the kind of systematic, globally coordinated survey effort that the mycologist distribution bias has historically prevented.
+[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], for example, has been reported from increasingly southern latitudes in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] and from higher altitudes in tropical mountains, consistent with a climate-driven range expansion. Monitoring these distributional changes requires the kind of systematic, globally coordinated survey effort that the mycologist distribution bias has historically prevented.
 
 ## Related Topics
 
@@ -91,5 +91,8 @@ Psilocybe semilanceata, for example, has been reported from increasingly souther
 - [[distribution-of-neurotropic-fungi]]
 
 ## See Also
+
+- [[neurotropic-fungi-distribution]]
+- [[copelandia-panaeoloideae-neurotropic-fungi-taxonomy-distribution]]
 
 - [[global-distribution-of-neurotropic-fungi]]

@@ -21,7 +21,7 @@ sources:
 Entoloma rhodopolium, commonly known as the pinkgill, is a widely distributed
 agaric fungus in the family Entolomataceae. It is one of the most frequently
 encountered Entoloma species in temperate hardwood and mixed forests across
-Europe and North America.
+Europe and [[psilocybin-north-america-pacific-northwest]].
 
 The species is notable for its close morphological similarity to several deadly
 poisonous Entoloma species, most notably Entoloma sinuatum. Consumption is
@@ -97,13 +97,13 @@ have white spore prints.
 
 ## Ecological Role
 
-As an ectomycorrhizal species, E. rhodopolium facilitates nutrient exchange
-between host trees and soil microorganisms. The mycelial network contributes
-to soil aggregation and organic matter decomposition in forest floor horizons.
+As an ectomycorrhizal species, E. rhodopolium facilitates [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
+between host trees and soil microorganisms. The [[gadd-mycelial-network-dynamics]] contributes
+to soil aggregation and [[hamilton-composting-and-organic-matter-management]] decomposition in forest floor horizons.
 
-The genus Entoloma is sensitive to nitrogen deposition and habitat disturbance,
+The genus Entoloma is sensitive to [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and habitat disturbance,
 making it a potential bioindicator of forest health and air quality. In mature
-forest ecosystems, Entoloma species contribute to overall fungal diversity
+forest ecosystems, Entoloma species contribute to overall [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 and may serve as food sources for various invertebrates and small mammals.
 
 ## Microscopic Features

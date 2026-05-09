@@ -15,7 +15,7 @@ Green manures and cover crops are closely related soil-building practices that a
 frequently conflated but differ in purpose and management. Green manures are crops
 grown specifically to be dug back into the soil while still green, adding organic
 matter and nutrients through decomposition. Cover crops are plants grown primarily for
-the benefit of the soil itself, including erosion control, weed suppression, nitrogen
+the benefit of the soil itself, including [[permplant-willows-salix-erosion-control-fodder]], weed suppression, nitrogen
 fixation, compaction breaking, and nutrient scavenging, and may or may not be
 incorporated into the soil. The distinction matters because green manure is a subset
 of cover crop use: all green manures serve the soil, but not all cover crops become
@@ -23,12 +23,12 @@ green manures.
 
 ## Green Manure
 [[cover-crop-guide-detailed]]
-Cover cropping is a broader soil health strategy where plants are grown primarily for
-their ecosystem services rather than harvest. Benefits include erosion prevention on
+[[fukuoka-clover-cover-cropping-soil-ecology]] is a broader soil health strategy where plants are grown primarily for
+their [[biodiversity-of-fungi-ecosystem-services-agriculture]] rather than harvest. Benefits include erosion prevention on
 bare soil, weed suppression through competition and allelopathic chemicals, nitrogen
 fixation from legume species, nutrient scavenging that prevents leaching of soluble
 nutrients below the root zone, compaction breaking by deep taproots like daikon radish
-and tillage radish, beneficial insect habitat and nectar sources, and biomass
+and tillage radish, [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] habitat and nectar sources, and biomass
 accumulation for soil building. Cover crops may be terminated by tilling, roller-
 crimping, mowing, or natural winter-kill without incorporation into the soil.
 
@@ -36,8 +36,8 @@ Modern cover cropping emphasizes multi-species mixes that outperform monoculture
 through complementary root architectures (shallow fibrous roots alongside deep
 taproots), diverse biomass types (grasses for carbon, legumes for nitrogen), and
 synergistic biological interactions. A cold-climate fall mix might combine cereal rye
-(erosion control, winter-hardy biomass), hairy vetch (nitrogen fixation, climbing
-growth), crimson clover (nitrogen fixation, early spring bloom for pollinators), and
+(erosion control, winter-hardy biomass), hairy vetch ([[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], climbing
+growth), [[comparison-lupin-vs-crimson-clover-green-manure]] (nitrogen fixation, early spring bloom for pollinators), and
 daikon radish (compaction breaking, nutrient scavenging from deep soil layers). Each
 species occupies a different niche, creating a living mulch that protects and feeds
 soil simultaneously.

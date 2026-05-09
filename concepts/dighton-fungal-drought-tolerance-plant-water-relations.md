@@ -16,7 +16,7 @@ type: concept
 
 # Fungal Drought Tolerance and Plant Water Relations
 
-Mycorrhizal associations and fungal endophytes can significantly influence
+Mycorrhizal associations and [[fungi-in-the-environment-fungal-endophytes-plant-communities]] can significantly influence
 plant water relations and help alleviate drought stress in host plants. This
 role may be as ecologically important as the nutritional benefits that fungi
 provide, and in some cases may represent the primary rationale for the
@@ -32,9 +32,9 @@ survival during periods of water deficit.
 
 ## Arbuscular Mycorrhizal Effects on Drought
 
-Aug (2001) reviewed the effects of arbuscular mycorrhizal colonization of
+Aug (2001) reviewed the effects of arbuscular [[arbuscular-mycorrhizal-colonization-patterns]] of
 roots in relation to drought, concluding that root colonization by arbuscular
-mycorrhizal fungi increased water relations of plants under both drought
+[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] increased water relations of plants under both drought
 conditions and during periods of adequate water supply. This suggests that the
 mycorrhizal effect on plant water status is not merely a stress-response
 phenomenon but represents a fundamental alteration of plant hydraulic
@@ -97,7 +97,7 @@ g dry weight.
 
 ## Interactions Between Drought and Other Stresses
 
-Drought stress frequently interacts with other environmental factors that
+Drought stress frequently interacts with other [[duggar-mushroom-environmental-factors-temperature-moisture-light]] that
 affect fungal function. Increased soil salinity, which often accompanies
 irrigation in agroecosystems, can reduce the germination of arbuscular
 mycorrhizal spores and reduce extraradical hyphal growth (Juniper and Abbott,
@@ -111,10 +111,10 @@ salt-degraded soils.
 ## Ecosystem Implications
 
 The role of fungi in plant drought tolerance has significant implications for
-understanding ecosystem responses to climate change. As drought frequency and
+understanding ecosystem responses to [[dighton-fungi-climate-change-feedback]]. As drought frequency and
 intensity increase in many regions, the mycorrhizal and endophytic
 associations of plants may become increasingly important for maintaining plant
-productivity and community composition. The fungal component of the soil
+productivity and [[core-endorhiza-bacterial-community-composition-cannabis]]. The fungal component of the soil
 biota represents a largely unmanaged factor that could buffer ecosystems
 against the effects of increasing aridity.
 

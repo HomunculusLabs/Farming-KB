@@ -18,7 +18,7 @@ type: concept
 # Neurotropic Fungi of the African Continent
 
 Africa presents one of the most significant knowledge gaps in the
-worldwide distribution of neurotropic fungi. Despite the continent's
+worldwide [[global-distribution-of-neurotropic-fungi]] fungi. Despite the continent's
 extraordinarily high biodiversity, only 6 to 8 neurotropic species
 of Psilocybe are known from Africa, a number that almost certainly
 reflects undercollection rather than true absence. Guzmán, Allen and
@@ -33,7 +33,7 @@ million square kilometers, has 76 neurotropic fungal species. Africa,
 with over 30 million square kilometers and vastly greater habitat
 diversity, has only a handful of confirmed records. The authors
 specifically noted the absence of records from many regions of
-Africa on their global distribution map (Figure 19).
+Africa on their [[guzman-global-distribution-patterns-neurotropic-fungi]] map (Figure 19).
 
 Several factors contribute to this gap. Mycological research in
 Africa has historically focused on agricultural pathology and food
@@ -56,7 +56,7 @@ have documented it.
 This North African-European disjunction in P. mairei mirrors
 patterns seen in other fungal groups and may reflect ancient
 Mediterranean vegetation corridors that connected North Africa to
-southern Europe. Morocco also records Amanita muscaria, A.
+southern Europe. Morocco also records [[allegro-amanita-muscaria-properties-and-pharmacology]], A.
 pantherina, Copelandia bispora, Inocybe calamistrata, I.
 corydalina, Pluteus cyanopus, P. atricapillus, P. salicinus,
 P. villosus and Panaeolus fimicola and P. papilionaceus,
@@ -90,12 +90,12 @@ Psilocybe natalensis, described by Gartz, Reid, Smith and Eicker
 (1995). This species represents an endemic African contribution
 to the genus and suggests that more species await discovery on
 the continent. South Africa also records Amanita muscaria, A.
-pantherina, Panaeolina foenisecii, Panaeolus papilionaceus,
-P. retirugis, P. subbalteatus, Pluteus salicinus and a possible
+pantherina, [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]], Panaeolus papilionaceus,
+P. retirugis, P. subbalteatus, [[gartz-pluteus-salicinus-wood-inhabiting-psilocybin]] and a possible
 record of P. semilanceata.
 
 The discovery of P. natalensis demonstrates that dedicated
-mycological exploration in Africa can yield new neurotropic
+[[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]] in Africa can yield new neurotropic
 species. The species was found relatively recently and suggests
 that the low species count for Africa reflects collection effort
 rather than true diversity.
@@ -136,5 +136,11 @@ The Claviceps species, C. paspali and C. purpurea, are
 ## See also
 
 [[guzman-allen-gartz-amazonia-and-unexplored-neotropical-regions]]
-[[guzman-allen-gartz-psilocybe-transcontinental-species-pairs]]
+guzman-allen-gartz-psilocybe-transcontinental-species-pairs
 [[guzman-allen-gartz-africa-underexplored-neurotropic-fungi]]
+## See Also
+- [[guzman-allen-gartz-africa-underexplored-neurotropic-fungi]]
+- [[distribution-of-neurotropic-fungi]]
+- [[neurotropic-fungi]]
+- [[guzman-allen-gartz-neurotropic-fungi-australasia]]
+- [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]]

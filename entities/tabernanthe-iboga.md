@@ -1,5 +1,5 @@
 ---
-title: Tabernanthe iboga
+title: plants-of-the-gods-tabernanthe-iboga-chemistry
 created: 2026-04-28
 type: species
 tags:
@@ -51,7 +51,7 @@ shade of the forest floor. However, the plant is also frequently cultivated
 in native dooryards and around villages, reflecting its immense cultural
 importance.
 
-One of the most distinctive features of the plant is its copious white latex,
+One of the most [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of the plant is its copious white latex,
 which exudes copiously from cut stems and leaves. This latex has a vile,
 characteristic odor that is immediately recognizable and serves as a
 diagnostic feature in field identification.
@@ -59,14 +59,14 @@ diagnostic feature in field identification.
 The leaves are simple, opposite, and ovate in shape. They typically measure
 3.75 to 4 inches (9 to 10 centimeters) in length and approximately 1.25
 inches (3 centimeters) in width, though larger specimens may reach up to
-8.5 by 2.75 inches (22 by 7 centimeters). The leaf surface is yellowish
+8.5 by 2.75 inches (22 by 7 centimeters). The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is yellowish
 green in color, with a glossy appearance and prominent venation.
 
 The flowers are small, tubular, and white to yellowish in color, arranged in
 clusters. The fruit is an ellipsoid berry that contains one or two seeds. The
 root system is the most pharmacologically significant part of the plant, as
 the highest concentrations of ibogaine and related alkaloids accumulate in
-the root bark.
+the [[iboga-root-bark-preparation]].
 
 ## Distribution and Habitat
 
@@ -83,13 +83,13 @@ sacred plant for ritual purposes.
 ## Chemical Constituents
 
 The principal psychoactive alkaloid of Tabernanthe iboga is ibogaine
-(C20H26N2O), a complex indole alkaloid that can also be produced
+(C20H26N2O), a complex [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] that can also be produced
 synthetically in the laboratory. Ibogaine is concentrated primarily in the
 root bark, which is the plant part most commonly used in ceremonial and
 medicinal preparations.
 
 The active principles of Iboga belong to the indole alkaloid class, placing
 them in the same broad chemical category as the tryptamine derivatives found
-in Teonanacatl (Psilocybe species) and Ololiuqui ([[anadenanthera-colubrina]] — South American tryptamine-containing tree
+in Teonanacatl (Psilocybe species) and Ololiuqui ([[anadenanthera-colubrina]] — [[chiric-caspi-brunfelsia-south-american-hallucinogen]] tryptamine-containing tree
 - [[datura-metel]] — Solanaceous plant with tropane alkaloids
 - [[atropa-belladonna]] — European nightshade with atropine

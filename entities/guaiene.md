@@ -14,7 +14,7 @@ sources:
   - Degenhardt, J. et al. (2009). "Monoterpenes and sesquiterpenes in plants." Annual Plant Reviews 39: 61-92.
   - Rice, S. & Koziel, J.A. (2015). "The role of sesquiterpenes in cannabis aroma." Flavour and Fragrance Journal 30(5): 341-353.
   - Fraga, B.M. (2012). "Natural sesquiterpenoids." Natural Product Reports 29(11): 1334-1368.
-  - Maffei, M.E. (2010). "Sites of synthesis, biochemistry and functional role of plant volatiles." South African Journal of Botany 76(4): 612-631.
+  - Maffei, M.E. (2010). "Sites of synthesis, biochemistry and functional role of plant volatiles." [[kanna-sceletium-south-african-narcotic]] Journal of Botany 76(4): 612-631.
   - Gershenson, J. & Dudareva, N. (2007). "The function of terpene natural products in the natural world." Nature Chemical Biology 3(7): 408-414.
 created: 2026-04-28
 ---
@@ -27,9 +27,9 @@ created: 2026-04-28
 
 The principal isomers include **α-guaiene**, **β-guaiene**, and **guai-6,9-diene**, all sharing a bicyclic structure.
 
-Guaienes are significant constituents of the essential oils of numerous aromatic plants and contribute to their characteristic woody, spicy aromas.
+Guaienes are significant constituents of the [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of numerous aromatic plants and contribute to their characteristic woody, spicy aromas.
 
-In cannabis, α-guaiene is a minor but pharmacologically relevant terpene that may contribute to the entourage effect.
+In cannabis, α-guaiene is a minor but pharmacologically relevant terpene that may contribute to the [[cannabis-terpene-entourage-effect-profiles]].
 
 ## Chemical Properties
 
@@ -51,7 +51,7 @@ It also occurs in guaiacwood (*Bulnesia sarmientoi*), cypress, galbanum, and sev
 
 β-Guaiene is present in hops (*Humulus lupulus*), black pepper (*Piper nigrum*), and ginger (*Zingiber officinale*).
 
-In cannabis flower resin, guaiene typically comprises 0.1–0.5% of the total terpene profile depending on cultivar.
+In [[cervantes-cannabis-flower-anatomy]] resin, guaiene typically comprises 0.1–0.5% of the total terpene profile depending on cultivar.
 
 The biosynthesis of guaiene proceeds via the mevalonate pathway from farnesyl pyrophosphate (FPP).
 
@@ -79,7 +79,7 @@ Antifungal effects against *Candida* species have also been observed in disc dif
 
 Preliminary studies indicate weak antioxidant activity, scavenging DPPH radicals at higher concentrations.
 
-α-Guaiene has been investigated as a natural insect repellent and antifeedant in agricultural pest management.
+α-Guaiene has been investigated as a natural insect repellent and antifeedant in agricultural [[cannabis-pest-management-guide]].
 
 The compound shows low acute toxicity with an estimated LD₅₀ > 5,000 mg/kg in rodent models.
 
@@ -93,7 +93,7 @@ Some research suggests guaiene may modulate the pharmacokinetics of cannabinoids
 
 Cannabis cultivars with elevated guaiene levels tend to have complex, "gassy" or "earthy" aromatic profiles.
 
-The compound may interact synergistically with CB₂ receptor agonists, though this interaction is not well characterized.
+The compound may interact synergistically with CB₂ [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]], though this interaction is not well characterized.
 
 ## Industrial and Commercial Uses
 

@@ -1,5 +1,5 @@
 ---
-title: "Syncretic Entheogenic Churches — Brazil, Bwiti, and Native American Church"
+title: "metzner syncretic entheogenic churches brazil bwiti Churches — Brazil, Bwiti, and Native American Church"
 type: concept
 tags:
   - entheogens
@@ -23,7 +23,7 @@ sources:
 
 Syncretic entheogenic churches represent a distinct category of
 psychoactive plant use that occupies a middle ground between traditional
-shamanic healing rituals and modern therapeutic practice.
+[[metzner-shamanic-healing-and-divination-paradigm]] rituals and modern therapeutic practice.
 
 Ralph Metzner distinguished these from shamanic ceremonies by their
 emphasis on group worship and celebration rather than individual healing
@@ -33,7 +33,7 @@ They typically involve larger groups of 20 to several hundred
 participants, use standardized ceremonial formats, and are organized
 into legally recognized religious institutions.
 
-The most significant examples include the Brazilian ayahuasca churches,
+The most significant examples include the [[metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism]] churches,
 the Native American Church, and the Bwiti cult of Central Africa.
 
 ## Brazilian Ayahuasca Churches
@@ -73,7 +73,7 @@ involve almost constant singing of traditional peyote songs with a rapid,
 rhythmic beat. There is virtually no discussion of healing processes or
 visions during or after the ceremony.
 
-For most of the twentieth century, the NAC enjoyed legal access to peyote
+For most of the [[coleman-louis-savier-twentieth-century-maraicher]], the NAC enjoyed legal access to peyote
 in most Western states, though this protection has been eroded by recent
 court decisions. Membership is legally limited to persons with 25% or more
 Native American ancestry. NAC participation is associated with reduced
@@ -83,7 +83,7 @@ impact of alcohol on Native American communities.
 ## The Bwiti Cult — Gabon and Zaire
 
 The Bwiti cult among the Fang people of Gabon and Zaire involves the use
-of iboga (Tabernanthe iboga), from which ibogaine is derived.
+of iboga ([[plants-of-the-gods-tabernanthe-iboga-chemistry]]), from which ibogaine is derived.
 
 The Fang, who are village dwellers, say they learned about iboga from the
 Pygmies, the deep forest dwellers.
@@ -140,6 +140,6 @@ democratization of entheogenic experience: access is expanded from a
 
 - [[metzner-four-paradigms-entheogenic-healing]]
 - metzner syncretic entheogenic folk ceremonies community churches
-- metzner hallucinogens psychotherapy shamanism
+- metzner [[metzner-hallucinogens-psychotherapy-and-shamanism]] shamanism
 - [[entheogen-bwiti-iboga-initiation-fang-society]]
 - [[metzner-psychedelic-psychotherapy-clinical-history]]

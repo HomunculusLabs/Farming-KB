@@ -1,5 +1,5 @@
 ---
-title: "Yage Cross-Cultural Experience: Common Themes in South American Ayahuasca Visions"
+title: "Yage Cross-Cultural Experience: Common Themes in chiric-caspi-brunfelsia-south-american-hallucinogen amaringo-ayahuasca-visions-shipibo-iconography"
 created: "2026-04-16"
 updated: "2026-04-16"
 type: concept
@@ -9,11 +9,11 @@ sources:
 ---
 # Yage Cross-Cultural Experience: Common Themes in South American Ayahuasca Visions
 
-Michael J. Harner's survey "Common Themes in South American Indian Yage Experiences," published in [[cashinahua-banisteriopsis-use]], the most frequent hallucinations include brightly colored large snakes, jaguars and ocelots, spirits, large trees, lakes filled with anacondas and alligators, villages, traders, and gardens.
+Michael J. Harner's survey "Common Themes in South [[harner-american-indian-peyote-rituals]] Yage Experiences," published in [[cashinahua-banisteriopsis-use]], the most frequent hallucinations include brightly colored large snakes, jaguars and ocelots, spirits, large trees, lakes filled with anacondas and alligators, villages, traders, and gardens.
 
 ## Limits of the Data
 
-Harner acknowledged that all the Banisteriopsis-using peoples surveyed occupy a tropical forest environment and their cultures often share much in content. Given their relative contiguity and environmental and cultural similarities, it is "virtually impossible to isolate the nature of the yage-induced experience from its cultural context" on the basis of ethnographic data alone.
+Harner acknowledged that all the Banisteriopsis-using peoples surveyed occupy a [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] environment and their cultures often share much in content. Given their relative contiguity and environmental and cultural similarities, it is "virtually impossible to isolate the nature of the yage-induced experience from its cultural context" on the basis of ethnographic data alone.
 
 He called for comparative material from non-Amazonian settings — such as the experimental study by [[hallucinogens-and-shamanism-harner-anthology]]
 [[campa-ayahuasca-ceremony]]
@@ -21,7 +21,7 @@ He called for comparative material from non-Amazonian settings — such as the e
 [[hallucinogens-and-shamanism-harner-anthology]]
 [[mazatec-mushrooms-of-language]] and [[shamanic-trance-cross-cultural-patterns]].
 
-The growing global popularity of ayahuasca, including urban healing practices documented in [[urban-ayahuasca-iquitos-healing]], has created new opportunities for cross-cultural comparison. Contemporary ayahuasca drinkers in urban settings often report visions of snakes, jaguars, and spirit beings that closely parallel the indigenous experiences catalogued by Harner, suggesting that these themes may indeed be more pharmacologically than culturally determined.
+The growing global popularity of ayahuasca, including urban healing practices documented in [[urban-ayahuasca-iquitos-healing]], has created new opportunities for cross-cultural comparison. Contemporary ayahuasca drinkers in urban settings often report visions of snakes, jaguars, and [[metzner-spirit-beings-multiple-realities-entheogens]] that closely parallel the indigenous experiences catalogued by Harner, suggesting that these themes may indeed be more pharmacologically than culturally determined.
 
 ## References and Further Reading
 
@@ -107,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

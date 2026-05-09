@@ -20,7 +20,7 @@ type: concept
 
 Kaposi's sarcoma (KS) is an abnormal connective tissue mass, commonly
 presenting as multiple lesions on the skin. Moritz Kaposi first described the
-disease in the late nineteenth century. At that time it was thought to be a
+disease in the late [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]. At that time it was thought to be a
 cancer, a hereditary condition, or a viral infection. The confusion continued
 at the beginning of the "AIDS epidemic" in the early 1980s, when doctors
 considered it the signature disease in people diagnosed with AIDS (especially
@@ -66,7 +66,7 @@ an increased risk of developing Kaposi's sarcoma.
 ## Strain-Specific Considerations
 
 WIN55,212-2 binds with higher affinity to CB2 receptors than CB1 receptors.
-Indicas and indica-dominant strains tend to present a lower THC:CBD ratio,
+Indicas and indica-dominant strains tend to present a lower THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]],
 thus relatively favoring CB2 receptor activation. This suggests that indica
 strains with higher CBD content may be more relevant for potential anti-KS
 therapeutic applications.
@@ -98,4 +98,4 @@ aspects of yourself."
 
 - [[blesching-cannabis-cancer-symptoms]]
 - [[blesching-cannabis-liver-cancer]]
-- [[blesching-endocannabinoid-system-overview]]
+- [[endocannabinoid-system-overview]]

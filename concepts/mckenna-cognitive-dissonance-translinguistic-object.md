@@ -1,7 +1,7 @@
 ---
-title: "Cognitive Dissonance and the Translinguistic Object in DMT Experience"
+title: "mckenna cognitive dissonance translinguistic object and the Translinguistic Object in mckenna-dmt-experience-and-hyperspace"
 source: mckenna_t-tryptamines_consciousness.md
-author: Terence McKenna
+author: [[terence-mckenna]]
 tags: [cognitive-dissonance, translinguistic, dmt, language, wonder, glossolalia, cognition]
 created: 2026-05-08
 ---
@@ -15,7 +15,7 @@ created: 2026-05-08
 
 ## References
 
-- McKenna, T. (198[[tryptamine-hallucinogens-and-consciousness]] ness. Esalen.
+- McKenna, T. (198 ness. Esalen.
 ## Background and Context
 
 Cognitive Dissonance and the Translinguistic Object in DMT Experience is an important subject that has garnered significant attention
@@ -66,7 +66,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -144,4 +144,6 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
+## See Also
 
+- [[mckenna-translinguistic-objects-cognitive-dissonance-tryptamine]]

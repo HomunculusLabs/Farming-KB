@@ -1,11 +1,11 @@
 ---
 title: "Chinampas Agriculture"
 created: 2026-04-28
-tags: [[permaculture, aquaculture, traditional-agriculture, wetland]
+tags: [permaculture, aquaculture, traditional agriculture, wetland]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  ["~/wiki/raw/papers/bill-mollison-permaculture-design-course.md"]
+sources: sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
 
@@ -14,136 +14,93 @@ type: concept
 Chinampas are artificial agricultural islands built in shallow lake beds
 or marshes, an ingenious system developed by the Aztec and earlier
 Mesoamerican civilizations in the Valley of Mexico. Bill Mollison
-frequently cited chinampas as one of the most productive and
-sustainable agricultural systems ever designed, capable of producing
-multiple crops per year with minimal external inputs. The chinampa
-system integrates aquatic and terrestrial agriculture in a way that
-demonstrates core permaculture principles of element integration,
-nutrient cycling, and edge maximization.
+frequently cited chinampas as one of the most productive and sustainable
+agricultural systems ever designed.
 
-## Historical Background
+## History and Origin
 
 The chinampa system was developed in the shallow lakes of the Valley of
 Mexico, particularly around Lake Xochimilco and Lake Chalco, as early as
 1150 BCE and reached its peak development under Aztec civilization
-between 1300 and 1521 CE. At the height of their use, chinampas covered
-approximately 12,000 hectares and fed an estimated population of 200,000
-people in Tenochtitlan, making it one of the largest pre-industrial
-cities in the world.
+between 1300 and 1521 CE.
 
-The system was so productive that it supported a population density that
-exceeded many modern agricultural areas. Spanish conquistadors reported
-that chinampa fields could produce up to seven harvests per year. Parts
-of the Xochimilco chinampa system remain in active production today,
-over 500 years after the Spanish conquest.
+At the height of their use, chinampas covered approximately 12,000
+hectares and fed an estimated population of 200,000 people in
+Tenochtitlan, making it one of the largest pre-industrial cities in the
+world. The system was so productive that it supported a population
+density that exceeded many modern agricultural areas.
 
-## How Chinampas Work
+Spanish conquistadors reported that chinampa fields could produce up to
+seven harvests per year. Parts of the Xochimilco chinampa system remain
+in active production today, over 500 years after the Spanish conquest.
 
-### Construction
+## Construction Methods
 
-Chinampas are built by dredging rich mud and organic matter from the
-lake bottom and piling it between parallel rows of woven reed fences
-or willow stakes driven into the lake bed. The resulting rectangular
-islands are typically 2-10 meters wide and 20-100 meters long, with
-canals of similar width running between them.
+Chinampas are built by dredging rich mud and [[hamilton-composting-and-organic-matter-management]] from the
+lake bottom and piling it between parallel rows of woven reed fences or
+willow stakes driven into the lake bed. The resulting rectangular
+islands are typically 2 to 10 meters wide and 20 to 100 meters long.
 
-The construction process itself improves the growing medium: the
-dredged lake mud is rich in organic matter, nitrogen, and minerals
-accumulated from decomposing aquatic plants and animal waste. The
-willow stakes take root and stabilize the island edges while providing
-additional biomass through leaf fall and pruning.
+The construction process itself improves the growing medium: the dredged
+lake mud is rich in organic matter, nitrogen, and minerals accumulated
+from decomposing aquatic plants and animal waste. The willow stakes take
+root and stabilize the island edges while providing additional biomass
+through leaf fall and pruning.
 
-### Nutrient Cycling
+Building a chinampa is labor-intensive but requires no external inputs.
+The dredging operation simultaneously deepens the canals and raises the
+growing surface. A well-built chinampa can remain productive for
+centuries with periodic maintenance dredging.
 
-The genius of the chinampa system lies in its integrated nutrient
-cycling. The canals between islands serve multiple functions:
-- They provide irrigation water to the fields
-- Aquatic plants (water hyacinth, duckweed) grow abundantly and are
-  harvested for mulch and green manure
-- Fish and amphibians in the canals deposit nutrient-rich waste
-- Dredged canal mud is periodically applied to the field surface as
-  fertilizer
-- The canals provide habitat for fish that can be harvested for food
+## Crops Grown
 
-This creates a nearly closed nutrient loop where nothing is wasted.
-Mollison described it as "the most productive agricultural system ever
-devised by humans."
+Traditional chinampa crops include maize, beans, squash, chilies,
+tomatillos, amaranth, and a wide variety of vegetables and herbs. The
+three sisters (maize, beans, and squash) are planted together in a
+[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] arrangement on the chinampas.
 
-### Microclimate Benefits
+Maize yields of 3 to 4 tonnes per hectare per harvest with 2 to 3
+harvests yearly far exceed typical rain-fed agriculture in the same
+region. Flowers, particularly marigolds, became an important chinampa
+crop and remain a major export from Xochimilco today.
 
-The water between the chinampa islands moderates temperature extremes.
-During hot days, water evaporation cools the surrounding air. During
-cold nights, the water retains heat and reduces frost risk. This
-moderation extends the growing season significantly compared to
-surrounding dryland areas.
-
-### Production
-
-Chinampas are among the most productive agricultural systems on Earth:
-- Maize yields of 3-4 tonnes per hectare per harvest, 2-3 times yearly
-- Additional harvests of beans, squash, chilies, and vegetables
-- Fish and aquatic plant harvests from the canals
-- Total productivity estimated at 5-10 times conventional rain-fed
-  agriculture in the same region
+Modern adaptations can incorporate any crops suited to the local climate
+and the moderated microclimate that chinampas provide. The water between
+islands extends the [[savory-growing-season-and-non-growing-season-management]] significantly compared to surrounding
+dryland areas.
 
 ## Modern Applications
-
-### Adapted Chinampa Designs
 
 While traditional chinampas require lake or wetland environments, the
 principles can be adapted to various settings. Mollison described
 modified chinampa systems for farm dams, irrigation ponds, and
-constructed wetlands. Any shallow water body can serve as the foundation
-for chinampa-style agriculture.
+[[comparison-constructed-wetlands-vs-bioswales]]. Any shallow water body can serve as the foundation.
 
-### Keyline-Chinampa Integration
-
-Combining keyline design with chinampa principles creates highly
+Combining [[query-how-does-keyline-design-work-in-permaculture]] with chinampa principles creates highly
 productive systems on land with existing water features. Earthworks are
 used to create shallow channels between raised growing beds, replicating
-the water moderation and nutrient cycling benefits of traditional
-chinampas.
-
-### Urban Chinampas
+the water moderation and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] benefits.
 
 Small-scale chinampa-inspired systems can integrate into urban water
 features and retention ponds. These provide both food production and
 water treatment services, demonstrating the permaculture principle of
 multiple functions.
 
-## Design Considerations
+## Ecological Benefits
 
-### Water Requirements
+The genius of the chinampa system lies in its integrated nutrient
+cycling. The canals between islands provide irrigation water, support
+aquatic plants harvested for mulch, host fish and amphibians that
+deposit nutrient-rich waste, and supply dredged canal mud for fertilizer.
 
-Chinampas require a reliable water source to maintain the canal system.
-In arid climates, evaporation losses must be carefully managed. The
-water depth in canals should be maintained at 0.5-2 meters for optimal
-function.
+This creates a nearly closed nutrient loop where nothing is wasted.
+Mollison described it as "the most productive agricultural system ever
+devised by humans." The water between chinampa islands moderates
+temperature extremes, cooling during hot days and reducing frost risk
+on cold nights.
 
-### Species Selection
-
-Traditional chinampa crops include maize, beans, squash, chilies,
-tomatillos, amaranth, and a wide variety of vegetables and herbs.
-Modern adaptations can incorporate any crops suited to the local
-climate and the moderated microclimate that chinampas provide.
-
-### Edge Plantings
-
-Willow (Salix spp.) is the traditional stabilizing species for chinampa
-edges. Other options include bamboo, vetiver grass, and various fruiting
-shrubs. These edge plantings stabilize soil, provide mulch material,
-and produce additional harvests.
-
-## Limitations
-
-- Requires access to shallow water or the ability to create it
-- Labor-intensive to construct initially
-- May require regulatory permits for wetland modification
-- Potential for waterborne disease vectors in tropical climates
-- Vulnerability to water contamination from upstream sources
 ## See Also
 
 - [[water-garden-and-ponds]]
 - [[aquatic-polyculture-design-mollison]]
-
-See also: [[native-american-planting-methods-and-indigenous-agriculture]]
+- [[natives-vs-exotics]]

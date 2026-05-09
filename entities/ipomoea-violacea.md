@@ -18,7 +18,7 @@ sources:
 
 ## Common Names
 
-Morning Glory, Tlililtzin, Piule, Badoh Negro, Heavenly Blue Morning
+[[golden-guide-morning-glory-and-ololiuqui]], Tlililtzin, Piule, Badoh Negro, Heavenly Blue Morning
 Glory, Pearly Gates.
 
 ## Taxonomy
@@ -30,7 +30,7 @@ Glory, Pearly Gates.
 
 **Synonym:** Ipomoea rubrocaerulea Hook.
 
-The taxonomy of psychoactive morning glories has been a source of
+The taxonomy of psychoactive [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] has been a source of
 considerable confusion. Ipomoea violacea is frequently listed alongside
 [[turbina-corymbosa]] (Ololiuqui), being ground, soaked in water,
 and consumed as an infusion to induce visionary states during
@@ -42,7 +42,7 @@ The plant is known by various indigenous names across southern Mexico:
   who continue to employ the seeds in traditional healing and
   divinatory practices.
 - **Badoh Negro** — the Zapotec name, distinguishing the black seeds
-  of Ipomoea violacea from the lighter seeds of Turbina corymbosa
+  of Ipomoea violacea from the lighter seeds of [[plants-of-the-gods-turbina-corymbosa-ololiuqui]]
   (Badoh Blanco).
 
 The Chinantec use piule seeds in ceremonial contexts similar to those
@@ -58,9 +58,11 @@ Despite centuries of suppression by colonial and later Mexican
 authorities, the tradition of using morning glory seeds in indigenous
 healing and ceremonial practice has persisted in Oaxaca and surrounding
 regions. In the 20th century, the psychoactive properties of the seeds
-were confirmed through chemical analysis by gordon-wasson and others,
+were confirmed through [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] by gordon-wasson and others,
 who identified the ergoline alkaloids responsible for their effects.
 ## See Also
+
+- [[tulbaghia-violacea]]
 
 - [[turbina-corymbosa]]
 - [[datura-stramonium]]
@@ -83,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

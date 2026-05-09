@@ -1,5 +1,5 @@
 ---
-title: Container and Raised Bed Gardening
+title: Container and comparison-chinampas-vs-raised-bed-gardening Gardening
 created: 2026-04-26
 author: Geoff Hamilton
 sources: hamilton-geoffhamilton-nick_-organic-gardening.md
@@ -81,12 +81,12 @@ If your soil is very chalky or alkaline and you want to grow acid-
 loving plants (rhododendrons, azaleas, camellias, pieris), build a
 raised bed from railroad ties. Fill with half acid soil and half peat-
 substitute, or three parts peat-substitute to one part sharp sand.
-Spread chipped pine bark around the base to hide the ties.
+Spread chipped [[fukuoka-pine-bark-weevil-ecology]] around the base to hide the ties.
 
 ### Deep Beds for Vegetables
 The deep bed system (4 ft wide) doubles productive land by eliminating
 unproductive paths between rows. Dig deeply, break up subsoil, and
-incorporate plenty of organic matter. Roots grow downward rather than
+incorporate plenty of [[hamilton-composting-and-organic-matter-management]]. Roots grow downward rather than
 spreading sideways, so crops are planted closer together. Yields can
 be up to four times that of conventional beds.
 
@@ -104,7 +104,7 @@ weather is very dry.
 
 ### Feeding
 Nutrients are continually washed through the compost. Feed weekly
-with liquid kelp or animal manure during the growing season. No
+with liquid kelp or [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] during the [[savory-growing-season-and-non-growing-season-management]]. No
 feeding is necessary in winter.
 
 ### Deadheading
@@ -126,3 +126,7 @@ organisms. Particularly effective for heavy clay soils.
 
 See also: [[hamilton-herb-garden-design]],
 [[hamilton-organic-fruit-growing]]
+
+## See Also
+
+- [[comparison-wicking-bed-vs-container-gardening]]

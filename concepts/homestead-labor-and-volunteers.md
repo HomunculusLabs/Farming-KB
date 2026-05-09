@@ -65,7 +65,7 @@ As a homestead grows beyond what one or two people can manage, labor becomes a c
 - Often attracts travelers with diverse skills (carpentry, photography, IT)
 
 ### Differences from WWOOF
-- Less focus on organic farming specifically
+- Less focus on [[coleman-deep-organic-farming-philosophy]] specifically
 - More diverse volunteer pool (international travelers)
 - Some volunteers have specialized skills (web design, construction)
 - Less structured than WWOOF
@@ -132,7 +132,7 @@ As a homestead grows beyond what one or two people can manage, labor becomes a c
 - Experienced farm worker: $16-22/hour
 - Farm manager: $40,000-55,000/year
 - Market sales: $15-20/hour
-- Include benefits discussion: flexibility, farm products, housing (if applicable)
+- Include benefits discussion: flexibility, [[selling-farm-products-and-business]], housing (if applicable)
 
 ## Labor Laws
 
@@ -143,46 +143,7 @@ As a homestead grows beyond what one or two people can manage, labor becomes a c
 - OSHA: Occupational Safety and Health Administration applies to farms with 11+ employees (smaller farms largely exempt)
 - H-2A visa program: for hiring seasonal foreign agricultural workers (complex, expensive, but legal pathway for labor shortage)
 
-### State Requirements
-- State minimum wage may exceed federal ($7.25/hour) -- most states are $12-16/hour
-- State workers comp requirements vary
-- State unemployment insurance: required for most employers
-- State-mandated breaks and meal periods
-- Agricultural exemptions: many states have specific exemptions for small farms
-- Check your state department of labor for specifics
-
-### Best Practices
-- Written job descriptions for all positions
-- Employee handbook (even a simple one-page version)
-- Clear payroll records (hours, rate, deductions)
-- Regular performance feedback
-- Safety training and documented safety procedures
-- Clear termination procedures
-
-## Managing Volunteers and Employees
-
-### Onboarding
-- Farm tour and orientation on day one
-- Safety briefing: hazards, emergency procedures, first aid kit locations
-- Demonstrate tasks before expecting independent work
-- Pair new helpers with experienced people
-- Check in frequently during first week
-
-### Communication
-- Daily check-ins: what needs to be done, any questions
-- Weekly meetings for longer-term helpers
-- Written task lists for clarity
-- Open door policy: encourage questions and feedback
-- Address problems early -- small issues become big problems quickly
-
-### Retention
-- Treat all helpers with respect regardless of arrangement
-- Provide meaningful work (not just the worst tasks)
-- Share the harvest: send volunteers home with produce
-- Say thank you -- genuinely and often
-- Provide learning opportunities and skill development
-- Build community: shared meals, celebrations, social events
-
-Effective labor management is often the difference between a [[homestead-scale-assessment]] that stays at hobby level and one that grows to full-time farm income.
-
-See also: [[holistic-grazing-and-pasture-management]]
+## See Also
+- [[homestead-scale-assessment]]
+- [[homestead-insurance-guide]]
+- [[natural-farm-food-preservation-methods]]

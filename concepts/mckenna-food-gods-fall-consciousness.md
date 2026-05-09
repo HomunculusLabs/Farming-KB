@@ -10,7 +10,7 @@ updated: 2026-04-26
 
 # The Fall of Consciousness
 
-"The Fall of Consciousness" is McKenna's historical analysis of how human civilization shifted from the ecstatic, mushroom-based partnership societies of prehistory to the repressive, alcohol-fueled dominator cultures of recorded history. Spanning the period from the destruction of Çatal Höyük (circa 5500 B.C.) to the suppression of the [[agar]]ic (*Amanita muscaria*), but rather the psilocybin-containing *Stropharia cubensis* growing in cattle dung.
+"The Fall of Consciousness" is McKenna's historical analysis of how human civilization shifted from the ecstatic, mushroom-based partnership societies of prehistory to the repressive, alcohol-fueled [[partnership-and-dominator-cultures-in-human-history]] of recorded history. Spanning the period from the destruction of Çatal Höyük (circa 5500 B.C.) to the suppression of the agaric (*[[allegro-amanita-muscaria-properties-and-pharmacology]]*), but rather the psilocybin-containing *[[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]* growing in cattle dung.
 
 The eventual abandonment of Soma worship — and the Brahmanic prohibition against mushroom consumption — represented for McKenna the final suppression of the mushroom cult in the Old World. He noted Wasson's own admission that "the possible role of Stropharia cubensis growing in the dung of cattle in the lives of the lower orders remains to this day wholly unexplored" and asked rhetorically whether this was "a contributing reason for abandoning Soma."
 
@@ -21,7 +21,7 @@ McKenna views Minoan Crete as the last great flourishing of the partnership/Godd
 - **Goddess-centered religion** with strong connections to earlier Anatolian and African cults
 - **Dionysus** — originally a Minoan deity, "son of the Great Mother Goddess and totally subservient to her," whose androgyny, madness, and personification of ecstatic intoxication McKenna reads as "the image of the spiritual crises that overcame the Minoan Archaic ideal"
 - **Openness to altered states** — McKenna cites evidence that Minoan culture incorporated opium into its religious rites, noting that "periods of 'strong medicine' usually occur when the simpler methods no longer suffice"
-- **The Eleusinian Mysteries** — the direct descendant of Minoan rites, celebrated for nearly two thousand years on the plain near Athens, where "literally everyone who was anyone made their way to the great harvest festival"
+- **The [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]** — the direct descendant of Minoan rites, celebrated for nearly two thousand years on the plain near Athens, where "literally everyone who was anyone made their way to the great harvest festival"
 
 The Eleusinian Mysteries were finally suppressed by Christian barbarians in A.D. 268. McKenna calls this "the consequence of that severed connection" — the modern world, "a planet dying under moral anesthesia."
 
@@ -29,7 +29,7 @@ The Eleusinian Mysteries were finally suppressed by Christian barbarians in A.D.
 
 McKenna drew a sharp pharmacological distinction between the substances preferred by partnership and dominator cultures:
 
-- **Visionary hallucinogens** (psilocybin, DMT, morning glories) — dissolve social boundaries, promote egalitarian bonding, stimulate language and creativity, connect the user to the transcendent Other. Associated with Goddess worship and partnership societies.
+- **Visionary hallucinogens** (psilocybin, DMT, [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]) — dissolve social boundaries, promote egalitarian bonding, stimulate language and creativity, connect the user to the transcendent Other. Associated with Goddess worship and partnership societies.
 - **Alcohol and narcotics** (mead, beer, wine, opium) — reinforce social hierarchy, promote competitiveness and aggression, dull the higher cognitive functions, produce dependence. Associated with male sky-god religion and dominator societies.
 
 McKenna argued that this is not an arbitrary cultural preference but a reflection of the pharmacological properties of the substances themselves. Hallucinogens are inherently "deconditioning agents" that "force the corrosive process of reform of community values" and "reveal the relativity of conventional values," making them "powerful forces in the political struggle to control the evolution of social images." Dominator cultures naturally suppress them because they threaten the very basis of hierarchical authority.
@@ -63,7 +63,7 @@ McKenna extended this analysis to the modern era, arguing that the 20th-century 
 
 Further research on mckenna food gods fall consciousness continues to advance our understanding of this field. Contemporary studies build upon the foundational work described above, incorporating modern molecular techniques, genomic analyses, and ecological modeling approaches.
 
-The interplay between environmental factors and biological responses in mckenna food gods fall consciousness represents an active area of investigation, with implications for both theoretical ecology and practical applications in agriculture, medicine, and conservation.
+The interplay between [[duggar-mushroom-environmental-factors-temperature-moisture-light]] and biological responses in mckenna food gods fall consciousness represents an active area of investigation, with implications for both theoretical ecology and practical applications in agriculture, medicine, and conservation.
 
 Key areas of ongoing research include optimization of cultivation parameters, understanding genetic regulation of relevant pathways, and development of improved methodologies for assessment and implementation.
 ## Practical Considerations
@@ -84,4 +84,6 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+- [[mckenna-food-gods-designer-states-of-consciousness]]
+- [[stropharia-cubensis]]
+- [[amanita-muscaria]]

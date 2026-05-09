@@ -1,5 +1,5 @@
 ---
-title: Cannabis Hashish Screening and Pressing
+title: Cannabis cannabis hashish screening and pressing and Pressing
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Cannabis Grow Bible, Greg Green (Ch. 17)
+Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, Greg Green (Ch. 17)
 
 Hashish (hash) is a concentrated cannabis product made by collecting and compressing the resinous trichomes from the plant surface. Greg Green covers screening and pressing techniques in detail.
 
@@ -92,7 +92,7 @@ Once you have collected skuff, it needs to be pressed into hashish:
 - **Bubble bags**: Screen bags designed for ice water extraction
 - **Pollinator/tumbler**: Mechanical devices that tumble plant material over screens
 - **Press**: A hash press, c-clamp, or even a hair straightener for small quantities
-- **Parchment paper**: For pressing and storage
+- **Parchment paper**: For [[hashish-binding-pressing-and-storage-techniques]]
 - **Collection cards**: Credit cards or similar for gathering sifted material
 
 ## Storage
@@ -105,8 +105,10 @@ Store hashish in:
 
 ## Related
 
+- [[cannabis-rosin-pressing]]
+
 - [[cannabis-hashish-guide]] — comprehensive hash making guide
-- [[cannabis-trichome-guide]] — understanding trichomes and resin
+- [[cannabis-trichome-guide]] — understanding [[greg-green-trichomes-and-resin-glands]]
 - [[cannabis-harvest-timing-visual-cues]] — harvesting for peak trichome production
 - [[cannabis-glandular-trichome-types-resin-production-clarke]]
 - [[cannabis-hash-making-from-extracted-oil]]

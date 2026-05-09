@@ -1,5 +1,5 @@
 ---
-title: Cannabis Pollen Collection
+title: Cannabis cannabis-pollen-collection-storage-clarke
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -10,11 +10,11 @@ tags: [cannabis]
 
 # Cannabis Pollen Collection
 
-Pollen collection is a critical skill for any cannabis breeding program.
+Pollen collection is a critical skill for any cannabis [[cervantes-breeding-program-design-goal-setting]].
 Properly collected, stored, and applied pollen enables breeders to make
 targeted crosses, control genetic outcomes, and produce seeds with
 desired traits. Cervantes provides detailed practical guidance drawn
-from both commercial seed production and home breeding contexts.
+from both commercial [[cervantes-seed-production-storage]] and home breeding contexts.
 
 ## Understanding Pollen Biology
 
@@ -83,7 +83,7 @@ transfer it to a collection container using a sterile scraper.
 
 ## Pollen Storage
 
-Pollen does not have a long shelf life under natural conditions. It is
+Pollen does not have a long [[psilocybin-shelf-life-stability]] under natural conditions. It is
 easily destroyed by high temperatures and moisture. However, with
 proper handling, pollen can remain viable for extended periods:
 

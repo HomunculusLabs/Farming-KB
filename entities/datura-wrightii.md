@@ -16,7 +16,7 @@ sources:
 
 # Datura wrightii
 
-**Datura wrightii** Regel, commonly known as sacred datura, angel's trumpet, thornapple, or toloache (from Nahuatl *tloloxóchitl*, meaning "the plant that makes one crazy"), is a perennial herbaceous plant in the family Solanaceae. It is native to the southwestern United States and northern Mexico and is one of the most culturally significant entheogenic plants among indigenous peoples of the American Southwest and Mesoamerica. The plant contains potent tropane alkaloids, primarily scopolamine and hyoscyamine, which can induce powerful visionary states at low doses but are extremely toxic and potentially lethal at higher doses.
+**Datura wrightii** Regel, commonly known as sacred datura, angel's trumpet, thornapple, or toloache (from Nahuatl *tloloxóchitl*, meaning "the plant that makes one crazy"), is a perennial herbaceous plant in the family Solanaceae. It is native to the southwestern [[dmt-containing-plants-united-states-halpern]] and northern Mexico and is one of the most culturally significant entheogenic plants among indigenous peoples of the American Southwest and Mesoamerica. The plant contains potent tropane alkaloids, primarily [[scopolamine]] and [[hyoscyamine]], which can induce powerful visionary states at low doses but are extremely toxic and potentially lethal at higher doses.
 
 ## Taxonomy and Description
 
@@ -44,13 +44,13 @@ The species is exceptionally adaptable and thrives in disturbed habitats. It oft
 
 ## Chemistry
 
-*Datura wrightii* contains a complex mixture of tropane alkaloids, with the principal constituents being scopolamine (hyoscine) and hyoscyamine (with atropine being the racemic form of hyoscyamine). The total alkaloid content of the plant varies depending on the plant part, age, growing conditions, season, and genetic factors, but typically ranges from 0.2% to 0.8% of dry weight in the leaves, and can be higher in the seeds.
+*Datura wrightii* contains a complex mixture of tropane alkaloids, with the principal constituents being scopolamine (hyoscine) and hyoscyamine (with [[atropine]] being the racemic form of hyoscyamine). The total alkaloid content of the plant varies depending on the plant part, age, growing conditions, season, and genetic factors, but typically ranges from 0.2% to 0.8% of dry weight in the leaves, and can be higher in the seeds.
 
 The leaves and seeds are the most alkaloid-rich parts of the plant. A notable chemical characteristic of *Datura wrightii* is that scopolamine generally predominates over hyoscyamine, which distinguishes it from *Datura stramonium* (jimsonweed), where hyoscyamine typically predominates. This scopolamine-dominant profile is shared with *Datura inoxia* and is one of the features used to distinguish these species from *D. stramonium* chemically.
 
 Minor alkaloids that have been reported from *Datura wrightii* include apohyoscine, meteloidine, 3-alpha-tigloyloxytropane, 3-alpha,6-beta-ditigloyloxytropane, and norhyoscyamine. The alkaloid profile varies between populations and even between individual plants.
 
-Tropane alkaloids are competitive antagonists of muscarinic acetylcholine receptors. They produce the classic anticholinergic toxidrome characterized by mydriasis (dilated pupils), cycloplegia (paralysis of accommodation), tachycardia, dry mouth and skin (xerostomia, anhidrosis), urinary retention, intestinal hypomotility, hyperthermia, and at higher doses, delirium, visual and auditory hallucinations, amnesia, and potentially fatal respiratory or cardiac arrest. The therapeutic index of these compounds is very narrow, and the difference between a psychoactive dose and a lethal dose is dangerously small and unpredictable.
+Tropane alkaloids are competitive antagonists of muscarinic acetylcholine receptors. They produce the classic anticholinergic toxidrome characterized by mydriasis (dilated pupils), cycloplegia (paralysis of accommodation), tachycardia, dry mouth and skin (xerostomia, anhidrosis), urinary retention, intestinal hypomotility, hyperthermia, and at higher doses, delirium, visual and auditory hallucinations, amnesia, and potentially fatal respiratory or cardiac arrest. The [[cannabis-therapeutic-index-overview]] of these compounds is very narrow, and the difference between a psychoactive dose and a lethal dose is dangerously small and unpredictable.
 
 ## Ethnobotanical and Traditional Use
 
@@ -62,7 +62,7 @@ The Chumash people of coastal southern California used *Datura wrightii* in a ri
 
 Among the Luiseño (Payómkawichum) people of southern California, *Datura wrightii* was used by shamans to enter trance states for diagnosis and treatment of illness, divination, communication with the spirit world, and the acquisition of supernatural power. The plant was regarded with profound reverence and fear. The Luiseño word for the plant is sometimes translated as "vision plant" or "spirit plant." Its use was strictly controlled by ritual protocol, and improper or unauthorized use was believed to result in madness, permanent psychosis, or death.
 
-Similar ceremonial and medicinal uses of *Datura wrightii* have been documented among the Cahuilla, Kumeyaay (Diegueño), Tongva (Gabrielino), Apache, Yavapai, and other groups. In Mexican traditional medicine, the plant continues to be used as a remedy for asthma, rheumatism, neuralgia, hemorrhoids, and skin conditions.
+Similar ceremonial and medicinal uses of *Datura wrightii* have been documented among the Cahuilla, Kumeyaay (Diegueño), Tongva (Gabrielino), Apache, Yavapai, and other groups. In Mexican traditional medicine, the plant continues to be used as a remedy for asthma, rheumatism, neuralgia, hemorrhoids, and [[cannabis-for-skin-conditions-detailed]].
 
 ## Toxicity and Safety
 
@@ -72,9 +72,9 @@ There is no specific antidote for tropane alkaloid poisoning; treatment is suppo
 
 ## Comparison with Other Datura Species
 
-*Datura wrightii* can be distinguished from the other commonly encountered North American *Datura* species by several morphological features. From *Datura stramonium* (jimsonweed), it differs in its perennial habit, glandular-hairy (sticky) foliage, larger flowers, more robust rootstock, and the predominance of scopolamine over hyoscyamine in its alkaloid profile. *Datura stramonium* is an annual with smooth (glabrous) leaves, smaller flowers, sharply spined capsules, and a hyoscyamine-dominant chemistry.
+*Datura wrightii* can be distinguished from the other commonly encountered [[growing-gourmet-north-american-reishi-species]] *Datura* species by several morphological features. From *Datura stramonium* (jimsonweed), it differs in its perennial habit, glandular-hairy (sticky) foliage, larger flowers, more robust rootstock, and the predominance of scopolamine over hyoscyamine in its alkaloid profile. *Datura stramonium* is an annual with smooth (glabrous) leaves, smaller flowers, sharply spined capsules, and a hyoscyamine-dominant chemistry.
 
-From *Datura inoxia* (downy thornapple), *D. wrightii* is distinguished by its erect flower habit (flowers held above the foliage rather than nodding), its larger and more robust growth form, and subtle differences in the calyx morphology. *Datura inoxia* has flowers that are typically held in a more pendulous position and has a more densely tomentose leaf surface. The two species have overlapping ranges in northern Mexico and the southwestern United States, and natural hybridization may occur.
+From *Datura inoxia* (downy thornapple), *D. wrightii* is distinguished by its erect flower habit (flowers held above the foliage rather than nodding), its larger and more robust growth form, and subtle differences in the calyx morphology. *Datura inoxia* has flowers that are typically held in a more pendulous position and has a more densely tomentose [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]. The two species have overlapping ranges in northern Mexico and the southwestern United States, and natural hybridization may occur.
 
 *Datura discolor* (desert thornapple) is a smaller, more compact annual species of the Sonoran Desert that can be distinguished by its purple-tinged flowers with a conspicuously banded corolla tube and its more deeply lobed capsule. *Datura quercifolia* (oak-leaved datura) is distinguished by its deeply lobed oak-like leaves.
 

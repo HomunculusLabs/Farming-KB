@@ -1,5 +1,5 @@
 ---
-title: "Oyster Mushroom Cultivation in Kenya"
+title: "Oyster accessible-mushroom-cultivation-for-disabilities in Kenya"
 created: 2026-04-28
 tags: [regional, africa, kenya, small-scale]
 date: 2026-04-28
@@ -33,7 +33,7 @@ Oyster mushroom cultivation is not yet popular in Kenya, but the species is
 well-suited to local conditions. In August 2003, a project was initiated
 involving over 100 families growing Pleurotus sajor-caju in small spaces like
 kitchens. The project aimed to combat malnutrition by providing alternative
-protein sources. Key advantages of oyster mushrooms for Kenya include ease of
+protein sources. Key advantages of [[query-how-to-grow-oyster-mushrooms-at-home]] for Kenya include ease of
 growing, high yields, high fruiting temperature tolerance, and high
 nutritional content.
 
@@ -48,7 +48,7 @@ The greatest constraint on Kenya's mushroom industry is the lack of local
 [[cotter-oyster-mushroom-cultivation]]
 
 - Oyster Mushroom Economic Development
-- oyster cultivation kenya
+- [[gourmet-medicinal-mushroom-oyster-cultivation-methods]] kenya
 - Oyster [[mushroom-genetics-strain-selection]]
 ## Practical Considerations
 
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

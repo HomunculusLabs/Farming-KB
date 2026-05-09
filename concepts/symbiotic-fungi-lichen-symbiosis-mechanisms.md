@@ -9,7 +9,7 @@ sources: [raw/papers/symbiotic-fungi.md]
 
 # Lichen Symbiosis Mechanisms
 
-Source: Symbiotic Fungi (Varma and Kharkwal, eds.), Chapter 1
+Source: [[mycelium-running-symbiotic-fungi-relationships]] (Varma and Kharkwal, eds.), Chapter 1
 
 ## Introduction
 
@@ -32,8 +32,8 @@ kingdom:
 - Floating fern with Anabaena in ovoid cavities inside leaves
 - Heterocyst proportion increases from 5-10% (free-living) to 25-30% (symbiotic)
 - Epidermal cells form multicellular hairs with warty outgrowths (transfer cells)
-- Grown in rice fields as green manure: supplies 50-75% of crop nitrogen requirement
-- Extensively employed in China and Japan for rice cultivation
+- Grown in rice fields as [[comparison-green-manure-guide-vs-mulch-types-and-effects]]: supplies 50-75% of crop nitrogen requirement
+- Extensively employed in China and Japan for [[jadam-rice-cultivation-methods]]
 
 ### Gymnosperms (Cycas)
 
@@ -54,9 +54,9 @@ kingdom:
 Lichen symbiosis demonstrates that close, long-term interactions between different
 species create novel organismal forms with emergent properties. Key ecological roles:
 
-- Bioindicators of air quality due to pollution sensitivity
+- Bioindicators of [[cervantes-air-quality-ventilation]] due to pollution sensitivity
 - Pioneer organisms in primary succession (colonize bare rock)
-- Nitrogen fixation contributes to ecosystem nitrogen inputs
+- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] contributes to ecosystem nitrogen inputs
 - Important in nutrient-poor and extreme environments
 - Model systems for studying fundamental symbiotic mechanisms
 
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

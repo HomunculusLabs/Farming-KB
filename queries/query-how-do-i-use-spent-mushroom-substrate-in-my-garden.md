@@ -1,16 +1,14 @@
 ---
-title: "How Do I Use Spent Mushroom Substrate in My Garden?"
+title: "How Do I Use Spent gourmet-medicinal-mushroom-substrate-preparation in My Garden?"
 created: 2026-04-28
-tags: [[mycology, composting, soil-health, permaculture, cannabis]
+tags: [mycology, composting, soil-health, permaculture, cannabis]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources: []
 type: query
 ---
-
-## What is spent mushroom substrate?
-
-[[mushroom-compost-bed-systems-duggar]] (SMC) or used mushroom blocks — is the leftover growing medium after a mushroom crop has finished fruiting. It typically consists of a base material (straw, sawdust, wood chips, or composted manure) that has been partially decomposed by fungal mycelium. Commercial growers produce tons of SMS after every flush cycle, and home cultivators generate it from monotubs, grow bags, and fruiting blocks.
+## What is spent mushroom substrate? [[mushroom-compost-bed-systems-duggar]] (SMC) or used mushroom blocks — is the leftover growing medium after a mushroom crop has finished fruiting. It typically consists of a base material (straw, sawdust, wood chips, or composted manure) that has been partially decomposed by fungal mycelium. Commercial growers produce tons of SMS after every flush cycle, and home cultivators generate it from monotubs, grow bags, and fruiting blocks.
 
 ## Is spent mushroom substrate safe to use in the garden?
 
@@ -22,18 +20,18 @@ Add SMS to your compost pile at **up to 25% by volume**. The residual fungal enz
 
 ### As a worm bin food source
 
-Red wigglers (Eisenia fetida) thrive on partially decomposed SMS. The fungal biomass is rich food for worms, and the resulting vermicompost is exceptionally high in plant-available nutrients. Mix SMS with kitchen scraps at a 1:1 ratio in your worm bin.
+Red wigglers (Eisenia fetida) thrive on partially decomposed SMS. The [[bioremediation-fungal-biomass-biosorbent-material]] is rich food for worms, and the resulting vermicompost is exceptionally high in plant-available nutrients. Mix SMS with kitchen scraps at a 1:1 ratio in your worm bin.
 
 ## Which plants benefit most from spent mushroom substrate?
 
 - **Heavy feeders** — tomatoes, peppers, squash, corn, and cannabis respond well to the nutrient boost and improved soil structure
 - **Root crops** — carrots, beets, and potatoes benefit from the loosened soil structure SMS provides
 - **Acid-loving plants** — blueberries, azaleas, and rhododendrons appreciate fresh (uncured) SMS for its lower pH, but monitor carefully
-- **[[stropharia-rugosoannulata]]) or king stropharia in outdoor beds, since these species are less selective about substrate. However:
+- **[[stropharia-rugosoannulata]]) or [[cotter-king-stropharia-cultivation]] in outdoor beds, since these species are less selective about substrate. However:
 
 - **Never reuse SMS indoors** for a second flush of the same species — contamination risk is extremely high
 - **Outdoor beds** are more forgiving; bury SMS 2–4 inches deep and inoculate with spawn of the target species
-- **Species compatibility matters** — SMS from wood-loving species (shiitake, reishi) works better for outdoor wood decomposers, while straw-based SMS suits garden beds and mulch
+- **Species compatibility matters** — SMS from wood-loving species (shiitake, reishi) works better for [[stamets-outdoor-wood-chip-bed-mycelium-transplantation]] decomposers, while straw-based SMS suits garden beds and mulch
 
 ## How does spent mushroom substrate compare to regular compost?
 
@@ -41,7 +39,7 @@ Red wigglers (Eisenia fetida) thrive on partially decomposed SMS. The fungal bio
 |--------|-------------------------|-----------------|
 | Fungal biomass | Very high (residual mycelium) | Low to moderate |
 | Enzyme activity | High (cellulases, ligninases) | Moderate |
-| Organic matter | 40–60% | 30–50% |
+| [[hamilton-composting-and-organic-matter-management]] | 40–60% | 30–50% |
 | NPK | Low-moderate | Low-moderate |
 | pH (cured) | 6.5–7.5 | 6.0–7.5 |
 | Soil biology boost | Excellent (fungal-dominant) | Good (bacterial-dominant) |
@@ -63,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -52,7 +52,7 @@ Research documented throughout the book shows cannabinoids activating CB2
 receptors to produce potent anti-inflammatory actions. For more on
 the immune system specifically, see [[blesching-cannabis-immune-system-modulation]].
 The (E)-beta-caryophyllene
-found in common spices like black pepper, cinnamon, and clove activates CB2
+found in common spices like [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], cinnamon, and clove activates CB2
 receptors and initiates anti-inflammatory responses, making these dietary
 substances a form of accessible immunomodulation.
 
@@ -72,10 +72,10 @@ Blesching emphasizes that homeostasis extends beyond purely physical
 parameters. The [mind-body connection is mediated in part through the ECS, which links emotional states,
 lichen poikilohydry drought, and physical health outcomes.
 
-The [cortisol stress axis interacts directly with the endocannabinoid system. Chronic
+The [[blesching-cannabis-cortisol-stress-endocannabinoid-system]] axis interacts directly with the endocannabinoid system. Chronic
 stress disrupts ECS signaling, which in turn affects immune function, pain
 perception, mood, and virtually every system regulated by homeostasis. By
-modulating the stress response through the ECS, cannabinoids can help restore
+modulating the [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] through the ECS, cannabinoids can help restore
 homeostatic balance disrupted by psychological and physiologiserotoninsors.
 
 ### Neurotransmitter Homeostasis
@@ -97,14 +97,14 @@ between opposing physiological processes.
 
 ## Autoimmune Regulation
 
-In autoimmune conditions, the immune system mistakenly attacks the body's own
+In [[cannabis-autoimmune-conditions-detailed]], the immune system mistakenly attacks the body's own
 tissues. The ECS's immunomodulatory properties make it a promising therapeutic
 target for these conditions. CB2 receptor activation can reduce the
 overactive immune response characteristic of autoimmune diseases while
 potentially preserving the body's ability to fight infections and cancer.
 
 Blesching documents research across multiple autoimmune conditions including
-multiple sclerosis, rheumatoid arthritis, lupus, and blesching cannabis inflammatory, consistently showing that cannabinoid-mediated CB2 activation reduces
+multiple sclerosis, rheumatoid arthritis, lupus, and blesching [[blesching-cannabis-inflammatory-bowel-disease]], consistently showing that cannabinoid-mediated CB2 activation reduces
 pathological immune activation and associated inflammation. For detailed coverage,
 see [[blesching-cannabis-health-index-autoimmune-conditions]].
 
@@ -124,7 +124,7 @@ in the body. Individual variations in endocannabinoid tone may explain why
 different people respond differently to both cannabis and various diseases.
 Clinical Endocannabinoid Deficiency (CECD), a concept proposed by Ethan Russo,
 suggests that insufficient endocannabinoid signaling may contribute to
-treatment-resistant conditions including migraine, fibromyalgia, and blesching cannabis irritable. This concept further supports the view of the ECS as a
+treatment-resistant conditions including migraine, fibromyalgia, and blesching [[blesching-cannabis-irritable-bowel-syndrome]]. This concept further supports the view of the ECS as a
 foundational homeostatic system whose dysfunction underlies diverse pathologies.
 
 ## Practical Applications

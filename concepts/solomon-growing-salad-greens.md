@@ -1,5 +1,5 @@
 ---
-title: Solomon on Growing Salad Greens: Lettuce, Spinach, and More
+title: Solomon on solomon growing salad greens Greens: Lettuce, Spinach, and More
 created: 2026-04-21
 updated: 2026-04-21
 type: "concept"
@@ -143,3 +143,7 @@ conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
 
+## See Also
+
+- [[solomon-leafy-greens-growing]]
+- [[growing-lettuce-salad-greens]]

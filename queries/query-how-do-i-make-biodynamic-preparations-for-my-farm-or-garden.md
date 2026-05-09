@@ -1,10 +1,12 @@
 ---
-title: "How Do I Make Biodynamic Preparations for My Farm or Garden?"
+title: "How Do I Make comparison-biodynamic-preparations-vs-biofertilizers for My Farm or Garden?"
 created: 2026-04-28
 tags: [query, biodynamic, farming, organic-gardening]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: query
 ---
 
@@ -27,23 +29,23 @@ Biodynamic preparations are not fertilizers in the conventional sense. They are
 applied in homeopathic quantities (as little as one gram per acre for some
 preparations) and work by stimulating existing biological processes rather than
 adding nutrients directly. This approach is fundamentally different from Korean
-Natural Farming, as explored in [[composting]] literature:
+[[comparison-natural-farming-vs-permaculture]], as explored in [[composting]] literature:
 
 - 502 (Yarrow, Achillea millefolium): Prepared by stuffing dried yarrow flowers
   into a stag bladder, hung in the sun over summer and buried in winter. It
   helps regulate sulfur and potassium processes and attracts cosmic forces
-  related to light within the compost pile.
+  related to light within the [[mushroom-cultivator-compost-pile-management]].
 
 - 503 (Chamomile, Matricaria chamomilla): Dried chamomile flowers are stuffed
   into a cow intestine, buried over winter. Chamomile stabilizes nitrogen
   within the compost and supports calcium-related processes in the soil.
 
-- 504 (Stinging Nettle, Urtica dioica): Entire nettle plants are buried in
+- 504 ([[comparison-stinging-nettle-vs-horsetail]], Urtica dioica): Entire nettle plants are buried in
   the earth surrounded by peat moss for one year. Nettle preparation
   sensitizes the soil to iron and stimulates proper decomposition.
 
 - 505 (Oak Bark, Quercus robur): Oak bark is placed inside the skull of a
-  domestic animal and buried in a wet, marshy area. It provides calcium
+  [[mollison-designers-domestic-animal-integration-design]] and buried in a wet, marshy area. It provides calcium
   forces and helps the compost resist disease and decay.
 
 - 506 (Dandelion, Taraxacum officinale): Dandelion flowers are wrapped in a
@@ -66,7 +68,7 @@ from biodynamic preparation suppliers is the most practical approach. The
 Biodynamic Association maintains a list of certified preparation makers. A
 typical home garden application uses approximately one gram of each compost
 preparation (502-508) inserted into the compost pile in a pattern, plus liquid
-500 and 501 spray schedules applied at key moments in the growing season.
+500 and 501 spray schedules applied at key moments in the [[savory-growing-season-and-non-growing-season-management]].
 
 ## Key Points
 - [[composting]] practices
@@ -91,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

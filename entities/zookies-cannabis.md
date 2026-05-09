@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly Staff (2021). "Zookies Strain Information." Leafly.com.
-  - AllBud (2022). "Zookies Cannabis Strain." AllBud.com.
+  - AllBud (2022). "Zookies [[blesching-cannabis-strain-selection-receptor-targeting]]." AllBud.com.
   - Growers Network (2021). "Cookie Family Lineage Guide." GrowersNetwork.org.
   - Wikipedia Contributors. "Gorilla Glue (cannabis)." Wikipedia.
 ---
@@ -37,13 +37,13 @@ Zookies typically tests between 20–28% THC, with minimal CBD content below 0.1
 
 **Breeder:** Originated in the California Bay Area, popularized through clonal propagation by Bay Area growers and subsequently distributed by numerous seed companies.
 
-The strain inherits its dense bud structure and cookie terpenes from the Animal Cookies parent, while Gorilla Glue #4 contributes its heavy resin production and elevated THC content.
+The strain inherits its dense bud structure and cookie terpenes from the Animal Cookies parent, while Gorilla Glue #4 contributes its heavy [[cannabis-glandular-trichome-types-resin-production-clarke]] and elevated THC content.
 
 ## Appearance
 
 Buds are medium to large, dense, and chunky with a tapered, conical structure typical of the Cookies family.
 
-Coloration ranges from deep forest green with occasional purple undertones to nearly black in some phenotypes, especially when exposed to cooler nighttime temperatures during late flowering.
+Coloration ranges from deep [[trichoderma-forest-green-mold-guide]] with occasional purple undertones to nearly black in some phenotypes, especially when exposed to cooler nighttime temperatures during late flowering.
 
 Trichome coverage is exceptionally heavy, giving the flowers a frosted, silvery-white appearance. Pistils are a mix of burnt orange and amber, tightly curled against the calyxes.
 
@@ -51,7 +51,7 @@ Trichome coverage is exceptionally heavy, giving the flowers a frosted, silvery-
 
 The aroma is pungent and multifaceted, combining sweet, nutty cookie notes from the Animal Cookies lineage with sharp, fuel-like diesel undertones from the Gorilla Glue parent.
 
-Secondary notes include earthy chocolate, black pepper, and a faint sourness reminiscent of fermented dough. The scent intensifies significantly when buds are broken apart.
+Secondary notes include earthy chocolate, [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], and a faint sourness reminiscent of fermented dough. The scent intensifies significantly when buds are broken apart.
 
 On the palate, the initial flavor is sweet and doughy with a prominent nuttiness, followed by an exhale that brings out diesel, pepper, and a lingering chocolatey aftertaste.
 
@@ -81,7 +81,7 @@ As the high progresses, strong physical relaxation spreads through the body, oft
 
 Most users report a balanced experience suitable for late afternoon or evening use. The combination of mental stimulation and physical sedation makes Zookies versatile for both recreational and therapeutic applications.
 
-Common medicinal applications include chronic pain management, stress relief, insomnia, and appetite stimulation.
+Common medicinal applications include [[cannabis-chronic-pain-management]] management, stress relief, insomnia, and appetite stimulation.
 
 ## Cultivation
 
@@ -93,7 +93,7 @@ Common medicinal applications include chronic pain management, stress relief, in
 
 Zookies performs well in both soil and hydroponic setups. Plants are medium height with strong lateral branching and respond well to low-stress training (LST) and scrog methods.
 
-The dense foliage and tight bud spacing make airflow management critical, especially in humid climates. Growers should monitor for powdery mildew and botrytis during the final two weeks of flowering.
+The dense foliage and tight bud spacing make airflow management critical, especially in humid climates. Growers should monitor for [[cervantes-powdery-mildew-prevention-treatment]] and botrytis during the final two weeks of flowering.
 
 ## Side Effects
 
@@ -116,7 +116,7 @@ Several named phenotypes and crosses have emerged from Zookies genetics, reflect
 ## See Also
 
 - [[girl-scout-cookies]]
-- [[gelato-cannabis]]
+- [[gelato]]
 - [[cannabis-blue-dream]]
 - [[og-kush]]
 - [[kush-mints]]

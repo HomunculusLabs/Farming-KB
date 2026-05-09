@@ -39,13 +39,13 @@ and fauna-associated (Hyphoderma setigerum, Stereum hirsutum) species.
 Two primary decay strategies exist among wood-decaying basidiomycetes:
 
 **White rot fungi** degrade both cellulose and lignin simultaneously or
-selectively. They employ lignin peroxidase, manganese peroxidase, and laccase
+selectively. They employ lignin peroxidase, [[fungal-manganese-peroxidase-remediation]], and laccase
 enzymes to break down the lignin polymer, exposing cellulose fibers for
 further degradation. Examples include [[energy-efficient-house-design]], rapidly releasing cellulose-derived carbon while leaving a
 lignin-rich residue.
 
 **Aquatic analogues**: In stream ecosystems, where true white and brown rot
-fungi are absent, lignolytic aquatic hyphomycetes (Tricladium, Anguillospora,
+fungi are absent, lignolytic [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]] (Tricladium, Anguillospora,
 Dendrospora) fulfill analogous roles. Approximately one-third (86 species) of
 aquatic hyphomycetes have been isolated from wood (Shearer, 1992).
 
@@ -73,7 +73,7 @@ both fungal (microbial) and soil nutrient controls over enzyme expression.
 Wood has extremely high C:N ratios (294:1 to 327:1) compared to herbaceous
 litter (15:1 to 160:1), requiring substantial nutrient import for
 decomposition to proceed. The Swift et al. (1979) model predicts initial
-nutrient immobilization until the wood's C:nutrient ratio approaches that of
+[[dighton-fungal-nutrient-immobilization-turnover]] until the wood's C:nutrient ratio approaches that of
 the fungus. At 80% mass loss, Sinsabaugh et al. (1993) measured N
 immobilization of 43-139 mg/g wood and P immobilization of 2.2-4.4 mg/g wood.
 The spatial variability of these parameters was much greater than for
@@ -96,7 +96,7 @@ translocating resources across the forest floor:
   resources and living plants (wild strawberry and moss).
 - Cord formation is triggered by other organisms: cords form only in
   unsterile soil, suggesting the trigger derives from microbial interactions.
-- Phallus impudicus translocated 13% of added P.
+- [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]] translocated 13% of added P.
 - P translocation is temperature-dependent and reduced by soil drying.
   Wetting had no effect on cord structure or P movement (Wells et al., 2001).
 
@@ -124,11 +124,14 @@ important in tropical forests with high rainfall.
 The formation of persistent mycelial mats represents significant long-term
 carbon storage. Hysterangium setchellii mats may account for 45-55% of total
 soil organic biomass (Cromack et al., 1979; Fogel and Hunt, 1983). The
-below-ground allocation to [[white-rot-fungi-in-pesticide-and-btex-bioremediation]] lignin modifying enzymes bioremediation remediation lignin modifying enzymes bioremediation fungi lignin modifying enzymes fungi lignin degradation enzymes brown rot fungi contribute to ecosystem processes beyond carbon and nutrient
+below-ground allocation to [[white-rot-fungi-in-pesticide-and-btex-bioremediation]] lignin modifying enzymes bioremediation remediation lignin modifying enzymes bioremediation fungi lignin modifying enzymes fungi lignin degradation enzymes brown rot fungi contribute to [[fungal-ecosystem-processes-overview]] beyond carbon and nutrient
 cycling:
 
-- **Pollutant degradation**: Phanerochaete chrysosporium degrades toxic
+- **Pollutant degradation**: [[staycare-phanerochaete-chrysosporium-in-bioremediation]] degrades toxic
   organic compounds including chlorine-bound organics and aromatic
 ## See Also
 
-- [[biodiversity-fungi-wood-decay-succession]]
+- biodiversity-fungi-wood-decay-succession
+- [[decomposition]]
+- [[lignin-degradation]]
+- [[phallus-impudicus]]

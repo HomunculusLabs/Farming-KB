@@ -33,10 +33,10 @@ Young branches (ramial shoots) from deciduous trees and shrubs are rich in ligni
 
 ### Green Manure Crops
 
-Tropical green manure and mulch species include:
+Tropical [[holzer-green-manure-and-soil-building-plants]] mulch species include:
 
 - **Cowpea** (Vigna sinensis) -- preferred annual cover crop and soil improver
-- **Lablab** (Lablab purpureus) -- vigorous annual/short-lived perennial for soil-building and weed control
+- **Lablab** (Lablab purpureus) -- vigorous annual/short-lived perennial for soil-building and [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
 - **Puero** (Pueraria phaseoloides) -- pioneer green and cover crop, perennial climber
 - **Stylo** (Stylosanthes guianensis) -- perennial pasture legume, excellent mulch in tree systems on poor acid soils
 - **Mung beans** (Vigna radiata) -- vigorous garden green crop and forage annual
@@ -62,13 +62,13 @@ Mulch conserves moisture, reduces soil temperature, and prevents wind erosion. S
 
 ### Temperate Zones
 
-Woody mulch from autumn leaf fall, prunings, and chipped branch wood builds soil organic matter through winter. Sheet mulching with cardboard and woody material is used for garden bed preparation.
+Woody mulch from autumn leaf fall, prunings, and chipped branch wood builds soil [[hamilton-composting-and-organic-matter-management]] through winter. [[comparison-sheet-mulching-vs-chop-and-drop-mulching]] with cardboard and woody material is used for garden [[azurescens-outdoor-bed-preparation-woodchips]].
 
 ## Design Principles
 
 1. Every element should produce mulch as a yield
 2. Mulch should be produced on-site, not imported
-3. Leguminous mulch species fix nitrogen while providing organic matter
+3. Leguminous mulch species [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] while providing organic matter
 4. A succession of mulch producers ensures year-round coverage
 5. Deep-rooted species bring nutrients from subsoil to surface via leaf fall
 

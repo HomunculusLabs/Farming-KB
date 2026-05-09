@@ -22,7 +22,7 @@ sources:
 
 # Psilocybin Bluing Reaction
 
-The characteristic blue-to-green discoloration observed in psilocybin-producing mushrooms when bruised, handled, or aged. Understanding this reaction is essential for [[mushroom-identification]] and distinguishes psychoactive Agaricales from non-psychoactive species. See also [[psilocybin-mushroom-chemistry]] for alkaloid content and [[mushroom-toxicity-identification-warnings]] for lookalike species.
+The characteristic blue-to-green discoloration observed in psilocybin-producing mushrooms when bruised, handled, or aged. Understanding this reaction is essential for mushroom-identification and distinguishes psychoactive Agaricales from non-psychoactive species. See also [[psilocybin-mushroom-chemistry]] for alkaloid content and [[mushroom-toxicity-identification-warnings]] for lookalike species.
 
 ## Biochemical Mechanism
 
@@ -45,10 +45,10 @@ Different psilocybin-containing species show markedly different bluing behavior:
 | *Psilocybe cubensis* | Strong stem bluing, caps often don't blue | Stems develop deep blue to blackish-blue |
 | *Psilocybe cyanescens* | Strong overall bluing | Cap and stem both blue readily |
 | *Psilocybe semilanceata* | Slight stem staining, delayed | May take considerable time to appear |
-| *Conocybe cyanopus* | Slight stem staining, delayed | Similar to P. semilanceata |
-| *Inocybe aeruginascens* | Slight stem staining, delayed | Only trace psilocin |
-| *Gymnopilus purpuratus* | Moderate, intermediate timing | Falls between extremes |
-| *Panaeolus subbalteatus* | Minimal to none | Despite containing psilocybin at similar levels to strongly bluing species |
+| *[[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]]* | Slight stem staining, delayed | Similar to P. semilanceata |
+| *[[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]* | Slight stem staining, delayed | Only trace psilocin |
+| *[[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]]* | Moderate, intermediate timing | Falls between extremes |
+| *[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]* | Minimal to none | Despite containing psilocybin at similar levels to strongly bluing species |
 
 ## Key Principle: Bluing Is Not a Reliable Potency Indicator
 
@@ -63,7 +63,7 @@ The bluing reaction reveals **nothing** about the type or quantity of specific i
 
 Metol (p-methylaminophenol), a photographic developer, causes purple coloration in Psilocybe stems — but this is **not specific** to psilocybin-containing species. Metol reacts with the **laccase enzyme** found in many mushroom species, including non-psychoactive ones:
 
-- **Agaricus bisporus** (champignon) — brown and white varieties both change color with metol
+- **[[genetic-improvement-agaricus-bisporus-molecular-approaches]]** (champignon) — brown and white varieties both change color with metol
 - Many other gilled mushrooms react to metol regardless of alkaloid content
 - The reaction was propagated as a field identification tool but is "all but useless" in practice
 
@@ -93,8 +93,7 @@ Iron chloride (FeCl₃) produces a deep blue color with *Inocybe aeruginascens* 
 
 ## See Also
 
-- [[mushroom-identification]] — Field identification methods and tools
+- mushroom-identification — Field [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] and tools
 - [[psilocybin-mushroom-chemistry]] — Alkaloid content across species
 - [[mushroom-toxicity-identification-warnings]] — Dangerous lookalikes
 - [[european-psilocybin-species]] — European psychoactive species
-- [[psilocybin-mushroom-chemistry]] — Global distribution

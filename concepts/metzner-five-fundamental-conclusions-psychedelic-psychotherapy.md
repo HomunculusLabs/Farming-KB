@@ -1,5 +1,5 @@
 ---
-title: "Metzner Five Fundamental Conclusions of Psychoactive Assisted Psychotherapy"
+title: "Metzner Five metzner five fundamental conclusions psychedelic psychotherapy of Psychoactive Assisted Psychotherapy"
 created: 2026-04-28
 tags: [psychedelics, psychotherapy, metzner, paradigm, clinical, history]
 date: 2026-04-28
@@ -33,7 +33,7 @@ those frameworks themselves.
 The expanded consciousness accessed through psychedelics is not a subtle
 shift but a radical restructuring of perception, cognition, and
 self awareness that can have lasting effects on personality and worldview.
-This distinguishes psychedelic therapy from pharmacological treatments that
+This distinguishes [[metzner-psycholytic-psychedelic-therapy-models]] from pharmacological treatments that
 target specific symptoms without fundamentally altering the patient's
 relationship to reality.
 
@@ -47,7 +47,7 @@ the pharmacological action seems paramount and set and setting play a minor
 role.
 
 The set and setting model was introduced and popularized by Timothy Leary
-and can be extended to understanding other modalities of altered states of
+and can be extended to understanding other modalities of [[weil-the-natural-mind-altered-states-normalcy]] of
 consciousness involving non drug triggers such as hypnosis, meditation,
 rhythmic drumming, sensory isolation, and fasting. In this framework, the
 psychoactive substance is not the primary agent of change but rather a
@@ -73,10 +73,10 @@ substances that produce predetermined effects independent of the user.
 ## Principle Four: Personal Experience of the Therapist
 
 The personal experience of the therapist or guide is recognized as an
-essential prerequisite of effective psychedelic psychotherapy. Without
+essential prerequisite of effective [[metzner-psychedelic-psychotherapy-clinical-history]]. Without
 prior personal experience, communication between the therapist and the
 individual in a psychedelic state is likely to be severely limited. This
-principle implies a significant role for psychedelic experience in the
+principle implies a significant role for [[leary-psychedelic-experience-bardo-mapping]] in the
 training of psychotherapists.
 
 This requirement sets psychedelic therapy apart from virtually all other
@@ -88,7 +88,7 @@ altered state is considered indispensable for effective guidance.
 
 ## Principle Five: Access to Transcendent Dimensions
 
-Access to transcendent, religious, or transpersonal dimensions of
+Access to transcendent, religious, or [[metzner-transpersonal-dimensions-psychedelic-therapy]] of
 consciousness can be attained through psychedelic psychotherapy. The
 recognition that mystical and spiritual experiences can and often do occur
 with the use of psychedelics was acknowledged early on by most researchers

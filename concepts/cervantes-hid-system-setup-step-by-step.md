@@ -1,5 +1,5 @@
 ---
-title: "HID System Setup Step-by-Step"
+title: "cervantes hid system setup step by step Step-by-Step"
 created: 2026-04-28
 tags:
   - cannabis-lighting
@@ -10,14 +10,15 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "/Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md"
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # HID System Setup Step-by-Step
 
 Setting up a High Intensity Discharge (HID) lighting system properly
-is essential for safe and effective indoor cannabis cultivation. Jorge
+is essential for safe and effective indoor [[query-how-does-no-till-cannabis-cultivation-work]]. Jorge
 Cervantes provides a detailed seven-step process in Chapter 9 of
 *Marijuana Horticulture* (page 221).
 
@@ -37,13 +38,13 @@ carefully:
 - Keep them away from plants and flammable walls/ceilings
 - If the room has a low ceiling, place a protective non-flammable
   material (metal) between the lamp and ceiling
-- An exhaust fan is necessary to manage heat
+- An exhaust fan is necessary to [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]]
 - Place the remote ballast near the floor to keep things cool, or
   outside the grow room if the room runs too hot
 - When hanging the lamp on an overhead chain or pulley system, ensure
   electrical cords are unencumbered and not too close to heat sources
 
-A bulb hanging crookedly under a reflective hood causes light to be
+A bulb hanging crookedly under a [[cervantes-no-reflective-hood-lighting]] causes light to be
 reflected unevenly, creating "hot spots" and "cold spots" in the
 garden.
 

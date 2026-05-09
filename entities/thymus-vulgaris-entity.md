@@ -13,12 +13,12 @@ sources:
 # Thymus vulgaris
 Thymus vulgaris, common thyme, is a low-growing evergreen subshrub in the
 family Lamiaceae native to the Mediterranean basin. It is one of the most
-important culinary herbs in European and Middle Eastern cuisines and has a
+important [[holzer-medicinal-and-culinary-herbs-compendium]] in European and Middle Eastern cuisines and has a
 long history of medicinal use dating back to ancient Egypt, Greece, and Rome.
-The plant's essential oil, dominated by thymol and carvacrol, possesses
+The plant's [[permaculture-designers-manual-essential-oil-plants]], dominated by thymol and carvacrol, possesses
 potent antimicrobial, antiseptic, and antioxidant properties that have been
 validated by modern pharmacological research. Thyme is also valued in
-permaculture and organic gardening as a ground cover, pollinator attractant,
+permaculture and [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] as a [[fukuoka-citrus-orchard-ground-cover-cultivation]], pollinator attractant,
 and companion plant that repels certain pest species. Its adaptability to
 poor, well-drained soils and drought conditions makes it a resilient choice
 for water-wise gardens and xeriscaping.
@@ -70,7 +70,7 @@ for water-wise gardens and xeriscaping.
   limestone outcrops, and garigue (Mediterranean scrub)
 - **Cultivated range:** Worldwide in temperate regions; commercially
   grown in Spain, France, Morocco, Albania, Turkey, and the USA
-- **Naturalised:** Parts of North America, Australia, and New Zealand
+- **Naturalised:** Parts of [[psilocybin-north-america-pacific-northwest]], Australia, and New Zealand
   where it has escaped cultivation
 - **Habitat preference:** Dry, calcareous, well-drained soils; open,
   sunny positions; found in garrigue, phrygana, and steppe communities
@@ -106,7 +106,7 @@ agent. Composition varies dramatically by chemotype:
 - **Spacing:** 20–30 cm apart in rows; intercropping with vegetables
   at 15–20 cm
 - **Pruning:** Cut back by one-third after flowering to maintain
-  compact shape and promote fresh growth; hard prune in early spring
+  compact shape and promote fresh growth; hard prune in [[coleman-overwintered-onions-and-early-spring-crops]]
 - **Harvest:** Leaves can be harvested year-round; peak essential oil
   content occurs just before or at full flower
 - **Drying:** Hang bunches in warm, dry, dark place; retains flavour
@@ -121,3 +121,7 @@ agent. Composition varies dramatically by chemotype:
 - [[lavandula-angustifolia]]
 - [[salvia-officinalis]]
 - [[glechoma-hederacea]]
+
+## See Also
+
+- [[thymus-serpyllum]]

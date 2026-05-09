@@ -1,5 +1,5 @@
 ---
-title: Seed Saving Methods for Home Gardeners
+title: Seed seed saving methods home garden for Home Gardeners
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -44,7 +44,7 @@ Seed forms in juicy fruit that is still moist when the seed has matured. Example
 
 ### The Inbreeding Depression Problem
 
-- Species that naturally outbreed require a sufficiently large and diverse gene pool to avoid "inbreeding depression of vigor."
+- Species that naturally outbreed require a sufficiently large and diverse [[cannabis-gene-pool-preservation-acclimatization-clarke]] to avoid "inbreeding depression of vigor."
 - Working from too small a gene pool, using too few plants, and making mistakes about which plants to take out will ruin the variety within two generations.
 - Minimum population sizes vary by species:
   - Extremely vigorous outcrossers: as few as a dozen plants.
@@ -80,7 +80,7 @@ To prevent unwanted crossing between varieties of the same species:
 ### Carrots
 
 - Overwinter selected roots in the ground or in moist sand.
-- Replant in spring in a configuration about 6 by 4 feet (762 by 120 cm) raised bed.
+- Replant in spring in a configuration about 6 by 4 feet (762 by 120 cm) [[comparison-chinampas-vs-raised-bed-gardening]].
 - A 25-foot-long bed with a double row of carrots can produce enough seed for a neighborhood for a decade.
 - Carrot seed dried down fully and kept dry can last many years.
 - Need at least 50 plants in the seed-making population because the species is bee-pollinated.
@@ -120,4 +120,4 @@ To prevent unwanted crossing between varieties of the same species:
 
 Sources: Steve Solomon, *Gardening When It Counts*, Chapter 5 (Seeds)
 - [[solomon-gardening-when-it-counts-index]]
-- [[permaculture-designers-manual-seed-saving-varieties]]
+- permaculture-designers-manual-seed-saving-varieties

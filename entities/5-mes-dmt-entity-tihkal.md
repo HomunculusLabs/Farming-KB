@@ -1,5 +1,5 @@
 ---
-title: 5 Mes Dmt (Tihkal)
+title: 5 5 mes dmt entity tihkal (Tihkal)
 created: 2026-04-16
 updated: 2026-04-16
 type: entity
@@ -22,7 +22,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 
 - Duration: less than 1 hour
 
-- Active routes: smoked only (oral activity not established)
+- Active routes: smoked only ([[tihkal-oral-activity-mao-inhibition]] not established)
 
 ## Qualitative Effects
 
@@ -54,7 +54,7 @@ the free base (mp 97-100°C) after KugelRohr distillation.
 ## Related Sulfur Analogues
 
 The 4-thio analogues have also been synthesized from 4-methylthioindole via
-the oxalyl chloride route:
+the [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] route:
 
 - N,N-Dimethyl-4-thiotryptamine (4-MeS-DMT, mp 108-110°C)
 
@@ -73,7 +73,7 @@ producing compounds with similar but subtly different pharmacological properties
 In the 5-MeS-DMT / 5-MeO-DMT comparison, the sulfur atom's larger atomic
 radius (1.80 vs. 1.52 angstroms for oxygen), lower electronegativity (2.58
 vs. 3.44 on the Pauling scale), and greater polarizability create meaningful
-differences in how the molecule interacts with receptor binding sites. The
+differences in how the molecule interacts with [[tihkal-receptor-binding-serotonin]] sites. The
 methylthio group is more lipophilic than the methoxy group, which could
 affect membrane penetration and distribution.
 
@@ -91,7 +91,7 @@ by the smaller, more electronegative oxygen.
 administered by the smoked route, requiring 15-30 mg versus 6-20 mg for
 the oxygen analogue. The subjective effects are also described as less
 remarkable -- "light, no visual, rather pointlessly stoned" -- compared to
-the often overwhelming psychedelic experience of 5-MeO-DMT.
+the often overwhelming [[leary-psychedelic-experience-bardo-mapping]] of 5-MeO-DMT.
 
 The reduced potency and muted effects of 5-MeS-DMT could reflect:
 
@@ -128,7 +128,7 @@ unknown and unlikely given MAO metabolism
 
 - Smoking any compound carries inherent respiratory risks
 
-- The short duration (<1 hour) may encourage rapid re-dosing, which could
+- The [[savory-short-duration-grazing-and-cell-systems]] (<1 hour) may encourage rapid re-dosing, which could
 produce cumulative effects
 
 - As with all tryptamines, avoid MAO inhibitors and SSRIs

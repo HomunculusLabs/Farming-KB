@@ -1,5 +1,5 @@
 ---
-title: "Psilocin and Psilocybin Chemistry"
+title: "tryptamine-chemistry-psilocin-and-psilocybin-synthesis Chemistry"
 created: 2026-04-26
 sources: "TIHKAL - Tryptamines I Have Known and Loved (Shulgin & Shulgin)"
 tags: [psilocin, psilocybin, mushroom, 4-HO-DMT, synthesis]
@@ -23,7 +23,7 @@ These two compounds are entry #18 in TIHKAL, presented together because of their
 | Psilocin/Psilocybin | Oral | 10-20 mg | 3-6 hours |
 | Psilocybin phosphate | Intramuscular | 12 mg | ~6 hours |
 | Psilocybin phosphate | Intravenous | 3-12 mg | 1-6 hours |
-| Psilocybe cubensis (dried) | Oral | 1.5-3.5 g | Variable |
+| [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] (dried) | Oral | 1.5-3.5 g | Variable |
 
 ## Pharmacological Equivalence
 
@@ -35,7 +35,7 @@ The same equivalence extends to the acetate ester: psilocin, the acetate ester, 
 
 ### Psilocin Synthesis
 The modern route starts from 4-acetoxyindole:
-1. 4-Acetoxyindole is reacted with oxalyl chloride in ether to form the glyoxyl chloride intermediate
+1. 4-Acetoxyindole is reacted with [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] in ether to form the glyoxyl chloride intermediate
 2. The intermediate is treated with dimethylamine to form the glyoxylamide
 3. LAH reduction in THF yields 4-HO-DMT (psilocin) as white crystals, mp 103-104 degrees C
 
@@ -57,7 +57,7 @@ The phosphate ester conversion yields are "very bad, often less than 10%." Psilo
 ## Mushrooms vs. Pure Chemicals
 
 Shulgin explicitly argues for exploration with the pure chemicals rather than mushrooms, citing uncontrollable variables:
-- Many species offered as "magic mushrooms" with varying identification
+- Many species offered as "[[guzman-magic-mushrooms-african-species]]" with varying identification
 - Unknown preservation methods
 - Variable composition of dried, ground material
 - Unstable psilocin may degrade while stable psilocybin persists
@@ -66,11 +66,11 @@ Shulgin explicitly argues for exploration with the pure chemicals rather than mu
 
 ## Legal Status
 
-Both psilocin and psilocybin are Schedule I drugs under the Controlled Substances Act. While no mushroom genera (Psilocybe, Stropharia, Panaeolus, Inocybe) are explicitly named in the statutes, the presence of scheduled compounds in the mushrooms creates legal complications -- dried fruiting bodies can be treated as packaging for Schedule I substances.
+Both psilocin and psilocybin are Schedule I drugs under the Controlled [[controlled-substances-act-and-psychedelic-research]]. While no mushroom genera (Psilocybe, Stropharia, Panaeolus, Inocybe) are explicitly named in the statutes, the presence of scheduled compounds in the mushrooms creates legal complications -- dried fruiting bodies can be treated as packaging for Schedule I substances.
 
 ## The "Psilocin Signature"
 
-The 4-hydroxy group is termed the "psilocin signature." Its presence on tryptamine molecules (e.g., 4-HO-DET, 4-HO-DIPT, 4-HO-MET, 4-HO-MIPT) generally confers oral activity and produces effects qualitatively similar to those of mushrooms. This 4-substitution is the tryptamine analogue of the critical 4-substitution in the phenethylamine world.
+The 4-hydroxy group is termed the "psilocin signature." Its presence on tryptamine molecules (e.g., 4-HO-DET, 4-HO-DIPT, 4-HO-MET, 4-HO-MIPT) generally confers [[tihkal-oral-activity-mao-inhibition]] and produces effects qualitatively similar to those of mushrooms. This 4-substitution is the tryptamine analogue of the critical 4-substitution in the phenethylamine world.
 
 ## Sources
 

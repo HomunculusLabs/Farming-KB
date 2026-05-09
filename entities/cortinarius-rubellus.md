@@ -28,11 +28,11 @@ sources:
 # Cortinarius rubellus
 
 **Cortinarius rubellus**, the deadly webcap or fools' webcap, is a basidiomycete
-fungus in the family Cortinariaceae. It is one of the most poisonous mushrooms in
+fungus in the family Cortinariaceae. It is one of the most [[palmer-poisonous-mushrooms-deadly-species]] in
 Europe, containing the nephrotoxic compound orellanine, which causes irreversible
 kidney failure. The species is responsible for numerous fatal poisonings, many of
 which involve foragers who mistook it for edible *Cortinarius* or *Tricholoma*
-species. It is the primary cause of lethal mushroom poisoning in Scandinavia
+species. It is the primary cause of lethal [[european-mushroom-poisoning-history]] in Scandinavia
 and Central Europe.
 
 ## Taxonomy
@@ -45,7 +45,7 @@ names refer to distinct species, with *C. rubellus* being the more widespread an
 commonly encountered. The species epithet *rubellus* means "reddish" in Latin,
 referring to the cap coloration. The genus *Cortinarius* is the largest agaric
 genus with over 2,000 species worldwide, many of which are difficult to identify
-without microscopic examination.
+without [[fungal-microscopic-examination-mounting-media-techniques]].
 
 ## Description
 
@@ -72,7 +72,7 @@ Ectomycorrhizal primarily with conifers, especially Scots pine (*Pinus sylvestri
 and Norway spruce (*Picea abies*), on acidic soils. Found in coniferous and mixed
 forests, pine plantations, and mossy forest floors across Northern and Central
 Europe, Scandinavia, the British Isles, and extending into parts of Asia. Also
-reported from western North America (as *C. rubellus* or closely related taxa).
+reported from western [[psilocybin-north-america-pacific-northwest]] (as *C. rubellus* or closely related taxa).
 Fruits August–November in temperate regions. Often grows among moss (*Sphagnum*,
 *Pleurozium*) in damp conifer woods.
 
@@ -108,7 +108,7 @@ The danger of *C. rubellus* is compounded by its resemblance to edible species:
   contains orellanine. Distinguished microscopically by spore morphology.
   Equally dangerous.
 - ***Tricholoma equestre* (yellow knight):** Can occur in similar pine-forest
-  habitats. Has white gills and white spore print; no cortina. Also implicated
+  habitats. Has white gills and white [[comparison-spore-print-collection-vs-spore-syringe-production]]; no cortina. Also implicated
   in toxicity (rhabdomyolysis) in some cases.
 - ***Hygrophoropsis aurantiaca* (false chanterelle):** Similar orange coloration
   but has decurrent, forked gills (true chanterelle-like) and grows on wood or
@@ -119,7 +119,7 @@ The danger of *C. rubellus* is compounded by its resemblance to edible species:
 
 ## Importance for Foragers
 
-*C. rubellus* is the single most important mushroom to learn to identify and avoid
+*C. rubellus* is the single most important mushroom to learn to [[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]]
 in Northern Europe. Foraging organizations in Finland, Sweden, Norway, and Poland
 designate it as a priority identification target. Key distinguishing features:
 (1) rust-brown spore print, (2) presence of a cortina (cobwebby veil), (3)
@@ -128,6 +128,8 @@ and bulbous stem base. Any mushroom matching this description in conifer forests
 should be treated as potentially deadly until proven otherwise.
 
 ## See Also
+
+- [[cortinarius-orellanus]]
 
 - [[cortinarius-cinnamomeus]] — non-toxic *Cortinarius* for comparison
 - [[galerina-marginata]] — another deadly lookalike genus containing amatoxins

@@ -1,10 +1,11 @@
 ---
-title: "Wild Fermentation vs Cultured Yeast"
+title: "Wild wild-fermentation-vs-cultured-yeast Yeast"
 created: 2026-04-28
 tags: [comparison, fermentation, yeast, brewing, food-preservation]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -39,7 +40,7 @@ sour cherry and citrus over months or years of aging in wooden barrels.
 
 The primary challenge of wild fermentation is unpredictability. Results vary
 from batch to batch depending on the microbial population present, ambient
-temperature, humidity, and countless other environmental factors. Wild
+temperature, humidity, and countless other [[duggar-mushroom-environmental-factors-temperature-moisture-light]]. Wild
 fermentation is also slower to start, as the initial microbial population must
 first colonize the substrate before fermentation becomes vigorous. There is a
 higher risk of contamination by undesirable organisms that produce off-flavors
@@ -68,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

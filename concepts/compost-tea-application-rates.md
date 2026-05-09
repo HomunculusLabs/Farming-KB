@@ -1,5 +1,5 @@
 ---
-title: Compost Tea Application Rates
+title: Compost compost-tea-application-methods Rates
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -30,7 +30,7 @@ Application rates for [[lowenfels-earthworms-soil-food-web]]. Rates are provided
 
 ### Year 1 (Rebuilding)
 - **Every 7-10 days** for the first 4 months
-- Then **monthly** for the remainder of the growing season
+- Then **monthly** for the remainder of the [[savory-growing-season-and-non-growing-season-management]]
 - If a disease outbreak occurs: **every 3-5 days** until resolved
 
 ### Year 2+
@@ -45,10 +45,10 @@ Application rates for [[lowenfels-earthworms-soil-food-web]]. Rates are provided
 ## Crop-Specific Recommendations
 
 ### Vegetable/Flower Row Crops
-- **Fall**: 1-5 tons/acre compost as top dressing on crop residue
+- **Fall**: 1-5 tons/acre compost as top dressing on [[jadam-crop-residue-fertilizer]]
 - **Spring soil drench**: 15 gal/acre, two weeks before planting
-- **Seed treatment**: Roll fungicide-free seed in compost tea with [[compost-tea-brewing-methods]]
-- [[mycorrhizal-inoculation-techniques]]
+- **[[jadam-seed-treatment-and-nursery-management]]**: Roll fungicide-free seed in compost tea with [[compost-tea-brewing-methods]]
+- mycorrhizal-inoculation-techniques
 - [[2c-d-pihkal-entry-23]]
 - [[dom-compound-profile]]
 - [[root-vegetable-storage-guide]]
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

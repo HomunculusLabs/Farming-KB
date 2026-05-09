@@ -40,7 +40,7 @@ TIHKAL entry #3. A psychedelic tryptamine active by multiple routes including or
 
 ## The Oral Activity Myth
 
-Shulgin acknowledges personal responsibility for the long-standing myth that DET is only active by parenteral routes. All published human studies he knew of involved intramuscular administration, but Steve Szara had noted oral activity as early as 1969 (60 mg, i.m. or p.o.). The MAO systems do not destroy dialkylamines higher than methyl -- both [[dipt-entity-tihkal]] (diisopropyl) are also orally active. This myth persisted for decades and influenced how researchers and the public understood tryptamine pharmacology.
+Shulgin acknowledges personal responsibility for the long-standing myth that DET is only active by parenteral routes. All published human studies he knew of involved intramuscular administration, but Steve Szara had noted oral activity as early as 1969 (60 mg, i.m. or p.o.). The MAO systems do not destroy dialkylamines higher than methyl -- both [[dipt-entity-tihkal]] (diisopropyl) are also orally active. This myth persisted for decades and influenced how researchers and the public understood [[mckenna-food-gods-tryptamine-pharmacology-indoles]].
 
 ## Clinical Studies
 
@@ -50,7 +50,7 @@ The results were decidedly negative under these conditions: "Six of the subjects
 
 However, a second study conducted in an entirely different setting -- with professional colleagues, artists, and personal friends of the researchers -- produced dramatically different results. The mood changes were "in the direction of euphoria; the subjects generally enjoyed the experience and wished to repeat it." Volunteer comments "tended towards the mystical and philosophical, and several of these experimental subjects responded to music and art in ways that were new to them."
 
-This stark contrast between institutional and personal settings foreshadowed the "set and setting" principle that would become foundational to psychedelic therapy.
+This stark contrast between institutional and personal settings foreshadowed the "[[lsd-set-and-setting-framework]]" principle that would become foundational to [[metzner-psycholytic-psychedelic-therapy-models]].
 
 ## The Naming History: Psychotomimetics
 
@@ -58,7 +58,7 @@ In the earliest research with DET and related dialkyltryptamines, the prevailing
 
 ## Extensions and Commentary
 
-The compound pairs of DMT, DET, DPT, and DBT represent increasing chain length on the tryptamine nitrogen, with activity patterns that vary in complex ways. All are orally active, contradicting decades of assumption that only DMT was restricted to parenteral routes. The 4-hydroxy analogue (4-HO-DET, entry #16) is also psychedelic, as is the 5-methoxy analogue (5-MeO-DET, entry #36). The 5-methoxy substitution consistently enhances potency across the tryptamine series.
+The compound pairs of DMT, DET, DPT, and DBT represent increasing [[phenethylamine-chain-length-effects]] on the tryptamine nitrogen, with activity patterns that vary in complex ways. All are orally active, contradicting decades of assumption that only DMT was restricted to parenteral routes. The 4-hydroxy analogue (4-HO-DET, entry #16) is also psychedelic, as is the 5-methoxy analogue (5-MeO-DET, entry #36). The 5-methoxy substitution consistently enhances potency across the tryptamine series.
 
 ## Physical Properties
 
@@ -67,6 +67,8 @@ The compound pairs of DMT, DET, DPT, and DBT represent increasing chain length o
 - MS (m/z): C5H12N+ 86 (100%); parent ion 206 (1%)
 
 ## See Also
+
+- [[4-aco-det-entity]]
 
 - [[dpt-entity-tihkal]] -- the dipropyl homologue
 - [[psilocin-entity-tihkal]] -- 4-hydroxy-DMT; classic mushroom psychedelic
@@ -93,4 +95,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

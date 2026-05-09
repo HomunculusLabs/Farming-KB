@@ -12,7 +12,7 @@ type: concept
 
 Fukuoka's approach to soil management challenges the entire premise of
 modern soil science. Rather than analyzing soil chemistry and applying
-corrective amendments, natural farming relies on the self-organizing
+corrective amendments, [[comparison-natural-farming-vs-permaculture]] relies on the self-organizing
 capacity of living soil ecosystems to build and maintain fertility. His
 forty years of observation demonstrate that soil enriches itself without
 human intervention when biological processes are allowed to function.
@@ -71,7 +71,7 @@ than blasting with dynamite or trenching and burying organic matter.
 
 The wattle also improves soil biology. Its constant growth throughout the
 year attracts aphids and scales, which support growing populations of
-ladybugs and other beneficial insects. This creates a protective ecosystem
+ladybugs and other [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. This creates a protective ecosystem
 around the fruit trees.
 
 ## Reading Weeds as Soil Indicators
@@ -94,17 +94,17 @@ topsoil through cover crop cultivation. Fukuoka acknowledges that this
 appears inferior "in a world pressed for time." But if farmland is
 understood as a legacy to be preserved for future generations, the
 perspective shifts entirely. Land that grows fertile over time without
-plowing, weeding, or chemical fertilizers represents "not only an
+plowing, weeding, or [[cervantes-chemical-fertilizers-guide]] represents "not only an
 accumulation of labor and capital, but an increase in intangibles as well."
 
 Physical improvement and human effort alone have only temporary effects.
-Natural farming uses the forces of living organisms to improve soil
+Natural farming uses the forces of [[savory-living-organisms-as-tools]] to improve soil
 physically and chemically — a process that extends the lifetime of fruit
 trees to two to three times that of trees grown by scientific methods.
 
 ## Against the Chemical Correction Model
 
-Scientific farming treats soil as a chemical problem: if soil is acidic,
+[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] treats soil as a chemical problem: if soil is acidic,
 apply lime; if poorly aerated, add zinc; if alkaline, correct manganese
 and zinc deficiency. Fukuoka argues this approach is fundamentally flawed:
 
@@ -112,7 +112,7 @@ and zinc deficiency. Fukuoka argues this approach is fundamentally flawed:
   "diseased" — an infinitude of physical, chemical, and biological
   factors are involved.
 - Corrections create cascading imbalances: adjusting acidity leads to
-  manganese deficiency; adding zinc affects phosphorus uptake.
+  [[query-how-to-fix-manganese-deficiency-in-cannabis]]; adding zinc affects phosphorus uptake.
 - The soil changes constantly through cover crop succession, and fruit
   trees adapt constantly to these changes. No static chemical target
   can represent a healthy soil.

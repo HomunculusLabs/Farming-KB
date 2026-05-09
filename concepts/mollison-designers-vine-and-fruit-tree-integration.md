@@ -1,5 +1,5 @@
 ---
-title: Vine and Fruit Tree Integration
+title: Vine and comparison-berry-growing-vs-fruit-tree-pruning Integration
 created: 2026-04-26
 tags:
   - permaculture
@@ -17,16 +17,16 @@ type: concept
 # Vine and Fruit Tree Integration
 
 Mollison treats vine and fruit tree combinations as a classic example of
-vertical stacking in [[tagasaste]] beneath fruit trees
-  provide nitrogen, attract beneficial insects, and suppress weed grasses.
+vertical stacking in tagasaste beneath [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
+  provide nitrogen, attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], and suppress weed grasses.
 
 - **Bulbs:** Daffodils, garlic, and alliums planted in circles around tree
   trunks deter rodents and some pests from bark.
 
-- **Ground covers:** Strawberries, nasturtiums, and creeping thyme provide
-  living mulch that retains soil moisture and moderates temperature.
+- **[[permaculture-plants-food-forest-ground-covers-bamboos]]:** Strawberries, nasturtiums, and creeping thyme provide
+  [[comparison-living-mulch-vs-cover-crops]] that retains soil moisture and moderates temperature.
 
-- **Vine layer:** Hardy kiwi, grape, or passionfruit trained into the lower
+- **Vine layer:** [[comparison-grape-vs-hardy-kiwi-for-homestead-trellising]], grape, or passionfruit trained into the lower
   canopy adds a productive vertical layer.
 
 The integrated system produces fruit from trees, vines, berries, and herbs
@@ -113,3 +113,9 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- mollison-suburban-swale-integration-and-village-homes-model
+- [[building-soil]]
+- [[mollison-designers-apple-guild-and-cool-climate-fruit-guilds]]
+- [[mollison-designers-olive-fig-and-mediterranean-tree-crops]]

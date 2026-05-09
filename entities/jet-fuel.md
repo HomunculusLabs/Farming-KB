@@ -26,7 +26,7 @@ sources:
 
 ## Overview
 
-Jet Fuel, also known as Jet Fuel OG or G6, is a sativa-dominant hybrid cannabis strain
+Jet Fuel, also known as Jet Fuel OG or G6, is a sativa-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]]
 renowned for its potent cerebral effects and pungent diesel-fuel aroma. Bred by 303 Seeds
 in Colorado, it combines the energetic genetics of Aspen OG with the legendary
 High Country Diesel lineage.
@@ -66,7 +66,7 @@ a slightly sweet, earthy finish on the exhale. Smoke is thick and expansive.
 - **Duration:** 2–3 hours
 - **Primary effects:** Euphoria, cerebral stimulation, creative energy, focus
 - **Body effects:** Mild physical relaxation without sedation
-- **Medical applications:** Chronic fatigue, depression, ADHD, stress, mild pain
+- **Medical applications:** [[cannabis-chronic-fatigue-research]], depression, ADHD, stress, mild pain
 - **Side effects:** Dry mouth, dry eyes, anxiety at high doses, paranoia in novices
 
 Jet Fuel delivers a fast-acting, predominantly cerebral high. The onset is rapid and
@@ -87,7 +87,7 @@ due to the high THC content.
 - **Height:** Medium to tall, can stretch significantly in early flower
 - **Difficulty:** Moderate
 - **Climate:** Prefers warm, dry conditions; Colorado-adapted genetics
-- **Resistance:** Good mold resistance; moderate pest resistance
+- **Resistance:** Good mold resistance; moderate [[cannabis-disease-pest-resistance-breeding-clarke]]
 - **Nutrient needs:** Moderate to heavy feeder during flowering
 - **Training:** Responds well to SCROG and low-stress training
 
@@ -108,7 +108,7 @@ flowering, requiring adequate carbon filtration for indoor grows.
 
 ## Genetic Relatives and Crosses
 
-**Aspen OG** contributes the indica backbone and resin production to Jet Fuel.
+**Aspen OG** contributes the indica backbone and [[cannabis-glandular-trichome-types-resin-production-clarke]] to Jet Fuel.
 This Colorado-bred OG phenotype provides the physical relaxation and dense bud structure
 that balances the otherwise raceline sativa effects.
 
@@ -127,7 +127,7 @@ breeding culture of the early recreational era. 303 Seeds developed it specifica
 to capture the intense diesel aromatics that Colorado consumers demanded.
 
 The strain has won recognition at various cannabis competitions, particularly in the
-sativa and hybrid categories. Its name has become synonymous with high-energy,
+[[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] categories. Its name has become synonymous with high-energy,
 aroma-dominant sativa hybrids in the American West.
 
 The "G6" alternate name is a play on the Gulfstream G650 private jet, reinforcing the

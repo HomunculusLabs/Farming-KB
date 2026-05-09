@@ -1,5 +1,5 @@
 ---
-title: 2C-T-4 (PIHKAL Entry #41)
+title: 2C-T-4 (2c-b-pihkal-entry-20 #41)
 created: 2026-04-22
 updated: 2026-04-22
 type: concept
@@ -43,7 +43,7 @@ not comfortable.
 
 2C-T-4 has been referred to as T-4. There is a potent explosive used by
 terrorists called cyclotrimethylenetrinitramine, known by the code name RDX,
-or T-4. There is also a T-4 term that refers to thyroxine, an amino acid in
+or T-4. There is also a T-4 term that refers to thyroxine, an [[cho-fish-amino-acid-preparation]] in
 the body. The drug 2C-T-4 is neither an explosive nor an amino acid.
 
 ## Key Characteristics
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

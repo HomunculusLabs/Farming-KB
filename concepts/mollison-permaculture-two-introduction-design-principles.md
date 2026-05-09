@@ -1,8 +1,8 @@
 ---
-title: Permaculture Two Introduction and Design Principles
+title: permaculture|Permaculture Two Introduction and holmgren-permaculture-twelve-design-principles-framework
 created: 2026-04-26
 updated: 2026-04-24
-sources: Bill Mollison, Permaculture Two: Practical Design for Town and Country (Tagari Books, 1979)
+sources: bill-mollison|Bill Mollison, Permaculture Two: Practical Design for Town and Country (Tagari Books, 1979)
 type: concept
 tags: [culture, design, permaculture, principles]
 ---
@@ -40,7 +40,7 @@ plant systems rather than allowing them to develop haphazardly:
 1. Save energy in system operation
 2. Cope with external energies (sun, wind, fire, flood)
 3. Arrange plants to assist each other through guilds and
-   companion planting
+   [[companion-planting|companion planting]]
 4. Achieve optimal placement of units via zonation
 5. Suit the specific climate and site conditions
 6. Integrate food production with human society and settlement
@@ -121,7 +121,7 @@ drought-resistant species, and using vertical moisture barriers.
 
 Mollison draws on Atsatt and O'Dowd's research on "plant defense
 guilds" to outline three categories of plant interaction: plants that
-breed predators for pest control (insectaries like Phacelia in
+breed predators for [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] (insectaries like Phacelia in
 orchards), plants that repel browsers through physical or chemical
 means, and attractant or decoy plants that draw pests away from crops.
 The conclusion is that "a little powerful diversity" of the right
@@ -140,8 +140,8 @@ designed.
 
 ## See Also
 
-- [[mollison-permaculture-two-design-in-landscape]]
+- mollison-permaculture-two-design-in-landscape
 - [[mollison-animal-integration-permaculture-design]]
-- [[permaculture-design-principles]]
+- [[permaculture-design-principles-beginners]]
 
-- [[permaculture](permaculture.md)
+- [[permaculture](permaculture.md)]]

@@ -1,5 +1,5 @@
 ---
-title: Nitrogen Supplementation for Mushroom Substrates
+title: Nitrogen nitrogen supplementation for mushroom substrates Substrates
 created: 2026-04-28
 tags:
   - mushroom-cultivation
@@ -22,9 +22,9 @@ type: concept
 
 Nitrogen supplementation is the practice of adding protein-rich materials to
 base substrates to increase mushroom yields. Most raw materials used for
-growing mushrooms, such as sawdust and straw, are nitrogen-poor. By adding
+[[falconer-growing-mushrooms-in-sheds]], such as sawdust and straw, are nitrogen-poor. By adding
 supplements, cultivators can dramatically boost [[boil-a-bag-mushroom-cultivation-technique]] uses Marmite, Vegemite,
-or yeast extract dissolved in boiling water as a liquid nitrogen supplement.
+or [[marmite-yeast-extract-straw-substrate]] dissolved in boiling water as a liquid nitrogen supplement.
 A heaped tablespoon is dissolved in boiling water and combined with six
 liters of additional boiling water. This solution is poured over chopped
 straw and left to soak for approximately two hours.
@@ -46,7 +46,7 @@ The combination of yeast extract soak followed by brown rice flour creates a
 two-stage nutritional boost. The yeast extract provides immediately
 available nitrogen and B vitamins during initial colonization, while the
 brown rice flour provides slower-releasing carbon and nitrogen that sustains
-mycelial growth through the full colonization period.
+[[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] through the full colonization period.
 
 ## The Selectivity Tradeoff
 
@@ -77,7 +77,7 @@ Supplemented substrates undergo thermogenesis, a spontaneous temperature
 increase as mycelium and other organisms grow. If this biological combustion
 is not controlled, a temperature plateau lethal to mushroom mycelium can
 be reached, typically around 100 degrees Fahrenheit for many gourmet wood
-decomposers. The ideal temperature plateau during colonization is 75 to 85
+decomposers. The [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] plateau during colonization is 75 to 85
 degrees Fahrenheit.
 
 ## Outdoor Supplementation
@@ -90,6 +90,9 @@ selectivity of the base material.
 
 ## See Also
 
-- [[growing-gourmet-biological-efficiency-yield]]
+- growing-gourmet-biological-efficiency-yield
 - [[hot-water-and-hydrated-lime-substrate-treatment]]
-- growing gourmet supplemented sawdust fruiting formula
+- growing gourmet [[oyster-mushroom-supplemented-sawdust-blocks]] fruiting formula
+- [[mushroom-substrates]]
+- [[sterilization]]
+- [[kh2po4-phosphate-supplementation-mushroom-substrates]]

@@ -81,7 +81,7 @@ to mycoparasitic colonization by other soil fungi.
 - Wicklow and Wilson (1990) documented P. lilacinus as a colonist
   of A. flavus sclerotia buried in soil in Illinois and Georgia
 - Sclerotial degradation by mycoparasites represents a potential
-  biological control strategy for reducing aflatoxin contamination
+  [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] strategy for reducing aflatoxin contamination
 
 ### Life Cycle
 - Reproduces primarily through asexual conidia dispersed by wind
@@ -98,7 +98,7 @@ to mycoparasitic colonization by other soil fungi.
   soil isolation
 - Sclerotia can be used as bait for recovering mycoparasitic fungi
   from soil
-- Molecular identification via ITS rDNA sequencing and
+- [[biodiversity-fungal-molecular-identification-dna-barcoding]] via ITS rDNA sequencing and
   microsatellite analysis differentiates A. flavus from closely
   related species
 - Aflatoxin production is quantified using HPLC, ELISA, and

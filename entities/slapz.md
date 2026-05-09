@@ -18,11 +18,11 @@ created: 2026-05-07
 
 ## Overview
 
-Slapz is a modern hybrid cannabis strain bred by Capulator, the creator of MAC (Miracle Alien Cookies). It is a cross between Runtz and MAC, combining the sweet, fruity terpene profile of Runtz with the potent, resinous production of the MAC line.
+Slapz is a modern hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] bred by Capulator, the creator of MAC (Miracle Alien Cookies). It is a cross between Runtz and MAC, combining the sweet, fruity terpene profile of Runtz with the potent, resinous production of the MAC line.
 
 The strain emerged in the early 2020s and quickly gained attention in California's competitive clone market. Its name reflects the intense, almost shocking sensory experience of its aroma and effects.
 
-Slapz is classified as a slightly indica-dominant hybrid, typically around 55–60% indica. It has become a sought-after genetic for breeders due to its vigorous growth and exceptional resin production.
+Slapz is classified as a slightly indica-dominant hybrid, typically around 55–60% indica. It has become a sought-after genetic for breeders due to its vigorous growth and exceptional [[cannabis-glandular-trichome-types-resin-production-clarke]].
 
 ## Lineage
 
@@ -51,7 +51,7 @@ Some phenotypes express more of the Runtz candy sweetness, while others lean int
 
 ## Terpene Profile
 
-Dominant terpenes typically include caryophyllene, limonene, and linalool. Caryophyllene contributes peppery, spicy notes and is also a dietary cannabinoid receptor agonist.
+Dominant terpenes typically include caryophyllene, limonene, and linalool. Caryophyllene contributes peppery, spicy notes and is also a dietary [[cannabis-cannabinoid-receptor-pharmacology]] agonist.
 
 Limonene provides the bright citrus and tropical fruit aromas, while linalool adds a floral, slightly lavender quality that softens the overall profile. Minor terpenes include myrcene, humulene, and ocimene.
 
@@ -61,7 +61,7 @@ The total terpene content is notably high, often exceeding 3–4% in well-grown 
 
 Slapz typically tests between 22–28% THC, placing it in the high-potency category. CBD content is generally below 0.5%, consistent with modern recreational breeding priorities.
 
-Some phenotypes have tested above 30% THC, though these are exceptional and may reflect cultivation conditions as much as genetics. The high THC content pairs with significant terpene levels for strong entourage effects.
+Some phenotypes have tested above 30% THC, though these are exceptional and may reflect cultivation conditions as much as genetics. The high THC content pairs with significant terpene levels for strong [[beta-caryophyllene-entourage-effects-cannabis]].
 
 Minor cannabinoids including CBG and THCV may be present in trace amounts, contributing to the overall effect profile beyond what THC alone would produce.
 
@@ -79,7 +79,7 @@ Slapz is considered moderately difficult to cultivate. The plants are vigorous g
 
 Flowering time is approximately 8–9 weeks indoors. Yields are moderate to high, typically 400–500 g/m² under optimal conditions. The strain responds well to both SCROG and main-lining techniques.
 
-Outdoor cultivation is possible in Mediterranean climates with harvest in early to mid-October. The dense bud structure requires attention to humidity management in late flowering to prevent mold.
+Outdoor cultivation is possible in Mediterranean climates with harvest in early to mid-October. The dense bud structure requires attention to [[stamets-cultivator-humidity-management-fogging-systems]] in late flowering to prevent mold.
 
 ## Side Effects
 
@@ -95,7 +95,7 @@ Slapz is used recreationally but has garnered attention for potential therapeuti
 
 The uplifting cerebral effects may help manage symptoms of mild depression and anxiety, though high-THC strains are not universally recommended for anxiety-prone individuals. Individual response varies significantly.
 
-Some medical cannabis patients report using Slapz for chronic pain management, appetite stimulation, and nausea relief. The balanced hybrid profile allows daytime functionality while providing physical comfort.
+Some medical cannabis patients report using Slapz for [[cannabis-chronic-pain-management]] management, appetite stimulation, and nausea relief. The balanced hybrid profile allows daytime functionality while providing physical comfort.
 
 ## Notable Phenotypes
 
@@ -107,7 +107,7 @@ Breeders have used Slapz as a parent in several crosses, including combinations 
 
 ## See Also
 
-- [[gelato-cannabis]]
+- [[gelato]]
 - [[kush-mints]]
 - jungle-cake
 - [[biscotti-cannabis]]

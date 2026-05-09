@@ -1,25 +1,13 @@
 ---
 title: "Rain Water Harvesting"
 created: 2026-04-28
-tags: [[permaculture, water-harvesting, rainwater, swales]
+tags: [permaculture, water-harvesting, rainwater, swales]
 date: 2026-04-25
 updated: 2026-04-27
 sources: [william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-
-# Rain Water Harvesting
-
-Rain water harvesting is the practice of collecting and
-storing rainwater that falls on a site, either in cisterns
-or in the earth itself, ensuring that every drop of
-precipitation is accounted for in the design.
-
-## The Principle Behind Water Harvesting
-
-Water falls copiously from the sky, literally like mana from
-heaven, yet we completely ignore this valuable, free, life
-giving resource. [[permaculture-design]] attempts to hold all rain water on site.
+# Rain Water Harvesting Rain water harvesting is the practice of collecting and storing rainwater that falls on a site, either in cisterns or in the earth itself, ensuring that every drop of precipitation is accounted for in the design. ## The Principle Behind Water Harvesting Water falls copiously from the sky, literally like mana from heaven, yet we completely ignore this valuable, free, life giving resource. [[permaculture-design]] attempts to hold all rain water on site.
 However it is not enough to just hold the water; it must
 infiltrate, meaning soak into the ground. The key is to
 create areas of soft, loamy soil and aim the water toward
@@ -44,7 +32,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -94,7 +82,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -104,4 +92,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,5 +1,5 @@
 ---
-title: The Shamanic Journey and Altered States (Harner)
+title: The shamanic-journey-structure-and-technique and Altered States (Harner)
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -10,7 +10,7 @@ tags: [shamanism]
 
 # The Shamanic Journey and Altered States of Consciousness
 
-A central thesis running through Harner's "Hallucinogens and Shamanism" is that the shamanic journey--the experience of the soul leaving the body to travel through supernatural realms--is one of the most typical and widespread aspects of shamanic practice worldwide. The volume argues that this experience is not merely a cultural construct but may have a biochemical basis reinforced across millennia of human use of psychoactive substances. The concept of the "trip" in modern Western culture is presented as an independent rediscovery of this ancient pattern.
+A central thesis running through Harner's "[[hallucinogens-and-shamanism-harner-anthology]]" is that the shamanic journey--the experience of the soul leaving the body to travel through supernatural realms--is one of the most typical and widespread aspects of [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]] worldwide. The volume argues that this experience is not merely a cultural construct but may have a biochemical basis reinforced across millennia of human use of [[cultural-evolution-and-psychoactive-substances]]. The concept of the "trip" in modern Western culture is presented as an independent rediscovery of this ancient pattern.
 
 ## Defining the Shamanic Journey
 
@@ -38,7 +38,7 @@ The volume documents the shamanic journey across multiple Amazonian cultures wit
 
 ## European Parallels: The Witches' Flight
 
-Harner's chapter on European witchcraft reveals an identical pattern on another continent, mediated by entirely different plants. European witches rubbed their bodies with hallucinogenic ointments containing Atropa belladonna, Mandragora, and henbane, whose atropine content was absorbable through the skin. "The witch on the broomstick is a representation of that imagined aerial journey to a rendezvous with spirits or demons, which was called a Sabbat."
+Harner's chapter on [[european-witchcraft-hallucinogenic-plants]] reveals an identical pattern on another continent, mediated by entirely different plants. European witches rubbed their bodies with hallucinogenic ointments containing [[atropa-belladonna]], Mandragora, and henbane, whose atropine content was absorbable through the skin. "The witch on the broomstick is a representation of that imagined aerial journey to a rendezvous with spirits or demons, which was called a Sabbat."
 
 This was not merely a symbolic belief but was based on genuine psychoactive experiences. Historical accounts from the fourteenth through seventeenth centuries consistently describe witches falling into deep sleep after applying ointments, then awakening to report vivid experiences of flight, dancing with demons, and journeying to distant places. The Inquisition's eradication of European witchcraft ideology means that the return of the "trip" concept to modern Western culture cannot be ascribed to cultural transmission.
 

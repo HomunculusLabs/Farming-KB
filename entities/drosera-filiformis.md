@@ -9,7 +9,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Schnell, D.E. (2002). "Carnivorous Plants of the United States and Canada." Timber Press.
+  - Schnell, D.E. (2002). "Carnivorous Plants of the dmt-containing-plants-united-states-halpern and Canada." Timber Press.
   - Slack, A. (1979). "Carnivorous Plants." MIT Press.
   - D'Amato, P. (2013). "The Savage Garden." Timber Press.
   - Rivadavia, F. et al. (2003). "Phylogeny of Drosera." American Journal of Botany.
@@ -18,9 +18,9 @@ sources:
 
 ## Overview
 
-Drosera filiformis, commonly known as the thread-leaved sundew, is a temperate carnivorous plant native to eastern North America. It is recognized by its long, erect, thread-like leaves covered in glandular tentacles.
+Drosera filiformis, commonly known as the thread-leaved sundew, is a temperate carnivorous plant native to [[polypore-fungi-eastern-north-america]] America. It is recognized by its long, erect, thread-like leaves covered in glandular tentacles.
 
-The species produces distinctive linear leaves that can reach 20–40 cm in height, making it one of the tallest North American sundews. Its unusual leaf morphology distinguishes it from most other Drosera species.
+The species produces distinctive linear leaves that can reach 20–40 cm in height, making it one of the tallest [[growing-gourmet-north-american-reishi-species]] sundews. Its unusual [[cannabis-leaf-morphology-and-phyllotaxy]] distinguishes it from most other Drosera species.
 
 D. filiformis is found in boggy, nutrient-poor habitats along the Atlantic coastal plain. Two subspecies are recognized, differing in geographic distribution and flower morphology.
 
@@ -58,7 +58,7 @@ The tall, erect leaf form of D. filiformis may provide a functional advantage by
 
 D. filiformis is a popular subject for carnivorous plant collectors, though it requires a cold dormancy period. Plants are typically grown outdoors in temperate climates or in unheated greenhouses.
 
-The standard cultivation method employs the tray system, where pots sit in 2–5 cm of distilled or rainwater. A peat-to-sand ratio of 1:1 provides suitable growing medium.
+The standard [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] employs the tray system, where pots sit in 2–5 cm of distilled or rainwater. A peat-to-sand ratio of 1:1 provides suitable growing medium.
 
 Subspecies *tracyi* is somewhat easier to cultivate than the nominate form, being more tolerant of warm summer conditions. The nominate subspecies can suffer in extended heat above 32°C.
 
@@ -100,7 +100,7 @@ Several species of assassin bugs and crab spiders have been observed hunting on 
 
 The flowers attract small pollinators including bees and syrphid flies. Despite the carnivorous leaves, pollinators are rarely captured, likely because flowers are held well above the trapping surface.
 
-D. filiformis contributes to the nutrient cycling of bog ecosystems by extracting insect-derived nitrogen and depositing it in the substrate through leaf decomposition.
+D. filiformis contributes to the [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] of bog ecosystems by extracting insect-derived nitrogen and depositing it in the substrate through leaf decomposition.
 
 ## See Also
 
@@ -109,5 +109,5 @@ D. filiformis contributes to the nutrient cycling of bog ecosystems by extractin
 - [[sarracenia-flava]]
 - [[pinguicula-vulgaris]]
 - [[utricularia-vulgaris]]
-- [[darlingtonia-californica]]
+- darlingtonia californica
 - [[sarracenia-alata]]

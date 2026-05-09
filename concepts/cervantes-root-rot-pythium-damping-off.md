@@ -1,5 +1,5 @@
 ---
-title: Root Rot, Pythium, and Damping-Off
+title: cannabis-root-rot-prevention-and-treatment, Pythium, and Damping-Off
 created: 2026-04-28
 tags:
   - cannabis
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -18,14 +19,14 @@ type: concept
 
 Root rot and damping-off are among the most destructive fungal
 diseases affecting cannabis at all growth stages. Jorge Cervantes
-provides detailed identification guides and control strategies for
+provides detailed identification guides and [[jadam-weed-control-strategies-natural]] for
 these soil and hydroponic pathogens.
 
 ## Root Rot
 
 ### Identification
 
-Root rot fungi cause roots to turn from a healthy white to light
+Root [[comparison-white-rot-fungi-vs-brown-rot-fungi-biodegradation]] cause roots to turn from a healthy white to light
 brown. As the rot progresses, roots turn darker and darker brown.
 Leaf chlorosis is followed by wilting of the older leaves on the
 entire plant, and growth slows. When severe, rot progresses up to
@@ -35,7 +36,7 @@ when roots are deprived of oxygen and stand in un-aerated water.
 Soil pests that cut, suck, and chew roots create openings for rotting
 diseases to enter. Inspect roots with a 10X magnifying glass for
 signs of pest damage. Rotten roots that have been soaking in stagnant
-nutrient solution produce very slow foliage growth.
+[[cannabis-nutrient-solution-preparation]] produce very slow foliage growth.
 
 ### Control
 
@@ -89,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

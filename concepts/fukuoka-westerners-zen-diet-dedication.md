@@ -1,5 +1,5 @@
 ---
-title: Westerners' Single-Minded Dedication to Zen and Natural Diet
+title: Westerners' Single-Minded Dedication to Zen and fukuoka-natural-diet-as-foundation
 source: masanobu-fukuoka-the-road-back-to-nature.md
 author: Masanobu Fukuoka
 tags: [fukuoka, natural-farming, zen, natural-diet, western-philosophy, japanese-culture, cultural-comparison]
@@ -10,8 +10,8 @@ tags: [fukuoka, natural-farming, zen, natural-diet, western-philosophy, japanese
 ## Overview
 
 In *The Road Back to Nature*, Masanobu Fukuoka draws a striking contrast between Western and
-Japanese attitudes toward adopting alternative lifestyles such as Zen meditation, natural diet,
-and natural farming. He observes that Westerners who commit to these practices do so with a
+Japanese [[weil-cultural-attitudes-toward-altered-states]] adopting alternative lifestyles such as Zen meditation, natural diet,
+and [[comparison-natural-farming-vs-permaculture]]. He observes that Westerners who commit to these practices do so with a
 single-mindedness and sincerity that the Japanese have largely lost. While the Japanese
 approach these traditions with intellectual curiosity and halfhearted compromise, Westerners
 embrace them fully even while acknowledging their own lack of understanding.
@@ -29,7 +29,7 @@ This anthropocentric philosophy produced the sciences that have allowed Western 
 to control the world and other races. But by the 1980s, Fukuoka observed that Westerners had
 begun to realize something was fundamentally wrong with this approach.
 
-They could see the fallacies of Western philosophy but did not know which direction to turn. They had started to question the road taken by Christianity and to notice new possibilities in Eastern philosophy and Buddhism.
+They could see the fallacies of [[fukuoka-descartes-western-philosophy-nature]] but did not know which direction to turn. They had started to question the road taken by Christianity and to notice new possibilities in [[fukuoka-western-eastern-philosophy-agriculture]] and Buddhism.
 
 ## The Japanese Paradox: Catching Up on a Road to Nowhere
 
@@ -73,7 +73,7 @@ or worse, all I can do is to go on meditating."
 
 The same pattern appeared in dietary habits. Westerners who had concluded that the Western
 diet was harmful would switch to an Eastern or natural diet and stick to it rigorously. If
-they were on a brown rice diet, they maintained it strictly. If they had decided not to eat
+they were on a [[cho-brown-rice-vinegar-preparation]] diet, they maintained it strictly. If they had decided not to eat
 fish, they would not touch even a single small dried sardine.
 
 The Japanese, by contrast, tried a natural diet only when their health deteriorated, and as

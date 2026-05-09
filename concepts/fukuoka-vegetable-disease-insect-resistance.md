@@ -1,11 +1,12 @@
 ---
-title: Vegetable Disease and Insect Resistance Classification
+title: fukuoka-textdoc-vegetable-disease-pest-resistance-classification and Insect Resistance Classification
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Vegetable Disease and Insect Resistance Classification
@@ -20,13 +21,13 @@ This principle applies especially to the low-resistance families. Tomatoes and e
 
 ## Weeds as Soil Indicators
 
-"Areas unfavorable for vegetable growing are generally not conducive to weed growth, so a look at the types and amount of natural weed growth on the land can tell a lot about soil fertility and whether there are any major problems with the soil." See [[fukuoka-natural-vegetable-growing]] and [[fukuoka-white-clover-ground-cover]] that cycles nutrients more completely than any synthetic fertilizer program. Plants under mild insect pressure, rather than being harmed, are stimulated to produce defensive compounds that happen to be the same compounds valued for their nutritional and medicinal properties — a phenomenon sometimes called "eustress" in plant biology.
+"Areas unfavorable for [[fukuoka-semi-wild-vegetable-growing-natural-method]] are generally not conducive to weed growth, so a look at the types and amount of natural weed growth on the land can tell a lot about soil fertility and whether there are any major problems with the soil." See [[fukuoka-natural-vegetable-growing]] and [[fukuoka-white-clover-ground-cover]] that cycles nutrients more completely than any synthetic [[jadam-fertilizer-program-design]]. Plants under mild insect pressure, rather than being harmed, are stimulated to produce defensive compounds that happen to be the same compounds valued for their nutritional and medicinal properties — a phenomenon sometimes called "eustress" in plant biology.
 
 ### Long-Term Pest Population Dynamics
 
 Fukuoka's experience of thirty to forty years without pesticides revealed that insect populations naturally stabilize when the ecosystem is left intact. The first application of pesticide does not kill the hordes of rice leafhoppers, plant hoppers, and other insects; rather, it kills their predators — spiders, frogs, dragonflies, and predatory wasps. With predators eliminated, the pest insects rebound with no natural checks, creating the very infestation the pesticide was meant to prevent. Each subsequent application further degrades predator populations while selecting for pesticide-resistant pests, creating a spiral of escalating chemical dependency.
 
-Fukuoka observed that it typically takes three to five years after ceasing pesticide use for predator populations to recover and establish equilibrium with pest species. During this transition period, some crop damage is inevitable, but the farmer who endures it is rewarded with a self-regulating system that requires no pest management inputs. This principle of [[fukuoka-natural-livestock-integration-philosophy]]. Chickens, ducks, and other small poultry can serve as mobile insect control units when managed appropriately. The key is allowing them sufficient access to consume pests while preventing excessive scratching that damages plant roots. Fukuoka's approach relied on traditional breeds that foraged actively without the destructive habits of many modern commercial varieties. This integration mirrors the [[fukuoka-vegetable-growing-natural-method]] -- complete vegetable growing methods
+Fukuoka observed that it typically takes three to five years after ceasing pesticide use for predator populations to recover and establish equilibrium with pest species. During this transition period, some crop damage is inevitable, but the farmer who endures it is rewarded with a self-regulating system that requires no [[cannabis-pest-management-guide]] inputs. This principle of [[fukuoka-natural-livestock-integration-philosophy]]. Chickens, ducks, and other small poultry can serve as mobile [[mushroom-pests-insect-control-stamets]] units when managed appropriately. The key is allowing them sufficient access to consume pests while preventing excessive scratching that damages plant roots. Fukuoka's approach relied on traditional breeds that foraged actively without the destructive habits of many modern commercial varieties. This integration mirrors the [[fukuoka-vegetable-growing-natural-method]] -- complete vegetable [[mushroom-growing-methods-comparison]]
 - [[fukuoka-pest-ecology]] -- broader pest ecology principles
 - [[fukuoka-natural-diet-food-philosophy]] -- the connection between natural food and health
 
@@ -112,3 +113,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[fukuoka-textdoc-vegetable-disease-pest-resistance-classification]]

@@ -30,9 +30,9 @@ but damaging for brittle ones.
 
 In practice, assessing brittleness involves observing several indicators: the speed
 and nature of decay on dead plant material; the ease with which plants establish on
-bare ground; plant spacing in grasslands (close in nonbrittle, wide in brittle); and
+[[savory-bare-ground-and-soil-exposure]]; plant spacing in grasslands (close in nonbrittle, wide in brittle); and
 the degree to which old material accumulates on living plants without falling. These
-indicators, combined with knowledge of rainfall distribution patterns, allow managers
+indicators, combined with knowledge of rainfall [[guzman-global-distribution-patterns-neurotropic-fungi]], allow managers
 to position their land on the scale and adapt their management accordingly.
 
 The brittleness scale informs every aspect of [[savory-plant-succession-and-community-dynamics]]
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

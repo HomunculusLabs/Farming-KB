@@ -1,5 +1,5 @@
 ---
-title: "North American DMT-Containing Plants: Phalaris and Desmanthus"
+title: "growing-gourmet-north-american-reishi-species DMT-Containing Plants: Phalaris and Desmanthus"
 type: concept
 tags:
   - dmt
@@ -24,7 +24,7 @@ sources:
 
 Several common North American plants contain N,N-dimethyltryptamine (DMT), a potent Schedule I hallucinogenic tryptamine. The most notable among these are species of Phalaris (reed canary grass) and Desmanthus (prairie mimosa), both of which are widely distributed across the United States and are frequently encountered in agricultural and natural settings without any recognition of their psychoactive properties.
 
-These plants represent a unique category in the landscape of psychoactive botanicals: they are not cultivated for drug purposes but grow wild or are planted for entirely unrelated reasons such as forage, erosion control, or ornamental use. Their DMT content was discovered through phytochemical investigation rather than ethnobotanical tradition.
+These plants represent a unique category in the landscape of psychoactive botanicals: they are not cultivated for drug purposes but grow wild or are planted for entirely unrelated reasons such as forage, [[permplant-willows-salix-erosion-control-fodder]], or ornamental use. Their DMT content was discovered through phytochemical investigation rather than ethnobotanical tradition.
 
 ## Phalaris Species
 
@@ -66,17 +66,17 @@ The alkaloid content of Phalaris species has long been recognized as a cause of 
 
 The syndrome was initially attributed primarily to the tryptamine alkaloids, but subsequent research has implicated a range of compounds including DMT, 5-MeO-DMT, and various beta-carboline derivatives. Different clinical syndromes may result from acute versus chronic exposure and from different alkaloid profiles.
 
-Low-alkaloid cultivars of Phalaris arundinacea have been developed specifically to address this toxicity problem. These cultivars are identified by screening and selective breeding, providing safer forage options for livestock producers in regions where reed canary grass is a dominant forage species. The development process involves both chemical analysis of individual plants and field evaluation of animal performance on different accessions.
+Low-alkaloid cultivars of Phalaris arundinacea have been developed specifically to address this toxicity problem. These cultivars are identified by screening and selective breeding, providing safer forage options for livestock producers in regions where reed canary grass is a dominant forage species. The development process involves both [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of individual plants and field evaluation of animal performance on different accessions.
 
 In addition to acute neurological effects, chronic consumption of Phalaris with high alkaloid content may lead to progressive weight loss, reduced reproductive performance, and increased susceptibility to other diseases in affected livestock herds.
 
 ## Legal Status and Recognition
 
-DMT is classified as a Schedule I controlled substance under the United States Controlled Substances Act. However, the plants that contain DMT are not specifically scheduled, creating a legal gray area regarding their possession, cultivation, and distribution.
+DMT is classified as a Schedule I controlled substance under the United States Controlled [[controlled-substances-act-and-psychedelic-research]]. However, the plants that contain DMT are not specifically scheduled, creating a legal gray area regarding their possession, cultivation, and distribution.
 
 This gap exists because the Controlled Substances Act schedules specific chemicals rather than the plants that contain them. While extraction of DMT from these plants would constitute manufacture of a Schedule I substance, the plants themselves can be legally purchased, grown, and possessed in most jurisdictions.
 
-The Halpern (2004) review notes that this situation could change if awareness of these plants' psychoactive properties leads to increased abuse. The relative obscurity of these DMT-containing plants among the general public has so far prevented significant regulatory attention, unlike the more visible cases of peyote and psilocybin mushrooms.
+The Halpern (2004) review notes that this situation could change if awareness of these plants' psychoactive properties leads to increased abuse. The relative obscurity of these DMT-containing plants among the general public has so far prevented significant regulatory attention, unlike the more visible cases of peyote and [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]].
 
 ## Ecological Distribution
 
@@ -91,5 +91,9 @@ Desmanthus illinoensis has a more restricted range, primarily found in the centr
 - phalaris arundinacea
 - [[hplc-analysis-of-tryptamine-alkaloids]]
 - monoamine oxidase inhibitors plants
-- [[fukuoka-spaniards-introduced-invasive-grasses-americas]]
-- nitrogen fixing legumes prairie
+- fukuoka-spaniards-introduced-invasive-grasses-americas
+- [[comparison-rhizobia-vs-free-living-nitrogen-fixing-bacteria]] legumes prairie
+
+## See Also
+
+- [[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]]

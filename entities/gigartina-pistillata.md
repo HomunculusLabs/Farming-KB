@@ -49,7 +49,7 @@ The primary carrageenan fraction consists of D-galactose and 3,6-anhydro-D-galac
 
 Mineral content includes significant concentrations of iodine, potassium, calcium, and magnesium. The alga also contains trace amounts of B-group vitamins and polyphenolic compounds with antioxidant activity.
 
-Protein content is relatively low at 5–12% of dry weight, with a favorable amino acid profile including essential fatty acids. The ash content ranges from 20–35%, reflecting high mineral uptake from seawater.
+Protein content is relatively low at 5–12% of dry weight, with a favorable amino acid profile including essential [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]. The ash content ranges from 20–35%, reflecting high mineral uptake from seawater.
 
 ## Ecology
 
@@ -67,7 +67,7 @@ In traditional coastal cuisines of the Iberian Peninsula, the species is used as
 
 Industrial-scale harvesting of G. pistillata for carrageenan extraction occurs primarily in Portugal and Morocco. The extracted carrageenan is used as a stabilizer, thickener, and emulsifier in dairy products, processed meats, and cosmetics.
 
-The alga is also used in traditional medicine along parts of the North African coast, where it is applied topically as an emollient for skin conditions.
+The alga is also used in traditional medicine along parts of the North African coast, where it is applied topically as an emollient for [[cannabis-for-skin-conditions-detailed]].
 
 ## Cultivation and Harvesting
 
@@ -77,7 +77,7 @@ Aquaculture trials using vegetative propagation and spore settlement have shown 
 
 Sustainable management of natural beds requires rotational harvesting to allow recovery. Populations typically regenerate within 8–12 months after moderate harvesting intensity.
 
-Seasonal productivity varies significantly with water temperature and photoperiod. Peak biomass accumulation occurs during summer months when day length exceeds 14 hours and surface water temperatures reach 15–18°C.
+Seasonal productivity varies significantly with water temperature and photoperiod. Peak biomass accumulation occurs during summer months when [[coleman-winter-day-length-and-persephone-months]] exceeds 14 hours and surface water temperatures reach 15–18°C.
 
 ## Related Species
 
@@ -85,7 +85,7 @@ G. pistillata is closely related to *Gigartina chamissoi* and *Gigartina radula*
 
 Within the same habitat, G. pistillata can be confused with *Mastocarpus stellatus* and *Chondrus crispus* during early growth stages. Key distinguishing features include branch texture, cystocarp morphology, and the arrangement of tetrasporangia.
 
-The genus Gigartina contains approximately 60 species worldwide, many of which are restricted to the Southern Hemisphere. G. pistillata is one of the few species with a primarily Northern Hemisphere distribution.
+The genus Gigartina contains approximately 60 species worldwide, many of which are restricted to the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]. G. pistillata is one of the few species with a primarily Northern Hemisphere distribution.
 
 Molecular phylogenetic studies have revealed that the traditional morphological classification within Gigartinaceae does not fully reflect evolutionary relationships. Several species previously placed in Gigartina have been transferred to other genera based on DNA sequence data.
 
@@ -95,11 +95,11 @@ Reproductive structures are most abundant during autumn and winter months. Ferti
 
 Environmental stressors including increased UV radiation, ocean acidification, and rising sea surface temperatures pose potential threats to natural populations. Experimental studies indicate that sustained temperatures above 22°C significantly reduce growth rates and carrageenan quality.
 
-Epiphytic algae and fungal infections can reduce the quality of harvested material. Post-harvest processing typically includes washing, air-drying, and milling to produce a standardized raw carrageenan product for industrial use.
+Epiphytic algae and [[blesching-cannabis-fungal-infections-candida]] can reduce the quality of harvested material. Post-harvest processing typically includes washing, air-drying, and milling to produce a standardized raw carrageenan product for industrial use.
 
 Conservation efforts for G. pistillata focus on protecting key habitat areas from coastal development and pollution. Marine protected areas along the Iberian coast have shown positive effects on natural bed recovery and species diversity.
 
-Monitoring programs in Portugal and Spain track population health using quadrat surveys and biomass estimates. These programs provide baseline data for assessing the impacts of climate change and harvesting pressure on wild stocks.
+Monitoring programs in Portugal and Spain track population health using quadrat surveys and biomass estimates. These programs provide baseline data for assessing the impacts of [[dighton-fungi-climate-change-feedback]] and harvesting pressure on wild stocks.
 
 Local communities along the Atlantic coast of Portugal have maintained traditional harvesting practices for generations. These practices incorporate cultural knowledge of seasonal timing and sustainable harvest limits that complement scientific management approaches.
 

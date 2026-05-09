@@ -24,7 +24,7 @@ On April 16, 1943, Hofmann inadvertently absorbed a trace amount through his fin
 - **Chemical class:** Ergoline (lysergamide)
 - **Molecular formula:** C20H25N3O
 - **Full name:** D-lysergic acid diethylamide (from German: Lyserg-saure-diathylamid)
-- **Precursor:** Lysergic acid, obtained by chemical cleavage of ergotamine (from the ergot fungus, LSD Compound Profile / Claviceps purpurea)
+- **Precursor:** Lysergic acid, obtained by chemical cleavage of ergotamine (from the ergot fungus, LSD Compound Profile / [[bloomfield-ergot-claviceps-purpurea-ergotism]])
 - **Synthesis route:** Hofmann developed a coupling procedure to combine lysergic acid with diethylamine, producing LSD along with the natural ergot alkaloid ergobasine
 - LSD is a semi-synthetic compound: the lysergic acid core is derived from natural ergot, but the diethylamide substitution is synthetic
 
@@ -36,19 +36,19 @@ On April 16, 1943, Hofmann inadvertently absorbed a trace amount through his fin
 - The subjective effects of LSD are phenomenologically distinct from [[psilocybin-compound-profile]] exerts its effects, though LSD shows higher intrinsic efficacy and longer receptor residence time.
 - **5-HT1A**: LSD acts as a potent agonist at 5-HT1A receptors (Ki approximately 1-2 nM), which may contribute to its anxiolytic and prosocial effects at moderate doses. Activation of 5-HT1A autoreceptors in the raphe nuclei modulates serotonin release.
 - **5-HT2C**: Agonist activity may contribute to appetite suppression and mild stimulant effects sometimes reported.
-- **5-HT5A, 5-HT6, 5-HT7**: LSD shows significant affinity for these receptor subtypes, though their contribution to the psychedelic experience remains under investigation.
+- **5-HT5A, 5-HT6, 5-HT7**: LSD shows significant affinity for these receptor subtypes, though their contribution to the [[leary-psychedelic-experience-bardo-mapping]] remains under investigation.
 - **Dopamine receptors**: LSD is a partial agonist at D2-like dopamine receptors and an agonist at D1-like receptors, which may contribute to its mild stimulant properties and mood-elevating effects.
 - **Adrenergic receptors**: Alpha-adrenergic agonist activity contributes to the sympathetic nervous system activation (pupil dilation, increased heart rate, mild elevation in blood pressure) commonly observed during LSD experiences.
 - **TAAR1**: LSD is an agonist at trace amine-associated receptor 1, which may modulate dopaminergic and serotonergic neurotransmission.
 
 ## Dose-Response Characteristics
 
-LSD exhibits an unusually steep dose-response curve. Increasing the dose by as little as 50% can dramatically alter the subjective experience. The difference between 75 ug and 150 ug is not merely one of degree but of kind -- qualitative shifts in consciousness occur across relatively narrow dose ranges. This steep curve, combined with LSD's extreme potency (active at 20-100 ug), makes accurate dosing critical. The concept of "set and setting" ([[psilocybin-compound-profile]], [[dmt-dimethyltryptamine-experience-guide]], but not with non-serotonergic substances such as [[lsd-therapeutic-history]] -- History of LSD in psychotherapy and research
+LSD exhibits an unusually steep dose-response curve. Increasing the dose by as little as 50% can dramatically alter the subjective experience. The difference between 75 ug and 150 ug is not merely one of degree but of kind -- qualitative shifts in consciousness occur across relatively narrow dose ranges. This steep curve, combined with LSD's extreme potency (active at 20-100 ug), makes accurate dosing critical. The concept of "[[lsd-set-and-setting-framework]]" ([[psilocybin-compound-profile]], [[dmt-dimethyltryptamine-experience-guide]], but not with non-serotonergic substances such as [[lsd-therapeutic-history]] -- History of LSD in psychotherapy and research
 - [[psychedelic-dose-response]] -- Dose-response relationships across psychedelics
-- [[fungal-chromogens-and-color-change]]
+- fungal-chromogens-and-color-change
 
 ## Merged: LSD Chemical Modifications and Derivatives
-The chemical modification of LSD (D-lysergic acid diethylamide) was one of the most extensive medicinal chemistry programs undertaken at Sandoz in the mid-20th century. Beginning soon after the discovery of LSD's psychic effects in 1943, Albert Hofmann and his colleague Dr. Franz Troxler produced a large number of LSD derivatives in an effort to understand [[mckenna-food-gods-tryptamine-pharmacology-indoles]], where subtle molecular changes can abolish hallucinogenic activity entirely. Related: [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]], [[psilocybin-and-mystical-experience]]. Stoll's published self-experiment with 60 micrograms remains one of the most detailed early accounts of the [[lsd-set-and-setting-framework]] framework that would later become central to all psychedelic therapy protocols. Related: [[psychedelic-therapy-current-research]], [[lsd-model-psychosis-research]], [[dmt-dimethyltryptamine-experience-guide]], psilocybin, and ayahuasca as tools for probing the nature of consciousness, language, and human evolution. Published in 1992 in *The Archaic Revival*, it remains one of McKenna's most detailed accounts of tryptamine phenomenology. McKenna focuses on three tryptophan-derived hallucinogens: [[5-meo-dmt-compound-profile]] based on his experiments beginning in 1965. Related: [[stropharia-rugoso-annulata-mycofiltration]], [[mckenna-consciousness-expansion-and-drug-war]], [[lsd-chemical-modifications-and-analogs]]
+The chemical modification of LSD (D-lysergic acid diethylamide) was one of the most extensive medicinal chemistry programs undertaken at Sandoz in the mid-20th century. Beginning soon after the discovery of LSD's psychic effects in 1943, Albert Hofmann and his colleague Dr. Franz Troxler produced a large number of LSD derivatives in an effort to understand [[mckenna-food-gods-tryptamine-pharmacology-indoles]], where subtle molecular changes can abolish hallucinogenic activity entirely. Related: [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]], [[psilocybin-and-mystical-experience]]. Stoll's published self-experiment with 60 micrograms remains one of the most detailed early accounts of the  framework that would later become central to all [[metzner-psycholytic-psychedelic-therapy-models]] protocols. Related: [[psychedelic-therapy-current-research]], [[lsd-model-psychosis-research]], [[dmt-dimethyltryptamine-experience-guide]], psilocybin, and ayahuasca as tools for probing the nature of consciousness, language, and human evolution. Published in 1992 in *The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]*, it remains one of McKenna's most detailed accounts of tryptamine phenomenology. McKenna focuses on three tryptophan-derived hallucinogens: [[5-meo-dmt-compound-profile]] based on his experiments beginning in 1965. Related: [[stropharia-rugoso-annulata-mycofiltration]], [[mckenna-consciousness-expansion-and-drug-war]], [[lsd-chemical-modifications-and-analogs]]
 ## Practical Considerations
 
 When working with LSD Compound Profile, several practical factors should be
@@ -65,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

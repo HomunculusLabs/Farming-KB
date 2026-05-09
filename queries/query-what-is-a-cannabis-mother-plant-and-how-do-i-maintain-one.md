@@ -1,10 +1,12 @@
 ---
-title: "What Is a Cannabis Mother Plant and How Do I Maintain One?"
+title: "What Is a query what is a cannabis mother plant and how do i maintain one Plant and How Do I Maintain One?"
 created: 2026-04-28
 tags: [query, cannabis, propagation, cloning, cultivation]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---
 
@@ -23,7 +25,7 @@ cultivation, a single well-maintained mother can provide hundreds of genetically
 identical clones over several years. This is especially valuable for commercial
 growers and dedicated hobbyists who want predictable results from every cycle.
 
-The concept relies on keeping a plant in the photoperiod-cannabis|vegetative stage by providing 18 to 24 hours of light per day. As long as the plant
+The concept relies on keeping a plant in the photoperiod-cannabis|[[comparison-cannabis-vegetative-stage-vs-flowering-stage]] by providing 18 to 24 hours of light per day. As long as the plant
 never experiences 12 hours of uninterrupted darkness, it will continue growing
 foliage without triggering the hormonal shift into flowering. This means you can
 keep a mother alive for years, periodically pruning her back to manage size
@@ -41,9 +43,9 @@ mother robust without encouraging leggy, weak growth.
 Pruning is essential for long-term mother plant maintenance. Regularly removing
 older, lower growth and thinning out the canopy encourages fresh branching and
 ensures the cuttings you take are from vigorous new growth. The
-[[cervantes-compost-tea-organic-brewing]] or organic amendments to promote
+[[cervantes-compost-tea-organic-brewing]] or [[cervantes-organic-amendments-chart]] to promote
 a healthy root zone and microbial activity, which supports long-term plant
-vitality over months or years of continuous vegetative growth.
+vitality over months or years of continuous [[cannabis-vegetative-growth-stage]].
 
 Container sizing matters for mother plants. A larger container gives the root
 system room to develop, which supports sustained health over extended periods.
@@ -79,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

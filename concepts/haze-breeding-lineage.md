@@ -5,20 +5,20 @@ tags: [cannabis, sativa, haze, breeding, lineage, genetics, strains]
 created: 2026-05-08
 ---
 # Haze Breeding Lineage
-The Haze family represents arguably the most influential sativa breeding lineage
+The Haze family represents arguably the most influential [[cannabis-sativa-breeding-evolution]] lineage
 in cannabis history. Originating in Northern California in the 1960s and 1970s,
 Haze became the genetic backbone for countless modern sativa-dominant hybrids
 and remains a benchmark for psychedelic, cerebral cannabis effects. The story of
 Haze is fundamentally the story of how a small group of dedicated breeders
-combined multiple landrace sativa varieties to create something entirely new.
+combined multiple [[african-landrace-sativa-modern-hybrids]] varieties to create something entirely new.
 ## Origins in Santa Cruz and Hayward
 The creation of Haze is generally attributed to a group of breeders known as
 the Haze Brothers working in the Santa Cruz Mountains and Hayward area of
 Northern California during the late 1960s and early 1970s. The breeders were
-working outdoors, as indoor cultivation technology was not yet developed. Their
+working outdoors, as [[cannabis-sativa-indoor-cultivation-techniques]] technology was not yet developed. Their
 goal was to create a sativa-dominant hybrid that combined the best
 characteristics of several premium landrace varieties available at the time.
-The breeding program involved multiple generations of selection and
+The [[cervantes-breeding-program-design-goal-setting]] involved multiple generations of selection and
 stabilization, eventually producing a line that exhibited extraordinary potency,
 complex aromatics, and a distinctive psychoactive profile that was unlike
 anything that had come before in the cannabis world.
@@ -26,7 +26,7 @@ anything that had come before in the cannabis world.
 The foundational cross that created Haze combined genetics from four major
 landrace regions. Colombian Gold contributed structure, yield potential, and
 sweet citrus notes. A Mexican sativa, variously described as Oaxacan or
-Acapulco, added resin production and earthy undertones. Thai genetics provided
+Acapulco, added [[cannabis-glandular-trichome-types-resin-production-clarke]] and earthy undertones. Thai genetics provided
 the intense psychoactive head high that became Haze's signature characteristic.
 A South Indian or South Asian variety rounded out the cross, contributing
 additional flowering vigor and complexity to the terpene profile. The
@@ -86,7 +86,7 @@ the specific combination of euphoria, creativity, and perceptual enhancement
 that authentic Haze genetics provide.
 ## The Trainwreck Connection
 
-The concept of trainwreck genetics in cannabis breeding shares conceptual territory
+The concept of trainwreck genetics in [[oner-cannabis-breeding-fundamentals]] shares conceptual territory
 with the Haze story. As The Rev explains, outdoor breeding in the 1970s and 1980s
 involved placing male plants in remote patches and letting wind carry pollen to
 multiple female varieties. The resulting seeds were called trainwreck generation

@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Guzmán, G. (1983). "The genus Psilocybe: A systematic revision of the known species including the history, distribution and chemistry of the hallucinogenic species." Beihefte zur Nova Hedwigia, 74: 1-439.
   - Guzmán, G., et al. (2004). "A new bluing species of Psilocybe section Stropharia from Oaxaca, Mexico." Mycotaxon, 90(1): 221-224.
-  - Stamets, P. (1996). "Psilocybin Mushrooms of the World." Ten Speed Press.
+  - Stamets, P. (1996). "[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World." Ten Speed Press.
   - MushroomExpert.com. "Psilocybe oaxacensis." https://www.mushroomexpert.com/
 created: 2026-04-28
 ---
@@ -27,7 +27,7 @@ It belongs to *Psilocybe* section *Stropharia* and is closely allied with *P. za
 
 The species is of primary ethnobotanical interest owing to its use among Zapotec and Mixe indigenous communities in Oaxaca, where it is consumed in ceremonial contexts alongside other native *Psilocybe* taxa.
 
-Despite its cultural significance, *P. oaxacensis* remains poorly documented in the mycological literature relative to better-known species like *P. cubensis* and *P. mexicana*.
+Despite its [[ethnomycology-cultural-significance-sacred-fungi]], *P. oaxacensis* remains poorly documented in the mycological literature relative to better-known species like *P. cubensis* and *P. mexicana*.
 
 ## Taxonomy and Morphology
 
@@ -84,7 +84,7 @@ Standard grain spawn (rye, millet, or brown rice) colonizes readily, though the 
 
 Fruiting substrates include pasteurized horse or cow manure, enriched straw, and composted grass substrates.
 
-Biological efficiency is moderate, with typical yields of 50–100% BE on supplemented manure substrates.
+[[stamets-biological-efficiency-yield]] is moderate, with typical yields of 50–100% BE on supplemented manure substrates.
 
 The species has not been commercially cultivated and remains of interest primarily to researchers and amateur mycologists studying Mexican psilocybian fungi.
 
@@ -104,9 +104,9 @@ The bluing reaction is indicative of oxidative degradation of psilocybin and psi
 
 The species is used ceremonially by Zapotec communities in the Sierra Juárez region of Oaxaca, where it is known by indigenous names related to "little ones that sprout."
 
-It is typically consumed fresh during nocturnal healing and divination ceremonies, often alongside other native *Psilocybe* species that fruit in the same habitats and seasons.
+It is typically consumed fresh during nocturnal [[metzner-shamanic-healing-and-divination-paradigm]] ceremonies, often alongside other native *Psilocybe* species that fruit in the same habitats and seasons.
 
-Traditional preparation involves collecting specimens at dawn and consuming them raw or lightly dried, sometimes paired with honey to mitigate bitterness.
+[[kava-traditional-preparation-ceremonial-context]] involves collecting specimens at dawn and consuming them raw or lightly dried, sometimes paired with honey to mitigate bitterness.
 
 Guzmán documented the use of *P. oaxacensis* among Mixe healers (*curanderos*) who employ the mushroom for diagnosing illness and communicating with ancestral spirits.
 
@@ -121,7 +121,7 @@ The species is considered one of several "sacred mushrooms" (*hongos sagrados*) 
 - ***Psilocybe hoogshagenii*** — Distinguished by a pronounced, persistent annulus; found in similar Oaxacan cloud forests.
 - ***Psilocybe sanctorum*** — Rarer species from high-elevation central Mexico; morphologically similar but with different cheilocystidia.
 
-Differentiation within this group requires microscopic examination of spore dimensions and cystidial morphology.
+Differentiation within this group requires [[fungal-microscopic-examination-mounting-media-techniques]] of spore dimensions and cystidial morphology.
 
 ## See Also
 

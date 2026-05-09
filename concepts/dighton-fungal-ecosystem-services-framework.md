@@ -1,5 +1,5 @@
 ---
-title: "Fungal Ecosystem Services Framework"
+title: "Fungal biodiversity-of-fungi-ecosystem-services-agriculture Framework"
 created: 2026-04-26
 tags:
   - mycology
@@ -17,7 +17,7 @@ type: concept
 # Fungal Ecosystem Services Framework
 
 Fungi provide a wide range of ecosystem services that underpin the
-functioning of terrestrial, freshwater, and marine ecosystems. These
+functioning of terrestrial, freshwater, and [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]]. These
 services include soil formation, fertility maintenance, primary
 production support, plant community regulation, secondary production
 as food sources, pollutant modification, and carbon sequestration. The
@@ -70,7 +70,7 @@ on the compatibility between existing fungal networks and incoming
 plant species. Pathogenic fungi can selectively reduce dominant plant
 species, maintaining species diversity. Endophytic fungi alter
 competitive relationships among plant species through effects on
-growth rate, stress tolerance, and herbivore resistance.
+growth rate, [[fungal-lichen-stress-tolerance-and-poikilohydry]], and herbivore resistance.
 
 ## Secondary Production as Food Source
 
@@ -92,7 +92,7 @@ radionuclides. Mycorrhizal fungi can reduce plant uptake of
 pollutants while accumulating them in fungal tissue. The combined
 actions of fungal immobilization, transformation, and translocation
 influence the fate and transport of contaminants in the environment,
-providing a basis for bioremediation strategies.
+providing a basis for [[comparison-bioremediation-strategies-vs-biostimulation-techniques]].
 
 ## Carbon Sequestration and Storage
 
@@ -109,7 +109,7 @@ contributes to long-term carbon storage in soil organic matter.
 
 Ecosystem components are organized hierarchically, with fungi
 operating across multiple scales from individual hyphal tips to
-mycelial networks spanning meters. This hierarchical organization
+[[fungal-mycelial-networks-nutrient-translocation]] spanning meters. This hierarchical organization
 allows fungi to link microscale processes such as enzyme secretion
 and nutrient absorption with ecosystem-scale outcomes including
 decomposition rates, nutrient fluxes, and carbon budgets. The
@@ -120,9 +120,12 @@ heterogeneous soil environments at minimal energetic cost.
 
 - [[dighton-fungal-role-soil-aggregation]]
 - [[dighton-ectomycorrhizal-ecosystem-impact]]
-- [[fungi-ecosystem-engineers]]
+- fungi-ecosystem-engineers
 
 ## Sources
 
-- Dighton, J. (2003). Fungi in Ecosystem Processes. Marcel Dekker.
+- Dighton, J. (2003). Fungi in [[fungal-ecosystem-processes-overview]]. Marcel Dekker.
   Chapters 1, 5, and 7.
+- [[fungal-ecosystem-services]]
+- [[saprotrophic-fungi]]
+- [[decomposition]]

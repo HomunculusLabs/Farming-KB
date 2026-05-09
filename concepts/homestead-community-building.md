@@ -1,10 +1,11 @@
 ---
-title: Homestead Community Building
+title: Homestead urban-permaculture-community-building-social-design
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, community, sustainability, economics, permaculture]
-sources: []
+sources:
+  sources: []
 ---
 
 # Homestead Community Building
@@ -43,7 +44,7 @@ Tool libraries reduce duplication, save money, and build community. A shared too
 - Expand based on demand and donations
 
 ### Ideal Tools for a Community Library
-- Pressure canner and water bath canner
+- [[pf-tek-pressure-canner-sterilization]] and water bath canner
 - Tiller, chipper/shredder
 - Chainsaw (with safety gear)
 - Log splitter
@@ -68,7 +69,7 @@ Seed swaps preserve genetic diversity, reduce costs, and build local adaptation.
 
 ### Seed Saving Basics
 - Open-pollinated (OP) and heirloom varieties breed true from saved seed
-- Hybrid varieties do not breed true — do not save seed from hybrids unless you are experimenting
+- [[cervantes-hybrid-varieties-types]] do not breed true — do not save seed from hybrids unless you are experimenting
 - Some crops cross-pollinate readily (squash, corn, brassicas) — isolate or hand-pollinate for pure seed
 - Store seeds cool, dark, and dry — in paper envelopes inside a sealed container in the refrigerator
 - Label everything: variety, year, source, any notes on isolation distance used
@@ -88,13 +89,13 @@ Every homesteader has skills others need. Formal and informal skill sharing buil
 - Food preservation (canning, fermentation, dehydration)
 - Animal husbandry and processing
 - Carpentry and building
-- Permaculture design and [[permaculture-principles]] principles
+- [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] and  principles
 - Herbal medicine and plant identification
 - Beekeeping
 - Welding and metalwork
 - Fruit tree pruning and grafting
 - Seed saving
-- Natural building methods ([[mud-oven]], timber frame)
+- [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] methods ([[mud-oven]], timber frame)
 
 ## Buying Clubs
 
@@ -120,7 +121,7 @@ Group purchasing power reduces costs on bulk items. Buying clubs pool orders to 
 
 Beyond direct barter, broader local food networks strengthen community food security:
 
-- **Community Supported Agriculture (CSA)** — subscribe to local farms for weekly produce boxes
+- **Community [[community-supported-agriculture-csa]] (CSA)** — subscribe to local farms for weekly produce boxes
 - **Farmers markets** — sell surplus and connect with other producers
 - **Food cooperatives** — member-owned grocery stores that prioritize local products
 - **Community gardens** — shared growing space for those without land
@@ -140,16 +141,9 @@ Community living inevitably produces disagreements. Address conflicts early and 
 ## Building Community from Scratch
 
 If you are new to an area:
-- Attend local farmers markets and agricultural events
-- Join your county extension service mailing list
-- Introduce yourself to neighbors with a small gift (eggs, produce, baked goods)
-- Volunteer for community projects
-- Offer to help during busy seasons (harvest, haying, butchering)
-- Host a potluck — food brings people together
-- Be reliable — your reputation is built on follow-through
-
-A resilient homestead is not self-sufficient — it is community-sufficient. The strongest homesteaders are those embedded in networks of mutual aid, shared knowledge, and reciprocal exchange.
-
 ## See Also
 
-- [[permaculture-community-building]]
+- permaculture-community-building
+- [[natural-building]]
+- [[permaculture-design]]
+- [[fruit-tree-pruning]]

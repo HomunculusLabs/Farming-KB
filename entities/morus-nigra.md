@@ -16,7 +16,7 @@ sources:
   - E. M. Venkataramana et al. (2019). "A review on Morus alba, Morus nigra and Morus rubra." Journal of Pharmacy & Bioallied Sciences, 11(Suppl 1), S75–S82.
   - USDA Natural Resources Conservation Service. "Morus nigra L." PLANTS Database.
   - M. L. Kafkas et al. (2008). "Molecular characterization of mulberry accessions from Turkey." Scientia Horticulturae, 116(4), 364–368.
-  - A. K. Pandey et al. (2018). "Mulberry: A potential source of bioactive compounds." Journal of Integrative Medicine, 16(5), 367–376.
+  - A. K. Pandey et al. (2018). "Mulberry: A potential source of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]." Journal of Integrative Medicine, 16(5), 367–376.
 ---
 
 ## Overview
@@ -76,7 +76,7 @@ hotter regions where afternoon protection is beneficial.
 
 Propagation is most commonly by hardwood cuttings (30–45 cm, taken in winter), which root
 readily within 6–8 weeks under mist. Softwood cuttings and grafting onto *M. alba* rootstock
-are also practiced. Seed propagation produces variable offspring and is generally avoided for
+are also practiced. [[jeavons-seed-propagation-techniques]] produces variable offspring and is generally avoided for
 named cultivars.
 
 Trees begin bearing fruit 3–5 years after planting from cuttings. Mature trees can produce
@@ -88,7 +88,7 @@ Summer pruning after fruiting is recommended, as black mulberry bleeds heavily i
 during dormancy. A modified open-center form works well for home orchards.
 
 Key cultivars include 'Hicks Fancy' (Australia), 'King James' (England), and 'Noir de
-Spain' (Mediterranean region), each selected for fruit size, flavor, or climate adaptation.
+Spain' (Mediterranean region), each selected for fruit size, flavor, or [[jeavons-climate-adaptation-growing-seasons]].
 
 ## Edibility and Culinary Use
 
@@ -127,9 +127,9 @@ Black mulberry serves multiple functions in permaculture and food forest designs
 productive fruit tree, it provides high-value yields with relatively low maintenance once
 established. Its deep taproot system improves soil structure and accesses subsoil nutrients.
 
-The tree provides excellent poultry forage — chickens readily consume fallen fruit, reducing
+The tree provides excellent [[free-range-poultry-forage-design-mollison]] — chickens readily consume fallen fruit, reducing
 waste and contributing to egg yolk pigmentation. The dense canopy offers summer shade for
-livestock and understory crops, and the leaf litter contributes to soil organic matter.
+livestock and understory crops, and the [[dighton-fungal-decomposition-leaf-litter-dynamics]] contributes to soil [[hamilton-composting-and-organic-matter-management]].
 
 In agroforestry systems, black mulberry is compatible with nut trees (walnut, chestnut),
 berries, and nitrogen-fixing understory species. It can serve as a windbreak component in
@@ -138,6 +138,7 @@ mixed hedgerows and functions well as a boundary tree in zone 2–3 designs.
 ## See Also
 
 - [[juglans-nigra]] — Black walnut, a common agroforestry companion
-- [[rubus-idaeus-entity]] — Red raspberry, an understory companion
+- rubus-idaeus-entity — Red raspberry, an understory companion
 - [[caragana-arborescens]] — Siberian peashrub, a hardy nitrogen fixer
-- [[permaculture]] — Core permaculture principles and practices
+- permaculture — Core permaculture principles and practices
+- [[permaculture-principles]]

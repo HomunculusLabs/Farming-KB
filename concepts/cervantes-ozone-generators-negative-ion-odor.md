@@ -1,17 +1,18 @@
 ---
-title: Ozone Generators and Negative Ion Odor Control
+title: cervantes ozone generators negative ion odor and Negative Ion cannabis-odor-control-and-carbon-filters
 created: 2026-04-28
 tags: [cannabis, odor-control, ozone, negative-ion, air-treatment]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Ozone Generators and Negative Ion Odor Control
 
-Managing odor is essential for discreet indoor cannabis cultivation.
+Managing odor is essential for discreet indoor [[query-how-does-no-till-cannabis-cultivation-work]].
 Beyond [[cervantes-odor-control]] and
 [[cannabis-grow-room-setup]] pests.
 
@@ -47,7 +48,7 @@ This practice can diminish the fragrance of the bud.
 
 ### Ozone Exchange Chamber (Recommended)
 Smart growers set up an ozone generator in a spare closet or build an
-ozone exchange chamber and route fragrant grow room air through it.
+ozone exchange chamber and route fragrant grow [[stamets-growing-room-air-circulation-co2-management]] through it.
 The treated air is then expelled. This approach preserves bud
 fragrance while eliminating odor.
 
@@ -80,7 +81,7 @@ severely burn skin and eyes.
 ### Security Concern
 The distinctive odor of excess ozone exiting a building will tip off
 neighbors and law enforcement. For this reason, many growers also use
-a cervantes ventilation fan carbon filter setup to
+a cervantes [[cervantes-ventilation-fan-carbon-filter-setup]] carbon filter setup to
 further scrub the air.
 
 ## Selecting an Ozone Generator
@@ -128,7 +129,7 @@ generator uses very little electricity and requires minimal upkeep.
 ## Deodorizers
 
 Products such as Odor Killer, Ona, VaporTek, and Ozium are made from
-essential oils that kill odors by creating a neutral atmosphere at the
+[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] that kill odors by creating a neutral atmosphere at the
 atomic level. Available in gel, liquid, and spray forms. Many growers
 prefer gel for long-term use and spray for emergency situations.
 

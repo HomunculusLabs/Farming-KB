@@ -1,5 +1,5 @@
 ---
-title: Termite and Ant Fungus Gardens — Symbiotic Cultivation
+title: mollison-designers-termite-and-ant-mound-niche-gardening Fungus Gardens — Symbiotic Cultivation
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -17,7 +17,7 @@ Among the most remarkable examples of insect-fungus mutualism are the fungus gar
 Fungus-growing termites belong to the subfamily Macrotermitinae of the family Termitidae, primarily in tropical Africa extending eastward to southeastern Asia. Their nests can be large structures housing millions of individuals.
 
 ### The Fungus: Termitomyces
-The cultivated fungus is Termitomyces, a genus of basidiomycetes that produces edible mushrooms. Species of Termitomyces are considered choice edibles by many local people, who compete with researchers for specimens. The genus includes some of the largest mushroom species known.
+The cultivated fungus is Termitomyces, a genus of basidiomycetes that produces [[palmer-edible-mushrooms-north-america]]. Species of Termitomyces are considered choice edibles by many local people, who compete with researchers for specimens. The genus includes some of the largest mushroom species known.
 
 ### The Symbiosis
 - Termites construct elaborate combs within their nests from chewed plant material
@@ -30,13 +30,13 @@ The cultivated fungus is Termitomyces, a genus of basidiomycetes that produces e
 Xylaria species are regularly found associated with Termitomyces in combs. The relationship is not fully understood:
 - Both fungi can grow in the same combs in the absence of termites if the nest remains intact
 - Xylaria quickly overgrows Termitomyces when combs are removed from nests
-- Xylaria may play a role similar to Scytalidium thermophilum in mushroom cultivation — preparing substrata
+- Xylaria may play a role similar to Scytalidium thermophilum in [[accessible-mushroom-cultivation-for-disabilities]] — preparing substrata
 
 ### Collection and Culture
 - Mushrooms can be collected directly from nests at the right time
 - Fungus combs can be collected but should be studied immediately
 - Culture from older combs is difficult due to saprobic overgrowth
-- Commonly used media: oatmeal flakes, Sabouraud glucose, malt extract, yeast extract agars
+- Commonly used media: oatmeal flakes, Sabouraud glucose, malt extract, [[marmite-yeast-extract-straw-substrate]] agars
 
 ## Leaf-Cutter Ant Fungus Gardens
 
@@ -78,6 +78,6 @@ These fungus-growing symbioses illustrate:
 
 - [[insect-arthropod-associated-fungi]]
 - [[fungi-cultivated-mushrooms-pathogens-competitors]]
-- [[fungicolous-fungi-cultivated-mushroom-diseases]]
+- fungicolous-fungi-cultivated-mushroom-diseases
 - [[symbiotic-fungi-nitrogen-fixing-symbioses-agriculture]]
 - [[symbiotic-fungi-lichen-symbiosis-agriculture]]

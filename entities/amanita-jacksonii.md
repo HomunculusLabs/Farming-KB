@@ -21,9 +21,9 @@ sources:
 # Amanita jacksonii
 
 **Amanita jacksonii**, commonly known as the **American caesar's mushroom** or **Jackson's amanita**, is a basidiomycete fungus in the family Amanitaceae.
-It is a strikingly beautiful edible mushroom found in eastern North America, closely related to the European *Amanita caesarea*.
-The species was named in honor of C. F. Jackson, an American mycologist who contributed significantly to the study of northeastern North American fungi.
-*Amanita jacksonii* is widely regarded as one of the finest edible mushrooms in eastern North American forests, though it requires careful identification to distinguish from toxic *Amanita* species.
+It is a strikingly beautiful [[bloomfield-boletus-satanus-edible-mushroom-hazards]] found in [[polypore-fungi-eastern-north-america]] America, closely related to the European *Amanita caesarea*.
+The species was named in honor of C. F. Jackson, an American mycologist who contributed significantly to the study of northeastern [[growing-gourmet-north-american-reishi-species]] fungi.
+*Amanita jacksonii* is widely regarded as one of the finest [[palmer-edible-mushrooms-north-america]] in eastern North American forests, though it requires careful identification to distinguish from toxic *Amanita* species.
 
 ## Taxonomy and Classification
 
@@ -99,7 +99,7 @@ It belongs to *Amanita* section Caesareae, which contains several prized edible 
 
 - Contains no amatoxins or phallotoxins (unlike many *Amanita* species)
 - Good nutritional profile as an edible mushroom
-- Contains ergothioneine, a potent antioxidant also found in [[amanita-muscaria-entity]] | White warts on cap persist; white universal veil patches; contains ibotenic acid and muscimol |
+- Contains ergothioneine, a potent antioxidant also found in [[amanita-muscaria-entity]] | White warts on cap persist; white universal veil patches; contains [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] and muscimol |
 | [[rig-veda-soma-hymns-amanita-muscaria]] | Western North American species; more yellow-orange cap; less common |
 | [[amanita-phalloides]] | Death cap; greenish-yellow cap; white gills; volva as a loose sac at base; contains lethal amatoxins |
 
@@ -115,7 +115,7 @@ It belongs to *Amanita* section Caesareae, which contains several prized edible 
 
 ## Cultural Significance
 
-- Named after C. F. Jackson, reflecting the tradition of honoring American mycologists who documented the continent's fungal diversity
+- Named after C. F. Jackson, reflecting the tradition of honoring American mycologists who documented the continent's [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - Considered the American counterpart to the prized European Caesar's mushroom (*Amanita caesarea*)
 - Increasingly recognized in the modern foraging renaissance as a prized find
 - Ectomycorrhizal partner essential to forest health; indicator species for healthy, mature forest ecosystems

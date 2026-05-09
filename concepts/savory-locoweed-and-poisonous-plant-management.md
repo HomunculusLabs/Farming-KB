@@ -1,5 +1,5 @@
 ---
-title: "Locoweed and Poisonous Plant Management"
+title: "savory locoweed and poisonous plant management Plant Management"
 created: 2026-04-28
 tags: [holistic-management, poisonous-plants, locoweed, grazing-planning,
       cause-and-effect]
@@ -12,18 +12,18 @@ type: concept
 # Locoweed and Poisonous Plant Management
 
 Locoweed (Astragalus and Oxytropis species) is one of the most
-troublesome poisonous plant problems on North American rangelands,
+troublesome poisonous plant problems on [[growing-gourmet-north-american-reishi-species]] rangelands,
 said to kill horses outright and seriously affect ruminants. However,
 Savory's observations from the Barlite Ranch in Texas demonstrate that
 locoweed infestation is not the primary problem but rather a symptom
 of ecosystem dysfunction caused by the combination of overgrazing and
-partial rest in brittle environments.
+[[savory-partial-rest-and-algal-crusts]] in brittle environments.
 
 ## The Barlite Ranch Case Study
 
 On the Barlite Ranch, a heavy locoweed infestation developed after
 years of practicing both overgrazing and partial rest. Where planned
-grazing with heavy animal impact was implemented, locoweed disappeared
+grazing with heavy [[savory-animal-impact-and-herd-effect]] was implemented, locoweed disappeared
 within a few years without any direct treatment. In areas where
 landowners sprayed the plants but did not eliminate the overgrazing,
 the infestation continued through the same seasons. The chemical
@@ -74,8 +74,8 @@ direct intervention rather than systemic correction.
   cause or symptom
 - brittle environments - Why these problems are worst in brittle
   areas
-- plant succession and community dynamics - How communities shift
-- livestock grazing planning - The planning process that corrects
+- plant [[savory-plant-succession-and-community-dynamics]] dynamics - How communities shift
+- [[savory-livestock-grazing-planning]] planning - The planning process that corrects
   underlying causes
 
 ## See Also

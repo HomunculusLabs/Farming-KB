@@ -1,7 +1,7 @@
 ---
-title: Insects and Diseases of Winter Crops
+title: solomon-insects-and-diseases-integrated-approach of coleman-semi-hibernating-winter-crops-harvest-extension
 created: 2026-04-26
-sources: The Winter Harvest Handbook, Eliot Coleman (2009), Chapter 18
+sources: The coleman-claytonia-winter-harvest-cultivation Handbook, Eliot Coleman (2009), Chapter 18
 tags:
   - insects
   - diseases
@@ -22,7 +22,7 @@ comprehensive framework for understanding pests not as enemies to
 be destroyed but as symptoms indicating that growing conditions
 need improvement. The organic grower who does not understand the
 importance of cause correction rather than symptom treatment is
-missing out on the pest philosophy of the future.
+missing out on the [[coleman-pest-philosophy-first-rule]] of the future.
 
 ## Palliatives versus Solutions
 

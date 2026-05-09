@@ -4,12 +4,13 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [pest-control, biocontrol, fungi, agriculture, entomopathogenic, ecology, environment, pest-management]
-sources: []
+sources:
+  sources: []
 ---
 
 ## Overview
 
-Fungal biopesticides use pathogenic fungi to control insect pests, plant diseases, and weeds as alternatives to synthetic chemical pesticides. Entomopathogenic fungi infect and kill insects, while antagonistic fungi suppress plant pathogens through competition, antibiosis, or parasitism. These biological control agents are central to [[integrated-pest-management|integrated pest management]] (IPM) and organic farming systems.
+Fungal biopesticides use pathogenic fungi to control insect pests, plant diseases, and weeds as alternatives to synthetic chemical pesticides. Entomopathogenic fungi infect and kill insects, while antagonistic fungi suppress plant pathogens through competition, antibiosis, or parasitism. These [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents are central to [[integrated-pest-management|integrated pest management]] (IPM) and organic farming systems.
 
 ## Entomopathogenic Fungi -- Insect Control
 
@@ -33,10 +34,10 @@ The most commercially successful entomopathogenic fungus:
 - Broad host range: aphids, whiteflies, thrips, beetles, caterpillars, mites
 - Produces beauvericin and bassianolide toxins
 - Multiple commercial formulations available worldwide
-- Compatible with many beneficial insects (can be selective with proper application timing)
+- Compatible with many [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] (can be selective with proper application timing)
 
 Applications:
-- Greenhouse vegetable production (tomato, pepper, cucumber)
+- Greenhouse [[dry-gardening-unirrigated-vegetable-production-solomon]] (tomato, pepper, cucumber)
 - [[orchard-pest-management|Orchard pest management]] (codling moth, plum curculio)
 - Field crops (soybean aphid, European corn borer)
 - Stored grain pest protection
@@ -74,15 +75,15 @@ The most important fungal genus for plant disease biocontrol:
 
 Species and applications:
 - **T. harzianum**: Broad-spectrum antagonist; controls Fusarium, Rhizoctonia, Pythium, Sclerotinia
-- **T. viride**: Soil-borne disease suppression; seed treatment agent
+- **T. viride**: Soil-borne [[aact-disease-suppression-mechanisms-ingham]]; seed treatment agent
 - **T. asperellum**: Root disease control; growth promotion
 - **T. atroviride**: Mycoparasite of other fungi; strong enzyme production
 
 Mechanisms of action:
 - **Mycoparasitism**: Trichoderma coils around and penetrates pathogen hyphae, dissolving cell walls with chitinases and glucanases
-- **Antibiosis**: Produces secondary metabolites (trichodermin, gliotoxin, viridin) toxic to pathogens
+- **Antibiosis**: Produces [[antifungal-secondary-metabolites-coprophilous-fungi]] (trichodermin, gliotoxin, viridin) toxic to pathogens
 - **Competition**: Rapidly colonizes root zone, outcompeting pathogens for nutrients and space
-- **Induced systemic resistance**: Triggers plant defense responses (ISR)
+- **[[endophytic-mycorrhizal-induced-systemic-resistance]] resistance**: Triggers plant defense responses (ISR)
 - **Plant growth promotion**: Produces auxin-like compounds, solubilizes phosphorus
 
 ### Gliocladium virens
@@ -142,15 +143,6 @@ Mechanisms of action:
 - Use as part of fungal biopesticides programs in organic growing
 - Trichoderma inoculation of compost and potting mixes for disease prevention
 - Apply Beauveria to compost piles to control fungus gnats and other pest flies
-
-## Limitations
-
-- Slower action than chemical pesticides (days vs. hours)
-- Environmental conditions strongly affect efficacy
-- Generally more expensive per application than broad-spectrum chemicals
-- May require multiple applications per season
-- Registration and regulatory approval varies by country
-- Shelf life limitations for living organism products
 
 ## See Also
 

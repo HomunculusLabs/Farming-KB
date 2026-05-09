@@ -1,5 +1,5 @@
 ---
-title: Contamination Identification Prevention Mushroom Cultivation
+title: mushroom-cultivation-contamination-troubleshooting Prevention accessible-mushroom-cultivation-for-disabilities
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 mined: 2026-05-08
 tags: [contamination, cultivation, sterile-technique, mycology, mold, bacteria]
@@ -12,11 +12,11 @@ tags: [contamination, cultivation, sterile-technique, mycology, mold, bacteria]
 Contamination is the most common cause of failure in amateur mushroom cultivation.
 Competing organisms — primarily molds and bacteria — can colonize the substrate
 before or alongside the intended mushroom mycelium, rendering the crop unusable
-and potentially dangerous. Understanding contamination sources, identification,
+and potentially dangerous. Understanding [[stamets-contamination-sources-laboratory-hygiene]], identification,
 and prevention is fundamental to successful cultivation.
 
 The [[fruiting-chamber]]. Can sometimes be treated by increasing fresh air exchange
-and spraying with 3% hydrogen peroxide.
+and spraying with 3% [[cervantes-hydrogen-peroxide-sterilization]].
 
 **Bacterial wet spot**: Substrate appears dark, wet, and slimy. May produce a
 sour or putrid odor. Often caused by excess water in the substrate mix or
@@ -48,7 +48,7 @@ eliminate this risk.
 
 ## Prevention Strategies
 
-Sterile technique is the foundation of contamination prevention:
+[[cultivator-sterile-technique-and-agar-culture]] is the foundation of contamination prevention:
 
 1. **Clean workspace**: Wipe all surfaces with 70% isopropyl alcohol before
    beginning. Minimize air currents by closing windows and turning off fans.
@@ -79,7 +79,7 @@ Sterile technique is the foundation of contamination prevention:
 
 The grow environment itself can become a contamination vector over time:
 
-- Clean the fruiting chamber between crops with a 10% bleach solution.
+- Clean the [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] between crops with a 10% bleach solution.
 - Maintain proper humidity (90-95%) without creating standing water.
 - Ensure adequate fresh air exchange to prevent CO2 buildup and stale air.
 - Remove and dispose of contaminated materials immediately and completely.

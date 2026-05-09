@@ -1,5 +1,5 @@
 ---
-title: Foliar Application of Compost Tea
+title: ultra-low-cost-foliar-application-methods of comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide
 created: 2026-04-26
 tags: [compost-tea, foliar-spray, disease-suppression, aact, ingham]
 date: 2026-04-25
@@ -11,9 +11,9 @@ type: concept
 
 # Foliar Application of Compost Tea
 
-Foliar application of [[aact-troubleshooting-ingham]]'s [[fungal-communities-succession]]. The foliar approach targets disease
-suppression on leaf surfaces, improved nutrient uptake through
-stomatal opening, and pest deterrence through multiple biological
+Foliar application of [[aact-troubleshooting-ingham]]'s fungal-communities-succession. The foliar approach targets disease
+suppression on leaf surfaces, improved [[plant-nutrient-uptake-mechanisms]] through
+stomatal opening, and [[foliar-pest-deterrence-aact-mechanisms]] through multiple biological
 mechanisms.
 
 ## Why Apply Tea to Foliage
@@ -96,4 +96,9 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[ingham-compost-tea-application-rates-and-timing]]
+- [[ingham-field-guide-compost-tea-application-rates]]
+- [[ingham-compost-contaminants]]
+- [[ingham-turf-lawn-compost-tea-programs]]
+- [[ingham-coli-compost-tea-food-safety]]

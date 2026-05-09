@@ -5,7 +5,8 @@ tags: [cannabis, nutrients, iron, manganese, zinc, cervantes]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -42,7 +43,7 @@ Chelates decompose rapidly in low levels of
 ultraviolet light, including light from HID bulbs
 and sunlight. Keep chelates out of light to
 protect them from rapid decomposition. Natural
-chelates such as humic acid and citric acid can
+chelates such as [[comparison-humic-acid-vs-fulvic-acid]] and citric acid can
 be added to organic soil mixes.
 
 ## Zinc (Zn) - Mobile
@@ -98,14 +99,14 @@ older leaves as deficiency progresses. Necrotic
 (dead) spots develop on severely affected leaves,
 which become pale and fall off. Overall plant
 growth is stunted. Severe deficiency looks like
-severe magnesium deficiency.
+severe [[query-how-to-fix-magnesium-deficiency-in-cannabis]].
 
 ### Treatment
 
 Lower the pH, leach the soil, and add a complete
 chelated micronutrient formula. Toxicity from low
 pH can cause toxic manganese intake, which causes
-iron and zinc deficiency.
+iron and [[query-how-to-fix-zinc-deficiency-in-cannabis]].
 
 ## Iron (Fe) - Immobile
 

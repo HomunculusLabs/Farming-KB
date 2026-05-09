@@ -1,5 +1,5 @@
 ---
-title: Microbial Fuel Cells for Remediation
+title: singh-microbial-fuel-cells-fungal-electrogenesis Cells for Remediation
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -8,13 +8,13 @@ sources: []
 ---
 # Microbial Fuel Cells for Remediation
 
-Microbial fuel cells (MFCs) are bioelectrochemical systems that harness the metabolic activity of microorganisms to convert the chemical energy stored in organic compounds directly into electrical energy. When applied to contaminated environments, MFCs can simultaneously generate electricity while degrading organic pollutants, oxidizing reduced compounds, or immobilizing metals, making them a dual-purpose technology for remediation and energy recovery.
+Microbial fuel cells (MFCs) are bioelectrochemical systems that harness the [[arbuscule-isolation-metabolic-activity-assays]] of microorganisms to convert the chemical energy stored in [[fungal-volatile-organic-compounds-communication]] directly into electrical energy. When applied to contaminated environments, MFCs can simultaneously generate electricity while degrading organic pollutants, oxidizing reduced compounds, or immobilizing metals, making them a dual-purpose technology for remediation and energy recovery.
 
 The technology bridges microbiology, electrochemistry, and environmental engineering, offering a fundamentally different approach to bioremediation that provides direct evidence of microbial activity through measurable electrical output.
 
 ## Operating Principles
 
-A microbial fuel cell consists of two chambers (anode and cathode) separated by a proton exchange membrane or a salt bridge. Microorganisms in the anode chamber oxidize organic matter or other electron donors, releasing electrons and protons as metabolic byproducts.
+A microbial fuel cell consists of two chambers (anode and cathode) separated by a proton exchange membrane or a salt bridge. Microorganisms in the anode chamber oxidize [[hamilton-composting-and-organic-matter-management]] or other electron donors, releasing electrons and protons as metabolic byproducts.
 
 The electrons are transferred from the microbial cells to the anode electrode through direct contact (via outer membrane cytochromes or conductive pili known as nanowires), through soluble electron shuttles (mediators) such as flavins or phenazines, or through conductive biofilms that form on the anode surface. The electrons flow through an external circuit from the anode to the cathode, generating electrical current.
 
@@ -48,7 +48,7 @@ SMFCs can accelerate the natural degradation of organic matter in sediments by p
 
 ### Heavy Metal Reduction and Recovery
 
-MFCs can be configured to reduce and recover heavy metals from contaminated water at the cathode. In this application, the metal ion serves as the terminal electron acceptor, receiving electrons from the anode through the external circuit. Metals such as chromium(VI), copper(II), silver(I), and uranium(VI) can be reduced to less toxic or less soluble forms at the cathode.
+MFCs can be configured to reduce and recover [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] from contaminated water at the cathode. In this application, the [[fungal-metal-ion-resistance-mechanisms]] serves as the terminal electron acceptor, receiving electrons from the anode through the external circuit. Metals such as chromium(VI), copper(II), silver(I), and uranium(VI) can be reduced to less toxic or less soluble forms at the cathode.
 
 Chromium(VI) is reduced to chromium(III), which precipitates as chromium hydroxide and can be collected from the cathode surface. Copper(II) is reduced to metallic copper that deposits on the cathode and can be recovered as a metallic product. This approach simultaneously removes metals from solution and recovers them in a reusable form.
 
@@ -78,8 +78,10 @@ Despite these limitations, MFC technology represents a promising integration of 
 
 ## See Also
 
+- [[singh-microbial-fuel-cells-fungal-electrogenesis]]
+
 - [[mycoremediation]] — comparison of remediation organisms
 - [[bioaugmentation-strategies]] — introducing specialized remediation organisms
-- [[fungal-enzyme-systems-in-bioremediation]] — enzyme systems for remediation
+- fungal-enzyme-systems-in-bioremediation — enzyme systems for remediation
 - [[fungal-treatment-of-textile-dyes-mechanisms]]
 - [[fungal-single-cell-protein-production]]

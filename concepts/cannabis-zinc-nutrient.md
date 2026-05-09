@@ -20,7 +20,7 @@ Zinc is a [[query-how-to-identify-and-fix-cannabis-iron-deficiency]] and [[canna
 - Zinc sulfate (inorganic but commonly used)
 - Rock dusts (some varieties contain zinc)
 
-Natural chelates such as humic acid and citric acid can be added to organic soil mixes to improve zinc availability. Roots and bacteria also exude natural chelates to promote the uptake of metallic elements.
+Natural chelates such as [[comparison-humic-acid-vs-fulvic-acid]] and citric acid can be added to organic soil mixes to improve zinc availability. Roots and bacteria also exude natural chelates to promote the uptake of metallic elements.
 
 ## Chelated Zinc
 
@@ -36,7 +36,7 @@ Natural chelates such as humic acid and citric acid can be added to organic soil
 
 ## Deficiency
 
-Zinc is the most common micronutrient found deficient. These symptoms are often confused with a lack of manganese or iron, but when zinc deficiency is severe, new leaf blades contort and dry out.
+Zinc is the most common micronutrient found deficient. These symptoms are often confused with a lack of manganese or iron, but when [[query-how-to-fix-zinc-deficiency-in-cannabis]] is severe, new leaf blades contort and dry out.
 
 ### Symptoms
 
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

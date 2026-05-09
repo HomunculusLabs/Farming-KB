@@ -1,5 +1,5 @@
 ---
-title: Cannabis Nutrient Recipes
+title: green-cannabis-nutrient-schedules Recipes
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -35,7 +35,7 @@ The Flora series is one of the most widely used synthetic nutrient systems:
 - FloraBloom: 10-15 ml (increase through mid-flower)
 - Target EC: 1.5-2.0 (750-1000 PPM at 500 scale)
 
-Always add FloraMicro to water first, stir, then add FloraGro, stir, then FloraBloom. This prevents nutrient lockout from precipitation.
+Always add FloraMicro to water first, stir, then add FloraGro, stir, then FloraBloom. This prevents [[cannabis-nutrient-lockout-and-ph]] from precipitation.
 
 ### Lucas Formula
 
@@ -98,7 +98,7 @@ Brewed with an air pump and air stone to maintain aerobic conditions:
 
 - 5 gallons dechlorinated water
 - 2 cups high-quality compost or vermicompost
-- 1 tablespoon unsulfured blackstrap molasses
+- 1 tablespoon unsulfured [[ingham-blackstrap-molasses-compost-tea-concentration-osmotic-effects]]
 - 2 tablespoons kelp meal
 - 1 tablespoon fish hydrolysate (optional)
 - Brew for 24-36 hours at 65-75 F with continuous aeration
@@ -115,7 +115,7 @@ The molasses feeds beneficial bacteria, kelp provides micronutrients, and fish h
 
 ## pH Management
 
-Nutrient availability is pH-dependent. The target ranges vary by medium:
+[[ph-and-nutrient-availability-garden-soils]] is pH-dependent. The target ranges vary by medium:
 
 | Medium | Target pH |
 |---|---|
@@ -143,6 +143,6 @@ Always adjust pH after adding all nutrients to the solution, as nutrients change
 
 - **Soil / Living soil**: Water when dry; feed with compost tea every 1-2 weeks
 - **Coco coir**: Feed every watering at reduced strength (60-70% of recommended)
-- **Hydroponics**: Maintain nutrient reservoir; change every 1-2 weeks
+- **Hydroponics**: Maintain [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]]; change every 1-2 weeks
 
-For transition between vegetative and flowering feeding, see [[cannabis-vegetative-stage]] and [[cannabis-flowering-stage]] for stage-specific guidance. Environmental factors in [[cannabis-environment-control]] also affect nutrient uptake rates.
+For transition between vegetative and flowering feeding, see [[cannabis-vegetative-stage]] and [[cannabis-flowering-stage]] for stage-specific guidance. [[duggar-mushroom-environmental-factors-temperature-moisture-light]] in [[cannabis-environment-control]] also affect nutrient uptake rates.

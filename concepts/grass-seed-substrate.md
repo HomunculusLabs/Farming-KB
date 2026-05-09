@@ -2,9 +2,9 @@
 
 ## Overview
 
-Grass seed is a versatile and effective substrate for the cultivation of various mushroom and sclerotium-producing fungal species. First documented in the mycological cultivation literature for *Psilocybe mexicana* and *Psilocybe tampanensis* [[query-how-to-identify-psilocybe-cubensis-in-the-wild]] a (truffles)
+Grass seed is a versatile and effective substrate for the cultivation of various mushroom and sclerotium-producing fungal species. First documented in the mycological cultivation literature for *[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]* and *[[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]* [[query-how-to-identify-psilocybe-cubensis-in-the-wild]] a (truffles)
 - **Psilocybe tampanensis** — mushrooms and sclerotia (philosopher's stones)
-- **Psilocybe cubensis** — mushrooms (though rye grain is generally preferred for this species)
+- **[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]** — mushrooms (though rye grain is generally preferred for this species)
 - **[[query-how-do-i-use-black-soldier-flies-for-composting-and-animal-feed]] for lawn planting) contain fungicides that will prevent or severely inhibit mycelial growth. The packaging should explicitly state whether fungicides have been applied
 - **Source**: Animal feed stores are an excellent and economical source, as grass seed sold as bird feed is typically untreated and sold in bulk at low cost
 - **Freshness**: Older seed may have reduced germination capacity and altered water absorption characteristics; use seed within one year of harvest
@@ -54,7 +54,7 @@ Achieving the correct moisture content is critical:
 
 ### Inoculant Types
 - **Spore syringe**: Spores suspended in sterile water
-- **Mycelium syringe**: Liquid culture of living mycelium
+- **Mycelium syringe**: [[comparison-liquid-culture-vs-grain-spawn]] of living mycelium
 - **Agar squares**: Colonized agar cut from a petri dish
 - **Grain-to-grain transfer**: Colonized grain from another jar
 
@@ -102,7 +102,7 @@ Achieving the correct moisture content is critical:
 ### Slow or Stalled Colonization
 - Check temperature — too low (< 18°C) dramatically slows growth
 - Verify moisture content — overly dry substrate cannot support mycelial extension
-- Confirm inoculant viability — old spore syringes lose viability over time
+- Confirm inoculant viability — old [[query-spore-syringes-vs-liquid-culture]] lose viability over time
 - Consider shaking again to redistribute if growth is uneven
 
 ### Bacterial Contamination
@@ -126,5 +126,9 @@ For larger cultivation projects, grass seed substrate can be prepared in spawn b
 
 ## References
 
-- Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press.
+- Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press.
 - Gartz, J. (1995). "Cultivation of fruitbodies and sclerotia on sterilised grass seed." Mycological Research Notes.
+
+## See Also
+
+- [[grass-seed-substrate-species-compatibility]]

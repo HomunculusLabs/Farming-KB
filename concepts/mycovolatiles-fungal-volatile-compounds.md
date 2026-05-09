@@ -12,7 +12,7 @@ type: concept
 
 ## Overview
 
-Fungal volatile organic compounds (VOCs), sometimes called mycovolatiles,
+Fungal [[fungal-volatile-organic-compounds-communication]] compounds (VOCs), sometimes called mycovolatiles,
 are low-molecular-weight organic molecules emitted by fungi as metabolic
 byproducts. These compounds include alcohols, aldehydes, ketones,
 terpenes, and aromatic hydrocarbons. In [[tricholoma-matsutake]]):** Characterized by a
@@ -28,7 +28,7 @@ the complete absence of visible fruiting bodies.
 
 One of the most commercially significant applications of fungal
 VOCs is in biological pest control. Stamets' research demonstrated
-that certain entomopathogenic fungi emit volatile attractants that
+that certain [[singh-entomopathogenic-fungi-biocontrol-agents]] emit volatile attractants that
 lure target insects to their mycelium. The green mold Metarhizium
 anisopliae, a pathogen of termites and ants, produces both
 attractants and feeding stimulants from its presporulating mycelium.
@@ -40,7 +40,7 @@ Key discoveries from this research include:
 - Water and ethanol extracts of the mycelium on rice yielded
   powerful attractants and feeding stimulants
 - These extracts remained effective even after serial dilution
-  with water, reducing production costs
+  with water, reducing [[fukuoka-textdoc-production-costs-not-coming-down]]
 - Species-specific attractant production was observed: Metarhizium
   strains from one insect species' colony did not attract other
   insect species
@@ -49,7 +49,7 @@ Key discoveries from this research include:
 In mycoforestry, understanding fungal volatile profiles has
 practical implications for habitat restoration. The scent of the
 mycelium serves as a diagnostic tool: when establishing mycelial
-colonies for erosion control or soil building, the emergence of
+colonies for [[permplant-willows-salix-erosion-control-fodder]] or soil building, the emergence of
 characteristic species-specific fragrances indicates successful
 colonization and active growth.
 
@@ -57,12 +57,12 @@ The volatile emissions also play a role in the downstream ecological
 effects of introduced mycelium. As mycelial mats establish and grow,
 they modify the chemical environment of their habitat through
 volatile production, influencing which other organisms can colonize
-the area and shaping the trajectory of ecological succession.
+the area and shaping the trajectory of [[holmgren-ecological-succession-and-pulsing]].
 
 ## Future Directions: Mycovolatiles as Data
 
 Stamets envisions a future where fungal networks are programmed to
-collect environmental data. The volatile output of mycelial networks
+collect environmental data. The volatile output of [[fungal-mycelial-networks-nutrient-translocation]]
 could potentially be monitored as a real-time indicator of
 ecosystem health, with changes in VOC profiles signaling shifts in
 soil chemistry, the presence of pollutants, or the status of

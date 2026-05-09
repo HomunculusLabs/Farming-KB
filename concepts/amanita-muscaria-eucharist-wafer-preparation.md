@@ -1,5 +1,5 @@
 ---
-title: Amanita Muscaria Eucharist Wafer Preparation
+title: Amanita [[allegro-amanita-muscaria-properties-and-pharmacology]] eucharist wafer preparation Wafer Preparation
 created: 2026-04-19
 updated: 2026-04-18
 type: concept
@@ -45,7 +45,7 @@ This method creates actual fungal bread by colonizing grain with Amanita muscari
 
 ## The Sacred Wine (Blood of Christ)
 
-The wine component of the Eucharist is the [[amanita-muscaria-ambrosia-preparation]] preparation. The most historically relevant version substitutes grape juice for water in the extraction:
+The wine component of the Eucharist is the  preparation. The most historically relevant version substitutes grape juice for water in the extraction:
 
 ### Preparation
 
@@ -62,7 +62,7 @@ This explains the ancient practice of always diluting wine before drinking:
 
 - **Greek practice:** 2:1 to 3:1 water-to-wine ratio
 - **Roman practice:** 2:1 to 4:1 ratio
-- **Ancient Near East:** Up to 20:1 ratio
+- **[[allegro-fertility-philosophy-of-the-ancient-near-east]] East:** Up to 20:1 ratio
 
 These dilution ratios are impossible for alcoholic wine but perfectly consistent with a water-soluble psychoactive extract. See [[amanita-muscaria-drying-and-preparation]] -- Essential pre-processing
 - [[amanita-muscaria-ambrosia-preparation]] -- Grape juice method
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

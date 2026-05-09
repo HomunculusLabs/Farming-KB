@@ -1,5 +1,5 @@
 ---
-title: "Fermented Plant Extract vs Compost Tea"
+title: "comparison fermented plant extract vs compost tea vs Compost Tea"
 created: 2026-04-28
 tags: [comparison, soil-amendments, organic-farming, knf, composting]
 date: 2026-04-25
@@ -18,7 +18,7 @@ originate from entirely different traditions and work through different
 mechanisms. FPE is a Korean Natural Farming input made by fermenting fresh plant
 material with sugar to capture specific nutrients and growth hormones from
 locally adapted plants. Compost tea is a Soil Food Web approach that extracts
-and multiplies the full microbial community from finished compost. Choosing
+and multiplies the full [[edaphic-factors-microbial-community-structure]] from finished compost. Choosing
 between them depends on whether you need targeted nutrient delivery with minimal
 equipment or broad microbial inoculation with proven soil restoration capacity.
 
@@ -76,8 +76,8 @@ FPE is ideal for growers following Korean Natural Farming or seeking
 low-cost, low-tech inputs that target specific crop needs. When a crop shows
 deficiency symptoms, selecting the right FPE from a specific plant can address
 the shortfall precisely. FPE is also excellent for small-scale growers who
-cannot invest in brewing equipment, and for those who want to leverage locally
-abundant wild plants as fertilizer sources. The long shelf life and simplicity
+cannot invest in [[compost-tea-brewing-equipment-ingham]], and for those who want to leverage locally
+abundant wild plants as [[natural-fertilizer-sources-and-application]]. The long shelf life and simplicity
 make it practical for anyone, regardless of scale. Backpack sprayers can apply
 FPJ over large areas with minimal effort. See [[knf-input-application-timing]] for scheduling guidance.
 
@@ -85,7 +85,7 @@ FPJ over large areas with minimal effort. See [[knf-input-application-timing]] f
 Compost tea is the better choice when the goal is rapid soil biology
 restoration or establishing a diverse microbial community in depleted soils. It
 provides the broadest spectrum of organisms and is particularly effective for
-foliar disease suppression when sprayed directly onto leaf surfaces at sunset.
+foliar [[aact-disease-suppression-mechanisms-ingham]] when sprayed directly onto leaf surfaces at sunset.
 Commercial growers, orchardists, and anyone with an existing high-quality
 compost supply will get the most from AACT brewing. It is also the preferred
 approach for remediation projects where introducing a complete soil food web is
@@ -99,7 +99,7 @@ while compost tea establishes and maintains the underlying microbial community.
 Some practitioners add a small amount of FPJ to compost tea as an additional
 food source during brewing, combining the plant-derived nutrients and enzymes
 with the microbial multiplication of AACT. In KNF systems, FPE is one of many
-inputs that work alongside IMO (Indigenous Microorganism) solutions that
+inputs that work alongside IMO ([[knf-indigenous-microorganism-culture]]) solutions that
 function similarly to compost tea in introducing local microbial communities. A
 complete program might use compost tea for initial soil biology restoration,
 then maintain it with regular FPE applications for crop-specific nutrition.

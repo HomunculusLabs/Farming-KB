@@ -1,5 +1,5 @@
 ---
-title: Inocybe Aeruginascens Distribution and Psychoactivity
+title: gartz inocybe aeruginascens distribution and psychoactivity Distribution and Psychoactivity
 created: 2026-04-28
 tags: [Inocybe-aeruginascens, fibrehead-mushrooms, psilocybin, baeocystin,
       aeruginascin, mycorrhizal, accidental-intoxication, Berlin, Hungary,
@@ -11,7 +11,7 @@ type: concept
 ---
 
 # [[inocybe-aeruginascens]] is a mycorrhizal mushroom species that emerged as a
-notable psychoactive mushroom in Europe during the 1980s. Unlike other
+notable [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] in Europe during the 1980s. Unlike other
 psilocybin-containing species, Inocybe aeruginascens requires a symbiosis with
 certain types of trees in order to fruit. Its discovery and expansion across
 Central Europe represents one of the most fascinating chapters in European
@@ -19,7 +19,7 @@ mycological history.
 
 ## Discovery and Classification
 
-On June 15, 1965, I. Ferencz discovered fruiting bodies in Osca, Hungary,
+On June 15, 1965, I. Ferencz discovered [[gasteromycete-fruiting-bodies]] in Osca, Hungary,
 county of Pest. The mushrooms did not match any known Inocybe species, and
 were eventually described in 1968 as Inocybe aeruginascens Babos. The species
 belongs to a large group nicknamed "LBMs" (Little Brown Mushrooms) that often
@@ -44,14 +44,14 @@ of further expansion.
 
 ## Unique Urban Habitat
 
-The most marked difference between Inocybe aeruginascens and other European
+The most marked difference between [[inocybe-aeruginascens-and-neurotropic-inocybe-species]] other European
 psychoactive mushroom species is its habitat: Inocybe aeruginascens grows only
 in areas of human development. Prime locations are in the middle of villages
 and towns, where they grow near roots of different deciduous trees (Populus,
 Tilia, Quercus, Betula), on lawns in parks and gardens, at edges of trails,
 and even on bare sandy soil.
 
-They may temporarily produce mass quantities of fruiting bodies in locations
+They may temporarily produce mass quantities [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] in locations
 typical for fairy ring mushrooms ([[fungal-hyphae]]
 intertwine with tree roots, exchanging minerals and water for carbohydrates
 produced by photosynthesis. This biological dependency limits the species to
@@ -75,7 +75,7 @@ that contain muscarine.
 
 ## Research Significance
 
-The discovery of aeruginascin opened new avenues in psychedelic research.
+The discovery of aeruginascin opened new avenues in [[mckenna-suppression-psychedelic-research-lsd-therapy]].
 Its structural similarity to psilocybin and baeocystin suggests a distinct
 pharmacological profile. Consistent alkaloid levels across Hungarian and
 German specimens over a 23-year period (1967 to 1990) indicate stable

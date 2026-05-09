@@ -14,7 +14,7 @@ Cannabis demonstrates antitussive (cough-suppressing) and bronchodilating proper
 
 ## Understanding Cough
 
-Cough is a sudden, involuntary reflex designed to clear the upper airways of mucus, phlegm, microbes, irritants, or foreign bodies. Differentiations include onset, duration, and type (dry, productive, chronic, or psychogenic/tic cough). The most common cause of sudden-onset cough is viral infection, for which antibiotics and antihistamines are useless. No cure exists within orthodox medicine; opiates have been the most effective antitussives for the past 200 years, with common adverse effects and addiction risk.
+Cough is a sudden, involuntary reflex designed to clear the upper airways of mucus, phlegm, microbes, irritants, or foreign bodies. Differentiations include onset, duration, and type (dry, productive, chronic, or psychogenic/tic cough). The most common cause of sudden-onset cough is viral infection, for which antibiotics and antihistamines are useless. No cure exists within orthodox medicine; opiates have been the most effective antitussives for the past 200 years, with common [[blesching-cannabis-safety-adverse-effects-evidence]] and addiction risk.
 
 Treatment may be warranted when complications include severe pain, cough-induced insomnia, fainting, vomiting, incontinence, hernias, or rib cage tissue damage.
 
@@ -26,7 +26,7 @@ The anti-inflammatory, antispasmodic, and bronchodilating properties of cannabis
 Cannabinoid receptors exist in the airways and are functionally linked to inhibition of cough. The U.S. government (via UC Berkeley, 2006) holds a patent stating that locally-acting cannabinoid agents can be administered to airways to ameliorate cough without causing psychoactive effects. The patent also states that cannabinoid inactivation inhibitors can be used to ameliorate cough.
 
 ### THC as Antitussive
-THC (but not CBD or CBN) demonstrated cough-suppressing capacity similar to codeine-PO4 in anesthetized cats (1976, Wallace Laboratories). Intravenous THC is antitussive in animal experiments but has not been tested in humans.
+THC (but not CBD or CBN) demonstrated cough-suppressing capacity similar to codeine-PO4 in anesthetized cats (1976, Wallace Laboratories). Intravenous THC is antitussive in [[hofmann-lsd-animal-experiments-toxicity]] but has not been tested in humans.
 
 ### Bronchodilation
 - Smoking cannabis produces immediate bronchodilation (UC Berkeley + U.S. government, 2006)
@@ -71,7 +71,7 @@ underlying mechanisms and their practical applications.
 
 ## Source
 
-Blesching, U. (2015). *The Cannabis Health Index*. Chapter IV: "Cough." North Atlantic Books.
+Blesching, U. (2015). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. Chapter IV: "Cough." North Atlantic Books.
 
 ## Related
 
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

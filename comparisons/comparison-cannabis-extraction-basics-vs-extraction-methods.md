@@ -39,7 +39,7 @@ hash oil (BHO) extraction, each with distinct advantages, limitations, [[cannabi
 
 Extraction methods provides a comprehensive survey of every major technique for separating
 [[turner-brief-history-psychedelics-ancient-to-modern]]
-chemical processing. The mechanical methods covered include kief collection through dry
+chemical processing. The mechanical methods covered include [[comparison-cannabis-kief-collection-vs-hashish-guide]] through dry
 sieving, hand-rubbed charas production from living plants, and ice water or bubble hash
 extraction using cold water agitation and micron-screen filters. These solventless
 techniques are the oldest forms of cannabis concentration, relying purely on physical
@@ -48,8 +48,8 @@ seeking natural, chemical-free concentrates and among producers in jurisdictions
 solvent use is restricted.
 
 The solvent-based methods covered in extraction methods are far more extensive than those
-in the basics guide. The Cannabis Alchemy protocol describes complete chemical extraction
-workflows including reflux extraction using methanol, isopropanol, ethanol, or petroleum
+in the basics guide. The [[lemon-cannabis-alchemy-advanced-refinement-techniques]] protocol describes complete chemical extraction
+workflows including [[cannabis-reflux-extraction-apparatus]] using methanol, isopropanol, ethanol, or petroleum
 ether, Soxhlet washing for continuous extraction of large batches, careful solvent removal
 through evaporation or rotary evaporation, and purification steps to isolate specific
 cannabinoid fractions. Each solvent is evaluated for extraction efficiency, selectivity,
@@ -58,7 +58,7 @@ point, extract potency, typical yield, and toxicity considerations, allowing pro
 make informed decisions about which solvent best suits their needs.
 
 Beyond individual techniques, the guide places each approach in historical context, tracing
-the evolution from hand-rubbed charas traditions through dry sift techniques to modern
+the evolution from hand-rubbed charas traditions through [[green-cannabis-dry-sift-water-extraction]] techniques to modern
 laboratory processes. This perspective helps producers understand why certain methods
 developed in specific regions and how traditional knowledge informs contemporary science.
 The guide also addresses scaling from personal to commercial production, including

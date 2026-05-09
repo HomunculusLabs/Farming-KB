@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Sárbu I et al. (2013). "Phytochemical and pharmacological studies on Dictamnus albus." Pharmaceutical Biology, 51(12), 1503-1510.
   - Gonzalez JV et al. (2012). "Chemical composition and biological activity of Dictamnus albus essential oil." Journal of Ethnopharmacology, 144(2), 461-466.
-  - Duke JA (2002). Handbook of Medicinal Herbs. 2nd ed. CRC Press.
+  - Duke JA (2002). Handbook of [[permaculture-plants-medicinal-herbs-healing]]. 2nd ed. CRC Press.
   - Tsesmetzis N et al. (2016). "Furanocoumarins from Dictamnus albus." Phytochemistry Reviews, 15(6), 993-1010.
   - Frohne D, Pfänder HJ (2005). Poisonous Plants. 2nd ed. Timber Press.
 ---
@@ -21,7 +21,7 @@ sources:
 
 **Dictamnus albus**, commonly known as the burning bush, dittany, or gas plant, is a perennial herbaceous plant in the family Rutaceae. It is native to warm, open woodlands and rocky hillsides across southern and central Europe, extending into western Asia.
 
-The species derives its common name "burning bush" from a striking natural phenomenon: on hot, still days, the plant's volatile essential oils can be ignited by a match held near the flower spikes, producing a brief but visible flame without damaging the plant tissue.
+The species derives its common name "burning bush" from a striking natural phenomenon: on hot, still days, the plant's volatile [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] can be ignited by a match held near the flower spikes, producing a brief but visible flame without damaging the plant tissue.
 
 In European folk medicine, D. albus has been used for centuries to treat skin diseases, digestive disorders, and gynecological complaints. Modern phytochemical studies have identified furanocoumarins, limonoids, and various alkaloids as the principal bioactive constituents responsible for its pharmacological activity.
 
@@ -53,11 +53,11 @@ The essential oil of D. albus contains over 60 identified compounds, with limone
 
 Furanocoumarins represent the most pharmacologically significant compound class. Psoralen, bergapten, xanthotoxin, and imperatorin have been isolated from both aerial parts and roots. These compounds are responsible for the plant's phototoxic properties and contribute to its antimicrobial and anti-inflammatory effects.
 
-Limonoids, including dictamnol and limonin derivatives, have been identified as characteristic secondary metabolites of the genus. Alkaloids such as dictamnine and skimmianine are present in the root bark and contribute to the species' traditional use as an antispasmodic.
+Limonoids, including dictamnol and limonin derivatives, have been identified as characteristic [[antifungal-secondary-metabolites-coprophilous-fungi]] of the genus. Alkaloids such as dictamnine and skimmianine are present in the root bark and contribute to the species' traditional use as an antispasmodic.
 
 The phototoxic furanocoumarins, particularly psoralen and bergapten, can cause severe phytophotodermatitis upon skin contact followed by UV exposure. This property is shared with other Rutaceae species and necessitates careful handling of the fresh plant material.
 
-Antimicrobial screening has demonstrated activity against Staphylococcus aureus, Escherichia coli, and Candida albicans, with furanocoumarin-rich extracts showing the strongest inhibition. Anti-inflammatory activity has been confirmed in carrageenan-induced paw edema models in rodents.
+Antimicrobial screening has demonstrated activity against Staphylococcus aureus, Escherichia coli, and [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], with furanocoumarin-rich extracts showing the strongest inhibition. Anti-inflammatory activity has been confirmed in carrageenan-induced paw edema models in rodents.
 
 ## Traditional Medicine and Folklore
 
@@ -65,7 +65,7 @@ D. albus occupies a prominent position in European ethnobotanical traditions. In
 
 During the medieval period, the burning bush was regarded as a powerful protective herb. Folk traditions attributed the ability to ward off evil spirits and witchcraft to the plant, and it was hung above doorways or burned as fumigant in folk rituals across central Europe.
 
-In Central European folk medicine, preparations of the root and aerial parts were used externally for skin eruptions, wounds, and fungal infections, and internally as a diuretic and emmenagogue. These uses are broadly consistent with the antimicrobial and anti-inflammatory properties of the furanocoumarin constituents.
+In Central European folk medicine, preparations of the root and aerial parts were used externally for skin eruptions, wounds, and [[blesching-cannabis-fungal-infections-candida]], and internally as a diuretic and emmenagogue. These uses are broadly consistent with the antimicrobial and anti-inflammatory properties of the furanocoumarin constituents.
 
 The spectacular flammability of the essential oil-laden flower spikes contributed to the plant's mythological associations. Medieval bestiaries and herbals sometimes linked D. albus to the biblical burning bush, though this identification is botanically incorrect.
 
@@ -95,7 +95,7 @@ Anti-tumor activity of dictamnine and related alkaloids has been demonstrated in
 
 Antiplatelet and anticoagulant effects have been observed for ethanol extracts of the root bark in animal models. These findings support some traditional cardiovascular applications but require further clinical validation before therapeutic recommendations can be made.
 
-Neuroprotective effects of limonoid derivatives isolated from D. albus have been investigated in models of oxidative stress-induced neuronal damage. Preliminary results suggest potential applications in neurodegenerative disease prevention, though this research remains at an early preclinical stage.
+Neuroprotective effects of limonoid derivatives isolated from D. albus have been investigated in models of oxidative stress-induced neuronal damage. Preliminary results suggest potential applications in neurodegenerative [[cervantes-pest-disease-prevention-overview]], though this research remains at an early preclinical stage.
 
 Antioxidant capacity of D. albus extracts, measured by DPPH and ABTS radical scavenging assays, correlates with total phenolic and flavonoid content. Methanolic root extracts show the strongest activity, consistent with the high concentration of phenolic limonoids in the root bark.
 

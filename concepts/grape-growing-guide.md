@@ -1,15 +1,16 @@
 ---
-title: Grape Growing Guide
+title: Grape comparison-bean-growing-guide-vs-pepper-growing-guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cultivation, pruning, fruit-tree, orchard, pest-control, harvesting]
-sources: []
+sources:
+  sources: []
 ---
 
 ## Overview
 
-Grapes are long-lived perennial vines that can produce fruit for 50+ years with proper care. They are versatile — grown for fresh eating (table grapes), winemaking, juice, raisins, and ornamental landscaping. This guide covers vine training systems, pruning methods, variety selection, disease management, and harvest.
+Grapes are long-lived perennial vines that can produce fruit for 50+ years with proper care. They are versatile — grown for fresh eating (table grapes), winemaking, juice, raisins, and ornamental landscaping. This guide covers vine training systems, pruning methods, variety selection, [[plant-disease-management-solomon]], and harvest.
 
 ## Vine Training Systems
 
@@ -21,7 +22,7 @@ Training establishes the permanent structure of the grapevine — the framework 
 - Lower wire at 3 feet, upper wire at 5-6 feet
 - Four fruiting canes are retained each year, one per arm
 - Simple to understand and maintain
-- Works well for American and hybrid varieties
+- Works well for American and [[cervantes-hybrid-varieties-types]]
 - Posts set 8-10 feet apart with wires stretched between them
 
 ### High Cordon (Bilateral Cordon)
@@ -43,7 +44,7 @@ Training establishes the permanent structure of the grapevine — the framework 
 - Trunk with permanent cordon on a wire at 3-4 feet
 - Shoots are trained upward through movable catch wires
 - Creates a vertical curtain of foliage
-- Excellent light exposure and air circulation
+- Excellent light exposure and [[stamets-growing-room-air-circulation-co2-management]]
 - Requires more maintenance but produces premium fruit quality
 - Best for Vitis vinifera and quality wine production
 
@@ -99,7 +100,7 @@ Proper pruning is the single most important factor in grape quality and producti
 - **Pinot Noir**: Thin-skinned red; needs cool climate, disease-prone
 - **Chardonnay**: White; widely adaptable
 - **Riesling**: White; needs cool climate for best quality
-- **Norton (Cynthiana)**: Native American red wine grape; disease-resistant, excellent wine
+- **Norton (Cynthiana)**: [[halpern-sacramental-peyote-and-native-american-church]] red wine grape; disease-resistant, excellent wine
 - **Marquette**: Cold-hardy hybrid (zone 3); excellent wine quality
 - **Frontenac**: Cold-hardy hybrid (zone 3); robust red wine
 
@@ -131,7 +132,7 @@ Grapes are susceptible to several fungal diseases, especially in humid climates.
 
 ### Black Rot
 - Small reddish-brown spots on berries that expand and shrivel into black mummies
-- Very common in eastern North America
+- Very common in [[polypore-fungi-eastern-north-america]] America
 - Sanitation critical: remove mummified berries from the vine and ground
 - Organic controls: copper sprays, sulfur, lime-sulfur
 - Resistant varieties available
@@ -141,38 +142,6 @@ Grapes are susceptible to several fungal diseases, especially in humid climates.
 - More problematic on tight-clustered varieties
 - Improve air circulation, thin clusters, remove leaves around fruit
 - Can be beneficial in dry conditions (noble rot in wine grapes)
-
-### Pierce's Disease
-- Bacterial disease fatal to European (vinifera) grapes
-- Spread by sharpshooter insects
-- Primarily a problem in the southeastern US and California
-- No cure; plant resistant varieties in affected areas
-- American and Muscadine grapes are resistant
-
-### Integrated Management
-1. Choose disease-resistant varieties suited to your climate
-2. Prune annually for good air circulation
-3. Remove fallen leaves and mummified fruit in autumn
-4. Apply preventive sprays in humid climates; avoid overhead irrigation
-
-## Harvesting
-
-### When to Harvest
-- Taste is the best indicator — sample berries regularly as they approach ripeness
-- Table grapes: 16-22% sugar (Brix), good flavor balance
-- Wine grapes: specific Brix depends on variety and wine style
-- Color change alone is not sufficient — some varieties color up before they are sweet
-- Seeds turn brown at full ripeness (seeded varieties)
-- Stems at the cluster base turn from green to brown
-
-### How to Harvest
-- Cut clusters from the vine with shears or a knife
-- Handle gently; harvest in morning after dew dries
-- Pick during dry weather; discard damaged berries
-
-### Yield Expectations
-- Table grapes: 15-30 lbs/vine; Wine grapes: 8-15 lbs/vine
-- Significant production by year 3-4; full production by year 5-6
 
 ## See Also
 

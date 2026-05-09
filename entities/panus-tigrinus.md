@@ -25,7 +25,7 @@ created: 2026-04-28
 
 The species is of commercial interest as an edible mushroom cultivated on lignocellulosic agricultural wastes. It produces robust fruiting bodies with a firm texture suitable for cooking.
 
-P. tigrinus has also been investigated for bioremediation potential, particularly its ability to degrade polycyclic aromatic hydrocarbons (PAHs) and dye-containing effluents from textile industries.
+P. tigrinus has also been investigated for bioremediation potential, particularly its ability to degrade [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) and dye-containing effluents from textile industries.
 
 ## Taxonomy and Morphology
 
@@ -61,7 +61,7 @@ P. tigrinus is cultivated commercially in parts of Southeast Asia, particularly 
 
 **Parameters:** Optimal temperature for mycelial growth is 25–30°C, with fruiting triggered by temperature drops to 18–24°C. Relative humidity of 85–95% is required during fruiting. Light is necessary for normal cap development.
 
-**Biological efficiency** on supplemented sawdust ranges from 30–60%, depending on substrate quality and environmental conditions. First flush typically appears 20–30 days after spawning.
+**[[stamets-biological-efficiency-yield]]** on [[oyster-mushroom-supplemented-sawdust-blocks]] ranges from 30–60%, depending on substrate quality and environmental conditions. First flush typically appears 20–30 days after spawning.
 
 The species is relatively resistant to contamination compared to other cultivated mushrooms, making it accessible to small-scale growers. Its rapid colonization speed helps it outcompete competitor molds.
 
@@ -77,11 +77,11 @@ No cases of toxicity have been reported, but as with all wild mushrooms, correct
 
 ## Ecological Role
 
-As a white-rot decomposer, P. tigrinus secretes lignin-modifying enzymes including laccase, manganese peroxidase, and lignin peroxidase. These enzymes break down the lignin component of wood, recycling nutrients back into forest ecosystems.
+As a white-rot decomposer, P. tigrinus secretes lignin-modifying enzymes including laccase, [[fungal-manganese-peroxidase-remediation]], and lignin peroxidase. These enzymes break down the lignin component of wood, recycling nutrients back into forest ecosystems.
 
 The species has demonstrated significant potential for **mycoremediation** of contaminated environments. Laboratory studies show it can degrade polycyclic aromatic hydrocarbons (PAHs) including naphthalene, phenanthrene, and pyrene.
 
-Its laccase enzymes are also effective at decolorizing synthetic dyes used in textile manufacturing, suggesting applications in industrial wastewater treatment. Enzyme production peaks during the active growth phase and can be induced by adding aromatic compounds to the culture medium.
+Its [[singh-fungal-laccase-enzymes-bioremediation]] are also effective at decolorizing synthetic dyes used in textile manufacturing, suggesting applications in [[fungal-industrial-wastewater-treatment]] treatment. Enzyme production peaks during the active growth phase and can be induced by adding aromatic compounds to the culture medium.
 
 P. tigrinus contributes to nutrient cycling in riparian ecosystems where it commonly fruits on submerged or partially submerged woody debris along waterways.
 
@@ -108,6 +108,9 @@ Antimicrobial activity has been observed against Gram-positive bacteria includin
 The genus *Panus* was historically merged with *Lentinus* but molecular phylogenetic analyses using ITS and LSU rDNA regions support them as distinct genera within Polyporaceae.
 
 ## See Also
+
+- [[lentinus-tigrinus]]
+- [[panus-conchatus]]
 
 - [[pleurotus-ostreatus]]
 - [[trametes-versicolor-entity]]

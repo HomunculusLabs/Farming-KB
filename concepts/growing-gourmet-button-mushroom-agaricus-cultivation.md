@@ -1,5 +1,5 @@
 ---
-title: Button Mushroom (Agaricus brunnescens and A. bitorquis) Overview
+title: growing gourmet button mushroom agaricus cultivation (Agaricus brunnescens and A. bitorquis) Overview
 created: 2026-04-26
 tags:
   - mycology
@@ -23,7 +23,7 @@ cultivated mushroom in the world. Its cultivation in caves near Paris
 dates back to at least 1868. As a secondary decomposer, the Button
 Mushroom occupies a unique ecological niche: it grows on substrates
 that have already been partially broken down by other microorganisms.
-Unlike primary decomposers such as Oyster mushrooms and Shiitake that
+Unlike primary decomposers such as [[query-how-to-grow-oyster-mushrooms-at-home]] and Shiitake that
 secrete enzymes to break down lignin-cellulose, the Button Mushroom
 thrives on material that has been pre-digested by microbial communities.
 
@@ -64,7 +64,7 @@ microorganisms have completed their life cycles, the compost is ready
 for the Button Mushroom.
 
 This two-stage decomposition model is fundamental to understanding
-why the Button Mushroom requires such specialized cultivation methods
+why the Button Mushroom requires such specialized [[synthetic-log-cultivation-methods-guide]]
 compared to primary decomposers. The compost must provide:
 - A specific nutritional profile with available nitrogen
 - The correct structure and moisture-holding capacity
@@ -89,14 +89,14 @@ casing soils for fruitbody formation. The casing layer provides:
 - Minerals and salts necessary for mushroom metabolism
 - Protection from humidity fluctuations
 
-Without the microbial community present in casing soils, these species
+Without the [[edaphic-factors-microbial-community-structure]] present in casing soils, these species
 will not form primordia even under otherwise ideal conditions. This
-is in contrast to many gourmet mushrooms that can fruit without
+is in contrast to many [[growing-gourmet-mushrooms-civilization-history]] that can fruit without
 casing, such as most Oyster species, Shiitake, and Lion's Mane.
 
 ## Pest Vulnerability
 
-One significant challenge in Button Mushroom cultivation is the
+One significant challenge in Button [[accessible-mushroom-cultivation-for-disabilities]] is the
 economic devastation caused by nematodes. Unlike Oyster mushrooms,
 which exude metabolites toxic to nematodes and can become predatory
 toward them, Button Mushrooms have no such defense. Nematode

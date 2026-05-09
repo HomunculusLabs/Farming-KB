@@ -1,5 +1,5 @@
 ---
-title: Natural Fertilizer Sources and Application Guide
+title: Natural natural fertilizer sources and application and Application Guide
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -43,10 +43,10 @@ Fast-acting nitrogen sources like blood meal and fish emulsion are useful for qu
 
 | Source | Notes |
 |--------|-------|
-| Calcitic limestone | CaCO3; raises pH ~1 point per growing season; apply in autumn |
+| Calcitic limestone | CaCO3; raises pH ~1 point per [[savory-growing-season-and-non-growing-season-management]]; apply in autumn |
 | Dolomitic limestone | CaMg(CO3)2; also provides ~10% magnesium; can bind soils if over-applied |
 
-Calcium is a structural nutrient essential for cell wall integrity. Blossom end rot in tomatoes and peppers is a classic calcium deficiency symptom, but it often reflects poor calcium transport rather than actual soil deficiency. Consistent watering and adequate [[teaming-with-nutrients-micronutrients-and-trace-elements]] that are often deficient in intensively managed gardens. The natural plant hormones in kelp (cytokinins, auxins, gibberellins) can also stimulate root growth and stress resistance.
+Calcium is a structural nutrient essential for cell wall integrity. Blossom end rot in tomatoes and peppers is a classic [[knf-calcium-deficiency-symptoms]] symptom, but it often reflects poor calcium transport rather than actual soil deficiency. Consistent watering and adequate [[teaming-with-nutrients-micronutrients-and-trace-elements]] that are often deficient in intensively managed gardens. The natural plant hormones in kelp (cytokinins, auxins, gibberellins) can also stimulate root [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]] resistance.
 
 ## Green Manures and Cover Crops
 
@@ -55,7 +55,7 @@ Growing fertilizer in place is one of the most efficient and economical approach
 - **Legumes** (clover, vetch, peas, beans): Fix atmospheric nitrogen through Rhizobia symbiosis
 - **Grasses** (rye, oats, buckwheat): Produce abundant biomass that adds organic matter when incorporated
 - **Buckwheat**: Mines phosphorus from subsoil and brings it to the surface
-- **Comfrey**: Deep-rooted dynamic accumulator; leaves contain high potassium for mulching
+- **Comfrey**: Deep-rooted [[nutrient-dynamic-accumulator-reference]]; leaves contain high potassium for mulching
 
 Green manures feed soil biology, prevent erosion, suppress weeds, and improve soil structure. [[compost-building-guide]] covers the full process of making high-quality compost. Well-made compost from diverse ingredients provides a more balanced nutrient profile than any single-source fertilizer.
 
@@ -64,7 +64,7 @@ Green manures feed soil biology, prevent erosion, suppress weeds, and improve so
 1. **Broadcasting:** Spread evenly over soil surface, then work in
 2. **Banding:** Place fertilizer in a band below the root zone — especially useful for phosphorus and potassium
 3. **Side dressing:** Apply alongside established plants during growing season
-4. **Foliar spraying:** Liquid fertilizers (fish emulsion, kelp) can be sprayed on leaves for rapid absorption
+4. **Foliar spraying:** [[solomon-liquid-fertilizers-and-foliar-feeding]] (fish emulsion, kelp) can be sprayed on leaves for rapid absorption
 5. **Top-dressing mulch:** Layer nutrient-rich materials on the soil surface; worms and microbes pull nutrients down
 
 ### Timing Applications
@@ -79,6 +79,8 @@ Green manures feed soil biology, prevent erosion, suppress weeds, and improve so
 Perennials, trees, and shrubs in natural systems with the Law of Return operating usually don't need much fertilizer. Exceptions: at planting time, after heavy pruning, or when fruit is removed (preventing nutrient return to soil).
 
 ## See Also
+
+- falconer-manure-water-and-fertilizer-application
 
 - [[biofertilizers-and-soil-inoculants]]
 - [[nutrient-cycling-in-soil]]

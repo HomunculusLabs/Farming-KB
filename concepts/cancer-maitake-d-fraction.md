@@ -3,7 +3,7 @@ title: Maitake D-Fraction Cancer Research
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - Smith, Rowan and Sullivan (2002). Medicinal Mushrooms: Their therapeutic properties and current medical usage with special emphasis on cancer treatments. University of Strathclyde.
+  - Smith, Rowan and Sullivan (2002). comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive: Their therapeutic properties and current medical usage with special emphasis on cancer treatments. University of Strathclyde.
   - Jones, K. (1998). Maitake: a potent medicinal food. Alternative Comparative Therapy Dec. 420-429.
   - Nanba, H. (1997a). Maitake D-fraction: healing and preventive potential for cancer. Journal of Orthomolecular Medicine 12, 43-49.
   - Fullerton, S.A. et al. (2000). Induction of apoptosis in human prostate cancer cells with beta-glucan (Maitake mushroom polysaccharide). Molecular Urology 4, 7-13.
@@ -38,7 +38,7 @@ A (1-3)-beta-glucan from G. frondosa, similar to Schizophyllan in primary struct
 Grifolan activates macrophages and increases cytokine production (IL-1, IL-6, TNF-alpha). GD has considerable immunomodulating and antitumour activities in animal models. Unlike Lentinan and Schizophyllan (which require intravenous or intraperitoneal administration), Maitake D-Fraction is orally bioavailable.
 
 ### Direct Cytotoxicity and Apoptosis
-GD has cytotoxic effects on human prostate cancer cells (PC9) in vitro, acting through oxidative stress to cause 95% cell death by apoptosis. Vitamin C addition reduces the effective GD concentration required. GD may act through inactivation of glyoxalase I, a vital detoxifying enzyme.
+GD has cytotoxic effects on human prostate cancer cells (PC9) in vitro, acting through [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] to cause 95% cell death by apoptosis. Vitamin C addition reduces the effective GD concentration required. GD may act through inactivation of glyoxalase I, a vital detoxifying enzyme.
 
 ### Chemosensitisation
 Simultaneous use with various anticancer drugs showed potentiation primarily with the carmustine/GD combination (90% reduction in cell viability). This chemosensitising effect may improve the efficacy of ongoing clinical chemotherapy.
@@ -50,7 +50,7 @@ Maitake D-Fraction and crude Maitake powder demonstrated remarkable inhibition o
 - Hepatic metastases reduced by 81% (crude powder) to 91% (D-Fraction) in one series of experiments
 
 ### Antitumour Activity
-Beta-D-glucan and glycoprotein complexes derived from Maitake showed strong antitumour activity in xenograft models. Grifron-D activates host immune responses that produce tumour regression and prevent metastasis.
+Beta-D-glucan and glycoprotein complexes derived from Maitake showed strong antitumour activity in xenograft models. Grifron-D activates [[fungal-virulence-factors-host-immune-evasion]] responses that produce tumour regression and prevent metastasis.
 
 ## Clinical Trials
 

@@ -1,5 +1,5 @@
 ---
-title: JADAM Natural vs Chemical Pesticide Distinction
+title: JADAM jadam natural vs chemical pesticide Pesticide Distinction
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-Youngsang Cho offers a nuanced view on what makes a pesticide "natural" versus "chemical." Rather than relying on moral superiority, he provides a practical, scientific criterion: the distinction lies in whether the substance is decomposed by microorganisms. JADAM does not claim moral superiority for studying natural pesticides -- "whether natural or chemical, pesticides kill nevertheless." Cho believes the goal should be to find methods to use less pesticide and repel rather than kill.
+Youngsang Cho offers a nuanced view on what makes a pesticide "natural" versus "chemical." Rather than relying on moral superiority, he provides a practical, scientific criterion: the distinction lies in whether the substance is decomposed by microorganisms. JADAM does not claim moral superiority for studying [[jadam-pest-control-with-natural-pesticides-jhs]] -- "whether natural or chemical, pesticides kill nevertheless." Cho believes the goal should be to find methods to use less pesticide and repel rather than kill.
 
 ## The Biodegradability Criterion
 
@@ -23,7 +23,7 @@ This philosophical point has practical implications. The distinction is not abou
 
 ## Synthetic Surfactant Problem
 
-Synthetic surfactants contained in chemical pesticides do not break down over 80% in nature. They are also used in detergents, shampoo, and cosmetics. When released to the environment, they cut off sunlight, block oxygen, and kill many creatures in water. They are related to algal bloom, accumulate in the human body, and cause cancer, asthma, atopy, and other chronic diseases.
+Synthetic surfactants contained in chemical pesticides do not [[query-can-fungi-break-down-plastic-pollution]] over 80% in nature. They are also used in detergents, shampoo, and cosmetics. When released to the environment, they cut off sunlight, block oxygen, and kill many creatures in water. They are related to algal bloom, accumulate in the human body, and cause cancer, asthma, atopy, and other chronic diseases.
 
 There is a lack of research into surfactant effects in soil, but considering they are sprayed approximately 100 times in 10 years, the damage will not be small. Natural soap, by contrast, was shown to biodegrade 99.9% in just 5 days.
 
@@ -49,7 +49,7 @@ JADAM is using these safe 4B materials to develop pesticides that minimize the d
 
 ## Patent-Free Philosophy
 
-Cho explicitly chose not to patent his knowledge: "If I had patented JADAM sulfur or wetting agent and used the right solely to seek profit, I might have earned large money. I chose not to do so because it is my belief that agricultural knowledge is something of a public asset shared by humanity."
+Cho explicitly chose not to patent his knowledge: "If I had patented [[ultra-low-jadam-sulfur-js]] or [[jadam-nutrient-management-wetting-agent-and-calcium]] and used the right solely to seek profit, I might have earned large money. I chose not to do so because it is my belief that agricultural knowledge is something of a public asset shared by humanity."
 
 The energy sustaining him comes from the teachings of Jesus Christ and Karl Marx. "Everything JADAM has, JADAM opens." Once knowledge is publicly shared, it cannot be patented -- that is the basic of patent law. Now JADAM's knowledge belongs to humanity.
 
@@ -63,7 +63,7 @@ This philosophy of gradual, non-violent transformation through demonstrated resu
 
 - [[jadam-wetting-agent-jwa]] -- the natural surfactant made from plant oil
 - [[jadam-patent-free-revolution]] -- the open-source philosophy
-- Organic Farming Methods Comparison -- JADAM's complete farming system
+- [[coleman-deep-organic-farming-philosophy]] Methods Comparison -- JADAM's complete farming system
 - [[jadam-making-organic-farming-inputs]]
 - [[fukuoka-organic-versus-natural-farming]]
 ## Practical Considerations
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

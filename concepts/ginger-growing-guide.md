@@ -1,10 +1,11 @@
 ---
-title: Ginger Growing Guide
+title: Ginger comparison-bean-growing-guide-vs-pepper-growing-guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, ethnobotany]
-sources: []
+sources:
+  sources: []
 ---
 
 # Ginger Growing Guide (Zingiber officinale)
@@ -26,7 +27,7 @@ high tunnels with proper management.
 - Hardiness: USDA zones 9-12 (grown as an annual or container plant elsewhere)
 - Lifecycle: Perennial in tropics; annual in temperate climates
 - Height: 2-4 feet
-- Growing season: 8-10 months for mature rhizome production
+- [[savory-growing-season-and-non-growing-season-management]]: 8-10 months for mature rhizome production
 
 Ginger produces reed-like stems with narrow, lance-shaped leaves. The edible
 portion is the underground rhizome -- a knobby, branched structure with
@@ -35,14 +36,14 @@ separate stalks directly from the rhizome but are rare in cultivation.
 
 ## Medicinal Uses
 
-Ginger contains over 100 bioactive compounds, the most important being
+Ginger contains over 100 [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]], the most important being
 gingerols, shogaols, paradols, and zingerone. These compounds provide
 anti-inflammatory, anti-nausea, antiemetic, and digestive benefits.
 
 Key medicinal applications:
 
 - Nausea and vomiting: The most well-established use. Clinical evidence
-  supports ginger for morning sickness (pregnancy nausea), motion sickness,
+  supports ginger for [[cho-morning-sickness-and-plant-cross-over-period]] (pregnancy nausea), motion sickness,
   postoperative nausea, and chemotherapy-induced nausea. Generally
   considered safe during pregnancy at normal culinary doses.
 - Digestive support: Stimulates digestive enzymes and bile flow, relieves
@@ -115,11 +116,11 @@ From rhizomes (primary method):
 ### Care
 - Keep soil consistently moist but not waterlogged
 - Fertilize every 4-6 weeks with compost tea, fish emulsion, or balanced
-  organic fertilizer
+  [[complete-organic-fertilizer-cof-recipe-solomon]]
 - Foliar feed monthly during active growth
 - Ginger is relatively pest-free; watch for rhizome rot in poorly drained
   soils
-- Nematodes can be a problem in tropical soils; use clean planting stock
+- Nematodes can be a problem in [[mollison-designers-tropical-soils-and-cation-exchange-management]]; use clean planting stock
   and practice crop rotation
 
 ## Greenhouse and Container Growing
@@ -141,44 +142,6 @@ winter. Move outdoors to a sheltered, partially shaded location after frost
 danger passes. Harvest before first frost.
 
 ## Harvesting
-
-For fresh ginger:
-- "Green ginger" or baby ginger can be harvested 4-5 months after planting
-- At this stage, the skin is tender and does not need peeling
-- Simply dig around the plant and cut off desired pieces; the plant will
-  continue growing
-
-For mature ginger:
-- Harvest when foliage begins to yellow and die back (8-10 months)
-- Dig up the entire root mass with a garden fork
-- Cure rhizomes in a warm, dry location for 1-2 weeks
-- Save healthy rhizomes with good buds for next year's planting
-
-## Processing and Storage
-
-Fresh storage:
-- Uncut, unpeeled ginger stores in the refrigerator for 2-3 weeks
-- Wrap in paper towels to absorb moisture
-- For longer storage, freeze whole or sliced ginger (grate directly from
-  frozen)
-
-Drying:
-- Slice fresh ginger 1/8 inch thick
-- Dehydrate at 130-140 degrees F until completely brittle
-- Grind into powder as needed (fresh-ground is far superior to store-bought)
-- Store powder in airtight jars away from light and moisture
-
-Pickling (preserved ginger):
-- Slice fresh ginger thinly
-- Cover with rice vinegar, sugar, and salt
-- Store refrigerated for months
-
-## Yields
-
-- Baby ginger: 2-4 lbs per square foot
-- Mature ginger: 1-2 lbs per plant under good conditions
-- Container-grown: 0.5-1 lb per 15-gallon pot
-
 ## See Also
 
 - [[turmeric-growing-guide]] -- close relative with identical cultivation

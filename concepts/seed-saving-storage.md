@@ -1,5 +1,5 @@
 ---
-title: "Seed Saving and Storage"
+title: "comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques and Storage"
 created: 2026-04-28
 tags: [seed-saving, seed-storage, propagation,
       plant-breeding, organic-gardening]
@@ -18,7 +18,7 @@ little practice, seed saving becomes easy and rewarding.
 
 ## Important Limitations
 
-Do not save seeds from F1 hybrid varieties because they will
+Do not [[query-how-do-i-save-seeds-from-biennial-vegetables]] from F1 [[cervantes-hybrid-varieties-types]] because they will
 not grow true to type. The resulting plants will not
 resemble the parents. F1 hybrids are the result of a first-
 generation cross between two selected parents, and only that
@@ -43,7 +43,7 @@ a sheet or bowl to catch the seeds as they fall.
 After harvesting, spread seeds on newspaper in a warm, dry,
 well-ventilated place. Turn them occasionally to ensure even
 drying. Seeds must be completely dry before storage to
-prevent mold and rotting.
+[[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] and rotting.
 
 ## Storing Seeds
 
@@ -59,7 +59,7 @@ years if stored properly.
 - Dry environment: moisture is the biggest enemy
 - Dark location: light can reduce viability
 - Airtight containers: glass jars with rubber seals work
-  well; silica gel packets help absorb residual moisture
+  well; [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] packets help absorb residual moisture
 
 ### Viability Testing
 Before sowing saved seed, test viability by placing ten

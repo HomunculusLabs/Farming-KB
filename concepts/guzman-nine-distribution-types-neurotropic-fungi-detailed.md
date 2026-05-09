@@ -20,7 +20,7 @@ Cosmopolitan neurotropic fungi are found worldwide, often associated with
 human-modified environments. The primary examples are in the genus
 Panaeolus and Panaeolina:
 
-- *Panaeolina foenisecii* — the "mower's mushroom," common in lawns and
+- *[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]* — the "mower's mushroom," common in lawns and
   pastures globally
 - *Panaeolus fimicola* — found on dung across temperate and tropical regions
 - *Panaeolus sphinctrinus* — widespread coprophilous species
@@ -33,13 +33,13 @@ tracks the spread of grazing mammals and the expansion of grasslands.
 ## Type 2: Northern Hemisphere Species
 
 Species restricted to the northern temperate zone. The most prominent
-examples include *Amanita muscaria* and *Claviceps purpurea*, both of which
+examples include *[[allegro-amanita-muscaria-properties-and-pharmacology]]* and *[[bloomfield-ergot-claviceps-purpurea-ergotism]]*, both of which
 have circumboreal distributions across Europe, Asia, and North America.
 
 *A. muscaria* is perhaps the most widely recognized mushroom on Earth, yet
 its distribution is strictly northern. It forms mycorrhizal associations
 with Pinus and Betula, limiting it to forests where these hosts occur. It
-has been introduced to southern hemisphere pine plantations in Brazil,
+has been introduced to [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] pine plantations in Brazil,
 Colombia, Tanzania, Australia, and New Zealand, but these represent
 anthropogenic extensions of its natural range.
 
@@ -55,7 +55,7 @@ Bering land bridge or transatlantic corridors.
 
 This disjunct distribution type links species found in eastern North America
 with those in eastern Asia, reflecting ancient connections across Beringia
-or the North Pacific. The classic example is *Psilocybe cyanescens*, known
+or the North Pacific. The classic example is *[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]*, known
 from the Pacific Northwest of North America and also reported from parts of
 Western Europe (where it may be introduced). The pattern is clearer in other
 fungal genera documented by Horak.
@@ -109,7 +109,7 @@ in isolation.
 
 ## Distribution Patterns and Exploration Bias
 
-A critical caveat: the apparent distribution of neurotropic fungi is heavily
+A critical caveat: the apparent [[global-distribution-of-neurotropic-fungi]] fungi is heavily
 biased toward well-explored regions. Europe, North America, and Japan have
 been intensively surveyed, while vast areas of Africa, Southeast Asia, and
 South America remain mycologically unknown. The concentration of locality

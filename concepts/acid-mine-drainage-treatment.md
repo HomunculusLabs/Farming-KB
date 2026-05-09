@@ -57,7 +57,7 @@ Aerobic wetlands are effective for net alkaline or low-acidity AMD but cannot tr
 
 The iron hydroxide precipitates that accumulate in aerobic wetlands (ochre) eventually fill pore spaces and reduce treatment capacity, requiring periodic maintenance or system expansion.
 
-[[staycare-spent-mushroom-compost-bioremediation]], is a particularly effective substrate for anaerobic AMD treatment because it contains residual nutrients, active microorganisms, and organic matter in various stages of decomposition.
+[[staycare-spent-mushroom-compost-bioremediation]], is a particularly effective substrate for anaerobic AMD treatment because it contains residual nutrients, active microorganisms, and [[hamilton-composting-and-organic-matter-management]] in various stages of decomposition.
 
 ## Limestone Drains and Diversion Wells
 
@@ -65,7 +65,7 @@ Limestone drains use beds of crushed limestone (calcium carbonate) to neutralize
 
 Anoxic limestone drains (ALDs) are buried limestone beds that receive AMD before it is exposed to atmospheric oxygen, preventing coating of limestone surfaces by iron hydroxide precipitates.
 
-ALDs are effective for AMD with low dissolved oxygen and ferric iron concentrations, but their performance declines when oxygen or ferric iron reaches the limestone bed.
+ALDs are effective for AMD with low [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] and ferric iron concentrations, but their performance declines when oxygen or ferric iron reaches the limestone bed.
 
 Open limestone channels allow AMD to flow over limestone surfaces with enhanced oxygenation, promoting iron oxidation and precipitation alongside limestone dissolution.
 
@@ -81,11 +81,11 @@ Iron-oxidizing bacteria (Acidithiobacillus ferrooxidans, Leptospirillum ferrooxi
 
 Sulfate-reducing bacteria are the key organisms in anaerobic treatment systems, generating sulfide for metal precipitation and bicarbonate for pH adjustment.
 
-Fungi contribute to passive treatment through metal biosorption, organic acid production that can enhance mineral dissolution, and decomposition of organic substrates that maintain treatment capacity.
+[[query-how-do-fungi-contribute-to-carbon-sequestration]] to passive treatment through [[fungal-heavy-metal-biosorption-and-detoxification]], organic acid production that can enhance mineral dissolution, and decomposition of organic substrates that maintain treatment capacity.
 
-[[fungal-biosorption-mechanisms]] describe the metal binding capacities of fungal biomass relevant to AMD treatment.
+[[fungal-biosorption-mechanisms]] describe the [[chelation-and-metal-binding-in-plants]] capacities of fungal biomass relevant to AMD treatment.
 
-The role of mycorrhizal fungi in establishing and maintaining wetland vegetation on the harsh substrate conditions typical of AMD treatment sites is described in [[mycoremediation]] for AMD passive treatment includes routine measurement of pH, alkalinity, acidity, sulfate, dissolved metals, and flow rates at system inflows and outflows.
+The role of [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] in establishing and maintaining wetland vegetation on the harsh substrate conditions typical of AMD treatment sites is described in [[mycoremediation]] for AMD passive treatment includes routine measurement of pH, alkalinity, acidity, sulfate, dissolved metals, and flow rates at system inflows and outflows.
 
 ## Design Considerations and Long-Term Performance
 

@@ -1,17 +1,17 @@
 ---
-title: Direct-Seeded No-Tillage Rice-Barley Clover Succession
+title: Direct-Seeded No-Tillage Rice-Barley symbiotic-rice-barley-clover-succession-cropping
 created: 2026-05-06
 tags: [natural-farming, Fukuoka, rice, barley, no-till, cover-crops, clover, seed-balls]
 type: concept
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Fukuoka M. The Natural Way of Farming: The Theory and Practice of Green Philosophy. 1987.
+  - Fukuoka M. The Natural Way of Farming: The Theory and Practice of fukuoka-sowing-green-philosophy-one-grain-revolution. 1987.
 ---
 
 # Direct-Seeded No-Tillage Rice-Barley Clover Succession
 
-The direct-seeded, no-tillage, winter grain and rice succession in a clover cover is Masanobu Fukuoka's signature [[natural-farming]] philosophy. Fukuoka summarized the entire method as "the symbiosis of rice and barley or wheat in clover." The system works because it cooperates with natural processes rather than attempting to override them. Human effort is unnecessary because nature, not man, grows the rice and wheat. The farmer's role is reduced to sowing seed and spreading straw — the minimum intervention needed to maintain the cycle.
+The direct-seeded, no-tillage, [[direct-seeded-no-tillage-rice-winter-grain-succession]] and rice succession in a [[fukuoka-clover-cover-cropping-soil-ecology]] is Masanobu Fukuoka's signature [[natural-farming]] philosophy. Fukuoka summarized the entire method as "the symbiosis of [[fukuoka-rice-and-barley-natural-farming]] or wheat in clover." The system works because it cooperates with natural processes rather than attempting to override them. Human effort is unnecessary because nature, not man, grows the rice and wheat. The farmer's role is reduced to [[fukuoka-sowing-seed-ball-desert-revegetation]] and spreading straw — the minimum intervention needed to maintain the cycle.
 
 ## See Also
 
@@ -95,4 +95,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

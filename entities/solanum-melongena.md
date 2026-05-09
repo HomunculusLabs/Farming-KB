@@ -58,7 +58,7 @@ Global trade and migration have spread eggplant-based dishes worldwide. Japanese
 
 Eggplant is cultivated globally between approximately 40°N and 40°S latitude. Major producers include China (accounting for over 60% of global production), India, Egypt, Turkey, and Iran. Total world production exceeds 55 million tonnes annually.
 
-The crop requires warm temperatures (25–30°C optimal) and a long frost-free growing season of 100–150 days. It is sensitive to cold and cannot tolerate temperatures below 10°C.
+The crop requires warm temperatures (25–30°C optimal) and a long frost-free [[savory-growing-season-and-non-growing-season-management]] of 100–150 days. It is sensitive to cold and cannot tolerate temperatures below 10°C.
 
 Flowering and fruit set are adversely affected by temperatures above 35°C or below 15°C. Night temperatures above 25°C can cause flower drop and poor fruit development, limiting production in tropical lowlands.
 
@@ -66,13 +66,13 @@ Eggplant performs best in well-drained, fertile sandy loam soils with pH 6.0–6
 
 Transplants are typically started in nurseries 6–8 weeks before field planting. Spacing of 60–90 cm between plants and 90–120 cm between rows is standard for most varieties.
 
-Plants benefit from moderate nitrogen fertilization and adequate phosphorus for root development. Excessive nitrogen promotes vegetative growth at the expense of fruit production.
+Plants benefit from moderate nitrogen fertilization and adequate phosphorus for root development. Excessive nitrogen promotes [[cannabis-vegetative-growth-stage]] at the expense of fruit production.
 
 Staking or trellising is recommended to support heavy fruit loads and prevent disease. Pruning to 2–3 main stems improves airflow and fruit quality in indeterminate varieties.
 
-Major pests include flea beetles, Colorado potato beetle, aphids, and spider mites. Verticillium wilt, Fusarium wilt, and Phytophthora blight are the most serious diseases.
+Major pests include flea beetles, Colorado potato beetle, aphids, and [[cervantes-spider-mites-identification-control]]. Verticillium wilt, Fusarium wilt, and Phytophthora blight are the most serious diseases.
 
-Integrated pest management combining resistant rootstocks, crop rotation, biological control agents, and targeted pesticide application is recommended. Grafting onto Solanum torvum rootstocks provides effective resistance to soil-borne pathogens.
+[[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management combining resistant rootstocks, [[comparison-crop-rotation-vs-cover-cropping]], [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents, and targeted pesticide application is recommended. Grafting onto Solanum torvum rootstocks provides effective resistance to soil-borne pathogens.
 
 Harvest occurs 60–90 days after transplanting when fruits reach full size and develop a glossy skin. Frequent harvesting stimulates continued fruit production throughout the growing season.
 

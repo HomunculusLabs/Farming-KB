@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-*Sarracenia oreophila*, commonly known as the green pitcher plant or mountain pitcher plant, is a critically endangered carnivorous plant endemic to the southern Appalachian Mountains of the southeastern United States. It is among the rarest members of the genus *Sarracenia*.
+*Sarracenia oreophila*, commonly known as the green pitcher plant or mountain pitcher plant, is a critically endangered carnivorous plant endemic to the southern Appalachian Mountains of the southeastern [[dmt-containing-plants-united-states-halpern]]. It is among the rarest members of the genus *Sarracenia*.
 
 The species was first described by L.B. Stephens in 1924 from populations in northeastern Alabama. It is distinguished by its predominantly green pitchers with minimal red venation and its preference for higher-elevation seepage habitats compared to other *Sarracenia* species.
 
@@ -29,11 +29,11 @@ The species is a federally protected plant, and all wild collection is prohibite
 
 ## Taxonomy and Morphology
 
-*Sarracenia oreophila* (Stephens) belongs to family Sarraceniaceae within the order Ericales. It is one of approximately 8-11 recognized species in the genus *Sarracenia*, all restricted to North America.
+*Sarracenia oreophila* (Stephens) belongs to family Sarraceniaceae within the order Ericales. It is one of approximately 8-11 recognized species in the genus *Sarracenia*, all restricted to [[psilocybin-north-america-pacific-northwest]].
 
 No subspecies or varieties are currently recognized. The species is morphologically most similar to *S. flava* and *S. alata*, but can be distinguished by its smaller stature, more delicate pitchers, and altitudinal distribution.
 
-The rhizome is thick and creeping, producing a rosette of leaves modified into pitcher traps. Each rosette produces 5-12 pitchers per season, with phyllodia (flat, non-carnivorous leaves) produced later in the growing season.
+The rhizome is thick and creeping, producing a rosette of leaves modified into pitcher traps. Each rosette produces 5-12 pitchers per season, with phyllodia (flat, non-carnivorous leaves) produced later in the [[savory-growing-season-and-non-growing-season-management]].
 
 Pitchers are erect, narrowly funnel-shaped, and 20-60 cm tall. The tube is predominantly yellow-green with faint reddish veins. The operculum (lid) is erect and rufous-tipped, not covering the pitcher opening.
 
@@ -71,7 +71,7 @@ Fewer than 30 natural populations are known to survive, with most containing few
 
 Primary threats include habitat destruction from development and agriculture, fire suppression allowing woody encroachment, hydrological alteration from road construction and drainage projects, and illegal collection by horticultural enthusiasts.
 
-Recovery efforts include prescribed fire programs on public lands, habitat restoration at several sites, and ex situ conservation through tissue culture and cultivated collections. The U.S. Fish and Wildlife Service published a recovery plan in 2014.
+Recovery efforts include prescribed fire programs on public lands, habitat restoration at several sites, and ex situ conservation through [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] and cultivated collections. The U.S. Fish and Wildlife Service published a recovery plan in 2014.
 
 Several populations are protected within national forests (Talladega National Forest, Cherokee National Forest) and on Nature Conservancy preserves. However, the majority of extant populations occur on private land without formal protection.
 

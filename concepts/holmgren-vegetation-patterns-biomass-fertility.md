@@ -1,5 +1,5 @@
 ---
-title: "Vegetation Patterns and Biomass as Fertility Indicators"
+title: "holmgren vegetation patterns biomass fertility and Biomass as Fertility Indicators"
 created: 2026-04-26
 tags:
   - vegetation
@@ -10,14 +10,15 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: concept
 ---
 
 # Vegetation Patterns and Biomass as Fertility Indicators
 
 David Holmgren presents a detailed analysis of how vegetation patterns across
-landscapes reflect underlying soil fertility, mineral balance, and ecological
+landscapes reflect underlying soil fertility, [[holmgren-mineral-balance-soil-fertility]], and ecological
 potential. Understanding these patterns allows Permaculture designers to read
 landscapes, select appropriate species, and avoid common misconceptions about
 biomass as a measure of good land management.
@@ -106,7 +107,7 @@ contributing much of value.
 
 Plants found naturally growing on infertile soils do not necessarily prefer those
 conditions. It is their relative efficiency and competitive advantage on poor
-soils that accounts for their natural occurrence. Most plants grow better at
+soils that accounts for their [[brassinosteroid-natural-occurrence-plant-kingdoms]]. Most plants grow better at
 higher fertility, but only plants evolved or bred to high-fertility soils are
 reasonably efficient there.
 
@@ -121,7 +122,7 @@ time more demanding ones can be introduced.
 The pattern of energetically optimal systems extends from plants to animals. Cows
 produce more milk on good quality grass and clover pasture (high-quality energy),
 but on poorer forage including woody shrubs (low-quality energy), goats are
-relatively more productive. Cows may be best in high-rainfall cool climates to
+relatively more productive. Cows may be best in high-rainfall [[greenhouse-cool-climates-mollison]] to
 maintain healthy pasture, but goats are best for creating such pastures in the
 first place.
 
@@ -132,4 +133,9 @@ of energy conversion is more important -- a principle central to
 [[permaculture-design]].
 
 See also: [[holmgren-land-systems-catchment-planning]],
-[[holmgren-food-forests-agroforestry]]
+holmgren-food-forests-agroforestry
+## See Also
+- [[david-holmgren]]
+- [[permaculture-design]]
+- [[holmgren-biomass-fuels-and-energy-yield-ratios]]
+- [[holmgren-mineral-balance-soil-fertility]]

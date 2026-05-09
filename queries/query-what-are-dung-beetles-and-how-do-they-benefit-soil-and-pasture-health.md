@@ -1,5 +1,5 @@
 ---
-title: What Are Dung Beetles and How Do They Benefit Soil [[permaculture-grazing-and-pasture]] Health?
+title: What Are query what are dung beetles and how do they benefit soil and pasture health and How Do They Benefit Soil permaculture-grazing-and-pasture Health?
 tags: [biology, entomology, soil-ecology, dung-beetles, scarabaeidae, pasture-management, nutrient-cycling, livestock, biocontrol, agriculture]
 date: 2026-04-28
 updated: 2026-04-28
@@ -23,7 +23,7 @@ Dung beetles are a cosmopolitan group of beetles whose larvae and adults feed pr
 - **Aphodiinae** (aphodiine dung beetles) — also within Scarabaeidae; many species are small and dwell within dung pats
 - **Geotrupidae** (earth-boring dung beetles) — a separate family; often larger, associated with mammal dung and decaying matter
 
-Over 7,000 species have been described worldwide, occupying every continent except Antarctica. They are keystone species and trophic cascades in grassland and pastoral ecosystems.
+Over 7,000 species have been described worldwide, occupying every continent except Antarctica. They are keystone species and [[query-how-do-trophic-cascades-work]] in grassland and pastoral ecosystems.
 
 ## What are the main functional types of dung beetles?
 
@@ -57,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -99,4 +99,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

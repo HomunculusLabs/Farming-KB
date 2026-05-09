@@ -16,7 +16,7 @@ Phanerochaete chrysosporium is the most extensively studied white-rot fungus for
 
 - **Genome**: Its 30 million base pair genome was the first basidiomycete genome to be sequenced, revealing an extensive repertoire of lignin-degrading and oxidative enzymes.
 
-- **Ligninolytic enzymes**: Produces lignin peroxidase (LiP), manganese peroxidase (MnP), and hydrogen peroxide-generating enzymes. LiP production increases under nutrient limitation, particularly nitrogen limitation, which triggers secondary metabolism.
+- **[[singh-ligninolytic-enzymes-fungal-bioremediation]]**: Produces [[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP), [[fungal-manganese-peroxidase-remediation]] (MnP), and hydrogen peroxide-generating enzymes. LiP production increases under nutrient limitation, particularly nitrogen limitation, which triggers secondary metabolism.
 
 - **Pesticide degradation**: LiP from P. chrysosporium reduces methoxychlor, and gene amplification for LiP is considered highly significant for enhancing pesticide biodegradation.
 
@@ -50,7 +50,7 @@ The oyster mushroom genus Pleurotus includes several species with strong bioreme
 
 - **P. sajor-caju**: Shows high dye decolorization capacity and PAH degradation capabilities. Combined with P. ostreatus, achieves 99% anthracene and 92% benz[a]anthracene degradation.
 
-- **P. eryngii**: Used in mushroom cultivation-based wastewater treatment systems.
+- **P. eryngii**: Used in mushroom cultivation-based [[mollison-designers-wastewater-treatment-wetlands]] systems.
 
 - **P. pulmonarius**: Decolorizes 97% of Remazol Brilliant Blue R in corncob solid-state fermentation.
 
@@ -72,7 +72,7 @@ The oyster mushroom genus Pleurotus includes several species with strong bioreme
 
 ## Selection Criteria for Bioremediation Applications
 
-Choosing the appropriate fungal species depends on multiple factors: target pollutant type and concentration, environmental conditions (temperature, pH, nutrient levels), soil or water matrix characteristics, required treatment time, and whether the fungus must compete with native microorganisms. Enzyme production profiles, growth rates, and stress tolerance all influence species selection for practical applications.
+Choosing the appropriate fungal species depends on multiple factors: target pollutant type and concentration, environmental conditions (temperature, pH, nutrient levels), soil or water matrix characteristics, required treatment time, and whether the fungus must compete with native microorganisms. [[ligninolytic-enzyme-production-bioremediation]] profiles, growth rates, and [[fungal-lichen-stress-tolerance-and-poikilohydry]] all influence species selection for practical applications.
 
 ## Comparative Degradation Efficiency Across Species
 
@@ -90,7 +90,7 @@ The practical deployment of these species requires addressing the challenges des
 
 ## See Also
 
-- [[mycoremediation-of-pahs]]
+- mycoremediation-of-pahs
 - [[enzymatic-degradation-in-mycoremediation]]
-- [[fungal-wastewater-treatment]]
+- fungal-wastewater-treatment
 - [[fungal-treatment-of-textile-dyes-mechanisms]]

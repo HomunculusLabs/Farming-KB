@@ -34,9 +34,9 @@ created: 2026-04-28
 
 *Lepista saeva* is a species of agaric fungus in the family Tricholomataceae, commonly known as the field blewit or tricolor blewit.
 
-It is a widely distributed saprotrophic mushroom found in grasslands, pastures, and woodland edges across Europe and parts of North America.
+It is a widely distributed saprotrophic mushroom found in grasslands, pastures, and woodland edges across Europe and parts of [[psilocybin-north-america-pacific-northwest]].
 
-The species is highly regarded as an edible mushroom, valued for its robust flavor and firm texture.
+The species is highly regarded as an [[bloomfield-boletus-satanus-edible-mushroom-hazards]], valued for its robust flavor and firm texture.
 
 Its name "blewit" derives from the Old French "blewit" meaning blue mushroom, referring to the distinctive bluish tones of the stipe and gills.
 
@@ -90,7 +90,7 @@ It often forms fairy rings in permanent pastures and can appear in the same loca
 
 ## Edibility and Culinary Use
 
-*L. saeva* is one of the most highly prized edible wild mushrooms in Europe, comparable in culinary value to *L. nuda*.
+*L. saeva* is one of the most highly prized edible [[edible-wild-mushrooms-by-region]] in Europe, comparable in culinary value to *L. nuda*.
 
 The flesh is firm and meaty, with a rich aromatic flavor that intensifies with cooking.
 
@@ -104,11 +104,11 @@ Caution is needed to distinguish it from potentially toxic *Cortinarius* species
 
 ## Ecological Role
 
-*L. saeva* is a saprotrophic decomposer, breaking down organic matter in grassland soils.
+*L. saeva* is a saprotrophic decomposer, breaking down [[hamilton-composting-and-organic-matter-management]] in grassland soils.
 
-It plays an important role in nutrient cycling in pasture ecosystems by decomposing plant litter and animal waste residues.
+It plays an important role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in pasture ecosystems by decomposing plant litter and animal waste residues.
 
-Its mycelium contributes to soil structure and microbial community diversity in grassland soils.
+Its mycelium contributes to soil structure and [[edaphic-factors-microbial-community-structure]] diversity in grassland soils.
 
 Fairy ring formations can create visible zones of enhanced and depleted grass growth as the mycelium expands.
 

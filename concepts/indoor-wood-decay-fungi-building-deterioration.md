@@ -17,9 +17,9 @@ type: concept
 # Indoor Wood-Decay Fungi and Building Deterioration
 
 Wood-decay fungi that colonize buildings represent a significant threat to
-built structures worldwide. Among these, the dry rot fungi Meruliporia
+built structures worldwide. Among these, the dry [[comparison-white-rot-fungi-vs-brown-rot-fungi-biodegradation]] Meruliporia
 incrassata and [[meruliporia-incrassata]] causes extensive dry rot in California and the
-southeastern United States, while Serpula lacrymans is responsible for
+southeastern [[dmt-containing-plants-united-states-halpern]], while Serpula lacrymans is responsible for
 similar destruction in Britain, Europe, Australia, and Japan. The name
 Serpula means serpent or worm, evoking the root-like structures that invade
 buildings. The specific name lacrymans (Latin for weeping) refers to the
@@ -103,5 +103,5 @@ Historical remedies include:
 ## Health Concerns
 
 Unlike indoor moulds such as [[dry-rot-fungi-serpula-meruliporia]]
-- [[fungal-cellulose-decomposition-fungal-enzymes]]
+- fungal-cellulose-decomposition-fungal-enzymes
 - [[artillery-fungus-and-built-environment-fungi]]

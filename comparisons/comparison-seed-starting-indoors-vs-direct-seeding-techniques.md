@@ -1,10 +1,11 @@
 ---
-title: "Seed Starting Indoors vs Direct Seeding"
+title: "Seed seed-starting-indoors-solomon vs fukuoka-direct-seeding-rice-barley-cultivation"
 created: 2026-04-28
 tags: [comparison, seeds, gardening, planting]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -14,9 +15,9 @@ type: comparison
 
 Every gardener must decide whether to start seeds indoors for later transplant
 or sow them directly in the garden. Seed starting indoors gives you control over
-germination conditions, extends the growing season for heat-loving crops, and
+germination conditions, extends the [[savory-growing-season-and-non-growing-season-management]] for heat-loving crops, and
 protects vulnerable seedlings from outdoor hazards. Direct seeding is simpler,
-avoids transplant shock, and is essential for crops that resent root
+avoids [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]], and is essential for crops that resent root
 disturbance. The best gardeners use both methods strategically for different
 crops and conditions.
 
@@ -38,7 +39,7 @@ Direct seeding techniques include creating a furrow or dibble hole at the proper
 depth, spacing seeds at the recommended distance, covering with fine soil, and
 firming gently for seed-to-soil contact. For very small seeds like carrots,
 lettuce, and poppies, mixing seed with dry sand in a shaker helps distribute
-them evenly and prevents overcrowding. Succession planting (sowing small batches
+them evenly and prevents overcrowding. [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] (sowing small batches
 every 1-2 weeks) extends the harvest window for fast-maturing crops like beans,
 lettuce, radishes, and cilantro, ensuring a continuous supply rather than a
 single glut. Pre-soaking large seeds (beans, peas, squash) for 4-12 hours before
@@ -57,7 +58,7 @@ healthy seedlings.
 | Aspect | Seed Starting Indoors | Direct Seeding |
 |--------|-----------------------|----------------|
 | Germination control | High (temperature, moisture, light) | Low (weather-dependent) |
-| Season extension | 4-8 weeks earlier harvest | No extension |
+| [[comparison-season-extension-techniques-vs-cold-frame-gardening]] | 4-8 weeks earlier harvest | No extension |
 | Transplant shock | Yes, requires hardening off 7-10 days | None |
 | Root disturbance | Risk for sensitive crops | None |
 | Labor required | High (sowing, potting, watering, hardening) | Low (sow and water) |

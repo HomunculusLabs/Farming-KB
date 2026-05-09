@@ -1,5 +1,5 @@
 ---
-title: JADAM Wetting Agent Water and Spraying Guidelines
+title: JADAM jadam-nutrient-management-wetting-agent-and-calcium Water and Spraying Guidelines
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -59,7 +59,7 @@ Before any pesticide application, always test water with JWA:
 
 ### Humidity Is Key
 
-Natural pesticides are less toxic than chemical ones -- you must use them skillfully:
+[[jadam-pest-control-with-natural-pesticides-jhs]] are less toxic than chemical ones -- you must use them skillfully:
 - Clear, dry day: pesticide evaporates instantly, minimal effect
 - Humid conditions: pesticide remains on target much longer
 - Near 100% humidity (morning dew): pesticide is very slow to evaporate
@@ -73,9 +73,9 @@ Natural pesticides are less toxic than chemical ones -- you must use them skillf
 
 ### Spraying Technique
 - Nozzle selection: fine particle nozzles are best
-- Finer particles mean less pesticide needed with higher pest control
+- Finer particles mean less pesticide needed with higher [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
 - Spray thoroughly to fully and completely wet the plant
-- Fruit trees: prune for open canopy so pesticide reaches all corners
+- [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]: prune for open canopy so pesticide reaches all corners
 - Sun and air access is good for both trees and pesticide effectiveness
 
 ## Mixing Protocol

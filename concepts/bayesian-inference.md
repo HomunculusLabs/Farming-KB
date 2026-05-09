@@ -3,7 +3,7 @@ title: bayesian inference
 created: 2026-04-28
 updated: 2026-05-06
 sources:
-  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
+  - "raw/papers/permaculture|permaculture-a-designers-manual-bill-mollison.md"
 type: concept
 tags: [reference]
 ---
@@ -36,7 +36,7 @@ The posterior encodes what the model says after the data are taken into account.
 ## Priors
 A prior distribution can be informative, weakly informative, or intended to be diffuse.
 An informative prior uses substantial previous knowledge.
-A weakly informative prior rules out implausible values without dominating ordinary data.
+A weakly informative prior rules out implausible values without [[dom|dom]]inating ordinary data.
 A diffuse prior attempts to express little prior preference.
 No prior is completely assumption-free.
 Good Bayesian practice makes prior assumptions explicit.
@@ -101,4 +101,4 @@ Neuroscientists use Bayesian models to describe perception and [[kalman-filter]]
 
 ## See Also
 - [[fungal-biodiversity-data-analysis]]
-- [[mollison-designers-data-overlay-map-maps]]
+- mollison-designers-data-overlay-map-[[maps|maps]]

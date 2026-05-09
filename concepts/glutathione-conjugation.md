@@ -17,7 +17,7 @@ that can be transported, processed, and excreted.
 
 The pathway is central to toxicology because many harmful chemicals are not toxic until metabolic activation
 creates an electrophile. A conjugation reaction can intercept that electrophile before it binds DNA, proteins,
-or membrane lipids. When the pathway is overwhelmed, covalent binding and oxidative stress become much more
+or membrane lipids. When the pathway is overwhelmed, covalent binding and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] become much more
 likely.
 
 GSH conjugation belongs beside [[cytochrome-p450-enzymes-and-xenobiotic-metabolism]] in any account of xenobiotic defense. Phase I oxidation can expose or create reactive sites,
@@ -40,7 +40,7 @@ disposition system rather than a guarantee of safety.
 
 ## Enzymes
 
-Glutathione S-transferases, or GSTs, catalyze many GSH conjugation reactions. They occur as cytosolic,
+Glutathione S-transferases, or GSTs, catalyze many GSH [[phase-ii-conjugation-reactions-drug-metabolism]]. They occur as cytosolic,
 mitochondrial, and microsomal families with broad but overlapping substrate preferences. Their diversity lets
 organisms handle unpredictable chemical exposure without requiring one enzyme for every possible xenobiotic.
 
@@ -70,7 +70,7 @@ makes interpretation of toxicity data more complex than a simple liver-only mode
 ## Role in Drug Metabolism
 
 In pharmacology, GSH conjugation can reduce active drug concentrations, terminate reactive intermediates, and
-alter dose response. Drugs that form quinone imines, epoxides, or Michael acceptors often depend on GSH
+alter [[microwave-sterilization-dose-response-microbial-kill-curves]]. Drugs that form quinone imines, epoxides, or Michael acceptors often depend on GSH
 availability for safe handling. Depletion of cellular GSH can therefore increase toxicity without changing the
 parent drug dose.
 

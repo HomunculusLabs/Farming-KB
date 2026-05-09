@@ -13,8 +13,8 @@ sources:
   - Bernicchia, A. & Gorjón, S.P. (2013). Fungi Europaei, Vol. 12: Hymenochaetales. Candusso Edizioni.
   - Ryvarden, L. & Gilbertson, R.L. (1993). European Polypores, Part 2. Oslo: Fungiflora.
   - Fischer, M.S. & Binder, M. (2013). "Species recognition, geographic distribution and host specificity of Inonotus and related genera in Europe." Mycologia, 105(4), 969-980.
-  - Schwarze, F.W.M.R., Engels, J. & Mattheck, C. (2000). Fungal Strategies of Wood Decay in Trees. Berlin: Springer.
-  - Tabata, M. et al. (2014). "Inonotus obliquus sensu lato: Phylogenetic position and a new species, I. dryadeus." Mycoscience, 55, 124-135.
+  - Schwarze, F.W.M.R., Engels, J. & Mattheck, C. (2000). Fungal Strategies of [[bloomfield-wood-decay-fungi-spalted-timber]] in Trees. Berlin: Springer.
+  - Tabata, M. et al. (2014). "[[chaga-inonotus-obliquus-medicinal-profile]] sensu lato: Phylogenetic position and a new species, I. dryadeus." Mycoscience, 55, 124-135.
 created: 2026-04-28
 ---
 
@@ -24,7 +24,7 @@ created: 2026-04-28
 
 **Inonotus dryadeus** (Pers.) Murrill, commonly known as the **willywidow fungus**, **weeping polypore**, or **oak bracket**, is a perennial polypore fungus in the family Hymenochaetaceae.
 
-It is a root and butt rot pathogen primarily associated with mature oak trees (*Quercus* spp.), causing a distinctive white rot of the heartwood.
+It is a root and butt rot pathogen primarily associated with mature oak trees (*Quercus* spp.), causing a distinctive [[comparison-brown-rot-vs-white-rot-bioremediation]] of the heartwood.
 
 The species produces large, sessile or effused-reflexed basidiocarps that exude amber-colored liquid droplets when fresh — a diagnostic field character.
 
@@ -79,20 +79,20 @@ Risk assessment in arboriculture involves visual inspection for basidiocarps, pr
 
 ## Bioactive Compounds
 
-Like other Inonotus species, *I. dryadeus* produces a range of bioactive secondary metabolites:
+Like other Inonotus species, *I. dryadeus* produces a range of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]:
 
 - **Polysaccharides:** β-glucans with demonstrated immunomodulatory activity in vitro
 - **Triterpenoids:** inotodiol, lanosterol derivatives, and betulinic acid
 - **Phenolic compounds:** hispidin analogues, fuscopol, and related pigments
 - **Sterols:** ergosterol, ergosterol peroxide
 
-Preliminary studies show moderate cytotoxic activity against human cancer cell lines, though research lags behind that of *I. obliquus* (chaga).
+Preliminary studies show moderate cytotoxic activity against human [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines, though research lags behind that of *I. obliquus* (chaga).
 
 Extracts demonstrate antioxidant capacity comparable to other polypore fungi, with phenolic content correlating strongly with DPPH radical scavenging activity.
 
 ## Ecological Role
 
-As a white-rot decomposer, *I. dryadeus* plays an important role in forest nutrient cycling by breaking down recalcitrant lignin in oak heartwood.
+As a white-rot decomposer, *I. dryadeus* plays an important role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by breaking down recalcitrant lignin in oak heartwood.
 
 The fungus contributes to gap-phase dynamics in mature oak forests by facilitating the eventual senescence of old-growth trees.
 

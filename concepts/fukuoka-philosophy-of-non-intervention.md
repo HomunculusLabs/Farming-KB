@@ -5,14 +5,15 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Philosophy of Non-Intervention
 
 Updated: 2026-04-20
 
-The philosophy of non-intervention is the foundational principle of Masanobu Fukuoka's natural farming. Also expressed as "mu" (nothingness, non-action), "doing nothing," and the rejection of human knowledge and intellect, this philosophy extends far beyond agriculture into a comprehensive worldview about the relationship between humans and nature.
+The philosophy of non-intervention is the foundational principle of Masanobu Fukuoka's [[comparison-natural-farming-vs-permaculture]]. Also expressed as "mu" (nothingness, non-action), "doing nothing," and the rejection of human knowledge and intellect, this philosophy extends far beyond agriculture into a comprehensive worldview about the relationship between humans and nature.
 
 ## The Core Insight
 
@@ -30,7 +31,7 @@ The question Mu economics asks: "Depending on whether it is an hour before or af
 
 ## Buddhist and Taoist Roots of Mu
 
-Mu has deep roots in Buddhist philosophy, particularly Zen Buddhism where it represents the negation of dualistic thinking. The famous mu koan -- "Does a dog have Buddha-nature?" -- points to the emptiness underlying all conceptual categories. Taoist influences are equally present: the Tao Te Ching's wu-wei (effortless action) resonated deeply with Fukuoka. While mu shares territory with wu-wei, Fukuoka went further -- where wu-wei describes effortless action in harmony with the Tao, mu suggests that even the desire to flow with natural processes is a form of arrogance. This is why [[permaculture-principles]] retains the design impulse that mu questions.
+Mu has deep roots in Buddhist philosophy, particularly Zen Buddhism where it represents the negation of dualistic thinking. The famous mu koan -- "Does a dog have Buddha-nature?" -- points to the emptiness underlying all conceptual categories. Taoist influences are equally present: the [[metzner-leary-bardo-thodol-and-tao-te-ching-adaptation]]'s wu-wei (effortless action) resonated deeply with Fukuoka. While mu shares territory with wu-wei, Fukuoka went further -- where wu-wei describes effortless action in harmony with the Tao, mu suggests that even the desire to flow with natural processes is a form of arrogance. This is why [[permaculture-principles]] retains the design impulse that mu questions.
 
 ## The Natural Body
 
@@ -71,7 +72,7 @@ Man does all things, yet creates nothing."
 
 ## Modern Ecological Thinking
 
-Fukuoka's philosophy has found renewed relevance amid climate change and biodiversity loss. His insight that human intervention disrupts natural systems aligns with contemporary ecosystem science. The principles underlying [[fukuoka-natural-farming]]
+Fukuoka's philosophy has found renewed relevance amid [[dighton-fungi-climate-change-feedback]] and biodiversity loss. His insight that human intervention disrupts natural systems aligns with contemporary ecosystem science. The principles underlying [[fukuoka-natural-farming]]
 
 - [[permaculture-principles]]
 

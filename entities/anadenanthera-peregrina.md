@@ -1,5 +1,5 @@
 ---
-title: Anadenanthera peregrina
+title: yopo-anadenanthera-peregrina-snuff
 created: 2026-04-28
 type: species
 tags:
@@ -58,11 +58,11 @@ to nearly black when mature.
 ## Distribution
 
 Anadenanthera peregrina is native to the Orinoco basin of Venezuela
-and extends across northern South America. Its range includes
+and extends across northern [[guzman-psilocybin-mushrooms-south-america]]. Its range includes
 Colombia, the Guianas, northern Brazil, and portions of the Amazon
 basin. The species occurs both naturally in wild populations and
 in situations suggesting deliberate cultivation by indigenous peoples.
-It favors open grasslands, gallery forests, and disturbed areas.
+It favors open grasslands, [[mollison-designers-gallery-forests-and-valley-bottomland-systems]], and disturbed areas.
 
 ## Chemistry
 

@@ -1,5 +1,5 @@
 ---
-title: Composting Methods and Techniques from Natural Farming
+title: natural farming guide composting methods and techniques and Techniques from comparison-natural-farming-vs-permaculture
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -14,7 +14,7 @@ Composting is one of the most fundamental practices in natural farming, turning 
 
 ## Kitchen Composting
 
-Keep two buckets under the kitchen sink and add all food scraps except meat and dairy. Orange peels, banana peels, and eggshells should be crushed and cut up to break down faster. Small paper scraps can also be added. Once a bucket is full, dump it in the compost heap. Commercial black plastic bins work well in urban environments because their dark color absorbs heat, speeding decomposition.
+Keep two buckets under the kitchen sink and add all food scraps except meat and dairy. Orange peels, banana peels, and eggshells should be crushed and cut up to [[query-can-fungi-break-down-plastic-pollution]] faster. Small paper scraps can also be added. Once a bucket is full, dump it in the compost heap. Commercial black plastic bins work well in urban environments because their dark color absorbs heat, speeding decomposition.
 
 For a [[natural-farming-guide-raised-bed-and-intensive-gardening]]
 
@@ -98,3 +98,5 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+- [[duggar-mushroom-environmental-factors-temperature-moisture-light]]

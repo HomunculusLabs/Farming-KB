@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Dionaea muscipula**, commonly known as the Venus flytrap, is one of the most widely recognized carnivorous plants in the world. It is the sole species in the monotypic genus *Dionaea*, native only to a small coastal region of the southeastern United States.
+**Dionaea muscipula**, commonly known as the Venus flytrap, is one of the most widely recognized carnivorous plants in the world. It is the sole species in the monotypic genus *Dionaea*, native only to a small coastal region of the southeastern [[dmt-containing-plants-united-states-halpern]].
 
 The plant captures prey using a bilobed trap structure triggered by sensitive trigger hairs on the inner surfaces. When an insect contacts two trigger hairs within approximately twenty seconds, the trap snaps shut in roughly one hundred milliseconds.
 
@@ -38,7 +38,7 @@ Each trap consists of two hinged lobes fringed with finger-like projections call
 
 Flowers are white, borne on a scape that rises to twenty to thirty centimeters above the rosette. Flowering occurs from May to June, with a single scape producing three to ten flowers.
 
-The root system is shallow and relatively undeveloped compared to non-carnivorous plants. Roots function primarily in water absorption and anchorage rather than nutrient uptake.
+The root system is shallow and relatively undeveloped compared to non-carnivorous plants. Roots function primarily in water absorption and anchorage rather than [[plant-nutrient-uptake-mechanisms]].
 
 ## Distribution and Habitat
 
@@ -56,7 +56,7 @@ The Venus flytrap's snapping mechanism is one of the fastest movements in the pl
 
 Three trigger hairs on each lobe function as mechanosensors. When a single hair is bent, an action potential is generated that primes the trap but does not close it. Two stimulations within approximately twenty seconds cause rapid closure.
 
-Closure occurs in two phases. The initial snap takes roughly one hundred milliseconds and is driven by turgor pressure changes. The teeth interlock to form a cage, trapping prey that are typically five to twenty millimeters in length.
+Closure occurs in two phases. The initial snap takes roughly one hundred milliseconds and is driven by [[bloomfield-turgor-pressure-and-hyphal-invasion]] changes. The teeth interlock to form a cage, trapping prey that are typically five to twenty millimeters in length.
 
 Over the following hours, the trap slowly seals hermetically if the prey continues to stimulate the trigger hairs. Digestive glands then secrete a cocktail of proteases and other enzymes to break down the captured insect.
 
@@ -66,7 +66,7 @@ Digestion takes five to twelve days, after which the trap reopens. Each individu
 
 The digestive fluid of *Dionaea muscipula* contains a complex mixture of hydrolytic **enzyme** compounds. These include proteases, chitinases, phosphatases, and peroxidases.
 
-The naphthoquinone compound **plumbagin** has been identified in trap tissue. Plumbagin exhibits antimicrobial properties and may function to suppress bacterial decomposition of captured prey within the sealed trap.
+The naphthoquinone compound **plumbagin** has been identified in trap tissue. Plumbagin exhibits [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] and may function to suppress bacterial decomposition of captured prey within the sealed trap.
 
 Research has identified over sixty distinct proteins in the digestive secretions, many of which are homologous to pathogenesis-related proteins found in non-carnivorous plants. This suggests carnivory evolved through co-option of existing defense pathways.
 
@@ -74,7 +74,7 @@ The red pigmentation of trap interiors is produced by anthocyanin compounds that
 
 ## Ecological Role
 
-Despite its carnivorous habit, *Dionaea muscipula* derives only a portion of its **nitrogen** and **phosphorus** from captured prey. Studies using stable isotope analysis indicate that prey-derived nitrogen accounts for roughly thirty to fifty percent of total leaf nitrogen.
+Despite its carnivorous habit, *Dionaea muscipula* derives only a portion of its **nitrogen** and **phosphorus** from captured prey. Studies using [[fungal-stable-isotope-ecology]] analysis indicate that prey-derived nitrogen accounts for roughly thirty to fifty percent of total leaf nitrogen.
 
 The plant plays a minor but measurable role in its native **ecosystem** as both a consumer of invertebrates and a participant in local **food-web** dynamics. Its capture efficiency varies seasonally, with higher rates during active growth in spring and summer.
 
@@ -84,7 +84,7 @@ Fire is an essential ecological process for maintaining open, sunny conditions. 
 
 ## Cultivation and Conservation
 
-*Dionaea muscipula* is widely cultivated and is one of the most commonly grown carnivorous plants worldwide. Commercial propagation is primarily through tissue culture and vegetative division.
+*Dionaea muscipula* is widely cultivated and is one of the most commonly grown carnivorous plants worldwide. Commercial propagation is primarily through [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] and vegetative division.
 
 Cultivated plants require nutrient-poor substrate such as a mix of sphagnum peat and silica sand. Tap water must be avoided due to mineral content; rainwater, distilled water, or reverse-osmosis water is standard.
 

@@ -1,5 +1,5 @@
 ---
-title: Crop Multiplier Selection Breeding
+title: mollison designers crop multiplier selection breeding seed-selection-breeding-holzer
 created: 2026-04-28
 tags:
   - seed-saving
@@ -17,9 +17,9 @@ type: concept
 # Crop Multiplier Selection Breeding
 
 Crop multiplier selection is a practical plant breeding approach described by
-[[permaculture-designers-manual-bamboo]] that empowers
-gardeners and farmers to develop locally adapted crop varieties through
-systematic selection and seed saving. Rather than depending on commercial
+permaculture-designers-manual-bamboo that empowers
+gardeners and farmers to develop locally adapted [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] through
+systematic [[green-cannabis-grow-bible-seed-selection-and-seed-banks]] saving. Rather than depending on commercial
 seed suppliers, permaculture practitioners observe their growing conditions,
 identify the best-performing individual plants, and save seed exclusively
 from these elite performers to progressively improve their crop populations
@@ -43,7 +43,7 @@ because they select under centralised research station conditions.
 
 ## Integration with Permaculture Systems
 
-Crop multiplier selection integrates naturally with [[permaculture-zone-planning]], and community food systems. Mollison advocates for
+Crop multiplier selection integrates naturally with permaculture-zone-planning, and community food systems. Mollison advocates for
 community-scale seed exchange networks where locally selected varieties are
 shared between growers, multiplying the adaptive benefits across wider
 areas while maintaining local distinctiveness.
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +105,9 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[mollison-designers-chestnut-as-multipurpose-tree-crop]]
+- [[mollison-designers-mixed-orchard-design-species-selection]]
+- [[mollison-designers-small-dam-site-selection-design]]
+- [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]]
+- [[mollison-designers-lime-and-cement-natural-building]]

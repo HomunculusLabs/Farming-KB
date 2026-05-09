@@ -13,21 +13,21 @@ groupings called aggregates, and it is one of the most important yet
 underappreciated properties of soil. In *Teaming With Microbes*, Lowenfels and
 Lewis explain that unlike soil texture, which is determined by the sizes of
 mineral particles and cannot be changed, soil structure is largely created and
-maintained by the living organisms of the [[lowenfels-bacteria-role-soil]] produce slime that allows them to stick to
+maintained by the [[savory-living-organisms-as-tools]] of the [[lowenfels-bacteria-role-soil]] produce slime that allows them to stick to
 particles and to each other, forming colonies that also bind to soil particles.
 [[lowenfels-glomalin-soil-aggregation]], a sticky
-protein produced by mycorrhizal fungi that coats soil particles like super glue.
+protein produced by [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] that coats soil particles like super glue.
 [[lowenfels-tilling-no-till-soil-health]] breaks apart aggregates and destroys the networks of
 fungal hyphae and earthworm burrows that maintain porosity.
 [[lowenfels-composting-science-microbiology]] introduces both
-organic matter and the living organisms that produce aggregating glues. Within
+[[hamilton-composting-and-organic-matter-management]] and the living organisms that produce aggregating glues. Within
 six months of applying compost, new soil life becomes evident and structure
 begins improving. [[lowenfels-cover-crops-soil-biology]] send roots through the soil
 that create channels and exude substances supporting microbial communities.
 [[lowenfels-bacteria-role-soil]]
 and [[lowenfels-cover-crops-soil-biology]] are particularly valuable for
 building structure because their diverse root systems penetrate different soil
-depths. Deep-rooted cover crops can break through compacted layers that surface
+depths. Deep-rooted [[gaias-garden-cover-crops-soil-building]] can break through compacted layers that surface
 organisms cannot reach, creating permanent improvements in soil structure.
 
 ## Assessing Soil Structure
@@ -47,7 +47,7 @@ activity.
 Soil structure is the arrangement of mineral particles into aggregates, created
 and maintained primarily by the soil food web. Bacteria, fungi, earthworms, and
 other organisms produce polysaccharides, glomalin, and mucus that bind particles
-together, creating pore spaces for water and air. Tilling, chemical fertilizers,
+together, creating pore spaces for water and air. Tilling, [[cervantes-chemical-fertilizers-guide]],
 and compaction destroy these aggregates and the pore spaces they create.
 Building soil structure through compost, mulch, cover crops, and minimal
 disturbance is essential for healthy plant growth.
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

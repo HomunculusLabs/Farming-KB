@@ -1,5 +1,5 @@
 ---
-title: "Tetrapteris methystica Alternative Caapi Vine"
+title: "entheogen tetrapteris methystica alternative caapi Alternative Caapi Vine"
 created: 2026-04-28
 tags: [ethnobotany, entheogen, malpighiaceae, ayahuasca, amazonian]
 date: 2026-04-25
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

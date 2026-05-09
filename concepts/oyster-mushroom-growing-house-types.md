@@ -1,14 +1,12 @@
 ---
-title: Oyster Mushroom Growing House Design and Environmental Control
+title: Oyster duggar-mushroom-growing-history-and-methods House Design and eclss-environmental-control-life-support
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [[mycology, cultivation, mushrooms]
+tags: [mycology, cultivation, mushrooms]
 sources: [papers/benjamin-minge-duggar-mushroom-growing.md]
 ---
-# Oyster Mushroom Growing House Design and Environmental Control
-
-The growing house is the controlled environment where [[cotter-oyster-mushroom-cultivation]] cultivation. Proper design and environmental control are essential for consistent, high-quality production. Unlike many other crops, mushroom fruiting requires precise management of temperature, humidity, fresh air exchange, and light.
+# Oyster Mushroom Growing House Design and Environmental Control The growing house is the controlled environment where  cultivation. Proper design and environmental control are essential for consistent, high-quality production. Unlike many other crops, mushroom fruiting requires precise management of temperature, humidity, fresh air exchange, and light.
 
 ## Growing House Types
 
@@ -30,7 +28,7 @@ Commercial operations increasingly use purpose-built controlled environment room
 
 ### Low-Cost Structures for Developing Countries
 
-For poverty alleviation and small-scale operations, growing houses can be constructed from:
+For [[mushroom-poverty-alleviation-developing-countries]] and small-scale operations, growing houses can be constructed from:
 - Bamboo frames with plastic sheeting
 - Repurposed shipping containers with insulation added
 - Underground cellars or root cellars (naturally cool and humid)
@@ -53,10 +51,10 @@ Temperature requirements vary by species and cultivation stage:
 - Tropical species (P. djamor): 20-30 C
 
 **Temperature management methods**:
-- Evaporative cooling (fan and pad systems)
+- [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] (fan and pad systems)
 - Air conditioning (expensive but precise)
 - Underground construction for natural cooling
-- Shading and ventilation for passive cooling
+- Shading and ventilation for [[mollison-designers-solar-chimneys-and-passive-cooling-in-desert-housing]]
 - Heating via hot water pipes, electric heaters, or compost heat
 
 ### Humidity Control
@@ -80,7 +78,7 @@ Relative humidity during fruiting should be maintained at 85-95%:
 
 Adequate ventilation is critical for normal mushroom development:
 
-- Oyster mushrooms require significantly more fresh air than enoki-cultivation|enoki or [[contamination-identification-prevention]]:
+- [[query-how-to-grow-oyster-mushrooms-at-home]] require significantly more fresh air than enoki-cultivation|enoki or [[contamination-identification-prevention]]:
 
 - Floors should be smooth, non-porous, and easily cleanable
 - Walls and ceilings should be washable
@@ -96,4 +94,4 @@ When planning growing house capacity:
 
 ## See Also
 
-See also: [[natural-building-techniques]]
+See also: [[natural-building]]

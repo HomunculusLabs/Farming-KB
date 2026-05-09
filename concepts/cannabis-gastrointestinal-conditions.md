@@ -1,5 +1,5 @@
 ---
-title: Cannabis Gastrointestinal Conditions
+title: blesching-cannabis-gastrointestinal-disorders Conditions
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis Gastrointestinal Conditions
 
-Cannabis interacts with the gastrointestinal (GI) system through the enteric nervous system and the endocannabinoid system (ECS), which is densely distributed throughout the gut. Serotonin, a neurotransmitter especially abundant in the gastrointestinal tract, assists appetite regulation and bowel movement -- and the ECS modulates serotonin signaling. This makes cannabis a relevant therapeutic option for several GI conditions.
+Cannabis interacts with the gastrointestinal (GI) system through the enteric nervous system and the endocannabinoid system (ECS), which is densely distributed throughout the gut. Serotonin, a neurotransmitter especially abundant in the gastrointestinal tract, assists [[blesching-cannabis-appetite-regulation-ghrelin-leptin]] and bowel movement -- and the ECS modulates serotonin signaling. This makes cannabis a relevant therapeutic option for several GI conditions.
 
 ## The Endocannabinoid System in the Gut
 
@@ -25,12 +25,12 @@ This distribution explains why cannabinoids can affect digestion, nausea, appeti
 ## Inflammatory Bowel Disease (IBD)
 
 ### Crohn's Disease and Ulcerative Colitis
-CBD has been shown to have a clear and measurable therapeutic impact on inflammatory and anti-inflammatory regulation mechanisms, including inflammatory bowel disease. The Cannabis Health Index (CHI) covers inflammatory bowel disease under its gastrointestinal conditions section.
+CBD has been shown to have a clear and measurable therapeutic impact on inflammatory and anti-inflammatory regulation mechanisms, including inflammatory bowel disease. The [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) covers inflammatory bowel disease under its gastrointestinal conditions section.
 
 Key findings:
 - CBD affects inflammatory regulation in the gut through both CB1 and CB2 receptor pathways
 - The anti-inflammatory properties of CBD are particularly relevant to IBD, where chronic inflammation damages the intestinal lining
-- Whole-plant cannabis preparations may offer advantages over isolated cannabinoids through the entourage effect
+- Whole-plant cannabis preparations may offer advantages over isolated cannabinoids through the [[cannabis-terpene-entourage-effect-profiles]]
 - THC contributes anti-inflammatory and pain-relieving effects alongside CBD
 
 ### Irritable Bowel Syndrome (IBS)
@@ -42,7 +42,7 @@ Key findings:
 
 ### Chemotherapy-Induced Nausea and Vomiting (CINV)
 - THC is the primary antiemetic agent in cannabis
-- FDA-approved pharmaceutical cannabinoids (dronabinol, nabilone) exist specifically for this indication
+- FDA-approved [[cannabis-pharmaceutical-cannabinoids-synthetic-research]] (dronabinol, nabilone) exist specifically for this indication
 - More effective than many conventional antiemetics for delayed nausea
 - CBD enhances antiemetic effects and reduces THC's psychoactive side effects
 - Dosage: 5-10mg THC every 4-6 hours as needed
@@ -63,7 +63,7 @@ Key findings:
 Several cannabis constituents may offer protective effects for the gastrointestinal tract:
 
 - **CBD**: Reduces intestinal inflammation and may protect against increased intestinal permeability
-- **(E)-beta-Caryophyllene**: A dietary CB2 agonist found in cannabis and many spice plants that may present a new therapeutic strategy for diseases associated with inflammation and oxidative stress in the gut
+- **(E)-beta-Caryophyllene**: A dietary CB2 agonist found in cannabis and many spice plants that may present a new therapeutic strategy for diseases associated with inflammation and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in the gut
 - **Terpenes**: Cannabis-derived terpenes (myrcene, limonene, pinene) may contribute anti-inflammatory and protective effects
 - **THC**: Has demonstrated anti-inflammatory properties in the gastrointestinal tract
 
@@ -83,5 +83,5 @@ Several cannabis constituents may offer protective effects for the gastrointesti
 ## Related
 - [[cannabis-endocannabinoid-system]] -- receptor biology
 - [[cannabis-for-cancer-patients]] -- cancer-related GI symptoms
-- [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
+- [[beta-caryophyllene-dietary-cannabinoid]]
 - [[cannabis-and-ibs-research]]

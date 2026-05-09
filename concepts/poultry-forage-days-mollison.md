@@ -1,10 +1,11 @@
 ---
-title: Poultry Forage Days Mollison
+title: free-range-poultry-forage-design-mollison Days Mollison
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
+  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
@@ -16,7 +17,7 @@ Permaculture Two (1979) Chapter 8 introduces the concept of "Poultry Forage Days
 
 ## The P.F.D. Concept
 
-"When we reach more sophisticated levels, it will be possible to express the 'value' of certain trees and plants in terms of P.F.D. or 'poultry forage days'. That is, the value of a mature tree lucerne may be about 2.5 kilos of seed, which would keep a hen for 30 days or so on free range."
+"When we reach more sophisticated levels, it will be possible to express the 'value' of certain trees and plants in terms of P.F.D. or 'poultry forage days'. That is, the value of a mature tree lucerne may be about 2.5 kilos of seed, which would keep a hen for 30 days or so on [[mollison-designers-free-range-forage-design-principles]]."
 
 ## Documented Examples
 
@@ -61,11 +62,11 @@ Black walnut takes many years to reach maturity but achieves 2,920 P.F.D. This j
 
 ### Multiple Products
 
-Trees valued primarily for P.F.D. may also provide timber, shade, wind protection, bee forage, and human food, increasing their total system value beyond the P.F.D. metric.
+Trees valued primarily for P.F.D. may also provide timber, shade, [[cervantes-wind-protection-outdoor-cannabis]], [[mollison-designers-bee-forage-tree-planting]], and human food, increasing their total system value beyond the P.F.D. metric.
 
 ## Relationship to Existing Systems
 
-This concept parallels the grazing day calculations used in [[broadscale-permaculture-techniques-mollison]]. It provides a quantitative framework for comparing different forage species and making informed planting decisions.
+This concept parallels the grazing day calculations used in broadscale-permaculture-techniques-mollison. It provides a quantitative framework for comparing different forage species and making informed planting decisions.
 
 ## Limitations
 

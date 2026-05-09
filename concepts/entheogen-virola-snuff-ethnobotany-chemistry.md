@@ -1,5 +1,5 @@
 ---
-title: "Virola Snuff Ethnobotany and Chemistry"
+title: "entheogen [[virola-snuff]] [[kava-kava-ethnobotany-chemistry]] [[kava-kava-cultivation-ethnobotany-and-chemistry]]"
 created: 2026-04-28
 tags: [ethnobotany, entheogen, myristicaceae, dmt, snuff, amazonian]
 date: 2026-04-25
@@ -47,7 +47,7 @@ sensation of seeing things greatly enlarged.
 ## Pharmacological Significance
 
 Virola resin represents one of the most concentrated natural sources
-of psychoactive tryptamines known to science. The combination of
+of [[psychoactive-tryptamines-in-nature-distribution-ecology-and-evolutionary-origins]] known to science. The combination of
 5-MeO-DMT with beta-carboline MAOIs in a single plant resin is
 pharmacologically noteworthy, as it means the resin is effective via
 both intranasal and oral routes of administration. The Witoto, Bora,
@@ -67,7 +67,7 @@ traditions. Related Myristicaceae genera used in the Amazon include
 Osteophloeum and Iryanthera, though these are less well documented.
 The high tryptamine content of Virola resin has attracted interest
 from phytochemists investigating the biosynthetic pathways of
-indole alkaloids in tropical trees.
+indole alkaloids in [[mollison-designers-moringa-and-multipurpose-tropical-trees]].
 
 ## See Also
 
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,7 +1,7 @@
 
 # Vanilla vs Cacao Cultivation
 
-A practical comparison for tropical growers evaluating these two high-value crops for [[permaculture]] systems.
+A practical comparison for tropical growers evaluating these two high-value crops for permaculture systems.
 
 ## Botanical Classification
 
@@ -13,7 +13,7 @@ A practical comparison for tropical growers evaluating these two high-value crop
 
 ## Origin and History
 
-Both crops share origins in Mexico and Central America. Vanilla was first cultivated by the Totonac people of Veracruz; cacao by the Olmec and later Maya civilizations. Both were significant in Mesoamerican culture — vanilla as a flavoring and ritual offering, cacao as currency, beverage, and sacred food. Spanish colonizers spread both globally in the 16th century.
+Both crops share origins in Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. Vanilla was first cultivated by the Totonac people of Veracruz; cacao by the Olmec and later Maya civilizations. Both were significant in Mesoamerican culture — vanilla as a flavoring and ritual offering, cacao as currency, beverage, and sacred food. Spanish colonizers spread both globally in the 16th century.
 
 ## Climate Requirements
 
@@ -32,7 +32,7 @@ Vanilla is generally more microclimate-sensitive — small deviations in humidit
 |--------|---------|-------|
 | Type | Loamy, well-draining, volcanic soils preferred | Deep, fertile, well-drained loam |
 | pH | 6.0–7.0 | 5.5–6.5 (slightly more acidic) |
-| Organic matter | High requirements | Moderate-to-high |
+| [[hamilton-composting-and-organic-matter-management]] | High requirements | Moderate-to-high |
 | Drainage | Critical — roots rot in waterlogged soil | Important but more tolerant than vanilla |
 
 ## Propagation Methods
@@ -51,18 +51,18 @@ Cacao generally offers higher biomass and tonnage per unit area.
 
 - **Vanilla**: The second most expensive spice after saffron. Prices ranged from $25–600+/kg between 2015–2023. Extreme volatility driven by cyclones in Madagascar (which produces ~80% of global supply). [[agroforestry]] candidates:
 
-- **Vanilla**: Requires living support trees (Inga, Gliricidia, Grevillea). Shade trees must be managed to provide dappled light at 30–50%. Vines climb trunks — tree spacing and pruning directly affect vanilla yields. Can be intercropped with cardamom, black pepper, or [[permaculture]] [[drip-irrigation-cannabis]] recommended during dry spells. Drought stress causes flower drop and root death.
+- **Vanilla**: Requires living support trees (Inga, Gliricidia, Grevillea). Shade trees must be managed to provide dappled light at 30–50%. Vines climb trunks — tree spacing and pruning directly affect vanilla yields. Can be intercropped with cardamom, black pepper, or permaculture [[drip-irrigation-cannabis]] recommended during dry spells. Drought stress causes flower drop and root death.
 - **Cacao**: More [[tree-canopy-fungal-sampling-techniques]], and regular hand-pollination during flowering. Vines that touch soil risk rot.
 - **Cacao**: Prune to maintain 2–3 fan branches, remove chupons (vertical shoots), manage shade canopy, and apply foliar nutrients. Sanitary pruning to control frosty pod rot and witch's broom.
 
 ## Climate Vulnerability
 
-- **Vanilla**: Extremely vulnerable. Cyclones can destroy years of investment in hours (Madagascar, 2017). Also threatened by Fusarium root rot and viral diseases. Climate change shifting rainfall patterns is a major concern.
+- **Vanilla**: Extremely vulnerable. Cyclones can destroy years of investment in hours (Madagascar, 2017). Also threatened by Fusarium root rot and [[cervantes-viral-diseases-cannabis]]. [[dighton-fungi-climate-change-feedback]] shifting rainfall patterns is a major concern.
 - **Cacao**: Increasingly threatened by drought, heat stress, and expanding range of pests/diseases (CSSVD, cacao swollen shoot virus). Requires breeding programs for climate resilience.
 
 ## Organic Certification and Permaculture Suitability
 
-Both crops are well-suited to [[permaculture]] design, cacao offers longer-term stability as a canopy element, while vanilla serves as a high-value mid-strata climber. Together in a single system, they complement each other's spatial niches and labor calendars — cacao peak harvest often aligns with vanilla's vegetative growth phase, spreading labor demands.
+Both crops are well-suited to [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], cacao offers longer-term stability as a canopy element, while vanilla serves as a high-value mid-strata climber. Together in a single system, they complement each other's spatial niches and labor calendars — cacao peak harvest often aligns with vanilla's [[cannabis-vegetative-growth-stage]] phase, spreading labor demands.
 
 ## Decision Summary
 
@@ -78,3 +78,9 @@ Both crops are well-suited to [[permaculture]] design, cacao offers longer-term 
 | Smaller land holding | Vanilla (higher value/area at peak prices) |
 
 For most tropical growers, integrating **both** crops in a multi strata agroforestry system offers the best risk-adjusted return — cacao provides base income stability while vanilla offers upside potential during price spikes.
+
+## See Also
+
+- [[comparison-chayote-vs-taro-cultivation]]
+- comparison-blueberry-vs-haskap-cultivation
+- [[comparison-soursop-vs-cherimoya-cultivation]]

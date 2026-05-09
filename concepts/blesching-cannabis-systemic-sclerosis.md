@@ -26,7 +26,7 @@ cells foreign objects and attempts to eliminate them. For many patients, no
 allopathic cure is available. Managing treatments include topical and
 systemic pharmaceuticals.
 
-According to the Cannabis Health Index, the evidence for cannabis in treating
+According to the [[blesching-cannabis-health-index-autoimmune-conditions]], the evidence for cannabis in treating
 systemic sclerosis is based on 1 study reviewed, with a CHI value rated as
 not applicable (N/A) due to the primarily theoretical and preclinical nature
 of the evidence. However, the endocannabinoid system research provides a
@@ -44,9 +44,9 @@ pathological mechanisms in systemic sclerosis.
 
 This finding comes from the same multi-institutional 2009 study that mapped
 the endocannabinoid system across numerous skin diseases. The research team,
-with scientists from Germany, the United States, England, and Hungary,
+with scientists from Germany, the [[dmt-containing-plants-united-states-halpern]], England, and Hungary,
 identified the ECS in the skin for targeted approaches to treating various
-skin conditions.
+[[cannabis-for-skin-conditions-detailed]].
 
 ### Key ECS Finding for Systemic Sclerosis
 
@@ -98,9 +98,9 @@ significant. CB2-targeted therapies can potentially provide:
 
 - Anti-inflammatory benefits without psychoactive effects
 - Suppression of fibrotic processes
-- Immune modulation without widespread immunosuppression
+- [[cancer-immune-modulation-mechanisms]] without widespread immunosuppression
 
-Indica and indica-dominant strains with their lower THC:CBD ratio favor
+Indica and indica-dominant strains with their lower THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]] favor
 CB2 activation, making them theoretically preferable for systemic sclerosis.
 CBD-dominant preparations may also be relevant given CBD's greater affinity
 for CB2 receptors.

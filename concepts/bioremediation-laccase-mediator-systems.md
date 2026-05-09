@@ -1,5 +1,5 @@
 ---
-title: Laccase Mediator Systems in Fungal Bioremediation
+title: bioremediation laccase mediator systems Systems in Fungal Bioremediation
 created: 2026-04-28
 tags: [bioremediation, laccase, redox-mediators, fungal-enzymes, pollutant-degradation]
 date: 2026-04-25
@@ -42,7 +42,7 @@ ABTS is the most extensively studied synthetic laccase mediator. When
 oxidized by laccase, ABTS forms a stable radical cation (ABTS+.) that
 can oxidize non-phenolic substrates via hydrogen atom abstraction rather
 than single-electron oxidation. The laccase-ABTS couple was first
-demonstrated to depolymerize kraft lignin and oxidize veratryl alcohol,
+demonstrated to depolymerize kraft lignin and oxidize [[staycare-veratryl-alcohol-as-lignin-peroxidase-mediator]],
 a substrate normally inaccessible to laccase alone.
 
 The ABTS-mediated system has been successfully applied to PAH
@@ -93,7 +93,7 @@ reducing costs.
 
 The choice of mediator also depends on the enzyme system. Laccase alone
 reacts with free phenolic groups, but with mediators it can operate at
-a higher redox level. The manganese peroxidase system similarly benefits
+a higher redox level. The [[fungal-manganese-peroxidase-remediation]] system similarly benefits
 from co-substrates such as glutathione and unsaturated lipids that
 extend its substrate range through the creation of peroxyl and alkoxyl
 radicals.
@@ -101,9 +101,9 @@ radicals.
 ## Applications in Bioremediation
 
 Laccase mediator systems have been applied to several bioremediation
-challenges including: degradation of polycyclic aromatic hydrocarbons
+challenges including: degradation of [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons
 in contaminated soils and sediments; decolorization of synthetic dyes
-from textile industry effluents; treatment of kraft pulp bleach plant
+from [[staycare-fungal-treatment-of-textile-industry-wastewater]] effluents; treatment of kraft pulp bleach plant
 effluents containing chlorinated phenolics; and oxidation of pesticide
 compounds and other xenobiotics.
 
@@ -131,7 +131,7 @@ cost-effective synthetic alternatives continues to advance the field.
 ## Future Directions
 
 Current research is focused on discovering new natural mediators from
-fungal cultures, engineering laccase enzymes for higher redox potential,
+fungal cultures, engineering [[staycare-laccase-enzymes-in-bioremediation]] for higher redox potential,
 and developing whole-cell systems where fungi simultaneously produce both
 laccase and mediators. The possibility of using laccase mediators in
 whole mycelial systems, rather than with purified enzymes, offers a

@@ -10,7 +10,7 @@ tags: [cannabis]
 
 # Curing Cannabis
 
-Curing is the post-drying process that allows cannabis buds to complete moisture
+Curing is the post-drying process that allows [[query-what-causes-airy-loose-cannabis-buds-and-how-to-prevent-them]] to complete moisture
 equalization and develop full aroma, flavor, and smoothness. After [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] bud. Gently
 pack as many buds into the container as possible without crushing them. Place
 containers in a cool, dry, dark place. Check in 2-4 hours to see if buds have "sweated"
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

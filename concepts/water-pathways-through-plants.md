@@ -9,7 +9,7 @@ sources: []
 
 # Water Pathways Through Plants
 
-Water moves through plants along three different pathways simultaneously, which helps explain the tremendous volume of water that travels through a plant. Each pathway has distinct characteristics and plays a crucial role in nutrient transport.
+Water moves through plants along three different pathways simultaneously, which helps explain the tremendous volume of water that travels through a plant. Each pathway has distinct characteristics and plays a crucial role in [[mycelial-network-nutrient-transport-imaging-gadd]].
 
 ## The Apoplastic Pathway
 
@@ -53,7 +53,7 @@ The cohesion-tension theory explains how water moves upward against gravity thro
 
 ## Root Pressure and Capillary Action
 
-In addition to transpiration pull, two supplementary mechanisms assist water movement. Root pressure is generated osmotically when mineral ions are actively pumped into the xylem, lowering its water potential and drawing water in from surrounding cells. This pressure is most noticeable in small plants during the night when transpiration is low, and can cause guttation — the exudation of water droplets from leaf edges. Capillary action, the result of adhesion between water and the narrow xylem walls combined with surface tension, provides a modest but constant upward force, especially in fine-root xylem vessels.
+In addition to transpiration pull, two supplementary mechanisms assist water movement. Root pressure is generated osmotically when mineral ions are actively pumped into the xylem, lowering its water potential and drawing water in from surrounding cells. This pressure is most noticeable in small plants during the night when transpiration is low, and can cause guttation — the exudation of water droplets from leaf edges. Capillary action, the result of adhesion between water and the narrow xylem walls combined with [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]], provides a modest but constant upward force, especially in fine-root xylem vessels.
 
 ## The Role of Root Hairs
 
@@ -65,17 +65,17 @@ Stomatal aperture is the primary control point for transpiration rate and theref
 
 ## Aquaporins: Controlled Water Gates
 
-Aquaporins are specialised protein channels embedded in cell membranes that facilitate rapid water transport. Unlike simple diffusion, aquaporins allow water to cross membranes at rates up to ten times faster, and their activity can be regulated by the cell in response to environmental conditions. Under drought stress, plants can close certain aquaporins to reduce water loss, while opening others to maintain water flow to critical tissues. Aquaporins are integral to the symplastic and transcellular pathways and represent a key point of cellular control over water movement.
+Aquaporins are specialised protein channels embedded in cell membranes that facilitate rapid water transport. Unlike simple diffusion, aquaporins allow water to cross membranes at rates up to ten times faster, and their activity can be regulated by the cell in response to environmental conditions. Under drought stress, plants can close certain aquaporins to reduce water loss, while opening others to maintain water flow to critical tissues. Aquaporins are integral to the [[the-apoplastic-symplastic-and-transcellular-transport-pathways]] pathways and represent a key point of cellular control over water movement.
 
 ## Importance for Nutrient Transport
 
 Water is essential for nutrient movement because nutrients are dissolved in water as ions. The water pathways determine not just how water enters the plant, but how nutrients are delivered to the vascular system and distributed throughout the plant body. The screening function of the Casparian strip and the plasmalemma ensures that unwanted substances are excluded.
 
-This screening is selective: ions must pass through membrane transport proteins that regulate uptake based on the plant's nutritional needs. The plant can upregulate or downregulate specific transporters in response to internal nutrient status and external availability, giving it fine control over which dissolved nutrients enter the symplastic pathway.
+This screening is selective: ions must pass through [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] proteins that regulate uptake based on the plant's nutritional needs. The plant can upregulate or downregulate specific transporters in response to internal nutrient status and external availability, giving it fine control over which dissolved nutrients enter the symplastic pathway.
 
 ### Mycorrhizal Enhancement
 
-A single mature oak tree may transpire 150+ gallons of water per day in summer, demonstrating the enormous scale of water movement through these pathways. Mycorrhizal fungi dramatically extend the effective water uptake zone by connecting root systems to distant soil moisture reservoirs. The extraradical hyphae of [[plant-cell-membrane-transport-proteins]] — aquaporins and transport proteins
+A single mature [[hemenway-oak-tree-ecological-model]] may transpire 150+ gallons of water per day in summer, demonstrating the enormous scale of water movement through these pathways. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] dramatically extend the effective water uptake zone by connecting root systems to distant soil moisture reservoirs. The extraradical hyphae of [[plant-cell-membrane-transport-proteins]] — aquaporins and transport proteins
 - [[photosynthesis-and-chloroplast-function]] — energy driving water movement
 - [[arbuscular-mycorrhizal-fungi]] — fungal associations with plant roots
 - [[nutrient-movement-through-soil-to-plant-roots]]

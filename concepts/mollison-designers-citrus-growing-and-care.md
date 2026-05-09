@@ -1,5 +1,5 @@
 ---
-title: Citrus Growing and Care in Permaculture
+title: mollison designers citrus growing and care and Care in Permaculture
 created: 2026-04-28
 tags:
   - permaculture
@@ -17,7 +17,7 @@ type: concept
 
 Citrus trees are among the most valuable and widely planted fruit crops in
 permaculture systems across subtropical and warm temperate zones. In the
-Permaculture Designers Manual, Mollison treats citrus as a central element
+Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]], Mollison treats citrus as a central element
 of the [[mollison-designers-mixed-orchard-design-species-selection]] for broader orchard
 planning principles.
 
@@ -51,7 +51,7 @@ Young trees benefit from formative pruning to establish a strong scaffold
 branch structure. Bearing trees are typically pruned after harvest, with
 attention to removing water shoots and maintaining a balanced canopy shape.
 For hedgerow citrus, regular topping and side pruning maintains the
-planting as a productive windbreak or shelterbelt while still yielding
+planting as a productive [[query-how-do-i-design-a-windbreak-or-shelterbelt-for-my-property]] while still yielding
 fruit. Overgrown trees can be renovated through gradual reduction rather
 than severe pruning, which stimulates excessive vegetative regrowth.
 
@@ -60,7 +60,7 @@ than severe pruning, which stimulates excessive vegetative regrowth.
 Frost is the primary limiting factor for citrus in marginal climates.
 Mollison outlines multiple protection strategies that can extend the
 cultivable range significantly. Site selection is the first line of
-defence: planting on north-facing slopes (in the southern hemisphere) or
+defence: planting on north-facing slopes (in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]) or
 south-facing slopes (in the northern hemisphere) maximises radiant heat
 exposure. Thermal mass walls, stone surfaces, and water bodies adjacent
 to citrus plantings absorb heat during the day and radiate it at night.
@@ -77,7 +77,7 @@ Cultural practices such as removing mummified fruit, maintaining clean
 skirt lines, and avoiding excessive nitrogen fertilisation (which
 promotes soft, pest-susceptible growth) reduce pest pressure. Oil-based
 sprays applied during the dormant season smother overwintering scale and
-mites without harming beneficial insects.
+mites without harming [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
 
 ## Nutrition and Feeding
 
@@ -94,5 +94,7 @@ deficiencies during periods of active growth.
 
 - [[mollison-designers-mixed-orchard-design-species-selection]]: Broader orchard planning
 - [[mollison-designers-poultry-forage-design-pastured-systems]]: Poultry integration
-- [[mollison-designers-integrated-pest-management-design]]: Pest management
-- mollison designers nutrient cycling: Fertiliser strategies
+- mollison-designers-integrated-pest-management-design: Pest management
+- mollison designers [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]: Fertiliser strategies
+## See Also
+- [[hedgerow-planting]]

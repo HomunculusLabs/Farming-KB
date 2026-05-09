@@ -25,9 +25,9 @@ note: Composed from model knowledge — web tools were unavailable. Mark for use
 
 # Homesteading Legal Considerations
 
-> Legal framework for homesteading in the United States. This page covers zoning, livestock,
+> Legal framework for homesteading in the [[dmt-containing-plants-united-states-halpern]]. This page covers zoning, livestock,
 > water rights, and building permits. See [[selling-farm-products-and-business]] for cottage
-> food laws, farm business structure, insurance, and land access.
+> food laws, [[mollison-designers-intensifying-small-farm-production]] structure, insurance, and land access.
 >
 > ⚠️ **This page needs user review** — sources could not be fetched during creation.
 > **Verify all information with your local county clerk and state statutes.**
@@ -96,14 +96,14 @@ what animals you can keep, and whether you can sell products from your property.
 - Many western states require permits for well drilling and groundwater pumping
 - **Colorado**: Rainwater collection limited to 110 gallons (two 55-gal barrels) without a permit
 - **Utah**: Registration required if collecting over certain volume
-- **Oregon**: Rainwater harvesting encouraged and largely unregulated
+- **Oregon**: [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]] encouraged and largely unregulated
 
 See also [[homestead-water-systems]] and [[water-management]].
 
 ### Well Drilling
 
 - Most states require permits for well drilling
-- Setback requirements from septic (typically 100 ft), property lines, contamination sources
+- Setback requirements from septic (typically 100 ft), property lines, [[stamets-contamination-sources-laboratory-hygiene]]
 - Some states require well yield tests and water quality testing
 - Abandoned wells must be properly sealed — legal requirement in most states
 
@@ -116,7 +116,7 @@ See also [[homestead-water-systems]] and [[water-management]].
 | **Primary dwelling** | Always | Must meet building code |
 | **Accessory dwelling** | Always | Separate permits for electrical/plumbing |
 | **Sheds/outbuildings** | Usually >120–200 sq ft | Varies by county; some exempt all ag structures |
-| **Chicken coops** | Rarely required | Unless plumbed or over certain size |
+| **[[faires-chicken-coops-tractors-and-breeding-guide]]** | Rarely required | Unless plumbed or over certain size |
 | **Greenhouses** | Often exempt if no foundation | Some counties exempt all ag structures |
 | **Fences** | Varies; often >6–8 ft requires permit | Agricultural fencing often exempt |
 
@@ -134,20 +134,6 @@ See also [[homestead-water-systems]] and [[water-management]].
 - Some counties require engineer's stamp for non-standard construction
 - **Strategies**: Build under 120 sq ft (no permit), permitted shell with natural interior finishes, or work with a structural engineer
 - Oregon, New Mexico, California have more established pathways for natural building
-- Owner-builder exemptions exist in many states — permits still required
-
-See also [[homesteading-infrastructure]] and [[greenhouse-design]].
-
-## Practical Navigation Tips
-
-1. **Start with your county**: Most regulations enforced at the county level
-2. **Join your local cooperative extension**: Best resource for agricultural regulations specific to your area
-3. **Connect with local farming community**: Practical realities vs. what's on the books
-4. **Document everything**: Permits, licenses, sales, expenses — essential for taxes, insurance, inspections
-5. **Stay current**: Subscribe to your state department of agriculture's newsletter
-6. **Attend local zoning meetings**: Building relationships before you need them
-7. **When in doubt, ask**: Most officials prefer to help you comply than to fine you
-
 ## See Also
 
 - [[selling-farm-products-and-business]] — Cottage food laws, business structure, insurance, land access

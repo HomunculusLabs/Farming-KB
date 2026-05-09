@@ -1,5 +1,5 @@
 ---
-title: "2-TOM (5-METHOXY-4-METHYL-2-METHYLTHIOAMPHETAMINE) -- PIHKAL Entry #171"
+title: "2-TOM (5-METHOXY-4-METHYL-2-METHYLTHIOAMPHETAMINE) -- 2c-b-pihkal-entry-20 #171"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -115,9 +115,11 @@ with continuous stirring, a total of 38 mL chlorosulfonic acid at a
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
+
+- [[5-tom-entity-pihkal]]
 
 - [[p-entity]]
 

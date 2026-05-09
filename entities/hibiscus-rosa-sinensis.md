@@ -24,7 +24,7 @@ sources:
 **Hibiscus rosa-sinensis**, commonly known as Chinese hibiscus, shoeblackplant, or
 simply hibiscus, is an evergreen flowering shrub in the family Malvaceae.
 
-Native to tropical and subtropical East Asia, it has been widely cultivated for
+Native to tropical and subtropical [[neurotropic-fungi-japan-east-asia-species-cultural-context]], it has been widely cultivated for
 centuries as an ornamental plant and has significant applications in traditional
 medicine across multiple cultures. It is the national flower of Malaysia and is
 deeply embedded in Hindu religious traditions.
@@ -59,7 +59,7 @@ numerous reniform seeds approximately 3 mm long.
 
 The exact native range of *H. rosa-sinensis* is debated due to centuries of
 cultivation, but it is generally accepted to originate from tropical and
-subtropical regions of East and Southeast Asia, possibly Vanuatu or China.
+subtropical regions of East and [[psilocybe-southeast-asia-pacific]], possibly Vanuatu or China.
 
 It has been introduced pantropically and is now naturalized in many tropical and
 warm temperate regions worldwide, including the Caribbean, Pacific Islands,
@@ -74,7 +74,7 @@ perform best with consistent moisture.
 
 In Ayurvedic medicine, *H. rosa-sinensis* is used as a hair tonic, with flowers
 and leaves applied to promote hair growth and prevent premature graying. The
-flowers are also used to treat skin conditions, menstrual disorders, and
+flowers are also used to treat [[cannabis-for-skin-conditions-detailed]], menstrual disorders, and
 respiratory complaints.
 
 In Traditional Chinese Medicine (TCM), the flower is used to regulate
@@ -88,7 +88,7 @@ has ceremonial significance.
 
 ## Phytochemistry and Pharmacology
 
-Key bioactive compounds include anthocyanins (cyanidin-3-glucoside,
+Key [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include anthocyanins (cyanidin-3-glucoside,
 cyanidin-3-sambubioside), flavonoids (quercetin, kaempferol), organic acids
 (hibiscus acid, protocatechuic acid), and polysaccharides.
 
@@ -122,7 +122,7 @@ prolifically.
 
 ## See Also
 
-- [[althaea-officinalis]]
+- [[althea-officinalis]]
 - [[moringa-oleifera]]
-- [[typha-latifolia-entity]]
+- typha-latifolia-entity
 - [[vetiveria-zizanoides]]

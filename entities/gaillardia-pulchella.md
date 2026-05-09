@@ -11,9 +11,9 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Turner, B.L. (2006). "Gaillardia." In Flora of North America North of Mexico, Vol. 21. Oxford University Press.
+  - Turner, B.L. (2006). "Gaillardia." In Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 21. Oxford University Press.
   - USDA NRCS (2024). "Gaillardia pulchella Foug." PLANTS Database. https://plants.usda.gov
-  - Moerman, D.E. (1998). *Native American Ethnobotany*. Timber Press.
+  - Moerman, D.E. (1998). *[[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany*. Timber Press.
   - Cullina, W. (2000). *The New England Wild Flower Society Guide to Growing and Propagating Wildflowers*. Houghton Mifflin.
 ---
 
@@ -23,7 +23,7 @@ sources:
 
 The species is named for its distinctive flower heads, which feature a ring of bright red to orange ray florets tipped with yellow, creating a pattern reminiscent of a woven blanket. This striking coloration and its prolific blooming habit have made it a popular ornamental worldwide.
 
-Indian blanket is the state wildflower of Oklahoma, designated in 1986. It is widely used in highway beautification programs, xeriscaping, and pollinator gardens due to its exceptional drought tolerance and long bloom season.
+Indian blanket is the state wildflower of Oklahoma, designated in 1986. It is widely used in highway beautification programs, xeriscaping, and pollinator gardens due to its exceptional [[dighton-fungal-drought-tolerance-plant-water-relations]] and long bloom season.
 
 The species exhibits remarkable phenotypic plasticity, producing compact plants under drought stress and taller, more branching forms when moisture is abundant.
 
@@ -63,11 +63,11 @@ It is considered a minor environmental weed in parts of southeastern Australia d
 
 ## Cultivation
 
-Indian blanket is one of the easiest North American wildflowers to cultivate, thriving in USDA hardiness zones 2 through 11 as a warm-season annual. It is often direct-sown in meadow plantings and requires no special soil preparation.
+Indian blanket is one of the easiest [[growing-gourmet-north-american-reishi-species]] wildflowers to cultivate, thriving in USDA hardiness zones 2 through 11 as a warm-season annual. It is often direct-sown in meadow plantings and requires no special soil preparation.
 
 Seeds should be sown in early spring after the last frost, or in autumn in mild climates. Germination occurs in 14 to 21 days without stratification. Light inhibits germination, so seeds should be lightly covered or raked into the soil surface.
 
-Optimal soil temperature for germination is 20 to 25 degrees Celsius. Seed viability is typically 2 to 3 years under cool, dry storage conditions.
+Optimal soil temperature for germination is 20 to 25 degrees Celsius. Seed viability is typically 2 to 3 years under cool, dry [[vegetable-storage-conditions-by-temperature-and-humidity]].
 
 Plants flower approximately 60 to 90 days from sowing and continue blooming until frost. Deadheading extends the bloom period and reduces self-seeding, which can be prolific in favorable conditions.
 
@@ -83,7 +83,7 @@ Gaillardia pulchella is an exceptional nectar and pollen source for butterflies,
 
 The seeds are consumed by finches, sparrows, and other granivorous birds. The plants provide moderate cover value for ground-dwelling wildlife in open habitats.
 
-In prairie and meadow ecosystems, Indian blanket serves as a pioneer species on disturbed sites, rapidly colonizing bare soil and providing early-season color. Its ability to thrive in poor soils makes it valuable for erosion control on degraded land.
+In prairie and meadow ecosystems, Indian blanket serves as a pioneer species on disturbed sites, rapidly colonizing bare soil and providing early-season color. Its ability to thrive in poor soils makes it valuable for [[permplant-willows-salix-erosion-control-fodder]] on degraded land.
 
 The species has low palatability to mammalian herbivores due to the bitter sesquiterpene lactones present in the foliage. This unpalatability contributes to its persistence in heavily grazed rangelands.
 
@@ -104,6 +104,8 @@ In modern horticulture, G. pulchella and its hybrids are among the most commerci
 Phytochemical studies have identified flavonoids, sesquiterpene lactones, and triterpenoids in the aerial parts, with some compounds exhibiting moderate antimicrobial activity in laboratory assays.
 
 ## See Also
+
+- [[gaillardia-aristata]]
 
 - [[coreopsis-lanceolata]]
 - [[monarda-fistulosa]]

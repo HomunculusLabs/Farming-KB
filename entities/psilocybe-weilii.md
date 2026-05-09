@@ -11,14 +11,14 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3erpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources: []
 ---
 
 # Psilocybe weilii
 
-**Psilocybe weilii** (nom. prov.) is a moderately potent psilocybin mushroom first reported from northern Georgia in the southeastern United States. It is a bluing species in the family Hymenogastraceae found fruiting in association with loblolly pine and sweetgum in red-clay soils. The species remains provisionally named and has not been formally validly published under the rules of fungal nomenclature.
+**Psilocybe weilii** (nom. prov.) is a moderately potent [[emcdda-psilocybin-mushroom-dose-and-effects]] first reported from northern Georgia in the southeastern United States. It is a bluing species in the family Hymenogastraceae found fruiting in association with loblolly pine and sweetgum in red-clay soils. The species remains provisionally named and has not been formally validly published under the rules of fungal nomenclature.
 
-The species is of interest to mycologists both for its psychoactive properties and for its ecological role in the piedmont forest ecosystem, where it contributes to the decomposition of organic matter and nutrient cycling within the pine-sweetgum association. Its restricted known range and specific habitat requirements make it one of the more geographically limited psilocybin mushrooms documented in North America. Its distinctive combination of habitat preference, microscopic characters, and geographic range set it apart from other members of the genus.
+The species is of interest to mycologists both for its psychoactive properties and for its ecological role in the piedmont forest ecosystem, where it contributes to the decomposition of organic matter and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within the pine-sweetgum association. Its restricted known range and specific habitat requirements make it one of the more geographically limited [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] documented in North America. Its distinctive combination of habitat preference, microscopic characters, and geographic range set it apart from other members of the genus.
 
 ## Taxonomy
 
@@ -51,7 +51,7 @@ The partial veil is cortinate in nature, forming a spider-web-like connection be
 Spores are dark violet grayish black in deposit, a coloration typical of the genus [[psilocybin]] (the primary phosphorylated alkaloid and prodrug)
 - [[baeocystin]] (a demethylated analog of psilocybin)
 
-The presence of these compounds classifies *P. weilii* alongside other bluing [[andrew-weil]], a prominent physician, author, and proponent of integrative medicine. Dr. Weil has written extensively on the therapeutic and cultural significance of psychoactive plants and fungi, and several other bioactive species have been named in his honor. The species has not been formally published and therefore retains its provisional (*nomina provisoria*) status. Should a formal publication occur, it is possible that the name may be changed depending on the outcome of nomenclatural review and phylogenetic analysis.
+The presence of these compounds classifies *P. weilii* alongside other bluing [[andrew-weil]], a prominent physician, author, and proponent of integrative medicine. Dr. Weil has written extensively on the therapeutic and [[ethnomycology-cultural-significance-sacred-fungi]] of psychoactive plants and fungi, and several other bioactive species have been named in his honor. The species has not been formally published and therefore retains its provisional (*nomina provisoria*) status. Should a formal publication occur, it is possible that the name may be changed depending on the outcome of nomenclatural review and phylogenetic analysis.
 
 ## Similar Species
 
@@ -59,7 +59,7 @@ Several *Psilocybe* species may be confused with *P. weilii* due to overlapping 
 
 - [[psilocybe-cyanescens]]: A more robust species with a distinctly wavy cap margin at maturity, typically associated with woody debris in landscaped areas rather than pine needle litter over clay.
 
-The combination of its northern Georgia distribution, association with loblolly pine needles over red-clay soil beneath sweetgum, and its specific microscopic features together distinguish *P. weilii* from its close relatives. Careful microscopic examination is recommended for definitive identification.
+The combination of its northern Georgia distribution, association with loblolly pine needles over red-clay soil beneath sweetgum, and its specific microscopic features together distinguish *P. weilii* from its close relatives. Careful [[fungal-microscopic-examination-mounting-media-techniques]] is recommended for definitive identification.
 
 ## See Also
 
@@ -69,7 +69,7 @@ The combination of its northern Georgia distribution, association with loblolly 
 - [[psilocybin]]: The primary psychoactive compound found in bluing mushrooms
 - Hygrophanous: The color-changing property of mushroom caps upon drying
 - Rhizomorph: Root-like fungal structures anchoring the mushroom to substrate
-- Caerulescent: The bluing reaction characteristic of psilocybin-containing species
+- Caerulescent: The [[field-guide-psilocybin-bluing-reaction-identification]] characteristic of psilocybin-containing species
 - Gregarious: A growth pattern where mushrooms grow in close clusters
 - Cespitose: A growth pattern where mushrooms grow in dense tufts, often fused at the base
 - [[stamets-psi-galerina-deadly-look-alikes-safety]]: A toxic lookalike species that can occur in similar habitats
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

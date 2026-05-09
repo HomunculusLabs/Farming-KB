@@ -9,7 +9,7 @@ sources:
 ---
 # LOPHOPHINE
 
-**PIHKAL Entry #95** -- 3-Methoxy-4,5-methylenedioxyphenethylamine
+**[[2c-b-pihkal-entry-20]] #95** -- 3-Methoxy-4,5-methylenedioxyphenethylamine
 
 ## Chemical Name
 
@@ -47,7 +47,7 @@ The inactivity of LOPHOPHINE is particularly surprising given its structural sim
 
 The methylenedioxy group is found in numerous active compounds including MDA, MDMA, and the entire 2C-B family. Its presence at the 3,4-positions (as in MDA) reliably produces potent psychedelic and entactogenic activity. However, when shifted to the 4,5-positions (as in LOPHOPHINE), the compound loses activity, suggesting that the spatial arrangement of oxygen substituents on the aromatic ring is critical for 5-HT2A receptor activation.
 
-This positional sensitivity is a recurring theme in phenethylamine SAR. Small changes in the positions of substituents on the ring can dramatically alter or abolish activity, reflecting the precise geometric requirements of receptor binding.
+This positional sensitivity is a recurring theme in phenethylamine SAR. Small changes in the positions of substituents on the ring can dramatically alter or abolish activity, reflecting the precise geometric requirements of [[tihkal-receptor-binding-serotonin]].
 
 ## Comparison to Related Compounds
 
@@ -75,7 +75,7 @@ While LOPHOPHINE appears to be largely inactive even at 250 mg, general precauti
 
 ## Legal Status
 
-LOPHOPHINE is not specifically scheduled in most jurisdictions. As a methylenedioxy-substituted phenethylamine, it could potentially fall under analogue legislation in countries with broad controlled substance analogue acts. In the United States, the Federal Analogue Act could potentially apply given its structural similarity to MDA (a Schedule I substance). However, its lack of demonstrated psychoactivity makes prosecution under such provisions unlikely.
+LOPHOPHINE is not specifically scheduled in most jurisdictions. As a methylenedioxy-substituted phenethylamine, it could potentially fall under analogue legislation in countries with broad controlled substance analogue acts. In the [[dmt-containing-plants-united-states-halpern]], the Federal Analogue Act could potentially apply given its structural similarity to MDA (a Schedule I substance). However, its lack of demonstrated psychoactivity makes prosecution under such provisions unlikely.
 
 ## Cultural and Historical Significance
 

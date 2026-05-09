@@ -1,5 +1,5 @@
 ---
-title: Entactogenic Comparison of Magic Mushrooms and Ecstasy in Recreational Settings
+title: emcdda hallucinogenic mushroom entactogenic comparison ecstasy of guzman-magic-mushrooms-african-species and Ecstasy in Recreational Settings
 created: 2026-04-28
 tags: [psychopharmacology, drug-comparison, recreational-drugs, hallucinogenic-mushrooms, emcdda]
 date: 2026-04-28
@@ -13,7 +13,7 @@ type: concept
 
 A recurring theme in the EMCDDA case study is the
 comparison between the subjective effects of
-hallucinogenic mushrooms and those of ecstasy
+[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] and those of ecstasy
 (MDMA). This comparison is significant because both
 substances were commonly used in the same recreational
 settings, particularly dance music events and nightclubs,
@@ -56,7 +56,7 @@ social interaction. The effects are relatively
 predictable, dose-dependent, and generally experienced
 as positive in the settings where the drug is used.
 
-Mushroom effects are far more variable and less socially
+[[psychedelic-mushroom-effects-guide]] are far more variable and less socially
 oriented. Users report a broad spectrum ranging from mild
 relaxation and giddiness to visual disturbances,
 altered perception of time and space, and in some cases
@@ -127,5 +127,11 @@ acted as constraints on the diffusion of mushroom use.
 ## See also
 
 [[emcdda-hallucinogenic-mushroom-clubbing-surveys-and-prevalence]]
-[[emcdda-hallucinogenic-mushroom-polydrug-use-patterns]]
+emcdda-hallucinogenic-mushroom-polydrug-use-patterns
 [[emcdda-hallucinogenic-mushroom-route-administration-and-effects]]
+## See Also
+- [[emcdda-hallucinogenic-mushroom-markets]]
+- [[emcdda-hallucinogenic-mushroom-consequences-and-health-risks]]
+- [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]]
+- [[emcdda-hallucinogenic-mushroom-eu-legislation-responses-2001-2006]]
+- [[emcdda-hallucinogenic-mushroom-survey-methodology-data-limitations]]

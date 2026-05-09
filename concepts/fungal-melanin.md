@@ -20,7 +20,7 @@ type: concept
 Fungal melanins are complex polymeric pigments deposited in cell walls that
 confer extraordinary resistance to environmental stress, including ultraviolet
 radiation, extreme temperatures, enzymatic attack, and oxidative damage.
-Melanized fungi are ubiquitous in both natural and built environments, staining
+Melanized fungi are ubiquitous in both natural and [[fungal-biodiversity-built-environments-indoor-mycobiome]], staining
 bathroom fixtures, building facades, ancient statuary, and even human tissues.
 The pigment's ability to absorb all wavelengths of electromagnetic radiation
 and convert them to harmless heat makes it one of the most versatile defensive
@@ -71,7 +71,7 @@ may attempt to grow in other body locations, but in the absence of L-dopa or
 related compounds, its cells cannot become pigmented and remain vulnerable to
 immune clearance. The concept of a pathogen stealing chemical compounds from
 its host to protect itself from that host's defenses illustrates the insidious
-nature of opportunistic fungal infections.
+nature of opportunistic [[blesching-cannabis-fungal-infections-candida]].
 
 ## Dematiaceous Fungi
 

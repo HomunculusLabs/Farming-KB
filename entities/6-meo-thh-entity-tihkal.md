@@ -1,5 +1,5 @@
 ---
-title: 6 Meo Thh (Tihkal)
+title: 6 6 meo thh [[2-alpha-dmt-entity-tihkal]] (Tihkal)
 created: 2026-04-16
 updated: 2026-04-16
 type: entity
@@ -47,9 +47,9 @@ roles in:
 
 - Sleep regulation and dream modulation
 
-- Anxiety and stress responses
+- Anxiety [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]]
 
-- Parkinson's disease and other neurological conditions
+- Parkinson's disease and other [[cannabis-and-neurological-conditions]]
 
 - Normal synaptic function as trace neurotransmitters
 
@@ -64,8 +64,8 @@ roles in:
 - 6-MeO-THH: 6-methoxy isomer, endogenous, activity untested in humans
 
 The key difference between 6-MeO-THH and the "harmine trilogy" is the position
-of the methoxy group on the aromatic ring. This positional isomerism may
-affect receptor binding, enzyme inhibition potency, and metabolic fate.
+of the methoxy group on the aromatic ring. This [[shulgin-gamma-dom-positional-isomerism]] may
+affect [[tihkal-receptor-binding-serotonin]], [[enzyme-inhibition]] potency, and metabolic fate.
 
 ## Harm Reduction and Safety Considerations
 
@@ -78,7 +78,7 @@ restrictions (tyramine avoidance) may apply
 - The endogenous occurrence of 6-MeO-THH does not imply safety at
 exogenous doses
 
-- Potential interactions with MAO inhibitors, SSRIs, and other
+- Potential interactions with [[mao-inhibitors-and-psychedelics]], SSRIs, and other
 serotonergic medications cannot be ruled out
 
 - This compound is primarily of academic interest and should not be

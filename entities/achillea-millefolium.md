@@ -47,7 +47,7 @@ A single plant can produce up to 10,000 seeds annually. The seed bank persists f
 
 Yarrow has one of the widest natural distributions of any temperate herb, occurring across Europe, Asia, and North America. It is native from sea level to over 3,500 m elevation in alpine regions.
 
-The species thrives in grasslands, meadows, open woodlands, roadsides, and disturbed sites. It tolerates a broad range of soil conditions from sandy loams to clay, and from acidic to alkaline pH. Drought tolerance is excellent once established.
+The species thrives in grasslands, meadows, open woodlands, roadsides, and disturbed sites. It tolerates a broad range of soil conditions from sandy loams to clay, and from acidic to alkaline pH. [[dighton-fungal-drought-tolerance-plant-water-relations]] is excellent once established.
 
 Yarrow is considered an indicator species of moderately fertile, well-drained soils. It increases in abundance under moderate grazing pressure and is a characteristic component of semi-natural grasslands throughout its range.
 
@@ -59,7 +59,7 @@ Taxonomic complexity within *A. millefolium* sensu lato has generated extensive 
 
 ## Bioactive Compounds and Pharmacology
 
-Yarrow contains a complex mixture of bioactive secondary metabolites. The essential oil (0.2–1.5% dry weight) is dominated by chamazulene, α-pinene, β-pinene, camphor, borneol, and eucalyptol.
+Yarrow contains a complex mixture of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]. The essential oil (0.2–1.5% dry weight) is dominated by chamazulene, α-pinene, β-pinene, camphor, borneol, and eucalyptol.
 
 **Sesquiterpene lactones,** particularly achillin and millefin, contribute to the anti-inflammatory activity of aerial part extracts. These compounds inhibit prostaglandin synthesis and demonstrate in vitro activity against several cancer cell lines.
 
@@ -69,7 +69,7 @@ Yarrow contains a complex mixture of bioactive secondary metabolites. The essent
 
 Clinical evidence supports the use of yarrow preparations for appetite loss and dyspeptic complaints. The German Commission E and EMA have approved internal use for these indications based on traditional and pharmacological data.
 
-Topical applications of yarrow extracts and infusions are supported by in vitro evidence for antimicrobial activity against *Staphylococcus aureus* and *Candida albicans*. The traditional use as a wound-healing herb is attributed to the combined astringent, anti-inflammatory, and antimicrobial properties.
+Topical applications of yarrow extracts and infusions are supported by in vitro evidence for antimicrobial activity against *Staphylococcus aureus* and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*. The traditional use as a wound-healing herb is attributed to the combined astringent, anti-inflammatory, and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
 
 ## Cultivation
 
@@ -81,9 +81,9 @@ Regular deadheading extends the flowering period and prevents self-seeding in ga
 
 In ornamental horticulture, numerous cultivars are available, including 'Paprika' (red flowers), 'Cerise Queen' (deep pink), 'Moonshine' (pale yellow), and 'Coronation Gold' (golden yellow). These selections vary in height from 30 cm to 90 cm.
 
-Yarrow attracts a wide range of beneficial insects, including ladybirds, lacewings, hoverflies, and parasitic wasps. It is widely planted in ecological gardens and insectary strips for biological pest control.
+Yarrow attracts a wide range of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], including ladybirds, lacewings, hoverflies, and parasitic wasps. It is widely planted in ecological gardens and insectary strips for biological pest control.
 
-In permaculture design, yarrow is valued as a dynamic accumulator, with deep taproots that mine potassium, phosphorus, and copper from subsoil layers. The chopped foliage can be used as nutrient-rich mulch or added to compost piles.
+In permaculture design, yarrow is valued as a [[nutrient-dynamic-accumulator-reference]], with deep taproots that mine potassium, phosphorus, and copper from subsoil layers. The chopped foliage can be used as nutrient-rich mulch or added to compost piles.
 
 ## Ecological Role
 

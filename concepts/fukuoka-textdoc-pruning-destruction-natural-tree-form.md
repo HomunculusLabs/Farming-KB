@@ -1,5 +1,5 @@
 ---
-title: "Pruning as Destruction of Natural Tree Form"
+title: "Pruning as Destruction of fukuoka-natural-tree-form-argument Form"
 created: 2026-04-28
 tags:
   - natural-farming
@@ -26,13 +26,15 @@ but to observe and learn from the tree's own innate wisdom about how
 best to arrange its growth for optimal health and productivity. The
 mountain forest, where trees of many species grow together in complex
 harmony without any human management, provides the model for what
-orchards could become if farmers trusted the natural growth processes of
+orchards could become if farmers trusted the [[ingham-natural-growth-regulators-soil-microbes]] processes of
 their trees.
 
 ## See Also
 
+- [[natural-fruit-tree-form-and-non-pruning]]
+
 - [[fukuoka-textdoc-farm-establishment-site-selection-soil-prep]] for
-orchard establishment methods
+[[fukuoka-citrus-orchard-establishment-bare-hillside]] methods
 - [[fukuoka-textdoc-three-ways-farming-compared]] for the broader
 framework of intervention versus non-intervention
 ## Practical Applications
@@ -112,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

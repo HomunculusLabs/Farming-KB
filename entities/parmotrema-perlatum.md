@@ -9,7 +9,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Kirk, P.M., Cannon, P.F., Minter, D.W., Stalpers, J.A. (2008). "Ainsworth & Bisby's Dictionary of the Fungi." 10th ed. CABI.
   - Nash III, T.H. et al. (2004). "Lichen Biology." 2nd ed. Cambridge University Press.
   - Divakar, P.K. et al. (2013). "A molecular perspective on the generic concept in Parmeliaceae." Mycologia, 105(2), 355-368.
@@ -45,7 +45,7 @@ Pycnidia produce colorless, filiform conidia approximately 25–35 μm long.
 
 **Parmotrema perlatum** has a wide distribution across temperate and subtropical regions of both hemispheres.
 
-It occurs throughout Europe, North Africa, temperate Asia, eastern North America, and parts of South America and Australasia.
+It occurs throughout Europe, North Africa, temperate Asia, [[polypore-fungi-eastern-north-america]] America, and parts of South America and Australasia.
 
 The species is most abundant in well-lit, open forests and along forest edges.
 
@@ -53,7 +53,7 @@ It colonizes the bark of deciduous and coniferous trees, particularly oaks, mapl
 
 Rock substrates in sheltered, humid locations also support colonies.
 
-It prefers areas with moderate humidity and good air quality, though it tolerates some pollution.
+It prefers areas with moderate humidity and good [[cervantes-air-quality-ventilation]], though it tolerates some pollution.
 
 Elevation range extends from sea level to approximately 1500 m in montane habitats.
 
@@ -61,7 +61,7 @@ Elevation range extends from sea level to approximately 1500 m in montane habita
 
 **Parmotrema perlatum** produces a characteristic medullary chemistry including atranorin in the cortex and salazinic acid as the primary medullary compound.
 
-Other secondary metabolites detected include consalazinic acid and protocetraric acid in some populations.
+Other [[antifungal-secondary-metabolites-coprophilous-fungi]] detected include consalazinic acid and protocetraric acid in some populations.
 
 Spot tests yield K+ yellow turning red (atranorin in cortex) and KC+ red (salazinic acid in medulla).
 
@@ -91,7 +91,7 @@ Beyond culinary use, traditional medicine systems have employed *P. perlatum* fo
 
 In European folk traditions, the species was historically used as a famine food and as a dye source.
 
-No significant toxicity has been reported from culinary consumption, though the lichen accumulates atmospheric heavy metals.
+No significant toxicity has been reported from culinary consumption, though the lichen accumulates atmospheric [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]].
 
 ## Ecological Role
 
@@ -101,7 +101,7 @@ Lichenivorous moth larvae, particularly species in the family Geometridae, feed 
 
 The species provides microhabitat for diverse microbial communities including nitrogen-fixing cyanobacteria on its surface.
 
-It contributes to nutrient cycling by trapping airborne particulates and gradually releasing minerals through leaching.
+It contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by trapping airborne particulates and gradually releasing minerals through leaching.
 
 As an epiphytic organism, it does not harm host trees and may provide modest protective benefits.
 

@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis Respiratory Conditions
 
-The relationship between cannabis and respiratory health is complex. While smoking any plant material carries risks for the lungs, the Cannabis Health Index (CHI) addresses respiratory conditions including asthma, chronic obstructive pulmonary disease (COPD), and lung cancer, noting that cannabis-only smoking has been found to be mildly lung-protective and was not associated with an increased risk of lung cancer in some studies. The CHI covers lung diseases as a separate therapeutic category.
+The relationship between cannabis and respiratory health is complex. While smoking any plant material carries risks for the lungs, the [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) addresses respiratory conditions including asthma, chronic obstructive pulmonary disease (COPD), and [[psk-breast-lung-cancer-clinical-trials]], noting that cannabis-only smoking has been found to be mildly lung-protective and was not associated with an increased risk of lung cancer in some studies. The CHI covers lung diseases as a separate therapeutic category.
 
 ## Cannabis and Lung Health
 
@@ -71,7 +71,7 @@ The anti-inflammatory properties of cannabinoids are relevant across respiratory
 - CBD has well-documented anti-inflammatory effects that may reduce airway inflammation
 - Beta-caryophyllene, a terpene/cannabinoid found in cannabis and many spices, activates CB2 receptors and may reduce pulmonary inflammation
 - THC has demonstrated anti-inflammatory properties at appropriate doses
-- The entourage effect suggests whole-plant preparations may be more effective than isolated cannabinoids
+- The [[cannabis-terpene-entourage-effect-profiles]] suggests whole-plant preparations may be more effective than isolated cannabinoids
 
 ## Pulmonary Function and Cannabis
 

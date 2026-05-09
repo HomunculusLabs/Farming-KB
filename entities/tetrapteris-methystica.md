@@ -1,5 +1,5 @@
 ---
-title: "Tetrapteris methystica"
+title: "entheogen-tetrapteris-methystica-alternative-caapi"
 created: 2026-04-28
 type: species
 tags: [species, plant, ethnobotanical, malpighiaceae, psychoactive, amazonian]
@@ -17,7 +17,7 @@ traditional use as a psychoactive additive in ayahuasca
 preparations. The plant has been documented among indigenous
 groups in western Amazonia, particularly in Peru and Brazil,
 where it is valued for the hallucinogenic properties of its
-leaves and bark. Despite its cultural significance, T. methystica
+leaves and bark. Despite its [[ethnomycology-cultural-significance-sacred-fungi]], T. methystica
 remains relatively poorly studied compared to Diplopterys
 cabrerana (chaliponga).
 
@@ -25,7 +25,7 @@ The genus Tetrapteris is closely related to Diplopterys, and some
 taxonomic treatments have transferred species between the two
 genera. T. methystica is one of several Malpighiaceae used as
 ayahuasca admixtures, locally known as 'chacruna' or 'oco-yaje.'
-Its psychoactive effects are attributed to tryptamine alkaloids,
+Its psychoactive effects are attributed to [[hplc-analysis-of-tryptamine-alkaloids]],
 particularly N,N-DMT, making it pharmacologically similar to
 other DMT-containing admixture plants.
 
@@ -64,8 +64,8 @@ The epithet 'methystica' derives from Greek 'methystikos'
 | Species | Growth form | DMT source | Key use |
 |---------|------------|------------|---------|
 | Tetrapteris methystica | Woody vine | Leaves, bark | Ayahuasca admixture |
-| Diplopterys cabrerana | Woody vine | Leaves | Admixture (chaliponga) |
-| Banisteriopsis caapi | Woody vine | Bark | Ayahuasca base (MAOI) |
+| [[diplopterys-cabrerana]] | Woody vine | Leaves | Admixture (chaliponga) |
+| [[ayahuasca-and-banisteriopsis-caapi]] | Woody vine | Bark | Ayahuasca base (MAOI) |
 | Banisteriopsis rubra | Woody vine | Bark | Ayahuasca variant |
 
 ## Distribution and Habitat
@@ -78,7 +78,7 @@ The epithet 'methystica' derives from Greek 'methystikos'
 
 T. methystica is forest-dependent, requiring large trees for
 climbing support. It is most common in mature or late-secondary
-tropical forests. The species is not widely cultivated and is
+[[fungal-biodiversity-tropical-forests]]. The species is not widely cultivated and is
 harvested from wild populations. Its restricted distribution
 makes it one of the less commonly available admixture plants in
 commercial markets.
@@ -97,14 +97,14 @@ The tryptamine profile of T. methystica is qualitatively similar
 to Diplopterys cabrerana, though quantitative concentrations may
 differ. N,N-DMT is the primary active compound, producing
 visionary effects when combined with Banisteriopsis caapi (which
-provides oral MAO inhibition). The β-carboline content is
+provides oral [[tihkal-oral-activity-mao-inhibition]]). The β-carboline content is
 insufficient for oral MAO inhibition alone.
 
 ## Ethnobotanical and Cultural Significance
 
 T. methystica is used by indigenous peoples of the Peruvian and
 Brazilian Amazon as an additive to ayahuasca. It substitutes for
-Psychotria viridis (chacruna) or Diplopterys cabrerana
+[[chacruna-psychotria-viridis]] (chacruna) or Diplopterys cabrerana
 (chaliponga) as the DMT-containing component. The selection of
 admixture plants varies by cultural tradition and regional
 availability.

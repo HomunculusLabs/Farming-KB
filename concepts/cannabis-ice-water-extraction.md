@@ -1,5 +1,5 @@
 ---
-title: Cannabis Ice Water Extraction
+title: comparison-cannabis-ice-water-extraction-vs-hashish-guide Water Extraction
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -87,7 +87,7 @@ For large-scale production, fill a washing machine with ice-cold water. Place fr
 
 ## Drying Water Hash
 
-After extraction, moisture must be removed quickly to prevent mold:
+After extraction, moisture must be removed quickly to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]]:
 
 - Crumble hash and spread on a screen or hard surface
 - Use paper towels under screens to absorb moisture

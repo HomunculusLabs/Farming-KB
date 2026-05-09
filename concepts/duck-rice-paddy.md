@@ -5,14 +5,15 @@ updated: 2026-04-12
 type: concept
 tags: [ducks, rice, permaculture, animal-husbandry, aquaculture, pest-control]
 sources:
-  - raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Duck-Rice Paddy Integration
 
 ## Overview
 
-Fukuoka recommends releasing ducklings onto rice paddies as a natural alternative to chemical fertilisers and manual weeding. From the standpoint of natural farming, releasing ten ducklings per quarter-acre onto the field when the rice seedlings have become established is preferable and much easier than applying manure.
+Fukuoka recommends releasing ducklings onto rice paddies as a natural alternative to chemical fertilisers and manual weeding. From the standpoint of [[comparison-natural-farming-vs-permaculture]], releasing ten ducklings per quarter-acre onto the field when the rice seedlings have become established is preferable and much easier than applying manure.
 
 ## What Ducks Do
 
@@ -32,7 +33,7 @@ Fukuoka also suggests releasing young carp into the paddy alongside the ducks. B
 
 ## Fukuoka's Vision of Integrated Livestock
 
-In Fukuoka's idealised vision of livestock farming, great numbers of ducks and mallards play in the rice paddy, semi-wild chickens and rabbits frolic with dogs in fields of growing wheat, and black pigs and boars grow fat on worms and crayfish at the foot of the hills. This represents an organic partnership between man, animal, and nature. An environment comfortable for small animals is also an ideal setting for man.
+In Fukuoka's idealised vision of [[fukuoka-textdoc-natural-livestock-farming-open-grazing]], great numbers of ducks and mallards play in the rice paddy, semi-wild chickens and rabbits frolic with dogs in fields of growing wheat, and black pigs and boars grow fat on worms and crayfish at the foot of the hills. This represents an organic partnership between man, animal, and nature. An environment comfortable for small animals is also an ideal setting for man.
 
 ## Comparison with Manure Application
 
@@ -41,8 +42,8 @@ As an alternative to the duck method, Fukuoka describes spreading 450-900 pounds
 ## Related
 
 - [[white-clover-ground-cover]] -- clover as the other key element in Fukuoka's rice system
-- [[holzer-livestock-integration]] -- Sepp Holzer's approach to livestock integration
-- [[slugs-and-snails-organic-control]] -- ducks as biological pest control
+- [[holzer-livestock-integration]] -- [[comparison-sepp-holzer-vs-biodynamic]]'s approach to [[faires-livestock-integration-permaculture]]
+- [[slugs-and-snails-organic-control]] -- ducks as [[hamilton-beneficial-insects-and-biological-pest-control]] control
 ## Practical Considerations
 
 When working with Duck-Rice Paddy Integration, several practical factors should be
@@ -59,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

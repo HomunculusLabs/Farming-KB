@@ -1,20 +1,15 @@
 ---
-title: Fungal PAH Degradation Pathways
+title: Fungal PAH staycare-chlorophenol-degradation-pathways-white-rot-fungi
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
-# Fungal PAH Degradation Pathways
-
-Polycyclic aromatic hydrocarbons (PAHs) are ubiquitous environmental contaminants generated from incomplete combustion of organic materials, petroleum refining, and industrial processes. Fungi employ distinct metabolic strategies for PAH degradation that differ from bacterial pathways, primarily involving cytochrome P450 monoxygenases, ligninolytic enzymes, and epoxide hydrolases.
-
-## Fungal vs. Bacterial PAH Metabolism
-[[fungal-cytochrome-p450-biodegradation]] for P450 enzyme details. The [[mycoremediation-techniques]] section covers broader applications of these metabolic pathways.
+# Fungal PAH Degradation Pathways Polycyclic aromatic hydrocarbons (PAHs) are ubiquitous environmental contaminants generated from incomplete combustion of organic materials, petroleum refining, and industrial processes. Fungi employ distinct metabolic strategies for PAH degradation that differ from bacterial pathways, primarily involving cytochrome P450 monoxygenases, ligninolytic enzymes, and epoxide hydrolases. ## Fungal vs. Bacterial PAH Metabolism [[fungal-cytochrome-p450-biodegradation]] for P450 enzyme details. The [[mycoremediation-techniques]] section covers broader applications of these metabolic pathways.
 
 ### Anthracene and Phenanthrene
-**Anthracene** is metabolized to 1,2-dihydroxyanthracene via epoxidation. Cunninghamella elegans produces anthracene trans-1,2-dihydrodiol as the initial metabolite, which is further transformed to 1,2-dihydroxyanthracene and ring-fission products.
+**Anthracene** is metabolized to 1,2-dihydroxyanthracene via epoxidation. [[staycare-cunninghamella-elegans-in-bioremediation]] produces anthracene trans-1,2-dihydrodiol as the initial metabolite, which is further transformed to 1,2-dihydroxyanthracene and ring-fission products.
 
 **Phenanthrene** metabolism yields 1,2-dihydroxyphenanthrene, 3,4-dihydroxyphenanthrene, and 9,10-dihydroxyphenanthrene. The initial attack occurs preferentially at the K-region (the 9,10-bond) by many fungal species, forming phenanthrene trans-9,10-dihydrodiol. Fungal-bacterial co-cultures enhance phenanthrene mineralization beyond what either achieves alone.
 
@@ -24,10 +19,10 @@ Polycyclic aromatic hydrocarbons (PAHs) are ubiquitous environmental contaminant
 **Fluoranthene** metabolism involves hydroxylation at multiple positions. White-rot fungi achieve up to 52% degradation in liquid culture within 14 days.
 
 ### Benzo[a]pyrene
-Benzo[a]pyrene (5 rings) is one of the most carcinogenic PAHs. Fungal metabolism proceeds through epoxidation at the 7,8-bond forming benzo[a]pyrene 7,8-epoxide, which is further hydrated to the 7,8-diol. This diol can be epoxidized at the 9,10-bond to form the highly reactive bay-region diol epoxide. White-rot fungi and certain mycorrhizal fungi (Amanita excelsa, Suillus grevillei) remove approximately 50% of benzo[a]pyrene within 4 weeks.
+Benzo[a]pyrene (5 rings) is one of the most carcinogenic PAHs. [[singh-fungal-metabolism-pahs]] proceeds through epoxidation at the 7,8-bond forming benzo[a]pyrene 7,8-epoxide, which is further hydrated to the 7,8-diol. This diol can be epoxidized at the 9,10-bond to form the highly reactive bay-region diol epoxide. White-rot fungi and certain mycorrhizal fungi (Amanita excelsa, Suillus grevillei) remove approximately 50% of benzo[a]pyrene within 4 weeks.
 
 ### Chrysene
-Boletus edulis and Amanita muscaria remove approximately 35% of chrysene. The four-ring structure presents intermediate recalcitrance between phenanthrene and benzo[a]pyrene.
+Boletus edulis and [[allegro-amanita-muscaria-properties-and-pharmacology]] remove approximately 35% of chrysene. The four-ring structure presents intermediate recalcitrance between phenanthrene and benzo[a]pyrene.
 
 ## Ligninolytic Enzyme-Mediated PAH Degradation
 
@@ -46,19 +41,21 @@ Laccases oxidize phenolic PAHs directly and non-phenolic PAHs through mediator s
 [[pah-properties-toxicity-bioremediation]] in soils:
 
 - **Cosubstrates and surfactants** — Tween 80 and rhamnolipid biosurfactants enhance PAH bioavailability
-- **Bound residue formation** — A significant fraction of PAHs becomes irreversibly bound to soil organic matter (humus) during fungal treatment, representing a detoxification mechanism
+- **[[fungal-bound-residue-formation]] formation** — A significant fraction of PAHs becomes irreversibly bound to soil organic matter (humus) during fungal treatment, representing a detoxification mechanism
 - **Mineralization rates** — Complete mineralization to CO2 varies from <5% to >50% depending on PAH structure, fungal species, and environmental conditions
 - **Compost bioreactors** — Combination of fungal inoculation with composting achieves effective PAH removal in contaminated soils. See [[pah-properties-toxicity-bioremediation]] discusses the broader toxicity implications. Some fungal metabolites of PAHs retain or even increase mutagenicity compared to parent compounds. This is particularly relevant for quinone metabolites and diol epoxides of benzo[a]pyrene. Complete mineralization to CO2 is the only pathway that fully eliminates mutagenic potential.
 
 ## See Also
 
+- [[fungal-cyanide-degradation]]
+
 - [[mycoremediation-pah-and-pcb-degradation]] for combined approaches
-- [[fungal-lignin-degradation-enzymology]] for peroxidase/laccase mechanisms
+- fungal-lignin-degradation-enzymology for peroxidase/laccase mechanisms
 - [[fungal-bound-residue-formation]] for soil binding processes
 
 ## PAH Toxicity Reduction Through Fungal Metabolism
 
-Fungal transformation of PAHs often reduces toxicity, though not always predictably:
+[[singh-fungal-transformation-metals-metalloids]] of PAHs often reduces toxicity, though not always predictably:
 
 - **Ring hydroxylation** generally produces more polar, water-soluble metabolites that are less bioaccumulative
 - **Ring fission** products (muconic acid derivatives, pyrones) are typically less toxic than parent PAHs
@@ -67,6 +64,7 @@ Fungal transformation of PAHs often reduces toxicity, though not always predicta
 
 The balance between detoxification and potential activation during fungal PAH metabolism underscores the importance of achieving complete mineralization to CO2 whenever possible, particularly for high molecular weight carcinogenic PAHs like benzo[a]pyrene.
 - [[humus-formation-and-soil-organic-matter]]
+
 ## Practical Considerations
 
 Successful implementation of Fungal PAH Degradation Pathways requires attention to
@@ -85,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -52,15 +52,15 @@ In contemporary Peruvian traditional medicine, *Trichocereus peruvianus* is used
 
 The ceremonial use of *Trichocereus peruvianus* is deeply integrated into the cosmovision of Andean peoples, where the cactus is regarded as a teacher plant (planta maestra) that facilitates communication with the spirit world and provides insight into the nature of health, illness, and the cosmos. The ceremony typically involves chanting (icaros), the blowing of tobacco smoke, ritual purification, and the invocation of spiritual allies before the ingestion of the preparation.
 
-In Andean medicinal practice, *Trichocereus peruvianus* is also used topically as a treatment for skin conditions, wounds, and joint pain. The fresh cactus flesh is applied as a poultice, and preparations are used as hair tonics and scalp treatments.
+In Andean medicinal practice, *Trichocereus peruvianus* is also used topically as a treatment for [[cannabis-for-skin-conditions-detailed]], wounds, and joint pain. The fresh cactus flesh is applied as a poultice, and preparations are used as hair tonics and scalp treatments.
 
 ## Cultivation
 
 *Trichocereus peruvianus* is widely cultivated as an ornamental plant and for entheogenic use. It is relatively easy to grow from seed or from cuttings. Seeds require warm (20 to 25°C), moist conditions for germination and typically sprout within 2 to 6 weeks. Seedlings grow slowly for the first year or two but accelerate rapidly once established. Cuttings root readily when placed in well-draining soil and kept dry for several weeks to allow callus formation before watering.
 
-The plant prefers full sun to partial shade, well-draining mineral soil (a mix of sandy loam, perlite, and gravel works well), and moderate watering during the growing season (spring through autumn). It should be kept dry during the winter dormancy period. The species is hardy to approximately -5°C for short periods when kept completely dry. Growth rates of 30 to 60 cm per year have been reported under optimal conditions, making it one of the fastest-growing columnar cacti.
+The plant prefers full sun to partial shade, well-draining mineral soil (a mix of sandy loam, perlite, and gravel works well), and moderate watering during the [[savory-growing-season-and-non-growing-season-management]] (spring through autumn). It should be kept dry during the winter dormancy period. The species is hardy to approximately -5°C for short periods when kept completely dry. Growth rates of 30 to 60 cm per year have been reported under optimal conditions, making it one of the fastest-growing columnar cacti.
 
-Pests and diseases are relatively uncommon in well-grown plants but may include mealybugs, scale insects, spider mites, and fungal rot (particularly if overwatered). Good air circulation and proper watering practices are the best preventive measures.
+[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] are relatively uncommon in well-grown plants but may include mealybugs, scale insects, spider mites, and fungal rot (particularly if overwatered). Good air circulation and proper watering practices are the best preventive measures.
 
 ## Comparison with Related Species
 
@@ -98,7 +98,7 @@ Collection of wild plants for the horticultural and entheogenic trades also pose
 
 The species remains abundant in many areas but is declining in regions where its habitat is under heavy pressure.
 
-Climate change may also threaten the species in the long term, as altered precipitation patterns and increasing temperatures could affect the delicate ecological balance of Andean inter-Andean valley ecosystems.
+[[dighton-fungi-climate-change-feedback]] may also threaten the species in the long term, as altered precipitation patterns and increasing temperatures could affect the delicate [[fukuoka-ecological-balance-principles]] of Andean inter-Andean valley ecosystems.
 
 ## History of Human Interaction
 
@@ -108,7 +108,7 @@ Archaeological evidence from the Chavín, Moche, Nasca, and Chimú cultures demo
 
 The persistence of these practices into the present day, despite centuries of colonial suppression and the pressures of modernization, testifies to the deep cultural roots of Huachuma use.
 
-Today, San Pedro ceremonies attract participants from around the world, and the plant has become an important element of the global entheogenic renaissance and the growing interest in indigenous plant medicines.
+Today, San Pedro ceremonies attract participants from [[fungi-around-the-world-species-distribution]], and the plant has become an important element of the global entheogenic renaissance and the growing interest in indigenous plant medicines.
 
 ## Legal Status
 

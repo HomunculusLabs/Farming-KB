@@ -9,7 +9,7 @@ sources:
 ---
 # Local Currencies
 
-Local currencies are community-created monetary systems that circulate within a defined geographic area to facilitate trade, support local economic resilience, and keep capital circulating within the community rather than flowing to external economic centres. Bill Mollison discusses local currency systems in Chapter 14 of Permaculture: A Designers' Manual as part of his comprehensive framework for village economics and community self-reliance. Local currencies are a practical application of permaculture principles to economic design.
+Local currencies are community-created monetary systems that circulate within a defined geographic area to facilitate trade, support local economic resilience, and keep capital circulating within the community rather than flowing to external economic centres. Bill Mollison discusses [[mollison-local-currency-systems-and-community-banking]] systems in Chapter 14 of Permaculture: A Designers' Manual as part of his comprehensive framework for village economics and community self-reliance. Local currencies are a practical application of permaculture principles to economic design.
 
 ## Why Local Currencies
 
@@ -33,7 +33,7 @@ The LETS system is self-regulating, with no central authority issuing or control
 
 ## Historical Examples
 
-Local currencies have a long history. In the 1930s, during the Great Depression, hundreds of communities in Europe and North America issued local scrip to maintain economic activity when national currency was scarce. The Worgl experiment in Austria demonstrated that a local currency with a demurrage fee, which encouraged rapid circulation, could stimulate economic activity and reduce unemployment.
+Local currencies have a long history. In the 1930s, during the Great Depression, hundreds of communities in Europe and [[psilocybin-north-america-pacific-northwest]] issued local scrip to maintain economic activity when national currency was scarce. The Worgl experiment in Austria demonstrated that a local currency with a demurrage fee, which encouraged rapid circulation, could stimulate economic activity and reduce unemployment.
 
 Modern local currency initiatives include Ithaca Hours in Ithaca, New York, which are backed by one hour of local labour. The Chiemgauer in Germany circulates in the Bavarian region. The Brixton Pound in London supports local businesses. Transition Towns worldwide have issued local currencies as part of their community resilience building.
 
@@ -73,7 +73,7 @@ The two-currency model allows communities to capture and retain the value of loc
 
 [[permaculture-currency-and-economics]]
 
-[[permaculture-village-design]]
+permaculture-village-design
 
 [[permaculture-social-design]]
 

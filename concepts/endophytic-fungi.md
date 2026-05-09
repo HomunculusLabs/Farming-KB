@@ -41,7 +41,7 @@ Endophytic fungi live within plant tissues (leaves, stems, roots) without causin
 - Horizontal transmission via spores; found in all plant tissues
 - **Class 2**: Endophytes in above-ground tissues; may have latent pathogenic phases. Transition to saprotrophs as leaves senesce. Includes many Ascomycota.
 - **Class 3**: Dominant in leaves of woody plants and some herbaceous species. Extremely diverse communities — Arnold et al. (2001) found rich endophyte assemblages in tropical trees. Many are hyperdiverse but host-specific.
-- **Class 4**: Root endophytes including dark septate endophytes (DSE) like Phialocephala fortinii. Found in stressed environments (arctic, alpine, contaminated soils).
+- **Class 4**: Root endophytes including dark [[dark-septate-endophytes-root-colonizing-fungi]] (DSE) like Phialocephala fortinii. Found in stressed environments (arctic, alpine, contaminated soils).
 
 ## Benefits to Host Plants
 
@@ -56,13 +56,13 @@ Endophytic fungi live within plant tissues (leaves, stems, roots) without causin
 - Neotyphodium-infected tall fescue causes fescue toxicosis in livestock (ergot alkaloids)
 - Peramine deters aphids without harming livestock
 - Some endophytes defend against leaf-mining insects (Faeth and Hammon 1997)
-- Endophytes alter plant competitive fitness, influencing community composition (Clay 1997)
+- Endophytes alter plant competitive fitness, influencing [[core-endorhiza-bacterial-community-composition-cannabis]] (Clay 1997)
 
 ### Disease Resistance
 - Piriformospora indica induces local and systemic resistance to fungal diseases in barley (Waller et al. 2005)
 - Systemic "defense readiness" associated with elevated antioxidative capacity (glutathione-ascorbate cycle)
-- Some endophytes produce antibiotics that suppress bacterial and fungal pathogens
-- Endophytes may prime plant immune responses (induced systemic resistance)
+- Some endophytes produce antibiotics that suppress [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] pathogens
+- Endophytes may prime plant immune responses ([[endophytic-mycorrhizal-induced-systemic-resistance]] resistance)
 
 ### Growth Promotion
 - P. indica colonized Arabidopsis plants produce 22% more seeds than uncolonized plants
@@ -73,7 +73,7 @@ Endophytic fungi live within plant tissues (leaves, stems, roots) without causin
 
 ### Heavy Metal Tolerance
 - P. indica provides resistance against heavy-metal contamination in soil
-- Ericoid mycorrhizal endophytes show significant heavy metal tolerance (Bradley et al. 1981)
+- [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] endophytes show significant heavy metal tolerance (Bradley et al. 1981)
 - Endophytes in contaminated soils may protect hosts through metal sequestration
 
 ## Key Model Endophytes
@@ -113,7 +113,7 @@ Cannabis roots harbor diverse endophytic communities:
 ## Research Frontiers
 
 - Metagenomics revealing vast undescribed endophyte diversity
-- Endophyte-mediated production of novel bioactive compounds (pharmaceuticals, agriculture)
+- Endophyte-mediated production of novel [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] (pharmaceuticals, agriculture)
 - Synthetic endophyte communities for crop improvement
 - Understanding the molecular dialogue between endophytes and host immune systems
 - Endophyte roles in belowground carbon allocation and soil food web dynamics

@@ -1,5 +1,5 @@
 ---
-title: Mutability of Consciousness and the Chemical Lens
+title: powell mutability of consciousness chemical lens and the Chemical Lens
 created: 2026-04-28
 tags:
   - consciousness
@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-Simon G. Powell's *The Psilocybin Solution* presents the concept of the
+Simon G. Powell's *The [[powell-psilocybin-solution-ecological-cognition-theory]]* presents the concept of the
 **mutability of consciousness** as a foundational argument for why
 psychedelic mushrooms warrant serious scientific and philosophical
 investigation. The central thesis is that consciousness itself is mediated
@@ -65,7 +65,7 @@ Powell identifies a twofold virtue in investigating entheogenic agents:
    invisible to everyday awareness.
 
 2. **Understanding consciousness itself**: By analysing the subtle chemical
-   changes accompanying altered states, we can better comprehend how
+   changes accompanying [[weil-the-natural-mind-altered-states-normalcy]], we can better comprehend how
    normal consciousness works. The modus operandi of entheogenic
    substances reveals the delicate chemical mechanisms governing
    consciousness and our perceptions of reality.
@@ -95,7 +95,7 @@ In Powell's framework, naturally occurring entheogenic plants and fungi are
 positioned as the key to solving what he calls the "twin mysteries of
 consciousness and reality." Once ingested, these substances become
 intimately involved with the bridge between consciousness and the external
-world. The numinous experience they induce is characterised as a "real
+world. The [[powell-numinous-experience-and-psychedelic-awe]] they induce is characterised as a "real
 thing" that exists potentially at any rate.
 
 Powell contends that what emerges when one investigates entheogens is that
@@ -113,7 +113,7 @@ not be able to fully comprehend the nature of the reality process.
 
 This creates a scientific paradox: the very instrument of investigation
 (the mind) is itself poorly understood and potentially suboptimal for
-certain kinds of inquiry. Default Mode Network And Ego Dissolution
+certain kinds of inquiry. [[psilocybin-default-mode-network-ego-dissolution]] Network And [[psilocybin-ego-dissolution-mechanisms]]
 research has since provided neuroscientific evidence supporting Powell's
 claim that psilocybin alters the fundamental architecture of conscious
 experience.

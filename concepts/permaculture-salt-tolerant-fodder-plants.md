@@ -1,5 +1,5 @@
 ---
-title: Salt Tolerant Fodder and Landscape Plants
+title: Salt salt-tolerant-fodder-plants and Landscape Plants
 created: 2026-04-18
 updated: 2026-04-18
 sources: Permaculture Plants: A Selection (Juniper Hall)
@@ -11,7 +11,7 @@ type: concept
 
 ## Overview
 
-Salt affected land is an increasing problem in many agricultural regions. By maintaining a cover on salt affected land, the farmer can: reduce evaporation from the soil (by shading from sun and offering wind protection), reduce soil erosion from otherwise bared earth, and increase transpiration to lower the water table.
+Salt affected land is an increasing problem in many agricultural regions. By maintaining a cover on salt affected land, the farmer can: reduce evaporation from the soil (by shading from sun and offering [[cervantes-wind-protection-outdoor-cannabis]]), reduce soil erosion from otherwise bared earth, and increase transpiration to lower the water table.
 
 It is common practice in saline, waterlogged conditions to plant into mounds 200-300 mm above normal ground level. Such mounds can be fairly quickly created by use of a grader blade on a tractor. The mounds should, where possible, follow contours.
 
@@ -43,7 +43,7 @@ No treatment of grasses for pasture would be complete without accompanying legum
 
 **Trifolium fragiferum** (Strawberry Clover) -- Native to north Africa, in areas with rainfall over 300 mm. A creeping perennial adapted to heavy, poorly drained soils, often fairly saline and alkaline. Summer dormant and capable of withstanding long periods of total drought. Very salt tolerant.
 
-**Hedysarum carnosum** (Fleshy Sulla) -- A biennial native to Libya, Tunisia and Algeria with rainfalls from 100-350 mm. Occurs on medium to fine-textured saline and alkaline soils. Salt tolerance is high, with irrigation from waters having 8000-10000 ppm salt giving fair yields. Palatability to stock is high.
+**Hedysarum carnosum** (Fleshy Sulla) -- A biennial native to Libya, Tunisia and Algeria with rainfalls from 100-350 mm. Occurs on medium to fine-textured saline and alkaline soils. [[fungal-salt-tolerance-and-ion-homeostasis]] is high, with irrigation from waters having 8000-10000 ppm salt giving fair yields. Palatability to stock is high.
 
 **Hedysarum coronarium** (Sulla) -- A biennial native of north Africa and southern Italy. Requires deep, fine-textured calcareous soils. Fairly resistant to water stress, very sensitive to waterlogging, mild to fair resistance to salt. Minimum rainfall 350 mm. Yields of over 20 tonnes dry matter/ha/year possible. Potential as nectar producer for bee forage.
 
@@ -61,7 +61,7 @@ These plants concentrate salt onto the surface of their leaves and could be used
 
 **Atriplex undulata** (Wavy Leaf Saltbush) -- Native to Argentina, grows to 0.5 m tall and 2-3 m wide. Provides 900 sheep grazing days per hectare in a 350 mm rainfall area.
 
-**Atriplex canescens** (Four Winged Saltbush) -- Endemic to North America, grows to 1-3 m on dunes in central Utah. High growth rate. Nutrition 18-20% protein, digestibility 63.5%, with low toxicity even at increasing salinity.
+**Atriplex canescens** (Four Winged Saltbush) -- Endemic to [[psilocybin-north-america-pacific-northwest]], grows to 1-3 m on dunes in central Utah. High growth rate. Nutrition 18-20% protein, digestibility 63.5%, with low toxicity even at increasing salinity.
 
 ### Bluebush (Maireana spp)
 
@@ -83,7 +83,7 @@ Native to waterlogged saltlands of Western Australia. Important for the most sev
 
 **Casuarina spp** -- Several casuarina species tolerate saline conditions including Casuarina obesa (swamp sheoak), C. cristata (black sheoak), and C. glauca (swamp sheoak).
 
-**Melaleuca spp** -- Many paperbarks tolerate saline conditions including M. stypheloides, M. bracteata, M. thyroides, M. lanceolata, and M. preissiana. Many are valuable for honey and essential oils.
+**Melaleuca spp** -- Many paperbarks tolerate saline conditions including M. stypheloides, M. bracteata, M. thyroides, M. lanceolata, and M. preissiana. Many are valuable for honey and [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]].
 
 **Acacia spp** -- Numerous wattle species tolerate saline conditions including A. ampliceps, A. cyclops, A. ligulata, A. salicina, A. saligna, A. stenophylla, and A. pendula.
 
@@ -99,7 +99,7 @@ Native to waterlogged saltlands of Western Australia. Important for the most sev
 
 ### Ground Covers
 
-**Arctotis stoechadifolia** (African Daisy) -- This bushy, creeping perennial (to 25 cm) is native to South Africa. Half hardy to frost, extremely good sand binder. In sand it builds organic matter well. Survives hot dry summers. Proven to stabilise heavy soils such as dam walls.
+**Arctotis stoechadifolia** (African Daisy) -- This bushy, creeping perennial (to 25 cm) is native to South Africa. Half hardy to frost, extremely good sand binder. In sand it builds [[hamilton-composting-and-organic-matter-management]] well. Survives hot dry summers. Proven to stabilise heavy soils such as dam walls.
 
 **Arctostaphylos uva-ursi** (Bearberry, Kinnikinik) -- A trailing or creeping shrub (rarely exceeding 75 cm) of the northern temperate region. Frost hardy. Red berries usually eaten cooked, preserved or made into jams and jellies. Dried leaves used as tea.
 
@@ -114,8 +114,8 @@ Native to waterlogged saltlands of Western Australia. Important for the most sev
 ## Permaculture Integration
 
 - Use salt-tolerant grasses and legumes to reclaim [[permaculture-earthworks-and-water-harvesting]] for drainage and water table management
-- Combine with [[mollison-native-seed-forage-systems-and-arid-species-lists]]
+- Combine with mollison-native-seed-forage-systems-and-arid-species-lists
 - [[salt-tolerant-fodder-species]]
-- [[permaculture-plants-salt-tolerant-fodder-systems]]
+- permaculture-plants-salt-tolerant-fodder-systems
 
 - [[salt-tolerant-fodder-plants]]

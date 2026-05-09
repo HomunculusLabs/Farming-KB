@@ -1,5 +1,5 @@
 ---
-title: "Golden Teacher (Psilocybe cubensis)"
+title: "Golden Teacher (brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting)"
 created: 2026-04-28
 type: strain
 tags:
@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Stamets, P. (1996). *Psilocybin Mushrooms of the World*. Ten Speed Press.
+  - Stamets, P. (1996). *forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World*. Ten Speed Press.
   - Guzmán, G. (2005). *The Genus Psilocybe*. Verlag Von J. Cramer.
   - Tylš, F. et al. (2014). "Psilocybin: pharmacology and subjective effects." *Journal of Psychopharmacology*, 28(2), 141-150.
   - Carhart-Harris, R.L. et al. (2016). "Psilocybin with psychological support for treatment-resistant depression." *The Lancet Psychiatry*, 3(7), 619-627.
@@ -20,9 +20,9 @@ sources:
   - Erowid Psilocybin Mushroom Vault (erowid.org).
 ---
 
-# Golden Teacher (Psilocybe cubensis)
+# Golden Teacher ([[psilocybe-cubensis]])
 
-Golden Teacher is one of the most widely recognized and cultivated strains of *Psilocybe cubensis*, a psychedelic mushroom species containing the psychoactive compounds psilocybin and psilocin. Known for its distinctive golden-brown caps and its reputation as a forgiving strain for novice cultivators, Golden Teacher has become a foundational variety in both recreational and research contexts within the psychedelic mycology community.
+Golden Teacher is one of the most widely recognized and cultivated strains of *Psilocybe cubensis*, a [[archaeology-of-psychedelic-mushroom-use]] species containing the psychoactive compounds psilocybin and psilocin. Known for its distinctive golden-brown caps and its reputation as a forgiving strain for novice cultivators, Golden Teacher has become a foundational variety in both recreational and research contexts within the psychedelic mycology community.
 
 ## Taxonomy
 
@@ -36,7 +36,7 @@ Golden Teacher is one of the most widely recognized and cultivated strains of *P
 
 The precise origin of the Golden Teacher strain is not documented in the academic mycological literature. It emerged within the underground mycology and ethnobotanical community sometime in the late 1980s or early 1990s. The strain's name is attributed to the golden color of its mature caps and the perceived "wisdom" or philosophical insight often reported by those who consume it — a reputation that contributed significantly to its cultural appeal.
 
-Golden Teacher spore prints and syringes became widely available through ethnobotanical suppliers and online spore vendors in the early 2000s. Its ease of cultivation and reliable fruiting behavior cemented its status as one of the most popular *P. cubensis* strains alongside B+, Penis Envy, and Ecuador. It is frequently recommended as a beginner strain in cultivation guides and mycology forums such as Shroomery.org.
+Golden Teacher spore prints and syringes became widely available through ethnobotanical suppliers and online spore vendors in the early 2000s. Its ease of cultivation and reliable [[species-specific-cold-shock-and-fruiting-behavior-psilocybe-guide]] cemented its status as one of the most popular *P. cubensis* strains alongside B+, Penis Envy, and Ecuador. It is frequently recommended as a beginner strain in cultivation guides and mycology forums such as Shroomery.org.
 
 ## Morphology and Identification
 
@@ -47,7 +47,7 @@ Golden Teacher exhibits the classic *P. cubensis* morphology with some distingui
 - **Spore Print:** Dark purple-brown to nearly black. **Odor:** Farinaceous, not distinctive.
 - **Microscopic:** Spores elliptical to subovoid, 11–17 × 7–12 µm, thick-walled, with distinct germ pore.
 
-**Caution:** Golden Teacher should not be confused with toxic lookalikes such as *Galerina marginata* (deadly) or other non-psychoactive species. Accurate identification requires careful examination of spore print color, bruising reaction, gill attachment, and microscopic features.
+**Caution:** Golden Teacher should not be confused with toxic lookalikes such galerina marginata nata* (deadly) or other non-psychoactive species. Accurate identification requires careful examination of spore print color, bruising reaction, gill attachment, and microscopic features.
 
 ## Potency Profile
 
@@ -65,7 +65,7 @@ Golden Teacher is prized for its resilience and adaptability, making it suitable
 
 ### PF Tek (Psilocybe Fanaticus Technique)
 
-The simplest and most accessible method for home cultivation. Brown rice flour and vermiculite are combined in half-pint mason jars, sterilized via pressure cooking (90 minutes at 15 PSI), inoculated with spore syringes or liquid culture, and incubated at 23–27°C until fully colonized. Colonized cakes are then placed in a fruiting chamber with elevated humidity (90%+) and ambient light to initiate fruiting. Golden Teacher reliably fruits on this simple substrate.
+The simplest and most accessible method for home cultivation. Brown rice flour and vermiculite are combined in half-pint mason jars, sterilized via pressure cooking (90 minutes at 15 PSI), inoculated with spore syringes or liquid culture, and incubated at 23–27°C until fully colonized. Colonized cakes are then placed i [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] mber with elevated humidity (90%+) and ambient light to initiate fruiting. Golden Teacher reliably fruits on this simple substrate.
 
 ### Grain Spawn
 
@@ -73,7 +73,7 @@ Rye grain, wheat berries, or millet are hydrated, loaded into quart jars, steril
 
 ### Bulk Substrates
 
-For higher yields, fully colonized grain spawn is mixed with pasteurized bulk substrates such as coconut coir and vermiculite (CVG), aged horse or cow manure, or straw-based mixes. Common ratios range from 1:2 to 1:4 (spawn:substrate by volume). Spawned tubs are colonized in the dark and then introduced to fruiting conditions (fresh air exchange, high humidity, indirect light). Golden Teacher is known to produce large, robust flushes on bulk substrates with minimal contamination risk.
+For higher yields, fully colonized grain spawn is mixed with pasteurized bulk substrates such as coconut coir and vermiculite (CVG), aged horse or cow manure, or straw-based mixes. Common ratios range from 1:2 to 1:4 (spawn:substrate by volume). Spawned tubs are colonized in the dark and then in fruiting conditions g conditions (fresh air exchange, high humidity, indirect light). Golden Teacher is known to produce large, robust flushes on bulk substrates with minimal contamination risk.
 
 Optimal environmental parameters include temperatures of 23–27°C for colonization and 20–24°C for fruiting, relative humidity above 90%, and 12 hours of indirect light per day.
 
@@ -106,7 +106,7 @@ The effects of Golden Teacher are characteristic of psilocybin-containing mushro
 
 ## Therapeutic Potential
 
-Psilocybin, the primary psychoactive compound in Golden Teacher, has been the subject of a significant resurgence in clinical research since the 2000s. Key findings include:
+Psilocybin, the primary psychoactive compound in Golden Teacher, has been the subject of a significant resurgence in [[hofmann-lsd-clinical-research-early-studies]] since the 2000s. Key findings include:
 - **Treatment-resistant depression:** Rapid and sustained antidepressant effects demonstrated by Carhart-Harris et al. (2016, 2021), persisting months after limited sessions.
 - **End-of-life anxiety:** Johns Hopkins and NYU studies show significant reduction in anxiety/depression in cancer patients.
 - **Addiction:** Promising abstinence rates for smoking cessation and alcohol dependence.
@@ -124,7 +124,7 @@ Legal status varies significantly by jurisdiction:
 - **International:** Scheduled under the 1971 UN Convention; Portugal and others have decriminalized personal possession.
 
 ## Harm Reduction
-Responsible use of Golden Teacher and other psilocybin mushrooms involves several key harm-reduction principles:
+Responsible use of Golden Te psilocybin mushrooms ocybin mushrooms involves several key harm-reduct [[set-and-setting]]
 - **Set and setting:** Mindset and environment are the strongest predictors of experience quality. Choose a calm, familiar space with trusted individuals.
 - **Dosing:** Start low and go slow. Weigh accurately. Avoid mixing with alcohol, other psychedelics, or MAOIs.
 - **Screening:** Individuals with personal/family history of psychotic disorders should avoid psychedelics due to elevated risk.

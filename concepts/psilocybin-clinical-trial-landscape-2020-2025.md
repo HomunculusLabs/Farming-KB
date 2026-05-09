@@ -37,7 +37,7 @@ Two pivotal Phase III trials (COMP001 and COMP002) enrolled approximately 900 pa
 ### United States
 
 - **Breakthrough Therapy Designation**: FDA granted Breakthrough Therapy Designation to COMP360 for TRD in 2018 (expanded in 2023), expediting development and regulatory review
-- **DEA Research Registrations**: Multiple research sites received Schedule I registrations, enabl[[psilocybin-clinical-trials]]ials
+- **DEA Research Registrations**: Multiple research sites received Schedule I registrations, enablials
 - **State-level rescheduling**: Oregon Measure 109 (2020) created the first regulated psilocybin therapy program in the US, with licensed facilitators administering psilocybin in approved settings. Colorado Proposition 122 (2022) followed with a broader natural medicine framework
 - **FDA Advisory Committee (2025)**: An FDA Psychopharmacologic Drugs Advisory Committee meeting reviewed COMP360's NDA data. The committee vote and subsequent FDA action will determine whether psilocybin becomes the first psychedelic approved for medical use in the US.
 
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

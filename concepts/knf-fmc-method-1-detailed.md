@@ -1,5 +1,5 @@
 ---
-title: "KNF Fermented Mixed Compost Method-1 Detailed"
+title: "KNF cho-fermented-mixed-compost-methods Compost Method-1 Detailed"
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-Fermented Mixed Compost (FMC) is the primary soil amendment in Korean Natural Farming. Method-1 is the detailed, temperature-monitored composting process that produces high-quality humus for soil building. Unlike conventional composting, FMC Method-1 follows a strict turning schedule based on internal temperature readings, with the goal of completing fermentation in approximately 20 days while maintaining sweet-smelling, aerobic conditions.
+Fermented Mixed Compost (FMC) is the primary soil amendment in Korean [[comparison-natural-farming-vs-permaculture]]. Method-1 is the detailed, temperature-monitored composting process that produces high-quality humus for soil building. Unlike conventional composting, FMC Method-1 follows a strict turning schedule based on internal temperature readings, with the goal of completing fermentation in approximately 20 days while maintaining sweet-smelling, aerobic conditions.
 
 ## Overview
 
@@ -25,7 +25,7 @@ The success of FMC Method-1 depends entirely on temperature management:
 - **Target fermentation range:** 40-50C
 - **Turning trigger:** Turn when temperature reaches 50C
 - **Maximum temperature:** NEVER allow temperature to exceed 70C
-- **Danger zone:** Above 70C, beneficial microbes die and the compost quality deteriorates
+- **Danger zone:** Above 70C, beneficial microbes die and the [[aact-compost-quality-standards-ingham]] deteriorates
 
 ### Why Temperature Matters
 
@@ -98,7 +98,7 @@ The pile must be turned at specific times based on temperature readings:
 ### Timing
 
 - Best applied before planting or during early growth stages
-- Can be applied as a top dressing during the growing season
+- Can be applied as a top dressing during the [[savory-growing-season-and-non-growing-season-management]]
 - Avoid applying during heavy rain (nutrient loss through runoff)
 - Can be applied to established orchard trees at any time except during dormancy
 

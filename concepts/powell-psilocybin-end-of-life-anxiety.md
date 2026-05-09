@@ -1,7 +1,7 @@
 ---
 title: "Psilocybin and End-of-Life Anxiety"
 created: 2026-04-26
-sources: "The Psilocybin Solution — Simon G. Powell"
+sources: "The powell-psilocybin-solution-ecological-cognition-theory — Simon G. Powell"
 author: "Simon G. Powell"
 topics: ["existential-anxiety", "death", "mortality", "psilocybin", "mystical-experience"]
 type: concept
@@ -33,7 +33,7 @@ fundamentally incomplete.
 
 ## The Inseparability of Life and Death
 
-Powell presents Claudio Naranjo's analysis of ayahuasca visions, which speaks directly to the
+Powell presents Claudio Naranjo's analysis of [[amaringo-ayahuasca-visions-shipibo-iconography]], which speaks directly to the
 existential confrontation with mortality. Naranjo concluded that the consciousness stimulated
 by ayahuasca involved "an intuition of the inseparability of life and death, an apprehension of
 life as a self-consuming and self-devouring living-into-death or dying-into-life."
@@ -47,13 +47,13 @@ than amplifying it.
 
 ## The Sense of Eternity and Timelessness
 
-Powell documents the experiences of Reverend S.J. from the Good Friday experiment's 25-year
+Powell documents the experiences of Reverend S.J. from the Good [[good-friday-experiment-marsh-chapel]]'s 25-year
 follow-up study: "All of a sudden I felt sort of drawn out into infinity....I felt that I was
 caught up in the vastness of creation....I did experience that...classic kind of blending....the
 main thing about it was a sense of timelessness."
 
 This sense of timelessness and connection to something vast is precisely the kind of mystical
-experience that modern clinical research has identified as the key mediator of reduced death
+experience that modern [[hofmann-lsd-clinical-research-early-studies]] has identified as the key mediator of reduced death
 anxiety in terminal patients. The experience shifts one's relationship from "I am a body that
 will die" to "I am part of an eternal process." The temporal boundaries that define mortality
 become permeable or dissolve entirely.
@@ -93,14 +93,14 @@ reality process. This is the antidote to existential anxiety: if consciousness i
 but is somehow central to the nature of reality, then the individual conscious being is not a
 meaningless speck but a participant in something fundamentally significant.
 
-Psilocybin provides experiential evidence for this position. The numinous experience it induces
+Psilocybin provides experiential evidence for this position. The [[powell-numinous-experience-and-psychedelic-awe]] it induces
 "exists, potentially at any rate" — it is a real phenomenon accessible to anyone who ingests
 the mushroom. The experience can be verified or falsified by direct investigation, making it
 fundamentally different from mere belief or speculation about death and meaning.
 
 ## Psychological Struggles as Growth
 
-Powell acknowledges that the psychedelic experience involves "psychological struggles" — one
+Powell acknowledges that the [[leary-psychedelic-experience-bardo-mapping]] involves "psychological struggles" — one
 sees oneself clearly without superficial trappings, confronts bad habits and neuroses. But he
 frames these struggles not as harms but as necessary growth: "the tenet 'know thyself' is bound
 up with all spiritual disciplines." This reframing of psychological difficulty as an opportunity

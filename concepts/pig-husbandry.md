@@ -4,14 +4,15 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [animal-husbandry, homesteading, livestock, byproducts, livestock-health, forage]
-sources: []
+sources:
+  sources: []
 ---
 
 # Pig Husbandry
 
 Pigs are extraordinarily productive homestead livestock. They grow fast,
 convert feed efficiently, and produce excellent meat. Their rooting behavior
-can be harnessed for land clearing and tillage, and their manure is among
+can be harnessed for [[urban-permaculture-pig-land-clearing]] and tillage, and their manure is among
 the most nutrient-rich available. Pigs are intelligent and require secure
 fencing and thoughtful management.
 
@@ -19,7 +20,7 @@ fencing and thoughtful management.
 
 ### Heritage Breeds (Recommended for Homesteads)
 - **Berkshire** — Excellent meat quality, marbled, dark-fleshed. Known as
-  Kurobuta in Japan. Good mothers, moderate growth rate.
+  Kurobuta in Japan. Good mothers, moderate [[soil-temperature-plant-growth-rate-doubling-rule]].
 - **Tamworth** — Long-bodied, bacon-type. Excellent foragers, hardy, good
   mothers. Red-gold color.
 - **Large Black** — Docile, excellent foragers, good lard-type pigs. Black
@@ -51,7 +52,7 @@ fencing and thoughtful management.
 - Provide shade — pigs cannot sweat and are extremely heat-sensitive.
 
 ### Confinement (Not Recommended for Homesteads)
-- Concrete floors, slatted flooring, climate control. Higher capital cost,
+- Concrete floors, slatted flooring, [[mollison-pdc-trellis-systems-climate-control]]. Higher capital cost,
   more disease pressure.
 
 ### Farrowing Housing
@@ -70,7 +71,7 @@ Pigs are notorious for testing and destroying fencing.
 - Pigs will root under fences. Bury wire 6-12 inches or place logs/rocks
   along the bottom.
 - Electric fencing must be powerful — minimum 6 joules for perimeter.
-- Portable electric net fencing works for rotational grazing with pigs.
+- Portable electric net fencing works for [[comparison-rotational-grazing-vs-continuous-grazing]] with pigs.
 - Train piglets to electric fence early with a dedicated training paddock.
 
 ## Feeding
@@ -143,45 +144,7 @@ Pigs are notorious for testing and destroying fencing.
 - Signs of farrowing: restlessness, nesting behavior, vulva swelling, milk
   letdown (12-24 hours before).
 - Farrowing typically takes 2-6 hours. Piglets born every 10-20 minutes.
-- Dry each piglet immediately, clear airways, ensure first colostrum.
-- Dip navels in iodine.
-- Process piglets (iron injection, clip needle teeth, dock tails, castrate
-  males) within first 3 days.
-
-## Finishing
-
-### Grass-Fed/Pasture-Finished
-- Heritage breeds perform best on pasture-based systems.
-- Longer finishing period (8-12 months vs 5-6 months grain-fed).
-- Leaner meat, different flavor profile. Often commands premium price.
-- Supplement with grain for last 60-90 days to improve marbling.
-
-### Grain-Finished
-- Faster, more efficient. 5-6 months from birth to market.
-- Better marbling and conventional flavor.
-- Higher feed costs but shorter time to harvest.
-
-## Processing
-
-- Ideal harvest weight: 220-280 lbs live weight (160-200 lbs hanging).
-- On-farm slaughter is legal in most areas if done for personal use. See
-  [[animal-harvest-and-processing]].
-- Bacon, ham, sausage, lard, and hocks are high-value cuts.
-- Lard rendering: excellent cooking fat, soap making, and leather conditioning.
-
-## Manure and Byproducts
-
-- Pig manure is extremely nutrient-dense ("hot" manure). Must be composted
-  before garden use to avoid burning plants.
-- One pig produces roughly 10-15 lbs of manure per day.
-- Excellent nitrogen source for compost. Add to carbon-heavy piles.
-- Pig manure can be anaerobically digested for biogas production.
-
-## Links
-
-- [[goat-husbandry]]
-- [[cattle-husbandry]]
-- [[pasture-management]]
+## See Also
 - [[livestock-fencing-guide]]
 - [[livestock-feed-formulation]]
-- [[animal-harvest-and-processing]]
+- [[reforestation-with-pigs]]

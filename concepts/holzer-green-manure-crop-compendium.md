@@ -5,7 +5,7 @@ updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources: []
 ---
 
 # Holzer Green Manure Crop Compendium
@@ -19,12 +19,12 @@ A reference list of [[sepp-holzer-entity]], drawn from his practices at the Kram
 - Fixes large quantities of nitrogen
 - Breaks up compacted subsoil with powerful taproot
 - Drought-tolerant once established
-- Attracts bees and beneficial insects
+- Attracts bees and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - Use: between tree rows, on degraded land, as pioneer species
 
 ### Lupin (Lupinus sp.)
 - Annual or perennial depending on species
-- Very deep taproot (1-2 metres), excellent for breaking hardpan
+- Very deep taproot (1-2 metres), excellent for [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil]]
 - Fixes nitrogen efficiently
 - Attractive blue, white, or yellow flowers attract pollinators
 - Some species produce edible seeds
@@ -63,7 +63,7 @@ A reference list of [[sepp-holzer-entity]], drawn from his practices at the Kram
 ### White Clover (Trifolium repens)
 - Perennial, low-growing, spreading
 - Excellent permanent living mulch
-- Fixes nitrogen continuously through growing season
+- Fixes nitrogen continuously through [[savory-growing-season-and-non-growing-season-management]]
 - Tolerates foot traffic and mowing
 - Use: permanent ground cover, lawn alternative, orchard understory
 
@@ -109,7 +109,7 @@ A reference list of [[sepp-holzer-entity]], drawn from his practices at the Kram
 - Deep taproot brings up minerals
 - Attractive to birds and pollinators
 - Stalks provide winter mulch when left standing
-- Use: windbreak, biomass production, wildlife habitat
+- Use: windbreak, [[dighton-fungal-biomass-production-aquatic-ecosystems]], wildlife habitat
 
 ### Maize (Zea mays)
 - Tall annual cereal
@@ -123,7 +123,7 @@ A reference list of [[sepp-holzer-entity]], drawn from his practices at the Kram
 - Grows slowly through winter, rapid growth in spring
 - Extensive root system prevents erosion
 - Can be sown late in autumn
-- Use: winter cover crop, erosion control, early spring biomass
+- Use: winter cover crop, [[permplant-willows-salix-erosion-control-fodder]], early spring biomass
 
 ### Jerusalem Artichoke (Helianthus tuberosus)
 - Perennial, very vigorous
@@ -146,4 +146,4 @@ A reference list of [[sepp-holzer-entity]], drawn from his practices at the Kram
 - For biofumigation, chop mustard or radish finely and work lightly into top few centimetres
 
 ### Combination Planting
-- Mix legumes with non-legumes for balanced biomass and nutrient cycling
+- Mix legumes with non-legumes for balanced biomass and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]

@@ -10,7 +10,7 @@ sources:
 
 # David, Egypt, and the Census — Mushroom Word-Play
 
-Allegro demonstrates that many of the most familiar biblical narratives — David's census, the Exodus from Egypt, the story of the Passover, and the names of patriarchs and apostles — are elaborate word-plays constructed around secret Sumerian names of the sacred mushroom.
+Allegro demonstrates that many of the most familiar biblical narratives — David's census, the Exodus from Egypt, the story of the Passover, and the names of patriarchs and apostles — are elaborate word-plays constructed around secret Sumerian names of the [[allegro-the-sacred-mushroom-amanita-identification]].
 
 ## The "Egyptian Mushroom"
 
@@ -44,21 +44,22 @@ The prophet Agabus (Acts 21:10) took Paul's girdle and bound his own feet and ha
 
 ## The Cryptographic Pattern
 
-What emerges from Allegro's analysis is a consistent pattern: the New Testament writers took Sumerian mushroom names, transliterated them into Aramaic, spun out false but plausible-sounding "translations," and built stories around them. The same device appears in the Old Testament, where ancient mushroom names were given fancied Hebrew etymologies and spun into narrative. The method spans the entire biblical corpus.
+What emerges from Allegro's analysis is a consistent pattern: the New Testament writers took Sumerian [[sacred-mushroom-names-cross-cultural-synonyms]], transliterated them into Aramaic, spun out false but plausible-sounding "translations," and built stories around them. The same device appears in the [[allegro-old-testament-figures-as-fertility-deities]], where ancient mushroom names were given fancied Hebrew etymologies and spun into narrative. The method spans the entire biblical corpus.
 
 ## Scholarly Significance and Criticism
 
-Allegro's interpretation of death and resurrection mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
+Allegro's interpretation of [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
 
 ## See Also
 
 - [[allegro-philological-methodology]]
 - [[allegro-fungal-iconography-in-ancient-art]]
-- [[controversy-sacred-mushroom-theory]]
-- [[sacred-mushroom-and-the-cross]], which proposed that the major religions of the ancient Near East and Mediterranean world were ultimately derived from a proto-historical mushroom cult. While this thesis has not gained acceptance in mainstream scholarship, it continues to be discussed in the field of entheogenic studies and has influenced contemporary debates about the role of psychoactive substances in the development of religious ideas.
+- controversy-sacred-mushroom-theory
+- [[sacred-mushroom-and-the-cross]], which proposed that the major religions of the [[allegro-fertility-philosophy-of-the-ancient-near-east]] East and Mediterranean world were ultimately derived from a proto-historical [[african-mushroom-cult-history]]. While this thesis has not gained acceptance in mainstream scholarship, it continues to be discussed in the field of entheogenic studies and has influenced contemporary debates about the role of psychoactive substances in the development of religious ideas.
 
 The question of whether ancient peoples used psychoactive mushrooms in religious contexts is separate from the question of whether Allegro's specific philological claims are correct. Archaeological evidence for psychoactive plant use in antiquity has grown substantially since Allegro's work was published, and the [[psychedelic-therapy-current-research]], has renewed interest in the historical relationship between psychoactive substances and religious experience. While Allegro's specific claims about Sumerian and Hebrew philology remain controversial, his broader argument that psychoactive plants played a significant role in the development of human religious consciousness has found new support from researchers investigating the neuroscience of mystical experience and the anthropology of shamanism.
 - [[allegro-womans-part-in-the-creative-process]]
+
 ## Practical Considerations
 
 Successful implementation of David, Egypt, and the Census — Mushroom Word-Play (Allegro) requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

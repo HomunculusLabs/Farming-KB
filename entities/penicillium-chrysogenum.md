@@ -19,9 +19,9 @@ Penicillium chrysogenum is one of the most historically significant
 fungal species in the history of science and medicine. It is the
 original source of penicillin, the first widely used antibiotic, whose
 discovery by Alexander Fleming in 1928 revolutionized the treatment of
-bacterial infections and earned Fleming, Florey, and Chain the Nobel
+[[cannabis-for-bacterial-infections-and-mrsa]] and earned Fleming, Florey, and Chain the Nobel
 Prize in 1945. The species belongs to the Eurotiales order and is a
-cosmopolitan saprobe found in soil, decaying organic matter, and
+cosmopolitan saprobe found in soil, decaying [[hamilton-composting-and-organic-matter-management]], and
 indoor environments. The source text specifically cites P. chrysogenum
 as an example of a fungus that has had a major impact on human
 civilization as a source of medicine.
@@ -83,7 +83,7 @@ civilization as a source of medicine.
   pcbC, and penDE
 - Industrial strains produce penicillin G (benzylpenicillin) and
   penicillin V (phenoxymethylpenicillin)
-- Strain improvement continues through classical mutagenesis
+- [[mushroom-strain-improvement-and-breeding-methods]] continues through classical mutagenesis
   and modern genome engineering approaches
 
 ### Biotechnological Applications
@@ -107,7 +107,7 @@ civilization as a source of medicine.
 
 ### Research Methods
 - Standard isolation on Czapek-Dox agar or malt extract agar
-- Molecular identification via ITS rDNA and beta-tubulin
+- [[biodiversity-fungal-molecular-identification-dna-barcoding]] via ITS rDNA and beta-tubulin
   gene sequencing
 - HPLC analysis of fermentation products
 - Genome sequencing and comparative genomics

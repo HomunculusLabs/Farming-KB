@@ -1,5 +1,5 @@
 ---
-title: "Aquatic Edge and Planted Wetland Design"
+title: "mollison designers aquatic edge planted wetland design and Planted Wetland Design"
 created: 2026-04-28
 tags:
   - permaculture
@@ -20,8 +20,8 @@ Bill Mollison's [[mollison-designers-mixed-orchard-design-species-selection]] be
   retention and microclimate moderation near ponds
 - [[mollison-designers-beekeeping-honey-production-permaculture]] gains from wetland
   forage plants such as water mint and buttonbush
-- [[permaculture-designers-manual-bamboo]] -- source reference
-- gaias garden edge effect -- productivity of boundary zones
+- permaculture-designers-manual-bamboo -- source reference
+- gaias garden [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]] -- productivity of boundary zones
 - [[keyline-design]] -- broader water management context
 ## Practical Applications
 
@@ -101,3 +101,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[mollison-designers-chinampa-wetland-garden-system]]

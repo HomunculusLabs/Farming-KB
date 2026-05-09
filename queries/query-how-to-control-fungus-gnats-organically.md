@@ -9,13 +9,15 @@ tags:
   - indoor-growing
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---
 # How to Control Fungus Gnats Organically
 ## Comprehensive Guide for Indoor Gardens and Mushroom Grows
 Fungus gnats are one of the most common and frustrating pests in indoor
-gardens, greenhouses, and mushroom cultivation setups. These tiny flies
+gardens, greenhouses, and [[accessible-mushroom-cultivation-for-disabilities]] setups. These tiny flies
 are more than a nuisance; their larvae actively damage root systems and
 create entry points for devastating soil-borne pathogens. A solid
 organic control strategy combines prevention, monitoring, and multiple
@@ -45,13 +47,13 @@ Prevention is the first line of defense against fungus gnats:
   gnat infestations. Allow the top inch of soil to dry between
   waterings. Fungus gnats require moist conditions to reproduce.
 - **Dry top layer**: Maintain a dry top layer by using a mulch of sand,
-  perlite, or diatomaceous earth. See [[beneficial-insects-guide]] for application rates and sourcing.
-- **Bacillus thuringiensis var. israelensis (Bti)**: A soil-dwelling
+  perlite, or diatomaceous earth. See [[beneficial-insects-guide]] for [[ingham-compost-tea-application-rates-and-timing]] and sourcing.
+- **[[cervantes-bacillus-thuringiensis-bt-control]] var. israelensis (Bti)**: A soil-dwelling
   bacterium that produces toxins lethal to fungus gnat larvae when
   ingested. Available as Mosquito Bits or Gnatrol, Bti is mixed into
   water and applied as a drench. It is safe for plants, humans, and
   beneficial organisms.
-- **Hypoaspis miles (Stratiolaelaps scimitus)**: These predatory mites
+- **Hypoaspis miles (Stratiolaelaps scimitus)**: These [[comparison-predatory-mites-vs-ladybugs-biocontrol]]
   live in the top layer of soil and feed on fungus gnat larvae and pupae.
   They are effective preventively and can survive long periods without
   prey. Release them early in the grow cycle.
@@ -61,13 +63,13 @@ Prevention is the first line of defense against fungus gnats:
 - **Pyrethrin**: Derived from chrysanthemum flowers, pyrethrin provides
   fast knockdown of adult gnats. Use as a foliar spray in the evening
   to protect pollinators. It degrades quickly in sunlight.
-- **Hydrogen peroxide drench**: A 3% hydrogen peroxide solution diluted
+- **[[cervantes-hydrogen-peroxide-sterilization]] drench**: A 3% hydrogen peroxide solution diluted
   1:4 with water can kill larvae on contact while oxygenating the root
   zone. Use sparingly to avoid harming beneficial soil biology.
 ## Root Damage and Secondary Pathogens
 Fungus gnat larvae cause direct damage by feeding on root hairs and
 tender root tissue, reducing the plant's ability to uptake water and
-nutrients. Infested plants may show symptoms of nutrient deficiency,
+nutrients. Infested plants may show symptoms of [[cannabis-grow-nutrient-deficiency-problem-solving]],
 wilting, and stunted growth. More critically, the feeding wounds created
 by larvae serve as entry points for soil-borne pathogens. [[integrated-pest-management]]
 principles, provides sustainable, long-term fungus gnat control without
@@ -91,3 +93,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[query-how-do-i-control-tomato-blight]]

@@ -12,7 +12,7 @@ updated: 2026-04-28
 sources:
   - Leafly Staff. (2023). "Liquid Gelato Strain Information." Leafly.com.
   - AllBud. (2024). "Liquid Gelato Cannabis Strain Review." AllBud.com.
-  - Cannabis Genetics Database. (2024). "Gelato Lineage and Descendants." Strainbank.com.
+  - [[vic-high-cannabis-genetics-mendelian-inheritance]] Database. (2024). "Gelato Lineage and Descendants." Strainbank.com.
   - Wikileaf. (2024). "Liquid Gelato Strain Report." Wikileaf.com.
 created: 2026-04-28
 ---
@@ -65,7 +65,7 @@ Some phenotypes express a subtle mint or cookie dough quality on the finish, rei
 
 Secondary terpenes include myrcene, humulene, and pinene. The profile is heavily weighted toward sweet, floral monoterpenes characteristic of the Gelato line.
 
-Limonene and linalool together comprise an estimated 2–3% of the total terpene fraction by weight, with caryophyllene adding peppery depth and contributing to the entourage effect.
+Limonene and linalool together comprise an estimated 2–3% of the total terpene fraction by weight, with caryophyllene adding peppery depth and contributing to the [[cannabis-terpene-entourage-effect-profiles]].
 
 **THC content** typically ranges from 25–30%, with select phenotypes reported above 30% under optimal cultivation. CBD content is generally below 0.1%, making this a THC-dominant variety. Minor cannabinoids including CBG and CBC may be present in trace amounts depending on harvest timing.
 
@@ -85,15 +85,15 @@ Less common but noted effects include mild visual distortion, enhanced appreciat
 
 ## Cultivation
 
-Liquid Gelato is considered moderately difficult to cultivate, requiring attention to nutrient management and environmental control to achieve optimal resin production.
+Liquid Gelato is considered moderately difficult to cultivate, requiring attention to [[green-cannabis-grow-bible-nutrient-management-ppm]] and [[eclss-environmental-control-life-support]] to achieve optimal resin production.
 
 It performs best indoors under controlled conditions but can be grown outdoors in Mediterranean climates with low humidity during the final flowering weeks.
 
-Flowering time is approximately 8–9 weeks indoors. Plants exhibit moderate stretch during the early flowering phase and respond well to low-stress training and scrog techniques.
+Flowering time is approximately 8–9 weeks indoors. Plants exhibit moderate stretch during the early [[green-cannabis-grow-bible-flowering-phase-and-harvest]] and respond well to low-stress training and scrog techniques.
 
 Indoor yields range from 400–500 g/m² under optimal conditions. The strain benefits from cooler night temperatures (18–20°C) during the final two weeks to enhance color and terpene development.
 
-Plants are susceptible to powdery mildew in high-humidity environments, requiring adequate airflow and spacing. Spider mites can be an issue during vegetative growth, particularly in indoor operations with poor integrated pest management.
+Plants are susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in high-humidity environments, requiring adequate airflow and spacing. Spider mites can be an issue during vegetative growth, particularly in indoor operations with poor integrated pest management.
 
 The strain has moderate nutrient requirements, responding well to phosphorus and potassium supplementation during early flowering. Overfeeding, particularly with nitrogen, can reduce terpene production and delay maturation.
 
@@ -111,6 +111,6 @@ The sedating body effects make it a candidate for insomnia management, with pati
 
 - [[girl-scout-cookies]]
 - [[biscotti-cannabis]]
-- [[wedding-cake-cannabis]]
+- [[wedding-cake]]
 - [[gary-payton-cannabis]]
 - [[georgia-pie]]

@@ -1,16 +1,17 @@
 ---
-title: Holzer Ancient Cereals Growing
+title: Holzer holzer ancient cereals growing Growing
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Ancient Cereals Growing
 
-Sepp Holzer grows ancient grain varieties at his Krameterhof farm at 1,000-1,500 meters altitude in Austria. These traditional varieties are well-suited to marginal conditions and require minimal inputs.
+[[comparison-sepp-holzer-vs-biodynamic]] grows [[permaculture-quinoa-growing-guide]] varieties at his Krameterhof farm at 1,000-1,500 meters altitude in Austria. These traditional varieties are well-suited to marginal conditions and require minimal inputs.
 
 ## Ancient Grain Varieties
 
@@ -38,7 +39,7 @@ Sepp Holzer grows ancient grain varieties at his Krameterhof farm at 1,000-1,500
 
 ### Other Cereals
 - Sorghum (Sorghum dochna): annual, prefers sunny areas
-- Oats and wheat also grown as green manure and feed
+- Oats and wheat also grown as [[comparison-green-manure-guide-vs-mulch-types-and-effects]] and feed
 
 ## Growing Conditions
 
@@ -47,12 +48,12 @@ Sepp Holzer grows ancient grain varieties at his Krameterhof farm at 1,000-1,500
 - Excess nitrogen (from fertilised soil) raises nitrogen levels beyond what plants can cope with
 - Easier to grow ancient grain in a gravel pit than on fertilised garden soil
 - Well-suited to high-altitude terraces
-- Sow cereals on terraces already planted with fruit trees for polyculture
+- Sow cereals on terraces already planted with [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] for polyculture
 
 ## Green Manure Use
 
 Cereals serve multiple purposes:
-- Green manure crops: sow on new plots as pioneer plants because they are undemanding and fast-growing
+- Green [[green-manure-crops-detailed]]: sow on new plots as pioneer plants because they are undemanding and fast-growing
 - Feed grain: sown in paddocks as mixture of cereals, legumes, and root crops
 - Sow paddocks with cereal/legume/root crop mixture and do not harvest
 - Crops provide best feed for cattle and pigs in short time with minimal energy input
@@ -97,3 +98,9 @@ This stands as an example against today's throw-away culture.
 See also: [[small-scale-grain-growing]], [[grain-processing-and-milling-guide]], [[sepp-holzer-soil-fertility-and-green-manure]]
 - holzer ancient cereals growing
 - [[holzer-green-manure-and-soil-building-plants]]
+
+## See Also
+
+- [[secale-cereale]]
+
+- [[holzer-saving-ancient-trees]]

@@ -5,6 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [gardening]
 sources:
+  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Contamination Prevention in The Mushroom Cultivator
@@ -14,15 +15,15 @@ Updated: 2026-04-18
 
 ## Overview
 
-Contamination is the central challenge of mushroom cultivation. The air we breathe is a living sea of microscopic organisms -- fungi, bacteria, viruses and plants use the atmosphere to carry their offspring. In creating a sterile environment, the cultivator seeks to give advantage to the mushroom over myriad competitors. As Stamets states: "skill in mushroom culture is tantamount to skill in contamination control."
+Contamination is the central challenge of [[accessible-mushroom-cultivation-for-disabilities]]. The air we breathe is a living sea of microscopic organisms -- fungi, bacteria, viruses and plants use the atmosphere to carry their offspring. In creating a sterile environment, the cultivator seeks to give advantage to the mushroom over myriad competitors. As Stamets states: "skill in [[mazatec-mushroom-culture-and-velada]] is tantamount to skill in contamination control."
 
 ## Five Primary Sources of Contamination
 
 1. **The immediate external environment** -- airborne spores and microorganisms
-2. **The culture medium** -- grain, agar, or substrate materials
+2. **The culture medium** -- grain, agar, or [[growing-gourmet-substrate-materials-wood-types]]
 3. **The culturing equipment** -- tools, containers, filters
 4. **The cultivator** -- clothes, skin, breath (humans are major contamination vectors)
-5. **The mushroom spores or mycelium** -- the culture material itself
+5. **The [[query-how-to-store-mushroom-spores-long-term]] or mycelium** -- the culture material itself
 
 ## Sterile Laboratory Design
 
@@ -98,7 +99,7 @@ Major contributors: materials used, the spawn, the workers, the facilities:
 
 ### Cropping Stage
 
-Stagnant air pockets breed contaminants like Trichoderma and Pseudomonas (Bacterial Blotch):
+Stagnant air pockets breed contaminants like Trichoderma and Pseudomonas ([[growing-gourmet-bacterial-blotch-disease-management]]):
 - Maintain air movement across all cropping surfaces
 - Avoid over-watering mushroom caps (wet caps are prime disease sites)
 - Lower humidity and run casing drier than normal during disease outbreaks
@@ -133,7 +134,7 @@ The Mushroom Cultivator identifies over 30 specific contaminants including:
 
 ## See Also
 
-- [[mushroom-contaminant-identification-key]] -- contaminant identification
-- [[stamets-sterile-laboratory-design]] -- laboratory design details
+- [[mushroom-contaminant-identification-key]] -- [[mushroom-contaminant-identification-key]]
+- stamets-sterile-laboratory-design -- laboratory design details
 - [[bacteria-and-microorganisms-in-mushroom-fruiting]] -- bacteria in fruiting
-- [[sterile-technique-mushroom-cultivation]]
+- [[mushroom-cultivation-sterile-technique]]

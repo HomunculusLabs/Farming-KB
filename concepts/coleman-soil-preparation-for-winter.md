@@ -1,5 +1,5 @@
 ---
-title: "Soil Preparation for Winter Crops"
+title: "Soil Preparation for coleman-semi-hibernating-winter-crops-harvest-extension"
 created: 2026-04-28
 tags: [soil, compost, amendments, fall-preparation, winter-harvest]
 date: 2026-04-25
@@ -30,7 +30,7 @@ or through the broadforking process described in
   temperatures drop.
 - **Potassium:** Greensand or sulfate of potash-magnesia (sul-po-mag)
   to support disease resistance and cold tolerance.
-- **Trace minerals:** Azomite, kelp meal, or a broad-spectrum trace
+- **Trace minerals:** Azomite, [[comparison-kelp-meal-vs-rock-dust]], or a broad-spectrum trace
   mineral mix to ensure micronutrient availability.
 - **Calcium:** Gypsum (calcium sulfate) if calcium is deficient
   without requiring a pH adjustment.
@@ -49,7 +49,7 @@ slightly crowned to shed excess water. For direct-seeded crops, the
 surface is further refined with a fine-tined rake to create a uniform
 seedbed.
 
-The final bed preparation should leave the soil surface friable and
+The final [[azurescens-outdoor-bed-preparation-woodchips]] should leave the soil surface friable and
 level. Large clods are broken up, and stones or debris are removed.
 This is especially important for small-seeded crops like lettuce and
 brassica greens where even soil contact is critical for germination.
@@ -65,7 +65,7 @@ harvesting during wet conditions. Coleman takes several precautions:
   weight during harvesting or maintenance in wet conditions.
 - **Working soil when dry:** Bed preparation is completed in late
   summer or early fall when soil moisture is moderate. Once beds are
-  prepared, they are protected from heavy rain with row covers or
+  prepared, they are protected from heavy rain with [[solomon-row-covers-and-season-extension]] or
   temporary polyethylene covers until crops are established.
 - **Mulching:** A thin layer of straw or leaf mulch between rows
   protects the soil surface from rain impact and compaction.
@@ -75,15 +75,17 @@ harvesting during wet conditions. Coleman takes several precautions:
 Healthy soil biology contributes to winter crop success. Mycorrhizal
 fungi extend the effective root zone of crops, improving nutrient
 access during cold periods. Beneficial bacteria and fungi compete with
-pathogens and decompose organic matter into plant-available forms.
+pathogens and decompose [[hamilton-composting-and-organic-matter-management]] into plant-available forms.
 
 Coleman supports soil biology through consistent compost additions,
 minimal tillage, and the avoidance of synthetic fertilizers and
-pesticides that disrupt microbial communities. Cover cropping during
+pesticides that disrupt microbial communities. [[fukuoka-clover-cover-cropping-soil-ecology]] during
 fallow periods maintains living roots in the soil, which feed
 [[coleman-moveable-greenhouse-system]] where beds are periodically
 exposed to open conditions and need active soil building.
 
 ## See Also
+
+- [[coleman-winter-carrots]]
 
 - [[coleman-winter-harvest-planting-schedule]]

@@ -1,5 +1,5 @@
 ---
-title: Ericoid and Orchid Mycorrhizae
+title: Ericoid and comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Ericoid and orchid mycorrhizae are two specialized types of mycorrhizal symbiosis adapted to challenging environments. Ericoid mycorrhizae (ERM) enable plants in the Ericaceae family to thrive in acidic, nutrient-poor soils, while orchid mycorrhizae (OM) are essential for orchid seed germination and early development, with some orchids remaining fully mycoheterotrophic throughout their lives. Based on *Symbiotic Fungi*.
+Ericoid and orchid mycorrhizae are two specialized types of [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] adapted to challenging environments. Ericoid mycorrhizae (ERM) enable plants in the Ericaceae family to thrive in acidic, nutrient-poor soils, while orchid mycorrhizae (OM) are essential for orchid seed germination and early development, with some orchids remaining fully mycoheterotrophic throughout their lives. Based on *Symbiotic Fungi*.
 
 ## Ericoid Mycorrhizae (ERM)
 
@@ -33,7 +33,7 @@ ERM fungal partners are primarily ascomycetes:
 ### Functions and Benefits
 - **Nitrogen nutrition**: ERM fungi can access organic nitrogen sources (proteins, amino acids, chitin) that are unavailable to non-mycorrhizal plants. This is critical in acidic soils where mineralization is slow and ammonium dominates.
 - **Phosphorus uptake**: Enhanced phosphorus acquisition from organic and inorganic sources
-- **Heavy metal tolerance**: ERM associations confer tolerance to aluminum and other toxic metals common in acidic soils
+- **Heavy [[fungal-metal-tolerance-mechanisms]]**: ERM associations confer tolerance to aluminum and other toxic metals common in acidic soils
 - **Protection from pathogens**: Mycorrhizal roots are less susceptible to soilborne pathogens
 - **Decomposition**: ERM fungi produce proteases, phosphatases, and other enzymes that break down complex organic matter
 
@@ -67,7 +67,7 @@ Orchid seeds are microscopic and contain essentially no stored nutrients. Germin
 ### Nutrition Modes
 - **Autotrophic**: Most mature orchids photosynthesize but may still receive carbon from fungi
 - **Mixotrophic**: Partially photosynthetic, partially fungal-dependent
-- **Fully mycoheterotrophic**: Non-photosynthetic orchids that obtain all carbon from fungi. These often associate with ectomycorrhizal fungi that are simultaneously connected to trees, effectively creating a tripartite carbon transfer pathway: tree to ECM fungus to orchid
+- **Fully mycoheterotrophic**: Non-photosynthetic orchids that obtain all carbon from fungi. These often associate with ectomycorrhizal fungi that are simultaneously connected to trees, effectively creating a tripartite [[singh-mycorrhizal-network-carbon-transfer-plants]] pathway: tree to ECM fungus to orchid
 
 ### Specificity
 Orchid-fungal specificity varies widely:
@@ -80,7 +80,7 @@ Orchid-fungal specificity varies widely:
 - Habitat destruction disrupts orchid-fungal associations
 - Collection of wild orchids often fails because fungal partners are absent
 - Propagation for conservation requires understanding of specific fungal requirements
-- Climate change may disrupt phenological synchrony between orchids and fungi
+- [[dighton-fungi-climate-change-feedback]] may disrupt phenological synchrony between orchids and fungi
 
 ## Comparison of ERM and OM
 
@@ -95,10 +95,12 @@ Orchid-fungal specificity varies widely:
 
 ## Related
 
+- [[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]]
+
 - [[lycopodium-clavatum]]
 
 - [[arbuscular-mycorrhizal-fungi]] -- the most common mycorrhizal type
-- [[mycorrhizal-networks]] -- common mycorrhizal networks
+- [[mycorrhizal-networks]] -- common [[dighton-mycorrhizal-networks-carbon-transfer]]
 - [[fungal-symbiosis-types]] -- overview of fungal symbioses
-- [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
+- fungal-symbiosis-with-plants-beyond-mycorrhizae
 - [[ericoid-mycorrhizae-types-and-ecology]]

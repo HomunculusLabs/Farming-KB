@@ -20,7 +20,7 @@ At low levels of usage, small amounts of psilocybin — consumed with no awarene
 
 Partnership groups containing individuals with improved eyesight will be more successful at feeding their offspring. Because of the increase in available food, the offspring within such groups will have a higher probability of reaching reproductive age. The outbreeding (or decline) of non-psilocybin-using groups would be a natural consequence.
 
-This effect was demonstrated in the late 1960s by Roland Fischer, who gave small amounts of psilocybin to graduate students and measured their ability to detect the moment when previously parallel lines became skewed. Performance was actually improved. As Fischer summarized: "Under certain circumstances one is actually better informed concerning the real world if one has taken a drug than if one has not."
+This effect was demonstrated in the late 1960s by [[mckenna-roland-fischer-psilocybin-visual-acuity]], who gave small amounts of psilocybin to graduate students and measured their ability to detect the moment when previously parallel lines became skewed. Performance was actually improved. As Fischer summarized: "Under certain circumstances one is actually better informed concerning the real world if one has taken a drug than if one has not."
 
 ## Level Two: Sexual Arousal and Reproductive Success
 
@@ -44,7 +44,7 @@ Experimentation with many foods caused a general increase in random mutations, w
 
 ## The Modern Legacy
 
-Perhaps the widespread need for corrective lenses among modern humans is a legacy of the long period of "artificial" enhancement of vision through psilocybin use. The apparent atrophy of the human olfactory system may represent a functional shift in a set of primitive, externally directed chemoreceptors to an interiorized regulatory function — related to the control of the pineal gland and the human pheromonal system.
+Perhaps the widespread need for corrective lenses among modern humans is a legacy of the long period of "artificial" enhancement of vision through psilocybin use. The apparent atrophy of the human olfactory system may represent a functional shift in a set of primitive, externally directed chemoreceptors to an interiorized regulatory function — related to the control of the [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]] and the human pheromonal system.
 
 See also:
 - [[psychedelic-mushroom-set-and-setting]]
@@ -54,8 +54,8 @@ See also:
 ## Key Points
 
 - McKenna's analysis connects psychoactive plant use to fundamental patterns in human cultural evolution
-- The stoned ape hypothesis, while controversial, raises important questions about the role of psychoactive substances in human cognitive development
-- McKenna's critique of dominator culture draws on both anthropological evidence and contemporary political analysis
+- The stoned [[stoned-ape-hypothesis-mckenna-psychedelic-evolution]], while controversial, raises important questions about the role of psychoactive substances in human cognitive development
+- McKenna's critique of [[mckenna-dominator-culture-and-suppression-of-ecstasy]] draws on both anthropological evidence and contemporary political analysis
 - The [[psychedelic-therapy-current-research]].
 
 ## Related McKenna Topics
@@ -65,7 +65,7 @@ McKenna's analysis fits within his broader framework of the [[mckenna-dissolutio
 - [[psychedelic-plants-and-civilization]]
 - [[mckenna-food-of-the-gods-thesis]], to construct a comprehensive narrative of humanity's relationship with psychoactive plants. His work draws on a wide range of sources, including anthropology, ethnobotany, linguistics, and personal experience, to argue that psychoactive substances have been a driving force in human cultural evolution.
 
-The [[psychedelic-therapy-mechanisms]], has demonstrated that substances like psilocybin can produce mystical-type experiences that have lasting positive effects on personality, well-being, and attitudes toward death. These findings lend some empirical support to McKenna's argument that psychoactive plants have played a significant role in shaping human consciousness and culture.
+The [[psychedelic-therapy-mechanisms]], has demonstrated that substances like psilocybin can produce mystical-type experiences that have lasting positive effects on personality, well-being, and [[weil-cultural-attitudes-toward-altered-states]] death. These findings lend some empirical support to McKenna's argument that psychoactive plants have played a significant role in shaping human consciousness and culture.
 ## Practical Considerations
 
 Successful implementation of McKenna on Psilocybin at Three Levels of Human Evolution requires attention to
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

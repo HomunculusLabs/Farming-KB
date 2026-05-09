@@ -1,12 +1,12 @@
 ---
-title: "Oyster Mushroom Supplemented Sawdust Blocks"
+title: "Oyster oyster mushroom supplemented sawdust blocks Sawdust Blocks"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
-  - "Growing Gourmet and Medicinal Mushrooms (Paul Stamets, 1993)"
-  - "Oyster Mushroom Cultivation (MushWorld, 2004)"
+  - "Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (Paul Stamets, 1993)"
+  - "Oyster [[accessible-mushroom-cultivation-for-disabilities]] (MushWorld, 2004)"
 type: concept
-tags: [growing gourmet thermogenesis mushroom cultivation, oyster mushroom pasteurized straw cultivation]
+tags: [growing growing-gourmet-thermogenesis-mushroom-cultivation mushroom cultivation, oyster oyster-mushroom-pasteurized-straw-cultivation straw cultivation]
 ---
 
 # Oyster Mushroom Supplemented Sawdust Blocks
@@ -40,7 +40,7 @@ This formula achieves biological efficiencies of 100-200% for compatible species
 ## Supplementation Guidelines
 
 - **Supplement range**: 2-10% of total substrate mass; maximum 5% recommended to avoid thermogenesis
-- **Effect on mycelial growth**: Supplements accelerate colonization by increasing substrate temperature through faster metabolic activity
+- **Effect on mycelial growth**: Supplements accelerate colonization by increasing substrate temperature through faster [[arbuscule-isolation-metabolic-activity-assays]]
 - **Effect on yield**: While some studies show modest yield increases, the primary benefit is faster and more complete colonization
 - **Risk**: Excessive supplementation causes temperature spikes during incubation that can kill [[oyster-mushroom-nutritional-composition]]
 ## Practical Considerations
@@ -101,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

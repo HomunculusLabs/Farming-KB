@@ -31,7 +31,7 @@ Different crop types have different key stages, but most plants follow a general
 4. **Bloom / Flowering**: Most frost-vulnerable stage; pollination window determines fruit set.
 5. **Petal fall**: Flowers drop; fruit begins to form; post-bloom insecticide timing window.
 6. **Fruit set / June drop**: Initial fruit formation followed by natural thinning; assess crop load.
-7. **Fruit development**: Cell division then cell expansion phase; irrigation and nutrient demand peaks.
+7. **Fruit development**: Cell division then cell expansion phase; irrigation and [[vegetable-nutrient-demand-levels]] peaks.
 8. **Color break / Veraison**: Fruit begins [[cover-crop]] termination |
 | **Weather station data** (personal or network) | Daily temperature records for GDD calculation | All crops; essential for phenology modeling |
 | **Phenological calendars** (regional extension) | Historical averages for key stages in your area | Planning baseline; comparing current season to normals |
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,3 +106,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[query-what-is-azolla-and-why-is-it-called-a-superplant]]

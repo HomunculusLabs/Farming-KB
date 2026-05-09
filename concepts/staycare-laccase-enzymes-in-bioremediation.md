@@ -1,10 +1,10 @@
 ---
-title: Laccase Enzymes in Bioremediation
+title: singh-fungal-laccase-enzymes-bioremediation in Bioremediation
 created: 2026-04-26
 synonyms:
   - fungal laccases
   - laccase-mediated bioremediation
-  - laccase mediator systems
+  - [[bioremediation-laccase-mediator-systems]] systems
 type: concept
 tags: [pollution]
 sources: [/Users/t3rpz/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
@@ -45,7 +45,7 @@ The discovery that laccase, in the presence of low-molecular-weight mediators, c
 
 **Synthetic mediators:**
 - **ABTS** (2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonate)): First mediator discovered; enables oxidation of non-phenolic lignin; the ABTS cation radical acts as a diffusible oxidant
-- **HBT** (1-hydroxybenzotriazole): Effective mediator for pulp delignification and dye decolorization; also induces laccase synthesis in T. versicolor (Collins & Dobson, 1997)
+- **HBT** (1-hydroxybenzotriazole): Effective mediator for pulp delignification and [[singh-textile-dye-decolorization-fungal]]; also induces laccase synthesis in T. versicolor (Collins & Dobson, 1997)
 - **Violuric acid**: Nitrogen-containing compound that assists laccase in pulp delignification (Bourbonnais et al., 1997)
 - **NHA** (N-hydroxyacetanilide): Another effective mediator
 
@@ -78,7 +78,7 @@ Copper is a key inducer of laccase production: Cu²⁺ stimulates laccase synthe
 
 ### Dye Decolorization
 
-Laccases decolorize a wide range of synthetic dyes including azo, triphenylmethane, anthraquinone, and indigo dyes. Key findings:
+Laccases decolorize a wide range of [[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste]] including azo, triphenylmethane, anthraquinone, and indigo dyes. Key findings:
 
 - Laccase from P. cinnabarinus, with HBT as mediator, decolorizes a range of dyes (McCarthy et al., 1999)
 - T. versicolor laccase with mediators effectively treats dye-house effluents
@@ -87,7 +87,7 @@ Laccases decolorize a wide range of synthetic dyes including azo, triphenylmetha
 
 ### Pulp and Paper Bleaching
 
-The combined use of laccase with low-molecular-weight mediators for bleaching kraft pulp has gained considerable attention since the discovery that laccase + ABTS can delignify pulp (Bourbonnais & Paice, 1990). This approach reduces chlorine consumption and the production of toxic chloroorganic wastes.
+The combined use of laccase with low-molecular-weight mediators for bleaching [[staycare-kraft-pulp-bleach-effluent-treatment]] has gained considerable attention since the discovery that laccase + ABTS can delignify pulp (Bourbonnais & Paice, 1990). This approach reduces chlorine consumption and the production of toxic chloroorganic wastes.
 
 ### PAH Degradation
 
@@ -109,7 +109,7 @@ Laccase synthesis is regulated by multiple factors:
 - **Aromatic compounds**: 2,5-xylidene and 1-hydroxybenzotriazole induce laccase synthesis in T. versicolor (Collins & Dobson, 1997)
 - **Nitrogen**: In P. chrysosporium, laccase production was observed with cellulose as carbon source (Srinivasan et al., 1995)
 - **Carbon source**: Different carbon sources affect laccase production levels
-- **Culture conditions**: Solid-state fermentation often produces higher laccase yields than submerged fermentation
+- **Culture conditions**: Solid-state fermentation often produces higher laccase yields than [[cancer-medicinal-mushrooms-submerged-fermentation-production]]
 
 ## See Also
 

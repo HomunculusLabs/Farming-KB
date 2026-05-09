@@ -1,5 +1,5 @@
 ---
-title: Sequestrate Fungi Ecology and Evolution
+title: sequestrate-fungi Ecology and Evolution
 created: 2026-04-26
 tags:
   - sequestrate-fungi
@@ -15,11 +15,11 @@ type: concept
 ---
 
 # [[ectomycorrhizal-host-tree-partnerships]]
-- [[fungal-biodiversity-forest-floor]]
+- fungal-biodiversity-forest-floor
 - [[mycorrhizal-fungal-diversity]] assessment
 ## Background and Context
 
-Sequestrate Fungi Ecology and Evolution is an important subject that has garnered significant attention
+[[biodiversity-sequestrate-fungi]] Ecology and Evolution is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough
@@ -67,7 +67,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -145,4 +145,5 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-
+## See Also
+- [[sequestrate-fungi-evolution-mushroom-to-truffle]]

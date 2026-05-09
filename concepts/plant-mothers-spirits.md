@@ -36,7 +36,7 @@ purification.
 
 ## Documented Plant Spirits
 
-Amaringo's visions, as recorded in "Ayahuasca Visions," describe
+Amaringo's visions, as recorded in "[[amaringo-ayahuasca-visions-shipibo-iconography]]," describe
 numerous plant mothers and their characteristics:
 
 **Remocaspi** (*Aspidosperma excelsum*): Its spirit appears as a wise
@@ -84,7 +84,7 @@ serving as a guide and ally during healing ceremonies.
 
 Amaringo describes the spirits of plants as "conservadores" — those
 who take care of the plants. They are the ones who "have taken over
-these plants." During ayahuasca preparation, these conservadores must
+these plants." During [[harner-amazonian-ayahuasca-preparation-methods]], these conservadores must
 be invited to participate; without their presence, the brew will not
 produce visions or healing effects. This belief explains why the same
 plant species can produce dramatically different effects depending on
@@ -113,9 +113,12 @@ considered particularly potent and rare.
 
 ## See Also
 
-- [[ayahuasca-preparation-brew]]
+- ayahuasca-preparation-brew
 - [[chacruna-psychotria-viridis]]
 
 ## See Also
 
 - [[spirit-mothers-of-plants]]
+- [[ayahuasca-visions]]
+- [[ayahuasca-preparation]]
+- [[pablo-amaringo]]

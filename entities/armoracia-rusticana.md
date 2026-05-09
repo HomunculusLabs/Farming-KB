@@ -22,7 +22,7 @@ sources:
 
 **Armoracia rusticana**, commonly known as **horseradish**, is a perennial plant in the family Brassicaceae cultivated worldwide for its thick, fleshy taproot. The root has an extremely pungent flavor and aroma when cut or grated, making it one of the world's most important condiment plants.
 
-The pungency of horseradish is produced by the enzymatic hydrolysis of glucosinolates, primarily sinigrin, which releases **allyl isothiocyanate** (AITC) upon tissue damage. This volatile compound is responsible for the characteristic sharp, nasal-clearing heat.
+The pungency of horseradish is produced by the enzymatic hydrolysis of glucosinolates, primarily sinigrin, which releases **allyl isothiocyanate** (AITC) upon tissue damage. This [[fungal-btex-volatile-compound-degradation]] is responsible for the characteristic sharp, nasal-clearing heat.
 
 Horseradish has been used as a food, medicine, and preservative for over 3,000 years. It is commercially significant for both its culinary applications and as a source of the industrial enzyme horseradish peroxidase (HRP).
 
@@ -38,7 +38,7 @@ The inflorescence is an elongated raceme of small, white, four-petaled flowers 6
 
 ## Distribution and Habitat
 
-A. rusticana is native to eastern Europe and western Asia, with a natural range extending from the Volga region through Ukraine, Poland, and the Balkans. It has been widely naturalized across Europe, North America, and temperate Asia.
+A. rusticana is native to eastern Europe and western Asia, with a natural range extending from the Volga region through Ukraine, Poland, and the Balkans. It has been widely naturalized across Europe, [[psilocybin-north-america-pacific-northwest]], and temperate Asia.
 
 The species occurs naturally in damp meadows, river floodplains, and forest margins. It prefers moist, deep, fertile loams but tolerates a wide range of soil conditions including heavy clay.
 
@@ -58,7 +58,7 @@ Anti-inflammatory and antioxidant activities have been documented for root extra
 
 ## Culinary and Traditional Uses
 
-Horseradish root is consumed as a condiment in many cuisines, particularly Central and Eastern European, German, British, and North American. The grated root is mixed with vinegar to make prepared horseradish, which accompanies roast beef, smoked fish, and sausages.
+Horseradish root is consumed as a condiment in many cuisines, particularly Central and Eastern European, German, British, and [[growing-gourmet-north-american-reishi-species]]. The grated root is mixed with vinegar to make prepared horseradish, which accompanies roast beef, smoked fish, and sausages.
 
 The pungency of freshly grated horseradish is extremely volatile and dissipates within minutes if not stabilized with acid. Vinegar halts the enzymatic reaction, preserving the characteristic heat for weeks when refrigerated.
 
@@ -72,7 +72,7 @@ In Japan, wasabi is the traditional pungent condiment, but horseradish is widely
 
 Horseradish is propagated vegetatively by planting root cuttings (sets) 15–20 cm long and 1–2 cm in diameter. Sets are planted horizontally or at a 45° angle, 5–10 cm deep, in early spring.
 
-Plants are spaced 30–45 cm apart in rows 60–90 cm apart. The crop benefits from deep, well-drained soils and regular irrigation during the growing season. Nitrogen fertilization is important for optimal root development.
+Plants are spaced 30–45 cm apart in rows 60–90 cm apart. The crop benefits from deep, well-drained soils and regular irrigation during the [[savory-growing-season-and-non-growing-season-management]]. Nitrogen fertilization is important for optimal root development.
 
 Harvest occurs in late autumn after the first frosts, which improve root flavor. Commercial yields range from 15–25 tonnes per hectare under good management.
 
@@ -88,9 +88,9 @@ Horseradish is extremely low in calories (approximately 50 kcal per 100 g fresh 
 
 ## Permaculture and Companion Planting
 
-Horseradish is valued in permaculture systems for its deep taproot, which breaks up compacted subsoil and brings up minerals from deep soil layers. It is often planted at the edge of orchard systems or as a dynamic accumulator.
+Horseradish is valued in permaculture systems for its deep taproot, which breaks up compacted subsoil and brings up minerals from deep soil layers. It is often planted at the edge of orchard systems or as a [[nutrient-dynamic-accumulator-reference]].
 
-The plant's strong root exudates may have pest-repellent properties. Some gardeners interplant horseradish with potatoes to deter Colorado potato beetles, though scientific evidence for this companion planting effect is limited.
+The plant's strong [[mycorrhizal-root-exudates-pathogen-interactions]] may have pest-repellent properties. Some gardeners interplant horseradish with potatoes to deter Colorado potato beetles, though scientific evidence for this companion planting effect is limited.
 
 Horseradish is sometimes included in food forest understory plantings. Its shade tolerance allows it to produce useful root crops beneath taller canopy species, though full sun gives the highest yields.
 

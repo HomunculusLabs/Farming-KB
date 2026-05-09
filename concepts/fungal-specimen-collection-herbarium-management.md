@@ -1,17 +1,14 @@
 ---
-title: Fungal Specimen Collection and Herbarium Management
+title: Fungal fungal specimen collection herbarium management and Herbarium Management
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
+# Fungal Specimen Collection and Herbarium Management Preservation of voucher specimens resulting from biodiversity surveys is extremely important for scientific studies. Voucher specimens and their accompanying field notes document the existence of a fungus at a given place and time and provide the raw data from which [[molecular-methods-fungal-taxonomy-and-diversity]].
 
-# Fungal Specimen Collection and Herbarium Management
-
-Preservation of voucher specimens resulting from biodiversity surveys is extremely important for scientific studies. Voucher specimens and their accompanying field notes document the existence of a fungus at a given place and time and provide the raw data from which [[molecular-methods-fungal-taxonomy-and-diversity]].
-
-Major fungal herbaria worldwide hold hundreds of thousands to millions of specimens. These collections are increasingly being digitized, with high-resolution photography and database records making specimen data accessible to researchers globally. Online portals such as MycoPortal and GBIF (Global Biodiversity Information Facility) aggregate herbarium records for broad-scale analyses of fungal distribution and phenology.
+Major fungal herbaria worldwide hold hundreds of thousands to millions of specimens. These collections are increasingly being digitized, with high-resolution photography and database records making specimen data accessible to researchers globally. Online portals such as MycoPortal and GBIF ([[psilocybe-global-biodiversity-hotspots]] Information Facility) aggregate herbarium records for broad-scale analyses of fungal distribution and phenology.
 
 ## Collection Acquisition Policies
 
@@ -51,7 +48,7 @@ Fungal specimens differ fundamentally from plant specimens. Traditional plant pr
 
 ### Drying Methods
 
-Prompt and thorough drying is essential to prevent mold growth and insect damage. Air-drying with good ventilation at moderate temperatures (30-40°C) works for most macrofungi. For fleshy species, a food dehydrator set to low heat can accelerate drying without degrading tissues excessively. Freeze-drying produces the highest quality specimens but requires specialized equipment.
+Prompt and thorough drying is essential to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] growth and insect damage. Air-drying with good ventilation at moderate temperatures (30-40°C) works for most macrofungi. For fleshy species, a food dehydrator set to low heat can accelerate drying without degrading tissues excessively. Freeze-drying produces the highest quality specimens but requires specialized equipment.
 
 ### Packeting, Boxing, and Mounting
 
@@ -63,15 +60,15 @@ Prompt and thorough drying is essential to prevent mold growth and insect damage
 
 ### Associated Information
 
-Essential data include: (1) country and state/province; (2) scientific name of the organism; (3) taxonomic authority; (4) date of collection; (5) collector's name and collection number; (6) detailed locality; (7) habitat and substratum; (8) elevation; (9) host information; (10) specimen description; (11) associated organisms.
+Essential data include: (1) country and state/province; (2) scientific name of the organism; (3) [[bloomfield-taxonomic-authority-debate-lloyd-underwood-atkinson]]; (4) date of collection; (5) collector's name and collection number; (6) detailed locality; (7) habitat and substratum; (8) elevation; (9) host information; (10) specimen description; (11) associated organisms.
 
 ## Specimen Maintenance
 
 ### Pest Control
 
-Insect hormone attractants should be carried out as routine herbarium activity. Before returned loans are shipped, they should be treated for insect contamination. Herbarium facilities must maintain appropriate temperature and humidity controls.
+Insect hormone attractants should be carried out as routine herbarium activity. Before returned loans are shipped, they should be treated for insect contamination. Herbarium facilities must maintain appropriate [[greg-green-temperature-and-humidity-control]] controls.
 
-Regular monitoring with sticky traps and visual inspection helps detect pest infestations early. Fungal herbaria are particularly susceptible to dermestid beetles and psocids, which can rapidly destroy poorly protected collections. Integrated pest management (IPM) strategies that combine environmental controls, monitoring, and targeted treatments are now standard practice.
+Regular monitoring with sticky traps and visual inspection helps detect pest infestations early. Fungal herbaria are particularly susceptible to dermestid beetles and psocids, which can rapidly destroy poorly protected collections. [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management (IPM) strategies that combine environmental controls, monitoring, and targeted treatments are now standard practice.
 
 ### Destructive Sampling
 
@@ -97,3 +94,7 @@ Destructive sampling for [[fungal-electronic-specimen-catalogues]]
 - [[fungal-dna-barcoding]]
 - [[lichen-biodiversity-sampling-protocols-data-analysis]]
 - [[plant-micronutrients-and-their-essential-functions]]
+
+## See Also
+
+- fungal-specimen-preparation-herbarium-management

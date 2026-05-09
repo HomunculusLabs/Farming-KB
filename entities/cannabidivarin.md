@@ -25,11 +25,11 @@ sources:
 
 ## Overview
 
-**Cannabidivarin (CBDV)** is a non-psychoactive phytocannabinoid found in *Cannabis sativa* L. It is a propyl homologue of cannabidiol (CBD), differing by the replacement of a pentyl (5-carbon) side chain with a propyl (3-carbon) side chain on the resorcinol ring. CBDV was first isolated in 1969 from a Mexican cannabis landrace by Y. Gaoni and R. Mechoulam, the same researchers who first synthesized THC. Its structural elucidation confirmed it as the propyl analogue of CBD.
+**Cannabidivarin (CBDV)** is a non-psychoactive phytocannabinoid found in *[[cannabis-sativa]]* L. It is a propyl homologue of cannabidiol (CBD), differing by the replacement of a pentyl (5-carbon) side chain with a propyl (3-carbon) side chain on the resorcinol ring. CBDV was first isolated in 1969 from a Mexican cannabis landrace by Y. Gaoni and R. Mechoulam, the same researchers who first synthesized THC. Its structural elucidation confirmed it as the propyl analogue of CBD.
 
-CBDV has attracted significant pharmaceutical interest as a **potential anti-epileptic drug**, particularly for treatment-resistant forms of epilepsy. GW Pharmaceuticals (now Jazz Pharmaceuticals) developed CBDV as an investigational drug under the code **GWP42006** and conducted Phase 2 clinical trials for Rett syndrome, a severe neurodevelopmental disorder with prominent seizure activity.
+CBDV has attracted significant pharmaceutical interest as a **potential anti-epileptic drug**, particularly for treatment-resistant forms of epilepsy. GW Pharmaceuticals (now Jazz Pharmaceuticals) developed CBDV as an investigational drug under the code **GWP42006** and conducted Phase 2 [[mushroom-cancer-clinical-trials-overview]] for Rett syndrome, a severe neurodevelopmental disorder with prominent seizure activity.
 
-Despite the clinical trial outcomes not achieving primary endpoints, the research has generated valuable pharmacological data on CBDV's safety profile, pharmacokinetics, and mechanism of action. This body of evidence supports continued investigation of CBDV for other neurological indications.
+Despite the clinical trial outcomes not achieving primary endpoints, the research has generated valuable pharmacological data on CBDV's [[cannabis-safety-profile-and-overdose-risk]], pharmacokinetics, and mechanism of action. This body of evidence supports continued investigation of CBDV for other neurological indications.
 
 Unlike THC, CBDV does not produce intoxicating effects. It demonstrates low affinity for CB1 and CB2 cannabinoid receptors and instead acts through multiple non-cannabinoid receptor targets, including TRPV1, TRPV2, GPR55, and possibly the 5-HT1A serotonin receptor.
 
@@ -44,7 +44,7 @@ Unlike THC, CBDV does not produce intoxicating effects. It demonstrates low affi
 - **Solubility:** Lipophilic; soluble in ethanol, DMSO, and organic solvents; poorly soluble in water
 
 CBDV is a structural analogue of CBD where the n-pentyl chain is replaced by an n-propyl chain.
-This minor structural difference significantly alters receptor binding profiles and pharmacological activity.
+This minor structural difference significantly alters [[tihkal-receptor-binding-serotonin]] profiles and pharmacological activity.
 The propyl variant is less common in cannabis than the pentyl variant, typically constituting 0.1–2.0% of dry flower weight in CBDV-rich chemovars. In specialized breeding lines, concentrations can reach 5% or higher.
 
 At the molecular level, the shorter side chain reduces lipophilicity slightly compared to CBD, which affects membrane penetration and pharmacokinetic properties. The three-dimensional conformation of the resorcinol ring system is preserved, allowing CBDV to interact with the same broad range of non-cannabinoid receptor targets as CBD.
@@ -65,7 +65,7 @@ Unlike many anticonvulsant pharmaceuticals, CBDV does not appear to cause signif
 
 ## Anti-Epileptic Research
 
-The most advanced clinical research on CBDV focuses on seizure disorders:
+The most advanced [[hofmann-lsd-clinical-research-early-studies]] on CBDV focuses on seizure disorders:
 
 - **Preclinical models:** CBDV suppresses seizure activity in multiple animal models, including pentylenetetrazole (PTZ)-induced seizures, pilocarpine-induced status epilepticus, and genetic models of epilepsy (mice with Dravet syndrome mutations). Effect sizes are comparable to or greater than those of CBD in some models.
 - **Mechanism:** Anticonvulsant effects are mediated through TRPV1 activation, GPR55 antagonism, and modulation of intracellular calcium dynamics. CBDV also modulates excitatory glutamate signaling and enhances GABAergic transmission.
@@ -80,12 +80,12 @@ Beyond anticonvulsant activity, CBDV demonstrates several other pharmacological 
 
 - **Anti-nausea:** CBDV reduces nausea and vomiting in animal models, likely through 5-HT1A receptor activation. This activity has been demonstrated in both acute and anticipatory nausea paradigms.
 - **Anti-inflammatory:** Modulation of TRPV1 and GPR55 pathways produces anti-inflammatory effects in models of intestinal inflammation and arthritis.
-- **Gastroprotective:** CBDV reduces intestinal inflammation in models of inflammatory bowel disease, with effects comparable to CBD at equivalent doses.
+- **Gastroprotective:** CBDV reduces intestinal inflammation in models of [[blesching-cannabis-inflammatory-bowel-disease]] disease, with effects comparable to CBD at equivalent doses.
 - **Bone health:** Preclinical evidence suggests CBDV promotes osteoblast activity and may support bone formation, though this research is preliminary.
 
 ## Biosynthesis and Occurrence
 
-CBDV is biosynthesized in cannabis trichomes through the same pathway as CBD, but diverges at the olivetolic acid precursor level. The key difference is the use of **hexanoyl-CoA** (C6 starter) instead of olivetolic acid's usual pathway, producing cannabidivarinic acid (CBDVA) via CBGVA (cannabigerovarinic acid). CBDVA is then decarboxylated to CBDV upon heating.
+CBDV is biosynthesized in [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]] through the same pathway as CBD, but diverges at the olivetolic acid precursor level. The key difference is the use of **hexanoyl-CoA** (C6 starter) instead of olivetolic acid's usual pathway, producing cannabidivarinic acid (CBDVA) via CBGVA (cannabigerovarinic acid). CBDVA is then decarboxylated to CBDV upon heating.
 
 CBDV content varies significantly across cannabis chemovars. Landrace varieties from India, Nepal, and parts of Africa tend to have higher CBDV concentrations.
 Selective breeding has produced chemovars with CBDV content exceeding 5% of dry weight.
@@ -105,7 +105,7 @@ In the first human pharmacokinetic study (Anderson et al., 2019), single oral do
 - **Tmax:** 1.5–3 hours post-dose
 - **Half-life:** 3–5 hours (shorter than CBD's 18–32 hours)
 - **Cmax:** Dose-proportional increases in plasma concentration
-- **Metabolism:** Primarily via hepatic CYP450 enzymes, with glucuronidation as the major elimination pathway
+- **Metabolism:** Primarily via hepatic CYP450 enzymes, with [[glucuronidation]] as the major elimination pathway
 - **Tolerability:** Generally well-tolerated; most common adverse events were mild GI symptoms
 
 The relatively short half-life compared to CBD suggests that more frequent dosing may be required for sustained therapeutic effects, which presents formulation challenges for pharmaceutical development.

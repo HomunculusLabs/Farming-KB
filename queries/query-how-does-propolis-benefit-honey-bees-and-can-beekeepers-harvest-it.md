@@ -16,7 +16,7 @@ sources:
   - Simone M, et al. "Propolis and bee health: the natural history and significance of resin use by honey bees." Apidologie, 2009.
   - Gisder S, et al. "Propolis and its biological activities against pathogens of the honey bee." Apidologie, 2019.
   - Kujumgiev A, et al. "Antibacterial, antifungal and antiviral activity of propolis." J Ethnopharmacol, 1999.
-  - Huang S, et al. "Propolis: a review of its traditional uses, chemical constituents, and pharmacological properties." Evid Based Complement Alternat Med, 2014.
+  - Huang S, et al. "Propolis: a review of its traditional uses, [[guzman-magic-mushrooms-chemical-constituents]], and pharmacological properties." Evid Based Complement Alternat Med, 2014.
 type: query
 ---
 
@@ -24,7 +24,7 @@ type: query
 
 ## Short Answer
 
-**Propolis** (from Greek *pro* = "before" + *polis* = "city") is a resinous substance that honey bees collect from tree buds, sap flows, and other botanical sources. Bees use it as a structural sealant, antimicrobial agent, and immune defense for the hive. Beekeepers can harvest propolis as a valuable secondary product, though it comes at the cost of reduced hive hygiene if over-harvested.
+**Propolis** (from Greek *pro* = "before" + *polis* = "city") is a resinous substance that honey bees collect from tree buds, sap flows, and other [[dmt-botanical-sources-pharmacology]]. Bees use it as a structural sealant, antimicrobial agent, and immune defense for the hive. Beekeepers can harvest propolis as a valuable secondary product, though it comes at the cost of reduced hive hygiene if over-harvested.
 
 ## What Is Propolis?
 
@@ -32,9 +32,9 @@ Propolis is a complex mixture of:
 
 - **Resins (50–60%):** Collected from tree buds (poplar, birch, alder, pine, chestnut, eucalyptus) and plant exudates
 - **Waxes (30–40%):** Beeswax secreted by worker bees, mixed with the collected resins
-- **Essential oils (5–10%):** Volatile aromatic compounds contributing to antimicrobial properties
+- **Essential oils (5–10%):** Volatile aromatic compounds contributing to [[medicinal-mushroom-antimicrobial-properties]]
 - **Pollen (5%):** Incidental collection mixed with resin
-- **Bioactive compounds:** Flavonoids (pinocembrin, galangin, chrysin), phenolic acids, terpenes, coumarins, and caffeic acid derivatives
+- **[[cordyceps-cancer-bioactive-compounds]]:** Flavonoids (pinocembrin, galangin, chrysin), phenolic acids, terpenes, coumarins, and caffeic acid derivatives
 
 The exact composition varies dramatically by region, season, and available plant species — a tropical propolis from Brazil (green propolis from *Baccharis dracunculifolia*) has a completely different chemical profile than temperate propolis from poplar buds in North America or Europe.
 
@@ -62,7 +62,7 @@ Bees use propolis to:
 
 This is propolis's most important biological function. Propolis inhibits the growth of:
 
-- **Bacteria:** Active against *Paenibacillus larvae* (cause of American Foulbrood), *Melissococcus plutonius* (European Foulbrood), and secondary bacterial infections
+- **Bacteria:** Active against *Paenibacillus larvae* (cause of American Foulbrood), *Melissococcus plutonius* (European Foulbrood), and secondary [[blesching-cannabis-bacterial-infections]]
 - **Fungi:** Inhibits *Ascosphaera apis* (chalkbrood) and other pathogenic fungi
 - **Viruses:** Demonstrated antiviral activity against Deformed Wing Virus (DWV) and other honey bee viruses
 - **Protozoa:** May inhibit *Nosema* spp. (nosema disease) spore germination
@@ -74,7 +74,7 @@ The mechanism involves multiple bioactive compounds working synergistically — 
 Recent research has revealed that propolis benefits bee **social immunity** in surprising ways:
 
 - **Reduced immune gene expression:** Colonies with more propolis show lower baseline expression of immune-related genes in individual bees. This sounds negative but is actually beneficial — it means bees invest less energy in individual immunity because the colony environment is cleaner and less pathogenic.
-- **Gut microbiome support:** Propolis residues in the hive may promote beneficial gut bacteria (*Snodgrassella alvi*, *Gilliamella apicola*) that are essential for bee health and nutrient processing.
+- **Gut microbiome support:** Propolis residues in the hive may promote beneficial gut bacteria (*Snodgrassella alvi*, *Gilliamella apicola*) that are essential for bee health and [[ingham-chelation-microbial-nutrient-processing]].
 - **Reduced physiological stress:** Bees in propolis-rich hives show lower levels of oxidative stress markers, suggesting a more balanced physiological state.
 
 ### 4. Mummification of Intruders
@@ -139,9 +139,6 @@ The relationship between propolis and Varroa destructor is complex:
 - **Stringed instrument bow rosin:** Historically used by luthiers for violin bows
 - **Candle and soap additive:** Adds antimicrobial properties and a pleasant honey-resin scent
 
-## Important Considerations
-
-### Don't Over-Harvest
 ## See Also
 
 - [[bee-feeding-and-fungal-pesticides]] — Full guide to all hive products and their uses

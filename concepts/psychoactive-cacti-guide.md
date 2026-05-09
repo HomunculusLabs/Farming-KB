@@ -1,6 +1,6 @@
 ---
 
-title: Psychoactive Cacti Guide
+title: gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch Guide
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -23,7 +23,7 @@ sources:
 
 # Psychoactive Cacti Guide
 
-Mescaline-containing cacti have been used ceremonially for thousands of years. The principal species are peyote (Lophophora williamsii), San Pedro (Echinopsis pachanoi), and Peruvian Torch (Echinopsis peruvianus).
+Mescaline-containing cacti have been used ceremonially for thousands of years. The principal species are peyote (Lophophora williamsii), [[mescaline-peyote-and-san-pedro-guide]] (Echinopsis pachanoi), and Peruvian Torch (Echinopsis peruvianus).
 
 Related: [[psychedelic-compounds-reference]], [[entheogen-culture]]
 
@@ -35,7 +35,7 @@ Related: [[psychedelic-compounds-reference]], [[entheogen-culture]]
 - Crown ("button") visible above ground with a large tuberous root below
 - Over 60 alkaloids; principal active: mescaline (~1.5% dry weight)
 - Extremely slow growing: 10-15 years from seed to maturity in the wild
-- Legally protected; sacramental use permitted for Native American Church members
+- Legally protected; sacramental use permitted for [[halpern-sacramental-peyote-and-native-american-church]] Church members
 
 ### San Pedro (Echinopsis pachanoi)
 - Tall, columnar, fast-growing cactus (6-20 ft in cultivation)
@@ -55,7 +55,7 @@ Mescaline (3,4,5-trimethoxyphenethylamine) is a phenethylamine alkaloid. Effecti
 
 ## Cultivation from Seed
 
-1. Fill shallow trays with well-draining cactus soil (50% sand/grit, 50% organic matter)
+1. Fill shallow trays with well-draining cactus soil (50% sand/grit, 50% [[hamilton-composting-and-organic-matter-management]])
 2. Scatter seeds on surface, press gently, do not bury
 3. Cover with clear plastic to maintain humidity
 4. Provide indirect light, 70-85F
@@ -81,9 +81,9 @@ Peyote's slow growth rate makes grafting attractive. Pereskiopsis spathulata or 
 
 ## Legal Status
 
-- **Peyote**: Schedule I in the US, but legally protected for members of the Native American Church (NAC) under the American Indian Religious Freedom Act (1978, amended 1994). NAC has approximately 300,000 members.
+- **Peyote**: Schedule I in the US, but legally protected for members of the Native American Church (NAC) under the [[harner-american-indian-peyote-rituals]] Religious Freedom Act (1978, amended 1994). NAC has approximately 300,000 members.
 - **San Pedro / Peruvian Torch**: Not specifically scheduled at the federal level, though containing a Schedule I substance (mescaline) makes them technically illegal to prepare for ingestion. Widely sold as ornamentals.
-- **International**: Varies by country. Legal in some South American countries for traditional use.
+- **International**: Varies by country. Legal in some [[chiric-caspi-brunfelsia-south-american-hallucinogen]] countries for traditional use.
 
 ## Traditional and Ceremonial Use
 

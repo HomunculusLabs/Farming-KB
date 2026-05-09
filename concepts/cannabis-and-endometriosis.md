@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis and Endometriosis
 
-**Source:** The Cannabis Health Index, Uwe Blesching, PhD (2017)
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]], Uwe Blesching, PhD (2017)
 **Updated:** 2026-04-19
 
 ## Evidence-Based Therapeutic Potential
@@ -35,7 +35,7 @@ One study reviewed cannabinoid effects on endometriosis-related pain. While rese
 
 ## Mechanisms of Action
 
-The [[cannabis-chronic-pain-management]] evidence base supports cannabinoid use for chronic pain conditions, which is directly applicable to endometriosis-related pain.
+The [[cannabis-chronic-pain-management]] evidence base supports cannabinoid use for [[cannabis-chronic-pain-management]] conditions, which is directly applicable to endometriosis-related pain.
 
 ## Dosage and Administration
 
@@ -53,9 +53,9 @@ Strains with elevated levels of [[cannabis-terpene-profile]] of selected strains
 ## Complementary Approaches
 
 - **Turmeric (curcumin):** Known anti-inflammatory properties applicable to inflammatory conditions; may reduce endometriosis implant size in animal models
-- **Dietary modifications:** Reducing inflammatory foods, increasing omega-3 fatty acids, and limiting red meat and alcohol
+- **Dietary modifications:** Reducing inflammatory foods, increasing omega-3 [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], and limiting red meat and alcohol
 - **Pelvic floor physical therapy:** Can help manage pelvic pain and muscle tension associated with endometriosis
-- **Acupuncture:** Some evidence supports acupuncture for endometriosis-related pain management
+- **Acupuncture:** Some evidence supports acupuncture for endometriosis-related [[cannabis-pain-management-protocols]]
 - **N-acetyl cysteine (NAC):** Has demonstrated potential to reduce endometrioma size in clinical studies
 
 ## Limitations of Current Research
@@ -78,4 +78,4 @@ Prostaglandin production is elevated in endometriosis, contributing to inflammat
 
 The evidence base for cannabis and endometriosis remains limited, with a CHI Value of 5 reflecting only 2 reviewed studies. The Florida State University study (2010) identified CB1 receptors in endometrial growths through immunohistochemical analysis, providing anatomical evidence for cannabinoid involvement. The Paris study (2010) demonstrated anti-proliferative effects using the synthetic cannabinoid WIN55,212-2 in a murine model.
 
-Both studies were preclinical, meaning results have not yet been confirmed in human clinical trials. Sample sizes were small, and the use of synthetic cannabinoids (WIN55,212-2) rather than whole-plant cannabis limits direct clinical applicability. Despite these limitations, the findings are mechanistically compelling and align with broader evidence for cannabinoid involvement in pain modulation and immune regulation.
+Both studies were preclinical, meaning results have not yet been confirmed in human [[mushroom-cancer-clinical-trials-overview]]. Sample sizes were small, and the use of synthetic cannabinoids (WIN55,212-2) rather than whole-plant cannabis limits direct clinical applicability. Despite these limitations, the findings are mechanistically compelling and align with broader evidence for cannabinoid involvement in pain modulation and immune regulation.

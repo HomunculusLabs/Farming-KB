@@ -1,5 +1,5 @@
 ---
-title: Compost Contaminants - Herbicide Residues from Ingham AACT Field Guide
+title: Compost Contaminants - Herbicide Residues from Ingham AACT ghouled-field-guide-historical-context
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -11,7 +11,7 @@ sources:
 # Compost Contaminants - Herbicide Persistence
 
 Extracted from Elaine Ingham's AACT Field Guide, covering herbicide
-contamination issues that affect compost quality and
+contamination issues that affect [[aact-compost-quality-standards-ingham]] and
 [[compost-tea-brewing-equipment-ingham]]
 - [[ingham-anaerobic-vs-aerobic-compost-tea]]
 - [[humic-acids-soil-biology-ingham]]
@@ -144,4 +144,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

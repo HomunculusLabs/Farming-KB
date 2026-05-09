@@ -15,7 +15,7 @@ The essential components are: cooked soybeans, koji (rice or barley inoculated w
 
 ## Koji Preparation
 
-Koji is the foundational ingredient in miso making. It is steamed rice or barley inoculated with Aspergillus oryzae, a filamentous fungus that produces enzymes (amylase and protease) that break down starches into sugars and proteins into amino acids.
+Koji is the foundational ingredient in miso making. It is steamed rice or barley inoculated with Aspergillus oryzae, a filamentous fungus that produces enzymes (amylase and protease) that [[query-can-fungi-break-down-plastic-pollution]] starches into sugars and proteins into amino acids.
 
 ### Making Koji from Scratch
 
@@ -32,7 +32,7 @@ Koji is the foundational ingredient in miso making. It is steamed rice or barley
 
 ### Buying Koji
 
-For beginners, purchasing prepared koji rice or koji starter (koji-kin) is recommended. Many Japanese grocery stores and online suppliers carry both. Making koji from scratch requires careful temperature and humidity control.
+For beginners, purchasing prepared koji rice or koji starter (koji-kin) is recommended. Many Japanese grocery stores and online suppliers carry both. Making koji from scratch requires careful [[greg-green-temperature-and-humidity-control]] control.
 
 ## Soybean Preparation
 
@@ -48,7 +48,7 @@ For beginners, purchasing prepared koji rice or koji starter (koji-kin) is recom
 
 Salt serves two critical roles: inhibiting unwanted bacteria and controlling the fermentation rate.
 
-- Use non-iodized sea salt or kosher salt
+- Use non-iodized [[jadam-sea-salt-and-mineral-solutions]] or kosher salt
 - Iodized salt can inhibit fermentation
 - Salt-to-bean ratios determine fermentation speed and final character:
   - 10-12% salt: slower, longer fermentation, more complex flavor (traditional)
@@ -81,7 +81,7 @@ Salt serves two critical roles: inhibiting unwanted bacteria and controlling the
 4. Sprinkle a thin layer of salt on the surface (prevents mold)
 5. Place a weight (clean rocks, a sealed bag of water, or a plate) on top to keep the miso submerged
 6. Cover with breathable material (cloth or paper) secured with string
-7. Store in a cool, dark place — ideal temperature is 50-68F (10-20C)
+7. Store in a cool, dark place — [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] is 50-68F (10-20C)
 
 ### Monitoring and Maintenance
 
@@ -110,7 +110,7 @@ Salt serves two critical roles: inhibiting unwanted bacteria and controlling the
 
 - Sendai miso — dark red, long-aged, from northern Japan
 - Saikyo miso — sweet white miso from Kyoto, low salt
-- Miso from other traditions: doenjang (Korea), jiang (China), tauchu (Southeast Asia)
+- Miso from other traditions: doenjang (Korea), jiang (China), tauchu ([[psilocybe-southeast-asia-pacific]])
 
 ## Storage and Use
 

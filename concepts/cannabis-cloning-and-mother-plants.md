@@ -1,5 +1,5 @@
 ---
-title: Cannabis Cloning and Mother Plants
+title: Cannabis cannabis cloning and mother plants Plants
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -11,14 +11,14 @@ Updated: 2026-04-18
 
 Source: The Cannabis Grow Bible, Greg Green (Ch. 8)
 
-Cloning is the process of taking a cutting from a cannabis plant and encouraging it to grow its own roots, creating a genetically identical copy. Maintaining mother plants provides a reliable supply of clones for perpetual harvests. For an overview of propagation methods, see [[cannabis-vegetative-stage-management]].
+Cloning is the process of taking a cutting from a cannabis plant and encouraging it to grow its own roots, creating a genetically identical copy. Maintaining mother plants provides a reliable supply of clones for perpetual harvests. For an overview of [[vegetative-propagation-methods-mollison]], see [[cannabis-vegetative-stage-management]].
 
 - **Lighting**: Fluorescent or LED lights work well — mothers do not need intense light
 - **Container size**: Larger pots (5–10 gallons) allow mothers to grow large and produce many clones
 - **Pruning**: Regular pruning keeps mothers manageable and encourages branching
 - **Feeding**: Standard vegetative nutrients; some growers use slightly reduced nitrogen to slow growth
 - **Lifespan**: Mothers can be kept for months to years with proper care
-- **Health**: Monitor for pests, diseases, and nutrient deficiencies. A sick mother produces weak clones.
+- **Health**: Monitor for pests, diseases, and [[hamilton-nutrient-deficiencies-and-treatment]]. A sick mother produces weak clones.
 
 ### How Many Clones Per Mother
 
@@ -55,14 +55,14 @@ The number depends on the mother's size, health, and how aggressively you take c
 - **Temperature**: 72–80°F (22–27°C)
 - **Humidity**: 80–100% under the dome (mist daily to maintain)
 - **Light**: Low-intensity fluorescent or LED, 18–24 hours per day. Clones need light but not intense light.
-- **Air circulation**: Gentle air movement to prevent mold, but not so much it dries cuttings out
+- **[[stamets-growing-room-air-circulation-co2-management]]**: Gentle air movement to prevent mold, but not so much it dries cuttings out
 - **Rooting time**: Most clones show roots in 7–14 days. Some strains may take up to 21 days.
 
 ### Signs of Rooting
 
 - New white growth emerging from the bottom of the rooting medium
 - Cuttings stop wilting and begin standing upright
-- New vegetative growth appears at the top
+- New [[cannabis-vegetative-growth-stage]] appears at the top
 - Root growth visible through rockwool or clear containers
 
 ### Hardening Off
@@ -95,7 +95,7 @@ Normal for the first 1–2 days. If it persists beyond day 3, check humidity and
 Machines that suspend cuttings in an enclosed chamber with misting nozzles, providing high oxygen and humidity. Rooting times can be as fast as 5–7 days.
 
 ### Bubble Cloners
-Simple DIY cloners using an air stone and nutrient solution to provide moisture and oxygen to cut stems.
+Simple DIY cloners using an air stone and [[cannabis-nutrient-solution-preparation]] to provide moisture and oxygen to cut stems.
 
 ### Water Cloning
 Placing cuttings directly into a glass of water. Roots form at the water line. Simple but less reliable than other methods.

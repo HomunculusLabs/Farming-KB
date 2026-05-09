@@ -1,21 +1,13 @@
 ---
-title: Broadacre and Rural Design
+title: bill mollison permaculture a designers manual broadacre and rural design Design
 created: 2026-04-28
-tags: [[permaculture, farming, broadacre, agroforestry, rural]
+tags: [permaculture, farming, broadacre, agroforestry, rural]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
 type: concept
 ---
-
-# Broadacre and Rural Design
-
-Broadacre and rural design applies permaculture principles to large-scale
-farming and ranching operations. Bill Mollison recognized that the majority of
-the world's productive land is managed as broadacre agriculture and that
-transforming these systems is essential for global ecological sustainability.
-In *Permaculture: A Designers' Manual*, he demonstrated that the same
-principles guiding [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]], [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]], and [[zone-and-sector-analysis]] is applied at farm scale,
+# Broadacre and Rural Design Broadacre and rural design applies permaculture principles to large-scale farming and ranching operations. Bill Mollison recognized that the majority of the world's productive land is managed as broadacre agriculture and that transforming these systems is essential for global ecological sustainability. In *Permaculture: A Designers' Manual*, he demonstrated that the same principles guiding [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]], [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]], and [[zone-and-sector-analysis]] is applied at farm scale,
 with Zone 1 around the homestead, Zone 2 containing intensive crops and
 orchards, Zone 3 supporting main crops and pastures, Zone 4 providing
 forage and timber, and Zone 5 preserving native ecosystems. Sector analysis
@@ -27,21 +19,21 @@ supports every other element.
 
 Agroforestry, the integration of trees with crops and livestock, is a
 cornerstone of broadacre permaculture. Mollison described several agroforestry
-models suitable for large-scale application. Alley cropping plants rows of
+models suitable for large-scale application. [[comparison-alley-cropping-vs-silvopasture]] plants rows of
 timber or nut trees with crops grown between the tree rows. Silvopasture
-combines trees with pasture for livestock grazing. Forest farming grows
+combines trees with pasture for [[savory-livestock-grazing-planning]]. Forest farming grows
 specialty crops such as mushrooms, ginseng, or ramps under a managed forest
 canopy. Riparian buffers of trees and shrubs along waterways protect water
 quality while producing harvestable products. These systems increase total
 farm productivity per unit area while building soil, sequestering carbon, and
-providing habitat for beneficial species.
+providing [[query-how-do-i-design-habitat-for-beneficial-insects]] species.
 
 ## Rotational Grazing Systems
 
 Mollison strongly advocated for rotational grazing as an alternative to
 continuous set-stocking. In rotational systems, livestock are moved frequently
 through a series of paddocks, allowing each paddock an extended rest period
-for recovery. High stock density for short durations achieves thorough grazing
+for recovery. High [[savory-fencing-economics-and-stock-density-curve]] for short durations achieves thorough grazing
 of desirable plants, trampling of weeds and old growth, and even distribution
 of manure. The rest period allows plants to rebuild root reserves and energy
 stores, resulting in more vigorous regrowth. Mollison recommended adapting
@@ -72,7 +64,7 @@ On sloping land, Mollison recommended contour strip cropping where different
 crops are planted in alternating strips along the contour. Perennial strips
 such as grasses or legumes alternate with annual crop strips, creating
 barriers that slow runoff, reduce erosion, and trap sediment. The perennial
-strips also provide habitat for beneficial insects and can be harvested for
+strips also provide habitat for [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] and can be harvested for
 hay or grazed by livestock during fallow periods. This system integrates crop
 production with [[cannabis-seed-banks-and-genetics]] through the
 preservation of locally adapted tree provenances.
@@ -90,6 +82,10 @@ sprinklers. Farm dams should be designed as multi-purpose systems combining
 water storage with [[permaculture-design]] of biological resource use and energy cycling.
 ## See Also
 
-- [[permaculture-design-principles]]
+- [[mollison-country-permaculture-rural-land-design]]
 
-- [[permaculture-designers-manual-troubleshooting-design]]
+- [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
+
+- [[permaculture-design-principles-beginners]]
+
+- permaculture-designers-manual-troubleshooting-design

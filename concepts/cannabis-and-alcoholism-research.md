@@ -10,7 +10,7 @@ sources:
 
 # Cannabis and Alcoholism Research
 
-**Source:** Uwe Blesching, The Cannabis Health Index (2017)
+**Source:** Uwe Blesching, The [[blesching-cannabis-health-index-autoimmune-conditions]] (2017)
 
 ## Condition Overview
 
@@ -46,7 +46,7 @@ Alcohol abuse: neurological and mental illness causing domestic violence, child/
 
 ## Strain-Specific Considerations
 
-- Indica strains and indica-dominant hybrids: lower THC:CBD ratio favors CB2 expression
+- Indica strains and indica-dominant hybrids: lower THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]] favors CB2 expression
 
 - CBD's neuroprotective properties may help mitigate alcohol-induced brain damage
 
@@ -60,7 +60,7 @@ The endocannabinoid system and alcohol reward pathways are deeply interconnected
 
 - **CB1 antagonism reduces alcohol intake:** Multiple animal studies (2005, 2008) demonstrated that blocking CB1 receptors with antagonists like Rimonabant reduces alcohol preference, self-administration, and relapse behavior. This confirms that CB1 receptor signaling is necessary for alcohol's rewarding effects.
 
-- **CBD's neuroprotective role:** Chronic alcohol use causes neuronal damage through oxidative stress, excitotoxicity, and neuroinflammation. CBD protects neurons through antioxidant, anti-inflammatory, and anti-apoptotic mechanisms that are independent of CB1/CB2 receptors, making it valuable for treating alcohol-related brain damage.
+- **CBD's neuroprotective role:** Chronic alcohol use causes neuronal damage through [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], excitotoxicity, and neuroinflammation. CBD protects neurons through antioxidant, anti-inflammatory, and anti-apoptotic mechanisms that are independent of CB1/CB2 receptors, making it valuable for treating alcohol-related brain damage.
 
 - **Substitution hypothesis:** Cannabis may serve as a safer substitute for alcohol, providing some of the relaxation and euphoria that alcohol-dependent individuals seek, without the severe organ toxicity, overdose risk, and withdrawal danger of alcohol.
 
@@ -88,7 +88,7 @@ The clinical evidence for cannabis in alcoholism is modest but encouraging, with
 
 - **For acute withdrawal support:** CBD 50-100 mg per day, divided into multiple doses, may help manage anxiety, insomnia, and craving during the acute withdrawal period (first 1-2 weeks).
 
-- **Strain selection:** Indica-dominant strains with balanced THC:CBD ratios may be optimal, providing relaxation and anxiety relief without excessive stimulation that could increase restlessness during early recovery.
+- **[[blesching-cannabis-strain-selection-receptor-targeting]]:** Indica-dominant strains with balanced THC:CBD ratios may be optimal, providing relaxation and anxiety relief without excessive stimulation that could increase restlessness during early recovery.
 
 - **Timing:** For craving management, use cannabis at the times when alcohol cravings typically peak (evenings, social situations, stressful events). For neuroprotection, consistent daily CBD dosing is recommended regardless of craving status.
 
@@ -110,7 +110,7 @@ The clinical evidence for cannabis in alcoholism is modest but encouraging, with
 
 ## Mind-Body Perspective
 
-Severe childhood stressors associated with increased addiction vulnerability. Contributing factors: self-pity, hopelessness, shame, guilt, judgments, hard-heartedness, blame. Replacement: self-acceptance, forgiveness, gratitude, love, intimacy, connection with something larger, finding what matters, passion, hope, trust.
+Severe childhood stressors associated with increased addiction vulnerability. [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]]: self-pity, hopelessness, shame, guilt, judgments, hard-heartedness, blame. Replacement: self-acceptance, forgiveness, gratitude, love, intimacy, connection with something larger, finding what matters, passion, hope, trust.
 
 ## Related Pages
 

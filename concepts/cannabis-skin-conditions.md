@@ -1,11 +1,11 @@
 ---
-title: Cannabis for Skin Conditions
+title: Cannabis for cannabis-for-skin-conditions-detailed
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis for Skin Conditions
 
@@ -45,7 +45,7 @@ CBD has demonstrated particular promise for skin conditions due to:
 - Strong anti-inflammatory properties without psychoactive effects
 - Ability to reduce cytokine production in skin cells
 - Sebum-regulating properties (relevant for acne-associated dermatitis)
-- Good safety profile for topical use
+- Good [[cannabis-safety-profile-and-overdose-risk]] for topical use
 
 ## Acne
 
@@ -84,16 +84,16 @@ Emerging research suggests cannabinoids may influence wound healing:
 - **Creams and lotions**: Water-based, easier to spread over large areas
 - **Oils and tinctures**: Can be applied directly to skin or added to baths
 - **Patches**: Transdermal delivery for sustained release
-- **Raw cannabis poultices**: Traditional preparation using fresh plant material
+- **Raw cannabis poultices**: [[kava-traditional-preparation-ceremonial-context]] using fresh plant material
 
 ### Key Considerations for Topical Use
 - Topicals generally do not produce psychoactive effects because cannabinoids do not enter the bloodstream in significant quantities through the skin
 - The addition of terpenes may enhance penetration and provide additional therapeutic benefits
-- Full-spectrum preparations (containing multiple cannabinoids and terpenes) may provide superior results due to the entourage effect
+- Full-spectrum preparations (containing multiple cannabinoids and terpenes) may provide superior results due to the [[cannabis-terpene-entourage-effect-profiles]]
 - Patch testing is recommended before widespread use to check for skin sensitivity
 
 ### Combining with (E)-Beta-caryophyllene
-(E)-Beta-caryophyllene is a dietary cannabinoid found in black pepper, clove, cinnamon, and other common spices that selectively activates CB2 receptors. It is already used in dermatological preparations and cosmetics, and combining it with cannabis-derived cannabinoids may enhance anti-inflammatory and skin-healing effects.
+(E)-Beta-caryophyllene is a dietary cannabinoid found in [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], clove, cinnamon, and other common spices that selectively activates CB2 receptors. It is already used in dermatological preparations and cosmetics, and combining it with cannabis-derived cannabinoids may enhance anti-inflammatory and skin-healing effects.
 
 ## Safety and Considerations
 

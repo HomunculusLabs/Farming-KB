@@ -1,5 +1,5 @@
 ---
-title: "Nuclear Power and Fossil Fuel Techno-Optimism"
+title: "Nuclear Power and holmgren-fossil-fuel-pulse-and-energy-descent-cycle Techno-Optimism"
 created: 2026-04-26
 tags:
   - nuclear
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: concept
 ---
 
@@ -33,7 +34,7 @@ expensive forms of power generation when all costs are accounted for.
 
 Holmgren frames Permaculture's relevance within a future of declining
 energy, but considers what its relevance might be in "some brave new
-world of abundant energy and resources (nuclear, genetic engineering,
+world of abundant energy and resources (nuclear, [[fukuoka-textdoc-genetic-engineering-critique-warning]],
 space colonies, or any of the other hoped-for or feared possibilities)."
 He suspects Permaculture's influence would contract to isolated
 individuals and groups who hold to minimal energy use for ethical reasons.
@@ -48,8 +49,8 @@ explicitly links this to the concept in his
 [[holmgren-biomass-fuels-and-energy-yield-ratios]] provides far greater real energy return than
 any nuclear or high-tech alternative. Trees, as
 [[holmgren-energy-descent-planning]],
-[[permaculture-non-renewable-energy-investment]],
-[[holmgren-renewable-resources-detailed]].
+permaculture-non-renewable-energy-investment,
+holmgren-renewable-resources-detailed.
 ## Practical Considerations
 
 When working with Nuclear Power and Fossil Fuel Techno-Optimism, several practical factors should be
@@ -66,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +109,5 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[david-holmgren]]

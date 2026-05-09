@@ -6,10 +6,10 @@ type: concept
 tags: [reference]
 ## See Also
 
-- [[crop-rotation-benefits]]
-- [[root-crops-growing-guide]]
-- [[organic-vegetable-garden-rotation-deep-beds]]
-- [[companion-cultivation-of-mushrooms-with-garden-vegetables]]
+- crop-rotation-benefits
+- root-crops-growing-guide
+- organic-vegetable-garden-rotation-deep-beds
+- companion-cultivation-of-mushrooms-with-garden-vegetables
 
 ## Merged: How Do I Grow Alliums (Garlic, Onions, Leeks, Shallots) Successfully?
 
@@ -38,8 +38,8 @@ Quick-reference FAQ for planting, growing, harvesting, and saving seed for the m
 All alliums share the same soil preferences:
 
 - **Well-drained, loose loam** with pH 6.0–7.0 (6.5 is ideal). Soggy soil causes rot.
-- **Dig in 2–3 inches of compost** and a balanced organic fertilizer (or bone meal for phosphorus) before planting. Alliums are moderate feeders — excess nitrogen produces lush tops but small bulbs.
-- **Raised beds or mounded rows** are strongly recommended in heavy clay or high-rainfall areas. Even 4–6 inches of elevation helps.
+- **Dig in 2–3 inches of compost** and a balanced [[complete-organic-fertilizer-cof-recipe-solomon]] (or bone meal for phosphorus) before planting. Alliums are moderate feeders — excess nitrogen produces lush tops but small bulbs.
+- **[[comparison-raised-beds-vs-hugelkultur]] or mounded rows** are strongly recommended in heavy clay or high-rainfall areas. Even 4–6 inches of elevation helps.
 - **Remove rocks and debris** — bulbs need unrestricted expansion. A fine tilth to 6–8 inches depth is the minimum target.
 - **Avoid fresh manure** — it can introduce allium pests (maggots) and burn cloves/sets.
 
@@ -60,13 +60,13 @@ All alliums share the same soil preferences:
 
 ## How Can I Use Alliums for Pest Control via Interplanting?
 
-Alliums release sulfur compounds (allicin and others) that deter a wide range of pests. Key companion pairings:
+Alliums release sulfur compounds ([[allicin]] and others) that deter a wide range of pests. Key companion pairings:
 
 - **With brassicas (cabbage, kale, broccoli):** Deters cabbage moths, aphids, and cabbage maggots. Interplant garlic or onion sets every 12–18 inches among brassicas.
 - **With carrots:** Classic "carrots love onions" pairing. Onions deter carrot rust fly; carrots deter onion maggot. Interplant in alternating rows or scattered blocks.
-- **With tomatoes and peppers:** Garlic repels spider mites and aphids. Plant garlic cloves around the perimeter of tomato beds.
-- **Around fruit trees:** Garlic planted at the drip line deters borers and aphids. Garlic chives work well here too.
-- **General pest deterrence:** Interplanting alliums throughout the garden reduces overall pest pressure. Avoid planting alliums near legumes (beans, peas) — some evidence suggests they stunt each other.
+- **With tomatoes and peppers:** Garlic repels [[cervantes-spider-mites-identification-control]] and aphids. Plant garlic cloves around the perimeter of tomato beds.
+- **Around [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]:** Garlic planted at the drip line deters borers and aphids. Garlic chives work well here too.
+- **General [[foliar-pest-deterrence-aact-mechanisms]]:** Interplanting alliums throughout the garden reduces overall pest pressure. Avoid planting alliums near legumes (beans, peas) — some evidence suggests they stunt each other.
 
 ---
 
@@ -135,5 +135,6 @@ Proper curing is essential for storage life. The goal is to dry the outer wrappe
 
 ---
 
-*See also: alliums growing guide · [[query-how-to-grow-shiitake-mushrooms-on-logs]]
+*See also: alliums [[comparison-bean-growing-guide-vs-pepper-growing-guide]] · [[query-how-to-grow-shiitake-mushrooms-on-logs]]
 - [[query-what-is-super-cropping-and-when-to-do-it]]
+- [[solomon-growing-garlic-onions-leeks]]

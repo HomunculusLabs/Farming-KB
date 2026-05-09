@@ -78,7 +78,7 @@ Modern variable-frequency drives change both supply frequency and voltage, makin
 For fans and pumps, reducing speed can save large amounts of energy because fluid power often scales strongly with speed.
 A drive usually maintains an approximate volts-per-hertz ratio below base speed to preserve air-gap flux.
 Above base speed, voltage may be limited and the motor enters a field-weakening region with reduced torque capability.
-Drive control methods include scalar volts-per-hertz control, vector control, and direct torque control.
+Drive [[cho-natural-pest-control-methods]] include scalar volts-per-hertz control, vector control, and direct torque control.
 Drives introduce harmonics, insulation stress, bearing currents, electromagnetic compatibility concerns, and cooling changes at low speed.
 
 ## Efficiency and Losses
@@ -106,11 +106,11 @@ The rotor contains laminated steel and either cage bars with end rings or wound 
 The air gap must be small for good magnetizing performance but large enough to tolerate manufacturing and bearing clearances.
 Bearings, shaft, fan, enclosure, and mounting determine mechanical reliability as much as electromagnetic design does.
 Common enclosures include open drip-proof and totally enclosed fan-cooled forms.
-Thermal class, service factor, ambient temperature, altitude, and duty cycle influence allowable loading.
+Thermal class, service factor, [[jadam-ambient-temperature-principle]], altitude, and duty cycle influence allowable loading.
 Misalignment, unbalance, contamination, and blocked cooling paths can destroy a motor even when electrical design is sound.
 
 ## Applications and Failure Modes
-Induction motors dominate fixed industrial drives because they combine low cost with high reliability.
+Induction motors dominate fixed industrial drives because they combine [[jadam-ultra-low-cost-agriculture]] with high reliability.
 Selection begins with required power, speed, torque profile, starting duty, supply voltage, enclosure, and environment.
 Loads such as conveyors may need high starting torque, while centrifugal fans and pumps may benefit most from variable speed control.
 Electrical failures include insulation breakdown, turn-to-turn shorts, phase imbalance, single phasing, and surge damage from drives or switching.
@@ -119,7 +119,7 @@ Thermal failures arise from overload, poor ventilation, high ambient temperature
 Good troubleshooting separates supply problems, drive settings, driven-load problems, and motor internal faults.
 
 ## Related Concepts
-Induction motor operation is a practical expression of electromagnetic induction and rotating fields.
+Induction motor operation is a practical expression of [[electromagnetic-induction-faraday-law]] and rotating fields.
 It is closely related to transformers because energy crosses a magnetic coupling, but it adds mechanical motion and slip.
 It contrasts with synchronous motors, which can run at exact synchronous speed under steady conditions.
 It also connects to power electronics, thermal management, machine vibration, reliability engineering, and industrial automation.
@@ -130,4 +130,4 @@ A clear grasp of slip and torque explains most everyday behavior of the machine,
 - Wikipedia contributors, "Rotating magnetic field," accessed 2026-05-02.
 - Wikipedia contributors, "AC motor," accessed 2026-05-02.
 
-See also: [[natural-building-techniques]]
+See also: [[natural-building]]

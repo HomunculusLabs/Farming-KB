@@ -56,7 +56,7 @@ esoterically oriented Barquinha.
 ### Expansion and International Presence
 The Santo Daime has expanded significantly beyond its Amazonian origins and now
 has congregations in urban centers throughout Brazil as well as satellite
-centers in North America, Europe, and other parts of the world. The
+centers in [[psilocybin-north-america-pacific-northwest]], Europe, and other parts of the world. The
 international expansion has brought both greater visibility and new challenges,
 including legal issues related to the controlled status of DMT (the primary
 psychoactive compound in ayahuasca) in many countries.
@@ -69,7 +69,7 @@ structured. Participants sit in rows in straight-backed chairs during the
 ceremony, listening to sermons and songs given by the maestres who sit around a
 table in the center. There is also a question-and-answer period, in which
 participants can ask the maestres about spiritual matters. This format
-resembles a classroom or lecture more than a traditional shamanic ceremony,
+resembles a classroom or lecture more than a traditional [[metzner-shamanic-ceremony-three-features-darkness-singing-silence]],
 reflecting the UDV's emphasis on rational understanding and intellectual
 engagement with the ayahuasca experience.
 
@@ -96,7 +96,7 @@ The Barquinha church, less well known outside of Brazil, has incorporated
 elements of Umbanda, an Afro-Brazilian religious movement that involves contact
 with deceased ancestors and deities known as orixas. These ceremonies also
 involve both singing and dancing. The Barquinha's incorporation of Umbanda
-elements gives it a distinctive character that blends Amazonian ayahuasca
+elements gives it a distinctive character that blends [[harner-amazonian-ayahuasca-preparation-methods]]
 practice with Afro-Brazilian spiritism.
 
 ### Esoteric Orientation
@@ -140,12 +140,10 @@ and cultural legitimacy for practices that might otherwise be suppressed.
 
 ## Broader Significance
 
-### Cultural Transformation Movement
-Metzner suggests that these syncretic religious movements, particularly the
 ## See Also
+
+- [[metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism]]
 - [[metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha]]
 - [[dmt]]
 
 ## See Also
-
-- [[brazilian-ayahuasca-churches]]

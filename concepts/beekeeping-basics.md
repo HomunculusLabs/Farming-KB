@@ -4,7 +4,8 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [homesteading, biology, methods, troubleshooting, ecology]
-sources: []
+sources:
+  sources: []
 ---
 
 # Beekeeping Basics
@@ -137,31 +138,6 @@ A vertical top bar hive. Boxes are added to the bottom (nadiring) rather than th
 
 ### Varroa Mites (Varroa destructor)
 The most serious threat to honey bees worldwide. Mites feed on adult bees and brood, transmitting viruses that weaken and kill colonies.
-
-**Monitoring**: Sugar shake test, alcohol wash, or sticky board. Threshold for treatment is typically 3 mites per 100 bees (3%).
-**Treatment**: Oxalic acid vaporization, formic acid (MAQS), amitraz (Apivar), or mechanical methods (drone brood removal). Rotate treatments to prevent resistance.
-
-### Small Hive Beetle (Aethina tumida)
-Beetles that lay eggs in hives. Larvae tunnel through comb, defecating and fermenting honey, which runs out of the hive.
-**Management**: Maintain strong colonies that can defend themselves. Beetle traps (oil traps, beetle blasters). Keep apiary clean and remove debris.
-
-### Wax Moths
-Larvae that destroy comb, especially in weak colonies or stored equipment.
-**Management**: Maintain strong colonies. Freeze stored frames for 48 hours before storage. Store supers with paradichlorobenzene (PDB) crystals (not mothballs).
-
-### Swarming
-Natural colony reproduction — the old queen and half the bees leave to establish a new colony. Swarming reduces your honey production and the parent colony.
-
-**Prevention**: Provide adequate space (add supers early). Requeen annually with young queens. Remove queen cells during inspections. Create artificial swarms (splits) to manage colony expansion.
-
-## Honey Harvest
-
-1. **Remove supers**: Clear bees from honey supers using a bee escape board, bee brush, or fume board.
-2. **Uncap**: Remove the wax cappings from honeycomb frames using a hot knife or uncapping fork.
-3. **Extract**: Place frames in a honey extractor and spin to fling honey out of the comb by centrifugal force.
-4. **Filter and bottle**: Strain honey through a coarse filter or cheesecloth. Bottle in clean, dry jars.
-5. **Store**: Honey never spoils. Store at room temperature. Do not refrigerate (crystallization). If honey crystallizes, gently warm the jar in a water bath to reliquefy.
-
 ## See Also
 
 - [[companion-planting-reference]] — Planting for bee forage

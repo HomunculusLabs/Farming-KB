@@ -1,17 +1,13 @@
 ---
-title: Brown Rice Flour Substrate
+title: cho-brown-rice-vinegar-preparation Flour Substrate
 created: 2026-04-28
-tags: [[mycology, substrate, nutrition, cultivation, pf-tek]
+tags: [mycology, substrate, nutrition, cultivation, pf-tek]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md]
 type: concept
 ---
-
-# Brown Rice Flour Substrate
-
-**Brown rice flour (BRF) substrate** is the foundational growing medium used in
-the [[psilocybin-mushrooms]].
+# Brown Rice Flour Substrate **Brown rice flour (BRF) substrate** is the foundational growing medium used in the [[psilocybin-mushrooms]].
 
 ## Composition and Ratios
 
@@ -28,7 +24,7 @@ The brown rice flour supplies carbohydrates and nutrients that [[sterilization]]
 
 ## The Dry Vermiculite Barrier
 
-A key innovation of the [[shotgun-fruiting-chamber]] (SGFC) — a plastic tote drilled with holes on all six sides and filled with damp perlite — provides passive humidity and air exchange adequate for small-scale cultivation. Light in the 6500K (daylight) spectrum for 12 hours daily triggers and directs [[fruiting-body-development]]. Mushrooms will grow toward light, so positioning the light source above the chamber encourages upward growth and reduces the likelihood of side-pinning.
+A key innovation of the [[shotgun-fruiting-chamber]] (SGFC) — a plastic tote drilled with holes on all six sides and filled with damp perlite — provides [[simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation]] and air exchange adequate for small-scale cultivation. Light in the 6500K (daylight) spectrum for 12 hours daily triggers and directs [[fruiting-body-development]]. Mushrooms will grow toward light, so positioning the light source above the chamber encourages upward growth and reduces the likelihood of side-pinning.
 
 ## Key Considerations
 
@@ -110,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

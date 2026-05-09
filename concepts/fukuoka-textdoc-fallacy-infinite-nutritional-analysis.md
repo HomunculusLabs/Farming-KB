@@ -1,5 +1,5 @@
 ---
-title: The Fallacy of Infinite Nutritional Analysis
+title: The Fallacy of fukuoka textdoc fallacy infinite nutritional analysis Analysis
 created: 2026-04-28
 tags:
   - fukuoka
@@ -8,7 +8,7 @@ tags:
   - diet
   - reductionism
   - philosophy
-  - natural-diet
+  - [[natural-diet]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -34,13 +34,13 @@ Before the advent of nutritional science, human beings ate what nature provided 
 
 His diet was necessarily local and seasonal — gathered wild plants, hunted game, and later cultivated grains that grew naturally in the soil beneath his feet. There was no question of whether this food was "complete" in the scientific sense because the question itself did not arise. The body, uncorrupted by artificial cravings and dietary theory, knew what it needed.
 
-The instinct that guided primitive eating has not disappeared from human biology, but it has been buried under layers of intellectual interference. Modern man distrusts his own appetite and defers instead to the latest nutritional chart. Yet the very fact that our bodies still respond with hunger, satiety, and pleasure to whole, natural foods suggests that this instinctive wisdom remains intact — waiting to be trusted again.
+The instinct that guided primitive eating has not disappeared from human biology, but it has been buried under layers of intellectual interference. Modern man distrusts his own appetite and defers instead to the latest nutritional chart. Yet the very fact that our bodies still respond with hunger, satiety, and pleasure to whole, [[fukuoka-natural-foods-movement-america]] suggests that this instinctive wisdom remains intact — waiting to be trusted again.
 
 What primitive man understood implicitly, modern science has been unable to reconstruct through analysis: that a food eaten in its natural state, in its proper season, from the soil of one's own region, is already complete. Nothing need be added, and nothing should be taken away. The irony is that science, in trying to improve upon nature's design, has only made the diet more impoverished.
 
 ## The Dietetics Delusion
 
-In contrast with the simple Eastern diet of brown rice and vegetables that provides everything the body needs, Western dietetics teaches that health cannot be maintained unless one has a balanced diet with a full complement of nutrients: starch, fat, protein, vitamins, minerals, and so on.
+In contrast with the simple Eastern diet of [[cho-brown-rice-vinegar-preparation]] and vegetables that provides everything the body needs, [[fukuoka-critique-western-dietetics-nutritional-science]] teaches that health cannot be maintained unless one has a balanced diet with a full complement of nutrients: starch, fat, protein, vitamins, minerals, and so on.
 
 It is no surprise then that some mothers stuff "nutritious food" into their children's mouths, regardless of whether it tastes good or not. Because dietetics is built upon careful scientific reasoning and calculation, the general tendency is to accept its pronouncements at face value. But this carries with it the potential for disaster.
 
@@ -54,7 +54,7 @@ The Eastern dietary tradition centers on a staple grain — brown rice — suppl
 
 The Western approach begins from the opposite premise: that the body is a machine requiring precise inputs of specific components. Nutrition is treated as a problem to be solved through measurement, classification, and intervention. The meal becomes a mathematical exercise rather than a sensory experience. Where the Eastern tradition asks "Does this food nourish the whole person?", the Western tradition asks "Does this food contain adequate vitamin B12?"
 
-These two philosophies lead to radically different food systems. The Eastern model supports small-scale local agriculture, seasonal eating, and minimal processing. The Western model demands global supply chains, year-round availability of every ingredient, and extensive industrial processing to preserve and transport foods across vast distances. The former sustains both body and land; the latter depletes both.
+These two philosophies lead to radically different food systems. The Eastern model supports small-scale local agriculture, [[fukuoka-seasonal-eating-natural-food-calendar]], and minimal processing. The Western model demands global supply chains, year-round availability of every ingredient, and extensive industrial processing to preserve and transport foods across vast distances. The former sustains both body and land; the latter depletes both.
 
 ## The Spiritual Dimension Ignored
 

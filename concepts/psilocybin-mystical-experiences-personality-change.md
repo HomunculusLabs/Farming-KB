@@ -3,18 +3,18 @@ title: Psilocybin, Mystical Experiences, and Personality Change
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - The Psilocybin Solution by Simon G. Powell
+  - The powell-psilocybin-solution-ecological-cognition-theory by Simon G. Powell
 type: concept
 tags: [mysticism, psilocybin]
 ---
 
 # Psilocybin, Mystical Experiences, and Personality Change
 
-The capacity of psilocybin to induce experiences indistinguishable from classical mystical experiences -- and the lasting personality changes that can follow -- represents one of the most significant findings in psychedelic research. The Good Friday experiment of 1962 and its 25-year follow-up provide compelling evidence that a single psilocybin experience can produce enduring transformations in personality, worldview, and spiritual wellbeing.
+The capacity of psilocybin to induce experiences indistinguishable from classical mystical experiences -- and the lasting personality changes that can follow -- represents one of the most significant findings in [[controlled-substances-act-and-psychedelic-research]]. The Good [[good-friday-experiment-marsh-chapel]] of 1962 and its 25-year follow-up provide compelling evidence that a single psilocybin experience can produce enduring transformations in personality, worldview, and spiritual wellbeing.
 
 ## The Good Friday Experiment
 
-Walter Pahnke, a psychology student working for his PhD at Harvard, arranged the now-famous Good Friday experiment (or "miracle at Marsh Chapel" as it became known) with the help of Leary and other members of the Harvard Psilocybin Project. It was an attempt to capture the psilocybin-induced mystical experience in quantitative measures via questionnaires.
+[[walter-pahnke]], a psychology student working for his PhD at Harvard, arranged the now-famous Good Friday experiment (or "miracle at Marsh Chapel" as it became known) with the help of Leary and other members of the  Project. It was an attempt to capture the psilocybin-induced mystical experience in quantitative measures via questionnaires.
 
 Twenty subjects, all theology students, took part in a double-blind study. Half received psilocybin while the other half received a mildly psychoactive placebo. No-one knew who got what, not even the experimenters, though it soon became clear who had been given the mushroom pills.
 
@@ -24,7 +24,7 @@ Incredibly, the results showed that the psilocybin group had mystical religious 
 
 ## The 25-Year Follow-Up
 
-Rick Doblin, president of the Multidisciplinary Association for Psychedelic Studies (MAPS), conducted a follow-up study of nineteen of the twenty original subjects in the late 1980s, when many of the subjects were practising Reverends. Doblin administered the same questionnaire used in the original experiment.
+Rick Doblin, president of the [[maps-multidisciplinary-association-for-psychedelic-studies]] for Psychedelic Studies (MAPS), conducted a follow-up study of nineteen of the twenty original subjects in the late 1980s, when many of the subjects were practising Reverends. Doblin administered the same questionnaire used in the original experiment.
 
 The findings were remarkable. After 25 years, there was still a significant difference between the two groups as to the reported effects of the experience. The psilocybin group's characterisation of their mystical experiences had actually strengthened (or matured). Whereas the control subjects who had received the placebo could barely remember the day in question, the psilocybin group still had clear memories of that eventful day.
 

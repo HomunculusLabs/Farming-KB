@@ -45,7 +45,7 @@ The Wassons' revelations triggered a predictable migration of "adventurers, spir
 
 ## Psilocybin and the Soma Question
 
-McKenna used the Mesoamerican evidence to revisit the ancient question of Soma — the mysterious divine intoxicant of the Vedic Indo-Europeans. While Wasson argued that Soma was the fly agaric (*Amanita muscaria*), McKenna pointed out that Wasson himself acknowledged the existence of "other fungal entheogens" growing in cattle dung in India — specifically *Stropharia cubensis* — that were "easily identified and gathered, and effective" but "known to tribals and sudras [untouchables]" and therefore excluded from Brahmanic practice.
+McKenna used the Mesoamerican evidence to revisit the ancient question of Soma — the mysterious divine intoxicant of the Vedic Indo-Europeans. While Wasson argued that Soma was the fly agaric (*[[allegro-amanita-muscaria-properties-and-pharmacology]]*), McKenna pointed out that Wasson himself acknowledged the existence of "other fungal entheogens" growing in cattle dung in India — specifically *Stropharia cubensis* — that were "easily identified and gathered, and effective" but "known to tribals and sudras [untouchables]" and therefore excluded from Brahmanic practice.
 
 McKenna argued that if Soma was in fact *Stropharia cubensis* (a psilocybin mushroom), "then the tradition could be traced unbroken back to prehistoric Africa." He accused Wasson of unconscious bias — his "tremendous aversion to 'hippies'" and his status as "quite a Brahman, an investment banker by profession and an honorary fellow of Harvard University" — for preventing him from acknowledging the obvious conclusion that psilocybin, not fly agaric, lay behind the Vedic mystery.
 
@@ -57,9 +57,9 @@ McKenna interpreted the Greek myth of Glaukos — preserved in honey, resurrecte
 
 The Mesoamerican visionary tradition extended beyond psilocybin mushrooms to include:
 
-- **Morning glories** (*Ipomoea purpurea* and *Turbina corymbosa*) — containing ergot-like alkaloids (related to LSD), used as substitutes when mushrooms were unavailable
+- **[[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]** (*Ipomoea purpurea* and *[[plants-of-the-gods-turbina-corymbosa-ololiuqui]]*) — containing ergot-like alkaloids (related to LSD), used as substitutes when mushrooms were unavailable
 - **Peyote** — mescaline-containing cactus, used by Mixtec and Mazatecan peoples
-- **Psychoactive tobaccos** — *Nicotiana rustica*, much more potent than commercial tobacco and containing harmala alkaloids
+- **Psychoactive tobaccos** — *Nicotiana rustica*, much more potent than commercial tobacco and containing [[turner-harmala-alkaloids-preparation-and-dosage]]
 
 All of these shamanic vision plants, McKenna noted, "turn out to be hallucinogenic indoles" with the single exception of mescaline (a phenethylamine).
 
@@ -79,7 +79,7 @@ These stone sculptures, found in contexts ranging from simple burials to elite c
 
 While Wasson brought public attention to the Mesoamerican mushroom cults, the botanical characterization of the mushrooms themselves was primarily the work of Richard Evans Schultes and the French mycologist Roger Heim. In the 1930s, Schultes identified *Psilocybe caerulescens* and *Panaeolus sphinctrinus* as likely candidates for the teonanacatl of the Aztecs. Schultes's fieldwork established the taxonomic framework that later researchers would build upon.
 
-Roger Heim, working with Wasson's specimens from the Sierra Mazateca, conducted the detailed mycological analysis that identified over two dozen psychoactive species in the region. Heim cultivated several of these species in his laboratory at the Muséum National d'Histoire Naturelle in Paris, producing fruiting bodies under controlled conditions. These cultivated specimens were then sent to Albert Hofmann at Sandoz Laboratories in Basel, Switzerland, where the active compounds were isolated. Hofmann identified psilocybin and psilocin as the primary psychoactive alkaloids in 1958, the same year he first synthesized psilocybin, confirming its structural relationship to serotonin and LSD.
+Roger Heim, working with Wasson's specimens from the Sierra Mazateca, conducted the detailed mycological analysis that identified over two dozen psychoactive species in the region. Heim cultivated several of these species in his laboratory at the Muséum National d'Histoire Naturelle in Paris, producing fruiting bodies under controlled conditions. These cultivated specimens were then sent to Albert Hofmann at Sandoz Laboratories in Basel, Switzerland, where the active compounds were isolated. Hofmann identified psilocybin and psilocin as the primary psychoactive alkaloids in 1958, the same year he first synthesized psilocybin, confirming its [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to serotonin and LSD.
 
 ## Modern Mazatec Mushroom Taxonomy
 
@@ -101,11 +101,13 @@ Conservation efforts have focused on documenting the remaining traditional knowl
 
 ## The Modern Resurgence of Psilocybin Research
 
-The clinical research renaissance in psilocybin therapy, which has accelerated dramatically since the 2010s, has created an ironic feedback loop with the Mazatec tradition that originally brought the mushroom to Western attention. Modern clinical trials at institutions including Johns Hopkins, Imperial College London, and NYU have demonstrated significant therapeutic potential for psilocybin in treating depression, anxiety, end-of-life distress, and substance use disorders. These trials use synthetic psilocybin in highly controlled settings, a far cry from the traditional velada, yet the fundamental pharmacological mechanism — the activation of serotonin 5-HT2A receptors — is the same.
+The [[hofmann-lsd-clinical-research-early-studies]] renaissance in psilocybin therapy, which has accelerated dramatically since the 2010s, has created an ironic feedback loop with the Mazatec tradition that originally brought the mushroom to Western attention. Modern clinical trials at institutions including Johns Hopkins, Imperial College London, and NYU have demonstrated significant therapeutic potential for psilocybin in treating depression, anxiety, end-of-life distress, and substance use disorders. These trials use synthetic psilocybin in highly controlled settings, a far cry from the traditional velada, yet the fundamental pharmacological mechanism — the activation of serotonin 5-HT2A receptors — is the same.
 
 The scientific validation of psilocybin's therapeutic potential has, in turn, increased interest in the traditional contexts from which the mushroom was originally derived. Researchers studying the Mazatec tradition have noted that the ceremonial framework of the velada — the darkness, the chanting, the guided attention, the social support of the community — provides a therapeutic context that may enhance and integrate the psychedelic experience in ways that laboratory settings cannot fully replicate. This observation has informed the development of modern psychedelic therapy protocols that increasingly incorporate elements of set, setting, and ceremonial structure reminiscent of indigenous practices.
 
 ## See Also
+
+- [[porphyry-mushrooms-as-divine-food]]
 
 - [[mckenna-food-of-the-gods-dominance-culture-and-ego]]
 - [[mckenna-food-gods-amazonian-shamanism-ayahuasca]]

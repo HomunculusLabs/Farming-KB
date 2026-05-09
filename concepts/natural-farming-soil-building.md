@@ -1,17 +1,18 @@
 ---
-title: Natural Farming Soil Building
+title: comparison-natural-farming-vs-permaculture Soil Building
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [agriculture, homesteading]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Natural Farming Soil Building
 
 Masanobu Fukuoka's approach to [[natural-farming-soil-management]]
 
-- [[fukuoka-ground-cover-strategy]] -- living ground cover protects soil
+- [[fukuoka-ground-cover-strategy]] -- living [[fukuoka-citrus-orchard-ground-cover-cultivation]] protects soil
 - [[fukuoka-rice-and-barley-natural-farming]] -- the system that builds soil
 - [[holmgren-soil-humus-carbon-storage-rebuilding]]
 - [[natural-farming-philosophy]] -- the broader philosophy
@@ -98,4 +99,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

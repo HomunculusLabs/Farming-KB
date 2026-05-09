@@ -16,7 +16,7 @@ The HEPA (High Efficiency Particulate Air) filter is the critical component that
 ### Filter Ratings and Standards
 - **HEPA class**: H13-H14 per EN 1822 (European standard)
 - **US standard**: 99.97% DOP efficiency at 0.3 microns
-- **ULPA** (Ultra-Low Penetration Air) filters offer even higher efficiency (99.999%) but are overkill for [[agar]] plates in the work zone
+- **ULPA** (Ultra-Low Penetration Air) filters offer even higher efficiency (99.999%) but are overkill for agar plates in the work zone
 
 ### Replacement Procedure
 1. Turn off and unplug the blower
@@ -100,4 +100,6 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+- [[laminar-flow-hood-diy-construction]]
+- [[laminar-flow-hood-guide]]
+- [[comparison-laminar-flow-hood-vs-fruiting-chamber]]

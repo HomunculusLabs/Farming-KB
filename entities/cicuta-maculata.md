@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-*Cicuta maculata* is the most widely distributed of four *Cicuta* species and is widely regarded as North America's most violently toxic native plant. All parts of the plant contain cicutoxin, a potent polyacetylene neurotoxin that causes fatal seizures, often within hours of ingestion.
+*Cicuta maculata* is the most widely distributed of four *Cicuta* species and is widely regarded as [[psilocybin-north-america-pacific-northwest]]'s most violently toxic native plant. All parts of the plant contain cicutoxin, a potent polyacetylene neurotoxin that causes fatal seizures, often within hours of ingestion.
 
 Despite its lethal toxicity, *C. maculata* is frequently confused with edible Apiaceae such as wild parsnip, wild carrot, and water celery — a dangerous misidentification that causes livestock and human fatalities nearly every year.
 
@@ -38,7 +38,7 @@ Despite its lethal toxicity, *C. maculata* is frequently confused with edible Ap
 referring to the purple streaking on the stem.
 
 **Varieties (4 recognized):**
-- *C. m.* var. *maculata* — Eastern North America
+- *C. m.* var. *maculata* — [[polypore-fungi-eastern-north-america]] America
 - *C. m.* var. *angustifolia* — Western, narrow-leaved form
 - *C. m.* var. *bolanderi* — Sierra Nevada and Pacific ranges
 - *C. m.* var. *picta* — Great Plains and Rocky Mountains
@@ -69,7 +69,7 @@ reliable diagnostic character for *Cicuta* identification.
 - **Community type:** Common in freshwater wetlands, riparian corridors, and
   disturbed wet areas such as roadside ditches
 
-Plants are most toxic in early spring during active growth, but all parts remain
+Plants are most toxic in [[coleman-overwintered-onions-and-early-spring-crops]] during active growth, but all parts remain
 dangerous year-round. The rootstock retains toxicity even when dried.
 
 ## Chemistry: Cicutoxin
@@ -120,4 +120,4 @@ Despite its toxicity, *C. maculata* plays ecological roles:
 
 ## See Also
 
-- [[native-american-planting-methods-and-indigenous-agriculture]]
+- [[natives-vs-exotics]]

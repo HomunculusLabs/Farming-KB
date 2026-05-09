@@ -23,12 +23,12 @@ comprehensive reference for safe [[leaf-mold-composting]]) to prevent odor, excl
 2. **Container-based collection**: A simple [[garden-soil-basics]], this
 represents substantial fertility that would otherwise require purchased inputs.
 Solomon notes that anyone who cannot afford commercial fertilizer, or who lacks
-access to sufficient animal manure, should seriously consider humanure as their
+access to sufficient [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]], should seriously consider humanure as their
 primary fertility source.
 
 Solomon connects humanure to his broader argument about complete biomass recycling:
 if a garden is to maintain fertility indefinitely without external inputs, all
-organic matter — including human waste — must be returned to the soil.
+[[hamilton-composting-and-organic-matter-management]] — including human waste — must be returned to the soil.
 
 ## Cultural and Psychological Barriers
 
@@ -47,7 +47,7 @@ recycling skill whether they want to or not.
 - composting basics and methods
 - soil organic matter and tilth
 - [[cover-cropping-guide]]-and
-- self sufficiency calorie production
+- [[fukuoka-textdoc-basic-agriculture-law-japan-food-self-sufficiency-crisis]] calorie production
 
 ## References
 
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

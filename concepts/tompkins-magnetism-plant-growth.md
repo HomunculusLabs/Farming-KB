@@ -29,7 +29,7 @@ that tomatoes ripen inexplicably faster nearer the south than the north
 pole of a magnet.
 
 In Canada, Dr. U. J. Pittman of the Agricultural Research Station in
-Lethbridge, Alberta, observed across the North American continent that
+Lethbridge, Alberta, observed across the [[growing-gourmet-north-american-reishi-species]] continent that
 the roots of various domestic and wild cereal grains, as well as those
 of many weed species, consistently aligned themselves in a north-south
 plane parallel to the horizontal force of the earth's magnetic field.
@@ -92,7 +92,7 @@ mother" -- the living earth.
 The broader history of electroculture -- the use of electrical and
 magnetic forces to stimulate plant growth -- extends back centuries.
 Selim Lemstrom, a Finnish professor, conducted extensive experiments
-in the late nineteenth century showing that plants exposed to
+in the late [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] showing that plants exposed to
 atmospheric electricity grew more vigorously. His work was published
 in 1902 and included observations that strawberries grown under
 electrical stimulation not only produced more abundantly but were

@@ -1,15 +1,12 @@
 ---
-title: Fungi in the Environment - Fungal Spore Dispersal
+title: Fungi in the Environment - Fungal aquatic-fungi-spore-dispersal-ingold
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: [raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
 ---
-
-# Fungal Spore Dispersal
-
-Fungal reproduction and dispersal represent remarkable adaptations to life as non-motile organisms. Fungi have evolved an extraordinary array of mechanisms for producing, launching, and distributing spores -- the primary units of dispersal and survival. [[fungal-conidia-and-spore-types]] and other asexual spores are produced mitotically and are genetically identical to the parent. Asexual reproduction is thought to predominate in many plant pathogenic fungi in the field, enabling rapid population expansion when conditions are favourable. The three-celled conidia of M. grisea are dispersed by wind, dew, or rain splash.
+# Fungal Spore Dispersal Fungal reproduction and dispersal represent remarkable adaptations to life as non-motile organisms. Fungi have evolved an extraordinary array of mechanisms for producing, launching, and distributing spores -- the primary units of dispersal and survival. [[fungal-conidia-and-spore-types]] and other asexual spores are produced mitotically and are genetically identical to the parent. Asexual reproduction is thought to predominate in many plant pathogenic fungi in the field, enabling rapid population expansion when conditions are favourable. The three-celled conidia of M. grisea are dispersed by wind, dew, or rain splash.
 
 ### Survival Spores
 
@@ -18,23 +15,23 @@ Some spores are adapted to remain dormant and resist adverse conditions until th
 ## Spore Germination and Establishment
 
 Successful dispersal culminates in germination and establishment on a suitable substrate. Spore germination is regulated by multiple environmental cues:
-- Nutrient availability
+- [[ph-and-nutrient-availability-garden-soils]]
 - Temperature
 - Moisture
 - pH
-- Chemical signals from potential hosts or substrates
+- [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] from potential hosts or substrates
 - Light (for some species)
 
 In [[entomopathogenic-fungal-diversity-cordyceps-insect-pathogens]] spore dispersal informs disease forecasting and management
-- Spore dispersal of beneficial fungi (mycorrhizal inoculants, biocontrol agents) affects application strategies
-- Compost and organic matter management affects spore survival and dispersal of decomposer fungi
+- Spore dispersal of beneficial fungi ([[pgpr-mycorrhizal-inoculants-microplant-establishment]], biocontrol agents) affects application strategies
+- [[coleman-compost-and-organic-fertility-management]] matter management affects spore survival and dispersal of decomposer fungi
 - [[spore-interstellar-dispersal-hypothesis]]
 
 - [[fungal-spore-biology]]
 - [[fungal-conidia-and-spore-types]]
 - [[aquatic-hyphomycetes-and-ingoldian-spores]]
 
-[[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]] depend on successful spore germination and hyphal contact with host roots, making dispersal ecology central to mycorrhizal establishment.
+[[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]] depend on successful spore germination and hyphal contact with host roots, making seed dispersal ecology and mechanisms central to mycorrhizal establishment.
 
 [[arbuscular-mycorrhizal-spore-extraction-methods]] provides practical techniques for isolating and quantifying spores from soil, directly informed by the dispersal biology described here.
 ## Practical Applications
@@ -115,3 +112,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[fungal-spore-dispersal-gravitropic-orientation]]

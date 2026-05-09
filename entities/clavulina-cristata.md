@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Corner, E.J.H. (1950). "A Monograph of Clavaria and Allied Genera." Annals of Botany Memoirs, Oxford.
-  - Petersen, R.H. (1988). "The Clavariaceae of North America Revisited." Mycotaxon 33: 1-130.
+  - Petersen, R.H. (1988). "The Clavariaceae of North [[fukuoka-america-revisited-agricultural-revolution]]." Mycotaxon 33: 1-130.
   - Kuo, M. (2023). "Clavulina cristata." MushroomExpert.com.
   - Arnolds, E. (2006). "The Fungi of the Netherlands." CBS Biodiversity Series.
 ---
@@ -71,8 +71,8 @@ species that are four-spored.
 ## Distribution and Habitat
 
 *Clavulina cristata* has a broad circumboreal distribution across temperate and
-boreal forests of the Northern Hemisphere. It is found throughout Europe, North
-America, and Asia, extending into parts of Central America.
+[[fungal-diversity-boreal-forests-taiga]] of the Northern Hemisphere. It is found throughout Europe, North
+America, and Asia, extending into parts of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
 
 The species occurs in a wide range of forest types including mixed hardwood
 forests, coniferous woods, and oak-pine associations. It fruits from mid-summer
@@ -85,7 +85,7 @@ occurs in scattered groups or dense clusters and can be locally abundant in
 favorable years.
 
 The species shows preference for acidic to neutral soils in mature forests with
-well-developed mycorrhizal networks. It is less common in young stands or
+well-developed [[dighton-mycorrhizal-networks-carbon-transfer]]. It is less common in young stands or
 disturbed habitats.
 
 ## Edibility and Culinary Use
@@ -114,8 +114,8 @@ beeches (*Fagus* spp.), pines (*Pinus* spp.), spruces (*Picea* spp.), and
 various other ectomycorrhizal tree genera. This broad host range contributes to
 its wide geographic distribution and habitat versatility.
 
-As a decomposer of organic matter in the soil horizon, *C. cristata*
-contributes to nutrient cycling in forest ecosystems. Its mycelium helps bind
+As a decomposer of [[hamilton-composting-and-organic-matter-management]] in the soil horizon, *C. cristata*
+contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest ecosystems. Its mycelium helps bind
 soil particles, improving soil structure and water retention in the rooting
 zone.
 
@@ -137,10 +137,9 @@ vertically oriented form.
 colored (yellow, orange, pink), and have a different microscopic profile with
 four-spored basidia and frequently amyloid spore ornamentation.
 
-*Multiclavula mucida* is a much smaller, club-shaped lichenized fungus that
-grows on algae-coated wood and is easily distinguished by its minute size and
-obligate association with algae.
 ## See Also
+
+- [[clavulina-rugosa]]
 
 - [[cantharellus-cibarius-entity]] — Chanterelle, fellow Cantharellales member of forest floors
 - [[ramaria-stricta]] — Common coral fungus of similar appearance but larger stature

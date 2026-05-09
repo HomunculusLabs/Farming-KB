@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Wagner, W.H. & Wagner, F.S. (1993). "Ophioglossaceae." Flora of North America, Vol. 2.
+  - Wagner, W.H. & Wagner, F.S. (1993). "Ophioglossaceae." Flora of psilocybin-north-america-pacific-northwest, Vol. 2.
   - Page, C.N. (1997). "The Ferns of Britain and Ireland." Cambridge University Press.
   - Kershaw, L. et al. (2001). "Edible and Medicinal Plants of the Rockies." Lone Pine Publishing.
   - Farrar, D.R. (2006). "Ophioglossaceae." in: Flora of North America Editorial Committee.
@@ -37,9 +37,9 @@ The sterile trophophore is once-pinnate with 3–8 pairs of fan-shaped pinnae, e
 
 The fertile sporophore rises above the sterile frond on a separate stalk. It bears numerous sporangia in two ranks along the panicle, creating the grape-cluster appearance referenced in the genus name.
 
-Spores are yellow to pale green, roughly 20–30 µm in diameter, and released from June through August depending on latitude and elevation. The gametophyte stage is subterranean and mycoheterotrophic, depending entirely on endophytic fungi for nutrition.
+Spores are yellow to pale green, roughly 20–30 µm in diameter, and released from June through August depending on latitude and elevation. The gametophyte stage is subterranean and mycoheterotrophic, depending entirely on [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]] for nutrition.
 
-Roots are fleshy, unbranched, and relatively few in number, typically arising from the base of the caudex. The root system supports symbiotic associations with arbuscular mycorrhizal fungi essential for nutrient uptake.
+Roots are fleshy, unbranched, and relatively few in number, typically arising from the base of the caudex. The root system supports symbiotic associations with [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi essential for nutrient uptake.
 
 ## Distribution and Habitat
 
@@ -63,7 +63,7 @@ Botrychium lunaria has a rich history in European folk medicine dating back to c
 
 In traditional European herbalism, the whole plant was used as an astringent, diuretic, and vulnerary. Preparations included infusions of the fresh or dried herb, and the plant was applied externally to wounds and skin complaints.
 
-Native American peoples of the Great Lakes and Rocky Mountain regions used moonwort in medicinal preparations. The Okanagan-Colville prepared a poultice from the plant for wounds, while other groups used infusions for stomach ailments.
+[[halpern-sacramental-peyote-and-native-american-church]] peoples of the Great Lakes and Rocky Mountain regions used moonwort in medicinal preparations. The Okanagan-Colville prepared a poultice from the plant for wounds, while other groups used infusions for stomach ailments.
 
 The plant was historically harvested for the dried herb trade in Europe, contributing to population declines in some areas. Over-collection combined with habitat loss led to its protection under conservation legislation in several countries.
 
@@ -71,7 +71,7 @@ Limited phytochemical analysis has identified flavonoids, alkaloids, and phenoli
 
 ## Ecology and Conservation
 
-As an obligate mycoheterotroph during its gametophyte stage, B. lunaria depends entirely on endophytic fungi for nutrition before the sporophyte develops photosynthetic capacity. This fungal dependency makes the species sensitive to soil disturbance and mycorrhizal network disruption.
+As an obligate mycoheterotroph during its gametophyte stage, B. lunaria depends entirely on endophytic fungi for nutrition before the sporophyte develops photosynthetic capacity. This fungal dependency makes the species sensitive to soil disturbance and [[arbuscular-mycorrhizal-network-visualization-anastomosis]] disruption.
 
 The sporophyte retains partial mycoheterotrophy as an adult, supplementing photosynthesis with carbon acquired from fungal partners. This mixed nutritional strategy allows moonwort to persist in low-light environments but limits its competitive ability in dense vegetation.
 
@@ -79,7 +79,7 @@ Grazing animals generally avoid moonwort, which may contribute to its persistenc
 
 Conservation concerns include habitat loss from agricultural intensification, forestry operations, and urban development. The species is listed as near-threatened on several European national red lists and as endangered in US states including New York and Vermont.
 
-Climate change poses a long-term threat by shifting alpine habitat zones upward, effectively reducing available habitat at lower elevations. Phenological mismatches with mycorrhizal partners under altered temperature regimes remain poorly understood.
+[[dighton-fungi-climate-change-feedback]] poses a long-term threat by shifting alpine habitat zones upward, effectively reducing available habitat at lower elevations. Phenological mismatches with mycorrhizal partners under altered temperature regimes remain poorly understood.
 
 Ex situ conservation programs at several botanical gardens have established cultivated populations as an insurance against wild extinction. Seed banking of spores is technically feasible but rarely practiced due to limited demand and uncertain long-term viability.
 

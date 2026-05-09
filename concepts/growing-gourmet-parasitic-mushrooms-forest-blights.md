@@ -1,5 +1,5 @@
 ---
-title: "Parasitic Mushrooms: Blights of the Forest"
+title: "growing gourmet parasitic mushrooms forest blights: Blights of the Forest"
 created: 2026-04-26
 tags:
   - mycology
@@ -16,11 +16,11 @@ type: concept
 
 # Parasitic Mushrooms: Blights of the Forest
 
-Parasitic fungi have been the bane of foresters, doing immeasurable
+[[escovopsis-parasitic-fungi-attine-ant-gardens]] have been the bane of foresters, doing immeasurable
 damage to the health of resident tree species, but in the process
 they create new habitats for many other organisms. Although the
 ecological damage caused by parasitic fungi is well understood, we
-are only just learning of their importance in the forest ecosystem.
+are only just learning of their importance in the [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]].
 Comparatively few mushrooms are true parasites.
 
 ## The Nature of Parasitism in Fungi
@@ -40,18 +40,18 @@ marauding parasite.
 In the past, a parasitic fungus was looked upon as being
 biologically evil. This view is rapidly changing as science
 progresses. Many saprophytic fungi can be weakly parasitic in
-their behavior, especially if a host tree is dying from other
+their behavior, especially if a [[ectomycorrhizal-host-tree-partnerships]] is dying from other
 causes. These can be called facultative parasites: saprophytic
 fungi activated by favorable conditions to behave parasitically.
 Some parasitic fungi continue to grow long after their host has
-died. [[growing-gourmet-natural-culture-myco-landscaping]] or
+died. growing-gourmet-natural-culture-myco-landscaping or
 [[growing-gourmet-saprophytic-mushrooms-decomposers]]
 that decompose dead matter and
 [[mycelium-running-parasitic-mushrooms-forest-blights]]
 
 - [[growing-gourmet-mycorrhizal-gourmet-mushrooms]]
 - [[growing-gourmet-global-environmental-shift-loss-fungal-diversity]]
-- [[growing-gourmet-natural-culture-myco-landscaping]]
+- growing-gourmet-natural-culture-myco-landscaping
 ## Practical Considerations
 
 When working with Parasitic Mushrooms: Blights of the Forest, several practical factors should be
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

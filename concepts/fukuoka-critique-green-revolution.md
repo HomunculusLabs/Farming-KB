@@ -5,11 +5,11 @@ updated: 2026-04-16
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources: []
 ---
 # Fukuoka's Critique of the Green Revolution
 
-In [[natural-farming-fukuoka]] dedicates significant attention to critiquing the Green Revolution -- the mid-20th century movement to increase agricultural yields through high-yield crop varieties, chemical fertilizers, pesticides, and irrigation. His critique goes beyond the usual environmental objections to challenge the entire epistemological basis of the Green Revolution.
+In [[natural-farming-fukuoka]] dedicates significant attention to critiquing the Green Revolution -- the mid-20th century movement to increase agricultural yields through high-yield [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]], [[cervantes-chemical-fertilizers-guide]], pesticides, and irrigation. His critique goes beyond the usual environmental objections to challenge the entire epistemological basis of the Green Revolution.
 
 ## The False Promise of Feeding the World
 
@@ -19,9 +19,9 @@ Fukuoka acknowledged that the Green Revolution increased yields but argued this 
 
 - Communities that had been self-sufficient became dependent on global markets and chemical companies
 
-- The nutritional quality of food declined even as caloric yield increased, creating what Fukuoka saw as an illusion of abundance
+- The [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of food declined even as caloric yield increased, creating what Fukuoka saw as an illusion of abundance
 
-- Pests and diseases adapted faster than new resistant varieties could be developed, creating an arms race that benefited seed and chemical companies
+- [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] adapted faster than new resistant varieties could be developed, creating an arms race that benefited seed and chemical companies
 
 - The Green Revolution's "miracle" was measured in calories alone, ignoring the cultural, ecological, and spiritual dimensions of food
 
@@ -39,7 +39,7 @@ This "real" green revolution would be truly revolutionary precisely because it r
 
 ## The Scale Problem
 
-Fukuoka argued that the Green Revolution's emphasis on large-scale monoculture was not merely a practical choice but a philosophical error. Large scale requires standardization, which requires simplification, which requires ignoring the particularities of place. [[fukuoka-decentralized-self-sufficient-communities]] was explicitly an alternative to this economic model. Natural farming requires almost no purchased inputs -- the farmer needs only seeds, which can be saved, and land, which improves under natural management rather than degrading.
+Fukuoka argued that the Green Revolution's emphasis on large-scale monoculture was not merely a practical choice but a philosophical error. Large scale requires standardization, which requires simplification, which requires ignoring the particularities of place. [[fukuoka-decentralized-self-sufficient-communities]] was explicitly an alternative to this economic model. [[comparison-natural-farming-vs-permaculture]] requires almost no purchased inputs -- the farmer needs only seeds, which can be saved, and land, which improves under natural management rather than degrading.
 
 The debt cycle created by input-dependent farming was, for Fukuoka, a form of structural violence -- an invisible mechanism by which the global economic system extracts wealth from rural communities while claiming to help them. The promise of "feeding the world" served as ideological cover for the expansion of corporate control over food systems.
 
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

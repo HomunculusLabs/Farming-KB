@@ -47,11 +47,11 @@ Unlike many wood-inhabiting fungi, G. sepiarium is remarkably tolerant of dry co
 
 ## Brown-Rot Mechanism
 
-Gloeophyllum sepiarium employs a Fenton chemistry-based brown-rot mechanism that depolymerizes cellulose while largely leaving lignin modified but not removed. The process involves the production of extracellular hydroxyl radicals (•OH) through the reaction of hydrogen peroxide with ferrous iron.
+Gloeophyllum sepiarium employs a Fenton chemistry-based brown-rot mechanism that depolymerizes cellulose while largely leaving lignin modified but not removed. The process involves the production of extracellular hydroxyl radicals (•OH) through the reaction of [[cervantes-hydrogen-peroxide-sterilization]] with ferrous iron.
 
 The fungus produces low-molecular-weight iron-chelating agents (catecholates) that reduce Fe³⁺ to Fe²⁺ and generate H₂O₂ through redox cycling. These components react to form hydroxyl radicals that non-enzymatically cleave cellulose chains, causing rapid strength loss in wood. The cellulose is preferentially removed, leaving behind a brown, cubically cracked residue of modified lignin.
 
-Unlike white-rot fungi, G. sepiarium does not produce lignin peroxidases or manganese peroxidases. However, it does produce a versatile peroxidase (VP) and several dye-decolorizing peroxidases (DyPs) that may play roles in lignin modification. The cellulolytic enzyme system is relatively limited, with endoglucanase and β-glucosidase activities detectable but cellulase (exoglucanase) activity low.
+Unlike white-rot fungi, G. sepiarium does not produce lignin peroxidases or manganese peroxidases. However, it does produce a [[singh-versatile-peroxidase-vp-multifunctional]] (VP) and several dye-decolorizing peroxidases (DyPs) that may play roles in lignin modification. The cellulolytic enzyme system is relatively limited, with endoglucanase and β-glucosidase activities detectable but cellulase (exoglucanase) activity low.
 
 ## Timber Damage and Economic Impact
 
@@ -65,7 +65,7 @@ In building construction, G. sepiarium primarily affects timber exposed to moist
 
 The lignin-modifying enzymes of G. sepiarium have attracted biotechnological interest. The species produces laccase with unusual substrate specificity and high stability under alkaline conditions, making it a candidate for industrial biocatalysis.
 
-Gloeophyllum sepiarium produces a range of secondary metabolites including sesquiterpenes, triterpenes, and aromatic compounds. Several of these exhibit antimicrobial and antifungal activities that may contribute to competitive ability on wood substrates.
+Gloeophyllum sepiarium produces a range of [[antifungal-secondary-metabolites-coprophilous-fungi]] including sesquiterpenes, triterpenes, and aromatic compounds. Several of these exhibit antimicrobial and antifungal activities that may contribute to competitive ability on wood substrates.
 
 The brown-rot mechanism of G. sepiarium has been studied as a potential model for biomass pretreatment in biofuel production. Its ability to selectively remove hemicellulose while preserving lignin could complement existing pretreatment strategies for lignocellulosic ethanol production.
 
@@ -75,7 +75,7 @@ Gloeophyllum sepiarium and G. trabeum are the two most economically important sp
 
 G. trabeum forms smaller, thinner basidiocarps (usually 2–5 cm) with a more uniformly dark brown upper surface lacking the distinct zonate coloration of G. sepiarium. Microscopically, G. trabeum has slightly narrower spores (7–9 × 2.5–3.5 μm) compared to G. sepiarium (8–11 × 3–4.5 μm).
 
-Ecologically, both species colonize coniferous wood but G. trabeum shows a stronger preference for built environments and treated timber. G. sepiarium is more commonly encountered in natural forest settings and on outdoor structures. Both share the brown-rot mechanism but differ in enzyme production profiles and decay rates.
+Ecologically, both species colonize coniferous wood but G. trabeum shows a stronger preference for [[fungal-biodiversity-built-environments-indoor-mycobiome]] and treated timber. G. sepiarium is more commonly encountered in natural forest settings and on outdoor structures. Both share the brown-rot mechanism but differ in enzyme production profiles and decay rates.
 
 ## Physiological Adaptations
 
@@ -91,13 +91,13 @@ Control of G. sepiarium in service relies primarily on moisture management and p
 
 Chemical preservatives based on copper, borate, or organic biocides provide varying degrees of protection. Copper-based preservatives (ACQ, CuC) are moderately effective but may be degraded by the fungus through copper chelation and reduction. Borate treatments provide good protection against G. sepiarium when wood is kept dry enough to prevent leaching.
 
-In remediation of existing decay, removal of all visibly affected wood plus a 30–50 cm margin beyond the decay zone is recommended. The remaining structure should be dried rapidly and treated with preservative. Biological control using antagonistic fungi such as Trichoderma species has been investigated but is not widely implemented in practice.
+In remediation of existing decay, removal of all visibly affected wood plus a 30–50 cm margin beyond the decay zone is recommended. The remaining structure should be dried rapidly and treated with preservative. [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] using antagonistic fungi such as Trichoderma species has been investigated but is not widely implemented in practice.
 
 ## Ecological Significance
 
 In forest ecosystems, G. sepiarium plays an important role in the decomposition of coniferous coarse woody debris. Brown-rot decomposition creates a distinctive residue enriched in modified lignin that contributes to humus formation and soil carbon sequestration. The rapid cellulose removal accelerates wood fragmentation and incorporation into soil organic matter.
 
-The fungus creates microhabitats for invertebrate communities within decaying logs, particularly wood-boring beetles and their predators. Its fruiting bodies provide food for fungivorous insects and small mammals. The species participates in nutrient cycling by releasing nitrogen and phosphorus from woody substrates, making these nutrients available for plant uptake.
+The fungus creates microhabitats for invertebrate communities within decaying logs, particularly wood-boring beetles and their predators. Its fruiting bodies provide food for fungivorous insects and small mammals. The species participates in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by releasing nitrogen and phosphorus from woody substrates, making these nutrients available for plant uptake.
 
 Despite its negative impact on timber products, G. sepiarium contributes to forest health by facilitating deadwood turnover and creating canopy gaps through the weakening of standing dead snags. This gap-phase dynamics promote regeneration of shade-intolerant conifer species.
 

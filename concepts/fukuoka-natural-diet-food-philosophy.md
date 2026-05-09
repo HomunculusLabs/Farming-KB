@@ -1,18 +1,19 @@
 ---
-title: Natural Diet and Food Philosophy
+title: fukuoka-natural-diet-as-foundation and Food Philosophy
 created: 2026-05-08
 tags: [fukuoka, natural-farming, diet, food-philosophy, seasonal-eating, natural-diet, japanese-diet, health]
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
 # Natural Diet and Food Philosophy
 
-Fukuoka's food philosophy is inseparable from his farming philosophy. He argues
-that agriculture arose from human cravings over food, and that farming methods
+Fukuoka's food philosophy is inseparable from his [[fukuoka-do-nothing-farming-philosophy-and-practice]]. He argues
+that agriculture arose from human cravings over food, and that [[natural-farming-methods-comparison]]
 have had to adapt to changes in the human diet. Unless the diet is basically
 sound, agriculture too cannot be normal. The failure of modern agriculture has
 its roots in abnormal dietary practices and the low level of basic awareness
@@ -20,7 +21,7 @@ people have regarding diet.
 
 ## The Diet of Non-Discrimination
 
-Fukuoka's thinking on natural diet parallels his thinking on natural farming.
+Fukuoka's thinking on natural diet parallels his thinking on [[comparison-natural-farming-vs-permaculture]].
 Natural farming consists of adapting to true nature — nature understood with
 non-discriminating knowledge. In the same way, a true natural diet is a way of
 eating where one feeds randomly with an undiscriminating attitude on food taken
@@ -100,7 +101,7 @@ full blessings of nature without such calculations.
 ## Critique of Modern Food Quality
 
 Fukuoka is sharply critical of the decline in modern food quality. He describes
-how livestock farming is no longer a form of agriculture practiced in nature:
+how [[fukuoka-textdoc-natural-livestock-farming-open-grazing]] is no longer a form of agriculture practiced in nature:
 unfertilized battery chickens are machines for hatching factory-made eggs, while
 hogs and cows are factory-produced meat and milk-fabricating machines. These
 products could not possibly be wholesome.
@@ -138,11 +139,8 @@ good. The absence of delicacies does not prevent the feeling of deliciousness fr
 arising. People who do not consume delicacies may not experience ecstasy at the
 dinner table as often, but this does not mean they are unhappy. Quite the contrary.
 
-The Japanese diet has undergone rapid development, but has this really been for
+The [[fukuoka-japanese-diet-worse]] has undergone rapid development, but has this really been for
 the good? The deterioration of food quality mirrors the deterioration of the
-relationship between man and nature. A complete natural diet arises of itself
-without man needing to know anything — as long as he accepts and lives in
-accordance with the natural order.
 ## See Also
 - [[dom]]
 - [[fukuoka-textdoc-food-mandala-yin-yang-seasonal-natural-diet]]

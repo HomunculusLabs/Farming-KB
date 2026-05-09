@@ -1,5 +1,5 @@
 ---
-title: "Fungal Metallothioneins and Phytochelatins in Metal Detoxification"
+title: "bioremediation fungal metallothioneins phytochelatins and Phytochelatins in staycare-phytochelatins-and-intracellular-metal-detoxification-in-fungi"
 created: 2026-04-28
 tags: [bioremediation, heavy-metals, fungal-physiology, metal-detoxification]
 date: 2026-04-25
@@ -14,7 +14,7 @@ Fungi possess intracellular metal-binding molecules that play essential
 roles in metal homeostasis and detoxification. The two principal classes
 of these molecules are metallothioneins (MTs) and phytochelatins (PCs),
 both of which bind toxic metals through cysteine thiol groups. These
-compounds are central to [[fungal-bioremediation]]
+compounds are central to fungal-bioremediation
 and [[gadd-fungal-metal-interactions]].
 
 ## Phytochelatins and Related Peptides
@@ -28,9 +28,9 @@ synthesized from glutathione by the enzyme phytochelatin synthase (PCS).
 
 Although phytochelatin induction has been reported with a wide variety
 of metals, including silver, gold, mercury, nickel, lead, tin, and zinc,
-metal binding has been demonstrated for only a few, primarily cadmium
+[[chelation-and-metal-binding-in-plants]] has been demonstrated for only a few, primarily cadmium
 and copper. The specificity and affinity of phytochelatins for different
-metals varies considerably and depends on the peptide chain length.
+metals varies considerably and depends on the peptide [[phenethylamine-chain-length-effects]].
 
 ## Cadmium-Binding Complexes
 
@@ -52,11 +52,11 @@ metal detoxification strategy.
 ## Phytochelatin Synthase Genes
 
 The identification of genes encoding phytochelatin synthases has provided
-molecular evidence for the role of phytochelatins in metal tolerance.
+molecular evidence for the role of phytochelatins in [[fungal-metal-tolerance-mechanisms]].
 Heterologous expression of PCS genes dramatically enhances metal
 tolerance, confirming that phytochelatin production is a major mechanism
 of intracellular detoxification in fungi and plants. This genetic
-evidence is important for potential applications in [[fungal-bioremediation]].
+evidence is important for potential applications in fungal-bioremediation.
 
 ## Bioremediation Applications
 
@@ -100,7 +100,7 @@ metal-resistance genes. The yeast metallothionein gene has been
 transferred into cauliflower, producing cadmium-tolerant transgenic
 plants that accumulated more cadmium in leaves than non-transformed
 controls. Such approaches combine the advantages of fungal metal
-detoxification mechanisms with the large biomass production of plants.
+detoxification mechanisms with the large [[dighton-fungal-biomass-production-aquatic-ecosystems]] of plants.
 
 See also: [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]],
 [[mycoremediation]].

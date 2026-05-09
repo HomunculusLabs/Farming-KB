@@ -3,12 +3,10 @@ title: "Mazatec Mushrooms of Language"
 created: "2026-04-16"
 updated: "2026-04-16"
 type: concept
-tags: [[mycology, mushrooms]
+tags: [mycology, mushrooms]
 sources: ["raw/papers/harner-j-hallucinogens-and-shamanism.md"]
 ---
-# Mazatec Mushrooms of Language
-
-Henry Munn's essay "The Mushrooms of Language," published in [[three-pillars-mushroom-cultivation-spawn-substrate-environment]].
+# Mazatec Mushrooms of Language Henry Munn's essay "The Mushrooms of Language," published in [[three-pillars-mushroom-cultivation-spawn-substrate-environment]].
 
 The Mazatec Indians eat the mushrooms only at night in absolute darkness. It is their belief that if you eat them in the daylight you will go mad. The depths of the night are recognized as the time most conducive to visionary insights into the obscurities, the mysteries, the perplexities of existence. Usually several members of a family eat the mushrooms together: it is not uncommon for a father, mother, children, uncles, and aunts to all participate in these transformations of the mind.
 
@@ -63,20 +61,20 @@ For the Mazatecs, wisdom is gained during the experiences produced by the mushro
 [[mazatec-mushroom-culture-and-velada]]
 [[shamanic-use-of-psychedelics]]
 [[entheogen-culture]]
-[[shamanic-trance-cross-cultural-patterns]], including the use of darkness, chanting, and the experience of soul flight. However, the Mazatec emphasis on language, poetry, and the creative generation of new words for visionary phenomena represents a distinctive contribution to the cross-cultural understanding of altered states.
+[[shamanic-trance-cross-cultural-patterns]], including the use of darkness, chanting, and the experience of soul flight. However, the Mazatec emphasis on language, poetry, and the creative generation of new words for visionary phenomena represents a distinctive contribution to the cross-cultural understanding of [[weil-the-natural-mind-altered-states-normalcy]].
 
 ## Modern Relevance
 
-Munn's concept of the shaman as "he who puts together" has been influential in contemporary psychedelic therapy, where the integration of fragmented psychological experience is a central therapeutic goal. The contrast Munn draws between the Mazatec view of the mushroom experience as integrative and the Western psychiatric view of it as producing "depersonalization" and "derangement" highlights the cultural relativity of psychiatric diagnosis.
+Munn's concept of the shaman as "he who puts together" has been influential in contemporary [[metzner-psycholytic-psychedelic-therapy-models]], where the integration of fragmented psychological experience is a central therapeutic goal. The contrast Munn draws between the Mazatec view of the mushroom experience as integrative and the Western psychiatric view of it as producing "depersonalization" and "derangement" highlights the cultural relativity of psychiatric diagnosis.
 
-The erosion of Mazatec mushroom traditions documented by Munn — the disappearance of oral poets like Roman Estrada, the invasion of foreigners, the encroachment of modern medicine — raises urgent questions about cultural preservation in the face of globalization. Similar pressures affect ayahuasca traditions in the Amazon, as discussed in [[yage-cross-cultural-experience]].
+The erosion of Mazatec [[sacred-mushroom-traditions-in-mexico]] documented by Munn — the disappearance of oral poets like Roman Estrada, the invasion of foreigners, the encroachment of modern medicine — raises urgent questions about cultural preservation in the face of globalization. Similar pressures affect ayahuasca traditions in the Amazon, as discussed in [[yage-cross-cultural-experience]].
 
-Contemporary research on psilocybin-assisted therapy, as documented in [[psilocybin-and-mystical-experience]], has increasingly recognized the importance of set, setting, and therapeutic framework in determining outcomes — principles that the Mazatec tradition has embodied for centuries. The Mazatec understanding that the mushrooms create "language itself — words for phenomena without name" anticipates contemporary philosophical discussions about the limits of language in conveying psychedelic experience.
+Contemporary research on psilocybin-assisted therapy, as documented in [[psilocybin-and-mystical-experience]], has increasingly recognized the importance of set, setting, and therapeutic framework in determining outcomes — principles that the Mazatec tradition has embodied for centuries. The Mazatec understanding that the mushrooms create "language itself — words for phenomena without name" anticipates contemporary philosophical discussions about the limits of language in conveying [[leary-psychedelic-experience-bardo-mapping]].
 
 ## References and Further Reading
 
 Munn, H. (1973). "The Mushrooms of Language." In M. J. Harner (Ed.), Hallucinogens and Shamanism. Oxford University Press.
 
-Wasson, R. G. (1957). "Seeking the Magic Mushroom." Life, 42(19), 100-120.
+Wasson, R. G. (1957). "Seeking the [[australian-magic-mushroom-common-names]]." Life, 42(19), 100-120.
 
-Estrada, A. (1977). Maria Sabina: Her Life and Chants. Ross-Erikson.
+Estrada, A. (1977). [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]]: Her Life and Chants. Ross-Erikson.

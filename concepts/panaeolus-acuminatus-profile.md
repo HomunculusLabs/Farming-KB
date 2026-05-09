@@ -5,7 +5,7 @@ tags: [panaeolus, mycology, mushroom-profile, temperate]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources: []
 type: concept
 ---
 # Panaeolus acuminatus Profile
@@ -37,14 +37,14 @@ Cheilocystidia are irregular in form. Pleurocystidia are absent.
 These spore characteristics, particularly the lemon shape, are
 consistent with the genus [[psilocybin-mushroom-bluing-reaction-chemistry]] remains the
 most reliable co-indicator of psilocin presence. The absence of
-any bluing reaction in P. acuminatus further confirms its
+any [[field-guide-psilocybin-bluing-reaction-identification]] in P. acuminatus further confirms its
 non-active status.
 
 ## Ecological Role
 
 As a coprophilous (dung-inhabiting) species, Panaeolus acuminatus
-plays an important ecological role in nutrient cycling. Like other
-Panaeoli, it helps break down herbivore dung and return nutrients
+plays an important ecological role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. Like other
+Panaeoli, it helps [[query-can-fungi-break-down-plastic-pollution]] herbivore dung and return nutrients
 to the soil. Its presence in grassland and pasture ecosystems is
 an indicator of healthy nutrient cycling processes. The species'
 frequent occurrence at field-forest interfaces suggests it
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

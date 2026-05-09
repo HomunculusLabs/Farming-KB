@@ -1,5 +1,5 @@
 ---
-title: JADAM Fermented Plant Juice
+title: JADAM bionutrients-lab-fermented-plant-juice-fpj
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # JADAM Liquid Fertilizer (JLF)
 
-JADAM liquid fertilizer (JLF) is a simple, ultra-low-cost liquid fertilizer made from crop residues, wild grass, and leaf mold. Unlike many organic liquid fertilizers, it requires no sugar, no molasses, and no complicated fermentation management.
+JADAM liquid fertilizer (JLF) is a simple, ultra-low-cost liquid fertilizer made from crop residues, [[jadam-cover-crop-wild-grass-symbiosis]], and [[comparison-leaf-mold-composting-vs-hot-composting-method]]. Unlike many organic [[solomon-liquid-fertilizers-and-foliar-feeding]], it requires no sugar, no molasses, and no complicated fermentation management.
 
 ## Core Principle: The Nutritional Perspective
 
@@ -61,9 +61,9 @@ No sugar. No molasses. No stirring needed (unless ingredients sink). No pH adjus
 
 ## Additions
 
-- Add sea salt up to 0.1% salinity (0.5 kg per 500 L) -- except for human feces, urine, and food waste
+- Add [[jadam-sea-salt-and-mineral-solutions]] up to 0.1% salinity (0.5 kg per 500 L) -- except for human feces, urine, and food waste
 - If smell is too strong, add phyllite powder to 0.2% (1 kg per 500 L)
-- For foliar application: filter well and mix with [[jadam-herbal-pest-control|JADAM wetting agent (JWA)]]
+- For [[ultra-low-cost-foliar-application-methods]]: filter well and mix with [[jadam-herbal-pest-control|JADAM wetting agent (JWA)]]
 
 ## Continuous Use System
 

@@ -20,8 +20,8 @@ type: concept
 
 # The Eleusinian Mystery and the Psychedelic Sacrament
 
-The Eleusinian Mysteries were the most important religious initiation rites of ancient Greece, celebrated
-annually at Eleusis near Athens for nearly two thousand years. As Terence McKenna argues in *Food of the
+The [[eleusinian-mysteries]] were the most important religious initiation rites of ancient Greece, celebrated
+annually at Eleusis near Athens for nearly two thousand years. As [[terence-mckenna]] argues in *Food of the
 Gods*, these mysteries likely involved the consumption of a psychoactive sacrament, making them one of the
 longest-running psychedelic ceremonies in Western history and a crucial link between prehistoric mushroom
 cults and classical civilization.
@@ -52,11 +52,11 @@ penalty for revealing what occurred in the Telesterion was death.
 ## The Kykeon and Its Psychoactive Properties
 
 Central to the initiation rite was the consumption of the kykeon, a barley-based drink. McKenna and other
-scholars, including R. Gordon Wasson, Albert Hofmann, and Carl Ruck, proposed in their 1978 work *The Road to
+scholars, including R. Gordon Wasson, [[albert-hofmann]], and Carl Ruck, proposed in their 1978 work *The Road to
 Eleusis* that the kykeon contained an ergot-derived psychedelic compound, most likely lysergic acid amide
 (LSA) or a related ergoline alkaloid.
 
-Ergot (Claviceps purpurea) is a fungus that infects cereal grasses, particularly barley, rye, and wheat,
+Ergot ([[claviceps-purpurea]]) is a fungus that infects cereal grasses, particularly barley, rye, and wheat,
 forming dark purple or black sclerotia in place of normal grain kernels. While some strains produce dangerous
 alkaloids associated with ergotism, the dreaded "St. Anthony's Fire" of the Middle Ages, other strains contain
 psychoactive ergolines closely related to LSD. The priestly custodians of the Mysteries, the Eumolpidae and
@@ -72,7 +72,7 @@ and the barley component provides the most plausible vehicle for an ergot prepar
 ## The Wasson-Hofmann-Ruck Hypothesis
 
 Albert Hofmann, the Swiss chemist who discovered LSD in 1943, identified psychoactive ergoline alkaloids in
-the sclerotia of a specific ergot fungus (Claviceps paspali) that grows on wild grasses in the Mediterranean
+the sclerotia of a specific ergot fungus ([[claviceps-paspali]]) that grows on wild grasses in the Mediterranean
 region. This finding was crucial because it demonstrated that a naturally occurring ergot species in the Greek
 environment contained compounds capable of producing psychedelic effects. The combination of Wasson's
 ethnobotanical expertise, Hofmann's chemical knowledge, and Ruck's classical scholarship made a compelling
@@ -89,7 +89,7 @@ lifestyle of earlier partnership societies.
 ## Alternative Theories
 
 In addition to the ergot hypothesis, McKenna discusses Robert Graves's suggestion that the sacrament may have
-involved psilocybin mushrooms, noting the prominence of mushroom imagery in Greek mythology and the existence
+involved [[psilocybin-mushrooms]], noting the prominence of mushroom imagery in Greek mythology and the existence
 of wild psilocybin-containing species in the Mediterranean region. McKenna also considers the possibility that
 the kykeon may have been ergotized beer, combining the psychoactive properties of ergot with mild
 fermentation. This theory has the advantage of explaining how a psychoactive preparation could have been

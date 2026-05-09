@@ -1,5 +1,5 @@
 ---
-title: Arbuscular Mycorrhizal Fungal Spore Extraction Methods
+title: comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi Fungal arbuscular mycorrhizal spore extraction methods Methods
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-ma
 
 Updated: 2026-04-18
 
-Spore extraction from soil is the primary method for assessing species composition and abundance of arbuscular mycorrhizal (AM) fungal communities. Since AM fungi cannot be cultured apart from their plant hosts, spore-based methods remain essential for inventory and characterization work.
+Spore extraction from soil is the primary method for assessing species composition and abundance of arbuscular mycorrhizal (AM) [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]. Since AM fungi cannot be cultured apart from their plant hosts, spore-based methods remain essential for inventory and characterization work.
 
 ## Overview
 
@@ -56,7 +56,7 @@ This is the standard procedure for extracting AM fungal spores from soil:
 ## Critical Considerations
 
 - PVC pipe cut into 2-cm sections with nylon mesh on one end can serve as sieves of custom sizes
-- In soils with high organic matter and microbial activity (especially tropical), most spores may be too degraded or parasitized for identification
+- In soils with high [[hamilton-composting-and-organic-matter-management]] and microbial activity (especially tropical), most spores may be too degraded or parasitized for identification
 - Spore populations are highly aggregated; appropriate sampling depth is determined by root system location
 - In sand dunes, spore abundance can be high at depths of 100 cm or more
 - Sampling only at the soil surface may miss sporulation in deeper root zones
@@ -69,7 +69,7 @@ Field sampling recovers only sporulating species. Many AM fungi colonize roots w
 ## Root Staining
 
 AM colonization of roots is confirmed by clearing and staining:
-- Trypan blue in lactic acid and phenol mixture (Phillips and Hayman 1970) -- traditional but phenol is hazardous
+- Trypan blue in [[bionutrients-lab-lactic-acid-bacteria-serum]] and phenol mixture (Phillips and Hayman 1970) -- traditional but phenol is hazardous
 - Safer alternative: Koske and Gemma (1989) method
 - Acid fuschin (Kormanik et al. 1980) and chlorazol black E (Brundrett et al. 1984) are alternative stains
 - Chlorazol black E produces highest contrast among fungal structures

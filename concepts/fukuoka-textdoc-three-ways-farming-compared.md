@@ -13,14 +13,14 @@ type: concept
 In "The Natural Way of Farming," Masanobu Fukuoka presents three distinct
 paradigms of agriculture that represent fundamentally different relationships
 between humanity and nature. Understanding these three paths reveals why
-modern agriculture has arrived at its current crisis and why natural farming
+modern agriculture has arrived at its current crisis and why [[comparison-natural-farming-vs-permaculture]]
 offers the most viable way forward.
 
 ## Natural Farming (Mu Farming)
 
 Natural farming is based on a nature free of human meddling and intervention.
 It originates in the philosophy of "Mu" (nothingness) and returns to a
-"do-nothing" nature. The objective is non-action and a return to nature;
+"do-nothing" nature. The objective is non-action and a [[emcdda-return-to-nature-megatrend-mushroom-appeal]];
 the method is centrifugal and convergent. Natural farming is described as
 the "methodless method of nature, the unmoving way of Bodhidharma."
 
@@ -33,7 +33,7 @@ Its core characteristics:
 - **No pesticides**: A thousand diseases attack plants, but nature strikes
   a balance. Natural enemies emerge in proportion to pest populations.
 - **No weeding**: Weeds are not arbitrarily designated as enemies. Weed
-  diversity contributes to soil health and ecological balance.
+  diversity contributes to soil health and [[fukuoka-ecological-balance-principles]].
 - **No pruning**: Trees grow best in their natural form; branches do not
   tangle, sunlight falls on every leaf, and the tree bears fully each year.
 
@@ -53,11 +53,11 @@ was seen as the "arbor of the soul," and the farmer did not believe he
 blessings.
 
 Traditional farming required approximately ten times the energy input of
-natural farming, primarily through animal labor and compost preparation.
+natural farming, primarily through animal labor and [[cultivator-compost-preparation-phase-methods]].
 Yields peaked at about 22 bushels of rice per quarter-acre, limited by
 the labor-intensive nature of compost preparation and tillage.
 
-While far more sustainable than modern scientific farming, traditional
+While far more sustainable than modern [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]], traditional
 farming still involved significant human intervention: plowing, compost
 production, weeding, and crop management. It was a stepping stone that
 preserved ecological wisdom but fell short of the "do-nothing" ideal.
@@ -79,7 +79,7 @@ energy-intensive methods represent a geometric progression of waste.
 Key features of scientific farming:
 
 - **Mechanization**: Rather than reducing labor, it enslaves the farmer
-  to equipment. Machinery is "the largest domestic animal of all — a
+  to equipment. Machinery is "the largest [[mollison-designers-domestic-animal-integration-design]] of all — a
   great guzzler of oil, a consumer good rather than a capital good."
 - **Chemical dependency**: Killing soil with plow and chemical fertilizer
   creates weak, diseased plants that require more chemicals — a vicious
@@ -128,6 +128,8 @@ evolutionary time, rather than substituting human cleverness for natural
 wisdom.
 
 ## See Also
+
+- [[fukuoka-three-ways-farming-compared]]
 
 - [[fukuoka-textdoc-intuitive-reasoning-vs-inductive-experimentation]]
 

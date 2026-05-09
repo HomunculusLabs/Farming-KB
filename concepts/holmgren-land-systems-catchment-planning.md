@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: concept
 ---
 
@@ -61,8 +62,8 @@ landholders and taxpayers are paying for remedial revegetation work.
 
 The Land Systems concept helps describe and evaluate land independently of
 current land use priorities, values, and economics. The ability to catch and
-store water, mineral nutrients, and organic matter helps reorient our notion of
-good and poor land. Haikai Tane used patterns of biological productivity in
+store water, mineral nutrients, and [[hamilton-composting-and-organic-matter-management]] helps reorient our notion of
+good and [[savory-poor-land-syndrome]]. Haikai Tane used patterns of biological productivity in
 Aboriginal dot painting to illustrate his ecographic model of rivers, showing
 food resource locations along the Murray River floodplain.
 
@@ -80,7 +81,7 @@ agencies. Several difficulties remain:
 
 - Patterns and classifications within one bioregion do not necessarily translate
   to another
-- Attempts to standardise survey methods and terminology tend to ignore more
+- Attempts to standardise [[mycetozoan-survey-methods-substratum-plating]] and terminology tend to ignore more
   informal "reading" of the landscape
 - The description of changes to land as "improvements" or "degradation" remains
   culturally loaded

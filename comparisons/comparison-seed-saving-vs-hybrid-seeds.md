@@ -1,10 +1,11 @@
 ---
-title: "Seed Saving vs Hybrid Seeds"
+title: "comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques vs heirloom-vs-hybrid-seeds-comparison"
 created: 2026-04-28
 tags: [comparison, seeds, seed-saving, hybrids, plant-breeding]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -22,7 +23,7 @@ conditions over successive generations. This approach is central to
 
 Hybrid seeds are produced by crossing two genetically distinct inbred
 parent lines under controlled conditions, resulting in F1 generation
-seeds that exhibit hybrid vigor, also known as heterosis. This hybrid
+seeds that exhibit [[cannabis-hybrid-vigor-and-phenotypes-clarke]], also known as heterosis. This hybrid
 vigor manifests as increased yield, improved disease resistance,
 greater uniformity, and often enhanced vigor under suboptimal growing
 conditions. The performance advantage of F1 hybrids can be
@@ -55,7 +56,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -97,4 +98,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

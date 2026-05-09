@@ -1,5 +1,5 @@
 ---
-title: Medicinal Mushroom Extraction and Bioactive Compounds
+title: Medicinal medicinal mushroom extraction bioactive compounds and query-what-are-the-main-bioactive-compounds-in-medicinal-plants
 created: 2026-04-28
 tags: mycology, extraction, medicinal, beta-glucans, triterpenes]
 date: 2026-04-28
@@ -10,7 +10,7 @@ type: concept
 
 # Medicinal Mushroom Extraction and Bioactive Compounds
 
-Medicinal mushrooms produce bioactive compounds with immunomodulatory,
+[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] produce bioactive compounds with immunomodulatory,
 anti-inflammatory, antioxidant, and antitumor properties. Many of these
 compounds are locked inside the fungal cell wall, composed of rigid chitin and
 beta-glucan polymers. Extraction breaks down these barriers to release
@@ -27,13 +27,13 @@ thermal, chemical, or enzymatic breakdown of the cell wall.
 
 ### Beta-Glucans (Polysaccharides)
 
-Beta-glucans are the most researched medicinal mushroom compounds. These
+Beta-glucans are the most researched medicinal [[medicinal-mushroom-compounds-and-health-benefits]]. These
 polysaccharides, composed of glucose linked by beta-glycosidic bonds, are
 primarily found in the fungal cell wall. Beta-(1,3)-(1,6)-glucans are the most
 immunologically active form.
 
 Beta-glucans modulate the immune system by binding to receptors on macrophages,
-natural killer cells, and dendritic cells. They act as biological response
+natural killer cells, and dendritic cells. They act as [[medicinal-mushrooms-biological-response-modifiers]]
 modifiers, normalizing immune function rather than simply stimulating it.
 Reishi, turkey tail, maitake, and shiitake are particularly rich in beta-glucans.
 
@@ -42,7 +42,7 @@ Reishi, turkey tail, maitake, and shiitake are particularly rich in beta-glucans
 Over 150 triterpenes have been identified in *Ganoderma* species, including
 ganoderic acids, lucidenic acids, and ganoderols. These lipophilic compounds
 contribute to reishi's anti-inflammatory, hepatoprotective, and antitumor
-properties. Alcohol extraction is required to release significant quantities of
+properties. [[pf-tek-alcohol-extraction-method]] is required to release significant quantities of
 triterpenes.
 
 ### [[mycelium]]. Both stimulate nerve growth
@@ -109,8 +109,22 @@ metals and pesticides, and quantified levels of active compounds.
 
 ## See Also
 
+- [[phellinus-gilvus]]
+- [[trametes-hispida]]
+- [[phellinus-linteus-meshima-cancer-research]]
+- [[phellinus-weirii]]
+- [[phellinus-pomaceus]]
+- [[sanghuangporus-villosus]]
+- [[sanghuangporus-sanghuang]]
+- [[trametes-gibbosa]]
+- [[sanghuangporus-lonicericola]]
+- [[sanghuangporus-ctenophorus]]
+- [[trametes-pubescens]]
+- [[trametes-cinnabarina]]
+- [[trametes-coccinea]]
+
 - [[medicinal-mushroom-bioactive-compounds]]
 
 - [[mushroom-substrate-preparation-sterilization]]
 - [mushroom-and-inoculation]
-- [[mushroom-fruiting-chamber-designs]]-and-parameters]
+- mushroom-fruiting-chamber-designs-and-parameters]

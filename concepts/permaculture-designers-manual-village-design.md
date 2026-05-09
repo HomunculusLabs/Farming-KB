@@ -3,123 +3,18 @@ title: Village Design
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
-tags: [[permaculture, site-design, community-finance]
+tags: [permaculture, site-design, community-finance]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
+# Village Design **Source:** Permaculture: A Designers' Manual, Bill Mollison (1988) **Updated:** 2026-04-18 ## Overview Mollison presents village development as one of the most important enterprises of our time. Section 14.9 provides a comprehensive framework for designing intentional villages that achieve food, energy, and shelter self-reliance while providing rich social and economic lives for residents. ## Why Villages Now "We need well-designed villages today more than any other enterprise: villages to re-locate those soon-to-be-refugees from sea-level rise, villages to house people from urban slums, and villages where people of like mind can find someone else to talk to and to work with." ## Village Aims An intentional village should have a group ethic acceptable to all who come there. The aims of a sensible village group include: - **REDUCE THE NEED TO EARN** by developing food, energy, and shelter self-reliance - **EARN WITHIN THE VILLAGE IF POSSIBLE** reducing transport and travel needs; recruit people who fill essential village occupations or are self-employed - **PRODUCE A SURPLUS** from services to others, maintaining a strong economy and outreach potential - **PROVIDE NON-MATERIAL NEEDS** especially for children -- meaningful work, relevant education, and a rich natural environment - **COOPERATE** in various enterprises and small associations ## What a Village Can Provide A village can provide: - **Privacy** in homes and gardens - **Access to tools** as leased, rented, or easily accessed equipment from computers to tractors - **Entertainment** from local folk groups to video cassettes - **Conservation** as village wildlife, water, and forest reserves - **Recreation** in the near environment - **Basic life essentials** of shelter, food, and energy No isolated or scattered group of people can self-provide for the above, but about 30 to 200 houses can support these services and facilities, especially with cooperative funding. ## Site Criteria for Village Development ### Seven Village Types 1. **Type 1:** In a city block or suburbs 2. **Type 2:** Adjoining an existing village (probably easiest to plan and administer) 3. **Type 3:** Within a part-vacant village 4. **Type 4:** Isolated from any existing settlement (pioneering/kibbutz approach) 5. **Type 5:** On the site of a pre-existing but now vacant or destroyed village 6. **Type 6:** As a new suburban development 7. **Type 7:** Specialised settlements on coasts or near wilderness ### Essential Site Criteria - Ability to catch, store, reticulate, and clean up own water supply - Wood, wind, solar, or high-pressure water available for energy - Road, rail, boat, and air access for trade and travel - Mixed ecologies: forest, aquatic, marine, agricultural, and market areas ## Procedural Stages 1. Formation of a group or location of a site 2. Arrange site option or purchase terms 3. Obtain agreement in principle from local planning authority 4. Do careful sums on roading, water supply, and sewerage 5. Prepare detailed site plan and proposal 6. Convene prospective customers and obtain commitments 7. Obtain sealed permission for subdivision 8. Sell to buyers using trust fund for road, water, site preparation 9. Decide on future projects from profits and skills gained ## Size of Villages - At 100 income-producing people, a significant financial institution can be village-based - At 500, all people can know each other if social affairs are organised - At 2,000, theft and competitiveness become common; sects set up in opposition - Start small at 30 adults, build to 200-300, proceed slowly to 500, then "calve" into new villages The neighbourhood factor -- knowledge of each other's names -- is primary for survival in disaster. ## Allotment Infrastructure Areas to reserve for future development: - School, seminar, workshop rooms, library - Food processing centre, cafe, retail shops (including plant nursery retail) - Noisy/oily work: woodwork, metal-work, machine shop, vehicle service - Dairy and dairy processing centre - Domestic livestock housing: chickens, goats, pigs, sheep, rabbits - Methane generator, sewage, biomass conversion systems - Glasshouses, commercial crop areas - Camp area for casual visitors ## Community Tools Essential shared equipment for the village: - Tractor/slasher (fire control) - Posthole borer (fencing) - Trailer - Chisel plough/soil conditioner - Chipper (biomass and mulch provider) - Tow truck (mulch and goods) - Van (goods) - Back-pack slasher (blackberry and brush) Workshop tools: drill press, lathe, radial-arm saw, welder, planer, router -- available on lease or time share. ## Dwellings Village housing should include varying types: - Family homes (2-5 bedrooms) - Singles quarters (1-2 bedrooms) - Elderly and hospital quarters - Terrace housing where appropriate A mix provides much more for needs and age differences than traditional family homes. Every village could maintain one empty strata title for emergencies. ## Trust Structures See [[permaculture-designers-manual-legal-structures]] - Trust and legal frameworks
+- permaculture-designers-manual-designer-checklist - Development planning
+- permaculture-designers-manual-dam-construction - Village water supply
+- mollison-permaculture-two-community-self-reliance
+- permaculture-designers-manual-food-forest-guilds
 
-# Village Design
-
-**Source:** Permaculture: A Designers' Manual, Bill Mollison (1988)
-**Updated:** 2026-04-18
-
-## Overview
-
-Mollison presents village development as one of the most important enterprises of our time. Section 14.9 provides a comprehensive framework for designing intentional villages that achieve food, energy, and shelter self-reliance while providing rich social and economic lives for residents.
-
-## Why Villages Now
-
-"We need well-designed villages today more than any other enterprise: villages to re-locate those soon-to-be-refugees from sea-level rise, villages to house people from urban slums, and villages where people of like mind can find someone else to talk to and to work with."
-
-## Village Aims
-
-An intentional village should have a group ethic acceptable to all who come there. The aims of a sensible village group include:
-
-- **REDUCE THE NEED TO EARN** by developing food, energy, and shelter self-reliance
-- **EARN WITHIN THE VILLAGE IF POSSIBLE** reducing transport and travel needs; recruit people who fill essential village occupations or are self-employed
-- **PRODUCE A SURPLUS** from services to others, maintaining a strong economy and outreach potential
-- **PROVIDE NON-MATERIAL NEEDS** especially for children -- meaningful work, relevant education, and a rich natural environment
-- **COOPERATE** in various enterprises and small associations
-
-## What a Village Can Provide
-
-A village can provide:
-- **Privacy** in homes and gardens
-- **Access to tools** as leased, rented, or easily accessed equipment from computers to tractors
-- **Entertainment** from local folk groups to video cassettes
-- **Conservation** as village wildlife, water, and forest reserves
-- **Recreation** in the near environment
-- **Basic life essentials** of shelter, food, and energy
-
-No isolated or scattered group of people can self-provide for the above, but about 30 to 200 houses can support these services and facilities, especially with cooperative funding.
-
-## Site Criteria for Village Development
-
-### Seven Village Types
-1. **Type 1:** In a city block or suburbs
-2. **Type 2:** Adjoining an existing village (probably easiest to plan and administer)
-3. **Type 3:** Within a part-vacant village
-4. **Type 4:** Isolated from any existing settlement (pioneering/kibbutz approach)
-5. **Type 5:** On the site of a pre-existing but now vacant or destroyed village
-6. **Type 6:** As a new suburban development
-7. **Type 7:** Specialised settlements on coasts or near wilderness
-
-### Essential Site Criteria
-- Ability to catch, store, reticulate, and clean up own water supply
-- Wood, wind, solar, or high-pressure water available for energy
-- Road, rail, boat, and air access for trade and travel
-- Mixed ecologies: forest, aquatic, marine, agricultural, and market areas
-
-## Procedural Stages
-
-1. Formation of a group or location of a site
-2. Arrange site option or purchase terms
-3. Obtain agreement in principle from local planning authority
-4. Do careful sums on roading, water supply, and sewerage
-5. Prepare detailed site plan and proposal
-6. Convene prospective customers and obtain commitments
-7. Obtain sealed permission for subdivision
-8. Sell to buyers using trust fund for road, water, site preparation
-9. Decide on future projects from profits and skills gained
-
-## Size of Villages
-
-- At 100 income-producing people, a significant financial institution can be village-based
-- At 500, all people can know each other if social affairs are organised
-- At 2,000, theft and competitiveness become common; sects set up in opposition
-- Start small at 30 adults, build to 200-300, proceed slowly to 500, then "calve" into new villages
-
-The neighbourhood factor -- knowledge of each other's names -- is primary for survival in disaster.
-
-## Allotment Infrastructure
-
-Areas to reserve for future development:
-- School, seminar, workshop rooms, library
-- Food processing centre, cafe, retail shops (including plant nursery retail)
-- Noisy/oily work: woodwork, metal-work, machine shop, vehicle service
-- Dairy and dairy processing centre
-- Domestic livestock housing: chickens, goats, pigs, sheep, rabbits
-- Methane generator, sewage, biomass conversion systems
-- Glasshouses, commercial crop areas
-- Camp area for casual visitors
-
-## Community Tools
-
-Essential shared equipment for the village:
-- Tractor/slasher (fire control)
-- Posthole borer (fencing)
-- Trailer
-- Chisel plough/soil conditioner
-- Chipper (biomass and mulch provider)
-- Tow truck (mulch and goods)
-- Van (goods)
-- Back-pack slasher (blackberry and brush)
-
-Workshop tools: drill press, lathe, radial-arm saw, welder, planer, router -- available on lease or time share.
-
-## Dwellings
-
-Village housing should include varying types:
-- Family homes (2-5 bedrooms)
-- Singles quarters (1-2 bedrooms)
-- Elderly and hospital quarters
-- Terrace housing where appropriate
-
-A mix provides much more for needs and age differences than traditional family homes. Every village could maintain one empty strata title for emergencies.
-
-## Trust Structures
-
-See [[permaculture-designers-manual-legal-structures]] - Trust and legal frameworks
-- [[permaculture-designers-manual-designer-checklist]] - Development planning
-- [[permaculture-designers-manual-dam-construction]] - Village water supply
-- [[mollison-permaculture-two-community-self-reliance]]
-- [[permaculture-designers-manual-food-forest-guilds]]
+## See Also
+- [[permaculture-designers-manual-temperate-climate-design]]
+- [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
+- [[permaculture-designers-manual-cold-climate-design]]
+- [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]
+- [[permaculture-designers-manual-highland-design]]

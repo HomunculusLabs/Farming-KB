@@ -1,5 +1,5 @@
 ---
-title: "Gartz Conocybe cyanopus: Rare Tiny Mushrooms of Remarkable Potency"
+title: "Gartz gartz conocybe cyanopus rare psychoactive mushroom: Rare Tiny Mushrooms of Remarkable Potency"
 created: 2026-04-28
 tags: [conocybe-cyanopus, gartz, psilocybin, baeocystin, rare-mushroom, sclerotia, bolbitiaceae, mycology]
 date: 2026-04-25
@@ -13,11 +13,11 @@ type: concept
 ## Overview
 
 Conocybe cyanopus is a remarkably rare psychoactive mushroom first
-identified by Jochen Gartz in his comprehensive work *Magic Mushrooms
-Around the World*. Despite its small size and extreme rarity, this
+identified by Jochen Gartz in his comprehensive work *[[guzman-magic-mushrooms-african-species]]
+[[fungi-around-the-world-species-distribution]]*. Despite its small size and extreme rarity, this
 species contains significant concentrations of psilocybin and
 baeocystin, making it one of the more potent members of the little-
-studied Conocybe genus. Originally discovered in the United States in
+studied Conocybe genus. Originally discovered in the [[dmt-containing-plants-united-states-halpern]] in
 1918 and later found in Europe, its bluish discoloration at the stem
 base serves as a key identifying feature.
 
@@ -88,5 +88,8 @@ chemical composition and alkaloid content.
 
 - [[gartz-psilocybin-alkaloid-baeocystin-chemistry]] - Chemistry of
   baeocystin and related alkaloids
-- [[gartz-mushroom-identification-dangers-and-tips]] - Identification
+- gartz-mushroom-identification-dangers-and-tips - Identification
   dangers and safety tips
+- [[conocybe-cyanopus]]
+- [[conocybe-tenera]]
+- [[gaston-guzman]]

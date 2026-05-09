@@ -11,9 +11,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Clarke RC, Merlin MD (2013). "Cannabis: Evolution and Ethnobotany." University of California Press.
-  - ElSohly MA et al. (2016). "Changes in Cannabis Potency Over the Last 2 Decades." Biological Psychiatry, 79(7), 613-619.
+  - ElSohly MA et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] Over the Last 2 Decades." Biological Psychiatry, 79(7), 613-619.
   - Hazekamp A, Fischedick JT (2012). "Cannabis — from cultivar to chemovar." Drug Testing and Analysis, 4(7-8), 660-667.
-  - Mowatt L et al. (2020). "Terpene profiles of cannabis cultivars." Journal of Cannabis Research, 2, 14.created: 2026-05-07
+  - Mowatt L et al. (2020). "[[cannabis-terpene-profiles-sativa]] of cannabis cultivars." Journal of Cannabis Research, 2, 14.created: 2026-05-07
 
 created: 2026-05-07
 ---
@@ -30,7 +30,7 @@ The genetic foundation of Skunk derives from three geographically distinct landr
 
 Acapulco Gold (Mexican sativa) contributed cerebral stimulation, a sweet-sour terpene profile, and moderate stretch during flowering. Colombian Gold (South American sativa) added vigor, a complex aroma blending earthy and citrus notes, and extended flowering duration.
 
-Sam the Man selected the F1 hybrid and stabilized it through several generations of inbreeding and backcrossing, producing the Original Skunk (often called "Skunk #1") that would become one of the most widely distributed cannabis genetics in history.
+Sam the Man selected the F1 hybrid and stabilized it through several generations of inbreeding and backcrossing, producing the Original Skunk (often called "Skunk #1") that would become one of the most widely distributed [[vic-high-cannabis-genetics-mendelian-inheritance]] in history.
 
 ## Appearance
 
@@ -62,7 +62,7 @@ Skunk produces a well-balanced effect profile beginning with an uplifting, eupho
 
 Medical users report efficacy for stress relief, mild to moderate pain management, appetite stimulation, and insomnia. The balanced indica-sativa profile makes it suitable for daytime or evening use depending on dosage.
 
-Common adverse effects include dry mouth, dry eyes, and in higher doses, anxiety or paranoia, particularly in users with low THC tolerance. The strain's potency and widespread availability have made it a reference point in public health discussions about cannabis-related psychiatric risk.
+Common [[blesching-cannabis-safety-adverse-effects-evidence]] include dry mouth, dry eyes, and in higher doses, anxiety or paranoia, particularly in users with low THC tolerance. The strain's potency and widespread availability have made it a reference point in public health discussions about cannabis-related psychiatric risk.
 
 ## Cultivation
 
@@ -74,7 +74,7 @@ Indoor flowering time is 7–9 weeks with yields of 400–500 g/m². Outdoor har
 
 Skunk's influence on modern cannabis genetics is arguably unparalleled. Its descendants include dozens of commercially significant strains such as Super Skunk, Skunk #1 (the stabilized Sensi Seeds version), Cheese (a UK-selected phenotype famous for its intense aroma), and Critical Mass.
 
-The Skunk lineage forms the backbone of the "Skunk family," one of the four major genetic families in cannabis breeding alongside Kush, Haze, and Northern Lights. Crosses between Skunk and these other lineages produced foundational hybrids including Shiva Skush (Skunk × Northern Lights #5), Silver Haze (Skunk × Haze), and Master Kush (Skunk × Hindu Kush).
+The Skunk lineage forms the backbone of the "Skunk family," one of the four major genetic families in [[oner-cannabis-breeding-fundamentals]] alongside Kush, Haze, and Northern Lights. Crosses between Skunk and these other lineages produced foundational hybrids including Shiva Skush (Skunk × Northern Lights #5), Silver Haze (Skunk × Haze), and Master Kush (Skunk × Hindu Kush).
 
 Cheese, selected from a Skunk #1 phenotype in the UK during the 1980s, became one of the most popular strains in the European market. Its distinctive pungent cheese aroma, derived from an unusual terpene expression profile, demonstrates the genetic variability latent within the Skunk gene pool.
 
@@ -86,7 +86,7 @@ Super Skunk, bred by Sensi Seeds in the 1990s, crossed Skunk #1 with an Afghani 
 
 Citrus Skunk phenotypes expressing elevated limonene content have been selected by multiple breeders. These variants emphasize the sweet citrus notes in the Skunk terpene profile while moderating the characteristic sulfurous pungency.
 
-The Skunk genetic platform continues to be used in contemporary breeding programs. Modern autoflowering versions have been created by crossing Skunk with Cannabis ruderalis, preserving the core Skunk terpene profile while adding non-photoperiod-dependent flowering.
+The Skunk genetic platform continues to be used in contemporary breeding programs. Modern autoflowering versions have been created by crossing Skunk with [[cervantes-cannabis-ruderalis-autoflowering]], preserving the core Skunk terpene profile while adding non-photoperiod-dependent flowering.
 
 ## See Also
 ## Legal History
@@ -104,6 +104,6 @@ The strain itself is classified as a controlled substance in most jurisdictions.
 - [[white-widow-entity]]
 - [[purple-haze-cannabis]]
 - [[cannabis-blue-dream]]
-- [[wedding-cake-cannabis]]
+- [[wedding-cake]]
 - [[do-si-dos-entity]]
 - [[banana-kush]]

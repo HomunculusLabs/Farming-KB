@@ -23,7 +23,7 @@ system is the foundation of all irrigation practice.
 
 ## How Nature Irrigates
 
-In a natural forest ecosystem:
+In a natural [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]:
 
 1. Saturated ground provides moisture to ground-covering vegetation from
    below
@@ -64,7 +64,7 @@ plant health.
 ## Integration with Broader Water Management
 
 Irrigation is just one aspect of [[sepp-holzer-terrace-systems-and-raised-beds]] and [[comparison-swale-vs-contour-line-water-management]]
-2. Build soil organic matter to increase water retention capacity
+2. Build soil [[hamilton-composting-and-organic-matter-management]] to increase water retention capacity
 3. Maintain permanent vegetation cover
 4. Use mulch where vegetation cover is absent
 5. Supplement with targeted drip irrigation only when necessary
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

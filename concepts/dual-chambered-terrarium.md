@@ -1,106 +1,137 @@
 ---
-title: Dual Chambered Terrarium for Mushroom Fruiting
+title: [[dual-chambered-terrarium-design]]
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
-mined: 2026-05-08
-tags: [fruiting-chamber, terrarium, mushroom-cultivation, humidity,
-  perlite, psilocybe-cubensis]
-aliases: [shotgun terrarium, mushroom fruiting chamber, humidity chamber]
+tags: mycology, mushroom-cultivation, pf-tek]
+created: 2026-05-09
 ---
 
-# Dual Chambered Terrarium for Mushroom Fruiting
+# Dual Chambered Terrarium
 
-## Overview
+The dual chambered terrarium is the [[fruiting-environment-parameters]] in the PF TEK.
+It maintains the high humidity and gentle [[growing-gourmet-growing-room-ventilation-air-exchange]] that mushrooms
+need to pin and fruit, while protecting delicate fungal structures from
+direct water contact. The design is built around a standard 10-gallon
+aquarium modified with an airtight lid and an internal spray shield
+partition, creating two chambers that work together to produce the ideal
+fruiting microclimate.
 
-The Dual Chambered Terrarium (DCT) is the [[fruiting-chamber]] using perlite,
-but remains historically significant and functionally effective.
+## The Airtight Aquarium Lid Design
 
-## Design Principles
+The lid is a custom-built frame designed to seal the aquarium airtight.
+For a standard 10-gallon aquarium, the frame has outside dimensions of
+24 inches by 14.5 inches, with inside dimensions of approximately 21.25
+by 12 inches. The frame is constructed from flat, unwarped 1/4-inch
+thick board, or from four wood strips connected by screws. The inner
+rectangular cutout must be larger than the aquarium top so the frame
+sits over and seals against the rim.
 
-Mushroom fruiting requires specific environmental conditions:
+Clear polyethylene plastic film is tacked to the underside of the wooden
+frame. The frame holds this plastic tightly onto the aquarium top,
+essentially hanging by the film and creating the airtight seal. A simpler
+alternative is plastic wrap, but the wooden frame provides a more durable
+and repeatable seal.
 
-- **High humidity**: 90–95% relative humidity to prevent cakes from drying
-  out and to support pin (primordia) formation
-- **Fresh air exchange (FAE)**: CO2 must be removed and oxygen replenished
-  continuously; high CO2 levels produce tall, spindly mushrooms
-- **Light**: Indirect ambient light triggers fruiting and guides mushroom
-  direction ([[pf-tek-cultivation-method]]
-- substrate-preparation]]
-- [[mushroom-spore-inoculation-techniques]]
-## Practical Applications
+## Why Airtightness Matters for Humidity
 
-Dual Chambered Terrarium for Mushroom Fruiting has a range of practical applications that make it relevant to
-both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
-reflects the fundamental importance of this topic across disciplines.
+The most important point in the PF TEK is that the aquarium must be
+sealable with no air leaks. Mushrooms require very high humidity — ideally
+approaching 100%, where the maximum number of water molecules float among
+air atoms. The fungus needs to bathe in a "shroud of floating water
+molecules." Any air leak allows humidified air to escape and dry [[stamets-growing-room-air-circulation-co2-management]]
+to enter, degrading the environment needed for proper pinning and fruiting.
 
-Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
-straightforward, while larger implementations require more careful
-planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
+## The Perlite Humidification Technique
 
-Documented case studies provide valuable reference points, though
-each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
-creative adaptation to local conditions and emerging challenges.
+Perlite (bright white volcanic mineral from plant shops) provides
+sustained humidification through gradual evaporation. Unlike vermiculite,
+perlite does not absorb water internally. Instead, its porous structure
+takes up water by [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] and evaporates it into the air above
+very gradually — a highly desirable quality.
 
-## Key Considerations
+A "floor" of wetted perlite at the terrarium bottom sucks up water that
+gravity keeps at the bottom of the layer, then evaporates it over weeks,
+sufficient for multi-flush fruiting cycles. When fungus cakes sit
+directly on the perlite, contact creates wick-like moisture transfer
+directly to the cakes. This dual action — atmospheric humidity plus
+direct contact transfer — makes perlite humidification remarkably
+effective, allowing cultivators to forget about electric humidifiers.
 
-Several important considerations should guide approach and decision-
-making when working with this topic. These include environmental
-factors, resource availability, timing, and the specific goals of the
-implementation. Careful attention to these factors improves outcomes
-and reduces the likelihood of common problems and setbacks.
+## The Spraying Procedure
 
-Environmental conditions play a particularly significant role in
-determining outcomes. Factors such as temperature, moisture, light
-exposure, and seasonal timing can substantially affect results.
-Monitoring these conditions and adapting practices accordingly is
-a hallmark of experienced and effective practice in this area.
+The first rule: never directly spray the fungus. Water droplets are
+"giant ponds of water in relation to the fine [[fungal-mycelial-networks-nutrient-translocation]]" and can
+drown or contaminate delicate structures. The spray must be broken into
+a fine mist before reaching the fungus. The spray shield accomplishes
+this. The procedure:
 
-Resource considerations include not only material inputs but also
-knowledge, skills, time, and ongoing management capacity. Realistic
-assessment of available resources helps prevent overcommitment and
-enables more sustainable and successful long-term implementations.
+1. Before placing cakes in the terrarium, spray all inside surfaces
+   including the shield and lid to pre-humidify the environment.
 
-## Common Challenges
+2. Insert fungus cakes and put the spray shield and lid in place.
 
-Practitioners commonly encounter several challenges when working with
-Dual Chambered Terrarium for Mushroom Fruiting. These include both technical difficulties and broader systemic
-issues that require adaptive management and creative problem-solving.
-Awareness of these common challenges enables more proactive planning
-and faster resolution when issues do arise during implementation.
+3. Slightly lift the lid, insert the spray nozzle between lid and
+   aquarium top, and vigorously spray downwards into the shield for
+   about 5 seconds.
 
-Technical challenges often relate to the complexity of interactions
-between multiple variables and the difficulty of predicting outcomes
-with certainty. Building in redundancy, monitoring key indicators, and
-maintaining flexibility in approach all help manage this inherent
-uncertainty and improve the resilience of implementations over time.
+4. Immediately withdraw the nozzle and let the lid down to seal the
+   swirling mist inside.
 
-Learning from both successes and failures is essential for continuous
-improvement. Maintaining records of observations, interventions, and
-outcomes creates a valuable knowledge base that supports progressively
-better results with each iteration of practice and experimentation.
+5. Return after a few minutes for additional sprays. A third spray is
+   recommended if the terrarium will be left untended until evening.
 
-## Integration and Future Development
+Spray at least twice daily. All inside surfaces should be foggy or
+dripping — this itself helps generate humidity. Mushrooms grow well
+with even one good daily spray in a properly set-up terrarium.
 
-The greatest value from this topic often comes through integration
-with other systems and approaches. Rather than treating it in isolation,
-considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
+## The Spray Shield and Chamber Partition
 
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
+The spray shield is a 1/8-inch thick clear acrylic (Plexiglas) piece cut
+to roughly 15 by 18 inches for a 10-gallon aquarium, with a tight fit.
+It divides the terrarium into a primary chamber (receiving spray) and a
+secondary chamber (holding the fungus cakes).
 
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
+When spray strikes the shield, it breaks into finer mist flowing around
+the shield sides into the secondary chamber, safely bathing the fungus.
+The slanted shield also acts as a drip shield and roof — condensation
+runs down the sides, and more condensation is better for humidification.
 
+Each spraying session should include ventilation: remove the lid, hold
+the shield vertically, fan with cardboard, then spray. Standing water at
+the bottom must be siphoned out using a rubber bulb battery filler or
+enema bottle to prevent bacteria buildup.
+
+## Heating Considerations
+
+The main rule: do not heat the terrarium. Any direct heating works
+against humidification and adds drying influence. No heating cables, heat
+pads, or blankets. [[cmh-grow-lights]] should be kept at a safe distance.
+
+These fungi grow well at 60°F and have been seen growing perfectly at
+even cooler temperatures. They grow slowly when cool but fast at warm
+room temperatures. The target range is 65 to the upper 80s°F. A too-hot
+terrarium produces spreading [[mycelium]] but no fruiting — heat suppresses
+the pinning trigger.
+
+## Symptoms of Low Humidity
+
+When humidity drops slightly below optimal but fruiting continues,
+mushrooms may develop fuzzy white mycelium on their caps, resembling a
+white crown of hair. This is not contamination — the mycelium is good
+and does not detract from quality. It is simply the fungus responding to
+insufficient atmospheric moisture.
+
+More severe low humidity produces deformed, convoluted, and withering
+mushrooms and primordia. These symptoms demand immediate attention: more
+frequent spraying, lid seal verification, and confirmation that the
+perlite layer has adequate water.
+
+## Creating the Pinning Microclimate
+
+The terrarium creates the pinning microclimate through sustained high
+humidity from perlite evaporation, regular molecularized misting from the
+spray procedure, and gentle air exchange during ventilation. The airtight
+seal traps humidity while the spray shield ensures it reaches the fungus
+as safe fine mist. Indirect room light or a small low-wattage fluorescent
+plant light provides the phototropic stimulus for upward growth. Together
+these elements replicate the natural conditions that trigger Psilocybe
+Cubensis to fruit.

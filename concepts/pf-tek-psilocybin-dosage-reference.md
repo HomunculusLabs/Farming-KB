@@ -10,7 +10,7 @@ sources: [fanaticus-pf-tek-psilocybe-fanaticus]
 
 ## Overview
 
-The PF TEK documentation includes extensive excerpts from Paul Stamets' "Psilocybin Mushrooms of the World" (Chapter 5: Good Tips for Great Trips) regarding dosage guidelines for psilocybin-containing mushrooms. These excerpts were edited and included by Psylocybe Fanaticus to provide cultivators with a reference framework for understanding dose-dependent effects and the significant individual variation in sensitivity. The information is presented alongside the PF TEK's own emphasis on harvesting young, pre-sporulation specimens for maximum potency.
+The PF TEK documentation includes extensive excerpts from Paul Stamets' "[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World" (Chapter 5: Good Tips for Great Trips) regarding [[blesching-cannabis-health-index-dosage-guidelines-medical]] for psilocybin-containing mushrooms. These excerpts were edited and included by Psylocybe Fanaticus to provide cultivators with a reference framework for understanding dose-dependent effects and the significant individual variation in sensitivity. The information is presented alongside the PF TEK's own emphasis on harvesting young, pre-sporulation specimens for maximum potency.
 
 ## Individual Sensitivity Variation
 
@@ -24,18 +24,18 @@ These cases demonstrate that published dosage ranges are starting points for sel
 
 ## Baseline Species Reference
 
-The following dosage descriptions use Psilocybe semilanceata (liberty cap) as a baseline reference species, which averages approximately 1% combined psilocybin and psilocin content by dry weight. This species is chosen as the standard because it is one of the most widely studied and consistently potent psilocybin-containing mushrooms.
+The following dosage descriptions use [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] (liberty cap) as a baseline reference species, which averages approximately 1% combined psilocybin and psilocin content by dry weight. This species is chosen as the standard because it is one of the most widely studied and consistently potent psilocybin-containing mushrooms.
 
 When [[pf-tek-mushroom-potency-and-age-relationship|immature pre-sporulation specimens]] are significantly more potent per unit weight than mature sporulating ones.
 
 By harvesting mushrooms while their caps are still round and before the veil breaks, by growing them on brown rice substrate rather than nutrient-poor media, and by [[pf-tek-aborts-and-potency-harvesting|abortive mushrooms]] and tiny primordia that cease normal development are described as the most potent specimens available from the PF TEK process. These small specimens, though individually tiny, accumulate to a substantial weight across several cakes. They represent the highest quality material and should be harvested promptly before their caps begin to darken.
 
-The relationship between harvest timing and potency is inverse: as the mushroom cap expands like an umbrella and the sporulation cycle begins, the mushroom's size increases but its potency per unit weight decreases. This means that a larger, mature mushroom may contain less total active alkaloid than a smaller, younger specimen from the same cake, despite weighing considerably more.
+The relationship between [[cannabis-harvest-timing-visual-cues]] and potency is inverse: as the mushroom cap expands like an umbrella and the sporulation cycle begins, the mushroom's size increases but its potency per unit weight decreases. This means that a larger, mature mushroom may contain less total active alkaloid than a smaller, younger specimen from the same cake, despite weighing considerably more.
 
 ## Important Safety Notes
 
 - Always start with low doses and increase gradually in single dried-gram increments.
-- Set and setting are critical at all dose levels, and become essential above 3 grams.
+- [[lsd-set-and-setting-framework]] are critical at all dose levels, and become essential above 3 grams.
 - Individual sensitivity varies enormously and cannot be predicted in advance.
 - The effects described here apply to orally ingested dried mushroom material only.
 - Dose-response is not linear: the experiential difference between 4 and 5 grams is much larger than between 1 and 2 grams.
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Mushroom Contamination Vectors
+title: oyster-mushroom-contamination-management Vectors
 created: 2026-04-28
 tags:
   - mushroom-cultivation
@@ -21,7 +21,7 @@ Understanding the six vectors through which contaminants enter a
 cultivation system is fundamental to achieving consistent, reliable
 results. A contaminant is defined functionally as any organism you do
 not want to grow. Classically, Penicillium molds are contaminants to
-mushroom culture, but if you are growing Shiitake and nearby Oyster
+[[mazatec-mushroom-culture-and-velada]], but if you are growing Shiitake and nearby Oyster
 mushrooms generate spores that infiltrate your lab, then the Oyster
 spores are the contaminant. This functional definition underscores
 that the cultivator's intent determines what is a contaminant.
@@ -71,7 +71,7 @@ endospore germination, making them susceptible to heat. Sawdust from
 outdoor sources may contain actinomycetes and other heat-resistant
 organisms. The water used in media preparation can introduce
 contaminants, particularly if it contains chlorine or mineral
-imbalances. Chlorinated water can inhibit mycelial growth; activated
+imbalances. Chlorinated water can inhibit [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]; activated
 charcoal filters may be necessary to eliminate chemical contaminants
 from water sources.
 
@@ -114,7 +114,7 @@ black lights and centrally located fans creating negative pressure
 vortices should be positioned at every entrance. Sticky pads below the
 lights trap near-misses. Growing rooms should be washed down at least
 twice daily. Tree frogs, consuming 20-100 flies per day, provide an
-effective natural biological control measure. Drains are another mobile
+effective natural [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] measure. Drains are another mobile
 contamination pathway; gate valves on floor drains prevent contaminants
 from being drawn in during cooling.
 
@@ -135,13 +135,14 @@ For example, excessive humidity during cropping promotes bacterial
 blotch, green mold proliferation, and fly populations simultaneously.
 Flies carry mites and spores, leading to deformed mushrooms, primordia
 damage, and short shelf life after harvest. The lesson: what benefits
-one contaminant benefits many. Controlling the growing environment to
+one contaminant benefits many. Controlling the [[cannabis-growing-environment-setup]] to
 favor mushrooms over competitors is the central challenge of
 cultivation. Controlling one vector of contamination must be coupled
-with creating an environment more conducive to mushroom growth than
-to competitor organisms.
 ## See Also
 
 - [[mushroom-sterile-technique]] for laboratory protocols
-- [[enriched-sawdust-cultivation]] for substrate sterilization
-- [[mushroom-cultivation-sterile-laboratory-design]] for facility design principles
+- [[enriched-sawdust-cultivation]] for [[mushroom-substrate-sterilization-and-pasteurization]]
+- mushroom-cultivation-sterile-laboratory-design for facility design principles
+- [[six-vectors-of-contamination]]
+- [[oyster-mushroom]]
+- [[sterilization]]

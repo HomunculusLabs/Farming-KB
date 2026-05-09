@@ -36,7 +36,7 @@ This visible movement has made it a subject of scientific curiosity
 since the 19th century and a popular ornamental curiosity plant.
 
 Beyond its novelty value, the species has traditional medicinal uses in
-Ayurvedic and folk medicine across South and Southeast Asia, and it
+Ayurvedic and folk medicine across South and [[psilocybe-southeast-asia-pacific]], and it
 serves practical roles in permaculture as a nitrogen-fixing groundcover
 and green manure crop.
 
@@ -87,7 +87,7 @@ the Americas, and Pacific islands.
 - **Soil:** Adaptable to poor, acidic, and lateritic soils; performs
   best in well-drained loams
 - **Invasiveness:** Listed as invasive in some Pacific islands and
-  tropical Australia due to prolific seed production and dense
+  tropical Australia due to prolific [[cervantes-seed-production-storage]] and dense
   groundcover formation
 
 ## Bioactive Compounds and Pharmacology
@@ -115,7 +115,7 @@ coughs, and digestive complaints.
 The telegraph plant offers several practical benefits in designed
 ecosystems:
 
-- **Nitrogen fixation:** Symbiotic association with *Bradyrhizobium*
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** Symbiotic association with *Bradyrhizobium*
   spp. fixes 30–60 kg N/ha/year, improving soil fertility for
   companion plants
 - **Living mulch and groundcover:** Dense, low-growing habit suppresses
@@ -124,11 +124,11 @@ ecosystems:
   material; incorporated into soil, it significantly increases organic
   matter and available nitrogen
 - **Pollinator support:** Prolific pink flowers attract bees and
-  butterflies during the late growing season
-- **Companion planting:** Compatible with fruit trees, cassava, and
+  butterflies during the late [[savory-growing-season-and-non-growing-season-management]]
+- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Compatible with fruit trees, cassava, and
   coffee as an understory nitrogen-fixer; shade-tolerant enough to
   persist under partial canopy
-- **Erosion control:** Spreading root system and dense canopy make it
+- **[[permplant-willows-salix-erosion-control-fodder]]:** Spreading root system and dense canopy make it
   effective for stabilizing embankments and roadside cuts
 
 ## Cultivation
@@ -142,6 +142,7 @@ ecosystems:
 ## See Also
 
 - [[glycyrrhiza-glabra]]
-- [[nitrogen-fixing-plants]]
+- nitrogen-fixing-plants
 - [[comparison-living-mulch-vs-cover-crops]]
 - tropical legumes
+- [[desmodium-uncinatum]]

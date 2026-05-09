@@ -1,5 +1,5 @@
 ---
-title: LSD Psychedelic Experience Guide
+title: LSD leary-psychedelic-experience-bardo-mapping Guide
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # LSD Psychedelic Experience Guide
 
-LSD (Lysergic acid diethylamide) is the most well-known psychedelic substance. First synthesized by Albert Hofmann at Sandoz Laboratories in Basel, Switzerland in 1938 from ergotamine, a chemical derived from ergot fungus. Hofmann accidentally discovered its psychoactive properties in 1943 when he absorbed a small amount through his skin. Turner rates intensity 4-10, making it one of the most powerful known psychedelics.
+LSD ([[ergot-and-lysergic-acid-history]] diethylamide) is the most well-known psychedelic substance. First synthesized by Albert Hofmann at Sandoz Laboratories in Basel, Switzerland in 1938 from ergotamine, a chemical derived from ergot fungus. Hofmann accidentally discovered its psychoactive properties in 1943 when he absorbed a small amount through his skin. Turner rates intensity 4-10, making it one of the most powerful known psychedelics.
 
 ## Chemistry
 
@@ -21,10 +21,10 @@ With repeated use, LSD loses some of its capacity to surprise and overwhelm. Exp
 ## Combinations
 
 - **DMT**: Combining LSD with [[psychedelic-combination-guide]].
-- **Harmala alkaloids**: Harmala alkaloids can intensify LSD and modify its character. The combination tends to make the experience more earthy and grounded compared to LSD alone. See [[ecstasy-mdma-guide]] and [[psilocybin-mushroom-distribution-worldwide]].
+- **[[turner-harmala-alkaloids-preparation-and-dosage]]**: Harmala alkaloids can intensify LSD and modify its character. The combination tends to make the experience more earthy and grounded compared to LSD alone. See [[ecstasy-mdma-guide]] and [[psilocybin-mushroom-distribution-worldwide]].
 LSD's molecular structure includes a diethylamide group at the nitrogen position of the
 lysergamide backbone. This group is critical for its psychoactivity — removing one ethyl
-group produces LSA (a milder psychedelic found in morning glory seeds), and removing both
+group produces LSA (a milder psychedelic found in [[golden-guide-morning-glory-and-ololiuqui]] seeds), and removing both
 produces lysergic acid (inactive). The ergoline ring system is shared with other ergot
 alkaloids, connecting LSD to a deep chemical lineage that runs through ergot fungus,
 [[psychedelic-therapy-current-research]].
@@ -40,7 +40,7 @@ thought pattern can require deliberate, sustained effort — simply "thinking po
 insufficient. The concept of "surrender" — allowing the experience to unfold without
 resistance — is widely recommended by psychedelic therapists as the most effective approach
 to working with challenging states. See [[psilocybin-mushroom-identification]] — natural psychedelic alternative
-- [[psychedelic-safety-and-harm-reduction]] — general harm reduction
+- [[psychedelic-safety-and-harm-reduction]] — general [[adverse-effects-and-harm-reduction-psilocybin]]
 - [[psychedelic-integration-guide]] — spiritual context
 
 ## Related
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

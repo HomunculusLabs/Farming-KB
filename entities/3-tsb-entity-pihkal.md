@@ -1,5 +1,5 @@
 ---
-title: "3-TSB (3-THIOSYMBESCALINE;) -- PIHKAL Entry #176"
+title: "3-TSB (3-THIOSYMBESCALINE;) -- 2c-b-pihkal-entry-20 #176"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -45,7 +45,7 @@ continuously titrated, and stopped when there is a favorable balance
 between the aldehyde being mostly gone, the nitrostyrene being mostly
 made, and the slower-moving scrudge components being not yet too
 plentiful. Methylene chloride is an excellent solvent to try first,
-with silica gel plates and UV detection. The nitrostyrene is always
+with [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] plates and UV detection. The nitrostyrene is always
 the fastest moving component of the reaction mixture and often
 fluoresces a dull purple. The starting aldehyde is the second spot
 and usually fluoresces white or pale yellow. The scrudge spots then
@@ -76,7 +76,7 @@ to come to room temperature over the course of 1 h, and then added to
 100 mL of dilute HCl. The Et2O phase was separated and the solvent
 removed under vacuum. The residue was dissolved in 50 mL MeOH,
 combined with the original aqueous phase, and the entire mixture
-heated on the steam bath for 0.5 h. The aqueous solution was cooled
+heated on the [[scythian-cannabis-steam-bath-ritual]] for 0.5 h. The aqueous solution was cooled
 to room temperature, extracted with 3x100 mL CH2Cl2, the extracts
 pooled, and the solvent removed under vacuum. The residue was
 distilled at 132-140 deg C at 0.3 mm/Hg to yield 9.1 g of
@@ -106,7 +106,7 @@ little if any of the desired
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

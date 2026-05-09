@@ -3,20 +3,21 @@ title: "What Is Glomalin and Why Is It Important for Soil Health?"
 tags: [query, soil-science, mycorrhizal-fungi, glomalin, soil-health]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources:
+  sources: []
 ---
 
 # What Is Glomalin and Why Is It Important for Soil Health?
 
 ## Short Answer
 
-Glomalin is a sticky glycoprotein produced by [[soil-aggregate-formation-fungal-contributions|soil aggregate formation]], carbon sequestration, and overall soil structural stability.
+Glomalin is a sticky glycoprotein produced by [[soil-aggregate-formation-fungal-contributions|soil aggregate formation]], [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]], and overall soil structural stability.
 
 ## What Exactly Is Glomalin?
 
 Glomalin belongs to a family of glycoproteins called glomalin-related soil proteins (GRSP).
 
-These proteins are exuded through the hyphal walls of arbuscular mycorrhizal fungi as they grow through the soil.
+These proteins are exuded through the hyphal walls of [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi as they grow through the soil.
 
 The substance acts as a biological glue, coating hyphae and surrounding soil particles with a sticky, hydrophobic layer.
 
@@ -26,7 +27,7 @@ Modern research considers glomalin to be a mixture of several glycoproteins rath
 
 ## How Does Glomalin Form Soil Aggregates?
 
-Soil aggregates are clumps of sand, silt, clay, and organic matter held together by binding agents.
+Soil aggregates are clumps of sand, silt, clay, and [[hamilton-composting-and-organic-matter-management]] held together by binding agents.
 
 Glomalin is one of the most important of these binding agents in soils dominated by AMF associations.
 
@@ -42,7 +43,7 @@ This resistance comes from its complex molecular structure and strong bonding to
 
 Because of its long turnover time, glomalin represents a form of semi-permanent carbon sequestration.
 
-Farming practices that promote mycorrhizal activity can increase glomalin levels and enhance soil carbon storage.
+Farming practices that promote mycorrhizal activity can increase glomalin levels and enhance soil [[holmgren-soil-humus-carbon-storage-rebuilding]].
 
 Conversely, practices like heavy tillage that disrupt fungal networks lead to glomalin depletion and carbon release.
 
@@ -60,7 +61,7 @@ Several management practices and environmental conditions favor higher glomalin 
 
 **Diverse crop rotations** support a wider range of AMF species and potentially greater glomalin production.
 
-**Organic amendments** like compost provide nutrients that feed soil biology without harming fungal networks.
+**[[cervantes-organic-amendments-chart]]** like compost provide nutrients that feed soil biology without harming fungal networks.
 
 The [[fungal-glomalin-and-soil-carbon|relationship between glomalin and soil carbon]] varies by ecosystem type.
 
@@ -72,9 +73,11 @@ Restoring degraded cropland to perennial vegetation can rebuild glomalin stocks 
 
 - Glomalin is a glycoprotein produced by [[soil-aggregate-formation-fungal-contributions|soil aggregate stability]] and resistance to erosion
 - Glomalin contains 30 to 40 percent carbon and represents a significant long-term [[lowenfels-glomalin-soil-aggregation|Lowenfels model]] highlights glomalin as a keystone compound for soil structure
-- Glomalin turnover ranges from 7 to 42 years, making it one of the most stable soil organic compounds
+- Glomalin turnover ranges from 7 to 42 years, making it one of the most stable soil [[fungal-volatile-organic-compounds-communication]]
 - Measuring GRSP levels provides a useful biological indicator of overall soil health
 ## Related
+
+- [[glomalin-mycorrhizal-soil-health]]
 
 - [[query-what-is-the-soil-food-web-and-why-does-it-matter|What is the soil food web and why does it matter?]]
 - [[query-what-are-the-different-types-of-mycorrhizal-fungi|What are the different types of mycorrhizal fungi?]]

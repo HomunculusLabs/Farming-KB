@@ -1,5 +1,5 @@
 ---
-title: "Mushroom Classroom Education Demonstrations"
+title: "Mushroom mushroom classroom education demos Demonstrations"
 created: 2026-04-28
 tags:
   - mushroom-education
@@ -16,11 +16,11 @@ type: concept
 
 # Mushroom Classroom Education Demonstrations
 
-Mushroom cultivation offers a powerful platform for science education across
+[[accessible-mushroom-cultivation-for-disabilities]] offers a powerful platform for science education across
 all age groups. Tradd Cotter developed a comprehensive framework of
 classroom activities organized by grade level and subject track, designed to
-teach students about fungal ecology, cultivation, recycling, mycoremediation,
-and scientific methodology. The hands-on nature of mushroom growing makes
+teach students about [[gadd-fungal-ecology-endophytes]], cultivation, recycling, mycoremediation,
+and scientific methodology. The hands-on nature of [[duggar-mushroom-growing-history-and-methods]] makes
 abstract biological concepts tangible and memorable.
 
 ## Pedagogical Philosophy
@@ -47,8 +47,8 @@ mushroom size and harvest mature specimens for spore prints.
 
 ### Coffee Cultivator
 
-Spent coffee grounds are collected from the school or a local coffee shop,
-placed in a bucket, and inoculated with an oyster mushroom starter culture.
+Spent [[oyster-mushroom-coffee-grounds-cultivation]] are collected from the school or a local coffee shop,
+placed in a bucket, and inoculated with an [[cotter-oyster-mushroom-cultivation]] starter culture.
 Students observe the bucket daily, treating it like a pet. The gas exchange
 needs of mushrooms are explained by analogy to human respiration. See
 [[turkey-tail-trametes-versicolor]] can be blended with water into a

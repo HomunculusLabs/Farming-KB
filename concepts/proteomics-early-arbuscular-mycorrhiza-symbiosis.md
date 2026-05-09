@@ -1,5 +1,5 @@
 ---
-title: "Proteomics of Early Arbuscular Mycorrhiza Symbiosis"
+title: "Proteomics of Early techniques-arbuscular-mycorrhiza-inoculum-reduction Symbiosis"
 created: 2026-04-28
 tags:
   - proteomics
@@ -18,19 +18,19 @@ type: concept
 
 ## Overview
 
-Proteomic analysis of the early stages of arbuscular mycorrhizal (AM)
+Proteomic analysis of the early stages of [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] (AM)
 symbiosis reveals the protein-level changes that accompany fungal
 recognition, root colonization, and the establishment of the symbiotic
 interface. Using two-dimensional gel electrophoresis and mass
 spectrometry, researchers have identified differentially expressed
-proteins involved in signal transduction, defense responses, primary
+proteins involved in [[fungal-environmental-sensing-signal-transduction-read]], defense responses, primary
 metabolism, and symbiosis-related functions in Medicago truncatula roots
-during early colonization by [[mycorrhizal-symbiosis]].
+during early colonization by mycorrhizal-symbiosis.
 
 ## See Also
 
 - [[mycorrhiza-induced-resistance-defense-priming]]
-- [[mycorrhizal-signaling-strigolactones-myc-factors]]
+- mycorrhizal-signaling-strigolactones-myc-factors
 - [[proteomics-early-am-symbiosis-stages]]
 ## Practical Applications
 
@@ -109,4 +109,5 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+- [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
+- [[techniques-arbuscular-mycorrhiza-inoculum-reduction]]

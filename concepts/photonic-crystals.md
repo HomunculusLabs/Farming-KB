@@ -1,8 +1,9 @@
 ---
-title: "Photonic Crystals"
+title: "query-how-do-photonic-crystals-create-structural-color"
 created: 2026-04-28
 updated: 2026-05-06
-sources: []
+sources:
+  sources: []
 type: concept
 tags: [reference]
 ---
@@ -52,7 +53,7 @@ Biosensors use shifts in resonant wavelength to detect binding of molecules on p
 Chemical sensors exploit changes in refractive index inside pores or cavities.
 Photonic crystals enhance Raman scattering, fluorescence, and absorption in analytical devices.
 They are useful platforms for cavity quantum electrodynamics with atoms, color centers, or quantum dots.
-In solar energy, they can trap light, reflect thermal radiation, or manage emission spectra.
+In [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]], they can trap light, reflect thermal radiation, or manage emission spectra.
 Thermophotovoltaic systems use photonic structures to tailor thermal emission toward useful wavelengths.
 Radiative cooling surfaces use periodic or quasi-periodic structures to emit heat through atmospheric windows.
 Structural color materials offer pigments without photobleaching or toxic dyes.

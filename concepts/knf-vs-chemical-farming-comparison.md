@@ -1,5 +1,5 @@
 ---
-title: "Korean Natural Farming vs Chemical Farming Comparison"
+title: "Korean comparison-natural-farming-vs-permaculture vs Chemical fukuoka-textdoc-three-types-farming-comparison-yields"
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,8 +12,8 @@ sources:
 
 **Updated:** 2026-04-18
 
-[[knf-indigenous-microorganism-culture]] restores and maintains soil biology
-- [[lactic-acid-bacteria-knf]] improves soil ventilation and nutrient cycling
+ restores and maintains soil biology
+- [[lactic-acid-bacteria-knf]] improves soil ventilation and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - No plowing needed -- soil organisms maintain structure
 - Organic matter increases each year through straw return and compost
 - Soil improves progressively without chemical inputs
@@ -29,14 +29,14 @@ sources:
 - Polluting pesticides accumulate in waterways and ecosystems
 - No truly non-polluting pesticide exists
 ### Korean Natural Farming
-- Healthy plants have natural resistance to pests and diseases
+- Healthy plants have natural resistance to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]
 - [[knf-soap-water-and-hot-pepper]] provide physical pest control
 - [[knf-fish-amino-acid]] provides nitrogen in amino acid form (directly assimilated)
 - [[water-soluble-calcium-wca]] provide minerals in bioavailable forms
 - [[knf-water-soluble-potassium-detailed]] provides potassium with multiple functions
 - Nutrients are biologically processed and plant-available
 - Plants develop efficient root systems that forage for nutrients
-- Food has higher nutritional quality and better taste
+- Food has higher [[coleman-winter-greens-nutritional-quality-cold-sweetening]] and better taste
 
 ## Cost Comparison
 ### Chemical Farming
@@ -61,7 +61,7 @@ sources:
 - Soil organic matter declines
 - Soil compaction increases
 - Microbial diversity decreases
-- Trace element deficiencies multiply
+- [[fukuoka-textdoc-fertilizer-acidification-trace-element-deficiency]] deficiencies multiply
 - Water retention capacity declines
 - Erosion increases
 - Soil becomes "yellowish-white mineral matter" -- dead and inanimate

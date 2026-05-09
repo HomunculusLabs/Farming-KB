@@ -1,5 +1,5 @@
 ---
-title: "Ficus carica"
+title: "permplant-fig-ficus-carica-fruit-tree"
 created: 2026-04-28
 tags: [species, tree, fruit-tree, food, permaculture]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: entity
 # Ficus carica
 
 **Type:** Species (Tree)
-**Category:** Fruit tree
+**Category:** [[comparison-berry-growing-vs-fruit-tree-pruning]]
 **Family:** Moraceae
 **Also known as:** Common fig, edible fig
 
@@ -21,7 +21,7 @@ civilisation, with as many as 700 known varieties. It is a deciduous
 tree growing 5-10 m tall with a spread up to 25 m. Native to the
 Mediterranean and western Asia, figs have been cultivated for food
 since at least 5,000 BCE, making them among the first domesticated
-fruit trees. The species is exceptionally well-suited to small-scale
+[[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]. The species is exceptionally well-suited to small-scale
 and permaculture food production due to its minimal care requirements
 and high productivity.
 
@@ -42,7 +42,7 @@ and high productivity.
   from early or late frosts
 - **Soil tolerance:** Wide range but dislikes alkaline or salty
   soils; periodic lime applications beneficial
-- **Drought tolerance:** Tolerant of drought but produces better
+- **[[dighton-fungal-drought-tolerance-plant-water-relations]]:** Tolerant of drought but produces better
   fruit with adequate water
 - **Fruit production:** Two crops per year in some climates (early
   summer crop larger, late summer/autumn crop smaller but more
@@ -74,7 +74,7 @@ cooler climates.
 
 ## Notable Cultivars
 - **Brown Turkey:** Medium fruit, mahogany-brown skin, rich
-  flavour, cold hardy
+  flavour, [[coleman-cold-hardy-varieties]]
 - **Mission (Black Mission):** Dependable, large purplish-black
   fruit, excellent flavour
 - **Kadota:** Vigorous, hot climate, yellowish-green skin, popular
@@ -87,13 +87,15 @@ The fig is one of the most versatile and easy-to-grow fruit trees
 for permaculture systems in warm temperate and subtropical regions.
 Its ability to crop with minimal irrigation, produce two harvests
 annually, and thrive in container culture makes it invaluable for
-urban permaculture and small-space food production. The combination
+[[pdc-urban-permaculture-design-principles]] and small-space food production. The combination
 of fresh and dried fruit, medicinal uses, and ornamental value make
 it a multi-functional garden element.
 
 ## See Also
 
 - [[food-forest-design]]
-- [[carob]]
+- carob
 - olea europaea
-- [[figs-ficus-spp]]
+- figs-ficus-spp
+- [[olea-europaea]]
+- [[permplant-fig-ficus-carica-fruit-tree]]

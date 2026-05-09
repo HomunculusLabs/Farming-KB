@@ -21,7 +21,7 @@ aliases:
   - Goldtooth Waxy Cap
   - Hygrophore à Dents Dorées
 sources:
-  - Bresinsky A, Besl H (1990). "A Colour Atlas of Poisonous Fungi." Wolfe Publishing.
+  - Bresinsky A, Besl H (1990). "A Colour Atlas of ramsbottom-poisonous-fungi-identification-guide." Wolfe Publishing.
   - Courtecuisse R, Duhem B (1995). "Mushrooms and Toadstools of Britain and Europe." HarperCollins.
   - Kühner R, Romagnesi H (1953). "Flore Analytique des Champignons Supérieurs." Masson.
   - Breitenbach J, Kränzlin F (1991). "Fungi of Switzerland Vol 3." Verlag Mykologia.
@@ -33,7 +33,7 @@ created: 2026-04-28
 
 *Hygrophorus chrysodon* is a species of agaric fungus in the family Hygrophoraceae, commonly known as the golden tooth waxy cap.
 
-It is an ectomycorrhizal associate of both coniferous and deciduous trees, found across temperate Europe and parts of North America.
+It is an ectomycorrhizal associate of both coniferous and deciduous trees, found across temperate Europe and parts of [[psilocybin-north-america-pacific-northwest]].
 
 The species is most recognizable by its white to cream cap covered in minute golden-yellow granules, especially near the margin.
 
@@ -85,7 +85,7 @@ The stipe is solid to slightly hollow, with a fibrillose white surface.
 
 **Hygrophorus agathosmus** is a species of agaric fungus in the family Hygrophoraceae, commonly known as the almond waxcap or fragrant woodwax. It is recognized by its distinctive almond-like fragrance, which is unusual among mushrooms and serves as the most reliable field identification character.
 
-The species is mycorrhizal, forming associations primarily with coniferous trees in temperate and boreal forests of the Northern Hemisphere. It is widely distributed across Europe and North America, fruiting in autumn through early winter.
+The species is mycorrhizal, forming associations primarily with coniferous trees in temperate and [[fungal-diversity-boreal-forests-taiga]] of the Northern Hemisphere. It is widely distributed across Europe and North America, fruiting in autumn through early winter.
 
 Hygrophorus agathosmus is generally considered edible, though it is not widely collected for the table due to its small size and waxy texture. It holds greater interest for its distinctive aroma and its role in forest mycorrhizal ecology.
 
@@ -127,7 +127,7 @@ The fatty acid composition of the waxy cap cuticle is of taxonomic interest with
 
 As a mycorrhizal fungus, Hygrophorus agathosmus forms mutually beneficial associations with the root systems of forest trees. The fungal mycelium extends the effective root surface area of the host tree, enhancing uptake of water and mineral nutrients, particularly phosphorus and nitrogen.
 
-In return, the fungus receives carbohydrates (primarily glucose and fructose) from the host tree through photosynthesis. This exchange is fundamental to the health of forest ecosystems and influences tree growth, resistance to pathogens, and overall forest productivity.
+In return, the fungus receives carbohydrates (primarily glucose and fructose) from the host tree through photosynthesis. This exchange is fundamental to the health of forest ecosystems and influences tree growth, resistance to pathogens, and overall [[fukuoka-textdoc-forest-productivity-without-fertilizer]].
 
 Hygrophorus agathosmus is one of several late-season *Hygrophorus* species that contribute to extended mycorrhizal activity into the autumn and winter months. This temporal niche may provide particular benefits to host trees during periods of nutrient stress.
 
@@ -136,6 +136,6 @@ Hygrophorus agathosmus is one of several late-season *Hygrophorus* species that 
 - hygrophorus chrysodon
 
 - [[pleurotus-ostreatus]] — commonly cultivated edible mushroom
-- [[boletus-edulis-entity]] — prized edible mycorrhizal mushroom
-- [[hericium-erinaceus]] — lion's mane, edible and medicinal mushroom
+- [[boletus-edulis-entity]] — prized edible [[mycelium-running-mycorrhizal-mushroom-gardens]]
+- [[hericium-erinaceus]] — lion's mane, edible and [[gourmet-medicinal-mushroom-casing-layer-techniques]]
 - [[inonotus-obliquus]] — chaga, a parasitic fungus on birch trees

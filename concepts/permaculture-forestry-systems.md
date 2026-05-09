@@ -20,7 +20,7 @@ A mature forest garden or food forest contains multiple vertical layers, each pr
 1. **Canopy layer** -- tall timber and nut trees (oak, chestnut, walnut, pecan)
 2. **Understory trees** -- fruit and nut trees, smaller timber species (apple, pear, plum, hazel)
 3. **Shrub layer** -- berry bushes, nitrogen-fixing shrubs (currants, blueberries, Elaeagnus, Acacia)
-4. **Herbaceous layer** -- perennial vegetables, herbs, comfrey
+4. **Herbaceous layer** -- [[comparison-perennial-vegetables-vs-cover-crops]], herbs, comfrey
 5. **Ground cover** -- creeping plants, strawberries, nitrogen-fixing ground covers (clover, vetch)
 6. **Root layer** -- root crops, tubers
 7. **Vine layer** -- climbing plants (kiwi, grape, passionfruit)
@@ -29,15 +29,15 @@ A mature forest garden or food forest contains multiple vertical layers, each pr
 
 ### Alley Cropping
 
-Rows of trees spaced to allow crops or pasture between them. Trees provide windbreak, shade, mulch, and nitrogen fixation while crops or livestock utilize the inter-row space. As trees mature, the understory shifts from light-demanding crops to shade-tolerant species.
+Rows of trees spaced to allow crops or pasture between them. Trees provide windbreak, shade, mulch, and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] while crops or livestock utilize the inter-row space. As trees mature, the understory shifts from light-demanding crops to shade-tolerant species.
 
 ### Woodlot Integration
 
-Dedicated timber and fuelwood areas integrated with the broader farm design. Woodlots serve as windbreaks, wildlife corridors, and sources of building materials and fuel.
+Dedicated timber and fuelwood areas integrated with the broader farm design. Woodlots serve as windbreaks, wildlife corridors, and sources of [[natural-building-materials-guide]] and fuel.
 
 ## Timber Production
 
-Timber trees in permaculture systems are selected for multiple functions:
+Timber [[multipurpose-trees-in-permaculture-design]] systems are selected for multiple functions:
 - Structural timber (oak, Douglas fir, cypress)
 - Fence posts (black locust, osage orange -- naturally durable)
 - Craft wood (black walnut, cherry, maple)
@@ -49,7 +49,7 @@ Trees are managed for long-term yield while providing interim benefits of shade,
 
 Coppicing is the practice of cutting trees at ground level to stimulate regrowth from the stump (stool). This is one of the most productive and sustainable methods of harvesting wood:
 
-- Many species coppice vigorously: oak, ash, hazel, willow, sweet chestnut, birch, alder, elm, holly, hornbeam, poplar, and eucalyptus
+- Many species coppice vigorously: oak, ash, hazel, willow, [[holzer-sweet-chestnut-and-nut-trees]], birch, alder, elm, holly, hornbeam, poplar, and eucalyptus
 - Regrowth is rapid -- coppiced trees can be re-harvested on cycles of 5-25 years depending on species and intended product
 - Short rotation (1-5 years): produces sticks for bean poles, hurdles, basketry (willow, hazel)
 - Medium rotation (5-15 years): produces poles for fencing, charcoal, tool handles
@@ -79,7 +79,7 @@ Trees serve many functions beyond direct yield:
 - Increase rainfall due to trees cross-wind
 - Reduced cost and increased capacity of dams due to reduced evaporation
 - Windbreak and shelter effects
-- Erosion control and slope stabilization
+- [[permplant-willows-salix-erosion-control-fodder]] and slope stabilization
 - Wildlife habitat and corridor creation
 - Microclimate modification
 - Nitrogen fixation (leguminous trees)

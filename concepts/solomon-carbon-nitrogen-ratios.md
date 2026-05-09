@@ -1,5 +1,5 @@
 ---
-title: "Carbon-Nitrogen Ratios and Soil Organic Matter - Steve Solomon"
+title: "Carbon-Nitrogen Ratios and Soil hamilton-composting-and-organic-matter-management - Steve Solomon"
 created: 2026-04-26
 tags:
   - gardening
@@ -31,7 +31,7 @@ C/N or C:N.
 The absolute standard of comparison is the C/N of soil itself. Except in
 the driest, hottest deserts, all soil contains humus -- the stable
 residue of decomposed organic matter. Humus is a complex substance highly
-resistant to further decomposition. While it does eventually break down
+resistant to further decomposition. While it does eventually [[query-can-fungi-break-down-plastic-pollution]]
 completely and vanish from the soil, this happens very slowly.
 
 Soil humus has a carbon-nitrogen ratio of around 12:1 in every climate.
@@ -61,12 +61,12 @@ seed meals, green vegetation), bacteria convert surplus nitrogen to
 ammonia, then to water-soluble nitrates -- a first-class fertilizer. But
 the resulting higher nitrate level encourages microbes to multiply and
 attack existing humus. The net result: slightly lower soil organic matter
-than before. This is also what happens with chemical fertilizers.
+than before. This is also what happens with [[cervantes-chemical-fertilizers-guide]].
 
 ### C/N Ratios of Common Materials (Low Carbon)
 
 - Seed meals (cottonseed, soybean): ~5-7:1
-- Fresh animal manure: ~10-15:1
+- Fresh [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]]: ~10-15:1
 - Legume hulls: ~15-20:1
 - Seaweed: ~15-20:1
 - Summer grass clippings: ~20-25:1

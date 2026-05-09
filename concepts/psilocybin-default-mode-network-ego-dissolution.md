@@ -1,9 +1,9 @@
 ---
-title: Psilocybin, the Default Mode Network, and Ego Dissolution
+title: psilocybin, the psilocybin default mode network ego dissolution Network, and psilocybin-ego-dissolution-mechanisms
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - The Psilocybin Solution by Simon G. Powell
+  - The powell-psilocybin-solution-ecological-cognition-theory by Simon G. Powell
 type: concept
 tags: [psilocybin]
 ---
@@ -40,7 +40,7 @@ When psilocybin disrupts the DMN/serotonergic homeostatic system, this ego-const
 
 The locus coeruleus, which processes so many sensory inputs that it is considered to function as a "novelty detector," plays a complementary role. When psilocybin binds to 5-HT2 receptors in the locus coeruleus, it enhances novelty detection and arousal, simultaneously raising alertness and increasing the amount of sensory information that reaches consciousness.
 
-The combined effect -- DMN/raphe disruption plus enhanced novelty detection -- creates the characteristic psychedelic experience: the collapse of the default self-referential mode combined with a flood of novel sensory and cognitive information. The experiencer is no longer trapped in the default loop of self-referential thought but is instead immersed in a radically expanded field of consciousness.
+The combined effect -- DMN/raphe disruption plus enhanced novelty detection -- creates the characteristic [[leary-psychedelic-experience-bardo-mapping]]: the collapse of the default self-referential mode combined with a flood of novel sensory and cognitive information. The experiencer is no longer trapped in the default loop of self-referential thought but is instead immersed in a radically expanded field of consciousness.
 
 ## The Waking Dream as DMN Disruption
 
@@ -72,7 +72,7 @@ This aligns perfectly with Powell's observation that psilocybin forces one to co
 
 Powell argues that psilocybin "bridges perfectly the conceptual gap between the two seemingly incompatible worlds of mind and matter, psychological and physical." The serotonergic homeostatic system -- now understood as including the DMN -- is the bridge itself. It is the interface where the physical chemistry of neurotransmitters meets the psychological phenomenon of self-awareness.
 
-When we understand the DMN as a chemically maintained informational pattern, the mind/body problem begins to dissolve. The ego is not a ghost in the machine but a specific pattern of neuronal firing maintained by the serotonergic system. This pattern can be chemically disrupted, temporarily dissolved, and allowed to reorganise in new configurations. The more we can understand the psilocybin modus operandi, the closer we get to divining the actual design of the bridge linking mind to matter.
+When we understand the DMN as a chemically maintained informational pattern, the mind/[[mind-body-problem-vs-information-paradigm-of-consciousness]] begins to dissolve. The ego is not a ghost in the machine but a specific pattern of neuronal firing maintained by the serotonergic system. This pattern can be chemically disrupted, temporarily dissolved, and allowed to reorganise in new configurations. The more we can understand the psilocybin modus operandi, the closer we get to divining the actual design of the bridge linking mind to matter.
 
 ## Implications for the Philosophy of Consciousness
 

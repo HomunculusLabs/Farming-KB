@@ -20,7 +20,7 @@ sources:
 
 # Hypoxylon fragiforme
 
-**Hypoxylon fragiforme** is a pyrenomycetous ascomycete fungus in the family Xylariaceae, commonly known as the beech woodwart. It is one of the most frequently encountered carbonaceous fungi on dead beech wood in temperate forests of Europe and eastern North America.
+**Hypoxylon fragiforme** is a pyrenomycetous ascomycete fungus in the family Xylariaceae, commonly known as the beech woodwart. It is one of the most frequently encountered carbonaceous fungi on dead beech wood in temperate forests of Europe and [[polypore-fungi-eastern-north-america]] America.
 
 The species forms distinctive hemispherical stromata that superficially resemble strawberries, giving rise to both its common name and specific epithet (*fragiforme* = "strawberry-shaped"). It plays a significant ecological role as a primary colonizer of dead hardwood and a contributor to forest carbon cycling.
 
@@ -52,7 +52,7 @@ Immature stromata are frequently confused with *Hypoxylon fuscum* (on birch) or 
 
 A KOH (potassium hydroxide) surface test produces a negative or weakly greenish reaction, distinguishing H. fragiforme from H. rubiginosum which gives a strong purplish reaction. Sectioning the stroma reveals the jet-black carbonaceous interior and the embedded perithecia as tiny dark dots in cross-section.
 
-Microscopic examination of the ascospores is definitive: the long straight germ slit running the full spore length, combined with the dark brown pigmentation and size range of 18–26 × 7–10 µm, separates H. fragiforme from all other European Hypoxylon species on beech.
+[[fungal-microscopic-examination-mounting-media-techniques]] of the ascospores is definitive: the long straight germ slit running the full spore length, combined with the dark brown pigmentation and size range of 18–26 × 7–10 µm, separates H. fragiforme from all other European Hypoxylon species on beech.
 
 ## Distribution and Habitat
 
@@ -67,7 +67,7 @@ H. fragiforme is one of the earliest-successional Xylariaceae on fallen beech br
 
 As a soft-rot and white-rot decomposer, H. fragiforme contributes significantly to the breakdown of lignin and cellulose in dead beech wood. Its ecological niche is primarily as a primary colonizer of small-diameter woody debris.
 
-The species demonstrates competitive interactions with basidiomycete decomposers. Studies have shown that Hypoxylon colonization can delay or inhibit subsequent white-rot fungal establishment, partially through the production of secondary metabolites including various cytochalasins, xylarenone, and other volatile organic compounds.
+The species demonstrates competitive interactions with basidiomycete decomposers. Studies have shown that Hypoxylon colonization can delay or inhibit subsequent white-rot fungal establishment, partially through the production of [[antifungal-secondary-metabolites-coprophilous-fungi]] including various cytochalasins, xylarenone, and other [[fungal-volatile-organic-compounds-communication]] compounds.
 
 The stromata also provide microhabitat for invertebrates, including mites and springtails, which shelter in the crevices between adjacent fruiting bodies. These invertebrates may assist in spore dispersal.
 
@@ -90,7 +90,7 @@ Recent metabolomic studies using LC-MS have identified additional compounds incl
 
 H. fragiforme has indirect value in permaculture and forest garden systems. While not a cultivated species, its presence on beech wood debris is an indicator of healthy forest floor ecology and functional decomposition chains.
 
-In managed beech forests, retaining coarse woody debris (CWD) to at least 20–30 m³/ha supports Hypoxylon and other saprotrophic fungi that cycle nutrients back into the soil. This nutrient cycling is particularly important in beech-dominated systems where leaf litter decomposition is relatively slow compared to oak or ash.
+In managed beech forests, retaining coarse woody debris (CWD) to at least 20–30 m³/ha supports Hypoxylon and other saprotrophic fungi that cycle nutrients back into the soil. This [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] is particularly important in beech-dominated systems where leaf litter decomposition is relatively slow compared to oak or ash.
 
 The species may have potential in bioremediation contexts. Xylariaceae fungi in general have demonstrated the ability to degrade polyaromatic hydrocarbons (PAHs) and certain pesticide residues in contaminated wood substrates, though H. fragiforme specifically has not been studied in this application.
 
@@ -113,4 +113,4 @@ Field identification is most reliable when both substrate (beech) and stroma mat
 - [[inonotus-obliquus]] — Another beech-associated sterile conk
 - [[armillaria-mellea-entity]] — Competing decomposer on hardwood stumps
 - [[stropharia-rugosoannulata]] — Cultivated saprotroph for wood chip beds
-- [[ganoderma-lucidum]] — Medicinal polypore found on similar hardwood substrates
+- [[ganoderma-lucidum]] — [[growing-gourmet-medicinal-polypore-candidates-turkey-tail-chaga]] found on similar hardwood substrates

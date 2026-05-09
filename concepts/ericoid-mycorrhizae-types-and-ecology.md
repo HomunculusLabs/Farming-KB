@@ -10,7 +10,7 @@ sources:
 
 # Ericoid Mycorrhizae Types and Ecology
 
-Ericoid mycorrhizal fungi form mutualistic symbiotic relationships with members of the plant family Ericaceae, which includes rhododendrons and azaleas (*Rhododendron* spp.) and blueberries and cranberries (*Vaccinium* spp.). These plants grow in acidic, peat-rich soils and make up about 5 percent of terrestrial plant species.
+[[dighton-ericoid-mycorrhizal-nutrient-acquisition]] fungi form mutualistic symbiotic relationships with members of the plant family Ericaceae, which includes rhododendrons and azaleas (*Rhododendron* spp.) and blueberries and cranberries (*Vaccinium* spp.). These plants grow in acidic, peat-rich soils and make up about 5 percent of terrestrial plant species.
 
 ## Host Plants and Habitat
 
@@ -26,7 +26,7 @@ Ericaceous roots are relatively simple in their anatomy:
 
 ### The Peleton
 
-The ericoid mycorrhizal fungal hypha penetrates the cortical cell wall and forms a dense coil structure known as a **peloton** (or peleton). This intracellular coil is the defining structural feature of the ericoid mycorrhizal association and serves as the primary interface for nutrient exchange between the fungus and its host plant.
+The ericoid mycorrhizal fungal hypha penetrates the cortical cell wall and forms a dense coil structure known as a **peloton** (or peleton). This intracellular coil is the defining structural feature of the ericoid mycorrhizal association and serves as the primary interface for [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between the fungus and its host plant.
 
 ### External Hyphal Mantle
 
@@ -34,7 +34,7 @@ A veil of hyphae grows over the surface of the roots, but it is finer than and n
 
 ## Allelochemical Impacts
 
-Some allelochemicals can impact ericoid mycorrhizae and their functioning. Garlic mustard (*Alliaria petiolata*) is a notable example. Its exudates include allelopathic chemicals that kill the mycorrhizal symbionts of maple trees, demonstrating how invasive plant species can disrupt native mycorrhizal networks and indirectly affect plant community composition.
+Some allelochemicals can impact ericoid mycorrhizae and their functioning. Garlic mustard (*Alliaria petiolata*) is a notable example. Its exudates include allelopathic chemicals that kill the mycorrhizal symbionts of maple trees, demonstrating how invasive plant species can disrupt native [[dighton-mycorrhizal-networks-carbon-transfer]] and indirectly affect plant [[core-endorhiza-bacterial-community-composition-cannabis]].
 
 ## Inoculation Challenges
 
@@ -48,7 +48,7 @@ A study from the University of Vermont used natural peat mosses to provide the n
 
 ### Nutrient Mineralization in Tundra Soils
 
-Despite their limited soil exploration, ericoid mycorrhizal fungi in tundra environments perform a critical ecological function. They mineralize nutrients near the roots that the host plant could never access alone, producing the inorganic ions needed by the host. This localized nutrient cycling is essential for plant survival in these extreme environments.
+Despite their limited soil exploration, ericoid mycorrhizal fungi in tundra environments perform a critical ecological function. They mineralize nutrients near the roots that the host plant could never access alone, producing the inorganic ions needed by the host. This localized [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] is essential for plant survival in these extreme environments.
 
 ### Direct Organic Nitrogen Transfer
 
@@ -59,7 +59,7 @@ Some tundra mycorrhizal fungi provide organic nitrogen directly to their host. T
 Ericoid mycorrhizae play an outsized ecological role relative to the small proportion of plant species they associate with. Their contributions include:
 
 - Enabling plant survival in extremely acidic soils
-- Driving nitrogen cycling in peatland and tundra ecosystems
+- Driving [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] in peatland and tundra ecosystems
 - Supporting biodiversity in heathland and bog communities
 - Facilitating organic matter decomposition in cold climates
 
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

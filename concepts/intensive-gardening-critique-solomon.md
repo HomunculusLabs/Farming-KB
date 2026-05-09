@@ -1,5 +1,5 @@
 ---
-title: Intensive Gardening Critique (Solomon)
+title: solomon-wide-spacing-versus-intensive-gardening-debate Critique (Solomon)
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -14,7 +14,7 @@ Updated: 2026-04-18
 
 Source: Gardening When It Counts, Steve Solomon, Chapters 3, 6, 7
 
-Solomon is openly critical of intensive gardening methods (close spacing, intensive bed preparation, constant watering and feeding) as promoted by John Jeavons, Mel Bartholomew (Square Foot Gardening), and others. His book's title — "Gardening When It Counts" — is a direct challenge to the intensive paradigm.
+Solomon is openly critical of intensive gardening methods (close spacing, [[coleman-french-intensive-bed-method]] preparation, constant watering and feeding) as promoted by John Jeavons, Mel Bartholomew (Square Foot Gardening), and others. His book's title — "Gardening When It Counts" — is a direct challenge to the intensive paradigm.
 
 ## The Problem with Close Spacing
 
@@ -26,9 +26,9 @@ Solomon's objections:
 
 **Water competition**: Intensive beds require constant watering because many plants are drawing from the same limited soil volume. In a drought or water shortage, intensive gardens fail catastrophically while widely-spaced gardens survive.
 
-**Air circulation**: Close spacing reduces airflow between plants, creating humid microclimates that promote fungal diseases. Powdery mildew, botrytis, and other fungi thrive in the still, moist air between closely-spaced plants.
+**[[stamets-growing-room-air-circulation-co2-management]]**: Close spacing reduces airflow between plants, creating humid microclimates that promote fungal diseases. [[cervantes-powdery-mildew-prevention-treatment]], botrytis, and other fungi thrive in the still, moist air between closely-spaced plants.
 
-**Weed management difficulty**: With close spacing, there is no room to hoe between plants. Weed control must be done by hand, which is extremely labor-intensive for any garden larger than a postage stamp.
+**Weed management difficulty**: With close spacing, there is no room to hoe between plants. [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] must be done by hand, which is extremely labor-intensive for any garden larger than a postage stamp.
 
 **Labor intensity**: Intensive gardens require constant attention — watering, feeding, pruning, and harvesting. This is fine as a hobby but impractical for anyone who needs to grow a significant food supply.
 
@@ -40,7 +40,7 @@ Solomon recommends spacing plants far enough apart that you can easily pass a ho
 - Plants in the row spaced at the distance recommended for the mature size of the plant
 - Enough room to walk between rows without brushing against foliage
 
-The result: fewer plants, but each plant is far more productive. Total yield per square foot may be lower than intensive methods, but yield per plant and yield per unit of labor are much higher.
+The result: fewer plants, but each plant is far more productive. Total yield per square foot may be lower than [[row-gardening-vs-intensive-methods-solomon]], but yield per plant and yield per unit of labor are much higher.
 
 ## The Fertility Problem
 

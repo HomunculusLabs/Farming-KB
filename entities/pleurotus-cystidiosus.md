@@ -66,21 +66,21 @@ Musty, farinaceous, not pleasant, not anise-like.
 
 ## Cultivation
 
-Biological efficiency ranges from 50 to 75%, with higher yields on sawdust than
+[[stamets-biological-efficiency-yield]] ranges from 50 to 75%, with higher yields on sawdust than
 on straw. pleurotus cystidiosus is commercially cultivated in Taiwan and
 Thailand. It yields abundantly on rice straw but less productively on wheat straw.
-Strains are more narrowly specific in fruiting substrate requirements than
-[[beta-glucans]], lovastatin, and other bioactive compounds
+Strains are more narrowly specific in [[pf-tek-maximum-fruiting-substrate-formula]] requirements than
+[[beta-glucans]], lovastatin, and other [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
 with demonstrated cholesterol-lowering, immunomodulatory, and potential
 antitumor properties.
 
 The unique coremia-producing dimorphic lifecycle of this species may produce
-secondary metabolites of interest for future pharmacological investigation.
+[[antifungal-secondary-metabolites-coprophilous-fungi]] of interest for future pharmacological investigation.
 
 ## Flavor and Preparation
 
 Mushrooms should be picked before caps expand beyond the convex stage for optimal
-texture. pleurotus cystidiosus can be cooked like most oyster mushrooms in
+texture. pleurotus cystidiosus can be cooked like most [[query-how-to-grow-oyster-mushrooms-at-home]] in
 stir fries, white sauces, or adorning lamb dishes. The firm texture holds up well
 to cooking, making it suitable for a variety of culinary applications.
 
@@ -89,7 +89,7 @@ to cooking, making it suitable for a variety of culinary applications.
 - Guzman, G. Studies in Pleurotus taxonomy.
 - Han, K.C., Chen, Z.C. & Cheng, S.C. Studies on P. abalonus.
 - Miller, O.K. Original description of P. cystidiosus.
-- Stamets, P. (1993). Growing Gourmet and Medicinal Mushrooms.
+- Stamets, P. (1993). Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]].
 
 ## See Also
 

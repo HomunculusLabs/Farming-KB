@@ -22,7 +22,7 @@ MDMA has the molecular formula C11H15NO2 and a molecular weight of 193.25 g/mol.
 | 30-60 mg | Light/threshold — mild warmth, increased sociability |
 | 60-100 mg | Common/recreational — full entactogenic effect |
 | 100-150 mg | Strong — intense emotional openness, pronounced stimulant effects |
-| 150+ mg | Heavy — high risk of adverse effects, diminishing returns |
+| 150+ mg | Heavy — high risk of [[blesching-cannabis-safety-adverse-effects-evidence]], diminishing returns |
 
 Recreational MDMA tablets/capsules typically contain 60-120 mg, though purity varies widely. See [[psychedelic-therapy-set-and-setting]] for the importance of therapeutic context.
 
@@ -32,12 +32,12 @@ Recreational MDMA tablets/capsules typically contain 60-120 mg, though purity va
 - **1960s-1970s**: Limited underground psychotherapeutic use, particularly by Leo Zeff and other therapists using it for couples therapy and end-of-life anxiety.
 - **1976-1977**: Alexander Shulgin synthesized MDMA independently, documented its effects in PiHKAL (1991), and introduced it to psychotherapist colleagues.
 - **1985**: Emergency scheduling by the DEA as Schedule I, following recreational popularity in dance/club culture.
-- **2000s-present**: Resurgence of clinical research, particularly for PTSD, social anxiety in autism, and anxiety related to life-threatening illness.
+- **2000s-present**: Resurgence of [[hofmann-lsd-clinical-research-early-studies]], particularly for PTSD, social anxiety in autism, and anxiety related to life-threatening illness.
 
 ## Related
 
 - [[ecstasy-mdma-heart-opening-psychedelic]]
-- psychedelic assisted therapy protocol
+- psychedelic [[metzner-mdma-assisted-therapy-research]] protocol
 - [[psychedelic-crisis-response-protocol]]
 ## Practical Considerations
 
@@ -55,7 +55,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -97,4 +97,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

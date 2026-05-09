@@ -1,18 +1,18 @@
 ---
-title: JADAM Natural Pest Control Methods
+title: ultra-low-cost-jadam-natural-pesticide-jnp Pest Control Methods
 created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
-  - JADAM Organic Farming: The Way to Ultra-Low-Cost Agriculture (Youngsang Cho, 2016)
+  - JADAM [[coleman-deep-organic-farming-philosophy]]: The Way to Ultra-Low-Cost Agriculture (Youngsang Cho, 2016)
 type: concept
 tags: [jadam]
 ---
 
 # JADAM Natural Pest Control Methods
 
-JADAM natural pesticide (JNP) is a comprehensive system of self-made
-biological pest and disease control that replaces both chemical and
+JADAM [[jadam-natural-pesticide-institute-and-research]] (JNP) is a comprehensive system of self-made
+biological pest and [[hamilton-pest-and-disease-control-organic]] that replaces both chemical and
 commercial organic pesticides at approximately 1/50th the cost. The
 system was developed by Youngsang Cho at the [[jadam-wetting-agent-jwa]] is the most important ingredient in the
 system. Made from canola oil, caustic potash (KOH), and water without
@@ -34,7 +34,7 @@ quality management.
 against a wide range of pests including cabbage white butterfly
 caterpillars, tobacco moth, beet armyworm, stinkbugs, and thrips. Made
 by boiling pesticidal herbs in soft water, JHS also functions as a
-liquid fertilizer, an advantage impossible with chemical pesticides.
+[[jadam-liquid-fertilizer-nutritional-perspective]], an advantage impossible with chemical pesticides.
 See [[jadam-microbial-solution-jms-preparation-and-use]] + JWA, for germicidal
   action using microorganisms
 - **JMS-JHS pesticide**: JMS + JHS + JWA, broad-spectrum control
@@ -84,10 +84,12 @@ JADAM has developed specific formulations for major pest categories:
 
 ## Cost Effectiveness
 
-The Bongha village case study demonstrated that a 320-acre rice farming
+The [[jadam-bongha-village-proof]] case study demonstrated that a 320-acre rice farming
 community applying JADAM natural pesticide four times per season spent
 only 9 dollars per acre on pest control. This represents the practical
 ## See Also
+
+- [[voles-control-methods]]
 
 - [[jadam-oriental-herb-nutrient]]
 - [[jadam-weed-control-strategies-natural]]

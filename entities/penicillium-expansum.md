@@ -59,8 +59,8 @@ of Aspergillus niger when grown in dual culture.
   vegetables
 - Enters fruit through wounds, bruises, or natural openings
   (lenticels, stem ends)
-- Thrives in cold storage conditions (0 to 4 degrees Celsius),
-  unlike most other fungal pathogens
+- Thrives in cold [[vegetable-storage-conditions-by-temperature-and-humidity]] (0 to 4 degrees Celsius),
+  unlike most other [[bloomfield-fungal-pathogens-and-parasites]]
 - Soil-borne conidia serve as primary inoculum, contaminating
   fruit surfaces during orchard operations
 
@@ -95,7 +95,7 @@ of Aspergillus niger when grown in dual culture.
   fruit surfaces in the orchard
 - Infection occurs through wounds created during harvest and
   handling
-- Fungal growth proceeds slowly at cold storage temperatures
+- [[brassinosteroid-fungal-growth-promotion]] proceeds slowly at cold storage temperatures
   but accelerates upon removal from storage
 - Lesions are soft, watery, and brown, with abundant blue-green
   sporulation under humid conditions
@@ -105,7 +105,7 @@ of Aspergillus niger when grown in dual culture.
 ### Research Methods
 - Selective isolation on potato dextrose agar with antibiotics
 - Patulin quantification via HPLC with UV detection
-- Molecular identification using ITS rDNA and beta-tubulin
+- [[biodiversity-fungal-molecular-identification-dna-barcoding]] using ITS rDNA and beta-tubulin
   gene sequencing
 - In vitro dual culture assays to study mycoparasitic
   interactions

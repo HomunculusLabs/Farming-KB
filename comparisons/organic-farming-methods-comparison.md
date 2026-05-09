@@ -1,5 +1,5 @@
 ---
-title: Organic Farming Methods Comparison
+title: coleman-deep-organic-farming-philosophy Methods Comparison
 created: 2026-04-13
 updated: 2026-04-13
 type: comparison
@@ -8,7 +8,7 @@ sources: [papers/cotter-organic-mushroom-farming-mycoremediation.md]
 ---
 # Organic Farming Methods Comparison
 
-The landscape of organic and natural farming extends far beyond certified organic standards, encompassing a spectrum of philosophies from biodynamic preparations to minimal-intervention approaches inspired by traditional practices. This comparison covers six major approaches, each with distinct worldviews about humanity's role in soil and plant management. For a focused comparison of three Asian natural farming systems, see [[knf-vs-jadam-vs-em]]. Fukuoka's foundational philosophy is detailed in [[jadam-natural-pesticide-philosophy]]
+The landscape of organic and [[comparison-natural-farming-vs-permaculture]] extends far beyond certified organic standards, encompassing a spectrum of philosophies from [[comparison-biodynamic-preparations-vs-biofertilizers]] to minimal-intervention approaches inspired by traditional practices. This comparison covers six major approaches, each with distinct worldviews about humanity's role in soil and plant management. For a focused comparison of three Asian natural farming systems, see [[knf-vs-jadam-vs-em]]. Fukuoka's foundational philosophy is detailed in [[jadam-natural-pesticide-philosophy]]
 - [[fukuoka-do-nothing-farming-and-spiritual-life]]
 - [[fukuoka-do-nothing-farming-philosophy-and-practice]]
 - [[comparison-biodynamic-farming-vs-organic-farming]]
@@ -140,4 +140,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

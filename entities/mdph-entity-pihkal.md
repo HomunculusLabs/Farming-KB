@@ -1,5 +1,5 @@
 ---
-title: "MDPH (a,a-DIMETHYL-3,4-METHYLENEDIOXY-) -- PIHKAL Entry #116"
+title: "MDPH (a,a-DIMETHYL-3,4-METHYLENEDIOXY-) -- 2c-b-pihkal-entry-20 #116"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -134,13 +134,15 @@ of a solution of 4.1 g sodium azide in 30 mL H2O. Stirring was
 continued for 45 min while the reaction returned to room temperature.
 The aqueous phase was extracted with 100 mL toluene which was washed
 once with H2O and then dried with anhydrous MgSO4. This organic
-solution of the azide was heated on a steam bath until nitrogen
+solution of the azide was heated on a [[scythian-cannabis-steam-bath-ritual]] until nitrogen
 evolution had ceased, which required about 30 min. The solvent was
 removed under vacuum and the residue was dissolved in 30 mL benzyl
 alcohol. This solution was heated on the steam bath overnight.
 Removal of the excess benzyl alcohol under vacuum left a residue 13.5
 g of
 ## See Also
+
+- [[mdph-entity]]
 
 - [[qualitative-comments-methodology-pihkal]]
 - [[ethyl-k-entity-pihkal]]

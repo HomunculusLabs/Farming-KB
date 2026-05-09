@@ -1,5 +1,5 @@
 ---
-title: Bionutrients Lab — Fermented Plant Juice (FPJ)
+title: Bionutrients Lab — fermented-plant-juice (FPJ)
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -10,7 +10,7 @@ sources: ["raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"]
 
 **Updated:** 2026-04-24
 
-Fermented Plant Juice (FPJ) is a bionutrient produced by fermenting plant materials — particularly fast-growing plants, young shoots, and axillary buds — with crude sugar or molasses. FPJ extracts natural growth hormones (gibberellins, auxins, cytokinins), enzymes, and nutrients from plant material through biological fermentation. It functions primarily as a growth promotant in the natural farming system.
+Fermented Plant Juice (FPJ) is a bionutrient produced by fermenting plant materials — particularly fast-growing plants, young shoots, and axillary buds — with crude sugar or molasses. FPJ extracts [[ingham-natural-growth-regulators-soil-microbes]] hormones (gibberellins, auxins, cytokinins), enzymes, and nutrients from plant material through biological fermentation. It functions primarily as a growth promotant in the [[natural-farming]] system.
 
 Related preparations include [[bionutrients-lab-fish-aminos]], [[bionutrients-lab-indigenous-microorganisms-imo]], and [[fermented-plant-juice-fpj]]
 ## Background and Context
@@ -141,4 +141,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

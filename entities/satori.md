@@ -11,7 +11,7 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Mandala Seeds official strain descriptions and breeding documentation.
+  - Mandala Seeds official cannabis-african-indian-strain-descriptions-clarke and breeding documentation.
   - Leafly Strain Database. "Satori." https://www.leafly.com/strains/satori
   - AllBud Strain Reviews. "Satori." https://www.allbud.com/
   - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution and
@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-Satori is a sativa-dominant hybrid cannabis strain created by Mandala Seeds,
+Satori is a sativa-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] created by Mandala Seeds,
 a breeder known for incorporating landrace genetics into stable, high-quality
 cultivars. The name "Satori" is a Zen Buddhist term for sudden enlightenment,
 reflecting the strain's reported ability to produce a clear, meditative, and
@@ -40,7 +40,7 @@ temperatures. Nepalese landraces are valued for their complex terpene
 profiles and spiritual, uplifting effects.
 
 **Parent 2:** Fast-flowering indica hybrid — contributes reduced flowering
-time, compact bud structure, and increased resin production. The indica
+time, compact bud structure, and increased [[cannabis-glandular-trichome-types-resin-production-clarke]]. The indica
 parent also adds a grounding body component that balances the sativa energy.
 
 The approximate sativa-to-indica ratio is reported at 70:30, reflecting
@@ -83,10 +83,10 @@ a distinctive profile.
 
 **Myrcene** (prominent): Provides the earthy, herbal base notes and
 contributes to the strain's relaxing physical effects. Modulates THC
-delivery through entourage effects.
+delivery through [[beta-caryophyllene-entourage-effects-cannabis]].
 
 **Caryophyllene** (moderate): Adds peppery, spicy undertones and
-contributes anti-inflammatory properties through CB2 receptor binding.
+contributes anti-inflammatory properties through CB2 [[tihkal-receptor-binding-serotonin]].
 
 **Limonene** (present): Contributes citrus notes and mood-elevating
 effects. Secondary in concentration but perceptible in the flavor.

@@ -28,7 +28,7 @@ JADAM envisions a future where:
 
 2. **Knowledge concentration**: Agricultural knowledge has been taken from farmers and concentrated in corporations and research institutions. Farmers have become consumers of knowledge products rather than producers of farming wisdom.
 
-3. **Quality degradation**: Scientific agriculture has not improved food quality. The food produced by modern methods is inferior in taste, nutrition, and safety compared to food grown by traditional methods.
+3. **Quality degradation**: [[fukuoka-critique-scientific-agriculture-civilization]] has not improved food quality. The food produced by modern methods is inferior in taste, nutrition, and safety compared to food grown by traditional methods.
 
 ## What Traditional Farming Understood
 
@@ -39,8 +39,8 @@ The key insight: "High quality, easy farming, brand power is low. What we need t
 ## The Twenty-Year Mission
 
 For 20 years, JADAM has studied ultra-low-cost agriculture. The research has produced:
-- [[jadam-natural-pesticide-jnp]]: Natural pesticides made from local ingredients
-- [[jadam-liquid-fertilizer]]: Zero-cost fertilizers from wild grass and crop residues
+- [[jadam-natural-pesticide-jnp]]: [[jadam-pest-control-with-natural-pesticides-jhs]] made from local ingredients
+- [[jadam-liquid-fertilizer]]: Zero-cost fertilizers from [[jadam-cover-crop-wild-grass-symbiosis]] and crop residues
 - [[jadam-natural-pesticide-philosophy]] -- the philosophy behind natural inputs
 - [[jadam-dualism-critique-agriculture]] -- the philosophical foundation
 ## Practical Considerations
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

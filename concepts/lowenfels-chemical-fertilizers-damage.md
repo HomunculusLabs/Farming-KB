@@ -1,5 +1,5 @@
 ---
-title: "Chemical Fertilizers and Soil Damage"
+title: "cervantes-chemical-fertilizers-guide and Soil Damage"
 created: 2026-04-28
 tags: [soil-health, fertilizers, chemicals, soil-biology, pollution]
 date: 2026-04-25
@@ -15,7 +15,7 @@ chemical fertilizers. Salts are direct irritants to worms, causing them to flee
 treated areas. When fertilizers are ingested, the gut microbes responsible for
 worm digestion die, effectively starving the worms. Since earthworms are a clear
 indicator of a healthy food web, their disappearance signals the collapse of
-soil biology. Without worms, the shredding of organic matter, aeration of soil,
+soil biology. Without worms, the shredding of [[hamilton-composting-and-organic-matter-management]], aeration of soil,
 aggregation of particles, and movement of microorganisms through soil profiles
 all cease, compounding the damage done by fertilizer applications.
 
@@ -49,7 +49,7 @@ in building biology pays dividends for years to come.
 
 ## Summary
 
-Chemical fertilizers destroy soil food web organisms through osmotic shock,
+Chemical fertilizers destroy soil food web organisms through [[ingham-antibiotics-osmotic-shock-compost-tea]],
 initiating a vicious cycle of increasing dependency on chemical inputs. They
 degrade soil structure, eliminate natural disease defenses, repel earthworms,
 and contribute to water pollution. Combined with pesticides and herbicides, they
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: Non-Psilocybin Neurotropic Fungi and Ergot Alkaloids
+title: Non-Psilocybin challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification and Ergot Alkaloids
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 topics: mycology, ergot, amanita, chemistry, ethnobotany
 ---
@@ -9,14 +9,14 @@ topics: mycology, ergot, amanita, chemistry, ethnobotany
 While Psilocybe species dominate discussions of neurotropic fungi, the
 broader category includes several important groups that operate through
 entirely different chemical mechanisms. Guzmán, Allen, and Gartz
-documented three major groups beyond the [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]] e active compounds are ibotenic acid and its decarboxylation product
+documented three major groups beyond the [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]] e active compounds are [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] and its decarboxylation product
 muscimol. Unlike psilocybin, which acts primarily on serotonin
 receptors, ibotenic acid acts on glutamate receptors (particularly
 GABAergic systems), producing effects that include nausea, dizziness,
 visual distortion, and a dreamy, deliriant state quite different from the
 psilocybin experience.
 
-Amanita muscaria grows in mycorrhizal association with Pinus and Betula
+[[allegro-amanita-muscaria-properties-and-pharmacology]] grows in mycorrhizal association with Pinus and Betula
 in forests of the northern hemisphere, including Mexico. It has also been
 found in pine plantations in tropical regions including Brazil, Colombia,
 Tanzania, Australia, and New Zealand — wherever its host trees have been
@@ -36,9 +36,9 @@ considered more toxic and less predictable than A. muscaria.
 The genus Claviceps represents the most historically significant group of
 non-psilocybin neurotropic fungi. Five species are documented:
 
-- **Claviceps purpurea**: The famous ergot fungus that parasitizes
+- **[[bloomfield-ergot-claviceps-purpurea-ergotism]]**: The famous ergot fungus that parasitizes
   rye and other grasses. It produces ergotamine, ergocristine, and
-  related ergopeptine alkaloids, as well as lysergic acid amide (LSA).
+  related ergopeptine alkaloids, as well as [[ergot-and-lysergic-acid-history]] amide (LSA).
   Ergotism — "St. Anthony's Fire" — caused mass poisonings throughout
   European history when contaminated rye was consumed. The psychedelic
   properties of ergot alkaloids eventually led to the synthesis of LSD
@@ -94,3 +94,9 @@ are truly chemical or primarily cultural and suggestible.
 Six species of gasteromycetes from the Lycoperdales and Phallales in
 three genera are used as sacred fung [[global-distribution-of-neurotropic-fungi]]
 - [[mckenna-soma-mystery-and-the-vedic-enigma]]
+
+## See Also
+
+- [[ergot-amanita-neurotropic-fungi-groups]]
+- non-psilocybe-neurotropic-fungi-genera
+- [[ergot-fungi-and-cordyceps]]

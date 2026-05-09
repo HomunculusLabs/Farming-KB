@@ -1,9 +1,10 @@
 ---
-title: Fukuoka No-Till Grain Production Method
+title: Fukuoka No-Till Grain clay-seed-pellet-production-method-concrete-mixer
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 type: concept
 tags: [fukuoka]
@@ -26,13 +27,13 @@ This connects to his broader [[fukuoka-white-clover-cover-crop-system]] are broa
 In a 1965 survey by the Ehime Prefectural Agricultural Testing Center, his unfertilized quarter-acre sections yielded 1,314 pounds of milled barley grain per quarter-acre, graded "Very Good," compared to 1,450 pounds on fertilized sections.
 
 ## The Role of Drainage
-The first practical step in converting a conventional paddy to this method is digging drainage channels. Two to three weeks before rice harvest, a water outlet is cut through the levee and the field surface drained. After harvest, additional drainage channels are dug at 12-15 foot intervals. These channels serve both rice and barley cultivation for many years and are essential for the growth of green manure crops and barley in what was formerly a continuously flooded paddy.
+The first practical step in converting a conventional paddy to this method is digging drainage channels. Two to three weeks before rice harvest, a water outlet is cut through the levee and the field surface drained. After harvest, additional drainage channels are dug at 12-15 foot intervals. These channels serve both rice and [[fukuoka-textdoc-barley-cultivation-three-stage-no-tillage-evolution]] for many years and are essential for the growth of green manure crops and barley in what was formerly a continuously flooded paddy.
 
 ## How Plowing Creates Dependency
 
 Fukuoka offered a powerful explanation for why farmers believe plowing is indispensable: it is a self-fulfilling prophecy. The farmer plows his rice field because he plowed it the year before. He floods and harrows it, breaking clods into smaller particles, driving out air and compacting the soil. Because he kneads the earth like bread dough, the field has to be plowed each year. "Naturally, under such conditions, plowing the field raises productivity."
 
-The same logic applies to transplanting. Farmers believe rice must be transplanted because their methods require it, not because rice is inherently unable to grow from direct seeding. Fukuoka asked why rice and barley -- both grasses -- should be grown so differently. His answer was that they should not be.
+The same logic applies to transplanting. Farmers believe rice must be transplanted because their methods require it, not because rice is inherently unable to grow from [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]. Fukuoka asked why rice and barley -- both grasses -- should be grown so differently. His answer was that they should not be.
 
 ## Testing Station Validation
 
@@ -44,12 +45,12 @@ Perhaps the most counterintuitive claim of the no-till method is that soil ferti
 
 His field had not been plowed or turned in over thirty years, yet produced consistent high yields. The [[fukuoka-do-nothing-farming-philosophy]], which holds that the farmer should eliminate unnecessary practices, expenditures, and labor by trusting natural processes.
 
-He contrasted his approach with the scientific farming cycle: flood a field, stir it with a plow, the ground sets hard as plaster, then you must plow again to soften it. "No plant on the face of the earth is so weak as to germinate only in plowed soil."
+He contrasted his approach with the [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] cycle: flood a field, stir it with a plow, the ground sets hard as plaster, then you must plow again to soften it. "No plant on the face of the earth is so weak as to germinate only in plowed soil."
 
 ## Relationship to Other Fukuoka Techniques
 
 The no-till grain method integrates several of Fukuoka's other innovations:
-- [[fukuoka-white-clover-cover-crop-system]] for nitrogen fixation and weed suppression
+- [[fukuoka-white-clover-cover-crop-system]] for [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and weed suppression
 - [[fukuoka-duck-rice-fish-symbiosis]] for weeding, pest control, and protein production
 - [[biodiesel-production]]
 
@@ -72,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

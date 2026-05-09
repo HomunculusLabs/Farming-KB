@@ -1,6 +1,6 @@
 ---
 title: "Mind-Body Problem and Psychedelics"
-subtitle: "Consciousness, Brain Chemistry, and the Philosophical Status of Altered States"
+subtitle: "Consciousness, Brain Chemistry, and the Philosophical Status of [[weil-the-natural-mind-altered-states-normalcy]]"
 tags: [consciousness, psychedelics, philosophy-of-mind, neuropharmacology, psilocybin]
 date: 2026-05-02
 updated: 2026-05-02
@@ -22,9 +22,9 @@ This makes psychedelics unusually direct tools for examining the apparent bounda
 
 The mind-body problem concerns the relation between mental phenomena and physical processes.
 Mental phenomena include awareness, memory, imagination, pain, emotion, insight, and the feeling of being a subject.
-Physical processes include neural firing, neurotransmitter release, receptor binding, metabolism, circulation, and bodily action.
+Physical processes include neural firing, neurotransmitter release, [[tihkal-receptor-binding-serotonin]], metabolism, circulation, and bodily action.
 The central difficulty is that mental events appear qualitative and first-person, while physical events appear quantitative and third-person.
-A brain scan can show activity in visual cortex, but it does not itself display the redness of red or the terror of a nightmare.
+A brain scan can show activity in [[mckenna-dmt-visual-cortex-intensity-fourth-dimensional-light-deployment]], but it does not itself display the redness of red or the terror of a nightmare.
 Psychedelics sharpen the issue by producing vivid changes in first-person experience through changes that can be described chemically.
 
 ## Historical Background
@@ -41,7 +41,7 @@ Each approach attempts to preserve either the reality of experience, the authori
 
 Psychedelics matter because they show that consciousness is strongly coupled to physical chemistry.
 A small dose can intensify color, emotion, memory, and pattern recognition.
-A larger dose can produce ego dissolution, visionary imagery, mystical unity, and a radical reorganization of meaning.
+A larger dose can produce [[psilocybin-ego-dissolution-mechanisms]], visionary imagery, mystical unity, and a radical reorganization of meaning.
 These changes occur after specific compounds interact with specific receptor systems, especially serotonin 5-HT2A receptors.
 The sequence from molecule to receptor to neural network to experience is experimentally tractable.
 Yet the subjective meaning of the experience cannot be reduced to a simple receptor diagram.
@@ -131,7 +131,7 @@ How researchers define consciousness affects how they interpret therapeutic tran
 
 Many cultures have interpreted [[psychedelic-plants-chemical-guide]] and fungi as teachers, sacraments, or mediators between worlds.
 These interpretations often treat altered consciousness as a legitimate source of knowledge.
-Western philosophy has often treated such claims with suspicion because they blur subjective vision and objective fact.
+[[fukuoka-descartes-western-philosophy-nature]] has often treated such claims with suspicion because they blur subjective vision and objective fact.
 The mind-body problem helps explain the disagreement.
 If consciousness is merely private brain noise, psychedelic revelations have little epistemic value.
 If consciousness participates in a wider informational or spiritual order, those revelations may be meaningful in a stronger sense.
@@ -147,4 +147,4 @@ The strongest interpretations avoid both naive reductionism and naive supernatur
 They treat psychedelic states as disciplined evidence requiring context, comparison, and critical interpretation.
 
 ## See Also
-- mind body problem and psychedelics
+- [[blesching-cannabis-mind-body-medicine]] problem and psychedelics

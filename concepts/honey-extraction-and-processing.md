@@ -74,7 +74,7 @@ The wax capping must be removed before honey can be extracted.
 ## Extraction
 
 ### Radial Extractor
-Frames sit with the top bar pointing outward. Centrifugal force flings
+Frames sit with the [[comparison-beekeeping-basics-vs-top-bar-hive]] pointing outward. Centrifugal force flings
 honey out of both sides simultaneously. Most efficient for medium to large
 operations. Requires even frame loading.
 
@@ -140,24 +140,10 @@ high-quality beeswax.
 ### Solar Wax Melter
 A simple insulated box with a glass lid. Sun melts wax, which flows into
 a collection container. Slumgum stays behind on the screen. Excellent
-off-grid method — see [[solar-oven-cooking]] for related solar energy
+off-grid method — see [[solar-oven-cooking]] for related [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]
 principles.
 
-### Uses for Beeswax
-- Candles, lip balm, salves, furniture polish
-- Waxing frames (foundation coating with a wax dip tank)
-- Cheese waxing and food preservation
-- See [[bee-product-medicinal-uses]] for medicinal applications
-
-## Storage
-
-Honey is one of the few foods that never spoils if stored properly.
-
-- **Moisture**: keep below 18.2%; fermented honey tastes sour
-- **Temperature**: 70-80F ideal; refrigeration accelerates crystallization
-- **Container**: airtight; honey is hygroscopic and absorbs moisture
-- **Shelf life**: indefinite; crystallized honey can be gently warmed
-
-For troubleshooting extraction issues, see [[beekeeping-problems-and-solutions]].
-For understanding the varieties you are extracting, see
-[[honey-varieties-guide]].
+## See Also
+- [[bee-product-medicinal-uses]]
+- [[solar-oven-cooking]]
+- [[query-how-does-propolis-benefit-honey-bees-and-can-beekeepers-harvest-it]]

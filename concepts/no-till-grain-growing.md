@@ -5,19 +5,20 @@ updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 Updated: 2026-04-18
 
-Source: The Ultimate Guide to Natural Farming and Sustainable Living, Nicole Faires
+Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]], Nicole Faires
 
-Masanobu Fukuoka's no-till (no-work) method of grain production challenges conventional agriculture by growing grain and legumes together continuously without plowing, fertilizing, weeding, or using pesticides. This system produces remarkable yields with minimal energy input.
+Masanobu Fukuoka's no-till (no-work) method of [[fukuoka-no-till-grain-production-method]] challenges conventional agriculture by growing grain and legumes together continuously without plowing, fertilizing, weeding, or using pesticides. This system produces remarkable yields with minimal energy input.
 
 ## The Four Principles of Natural Farming
 
 1. **No cultivation**: Soil is aerated and loosened by natural means only — plant roots, earthworms, and microbial activity
-2. **No fertilizer**: Soil fertility is maintained through natural cycles — returning straw, clover, and organic matter to the field
+2. **No fertilizer**: Soil fertility is maintained through natural cycles — returning straw, clover, and [[hamilton-composting-and-organic-matter-management]] to the field
 3. **No weeding**: Weeds are questioned rather than automatically removed. If the desired plant is not harmed, why pull the weed?
 4. **No pesticides**: Natural balances and biodiversity manage pests and diseases
 
@@ -43,7 +44,7 @@ The Fukuoka system is extraordinarily energy-efficient:
 - **Human labor**: A farmer eating a 2,000-calorie per day diet can produce 1,300 pounds (590 kg) of rice (22 bushels) on a quarter acre
 - **Animal labor**: Traditional animal-powered farming uses at least 5x as many calories for the same results
 - **Tractor farming**: Uses at least 10x as many calories as human labor
-- **Conclusion**: Human-powered no-till is the most energy-efficient food production method known
+- **Conclusion**: Human-powered no-till is the most energy-efficient food [[clay-seed-pellet-production-method-concrete-mixer]] known
 
 ## Rice Paddy Setup
 
@@ -107,7 +108,7 @@ Understanding when grain is ready:
 
 ## Related Topics
 
-- [[grain-harvesting-and-storage]] — harvest and storage methods
+- [[grain-harvesting-and-storage]] — [[purdue-vegetable-harvest-and-storage-guide]] methods
 - [[pasture-management-and-forage]] — rotational land use
 - [[fukuoka-natural-farming]] — Fukuoka's philosophy and methods
 - [[fukuoka-vegetable-growing-natural-method]]

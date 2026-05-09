@@ -1,5 +1,5 @@
 ---
-title: Cannabis Pest Management Guide
+title: Cannabis cannabis pest management guide Guide
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Cannabis Grow Bible, [[integrated-pest-management]] (IPM) as the standard approach.
+Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, [[integrated-pest-management]] (IPM) as the standard approach.
 
 ## Prevention (First Line of Defense)
 
@@ -46,7 +46,7 @@ The most effective pest management is preventing pests from entering your grow s
 **Treatment**:
 - **Spray with water**: A strong blast of water can dislodge mites (temporary)
 - **[[bacillus-thuringiensis]] israelensis)**: Mosquito dunks or Gnatrol added to water — kills larvae
-- **Sand layer**: Apply a thin layer of sand or diatomaceous earth on the soil surface to prevent egg-laying
+- **Sand layer**: Apply a thin layer of sand or [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]] on the soil surface to prevent egg-laying
 
 ### Thrips
 
@@ -87,11 +87,11 @@ The most effective pest management is preventing pests from entering your grow s
 **Treatment**:
 - Yellow sticky traps
 - Neem oil or insecticidal soap
-- Encarsia formosa (parasitic wasp) as biological control
+- Encarsia formosa (parasitic wasp) as [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]
 
 ### Caterpillars
 
-**Identification**: Larvae of moths/butterflies found on outdoor and greenhouse grows.
+**Identification**: Larvae of moths/butterflies found on [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]] grows.
 
 **Signs**:
 - Holes chewed in leaves
@@ -100,7 +100,7 @@ The most effective pest management is preventing pests from entering your grow s
 
 **Treatment**:
 - Hand-picking (for small numbers)
-- BTI spray (bacillus thuringiensis)
+- BTI spray ([[cervantes-bacillus-thuringiensis-bt-control]])
 - Spinosad spray
 - Physical barriers (row covers)
 

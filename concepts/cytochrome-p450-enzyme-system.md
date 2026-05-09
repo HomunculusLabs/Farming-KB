@@ -1,6 +1,6 @@
 ---
 title: Cytochrome P450 Enzyme System
-aliases: [CYP450, P450, cytochrome p450, drug metabolism enzymes]
+aliases: [CYP450, P450, cytochrome p450, [[cytochrome-p450-enzymes-drug-metabolism]] enzymes]
 tags: [biochemistry, pharmacology, toxicology, enzyme, drug-metabolism]
 created: 2026-05-02
 updated: 2026-05-06
@@ -45,7 +45,7 @@ pharmacogenomic data for over 300 drugs.
 ## Endogenous Metabolism and Toxicology
 CYPs are essential for steroidogenesis: CYP11A1 converts cholesterol to
 pregnenolone; CYP17A1 mediates androgen synthesis; CYP19A1 (aromatase, breast
-cancer drug target) converts androgens to estrogens; CYP11B1/B2 synthesize
+cancer [[ergosterol-fungal-drug-target]]) converts androgens to estrogens; CYP11B1/B2 synthesize
 cortisol and aldosterone. CYP27B1 activates vitamin D to calcitriol; CYP24A1
 catabolizes it. CYP7A1 catalyzes the rate-limiting bile acid synthesis step.
 CYP4 enzymes produce vasoactive 20-HETE and EETs from arachidonic acid. In
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

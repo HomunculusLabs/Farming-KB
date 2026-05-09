@@ -37,7 +37,7 @@ Trials compared row covers alone vs. row covers with aluminized cloth (which ref
 The natural moisture film that condenses on floating row covers at night is nearly opaque to long-wave radiation and provides a reasonably reflective surface — effectively doing the same job as the aluminized cloth for free.
 
 ## [[coleman-unheated-greenhouse-design]] — Outer layer (greenhouse) details
-- [[coleman-planting-schedules]] — When to apply/remove protection
+- coleman-planting-schedules — When to apply/remove protection
 ## Practical Considerations
 
 When working with Protected Cultivation — Row Covers and Low Tunnels, several practical factors should be
@@ -96,4 +96,6 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[coleman-double-layer-protection-greenhouse-row-cover]]
+- [[coleman-claytonia-winter-harvest-cultivation]]

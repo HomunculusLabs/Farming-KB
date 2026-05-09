@@ -13,7 +13,7 @@ sources:
 
 # Lobelia inflata
 
-**Lobelia inflata**, commonly known as **Indian tobacco**, **pukeweed**, **gagroot**, or **asthma weed**, is an annual or biennial herbaceous plant in the family Campanulaceae. Native to [[herbal-medicine-making-basics]] and 19th-century Thomsonian/Eclectic medical practice. The plant contains the piperidine alkaloid **lobeline**, which has been extensively studied for its effects on nicotinic acetylcholine receptors and its potential applications in smoking cessation, though its therapeutic use has declined due to a narrow therapeutic index and the availability of safer alternatives.
+**Lobelia inflata**, commonly known as **Indian tobacco**, **pukeweed**, **gagroot**, or **asthma weed**, is an annual or biennial herbaceous plant in the family Campanulaceae. Native to [[herbal-medicine-making-basics]] and 19th-century Thomsonian/Eclectic medical practice. The plant contains the piperidine alkaloid **lobeline**, which has been extensively studied for its effects on nicotinic acetylcholine receptors and its potential applications in smoking cessation, though its therapeutic use has declined due to a narrow [[cannabis-therapeutic-index-overview]] and the availability of safer alternatives.
 
 ## Taxonomy and Classification
 
@@ -56,7 +56,7 @@ The principal alkaloids and related compounds include:
 
 ## Traditional and Indigenous Uses
 
-*Lobelia inflata* holds a prominent place in the traditional medicine of numerous indigenous North American peoples.
+*Lobelia inflata* holds a prominent place in the traditional medicine of numerous indigenous [[growing-gourmet-north-american-reishi-species]] peoples.
 The Penobscot, Iroquois, Cherokee, Cree, and many other tribes used the plant for a wide range of ailments.
 The Cherokee used it as a treatment for respiratory conditions including asthma, bronchitis, and croup, as well as for syphilis, fevers, and as a ceremonial emetic.
 The Iroquois employed it as a love charm, a treatment for coughs and colds, and as a vermifuge.
@@ -71,7 +71,7 @@ The names "pukeweed" and "gagroot" reflect the plant's powerful emetic propertie
 
 *Lobelia inflata* became one of the most important and controversial medicinal plants in 19th-century American alternative medicine.
 The herbalist Samuel Thomson (1769–1843), the founder of the Thomsonian medical system, considered lobelia to be his primary therapeutic agent and used it extensively as an emetic, expectorant, antispasmodic, and general system cleanser.
-Thomson's advocacy of lobelia — which he called "eminently useful in removing every kind of disease" — brought the plant to the attention of a wide public and made it one of the best-selling medicinal herbs in 19th-century America.
+Thomson's advocacy of lobelia — which he called "eminently useful in removing every kind of disease" — brought the plant to the attention of a wide public and made it one of the best-selling [[permaculture-plants-medicinal-herbs-healing]] in 19th-century America.
 
 The Eclectic physicians, a later school of American botanical medicine that emerged in the mid-19th century, adopted and refined Thomson's use of lobelia, employing it in carefully graded doses as a respiratory antispasmodic, expectorant, and stimulant to the sympathetic nervous system.
 The Eclectic physician John King (1813–1893) published extensive clinical observations on lobelia's therapeutic applications and argued for its classification as a "diffusible stimulant" rather than a simple emetic.
@@ -80,7 +80,7 @@ King's *King's American Dispensatory* (1898) provides the most comprehensive his
 ## Modern Pharmacology and Clinical Research
 
 Modern research on lobeline has focused primarily on its potential as a smoking cessation agent, based on its ability to partially agonize and antagonize nicotinic acetylcholine receptors.
-Clinical trials in the 1990s and early 2000s produced mixed results, with some studies showing modest reductions in cigarette craving and withdrawal symptoms, while others failed to demonstrate significant efficacy compared to placebo or nicotine replacement therapy.
+[[mushroom-cancer-clinical-trials-overview]] in the 1990s and early 2000s produced mixed results, with some studies showing modest reductions in cigarette craving and withdrawal symptoms, while others failed to demonstrate significant efficacy compared to placebo or nicotine replacement therapy.
 A systematic review concluded that the evidence for lobeline as a smoking cessation aid was insufficient to support its clinical use, and the compound was largely abandoned in favor of varenicline (Chantix), bupropion (Zyban), and nicotine replacement products.
 
 More recent research has investigated lobeline's effects on VMAT2 and its potential applications in treating substance use disorders (particularly methamphetamine and cocaine addiction), attention deficit hyperactivity disorder (ADHD), and neurodegenerative diseases.
@@ -89,7 +89,7 @@ The compound's complex pharmacology — involving partial agonism at multiple nA
 
 ## Toxicity and Safety
 
-The therapeutic window of *Lobelia inflata* is narrow, and the plant has been responsible for numerous cases of poisoning throughout its history of use.
+The [[blesching-cannabis-therapeutic-window-dosing]] of *Lobelia inflata* is narrow, and the plant has been responsible for numerous cases of poisoning throughout its history of use.
 Symptoms of lobeline poisoning include nausea, profuse vomiting (the plant's most characteristic toxic effect), abdominal pain, diarrhea, diaphoresis, tachycardia, hypotension, tremor, seizures, and in severe cases, respiratory depression, coma, and death.
 The estimated lethal dose of lobeline in adults is approximately 1–2 grams, though individual susceptibility varies considerably.
 
@@ -98,6 +98,8 @@ Lobelia preparations may interact with a wide range of medications, including an
 The plant's milky latex can cause contact dermatitis in sensitive individuals.
 
 ## See Also
+
+- [[lobelia-cardinalis]]
 
 - [[lobelia-tupa]]
 

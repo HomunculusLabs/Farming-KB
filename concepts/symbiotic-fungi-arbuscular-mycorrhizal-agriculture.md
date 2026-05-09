@@ -1,5 +1,5 @@
 ---
-title: Arbuscular Mycorrhizal Fungi in Agriculture - Functions and Management
+title: comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi Fungi in Agriculture - Functions and Management
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -19,13 +19,13 @@ Arbuscular mycorrhizal fungi (AMF), belonging to the phylum Glomeromycota, are u
 
 AMF form a symbiotic relationship with more than 80% of plant species living on land. Symbiosis plays an equally important role in natural ecosystems and in agroecosystems. Mycorrhizae have been characterized as an ecosystem service to humanity.
 
-See also: [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], [[mycorrhizal-nutrient-uptake]], [[phosphorus-availability]]
+See also: [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], mycorrhizal-nutrient-uptake, [[phosphorus-availability]]
 
 ### Nitrogen Uptake
 
-AMF absorb and transfer all 15 major macro- and micronutrients necessary for plant growth, including nitrogen. The interaction between rhizobia and AMF has received considerable attention because of the relatively high phosphorus demand of nitrogen fixation. The two symbioses typically act synergistically, resulting in greater nitrogen and phosphorus content in combination than when each is inoculated onto the legume alone.
+AMF absorb and transfer all 15 major macro- and micronutrients necessary for plant growth, including nitrogen. The interaction between rhizobia and AMF has received considerable attention because of the relatively high phosphorus demand of [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. The two symbioses typically act synergistically, resulting in greater nitrogen and phosphorus content in combination than when each is inoculated onto the legume alone.
 
-Biological nitrogen fixation by Rhizobium in legume hosts can be enhanced through co-infection with AMF. Legumes are typically coarse-rooted and therefore inefficient in extracting phosphorus from the soil. The AM fungi associated with legumes are an essential link for adequate phosphorus nutrition, leading to enhanced nitrogenase activity that in turn promotes root and mycorrhizal growth.
+[[biological-nitrogen-fixation-agriculture]] fixation by Rhizobium in legume hosts can be enhanced through co-infection with AMF. Legumes are typically coarse-rooted and therefore inefficient in extracting phosphorus from the soil. The AM fungi associated with legumes are an essential link for adequate phosphorus nutrition, leading to enhanced nitrogenase activity that in turn promotes root and mycorrhizal growth.
 
 See also: [[fungal-role-in-nitrogen-cycling]], [[glomalin-and-soil-carbon]], [[mycorrhizal-biocontrol]], [[mycorrhizal-plant-defense]]
 
@@ -37,7 +37,7 @@ See also: [[fungal-glomalin-and-soil-carbon]], [[arbuscular-mycorrhizal-fungal-d
 
 ## The Carbon Cost of Mycorrhizae
 
-Between 10 and 20% of net photosynthates are required for formation, maintenance, and function of mycorrhizal structures. This carbon cost must be weighed against the benefits (improved nutrient uptake, disease resistance, drought tolerance) when evaluating the net effect of mycorrhizal colonization on crop yield.
+Between 10 and 20% of net photosynthates are required for formation, maintenance, and function of mycorrhizal structures. This carbon cost must be weighed against the benefits (improved nutrient uptake, disease resistance, [[dighton-fungal-drought-tolerance-plant-water-relations]]) when evaluating the net effect of [[arbuscular-mycorrhizal-colonization-patterns]] on crop yield.
 
 In nutrient-rich soils where phosphorus is readily available, the carbon cost may exceed the benefit, resulting in a net drain on the plant (parasitism end of the mutualism-parasitism continuum). In nutrient-poor soils, the benefit typically far exceeds the cost.
 
@@ -50,7 +50,7 @@ AMF are central to sustainable agricultural systems because they:
 - Improve water-use efficiency
 - Suppress soil-borne diseases
 - Improve soil structure and reduce erosion
-- Enhance nutrient cycling efficiency
+- Enhance [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] efficiency
 - Support plant diversity in cropping systems
 
 For biological inoculants to be commercially attractive, they should offer at least a 4-fold return on the inoculum cost. AMF inoculants are increasingly available for agricultural, horticultural, and restoration applications.
@@ -58,6 +58,7 @@ For biological inoculants to be commercially attractive, they should offer at le
 See also: [[mycorrhizal-fertilizer-reduction]], [[symbiotic-fungi-ectomycorrhizal-networks-overview]]
 - [[symbiotic-fungi-fungal-endophytes-grassland-ecology]]
 - [[symbiotic-fungi-mycorrhizal-bioassays-agriculture]]
+
 ## Practical Considerations
 
 Successful implementation of Arbuscular Mycorrhizal Fungi in Agriculture - Functions and Management requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

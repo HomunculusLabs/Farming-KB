@@ -1,18 +1,19 @@
 ---
-title: Sepp Holzer Garden Helpers and Pest Regulation
+title: Sepp sepp holzer garden helpers and pest regulation Helpers and Pest Regulation
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [gardening, organic-gardening]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 Updated: 2026-04-18
 
 Source: Sepp Holzer, *Sepp Holzer's Permaculture* (2010)
 
-Sepp Holzer's approach to pest management is fundamentally different from conventional agriculture. Rather than fighting pests, he designs systems where natural predators and ecological balance keep potential problems in check.
+Sepp Holzer's approach to [[cannabis-pest-management-guide]] is fundamentally different from conventional agriculture. Rather than fighting pests, he designs systems where natural predators and [[fukuoka-ecological-balance-principles]] keep potential problems in check.
 
 ## Core Philosophy
 
@@ -21,8 +22,8 @@ Sepp Holzer's approach to pest management is fundamentally different from conven
 ## Voles and Decoy Plants
 
 Voles can cause significant damage by eating plant roots. Rather than using poison, Holzer uses decoy plants:
-- Jerusalem artichoke and black salsify make excellent decoy plants
-- Provide enough decoy plants and voles leave fruit trees alone
+- [[comparison-jerusalem-artichoke-vs-potato]] and black salsify make excellent decoy plants
+- Provide enough decoy plants and voles leave [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] alone
 - The energy required to repair soil damage from poison is far greater than the supposed damage from voles eating crops
 - Ensure voles always have enough decoy plants available
 
@@ -77,7 +78,7 @@ Earthworms are among the most important garden helpers. Three local varieties at
 - Incorporate layers of branches, leaves, and roots for aeration
 - Any cooking waste as food (except onions and garlic)
 - Worms particularly like used coffee filters with grounds
-- Regular supply of organic matter; rate matched to worm population
+- Regular supply of [[hamilton-composting-and-organic-matter-management]]; rate matched to worm population
 - Room temperature ideal
 - Steady moisture balance, good oxygen supply
 - Drill holes in bottom to prevent water buildup

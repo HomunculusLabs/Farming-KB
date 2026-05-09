@@ -12,7 +12,7 @@ type: comparison
 
 ## Overview
 
-JADAM Indigenous Microorganism Solution (JMS) and Korean Natural Farming (KNF) Indigenous Microorganisms (IMO) are two Korean-developed systems for culturing
+JADAM [[knf-indigenous-microorganism-culture]] Solution (JMS) and Korean Natural Farming (KNF) [[beneficial-indigenous-microorganisms-bim]] (IMO) are two Korean-developed systems for culturing
 beneficial microorganisms from local environments. Both share the foundational philosophy that locally adapted microbes outperform commercial inoculants, yet
 they diverge significantly in their collection methods, culturing processes, cost structures, and integration into broader farming systems.
 
@@ -32,7 +32,7 @@ hybridization.
 The IMO system was developed by Dr. Han Kyu Cho as part of Korean Natural Farming (KNF) and popularized internationally by Gil Carandang through the Bahay Kubo
 framework in the Philippines. Unlike JADAM's single-step approach, IMO collection targets specific microbial groups through a carefully staged collection and
 culturing process that progresses from generalist forest microorganisms through successive enrichment stages, each designed to amplify different functional
-groups within the microbial community.
+groups within the [[edaphic-factors-microbial-community-structure]].
 
 The IMO process typically involves four to five stages. IMO-1 collects microbes by placing steamed rice inside a bamboo or wooden box and burying it near the
 root zone of healthy forest plants for seven to ten days, during which naturally occurring microorganisms colonize the rice. IMO-2 amplifies these collected
@@ -46,7 +46,7 @@ organisms while the sugar preservation step in IMO-2 prevents spoilage and allow
 stable inoculant that can be applied to garden beds, compost piles, or potting mixes with lasting effects.
 
 Carandang's Bahay Kubo adaptation emphasizes farmer self-reliance and "independent authority" over farming techniques. The framework connects IMO production to
-a broader suite of natural farming inputs including Fermented Plant Juice (FPJ) for growth stimulation, Fermented Fruit Juice (FFJ) for fruiting and flowering
+a broader suite of natural farming inputs including [[bionutrients-lab-fermented-plant-juice-fpj]] (FPJ) for growth stimulation, Fermented Fruit Juice (FFJ) for fruiting and flowering
 support, Oriental Herbal Nutrients (OHN) for plant immunity, and Fish Amino Acids (FAA) for nitrogen supplementation. The philosophy recognizes that 96% of
 plant growth comes from air, water, and sunlight, with microorganisms serving as the essential biological bridge that makes soil nutrients available to plant
 roots.
@@ -84,8 +84,8 @@ without infrastructure investment.
 IMO is preferable when the multi-stage enrichment process is valued for its ability to selectively amplify specific beneficial microbial groups at each stage.
 The staged approach provides more control over the final microbial composition, allowing farmers to target different functional communities such as
 nitrogen-fixing bacteria, phosphate-solubilizing fungi, or cellulose-decomposing actinomycetes depending on their crop needs and soil conditions. This
-granularity is especially valuable for intensive vegetable production, high-value horticultural crops, or situations where specific soil deficiencies need
-targeted biological remediation.
+granularity is especially valuable for intensive [[dry-gardening-unirrigated-vegetable-production-solomon]], high-value horticultural crops, or situations where specific soil deficiencies need
+targeted [[combined-biological-remediation-approaches]].
 
 IMO also integrates more seamlessly with the broader KNF input system for growers who want a comprehensive natural farming toolkit. The synergistic
 relationships between IMO, FPJ, FFJ, OHN, FAA, and LAB (Lactic Acid Bacteria) create a complete biological nutrient management program. The Bahay Kubo
@@ -106,6 +106,8 @@ the additional effort. The shared philosophy of local microbial adaptation means
 suit individual farm conditions, seasonal constraints, and available resources without conflict.
 
 ## See Also
+
+- [[comparison-bim-vs-jadam-imo]]
 
 - [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]
 - [[ultra-low-cost-farming-overview]]

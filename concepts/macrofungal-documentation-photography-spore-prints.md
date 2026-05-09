@@ -65,7 +65,7 @@ Primary: determine spore color. Secondary: provide clean spores for microscopy (
 ### Methods
 - **Agarics:** Remove cap from stipe; place on white paper
 - **Alternative:** Cut round hole or "X" in paper; insert stipe until lamellae contact paper
-- **Coral fungi:** Place paper directly under branches
+- **[[coral-fungi-clavariaceae]]:** Place paper directly under branches
 - Only portion of large pileus needed
 
 ### Conditions
@@ -78,7 +78,7 @@ Primary: determine spore color. Secondary: provide clean spores for microscopy (
 ## Micromorphological Features
 
 ### Field Laboratory
-Compound microscope can help initially assign specimens to taxonomic groups:
+Compound microscope can help initially assign specimens to [[coprophilous-fungi-taxonomic-groups-distribution]]:
 - Spore characteristics
 - Pileus anatomy
 - Assess condition and maturity of small ascomycetes
@@ -122,6 +122,6 @@ Not every specimen needs to be collected. Consider:
 ## See Also
 
 - [[macrofungal-sampling-design-plots-transects]]
-- [[mushroom-identification]]
+- mushroom-identification
 - [[fungal-specimen-collection-herbarium-management]]
 - [[fungi-in-the-environment-fungal-spore-dispersal]]

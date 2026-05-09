@@ -1,5 +1,5 @@
 ---
-title: "5-TASB (5-THIOASYMBESCALINE;) -- PIHKAL Entry #148"
+title: "5-TASB (5-THIOASYMBESCALINE;) -- 2c-b-pihkal-entry-20 #148"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -65,7 +65,7 @@ additional h, and then added to 400 mL of dilute HCl. There was the
 generation of a lot of yellow solids, and the Et2O phase was almost
 colorless. This was separated, the solvent removed under vacuum, and
 the residue combined with the original aqueous phase. This phase was
-then heated on the steam bath for 2 h. The aqueous solution was
+then heated on the [[scythian-cannabis-steam-bath-ritual]] for 2 h. The aqueous solution was
 cooled to room temperature, extracted with 3x100 mL CH2Cl2, the
 extracts pooled, washed with H2O, and the solvent removed under vacuum
 to yield 9.4 g of an amber oil which spontaneously crystallized. This
@@ -96,7 +96,7 @@ methyl sulfide) in 45 mL THF was placed in a He atmosphere, cooled to
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

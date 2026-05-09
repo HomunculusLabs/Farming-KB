@@ -1,5 +1,5 @@
 ---
-title: Charcoal Production for Cooking
+title: mollison-designers-charcoal-production-biochar-soil-amendment for Cooking
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Charcoal is wood that has been heated in the absence of sufficient oxygen to drive off volatile compounds (water, methane, hydrogen, tar), leaving behind a carbon-rich fuel that burns hotter, cleaner, and more consistently than raw wood. For off-grid and homestead cooking, producing your own charcoal reduces fuel costs, provides a high-quality cooking fuel, and can create biochar as a soil amendment.
+Charcoal is wood that has been heated in the absence of sufficient oxygen to drive off [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] (water, methane, hydrogen, tar), leaving behind a carbon-rich fuel that burns hotter, cleaner, and more consistently than raw wood. For off-grid and homestead cooking, producing your own charcoal reduces fuel costs, provides a high-quality cooking fuel, and can create biochar as a soil amendment.
 
 ## The Chemistry of Charcoal
 
@@ -142,24 +142,8 @@ Any charcoal production method can produce biochar for soil amendment:
 - Quench hot charcoal with water rather than letting it cool slowly (water quenching preserves more micropore structure)
 - Crush charcoal to particle sizes from powder to 1/2 inch
 - Incorporate into compost piles or garden beds at 5-10% by volume
-- Biochar improves soil water retention, cation exchange capacity, and microbial habitat
-- "Charge" biochar by soaking in compost tea or mixing with compost before soil application
-
-See [[composting-methods-comparison]] for integration with biochar production.
-
-## Safety Considerations
-
-- **Carbon monoxide:** Charcoal production produces CO. Work outdoors, never in enclosed spaces, and maintain upwind position.
-- **Fire risk:** Charcoal can reignite for 24-48 hours after production. Quench thoroughly before storage.
-- **Spontaneous combustion:** Never store hot charcoal in enclosed containers or near combustible materials.
-- **Burns:** Temperatures inside kilns reach 900-1100F. Use proper protective equipment.
-- **Groundwater:** Locate production away from wells and water sources. Charcoal tars can contaminate water.
-- **Permits:** Check local regulations; some areas restrict open burning or charcoal production.
-
-## Efficiency Comparison
-
-For off-grid cooking, charcoal is roughly 2-3 times more efficient than firewood by weight, meaning you need to produce, transport, and store much less fuel. However, the energy input to produce charcoal means the overall system efficiency (wood-to-cooked-food) is lower than cooking directly over wood. The trade-off is convenience, temperature control, and reduced smoke in the cooking area.
-
+- Biochar improves soil water retention, [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity, and microbial habitat
+- "Charge" biochar by soaking in [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] or mixing with compost before soil application
 ## Related Topics
 
-Charcoal production connects to broader off-grid energy and soil systems. See [[pellet-stove-heating]] for another wood fuel processing method. The biochar byproduct integrates with [[composting-methods-comparison]] and soil building. Wood selection principles overlap with [[fungi-and-sustainability]] and forestry management on the homestead.
+Charcoal production connects to broader off-grid energy and soil systems. See [[pellet-stove-heating]] for another wood fuel processing method. The biochar byproduct integrates with [[composting-methods-comparison]] and soil building. Wood [[cannabis-breeding-selection-principles-clarke]] overlap with [[fungi-and-sustainability]] and forestry management on the homestead.

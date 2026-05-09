@@ -1,5 +1,5 @@
 ---
-title: "Banyan Tree Bacterial Endophytes: Isolation and Visualization"
+title: "Banyan banyan tree bacterial endophytes isolation visualization Endophytes: Isolation and Visualization"
 created: 2026-04-28
 tags: [endophytes, bacteria, banyan-tree, Ficus-bengalensis,
       isolation-methods, microscopy, vital-staining, symbiotic-fungi]
@@ -15,18 +15,18 @@ type: concept
 
 Endophytic bacteria reside within plant tissues without causing substantive harm
 to their host. They may benefit the host through competition for habitat via
-antibiotic production, induction of [[agar]] media, dipping roots into nutrient broth, or
+antibiotic production, induction of [[growing-gourmet-agar-media-formulas-preparation]], dipping roots into nutrient broth, or
 streaking the final wash water onto nutrient agar. No growth from these controls
-confirms successful surface sterilization.
+confirms successful surface [[sterilization]].
 
 ## Cultivation of Endophytes
 
 Surface-sterilized root segments are placed on Luria agar and potato dextrose
-agar plates, spaced at least 2 cm apart. Plates are incubated at 30 plus or
+[[query-how-to-make-agar-plates-for-mushroom-cultivation]], spaced at least 2 cm apart. Plates are incubated at 30 plus or
 minus 2 degrees C and observed daily. Endophytes migrate from root tissue onto
 the media and begin colonizing. Bacterial growth is subcultured onto fresh media
 using sterile nichrome wire loops to obtain isolated colonies. Repeated
-subculturing ensures purity before screening for bioactive compounds.
+subculturing ensures purity before screening for [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
 
 Maceration is an alternative approach for recovering slow-growing endophytes.
 Surface-sterilized root tissue is homogenized in sterile buffer using a mortar

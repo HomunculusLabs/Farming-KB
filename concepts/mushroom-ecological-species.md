@@ -22,7 +22,7 @@ sources:
 
 # Mushroom Ecological Species
 
-Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/ecological species, mycoremediation species, and substrate preparation reference. Based on [[paul-stamets]]' *Mycelium Running*. See [[mushroom-species-cultivation-parameters]] for primary species (Oyster, Wine Cap, Shiitake, Maitake, Lion's Mane).
+Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/ecological species, mycoremediation species, and [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] reference. Based on [[paul-stamets]]' *[[woodlovers-mycelium-running-pathway-technique]]*. See [[mushroom-species-cultivation-parameters]] for primary species (Oyster, Wine Cap, Shiitake, Maitake, Lion's Mane).
 
 ### Ganoderma lucidum — Reishi
 
@@ -35,7 +35,7 @@ Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/e
 | Fresh air exchange | High CO2 tolerance; lower FAE acceptable |
 | Light | Low to moderate; indirect |
 | pH | 5.0-6.5 |
-| Colonization time | 30-45 days on supplemented sawdust |
+| Colonization time | 30-45 days on [[oyster-mushroom-supplemented-sawdust-blocks]] |
 | Time to first fruit | 2-4 weeks; fruiting bodies develop over 2-3 months |
 | Yield | Variable; reishi grows slowly but can reach large size |
 | Difficulty | Moderate |
@@ -56,13 +56,13 @@ Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/e
 | Time to first fruit | 1-6 months depending on conditions |
 | Yield | Not typically cultivated for food; grown for medicinal extraction |
 | Difficulty | Easy to grow; difficult to get high-quality fruiting bodies |
-| Key notes | Medicinal: PSK and PSP (cancer adjuvant therapy approved in Japan/China); immune modulation; one of the most studied medicinal mushrooms |
+| Key notes | Medicinal: PSK and PSP (cancer adjuvant therapy approved in Japan/China); immune modulation; one of the most studied [[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]] |
 
 ### Agaricus subrufescens — Almond Mushroom / Agaricus blazei
 
 | Parameter | Value |
 |-----------|-------|
-| Substrate | Composted substrate (horse manure + straw); similar to button mushroom compost |
+| Substrate | Composted substrate (horse manure + straw); similar to button [[staycare-spent-mushroom-compost-bioremediation]] |
 | Colonization temp | 75-85°F (24-29°C) |
 | Fruiting temp | 60-75°F (16-24°C) |
 | Humidity | 85-95% |
@@ -129,33 +129,13 @@ Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/e
 
 | Species | Primary Application | Notes |
 |---------|-------------------|-------|
-| Pleurotus ostreatus | Petroleum, PAHs, PCBs | Most versatile remediator; aggressive colonizer |
-| Stropharia rugoso-annulata | Bacteria (E. coli), sediment | Premier mycofiltration species |
-| Trametes versicolor | PAHs, dyes, general pollutants | Strong ligninolytic enzyme production |
-| Phanerochaete chrysosporium | PCBs, PAHs, pesticides | Model white-rot research organism |
-| Ganoderma lucidum | Heavy metals | Biosorption capacity |
-| Lentinula edodes | Xenobiotics, pesticides | Laccase production |
-| Pleurotus eryngii | PAHs, petroleum | Mediterranean oyster; tolerant species |
-| Schizophyllum commune | Various pollutants | Cosmopolitan; grows almost anywhere |
-
-## Substrate Preparation Quick Reference
-
-| Substrate | Pasteurization | Sterilization | Species |
-|-----------|---------------|---------------|---------|
-| Straw | Hot water (160°F, 1-2 hrs) or cold incubation | Not needed | Oyster, wine cap |
-| Hardwood sawdust + bran | Not recommended | 15 psi, 90-120 min | Shiitake, maitake, lion's mane, reishi |
-| Composted manure | Phase II composting (140°F, 6-8 hrs) | Not needed | Agaricus species, almond mushroom |
-| Wood chips | Not required (outdoor) | Not required | Wine cap, garden giants, reishi |
-| Logs | Not required | Not required | Shiitake, oyster, reishi, maitake |
-| Coffee grounds | Pasteurize if concerned | Not needed | Oyster species |
-
 ## See Also
 
 - [[mushroom-species-guide]] for concise species profiles
 - [[specialty-mushroom-species]] for additional species
 - [[mushroom-cultivation-basics]] for the 10-step process
 - [[mushroom-substrates]] for substrate science
-- [[mushroom-substrate-comparison]] for substrate comparison tables
+- [[mushroom-substrate-comparison]] for [[brassinosteroid-substrate-comparison-agar-vs-dung-grain-psilocybe-cubensis]] tables
 - [[mushroom-compost-substrates]] for compost formulas
 - [[mushroom-log-cultivation]] for log methods
 - [[straw-cultivation-methods]] for straw preparation

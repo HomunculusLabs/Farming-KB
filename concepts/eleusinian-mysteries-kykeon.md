@@ -1,5 +1,5 @@
 ---
-title: Eleusinian Mysteries Kykeon
+title: mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries Kykeon
 created: 2026-04-28
 tags: [eleusinian, kykeon, ancient-greece, ergot]
 date: 2026-04-25
@@ -20,7 +20,7 @@ involved the consumption of a sacred potion called kykeon. The
 identity of the psychoactive ingredient in kykeon has been one of
 the great unsolved puzzles of classical scholarship, with the leading
 theory proposing that it was an ergotized beer derived from barley
-infected with Claviceps purpurea.
+infected with [[bloomfield-ergot-claviceps-purpurea-ergotism]].
 
 ## The Myth of Demeter and Persephone
 
@@ -34,7 +34,7 @@ Eleusinian Mysteries were celebrated.
 The festival of the Mysteries was held on two occasions during the
 Athenian year: the Lesser Mysteries celebrated in spring to welcome
 the return of vegetation, and the Great Mysteries celebrated at
-harvest time. The harvest timing connected the rites directly to the
+harvest time. The [[cannabis-harvest-timing-visual-cues]] connected the rites directly to the
 grain cycle and the agricultural abundance that Demeter governed.
 
 ## Minoan Origins
@@ -83,9 +83,9 @@ labor, and having strong vasoconstrictive effects.
 
 The purple color traditionally associated with the robe of Demeter
 may signify the distinctive purple color of the ergot sclerotia, the
-asexual resting stage in the life cycle of the organism. Wasson and
+asexual resting stage in the [[bloomfield-fungal-life-cycle-spiral-versus-circle]] of the organism. Wasson and
 his colleagues argued: "Clearly ergot of barley is the likely
-psychotropic ingredient in the Eleusinian potion. Its seeming
+psychotropic ingredient in the [[albert-hofmann-eleusinian-potion-analysis]]. Its seeming
 symbiotic relationship to the barley signified an appropriate
 expropriation and transmutation of the Dionysian spirit."
 
@@ -111,7 +111,7 @@ the fat-soluble toxic alkaloids.
 ## Graves's Psilocybin Alternative
 
 Robert Graves had earlier proposed that the Eleusinian sacrament
-involved hallucinogenic mushrooms, specifically psilocybin-containing
+involved [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]], specifically psilocybin-containing
 species. Graves believed that recipes in classical sources for the
 ritual beverage contained ingredients whose first letters could be
 arranged to spell "mushroom" -- an ogham cipher. He suggested that

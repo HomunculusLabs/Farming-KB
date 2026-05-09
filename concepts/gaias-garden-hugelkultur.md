@@ -10,11 +10,11 @@ sources:
 
 # Gaia's Garden Hugelkultur
 
-Toby Hemenway's treatment of hugelkultur (mound culture) as a technique for building soil, retaining moisture, and extending the growing season. From Gaia's Garden.
+Toby Hemenway's treatment of hugelkultur (mound culture) as a technique for building soil, retaining moisture, and extending the [[savory-growing-season-and-non-growing-season-management]]. From Gaia's Garden.
 
 ## What Is Hugelkultur
 
-Hugelkultur (German for "mound culture") is a gardening technique that uses woody debris — branches, brush, logs — as the core of raised planting mounds. The woody material acts as a sponge, absorbing and holding moisture while slowly decomposing to release nutrients.
+Hugelkultur (German for "mound culture") is a gardening technique that uses [[fungal-succession-woody-debris-ecology]] — branches, brush, logs — as the core of raised planting mounds. The woody material acts as a sponge, absorbing and holding moisture while slowly decomposing to release nutrients.
 
 ## Construction
 
@@ -27,7 +27,7 @@ Hugelkultur (German for "mound culture") is a gardening technique that uses wood
 
 ## How It Works
 
-The decomposing organic matter inside the mound:
+The decomposing [[hamilton-composting-and-organic-matter-management]] inside the mound:
 
 - **Raises soil temperature** just enough to boost plant growth, extending the growing season
 - **Releases nutrients slowly** as wood breaks down over years
@@ -66,10 +66,10 @@ Some people worry that buried wood will lock up nitrogen. Solutions include toss
 
 ## Relationship to Other Techniques
 
-Hugelkultur shares principles with [[faires-hugelkultur-and-forest-garden-strategy]] (using woody biomass to create growing environments). It is particularly complementary to [[hugelkultur]] — general hugelkultur overview
+Hugelkultur shares principles with faires-hugelkultur-and-forest-garden-strategy (using woody biomass to create growing environments). It is particularly complementary to [[hugelkultur]] — general hugelkultur overview
 - [[hugelkultur-bed-construction-detailed]] — comprehensive building instructions
-- [[faires-hugelkultur-and-soil-building]] — Faires on hugelkultur and soil building
-- [[gaias-garden-sheet-mulching-guide]] — sheet mulching companion technique
+- faires-hugelkultur-and-soil-building — Faires on hugelkultur and soil building
+- [[gaias-garden-sheet-mulching-guide]] — [[comparison-sheet-mulching-vs-chop-and-drop-mulching]] companion technique
 ## Practical Considerations
 
 Successful implementation of Gaia's Garden Hugelkultur requires attention to
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

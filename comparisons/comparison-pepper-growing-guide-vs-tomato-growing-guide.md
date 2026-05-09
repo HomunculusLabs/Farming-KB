@@ -1,17 +1,18 @@
 ---
-title: "Pepper Growing vs Tomato Growing"
+title: "comparison-bean-growing-guide-vs-pepper-growing-guide vs hamilton-tomato-growing-organic"
 created: 2026-04-28
 tags: [comparison, vegetables, gardening, solanaceae]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 # Pepper Growing vs Tomato Growing
 ## Overview
 Peppers and tomatoes are the two most popular solanaceous crops in home gardens,
 sharing many growing requirements but differing significantly in their heat
-preferences, growth habits, and harvest profiles. Both demand warm weather, full
+preferences, growth habits, and harvest profiles. Both demand [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]], full
 sun, and consistent moisture, yet peppers are generally more heat-tolerant and
 longer-lived perennials in warm climates, while tomatoes are heavier feeders
 with larger yields and more complex support needs. Understanding these
@@ -49,11 +50,11 @@ making them an excellent choice for beginners.
 | Aspect | Peppers | Tomatoes |
 |--------|---------|----------|
 | Heat tolerance | High (70-85F optimal, tolerates 90F+) | Moderate (drops blossoms above 90F) |
-| Drought tolerance | Moderate to high | Low (cracks without consistent moisture) |
+| [[dighton-fungal-drought-tolerance-plant-water-relations]] | Moderate to high | Low (cracks without consistent moisture) |
 | Plant size | 2-4 ft, compact bushy habit | 2-10 ft depending on type |
 | Support needed | Minimal (small cages optional) | Essential (stakes, cages, trellises) |
 | Yield per plant | 10-30+ fruit | 20-100+ fruit (10-50+ lbs) |
-| Nutrient demand | Moderate | High (heavy feeder, needs calcium) |
+| [[vegetable-nutrient-demand-levels]] | Moderate | High (heavy feeder, needs calcium) |
 | Days to maturity | 60-100 from transplant | 55-85 from transplant |
 | Lifespan | Perennial in frost-free zones | Annual everywhere |
 | Container suitability | Excellent (small bushy habit) | Good (determinate best) |
@@ -82,7 +83,7 @@ in temperate climates with moderate summers will find tomatoes easier to manage
 than in hot southern regions.
 ## Hybrid Approaches
 Growing both peppers and tomatoes together is natural since they share similar
-soil, sun, and nutrient requirements. Both benefit from companion planting with
+soil, sun, and nutrient requirements. Both benefit from [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with
 basil (repels hornworms and aphids) and marigolds (repels nematodes). The key to
 managing both in the same garden is recognizing that peppers can occupy the
 hottest, most sun-baked spots where tomatoes struggle with blossom drop, while

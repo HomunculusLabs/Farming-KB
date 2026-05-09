@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Shamanism as Death Practice
+title: Psychedelic psychedelic shamanism as death practice Practice
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -8,7 +8,7 @@ tags: [psychedelics]
 ---
 # Psychedelic Shamanism as Death Practice
 
-James Arthur's "Mushrooms and Mankind" presents a provocative thesis at the core of his work: that shamanism is fundamentally a practice of experiencing death — a deliberate, repeated engagement with the death experience through entheogenic plants in order to conquer death spiritually and prepare for the inevitable transition at the end of physical life. In this framework, the [[egyptian-mushroom-temple-architecture]] — Secret societies and entheogenic knowledge
+James Arthur's "[[arthur-mushrooms-and-mankind-ethnomycology-and-religion]]" presents a provocative thesis at the core of his work: that shamanism is fundamentally a practice of experiencing death — a deliberate, repeated engagement with the death experience through entheogenic plants in order to conquer death spiritually and prepare for the inevitable transition at the end of physical life. In this framework, the egyptian-mushroom-temple-architecture — Secret societies and entheogenic knowledge
 - [[soma-multi-plant-admixture-theory]] — Multi-plant Soma preparations
 - [[tree-of-knowledge-and-forbidden-fruit-theory]] — Serpent as enlightenment bringer
 - [[mckenna-psychedelic-shamanism]] — McKenna's perspective on psychedelic shamanism
@@ -142,4 +142,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

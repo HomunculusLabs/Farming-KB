@@ -1,5 +1,5 @@
 ---
-title: Amazonian Shamanic Battles and Defensive Powers
+title: Amazonian amazonian shamanic battles and defensive powers and Defensive Powers
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,7 +9,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/amaringo-p-ayahuasca-visions.md]
 
 # Amazonian Shamanic Battles and Defensive Powers
 
-A major theme in Pablo Amaringo's ayahuasca visions is the shamanic battle -- direct confrontations between healers (curanderos/vegetalistas) and sorcerers (brujos). These battles take place entirely in the visionary realm and involve complex arsenals of magical weapons, spirit allies, and defensive barriers. Understanding these battles is essential to understanding Amazonian shamanic practice.
+A major theme in Pablo Amaringo's [[amaringo-ayahuasca-visions-shipibo-iconography]] is the shamanic battle -- direct confrontations between healers (curanderos/vegetalistas) and sorcerers (brujos). These battles take place entirely in the visionary realm and involve complex arsenals of magical weapons, spirit allies, and defensive barriers. Understanding these battles is essential to understanding Amazonian shamanic practice.
 
 ## The Nature of Shamanic Combat
 
@@ -26,7 +26,7 @@ Shamanic battles are fought on multiple levels simultaneously:
 A sorcerer's primary weapon. Its penetrating waves produce in the victim a sleepy and forgetful weakness, barely allowing defense. The healer must counter with luminous waves of powerful colors that dazzle the enemy's eyes.
 
 ### Huaira-Umas (Forgetful Mind Snakes)
-Snakes that cast a spell driving the victim crazy, making them forget how to defend themselves. "Huaira" means air, "uma" means head.
+Snakes that cast a spell driving the victim crazy, making them forget how to [[query-how-do-plants-defend-themselves-chemically]]. "Huaira" means air, "uma" means head.
 
 ### Ayanahais (Eyes of the Dead)
 Fireflies that move in flocks. Sorcerers use them as cigarettes -- they embody the spirits of the dead and carry destructive intent.
@@ -52,7 +52,7 @@ Colored energy barriers that the healer raises as defense. Tingunas come in vari
 Tingunas can be transformed into persons or cities. They form the primary magical shield.
 
 ### Arkana
-Spiritual defenses given to vegetalistas by spirit beings like Queen Pulsarium Coya. The arkana system includes:
+Spiritual defenses given to vegetalistas by [[metzner-spirit-beings-multiple-realities-entheogens]] like Queen Pulsarium Coya. The arkana system includes:
 - **Scorpion**: Fights virotes from sorcerers
 - **Snakes**: Detect mal aire del agua and manchari (fright)
 - **Caterpillars and spiders**: Placed on arms for additional defense

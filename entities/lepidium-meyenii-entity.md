@@ -71,14 +71,14 @@ Maca is exceptionally hardy and represents one of the highest-altitude cultivate
 - **Soil:** Adapted to the rocky, shallow, volcanic-derived soils of the puna. Prefers well-drained, slightly acidic to neutral soils (pH 5.5–7.0).
 - **Light:** Full sun. The intense UV at altitude is tolerated due to protective leaf pigments.
 - **Water:** Low water requirements; adapted to the dry season of the Andean puna. Approximately 400–700 mm annual rainfall is sufficient.
-- **Growing cycle:** 8–10 months from seed to harvest. Seeds are sown at the start of the rainy season (September–November), and hypocotyls are harvested before the next dry season (May–July).
+- **Growing cycle:** 8–10 months from [[query-how-to-grow-chili-peppers-from-seed-to-harvest]]. Seeds are sown at the start of the rainy season (September–November), and hypocotyls are harvested before the next dry season (May–July).
 
 ## Nutritional Profile
 
 Maca hypocotyls are nutritionally dense:
 
 ### Macronutrients (per 100 g dried)
-- **Protein:** 10–14 g (unusual for a root crop; contains all essential amino acids)
+- **Protein:** 10–14 g (unusual for a [[root-crop-harvest-and-storage]]; contains all essential amino acids)
 - **Carbohydrates:** 59–76 g (mainly starches and sugars)
 - **Dietary fiber:** 8–9 g
 - **Fat:** 1–2 g (rich in linoleic and oleic acids)
@@ -110,7 +110,7 @@ In the Andes, maca is consumed as a staple food, not merely a supplement:
 - Added to soups and stews
 
 ### Medicine (Traditional)
-- Enhancing fertility and sexual function in both men and women
+- Enhancing fertility and [[cannabis-for-libido-and-sexual-function]] in both men and women
 - Increasing energy, stamina, and endurance
 - Improving mental clarity and focus
 - Regulating hormonal balance (menstrual irregularity, menopause symptoms)
@@ -118,7 +118,7 @@ In the Andes, maca is consumed as a staple food, not merely a supplement:
 - Reducing altitude sickness
 
 ### Animal Fodder
-Maca leaves and processing byproducts are used as livestock feed, particularly for alpacas, llamas, and sheep.
+Maca leaves and processing byproducts are used as [[livestock-feed-formulation]], particularly for alpacas, llamas, and sheep.
 
 ## Modern Research
 
@@ -130,7 +130,7 @@ The most extensively studied area. Multiple randomized controlled trials (RCTs) 
 - Mechanisms may involve modulation of the hypothalamic-pituitary-gonadal axis
 
 ### Female Hormonal Health
-- Preliminary evidence suggests maca may reduce menopausal symptoms (hot flashes, night sweats, mood disturbances) without altering serum estrogen or FSH levels
+- Preliminary evidence suggests maca may reduce menopausal symptoms (hot flashes, [[blesching-cannabis-cancer-night-sweats]], mood disturbances) without altering serum estrogen or FSH levels
 - Animal studies show maca does not act as a phytoestrogen, unlike soy isoflavones
 - Evidence for improving sexual function in postmenopausal women (small trials)
 
@@ -141,5 +141,7 @@ The most extensively studied area. Multiple randomized controlled trials (RCTs) 
 ## See Also
 
 - [[withania-somnifera]] — another adaptogenic root
-- [[permaculture]] — design system for sustainable agriculture
-- [[three-sisters]] — traditional polyculture companion planting
+- permaculture — design system for [[phosphate-accumulators-sustainable-agriculture]]
+- three-sisters — traditional polyculture [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]
+- [[4-ho-dpt-entity-tihkal]]
+- [[mme-entity-pihkal]]

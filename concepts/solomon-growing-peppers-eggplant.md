@@ -1,5 +1,5 @@
 ---
-title: "Growing Peppers and Eggplant - Steve Solomon"
+title: "solomon growing peppers eggplant and Eggplant - Steve Solomon"
 created: 2026-04-26
 tags:
   - gardening
@@ -33,12 +33,12 @@ fluctuation. See
 
 Peppers typically need 60 to 90 days from transplanting to first harvest,
 depending on variety and climate. In short-season areas, choose early
-varieties and use black plastic mulch to extend the effective growing
+varieties and use black [[jadam-plastic-mulch-problems]] to extend the effective growing
 season.
 
 ## Growing Eggplant
 
-Eggplant may sometimes be direct-seeded where the growing season is long
+Eggplant may sometimes be direct-seeded where the [[savory-growing-season-and-non-growing-season-management]] is long
 enough, but most gardeners use transplants. Eggplant demands warm soil and
 air temperatures. The plants are somewhat more demanding of heat than
 peppers.
@@ -55,7 +55,7 @@ family is not threatening the continued availability of OP varieties.
 
 Solomon provides an important economic perspective on hybrid solanums.
 When it comes to the solanums -- tomato, pepper, eggplant -- which are
-self-pollinating species, hybrid seeds must be produced painstakingly by
+self-pollinating species, [[heirloom-vs-hybrid-seeds-comparison]] must be produced painstakingly by
 hand. Each pollination results in 100 or more seeds in one fruit, but each
 flower must be hybridized before it self-pollinates. A little flag must be
 tied to the stem of each worked flower cluster.
@@ -86,10 +86,10 @@ can exclude flea beetles during the vulnerable seedling stage. See
 
 ### General Strategy
 
-Solomon's approach to pest management emphasizes prevention through proper
+Solomon's approach to [[cannabis-pest-management-guide]] emphasizes prevention through proper
 soil fertility, adequate spacing, and variety selection rather than
 reactive treatments. Healthy plants on fertile soil with sufficient root
-room are remarkably resistant to both insects and diseases.
+room are remarkably resistant to both [[solomon-insects-and-diseases-integrated-approach]].
 
 ## Related Topics
 

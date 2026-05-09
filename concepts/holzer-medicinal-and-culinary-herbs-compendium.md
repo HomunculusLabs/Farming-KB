@@ -1,16 +1,17 @@
 ---
-title: Holzer Traditional Farm Medicine and Medicinal Herbs
+title: Holzer Traditional Farm Medicine and permaculture-plants-medicinal-herbs-healing
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Traditional Farm Medicine and Medicinal Herbs
 
-Sepp Holzer's farm at the Krameterhof has always functioned as both a food source and a pharmacy. His knowledge of medicinal and culinary herbs draws on Alpine farming traditions passed down through generations. This complements the [[holzer-problem-plant-regulation-with-livestock]] and medicinal/culinary herbs:
+Sepp Holzer's farm at the Krameterhof has always functioned as both a food source and a pharmacy. His knowledge of medicinal and holzer medicinal and culinary herbs compendium draws on [[holzer-alpine-farming-techniques]] traditions passed down through generations. This complements the [[holzer-problem-plant-regulation-with-livestock]] and medicinal/culinary herbs:
 - Hound's-tongue -- decoy for voles, medicinal
 - Pot marigold -- discourages nematodes, medicinal
 - Winter savoury -- keeps aphids away from beans, culinary
@@ -26,18 +27,18 @@ Several medicinal herbs are used to make liquid fertilisers that double as plant
 - Comfrey (Symphytum officinale) -- potassium-rich liquid manure for fruiting plants
 - Nettle (Urtica dioica) -- nitrogen and iron-rich general growth stimulant
 - Tansy (Tanacetum vulgare) -- can be included in liquid fertiliser mixes
-- Oak leaf tea -- fungal disease prevention
+- Oak leaf tea -- fungal [[cervantes-pest-disease-prevention-overview]]
 - Horsetail (Equisetum arvense) -- silica-rich, strengthens cell walls against fungal attack
 
 ## Connection to the Broader Farm System
 
 Medicinal and culinary herbs are integrated throughout the farm:
-- Near the kitchen garden gate for quick access (lovage, chives, garlic)
+- Near the [[holzer-kitchen-garden-herbs-and-medicinal-plants]] gate for quick access (lovage, chives, garlic)
 - On dry stony slopes where they develop more intense flavour (thyme, lavender, sage)
 - In moist nutrient-rich areas (mint, lemon balm, motherwort)
 - Around fruit trees as companion plants (pot marigold, borage, garlic)
 - In permanent pastures as self-seeding medicinal plants
-- In [[trigonella-foenum-graecum]]
+- In trigonella-foenum-graecum
 
 - [[composting-humus-building-holzer]]
 - [[holzer-polycultures-catch-crop-combinations]]
@@ -60,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

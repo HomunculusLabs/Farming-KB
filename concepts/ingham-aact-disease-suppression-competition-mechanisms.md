@@ -1,5 +1,5 @@
 ---
-title: AACT Disease Suppression Through Biological Competition
+title: AACT aact-disease-suppression-mechanisms-ingham Through Biological Competition
 tags: [compost-tea, disease-suppression, soil-foodweb, microbiology,
   ingham, biological-control]
 date: 2026-04-28
@@ -12,7 +12,7 @@ created: 2026-04-28
 
 # AACT Disease Suppression Through Biological Competition
 
-Dr. Elaine Ingham's research demonstrates that actively aerated compost tea
+Dr. Elaine Ingham's research demonstrates that actively [[actively-aerated-compost-tea]] tea
 (AACT) suppresses plant diseases not through toxic chemicals or
 antibiotics, but through fundamental ecological mechanisms: competition for
 resources, space, and infection sites. This distinction is critical for
@@ -26,7 +26,7 @@ does not directly kill disease organisms. Instead, it establishes
 conditions where beneficial organisms outcompete pathogens for the
 resources they need to survive and reproduce. The plant must be healthy
 enough to produce the exudates — Ingham calls them "cakes and cookies" —
-that support the beneficial microbial community.
+that support the beneficial [[edaphic-factors-microbial-community-structure]].
 
 When a vineyard or field has been in serious disease mode for years, weekly
 applications of tea (or compost) may be required to re-establish the
@@ -60,7 +60,7 @@ through AACT colonize available surfaces, forming protective biofilms. This
 physical occupation of space prevents pathogenic organisms from finding
 attachment points.
 
-On root surfaces, beneficial bacteria and mycorrhizal fungi form sheaths
+On root surfaces, beneficial bacteria and [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] form sheaths
 and biofilms that occupy the infection court — the specific locations where
 pathogens would normally attach and penetrate plant tissue. When these
 sites are already occupied, pathogens cannot establish. The biofilm also

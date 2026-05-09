@@ -22,11 +22,11 @@ Succession describes the progressive sequence of species replacement from bare g
 
 Hydrological cycling describes how water moves through soil profiles, plant tissues, atmospheric layers, and across landscapes. Energy flow describes how sunlight is captured by producers, transformed through trophic levels, and eventually dissipated as heat through the system.
 
-Additional behavioral patterns include **nutrient cycling** (decomposition, mineralization, and plant uptake), **population dynamics** (predator-prey oscillations and mutualistic relationships), and **migration and dispersal patterns** (how organisms, seeds, and genetic material move across landscapes over time).
+Additional behavioral patterns include **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]** ([[decomposition]], mineralization, and plant uptake), **population dynamics** (predator-prey oscillations and mutualistic relationships), and **migration and dispersal patterns** (how organisms, seeds, and genetic material move across landscapes over time).
 
 Seasonal cycles are perhaps the most fundamental behavioral pattern every designer must internalize. They dictate the timing of planting, harvest, grazing rotation, animal breeding, and construction activities throughout the year.
 
-Reading seasonal patterns deeply — understanding microclimate variation across a site, phenological cues from indicator species, and the characteristic lag between photoperiod shift and temperature change — transforms design from generic calendar-based guesswork into responsive, site-specific practice.
+Reading seasonal patterns deeply — understanding microclimate [[psilocybin-psilocin-variation-across-flushes]] a site, phenological cues from indicator species, and the characteristic lag between photoperiod shift and temperature change — transforms design from generic calendar-based guesswork into responsive, site-specific practice.
 
 ## The Pattern Language Approach
 
@@ -36,21 +36,21 @@ The concept of a "pattern language" originates in Christopher Alexander's archit
 
 A window seat positioned to catch morning light, a sheltered transition zone between street and interior, rooms illuminated from two sides — each of these represents a pattern that resolves a specific design tension while supporting human wellbeing.
 
-These patterns could be documented, named, combined, and applied by designers to create humane built environments. The 253 patterns in Alexander's catalog formed a generative grammar — a language for creating spaces where people naturally thrive.
+These patterns could be documented, named, combined, and applied by designers to create humane [[fungal-biodiversity-built-environments-indoor-mycobiome]]. The 253 patterns in Alexander's catalog formed a generative grammar — a language for creating spaces where people naturally thrive.
 
-Permaculture adopted this framework with great enthusiasm. Designers observe [[plant-guild]] design and community social networks. **Scatter patterns** guide tree planting in orchards and food forests, mimicking natural seed dispersal to reduce competition and increase diversity. **Circle patterns** organize mandala gardens, [[dynamic-accumulators]] such as comfrey, and allelopathic suppression of weeds by certain companion species. These interactions drive fertility cycling without external inputs.
+Permaculture adopted this framework with great enthusiasm. Designers observe plant guild design and community social networks. **Scatter patterns** guide tree planting in orchards and food forests, mimicking natural seed dispersal to reduce competition and increase diversity. **Circle patterns** organize mandala gardens, [[dynamic-accumulators]] such as comfrey, and allelopathic suppression of weeds by certain companion species. These interactions drive fertility cycling without external inputs.
 
-**Ecological factors** include attracting beneficial insects through nectar-rich flowers, repelling pests through aromatic compounds, providing habitat for predatory species, and creating multi-trophic food webs that keep pest populations in natural balance.
+**Ecological factors** include attracting [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] through nectar-rich flowers, repelling pests through aromatic compounds, providing habitat for predatory species, and creating multi-trophic food webs that keep pest populations in natural balance.
 
 The designer reads the pattern of how species relate in a wild ecosystem and replicates that relational pattern in the cultivated garden. The specific species may change to suit local conditions, but the underlying pattern of mutualistic interaction remains constant and transferable across contexts.
 
-## [[design-from-patterns-to-details]]
+## design-from-patterns-to-details
 
-The permaculture design principle "design from patterns to details" encapsulates the entire pattern-understanding approach in a single directive. It mandates that the designer always begin with the macro pattern and only then work toward micro details.
+permaculture design sign principle "[[permaculture-principle-design-from-patterns-to-details]] to details" encapsulates the entire pattern-understanding approach in a single directive. It mandates that the designer always begin with the macro pattern and only then work toward micro details.
 
 The macro pattern includes watershed boundaries and flow directions, the sun's seasonal arc, prevailing wind directions, broad vegetation communities, and soil types. Only after these large-scale patterns are thoroughly understood should the designer address plant spacing, material choices, and construction techniques.
 
-Starting with patterns ensures that every detail ultimately serves the larger whole. A beautifully constructed herb spiral placed without understanding the site's wind exposure and solar angles may look stunning but perform poorly in practice.
+Starting with patterns ensures that every detail ultimately serves the larger whole. A beautifully construc herb spiral iral placed without understanding the site's wind exposure and solar angles may look stunning but perform poorly in practice.
 
 When the macro pattern is understood first, each detail naturally finds its correct position within the overall design. Details emerge from patterns rather than being imposed upon them, resulting in designs that feel inevitable rather than arbitrary.
 
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

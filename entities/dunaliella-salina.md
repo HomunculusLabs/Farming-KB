@@ -24,9 +24,9 @@ sources:
 
 **Dunaliella salina** is an extremely halotolerant green microalga renowned for its ability to accumulate massive amounts of beta-carotene (up to 10–14% of dry weight) under high-light, high-salinity conditions. It is the world's primary commercial source of natural beta-carotene.
 
-The species is named after Michel Félix Dunal, who first observed it in salt evaporating ponds in Montpellier, France in 1838. Its extraordinary salt tolerance — surviving in saturated brine up to 35% NaCl — makes it a model organism for studying osmotic adaptation.
+The species is named after Michel Félix Dunal, who first observed it in salt evaporating ponds in Montpellier, France in 1838. Its extraordinary [[fungal-salt-tolerance-and-ion-homeostasis]] — surviving in saturated brine up to 35% NaCl — makes it a model organism for studying osmotic adaptation.
 
-Commercial beta-carotene production from *D. salina* has been operated at scale in Australia (Hutt Lagoon, Whyalla), Israel (Eilat), China, and the United States since the 1980s, making it one of the longest-running microalgal biotechnology ventures.
+Commercial beta-carotene production from *D. salina* has been operated at scale in Australia (Hutt Lagoon, Whyalla), Israel (Eilat), China, and the [[dmt-containing-plants-united-states-halpern]] since the 1980s, making it one of the longest-running microalgal biotechnology ventures.
 
 ## Taxonomy and Morphology
 
@@ -42,7 +42,7 @@ Unlike most green algae, *Dunaliella* can regulate its internal glycerol concent
 
 ## Biochemical Composition
 
-Beta-carotene is the signature compound, accumulating to 4–14% of dry weight under stress conditions. *D. salina* produces a mixture of 9-cis and all-trans beta-carotene isomers, with the 9-cis form being particularly valued for its enhanced bioavailability and antioxidant activity.
+Beta-carotene is the signature compound, accumulating to 4–14% of dry weight under stress conditions. *D. salina* produces a mixture of 9-cis and all-trans beta-carotene isomers, with the 9-cis form being particularly valued for its [[staycare-surfactant-enhanced-bioavailability-in-fungal-bioremediation]] and antioxidant activity.
 
 Total lipid content ranges from 8–20% of dry weight, increasing under stress. The lipid fraction is rich in galactolipids and betaine lipids, with notable amounts of alpha-linolenic acid (18:3n-3).
 
@@ -82,9 +82,9 @@ In its natural habitat, *D. salina* forms the base of simplified food chains sup
 
 ## Strain Improvement
 
-Multiple *D. salina* strains with differing beta-carotene content, growth rates, and salinity tolerances have been isolated from diverse hypersaline habitats worldwide. Strain selection remains the primary tool for commercial improvement, as genetic transformation protocols are less developed than for model chlorophytes.
+Multiple *D. salina* strains with differing beta-carotene content, growth rates, and salinity tolerances have been isolated from diverse hypersaline habitats worldwide. [[blesching-cannabis-strain-selection-receptor-targeting]] remains the primary tool for commercial improvement, as genetic transformation protocols are less developed than for model chlorophytes.
 
-Classical mutagenesis using UV and chemical agents has yielded strains with enhanced beta-carotene accumulation. However, strain stability over extended cultivation remains a challenge due to the absence of sexual reproduction for strain fixation.
+Classical mutagenesis using UV and chemical agents has yielded strains with enhanced beta-carotene accumulation. However, strain stability over extended cultivation remains a challenge due to the absence of [[fungal-life-cycles-sexual-reproduction-metamorphosis]] for strain fixation.
 
 The *D. salina* nuclear genome (~350 Mb) and chloroplast genome have been sequenced, providing resources for understanding carotenoid biosynthesis regulation and osmoregulatory gene networks.
 
@@ -94,7 +94,7 @@ The *D. salina* nuclear genome (~350 Mb) and chloroplast genome have been sequen
 
 *Dunaliella tertiolecta* is a marine species with lower salt tolerance that does not accumulate significant carotenoids. It is studied primarily as a model for lipid production and CO2 biofixation rather than as a commercial carotenoid source.
 
-The genus *Dunaliella* contains approximately 30 described species occupying diverse saline habitats. Molecular phylogenetics has revealed several cryptic species that are morphologically similar but genetically distinct, suggesting the genus diversity is underestimated.
+The genus *Dunaliella* contains approximately 30 described species occupying diverse saline habitats. Molecular phylogenetics has revealed several cryptic species that are morphologically similar but genetically distinct, suggesting the [[guzman-allen-gartz-copelandia-genus-diversity-biogeography]] is underestimated.
 
 ## See Also
 

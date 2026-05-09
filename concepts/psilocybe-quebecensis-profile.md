@@ -5,7 +5,8 @@ tags: [psilocybe, quebec, mycology, mushroom-profile, northern]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
 # Psilocybe quebecensis Profile
@@ -13,11 +14,11 @@ type: concept
 ## Taxonomy and Discovery
 
 Psilocybe quebecensis Ola'h and Heim is a moderately active
-psilocybin mushroom first described by Ola'h and Heim in 1967.
+[[emcdda-psilocybin-mushroom-dose-and-effects]] first described by Ola'h and Heim in 1967.
 The species was named for the Canadian province of Quebec, where it
 was originally discovered in the Jacques Cartier river valley. It
 belongs to the genus [[stamets-psi-psilocybe-baeocystis-knobby-tops]] for related
-North American species with similar ecological niches.
+[[growing-gourmet-north-american-reishi-species]] species with similar ecological niches.
 
 ## Macroscopic Features
 
@@ -30,7 +31,7 @@ not markedly undulated. It is translucent-striate when moist. The
 cap color is pale straw yellow and often has brownish or tawny
 hues, becoming more grayish in drying. The cap bruises bluish
 when touched or disturbed, an important field characteristic
-related to [[tropisms-psilocybe-cubensis-gravitropism]].
+related to tropisms-psilocybe-cubensis-gravitropism.
 
 ### Stem
 
@@ -70,7 +71,7 @@ substrates this species prefers.
 ## Chemical Constituents and Potency
 
 Psilocybe quebecensis is classified as moderately active according
-to Ola'h and Heim (1967). The bluing reaction upon bruising
+to Ola'h and Heim (1967). The [[field-guide-psilocybin-bluing-reaction-identification]] upon bruising
 confirms the presence of psilocin, which is consistent with
 moderate activity levels. Exact quantitative analyses of psilocybin
 and psilocin content do not appear in the literature reviewed by
@@ -84,7 +85,7 @@ studied species like P. cyanescens and P. cubensis.
 Stamets suggests that P. quebecensis is not well known to Quebec
 residents and that naturalized colonies could easily be established
 by those wishing to cultivate this species in their backyard. Its
-preference for riparian wood debris and flood-plain soils makes it
+preference for riparian [[microfungal-biodiversity-ecology-wood-debris-sampling]] and flood-plain soils makes it
 potentially amenable to outdoor cultivation in temperate northern
 climates. The species' restricted known distribution likely reflects
 limited collecting effort rather than true geographic range, since
@@ -112,7 +113,7 @@ stem base, mottled gills with whitish edges, and a straw-yellow
 coloration on drying should help distinguish this species from
 other small woodland mushrooms. The bluing reaction, while
 confirmatory of psilocin presence, should always be considered in
-conjunction with spore print color and habitat.
+conjunction with [[comparison-spore-print-collection-vs-spore-syringe-production]] color and habitat.
 
 ## See Also
 

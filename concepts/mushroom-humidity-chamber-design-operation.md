@@ -22,7 +22,7 @@ Key components:
 
 ### Humidity Maintenance
 
-Soaked hydro pellets serve as a passive humidity reservoir.
+Soaked hydro pellets serve as a [[simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation]] reservoir.
 Water evaporating from pellets maintains high relative humidity.
 Plastic sheeting prevents moisture escape and insect entry.
 This simple system requires regular monitoring and manual intervention.
@@ -64,14 +64,14 @@ creating bubbles that increase evaporation and continuously generate humid air.
 ### Advantages
 - More consistent humidity without manual intervention
 - Reduced need for frequent misting
-- Better air circulation within the chamber
+- Better [[stamets-growing-room-air-circulation-co2-management]] within the chamber
 - Lower maintenance during fruiting
 
 ### Drip Lid System
 
 Inner angled drip lids made from 2mm plastic sheet
 direct condensation back into the water reservoir
-rather than dripping onto growing mushrooms.
+rather than dripping onto [[falconer-growing-mushrooms-in-sheds]].
 This maintains even moisture distribution
 and prevents water damage to developing fruiting bodies.
 
@@ -90,8 +90,8 @@ For cold climates or winter growing:
 The container is filled with water;
 a heater maintains temperature.
 An input fan pushes warm humid air into the growing enclosure.
-The timer requires experimentation to balance temperature and humidity.
-Mushroom fruiting typically requires 18-24°C (65-75°F),
+The timer requires experimentation to balance [[greg-green-temperature-and-humidity-control]].
+[[ectomycorrhizal-mushroom-fruiting-ecology]] typically requires 18-24°C (65-75°F),
 varying by species.
 
 ## Monitoring and Maintenance
@@ -105,4 +105,4 @@ varying by species.
 
 ## Sources
 
-- Jarrold, D.H. Indoor Mushroom Growing Technique for the Boil-A-Bag.
+- Jarrold, D.H. Indoor [[duggar-mushroom-growing-history-and-methods]] Technique for the Boil-A-Bag.

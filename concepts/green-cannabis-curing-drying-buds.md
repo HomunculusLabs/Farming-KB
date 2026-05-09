@@ -1,5 +1,5 @@
 ---
-title: Curing and Drying Cannabis Buds
+title: Curing and Drying query-what-causes-airy-loose-cannabis-buds-and-how-to-prevent-them
 created: 2026-04-26
 tags:
   - cannabis
@@ -15,7 +15,7 @@ type: concept
 ---
 
 # Curing and [[greg-green]]'s "The
-Cannabis Grow Bible" describes curing as essential for producing a finer
+[[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible" describes curing as essential for producing a finer
 product, with the "canning" method being the most common and effective
 home technique. Properly cured bud smokes significantly better than
 uncured material, making this stage a critical final step in the
@@ -46,7 +46,7 @@ The drying process for Indica plants follows these steps:
 1. Cut the plant at the base (Indica plants typically range from 1 to 4
    feet tall).
 2. Hang the plant upside down in a cool room with no light and fresh
-   air circulation.
+   [[stamets-growing-room-air-circulation-co2-management]].
 3. Remove as many fan leaves as possible using clippers.
 4. Remove secondary leaves and place them in a separate pile.
 5. Gather trim from the bud -- "trim" is the small leaves covered in
@@ -76,7 +76,7 @@ ounces of bud. The procedure involves:
 ### Light Degradation Warning
 
 Light degrades THC quantities. The drying room does not need to be as
-light-proof as the grow room during 12/12, but harvested material should
+light-proof as the [[cannabis-grow-room-setup]] during 12/12, but harvested material should
 never be exposed to direct light.
 
 ## Drying Leaves and Trim

@@ -49,7 +49,7 @@ The species was originally described by Linnaeus in 1753 as *Agaricus violaceus*
 
 **Flesh:** Violet throughout, more intensely colored near the surface. The flesh is firm and has a mild, pleasant odor variously described as reminiscent of cedar, wet leaves, or iodine. The taste is mild to slightly bitter.
 
-**Spore Print:** Rust-brown to reddish-brown (ochraceous-rust).
+**[[spore-print]]:** Rust-brown to reddish-brown (ochraceous-rust).
 
 ### Microscopic Features
 
@@ -66,7 +66,7 @@ The species was originally described by Linnaeus in 1753 as *Agaricus violaceus*
 - **North America:** Occurs in the Pacific Northwest, Rocky Mountains, and northeastern forests, associated with spruce, fir, and pine.
 - **Asia:** Reported from Japan, China, and the Russian Far East.
 
-The species is strongly associated with mature, undisturbed forests and is considered an indicator of old-growth forest conditions. It forms ectomycorrhizal associations primarily with:
+The species is strongly associated with mature, undisturbed forests and is considered an indicator of old-growth forest conditions. It forms [[ectomycorrhizal-associations]] primarily with:
 
 - **Conifers:** Spruce (*Picea* spp.), fir (*Abies* spp.), pine (*Pinus* spp.)
 - **Broadleaf trees:** Oak (*Quercus* spp.), beech (*Fagus* spp.), birch (*Betula* spp.)
@@ -91,12 +91,12 @@ The species is sensitive to habitat disturbance, nitrogen deposition, and soil c
 
 - ***Cortinarius iodes***: A smaller North American species with a slimier, more glutinous cap and less intensely violet colors.
 - ***Cortinarius camphoratus***: Has a strong camphor or mothball odor and more grayish-violet tones.
-- ***Laccaria amethystina***: Also purple but much smaller, with waxy gills and a farinaceous (flour-like) odor. Spores are white, not rust-brown.
+- ***[[laccaria-amethystina]]***: Also purple but much smaller, with waxy gills and a farinaceous (flour-like) odor. Spores are white, not rust-brown.
 - ***Inocybe lilacina***: Small and lilac-colored with a brown spore print, but with a fibrous (not velvety) cap and characteristic odors of damp earth or spermatic.
 
 ## Phytochemistry
 
-Chemical analysis of *C. violaceus* has identified several bioactive compounds:
+Chemical analysis of *C. violaceus* has identified several [[cordyceps-cancer-bioactive-compounds]]:
 
 - **Violacein-like pigments:** The characteristic purple coloration is due to a mixture of anthraquinone-derived pigments unique to the species.
 - **Cortinarins:** Sesquiterpenoid compounds found in several Cortinarius species with reported anti-inflammatory properties.
@@ -112,7 +112,7 @@ No psychoactive compounds have been detected in this species.
 - **Temperature requirements:** Cool conditions (8–14°C) with adequate soil moisture.
 - **Trigger conditions:** Fruit production is often stimulated by the first significant autumn rainfall events and cooler nighttime temperatures.
 
-The species tends to be more abundant in years with warm, dry summers followed by wet autumns. This pattern is typical of many late-season ectomycorrhizal fungi that allocate resources to fruiting only after their host trees have completed seasonal growth.
+The species tends to be more abundant in years with warm, dry summers followed by wet autumns. This pattern is typical of many late-season [[ectomycorrhizal-fungi]] that allocate resources to fruiting only after their host trees have completed seasonal growth.
 
 ## Conservation and Monitoring
 
@@ -120,7 +120,7 @@ In several European countries, *Cortinarius violaceus* is used as a bioindicator
 
 - Undisturbed forest floor conditions with minimal soil compaction
 - Low levels of atmospheric nitrogen deposition
-- Well-established ectomycorrhizal networks
+- Well-established [[symbiotic-fungi-ectomycorrhizal-networks-overview]]
 - Continuously forested habitat for at least several decades
 
 Conservation efforts for this species focus on habitat preservation rather than direct intervention:

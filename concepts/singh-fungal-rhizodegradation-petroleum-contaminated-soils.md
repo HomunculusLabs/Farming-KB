@@ -13,7 +13,7 @@ type: concept
 
 Rhizodegradation, also termed phytoremediation-enhanced biodegradation, harnesses
 the synergistic interactions between plant roots and their associated fungal
-communities to accelerate petroleum hydrocarbon degradation in soil. Singh's
+communities to accelerate [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] degradation in soil. Singh's
 treatment emphasizes that the plant root zone, or [[mycorrhiza]] that serve as carbon
   and energy sources for hydrocarbon-degrading fungi. These exudates increase
   fungal biomass by 5 to 100 times compared to bulk soil.
@@ -21,7 +21,7 @@ treatment emphasizes that the plant root zone, or [[mycorrhiza]] that serve as c
   fortuitously degrade petroleum compounds. The [[singh-fungal-oxidation-petroleum-enzymes]]. Plant
   roots also enhance soil aggregation through fungal roles soil aggregate
   formation, increasing bioavailable surface area.
-- **Nutrient cycling**: [[singh-arbuscular-mycorrhizal-fungi-soil-remediation]] is the most studied
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: [[singh-arbuscular-mycorrhizal-fungi-soil-remediation]] is the most studied
 mycorrhizal approach for petroleum-contaminated soils. AMF such as
 Glomus, Rhizophagus, and Funneliformis species colonize plant roots and
 extend extraradical hyphae into contaminated soil, directly contacting
@@ -33,7 +33,7 @@ petroleum hydrocarbons. AMF contribute to [[mycorrhiza]]
 ### Ectomycorrhizal Fungi (ECM)
 
 Ectomycorrhizal fungi associated with trees at petroleum-contaminated forest
-sites contribute to degradation through [[singh-fungal-petroleum-hydrocarbon-metabolism]] metabolism at forested brownfield sites is
+sites contribute to degradation through singh-fungal-petroleum-hydrocarbon-metabolism metabolism at forested brownfield sites is
 particularly significant.
 
 ## Saprotrophic Fungi in the Rhizosphere
@@ -42,11 +42,11 @@ Beyond mycorrhizal associations, saprotrophic fungi in the rhizosphere
 contribute substantially to petroleum degradation:
 
 - **White-rot fungi**: White rot lignin modifying species including
-  Phanerochaete chrysosporium and Trametes versicolor colonize the
-  rhizosphere when organic amendments are present. Their [[singh-fungal-consortia-synergistic-biodegradation]]**: Complex communities of saprotrophic fungi,
+  [[staycare-phanerochaete-chrysosporium-in-bioremediation]] and [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] colonize the
+  rhizosphere when [[cervantes-organic-amendments-chart]] are present. Their [[singh-fungal-consortia-synergistic-biodegradation]]**: Complex communities of saprotrophic fungi,
   mycorrhizal fungi, and [[singh-fungal-biosurfactants-pollutant-removal]] produced by rhizosphere
   fungi enhance hydrocarbon bioavailability.
-- **Endophytic fungi**: Endophytic plant growth promotion combined with
+- **Endophytic fungi**: Endophytic plant [[brassinosteroid-growth-promotion-psilocybe-cubensis]] combined with
   endophyte-mediated hydrocarbon degradation creates internal remediation
   pathways within plant tissues.
 

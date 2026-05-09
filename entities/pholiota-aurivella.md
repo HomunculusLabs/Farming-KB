@@ -55,7 +55,7 @@ Recent molecular phylogenetic work has clarified the boundaries between *P. auri
 
 ## Distribution and Habitat
 
-*P. aurivella* is widely distributed across temperate regions of the Northern Hemisphere. It occurs throughout Europe from the Mediterranean to Scandinavia, across temperate Asia including Japan and Korea, and in eastern North America.
+*P. aurivella* is widely distributed across temperate regions of the Northern Hemisphere. It occurs throughout Europe from the Mediterranean to Scandinavia, across temperate Asia including Japan and Korea, and in [[polypore-fungi-eastern-north-america]] America.
 
 The fungus is primarily saprotrophic, decomposing dead hardwood. It frequently colonizes standing dead trunks, fallen logs, and large branches of oak (*Quercus* spp.), beech (*Fagus* spp.), elm (*Ulmus* spp.), and occasionally conifers.
 
@@ -83,13 +83,13 @@ Antimicrobial activity against *Staphylococcus aureus* and *Escherichia coli* ha
 
 Cultivation of *P. aurivella* on hardwood substrates has been reported on a small scale, primarily in China and Korea. The species accepts a range of hardwood sawdust substrates supplemented with bran or rice hulls.
 
-Optimal fruiting temperatures range from 15–20°C with high humidity (85–95% RH). Colonization of supplemented sawdust blocks proceeds over 30–45 days, with fruiting initiated by a cold shock or reduction in temperature. Biological efficiency on oak sawdust is moderate at 25–35%.
+Optimal fruiting temperatures range from 15–20°C with high humidity (85–95% RH). Colonization of [[oyster-mushroom-supplemented-sawdust-blocks]] blocks proceeds over 30–45 days, with fruiting initiated by a cold shock or reduction in temperature. [[stamets-biological-efficiency-yield]] on oak sawdust is moderate at 25–35%.
 
-The clustered growth habit and large fruiting body size make it an attractive candidate for specialty mushroom cultivation, though it remains uncommon in commercial production compared to *P. nameko*.
+The clustered growth habit and large fruiting body size make it an attractive candidate for specialty [[accessible-mushroom-cultivation-for-disabilities]], though it remains uncommon in commercial production compared to *P. nameko*.
 
 ## Ecological Role
 
-*P. aurivella* is a primary decomposer of hardwood in temperate forest ecosystems. It contributes to nutrient cycling by breaking down cellulose and lignin in coarse woody debris, facilitating the return of carbon and minerals to the soil.
+*P. aurivella* is a primary decomposer of hardwood in temperate forest ecosystems. It contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by breaking down cellulose and lignin in coarse woody debris, facilitating the return of carbon and minerals to the soil.
 
 The species serves as a food source for various invertebrates and small mammals. Fungal gnats (Mycetophilidae) are common associates of the fruiting bodies, and slugs frequently feed on mature caps.
 
@@ -101,7 +101,7 @@ In forest management contexts, the presence of *P. aurivella* indicates healthy 
 
 *P. squarrosa* (shaggy scalycap) has more erect, prominent scales and a bitter taste that discourages consumption. It is common on conifer wood and in urban settings.
 
-*P. squarrosoides* is a North American species with similar appearance but typically found on hardwood, with more subdued scaling and a less robust habit.
+*P. squarrosoides* is a [[growing-gourmet-north-american-reishi-species]] species with similar appearance but typically found on hardwood, with more subdued scaling and a less robust habit.
 
 ## Permaculture and Agroforestry Applications
 

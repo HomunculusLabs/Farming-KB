@@ -5,7 +5,8 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Spiritual Philosophy of Farming
@@ -83,12 +84,12 @@ The "do-nothing" nature is not laziness but the highest form of agriculture -- w
 
 ---
 
-Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of Green Philosophy
+Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of [[fukuoka-sowing-green-philosophy-one-grain-revolution]]
 
 ## See Also
 
 - [[fukuoka-natural-farming-philosophy]]
-- fukuoka spiritual philosophy farming
+- fukuoka fukuoka spiritual philosophy farming farming
 
 ## Merged: Fukuoka Spiritual Dimension Farming
 
@@ -112,6 +113,6 @@ Fukuoka drew a sharp distinction between the analytical knowledge of science and
 
 ## Nature's Perfection and Human Error
 
-Natural farming begins with the conviction that nature is perfect. If a barley sprout emerges and then wilts, "something unnatural has occurred and one reflects on the cause, which originates in human knowledge and action. One never blames nature, but begins by blaming oneself."
+[[comparison-natural-farming-vs-permaculture]] begins with the conviction that nature is perfect. If a barley sprout emerges and then wilts, "something unnatural has occurred and one reflects on the cause, which originates in human knowledge and action. One never blames nature, but begins by blaming oneself."
 
-"There is no good or evil in nature. Natural farming admits to the existence neither of insect pests nor of beneficial insects." When pest outbreaks occur, the cause lies in some human mistake -- seeding too densely, killing a beneficial fungus, upsetting the natural balance. The road diverges here: "turning back to nature for those who believe nature to be perfect, but leading on to the subjugation of nature for those who doubt its perfection." See [[fukuoka-view-of-nature-and-human-hubris]].
+"There is no good or evil in nature. Natural farming admits to the existence neither of insect pests nor of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]." When pest outbreaks occur, the cause lies in some human mistake -- seeding too densely, killing a beneficial fungus, upsetting the natural balance. The road diverges here: "turning back to nature for those who believe nature to be perfect, but leading on to the subjugation of nature for those who doubt its perfection." See [[fukuoka-view-of-nature-and-human-hubris]].

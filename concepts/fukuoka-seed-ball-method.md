@@ -4,21 +4,22 @@ created: 2026-04-28
 tags: [fukuoka, seed-balls, no-till, natural-farming, propagation]
 date: 2026-04-27
 updated: 2026-04-27
-sources: [raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
 # Fukuoka Seed Ball Method
 
-The seed ball method, sometimes called clay pellet seeding or "tsuchi dango"
+The seed ball method, sometimes called clay [[clay-pellet-seeding-technique]] or "tsuchi dango"
 (Japanese for "earth dumpling"), is Masanobu Fukuoka's signature technique for
-direct seeding without plowing, transplanting, or conventional seedbed
+[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] without plowing, transplanting, or conventional seedbed
 preparation. Seeds are encased in balls of clay and sometimes compost or topsoil,
 then broadcast over fields, roadsides, and even barren landscapes. The clay
 protects seeds from predation by birds, rodents, and insects while retaining
 moisture until rainfall triggers germination. This technique is central to
-Fukuoka's "do-nothing" natural farming philosophy and has been applied from
-Japanese rice paddies to desert reclamation projects worldwide.
+Fukuoka's "do-nothing" natural [[fukuoka-do-nothing-farming-philosophy-and-practice]] and has been applied from
+Japanese rice paddies to [[fukuoka-desert-reclamation-projects]] projects worldwide.
 
 ## Principles and Purpose
 
@@ -73,7 +74,7 @@ pesticides, though Fukuoka strongly advocates the natural clay approach.
 ## Rice Cultivation with Seed Balls
 
 In Fukuoka's direct-seeded rice and barley rotation system, seed balls play a
-critical role. Rice seed is enclosed in clay pellets and scattered over the
+critical role. Rice seed is enclosed in [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] and scattered over the
 field in mid-November or later. The overwintering rice seed must be coated to
 survive freezing temperatures. Seeds coated with synthetic resin solution
 containing fungicide and pesticide will survive the winter, but to eliminate
@@ -115,7 +116,7 @@ vegetable seeds add food production potential.
 ## Practical Tips and Considerations
 
 When making seed balls, several practical considerations affect success:
-- Clay pellets must be thoroughly dried before storage to prevent mold
+- Clay pellets must be thoroughly dried before storage to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]]
 - Seed viability decreases with long storage; use fresh seed when possible
 - Pellet size affects broadcasting distance and accuracy
 - Large-scale production requires mechanical mixing and screening equipment
@@ -127,6 +128,6 @@ The seed ball method represents one of the most elegant expressions of natural
 farming philosophy: working with nature rather than against it. By allowing
 seeds to germinate when and where natural conditions are favorable, the farmer
 saves enormous labor while achieving results that often surpass conventional
-methods. The technique has been adopted by [[permaculture-grain-crops]] designers, and [[clay-seed-balls-tsuchi-dango]]
+methods. The technique has been adopted by permaculture-grain-crops designers, and [[clay-seed-balls-tsuchi-dango]]
 - [[fukuoka-straw-mulch-system]]
 - [[no-till-grain-strategy]]

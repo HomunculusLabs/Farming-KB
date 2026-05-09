@@ -1,10 +1,11 @@
 ---
-title: "Hash and Cannabis Oil Production"
+title: "Hash and cervantes hash cannabis oil production Production"
 created: 2026-04-28
 tags: [hash-oil, cannabis-oil, extraction, butane, honey-oil]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md]
+sources: sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -29,7 +30,7 @@ starting material and extraction efficiency. However, hash and
 cannabis oils frequently retain residues from the solvents used in
 extraction, which represent a health risk to consumers.
 
-Honey oil was popular in America during the early 1970s. It was
+[[cannabis-honey-oil-production]] was popular in America during the early 1970s. It was
 a translucent golden-amber color with a consistency that ranged
 from stiff and toffee-like at room temperature to runny oil when
 warmed. Most cannabis oils are darker in color because they contain
@@ -49,8 +50,8 @@ glass bubble, and heat is applied to vaporize the THC for inhalation.
 
 Cervantes does not recommend volatile solvent extraction due to
 the dangerous chemicals involved. Common solvents include isopropyl
-alcohol, ethyl alcohol, and white gas (naphtha). The basic process
-involves soaking cannabis material in the solvent, then removing
+alcohol, [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]], and white gas (naphtha). The basic process
+involves [[knf-seed-soaking-cannabis-germination]] material in the solvent, then removing
 the solvent by evaporation. The resulting residue is a sludge
 containing chlorophyll, plant waxes, other debris, and cannabinoids.
 
@@ -100,7 +101,7 @@ similar to cannabutter. Well-made cannabis oil is extremely potent,
 and dosing must be carefully controlled. The oil can be incorporated
 into any recipe that calls for oil or butter, providing an
 alternative to smoking for medical patients who prefer edible
-consumption methods. As with all cannabis edibles, onset is delayed
+consumption methods. As with all [[oner-cannabis-edibles-infusion-dosing]], onset is delayed
 compared to inhalation, and effects tend to be stronger and longer
 lasting.
 

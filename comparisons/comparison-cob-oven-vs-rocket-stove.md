@@ -43,7 +43,7 @@ making it extraordinarily efficient for daily cooking tasks.
 The basic design consists of a horizontal feed tube, vertical burn tunnel, and
 insulated heat riser, topped with a cooking surface. Materials range from steel
 pipe and firebrick to cast refractory and cob, with perlite, vermiculite, or
-wood ash serving as insulation. The rocket mass heater variant extends the
+wood ash serving as insulation. The [[query-what-is-a-rocket-mass-heater-and-how-does-it-work]] heater variant extends the
 concept by running exhaust through a horizontal flue embedded in a cob bench,
 storing heat for twelve to twenty-four hours from a single one to two hour burn.
 The mass heater variant achieves 80 to 90 percent wood reduction compared to
@@ -54,7 +54,7 @@ conventional wood stoves, with near-zero creosote buildup in the chimney system.
 | Aspect | Cob Oven | Rocket Stove |
 |--------|----------|--------------|
 | Primary Use | Baking, roasting, retained-heat | Boiling, frying, sauteing, heating |
-| Temperature Range | 700 to 900 F peak | 800 to 1,200 F at combustion chamber |
+| [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] | 700 to 900 F peak | 800 to 1,200 F at combustion chamber |
 | Fuel Efficiency | Moderate (1 to 2 hr fire) | Very high (twigs, near-complete burn) |
 | Heat Duration | 4 to 8 hrs retained heat | Immediate, stops when fuel ends |
 | Cooking Style | Batch (fire, then bake sequentially) | Continuous (cook while feeding fuel) |
@@ -83,7 +83,7 @@ priorities. The ability to cook with twigs and prunings rather than split
 firewood makes it invaluable for emergency preparedness, off-grid living, and
 daily cooking in fuel-scarce situations. The mass heater variant provides space
 heating alongside cooking capability, making it an excellent primary heat source
-for well-insulated homes. Rocket stoves are also ideal for greenhouse heating,
+for well-insulated homes. Rocket stoves are also ideal for [[biomass-compost-greenhouse-heating-systems]],
 syrup boiling, canning, and poultry processing, where sustained high heat output
 is needed for extended processing sessions without excessive fuel consumption.
 
@@ -100,6 +100,8 @@ for separate appliances and creates an efficient, beautiful outdoor kitchen
 centerpiece that serves the homestead year-round through all seasons.
 
 ## See Also
+
+- [[comparison-cob-oven-construction-vs-rocket-stove]]
 
 - [[comparison-rocket-stove-vs-masonry-heater]]
 - [[rocket-mass-heater-design]]

@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Shellard EJ, Houghton PJ, Resha D (1978). "The Mitragyna species of Asia. Part XXXIV: The alkaloids of Mitragyna speciosa from Thailand." Planta Medica 34(1): 79-81.
+  - Shellard EJ, Houghton PJ, Resha D (1978). "The Mitragyna species of Asia. Part XXXIV: The alkaloids of kratom-mitragyna-speciosa-pharmacology from Thailand." Planta Medica 34(1): 79-81.
   - Takayama H, Ishikawa H, Kurihara M, et al. (2002). "Studies on the synthesis of Monoterpene Indole Alkaloids and related compounds. Part 236." Tetrahedron 58(51): 10315-10321.
   - Kruegel AC, Grundmann O (2018). "The medicinal chemistry and neuropharmacology of kratom." Planta Medica 84(12-13): 890-899.
   - Varadi A, Marrone GF, Palmer TC, et al. (2016). "Mitragynine/corynantheidine pseudoindoxyls as opioid analgesics with mu agonism and delta antagonism." Journal of Medicinal Chemistry 59(18): 8381-8397.
@@ -56,7 +56,7 @@ Pharmacological studies suggest it contributes to the overall opioidergic
 activity of kratom but is not a primary driver of the plant's analgesic
 effects.
 
-In vitro receptor binding assays show preferential affinity for delta- and
+In vitro [[tihkal-receptor-binding-serotonin]] assays show preferential affinity for delta- and
 kappa-opioid receptors over mu-opioid receptors. This receptor profile
 suggests speciogynine may modulate the overall opioid effect of kratom,
 potentially attenuating mitragynine's mu-mediated respiratory depression.
@@ -69,7 +69,7 @@ antinociceptive and anxiolytic effects reported by kratom users.
 ## Occurrence in Mitragyna speciosa
 
 Speciogynine concentrations in kratom leaf vary by geographical origin,
-harvest timing, and processing method. Typical leaf concentrations range from
+[[cannabis-harvest-timing-visual-cues]], and processing method. Typical leaf concentrations range from
 0.5 to 1.5 mg/g of dried leaf material.
 
 Thai and Malaysian kratom varieties show differing alkaloid ratios. Malay
@@ -96,14 +96,14 @@ tied to kratom regulation. Kratom is controlled or banned in several
 countries and US states, making speciogynine effectively controlled where
 the plant is prohibited.
 
-In the United States, kratom remains unscheduled at the federal level but is
+In the [[dmt-containing-plants-united-states-halpern]], kratom remains unscheduled at the federal level but is
 banned in several states and municipalities. The DEA has previously
 considered scheduling kratom and its alkaloids but has not enacted federal
 control as of 2026.
 
 ## See Also
 
-- [[mitragynine]]
+- mitragynine
 - [[berberine]]
 - [[coptis-chinensis]]
 - [[sanguinaria-canadensis]]

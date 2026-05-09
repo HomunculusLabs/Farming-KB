@@ -44,7 +44,7 @@ C. spinosa tolerates temperatures from −10 °C to 45 °C and survives on annua
 
 Caper bushes are propagated by seed, cuttings, or root division. Seed germination is slow and irregular, often requiring scarification or stratification. Semi-hardwood cuttings taken in late summer root more reliably and produce plants true to type.
 
-Commercial plantings use spacing of 1.5–2.5 m between plants, yielding 3,000–5,000 kg of capers per hectare annually. Harvesting flower buds requires repeated hand-picking at 6–9 mm diameter before they open, typically every 8–12 days during the growing season.
+Commercial plantings use spacing of 1.5–2.5 m between plants, yielding 3,000–5,000 kg of capers per hectare annually. Harvesting flower buds requires repeated hand-picking at 6–9 mm diameter before they open, typically every 8–12 days during the [[savory-growing-season-and-non-growing-season-management]].
 
 The buds are sun-dried or brined, then packed in vinegar or salt. Caperberries (young fruits, 2–3 cm) are also harvested commercially and pickled whole. Major producers include Spain, Italy, Morocco, Turkey, and Iran.
 
@@ -56,11 +56,11 @@ Caper buds and aerial parts contain a distinctive phytochemical profile dominate
 
 Major flavonoids include rutin, quercetin, kaempferol, and isorhamnetin glycosides. Other constituents include tocopherols (vitamin E), carotenoids (β-carotene, lutein), and phenolic acids (caffeic, ferulic, p-coumaric acids).
 
-The antioxidant capacity of caper extracts is among the highest of all culinary herbs and spices, attributed to the combined flavonoid and tocopherol content. Methanolic extracts show strong DPPH and ABTS radical scavenging activity in vitro.
+The antioxidant capacity of caper extracts is among the highest of all [[holzer-medicinal-and-culinary-herbs-compendium]] and spices, attributed to the combined flavonoid and tocopherol content. Methanolic extracts show strong DPPH and ABTS radical scavenging activity in vitro.
 
-Ethnopharmacological uses include treatment of rheumatism, gout, diabetes, and gastrointestinal disorders. Modern studies report anti-inflammatory, hepatoprotective, antidiabetic, and antimicrobial activities in animal models, though human clinical trials remain limited.
+Ethnopharmacological uses include treatment of rheumatism, gout, diabetes, and gastrointestinal disorders. Modern studies report anti-inflammatory, hepatoprotective, antidiabetic, and antimicrobial activities in animal models, though human [[mushroom-cancer-clinical-trials-overview]] remain limited.
 
-Topical preparations from caper root bark have documented use for treating skin conditions and joint pain in Mediterranean and Middle Eastern traditional medicine. Hydroalcoholic extracts of the aerial parts exhibit significant COX-2 inhibition.
+Topical preparations from caper root bark have documented use for treating [[cannabis-for-skin-conditions-detailed]] and joint pain in Mediterranean and Middle Eastern traditional medicine. Hydroalcoholic extracts of the aerial parts exhibit significant COX-2 inhibition.
 
 ## Culinary and Nutritional Use
 
@@ -80,7 +80,7 @@ The flowers are pollinated primarily by bees, wasps, and butterflies. The nectar
 
 The plant serves as a host for several Lepidoptera species, including the caper white butterfly (*Capparis* spp.). The spiny architecture provides shelter for small birds and lizards in arid landscapes.
 
-Its drought tolerance and ability to colonize disturbed, nutrient-poor substrates make it a pioneer species in degraded Mediterranean ecosystems. It contributes to soil formation through leaf litter decomposition and root exudation.
+Its [[dighton-fungal-drought-tolerance-plant-water-relations]] and ability to colonize disturbed, nutrient-poor substrates make it a pioneer species in degraded Mediterranean ecosystems. It contributes to soil formation through leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]] and root exudation.
 
 ## Traditional Medicine
 

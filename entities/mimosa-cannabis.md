@@ -1,5 +1,5 @@
 ---
-title: Mimosa (Cannabis Strain)
+title: Mimosa (blesching-cannabis-strain-selection-receptor-targeting)
 created: 2026-04-28
 type: strain
 tags:
@@ -27,11 +27,11 @@ sources:
 - Cross of *[[larry-og]]*
 - Famous for sweet grape and blueberry flavors with relaxing body effects
 - High caryophyllene and myrcene content
-- Contributes body relaxation, berry undertones, and enhanced resin production
+- Contributes body relaxation, berry undertones, and enhanced [[cannabis-glandular-trichome-types-resin-production-clarke]]
 
 ### Genetic Ratio
 - Approximately **70% sativa / 30% indica** (varies slightly by phenotype)
-- Exhibits hybrid vigor from the complementary parent profiles
+- Exhibits [[cannabis-hybrid-vigor-and-phenotypes-clarke]] from the complementary parent profiles
 - Several phenotypes exist, ranging from more Clementine-dominant (taller, more cerebral) to Purple Punch-dominant (shorter, more relaxing)
 
 ## Aroma and Flavor Profile
@@ -54,7 +54,7 @@ sources:
 |---------|--------------|-----------------|
 | **Limonene** | 1.0–2.5% | Mood elevation, stress relief, anti-anxiety |
 | **Myrcene** | 0.5–1.5% | Relaxation, sedation (at higher levels), anti-inflammatory |
-| **β-Caryophyllene** | 0.3–0.8% | Anti-inflammatory, pain relief via CB2 receptor binding |
+| **β-Caryophyllene** | 0.3–0.8% | Anti-inflammatory, pain relief via CB2 [[tihkal-receptor-binding-serotonin]] |
 | **[[humulene]]** | 0.1–0.2% | Appetite suppression, anti-inflammatory |
 
 The limonene-dominant profile is the defining characteristic — Mimosa consistently ranks among the most citrus-forward strains available.
@@ -68,7 +68,7 @@ The limonene-dominant profile is the defining characteristic — Mimosa consiste
 - **THCV:** Trace amounts in some phenotypes
 
 ### Dominant Cannabinoids
-Mimosa is a **THC-dominant strain** with virtually no CBD. The entourage effect arises primarily from the interplay between high THC and the limonene-rich terpene profile. Users seeking CBD benefits should look to companion strains or CBD-dominant products.
+Mimosa is a **THC-dominant strain** with virtually no CBD. The [[cannabis-terpene-entourage-effect-profiles]] arises primarily from the interplay between high THC and the limonene-rich terpene profile. Users seeking CBD benefits should look to companion strains or CBD-dominant products.
 
 ## Effects
 
@@ -100,7 +100,7 @@ Mimosa is a **THC-dominant strain** with virtually no CBD. The entourage effect 
 ## Medical Applications
 
 - **Depression:** Uplifting effects popular for managing depressive symptoms
-- **Chronic fatigue:** Energizing properties combat lethargy and low motivation
+- **[[cannabis-chronic-fatigue-research]]:** Energizing properties combat lethargy and low motivation
 - **Stress/anxiety:** Limonene's anxiolytic properties complement THC's mood effects
 - **Mild pain:** Caryophyllene and humulene provide moderate anti-inflammatory relief
 - **PTSD:** Some report mood stabilization and reduced hypervigilance (individual)
@@ -133,4 +133,3 @@ Mimosa is a **THC-dominant strain** with virtually no CBD. The entourage effect 
 ## See Also
 
 - [[cannabis-blue-dream]]
-- [[cannabis-blue-dream]] — similar sativa-dominant hybrid with balanced effects

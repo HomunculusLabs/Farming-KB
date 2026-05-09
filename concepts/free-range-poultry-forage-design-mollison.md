@@ -1,5 +1,5 @@
 ---
-title: Free Range Poultry Forage Design Mollison
+title: Free free range poultry forage design mollison Forage Design Mollison
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -12,9 +12,9 @@ sources:
 
 updated: 2026-04-18
 
-Permaculture Two (1979) Chapter 8 presents the most comprehensive free-range poultry forage system design in permaculture literature. This extends [[carob]] (Ceratonia siliqua) -- Seeds and pods stored for milling
-- Honey locust (Gleditsia triacanthos)
-- Black locust (Robinia pseudoacacia) -- Seed; leaves may poison stock
+Permaculture Two (1979) Chapter 8 presents the most comprehensive free-range poultry forage system design in permaculture literature. This extends carob (Ceratonia siliqua) -- Seeds and pods stored for milling
+- [[permaculture-honey-locust-pod-fodder-system]] (Gleditsia triacanthos)
+- [[comparison-black-locust-vs-honey-locust]] (Robinia pseudoacacia) -- Seed; leaves may poison stock
 - Mesquites (Prosopis and Strombocarpa) -- Resistant to salt and drought
 - Acacias: A. giraffae, A. albida, A. aneura, A. kempeana, A. boloserica, A. cowleana, A. victoriae, A. binervata, A. longifolia, A. peuce, A. oswaldia
 
@@ -31,13 +31,13 @@ Permaculture Two (1979) Chapter 8 presents the most comprehensive free-range pou
 ### Vines
 - Dolichos spp. -- Well-suited to pigeons, temperate to tropical
 - Passionfruit (Passiflora spp.) -- Banana and black passionfruit eagerly eaten; banana passionfruit frost-resistant
-- Kudzu vine (Thunbergia) -- Free-seeding rambler for poultry feed
+- Kudzu vine (Thunbergia) -- Free-seeding rambler for [[knf-poultry-feed-preparation]]
 - Chayote (Choko) -- Waste piles or low trellis
 - Gabizura (Actinostemma lobatum) -- Scrambler with oily seeds
 
 ### Roots
 - Nut-grass (Eleocharis) and sour-grass (Oxalis spp.) -- Poultry eat leaves, stems, tubers
-- Jerusalem artichoke (Helianthus) -- Pulled as needed, flourishes under oak forest
+- [[comparison-jerusalem-artichoke-vs-potato]] (Helianthus) -- Pulled as needed, flourishes under oak forest
 
 ### Greens and Herb Layer
 - Clovers, medics, lucerne, chicory, asparagus, plantain, fennel, mixed grasses
@@ -67,7 +67,7 @@ As for orchards: area controlled for browsing herbivores, sown to herbal leys, n
 ## Regulation of Yield
 
 ### Seasonal Forage Pattern
-- Hard seed ([[carob]] yields 3-6 beans daily for 3 goats all year = at least 1,000 G.F.D. (goat forage days) concentrate value. This enables preferential planting of highest-value species.
+- Hard seed (carob yields 3-6 beans daily for 3 goats all year = at least 1,000 G.F.D. (goat [[poultry-forage-days-mollison]]) concentrate value. This enables preferential planting of highest-value species.
 
 ### Egg Production Through Variety Selection
 - Dorkings for winter
@@ -97,4 +97,7 @@ Stored food from two sources: hard seed pods and seed heads from strawyards; gat
 
 ## See Also
 
-- [[mollison-free-range-poultry-forage-design]]
+- mollison-free-range-poultry-forage-design
+- [[mollison-designers-free-range-forage-design-principles]]
+- [[mollison-designers-poultry-forage-design-pastured-systems]]
+- [[ceratonia-siliqua]]

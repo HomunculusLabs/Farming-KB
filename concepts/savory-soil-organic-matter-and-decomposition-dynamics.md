@@ -1,5 +1,5 @@
 ---
-title: "Soil Organic Matter and Decomposition Dynamics"
+title: "Soil hamilton-composting-and-organic-matter-management and Decomposition Dynamics"
 created: 2026-04-28
 tags: [holistic-management, soil-organic-matter, decomposition,
       mineral-cycle, soil-biology, carbon-sequestration, soil-health]
@@ -11,10 +11,10 @@ type: concept
 
 # Soil Organic Matter and Decomposition Dynamics
 
-Soil organic matter is the foundation of the mineral cycle management.
+Soil organic matter is the foundation of the [[savory-mineral-cycle-management]] management.
 It provides crumb structure for water infiltration, nutrient-holding
 capacity that prevents leaching, and energy for soil organisms that
-drive decomposition and nutrient cycling. Understanding organic matter
+drive decomposition and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. Understanding organic matter
 dynamics is essential to [[desertification]] causes.
 
 ## What Is Soil Organic Matter?
@@ -22,7 +22,7 @@ dynamics is essential to [[desertification]] causes.
 Soil organic matter consists of partially decomposed plant and animal
 residues in various stages: fresh litter on the surface, partially
 decomposed humus, stable humus incorporated into the soil matrix,
-living organisms from bacteria to earthworms, and dead roots and root
+[[savory-living-organisms-as-tools]] from bacteria to earthworms, and dead roots and root
 exudates. The chemistry by which organic molecules bind mineral
 elements derives from the same principles that create beneficial crumb
 structure.
@@ -97,9 +97,9 @@ to plants and animals may lie beyond shallow roots' reach.
 
 ## The Role of Soil Organisms
 
-Small animals play important roles in nutrient uplift and organic
+Small animals play important [[dighton-fungal-roles-in-nutrient-cycling]] uplift and organic
 incorporation: earthworms in moist environments create channels for
 aeration; termites in dry areas build structures and process material;
-bacteria and fungi are primary decomposers; [[savory-soil-carbon-sequestration]] - Organic matter as carbon storage
+bacteria and fungi are primary decomposers; [[savory-soil-carbon-sequestration]] - Organic matter as [[holmgren-soil-humus-carbon-storage-rebuilding]]
 - brittle environments - Where decomposition dynamics are critical
 - [[savory-water-cycle-management]] - How organic matter affects infiltration

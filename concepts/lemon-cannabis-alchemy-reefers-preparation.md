@@ -11,17 +11,17 @@ type: concept
 
 # Preparation of Reefers (Oil-Impregnated Cannabis Cigarettes)
 
-Chapter 9 of *Cannabis Alchemy* by Ben Lemon describes the preparation
+Chapter 9 of *[[lemon-cannabis-alchemy-advanced-refinement-techniques]]* by Ben Lemon describes the preparation
 of "reefers," a term used to describe marijuana cigarettes that have
 been impregnated with cannabis extract. This technique combines the
 convenience of a traditional joint with the greatly increased potency of
-refined cannabis oil preparations.
+refined [[cervantes-hash-cannabis-oil-production]] preparations.
 
 ## Definition and Context
 
 The term "reefer" has sometimes been used to describe a marijuana
 cigarette which has been impregnated with cannabis extract. The term
-has a long history in cannabis culture, originally being early 20th
+has a long history in [[mckenna-cannabis-culture-history]], originally being early 20th
 century slang for marijuana cigarettes in general. It was repopularized
 in the 1960s and by the 1970s had come to specifically describe joints
 enhanced with cannabis oil extracts, also called "oilers."
@@ -119,6 +119,8 @@ Several practical factors affect the quality of oil-impregnated reefers:
   roll. Using slightly thicker or heavier rolling papers may help.
 
 ## Related
+
+- [[lemon-cannabis-alchemy-hashish-preparation]]
 
 - [[lemon-cannabis-alchemy-tinctures-and-edibles]]
 - [[lemon-cannabis-alchemy-direct-vaporization]]

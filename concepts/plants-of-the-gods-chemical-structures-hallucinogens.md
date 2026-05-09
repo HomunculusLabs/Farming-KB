@@ -1,5 +1,5 @@
 ---
-title: "Chemical Structures of Hallucinogens"
+title: "plants of the gods chemical structures hallucinogens of Hallucinogens"
 created: 2026-04-28
 tags:
   - chemistry
@@ -34,9 +34,9 @@ structure. Both are derivatives of phenylethylamine.
 
 Psilocybin and psilocin, the active principles of Teonanacatl (the
 hallucinogenic Mexican mushrooms of the [[plants-of-the-gods-turbina-corymbosa-ololiuqui]] vine
-(*Turbina corymbosa*) contains hallucinogenic principles that are also
+(*[[plants-of-the-gods-turbina-corymbosa-ololiuqui]]*) contains hallucinogenic principles that are also
 tryptamine derivatives. In this case, tryptamine is incorporated in a
-complex ring structure called ergoline. Lysergic acid amide and lysergic
+complex ring structure called ergoline. [[ergot-and-lysergic-acid-history]] amide and lysergic
 acid hydroxyethylamide (the two principal active constituents of
 Ololiuqui) share this ergoline structure with the neurotransmitter
 serotonin and with the [[schultes-peyote-and-mescaline]]);
@@ -60,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

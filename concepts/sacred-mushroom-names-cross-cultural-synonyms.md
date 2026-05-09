@@ -1,5 +1,5 @@
 ---
-title: Sacred Mushroom Names and Cross-Cultural Synonyms
+title: allegro-the-sacred-mushroom-amanita-identification Names and Cross-Cultural Synonyms
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
@@ -13,7 +13,7 @@ The entheogenic mushroom — particularly [[rammed-earth]] compiled an encyclope
 
 ## The Pattern of Cross-Cultural Naming
 
-The central observation in ethnomycological scholarship is that many seemingly unrelated religious traditions share a remarkably consistent set of symbols and names for their sacred sacramental substance. [[soma-and-the-sacred-mushroom-debate]] as Amanita muscaria, and subsequent researchers have extended the analysis across many cultures.
+The central observation in ethnomycological scholarship is that many seemingly unrelated religious traditions share a remarkably consistent set of symbols and names for their sacred sacramental substance. [[soma-and-the-sacred-mushroom-debate]] as [[allegro-amanita-muscaria-properties-and-pharmacology]], and subsequent researchers have extended the analysis across many cultures.
 
 The mushroom's distinctive morphology — its red-and-white coloration, its growth from a white "egg" (button stage), its umbrella-like upturned cap with radiating gills, and its mycorrhizal association with coniferous and birch trees — provides a natural template for a wide range of symbolic interpretations. Each culture that encountered the mushroom interpreted its features through its own cosmological framework, producing a rich vocabulary of names that encode both the mushroom's physical properties and the entheogen-culture|entheogenic experience it produces.
 
@@ -103,4 +103,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

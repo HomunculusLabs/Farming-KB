@@ -1,5 +1,5 @@
 ---
-title: Sleeping Dreams and Waking Dreams
+title: powell sleeping dreams and [[psilocybin-waking-dreams-and-serotonergic-neurochemistry]] psilocybin-waking-dreams-and-serotonergic-neurochemistry
 created: 2026-04-28
 tags: [dreams, waking-dreams, REM-sleep, serotonin, psilocybin,
   neuroscience, consciousness, visionary-experience]
@@ -12,7 +12,7 @@ type: concept
 # Sleeping Dreams and Waking Dreams
 
 Simon G. Powell explores the profound parallel between normal dreaming and
-the visionary states produced by psilocybin, arguing that entheogenic visions
+the visionary states produced by psilocybin, arguing that [[powell-universal-symbology-in-entheogenic-visions]]
 may represent a form of "waking dreams." Both states involve the liberation
 of neuronal firing patterns normally kept suppressed by the brain's
 serotonergic system, and both yield rich, imagistic experiences that convey
@@ -59,6 +59,7 @@ understood as the result of waking dreams, or at least as emerging from
 neuronal processes similar to those that occur during sleep. This idea is not
 only theoretically compelling but intuitively correct: the [[powell-psilocybin-brain-plasticity]], [[powell-mutability-of-consciousness-chemical-lens]],
 [[powell-the-other-and-sentient-presence]]
+
 ## Practical Considerations
 
 Successful implementation of Sleeping Dreams and Waking Dreams requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

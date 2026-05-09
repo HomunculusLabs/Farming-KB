@@ -1,5 +1,5 @@
 ---
-title: Legume Nitrogen Fixation Mechanism
+title: Legume comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer Mechanism
 created: 2026-04-28
 tags:
   - nitrogen-fixation
@@ -60,7 +60,7 @@ attest.
 
 ## The Nitrogen Savings Account
 
-During the growing season, the nitrogen gathered by a legume's roots is
+During the [[savory-growing-season-and-non-growing-season-management]], the nitrogen gathered by a legume's roots is
 not immediately available to surrounding plants. Instead, it is banked
 in what can be described as a temporary "savings account" distributed
 throughout the stems and leaves of the entire plant. Research has shown
@@ -77,7 +77,7 @@ more nitrogen than it has absorbed from the soil.
 ## Seasonal Nitrogen Dynamics
 
 The distribution of nitrogen within a legume plant shifts dramatically
-over the course of a growing season. During vegetative growth, nitrogen
+over the course of a growing season. During [[cannabis-vegetative-growth-stage]], nitrogen
 concentrates in the foliage. When the plant begins to flower, the
 demand for nitrogen surges as the plant redirects its resources toward
 reproduction. The plant draws heavily on its nitrogen savings account
@@ -136,9 +136,9 @@ time for the next crop to use it.
 - [[legume-nitrogen-dynamics]]
 - [[mollison-designers-legume-tree-inoculation-and-nitrogen-distribution]]
 
-- Nitrogen availability in legume plants is governed by growth stage and
+- Nitrogen availability in legume plants is governed by [[cho-plant-growth-stage-treatment-protocols]] and
   whether the plant has flowered or set seed.
-- Legume nitrogen yields vary widely by species, from 40 to 250 pounds
+- Legume [[legume-nitrogen-yields-by-species]] vary widely by species, from 40 to 250 pounds
   per acre annually.
-- Green manure and cover crop strategies provide the framework for
+- [[comparison-green-manure-guide-vs-mulch-types-and-effects]] and cover crop strategies provide the framework for
   capturing legume-fixed nitrogen effectively.

@@ -1,5 +1,5 @@
 ---
-title: Dam Construction in Permaculture
+title: comparison-dam-construction-vs-swale-design in Permaculture
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Dam Construction in Permaculture
 
-Dam construction in permaculture is the design and building of water storage structures for irrigation, stock water, domestic supply, aquaculture, fire protection, and landscape rehydration. Dams (also called ponds or impoundments) are central elements of permaculture water strategy, especially in arid and seasonally dry climates. Bill Mollison covers dam design extensively in his water chapter and dryland strategies chapter, emphasising that water storage is the foundation of productive and resilient landscapes.
+Dam construction in permaculture is the design and building of water storage structures for irrigation, stock water, domestic supply, aquaculture, fire protection, and landscape rehydration. Dams (also called ponds or impoundments) are central elements of permaculture water strategy, especially in arid and seasonally dry climates. Bill Mollison covers [[mollison-farm-dam-design-modifications]] extensively in his water chapter and dryland strategies chapter, emphasising that water storage is the foundation of productive and resilient landscapes.
 
 ## Purpose and Functions
 
@@ -19,9 +19,9 @@ In arid landscapes, Mollison states that water is the dominant theme for designe
 
 ## Site Selection
 
-Dam site selection is the most critical step in dam construction. The ideal site has a naturally confined valley or depression with a narrow outlet that can be closed with a wall. The catchment area above the dam should be large enough to fill the dam from reliable rainfall, but not so large that flood flows exceed the spillway capacity.
+[[mollison-designers-small-dam-site-selection-design]] selection is the most critical step in dam construction. The ideal site has a naturally confined valley or depression with a narrow outlet that can be closed with a wall. The catchment area above the dam should be large enough to fill the dam from reliable rainfall, but not so large that flood flows exceed the spillway capacity.
 
-Key site selection criteria include a suitable foundation of impervious clay or rock for the dam wall, adequate catchment area to fill the dam, sufficient depth without excessive excavation, no toxic geological materials (acid sulfate soils, saline strata) in the catchment or dam bed, proximity to the point of use to minimise pumping or piping costs, and suitable topography that allows the dam wall to be built economically.
+Key site [[cannabis-breeding-traits-selection-criteria-clarke]] include a suitable foundation of impervious clay or rock for the dam wall, adequate catchment area to fill the dam, sufficient depth without excessive excavation, no toxic geological materials (acid sulfate soils, saline strata) in the catchment or dam bed, proximity to the point of use to minimise pumping or piping costs, and suitable topography that allows the dam wall to be built economically.
 
 The relationship between catchment area, rainfall, evaporation, and dam volume must be calculated. A rule of thumb is that the catchment area should be at least 10-20 times the surface area of the dam for reliable filling in most climates. In very dry areas, larger catchment-to-dam ratios are needed.
 
@@ -83,12 +83,15 @@ Regular inspection and maintenance are essential for dam safety. Key maintenance
 
 ## See Also
 
-[[permaculture-catchment-design]]
+permaculture-catchment-design
 
 [[permaculture-earthworks]]
 
-[[permaculture-aquaculture]]
+permaculture-aquaculture
 
 [[permaculture-design]]
 
-- [[permaculture-designers-manual-dam-construction]] — Author-specific treatment of the same topic
+- permaculture-designers-manual-dam-construction — Author-specific treatment of the same topic
+- [[decomposition]]
+- [[water-conservation]]
+- [[bill-mollison]]

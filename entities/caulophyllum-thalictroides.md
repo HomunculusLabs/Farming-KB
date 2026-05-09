@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Fernald, M.L. (1950). "Gray's Manual of Botany." 8th ed. American Book Company.
-  - Foster, S. (2013). "Caulophyllum thalictroides." In: Peterson Field Guide to Medicinal Plants. Houghton Mifflin.
+  - Foster, S. (2013). "Caulophyllum thalictroides." In: Peterson [[ghouled-field-guide-historical-context]] to Medicinal Plants. Houghton Mifflin.
   - Felter, H.W. & Lloyd, J.U. (1898). "Caulophyllum." King's American Dispensatory.
   - Low Dog, T. (2006). "Women's health in complementary and alternative medicine." Obstetrics and Gynecology Clinics, 33(3), 627-644.
   - Upton, R. (2002). "Blue Cohosh Root." American Herbal Pharmacopoeia.
@@ -25,7 +25,7 @@ sources:
 
 **Caulophyllum thalictroides**, commonly called blue cohosh, is a perennial
 herbaceous plant in the barberry family (Berberidaceae). Native to the
-woodlands of eastern North America, it has a long history of use in
+woodlands of [[polypore-fungi-eastern-north-america]] America, it has a long history of use in
 traditional medicine, particularly among Indigenous peoples and 19th-century
 eclectic physicians, for women's reproductive health.
 
@@ -74,11 +74,11 @@ most abundant in the Great Lakes region and Ohio River Valley.
 Preferred habitat includes:
 - Rich, moist deciduous forests
 - Floodplain woodlands and alluvial soils
-- North-facing slopes with deep leaf litter
+- North-facing slopes with deep [[dighton-fungal-decomposition-leaf-litter-dynamics]]
 - Ravines and wooded stream banks
 
 The plant grows in USDA zones 3–8 and thrives in dappled shade to full
-shade with well-drained, loamy soils high in organic matter. It is slow-growing,
+shade with well-drained, loamy soils high in [[hamilton-composting-and-organic-matter-management]]. It is slow-growing,
 often taking 3–4 years to flower from seed.
 
 ## Bioactive Compounds
@@ -97,7 +97,7 @@ saponins concentrated in the rhizome:
   activity
 
 The alkaloid profile is of particular concern: N-methylcytisine has
-nicotinic receptor activity comparable to [[actaea-racemosa]]*) and raspberry leaf (*Rubus idaeus*).
+nicotinic receptor activity comparable to actaea-racemosa*) and raspberry leaf (*Rubus idaeus*).
 
 **Modern safety concerns:**
 The FDA classifies blue cohosh as an herb of "undefined safety." Multiple
@@ -113,14 +113,14 @@ it to capture spring light before canopy closure.
 
 It provides early-season forage for emerging pollinators and serves as
 a minor food source for woodland birds that disperse its seeds. The plant
-forms mycorrhizal associations, contributing to the soil fungal network
+forms mycorrhizal associations, contributing to the soil [[mycelium-running-mycelium-natures-internet-fungal-network-theory]]
 of forest ecosystems.
 
 ## Cultivation
 
 Propagation from seed requires warm stratification (20°C for 3 months)
 followed by cold stratification (4°C for 3 months) to break double
-dormancy. Division of established rhizomes in early spring is more
+dormancy. Division of established rhizomes in [[coleman-overwintered-onions-and-early-spring-crops]] is more
 reliable.
 
 Space plants 30–45 cm apart in shaded woodland gardens. The plant is
@@ -129,3 +129,4 @@ Mulch with leaf litter to maintain consistent soil moisture and acidity.
 ## See Also
 - [[teaming-with-microbes-soil-food-web-overview]]
 - [[teaming-with-nutrients-essential-plant-nutrients]]
+- [[mycorrhiza]]

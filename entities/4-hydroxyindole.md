@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/concise-large-scale-synthesis-of-psilocin
 
 # 4-Hydroxyindole
 
-4-Hydroxyindole is an organic compound and a key intermediate in the chemical synthesis of [[psilocybin]], and related indole-alkylamine derivatives. It serves as a fundamental building block in both laboratory synthetic routes and as a structural analog of the biosynthetic intermediates found in psychedelic mushroom metabolism.
+4-Hydroxyindole is an [[plant-olfaction-volatile-organic-compound-signaling]] and a key intermediate in the chemical synthesis of [[psilocybin]], and related indole-alkylamine derivatives. It serves as a fundamental building block in both laboratory synthetic routes and as a structural analog of the biosynthetic intermediates found in [[archaeology-of-psychedelic-mushroom-use]] metabolism.
 
 ## Chemical Structure and Properties
 
@@ -43,7 +43,7 @@ The preparation of 4-hydroxyindole itself is non-trivial, as the direct hydroxyl
 
 - **Air sensitivity**: The phenolic hydroxyl group at the 4-position makes the compound susceptible to oxidation, particularly in solution. Exposure to air can lead to dimerization, polymerization, or the formation of quinone-type oxidation products.
 - **Light sensitivity**: The compound is photosensitive and should be stored in amber glassware or under inert atmosphere, protected from direct light.
-- **Storage**: Recommended storage conditions include refrigeration (2 to 8 °C) under nitrogen or argon atmosphere, either as the neat solid or in solution with added antioxidant (e.g., ascorbic acid).
+- **Storage**: Recommended [[vegetable-storage-conditions-by-temperature-and-humidity]] include refrigeration (2 to 8 °C) under nitrogen or argon atmosphere, either as the neat solid or in solution with added antioxidant (e.g., ascorbic acid).
 - **Protection strategies**: In synthetic sequences, the 4-hydroxy group is commonly protected as an acetate, benzyl ether, or silyl ether during transformations at other positions, then deprotected to reveal the free phenol.
 
 ## Other Applications
@@ -78,4 +78,4 @@ Several contract manufacturing organizations now offer 4-hydroxyindole as a cata
 
 - [[psilocybin]] — the phosphorylated derivative of psilocin
 - [[indole]] — the parent heterocyclic compound
-- [[phosphoryl-chloride]] — the phosphorylating reagent used in psilocybin synthesis
+- [[phosphoryl-chloride]] — the phosphorylating reagent used in [[psilocin-psilocybin-synthesis-shirota]]

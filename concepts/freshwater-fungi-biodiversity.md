@@ -9,11 +9,10 @@ tags:
 - chytrids
 - oomycetes
 - ecology
-title: Freshwater Fungi Biodiversity
+title: Freshwater biodiversity-of-fungi-biodiversity-patterns-ecosystems
 type: concept
 updated: 2026-04-12
 ---
-
 
 # Freshwater Fungi Biodiversity
 
@@ -63,7 +62,7 @@ Now classified in Kingdom Straminipila, not true Fungi, but traditionally studie
 **Collection methods**:
 - Baiting with hemp seed halves, snake skin, and fruit in water samples
 - In situ baiting with mesh bags or dialysis tubing
-- Dilution plating for Pythium isolation
+- [[particle-filtration-dilution-plating-microfungal-isolation]] for Pythium isolation
 - CFD (charcoal-filtered distilled) water promotes zoospore formation
 
 ### Freshwater Ascomycetes
@@ -85,7 +84,7 @@ A diverse group, with approximately 600+ species reported from freshwater habita
 **Temporal patterns**: Many freshwater ascomycetes are seasonal. Fruiting often peaks in autumn when submerged leaf litter is most abundant. Tropical species may fruit year-round.
 
 **Geographic distribution**:
-- Temperate regions best studied (Europe, North America)
+- Temperate regions best studied (Europe, [[psilocybin-north-america-pacific-northwest]])
 - Tropical regions poorly documented but likely more diverse
 - Many species appear to have broad distributions
 
@@ -113,7 +112,7 @@ Anamorphic fungi that produce conidia in freshwater habitats. Include the Ingold
 
 ### Lakes and Ponds (Lentic)
 - Seasonal pollen inputs drive chytrid populations
-- Submerged wood supports long-term fungal communities
+- Submerged wood supports long-term [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
 - Sediment-dwelling fungi decompose settled organic matter
 - Stratification affects fungal distribution
 
@@ -141,40 +140,10 @@ Anamorphic fungi that produce conidia in freshwater habitats. Include the Ingold
 - Water/soil samples diluted with CFD water
 - VP3 agar for Pythium isolation via dilution plating
 - Temperature near natural habitat conditions
-
-**Ascomycetes**:
-- Collection of naturally submerged wood and plant material
-- Incubation in moist chambers at ambient temperatures
-- Examination for ascomata after 1-12 weeks
-- Single-spore isolation on agar media
-
-**Hyphomycetes**:
-- Bubble chamber technique for conidia from water samples
-- Leaf litter bags placed in streams and retrieved at intervals
-- Conidia counted and identified under compound microscope
-
-## Ecological Importance
-
-- **Decomposition**: Primary agents of plant litter breakdown in aquatic ecosystems, especially important in headwater streams
-- **Nutrient cycling**: Release bound nutrients from detritus, making them available to aquatic food webs
-- **Energy flow**: Fungal biomass (especially hyphomycetes) provides high-quality food for invertebrate shredders
-- **Population control**: Parasitic chytrids and Peronosporomycetes regulate algal and invertebrate populations
-- **Food web support**: Fungi are more nutritious than detritus alone and enhance detrital food quality
-
-## Conservation Concerns
-
-Freshwater habitats are disappearing rapidly due to:
-- Agricultural practices and nutrient pollution
-- Land development and urbanization
-- Channelization and dam construction
-- Climate change altering flow regimes
-
-Many freshwater fungi remain undocumented, and species may be lost before discovery. Long-term monitoring of fungal communities in freshwater habitats is urgently needed.
-
 ## Related Topics
 
 - [[aquatic-fungi-and-ingoldian-spores]] — Ingoldian freshwater hyphomycetes
-- [[fungal-biodiversity-biogeography]] — Global diversity patterns
+- [[fungal-biodiversity-biogeography]] — Global [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[fungal-ecology]] — Fungal ecology overview
 - [[saprotrophic-fungi]] — Decomposer strategies
-- [[fungal-parasites]] — Parasitic fungi
+- [[fungal-parasites]] — [[escovopsis-parasitic-fungi-attine-ant-gardens]]

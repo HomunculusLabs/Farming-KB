@@ -1,6 +1,6 @@
 ---
 
-title: Hot Composting vs Vermicompost vs Bokashi
+title: Hot hot composting vs vermicompost vs bokashi vs Bokashi
 created: 2026-04-11
 updated: 2026-04-12
 type: comparison
@@ -67,8 +67,8 @@ Only **hot composting** reliably kills pathogens (131°F+ for 3 days) and weed s
 The three systems form a complementary stack:
 
 1. **Bokashi bin** in the kitchen handles ALL food waste daily — no sorting needed
-2. **Vermicompost bin** processes overflow kitchen scraps, coffee grounds, paper waste; produces castings for [[cannabis-living-soil-guide]], seed starting, and [[compost-tea-aact]]
-3. **Hot compost pile** handles bulk waste: yard debris, animal manure + bedding, spent garden plants, large volumes from food preservation
+2. **Vermicompost bin** processes overflow kitchen scraps, [[oyster-mushroom-coffee-grounds-cultivation]], paper waste; produces castings for [[cannabis-living-soil-guide]], [[comparison-cannabis-cloning-vs-seed-starting-indoors]], and [[compost-tea-aact]]
+3. **Hot [[mushroom-cultivator-compost-pile-management]]** handles bulk waste: yard debris, [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] + bedding, spent garden plants, large volumes from food preservation
 
 Bokashi pre-compost can be buried in garden beds where [[vermicomposting]] worms further process it. Hot compost provides bulk humus for [[no-till-gardening-method]] top-dressing. All three feed the [[soil-food-web-nutrient-cycling]].
 
@@ -78,7 +78,7 @@ Don't choose one — run all three. Bokashi for zero-waste kitchen processing, v
 
 ## See Also
 
-- [[composting-systems]] — Full composting methods overview
+- [[composting-systems]] — Full [[natural-farming-guide-composting-methods-and-techniques]] overview
 - [[vermicomposting]] — Worm bin setup and management
 - [[bokashi]] — Bokashi bran making and kitchen system
 - [[soil-food-web-nutrient-cycling]] — The biology these methods support

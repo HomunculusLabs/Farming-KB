@@ -21,7 +21,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Gartz, J. (1989). "Biotransformation of tryptamine derivatives in mycelial cultures of Psilocybe cubensis." Planta Medica, 55(3), 250-253.
+  - Gartz, J. (1989). "Biotransformation of tryptamine derivatives in mycelial cultures of brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting." Planta Medica, 55(3), 250-253.
   - Sherwood, A.M. et al. (2020). "Identification and quantification of psychoactive tryptamines in Psilocybe mushroom species." Journal of Pharmaceutical and Biomedical Analysis, 177, 112914.
   - Leung, A.Y. & Paul, A.G. (1968). "Biosynthesis of psilocybin and related compounds." Phytochemistry, 7(8), 1415-1421.
   - Repke, D.B. et al. (1977). "A new synthesis of psilocybin." Journal of Medicinal Chemistry, 20(4), 556-558.
@@ -55,7 +55,7 @@ The compound is sensitive to oxidation and light, requiring storage under inert 
 
 Norpsilocybin acts as a serotonergic psychedelic, primarily through agonist activity at the 5-HT₂A receptor. The 4-hydroxy indole substitution pattern confers affinity for multiple serotonin receptor subtypes.
 
-Receptor binding data is limited compared to psilocin, but the dimethylaminoethyl side chain with the 4-hydroxy indole is expected to produce moderate-to-high affinity at 5-HT₂A, 5-HT₂C, and 5-HT₁A receptors.
+[[tihkal-receptor-binding-serotonin]] data is limited compared to psilocin, but the dimethylaminoethyl side chain with the 4-hydroxy indole is expected to produce moderate-to-high affinity at 5-HT₂A, 5-HT₂C, and 5-HT₁A receptors.
 
 The compound is presumed to undergo first-pass metabolism in the liver, similar to other oral tryptamines. Monoamine oxidase (MAO) likely contributes to oxidative deamination of the side chain.
 
@@ -85,11 +85,11 @@ Based on structural analogy to psilocin and limited anecdotal reports, effects l
 
 Duration is estimated at 4–6 hours when consumed orally, consistent with other dimethyltryptamine psychedelics. Onset is expected within 20–60 minutes.
 
-No well-established dosage range exists for pure norpsilocybin. The contribution of norpsilocybin to the overall mushroom experience is generally considered minor compared to psilocybin and psilocin, though entourage effects remain possible.
+No well-established dosage range exists for pure norpsilocybin. The contribution of norpsilocybin to the overall mushroom experience is generally considered minor compared to psilocybin and psilocin, though [[beta-caryophyllene-entourage-effects-cannabis]] remain possible.
 
 The presence of norpsilocybin alongside the major alkaloids may contribute to the variation in subjective effects reported between different mushroom species and even between individual specimens of the same species.
 
-Research into the entourage effect of mushroom alkaloids suggests that minor constituents like norpsilocybin, baeocystin, and norbaeocystin may modulate the intensity, duration, or qualitative character of the psychedelic experience, though controlled clinical studies remain lacking.
+Research into the entourage effect of mushroom alkaloids suggests that minor constituents like norpsilocybin, baeocystin, and norbaeocystin may modulate the intensity, duration, or qualitative character of the [[leary-psychedelic-experience-bardo-mapping]], though controlled clinical studies remain lacking.
 
 ## Legal Status
 
@@ -97,7 +97,7 @@ Norpsilocybin is not individually scheduled in most jurisdictions. However, it t
 
 In the United States, psilocybin and psilocin are Schedule I substances under the Controlled Substances Act. Norpsilocybin itself is not explicitly listed but may be prosecuted as an analog under the Federal Analog Act.
 
-The compound's legal status varies internationally. Countries with decriminalized or legalized psilocybin mushrooms (Netherlands, Jamaica, parts of Brazil) effectively permit possession of norpsilocybin as a natural constituent.
+The compound's legal status varies internationally. Countries with decriminalized or legalized [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] (Netherlands, Jamaica, parts of Brazil) effectively permit possession of norpsilocybin as a natural constituent.
 
 ## Related Compounds
 
@@ -105,7 +105,7 @@ Norpsilocybin is part of a family of tryptamine alkaloids produced by *Psilocybe
 
 The biosynthetic pathway proceeds through tryptamine → 4-hydroxytryptamine → norbaeocystin → baeocystin → norpsilocybin → psilocin → psilocybin, with methylation and phosphorylation steps catalyzed by specific enzymes.
 
-Aeruginascin, a trimethylammonium analog of psilocybin, is a related alkaloid found primarily in *Inocybe aeruginascens* that may contribute modulatory effects to the psychedelic experience.
+Aeruginascin, a trimethylammonium analog of psilocybin, is a related alkaloid found primarily in *[[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]* that may contribute modulatory effects to the psychedelic experience.
 
 ## See Also
 

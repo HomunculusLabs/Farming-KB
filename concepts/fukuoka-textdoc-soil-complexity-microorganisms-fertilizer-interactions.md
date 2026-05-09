@@ -21,7 +21,7 @@ type: concept
 ## Overview
 
 Fukuoka argues that the soil is a living system of extraordinary complexity that
-defies human comprehension, and that the application of chemical fertilizers to
+defies human comprehension, and that the application of [[cervantes-chemical-fertilizers-guide]] to
 this system is an act of staggering ignorance. A single gram of ordinary topsoil
 contains roughly one hundred million bacteria, yeasts, molds, diatoms, and other
 microbes. Far from being dead and inanimate, the soil is teeming with life. Each
@@ -66,7 +66,7 @@ administered, the higher the resulting deficiency of zinc and boron.
 
 The interactions form a web of mutual interference:
 - Nitrogen and phosphate uptake is poor in iodine-deficient soils
-- Higher levels of nitrogen and phosphate result in lower manganese deficiency
+- Higher levels of nitrogen and phosphate result in lower [[query-how-to-fix-manganese-deficiency-in-cannabis]]
 - Adding too much of one fertilizer renders another ineffective
 - A shortage of certain components means adding generous amounts of others does no
   good
@@ -118,14 +118,16 @@ certainly never create soils more perfect than those of nature.
 
 When scientists try to correct soil acidity by applying lime, they trigger a new
 round of problems. If the soil becomes alkaline, this leads again to manganese and
-zinc deficiency. There is far more to soil quality than its acidity — an
+[[query-how-to-fix-zinc-deficiency-in-cannabis]]. There is far more to soil quality than its acidity — an
 infinitude of physical, chemical, and biological factors go into the overall
 assessment. Nor can one justifiably call a soil healthy or diseased, as there are
 no criteria by which to judge whether a handful of soil contains the right number
-of microbes, the right amount of organic matter, and the right percentage of water
+of microbes, the right amount of [[hamilton-composting-and-organic-matter-management]], and the right percentage of water
 and air.
 
 ## See Also
+
+- [[fukuoka-soil-microbe-fertilizer-complexity]]
 
 - [[fukuoka-textdoc-no-fertilizer-principle-natural-soil-fertility]]
 - [[fukuoka-textdoc-liebig-law-minimum-critique]]

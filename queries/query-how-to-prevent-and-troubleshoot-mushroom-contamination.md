@@ -1,5 +1,5 @@
 ---
-title: "How to Prevent and Troubleshoot Mushroom Contamination"
+title: "How to Prevent and Troubleshoot oyster-mushroom-contamination-management"
 created: 2026-04-28
 tags: [query, mushrooms, contamination, sterile-technique, troubleshooting]
 date: 2026-04-25
@@ -24,11 +24,11 @@ When contamination does occur, accurate identification and prompt action can oft
 
 ### Common Contaminants
 
-The most frequent mushroom contaminants include Trichoderma (green mold), Aspergillus (yellow-green mold), cobweb mold, and various bacterial contaminants.
+The most frequent [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] include Trichoderma (green mold), Aspergillus (yellow-green mold), cobweb mold, and various bacterial contaminants.
 
 The [[trichoderma-forest-green-mold-guide]] covers identification and treatment strategies specifically for this aggressive competitor.
 
-Bacterial contamination typically appears as slimy patches, sour smells, or slowed mycelial growth.
+Bacterial contamination typically appears as slimy patches, sour smells, or slowed [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]].
 
 Wet spot bacteria (Bacillus subtilis) survive pasteurization and can ruin grain spawn if the grain is too wet.
 
@@ -48,7 +48,7 @@ Minimizing the time that substrate or spawn is exposed to open air dramatically 
 
 Proper substrate treatment is your first line of defense against contamination.
 
-The [[troubleshooting-mushroom-contamination]] resource provides a decision tree for diagnosing problems.
+The troubleshooting-mushroom-contamination resource provides a decision tree for diagnosing problems.
 
 Not all contamination requires you to throw out your crop.
 
@@ -70,7 +70,7 @@ Healthy mycelium grows uniformly from inoculation points.
 
 Contaminated jars may have patches of mycelium separated by blank areas or zones of discoloration.
 
-If you suspect contaminated spawn, do not use it to inoculate bulk substrate.
+If you suspect contaminated spawn, do not use it to inoculate [[gottlieb-psilocybin-cultivation-bulk-substrate-preparation]].
 
 One contaminated jar can ruin an entire batch of substrate.
 
@@ -90,9 +90,9 @@ Each contaminated jar teaches you something about your process, your environment
 
 ## Key Points
 
-- Identify contaminants accurately using [[sterile-technique-mushroom-cultivation]] practices including still-air boxes and flame sterilization are your best prevention tools
-- Proper pasteurization or sterilization per [[mushroom-substrate-pasteurization-comparison]] eliminates most competitors
-- Environmental control including air exchange and temperature gives your mycelium a competitive edge over contaminants
+- Identify contaminants accurately using [[mushroom-cultivation-sterile-technique]] practices including still-air boxes and [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]] are your best prevention tools
+- Proper pasteurization or sterilization per mushroom-substrate-pasteurization-comparison eliminates most competitors
+- [[eclss-environmental-control-life-support]] including air exchange and temperature gives your mycelium a competitive edge over contaminants
 - When in doubt, throw it out: contaminated spawn or substrate should be removed promptly to protect future grows
 
 ## Related Questions

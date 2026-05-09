@@ -133,16 +133,18 @@ mechanisms. Staying current with developments helps practitioners
 maintain and improve their effectiveness over time.
 
 Cross-disciplinary collaboration increasingly drives progress, with
-contributions from fields including molecular biology, data science,
-materials science, and systems ecology creating new possibilities for
-innovation. These interdisciplinary connections enrich understanding
-and open new avenues for exploration and application that were not
-previously available to practitioners working within single disciplines.
+## See Also
 
-For those seeking to deepen their knowledge, recommended resources
-include primary research literature, established reference works,
-practitioner communities, and hands-on experimentation under guided
-conditions. The combination of theoretical study and practical experience
-provides the most robust foundation for developing expertise in this
-area and contributing to its ongoing development and refinement.
+- [[blesching-molecules-emotions-endocannabinoid-bridge]]
 
+- [[blesching-cannabis-acne]]
+- [[blesching-cannabis-cough]]
+- [[blesching-cannabis-rhabdomyosarcoma]]
+- [[blesching-cannabis-uveitis]]
+- [[blesching-cannabis-hemorrhoids]]
+- [[blesching-cannabis-febrile-seizures]]
+- [[blesching-cannabis-periodontitis]]
+- [[blesching-cannabis-antiemetic-vomiting]]
+- [[blesching-cannabis-autism]]
+- [[blesching-cannabis-tuberculosis]]
+- [[blesching-cannabis-libido-enhancement]]

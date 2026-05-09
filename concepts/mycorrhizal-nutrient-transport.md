@@ -1,18 +1,17 @@
 ---
-title: Mycorrhizal Nutrient Transport
+title: dighton-ericoid-mycorrhizal-nutrient-acquisition Transport
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [[mycology, soil-biology, symbiosis]
-sources: []
+tags: [mycology, soil-biology, symbiosis]
+sources:
+  sources: []
 ---
-# Mycorrhizal Nutrient Transport
-
-The physical movement of water, minerals, and carbon between mycorrhizal fungi and their host plants is the engine of the symbiosis. Understanding how nutrients cross the fungal-plant interface explains why mycorrhizal plants outperform non-mycorrhizal ones by orders of magnitude in nutrient acquisition. See [[mycorrhizal-types]] for how different fungal types associate with roots.
+# Mycorrhizal Nutrient Transport The physical movement of water, minerals, and carbon between mycorrhizal fungi and their host plants is the engine of the symbiosis. Understanding how nutrients cross the fungal-plant interface explains why mycorrhizal plants outperform non-mycorrhizal ones by orders of magnitude in nutrient acquisition. See [[mycorrhizal-types]] for how different fungal types associate with roots.
 
 ## The Interfacial Apoplast
 
-When arbuscular mycorrhizal fungi colonize a root cell, the plant's plasmalemma (cell membrane) envelops the invading hyphae, creating a narrow space called the interfacial apoplast. This interface is more acidic than the cytoplasm of either organism because it accumulates hydrogen ions (H+). The pH gradient and ion concentration differences drive nutrient exchange. The plant membrane controls what enters — the fungus cannot force nutrients in. Transport occurs via high-affinity transporter proteins embedded in both the fungal and plant membranes.
+When [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi colonize a root cell, the plant's plasmalemma (cell membrane) envelops the invading hyphae, creating a narrow space called the interfacial apoplast. This interface is more acidic than the cytoplasm of either organism because it accumulates hydrogen ions (H+). The pH gradient and ion concentration differences drive [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. The plant membrane controls what enters — the fungus cannot force nutrients in. Transport occurs via high-affinity transporter proteins embedded in both the fungal and plant membranes.
 
 ## Transporter Proteins
 
@@ -21,7 +20,7 @@ Both organisms invest significant energy in producing embedded membrane proteins
 - **Phosphate transporters** — attract and move phosphate (PO4³⁻) from the fungus into the plant cell
 - **Ammonium transporters** — move NH4+ across membranes
 - **Nitrate transporters** — carry NO3− into the fungal and plant cells
-- **H+-ATPases** — synthesize ATP to power active transport against concentration gradients
+- **H+-ATPases** — synthesize ATP to power [[diffusion-osmosis-and-active-transport-in-plants]] against concentration gradients
 - **Aquaporins** — facilitate water movement across membranes
 - **Chitinases and hydroxyproline-rich glycoproteins** — support the structural interface
 
@@ -47,10 +46,10 @@ Arbuscular mycorrhizal fungi access nitrogen in multiple forms:
 - **Nitrates (NO3−)** — more mobile but still enhanced by fungal networks
 - **Amino acids** — directly absorbed and transported within fungal cytosol
 
-Inside the fungal membrane, nitrogen is assimilated into amino acids, circulated in the cytosol, and some is converted back to ammonium for transport into the apoplastic interface. Mycorrhizal establishment also increases nitrogen-fixing nodule activity in legumes because the extra phosphorus supplied by fungi fuels the nitrogen fixation process. See [[mycorrhizal-carbon-nitrogen-economics]] for the full carbon budget and [[mycorrhizal-inoculation-guide]] covers how to introduce or restore these relationships
+Inside the fungal membrane, nitrogen is assimilated into amino acids, circulated in the cytosol, and some is converted back to ammonium for transport into the apoplastic interface. Mycorrhizal establishment also increases nitrogen-fixing nodule activity in legumes because the extra phosphorus supplied by fungi fuels the [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] process. See [[mycorrhizal-carbon-nitrogen-economics]] for the full carbon budget and [[mycorrhizal-inoculation-guide]] covers how to introduce or restore these relationships
 
 ## See Also
-- [[mycorrhizal-nutrient-uptake]]
+- mycorrhizal-nutrient-uptake
 
 ## Related
 
@@ -72,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

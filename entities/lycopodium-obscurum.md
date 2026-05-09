@@ -12,7 +12,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - USDA NRCS (2024). "Lycopodium obscurum." PLANTS Database.
-  - Wagner, W.H. & Beitel, J.M. (1993). "Lycopodiaceae." In: Flora of North America, Vol. 2. Oxford University Press.
+  - Wagner, W.H. & Beitel, J.M. (1993). "Lycopodiaceae." In: Flora of [[psilocybin-north-america-pacific-northwest]], Vol. 2. Oxford University Press.
   - Tryon, R.M. & Tryon, A.F. (1982). "Ferns and Allied Plants." Springer-Verlag.
   - Jones, G.P. (1987). "Lycopodium Alkaloids." In: S.W. Pelletier (ed.), "Alkaloids: Chemical and Biological Perspectives." Wiley.
   - Flora of North America Editorial Committee (1993). "Lycopodium obscurum." FNA Vol. 2: 22–23.
@@ -22,7 +22,7 @@ sources:
 
 **Lycopodium obscurum** (ground pine, rare clubmoss, princess pine) is an evergreen lycophyte in the family Lycopodiaceae.
 
-It is native to temperate and boreal forests of North America, where it forms extensive colonies on moist forest floors.
+It is native to temperate and [[fungal-diversity-boreal-forests-taiga]] of North America, where it forms extensive colonies on moist forest floors.
 
 The species is named for its resemblance to small pine seedlings, with dense radial clusters of sterile branches creating a miniature tree-like silhouette.
 
@@ -68,9 +68,9 @@ It is found across USDA zones 3–7.
 
 ## Ecology and Reproduction
 
-Reproduction is entirely spore-based, with sexual reproduction requiring a separate subterranean gametophyte generation.
+Reproduction is entirely spore-based, with [[fungal-life-cycles-sexual-reproduction-metamorphosis]] requiring a separate subterranean gametophyte generation.
 
-The gametophyte is mycoheterotrophic, obtaining nutrition from symbiotic fungi rather than photosynthesis, and may remain underground for several years before producing gametes.
+The gametophyte is mycoheterotrophic, obtaining nutrition from [[mycelium-running-symbiotic-fungi-relationships]] rather than photosynthesis, and may remain underground for several years before producing gametes.
 
 Fertilization requires a film of water for motile sperm to reach the archegonia, limiting reproductive success to consistently moist microsites.
 
@@ -88,7 +88,7 @@ The species is an indicator of old-growth or late-successional forest conditions
 
 The dry, highly flammable spores of *Lycopodium obscurum* have been used historically as a flash powder for theatrical effects and early photography.
 
-Indigenous peoples of eastern North America used the plant medicinally, including the Cherokee, who applied it as a poultice for wounds and skin conditions.
+Indigenous peoples of [[polypore-fungi-eastern-north-america]] America used the plant medicinally, including the Cherokee, who applied it as a poultice for wounds and skin conditions.
 
 The Iroquois used decoctions of the plant to treat fevers and urinary complaints.
 
@@ -116,7 +116,7 @@ Conservation recommendations include protection of mature forest habitat, restri
 
 The species is listed as endangered in Ohio and New Jersey and as threatened in Indiana and Tennessee.
 
-Climate change poses a long-term threat by shifting the distribution of suitable cool, moist forest habitats northward.
+[[dighton-fungi-climate-change-feedback]] poses a long-term threat by shifting the distribution of suitable cool, moist forest habitats northward.
 
 ## See Also
 

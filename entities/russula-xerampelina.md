@@ -7,7 +7,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Kibby, G. (2011). \"The genus Russula in Great Britain.\" Published online."
-  - "Miller, S.L. & Miller, D. (2006). North American Mushrooms: A Field Guide to Edible and Inedible Fungi. Falcon Guide."
+  - "Miller, S.L. & Miller, D. (2006). [[growing-gourmet-north-american-reishi-species]] Mushrooms: A Field Guide to Edible and Inedible Fungi. Falcon Guide."
   - "Romagnesi, H. (1967). Les Russules d'Europe et d'Afrique du Nord. Bordas, Paris."
   - "Lincoff, G.H. (1981). National Audubon Society Field Guide to North American Mushrooms. Knopf."
 ---
@@ -15,7 +15,7 @@ sources:
 ## Overview
 
 *Russula xerampelina*, commonly known as the shrimp russula or crab brittlegill, is an
-edible mushroom in the family Russulaceae. It is widely regarded as one of the finest
+[[bloomfield-boletus-satanus-edible-mushroom-hazards]] in the family Russulaceae. It is widely regarded as one of the finest
 edible species within the genus *Russula*, prized by foragers for its mild flavor and
 distinctive seafood-like aroma reminiscent of cooked shrimp or crab when the flesh is
 cut or bruised. The species occurs across temperate regions of the Northern Hemisphere
@@ -71,7 +71,7 @@ and mixed woodlands, from late summer through autumn (July–November).
 
 Distribution spans the temperate Northern Hemisphere:
 
-- **North America:** Canada, northern United States, Appalachians, Pacific Northwest.
+- **North America:** Canada, northern [[dmt-containing-plants-united-states-halpern]], Appalachians, Pacific Northwest.
 - **Europe:** Scandinavia to the Mediterranean.
 - **Temperate Asia:** Japan, Korea, northern China.
 
@@ -122,16 +122,16 @@ undigested chitin in fresh russulas.
 *Russula xerampelina* sensu lato encompasses multiple cryptic taxa across its range.
 Morphological variation in cap color, odor intensity, and bruising reaction long
 suggested distinct biological species. Recent molecular phylogenetic studies using ITS
-and multilocus sequence data have confirmed several genetically distinct lineages within
+and [[fungi-multilocus-sequence-typing-molecular-epidemiology]] data have confirmed several genetically distinct lineages within
 what was traditionally considered a single polymorphic species, with implications for
 taxonomy and conservation as some cryptic lineages may have narrower ecological or
 geographic ranges than previously assumed.
 
 ## Ecological Role
 
-As an ectomycorrhizal fungus, *R. xerampelina* enhances nutrient uptake — particularly
+As an ectomycorrhizal fungus, *R. xerampelina* enhances [[plant-nutrient-uptake-mechanisms]] — particularly
 phosphorus and nitrogen — for host trees while receiving photosynthetically derived
-carbon. This mutualism contributes to forest productivity, tree health, and soil
+carbon. This mutualism contributes to [[fukuoka-textdoc-forest-productivity-without-fertilizer]], tree health, and soil
 stability. The species also serves as a food source for small mammals and insects,
 and contributes to decomposition as fruiting bodies break down.
 ## See Also

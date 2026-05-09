@@ -1,95 +1,119 @@
 ---
-title: Fungal Parasites and Predators of Nematodes
+title: bloomfield-fungal-parasites-of-insects and Predators of Nematodes
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources: []
 ---
-
 # Fungal Parasites and Predators of Nematodes
 
-Fungi are among the most important natural enemies of nematodes, with diverse genera using radically different strategies to capture, infect, and destroy nematodes. These relationships have significant implications for biological control of plant-parasitic nematodes in agriculture.
+Fungi are among the most important natural enemies of nematodes, with diverse
+genera using radically different strategies to capture, infect, and destroy
+nematodes. These relationships have significant implications for biological
+control of plant-parasitic nematodes in agriculture and for understanding soil
+food web dynamics.
 
 ## Types of Nematophagous Fungi
 
 ### Endoparasites
-Fungi that live inside nematode bodies. Taxonomic distribution spans multiple fungal groups:
 
-**Chytridiomycota:** Catenaria, Endochytrium, Olpidium, Phlyctochytrium, Rhizophydium, Bicricium
+Fungi that live inside nematode bodies. Taxonomic distribution spans multiple
+fungal groups:
 
-**Oomycota:** Gonimochaete, Haptoglossa, Lagenidium, Myzocytium, Protascus, Pythium
-
-**Zygomycota:** Euryancale, Helicocephalum, Meristacrum, Rhopalomyces, Zygnemomyces
-
-**Anamorphic Fungi:** Botryotrichum, Drechmeria, Haptocara, Harposporium, Hirsutella, Nematoctonus, Plesiospora, Verticillium, Cephalosporiopsis
+- **Chytridiomycota**: Catenaria, Endochytrium, Olpidium, Phlyctochytrium,
+  Rhizophydium, Bicricium
+- **Oomycota**: Gonimochaete, Haptoglossa, Lagenidium, Myzocytium, Protascus,
+  Pythium
+- **Zygomycota**: Euryancale, Helicocephalum, Meristacrum, Rhopalomyces,
+  Zygnemomyces
+- **Anamorphic Fungi**: Botryotrichum, Drechmeria, Haptocara, Harposporium,
+  Hirsutella, Nematoctonus, Plesiospora, Verticillium, Cephalosporiopsis
 
 ### Predatory Fungi
-Fungi that capture nematodes using specialized trapping structures. Genera include Arthrobotrys, Dactylella, Monacrosporium, and others in the Orbiliaceae (anamorphs of discomycetes).
+
+Fungi that capture nematodes using specialized trapping structures. Genera
+include Arthrobotrys, Dactylella, Monacrosporium, and others in the
+Orbiliaceae (anamorphs of discomycetes).
 
 ## Trapping Mechanisms
 
 Predatory fungi use several remarkable trapping devices:
 
-1. **Adhesive three-dimensional networks:** Hyphae forming sticky loops and branches
-2. **Adhesive knobs:** Single sticky hyphal branches
-3. **Constricting rings:** Three-celled rings that inflate rapidly when touched, trapping nematodes within seconds
-4. **Nonconstricting rings:** Sticky rings that hold nematodes by adhesion
+1. **Adhesive three-dimensional networks**: Hyphae forming sticky loops and
+   branches that ensnare passing nematodes
+2. **Adhesive knobs**: Single sticky hyphal branches that adhere to the
+   nematode cuticle on contact
+3. **Constricting rings**: Three-celled rings that inflate rapidly when
+   touched, trapping nematodes within seconds
+4. **Nonconstricting rings**: Sticky rings that hold nematodes by adhesion
+   rather than mechanical constriction
 
-The Arthrobotrys-Dactylella-Monacrosporium complex contains 39+ described species using these various mechanisms. The trapping structures are morphological adaptations that have evolved convergently.
+The Arthrobotrys-Dactylella-Monacrosporium complex contains more than 39
+described species using these various mechanisms. The trapping structures are
+morphological adaptations that have evolved convergently across multiple
+lineages of nematophagous fungi.
 
-## Obtaining Nematodes for Study
+## Infection Mechanisms of Endoparasites
 
-### Baermann Funnel Technique
-The standard method for extracting nematodes from soil:
-1. Place 50-250g soil on double-layer facial tissue over nylon mesh in a pie plate
-2. Rest pie plate on a 15-cm glass funnel with rubber tubing and collecting tube
-3. Add water until it touches the mesh
-4. After 6-12 hours, close tubing with pinch clamp
-5. Remove supernatant, disperse remaining nematodes, pour onto water agar
-6. Inspect daily for up to 10 days for parasitized nematodes
+Endoparasitic fungi employ diverse strategies to infect nematode hosts. Spores
+of some species, such as Harposporium, are ingested by nematodes during
+feeding and germinate within the digestive tract. Others, like Haptoglossa, use
+specialized gun cells that fire a penetration tube through the nematode
+cuticle on contact. Catenaria species produce zoospores that encyst on the
+nematode cuticle before penetrating. Once inside the host, the fungus
+proliferates, consuming internal tissues and eventually killing the nematode.
+Spores or conidia are then released to infect new hosts.
 
-Nematodes become inactive quickly in collecting tubes — process within a few hours. The technique also recovers bdelloid rotifers and tardigrades.
+## Life Cycle Strategies
 
-### Culturing Nematodes
-Free-living rhabditoid nematodes grow easily on low-nutrient agar with oatmeal, cooked potato, soup powder, or peanut butter. A pure culture of a single species can be obtained from a gravid female.
+Nematophagous fungi can be broadly categorized by their life cycle strategies.
+Obligate nematophagous fungi depend entirely on nematodes for nutrition and
+reproduction, maintaining trapping structures or infective spores at all times.
+Facultative nematophagous fungi are primarily saprotrophs that switch to
+nematode predation or parasitism when nitrogen or other nutrients are limiting.
+This facultative strategy is more common and ecologically flexible, allowing
+fungi to survive in environments where nematode prey are intermittently
+available.
 
-## Recovery Methods
+## Ecology and Soil Food Web Interactions
 
-### Drechsler's Technique
-The earliest and most productive method:
-- Add leaf mold or organic debris to dilute cornmeal agar
-- Inoculate with Pythium or Phytophthora
-- This sets off a natural chain of events producing bacteria, nematodes, mites, amoebae
-- Dominant animal populations are then attacked by predators and parasites
-- Yields greater diversity than any other technique
-- Drawback: may take weeks or months; fungus-feeding mites can interfere
+Nematophagous fungi occupy important positions in soil food webs as top-down
+regulators of nematode populations. Their activity influences the abundance and
+[[core-endorhiza-bacterial-community-composition-cannabis]] of both plant-parasitic and free-living nematodes. In
+natural ecosystems, nematophagous fungi help maintain nematode populations
+below levels that would cause significant plant damage. Their effectiveness is
+influenced by soil environmental conditions including temperature, moisture, pH,
+[[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] content, and the presence of competing microorganisms.
 
-### Nematode Bait Technique
-- Inoculate low-nutrient agar with several hundred nematodes
-- Sprinkle with 0.1-1.0g of soil or organic debris
-- Scan for aggregations of captured nematodes after ~5 days
-- Use low-angle dissecting-scope light for best contrast
+## Biological Control Applications
 
-### Pure Culture
-Obtained by picking conidia from tips of conidiophores with a fine needle and transferring to fresh nutrient agar. Some predators grow rapidly but produce few conidiophores (e.g., Arthrobotrys flagrans).
+The use of nematophagous fungi for biological control of plant-parasitic
+nematodes has been extensively investigated. Species of Arthrobotrys,
+Paecilomyces lilacinus, and Pochonia chlamydosporia have shown the greatest
+promise as [[singh-entomopathogenic-fungi-biocontrol-agents]]. These fungi can be applied as formulated products
+to soil, nursery media, or planting material. Integration with other management
+practices, including [[coleman-cover-crop-rotation-and-soil-health]], [[cervantes-organic-amendments-chart]], and resistant varieties,
+generally provides the most effective and sustainable [[nematode-management]].
 
-## Host Specificity
+## Commercial Products and Host Specificity
 
-Many parasites of nematodes are host specific. In mixed nematode populations, host-specific fungi will not transmit to non-host species. This makes careful scrutiny of the first 48 hours essential for recovering rare or new species.
-
-## Agricultural Significance
-
-Nematophagous fungi are being developed as biological control agents:
-- **Paecilomyces lilacinus:** Commercially available for control of root-knot nematodes
-- **Arthrobotrys species:** Active in soil; some species also mycoparasitic
-- **Pleurotus species:** Some are predaceous on nematodes (including oyster mushroom)
-- Integration with organic farming practices that maintain soil fungal diversity
+Several fungal-based nematicides have been developed and commercialized.
+Paecilomyces lilacinus strain 251 is marketed as a biocontrol agent against
+root-knot nematodes (Meloidogyne spp.). Pochonia chlamydosporia has been
+developed for control of cyst nematodes (Globodera and Heterodera spp.).
+Challenges in commercialization include maintaining product viability during
+storage, achieving consistent field performance across diverse soil
+environments, and competing with conventional chemical nematicides on cost and
+ease of use. Nematophagous fungi vary widely in host specificity, with
+endoparasites tending toward narrower host ranges and predatory fungi generally
+capturing a wider variety of nematode sizes and types.
 
 ## See Also
 
-- [[fungicolous-fungi-spores-sclerotia-oospores]]
 - [[saprobic-soil-fungi-ecology-survey]]
 - [[teaming-with-microbes-mites-and-soil-arthropod-predators]]
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
-- [[oyster-mushroom-agricultural-waste-substrates-survey]]
+- [[fungal-ecosystem-roles]]
+- fungal biological control agricultural pests

@@ -54,7 +54,7 @@ The crown shaft is smooth, green, and approximately 80–100 cm long — a disti
 
 **Fruit** is a globose drupe, 1.0–1.6 cm diameter, with a thin exocarp that turns from green to dark purple-black at maturity.
 
-The mesocarp is thin (1–2 mm), pulpy, and constitutes only 10–15% of fruit weight. The single seed is large and hard.
+The mesocarp is thin (1–2 mm), pulpy, and constitutes only 10–15% of fruit weight. The [[cervantes-selfing-single-seed-descent]] is large and hard.
 
 ## Distribution and Habitat
 
@@ -68,7 +68,7 @@ The species tolerates periodic inundation of up to 6 months duration, an adaptat
 
 ## Cultivation
 
-Açaí is propagated primarily from seed, though tissue culture methods have been developed for commercial scale-up. Seeds germinate in 30–60 days under moist, warm conditions.
+Açaí is propagated primarily from seed, though [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] methods have been developed for commercial scale-up. Seeds germinate in 30–60 days under moist, warm conditions.
 
 Plants begin fruiting at 3–4 years when grown in full sun, though forest-grown palms may take 6–8 years. Mature clumps produce 3–4 harvests per year.
 
@@ -76,7 +76,7 @@ Yields vary significantly: managed groves produce 4,000–6,000 kg of fruit per 
 
 Harvest involves cutting individual stems at the base and stripping fruit clusters. Stems regenerate from the root crown, making açaí a productive multi-stem system.
 
-Post-harvest processing must be rapid — fruit deteriorates within 24–48 hours at ambient temperature. The pulp is typically frozen or pasteurized for export.
+Post-harvest processing must be rapid — fruit deteriorates within 24–48 hours at [[jadam-ambient-temperature-principle]]. The pulp is typically frozen or pasteurized for export.
 
 ## Bioactive Compounds and Pharmacology
 
@@ -88,7 +88,7 @@ Other phytochemicals include proanthocyanidins (condensed tannins), flavonoids (
 
 Antioxidant capacity (ORAC) of açaí pulp is among the highest measured for any fruit, though the clinical significance of ORAC values has been debated.
 
-Anti-inflammatory effects have been demonstrated in vitro through inhibition of NF-κB and COX-2, and reduction of pro-inflammatory cytokines. Preliminary clinical studies suggest potential benefits for metabolic syndrome markers.
+Anti-inflammatory effects have been demonstrated in vitro through inhibition of NF-κB and COX-2, and reduction of pro-inflammatory cytokines. Preliminary clinical studies suggest potential benefits for [[cannabis-metabolic-syndrome-research]] markers.
 
 ## Permaculture and Agroforestry Applications
 
@@ -106,7 +106,7 @@ Açaí palms support biodiversity by providing food and habitat for birds, mamma
 
 The açaí industry in Pará, Brazil generates an estimated USD 1–2 billion annually, supporting hundreds of thousands of harvesters, processors, and traders throughout the Amazon supply chain.
 
-Traditional preparation involves soaking the fruit in water, manually separating the thin pulp from the seed, and serving as a thick, purple paste — typically with cassava flour and fish in Pará.
+[[kava-traditional-preparation-ceremonial-context]] involves soaking the fruit in water, manually separating the thin pulp from the seed, and serving as a thick, purple paste — typically with cassava flour and fish in Pará.
 
 In global markets, açaí is marketed as bowls, smoothies, juices, supplements, and freeze-dried powder. The "açaí bowl" has become a fixture of health-food culture worldwide.
 
@@ -117,4 +117,7 @@ Concerns about unsustainable harvesting and labor practices in the supply chain 
 - [[mangifera-indica]]
 - [[moringa-oleifera]]
 - bambusa
-- [[gliricidia-sepium]]
+- gliricidia-sepium
+- [[manihot-esculenta]]
+- [[theobroma-cacao]]
+- [[bertholletia-excelsa]]

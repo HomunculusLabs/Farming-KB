@@ -3,17 +3,10 @@ title: Nitrogen-Fixing Green Manures
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
-tags: [[permaculture, gardening, urban-agriculture]
+tags: [permaculture, gardening, urban-agriculture]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
-
-# Nitrogen-Fixing Green Manures
-
-Nitrogen-fixing green manures are plants -- primarily legumes -- that convert atmospheric nitrogen into plant-available forms through symbiotic relationships with rhizobia bacteria in their root nodules. When these plants are cut and incorporated into the soil (or left as surface mulch), they release stored nitrogen and organic matter, building soil fertility without synthetic fertilizers.
-
-## Why Green Manures Matter
-
-In a closed-loop permaculture system, fertility must be generated on-site. Nitrogen is the most commonly limiting plant nutrient, and green manures are the primary biological mechanism for [[comparison-sheet-mulching-vs-chop-and-drop]], break pest cycles, suppress weeds, improve soil structure, prevent erosion, and feed pollinators. They are the cheapest and most sustainable form of fertilizer available.
+# Nitrogen-Fixing Green Manures Nitrogen-fixing green manures are plants -- primarily legumes -- that convert atmospheric nitrogen into plant-available forms through symbiotic relationships with rhizobia bacteria in their root nodules. When these plants are cut and incorporated into the soil (or left as surface mulch), they release stored nitrogen and organic matter, building soil fertility without synthetic fertilizers. ## Why Green Manures Matter In a closed-loop permaculture system, fertility must be generated on-site. Nitrogen is the most commonly limiting plant nutrient, and green manures are the primary biological mechanism for [[comparison-sheet-mulching-vs-chop-and-drop]], break pest cycles, suppress weeds, improve soil structure, prevent erosion, and feed pollinators. They are the cheapest and most sustainable form of fertilizer available.
 
 ## Sunn Hemp (Crotalaria juncea)
 
@@ -88,7 +81,7 @@ Match the green manure to the season and climate. In most temperate areas, a yea
 ## See Also
 
 - Nitrogen-Fixing Plants Guide
-- [[hemenway-cover-crops-guide]]
+- hemenway-cover-crops-guide
 - [[compost-tea-recipe-guide]]
 
 ---

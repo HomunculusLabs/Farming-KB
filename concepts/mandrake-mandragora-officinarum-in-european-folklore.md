@@ -1,11 +1,12 @@
 ---
-title: "Mandrake (Mandragora officinarum) in European Folklore and Medicine"
+title: "Mandrake (mandrake mandragora officinarum in european folklore) in European Folklore and Medicine"
 created: "2026-04-17"
 updated: "2026-04-17"
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Mandrake (Mandragora officinarum) in European Folklore and Medicine
 
@@ -33,7 +34,7 @@ The [[belladonna-atropa-belladonna-ethnobotany]] and [[european-witchcraft-hallu
 
 ## Mandrake as a Panacea
 
-In medieval European folk medicine, mandrake was considered a panacea — a cure-all capable of treating virtually any ailment. Its folk uses were extraordinarily diverse, ranging from the treatment of infertility and impotence to the curing of wounds, rheumatism, and melancholy. The root was carried as an amulet to ward off evil, bring good fortune, and ensure prosperity.
+In [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] folk medicine, mandrake was considered a panacea — a cure-all capable of treating virtually any ailment. Its folk uses were extraordinarily diverse, ranging from the treatment of infertility and impotence to the curing of wounds, rheumatism, and melancholy. The root was carried as an amulet to ward off evil, bring good fortune, and ensure prosperity.
 
 The belief in mandrake's aphrodisiac properties was particularly widespread. In many regions of Europe, people claimed strong aphrodisiac properties for mandrake, and the plant was used in love magic and fertility rituals. The phallic appearance of the bifurcated root likely reinforced these associations, which were further supported by the Doctrine of Signatures.
 
@@ -49,7 +50,7 @@ The persistence of these anthropomorphic representations across multiple herbals
 
 The superstitious hold of mandrake in Europe persisted for centuries, long after many other medieval beliefs had faded. This persistence may be attributed to several factors: the genuinely psychoactive properties of the plant, which could produce experiences that reinforced beliefs in its supernatural powers; the visual impact of the human-like root, which provided compelling "evidence" of the plant's special nature; and the plant's integration into a broader framework of magical belief that included the other solanaceous hallucinogens.
 
-The eventual decline of mandrake belief coincided with the rise of modern science and the decline of magical thinking in European culture. However, the mandrake legend has survived in literature, popular culture, and the history of [[mandragora-officinarum]]
+The eventual decline of mandrake belief coincided with the rise of modern science and the decline of magical thinking in [[fukuoka-road-european-culture-of-food]]. However, the mandrake legend has survived in literature, popular culture, and the history of [[mandragora-officinarum]]
 
 [[henbane-hyoscyamus-niger-ethnobotany]] — henbane ethnobotany.
 
@@ -72,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

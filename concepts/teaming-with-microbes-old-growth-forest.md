@@ -13,12 +13,12 @@ sources:
 The final chapter of *Teaming with Microbes* (Chapter 22) takes its title from one of the book's most powerful observations: no one ever fertilized an old growth forest, yet these ecosystems maintain extraordinary productivity and diversity for centuries. This fact encapsulates the book's entire argument about the self-sustaining power of the [[lowenfels-earthworms-soil-food-web]] is entirely capable of cycling nutrients
 - Plants, through [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
 - **Species diversity** — multiple plant species support diverse microbial communities
-- **Layered organic matter** — leaf litter, woody debris, and humus provide continuous food for decomposers
+- **Layered [[hamilton-composting-and-organic-matter-management]]** — leaf litter, [[fungal-succession-woody-debris-ecology]], and humus provide continuous food for decomposers
 
 ## Succession and the Fungal Shift
 
-The book describes how plant succession from bare soil to old growth forest is paralleled by a shift in the soil microbial community. Pioneer grasses and weeds support bacterial populations. As shrubs, soft hardwoods, and eventually mature trees establish, more organic matter is produced and fungal biomass grows in proportion to bacteria. Bacteria are limited to digesting simpler compounds, while fungi decompose increasingly complex organic materials including lignin. This natural progression moves from bacterially dominated early-succession soils toward the highly fungally dominated soils of old growth forests, a pattern central to [[query-how-do-different-composting-methods-compare]] and mulching-guide|mulching
-- Support fungal communities for perennial plantings with [[mycorrhizal-fungi-basics-lowenfels]] help all plants get the nutrients they need, pathogens face fierce competition, plants receive the kind of nitrogen they prefer, water drainage and retention improve, pollutants are decayed, and food tastes better. The gardener has many helpers and no need for chemicals that may harm family, pets, or the environment.
+The book describes how plant succession from bare soil to old growth forest is paralleled by a shift in the soil [[edaphic-factors-microbial-community-structure]]. Pioneer grasses and weeds support bacterial populations. As shrubs, soft hardwoods, and eventually mature trees establish, more organic matter is produced and [[bioremediation-fungal-biomass-biosorbent-material]] grows in proportion to bacteria. Bacteria are limited to digesting simpler compounds, while fungi decompose increasingly complex organic materials including lignin. This natural progression moves from bacterially dominated early-succession soils toward the highly fungally dominated soils of old growth forests, a pattern central to [[query-how-do-different-composting-methods-compare]] and mulching-guide|mulching
+- Support [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] for perennial plantings with mycorrhizal-fungi-basics-lowenfels help all plants get the nutrients they need, pathogens face fierce competition, plants receive the kind of nitrogen they prefer, water drainage and retention improve, pollutants are decayed, and food tastes better. The gardener has many helpers and no need for chemicals that may harm family, pets, or the environment.
 
 ## A Philosophical Statement
 
@@ -34,7 +34,7 @@ The title is more than an observation — it's a philosophical statement:
 - Soil microorganisms form the foundation of terrestrial ecosystem health
 - The soil food web includes bacteria, fungi, protozoa, nematodes, and arthropods
 - Healthy soils require a balanced ratio of different microbial communities
-- [[old-growth-forest-fungi-conservation]], [[fungal-roles-in-old-growth-forests]], [[teaming-with-microbes-overview]], [[teaming-with-microbes-compost-mulch-tea]], [[soil-food-web-nutrient-cycling]], [[teaming-with-microbes-algae-slime-molds]]
+- old-growth-forest-fungi-conservation, [[fungal-roles-in-old-growth-forests]], [[teaming-with-microbes-overview]], [[teaming-with-microbes-compost-mulch-tea]], [[soil-food-web-nutrient-cycling]], [[teaming-with-microbes-algae-slime-molds]]
 
 - [[teaming-with-microbes-soil-minerals-cation-exchange]]
 
@@ -55,7 +55,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -97,4 +97,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

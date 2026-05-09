@@ -1,5 +1,5 @@
 ---
-title: Triazonal Cultivation System
+title: mollison designers triazonal cultivation system System
 created: 2026-04-28
 tags:
   - permaculture
@@ -18,16 +18,16 @@ type: concept
 
 The triazonal cultivation system is a framework described in Bill Mollison's
 *Permaculture: A Designers' Manual* for optimizing crop production by managing
-three distinct vertical zones within the growing environment. Rather than
+three distinct vertical zones within the [[cannabis-growing-environment-setup]]. Rather than
 treating a garden or field as a single homogeneous plane, the triazonal model
 recognizes that root, surface, and aerial zones each offer unique conditions
 for different plant functions. By selecting crops that exploit each zone
 efficiently, the designer maximizes total yield per unit area, a principle
-central to [[mollison-designers-permaculture-principles-and-ethics]].
+central to mollison-designers-permaculture-principles-and-ethics.
 
 ## The Three Zones
 
-The triazonal cultivation system divides the growing space vertically into three
+The triazonal cultivation system divides the [[cotter-growing-space-design-fruiting-rooms]] vertically into three
 functional layers:
 
 1. **Root zone (subterranean)**: Extending from the soil surface to the maximum
@@ -39,12 +39,12 @@ functional layers:
 2. **Surface zone (ground level)**: A transitional zone of approximately 10 to
    30 centimeters above and below the soil surface, this is where most
    seedling establishment occurs, where mulch is applied, and where low-growing
-   herbs, ground covers, and creeping plants operate. Lettuce, strawberries,
+   herbs, [[permaculture-plants-food-forest-ground-covers-bamboos]], and creeping plants operate. Lettuce, strawberries,
    clover, and thyme are characteristic surface zone plants.
 
 3. **Aerial zone (above ground)**: The zone from approximately 30 centimeters
    upward, occupied by the stems, leaves, flowers, and fruits of taller plants.
-   Trellised crops, fruit trees, climbing vines, and tall companion plants
+   Trellised crops, [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], climbing vines, and tall companion plants
    operate in this zone. Tomatoes, beans, cucumbers, and maize exploit the
    aerial zone.
 
@@ -70,10 +70,16 @@ interface and the diversity of niches available for useful species.
 
 ## Summary
 
-> **Definition:** The triazonal cultivation system is a permaculture design
+> **Definition:** The triazonal cultivation system is a [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
 > framework that divides the growing environment into root, surface, and
 > aerial zones, each optimized for different crops and functions. By stacking
 > complementary species across these vertical layers, the system maximizes
 > total yield per unit area, reduces competition, enhances beneficial
 > interactions, and creates resilient, productive polycultures applicable
 > from kitchen gardens to broadscale agricultural systems.
+## See Also
+- [[permaculture-design]]
+- [[jerusalem-artichoke]]
+- [[bill-mollison]]
+- [[mollison-designers-banana-circle-waste-recycling-system]]
+- [[mollison-designers-chinampa-wetland-garden-system]]

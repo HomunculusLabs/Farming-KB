@@ -12,7 +12,7 @@ sources:
 
 Informational monism is the philosophical position that reality consists of one fundamental substance only: information.
 
-This framework, derived from analysis of entheogenic (psychedelic) experiences, proposes that both mind and matter are particular forms of information, resolving the centuries-old mind/body problem that has plagued philosophy since Descartes.
+This framework, derived from analysis of entheogenic (psychedelic) experiences, proposes that both mind and matter are particular forms of information, resolving the centuries-old mind/[[mind-body-problem-vs-information-paradigm-of-consciousness]] that has plagued philosophy since Descartes.
 
 Rather than positing two fundamentally different kinds of stuff -- mental stuff and physical stuff -- informational monism asserts that atoms, molecules, muscles, and thoughts can all be described in purely informational terms. The mind and body could then be seen as consisting of essentially the same kind of substance.
 
@@ -28,7 +28,7 @@ The issue confronting us -- that of understanding exactly what consciousness is 
 
 The key insight from psychedelic investigation is that chemistry and consciousness, taken together, directly address the boundary between the physical and the psychological.
 
-Chemistry implies chemicals and substances -- clearly "material" things -- whereas altered states of awareness lie in the realm of the intangible mind. Substances like psilocybin, which have a close molecular resemblance to the brain's neurotransmitters, elicit predictable and characteristic changes in consciousness.
+Chemistry implies chemicals and substances -- clearly "material" things -- whereas [[weil-the-natural-mind-altered-states-normalcy]] of awareness lie in the realm of the intangible mind. Substances like psilocybin, which have a close molecular resemblance to the brain's neurotransmitters, elicit predictable and characteristic changes in consciousness.
 
 Psilocybin therefore bridges the conceptual gap between the two seemingly incompatible worlds of mind and matter. The more we understand how psilocybin works, the closer we get to understanding the bridge linking mind to matter.
 
@@ -56,7 +56,7 @@ Entheogenic phenomenology provides the most compelling evidence for informationa
 
 Since states of neuronal firing are states of information (what else could they be?), and these altered states correspond to profoundly different states of consciousness, we can observe a direct mapping between information patterns and conscious experience.
 
-The fact that entheogenic visions are loaded with powerful and often universal symbology suggests there are pre-determined ways in which large amounts of neuronal information can be organized and brought together -- that is, integrated.
+The fact that entheogenic visions are loaded with powerful and often [[powell-universal-symbology-in-entheogenic-visions]] suggests there are pre-determined ways in which large amounts of neuronal information can be organized and brought together -- that is, integrated.
 
 ## The Snowflake Principle
 
@@ -88,7 +88,7 @@ The informational monism of psychedelic philosophy converges with developments i
 
 See also: [[natural-intelligence]], [[ketamine-psychedelic-journey-guide]], [[natural-intelligence]]
 
-*Source: Powell, S.G. "The Psilocybin Solution" -- Chapters 6 and 7*
+*Source: Powell, S.G. "The [[powell-psilocybin-solution-ecological-cognition-theory]]" -- Chapters 6 and 7*
 
 ## Related
 

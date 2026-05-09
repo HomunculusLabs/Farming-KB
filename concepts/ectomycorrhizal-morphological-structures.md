@@ -9,7 +9,7 @@ sources:
 ---
 # Ectomycorrhizal Morphological Structures
 
-Ectomycorrhizal (ECM) associations form a distinctive set of anatomical features that distinguish them from all other mycorrhizal types. These structures -- the fungal mantle, Hartig net, and extramatrical mycelium -- collectively create the interface through which bidirectional nutrient exchange occurs between fungus and host plant.
+Ectomycorrhizal (ECM) associations form a distinctive set of anatomical features that distinguish them from all other mycorrhizal types. These structures -- the fungal mantle, [[dighton-ectomycorrhizal-hartig-net-structure-function]], and extramatrical mycelium -- collectively create the interface through which bidirectional [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] occurs between fungus and host plant.
 
 ## The Fungal Mantle
 
@@ -19,7 +19,7 @@ The mantle is a dense sheath of fungal hyphae that completely encases the short 
 
 - **Storage organ**: The mantle accumulates carbohydrate reserves (glycogen, trehalose, and lipids) derived from host photosynthate.
 
-- **Fungal metabolism hub**: Phosphatase activity has been localized to the mantle using ELF-97 substrate staining, demonstrating its role in phosphorus acquisition (Van Aarle et al. 2001, Alvarez et al. 2005).
+- **[[singh-fungal-metabolism-pahs]] hub**: [[mycorrhizal-phosphatase-activity-elf97-detection]] has been localized to the mantle using ELF-97 substrate staining, demonstrating its role in phosphorus acquisition (Van Aarle et al. 2001, Alvarez et al. 2005).
 
 - **Morphological diversity**: Mantle morphology varies extensively between fungal taxa -- some form smooth, compact sheaths while others produce loose, weft-like or cottony coverings. These characteristics are used in morphotyping for ECM identification.
 
@@ -43,7 +43,7 @@ The Hartig net depth varies with host plant. In angiosperms like oak and beech, 
 
 ## Extramatrical Mycelium
 
-The extramatrical mycelium (also called external mycelium or soil mycelium) extends outward from the mantle into the surrounding soil, vastly expanding the effective absorptive surface of the root system. This mycelial network performs several essential functions:
+The extramatrical mycelium (also called external mycelium or soil mycelium) extends outward from the mantle into the surrounding soil, vastly expanding the effective absorptive surface of the root system. This [[gadd-mycelial-network-dynamics]] performs several essential functions:
 
 - **Nutrient foraging**: Individual hyphae can explore soil volumes far beyond the root depletion zone, accessing phosphorus, nitrogen, water, and micronutrients that would otherwise be unavailable.
 
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

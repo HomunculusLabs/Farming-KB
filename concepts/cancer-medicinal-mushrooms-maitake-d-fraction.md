@@ -1,5 +1,5 @@
 ---
-title: "Maitake (Grifola frondosa) and D-Fraction Research"
+title: "Maitake (maitake-grifola-frondosa-comprehensive-profile) and D-Fraction Research"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -12,7 +12,7 @@ tags: [maitake, medicine, mushroom-cultivation, mushrooms]
 
 ## Overview
 
-Grifola frondosa (Maitake, Hen of the Woods) is a medicinal mushroom with
+Grifola frondosa (Maitake, Hen of the Woods) is a [[gourmet-medicinal-mushroom-casing-layer-techniques]] with
 significant anti-cancer and immunomodulatory properties. Beta-glucan fractions
 from Maitake are used by over 3,000 health professionals in the US for
 prevention and treatment of a range of conditions including flu, HIV, diabetes,
@@ -21,7 +21,7 @@ capsules, tea, powder, and drinks are widely marketed in the US and Europe.
 
 ## Active Constituents
 
-Key bioactive compounds from G. frondosa include:
+Key [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] from G. frondosa include:
 
   - Grifolan: a (1-3)-beta-glucan similar to Schizophyllan in primary
     structure; activates macrophages increasing IL-6, IL-1, and TNF-alpha
@@ -82,7 +82,7 @@ Grifron-D demonstrates both immunomodulatory and direct cytotoxic effects:
   - FDA exempted Grifron-D from Phase I study due to absence of adverse
     reactions in previous trials and no significant pre-clinical toxicity
 
-Ongoing clinical trials (Phase I/II) in breast, prostate, lung, liver, and
+Ongoing [[mushroom-cancer-clinical-trials-overview]] (Phase I/II) in breast, prostate, lung, liver, and
 gastric cancers are underway in the US and Japan.
 
 ## Additional Medicinal Properties
@@ -104,10 +104,15 @@ ensuring proper identification and product purity.
 
 ## Key Source
 
-Smith, Rowan and Sullivan (2002). Medicinal Mushrooms: Their therapeutic
+Smith, Rowan and Sullivan (2002). [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]: Their therapeutic
 properties and current medical usage with special emphasis on cancer
 treatments. University of Strathclyde.
 - [[psk-breast-lung-cancer-clinical-trials]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[schizophyllan-cancer-clinical-trials]]
 - [[maitake-d-fraction-research]]
+
+## See Also
+
+- [[cancer-medicinal-mushrooms-apoptosis-mechanisms]]
+- [[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]]

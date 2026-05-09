@@ -1,20 +1,20 @@
 ---
-title: "How Do I Choose the Right Cover Crop for My Garden?"
+title: "How Do I query-how-do-i-choose-the-right-cannabis-strain-for-my-grow Cover Crop for My Garden?"
 created: 2026-04-28
 tags: [query, permaculture, cover-crops, soil-health, green-manures]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  sources: []
 type: query
 ---
 
 # How Do I Choose the Right Cover Crop for My Garden?
 
 ## Short Answer
-Choose cover crops based on your primary goal: nitrogen fixation, weed
-suppression, soil building, erosion control, or pest management. Legumes like
-crimson clover and hairy vetch fix nitrogen, grains like cereal rye suppress
+Choose cover crops based on your primary goal: [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], weed
+suppression, soil building, [[permplant-willows-salix-erosion-control-fodder]], or pest management. Legumes like
+[[comparison-lupin-vs-crimson-clover-green-manure]] and hairy vetch fix nitrogen, grains like cereal rye suppress
 weeds and add biomass, and broadleaves like buckwheat attract pollinators and
 mine phosphorus. A diverse mix of several species usually outperforms a
 single-species cover crop.
@@ -43,7 +43,7 @@ channels for water infiltration and root penetration.
 [[dynamic-accumulators-overview]] mine minerals from deep subsoil
 layers and bring them to the surface in their leaves. The
 [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] approach integrates cover
-crops that support beneficial insect populations while simultaneously deterring
+crops that support [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] populations while simultaneously deterring
 pests through chemical or physical mechanisms.
 
 Timing your cover crop planting is crucial for success. Winter covers need to be
@@ -57,8 +57,8 @@ situations.
 Mixing multiple cover crop species is generally superior to planting a single
 species. A diverse mix combines the strengths of each component: a grass for
 biomass and weed suppression, a legume for nitrogen fixation, and a broadleaf
-for nutrient cycling and pollinator support. The
-[[pdc-passive-design-principles]] from permaculture
+for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and pollinator support. The
+pdc-passive-design-principles from permaculture
 provide a framework for creating effective multi-species cover crop mixes.
 
 In
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

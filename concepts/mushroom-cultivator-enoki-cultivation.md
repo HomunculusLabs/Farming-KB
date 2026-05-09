@@ -5,7 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [gardening]
 sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+  sources: []
 ---
 # Enoki Cultivation in The Mushroom Cultivator
 
@@ -14,7 +14,7 @@ Updated: 2026-04-18
 
 ## Overview
 
-Flammulina velutipes, commonly known as the Enoki or Winter Mushroom, is a cold-weather mushroom naturally found across North America and other temperate to boreal regions. It thrives on woody tissue, especially living trees. The Japanese have remained at the forefront of Enoki cultivation, with popular commercial strains "Maruei" and "Ebios". This species is notable for producing very different fruitbody morphology in culture versus in the wild.
+Flammulina velutipes, commonly known as the Enoki or Winter Mushroom, is a cold-weather mushroom naturally found across [[psilocybin-north-america-pacific-northwest]] and other temperate to boreal regions. It thrives on woody tissue, especially living trees. The Japanese have remained at the forefront of Enoki cultivation, with popular commercial strains "Maruei" and "Ebios". This species is notable for producing very different fruitbody morphology in culture versus in the wild.
 
 ## Species Identification
 
@@ -39,14 +39,14 @@ Flammulina velutipes, commonly known as the Enoki or Winter Mushroom, is a cold-
 
 ## Natural Habitat
 
-Common across North American continent and in temperate to boreal regions worldwide. Thriving on woody tissue, especially living trees. Considered a cold weather mushroom -- fruits naturally in late fall through winter.
+Common across [[growing-gourmet-north-american-reishi-species]] continent and in temperate to boreal regions worldwide. Thriving on woody tissue, especially living trees. Considered a cold weather mushroom -- fruits naturally in late fall through winter.
 
 ## Growth Parameters
 
 ### Mycelial Characteristics
 - Mycelial types: Linear to cottony, sometimes aerial
-- Forms mycelial "pellets" soon after colonizing a substrate -- this makes liquid culture techniques more difficult
-- Addition of 5% corn starch and 2% malt to liquid solution inhibits pellet formation
+- Forms mycelial "pellets" soon after colonizing a substrate -- this makes liquid [[agar-culture-techniques-detailed]] more difficult
+- Addition of 5% corn starch and 2% malt to liquid solution inhibits [[singh-fungal-pellet-formation-bioremediation]]
 
 ### Spawn Medium
 - Sawdust/bran spawn
@@ -67,7 +67,7 @@ Common across North American continent and in temperate to boreal regions worldw
 ### Spawn Run
 - Relative humidity: 90-100%
 - Substrate temperature: 72-77°F
-- Duration: 20-30 days (standard methods); 12-13 days (in vitro inoculation methods)
+- Duration: 20-30 days (standard methods); 12-13 days (in vitro [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]])
 - CO2: 5,000-10,000 ppm
 - Fresh air exchanges: 0 per hour
 
@@ -127,7 +127,7 @@ A notable technique discovered by Japanese researchers:
 
 ## See Also
 
-- [[mushroom-cultivator-substrate-preparation]] -- sawdust/bran substrate preparation
+- [[mushroom-cultivator-substrate-preparation]] -- sawdust/bran [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]
 - [[mushroom-cultivator-grain-spawn-production]] -- spawn production
-- [[mushroom-sawdust-bran-spawn-preparation]]
+- mushroom-sawdust-bran-spawn-preparation
 - [[fungal-single-cell-protein-production]]

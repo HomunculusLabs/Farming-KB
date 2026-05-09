@@ -28,7 +28,7 @@ Albert Hofmann noted that Harvard's dean did not approve of the continuation of 
 
 ## Post-Harvard Work
 
-After dismissal, Alpert co-founded IFIF (International Federation for Internal Freedom) with Leary and Metzner, followed by the Castalian Foundation — both aimed at promoting cultural revolution and spiritual enlightenment through psychedelic use (Linton 2006). He co-authored *The Psychedelic Experience: A Manual Based on the Tibetan Book of the Dead* with Leary and Metzner (1964), adapting the Tibetan Buddhist Bardo Thödol as a guidebook for psychedelic sessions. This work also produced a Taoist adaptation of the Tao Te Ching for psychedelic use (Leary 1997).
+After dismissal, Alpert co-founded IFIF (International Federation for Internal Freedom) with Leary and Metzner, followed by the Castalian Foundation — both aimed at promoting cultural revolution and spiritual enlightenment through psychedelic use (Linton 2006). He co-authored *The [[leary-psychedelic-experience-bardo-mapping]]: A Manual Based on the Tibetan Book of the Dead* with Leary and Metzner (1964), adapting the Tibetan Buddhist Bardo Thödol as a guidebook for psychedelic sessions. This work also produced a Taoist adaptation of the [[metzner-leary-bardo-thodol-and-tao-te-ching-adaptation]] for psychedelic use (Leary 1997).
 
 ## Transformation to Ram Dass
 
@@ -43,7 +43,7 @@ Alpert's trajectory from Harvard psychologist to spiritual teacher exemplified a
 - [[timothy-leary]] — Harvard colleague and primary collaborator
 - [[ralph-metzner]] — Harvard colleague, co-author of The Psychedelic Experience
 - [[albert-hofmann]] — whose account documents Alpert's dismissal from Harvard
-- [[psychedelic-research-timeline]] — broader history of psychedelic research
+- [[psychedelic-research-timeline]] — broader history of [[mckenna-suppression-psychedelic-research-lsd-therapy]]
 - [[entheogen-culture]] — cultural context of psychedelic exploration
 ## Practical Considerations
 
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

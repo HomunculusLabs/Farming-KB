@@ -9,14 +9,14 @@ sources: []
 
 # Biochar
 
-Biochar is a carbon-rich solid material produced by heating biomass in a low-oxygen environment through a process called pyrolysis. When incorporated into soil, biochar acts as a long-term carbon sink, improves soil structure, enhances nutrient retention, and supports microbial communities. Its stability means it can persist in soil for hundreds to thousands of years, making it a powerful tool for both soil improvement and carbon sequestration.
+Biochar is a carbon-rich solid material produced by heating biomass in a low-oxygen environment through a process called pyrolysis. When incorporated into soil, biochar acts as a long-term carbon sink, improves soil structure, enhances nutrient retention, and supports microbial communities. Its stability means it can persist in soil for hundreds to thousands of years, making it a powerful tool for both soil improvement and [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]].
 
 ## What Biochar Is
 
 Biochar is essentially the solid residue of biomass after pyrolysis. It is distinguished from charcoal by its intended use as a soil amendment. The properties of biochar depend heavily on the feedstock and production temperature:
 
 - **Feedstock**: Wood chips, hardwood, softwood, nut shells, rice husks, bamboo, corn stover, manure, and other biomass. Hardwoods generally produce higher-quality biochar with more stable carbon structures.
-- **Pyrolysis temperature**: Lower temperatures (300-500C) produce biochar with more volatile compounds and surface functionality. Higher temperatures (500-800C) produce more porous, carbon-rich biochar with higher surface area but fewer functional groups.
+- **Pyrolysis temperature**: Lower temperatures (300-500C) produce biochar with more [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] and surface functionality. Higher temperatures (500-800C) produce more porous, carbon-rich biochar with higher surface area but fewer functional groups.
 - **Particle size**: Fine biochar (<2mm) has the highest surface-area-to-volume ratio but is harder to handle. Coarse biochar (>5mm) provides better soil structure and aeration.
 
 ## Pyrolysis Production Methods
@@ -70,7 +70,7 @@ Biochar provides several benefits for mycorrhizal fungi:
 - **Physical habitat**: Biochar pores provide refuge for mycorrhizal hyphae and spores, protecting them from predation by soil microarthropods.
 - **Nutrient retention**: By holding nutrients in the root zone, biochar increases the concentration of resources available for mycorrhizal exchange.
 - **Hyphal attachment**: Biochar surfaces provide attachment points for mycorrhizal hyphae, facilitating exploration of soil pore spaces.
-- **Signal molecules**: Some research suggests biochar can influence plant signaling and root exudation patterns that promote mycorrhizal colonization.
+- **Signal molecules**: Some research suggests biochar can influence plant signaling and root exudation patterns that promote [[arbuscular-mycorrhizal-colonization-patterns]].
 
 However, **raw (unconditioned) biochar can temporarily suppress mycorrhizal colonization**. Fresh biochar may adsorb organic acids and signaling compounds that plants use to attract mycorrhizal fungi. Conditioning biochar before application (see below) eliminates this risk.
 
@@ -84,11 +84,11 @@ Mix biochar into compost piles at 10-20% by volume. As the compost matures (3-6 
 
 ### Liquid Charging
 
-Soak biochar in compost tea, [[compost-tea-aact]], manure tea, fish emulsion, or liquid fertilizer for 24-48 hours before application. Drain and allow to dry partially before incorporating into soil. Less thorough than compost charging but much faster.
+Soak biochar in compost tea, [[compost-tea-aact]], manure tea, fish emulsion, or [[jadam-liquid-fertilizer-nutritional-perspective]] for 24-48 hours before application. Drain and allow to dry partially before incorporating into soil. Less thorough than compost charging but much faster.
 
 ### Mineral Charging
 
-Mix biochar with rock dust, [[rock-dust-minerals]], bone meal, and other mineral amendments. Moisten and let cure for 2-4 weeks. The biochar adsorbs minerals and becomes a slow-release nutrient reservoir.
+Mix biochar with rock dust, [[rock-dust-minerals]], bone meal, and other mineral amendments. Moisten and let cure for 2-4 weeks. The biochar adsorbs minerals and becomes a slow-release [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]].
 
 ### Soil Inoculation
 
@@ -122,4 +122,4 @@ In no-till and [[cannabis-living-soil-guide]] systems, biochar is particularly v
 - Its nutrient-holding capacity reduces the need for frequent top-dressing
 - It supports the [[soil-food-web-nutrient-cycling]] by providing microhabitat for bacteria, fungi, and protozoa
 - It buffers pH swings that can occur with organic matter decomposition
-- Combined with [[mycorrhizal-fungi]] inoculation, biochar creates a long-term nutrient cycling infrastructure
+- Combined with [[mycorrhizal-fungi]] inoculation, biochar creates a long-term [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] infrastructure

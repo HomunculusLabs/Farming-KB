@@ -1,5 +1,5 @@
 ---
-title: "Olive Mill Wastewater Fungal Treatment"
+title: "Olive Mill dairy-wastewater-fungal-treatment Treatment"
 created: 2026-04-28
 tags: [mycoremediation, olive-mill-wastewater, phenolic-degradation, white-rot-fungi]
 date: 2026-04-25
@@ -36,9 +36,9 @@ and reduce toxicity more effectively.
 ## Fungal Species for OMW Treatment
 
 ### White-Rot Fungi
-- **Phanerochaete chrysosporium**: Eliminates more than 50% color and
+- **[[staycare-phanerochaete-chrysosporium-in-bioremediation]]**: Eliminates more than 50% color and
   phenols from OMW within 6 days; aerobic pretreatment reduces COD from
-  107 g/L to 55 g/L. Supplementation with veratryl alcohol and oxygen
+  107 g/L to 55 g/L. Supplementation with [[staycare-veratryl-alcohol-as-lignin-peroxidase-mediator]] and oxygen
   flushing achieves 70% color and 80% COD removal
 - **Phanerochaete flavido-alba**: Decolorizes OMW in static or
   semistatic cultures at 30 degrees Celsius, eliminating up to 70%
@@ -67,7 +67,7 @@ Immobilization enhances fungal treatment performance for OMW:
 - P. chrysosporium on polyurethane foam achieves more than 70% color
   and COD removal in repeated-batch fermentation
 - Highest decolorization (85%) and COD removal (50%) occurs in media
-  producing high lignin peroxidase activity
+  producing high [[fungal-lignin-peroxidase-veratryl-alcohol]] activity
 - Ultrafiltration pretreatment removing polyphenolic fractions above 60
   kDa significantly improves subsequent fungal decolorization
 - Lentiinus edodes UEC-2019 removes 73% color in 5 days without
@@ -84,12 +84,12 @@ results:
 - Coagulation with Ca(OH)2 following combined treatment yields 98%
   overall removal efficiency
 - Geotrichum candidum pretreatment increases methane yield by 15%
-  compared to untreated OMW in subsequent anaerobic digestion
+  compared to untreated OMW in subsequent [[biogas-digester-basics]]
 
 ## Enzyme Systems in OMW Degradation
 
 The lignin-degrading enzyme system plays a central role in OMW treatment
-by white-rot fungi. Key enzymes include laccase, manganese peroxidase
+by white-rot fungi. Key enzymes include laccase, [[fungal-manganese-peroxidase-remediation]]
 (MnP), manganese-independent peroxidase (MIP), and phenol oxidase. Early
 detection of laccase activity correlates with the final amount of total
 phenolic reduction in treated OMW. MnP is necessary for efficient
@@ -122,6 +122,9 @@ constants increasing as phenolic content and biotoxicity decrease.
 
 ## See Also
 
-- [[singh-fungal-treatment-industrial-wastewaters-overview]]
-- [[singh-fungal-metabolism-phenols-chlorophenols]]
+- singh-fungal-treatment-industrial-wastewaters-overview
+- singh-fungal-metabolism-phenols-chlorophenols
 - [[singh-starch-oil-wastewater-fungal-treatment]]
+- [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]]
+- [[fungal-treatment-of-olive-mill-wastewater]]
+- [[fungal-olive-mill-wastewater-treatment]]

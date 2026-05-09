@@ -1,5 +1,5 @@
 ---
-title: "Garden Centers and Seedling Buying Traps - Steve Solomon"
+title: "solomon garden centers seedling traps and Seedling Buying Traps - Steve Solomon"
 created: 2026-04-26
 tags:
   - gardening
@@ -43,7 +43,7 @@ People buy seedlings for types of vegetables that should be direct-seeded.
 Many gardeners believe it is impossible to grow carrots, beets, radishes,
 or corn from seed. The truth is that these crops generally do not
 transplant well. Carrots and beets usually fail to make useful roots when
-transplanted. Lettuce generally does better from direct seeding; the
+transplanted. Lettuce generally does better from [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]; the
 transplanting process hugely shocks its root system. This is also true of
 transplanting corn.
 

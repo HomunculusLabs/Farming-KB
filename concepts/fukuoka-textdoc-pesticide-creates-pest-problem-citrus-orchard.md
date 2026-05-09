@@ -1,5 +1,5 @@
 ---
-title: Pesticides Create Pest Problems in the Citrus Orchard
+title: Pesticides Create Pest Problems in the fukuoka-citrus-orchard-establishment-bare-hillside
 created: 2026-04-28
 tags:
   - fukuoka
@@ -30,24 +30,24 @@ pests in Japan: arrowhead scales, cottony-cushion scale, and red wax scale.
 ## The Arrowhead Scale Cascade
 
 Fukuoka's most detailed case study involves the arrowhead scale, a serious citrus pest
-whose outbreaks he directly attributes to pesticide spraying. In his natural orchard,
+whose outbreaks he directly attributes to pesticide spraying. In his [[fukuoka-natural-orchard-development]],
 where strong pesticides were not used, several types of ladybugs continued to prey upon
 the scales, and he observed "almost no damage." The ladybugs served as a natural check
-on scale populations, maintaining an ecological balance that required no human
+on scale populations, maintaining an [[fukuoka-ecological-balance-principles]] that required no human
 intervention.
 
 However, in conventional orchards where organophosphate pesticides were applied, the
 arrowhead scale problem became so severe that "an immediate stop to the spraying of
 citrus with these powerful agents" became necessary. Fukuoka attributes this paradox to
 the pesticides' destruction of natural predators: the chemicals killed the ladybugs and
-other beneficial insects more effectively than they killed the scales themselves. With
+other [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] more effectively than they killed the scales themselves. With
 their predators eliminated, scale populations exploded.
 
 ## The Cottony-Cushion Scale and the Vedalia Ladybug
 
 The cottony-cushion scale was once considered one of the three major citrus pests in
 Japan, but it had "disappeared naturally with the release more than forty years ago of
-the vedalia, a kind of ladybug." This biological control success story is, for Fukuoka,
+the vedalia, a kind of ladybug." This [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] success story is, for Fukuoka,
 a paradigmatic example of how pest problems should be addressed: by supporting natural
 predators rather than by applying chemicals.
 
@@ -91,7 +91,7 @@ balance.
 
 The unifying principle across all of Fukuoka's case studies is that pesticide use
 destroys the ecological relationships that naturally regulate pest populations. Natural
-enemies — ladybugs, parasitic wasps, predatory mites — are typically more vulnerable to
+enemies — ladybugs, parasitic wasps, [[comparison-predatory-mites-vs-ladybugs-biocontrol]] — are typically more vulnerable to
 pesticides than the pests themselves, because the pests have evolved greater resistance
 to the specific chemicals deployed against them. The result is a paradox: spraying kills
 the pest's enemies while leaving the pest relatively unharmed, creating conditions for

@@ -13,14 +13,14 @@ type: query
 ## Short Answer
 The best crop rotation follows a systematic plan that moves plant families
 through different garden beds each season, preventing soil depletion and
-breaking pest and disease cycles. The [[ozier-pdc-composting-and-soil-building]] processes while minimizing disturbance to the
+breaking [[hamilton-pest-and-disease-control-organic]] cycles. The [[ozier-pdc-composting-and-soil-building]] processes while minimizing disturbance to the
 [[mycorrhizal-crop-rotation-guide]] provides additional nuance by noting
-that different crop families associate with different mycorrhizal fungal
+that different crop families associate with different [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 communities. Brassicas are non-mycorrhizal (they do not form mycorrhizal
 associations), while legumes, alliums, and solanaceae are all mycorrhizal.
 Rotating mycorrhizal with non-mycorrhizal crops can help maintain a diverse
 and healthy mycorrhizal fungal population in the soil, which benefits overall
-plant health and nutrient cycling across the entire garden ecosystem.
+plant health and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] across the entire garden ecosystem.
 
 ## Basic Rotation Principles
 
@@ -46,14 +46,14 @@ through their extensive root systems and improve soil structure. Brassica cover
 crops like daikon radish (tillage radish) create deep root channels that
 improve water infiltration and break up compacted soil layers. Buckwheat is
 an excellent quick-growing summer cover crop that suppresses weeds, attracts
-beneficial insects, and mines phosphorus from the soil. The most effective
+[[comparison-beneficial-insects-guide-vs-integrated-pest-management]], and mines phosphorus from the soil. The most effective
 rotations incorporate cover crops between every main crop, ensuring the soil
 is never left bare and biological activity continues uninterrupted year-round.
 
 ## Breaking Pest and Disease Cycles
 
 One of the most important benefits of crop rotation is the disruption of pest
-and disease life cycles. Many common garden pests and diseases are specific to
+and disease life cycles. Many common garden [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] are specific to
 certain plant families and overwinter in the soil or on plant debris near where
 their host crop was grown the previous season. Colorado potato beetles, for
 example, emerge in spring near where solanaceous crops were planted the
@@ -65,7 +65,7 @@ pathogens find no suitable host and die before reproducing. [[cover-crops-soil-h
   fix nitrogen, add organic matter, and suppress weed growth
 - Rotation breaks pest and disease cycles by moving host crops away from
   overwintering pest populations and soil-borne pathogen reservoirs
-- Minimize soil disturbance to protect arbuscular mycorrhizal fungal networks
+- Minimize soil disturbance to protect [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungal networks
   described in the [[permaculture-crop-rotation]]
 - [[soil-food-web]]
 ## Practical Considerations
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: "What Are Entomopathogenic Fungi and How Do They Control Pests?"
+title: "What Are singh-entomopathogenic-fungi-biocontrol-agents and How Do They query-how-to-control-pests-without-chemicals?"
 created: 2026-04-28
 tags: [query, mycology, biocontrol, pest-management, fungi]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: query
 
 ## Short Answer
 
-Entomopathogenic fungi are fungi that infect and kill insects, serving as natural biocontrol agents against agricultural pests. Species like Beauveria bassiana and Metarhizium anisopliae penetrate insect cuticles, grow inside the host body, and release spores to infect new individuals, offering an effective alternative to chemical pesticides in integrated pest management programs.
+Entomopathogenic fungi are fungi that infect and kill insects, serving as natural biocontrol agents against agricultural pests. Species like Beauveria bassiana and Metarhizium anisopliae penetrate insect cuticles, grow inside the host body, and release spores to infect new individuals, offering an effective alternative to chemical pesticides in [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management programs.
 
 ## How Fungal Infection Works
 
@@ -34,7 +34,7 @@ Several species are commercially available for pest management:
 **[[cordyceps-and-entomopathogenic-fungi]]** represent diverse specialized species:
 - Many are highly specific to particular insect hosts
 - Some produce visible fruiting bodies from infected insects
-- The [[mycopesticides-entomopathogenic-fungi]] reference covers commercial formulations, application rates, and pest-specific recommendations.
+- The mycopesticides-entomopathogenic-fungi reference covers commercial formulations, [[ingham-compost-tea-application-rates-and-timing]], and pest-specific recommendations.
 
 ## Integration with Other Biocontrol Methods
 
@@ -44,7 +44,7 @@ Fungal biocontrol works best as part of an integrated pest management approach:
 - Cultural practices like crop rotation and sanitation reduce initial pest populations
 - Physical barriers like row covers prevent initial pest establishment
 - Beneficial predatory insects complement fungal control by feeding on surviving pest individuals
-- In cannabis cultivation, these fungi can manage spider mites and thrips without leaving chemical residues
+- In [[query-how-does-no-till-cannabis-cultivation-work]], these fungi can manage spider mites and thrips without leaving chemical residues
 
 For cannabis growers specifically, entomopathogenic fungi are attractive because they leave zero chemical residues on flower, which is critical for passing pesticide testing requirements at licensed facilities.
 
@@ -52,7 +52,7 @@ For cannabis growers specifically, entomopathogenic fungi are attractive because
 
 Several environmental conditions influence fungal biocontrol performance:
 
-- **Humidity:** High relative humidity (above 80%) favors spore germination and infection
+- **Humidity:** High relative humidity (above 80%) favors [[growing-gourmet-spore-germination-strain-isolation]] and infection
 - **Temperature:** Most species perform best between 70-85F (21-29C)
 - **UV light:** Direct sunlight degrades spores; apply in evening or use UV-protected formulations
 - **Application timing:** Apply when pest populations are low and environmental conditions are favorable
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -32,7 +32,7 @@ Young fruiting bodies are especially vulnerable to drought stress.
 Any period of low humidity can cause irreversible damage to
 developing clusters.
 
-## [[mushroom-primordia-formation-triggers]] success.
+## mushroom-primordia-formation-triggers success.
 
 ### Light [[fruiting-body-development]], with 2000-5000 ppm (0.2-0.5%)
   tolerated during stem development.
@@ -48,8 +48,8 @@ developing clusters.
 
 ## Temperature and Bag Opening
 
-The fruiting temperature range for maitake is notably narrow:
-8-15 C (home), 10-15.6 C up to 18 C (North American),
+The fruiting [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] for maitake is notably narrow:
+8-15 C (home), 10-15.6 C up to 18 C ([[growing-gourmet-north-american-reishi-species]]),
 16-18 C (Japanese, strict 2 C tolerance), and 15-20 C (Chinese).
 Substrate temperature runs 2-3 C higher than ambient air due to
 fungal biomass respiration. Temperature fluctuation beyond optimal
@@ -64,13 +64,13 @@ Never remove the entire bag; retain it to preserve moisture.
 Fruiting efficiency is generally low (1.1-2.2 kg or 4.4 kg per
 bag). Yield can be improved through larger substrate volumes
 (15.4 kg vs 11 kg), soil casing, and second flush generation by
-embedding spent substrate in sawdust covered with soil.
+embedding [[oyster-mushroom-spent-substrate-recycling]] in sawdust covered with soil.
 
 ## References
 
 Chen, A.W. (1999). A Practical Guide for Synthetic-Log Cultivation
-of Medicinal Mushroom Grifola frondosa (Maitake). International
-Journal of Medicinal Mushrooms, Vol. 1, pp. 153-167.
+of [[gourmet-medicinal-mushroom-casing-layer-techniques]] [[maitake-grifola-frondosa-comprehensive-profile]] (Maitake). International
+Journal of [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], Vol. 1, pp. 153-167.
 
 ## See Also
 
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

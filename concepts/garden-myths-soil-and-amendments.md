@@ -22,13 +22,16 @@ Research on compost tea's efficacy is decidedly mixed:
 - **Positive results** are inconsistent and often attributed to the nutrient content of the tea rather than its microbial populations
 - **The microbial problem**: Beneficial microorganisms applied to leaf surfaces face harsh conditions (UV radiation, desiccation, temperature extremes) and rarely establish in sufficient numbers to compete with pathogens
 - **Pathogen risk**: Poorly brewed compost tea can actually contain human pathogens (E. coli, Salmonella) if the source compost was not adequately heated
-- **Reproducibility**: Studies showing disease suppression are difficult to reproduce across different environments, compost sources, and brewing methods
+- **Reproducibility**: Studies showing [[aact-disease-suppression-mechanisms-ingham]] are difficult to reproduce across different environments, compost sources, and [[compost-tea-brewing-methods-aact]]
 
 ### The Balanced View
 
 Compost tea may provide a small nutrient boost when applied as a foliar spray, but the claim that it functions as a reliable disease suppressant is not well-supported. Applying finished compost directly to soil is a more reliable, scientifically sound method for building soil microbial communities and suppressing soil-borne diseases through competitive exclusion.
 
 ### See Also
+
+- [[garden-myths-weeds-and-pest-management]]
+- [[garden-myths-organic-vs-conventional]]
 
 - [[compost-biology-soil-food-web-inoculation]]
 - [[soil-building-permaculture]]
@@ -41,13 +44,13 @@ The mycorrhizal inoculant industry has exploded, with products promising dramati
 
 - **Mycorrhizae are already present** in most undisturbed soils. Native mycorrhizal populations are often well-adapted to local conditions and may outcompete introduced commercial strains
 - **Compatibility matters**: Different plants associate with different types of mycorrhizal fungi (arbuscular mycorrhizae vs. ectomycorrhizae vs. ericoid mycorrhizae). A universal inoculant cannot optimally serve all species
-- **Soil conditions determine success**: Compacted, anaerobic, excessively fertilized (especially high phosphorus), or regularly tilled soils inhibit mycorrhizal colonization regardless of inoculation
+- **Soil conditions determine success**: Compacted, anaerobic, excessively fertilized (especially high phosphorus), or regularly tilled soils inhibit [[arbuscular-mycorrhizal-colonization-patterns]] regardless of inoculation
 - **Efficacy varies**: Some studies show modest benefits (10-20% growth increase) in sterilized potting media, but field results in real soils are far less consistent
 - **The marketing problem**: Many commercial products contain insufficient propagules, dead organisms, or inappropriate species for the intended application
 
 ### The Balanced View
 
-Mycorrhizal inoculants can be beneficial in specific contexts: sterilized nursery media, severely disturbed sites, container plantings, and restoration projects where native mycorrhizal populations have been destroyed. However, for most home gardeners working with established soils, protecting existing mycorrhizal networks through reduced tillage, appropriate phosphorus management, and diverse plantings is more effective and economical than purchasing inoculants.
+Mycorrhizal inoculants can be beneficial in specific contexts: sterilized nursery media, severely disturbed sites, container plantings, and restoration projects where native mycorrhizal populations have been destroyed. However, for most home gardeners working with established soils, protecting existing [[dighton-mycorrhizal-networks-carbon-transfer]] through reduced tillage, appropriate phosphorus management, and diverse plantings is more effective and economical than purchasing inoculants.
 
 ### See Also
 
@@ -128,10 +131,10 @@ Epsom salt is promoted as a cure-all for yellowing leaves, blossom end rot, pest
 
 ### What the Evidence Shows
 
-- **Magnesium deficiency is uncommon** in most garden soils. Most plants get sufficient magnesium from soil minerals and organic matter
+- **[[query-how-to-fix-magnesium-deficiency-in-cannabis]] is uncommon** in most garden soils. Most plants get sufficient magnesium from soil minerals and organic matter
 - **Epsom salt only helps if magnesium is actually deficient**: Without a soil test confirming deficiency, adding Epsom salt is at best useless and at potentially harmful
 - **Excess magnesium causes problems**: Too much magnesium can compete with calcium uptake, potentially causing blossom end rot (the very problem Epsom salt is sometimes claimed to cure)
-- **Calcium deficiency, not magnesium deficiency**, is the primary cause of blossom end rot in tomatoes and peppers
+- **[[knf-calcium-deficiency-symptoms]], not magnesium deficiency**, is the primary cause of blossom end rot in tomatoes and peppers
 
 ### The Balanced View
 

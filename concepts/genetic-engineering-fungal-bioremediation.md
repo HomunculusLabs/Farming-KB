@@ -1,5 +1,5 @@
 ---
-title: Genetic Engineering for Fungal Bioremediation
+title: fukuoka-textdoc-genetic-engineering-critique-warning for Fungal Bioremediation
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -21,9 +21,9 @@ Genetic engineering offers the possibility of overcoming these limitations by in
 
 As noted in the Singh mycoremediation reference, recent advances in molecular biology, biotechnology, and enzymology are the driving force toward engineer-improved fungi and enzymes for mycoremediation. A number of genetic engineering approaches have been developed that have proven beneficial in adding desired qualities in metabolic pathways or enzymes. Strain manipulation is becoming easier with the exponential expansion of molecular tool boxes and genome sequences.
 
-The first complete eukaryotic genome belongs to the yeast Saccharomyces cerevisiae, containing over 12 million base pairs with 16 chromosomes and 6,275 genes. The yeast genome sequence has laid a strong foundation for work in the disciplines of agriculture, industry, medicine, and remediation. The Fungal Genome Initiative (FGI) Steering Committee identified 44 fungi as immediate targets for sequencing. Genome sequences are now available for Schizosaccharomyces pombe, Candida albicans, Aspergillus nidulans, Aspergillus fumigatus, Neurospora crassa, and Coprinus cinereus.
+The first complete eukaryotic genome belongs to the yeast Saccharomyces cerevisiae, containing over 12 million base pairs with 16 chromosomes and 6,275 genes. The yeast genome sequence has laid a strong foundation for work in the disciplines of agriculture, industry, medicine, and remediation. The Fungal Genome Initiative (FGI) Steering Committee identified 44 fungi as immediate targets for sequencing. Genome sequences are now available for Schizosaccharomyces pombe, [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], Aspergillus nidulans, [[gadd-aspergillus-fumigatus-glucan-virulence]], Neurospora crassa, and Coprinus cinereus.
 
-The 30 million base pair genome of the first basidiomycete, Phanerochaete chrysosporium strain RP78, has been sequenced using a whole-genome shotgun approach. The genome reveals genes encoding oxidases, peroxidases, and hydrolytic enzymes involved in wood decay, opening up new horizons related to the biodegradation of lignin and organopollutants and in the area of mycoremediation. These genomic resources provide the foundation for targeted genetic engineering of fungal remediation capabilities.
+The 30 million base pair genome of the first basidiomycete, [[staycare-phanerochaete-chrysosporium-in-bioremediation]] strain RP78, has been sequenced using a whole-genome shotgun approach. The genome reveals genes encoding oxidases, peroxidases, and hydrolytic enzymes involved in wood decay, opening up new horizons related to the biodegradation of lignin and organopollutants and in the area of mycoremediation. These genomic resources provide the foundation for targeted genetic engineering of fungal remediation capabilities.
 
 ## Metabolic Engineering Approaches
 
@@ -33,7 +33,7 @@ Fungal protoplasts can be exploited to enhance processes related to mycoremediat
 
 ## Enzyme Enhancement Strategies
 
-The primary focus of genetic engineering for fungal bioremediation has been improving production and excretion of extracellular fungal enzymes involved in persistent organic pollutant transformation. The three main ligninolytic enzymes targeted are laccases, lignin peroxidase, and manganese peroxidase. These enzymes have broad substrate specificity and can oxidize a wide range of aromatic pollutants including polycyclic aromatic hydrocarbons, polychlorinated biphenyls, chlorinated phenols, and various synthetic chemicals.
+The primary focus of genetic engineering for fungal bioremediation has been improving production and excretion of extracellular fungal enzymes involved in persistent organic pollutant transformation. The three main ligninolytic enzymes targeted are laccases, lignin peroxidase, and [[fungal-manganese-peroxidase-remediation]]. These enzymes have broad substrate specificity and can oxidize a wide range of aromatic pollutants including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons, polychlorinated biphenyls, chlorinated phenols, and various synthetic chemicals.
 
 Laccase and manganese peroxidase genes have been successfully introduced into other fungi noted for their high secretion capability. Aspergillus oryzae, a filamentous fungus widely used in industrial enzyme production, has been transformed with ligninolytic enzyme genes from white-rot fungi. The engineered strains produced and excreted the recombinant enzymes into liquid growth media, demonstrating the feasibility of transferring degradative capabilities between fungal species.
 
@@ -79,6 +79,9 @@ Current research directions include the development of fungi with enhanced toler
 
 [[ligninolytic-enzyme-production-bioremediation]]
 
-[[fungal-enzyme-systems-in-bioremediation]]
+fungal-enzyme-systems-in-bioremediation
 
-[[singh-fungal-treatment-industrial-wastewaters-overview]]
+singh-fungal-treatment-industrial-wastewaters-overview
+- [[neurospora-crassa]]
+- [[aspergillus-fumigatus]]
+- [[ligninolytic-enzymes]]

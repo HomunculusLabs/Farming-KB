@@ -12,15 +12,15 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). Silvics of North America, Vol. 2. USDA Forest Service.
+  - Burns, R.M. & Honkala, B.H. (1990). Silvics of psilocybin-north-america-pacific-northwest, Vol. 2. USDA Forest Service.
   - Beck, D.E. (1990). *Liriodendron tulipifera* L.: Yellow-poplar. USDA Forest Service.
-  - Little, E.L. (1979). Checklist of United States Trees. USDA Forest Service.
+  - Little, E.L. (1979). Checklist of [[dmt-containing-plants-united-states-halpern]] Trees. USDA Forest Service.
   - Duke, J.A. & Ayensu, E.S. (1985). Medicinal Plants of China. Reference Publications.
 ---
 
 ## Overview
 
-**Tulip tree** (*Liriodendron tulipifera*), also called yellow-poplar or tulip-poplar, is one of the largest and most valuable hardwood trees of eastern North America. It can exceed 50 meters in height and 2 meters in trunk diameter, making it the tallest eastern deciduous tree species.
+**Tulip tree** (*Liriodendron tulipifera*), also called yellow-poplar or tulip-poplar, is one of the largest and most valuable hardwood trees of [[polypore-fungi-eastern-north-america]] America. It can exceed 50 meters in height and 2 meters in trunk diameter, making it the tallest eastern deciduous tree species.
 
 Despite the common name "poplar," the species belongs to the magnolia family (Magnoliaceae) and is not closely related to true poplars (*Populus* spp.). It is one of only two extant species in the genus *Liriodendron*, the other being the Chinese tulip tree (*L. chinense*).
 
@@ -40,7 +40,7 @@ Flowers are large and showy, approximately 5–6 cm long, tulip-shaped with 6 gr
 
 The fruit is a cone-like aggregate of samaras (winged seeds), 6–8 cm long, light brown, and persistent through winter. Individual samaras are flat and papery, dispersing on wind from October through March.
 
-Seed production begins at approximately 15–20 years of age, with good seed crops occurring every 2–3 years. Germination requires exposed mineral soil and is enhanced by fire or other disturbance that removes competing vegetation.
+[[cervantes-seed-production-storage]] begins at approximately 15–20 years of age, with good seed crops occurring every 2–3 years. Germination requires exposed mineral soil and is enhanced by fire or other disturbance that removes competing vegetation.
 
 The root system features a deep taproot in youth that gradually develops into a widespread lateral root network. This root architecture provides good wind resistance in open-grown specimens, though the species can be susceptible to lightning strikes due to its height.
 
@@ -84,13 +84,13 @@ In forest ecosystems, tulip tree is a fast-growing canopy dominant that shades o
 
 The species is a larval host for the tuliptree silkmoth (*Callosamia angulifera*) and the eastern tiger swallowtail butterfly (*Papilio glaucus*). Both species feed primarily on the foliage during their larval stages.
 
-Leaf litter from tulip tree decomposes moderately fast, contributing nutrients to forest soils. The large leaf surface area and relatively thin leaf tissue promote rapid microbial colonization and breakdown compared to more lignin-rich oak or hickory litter.
+Leaf litter from tulip tree decomposes moderately fast, contributing nutrients to forest soils. The large [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] area and relatively thin leaf tissue promote rapid microbial colonization and breakdown compared to more lignin-rich oak or hickory litter.
 
 ## Bioactive Compounds
 
 The bark and root bark contain alkaloids, including liriodenine and glaucine, which have been investigated for various pharmacological activities. Liriodenine has demonstrated antibacterial and cytotoxic properties in laboratory studies.
 
-Heartwood extracts contain tulipiferin, a lignan compound with reported antifungal activity. This natural decay resistance contributes to the wood's durability in ground-contact applications, though it is not as resistant as heartwood of black locust or osage orange.
+Heartwood extracts contain tulipiferin, a lignan compound with reported antifungal activity. This natural decay resistance contributes to the wood's durability in ground-contact applications, though it is not as resistant as heartwood of black locust or [[bloomfield-ghosts-of-evolution-osage-orange-anachronism]].
 
 Traditional use of tulip tree bark in Appalachian folk medicine includes preparations as a febrifuge, digestive aid, and anti-rheumatic treatment. The Cherokee people used root bark tea for treating periodic fever and digestive complaints.
 

@@ -1,5 +1,5 @@
 ---
-title: "JADAM Root Diagnosis and Soil Health Indicators"
+title: "JADAM jadam root diagnosis soil health indicators and Soil Health Indicators"
 created: 2026-04-28
 tags:
   - soil-health
@@ -16,13 +16,15 @@ type: concept
 
 # JADAM Root Diagnosis and [[indigenous-microorganisms]]
 
-JADAM calls microorganisms from nearby forests "indigenous microorganisms"
+JADAM calls microorganisms from nearby forests "[[beneficial-indigenous-microorganisms-bim]]"
 (IMO). These are already adapted to local conditions. Bringing them home,
 cultivating them, and applying them restores the natural balance and diversity
 that once existed in farm soils. The key is harmony between producers,
 predators, and decomposers in the soil ecosystem.
 
-## Related Concepts
+## Related
+
+- [[jadam-soil-diagnosis-methods]] Concepts
 
 - [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] for
   compost-based soil improvement
@@ -104,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

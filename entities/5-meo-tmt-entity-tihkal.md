@@ -1,5 +1,5 @@
 ---
-title: 5 Meo Tmt (Tihkal)
+title: 5 5 meo tmt [[2-alpha-dmt-entity-tihkal]] (Tihkal)
 created: 2026-04-16
 updated: 2026-04-16
 type: entity
@@ -62,7 +62,7 @@ CNS depressants
 ## Legal Status
 
 5-MeO-TMT is not specifically scheduled in most jurisdictions. As a
-substituted dimethyltryptamine, it could potentially fall under analogue
+substituted [[dimethyltryptamine]], it could potentially fall under analogue
 ## See Also
 
 ## See Also
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: JADAM Natural Nitrogen Liquid Fertilizer
+title: JADAM jadam natural nitrogen fertilizer jadam-liquid-fertilizer-nutritional-perspective
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -18,7 +18,7 @@ micronutrients. Use [[leaf-mold-composting]]: a handful
 
 ### Method
 1. Put fish meal in container, add water 10x weight
-2. Add leaf mold
+2. Add [[comparison-leaf-mold-composting-vs-hot-composting-method]]
 3. Solid sinks -- stir every 7-10 days for first 3 months
 4. After 3 months, stir once a month
 5. Longer aging = higher nitrogen content
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

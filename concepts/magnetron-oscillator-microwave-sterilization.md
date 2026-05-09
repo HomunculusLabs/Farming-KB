@@ -1,5 +1,5 @@
 ---
-title: Magnetron Oscillator in Microwave Sterilization Systems
+title: Magnetron Oscillator in nasa-microwave-sterilization-challenge-organisms-kill-kinetics Systems
 tags: [microwave, sterilization, magnetron, hardware, surface-decontamination, engineering]
 source: sterilizing-surfaces-by-irradiation-with-microwaves
 created: 2026-05-08
@@ -8,10 +8,10 @@ created: 2026-05-08
 # Magnetron Oscillator in Microwave Sterilization Systems
 
 The magnetron oscillator is the core microwave-generating component in the NASA-
-developed microwave surface sterilization system (MSC-22484). This vacuum tube
+developed [[challenge-microorganisms-microwave-surface-sterilization]] sterilization system (MSC-22484). This vacuum tube
 device converts electrical energy into 2.45 GHz electromagnetic radiation that
 is used to sterilize contaminated surfaces through a combination of direct
-microwave absorption and trace-water-enhanced flash steam generation. The
+microwave absorption and trace-water-enhanced [[trace-water-flash-steam-microwave-sterilization]] generation. The
 magnetron's operating characteristics directly determine the effectiveness and
 efficiency of the sterilization process.
 
@@ -51,7 +51,7 @@ parameters that differ from standard kitchen microwave oven applications:
 - **Duty cycle**: Continuous wave (CW) operation during the sterilization
   exposure period, which totals 13.1 Watt-hours for complete sterilization
 - **Stability**: Output frequency and power must remain stable throughout the
-  exposure period to ensure consistent microbial kill rates
+  exposure period to ensure consistent [[microwave-microbial-kill-curves]] rates
 
 ## System Architecture
 
@@ -66,7 +66,7 @@ transmission chain:
    magnetron's coaxial output into a rectangular waveguide
 4. **Rectangular waveguide**: Directs the microwave energy toward the
    sterilization chamber with minimal losses
-5. **Coaxial power splitter**: Divides the microwave energy into multiple
+5. **Coaxial [[coaxial-power-splitter-waveguide-microwave-sterilization]]**: Divides the microwave energy into multiple
    paths for uniform coverage of the target surface
 6. **Dipole antennas**: Radiate the microwave energy onto the contaminated
    surface from multiple angles, ensuring complete coverage

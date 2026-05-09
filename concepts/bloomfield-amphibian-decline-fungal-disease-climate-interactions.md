@@ -1,5 +1,5 @@
 ---
-title: Amphibian Decline, Fungal Disease, and Climate Interactions
+title: bloomfield amphibian decline fungal disease climate interactions, Fungal Disease, and Climate Interactions
 created: 2026-04-28
 tags:
   - mycology
@@ -59,7 +59,7 @@ Olpidium's most significant impact comes not from direct damage but from its rol
 
 Synchytrium endobioticum causes potato wart disease, producing horrible masses of dark-brown tissue that swell from colonized tubers, rendering the crop inedible. Once established in soil, the disease is extremely difficult to eradicate because Synchytrium produces thick-walled resting spores that survive for more than forty years.
 
-In Newfoundland, crushed crab shells (a waste product of local fisheries) have shown promise as a soil amendment for controlling potato wart. The shells are rich in chitin — the same structural polymer found in chytrid cell walls. Adding chitin-rich material to soil stimulates populations of chitin-degrading bacteria and fungi, which destroy the chytrid resting spores as a byproduct of their normal metabolic activity. The destruction of the chytrid resting spores is a subtle consequence of this radical change in soil ecology.
+In Newfoundland, crushed crab shells (a waste product of local fisheries) have shown promise as a soil amendment for controlling potato wart. The shells are rich in chitin — the same structural polymer found in chytrid cell walls. Adding chitin-rich material to soil stimulates populations of chitin-degrading bacteria and fungi, which destroy the chytrid resting spores as a byproduct of their normal [[arbuscule-isolation-metabolic-activity-assays]]. The destruction of the chytrid resting spores is a subtle consequence of this radical change in soil ecology.
 
 ### Anaerobic Chytrids in the Rumen
 
@@ -69,7 +69,7 @@ Not all chytrids are pathogens. Anaerobic chytrids inhabit the rumen — the lar
 
 Chytrid species also infect mosquito larvae and other aquatic insects, algae, and even other fungi including oomycetes. This ecological breadth reflects the ancient evolutionary history of the Chytridiomycota, which are believed to be the earliest diverging lineage of true fungi. Their flagellated zoospores, single smooth flagellum, and simple thallus organization represent the ancestral condition from which all more complex fungal body plans evolved.
 
-The chytrid's role as a parasite of mosquito larvae has attracted interest from public health researchers, as it raises the possibility of biological control of mosquito populations — and consequently of mosquito-borne diseases like malaria and dengue fever. However, the specificity of chytrid-host interactions and the potential ecological consequences of introducing chytrids into new aquatic habitats make this approach challenging to implement in practice.
+The chytrid's role as a parasite of mosquito larvae has attracted interest from public health researchers, as it raises the possibility of [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] of mosquito populations — and consequently of mosquito-borne diseases like malaria and dengue fever. However, the specificity of chytrid-host interactions and the potential ecological consequences of introducing chytrids into new aquatic habitats make this approach challenging to implement in practice.
 
 ## The Oomycete Connection
 
@@ -77,7 +77,7 @@ It is worth noting that the second amphibian pathogen, Saprolegnia ferax, is not
 
 ## Implications for Conservation
 
-The amphibian decline story carries several important lessons for conservation biology and disease ecology:
+The amphibian decline story carries several important lessons for [[mycelium-running-conservation-biology-and-fungi]] and [[organic-pest-and-disease-management]]:
 
 1. **Fungi as opportunists**: Many fungal pathogens cause disease only when host defenses are compromised by other stressors. Addressing underlying environmental problems may be more effective than targeting the fungus directly.
 2. **Climate as disease driver**: Climate change can promote disease emergence through indirect pathways that are difficult to predict and even harder to demonstrate conclusively.
@@ -88,4 +88,8 @@ The amphibian decline story carries several important lessons for conservation b
 
 Following its formal description in 1998, Batrachochytrium dendrobatidis was recognized as the causative agent of **chytridiomycosis**, a disease that has since been implicated in the decline or extinction of hundreds of amphibian species worldwide. The pathogen has been found on every continent where amphibians occur and is considered one of the most destructive wildlife diseases ever recorded. Its spread has been facilitated by the international trade in amphibians — frogs transported for the pet trade, laboratory research, and human food have carried the pathogen to regions where native amphibian populations had no evolutionary exposure and therefore no resistance.
 
-The story of amphibian decline illustrates a broader principle in disease ecology: emerging infectious diseases rarely result from a single cause. The chytrid fungus and Saprolegnia water mold are genuine pathogens, but their impact is amplified by environmental changes that stress host populations and compromise their immune defenses. Conservation efforts must therefore address both the proximate cause (the pathogen itself) and the ultimate causes (climate change, habitat degradation, and other environmental stressors) that create conditions favorable for disease emergence — challenges explored in fungal biodiversity and conservation.
+The story of amphibian decline illustrates a broader principle in disease ecology: emerging infectious diseases rarely result from a single cause. The chytrid fungus and [[bloomfield-saprolegnia-water-mold-zoospore-discharge]] are genuine pathogens, but their impact is amplified by environmental changes that stress host populations and compromise their immune defenses. Conservation efforts must therefore address both the proximate cause (the pathogen itself) and the ultimate causes (climate change, habitat degradation, and other environmental stressors) that create conditions favorable for disease emergence — challenges explored in fungal biodiversity and conservation.
+
+## See Also
+
+- [[bloomfield-predacious-yeasts-metschnikowia-fungal-carnivory]]

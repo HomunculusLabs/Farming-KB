@@ -1,5 +1,5 @@
 ---
-title: Holzer Crater Gardens and Hugelkultur
+title: Holzer holzer crater gardens hugelkultur and Hugelkultur
 created: 2026-04-26
 tags:
   - earthworks
@@ -24,15 +24,15 @@ sufficiency and land restoration.
 
 ## Hugelkultur: The German Mound
 
-Hugelkultur is a raised bed built with organic material at its core. The
+Hugelkultur is a [[comparison-chinampas-vs-raised-bed-gardening]] built with organic material at its core. The
 advantages are extensive: it enlarges the area for cultivation, creates
 microclimates, allows easy access due to its height, and improves soil
-through decomposing organic matter. In wet areas it is often the best or
+through decomposing [[hamilton-composting-and-organic-matter-management]]. In wet areas it is often the best or
 only way to grow various plants because it dries quicker than the ground. It
 can also serve as a [[holzer-urban-gardening-rubbish-hugelkultur]]
 
 - [[holzer-water-landscapes-retention]] for the water foundation
-- [[permaculture-zones-in-practice]] for zone planning
+- [[permaculture-zones-in-practice]] for [[mollison-course-zone-planning-and-design]]
 ## Practical Applications
 
 Holzer Crater Gardens and Hugelkultur has a range of practical applications that make it relevant to
@@ -110,4 +110,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

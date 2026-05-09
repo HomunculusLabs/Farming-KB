@@ -4,7 +4,7 @@
 Phytochrome is the primary photoreceptor mediating plant responses to red and
 far-red light, playing a central role in processes ranging from seed
 germination and shade avoidance to flowering time regulation. Discovered in
-the 1950s through studies of photoperiodism in plants like Maryland Mammoth
+the 1950s through studies of photoperiodism in plants like [[chamovitz-maryland-mammoth-photoperiodism-discovery]]
 tobacco, phytochrome operates as a molecular switch that toggles between two
 forms depending on the wavelength of light it absorbs. This elegant system
 allows plants to sense not only the presence of light but also its quality —
@@ -46,8 +46,8 @@ properties. The diversification of phytochrome family members allows plants to
 maintain sensitivity to light quality across a wide range of environmental
 conditions:
 
-- **phyA**: The predominant phytochrome in dark-grown (etiolated) seedlings, responsible for "very-low-fluence" responses. PhyA is extraordinarily sensitive and can respond to extremely low light levels, enabling germination of seeds buried deep in soil. It is rapidly degraded in light conditions, making it primarily a detector during the critical transition from darkness to illumination when a seedling first emerges.
-- **phyB**: The most abundant phytochrome in light-grown plants and the principal mediator of "low-fluence-rate" responses. PhyB is the primary photoreceptor for shade detection and flowering time regulation. Unlike phyA, phyB is stable in light and accumulates throughout the plant's life.
+- **phyA**: The predominant phytochrome in dark-grown (etiolated) seedlings, responsible for "very-low-fluence" responses. PhyA is extraordinarily sensitive and can respond to extremely [[darkness-low-light-facilitation-entheogenic-ceremonies]] levels, enabling germination of seeds buried deep in soil. It is rapidly degraded in light conditions, making it primarily a detector during the critical transition from darkness to illumination when a seedling first emerges.
+- **phyB**: The most abundant phytochrome in light-grown plants and the principal mediator of "low-fluence-rate" responses. PhyB is the primary photoreceptor for [[phytochrome-red-far-red-ratio-shade-detection-plants]] and flowering time regulation. Unlike phyA, phyB is stable in light and accumulates throughout the plant's life.
 - **phyC, phyD, phyE**: These have overlapping but distinct roles in modulating plant architecture, leaf angle, petiole elongation, and seasonal responses, contributing to fine-tuning of shade avoidance and photoperiodic responses.
 
 The functional diversification allows a single plant to maintain appropriate
@@ -71,7 +71,7 @@ development, accelerated flowering, and reduced branching.
 The response is remarkably sensitive: plants detect far-red light reflected
 from neighbors before any actual shading occurs, enabling preemptive
 competitive growth. In dense crop plantings, shade avoidance significantly
-reduces yield as resources are diverted from seed production to stem
+reduces yield as resources are diverted from [[cervantes-seed-production-storage]] to stem
 elongation. Understanding the phytochrome pathways underlying SAS has
 important implications for breeding crops with reduced shade sensitivity,
 potentially enabling higher planting densities without yield penalties — a
@@ -99,7 +99,7 @@ phytochrome system ensures that germination is timed to maximize the
 probability of successful seedling establishment. The same mechanism also
 detects changes in the light environment caused by canopy disturbance — when a
 tree falls and opens a gap in the forest, the sudden increase in red light
-reaching the soil triggers germination of the buried seed bank, a phenomenon
+reaching the soil triggers germination of the buried [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]], a phenomenon
 well-documented in temperate and tropical forests.
 
 ## Downstream Signaling: PIFs and Light-Regulated Gene Expression
@@ -119,7 +119,7 @@ COP1 is an E3 ubiquitin ligase that targets positive regulators of
 photomorphogenesis for degradation in darkness; light-activated phytochrome
 inhibits COP1 activity, stabilizing these regulators. Together, these
 interactions create a complex regulatory network that fine-tunes plant
-responses to changing light environments throughout the life cycle, from
+responses to changing light environments throughout the [[bloomfield-fungal-life-cycle-spiral-versus-circle]], from
 germination through senescence.
 
 ## See Also

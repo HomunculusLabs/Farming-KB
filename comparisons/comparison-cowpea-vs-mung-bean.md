@@ -1,6 +1,6 @@
 ---
-title: "Cowpea vs Mung Bean"
-subtitle: Comparing two warm-season grain legumes for tropical and subtropical food systems
+title: "comparison cowpea vs mung bean Bean"
+subtitle: Comparing two warm-season [[query-best-grain-legumes-for-a-small-homestead]] for tropical and subtropical food systems
 tags:
   - grain-legumes
   - pulse-crops
@@ -25,19 +25,19 @@ created: 2026-05-03
 
 # Cowpea vs Mung Bean
 
-Cowpea (*[[vigna-radiata]]*) are two warm-season grain legumes that share the same genus but occupy distinct ecological niches and culinary traditions. Both are critical protein sources across the tropics and subtropics, valued for their short growing seasons, nitrogen-fixing ability, and adaptability to low-input farming. This comparison examines their agronomic, nutritional, and culinary differences to help growers choose the right species for their context.
+Cowpea (*[[vigna-radiata]]*) are two warm-season grain legumes that share the same genus but occupy distinct ecological niches and culinary traditions. Both are critical protein sources across the tropics and subtropics, valued for their short growing seasons, nitrogen-fixing ability, and adaptability to low-input farming. This comparison examines their agronomic, nutritional, and culinary differences to help growers [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] species for their context.
 
 ## Taxonomy and Origin
 
 | Feature | Cowpea | Mung Bean |
 |---------|--------|-----------|
 | **Species** | *Vigna unguiculata* | *Vigna radiata* |
-| **Center of Origin** | West Africa | South/Southeast Asia |
+| **Center of Origin** | West Africa | South/[[psilocybe-southeast-asia-pacific]] |
 | **Domestication** | ~5,000–7,000 years ago | ~4,000–4,500 years ago |
 | **Primary Gene Pool** | Sub-Saharan Africa | Indian subcontinent |
 | **Wild Progenitor** | *V. unguiculata* ssp. *dekindtiana* | *V. radiata* var. *sublobata* |
 
-Both species belong to the *Vigna* genus (subgenus *Ceratotropis*), which is distinct from Old World beans (*Phaseolus*) and New World beans (*[[legume-nitrogen-fixation-mechanism]]
+Both species belong to the *Vigna* genus (subgenus *Ceratotropis*), which is distinct from [[datura-metel-old-world-ethnobotany]] beans (*Phaseolus*) and New World beans (*[[legume-nitrogen-fixation-mechanism]]
 - [[permaculture-plants-root-crops-and-tubers]]
 ## Practical Considerations
 
@@ -55,7 +55,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,3 +98,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[comparison-pigeon-pea-vs-cowpea]]

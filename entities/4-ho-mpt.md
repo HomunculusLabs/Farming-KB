@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Shulgin, A.T. & Shulgin, A. (1997). "TIHKAL: The Continuation." Transform Press.
   - Trachsel, D. et al. (2013). "Psilocybin, psilocin, and baeocystin." In: The Psychotropic Drugs, 4th Ed.
-  - Dean, B.V. et al. (2013). "Legal highs: review of the situation." Drug Testing and Analysis 5(6): 410-415.
+  - Dean, B.V. et al. (2013). "Legal highs: review of the situation." [[psychedelic-drug-testing-and-adulterant-screening]] and Analysis 5(6): 410-415.
   - Nichols, D.E. (2016). "Psychedelics." Pharmacological Reviews 68(2): 264-355.
 ---
 
@@ -103,11 +103,11 @@ The compound is typically crystallized as the fumarate salt for improved stabili
 
 4-HO-MPT is unscheduled in most countries due to its relative obscurity and recent emergence.
 
-In the United States, it may be considered an analogue of psilocin under the Federal Analogue Act, though prosecution for simple possession is rare.
+In the [[dmt-containing-plants-united-states-halpern]], it may be considered an analogue of psilocin under the Federal Analogue Act, though prosecution for simple possession is rare.
 
 It is controlled in several European countries under blanket bans on substituted tryptamines.
 
-The United Kingdom's Psychoactive Substances Act 2016 likely covers the compound.
+The United Kingdom's Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016 likely covers the compound.
 
 Legal status continues to evolve as novel tryptamines are identified and scheduled.
 

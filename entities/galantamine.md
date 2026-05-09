@@ -25,7 +25,7 @@ Galantamine is a naturally occurring tertiary amine alkaloid classified as
 a competitive, reversible acetylcholinesterase (AChE) inhibitor. It also
 acts as a positive allosteric modulator of nicotinic acetylcholine
 receptors (nAChRs). Originally isolated from Caucasian snowdrop
-(*Galanthus nivalis*) and other Amaryllidaceae plants, it is used
+(*[[galanthus-nivalis]]*) and other Amaryllidaceae plants, it is used
 clinically under the brand name Razadyne for the symptomatic treatment
 of Alzheimer's disease.
 
@@ -58,7 +58,7 @@ This dual mechanism is considered unique among AChE inhibitors and may
 contribute to additional cognitive and neuroprotective effects.
 
 **Pharmacokinetics:**
-- Oral bioavailability: ~90%
+- [[first-pass-metabolism-and-oral-bioavailability]]: ~90%
 - Peak plasma concentration: 1–2 hours post-dose
 - Half-life: 5–7 hours
 - Metabolism: Hepatic via CYP2D6 and CYP3A4
@@ -91,7 +91,7 @@ Galantamine occurs in several Amaryllidaceae species at varying
 concentrations:
 - *Galanthus nivalis* (common snowdrop) — original discovery source
 - *Galanthus woronowii* — commercial cultivation source
-- *Narcissus pseudonarcissus* (daffodil) — bulbs contain galantamine
+- *[[narcissus-pseudonarcissus]]* (daffodil) — bulbs contain galantamine
 - *Leucojum aestivum* (summer snowflake) — significant source
 - *Lycoris radiata* (red spider lily) — East Asian source
 
@@ -113,7 +113,7 @@ Eastern Europe preceded Western adoption by several decades.
 Commercial production initially relied on wild-harvested *Galanthus*
 bulbs from Turkey and Bulgaria. Overharvesting led to conservation
 concerns; modern production uses cultivated *Leucojum aestivum*
-in the Netherlands and China, supplemented by total chemical synthesis.
+in the Netherlands and China, supplemented by total [[psilocin-chemical-synthesis]].
 
 ## Legal Status
 
@@ -125,6 +125,6 @@ in the Netherlands and China, supplemented by total chemical synthesis.
 
 ## See Also
 
-- [[arecoline]] — Muscarinic agonist alkaloid from betel nut
+- [[arecoline]] — Muscarinic agonist alkaloid from [[betel-nut-arecoline-ethnobotany]]
 - [[beta-carboline]] alkaloid with MAOI activity
 - [[caffeine]] — Widely used stimulant with cholinergic interactions

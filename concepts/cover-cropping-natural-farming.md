@@ -1,5 +1,5 @@
 ---
-title: Cover Cropping in Natural Farming
+title: fukuoka-clover-cover-cropping-soil-ecology in comparison-natural-farming-vs-permaculture
 created: 2026-04-28
 tags: [cover-crops, natural-farming, green-manure, soil-health]
 date: 2026-04-25
@@ -12,14 +12,14 @@ type: concept
 
 Cover cropping is an essential practice in natural farming
 systems, serving simultaneously as soil protection, weed
-suppression, nitrogen fixation, and organic matter
+suppression, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], and [[hamilton-composting-and-organic-matter-management]]
 contribution. [[korean-natural-farming]] and [[soil-health-and-management|soil health]]
 strategy also central to [[fukuoka-no-till-grain-production-method|no-till]]
 principles and [[jadam-cover-crop-method]] extends cover cropping
 principles with specific guidance on [[jadam-cover-crop-soil-temperature-management]], and
 [[korean-natural-farming]], grass mulching combined
 with cover crops serves as a remedy for weeds. Brown
-rice vinegar can be used to dwarf unwanted vegetation
+[[brown-rice-vinegar-brv]] can be used to dwarf unwanted vegetation
 while allowing desired cover crops to thrive.
 
 ## Design Principles for Cover Cropping
@@ -52,7 +52,7 @@ dimensions.
 ## Related Pages
 
 [[hugelkultur-bed-construction-detailed]] uses buried wood and organic matter as a long-term soil-building analog to cover cropping.
-[[permaculture-green-manure-crops|green manure]] details specific green manure species and their nitrogen contributions.
+green manure details specific green manure species and their nitrogen contributions.
 ## Practical Considerations
 
 When working with Cover Cropping in Natural Farming, several practical factors should be
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

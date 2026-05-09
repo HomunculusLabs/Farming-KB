@@ -1,5 +1,5 @@
 ---
-title: "Amanita Muscaria Pharmacology"
+title: "Amanita amanita-muscaria-pharmacology-dosing-guide"
 created: 2026-04-28
 tags: amanita-muscaria, muscimol, ibotenic-acid, fly-agaric,
        gaba-receptors, toxic-mushrooms]
@@ -14,9 +14,9 @@ type: concept
 ## Overview
 
 Amanita muscaria (fly [[amanita-pantherina]] (panther cap)
-contain the psychoactive compounds muscimol and ibotenic acid. Unlike
+contain the psychoactive compounds muscimol and [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]]. Unlike
 [[hallucinogenic-plants-native-to-united-states]],
-[[amanita-phalloides]] (death cap) typically grow in close proximity to
+[[amanita-phalloides]] ([[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]]) typically grow in close proximity to
 Amanita muscaria and Amanita pantherina. Amanita phalloides contains
 amatoxins causing irreversible liver failure and is responsible for
 the majority of fatal mushroom poisonings worldwide.
@@ -38,7 +38,7 @@ use rates or underreporting.
 ## Shamanic and Cultural Use
 
 Shamanic practices with Amanita muscaria have been documented among
-Arctic Circle peoples (particularly Siberia) and some Native American
+Arctic Circle peoples (particularly Siberia) and some [[halpern-sacramental-peyote-and-native-american-church]]
 tribes. The mushroom holds a prominent place in folklore and popular culture due to its distinctive appearance.
 
 ## Legal Status
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

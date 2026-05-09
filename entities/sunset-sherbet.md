@@ -11,18 +11,18 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Staff (2023). "Sunset Sherbet Cannabis Strain Information." Leafly.com.
+  - Leafly Staff (2023). "Sunset Sherbet blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.com.
   - AllBud (2023). "Sunset Sherbet Strain Review." AllBud.com.
-  - ElSohly, M.A., et al. (2016). "Changes in Cannabis Potency Over the Last 2 Decades." Biological Psychiatry, 79(7), 613–619.
+  - ElSohly, M.A., et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] Over the Last 2 Decades." Biological Psychiatry, 79(7), 613–619.
   - Gushwa, K. (2022). "The Cookie Family Lineage and Its Impact on Modern Cannabis." Cannabis Science Journal, 4(2).
-  - Mudge, E.M., et al. (2018). "Cannabis Chemotaxonomy: Chemotypes and Terpene Profiles." Phytochemistry, 150, 39–47.
+  - Mudge, E.M., et al. (2018). "Cannabis Chemotaxonomy: Chemotypes and [[cannabis-terpene-profiles-sativa]]." Phytochemistry, 150, 39–47.
 ---
 
 ## Overview
 
 **Sunset Sherbet** (often shortened to **Sherbet** or **SSH**) is an indica-dominant
 hybrid cannabis strain descended from the legendary **Girl Scout Cookies** (GSC)
-lineage. Bred in the San Francisco Bay Area during the early 2010s, it was
+lineage. Bred in the [[shipibo-san-francisco-ceremonial-center-ucayali]] Bay Area during the early 2010s, it was
 stabilized and popularized by the Cookie Family collective.
 
 The strain earned its name from its distinctly dessert-like aroma — a complex
@@ -39,7 +39,7 @@ including the entire **Gelato** family.
 - **Breeder:** Cookie Family (Bay Area, California)
 
 Girl Scout Cookies itself is a cross of OG Kush × Durban Poison, giving Sunset
-Sherbet a rich genetic background spanning Afghani, South African, and
+Sherbet a rich genetic background spanning Afghani, [[kanna-sceletium-south-african-narcotic]], and
 Californian landrace genetics.
 
 ## Appearance
@@ -49,7 +49,7 @@ are tightly packed with a thick coating of **trichomes** that gives the flowers
 a frosted, silvery appearance under direct light.
 
 Coloration is one of the strain's most distinguishing features — mature flowers
-display deep forest green interwoven with shades of dark purple and violet,
+display deep [[trichoderma-forest-green-mold-guide]] interwoven with shades of dark purple and violet,
 accented by bright orange pistils that stand in vivid contrast against the
 darker foliage.
 
@@ -127,6 +127,8 @@ commercial breeding. Its most significant offspring include:
 
 ## See Also
 
+- [[sunset-sherbert]]
+
 - [[girl-scout-cookies]] — Direct parent strain of Sunset Sherbet
-- [[gelato-cannabis]] — Most commercially successful Sunset Sherbet offspring
-- [[wedding-cake-cannabis]] — Related dessert-strain descendant
+- [[gelato]] — Most commercially successful Sunset Sherbet offspring
+- [[wedding-cake]] — Related dessert-strain descendant

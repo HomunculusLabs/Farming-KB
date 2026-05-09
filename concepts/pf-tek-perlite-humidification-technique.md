@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-The perlite humidification technique is an alternative humidity management method for mushroom fruiting chambers that uses a layer of wetted perlite to create and maintain high humidity conditions. Originally described as an anonymous internet newsgroup posting, this low tech approach gained rapid popularity among cultivators for its simplicity and effectiveness. When used in conjunction with the PF dual chambered terrarium, perlite humidification can eliminate the need for frequent manual spraying while maintaining optimal fruiting conditions.
+The perlite humidification technique is an alternative [[stamets-cultivator-humidity-management-fogging-systems]] method for [[ectomycorrhizal-mushroom-fruiting-ecology]] chambers that uses a layer of wetted perlite to create and maintain high humidity conditions. Originally described as an anonymous internet newsgroup posting, this low tech approach gained rapid popularity among cultivators for its simplicity and effectiveness. When used in conjunction with the PF dual [[dual-chambered-terrarium-design]], perlite humidification can eliminate the need for frequent manual spraying while maintaining optimal fruiting conditions.
 
 ## What Is Perlite
 
@@ -30,7 +30,7 @@ The perlite humidification process relies on several physical properties of the 
 - Water moves through the porous structure and evaporates gradually into the air above
 - The evaporation occurs slowly over an extended period (estimated at weeks)
 
-Unlike its sister material vermiculite, perlite does not actually absorb and hold water internally in the same way. Instead, water is drawn into the pore spaces and held by surface tension, then released through evaporation at a steady, controlled rate. This gradual release is what makes perlite ideal for humidification: it provides consistent moisture without oversaturation.
+Unlike its sister material vermiculite, perlite does not actually absorb and hold water internally in the same way. Instead, water is drawn into the pore spaces and held by [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]], then released through evaporation at a steady, controlled rate. This gradual release is what makes perlite ideal for humidification: it provides consistent moisture without oversaturation.
 
 ### The Water Layer Dynamic
 
@@ -113,9 +113,11 @@ This principle extends throughout the PF TEK, from the vermiculite barrier repla
 
 ## Modern Relevance
 
-The perlite humidification technique described in the PF TEK has become a foundational element of modern mushroom cultivation. The shotgun fruiting chamber (SGFC), one of the most popular fruiting containers for home cultivators, is essentially a direct descendant of the perlite humidification concept. The SGFC uses a plastic tote with drilled holes filled with a perlite layer, applying the same evaporation based humidification principle that was first popularized through the PF TEK community.
+The perlite humidification technique described in the PF TEK has become a foundational element of modern [[accessible-mushroom-cultivation-for-disabilities]]. The [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] chamber (SGFC), one of the most popular fruiting containers for home cultivators, is essentially a direct descendant of the perlite humidification concept. The SGFC uses a plastic tote with drilled holes filled with a perlite layer, applying the same evaporation based humidification principle that was first popularized through the PF TEK community.
 
 ## See Also
+
+- [[pf-tek-perlite-humidification-evaporation-dynamics]]
 
 - [[pf-tek-fruiting-chamber]] for the dual chambered terrarium
 - [[pf-substrate-formula]] for the role of vermiculite in the substrate

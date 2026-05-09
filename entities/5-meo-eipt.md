@@ -13,9 +13,9 @@ updated: 2026-04-28
 sources:
   - "Shulgin, A. & Shulgin, A. (1997). \"TiHKAL: The Continuation.\" Transform Press."
   - "Shulgin, A.T. (1981). \"Hallucinogens.\" In Burg & Wolbach (Eds.), The Psychopharmacology of Hallucinogens. Pergamon Press."
-  - "Ray, T.S. (2010). \"Psychedelics: The Pharmacology of 5-HT2A Receptor Agonists.\" Drug Discovery Today: Disease Models, 7(3–4), e109–e118."
+  - "Ray, T.S. (2010). \"Psychedelics: The Pharmacology of 5-HT2A [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]].\" Drug Discovery Today: Disease Models, 7(3–4), e109–e118."
   - "Nichols, D.E. (2016). \"Psychedelics.\" Pharmacological Reviews, 68(2), 264–355."
-  - "Passie, T. et al. (2008). \"The Pharmacology of Lysergic Acid Diethylamide.\" CNS Neuroscience & Therapeutics, 14(4), 295–310."created: 2026-05-07
+  - "Passie, T. et al. (2008). \"The Pharmacology of [[ergot-and-lysergic-acid-history]] Diethylamide.\" CNS Neuroscience & Therapeutics, 14(4), 295–310."created: 2026-05-07
 
 created: 2026-05-07
 ---
@@ -24,7 +24,7 @@ created: 2026-05-07
 
 5-MeO-EiPT (5-methoxy-N-ethyl-N-isopropyltryptamine) is a synthetic substituted tryptamine and psychedelic compound. It belongs to the N-alkylated tryptamine class documented in Alexander and Ann Shulgin's TiHKAL.
 
-The compound is characterized by its short duration, moderate potency, and a pharmacological profile distinct from both 5-MeO-DMT and 5-MeO-DIPT. It remains a rare research chemical with limited human pharmacological data.
+The compound is characterized by its [[savory-short-duration-grazing-and-cell-systems]], moderate potency, and a pharmacological profile distinct from both 5-MeO-DMT and 5-MeO-DIPT. It remains a rare research chemical with limited human pharmacological data.
 
 Its primary mechanism of action is agonism at the 5-HT2A serotonin receptor, the canonical target of classical psychedelic tryptamines.
 
@@ -46,7 +46,7 @@ The N-ethyl-N-isopropyl substitution pattern is relatively uncommon among trypta
 
 5-MeO-EiPT acts primarily as a 5-HT2A receptor agonist, the receptor most strongly correlated with classical psychedelic effects. Activity at 5-HT1A and 5-HT2C receptors is likely but has not been formally characterized in vitro.
 
-The N-ethyl-N-isopropyl substitution pattern influences receptor binding affinity and selectivity compared to symmetrical N,N-dialkyl analogues. Asymmetric substitution generally reduces potency relative to N,N-dimethyl compounds like 5-MeO-DMT.
+The N-ethyl-N-isopropyl substitution pattern influences [[tihkal-receptor-binding-serotonin]] affinity and selectivity compared to symmetrical N,N-dialkyl analogues. Asymmetric substitution generally reduces potency relative to N,N-dimethyl compounds like 5-MeO-DMT.
 
 The compound likely undergoes oxidative deamination by monoamine oxidase (MAO), similar to other unsubstituted tryptamines. This contributes to its short duration of action.
 
@@ -64,9 +64,9 @@ Body load is reported as moderate, with some users noting mild gastrointestinal 
 
 ## Legal Status
 
-5-MeO-EiPT is unscheduled in most jurisdictions, though it may fall under analog acts in countries with blanket tryptamine prohibition. In the United States, the Federal Analog Act potentially classifies it as a Schedule I substance if intended for human consumption.
+5-MeO-EiPT is unscheduled in most jurisdictions, though it may fall under analog acts in countries with blanket tryptamine prohibition. In the [[dmt-containing-plants-united-states-halpern]], the Federal Analog Act potentially classifies it as a Schedule I substance if intended for human consumption.
 
-The compound is controlled in the United Kingdom under the Psychoactive Substances Act 2016, which prohibits all psychoactive substances not specifically exempted.
+The compound is controlled in the United Kingdom under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016, which prohibits all psychoactive substances not specifically exempted.
 
 In many European countries, 5-MeO-EiPT exists in a legal grey area due to its absence from specific scheduling lists. It is not listed on the UN Convention on Psychotropic Substances.
 
@@ -107,7 +107,6 @@ The compound is of interest primarily to psychopharmacology researchers studying
 - [[dmt-nn-dimethyltryptamine]]
 - [[bufotenin]]
 - [[dmt]]
-- [[dmt-nn-dimethyltryptamine]]
 - [[4-aco-dipt]]
 - [[tryptophan]]
 - [[4-ho-met]]

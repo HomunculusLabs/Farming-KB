@@ -1,5 +1,5 @@
 ---
-title: Sativa vs Indica — The Classification Debate
+title: cannabis-sativa-vs-indica-guide — The Classification Debate
 created: 2026-05-08
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
@@ -54,7 +54,7 @@ grower turns their back for even a short period.
 The Rev's wolf metaphor extends beyond physical characteristics
 to encompass the fundamental nature of each type. Sativas, being
 "wild-ish and highly adaptable plants," do not respond well to the
-force-feeding approach common in indoor cultivation with synthetic
+force-feeding approach common in [[cannabis-sativa-indoor-cultivation-techniques]] with synthetic
 nutrients. They show their displeasure through reduced quality --
 the final harvest from a poorly grown sativa is, in The Rev's
 words, "sub-par at best, if not downright ragweed."
@@ -67,7 +67,7 @@ primary reason indicas dominated the market for so long.
 
 ## Hybrid Breeding Strategies
 
-The cannabis breeding world has developed two main approaches to
+The [[oner-cannabis-breeding-fundamentals]] world has developed two main approaches to
 bridging the sativa-indica gap. European breeders, particularly in
 Spain, have focused on bringing indica traits into sativa plants --
 reducing height, increasing yield, and shortening flowering times
@@ -75,7 +75,7 @@ while preserving sativa effects and flavors. Strains like Y Griega
 from Medical Seeds Co. and Amnesika 2.0 from Philosopher Seeds
 exemplify this approach.
 
-North American breeders have pursued the opposite strategy: bringing
+[[growing-gourmet-north-american-reishi-species]] breeders have pursued the opposite strategy: bringing
 sativa traits into indica plants. The goal is to create hybrids small
 enough for indoor cultivation but possessing the psychedelic and
 head highs associated with the best sativa strains. This approach
@@ -92,7 +92,7 @@ inspiration, focus, or social energy. Indica strains produce
 relaxing, sedative, body-focused effects preferred for evening use
 and pain management.
 
-This effect distinction is why many medical marijuana users
+This effect distinction is why many [[cervantes-medical-marijuana-pharmacology]] users
 discovered they had been using the wrong type. Patients who needed
 energy and mental clarity during the day were being given heavy
 indicas that left them sedated. The expansion of legal access
@@ -102,7 +102,7 @@ availability alone, driving demand for sativa-dominant options.
 ## Flavor and Terpene Diversity
 
 Sativa strains are famous for their fruity smells and berry
-flavors. The terpene profiles of landrace sativas from different
+flavors. The [[cannabis-terpene-profiles-sativa]] of landrace sativas from different
 regions produce remarkably diverse sensory experiences -- from the
 citrus and tropical notes of Southeast Asian varieties to the
 earthy, spicy profiles of African landraces. Strains like Mango

@@ -1,5 +1,5 @@
 ---
-title: Solomon on Transplanting and Hardening Off
+title: Solomon on solomon transplanting and hardening off Off
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -17,7 +17,7 @@ From [[steve-solomon]].
 Solomon strongly advocates direct seeding as the primary method for most vegetables, arguing that the nursery/seedling industry developed primarily to serve two markets: (1) people who garden as a minor hobby and are willing to accept poor results, and (2) market gardeners in cool maritime climates where some crops simply cannot mature without a head start.
 
 ### Problems with Transplants
-- **Shock**: Even hardened-off seedlings experience transplant shock, losing days or weeks of growth
+- **Shock**: Even hardened-off seedlings experience [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]], losing days or weeks of growth
 - **Root disturbance**: Most vegetables have root systems that resent disturbance; cutting or circling roots from container growing permanently damages the plant
 - **Succulence**: Greenhouse-grown seedlings are always lush and succulent, having been pushed for maximum growth rates with high fertility and regular watering. This makes them:
   - More attractive to pests (especially flea beetles)
@@ -79,15 +79,18 @@ When direct seeding, Solomon recommends sowing several seeds per station (3-5 fo
 
 ## Related
 
+- [[solomon-planting-and-transplanting-guide]]
+- [[vegetable-transplanting-and-hardening-off]]
+
 - [[solomon-complete-organic-fertilizer-guide]]
 - [[solomon-row-covers-and-season-extension]]
-- Raised Beds vs. Double Digging
+- Raised Beds vs. [[comparison-double-digging-vs-no-till]]
 
 ## Merged: [[solomon-raised-beds]] Vs Double Digging
 
 # Raised Beds vs Double Digging
 
-Steve Solomon explicitly rejects the intensive gardening orthodoxy of double-digging raised beds to 24 inches (60 centimeters) deep. He argues this practice is unnecessary, labor-intensive, and produces little additional benefit for the effort expended.
+Steve Solomon explicitly rejects the [[solomon-wide-spacing-versus-intensive-gardening-debate]] orthodoxy of double-digging raised beds to 24 inches (60 centimeters) deep. He argues this practice is unnecessary, labor-intensive, and produces little additional benefit for the effort expended.
 
 ## The Case Against Double Digging
 
@@ -119,7 +122,7 @@ Try using a rake to make a zone of fine soil on flat ground after spading it up.
 
 ### Compaction Prevention
 
-Raised beds grow better plants because they tend to stay looser. People don't step on them. Walking on the root systems of growing vegetables compacts soil and makes it more difficult for the vegetables to develop roots in the first place. This is critical because root development directly determines plant health and productivity.
+Raised beds grow better plants because they tend to stay looser. People don't step on them. Walking on the root systems of [[container-growing-vegetables-herbs]] compacts soil and makes it more difficult for the vegetables to develop roots in the first place. This is critical because root development directly determines plant health and productivity.
 
 Raising the growing areas a few inches also reminds people to keep their feet off.
 
@@ -139,4 +142,4 @@ Immediately after digging a new garden, using a combination shovel, move along w
 
 Small-sized vegetables - beets, carrots, lettuce, bush beans, bush peas - do well on raised beds or raised wide rows. Larger plants such as Swiss chard, many varieties of cucumber, cabbage, kale, and Brussels sprouts also grow well on raised beds and in wide raised single rows.
 
-The exceptions are all species that have large, vigorously sprouting seeds or that grow big, widely sprawling plants, such as squash, melons, and some kinds of tomatoes. Sweet corn, which needs to grow in a large cluster to pollinate, also does better "on the flat."
+The exceptions are all species that have large, vigorously [[solomon-sprouting-seeds-and-early-season-nutrition]] or that grow big, widely sprawling plants, such as squash, melons, and some kinds of tomatoes. Sweet corn, which needs to grow in a large cluster to pollinate, also does better "on the flat."

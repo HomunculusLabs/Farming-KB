@@ -1,5 +1,5 @@
 ---
-title: Black Locust as Nitrogen-Fixing Timber Tree
+title: comparison-black-locust-vs-honey-locust as Nitrogen-Fixing Timber Tree
 created: 2026-04-28
 tags:
   - permaculture
@@ -18,7 +18,7 @@ type: concept
 
 Black locust (Robinia pseudoacacia) is a fast-growing, nitrogen-fixing
 legume reaching 25 metres in height and living for up to 200 years. A
-native of the Appalachian and Ozark mountains of the United States, it
+native of the Appalachian and Ozark mountains of the [[dmt-containing-plants-united-states-halpern]], it
 belongs to the family Fabaceae/Papilionaceae. Black locust is one of the
 most valuable multipurpose trees in [[knf-poultry-feed-preparation]], adding another layer of
 function to this multipurpose tree. In [[bee-forage-plants]] have not yet begun
@@ -31,7 +31,7 @@ Black locust plantings provide valuable wildlife habitat. The flowers
 attract pollinators, the foliage supports browsing animals, and the
 branch structure offers nesting and shelter sites for birds. As part of
 a [[permaculture-pioneer-species]] strategies, black locust can be used to establish conditions
-for longer-term tree crops, similar to the role played by [[permaculture-energy-systems]], the suckering habit can be managed through rotational
+for longer-term tree crops, similar to the role played by permaculture-energy-systems, the suckering habit can be managed through rotational
 grazing.
 
 ## Companion Species
@@ -41,7 +41,7 @@ alder (Alnus spp) and tagasaste (Chamaecytisus palmensis) in
 [[comparison-food-forest-design-vs-backyard-orchard-design]], black locust is
 typically placed in the outer canopy or as a north-facing windbreak
 element. Its nitrogen-fixing ability improves soil fertility for
-adjacent fruit and nut trees. The coppiced poles can be used throughout
+adjacent fruit and [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]]. The coppiced poles can be used throughout
 the system for trellising, fencing, and garden structures, creating a
 closed-loop resource cycle.
 
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

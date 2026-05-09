@@ -10,10 +10,10 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Iezzoni AF (2008). "Cherry." In: Breed. Fruit Crops. Springer.
+  - Iezzoni AF (2008). "Cherry." In: Breed. uncommon-specialty-fruit-crops-for-permaculture. Springer.
   - Whiting MD et al. (2005). "Cherry." In: Horticultural Reviews 31. Wiley.
   - Webster AD (1996). "Cherry rootstocks." In: Rootstock Guide. East Malling Research.
-  - FAO (2023). "FAOSTAT: Cherries, sweet — production data."
+  - FAO (2023). "FAOSTAT: Cherries, sweet — [[psilocybe-cubensis-miniculture-production-data-and-flush-longevity]]."
 ---
 
 ## Overview
@@ -43,7 +43,7 @@ with serrate margins and acuminate tips. The foliage turns yellow to
 orange-red in autumn.
 
 Flowers are hermaphroditic, white, approximately 2–3 cm in diameter,
-borne in corymbs of 2–6 in early spring before or with leaf emergence.
+borne in corymbs of 2–6 in [[coleman-overwintered-onions-and-early-spring-crops]] before or with leaf emergence.
 
 Fruit is a drupe (stone fruit) 1–3 cm in diameter, typically dark red
 to nearly black at maturity. The flesh is firm, sweet, and juicy,
@@ -60,7 +60,7 @@ to 1,800 m. It prefers deep, well-drained, fertile loam soils with
 pH 6.0–7.5.
 
 Cultivated sweet cherries are grown commercially across temperate
-regions worldwide, with major production in Turkey, the United States,
+regions worldwide, with major production in Turkey, the [[dmt-containing-plants-united-states-halpern]],
 Italy, Spain, and Chile.
 
 ## Cultivation
@@ -71,7 +71,7 @@ Modern sweet cherry orchards are typically planted at densities of
 encourage earlier bearing.
 
 Flowering occurs early in spring, making the crop vulnerable to late
-frost damage. Frost protection methods include wind machines,
+frost damage. [[holzer-frost-protection-techniques]] methods include wind machines,
 overhead sprinklers, and heaters.
 
 Key pests include the cherry fruit fly (*Rhagoletis cerasi*), cherry
@@ -100,7 +100,7 @@ Melatonin content in sweet cherries has attracted research interest,
 with values ranging from 0.1–1.5 µg per gram. Tart cherries
 (*Prunus cerasus*) contain substantially higher melatonin levels.
 
-Other bioactive compounds include hydroxycinnamic acids (neochlorogenic
+Other [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include hydroxycinnamic acids (neochlorogenic
 and chlorogenic acid), flavanols (catechin and epicatechin), and
 carotenoids (beta-carotene and beta-cryptoxanthin).
 

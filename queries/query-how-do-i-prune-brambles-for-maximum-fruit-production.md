@@ -1,5 +1,5 @@
 ---
-title: How Do I Prune Brambles for Maximum Fruit Production
+title: How Do I query how do i prune brambles for maximum fruit production for Maximum Fruit Production
 created: 2026-05-06
 tags:
 type: query
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

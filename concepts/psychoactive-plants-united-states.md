@@ -27,18 +27,18 @@ DMT is an endogenous hallucinogen present in small amounts in the human brain. W
 
 ### Natural US Sources
 
-- **Phalaris arundinacea, P. tuberosa, P. aquatica** (reed canary grass): Found throughout the US in fallow fields, sidewalk cracks, and lawns. DMT content is highly variable. High-percentage strains are commercially available online. DMT can be extracted through simple juice extraction.
+- **[[phalaris-arundinacea]], P. tuberosa, P. aquatica** (reed canary grass): Found throughout the US in fallow fields, sidewalk cracks, and lawns. DMT content is highly variable. High-percentage strains are commercially available online. DMT can be extracted through simple juice extraction.
 
-- **Desmanthus illinoensis** (prairie bundleflower): Wide distribution across the American prairies. Root bark contains approximately 0.34% DMT by dry weight.
+- **[[desmanthus-illinoensis]]** (prairie bundleflower): Wide distribution across the American prairies. Root bark contains approximately 0.34% DMT by dry weight.
 
 - **Psychotria viridis**: Not native to the US but relevant as the traditional DMT source in Amazonian ayahuasca preparations, containing 0.1% to 0.66% DMT by dry weight.
 
 ### Ayahuasca and MAOI Sources
 
-DMT is orally active only when monoamine oxidase (MAO) enzymes are inhibited. Amazonian ayahuasca combines DMT from Psychotria viridis with reversible type A MAOIs (harmaline, harmine, tetrahydroharmine) from Banisteriopsis caapi. US-native MAOI sources include:
+DMT is orally active only when monoamine oxidase (MAO) enzymes are inhibited. Amazonian ayahuasca combines DMT from Psychotria viridis with reversible type A MAOIs (harmaline, harmine, tetrahydroharmine) from [[banisteriopsis-caapi]]. US-native MAOI sources include:
 
 - **Peganum harmala** (Syrian rue): Introduced to the western US, now found wild. Contains 2 to 4% MAOI by dry weight. The richest natural source of beta-carboline alkaloids.
-- **Passiflora incarnata** (passionflower): Grows throughout the Southeast and much of the Midwest. Contains approximately 1% MAOI. Bears edible fruit and is used in herbal preparations for sedative properties.
+- **[[passiflora-incarnata]]** (passionflower): Grows throughout the Southeast and much of the Midwest. Contains approximately 1% MAOI. Bears edible fruit and is used in herbal preparations for sedative properties.
 
 Nontraditional ayahuasca-analogue brews from these American plants are documented online, though their pharmacology differs from traditional preparations.
 
@@ -68,7 +68,7 @@ Peyote induces nausea and vomiting in novices. A potent intoxication requires ap
 
 ### San Pedro and Peruvian Torch Cacti
 
-Trichocereus pachanoi (San Pedro) and T. peruvianus (Peruvian torch) are common ornamental plants available from garden shops nationwide. Mescaline content varies widely: T. pachanoi contains 0.33% to 2.375% mescaline by dry weight; T. peruvianus contains 0% to 0.82%. These are typically boiled into a soup for ingestion, producing more nausea than peyote due to the large volume of plant material.
+[[trichocereus-pachanoi]] (San Pedro) and T. peruvianus (Peruvian torch) are common ornamental plants available from garden shops nationwide. Mescaline content varies widely: T. pachanoi contains 0.33% to 2.375% mescaline by dry weight; T. peruvianus contains 0% to 0.82%. These are typically boiled into a soup for ingestion, producing more nausea than peyote due to the large volume of plant material.
 
 ## Salvia divinorum
 
@@ -101,7 +101,7 @@ Atropine and scopolamine are competitive antagonists of muscarinic cholinergic r
 - **Datura stramonium** (Jimson weed): Grows wild throughout the US except Wyoming and Alaska
 - **Atropa belladonna** (deadly nightshade): Introduced as an ornamental
 - **Hyoscyamus niger** (henbane): Contains scopolamine without atropine
-- **Mandragora officinarum** (Mandrake): Introduced ornamental
+- **[[mandragora-officinarum]]** (Mandrake): Introduced ornamental
 
 ### Intoxication Profile
 

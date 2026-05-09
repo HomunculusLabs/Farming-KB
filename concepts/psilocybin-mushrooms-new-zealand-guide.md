@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushrooms of New Zealand
+title: forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of New Zealand
 created: 2026-04-26
 tags:
   - mycology
@@ -20,7 +20,7 @@ type: concept
 
 Until the late 1970s, the fact that psilocybin-containing mushrooms grew
 naturally in New Zealand (NZ) was known to very few people. The perception
-among those interested in psychedelic drugs was that "magic mushrooms" were an
+among those interested in psychedelic drugs was that "[[guzman-magic-mushrooms-african-species]]" were an
 Australian phenomenon, and that the only mushrooms of this nature found in NZ
 had arrived via the post. All analyses performed by the Department of
 Scientific and Industrial Research (DSIR) for the police at that time were
@@ -40,7 +40,7 @@ about the same time, a botanist from the United Kingdom recognized
   gregarious on soil with wood or leafy debris; fruits in April
 
 - Psilocybe eucalypta -- found northwest of New Plymouth; solitary on soil
-  or in small groups among grassy woody debris or mosses in eucalyptus
+  or in small groups among grassy [[fungal-succession-woody-debris-ecology]] or mosses in eucalyptus
   forests
 
 - Psilocybe subaeruginosa -- common on small pieces of buried wood on rough
@@ -61,7 +61,7 @@ psychoactive.
 Dr. Karl L. R. Jansen reports that there are at least 5 unidentified species
 from New Zealand which are considered psychoactive. In 1981, there was a
 report of an unidentified bluing Psilocybe species with affinities to the
-North American Psilocybe caerulipes.
+[[growing-gourmet-north-american-reishi-species]] Psilocybe caerulipes.
 
 ## The Maori Question
 

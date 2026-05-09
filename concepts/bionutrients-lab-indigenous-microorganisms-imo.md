@@ -1,5 +1,5 @@
 ---
-title: Bionutrients Lab — Indigenous Microorganisms (IMO)
+title: Bionutrients Lab — beneficial-indigenous-microorganisms-bim (IMO)
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -10,7 +10,7 @@ sources: ["raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"]
 
 **Updated:** 2026-04-24
 
-Indigenous Microorganisms (IMO) are beneficial microorganisms collected from local environments — primarily forests, bamboo groves, and specific plant rhizospheres — and cultured for use in agriculture. The core principle is that locally adapted microorganisms are more effective than imported or commercial cultures because they are already suited to local soil, climate, and ecological conditions. As described by Gil Carandang, IMO forms the foundation of the Beneficial Indigenous Microorganism (BIM) formulation alongside lactic acid bacteria.
+Indigenous Microorganisms (IMO) are beneficial microorganisms collected from local environments — primarily forests, bamboo groves, and specific plant rhizospheres — and cultured for use in agriculture. The core principle is that locally adapted microorganisms are more effective than imported or commercial cultures because they are already suited to local soil, climate, and ecological conditions. As described by Gil Carandang, IMO forms the foundation of the [[query-how-do-i-use-beneficial-indigenous-microorganisms]] Microorganism (BIM) formulation alongside lactic acid bacteria.
 
 Related preparations include [[bionutrients-lab-fermented-plant-juice-fpj]], [[bionutrients-lab-fish-aminos]], and [[bahay-kubo-imo-collection-and-preparation]] and [[soil-food-web-structure]] and [[teaming-with-microbes-soil-food-web-overview]].
 
@@ -125,7 +125,7 @@ The more diverse the microbial sources, the better. The 50% LAB ratio is maintai
 
 ## Theory of Microbial Farming
 
-Natural farmers of the East focus on microbial farming as their primary approach to soil fertility, in contrast to Western biodynamic and organic farming which emphasizes composts, nutrients, cover crops, and rotations. The key insight is:
+Natural farmers of the East focus on microbial farming as their primary approach to soil fertility, in contrast to Western biodynamic and [[coleman-deep-organic-farming-philosophy]] which emphasizes composts, nutrients, cover crops, and rotations. The key insight is:
 
 - Living soil is the alpha and omega of soil fertility
 - What makes soil alive is the existence of life forms, especially microorganisms
@@ -133,4 +133,8 @@ Natural farmers of the East focus on microbial farming as their primary approach
 - Sustainable agriculture depends on soil fertility, which is determined by diversity and balance of microbial ecologies
 - BIM + bionutrients = complete system for establishing healthy, fertile, living soil
 
-When sprayed on plants, IMO increases phyllosphere bacteria that process organic matter on leaf surfaces, making nutrients available to plants. The proliferation of beneficial microorganisms combined with bionutrients can arrest pest and disease problems by restoring ecological balance — the oriental medicine principle that disease results from imbalance and disharmony.
+When sprayed on plants, IMO increases phyllosphere bacteria that process [[hamilton-composting-and-organic-matter-management]] on leaf surfaces, making nutrients available to plants. The proliferation of beneficial microorganisms combined with bionutrients can arrest [[hamilton-pest-and-disease-control-organic]] problems by restoring [[fukuoka-ecological-balance-principles]] — the oriental medicine principle that disease results from imbalance and disharmony.
+
+## See Also
+
+- [[imo-indigenous-microorganisms]]

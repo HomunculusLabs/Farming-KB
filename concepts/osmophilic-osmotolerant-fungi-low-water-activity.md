@@ -1,5 +1,5 @@
 ---
-title: Osmophilic and Osmotolerant Fungi - Low Water Activity
+title: Osmophilic and osmophilic osmotolerant fungi low water activity - Low Water Activity
 created: 2026-04-26
 tags:
   - mycology
@@ -24,7 +24,7 @@ concentrated sugar and salt products and represent an important
 ecological group within [[xerophilic-xerotolerant-fungi]]
 by the cause of low water activity. Osmophilic fungi grow where
 low water activity results from osmotic effects of dissolved
-solutes (sugars, salts). Xerophilic fungi grow where low water
+solutes (sugars, salts). [[biodiversity-xerophilic-fungi-dry-environments]] grow where low water
 activity results from the matrix potential of the substratum
 itself (drying). The effects of low water activity on growth
 may be similar for both groups, but the causes differ.
@@ -74,7 +74,9 @@ salt marsh and estuarine decomposition processes.
 
 ## See Also
 
+- [[osmotolerant-osmophilic-fungi]]
+
 - [[halotolerant-halophilic-fungi-salt-tolerant-diversity]]
 - [[acidophilic-alkalophilic-fungi]]
-- [[fungal-competition-respiration-decomposition]]
+- fungal-competition-respiration-decomposition
 - [[fungal-roles-soil-food-webs]] -- Penicillium, another major genus in low-aw foods

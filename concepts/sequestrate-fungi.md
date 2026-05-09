@@ -3,16 +3,12 @@ title: Sequestrate Fungi — Ecology, Diversity, and Sampling
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-# Sequestrate Fungi — Ecology, Diversity, and Sampling
+# Sequestrate Fungi — Ecology, Diversity, and Sampling ## Overview Sequestrate fungi represent a diverse guild of fungi that produce enclosed, hypogeous (underground) or semi-hypogeous fruiting bodies. These fungi do not actively discharge their spores; instead, they rely entirely on animal vectors for spore dispersal — a strategy known as mycophagy. Approximately **150 genera** and **~1,200 species** have been described across **38 families** and **11 orders**, spanning the [[basidiomycete-phylum-guide]], and Zygomycetes. Global species richness is estimated to be more than double the number currently described.
 
-## Overview
-
-Sequestrate fungi represent a diverse guild of fungi that produce enclosed, hypogeous (underground) or semi-hypogeous fruiting bodies. These fungi do not actively discharge their spores; instead, they rely entirely on animal vectors for spore dispersal — a strategy known as mycophagy. Approximately **150 genera** and **~1,200 species** have been described across **38 families** and **11 orders**, spanning the [[basidiomycete-phylum-guide]], and Zygomycetes. Global species richness is estimated to be more than double the number currently described.
-
-Surveys in Australia suggest that up to **90% of sequestrate fungi remain undescribed**, highlighting a massive gap in fungal biodiversity knowledge. These organisms are central to understanding [[fungal-earthworm-interactions]] in forest ecosystems.
+Surveys in Australia suggest that up to **90% of sequestrate fungi remain undescribed**, highlighting a massive gap in [[biodiversity-fungal-biodiversity-estimation-methods]] knowledge. These organisms are central to understanding fungal-earthworm-interactions in forest ecosystems.
 
 ## Ecology and Symbiosis
 
@@ -37,7 +33,7 @@ Sequestrate fungi have evolved independently from epigeous (above-ground) ancest
 
 > **Suillus** → **Gastrosuillus** → **Truncocolumella** → **Rhizopogon** → **Alpova / Melanogaster**
 
-This series illustrates the gradual transition from exposed, forcibly-discharging mushrooms to fully enclosed, animal-dispersed truffle-like forms, with progressive loss of the stipe, cap, and active spore discharge.
+This series illustrates the gradual transition from exposed, forcibly-discharging mushrooms to fully enclosed, animal-dispersed truffle-like forms, with progressive loss of the stipe, cap, and active [[bloomfield-fungal-spore-discharge-and-dispersal]].
 
 ## Key Genera
 
@@ -68,9 +64,9 @@ Sampling sequestrate fungi requires specialized techniques:
 
 ## Biogeographic Patterns
 
-Sequestrate fungi exhibit distinctive distribution patterns across the globe:
+Sequestrate fungi exhibit distinctive [[guzman-global-distribution-patterns-neurotropic-fungi]] across the globe:
 
-- **Pacific Northwest (North America)** — Exceptionally diverse communities associated with conifer-dominated forests; key genera include *Rhizopogon*, *Hysterangium*, and *Gautieria*
+- **Pacific Northwest ([[psilocybin-north-america-pacific-northwest]])** — Exceptionally diverse communities associated with conifer-dominated forests; key genera include *Rhizopogon*, *Hysterangium*, and *Gautieria*
 - **Australia** — Extraordinarily high proportion of undescribed species (~90%); many endemic lineages with Gondwanan origins
 - **Mediterranean regions** — Important centers of *Tuber* (truffle) diversity with long cultural and economic associations
 - **Neotropics** — Increasingly recognized as harboring significant undescribed sequestrate diversity
@@ -79,18 +75,19 @@ Seasonal and interannual variation in fruiting can be substantial, reinforcing t
 
 ## Conservation Concerns
 
-Several factors threaten sequestrate fungal diversity:
+Several factors threaten sequestrate [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]:
 
 - **Habitat loss** — Forest clearing eliminates both the fungal habitat and their animal dispersers
 - **Disruption of mycophagist populations** — Declines in mammal and bird species directly reduce spore dispersal capacity
-- **Climate change** — Altered precipitation and temperature regimes may disrupt the timing and extent of fruiting
+- **[[dighton-fungi-climate-change-feedback]]** — Altered precipitation and temperature regimes may disrupt the timing and extent of fruiting
 - **Inadequate survey effort** — The vast majority of species remain undocumented, making conservation assessment impossible
 
 ## Significance
 
-Sequestrate fungi are a critical yet underappreciated component of [[fungal-biodiversity-forest-floor]]. Their dependence on animal dispersal makes them vulnerable to disruptions in mammal and bird populations, and their high proportion of undescribed species underscores the urgency of systematic survey efforts worldwide.
+Sequestrate fungi are a critical yet underappreciated component of fungal-biodiversity-forest-floor. Their dependence on animal dispersal makes them vulnerable to disruptions in mammal and bird populations, and their high proportion of undescribed species underscores the urgency of systematic survey efforts worldwide.
 
 ## Related
 
-- [[guild-design-methodology]]
+- guild-design-methodology
 - [[sequestrate-fungi-ecology-evolution]]
+- [[spore-dispersal]]

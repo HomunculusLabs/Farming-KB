@@ -1,5 +1,5 @@
 ---
-title: McKenna on Mushroom Cultivation History
+title: McKenna on accessible-mushroom-cultivation-for-disabilities History
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -13,13 +13,13 @@ tags: [cultivation, history, mushroom-cultivation]
 In [Food of the Gods, [[psychedelic-mushroom-set-and-setting]]
 traces the history of human interaction with psychedelic mushrooms from
 prehistoric foraging through the modern era of deliberate cultivation. The
-narrative connects ancient mushroom religion to the [discovery and rediscovery of psilocybin mushrooms and the eventual democratization
+narrative connects ancient mushroom religion to the [discovery and rediscovery of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] and the eventual democratization
 of access through cultivation techniques.
 
 ## The Stropharia Cubensis Relationship
 
 McKenna identifies [Stropharia cubensis
-(Psilocybe cubensis) as the central mushroom in human evolutionary history.
+([[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]) as the central mushroom in human evolutionary history.
 This species alone among grassland psilocybin mushrooms contains the
 compound in concentrated amounts without nausea-producing side effects. It
 is pandemic throughout tropical regions wherever zebu-type cattle graze. The
@@ -52,7 +52,7 @@ from these mushrooms. Roger Heim, the French mycologist, had already
 identified the species involved. The Wasson-Hofmann collaboration was the
 beginning of serious scientific attention to the Mazatec mushroom practice.
 
-Timothy Leary's [Harvard Psilocybin Project
+Timothy Leary's [[leary-harvard-psilocybin-project]] Project
 further popularized the experience. Leary was recruited for what he called
 "my planetary mission" by his first psilocybin encounter in Mexico. However,
 LSD soon eclipsed psilocybin as the drug of choice in Harvard circles due
@@ -83,7 +83,7 @@ Hallucinations come easier with psilocybin, and so does a sense that this is
 not merely a lens for inspection of the personal psyche, but a communication
 device for getting in touch with the world of the high shamanism of Archaic
 antiquity. A community of therapists and "astronauts of inner space" evolved
-around the cultivated mushrooms -- quiet groups of professionals and inner
+around the [[fungi-cultivated-mushrooms-pathogens-competitors]] -- quiet groups of professionals and inner
 pioneers who constitute the core of people who admitted the psychedelic
 experience into their lives and continued to grapple with it.
 
@@ -102,7 +102,7 @@ the [vegetable mind of the planet.
 
 McKenna views the cultivation movement as a harbinger of the [Archaic Revival. The democratization of psilocybin access represented a partial
 restoration of the ancient symbiotic relationship between humans and visionary
-plants that dominator culture had systematically severed. For McKenna, this
+plants that [[mckenna-dominator-culture-and-suppression-of-ecstasy]] had systematically severed. For McKenna, this
 quiet community of cultivators and inner pioneers constitutes the cultural
 infrastructure through which the [vegetable mind of the planet continues to communicate with humanity.
 

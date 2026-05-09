@@ -29,9 +29,9 @@ Most people know coffee and tea, but several other plants produce significant ca
 
 ### Growable at Home
 
-| Plant | Scientific Name | Caffeine Level | Cold Hardiness | Difficulty |
+| Plant | Scientific Name | Caffeine Level | [[coleman-cold-hardiness-testing-ratings]] | Difficulty |
 |-------|----------------|---------------|----------------|------------|
-| Tea | *Camellia sinensis* | High (2.5–6%) | Zone 7 | Moderate |
+| Tea | *[[camellia-sinensis-entity]]* | High (2.5–6%) | Zone 7 | Moderate |
 | Yerba mate | *Ilex paraguariensis* | Moderate (0.8–1.5%) | Zone 8b | Moderate |
 | Yaupon | *Ilex vomitoria* | Moderate (0.8–1.5%) | Zone 7 | Easy |
 | Guayusa | *Ilex guayusa* | High (2–4%) | Zone 10 | Moderate |
@@ -42,7 +42,7 @@ Most people know coffee and tea, but several other plants produce significant ca
 - **Kola nut** (*Cola nitida*) — tropical West African tree; needs zone 10+
 - **Guarana** (*Paullinia cupana*) — Amazonian vine; seeds contain 4–6% caffeine
 - **Cacao** (*Theobroma cacao*) — low caffeine but significant theobromine; zone 11+
-- **Yaupon is the only caffeine plant native to North America**
+- **Yaupon is the only caffeine plant native to [[psilocybin-north-america-pacific-northwest]]**
 
 ## Which One Should I Grow?
 
@@ -56,7 +56,7 @@ Most people know coffee and tea, but several other plants produce significant ca
 → **Yaupon**, without question. It is nearly indestructible — drought-tolerant, cold-hardy, pest-free, grows in any well-drained soil, and requires minimal pruning or fertilization. You can literally grow it as an ornamental hedge and harvest leaves whenever you want.
 
 ### "I want to replicate traditional tea varieties (green, black, oolong)"
-→ **Tea** (*Camellia sinensis*) is the only option. All true teas come from this one species. The difference between green and black tea is processing (oxidation level), not the plant. Tea requires more attention than the others — precise harvesting, processing, and more pest management — but offers unmatched variety.
+→ **Tea** (*Camellia sinensis*) is the only option. All true teas come from this one species. The difference between green and black tea is processing (oxidation level), not the plant. Tea requires more attention than the others — precise harvesting, processing, and more [[cannabis-pest-management-guide]] — but offers unmatched variety.
 
 ### "I want a social, shared drinking experience"
 → **Yerba mate** has a rich cultural tradition of communal drinking from a shared gourd with a metal straw (bombilla). It requires subtropical conditions (zone 8b+) and consistent moisture. The smoky, earthy flavor is distinctive and polarizing — people tend to love it or hate it.
@@ -92,7 +92,7 @@ Most people know coffee and tea, but several other plants produce significant ca
 2. **Plant**: In acidic soil (pH 5.0–6.0), protected from harsh afternoon sun
 3. **Water**: Consistent moisture, good drainage essential
 4. **Fertilize**: Regular nitrogen (especially in spring) promotes leaf flush
-5. **Harvest**: Pluck "two leaves and a bud" every 7–14 days during growing season
+5. **Harvest**: Pluck "two leaves and a bud" every 7–14 days during [[savory-growing-season-and-non-growing-season-management]]
 6. **Process**: For green tea — steam or pan-fire leaves immediately to stop oxidation, then roll and dry. For black tea — bruise leaves, allow full oxidation (6–12 hours), then dry
 7. **Brew**: 1 teaspoon per cup, 70–80°C for green, 95–100°C for black, 2–3 minutes
 
@@ -101,7 +101,7 @@ Most people know coffee and tea, but several other plants produce significant ca
 1. **Get seeds or cuttings**: Easier from cuttings — semi-hardwood with rooting hormone under mist
 2. **Plant**: In rich, acidic forest soil with shade canopy
 3. **Water**: Very high moisture needs — never let dry out
-4. **Fertilize**: Heavy compost and organic matter
+4. **Fertilize**: Heavy [[coleman-compost-and-organic-fertility-management]] matter
 5. **Harvest**: Coppice entire plant to 30–60 cm every 1–2 years
 6. **Process**: Air-dry leaves in shade, then finish at low heat (40–60°C)
 7. **Brew**: Steep 1 tablespoon dried leaf in 240 ml water at 80°C for 5–7 minutes
@@ -133,3 +133,5 @@ Per 240 ml (8 oz) cup, approximate:
 - query what are caffeine plants and how do i grow them
 - [[herb-growing-guide]]
 - [[food-forest-layers-and-species]]
+
+- [[query-how-do-i-grow-elderberries-and-what-are-their-medicinal-uses]]

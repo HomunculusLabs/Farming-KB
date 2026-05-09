@@ -14,7 +14,7 @@ Mulching is the practice of covering the soil surface with a layer of organic or
 ## Benefits of Mulching
 
 - **Weed suppression**: A thick mulch blocks light, preventing weed seeds from germinating and smothering existing small weeds
-- **Moisture retention**: Mulch reduces evaporation from the soil surface, reducing the need for watering — important for [[hamilton-animal-manure-types-and-use]] can be used as a mulch, applied in a thick layer over the soil surface. It provides all the benefits of compost mulch with the added advantage of higher nutrient content. However, it is essential that the manure is fully rotted — fresh manure will scorch young shoots and may introduce weed seeds.
+- **Moisture retention**: Mulch reduces evaporation from the soil surface, reducing the need for watering — important for [[hamilton-animal-manure-types-and-use]] can be used as a mulch, applied in a thick layer over the soil surface. It provides all the benefits of [[teaming-with-microbes-compost-mulch-tea]] with the added advantage of higher nutrient content. However, it is essential that the manure is fully rotted — fresh manure will scorch young shoots and may introduce weed seeds.
 
 ### Grass Cuttings
 
@@ -45,12 +45,12 @@ Bark chippings, compost, and decorative gravel are popular choices for ornamenta
 
 ### Fruit Garden
 
-Strawberry beds benefit from straw mulch, which keeps the fruit clean and suppresses weeds. Fruit trees and bushes are mulched with compost or manure to maintain soil fertility.
+Strawberry beds benefit from [[fukuoka-rice-straw-mulch-central-technique]], which keeps the fruit clean and suppresses weeds. [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and bushes are mulched with compost or manure to maintain soil fertility.
 
 ### Containers
 
-A layer of mulch on top of container compost helps retain moisture — particularly useful for [[ground-cover-plants]] — living mulches and ground cover plants
-- [[green-manure-cover-crops]] — green manure as a form of soil protection
+A layer of mulch on top of container compost helps retain moisture — particularly useful for [[ground-cover-plants]] — living mulches and [[fukuoka-citrus-orchard-ground-cover-cultivation]] plants
+- [[green-manure-cover-crops]] — [[comparison-green-manure-guide-vs-mulch-types-and-effects]] as a form of soil protection
 - [[organic-vegetable-garden-rotation-deep-beds]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
 ## Practical Considerations
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

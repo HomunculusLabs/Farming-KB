@@ -1,5 +1,5 @@
 ---
-title: Mushroom Yield Optimization
+title: brassinosteroid-mushroom-yield-dry-mass Optimization
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Yield optimization in mushroom cultivation is the practice of maximizing the dry weight of harvested mushrooms per unit of substrate and effort. While individual grows vary, systematic attention to genetics, substrate preparation, environmental conditions, and harvesting technique can consistently produce above-average results. This page covers the key factors that influence yield and practical strategies for improvement.
+Yield optimization in [[accessible-mushroom-cultivation-for-disabilities]] is the practice of maximizing the dry weight of harvested mushrooms per unit of substrate and effort. While individual grows vary, systematic attention to genetics, [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]], environmental conditions, and harvesting technique can consistently produce above-average results. This page covers the key factors that influence yield and practical strategies for improvement.
 
 ## Understanding Biological Efficiency
 
@@ -17,7 +17,7 @@ Biological efficiency (BE) is the standard metric for mushroom cultivation yield
 
 BE = (dry weight of mushrooms / dry weight of substrate) x 100
 
-For Psilocybe cubensis:
+For [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]:
 - Average BE: 75-100%
 - Good BE: 100-150%
 - Excellent BE: 150-200%+
@@ -71,8 +71,8 @@ The only way to confirm yield potential is to fruit the isolate. Maintain a mast
 Adding 5-10% nitrogen-rich supplements can increase yield by 20-50%:
 
 - **Wheat bran**: Most popular supplement. Add 5-10% by volume. Requires proper pasteurization.
-- **Coffee grounds**: 5-10% by volume. Can be added to bucket tek.
-- **Soy hulls**: Excellent supplement, especially for oyster mushrooms. Less commonly used for cubensis.
+- **[[oyster-mushroom-coffee-grounds-cultivation]]**: 5-10% by volume. Can be added to bucket tek.
+- **Soy hulls**: Excellent supplement, especially for [[query-how-to-grow-oyster-mushrooms-at-home]]. Less commonly used for cubensis.
 - **Blood meal**: 2-5% by volume. Very high nitrogen.
 
 Critical: Supplemented substrates MUST be properly pasteurized (140-170F for 60-120 minutes). The bucket tek is insufficient for supplemented substrates because the added nutrition is highly susceptible to contamination.
@@ -140,29 +140,6 @@ Mushrooms grow in "flushes" — distinct waves of fruiting separated by rest per
 Most monotub setups produce 2-3 productive flushes. After the third flush, yield drops sharply and contamination risk increases. The total yield across all flushes typically represents 80-90% of the theoretical maximum for that substrate volume.
 
 ## Harvesting Technique
-
-- Harvest at the right time: just before or just after the veil tears.
-- Twist at the base rather than cutting. Cutting leaves a stump that can rot and attract contamination.
-- Harvest all mushrooms, including aborts (small mushrooms that stopped growing).
-- Dry immediately after harvest — see [[mushroom-harvesting-techniques]].
-
-## Misting and Fanning Protocol
-
-A simple, consistent misting and fanning routine improves yields:
-
-1. **Check the substrate surface**: If it glistens with tiny droplets, no misting needed. If it appears matte or dry, mist lightly.
-2. **Mist from above**: Hold the spray bottle 12-18 inches above the tub and spray a fine mist. Never spray directly onto pins or mushrooms.
-3. **Fan after misting**: Wave the tub lid over the opening 3-5 times to exchange air and distribute moisture.
-4. **Frequency**: 2-4 times per day depending on environmental conditions. Adjust based on surface moisture.
-5. **Reduce misting as mushrooms mature**: Large mushrooms near harvest need less surface moisture.
-
-## Common Yield Problems
-
-- **Low first flush**: Check spawn ratio, substrate depth, and consolidation time. Inoculate with a proven isolate rather than multi-spore.
-- **No pinning**: Check temperature, FAE, and light. The substrate may need a cold shock or FAE increase.
-- **Aborts**: Usually caused by touching pins, over-misting, large temperature swings, or CO2 buildup.
-- **Hollow stems**: Caused by rapid growth with insufficient humidity. Increase misting frequency.
-- **Small caps**: Insufficient FAE or excessive CO2. Loosen polyfill or increase fanning.
 
 ## Related Topics
 

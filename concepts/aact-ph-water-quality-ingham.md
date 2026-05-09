@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Field Guide I for Actively Aerated Compost Tea, Dr. Elaine Ingham, Soil Foodweb Inc.
+Source: The Field Guide I for Actively [[actively-aerated-compost-tea-aact-brewing]] Tea, Dr. Elaine Ingham, Soil Foodweb Inc.
 
 Ingham provides a nuanced view of pH in compost tea and soil, arguing that the soil foodweb itself manages pH and that excessive focus on pH numbers is part of the "chemical paradigm."
 
@@ -49,7 +49,7 @@ The analogy: "You can be sick and not have a temperature. But a temperature is a
 ### Ideal Range
 - pH 6.5 to 7.5 is good for plants needing a 1:1 fungi-to-bacteria ratio
 - Blueberries and other ericaceous plants prefer tea pH 5.5 to 7.0 (matching their fungal soil preference)
-- For pasture grass in Australia, pH 8.5 might match the soil pH the plants are growing in
+- For [[mollison-designers-tropical-pasture-grass-species-and-establishment]] in Australia, pH 8.5 might match the soil pH the plants are growing in
 
 ### Why pH Matters in Tea
 If pH is WILDLY off, it will kill the organisms in the compost. The practical question: how much wiggle room?
@@ -73,7 +73,7 @@ Answer: If you have active bacteria and fungi in the tea, don't worry about pH. 
 - For spray tank: add citric acid before adding tea
 
 ### Practical Consideration
-If your irrigation water is high pH, add organic matter or humic/fulvic acids to the soil surface. These will react with the excess OH ions before the water moves into the soil. Testing is needed to determine how much is required.
+If your irrigation water is high pH, add [[hamilton-composting-and-organic-matter-management]] or humic/fulvic acids to the soil surface. These will react with the excess OH ions before the water moves into the soil. Testing is needed to determine how much is required.
 
 ## The Chemical Paradigm vs. Biological Paradigm
 
@@ -88,12 +88,12 @@ Ingham challenges the conventional approach to pH:
 ### Biological Paradigm
 - Establish the right foodweb for the plant
 - The foodweb buffers pH to the correct range
-- Roses (acid-loving) can grow in alkaline soil IF the right mycorrhizal fungi are established around their roots
+- Roses (acid-loving) can grow in alkaline soil IF the right [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] are established around their roots
 - "CT and a healthy soil foodweb make this concern with pH a part of the chemical paradigm, and are not as important with sustainable practices"
 
 ### The Limits
 - Below 4.5: calcium, iron, phosphorus and other nutrients become unavailable
-- Above 10: same nutrient availability problems
+- Above 10: same [[ph-and-nutrient-availability-garden-soils]] problems
 - Between 4.5 and 10: the foodweb can manage, given good biology
 - The foodweb maintains the form of N, P, S, K, Ca, Fe, etc. that the plant needs
 
@@ -117,7 +117,7 @@ Organisms alter pH through their metabolic waste:
 - High salts must be addressed — there is no workaround
 
 ### Organic Matter Content
-- Water with dissolved organic matter may contain organisms that compete with your compost biology
+- Water with [[dighton-fungal-dissolved-organic-carbon-production]] matter may contain organisms that compete with your compost biology
 - Generally not a problem, but worth testing if results are inconsistent
 
 See also: [[aact-troubleshooting-ingham]], [[compost-tea-aact]]

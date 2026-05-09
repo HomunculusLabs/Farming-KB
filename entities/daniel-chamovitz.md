@@ -11,14 +11,14 @@ sources:
 
 # Daniel Chamovitz
 
-Daniel Chamovitz is an Israeli biologist and author of *What a Plant Knows: A Field Guide to the Senses of Your Garden — and Beyond* (2012, Oneworld Publications/Scientific American Books). The book explores the sensory capabilities of plants, revealing how plants perceive light, smell chemicals, feel mechanical stimuli, and respond to their environment in ways that parallel animal senses.
+Daniel Chamovitz is an Israeli biologist and author of *What a Plant Knows: A [[ghouled-field-guide-historical-context]] to the Senses of Your Garden — and Beyond* (2012, Oneworld Publications/Scientific American Books). The book explores the sensory capabilities of plants, revealing how plants perceive light, smell chemicals, feel mechanical stimuli, and respond to their environment in ways that parallel animal senses.
 
 ## Key Contributions
 
 Chamovitz's work demonstrates that plants possess sensory systems analogous to those in animals:
 
 - **Photoreception (seeing):** Plants use phytochrome and cryptochrome photoreceptors — the same gene families used in animal vision research — to detect light quality, quantity, and direction. Plants can distinguish between red, far-red, blue, and UV light and adjust their growth accordingly.
-- **Olfaction (smelling):** Plants detect volatile organic compounds released by neighboring plants, enabling them to respond to herbivore attacks on nearby plants and to coordinate ripening (the ethylene signal that causes one ripe fruit to trigger ripening in neighbors).
+- **Olfaction (smelling):** Plants detect [[fungal-volatile-organic-compounds-communication]] compounds released by neighboring plants, enabling them to respond to herbivore attacks on nearby plants and to coordinate ripening (the ethylene signal that causes one ripe fruit to trigger ripening in neighbors).
 - **Mechanosensation (feeling):** Plants sense touch, wind, and physical obstacles. The rapid movement of the Venus flytrap, the winding of tendrils, and thigmomorphogenesis (altered growth in response to mechanical stimulation) are all manifestations of plant mechanosensation.
 - **Positional awareness:** Plants sense gravity (gravitropism) through statoliths — specialized starch-filled cells in root caps and shoot tips that function like inner-ear balance organs.
 
@@ -28,7 +28,7 @@ Chamovitz draws on molecular biology and genetics to show that plants have speci
 
 ## Significance for Cultivation
 
-Chamovitz's work bridges the gap between laboratory plant science and practical gardening, helping cultivators understand the biological basis of practices like light management, companion planting, and environmental control. For homesteaders and indoor growers, understanding plant sensory biology has direct applications to [[cannabis-lighting-guide]], [[mushroom-substrates]] optimization, and general growing conditions. The book contributed to a paradigm shift in how people think about plant intelligence and responsiveness.
+Chamovitz's work bridges the gap between laboratory plant science and practical gardening, helping cultivators understand the biological basis of practices like light management, [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]], and [[eclss-environmental-control-life-support]]. For homesteaders and indoor growers, understanding plant [[plant-sensory-biology-smell-touch-hearing]] has direct applications to [[cannabis-lighting-guide]], [[mushroom-substrates]] optimization, and general growing conditions. The book contributed to a paradigm shift in how people think about plant intelligence and responsiveness.
 
 ## Related
 
@@ -113,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

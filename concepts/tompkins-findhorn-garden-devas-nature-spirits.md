@@ -1,5 +1,5 @@
 ---
-title: "Findhorn Garden and the World of Devas"
+title: "tompkins findhorn garden devas nature spirits and the World of Devas"
 created: 2026-04-28
 tags: [findhorn, devas, nature-spirits, biodynamic, spiritual-agriculture, rudolf-steiner, clairvoyance]
 date: 2026-04-25
@@ -14,7 +14,7 @@ type: concept
 
 The Findhorn Garden community in northern Scotland represents one of
 the most remarkable experiments in spiritual agriculture of the
-twentieth century. Founded in 1962 by Peter and Eileen Caddy and
+[[coleman-louis-savier-twentieth-century-maraicher]]. Founded in 1962 by Peter and Eileen Caddy and
 Dorothy Maclean (known as Divina), the community achieved
 extraordinary plant growth on barren sandy soil that defied
 conventional agricultural explanation. The secret, as revealed by
@@ -33,7 +33,7 @@ extraordinary results, including enormous vegetables and flowers
 blooming at midwinter.
 
 Lady Cynthia Chance, a follower of Rudolf Steiner's Biodynamic
-farming methods, was astounded when Peter Caddy told her he did not
+[[natural-farming-methods-comparison]], was astounded when Peter Caddy told her he did not
 need to apply Steiner's methods, that he had a more direct spiritual
 way of obtaining the same results. Professor R. Lindsay Robb, a
 United Nations agricultural expert and professor of agriculture at

@@ -26,7 +26,7 @@ The chemical basis of plant hallucinogens, organized by structural family. Based
 
 ## Overview
 
-Hallucinogenic compounds in plants fall into two broad groups: those containing nitrogen (alkaloids and related bases, far more common) and those without (cannabinols). All are organic compounds formed in plant life processes.
+Hallucinogenic compounds in plants fall into two broad groups: those containing nitrogen (alkaloids and related bases, far more common) and those without (cannabinols). All are [[fungal-volatile-organic-compounds-communication]] formed in plant life processes.
 
 ## Tryptamines (Indole Alkaloids)
 
@@ -35,7 +35,7 @@ The largest and most important group. Share an indole ring structure composed of
 ### Simple Tryptamines
 | Compound | Source | Notes |
 |----------|--------|-------|
-| N,N-DMT | Psychotria viridis, Mimosa hostilis, Virola spp., Anadenanthera peregrina | Not orally active without MAOI |
+| N,N-DMT | Psychotria viridis, Mimosa hostilis, Virola spp., [[yopo-anadenanthera-peregrina-snuff]] | Not orally active without MAOI |
 | 5-MeO-DMT | Virola theiodora, Anadenanthera peregrina | Highly active; up to 8% in Virola resin |
 | Bufotenine | Anadenanthera peregrina | Present but apparently not hallucinogenic |
 | N-Monomethyltryptamine | Anadenanthera peregrina | |
@@ -49,7 +49,7 @@ The largest and most important group. Share an indole ring structure composed of
 ### Beta-Carbolines (MAO Inhibitors)
 | Compound | Source | Notes |
 |----------|--------|-------|
-| Harmine | Banisteriopsis caapi, Peganum harmala | Major alkaloid of ayahuasca vine; MAO-A inhibitor |
+| Harmine | Banisteriopsis caapi, [[mckenna-food-gods-peganum-harmala-soma]] | Major alkaloid of ayahuasca vine; MAO-A inhibitor |
 | Harmaline | B. caapi, P. harmala | Contributes to ayahuasca intoxication |
 | Tetrahydroharmine | B. caapi | Serotonin reuptake inhibitor; minor component |
 
@@ -57,7 +57,7 @@ The largest and most important group. Share an indole ring structure composed of
 
 ## Ergoline Alkaloids (Lysergic Acid Derivatives)
 
-Previously known only from ergot fungus (Claviceps purpurea on rye). Astonishingly discovered in morning glory seeds in the 1960s by [[albert-hofmann]].
+Previously known only from ergot fungus ([[bloomfield-ergot-claviceps-purpurea-ergotism]] on rye). Astonishingly discovered in morning glory seeds in the 1960s by [[albert-hofmann]].
 
 | Compound | Source | Notes |
 |----------|--------|-------|
@@ -74,7 +74,7 @@ Ipomoea violacea total alkaloid content is 5x that of Rivea corymbosa.
 
 | Compound | Source | Notes |
 |----------|--------|-------|
-| Mescaline | Lophophora williamsii (peyote), Trichocereus pachanoi (San Pedro) | Structural relationship to norepinephrine may explain activity |
+| Mescaline | Lophophora williamsii (peyote), Trichocereus pachanoi (San Pedro) | [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to norepinephrine may explain activity |
 
 Peyote contains 30+ alkaloids of phenylethylamine and isoquinoline types; effects of most are not well understood.
 
@@ -100,7 +100,7 @@ Found in Solanaceae family. Characterized by violent initial effects requiring p
 | Compound | Source | Notes |
 |----------|--------|-------|
 | Cryogenine (vertine) | Heimia salicifolia (sinicuichi) | Most active of 6 alkaloids found; effects not duplicated by isolated compound |
-| Cytisine | Sophora secundiflora (mescal bean), Cytisus canariensis | Toxic; not demonstrated hallucinogenic |
+| Cytisine | [[mescal-bean-sophora-secundiflora-vision-dance]] (mescal bean), Cytisus canariensis | Toxic; not demonstrated hallucinogenic |
 
 ## Cannabinoids (Non-Nitrogenous)
 

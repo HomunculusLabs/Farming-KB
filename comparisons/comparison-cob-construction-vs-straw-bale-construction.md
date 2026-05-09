@@ -9,7 +9,7 @@ type: comparison
 ---
 # Cob vs Straw Bale Construction
 ## Overview
-Cob and straw bale are two of the most accessible natural building
+Cob and straw bale are two of the most accessible [[query-how-do-i-choose-a-natural-building-method-for-my-climate]]
 methods available to owner-builders, both using earth and fiber to
 create walls with excellent thermal properties. Cob constructs
 monolithic walls from clay-rich subsoil mixed with sand and straw
@@ -67,10 +67,10 @@ climates where earthen walls perform well and moisture management is
 straightforward. It is also the better choice for buildings that
 incorporate curved walls, built-in furniture, earthen benches,
 fireplaces, and sculptural elements that define the character of the
-space. For timber frame integration, see [[building-with-natural-materials]]. A common
+space. For [[comparison-bamboo-construction-vs-timber-frame-basics]] integration, see [[building-with-natural-materials]]. A common
 hybrid design places straw bale walls on the north-facing side of the
 building where insulation against cold winds is most important, and cob
-walls on the south-facing side where thermal mass absorbs passive solar
+walls on the south-facing side where thermal mass absorbs [[comparison-passive-solar-vs-earth-sheltered]]
 gain. Cob can also be used for interior partition walls (providing
 thermal mass at the building's core) while straw bales form the exterior
 envelope. Earthen floors, cob fireplaces, and sculpted cob niches can be
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

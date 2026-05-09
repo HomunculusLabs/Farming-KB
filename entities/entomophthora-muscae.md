@@ -11,8 +11,8 @@ updated: 2026-05-07
 sources:
   - "Keller, S. (2007). \"Entomophthora muscae and the related species from the E. muscae complex.\" Mycologia, 99(4), 508-517."
   - "Elya, C. et al. (2018). \"Robust dynamics of Entomophthora muscae infection in Drosophila melanogaster.\" PLoS Pathogens, 14(7), e1007216."
-  - "Hajek, A.E. & St. Leger, R.J. (1994). \"Interactions between fungal pathogens and insect hosts.\" Annual Review of Entomology, 39, 293-322."
-  - "Roy, H.E. et al. (2006). \"Bizarre interactions and endgames: entomopathogenic fungi and their arthropod hosts.\" Annual Review of Entomology, 51, 331-357."
+  - "Hajek, A.E. & St. Leger, R.J. (1994). \"Interactions between [[bloomfield-fungal-pathogens-and-parasites]] and insect hosts.\" Annual Review of Entomology, 39, 293-322."
+  - "Roy, H.E. et al. (2006). \"Bizarre interactions and endgames: [[singh-entomopathogenic-fungi-biocontrol-agents]] and their arthropod hosts.\" Annual Review of Entomology, 51, 331-357."
 ---
 
 # Entomophthora muscae
@@ -25,7 +25,7 @@ anthomyiid species. The fungus is best known for its behavioral manipulation
 of hosts, causing infected flies to climb to elevated positions and adopt a
 characteristic "death grip" posture before expiring.
 
-This summit disease strategy maximizes spore dispersal range by positioning
+This summit disease strategy maximizes [[aquatic-fungi-spore-dispersal-ingold]] range by positioning
 the cadaver at an optimal height for wind-borne conidial release. The species
 has been recorded infecting houseflies (*Musca domestica*), blowflies
 (Calliphoridae), fungus gnats, and numerous other Diptera worldwide.
@@ -71,7 +71,7 @@ germinating upon contact with a suitable host.
 
 ## Bioactive Compounds
 
-*Entomophthora muscae* produces several bioactive secondary metabolites
+*Entomophthora muscae* produces several bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]
 associated with host manipulation and immune evasion.
 
 Adenosine and other nucleosides have been detected in infected flies at
@@ -90,12 +90,12 @@ epizootics (mass infection events) in fly populations during warm, humid
 conditions. Epizootics may reduce housefly populations by 60–90% in
 localized areas.
 
-The species has been investigated as a biological control agent for
+The species has been investigated as a [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent for
 agricultural pests, particularly *Delia radicum* (cabbage root fly) in
 brassica crops. Laboratory bioassays have demonstrated infectivity rates
 exceeding 80% under optimal humidity conditions.
 
-Conservation biological control strategies aim to maintain wild *E. muscae*
+Conservation biological [[jadam-weed-control-strategies-natural]] aim to maintain wild *E. muscae*
 populations in agroecosystems through habitat management. Reducing
 broad-spectrum insecticide use preserves the fungal reservoir in field
 margins and hedgerows.

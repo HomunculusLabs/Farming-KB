@@ -1,5 +1,5 @@
 ---
-title: "JADAM Microbial Solution (JMS) -- Preparation and Use"
+title: "JADAM jadam microbial solution jms preparation and use (JMS) -- Preparation and Use"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-JADAM Microbial Solution (JMS) is the cornerstone input of JADAM organic farming. It is a culture of indigenous microorganisms collected from local leaf mold, cultured using simple ingredients (potato and sea salt) at ambient temperature. JMS is used for soil application, foliar spraying, seed treatment, and even livestock management. At peak fermentation, 1 mL contains approximately 0.1 billion microorganisms.
+JADAM Microbial Solution (JMS) is the cornerstone input of JADAM [[coleman-deep-organic-farming-philosophy]]. It is a culture of [[beneficial-indigenous-microorganisms-bim]] collected from local leaf mold, cultured using simple ingredients (potato and sea salt) at [[jadam-ambient-temperature-principle]]. JMS is used for soil application, foliar spraying, [[jadam-seed-treatment-and-nursery-management]], and even livestock management. At peak fermentation, 1 mL contains approximately 0.1 billion microorganisms.
 
 ## Philosophy Behind JMS
 
@@ -49,7 +49,7 @@ All microorganisms are beneficial. The leaf mold under decomposing leaves in for
 - Foam becomes vigorous (~48-55 hrs)
 - Clear disc forms ("pizza-like layer") -- **this is peak, use now** (~67-72 hrs)
 - Disc starts crumbling -- microbes dying (~84 hrs)
-- All foam gone, film remains -- not suitable as JMS but usable as liquid fertilizer (~144 hrs)
+- All foam gone, film remains -- not suitable as JMS but usable as [[jadam-liquid-fertilizer-nutritional-perspective]] (~144 hrs)
 
 **The peak-bubble period lasts about 12 hours.** At peak, microorganisms reach ~1 billion per mL. 500 L of JMS is equivalent to 1,000 bottles of commercial microorganism products.
 

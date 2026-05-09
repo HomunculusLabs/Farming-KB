@@ -9,7 +9,7 @@ sources:
 ---
 # Allegro's Soma-Mushroom Thesis
 
-John Marco Allegro (1923-1988), a British philologist and the only secular member of the original Dead Sea Scrolls translation team, proposed one of the most controversial theories in the study of religion and mycology: that the sacred mushroom [[rigveda]] describes Soma in terms that parallel Amanita muscaria: it is red, grows in mountains, is pressed for its juice, and produces visionary experiences. R. Gordon Wasson independently proposed the Soma-Amanita identification in 1968. Allegro extended this far further, arguing that the same mushroom cult underlay not only Vedic religion but Judaism and Christianity as well.
+John Marco Allegro (1923-1988), a British philologist and the only secular member of the original Dead [[dead-sea-scrolls-entheogenic-reading]] translation team, proposed one of the most controversial theories in the study of religion and mycology: that the [[allegro-the-sacred-mushroom-amanita-identification]] [[rigveda]] describes Soma in terms that parallel [[allegro-amanita-muscaria-properties-and-pharmacology]]: it is red, grows in mountains, is pressed for its juice, and produces visionary experiences. R. Gordon Wasson independently proposed the Soma-Amanita identification in 1968. Allegro extended this far further, arguing that the same [[african-mushroom-cult-history]] underlay not only Vedic religion but Judaism and Christianity as well.
 
 ## The Mushroom as Divine
 
@@ -36,17 +36,17 @@ Allegro's academic career suffered irreparably. He resigned from the Dead Sea Sc
 
 ## Defense and Reassessment
 
-Despite the rejection of his specific claims, Allegro's broader questions have gained traction. The general proposition that [[controversy-sacred-mushroom-theory]] continues to provoke discussion about the intersection of religion, language, and psychoactive substances.
+Despite the rejection of his specific claims, Allegro's broader questions have gained traction. The general proposition that controversy-sacred-mushroom-theory continues to provoke discussion about the intersection of religion, language, and psychoactive substances.
 
 Some scholars have noted that Allegro's treatment by the academic establishment was itself revealing -- the vehemence of the reaction suggested that his work touched a nerve regarding the relationship between institutional religion and psychoactive sacraments.
 
 ## Significance
 
-Regardless of the validity of Allegro's specific etymological claims, his work opened a serious line of inquiry into the role of psychoactive fungi in ancient religion. His hypothesis, while not accepted by mainstream scholarship, contributed to the broader entheogen theory of religion and stimulated research into the historical use of psychoactive substances in spiritual contexts.
+Regardless of the validity of Allegro's specific etymological claims, his work opened a serious line of inquiry into the role of [[cattle-dispersal-psychoactive-fungi-australia]] in ancient religion. His hypothesis, while not accepted by mainstream scholarship, contributed to the broader entheogen theory of religion and stimulated research into the historical use of psychoactive substances in spiritual contexts.
 
 ## See Also
 
-- [[mushroom-symbols-ancient-languages]]
+- mushroom-symbols-ancient-languages
 - [[soma-and-the-sacred-mushroom-debate]]
 - [[john-allegro]]
 - allegro soma mushroom thesis
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

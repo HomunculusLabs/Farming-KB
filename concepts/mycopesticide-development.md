@@ -5,9 +5,10 @@ updated: 2026-04-17
 type: concept
 tags: [reference]
 sources:
+  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-Mycopesticides are biopesticides derived from entomopathogenic fungi that target and kill insect pests without the environmental damage caused by conventional chemical pesticides. The field represents a convergence of mycology, entomology, and pest management, with the potential to replace toxic chemical treatments across agriculture, forestry, and structural pest control.
+Mycopesticides are biopesticides derived from [[singh-entomopathogenic-fungi-biocontrol-agents]] that target and kill insect pests without the environmental damage caused by conventional chemical pesticides. The field represents a convergence of mycology, entomology, and [[cannabis-pest-management-guide]], with the potential to replace toxic chemical treatments across agriculture, forestry, and structural [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]].
 
 ## The Trojan Horse Discovery
 
@@ -15,7 +16,7 @@ The pivotal breakthrough in mycopesticide development came from Paul Stamets' wo
 
 From these presporulating growth sectors, Stamets grew mycelium on sterilized rice and placed it near a carpenter ant infestation. The ants actively picked up the myceliated rice kernels and carried them back to their nest. Each ant became a distribution vector for the lethal mycelium. Within weeks, the house was free of carpenter ants and was never reinvaded.
 
-The key insight was that mycelium of parasitic fungi prior to sporulation acts as a Trojan horse, attracting rather than repelling its insect victims. This was a discovery that Stamets believed could retool the entire pesticide industry. After treatment, the parasitized insect carcasses became moldy from the repellent spores, providing a resident protective shield against subsequent invasions.
+The key insight was that mycelium of [[escovopsis-parasitic-fungi-attine-ant-gardens]] prior to sporulation acts as a Trojan horse, attracting rather than repelling its insect victims. This was a discovery that Stamets believed could retool the entire pesticide industry. After treatment, the parasitized insect carcasses became moldy from the repellent spores, providing a resident protective shield against subsequent invasions.
 
 ## Entomopathogenic Fungi
 
@@ -33,7 +34,7 @@ The major obstacle to commercializing mycopesticides has been that insects can d
 
 Millions of years of co-evolution have allowed fungi and insects to learn to recognize each other and engage in a constant biochemical dialogue. Throughout the late 1980s and 1990s, researchers tried placing spores in bait stations and treatment brushes at entry portals. While captive insects were easily infected in laboratories, insect communities in nature successfully defended against contamination.
 
-The colony's aversion to pathogenic spores and the insects carrying them stymied commercialization of these insect control stations. A fungus that always alerts its target with smelly spores would be selected against unless there was an alternative strategy for tricking the insects to engage the fungus.
+The colony's aversion to pathogenic spores and the insects carrying them stymied commercialization of these [[mushroom-pests-insect-control-stamets]] stations. A fungus that always alerts its target with smelly spores would be selected against unless there was an alternative strategy for tricking the insects to engage the fungus.
 
 ## The Pre-sporulating Solution
 
@@ -47,7 +48,7 @@ Although insects might eventually recognize the preconidial mycelium as pathogen
 
 Metarhizium anisopliae does not infect plants, mammals, fish, or birds, making it an environmentally safe biopesticide. It does not cause human allergies and is limited in colony size, so it does not lead to "sick house" syndrome.
 
-The global pesticide industry in the United States alone is valued at $9 billion, with biopesticides representing about 5 percent ($450 million) and growing at 15 percent per year. Key target insects include termites, which cause over $10 billion in damage annually in the United States alone. The Formosan termite (Coptotermes formosanus) can form aboveground colonies of 500,000 to 3.5 million individuals and does not need to forage outside the infested structure.
+The global pesticide industry in the [[dmt-containing-plants-united-states-halpern]] alone is valued at $9 billion, with biopesticides representing about 5 percent ($450 million) and growing at 15 percent per year. Key target insects include termites, which cause over $10 billion in damage annually in the United States alone. The Formosan termite (Coptotermes formosanus) can form aboveground colonies of 500,000 to 3.5 million individuals and does not need to forage outside the infested structure.
 
 Carpenter ants, with nearly 600 species of which about a dozen attack buildings, are also major targets. In addition to Metarhizium and Beauveria, species of Hirsutella and Paecilomyces have earned attention from researchers. The use of Cordyceps-related fungi adds another dimension, as they can express both mold and mushroom forms through a complex life cycle.
 

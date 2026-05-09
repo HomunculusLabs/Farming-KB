@@ -16,7 +16,7 @@ sources:
 
 # Coniophora puteana
 
-**Coniophora puteana** is a basidiomycete fungus commonly known as the **cellar fungus** or **wet rot fungus**. It is one of the most economically significant wood-decay fungi in the built environment, causing a type of brown rot that can severely compromise the structural integrity of timber in buildings. Unlike its notorious relative *Serpula lacrymans* (the true dry rot fungus), *C. puteana* requires sustained high moisture levels to proliferate, typically above 20 to 30 percent wood moisture content.
+**Coniophora puteana** is a basidiomycete fungus commonly known as the **cellar fungus** or **wet rot fungus**. It is one of the most economically significant wood-decay fungi in the built environment, causing a type of brown rot that can severely compromise the structural integrity of timber in buildings. Unlike its notorious relative *[[fungal-serpula-lacrymans-dry-rot-buildings]]* (the true dry rot fungus), *C. puteana* requires sustained high moisture levels to proliferate, typically above 20 to 30 percent wood moisture content.
 
 ## Taxonomy and Classification
 
@@ -46,10 +46,10 @@ sources:
 Identification of *C. puteana* decay in buildings involves:
 
 - **Visual Inspection:** Brown, cracked wood with cubical fracture pattern; thin, leathery fruiting bodies on wood surfaces; absence of extensive mycelial sheets or rhizomorphs (distinguishing from dry rot)
-- **Moisture Assessment:** Use of moisture meters to identify areas of elevated wood moisture content
+- **Moisture Assessment:** Use of [[cervantes-moisture-meters-watering-technique]] to identify areas of elevated wood moisture content
 - **Laboratory Culture:** Isolation on malt extract agar; *C. puteana* produces characteristic olive-brown to dark brown colonies with aerial mycelium
-- **Microscopic Examination:** Presence of capitate cystidia and characteristic basidiospore morphology
-- **Molecular Identification:** PCR-based methods using species-specific primers for rapid and accurate identification from wood samples
+- **[[fungal-microscopic-examination-mounting-media-techniques]]:** Presence of capitate cystidia and characteristic basidiospore morphology
+- **[[biodiversity-fungal-molecular-identification-dna-barcoding]]:** PCR-based methods using species-specific primers for rapid and accurate identification from wood samples
 
 ## Control and Remediation
 
@@ -58,7 +58,7 @@ Control of *C. puteana* in buildings focuses on moisture management:
 - **Moisture Control:** The most important measure is identifying and eliminating the source of moisture. Without sustained high moisture, the fungus cannot grow and will eventually die
 - **Timber Replacement:** Severely decayed structural timber should be replaced with preservative-treated or naturally durable timber
 - **Chemical Treatment:** Fungicidal treatments may be applied to adjacent timber as a preventive measure, though they are not a substitute for moisture control
-- **Environmental Control:** Improving ventilation, installing damp-proof courses, and maintaining heating to reduce humidity
+- **[[eclss-environmental-control-life-support]]:** Improving ventilation, installing damp-proof courses, and maintaining heating to reduce humidity
 - **Monitoring:** Regular inspection of vulnerable areas, particularly after plumbing repairs or flood remediation
 
 ## Research Applications
@@ -97,7 +97,7 @@ Standardized protocols for working with *C. puteana* include:
 - **1930s-1960s:** Adopted as a standard test organism in European wood preservation research due to its consistent growth and aggressive decay of softwoods
 - **1980s:** EN 113 and related standards formalize the use of *C. puteana* in standardized wood preservative efficacy testing across Europe
 - **2000s:** Molecular phylogenetic studies clarify the placement of *Coniophora* within the Boletales and its evolutionary relationship to ectomycorrhizal ancestors
-- **2010s-2020s:** Genomic and transcriptomic studies elucidate the brown rot mechanism in *C. puteana*, identifying key genes for iron reduction, oxalate production, and cellulose degradation
+- **2010s-2020s:** Genomic and transcriptomic studies elucidate the brown rot mechanism in *C. puteana*, identifying key genes for iron reduction, [[fungal-oxalate-production-metal-transformation]], and cellulose degradation
 
 ## See Also
 

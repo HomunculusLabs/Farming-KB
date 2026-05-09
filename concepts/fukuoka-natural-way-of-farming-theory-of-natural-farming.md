@@ -10,14 +10,14 @@ tags: [fukuoka, natural-farming]
 
 # Fukuoka Natural Way of Farming - Theory of Natural Farming
 
-Masanobu Fukuoka's "The Natural Way of Farming" presents a comprehensive philosophical and practical critique of modern scientific agriculture, proposing instead a method of farming based on non-intervention and harmony with nature. The book extends far beyond agriculture into a fundamental critique of Western epistemology, industrial civilization, and humanity's relationship with the natural world.
+Masanobu Fukuoka's "The Natural Way of Farming" presents a comprehensive philosophical and practical [[fukuoka-road-critique-of-modern-science]] [[fukuoka-critique-scientific-agriculture-civilization]], proposing instead a method of farming based on non-intervention and harmony with nature. The book extends far beyond agriculture into a fundamental critique of Western epistemology, industrial civilization, and humanity's relationship with the natural world.
 
 ## Five Principles of Natural Farming
 
 Fukuoka's practice rests on five foundational principles, which he maintained for over fifty years without once doubting their universal applicability:
 
 1. **No tillage** -- Plants have always grown by direct seeding without tillage. Microorganisms and small animals act as nature's tillers. Plowing kills soil biology and creates hardpan that then "requires" further plowing.
-2. **No fertilizer** -- Chemical fertilizers are effective only on dead soil. Green manure and natural soil processes enrich the land without depletion. Compost preparation depletes the land from which organic material is taken.
+2. **No fertilizer** -- [[cervantes-chemical-fertilizers-guide]] are effective only on dead soil. Green manure and natural soil processes enrich the land without depletion. [[cultivator-compost-preparation-phase-methods]] depletes the land from which organic material is taken.
 3. **No pesticides** -- Nature strikes a balance among insects, plants, and microorganisms. Pesticides kill natural predators (spiders, dragonflies, frogs) faster than pests, creating the very conditions that make pesticides appear necessary.
 4. **No weeding** -- Nature does not arbitrarily designate one plant a weed. Clover and other ground covers serve beneficial functions in the ecosystem.
 5. **No pruning** -- A tree grows best in its natural habitat; branches do not tangle, sunlight falls on every leaf, and the tree bears fully each year without pruning.
@@ -62,7 +62,7 @@ Fukuoka extends his analysis beyond agriculture to civilization itself:
 
 - **Dietary decline**: Agriculture has become "the manufacture of petroleum-derived foods." Transition from field cultivation to hothouse to hydroponic to total chemical synthesis represents progressive alienation from nature.
 - **Livestock inefficiency**: It takes 10,000 square yards of land to support one person on beef versus 200 square yards on grains. Raising cattle "impoverishes the soil and denudes the earth."
-- **Genetic engineering**: Creating new organisms through genetic recombination is "wild dancing in the hand of the Lord Buddha" -- the products of such knowledge "can never exceed the limits of the human intellect."
+- **[[fukuoka-textdoc-genetic-engineering-critique-warning]]**: Creating new organisms through genetic recombination is "wild dancing in the hand of the Lord Buddha" -- the products of such knowledge "can never exceed the limits of the human intellect."
 - **Desert greening**: Fukuoka proposed scattering clay pellets containing seeds of green manure trees, clover, alfalfa, and grain over deserts. "Rain does not fall from the heavens; it issues forth from the ground. Deserts do not form because there is no rain; rather, rain ceases to fall because the vegetation has disappeared."
 
 ## Comparison: Natural vs. Scientific Farming
@@ -86,7 +86,7 @@ The ideal farmer lives "in concert with nature, free of plans, designs, and effo
 
 ## Legacy and Influence
 
-While Fukuoka feared natural farming would "never be perfected" and "never see general application in its true form," he hoped it would "serve as a brake to slow the mad onslaught of scientific agriculture." The "Happy Hill" rice strain he developed -- a hardy variety yielding 5,000 grains from a single seed in one year -- represents his practical contribution to food security, capable of expanding to feed a nation within four years through natural cultivation methods.
+While Fukuoka feared natural farming would "never be perfected" and "never see general application in its true form," he hoped it would "serve as a brake to slow the mad onslaught of scientific agriculture." The "Happy Hill" rice strain he developed -- a hardy variety yielding 5,000 grains from a single seed in one year -- represents his practical contribution to food security, capable of expanding to feed a nation within four years through natural [[synthetic-log-cultivation-methods-guide]].
 
 ## See Also
 

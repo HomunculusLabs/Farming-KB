@@ -1,5 +1,5 @@
 ---
-title: Virola Epena Snuff in Plants of the Gods
+title: plants of the gods virola epena snuff Snuff in Plants of the Gods
 created: 2026-04-28
 tags: [ethnobotany, virola, snuff, dmt, amazon]
 date: 2026-04-28
@@ -19,8 +19,8 @@ of the New World. While psychoactive principles have been found in at
 least a dozen species, it is only in the western Amazon and adjacent
 parts of the Orinoco basin that Virola has been used as the source of a
 sacred hallucinogenic snuff. In *Plants of the Gods*, Schultes,
-Hofmann, and Ratsch provide the definitive account of Virola snuff
-preparation, ceremonial use, and cultural significance.
+Hofmann, and Ratsch provide the definitive account of [[entheogen-virola-snuff-ethnobotany-chemistry]]
+preparation, ceremonial use, and [[ethnomycology-cultural-significance-sacred-fungi]].
 
 ## Mythological Origins
 
@@ -41,7 +41,7 @@ The species most important as sources of the intoxicating snuff are V.
 calophylla, V. calophylloidea, V. elongata, and V. theiodora, the last
 being without doubt the most frequently employed. Locally, V. rufula,
 V. cuspidata, and other species may supply the drug. Virola is an
-American genus related to the Old World genus of Nutmeg; the tiny
+American genus related to the [[datura-metel-old-world-ethnobotany]] genus of Nutmeg; the tiny
 flowers have a highly pungent fragrance.
 
 ## Preparation Methods
@@ -95,7 +95,7 @@ snuff are consumed.
 
 ## Historical Discovery
 
-The drug was not known until the early twentieth century, when a German
+The drug was not known until the early [[coleman-louis-savier-twentieth-century-maraicher]], when a German
 ethnologist reported on the Yekwana of the upper Orinoco. In 1938-39,
 the Brazilian botanist Ducke first associated Virola with the snuff,
 though incorrectly identifying leaves (never used) as the source. The

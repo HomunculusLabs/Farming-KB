@@ -15,7 +15,7 @@ type: comparison
 
 # Comparison: Lacto-Fermentation vs. Kombucha
 
-Both lacto-fermentation and kombucha are anaerobic fermentation processes that produce tangy, probiotic-rich foods and beverages, but they differ fundamentally in their microbial ecology, substrate requirements, biochemical pathways, and end products. Understanding these differences is essential for choosing the right method for a given ingredient or desired outcome.
+Both lacto-fermentation and kombucha are [[jadam-anaerobic-fermentation-principles]] processes that produce tangy, probiotic-rich foods and beverages, but they differ fundamentally in their [[fukuoka-microbial-ecology-decomposition]], substrate requirements, biochemical pathways, and end products. Understanding these differences is essential for choosing the right method for a given ingredient or desired outcome.
 
 ## Quick Reference
 
@@ -23,7 +23,7 @@ Both lacto-fermentation and kombucha are anaerobic fermentation processes that p
 |---------|-------------------|----------|
 | **Primary organism** | [[lactobacillus-plantarum]]* complete fermentation, achieving final pH of 3.4–4.5.
 
-No yeast is intentionally involved, though wild yeasts may be present in small numbers. The fermentation relies on bacteria naturally present on the vegetable surface (hence the importance of organic, unwashed produce for wild fermentation).
+No yeast is intentionally involved, though wild yeasts may be present in small numbers. The fermentation relies on bacteria naturally present on the vegetable surface (hence the importance of organic, unwashed produce for [[comparison-wild-fermentation-vs-commercial-starter-culture]]).
 
 ### Kombucha
 
@@ -32,7 +32,7 @@ Kombucha involves a far more complex **symbiotic community** of both bacteria an
 1. **Yeast phase** — *Zygosaccharomyces* and *Saccharomyces* species hydrolyze sucrose and ferment the resulting glucose into ethanol and CO₂.
 2. **Bacterial phase** — *Komagataeibacter xylinum* oxidizes ethanol into acetic acid while simultaneously producing bacterial cellulose; *Gluconacetobacter* produces gluconic acid from glucose.
 
-The SCOBY is a self-sustaining consortium that must be propagated from a mother culture — wild fermentation of sweetened tea will not reliably produce kombucha. The microbial community is more diverse and the ecological interactions more complex than in simple lacto-fermentation.
+The SCOBY is a self-sustaining consortium that must be propagated from a mother culture — wild fermentation of sweetened tea will not reliably produce kombucha. The [[edaphic-factors-microbial-community-structure]] is more diverse and the [[king-stropharia-ecological-interactions-permaculture]] more complex than in simple lacto-fermentation.
 
 ## Biochemical Pathways
 
@@ -87,7 +87,7 @@ The only requirements are: a fermentable sugar source, suitable bacteria (either
 
 Kombucha is essentially limited to sweetened tea as a substrate. While creative brewers experiment with different tea types and additions, the core fermentation requires:
 
-- **Tea** (Camellia sinensis) for nitrogen compounds (caffeine, theanine) and tannins
+- **Tea** ([[camellia-sinensis-entity]]) for nitrogen compounds (caffeine, theanine) and tannins
 - **Sugar** (sucrose preferred) as the primary carbon source for the SCOBY
 - **A healthy SCOBY culture** adapted to the tea-sugar medium
 

@@ -1,5 +1,5 @@
 ---
-title: Default Mode Network and Ego Dissolution
+title: psilocybin-default-mode-network-ego-dissolution Network and psilocybin-ego-dissolution-mechanisms
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 The default mode network (DMN) is a large-scale brain network that is active
 during passive rest, mind-wandering, and self-referential thinking. In the
-context of psychedelic experience, the DMN has become a key neurobiological
+context of [[leary-psychedelic-experience-bardo-mapping]], the DMN has become a key neurobiological
 correlate of the ego and its dissolution, one of the most significant and
 transformative aspects of the psychedelic experience.
 
@@ -21,7 +21,7 @@ health. Modern neuroscience has partially validated this insight by identifying
 the DMN as the neural substrate of self-referential processing.
 
 When psychedelic compounds such as psilocybin, LSD, or DMT are administered,
-brain imaging studies consistently show a marked decrease in DMN activity and
+[[neurochemical-probes-brain-imaging-pihkal]] studies consistently show a marked decrease in DMN activity and
 connectivity. This reduction correlates strongly with subjects' reports of ego
 dissolution, the experience of losing the sense of a separate, bounded self.
 
@@ -39,7 +39,7 @@ default mode of self-referential thinking appears to create a window of
 psychological flexibility.
 
 McKenna connected the suppression of the ego-dissolving rites of visionary
-plants to the rise of what he called the dominator culture. He argued that the
+plants to the rise of what he called the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]. He argued that the
 abandonment of regular boundary-dissolving immersion in the archaic mystery of
 plant-induced psychedelic ecstasy allowed the unconstrained male ego to develop
 unchecked, leading to patriarchy, warfare, and environmental destruction.
@@ -60,7 +60,7 @@ Turner noted that for people who are very controlled and have difficulties
 letting go, the dissolving of the individual self can be horrible. For other
 individuals who are more relaxed and able to surrender, who have a deep capacity
 to love, the experience is usually blissful, even ecstatic. This observation
-underscores the importance of set and setting in determining whether ego
+underscores the importance of [[lsd-set-and-setting-framework]] in determining whether ego
 dissolution becomes a source of liberation or terror.
 
 The relationship between ego dissolution and spiritual experience is

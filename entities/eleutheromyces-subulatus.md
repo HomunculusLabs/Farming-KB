@@ -34,7 +34,7 @@ The principal host genus for E. subulatus is Trametes, which includes some of th
 
 ## Habitat and Occurrence
 
-E. subulatus occurs on the sporocarps of Trametes species growing on dead wood in forest environments. The fungus is typically found on the upper or lateral surfaces of the polypore bracket, where it forms its own fruiting structures. Its presence is often noted during systematic surveys of fungicolous fungi on polypores, where it contributes to the characteristic species assemblage associated with Trametes hosts. The geographic distribution of E. subulatus closely follows that of its Trametes hosts, being found in temperate forests across the Northern Hemisphere.
+E. subulatus occurs on the sporocarps of Trametes species growing on [[fungal-dead-wood-diversity]] in forest environments. The fungus is typically found on the upper or lateral surfaces of the polypore bracket, where it forms its own fruiting structures. Its presence is often noted during systematic surveys of fungicolous fungi on polypores, where it contributes to the characteristic species assemblage associated with Trametes hosts. The geographic distribution of E. subulatus closely follows that of its Trametes hosts, being found in temperate forests across the Northern Hemisphere.
 
 ## Role in Fungal Community Dynamics
 
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

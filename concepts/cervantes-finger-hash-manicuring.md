@@ -1,11 +1,12 @@
 ---
-title: Finger Hash Collection During Manicuring
+title: cervantes finger hash manicuring Collection During Manicuring
 type: concept
 created: 2026-04-25
 type: concept
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 tags: [cannabis, hash, manicuring, harvest, kief]
 ---
 
@@ -69,7 +70,7 @@ manicuring progresses throughout the day.
 ## Collecting from Work Surfaces
 
 Manicure over a fine silkscreen or a glass table. Scrape up
-fallen resin glands on the table or under the screen. This
+fallen [[greg-green-trichomes-and-resin-glands]] on the table or under the screen. This
 potent resin can be smoked immediately or pressed into blocks
 of hash. The Resin Heaven from Portland, Oregon was the first
 rolling tray equipped with a screen specifically designed to
@@ -92,7 +93,7 @@ with contaminants.
 
 A full day of trimming resinous plants can yield several grams
 of finger hash. While this seems modest compared to water or
-dry sieve extraction methods, finger hash represents pure
+[[cervantes-dry-sieve-hash-pollinator]] extraction methods, finger hash represents pure
 resin that would otherwise be lost during the manicuring
 process. It is essentially a bonus product with zero
 additional cost.
@@ -119,7 +120,6 @@ maximum finger hash recovery.
 ## See Also
 
 - [[cervantes-hand-rubbed-hash-charas]]
-- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
 - [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
 
 ## See Also

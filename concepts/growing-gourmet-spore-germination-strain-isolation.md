@@ -1,5 +1,5 @@
 ---
-title: Spore Germination and Strain Isolation Techniques
+title: growing gourmet spore germination strain isolation and Strain Isolation Techniques
 created: 2026-04-26
 tags:
   - mycology
@@ -16,9 +16,9 @@ type: concept
 
 # Spore Germination and Strain Isolation Techniques
 
-Germinating mushroom spores and isolating pure strains from
+Germinating [[query-how-to-store-mushroom-spores-long-term]] and isolating pure strains from
 the resulting mycelium is the foundation of mushroom breeding
-and strain development. While [[growing-gourmet-stock-culture-library]] and future use.
+and [[vic-high-true-breeding-strain-development-stabilization]]. While growing-gourmet-stock-culture-library and future use.
 This last transfer usually results in individual dikaryotic
 strains which are labelled. Each labelled strain is then
 tested for productivity. Mini-culture experiments must be
@@ -88,6 +88,12 @@ Repeated subculturing and dispersal usually results in success.
 
 ## From Isolation to Strain Library
 
-Once pure [[growing-gourmet-strain-evaluation-28-features]],
+Once pure growing-gourmet-strain-evaluation-28-features,
 yield potential, and other characteristics. The best performers
 are preserved in the [[amf-spore-strain-variability-effectiveness]]
+## See Also
+- [[growing-gourmet-strain-selection]]
+- [[growing-gourmet-strain-senescence-degeneration]]
+- [[growing-gourmet-stamets-p-value-strain-age-system]]
+- [[growing-gourmet-spore-mass-inoculation-techniques]]
+- [[growing-gourmet-culture-slant-preservation-cryogenic-storage]]

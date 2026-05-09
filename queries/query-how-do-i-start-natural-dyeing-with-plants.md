@@ -1,10 +1,11 @@
 ---
-title: "How Do I Start Natural Dyeing with Plants?"
+title: "How Do I query how do i start natural dyeing with plants Dyeing with Plants?"
 created: 2026-05-06
 tags: [query, natural-dyeing, plants, textiles, fiber-arts]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -28,7 +29,7 @@ alpaca, mohair) accept natural dyes readily and produce the richest,
 most saturated colors with minimal preparation. Cellulose fibers
 (cotton, linen, hemp, bamboo) are more stubborn and typically require
 a two-step mordanting process with tannin followed by alum for good
-results. The [[permaculture-designers-manual-tanbark-and-tannins]] page describes
+results. The permaculture-designers-manual-tanbark-and-tannins page describes
 traditional tannin sources from trees.
 
 ## Beginner-Friendly Dye Plants
@@ -45,7 +46,7 @@ chamomile, and weld produce yellows. Madder root yields reds and
 oranges after two to three years of growth. Woad and Japanese indigo
 produce blues through different extraction methods. St. John's wort
 gives reds and golds. Many of these plants double as ornamentals,
-medicinals, or companion plants in a vegetable garden.
+medicinals, or companion plants in a [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]].
 
 ## Understanding Fast vs Fugitive Dyes
 
@@ -88,3 +89,5 @@ into waterways.
 ## Related Questions
 
 - [[query-how-to-extract-and-use-fungal-pigments-for-natural-dyeing]]
+- [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]]
+- [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]

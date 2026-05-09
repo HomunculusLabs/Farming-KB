@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Mycofiltration uses fungal mycelium to filter and treat contaminated water. Dense mycelial networks act as biological filters that can physically trap particulates, chemically bind contaminants, and biologically degrade pollutants. This approach offers a low-energy, sustainable alternative to conventional water treatment for specific applications.
+Mycofiltration uses fungal mycelium to filter and treat contaminated water. Dense [[fungal-mycelial-networks-nutrient-translocation]] act as biological filters that can physically trap particulates, chemically bind contaminants, and biologically degrade pollutants. This approach offers a low-energy, sustainable alternative to conventional water treatment for specific applications.
 
 ## How Mycofiltration Works
 
@@ -21,8 +21,8 @@ Mycofiltration uses fungal mycelium to filter and treat contaminated water. Dens
 
 ### Chemical Binding
 - Fungal cell walls contain chitin, glucans, and proteins with metal-binding functional groups
-- Biosorption of heavy metals, dyes, and organic chemicals
-- Ion exchange capacity comparable to commercial ion-exchange resins
+- [[staycare-fungal-biosorption-of-heavy-metals]] metals, dyes, and organic chemicals
+- Ion [[query-what-is-cation-exchange-capacity-and-why-does-it-matter]] comparable to commercial ion-exchange resins
 - pH-dependent binding with optimal performance at pH 4-6
 
 ### Biological Degradation
@@ -32,7 +32,7 @@ Mycofiltration uses fungal mycelium to filter and treat contaminated water. Dens
 - Pathogen reduction through competitive exclusion and antimicrobial metabolite production
 
 ### Pathogen Reduction
-- Fungi produce secondary metabolites with antibacterial and antifungal properties
+- Fungi produce [[antifungal-secondary-metabolites-coprophilous-fungi]] with antibacterial and antifungal properties
 - Mycelial biofilms create physical barriers to pathogen transport
 - Some species produce bacteriocins that suppress E. coli and coliform bacteria
 - 50-99% reduction in fecal coliforms documented in mycofiltration systems
@@ -75,7 +75,7 @@ Mycofiltration uses fungal mycelium to filter and treat contaminated water. Dens
 ### Heavy Metals
 - Lead, copper, zinc, cadmium from urban runoff
 - Mining effluent treatment
-- Industrial wastewater polishing
+- [[fungal-industrial-wastewater-treatment]] polishing
 - See [[mycoremediation-of-heavy-metals]] for detailed mechanisms
 
 ### Hydrocarbons
@@ -135,19 +135,14 @@ Mycofiltration uses fungal mycelium to filter and treat contaminated water. Dens
 
 ### Integration with Other Systems
 - Pre-treatment: sedimentation basins or rough filtration
-- Post-treatment: sand filters, UV disinfection, or constructed wetlands
+- Post-treatment: sand filters, UV disinfection, or [[comparison-constructed-wetlands-vs-bioswales]]
 - Integration with [[biochar-and-fungi]] systems for enhanced performance
 - Use in [[graywater-systems]] recycling systems as biological treatment stage
 
 ## Limitations
-
-- Variable performance depending on water chemistry and temperature
-- Not a standalone solution for drinking water treatment
-- Requires regular monitoring and maintenance
-- Limited capacity for high-volume flows without large installation footprint
-- Regulatory acceptance for municipal water treatment is still developing
-
 ## See Also
+
+- [[singh-mycofiltration-water-runoff]]
 
 - [[mycoremediation-of-heavy-metals]] -- detailed coverage of fungal metal biosorption
 - [[mycoremediation-of-oil-spills]] -- fungal degradation of petroleum hydrocarbons

@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis and Ulcerative Colitis
 
-**Source:** The Cannabis Health Index, Uwe Blesching, PhD (2017)
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]], Uwe Blesching, PhD (2017)
 **Updated:** 2026-04-19
 
 ## Evidence-Based Therapeutic Potential
@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-Ulcerative colitis is a chronic inflammatory bowel disease (IBD) that causes long-lasting inflammation and ulcers (sores) in the innermost lining of the large intestine (colon) and rectum. Symptoms typically develop over time and include abdominal pain, cramping, diarrhea (often with blood), rectal bleeding, urgency to defecate, weight loss, fatigue, and fever. Orthodox treatment includes anti-inflammatory drugs, immunosuppressants, and surgery (colectomy) in severe cases.
+Ulcerative colitis is a chronic [[blesching-cannabis-inflammatory-bowel-disease]] disease (IBD) that causes long-lasting inflammation and ulcers (sores) in the innermost lining of the large intestine (colon) and rectum. Symptoms typically develop over time and include abdominal pain, cramping, diarrhea (often with blood), rectal bleeding, urgency to defecate, weight loss, fatigue, and fever. Orthodox treatment includes anti-inflammatory drugs, immunosuppressants, and surgery (colectomy) in severe cases.
 
 Ulcerative colitis affects approximately 1–2 per 1,000 people in developed countries, with highest incidence among people of European descent. Unlike Crohn's disease, ulcerative colitis is limited to the colon and rectum and typically affects only the innermost lining of the intestinal wall (mucosa). The condition follows a pattern of flares and remissions, with approximately 10–15% of patients experiencing severe, fulminant disease requiring hospitalization. Long-standing ulcerative colitis (particularly pancolitis) significantly increases the risk of colorectal cancer, making regular surveillance colonoscopy essential.
 
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

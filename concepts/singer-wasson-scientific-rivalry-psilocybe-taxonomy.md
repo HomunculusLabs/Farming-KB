@@ -1,5 +1,5 @@
 ---
-title: "Singer-Wasson Scientific Rivalry Over Psilocybe Taxonomy"
+title: "Singer-Wasson singer wasson scientific rivalry psilocybe taxonomy Over Psilocybe Taxonomy"
 created: 2026-04-26
 tags:
   - mycology
@@ -18,17 +18,17 @@ type: concept
 
 ## A Taxonomic Dispute That Rumbled for Decades
 
-The scientific investigation of magic mushrooms was marked not only by
+The scientific investigation of [[guzman-magic-mushrooms-african-species]] was marked not only by
 groundbreaking discoveries but also by fierce personal rivalries. One of
 the most notable was the dispute between Rolf Singer's team and the
-combined forces of [[shroom-cultural-history-western-discovery-valentina-wasson]] over the naming and classification of hallucinogenic mushroom
+combined forces of [[shroom-cultural-history-western-discovery-valentina-wasson]] over the naming and classification of [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]]
 species. This seemingly dry taxonomic quarrel had lasting consequences
-for the nomenclature of psychoactive fungi.
+for the nomenclature of [[cattle-dispersal-psychoactive-fungi-australia]].
 
 ## The Key Players and Their Motivations
 
 Rolf Singer was a distinguished mycologist who led his own research team
-investigating the hallucinogenic mushrooms of Mexico. His boss, Sam
+investigating the [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] of Mexico. His boss, Sam
 Stein, was interested in the therapeutic properties of psychedelics, and
 was eager to conduct experiments with the newly discovered mushrooms.
 On the other side stood Roger Heim, Professor of Mycology and director

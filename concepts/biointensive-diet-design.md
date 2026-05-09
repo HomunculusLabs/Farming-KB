@@ -24,13 +24,13 @@ A typical one-person biointensive diet design allocates garden beds as follows:
 
 ### Vegetable Crops (20-30% of area)
 - Alliums (onions, garlic, leeks): 1-2 beds
-- Leafy greens (kale, chard, lettuce): 2-3 beds (succession planted)
-- Root vegetables (carrots, beets, turnips): 1-2 beds
+- [[solomon-leafy-greens-growing]] (kale, chard, lettuce): 2-3 beds (succession planted)
+- [[growing-root-vegetables-guide]] (carrots, beets, turnips): 1-2 beds
 - Summer vegetables (tomatoes, peppers, eggplant): 1-2 beds
 - Cucurbits (squash, cucumbers): 1 bed
 
 ### Carbon/Compost Crops (40-60% of area, overlapping with above)
-- Many calorie crops serve double duty (grain straw, bean residues, etc.)
+- Many calorie crops serve double duty ([[fukuoka-straw-winter-grain-straw-mulch]], bean residues, etc.)
 - Dedicated compost crops fill remaining area
 
 ## Seasonal Eating
@@ -40,7 +40,7 @@ A well-designed biointensive diet emphasizes:
 - **Storage crops**: Potatoes, sweet potatoes, onions, garlic, winter squash, root vegetables (store 3-8 months without processing)
 - **Preservation**: Drying, fermenting, freezing for crops that don't store well
 - **Year-round harvest**: Kale, collards, parsnips, leeks, Jerusalem artichokes harvestable through winter
-- **Succession planting**: Multiple plantings of quick crops (radishes, lettuce, beans) ensure continuous harvest
+- **[[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]]**: Multiple plantings of quick crops (radishes, lettuce, beans) ensure continuous harvest
 
 ## Protein Planning
 
@@ -68,8 +68,8 @@ Fat is the most difficult nutrient to produce in a small garden:
 |--------|-------------------|
 | Spring | Greenhouse/transplants, early greens, peas |
 | Summer | Tomatoes, peppers, squash, beans, corn, potatoes |
-| Fall | Grains harvest, root vegetables, cover crops |
-| Winter | Storage crops, winter greens, planning/sorting seeds |
+| Fall | Grains harvest, root vegetables, [[gaias-garden-cover-crops-soil-building]] |
+| Winter | Storage crops, [[coleman-winter-greens-nutritional-quality-cold-sweetening]], planning/sorting seeds |
 
 ## Scaling Up
 

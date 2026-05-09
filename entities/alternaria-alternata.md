@@ -33,10 +33,10 @@ saprotrophic species.
 
 Alternaria alternata is a ubiquitous fungus found in soil, on
 plant
-surfaces, in leaf litter, and in indoor environments. In John
-Dighton's treatment of fungi in ecosystem processes, A. alternata
+surfaces, in [[dighton-fungal-decomposition-leaf-litter-dynamics]], and in indoor environments. In John
+Dighton's treatment of fungi in [[fungal-ecosystem-processes-overview]], A. alternata
 is
-discussed primarily in the context of radiation resistance and
+discussed primarily in the context of [[bacillus-pumilus-radiation-resistance-surface-decontamination]] and
 its
 presence in phyllosphere and biodiversity fungi soil. The species
 has
@@ -46,11 +46,11 @@ tolerance demonstrated by strains inhabiting the Chernobyl
 Nuclear
 Power Plant reactor No. 4, making it a valuable model for
 studying
-fungal responses to ionizing radiation.
+[[dighton-fungal-responses-climate-change]] to ionizing radiation.
 
 Beyond its radiation-related properties, A. alternata is
 recognized as
-a common component of leaf litter fungal communities and as a
+a common component of leaf litter [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] and as a
 saprotrophic decomposer in soil ecosystems. The species
 contributes to
 [[mycology]], radiation biology, and evolutionary

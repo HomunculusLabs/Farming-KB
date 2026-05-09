@@ -28,7 +28,7 @@ The synergistic interaction between the MAO-inhibiting beta-carbolines of Banist
 
 In the western Amazon, particularly among Ecuadorian Kofan and Siona peoples, D. cabrerana is often preferred over [[psychotria-viridis]] — Chacruna, the most commonly used DMT admixture
 - psychotria-carthaginensis — another Psychotria species used in Ayahuasca
-- [[ayahuasca-pharmacology-MAOI-interactions]]
+- [[ayahuasca-pharmacology-maoi-interactions]]
 
 - [[banisteriopsis-caapi]] — the Ayahuasca vine itself
 - [[virola-theiodora]] — another Amazonian DMT-containing plant used as snuff
@@ -110,4 +110,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

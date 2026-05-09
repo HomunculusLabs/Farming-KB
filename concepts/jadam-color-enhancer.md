@@ -1,5 +1,5 @@
 ---
-title: JADAM Natural Color Enhancer
+title: ultra-low-cost-jadam-natural-pesticide-jnp Color Enhancer
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # JADAM Natural Color Enhancer
 
-When microorganisms break down material containing large quantities of iodine
+When microorganisms [[query-can-fungi-break-down-plastic-pollution]] material containing large quantities of iodine
 (I), the result is a natural color enhancer for fruits. Most seaweeds are good
 sources; kelp is particularly effective.
 
@@ -28,7 +28,7 @@ sources; kelp is particularly effective.
 
 ### Method
 1. Fill container with purslane, fill with water
-2. Add leaf mold, close lid
+2. Add [[comparison-leaf-mold-composting-vs-hot-composting-method]], close lid
 3. Decomposition almost complete in **10 days**
 4. High nitrogen content (0.20%) accelerates breakdown
 5. Very common plant growing anywhere

@@ -1,5 +1,5 @@
 ---
-title: "MMDA-3b (4-METHOXY-2,3-METHYLENEDIOXYAMPHETAMINE) -- PIHKAL Entry #135"
+title: "MMDA-3b (4-METHOXY-2,3-METHYLENEDIOXYAMPHETAMINE) -- 2c-b-pihkal-entry-20 #135"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -74,7 +74,7 @@ A solution of 7.0 g of 98% pure (by GC)
 4-methoxy-2,3-methylenedioxybenzaldehyde (see under MMDA-3a for its
 preparation) in 30 mL glacial acetic acid was treated with 5 mL
 nitroethane and 3 g anhydrous ammonium acetate, and heated on the
-steam bath for 3.5 h. H2Owas added to the hot solution to the point
+[[scythian-cannabis-steam-bath-ritual]] for 3.5 h. H2Owas added to the hot solution to the point
 of turbidity, then it was allowed to cool to room temperature with
 occasional stirring. A modest crop of yellow crystals formed which
 were removed by filtration, washed with aqueous acetic acid and air
@@ -109,7 +109,7 @@ of 201-202 deg C.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

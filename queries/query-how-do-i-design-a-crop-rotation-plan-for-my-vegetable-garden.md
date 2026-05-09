@@ -12,11 +12,11 @@ type: query
 
 ## Short Answer
 Crop rotation is the practice of growing different plant families in
-different areas of your garden each season to break pest and disease
+different areas of your garden each season to break [[hamilton-pest-and-disease-control-organic]]
 cycles, balance nutrient demands, and improve soil health. A basic
 rotation follows heavy feeders with light feeders and nitrogen-fixing
 legumes, cycling through at least three to four years before any family
-returns to the same spot. Understanding the [[soil-health-management]] and a key strategy in organic farming.
+returns to the same spot. Understanding the [[soil-health-management]] and a key strategy in [[coleman-deep-organic-farming-philosophy]].
 
 The most basic rotation framework divides crops into four categories based
 on their nutrient demands and contributions. Heavy feeders like tomatoes,
@@ -30,14 +30,14 @@ matter. A typical rotation sequence moves through these categories in
 order: heavy feeders, light feeders, legumes, and then soil builders or a
 rest period.
 
-The science behind legume nitrogen fixation is central to any rotation
+The science behind legume [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] is central to any rotation
 plan. Legumes form a symbiotic relationship with Rhizobium bacteria that
 colonize their root systems and convert atmospheric nitrogen (N2) into
-ammonium (NH4+), a form plants can use. This [[nitrogen-fixing-plants]] helps you select the most effective species
+ammonium (NH4+), a form plants can use. This nitrogen-fixing-plants helps you select the most effective species
 for your rotation.
 
-Pest and disease management is another major benefit of crop rotation.
-Many common garden pests and diseases are host-specific, meaning they
+Pest and [[plant-disease-management-solomon]] is another major benefit of crop rotation.
+Many common garden [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] are host-specific, meaning they
 primarily affect one plant family. Colorado potato beetles, for example,
 overwinter in the soil near where potatoes or eggplants grew the previous
 year. By moving solanaceous crops to a different part of the garden each
@@ -60,7 +60,7 @@ support a more diverse and resilient soil biology. This diversity creates
 competition that suppresses pathogenic organisms and promotes nutrient
 cycling efficiency. Mycorrhizal fungi also benefit from rotation because
 different crop families form associations with different fungal species,
-maintaining a rich and varied mycorrhizal community.
+maintaining a rich and varied [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]].
 
 Rotation also helps balance the nutrient demands placed on your soil.
 Continuous planting of heavy-feeding crops in the same location depletes

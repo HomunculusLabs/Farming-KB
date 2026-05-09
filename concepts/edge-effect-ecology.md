@@ -1,19 +1,14 @@
 ---
-title: "Edge Effect Ecology"
+title: "[[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]] Ecology"
 created: 2026-04-28
-tags: [[permaculture, ecology, biodiversity, design-principles]
+tags: [permaculture, ecology, biodiversity, design-principles]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  ["~/wiki/raw/papers/bill-mollison-permaculture-design-course.md"]
+sources: sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
-
-# Edge Effect Ecology
-
-Edge effect refers to the increased biodiversity, productivity, and
-ecological complexity that occurs at the boundaries between two
-different ecosystems or habitat types. [[herb-spiral]] demonstrates how shape alone can
+# Edge Effect Ecology Edge effect refers to the increased biodiversity, productivity, and ecological complexity that occurs at the boundaries between two different ecosystems or habitat types. [[herb-spiral]] demonstrates how shape alone can
 multiply the number of available niches.
 
 ### The Keyhole Garden
@@ -61,6 +56,7 @@ deflect wind, sun-catching edges on south-facing slopes for warm
 microclimates, and pollinator edges between crops and wild areas for
 [[zone-and-sector-analysis]]
 - [[guild-planting-systems]]
+
 ## Practical Considerations
 
 Successful implementation of Edge Effect Ecology requires attention to
@@ -79,4 +75,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

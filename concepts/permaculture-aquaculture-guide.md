@@ -11,11 +11,11 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 
 ## Overview
 
-Aquaculture is the integration of fish, water plants, and aquatic animals into designed landscapes. Permaculture aquaculture systems mimic natural pond ecologies, producing high yields of fish, crustaceans, and aquatic plants while performing essential water storage and purification functions on the site.
+Aquaculture is the integration of fish, water plants, and [[fungi-aquatic-animals-pathogens-parasites]] into designed landscapes. Permaculture aquaculture systems mimic natural pond ecologies, producing high yields of fish, crustaceans, and aquatic plants while performing essential water storage and purification functions on the site.
 
 ## The Case for Aquaculture
 
-Aquaculture in permaculture serves multiple functions simultaneously:
+[[comparison-aquaculture-in-permaculture-vs-backyard-pond-building]] serves multiple functions simultaneously:
 - Water storage for irrigation and domestic use
 - Food production (fish, crustaceans, edible water plants)
 - Fire control through stored water
@@ -29,7 +29,7 @@ Aquaculture in permaculture serves multiple functions simultaneously:
 
 ### Site Selection
 
-Ponds should be placed above the use point (garden, house) to enable gravity-fed water distribution. Earth dams are the most common and economical approach for pond construction. Key considerations:
+Ponds should be placed above the use point (garden, house) to enable gravity-fed water distribution. Earth dams are the most common and economical approach for [[holzer-pond-construction-and-aquaculture]]. Key considerations:
 
 - Impermeable soil layers (clay) or the use of liners and gley techniques
 - Adequate catchment area to fill and maintain water levels

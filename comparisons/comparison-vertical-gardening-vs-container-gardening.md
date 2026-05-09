@@ -1,5 +1,5 @@
 ---
-title: "Vertical Gardening vs Container Gardening"
+title: "comparison vertical gardening vs container gardening vs comparison-cold-frame-gardening-vs-container-gardening-guide"
 tags: [comparison, gardening, urban, small-space, design]
 date: 2026-05-08
 updated: 2026-05-08
@@ -26,13 +26,13 @@ against a wall surface, creating dramatic visual impact while producing food.
 
 Vertical systems excel in narrow spaces where ground footprint is the limiting
 factor — along fences, walls, and balcony railings. They also improve air
-circulation around foliage, which reduces fungal disease pressure compared to
+circulation around foliage, which reduces [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] pressure compared to
 densely planted ground beds. However, vertical gardens have real constraints:
 living walls can weigh 15 to 25 pounds per square foot when saturated,
 requiring substantial wall reinforcement. Shallow planting pockets restrict root
 depth, limiting crops to herbs, greens, and compact fruiting plants. Irrigation
 is often the Achilles' heel — hand-watering a tall living wall is impractical,
-making drip irrigation nearly mandatory. Wind exposure on upper floors can also
+making [[comparison-drip-irrigation-vs-passive-irrigation]] nearly mandatory. Wind exposure on upper floors can also
 desiccate plants faster than ground-level container setups.
 
 ## Container Gardening
@@ -49,7 +49,7 @@ often requiring daily or twice-daily watering. Nutrient depletion is also faster
 than in-ground beds since roots cannot forage beyond the pot walls, necessitating
 regular fertilizing. Despite these constraints, container gardening is the most
 accessible entry point for new gardeners and offers unmatched flexibility for
-seasonal rearrangement, crop rotation, and mobility.
+seasonal rearrangement, [[comparison-crop-rotation-vs-cover-cropping]], and mobility.
 
 ## Key Differences
 
@@ -80,7 +80,7 @@ them popular in commercial and residential landscape design.
 
 ## When to Choose Container Gardening
 Container gardening is the better choice when crop diversity matters more than
-space efficiency. If you want to grow tomatoes, peppers, carrots, and potatoes
+space efficiency. If you want to [[query-how-do-i-grow-tomatoes-in-a-greenhouse]], peppers, carrots, and potatoes
 alongside herbs and greens, containers accommodate the full range of root
 depths and volumes needed. They are ideal for renters who need portability, for
 gardeners with poor or contaminated urban soil, and for anyone who wants a

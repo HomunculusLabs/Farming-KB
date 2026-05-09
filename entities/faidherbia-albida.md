@@ -24,7 +24,7 @@ created: 2026-04-28
 
 **Faidherbia albida** (Delile) A.Chev. (syn. Acacia albida), known as the apple-ring acacia or winter thorn, is a leguminous tree native to Africa and the Middle East. It is one of the most important agroforestry species in the Sahel and Sudano-Sahelian zones.
 
-F. albida is remarkable for its reversed phenology: it drops its leaves during the rainy season and bears foliage during the dry season. This unique trait allows crops to grow beneath it with minimal competition for light and water during the growing season while benefiting from shade and nutrient inputs year-round.
+F. albida is remarkable for its reversed phenology: it drops its leaves during the rainy season and bears foliage during the dry season. This unique trait allows crops to grow beneath it with minimal competition for light and water during the [[savory-growing-season-and-non-growing-season-management]] while benefiting from shade and nutrient inputs year-round.
 
 ## Taxonomy and Morphology
 
@@ -62,7 +62,7 @@ In West Africa, F. albida is most abundant in the Sahelian and Sudanian ecologic
 
 The reversed leafing phenology of F. albida is its most ecologically significant trait. During the rainy season (growing period), the tree is leafless, minimizing competition with understory crops for light and water. During the dry season, the leafy canopy provides shade, reduces soil temperature, and drops nutrient-rich leaf litter.
 
-Nitrogen fixation rates of 20–100 kg N/ha/year have been documented under F. albida canopies in Sahelian agroforestry systems. The tree significantly increases soil organic matter, phosphorus availability, and cation exchange capacity in the rooting zone.
+[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] rates of 20–100 kg N/ha/year have been documented under F. albida canopies in Sahelian agroforestry systems. The tree significantly increases soil [[hamilton-composting-and-organic-matter-management]], [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]], and [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity in the rooting zone.
 
 F. albida flowers during the dry season (October–March), providing critical nectar and pollen resources for bees and other pollinators when few other plants are in bloom.
 
@@ -86,7 +86,7 @@ Seeds are dispersed by livestock that consume the pods and pass seeds intact thr
 
 ## Cultivation
 
-F. albida is propagated primarily from seed. Seeds require scarification (hot water or acid treatment) to break physical dormancy. Germination occurs within 5–15 days after treatment. Direct seeding is most common, though seedlings can be raised in nursery pots.
+F. albida is propagated primarily from seed. Seeds require scarification (hot water or acid treatment) to break physical dormancy. Germination occurs within 5–15 days after treatment. [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is most common, though seedlings can be raised in nursery pots.
 
 Seedlings establish rapidly and begin bearing pods at 5–7 years. Maximum nitrogen contribution and crop yield benefits are achieved at tree densities of 10–50 mature trees per hectare. Pruning to control canopy size is common but can reduce crop benefits for 1–2 seasons.
 
@@ -109,5 +109,5 @@ Growth rates vary with rainfall and soil conditions. In favorable sites, height 
 - [[robinia-pseudoacacia]]
 - [[morus-alba]]
 - [[comfrey-symphytum-officinale]]
-- [[hippophae-rhamnoides]]
+- hippophae-rhamnoides
 - [[trifolium-repens]]

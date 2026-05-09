@@ -1,5 +1,5 @@
 ---
-title: Permaculture Design Principles — Beginners Guide
+title: bill-mollison-permaculture-a-designers-manual-permaculture-design-principles Principles — Beginners Guide
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/particles/permaculture-beginners-guide.md]
 
 ## Permaculture Design Principles for Beginners
 
-Permaculture (from "permanent agriculture" / "permanent culture") was coined in the mid-1970s by Australians David Holmgren and Bill Mollison. It is defined as "creating sustainable human habitats by following nature's patterns." It integrates ecology, landscape, organic gardening, architecture, and agroforestry into a design system applicable to both urban and rural settings.
+Permaculture (from "permanent agriculture" / "permanent culture") was coined in the mid-1970s by Australians David Holmgren and Bill Mollison. It is defined as "creating sustainable human habitats by following nature's patterns." It integrates ecology, landscape, [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]], architecture, and agroforestry into a design system applicable to both urban and rural settings.
 
 ### Three Core Ethics
 
@@ -21,7 +21,7 @@ Permaculture (from "permanent agriculture" / "permanent culture") was coined in 
 
 ### Key Design Principles
 
-**Work With Nature, Not Against It**: Rather than expending massive energy attempting to tame nature (damming valleys, ploughing bare soil, applying chemical inputs), work in harmony with natural systems. Encourage predator insects (ladybirds, hoverflies) instead of using pesticides. Design homes for passive solar energy instead of building nuclear power stations.
+**Work With Nature, Not Against It**: Rather than expending massive energy attempting to tame nature (damming valleys, ploughing bare soil, applying chemical inputs), work in harmony with natural systems. Encourage predator insects (ladybirds, hoverflies) instead of using pesticides. Design homes for [[comparison-passive-solar-vs-earth-sheltered]] energy instead of building nuclear power stations.
 
 **See Solutions, Not Problems**: Reframe challenges. As Mollison said: "You haven't got an excess of slugs, you've got a duck deficiency." Every "problem" is an opportunity for a beneficial design element.
 
@@ -39,7 +39,7 @@ Permaculture (from "permanent agriculture" / "permanent culture") was coined in 
 
 Zoning is about correct placement — positioning elements by frequency of human attention needed:
 
-- **Zone 0**: Home — the center. Energy efficient, sustainable, healthy living space.
+- **Zone 0**: Home — the center. [[cervantes-case-study-energy-efficient-sea-of-green]], sustainable, [[jadam-healthy-living-guidelines]] space.
 - **Zone 1**: Intensive garden — herbs, salad greens, daily-use plants. Visited multiple times daily.
 - **Zone 2**: Less intensive food production — fruit trees, chickens, compost. Visited regularly.
 - **Zone 3**: Broad-scale crops, orchards, grazing. Occasional visits.
@@ -52,10 +52,14 @@ Local spending keeps money circulating within communities. When money is spent w
 
 ## See Also
 
+- [[wysiwyg-editor]]
+
+- [[permaculture-design-principles-overview]]
+
 - [[permaculture-ethics-and-principles]]
 - permaculture design principles beginners
 - [[permaculture-zones-and-sectors]]
-- [[permaculture-zone-and-sector-analysis]]
+- [[zone-sector-analysis-guide]]
 - [[permaculture-design]]
 ## Practical Considerations
 
@@ -73,7 +77,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +119,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,11 +1,12 @@
 ---
-title: Fukuoka No Cultivation Principle
+title: Fukuoka No fukuoka-no-cultivation-principle-soil-self-tillage
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # Principle 1: No Cultivation
@@ -28,7 +29,7 @@ In the mountain forests, the very grasses and trees, and the earthworms and mole
 
 ## The Root of the Problem
 
-People transplant saplings without giving thought to what they are doing. They clip the roots of a fruit sapling and transplant it. From this point on, the roots cease to grow straight and lose the ability to penetrate hard rock. Applying chemical fertilizers encourages the tree to grow a shallow root structure. Fertilizer application and weeding bring a halt to the normal aggregation and enrichment of topsoil. These very actions are what make plowing necessary in the first place.
+People transplant saplings without giving thought to what they are doing. They clip the roots of a fruit sapling and transplant it. From this point on, the roots cease to grow straight and lose the ability to penetrate hard rock. Applying [[cervantes-chemical-fertilizers-guide]] encourages the tree to grow a shallow root structure. [[cervantes-fertilizer-application-strain-feeding]] and weeding bring a halt to the normal aggregation and enrichment of topsoil. These very actions are what make plowing necessary in the first place.
 
 There is no need to plow because nature has been working at it for thousands of years. Man has restrained the hand of nature and taken up the plow himself. No amount of research can teach man everything there is to know about the soil, and he will certainly never create soils more perfect than those of nature.
 
@@ -36,12 +37,12 @@ There is no need to plow because nature has been working at it for thousands of 
 - [[natural-farming-philosophy]], [[one-straw-revolution-guide]], [[fukuoka-four-principles-natural-farming]], fukuoka no cultivation principle, [[fukuoka-no-weeding-no-pesticides]], [[fukuoka-do-nothing-farming-philosophy]], [[clay-seed-balls-tsuchi-dango]].
 
 For further reading, consult Masanobu Fukuoka's 'The One-Straw Revolution' and 'The Natural Way of Farming'.
-The natural farming movement has inspired practitioners worldwide to reconsider the role of human intervention in food production.
+The [[comparison-natural-farming-vs-permaculture]] movement has inspired practitioners worldwide to reconsider the role of human intervention in food production.
 Key to success is abandoning the mindset that nature needs to be controlled and instead learning to cooperate with natural processes.
-Winter grain cultivation without tilling demonstrates how carefully timed seeding can work with seasonal cycles.
+Winter [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] without tilling demonstrates how carefully timed seeding can work with seasonal cycles.
 The relationship between soil microorganisms, plant roots, and organic matter is central to Fukuoka's method.
 Natural farming orchards use a layered approach: tall trees, understory fruit trees, shrubs, ground covers, and root crops.
-Fukuoka's methods have been adapted successfully in tropical, temperate, and arid climates around the world.
+Fukuoka's methods have been adapted successfully in tropical, temperate, and arid climates [[fungi-around-the-world-species-distribution]].
 The spiritual dimension of natural farming emphasizes humility, gratitude, and a deep connection to the land.
 
 For further reading, consult Masanobu Fukuoka's 'The One-Straw Revolution' and 'The Natural Way of Farming'.
@@ -84,4 +85,4 @@ Maintain high biomass by mixed perennial/tree/crop species in wet tropics. Even 
 
 ## Implications for Design
 
-The fragility of tropical soils means that [[tropical-permaculture-guide]] expands on these principles with specific species recommendations and planting patterns suited to monsoon and equatorial climates.
+The fragility of tropical soils means that tropical-permaculture-guide expands on these principles with specific species recommendations and planting patterns suited to monsoon and equatorial climates.

@@ -2,7 +2,7 @@
 
 ## Overview
 
-Masanobu Fukuoka's most radical ecological observation was that rain does not
+[[masanobu-fukuoka]]'s most radical ecological observation was that rain does not
 originate solely from atmospheric processes — vegetation itself generates
 rainfall. While standing in an American desert, he experienced a revelation:
 "Rain does not fall from the heavens; it issues forth from the ground. Deserts
@@ -13,7 +13,7 @@ surface ecology.
 
 Fukuoka first articulated this idea during his American travels in the late
 1970s and early 1980s. Standing on the sun-baked soil of the American West,
-he noticed that the areas with the worst desertification were precisely those
+he noticed that the areas with the worst [[desertification]] were precisely those
 where native vegetation had been most thoroughly removed. Historical records
 showing grasslands and forests in regions now reduced to scrub led him to
 conclude that removing plant cover had disrupted a biological water cycle
@@ -32,7 +32,7 @@ and the creation of atmospheric conditions favorable to condensation and
 precipitation.
 
 This is not to say that Fukuoka denied the role of atmospheric circulation in
-determining climate zones. Rather, he argued that within any given climatic
+determining [[mollison-climate-zones-permaculture-strategies]]. Rather, he argued that within any given climatic
 zone, the presence or absence of vegetation determines whether the available
 moisture is recycled through the ecosystem or lost. A region that receives
 moderate rainfall can maintain itself as a productive landscape if vegetation
@@ -54,7 +54,7 @@ Additionally, vegetation moderates surface temperatures, reducing extreme
 heating that would otherwise drive moisture away from the local area. Plant
 canopies shade the soil, keeping temperatures lower and reducing evaporative
 loss. Roots create channels that improve water infiltration, allowing rainfall
-to penetrate deeper rather than running off. Organic matter added by plants
+to penetrate deeper rather than running off. [[hamilton-composting-and-organic-matter-management]] added by plants
 improves the soil's water-holding capacity, creating a reservoir that slowly
 releases moisture back to the atmosphere through evapotranspiration.
 
@@ -72,7 +72,7 @@ which in turn further stresses remaining vegetation.
 He noted that once this spiral reaches a certain threshold, even heavy rainfall
 events cannot restore the vegetation because the soil has lost its capacity to
 support plant life. Topsoil has been blown or washed away, the soil microbiome
-has collapsed, and the seed bank of native plants has been depleted. This is
+has collapsed, and the [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]] of native plants has been depleted. This is
 why he emphasized the urgency of preventing desertification before the spiral
 begins, rather than attempting to reverse it after the fact.
 
@@ -86,7 +86,7 @@ bad grasses" — introduced plant species with shallower root systems that did
 not create the same soil structure or moisture retention as native perennials.
 
 In Africa, during his forty-day visit, he observed similar patterns where
-traditional rotational grazing practices that maintained vegetation cover had
+traditional [[comparison-rotational-grazing-vs-continuous-grazing]] practices that maintained vegetation cover had
 been disrupted by colonial agricultural methods. Areas where nomadic peoples
 had practiced careful grazing for centuries retained their vegetation, while
 areas converted to settled agriculture were rapidly desertifying. The problem
@@ -106,7 +106,7 @@ they deprive the broader landscape of the moisture needed to sustain vegetation.
 
 The proper approach was to restore vegetation cover, which would restore the
 natural hydrological cycle. Building a dam requires enormous energy and
-resources, while scattering seed pellets over barren land costs almost nothing.
+resources, while scattering [[clay-seed-pellets-direct-seeding]] over barren land costs almost nothing.
 The former creates dependency on technological infrastructure requiring
 indefinite maintenance, while the latter works with nature's own processes to
 create a self-sustaining system.
@@ -132,7 +132,7 @@ of broader weather patterns.
 
 For Fukuoka, the vegetation-rainfall relationship was evidence of nature's
 fundamental interconnectedness. It demonstrated that nature operates as an
-integrated whole where cause and effect cannot be neatly separated. This
+integrated whole where [[fukuoka-textdoc-no-cause-and-effect-in-nature]] cannot be neatly separated. This
 reinforced his broader argument that scientific reductionism — studying
 rainfall as purely atmospheric, divorced from surface ecology — inevitably
 leads to incomplete understanding and misguided interventions. The feedback

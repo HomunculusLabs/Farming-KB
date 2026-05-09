@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushrooms of Africa
+title: forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of Africa
 created: 2026-04-26
 aliases:
   - Neurotropic fungi of Africa
@@ -29,17 +29,17 @@ many more species than currently recorded.
 
 ## Widely Distributed African Species
 
-Amanita muscaria, A. pantherina, Claviceps paspali, C. purpurea, Copelandia
+[[allegro-amanita-muscaria-properties-and-pharmacology]], A. pantherina, Claviceps paspali, C. purpurea, Copelandia
 tropicalis, Gymnopilus spectabilis (northern Africa), Inocybe corydalina
-(northern Africa), Panaeolina foenisecii, Panaeolus africanus, P. fimicola, P.
+(northern Africa), [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]], Panaeolus africanus, P. fimicola, P.
 microsporus, P. papilionaceus, P. retirugis, P. sphinctrinus, P. subbalteatus,
-P. tropicalis, Pluteus salicinus, Psilocybe cyanescens, P. goniospora, P.
+P. tropicalis, [[gartz-pluteus-salicinus-wood-inhabiting-psilocybin]], [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]], P. goniospora, P.
 mairei (southwest).
 
 ## Distribution by Country/Region
 
 ### Algeria
-Claviceps purpurea, Psilocybe mairei (originally described from North Africa).
+[[bloomfield-ergot-claviceps-purpurea-ergotism]], Psilocybe mairei (originally described from North Africa).
 
 ### Chad
 Panaeolus africanus.
@@ -131,4 +131,4 @@ mushrooms occur in abundance wherever mycologists abound."
 - [[psilocybin-mushroom-distribution-worldwide]]
 - [[natto-making]]
 - [[psychedelic-mushroom-art-and-iconography]]
-- [[teonanacatl-and-mesoamerican-mushroom-cults]]
+- teonanacatl-and-mesoamerican-mushroom-cults

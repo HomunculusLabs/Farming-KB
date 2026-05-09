@@ -1,10 +1,11 @@
 ---
-title: "Permaculture Tuber Crops vs Bean Growing"
+title: "comparison permaculture tuber crops vs bean growing guide Crops vs Bean Growing"
 created: 2026-04-28
 tags: [comparison, crops, permaculture, vegetables, nitrogen-fixing]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -18,7 +19,7 @@ protein. Tuber crops like potatoes, sweet potatoes, cassava, Jerusalem
 artichokes, and yams are calorie-dense staple crops that produce large yields
 from underground biomass. Beans fix atmospheric nitrogen, improve soil
 fertility, and provide protein-rich harvests of fresh pods, dried seeds, or
-both. In permaculture design, these crops are often paired together in
+both. In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], these crops are often paired together in
 polycultures where beans supply nitrogen that feeds tuber growth, and their
 different root depths and canopy heights create productive, multi-layered food
 systems.
@@ -39,7 +40,7 @@ pole beans) and require no infrastructure, making them better for large
 plantings and succession cropping.
 
 Inoculation with rhizobia bacteria is especially important in soils without
-prior legume history, as it enables nitrogen fixation that reduces or eliminates
+prior legume history, as it enables [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] that reduces or eliminates
 the need for nitrogen fertilizer. Purchase inoculant specific for beans
 (Phaseolus spp.), moisten seeds lightly, roll in the powder, and plant
 immediately as the bacteria die quickly when exposed to sun and air. Beans are
@@ -56,7 +57,7 @@ crops. Varieties like Trail of Tears, Jacob's Cattle, and Good Mother Stallard
 have been saved for generations for their superior drying and cooking qualities.
 Common pests include Mexican bean beetles, aphids, and spider mites, while
 proper spacing, air circulation, and avoiding overhead watering prevent most
-fungal diseases. Succession planting bush beans every 2-3 weeks through
+fungal diseases. [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] bush beans every 2-3 weeks through
 midsummer ensures a continuous harvest of fresh beans, while a dedicated late
 planting provides beans for drying.
 
@@ -72,7 +73,7 @@ planting provides beans for drying.
 | Days to maturity | 60-120+ days | 50-75 days |
 | Climate range | Wide (species-dependent) | Warm season (60F+ soil) |
 | Support needed | Hilling (potatoes), none (sweet potato) | Pole beans need trellis |
-| Perennial options | Jerusalem artichoke, cassava, yam | Few perennial options |
+| Perennial options | [[comparison-jerusalem-artichoke-vs-potato]], cassava, yam | Few perennial options |
 | Caloric yield per sq ft | Very high (potatoes, sweet potatoes) | Moderate |
 | Propagation | Tubers, slips, cuttings | Seeds only |
 | Pest management | Row cover, rotation, Bt | Hand-picking, row cover |
@@ -80,7 +81,7 @@ planting provides beans for drying.
 
 ## When to Choose Tuber Crops
 
-Tuber crops are the foundation of calorie production and food security on any
+Tuber crops are the foundation of [[solomon-self-sufficiency-calorie-production-economics]] and food security on any
 homestead. They should occupy the largest portion of garden space for
 homesteaders aiming for self-sufficiency. Potatoes and sweet potatoes produce
 more edible calories per square foot than any other garden crop, making them the
@@ -101,6 +102,8 @@ shelf-stable protein that stores indefinitely without refrigeration or
 processing, complementing the carbohydrates from tuber crops to create a
 nutritionally complete staple food base.
 ## See Also
+
+- [[permaculture-quinoa-growing-guide]]
 
 - [[companion-planting-reference]]
 - [[comparison-green-manure-vs-cover-crops]]

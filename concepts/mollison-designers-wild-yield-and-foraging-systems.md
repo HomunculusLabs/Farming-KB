@@ -16,7 +16,7 @@ type: concept
 
 ## Wild Yield and Foraging Systems
 
-Wild yield systems are designed components of the permaculture landscape that
+Wild yield systems are designed components of the [[holzer-permaculture-landscape-design]] that
 produce food with minimal human management, drawing on species and ecological
 processes that function largely without intervention. Bill Mollison's
 *Permaculture: A Designers' Manual* emphasizes that productive landscapes
@@ -44,7 +44,7 @@ relying on ecological processes rather than human labor for maintenance.
 ## Mushroom Cultivation on Logs
 
 Mushroom cultivation is a quintessential wild yield strategy. Inoculating
-hardwood logs with mushroom spawn creates a productive system that requires
+hardwood logs with [[cuthill-mushroom-spawn-preparation-historical]] creates a productive system that requires
 minimal ongoing management. Shiitake, oyster, lion's mane, and maitake
 mushrooms can all be grown on freshly cut logs of appropriate tree species.
 Oak, maple, beech, and alder are preferred substrates for most edible species.
@@ -62,7 +62,7 @@ Log-grown mushrooms integrate seamlessly with [[mollison-designers-humus-buildin
 
 Designated wild greens zones are areas planted or allowed to naturalize with
 edible wild plants that require minimal care. Species such as dandelion,
-chickweed, purslane, lamb's quarters, stinging nettle, sorrel, watercress,
+chickweed, purslane, lamb's quarters, [[comparison-stinging-nettle-vs-horsetail]], sorrel, watercress,
 and wild garlic are highly nutritious, widely adapted, and productive without
 cultivation. Many of these species are considered weeds in conventional
 systems but are valued in permaculture for their reliability and nutritional
@@ -81,14 +81,14 @@ more desirable ones.
 
 ## Nut Groves
 
-Nut groves are semi-wild plantings of productive nut trees that require minimal
+Nut groves are semi-wild plantings of productive [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]] that require minimal
 management once established. Chestnuts, walnuts, hazelnuts, pecans, hickories,
 and almonds can be planted as extensive groves or integrated into broader
 agroforestry systems. Many nut species are long-lived and productive for
 decades or centuries with little more than occasional harvesting.
 
 Nut groves serve multiple functions beyond food production. They provide
-timber, wildlife habitat, wind protection, and [[mollison-designers-water-purification-and-storage-principles]]
+timber, wildlife habitat, [[cervantes-wind-protection-outdoor-cannabis]], and [[mollison-designers-water-purification-and-storage-principles]]
 creates multi-function water systems that produce food while managing water
 quality.
 
@@ -108,7 +108,7 @@ not an afterthought.
 > cultivation on logs, wild greens zones, nut groves, berry hedgerows, and
 > aquatic food systems. These systems reduce labor inputs, increase food
 > security and biodiversity, and integrate with broader permaculture elements
-> including food forests, water systems, and erosion control structures to
+> including food forests, water systems, and [[permplant-willows-salix-erosion-control-fodder]] structures to
 > create multi-functional, self-maintaining food-producing landscapes.
 
 ## See Also

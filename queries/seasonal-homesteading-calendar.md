@@ -1,40 +1,5 @@
 ---
 
-title: Seasonal Homesteading Calendar
-created: 2026-04-12
-updated: 2026-04-12
-type: query
-
-tags:
-- homesteading
-- timeline
-- regenerative
-- gardening
-- permaculture
-- animal-husbandry
-- compost
-- annual-calendar
-- seeds
-- preservation
-- cover-crop
-- indoor
-- reference
-
-sources:
-- concepts/seasonal-planning.md
-- concepts/homesteading.md
-- concepts/duck-keeping.md
-- concepts/goat-keeping.md
-- concepts/food-preservation.md
-- concepts/composting-systems.md
----
-
-# Seasonal Homesteading Calendar
-
-Month-by-month task list for temperate climate zones 5-7. Last frost ~April 5-15, first frost ~October 25-November 5, growing season 180-210 days. Adapt dates for your specific zone. See [[seasonal-planning]] for the cannabis-integrated version and [[homesteading]] for planning priorities.
-
----
-
 ## January
 
 **Garden tasks**: Finalize seed orders. Review last year's garden journal. Layout crop rotation maps. Inventory stored seeds -- test viability of older seed. Order cover crop seed. Plan new beds or expansions.
@@ -43,7 +8,7 @@ Month-by-month task list for temperate climate zones 5-7. Last frost ~April 5-15
 
 **Food preservation**: Use up frozen/canned stores. Inventory pantry. Plan preservation goals for coming year. Check root cellar conditions (temperature, humidity).
 
-**Infrastructure**: Repair fencing before ground thaws. Sharpen and oil tools. Build new raised beds or [[greenhouse-design]] structures. Check and repair gutters, downspouts, rain barrels. Service equipment -- chainsaw, mower, tiller.
+**Infrastructure**: Repair fencing before ground thaws. Sharpen and oil tools. Build new raised beds or greenhouse-design structures. Check and repair gutters, downspouts, rain barrels. Service equipment -- chainsaw, mower, tiller.
 
 **Planning**: Set annual homesteading goals. Budget for major purchases. Read, take courses, attend winter workshops.
 
@@ -57,7 +22,7 @@ Month-by-month task list for temperate climate zones 5-7. Last frost ~April 5-15
 
 **Food preservation**: Make jams/jellies from stored or frozen fruit. Render fats. Prepare fermentation vessels.
 
-**Infrastructure**: Build or repair animal housing before arrivals. Set up brooders for chicks. Install new rain barrels or repair irrigation. Order composting supplies.
+**Infrastructure**: Build or repair [[permaculture-designers-manual-animal-housing-detailed]] before arrivals. Set up brooders for chicks. Install new rain barrels or repair irrigation. Order composting supplies.
 
 **Planning**: Finalize seed orders. Order potatoes, sweet potato slips, bare-root plants. Review [[cover-cropping-guide]] plan for the year.
 
@@ -67,19 +32,19 @@ Month-by-month task list for temperate climate zones 5-7. Last frost ~April 5-15
 
 **Garden tasks**: Start tomatoes, brassicas indoors (6-8 weeks). Direct sow: peas, spinach, radishes, carrots, beets, turnips, potatoes (St. Patrick's Day tradition). Plant bare-root fruit trees, berries, asparagus, rhubarb. Take soil samples -- send to lab. Apply lime if needed (takes months to act).
 
-**Livestock**: Ducks -- increase forage as pasture greens up. Goats -- reduce hay as browse becomes available. Watch for kidding season. Set up electro-net fencing for rotational grazing.
+**Livestock**: Ducks -- increase forage as pasture greens up. Goats -- reduce hay as browse becomes available. Watch for kidding season. Set up electro-net fencing for [[comparison-rotational-grazing-vs-continuous-grazing]].
 
 **Food preservation**: Start [[food-fermentation-guide]] projects (sauerkraut, kimchi). Make bone broth from saved bones.
 
-**Infrastructure**: Begin compost turning (winter piles). Set up cold frames or low tunnels. Repair garden beds. Install drip irrigation lines.
+**Infrastructure**: Begin compost turning (winter piles). Set up cold frames or low tunnels. Repair garden beds. Install [[comparison-drip-irrigation-vs-passive-irrigation]] lines.
 
-**Planning**: [[seed-starting-reference]] schedule finalized. Succession planting calendar written. Mark expected harvest dates for perennials.
+**Planning**: [[seed-starting-reference]] schedule finalized. [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] calendar written. Mark expected harvest dates for perennials.
 
 ---
 
 ## April
 
-**Garden tasks**: Harden off transplants (tomatoes, peppers, eggplant) -- 7-10 days of increasing outdoor exposure. Transplant after last frost (~April 10-15). Direct sow: beans, corn, cucumbers, squash, melons (soil temp 60F+). Second sowing of radishes, lettuce, spinach. Begin [[cannabis-vegetative-stage]] if growing indoor. [[cover-cropping-guide]] -- terminate crimson clover and winter pea (crimp or mow 2-3 weeks before planting).
+**Garden tasks**: Harden off transplants (tomatoes, peppers, eggplant) -- 7-10 days of increasing outdoor exposure. Transplant after last frost (~April 10-15). Direct sow: beans, corn, cucumbers, squash, melons (soil temp 60F+). Second sowing of radishes, lettuce, spinach. Begin [[cannabis-vegetative-stage]] if growing indoor. [[cover-cropping-guide]] -- terminate [[comparison-lupin-vs-crimson-clover-green-manure]] and winter pea (crimp or mow 2-3 weeks before planting).
 
 **Livestock**: Spring pasture rotation begins. Integrate ducklings with flock. First rotational graze. Check for parasites after turnout.
 
@@ -121,7 +86,7 @@ Month-by-month task list for temperate climate zones 5-7. Last frost ~April 5-15
 
 ## July Through December
 
-The fall and winter months — peak harvest, preservation, cover cropping, winterizing, and rest — are covered in detail on [[seasonal-homesteading-fall-winter]].
+The fall and winter months — peak harvest, preservation, [[fukuoka-clover-cover-cropping-soil-ecology]], winterizing, and rest — are covered in detail on [[seasonal-homesteading-fall-winter]].
 
 ## See Also
 

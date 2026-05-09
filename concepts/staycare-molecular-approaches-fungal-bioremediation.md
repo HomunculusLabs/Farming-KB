@@ -1,5 +1,5 @@
 ---
-title: Molecular Approaches to Enhancing Fungal Bioremediation
+title: staycare molecular approaches fungal bioremediation to Enhancing staycare-composting-as-a-fungal-bioremediation-strategy
 created: 2026-04-28
 tags:
   - bioremediation
@@ -30,8 +30,8 @@ capability. Notable examples include:
 
 - Laccase genes introduced into Aspergillus oryzae, a well-established
   industrial fungus with exceptional protein secretion capacity
-- Manganese peroxidase genes similarly transferred into A. oryzae for
-  enhanced extracellular enzyme production
+- [[fungal-manganese-peroxidase-remediation]] genes similarly transferred into A. oryzae for
+  enhanced [[dighton-fungal-extracellular-enzyme-systems-decomposition]] production
 - In both cases, the enzymes were successfully excreted into liquid growth
   media, demonstrating the feasibility of the approach
 
@@ -41,7 +41,7 @@ scalable production systems for enzyme manufacture.
 
 ## Hybrid Gene Construction for Pollutant Transformation
 
-A specific attempt to improve fungal remediation through genetic engineering
+A specific attempt to improve fungal remediation through [[fukuoka-textdoc-genetic-engineering-critique-warning]]
 involved constructing a hybrid gene consisting of:
 
 1. A bacterial gene coding for organophosphate transformation
@@ -83,7 +83,7 @@ Molecular approaches to laccase improvement include:
 
 Laccases have shown particular promise for treatment of effluents
 containing chlorophenols, synthetic dyes, and other recalcitrant
-compounds. Their ability to function without hydrogen peroxide simplifies
+compounds. Their ability to function without [[cervantes-hydrogen-peroxide-sterilization]] simplifies
 application in [[mycorrhiza-bioassays-soil-infectivity]].
 Ectomycorrhizal fungi possess ligninase activity and can transform toxic
 organic pollutants including atrazine, 2,4-dichlorophenoxyacetic acid, TNT,

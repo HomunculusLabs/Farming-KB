@@ -5,6 +5,7 @@ tags: [query, nursery, propagation, permaculture, seedlings]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
+  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: query
 ---
@@ -23,17 +24,17 @@ The best small nursery grows plants that match local climate, customer needs, an
 
 ### Define The Nursery Purpose
 
-A nursery can serve a home garden, a farm enterprise, a restoration project, a food forest, or a community plant network.
+A nursery can serve a [[cool-climate-home-garden-mollison]], a farm enterprise, a restoration project, a food forest, or a community plant network.
 The purpose determines what species you grow and how much infrastructure you need.
 [[mollison-plant-nursery-species-selection]] is useful for matching plant choices to climate, function, and site goals.
-Good early categories include nitrogen fixers, dynamic accumulators, hedgerow shrubs, perennial vegetables, culinary herbs, and pollinator plants.
-Annual vegetable starts can provide quick turnover, but perennials may better support permaculture design work.
+Good early categories include nitrogen fixers, [[comparison-dynamic-accumulators-vs-cover-crops]], hedgerow shrubs, [[comparison-perennial-vegetables-vs-cover-crops]], [[holzer-medicinal-and-culinary-herbs-compendium]], and pollinator plants.
+Annual vegetable starts can provide quick turnover, but perennials may better support [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] work.
 Local demand matters because unsold plants still need water, space, and care.
 
 ### Build Propagation Zones
 
 A nursery needs different microclimates for germination, rooting, potting, and hardening off.
-[[seed-starting-reference]] covers timing, containers, media, and seedling care for practical production.
+[[seed-starting-reference]] covers timing, containers, media, and [[cannabis-seedling-care-guide]] for practical production.
 Use fresh seed when possible and test older seed before relying on it.
 Record sowing date, seed source, germination rate, potting date, and losses.
 Some species need stratification, scarification, soaking, smoke treatment, or light exposure.
@@ -56,7 +57,7 @@ A small nursery can stay low-tech, but it cannot stay disorganized for long.
 
 Plants should move to larger containers before they become root-bound.
 [[seed-saving-storage]] helps with maintaining viable seed between seasons.
-[[permaculture-nursery-design]] helps fit the nursery into the whole site.
+permaculture-nursery-design helps fit the nursery into the whole site.
 - [[mollison-plant-nursery-species-selection]] helps prevent overgrowing plants nobody needs.
 - [[seed-starting-reference]] gives practical seed-starting workflow.
 - [[seed-saving-storage]] makes the nursery more resilient across seasons.
@@ -84,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

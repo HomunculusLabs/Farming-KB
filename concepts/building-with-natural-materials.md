@@ -4,12 +4,13 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, construction, design, sustainability, homestead-crafts]
-sources: []
+sources:
+  sources: []
 ---
 
 # Building with Natural Materials
 
-Natural building uses locally sourced, minimally processed materials to create structures that are healthy, energy-efficient, and low in embodied energy. For the homesteader, natural building reduces costs, eliminates dependency on industrial supply chains, and creates buildings that are uniquely suited to their climate and landscape.
+[[query-how-do-i-choose-a-natural-building-method-for-my-climate]] uses locally sourced, minimally processed materials to create structures that are healthy, energy-efficient, and low in embodied energy. For the homesteader, natural building reduces costs, eliminates dependency on industrial supply chains, and creates buildings that are uniquely suited to their climate and landscape.
 
 ## Cob
 
@@ -39,7 +40,7 @@ Test your subsoil by doing a simple shake test: fill a jar 1/3 with subsoil, add
 - Allow each course to firm up before adding the next
 - Sculpt niches, shelves, and furniture directly into the walls
 - Embed windows and doors with wooden frames as you build
-- Walls should be 18-24 inches thick for structural strength and thermal mass
+- Walls should be 18-24 inches thick for [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]] and thermal mass
 - Install a roof overhang of at least 2 feet to protect walls from rain
 
 ### Pros and Cons
@@ -54,7 +55,7 @@ Straw bale construction uses baled straw (not hay) as either infill insulation w
 
 ### Straw vs Hay
 
-Straw is the hollow stem of grain crops (wheat, oats, barley) after the grain is harvested. Hay is the whole plant including seed heads and leaves. Always use straw -- hay contains seeds that can sprout and organic matter that attracts pests.
+Straw is the hollow stem of grain crops (wheat, oats, barley) after the grain is harvested. Hay is the whole plant including seed heads and leaves. Always use straw -- hay contains seeds that can sprout and [[hamilton-composting-and-organic-matter-management]] that attracts pests.
 
 ### Building Methods
 
@@ -79,7 +80,7 @@ Timber frame construction uses large timber posts and beams connected by traditi
 
 - Oak: Traditional, strongest, most rot-resistant. Difficult to work.
 - Pine: Easier to work, lighter, less rot-resistant. Treat or keep dry.
-- Douglas fir: Strong, available in large dimensions in western North America.
+- Douglas fir: Strong, available in large dimensions in western [[psilocybin-north-america-pacific-northwest]].
 - Locally milled timber reduces cost and transport. A portable sawmill can process trees from the [[woodlot-management]].
 
 ### Joinery
@@ -92,7 +93,7 @@ Basic joints every timber framer learns:
 
 ## Earthship
 
-Earthships are passive solar buildings developed by Michael Reynolds that use recycled materials and earth-rammed tires as the primary wall system. They are designed to be self-sufficient in water, food, and energy.
+Earthships are [[comparison-passive-solar-vs-earth-sheltered]] buildings developed by Michael Reynolds that use recycled materials and earth-rammed tires as the primary wall system. They are designed to be self-sufficient in water, food, and energy.
 
 ### Core Principles
 
@@ -100,7 +101,7 @@ Earthships are passive solar buildings developed by Michael Reynolds that use re
 - Passive solar: South-facing glass captures winter sun
 - Natural ventilation: Operable windows and skylights create cross-ventilation
 - Rainwater catchment: Roof water collection for all water needs
-- Greywater treatment: Interior planters filter and reuse greywater
+- [[mollison-designers-greywater-treatment-reedbeds]]: Interior planters filter and reuse greywater
 - Solar and wind power: On-site electricity generation
 - Food production: Interior and exterior growing spaces
 

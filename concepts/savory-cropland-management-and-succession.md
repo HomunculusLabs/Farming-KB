@@ -1,5 +1,5 @@
 ---
-title: Cropland Management and Succession
+title: savory cropland management and succession and Succession
 created: 2026-04-28
 tags: [cropping, agriculture, succession, soil-health, polyculture]
 date: 2026-04-25
@@ -17,7 +17,7 @@ maintaining organic material and the community in the soil.
 
 We must still strive for successional complexity and stability, because we can expect
 problems from any measures that promote a simpler successional community above or below
-ground. Civilizations that collapsed because of agricultural decline appear to have done
+ground. Civilizations that collapsed because of [[fukuoka-machine-culture-doomed-agricultural-decline-america-europe]] appear to have done
 so fastest in brittle environments, but of those studied, deteriorating watersheds
 rather than croplands did the main damage.
 
@@ -58,7 +58,7 @@ attendant protection against insects and disease.
 
 ## The Role of Animals in Cropping Systems
 
-Farmers on the complex prairie soils of North America are farming soil communities that
+Farmers on the complex prairie soils of [[psilocybin-north-america-pacific-northwest]] are farming soil communities that
 developed as a whole, which included herding ungulates and predators. Whether such
 soils can be maintained without animals in the farming system remains to be seen. There
 are serious doubts that they can.

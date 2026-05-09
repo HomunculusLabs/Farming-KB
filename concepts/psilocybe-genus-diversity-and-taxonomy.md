@@ -1,9 +1,9 @@
 ---
-title: psilocybe genus diversity and taxonomy
+title: psilocybe guzman-allen-gartz-copelandia-genus-diversity-biogeography and taxonomy
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [[mycology, taxonomy, psilocybe, diversity, classification]
+tags: [mycology, taxonomy, psilocybe, diversity, classification]
 sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
 # [[fungal-species-concept-and-taxonomy]]
@@ -16,7 +16,7 @@ neurotropic (hallucinogenic) fungi, comprising 116 of the 216 known
 - **Section Mexicanae:** Mexican species including *P. mexicana*
 - **Section Semilanceatae:** Temperate species including the [[psilocybin-north-america-pacific-northwest]] species
 - **Section Subaeruginosae:** Australian and New Zealand species
-- **Section Zapotecorum:** Species associated with the Zapotec people of
+- **[[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]]:** Species associated with the Zapotec people of
   Oaxaca, Mexico
 
 ## The Bluing Reaction
@@ -62,11 +62,11 @@ greatest diversity in Latin America, with Mexico alone harboring 44
 species (39% of the world total). Other significant centers of diversity
 include:
 
-- Southeast Asia (Thailand, Indonesia, Japan)
+- [[psilocybe-southeast-asia-pacific]] (Thailand, Indonesia, Japan)
 - South America (Colombia, Brazil, Ecuador)
 - Oceania (Australia, New Zealand)
 - Temperate Europe (particularly the British Isles)
-- Pacific Northwest of North America
+- Pacific Northwest of [[psilocybin-north-america-pacific-northwest]]
 
 ## Cosmopolitan Species
 
@@ -82,7 +82,7 @@ through human activity and natural dispersal:
 
 ## Chemical Variability
 
-Chemical analysis of *Psilocybe* species reveals significant
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of *Psilocybe* species reveals significant
 variability in psilocybin and psilocin content depending on species,
 geographic origin, growing conditions, and age of specimens. Repke et
 al. (1977a) showed variations in baeocystin content according to the age
@@ -94,3 +94,37 @@ specimens of *P. semilanceata* according to collection age, finding
 0.014%, 0.67%, and 0.84% dry weight in specimens from 1869, 1954, and
 1976 respectively. Psilocybin and psilocin appear to be volatile
 compounds that degrade over time.
+
+## See Also
+
+- psilocybe-global-biogeography-austral-hemisphere-distribution-guzman-2000
+- [[psilocybe-graecia]]
+- [[psilocybe-thailandensis]]
+- [[psilocybe-heckelii]]
+- [[psilocybe-semilanceata-transcontinental-distribution-patterns]]
+- [[psilocybe-maiorchina]]
+- [[psilocybe-genus-taxonomy-and-chemistry]]
+- [[psilocybe-cubensis-strains-names-and-marketing]]
+- [[psilocybe-cinctulus]]
+- [[psilocybe-cubensis-strain-potency-comparison-amazon-mr-equadorian]]
+- [[psilocybe-caeruleoannulata]]
+- [[psilocybe-cubensis-miniculture-technique]]
+- [[psilocybe-czechica]]
+- [[psilocybe-species-europe]]
+- [[psilocybe-moellerii]]
+- [[psilocybe-thessalonica]]
+- [[psilocybe-sclerotia-producing-species-comparison-mexicana-tampanensis]]
+- [[psilocybe-kashmeriensis]]
+- [[psilocybe-serotina]]
+- [[psilocybe-cubensis-strain-varieties-and-characteristics]]
+- psilocybe-biogeographic-hemispheric-asymmetry
+- [[psilocybe-global-biodiversity-hotspots]]
+- [[psilocybe-panaeoliformis]]
+- psilocybe-cubensis-alkaloid-distribution-cap-vs-stem
+- [[psilocybe-atarhizomatos]]
+- [[psilocybe-cubensis-cap-vs-stem-alkaloid-distribution]]
+- [[psilocybe-rugosoannulata]]
+- [[psilocybe-hermescii]]
+- [[psilocybe-subfimetaria]]
+- [[psilocybe-cubensis-street-sample-potency-variability-bigwood-beug-1982]]
+- [[psilocybe-oaxacensis]]

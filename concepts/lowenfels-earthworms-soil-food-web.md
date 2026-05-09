@@ -18,7 +18,7 @@ becomes part of the castings.
 
 ## Vermicastings: Nature's Fertilizer
 
-Vermicastings (worm castings) are 50 percent higher in organic matter than soil
+Vermicastings (worm castings) are 50 percent higher in [[hamilton-composting-and-organic-matter-management]] than soil
 that has not passed through a worm, radically changing soil composition and
 increasing [[lowenfels-bacteria-role-soil]] and
 [[lowenfels-vermicomposting-benefits]]. Each type
@@ -30,7 +30,7 @@ earthworms shun.
 
 Earthworms play a much smaller role in forest soil food webs than in gardens. An
 acre of forest soil might contain only about 50,000 worms compared to 2 to 3
-million in garden soil. In some parts of North America, forests have been
+million in garden soil. In some parts of [[psilocybin-north-america-pacific-northwest]], forests have been
 invaded by earthworms introduced by fishermen, and these have completely altered
 the forest floor habitat. The litter layer is decayed far faster than is healthy
 for trees and the rest of the soil food web. This demonstrates that earthworms,
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,3 +104,7 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[lowenfels-soil-food-web-overview]]
+- [[lowenfels-soil-macro-arthropods]]

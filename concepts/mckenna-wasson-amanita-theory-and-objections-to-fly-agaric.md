@@ -1,5 +1,5 @@
 ---
-title: Wasson's Amanita Theory and Objections to Fly Agaric as Soma
+title: Wasson's mckenna wasson amanita theory and objections to fly agaric and Objections to Fly Agaric as Soma
 created: 2026-04-28
 tags: [ethnobotany, soma, amanita, wasson, mckenna, vedic, fly-agaric, psychedelics]
 date: 2026-04-28
@@ -14,7 +14,7 @@ Gordon and Valentina Wasson, the founders of the science of
 ethnomycology (the study of human uses of and lore concerning
 mushrooms and other fungi), first suggested that the mysterious Vedic
 Soma might be a mushroom, specifically the scarlet-capped,
-white-spotted fly agaric, Amanita muscaria, an extremely ancient
+white-spotted fly agaric, [[allegro-amanita-muscaria-properties-and-pharmacology]], an extremely ancient
 shamanic intoxicant until recently used by the Tungusic tribes of
 arctic Siberia.
 
@@ -37,7 +37,7 @@ in 1957.
 In 1971 Gordon Wasson published Soma: Divine Mushroom of Immortality.
 There the case for fly agaric is presented in its most complete form.
 Wasson was brilliant in advancing the notion that a mushroom of some
-sort was implicated in the Soma mystery.
+sort was implicated in the [[mckenna-soma-mystery-and-the-vedic-enigma]].
 
 ## Why Fly Agaric Falls Short
 
@@ -53,7 +53,7 @@ fullness of their heritage.
 
 As a result of Wasson's own discoveries in Mexico, it was known that
 mushrooms other than fly agaric could contain visionary intoxicants,
-but psilocybin mushrooms were thought to be a strictly New World
+but [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] were thought to be a strictly New World
 phenomenon, since no other intoxicating mushrooms were known. Wasson
 assumed that if a mushroom were Soma, then that mushroom must be a fly
 agaric. This overemphasis of Amanita muscaria has haunted efforts to
@@ -69,7 +69,7 @@ necessarily mean it is ecstatic. Many rather unpleasant plants are used
 by shamans to intoxicate themselves and to open the "crack between the
 worlds." Among these are the Daturas (relatives of jimsonweed), the
 arborescent Brugmansias whose pendulous blossoms are familiar as
-landscaping ornamentals; bright red and black Sophora secundiflora
+landscaping ornamentals; bright red and black [[mescal-bean-sophora-secundiflora-vision-dance]]
 seeds, Brunfelsias, and Virola-based snuffs made of powdered tree
 resin. In spite of their shamanic usage, these plants do not induce an
 ecstatic experience that could inspire the rapturous praise heaped on
@@ -116,6 +116,9 @@ could not possibly have been caused by Amanita muscaria.
 
 ## See Also
 
+- [[fly-agaric-in-victorian-literature-and-art]]
+- [[fly-agaric-isoxazole-chemistry-and-variability]]
+
 - [[mckenna-vedic-soma-indo-european-mysteries]] - Indo-European context
 - [[amanita-muscaria-chemistry-and-pharmacology]] - chemistry of fly agaric
-- [[amanita-muscaria-cultural-history]] - cultural history of Amanita use
+- [[amanita-muscaria-cultural-history]] - [[shroom-cultural-history-hippie-revolution-and-counterculture]] of Amanita use

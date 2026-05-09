@@ -1,10 +1,11 @@
 ---
-title: Flowers and Beauty in European Civilization
+title: Flowers and Beauty in fukuoka-european-civilization-standstill
 created: 2026-04-28
 tags: [beauty, flowers, europe, nature, aesthetics]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 

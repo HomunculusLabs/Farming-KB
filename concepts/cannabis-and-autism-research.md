@@ -10,7 +10,7 @@ sources:
 
 # Cannabis and Autism Research
 
-**Source:** Uwe Blesching, The Cannabis Health Index (2017)
+**Source:** Uwe Blesching, The [[blesching-cannabis-health-index-autoimmune-conditions]] (2017)
 
 **Last Updated:** 2026-04-18
 
@@ -22,7 +22,7 @@ Autism is a neurodevelopmental spectrum disorder. Prevalence has grown exponenti
 
 **Symptoms:** impaired social interaction, language difficulty, reduced emotional/behavioral responses, difficulty with eye contact, repetitive/ritualistic behaviors.
 
-**Possible causes (hypothesized):** genetic, biochemical, food components (gluten, casein, vitamin D), antibiotics/oxytocin during birth, compromised immune system, vaccinations, neuro-inflammation, autoimmune conditions, neurotransmitter imbalances, toxins (lead, mercury, pesticides), mold/viral load, electromagnetic pollution.
+**Possible causes (hypothesized):** genetic, biochemical, food components (gluten, casein, vitamin D), antibiotics/oxytocin during birth, compromised immune system, vaccinations, neuro-inflammation, [[cannabis-autoimmune-conditions-detailed]], neurotransmitter imbalances, toxins (lead, mercury, pesticides), mold/viral load, electromagnetic pollution.
 
 **Standard treatment:** Applied Behavioral Analysis (ABA) -- 40 hours/week, cost-prohibitive. Pharmaceutical drugs (Ritalin etc.) with reported deaths in hundreds. Annual cost: $35 billion in direct/indirect costs.
 
@@ -32,14 +32,14 @@ Autism is a neurodevelopmental spectrum disorder. Prevalence has grown exponenti
 
 - **Sensory calibration hypothesis:** Autistic individuals process sensory information differently. Cannabis overdose produces similar sensory disconnect (eye/ear desynchronization). Dose-specific cannabinoids may calibrate connectivity between sensory input, perception, meaning, and response.
 
-- **Anecdotal positive results:** physicians, pediatricians, caretakers report significant effects from appropriate doses of cannabis or pharmaceutical cannabinoids:
+- **Anecdotal positive results:** physicians, pediatricians, caretakers report significant effects from appropriate doses of cannabis or [[cannabis-pharmaceutical-cannabinoids-synthetic-research]]:
   - Reductions in tantrums, rage, self-injury, property destruction
   - Improved happiness, increased ability to learn, flexibility in norms
   - Effective even where pharmaceuticals had proven ineffective or destructive
 
 - **ECS involvement:** Endocannabinoid system is known to be involved in mood regulation
 
-**Caution:** Cannabis can have adverse effects outside therapeutic dosage, especially for children. Work with qualified health professionals experienced in cannabis therapeutics.
+**Caution:** Cannabis can have [[blesching-cannabis-safety-adverse-effects-evidence]] outside therapeutic dosage, especially for children. Work with qualified health professionals experienced in cannabis therapeutics.
 
 ## Savant Connection
 
@@ -55,9 +55,9 @@ CBD's potential benefits for autism may involve several mechanisms: reducing neu
 
 Pediatric cannabinoid use requires heightened safety awareness. Many autistic children take multiple medications (stimulants, antipsychotics, SSRIs, anticonvulsants), and CBD may interact with all of these through CYP450 enzyme inhibition. Risperidone and aripiprazole levels may be particularly affected.
 
-CBD's effects on brain development are not fully understood. While no significant developmental delays have been reported in clinical trials to date, the long-term effects of chronic cannabinoid exposure on the developing brain remain unknown. The endocannabinoid system plays a crucial role in neurodevelopment, and exogenous cannabinoids could theoretically alter maturational trajectories.
+CBD's effects on brain development are not fully understood. While no significant developmental delays have been reported in [[mushroom-cancer-clinical-trials-overview]] to date, the long-term effects of chronic cannabinoid exposure on the developing brain remain unknown. The endocannabinoid system plays a crucial role in neurodevelopment, and exogenous cannabinoids could theoretically alter maturational trajectories.
 
-THC is generally contraindicated in autistic children due to its psychoactive effects, potential to increase anxiety, and unknown effects on brain development. The narrow therapeutic window between potentially beneficial and clearly harmful THC doses makes dosing extremely difficult in this population.
+THC is generally contraindicated in autistic children due to its psychoactive effects, potential to increase anxiety, and unknown effects on brain development. The narrow [[blesching-cannabis-therapeutic-window-dosing]] between potentially beneficial and clearly harmful THC doses makes dosing extremely difficult in this population.
 
 CBD is generally well-tolerated in children, with the most common side effects being drowsiness, changes in appetite, and gastrointestinal symptoms. Liver enzyme elevations have been reported at high doses, particularly when combined with valproate. Regular liver function monitoring is recommended. See [[cannabis-for-mental-health]]
 - [[cannabis-immune-modulation]]

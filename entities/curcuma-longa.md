@@ -11,13 +11,13 @@ sources:
 
 Curcuma longa, commonly known as turmeric, is a perennial herbaceous
 plant in the family Zingiberaceae. Native to the Indian subcontinent
-and Southeast Asia, it has been cultivated for over 4,000 years for its
+and [[psilocybe-southeast-asia-pacific]], it has been cultivated for over 4,000 years for its
 rhizomes, which are the source of the bright yellow-orange spice
 turmeric. The species is the most commercially important member of the
 Curcuma genus and is valued both as a culinary spice and as a medicinal
 plant with a substantial body of modern pharmacological research
 supporting its anti-inflammatory, antioxidant, and anticancer
-properties. The primary bioactive compounds are curcuminoids, with
+properties. The primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] are curcuminoids, with
 curcumin being the most studied.
 
 ## Taxonomy and Naming
@@ -51,14 +51,14 @@ central "mother" rhizome with lateral "fingers."
 ### Growth Habit
 Curcuma longa is a rhizomatous herbaceous perennial growing to 0.6-1.0 m
 tall. It produces annual leaf shoots from the underground rhizome
-system each growing season. The plant dies back to the rhizome during
+system each [[savory-growing-season-and-non-growing-season-management]]. The plant dies back to the rhizome during
 dry or cool periods. Under cultivation, the crop cycle is typically
 7-10 months from planting to harvest.
 
 ### Leaves
 Leaves are large, elliptic to lanceolate, 30-60 cm long and 8-20 cm
 wide, arranged alternately along a pseudostem formed by overlapping leaf
-sheaths. The leaf surface is dark green above and lighter green below,
+sheaths. The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dark green above and lighter green below,
 with a distinct midrib. Leaf margins are entire. The leaves have a
 subtle aromatic fragrance when crushed.
 
@@ -92,7 +92,7 @@ pungent taste. Fresh rhizomes contain 70-80% moisture.
 Total curcuminoid content in dried turmeric rhizome typically ranges
 from 2-9%, with commercial turmeric powder averaging 3-5%. The
 curcuminoid content varies significantly with cultivar, growing
-conditions, harvest timing, and processing methods.
+conditions, [[cannabis-harvest-timing-visual-cues]], and processing methods.
 
 ### Essential Oil
 The essential oil (2-7% of dry weight) contains:
@@ -120,7 +120,7 @@ curcumin and turmeric extracts:
 ### Anti-inflammatory
 Curcumin inhibits NF-kB, COX-2, LOX, and TNF-alpha signaling pathways.
 It reduces prostaglandin E2 production and downregulates inflammatory
-cytokines (IL-1, IL-6, IL-8). Clinical trials demonstrate efficacy in
+cytokines (IL-1, IL-6, IL-8). [[mushroom-cancer-clinical-trials-overview]] demonstrate efficacy in
 osteoarthritis and rheumatoid arthritis at doses of 500-1500 mg/day,
 comparable to ibuprofen in some studies but with fewer gastrointestinal
 side effects.
@@ -136,6 +136,10 @@ are primarily responsible for radical-scavenging activity.
 Extensive preclinical data demonstrates curcumin's anticancer activity
 against multiple cell lines. Mechanisms include:
 ## See Also
+
+- [[bixa-orellana]]
+- [[haematoxylum-campechianum]]
+- [[pfaffia-glomerata]]
 
 - [[curcuma-amarissima]]
 

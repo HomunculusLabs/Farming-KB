@@ -1,5 +1,5 @@
 ---
-title: LSD Cosmic Consciousness - Turner's Essential Psychedelics Guide
+title: turner essential psychedelics lsd cosmic consciousness Consciousness - Turner's turner-essential-psychedelics-5-meo-dmt-void-experience Guide
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -28,7 +28,7 @@ lifestyles.
 ## Dosage Range
 
 - 100 mcg: minimum psychedelic dose, low-level experience without hallucinations
-- 200 mcg: minimum for full psychedelic experience with visuals and
+- 200 mcg: minimum for full [[leary-psychedelic-experience-bardo-mapping]] with visuals and
   hallucinations
 - 500 mcg: Turner's typical dose
 - 1000+ mcg: his estimated large doses
@@ -86,10 +86,10 @@ The Psychedelic Experience (Leary, Alpert, Metzner).
 
 ## Combinations
 
-- **Harmala alkaloids**: Infuse the trip with a mystical, ancient quality;
+- **[[turner-harmala-alkaloids-preparation-and-dosage]]**: Infuse the trip with a mystical, ancient quality;
   feels like contact with the invisible world of Spirits rather than interfacing
   with one's own mind.
-- **N,N-DMT**: The DMT experience overwhelms the acid during its short
+- **N,N-DMT**: The [[mckenna-dmt-experience-and-hyperspace]] overwhelms the acid during its short
   duration, but the acid puts one on a higher platform for launching into DMT.
 - **Nitrous oxide**: Works well with every psychedelic; can put an additional
   peak in the peak or break up a state of mind for a focus shift.

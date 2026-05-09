@@ -1,9 +1,9 @@
 ---
-title: Diatomaceous Earth - Cannabis Pest Control
+title: comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis - query-how-to-use-neem-oil-for-cannabis-pest-control Control
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -11,7 +11,7 @@ tags: [cannabis]
 
 # Diatomaceous Earth (DE) for Cannabis
 
-Diatomaceous earth is a naturally occurring, non-toxic insecticide and soil amendment used in cannabis cultivation for pest control and mineral supplementation. It provides mechanical rather than chemical pest control, making it a popular choice for organic growers.
+Diatomaceous earth is a naturally occurring, non-toxic insecticide and soil amendment used in [[query-how-does-no-till-cannabis-cultivation-work]] for pest control and mineral supplementation. It provides mechanical rather than chemical pest control, making it a popular choice for organic growers.
 
 ## What is Diatomaceous Earth?
 
@@ -42,7 +42,7 @@ Mix DE into the soil during cultivation or potting. This provides long-lasting p
 
 - [[aphids-cannabis]] -- waxy coating abraded, causing dehydration
 - [[fungus-gnats-cannabis]] -- larvae in soil, adults crossing treated surfaces
-- Slugs and snails -- see [[holzer-slug-snail-management]]
+- [[query-how-to-get-rid-of-slugs-and-snails-organically]] -- see holzer-slug-snail-management
 - Ants, beetles, and other crawling insects
 - Thrips (ground-dwelling stages) -- see [[beneficial-insects-cannabis]]
 
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

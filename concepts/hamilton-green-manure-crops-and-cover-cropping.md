@@ -1,5 +1,5 @@
 ---
-title: Green Manure Crops and Cover Cropping
+title: Green green-manure-crops-detailed and fukuoka-clover-cover-cropping-soil-ecology
 created: 2026-04-28
 tags:
   - organic-gardening
@@ -16,9 +16,9 @@ type: concept
 
 # Green Manure Crops and Cover Cropping
 
-Green manure is a crop grown specifically to add organic matter to beds
+Green manure is a crop grown specifically to add [[hamilton-composting-and-organic-matter-management]] to beds
 that are empty for a period of time. It is sown with the intention of
-digging it into the soil to provide organic matter and plant food. While
+digging it into the soil to provide [[savory-soil-organic-matter-and-decomposition-dynamics]] plant food. While
 perhaps of more value to the large-scale farmer than the home gardener,
 there are situations when a green-manure crop is useful even in the
 small garden.
@@ -50,7 +50,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -100,7 +100,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -110,4 +110,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

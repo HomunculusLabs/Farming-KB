@@ -16,7 +16,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Leafly. 'Pineapple Express Cannabis Strain Information.' Leafly, https://www.leafly.com/strains/pineapple-express"
+  - "Leafly. 'Pineapple Express blesching-cannabis-strain-selection-receptor-targeting Information.' Leafly, https://www.leafly.com/strains/pineapple-express"
   - "Wikileaf. 'Pineapple Express Strain Review.' Wikileaf, https://www.wikileaf.com/strain/pineapple-express"
   - "AllBud. 'Pineapple Express Marijuana Strain Information.' AllBud, https://www.allbud.com/marijuana-strains/hybrid/pineapple-express"
   - "Eichler, M. et al. (2022). 'Phytocannabinoid Profiling of Popular Cannabis Strains.' Cannabis and Cannabinoid Research."
@@ -27,7 +27,7 @@ sources:
 
 ## Overview
 
-Pineapple Express is a sativa-dominant hybrid cannabis strain renowned for its tropical fruit aroma, uplifting cerebral effects, and widespread cultural recognition — amplified enormously by the 2008 Judd Apatow/Seth Rogen film of the same name. Despite the Hollywood association, Pineapple Express is a legitimate and well-regarded cultivar with a loyal following among both recreational and medical users. It delivers an energizing, creative high suitable for daytime use, with a distinctive tropical flavor profile that makes it one of the most instantly recognizable strains in cannabis culture.
+Pineapple Express is a sativa-dominant hybrid cannabis strain renowned for its tropical fruit aroma, uplifting cerebral effects, and widespread cultural recognition — amplified enormously by the 2008 Judd Apatow/Seth Rogen film of the same name. Despite the Hollywood association, Pineapple Express is a legitimate and well-regarded cultivar with a loyal following among both recreational and medical users. It delivers an energizing, creative high suitable for daytime use, with a distinctive tropical flavor profile that makes it one of the most instantly recognizable strains in [[mckenna-cannabis-culture-history]].
 
 ## Lineage and Genetics
 
@@ -36,7 +36,7 @@ Pineapple Express is the result of crossing two distinctly Hawaiian-influenced s
 - **Trainwreck:** A legendary sativa-dominant hybrid with Mexican and Thai landrace ancestry, known for its potent, fast-acting cerebral high and complex earthy, pine, and citrus aromas. Trainwreck is itself a cross of Mexican sativa, Thai sativa, and Afghani indica genetics, producing a balanced yet cerebral experience. See [[trainwreck]] — Parent strain with cerebral potency
 - [[cannabis-indoor-growing-basics]] — Pure sativa with energizing effects
 - [[cannabis-blue-dream]] — Balanced hybrid with similar broad appeal
-- [[endocannabinoid-system]]
+- [[cannabis-health-endo-cannabinoid-system]]
 ## Practical Applications
 
 Pineapple Express has a range of practical applications that make it relevant to
@@ -114,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

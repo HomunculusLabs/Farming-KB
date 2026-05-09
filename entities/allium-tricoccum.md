@@ -14,16 +14,16 @@ sources:
   - Rock, C.K. (1998). "Ecology and Reproductive Biology of Allium tricoccum Ait." M.S. Thesis, University of Tennessee.
   - Pritts, M.P. & Wargo, J.M. (2002). "Ramp (Allium tricoccum) Riches: A Native Edible Plant at Risk." HortTechnology, 12(3), 440–442.
   - NatureServe (2023). "Allium tricoccum — Element Conservation Status Report." natureserve.org.
-  - Burkhart, E.P. & Jacobson, M.G. (2006). "Forest Farming of Ramps (Allium tricoccum)." In: Proceedings of the North American Agroforestry Conference.
+  - Burkhart, E.P. & Jacobson, M.G. (2006). "Forest Farming of Ramps (Allium tricoccum)." In: Proceedings of the [[growing-gourmet-north-american-reishi-species]] Agroforestry Conference.
 ---
 
 ## Overview
 
-**Allium tricoccum**, commonly known as ramps, wild leeks, or wild garlic, is a perennial bulbous plant native to the deciduous forests of eastern North America.
+**Allium tricoccum**, commonly known as ramps, wild leeks, or wild garlic, is a perennial bulbous plant native to the deciduous forests of [[polypore-fungi-eastern-north-america]] America.
 
 It is one of the earliest spring ephemerals, emerging in dense colonies on forest floors before the canopy closes. The species has been a culturally significant food for Indigenous peoples for millennia.
 
-Ramps remain a prized seasonal ingredient in Appalachian and regional cuisines. Their pungent garlic-onion flavor has inspired numerous festivals and culinary traditions across the eastern United States.
+Ramps remain a prized seasonal ingredient in Appalachian and regional cuisines. Their pungent garlic-onion flavor has inspired numerous festivals and culinary traditions across the eastern [[dmt-containing-plants-united-states-halpern]].
 
 ## Taxonomy and Morphology
 
@@ -54,14 +54,14 @@ The species is most abundant in the southern and central Appalachians, where lar
 Ramps grow in rich, moist, well-drained soils of deciduous forests, typically at elevations of 200–1500 m.
 They are most commonly associated with maple-beech-hemlock or mixed mesophytic forest types.
 Optimal habitat includes north-facing slopes, stream valleys, and areas with deep leaf litter.
-Ramps require high soil organic matter (5–15%) and a pH of 5.5–7.0 for optimal growth.
+Ramps require high soil [[hamilton-composting-and-organic-matter-management]] (5–15%) and a pH of 5.5–7.0 for optimal growth.
 
 ## Edibility and Culinary Use
 
 All parts of the plant are edible: the bulb, leaves, and scape.
 The flavor is a distinctive blend of garlic and onion, more pungent than most cultivated alliums.
 
-Traditional preparation includes sautéing bulbs and leaves with bacon or potatoes, pickling the bulbs, and using green tops raw in salads.
+[[kava-traditional-preparation-ceremonial-context]] includes sautéing bulbs and leaves with bacon or potatoes, pickling the bulbs, and using green tops raw in salads.
 
 Ramps are a defining ingredient in Appalachian spring cooking, with annual ramp festivals held in West Virginia, Tennessee, North Carolina, and Virginia.
 
@@ -94,7 +94,7 @@ Commercial diggers often harvest entire patches, far exceeding sustainable level
 
 Forest farming of ramps is increasingly promoted as a sustainable alternative to wild harvest.
 
-Cultivation involves transplanting bulbs into suitable forest sites or direct seeding.
+Cultivation involves transplanting bulbs into suitable forest sites or [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]].
 
 Harvests are possible after 3–7 years from seed, making it a long-term investment.
 
@@ -112,4 +112,4 @@ Seeds require a warm-cold stratification cycle and may take 6–18 months to ger
 - [[allium-schoenoprasum]]
 - [[echinacea-purpurea]]
 - [[podophyllum-peltatum]]
-- [[actaea-racemosa]]
+- actaea-racemosa

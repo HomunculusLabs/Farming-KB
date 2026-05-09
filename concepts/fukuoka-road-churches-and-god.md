@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [religion, europe, churches, civilization, philosophy]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
@@ -33,7 +34,7 @@ But when one stands before the solemn statue of a great
 king astride a horse, or before a sculpture by
 Michelangelo, one recoils before the force and power of
 these. This is because it is plainly evident that all
-European culture was created by man.
+[[fukuoka-road-european-culture-of-food]] was created by man.
 
 ## The Struggle Between God and Man
 

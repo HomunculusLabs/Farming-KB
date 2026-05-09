@@ -1,10 +1,11 @@
 ---
-title: Bee Products Beyond Honey
+title: Bee bee products beyond honey Honey
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [food, homesteading, off-grid, medicine, health, processing, homestead-crafts]
-sources: []
+sources:
+  sources: []
 ---
 
 ## Overview
@@ -29,7 +30,7 @@ Store in cool, dark place; shelf life is essentially indefinite.
 
 ## Propolis
 
-Propolis is a resinous substance bees collect from tree buds to seal hive gaps and maintain hygiene. Composition: 50% resin, 30% wax, 10% essential oils, 5% pollen. Its antimicrobial properties make it valuable for health applications.
+Propolis is a resinous substance bees collect from tree buds to seal hive gaps and maintain hygiene. Composition: 50% resin, 30% wax, 10% essential oils, 5% pollen. Its [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] make it valuable for health applications.
 
 ### Harvesting and Processing
 
@@ -105,8 +106,8 @@ Bee venom contains approximately 18 pharmacologically active compounds:
 
 - Arthritis and joint pain — most widely studied; melittin shows anti-inflammatory effects
 - Multiple sclerosis — mixed clinical evidence
-- Chronic pain — melittin and adolapin have analgesic properties
-- Immune modulation and skin conditions — ongoing research
+- [[cannabis-chronic-pain-management]] — melittin and adolapin have analgesic properties
+- [[cancer-immune-modulation-mechanisms]] and skin conditions — ongoing research
 
 ### Safety and Risks
 
@@ -130,4 +131,8 @@ Value-added processing multiplies raw product value: beeswax candles (3-5x), pro
 
 ## Related Topics
 
-Bee products connect to broader homestead production. Beeswax processing is part of [[soap-making-guide]]. Honey production and hive management tie into [[goat-husbandry]] and [[fungal-ecology]]. The medicinal properties of propolis and bee venom overlap with [[herbal-medicine]] and [[mycotoxins-and-human-health]] topics. Pollen collection relates to [[hay-and-forage-management]] and [[food-forest-design]] planting for bee nutrition.
+Bee products connect to broader homestead production. Beeswax processing is part of [[soap-making-guide]]. [[mollison-designers-beekeeping-honey-production-permaculture]] and hive management tie into [[goat-husbandry]] and [[fungal-ecology]]. The medicinal properties of propolis and bee venom overlap with [[herbal-medicine]] and [[mycotoxins-and-human-health]] topics. [[cannabis-pollen-collection-storage-clarke]] relates to [[hay-and-forage-management]] and [[food-forest-design]] planting for bee nutrition.
+
+## See Also
+
+- [[beeswax-candle-making]]

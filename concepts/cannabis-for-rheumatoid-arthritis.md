@@ -48,14 +48,14 @@ A University of Massachusetts Medical School meta-analysis (2004-2009) concluded
 | Agent | Study Type | Key Results | CHI |
 |-------|-----------|-------------|-----|
 | All cannabinoid types | Meta-analysis (2009, U. Massachusetts) | Effective in reducing RA pain | 4 |
-| Novel cannabinoids | Laboratory (2006, Northeastern U., Boston) | Potential for inflammation reduction via immune modulation | 1 |
-| Sativex (sublingual) | RCT, 58 patients (2006, multi-institutional) | Significant analgesic effect, disease suppression, improved sleep | 5 |
+| Novel cannabinoids | Laboratory (2006, Northeastern U., Boston) | Potential for inflammation reduction via [[cancer-immune-modulation-mechanisms]] | 1 |
+| Sativex (sublingual) | RCT, 58 patients (2006, multi-institutional) | Significant analgesic effect, [[aact-disease-suppression-mechanisms-ingham]], improved sleep | 5 |
 
 Combined CHI Value: 10
 
 ## Strain-Specific Considerations
 
-Sativex consists of roughly equal parts THC (2.7 mg) and CBD (2.5 mg) -- ratios very similar to actual Cannabis sativa. Sativa and sativa-prominent hybrids contain relatively higher THC:CBD ratios, activating both CB1 and CB2 receptors. The anti-inflammatory effects are primarily mediated through CB2 receptors on immune cells, suggesting that strains with balanced THC:CBD profiles may be optimal.
+Sativex consists of roughly equal parts THC (2.7 mg) and CBD (2.5 mg) -- ratios very similar to actual [[comparison-cannabis-sativa-vs-cannabis-indica]]. Sativa and sativa-prominent hybrids contain relatively higher THC:CBD ratios, activating both CB1 and CB2 receptors. The anti-inflammatory effects are primarily mediated through CB2 receptors on immune cells, suggesting that strains with balanced THC:CBD profiles may be optimal.
 
 ## Mind-Body Medicine and Rheumatoid Arthritis
 
@@ -72,7 +72,7 @@ Aggravating factors: poor communication of hurt feelings, suppressed anger, depe
 
 ## Supporting Herbs
 
-(E)-beta-caryophyllene activates CB2 receptors for anti-inflammatory action. Found in black pepper, rosemary, basil, clove, cinnamon, oregano. Traditional anti-arthritis herbs include turmeric (curcumin), ginger, boswellia, and willow bark.
+(E)-beta-caryophyllene activates CB2 receptors for anti-inflammatory action. Found in [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], rosemary, basil, clove, cinnamon, oregano. Traditional anti-arthritis herbs include turmeric (curcumin), ginger, boswellia, and willow bark.
 
 ## See Also
 
@@ -87,4 +87,4 @@ the therapeutic potential explored throughout related entries in the wiki.
 
 ## Source
 
-Blesching, U. (2015). *The Cannabis Health Index*. Chapter IV: "Rheumatoid Arthritis." North Atlantic Books.
+Blesching, U. (2015). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. Chapter IV: "Rheumatoid Arthritis." North Atlantic Books.

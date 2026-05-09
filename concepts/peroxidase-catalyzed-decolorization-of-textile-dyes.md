@@ -1,5 +1,5 @@
 ---
-title: Peroxidase-Catalyzed Decolorization of Textile Dyes
+title: Peroxidase-Catalyzed peroxidase catalyzed decolorization of textile dyes Dyes
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Peroxidase-Catalyzed Decolorization of Textile Dyes
 
-The extracellular lignin-degrading enzymes of white-rot fungi -- primarily lignin peroxidase (LiP) and manganese peroxidase (MnP) -- are powerful agents for decolorizing textile dyes. These peroxidases catalyze one-electron oxidation reactions using H2O2 as oxidant, attacking the aromatic chromophores that give dyes their color. Many authors consider the peroxidases to be of prime importance in decolorization of dyes, although laccases have also been shown to catalyze certain decolorizations.
+The extracellular lignin-degrading enzymes of white-rot fungi -- primarily lignin peroxidase (LiP) and [[fungal-manganese-peroxidase-remediation]] (MnP) -- are powerful agents for decolorizing textile dyes. These peroxidases catalyze one-electron oxidation reactions using H2O2 as oxidant, attacking the aromatic chromophores that give dyes their color. Many authors consider the peroxidases to be of prime importance in decolorization of dyes, although laccases have also been shown to catalyze certain decolorizations.
 
 ## Dye Classification and Chromophore Types
 
@@ -19,7 +19,7 @@ The main application classes are reactive, direct, vat, sulfur, disperse, basic,
 
 ## Lignin Peroxidase (LiP) in Dye Decolorization
 
-LiP isozymes from Phanerochaete chrysosporium have demonstrated broad-spectrum dye decolorization. Key performance data:
+LiP isozymes from [[staycare-phanerochaete-chrysosporium-in-bioremediation]] have demonstrated broad-spectrum dye decolorization. Key performance data:
 
 - Azure B: 84% color removal in 20 minutes by crude LiP
 
@@ -45,7 +45,7 @@ The substrate radical then undergoes spontaneous reactions leading to dye degrad
 
 MnP isozymes from Bjerkandera adusta and Pleurotus eryngii decolorize azo dyes and phthalocyanine complexes through Mn(II)-independent reactions. Oxidation of Reactive Blue 15 accounted for 60% of sulfophthalimides by purified MnP from B. adusta, with a proposed oxidative fission mechanism.
 
-MnP from P. chrysosporium was responsible for effective Orange II and Poly R-478 decolorization. Decolorization depends not only on MnP activity but also on cofactors: hydrogen peroxide plays a major role, and veratryl alcohol enhances dye oxidation rates.
+MnP from P. chrysosporium was responsible for effective Orange II and Poly R-478 decolorization. Decolorization depends not only on MnP activity but also on cofactors: [[cervantes-hydrogen-peroxide-sterilization]] plays a major role, and veratryl alcohol enhances dye oxidation rates.
 
 However, Mn(II) can also inhibit decolorization depending on both the dye and the organism. Buckley & Dobson (1998) showed that Mn(II) promoted degradation of Poly R-478 but inhibited degradation of Poly S-119 by Chrysosporium lignorum, attributed to inhibition of LiP production by Mn(II). The presence and concentration of Mn(II) is important and can stimulate decolorization, but the effect is dye-dependent.
 
@@ -53,7 +53,7 @@ Champagne and Ramsay (2005) investigated dye decolorization by whole cultures of
 
 ## Laccase-Mediator Systems
 
-Laccase from Trametes versicolor decolorized Remazol Brilliant Blue R (RBBR) both with and without veratryl alcohol. VA stabilized and improved the rate of RBBR decolorization. Laccase from Pycnoporus cinnabarinus has been developed for decolorization of a range of industrial dyes.
+Laccase from [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] decolorized Remazol Brilliant Blue R (RBBR) both with and without veratryl alcohol. VA stabilized and improved the rate of RBBR decolorization. Laccase from Pycnoporus cinnabarinus has been developed for decolorization of a range of industrial dyes.
 
 McCarthy et al. (1999) developed optimal conditions for laccase from P. cinnabarinus, noting that pH optima varied depending on the substrate being converted. The laccase of P. cinnabarinus has different optima for guaiacol, syringaldizine, and the artificial laccase substrate ABTS.
 
@@ -73,7 +73,7 @@ New chromophores can arise through spontaneous or enzyme-catalyzed coupling of d
 
 - Different enzyme systems may attack one type of dye molecule but fail against others
 
-- A 1:10 dye-to-H2O2 ratio showed nearly 80% Methylene Blue decolorization, suggesting wastewater treatment applicability
+- A 1:10 dye-to-H2O2 ratio showed nearly 80% Methylene Blue decolorization, suggesting [[mollison-designers-wastewater-treatment-wetlands]] applicability
 
 - Decolorization is often preceded by rapid adsorption of dyes onto fungal mycelium, followed by slower degradative decolorization
 
@@ -91,4 +91,4 @@ Compared to [[mycoremediation-of-textile-dyes]]
 
 - [[white-rot-fungi-bioremediation]]
 - [[fungal-treatment-of-textile-dyes-mechanisms]]
-- [[lignin-degradation-mechanisms-wood-rot-fungi]]
+- lignin-degradation-mechanisms-wood-rot-fungi

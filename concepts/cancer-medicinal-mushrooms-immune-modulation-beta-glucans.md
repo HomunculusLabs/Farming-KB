@@ -1,5 +1,5 @@
 ---
-title: "Immune Modulation by Beta-Glucans from Medicinal Mushrooms"
+title: "cancer-immune-modulation-mechanisms by Beta-Glucans from comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -14,7 +14,7 @@ tags: [medicine, mushroom-cultivation, mushrooms]
 
 Beta-glucans are the primary bioactive polysaccharides responsible for the
 immunomodulatory and antitumour properties of medicinal mushrooms. These
-compounds are biological response modifiers (BRMs) that activate or augment
+compounds are [[medicinal-mushrooms-biological-response-modifiers]] modifiers (BRMs) that activate or augment
 the host immune system rather than exerting direct cytotoxicity against cancer
 cells, though some evidence suggests direct cytotoxic effects for certain
 mushroom polysaccharides as well. Mushroom-derived polysaccharides are
@@ -52,9 +52,9 @@ in Japan and China but now also in the US:
 
   - Lentinan from Lentinus edodes (Shiitake) -- approved drug in Japan
   - Schizophyllan from Schizophyllum commune -- approved drug in Japan
-  - PSK (Krestin) from Trametes versicolor mycelium -- approved drug in Japan
+  - PSK (Krestin) from [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] mycelium -- approved drug in Japan
   - PSP from Trametes versicolor mycelium -- recognised drug in China
-  - Grifron-D from Grifola frondosa (Maitake) -- FDA IND approved
+  - Grifron-D from [[maitake-grifola-frondosa-comprehensive-profile]] (Maitake) -- FDA IND approved
 
 All are effective by intravenous route; several can also be effective orally.
 In many cases there have been significant improvements in quality of life
@@ -113,7 +113,7 @@ were observed. Administration during pregnancy and lactation showed no adverse
 effects. In Phase I human clinical tests, beta-glucans demonstrated remarkably
 few adverse reactions. Several purified mushroom polysaccharides have been in
 clinical use in Japan, China, and the US for years with no reports of
-significant short-term or long-term adverse effects.
+significant short-term or long-term [[blesching-cannabis-safety-adverse-effects-evidence]].
 
 ## Key Source
 
@@ -122,7 +122,7 @@ properties and current medical usage with special emphasis on cancer
 treatments. University of Strathclyde.
 - [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]
 - [[grifron-d-maitake-beta-glucan]]
-- [[fungal-carbon-storage-mycorrhizal-pathways]]
+- fungal-carbon-storage-mycorrhizal-pathways
 - [[schizophyllum-commune-schizophyllan-cancer]]
 
 ## See Also

@@ -43,7 +43,7 @@ Super Silver Haze is a legendary sativa-dominant hybrid bred in the mid-1990s by
 - **Duration:** 2–4 hours (long-lasting for a sativa-dominant strain)
 - **Primary effects:** Intense euphoria, creative energy, sociability, focused motivation, mood elevation
 - **Body effects:** Gentle body relaxation without sedation; physical energy maintained; mild tremor at higher doses
-- **Medical applications:** Chronic fatigue, depression, stress, PTSD, ADHD, migraines, mild pain management, nausea
+- **Medical applications:** [[cannabis-chronic-fatigue-research]], depression, stress, PTSD, ADHD, migraines, mild pain management, nausea
 - **Side effects:** Dry mouth, dry eyes, paranoia at high doses (>0.5g joint for sensitive users), anxiety in predisposed individuals, mild tachycardia, dizziness in novice users
 - **Psychoactive profile:** Clear-headed, non-drowsy stimulation in the Haze tradition; less racy/anxious than pure Haze due to Northern Lights and Skunk stabilization
 - **Tolerance curve:** Moderate; regular users report 2–3 week tolerance buildup requiring brief tolerance breaks
@@ -57,14 +57,14 @@ Super Silver Haze is a legendary sativa-dominant hybrid bred in the mid-1990s by
 - **Difficulty:** Moderate to advanced; stretch requires early training and height management
 - **Climate:** Prefers warm, Mediterranean or subtropical; moderate humidity (45–55% RH in flowering); susceptible to bud rot in high humidity
 - **Resistance:** Moderate pest resistance; good mold resistance in controlled environments; powdery mildew risk in humid conditions
-- **Nutrient needs:** Moderate to heavy feeder; responds well to phosphorus and potassium boost in weeks 5–8; watch for nitrogen toxicity in vegetative phase
+- **Nutrient needs:** Moderate to heavy feeder; responds well to phosphorus and potassium boost in weeks 5–8; watch for [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] in vegetative phase
 - **Training:** SCROG (screen of green) highly recommended; LST (low-stress training) effective; topping at 4th–5th node promotes lateral branching
 - **Clone performance:** Clones root readily in 7–10 days; mother plants maintain vigor for 3–6 months before re-vegging needed
 - **Resin production:** Very high; trichomes turn from clear to milky at 8–9 weeks; amber at 10+ weeks for more sedative effect
 - **Vegetative time:** Recommended 3–4 weeks from seed; 2–3 weeks from clone before flip
 - **Pot size:** Minimum 15L for indoor; 50–100L+ for outdoor full-season plants
 - **Light requirements:** 600W HPS or equivalent LED minimum per m²; responds well to CO₂ supplementation at 800–1200 ppm
-- **Common issues:** Stretch in weeks 1–3 of flowering (up to 2–3× height increase); nutrient lockout from pH drift in hydro; calcium/magnesium deficiency common in late flowering
+- **Common issues:** Stretch in weeks 1–3 of flowering (up to 2–3× height increase); [[cannabis-nutrient-lockout-and-ph]] from pH drift in hydro; calcium/[[query-how-to-fix-magnesium-deficiency-in-cannabis]] common in late flowering
 
 ## Terpene Profile
 
@@ -88,7 +88,7 @@ Super Silver Haze is a legendary sativa-dominant hybrid bred in the mid-1990s by
 
 ## Cultural Significance
 - Three-time consecutive High Times Cannabis Cup champion (1997, 1998, 1999) — unprecedented in Cup history at the time; only a handful of strains have achieved back-to-back wins
-- Instrumental in establishing the Amsterdam "coffee shop era" genetics that defined 1990s–2000s cannabis culture globally
+- Instrumental in establishing the Amsterdam "coffee shop era" genetics that defined 1990s–2000s [[mckenna-cannabis-culture-history]] globally
 - Green House Seed Company's most commercially successful strain; helped establish the seed bank's international reputation as a premier breeding operation
 - Shantibaba (Arjan Roskam's breeding partner) left Green House in 1999 and later founded Mr. Nice Seed Bank, taking the original SSH mother plants with him — sold as "SSH" through Mr. Nice Seed Bank; the Green House version was subsequently bred from different selections, creating divergent phenotypic lines
 - The strain name derives from the silvery sheen of its trichome-dense buds, visible even to the naked eye at harvest
@@ -99,7 +99,7 @@ Super Silver Haze is a legendary sativa-dominant hybrid bred in the mid-1990s by
 
 ## Legal Status
 
-Follows jurisdiction-specific cannabis regulations. Classified as a controlled substance in jurisdictions where cannabis cultivation is prohibited. Legally available through licensed dispensaries and seed banks in regulated markets (Canada, several US states, Uruguay, Germany, Thailand). The original Green House and Mr. Nice versions are available as feminized and regular seeds internationally through seed banks operating in legal gray areas.
+Follows jurisdiction-specific cannabis regulations. Classified as a controlled substance in jurisdictions where [[query-how-does-no-till-cannabis-cultivation-work]] is prohibited. Legally available through licensed dispensaries and seed banks in regulated markets (Canada, several US states, Uruguay, Germany, Thailand). The original Green House and Mr. Nice versions are available as feminized and regular seeds internationally through seed banks operating in legal gray areas.
 
 ## Similar Strains Comparison
 | Strain | THC | Lineage Overlap | Key Difference |

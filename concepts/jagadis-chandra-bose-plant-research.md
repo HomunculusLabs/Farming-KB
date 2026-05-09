@@ -1,5 +1,5 @@
 ---
-title: "Jagadis Chandra Bose's Plant Research"
+title: "Jagadis jagadis [[jagadis-chandra-bose]] plant research's Plant Research"
 created: 2026-04-28
 tags: [plant-physiology, bioelectricity, crescograph, plant-response, bose]
 date: 2026-04-25
@@ -30,7 +30,7 @@ remains almost unmentioned in classical histories of the subjects in which
 he specialized.
 
 Educated at St. Xavier's College and later at Christ College, Cambridge,
-under Lord Rayleigh and Francis Darwin, Bose was appointed professor of
+under [[lord-rayleigh]] and Francis Darwin, Bose was appointed professor of
 physics at Calcutta's Presidency College. Despite racial prejudice from
 British authorities who offered him half the salary of English professors,
 he refused to touch his salary check for three years in protest. His
@@ -122,7 +122,7 @@ even more, sensitive than animals and man."
 
 ## Practical Applications
 
-Bose's crescograph allowed precise measurement of plant growth rates and
+Bose's crescograph allowed precise measurement of plant [[coleman-sunlight-and-winter-crop-growth-rates]] and
 responses to stimuli, enabling systematic study of plant sensitivity. His
 demonstration that plants share fundamental response mechanisms with
 animals has implications for agriculture, horticulture, and our

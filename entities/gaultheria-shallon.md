@@ -18,9 +18,9 @@ sources:
 
 ## Overview
 
-**Gaultheria shallon** is an evergreen shrub in the family Ericaceae, commonly known as salal, shallon, or gaultheria. It is native to western North America, occurring from coastal southern Alaska to central California, primarily in the Pacific coastal forests.
+**Gaultheria shallon** is an evergreen shrub in the family Ericaceae, commonly known as salal, shallon, or gaultheria. It is native to western [[psilocybin-north-america-pacific-northwest]], occurring from coastal southern Alaska to central California, primarily in the Pacific coastal forests.
 
-Salal is one of the most abundant and ecologically important understory shrubs in Pacific Northwest coniferous forests. It forms extensive dense mats that dominate the forest floor, influencing succession dynamics, fire behavior, and nutrient cycling.
+Salal is one of the most abundant and ecologically important understory shrubs in Pacific Northwest coniferous forests. It forms extensive dense mats that dominate the forest floor, influencing succession dynamics, fire behavior, and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 The species produces edible dark purple berries that have been a significant food source for indigenous peoples for thousands of years. Commercial harvest of salal foliage for the floral industry is a multimillion-dollar enterprise in the Pacific Northwest.
 
@@ -70,9 +70,9 @@ Mammalian consumers include black bears, Roosevelt elk, black-tailed deer, racco
 
 The evergreen foliage provides year-round cover for ground-nesting birds and small mammals. Dense salal thickets create favorable microclimates with higher humidity and moderated temperature extremes.
 
-Pollinators include bumblebees, honeybees, and native solitary bees. The flowers produce moderate nectar volumes and are visited consistently during the spring bloom period when few other understory plants are flowering.
+Pollinators include bumblebees, honeybees, and [[comparison-honey-bees-vs-native-solitary-bees]] bees. The flowers produce moderate nectar volumes and are visited consistently during the spring bloom period when few other understory plants are flowering.
 
-Ericoid mycorrhizal associations facilitate nutrient uptake from the acidic forest floor. The slow-decomposing leaf litter creates a thick organic horizon that influences soil chemistry and microbial community composition.
+[[dighton-ericoid-mycorrhizal-nutrient-acquisition]] associations facilitate nutrient uptake from the acidic forest floor. The slow-decomposing leaf litter creates a thick organic horizon that influences soil chemistry and microbial [[core-endorhiza-bacterial-community-composition-cannabis]].
 
 ## Edibility and Uses
 
@@ -88,7 +88,7 @@ Salal foliage is harvested commercially on a large scale for the floral arrangem
 
 ## Cultivation
 
-Gaultheria shallon is widely cultivated as an ornamental groundcover for shade gardens, native plant landscapes, and erosion control projects. Its glossy evergreen foliage and tolerance of deep shade make it a versatile landscape subject.
+Gaultheria shallon is widely cultivated as an ornamental groundcover for shade gardens, native plant landscapes, and [[permplant-willows-salix-erosion-control-fodder]] projects. Its glossy evergreen foliage and tolerance of deep shade make it a versatile landscape subject.
 
 Propagation from seed requires cold stratification for 60–90 days, with germination rates typically 30–50%. Division of established clumps is the most reliable propagation method, as the extensive rhizome system produces numerous rooted stems.
 
@@ -104,6 +104,6 @@ Spacing for groundcover plantings is 0.5–0.8 meters. Plants spread rapidly thr
 - [[vaccinium-myrtillus]]
 - [[vaccinium-angustifolium]]
 - [[vaccinium-pallidum]]
-- [[arctostaphylos-uva-ursi]]
+- arctostaphylos-uva-ursi
 - [[vaccinium-vitis-idaea]]
 - [[gaylussacia-baccata]]

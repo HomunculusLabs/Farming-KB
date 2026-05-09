@@ -21,7 +21,7 @@ When coffee was first introduced to Europe, it was used as a food or medicine; t
 
 Coffee was not brewed as a drink until around 1100 in Europe, and only in the thirteenth century did the modern practice of roasting coffee beans begin in Syria.
 
-Their stimulant properties made caffeine in coffee and its close cousin theobromine in tea the ideal drugs for the Industrial Revolution. They provided an energy lift, enabling people to keep working at repetitious tasks that demanded concentration.
+Their stimulant properties made caffeine in coffee and its close cousin theobromine in tea the ideal drugs for the [[mckenna-caffeine-coffee-and-industrial-revolution]]. They provided an energy lift, enabling people to keep working at repetitious tasks that demanded concentration.
 
 Indeed, the tea and coffee break is the only drug ritual that has never been criticized by those who profit from the modern industrial state.
 
@@ -47,11 +47,11 @@ McKenna observes that "if wild talk is the mother of revolution, then certainly 
 
 ## Chocolate: Theobroma Cacao
 
-The introduction of chocolate into Europe is almost a coda to the craze for caffeine stimulation. Chocolate, made from the ground beans of the native Amazonian tree Theobroma cacao, contains only small amounts of caffeine but is rich in caffeine's near-relative theobromine.
+The introduction of chocolate into Europe is almost a coda to the craze for caffeine stimulation. Chocolate, made from the ground beans of the native Amazonian tree [[theobroma-cacao]], contains only small amounts of caffeine but is rich in caffeine's near-relative theobromine.
 
 Both are chemicals with close relatives that occur endogenously in normal human metabolism. Like caffeine, theobromine is a stimulant, and the addictive potential of chocolate is significant.
 
-Cacao trees had been introduced into central Mexico from tropical South America centuries before the arrival of the Spanish conquistadores. There they had a major sacramental role in Maya and Aztec religion.
+Cacao trees had been introduced into [[psychoactive-cacti-of-central-mexico]] from tropical [[guzman-psilocybin-mushrooms-south-america]] centuries before the arrival of the Spanish conquistadores. There they had a major sacramental role in Maya and Aztec religion.
 
 The Maya also used cacao beans as the equivalent of money.
 
@@ -83,13 +83,13 @@ The history of commercial drug synergies — the way in which one drug has been 
 
 Such is the power of "the cup that cheers, but not inebriates."
 
-McKenna notes that the invention of morphine in 1803 and then heroin in 1873 carries us to the threshold of the twentieth century. Alarmed social reformers who attempted to legislate drug use only succeeded in driving it underground.
+McKenna notes that the invention of morphine in 1803 and then heroin in 1873 carries us to the threshold of the [[coleman-louis-savier-twentieth-century-maraicher]]. Alarmed social reformers who attempted to legislate drug use only succeeded in driving it underground.
 
-There it remains, controlled today not by robber baron corporations operating under public charter, but by international crime cartels often posing as intelligence agencies.
+There it remains, controlled today not by robber baron corporations operating under public charter, but by international crime cartels often posing as [[mckenna-drugs-governments-and-intelligence-agencies]].
 
 It is, as William Burroughs has remarked, "Not a pretty picture." Since the Age of Exploration, drugs and plant products have become increasingly important factors in the equations of international diplomacy.
 
-No longer are the distant tropical regions and peoples of the world to languish unattended by the rapacious eye of the white man; they have become production areas populated by an indentured labor force.
+No longer are the distant [[fukuoka-natural-farming-in-tropical-regions]] and peoples of the world to languish unattended by the rapacious eye of the white man; they have become production areas populated by an indentured labor force.
 
 ## Related Concepts
 

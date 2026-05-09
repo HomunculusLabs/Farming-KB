@@ -63,7 +63,7 @@ Unlike many Russula species, the cap cuticle does not peel readily, peeling at m
 
 Gills are adnexed to slightly decurrent, crowded, white to cream-colored, sometimes developing a pale buff tint with age.
 
-Spore print is cream to pale ochre. Spores are broadly ellipsoid, ornamented with isolated warts and a partial reticulum, 7–9 × 6–7.5 µm.
+[[comparison-spore-print-collection-vs-spore-syringe-production]] is cream to pale ochre. Spores are broadly ellipsoid, ornamented with isolated warts and a partial reticulum, 7–9 × 6–7.5 µm.
 
 The stipe is 4–10 cm long and 1.5–3 cm thick, solid, white, staining brownish where bruised or handled.
 
@@ -83,19 +83,19 @@ It may also occur under spruce and fir in montane environments, though pine asso
 
 ## Edibility
 
-Russula delica is generally classified as an edible mushroom of limited culinary value due to its frequently acrid taste.
+Russula delica is generally classified as an [[bloomfield-boletus-satanus-edible-mushroom-hazards]] of limited culinary value due to its frequently acrid taste.
 
 Specimens with mild flavor can be eaten after thorough cooking, and are used in some regional Italian and Spanish cuisines.
 
 The flesh does not have the crisp texture prized in better Russula species like R. vesca or R. cyanoxantha, tending to be somewhat granular.
 
-Due to taxonomic confusion within the R. delica complex, some authorities recommend avoiding the species altogether for culinary purposes.
+Due to [[neurotropic-fungi-taxonomic-confusion-and-identification]] within the R. delica complex, some authorities recommend avoiding the species altogether for culinary purposes.
 
 Cases of mild gastrointestinal distress have been reported, possibly attributable to misidentified specimens of toxic white Russula species.
 
 ## Ecology
 
-As an ectomycorrhizal fungus, R. delica facilitates nutrient exchange between its host trees and the soil environment.
+As an ectomycorrhizal fungus, R. delica facilitates [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between its host trees and the soil environment.
 
 The species is particularly adapted to dry Mediterranean forest conditions, where it can fruit during periods of moderate soil moisture.
 

@@ -1,11 +1,11 @@
 ---
-title: cannabis dosing guidelines
+title: cannabis cannabis-dosing-guidelines-by-condition
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # cannabis dosing guidelines
 
@@ -17,9 +17,9 @@ Cannabis dosing is inherently more complex than dosing conventional pharmaceutic
 
 Several factors make standardized cannabis dosing difficult:
 
-- **Variable potency**: Cannabis flower potency ranges from less than 5% to over 30% THC. Concentrates can exceed 90% THC. Without lab testing, potency is unknown
+- **Variable potency**: [[cervantes-cannabis-flower-anatomy]] potency ranges from less than 5% to over 30% THC. Concentrates can exceed 90% THC. Without lab testing, potency is unknown
 - **Individual sensitivity**: Genetic differences in [[set-and-setting]]**: Psychological state, environment, and expectations significantly influence the experience
-- **Plant chemistry**: Different cannabinoid and terpene profiles produce different effects even at the same THC dose
+- **Plant chemistry**: Different cannabinoid and [[cannabis-terpene-profiles-sativa]] produce different effects even at the same THC dose
 
 ## Consumption Methods and Bioavailability
 
@@ -28,7 +28,7 @@ Several factors make standardized cannabis dosing difficult:
 - **Onset**: 1-5 minutes
 - **Peak effects**: 15-30 minutes
 - **Duration**: 2-4 hours
-- **Bioavailability**: 10-35% (varies with smoking technique)
+- **Bioavailability**: 10-35% (varies with [[dmt-smoking-technique-and-preparation]])
 - **Notes**: Easiest to titrate because effects are felt almost immediately. Vaporizing is preferred over smoking as it avoids combustion byproducts. Dose by counting puffs rather than measuring weight.
 
 ### Sublingual (Tinctures)
@@ -93,7 +93,7 @@ Several factors make standardized cannabis dosing difficult:
 
 ## CBD Dosing Guidelines
 
-CBD does not produce psychoactive effects and has a much wider therapeutic window than THC. The optimal dose varies widely depending on the condition being treated.
+CBD does not produce psychoactive effects and has a much wider [[blesching-cannabis-therapeutic-window-dosing]] than THC. The optimal dose varies widely depending on the condition being treated.
 
 ### General Wellness (5 - 25 mg CBD/day)
 
@@ -121,7 +121,7 @@ CBD does not produce psychoactive effects and has a much wider therapeutic windo
 ### Important Notes on CBD
 
 - CBD can interact with many pharmaceuticals by inhibiting CYP450 liver enzymes, particularly the blood thinner warfarin and anti-seizure medications
-- Full-spectrum CBD (containing trace THC and other cannabinoids) may be more effective than CBD isolate due to the entourage effect
+- Full-spectrum CBD (containing trace THC and other cannabinoids) may be more effective than CBD isolate due to the [[cannabis-terpene-entourage-effect-profiles]]
 - CBD attenuates some of the psychoactive effects of THC -- a 1:1 CBD:THC ratio produces a much milder experience than THC alone
 - Side effects at high doses may include drowsiness, dry mouth, diarrhea, and changes in appetite or weight
 

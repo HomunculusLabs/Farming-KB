@@ -17,7 +17,7 @@ between minerals extracted and the five tastes: sweet, sour,
 bitter, salty, and hot. But flavor cannot be understood by
 relying on the results of [[brown-rice-flour-substrate]] to remove the bran. To
 make up for the loss in flavor, he adds meat sauce or eats
-it with sashimi. Tasty rice thus becomes rice that is easy
+it with sashimi. [[fukuoka-tasty-rice-illusion-food-processing]] thus becomes rice that is easy
 to flavor and season, and people delude themselves into
 thinking of white rice, stripped of aroma and taste, as
 high-grade rice.
@@ -30,7 +30,7 @@ Refinements in flavoring with petroleum-derived protein
 have created people unaware that their entire diet has been
 converted into an artificial diet. One Japanese folk tale
 tells of how, deceived by a fox, people are made to eat
-horse manure. But it is not for us to laugh, for people
+[[falconer-horse-manure-varieties]]. But it is not for us to laugh, for people
 today eat with their minds and not with their body. When
 they eat bread, it is not the flavor of the bread they
 enjoy, but the flavor of the seasonings added to the bread.
@@ -65,7 +65,7 @@ If the purpose of cooking is to delight people by modifying
 nature in order to bring out an exotic flavor that resembles
 nature but is unlike anything in nature, then we are dealing
 with deceit. The practical wisdom of early man who sun-dried
-root vegetables and pickled them in salt, rice bran, or miso,
+[[growing-root-vegetables-guide]] and pickled them in salt, [[jadam-rice-bran-problems]], or miso,
 enjoying their special taste and aroma at the end of his
 meals, is understood by everyone everywhere because these
 touch the essence of the flavors of nature.

@@ -1,5 +1,5 @@
 ---
-title: Fungal Metal Transformations in Soil
+title: Fungal fungal-metal-transformations-biosorption in Soil
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -10,14 +10,14 @@ sources:
 
 # Fungal Metal Transformations in Soil
 
-Fungi are fundamental decomposer organisms and plant symbionts ([[aspergillus-niger-in-fungal-bioleaching]] can solubilize pyromorphite (Pb5(PO4)3Cl), a stable lead mineral, forming biogenic lead oxalate dihydrate -- first observed in fungal transformation of pyromorphite
+Fungi are fundamental decomposer organisms and plant symbionts ([[aspergillus-niger-in-fungal-bioleaching]] can solubilize pyromorphite (Pb5(PO4)3Cl), a stable lead mineral, forming biogenic lead oxalate dihydrate -- first observed in [[singh-fungal-transformation-metals-metalloids]] of pyromorphite
 - Fungi can translocate caesium, zinc, and cadmium, concentrating metals in mycelium and fruiting bodies
 - The fungal soil component can immobilize total Chernobyl radiocaesium fallout in upland grasslands, though grazing animals may transfer radiocaesium through the food chain
 
 ## Metal Immobilization
 
 ### Physicochemical Mechanisms (Biosorption)
-Fungal cell walls contain chitin, chitosan, glucans, polysaccharides, proteins, lipids, and melanin, providing many functional groups (amino, carboxyl, phosphate, sulfhydryl) for metal binding. See also [[mucormycosis-zygomycete-infections]], [[heavy-metal-biosorption]]
+[[gadd-fungal-cell-structure]] walls contain chitin, chitosan, glucans, polysaccharides, proteins, lipids, and melanin, providing many functional groups (amino, carboxyl, phosphate, sulfhydryl) for [[chelation-and-metal-binding-in-plants]]. See also [[mucormycosis-zygomycete-infections]], [[heavy-metal-biosorption]]
 - [[mycorrhiza]]
 - [[mycoremediation]]
 ## Practical Applications
@@ -97,4 +97,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

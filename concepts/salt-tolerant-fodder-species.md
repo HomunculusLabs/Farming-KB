@@ -1,5 +1,5 @@
 ---
-title: salt tolerant fodder species
+title: salt salt-tolerant-fodder-plants species
 created: 2026-04-28
 tags: [saline-land, fodder, land-rehabilitation, permaculture,
   pasture, erosion-control, livestock]
@@ -92,11 +92,14 @@ Very salt tolerant, native to north Africa, requires 300+ mm rainfall.
 
 Many wattle species tolerate saline conditions including A. ampliceps,
 A. auriculiformis, A. cyclops, A. ligulata, A. pendula, A. saligna,
-and A. salicina. See [[mycofiltration-silt-erosion-control]] and
+and A. salicina. See mycofiltration-silt-erosion-control and
   furniture timber
 - **Colophospermum mopane** (Mopane): Leguminous tree to 23 m, native
   to Africa, best firewood on the continent, coppices vigorously
 
 ## See Also
 
-- [[permaculture-plants-salt-tolerant-fodder-systems]]
+- permaculture-plants-salt-tolerant-fodder-systems
+- [[mycofiltration]]
+- [[permaculture-salt-tolerant-fodder-plants]]
+- [[salt-tolerant-fodder-plants]]

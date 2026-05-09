@@ -1,9 +1,9 @@
 ---
-title: Falconer Who Should Grow Mushrooms
+title: Falconer Who Should query-how-can-i-grow-mushrooms-alongside-garden-vegetables
 created: 2026-04-28
 tags:
   [
-    [[homesteading]],
+    homesteading,
     winter-cropping,
   ]
 date: 2026-04-28
@@ -28,14 +28,14 @@ outlay, than in any other crop that we grow.
 Our market gardeners are all men who have to work
 hard for a living. When the outdoor vegetable season
 is over they have little to do. Their hotbeds and
-cold frames are empty. Their forcing-houses are idle.
+[[hamilton-cold-frames-and-hardening-off]] are empty. Their forcing-houses are idle.
 If they have no mushrooms, the only work they have
 in winter is the care of the blanching celery, the
 smattering of lettuce in the frames, and the
 preparation of the forcing-houses for the new crop.
 
 But when they grow mushrooms they have a paying
-winter crop. The mushrooms are grown in the
+[[coleman-sunlight-and-winter-crop-growth-rates]]. The mushrooms are grown in the
 cellars, sheds, or under the greenhouse benches. Very
 often the cellar is under the barn, and the manure is
 on the spot. Nothing is wasted, as the manure after
@@ -55,7 +55,7 @@ tubers and bulbs are stored.
 Right here we have the best kind of a mushroom
 house. The space under the benches, which is nearly
 useless for other purposes, is admirably adapted for
-[[falconer-mushroom-growing-house-design]], and the growing of mushrooms is an
+falconer-mushroom-growing-house-design, and the growing of mushrooms is an
 easy matter. In others there is no such convenience,
 and the gardener has to trust to his own ingenuity.
 In the tool-shed, the potting-shed, the wood-shed,
@@ -86,7 +86,7 @@ mushrooms.
 No one can grow mushrooms better or more
 economically than the farmer. He has already the
 cellar-room, the fresh manure and the loam at home,
-and all he needs is some [[falconer-preparation-of-the-manure]] once every day or two for about
+and all he needs is some falconer-preparation-of-the-manure once every day or two for about
 three weeks, then building it into a bed and spawning
 and molding it.
 
@@ -96,7 +96,7 @@ Many women are searching for remunerative and
 pleasant employment upon the farm, and what can be
 more interesting, pleasant and profitable work for them
 than mushroom-growing? After the farmer makes up
-the mushroom bed his wife or daughter can attend to
+the [[falconer-mushroom-bed-boxing-and-protection]] his wife or daughter can attend to
 its management, with scarcely any tax upon her time,
 and without interfering with her other domestic duties.
 
@@ -112,3 +112,7 @@ is intelligently conducted there is more money in it
 than in hens, and with less trouble.
 
 ## See Also
+- [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]]
+- [[query-how-to-grow-mushrooms-on-straw]]
+- [[query-how-to-grow-mushrooms-on-logs]]
+- [[query-how-to-grow-wine-cap-mushrooms]]

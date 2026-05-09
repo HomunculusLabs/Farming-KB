@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-*Pongamia pinnata* (syn. *Millettia pinnata*), commonly known as pongamia, karanja, or Indian beech, is a fast-growing, nitrogen-fixing leguminous tree native to tropical and subtropical regions of South and Southeast Asia. It has attracted significant attention as a multipurpose [[permaculture]] systems, land restoration, and sustainable bioenergy feedstock programs across tropical latitudes.
+*Pongamia pinnata* (syn. *Millettia pinnata*), commonly known as pongamia, karanja, or Indian beech, is a fast-growing, nitrogen-fixing leguminous tree native to tropical and subtropical regions of South and Southeast Asia. It has attracted significant attention as a multipurpose permaculture systems, land restoration, and sustainable bioenergy feedstock programs across tropical latitudes.
 
 ## Taxonomy and Classification
 
@@ -26,11 +26,11 @@ sources:
 - **Genus:** *Pongamia* (frequently treated within *Millettia*)
 - **Species:** *P. pinnata* (L.) Pierre
 
-The taxonomic placement has been debated, with many modern treatments classifying the species as *Millettia pinnata*. The genus *Pongamia* is sometimes considered monotypic. Closely related genera include *Millettia*, *Tephrosia*, and *Derris*. The species exhibits considerable morphological variation across its native range, leading to the description of several infraspecific taxa, though most are not widely recognized.
+The taxonomic placement has been debated, with many modern treatments classifying the species as *Millettia pinnata*. The genus *Pongamia* is sometimes considered monotypic. Closely related genera include *Millettia*, *Tephrosia*, and *Derris*. The species exhibits considerable morphological [[psilocybin-psilocin-variation-across-flushes]] its native range, leading to the description of several infraspecific taxa, though most are not widely recognized.
 
 ## Botanical Description
 
-**Growth habit:** *Pongamia pinnata* is a medium-sized, deciduous to semi-evergreen tree reaching heights of **15–25 m** at maturity, with a trunk diameter of 50–80 cm. It develops a broad, spreading canopy and a deep taproot system that confers exceptional drought tolerance. Growth rate is moderate to fast under favorable conditions, typically **1–2 m per year** in early years, with trees beginning to flower and set seed within **4–7 years** from seed.
+**Growth habit:** *Pongamia pinnata* is a medium-sized, deciduous to semi-evergreen tree reaching heights of **15–25 m** at maturity, with a trunk diameter of 50–80 cm. It develops a broad, spreading canopy and a deep taproot system that confers exceptional [[dighton-fungal-drought-tolerance-plant-water-relations]]. Growth rate is moderate to fast under favorable conditions, typically **1–2 m per year** in early years, with trees beginning to flower and set seed within **4–7 years** from seed.
 
 **Leaves:** Alternate, imparipinnate compound leaves, 15–30 cm long, bearing 5–9 ovate to elliptic leaflets. Leaflets are glossy dark green above, paler beneath, 5–10 cm × 3–6 cm, with entire margins.
 
@@ -58,13 +58,13 @@ The high oleic acid content and low free fatty acid levels make pongamia oil wel
 
 Pongamia is a cornerstone species in tropical [[agroforestry]] systems, it serves as a windbreak, shade tree, and living fence. It integrates well in silvopastoral systems, providing dappled shade for livestock and poultry. The dense canopy can be pruned for mulch, and the leaf litter contributes organic matter to the soil surface.
 
-The tree is widely used in [[dynamic-accumulators]] in tropical food forests. Pongamia is also planted along field boundaries, roadways, and riparian zones for erosion control and watershed protection.
+The tree is widely used in [[dynamic-accumulators]] in tropical food forests. Pongamia is also planted along field boundaries, roadways, and riparian zones for [[permplant-willows-salix-erosion-control-fodder]] and watershed protection.
 
-Companion species in agroforestry include [[gliricidia-sepium]], and [[biochar]] produced from pongamia prunings or pressed seedcake retains the nutrient profile of this leguminous biomass, yielding a high-quality soil amendment.
+Companion species in agroforestry include gliricidia-sepium, and [[biochar]] produced from pongamia prunings or pressed seedcake retains the nutrient profile of this leguminous biomass, yielding a high-quality soil amendment.
 
 ## Nitrogen Fixation and Soil Benefits
 
-As a legume, *P. pinnata* forms a symbiotic association with rhizobial bacteria (primarily *Bradyrhizobium* spp.) in root nodules, enabling biological nitrogen fixation (BNF). Estimated nitrogen fixation rates range from **20–60 kg N/ha/year** under plantation conditions. This substantially improves soil nitrogen status, benefiting understory crops and subsequent rotations.
+As a legume, *P. pinnata* forms a symbiotic association with rhizobial bacteria (primarily *Bradyrhizobium* spp.) in root nodules, enabling [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation (BNF). Estimated nitrogen fixation rates range from **20–60 kg N/ha/year** under plantation conditions. This substantially improves soil nitrogen status, benefiting understory crops and subsequent rotations.
 
 Beyond nitrogen, pongamia contributes to soil health through:
 
@@ -86,7 +86,7 @@ Pongamia is hardy in **USDA Zones 10–12** (minimum temperatures of 1–2°C) a
 
 **Propagation** is primarily by seed, though vegetative methods (stem cuttings, tissue culture) are used for clonal propagation of superior genotypes. Seed germination is often improved by mechanical scarification or soaking in hot water for 12–24 hours, achieving 70–90% germination. Seedlings are typically raised in nursery bags and transplanted at 6–12 months.
 
-Recommended planting spacing is **5 × 5 m to 10 × 10 m** (100–400 trees/ha) depending on the intended use, with tighter espacement for biofuel-focused plantations. The pressed seedcake, rich in protein (~30%), has value as an organic fertilizer or, after detoxification, as animal feed. Trees are relatively long-lived, with productive lifespans exceeding **60–100 years**.
+Recommended planting spacing is **5 × 5 m to 10 × 10 m** (100–400 trees/ha) depending on the intended use, with tighter espacement for biofuel-focused plantations. The pressed seedcake, rich in protein (~30%), has value as an [[complete-organic-fertilizer-cof-recipe-solomon]] or, after detoxification, as animal feed. Trees are relatively long-lived, with productive lifespans exceeding **60–100 years**.
 
 ## Challenges and Limitations
 
@@ -97,7 +97,7 @@ Despite its promise, pongamia faces several challenges for widespread adoption:
 - **Limited domestication:** Few improved cultivars are commercially available
 - **Seed handling:** Hard seed coats necessitate pre-treatment for consistent germination
 - **Toxicity:** Seed cake contains karanjin and pongamol, restricting direct use as feed
-- **Pests and diseases:** Susceptible to root rot (*Fusarium* spp.), leaf webber, and pod borer
+- **[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]:** Susceptible to root rot (*Fusarium* spp.), leaf webber, and pod borer
 - **Regulatory uncertainty:** Biodiesel standards and subsidy frameworks vary by region
 - **Harvest logistics:** Pod collection from large trees is labor-intensive without mechanization
 
@@ -108,7 +108,7 @@ Active breeding programs in India, Australia, and the United States are addressi
 - [[biochar]]
 - [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
 - [[leucaena-leucocephala]]
-- [[crotalaria-juncea]]
+- crotalaria-juncea
 - biofuel
 - oilseed crops
 

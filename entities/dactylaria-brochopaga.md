@@ -30,12 +30,12 @@ dactylaria brochopaga is distinguished by its production of specialized predator
 dactylaria brochopaga is a soil-inhabiting fungus found in a variety of terrestrial environments. It is particularly associated with the rhizosphere (root zone) of plants, where nematode populations are typically highest. Its habitat preferences include:
 
 - Agricultural soils and crop rhizospheres
-- Forest soils and woodland leaf litter
+- Forest soils and woodland [[dighton-fungal-decomposition-leaf-litter-dynamics]]
 - Grassland soils
 - Compost and organic-rich substrates
 - Greenhouse and nursery soils
 
-The fungus is generally more abundant in moist, organic-rich soils where nematode prey are plentiful. The presence of nematodes in the environment can actually induce the fungus to produce trapping structures, as the energy investment in trap formation is only triggered by chemical signals from potential prey.
+The fungus is generally more abundant in moist, organic-rich soils where nematode prey are plentiful. The presence of nematodes in the environment can actually induce the fungus to produce trapping structures, as the energy investment in trap formation is only triggered by [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] from potential prey.
 
 ## Role in Ecosystem Processes
 
@@ -43,8 +43,8 @@ The fungus is generally more abundant in moist, organic-rich soils where nematod
 
 The primary ecological function of dactylaria brochopaga is the regulation of nematode populations in soil. As cited in Dighton (2003), Mankau (1981) identified nematode-trapping fungi including D. brochopaga and [[soil-food-web]], regulating nematode populations from above.
 - **Plant protection:** By reducing populations of plant-parasitic nematodes, it indirectly protects plant roots from damage.
-- **Nutrient cycling:** Nematodes consumed by the fungus release their internal nutrients, which are subsequently mineralized and become available for plant uptake or for utilization by other soil microorganisms.
-- **Energy flow:** The fungus channels energy from the nematode-based decomposer pathway into the fungal decomposer pathway, contributing to the complexity and stability of soil food webs.
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]:** Nematodes consumed by the fungus release their internal nutrients, which are subsequently mineralized and become available for plant uptake or for utilization by other soil microorganisms.
+- **[[savory-energy-flow-and-solar-capture]]:** The fungus channels energy from the nematode-based decomposer pathway into the fungal decomposer pathway, contributing to the complexity and stability of soil food webs.
 
 ### Soil Food Web Dynamics
 
@@ -58,7 +58,7 @@ dactylaria brochopaga captures free-living and plant-parasitic nematodes of vari
 
 ### Plant Associations
 
-The species is commonly found in the rhizosphere of plants, where its predatory activity provides a degree of natural biological control against plant-parasitic nematodes. The rhizosphere environment is favorable for both the fungus (due to high organic matter and nematode density) and for the development of trapping structures.
+The species is commonly found in the rhizosphere of plants, where its predatory activity provides a degree of natural biological control against plant-parasitic nematodes. The rhizosphere environment is favorable for both the fungus (due to high [[hamilton-composting-and-organic-matter-management]] and nematode density) and for the development of trapping structures.
 
 ### Competition with Other Nematophagous Fungi
 
@@ -70,7 +70,7 @@ Soil microarthropods such as [[arthrobotrys-musiformis]] as an example of predat
 
 ## See Also
 
-- [[nematode-trapping-fungi]]
+- nematode-trapping-fungi
 - [[soil-food-web]]
 - biological control
 - Rhizosphere

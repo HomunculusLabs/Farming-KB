@@ -3,7 +3,7 @@ title: Cannabis Pain Management Protocols
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Blesching - The Cannabis Health Index"
+  - "Blesching - The blesching-cannabis-health-index-autoimmune-conditions"
 type: concept
 tags: [cannabis]
 ---
@@ -42,7 +42,7 @@ Fibromyalgia involves widespread musculoskeletal pain accompanied by fatigue, sl
 
 ## Strain Selection for Pain
 
-Blesching distinguishes between Cannabis sativa and Cannabis indica for pain management:
+Blesching distinguishes between [[comparison-cannabis-sativa-vs-cannabis-indica]] and Cannabis indica for pain management:
 
 - Both strains provide pain relief and muscle relaxation
 - Sativa strains (higher THC to CBD ratio) are generally more stimulating and uplifting, suitable for daytime use
@@ -80,14 +80,14 @@ Blesching emphasizes that the ECS can be activated through non-cannabis means as
 
 The Cannabis Health Index draws connections between emotional states and pain experience. Chronic stress, fear, and suppressed emotions can exacerbate pain perception. The frame of mind that frequently leads to guilt or shame produces specific negative changes that impact the body's ability to defend against pathogens and manage pain. Conversely, states of openness, acceptance, and relaxation can enhance the body's natural pain-modulating capacity.
 
-Research on fibromyalgia patients has demonstrated alterations in central nervous system anatomy, physiology, and chemistry that potentially contribute to pain symptoms. The frequent comorbidity of fibromyalgia with stress-related disorders such as chronic fatigue, PTSD, irritable bowel syndrome, and depression suggests a common substrate involving brain modulatory circuitry of pain and emotions. These findings support the concept that prolonged or severe stress affects pain processing in genetically susceptible individuals.
+Research on fibromyalgia patients has demonstrated alterations in central nervous system anatomy, physiology, and chemistry that potentially contribute to pain symptoms. The frequent comorbidity of fibromyalgia with stress-related disorders such as [[cannabis-chronic-fatigue-research]], PTSD, [[blesching-cannabis-irritable-bowel-syndrome]] syndrome, and depression suggests a common substrate involving brain modulatory circuitry of pain and emotions. These findings support the concept that prolonged or severe stress affects pain processing in genetically susceptible individuals.
 
 ## The Endocannabinoid Tone Concept
 
 Blesching introduces the concept of "endocannabinoid tone" -- the relative balance of the body's own cannabinoid activity. This concept is clinically relevant to pain management:
 
 - Patients with deficient endocannabinoid tone may experience heightened pain sensitivity
-- Chronic pain conditions may involve clinical endocannabinoid deficiency
+- [[cannabis-chronic-pain-management]] conditions may involve clinical endocannabinoid deficiency
 - Boosting endocannabinoid tone through plant cannabinoids, dietary cannabinoids, or lifestyle interventions can restore more normal pain processing
 - The CB2-selective agonist (E)-beta-caryophyllene offers a way to boost endocannabinoid tone without psychoactive effects
 
@@ -103,7 +103,7 @@ Both rheumatoid arthritis and osteoarthritis involve inflammatory pain that resp
 
 ### Gastrointestinal Pain
 
-Conditions involving gastrointestinal pain (irritable bowel syndrome, inflammatory bowel disease) may benefit from cannabinoid therapy due to the high concentration of CB2 receptors in the gut. Cannabis has documented spasmolytic (anti-spasmodic) properties relevant to GI pain.
+Conditions involving gastrointestinal pain (irritable bowel syndrome, [[blesching-cannabis-inflammatory-bowel-disease]] disease) may benefit from cannabinoid therapy due to the high concentration of CB2 receptors in the gut. Cannabis has documented spasmolytic (anti-spasmodic) properties relevant to GI pain.
 
 ### Headache and Migraine Pain
 

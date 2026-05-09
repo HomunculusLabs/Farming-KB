@@ -1,5 +1,5 @@
 ---
-title: Ethylene and Hormonal Sex Reversal in Cannabis
+title: Ethylene and cervantes ethylene hormonal sex reversal Reversal in Cannabis
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -39,7 +40,7 @@ ethylene to influence overall plant development and stress responses.
 ## Ethylene and Sex Manipulation
 
 Applying high enough concentrations of ethylene to staminate (male)
-individuals in the flowering cycle results in the formation of pistils
+individuals in the [[cannabis-sativa-flowering-cycle-management]] results in the formation of pistils
 (female flowers). Conversely, applying ethylene-inhibiting agents to
 pistillate (female) individuals as they enter flowering results in the
 formation of stamens in place of pistils.
@@ -100,7 +101,7 @@ Cannabis sex is determined by the 10th pair of chromosomes, the smallest
 pair. Female plants have two copies of the X chromosome (XX genotype).
 Male plants have one X and one Y chromosome (XY genotype). A female-
 to-female cross (XX x XX) produces only female (XX) offspring, which is
-the genetic basis of feminized seed production.
+the genetic basis of feminized [[cervantes-seed-production-storage]].
 
 ## See Also
 

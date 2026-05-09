@@ -1,9 +1,10 @@
 ---
-title: "Stinging Nettle vs Horsetail"
+title: "comparison stinging nettle vs horsetail vs Horsetail"
 tags: [comparison, dynamic-accumulator, herbal-plant, medicinal-herb, permaculture]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources:
+  sources: []
 ---
 
 # Stinging Nettle vs Horsetail
@@ -37,7 +38,7 @@ would struggle. Its deep rhizome network (reaching 1--2 metres) mines silica,
 potassium, calcium, magnesium, iron, and aluminium from subsoil layers. In
 permaculture, horsetail's primary value is as a silica source: horsetail
 compost tea or foliar spray strengthens plant cell walls, increases resistance
-to fungal diseases like powdery mildew and botrytis, and improves structural
+to fungal diseases like [[cervantes-powdery-mildew-prevention-treatment]] and botrytis, and improves structural
 integrity in grasses, grains, tomatoes, and cucumbers. Silica also enhances
 pest resistance by making leaf surfaces more abrasive to herbivorous insects.
 
@@ -59,7 +60,7 @@ enzyme safely for human herbal preparations.
 | **Key nutrient** | Nitrogen, iron, calcium | Silica, potassium |
 | **Soil preference** | Rich, nitrogenous soils | Acidic, poor, compacted soils |
 | **Edible** | Yes -- highly nutritious green | No -- limited safe use |
-| **Primary garden use** | Liquid fertilizer, compost | Silica foliar spray, mulch |
+| **Primary garden use** | [[jadam-liquid-fertilizer-nutritional-perspective]], compost | Silica foliar spray, mulch |
 | **Toxicity risk** | Stinging hairs (temporary) | Thiaminase (B1 depletion) |
 | **Medicinal strength** | BPH, allergies, arthritis | Diuretic, wound healing, silica |
 | **Wildlife value** | Butterfly host, 100+ insect spp. | Limited; some bird forage |
@@ -68,10 +69,10 @@ enzyme safely for human herbal preparations.
 ## When to Choose Nettle
 
 Nettle is the better choice when your goal is building soil nitrogen, producing
-a high-nitrogen liquid fertilizer for vegetative growth, or harvesting a
+a high-nitrogen liquid fertilizer for [[cannabis-vegetative-growth-stage]], or harvesting a
 nutritious edible green. It excels in fertile, nitrogen-rich soils and
 functions as both a compost activator and an indicator of good soil fertility.
-If you need a dynamic accumulator that doubles as a food source and supports
+If you need a [[nutrient-dynamic-accumulator-reference]] that doubles as a food source and supports
 pollinator and butterfly populations, nettle is unmatched. Its medicinal
 applications for prostate health, allergies, and inflammation are also better
 supported by clinical evidence than horsetail's.
@@ -91,7 +92,7 @@ secondary value in homesteading contexts.
 
 The most effective approach is to use both plants together in a permaculture
 system. Nettle tea provides nitrogen for vegetative growth while horsetail
-tea supplies silica for structural strength and disease resistance. Some
+tea supplies silica for [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]] and disease resistance. Some
 practitioners blend the two into a combined foliar spray that delivers both
 nutrient sets simultaneously. Nettle can be planted in fertile zones near
 compost piles and cultivated beds, while horsetail can be contained in
@@ -102,8 +103,10 @@ to prevent rhizomatous spread into sensitive areas.
 
 ## See Also
 
+- [[comparison-arnica-vs-stinging-nettle]]
+
 - [[comparison-stinging-nettle-vs-yarrow]] -- Nettle vs yarrow for medicinal
   and permaculture use
-- [[dynamic-accumulator-hyperaccumulator-geobotany]] -- Science of nutrient
+- dynamic-accumulator-hyperaccumulator-geobotany -- Science of nutrient
   accumulation in plants
 - [[compost-tea-guide]] -- Brewing compost teas including nettle and horsetail

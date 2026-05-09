@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Improved Night Vision"
+title: "Cannabis and blesching cannabis improved night vision Vision"
 created: 2026-04-26
 tags:
   - cannabis
@@ -16,11 +16,11 @@ type: concept
 
 # Cannabis and Improved Night Vision
 
-An international team of researchers from the United States, Spain, and Morocco
+An international team of researchers from the [[dmt-containing-plants-united-states-halpern]], Spain, and Morocco
 documented (2004) an improvement in night vision among Jamaican fishermen
 after ingestion of a crude tincture of herbal cannabis. Two members of this
 group also noted that Moroccan fishermen and mountain dwellers observe an
-analogous improvement after smoking kif, sifted Cannabis sativa mixed with
+analogous improvement after smoking kif, sifted [[comparison-cannabis-sativa-vs-cannabis-indica]] mixed with
 tobacco (Nicotiana rustica).
 
 To field-test these anecdotal reports, researchers devised a placebo-controlled
@@ -84,7 +84,7 @@ In the Rif mountains of northern Morocco, kif (a blend of sifted Cannabis
 sativa mixed with tobacco) has been used for centuries. Fishermen reported
 that smoking kif before nighttime fishing expeditions enhanced their ability
 to navigate and spot fish in darkness. Similarly, Jamaican fishermen using
-cannabis tinctures reported improved night vision that facilitated their work.
+[[query-how-to-make-cannabis-tinctures-at-home]] reported improved night vision that facilitated their work.
 
 ## Broader Ophthalmological Implications
 

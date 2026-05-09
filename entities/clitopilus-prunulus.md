@@ -28,7 +28,7 @@ sources:
 
 ## Overview
 
-*Clitopilus prunulus*, commonly known as the miller mushroom or sweetbread mushroom, is a gilled basidiomycete fungus in the family Clitopilaceae. It is widely distributed across Europe and North America, fruiting on the ground in mixed woodlands, grassy clearings, and along forest edges from midsummer through autumn. The species is edible and highly regarded for its mild, pleasant flavor resembling fresh meal or bread dough, but it is notorious among foragers for its dangerous resemblance to several toxic *Clitocybe* species that contain lethal levels of muscarine.
+*Clitopilus prunulus*, commonly known as the miller mushroom or sweetbread mushroom, is a gilled basidiomycete fungus in the family Clitopilaceae. It is widely distributed across Europe and [[psilocybin-north-america-pacific-northwest]], fruiting on the ground in mixed woodlands, grassy clearings, and along forest edges from midsummer through autumn. The species is edible and highly regarded for its mild, pleasant flavor resembling fresh meal or bread dough, but it is notorious among foragers for its dangerous resemblance to several toxic *Clitocybe* species that contain lethal levels of muscarine.
 
 ## Taxonomy
 
@@ -49,7 +49,7 @@ Basidiomycota → Agaricomycetes → Agaricales → **Clitopilaceae → *Clitopi
 
 ## Distribution and Habitat
 
-- **Geographic range:** Widespread across temperate Europe (especially common in Britain, France, Germany, and Scandinavia) and eastern North America; also reported from parts of Asia and Australia
+- **Geographic range:** Widespread across temperate Europe (especially common in Britain, France, Germany, and Scandinavia) and [[polypore-fungi-eastern-north-america]] America; also reported from parts of Asia and Australia
 - **Habitat:** Terrestrial, growing singly or in scattered groups on soil in deciduous and mixed woodlands, forest edges, old pastures, and grassy clearings; often associated with oak, beech, and hornbeam
 - **Season:** Late summer to late autumn (July–November in the Northern Hemisphere); fruiting triggered by cool, damp conditions
 - **Ecological role:** Saprotrophic, decomposing leaf litter and organic matter in soil; may have a weak ectomycorrhizal association with some hardwoods
@@ -90,14 +90,14 @@ The greatest risk in foraging *C. prunulus* is confusion with toxic *Clitocybe* 
 - *C. prunulus* is not commercially cultivated due to its slow growth and the difficulty of reliably simulating its natural woodland conditions
 - No established cultivation protocols exist; the species has not been successfully grown at commercial scale
 - Some amateur mycologists report limited success with enriched compost substrates in outdoor beds, but yields are inconsistent and not commercially viable
-- The species appears to benefit from mycorrhizal associations with mature hardwood trees, which are difficult to replicate in artificial cultivation systems
+- The species appears to benefit from mycorrhizal associations with mature hardwood trees, which are difficult to replicate in [[fukuoka-matsutake-artificial-cultivation-attempt]] systems
 - Fruiting in the wild is strongly influenced by seasonal rainfall patterns and soil temperature, suggesting specific environmental triggers that are not fully understood
 
 ## Chemical Constituents
 
-- The characteristic farinaceous odor is attributed to volatile compounds including oct-1-en-3-ol and related C8 alcohols/aldehydes
+- The characteristic farinaceous odor is attributed to [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] including oct-1-en-3-ol and related C8 alcohols/aldehydes
 - Contains small amounts of proteins, carbohydrates, and minerals typical of edible agarics
-- No significant bioactive secondary metabolites have been isolated; the species is valued primarily as a food source rather than for medicinal properties
+- No significant bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]] have been isolated; the species is valued primarily as a food source rather than for medicinal properties
 - Nutritional analysis shows moderate levels of potassium, phosphorus, and B vitamins; low fat content and moderate protein (approximately 15–20% dry weight)
 
 ## Cultural and Historical Notes
@@ -113,6 +113,6 @@ The greatest risk in foraging *C. prunulus* is confusion with toxic *Clitocybe* 
 
 ## See Also
 
-- [[psilocybe-cubensis]] — cultivated psychedelic mushroom for spore print comparison
-- [[coprinus-comatus-detailed]] — another edible woodland mushroom with distinctive identification features
+- [[psilocybe-cubensis]] — cultivated [[archaeology-of-psychedelic-mushroom-use]] for spore print comparison
+- [[coprinus-comatus]] — another edible woodland mushroom with distinctive identification features
 - [[russula-cyanoxantha]] — edible russula with mild flavor, shares woodland habitat

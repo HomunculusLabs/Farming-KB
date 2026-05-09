@@ -17,7 +17,7 @@ tree
 
 ## Overview
 Chinese tallow tree is a deciduous, fast-growing, disease-resistant tree
-native to East Asia, notable for producing seeds coated in a white vegetable
+native to [[neurotropic-fungi-japan-east-asia-species-cultural-context]], notable for producing seeds coated in a white vegetable
 wax used for soap, candles, and as a cocoa butter substitute. It is extremely
 adaptable, tolerating poor drainage, saline soils, drought, frost, and even
 extended flooding. In autumn, the foliage produces a brilliant display of red
@@ -40,7 +40,7 @@ and bronze colours contrasting with the white wax-coated seeds.
 ### Environmental Requirements
 - **Soil:** Wide range of soils including poor drainage and saline soils
 - **Elevation:** Coast to 2000 m
-- **Drought tolerance:** Drought tolerant
+- **[[dighton-fungal-drought-tolerance-plant-water-relations]]:** [[permplant-carob-drought-tolerant-food-tree]]
 - **Frost tolerance:** Tolerant; dormant state withstands brief lows to -10C
 - **Waterlogging:** Survived over 2 years in areas flooded by dam
   construction; considered a high moisture plant
@@ -57,7 +57,7 @@ and bronze colours contrasting with the white wax-coated seeds.
 ### Firewood and Timber
 - **Calorific value:** 4134 - 4277 kcal/kg (good firewood)
 - **Burning quality:** Dry wood burns well with pleasant odour
-- **Yield:** 22 cubic metres/ha/year over 4-year growing season
+- **Yield:** 22 cubic metres/ha/year over 4-year [[savory-growing-season-and-non-growing-season-management]]
 - **Coppice yield:** 26 cubic metres/ha/year recorded
 - **Timber uses:** Implement handles, carving; not good for external use;
   may be suitable for pulp

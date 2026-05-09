@@ -1,16 +1,16 @@
 ---
-title: Cannabis Nutrient Lockout And Ph
+title: green-cannabis-nutrient-schedules Lockout And Ph
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 
 # Cannabis Nutrient Lockout and pH Problems
 
-Nutrient lockout is one of the most frustrating problems in cannabis cultivation. It occurs when nutrients are present in the growing medium but become unavailable to the plant roots due to chemical reactions, pH imbalance, or excess concentrations of competing ions. The result is deficiency symptoms even though the grower has been feeding correctly.
+Nutrient lockout is one of the most frustrating problems in [[query-how-does-no-till-cannabis-cultivation-work]]. It occurs when nutrients are present in the growing medium but become unavailable to the plant roots due to chemical reactions, pH imbalance, or excess concentrations of competing ions. The result is deficiency symptoms even though the grower has been feeding correctly.
 
 [[cannabis-ph-management-and-soil-flushing]]
 
@@ -24,7 +24,7 @@ The type of water used can contribute to lockout. Hard water containing high lev
 
 Soil type affects lockout risk. Clay soils tend to hold nutrients tightly and resist pH changes but can lock out nutrients if they become too compacted. Sandy soils drain freely but may not hold nutrients long enough for adequate uptake. Some potting mixes contain ingredients that affect pH, such as dolomite lime (alkaline) or peat moss (acidic).
 
-Contaminated growing media or containers can introduce lockout-causing substances. Residual fertilizer salts in reused pots, chemical residues from cleaning products, or mineral deposits from hard water can all interfere with nutrient availability.
+Contaminated growing media or containers can introduce lockout-causing substances. Residual fertilizer salts in reused pots, chemical residues from cleaning products, or mineral deposits from hard water can all interfere with [[ph-and-nutrient-availability-garden-soils]].
 
 [[cannabis-plant-nutrition]]
 
@@ -34,7 +34,7 @@ The most reliable solution for lockout is to flush the growing medium with clean
 
 After flushing, allow the medium to dry somewhat before resuming feeding at a reduced concentration, approximately half the previous strength. Monitor pH closely during the recovery period. Most plants will show improvement within a few days to a week after flushing and pH correction.
 
-In hydroponic systems, a full reservoir change is the equivalent of flushing. Drain the old solution, clean the reservoir, and refill with fresh nutrient solution at the correct pH and a slightly reduced concentration. Check the pH and electrical conductivity (EC) of the new solution daily.
+In hydroponic systems, a full reservoir change is the equivalent of flushing. Drain the old solution, clean the reservoir, and refill with fresh [[cannabis-nutrient-solution-preparation]] at the correct pH and a slightly reduced concentration. Check the pH and electrical conductivity (EC) of the new solution daily.
 
 For persistent lockout problems that do not resolve with flushing and pH correction, transplanting into fresh growing medium may be necessary. This is a more drastic step but effectively eliminates any accumulated chemical problems in the root zone.
 
@@ -46,7 +46,7 @@ At pH below 5.5 in soil (below 5.0 in hydroponics), excessive acidity causes alu
 
 At pH between 5.5 and 6.5, the optimal range for cannabis in soil, most nutrients are readily available. This is the target range for soil growers. Hydroponic growers aim slightly lower, between 5.5 and 6.0, because the absence of soil buffering means nutrients are more readily absorbed at slightly lower pH.
 
-At pH between 6.5 and 7.5, iron becomes increasingly unavailable, and phosphorus availability begins to decrease. This is the most common pH range where lockout problems appear in cannabis cultivation, as many municipal water supplies have pH in this range.
+At pH between 6.5 and 7.5, iron becomes increasingly unavailable, and [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] begins to decrease. This is the most common pH range where lockout problems appear in cannabis cultivation, as many municipal water supplies have pH in this range.
 
 At pH above 7.5, severe lockout affects iron, manganese, boron, copper, and zinc. Calcareous soils and hard water are common culprits. Growing cannabis in these conditions requires active acidification of the water supply.
 
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

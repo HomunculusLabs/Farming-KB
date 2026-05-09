@@ -1,5 +1,5 @@
 ---
-title: "KNF Phosphoric Acid Deficiency Symptoms"
+title: "KNF cho-water-soluble-phosphoric-acid-preparation [[knf-calcium-deficiency-symptoms]]"
 created: 2026-04-28
 tags: [knf, natural-farming, phosphoric-acid, deficiency, plant-health]
 date: 2026-04-25
@@ -67,7 +67,7 @@ sesame stem charcoal in [[plant-cell-structure-and-organelles]] and is fundament
 ### Materials Needed
 1. Charcoal from sesame stems
 2. Water
-3. Jar or glass jar
+3. Jar or [[sterile-spore-print-collection-glass-jar-technique]]
 4. Porous paper (paper towel)
 5. Rubber band or thread
 
@@ -101,7 +101,7 @@ sesame stem charcoal in [[plant-cell-structure-and-organelles]] and is fundament
    improved yield.
 
 2. WS-PA improves the sugar content of fruits when applied during
-   the reproductive growth stage.
+   the [[knf-reproductive-growth-stage]] stage.
 
 3. Apply WS-PA when the colors of leaves turn light or dark green,
    indicating a potential phosphorus imbalance.
@@ -109,7 +109,7 @@ sesame stem charcoal in [[plant-cell-structure-and-organelles]] and is fundament
 ## Environmental Conditions
 
 1. The optimum temperature ranges from 23 to 25 degrees C for both
-   preparation and application of WS-PA.
+   [[casing-soil-preparation-and-application]] of WS-PA.
 
 2. Select a cool and shaded place with no direct sunlight for
    storage and preparation.

@@ -14,10 +14,10 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://pfaf.org/user/Plant.aspx?LatinName=Styphnolobium+japonicum
-  - Duke, J.A. "Handbook of Medicinal Herbs." CRC Press, 2002.
+  - Duke, J.A. "Handbook of [[permaculture-plants-medicinal-herbs-healing]]." CRC Press, 2002.
   - Nair, K.P.P. "Agroforestry: The Future of Global Land Use." Springer, 2012.
   - Li, X. et al. "Phytochemistry and pharmacology of Sophora japonica." Journal of Pharmacy and Pharmacology, 2014.
-  - Jacke, D. & Toensmeier, E. "Edible Forest Gardens." Chelsea Green, 2005.
+  - Jacke, D. & Toensmeier, E. "Edible [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]." Chelsea Green, 2005.
 ---
 
 # Styphnolobium japonicum (Japanese Pagoda Tree)
@@ -29,13 +29,13 @@ sources:
 ### Pollinator Support
 The late summer bloom period (July–September) fills a critical nectar gap. The flowers produce abundant nectar with moderate sugar concentration (25–40% Brix), yielding:
 - **Honey:** Light amber, mild flavor, slow-granulating; considered premium in some Asian markets ("acacia-like" honey)
-- **Forage value:** High for honeybees (*Apis mellifera*), bumblebees, and native solitary bees
+- **Forage value:** High for honeybees (*Apis mellifera*), bumblebees, and [[comparison-honey-bees-vs-native-solitary-bees]] bees
 
 ### Wildlife Habitat
 - Seeds consumed by songbirds, pigeons, and squirrels in winter
 - Dense canopy provides nesting sites and thermal cover
 - Foliage supports various Lepidoptera species (caterpillar host plant)
-- Bark crevices harbor beneficial insects
+- Bark crevices harbor [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 
 ### Erosion Control
 Deep taproot system (2–4 meters) stabilizes soil on slopes and reduces erosion. Recommended for contour planting in agroforestry systems on grades up to 30%.
@@ -76,7 +76,7 @@ Recommended companion plants in a pagoda tree guild:
 
 ### Propagation
 - **Seed:** Cold stratification (60–90 days at 1–5°C) or acid scarification (concentrated H₂SO₄, 10 min) improves germination from <20% to >80%
-- **Cuttings:** Semi-hardwood cuttings in late summer with rooting hormone; 50–70% success rate
+- **Cuttings:** Semi-hardwood cuttings in late summer with rooting hormone; 50–70% [[maitake-fruiting-body-success-rate-management]]
 - **Grafting:** Used for ornamental cultivars; compatible rootstocks include seedling *S. japonicum*
 
 ### Growing Conditions
@@ -84,7 +84,7 @@ Recommended companion plants in a pagoda tree guild:
 - **Soil:** Adaptable to clay, loam, sandy soils; tolerates pH 5.5–8.0; tolerates urban pollution and compacted soils
 - **Water:** Drought-tolerant once established; moderate water needs during establishment (first 2–3 years)
 - **Sun:** Full sun to partial shade; best flowering in full sun
-- **Salt tolerance:** Moderate — suitable for coastal and roadside plantings
+- **[[fungal-salt-tolerance-and-ion-homeostasis]]:** Moderate — suitable for coastal and roadside plantings
 
 ## Yield and Harvest Calendar
 

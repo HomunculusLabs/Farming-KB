@@ -4,7 +4,8 @@ created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 # Poultry Housing Guide
 
@@ -49,7 +50,7 @@ Proper poultry housing protects birds from predators, weather extremes, and dise
 
 ### Winter Housing Considerations
 - Insulated coops reduce feed consumption (birds burn calories to stay warm)
-- Deep litter method: accumulate bedding (pine shavings, straw) throughout winter; decomposition generates heat
+- [[comparison-deep-litter-vs-hot-composting]] method: accumulate bedding (pine shavings, straw) throughout winter; decomposition generates heat
 - Frostbite prevention: well-ventilated coop is more important than heated one
 - Ensure water doesn't freeze — heated waterers or check multiple times daily
 - Supplement lighting (14-16 hours) to maintain winter egg production
@@ -95,7 +96,7 @@ Poultry manure is high in nitrogen and excellent for composting:
 - Remove dead birds promptly and dispose of properly (composting or burial)
 - Control rodent populations around feed storage areas
 - See [[composting-systems]]
-- [[livestock-feed-management]]
+- livestock-feed-management
 - [[goat-keeping-guide]]
 - [[free-range-poultry-forage-design-mollison]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]]

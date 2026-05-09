@@ -12,7 +12,7 @@ tags: [reference]
 
 Ergot is the common name for the sclerotia (hard, dark masses) produced by
 fungi of the genus Claviceps, which parasitize the inflorescences of grasses
-and cereals. The most important species is Claviceps purpurea, the ergot of rye
+and cereals. The most important species is [[bloomfield-ergot-claviceps-purpurea-ergotism]], the ergot of rye
 (Secale cereale). Ergot has played a dramatic role in European history as the
 cause of devastating epidemics of ergotism (St. Anthony's Fire), as a source
 of medically important alkaloids, and possibly as a psychoactive agent in
@@ -32,7 +32,7 @@ linked with powers of the underworld. While ergot infects a number of
 different grasses, it is best known as a parasite on the inflorescence of rye.
 The sclerotia fall to the ground at harvest time, overwinter in the soil, and
 germinate in the spring to produce spores that infect new grain heads,
-completing the life cycle.
+completing the [[bloomfield-fungal-life-cycle-spiral-versus-circle]].
 
 Other species of Claviceps include:
 
@@ -81,7 +81,7 @@ ergotism.
 ## Chemistry of Ergot
 
 The active ingredients in ergot are indole alkaloids, all derived from the
-same basic compound, lysergic acid. The most important alkaloids in ergot of
+same basic compound, [[ergot-and-lysergic-acid-history]]. The most important alkaloids in ergot of
 rye are:
 
 - **Ergotamine and ergotoxine**: Peptide alkaloids in which lysergic acid is
@@ -100,12 +100,12 @@ rye are:
 Ergot from wild grasses contains essentially simple lysergic acid amides as
 the main active principles. These psychotropic alkaloids may have played a role
 in the convulsive form of ergotism and occur as the main active principles in
-the Mexican morning glory Ololiuqui (Turbina corymbosa) and other
+the [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] glory Ololiuqui ([[plants-of-the-gods-turbina-corymbosa-ololiuqui]]) and other
 bindweeds (see [[morning-glory-entheogens]] -- lysergic acid amide and related compounds --
 are chemically identical to those found in ergot from wild grasses. This
 chemo-taxonomic connection has led to speculation about ecological
 relationships between the fungus and morning glory plants, and about the
-possible role of endophytic fungi in producing the alkaloids found in higher
+possible role of [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]] in producing the alkaloids found in higher
 plants.
 
 ## Modern Medical Importance

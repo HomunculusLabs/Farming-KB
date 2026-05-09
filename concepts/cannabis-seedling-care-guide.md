@@ -1,5 +1,5 @@
 ---
-title: Cannabis Seedling Care Guide
+title: green-cannabis-seedling-care Care Guide
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -18,7 +18,7 @@ The seedling stage spans from when the plant first emerges from the soil until i
 
 When a cannabis seedling first emerges, it has two small rounded leaves called **cotyledons** (or seed leaves). These are embryonic leaves that provide initial energy through photosynthesis. They will eventually yellow and fall off.
 
-**True leaves** are the pointed, serrated leaves that grow after the cotyledons. They have the characteristic cannabis shape and indicate the plant has begun proper vegetative growth.
+**True leaves** are the pointed, serrated leaves that grow after the cotyledons. They have the characteristic cannabis shape and indicate the plant has begun proper [[cannabis-vegetative-growth-stage]].
 
 ## Seedling Environmental Requirements
 
@@ -36,7 +36,7 @@ When a cannabis seedling first emerges, it has two small rounded leaves called *
 - **Night**: Not more than 10°F lower than day temperature
 - **Too cold**: Growth slows dramatically, seedlings may develop purple stems
 - **Too hot**: Seedlings stretch, wilt, and can die
-- **Heat mat**: Useful if ambient temperature is below 70°F. Place under the tray, not touching the containers directly.
+- **Heat mat**: Useful if [[jadam-ambient-temperature-principle]] is below 70°F. Place under the tray, not touching the containers directly.
 
 ### Humidity
 
@@ -56,7 +56,7 @@ When a cannabis seedling first emerges, it has two small rounded leaves called *
 - **Very little water needed**: Seedlings in small containers need only a few tablespoons at a time
 - **Use a spray bottle or small spoon**: Delivers precise amounts without overwatering
 - **Keep surface moist**: Do not let the seedling's root zone dry out
-- **No nutrients**: Seedlings have sufficient stored energy. Feeding in the first 1–2 weeks causes nutrient burn.
+- **No nutrients**: Seedlings have sufficient stored energy. Feeding in the first 1–2 weeks [[query-what-causes-nutrient-burn-in-cannabis-and-how-to-prevent-it]] burn.
 - **Water quality**: Room temperature, pH-adjusted (6.0–7.0 for soil), dechlorinated water
 
 ## Common Seedling Problems
@@ -72,7 +72,7 @@ When a cannabis seedling first emerges, it has two small rounded leaves called *
 
 ### Damping Off
 
-**Cause**: Fungal disease that attacks the stem at the soil line, causing the seedling to fall over and die
+**Cause**: [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] that attacks the stem at the soil line, causing the seedling to fall over and die
 
 **Prevention**:
 - Use sterile growing medium
@@ -103,7 +103,7 @@ This is **normal** after the first 2–3 sets of true leaves appear. The cotyled
 Can be caused by:
 - **Cold temperatures**: The most common cause. Not harmful if other growth is normal.
 - **Genetics**: Some strains naturally have purple stems
-- **Phosphorus deficiency**: Less common in seedlings, usually indicates pH problems
+- **[[query-how-to-fix-phosphorus-deficiency-in-cannabis]]**: Less common in seedlings, usually indicates pH problems
 - Generally not a concern unless accompanied by other symptoms
 
 ## When to Transplant Seedlings

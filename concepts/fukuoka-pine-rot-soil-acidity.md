@@ -54,7 +54,7 @@ Third, the new pathogenic fungi were not strongly parasitic. They only
 attacked trees that were already weakened or physiologically abnormal.
 
 Fourth, the wilting and physiological abnormalities of the red pines were
-caused by root decay and blackening. The onset of this root decline coincided
+caused by [[cannabis-root-decay-cellvibrio-biomarker-post-harvest]] and blackening. The onset of this root decline coincided
 with the death of matsutake mushrooms, which are mycorrhizal symbionts living
 on pine roots.
 
@@ -64,7 +64,7 @@ bristle mold, accelerated by increasing soil acidity.
 ## The Mycorrhizal Connection
 
 Fukuoka's most important insight was the central role of matsutake mushrooms.
-These prized edible mushrooms form mycorrhizal associations with red pine
+These prized [[palmer-edible-mushrooms-north-america]] form mycorrhizal associations with red pine
 roots, exchanging minerals and water for carbohydrates produced by the tree.
 
 When soil acidification killed the matsutake, the pine lost a critical
@@ -81,7 +81,7 @@ soil degradation, not any single organism.
 
 Fukuoka traced the ultimate cause of pine rot to soil acidification. This
 acidification resulted from decades of acid rain, chemical fertilizer runoff,
-and the disruption of natural soil biology through forestry practices.
+and the disruption of natural soil biology through [[mycelium-running-forestry-practices-and-mushrooms]].
 
 Matsutake mushrooms were highly sensitive to soil pH. They died when potted
 pine saplings were exposed to 30°C for one hour, but thrived in alkaline
@@ -97,7 +97,7 @@ Based on his analysis, Fukuoka proposed three treatment methods. First,
 applying lime to reduce soil acidification. In garden settings, this could
 be done by spraying with water containing bleaching powder.
 
-Second, applying soil germicides. In gardens, hydrogen peroxide solution
+Second, applying soil germicides. In gardens, [[cervantes-hydrogen-peroxide-sterilization]] solution
 and alcohol chloropicrin disinfection were acceptable alternatives.
 
 Third, inoculating matsutake spores grown in pure culture to promote root
@@ -117,8 +117,8 @@ The lesson extended beyond forestry. The same pattern of treating symptoms
 rather than causes characterized modern agriculture's approach to crop
 diseases, insect pests, and soil fertility.
 
-Understanding the whole system — soil biology, mycorrhizal networks,
-nutrient cycling, and above-ground ecology — was essential for solving
+Understanding the whole system — soil biology, [[dighton-mycorrhizal-networks-carbon-transfer]],
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and above-ground ecology — was essential for solving
 problems that reductionist approaches could only manage temporarily.
 
 ## See Also

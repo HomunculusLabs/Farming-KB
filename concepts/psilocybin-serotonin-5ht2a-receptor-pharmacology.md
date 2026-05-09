@@ -3,7 +3,7 @@ title: Psilocybin and Serotonin 5-HT2A Receptor Pharmacology
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - The Psilocybin Solution by Simon G. Powell
+  - The powell-psilocybin-solution-ecological-cognition-theory by Simon G. Powell
 type: concept
 tags: [pharmacology, psilocybin, serotonin]
 ---
@@ -12,7 +12,7 @@ tags: [pharmacology, psilocybin, serotonin]
 
 ## Serotonin, Diet, and the Environment
 
-Serotonin has emerged as a key neurotransmitter because it can be produced from raw materials available in food. If the chemical constituency of the natural environment were radically different, Nature would have had to evolve completely different neurotransmitters. In this sense, our very consciousness depends upon the hardware of the brain, which in turn depends upon chemical structure, which further depends upon diet. Natural psilocybin mushrooms enter the diet, and the new chemicals subsequently operating within the brain alter awareness so that consensual serotonergic reality shifts to a rare psilocybinetic reality.
+Serotonin has emerged as a key neurotransmitter because it can be produced from raw materials available in food. If the chemical constituency of the natural environment were radically different, Nature would have had to evolve completely different neurotransmitters. In this sense, our very consciousness depends upon the hardware of the brain, which in turn depends upon chemical structure, which further depends upon diet. Natural [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] enter the diet, and the new chemicals subsequently operating within the brain alter awareness so that consensual serotonergic reality shifts to a rare psilocybinetic reality.
 
 This environmental embeddedness of brain chemistry has profound implications. The various compounds employed by brains in order to process information have evolved over millions of years and they are determined by the chemicals available in the environment, in particular from the raw materials available in food. Serotonin has emerged as a key neurotransmitter because it can be produced from these raw materials. You cannot just have any old chemical compound acting as a neurotransmitter; it has to have arisen through evolution under the deterministic constraints set by the laws of chemistry and the further constraints set by food/raw material availability.
 
@@ -31,6 +31,8 @@ The discovery that psilocybin acts primarily upon 5-HT2 receptors has important 
 The relationship between 5-HT2 receptor activation and the therapeutic potential of psychedelics continues to be an active area of research, with implications for treating depression, anxiety, addiction, and end-of-life distress.
 
 ## See Also
+
+- [[psilocybin-5ht2a-receptor-pharmacology]]
 
 - [[default-mode-network-and-ego-dissolution]]
 - [[information-paradigm-of-consciousness]]
@@ -112,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

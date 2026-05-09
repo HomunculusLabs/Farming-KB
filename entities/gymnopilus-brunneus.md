@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources: []
 ---
 
 # Gymnopilus brunneus
@@ -46,7 +46,7 @@ sometimes forming a fragile annular ring or leaving a fibrillose ring zone on th
 stem. The ring is often ephemeral and may disappear entirely in mature specimens. Length
 ranges from 40 to 100 mm, with a thickness of 5 to 15 mm.
 
-**Spore print:** Rusty brown to orange-brown, a critical identification feature that
+**[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Rusty brown to orange-brown, a critical identification feature that
 separates Gymnopilus from most other gilled mushroom genera.
 
 **Spores:** Ellipsoid to somewhat amygdaliform, with a rough or warty surface ornamentation
@@ -77,10 +77,10 @@ wood. Typical substrates include:
 - Stumps of felled trees, particularly oaks and other broadleaf species
 - Decomposing wood of various species at intermediate stages of decay
 - Occasionally on buried wood or root systems
-- Sometimes on wood chips or woody mulch in landscaped areas
+- Sometimes on [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] or [[permaculture-woody-mulch-systems]] in landscaped areas
 
 The species is typically found in forests and woodlands, particularly in areas with
-abundant coarse woody debris. Fruiting generally occurs from late summer through autumn,
+abundant [[fungal-diversity-leaf-litter-coarse-woody-debris]] debris. Fruiting generally occurs from late summer through autumn,
 though in warmer climates the fruiting season may extend into early winter. The species
 tends to fruit in clusters or scattered groups rather than singly.
 

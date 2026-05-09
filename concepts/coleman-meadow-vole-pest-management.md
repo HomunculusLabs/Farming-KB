@@ -1,5 +1,5 @@
 ---
-title: Meadow Vole Pest Management in Winter Greenhouses
+title: Meadow Vole cannabis-pest-management-guide in Winter Greenhouses
 tags:
   - farming
   - pest-management
@@ -18,14 +18,14 @@ type: concept
 
 # Meadow Vole Pest Management in Winter Greenhouses
 
-Meadow voles (Microtus pennsylvanicus) are the most serious vertebrate pest that [[macadamia]] nut butter from the health food store outperformed standard peanut butter, possibly because its unfamiliar scent did not trigger the same caution reflex
+Meadow voles (Microtus pennsylvanicus) are the most serious [[cervantes-outdoor-vertebrate-pest-control]] that [[mollison-designers-macadamia-nut-in-tropical-polyculture]] butter from the health food store outperformed standard peanut butter, possibly because its unfamiliar scent did not trigger the same caution reflex
 - Adding [[coleman-insects-diseases]]). However, voles present a different kind of challenge than insect pests. While insect problems can often be addressed by improving soil conditions and plant health, mammalian pests are driven by habitat preference and food availability rather than by the physiological condition of the crop plants.
 
-This distinction means that vole management requires a different toolkit than the soil-health approach used for insect and disease prevention. The trap box system is essentially a mechanical exclusion method rather than a biological correction. Nevertheless, it aligns with the overall organic philosophy by avoiding poisons and chemicals while working within the constraints of the natural behavior of the pest species.
+This distinction means that vole management requires a different toolkit than the soil-health approach used for [[vegetable-insect-and-disease-control]] prevention. The trap box system is essentially a mechanical exclusion method rather than a biological correction. Nevertheless, it aligns with the overall organic philosophy by avoiding poisons and chemicals while working within the constraints of the natural behavior of the pest species.
 
 ## Impact on Crop Production
 
-Vole damage in the greenhouse can be significant. The animals feed on root crops in the soil, gnaw on stems and leaves of greens, and disrupt root systems by tunneling through beds. Their nesting activity with row-cover fabric can compromise the inner layer protection that is critical to the double-tempered microclimate of the cold house.
+Vole damage in the greenhouse can be significant. The animals feed on root crops in the soil, gnaw on stems and leaves of greens, and disrupt root systems by tunneling through beds. Their nesting activity with row-cover fabric can compromise the inner [[coleman-double-layer-protection-greenhouse-row-cover]] that is critical to the double-tempered microclimate of the cold house.
 
 The economic impact extends beyond direct crop loss. Vole tunnels create air channels in the soil that can accelerate drying of bed surfaces. Their burrowing can undermine root systems of established crops, reducing yield even when the above-ground damage is not immediately visible. The time and labor required for ongoing trapping represents a real cost that must be factored into the economics of winter production.
 
@@ -62,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -21,7 +21,7 @@ updated: 2026-04-28
 sources:
   - Isely D (1990). "Vascular Flora of the Southeastern United States, Vol. 3, Part 2: Leguminosae." University of North Carolina Press.
   - Baskauf CJ, McCauley DE (1992). "Allozyme Variation in Kentucky Coffeetree." American Journal of Botany 79(12): 1292–1297.
-  - Burns RM, Honkala BH (1990). "Silvics of North America, Vol. 2: Hardwoods." USDA Forest Service Agriculture Handbook 654.
+  - Burns RM, Honkala BH (1990). "Silvics of [[psilocybin-north-america-pacific-northwest]], Vol. 2: Hardwoods." USDA Forest Service Agriculture Handbook 654.
   - Dirr MA (2009). "Manual of Woody Landscape Plants." 6th ed. Stipes Publishing.
   - Farrar JL (1995). "Trees in Canada." Fitzhenry & Whiteside / Canadian Forest Service.
 ---
@@ -30,7 +30,7 @@ sources:
 
 **Gymnocladus dioicus** (L.) K. Koch, commonly known as the **Kentucky coffeetree**, is a large deciduous tree in the family Fabaceae (subfamily Caesalpinioideae).
 
-Native to the central and eastern United States and extreme southern Ontario, it is a striking ornamental tree valued for its bold, bipinnate foliage, coarse winter silhouette, and exceptional drought and urban stress tolerance.
+Native to the central and eastern United States and extreme southern Ontario, it is a striking ornamental tree valued for its bold, bipinnate foliage, coarse winter silhouette, and exceptional drought and urban [[fungal-lichen-stress-tolerance-and-poikilohydry]].
 
 The species was historically used as a coffee substitute — roasted seeds were brewed into a caffeine-free coffee-like beverage by early settlers and Native Americans. Raw seeds contain cytotoxic alkaloids and are toxic if unroasted.
 
@@ -46,7 +46,7 @@ Mature height is 18–25 m, with a spread of 12–18 m. Growth rate is moderate 
 
 The trunk is straight and robust, up to 90 cm diameter, with dark grey-brown, deeply furrowed bark that develops a distinctive scaly or plate-like pattern.
 
-Leaves are the largest of any native North American tree — bipinnately compound, 60–120 cm long, with 3–7 pairs of pinnae, each bearing 6–14 leaflets. Leaflets are ovate, 3–5 cm long, blue-green above, lighter below.
+Leaves are the largest of any native [[growing-gourmet-north-american-reishi-species]] tree — bipinnately compound, 60–120 cm long, with 3–7 pairs of pinnae, each bearing 6–14 leaflets. Leaflets are ovate, 3–5 cm long, blue-green above, lighter below.
 
 **Winter silhouette is distinctive:** the tree appears almost leafless with thick, angular branches and a coarse, "dead-looking" aspect that contrasts sharply with most deciduous trees.
 
@@ -68,7 +68,7 @@ The species is listed as endangered or threatened in several states (New York, P
 
 Kentucky coffeetree is propagated primarily from seed, which requires **scarification and stratification** — seeds have an extremely hard seed coat and dormant embryo. Hot water scarification (85°C, 12 hours) followed by 90–120 days cold stratification gives reliable germination.
 
-Seedlings establish a deep taproot within the first year, making transplanting difficult after the first growing season. Container-grown stock should be planted as 1- or 2-year-olds.
+Seedlings establish a deep taproot within the first year, making transplanting difficult after the first [[savory-growing-season-and-non-growing-season-management]]. Container-grown stock should be planted as 1- or 2-year-olds.
 
 Growth rate in cultivation is moderate: 30–60 cm/year under optimal conditions. Trees begin flowering at approximately 8–12 years from seed.
 
@@ -84,7 +84,7 @@ Its late leaf emergence avoids damage from late spring frosts that can defoliate
 
 ## Ecological Role
 
-As a member of Fabaceae, Kentucky coffeetree forms **root nodules** containing nitrogen-fixing rhizobia, though the nitrogen fixation rate is moderate compared to other leguminous trees.
+As a member of Fabaceae, Kentucky coffeetree forms **root nodules** containing nitrogen-fixing rhizobia, though the [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] rate is moderate compared to other leguminous trees.
 
 The large, compound foliage provides dense shade in summer, creating a cool microclimate beneath the canopy. Late leaf emergence (late May in most regions) allows early-season understory growth.
 
@@ -112,7 +112,7 @@ Kentucky coffeetree has several properties that make it valuable in designed eco
 
 ** coppice potential:** The species resprouts vigorously from cut stumps, though coppice management is less common than with other leguminous trees.
 
-In food forest design, Kentucky coffeetree serves as a high-canopy nitrogen-fixing overstory element, providing shade, wind protection, and biological nitrogen input for productive understory layers.
+In food forest design, Kentucky coffeetree serves as a high-canopy nitrogen-fixing overstory element, providing shade, wind protection, and [[biological-nitrogen-fixation-agriculture]] input for productive understory layers.
 
 The roasted seed beverage, while largely a historical curiosity, represents an interesting case study in indigenous and settler ethnobotany — a caffeine-free coffee substitute from a native North American tree.
 

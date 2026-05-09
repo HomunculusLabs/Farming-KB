@@ -1,5 +1,5 @@
 ---
-title: Coprine, Disulfiram, and the Alcohol Reaction of Coprinus atramentarius
+title: Coprine, Disulfiram, and the bloomfield coprine disulfiram alcohol reaction coprinus atramentarius of Coprinus atramentarius
 created: 2026-04-28
 tags:
   - mycology
@@ -29,13 +29,13 @@ of acetaldehyde, an intermediate product of ethanol breakdown,
 causing it to accumulate to toxic levels. The resulting syndrome
 is clinically identical to the disulfiram-ethanol reaction produced
 by Antabuse, used for decades to treat alcoholism. As with the
-toxins of Amanita species, mushroom compounds like coprine were
+toxins of Amanita species, [[medicinal-mushroom-compounds-and-health-benefits]] like coprine were
 not designed for human use, and we have no idea what service, if
 any, they perform for the fungus.
 
 ## The Inkcap Mushrooms
 
-In the fall, fruiting bodies of the lawyer's wig, Coprinus comatus,
+In the fall, fruiting bodies of the lawyer's wig, [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]],
 emerge from wet lawns as white spindles with rounded tips, extend to
 six inches or more, and unfurl their caps before dissolving
 (deliquescing) into black slime. Picked before they begin to
@@ -45,7 +45,7 @@ but contain a toxin called coprine. The genus Coprinus belongs to
 the family Coprinaceae within the Agaricales, and its members are
 commonly known as inkcaps because the gills of mature fruiting
 bodies liquefy into a dark, ink-like fluid containing the spores.
-This autodigestion serves as a spore dispersal mechanism: as the
+This autodigestion serves as a [[aquatic-fungi-spore-dispersal-ingold]] mechanism: as the
 gills dissolve from the bottom upward, progressively shorter gills
 continuously expose new surfaces bearing immature spores, allowing
 the mushroom to release spores over an extended period. Coprinus
@@ -132,14 +132,17 @@ ecological function remains speculative.
 Coprine is one of several classes of mushroom toxins alongside the
 amatoxins of Amanita, renal toxins of Cortinarius webcaps, the
 volatile gyromitrin of false morels, and hallucinogens of Psilocybe
-and Amanita muscaria. Each operates through a distinct biochemical
+and [[allegro-amanita-muscaria-properties-and-pharmacology]]. Each operates through a distinct biochemical
 mechanism, but none appears specifically evolved for harming humans.
 
 ## See Also
 
 - [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]]
-- [[bloomfield-morel-morchella-ascocarp-cup-fungi-truffle-evolution]]
+- bloomfield-morel-morchella-ascocarp-cup-fungi-truffle-evolution
 
 ## See Also
 
 - [[bloomfield-coprinus-ink-caps-deliquescence-coprine]]
+- [[amanita-muscaria]]
+- [[spore-dispersal]]
+- [[coprinus-comatus]]

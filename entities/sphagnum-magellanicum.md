@@ -53,9 +53,9 @@ Spores are 20–30 μm in diameter, finely papillose, and yellowish-brown.
 
 ## Distribution and Habitat
 
-*S. magellanicum* has a broad circumboreal distribution across North America, Europe, and Asia.
+*S. magellanicum* has a broad circumboreal distribution across [[psilocybin-north-america-pacific-northwest]], Europe, and Asia.
 
-It occurs from Alaska and northern Canada southward through the northern United States, the British Isles, Scandinavia, and Russia.
+It occurs from Alaska and northern Canada southward through the northern [[dmt-containing-plants-united-states-halpern]], the British Isles, Scandinavia, and Russia.
 
 Southern disjunct populations exist in the Andes of South America, New Zealand, and southeastern Australia.
 
@@ -73,13 +73,13 @@ Elevation ranges from sea level in boreal regions to over 3,000 m in tropical mo
 
 *Sphagnum magellanicum* is a keystone species in peatland ecosystems and a major driver of peat accumulation.
 
-Like all *Sphagnum* species, it acidifies its surroundings through cation exchange, creating conditions unfavorable for most vascular plants.
+Like all *Sphagnum* species, it acidifies its surroundings through [[mollison-designers-tropical-soils-and-cation-exchange-management]], creating conditions unfavorable for most vascular plants.
 
 The hyaline cells in its leaves can absorb and retain water up to 20 times the moss's dry weight, acting as a living sponge.
 
-This water-holding capacity maintains the waterlogged, anaerobic conditions necessary for peat formation and carbon storage.
+This water-holding capacity maintains the waterlogged, anaerobic conditions necessary for peat formation and [[holmgren-soil-humus-carbon-storage-rebuilding]].
 
-*S. magellanicum* contributes significantly to global carbon sequestration through the accumulation of partially decomposed plant material as peat.
+*S. magellanicum* contributes significantly to global [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] through the accumulation of partially decomposed plant material as peat.
 
 Northern peatlands dominated by this and related *Sphagnum* species store an estimated 30% of global soil carbon.
 
@@ -119,7 +119,7 @@ The species faces significant conservation challenges due to peatland drainage f
 
 An estimated 15–20% of global peatlands have been drained or degraded, reducing habitat for *S. magellanicum* and associated species.
 
-Climate change poses additional threats through altered precipitation patterns and increased frequency of summer drought.
+[[dighton-fungi-climate-change-feedback]] poses additional threats through altered precipitation patterns and increased frequency of summer drought.
 
 Conservation efforts focus on peatland restoration, including rewetting drained sites and reintroducing *Sphagnum* from cultivated stock.
 

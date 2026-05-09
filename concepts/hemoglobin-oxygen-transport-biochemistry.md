@@ -1,5 +1,5 @@
 ---
-title: "Hemoglobin Oxygen Transport Biochemistry"
+title: "Hemoglobin hemoglobin-oxygen-transport-biochemistry Biochemistry"
 created: 2026-04-28
 updated: 2026-05-06
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Hemoglobin (Hb) is a tetrameric metalloprotein responsible for transporting molecular oxygen (O2) from the lungs to peripheral tissues and facilitating the return transport of carbon dioxide (CO2) and nitric oxide (NO). Found in erythrocytes at concentrations of ~2.5 mM (about 34 g/dL packed-cell), a single human red blood cell contains roughly 270 million hemoglobin molecules. Hemoglobin accounts for over 90% of the dry mass of mature erythrocytes and is the most abundant protein in the human body.
+Hemoglobin (Hb) is a tetrameric metalloprotein responsible for transporting molecular oxygen (O2) from the lungs to peripheral tissues and facilitating the return transport of [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] (CO2) and nitric oxide (NO). Found in erythrocytes at concentrations of ~2.5 mM (about 34 g/dL packed-cell), a single human red blood cell contains roughly 270 million hemoglobin molecules. Hemoglobin accounts for over 90% of the [[brassinosteroid-mushroom-yield-dry-mass]] of mature erythrocytes and is the most abundant protein in the human body.
 
 ## Primary Structure and Globin Gene Families
 
@@ -43,7 +43,7 @@ A sigmoidal curve provides a physiological advantage: hemoglobin loads O2 effici
 
 ## The Bohr Effect
 
-The Bohr effect describes the pH and CO2 dependence of hemoglobin's oxygen affinity. In metabolically active tissues, increased CO2 production lowers pH (via carbonic anhydrase: CO2 + H2O -> H2CO3 -> H+ + HCO3-). Lower pH stabilizes the T state by protonating specific residues (notably His146-beta, the C-terminal His, and Val1-alpha), strengthening inter-subunit salt bridges. The result is a rightward shift of the ODC: decreased O2 affinity, promoting unloading where O2 is needed most.
+The Bohr effect describes the pH and CO2 dependence of hemoglobin's oxygen affinity. In  tissues, increased CO2 production lowers pH (via carbonic anhydrase: CO2 + H2O -> H2CO3 -> H+ + HCO3-). Lower pH stabilizes the T state by protonating specific residues (notably His146-beta, the C-terminal His, and Val1-alpha), strengthening inter-subunit salt bridges. The result is a rightward shift of the ODC: decreased O2 affinity, promoting unloading where O2 is needed most.
 
 The Bohr coefficient is approximately -0.48 for HbA (a drop of 0.1 pH unit increases P50 by ~3-4 mmHg). The reciprocal Haldane effect describes how deoxygenated hemoglobin binds CO2 and H+ more readily, facilitating CO2 transport back to the lungs.
 
@@ -91,7 +91,7 @@ cannabis sickle cell results from a single point mutation in the beta-globin gen
 Thalassemias are quantitative defects in globin chain synthesis, classified by which chain is deficient:
 
 - **Alpha-thalassemia**: Caused by deletions of one or more of the four alpha-globin genes. Severity ranges from silent carrier (one gene deleted) to HbH disease (three deleted, with beta-4 tetramers causing mild-to-moderate hemolytic anemia) to hydrops fetalis (all four deleted, lethal in utero without intervention).
-- **Beta-thalassemia**: Caused by point mutations or small deletions in the beta-globin gene that reduce (beta+) or abolish (beta-0) beta-chain production. Unpaired alpha chains precipitate, damaging erythroid precursors and causing ineffective erythropoiesis. Beta-thalassemia major (Cooley's anemia) requires lifelong transfusion and [[fungi-of-southeast-asia]]; mildly unstable, causes microcytosis; compound heterozygotes with beta-thalassemia produce severe disease.
+- **Beta-thalassemia**: Caused by point mutations or small deletions in the beta-globin gene that reduce (beta+) or abolish (beta-0) beta-chain production. Unpaired alpha chains precipitate, damaging erythroid precursors and causing ineffective erythropoiesis. Beta-thalassemia major (Cooley's anemia) requires lifelong transfusion and fungi-of-southeast-asia; mildly unstable, causes microcytosis; compound heterozygotes with beta-thalassemia produce severe disease.
 - **Methemoglobinemia**: Either congenital (cytochrome b5 reductase deficiency) or acquired (oxidant drugs, nitrates), causing functional anemia and cyanosis due to Fe3+-heme that cannot bind O2.
 
 ## Evolutionary Aspects
@@ -110,5 +110,6 @@ Hemoglobin is an exquisitely optimized molecular machine whose allosteric proper
 
 - [[query-how-does-hemoglobin-know-when-to-release-oxygen]] Topics
 
-- [[fungal-vacuolar-systems-and-nutrient-transport]]
+- fungal-vacuolar-systems-and-nutrient-transport
 - [[fungal-single-cell-protein-production]]
+- [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]]

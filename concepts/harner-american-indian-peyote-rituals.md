@@ -1,5 +1,5 @@
 ---
-title: American Indian Peyote Rituals
+title: harner american indian peyote rituals Peyote Rituals
 created: 2026-04-28
 tags:
   - anthropology
@@ -17,14 +17,14 @@ type: concept
 # American Indian [[lophophora-williamsii]]), containing the psychoactive
 alkaloid mescaline, has one of the most extensively documented histories
 of ceremonial use of any hallucinogenic plant. From its ancient roots in
-indigenous Mexican cultures to its adoption by the Native American Church
+[[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] cultures to its adoption by the [[halpern-sacramental-peyote-and-native-american-church]] Church
 and its unusual rejection by the Mescalero Apache, peyote illustrates
 how cultural context determines whether hallucinogenic plants become
 sacred medicines, dangerous witchcraft tools, or objects of proscription.
 
 ## The Native American Church
 
-Probably the most famous combination of hallucinogenic drug use and
+Probably the most famous combination of [[emcdda-hallucinogenic-drug-classification-and-terminology-taxonomy]] use and
 Christianity is the Native American Church, whose practitioners are
 American Indians in the United States who have largely adopted the
 mescaline-containing peyote since the latter part of the nineteenth
@@ -94,14 +94,14 @@ for witchcraft and love magic.
 ## Cross-Cultural Patterns
 
 The Mescalero case contrasts with the amiable, harmonious group sessions
-of peyote use in other North American tribes and with the similarly
+of peyote use in other [[growing-gourmet-north-american-reishi-species]] tribes and with the similarly
 communal use of [[psilocybin]], and DMT, are structurally related
 [[serotonin]]
 receptors in the brain to produce their characteristic effects.
 
 ## Legacy and Legal Status
 
-The Native American Church has been at the center of legal battles over
+The Native American Church has been at the center of [[sacramental-ayahuasca-legal-battles-united-states]] over
 religious freedom and drug policy in the United States. While peyote
 remains a Schedule I controlled substance under federal law, the
 American Indian Religious Freedom Act and subsequent court decisions

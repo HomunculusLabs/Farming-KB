@@ -55,7 +55,7 @@ The dosage (15-25 mg) requires accurate milligram measurement.
 
 Some gastrointestinal discomfort during onset has been reported.
 
-As with all optical isomers psychedelic phenethylamines, HOT-7 should not be combined with MAOIs or other serotonergic substances.
+As with all optical [[optical-isomers-psychedelic-phenethylamines]] phenethylamines, HOT-7 should not be combined with MAOIs or other serotonergic substances.
 
 The compound has not been studied for long term toxicity.
 
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

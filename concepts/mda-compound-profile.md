@@ -1,5 +1,5 @@
 ---
-title: MDA Compound Profile
+title: shulgin-mda-compound-profile Profile
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -36,7 +36,7 @@ MDA combines psychedelic and empathogenic/entactogenic qualities. Shulgin's repo
 - Enhanced sensory perception
 - Deep introspective potential
 
-At moderate doses (100-120 mg), MDA produces a full-spectrum psychedelic experience with more visual intensity than [[mdma-in-pihkal-context]] but somewhat less emotional warmth. The stimulant component is more pronounced, and the overall experience tends to be more "edgy" or intense.
+At moderate doses (100-120 mg), MDA produces a full-spectrum [[leary-psychedelic-experience-bardo-mapping]] with more visual intensity than [[mdma-in-pihkal-context]] but somewhat less emotional warmth. The stimulant component is more pronounced, and the overall experience tends to be more "edgy" or intense.
 
 ## History
 
@@ -87,3 +87,7 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[mdo-compound-profile]]
+- [[mde-compound-profile]]

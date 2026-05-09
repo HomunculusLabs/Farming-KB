@@ -12,7 +12,7 @@ tags:
 sources:
   - Gene, J. (1972). "Agaricus xanthodermus and Related Species." Persoonia.
   - Capelli, F. (1984). "Agaricus L. (Fungi, Basidiomycotina)." Quaderni della Civica Stazione di Milano.
-  - Kerrigan, R.W. (2016). "Agaricus of North America." Memoirs of the New York Botanical Garden.
+  - Kerrigan, R.W. (2016). "Agaricus of [[psilocybin-north-america-pacific-northwest]]." Memoirs of the New York Botanical Garden.
   - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press.
   - Boertmann, D. (1995). "The Genus Agaricus in Denmark." Danish Mycological Society.
 ---
@@ -22,9 +22,9 @@ sources:
 **Agaricus xanthodermus**, commonly known as the yellow-stainer, is a basidiomycete
 fungus in the family Agaricaceae. It is one of the most commonly encountered toxic
 mushrooms in the genus *Agaricus*, frequently mistaken for the edible field mushroom
-(*A. campestris*) or cultivated button mushroom (*A. bisporus*).
+(*A. campestris*) or cultivated [[growing-gourmet-button-mushroom-agaricus-cultivation]] (*A. bisporus*).
 
-The species is responsible for the majority of mushroom poisoning incidents involving
+The species is responsible for the majority of [[european-mushroom-poisoning-history]] incidents involving
 the *Agaricus* genus, though its effects are generally gastrointestinal rather than
 life-threatening. Rapid yellowing of the flesh upon cutting is the key diagnostic
 character separating it from edible relatives.

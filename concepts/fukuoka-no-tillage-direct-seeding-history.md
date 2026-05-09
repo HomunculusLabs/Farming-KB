@@ -1,18 +1,19 @@
 ---
-title: Fukuoka No Tillage Direct Seeding History
+title: Fukuoka No fukuoka no tillage direct seeding history Seeding History
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka No-Tillage Direct Seeding History
 
 Updated: 2026-04-19
 
-Masanobu Fukuoka documents the long experimental journey that led to his direct-seeding, no-tillage rice/barley succession method in *The Natural Way of Farming*. The development took over twenty years of observation, failure, and incremental insight.
+Masanobu Fukuoka documents the long experimental journey that led to his direct-seeding, no-tillage rice/[[direct-seeded-no-tillage-rice-barley-succession-in-clover]] method in *The Natural Way of Farming*. The development took over twenty years of observation, failure, and incremental insight.
 
 ## Early Experiments (1945 Onward)
 
@@ -48,7 +49,7 @@ See also [[fukuoka-white-clover-ground-cover]].
 
 Fukuoka's barley method progressed from high-ridge to low-ridge to level-field cultivation, with the rice direct-seeding method following suit. He moved from wide 18-inch row spacing to narrow 6-8 inch rows, then to individual planting at 6 by 8 inch intervals, and finally to broadcasting naked barley over the entire surface without plowing or tilling. This was the start of the no-tillage direct-seeding of naked barley.
 
-The barley cultivation evolved through three distinct stages: (1) tillage and ridge cultivation, (2) level-row, light-tillage or no-tillage cultivation, and (3) natural cropping based on no-tillage cultivation. Each stage reduced human intervention and moved closer to the natural pattern of grass family growth.
+The [[fukuoka-textdoc-barley-cultivation-three-stage-no-tillage-evolution]] evolved through three distinct stages: (1) tillage and ridge cultivation, (2) level-row, light-tillage or no-tillage cultivation, and (3) natural cropping based on no-tillage cultivation. Each stage reduced human intervention and moved closer to the natural pattern of grass family growth.
 
 ## The Unthinkable Decision
 
@@ -72,7 +73,7 @@ The method was later studied at a large number of agricultural testing stations 
 
 ## Philosophy: One Thing is All Things
 
-The development reflects Fukuoka's fundamental insight: "One thing is all things. To resolve one matter, one must resolve all matters. Changing one thing changes all things." Once he decided to sow rice in the fall, he found he could also stop transplanting, plowing, applying chemical fertilizers, preparing compost, and spraying pesticides. Natural farming treats everything as part of a whole, while scientific farming divides rice cultivation into narrow specialties.
+The development reflects Fukuoka's fundamental insight: "One thing is all things. To resolve one matter, one must resolve all matters. Changing one thing changes all things." Once he decided to sow rice in the fall, he found he could also stop transplanting, plowing, applying [[cervantes-chemical-fertilizers-guide]], preparing compost, and spraying pesticides. [[comparison-natural-farming-vs-permaculture]] treats everything as part of a whole, while [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] divides rice cultivation into narrow specialties.
 
 See also [[fukuoka-rice-barley-no-till-method]].
 

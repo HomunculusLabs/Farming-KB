@@ -1,27 +1,22 @@
 ---
-title: "Disaster Preparedness in Permaculture Design"
+title: "Disaster Preparedness in permaculture-design"
 created: 2026-04-28
-tags: [[permaculture, disaster-preparedness, resilience, fire, flood,
-       wind, site-analysis, permaculture-design]
+tags: [permaculture, disaster-preparedness, resilience, fire, flood, wind, site-analysis, permaculture-design]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+sources: [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-
-# Disaster Preparedness in [[integrate-rather-than-segregate]] relying solely on
-emergency response services after the fact, the permaculture approach
-integrates resilience into the [[hemenway-greywater-design-philosophy]]. Permaculture asks
+# Disaster Preparedness in integrate-rather-than-segregate relying solely on emergency response services after the fact, the permaculture approach integrates resilience into the [[hemenway-greywater-design-philosophy]]. Permaculture asks
 us to design in a way that protects people from these predictable
 events.
 
 ## Integrating Disaster Analysis into Design
 
-An integral part of the [[pdc-disaster-preparedness]]
+An integral part of the pdc-disaster-preparedness
 ## Practical Applications
 
-Disaster Preparedness in Permaculture Design has a range of practical applications that make it relevant to
+Disaster Preparedness in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -36,7 +31,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -61,7 +56,7 @@ enables more sustainable and successful long-term implementations.
 ## Common Challenges
 
 Practitioners commonly encounter several challenges when working with
-Disaster Preparedness in Permaculture Design. These include both technical difficulties and broader systemic
+Disaster Preparedness [[mollison-lawn-reform-and-alternatives-in-permaculture-design]]. These include both technical difficulties and broader systemic
 issues that require adaptive management and creative problem-solving.
 Awareness of these common challenges enables more proactive planning
 and faster resolution when issues do arise during implementation.
@@ -86,7 +81,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -96,4 +91,6 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[winter-storm-preparedness]]
+- [[williams-pdc-earthworks]]

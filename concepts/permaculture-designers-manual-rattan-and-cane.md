@@ -18,7 +18,7 @@ updated: 2026-04-18
 Rattan (from the Malay "rotan") refers to approximately 600 species of climbing palms in the subfamily Calamoideae, native to [[permaculture-design-course-methodology]], rattan and other climbing palms are integrated into:
 - Mixed-species [[food-forest]] understories
 - Riparian buffer zones
-- Community forest management areas
+- Community [[mollison-pdc-forest-management-products]] areas
 
 ## Species and Growth Habits
 
@@ -118,7 +118,7 @@ Sustainable rattan harvesting involves:
 ### In Tropical Food Forests
 
 Rattan can be integrated into food forest systems as:
-- Understory climbing species among comparison pruning fruit
+- Understory climbing species among comparison [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 - Additional income source from established orchards
 - Support species providing craft materials
 - Part of the species diversity that strengthens the overall system

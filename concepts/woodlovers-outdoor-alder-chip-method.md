@@ -1,5 +1,5 @@
 ---
-title: Woodlovers Outdoor Alder Chip Method
+title: Woodlovers woodlovers outdoor alder chip method Chip Method
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -50,7 +50,7 @@ Alder offers several advantages as a cultivation substrate:
 ### Supplementation (Optional)
 For spawn bags, adding a nitrogen supplement accelerates colonization:
 - 1/2 cup oatmeal per bag
-- Or boiled grass seed (same quantity)
+- Or boiled [[disposable-tray-casing-method-grass-seed-substrate]] (same quantity)
 - This is particularly beneficial for alder since it already has elevated nitrogen; the supplement pushes growth speed further
 
 ### Sterilization
@@ -60,7 +60,7 @@ For spawn bags, adding a nitrogen supplement accelerates colonization:
 - The longer bag sterilization is necessary due to the greater thermal mass and less uniform heat penetration
 
 ### Inoculation and Incubation
-1. Inoculate cooled bags/jars with grain spawn or agar wedges
+1. Inoculate cooled bags/jars with [[comparison-grain-spawn-vs-grain-to-grain-transfer]] or agar wedges
 2. Shake to distribute inoculum
 3. Incubate at 20C for 3-4 weeks
 4. Spawn is ready when fully white, compact, and mushroom-scented
@@ -98,6 +98,6 @@ Alder chips work well for all major woodlovers:
 
 ## See Also
 
-- [[azurescens-spawn-preparation-grain-to-wood]] — spawn production methods
+- [[azurescens-spawn-preparation-grain-to-wood]] — [[growing-gourmet-sawdust-spawn-production-use]] methods
 - [[mushroom-substrates]] — broader substrate options
 - [[outdoor-wood-lover-cultivation]] — complete outdoor cultivation guide

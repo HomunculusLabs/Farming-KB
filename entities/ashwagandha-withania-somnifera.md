@@ -42,13 +42,13 @@ Ashwagandha is a drought-tolerant crop suited to sandy loam soils with pH 7.5–
 
 ## Safety & Side Effects
 
-Ashwagandha is generally well tolerated at standard doses. Reported adverse effects are mild and include:
+Ashwagandha is generally well tolerated at standard doses. Reported [[blesching-cannabis-safety-adverse-effects-evidence]] are mild and include:
 
 - Gastrointestinal discomfort (nausea, diarrhea) at doses >3,000 mg/day of root powder
 - Drowsiness (related to GABAergic activity)
 - Headache (rare)
 
-Pregnancy is a strict contraindication — ashwagandha has demonstrated abortifacient activity in animal studies. It is classified as possibly unsafe during lactation. The Memorial Sloan Kettering Integrative Medicine database notes theoretical concern regarding immunostimulatory effects in autoimmune conditions, though clinical evidence is lacking.
+Pregnancy is a strict contraindication — ashwagandha has demonstrated abortifacient activity in animal studies. It is classified as possibly unsafe during lactation. The Memorial Sloan Kettering Integrative Medicine database notes theoretical concern regarding immunostimulatory effects in [[cannabis-autoimmune-conditions-detailed]], though clinical evidence is lacking.
 
 ## Drug Interactions
 
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

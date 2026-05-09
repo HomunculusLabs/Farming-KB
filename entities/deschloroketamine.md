@@ -77,7 +77,7 @@ The absence of the chloro group reduces lipophilicity compared to ketamine, affe
 ### Dissociative Spectrum
 
 - **Hole dose (full dissociation):** 150–250 mg oral; 75–125 mg insufflated
-- **K-hole equivalent:** Achievable with ego dissolution, out-of-body sensations, and profound sensory detachment
+- **K-hole equivalent:** Achievable with [[psilocybin-ego-dissolution-mechanisms]], out-of-body sensations, and profound sensory detachment
 - **Common low-dose effects:** Mood elevation, mild perceptual distortion, numbness, floating sensation
 
 ### Subjective Effects Profile
@@ -116,8 +116,8 @@ Visual effects are less pronounced while dissociative depth is comparable at equ
 ## Legal Status
 
 - **International:** Not scheduled under the UN Convention on Psychotropic Substances
-- **United States:** Not federally scheduled (2024); may fall under Federal Analog Act
-- **United Kingdom:** Class B under the Psychoactive Substances Act (2016)
+- **[[dmt-containing-plants-united-states-halpern]]:** Not federally scheduled (2024); may fall under Federal Analog Act
+- **United Kingdom:** Class B under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] (2016)
 - **Germany:** Controlled under NpSG (New Psychoactive Substances Act)
 - **Schedule varies** across EU member states; many have emergency scheduling
 

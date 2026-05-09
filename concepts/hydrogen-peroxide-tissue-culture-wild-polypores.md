@@ -1,5 +1,5 @@
 ---
-title: "Hydrogen Peroxide Tissue Culture for Wild Polypores"
+title: "cervantes-hydrogen-peroxide-sterilization comparison-seed-saving-techniques-vs-tissue-culture-cloning for Wild Polypores"
 created: 2026-04-28
 tags:
   - tissue-culture
@@ -16,10 +16,10 @@ type: concept
 
 # Hydrogen Peroxide Tissue Culture for Wild Polypores
 
-Cloning wild polypores presents unique challenges compared to gilled mushrooms.
+[[growing-gourmet-cloning-wild-vs-cultivated-mushrooms]] polypores presents unique challenges compared to gilled mushrooms.
 Polypores generally lack the soft, fluffy interior tissue that readily leaps
 onto agar plates. Their dense, woody or leathery fruiting bodies resist
-standard tissue culture techniques, forcing cultivators to develop specialized
+standard tissue [[agar-culture-techniques-detailed]], forcing cultivators to develop specialized
 methods. Hydrogen peroxide treatment is one of the most effective approaches
 for surface-sterilizing and culturing these difficult fungi, as documented by
 Tradd Cotter in his work with wild mushroom isolation.
@@ -37,7 +37,7 @@ cutting or hacking into the colonized deadwood beneath the fruiting body where
 white rot fungi are visible as bright white growths. The wood is chopped into
 small bits and placed in a test tube or plastic ziplock bag, covered with 3
 percent hydrogen peroxide, sealed, and refrigerated overnight. The wood bits
-are then transferred to [[agar-culture-work]]
+are then transferred to agar-culture-work
 healthy mycelium to fresh plates on short notice if contaminants appear.
 
 ## The Submersion Technique for Difficult Specimens
@@ -63,7 +63,7 @@ recommended by Dr. Bob Blanchette can be used for screening cultures:
 - 1,000 ml distilled water
 - 15 g malt extract
 - 15 g agar
-- 2 g yeast extract
+- 2 g [[marmite-yeast-extract-straw-substrate]]
 - 0.06 g Benlate (50% wettable powder, a fungicide)
 
 Autoclave for 20 minutes, cool to 113-122 degrees Fahrenheit (45-50 degrees
@@ -89,11 +89,13 @@ viable tissue.
 ## Spore Prints as Backup
 
 Whenever attempting tissue culture from a wild polypore, making a spore  print simultaneously is advisable. If the tissue culturing does not produce
-clean isolates, spore germination provides an alternative path to establishing
+clean isolates, [[growing-gourmet-spore-germination-strain-isolation]] provides an alternative path to establishing
 the culture, though it will produce a different genetic individual than the
 parent mushroom rather than an exact clone.
 
 ## See Also
 
-- [[stamets-spore-germination-and-tissue-culture]] for Stamets' approach
+- [[comparison-tissue-culture-vs-wild-isolation]]
+
+- stamets-spore-germination-and-tissue-culture for Stamets' approach
 - [[agar-work-guide]] for comprehensive agar work techniques

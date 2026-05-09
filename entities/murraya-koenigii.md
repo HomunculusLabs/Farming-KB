@@ -20,9 +20,9 @@ sources:
 
 ## Overview
 
-**Murraya koenigii**, commonly known as **curry leaf** or **curry tree**, is an aromatic deciduous shrub or small tree in the family Rutaceae. It is native to the Indian subcontinent and is cultivated throughout South and Southeast Asia for its aromatic leaves, which are an essential ingredient in South Indian, Sri Lankan, and Southeast Asian cuisines.
+**Murraya koenigii**, commonly known as **curry leaf** or **curry tree**, is an aromatic deciduous shrub or small tree in the family Rutaceae. It is native to the Indian subcontinent and is cultivated throughout South and [[psilocybe-southeast-asia-pacific]] for its aromatic leaves, which are an essential ingredient in South Indian, Sri Lankan, and Southeast Asian cuisines.
 
-The leaves contain a complex mixture of volatile terpenoids and carbazole alkaloids with documented antioxidant, anti-inflammatory, and hypoglycemic activities. In Ayurvedic medicine, the plant is used to treat digestive disorders, diabetes, and skin conditions.
+The leaves contain a complex mixture of volatile terpenoids and carbazole alkaloids with documented antioxidant, anti-inflammatory, and hypoglycemic activities. In Ayurvedic medicine, the plant is used to treat digestive disorders, diabetes, and [[cannabis-for-skin-conditions-detailed]].
 
 M. koenigii is distinct from the curry powder spice blend sold in Western markets. The plant's leaves provide a fresh, herbaceous aroma that cannot be replicated by any dried spice mixture.
 
@@ -48,9 +48,9 @@ Curry leaf trees are frost-sensitive and do not tolerate temperatures below 5°C
 
 ## Chemistry and Pharmacology
 
-The leaves contain 0.5–2.5% essential oil composed primarily of monoterpenes and sesquiterpenes. Major volatile constituents include **sabinene**, **caryophyllene**, **α-pinene**, **β-pinene**, and **d-limonene**.
+The leaves contain 0.5–2.5% [[permaculture-designers-manual-essential-oil-plants]] composed primarily of monoterpenes and sesquiterpenes. Major volatile constituents include **sabinene**, **caryophyllene**, **α-pinene**, **β-pinene**, and **d-limonene**.
 
-Carbazole alkaloids are a distinctive class of secondary metabolites in M. koenigii, with **mahanimbine**, **murrayanine**, and **koenigine** being the most studied. These compounds exhibit antimicrobial, anti-inflammatory, and insecticidal activities.
+Carbazole alkaloids are a distinctive class of [[antifungal-secondary-metabolites-coprophilous-fungi]] in M. koenigii, with **mahanimbine**, **murrayanine**, and **koenigine** being the most studied. These compounds exhibit antimicrobial, anti-inflammatory, and insecticidal activities.
 
 Hypoglycemic effects have been demonstrated in multiple animal studies, where leaf extracts significantly reduced blood glucose levels in streptozotocin-induced diabetic rats. The mechanism may involve stimulation of insulin secretion and enhancement of peripheral glucose uptake.
 
@@ -68,13 +68,13 @@ In Ayurvedic medicine, the leaves, bark, and roots are used to treat digestive c
 
 The fruits are edible and have a sweet, peppery flavor. They are sometimes used in traditional medicine as a stimulant and for treating digestive disorders.
 
-The essential oil of curry leaves has shown insecticidal and repellent activity against mosquitoes and stored-product pests. This has generated interest in M. koenigii as a botanical insecticide for integrated pest management.
+The essential oil of curry leaves has shown insecticidal and repellent activity against mosquitoes and stored-product pests. This has generated interest in M. koenigii as a botanical insecticide for [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management.
 
 ## Cultivation
 
 M. koenigii is propagated primarily from seeds, which germinate in 2–3 weeks when fresh. Seed viability declines rapidly; stored seeds may require soaking or scarification. Semi-hardwood cuttings can also be used but strike with lower success rates.
 
-Trees are planted at 3–4 m spacing in well-prepared pits enriched with organic matter. Regular watering is needed during establishment. Flowering begins at 1–2 years of age, with full leaf production from year three.
+Trees are planted at 3–4 m spacing in well-prepared pits enriched with [[hamilton-composting-and-organic-matter-management]]. Regular watering is needed during establishment. Flowering begins at 1–2 years of age, with full leaf production from year three.
 
 Commercial leaf production involves repeated harvesting of tender branch tips every 2–3 months. Annual fresh leaf yield ranges from 2–5 kg per tree under good management.
 
@@ -101,9 +101,9 @@ Several other Murraya species occur in tropical Asia and Australia, though none 
 - [[eugenia-caryophyllata]]
 - [[cymbopogon-citratus]]
 - [[boesenbergia-rotunda]]
-- [[turmeric]]
+- turmeric
 - [[capsicum-annuum]]
-- [[ocimum-sanctum]]
+- ocimum-sanctum
 - [[azadirachta-indica]]
 - [[berberine]]
 - ricinus communis

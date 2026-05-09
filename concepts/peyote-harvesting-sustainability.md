@@ -14,15 +14,15 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Halpern JH (2004). "Hallucinogens and Dissociative Agents Growing in the United States." Pharmacology & Therapeutics 102(2): 131-138.
+  - Halpern JH (2004). "Hallucinogens and Dissociative Agents Growing in the dmt-containing-plants-united-states-halpern." Pharmacology & Therapeutics 102(2): 131-138.
   - Stewart O (1987). Peyote Religion: A History. University of Oklahoma Press, Tulsa, OK.
-  - Terry M, Trout K (2008). "The current status of Lophophora williamsii (Cactaceae) in South Texas." Cactus and Succulent Journal 80(6): 292-301.
+  - Terry M, Trout K (2008). "The current status of lophophora-williamsii (Cactaceae) in South Texas." Cactus and Succulent Journal 80(6): 292-301.
   - Anderson EF (1969). "The biogeography, ecology, and taxonomy of Lophophora (Cactaceae)." PhD dissertation, Brigham Young University.
 ---
 
 ## Overview
 
-The peyote cactus (Lophophora williamsii) is a small, spineless cactus native to the Chihuahuan Desert, with its natural range extending from southern Texas through northeastern Mexico. Peyote has been harvested for ceremonial use by indigenous peoples for thousands of years, and the continuation of this practice is essential to the religious traditions of the Native American Church (NAC), which has approximately 300,000 members in the United States and Canada.
+The peyote cactus (Lophophora williamsii) is a small, spineless cactus native to the Chihuahuan Desert, with its natural range extending from southern Texas through northeastern Mexico. Peyote has been harvested for ceremonial use by indigenous peoples for thousands of years, and the continuation of this practice is essential to the religious traditions of the [[halpern-sacramental-peyote-and-native-american-church]] Church (NAC), which has approximately 300,000 members in the United States and Canada.
 
 The ecological sustainability of peyote harvesting has become a significant conservation concern as wild populations face pressure from both legal ceremonial harvesting and illegal collection for the drug trade. Understanding the dynamics of peyote populations and the impact of harvesting is critical for ensuring the long-term viability of both the species and the religious traditions that depend on it.
 
@@ -30,7 +30,7 @@ The ecological sustainability of peyote harvesting has become a significant cons
 
 Lophophora williamsii grows in a relatively restricted range within the Chihuahuan Desert biome. In the United States, it occurs primarily in Starr, Hidalgo, Webb, and Zapata counties in southern Texas, along the Rio Grande. In Mexico, its range extends through the states of Chihuahua, Coahuila, Nuevo Leon, San Luis Potosi, and Tamaulipas.
 
-The species typically grows on limestone hills and ridges, often in association with thorn scrub vegetation. It prefers well-drained calcareous soils and partial shade from [[peyote]]
+The species typically grows on limestone hills and ridges, often in association with thorn scrub vegetation. It prefers well-drained calcareous soils and partial shade from peyote
 - [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]]
 - chihuahuan desert flora
 - cactus conservation
@@ -39,7 +39,7 @@ The species typically grows on limestone hills and ridges, often in association 
 - peyote distributors texas
 - sacred plant conservation
 - slow growing cacti harvesting
-- mescaline cactus conservation
+- [[peyote-mescaline-cactus-pharmacology]] conservation
 - texas endemic plants
 - desert plant vulnerability
 - limestone endemic cacti
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +103,5 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[dom]]

@@ -1,21 +1,22 @@
 ---
-title: Stone Fruit Tree Care
+title: holzer-stone-fruit-varieties-and-growing Tree Care
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fruit-tree, pruning, orchard, pest-control, cultivation, troubleshooting]
-sources: []
+sources:
+  sources: []
 ---
 
 ## Overview
 
-Stone fruits — peaches, plums, cherries, apricots, and nectarines — are named for their hard pit (stone) surrounding the seed. They are among the most flavorful of home orchard fruits but require attentive pruning, disease management, and careful variety selection. This guide covers care for peaches, plums, and cherries specifically.
+Stone fruits — peaches, plums, cherries, apricots, and nectarines — are named for their hard pit (stone) surrounding the seed. They are among the most flavorful of home orchard fruits but require attentive pruning, [[plant-disease-management-solomon]], and careful variety selection. This guide covers care for peaches, plums, and cherries specifically.
 
 ## General Stone Fruit Characteristics
 
 - Shorter-lived than apples (15-25 years vs 50-100 years for apples)
 - Bloom very early in spring — frost damage to blossoms is a major risk
-- Most are susceptible to bacterial and fungal diseases
+- Most are susceptible to [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] diseases
 - Fruit borne on one-year-old wood (except some cherries on spurs)
 - Require well-drained soil — more sensitive to waterlogging than apples
 - Typically pruned to an open center (vase) shape rather than central leader
@@ -66,7 +67,7 @@ Peaches fruit on one-year-old wood — they require aggressive annual pruning to
 - European plums fruit on spurs (short fruiting branches) — less aggressive pruning than peaches
 - Japanese plums fruit on one-year wood — prune more like peaches
 - Train to an open center or modified central leader
-- Thin crowded branches, maintain open canopy for air circulation
+- Thin crowded branches, maintain open canopy for [[stamets-growing-room-air-circulation-co2-management]]
 - Remove water sprouts and suckers annually
 
 ## Cherries (Prunus avium / Prunus cerasus)
@@ -105,7 +106,7 @@ Bacterial canker is a serious disease of all stone fruits, especially cherries a
 
 ### Management
 - Avoid pruning in wet weather; paint large pruning cuts with wound sealant
-- Apply copper-based spray (Bordeaux mix) in fall and early spring
+- Apply copper-based spray (Bordeaux mix) in fall and [[coleman-overwintered-onions-and-early-spring-crops]]
 - Remove severely cankered branches; avoid nitrogen over-fertilization
 
 ## Chill Hours Explained
@@ -139,14 +140,9 @@ Stone fruits have specific chill hour requirements for proper dormancy release a
 
 ### Cherry Fruit Fly
 - Maggots in sweet cherries — the primary pest of sweet cherries
-- Yellow sticky traps for monitoring
+- Yellow [[cervantes-sticky-traps-pest-monitoring]] for monitoring
 - Apply spinosad when flies are trapped
 - Sour cherries are rarely affected
-
-### Crown Gall
-- Bacterial disease causing galls on roots and crown
-- Enters through wounds; no cure — remove severely affected trees
-
 ## See Also
 
 - [[apple-tree-care]] for companion orchard tree management

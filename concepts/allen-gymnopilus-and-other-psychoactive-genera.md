@@ -2,7 +2,7 @@
 title: "Gymnopilus and Other Psychoactive Genera in Australia"
 created: 2026-04-28
 tags: [gymnopilus, inocybe, psychoactive, australia, panaeolus,
-  [[psilocybin]], allen, lesser-genera, taxonomy]
+  psilocybin, allen, lesser-genera, taxonomy]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md]
@@ -14,7 +14,7 @@ type: concept
 Beyond the well-known *Psilocybe* and *Copelandia* species, several other
 genera of mushrooms found in Australia and New Zealand contain
 psilocybin and/or other psychoactive alkaloids. These lesser-known genera are
-important for understanding the full diversity of psychoactive fungi in the
+important for understanding the full diversity of [[cattle-dispersal-psychoactive-fungi-australia]] in the
 Australasian region.
 
 ## *Gymnopilus* Species
@@ -40,7 +40,7 @@ that should be approached with extreme caution.
 ### Identification Challenges
 
 *Inocybe* species are notoriously difficult to identify, often requiring
-microscopic examination of spores and cystidia. They are typically small to
+[[fungal-microscopic-examination-mounting-media-techniques]] of spores and cystidia. They are typically small to
 medium-sized brown mushrooms with fibrous or scaly caps and a distinctive
 "mousy" or spermatic odor. These characteristics make them unappealing to
 most collectors, which fortunately reduces the risk of accidental

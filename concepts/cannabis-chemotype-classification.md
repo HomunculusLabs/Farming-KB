@@ -1,5 +1,5 @@
 ---
-title: Cannabis Chemotype Classification
+title: Cannabis cannabis-chemotype-classification-cannabinoid-breeding
 created: 2026-04-28
 tags:
   - cannabis
@@ -24,7 +24,7 @@ The conventional sativa/indica/hybrid system fails to predict chemical
 composition or pharmacological effects. Molecular genetics studies by
 Sawler et al. (2015) demonstrated that "indica" and "sativa" labeled
 cultivars show extensive genetic admixture and that cannabinoid and
-terpene profiles do not cluster according to these labels.
+[[cannabis-terpene-profiles-sativa]] do not cluster according to these labels.
 Historically, "sativa" described tall, narrow-leafleted plants from
 equatorial regions, while "indica" described short, broad-leafleted
 plants from Central Asian highlands. Modern breeding has thoroughly
@@ -70,8 +70,8 @@ characterizes the aroma and modifies cannabinoid effects. Terpene
 dominance patterns provide more reliable prediction of subjective effects
 than cannabinoid ratios alone.
 **Minor constituent profile**: Flavonoids (cannaflavins A and B),
-alkylamides, and other secondary metabolites that contribute to the
-entourage effect but are rarely quantified in standard testing.
+alkylamides, and other [[antifungal-secondary-metabolites-coprophilous-fungi]] that contribute to the
+[[cannabis-terpene-entourage-effect-profiles]] but are rarely quantified in standard testing.
 **Total cannabinoid content**: The aggregate concentration of all
 cannabinoids, which determines overall potency regardless of the specific
 profile.
@@ -99,7 +99,7 @@ profile rather than cannabinoid content:
 ## Practical Applications
 Chemotype classification has direct implications for medical cannabis
 prescribing. Patients with anxiety disorders benefit from CBD-dominant
-or balanced chemotypes with linalool and limonene. Chronic pain patients
+or balanced chemotypes with linalool and limonene. [[cannabis-chronic-pain-management]] patients
 may prefer myrcene-dominant, high-THC chemotypes for maximum analgesia.
 Patients seeking cognitive preservation during daytime use benefit from
 pinene-dominant varieties that counteract THC's memory-impairing effects.
@@ -109,7 +109,7 @@ quantified cannabinoid and terpene profiles. The European Union defines
 hemp by THC content threshold (0.2-0.3% depending on member state)
 rather than by taxonomic designation.
 ## Challenges and Future Directions
-Chemotype stability across environments remains a significant challenge.
+Chemotype [[psilocybin-level-stability-across-flushes]] environments remains a significant challenge.
 The same genotype can produce markedly different cannabinoid and terpene
 profiles under varying growing conditions. This environmental plasticity
 complicates the development of consistent, repeatable chemotype-based

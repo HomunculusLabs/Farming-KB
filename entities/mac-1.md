@@ -14,7 +14,7 @@ tags:
   - creative
   - resin-heavy
   - terpinolene
-  - [[limonene]]
+  - limonene
   - daytime-strain
   - capulator
 date: 2026-04-28
@@ -22,13 +22,13 @@ updated: 2026-04-28
 sources:
   - Leafly Strain Database. "MAC (Miracle Alien Cookies)." https://www.leafly.com/strains/mac
   - AllBud. "MAC 1 Strain Information." https://www.allbud.com/mac-1
-  - Wikileaf. "MAC 1 Cannabis Strain." https://www.wikileaf.com/strain/mac-1
+  - Wikileaf. "MAC 1 [[blesching-cannabis-strain-selection-receptor-targeting]]." https://www.wikileaf.com/strain/mac-1
   - Capulator breeder profile. "MAC (Miracle Alien Cookies) line." https://www.instagram.com/capulator
-  - "Chemotaxonomic analysis of Cannabis terpenes." Frontiers in Plant Science, 2020.
+  - "Chemotaxonomic analysis of [[query-what-are-cannabis-terpenes-and-why-do-they-matter]]." Frontiers in Plant Science, 2020.
 ---
 # MAC 1 ([[girl-scout-cookies]] × Alien green cannabis plant anatomy calyx pistil bud structurebuting dense bud structure,
-  cookie-dough and fuel terpenes, and high resin production from the GSC lineage
-- **Male parent:** Unnamed Colombian landrace sativa, contributing elevated THC, elongated flowering,
+  cookie-dough and fuel terpenes, and high [[cannabis-glandular-trichome-types-resin-production-clarke]] from the GSC lineage
+- **Male parent:** Unnamed [[oner-colombian-landrace-sativa-strains]] sativa, contributing elevated THC, elongated flowering,
   and bright citrus-forward terpenes distinguishing MAC from its cookie ancestry
 - **Breeder:** Capulator (California); selected MAC, [[chemdawg]] through GSC, with rare Colombian
   sativa genetics not commonly found in contemporary commercial strains
@@ -95,7 +95,7 @@ but doesn't interfere with normal activities. Mental clarity returns fully withi
   treatment-resistant depression and anhedonia
 - **ADHD:** Enhanced focus and creative engagement reported by many users, though clinical evidence is
   limited and individual responses vary significantly
-- **Chronic fatigue:** Uplifting, energizing cerebral effects without jitters or anxiety make MAC
+- **[[cannabis-chronic-fatigue-research]]:** Uplifting, energizing cerebral effects without jitters or anxiety make MAC
   suitable for daytime fatigue management
 - **Pain:** Moderate analgesic effects, particularly for tension headaches, migraines, and mild
   musculoskeletal pain; the anti-inflammatory caryophyllene contribution is additive
@@ -117,7 +117,7 @@ MAC 1 is moderately challenging, rewarding attentive growers with exceptional qu
 
 - **Flowering time:** 9–10 weeks indoors; early to mid-October outdoor harvest
 - **Yield:** Moderate-to-high, ~350–450 g/m² indoor; 400–550 g/plant outdoor
-- **Indoor notes:** Responds well to training; requires air circulation to prevent bud rot at >55% RH
+- **Indoor notes:** Responds well to training; requires [[stamets-growing-room-air-circulation-co2-management]] to prevent bud rot at >55% RH
 - **Temperature:** Prefers 22–28°C; tolerates warmth due to Colombian genetics; nights of 16–18°C
   enhance trichome production and terpene expression
 - **Nutrient requirements:** Heavy feeder weeks 3–7; benefits from cal-mag supplementation; reduce N in final 2 weeks
@@ -131,3 +131,7 @@ MAC 1 is moderately challenging, rewarding attentive growers with exceptional qu
 - **MAC Stomper** (MAC × Grape Stomper): Amplifies purple coloration and grape-forward aromatics
 - **Miracle 15** (MAC × Alien Rift): Heavy indica cross with intensified sedation
 - **Cap's Cut:** Breeder's reserve phenotype, most potent expression of the MAC lineage
+## See Also
+- [[chemdawg]]
+- [[girl-scout-cookies]]
+- [[teaming-with-nutrients-plant-nutrient-essentials-npk]]

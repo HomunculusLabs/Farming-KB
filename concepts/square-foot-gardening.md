@@ -1,5 +1,5 @@
 ---
-title: Square Foot Gardening Guide
+title: comparison-biointensive-vs-square-foot-gardening Gardening Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Square Foot Gardening Guide
 
-Square foot gardening (SFG) is an intensive planting method developed by Mel Bartholomew that divides raised beds into 1x1 foot squares, each planted with a specific number of crops based on plant size. The system maximizes yield per square foot while reducing wasted space, seeds, water, and weeding.
+Square foot gardening (SFG) is an intensive planting method developed by Mel Bartholomew that divides [[comparison-raised-beds-vs-hugelkultur]] into 1x1 foot squares, each planted with a specific number of crops based on plant size. The system maximizes yield per square foot while reducing wasted space, seeds, water, and weeding.
 
 ## Core Principles
 
@@ -121,8 +121,8 @@ The key to maximizing SFG productivity is replanting each square as soon as it's
 - Use row cover to extend the season into November in most zones.
 
 ### Winter (Mild Climates)
-- Garlic, onions, and cover crops can occupy beds through winter.
-- Cold frames or hoop tunnels allow year-round growing in zones 6-8.
+- Garlic, onions, and [[gaias-garden-cover-crops-soil-building]] can occupy beds through winter.
+- [[hamilton-cold-frames-and-hardening-off]] or hoop tunnels allow year-round growing in zones 6-8.
 
 ## Square Foot Gardening vs. Row Gardening
 
@@ -132,7 +132,7 @@ The key to maximizing SFG productivity is replanting each square as soon as it's
 | Soil needed | Little (Mel's mix) | Large volume |
 | Weeding | Minimal | Significant |
 | Yield per sq ft | High | Low to moderate |
-| Crop rotation | Easy (swap squares) | More planning needed |
+| [[comparison-crop-rotation-vs-cover-cropping]] | Easy (swap squares) | More planning needed |
 | Seed use | Precise, minimal | Often over-planted |
 | Setup cost | Moderate (beds + mix) | Low |
 | Best for | Small spaces, beginners | Large-scale, mechanized |
@@ -141,13 +141,9 @@ The key to maximizing SFG productivity is replanting each square as soon as it's
 
 - Overcrowding — more plants per square does NOT mean more yield.
 - Skipping the grid — the grid is what makes SFG work; freehand spacing drifts.
-- Using garden soil instead of Mel's mix — heavy soil compacts and defeats the purpose.
-- Not replanting — empty squares are wasted production.
-- Planting too early — raised beds warm up fast, but frost still kills tender crops.
-
 ## Related Concepts
 
-- [[raised-bed-gardening]] for bed construction and soil preparation
+- [[raised-bed-gardening]] for [[hugelkultur-bed-construction-detailed]] and soil preparation
 - [[companion-planting-reference]] for pairing crops in adjacent squares
 - [[seed-starting-reference]] for producing transplants
 - [[hugelkultur-guide]] for an alternative intensive growing method

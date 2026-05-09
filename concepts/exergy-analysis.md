@@ -14,13 +14,13 @@ Exergy is the maximum useful work that a system or flow can deliver as it comes 
 for energy: energy is conserved by the first law, while exergy is destroyed whenever real processes create entropy.
 
 The concept gives engineers a way to ask where the ability to do useful work is actually lost. A hot exhaust stream, a pressurized gas, a charged battery, and a separated
-chemical mixture all contain energy, but their usefulness depends on how far they are from ambient temperature, pressure, composition, and electrical potential.
+chemical mixture all contain energy, but their usefulness depends on how far they are from [[jadam-ambient-temperature-principle]], pressure, composition, and electrical potential.
 
 Because exergy is measured relative to a reference environment, it always carries an implicit choice of dead state. Changing the assumed ambient temperature, pressure, or
 chemical composition changes the numerical exergy, but the ranking of avoidable losses in a plant often remains informative.
 
 Exergy analysis is often called second-law analysis because it translates entropy generation into lost work. It complements ordinary energy balances by separating
-unavoidable energy conservation from the degradation of energy quality.
+unavoidable [[homestead-energy-conservation]] from the degradation of energy quality.
 
 ## Energy Quality
 
@@ -33,7 +33,7 @@ why high-temperature heat is more valuable than low-grade heat, even when the en
 Fuel exergy is also higher than its heat content alone suggests because chemical disequilibrium with the atmosphere can be exploited by combustion, fuel cells, or
 electrochemical reactions. Conversely, waste heat rejected near ambient conditions may contain a large energy flow but little remaining work potential.
 
-Thinking in terms of quality prevents misleading efficiency claims. A heater can be nearly one hundred percent energy efficient while still being a poor use of high-
+Thinking in terms of quality prevents misleading efficiency claims. A heater can be nearly one hundred percent [[cervantes-case-study-energy-efficient-sea-of-green]] while still being a poor use of high-
 exergy electricity when low-temperature heat would have been sufficient.
 
 ## Reference Environment and Dead State
@@ -41,7 +41,7 @@ exergy electricity when low-temperature heat would have been sufficient.
 The dead state is the condition in which the system has no ability to drive change in the chosen environment. Mechanical dead state requires equal pressure and velocity;
 thermal dead state requires equal temperature; chemical dead state requires equilibrium composition or acceptable reference chemical potentials.
 
-For closed systems, physical exergy is related to internal energy, volume, entropy, and the environment parameters. For steady flows, engineers usually work with specific
+For closed systems, physical exergy is related to internal energy, volume, entropy, and the [[fruiting-environment-parameters]]. For steady flows, engineers usually work with specific
 flow exergy that includes enthalpy, entropy, kinetic energy, potential energy, and sometimes chemical contributions.
 
 A common steady-flow expression for physical exergy is based on h - h0 - T0(s - s0), with kinetic and potential terms added when relevant. The zero subscript denotes
@@ -66,7 +66,7 @@ destroyed only by internal irreversibility.
 
 ## Engineering Workflow
 
-A practical exergy study begins with the same mass and energy balance used for conventional process analysis. The analyst then defines the environment, computes exergy
+A practical exergy study begins with the same mass and energy balance used for conventional [[ozier-pdc-design-process-analysis-frameworks]]. The analyst then defines the environment, computes exergy
 rates for all inlets and outlets, and writes an exergy balance around each component.
 
 The balance identifies exergy of products, exergy of fuels or inputs, exergy destroyed, and exergy lost with waste streams. Component-level results often show that the
@@ -120,7 +120,7 @@ recoverable work is too small, too intermittent, or too expensive to justify.
 The most useful studies distinguish unavoidable, avoidable, endogenous, and exogenous destruction. That [[carnot-cycle-and-heat-engines]]
 - [[heat-transfer-mechanisms]]
 - [[laws-of-thermodynamics]]
-- energy efficiency
+- [[energy-efficiency-farming-systems-comparison]]
 
 ## References
 

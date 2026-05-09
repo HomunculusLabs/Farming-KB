@@ -9,13 +9,13 @@ sources:
 ---
 # Braggot Brewing Guide
 
-Braggot is a hybrid fermented beverage that combines the grain-based tradition of beer with the honey-based tradition of mead. Essentially a malt and honey brew, braggot occupies the space between beer and mead, drawing characteristics from both. It is one of the oldest styles of fermented beverage, predating the clear distinction between beer and mead in many ancient cultures.
+Braggot is a hybrid fermented beverage that combines the grain-based tradition of beer with the honey-based tradition of mead. Essentially a malt and honey brew, braggot occupies the space between beer and mead, drawing characteristics from both. It is one of the oldest styles of fermented beverage, predating the clear distinction between beer and mead in many [[entheogens-in-ancient-cultures]].
 
 ## What Is Braggot?
 
 Braggot (also spelled bragget or bracket) is defined as a fermented beverage made from both malted grain and honey. The proportions can vary widely -- some braggots are essentially beer with honey added, while others are mead with grain components. The BJCP style guidelines describe braggot as a beverage where both malt and honey contribute significantly to the character.
 
-Historically, the boundary between beer and mead was often blurry. Many ancient fermented beverages used whatever fermentable materials were available -- grain, honey, fruit, and herbs. The distinct categories of "beer" and "mead" are somewhat modern, and braggot represents the continuation of a more integrated, ancient approach to fermentation.
+Historically, the boundary between beer and mead was often blurry. Many ancient [[comparison-mead-vs-kvass-fermented-beverages]] used whatever fermentable materials were available -- grain, honey, fruit, and herbs. The distinct categories of "beer" and "mead" are somewhat modern, and braggot represents the continuation of a more integrated, ancient approach to fermentation.
 
 ## Historical Context
 

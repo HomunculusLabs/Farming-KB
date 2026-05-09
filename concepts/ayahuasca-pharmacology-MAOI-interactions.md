@@ -18,7 +18,7 @@ Ayahuasca is a psychoactive brew traditionally prepared from *[[psychotria-virid
 ## The MAOI Mechanism
 
 ### Why MAO Inhibition is Necessary
-DMT is normally inactive when taken orally because **monoamine oxidase A (MAO-A)** in the gut and liver rapidly deaminates it before it can reach systemic circulation. The harmala alkaloids in *B. caapi* reversibly inhibit MAO-A, allowing DMT to pass through the digestive system intact and reach the brain.
+DMT is normally inactive when taken orally because **monoamine oxidase A (MAO-A)** in the gut and liver rapidly deaminates it before it can reach systemic circulation. The [[turner-harmala-alkaloids-preparation-and-dosage]] in *B. caapi* reversibly inhibit MAO-A, allowing DMT to pass through the digestive system intact and reach the brain.
 
 ### Pharmacokinetics
 The harmala alkaloids are absorbed relatively quickly from the gastrointestinal tract. MAO-A inhibition begins within 30–60 minutes of ingestion and lasts approximately 4–6 hours. DMT absorbed during this window reaches the bloodstream and crosses the blood-brain barrier, producing psychoactive effects.
@@ -114,3 +114,7 @@ The actual psychoactive dose depends on:
 - Stuart, R. (2002). "[[ayahuasca-tourism]]: A Cautionary Tale." *MAPS* Volume XII, Number 2.
 - McKenna, D.J. (2004). "Clinical Investigations of the Therapeutic Potential of Ayahuasca." *MAPS Bulletin*.
 - Callaway, J.C. et al. (1999). "Pharmacokinetics of Hoasca from Ayahuasca." *Journal of Ethnopharmacology*.
+
+## See Also
+
+- [[ayahuasca-vision-art-and-shipibo-tradition]]

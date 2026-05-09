@@ -17,8 +17,8 @@ southern India. It is the source of the world's most prized cinnamon
 bark, traded as a luxury spice for over 4,000 years. Unlike the more
 commonly available cassia cinnamon (C. cassia), true cinnamon contains
 only trace amounts of coumarin, making it significantly safer for
-regular consumption. The bark, leaves, and essential oil contain
-bioactive compounds — particularly cinnamaldehyde, eugenol, and
+regular consumption. The bark, leaves, and [[permaculture-designers-manual-essential-oil-plants]] contain
+[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] — particularly cinnamaldehyde, eugenol, and
 proanthocyanidins — with well-documented antimicrobial, anti-
 inflammatory, antioxidant, and blood sugar-regulating properties.
 
@@ -47,7 +47,7 @@ true cinnamon supply.
 | Leaf odor | Strongly aromatic when crushed |
 | Flowers | Small, pale yellow-green, in axillary panicles, ~3 mm |
 | Fruit | Dark purple drupe, 1–1.5 cm, ovoid |
-| Seed | Single seed per fruit |
+| Seed | [[cervantes-selfing-single-seed-descent]] per fruit |
 
 ### Distinguishing from Cassia Cinnamon
 
@@ -71,7 +71,7 @@ true cinnamon supply.
   2000–2500 mm annual rainfall.
 - **Temperature:** Optimal at 25–30°C; sensitive to frost and drought.
 - **Ecology:** Understory tree. Seeds dispersed by birds. Aromatic bark
-  may deter herbivores and fungal pathogens.
+  may deter herbivores and [[bloomfield-fungal-pathogens-and-parasites]].
 
 ## Chemistry and Active Compounds
 
@@ -121,11 +121,11 @@ hepatotoxic risk, while true cinnamon is safe for daily use.
   signaling. Meta-analyses show fasting glucose reductions of 10–25
   mg/dL with regular consumption.
 - **Antimicrobial:** Cinnamaldehyde disrupts bacterial membranes;
-  effective against MRSA, E. coli, S. aureus, Candida albicans.
+  effective against MRSA, E. coli, S. aureus, [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]].
 - **Anti-inflammatory:** Inhibits NF-κB and COX-2. β-Caryophyllene
   acts as a selective CB2 receptor agonist.
 - **Antioxidant:** High ORAC value; proanthocyanidins scavenge free
-  radicals and reduce oxidative stress markers.
+  radicals and reduce [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers.
 - **Neuroprotective:** Shows protective effects in animal models of
   Alzheimer's and Parkinson's disease.
 
@@ -141,6 +141,10 @@ hepatotoxic risk, while true cinnamon is safe for daily use.
 
 ## See Also
 
+- [[actinodaphne-lancifolia]]
+- [[neolitsea-sericea]]
+- [[trachyspermum-ammi]]
+
 - [[curcuma-longa]]
 - [[hypericum-perforatum]]
-- [[ocimum-sanctum]]
+- ocimum-sanctum

@@ -23,7 +23,7 @@ mycorrhizae.
 
 ## Structural Features
 
-In orchid mycorrhizae, the fungus penetrates the cell wall and invaginates
+In [[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]], the fungus penetrates the cell wall and invaginates
 the plasmalemma, forming tightly coiled hyphal structures called pelotons
 within the plant cell. Once the plant is invaded, spread of the fungus may
 occur from cell to cell internally. The internal hyphae eventually collapse
@@ -44,7 +44,7 @@ the perfect stage was not known or the isolate was not induced to fruit in
 culture. The true diversity of orchid mycorrhizal fungi includes members of
 Ceratobasidiaceae, Tulasnellaceae, and Sebacinaceae.
 
-The closest relatives of *Piriformospora indica* are members of the
+The closest relatives of *[[linum-album-piriformospora-indica-co-culture-system]]* are members of the
 Rhizoctina group (Ceratobasidales). Preliminary studies indicated that
 *P. indica* can interact with orchids (*Dactylorhiza purpurella* and
 *D. majalis*) as a mycorrhizal partner, though more studies are needed to
@@ -99,7 +99,7 @@ supporting both fungal growth and the nutritional needs of the orchid host.
 ## Coiled Hyphae and Nutrient Transfer
 
 The pelotons (hyphal coils) formed within orchid root cortical cells are
-the primary sites of nutrient exchange. As the coils age and degenerate,
+the primary sites of [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. As the coils age and degenerate,
 the host plant cell digests the fungal material through enzymatic
 processes, assimilating nutrients including nitrogen, phosphorus, and
 carbohydrates. This controlled digestion cycle allows sustained nutrient
@@ -127,11 +127,11 @@ seedlings with better survival rates upon transplantation.
 
 ## Research and Applications
 
-Research on orchid mycorrhizae has applications in conservation biology,
-horticulture, and understanding the evolution of mycorrhizal symbiosis. The
+Research on orchid mycorrhizae has applications in [[mycelium-running-conservation-biology-and-fungi]],
+horticulture, and understanding the evolution of [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]. The
 unique carbon flow dynamics of orchid mycorrhizae provide insights into the
 evolutionary transitions between mutualism and parasitism in plant-fungal
-symbioses. Molecular identification techniques are increasingly used to
+symbioses. [[biodiversity-fungal-molecular-identification-dna-barcoding]] techniques are increasingly used to
 characterize the diversity of orchid mycorrhizal fungi and their host
 specificity patterns.
 

@@ -1,5 +1,5 @@
 ---
-title: Grafting and Budding Techniques
+title: mollison-designers-grafting-and-budding-fruit-trees Techniques
 created: 2026-04-28
 tags:
   - grafting
@@ -17,7 +17,7 @@ type: concept
 # Grafting and Budding Techniques
 
 Grafting and budding are two similar techniques used to put new
-varieties onto existing plants, particularly stone fruit tree cares and certain
+varieties onto existing plants, particularly [[holzer-stone-fruit-varieties-and-growing]] tree cares and certain
 ornamental plants. They can be used to change a variety, to put a
 variety onto a rootstock, or to put another variety onto a fruit
 tree to provide a pollinator. These skills are among the most
@@ -42,7 +42,7 @@ full range of propagation techniques available to the organic gardener.
 
 ## Summary
 
-Grafting and budding are essential skills for managing fruit trees
+Grafting and budding are essential skills for managing [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 and ornamental plants in the organic garden. Cleft grafting adds new
 varieties to existing trees, whip-and-tongue grafting joins scions to
 rootstocks, and budding offers a simpler alternative for summer work.
@@ -58,6 +58,7 @@ union properly. Taking time with each step dramatically improves success.
 ## See Also
 
 - [[mollison-designers-grafting-and-budding-fruit-trees]]
+
 ## Practical Considerations
 
 Successful implementation of Grafting and Budding Techniques requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

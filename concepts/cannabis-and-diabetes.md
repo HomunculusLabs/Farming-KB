@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Research from The Cannabis Health Index documents significant potential for [[cannabis-anti-inflammatory-applications]], and hypoglycaemic effects (Ojewole, 2006)
+Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] documents significant potential for [[cannabis-anti-inflammatory-applications]], and hypoglycaemic effects (Ojewole, 2006)
 
 ### Garlic
 - Time-released garlic powder tablets improved metabolic effects in Type 2 diabetes in double-blinded placebo-controlled study (Sobenin et al., 2008)
@@ -30,7 +30,7 @@ Research from The Cannabis Health Index documents significant potential for [[ca
 - **Black seed (Nigella sativa)**: Cardiac inotropic and hypertrophic effects (El-Bahai et al., 2009)
 
 ### Beta-Caryophyllene
-**Gertsch et al. (2008)**: Beta-caryophyllene identified as a "dietary cannabinoid" -- a CB2-selective compound found in black pepper, cloves, rosemary, and cannabis. This is relevant because CB2 activation has anti-inflammatory effects without psychoactivity.
+**Gertsch et al. (2008)**: Beta-caryophyllene identified as a "dietary cannabinoid" -- a CB2-selective compound found in [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], cloves, rosemary, and cannabis. This is relevant because CB2 activation has anti-inflammatory effects without psychoactivity.
 
 ## Psychosomatic Factors
 
@@ -41,8 +41,8 @@ Research from The Cannabis Health Index documents significant potential for [[ca
 ## Mechanism of Action
 
 ### Endocannabinoid System in Diabetes
-- CB1 receptors are involved in appetite regulation and glucose metabolism
-- Overactivation of CB1 contributes to obesity and metabolic syndrome (a diabetes precursor)
+- CB1 receptors are involved in [[blesching-cannabis-appetite-regulation-ghrelin-leptin]] and glucose metabolism
+- Overactivation of CB1 contributes to obesity and [[cannabis-metabolic-syndrome-research]] (a diabetes precursor)
 - CB2 receptors have anti-inflammatory effects that may protect pancreatic beta cells
 - CBD's immunomodulatory action may prevent autoimmune attack on beta cells
 
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

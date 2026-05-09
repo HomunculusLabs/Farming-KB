@@ -10,7 +10,7 @@ tags: [pharmacology]
 
 # Ibogaine Pharmacology
 
-Ibogaine is the principal psychoactive indole alkaloid of Tabernanthe
+Ibogaine is the principal psychoactive [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] of Tabernanthe
 iboga, an African shrub central to the Bwiti religion of Gabon and
 Congo. As with other hallucinogens, especially teonanacatl (Psilocybe
 spp.) and [[iboga-plant]].
@@ -28,7 +28,7 @@ spp.) and [[iboga-plant]].
 
 ## Toxicity and Safety
 
-Ibogaine has a narrow therapeutic index, and its use carries
+Ibogaine has a narrow [[cannabis-therapeutic-index-overview]], and its use carries
 significant risks:
 
 - Severe nausea and vomiting are almost universal at therapeutic doses
@@ -36,7 +36,7 @@ significant risks:
   been documented
 - Ataxia and loss of motor coordination are common
 - Seizures in susceptible individuals
-- Death in extreme cases (documented in both Bwiti initiation contexts
+- Death in extreme cases (documented in both [[mckenna-iboga-tabernanthe-ibogaine-fang-bwiti-initiation-cult]] contexts
    and modern therapeutic settings)
 - The stimulant properties can mask the depth of intoxication, making 
   dose management particularly challenging
@@ -48,7 +48,7 @@ ibogaine despite its promising anti-addictive effects.
 
 - [[allegro-amanita-muscaria-properties-and-pharmacology]]
 
-See also: [[iboga-ibogaine-and-the-bwiti-african-psychedelic-medicine]]
+See also: [[schultes-iboga-bwiti-cult]]
 ## Practical Considerations
 
 When working with Ibogaine Pharmacology, several practical factors should be
@@ -65,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

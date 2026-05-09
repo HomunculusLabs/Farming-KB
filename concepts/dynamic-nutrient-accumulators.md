@@ -19,8 +19,8 @@ design and sustainable agriculture.
 ## Mechanism of Action
 
 These plants develop deep or extensive root systems that access mineral
-reserves beyond the reach of most common crops. Through cation exchange at
-root surfaces and selective uptake via membrane transport proteins, they
+reserves beyond the reach of most common crops. Through [[mollison-designers-tropical-soils-and-cation-exchange-management]] at
+root surfaces and selective uptake via [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] proteins, they
 concentrate specific elements far above average soil concentrations. The
 process is energy-intensive and varies by species and soil conditions.
 
@@ -113,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

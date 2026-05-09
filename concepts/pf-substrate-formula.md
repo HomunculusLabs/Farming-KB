@@ -1,119 +1,139 @@
 ---
-title: PF Substrate Formula
-created: 2026-04-28
-tags: [substrate, vermiculite, brown-rice, mycology, formulation]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - '/Users/t3rpz/wiki/raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md'
-type: concept
+title: PF [[pf-tek-maximum-fruiting-substrate-formula]]
+source: fanaticus-pf-tek-psilocybe-fanaticus.md
+tags: [mycology, mushroom-cultivation, pf-tek]
+created: 2026-05-09
 ---
 
 # PF Substrate Formula
 
-## Overview
+The PF [[pf-tek-substrate-formula-details]] is the foundation of one of the most accessible
+[[holzer-mushroom-cultivation-methods]] ever developed. Created by [[pf-tek-psilocybe-fanaticus]],
+it combines three simple ingredients — [[brown-rice-flour-substrate]] powder, vermiculite, and
+water — into a nutritious, airy medium that supports robust [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
+and prolific fruiting. The elegance lies in its simplicity: all ingredients
+are available at ordinary supermarkets, health food stores, and garden
+centers, and no specialized equipment beyond common kitchen cookware is
+required.
 
-The PF substrate formula is the nutritional foundation of the entire PF TEK.
-It consists of three simple ingredients: brown rice powder, horticultural
-vermiculite, and water. These are mixed together and loaded into half-pint
-jars for steam sterilization and subsequent spore inoculation. The formula's
-elegance lies in its simplicity and its ability to support vigorous mycelial
-growth while remaining resistant to contamination.
+## The Standard Formula
 
-## Jar Requirements
+For a single half-pint (8 ounce, 250 ml) jar, the standard PF substrate
+formula calls for:
 
-The jars used for the PF substrate must meet specific criteria:
+- 1/8 cup of brown rice powder
+- 1/2 to 2/3 cup of horticultural vermiculite (medium grade)
+- 40–45 cc (milliliters) of water — slightly less than 1/4 cup
 
-- **Capacity**: 1/2 pint (8 ounces, 250 milliliters)
-- **Shape**: Tapered sides with no shoulders. The fungus cakes must be able to
-  slide out freely. Jars with shoulders will trap the cake inside.
-- **Suitable jars**:
-  - KERR wide mouth half pint canning jar
-  - BALL regular mouth half pint canning jar
-  - BALL half pint jelly jar
-  - 1/2 pint (250 ml) capacity drinking glasses with tapered sides
+This standard formula produces a balanced substrate with adequate moisture
+and nutrition for reliable colonization and fruiting. It is forgiving of
+minor measurement errors and is the recommended starting point for
+beginners.
 
-An important note: although the regular mouth BALL half pint and the KERR half
-pint look similar, the KERR is not tapered and should be avoided.
+## The Maximum Fruiting Formula
 
-Jars larger than 1/2 pint are explicitly described as unreliable for the PF
-TEK and prone to failure. The low-form KERR 1/2 pint canning jar is
-identified as the most versatile option because it fits into tight spaces.
+For cultivators seeking heavier yields, the maximum fruiting formula
+increases the nutritional content:
 
-## Standard Formula (Per Half-Pint Jar)
+- 1/4 cup of brown rice powder
+- 1/2 cup of vermiculite
+- 60 cc of water
 
-| Ingredient               | Amount                          |
-|--------------------------|---------------------------------|
-| Brown rice powder        | 1/8 cup                         |
-| Horticultural vermiculite| 1/2 to 2/3 cup (medium grade)   |
-| Water                    | 40-45 cc (less than 1/4 cup)    |
+The maximum formula requires a slightly different [[jar-preparation-and-sterilization]] technique.
+After loosely loading and leveling the substrate, the jar is lightly
+slammed bottom-first against the palm of the other hand a couple of times
+to lower the mixture level to about 1/2 inch from the jar top. This light
+tamping is necessary because the increased rice powder makes the mixture
+more voluminous. The jar interior is then cleaned down to substrate level
+and filled to the top with [[pf-tek-dry-vermiculite-contaminant-barrier]].
 
-Water equivalents: approximately 1.5 ounces, or 3 tablespoons plus 1
-teaspoon.
+Maximum formula jars should be incubated at room temperature without
+additional heating above 70°F. The lid should be loosened and the
+cultivator should watch for loose water collecting at the jar bottom.
 
-## Maximum Fruiting Formula
+## Vermiculite: The Key Ingredient
 
-For enhanced fruiting yields, a richer formula is provided:
+The PF TEK describes vermiculite as the "magic" ingredient and the
+"secret" of the method. When mycelium is cultured in plain grain, it grows
+into a dense mass with little air space. Vermiculite changes this entirely
+— mycelial threads stretch across the porous spaces between particles,
+creating a loose, airy network that supports vigorous colonization and
+easy fruiting.
 
-| Ingredient               | Amount                          |
-|--------------------------|---------------------------------|
-| Brown rice powder        | 1/4 cup                         |
-| Horticultural vermiculite| 1/2 cup                         |
-| Water                    | 60 cc                           |
+Vermiculite serves multiple critical functions: it provides physical
+structure for an airy texture, retains and gradually releases water to the
+growing mycelium, and when used as the dry top layer, acts as a
+contaminant barrier — a discovery original to [[pf-tek-psilocybe-fanaticus-cultivation-method]].
 
-This maximum formula requires special handling: the mixture should be lightly
-tamped down in the jar. After loosely loading the jar and leveling the top,
-cover the mouth with one hand and lightly slam the bottom of the jar onto the
-other palm a couple of times to lower the mixture level to about 1/2 inch
-from the jar top. Clean the inside of the jar down to the substrate level and
-fill to the top with dry vermiculite.
+## Vermiculite Particle Size and Water Retention
 
-The maximum formula jars should be incubated at room temperature without
-heating above 70 degrees Fahrenheit. The lid should be loosened or the lid
-holes untaped, and the jar should be watched for loose water accumulation.
+Not all vermiculite is the same. Coarseness varies considerably among
+brands, directly affecting water [[pf-tek-vermiculite-type-comparison-water-holding-capacity]]. Coarser types hold less
+water than finer types, which can significantly alter [[pf-tek-substrate-moisture-diagnosis-and-correction]].
 
-## Vermiculite Selection
+To assess particle size, observe vermiculite under a photo magnifier next
+to a millimeter ruler. The finer recommended type has particles averaging
+around 1 millimeter across. The coarser type averages 4 to 5 millimeters
+and up to 8 millimeters. The finer type is recommended for its superior
+water retention. If a brand produces a wet or sloppy substrate, reduce the
+water. Keep notes on formulas to replicate the mixture that fruits best.
 
-Not all vermiculite is the same. The coarseness varies considerably among
-different brands, which directly affects water-holding capacity:
+## Making Brown Rice Powder
 
-- **Finer type**: Particles averaging around 1 millimeter across (some larger,
-  some smaller). Holds more water. Recommended over the coarser type.
-- **Coarser type**: Particles averaging around 4-5 millimeters across and up to
-  8 millimeters. Holds less water.
+Brown rice powder can be purchased at health food stores and co-ops, but
+homemade fresh-ground powder is recommended. Place regular brown rice into
+a small canister-type coffee bean grinder and grind to a fine powder.
+Freshly ground rice can make a noticeable difference compared to prepackaged
+flour that may have sat on shelves for months.
 
-If the substrate turns out too wet or sloppy, reduce the water. Keep notes on
-formulas for replicating the substrate that fruits the best. Stores usually
-carry one type, but regional differences exist. The author recommends shopping
-around and trying both types to compare.
+Measurement accuracy matters. A proper cup measure holds 237 milliliters
+(1/2 pint or 8 liquid ounces). Verify measuring cups: 2 cups in a pint,
+2 pints in a quart, 4 cups in a quart. Inaccurate measurements lead to
+failure or diminished growth.
 
-The finer type of vermiculite is explicitly recommended over the coarser type
-because it holds more water. To assess particle size, observe vermiculite under
-a photo magnifier next to a millimeter ruler.
+## The Dry Vermiculite Top Layer
 
-## Brown Rice Powder
+One of the most important PF TEK innovations is the dry vermiculite barrier
+layer. After filling the jar loosely with moist substrate and leaving 1/2
+to 3/4 inch of space at the top, the inside walls are wiped clean down to
+substrate level using a tissue or fingertip. The remaining space is filled
+with plain dry vermiculite and leveled flush with the jar rim.
 
-Brown rice powder should be obtained from health food stores and co-ops. For
-homemade preparation, place regular brown rice in a small canister-type coffee
-bean grinder and grind to fine powder. Freshly ground brown rice is
-recommended over prepackaged types, as freshness can make a significant
-difference in results.
+This dry layer serves two functions. First, it protects the wet nutritious
+substrate from airborne contaminants. Second, it absorbs and regulates
+moisture from transpiration and condensation within the jar. During
+inoculation, this layer must be disturbed as little as possible — the
+underlying substrate must never be exposed to open air.
 
-## Water
+## Jar Preparation Steps
 
-Distilled or filtered drinking water is used. The water content is critical:
-too much produces a wet, sloppy substrate prone to contamination and poor
-growth; too little leads to dried substrate and halted [[spore-syringe]] needle.
+1. **Mix**: Place 1/2 cup vermiculite in a mixing bowl, add brown rice
+   powder on top, and slowly add water directly onto the rice powder to
+   wet it first. Mix thoroughly until damp and cohesive. Mix each jar's
+   substrate individually for accurate formula rendering.
 
-## The Dry Vermiculite Barrier
+2. **Fill**: Fill the jar very loosely, leaving 1/2 to 3/4 inch of space
+   at the top. Level the substrate surface.
 
-A key innovation of the PF TEK is the dry vermiculite contamination barrier.
-After loading the jar with the wet substrate, the top 1/2 to 3/4 inch of the
-jar is filled with plain dry vermiculite. This layer:
+3. **Wipe**: Using a tissue or fingertip, wipe the inside of the jar clean
+   down to the substrate level.
 
-- Protects the wet substrate from airborne contaminants
-- Absorbs and regulates moisture transpiration and condensation
-- Acts as a sterile filter during inoculation
+4. **Barrier**: Fill the top with plain dry vermiculite and level flush
+   with the jar rim.
 
-This is described as a [[pf-tek-overview-and-history]]
-- [[incubation-and-colonization]]
+5. **Seal**: Place the canning lid on with the rubberized edge up. Screw
+   the lid band on and cover needle holes with professional-grade masking
+   tape.
+
+## Why Tapered Half-Pint Jars Are Required
+
+Jars must be exactly 1/2 pint (8 ounce, 250 ml) capacity with tapered
+sides and no shoulders. Suitable options include Kerr wide-mouth half-pint
+canning jars, Ball regular-mouth half-pint canning jars, Ball half-pint
+jelly jars, and 1/2 pint tapered drinking glasses with tin foil covers.
+
+The taper is essential because the fungus cake must slide out intact for
+fruiting. Jars with shoulders trap the cake, making removal impossible
+without damage. Note that the Kerr regular-mouth half-pint is not tapered
+despite looking similar to the Ball version. Jars larger than 1/2 pint are
+unreliable for the PF TEK and prone to failure.

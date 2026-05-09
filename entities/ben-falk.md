@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - "Falk, B. (2013). The Resilient Farm and Homestead: An Innovative Permaculture and Whole Systems Design Approach. Chelsea Green Publishing."
   - "Falk, B. (2019). The Resilient Farm and Homestead, Revised and Expanded Edition. Chelsea Green Publishing."
-  - "Falk, B. (2021). \"Adaptive Land Use in a Changing Climate.\" Permaculture Design Magazine, 98, 22-29."
+  - "Falk, B. (2021). \"Adaptive Land Use in a Changing Climate.\" [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Magazine, 98, 22-29."
   - "Whole Systems Design LLC. (2024). \"About.\" wholesystemsdesign.com."
 ---
 
@@ -27,9 +27,9 @@ educator based in Moretown, Vermont. He is the founder of Whole Systems Design
 LLC, a design-build firm specializing in regenerative land use, and is best
 known for his book *The Resilient Farm and Homestead* (2013, revised 2019).
 Falk's work emphasizes site-adapted design, cold-climate permaculture,
-food sovereignty, and the integration of appropriate technology with
+food sovereignty, and the integration of [[mollison-designers-appropriate-technology-small-scale-tools]] with
 ecological principles. His 10-acre Vermont homestead serves as a primary
-demonstration site for his design methods.
+demonstration site for his [[mollison-designers-design-methods-analysis]].
 
 ## Biography
 
@@ -51,7 +51,7 @@ regarded as one of the most practical and thoroughly documented permaculture
 books for cold-climate regions. The 2019 revised edition expanded coverage of
 key systems.
 
-Key design principles from the book:
+Key [[holmgren-permaculture-twelve-design-principles-framework]] from the book:
 
 - **Stack functions:** Every element on-site should serve multiple purposes
 - **Start from water:** Design water systems first; everything else follows
@@ -59,11 +59,11 @@ Key design principles from the book:
   exposure, and microclimates rather than fighting them
 - **Build soil as infrastructure:** Soil is the primary capital investment;
   [[hugelkultur]], and [[hugelkultur]] beds:** Extensive hugelkultur systems on
-  hillside terrain for frost protection and water retention
+  hillside terrain for [[holzer-frost-protection-techniques]] and water retention
 - **Integrated water systems:** Multiple ponds, swales, and gravity-fed
-  irrigation; spring development and rainwater harvesting
+  irrigation; spring development and [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 - **Food forests:** Mixed cold-hardy fruit and nut tree systems with
-  understory herbs and [[permaculture]] is notably pragmatic and site-specific,
+  understory herbs and permaculture is notably pragmatic and site-specific,
 distinguishing itself from more idealistic or tropical-focused permaculture
 literature.
 

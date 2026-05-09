@@ -1,5 +1,5 @@
 ---
-title: Amaringo Ayahuasca Visions - Shipibo Iconography
+title: Amaringo amaringo ayahuasca visions shipibo iconography - Shipibo Iconography
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -115,3 +115,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[ayahuasca-vision-art-and-shipibo-tradition]]

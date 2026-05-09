@@ -4,16 +4,17 @@ created: 2026-04-28
 tags: [comparison, livestock, agroforestry, grazing]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
 # Silvopasture vs Pasture
 
 Silvopasture intentionally integrates trees, forage, and livestock on the same
-land for dual income streams and enhanced ecosystem services. Pasture
+land for dual income streams and enhanced [[biodiversity-of-fungi-ecosystem-services-agriculture]]. Pasture
 management focuses on optimizing grass-based livestock systems through
-rotational grazing and adaptive multi-paddock management.
+[[comparison-rotational-grazing-vs-continuous-grazing]] and adaptive multi-paddock management.
 
 ## Overview
 
@@ -25,16 +26,16 @@ livestock between paddocks to prevent overgrazing, allowing plants to recover
 fully between defoliations. Adaptive multi-paddock (AMP) grazing adjusts
 stocking density, rest periods, and paddock layout based on seasonal
 conditions and forage availability. Well-managed pasture builds soil health
-through root exudates, increases water infiltration, and can sequester
+through [[mycorrhizal-root-exudates-pathogen-interactions]], increases water infiltration, and can sequester
 meaningful amounts of carbon without any tree component.
 
 ## Key Differences
 
-| Feature | Silvopasture | Pasture Management |
+| Feature | Silvopasture | [[grassland-pasture-management-mollison]] |
 |---|---|---|
 | Components | Trees + forage + livestock | Forage + livestock |
 | Income streams | Dual: timber/fruit + livestock | Single: livestock products |
-| Carbon sequestration | 5-10x higher than pasture alone | Moderate, through root exudates |
+| [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] | 5-10x higher than pasture alone | Moderate, through root exudates |
 | Shade provision | Natural shade extends grazing season | No shade, heat stress risk |
 | System complexity | Three interacting systems | Primarily grass management |
 | Establishment time | Years for tree canopy growth | Immediate with existing pasture |
@@ -104,7 +105,7 @@ the need for adequate fencing infrastructure, and the time required for
 degraded pastures to recover. Rotational systems require regular paddock
 moves, which demands daily attention during the grazing season. Drought and
 extreme weather can stress both pasture and livestock, requiring flexible
-management and sometimes supplemental feeding.
+management and sometimes [[savory-supplemental-feeding-and-winter-management]].
 
 ## Bottom Line
 

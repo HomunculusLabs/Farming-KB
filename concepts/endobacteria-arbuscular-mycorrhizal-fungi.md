@@ -1,5 +1,5 @@
 ---
-title: "Endobacteria in Arbuscular Mycorrhizal Fungi"
+title: "Endobacteria in comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi Fungi"
 created: 2026-04-26
 tags: [mycorrhiza, endosymbiosis, microbiology, glomeromycota]
 date: 2026-04-25
@@ -20,9 +20,9 @@ fungus itself contains obligately intracellular bacteria has fundamentally
 changed our understanding of the complexity of [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] and the broader
 [[mycorrhizal-inoculum-production]]. Inocula produced
 non-axenically will contain a suite of associated bacteria that may influence
-plant growth, pathogen resistance, and nutrient cycling. Understanding these
-bacterial communities is essential for producing consistent and effective
-mycorrhizal inoculants.
+plant growth, [[mycorrhizal-pathogen-resistance-mechanisms]], and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. Understanding these
+[[cultivar-endorhiza-bacterial-communities-cannabis]] is essential for producing consistent and effective
+[[pgpr-mycorrhizal-inoculants-microplant-establishment]].
 
 ## Related Topics
 
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

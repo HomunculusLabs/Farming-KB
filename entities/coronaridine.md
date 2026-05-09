@@ -10,7 +10,7 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Taylor, W.I. (1957). "The Alkaloids of Tabernanthe iboga: Part II. Isolation of Coronaridine." Journal of the American Chemical Society 79(12): 3284-3285.
+  - Taylor, W.I. (1957). "The Alkaloids of plants-of-the-gods-tabernanthe-iboga-chemistry: Part II. Isolation of Coronaridine." Journal of the American Chemical Society 79(12): 3284-3285.
   - Kametani, T. & Ihara, M. (1968). "The Chemistry of the Iboga Alkaloids." Heterocycles 1(1): 23-42.
   - Popik, P. et al. (1995). "Ibogaine and its O-desmethyl metabolite (noribogaine) interact with serotonergic systems." Society for Neuroscience Abstracts 21: 1954.
   - Glick, S.D. et al. (1999). "Ibogaine: Antiaddictive and putative anti-craving properties." In: Ottersen, O.P. & Storm-Mathisen, J. (eds.) "Neuroscience in the 21st Century." Springer.
@@ -20,11 +20,11 @@ sources:
 
 ## Overview
 
-**Coronaridine** is an indole alkaloid belonging to the iboga family of monoterpene indole alkaloids, structurally related to ibogaine and voacangine.
+**Coronaridine** is an [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] belonging to the iboga family of monoterpene indole alkaloids, structurally related to ibogaine and voacangine.
 
 It occurs naturally in several Apocynaceae plant species, most notably *Tabernanthe iboga*, *Voacanga africana*, and *Tabernaemontana divaricata*.
 
-Coronaridine has attracted pharmacological interest primarily for its relationship to ibogaine, sharing portions of its molecular scaffold while exhibiting a distinct receptor binding profile.
+Coronaridine has attracted pharmacological interest primarily for its relationship to ibogaine, sharing portions of its molecular scaffold while exhibiting a distinct [[tihkal-receptor-binding-serotonin]] profile.
 
 Unlike ibogaine, coronaridine has not been extensively studied in clinical settings, though preliminary research suggests it may possess anti-addictive, anxiolytic, and serotonergic properties.
 
@@ -72,7 +72,7 @@ The sigma-1 receptor activity is of particular interest, as this receptor modula
 
 Coronaridine has been isolated from multiple plant species across the Apocynaceae family, reflecting the broad distribution of iboga-type alkaloids in this taxonomic group.
 
-In *Tabernanthe iboga*, coronaridine occurs at concentrations of approximately 0.05–0.3% of dry root bark, making it a minor constituent compared to ibogaine (typically 1–6%).
+In *Tabernanthe iboga*, coronaridine occurs at concentrations of approximately 0.05–0.3% of dry [[iboga-root-bark-preparation]], making it a minor constituent compared to ibogaine (typically 1–6%).
 
 *Voacanga africana* bark and seeds contain coronaridine alongside voacangine, iboga alkaloids that serve as biosynthetic intermediates in the ibogaine pathway.
 
@@ -94,13 +94,13 @@ While coronaridine itself is not the primary psychoactive constituent of *T. ibo
 
 Iboga root bark preparations used in traditional contexts contain a spectrum of iboga alkaloids including ibogaine, ibogamine, tabernanthine, voacangine, and coronaridine.
 
-The entourage effect of this alkaloid mixture may contribute to the overall pharmacological experience, which differs from isolated ibogaine administration.
+The [[cannabis-terpene-entourage-effect-profiles]] of this alkaloid mixture may contribute to the overall pharmacological experience, which differs from isolated ibogaine administration.
 
 In African traditional medicine, *Voacanga africana* bark extracts containing coronaridine have been used as a stimulant, aphrodisiac, and treatment for various ailments including jaundice and epilepsy.
 
 ## Legal Status
 
-Coronaridine is not specifically scheduled in most jurisdictions, unlike ibogaine which is controlled in several countries including the United States (Schedule I) and Belgium.
+Coronaridine is not specifically scheduled in most jurisdictions, unlike ibogaine which is controlled in several countries including the [[dmt-containing-plants-united-states-halpern]] (Schedule I) and Belgium.
 
 However, because coronaridine is a natural constituent of *Tabernanthe iboga* root bark, its legal status may be indirectly affected by laws controlling iboga or ibogaine-containing preparations.
 

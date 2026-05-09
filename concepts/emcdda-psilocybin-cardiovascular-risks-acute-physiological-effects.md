@@ -1,9 +1,9 @@
 ---
-title: Psilocybin Cardiovascular Risks and Acute Physiological Effects
+title: emcdda psilocybin cardiovascular risks acute physiological effects Risks and Acute Physiological Effects
 created: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "EMCDDA Thematic Papers - Hallucinogenic Mushrooms: An Emerging Trend Case Study (2006)"
+  - "EMCDDA Thematic Papers - emcdda-hallucinogenic-mushrooms-emerging-trend-europe: An emcdda-epod-project-emerging-trend-detection-methodology Case Study (2006)"
 type: concept
 tags: [psilocybin, cardiovascular, physiological-effects, acute-toxicity, emcdda, health]
 ---
@@ -11,7 +11,7 @@ tags: [psilocybin, cardiovascular, physiological-effects, acute-toxicity, emcdda
 # Psilocybin Cardiovascular Risks and Acute Physiological Effects
 
 The EMCDDA's 2006 [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] g mushrooms. While the
-psychological effects dominate both user experience and clinical concern,
+[[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] dominate both user experience and clinical concern,
 the somatic effects are significant for clinical management and for
 understanding the full risk profile of these substances. The
 cardiovascular effects, though generally mild, carry particular
@@ -66,14 +66,14 @@ accompanies psilocybin intoxication.
 While generally mild, pronounced physical symptoms have been recorded in
 clinical case reports. These include severe stomach pain, persistent
 vomiting, and diarrhoea. The EMCDDA notes that such severe symptoms may
-indicate factors beyond psilocybin pharmacology alone — mushroom
+indicate factors beyond [[emcdda-psilocybin-pharmacology-and-chemistry]] alone — mushroom
 specimens collected from the wild may contain additional toxic compounds
 from mixed fungal collections, or gastrointestinal distress may be
 exacerbated by the method of inges [[emcdda-hallucinogenic-mushroom-consequences-and-health-risks]] national comparison difficult.
 
 ## Clinical Management of Acute Intoxication
 
-Diagnosis of hallucinogenic mushroom intoxication is not always
+Diagnosis of hallucinogenic [[panaeolus-mushroom-intoxication-history]] is not always
 straightforward unless there is information about recent ingestion from
 the user, friends, or family. The clinical picture — mydriasis,
 tachycardia, mild hypertension, perceptual disturbances — can resemble

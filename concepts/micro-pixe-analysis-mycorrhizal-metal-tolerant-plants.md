@@ -26,7 +26,7 @@ The focused beam (1-3 micrometer spot size) allows generation of two-dimensional
 
 ## Sample Preparation
 
-Proper specimen preparation is the most critical step in micro-PIXE analysis. To preserve element distributions close to the native in vivo state, low-temperature methods must be used. The standard protocol involves rapid cryo-fixation, cryo-sectioning, and freeze-drying. Root fragments are rapidly frozen by plunging into propane cooled with liquid nitrogen, which provides faster cooling rates than liquid nitrogen alone. Cryo-sections (typically 60 micrometers thick for sufficient X-ray yield) are cut in a cryo-microtome and freeze-dried at low temperature and pressure.
+Proper [[fungal-specimen-preparation-preservation-herbarium-storage]] is the most critical step in micro-PIXE analysis. To preserve element distributions close to the native in vivo state, low-temperature methods must be used. The standard protocol involves rapid cryo-fixation, cryo-sectioning, and freeze-drying. Root fragments are rapidly frozen by plunging into propane cooled with liquid nitrogen, which provides faster cooling rates than liquid nitrogen alone. Cryo-sections (typically 60 micrometers thick for sufficient X-ray yield) are cut in a cryo-microtome and freeze-dried at low temperature and pressure.
 
 To preserve element distributions close to the native in vivo state, low-temperature methods must be used.
 
@@ -52,21 +52,21 @@ Micro-PIXE can simultaneously measure all elements from sodium (atomic number 11
 
 Macro-nutrients (P, S, K, Ca), micro-nutrients (Fe, Mn, Zn, Cu, Ni), and toxic elements (Cd, Pb, As, Zn at elevated concentrations) can all be quantified in the same measurement.
 
-This multi-element capability makes micro-PIXE particularly valuable for studying interactions between nutrient uptake and toxic metal accumulation.
+This multi-element capability makes micro-PIXE particularly valuable for studying interactions between [[plant-nutrient-uptake-mechanisms]] and toxic [[dighton-fungal-heavy-metal-accumulation-bioremediation]].
 
 ## Applications to Mycorrhizal Research
 
-Micro-PIXE has been applied to study element localization in roots of mycorrhizal plants colonized by [[the-apoplastic-symplastic-and-transcellular-transport-pathways]].
+Micro-PIXE has been applied to study [[micro-pixe-element-localization-mycorrhizal-roots]] in roots of mycorrhizal plants colonized by [[the-apoplastic-symplastic-and-transcellular-transport-pathways]].
 
 For example, accumulation of toxic metals in root cortical cells rather than vascular tissue suggests a strategy of root-level sequestration that prevents metal translocation to shoots.
 
-Differences in element distribution between mycorrhizal and non-mycorrhizal roots can reveal how fungal colonization modifies metal tolerance.
+Differences in element distribution between mycorrhizal and non-mycorrhizal roots can reveal how fungal colonization modifies [[fungal-metal-tolerance-mechanisms]].
 
 Co-localization patterns of essential nutrients and toxic elements can indicate competitive interactions for uptake or transport pathways.
 
 ## Comparison with Other Techniques
 
-Micro-PIXE offers advantages over several alternative analytical methods. Unlike bulk chemical analysis (AAS, ICP-MS), it provides spatially resolved information. Compared to electron microscopy-based techniques (EDX), it offers better sensitivity for [[micro-pixe-analysis-of-elements-in-mycorrhizal-roots]]
+Micro-PIXE offers advantages over several alternative analytical methods. Unlike bulk [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] (AAS, ICP-MS), it provides spatially resolved information. Compared to electron microscopy-based techniques (EDX), it offers better sensitivity for [[micro-pixe-analysis-of-elements-in-mycorrhizal-roots]]
 - [[micro-pixe-element-localization-mycorrhizal-roots]]
 ## Practical Considerations
 
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

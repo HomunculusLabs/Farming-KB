@@ -1,5 +1,5 @@
 ---
-title: Universal Symbology in Entheogenic Visions
+title: powell universal symbology in entheogenic visions in Entheogenic Visions
 created: 2026-04-28
 tags: [symbology, visionary-experience, entheogens, symbols, archetypes,
   shamanism, information-theory]
@@ -35,12 +35,12 @@ meaning.
 
 The serpent or snake serves as Powell's primary example of universal
 symbology. It appears in the religious mythology of cultures worldwide: the
-Maya and Aztecs, who worshipped Quetzalcoatl the Feathered Serpent; the
+Maya and Aztecs, who worshipped Quetzalcoatl the [[amanita-muscaria-feathered-serpent-phoenix]]; the
 ancient Egyptians, whose Pharaohs incorporated the viper as a symbol of
 wisdom; the Australian aborigines, who revered the Rainbow Serpent; the
 ancient epic of Gilgamesh, in which a serpent tells of a plant conferring
 immortality; the peoples of India, who worshipped Nagas or wise serpents; and
-in the Eden of the Old Testament, where the serpent offers forbidden fruit
+in the Eden of the [[allegro-old-testament-figures-as-fertility-deities]], where the serpent offers [[tree-of-knowledge-and-forbidden-fruit-theory]]
 from the tree of knowledge. In every case, the serpent symbolises a wise,
 divine, or spiritual life-force.
 
@@ -70,7 +70,7 @@ psychological language. Both processes yield specific, reproducible forms.
 
 While certain symbols appear universal, Powell acknowledges that entheogenic
 visions also contain culturally determined icons that can only be fully
-understood at the personal level. Among South American ayahuasca-using tribes,
+understood at the personal level. Among [[chiric-caspi-brunfelsia-south-american-hallucinogen]] ayahuasca-using tribes,
 visions feature powerful jungle creatures like the jaguar alongside the
 ubiquitous serpent. Claudio Naranjo, who spent years studying Amazonian
 shamanism, found that indigenous shamans consistently portray spiritual
@@ -93,3 +93,7 @@ perceive the same meaning.
 ## Naranjo on the Language of [[powell-sleeping-dreams-and-waking-dreams]],
 [[powell-entheogens-as-epistemological-tools]],
 [[powell-shamanic-wisdom-and-ritual-practice]]
+
+## See Also
+
+- [[ayahuasca-vision-art-and-shipibo-tradition]]

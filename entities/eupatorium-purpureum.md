@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Moore, M. (1993). Medicinal Plants of the Pacific West. Red Crane Books, Santa Fe.
   - Fernald, M.L. (1950). Gray's Manual of Botany, 8th edition. American Book Company.
-  - Ernst, W.R. (1962). "The genus Eupatorium in the North American flora." Ph.D. dissertation, University of Pennsylvania.
+  - Ernst, W.R. (1962). "The genus Eupatorium in the [[growing-gourmet-north-american-reishi-species]] flora." Ph.D. dissertation, University of Pennsylvania.
   - Foster, S. & Duke, J.A. (1990). A Field Guide to Medicinal Plants. Houghton Mifflin.
   - Cullina, W. (2000). The New England Wild Flower Society Guide to Growing and Propagating Wildflowers. Houghton Mifflin.
 ---
@@ -23,7 +23,7 @@ sources:
 
 **Eupatorium purpureum**, commonly known as Joe-Pye weed, sweet Joe-Pye weed, or gravel root, is a herbaceous perennial plant in the family Asteraceae. It is native to eastern and central North America, where it grows in moist meadows, woodland edges, and riparian areas.
 
-The plant is named after Joe Pye, a Native American herbalist who reportedly used the plant to treat typhus and other fevers in colonial New England. The species has a long history of use in traditional herbal medicine, particularly for kidney and urinary tract conditions.
+The plant is named after Joe Pye, a [[halpern-sacramental-peyote-and-native-american-church]] herbalist who reportedly used the plant to treat typhus and other fevers in colonial New England. The species has a long history of use in traditional herbal medicine, particularly for kidney and urinary tract conditions.
 
 In recent decades, E. purpureum has become increasingly popular in ornamental horticulture and ecological landscaping. Its tall stature, attractive pink flower clusters, and value as a pollinator plant have made it a staple of perennial borders and rain gardens.
 
@@ -43,7 +43,7 @@ The fruit is an achene, 3–4 mm long, with a pappus of 20–30 white bristles t
 
 ## Distribution and Habitat
 
-E. purpureum is native to eastern North America, from Ontario and Quebec south through the Appalachian Mountains to Georgia and Alabama, and west to Minnesota, Iowa, and Oklahoma. Isolated populations occur in the Ozarks and Ouachita Mountains.
+E. purpureum is native to [[polypore-fungi-eastern-north-america]] America, from Ontario and Quebec south through the Appalachian Mountains to Georgia and Alabama, and west to Minnesota, Iowa, and Oklahoma. Isolated populations occur in the Ozarks and Ouachita Mountains.
 
 It grows in moist to wet habitats including bottomland forests, stream banks, marsh edges, moist prairies, and roadside ditches. The species tolerates seasonal flooding but is absent from permanently saturated soils.
 
@@ -57,7 +57,7 @@ Plants should be spaced 90–120 cm apart to accommodate their mature spread of 
 
 Popular cultivars include 'Little Red' (compact, 120 cm), 'Little Joe' (dwarf, 90 cm), and 'Gateway' (robust, deep pink flowers). These selections are valued for their improved garden performance compared to the wild-type species.
 
-The plant is largely pest-free and unpalatable to deer and rabbits. Powdery mildew can affect foliage in humid conditions, though resistant cultivars minimize this issue. No serious insect pests are reported.
+The plant is largely pest-free and unpalatable to deer and rabbits. [[cervantes-powdery-mildew-prevention-treatment]] can affect foliage in humid conditions, though resistant cultivars minimize this issue. No serious insect pests are reported.
 
 ## Bioactive Compounds and Traditional Uses
 
@@ -75,7 +75,7 @@ E. purpureum is one of the most important late-season nectar sources for butterf
 
 The flowers also attract a diverse array of native bees, including bumblebees, sweat bees, and long-horned bees. Specialist bees in the genus *Melissodes* are closely associated with Eupatorium species.
 
-Songbirds including goldfinches, sparrows, and juncos consume the seeds in autumn and winter. The sturdy stems provide overwintering habitat for beneficial insects and architectural interest in winter gardens.
+Songbirds including goldfinches, sparrows, and juncos consume the seeds in autumn and winter. The sturdy stems provide overwintering [[query-how-do-i-design-habitat-for-beneficial-insects]] insects and architectural interest in winter gardens.
 
 ## Related Species
 
@@ -91,7 +91,7 @@ The dried root is the primary medicinal part, typically harvested in autumn afte
 
 Traditional dosage in herbal medicine is 2–4 grams of dried root per day, usually prepared as a decoction or cold infusion. Tinctures are commonly dosed at 2–4 mL three times daily. The taste is described as bitter, slightly astringent, and faintly aromatic.
 
-Contraindications include pregnancy and existing kidney disease without professional supervision. The sesquiterpene lactones may cause contact dermatitis in sensitive individuals. Drug interactions with diuretic medications are theoretically possible due to additive effects.
+Contraindications include pregnancy and existing kidney disease without professional supervision. The sesquiterpene lactones may cause contact dermatitis in sensitive individuals. [[cannabis-drug-interactions-and-contraindications]] with diuretic medications are theoretically possible due to additive effects.
 
 ## Landscape and Restoration Applications
 

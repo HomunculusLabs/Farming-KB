@@ -4,13 +4,14 @@ created: 2026-04-28
 tags: [fruit-trees, permaculture, orcharding, guilds]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
 # Apple Tree Care vs Apple Guild Design
 
-Both approaches aim to grow healthy, productive apple trees, but they operate at fundamentally different scales of thinking. [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], thinning, and spraying. [[dynamic-accumulators]] mine deep minerals, insectary plants attract predatory insects, and pest deterrents create a chemical barrier around the trunk. The goal is a self-regulating system that reduces ongoing maintenance over time. Success is measured by the health of the entire plant community and the ecosystem services it provides.
+Both approaches aim to grow healthy, productive apple trees, but they operate at fundamentally different scales of thinking. [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], thinning, and spraying. [[dynamic-accumulators]] mine deep minerals, insectary plants attract predatory insects, and pest deterrents create a chemical barrier around the trunk. The goal is a self-regulating system that reduces ongoing maintenance over time. Success is measured by the health of the entire plant community and the [[biodiversity-of-fungi-ecosystem-services-agriculture]] it provides.
 
 ## Functional Comparison
 
@@ -20,7 +21,7 @@ Both approaches aim to grow healthy, productive apple trees, but they operate at
 | Pest control | Sprays (spinosad, Bt, kaolin clay), pheromone traps, bagging | Parasitic wasps from dill/fennel; garlic/chives deter borers |
 | Weed suppression | Mulch ring, manual weeding | Living ground covers (clover, nasturtium, thyme) |
 | Pollination | Plant multiple varieties; protect bees during bloom | Insectary plants support pollinator populations year-round |
-| Disease prevention | Resistant varieties; sulfur/lime-sulfur sprays | Good air circulation from canopy management; diverse ecosystem |
+| [[cervantes-pest-disease-prevention-overview]] | Resistant varieties; sulfur/lime-sulfur sprays | Good air circulation from canopy management; diverse ecosystem |
 | Water management | Mulch to retain moisture; supplemental irrigation | Ground covers reduce evaporation; comfrey mulch holds moisture |
 | Yield focus | Maximum apple production per tree | Total production across all guild species |
 | Skill requirement | Horticultural knowledge, timing, technique | Ecological understanding, observation, patience |
@@ -33,7 +34,7 @@ Apple guild design has higher upfront costs (purchasing comfrey divisions, garli
 
 ## Where Apple Tree Care Excels
 
-Apple tree care provides the essential mechanical skills that no guild can replace. The central leader [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]], and homesteads where the apple tree is part of a larger integrated system.
+Apple tree care provides the essential mechanical skills that no guild can replace. The [[comparison-central-leader-vs-open-center-fruit-tree-training]] [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]], and homesteads where the apple tree is part of a larger integrated system.
 
 The guild requires 1-2 years of establishment before it begins functioning fully, while pruning and thinning have immediate effects. Plan accordingly: plant the guild species as you plant the tree, so they mature together. The guild's pest control and fertility benefits compound over time, but the tree still needs proper structural training from day one.
 
@@ -47,10 +48,12 @@ The pruning system, however, differs by species. Pears are also trained to a cen
 
 ## See Also
 
+- [[comparison-bromeliad-vs-orchid-care]]
+
 - [[apple-guild-design-guide]] for guild species selection and layout
-- fruit tree guilds vs companion planting for broader guild philosophy
+- fruit tree guilds vs [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] for broader guild philosophy
 - [[backyard-orchard-design]] for orchard-scale planning
-- food forest design vs backyard orchard design for landscape-scale decisions
+- food forest design vs [[comparison-food-forest-design-vs-backyard-orchard-design]] design for landscape-scale decisions
 ## Practical Considerations
 
 When working with Apple Tree Care vs Apple Guild Design, several practical factors should be
@@ -67,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

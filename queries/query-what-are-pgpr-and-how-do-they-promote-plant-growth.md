@@ -25,7 +25,7 @@ type: query
 
 ## Short Answer
 
-PGPR (Plant Growth-Promoting Rhizobacteria) are beneficial soil bacteria that colonize plant roots and directly or indirectly stimulate plant growth. They do this by fixing atmospheric nitrogen, solubilizing locked-up phosphorus and potassium, producing plant hormones like auxins and gibberellins, and protecting roots from pathogens through antibiotic production and induced systemic resistance. For growers, PGPR represent a practical tool to reduce synthetic fertilizer and pesticide inputs while building healthier [[root-exudates|root exudates]] and returning the favor with nutrients, growth hormones, and disease protection.
+PGPR (Plant Growth-Promoting Rhizobacteria) are beneficial soil bacteria that colonize plant roots and directly or indirectly stimulate plant growth. They do this by fixing atmospheric nitrogen, solubilizing locked-up phosphorus and potassium, producing plant hormones like auxins and gibberellins, and protecting roots from pathogens through antibiotic production and [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance. For growers, PGPR represent a practical tool to reduce synthetic fertilizer and pesticide inputs while building healthier [[root-exudates|root exudates]] and returning the favor with nutrients, growth hormones, and disease protection.
 
 ## What Does PGPR Stand For?
 
@@ -49,9 +49,9 @@ PGPR make essential nutrients available to plants that would otherwise be inacce
 
 ### Phytostimulation — Producing Plant Hormones
 
-Many PGPR synthesize phytohormones that directly regulate plant growth and development:
+Many PGPR synthesize phytohormones that directly [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]] and development:
 
-- **Indole-3-acetic acid (IAA):** The most common bacterial auxin. IAA-producing PGPR increase root surface area, lateral root formation, and root hair density, which improves nutrient and water uptake. Up to 80% of rhizosphere bacteria can produce IAA.
+- **Indole-3-acetic acid (IAA):** The most common bacterial auxin. IAA-producing PGPR increase root surface area, lateral root formation, and root hair density, which improves nutrient and water uptake. Up to 80% of [[lowenfels-rhizosphere-bacteria-plant-interaction]] can produce IAA.
 
 - **Gibberellins and cytokinins:** Stimulate cell elongation, seed germination, shoot elongation, and delay leaf senescence. *Azospirillum* and *Bacillus* are particularly noted for gibberellin production.
 
@@ -72,13 +72,13 @@ Dilute the inoculant in water (follow product label rates — typically 10⁸–
 ### Compost Tea Inoculation
 
 Add PGPR to aerated [[biochar-in-agriculture|biochar]]) can improve survival and establishment.
-- **Avoid bactericides:** Copper-based fungicides, hydrogen peroxide, and some synthetic chemicals can kill PGPR. Check compatibility before tank-mixing.
+- **Avoid bactericides:** Copper-based fungicides, [[cervantes-hydrogen-peroxide-sterilization]], and some synthetic chemicals can kill PGPR. Check compatibility before tank-mixing.
 - **Storage matters:** Most inoculants have a shelf life of 6–12 months. Store cool and dry. Freeze-dried formulations last longer than liquids.
 - **Reapply as needed:** PGPR populations may decline over a growing season, especially in tilled soils. Reapplication at key growth stages (flowering, fruit set) can extend benefits.
 
 ## Are PGPR Safe?
 
-Yes. The PGPR genera most commonly used in agriculture (*Bacillus*, *Pseudomonas fluorescens*, *Azospirillum*, *Rhizobium*) are generally recognized as safe (GRAS) and are non-pathogenic to humans, animals, and plants. They are already ubiquitous in healthy soils and on root surfaces worldwide. No significant adverse effects have been documented in decades of field use across billions of treated hectares.
+Yes. The PGPR genera most commonly used in agriculture (*Bacillus*, *Pseudomonas fluorescens*, *Azospirillum*, *Rhizobium*) are generally recognized as safe (GRAS) and are non-pathogenic to humans, animals, and plants. They are already ubiquitous in healthy soils and on root surfaces worldwide. No significant [[blesching-cannabis-safety-adverse-effects-evidence]] have been documented in decades of field use across billions of treated hectares.
 
 Regulatory frameworks vary by country. In the US, many PGPR products are registered as biofertilizers or biopesticides by the EPA under reduced-risk categories; in the EU, they fall under Regulation (EC) No 1107/2009 for plant protection products. Always use products from reputable suppliers with proper registration for your region.
 
@@ -87,7 +87,7 @@ Regulatory frameworks vary by country. In the US, many PGPR products are registe
 PGPR are powerful but not a silver bullet. Key limitations to understand:
 
 - **Environmental specificity:** A strain that excels in loam soils at pH 6.5 may fail in sandy acidic soils. Temperature, moisture, pH, and organic matter all affect colonization and efficacy. Match the strain to your conditions.
-- **Competition with native microbiome:** In soils with a dense, established microbial community, introduced PGPR may struggle to establish — paradoxically, the soils that need PGPR least may be the hardest to inoculate.
+- **Competition with native microbiome:** In soils with a dense, established [[edaphic-factors-microbial-community-structure]], introduced PGPR may struggle to establish — paradoxically, the soils that need PGPR least may be the hardest to inoculate.
 - **Shelf life and viability:** Many inoculants lose viability during storage and transport. Liquid formulations have shorter shelf lives than lyophilized powders. Check CFU counts at time of use.
 - **Variable field results:** Greenhouse trials often show dramatic responses; field results can be inconsistent. Expect incremental improvements (10–30% yield gains under good conditions) rather than transformations.
 - **Not a substitute for good soil management:** PGPR work best as part of a holistic approach. See [[ingham-field-guide-compost-tea-ingredients-and-recipes|compost tea]] as complementary practices.

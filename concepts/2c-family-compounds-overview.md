@@ -1,5 +1,5 @@
 ---
-title: 2C Family Compounds Overview
+title: 2C 2c family compounds overview Overview
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -87,7 +87,7 @@ The 2C family spans a wide range of potencies:
 - Fluorine (2C-F) is relatively weak
 
 ### Alkyl Series (D, E, P)
-- Increasing chain length generally increases potency up to ethyl, then decreases
+- Increasing [[phenethylamine-chain-length-effects]] generally increases potency up to ethyl, then decreases
 - 2C-D (methyl) is notably mild and gentle
 - 2C-E (ethyl) is among the most powerful and profound
 - 2C-P (propyl) is active but less reliable

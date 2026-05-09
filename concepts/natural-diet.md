@@ -1,5 +1,5 @@
 ---
-title: Natural Diet
+title: fukuoka-natural-diet-as-foundation
 created: 2026-04-28
 tags: [nutrition, philosophy, health, food, fukuoka]
 date: 2026-04-28
@@ -22,11 +22,11 @@ Fukuoka proposed that illness is proportional to humanity's distance from
 nature. "Illness begins when man moves away from nature, and the severity
 with which he is afflicted is proportional to his estrangement." A sick
 person who returns to nature can be cured, but this return requires more
-than simply eating natural food — it demands becoming a "natural person"
+than simply [[fukuoka-seasonal-eating-natural-food-calendar]] food — it demands becoming a "natural person"
 whose body and spirit are prepared to receive it.
 
 This creates a paradox: urban people seeking natural food cannot truly
-benefit from it because they lack the natural body and spirit to properly
+benefit from it because they lack the [[fukuoka-natural-body-and-health]] and spirit to properly
 digest and assimilate it. The complexity of trying to eat a "natural diet"
 in an urban environment — calculating yin-yang balance, sourcing organic
 foods, following dietary rules — actually drives people further from nature
@@ -36,12 +36,12 @@ rather than toward it.
 
 Fukuoka conceived natural diet as part of an inseparable trinity:
 
-1. **Natural farming** provides the food
+1. **[[comparison-natural-farming-vs-permaculture]]** provides the food
 2. **Natural diet** sustains the body
 3. **Natural healing** restores health
 
 All three depend on the existence of "natural people." Without established
-natural farming methods, a true natural diet cannot take hold. Without a
+natural [[natural-farming-methods-comparison]], a true natural diet cannot take hold. Without a
 natural diet, farmers have no clear purpose for what they should produce.
 Both require natural people to embody them. "This trinity begins and is
 realized at once," Fukuoka wrote. "The goal of all three elements is the
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

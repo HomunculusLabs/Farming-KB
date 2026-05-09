@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Philosophy of Natural Farming
+title: Fukuoka's Philosophy of comparison-natural-farming-vs-permaculture
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Masanobu Fukuoka, The Natural Way of Farming"
@@ -21,7 +21,7 @@ methodless method of nature, the unmoving way of Bodhidharma.
 Although appearing fragile and vulnerable, natural farming is potent for it
 brings victory unfought. It is a Buddhist way of farming that is boundless and
 yielding, and leaves the soil, the plants, and the insects to themselves. The
-objective is non-action and a return to nature; it is centrifugal and
+objective is non-action and a [[emcdda-return-to-nature-megatrend-mushroom-appeal]]; it is centrifugal and
 convergent.
 
 ## Farmers Do Not Produce Food
@@ -89,7 +89,7 @@ labor-saving.
 Natural farming produces 130 pounds of rice -- or 200,000 kilocalories of
 energy -- per man-day of labor, without the input of any outside materials.
 This is about 100 times the daily intake of 2,000 kilocalories by a farmer on
-a natural diet. Ten times as much energy was expended in traditional farming,
+a [[fukuoka-natural-diet-as-foundation]]. Ten times as much energy was expended in traditional farming,
 which used horses and oxen to plow the fields. The energy input was doubled
 again with small-scale mechanization, and doubled yet another time with
 large-scale mechanization.
@@ -112,6 +112,9 @@ change the way man lives.
 
 ## See Also
 
-- [[fukuoka-five-principles-natural-farming]]
+- fukuoka-five-principles-natural-farming
 - [[fukuoka-straw-soil-building]]
 - [[fukuoka-straw-healing-the-earth]]
+- [[natural-farming]]
+- [[fukuoka-natural-farming-philosophy]]
+- [[masanobu-fukuoka-natural-farming-philosophy]]

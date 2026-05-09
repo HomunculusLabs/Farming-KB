@@ -6,14 +6,14 @@ tags: [fungal-pathogen, wet-bubble, mushroom-disease, casing-contaminant, soil-b
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+  sources: []
 ---
 
 # Mycogone perniciosa
 
 ## Taxonomy
 
-Mycogone perniciosa Magnus is a fungal pathogen classified in the Fungi Imperfecti
+Mycogone perniciosa Magnus is a [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] classified in the Fungi Imperfecti
 (Deuteromycota), order Moniliales, family Hyphomycetaceae. The genus name derives from
 the Greek "myco" meaning fungal and "gone" meaning reproductive body, referencing this
 mold's tendency to parasitize the mushroom fruitbody. Common names include Bubble, Wet
@@ -51,11 +51,11 @@ this contaminant to healthy regions of the crop.
 
 ## Role in Mushroom Cultivation
 
-Mycogone perniciosa is one of the most damaging fungal pathogens in mushroom
+Mycogone perniciosa is one of the most damaging [[bloomfield-fungal-pathogens-and-parasites]] in mushroom
 cultivation, causing the disease known as Wet Bubble. It directly attacks the mushroom
 fruitbody, causing the mushroom to develop into a distorted, bubble-like mass. The
 mycelia of Mycogone intergrow with mushroom mycelia, according to Kneebone (1961), making
-it particularly insidious as it exploits the mushroom's own mycelial network.
+it particularly insidious as it exploits the mushroom's own [[gadd-mycelial-network-dynamics]].
 
 This is a vigorous and resilient contaminant. Its spores are killed at 120 degrees F
 when exposed to moist heat (pasteurization) for 24 hours. If Mycogone appears during the
@@ -67,7 +67,7 @@ infestations are more probably spread by flies, workers, air currents, or other 
 
 Effective control of Mycogone perniciosa requires a multi-faceted approach:
 
-- **Casing Hygiene:** Use of clean casing materials is essential
+- **Casing Hygiene:** Use of clean [[mushroom-cultivator-casing-materials-buffering-agents]] is essential
 - **Temperature Management:** Moderation of temperature, keeping conditions below the
   organism's preferred range
 - **Isolation:** Without touching the casing, infected mushrooms should be removed from
@@ -113,10 +113,10 @@ response. Prevention through use of clean casing materials and strict hygiene pr
 remains the best long-term strategy.
 
 The relationship between Mycogone perniciosa and its suspected teleomorph Hypomyces
-illustrates the complexity of fungal taxonomy in the Fungi Imperfecti. Many asexual
+illustrates the complexity of [[molecular-methods-fungal-taxonomy-and-diversity]] in the Fungi Imperfecti. Many asexual
 fungal pathogens of mushrooms may represent only the conidial (asexual) stage of
 sexually reproducing ascomycetes, a fact that complicates both identification and the
-development of targeted control strategies.
+development of targeted [[jadam-weed-control-strategies-natural]].
 
 ## See Also
 - [[pseudomonas-tolaasii-entity-the-mushroom-cultivator]]

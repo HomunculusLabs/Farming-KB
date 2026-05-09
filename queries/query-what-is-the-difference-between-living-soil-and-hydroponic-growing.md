@@ -1,5 +1,5 @@
 ---
-title: "What Is the Difference Between Living Soil and Hydroponic Growing?"
+title: "What Is the query what is the difference between living soil and hydroponic growing Soil and cannabis-grow-hydroponic-growing-systems?"
 created: 2026-04-28
 tags: [query, living-soil, hydroponic, cannabis, growing-methods]
 date: 2026-04-25
@@ -12,14 +12,16 @@ type: query
 
 ## Short Answer
 Living soil grows plants in a biologically active organic medium where microbes
-break down amendments and feed nutrients to roots symbiotically. Hydroponics grows
+[[query-can-fungi-break-down-plastic-pollution]] amendments and feed nutrients to roots symbiotically. Hydroponics grows
 plants in inert media or water with dissolved mineral salts, bypassing soil
-biology entirely. Living soil produces complex terpene profiles with minimal
+biology entirely. Living soil produces complex [[cannabis-terpene-profiles-sativa]] with minimal
 ongoing intervention; hydroponics offers faster growth and higher yields with
 precise nutrient control.
 
 ## Detailed Explanation
-## Related Questions
+## Related
+
+- [[query-what-is-the-difference-between-organic-regenerative-and-biodynamic-agriculture]] Questions
 - [[query-dwc-vs-coco-coir-vs-soil-cannabis-growing]]
 - [[query-what-is-the-soil-food-web-and-why-does-it-matter]]
 - [[query-what-is-the-difference-between-biointensive-and-no-till-gardening]]
@@ -103,4 +105,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

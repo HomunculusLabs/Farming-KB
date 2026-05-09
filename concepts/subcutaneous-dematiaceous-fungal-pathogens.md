@@ -1,5 +1,5 @@
 ---
-title: "Subcutaneous and Dematiaceous Fungal Pathogens"
+title: "Subcutaneous and subcutaneous dematiaceous fungal pathogens Pathogens"
 created: 2026-04-26
 tags:
   - mycology
@@ -62,7 +62,7 @@ Sporothrix schenckii, an anamorphic species closely related to
 Ophiostoma stenoceras (Ophiostomataceae), mainly causes a
 slow-spreading lymphatic and subcutaneous infection. It shows the same
 degree of specialization for pathogenesis as the Onygenalean systemic
-pathogens do, including conversion to a particulate vegetative phase (a
+pathogens do, including conversion to a particulate [[green-cannabis-grow-bible-vegetative-phase-management]] (a
 budding yeast) within host tissue and resistance to killing by the
 neutrophil and macrophage components of the vertebrate cellular immune
 system. It has a worldwide distribution and is associated mostly with
@@ -133,19 +133,16 @@ particular geographic associations:
 Key virulence attributes of subcutaneous fungal pathogens include:
 
 - **Melanin production**: Dark pigments in cell walls protect against
-  oxidative killing by host immune cells and may scavenge free
+  oxidative killing by [[fungal-virulence-factors-host-immune-evasion]] cells and may scavenge free
   radicals
 - **Thermotolerance**: Ability to grow at mammalian body temperature
-- **Sclerotic body formation**: In chromoblastomycosis agents, the
+- **Sclerotic [[fungal-fruiting-body-formation-environmental-triggers]]**: In chromoblastomycosis agents, the
   ability to form thick-walled cells that resist phagocytosis
 - **Dimorphism**: Conversion from environmental mold form to tissue
   yeast form (Sporothrix schenckii)
-- **Enzyme production**: Production of proteases, collagenases, and
-  other tissue-degrading enzymes that facilitate tissue invasion
-
-- [[fungal-invasive-species-and-exotic-pathogens]]
-- [[fungal-virulence-factors-host-immune-evasion]]
-
 ## See Also
 
 - [[dematiaceous-fungi-melanin-fungal-ecology]]
+- [[fusarium-verticillioides]]
+- [[fungal-hyphae]]
+- [[melanized-fungal-pathogens]]

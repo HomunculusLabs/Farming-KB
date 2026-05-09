@@ -44,11 +44,11 @@ sugars, amino acids, organic acids, and other compounds from their leaves that a
 accelerates and enriches this natural process by flooding the phyllosphere with a concentrated dose of beneficial organisms that rapidly occupy available
 ecological niches, consume leaf exudates, and form a protective biofilm over the leaf surface.
 
-The disease suppression mechanisms of compost tea are both direct and indirect, operating through multiple simultaneous pathways. Beneficial bacteria and fungi
+The [[aact-disease-suppression-mechanisms-ingham]] mechanisms of compost tea are both direct and indirect, operating through multiple simultaneous pathways. Beneficial bacteria and fungi
 compete with potential pathogens for physical space and nutritional resources on leaf surfaces through competitive exclusion. Many organisms in well-brewed
 compost tea, particularly pseudomonads and Bacillus species, also produce natural antibiotics, bacteriocins, lytic enzymes, and antifungal compounds that
 directly inhibit or kill pathogenic species responsible for powdery mildew, downy mildew, botrytis, and other common foliar diseases. Compost tea quality
-depends entirely on the starting compost, brewing ingredients, and strict aerobic conditions throughout the cycle. If dissolved oxygen drops too low,
+depends entirely on the starting compost, [[aact-brewing-ingredients-ingham]], and strict aerobic conditions throughout the cycle. If dissolved oxygen drops too low,
 facultative anaerobes can produce harmful metabolites. Finished AACT should have a pleasant, earthy smell; any foul odor indicates a compromised brew. Tea
 should be applied within four to six hours of brewing to ensure maximum microbial viability.
 
@@ -59,17 +59,17 @@ should be applied within four to six hours of brewing to ensure maximum microbia
 | Primary Delivery | Mineral nutrients in ionic form | Living microorganisms |
 | Absorption Mechanism | Through stomata and cuticle | Phyllosphere surface colonization |
 | Speed of Effect | Rapid, within hours to days | Gradual, over days to weeks |
-| Nutrient Mobility Limit | Immobile nutrients stay at deposition site | Not applicable, biological action |
+| [[cervantes-nutrient-mobility-deficiency-diagnosis]] Limit | Immobile nutrients stay at deposition site | Not applicable, biological action |
 | Disease Protection | Indirect, via healthier plants | Direct competitive exclusion and antibiotics |
 | Application Frequency | As needed for diagnosed deficiencies | Weekly during active growing season |
-| Cost per Application | Low, just nutrient solutions | Moderate, requires compost and brewing equipment |
+| Cost per Application | Low, just nutrient solutions | Moderate, requires compost and [[compost-tea-brewing-equipment-ingham]] |
 | Soil Benefits | None when applied strictly as foliar spray | Also improves soil biology when used as drench |
 | Risk of Plant Damage | Leaf burn if over-applied or in hot sun | Minimal if properly brewed and applied |
 | Duration of Effect | Short-term, nutrients metabolized quickly | Longer-term, microbes establish persistent colonies |
 
 ## When to Choose Foliar Feeding
 
-Foliar feeding is the appropriate choice when a specific nutrient deficiency has been diagnosed through tissue testing, sap analysis, or clear visual symptoms
+Foliar feeding is the appropriate choice when a specific [[cannabis-grow-nutrient-deficiency-problem-solving]] has been diagnosed through tissue testing, sap analysis, or clear visual symptoms
 and rapid correction is needed. It is particularly effective for mobile nutrients like nitrogen, potassium, and magnesium that can be redistributed from the
 application site to growing tissue throughout the plant. Foliar feeding also serves as a valuable bridge strategy when root uptake is temporarily impaired by
 waterlogged, compacted, cold, or drought-stressed soils.
@@ -88,7 +88,7 @@ simultaneous mechanisms.
 
 Compost tea is especially valuable in humid climates, in dense plantings with poor airflow, and in greenhouse environments where disease pressure is chronically
 high and chemical controls may damage beneficial biology. Compost tea also offers superior versatility because it serves effectively as both a foliar spray and
-a soil drench. Applied to soil, it inoculates the rhizosphere with beneficial bacteria, fungi, protozoa, and nematodes that improve nutrient cycling, suppress
+a soil drench. Applied to soil, it inoculates the rhizosphere with beneficial bacteria, fungi, protozoa, and nematodes that improve [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], suppress
 soil-borne pathogens, and build stable soil aggregate structure over time.
 
 ## Hybrid Approaches

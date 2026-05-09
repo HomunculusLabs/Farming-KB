@@ -1,5 +1,5 @@
 ---
-title: Fungal Immobilization and Bioreactor Systems
+title: singh-fungal-immobilization-bioreactor-technology and Bioreactor Systems
 created: 2026-04-28
 tags: [bioremediation, bioreactor, immobilization, effluent-treatment, white-rot-fungi]
 date: 2026-04-25
@@ -21,7 +21,7 @@ continuous or semi-continuous treatment processes. This approach is central to
 [[staycare-fungal-immobilization-and-entrapment-for-bioremediation]].
 
 White-rot fungi such as [[staycare-phanerochaete-chrysosporium-in-bioremediation]] produce extracellular
-ligninolytic enzymes including [[staycare-lignin-peroxidase-and-pollutant-degradation]], and
+[[singh-ligninolytic-enzymes-fungal-bioremediation]] including [[staycare-lignin-peroxidase-and-pollutant-degradation]], and
 [[staycare-manganese-peroxidase-in-fungal-bioremediation]] that can degrade a wide
 spectrum of recalcitrant pollutants. Immobilization allows these organisms to
 maintain high enzyme-producing biomass within reactor systems over extended
@@ -55,7 +55,7 @@ bioreactor systems, each with distinct advantages:
    growth on pieces of jute rope proved successful for effluent treatment
    (Marwaha et al., 1998), offering a low-cost support material.
 
-5. **Mycelial pellet formation**: Naturally grown, self-immobilized pellets of
+5. **Mycelial [[singh-fungal-pellet-formation-bioremediation]]**: Naturally grown, self-immobilized pellets of
    T. versicolor have been used directly in packed bed reactors (Bajpai et
    al., 1993), avoiding the need for artificial support materials.
 
@@ -118,19 +118,19 @@ retention time.
 Synthetic dye-containing effluents from textile industries are another major
 application. The broad-spectrum decolorization activity of white-rot fungi,
 particularly T. versicolor strains, makes immobilized systems suitable for
-treating complex dye mixtures in fungal treatment of textile industry wastewater.
+treating complex dye mixtures in fungal [[fungal-treatment-of-textile-dyes-mechanisms]] industry wastewater.
 
 ### Explosives-Contaminated Water Treatment
 
 Sublette et al. (1992) demonstrated that P. chrysosporium cultures
 immobilized on rotating biological contactor discs effectively removed TNT
 and RDX from pink water waste streams to allowable limits, representing a
-full-scale field application of immobilized fungal bioremediation technology.
+full-scale field application of immobilized [[staycare-composting-as-a-fungal-bioremediation-strategy]] technology.
 
 ## References
 
 - Bajpai, P. et al. (1993). Decolorization of kraft bleach plant effluent
-  with Trametes versicolor. *Process Biochemistry*, 28, 377-384.
+  with [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]. *Process Biochemistry*, 28, 377-384.
 - Pal, N., Lewandowski, G. & Armenante, P. M. (1995). Degradation of
   chlorophenols by immobilized P. chrysosporium. *Biotechnol. Bioeng.* 46.
 - Pallerla, S. & Chambers, R. P. (1996). T. versicolor decolorization in

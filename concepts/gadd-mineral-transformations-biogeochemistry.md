@@ -1,42 +1,13 @@
 ---
-title: "Mineral Transformations and Biogeochemistry"
+title: "fungal-mineral-transformations-biogeochemical-cycles-gadd and Biogeochemistry"
 created: 2026-04-28
-tags: [[mycology, biogeochemistry, weathering, geomycology, nutrient-cycling]
+tags: [mycology, biogeochemistry, weathering, geomycology, nutrient-cycling]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
 type: concept
 ---
-
-# Mineral Transformations and Biogeochemistry
-
-Fungi play significant roles in the transformation of minerals and the cycling
-of elements in terrestrial environments. As geomycological agents, fungi
-contribute to rock weathering, mineral dissolution, metal mobilization, and
-the formation of secondary minerals. Their filamentous growth habit, metabolic
-versatility, and ability to thrive in extreme environments make them
-particularly effective agents of biogeochemical change. This field, termed
-geomycology, examines the diverse ways in which fungi interact with the
-mineral world.
-
-## Elements and Their Bioavailability
-
-Many elements have essential functional potential: for the synthesis of
-biological macromolecules and energy capture (C, N, H, O, P, S), for the
-transmission of information (Na, K, Ca), for catalysis (Fe, Cu, Zn, Mo),
-for transfer of electrons (Fe), and for building solid structures (Ca, P,
-Si). All these elements must be released into bioavailable forms that can be
-assimilated by the biota. Their release occurs via weathering of rock
-substrates and mineral constituents through physical, chemical, and biological
-processes.
-
-In addition to mobilization of essential nutrients during lithospheric
-weathering, non-essential toxic metals (Cs, Al, Cd, Hg, Pb) may also be
-mobilized. Metals can exert toxic effects by blocking functional groups of
-enzymes, displacing essential metal ions, disrupting cellular membranes, and
-interacting with protective antioxidant systems. Fungi employ a variety of
-mechanisms for tolerance and survival, as described in
-[[gadd-fungal-rock-weathering]] communities in soil are
+# Mineral Transformations and Biogeochemistry Fungi play significant roles in the transformation of minerals and the cycling of elements in terrestrial environments. As geomycological agents, fungi contribute to rock weathering, mineral dissolution, metal mobilization, and the formation of secondary minerals. Their filamentous growth habit, metabolic versatility, and ability to thrive in extreme environments make them particularly effective agents of biogeochemical change. This field, termed geomycology, examines the diverse ways in which fungi interact with the mineral world. ## Elements and Their Bioavailability Many elements have essential functional potential: for the synthesis of biological macromolecules and energy capture (C, N, H, O, P, S), for the transmission of information (Na, K, Ca), for catalysis (Fe, Cu, Zn, Mo), for transfer of electrons (Fe), and for building solid structures (Ca, P, Si). All these elements must be released into bioavailable forms that can be assimilated by the biota. Their release occurs via weathering of rock substrates and mineral constituents through physical, chemical, and biological processes. In addition to mobilization of essential nutrients during lithospheric weathering, non-essential toxic metals (Cs, Al, Cd, Hg, Pb) may also be mobilized. Metals can exert toxic effects by blocking functional groups of enzymes, displacing essential metal ions, disrupting cellular membranes, and interacting with protective antioxidant systems. Fungi employ a variety of mechanisms for tolerance and survival, as described in [[gadd-fungal-rock-weathering]] communities in soil are
 very diverse, with [[aspergillus-niger]] and Penicillium
 expansum can degrade olivine, dunite, serpentine, muscovite, feldspar,
 spodumene, kaolin, nepheline, and basalt.
@@ -44,12 +15,13 @@ spodumene, kaolin, nepheline, and basalt.
 ## Ecological Significance
 
 Fungal mineral transformations have profound ecological implications for
-[[gadd-fungal-nutrition-metabolism]] and ecosystem nutrient availability.
+[[gadd-fungal-nutrition-metabolism]] and ecosystem [[ph-and-nutrient-availability-garden-soils]].
 By solubilizing minerals, fungi release essential nutrients into bioavailable
-forms for plant uptake. Mycorrhizal fungi are particularly important in this
+forms for plant uptake. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] are particularly important in this
 regard, as they directly connect plant roots to mineral soil horizons.
 
 Fungal weathering contributes to soil formation, landscape evolution, and the
+
 ## Practical Considerations
 
 When working with Mineral Transformations and Biogeochemistry, several practical factors should be
@@ -66,7 +38,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +80,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

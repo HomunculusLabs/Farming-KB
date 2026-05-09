@@ -1,5 +1,5 @@
 ---
-title: Icaros — Shamanic Chanting in Ayahuasca Ceremonies
+title: Icaros — Shamanic Chanting in metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods
 aliases: [Icaro, Icaros, Shamanic songs, Ayahuasca songs, Shipibo icaros]
 tags: [icaros, ayahuasca, shamanism, shipibo, chanting, music, peru, amazon, entheogen]
 created: 2026-05-08
@@ -8,7 +8,7 @@ source: stuart-r-ayahuasca-tourism.md
 
 # Icaros — Shamanic Chanting in Ayahuasca Ceremonies
 
-Icaros (also spelled *ikaros*) are sacred melodic chants sung by Amazonian shamans during ayahuasca ceremonies. They serve as one of the most distinctive and essential elements of the ayahuasca experience, functioning simultaneously as diagnostic tools, healing instruments, energetic protection, and maps of the visionary landscape encountered under the influence of the brew.
+Icaros (also spelled *ikaros*) are sacred melodic chants sung by Amazonian shamans during ayahuasca ceremonies. They serve as one of the most distinctive and essential elements of the ayahuasca experience, functioning simultaneously as [[fukuoka-textdoc-weeds-as-soil-diagnostic-tools-orchard-restoration]], healing instruments, energetic protection, and maps of the visionary landscape encountered under the influence of the brew.
 
 ## Definition and Cultural Context
 
@@ -30,7 +30,7 @@ Many icaros feature melodic contours that rise and fall in wave-like patterns, m
 
 ## References
 
-- Stuart, R. "Ayahuasca Tourism: A Cautionary Tale." *MAPS*, Vol. XII, No. 2, Summer 2002, pp. 36–38.
+- Stuart, R. "[[stuart-r-ayahuasca-tourism-cautionary-ethnography]]: A Cautionary Tale." *MAPS*, Vol. XII, No. 2, Summer 2002, pp. 36–38.
 - Luna, L.E. *Vegetalismo: Shamanism Among the Mestizo Population of the Peruvian Amazon*. Almqvist & Wiksell International, 1986.
 ## Practical Applications
 
@@ -109,4 +109,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

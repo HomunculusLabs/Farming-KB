@@ -1,5 +1,5 @@
 ---
-title: Battelle Diesel Mycoremediation Study
+title: Battelle battelle diesel mycoremediation study Study
 created: 2026-04-22
 updated: 2026-04-22
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/books/stamets-p-mycelium-running.md]
 
 # Battelle Diesel Mycoremediation Study
 
-The Washington State DOT maintenance yard experiment that proved oyster mushrooms can degrade petroleum hydrocarbons
+The Washington State DOT maintenance yard experiment that proved [[query-how-to-grow-oyster-mushrooms-at-home]] can degrade petroleum hydrocarbons
 
 ## Background
 
@@ -35,7 +35,7 @@ approximately 3-4 feet in height, 20 feet in length, and 8 feet in width.
 
 Four treatments:
 1. Mycoremediation pile: ~10 cubic yards of soil mixed with ~3 cubic yards
-   of pure culture sawdust spawn (~30% of pile volume), using parallel
+   of pure culture [[growing-gourmet-sawdust-spawn-production-use]] (~30% of pile volume), using parallel
    sheet spawning technique
 2. Bacterial treatment pile #1
 3. Bacterial treatment pile #2
@@ -85,7 +85,7 @@ had shrunk substantially compared to the other piles.
 ## Preceding Lab Studies
 
 In preceding bench-scale experiments, the Battelle team used oyster mushroom
-(Pleurotus ostreatus) mycelium to test its ability to break down
+(Pleurotus ostreatus) mycelium to test its ability to [[query-can-fungi-break-down-plastic-pollution]]
 diesel-saturated soil. Key findings:
 
 - With mycelium + unsterilized alder chips + bunker C oil (Exxon Valdez
@@ -122,11 +122,14 @@ entire ecological communities.
 
 ## Source
 
-Mycelium Running by Paul Stamets, Chapter 7: Mycoremediation
+[[woodlovers-mycelium-running-pathway-technique]] by Paul Stamets, Chapter 7: Mycoremediation
 
 ## See Also
 
 - [[cotter-mycoremediation-overview]]
 - [[fungal-bioremediation-mechanisms]]
-- [[fungal-carbon-substrate-utilization-efficiency]]
-- [[stamets-spawning-and-spawn-running]]
+- fungal-carbon-substrate-utilization-efficiency
+- stamets-spawning-and-spawn-running
+- [[mycelial-colonization]]
+- [[oyster-mushroom]]
+- [[pleurotus-ostreatus]]

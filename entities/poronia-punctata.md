@@ -48,7 +48,7 @@ The stroma is attached to the substrate by a short, stalk-like base. Internally 
 
 ## Distribution and Habitat
 
-*P. punctata* has a wide but fragmented global distribution spanning Europe, North America, Asia, and Australasia. In Europe it was once common but is now rare, persisting primarily in nature reserves and extensive grazing systems.
+*P. punctata* has a wide but fragmented [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] spanning Europe, [[psilocybin-north-america-pacific-northwest]], Asia, and Australasia. In Europe it was once common but is now rare, persisting primarily in nature reserves and extensive grazing systems.
 
 The species is strictly coprophilous, fruiting almost exclusively on herbivore dung — particularly horse and cow dung. It shows a strong preference for dung from animals grazing on unimproved, species-rich pastures rather than intensively managed agricultural land.
 
@@ -58,7 +58,7 @@ Substrates are typically well-rotted dung in open, sunny grassland. Fruiting occ
 
 The life cycle is tightly linked to herbivore grazing patterns. Ascospores pass through the herbivore gut and are deposited in fresh dung, where they germinate after 2–4 weeks. This gut-passage requirement means the fungus depends entirely on the continued presence of large grazing mammals in its habitat.
 
-Colonization is competitive — *P. punctata* is a secondary colonizer, fruiting on dung already partially decomposed by bacteria and other fungi such as [[coprinus-comatus-detailed]]. The carbonaceous stroma is long-lived, persisting for months on the substrate.
+Colonization is competitive — *P. punctata* is a secondary colonizer, fruiting on dung already partially decomposed by bacteria and other fungi such as [[coprinus-comatus]]. The carbonaceous stroma is long-lived, persisting for months on the substrate.
 
 The species is sensitive to ivermectin and other antihelminthic residues in dung. These veterinary drugs suppress the coprophilous fungal community, preventing sporulation and disrupting the entire dung-inhabiting food web. Research has shown that even sub-lethal drug concentrations can reduce sporulation rates by over 90%.
 
@@ -66,7 +66,7 @@ Spore dispersal is primarily mechanical — raindrops striking the stroma expel 
 
 ## Bioactive Compounds
 
-Several bioactive metabolites have been isolated from *P. punctata* culture. The cytochalasins — notably cytochalasin C, D, and J — are the most significant secondary metabolites produced by this species.
+Several bioactive metabolites have been isolated from *P. punctata* culture. The cytochalasins — notably cytochalasin C, D, and J — are the most significant [[antifungal-secondary-metabolites-coprophilous-fungi]] produced by this species.
 
 Cytochalasins are fungal metabolites that bind to actin filaments and disrupt cytoskeletal function. They have been investigated for anticancer, antifungal, and antiviral properties in laboratory settings.
 
@@ -96,20 +96,20 @@ Molecular phylogenetic analyses using ITS and beta-tubulin sequences confirm *Po
 
 *P. punctata* can be cultured on sterilized herbivore dung or artificial media. It grows slowly in vitro, forming dark, compact colonies. Sporulation in culture requires specific conditions including near-UV light exposure.
 
-The species has been used as a model organism in studies of fungal developmental biology, particularly research on stroma formation and the regulation of sexual reproduction in carbonaceous ascomycetes.
+The species has been used as a model organism in studies of fungal developmental biology, particularly research on stroma formation and the regulation of [[fungal-life-cycles-sexual-reproduction-metamorphosis]] in carbonaceous ascomycetes.
 
 Cultivation from field-collected dung samples is a standard technique in mycological surveys. The fruiting bodies are distinctive enough that even amateur mycologists can reliably identify them in the field.
 
 ## See Also
 
 - [[xylaria-hypoxylon]]
-- [[coprinus-comatus-detailed]]
+- [[coprinus-comatus]]
 - [[panaeolus-cyanescens-cultivation-guide|Panaeolus]]
-- [[comfrey]]
-- [[typha-latifolia-entity]]
+- comfrey
+- typha-latifolia-entity
 - nitrogen
 - bioenergy
-- erosion control
-- carbon sequestration
+- [[permplant-willows-salix-erosion-control-fodder]]
+- [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]
 - wetland
 - cattail

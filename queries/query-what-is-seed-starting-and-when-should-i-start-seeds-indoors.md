@@ -1,10 +1,11 @@
 ---
-title: "What Is Seed Starting and When Should I Start Seeds Indoors?"
+title: "What Is comparison-cannabis-cloning-vs-seed-starting-indoors and When Should I Start Seeds Indoors?"
 created: 2026-04-28
 tags: [query, seed-starting, propagation, beginner]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/steve-solomon-gardening-when-it-counts.md"
 type: query
 ---
 
@@ -44,7 +45,7 @@ roots. The principles in [[solomon-seed-starting-transplanting]]
 technique during this phase dramatically improves survival rates.
 
 For gardeners who want to extend their season without indoor lighting
-equipment, [[season-extension-techniques]] like row covers, low
+equipment, [[season-extension-techniques]] like [[solomon-row-covers-and-season-extension]], low
 tunnels, and cloches can further push the boundaries of your growing
 season. These tools allow you to start seeds outdoors earlier in spring
 and protect them later into fall, reducing your reliance on indoor space
@@ -73,7 +74,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +116,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

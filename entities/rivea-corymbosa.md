@@ -16,14 +16,14 @@ sources:
 
 # Rivea corymbosa
 
-**Rivea corymbosa**, commonly known as **Ololiuqui**, is a woody climbing vine in the morning glory family (Convolvulaceae). It is one of the most culturally significant psychoactive plants in Mesoamerican history, used by the Aztec and their descendants for divination, healing, and religious ceremonies for over a millennium. The seeds contain lysergic acid amide (LSA) and related ergoline alkaloids. The plant is now generally considered synonymous with or conspecific with [[turbina-corymbosa]] for additional information under that name.
+**Rivea corymbosa**, commonly known as **Ololiuqui**, is a woody climbing vine in the [[golden-guide-morning-glory-and-ololiuqui]] family (Convolvulaceae). It is one of the most culturally significant psychoactive plants in Mesoamerican history, used by the Aztec and their descendants for divination, healing, and religious ceremonies for over a millennium. The seeds contain lysergic acid amide (LSA) and related ergoline alkaloids. The plant is now generally considered synonymous with or conspecific with [[turbina-corymbosa]] for additional information under that name.
 
 ## Botany
 
-Rivea corymbosa is a perennial, evergreen, woody vine native to tropical and subtropical Mexico and Central America:
+Rivea corymbosa is a perennial, evergreen, woody vine native to tropical and subtropical Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]:
 - **Leaves:** Heart-shaped, 5–10 cm long, smooth or slightly pubescent, alternate along the stem
 - **Stems:** Slender, twining, woody at the base; capable of climbing 5–10 meters
-- **Flowers:** White, funnel-shaped, 2–3 cm long, borne in corymb-like clusters (hence the specific epithet) — smaller than Argyreia nervosa flowers but similar in form
+- **Flowers:** White, funnel-shaped, 2–3 cm long, borne in corymb-like clusters (hence the specific epithet) — smaller than [[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]] flowers but similar in form
 - **Seeds:** Small, oval, brown to black, 3–5 mm diameter; contained in small, rounded capsules; each capsule produces typically 1–4 seeds
 - **Habitat:** Tropical and subtropical forests, forest edges, and disturbed areas from sea level to 1500 meters
 
@@ -61,7 +61,7 @@ Ololiuqui occupies a unique position in the history of psychoactive plants:
 - Francisco Hernández, the royal physician to Philip II of Spain, documented the plant in the 1570s but misidentified it
 
 ### Modern Resolution
-- Richard Evans Schultes proposed R. corymbosa as the true identity of ololiuqui in 1941
+- Richard [[richard-evans-schultes-updated]] proposed R. corymbosa as the true identity of ololiuqui in 1941
 - In 1960, Albert Hofmann isolated and identified LSA and LSH from the seeds of R. corymbosa — the same chemist who first synthesized LSD in 1938
 - Hofmann's identification confirmed that ololiuqui contained genuine ergoline alkaloids, resolving a 400-year-old botanical mystery
 
@@ -72,7 +72,7 @@ Contemporary indigenous use in Oaxaca:
 - **Healing:** Curanderos use ololiuqui to diagnose illness and receive guidance on treatment
 - **Dosage:** Typically 12–25 fresh or dried seeds; prepared as a cold water infusion
 - **Setting:** Dark, quiet room; the healer sings and prays throughout the experience
-- **Co-administration:** Sometimes used alongside psilocybin mushrooms, tobacco (Nicotiana rustica), or Salvia divinorum
+- **Co-administration:** Sometimes used alongside [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], tobacco (Nicotiana rustica), or Salvia divinorum
 
 The Mazatec consider ololiuqui a gentler entheogen than psilocybin mushrooms, suitable for certain types of divination and healing work. Its use has declined in recent decades due to the greater availability and cultural preference for mushrooms.
 
@@ -104,12 +104,12 @@ The identity of ololiuqui was debated for nearly 400 years. Early Spanish chroni
 - **19th century:** Several botanists proposed candidates including Datura inoxia, Ipomoea species, and Rhynchosia phaseoloides
 - **1937:** Blas Pablo Reko proposed Rivea corymbosa based on fieldwork with indigenous communities
 - **1941:** Richard Evans Schultes confirmed Reko's identification through ethnobotanical fieldwork, collecting specimens identified by Mazatec informants as ololiuqui
-- **1960:** Hofmann's chemical analysis provided definitive proof — the seeds contained genuine ergoline alkaloids (LSA, LSH), which are only produced by Clavicipitaceae-associated plants and certain Convolvulaceae
+- **1960:** Hofmann's [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] provided definitive proof — the seeds contained genuine ergoline alkaloids (LSA, LSH), which are only produced by Clavicipitaceae-associated plants and certain Convolvulaceae
 
 The 1960 identification was particularly significant because it confirmed that Mesoamerican cultures had independently discovered and utilized ergoline alkaloids centuries before their isolation and characterization by European chemists.
 
 ## See Also
 
 - [[lysergic-acid-amide]] — LSA, primary psychoactive compound
-- [[argyreia-nervosa]] — Hawaiian Baby Woodrose, higher LSA concentration
+- argyreia-nervosa — Hawaiian Baby Woodrose, higher LSA concentration
 - [[psilocybe-cubensis]] — sacred mushrooms, co-administered in Mazatec rituals

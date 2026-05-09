@@ -5,7 +5,8 @@ updated: 2026-04-21
 type: concept
 tags: [fukuoka, natural-farming]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
@@ -25,7 +26,7 @@ The inscription "Right Food, Right Action, Right Awareness" reframes the Buddhis
 
 ## Connection to Natural Farming Principles
 
-The mountain huts represent Fukuoka's vision of a complete way of life, not just a farming method. [[fukuoka-mu-economics-and-value-of-nothing-essay]]. The teaching is a raft to cross the river, not a possession to carry on your back. Once you understand the relationships between foods, seasons, and the human body, the mandala has served its purpose and should be discarded.
+The mountain huts represent Fukuoka's vision of a complete way of life, not just a [[what-natural-farming-method-should-i-use]]. [[fukuoka-mu-economics-and-value-of-nothing-essay]]. The teaching is a raft to cross the river, not a possession to carry on your back. Once you understand the relationships between foods, seasons, and the human body, the mandala has served its purpose and should be discarded.
 
 ## The Movement Not to Bring Anything About
 
@@ -56,12 +57,12 @@ They say that if children eat shepherd's purse, willow buds or insects living in
 
 Daikon (Japanese radish) has for its ancestor the plant called nazuna (shepherd's purse), and this word nazuna is related to the word nagomu, which means to be softened. Daikon is the "herb that softens one's disposition."
 
-In Fukuoka's orchard, he planted Japanese radish (daikon) for soil restoration. Its roots penetrate deeply into the soil, adding organic matter and opening channels for air and water circulation. The daikon that grows semi-wild on the mountainside develops a tart, slightly bitter flavour that Fukuoka believed to be that of its original wild predecessors.
+In Fukuoka's orchard, he planted Japanese radish (daikon) for soil restoration. Its roots penetrate deeply into the soil, adding [[hamilton-composting-and-organic-matter-management]] and opening channels for air and water circulation. The daikon that grows semi-wild on the mountainside develops a tart, slightly bitter flavour that Fukuoka believed to be that of its original wild predecessors.
 
 ## Wild Insects as Food
 
-Among wild foods, insects are often overlooked. During the war, Fukuoka was assigned to determine what insects in Southeast Asia could be eaten. He was amazed to discover that almost any insect is edible:
-- Lice, ground up and eaten with winter grain, are a remedy for epilepsy
+Among [[holmgren-wild-foods-and-marginal-systems]], insects are often overlooked. During the war, Fukuoka was assigned to determine what insects in [[psilocybe-southeast-asia-pacific]] could be eaten. He was amazed to discover that almost any insect is edible:
+- Lice, ground up and eaten with [[direct-seeded-no-tillage-rice-winter-grain-succession]], are a remedy for epilepsy
 - Fleas are a medicine for frostbite
 - All insect larvae are quite edible, but they must be alive
 - Old texts describe "delicacies" prepared from maggots from the outhouse
@@ -74,7 +75,7 @@ So, whether from the standpoint of flavour or from the standpoint of health, man
 
 The foods that are nearby are best for human beings, and things that one has to struggle to obtain turn out to be the least beneficial of all. If the farmers who live in the village eat only the foods that can be grown or gathered here, there will be no mistake.
 
-Fukuoka concluded that one ends up with the best food by eating brown rice and unpolished barley, millet, and buckwheat, together with the seasonal plants and semi-wild vegetables. This food has flavour and is good for the body.
+Fukuoka concluded that one ends up with the best food by eating [[cho-brown-rice-vinegar-preparation]] and unpolished barley, millet, and buckwheat, together with the seasonal plants and semi-wild vegetables. This food has flavour and is good for the body.
 
 ## Vegetables Closest to Wild Ancestors
 

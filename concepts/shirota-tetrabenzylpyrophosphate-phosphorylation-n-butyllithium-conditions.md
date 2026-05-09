@@ -1,5 +1,5 @@
 ---
-title: "Tetrabenzylpyrophosphate Phosphorylation and n-Butyllithium Conditions"
+title: "shirota tetrabenzylpyrophosphate phosphorylation n butyllithium conditions and n-Butyllithium Conditions"
 aliases: [dibenzyl phosphorylation of psilocin, pyrophosphate method,
   phosphoryl iodide method comparison, benzyl phosphate ester synthesis]
 tags: [shirota, psilocybin, phosphorylation, tetrabenzylpyrophosphate,
@@ -13,7 +13,7 @@ created: 2026-05-08
 ## Overview
 
 The phosphorylation of psilocin to produce the dibenzyl-protected
-phosphate intermediate (7) represents the most technically demanding step
+[[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] (7) represents the most technically demanding step
 in the Shirota, Hakamata, and Goda (2003) synthesis of psilocybin.
 After evaluating multiple phosphorylation methodologies, the authors
 selected the pyrophosphate method using tetrabenzylpyrophosphate and
@@ -53,7 +53,7 @@ before settling on the pyrophosphate method:
 
 ### Reagent Preparation
 
-Tetrabenzylpyrophosphate was prepared from dibenzyl phosphate using a
+Tetrabenzylpyrophosphate was prepared from [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]] using a
 literature procedure with modifications, achieving almost 100% yield.
 This reagent is the tetraester of pyrophosphoric acid with benzyl
 groups, serving as a benzyl phosphate donor.
@@ -82,11 +82,11 @@ stirred for 1 hour while the temperature is allowed to warm to 0°C.
 
 ### Workup and Purification
 
-After the reaction, aminopropyl silica gel (approximately 20 g) is
+After the reaction, aminopropyl [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] (approximately 20 g) is
 added to the reaction mixture, which is then diluted with ethyl acetate
 and filtered through a Celite pad. The filtrate is concentrated in
 vacuo, redissolved in dichloromethane, and stored overnight. The
-zwitterionic intermediate (8) precipitates as a white substance and is
+[[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] (8) precipitates as a white substance and is
 collected by filtration.
 
 ## The Unexpected Zwitterionic Intermediate
@@ -138,7 +138,7 @@ synthesis because:
 3. **High yield**: The 85.2% isolated yield is excellent for a
   phosphorylation step
 4. **Gram-scale demonstrated**: The procedure was successfully
-  performed on gram scale
+  performed on [[shirota-gram-scale-chromatography-free-psilocybin-synthesis]]
 
 ## See Also
 

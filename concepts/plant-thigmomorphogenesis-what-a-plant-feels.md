@@ -16,11 +16,11 @@ term for this is **thigmomorphogenesis**, derived from the Greek *thigma*
 (touch), *morphe* (shape), and *genesis* (origin). Plants constantly monitor
 mechanical forces in their environment, from gentle breezes to herbivore bites,
 and alter their growth [[diffusion-osmosis-and-active-transport-in-plants]] is the sensitive
-plant (*Mimosa pudica*). When touched, its leaflets rapidly fold inward and
+plant (*[[tompkins-mimosa-pudica-sensitive-plant-experiments]]*). When touched, its leaflets rapidly fold inward and
 the petiole droops, a response called seismonasty. This movement is driven by
-a sudden loss of turgor pressure in specialised cells called pulvini at the
+a sudden loss of [[bloomfield-turgor-pressure-and-hyphal-invasion]] in specialised cells called pulvini at the
 base of each leaflet. The signal propagates through the plant via both
-electrical and chemical signals, similar in principle to nerve impulses in
+electrical and [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]], similar in principle to nerve impulses in
 animals, though the underlying biology is entirely different.
 
 Another dramatic touch response is found in the Venus flytrap (*Dionaea
@@ -57,7 +57,7 @@ essential role.
 Vining plants like peas, cucumbers, and climbing beans exhibit thigmotropism,
 a directional growth response toward touch. Their tendrils coil around
 supports they contact, enabling the plant to climb toward light. When a
-tendril touches a support, differential cell elongation causes the tendril to
+tendril touches a support, differential [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] causes the tendril to
 curl around the object. The cells on the side away from the contact elongate
 more than those on the contact side, creating a coiling response.
 
@@ -90,7 +90,7 @@ touch perception with chemical sensing.
 At the molecular level, plant mechanosensing relies on several families of
 proteins. Mechanosensitive channels of the MSL (MscS-like) family and the
 piezo-like channels are thought to be primary sensors of mechanical force.
-These proteins form pores in the cell membrane that open when the lipid
+These proteins form pores in the [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] that open when the lipid
 bilayer is stretched or compressed, allowing ions to flow through.
 
 Recent research has identified mechanoreceptor complexes that share

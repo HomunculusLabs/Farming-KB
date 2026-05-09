@@ -33,15 +33,15 @@ and subtropical species.
 ## Canada
 
 ### Widely distributed species
-Amanita muscaria, A. pantherina, Claviceps purpurea, Conocybe smithii,
-Gymnopilus aeruginosus, G. sapineus, Panaeolina foenisecii, Panaeolus
+[[allegro-amanita-muscaria-properties-and-pharmacology]], A. pantherina, [[bloomfield-ergot-claviceps-purpurea-ergotism]], Conocybe smithii,
+Gymnopilus aeruginosus, G. sapineus, [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]], Panaeolus
 castaneifolius, P. sphinctrinus, P. subbalteatus, Psilocybe quebecensis, P.
 semilanceata.
 
 ### British Columbia (richest Canadian province)
 British Columbia is the Canadian hotspot for neurotropic fungi:
 - **Amanita muscaria, A. pantherina**
-- **Conocybe cyanopus**
+- **[[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]]**
 - **Gymnopilus luteofolius**
 - **Psilocybe baeocystis, P. cyanofibrillosa, P. cyanescens, P. fimetaria,
   P. pelliculosa, P. semilanceata, P. sierrae, P. silvatica, P. strictipes, P.
@@ -89,7 +89,7 @@ fungi in North America, comparable to western Europe. Key species include:
   and disturbed ground.
 - **Psilocybe cyanofibrillosa** -- Found in Washington and Oregon.
 - **Psilocybe pelliculosa** -- Common in conifer forests of the PNW.
-- **Psilocybe semilanceata** -- "Liberty caps," widespread in PNW grasslands.
+- **[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** -- "Liberty caps," widespread in PNW grasslands.
 - **Psilocybe stuntzii** -- "Blue bells," found on lawns and in forests.
 - **Psilocybe strictipes** -- Close relative of P. semilanceata.
 - **Conocybe cyanopus** -- Found in the PNW mountains.
@@ -118,7 +118,7 @@ richer Gymnopilus diversity:
   hardwood forests.
 - **Psilocybe weilii** -- Known only from Georgia (described by Stamets).
 - **Gymnopilus spectabilis** -- Widespread in the eastern US.
-- **Panaeolus subbalteatus** -- "Weed Panaeolus," widespread across the US.
+- **[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]** -- "Weed Panaeolus," widespread across the US.
 
 ### Texas
 Amanita muscaria, A. pantherina, Copelandia cambodginiensis, Gymnopilus

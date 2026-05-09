@@ -21,7 +21,7 @@ sources:
 
 **Chicorium intybus** L., commonly known as chicory, is a perennial herbaceous plant in the family Asteraceae. It is native to Europe, western Asia, and North Africa, and has become naturalized across temperate regions worldwide.
 
-Chicory is cultivated for three primary products: the forced, blanched shoots known as Belgian endive or witloof; the roasted, ground roots used as a coffee substitute or adulterant; and the leafy greens consumed as a salad vegetable. The species also serves as high-quality forage for livestock.
+Chicory is cultivated for three primary products: the forced, blanched shoots known as Belgian endive or witloof; the roasted, ground roots used as a coffee substitute or adulterant; and the [[solomon-leafy-greens-growing]] consumed as a salad vegetable. The species also serves as high-quality forage for livestock.
 
 The plant is valued medicinally for its inulin-rich roots, which function as a prebiotic fiber. Chicory contains sesquiterpene lactones (lactucin, lactucopicrin) that impart characteristic bitterness and possess documented anti-inflammatory activity.
 
@@ -39,7 +39,7 @@ The plant is valued medicinally for its inulin-rich roots, which function as a p
 
 Wild chicory is native to Europe, the Mediterranean basin, and western Asia. It has naturalized throughout North and South America, southern Africa, Australia, and New Zealand, often colonizing roadsides, pastures, and disturbed ground.
 
-The species is highly adaptable, thriving in USDA hardiness zones 3–9. It prefers well-drained, calcareous or neutral soils but tolerates clay, sandy, and moderately acidic conditions. Drought tolerance is excellent once established.
+The species is highly adaptable, thriving in USDA hardiness zones 3–9. It prefers well-drained, calcareous or neutral soils but tolerates clay, sandy, and moderately acidic conditions. [[dighton-fungal-drought-tolerance-plant-water-relations]] is excellent once established.
 
 Chicory grows from sea level to 2,000 meters elevation. It is a common constituent of semi-natural grasslands, old fields, and railway embankments. The deep taproot allows it to persist in dry, nutrient-poor soils where shallow-rooted species fail.
 
@@ -51,7 +51,7 @@ Chicory grows from sea level to 2,000 meters elevation. It is a common constitue
 
 **Leaf production:** Non-forcing cultivars are grown as cut-and-come-again salad greens. Successional sowing every 2–3 weeks provides continuous harvest from spring through autumn. Leaves become increasingly bitter with maturity and heat.
 
-**Forage:** Chicory is included in pasture mixes for its high digestibility (70–80% DMD), mineral content, and drought resilience. Persistent varieties like 'Puna' and 'Grasslands Choice' maintain productivity for 4–7 years under rotational grazing.
+**Forage:** Chicory is included in pasture mixes for its high digestibility (70–80% DMD), mineral content, and drought resilience. Persistent varieties like 'Puna' and 'Grasslands Choice' maintain productivity for 4–7 years under [[comparison-rotational-grazing-vs-continuous-grazing]].
 
 ## Nutritional and Bioactive Composition
 
@@ -65,9 +65,9 @@ Mineral content is notable for potassium (300–400 mg/100g fresh leaves), calci
 
 ## Medicinal and Ethnobotanical Uses
 
-Chicory has been used medicinally since ancient Egyptian, Roman, and medieval European traditions. Dioscorides prescribed it for liver ailments, digestive complaints, and as a diuretic. European folk medicine employed chicory root tea as a remedy for jaundice, gout, and rheumatism.
+Chicory has been used medicinally since ancient Egyptian, Roman, and [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] traditions. Dioscorides prescribed it for liver ailments, digestive complaints, and as a diuretic. European folk medicine employed chicory root tea as a remedy for jaundice, gout, and rheumatism.
 
-Modern research supports several traditional applications. Inulin supplementation from chicory root improves bowel regularity, increases mineral absorption (particularly calcium), and modulates lipid metabolism in clinical trials.
+Modern research supports several traditional applications. Inulin supplementation from chicory root improves bowel regularity, increases mineral absorption (particularly calcium), and modulates lipid metabolism in [[mushroom-cancer-clinical-trials-overview]].
 
 Anti-inflammatory effects of sesquiterpene lactones have been demonstrated in vitro and in animal models. Lactucin and lactucopicrin show sedative and analgesic properties in rodent studies, supporting traditional use of chicory as a mild nervine tonic.
 
@@ -75,7 +75,7 @@ Anti-inflammatory effects of sesquiterpene lactones have been demonstrated in vi
 
 Roasted chicory root has been used as a coffee additive and substitute since the early 19th century. During the Napoleonic Continental Blockade (1806–1814), French authorities promoted chicory as a coffee replacement, establishing a processing industry that persists today.
 
-The root is washed, sliced, dried, and roasted at 160–180°C, developing a brown color and caramelized, woody flavor. Typically blended at 20–40% with coffee, chicory reduces caffeine content and adds body. New Orleans-style coffee with chicory remains a regional specialty in the southern United States.
+The root is washed, sliced, dried, and roasted at 160–180°C, developing a brown color and caramelized, woody flavor. Typically blended at 20–40% with coffee, chicory reduces caffeine content and adds body. New Orleans-style coffee with chicory remains a regional specialty in the southern [[dmt-containing-plants-united-states-halpern]].
 
 The species name "intybus" derives from the ancient Egyptian name for the plant, reflecting its long association with human use. Roman authors including Horace and Pliny the Elder documented chicory cultivation and consumption.
 

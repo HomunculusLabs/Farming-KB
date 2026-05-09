@@ -1,5 +1,5 @@
 ---
-title: "Heraclitus Aeon Child at Play and the Tryptamine Ecstasy"
+title: "Heraclitus Aeon Child at Play and the mckenna-tryptamine-ecstasy-and-platonic-eternity"
 source: mckenna_t-tryptamines_consciousness.md
 author: Terence McKenna
 tags: [heraclitus, tryptamine, phenomenology, mysticism, philosophy, dmt, eternity, logos]
@@ -10,7 +10,7 @@ created: 2026-05-08
 
 ## Overview
 
-In his 1983 Esalen lecture on tryptamine hallucinogens and consciousness,
+In his 1983 Esalen lecture on [[mckenna-tryptamine-hallucinogens-and-consciousness]] and consciousness,
 Terence McKenna drew a direct parallel between the DMT experience and
 Fragment 24 of the pre-Socratic philosopher Heraclitus of Ephesus: "The Aeon
 is a child at play with colored balls." Under DMT, McKenna reported, one does
@@ -22,7 +22,7 @@ experience is one of McKenna's most provocative claims.
 
 The DMT onset begins approximately fifteen seconds after smoking, accompanied
 by a sound like "ripping cellophane" and an ascending tone. A friend suggested
-this is "our radio entelechy ripping out of the organic matrix." Over roughly
+this is "our [[mckenna-radio-entelechy-dmt-onset-acoustic-phenomena]] ripping out of the organic matrix." Over roughly
 thirty seconds, a complete mode shift occurs as all available synaptic bond
 sites become occupied.
 
@@ -85,7 +85,7 @@ transtemporal mode.
 The tryptamine experience sometimes inspires fear, which McKenna considered a
 mark of authenticity. The child-at-play metaphor introduces a paradox: how can
 cosmic playfulness coexist with genuine terror? His resolution was that terror
-arises from cognitive dissonance between the monkey mind and translinguistic
+arises from [[mckenna-cognitive-dissonance-translinguistic-object]] between the monkey mind and translinguistic
 reality. The entities reassure: "Don't worry, don't worry; do this, look at
 this."
 
@@ -98,7 +98,7 @@ playfulness and most profound terror coexist, each illuminating the other.
 For Heraclitus, Logos was the principle ordering cosmic flux. For McKenna,
 tryptamines "invoke the Logos"—working directly on language centers to produce
 an interior dialogue simultaneously heard and beheld. The DMT entities emit
-sounds that pass without quantized distinction, as Philo Judaeus said the
+sounds that pass without quantized distinction, as [[mckenna-philo-judaeus-logos-hearing-to-beholding]] said the
 Logos would: "from things heard to things beheld."
 
 This synesthetic quality—language that is seen—connects to mystical traditions
@@ -126,7 +126,7 @@ mechanically described matter and mind."
 ## References
 
 - McKenna, T. (1983). Tryptamine Hallucinogens and Consciousness. Esalen.
-  Published 1992 in *The Archaic Revival*.
+  Published 1992 in *The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]*.
 - Heraclitus, Fragment 24 (DK B52).
 - Joyce, J. (1939). *Finnegans Wake*. Faber and Faber.
 - Aquinas, T. *Summa Theologica*. On the *nunc stans* (I, q. 10, a. 4).

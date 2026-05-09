@@ -1,5 +1,5 @@
 ---
-title: "Bigwood and Beug Miniculture Method for Flush Variation in Psilocybe cubensis"
+title: "Bigwood and bigwood beug miniculture rye grain flush variation method Method for Flush Variation in brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting"
 tags:
   - psilocybin
   - psilocin
@@ -22,7 +22,7 @@ type: concept
 
 ## Overview
 
-Bigwood and Beug (1982) developed a controlled [[psilocybin]] and [[psilocybe-cubensis]]. Published in the *Journal of Ethnopharmacology*, this study provided the first systematic quantitative data on [[psilocybe-cubensis-street-sample-potency-variability]] of unknown provenance. The method combined a straightforward rye grain miniculture technique with high-performance liquid chromatography (HPLC) analysis, enabling precise tracking of alkaloid content from inoculation through five flushes.
+Bigwood and Beug (1982) developed a controlled [[psilocybin]] and [[psilocybe-cubensis]]. Published in the *Journal of Ethnopharmacology*, this study provided the first systematic quantitative data on [[psilocybe-cubensis-street-sample-potency-variability]] of unknown provenance. The method combined a straightforward rye [[rye-grain-miniculture-production-parameters]] technique with high-performance liquid chromatography (HPLC) analysis, enabling precise tracking of alkaloid content from inoculation through five flushes.
 
 Prior to this work, most published alkaloid assays were performed on single-batch samples of unknown age, storage history, and strain identity, making it impossible to distinguish biological variation from degradation artifacts. Bigwood and Beug addressed this gap by controlling every variable from spore to analysis.
 
@@ -44,7 +44,7 @@ Limitations include the use of a single strain (the Pucallpa isolate), which mea
 ## Related
 
 - [[psilocybin-miniculture-rye-grain-method-bigwood-beug]] for detailed protocol steps
-- [[psilocybin-cap-stem-distribution-bigwood-beug]] for the cap versus stem comparison
+- [[psilocybin-cap-stem-distribution-bigwood-beug]] for the cap [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] comparison
 ## Practical Considerations
 
 When working with Bigwood and Beug Miniculture Method for Flush Variation in Psilocybe cubensis, several practical factors should be
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

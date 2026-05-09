@@ -1,5 +1,5 @@
 ---
-title: "Coprophilous Fungi - Taxonomic Groups and Distribution"
+title: "Coprophilous Fungi - coprophilous fungi taxonomic groups distribution and Distribution"
 created: 2026-04-26
 tags:
   - mycology
@@ -16,7 +16,7 @@ type: concept
 
 # coprophilous fungi taxonomic groups distribution - Taxonomic Groups and Distribution
 
-[[fungal-succession-on-dung]] and
+fungal-succession-on-dung and
 15 predominantly on dung, representing about 2% of the approximately
 700 described species. No obvious adaptations to endocoprophily have
 been found. The most commonly recorded species include Perichaena
@@ -33,7 +33,7 @@ bodies on the dung.
 
 ### Zygomycetes
 
-The most extensive survey for coprophilous Zygomycetes was carried out
+The most extensive survey for [[biodiversity-coprophilous-zygomycetes-dung]] was carried out
 in southern California and adjacent parts of Arizona and Mexico. Over
 35 years, 88 species distributed among 42 genera were recorded
 (excluding Mucor and Rhizopus). In comparison, 78 species in 26 genera
@@ -76,7 +76,7 @@ regions, even at higher elevations.
 In the zone 0-30 degrees north and south of the equator, 153 taxa
 were recorded. That figure drops off substantially beyond 40 degrees
 north or south. Bell (1983) recorded 66 taxa of pyrenomycetes from
-magic mushrooms australia, supporting the existence of a latitudinal gradient.
+magic [[magic-mushrooms-australia-new-zealand]], supporting the existence of a latitudinal gradient.
 
 ### Regional Differences
 
@@ -90,7 +90,7 @@ each group, the distribution of taxa is fairly cosmopolitan.
 Richardson (2001) found greater diversity of coprophilous fungi in
 winter than in summer at northern latitudes. Certain species of
 Thelebolus and Preussia are dominant on leporid dung under colder
-temperatures of early spring, whereas other species dominate during
+temperatures of [[coleman-overwintered-onions-and-early-spring-crops]], whereas other species dominate during
 the warmer summer months.
 
 ## Endemism and Rarity
@@ -116,8 +116,14 @@ a different mycobiota from that of lagomorph dung. Lundqvist (1972)
 suggested that the habitat of the host is likely more important than
 the substratum itself in determining fungal composition.
 
-Dung from porcupines and certain wood rats in north america and by
-hyrax [[neurotropic-fungi-in-africa]] represents an exception to the general difficulty of
+Dung from porcupines and certain wood rats in [[psilocybin-north-america-pacific-northwest]] and by
+hyrax neurotropic-fungi-in-africa represents an exception to the general difficulty of
 estimating species richness, as dung at those sites has been deposited
 in layers at cave entrances for several generations, providing a
 chronological record of fungal colonization.
+## See Also
+- [[coprophilous-fungi]]
+- [[decomposition]]
+- [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
+- [[distribution-of-neurotropic-fungi]]
+- [[guzman-global-distribution-patterns-neurotropic-fungi]]

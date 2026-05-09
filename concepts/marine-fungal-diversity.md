@@ -1,5 +1,5 @@
 ---
-title: Marine Fungal Diversity
+title: Marine arbuscular-mycorrhizal-fungal-diversity-patterns-distribution
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -8,7 +8,7 @@ sources: []
 ---
 # Marine Fungal Diversity
 
-Marine and estuarine fungi represent one of the least explored domains of fungal biodiversity. Despite occupying 75% of Earth's surface, marine habitats remain dramatically under-sampled for mycological diversity.
+Marine and estuarine fungi represent one of the least explored domains of [[biodiversity-fungal-biodiversity-estimation-methods]]. Despite occupying 75% of Earth's surface, marine habitats remain dramatically under-sampled for mycological diversity.
 
 [[fungal-communities-extreme-environments]] [[saprotrophic-fungi]]
 
@@ -38,7 +38,7 @@ Saprobic fungi are important decomposers of cellulose in the form of driftwood, 
 
 About 40 species of higher marine fungi are parasitic; most belong to the Ascomycotina. All but two known species parasitize algae. Trichomaris is found on crab carapaces, and Cytospora rhizophorae occurs on mangrove proproots. Mycaureola dilseae is the only known filamentous basidiomycete that parasitizes algae.
 
-[[fungal-parasites]] [[fungal-biodiversity-mangrove]] [[marine-estuarine-fungi]]
+[[fungal-parasites]] fungal-biodiversity-mangrove [[marine-estuarine-fungi]]
 
 ## Oomycote Diversity
 
@@ -50,15 +50,15 @@ The most prominent contributors of fallen leaves along marine shorelines are man
 
 ## Symbiotic Associations
 
-Marine fungi form several types of symbiotic associations. Lichenoid associations have phototrophic partners, usually microscopic cyanobacteria or green algae. True submarine lichens such as Arthopyrenia halodytes and Verrucaria serpuloides represent obligate associations between mycobiont and photobiont.
+Marine fungi form several types of symbiotic associations. Lichenoid associations have phototrophic partners, usually microscopic cyanobacteria or [[cervantes-green-algae-growing-medium]]. True submarine lichens such as Arthopyrenia halodytes and Verrucaria serpuloides represent obligate associations between mycobiont and photobiont.
 
-Mycophycobioses are obligate symbioses between systemic fungi and marine macroalgae in which the alga dominates. Relationships between the intertidal brown alga Ascophyllum nodosum and Mycophycias ascophylli exemplify this category.
+Mycophycobioses are obligate symbioses between systemic fungi and [[hamilton-kelp-and-seaweed-in-organic-gardening]] in which the alga dominates. Relationships between the intertidal brown alga Ascophyllum nodosum and Mycophycias ascophylli exemplify this category.
 
 Endolithic fungi such as Halographis runica colonize submerged snail shells, worm tubes, and corals.
 
-[[fungal-endophytes-plant-fitness]] [[fungal-biogeography]] [[fungal-sampling-methods]] [[fungal-biogeography]] [[fungal-species-estimates-taxonomy]] Galapagos Islands xerophilic soils yielded 250 species with 50% identifiable, demonstrating that even isolated oceanic islands harbor substantial fungal diversity. [[fungal-biodiversity]] Fungal spores are adapted for aerial dispersal, giving fungi potentially greater dispersal ability than many plants and animals. [[fungal-community-assembly]] No true endemic marine fungi have been recorded unless host-specific fungi on endemic hosts are considered. Related: [[fungal-biodiversity-mangrove]], marine fungal diversity, [[dark-septate-endophytes]]
+[[fungal-endophytes-plant-fitness]] [[fungal-biogeography]] [[fungal-sampling-methods]] [[fungal-biogeography]] [[fungal-species-estimates-taxonomy]] Galapagos Islands xerophilic soils yielded 250 species with 50% identifiable, demonstrating that even isolated oceanic islands harbor substantial fungal diversity. [[fungal-biodiversity]] Fungal spores are adapted for aerial dispersal, giving fungi potentially greater dispersal ability than many plants and animals. [[fungal-community-assembly]] No true endemic marine fungi have been recorded unless host-specific fungi on endemic hosts are considered. Related: fungal-biodiversity-mangrove, marine fungal diversity, [[dark-septate-endophytes]]
 ## Merged: Fungal Peatland Wetland Diversity
-Peatlands and wetlands represent unique fungal habitats characterized by waterlogging, low oxygen availability, and often extreme acidity. These conditions create strong environmental filters that select for specialized fungal communities. [[wetland-ecology]] [[fungal-biodiversity-soil-seasonal]] [[freshwater-fungi-biodiversity]] [[fungal-decomposition]] Water availability is the primary factor limiting fungal existence in wetlands, but excess water creates anaerobic conditions that many fungi cannot tolerate. Related: [[endophytic-fungal-diversity]], [[halophilic-fungi]]
+Peatlands and wetlands represent unique [[freshwater-fungal-habitats-conservation-urgency]] characterized by waterlogging, low oxygen availability, and often extreme acidity. These conditions create strong environmental filters that select for specialized [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]. [[wetland-ecology]] [[fungal-biodiversity-soil-seasonal]] [[freshwater-fungi-biodiversity]] [[fungal-decomposition]] Water availability is the primary factor limiting fungal existence in wetlands, but excess water creates anaerobic conditions that many fungi cannot tolerate. Related: [[endophytic-fungal-diversity]], [[halophilic-fungi]]
 
 ## See Also
 
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

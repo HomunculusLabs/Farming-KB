@@ -1,5 +1,5 @@
 ---
-title: 'Horseradish vs Wasabi vs Mustard: Cultivation Comparison'
+title: 'comparison horseradish vs wasabi vs mustard cultivation vs Mustard: Cultivation Comparison'
 created: 2026-04-28
 tags: [horseradish, wasabi, mustard, pungent-crops, condiment-crops, comparison, cultivation]
 date: 2026-04-28
@@ -14,7 +14,7 @@ type: comparison
 
 # Horseradish vs Wasabi vs Mustard: Cultivation Comparison
 
-Horseradish (*[[sinapis-alba]]* and *[[permaculture-horseradish]].
+Horseradish (*[[sinapis-alba]]* and *permaculture-horseradish.
 
 ## At-a-Glance Comparison
 
@@ -31,7 +31,7 @@ Horseradish (*[[sinapis-alba]]* and *[[permaculture-horseradish]].
 | Soil needs | Deep, loamy, well-drained | Gravelly, mineral-rich, pH 6–7 | Fertile, well-drained, pH 6–6.5 |
 | Water needs | Moderate; drought-tolerant | Very high; constant cool water | Moderate; even moisture |
 | Light needs | Full sun to partial shade | Deep shade (70–90% canopy) | Full sun |
-| Propagation method | Root cuttings (sets) | Tissue culture, offsets, seed | Direct seed |
+| Propagation method | Root cuttings (sets) | [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]], offsets, seed | Direct seed |
 | Yield | 1–2 kg/plant (root) | 100–300 g/plant (rhizome) | 500–1000 kg/ha (seed) |
 | Invasiveness | Highly invasive (root fragments) | Not invasive | Can self-seed; manageable |
 | Culinary uses | Condiment, pickled root, garnish | Sushi paste, flavored snacks | Seed paste, greens, oil |
@@ -41,7 +41,7 @@ Horseradish (*[[sinapis-alba]]* and *[[permaculture-horseradish]].
 Horseradish is the most forgiving. It thrives across USDA zones 3–9, tolerates a wide range of
 soil types, and survives both hard freezes and summer heat. It performs best in deep, loose loam
 but will produce a usable root even in heavy clay. In [[query-what-is-companion-planting-and-how-does-it-work]] as a
-quick-maturing intercrop or [[permaculture-horseradish]] for detailed processing techniques.
+quick-maturing intercrop or permaculture-horseradish for detailed processing techniques.
 
 Wasabi rhizomes are ready 18–36 months after planting at 10–15 cm length with characteristic
 bumpy texture. Above-ground petioles are harvested periodically as a secondary crop. Flower
@@ -79,6 +79,6 @@ investigate potential anticancer properties of isothiocyanates across all three 
   microclimate, or pursue it as a challenging greenhouse project.
 - **Those seeking a fast, versatile crop:** Mustard matures quickly, fits rotation schedules,
   and provides both edible greens and seeds for condiment making.
-- **Permaculture integration:** Horseradish works as a dynamic accumulator in guild plantings;
-  mustard serves as a biofumigant cover crop and pest-repelling companion. See
+- **Permaculture integration:** Horseradish works as a [[nutrient-dynamic-accumulator-reference]] in guild plantings;
+  mustard serves as a biofumigant [[coleman-cover-crop-rotation-and-soil-health]] and pest-repelling companion. See
   [[comparison-french-marigold-vs-mustard-biofumigation]]

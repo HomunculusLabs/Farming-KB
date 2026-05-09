@@ -59,6 +59,7 @@ Buna-shimeji is one of the most versatile culinary mushrooms:
 
 * [[pleurotus-pulmonarius]] — Phoenix mushroom, warm-weather oyster species
 * [[trametes-versicolor-entity]] — Turkey tail, related polypore medicinal mushroom
+
 ## Practical Considerations
 
 Successful implementation of Hypsizygus tessulatus requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

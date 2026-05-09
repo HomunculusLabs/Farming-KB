@@ -1,10 +1,11 @@
 ---
-title: Grain Sterilization and Contamination Sources (Stamets)
+title: stamets grain sterilization contamination sources and stamets-contamination-sources-laboratory-hygiene (Stamets)
 created: 2026-04-28
 tags: [sterilization, grain-spawn, contamination, mushroom-cultivation]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+sources: sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
 
@@ -12,7 +13,7 @@ type: concept
 
 ## Overview
 
-Grain spawn serves as the inoculum for mushroom cultivation, consisting of a
+[[comparison-grain-spawn-vs-grain-to-grain-transfer]] serves as the inoculum for [[accessible-mushroom-cultivation-for-disabilities]], consisting of a
 carrier material fully colonized by mushroom mycelium. Rye grain is the choice
 of most spawn makers due to its availability, low cost, and ability to separate
 into individual kernels. However, grain naturally harbors enormous populations
@@ -35,7 +36,7 @@ they can render grain spawn useless within only a few days.
 
 ## Sterilization Parameters
 
-For liquids, the standard time and pressure for steam sterilization is 25
+For liquids, the standard time and pressure for [[pf-tek-steam-sterilization-pot-method-common-pottery]] is 25
 minutes at 15 psi (250 degrees F). For solids such as rye, the sterilization
 time must be increased to insure that steam sufficiently penetrates the small
 air pockets and structural cavities in the grain.
@@ -65,7 +66,7 @@ production:
 
 ## Moisture Management
 
-The optimum moisture content for grain spawn production is between 49-54%.
+The optimum moisture content for grain [[growing-gourmet-sawdust-spawn-production-use]] is between 49-54%.
 Commercial rye grain is approximately 11% water by mass, plus or minus 2%.
 Excessive water in a spawn jar favors the growth of bacteria and other
 competitors. In wet grain, the mushroom mycelium grows denser and slower.
@@ -136,6 +137,9 @@ avoided because contaminants can be present at the periphery.
 
 ## See Also
 
-- [[stamets-spawning-and-spawn-running]]
+- stamets-spawning-and-spawn-running
 - [[stamets-contamination-sources-laboratory-hygiene]]
-- [[mushroom-sterilization-methods]]
+- mushroom-sterilization-methods
+- [[spawn-production]]
+- [[agaricus-brunnescens]]
+- [[mushroom-cultivation]]

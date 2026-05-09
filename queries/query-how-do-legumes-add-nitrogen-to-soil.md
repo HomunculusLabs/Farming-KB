@@ -1,11 +1,11 @@
 ---
-title: "How do legumes add nitrogen to soil?"
+title: "How do query how do legumes add nitrogen to soil nitrogen to soil?"
 created: 2026-04-28
 tags: [query, legumes, nitrogen, soil-fertility]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
+  sources: []
 type: query
 ---
 
@@ -30,7 +30,7 @@ However, living neighbor plants usually do not receive all of that nitrogen imme
 Some nitrogen enters the soil through fine root turnover and nodule decay during the season.
 More becomes available after residues are chopped, grazed, composted, mulched, or incorporated.
 The practical timing question is explained in [[legume-nitrogen-myth-beans-feed-corn]] is an important corrective to companion-planting oversimplifications.
-Legumes are excellent fertility builders, but they are not instant liquid fertilizer.
+Legumes are excellent fertility builders, but they are not instant [[jadam-liquid-fertilizer-nutritional-perspective]].
 
 ### Species and yield differences
 
@@ -38,7 +38,7 @@ Different legumes fix very different amounts of nitrogen.
 Short-season beans may fix modest amounts, especially if harvested heavily.
 A vigorous clover, vetch, pea, sunn hemp, lupin, or alfalfa stand can accumulate much more biomass and nitrogen.
 Perennial or tree legumes can also support longer-term fertility systems when they are periodically pruned.
-The expected range depends on species, climate, inoculation, biomass production, and management intensity.
+The expected range depends on species, climate, inoculation, [[dighton-fungal-biomass-production-aquatic-ecosystems]], and management intensity.
 For crop-by-crop expectations, [[growing-beans-peas-legume-guide]] and [[cover-crops-green-manures]], [[cover-crop-selection-guide]].
 Termination timing matters because flowering plants often contain more biomass, while younger tissues decompose faster.
 
@@ -61,19 +61,19 @@ The inoculation side is linked through [[biofertilizers-and-soil-inoculants]].
 
 ### How to manage for actual soil fertility
 
-Use legumes when you want a biological nitrogen source rather than a purchased soluble fertilizer.
+Use legumes when you want a [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] source rather than a purchased soluble fertilizer.
 Choose the species by season, climate, biomass potential, termination method, and next crop demand.
 Inoculate when the crop is new to the site or when nodulation has been weak in previous plantings.
 Let the crop produce enough biomass before termination if the goal is nitrogen contribution.
 Leave roots in place whenever possible because roots and nodules decompose exactly where soil structure needs them.
 Chop-and-drop residues on the surface in no-till systems, or shallowly incorporate them when rapid mineralization is needed.
-Pair legume residues with carbonaceous mulch when you want slower release and better humus formation.
+Pair legume residues with carbonaceous mulch when you want slower release and better [[lowenfels-humus-formation-benefits]].
 
 ### What legumes do not replace
 
 Legumes do not replace balanced soil testing or attention to phosphorus, potassium, calcium, sulfur, and trace minerals.
 They also do not replace compost, mulch, irrigation management, or soil structure work.
-Nitrogen fixation can be weak if the plant is stressed, if nodules are absent, or if biomass is too low.
+[[biological-nitrogen-fixation-agriculture]] can be weak if the plant is stressed, if nodules are absent, or if biomass is too low.
 Legumes can even compete with the main crop for water, light, and nutrients if placed poorly.
 Their best role is as part of a whole fertility system that includes [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]], and soil biology.
 Viewed that way, legumes are fertility engines, habitat plants, cover crops, forage, mulch factories, and crop rotations at the same time.
@@ -83,11 +83,13 @@ Viewed that way, legumes are fertility engines, habitat plants, cover crops, for
 - Legumes fix nitrogen through a plant-bacteria partnership, not through the roots acting alone.
 - [[rhizobia-legume-nodule-formation]] explains why root nodules are the key diagnostic sign.
 - [[nitrogen-availability-in-legumes]] explains when the fixed nitrogen becomes usable by following crops.
-- [[cover-crops-green-manures]] and [[gaias-garden-nitrogen-fixers-guild-design]] shows how nitrogen-fixing support plants work in perennial guilds.
+- [[cover-crops-green-manures]] and gaias-garden-nitrogen-fixers-guild-design shows how nitrogen-fixing support plants work in perennial guilds.
 - Inoculation, pH, moisture, oxygen, and low soluble nitrogen all influence whether fixation actually happens.
 - The best management is to grow enough biomass, leave roots in place, and return residues to the soil.
 
-## Related Questions
+## Related
+
+- [[query-how-do-epiphytes-survive-without-soil]] Questions
 
 - [[query-how-does-the-nitrogen-cycle-work-in-a-garden]]
 - [[query-how-do-i-choose-the-right-cover-crop-for-my-garden]]

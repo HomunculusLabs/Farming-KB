@@ -1,5 +1,5 @@
 ---
-title: "JADAM Livestock Integration and Manure Management"
+title: "JADAM faires-livestock-integration-permaculture and Manure Management"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-JADAM's approach to livestock and manure management has two distinct aspects: (1) an innovative **no-feces-removing** organic livestock system using microorganisms, and (2) a critical position against the conventional use of commercial livestock manure as fertilizer due to antibiotic contamination and soil degradation.
+JADAM's approach to livestock and manure management has two distinct aspects: (1) an innovative **no-feces-removing** [[jadam-organic-livestock-no-feces-removing]] system using microorganisms, and (2) a critical position against the conventional use of commercial livestock manure as fertilizer due to antibiotic contamination and soil degradation.
 
 ## No-Feces-Removing Organic Livestock Farming
 
@@ -67,7 +67,7 @@ A USDA-supported study by University of Minnesota scientists found:
 - In Korea, livestock manure is supplied to farms at very cheap prices due to government support
 - JADAM sees this as contaminating soil with antibiotics and chemicals
 - "Food going into my mouth determines my health; manure going into the soil determines the health of the crops"
-- Organic farming bans the use of such livestock waste
+- [[coleman-deep-organic-farming-philosophy]] bans the use of such livestock waste
 
 ### Soil Compaction from Manure
 - Livestock manure with antibiotic residues aggravates soil compaction (plow pan formation)
@@ -77,7 +77,7 @@ A USDA-supported study by University of Minnesota scientists found:
 ## When Manure Is Acceptable
 
 ### Herbivore Manure
-If growing cover crops is difficult, JADAM suggests using manure from grass-eating (herbivorous) animals. Manure from herbivores contains optimum nutritional balance for crops because the animals eat the same types of plants.
+If growing cover crops is difficult, JADAM suggests using manure from grass-eating (herbivorous) animals. Manure from herbivores contains optimum [[jadam-nutritional-balance-fertilizer]] for crops because the animals eat the same types of plants.
 
 ### Human Manure JLF
 JADAM supports the traditional practice of using human manure as liquid fertilizer:
@@ -106,7 +106,7 @@ Before commercial agriculture:
 ### Against Factory Farming Inputs
 - Modern livestock farming relies on commercial feed with antibiotics
 - The resulting manure contaminates soil
-- Chemical fertilizers and pesticides further degrade soil
+- [[cervantes-chemical-fertilizers-guide]] and pesticides further degrade soil
 - The entire system is self-reinforcing and destructive
 
 ## Practical Recommendations
@@ -119,7 +119,7 @@ Before commercial agriculture:
 5. Design shelters for maximum sunlight and air circulation
 
 ### If You Don't Have Livestock
-1. Use cover crops (hairy vetch, rye) for nitrogen fixation and soil improvement
+1. Use cover crops (hairy vetch, rye) for [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and soil improvement
 2. If additional fertilizer is needed, use manure from herbivorous animals (verified antibiotic-free)
 3. Use humus soil as an alternative -- mined from ancient bogs, contains abundant minerals and organic nutrients
 4. GC-JLF (wild grass + crop residue JLF) provides balanced nutrition without manure

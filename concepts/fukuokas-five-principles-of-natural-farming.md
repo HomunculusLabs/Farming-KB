@@ -2,7 +2,7 @@
 
 ## Overview
 
-Masanobu Fukuoka (1913–2008) was a Japanese farmer and philosopher who developed a radical approach to agriculture he called "natural farming" or "do-nothing farming" (自然農法, shizen nōhō). Over more than fifty years of experimentation on his farm in Ehime Prefecture, Japan, he distilled his method into five foundational principles that challenge the entire basis of modern scientific agriculture. His book "The [[natural-way-of-farming-guide]] of Farming" introduced these ideas to a global audience, inspiring the permaculture movement and organic farming advocates worldwide.
+Masanobu Fukuoka (1913–2008) was a Japanese farmer and philosopher who developed a radical approach to agriculture he called "natural farming" or "do-nothing farming" (自然農法, shizen nōhō). Over more than fifty years of experimentation on his farm in Ehime Prefecture, Japan, he distilled his method into five foundational principles that challenge the entire basis of modern [[fukuoka-critique-scientific-agriculture-civilization]]. His book "The [[natural-way-of-farming-guide]] of Farming" introduced these ideas to a global audience, inspiring the permaculture movement and [[coleman-deep-organic-farming-philosophy]] advocates worldwide.
 
 Fukuoka's approach was not merely a set of agricultural techniques but a complete philosophical system rooted in the Buddhist concept of "Mu" (無, nothingness or void). He believed that nature, when left alone, already possesses everything it needs to produce abundant food. Human intervention — in the form of tillage, chemical inputs, and pest control — only disrupts natural processes and creates the very problems it claims to solve.
 
@@ -16,7 +16,7 @@ The soil in natural fields is worked by small animals and roots, and enriched by
 
 The conventional argument for tillage is weed suppression and soil aeration. Fukuoka countered that weeds serve ecological functions — preventing erosion, retaining moisture, and cycling nutrients — and that soil aeration occurs naturally through biological activity. Plowing actually destroys soil structure by breaking up fungal mycelium networks and killing beneficial organisms. It exposes organic matter to rapid oxidation, releasing carbon into the atmosphere rather than building humus.
 
-Modern soil science has increasingly validated Fukuoka's position. Research on no-till farming has shown that untilled soils develop more stable aggregates, higher organic carbon content, and greater microbial diversity than conventionally tilled soils. The mycorrhizal networks that Fukuoka observed as nature's hidden infrastructure are now recognized as critical for [[living-mulch-systems-guide]] and green manure, fixing nitrogen and suppressing unwanted vegetation naturally. Rather than fighting against volunteer plants, his method incorporates them into the ecosystem.
+Modern soil science has increasingly validated Fukuoka's position. Research on no-till farming has shown that untilled soils develop more stable aggregates, higher organic carbon content, and greater microbial diversity than conventionally tilled soils. The [[dighton-mycorrhizal-networks-carbon-transfer]] that Fukuoka observed as nature's hidden infrastructure are now recognized as critical for [[living-mulch-systems-guide]] and green manure, fixing nitrogen and suppressing unwanted vegetation naturally. Rather than fighting against volunteer plants, his method incorporates them into the ecosystem.
 
 The clover cover in his rice-barley succession system performs the weed-suppressing function that conventional farmers achieve through labor-intensive cultivation. The dense ground cover prevents weed seeds from germinating by blocking sunlight and competing for space. When the clover becomes too vigorous, Fukuoka temporarily floods the field for four to five days to weaken it and give the rice seedlings a competitive advantage — a minimal intervention that works with natural processes rather than against them.
 
@@ -43,7 +43,7 @@ This cycle required only the labor of one or two people per quarter-acre, yet yi
 
 ## Energy Efficiency Analysis
 
-Fukuoka's natural farming produced approximately 130 pounds of rice — or 200,000 kilocalories of energy — per man-day of labor, without any outside material inputs. This is about 100 times the daily caloric intake of a farmer on a natural diet. The energy efficiency comparison across farming methods is striking:
+Fukuoka's natural farming produced approximately 130 pounds of rice — or 200,000 kilocalories of energy — per man-day of labor, without any outside material inputs. This is about 100 times the daily caloric intake of a farmer on a natural diet. The energy efficiency comparison across [[natural-farming-methods-comparison]] is striking:
 
 - **Natural farming**: 200,000 kcal output per man-day of labor
 - **Traditional farming** (horses and oxen): ~20,000 kcal per man-day
@@ -62,7 +62,7 @@ The "Happy Hill" rice strain that Fukuoka developed illustrates the potential of
 
 Fukuoka grounded his farming in the Buddhist concept of "Mu" (nothingness). Natural farming is "the methodless method of nature, the unmoving way of Bodhidharma." He argued that the living, holistic biosystem of nature cannot be dissected or resolved into its parts. Once broken down, it dies. Scientists who collect data piecemeal on a dead and fragmented nature, then claim to "know," "use," or "conquer" it are examining something fundamentally different from living nature.
 
-The objective of natural farming is non-action and a return to nature — it is centrifugal and convergent. [[brown-rice-flour-substrate]] and vegetables, without electricity or running water, clad only in loincloths while working the fields. For Fukuoka, this way of life represented a fundamental alternative to the destructive patterns of modern civilization.
+The objective of natural farming is non-action and a [[emcdda-return-to-nature-megatrend-mushroom-appeal]] — it is centrifugal and convergent. [[brown-rice-flour-substrate]] and vegetables, without electricity or running water, clad only in loincloths while working the fields. For Fukuoka, this way of life represented a fundamental alternative to the destructive patterns of modern civilization.
 
 His vision extended beyond agriculture to encompass a complete critique of modernity. He saw the destruction of nature and the alienation of humanity as two faces of the same problem — the arrogant belief that human knowledge can improve upon nature. "All begins by relinquishing human knowledge," he wrote. This radical epistemological humility remains his most provocative and challenging contribution.
 
@@ -70,7 +70,7 @@ Fukuoka was particularly critical of [[masanobu-fukuoka]]
 - [[clay-pellet-desert-revegetation]]-seed-dispersal-for-revegetation
 - [[no-till-agriculture]]
 - green manure and cover cropping
-- the one straw revolution
+- the one [[fukuoka-one-straw-revolution-conclusion]]
 - conservation agriculture
 - mycorrhizal networks in soil health
 ## Practical Considerations
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

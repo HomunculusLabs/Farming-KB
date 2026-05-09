@@ -1,10 +1,11 @@
 ---
-title: Matsutake Artificial Cultivation Attempt
+title: fukuoka matsutake artificial cultivation attempt Cultivation Attempt
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [regenerative]
-sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Matsutake Artificial Cultivation Attempt
@@ -23,12 +24,12 @@ the global microbial world occurred in a mycorrhizal fungus because it
 forms a highly advanced biological community in which many
 microorganisms are concentrated and organically interconnected.
 
-Pines protected by mycorrhizal fungi are incredibly strong plants
+Pines protected by [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] are incredibly strong plants
 capable of growing even in deserts and on sandy beaches, but without
-these symbiotic fungi they are weak and delicate. Fukuoka feared that
+these [[mycelium-running-symbiotic-fungi-relationships]] they are weak and delicate. Fukuoka feared that
 when exogenous mycorrhizal plants such as the pines perish, this would
 spread next to endogenous mycorrhizal plants -- Japanese cypress and
-cedar, zelkova, fruit trees, and perhaps even rice.
+cedar, zelkova, [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], and perhaps even rice.
 
 ## The Discovery: A Natural Medium
 
@@ -65,7 +66,7 @@ mycelia are very sensitive to high temperatures and die in about an
 hour at 86 degrees. After all his trouble, the mycelia were killed by
 the heat.
 
-He called this culture medium a "natural medium." Even though the first
+He called this [[fukuoka-matsutake-culture-medium-appendix]] a "natural medium." Even though the first
 experiments were successful, this was still a long way from practical
 application. Fukuoka stated he would disclose the full details once he
 had improved the method.

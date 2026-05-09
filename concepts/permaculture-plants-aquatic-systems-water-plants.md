@@ -11,8 +11,8 @@ Nugent and Boniface's *Permaculture Plants* dedicates a substantial section to
 water plants, organized into four functional categories based on their growth
 habit and position within aquatic systems. No aquatic system in permaculture
 is complete without a diverse range of plants performing multiple functions:
-food production, water oxygenation, nutrient cycling, habitat creation, and
-erosion control.
+food production, water oxygenation, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], habitat creation, and
+[[permplant-willows-salix-erosion-control-fodder]].
 
 ## The Four Categories of Water Plants
 
@@ -20,8 +20,8 @@ erosion control.
 Entirely underwater except possibly flowers. Roots act only as anchors;
 nutrient, gas, and oxygen exchange occurs across the entire plant surface.
 Oxygen released during photosynthesis enters the water directly, benefiting
-fish and aerobic bacteria that break down organic matter. These are essential
-for maintaining healthy dissolved oxygen levels.
+fish and aerobic bacteria that break down [[hamilton-composting-and-organic-matter-management]]. These are essential
+for maintaining healthy [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] levels.
 
 ### Floating-Leaved Plants
 Often directly useful to humans but of less direct benefit to fish. Usually
@@ -58,7 +58,7 @@ Excellent for removing excess nutrients from water. *[[colocasia-esculenta]]*)
 Possibly the earliest cultivated plant, grown in paddy culture like rice.
 Corms compare nutritionally to potatoes and sweet potatoes. Leaves and
 petioles can be cooked and eaten like spinach. Requires 6–7 month frost-
-free period. Some cultivars are highly salt tolerant. Per 100 g of corms:
+free period. Some cultivars are highly [[halotolerant-halophilic-fungi-salt-tolerant-diversity]]. Per 100 g of corms:
 73% water, 98 calories, 23.7 g carbohydrate, 1.9 g protein, 514 mg
 potassium.
 
@@ -86,7 +86,7 @@ be grown for human consumption in polluted waters.
 - **Water mimosa** (*Neptunia oleracea*) — floating leguminous plant; leaves
   and stems eaten in salads in Thailand and Vietnam
 - **Arrowhead** (*Sagittaria* spp) — tubers eaten like potatoes; up to 5–7%
-  protein for a root crop; requires 6–7 month growing season
+  protein for a root crop; requires 6–7 month [[savory-growing-season-and-non-growing-season-management]]
 - **Wild rice** (*Zizania aquatica*) — high in vitamin B, easily digested;
   green seed requires no cooking, only steeping in boiling water
 - **Common reed** (*[[phragmites-australis]]*) — edible shoots, rhizomes, and

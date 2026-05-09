@@ -1,5 +1,5 @@
 ---
-title: Pest and Disease Prevention - Greg Green's Cannabis Grow Bible
+title: Pest and cervantes-pest-disease-prevention-overview - Greg Green's green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -97,16 +97,16 @@ carefully and follow instructions exactly.
 
 ### Bud Rot
 - A risk during flowering, especially in high humidity
-- Good air circulation and humidity control are the best prevention
+- Good [[stamets-growing-room-air-circulation-co2-management]] and [[cervantes-humidity-control-dehumidification]] are the best prevention
 
 ## Preventive Measures
 
 1. **Never bring anything from outdoors into the grow room** --
   sticks, soil, plants, or tools may carry pests
 2. **Spray outdoor areas with pesticide** around the second week of
-  vegetative growth
+  [[cannabis-vegetative-growth-stage]]
 3. **Keep a bottle of spider mite spray available at all times**
-4. **Maintain fresh air circulation** -- fans help prevent mold and
+4. **Maintain fresh air circulation** -- fans help [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] and
   strengthen plants
 5. **Control humidity** at 40-80% (target 60%)
 6. **Remove dead leaves promptly** -- they attract pests
@@ -136,8 +136,6 @@ necessary:
 
 If pests persist in cuttings (especially powder bugs that lay eggs
 inside stems), genetics may need to be discarded. Breeders should
-maintain strict grow room cleanliness at all times.
-
 ## Related
 
 - [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
@@ -145,5 +143,7 @@ maintain strict grow room cleanliness at all times.
 - [[cannabis-pest-management-guide]]
 
 ## See Also
+
+- [[green-cannabis-pests-prevention]]
 
 - [[green-cannabis-grow-bible-flowering-phase-and-harvest]]

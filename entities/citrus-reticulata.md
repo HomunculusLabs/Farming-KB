@@ -10,9 +10,9 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Saunt, J. (2000). "Citrus Varieties of the World." Sinclair International.
+  - Saunt, J. (2000). "query-best-citrus-varieties-for-different-climates of the World." Sinclair International.
   - Liu, Y. et al. (2012). "Flavonoids and Limonoids in Citrus reticulata." Journal of Agricultural and Food Chemistry, 60(42), 10548–10554.
-  - Wang, Y.C. et al. (2019). "Phytochemistry and Health Benefits of Mandarin Orange." Nutrients, 11(5), 1099.
+  - Wang, Y.C. et al. (2019). "Phytochemistry and Health Benefits of [[fukuoka-mandarin-orange-citrus]]." Nutrients, 11(5), 1099.
   - Gmitter, F.G. & Hu, X. (1990). "Origin, Evolution, and Breeding of the Mandarin." HortScience, 25(10), 1219–1222.
   - USDA Natural Resources Conservation Service. "Citrus reticulata Blanco." PLANTS Database.
 ---
@@ -41,7 +41,7 @@ Root architecture is relatively shallow, with the majority of fine feeder roots 
 
 ## Distribution and Habitat
 
-Citrus reticulata is native to Southeast Asia, with wild populations documented in southern China, northeastern India, Myanmar, and Vietnam. Genetic evidence suggests the species originated in the region encompassing Yunnan, Guangxi, and northern Vietnam.
+Citrus reticulata is native to [[psilocybe-southeast-asia-pacific]], with wild populations documented in southern China, northeastern India, Myanmar, and Vietnam. Genetic evidence suggests the species originated in the region encompassing Yunnan, Guangxi, and northern Vietnam.
 
 The tree thrives in subtropical to tropical climates with mean annual temperatures of 15–28°C. It is somewhat more cold-tolerant than Citrus sinensis, tolerating brief freezes to approximately -6°C.
 
@@ -53,9 +53,9 @@ Mandarins are typically propagated by grafting onto rootstocks such as Carrizo c
 
 Irrigation is essential during fruit development, with water requirements of approximately 900–1,200 mm annually. Fertigation programs emphasize potassium and nitrogen during the fruit-sizing stage.
 
-Pruning is typically minimal, focusing on removal of dead wood, water sprouts, and crossing branches to maintain canopy light penetration. In some intensive production systems, hedging and topping are used to control tree size for mechanical harvesting.
+Pruning is typically minimal, focusing on removal of dead wood, water sprouts, and crossing branches to maintain canopy light penetration. In some [[mollison-designers-market-garden-intensive-production-design]] systems, hedging and topping are used to control tree size for mechanical harvesting.
 
-Major pest challenges include the Asian citrus psyllid (Diaphorina citri), citrus red mite (Panonychus citri), and Mediterranean fruit fly (Ceratitis capitata. Huanglongbing disease, transmitted by the psyllid, poses the most serious threat to global mandarin production.
+Major pest challenges include the Asian citrus psyllid (Diaphorina citri), citrus red mite (Panonychus citri), and [[comparison-olive-vs-fig-vs-pomegranate-mediterranean-fruit-trees]] fly (Ceratitis capitata. Huanglongbing disease, transmitted by the psyllid, poses the most serious threat to global mandarin production.
 
 Harvest occurs from late summer through winter depending on cultivar and latitude. Post-harvest treatments include degreening with ethylene, waxing, and cold storage at 3–5°C to extend shelf life to 4–8 weeks.
 
@@ -65,7 +65,7 @@ Yields vary considerably by cultivar and management intensity, ranging from 15 t
 
 The peel of Citrus reticulata is exceptionally rich in volatile terpenes, with limonene constituting 60–75% of the essential oil. Other significant volatiles include γ-terpinene, α-pinene, myrcene, and linalool.
 
-Polymethoxyflavones (PMFs) are characteristic secondary metabolites of mandarin peel. Nobiletin and tangeretin are the most abundant, with demonstrated anti-inflammatory, anti-cancer, and neuroprotective properties in preclinical studies.
+Polymethoxyflavones (PMFs) are characteristic [[antifungal-secondary-metabolites-coprophilous-fungi]] of mandarin peel. Nobiletin and tangeretin are the most abundant, with demonstrated anti-inflammatory, anti-cancer, and neuroprotective properties in preclinical studies.
 
 The fruit pulp provides approximately 53 kcal per 100 g, with significant vitamin C (27 mg), vitamin A (681 IU as β-carotene), and dietary fiber (1.8 g). Potassium content reaches 166 mg per 100 g of fresh fruit.
 

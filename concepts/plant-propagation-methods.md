@@ -1,15 +1,16 @@
 ---
-title: Plant Propagation Methods
+title: Plant vegetative-propagation-methods-mollison
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cultivation, plants, gardening, agriculture, plant-growth, techniques, fruit-tree, species]
-sources: []
+sources:
+  sources: []
 ---
 
 # Plant Propagation Methods
 
-Plant propagation is the process of creating new plants from existing ones. Methods fall into two broad categories: sexual propagation (from seeds) and asexual/vegetative propagation (from plant parts). Vegetative methods produce clones genetically identical to the parent plant, preserving desired traits. Seed propagation introduces genetic variation, which is valuable for breeding but may not preserve specific characteristics.
+Plant propagation is the process of creating new plants from existing ones. Methods fall into two broad categories: [[cannabis-sexual-propagation-genetics]] (from seeds) and asexual/vegetative propagation (from plant parts). Vegetative methods produce clones genetically identical to the parent plant, preserving desired traits. [[jeavons-seed-propagation-techniques]] introduces genetic variation, which is valuable for breeding but may not preserve specific characteristics.
 
 ## Seed Propagation
 
@@ -24,12 +25,12 @@ Seed propagation is the most common method for annual vegetables, herbs, and man
 ### Disadvantages
 - Does not preserve exact genetics of hybrid parents (F1 hybrids do not breed true)
 - Some species have long juvenile periods before flowering/fruiting
-- Some species are difficult or slow from seed (e.g., many fruit trees)
+- Some species are difficult or slow from seed (e.g., many [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]])
 
 ### Seed Treatment Methods
 
 - **Stratification**: Cold, moist treatment to break dormancy. Place seeds in moist sand or paper towel in a plastic bag, refrigerate for 30-120 days. Common for: apples, peaches, cherries, pawpaw, many native perennials.
-- **Scarification**: Breaking or weakening the seed coat to allow water absorption. Methods: nick with a file, rub with sandpaper, soak in hot (not boiling) water for 12-24 hours. Common for: morning glories, locust, redbud, moonflower.
+- **Scarification**: Breaking or weakening the seed coat to allow water absorption. Methods: nick with a file, rub with sandpaper, soak in hot (not boiling) water for 12-24 hours. Common for: [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]], locust, redbud, moonflower.
 - **Soaking**: Soak seeds in water for 6-24 hours before planting to speed germination. Common for: beans, peas, corn, beets, squash.
 
 ## Cuttings
@@ -65,7 +66,7 @@ Cuttings are pieces of stem, leaf, or root that are encouraged to form roots and
 Sections of root that produce new shoots. Works for species that naturally sucker.
 
 - Best for: comfrey, horseradish, oriental poppies, blackberries, raspberries, elderberry
-- Take 2-4 inch root sections in late fall or early spring during dormancy
+- Take 2-4 inch root sections in late fall or [[coleman-overwintered-onions-and-early-spring-crops]] during dormancy
 - Plant horizontally 2 inches deep in pots or nursery beds
 - Keep moist; shoots emerge in 4-8 weeks
 
@@ -141,63 +142,9 @@ Used for plants that cannot be easily bent to ground level.
 Similar to simple layering but the tip of the branch is buried.
 
 1. Bend the growing tip of a branch down to the soil surface
-2. Bury the tip 4-6 inches deep
-3. The tip grows downward initially, then curves upward
-4. New shoots emerge from the buried tip
-5. Sever and transplant the following season
-
-**Best for**: blackberries, raspberries, trailing blackberry varieties
-
-## Grafting
-
-Grafting joins two plant parts so they grow as one. The upper part (scion) provides the desired fruit variety; the lower part (rootstock) provides disease resistance, size control, and soil adaptation. See [[grafting-fruit-trees]] for detailed techniques.
-
-### Common Grafting Methods
-
-- **Whip-and-tongue**: Scion and rootstock of similar diameter, joined with interlocking tongues. Used for bench grafting in winter.
-- **Cleft graft**: Scion inserted into a cleft in the rootstock. Used for top-working established trees.
-- **Bud grafting (T-budding)**: A single bud is inserted under the bark of the rootstock. Used for summer budding of fruit trees.
-
-## Tissue Culture (Micropropagation)
-
-Tissue culture produces large numbers of identical plants from small tissue samples in a sterile laboratory environment.
-
-### Basic Process
-
-1. **Explant selection**: Take a small tissue sample (meristem, leaf, stem node) from the parent plant
-2. **Surface sterilization**: Clean the explant in bleach or alcohol to eliminate contaminants
-3. **Initiation**: Place explant on nutrient agar medium with growth hormones (auxin + cytokinin)
-4. **Multiplication**: Subculture to fresh medium every 4-6 weeks; shoots multiply
-5. **Rooting**: Transfer shoots to rooting medium (higher auxin, lower cytokinin)
-6. **Acclimatization**: Gradually transfer rooted plantlets from sterile agar to potting soil, increasing humidity control
-
-### Applications
-
-- Mass production of disease-free planting material
-- Propagation of species difficult to propagate by other means (orchids, bananas, potatoes, strawberries)
-- Preservation of rare or endangered species
-- Production of genetically identical clones for research or commercial orchards
-
-### Limitations for Home Gardeners
-
-- Requires sterile laboratory conditions (laminar flow hood, autoclave)
-- Specialized media and growth hormones
-- Significant startup cost and technical knowledge
-- Not practical for most home growers
-
-## Choosing a Propagation Method
-
-| Method | Speed | Genetic Fidelity | Skill Level | Best For |
-|--------|-------|-----------------|-------------|----------|
-| Seed | Slow to fast | Low (except open-pollinated) | Beginner | Annuals, vegetables |
-| Stem cuttings | Moderate | High | Beginner-Intermediate | Herbs, softwood perennials |
-| Division | Fast | High | Beginner | Clumping perennials |
-| Layering | Slow | High | Beginner | Woody shrubs, berries |
-| Grafting | Moderate | High | Advanced | Fruit trees |
-| Tissue culture | Moderate | High | Expert | Mass production, difficult species |
-
 ## Related
 
 ## See Also
 
 - [[permaculture-plant-propagation-methods]]
+- [[query-how-do-i-use-woody-herb-cuttings-for-plant-propagation]]

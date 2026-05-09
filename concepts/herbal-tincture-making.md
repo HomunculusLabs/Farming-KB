@@ -35,13 +35,13 @@ Brandy, rum, and gin can be used for tinctures where the flavor of the spirit co
 
 ## Basic Tincture Making Methods
 
-Two primary methods are used for making herbal tinctures: the maceration (folk) method and the percolation method. The maceration method is simpler and more accessible for home practitioners, while the percolation method produces tinctures more quickly and consistently.
+Two primary methods are used for making [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]]: the maceration (folk) method and the percolation method. The maceration method is simpler and more accessible for home practitioners, while the percolation method produces tinctures more quickly and consistently.
 
 ### Maceration Method (Folk Method)
 
 The maceration method involves soaking herb material in solvent and allowing time and agitation to extract the active constituents. It is the most commonly used method for home tincture making.
 
-For dried herbs, fill a clean glass jar approximately one-third to one-half full with dried, coarsely ground herb material. Pour the alcohol-water solution over the herbs until they are completely covered with at least one to two inches of solvent above the herb level. Seal the jar tightly and store it in a cool, dark place for 4 to 6 weeks, shaking the jar daily to redistribute the solvent and promote extraction.
+For dried herbs, fill a clean [[sterile-spore-print-collection-glass-jar-technique]] approximately one-third to one-half full with dried, coarsely ground herb material. Pour the alcohol-water solution over the herbs until they are completely covered with at least one to two inches of solvent above the herb level. Seal the jar tightly and store it in a cool, dark place for 4 to 6 weeks, shaking the jar daily to redistribute the solvent and promote extraction.
 
 After the maceration period, strain the liquid through a fine-mesh strainer lined with cheesecloth or a muslin bag. Press or wring the marc (spent herb material) to extract as much liquid as possible. Pour the strained tincture into amber glass bottles with dropper tops, label with the herb name, solvent percentage, date, and dosage information, and store in a cool, dark location.
 
@@ -57,7 +57,7 @@ The percolation method is preferred in professional and clinical settings where 
 
 ## Dried vs. Fresh Herb Tinctures
 
-The choice between dried and fresh herb material affects the character, potency, and shelf life of the resulting tincture. Dried herb tinctures are more concentrated per unit weight because water has been removed. They are more consistent in quality because drying standardizes the moisture content. They are available year-round and have a longer shelf life.
+The choice between dried and fresh herb material affects the character, potency, and [[psilocybin-shelf-life-stability]] of the resulting tincture. Dried herb tinctures are more concentrated per unit weight because water has been removed. They are more consistent in quality because drying standardizes the moisture content. They are available year-round and have a longer shelf life.
 
 Fresh herb tinctures may capture volatile constituents that are lost during drying. They are preferred for some herbs where the fresh plant contains active compounds that degrade during processing (such as St. John's wort). They contain water from the fresh plant material, which dilutes the final alcohol concentration and must be accounted for in solvent selection.
 

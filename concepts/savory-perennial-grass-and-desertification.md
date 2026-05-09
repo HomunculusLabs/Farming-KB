@@ -1,5 +1,5 @@
 ---
-title: Perennial Grass and Desertification
+title: savory perennial grass and desertification and Desertification
 created: 2026-04-28
 tags: [perennial-grass, desertification, brittle-environments]
 date: 2026-04-25
@@ -25,10 +25,10 @@ animal appears and bites all stem and leaf down to an inch or two. This is
 severe grazing, but not unusual or bad. Certain animals evolved to graze
 in such a manner in harmony with such grasses over millions of years.
 
-In the growing season the plant receives a short-term setback but a
+In the [[savory-growing-season-and-non-growing-season-management]] the plant receives a short-term setback but a
 long-term boost. The bitten plant demands time for recovery but may still
 finish the season better off and less encumbered than its neighbors. The
-growth points at the base remain intact, and no old growth stands in the
+growth points at the base remain intact, and no [[fungal-roles-in-old-growth-forests]] stands in the
 way of regeneration.
 
 If the bite comes in the dormant season, when the plant has no use for the
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

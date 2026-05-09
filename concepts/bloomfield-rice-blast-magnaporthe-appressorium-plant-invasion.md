@@ -33,7 +33,7 @@ conidium-producing segment that attacks rice plants.
 
 ## Spore Attachment and Appressorium Formation
 
-A pear-shaped conidium drifting onto a leaf surface releases a sticky
+A pear-shaped conidium drifting onto a [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] releases a sticky
 mucilage globule that binds it to the waxy cuticle. If the leaf is wet
 with dew, the conidium germinates. A germ tube extends a short distance
 before adhering at its tip and swelling into the appressorium.
@@ -41,13 +41,13 @@ before adhering at its tip and swelling into the appressorium.
 Within hours, the appressorium undergoes dramatic transformation:
 secreting an O-ring of glue that creates a watertight seal, depositing a
 melanin-rich layer against the inner cell wall, filling with glycerol,
-and generating immense turgor pressure. A penetration hypha then extends
+and generating immense [[bloomfield-turgor-pressure-and-hyphal-invasion]]. A penetration hypha then extends
 from the base and pushes straight through the leaf.
 
 ## The Melanin and Pressure Mechanism
 
 Melanization is essential for function. If melanin formation is
-inhibited by fungicides targeting the melanin biosynthesis pathway, the
+inhibited by fungicides targeting the [[fungal-melanin-biosynthesis-ecological-functions]] pathway, the
 appressorium never penetrates. Albino mutants of Magnaporthe produce
 transparent, ineffective appressoria.
 
@@ -94,19 +94,19 @@ genes, requiring continuous breeding of new resistant varieties.
 The prevalence of blast in nitrogen-fertilized fields suggests that
 high-nitrogen plants produce more susceptible tissues, or that the
 nitrogen-rich environment favors fungal growth and sporulation. This has
-practical implications for disease management.
+practical implications for [[plant-disease-management-solomon]].
 
 ## Broader Significance
 
 The Magnaporthe appressorium represents a general strategy employed by
-many fungal pathogens. Similar infection structures appear in
+many [[bloomfield-fungal-pathogens-and-parasites]]. Similar infection structures appear in
 Colletotrichum (anthracnose), Pyricularia, and various rust species.
 Understanding Magnaporthe's physics and biochemistry has provided a
 template for understanding mechanical plant invasion across the fungal
 kingdom.
 
 Robby Roberson at Arizona State University used similar surface
-engineering methods to direct hyphal growth patterns, exploring the
+engineering methods to direct [[bloomfields-orchard-hyphal-growth-and-invasive-biology]] patterns, exploring the
 possibility of living fungal computers using guided mycelial circuits.
 
 ## See Also

@@ -1,5 +1,5 @@
 ---
-title: "Koji vs SCOBY Fermentation Culture"
+title: "Koji vs comparison koji vs scoby fermentation culture Culture"
 created: 2026-04-28
 tags: [fermentation, koji, scoby, kombucha, cultured-foods, comparison]
 date: 2026-04-28
@@ -14,7 +14,7 @@ type: comparison
 
 # Koji vs SCOBY Fermentation Culture
 
-A practical comparison of two foundational fermentation cultures — **koji** (*Aspergillus oryzae*) and **SCOBY** (Symbiotic Culture of Bacteria and Yeast) — to help you choose the right culture for your kitchen, homestead, or production goals.
+A practical comparison of two foundational fermentation cultures — **koji** (*Aspergillus oryzae*) and **SCOBY** (Symbiotic Culture of Bacteria and Yeast) — to help you [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] culture for your kitchen, homestead, or production goals.
 
 ## Quick Comparison
 
@@ -106,3 +106,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[comparison-wild-fermentation-vs-commercial-starter-culture]]

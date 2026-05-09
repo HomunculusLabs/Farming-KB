@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-Platycodon grandiflorus, commonly known as balloon flower, Chinese bellflower, or jiegeng (桔梗) in Chinese, is a perennial herbaceous plant in the family Campanulaceae. It is the sole species in the genus Platycodon and is native to East Asia, including China, Korea, Japan, and eastern Siberia.
+Platycodon grandiflorus, commonly known as balloon flower, Chinese bellflower, or jiegeng (桔梗) in Chinese, is a perennial herbaceous plant in the family Campanulaceae. It is the sole species in the genus Platycodon and is native to [[neurotropic-fungi-japan-east-asia-species-cultural-context]], including China, Korea, Japan, and eastern Siberia.
 
 The plant is cultivated both as an ornamental for its distinctive balloon-shaped flower buds and as a medicinal crop for its thick, fleshy taproots. The roots have been used for over 2,000 years in Traditional Chinese Medicine (TCM) and traditional Korean medicine (Hanbang).
 
@@ -42,7 +42,7 @@ In TCM, the root (Jiegeng) is a key expectorant and respiratory remedy, featured
 
 The genus name derives from Greek *platys* (broad) and *kydon* (pomegranate), referring to the shape of the flower bud. The species epithet means "large-flowered."
 
-**Morphology:** P. grandiflorus is a perennial herb growing 30–90 cm tall. It produces a single erect, unbranched stem (or 2–3 stems) from a thick, fleshy, fusiform taproot that can exceed 10 cm in length and 2 cm in diameter.
+**Morphology:** P. grandiflorus is a perennial [[medicinal-herb-growing]] 30–90 cm tall. It produces a single erect, unbranched stem (or 2–3 stems) from a thick, fleshy, fusiform taproot that can exceed 10 cm in length and 2 cm in diameter.
 
 Leaves are alternate, ovate to lanceolate, 4–12 cm long and 1.5–5 cm wide, with serrate margins and an acute apex. The upper leaves are smaller and sessile, while lower leaves have short petioles.
 
@@ -62,7 +62,7 @@ Platycodin D is considered the primary pharmacologically active compound. It has
 
 - **Immunomodulatory:** Platycodin D enhances both innate and adaptive immune responses. It activates dendritic cell maturation and promotes Th1 differentiation, with implications for vaccine adjuvant development.
 
-- **Anticancer potential:** In vitro studies demonstrate cytotoxic activity against lung, breast, and colon cancer cell lines via apoptosis induction and cell cycle arrest. Platycodin D inhibits tumor metastasis in mouse models of lung cancer.
+- **Anticancer potential:** In vitro studies demonstrate cytotoxic activity against lung, breast, and [[cannabis-and-colon-cancer-research]] cell lines via apoptosis induction and cell cycle arrest. Platycodin D inhibits tumor metastasis in mouse models of [[psk-breast-lung-cancer-clinical-trials]].
 
 - **Antioxidant and hepatoprotective:** The root extract scavenges free radicals and protects against carbon tetrachloride-induced liver damage in rats, attributed to both saponin and flavonoid constituents.
 
@@ -98,7 +98,7 @@ The flowers are pollinated by bumblebees and long-tongued bees, which are the pr
 
 Platycosides from the root have attracted commercial interest as functional food ingredients and dietary supplements. In South Korea, platycodon root extracts are incorporated into health beverages, throat lozenges, and anti-cough syrups.
 
-The species shows potential as a natural pesticide adjuvant due to its saponin content, which acts as a natural surfactant. Platycoside-rich extracts have been investigated for their ability to enhance the efficacy of agricultural sprays through improved wetting and penetration.
+The species shows potential as a [[jadam-natural-pesticide-institute-and-research]] adjuvant due to its saponin content, which acts as a natural surfactant. Platycoside-rich extracts have been investigated for their ability to enhance the efficacy of agricultural sprays through improved wetting and penetration.
 
 In horticulture, the ornamental forms are valued for their late summer bloom period, providing color when many other perennials have finished flowering. The species is deer-resistant due to saponin bitterness in all plant parts.
 

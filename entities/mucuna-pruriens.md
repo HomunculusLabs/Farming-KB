@@ -41,7 +41,7 @@ Several varieties are recognized based on pod hair characteristics and geographi
 
 ## Chemical Composition
 
-*Mucuna pruriens* is remarkable for its extraordinary chemical complexity. The seeds contain several classes of bioactive compounds:
+*Mucuna pruriens* is remarkable for its extraordinary chemical complexity. The seeds contain several classes of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:
 
 ### L-DOPA (Levodopa)
 The most significant pharmacological constituent is **L-DOPA** (L-3,4-dihydroxyphenylalanine), a direct precursor to the neurotransmitter dopamine. *M. pruriens* seeds contain 3.6–4.9% L-DOPA by dry weight in commercial varieties, with some wild accessions reported to contain up to 7%. This makes *M. pruriens* one of the richest natural sources of L-DOPA known, and the species has been extensively studied as a natural alternative to synthetic L-DOPA in the management of Parkinson's disease. L-DOPA crosses the blood-brain barrier via amino acid transporters and is decarboxylated to dopamine by the enzyme aromatic L-amino acid decarboxylase (AADC).
@@ -72,13 +72,13 @@ Ayurvedic texts describe the seeds as *vrishya* (aphrodisiac), *balya* (strength
 In West and Central Africa, various preparations of *M. pruriens* are used in traditional medicine systems. The seeds are used as charms or amulets, and in some traditions they are consumed for their purported aphrodisiac and psychoactive properties. The practice of using seeds as charms, noted by Schultes and Hofmann, suggests a recognition of the plant's bioactive nature extending beyond its nutritional value.
 
 ### Modern Entheogenic Use
-In contemporary psychopharmacological exploration, *M. pruriens* seeds are occasionally used as an **ayahuasca analog**. The seeds contain both DMT (the psychedelic compound) and beta-carboline-acting compounds that may serve as mild monoamine oxidase inhibitors, though the MAOI activity is considerably less reliable than that of traditional ayahuasca admixture plants like *Banisteriopsis caapi*. The powdered seeds are typically consumed orally, sometimes in combination with other MAOI-containing plants.
+In contemporary psychopharmacological exploration, *M. pruriens* seeds are occasionally used as an **ayahuasca analog**. The seeds contain both DMT (the psychedelic compound) and beta-carboline-acting compounds that may serve as mild monoamine oxidase inhibitors, though the MAOI activity is considerably less reliable than that of traditional [[entheogen-ayahuasca-admixture-plants]] plants like *Banisteriopsis caapi*. The powdered seeds are typically consumed orally, sometimes in combination with other MAOI-containing plants.
 
 ## Agricultural Applications
 
-*Mucuna pruriens* is widely used in tropical and subtropical agriculture as a **cover crop and green manure** due to its nitrogen-fixing capability, rapid biomass production, and soil-improving properties:
+*Mucuna pruriens* is widely used in tropical and subtropical agriculture as a **cover crop and green manure** due to its nitrogen-fixing capability, rapid [[dighton-fungal-biomass-production-aquatic-ecosystems]], and soil-improving properties:
 
-- **Nitrogen fixation:** As a legume, *M. pruriens* forms symbiotic associations with rhizobial bacteria (*Bradyrhizobium* spp.) in root nodules, fixing atmospheric nitrogen at rates of 100–200 kg N/ha/year. This significantly reduces the need for synthetic nitrogen fertilizers in rotational systems.
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** As a legume, *M. pruriens* forms symbiotic associations with rhizobial bacteria (*Bradyrhizobium* spp.) in root nodules, fixing atmospheric nitrogen at rates of 100–200 kg N/ha/year. This significantly reduces the need for synthetic nitrogen fertilizers in rotational systems.
 - **Weed suppression:** The vigorous, smothering growth habit effectively suppresses weeds, reducing competition for subsequent crops. The dense canopy shades out competing vegetation.
 - **Soil improvement:** The deep root system improves soil structure, and the decomposition of the abundant biomass adds organic matter and improves soil fertility.
 - **Erosion control:** The plant's extensive root network and ground-covering growth habit make it effective for erosion control on slopes and degraded lands.
@@ -86,7 +86,7 @@ In contemporary psychopharmacological exploration, *M. pruriens* seeds are occas
 
 ## Pharmacological Research
 
-Modern clinical research on *M. pruriens* has focused primarily on its L-DOPA content and potential applications in Parkinson's disease management. Key findings include:
+Modern [[hofmann-lsd-clinical-research-early-studies]] on *M. pruriens* has focused primarily on its L-DOPA content and potential applications in Parkinson's disease management. Key findings include:
 
 - **Anti-Parkinsonian effects:** Multiple clinical studies have demonstrated that *M. pruriens* seed powder (at doses of 15–30 g/day) produces significant improvements in Parkinson's disease symptoms, including tremor, rigidity, bradykinesia, and postural instability. Some studies suggest that the whole-seed preparation may offer advantages over synthetic L-DOPA, potentially due to the presence of additional neuroprotective compounds.
 - **Neuroprotective properties:** In vitro and animal studies have shown antioxidant and neuroprotective effects of *M. pruriens* extracts, attributed to the combined activity of L-DOPA, antioxidants, and other bioactive compounds.
@@ -109,7 +109,7 @@ Oral consumption of the seeds is generally well-tolerated at traditional doses, 
 - **Seed rate:** For cover crop use, seeding rates of 15–25 kg/ha are typical, depending on the purpose (pure stand vs. intercropping) and seed size.
 - **Support:** As a climbing vine, the plant benefits from support structures such as trellises, fences, or companion plants. In cover crop applications, it can be allowed to sprawl on the ground or climb on companion crops.
 - **Growth cycle:** Annual in most climates, completing its life cycle in 3–9 months depending on conditions. Some varieties behave as short-lived perennials in frost-free environments.
-- **Pests and diseases:** Generally resistant to most pests and diseases, though the plant can be affected by root-knot nematodes (*Meloidogyne* spp.), fungal leaf spots, and various insect pests. The dense canopy can actually help suppress certain pest populations.
+- **[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]:** Generally resistant to most pests and diseases, though the plant can be affected by root-knot nematodes (*Meloidogyne* spp.), fungal leaf spots, and various insect pests. The dense canopy can actually help suppress certain pest populations.
 
 ## Nutritional Value as Food and Fodder
 

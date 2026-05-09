@@ -1,5 +1,5 @@
 ---
-title: "5-TOET (4-ETHYL-2-METHOXY-5-METHYLTHIOAMPHETAMINE) -- PIHKAL Entry #170"
+title: "5-TOET (4-ETHYL-2-METHOXY-5-METHYLTHIOAMPHETAMINE) -- 2c-b-pihkal-entry-20 #170"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -121,7 +121,7 @@ dimethyl-(2-ethyl-4-hydroxyphenyl)-sulfonium chloride weighed 20.0 g
 and had a mp of 168-170 deg C without obvious effervescence. A solution
 of 19.8 g of this sulfonium salt in 200 mL H2O was diluted with 500 mL
 MeOH, and there was added 30 g NaOH. This was heated to reflux on the
-steam bath. There was an initial deposition of some white solids, but
+[[scythian-cannabis-steam-bath-ritual]]. There was an initial deposition of some white solids, but
 after 36 h the solution was almost clear. The excess MeOH was removed
 under vacuum, and the non-volatiles were poured into 1 L H2O. This
 was acidified with HCl, and extracted with 3x100 mL CH2Cl2. The
@@ -140,6 +140,8 @@ addition of 5% NaOH. This was extracted with 3x75 mL CH2Cl2, and the
 extracts were pooled and the solvent removed under vacuum. There
 remained 11.0 g of an almost white oil with a startling apple smell.
 ## See Also
+
+- [[2-toet-entity-pihkal]]
 
 - [[qualitative-comments-methodology-pihkal]]
 - [[ethyl-j-entity-pihkal]]

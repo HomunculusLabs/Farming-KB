@@ -2,7 +2,7 @@
 title: Cannabinoid Pharmacology - THC and CBD Mechanisms
 created: 2026-04-26
 updated: 2026-04-24
-sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
+sources: "Uwe Blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
 wikilinks: "blesching-endocannabinoid-system-overview cannabis-chronic-pain-management cannabis-for-epilepsy-and-seizure-disorders blesching-cannabis-cancer-symptoms"
 type: concept
 tags: [cannabis, pharmacology]
@@ -63,7 +63,7 @@ human body.
 
 ### Plant-Based THC Considerations
 
-Plant-based THC content varies by cannabis strain and depending upon whether it
+Plant-based THC content varies by [[blesching-cannabis-strain-selection-receptor-targeting]] and depending upon whether it
 is fresh or dried (and if dried, its age), and whether it is grown indoors or
 outdoors. Some strains may be especially potent in THC while others may contain
 only trace amounts. Fresh cannabis contains THC in the form of
@@ -73,7 +73,7 @@ decarboxylated through heat. Once devoid of its carboxyl group, THC becomes
 psychoactive.
 
 THC content decreases over time and is affected by UV light, heat, and exposure
-to moisture. Indoor cultivation follows a three-month cycle, while outdoor
+to moisture. [[cannabis-sativa-indoor-cultivation-techniques]] follows a three-month cycle, while outdoor
 cultivation follows an annual or biannual cycle. Indoor crops tend to contain a
 markedly higher THC content than outdoor crops.
 
@@ -112,7 +112,7 @@ bowel disease, arthritis, periodontitis, and atherosclerosis. See [[blesching-ca
 
 As regards cancer, CBD is able to produce significant anti-tumor activity both
 in vitro and in vivo. Further, CBD has been shown to selectively produce
-oxidative stress in cancer cells, thus producing apoptosis (cancer cell suicide)
+[[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in cancer cells, thus producing apoptosis (cancer cell suicide)
 without impacting normal cells.
 
 ## (E)-beta-Caryophyllene ((E)-BCP)
@@ -131,3 +131,7 @@ strategy in the treatment of a multitude of diseases associated with
 inflammation and oxidative stress, both underlying factors in a host of
 different pathologies. Additional research has shown that (E)-beta-caryophyllene
 may also protect against microbes, pain, and cancer. See [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]]
+
+## See Also
+
+- [[reishi-triterpenoids-pharmacology]]

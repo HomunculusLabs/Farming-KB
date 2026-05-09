@@ -23,7 +23,7 @@ sources:
 
 The species was described by Joseph Dalton Hooker in 1859 and named in honor of Sir James Brooke, the first White Rajah of Sarawak. It is one of the most spectacular and sought-after carnivorous plants in horticulture.
 
-*Nepenthes rajah* is classified as Endangered on the IUCN Red List. Its extremely restricted range and specific habitat requirements make it vulnerable to climate change and habitat disturbance.
+*Nepenthes rajah* is classified as Endangered on the IUCN Red List. Its extremely restricted range and specific habitat requirements make it vulnerable to [[dighton-fungi-climate-change-feedback]] and habitat disturbance.
 
 ## Taxonomy and Morphology
 
@@ -31,7 +31,7 @@ The species was described by Joseph Dalton Hooker in 1859 and named in honor of 
 
 Kingdom: Plantae — Order: Caryophyllales — Family: Nepenthaceae — Genus: *Nepenthes* L. — Species: *N. rajah* Hook.f.
 
-The genus *Nepenthes* contains approximately 180 recognized species distributed across Southeast Asia, Madagascar, and the Western Pacific. *N. rajah* is placed in the *Regiae* clade based on molecular phylogenetic analysis.
+The genus *Nepenthes* contains approximately 180 recognized species distributed across [[psilocybe-southeast-asia-pacific]], Madagascar, and the Western Pacific. *N. rajah* is placed in the *Regiae* clade based on molecular phylogenetic analysis.
 
 The plant forms a robust climbing or scrambling stem up to six meters in length. Leaves are leathery and coriaceous, with an elongated petiole and a strong tendril that supports the pitcher trap.
 
@@ -63,13 +63,13 @@ The digestive fluid contains a complex mixture of proteolytic **enzyme** compoun
 
 Prey items include ants, flies, beetles, centipedes, and occasionally vertebrates such as small rodents, frogs, and lizards. Documented prey of *N. rajah* includes mountain treeshrews (*Tupaia montana*) that feed on nectar secreted by the lid.
 
-The relationship with treeshrews represents a mutualistic interaction: the mammal defecates into the pitcher while feeding, providing the plant with a significant nitrogen source. This is one of the most dramatic examples of plant-mammal nutrient exchange documented.
+The relationship with treeshrews represents a mutualistic interaction: the mammal defecates into the pitcher while feeding, providing the plant with a significant nitrogen source. This is one of the most dramatic examples of plant-mammal [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] documented.
 
 Similar mutualistic relationships with small mammals have been documented in other large *Nepenthes* species, including *N. lowii* and *N. macrophylla*. These interactions may represent a broader evolutionary trend toward vertebrate-derived nutrition in montane species.
 
 ## Bioactive Compounds
 
-The digestive fluid of *N. rajah* contains multiple protease families including aspartic proteases, serine carboxypeptidases, and class I chitinases. These function synergistically to break down arthropod exoskeletons and soft tissues.
+The digestive fluid of *N. rajah* contains multiple protease families including aspartic proteases, serine carboxypeptidases, and class I chitinases. These function synergistically to [[query-can-fungi-break-down-plastic-pollution]] arthropod exoskeletons and soft tissues.
 
 Naphthoquinones, including plumbagin and droserone, have been isolated from pitcher fluid and leaf tissue. These compounds exhibit antimicrobial and antifungal activity.
 
@@ -79,7 +79,7 @@ The viscoelastic pitcher fluid is produced by a unique polysaccharide-based secr
 
 *Nepenthes rajah* is considered challenging to cultivate due to its requirement for cool tropical highland conditions. Nighttime temperatures must not exceed approximately 18°C for sustained healthy growth.
 
-The species is propagated in cultivation primarily through seed germination and stem cuttings. Tissue culture methods have been developed but remain less reliable than for lowland *Nepenthes* species.
+The species is propagated in cultivation primarily through [[cannabis-seed-germination-methods]] and stem cuttings. [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] methods have been developed but remain less reliable than for lowland *Nepenthes* species.
 
 Wild populations are protected within Kinabalu Park, a UNESCO World Heritage Site. Despite legal protections, illegal collection of plants from the wild has been documented as an ongoing conservation concern.
 

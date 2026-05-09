@@ -1,6 +1,6 @@
 # [[masanobu-fukuoka]]'s [[fukuoka-natural-alfalfa-black-wattle-ground-cover]]-farming-principlesples into
 human nutrition. He argued that food and farming are "the front and back of
-one body" and that a natural diet cannot exist without [[natural-farming]], nor can
+one body" and that a [[fukuoka-natural-diet-as-foundation]] cannot exist without [[natural-farming]], nor can
 the farmer know what to grow without a natural diet being established. His
 approach rejects both the modern scientific diet and rigid dietary doctrines,
 proposing instead a "diet of non-discrimination" guided by bodily instinct and
@@ -9,7 +9,7 @@ local seasonal availability.
 ## The Unity of Food and Farming
 
 Fukuoka insisted that the connection between food production and consumption is
-inseparable. "It is clearer than firelight that if natural farming is not
+inseparable. "It is clearer than firelight that if [[comparison-natural-farming-vs-permaculture]] is not
 practiced natural food will not be available to the public. But if natural
 diet is not established the farmer will remain confused about what to grow."
 
@@ -73,7 +73,7 @@ Fukuoka emphasized that nutrition cannot be separated from the sense of taste.
 Nutritious foods that are good for the human body whet the appetite and are
 delicious on their own account. Proper nourishment is inseparable from good
 flavour. He criticized Western nutritional science for having no effort to
-adjust the diet to the natural cycle, resulting in a diet that isolates human
+adjust the diet to the [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]], resulting in a diet that isolates human
 beings from nature and creates fear and insecurity.
 
 Spiritual and emotional values are entirely forgotten in nutritional science,
@@ -102,7 +102,7 @@ have nature's subtle flavours but because taste has been conditioned.
 The best methods of food preparation preserve nature's delicate flavours. The
 daily wisdom of long ago enabled people to make various kinds of vegetable
 pickles so that the flavour of the vegetable itself was preserved. "The art
-of cooking begins with sea salt and a crackling fire." If, by being cooked,
+of cooking begins with [[jadam-sea-salt-and-mineral-solutions]] and a crackling fire." If, by being cooked,
 food takes on some strange and exotic flavour merely to delight the palate,
 this is false cooking. If you do not try to make food delicious, you will find
 that nature has made it so.

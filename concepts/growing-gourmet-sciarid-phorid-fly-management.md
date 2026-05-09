@@ -1,36 +1,27 @@
 ---
-title: Growing Gourmet Sciarid Phorid Fly Management
+title: Growing growing gourmet sciarid phorid fly management Phorid Fly Management
 created: 2026-04-28
-tags: [[mushroom-cultivation, pest-management, sciarid-flies, phorid-flies, IPM]
+tags: [mushroom-cultivation, pest-management, sciarid-flies, phorid-flies, IPM]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 type: concept
 ---
-
-# Sciarid and Phorid Fly Management in Mushroom Cultivation
-
-Fungus gnats (sciarid flies) and phorid flies are the two most
-persistent and damaging insect pests in indoor mushroom cultivation.
-Their larvae feed directly on mushroom mycelium and developing fruiting
-bodies, while adults spread contamination by carrying mold spores,
-bacteria, and mites between growing containers and rooms. Effective
-management requires understanding their biology and implementing
-[[bacillus-thuringiensis]] var. israelensis (Bti)**: Applied to
+# Sciarid and Phorid Fly Management in Mushroom Cultivation Fungus gnats (sciarid flies) and phorid flies are the two most persistent and damaging insect pests in indoor mushroom cultivation. Their larvae feed directly on mushroom mycelium and developing fruiting bodies, while adults spread contamination by carrying mold spores, bacteria, and mites between growing containers and rooms. Effective management requires understanding their biology and implementing [[bacillus-thuringiensis]] var. israelensis (Bti)**: Applied to
   substrate surfaces and casing soil, Bti produces toxins that kill
-  fly larvae while being harmless to mushrooms and mycelium. Available
+  [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]] while being harmless to mushrooms and mycelium. Available
   as Gnatrol or similar products. Apply at first sign of adult activity
   and reapply every 7-10 days during the cropping cycle
 - **Steinernema feltiae**: Entomopathogenic nematodes that actively
   hunt and kill fly larvae in substrate. Applied as a soil drench.
   Effective at temperatures above 55°F (13°C)
-- **Hypoaspis miles**: Predatory mites that feed on fungus gnat larvae
+- **Hypoaspis miles**: [[comparison-predatory-mites-vs-ladybugs-biocontrol]] that feed on fungus gnat larvae
   in the substrate. Establish populations before flies appear for
   best results
-- **[[mushroom-pests-in-cultivation]]
-- [[mushroom-pests-in-cultivation]]
+- **mushroom-pests-in-cultivation
+- mushroom-pests-in-cultivation
 
-See also: [[cannabis-pest-disease-troubleshooting]]
+See also: [[green-cannabis-grow-bible-pest-disease-prevention]]
 ## Practical Applications
 
 Growing Gourmet Sciarid Phorid Fly Management has a range of practical applications that make it relevant to
@@ -108,4 +99,5 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[mushroom-cultivation]]

@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [query, cannabis, lighting, photoperiod, autoflower]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -12,7 +13,7 @@ type: query
 
 ## Short Answer
 
-Photoperiod cannabis plants need 18 hours of light and 6 hours of darkness during the vegetative stage, then switch to 12 hours of light and 12 hours of darkness to trigger flowering. Autoflowering varieties can be grown under 18-20 hours of light from seed to harvest without a photoperiod change. The light spectrum matters as much as duration, with blue light favoring vegetative growth and red light promoting flowering.
+Photoperiod cannabis plants need 18 hours of light and 6 hours of darkness during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]], then switch to 12 hours of light and 12 hours of darkness to trigger flowering. Autoflowering varieties can be grown under 18-20 hours of light from seed to harvest without a photoperiod change. The [[cannabis-light-spectrum-and-color-bands]] matters as much as duration, with blue light favoring [[cannabis-vegetative-growth-stage]] and red light promoting flowering.
 
 ## Understanding Photoperiodism
 
@@ -38,7 +39,7 @@ The dark period allows plants to:
 
 The [[cannabis-flowering-stage]] page covers what to expect during this transition.
 
-Critical flowering phase events:
+Critical [[green-cannabis-grow-bible-flowering-phase-and-harvest]] events:
 1. **Stretch phase** (weeks 1-3) - plants may double in height
 2. **Bud formation** (weeks 3-6) - calyxes and pistils develop
 3. **Ripening** (weeks 6-10+) - trichomes turn cloudy and amber
@@ -73,7 +74,7 @@ Common grow light technologies:
 | Light Type | Spectrum | Efficiency | Best For |
 |---|---|---|---|
 | LED (full spectrum) | Tunable | High | All stages, best value |
-| HPS (high pressure sodium) | Red-heavy | Moderate | Flowering stage |
+| HPS (high [[cervantes-high-pressure-sodium-lighting]]) | Red-heavy | Moderate | [[cannabis-flowering-stage-management]] |
 | CMH (ceramic metal halide) | Balanced | Good | Veg + early flower |
 | T5 fluorescent | Blue-heavy | Low | Seedlings, clones |
 

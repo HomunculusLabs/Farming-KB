@@ -1,5 +1,5 @@
 ---
-title: Zone 1 Intensive Garden
+title: Zone 1 comparison-zone-1-intensive-garden-vs-zone-5-wilderness
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -8,7 +8,7 @@ sources: ["raw/papers/bill-mollison-permaculture-a-designers-manual.md"]
 ---
 # Zone 1 Intensive Garden
 
-Zone 1 is the most intensively managed area in a permaculture design -- the area right outside the door that is visited most often and requires the most care. In a typical suburban yard, Zone 1 contains salad greens, herbs, dwarf fruit trees, a patio, and other daily-use elements. This is where the gardener's energy and attention are concentrated for maximum return.
+Zone 1 is the most intensively managed area in a [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] -- the area right outside the door that is visited most often and requires the most care. In a typical suburban yard, Zone 1 contains salad greens, herbs, dwarf [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], a patio, and other daily-use elements. This is where the gardener's energy and attention are concentrated for maximum return.
 
 ## The Zone System
 
@@ -33,7 +33,7 @@ Zone 1 contains the elements of daily life: herbs snipped for cooking, salad gre
 - Rain barrels and greywater outlets
 - Patio, deck, and outdoor living spaces
 - Bird feeders and baths
-- Rabbit hutches and other small animal housing
+- Rabbit hutches and other small [[permaculture-designers-manual-animal-housing-detailed]]
 - A greenhouse or cold frame
 
 ## Design Patterns for Zone 1
@@ -44,7 +44,7 @@ Zone 1 contains the elements of daily life: herbs snipped for cooking, salad gre
 
 ### Mandala Gardens
 
-Multiple keyhole beds arranged in a circular pattern create a mandala garden that combines beauty and extraordinary space efficiency.
+Multiple keyhole beds arranged in a circular pattern create [[query-what-is-a-mandala-garden-in-permaculture]] that combines beauty and extraordinary space efficiency.
 
 ### Sheet-Mulched Beds
 
@@ -56,7 +56,7 @@ Zone 1 receives the highest level of management: intensive weeding, dense planti
 
 ## Microclimate Creation
 
-Zone 1's proximity to the house creates unique microclimate opportunities. South-facing walls absorb and radiate heat, extending the growing season. Eaves provide rain shadow for drought-tolerant plants. The house itself blocks wind and reflects light. These microclimates can be exploited with careful plant placement.
+Zone 1's proximity to the house creates unique microclimate opportunities. South-facing walls absorb and radiate heat, extending the [[savory-growing-season-and-non-growing-season-management]]. Eaves provide rain shadow for drought-tolerant plants. The house itself blocks wind and reflects light. These microclimates can be exploited with careful plant placement.
 
 ## Evolution Over Time
 
@@ -66,7 +66,7 @@ In a [[keyhole-bed-design]] -- the primary bed pattern for Zone 1
 
 ## See Also
 
-[[faires-garden-design-zone-1-layout]]
+faires-garden-design-zone-1-layout
 - [[chicken-keeping-guide]]
 ## Practical Considerations
 
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

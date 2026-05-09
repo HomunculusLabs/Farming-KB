@@ -9,7 +9,7 @@ sources: []
 
 # Cannabis Trichome Guide
 
-Trichomes are the tiny, crystal-like glandular structures that cover cannabis flowers and sugar leaves. They are the primary production sites for cannabinoids (THC, CBD, etc.) and terpenes. Understanding trichome types, development stages, and how to assess maturity is essential for optimizing harvest timing and final product quality.
+Trichomes are the tiny, crystal-like glandular structures that cover cannabis flowers and sugar leaves. They are the [[lichens-primary-production-soil-formation-dighton]] sites for cannabinoids (THC, CBD, etc.) and terpenes. Understanding trichome types, development stages, and how to assess maturity is essential for optimizing [[cannabis-harvest-timing-visual-cues]] and final product quality.
 
 ## What Are Trichomes?
 
@@ -39,7 +39,7 @@ Functions in nature:
 - More abundant than bulbous, found primarily on leaves and bracts
 - Consist of a stalk and a slightly larger head (not raised above the surface)
 - Begin producing cannabinoids during early flowering
-- Intermediate stage in trichome development
+- Intermediate stage in [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]]
 
 ### Capitate-Stalked Trichomes
 
@@ -52,7 +52,7 @@ Functions in nature:
 
 The capitate-stalked trichome head contains:
 - Secretory cells: synthesize cannabinoids and terpenes from precursor molecules
-- Stalk: elevates the head above the leaf surface for maximum exposure
+- Stalk: elevates the head above the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] for maximum exposure
 - Cuticle: waxy outer membrane that can rupture when pressed or agitated
 
 ## Trichome Development Stages
@@ -142,35 +142,8 @@ Cooler night temperatures (around 65-70°F / 18-21°C) in the final weeks of flo
 
 Proper nutrition throughout flowering supports maximum trichome production. Phosphorus and potassium are particularly important. Excess nitrogen late in flower can delay maturation and reduce trichome density.
 
-### Growing Medium
-
-Living soil systems with diverse microbiology tend to produce more complex terpene profiles in trichomes compared to synthetic nutrient systems. See [[cannabis-terpene-profile]] for how cultivation method affects terpene expression.
-
-## Post-Harvest Trichome Preservation
-
-Trichomes are fragile. Proper handling preserves potency:
-
-- Handle flowers gently — trichomes break off with physical contact
-- Avoid plastic bags for storage (static electricity pulls trichomes off)
-- Use glass jars for curing
-- Maintain 58-62% relative humidity during cure
-- Keep curing environment at 60-70°F (15-21°C)
-- Minimize light exposure during drying and curing
-- Drying too fast or too hot degrades trichomes and terpenes
-
-## Trichomes and Hash Production
-
-Trichomes are the raw material for all hash and concentrate production:
-
-- Dry sift: mechanically separating trichomes from plant material using screens
-- Ice water extraction: cold water agitation to separate trichome heads (bubble hash)
-- Rosin press: heat and pressure to squeeze resin from trichome-laden material
-- Solvent extraction: using butane, CO2, or ethanol to dissolve trichome contents
-
-The quality of starting material directly determines the quality of the final extract. Well-grown, properly harvested flowers with mature trichomes produce the best results.
-
 ## See Also
 
 - [[cannabis-terpene-profile]] for what trichomes produce beyond cannabinoids
 - [[cannabis-flavonoids]] for lesser-known compounds also produced in trichomes
-- [[cannabis-lighting-guide]] for how light spectrum affects trichome development
+- [[cannabis-lighting-guide]] for how [[cannabis-light-spectrum-and-color-bands]] affects trichome development

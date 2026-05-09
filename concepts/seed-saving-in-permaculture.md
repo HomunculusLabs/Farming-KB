@@ -1,5 +1,5 @@
 ---
-title: Seed Saving in Permaculture
+title: comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques in Permaculture
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -12,13 +12,13 @@ sources:
 
 ## Overview
 
-Seed saving is a critical act of resistance against corporate control of food systems. The 20-30 basic food crop seeds (grains and grain legumes) are subject to concerted efforts at total control by agro-chemical multinationals. Permaculture advocates for local seed sovereignty through exchanges, libraries, and open-pollinated non-patented seed networks. See also [[seed-saving-vegetables]], and [[community-economics-in-permaculture]]
-- Local seed networks form part of [[village-development-in-permaculture]]
+Seed saving is a critical act of resistance against corporate control of food systems. The 20-30 basic food crop seeds (grains and [[query-best-grain-legumes-for-a-small-homestead]]) are subject to concerted efforts at total control by agro-chemical multinationals. Permaculture advocates for local seed sovereignty through exchanges, libraries, and open-pollinated non-patented seed networks. See also [[seed-saving-vegetables]], and community-economics-in-permaculture
+- Local seed networks form part of village-development-in-permaculture
 - Combined with [[seed-saving-techniques]]
-- [[community-economics-in-permaculture]]
-- [[village-development-in-permaculture]]
-- [[aid-and-development-in-permaculture]]
-- [[mollison-permaculture-two-community-self-reliance]]
+- community-economics-in-permaculture
+- village-development-in-permaculture
+- aid-and-development-in-permaculture
+- mollison-permaculture-two-community-self-reliance
 ## Practical Applications
 
 Seed Saving in Permaculture has a range of practical applications that make it relevant to
@@ -96,4 +96,9 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[bill-mollison]]
+- [[permaculture-seed-saving-and-selection]]
+- [[permaculture-seed-saving-breeding]]
+- [[permaculture-seed-saving-networks]]
+- [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]

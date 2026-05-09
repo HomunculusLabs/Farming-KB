@@ -22,7 +22,7 @@ type: concept
   reported significant improvements in anxiety levels, behavioral
   outbursts, and self-injurious behaviors
 - Sleep quality improved in a majority of reported cases, which is
-  notable given the high prevalence of sleep disorders in ASD
+  notable given the high prevalence of [[cannabis-sleep-disorders-and-insomnia]] in ASD
 - Social communication improvements were reported by some families,
   though these subjective reports require controlled validation
 - A notable Israeli study found that CBD-enriched cannabis treatment
@@ -38,13 +38,13 @@ type: concept
 - THC content is typically kept very low or eliminated entirely in
   pediatric applications
 - Whole-plant extracts with preserved terpenes may offer additional
-  benefit through the entourage effect
+  benefit through the [[cannabis-terpene-entourage-effect-profiles]]
 - Consistent dosing schedules appear more effective than as-needed use
 
 ## Special Considerations
 
 - Pediatric use requires careful medical supervision and monitoring
-- Drug interactions with commonly prescribed ASD medications (SSRIs,
+- [[cannabis-drug-interactions-and-contraindications]] with commonly prescribed ASD medications (SSRIs,
   antipsychotics, stimulants) must be evaluated
 - Long-term effects of cannabinoid use during neurodevelopment are not
   fully understood
@@ -68,11 +68,11 @@ Research into the ECS and ASD has revealed:
 
 - [[blesching-cannabis-anxiety]] - anxiety management with cannabinoids
 - [[blesching-cannabis-sleep-disorders]] - sleep improvement
-- blesching cannabis pain management - for self-injurious behaviors
+- blesching cannabis [[cannabis-pain-management-protocols]] - for self-injurious behaviors
 
 ## Key References
 
-Blesching, U. (2017). *The Cannabis Health Index*. North Atlantic Books.
+Blesching, U. (2017). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. North Atlantic Books.
 See sections on neurodevelopmental disorders and emerging applications.
 ## Practical Considerations
 
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

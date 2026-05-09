@@ -1,5 +1,5 @@
 ---
-title: Goose Management and Integration
+title: faires goose management and integration and Integration
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -10,13 +10,13 @@ sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 
 Updated: 2026-04-18
 
-Source: Sheri Faires, The Ultimate Guide to Natural Farming and Sustainable Living
+Source: Sheri Faires, The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]]
 
 ## How Geese Fit into the System
 
 Geese eat grass and weeds and in return will fertilize the soil while leaving your crops and mulch alone. They also protect your property from predators and provide eggs, meat, and feathers. They should only be allowed into a well-established area so that they won't squash any young shoots, and they will eat fruit and vegetables so they should be removed before your garden ripens.
 
-Geese can be let into the Zone 1 vegetable garden after plants like strawberries and tomatoes have grown to the point that they won't sustain any real damage when the geese walk on them, but usually they will live in Zone 2, especially if you have ducks. Put seven geese per acre in the field when they are over eight weeks old, and let them graze until spring when the sprouts come up. There should be a fence around the field at least three feet high so they won't get into any other gardens.
+Geese can be let into the Zone 1 [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] after plants like strawberries and tomatoes have grown to the point that they won't sustain any real damage when the geese walk on them, but usually they will live in Zone 2, especially if you have ducks. Put seven geese per acre in the field when they are over eight weeks old, and let them graze until spring when the sprouts come up. There should be a fence around the field at least three feet high so they won't get into any other gardens.
 
 Geese can live with a small pond just like ducks, but heavy breeds won't breed unless they have more water. Six geese is the maximum population per acre of water surface. If there is enough of it, they can also live just off grass pasture, and unlike ducks they eat older grass. Geese are meat birds and do well as watchdogs or guards, although they are very quiet. If you keep a goose for a long time, it can become too big for you to handle and will become dangerous if you aren't handling it every day, but a meat goose doesn't get big enough to pose a threat, because you'll eat it first.
 
@@ -56,7 +56,7 @@ Goslings can be butchered before winter as long as their pinfeathers aren't grow
 
 Animals are introduced to the orchard progressively as trees mature:
 - 0-3 years: No animals (they will destroy young saplings)
-- 3-7 years: Bantam chickens and small chicken breeds can forage
+- 3-7 years: Bantam chickens and small [[query-what-are-the-best-chicken-breeds-for-a-backyard-flock]] can forage
 - 3-7 years: Pigs can be allowed in to clear ground, remove blackberries and scrub
 - 7+ years: Sheep can be allowed in
 - 15+ years: Cattle can be allowed in
@@ -65,7 +65,7 @@ At each stage, the animals must be monitored. If they start to damage the trees,
 
 ## Complementary Animal Systems
 
-The permaculture approach to livestock integration emphasises:
+The permaculture approach to [[faires-livestock-integration-permaculture]] emphasises:
 - Each animal performs multiple functions (fertilizer, pest control, forage conversion, soil aeration)
 - Multiple elements support each function (different animals for different tasks at different stages)
 - Animals are integrated into the food production system rather than being separate enterprises
@@ -75,8 +75,8 @@ The permaculture approach to livestock integration emphasises:
 ## Related Concepts
 
 - [[faires-chicken-coops-tractors-and-breeding-guide]]
-- [[faires-duck-pig-and-goat-systems]]
-- [[faires-rabbit-and-small-poultry-keeping]]
+- faires-duck-pig-and-goat-systems
+- faires-rabbit-and-small-poultry-keeping
 - [[knf-livestock-chicken-house-natural-farming]]
 
 ## Goose Breeds for Homesteads
@@ -101,3 +101,6 @@ preferred because they are active foragers that do not compact soil as
 heavily as the large meat breeds. A typical homestead flock of 2-4 geese
 can effectively maintain a quarter-acre of orchard floor clear of most
 grasses and weeds during the growing season.
+- [[natural-farming]]
+- [[jadam-livestock-integration-and-manure-management]]
+- [[faires-livestock-integration-permaculture]]

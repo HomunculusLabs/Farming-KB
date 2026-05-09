@@ -1,5 +1,5 @@
 ---
-title: Cannabis Vegetative Growth Stage
+title: comparison-cannabis-vegetative-stage-vs-flowering-stage Growth Stage
 created: 2026-04-28
 tags:
   - cannabis
@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-The vegetative stage is the primary growth phase of the cannabis plant,
+The [[cannabis-vegetative-stage-management]] is the primary growth phase of the cannabis plant,
 during which it develops the structural framework that will support flower
 production. During this cycle, the plant begins to grow quickly and produce
 more leaves and new branches. The stem also grows thicker. This is when the
@@ -80,16 +80,16 @@ long internodes (3 to 6 inches between branches) with pointy leaves and
 no markings. Ruderalis plants have very short internodes with much
 branching and small, thick leaves.
 
-Training techniques during vegetative growth include topping (cutting the
+[[cannabis-training-techniques-comparison]] during vegetative growth include topping (cutting the
 main stem tip to encourage lateral branching), low-stress training (LST,
-bending stems to create an even canopy), and screen of green (SCROG, using
+bending stems to create an even canopy), and [[cannabis-screen-of-green-scrog-guide]] (SCROG, using
 a screen to train branches horizontally). These techniques increase the
 number of main colas and improve light penetration through the canopy.
 
 Fans should be positioned to circulate air around the plants. This helps
 develop stronger stems and branches through wind stimulation, prevents hot
 spots under lights, reduces humidity buildup, and strengthens the overall
-plant structure for the flowering stage.
+plant structure for the [[cannabis-flowering-stage-management]].
 
 ## Soil and pH Management
 
@@ -128,4 +128,4 @@ vegetative growth.
 - [[training-cannabis]]
 - [[supercropping]]
 - [[vegetative-phase-cannabis]]
-- cannabis pest and disease management
+- cannabis pest and [[plant-disease-management-solomon]]

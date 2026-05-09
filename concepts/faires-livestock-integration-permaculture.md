@@ -1,16 +1,16 @@
 ---
-title: "Livestock Integration in Permaculture Systems"
+title: "Livestock mollison-guinea-pig-integration-in-permaculture-gardens Systems"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
-  - "Nicole Faires, The Ultimate Guide to Natural Farming and Sustainable Living"
+  - "Nicole Faires, The Ultimate Guide to comparison-natural-farming-vs-permaculture and natural-farming-sustainable-living-principles"
 type: concept
 tags: [animal-husbandry, culture, permaculture]
 ---
 
 # Livestock Integration in Permaculture Systems
 
-In permaculture, animals are integrated as functional elements that provide multiple outputs: meat, eggs, milk, manure, pest control, weed control, and soil building. Every animal is placed where its behaviors benefit the overall system.
+In permaculture, animals are integrated as functional elements that provide multiple outputs: meat, eggs, milk, manure, pest control, [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]], and soil building. Every animal is placed where its behaviors benefit the overall system.
 
 ## Design Principles
 
@@ -18,7 +18,7 @@ Animals are positioned by zone based on how often they need attention. Chickens,
 
 The key principle is matching outputs with inputs: chickens produce manure (output) near the compost pile (input); the barn on a slope allows manure to be pushed through floor slats into a lower level for composting. When starting out, crowd everything in as much as possible — it is easier to thin things out than wait for them to grow.
 
-Each element is placed in relation to everything else and to you: next to, close by, behind, away from. A chicken coop is placed in Zone 2 bordering Zone 1 because you must visit daily for eggs. It should be next to the vegetable garden for easy manure movement and connect to a forage garden.
+Each element is placed in relation to everything else and to you: next to, close by, behind, away from. A chicken coop is placed in Zone 2 bordering Zone 1 because you must visit daily for eggs. It should be next to the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] for easy manure movement and connect to a forage garden.
 
 ## Chickens
 
@@ -26,7 +26,7 @@ Place on the edge of Zone 1, bordering the Zone 2 orchard. They provide meat, eg
 
 **Coop design**: At least 3 sq ft per chicken. A 7x7 ft coop holds 16 chickens. Set on stilts so manure drops through slats into a swale or wheelbarrow. Include roosts (18 inches from wall) and nesting boxes (one per two hens, 12x12 inches, attached to outside with lid for egg collection without entering). Door should be 12 inches high in the roof peak — deters predators and provides ventilation. Fox-proof ladder: 5 feet wide with 3-foot rung spacing.
 
-**Chicken tractor**: Movable A-frame housing 3-8 birds with open floor. Each chicken needs 3 sq ft including pen space. The floor is open so birds eat directly and manure falls to ground.
+**[[comparison-chicken-tractor-vs-free-range]]**: Movable A-frame housing 3-8 birds with open floor. Each chicken needs 3 sq ft including pen space. The floor is open so birds eat directly and manure falls to ground.
 
 - Never let chickens into mulched gardens (Zones 1-3) as they destroy mulch
 - Bantams or small chickens can forage in young unmulched orchards
@@ -103,8 +103,8 @@ Animal manure is a critical nutrient source. The permaculture barn is ideally tw
 ## See Also
 
 - [[faires-chicken-coops-tractors-and-breeding-guide]]
-- [[faires-duck-pig-and-goat-systems]]
-- [[faires-zone-and-sector-planning]]
+- faires-duck-pig-and-goat-systems
+- faires-zone-and-sector-planning
 - [[urban-permaculture-food-forest-succession]]
 - [[urban-permaculture-trees-water-cycling]]
 - [[ingham-nutrient-cycling-soil-food-web]]

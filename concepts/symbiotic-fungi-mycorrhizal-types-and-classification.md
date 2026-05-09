@@ -33,9 +33,9 @@ This association may make trees more resistant to cold and dry conditions. The h
 
 ### 2. Arbuscular Mycorrhiza (AM / Endomycorrhiza)
 
-The term refers to the presence of intracellular structures — vesicles and arbuscules — that form in the root during various phases of development. These are the most commonly recorded group, occurring on a vast taxonomic range from bryophytes to angiosperms, both herbaceous and woody species. Aseptate hyphae enter the root cortical cells and form characteristic vesicles and arbuscules. The plasmalemma of the host cell invaginates and encloses the arbuscules, creating an extensive interface for nutrient exchange between the plant and fungus.
+The term refers to the presence of intracellular structures — vesicles and arbuscules — that form in the root during various phases of development. These are the most commonly recorded group, occurring on a vast taxonomic range from bryophytes to angiosperms, both herbaceous and woody species. Aseptate hyphae enter the root cortical cells and form characteristic vesicles and arbuscules. The plasmalemma of the host cell invaginates and encloses the arbuscules, creating an extensive interface for [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between the plant and fungus.
 
-Arbuscular mycorrhizal (AM) fungi belong to the phylum Glomeromycota, across nine genera: *Gigaspora*, *Scutellospora*, *Glomus*, *Acaulospora*, *Entrophospora*, *Archaeospora*, *Gerdemannia*, *Paraglomus*, and *Geosiphon* (the only known fungal endosymbiosis with cyanobacteria).
+[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] (AM) fungi belong to the phylum Glomeromycota, across nine genera: *Gigaspora*, *Scutellospora*, *Glomus*, *Acaulospora*, *Entrophospora*, *Archaeospora*, *Gerdemannia*, *Paraglomus*, and *Geosiphon* (the only known fungal endosymbiosis with cyanobacteria).
 
 **Historical and fossil evidence:** AM fungi appeared 400-460 million years ago, when the first plants were colonising land. Fossil evidence (Remy et al. 1994) and DNA sequence analysis (Simon et al. 1993) support this timeline. Arbuscules discovered in *Aglaophyton major*, an Early Devonian land plant, provide unequivocal evidence that mycorrhizae were established over 400 million years ago. The arbuscules are morphologically identical to those of living arbuscular mycorrhizae, consisting of a basal trunk and repeatedly branched bush-like tufts within the plant cell.
 
@@ -71,7 +71,7 @@ Mycorrhizal fungi form a complex web that captures and assimilates nutrients, co
 
 ## Ecological Significance
 
-Mycorrhizal associations have been shown to affect plant competitive abilities and influence plant community composition. They play a central role in the nutrient economy of most terrestrial ecosystems. The great diversity of mycorrhizal types reflects the co-evolution of fungi and plants over hundreds of millions of years, with each type adapted to specific host taxa, soil conditions, and environmental niches.
+Mycorrhizal associations have been shown to affect plant competitive abilities and influence plant [[core-endorhiza-bacterial-community-composition-cannabis]]. They play a central role in the nutrient economy of most terrestrial ecosystems. The great diversity of mycorrhizal types reflects the co-evolution of fungi and plants over hundreds of millions of years, with each type adapted to specific host taxa, soil conditions, and environmental niches.
 
 The most common and prevalent association is with arbuscular mycorrhizal fungi. Fossil evidence confirms that mycorrhizae existed over 400 million years ago, with arbuscules discovered in *Aglaophyton major* from the Early Devonian period being morphologically identical to those of living AM fungi. This deep evolutionary history underscores the fundamental role mycorrhizae have played in the colonisation of land by plants.
 
@@ -79,11 +79,13 @@ The distribution of mycorrhizal types varies across ecosystems. Ectomycorrhizae 
 
 ## Interactions with Other Soil Organisms
 
-Mycorrhizal fungi interact with a wide assortment of organisms in the rhizosphere. Specific bacteria stimulate EM formation in conifer nurseries and are called **mycorrhization helper bacteria**. In certain cases, these bacteria eliminate the need for soil fumigation. The interaction between rhizobia and AM fungi has received considerable attention because of the relatively high phosphorus demand of nitrogen fixation. The two symbioses typically act synergistically, resulting in greater nitrogen and phosphorus content in combination than when each is inoculated alone.
+Mycorrhizal fungi interact with a wide assortment of organisms in the rhizosphere. Specific bacteria stimulate EM formation in conifer nurseries and are called **mycorrhization helper bacteria**. In certain cases, these bacteria eliminate the need for soil fumigation. The interaction between rhizobia and AM fungi has received considerable attention because of the relatively high phosphorus demand of [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. The two symbioses typically act synergistically, resulting in greater nitrogen and phosphorus content in combination than when each is inoculated alone.
 
-Depending on the environment, plants may divert up to 80% or more of net energy fixed as sunlight to below-ground processes. A high proportion feeds mycorrhizal fungi and other soil organisms. This is not energy lost to the plant; soil organisms living in the root zone greatly influence plant establishment through effects on nutrient cycling, pathogens, soil aeration, and soil water uptake.
+Depending on the environment, plants may divert up to 80% or more of net energy fixed as sunlight to below-ground processes. A high proportion feeds [[mollison-designers-mycorrhizal-fungi-and-soil-microbiology]] other soil organisms. This is not energy lost to the plant; soil organisms living in the root zone greatly influence plant establishment through effects on [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], pathogens, soil aeration, and soil water uptake.
 
 ## See Also
+
+- [[fungi-and-their-allies-classification]]
 
 - [[symbiotic-fungi-lichen-symbiosis-overview]]
 

@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushroom Image Identification Guide
+title: emcdda-psilocybin-mushroom-dose-and-effects psilocybin image identification guide Guide
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -24,10 +24,10 @@ Visual identification is an essential skill for anyone studying or foraging [[ma
 
 ### Key Features to Photograph
 1. **Cap colour and texture** — hygrophanous species change colour with moisture
-2. **Spore print colour** — essential for genus-level identification
+2. **[[comparison-spore-print-collection-vs-spore-syringe-production]] colour** — essential for genus-level identification
 3. **Bruising reaction** — blue bruising indicates psilocybin/psilocin presence
 4. **Veil remnants** — partial veil, annulus, cortina
-5. **Substrate** — dung, wood chips, grass, moss
+5. **Substrate** — dung, [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]], grass, moss
 6. **Habitat** — geographic location, elevation, associated plants
 
 ### Scale and Context
@@ -39,10 +39,10 @@ Visual identification is an essential skill for anyone studying or foraging [[ma
 ## Common Identification Pitfalls
 
 ### Lookalikes
-Several non-psychoactive or toxic species resemble psilocybin mushrooms:
+Several non-psychoactive or toxic species resemble [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]:
 - **Galerina marginata** — deadly poisonous; resembles P. cyanescens in habitat and appearance
 - **Gymnopilus species** — some contain psilocybin, others do not; careful identification needed
-- **Panaeolina foenisecii** (mower's mushroom) — common in lawns, contains no psilocybin
+- **[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]** (mower's mushroom) — common in lawns, contains no psilocybin
 - **Deconica species** — formerly classified in Psilocybe; non-psychoactive
 
 ### Why Visual Identification Alone Is Insufficient
@@ -61,8 +61,8 @@ Photographic documentation plays a role in [[dikaryon-formation-mushroom-strain-
 ## See Also
 
 - [[psilocybin-mushroom-identification]] — identification methods
-- [[mushroom-poisoning-and-lookalikes]] — dangerous lookalike species
-- [[psilocybe-mushroom-species-guide]] — comprehensive species guide
+- mushroom-poisoning-and-lookalikes — dangerous lookalike species
+- psilocybe-mushroom-species-guide — comprehensive species guide
 - [[magic-mushrooms-australia-new-zealand]] — Australian/NZ species with photos
 ## Practical Considerations
 
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

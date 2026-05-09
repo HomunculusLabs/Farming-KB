@@ -1,11 +1,11 @@
 ---
-title: "CO2 Retention and Gas Exchange Through Loose Jar Lids in Mushroom Cultivation"
+title: "CO2 Retention and Gas Exchange Through Loose Jar Lids in accessible-mushroom-cultivation-for-disabilities"
 concept_type: technique
 domain: mycology
 source:
-  title: "Cultivation of fruitbodies and sclerotia on sterilised grass seed"
+  title: "Cultivation of fruitbodies and sclerotia on sterilised [[disposable-tray-casing-method-grass-seed-substrate]]"
   type: research_paper
-  notes: "Primary technique reference for grass seed jar cultivation with loose lids"
+  notes: "Primary technique reference for grass seed [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] with loose lids"
 related_pages:
   - grass-seed-preparation
   - pressure-cooking-substrate
@@ -51,7 +51,7 @@ cooling cycle. No vacuum forms, and no contaminated air enters the jar.
 Mycelium performs aerobic respiration: it consumes oxygen (O2) and produces carbon
 dioxide (CO2) as a metabolic byproduct. Without a mechanism for CO2 to escape and
 fresh O2 to enter, colonization slows dramatically or stalls. Excess CO2 above
-certain thresholds inhibits mycelial growth and encourages undesirable changes.
+certain thresholds inhibits [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and encourages undesirable changes.
 
 A loose lid provides passive gas exchange through the micro-gap between the lid and
 jar threads. This gap is small enough that contaminant spores (2-10 micrometers)
@@ -64,7 +64,7 @@ atmosphere) drives CO2 outward while drawing O2 inward continuously.
 During pressure cooking, the loose lid alone does not protect against water ingress
 from condensation. The standard approach is to cover each jar with **two layers of
 aluminum foil** before placing the loose lid on top. The foil serves as a moisture
-barrier (preventing condensation from altering substrate moisture), a contamination
+barrier (preventing condensation from altering [[pf-tek-substrate-moisture-diagnosis-and-correction]]), a contamination
 shield (adding a physical barrier against airborne contaminants), and a lid
 retention mechanism (keeping the loose lid in place without screwing it tight).
 
@@ -82,7 +82,7 @@ providing continued contamination protection.
 | **Self-healing ports** | Clean inoculation without opening | Combined with filter; not standalone |
 | **Micropore tape** | Cheap, breathable, easy to apply | Single-use, saturates in humidity |
 
-For grass seed cultivation, the loose lid technique remains popular because jars
+For grass [[grass-seed-cultivation-of-psilocybe-mushrooms]], the loose lid technique remains popular because jars
 are typically inoculated by opening under sterile conditions rather than through
 injection ports, making simplicity advantageous.
 
@@ -134,17 +134,16 @@ with significant metabolite buildup often produce lower yields and compromised v
 ## Key Takeaways
 
 - Always keep jar lids loose — never screw tight during sterilization or colonization.
-- Use a double layer of aluminum foil over loose lids during pressure cooking.
-- The loose lid provides passive diffusion-based gas exchange sufficient for grass
-  seed substrate colonization.
-- Back off approximately one-quarter turn from finger-tight for the correct gap.
-- Expect 5-20 days for full colonization depending on temperature and conditions.
-- Yellow metabolites signal stress: check temperature, gas exchange, and duration.
-
 ## See Also
-- [[mushroom-cultivation-inoculation-methods]]
+
+- [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]]
+
+- grain-jar-lid-management-pressure-equalization
+- [[nameko-mushroom-cultivation]]
+- [[mushroom-cultivation-phases]]
+- jar-lid-loose-fit-preventing-vacuum-mushroom-cultivation
+- [[filter-can-construction-mushroom-cultivation]]
+- mushroom-cultivation-inoculation-methods
 - [[mushroom-cultivation-photographic-guide]]
 
 ## See Also
-
-- [[mushroom-cultivation-contamination-control]]

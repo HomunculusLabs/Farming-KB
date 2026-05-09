@@ -1,5 +1,5 @@
 ---
-title: Climate Change Adaptation Strategies in Permaculture
+title: dighton-fungi-climate-change-feedback Adaptation Strategies in Permaculture
 created: 2026-04-28
 tags:
   - permaculture
@@ -15,19 +15,19 @@ type: concept
 
 # Climate Change Adaptation Strategies in Permaculture
 
-While the Permaculture Designers Manual was published before climate change
+While the Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] was published before climate change
 became a dominant global concern, its core principles provide a robust
 framework for adapting farms, settlements, and communities to increasing
 climate instability. Mollison's insistence on designing for multiple
 scenarios, building redundancy into every system, and working with nature
 rather than against it positions permaculture as inherently resilient to
-climatic disruption. This page explores how permaculture design principles
+climatic disruption. This page explores how permaculture [[holmgren-permaculture-twelve-design-principles-framework]]
 translate into practical adaptation strategies for a warming, more
 variable world.
 
 ## Designing for Uncertainty
 
-The fundamental permaculture approach to climate adaptation begins with
+The fundamental permaculture approach to [[jeavons-climate-adaptation-growing-seasons]] begins with
 the principle of designing for the worst-case scenario while optimising
 for the average. Mollison repeatedly stresses that systems must survive
 extreme events, not just perform under normal conditions. This means
@@ -56,7 +56,7 @@ extremes that would kill seedlings.
 ## Soil as a Climate Buffer
 
 Healthy soil is one of the most powerful climate adaptation tools
-available. Soils high in organic matter absorb and retain far more water
+available. Soils high in [[hamilton-composting-and-organic-matter-management]] absorb and retain far more water
 than degraded soils, buffering both drought and flood. Mollison's
 [[mollison-designers-windbreak-configurations-for-crops-and-orchards]] provides
 methods for protecting crops, livestock, and buildings from damaging
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

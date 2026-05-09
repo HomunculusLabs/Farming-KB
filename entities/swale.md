@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-A **swale** is a shallow, level trench excavated along the contour of a slope with excavated soil placed downslope to form a berm. Swales capture, slow, and infiltrate surface runoff, converting destructive erosion into productive groundwater recharge. They are among the most widely used earthworks in [[bill-mollison]] and [[hugelkultur]] on berm:** Bury logs inside berm for long-term moisture retention and nutrient cycling
+A **swale** is a shallow, level trench excavated along the contour of a slope with excavated soil placed downslope to form a berm. Swales capture, slow, and infiltrate surface runoff, converting destructive erosion into productive groundwater recharge. They are among the most widely used earthworks in [[bill-mollison]] and [[hugelkultur]] on berm:** Bury logs inside berm for long-term moisture retention and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - **[[keyline-design]] integration:** Swales infiltrate on-contour; keyline subsoiling spreads off-contour — complementary
 - **Chinampas comparison:** Swales use rainfall runoff on slopes; chinampas use lake wicking on flat margins
 
@@ -37,9 +37,9 @@ A **swale** is a shallow, level trench excavated along the contour of a slope wi
 
 ## Case Studies
 
-- **Sepp Holzer's Krameterhof (Austria):** 70+ swale/pond systems across 45 ha at 1,100–1,500 m elevation; integrated with terraces and hugelkultur; year-round food production in marginal alpine climate
+- **[[comparison-sepp-holzer-vs-biodynamic]]'s Krameterhof (Austria):** 70+ swale/pond systems across 45 ha at 1,100–1,500 m elevation; integrated with terraces and hugelkultur; year-round food production in marginal alpine climate
 - **Geoff Lawton's Jordan Project:** <100 mm/yr rainfall; 1.5 km of swales on 10-acre degraded salt flat; first vegetation in 3 months, productive food forest in 3 years; local water table rose several meters
-- **Mark Shepard's New Forest Farm (Wisconsin):** 106-acre perennial system on former row-crop land; contour swales + keyline + alley cropping; 100,000+ trees/shrubs established; no irrigation needed at ~850 mm/yr
+- **Mark Shepard's New [[mollison-designers-small-forest-farm-cool-humid-layout]] (Wisconsin):** 106-acre perennial system on former row-crop land; contour swales + keyline + [[comparison-alley-cropping-vs-silvopasture]]; 100,000+ trees/shrubs established; no irrigation needed at ~850 mm/yr
 
 ## Maintenance
 
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

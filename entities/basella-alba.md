@@ -23,7 +23,7 @@ It is widely known as **Malabar spinach**, **Ceylon spinach**, or **Indian spina
 
 The species belongs to the family **Basellaceae** and is one of the most important traditional leafy vegetables in South and Southeast Asian cuisines.
 
-Its heat tolerance and long growing season make it a valuable warm-season alternative to temperate leafy greens in tropical climates.
+Its heat tolerance and long [[savory-growing-season-and-non-growing-season-management]] make it a valuable warm-season alternative to temperate [[solomon-leafy-greens-growing]] in tropical climates.
 
 ## Taxonomy and Morphology
 
@@ -57,7 +57,7 @@ Propagation is primarily by seed or stem cuttings, with cuttings preferred for m
 
 Seeds germinate within 2–3 weeks under warm, moist conditions, and seedlings are transplanted to final positions at 30–50 cm spacing on trellises.
 
-Stem cuttings of 20–30 cm root readily within 7–10 days when planted directly into moist soil during warm weather.
+Stem cuttings of 20–30 cm root readily within 7–10 days when planted directly into moist soil during [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]].
 
 The vine requires sturdy support — bamboo trellises of 1.5–2 m height are standard in commercial production.
 
@@ -79,15 +79,15 @@ The red-purple juice of the fruit has been investigated for natural food colorin
 
 ## Ecology and Uses
 
-*Basella alba* is widely used as a living mulch and ground cover in tropical agroforestry systems, where its dense vine canopy suppresses weeds between taller crops.
+*Basella alba* is widely used as a [[comparison-living-mulch-vs-cover-crops]] and ground cover in tropical agroforestry systems, where its dense vine canopy suppresses weeds between taller crops.
 
 The mucilaginous leaves are used as a thickening agent in soups, curries, and stews across South and Southeast Asian cuisines.
 
-In traditional medicine, leaf extracts have been applied topically for burns, wounds, and skin conditions, and used internally as a mild laxative and digestive aid.
+In traditional medicine, leaf extracts have been applied topically for burns, wounds, and [[cannabis-for-skin-conditions-detailed]], and used internally as a mild laxative and digestive aid.
 
 The red fruit juice has served as a cosmetic dye and ink substitute in several traditional cultures across Africa and Asia.
 
-The species is increasingly recognized as a climate-resilient vegetable due to its heat tolerance, pest resistance, and low input requirements.
+The species is increasingly recognized as a climate-resilient vegetable due to its heat tolerance, [[cannabis-disease-pest-resistance-breeding-clarke]], and low input requirements.
 
 Its perennial growth habit and ability to regenerate from the root crown after harvest provide continuous production with minimal replanting, reducing labor and seed costs for smallholder farmers.
 

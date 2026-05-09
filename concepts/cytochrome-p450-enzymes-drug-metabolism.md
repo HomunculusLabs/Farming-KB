@@ -43,7 +43,7 @@ the substrate, ultimately yielding the hydroxylated product.
 ### CYP1 Family
 
 CYP1A1 and CYP1A2 metabolize planar aromatic compounds
-including polycyclic aromatic hydrocarbons and heterocyclic
+including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons and heterocyclic
 amines. CYP1A2 is constitutively expressed in the liver and
 metabolizes caffeine, theophylline, and acetaminophen. Both
 enzymes are transcriptionally activated by the aryl
@@ -85,7 +85,7 @@ gene duplications producing ultrarapid metabolism. CYP2C19*2
 and CYP2C19*3 alleles produce poor metabolism, particularly
 prevalent in Asian populations (15-30%). These polymorphisms
 are the basis for FDA pharmacogenomic labeling and clinical
-dosing guidelines for dozens of drugs.
+[[cannabis-dosing-guidelines-by-condition]] for dozens of drugs.
 
 ## Drug-Drug Interactions
 

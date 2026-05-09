@@ -1,5 +1,5 @@
 ---
-title: Do Nothing Farming
+title: Do do-nothing-farming-method
 tags: [natural-farming, permaculture, no-till, fukuoka, philosophy]
 date: 2026-04-28
 updated: 2026-04-28
@@ -16,7 +16,7 @@ Do-nothing farming is an agricultural philosophy and methodology developed by
 - [[fukuoka-do-nothing-farming-and-spiritual-life]]
 
 - [[no-till-agriculture]]
-- natural pest control
+- [[cho-natural-pest-control-methods]] control
 - [[white-clover-living-mulch]]
 ## Practical Applications
 
@@ -95,4 +95,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

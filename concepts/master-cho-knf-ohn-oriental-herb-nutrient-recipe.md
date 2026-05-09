@@ -1,5 +1,5 @@
 ---
-title: Master Cho's OHN (Oriental Herb Nutrient) Recipe
+title: Master Cho's OHN (jadam-oriental-herb-nutrient Nutrient) Recipe
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [knf, nutrients]
 
 # Master Cho's OHN (Oriental Herb Nutrient) Recipe
 
-The Oriental Herbal Nutrient (OHN) is made from herbs full of energy that increase plant robustness, sterilize, and keep plants warm. OHN revitalizes crops and activates their growth. It is one of the most frequently used inputs in Korean Natural Farming.
+The [[bionutrients-lab-oriental-herbal-nutrients-ohn]] Nutrient (OHN) is made from herbs full of energy that increase plant robustness, sterilize, and keep plants warm. OHN revitalizes crops and activates their growth. It is one of the most frequently used inputs in Korean [[comparison-natural-farming-vs-permaculture]].
 
 ## Preparation Overview
 
@@ -88,9 +88,9 @@ Example: Dilute OHNs 1000x with 18L of water, then add 6cc Angelica, 3cc licoric
 
 - **IMO #2 and IMO #4 preparation**: OHN (x1/1000) used as nutrient liquid.
 - **Soil treatment solution**: Combined with other inputs.
-- **Seed treatment solution**: Applied to seeds before planting.
-- **All crop growth stages**: Vegetative, cross-over, and reproductive periods.
-- **IMO collection**: Spray OHN (x1/1000) mixed with FPJ and BRV around collection site in dry weather.
+- **[[jadam-seed-treatment-and-nursery-management]] solution**: Applied to seeds before planting.
+- **All [[coleman-sunlight-and-winter-crop-growth-rates]] stages**: Vegetative, cross-over, and reproductive periods.
+- **[[bahay-kubo-imo-collection-and-preparation]]**: Spray OHN (x1/1000) mixed with FPJ and BRV around collection site in dry weather.
 - OHN is always used in natural farming -- it is considered a universal input.
 
 ## See Also

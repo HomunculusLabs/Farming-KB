@@ -17,7 +17,7 @@ for their extraction suitability.
 
 ## Overview of Solvent Extraction
 
-While Oner's oss oeric psilocybe does not provide detailed extraction methodology, it
+While Oner's oss [[oss-oeric-psilocybe-cubensis-strain-guide]] does not provide detailed extraction methodology, it
 establishes important context about which strains produce the best extraction results
 and why solvent extraction matters for medical cannabis.
 
@@ -52,13 +52,14 @@ While Oner's guide does not detail extraction safety, standard precautions inclu
   equipment
 - CO2 extraction requires high-pressure vessels and specialized knowledge
 - Residual solvent testing is essential for any solvent-based extract
-- Solventless methods (water extraction, dry sift, rosin press) avoid solvent
+- Solventless methods (water extraction, [[green-cannabis-dry-sift-water-extraction]], rosin press) avoid solvent
   handling risks entirely
 
 ## See Also
 
 - [[oner-cannabis-water-extraction-ice-water-hash]]
 - [[oner-cannabis-edibles-infusion-dosing]]
+
 ## Practical Considerations
 
 Successful implementation of Cannabis CO2 and Solvent Extraction Techniques requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -7,7 +7,7 @@ widespread and ecologically important mutualisms on Earth. In these
 associations, the fungal partner provides the plant with mineral nutrients
 (particularly phosphorus and nitrogen) and water, while receiving
 photosynthetically fixed carbon (sugars and lipids) from the plant host.
-Mycorrhizal fungi are critical to ecosystem function, influencing plant
+Mycorrhizal fungi are critical to [[dighton-mycorrhizal-diversity-ecosystem-function]], influencing plant
 community composition, nutrient cycling, soil structure, and plant responses
 to environmental stress. Despite their ecological importance, the diversity of
 mycorrhizal fungi remains poorly documented, with the vast majority of species
@@ -27,7 +27,7 @@ characteristics:
 ## Functional Significance and the Wood Wide Web
 
 The functional significance of mycorrhizal associations extends far beyond
-simple bidirectional nutrient exchange. Mycorrhizal networks — the
+simple bidirectional nutrient exchange. [[mycorrhizal-networks]] — the
 interconnected hyphal networks formed by mycorrhizal fungi linking the roots
 of multiple plants — facilitate the transfer of carbon, nutrients, water, and
 signaling compounds between plants. This wood wide web can influence plant
@@ -56,9 +56,9 @@ ecosystem resilience to disturbance.
 
 ## Ectomycorrhizal Diversity in Forest Ecosystems
 
-Ectomycorrhizal fungi are among the most diverse and functionally important
+[[ectomycorrhizal-fungi]] are among the most diverse and functionally important
 groups in forest ecosystems. A single forest stand may harbor hundreds of ECM
-fungal species, each with different enzymatic capabilities, host preferences,
+fungal species, each with different [[fungal-enzymatic-capabilities]], host preferences,
 and environmental tolerances. This functional diversity allows ECM communities
 to collectively access a wide range of nutrient sources, from simple inorganic
 ions to complex organic polymers. Some ECM species are generalists that
@@ -78,7 +78,7 @@ unexpected shifts in forest composition.
 The fruiting bodies of many ECM fungi are important food sources for forest
 wildlife. Mammals including deer, squirrels, chipmunks, and voles consume
 large quantities of ECM mushrooms, and many invertebrates feed on or within
-fruiting bodies. Spore dispersal by mammals (particularly mycophagous rodents)
+fruiting bodies. [[spore-dispersal]] by mammals (particularly mycophagous rodents)
 is an important mechanism for ECM fungal colonization of new sites, as the
 spores survive passage through the animal digestive tract and are deposited in
 fecal pellets along with nutrients that support fungal establishment.
@@ -91,7 +91,7 @@ enhance uptake of immobile nutrients (particularly phosphorus) and improve
 plant access to water in drought conditions. AM colonization can also confer
 resistance to certain soil-borne pathogens through physical barriers,
 biochemical interactions, and priming of plant defense responses. Many modern
-agricultural practices, however, negatively impact AM fungal communities: high
+[[mycorrhizal-agricultural-practices]], however, negatively impact AM fungal communities: high
 rates of phosphorus fertilizer reduce the plant dependency on AM fungi,
 tillage disrupts hyphal networks, fallow periods eliminate living hosts, and
 some fungicides are non-selective and harm beneficial mycorrhizal fungi along

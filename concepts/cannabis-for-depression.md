@@ -15,7 +15,7 @@ Cannabis and cannabinoids demonstrate significant antidepressant properties, wit
 
 ## Source
 
-Blesching, U. (2015). *The Cannabis Health Index*. Chapter IV: "Depression." North Atlantic Books.
+Blesching, U. (2015). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. Chapter IV: "Depression." North Atlantic Books.
 - [[cannabis-therapeutic-index-overview]]
 ## Background and Context
 
@@ -145,4 +145,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Isely D (1990). "Vascular Flora of the Southeastern United States."
+  - Isely D (1990). "Vascular Flora of the Southeastern dmt-containing-plants-united-states-halpern."
     Vol. 3, Part 2. Leguminosae. University of North Carolina Press.
   - Clewell AF (1966). "History, present status, and potential of sericea
     lespedeza." Advances in Agronomy, 18: 69-101.
@@ -21,7 +21,7 @@ sources:
   - Min BR, Hart SP, Miller D, Tomita G, Loetz E, Sahlu T (2005).
     "The effect of sericea lespedeza on fecal egg counts of goats."
     Journal of Animal Science, 83(12): 2777-2784.
-  - Bouton JH (2007). "Breeding lucerne, white clover, birdsfoot
+  - Bouton JH (2007). "Breeding lucerne, [[fukuoka-white-clover-cover-crop-system]], birdsfoot
     trefoil and sericea for the tropics and subtropics." Tropical
     Grasslands, 41(1): 51-59.created: 2026-05-07
 
@@ -35,7 +35,7 @@ created: 2026-05-07
 **Lespedeza cuneata** (Dum. Cours.) G. Don, commonly known as Chinese
 bushclover or sericea lespedeza, is a warm-season perennial legume in the
 family Fabaceae. Native to eastern Asia, it was widely introduced across
-North America and other continents for forage, erosion control, and soil
+[[psilocybin-north-america-pacific-northwest]] and other continents for forage, [[permplant-willows-salix-erosion-control-fodder]], and soil
 stabilization.
 
 The species forms dense, semi-woody stands that fix atmospheric nitrogen
@@ -44,9 +44,9 @@ control on degraded land, it has become invasive in some regions,
 particularly in tallgrass [[caragana-arborescens]]
 - [[lotus-corniculatus]]
 - [[robinia-pseudoacacia]]
-- [[comfrey]]
+- comfrey
 - [[hugelkultur]]
-- [[forage-systems-animals-permaculture]]
+- forage-systems-animals-permaculture
 ## Practical Considerations
 
 When working with Lespedeza cuneata, several practical factors should be
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

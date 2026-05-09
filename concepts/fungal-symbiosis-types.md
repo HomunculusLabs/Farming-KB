@@ -4,18 +4,20 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mycology, mycorrhizae, symbiosis, ecology, biology, soil, plant-systems, species-profiles, agriculture]
-sources: []
+sources:
+  - "raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md"
+  - "raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md"
 ---
 
 # Fungal Symbiosis Types
 
 ## Overview
 
-Fungi form a remarkable diversity of symbiotic relationships with other organisms. These range from mutually beneficial partnerships to parasitism and predation. Symbiotic fungi are foundational to most terrestrial ecosystems, facilitating nutrient exchange, plant health, soil structure, and ecosystem stability. This page covers the major types of fungal symbiosis.
+Fungi form a remarkable diversity of symbiotic relationships with other organisms. These range from mutually beneficial partnerships to parasitism and predation. Symbiotic fungi are foundational to most terrestrial ecosystems, facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]], plant health, soil structure, and ecosystem stability. This page covers the major types of fungal symbiosis.
 
 ## Mycorrhizal Associations
 
-Mycorrhizae are symbiotic associations between fungi and plant roots. The term literally means "fungus root." Over 80% of all land plants form mycorrhizal associations. See [[glomeromycota-arbuscular-mycorrhizae]] for detailed coverage of arbuscular mycorrhizal fungi.
+Mycorrhizae are symbiotic associations between fungi and plant roots. The term literally means "fungus root." Over 80% of all land plants form mycorrhizal associations. See [[glomeromycota-arbuscular-mycorrhizae]] for detailed coverage of [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi.
 
 ### Arbuscular Mycorrhizae (AM)
 
@@ -58,7 +60,7 @@ Endophytic fungi live inside plant tissues without causing apparent disease. The
 - Found in grasses (Festuca, Lolium)
 - Systemic — colonize entire plant through seeds (vertical transmission)
 - Produce alkaloids that deter herbivores (insects, grazing mammals)
-- Can improve drought tolerance and competitive ability
+- Can improve [[dighton-fungal-drought-tolerance-plant-water-relations]] and competitive ability
 - Trade-off: alkaloids can be toxic to livestock (e.g., fescue toxicosis in cattle)
 
 ### Non-Clavicipitaceous Endophytes
@@ -66,7 +68,7 @@ Endophytic fungi live inside plant tissues without causing apparent disease. The
 - Found in leaves, stems, and roots of many plant species
 - Diverse fungal groups (Ascomycota dominant)
 - Horizontal transmission via spores
-- Functions: pathogen resistance, stress tolerance, growth promotion
+- Functions: [[mycorrhizal-pathogen-resistance-mechanisms]], stress tolerance, growth promotion
 - Potential for use in [[mycorrhizal-inoculation-guide|bioactive inoculants]]
 
 ## Lichens
@@ -83,7 +85,7 @@ Lichens are composite organisms formed by a symbiotic relationship between a fun
 
 - Pioneer organisms on bare rock (initiate soil formation)
 - Bioindicators of air quality (sensitive to sulfur dioxide)
-- Nitrogen fixation (cyanobacterial photobionts fix atmospheric nitrogen)
+- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] (cyanobacterial photobionts fix atmospheric nitrogen)
 - Food and habitat for wildlife (reindeer lichen, nesting material)
 
 ## Ant Gardens (Attine Ant-Fungus Mutualism)
@@ -116,7 +118,7 @@ This mutualism has been maintained for over 50 million years. The ants have spec
 
 ## See Also
 
-- [[mycorrhizal-inoculation-guide]] — Practical guide to applying mycorrhizal inoculants
+- [[mycorrhizal-inoculation-guide]] — Practical guide to applying [[pgpr-mycorrhizal-inoculants-microplant-establishment]]
 - [[glomeromycota-arbuscular-mycorrhizae]] — Deep dive into AMF biology
 - [[fungal-parasites-and-predators]] — When fungal relationships turn predatory
 - [[mycorrhizal-networks]]

@@ -10,10 +10,10 @@ sources:
 
 # Criticism and Rebuttal of Allegro's Theory
 
-John Allegro's *The Sacred Mushroom and the Cross* (1970) provoked one of the
+John Allegro's *The [[allegro-the-sacred-mushroom-amanita-identification]] and the Cross* (1970) provoked one of the
 most fierce academic controversies in modern biblical scholarship. The book was
 denounced by theologians, philologists, and even his former colleagues on the
-Dead Sea Scrolls editorial team. Despite the hostility, Allegro's work
+Dead [[dead-sea-scrolls-entheogenic-reading]] editorial team. Despite the hostility, Allegro's work
 continues to attract interest in entheogen-culture|entheogenic scholarship,
 and some of his insights have been partially vindicated by later research.
 
@@ -50,7 +50,7 @@ Specific errors identified by scholars include:
 - **Greek etymologies**: Many of his Greek derivations contradicted
   well-established Indo-European etymologies documented in standard
   reference works.
-- **Historical dating**: His model required the mushroom cult to have
+- **Historical dating**: His model required the [[african-mushroom-cult-history]] to have
   remained coherent and continuous for thousands of years while being
   transmitted through radically different cultures and languages -- a claim
   without independent evidence.

@@ -10,11 +10,11 @@ sources:
 # B (Buscaline)
 
 **Chemical name:** 4-(n)-Butoxy-3,5-dimethoxyphenethylamine
-**PiHKAL entry:** #10
+**[[2c-b-pihkal-entry-20]]:** #10
 
 ## Overview
 
-Buscaline (B) is a mescaline-entity|mescaline analogue where the 4-position methoxy group is replaced by a butoxy (four-carbon) chain. It represents the upper limit of practical alkoxy substitution on the mescaline skeleton for psychoactive purposes. Originally patented in England in 1930 without any pharmacological description, it was later evaluated by [[md-family-structure-activity]]: beyond a certain chain length, the 4-position alkoxy substituent no longer contributes to psychedelic activity and instead produces predominantly unpleasant physical effects.
+Buscaline (B) is a mescaline-entity|mescaline analogue where the 4-position methoxy group is replaced by a butoxy (four-carbon) chain. It represents the upper limit of practical alkoxy substitution on the mescaline skeleton for psychoactive purposes. Originally patented in England in 1930 without any pharmacological description, it was later evaluated by [[md-family-structure-activity]]: beyond a certain [[phenethylamine-chain-length-effects]], the 4-position alkoxy substituent no longer contributes to psychedelic activity and instead produces predominantly unpleasant physical effects.
 
 ## Dosage and Activity
 
@@ -111,4 +111,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

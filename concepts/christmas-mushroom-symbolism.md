@@ -23,7 +23,7 @@ sources:
 
 # Christmas Mushroom Symbolism
 
-The theory that many Christmas traditions encode hidden references to Amanita muscaria, the red-and-white fly agaric mushroom that grows exclusively in mycorrhizal association with coniferous (and birch) trees. This hypothesis, most thoroughly developed by [[james-arthur]] in "Mushrooms and Mankind," argues that Christmas is "a religion in its own right" whose iconography preserves a far older shamanic sacrament.
+The theory that many Christmas traditions encode hidden references to [[allegro-amanita-muscaria-properties-and-pharmacology]], the red-and-white [[amanita-muscaria-fly-agaric-history-and-pharmacology]] mushroom that grows exclusively in mycorrhizal association with coniferous (and birch) trees. This hypothesis, most thoroughly developed by [[james-arthur]] in "[[arthur-mushrooms-and-mankind-ethnomycology-and-religion]]," argues that Christmas is "a religion in its own right" whose iconography preserves a far older shamanic sacrament.
 
 ## Core Symbolic Connections
 
@@ -56,7 +56,7 @@ The theory that many Christmas traditions encode hidden references to Amanita mu
 - The sun reaches winter solstice, appears to "stop" for 3 days, then begins returning northward
 - This 3-day pause was mythologized as the death of the Sun/Son on the cross of the celestial 4 points
 - Mushrooms must be dried before consumption — another euphemism of the god dying/sacrificing to save mankind through "at-one-ment"
-- Osiris, Horus, Mithra, and Jesus all share the December 25 birth and 3-day death/resurrection pattern
+- Osiris, Horus, Mithra, and Jesus all share the December 25 birth and 3-day death/[[shamanic-initiation-death-resurrection-pattern-ecstatic-traditions]]
 
 ### The Name "Christmas"
 - "Christ" = "one who is anointed with the Magical Substance"
@@ -66,7 +66,7 @@ The theory that many Christmas traditions encode hidden references to Amanita mu
 ## Norse/Germanic Mythological Connections
 
 - Thor's hammer is mushroom-shaped; thrown to earth in thunder/lightning, causes mushrooms to appear where it strikes
-- Lightning was mythologically associated with mushroom growth — where lightning struck, mushrooms would grow
+- Lightning was mythologically associated with [[pf-tek-mushroom-growth-timeline]] — where lightning struck, mushrooms would grow
 - Odin's horses' blood-mingled spit hitting the ground causes Amanita to sprout (parallels Egyptian Hu and Saa from Ra's blood, and Hindu Rudra's severed phallus)
 - The Big Dipper as chariot of Odin/Wotan/Thor/King Arthur/Osiris — all circling the North Star
 
@@ -85,8 +85,10 @@ The Christmas-mushroom connection is visually striking and the parallels are num
 
 ## See Also
 
+- churning-milky-ocean-angkor-mushroom-symbolism
+
 - [[mushrooms-and-mankind]] — Arthur's comprehensive ethnomycological theory
 - [[siberian-shamanism-and-amanita]] — Siberian Amanita traditions and critiques
 - [[amanita-muscaria-guide]] — Biology, chemistry, and identification
 - [[entheogen-culture]] — Entheogens across religious traditions
-- [[mushroom-folklore-and-culture]] — Broader folklore and cultural significance
+- [[mushroom-folklore-and-culture]] — Broader folklore and [[ethnomycology-cultural-significance-sacred-fungi]]

@@ -1,5 +1,5 @@
 ---
-title: Psilocybin and Tryptamine Chemistry in Fungi
+title: Psilocybin and psilocybin tryptamine chemistry fungi in Fungi
 created: 2026-04-28
 tags:
   - chemistry
@@ -18,13 +18,13 @@ type: concept
 
 ## Primary Psychoactive Compounds
 
-The principal psychoactive compounds found in neurotropic fungi are
+The principal psychoactive compounds found in [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] are
 psilocybin and psilocin. Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine)
-was first isolated from Psilocybe mexicana by gordon-wasson in 1958 at
+was first isolated from [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] by gordon-wasson in 1958 at
 Sandoz Laboratories in Basel, Switzerland. Psilocin
 (4-hydroxy-N,N-dimethyltryptamine) is the active dephosphorylated metabolite
 and is responsible for the primary hallucinogenic effects. Both compounds
-are serotonin (5-HT) receptor agonists, primarily acting on 5-HT2A
+are serotonin (5-HT) [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]], primarily acting on 5-HT2A
 receptors in the central nervous system.
 
 ## Additional Tryptamine Alkaloids
@@ -42,7 +42,7 @@ been identified in neurotropic fungi:
 ## Ibotenic Acid and Muscimol (Amanita Group)
 
 A fundamentally different class of psychoactive compounds is found in
-Amanita muscaria and related species. Ibotenic acid
+[[allegro-amanita-muscaria-properties-and-pharmacology]] and related species. Ibotenic acid
 (alpha-amino-3-hydroxy-5-isoxazoleacetic acid) is a glutamate receptor
 agonist acting primarily on NMDA receptors. Muscimol, the decarboxylated
 derivative of ibotenic acid, is the primary psychoactive compound and acts
@@ -54,7 +54,7 @@ the psychoactive effects.
 
 ## Ergot Alkaloids ([[ergot-fungus]] parasitic on grasses and cereals,
 produces a complex mixture of alkaloids including ergotamine, ergocristine,
-ergocryptine, ergoclavine, and lysergic acid derivatives. Lysergic acid
+ergocryptine, ergoclavine, and [[ergot-and-lysergic-acid-history]] derivatives. Lysergic acid
 diethylamide (LSD) was first synthesized from ergotamine by Albert
 Hofmann in 1938. The ergot alkaloids act on multiple receptor systems
 including serotonin, dopamine, and adrenergic receptors, producing a

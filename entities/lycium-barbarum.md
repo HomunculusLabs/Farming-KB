@@ -13,7 +13,7 @@ tags:
   - antioxidant
   - anti-aging
   - traditional-chinese-medicine
-  - permaculture
+  - permaculture|permaculture
   - functional-food
   - carotenoid
 date: 2026-04-28
@@ -99,7 +99,7 @@ The berries contain a diverse array of bioactive constituents:
   weight. Exhibit immunomodulatory, antioxidant, and neuroprotective activities.
 - **Carotenoids:** Zeaxanthin and its dipalmitate ester are the dominant carotenoids. Zeaxanthin
   concentration is among the highest of any food source, supporting eye health.
-- **Flavonoids:** Chlorogenic acid, rutin, quercetin, and kaempferol derivatives.
+- **Flavonoids:** Chlorogenic acid, rutin, quercetin, and [[kaempferol|kaempferol]] derivatives.
 - **Vitamins:** High in vitamin C (40–250 mg/100g fresh), vitamin A, and B vitamins.
 - **Other:** Betaine, cerebroside, beta-sitosterol, and various amino acids.
 
@@ -121,11 +121,11 @@ Clinical and preclinical studies have investigated several health claims:
 
 Goji berry has several permaculture-relevant qualities. Its deep root system helps control
 erosion on slopes and disturbed sites. As a nitrogen-efficient, drought-tolerant shrub, it
-performs well in dryland food forests and xeriscaping. It functions as a productive hedge
+performs well in dryland [[food-forest|food forest]]s and xeriscaping. It functions as a productive hedge
 or windbreak, providing food, habitat, and ornamental value simultaneously.
 
 ## See Also
 
 - [[schisandra-chinensis]]
-- [[hippophae-rhamnoides]]
+- hippophae-rhamnoides
 - [[moringa-oleifera]]

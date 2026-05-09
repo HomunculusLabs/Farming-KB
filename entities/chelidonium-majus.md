@@ -31,7 +31,7 @@ The plant contains isoquinoline alkaloids — principally chelidonine, sanguinar
 - **Habitat:** Highly adaptable — disturbed ground, hedgerows, woodland edges, rocky outcrops, roadsides, waste places
 - **Soil:** Wide tolerance from sandy to clay; prefers moist, nitrogen-rich soils
 - **Climate:** Temperate; hardy to USDA Zone 3; partial shade to full sun
-- **Invasive potential:** Listed as invasive in parts of North America and New Zealand
+- **Invasive potential:** Listed as invasive in parts of [[psilocybin-north-america-pacific-northwest]] and New Zealand
 
 ## Phytochemistry
 
@@ -53,8 +53,8 @@ The plant contains isoquinoline alkaloids — principally chelidonine, sanguinar
 ## Permaculture and Ecological Notes
 
 - **Pioneer species:** Colonizes disturbed ground; useful for early-succession planting on degraded sites
-- **Pest deterrence:** Alkaloid-ric [[sanguinaria-canadensis]] — Bloodroot, sharing sanguinarine as key alkaloid
-- [[blesching-cannabis-therapeutic-window-methodology]] denseal, another Ranunculales medicinal with narrow therapeutic window
+- **[[foliar-pest-deterrence-aact-mechanisms]]:** Alkaloid-ric [[sanguinaria-canadensis]] — Bloodroot, sharing sanguinarine as key alkaloid
+- [[blesching-cannabis-therapeutic-window-methodology]] denseal, another Ranunculales medicinal with narrow [[blesching-cannabis-therapeutic-window-dosing]]
 ## Practical Considerations
 
 When working with Greater Celandine, several practical factors should be
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

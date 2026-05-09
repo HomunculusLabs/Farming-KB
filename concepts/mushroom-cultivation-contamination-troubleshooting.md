@@ -7,10 +7,10 @@
 
 **Identification**: Distinctive mold colonies with specific colors — A. niger produces black spores, A. flavus produces yellow-green spores, and A. fumigatus produces blue-green to gray spores. Aspergillus colonies often have a powdery texture and may appear raised or fuzzy with defined margins.
 
-**Cause**: Airborne spores from indoor environments (HVAC systems, household dust), contaminated grain, or poorly composted substrate. Aspergillus is thermotolerant and can survive [[fungal-spores]] ores per cubic meter
+**Cause**: Airborne spores from indoor environments (HVAC systems, household dust), contaminated grain, or poorly composted substrate. Aspergillus is thermotolerant and can survive fungal-spores ores per cubic meter
 - **Still air box (SAB)**: A simple enclosure (transparent storage bin with arm holes) that provides a still-air workspace. Reduces airborne spore settling by eliminating air currents. Effective for hobby-scale work
-- **Laminar flow hood (LFH)**: Gold standard for sterile work. HEPA-filtered air flows in a laminar pattern across the work surface, creating a particle-free zone
-- **Room ventilation**: Growing areas should have positive pressure from HEPA-filtered air
+- **[[comparison-laminar-flow-hood-vs-fruiting-chamber]] hood (LFH)**: Gold standard for sterile work. HEPA-filtered air flows in a laminar [[psilocin-accumulation-pattern-across-flushes]] the work surface, creating a particle-free zone
+- **[[growing-gourmet-growing-room-ventilation-air-exchange]]**: Growing areas should have positive pressure from HEPA-filtered air
 
 ### Water Quality
 
@@ -30,11 +30,11 @@
 | Cultivation Stage | Acceptable Rate | Concern Level |
 |-------------------|----------------|---------------|
 | Agar isolation | <5% plates | >10% = technique/environment issue |
-| Grain spawn (G2G) | <3% jars | >5% = environmental contamination |
-| Bulk substrate | <5% blocks | >10% = substrate/spawn quality issue |
+| [[comparison-grain-spawn-vs-grain-to-grain-transfer]] (G2G) | <3% jars | >5% = environmental contamination |
+| [[gottlieb-psilocybin-cultivation-bulk-substrate-preparation]] | <5% blocks | >10% = substrate/spawn quality issue |
 ## Practical Applications
 
-Mushroom Cultivation Contamination Troubleshooting has a range of practical applications that make it relevant to
+Mushroom [[gottlieb-psilocybin-cultivation-contamination-prevention]] Troubleshooting has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -109,4 +109,9 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[mushroom-cultivation-contamination]]
+- [[mushroom-cultivation]]
+- [[lactobacillus]]
+- [[sterilization]]
+- [[mushroom-cultivation-troubleshooting]]

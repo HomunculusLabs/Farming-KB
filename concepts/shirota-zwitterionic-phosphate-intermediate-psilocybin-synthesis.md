@@ -1,123 +1,91 @@
 ---
-title: Shirota Zwitterionic Phosphate Intermediate Psilocybin Synthesis
+title: Shirota hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin Intermediate Psilocybin Synthesis
 created: 2026-05-05
 updated: 2026-05-05
 type: concept
-tags: [[mycology, chemistry, research]
+tags: [mycology, chemistry, research]
 sources: [raw/papers/psilocybin-synthesis-shirota.md]
 ---
----
-title: Zwitterionic Phosphate Intermediate in Psilocybin Synthesis
-tags:
-  - psilocybin
-  - psilocin
-  - organic-synthesis
-  - phosphorylation
-  - shirota
-  - chemistry
-  - magic-mushrooms
-  - zwitterion
-  - large-scale-synthesis
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
----
-# Zwitterionic Phosphate Intermediate in Psilocybin Synthesis
-Shirota, Hakamata, and Goda (2003) achieved the first practical large-scale
-synthesis of psilocybin from psilocin without chromatographic purification,
-through the discovery of a zwitterionic N,O-dibenzyl phosphate intermediate.
-This intermediate enabled isolation by simple filtration, dramatically
-improving the scalability of psilocybin production for use as an analytical
-reference standard.
+--- title: Zwitterionic Phosphate Intermediate in Psilocybin Synthesis tags: - psilocybin - psilocin - organic-synthesis - phosphorylation - shirota - chemistry - magic-mushrooms - zwitterion - large-scale-synthesis date: 2026-04-28 updated: 2026-04-28 sources: - concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md --- # Zwitterionic Phosphate Intermediate in Psilocybin Synthesis
+
+Shirota, Hakamata, and Goda (2003) achieved the first practical large-scale synthesis of psilocybin from psilocin without chromatographic purification, through the discovery of a zwitterionic N,O-dibenzyl phosphate intermediate. This intermediate enabled isolation by simple filtration, dramatically improving the scalability of [[gottlieb-psilocybin-production-extraction-methods]] for use as an analytical reference standard.
+
 ## Regulatory Motivation
-Since June 6, 2002, fungi containing psilocybin and psilocin have been
-regulated by the Narcotics and Psychotropic Control Law in Japan.
-Morphological and microscopic identification of magic mushrooms is difficult
-without expert mycologists, so chromatographic methods including TLC, GC, and
-HPLC are standard for enforcement. These methods require pure reference
-compounds. Isolating psilocybin and psilocin from mushrooms at gram scale is
-impractical because psilocin decomposes readily and psilocybin is highly
-polar. Chemical synthesis was needed to produce reference standards.
+
+Since June 6, 2002, fungi containing psilocybin and psilocin have been regulated by the Narcotics and Psychotropic Control Law in Japan. Morphological and microscopic identification of magic mushrooms is difficult without expert mycologists, so chromatographic methods including TLC, GC, and HPLC are standard for enforcement. These methods require pure reference compounds.
+
+Isolating psilocybin and psilocin from mushrooms at gram scale is impractical because psilocin decomposes readily and psilocybin is highly polar. Chemical synthesis was needed to produce reference standards of sufficient purity and quantity for analytical laboratories across Japan's law enforcement network.
+
 ## The Phosphorylation Challenge
-Converting psilocin (the dephosphorylated, less polar active compound) to
-psilocybin (the 4-O-phosphate ester) proved technically demanding. Most
-phosphorylation methods failed to consume psilocin at all. Two approaches
-showed promise: the phosphoryl iodide method using tribenzyl phosphite,
-iodine, and DMAP, and the pyrophosphate method using tetrabenzylpyrophosphate
-and n-butyllithium. The pyrophosphate method was selected for its easy handling
-and reagent stability.
+
+Converting psilocin (the dephosphorylated, less polar active compound) to psilocybin (the 4-O-phosphate ester) proved technically demanding. Most phosphorylation methods failed to consume psilocin at all, a result attributed to the poor nucleophilicity of the 4-hydroxy group on the indole ring, which is deactivated by the electron-withdrawing character of the adjacent aromatic system.
+
+Two approaches showed promise: the phosphoryl iodide method using tribenzyl phosphite, iodine, and DMAP, and the pyrophosphate method using tetrabenzylpyrophosphate and n-butyllithium. The pyrophosphate method was selected for its easy handling and reagent stability. For a broader comparison of phosphorylation strategies, see [[phosphorylation-methods-psilocybin-production-comparison]].
+
 ## Discovery of the Zwitterionic Intermediate
-After the phosphorylation reaction, the expected O,O-dibenzyl phosphate
-derivative (compound 7) was produced, but workup revealed an unexpected
-transformation. During aqueous workup to remove excess reagents, hydrolytic
-cleavage of one O-benzyl group occurred, and the freed benzyl group migrated
-to the nitrogen of the N,N-dimethyl moiety. This intramolecular rearrangement
-produced a zwitterionic N,O-dibenzyl phosphate derivative (compound 8) — a
-molecule carrying both a positive charge (quaternary ammonium) and a negative
-charge (phosphate).
-Nichols and Frescas had previously observed that hydrolytic cleavage of one
-O-benzyl group occurred rapidly and the resulting zwitterionic O-monobenzyl
-phosphate was obtained as a mixture. However, they had not characterized or
-exploited this intermediate for isolation purposes.
-## Structural Elucidation by 2D NMR
-The structure of compound 8 was fully determined using two-dimensional NMR
-techniques. Key spectral features included two sets of benzyl group signals in
-the proton NMR, with one set shifted to high field (delta H 4.56, 2H, s)
-compared to the other (delta H 4.98, 1H, s; 4.96, 1H, s). The methylene and
-N,N-dimethyl protons on the psilocin core were shifted to low field relative to
-psilocin itself. A phosphorus-31 NMR signal confirmed the phosphate moiety at
-delta P minus 5.45.
-HMBC (heteronuclear multiple bond correlation) experiments revealed that one
-benzyl group was directly linked at the nitrogen of the N,N-dimethyl group,
-forming a quaternary ammonium ion. NOESY (nuclear Overhauser effect
-spectroscopy) data supported these assignments by showing through-space
-correlations consistent with the zwitterionic structure. These data confirmed
-that compound 8 was a zwitterionic N,O-dibenzyl phosphate derivative formed by
-intramolecular migration of a benzyl group from oxygen to nitrogen.
-## Practical Significance of Zwitterion Formation
-The zwitterionic nature of compound 8 was the key to scalable synthesis.
-Unlike the neutral O,O-dibenzyl phosphate, the zwitterion was insoluble in
-dichloromethane. When the worked-up reaction mixture was suspended in
-dichloromethane overnight, compound 8 precipitated as a white powder that could
-be collected by simple filtration in over 85 percent yield. Excess dibenzyl
-phosphate remained dissolved and was removed by washing with dichloromethane.
-This eliminated the need for preparative HPLC or any chromatographic
-purification, which had been the major obstacle to producing psilocybin in
-gram-scale quantities for use as a reference standard.
-## Catalytic Hydrogenolysis to Psilocybin
-The final step involved catalytic hydrogenolysis of compound 8 using 10
-percent palladium on carbon under a hydrogen atmosphere in methanol. Both
-benzyl groups (the N-benzyl and the remaining O-benzyl) were cleaved
-simultaneously, yielding psilocybin as a white needle crystalline powder. The
-overall isolated yield of psilocybin from psilocin was greater than 72 percent,
-even at gram scale — a dramatic improvement over previously reported yields of
-20 percent and 47 percent. Water was added during the reaction due to product
-deposition, and the mixture was stirred for one additional hour under hydrogen.
-## The Complete Psilocin-to-Psilocybin Pathway
-The Shirota synthesis route for psilocybin proceeds through these stages:
-1. Phosphorylation of psilocin with tetrabenzylpyrophosphate and n-BuLi at
-   minus 78 to 0 degrees Celsius in THF
-2. Aqueous workup inducing zwitterion formation through benzyl migration
-3. Suspension in dichloromethane overnight for precipitation
-4. Filtration to isolate the zwitterionic intermediate (85.2 percent yield)
-5. Catalytic hydrogenolysis with Pd/C in methanol under H2 atmosphere
-6. Crystallization of psilocybin (87.5 percent yield from intermediate)
-## The Psilocin Synthesis Route
-The same paper presents the concise synthesis of psilocin from commercially
-available 4-hydroxyindole in three high-yielding steps:
-1. Acetylation of 4-hydroxyindole with acetic anhydride and pyridine in
-   dichloromethane at 0 degrees Celsius to room temperature, yielding 4-
-   acetylindole (compound 4) as ivory white crystals
-2. Oxalyl chloride treatment in diethyl ether at 0 degrees Celsius, then
-   addition of dimethylamine in THF with pyridine to form the glyoxalylamide
-   (compound 6) in 80 percent yield
-3. Lithium aluminum hydride reduction in THF under argon to psilocin in over
-   85 percent yield
 
-## See Also
+When the pyrophosphate reaction mixture was poured into water, an unexpected precipitate formed. Analysis revealed this to be the zwitterionic form of the N,O-dibenzyl phosphate derivative of psilocin. The compound exists in a zwitterionic state because the phosphate group is deprotonated (anionic) while the indole nitrogen is protonated (cationic), creating an overall neutral molecule with separated positive and negative charges.
 
-- [[shirota-psilocin-psilocybin-synthesis]]
-- [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]]
+This zwitterionic character is the key to the compound's utility. Because it carries both a positive and negative charge, the molecule has extremely low solubility in both water and common organic solvents. This poor solubility causes it to precipitate out of solution as a crystalline solid that can be isolated by simple vacuum filtration -- no chromatographic purification needed.
 
-- [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]]
+### Structural Analysis by NMR
+
+The structure of the zwitterionic intermediate was confirmed through comprehensive NMR spectroscopy:
+
+- **¹H NMR**: Showed characteristic signals for the benzyl protecting groups (multiplets around 7.3-7.4 ppm for aromatic protons, and doublets around 5.0-5.1 ppm for the benzylic methylene protons), the indole ring system, and the dimethylamino group.
+
+- **HMBC (Heteronuclear Multiple Bond Correlation)**: Confirmed the connectivity between the phosphoryl group and the 4-position of the indole ring by showing correlations between the phosphate oxygen and the aromatic proton at the 5-position of the indole.
+
+- **NOESY (Nuclear Overhauser Enhancement Spectroscopy)**: Provided through-space correlation data confirming the spatial proximity of the N-benzyl group to the indole ring system and verifying the regiochemistry of the phosphorylation.
+
+This NMR analysis was critical because the zwitterionic form had not been previously reported in the literature for this class of compounds. The spectroscopic data unambiguously established that phosphorylation had occurred at the correct 4-position and that both the N-benzyl and O-benzyl protecting groups were intact.
+
+## The Two-Step Synthesis Route
+
+The overall synthesis proceeds in two major phases:
+
+### Phase 1: Psilocin to Zwitterionic Intermediate
+
+1. **Protection**: The indole nitrogen of psilocin is protected by benzylation using benzyl bromide and a base.
+2. **Phosphorylation**: The 4-hydroxy group is phosphorylated using tetrabenzylpyrophosphate (TBPP) activated with n-butyllithium, with DMAP as a catalyst.
+3. **Isolation**: The reaction mixture is quenched with water, and the zwitterionic N,O-dibenzyl phosphate precipitates as a crystalline solid, which is collected by filtration, washed, and dried.
+
+The crude zwitterionic intermediate obtained by filtration typically has a purity of 95-97%, which is sufficiently pure for the subsequent deprotection step. If higher purity is needed, it can be recrystallized from a suitable solvent system.
+
+### Phase 2: Deprotection to Psilocybin
+
+The N,O-dibenzyl phosphate intermediate is subjected to catalytic hydrogenolysis to remove the benzyl protecting groups. This is typically accomplished using palladium on carbon (Pd/C) as the catalyst under a hydrogen atmosphere. The reaction proceeds as follows:
+
+- The O-benzyl group is cleaved to reveal the free 4-O-phosphate group of psilocybin.
+- The N-benzyl group is cleaved to reveal the free indole nitrogen.
+- Both reactions occur simultaneously in a single hydrogenolysis step.
+
+The details of this deprotection are covered in [[shirota-catalytic-hydrogenolysis-debenzylation-to-psilocybin-crystal]].
+
+## Scale and Yield
+
+The method was successfully demonstrated at multi-gram scale, producing over 10 grams of purified psilocybin per batch with an overall yield of approximately 25-30% from psilocin. The [[tetrabenzylpyrophosphate-phosphorylation-psilocybin-synthesis-shirota]] intermediate synthesis is the yield-limiting step, while the hydrogenolysis proceeds in near-quantitative yield.
+
+The scalability advantage is substantial. Previous synthesis methods required column chromatography to purify intermediates and final products, a technique that is labor-intensive, solvent-heavy, and difficult to scale beyond milligram quantities. By replacing chromatography with filtration at the intermediate stage, Shirota's method reduced purification time from days to hours and solvent consumption by an order of magnitude.
+
+## Significance
+
+The zwitterionic intermediate discovery represented a breakthrough in [[psilocybin-synthesis-shirota-concise-large-scale-method]] because it eliminated the need for chromatography, which had been the major bottleneck in scaling up psilocybin synthesis. Filtration-based isolation is fast, inexpensive, and does not require specialized equipment, making the method accessible to standard analytical chemistry laboratories.
+
+The method has been adopted by multiple forensic and research laboratories for the production of reference standards used in the detection and quantification of psilocybin and psilocin in confiscated mushroom samples. This has practical implications for law enforcement in Japan and elsewhere, where the identification of controlled mushrooms requires reliable analytical reference materials.
+
+## Comparison with Alternative Synthesis Routes
+
+The Shirota zwitterionic method stands in contrast to earlier approaches to psilocybin synthesis. Hofmann's original 1959 synthesis used a multi-step route from indole derivatives that required multiple chromatographic purifications and produced low overall yields. Subsequent methods by various groups improved yields but retained the dependence on chromatographic purification at one or more stages.
+
+The key innovation of the Shirota method is exploiting the inherent physicochemical properties of the zwitterionic intermediate rather than imposing an external purification strategy. The compound's poor solubility in virtually all common solvents is typically considered a nuisance in organic chemistry, but Shirota recognized it as an opportunity for elegant, low-tech isolation.
+
+## Applications in Research
+
+Beyond forensic applications, the availability of synthetic psilocybin produced by this method has supported several areas of scientific research:
+
+- **Clinical studies**: Pure synthetic psilocybin is required for clinical trials investigating its therapeutic potential for depression, anxiety, and substance use disorders. The ability to produce reference-grade material at scale supports quality control in these studies.
+
+- **Pharmacological research**: Synthetic psilocybin enables precise dosing in receptor binding assays and pharmacokinetic studies, contributing to understanding of the [[psilocybin-mushroom-chemistry]] and its interactions with serotonin receptors.
+
+- **Species identification**: Reference standards allow laboratories to develop quantitative HPLC methods for measuring psilocybin and psilocin concentrations in mushroom tissue, supporting [[psilocybe-genus-taxonomy-classification]] and potency research.

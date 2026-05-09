@@ -23,7 +23,7 @@ sources:
 
 # Echinopsis bridgesii (Bolivian Torch)
 
-**Echinopsis bridgesii**, commonly known as the **Bolivian Torch cactus**, is a fast-growing columnar cactus species in the family Cactaceae, native to the Bolivian Andes. It is one of the principal "san pedro-type" mescaline-containing cacti, valued both as a traditional entheogen and as an ornamental succulent in cultivation. The species is closely related to *[[echinopsis-peruvianus]]* (Peruvian Torch), and is often discussed alongside them in ethnobotanical literature, though it is genetically and morphologically distinct.
+**Echinopsis bridgesii**, commonly known as the **Bolivian Torch cactus**, is a fast-growing columnar cactus species in the family Cactaceae, native to the Bolivian Andes. It is one of the principal "san pedro-type" mescaline-containing cacti, valued both as a traditional entheogen and as an ornamental succulent in cultivation. The species is closely related to *[[echinopsis-peruvianus]]* ([[trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern]]), and is often discussed alongside them in ethnobotanical literature, though it is genetically and morphologically distinct.
 
 The taxonomic history of *E. bridgesii* is complex. It has been variously classified as *[[echinopsis-lageniformis]]*, reflecting the ongoing revision of Trichocereus taxonomy into the genus *Echinopsis*. Many cultivators and ethnobotanists continue to use the name *Trichocereus bridgesii*.
 
@@ -127,8 +127,8 @@ These secondary alkaloids may contribute to the overall subjective experience, w
 | Hardiness | USDA Zones 9b–11 (can survive brief light frost to -2°C) |
 | Light | Full sun to bright indirect light; acclimatize gradually |
 | Temperature | 10–35°C optimal; tolerates 5–40°C briefly |
-| Soil | Well-drained mineral mix: 50% pumice/perlite, 25% sand, 25% organic matter |
-| Water | Moderate during growing season (spring–fall); withhold during winter dormancy |
+| Soil | Well-drained mineral mix: 50% pumice/perlite, 25% sand, 25% [[hamilton-composting-and-organic-matter-management]] |
+| Water | Moderate during [[savory-growing-season-and-non-growing-season-management]] (spring–fall); withhold during winter dormancy |
 | pH | 6.0–7.5 |
 | Fertilizer | Low-nitrogen cactus fertilizer during active growth (optional) |
 | Container | Deep pots with excellent drainage; terracotta preferred over plastic |
@@ -141,7 +141,7 @@ These secondary alkaloids may contribute to the overall subjective experience, w
 
 ## Legal Status
 
-Mescaline is Schedule I under the UN Convention on Psychotropic Substances (1971). Live plants are legal to cultivate as ornamentals in most jurisdictions (US, UK, EU, Australia) — the restriction applies to preparation for consumption. In the US, extracting mescaline is illegal under the Controlled Substances Act. Traditional use by indigenous Bolivian communities is culturally protected.
+Mescaline is Schedule I under the UN Convention on Psychotropic Substances (1971). Live plants are legal to cultivate as ornamentals in most jurisdictions (US, UK, EU, Australia) — the restriction applies to preparation for consumption. In the US, extracting mescaline is illegal under the Controlled [[controlled-substances-act-and-psychedelic-research]]. Traditional use by indigenous Bolivian communities is culturally protected.
 ## See Also
 
 - [[trichocereus-pachanoi]]

@@ -1,21 +1,22 @@
 ---
-title: Holzer Pond Construction and Aquaculture
+title: Holzer holzer pond construction and aquaculture and Aquaculture
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
+  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Pond Construction and Aquaculture
 
-Sepp Holzer is renowned for his water landscapes, which he has developed over decades at the Krameterhof (1,300 metres altitude in the Austrian Alps). His ponds serve multiple functions simultaneously: fish farming, irrigation reservoir, wildlife habitat, microclimate creation, and aesthetic beauty.
+Sepp Holzer is renowned for his water landscapes, which he has developed over decades at the Krameterhof (1,300 metres altitude in the Austrian Alps). His ponds serve multiple functions simultaneously: [[knf-fish-farming-integration]], irrigation reservoir, wildlife habitat, [[mollison-designers-microclimate-creation-frost-protection]], and aesthetic beauty.
 
 ## The Philosophy of Water
 
 Holzer's approach to water is rooted in his [[holzer-climate-zone-microclimate-creation]])
-- Size varies from small garden ponds to several-thousand-square-metre lakes
+- Size varies from small [[hamilton-garden-ponds-and-aquatic-plants]] to several-thousand-square-metre lakes
 - Holzer has created over 70 ponds at the Krameterhof
 
 ## Aquaculture at the Krameterhof
@@ -44,7 +45,7 @@ Holzer raises multiple fish species in polyculture, mimicking natural lake ecosy
 4. Microclimate creation (reducing frost, moderating heat)
 5. Wildlife habitat (amphibians, birds, insects)
 6. Recreation and aesthetic beauty
-7. Water purification (constructed wetland function)
+7. Water purification ([[comparison-constructed-wetland-vs-backyard-pond]] function)
 8. Duck habitat (ducks control mosquito larvae and fertilise water)
 9. Reflective surfaces that bounce light into nearby gardens
 
@@ -70,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

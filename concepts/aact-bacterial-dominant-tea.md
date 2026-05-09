@@ -1,5 +1,5 @@
 ---
-title: AACT Bacterial Dominant Tea
+title: AACT comparison-bacterial-dominant-vs-fungal-dominant-tea Tea
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 Updated: 2026-04-18
 
-Bacterial dominant compost tea is an actively aerated compost tea (AACT) formulation that promotes high bacterial biomass relative to fungal biomass. It is used primarily for bacterial diseases, annual crop systems, and early succession soils.
+Bacterial [[query-how-to-brew-a-fungal-dominant-compost-tea]] tea is an actively [[actively-aerated-compost-tea]] tea (AACT) formulation that promotes high bacterial biomass relative to [[bioremediation-fungal-biomass-biosorbent-material]]. It is used primarily for bacterial diseases, annual crop systems, and early succession soils.
 
 ## When to Use Bacterial Tea
 
@@ -21,7 +21,7 @@ Bacterial dominant tea is appropriate when:
 - Growing annual vegetables, brassicas, and grasses (which prefer bacterial soils)
 - Establishing annual crops from seed
 - Early succession sites where bacterial soils are naturally dominant
-- Rapid nutrient cycling is needed for fast-growing annual plants
+- Rapid [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] is needed for fast-growing annual plants
 - Soil is currently bacterial-dominated and needs reinforcement
 
 Bacterial teas are NOT sufficient for controlling mildew, which requires adequate fungal biomass.
@@ -45,7 +45,7 @@ Do NOT use humic acid or fish oil if you want to keep the tea bacterial-dominant
 2. Add the compost to the tea brewer basket
 3. Add bacterial foods to the water
 4. Brew for 18-24 hours with continuous aeration
-5. Maintain dissolved oxygen above 6 ppm throughout the brew
+5. Maintain [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] above 6 ppm throughout the brew
 6. The tea should smell earthy and sweet, never foul or putrid
 7. Apply immediately after brewing -- do not let it sit
 

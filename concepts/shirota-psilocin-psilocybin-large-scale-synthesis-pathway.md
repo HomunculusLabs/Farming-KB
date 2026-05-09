@@ -1,5 +1,5 @@
 ---
-title: "Shirota Large-Scale Psilocin and Psilocybin Synthesis Pathway"
+title: "Shirota Large-Scale tryptamine-chemistry-psilocin-and-psilocybin-synthesis Synthesis Pathway"
 created: 2026-04-28
 tags:
   - chemistry
@@ -22,7 +22,7 @@ type: concept
 
 ## Overview
 
-In 2003, Osamu Shirota, Wataru Hakamata, and Yukihiro Goda at the National Institute of Health Sciences in Tokyo published a concise large-scale synthesis of [[psilocybin]] (2), the principal hallucinogenic constituents of magic mushrooms. Their approach achieved gram-scale production of both compounds without any chromatographic purification, representing a significant practical advance over earlier methods that reported yields of only 20% and 47% for [[psilocybin]] and [[psilocybin]] and [[psilocin]] easily decomposes and [[psilocybin]] and [[serotonin]] (5-hydroxytryptamine or 5-HT). Psilocybin is 4-phosphoryloxy-N,N-dimethyltryptamine (4-PO-DMT), the phosphate ester of psilocin (4-hydroxy-N,N-dimethyltryptamine or 4-HO-DMT). Minor constituents [[norbaeocystin]] may also be present in mushroom material.
+In 2003, Osamu Shirota, Wataru Hakamata, and Yukihiro Goda at the National Institute of Health Sciences in Tokyo published a concise large-scale synthesis of [[psilocybin]] (2), the principal hallucinogenic constituents of [[guzman-magic-mushrooms-african-species]]. Their approach achieved gram-scale production of both compounds without any chromatographic purification, representing a significant practical advance over earlier methods that reported yields of only 20% and 47% for [[psilocybin]] and [[psilocybin]] and [[psilocin]] easily decomposes and [[psilocybin]] and [[serotonin]] (5-hydroxytryptamine or 5-HT). Psilocybin is 4-phosphoryloxy-N,N-dimethyltryptamine (4-PO-DMT), the phosphate ester of psilocin (4-hydroxy-N,N-dimethyltryptamine or 4-HO-DMT). Minor constituents [[norbaeocystin]] may also be present in mushroom material.
 
 ## Synthesis of Psilocin (1)
 
@@ -43,7 +43,7 @@ The pyrophosphate method was selected for large-scale production because of its 
 
 ### Phosphorylation Reaction
 
-Psilocin (1) is dissolved in anhydrous tetrahydrofuran at minus 78 degrees Celsius. A 2.6M solution of n-butyllithium in n-hexane is added, followed after 5 minutes by tetrabenzylpyrophosphate (prepared from dibenzyl phosphate). The reaction is stirred for 1 hour while warming to 0 degrees Celsius.
+Psilocin (1) is dissolved in anhydrous tetrahydrofuran at minus 78 degrees Celsius. A 2.6M solution of n-butyllithium in n-hexane is added, followed after 5 minutes by tetrabenzylpyrophosphate (prepared from [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]]). The reaction is stirred for 1 hour while warming to 0 degrees Celsius.
 
 ### Discovery of the Zwitterionic Intermediate
 
@@ -67,7 +67,7 @@ The zwitterionic nature of compound 8 enabled its isolation on large scale by si
 
 ### Final Deprotection to Psilocybin
 
-Catalytic hydrogenolysis of the zwitterionic intermediate (8) using 10% palladium-activated carbon in methanol under a hydrogen atmosphere led to [[psilocybin]] (2) as a crystalline product. After approximately 2 hours, water was added to the mixture (to address product deposition) and stirring continued for one more hour. The product was filtered through a Celite pad and concentrated to afford psilocybin as a white needle crystalline powder.
+[[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]] of the zwitterionic intermediate (8) using 10% palladium-activated carbon in methanol under a hydrogen atmosphere led to [[psilocybin]] (2) as a crystalline product. After approximately 2 hours, water was added to the mixture (to address product deposition) and stirring continued for one more hour. The product was filtered through a Celite pad and concentrated to afford psilocybin as a white needle crystalline powder.
 
 The isolated yield of psilocybin from psilocin was greater than 72%, even for gram-scale production, representing a substantial improvement over the previously reported yields of 20% and 47%.
 
@@ -94,11 +94,11 @@ This synthesis pathway is significant for several reasons:
 
 1. **No chromatographic purification**: The entire sequence avoids column chromatography, making it practical for laboratories without advanced purification equipment
 2. **Gram-scale production**: Both psilocin and psilocybin can be produced in gram quantities suitable for analytical standard preparation
-3. **Novel intermediate**: The zwitterionic N,O-dibenzyl phosphate represents a newly identified compound class in tryptamine chemistry
+3. **Novel intermediate**: The zwitterionic N,O-dibenzyl phosphate represents a newly identified compound class in [[psilocybin-tryptamine-chemistry-fungi]]
 4. **High overall yield**: The route provides substantially higher yields than previously available methods
 5. **Reagent availability**: All starting materials and reagents are commercially available
 
-The synthesis is directly relevant to forensic and analytical chemistry applications where pure [[psilocin]] standards are required for the identification and quantification of hallucinogenic mushrooms through chromatographic methods.
+The synthesis is directly relevant to forensic and analytical chemistry applications where pure [[psilocin]] standards are required for the identification and quantification of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] through chromatographic methods.
 
 ## Related Topics
 

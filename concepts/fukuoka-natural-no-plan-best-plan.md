@@ -5,7 +5,8 @@ tags: [fukuoka, natural-farming, wu-wei, non-action, natural-order]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
@@ -37,23 +38,23 @@ be done.
 ## Farming Technology as Self-Created Necessity
 
 Similarly, man's deeds have made farming technology essential. Plowing,
-transplanting, tillage, weeding, and disease and pest control, all these
+transplanting, tillage, weeding, and disease and [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], all these
 practices are necessary today because man has tampered with and altered
 nature. The reason a farmer has to plow his rice field is that he plowed it
 the year before, then flooded and harrowed it, breaking the clods of earth
 into smaller and smaller particles, driving the air out and compacting the
-soil. Because he kneads the earth like bread dough, the field has to be
+soil. Because he kneads the earth like [[fukuoka-textdoc-plowing-ruins-soil-compaction-bread-dough-analogy]], the field has to be
 plowed each year. Naturally, under such conditions, plowing the field raises
 productivity.
 
-Man also makes crop disease and pest control indispensable by growing
+Man also makes [[jadam-crop-disease-prevention-methods]] and pest control indispensable by growing
 unhealthy crops. Agricultural technology creates the causes that produce
 disease and pest damage, then becomes adept at treating these. Growing
 healthy crops should take precedence.
 
-Scientific farming attempts to correct and improve on what it perceives as
+[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] attempts to correct and improve on what it perceives as
 the shortcomings of nature through human effort. In contrast, when a problem
-arises, natural farming relentlessly pursues the causes and strives to
+arises, [[comparison-natural-farming-vs-permaculture]] relentlessly pursues the causes and strives to
 correct and restrain human action.
 
 ## True Non-Action
@@ -66,7 +67,7 @@ spraying, and prunes because pruning disrupted the natural form, is trapped
 in a cycle of self-generated necessity.
 
 Natural farming breaks this cycle by identifying where human action first
-disturbed the natural order and removing that disturbance at its root. Rather
+disturbed the [[fukuoka-textdoc-natural-order-food-chain-unity]] and removing that disturbance at its root. Rather
 than planning how to correct each symptom, the natural farmer asks what human
 action caused the symptom to appear and stops doing it.
 

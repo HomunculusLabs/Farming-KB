@@ -1,5 +1,5 @@
 ---
-title: Small Farm Equipment and Tools
+title: Small coleman small farm equipment and tools and Tools
 created: 2026-04-28
 tags:
   - farm-tools
@@ -21,7 +21,7 @@ the right tool can transform the economics of a small-scale operation. He
 distinguishes between a tool and a machine: the effectiveness of a tool
 depends on the care taken by the user, whereas a machine operates
 independently of user skill. His toolkit emphasizes human-powered and
-electric implements suited to the intensive bed system of the four-season
+electric implements suited to the [[coleman-french-intensive-bed-method]] system of the four-season
 farm.
 
 ## The Pinpoint Seeder and Six-Row Seeder
@@ -52,7 +52,7 @@ powered by a cordless drill. It works only the top 2 inches of soil to
 avoid disturbing dormant weed seeds below. The gearbox sits on the side,
 leaving no untilled center strip. A rope around the drill's trigger is
 pulled from the handlebars. The Tilther produces little noise and no
-fumes, making it ideal for frequent bed preparation inside enclosed
+fumes, making it ideal for frequent [[azurescens-outdoor-bed-preparation-woodchips]] inside enclosed
 greenhouses.
 
 ## The Broadfork
@@ -66,7 +66,7 @@ compaction becomes apparent.
 
 ## Harvesting Tools
 
-For winter harvesting, Coleman uses small, sharp Victorinox knives (7
+For [[coleman-winter-harvesting-techniques]], Coleman uses small, sharp Victorinox knives (7
 inches overall, 3-inch blade) sharpened frequently. Cut leaves go into
 food-grade five-gallon buckets. For larger-scale baby-leaf harvest,
 Johnny's Selected Seeds sells the Greens Harvester, a human-powered tool
@@ -77,7 +77,7 @@ light enough for one-hand use and adjustable for different cutting heights.
 
 ## Flame Weeder
 
-For pre-emergence weed control, Coleman uses a propane flame weeder. The
+For pre-emergence [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]], Coleman uses a propane flame weeder. The
 principle is wilting, not burning: exposure to 160°F for one second is
 sufficient to kill weed seedlings less than 1 inch tall. Coleman has been
 developing an improved flamer design with smaller nozzles, a hood to
@@ -111,7 +111,7 @@ the precision on which intensive small-farm production depends.
 
 - coleman hidden farm and double cropping strategy Concepts
 
-- [[coleman-weed-control]] — the flame weeder and other weed management
+- [[coleman-weed-control]] — the flame weeder and other [[fukuoka-weed-management-and-green-manure]]
   tools
 - [[coleman-winter-harvesting-techniques]] — harvest knives and cold
   weather tools

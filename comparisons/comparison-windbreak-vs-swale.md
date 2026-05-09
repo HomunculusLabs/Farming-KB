@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [comparison, permaculture, water-management, earthworks, wind-protection]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -41,7 +42,7 @@ safety features that allow excess water to escape without eroding the berm.
 
 Swales excel in arid and semi-arid climates where water is the limiting factor,
 potentially infiltrating water to depths of 3-5 metres and eliminating the need
-for irrigation in tree crop systems. They also serve urban permaculture by
+for irrigation in [[mollison-tree-crop-systems-permaculture]] systems. They also serve [[pdc-urban-permaculture-design-principles]] by
 managing stormwater runoff, reducing municipal drainage burdens, and creating
 productive edge habitats. Their effectiveness is largely determined by soil
 infiltration rates, meaning clay soils require larger swales while sandy soils
@@ -56,7 +57,7 @@ can use smaller, more widely spaced installations.
 | Design Basis | Height, density, orientation to prevailing wind | Contour lines, slope, soil infiltration rate |
 | Time to Full Effectiveness | 5-10 years for mature height | Immediate upon construction |
 | Primary Material | Living trees and shrubs | Earth (excavated soil and berms) |
-| Maintenance | Pruning, replanting gaps, weed control early on | Spillway clearing, sediment removal every 5-10 years |
+| Maintenance | Pruning, replanting gaps, [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] early on | Spillway clearing, sediment removal every 5-10 years |
 | Climate Focus | Windy, exposed sites in any climate | Arid to humid; most critical in drylands |
 | Scale Range | Garden hedgerows to large agricultural shelterbelts | Home garden channels to broadacre earthworks |
 | Wildlife Benefit | High: corridor habitat, nesting, food | Moderate: moist planting zones support diversity |

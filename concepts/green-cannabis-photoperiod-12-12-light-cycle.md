@@ -1,5 +1,5 @@
 ---
-title: Photoperiod and 12/12 Light Cycle in Cannabis Flowering
+title: Photoperiod and 12/12 Light Cycle in green-cannabis-flowering-management
 created: 2026-04-26
 tags:
   - cannabis
@@ -18,9 +18,9 @@ type: concept
 
 The photoperiod is the timed amount of light that a plant receives over a
 24-hour cycle. For cannabis, the photoperiod is the single most important
-environmental trigger that controls the transition from vegetative growth
+environmental trigger that controls the transition from [[cannabis-vegetative-growth-stage]]
 to flowering. Understanding and manipulating the light cycle is fundamental
-to successful indoor cultivation. Greg Green's "The Cannabis Grow Bible"
+to successful [[cannabis-sativa-indoor-cultivation-techniques]]. Greg Green's "The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible"
 devotes significant attention to the 12/12 photoperiod as the key to
 triggering and maintaining the flowering phase.
 
@@ -35,7 +35,7 @@ and the plant is naturally stimulated to flower.
 As long as the 12/12 cycle continues, the plant will produce flowers. The
 flowers will grow larger and more plentiful under continued 12/12. This is
 part of the cannabis plant's evolution -- it has taught itself when to
-flower based on seasonal day length changes. As growers, the goal is to
+flower based on seasonal [[coleman-winter-day-length-and-persephone-months]] changes. As growers, the goal is to
 replicate this natural signal by turning lights on and off at the correct
 ratios to induce flowering on demand.
 

@@ -22,10 +22,10 @@ sources:
 
 Agroclavine is an ergoline alkaloid of the clavine class, produced by
 fungi in the Clavicipitaceae family including *Claviceps* species,
-*Aspergillus fumigatus*, and several endophytic fungi of grasses.
+*[[gadd-aspergillus-fumigatus-glucan-virulence]]*, and several [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]] of grasses.
 
 It is a tetracyclic ergoline lacking the characteristic C-8 carboxyl
-group of the lysergic acid amides, placing it in the "simple clavine"
+group of the [[ergot-and-lysergic-acid-history]] amides, placing it in the "simple clavine"
 subclass alongside lysergol, setoclavine, and elymoclavine.
 
 Agroclavine exhibits uterotonic, vasoconstrictive, and mild psychoactive
@@ -93,7 +93,7 @@ mono-oxygenase).
 The pathway proceeds: L-tryptophan → DMAT → chanoclavine-I →
 chanoclavine-I aldehyde → agroclavine → elymoclavine → lysergic acid.
 
-Agroclavine is produced by *Claviceps purpurea* (ergot fungus) during
+Agroclavine is produced by *[[bloomfield-ergot-claviceps-purpurea-ergotism]]* (ergot fungus) during
 sphacelial growth on cereal hosts, particularly rye, wheat, and barley.
 
 It also occurs in endophytic fungi of the genus *Neotyphodium*
@@ -109,7 +109,7 @@ under laboratory conditions.
 
 Agroclavine was first isolated from ergot (*Claviceps purpurea*)
 sclerotia in the early 20th century during systematic investigations
-of ergot alkaloid chemistry.
+of ergot [[ergot-alkaloid-chemistry-history]].
 
 Its structural elucidation was achieved through the work of several
 research groups including Hofmann, Stoll, and colleagues at Sandoz

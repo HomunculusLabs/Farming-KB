@@ -10,10 +10,10 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Kirschner, J. (2002). "Juncus L." In: Flora of North America North of Mexico, Vol. 22, pp. 256-291. Oxford University Press.
+  - Kirschner, J. (2002). "Juncus L." In: Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 22, pp. 256-291. Oxford University Press.
   - Wilcox, D.A. & Meeker, J.E. (1991). "Disturbance effects on aquatic vegetation in a regulated lake in northern Wisconsin." American Midland Naturalist, 126(1), 37-49.
   - Brooks, R.E. (2000). "Juncus effusus L. (soft rush)." In: USDA Forest Service Fire Effects Information System.
-  - Ebeling, F. et al. (2016). "Phytoremediation of nutrient-enriched water using Juncus effusus in constructed wetlands." Ecological Engineering, 94, 428-435.
+  - Ebeling, F. et al. (2016). "Phytoremediation of nutrient-enriched water using Juncus effusus in [[comparison-constructed-wetlands-vs-bioswales]]." Ecological Engineering, 94, 428-435.
   - Simpson, D. (2010). "Juncaceae of economic importance." Kew Bulletin, 65(3), 451-465.
 ---
 
@@ -23,7 +23,7 @@ sources:
 
 **Juncus effusus**, commonly known as soft rush, common rush, or mat rush, is a perennial clump-forming herbaceous plant in the family Juncaceae. It is one of the most widespread rush species in the world, occurring across temperate and subtropical regions on every continent except Antarctica.
 
-The species forms dense tussocks of cylindrical, unbranched stems that provide habitat and erosion control in wetland margins, meadows, and disturbed areas. It is valued in traditional crafts for its pliable stems and is increasingly used in constructed wetland systems for water treatment.
+The species forms dense tussocks of cylindrical, unbranched stems that provide habitat and [[permplant-willows-salix-erosion-control-fodder]] in wetland margins, meadows, and disturbed areas. It is valued in traditional crafts for its pliable stems and is increasingly used in constructed wetland systems for water treatment.
 
 ## Taxonomy and Morphology
 
@@ -60,7 +60,7 @@ The fibrous root system stabilizes soil on stream banks and wet meadow edges, re
 
 The tussock growth form creates microtopographic variation in wet meadows, with elevated mounds and inter-tussock depressions. This microtopography increases habitat heterogeneity and supports a greater diversity of plant species than a uniform sward.
 
-*J. effusus* can become dominant in overgrazed wet pastures, where livestock avoid the tussocks and allow them to expand. This rush-dominated state reduces forage quality for cattle and sheep. Management through rotational grazing, cutting, or drainage can restore more diverse grassland communities.
+*J. effusus* can become dominant in overgrazed wet pastures, where livestock avoid the tussocks and allow them to expand. This rush-dominated state reduces forage quality for cattle and sheep. Management through [[comparison-rotational-grazing-vs-continuous-grazing]], cutting, or drainage can restore more diverse grassland communities.
 
 Cutting in late summer (after seed set) reduces tussock vigor and encourages lateral spread of grasses. Annual cutting for 3–5 consecutive years significantly reduces rush dominance without the need for herbicide application. The cut material can be used as mulch or composted.
 
@@ -80,11 +80,11 @@ The species is effective in constructed wetlands for treating domestic wastewate
 
 In comparison to other wetland macrophytes, *J. effusus* shows moderate nutrient uptake but excellent durability under variable loading conditions. It maintains treatment performance across seasonal temperature swings better than tropical species used in temperate climates.
 
-The root system supports nitrifying and denitrifying bacterial communities in the rhizosphere. Radial oxygen release from roots creates the aerobic-anaerobic interfaces necessary for coupled nitrification-denitrification. The species tolerates high organic loading rates and recovers quickly from periodic harvesting.
+The root system supports nitrifying and denitrifying [[cultivar-endorhiza-bacterial-communities-cannabis]] in the rhizosphere. Radial oxygen release from roots creates the aerobic-anaerobic interfaces necessary for coupled nitrification-denitrification. The species tolerates high organic loading rates and recovers quickly from periodic harvesting.
 
 In stormwater treatment applications, *J. effusus* effectively removes suspended solids, heavy metals (zinc, copper, lead), and pathogens from urban runoff. The dense root mat acts as a physical filter while also providing substrate for biofilm development that degrades organic pollutants.
 
-The species is particularly effective in small-scale treatment systems such as rain gardens and bioswales. Its compact growth form and tolerance of fluctuating water levels make it suitable for urban green infrastructure. Research has demonstrated that *J. effusus*-based systems can achieve fecal coliform reductions of 85–99% from stormwater inputs.
+The species is particularly effective in small-scale treatment systems such as rain gardens and bioswales. Its [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] form and tolerance of fluctuating water levels make it suitable for urban green infrastructure. Research has demonstrated that *J. effusus*-based systems can achieve fecal coliform reductions of 85–99% from stormwater inputs.
 
 ## Cultivation
 
@@ -103,7 +103,7 @@ Optimal growth occurs in full sun to partial shade with consistently moist soil.
 ## See Also
 
 - [[schoenoplectus-lacustris]]
-- [[typha-latifolia-entity]]
+- typha-latifolia-entity
 - [[acorus-calamus]]
 - [[lemna-minor]]
 - [[arundo-donax]]

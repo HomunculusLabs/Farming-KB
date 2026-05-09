@@ -1,5 +1,5 @@
 ---
-title: Turner CydelikSpace and Psychedelic Reality
+title: Turner turner cydelikspace and psychedelic reality Reality
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -58,7 +58,7 @@ Turner's metaphysical framework describing "CydelikSpace" — a universal state 
 ## Connection to Eastern Traditions
 
 ### Samadhi/Enlightenment
-- "The experience of Enlightenment, Satori, or Samadhi is another variation of CydelikSpace"
+- "The experience of Enlightenment, [[satori]], or Samadhi is another variation of CydelikSpace"
 - Turner experienced Samadhi: "extinguishing of self-awareness and the dawning of omniscient awareness was simultaneous"
 - "It was as though someone had switched on all the interior lights of my mind"
 - "Everything was understood and made clear"

@@ -1,5 +1,5 @@
 ---
-title: "P (PROSCALINE; 3,5-DIMETHOXY-4-(n)-PROPOXYPHENETHYLAMINE) -- PIHKAL Entry #140"
+title: "P (PROSCALINE; 3,5-DIMETHOXY-4-(n)-PROPOXYPHENETHYLAMINE) -- 2c-b-pihkal-entry-20 #140"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # P
 
-PIHKAL entry #140. PROSCALINE; 3,5-DIMETHOXY-4-(n)-PROPOXYPHENETHYLAMINE.
+[[2c-b-pihkal-entry-20]] #140. PROSCALINE; 3,5-DIMETHOXY-4-(n)-PROPOXYPHENETHYLAMINE.
 
 ## Chemical Name
 
@@ -111,7 +111,7 @@ The mp was 170-172 deg C. Anal. (C13H22ClNO3) C,H,N.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

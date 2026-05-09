@@ -24,7 +24,7 @@ may need watering perhaps once, or not at all.
 
 ## Choosing Drought-Adapted Varieties
 
-Not all vegetable varieties are equally suited to dry gardening. Solomon
+Not all [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] are equally suited to dry gardening. Solomon
 recommends selecting varieties that were developed or are known to perform
 well under water-limited conditions. Many modern hybrids are bred for
 irrigated commercial production and may perform poorly without regular
@@ -34,7 +34,7 @@ through [[complete-organic-fertilizer-cof]] fertilizers.
 
 ## See Also
 
-- complete organic fertilizer recipe solomon
+- complete [[complete-organic-fertilizer-cof-recipe-solomon]] recipe solomon
 - complete organic fertilizer recipe solomon
 - complete organic fertilizer recipe solomon
 
@@ -44,7 +44,7 @@ through [[complete-organic-fertilizer-cof]] fertilizers.
 - Solomon, Steve. *Waterwise Vegetables*. Sasquatch Books, 1993 (out of print).
 ## Practical Considerations
 
-When working with Dry Gardening Unirrigated Vegetable Production Solomon, several practical factors should be
+When working with Dry dry gardening unirrigated vegetable production solomon Vegetable Production Solomon, several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this
@@ -58,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,4 +100,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

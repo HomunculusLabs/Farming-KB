@@ -1,5 +1,5 @@
 ---
-title: Cannabis and Lung Cancer
+title: Cannabis and psk-breast-lung-cancer-clinical-trials
 created: 2026-04-26
 tags:
   - cannabis
@@ -28,7 +28,7 @@ chemotherapy, radiation, and/or surgery.
 
 Tobacco smoke and second-hand smoke are recognized as the major cause of lung
 cancer. While inhaling any burned substance is generally harmful to the lungs,
-the cannabinoid THC itself may actually help prevent and treat lung cancer.
+the cannabinoid THC itself may actually help [[query-how-do-i-identify-prevent-and-treat-fusarium-wilt]] lung cancer.
 
 ## Cannabis Health Index (CHI) Score
 
@@ -42,7 +42,7 @@ the cannabinoid THC itself may actually help prevent and treat lung cancer.
 As early as 1975, the U.S. government discovered that cannabis plant
 cannabinoids were able to inhibit lung cancer growth, reduce tumor size, and
 increase survival rates in animal test subjects. Specifically, THC, delta-8-
-THC, and CBN (but not CBD) retarded lung cancer cell growth, reduced tumor
+THC, and CBN (but not CBD) retarded lung [[blesching-cannabis-apoptosis-and-cancer-cell-death]] growth, reduced tumor
 size, and increased survival rates in mice.
 
 ### 2006: No Association Between Cannabis Use and Lung Cancer
@@ -115,5 +115,5 @@ judged emotions and stifled expressions.
 ## See Also
 
 - [[blesching-cannabis-copd]]
-- [[blesching-endocannabinoid-system-overview]]
+- [[endocannabinoid-system-overview]]
 - [[blesching-cannabinoid-pharmacology]]

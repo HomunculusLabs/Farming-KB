@@ -1,5 +1,5 @@
 ---
-title: Mexican Indigenous Nomenclature for Sacred Mushrooms
+title: Mexican mexican indigenous nomenclature sacred mushrooms for mexican-sacred-mushrooms-indigenous-use-and-ethnobotany
 created: 2026-04-28
 tags:
   - ethnobotany
@@ -19,7 +19,7 @@ type: concept
 # Mexican Indigenous Nomenclature for Sacred Mushrooms
 
 The indigenous peoples of Mexico developed a rich system of naming for
-neurotropic fungi that reflects deep cultural, spiritual, and practical
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] that reflects deep cultural, spiritual, and practical
 relationships with these organisms. Documented extensively by Guzman
 (1997), this nomenclature encompasses more than two hundred common
 names, many in indigenous languages, revealing a taxonomy of meaning far
@@ -31,7 +31,7 @@ European contact.
 The most famous indigenous name is teonanacatl, a Nahuatl word
 translating roughly to divine mushroom or flesh of the gods. First
 reported by the Spanish friar Bernardino de Sahagun (1569 to 1582) and
-later brought to wider attention by Richard Evans Schultes (1939), the
+later brought to wider attention by Richard [[richard-evans-schultes-updated]] (1939), the
 term has become so indiscriminately used that it is applied to
 virtually any Mexican hallucinogenic fungus. This overgeneralization
 has caused significant confusion in the ethnobotanical literature, as
@@ -41,7 +41,7 @@ species rather than neurotropic fungi in general.
 The Spanish Franciscans who encountered this practice during the
 conquest were profoundly disturbed. They assumed they held a monopoly
 on theophagy, the eating of God, yet discovered peoples calling a
-mushroom teonanacatl, the flesh of the gods. The Inquisition drove the
+[[mckenna-mushroom-teonanacatl-franciscan-theophagy-and-oaxaca-survival]], the flesh of the gods. The Inquisition drove the
 practice into remote mountain villages of Oaxaca where it survived
 until rediscovery by Valentina and Gordon Wasson in the 1950s.
 
@@ -101,7 +101,7 @@ considerable ethnographic value.
 
 ## See Also
 
-- [[guzman-magic-mushrooms-new-guinea-sacred-fungi]]
+- guzman-magic-mushrooms-new-guinea-sacred-fungi
 - [[neurotropic-fungi]] overview and classification
 - [[psilocybe-mexicana]] ethnobotany and chemistry
 - [[psilocybe-zapotecorum]] distribution and traditional use

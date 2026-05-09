@@ -34,7 +34,7 @@ one of the most potent dissociative compounds known.
 
 Despite its withdrawal from medicine, PCP became a significant drug of abuse
 in the 1970s and 1980s. It remains available illicitly and is recognized as
-a Schedule II controlled substance in the United States.
+a Schedule II controlled substance in the [[dmt-containing-plants-united-states-halpern]].
 
 ## Chemical Properties
 
@@ -102,7 +102,7 @@ Ketamine was developed as a shorter-acting, safer alternative, entering
 clinical use in 1970. PCP continued to be used briefly in veterinary
 medicine before being largely replaced there as well.
 
-Illicit use emerged in the late 1960s in San Francisco's Haight-Ashbury
+Illicit use emerged in the late 1960s in [[shipibo-san-francisco-ceremonial-center-ucayali]]'s Haight-Ashbury
 district. PCP abuse peaked in the United States during the 1970s and 1980s
 before declining, though it remains intermittently available in illicit
 drug markets.
@@ -110,7 +110,7 @@ drug markets.
 ## Legal Status
 
 PCP is classified as Schedule II in the United States under the Controlled
-Substances Act. It is also controlled under the UN Convention on Psychotropic
+[[controlled-substances-act-and-psychedelic-research]]. It is also controlled under the UN Convention on Psychotropic
 Substances (Schedule I).
 
 Analogues including TCP (thienylcyclohexylpiperidine) and PCE
@@ -122,4 +122,4 @@ Analogues including TCP (thienylcyclohexylpiperidine) and PCE
 - [[muscimol-entity]]
 - [[psilocybin]]
 - opium
-- [[ibotenic-acid-entity]]
+- ibotenic-acid-entity

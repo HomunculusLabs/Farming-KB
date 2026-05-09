@@ -1,5 +1,5 @@
 ---
-title: Cannabis and Mind-Body Medicine Integration
+title: Cannabis and Mind-Body cannabis-mind-body-medicine-integration-framework-blesching
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -12,7 +12,7 @@ tags: [cannabis, medicine]
 
 The [[cannabis-for-epilepsy-and-seizure-disorders]], PhD, uniquely integrates
 evidence-based cannabis science with mind-body medicine techniques. This
-approach recognizes that the [[endocannabinoid-system]] as Mind-Body Bridge
+approach recognizes that the [[cannabis-health-endo-cannabinoid-system]] as Mind-Body Bridge
 
 The [[serotonin]] (I am happy)
 
@@ -55,7 +55,7 @@ mind-body techniques for each condition:
 
 ## Deep Relaxation and the Relaxation Response
 
-A "relaxation response" is the opposite of the stress response (fight,
+A "relaxation response" is the opposite of the [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] (fight,
 flight, or freeze). During deep relaxation, the mind-body axis changes
 hormonal and signal molecules, calming the sympathetic nervous system by
 reducing stress molecules (adrenalin, cortisol), calming heart rate, and

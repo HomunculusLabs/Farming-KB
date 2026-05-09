@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-Several compounds documented in PiHKAL became important tools in neurochemical research, particularly for brain imaging and the study of serotonin receptor distribution. The halogenated phenethylamines, especially those containing bromine and iodine, proved especially valuable as radiolabeled probes.
+Several compounds documented in PiHKAL became important tools in neurochemical research, particularly for brain imaging and the study of [[serotonin]] receptor distribution. The halogenated phenethylamines, especially those containing bromine and iodine, proved especially valuable as radiolabeled probes.
 
 ## Radioisotope-Labeled DOB Studies
 
@@ -44,7 +44,7 @@ The N-substitution of 2,5-DMA where the 4-position is unsubstituted allows intro
 
 ### The 2,5-DMA Production Mystery
 
-Shulgin noted an intriguing mystery regarding DEA production quotas for 2,5-DMA. While most Schedule I drugs have quotas of "a gram of this, and a few grams of that" (presumably for analytical purposes), 2,5-DMA regularly shows requests for "quantities in the many tens of millions of grams" rivaling "medical mainstays such as codeine and morphine." Shulgin speculated this material might be used in the photographic industry, but had no confirmation.
+Shulgin noted an intriguing mystery regarding DEA production quotas for 2,5-DMA. While most Schedule I drugs have quotas of "a gram of this, and a few grams of that" (presumably for analytical purposes), 2,5-DMA regularly shows requests for "quantities in the many tens of millions of grams" rivaling "medical mainstays such as codeine and [[morphine]]." Shulgin speculated this material might be used in the photographic industry, but had no confirmation.
 
 ## Condensed-Structure Probes: Aminoindanes and Aminotetralins
 
@@ -56,7 +56,7 @@ This finding is significant because it suggests that rigidifying the flexible am
 
 ### The Muni-Metro Series
 
-The systematic exploration of chain length in the phenethylamine-amphetamine continuum led to the "Muni-Metro" concept (explained under METHYL-J):
+The systematic exploration of [[phenethylamine-chain-length-effects]] in the phenethylamine-amphetamine continuum led to the "Muni-Metro" concept (explained under METHYL-J):
 - H (homopiperonylamine) = 2-carbon chain phenethylamine
 - I = standard amphetamine (3-carbon chain)
 - J = 4-carbon chain
@@ -66,7 +66,7 @@ Each step in this progression was evaluated pharmacologically, providing a syste
 
 ## Animal Discrimination Studies
 
-Animal drug discrimination assays became an important bridge between in vitro receptor binding studies and human subjective effects. However, Shulgin expressed fundamental skepticism about extrapolating from animal behavior to human psychedelic experience. The core problem: validating the screening system requires assuming that the "known psychedelic" reference compounds are indeed psychedelic in humans -- knowledge that can only come from human trials.
+Animal drug discrimination assays became an important bridge between in vitro [[tihkal-receptor-binding-serotonin]] studies and human subjective effects. However, Shulgin expressed fundamental skepticism about extrapolating from animal behavior to human [[leary-psychedelic-experience-bardo-mapping]]. The core problem: validating the screening system requires assuming that the "known psychedelic" reference compounds are indeed psychedelic in humans -- knowledge that can only come from human trials.
 
 ## Related
 
@@ -97,15 +97,15 @@ The neurochemical probe work described in PiHKAL has had lasting implications fo
 
 ## Legacy and Modern Relevance
 
-The neurochemical probe research documented in PiHKAL laid groundwork that continues to inform contemporary neuroscience. Modern PET imaging studies of the serotonin system in living human brains rely on radiolabeled compounds that descend directly from the methodological traditions Shulgin helped establish. The 5-HT2A receptor maps that guide modern psychedelic research were constructed using the iodinated and brominated compounds described in PiHKAL. Furthermore, the systematic structure-activity relationship approach that characterized Shulgin's research program has been adopted and expanded by pharmaceutical companies developing targeted serotonergic drugs for psychiatric conditions including depression, anxiety, and schizophrenia. The open publication of detailed pharmacological observations, despite its controversial nature, created a knowledge base that continues to serve both basic science and drug development decades after its publication.
+The neurochemical probe research documented in PiHKAL laid groundwork that continues to inform contemporary neuroscience. Modern PET imaging studies of the serotonin system in living human brains rely on radiolabeled compounds that descend directly from the methodological traditions Shulgin helped establish. The 5-HT2A receptor [[maps]] that guide modern [[mckenna-suppression-psychedelic-research-lsd-therapy]] were constructed using the iodinated and brominated compounds described in PiHKAL. Furthermore, the systematic structure-activity relationship approach that characterized Shulgin's research program has been adopted and expanded by pharmaceutical companies developing targeted serotonergic drugs for psychiatric conditions including depression, anxiety, and schizophrenia. The open publication of detailed pharmacological observations, despite its controversial nature, created a knowledge base that continues to serve both basic science and drug development decades after its publication.
 
 ## Ethical Dimensions of Self-Experimentation
 
-The self-experimentation methodology central to PiHKAL raises important ethical questions that remain relevant today. Shulgin's approach was governed by strict personal rules: he would never synthesize a compound without first studying its structural relationship to known compounds, he would always begin with extremely low doses, and he would never share an untested compound with another person. These self-imposed protocols represented a personal ethics framework that differed from institutional review board processes but shared their fundamental goal of minimizing risk. The tension between the freedom to pursue knowledge through self-directed inquiry and the responsibility to prevent harm from spreading untested substances remains one of the central ethical questions in psychedelic science.
+The self-experimentation methodology central to PiHKAL raises important ethical questions that remain relevant today. Shulgin's approach was governed by strict personal rules: he would never synthesize a compound without first studying its [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to known compounds, he would always begin with extremely low doses, and he would never share an untested compound with another person. These self-imposed protocols represented a personal ethics framework that differed from institutional review board processes but shared their fundamental goal of minimizing risk. The tension between the freedom to pursue knowledge through self-directed inquiry and the responsibility to prevent harm from spreading untested substances remains one of the central ethical questions in psychedelic science.
 
 ## The Quantitative Relationship Between Dose and Effect
 
-A key contribution of the neurochemical probe approach was the systematic documentation of dose-response relationships across structurally related compounds. By testing a series of compounds at precisely measured doses and recording the resulting subjective experiences, Shulgin established quantitative relationships between molecular structure, receptor affinity, and experiential quality. This quantitative approach was unusual in the largely qualitative tradition of psychopharmacology at the time and prefigured the modern emphasis on quantitative pharmacology in drug development. The dose-response data in PiHKAL, while obtained through subjective reports rather than objective measurements, provide a reference framework that has informed subsequent clinical research on psychedelic dosing.
+A key contribution of the neurochemical probe approach was the systematic documentation of dose-response relationships across structurally related compounds. By testing a series of compounds at precisely measured doses and recording the resulting subjective experiences, Shulgin established quantitative relationships between molecular structure, receptor affinity, and experiential quality. This quantitative approach was unusual in the largely qualitative tradition of psychopharmacology at the time and prefigured the modern emphasis on quantitative pharmacology in drug development. The dose-response data in PiHKAL, while obtained through subjective reports rather than objective measurements, provide a reference framework that has informed subsequent [[hofmann-lsd-clinical-research-early-studies]] on psychedelic dosing.
 
 ## The Role of Phenethylamines in Contemporary Neuroscience
 

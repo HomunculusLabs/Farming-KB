@@ -13,7 +13,7 @@ updated: 2026-05-08
 sources:
   - Ullrich, S.E. (2011). Barley: Production, Improvement, and Uses. Wiley-Blackwell.
   - Newman, C.W. & Newman, R.K. (2008). Barley for Food and Health: Science, Technology, and Products. Wiley.
-  - FAO (2023). FAOSTAT production data for Hordeum vulgare.
+  - FAO (2023). FAOSTAT [[psilocybe-cubensis-miniculture-production-data-and-flush-longevity]] for Hordeum vulgare.
   - Shewry, P.R. (2007). "Improving the protein content and composition of cereal grain." Journal of Plant Science, 165(3), 598-606.
   - Baik, B.K. & Ullrich, S.E. (2008). "Barley for food: characteristics, improvement, and renewed interest." Journal of Cereal Science, 48(2), 233-259.
 ---
@@ -48,15 +48,15 @@ Plants grow 60–120 cm tall with flat leaf blades and a hollow culm. Barley is 
 
 ## Cultivation
 
-Barley is a cool-season crop adapted to a wide range of climates, from subarctic to subtropical. It has the shortest growing season among major cereals, maturing in 60–90 days in spring-sown varieties.
+Barley is a cool-season crop adapted to a wide range of climates, from subarctic to subtropical. It has the shortest [[savory-growing-season-and-non-growing-season-management]] among major cereals, maturing in 60–90 days in spring-sown varieties.
 
-Spring barley is sown in early spring and harvested in late summer. Winter barley is sown in autumn and overwinters in vegetative stage, providing earlier maturity and typically higher yields.
+Spring barley is sown in early spring and harvested in late summer. Winter barley is sown in autumn and overwinters in [[comparison-cannabis-vegetative-stage-vs-flowering-stage]], providing earlier maturity and typically higher yields.
 
 Optimal growing temperatures are 12–25 °C during the growing season. The crop is more drought-tolerant than wheat due to earlier maturity and deeper rooting in some cultivars.
 
 Seed rate varies from 80 to 350 seeds per square meter depending on row type and target plant population. Six-row varieties require higher seeding rates than two-row types.
 
-Major diseases include powdery mildew (Blumeria graminis f. sp. hordei), leaf rust (Puccinia hordei), and net blotch (Pyrenophora teres). Fungicide applications and resistant cultivars are primary management tools.
+Major diseases include [[cervantes-powdery-mildew-prevention-treatment]] (Blumeria graminis f. sp. hordei), leaf rust (Puccinia hordei), and net blotch (Pyrenophora teres). Fungicide applications and resistant cultivars are primary management tools.
 
 Russia, Germany, France, and Ukraine are the world's leading barley producers. Global production exceeds 140 million tonnes annually.
 
@@ -64,7 +64,7 @@ Russia, Germany, France, and Ukraine are the world's leading barley producers. G
 
 Whole barley grain contains approximately 12–13% protein, 2–3% fat, and 60–65% carbohydrates. It is a significant source of dietary fiber, particularly beta-glucan.
 
-Beta-glucan, a soluble fiber concentrated in the endosperm cell walls, comprises 3–7% of grain dry weight. This polysaccharode has demonstrated cholesterol-lowering and glycemic-regulating effects in clinical trials.
+Beta-glucan, a soluble fiber concentrated in the endosperm cell walls, comprises 3–7% of grain dry weight. This polysaccharode has demonstrated cholesterol-lowering and glycemic-regulating effects in [[mushroom-cancer-clinical-trials-overview]].
 
 Barley provides B vitamins (thiamin, niacin, pyridoxine) and minerals including selenium, iron, zinc, and magnesium. Hulled barley retains more nutritional value than pearl barley.
 
@@ -92,7 +92,7 @@ As a cover crop, barley provides rapid ground cover and suppresses weeds through
 
 Barley straw is widely used as animal bedding and forage. It is a primary feed grain for cattle, pigs, and poultry in regions where maize production is limited.
 
-In permaculture systems, barley contributes straw mulch and organic matter. The crop can be intercropped with legumes such as peas or vetch to fix nitrogen and improve total protein yield.
+In permaculture systems, barley contributes straw mulch and [[hamilton-composting-and-organic-matter-management]]. The crop can be intercropped with legumes such as peas or vetch to fix nitrogen and improve total protein yield.
 
 Hulled barley is used in traditional soups and stews across Northern Europe and the Middle East. Barley flour adds a distinctive nutty flavor to breads, flatbreads, and porridge.
 

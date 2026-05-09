@@ -10,10 +10,10 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Gugel, R.K. & Falk, K.C. (2006). " Agronomic and Seed Quality Evaluation of Canola." Canadian Journal of Plant Science, 86(4), 1061-1070.
+  - Gugel, R.K. & Falk, K.C. (2006). " Agronomic and solomon-seed-quality-and-germination-testing Evaluation of Canola." Canadian Journal of Plant Science, 86(4), 1061-1070.
   - Snowdon, R. et al. (2007). "Oilseed Rape." in Genome Mapping and Molecular Breeding in Plants, Vol. 2, Oilseeds, 55-114.
   - Chalhoub, B. et al. (2014). "Plant Genetics: Early Allopolyploid Evolution in the Post-Neolithic Brassica napus Oilseed Genome." Science, 345(6199), 950-953.
-  - FAOSTAT (2024). "Rapeseed Production Data." fao.org/faostat.
+  - FAOSTAT (2024). "Rapeseed [[psilocybe-cubensis-miniculture-production-data-and-flush-longevity]]." fao.org/faostat.
 ---
 
 ## Overview
@@ -25,7 +25,7 @@ The species is an amphidiploid (allotetraploid, 2n=38) formed by natural
 hybridization between *B. rapa* (2n=20) and *B. oleracea* (2n=18), likely
 in European gardens or fields during the Middle Ages.
 
-Canola oil, extracted from low-erucic-acid, low-glucosinolate cultivars, is one
+[[jadam-canola-oil-surfactant-method]], extracted from low-erucic-acid, low-glucosinolate cultivars, is one
 of the most widely used vegetable oils globally for cooking, biodiesel
 production, and industrial applications.
 
@@ -99,14 +99,14 @@ Optimal growing temperatures range from 15–22°C, with the crop showing
 moderate frost tolerance during the rosette stage of winter types.
 
 Seeding rates are 3–6 kg/ha for winter types and 6–10 kg/ha for spring types,
-with row spacing of 12–25 cm in modern intensive systems.
+with [[wide-row-spacing-intensive-gardening-comparison]] of 12–25 cm in modern intensive systems.
 
 Nitrogen fertilization requirements are high, typically 150–250 kg N/ha,
 with split applications to reduce leaching losses.
 
 Major diseases include blackleg (*Leptosphaeria maculans*), stem rot
 (*Sclerotinia sclerotiorum*), clubroot (*Plasmodiophora brassicae*), and
-light leaf spot (*Pyrenopeziza brassicae*).
+light [[jadam-canker-leaf-spot-pesticide]] (*Pyrenopeziza brassicae*).
 
 Yields range from 1.5–4.0 tonnes per hectare, with Western European systems
 achieving the highest average yields due to favorable climate and intensive

@@ -17,17 +17,17 @@ sources: [/Users/t3rpz/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremed
 
 In the context of organic mushroom farming and permaculture, *P. pulmonarius* serves multiple functions:
 
-* **Waste conversion:** Efficiently converts agricultural residues (rice straw, wheat straw, banana leaves, sugarcane bagasse, corn stover) into high-quality protein. Biological efficiency on straw substrates ranges from 60–120%.
+* **Waste conversion:** Efficiently converts agricultural residues (rice straw, wheat straw, banana leaves, sugarcane bagasse, corn stover) into high-quality protein. [[stamets-biological-efficiency-yield]] on straw substrates ranges from 60–120%.
 * **Spent substrate utilization:** After mushroom harvest, the spent substrate is partially decomposed, enriched with fungal enzymes, and serves as excellent organic fertilizer, animal feed supplement, or vermicomposting feedstock.
 * **Biological pest control:** *Pleurotus* species produce nematocidal compounds that suppress plant-parasitic nematodes, making them valuable in [[laccase]] (EC 1.10.3.2):** A multicopper oxidase that oxidizes phenolic and non-phenolic aromatic compounds. Laccase production is induced by copper ions, phenolic compounds, and various aromatic substrates. Peak activity of 10,000–50,000 U/L has been reported in optimized submerged cultures.
-* **Manganese peroxidase (MnP, EC 1.11.1.13):** An extracellular heme peroxidase that oxidizes Mn²⁺ to Mn³⁺, which then diffuses into lignin polymers to initiate oxidative degradation. MnP requires hydrogen peroxide as a co-substrate and Mn²⁺ as a mediator.
-* **Versatile peroxidase (VP):** A hybrid enzyme combining catalytic properties of both MnP and lignin peroxidase, capable of oxidizing phenolic and non-phenolic compounds, Mn²⁺, and various aromatic dyes.
+* **[[fungal-manganese-peroxidase-remediation]] (MnP, EC 1.11.1.13):** An extracellular heme peroxidase that oxidizes Mn²⁺ to Mn³⁺, which then diffuses into lignin polymers to initiate oxidative degradation. MnP requires [[cervantes-hydrogen-peroxide-sterilization]] as a co-substrate and Mn²⁺ as a mediator.
+* **[[singh-versatile-peroxidase-vp-multifunctional]] (VP):** A hybrid enzyme combining catalytic properties of both MnP and lignin peroxidase, capable of oxidizing phenolic and non-phenolic compounds, Mn²⁺, and various aromatic dyes.
 
 ### Pollutant Degradation
 
 * **Dye decolorization:** Efficiently decolorizes synthetic dyes including azo dyes (Reactive Black 5, Reactive Orange 16), anthraquinone dyes (Remazol Brilliant Blue R), and triphenylmethane dyes. Decolorization efficiencies of 70–95% have been achieved within 5–14 days in both solid-state and liquid cultures.
 * **Pharmaceutical degradation:** Degrades antibiotics (tetracycline, sulfonamides), non-steroidal anti-inflammatory drugs (diclofenac, ibuprofen), and endocrine-disrupting compounds (bisphenol A) from wastewater.
-* **Polycyclic aromatic hydrocarbon (PAH) remediation:** Mineralizes 3- and 4-ring PAHs from contaminated soil through cometabolic processes mediated by laccase and MnP.
+* **[[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbon (PAH) remediation:** Mineralizes 3- and 4-ring PAHs from contaminated soil through cometabolic processes mediated by laccase and MnP.
 * **Pesticide degradation:** Degrades organochlorine and organophosphate pesticides through oxidative pathways.
 
 ## Cultivation Practices
@@ -62,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

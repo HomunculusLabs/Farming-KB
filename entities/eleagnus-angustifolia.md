@@ -23,7 +23,7 @@ sources:
   - Keshavarzi, M. et al. (2019). "A review on phytochemistry and pharmacological effects of Elaeagnus angustifolia." J Pharmacy & Bioallied Sciences, 11(4), 388-393.
   - Balandari, A. et al. (2020). "Nutritional and therapeutic properties of E. angustifolia fruits." Food Science & Nutrition, 8(5), 2197-2213.
   - Shabani, L. et al. (2020). "Antioxidant and anti-inflammatory activities of E. angustifolia." Pharmaceutical Biology, 48(8), 923-927.
-  - Toogood, S. & Jefferson, L. (2021). "Nitrogen fixation by Elaeagnus in temperate agroforestry." Agroforestry Systems, 95(2), 501-515.
+  - Toogood, S. & Jefferson, L. (2021). "[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] by Elaeagnus in temperate agroforestry." Agroforestry Systems, 95(2), 501-515.
   - Sheppard, A.W. et al. (2006). "A review of the biology and management of invasive Elaeagnus." Weed Research, 46(4), 261-273.
 ---
 
@@ -34,10 +34,10 @@ sources:
 *Eleagnus angustifolia*, known as Russian olive or oleaster, is a deciduous shrub or small
 tree in the family Elaeagnaceae. Native to southern Europe and western and central Asia, it
 has been widely planted as an ornamental, windbreak, and soil-stabilization tree, and has
-naturalized extensively across North America where it is invasive in western riparian zones.
+naturalized extensively across [[psilocybin-north-america-pacific-northwest]] where it is invasive in western riparian zones.
 
 In permaculture, Russian olive is valued for **actinorhizal nitrogen fixation** (symbiosis
-with *Frankia* bacteria), drought tolerance, windbreak utility, and edible fruit. The
+with *Frankia* bacteria), [[dighton-fungal-drought-tolerance-plant-water-relations]], windbreak utility, and edible fruit. The
 silvery berries are rich in vitamins, antioxidants, and fatty acids, with a long history of
 use in Persian and Central Asian traditional medicine.
 
@@ -123,12 +123,12 @@ Does not tolerate waterlogging or deep shade.
 - **Nitrogen fixation:** *Frankia* symbiosis fixes 20–60 kg N/ha/year. Nodules active spring
   through autumn, improving soil for companion plants.
 - **Windbreak:** Dense, thorny, drought-resistant barrier at 4–7 m height.
-- **Erosion control:** Extensive roots stabilize slopes, gullies, and riparian banks.
+- **[[permplant-willows-salix-erosion-control-fodder]]:** Extensive roots stabilize slopes, gullies, and riparian banks.
 - **Food forest support:** Provides nitrogen, shelter, and pollinator resources for understory
   trees and berries. Early spring flowers are a major nectar source.
 - **Wildlife:** Fruit consumed by birds (waxwings, robins), deer, small mammals. Thorny
   thickets provide nesting cover.
-- **Salt tolerance:** Rare N-fixing tree for saline/alkaline soils; reclamation species.
+- **[[fungal-salt-tolerance-and-ion-homeostasis]]:** Rare N-fixing tree for saline/alkaline soils; reclamation species.
 - **Biomass:** Fast coppice regeneration for fuel in marginal lands.
 
 ## Related Species
@@ -137,8 +137,10 @@ Does not tolerate waterlogging or deep shade.
 - *E. multiflora* (cherry elaeagnus) — Chinese species, larger sweeter fruit; cultivated
   commercially in China.
 - *E. commutata* (silverberry) — NA native, silver leaves, edible fruit, Zone 2 hardy.
-- *Hippophae rhamnoides* (sea buckthorn) — related Elaeagnaceae; superior fruit and oil.
+- *Hippophae rhamnoides* ([[comparison-sea-buckthorn-vs-aronia]]) — related Elaeagnaceae; superior fruit and oil.
 
 ## See Also
 
 - [[eleagnus-umbellata-entity]] · [[black-locust-entity]] · [[honey-locust-entity]]
+
+- [[guadua-angustifolia]]

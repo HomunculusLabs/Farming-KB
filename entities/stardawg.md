@@ -19,7 +19,7 @@ sources:
   - AllBud (2023). "Stardawg Strain Review." AllBud.com.
   - Smokecartel Staff (2023). "Stardawg: A Complete Guide." Smoke Cartel.
   - Mowgli H., Page J.E. (2021). "Cannabis Chemotaxonomy: Chemovars and Their Terpenoid Profile." Cannabis and Cannabinoid Research, 6(1), 56-66.
-  - ElSohly M.A. et al. (2016). "Changes in Cannabis Potency Over the Last Two Decades." Biological Psychiatry, 79(7), 613-619.
+  - ElSohly M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] Over the Last Two Decades." Biological Psychiatry, 79(7), 613-619.
 ---
 
 # Stardawg
@@ -64,7 +64,7 @@ The flavor largely mirrors the aroma, delivering a harsh diesel taste on the inh
 
 Stardawg's terpene profile is dominated by pungent, gassy terpenes characteristic of the Chemdawg lineage:
 
-- **Caryophyllene** — 30–45%: Peppery, spicy, contributes to the "gas" quality and provides anti-inflammatory effects via CB2 receptor binding.
+- **Caryophyllene** — 30–45%: Peppery, spicy, contributes to the "gas" quality and provides anti-inflammatory effects via CB2 [[tihkal-receptor-binding-serotonin]].
 - **Myrcene** — 20–35%: Earthy, musky base note; sedative properties that contribute to the indica-dominant body effects.
 - **Limonene** — 8–15%: Citrus, lemon notes; mood elevation and stress relief. Counterbalances the heavier terpenes.
 - **Humulene** — 5–10%: Woody, earthy; contributes to the pine aroma and has anti-inflammatory properties.
@@ -79,7 +79,7 @@ The high caryophyllene content is distinctive and sets Stardawg apart from many 
 - **CBG:** 0.3–0.8%
 - **CBC:** Trace amounts
 
-Stardawg is a high-THC, low-CBD strain. The negligible CBD content means its effects are driven almost entirely by THC and the terpene entourage. CBG levels are notable compared to many modern strains, potentially contributing to anti-anxiety and anti-inflammatory effects.
+Stardawg is a high-THC, low-CBD strain. The negligible CBD content means its effects are driven almost entirely by THC and the [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]. CBG levels are notable compared to many modern strains, potentially contributing to anti-anxiety and anti-inflammatory effects.
 
 ## Effects
 
@@ -96,13 +96,13 @@ At moderate doses, Stardawg is functional and socially engaging. At higher doses
 
 - **Flowering time:** 9–10 weeks indoors
 - **Yield:** Moderate to high (350–450 g/m² indoors)
-- **Difficulty:** Intermediate; requires attention to nutrient management and odor control
+- **Difficulty:** Intermediate; requires attention to [[green-cannabis-grow-bible-nutrient-management-ppm]] and odor control
 - **Preferred climate:** Temperate to warm; performs well indoors and in Mediterranean climates
 - **Height:** Medium; moderate stretching during early flowering
 
-Stardawg responds well to training techniques including SCROG, LST, and topping.
+Stardawg responds well to [[cannabis-training-techniques-comparison]] including SCROG, LST, and topping.
 The plants produce strong odors throughout flowering, making effective carbon filtration essential for indoor cultivation.
-The strain is moderately resistant to mold and pests but requires careful humidity management during late flowering due to dense bud structure.
+The strain is moderately resistant to mold and pests but requires careful [[stamets-cultivator-humidity-management-fogging-systems]] during late flowering due to dense bud structure.
 
 ## Medical Applications
 

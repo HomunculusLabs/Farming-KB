@@ -1,9 +1,10 @@
 ---
-title: Fukuoka Orchard Management Without Pruning
+title: Fukuoka fukuoka-orchard-management-detailed Without Pruning
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 type: concept
 tags: [fukuoka, orchard, pruning]
@@ -23,7 +24,7 @@ He challenged the conventional assumption that fertilizer absorption by roots ca
 
 ## Orchard Management Without Intervention
 
-Fukuoka's own citrus orchard on a hillside overlooking the Inland Sea demonstrated his alternative approach. Over many years, he developed a [[fukuoka-white-clover-cover-crop-system]] with no weeding, tillage, or fertilizer
+Fukuoka's own [[fukuoka-citrus-orchard-establishment-bare-hillside]] on a hillside overlooking the Inland Sea demonstrated his alternative approach. Over many years, he developed a [[fukuoka-white-clover-cover-crop-system]] with no weeding, tillage, or fertilizer
 
 He found that "weeding in orchards is not only useless, it is positively harmful." The [[fukuoka-ground-cover-strategy]] that he also applied to grain fields.
 
@@ -41,15 +42,15 @@ Fukuoka's orchard was not simply a place for growing fruit. It became what he ca
 
 ### Fruit Trees and Crop Rotation
 
-Although fruit trees are continuously cultivated perennials, Fukuoka addressed the associated problems through the [[fukuoka-philosophy-of-non-intervention]] asks: what if the farmer never disrupted the natural order in the first place?
+Although fruit trees are continuously cultivated perennials, Fukuoka addressed the associated problems through the [[fukuoka-philosophy-of-non-intervention]] asks: what if the farmer never disrupted the [[fukuoka-textdoc-natural-order-food-chain-unity]] in the first place?
 
 ## How the Orchard Reflects the Farm
 
-Fukuoka's orchard management mirrors his grain production methods in principle. In both cases, he replaced human labor and chemical inputs with natural processes:
+Fukuoka's orchard management mirrors his [[fukuoka-no-till-grain-production-method]] methods in principle. In both cases, he replaced human labor and chemical inputs with natural processes:
 - Ground cover replaces weeding and fertilization
-- Biodiversity replaces pest control
+- Biodiversity replaces [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
 - No pruning parallels no tillage
-- Returning all organic matter to the soil replaces composting
+- Returning all [[hamilton-composting-and-organic-matter-management]] to the soil replaces composting
 
 The orchard thus becomes not a managed monoculture but "an organically integrated community" that, if run as a single microcosm, can support human self-sufficiency.
 
@@ -79,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

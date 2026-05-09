@@ -12,13 +12,13 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Field Guide I for Actively Aerated Compost Tea, Dr. Elaine Ingham, Soil Foodweb Inc.
+Source: The Field Guide I for Actively [[actively-aerated-compost-tea-aact-brewing]] Tea, Dr. Elaine Ingham, Soil Foodweb Inc.
 
 Ingham provides detailed guidance on how and when to apply AACT, including application rates, timing, and strategies for different situations.
 
 ## Application Goals (Priority Order)
 
-1. **First goal**: Disease suppression — establish beneficial organisms that out-compete pathogens on leaf surfaces and in soil
+1. **First goal**: [[aact-disease-suppression-mechanisms-ingham]] — establish beneficial organisms that out-compete pathogens on leaf surfaces and in soil
 2. **Second goal**: Improve soil tilth, decrease water use, improve aeration — build soil structure through biological activity
 3. **Third goal**: Improve plant nutrition — cycle nutrients through the foodweb
 
@@ -37,7 +37,7 @@ Ingham provides detailed guidance on how and when to apply AACT, including appli
 
 ### Timing
 - Start applications two weeks before bud break
-- Usually see overnight improvement in plant color and disease prevention
+- Usually see overnight improvement in plant color and [[cervantes-pest-disease-prevention-overview]]
 - If plants are already healthy, dramatic changes are less apparent
 
 ## Application Schedule
@@ -79,7 +79,7 @@ Ingham provides detailed guidance on how and when to apply AACT, including appli
 
 - Wait until soil is warm enough for organisms to grow
 - If tea is added straight to sand with no organic matter, organisms don't survive (no food resources)
-- VAM (vesicular arbuscular mycorrhizal) inoculation: mix tea and VAM into pancake-batter consistency, dip roots before planting
+- VAM (vesicular [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]]) inoculation: mix tea and VAM into pancake-batter consistency, dip roots before planting
 - Do NOT use gels for root dip — they smother roots and prevent air passage
 
 ## Foliar Feeding Mechanism
@@ -113,7 +113,7 @@ Plants control what nutrients they take up through leaves:
 
 ### With Inorganic Fertilizer
 - If used, apply AACT immediately after
-- Add microbial food to the chemical first to reduce osmotic shock
+- Add microbial food to the chemical first to reduce [[ingham-antibiotics-osmotic-shock-compost-tea]]
 - Inorganic chemicals are salts that take water away from organisms and plants
 - Above 100 lbs/acre of inorganic fertilizer becomes problematic for microorganisms
 
@@ -144,4 +144,4 @@ Plants control what nutrients they take up through leaves:
 See also: [[aact-brewing-ingredients-ingham]], [[soil-food-web-structure]]
 
 ## Merged: Holmgren: Ecosystem Services Water Purification
-updated: 2026-04-18 Holmgren's treatment of ecosystem services bridges the gap between [[holmgren-produce-no-waste-detailed]], showing how natural systems provide free services that conventional engineering tries to replicate at enormous energy cost. Specific non-consuming services from plants and animals are part of a larger field of environmental or ecosystem services operating at large, even global, scale. See also [[holmgren-mineral-fertilizers-soil-building]]. Related: [[aquaculture-in-permaculture]] Source: David Holmgren, Permaculture: Principles and Pathways Beyond Sustainability (2002), Principle 5: Use and Value Renewable Resources and Services, pp. Related: [[constructed-wetlands-wastewater-treatment]]
+updated: 2026-04-18 Holmgren's treatment of ecosystem services bridges the gap between holmgren-produce-no-waste-detailed, showing how natural systems provide free services that conventional engineering tries to replicate at enormous energy cost. Specific non-consuming services from plants and animals are part of a larger field of environmental or ecosystem services operating at large, even global, scale. See also holmgren-mineral-fertilizers-soil-building. Related: aquaculture-in-permaculture Source: David Holmgren, Permaculture: Principles and Pathways Beyond Sustainability (2002), Principle 5: Use and [[permaculture-principle-use-and-value-renewable-resources]] Resources and Services, pp. Related: [[constructed-wetlands-wastewater-treatment]]

@@ -36,8 +36,8 @@ become one of the most widespread and recognizable weeds on Earth, found on ever
 continent including Antarctica. Despite its reputation as a garden weed, chickweed
 is a highly nutritious edible plant with significant medicinal properties. Its mild
 flavor, tender texture, and year-round availability in many climates make it a
-staple for foragers. In permaculture systems, it serves as a living mulch,
-nutrient cycler, and beneficial insect habitat.
+staple for foragers. In permaculture systems, it serves as a [[comparison-living-mulch-vs-cover-crops]],
+nutrient cycler, and [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] habitat.
 
 ## Taxonomy
 
@@ -106,7 +106,7 @@ nutrient cycler, and beneficial insect habitat.
   quickly and retains texture; similar to spinach when wilted
 - **Juice:** Fresh plant juice is a traditional spring tonic; can be added to
   smoothies and green drinks
-- **Poultry forage:** Named for its popularity as chicken and game bird forage;
+- **[[free-range-poultry-forage-design-mollison]]:** Named for its popularity as chicken and game bird forage;
   one of the most nutritious greens for domestic poultry
 - **Harvesting tips:** Best harvested before flowering for tenderest texture;
   the entire above-ground plant is edible; avoid areas treated with herbicides
@@ -115,15 +115,15 @@ nutrient cycler, and beneficial insect habitat.
 
 - **Living mulch:** Dense mat-forming habit suppresses weed germination and
   retains soil moisture while allowing crop seedlings to push through
-- **Nutrient cycling:** Shallow roots capture surface nutrients and draw them up;
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]:** Shallow roots capture surface nutrients and draw them up;
   decomposing biomass returns minerals to the soil surface
 - **Soil indicator:** Thrives in nitrogen-rich, cultivated soils; presence
   indicates fertile ground
 - **Beneficial insect habitat:** Tiny flowers attract minute pirate bugs,
   parasitic wasps, syrphid flies, and other beneficial predators
-- **Poultry integration:** Excellent ground cover in chicken forage systems;
+- **Poultry integration:** Excellent [[fukuoka-citrus-orchard-ground-cover-cultivation]] in chicken forage systems;
   chickens actively seek it out and will help control spread while fertilizing
-- **Self-seeding:** Reliable self-seeder that fills bare ground quickly;
+- **Self-seeding:** Reliable self-seeder that fills [[savory-bare-ground-and-soil-exposure]] quickly;
   excellent pioneer species for disturbed soils and new garden beds
 - **Cold tolerance:** Survives light frosts; available for foraging year-round
   in mild climates

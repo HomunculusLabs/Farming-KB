@@ -23,7 +23,7 @@ Heat-induced vasodilation increases blood flow to the respiratory mucosa, enhanc
 
 The basic procedure involves placing dried or fresh herbs in a large bowl, pouring boiling water over them, and inhaling the steam with the head draped by a towel to create a tent. A typical treatment lasts 5-15 minutes. The water should be freshly boiled but allowed to cool for 30-60 seconds to avoid steam burns to the face and nasal passages.
 
-Essential oils can be added to steaming water (1-3 drops maximum) as a more concentrated alternative to whole herbs. The essential oil should be added after the water has been poured and stirred briefly. A single drop of eucalyptus or peppermint oil provides a more potent treatment than several tablespoons of the dried herb, but also carries greater risk of irritation at higher concentrations.
+[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] can be added to steaming water (1-3 drops maximum) as a more concentrated alternative to whole herbs. The essential oil should be added after the water has been poured and stirred briefly. A single drop of eucalyptus or peppermint oil provides a more potent treatment than several tablespoons of the dried herb, but also carries greater risk of irritation at higher concentrations.
 
 For children, direct steam tent inhalation is not recommended due to burn risk. Alternatives include running a hot shower with herbs placed on the shower floor (the steam room effect), using a commercial facial steamer with appropriate temperature controls, or placing a bowl of steaming herb water in a child's bedroom to create ambient herbal steam.
 
@@ -55,7 +55,7 @@ Steam also rehydrates dried mucous membranes — a common problem in heated indo
 - [[herbal-formulation-principles]]
 - [[herbal-baths-and-hydrotherapy]]
 - [[adaptogenic-herbs-guide]] for comprehensive adaptogen selection guidance
-- [[valerian-growing-guide]] for cultivating key medicinal herbs at home
+- [[valerian-growing-guide]] for cultivating key [[permaculture-plants-medicinal-herbs-healing]] at home
 - [[adaptogenic-herbs-overview]] for detailed adaptogen information.
 
 ## Primary Sleep Herbs
@@ -66,7 +66,7 @@ Valerian is prepared as a tincture, capsule, or tea. The tincture is the most re
 
 Chamomile (Matricaria recutita) is a gentle nervine and mild hypnotic that is one of the safest sleep herbs available. Its apigenin content binds to benzodiazepine receptors in the brain, producing a mild anxiolytic and sedative effect. Chamomile is particularly effective for sleep difficulties related to anxiety, stress, or digestive discomfort. A cup of strong chamomile tea before bed is a simple and effective sleep aid.
 
-Chamomile's safety profile makes it suitable for children, the elderly, and long-term use. Its anti-inflammatory properties also soothe the digestive tract, making it ideal for people whose sleep is disrupted by indigestion or reflux. See [[withania-somnifera|Withania somnifera]]) is an adaptogenic herb that supports sleep indirectly by reducing cortisol levels and modulating the stress response. Clinical trials have shown that ashwagandha improves sleep quality and reduces insomnia, particularly in people with stress-related sleep disturbance. Ashwagandha is best taken in the morning rather than at bedtime, as its effects develop over time through stress hormone normalization. See [[ashwagandha-growing-guide]] for cultivation) address the underlying pattern.
+Chamomile's [[cannabis-safety-profile-and-overdose-risk]] makes it suitable for children, the elderly, and long-term use. Its anti-inflammatory properties also soothe the digestive tract, making it ideal for people whose sleep is disrupted by indigestion or reflux. See [[withania-somnifera|Withania somnifera]]) is an adaptogenic herb that supports sleep indirectly by reducing cortisol levels and modulating the [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]]. [[mushroom-cancer-clinical-trials-overview]] have shown that ashwagandha improves sleep quality and reduces insomnia, particularly in people with stress-related sleep disturbance. Ashwagandha is best taken in the morning rather than at bedtime, as its effects develop over time through stress hormone normalization. See [[ashwagandha-growing-guide]] for cultivation) address the underlying pattern.
 
 Timing of administration is important. Sedative herbs should be taken 30 to 60 minutes before the desired sleep time. Relaxing teas can be consumed one to two hours before bed as part of a wind-down routine. Adaptogens are taken in the morning for their daytime stress-modulating effects. Essential oils can be diffused continuously through the evening.
 
@@ -78,6 +78,6 @@ People who have difficulty falling asleep (sleep onset insomnia) benefit most fr
 
 People who fall asleep easily but wake during the night (sleep maintenance insomnia) may benefit from nervine tonics taken earlier in the evening, combined with adaptogens taken in the morning to address the underlying cortisol dysregulation that causes early-morning awakening. Ashwagandha, skullcap, and lemon balm address this pattern.
 
-People with restless, non-restorative sleep may benefit from herbs that reduce pain and muscle tension (passionflower, cramp bark, wild lettuce) alongside nervine support. Addressing underlying causes such as chronic pain, sleep apnea, or medication side effects is essential for this pattern.
+People with restless, non-restorative sleep may benefit from herbs that reduce pain and muscle tension (passionflower, cramp bark, wild lettuce) alongside nervine support. Addressing underlying causes such as [[cannabis-chronic-pain-management]], sleep apnea, or medication side effects is essential for this pattern.
 
 ## Lifestyle and Sleep Hygiene

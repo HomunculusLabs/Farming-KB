@@ -58,7 +58,7 @@ and many of the bioactive properties of freshly crushed garlic (*[[bacillus-subt
 - Stimulates macrophage activity, NK cell cytotoxicity, and T-lymphocyte proliferation
 - Low concentrations stimulate pro-inflammatory cytokines (TNF-α, IL-1β) while higher doses suppress
   excessive inflammation via NF-κB modulation
-- Aged garlic extract reduced cold/flu incidence by 58–63% in clinical trials
+- Aged [[ginger-garlic-extract-bionutrient]] reduced cold/flu incidence by 58–63% in [[mushroom-cancer-clinical-trials-overview]]
 
 ## Pharmacokinetics
 
@@ -81,9 +81,9 @@ approximately 4–10 hours depending on the metabolite.
 ## Agricultural and Permaculture Applications
 
 Garlic serves as a multifunctional companion plant in permaculture and organic agriculture:
-- **Pest deterrence:** Foliar sprays repel aphids, cabbage loopers, spider mites, and Japanese beetles;
+- **[[foliar-pest-deterrence-aact-mechanisms]]:** [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] repel aphids, cabbage loopers, [[cervantes-spider-mites-identification-control]], and Japanese beetles;
   effective as broad-spectrum insecticide at 1–2% extract concentrations
-- **Fungicidal properties:** Soil drenches suppress Fusarium, Pythium, and Rhizoctonia; seed treatment
+- **Fungicidal properties:** Soil drenches suppress Fusarium, Pythium, and Rhizoctonia; [[jadam-seed-treatment-and-nursery-management]]
   reduces damping-off by 40–60%
 - **[[candida-albicans]]
 

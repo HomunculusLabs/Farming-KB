@@ -1,5 +1,5 @@
 ---
-title: "KNF FMC Floor and Temperature Control"
+title: "KNF knf fmc floor and temperature control and Temperature Control"
 created: 2026-04-28
 tags: [knf, natural-farming, fmc, compost, fermentation, soil-health]
 date: 2026-04-25
@@ -10,7 +10,7 @@ type: concept
 
 # KNF FMC Floor and Temperature Control
 
-Fermented Mixed Compost (FMC) is a core [[knf-input-storage-guidelines]].
+[[cho-fermented-mixed-compost-methods]] Compost (FMC) is a core [[knf-input-storage-guidelines]].
 
 ## FMC Overview
 
@@ -23,7 +23,7 @@ is completely different due to the use of [[knf-input-storage-guidelines]] for s
 
 ## Covering and Protection
 
-Cover the FMC heap with rice straw mat to:
+Cover the FMC heap with [[fukuoka-rice-straw-mulch-central-technique]] mat to:
 - Control moisture evaporation
 - Maintain stable temperature
 - Control the propagation of microorganisms
@@ -59,7 +59,7 @@ ordinary compost.
 
 ## See Also
 
-- [[indigenous-microorganisms-imo]] — IMO collection and preparation
+- [[indigenous-microorganisms-imo]] — [[bahay-kubo-imo-collection-and-preparation]] and preparation
 - [[cho-seawater-and-fermented-seawater]] — seawater inputs in KNF
 ## Practical Considerations
 
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

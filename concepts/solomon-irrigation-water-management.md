@@ -14,11 +14,11 @@ Source: Steve Solomon, "Gardening When It Counts" (2005)
 
 ## The Water Problem with Intensive Gardening
 
-Solomon's central critique of intensive raised-bed methods is their water dependence. Closely spaced plants in raised beds exhaust available moisture in days. During hot weather, intensive beds require daily watering. When water is scarce or must be hauled, this becomes unsustainable. The original "Grow Biointensive" method from Alan Chadwick and John Jeavons was developed in cool, foggy Pacific coastal climates where water was rarely limiting. These methods fail in drier or hotter regions.
+Solomon's central critique of intensive raised-bed methods is their water dependence. Closely spaced plants in raised beds exhaust available moisture in days. During hot weather, intensive beds require daily watering. When water is scarce or must be hauled, this becomes unsustainable. The original "[[jeavons-grow-biointensive-method-overview]]" method from Alan Chadwick and John Jeavons was developed in cool, foggy Pacific coastal climates where water was rarely limiting. These methods fail in drier or hotter regions.
 
 ## Historical Perspective: Dry Farming
 
-Solomon draws on early 20th-century agronomist John Widstoe's work on dry farming in Utah. Widstoe found that properly spaced plants on fallow soil could produce full yields with no irrigation at all, relying entirely on subsoil moisture reserves. The key was wide spacing: each plant had a large root zone to mine for water, and capillary action from subsoil continuously recharged the root zone.
+Solomon draws on early 20th-century agronomist John Widstoe's work on dry farming in Utah. Widstoe found that properly spaced plants on fallow soil could produce full yields with no irrigation at all, relying entirely on subsoil moisture reserves. The key was [[solomon-wide-spacing-versus-intensive-gardening-debate]]: each plant had a large root zone to mine for water, and capillary action from subsoil continuously recharged the root zone.
 
 ## How Much Water Does Soil Hold?
 
@@ -41,7 +41,7 @@ Water loss per day in summer varies by climate:
 
 If drought threatens, Solomon's primary response is NOT irrigation but spacing adjustment. In every row, harvest every second plant (carrot, beet, whatever is ready). This instantly reduces moisture consumption while doubling the capillary moisture available to each survivor. The result may not be losing half the crop -- by preventing moisture stress, you may harvest more total food.
 
-In severe drought without irrigation, maximum spacing for corn is ~16 sq ft per plant (4-foot centers), imitating traditional Native American hill planting.
+In severe drought without irrigation, maximum spacing for corn is ~16 sq ft per plant (4-foot centers), imitating traditional [[halpern-sacramental-peyote-and-native-american-church]] hill planting.
 
 ## Capillarity and Soil Moisture Movement
 
@@ -60,7 +60,7 @@ The method:
 4. For sandy soils: 2.5 gallons (10 liters) every 10 days
 5. Water should sink straight down, not spread across the surface
 
-Results can be dramatic: fertigated winter squash yielded 50 lbs (22 kg) per plant versus 20 lbs (9 kg) without. The fertilizer solution uses manure tea, compost tea, fish emulsion (1:100 dilution), or soluble organic fertilizer.
+Results can be dramatic: fertigated winter squash yielded 50 lbs (22 kg) per plant versus 20 lbs (9 kg) without. The fertilizer solution uses manure tea, compost tea, [[solomon-foliar-feeding-fish-emulsion-and-kelp]] (1:100 dilution), or soluble [[complete-organic-fertilizer-cof-recipe-solomon]].
 
 Making manure/compost tea:
 - Fill a barrel with water, add a bucketful of fresh manure or compost
@@ -70,7 +70,7 @@ Making manure/compost tea:
 
 ## Why Fertigation Works
 
-Crop scientists of Widstoe's era found it took twice as much water to produce a given weight of dry plant material on infertile soil as on fertile soil. William Albrecht showed that much apparent drought damage is actually nutrient deficiency caused by dry surface soil when plant nutrients are located only in the plowed surface layer. Fertigation places nutrients in the subsoil where roots are foraging.
+Crop scientists of Widstoe's era found it took twice as much water to produce a given weight of dry plant material on infertile soil as on fertile soil. William Albrecht showed that much apparent drought damage is actually [[cannabis-grow-nutrient-deficiency-problem-solving]] caused by dry surface soil when plant nutrients are located only in the plowed surface layer. Fertigation places nutrients in the subsoil where roots are foraging.
 
 ## Practical Water Management Guidelines
 

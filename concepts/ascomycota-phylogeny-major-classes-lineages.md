@@ -1,5 +1,5 @@
 ---
-title: Ascomycota Phylogeny - Major Classes and Lineages
+title: Ascomycota Phylogeny - ascomycota phylogeny major classes lineages and Lineages
 created: 2026-04-26
 tags:
   - ascomycota
@@ -43,7 +43,7 @@ display filamentous growth or produce ascophores.
 The Euascomycetes is the largest class of Ascomycota and arguably
 the most successful group of fungi, including parasites, pathogens,
 and mutualists of plants, algae, and animals, as well as saprobes
-able to decompose virtually all known organic substrata. The [[fungal-decomposition|fungal decomposition]] pathways used by these saprobes are critical to global carbon cycling, alongside [[pezizales-discomycete-ascomycete-diversity]], with
+able to decompose virtually all known organic substrata. The [[fungal-decomposition|fungal decomposition]] pathways used by these saprobes are critical to [[dighton-fungi-elevated-co2-global-carbon-cycling]] cycling, alongside [[pezizales-discomycete-ascomycete-diversity]], with
 macroscopic forest species such as Morchella, Gyromitra, and
 Helvella.
 
@@ -54,7 +54,7 @@ and systemic pathogens. [[human-fungal-pathogens|fungal pathogenicity]] are acti
 
 ## Convergent Evolution
 
-[[fungal-diversity-and-mushroom-categories|diversity of fungi]] revealed by
+diversity of fungi revealed by
 modern methods continues to challenge traditional groupings. Morphological traits of ascomata
 have been repeatedly lost and gained during the evolutionary
 history of the group. Convergent evolution in ascus morphology

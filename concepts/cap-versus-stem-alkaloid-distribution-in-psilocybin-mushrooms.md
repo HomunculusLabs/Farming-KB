@@ -1,5 +1,5 @@
 ---
-title: Cap Versus Stem Alkaloid Distribution in Psilocybin Mushrooms
+title: psilocybe-cubensis-cap-versus-stem-alkaloid-distribution cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains Distribution in forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc
 created: 2026-04-28
 tags:
   - psilocybin
@@ -36,7 +36,7 @@ partitioned between morphological structures.
 Perhaps the most striking finding was the asymmetric localization of
 [[psilocin]] in first-flush caps across most
 strains carries significant implications for understanding alkaloid
-metabolism in basidiomycete fungi. Psilocin is the dephosphorylated,
+metabolism in [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]]. Psilocin is the dephosphorylated,
 pharmacologically active metabolite of psilocybin. Its absence in caps
 during early fruiting suggests several possibilities:
 
@@ -50,7 +50,7 @@ degraded or oxidized in cap tissue more rapidly than in stems.
 
 The consistently higher psilocybin concentration in caps aligns with the
 broader understanding that the cap is the primary site of spore production
-and metabolic activity. The pileus contains the greatest density of
+and [[arbuscule-isolation-metabolic-activity-assays]]. The pileus contains the greatest density of
 actively dividing cells, the gill tissue responsible for
 basidiospore formation, and the highest concentration of organelles
 associated with secondary metabolism.
@@ -76,7 +76,7 @@ first-flush data from three strains suggests it may vary genetically.
 The analytical approach was rigorous for its era:
 
 - **Separation**: Caps and stems were manually dissected from each
-  fruiting body and analyzed separately
+  [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] and analyzed separately
 - **Extraction**: Standard solvent extraction protocols were followed
   for both tissue types
 - **Quantification**: Reversed-phase HPLC with a Hewlett-Packard 8380A
@@ -100,7 +100,9 @@ samples) far exceeds the cap-versus-stem difference. Flush number and
 growing conditions are far more significant determinants of potency than
 ## Related
 
+- [[global-distribution-psilocybin-mushrooms]]
+
 - [[emcdda-smartshop-trade-online-distribution-mushrooms]]
 
-- [[bigwood-beug-psilocybin-psilocin-variation-analysis]] for the full
+- bigwood-beug-psilocybin-psilocin-variation-analysis for the full
   flush-by-flush variation data

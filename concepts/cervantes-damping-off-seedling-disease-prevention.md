@@ -1,11 +1,12 @@
 ---
-title: "Cervantes - Damping-Off and Seedling Disease Prevention"
+title: "Cervantes - Damping-Off and Seedling cervantes-pest-disease-prevention-overview"
 created: 2026-04-26
 tags: [cannabis, seedling-disease, damping-off, fungal-disease, pythium]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -43,10 +44,10 @@ exist:
 - Avoid benomyl fungicide soil drenches because they kill
   beneficial organisms that might otherwise suppress
   pathogens
-- Hydrogen peroxide diluted in water can help sterilize
+- [[cervantes-hydrogen-peroxide-sterilization]] diluted in water can help sterilize
   the growing medium surface
 
-The most effective approach combines sterile technique,
+The most effective approach combines [[cultivator-sterile-technique-and-agar-culture]],
 proper moisture management, and biological preventative
 treatments. Once damping-off symptoms appear, it is almost
 always too late to save the affected seedling.
@@ -66,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

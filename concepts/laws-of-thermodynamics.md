@@ -15,7 +15,7 @@ heat, work, and the behavior of macroscopic systems. It rests on four
 fundamental laws (numbered 0 through 3) that together define the limits
 of energy conversion, establish the arrow of time, and underpin virtually
 every engine, refrigerator, chemical reaction, and biological process.
-The field emerged from 19th-century studies of heat engines, with key
+The field emerged from 19th-century studies of [[query-why-cant-heat-engines-be-100-percent-efficient]], with key
 contributions by Sadi Carnot (1824), James Joule (1843), Rudolf Clausius
 (1865), Lord Kelvin, Walther Nernst (1906), and J. Willard Gibbs.
 
@@ -119,7 +119,7 @@ turbines, and refrigerators are designed around thermodynamic cycles
 K = exp(-dG_deg/RT) governs reaction extent, essential for the Haber-
 Bosch ammonia synthesis and battery design. Statistical mechanics
 bridges microscopic behavior to macroscopic properties through the
-partition function. Black hole thermodynamics assigns entropy proportional
+partition function. [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]] thermodynamics assigns entropy proportional
 to horizon area (Bekenstein-Hawking formula). Biological systems
 maintain low internal entropy by exporting it to their environment,
 powered by ATP hydrolysis (dG_deg ~ -30.5 kJ/mol).
@@ -127,5 +127,6 @@ powered by ATP hydrolysis (dG_deg ~ -30.5 kJ/mol).
 ## See Also
 
 - [[ozier-pdc-composting-and-soil-building]]
-- [[pdc-energy-systems-and-appropriate-technology]]
+- pdc-energy-systems-and-appropriate-technology
 - [[ingham-carbon-nitrogen-ratios-compost-tea]]
+- [[statistical-mechanics]]

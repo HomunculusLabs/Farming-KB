@@ -39,7 +39,7 @@ Yields are moderate to high, with well-managed indoor plants producing 400–500
 The defining characteristic of Sour Diesel is its extraordinary terpene profile, which produces one of the most immediately recognizable aromas in cannabis.
 The primary terpenes include:
 
-- **Caryophyllene**: The dominant terpene, contributing peppery, spicy, and slightly fuel-like notes. Caryophyllene is unique among cannabis terpenes in its ability to selectively bind the CB2 cannabinoid receptor, producing anti-inflammatory effects independently of cannabinoid activity.
+- **Caryophyllene**: The dominant terpene, contributing peppery, spicy, and slightly fuel-like notes. Caryophyllene is unique among cannabis terpenes in its ability to selectively bind the CB2 [[cannabis-cannabinoid-receptor-pharmacology]], producing anti-inflammatory effects independently of cannabinoid activity.
 - **Limonene**: The second most abundant terpene, providing sharp citrus and diesel-fuel top notes. Limonene is associated with mood elevation, stress relief, and anxiolytic effects, which complement the strain's stimulating psychoactive profile.
 - **Myrcene**: Present in significant quantities, contributing herbal, earthy base notes and modulating the overall sedative quality of the experience.
 - **Humulene**: Adds woody, earthy undertones and contributes anti-inflammatory and appetite-suppressant properties.
@@ -63,17 +63,17 @@ Negative effects are relatively common at higher doses and include dry mouth, dr
 ## Cultivation Notes
 
 Sour Diesel is considered a moderately challenging strain to cultivate, requiring patience due to its extended flowering period and sensitivity to environmental stress.
-The strain responds well to training techniques such as low-stress training (LST), screen of green (ScrOG), and topping, which help manage its tall stature and promote more even canopy development.
+The strain responds well to [[cannabis-training-techniques-comparison]] such as low-stress training (LST), screen of green (ScrOG), and topping, which help manage its tall stature and promote more even canopy development.
 Nutrient requirements are moderate, with the strain showing sensitivity to nitrogen excess during the flowering phase, which can prolong flowering time and reduce terpene production.
 The plants are moderately resistant to common cannabis pathogens and pests, though they can be susceptible to powdery mildew in high-humidity environments.
 Optimal growing temperatures are 20–28°C during the vegetative phase and 18–26°C during flowering, with relative humidity maintained at 50–60% during flowering to support resin production and prevent mold.
-The strain is well-suited to both soil and hydroponic growing systems, though many experienced cultivators report that organic soil cultivation produces a more complex and nuanced terpene profile compared to synthetic hydroponic methods.
-Pruning and defoliation during the early flowering phase are recommended to improve light penetration and air circulation through the tall, open canopy structure.
+The strain is well-suited to both soil and [[cannabis-grow-hydroponic-growing-systems]] systems, though many experienced cultivators report that organic soil cultivation produces a more complex and nuanced terpene profile compared to synthetic hydroponic methods.
+[[cannabis-pruning-and-defoliation-guide]] during the early flowering phase are recommended to improve light penetration and air circulation through the tall, open canopy structure.
 
 ## Medical Applications
 
 Sour Diesel has been widely used in medical cannabis contexts, particularly for conditions that respond to its energizing and mood-elevating effects.
-Patient-reported applications include treatment of chronic fatigue, depression, attention deficit disorders, stress and anxiety (in low-to-moderate doses), mild-to-moderate pain, and nausea.
+Patient-reported applications include treatment of [[cannabis-chronic-fatigue-research]], depression, attention deficit disorders, stress and anxiety (in low-to-moderate doses), mild-to-moderate pain, and nausea.
 The strain's anti-inflammatory properties, attributable to its high caryophyllene content, may provide additional therapeutic benefit for inflammatory conditions.
 However, its strong sativa effects and potential to increase anxiety at higher doses mean that it is generally not recommended for patients seeking sedation, sleep aid, or relief from severe anxiety disorders.
 
@@ -103,11 +103,13 @@ Multiple distinct phenotypes of Sour Diesel have been identified and stabilized 
 The "AJ's Sour Diesel" cut, reportedly the original New York City phenotype, is characterized by a particularly intense diesel aroma and tall, lanky plant structure.
 The "Rezdog Sour Diesel" is a backcrossed version stabilized by the breeder Rezdog, which aimed to preserve the original phenotype's characteristics while improving yield and reducing flowering time.
 The "ECSD" (East Coast Sour Diesel) is another well-regarded cut that is particularly popular among connoisseurs for its balanced effects and complex terpene profile.
-These different cuts can vary significantly in their cannabinoid and terpene profiles, flowering times, and growth characteristics, making strain identification based solely on name unreliable in the commercial market.
+These different cuts can vary significantly in their cannabinoid and [[cannabis-terpene-profiles-sativa]], flowering times, and growth characteristics, making strain identification based solely on name unreliable in the commercial market.
 The lack of standardized naming conventions in the cannabis industry compounds this problem, and genetic testing has revealed that many commercially available "Sour Diesel" products bear limited genetic resemblance to the original phenotype.
 Consumers seeking authentic Sour Diesel are advised to source from reputable breeders who maintain documented provenance of their cuts.
 
 ## See Also
+
+- [[chocolope]]
 
 - [[cannabis-terpene-profiles]]
 - [[blesching-cannabis-sativa-indica-classification]]

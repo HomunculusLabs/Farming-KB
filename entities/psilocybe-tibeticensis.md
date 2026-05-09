@@ -33,7 +33,7 @@ P. tibeticensis represents an important biogeographical record for the genus, de
 
 ## See Also
 
-- [[psilocybin-mushroom-potency-comparison-by-species]]
+- psilocybin-mushroom-potency-comparison-by-species
 ## Practical Applications
 
 Psilocybe tibeticensis has a range of practical applications that make it relevant to
@@ -111,4 +111,4 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+- [[cap-vs-stem-alkaloid-distribution-psilocybe-cubensis]]

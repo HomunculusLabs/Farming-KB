@@ -29,7 +29,7 @@ consequences of their resource capture strategies for ecosystem functioning.
 
 Saprotrophic fungi detect resources through chemical sensing and directional growth
 responses. Hyphal tips sense gradients of nutrients—particularly simple sugars, amino
-acids, and volatile organic compounds—and orient growth toward the most favorable
+acids, and [[fungal-volatile-organic-compounds-communication]] compounds—and orient growth toward the most favorable
 resource patches in the surrounding environment.
 
 The initial exploratory phase is characterized by diffuse, radial extension of the
@@ -67,14 +67,14 @@ different types of organic matter. White-rot fungi produce lignin-modifying enzy
 including lignin peroxidases, manganese peroxidases, and laccases, that enable them to
 degrade the recalcitrant lignin component of wood.
 
-Brown-rot fungi employ a non-enzymatic Fenton chemistry mechanism to depolymerize
+Brown-rot fungi employ a non-enzymatic [[bioremediation-fenton-chemistry-brown-rot-fungi]] mechanism to depolymerize
 cellulose while modifying but not fully mineralizing lignin. Soft-rot fungi decompose
 wood under limited oxygen and moisture using cellulase systems, important in early
 decomposition stages and in waterlogged soils or building timbers.
 
 The regulation of enzyme production in response to environmental conditions is a key
-determinant of decomposition efficiency. Fungi adjust their extracellular enzyme
-suites based on substrate quality, nutrient availability, moisture, pH, and the
+determinant of decomposition efficiency. Fungi adjust their [[dighton-fungal-extracellular-enzyme-systems-decomposition]]
+suites based on substrate quality, [[ph-and-nutrient-availability-garden-soils]], moisture, pH, and the
 presence of competing organisms, optimizing resource investment for maximum return.
 
 ## Nitrogen and Carbon Stable Isotope Ecology
@@ -84,7 +84,7 @@ nutrition. Nitrogen isotope ratios (delta-15N) in fungal tissues reflect the nit
 source utilized, with distinct signatures for fungi decomposing different organic
 matter types.
 
-Carbon isotope ratios (delta-13C) similarly track carbon sources, distinguishing fungi
+[[stable-carbon-isotope-labelling-mycorrhizal-fatty-acids]] ratios (delta-13C) similarly track carbon sources, distinguishing fungi
 decomposing C3 versus C4 plant material or utilizing different biochemical fractions
 of litter. Combined nitrogen and carbon isotope analysis enables reconstruction of
 fungal resource use in complex natural environments.
@@ -92,7 +92,7 @@ fungal resource use in complex natural environments.
 Isotope studies have revealed that saprotrophic fungi fractionate isotopes during
 assimilation, with magnitude depending on species, substrate chemistry, and
 environmental conditions. These patterns provide evidence for understanding fungal
-niche differentiation and resource partitioning in decomposer communities.
+niche differentiation and [[fungal-resource-partitioning-decomposition-sequences]] in decomposer communities.
 
 ## Responses to Spatial Heterogeneity
 

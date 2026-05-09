@@ -1,5 +1,5 @@
 ---
-title: Cannabis, Apoptosis, and Cancer Cell Death
+title: Cannabis, Apoptosis, and blesching cannabis apoptosis and cancer cell death Death
 created: 2026-04-28
 tags: [cannabis, apoptosis, cancer, cannabinoids, cell-death]
 date: 2026-04-28
@@ -13,7 +13,7 @@ type: concept
 
 Apoptosis, or programmed cell death, is one of the most significant mechanisms
 by which cannabinoids demonstrate anti-cancer properties. Throughout *The
-Cannabis Health Index*, Blesching documents numerous studies showing that
+[[blesching-cannabis-health-index-autoimmune-conditions]]*, Blesching documents numerous studies showing that
 cannabinoids from cannabis can selectively induce apoptosis in cancer cells
 while leaving healthy cells unharmed. This selectivity makes cannabinoids a
 uniquely promising area of oncological research.
@@ -21,7 +21,7 @@ uniquely promising area of oncological research.
 ## How Cannabinoids Induce Apoptosis
 
 Cannabinoids trigger cancer cell death through multiple distinct mechanisms.
-The endogenous cannabinoid [[blesching-cannabis-four-prime-cannabinoids]] and [[blesching-endocannabinoid-system-overview]] functions
+The endogenous cannabinoid [[blesching-cannabis-four-prime-cannabinoids]] and [[endocannabinoid-system-overview]] functions
 as an innate biological mechanism for suppressing numerous cancers. If
 properly activated, the ECS is capable of suppressing cancer growth and may be
 protective against tumor development. The body's own anandamide destroys
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

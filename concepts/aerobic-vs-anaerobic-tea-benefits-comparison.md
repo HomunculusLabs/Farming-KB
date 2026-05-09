@@ -1,5 +1,5 @@
 ---
-title: Aerobic vs Anaerobic Tea Benefits Comparison
+title: comparison-aerobic-vs-anaerobic-composting Tea Benefits Comparison
 created: 2026-04-28
 tags:
   - compost-tea
@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Elaine Ingham Ph.D., The Field Guide I for Actively Aerated Compost Tea (AACT), 2004"
+  - "Elaine Ingham Ph.D., The Field Guide I for Actively actively-aerated-compost-tea Tea (AACT), 2004"
 type: concept
 ---
 
@@ -22,10 +22,10 @@ A central distinction in compost tea production is between aerobic (actively aer
 
 ## Five Benefit Categories
 
-The comparison framework assesses brewing methods against five core benefits that a healthy soil foodweb provides:
+The comparison framework assesses [[compost-tea-brewing-methods-aact]] against five core benefits that a healthy soil foodweb provides:
 
-1. Plant protection (disease suppression)
-2. Nutrient cycling and plant growth promotion
+1. Plant protection ([[aact-disease-suppression-mechanisms-ingham]])
+2. [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and plant growth promotion
 3. Improved soil nutrient levels
 4. Soil structure building
 5. Toxin decomposition
@@ -36,7 +36,7 @@ The mechanisms by which plants are protected differ fundamentally between the tw
 
 ### Aerobic Tea Mechanisms
 
-Aerobic compost tea uses four non-toxic, competitive mechanisms:
+[[ingham-anaerobic-vs-aerobic-compost-tea]] tea uses four non-toxic, competitive mechanisms:
 
 - **Competition for food**: Beneficial organisms consume food resources faster than pathogens, leaving nothing for disease-causing organisms
 - **Competition for space**: Beneficial organisms physically occupy all available infection sites on leaves and roots

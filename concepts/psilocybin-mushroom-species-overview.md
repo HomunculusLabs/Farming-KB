@@ -1,5 +1,5 @@
 ---
-title: "Psilocybin Mushroom Species Overview"
+title: "emcdda-psilocybin-mushroom-dose-and-effects Species Overview"
 created: 2026-04-28
 tags:
   - psilocybin
@@ -16,7 +16,7 @@ type: concept
 
 # Psilocybin Mushroom Species Overview
 
-The Psilocybin Mushroom Image Guide from Erowid documents numerous
+The Psilocybin [[psilocybin-mushroom-image-guide-habitat-clues]] Guide from Erowid documents numerous
 psilocybin-containing mushroom species across four genera. This overview
 covers all species featured in the guide, organized by their taxonomic
 genus.
@@ -40,9 +40,9 @@ psilocybin-containing mushrooms. Species in this guide include:
   species with limited information available in the guide.
 
 - **[[psilocybe-cyanescens]]**: Known as "Wavy Caps," this potent species
-  is widely distributed in the Pacific Northwest of North America and
+  is widely distributed in the Pacific Northwest of [[psilocybin-north-america-pacific-northwest]] and
   throughout Western Europe. Documented in the Black Forest region of
-  Germany and in northern California. Grows on wood chips, particularly
+  Germany and in northern California. Grows on [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]], particularly
   alder, and is one of the most potent Psilocybe species.
 
 - **Psilocybe hoogshagenii var. hoogshagenii**: A Mexican species
@@ -87,12 +87,12 @@ classified within Panaeolus. They are known for their potency:
 The guide documents species from several key regions: the Pacific
 Northwest (P. azurescens, P. cyanescens, P. pelliculosa, G.
 spectabilis), Western Europe including Germany's Black Forest (P.
-cyanescens, P. semilanceata, P. azurescens), Southeast Asia
+cyanescens, P. semilanceata, P. azurescens), [[psilocybe-southeast-asia-pacific]]
 particularly Thailand's Koh Samui (P. cubensis, P. samuiensis, P.
 subcubensis), Hawaii (Copelandia species), Mexico (P. hoogshagenii),
-and the southeastern United States including Florida (P. cubensis).
+and the southeastern [[dmt-containing-plants-united-states-halpern]] including Florida (P. cubensis).
 
 ## See Also
 
 - [[mycorrhizal-edible-mushroom-species-overview]]
-- [[psilocybin-mushroom-image-guide-lookalike-species]]
+- psilocybin-mushroom-image-guide-lookalike-species

@@ -11,13 +11,13 @@ sources: []
 
 ## Overview
 
-Cannabis legality in the United States is a complex patchwork of federal prohibition and state-level legalization. As of 2026, a growing majority of states have legalized cannabis for medical use, recreational (adult-use) use, or both. However, regulations vary dramatically between jurisdictions in terms of possession limits, cultivation allowances, business licensing, and product regulations. This guide provides an overview of the regulatory landscape.
+Cannabis legality in the [[dmt-containing-plants-united-states-halpern]] is a complex patchwork of federal prohibition and state-level legalization. As of 2026, a growing majority of states have legalized cannabis for medical use, recreational (adult-use) use, or both. However, regulations vary dramatically between jurisdictions in terms of possession limits, cultivation allowances, business licensing, and product regulations. This guide provides an overview of the regulatory landscape.
 
 ## Federal Legal Status
 
 ### Schedule I Classification
 
-Cannabis remains classified as a Schedule I substance under the federal Controlled Substances Act (CSA), defined as having "no currently accepted medical use" and "a high potential for abuse." This creates ongoing conflicts with state-level legalization and impacts:
+Cannabis remains classified as a Schedule I substance under the federal Controlled [[controlled-substances-act-and-psychedelic-research]] (CSA), defined as having "no currently accepted medical use" and "a high potential for abuse." This creates ongoing conflicts with state-level legalization and impacts:
 
 - Banking access for cannabis businesses (many banks won't serve the industry)
 - Interstate commerce (cannot transport cannabis across state lines, even between legal states)
@@ -36,14 +36,14 @@ Medical programs allow access to various [[marijuana-strain-guide-indica|indica]
 ### Common Qualifying Conditions
 
 Most medical programs include:
-- Chronic pain
+- [[cannabis-chronic-pain-management]]
 - Cancer (and treatment side effects)
 - PTSD (Post-Traumatic Stress Disorder)
 - Multiple sclerosis
-- Epilepsy and seizure disorders
+- [[cannabis-for-epilepsy-and-seizure-disorders]] disorders
 - Glaucoma
 - HIV/AIDS
-- Crohn's disease and inflammatory bowel disease
+- Crohn's disease and [[blesching-cannabis-inflammatory-bowel-disease]] disease
 - Amyotrophic lateral sclerosis (ALS)
 - Parkinson's disease
 - Severe nausea
@@ -58,7 +58,7 @@ Some states have broader qualifying condition lists or allow physician recommend
 - **Designated caregiver:** Many states allow a caregiver to purchase and transport on behalf of a patient
 - **Dispensary access:** Licensed dispensaries sell medical cannabis products
 - **Possession limits:** Typically higher than recreational limits (varies by state)
-- **Cultivation:** Some states allow home cultivation for medical patients
+- **Cultivation:** Some states allow [[mushroom-home-cultivation-history]] for medical patients
 
 ## Adult-Use (Recreational) Legal States
 
@@ -147,18 +147,3 @@ Many states have implemented social equity provisions to address disproportionat
 - Community reinvestment requirements and expungement provisions
 
 ## Interstate Issues
-
-Despite state-level legalization, federal issues remain:
-- **Interstate transport:** Illegal under federal law, even between legal states
-- **Banking:** Most federally insured banks won't serve cannabis businesses
-- **Taxation:** Section 280E prevents standard business deductions
-- **Employment:** Federal contractors can still test for cannabis
-- **Housing:** Federal housing regulations prohibit cannabis in subsidized housing
-- **Travel:** Cannabis cannot be brought on airplanes (TSA jurisdiction)
-
-## Staying Current
-
-- State cannabis regulatory agency websites
-- NORML (National Organization for the Reform of Marijuana Laws)
-- MPP (Marijuana Policy Project)
-- Local cannabis attorney consultations

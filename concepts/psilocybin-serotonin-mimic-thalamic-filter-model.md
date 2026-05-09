@@ -1,5 +1,5 @@
 ---
-title: "Psilocybin as a Serotonin Mimic and Thalamic Filter Model"
+title: "Psilocybin as a psilocybin serotonin mimic thalamic filter model and Thalamic Filter Model"
 created: 2026-04-26
 tags:
   - neuroscience
@@ -111,8 +111,8 @@ experience.
 
 ## Pharmacokinetics and Excretion
 
-Of its low toxicity, psilocybin is very quickly excreted from the body,
-with two-thirds of any dose removed after three hours. Clinical trials
+Of its [[fukuoka-low-toxicity-pesticide-deception]], psilocybin is very quickly excreted from the body,
+with two-thirds of any dose removed after three hours. [[mushroom-cancer-clinical-trials-overview]]
 have shown that taking psilocybin is a literally hair-raising experience
 -- piloerection, or goosebumps, being a common physical response. In
 mice, the LD50, the dose at which 50 per cent of test animals die, is

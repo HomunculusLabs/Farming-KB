@@ -3,7 +3,7 @@ title: Homestead Insurance Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, economics, regulation, law, business, safety]
+tags: homesteading, economics, regulation, law, business, safety]
 sources: []
 ---
 
@@ -37,7 +37,7 @@ Insurance protects homestead businesses from financial catastrophe. As a farm or
 ### Product Liability
 - Included in most farm liability policies
 - Covers claims of foodborne illness, allergic reactions, contamination
-- Documentation is critical: keep records of food safety practices, batch tracking, and test results
+- Documentation is critical: keep records of food safety practices, batch tracking, and [[interpreting-soil-test-results]]
 - Labeling properly reduces liability (ingredient lists, allergen warnings)
 - Separate product liability policy: $300-800/year for small producers
 
@@ -56,7 +56,7 @@ Insurance protects homestead businesses from financial catastrophe. As a farm or
 - Cost: $500-2,000/year depending on number and value of structures
 
 ### Equipment
-- Tractors, tools, processing equipment, irrigation systems
+- Tractors, tools, processing equipment, [[irrigation-systems]]
 - Covered for theft, fire, collision, vandalism
 - Schedule high-value items individually (list make, model, serial number)
 - Tractor: often requires separate policy or farm vehicle coverage
@@ -142,13 +142,8 @@ Insurance protects homestead businesses from financial catastrophe. As a farm or
 |---|---|---|
 | Farm liability ($1M/$2M) | $400-1,200 | Essential |
 | Farm property (structures + equipment) | $500-2,000 | Essential |
-| Product liability (if selling food) | $300-800 | Essential |
-| Crop insurance / NAP | $325+ | Recommended |
-| Workers comp (if employees) | $200-600 | Required in most states |
-| Umbrella policy | $200-500 | Recommended |
-
-Insurance costs should be factored into [[homestead-scale-assessment]] and are a legitimate deduction for [[homestead-financial-planning]].
-
 ## See Also
 
 - [[homestead-first-aid-guide]]
+- [[coleman-small-farm-equipment-and-tools]]
+- [[selling-farm-products-and-business]]

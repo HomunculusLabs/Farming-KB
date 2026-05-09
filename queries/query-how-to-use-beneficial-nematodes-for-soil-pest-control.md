@@ -1,10 +1,11 @@
 ---
-title: How to Use Beneficial Nematodes for Soil Pest Control
+title: How to Use ingham-beneficial-nematodes-soil-food-web for Soil comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol
 created: 2026-04-28
 tags: [farming, pest-control, soil-health, biological-control, organic-gardening]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -12,7 +13,7 @@ type: query
 
 ## What Are Beneficial Nematodes?
 
-Beneficial nematodes are microscopic, unsegmented roundworms that live in soil and actively hunt down insect pests in their larval or pupal stages. They are among the most effective biological control agents available to organic growers and homesteaders.
+Beneficial nematodes are microscopic, unsegmented roundworms that live in soil and actively hunt down insect pests in their larval or pupal stages. They are among the most effective [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents available to organic growers and homesteaders.
 
 Unlike plant-parasitic nematodes (such as root-knot nematodes), entomopathogenic (insect-killing) nematodes are completely harmless to plants, earthworms, humans, and pets. The two most commonly used genera are **Steinernema** and **Heterorhabditis**, each carrying a symbiotic bacterium in their gut. When a nematode enters a host insect, it releases the bacteria, which multiply rapidly and kill the pest within 24 to 48 hours. The nematodes then reproduce inside the cadaver and emerge to seek new hosts.
 
@@ -21,7 +22,7 @@ Unlike plant-parasitic nematodes (such as root-knot nematodes), entomopathogenic
 Beneficial nematodes are effective against a wide range of soil-dwelling pests:
 
 - **Fungus gnat larvae** — the most common greenhouse and indoor grow target
-- **Root maggots** — cabbage, onion, carrot, and seed corn maggots
+- **[[cervantes-nematodes-root-maggots-soil-pests]]** — cabbage, onion, carrot, and seed corn maggots
 - **Grubs** — Japanese beetle, chafer, and other white grub species
 - **Wireworms** — click beetle larvae that damage root crops
 - **Cutworms** — larvae that sever seedlings at the soil line
@@ -37,7 +38,7 @@ Not all nematode species target the same pests. Selecting the correct species is
 
 | Species | Best For | Behavior |
 |---------|----------|----------|
-| *Steinernema feltiae* | Fungus gnats, thrips pupae | Ambusher; works at cooler temps (50-68°F) |
+| *Steinernema feltiae* | [[query-how-to-control-fungus-gnats-organically]], thrips pupae | Ambusher; works at cooler temps (50-68°F) |
 | *Steinernema carpocapsae* | Cutworms, armyworms, flea beetles | Ambusher; waits near surface |
 | *Heterorhabditis bacteriophora* | Grubs, wireworms | Cruiser; searches deeper soil; needs warmth (68-86°F) |
 | *Steinernema kraussei* | Vine weevils | Effective at lower temperatures |
@@ -107,7 +108,7 @@ Nematodes need a film of water to move through soil pores. Apply when soil is mo
 | Target Area | Rate | Frequency |
 |-------------|------|-----------|
 | Potted plants | 1-5 million per plant | Every 2 to 4 weeks |
-| Raised beds (100 sq ft) | 5-10 million | Every 4 to 6 weeks |
+| [[comparison-raised-beds-vs-hugelkultur]] (100 sq ft) | 5-10 million | Every 4 to 6 weeks |
 | Garden plots (1,000 sq ft) | 25-50 million | 2 to 3 times per season |
 | Lawns (5,000 sq ft) | 125-250 million | Spring and fall |
 

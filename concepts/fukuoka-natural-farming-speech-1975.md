@@ -1,10 +1,11 @@
 ---
-title: Natural Farming Speech: Principles and Practice
+title: comparison-natural-farming-vs-permaculture Speech: Principles and Practice
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [regenerative]
-sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Natural Farming Speech: Principles and Practice
@@ -51,18 +52,18 @@ Shikoku.
 ## The War Years
 
 During the war, a life of leisurely isolation in the hills became
-impossible, so Fukuoka joined the agricultural testing station in
+impossible, so Fukuoka joined the agricultural [[fukuoka-straw-scattering-testing-station-resistance]] in
 neighboring Kochi Prefecture. He was placed in charge of insect damage
 and worked through to the end of the war. While at the Kochi testing
-center, he did scientific research on farming methods and provided
+center, he did scientific research on [[natural-farming-methods-comparison]] and provided
 guidance to local farmers on growing rice and barley and encouraging
-seed germination. Their goal was to maximize food production for the
+[[cannabis-seed-germination-methods]]. Their goal was to maximize food production for the
 war effort. But all along, he had the idea of natural farming in the
 back of his head.
 
 ## The Farm Description
 
-Fukuoka ran a citrus orchard on a hilltop overlooking the Inland Sea.
+Fukuoka ran a [[fukuoka-citrus-orchard-establishment-bare-hillside]] on a hilltop overlooking the Inland Sea.
 In addition to his 7-8 acres of mandarin grove, he also had an acre
 and a half of paddy field on which he grew rice and barley. He placed
 the greatest importance on rice and considered himself above all a rice
@@ -71,7 +72,7 @@ farmer.
 The farm was called the "natural farm" but had no sign to that effect.
 A constantly changing group of about six to ten young people lived in
 huts in the orchard, helping with the field work. They were generally
-people following a natural diet, members of organic farming
+people following a natural diet, members of [[coleman-deep-organic-farming-philosophy]]
 associations, Shintoists, Christians, and members of other religious
 bodies, college students, and runaways. Everyone came as they wished,
 stayed as long as they cared, and left when ready.
@@ -103,4 +104,3 @@ transplanted, whether fertilizer is necessary.
 - [[fukuoka-natural-rice-barley-cultivation]]
 - [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-mandarin-orange-citrus]]
-- [[fukuoka-natural-rice-barley-cultivation]]

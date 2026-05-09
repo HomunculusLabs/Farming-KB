@@ -1,5 +1,5 @@
 ---
-title: Cannabis Drying and Curing Guide
+title: Cannabis cannabis drying and curing guide Guide
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,16 +10,16 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Cannabis Grow Bible, Greg Green (Ch. 13)
+Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, Greg Green (Ch. 13)
 
 Drying and curing are the final and arguably most important steps in producing high-quality cannabis. Rushing this process degrades flavor, potency, and smoothness. Done properly, it transforms raw harvested bud into a premium product.
 
 ## Why Drying and Curing Matter
 
-- **Break down chlorophyll**: Fresh cannabis tastes "grassy" and harsh. Proper curing breaks down chlorophyll, revealing the natural terpene flavors.
+- **[[query-can-fungi-break-down-plastic-pollution]] chlorophyll**: Fresh cannabis tastes "grassy" and harsh. Proper curing breaks down chlorophyll, revealing the natural terpene flavors.
 - **Smooth smoke**: Cured bud burns evenly and smoothly with white/grey ash.
 - **Preserve potency**: Proper drying prevents cannabinoid degradation.
-- **Prevent mold**: Controlled drying eliminates moisture that causes mold and rot.
+- **[[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]]**: Controlled drying eliminates moisture that causes mold and rot.
 - **Develop flavor**: Terpenes continue to develop and mature during the curing process.
 
 ## Drying
@@ -31,7 +31,7 @@ The drying environment must be controlled carefully:
 - **Temperature**: 60–70°F (15–21°C). Cooler temperatures preserve terpenes. Higher temperatures degrade them.
 - **Humidity**: 45–55%. Below 40% causes too-fast drying (harsh bud). Above 60% invites mold.
 - **Darkness**: Keep the drying area dark. Light degrades cannabinoids and terpenes.
-- **Air circulation**: Gentle, continuous air movement. Use an oscillating fan on low, pointing away from the plants (not directly on them). No stagnant air, but no strong drafts either.
+- **[[stamets-growing-room-air-circulation-co2-management]]**: Gentle, continuous air movement. Use an oscillating fan on low, pointing away from the plants (not directly on them). No stagnant air, but no strong drafts either.
 - **No direct wind**: Strong airflow causes too-fast drying and damages trichomes.
 
 ### Drying Methods
@@ -110,7 +110,7 @@ For precision curing, use **2-way humidity packs** (e.g., Boveda packs) inside j
 
 ### Overdried Bud
 
-- **Cause**: Drying too fast (low humidity, high temperature, strong airflow)
+- **Cause**: Drying too fast ([[pf-tek-low-humidity-symptoms-and-remediation]], high temperature, strong airflow)
 - **Signs**: Buds crumble to dust, extremely brittle, harsh smoke
 - **Partial fix**: Place in a jar with a humidity pack (62%) for several days. Some moisture may be reabsorbed, but over-dried bud will never be as good as properly dried bud.
 

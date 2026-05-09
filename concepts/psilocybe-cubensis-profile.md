@@ -1,11 +1,11 @@
 ---
-title: Psilocybe cubensis Profile
+title: brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting Profile
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [species-profiles, species-identification, mycology, psilocybin, tropics, mushroom-cultivation, pf-tek, monotub]
 sources:
-  - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources: []
   - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 
@@ -13,12 +13,12 @@ sources:
 
 ## Overview
 
-Psilocybe cubensis is the most commonly cultivated psilocybin mushroom in the world. A dung-dwelling species of tropical and subtropical regions, it has been spread globally through the cattle trade and is the species most frequently grown using methods like [[pf-tek]] and [[monotub-cultivation]] cultivation.
+Psilocybe cubensis is the most commonly cultivated [[emcdda-psilocybin-mushroom-dose-and-effects]] in the world. A dung-dwelling species of tropical and subtropical regions, it has been spread globally through the cattle trade and is the species most frequently grown using methods like [[pf-tek]] and  cultivation.
 
 ## Taxonomy
 
 - **Species**: Psilocybe cubensis (Earle) Singer
-- **Synonyms**: Stropharia cubensis Earle
+- **Synonyms**: [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] Earle
 - **Genus**: Psilocybe
 - **Common names**: Golden teacher, golden top, San Isidro
 
@@ -29,7 +29,7 @@ Some researchers have suggested that P. cubensis ("golden top of the old world")
 ## Habitat and Distribution
 
 - **Habitat**: Dung of herbivorous animals, especially cattle, in tropical and subtropical pastures.
-- **Global range**: Circumtropical -- found throughout Central and South America, Southeast Asia, Australia, Africa, and parts of the southern United States.
+- **Global range**: Circumtropical -- found throughout Central and South America, [[psilocybe-southeast-asia-pacific]], Australia, Africa, and parts of the southern United States.
 - **Spread mechanism**: Underground cultivation centers function as "invisible spore geysers," gushing germplasm into immediate surroundings. Uplifted into the jetstream, spores have spread across continents.
 
 ## Potency
@@ -56,7 +56,7 @@ Psilocybe mushrooms from the genera Psilocybe and Panaeolus are generally safe t
 
 - [[psilocybe-mexicana-profile]] -- the original Wasson species from Mexico
 - [[psilocybe-semilanceata-profile]] -- the temperate equivalent
-- Panaeolus cyanescens -- a coprophilic species of similar habitat
+- [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] -- a coprophilic species of similar habitat
 ## Practical Considerations
 
 When working with Psilocybe cubensis Profile, several practical factors should be
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

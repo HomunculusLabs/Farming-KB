@@ -9,7 +9,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America: Quercus macrocarpa." USDA Forest Service Agriculture Handbook 654.
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Quercus macrocarpa." USDA Forest Service Agriculture Handbook 654.
   - Peattie, D.C. (1953). A Natural History of Trees of Eastern and Central North America. Houghton Mifflin.
   - Johnson, P.S., Shifley, S.R. & Rogers, R. (2009). The Ecology and Silviculture of Oaks. CABI Publishing.
   - Nixon, K.C. (1997). "Quercus." In: Flora of North America, Vol. 3. Oxford University Press.
@@ -20,7 +20,7 @@ sources:
 
 **Quercus macrocarpa**, commonly known as bur oak, mossycup oak, or blue oak, is a large, long-lived deciduous oak native to eastern and central North America. It is one of the most widely distributed oak species on the continent, ranging from southern Canada to Texas.
 
-Bur oak is renowned for its exceptional drought tolerance, fire resistance, and longevity, with documented individuals exceeding 400 years of age. Its massive fringed acorn cups, the largest of any North American oak, give the species its common name.
+Bur oak is renowned for its exceptional [[dighton-fungal-drought-tolerance-plant-water-relations]], fire resistance, and longevity, with documented individuals exceeding 400 years of age. Its massive fringed acorn cups, the largest of any North American oak, give the species its common name.
 
 The tree is a keystone species of the oak savanna ecosystem and provides critical habitat and food for numerous wildlife species. Its deep taproot system makes it one of the most wind-firm trees in the Great Plains.
 
@@ -68,9 +68,9 @@ The species is a host plant for hundreds of caterpillar species, supporting one 
 
 Bur oak savannas provide critical habitat for neo-tropical migratory birds that require open woodland canopy with a diverse herbaceous understory. Species such as the red-headed woodpecker and Baltimore oriole reach their highest densities in oak savanna habitats.
 
-The deep, spreading root system of bur oak helps maintain soil structure and prevent erosion on prairie soils. Leaf litter from bur oak contributes significantly to soil organic matter and nutrient cycling in oak woodland ecosystems.
+The deep, spreading root system of bur oak helps maintain soil structure and prevent erosion on prairie soils. Leaf litter from bur oak contributes significantly to soil organic matter and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in oak woodland ecosystems.
 
-Bur oak forms ectomycorrhizal associations with numerous fungal species, which enhance nutrient and water uptake. These mycorrhizal networks connect bur oak with neighboring trees and understory plants, facilitating nutrient exchange.
+Bur oak forms ectomycorrhizal associations with numerous fungal species, which enhance nutrient and water uptake. These [[dighton-mycorrhizal-networks-carbon-transfer]] connect bur oak with neighboring trees and understory plants, facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]].
 
 Mast production in bur oak follows a highly variable pattern, with heavy seed crops occurring at irregular intervals of 2–5 years. This masting strategy is thought to satiate seed predators in heavy crop years, ensuring some seeds survive to germinate.
 
@@ -82,7 +82,7 @@ Growth rates are moderate, typically 30–50 cm per year in youth. The species d
 
 Bur oak wood is heavy, hard, and durable, with a light to medium brown heartwood. It is used for flooring, furniture, fence posts, railroad ties, and barrels. The wood has similar properties to other white oaks but is less commercially available.
 
-The acorns are edible after leaching to remove tannins and have been used historically as a food source by Native American peoples. Roasted acorn meal was a staple carbohydrate in several Great Plains and Midwestern tribes.
+The acorns are edible after leaching to remove tannins and have been used historically as a food source by [[halpern-sacramental-peyote-and-native-american-church]] peoples. Roasted acorn meal was a staple carbohydrate in several Great Plains and Midwestern tribes.
 
 Bur oak is increasingly used in ecological restoration of oak savanna ecosystems that were lost to fire suppression and agricultural conversion. Restoration involves prescribed burning and selective thinning to re-establish open canopy conditions.
 

@@ -1,10 +1,11 @@
 ---
-title: "How to Germinate Cannabis Seeds Successfully?"
+title: "How to query how to germinate cannabis seeds Seeds Successfully?"
 created: 2026-04-28
 tags: [query, cannabis, seeds, germination, beginner]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---
@@ -21,7 +22,7 @@ above soil within 3 to 7 days of planting.
 
 ## Detailed Explanation
 
-Successful cannabis seed germination requires providing the right combination of
+Successful cannabis [[cannabis-seed-germination-methods]] requires providing the right combination of
 moisture, warmth, darkness, and gentle handling. Cannabis seeds are relatively large
 as seeds go, which gives them good energy reserves for establishing seedlings, but
 they are also sensitive to rough handling, overwatering, and temperature extremes
@@ -33,10 +34,10 @@ between two layers of damp (not dripping) paper towel on a plate, cover with ano
 plate or seal in a ziplock bag to maintain humidity, and keep in a warm dark place.
 Check every 12 to 24 hours, and once the taproot emerges to about 1 to 2 centimeters,
 carefully transfer the seed to your growing medium with the taproot pointing downward.
-The green cannabis grow bible seed germination methods page from Greg Green's
+The green [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] bible seed germination methods page from Greg Green's
 reference work provides detailed instructions and common pitfalls to avoid.
 
-Direct planting into the final growing medium avoids the transplant shock that can
+Direct planting into the final growing medium avoids the [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]] that can
 occur when moving germinated seeds. Plant the seed about one centimeter deep in moist
 (pre-wetted) growing medium, cover lightly, and keep the surface moist but not
 saturated. A humidity dome or clear plastic cup over the pot can help maintain the
@@ -49,7 +50,7 @@ floaters may be non-viable (though some healthy seeds float initially). After so
 seeds are transferred to paper towels or planted directly. This method speeds
 hydration of the seed coat but carries a slight risk of oxygen deprivation if seeds
 are left submerged too long. The [[seed-germination-techniques-solomon]] page discusses temperature management in
-the broader context of vegetable seed starting.
+the broader context of vegetable [[comparison-cannabis-cloning-vs-seed-starting-indoors]].
 
 Seed quality directly affects germination success rates. Fresh seeds (harvested within
 the last 1 to 2 years) have the highest viability, typically germinating at rates of
@@ -64,7 +65,7 @@ critical. Seedlings need gentle light (CFL or LED at reduced intensity), high hu
 (60 to 80 percent), and consistently moist but not waterlogged soil. Overwatering is
 the most common cause of seedling death, as the underdeveloped root system cannot
 handle saturated conditions. The [[green-cannabis-seedling-care]] page provides detailed troubleshooting for
-seedling issues like stretching, damping off, and nutrient burn from early feeding.
+seedling issues like stretching, [[cervantes-damping-off-seedling-disease-prevention]], and nutrient burn from early feeding.
 
 ## Key Points
 

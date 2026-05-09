@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Gunn BF, Baudouin L, Olsen KM (2011). "Independent origins of cultivated coconut (Cocos nucifera L.) in the Old World and New World." PLoS ONE, 6(6), e21143.
+  - Gunn BF, Baudouin L, Olsen KM (2011). "Independent origins of cultivated coconut (Cocos nucifera L.) in the datura-metel-old-world-ethnobotany and New World." PLoS ONE, 6(6), e21143.
   - Teulat B et al. (2000). "An analysis of genetic diversity in coconut (Cocos nucifera) populations from across the geographic range using microsatellite markers." Genetic Resources and Crop Evolution, 47, 263–272.
   - FAO (2023). "FAOSTAT: Coconuts — production quantity." Food and Agriculture Organization.
   - Dayrit FM (2015). "The properties of lauric acid and their significance in coconut oil." Philippine Journal of Internal Medicine, 53(1), 16–21.
@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-*Cocos nucifera* L., the coconut palm, is a perennial arborescent monocot in the family Arecaceae.
+*Cocos nucifera* L., the [[mollison-coconut-palm-polyculture-systems]], is a perennial arborescent monocot in the family Arecaceae.
 
 It is cultivated throughout the humid tropics between 23°N and 23°S latitude, often described as the "tree of life" due to its extraordinary range of uses.
 
@@ -76,7 +76,7 @@ Major pests include the coconut rhinoceros beetle (*Oryctes rhinoceros*), coconu
 
 ## Chemistry and Uses
 
-Coconut oil, extracted from dried kernel (copra), is composed of approximately 92% saturated fatty acids, with lauric acid (C12:0) comprising 45–53%.
+Coconut oil, extracted from dried kernel (copra), is composed of approximately 92% saturated [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], with lauric acid (C12:0) comprising 45–53%.
 
 Medium-chain triglycerides (MCTs) from coconut oil, particularly lauric acid, are metabolized differently from long-chain fatty acids and have been studied for energy expenditure and satiety effects.
 
@@ -90,7 +90,7 @@ Coir fiber from the husk is used in rope, matting, upholstery, geotextiles, and 
 
 ## Ecology and Applications
 
-Coconut palms form the dominant canopy in coastal agroecosystems throughout the tropics, providing shade, windbreaks, and erosion control.
+Coconut palms form the dominant canopy in coastal agroecosystems throughout the tropics, providing shade, windbreaks, and [[permplant-willows-salix-erosion-control-fodder]].
 
 Intercropping systems combine coconuts with cocoa, banana, taro, pasture, or spice crops at various density levels.
 
@@ -100,7 +100,7 @@ Coconut-based agroforestry systems support biodiversity by providing habitat str
 
 The palm is culturally significant across the tropics, featuring in art, religion, construction, and traditional medicine.
 
-Carbon sequestration in coconut plantations is estimated at 10–20 tonnes CO₂ equivalent per hectare per year in above-ground biomass alone.
+[[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] in coconut plantations is estimated at 10–20 tonnes CO₂ equivalent per hectare per year in above-ground biomass alone.
 
 Coconut shell charcoal is used as a fuel source, water filter medium, and precursor for activated carbon production.
 
@@ -113,3 +113,5 @@ The toddy (sap) tapped from unopened inflorescences is fermented into palm wine 
 - [[areca-catechu]]
 - [[curcuma-longa]]
 - [[zingiber-officinale]]
+
+- [[nelumbo-nucifera]]

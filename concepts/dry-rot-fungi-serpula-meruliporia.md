@@ -1,5 +1,5 @@
 ---
-title: Dry Rot Fungi — Serpula, Meruliporia, and Building Destruction
+title: Dry comparison-white-rot-fungi-vs-brown-rot-fungi-biodegradation — Serpula, Meruliporia, and Building Destruction
 created: 2026-04-22
 updated: 2026-04-27
 type: concept
@@ -15,11 +15,11 @@ sources:
 
 # Dry Rot Fungi — Serpula, Meruliporia, and Building Destruction
 
-Dry rot is one of the most destructive forces acting on wooden buildings worldwide. Two basidiomycete fungi are primarily responsible: Meruliporia incrassata in North America and Serpula lacrymans in Europe, Asia, and Australia. Despite the common name "dry rot," these fungi require moisture to thrive — the name refers to their ability to destroy wood in buildings that appear dry, not to a preference for arid conditions.
+Dry rot is one of the most destructive forces acting on wooden buildings worldwide. Two [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] are primarily responsible: Meruliporia incrassata in [[psilocybin-north-america-pacific-northwest]] and Serpula lacrymans in Europe, Asia, and Australia. Despite the common name "dry rot," these fungi require moisture to thrive — the name refers to their ability to destroy wood in buildings that appear dry, not to a preference for arid conditions.
 
 ## The Two Dry Rot Fungi
 
-**Meruliporia incrassata** is the primary cause of dry rot in California and the southeastern United States. First described in 1849, its name derives from Meruli (yellow, like a blackbird's beak), poria (porous fruiting bodies), and incrassata (thickened). It has become increasingly destructive in California as agricultural land is converted to housing developments, leaving buried tree roots and stumps as food sources that bridge to home foundations.
+**Meruliporia incrassata** is the primary cause of dry rot in California and the southeastern [[dmt-containing-plants-united-states-halpern]]. First described in 1849, its name derives from Meruli (yellow, like a blackbird's beak), poria (porous fruiting bodies), and incrassata (thickened). It has become increasingly destructive in California as [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] is converted to housing developments, leaving buried tree roots and stumps as food sources that bridge to home foundations.
 
 **Serpula lacrymans** is the European counterpart, responsible for centuries of building destruction across Britain and mainland Europe. Serpula means "serpent," evoking the slithering root-like strands that invade buildings. Lacrymans is Latin for "weeping," referring to the fluid droplets that appear on the fungal surface. The mycologist Mordecai Cooke wrote in 1871 that the fungus "is often dripping with moisture, as if weeping in regret for the havoc it has made."
 
@@ -39,7 +39,7 @@ Once inside, hyphae digest the cellulose walls of hardwood beams, transforming s
 
 ## Notable Historical Cases
 
-- **The Mary Rose (1545):** Analysis of timbers from Henry VIII's warship, raised from the Solent in 1982, revealed evidence of both brown rot and soft rot fungal attack that contributed to the ship's structural weakening before it sank.
+- **The Mary Rose (1545):** Analysis of timbers from Henry VIII's warship, raised from the Solent in 1982, revealed evidence of both [[comparison-brown-rot-vs-white-rot-bioremediation]] and soft rot fungal attack that contributed to the ship's structural weakening before it sank.
 - **St. Petersburg buildings (18th-19th century):** *Serpula lacrymans* caused extensive damage to buildings in the newly founded Russian capital, where imported timber and damp foundations created ideal conditions. The problem became so severe that special building regulations were introduced requiring brick foundations and improved ventilation.
 - **Winchester Cathedral (early 20th century):** The cathedral's medieval timber structures suffered significant dry rot damage, requiring extensive restoration work. The case helped drive the development of modern timber preservation techniques in Britain.
 - **California housing developments (late 20th century):** The conversion of Central Valley orchards to housing created an epidemic of Meruliporia damage. Homes built over buried roots and stumps experienced rapid, often hidden, structural decay requiring costly remediation.
@@ -60,11 +60,13 @@ Homeowners can inadvertently worsen infestations by keeping rhizomorphs soaked w
 
 ## See Also
 
+- [[gadd-house-rot-fungi-serpula-meruliporia-sphaerobolus]]
+
 - [[poria-cocos]]
 
 - [[fungal-building-material-deterioration]]
 - [[basidiomycete-phylum-guide]]
-- [[fungal-wood-decay-types-white-rot-brown-rot]]
+- fungal-wood-decay-types-white-rot-brown-rot
 - [[soil-food-web-nutrient-cycling]]
 ## Practical Considerations
 
@@ -84,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

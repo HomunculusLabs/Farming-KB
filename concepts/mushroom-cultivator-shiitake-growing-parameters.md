@@ -1,18 +1,13 @@
 ---
-title: "Shiitake Growing Parameters from the Mushroom Cultivator"
+title: "Shiitake oss-oeric-growing-parameters-cubensis from the [[coprinus-atrementarius-entity-the-mushroom-cultivator]]"
 created: 2026-04-28
-tags: [[mycology, shiitake, lentinus-edodes, mushroom-cultivator,
-      species-profile, wood-cultivation]
+tags: [mycology, shiitake, lentinus-edodes, mushroom-cultivator, species-profile, wood-cultivation]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [~/wiki/raw/papers/the-mushroom-cultivator-stamets.md]
+sources: sources: []
 type: concept
 ---
-
-# mushroom cultivator shiitake growing parameters from the Mushroom Cultivator
-
-Lentinus edodes, the shiitake mushroom, is one of the most commercially
-important [[field-guide-psilocybin-mushroom-species-identification]]
+# mushroom cultivator shiitake growing parameters from the Mushroom Cultivator Lentinus edodes, the shiitake mushroom, is one of the most commercially important [[field-guide-psilocybin-mushroom-species-identification]]
 
 - **Common Names**: The Shiitake Mushroom; The Japanese Black Mushroom;
   The Chinese Black Mushroom (from its association with the shiia tree,
@@ -41,8 +36,8 @@ matching cultivation conditions to expected outcomes.
 
 ## Spawn Media
 
-- Pre-soaked wooden dowels for log inoculation
-- 4:1 sawdust/bran mixture for bag or block cultivation
+- Pre-soaked wooden dowels for [[growing-gourmet-outdoor-log-inoculation-techniques]]
+- 4:1 sawdust/bran mixture for bag or [[supplemented-sawdust-block-cultivation]]
 - Fortified rye grass straw has also been used as a sterile medium
 
 ## Log Cultivation Method
@@ -66,6 +61,7 @@ Recent innovations show that logs stacked in a vertical configuration
 and covered with straw and plastic to maintain even temperatures
 result in faster spawn running. Contact between log surfaces should
 be minimized to prevent competitor molds and [[mushroom-cultivator-wood-based-substrates]] and [[mushroom-cultivator-strain-selection]].
+
 ## Practical Considerations
 
 Successful implementation of Shiitake Growing Parameters from the Mushroom Cultivator requires attention to
@@ -84,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

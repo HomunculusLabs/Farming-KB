@@ -1,5 +1,5 @@
 ---
-title: Particle Filtration and Dilution Plating for Microfungal Isolation
+title: Particle Filtration and particle filtration dilution plating microfungal isolation for Microfungal Isolation
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Particle Filtration and Dilution Plating for Microfungal Isolation
 
-Particle filtration and dilution plating are fundamental techniques for isolating microfungi from complex substrata such as soil, leaf litter, and plant tissue. These methods separate fungal propagules from bulk material and place them on culture media where they can grow and be identified.
+Particle filtration and dilution plating are fundamental techniques for isolating microfungi from complex substrata such as soil, [[dighton-fungal-decomposition-leaf-litter-dynamics]], and plant tissue. These methods separate fungal propagules from bulk material and place them on culture media where they can grow and be identified.
 
 ## Particle Filtration
 
@@ -29,7 +29,7 @@ Substratum is macerated, passed through mesh screens of decreasing size, and the
 ### Advantages Over Simple Dilution Plating
 - **Dramatically improves recovery of rare species**
 - Each particle yields one colony or none — reduces competition
-- Trapped particles contain small tissue fragments that support initial fungal growth
+- Trapped particles contain small tissue fragments that support initial [[brassinosteroid-fungal-growth-promotion]]
 - More efficient use of sample material
 
 ### Limitations
@@ -41,7 +41,7 @@ Substratum is macerated, passed through mesh screens of decreasing size, and the
 ## Dilution Plating
 
 ### Principle
-Soil or macerated substratum is suspended in water and serially diluted. Known volumes of each dilution are spread on agar plates. Colonies grow from individual propagules (spores, hyphal fragments).
+Soil or macerated substratum is suspended in water and serially diluted. Known volumes of each dilution are spread on [[query-how-to-make-agar-plates-for-mushroom-cultivation]]. Colonies grow from individual propagules (spores, hyphal fragments).
 
 ### Standard Protocol
 1. **Weigh sample** (typically 1-10 g dry weight equivalent)
@@ -127,7 +127,7 @@ Always use multiple media with different selective agents:
 
 ## See Also
 
-- [[fungal-culture-media-formulas-applications]]
+- fungal-culture-media-formulas-applications
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[microfungal-diversity-host-plant-relationship]]
 - [[microfungal-species-diversity-large-areas]]

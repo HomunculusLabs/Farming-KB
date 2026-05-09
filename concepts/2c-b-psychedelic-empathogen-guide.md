@@ -1,5 +1,5 @@
 ---
-title: 2C-B Psychedelic Empathogen Guide
+title: 2C-B 2c b psychedelic empathogen guide Guide
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
@@ -20,7 +20,7 @@ With "street" 2C-B it is hard to know exactly how much is in a capsule, likely c
 |------|--------|
 | 8 mg | Starting test dose for new users |
 | 12-16 mg | "Museum level" — enhanced perception, functional in public |
-| 20-24 mg | Full psychedelic experience with visuals and intensified feelings |
+| 20-24 mg | Full [[leary-psychedelic-experience-bardo-mapping]] with visuals and intensified feelings |
 | 25-35 mg | Strong psychedelic experience (standard for most users) |
 | 40 mg | Unpleasant experience reported by experienced users (Gracie and Zarkov) |
 | 50 mg | Required for low-sensitivity individuals (Turner's personal dose) |
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

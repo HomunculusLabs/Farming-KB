@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Salvia apiana** Jeps., commonly known as **white sage** or **bee sage**, is an evergreen perennial shrub in the family Lamiaceae native to the southwestern  and northwestern Mexico. It is one of the most culturally significant plants in North American Indigenous traditions, widely used in smudging ceremonies for spiritual purification. The species is highly aromatic, drought-adapted, and supports a diverse range of native pollinators.
+**Salvia apiana** Jeps., commonly known as **white sage** or **bee sage**, is an evergreen perennial shrub in the family Lamiaceae native to the southwestern  and northwestern Mexico. It is one of the most culturally significant plants in [[growing-gourmet-north-american-reishi-species]] Indigenous traditions, widely used in smudging ceremonies for spiritual purification. The species is highly aromatic, drought-adapted, and supports a diverse range of native pollinators.
 
 ## Taxonomy
 
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

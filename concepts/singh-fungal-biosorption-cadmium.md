@@ -1,5 +1,5 @@
 ---
-title: Fungal Biosorption of Cadmium
+title: dighton-fungal-biosorption-heavy-metal-remediation of Cadmium
 created: 2026-04-26
 tags: [mycoremediation, biosorption, heavy-metals, cadmium]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 
 # Fungal Biosorption of Cadmium
 
-Cadmium (Cd) is one of the most toxic heavy metals in the environment,
+Cadmium (Cd) is one of the most toxic [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] in the environment,
 ranking alongside mercury and lead in terms of its environmental and
 health impacts. Fungal biosorption has emerged as a promising
 cost-effective technology for cadmium removal from aqueous solutions
@@ -76,7 +76,7 @@ morphology across all groups of fungi. Cadmium adsorption to
 Schizophyllum commune leads to the formation of aerial hyphae, loops,
 and the development of connective filaments. Stereum hirsutum produces
 a yellow-orange pigment in mycelium and extracellularly in the presence
-of 0.25 mM or more Cd(II). Trametes versicolor produces a brown pigment
+of 0.25 mM or more Cd(II). [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] produces a brown pigment
 when grown on Cd(II)-containing medium. These morphological changes
 serve as visual indicators of cadmium stress and may reflect the
 activation of defense mechanisms within fungal cells.
@@ -118,14 +118,14 @@ rouxii biomass, sorption capacities in multimetal systems are lower
 than in single-metal systems. Aspergillus niger biomass displays the
 adsorption of heavy metals in the preferential order lead > copper >
 cadmium. Cadmium adsorption is more sensitive to the presence of both
-copper and lead. Phanerochaete chrysosporium shows competitive
+copper and lead. [[staycare-phanerochaete-chrysosporium-in-bioremediation]] shows competitive
 biosorption of Cd(II), Pb(II), and Cu(II) with adsorption capacities of
 7.80 mg for Cd(II), 16.91 mg for Pb(II), and 7.57 mg for Cu(II) per
-gram of dry fungal biomass.
+gram of dry [[bioremediation-fungal-biomass-biosorbent-material]].
 
 ## Future Perspectives
 
-The development of metal-resistant species through genetic engineering
+The development of metal-resistant species through [[fukuoka-textdoc-genetic-engineering-critique-warning]]
 holds promise for enhanced cadmium biosorption. With identification of
 target genes in model organisms, sequences can be modified for
 heterologous or homologous expression in fungi with high biosorption
@@ -137,5 +137,5 @@ achieve the full potential of fungal cadmium biosorption technology.
 ## See Also
 
 - [[fungal-bioaccumulation-vs-biosorption]]
-- [[mycoremediation-heavy-metals-detailed]]
+- [[mycoremediation-of-heavy-metals]]
 - [[fungal-binary-ternary-biosorption]]

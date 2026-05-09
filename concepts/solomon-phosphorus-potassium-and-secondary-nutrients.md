@@ -15,7 +15,7 @@ While nitrogen often dominates garden fertility discussions, Steve Solomon
 emphasizes that vegetables also need large amounts of phosphorus and
 potassium, plus significant quantities of calcium, magnesium, sulfur,
 and other essential minerals in tiny traces. The so-called complete
-chemical fertilizers (NPK formulations like 10-10-10) are, in his view,
+[[cervantes-chemical-fertilizers-guide]] (NPK formulations like 10-10-10) are, in his view,
 entirely incomplete because they lack these secondary and micronutrients.
 
 ## Why NPK Alone Is Insufficient
@@ -28,7 +28,7 @@ nutrition. Vegetables grown with incomplete fertilizers are more easily
 attacked by insects and disease, and often do not grow as large or as
 nutritious as they should.
 
-Solomon's Complete Organic Fertilizer (COF) recipe addresses this by
+Solomon's Complete [[complete-organic-fertilizer-cof-recipe-solomon]] (COF) recipe addresses this by
 combining seedmeal (for nitrogen), a phosphorus source, and agricultural
 lime (for calcium and magnesium), plus optional kelp meal for trace
 minerals. The COF provides a far more balanced nutrient profile than any
@@ -72,7 +72,7 @@ and magnesium; agricultural lime provides calcium only and is preferred
 when soil magnesium levels are already adequate.
 
 These secondary nutrients are particularly important for preventing
-blossom end rot in tomatoes and peppers (a calcium deficiency symptom)
+blossom end rot in tomatoes and peppers (a [[knf-calcium-deficiency-symptoms]] symptom)
 and for maintaining good soil structure. Calcium helps flocculate clay
 particles, improving soil structure and drainage.
 
@@ -90,7 +90,7 @@ Solomon is particularly concerned about the decline of trace minerals in
 modern vegetables. Soils that have been farmed intensively for decades
 often lack important micronutrients like boron, iron, manganese, zinc,
 copper, and molybdenum. These are needed in tiny amounts but are
-essential for plant health and for the nutritional quality of the
+essential for plant health and for the [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of the
 harvest.
 
 Kelp meal is Solomon's recommended trace mineral supplement. It
@@ -114,10 +114,10 @@ throughout.
 
 Soil microbes need all the usual plant nutrients: phosphorus,
 potassium, calcium, magnesium, and trace minerals. When undecomposed
-organic matter is mixed into soil, even though that organic matter
+[[hamilton-composting-and-organic-matter-management]] is mixed into soil, even though that organic matter
 contains many plant nutrients, those nutrients are temporarily locked up
 by the microbial population until decomposition is well advanced. This
-is why sheet composting must be done far enough in advance of planting
+is why [[solomon-sheet-composting-mulch-gardening]] must be done far enough in advance of planting
 for decomposition to be largely complete.
 
 ## Related

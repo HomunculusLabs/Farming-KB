@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushroom Altitudinal Distribution
+title: Psilocybin psilocybin mushroom altitudinal distribution Distribution
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -12,19 +12,19 @@ The elevational range and altitudinal patterns of psilocybin-containing mushroom
 
 ## Overview
 
-Neurotropic fungi occupy an extraordinary altitudinal range, from sea level to approximately 4,000 meters elevation.
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] occupy an extraordinary altitudinal range, from sea level to approximately 4,000 meters elevation.
 
 The distribution of species across elevation gradients follows distinct ecological patterns related to temperature, humidity, forest type, and substrate availability.
 
 ## Sea Level to Low Elevation (0-500 m)
 
-Low-elevation tropical and subtropical species dominate the largest number of psilocybin mushroom habitats.
+Low-elevation tropical and subtropical species dominate the largest number of psilocybin [[psilocybin-mushroom-habitats-ecology]].
 
 [[panaeolus-cyanescens-bali-omelette]] and other Copelandia species thrive at low tropical elevations.
 
 In the Hawaiian Archipelago, Copelandia cyanescens grows at 3,000 meters altitude (Mavi), demonstrating the genus can span from sea level to high elevations.
 
-Coastal regions of Southeast Asia support diverse psilocybin species on water buffalo dung at approximately 3,000 ft. (915 m) in valley areas with monsoon climate conditions.
+Coastal regions of [[psilocybe-southeast-asia-pacific]] support diverse psilocybin species on water buffalo dung at approximately 3,000 ft. (915 m) in valley areas with monsoon climate conditions.
 
 ## Mid-Elevation Subtropical and Temperate (500-2,500 m)
 
@@ -44,7 +44,7 @@ This is one of the highest-elevation psilocybin mushroom species known.
 
 Psilocybe aztecorum presents strong relationships with [[psychedelic-mushroom-set-and-setting]] occupies temperate elevations across Europe, India, Russia, North and South America, and Australasia, though it is unknown in Mexico.
 
-[[psilocybe-global-biogeography]], [[neotropical-psilocybin-mushrooms]]
+[[psilocybe-global-biogeography]], neotropical-psilocybin-mushrooms
 ## Practical Considerations
 
 When working with Psilocybin Mushroom Altitudinal Distribution, several practical factors should be
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

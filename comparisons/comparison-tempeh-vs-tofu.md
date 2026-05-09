@@ -80,7 +80,7 @@ Tempeh and tofu are the two most important whole-soybean foods in global cuisine
 - **Frying**: Develops a deep golden-brown crust; best when sliced thin or crumbled to increase surface area
 - **Steaming**: Traditional Indonesian preparation — steaming before frying softens the texture
 - **Marinating**: Benefits from longer marinades (30 min+); acidic marinades penetrate better
-- **Distinctive flavor**: Nutty, earthy, mushroom-like umami from fungal metabolism; more assertive than tofu
+- **Distinctive flavor**: Nutty, earthy, mushroom-like umami from [[singh-fungal-metabolism-pahs]]; more assertive than tofu
 - **Crumbling**: Crumbled tempeh sautéed with soy sauce, smoked paprika, and garlic makes an excellent ground meat substitute
 
 ## Storage and Shelf Life
@@ -97,7 +97,7 @@ Tempeh and tofu are the two most important whole-soybean foods in global cuisine
 Both tofu and tempeh have favorable environmental profiles compared to animal proteins:
 
 - **Water footprint**: Tofu production uses less water per gram of protein than [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] can be made with kitchen basics — pot, colander, plastic bags — plus a source of warmth.
-- **Land use**: Both are highly efficient users of agricultural land compared to animal proteins, producing 10–20× more protein per hectare than beef.
+- **Land use**: Both are highly efficient users of [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] compared to animal proteins, producing 10–20× more protein per hectare than beef.
 
 ## Which to Choose?
 

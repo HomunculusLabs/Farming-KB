@@ -90,12 +90,12 @@ The combination of **vivid red-orange color, blunt ridges (not true gills), and 
 
 ## Ecology
 
-As an **obligate mycorrhizal species**, *C. cinnabarinus* forms mutualistic associations with the fine roots of hardwood trees. The fungal mycelium envelops root tips, facilitating bidirectional nutrient exchange: the fungus provides mineral nutrients and water to the tree while receiving photosynthetic carbohydrates.
+As an **obligate mycorrhizal species**, *C. cinnabarinus* forms mutualistic associations with the fine roots of hardwood trees. The fungal mycelium envelops root tips, facilitating bidirectional [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]: the fungus provides mineral nutrients and water to the tree while receiving photosynthetic carbohydrates.
 
 This mycorrhizal relationship has important ecological implications:
 
-- **Nutrient cycling** — the mycelial network mobilizes phosphorus and nitrogen from soil organic matter, making them available to host trees
-- **Forest connectivity** — underground fungal networks may connect multiple trees, facilitating resource sharing
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]** — the [[gadd-mycelial-network-dynamics]] mobilizes phosphorus and nitrogen from soil organic matter, making them available to host trees
+- **Forest connectivity** — underground fungal networks may connect multiple trees, facilitating [[mycelial-network-resource-sharing-plants]]
 - **Drought resilience** — mycorrhizal trees show improved water uptake during dry periods
 - **Soil structure** — fungal hyphae contribute to soil aggregation and stability
 
@@ -107,9 +107,9 @@ Wild chanterelle populations, including *C. cinnabarinus*, face increasing press
 
 Research on chanterelle ecology suggests several best practices for sustainable harvest:
 
-- **Cut rather than pull** — severing the mushroom at the base preserves the underground mycelium, which continues to support the mycorrhizal network
+- **Cut rather than pull** — severing the mushroom at the base preserves the underground mycelium, which continues to support the [[arbuscular-mycorrhizal-network-visualization-anastomosis]]
 - **Avoid over-harvesting** — leave mature specimens to complete spore dispersal; harvest selectively rather than clearing patches
-- **Minimize soil disturbance** — heavy trampling compacts soil and damages mycorrhizal networks
+- **Minimize soil disturbance** — heavy trampling compacts soil and damages [[dighton-mycorrhizal-networks-carbon-transfer]]
 - **Rotate harvest sites** — allow previously harvested areas to recover before re-harvesting
 
 Climate change poses a potential long-term threat to *C. cinnabarinus* populations. Mycorrhizal fungi are sensitive to shifts in temperature and precipitation patterns that could disrupt the timing and productivity of fruiting. Altered forest composition due to climate stress on host trees may also impact the species.

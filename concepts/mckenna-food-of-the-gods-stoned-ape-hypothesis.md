@@ -1,5 +1,5 @@
 ---
-title: McKenna's Stoned Ape Hypothesis in Food of the Gods
+title: McKenna's Stoned stoned-ape-hypothesis-mckenna-psychedelic-evolution in Food of the Gods
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -21,15 +21,15 @@ When hominids moved out of the trees and onto the grasslands, they
 increasingly encountered hooved grazing beasts and their manure. Our
 ancestors also encountered the mushrooms that grow in it. Several of these
 grassland mushrooms contain psilocybin: Panaeolus species and Stropharia
-cubensis, also called Psilocybe cubensis. This latter is the familiar "magic
+cubensis, also called [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]. This latter is the familiar "magic
 mushroom," now grown by enthusiasts worldwide.
 
-Of these mushroom species, only Stropharia cubensis contains psilocybin in
+Of these mushroom species, only [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] contains psilocybin in
 concentrated amounts and is free of nausea-producing compounds. It alone is
 pandemic -- it occurs throughout the tropical regions, at least wherever
 cattle of the zebu (Bos indicus) type graze. The first specimen was collected
 by the American botanist Earle in Cuba in 1906, but current botanical thinking
-places the species' point of origin in Southeast Asia.
+places the species' point of origin in [[psilocybe-southeast-asia-pacific]].
 
 ## Archaeological Evidence
 
@@ -40,8 +40,8 @@ suggests mushroom use was a human trait that emerged wherever human
 populations and cattle evolved together. Ample evidence supports the notion
 that S. cubensis is the [[mckenna-psilocybin-three-levels-of-evolution]]:
 
-1. **Low dose (visual acuity):** Small amounts of psilocybin improved edge
-   detection and visual acuity. Citing research by Roland Fischer showing
+1. **[[ultra-low-dose-brassinosteroid-response-psilocybe-cubensis]] (visual acuity):** Small amounts of psilocybin improved edge
+   detection and visual acuity. Citing research by [[mckenna-roland-fischer-psilocybin-visual-acuity]] showing
    that graduate students performed better at detecting when parallel lines
    became skewed after small doses, McKenna argues this "chemical binocular"
    effect conferred direct hunting and gathering advantages. As visual acuity

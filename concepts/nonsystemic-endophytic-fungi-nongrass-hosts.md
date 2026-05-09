@@ -1,5 +1,5 @@
 ---
-title: Nonsystemic Endophytic Fungi Nongrass Hosts
+title: Nonsystemic comparison-endophytic-fungi-vs-mycorrhizal-fungi Nongrass Hosts
 created: 2026-04-26
 tags:
   - endophytes
@@ -25,7 +25,7 @@ They are primarily Ascomycota and their anamorphic states.
 Nonsystemic endophytes are defined as fungi that:
 - Colonize internal plant tissues (leaves, stems, roots,
   bark, and reproductive structures)
-- Spend a significant portion of their life cycle within
+- Spend a significant portion of their [[bloomfield-fungal-life-cycle-spiral-versus-circle]] within
   plant tissues without causing apparent harm
 - Are horizontally transmitted (between individuals) rather
   than vertically transmitted (through seeds)
@@ -49,7 +49,7 @@ mechanisms:
 ### Stress Tolerance
 
 Some endophytes confer enhanced tolerance to environmental
-stresses including drought, heat, and heavy metals. The
+stresses including drought, heat, and [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]. The
 best-studied examples are from grass systems, but similar
 effects have been documented in nongrass hosts.
 
@@ -57,9 +57,9 @@ effects have been documented in nongrass hosts.
 
 Standard methods for studying nonsystematic endophytes
 include:
-- **Surface sterilization** of plant tissues (sequential
+- **[[challenge-organisms-nasa-microwave-surface-sterilization-testing]]** of plant tissues (sequential
   washes in ethanol and sodium hypochlorite) to eliminate
-  epiphytic fungi
+  [[foliar-epiphytic-fungi-sooty-mildews-powdery-mildews]]
 ## Practical Considerations
 
 Successful implementation of Nonsystemic Endophytic Fungi Nongrass Hosts requires attention to
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

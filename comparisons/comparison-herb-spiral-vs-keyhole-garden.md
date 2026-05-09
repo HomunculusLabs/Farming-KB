@@ -1,11 +1,12 @@
 ---
-title: Herb Spiral vs Keyhole Garden
+title: Herb Spiral vs comparison-keyhole-garden-vs-raised-bed
 created: 2026-04-28
 date: 2026-04-25
 updated: 2026-04-25
 tags: [comparison, permaculture, garden-design, intensive-gardening, 
 small-space]
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -13,14 +14,14 @@ type: comparison
 
 ## Overview
 
-The [[permaculture-designers-manual-keyhole-garden]] are two of the most 
+The permaculture-designers-manual-keyhole-garden are two of the most 
 recognizable Zone 1 permaculture garden features. Both maximize growing area in 
-compact spaces and incorporate permaculture principles of edge effect and 
+compact spaces and incorporate permaculture principles of [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]] and 
 efficient access. However, they serve fundamentally different purposes: the 
 herb spiral creates vertical microclimates for diverse herb cultivation, while 
 the keyhole garden is a self-fertilizing raised bed designed for food 
 production, particularly in arid regions. Understanding their distinct 
-strengths helps designers choose the right feature for their site conditions 
+strengths helps designers [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] feature for their site conditions 
 and goals.
 
 ## Herb Spiral
@@ -30,13 +31,13 @@ descending spiral, typically 5-6 feet in diameter and 3-4 feet tall at its
 center. Built with stone or brick retaining walls that create a series of 
 microclimates, the spiral exploits vertical space and solar orientation to 
 provide a range of growing conditions in a single footprint. The top of the 
-spiral is hot, dry, and sunny, suitable for Mediterranean herbs like rosemary 
+spiral is hot, dry, and sunny, suitable for [[query-best-mediterranean-herbs-for-beginner-herb-garden]] like rosemary 
 and thyme. The middle section offers moderate conditions for herbs like sage 
 and cilantro. The bottom is cool, moist, and shaded, ideal for parsley, mint, 
 and water-loving plants. Originating from permaculture's application of natural 
 pattern design, the spiral is both a functional growing system and an aesthetic 
 centerpiece. It works well in temperate climates and fits naturally into 
-kitchen garden zones where frequent harvest access is needed.
+[[holzer-kitchen-garden-herbs-and-medicinal-plants]] zones where frequent harvest access is needed.
 
 ## Keyhole Garden
 
@@ -67,7 +68,7 @@ basket |
 | Water management | Relies on rainfall/irrigation | Wicking from central 
 basket |
 | Climate origin | Temperate permaculture | Arid regions (Lesotho, Africa) |
-| Ideal crops | Herbs, small perennials | Vegetables, leafy greens, root crops |
+| Ideal crops | Herbs, small perennials | Vegetables, [[solomon-leafy-greens-growing]], root crops |
 | Maintenance level | Moderate (weeding, replanting) | Low (add compost to 
 basket) |
 | Accessibility | Requires reaching across | Keyhole notch allows close access |
@@ -118,7 +119,10 @@ capacity.
 
 ## See Also
 
-- [[permaculture-designers-manual-keyhole-garden]] for building plans and compost basket details
+- permaculture-designers-manual-keyhole-garden for building plans and compost basket details
 - [[zone-1-intensive-garden]] for Zone 1 planning principles
 - gaias garden herb spiral and natural patterns for Toby Hemenway's approach
 - [[comparison-banana-circle-vs-herb-spiral]]
+- [[comparison-herb-spiral-vs-keyhole-beds]]
+- [[toby-hemenway]]
+- [[water-management]]

@@ -1,9 +1,9 @@
 ---
-title: Shiitake Lentinan Cancer Therapy
+title: cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials Cancer Therapy
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - Smith, Rowan and Sullivan (2002). Medicinal Mushrooms: Their therapeutic properties and current medical usage with special emphasis on cancer treatments. University of Strathclyde.
+  - Smith, Rowan and Sullivan (2002). comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive: Their therapeutic properties and current medical usage with special emphasis on cancer treatments. University of Strathclyde.
   - Chihara, G. (1992). Immunopharmacology of lentinan, a polysaccharide isolated from Lentinus edodes. Immunopharmacology and Immunotoxicology 14, 251-281.
   - Wasser, S.P. and Weis, A.L. (1999). Medicinal properties of substances occurring in higher basidiomycetes mushrooms. International Journal of Medicinal Mushrooms 1, 31-62.
   - Hobbs, C. (1995). Medicinal Mushrooms: An Exploration of Tradition, Healing, and Culture. Botanica Press.
@@ -30,7 +30,7 @@ An alpha-mannan peptide from cultured mycelium hot water extracts containing ser
 
 ## Mechanism of Action
 
-Lentinan is a T-cell oriented immunopotentiator. The cytostatic effect is due to host immune system activation:
+Lentinan is a T-cell oriented immunopotentiator. The cytostatic effect is due to [[fungal-virulence-factors-host-immune-evasion]] system activation:
 - Requires a functional T cell component for biological activity
 - Neither Lentinan nor Schizophyllan demonstrated antitumour activity when T cells were suppressed with cyclosporin A
 - Actions include: (1) increasing helper T cell production, (2) increasing macrophage production, (3) non-immunological increase of host defence through acute phase proteins and colony stimulating factors
@@ -58,7 +58,7 @@ Pre-clinical and clinical toxicity with Lentinan is rarely noted. Accumulated da
 
 ### Gastric and Colorectal Carcinoma
 
-Lentinan has proved most successful in prolonging overall survival of patients with gastric and colorectal carcinoma. In patients with inoperable or recurrent gastric cancer, tumour responses and prolonged median survival were noted.
+Lentinan has proved most successful in prolonging overall survival of patients with gastric and colorectal carcinoma. In patients with inoperable or recurrent [[lentinan-gastric-cancer-combination-therapy]], tumour responses and prolonged median survival were noted.
 
 **Tegafur Combination Study**: A randomised controlled study compared tegafur alone (n=68) versus Lentinan plus tegafur (n=77) in 145 patients. Results:
 - 50% survival time: 92 days (tegafur alone) vs. 173 days (Lentinan + tegafur)
@@ -72,11 +72,11 @@ In Japan, Lentinan is classified as a medicine and is widely used as an intraper
 
 ## Immunological Properties
 
-Lentinan and related compounds activate the host immune system through multiple pathways. PSK and PSP from turkey tail share a similar T-cell oriented immunopotentiator mechanism. The anti-tumour activity of (1-3)-beta-D-glucans operates primarily through host-mediated immune responses rather than direct cytotoxicity against tumour cells.
+Lentinan and related compounds activate the host immune system through multiple pathways. PSK and PSP from [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms]] share a similar T-cell oriented immunopotentiator mechanism. The anti-tumour activity of (1-3)-beta-D-glucans operates primarily through host-mediated immune responses rather than direct cytotoxicity against tumour cells.
 
 ## Safety
 
-Pre-clinical and clinical toxicity with Lentinan is rarely noted. The compound demonstrates remarkably few side-effects in Phase I human clinical tests, consistent with the broader safety profile of mushroom-derived beta-glucans. No maximum tolerated dose was reached in Japanese and Chinese Phase I studies.
+Pre-clinical and clinical toxicity with Lentinan is rarely noted. The compound demonstrates remarkably few side-effects in Phase I human clinical tests, consistent with the broader [[cannabis-safety-profile-and-overdose-risk]] of mushroom-derived beta-glucans. No maximum tolerated dose was reached in Japanese and Chinese Phase I studies.
 
 ## Current Status
 

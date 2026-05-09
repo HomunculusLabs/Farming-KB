@@ -5,19 +5,19 @@ updated: 2026-04-18
 type: concept
 tags: [psychedelics]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources: []
 ---
 
 # Psychedelic Microdosing
 
-Psychedelic microdosing is the practice of taking sub-perceptual doses of psychedelic compounds — doses small enough that they do not produce overt hallucinations or altered states, but large enough to potentially influence mood, cognition, and creativity. The practice has gained enormous popular interest since the mid-2010s, though scientific evidence for its claimed benefits remains limited and mixed.
+Psychedelic microdosing is the practice of taking sub-perceptual doses of psychedelic compounds — doses small enough that they do not produce overt hallucinations or [[weil-the-natural-mind-altered-states-normalcy]], but large enough to potentially influence mood, cognition, and creativity. The practice has gained enormous popular interest since the mid-2010s, though scientific evidence for its claimed benefits remains limited and mixed.
 
 ## Definition
 
 A microdose is typically defined as 1/10th to 1/20th of a standard recreational dose — approximately:
 
 - **LSD**: 5-15 micrograms (a full recreational dose is 100-200 micrograms). See [[psilocybin-compound-profile]] for details.
-- **DMT**: Very rarely microdosed due to short duration; if used, typically 1-2 mg orally
+- **DMT**: Very rarely microdosed due to [[savory-short-duration-grazing-and-cell-systems]]; if used, typically 1-2 mg orally
 
 The key principle is sub-perceptual: if you can clearly feel the effects, it is not a microdose. Effects should be subtle enough that a naive observer would not notice any change.
 
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

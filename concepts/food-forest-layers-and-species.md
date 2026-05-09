@@ -28,7 +28,7 @@ sources:
 
 # Food Forest Layers and Species
 
-Detailed species breakdown for each of the 7 food forest layers in USDA zones 7-8, with guild examples, spacing, nitrogen fixers, pollination partners, succession timeline, and animal integration. See [[food-forest-design]] for design principles and [[permaculture-useful-plants-reference]] for the full plant catalog.
+Detailed species breakdown for each of the 7 food forest layers in USDA zones 7-8, with guild examples, spacing, nitrogen fixers, pollination partners, succession timeline, and [[mollison-animal-integration-permaculture-design]]. See [[food-forest-design]] for design principles and [[permaculture-useful-plants-reference]] for the full plant catalog.
 
 ## Species by Layer (Zones 7-8)
 
@@ -71,9 +71,9 @@ Detailed species breakdown for each of the 7 food forest layers in USDA zones 7-
 ### 4. Herbaceous (Perennials) — Spacing: 1-3 ft
 | Species | Function | Notes |
 |---------|----------|-------|
-| Comfrey (*Symphytum officinale*) | Dynamic accumulator | THE key mulch plant. Chop-and-drop 4-6x/yr. K, Ca, Mg |
+| Comfrey (*Symphytum officinale*) | [[nutrient-dynamic-accumulator-reference]] | THE key mulch plant. Chop-and-drop 4-6x/yr. K, Ca, Mg |
 | Yarrow (*Achillea millefolium*) | Insectary, accumulator | P, K, Cu. Attracts ladybugs, parasitic wasps |
-| Stinging Nettle (*Urtica dioica*) | Accumulator, compost activator | Fe, N, K. Cook before eating. Contain roots |
+| [[comparison-stinging-nettle-vs-horsetail]] (*Urtica dioica*) | Accumulator, compost activator | Fe, N, K. Cook before eating. Contain roots |
 | Asparagus (*Asparagus officinalis*) | Food | 15-20 yr productive. Plant crowns in spring |
 | Rhubarb (*Rheum rhabarbarum*) | Food | Shade tolerant, long-lived |
 | Lovage (*Levisticum officinale*) | Food, accumulator | Tall (6 ft), celery substitute, deep taproot |
@@ -81,7 +81,7 @@ Detailed species breakdown for each of the 7 food forest layers in USDA zones 7-
 | Walking Onion (*Allium proliferum*) | Food, pest deterrent | Self-propagating topsets |
 | Egyptian Walking Onion | Food | Perennial, pest confuser |
 | Milkweed (*Asclepias*) | Pollinator host | Monarch butterfly host, contains cardenolides |
-| Jerusalem Artichoke (*Helianthus tuberosus*) | Food (root layer too) | Contain in root barrier — very aggressive |
+| [[comparison-jerusalem-artichoke-vs-potato]] (*Helianthus tuberosus*) | Food (root layer too) | Contain in root barrier — very aggressive |
 
 ### 5. Ground Cover — Spacing: 6-12 in
 | Species | N-Fix | Notes |
@@ -92,7 +92,7 @@ Detailed species breakdown for each of the 7 food forest layers in USDA zones 7-
 | Creeping Thyme | No | Edible, aromatic, bee forage |
 | Sweet Woodruff | No | Shade tolerant, medicinal |
 | Nasturtium | No | Edible, traps aphids, trails |
-| Creeping Phlox | No | Early spring color, erosion control |
+| Creeping Phlox | No | Early spring color, [[permplant-willows-salix-erosion-control-fodder]] |
 
 ### 6. Root Layer
 | Species | Zone | Notes |
@@ -101,7 +101,7 @@ Detailed species breakdown for each of the 7 food forest layers in USDA zones 7-
 | Groundnut (*Apios americana*) | 3-9 | Native, nitrogen-fixing vine, protein-rich tubers |
 | Horseradish | 3-9 | Contain — aggressive. Medicinal |
 | Yacon (*Smallanthus sonchifolius*) | 7-10 | Sweet tubers, low calorie. Harvest after frost |
-| Oca (*Oxalis tuberosa*) | 7-9 | Andean tuber, day-length sensitive |
+| Oca (*[[oxalis-tuberosa]]*) | 7-9 | Andean tuber, day-length sensitive |
 | Chinese Artichoke (*Stachys affinis*) | 4-9 | Small tubers, mild flavor, easy to grow |
 
 ### 7. Vine Layer
@@ -139,47 +139,6 @@ Detailed species breakdown for each of the 7 food forest layers in USDA zones 7-
 ### Persimmon Guild
 - **Center**: American persimmon (female, with 1 male nearby)
 - **N-fixers**: Autumn olive or goumi (same Elaeagnus genus — synergistic)
-- **Accumulators**: Comfrey, nettles (persimmons are heavy feeders young)
-- **Ground cover**: White clover + strawberry
-- **Shrubs**: Aronia, elderberry (tolerate shade, share harvest season)
-- **Vine**: Passionfruit (maypop) — dies back, shares late-season interest
-- **Animal integration**: Fallen fruit feeds ducks and goats
-
-## Nitrogen Fixers by Layer
-| Layer | Species | Fix Rate (lb N/acre/yr) |
-|-------|---------|------------------------|
-| Canopy | Black Locust, Honey Locust | 100-200 |
-| Understory | Russian Olive, Autumn Olive | 50-150 |
-| Shrub | Sea Buckthorn, Goumi, Siberian Pea | 30-100 |
-| Herbaceous | — (none significant in zone 7-8) | — |
-| Groundcover | White/Crimson Clover | 50-150 |
-| Root | Groundnut (*Apios*) | 10-30 |
-
-## Succession Timeline
-
-| Year | Focus | Activities |
-|------|-------|-----------|
-| 1 | Soil + structure | Sheet mulch, install swales, plant canopy + understory trees, clover ground cover, annual vegetables in gaps |
-| 2 | Fill shrubs + herbs | Plant shrub layer, comfrey rings around trees, berry bushes, begin chop-and-drop |
-| 3 | Fill gaps | Add herbaceous perennials, vines on trellises, root crops in designated areas |
-| 4-5 | Shade transition | Trees casting meaningful shade. Shift sun-loving annuals outward. Begin fruit harvest from early bearers |
-| 5-10 | Canopy closing | Shrub layer filling. Full fruit production beginning. Heavy mulch from chop-and-drop. Reduce irrigation |
-| 10+ | Mature system | Self-maintaining. Prune for light gaps. Harvest all layers. Minimal external inputs |
-
-## Duck and Goat Integration
-
-### Ducks
-- **Foraging**: Ducks eat slugs, snails, Japanese beetle adults, codling moth larvae dropped from trees. Run ducks through food forest in portable electronet from late summer through fall (after fruit harvest to avoid trampling/egg contamination).
-- **Fertilization**: Duck manure (NPK 0.6-1.4-0.4) directly feeds trees. Move frequently to avoid nitrogen burn.
-- **Water**: Position duck pond on downhill side of food forest — nutrient-rich overflow irrigates lower plantings. See [[duck-keeping]].
-- **Caution**: Keep ducks out during fruit ripening (contamination risk). Exclude from young tree root zones (compaction).
-
-### Goats
-- **Browse management**: Goats eat understory brush, fallen branches, and weed species. Use temporary fencing to rotate goats through food forest edges for 2-3 days per paddock, then rest 30-60 days.
-- **Pruning by grazing**: Goats will strip lower branches of browse species — use this to maintain clear understory paths. Protect young trees with tree tubes or cages.
-- **Fertilization**: Goat manure (NPK ~0.7-1.0-0.6) is safe to apply relatively fresh. See [[goat-keeping]].
-- **Caution**: Goats will eat fruit tree bark and kill young trees. NEVER leave goats unsupervised near young plantings. They debark apple, pear, and cherry trees readily. Use 4-5 ft welded wire cages around every tree under 3 inches caliper.
-
 ## Related Pages
 - [[food-forest-design]] — Design principles, guild concept, spacing overview
 - [[orchard-management]] — Pruning, pest management, seasonal care

@@ -1,5 +1,5 @@
 ---
-title: Leatherjacket Pest Control
+title: Leatherjacket comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -26,7 +26,7 @@ Leatherjackets are unmistakable in appearance — they are white, fat, and very 
 You will generally find leatherjackets when digging or hoeing. Because of their white color, they are easy to see and squash. This manual action is normally all that is needed to control their numbers.
 
 ### Encourage Natural Predators
-Ground beetles eat leatherjackets. Encourage them by growing ground cover plants, which provide habitat for predatory beetles.
+Ground beetles eat leatherjackets. Encourage them by growing [[fukuoka-citrus-orchard-ground-cover-cultivation]] plants, which provide habitat for predatory beetles.
 
 ## Related Pests Found Nearby
 
@@ -60,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

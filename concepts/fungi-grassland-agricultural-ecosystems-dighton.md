@@ -1,5 +1,5 @@
 ---
-title: Fungi in Grassland and Agricultural Ecosystems (Dighton)
+title: Fungi in Grassland and fungi grassland agricultural ecosystems dighton (Dighton)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -11,7 +11,7 @@ sources: [raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
 
 Updated: 2026-04-18
 
-Source: John Dighton, *Fungi in Ecosystem Processes*, Chapters 2-3, 5-6.
+Source: John Dighton, *Fungi in [[fungal-ecosystem-processes-overview]]*, Chapters 2-3, 5-6.
 
 ## Fungal Roles in Grassland Ecosystems
 
@@ -27,7 +27,7 @@ Arbuscular mycorrhizal (AM) fungi are the dominant mycorrhizal type in grassland
 
 - **Phosphorus acquisition** — AM hyphae extend beyond the root depletion zone to access phosphorus from soil volumes unavailable to roots alone
 - **Soil aggregation** — AM hyphae and glomalin production stabilize soil aggregates, critical for grassland soil structure and resistance to erosion
-- **Plant community interactions** — AM networks can mediate competition between grass species, influencing community composition
+- **Plant community interactions** — AM networks can mediate competition between grass species, influencing [[core-endorhiza-bacterial-community-composition-cannabis]]
 
 ### Soil Crust Fungi in Arid Grasslands
 States and Christensen (2001) described fungi associated with biological soil crusts in desert grasslands of Utah and Wyoming. These communities include:
@@ -35,7 +35,7 @@ States and Christensen (2001) described fungi associated with biological soil cr
 - Melanized hyphomycetes
 - Yeast-like fungi
 
-Soil crust fungal communities contribute to nitrogen fixation, carbon fixation, and soil stabilization in arid grassland environments where vascular plant cover is sparse.
+Soil crust fungal communities contribute to [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], carbon fixation, and soil stabilization in arid grassland environments where vascular plant cover is sparse.
 
 ## Fungal Contributions to Soil Structure
 
@@ -68,7 +68,7 @@ Agricultural tillage disrupts:
 - Soil aggregates stabilized by fungal hyphae and glomalin
 - The continuity of mycorrhizal inoculum from one crop to the next
 
-Reduced tillage and no-till systems generally maintain higher mycorrhizal colonization and diversity than conventional tillage systems.
+Reduced tillage and no-till systems generally maintain higher [[arbuscular-mycorrhizal-colonization-patterns]] and diversity than conventional tillage systems.
 
 ## Nutrient Cycling in Agroecosystems
 
@@ -94,7 +94,7 @@ This shift has implications for soil structure, nutrient retention, and disease 
 ### Agricultural Significance
 Endophyte-infected tall fescue and perennial ryegrass dominate millions of hectares of pasture globally. The endophytes (*Neotyphodium coenophialum* in tall fescue, *N. lolii* in perennial ryegrass) provide:
 - Insect resistance through alkaloid production
-- Possible drought tolerance (environment-dependent)
+- Possible [[dighton-fungal-drought-tolerance-plant-water-relations]] (environment-dependent)
 - Increased persistence under grazing
 
 ### Toxicosis Problems
@@ -117,10 +117,12 @@ Novel endophyte strains have been developed that retain insect-deterrent alkaloi
 | Plant defense | Endophytes | Alkaloid production |
 | Water relations | AM fungi, endophytes | Hyphal water transport, osmoregulation |
 
-## Related Pages
+## Related
+
+- fungi-in-agricultural-ecosystems Pages
 
 - [[arbuscular-mycorrhizal-networks]]
-- [[fungal-biodiversity-in-soil-ecosystems]]
+- fungal-biodiversity-in-soil-ecosystems
 - [[fungal-decomposition-nutrient-cycling]]
 - [[clavicipitaceous-grass-endophytes]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]

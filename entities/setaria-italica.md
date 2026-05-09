@@ -24,7 +24,7 @@ sources:
 
 The crop produces small, oval grains that are gluten-free and rich in protein, dietary fiber, and micronutrients. Foxtail millet is a staple food in semi-arid regions of India, China, and East Africa.
 
-Its exceptional drought tolerance, short growing season (60–90 days), and low input requirements make it a critical food security crop. It is classified as an "orphan crop" due to limited research investment relative to major cereals.
+Its exceptional [[dighton-fungal-drought-tolerance-plant-water-relations]], short [[savory-growing-season-and-non-growing-season-management]] (60–90 days), and low input requirements make it a critical food security crop. It is classified as an "orphan crop" due to limited research investment relative to major cereals.
 
 ## Taxonomy and Morphology
 
@@ -57,7 +57,7 @@ The crop is highly drought-tolerant, requiring only 400–600 mm of rainfall. It
 
 Optimal growth occurs at 20–30°C, though the crop tolerates temperatures from 15–35°C. It is adapted to a wide range of soils including sandy, loamy, and shallow rocky soils with pH 5.5–8.0.
 
-Sowing is done by broadcasting or drilling at 8–10 kg/ha. Row spacing of 25–30 cm is standard for line sowing. The crop has no serious pest or disease problems in most regions.
+Sowing is done by broadcasting or drilling at 8–10 kg/ha. [[wide-row-spacing-intensive-gardening-comparison]] of 25–30 cm is standard for line sowing. The crop has no serious pest or disease problems in most regions.
 
 Maturity occurs in 60–90 days, making it one of the fastest-maturing cereal crops. Average yields range from 800–1,500 kg/ha under rainfed conditions, with irrigated yields reaching 2,500 kg/ha.
 
@@ -85,15 +85,15 @@ The grains are rich in B vitamins, particularly niacin (3–4 mg/100 g). They al
 
 Foxtail millet has a shallow but efficient root system that extracts water from upper soil layers. This makes it ideal for regions with short, erratic rainy seasons.
 
-The crop produces substantial biomass in a short period, providing good ground cover. Crop residues are used as fodder, containing 6–8% crude protein with good palatability.
+The crop produces substantial biomass in a short period, providing good [[fukuoka-citrus-orchard-ground-cover-cultivation]]. Crop residues are used as fodder, containing 6–8% crude protein with good palatability.
 
 In traditional farming systems, foxtail millet serves as a famine-reserve crop. Its reliability under marginal conditions provides food security during drought years when other cereals fail.
 
-Straw is used for thatching, mulching, and fuel in rural areas. The grains are also used as poultry feed and in brewing traditional alcoholic beverages in some regions.
+Straw is used for thatching, mulching, and fuel in rural areas. The grains are also used as [[knf-poultry-feed-preparation]] and in brewing traditional alcoholic beverages in some regions.
 
 The rapid growth cycle allows for multiple harvests per year in favorable climates. Double-cropping with legumes is common in parts of southern India.
 
-Research interest has increased due to its small genome (~490 Mbp), making it a model system for studying C4 photosynthesis and stress tolerance in grasses.
+Research interest has increased due to its small genome (~490 Mbp), making it a model system for studying C4 photosynthesis and [[fungal-lichen-stress-tolerance-and-poikilohydry]] in grasses.
 
 ## Culinary and Cultural Significance
 

@@ -1,5 +1,5 @@
 ---
-title: Plant Teachers in Amazonian Shamanism
+title: Plant Teachers in mckenna-food-gods-amazonian-shamanism-ayahuasca
 created: 2026-04-28
 tags:
   - amazonian-shamanism

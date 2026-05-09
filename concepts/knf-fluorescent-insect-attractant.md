@@ -1,5 +1,5 @@
 ---
-title: Fluorescent Insect Attractant (FIA)
+title: knf fluorescent insect attractant Attractant (FIA)
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -83,10 +83,10 @@ Consult the [[knf-troubleshooting]].
 
 ## See Also
 
-- [[knf-preparations]] — KNF input preparations for crop health
+- [[knf-preparations]] — [[complete-knf-input-reference]] preparations for crop health
 
-- Knf Vs Jadam Vs Em — comparison of KNF with other natural farming systems
+- Knf Vs Jadam Vs Em — comparison of KNF with other [[comparison-natural-farming-vs-permaculture]] systems
 
-- [[knf-soap-water-and-hot-pepper]] — another natural pest control method in KNF
+- [[knf-soap-water-and-hot-pepper]] — another [[fukuoka-natural-pest-balance]] control method in KNF
 
-- [[cho-han-kyu-life-and-philosophy]] — founder of Korean Natural Farming
+- [[cho-han-kyu-life-and-philosophy]] — founder of [[query-jadam-vs-korean-natural-farming]] Farming

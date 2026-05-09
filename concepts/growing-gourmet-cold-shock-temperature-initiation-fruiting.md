@@ -1,5 +1,5 @@
 ---
-title: Cold Shock and Temperature Initiation for Mushroom Fruiting
+title: Cold Shock and Temperature Initiation for ectomycorrhizal-mushroom-fruiting-ecology
 created: 2026-04-26
 tags:
   - mushroom-cultivation
@@ -18,19 +18,19 @@ type: concept
 
 ## Overview
 
-Temperature manipulation is one of the four major environmental factors
+Temperature manipulation is one of the four major [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
 in the [[growing-gourmet-growing-room-ventilation-air-exchange]] and cooling strategies.
 
 ## High Temperature Fruiting
 
-Many warm weather strains will not produce at cooler temperatures.
+Many [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]] strains will not produce at cooler temperatures.
 Unless air temperature is elevated above the minimum threshold for
 triggering fruiting, the mycelium remains in stasis -- what
 cultivators term "over-vegetation." With most temperature-tolerant
 strains, higher temperatures cause the mushrooms to develop more
 quickly once initiated.
 
-The Paddy Straw Mushroom exemplifies the extreme warm-weather
+The Paddy [[mushroom-training-straw-mushroom-cultivation]] exemplifies the extreme warm-weather
 strategy, requiring temperatures above 75 degrees F. throughout its
 entire life cycle. At the other extreme, some cold-weather Oyster
 strains require prolonged cold shock periods before they will
@@ -47,7 +47,7 @@ principles of temperature initiation include:
 - Time the cold shock to coincide with full colonization
 - Cycle strains seasonally to minimize energy costs for heating
   and cooling
-- For indoor cultivation, use precise thermostatic controls and
+- For [[cannabis-sativa-indoor-cultivation-techniques]], use precise thermostatic controls and
   adequate [[growing-gourmet-fruiting-abnormalities-malformations]]
 
 - [[growing-gourmet-fruiting-parameters]]
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,3 +111,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[cold-shock-fruiting-strain-specificity]]

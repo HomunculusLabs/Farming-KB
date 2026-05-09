@@ -20,7 +20,7 @@ fungi with remarkably diverse mycoparasitic lifestyles. Modern
 taxonomic revision has revealed that what was historically called
 A. album actually comprises multiple distinct species with
 different ecological roles, including myxomyceticolous parasites
-(attacking slime molds), rust hyperparasites, and mushroom
+(attacking [[bloomfield-slime-molds-myxomycetes-plasmodial-protists]]), rust hyperparasites, and mushroom
 pathogens. This taxonomic complexity means that much of the older
 literature requires careful reevaluation.
 
@@ -83,7 +83,7 @@ infects mushroom sporocarps and reduces yield in cultivated
 mushroom operations. In Australia, it has been identified as a
 recurring problem in mushroom farms (van Zaayen and Gams 1982),
 where it causes spotting, deformation, and reduced quality of
-cultivated mushrooms such as [[biodiversity-powdery-mildews]] (Hijwegen and Buchenauer 1984), growing on the
+[[fungi-cultivated-mushrooms-pathogens-competitors]] such as [[biodiversity-powdery-mildews]] (Hijwegen and Buchenauer 1984), growing on the
 superficial mycelium and within the host structures. However, it
 is much less common on powdery mildews than the specialized
 Ampelomyces quisqualis, which dominates this particular niche as
@@ -98,7 +98,7 @@ The A. album complex illustrates the taxonomic and ecological
 complexity hidden within seemingly simple fungal species names.
 Its ability to function as a rust hyperparasite makes L.
 dimorphum a candidate for stem rust biocontrol in cereals, while
-L. aphanocladii represents a pest problem in mushroom
+L. aphanocladii represents a [[fukuoka-textdoc-pesticide-creates-pest-problem-citrus-orchard]] in mushroom
 cultivation. The diverse ecological roles within this species
 complex make it a valuable model for studying mycoparasitic
 evolution and host specialization.

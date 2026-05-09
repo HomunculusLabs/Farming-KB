@@ -19,7 +19,7 @@ updated: 2026-04-28
 sources:
   - Khasanova, L. et al. (2017). "The genus Elaeagnus: A review of traditional uses and pharmacology." Journal of Ethnopharmacology, 195, 289–304.
   - Dirr, M.A. (2009). "Manual of Woody Landscape Plants" (6th ed.). Stipes Publishing.
-  - Martin, R. (2014). "Nitrogen fixation by actinorhizal shrubs in agroforestry systems." Agroforestry Systems, 88(5), 837–849.
+  - Martin, R. (2014). "[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] by actinorhizal shrubs in agroforestry systems." Agroforestry Systems, 88(5), 837–849.
   - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:588761-1
 aliases:
   - Goumi
@@ -66,7 +66,7 @@ The fruit is a drupe-like achene, 8–12 mm long, ovoid, ripening from silvery-g
 
 E. multiflora is native to eastern Asia, occurring naturally in central and southern China, Korea, and Japan. It grows in mountain slopes, forest margins, and riparian areas at elevations up to 1,800 m.
 
-The species has been introduced to Europe, North America, and New Zealand as an ornamental and fruiting shrub. It is less invasive than E. umbellata, though it can naturalize in favorable conditions.
+The species has been introduced to Europe, [[psilocybin-north-america-pacific-northwest]], and New Zealand as an ornamental and fruiting shrub. It is less invasive than E. umbellata, though it can naturalize in favorable conditions.
 
 It tolerates a wide range of soil types including poor, sandy, and mildly acidic to alkaline soils. The plant is drought-tolerant once established and can withstand temperatures to -25°C.
 
@@ -84,7 +84,7 @@ Goumi is easily propagated from seed (requiring 2–3 months cold stratification
 
 The berries are eaten fresh when fully ripe (astringent when underripe), cooked into jams, pies, and sauces, or dried. They pair well with other fruits in mixed preserves due to their tart flavor.
 
-In permaculture design, E. multiflora is used as a nitrogen-fixing understory shrub, a hedgerow component providing wind protection and wildlife habitat, and a companion plant for fruit trees and berry crops.
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], E. multiflora is used as a nitrogen-fixing understory shrub, a hedgerow component providing wind protection and wildlife habitat, and a companion plant for fruit trees and berry crops.
 
 ## Ecological Role
 
@@ -92,15 +92,15 @@ The Frankia actinorhizal symbiosis in Elaeagnus roots fixes atmospheric nitrogen
 
 The shrub provides food and cover for birds and small mammals. Flowers are attractive to pollinators including bees, butterflies, and beneficial predatory insects.
 
-Its extensive root system helps control erosion on slopes and improves soil structure through organic matter inputs from leaf litter and root turnover.
+Its extensive root system helps control erosion on slopes and improves soil structure through [[hamilton-composting-and-organic-matter-management]] inputs from leaf litter and root turnover.
 
 ## Traditional Medicine
 
-In Chinese herbal medicine, E. multiflora fruits and leaves have been used to treat coughs, diarrhea, and skin conditions. The fruits are traditionally prepared as decoctions or dried for later use.
+In Chinese herbal medicine, E. multiflora fruits and leaves have been used to treat coughs, diarrhea, and [[cannabis-for-skin-conditions-detailed]]. The fruits are traditionally prepared as decoctions or dried for later use.
 
 Korean folk medicine employs goumi fruit preparations for reducing fever and relieving sore throat. The bark has been used topically for wound healing.
 
-Modern pharmacological studies have confirmed anti-inflammatory, hepatoprotective, and antioxidant activities of fruit and leaf extracts, supporting some traditional uses. Further clinical research is needed.
+Modern pharmacological studies have confirmed anti-inflammatory, hepatoprotective, and antioxidant activities of fruit and leaf extracts, supporting some traditional uses. Further [[hofmann-lsd-clinical-research-early-studies]] is needed.
 
 ## Comparison with Related Elaeagnus Species
 
@@ -112,7 +112,8 @@ E. pungens (thorny olive) is primarily ornamental, with inedible fruit, whereas 
 
 ## See Also
 
-- [[elaeagnus-angustifolia]]
+- elaeagnus-angustifolia
 - [[dynamic-accumulators]]
 - [[food-forest]]
-- [[rubus-idaeus-entity]]
+- rubus-idaeus-entity
+- [[permaculture-design]]

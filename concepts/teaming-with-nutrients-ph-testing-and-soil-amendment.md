@@ -31,7 +31,7 @@ tenfold change in hydrogen ion concentration. A soil at pH 5 has ten times
 more hydrogen ions than one at pH 6, and one hundred times more than one at
 pH 7.
 Water molecules in soil are constantly being split by chemical reactions into
-hydrogen ions (H+) and hydroxyl ions (OH-). Clay and organic matter particles
+hydrogen ions (H+) and hydroxyl ions (OH-). Clay and [[hamilton-composting-and-organic-matter-management]] particles
 carry negative electrical charges that attract and hold hydrogen ions. As
 hydrogen ions accumulate on these surfaces, the soil becomes more acidic.
 Eventually, hydrogen ions occupy all available [[phosphorus-availability]] is the narrow range around pH 6.0-6.5.
@@ -45,16 +45,16 @@ Nitrogen availability is pH-dependent in a complex way. Acidity influences
 ## Plant pH Control Mechanisms
 Plants are not passive victims of soil pH. They have evolved mechanisms to
 adjust the pH of their rhizosphere (the soil immediately surrounding their
-roots). Root cells pump hydrogen ions (H+) out of the cell membrane to set up
-active transport of nutrient ions. This proton pumping both acidifies the
+roots). Root cells pump hydrogen ions (H+) out of the [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] to set up
+[[diffusion-osmosis-and-active-transport-in-plants]] of nutrient ions. This proton pumping both acidifies the
 rhizosphere and enables the electrochemical gradients that drive nutrient
 uptake.
 Plants also synthesize and release exudates -- carbon-based molecules
 secreted into the soil -- that adjust pH. Acidic exudates attract fungal
-communities, while alkaline exudates attract bacterial communities. These
+communities, while alkaline exudates attract [[cultivar-endorhiza-bacterial-communities-cannabis]]. These
 microbial partners further modify the rhizosphere chemistry. The plant exerts
 significant control over the pH of the soil immediately around its roots
-because nutrient availability depends on it.
+because [[ph-and-nutrient-availability-garden-soils]] depends on it.
 However, these pH adjustments require energy. The plant must divert resources
 from growth and maintenance to rhizosphere management. When soil pH is far
 from optimal, the energy cost becomes substantial, resulting in poorer growth.
@@ -80,7 +80,7 @@ typically have fewer pH problems than chemical gardeners.
 The practical implication is that sandy soils require more frequent, smaller
 amendments (low CEC), while clay soils require larger quantities but less
 frequent adjustment (high CEC). The CEC also influences the timing of
-fertilizer application: you wouldn't want to put fertilizers down in autumn
+[[cervantes-fertilizer-application-strain-feeding]]: you wouldn't want to put fertilizers down in autumn
 with low-CEC soils, because there would be nothing left by spring due to
 runoff.
 

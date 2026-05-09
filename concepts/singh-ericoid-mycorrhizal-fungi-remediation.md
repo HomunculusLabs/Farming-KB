@@ -1,5 +1,5 @@
 ---
-title: Ericoid Mycorrhizal Fungi in Bioremediation
+title: dighton-ericoid-mycorrhizal-nutrient-acquisition Fungi in Bioremediation
 created: 2026-04-26
 tags: [mycoremediation, mycorrhiza, ericoid-mycorrhiza, biodegradation]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: concept
 # Ericoid [[hymenoscyphus-ericae]], the most
 extensively studied ericoid mycorrhizal fungus, degrades tannin through
 extracellular polyphenol oxidase activity. This enzymatic capability is
-notably absent in ectomycorrhizal fungi, which generally do not produce
+notably absent in [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]], which generally do not produce
 extracellular proteases or polyphenol oxidases. The ability to break
 down recalcitrant phenolic polymers enables ericoid mycorrhizal fungi
 to access nitrogen bound in organic complexes, providing both the
@@ -27,7 +27,7 @@ activities relevant to bioremediation. Polyphenol oxidases catalyze the
 oxidation of phenolic compounds, facilitating the degradation of tannins
 and related polyphenolic pollutants. The synthesis of phenol-oxidizing
 enzymes in Hymenoscyphus ericae is enhanced by ammonium (NH4+) nutrition,
-suggesting that nitrogen availability regulates enzyme production. This
+suggesting that nitrogen availability regulates [[ligninolytic-enzyme-production-bioremediation]]. This
 regulatory mechanism links the fungal nitrogen nutrition strategy to
 pollutant degradation capacity. Additionally, ericoid mycorrhizal fungi
 produce cellulases, pectinases, and proteases that contribute to the
@@ -42,7 +42,7 @@ sites. Denny and Ridge (1995) documented metal resistance in ericoid
 endophytes, showing that these fungi can survive and function in soils
 containing elevated concentrations of toxic metals. The mechanisms of
 metal tolerance in ericoid mycorrhizal fungi include extracellular
-metal binding by cell wall components, intracellular sequestration, and
+[[chelation-and-metal-binding-in-plants]] by cell wall components, intracellular sequestration, and
 the production of metal-chelating compounds. In their natural habitats,
 ericoid plants and their fungal symbionts colonize mine spoil heaps and
 metal-contaminated soils, demonstrating inherent adaptation to
@@ -81,7 +81,7 @@ could benefit from the polyphenol oxidase activity of these fungi.
 Mine spoil reclamation using ericaceous plants inoculated with their
 mycorrhizal partners offers a natural approach to ecological
 restoration. The combination of metal tolerance, organic matter
-degradation capacity, and plant growth promotion makes ericoid
+degradation capacity, and plant [[brassinosteroid-growth-promotion-psilocybe-cubensis]] makes ericoid
 mycorrhizal fungi particularly suited for integrated remediation of
 sites contaminated with both organic and inorganic pollutants.
 
@@ -93,7 +93,7 @@ More research is needed on the range of pollutants degraded by these
 fungi, the optimization of inoculation protocols for remediation
 applications, and the molecular mechanisms underlying their metal
 tolerance. The identification and characterization of additional
-ericoid mycorrhizal fungal species beyond Hymenoscyphus ericae would
+ericoid [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] species beyond Hymenoscyphus ericae would
 expand the toolkit available for bioremediation. Metagenomic and
 metatranscriptomic approaches could reveal the full enzymatic potential
 of ericoid mycorrhizal communities in contaminated environments.
@@ -101,5 +101,5 @@ of ericoid mycorrhizal communities in contaminated environments.
 ## See Also
 
 - [[ectomycorrhizal-mushroom-fruiting-ecology]]
-- [[mycoremediation-chemical-warfare-agents]]
+- mycoremediation-chemical-warfare-agents
 - [[fungal-indicators-soil-quality-ecosystem-health]]

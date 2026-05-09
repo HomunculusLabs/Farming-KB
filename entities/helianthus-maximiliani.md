@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-**Helianthus maximiliani** Schrad., commonly known as Maximilian sunflower, is a perennial herbaceous plant in the family Asteraceae. It is native to the Great Plains and prairie regions of central North America, ranging from southern Canada to northern Mexico.
+**Helianthus maximiliani** Schrad., commonly known as [[hemenway-maximilian-sunflower-multipurpose-hedge]], is a perennial herbaceous plant in the family Asteraceae. It is native to the Great Plains and prairie regions of central [[psilocybin-north-america-pacific-northwest]], ranging from southern Canada to northern Mexico.
 
 The species is among the tallest native sunflowers, typically reaching 1.5–3.5 meters in height, with a robust central stem and numerous narrow leaves arranged in a distinctive whorled pattern along the upper stem. It produces clusters of bright yellow flower heads 5–8 cm across from late summer through autumn.
 
@@ -37,7 +37,7 @@ The species is named after Prince Maximilian of Wied-Neuwied, a German naturalis
 
 *H. maximiliani* is a perennial herb growing from a thick, fleshy rhizome system that produces multiple stems from a single root crown. Stems are erect, stout, and usually unbranched below the inflorescence, covered with short stiff hairs.
 
-Leaves are lanceolate to narrowly elliptic, 10–25 cm long and 1–4 cm wide, with entire or finely serrate margins. The most distinctive leaf feature is the tendency for leaves to occur in dense whorls of 3–6 at intervals along the upper stem, a trait unique among North American *Helianthus* species.
+Leaves are lanceolate to narrowly elliptic, 10–25 cm long and 1–4 cm wide, with entire or finely serrate margins. The most distinctive leaf feature is the tendency for leaves to occur in dense whorls of 3–6 at intervals along the upper stem, a trait unique among [[growing-gourmet-north-american-reishi-species]] *Helianthus* species.
 
 Each flower head (capitulum) is composed of 15–25 yellow ray florets surrounding a central disk of 40–60 yellow to brownish disk florets. The involucral bracts (phyllaries) are lanceolate, 12–18 mm long, and loosely appressed.
 
@@ -49,11 +49,11 @@ The rhizome system consists of thick, tuberous roots that can extend 30–60 cm 
 
 The species is native to the North American Great Plains, from Alberta and Saskatchewan in the north through the central United States (Montana, the Dakotas, Nebraska, Kansas, Oklahoma, Texas) to Coahuila and Nuevo León in Mexico.
 
-It occupies a wide range of open habitats including tallgrass and mixed-grass prairies, prairie remnants, roadside ditches, railroad rights-of-way, stream banks, and disturbed sites. It is particularly common along fence lines and in abandoned fields undergoing ecological succession.
+It occupies a wide range of open habitats including tallgrass and mixed-grass prairies, prairie remnants, roadside ditches, railroad rights-of-way, stream banks, and disturbed sites. It is particularly common along fence lines and in abandoned fields undergoing [[holmgren-ecological-succession-and-pulsing]].
 
 Maximilian sunflower is hardy to USDA Zone 3 (−40 °C) and is drought-tolerant once established. It thrives in full sun and well-drained loam or clay-loam soils but tolerates rocky, shallow, and moderately alkaline conditions. It is considered weedy in agricultural settings due to its aggressive rhizomatous spread.
 
-The species has been widely planted outside its native range for ornamental and ecological purposes and has naturalized in scattered locations across eastern North America and Europe. It is not considered invasive in most areas due to its limited seed dispersal and palatability to herbivores.
+The species has been widely planted outside its native range for ornamental and ecological purposes and has naturalized in scattered locations across [[polypore-fungi-eastern-north-america]] America and Europe. It is not considered invasive in most areas due to its limited seed dispersal and palatability to herbivores.
 
 Naturalized populations in Europe are concentrated in Germany, France, and the Czech Republic, where the species is cultivated as an ornamental and occasionally escapes to roadsides and railway embankments.
 
@@ -67,7 +67,7 @@ Native bee species including bumblebees (*Bombus* spp.), long-horned bees (*Meli
 
 The dense foliage and tall growth form provide cover and nesting habitat for ground-nesting birds and small mammals. Goldfinches and other seed-eating birds heavily consume the achenes in autumn and winter. Deer and rabbits browse the foliage in early spring before other forage becomes available.
 
-A single mature plant can produce 50–100 flower heads, each yielding 200–500 seeds. This prolific seed production makes Maximilian sunflower one of the most productive native seed sources for wildlife in the Great Plains region.
+A single mature plant can produce 50–100 flower heads, each yielding 200–500 seeds. This prolific [[cervantes-seed-production-storage]] makes Maximilian sunflower one of the most productive native seed sources for wildlife in the Great Plains region.
 
 ## Cultivation and Ornamental Use
 
@@ -97,7 +97,7 @@ Nutritional analysis of the seeds reveals approximately 25–30% oil content by 
 
 - [[helianthus-tuberosus]]
 - [[rudbeckia-laciniata]]
-- [[solidago-virgaurea]]
+- solidago-virgaurea
 - [[echinacea-angustifolia]]
 - [[coreopsis-lanceolata]]
 - [[solidago-odora]]

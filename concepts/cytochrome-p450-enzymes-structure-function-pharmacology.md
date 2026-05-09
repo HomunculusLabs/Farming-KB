@@ -2,7 +2,7 @@
 title: Cytochrome P450 Enzymes — Structure, Function, and Pharmacological Significance
 created: 2026-04-28
 updated: 2026-05-06
-aliases: [CYP450, cytochrome P450, CYP enzymes, drug metabolism enzymes]
+aliases: [CYP450, cytochrome P450, CYP enzymes, [[cytochrome-p450-enzymes-drug-metabolism]] enzymes]
 tags: [biochemistry, pharmacology, drug-metabolism, enzymology, toxicology]
 type: concept
 sources: []
@@ -48,7 +48,7 @@ losartan); CYP2C19 (omeprazole, clopidogrel, diazepam, voriconazole); CYP2D6
 acetami [[morphine]]. PMs get no
 analgesia; UMs produce excessive morphine (pediatric fatalities). FDA boxed
 warning (2013). Tamoxifen requires CYP2D6 for endoxifen formation; PMs have
-higher breast cancer recurrence. Atomoxetine: PMs have 10x higher AUC. Over 30
+higher [[blesching-cannabis-breast-cancer]] recurrence. Atomoxetine: PMs have 10x higher AUC. Over 30
 FDA labels contain CYP2D6 pharmacogenomic information.
 
 ## CYP2C9 and CYP2C19 Variants

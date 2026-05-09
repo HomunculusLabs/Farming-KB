@@ -1,11 +1,12 @@
 ---
-title: Natural Farming No Till Method
+title: comparison-natural-farming-vs-permaculture No Till Method
 created: 2026-04-28
 tags: [natural-farming, no-till, soil-health, fukuoka, sustainable-agriculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
@@ -30,7 +31,7 @@ asserts itself without pesticide application.
 
 ## Comparison with Scientific Farming
 
-The objective of natural farming is non-action and a return to nature;
+The objective of natural farming is non-action and a [[emcdda-return-to-nature-megatrend-mushroom-appeal]];
 it is centrifugal and convergent. Scientific farming breaks away from
 nature with the expansion of human wants and desires; it is centripetal
 and divergent. The addition of new technology to scientific farming only
@@ -58,7 +59,7 @@ agriculture.
 
 ## See Also
 
-- [[natural-farming-cover-crops]] for the role of clover and green
+- [[natural-farming-cover-crops]] for the role of [[fukuoka-clover-and-green-manure-cropping]]
   manure in the no-till system
 - [[natural-farming-microbial-inoculants]] for understanding soil
   biology that replaces tillage
@@ -80,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

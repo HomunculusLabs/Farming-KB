@@ -12,7 +12,7 @@ sources:
 # Psilocybe fascicata
 
 *Psilocybe fascicata* is a bluing psilocybin-containing mushroom species in the family Hymenogastraceae.
-It was originally described from Mexico and is one of the less commonly encountered psychoactive Psilocybe species, known primarily from subtropical and tropical regions of Central America.
+It was originally described from Mexico and is one of the less commonly encountered psychoactive Psilocybe species, known primarily from subtropical and tropical regions of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
 The species is named for its tendency to grow in dense clusters or fascicles.
 
 ## Taxonomy
@@ -20,10 +20,10 @@ The species is named for its tendency to grow in dense clusters or fascicles.
 The species was first described by Rolf Singer in the mid-20th century as part of his extensive taxonomic work on Mexican Psilocybe species.
 Singer's field work in Mexico during the 1950s and 1960s, conducted in collaboration with R. Gordon Wasson and others, resulted in the description of numerous new species and significantly expanded understanding of the genus in Mesoamerica.
 
-The epithet *fascicata* refers to the tendency of mushrooms to grow in fascicles (dense clusters or bundles), a common growth habit among wood-inhabiting psilocybin mushrooms.
+The epithet *fascicata* refers to the tendency of mushrooms to grow in fascicles (dense clusters or bundles), a common growth habit among wood-inhabiting [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]].
 This growth pattern is also observed in related species such as [[stamets-psi-psilocybe-azurescens-species-guide]], and is thought to be an adaptation that enhances spore dispersal efficiency from concentrated fruiting points.
 
-In Guzmán's 1983 monograph *The Genus Psilocybe*, the species was placed within Section Psilocybe based on its bluing reaction, spore morphology, and habitat preferences.
+In Guzmán's 1983 monograph *The Genus Psilocybe*, the species was placed within Section Psilocybe based on its [[field-guide-psilocybin-bluing-reaction-identification]], spore morphology, and habitat preferences.
 More recent molecular phylogenetic studies have generally supported this placement, though some species boundaries within the section have been revised based on DNA sequence data.
 
 ## Morphology
@@ -65,7 +65,7 @@ Fruiting is often triggered by prolonged periods of rain following a dry period,
 ### Ecological Role
 
 *P. fascicata* functions as a primary decomposer of lignocellulosic materials in its forest habitat.
-By breaking down woody substrates, it contributes to nutrient cycling and carbon release in montane forest ecosystems.
+By breaking down woody substrates, it contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and carbon release in montane forest ecosystems.
 
 The species has a strong preference for partially decayed hardwood, particularly fallen branches and logs in advanced stages of decomposition.
 It may also colonize wood-chip mulch and landscaping debris in disturbed areas near forest edges, though natural forest occurrences are more typical.
@@ -76,19 +76,19 @@ Associations with specific tree species have not been well documented, but colle
 ## Chemistry
 
 The species is confirmed to contain [[psilocin]], based on the strong bluing reaction and its placement within Section Psilocybe.
-Quantitative data from [[beug]] suggested moderate potency, though sample sizes in published analyses have been limited compared to better-known species like [[baeocystin]] has been reported in related species from the same geographic region, though specific analysis of *P. fascicata* for this compound remains limited.
+Quantitative data from beug suggested moderate potency, though sample sizes in published analyses have been limited compared to better-known species like [[baeocystin]] has been reported in related species from the same geographic region, though specific analysis of *P. fascicata* for this compound remains limited.
 [[psilocybe-cubensis-potency-variation-by-flush]] is expected to be conserved in *P. fascicata* and other members of Section Psilocybe, though direct genetic characterization of this species has not been performed.
 
 ## Cultivation
 
-*Psilocybe fascicata* is not commonly cultivated, as it is less well-known and less widely distributed than species like [[psilocybe-mexicana-cultivation]].
+*Psilocybe fascicata* is not commonly cultivated, as it is less well-known and less widely distributed than species like psilocybe-mexicana-cultivation.
 However, its wood-inhabiting nature suggests it could potentially be grown on sterilized wood-based substrates using techniques similar to those developed for other lignicolous psilocybin mushrooms.
 
 Successful cultivation would likely require a supplemented hardwood sawdust substrate, high humidity, moderate temperatures (20 to 25 degrees Celsius), and adequate fresh air exchange.
 Initiation of fruiting may require a temperature drop or increase in humidity, mimicking natural conditions in its montane habitat.
 
-The cespitose growth habit suggests that inoculated substrates may produce dense clusters of fruiting bodies rather than scattered individuals, which could make it a productive species if cultivation methods are successfully developed.
-A cold shock (reduction of 5 to 10 degrees Celsius) may be beneficial for triggering primordia formation, analogous to fruiting protocols used for [[psilocybe-mexicana-cultivation]] and other psychoactive species were traditionally employed by Mazatec, Nahua, and other indigenous peoples.
+The cespitose growth habit suggests that inoculated substrates may produce dense clusters of fruiting bodies rather than scattered individuals, which could make it a productive species if [[synthetic-log-cultivation-methods-guide]] are successfully developed.
+A cold shock (reduction of 5 to 10 degrees Celsius) may be beneficial for triggering [[growing-gourmet-primordia-formation-pinning]], analogous to fruiting protocols used for psilocybe-mexicana-cultivation and other psychoactive species were traditionally employed by Mazatec, Nahua, and other indigenous peoples.
 Its psychoactive properties may have contributed to the general knowledge of psychoactive fungi among these communities.
 However, it was likely not a primary ceremonial species given its relative rarity and wood-inhabiting habit.
 
@@ -105,5 +105,5 @@ Key differentiating features of *P. fascicata* include its clustered growth on d
 ## See Also
 
 - [[psilocin]]
-- [[psilocybe-mexicana-cultivation]]
-- [[beug]]
+- psilocybe-mexicana-cultivation
+- beug

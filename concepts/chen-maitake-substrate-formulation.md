@@ -1,5 +1,5 @@
 ---
-title: "Chen - Maitake Substrate Formulation for Synthetic-Log Cultivation"
+title: "Chen - chen maitake substrate formulation Formulation for Synthetic-Log Cultivation"
 created: 2026-04-28
 tags: [maitake, substrate, mushroom-cultivation, grifola-frondosa, sawdust]
 date: 2026-04-28
@@ -12,8 +12,8 @@ type: concept
 # Substrate Formulation for Maitake Synthetic-Log Cultivation
 
 [[mushroom-substrate-preparation]] and [[fungal-succession-wood-substrates]] and
-[[spent-mushroom-substrate-recycling]] and
-[[mushroom-substrate-supplementation]].
+spent-mushroom-substrate-recycling and
+[[cotter-compost-substrate-preparation-manure-mushroom-cultivation]].
 
 ### Calcium Compounds
 Calcium contributes to differentiation of the basidiocarps (fruiting
@@ -30,7 +30,7 @@ the growth of G. frondosa mushrooms. Used at 15% of the mixture (dry
 weight) in formula II, and 10% in formula III. Sandy soil or clay has
 not been found as beneficial (Wu et al., 1997). See
 [[mushroom-substrate-comparison]],
-[[oyster-mushroom-substrate-materials-guide]] for comparisons with other
+oyster-mushroom-substrate-materials-guide for comparisons with other
 species' substrate requirements.
 
 ## See Also
@@ -113,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

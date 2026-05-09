@@ -1,5 +1,5 @@
 ---
-title: Garden Care and Succession Planting
+title: Garden Care and query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Successful food production requires more than planting seeds and watering. Understanding plant succession, replanting strategies, and season extension techniques allows continuous harvests from a small space throughout much of the year.
+Successful food production requires more than planting seeds and watering. Understanding plant succession, replanting strategies, and season [[season-extension-techniques]] allows continuous harvests from a small space throughout much of the year.
 
 ## The Goal: Flowers for Vegetables, No Flowers for Herbs
 
@@ -60,7 +60,7 @@ Miniature greenhouses placed over individual plants. Options include:
 Pop over plants at night, remove first thing in the morning.
 
 ### Cold Frames
-Wooden boxes (often converted raised beds) with hinged glass or plastic lids. Old house windows work well for lids. Open during the day for ventilation, close at night to retain heat. Cold frames can extend the growing season by 4-6 weeks on each end.
+Wooden boxes (often converted raised beds) with hinged glass or plastic lids. Old house windows work well for lids. Open during the day for ventilation, close at night to retain heat. Cold frames can [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season by 4-6 weeks on each end.
 
 ### Cold-Hardy Plants for Cold Frames
 Anise, basil, broccoli, caraway, celery, chamomile, cherry tomato, chervil, chive, cilantro, cucumber, endive, Japanese greens, lettuce, mint, nasturtium, okra, oriental cabbage, parsley, rosemary, sage, Swiss chard, tarragon, thyme, turnip tops.
@@ -72,11 +72,11 @@ Carrots, turnips, leeks, kale, and some root crops are hardy to frost. Leave the
 ## Urban Garden Tips
 
 - Start with herbs if space is very limited
-- Build upward: hanging baskets, window greenhouses, wall shelving
-- Always grow sprouts in the kitchen and mushrooms in a dark place
+- Build upward: [[hamilton-hanging-baskets-organic]], window greenhouses, wall shelving
+- Always [[query-how-to-grow-sprouts-and-microgreens-at-home]] in the kitchen and mushrooms in a dark place
 - Use dwarf fruit trees trained flat against walls (espalier)
 - Find organic material from city parks, construction sites, neighbors, and Freecycle
-- Test soil for lead near roads and old painted buildings; add organic matter to make lead less bioavailable
+- Test soil for lead near roads and old painted buildings; add [[hamilton-composting-and-organic-matter-management]] to make lead less bioavailable
 
 ## See Also
 

@@ -74,8 +74,8 @@ encephalitis.
 
 The Manitoba study suggests mitigation of inflammation via CB2 receptor
 activation. To enhance CB2 activation, select an indica or indica-dominant
-strain with a lower THC to CBD ratio. Indica strains typically present with a
-higher proportion of cannabinoids that favor CB2 receptor binding, including
+strain with a lower THC to [[cannabis-thc-cbd-ratio-guide-for-conditions]]. Indica strains typically present with a
+higher proportion of cannabinoids that favor CB2 [[tihkal-receptor-binding-serotonin]], including
 CBD, CBC, and CBG.
 
 ## Clinical Significance
@@ -91,7 +91,7 @@ inflammation without the psychoactive effects associated with CB1 activation.
 ## Differential Diagnosis Context
 
 Encephalitis is distinct from meningitis (inflammation of the lining of the
-brain and spinal cord), though the two conditions may co-occur. Bacterial
+brain and [[blesching-cannabis-spinal-cord-injuries]]), though the two conditions may co-occur. Bacterial
 meningitis requires immediate antibiotic treatment, while viral encephalitis
 treatment options are more limited. The CB2-mediated anti-inflammatory pathway
 discovered in the Manitoba study represents a novel approach distinct from

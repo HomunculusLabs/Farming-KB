@@ -14,7 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Seed Junky Genetics. "Super Boof Strain Profile." seedjunky.com.
-  - Leafly Staff (2024). "Super Boof Cannabis Strain Information." Leafly.
+  - Leafly Staff (2024). "Super Boof [[blesching-cannabis-strain-selection-receptor-targeting]] Information." Leafly.
   - AllBud (2024). "Super Boof Weed Strain." AllBud.com.
   - Weedmaps (2024). "Super Boof Strain Review." Weedmaps.
   - Cookies Fam Genetics. Strain database entries.
@@ -108,7 +108,7 @@ pronounced sedation.
 
 **Duration:** 2–4 hours depending on dose and tolerance.
 
-Common applications include stress relief, mild pain management, mood
+Common applications include stress relief, mild [[cannabis-pain-management-protocols]], mood
 elevation, and creative work. Versatile enough for daytime use at low
 doses but best reserved for evening at higher doses.
 
@@ -123,14 +123,14 @@ topping. Sensitive to nitrogen excess in late flowering.
 **Climate preference:** Thrives in warm, Mediterranean climates.
 Temperature manipulation (cooling nights to 15–18°C in weeks 5–7 of
 flowering) maximizes purple color expression. Reduce humidity to
-40–50% in late flowering to prevent bud rot in dense colas.
+40–50% in late flowering to prevent [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]] in dense colas.
 
-**Pest resistance:** Moderate. Dense bud structure makes it somewhat
+**[[cannabis-disease-pest-resistance-breeding-clarke]]:** Moderate. Dense bud structure makes it somewhat
 susceptible to botrytis in humid conditions.
 
 ## Medical Applications
 
-High THC and caryophyllene content may be useful for chronic pain,
+High THC and caryophyllene content may be useful for [[cannabis-chronic-pain-management]],
 inflammation, stress-related anxiety, and insomnia. Limonene and
 linalool may offer additional anxiolytic and antidepressant effects.
 Not recommended for patients prone to THC-induced anxiety or paranoia.

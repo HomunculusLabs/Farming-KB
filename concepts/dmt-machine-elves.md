@@ -1,6 +1,6 @@
 ---
-title: DMT Machine Elves and Entity Encounters
-aliases: [self-transforming machine elves, DMT entities, hyperspace beings]
+title: DMT dmt-self-transforming-machine-elves-mckenna and dmt-entity-encounters-and-the-logos
+aliases: [self-transforming machine elves, [[mckenna-dmt-entities-borges-and-archaic-secret]], hyperspace beings]
 tags: [psychedelics, DMT, entities, consciousness, phenomenology]
 sources:
   - mckenna_t-tryptamines_consciousness.md
@@ -11,7 +11,7 @@ created: 2026-05-08
 
 ## Overview
 
-One of the most distinctive and widely reported features of the DMT experience
+One of the most distinctive and widely reported features of the [[mckenna-dmt-experience-and-hyperspace]]
 is the encounter with autonomous, seemingly intelligent entities. Terence
 McKenna famously described these beings as "self-transforming machine elves"
 in his 1975 book The Invisible Landscape, co-authored with his brother Dennis
@@ -54,7 +54,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -96,4 +96,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

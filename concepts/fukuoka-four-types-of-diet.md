@@ -5,7 +5,8 @@ updated: 2026-04-21
 type: concept
 tags: [fukuoka, natural-farming]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
@@ -17,21 +18,21 @@ Source: [[fukuoka-mu-nothingness-philosophy]].
 
 People first draw away from the empty diet that is the source of countless diseases. Next, becoming disenchanted with the scientific diet, which merely attempts to maintain biological life, many proceed to a diet of principle. Finally, transcending this, one arrives at the non-discriminating diet of the natural person.
 
-This progression is not linear or inevitable. Many people never move beyond the first two stages. Those who adopt the diet of principle often become trapped in a new form of rigidity -- substituting one set of rules for another. The truly natural diet cannot be reached through effort or will; it emerges spontaneously when the conditions are right.
+This progression is not linear or inevitable. Many people never move beyond the first two stages. Those who adopt the diet of principle often become trapped in a new form of rigidity -- substituting one set of rules for another. The truly [[fukuoka-natural-diet-as-foundation]] cannot be reached through effort or will; it emerges spontaneously when the conditions are right.
 
 ## Critique of the Scientific Diet
 
-Fukuoka argues that Western nutritional science has no effort to adjust the diet to the natural cycle. The diet that results serves to isolate human beings from nature. A fear of nature and a general sense of insecurity are often the unfortunate results.
+Fukuoka argues that Western nutritional science has no effort to adjust the diet to the [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]]. The diet that results serves to isolate human beings from nature. A fear of nature and a general sense of insecurity are often the unfortunate results.
 
 Spiritual and emotional values are entirely forgotten, even though foods are directly connected with human spirit and emotions. If the human being is viewed merely as a physiological object, it is impossible to produce a coherent understanding of diet.
 
-He writes: "Within one thing lie all things, but if all things are brought together not one thing can arise." Western science is unable to grasp this precept of eastern philosophy. A person can analyse and investigate a butterfly as far as he likes, but he cannot make a butterfly.
+He writes: "Within one thing lie all things, but if all things are brought together not one thing can arise." Western science is unable to grasp this precept of [[fukuoka-western-eastern-philosophy-agriculture]]. A person can analyse and investigate a butterfly as far as he likes, but he cannot make a butterfly.
 
 This passage captures the fundamental [[fukuoka-road-do-nothing-farming]]: the best outcome is achieved not by following rules but by allowing nature's inherent intelligence to operate without obstruction.
 
 ## Connection to Natural Farming Principles
 
-The progression through the four types of diet parallels the progression from conventional farming through organic farming to natural farming. Conventional agriculture is the agricultural equivalent of the lax diet -- driven by habit, convenience, and commercial interest without regard for wholeness. Organic farming resembles the diet of principle -- well-intentioned but still operating from human concepts about what is "natural." Only [[fukuoka-food-spirit-united]] that Fukuoka describes is only possible when food is grown in a way that preserves its connection to the living earth. Food grown by natural farming carries within it the qualities of the soil, the season, and the ecosystem from which it came. This is why Fukuoka insists that the natural diet cannot be separated from natural farming -- they are two expressions of the same fundamental relationship between human beings and the natural world.
+The progression through the four types of diet parallels the progression from conventional farming through [[coleman-deep-organic-farming-philosophy]] to natural farming. Conventional agriculture is the agricultural equivalent of the lax diet -- driven by habit, convenience, and commercial interest without regard for wholeness. Organic farming resembles the diet of principle -- well-intentioned but still operating from human concepts about what is "natural." Only [[fukuoka-food-spirit-united]] that Fukuoka describes is only possible when food is grown in a way that preserves its connection to the living earth. Food grown by natural farming carries within it the qualities of the soil, the season, and the ecosystem from which it came. This is why Fukuoka insists that the natural diet cannot be separated from natural farming -- they are two expressions of the same fundamental relationship between human beings and the natural world.
 
 ## Related
 
@@ -58,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

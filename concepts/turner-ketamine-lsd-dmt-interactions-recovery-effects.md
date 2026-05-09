@@ -22,19 +22,19 @@ When DMT was smoked after a Ketamine journey (during an LSD + Ketamine + DMT ses
 
 This suggests that residual Ketamine in the nervous system partially blocks or attenuates the DMT experience, possibly through overlapping receptor mechanisms or through the general dissociative state maintained by Ketamine metabolites.
 
-From a pharmacological perspective, this antagonism may relate to NMDA receptor occupancy. Ketamine is a potent NMDA antagonist, and while DMT's primary action is on 5-HT2A receptors, there is evidence that NMDA receptor modulation plays a role in the full psychedelic experience. Lingering Ketamine may blunt the NMDA-mediated component of DMT's effects, producing the "diminished" quality Turner observed. For more on DMT administration, see [[turner-ketamine-combinations-and-cydelikspace-navigation]].
+From a pharmacological perspective, this antagonism may relate to NMDA receptor occupancy. Ketamine is a potent NMDA antagonist, and while DMT's primary action is on 5-HT2A receptors, there is evidence that NMDA receptor modulation plays a role in the full [[leary-psychedelic-experience-bardo-mapping]]. Lingering Ketamine may blunt the NMDA-mediated component of DMT's effects, producing the "diminished" quality Turner observed. For more on DMT administration, see [[turner-ketamine-combinations-and-cydelikspace-navigation]].
 
 ## LSD + Ketamine Without DMT
 
 The LSD + Ketamine combination (without DMT) produced one of Turner's best Ketamine journeys, lasting about 1.5 hours, when 100 mg was injected two hours after 200 mcg of LSD. The LSD appeared to enhance the Ketamine experience without the problems caused by adding DMT.
 
-This positive synergy between LSD and Ketamine -- in the absence of DMT -- suggests that the serotonin and NMDA pathways can complement each other productively. The LSD may provide a rich perceptual and cognitive framework within which the Ketamine's dissociative properties can operate, producing experiences of greater depth and complexity than either substance alone. This aligns with Turner's broader theory of [[turner-lsd-nitrous-ludiomil-combinations]].
+This positive synergy between LSD and Ketamine -- in the [[mckenna-absence-of-dmt-motifs-in-art-history]] -- suggests that the serotonin and NMDA pathways can complement each other productively. The LSD may provide a rich perceptual and cognitive framework within which the Ketamine's dissociative properties can operate, producing experiences of greater depth and complexity than either substance alone. This aligns with Turner's broader theory of [[turner-lsd-nitrous-ludiomil-combinations]].
 
 ## Wilderness Setting Amplification
 
 An LSD + Ketamine experience in Death Valley (350 mcg LSD, an amount normally producing only peripheral visual phenomena for Turner) was significantly amplified by the natural environment. Close observation of small lizards moving at amazing speed contributed to perceptions that preceded an intense experience. This demonstrates that environmental context can dramatically alter combination effects.
 
-The desert environment likely contributed both novel sensory content (unusual fauna, stark visual landscape) and a psychological state of awe and isolation that synergized with the psychedelic effects. Turner's turner psychedelic safety guidelines repeatedly emphasize that environmental factors are not merely background but active participants in shaping psychedelic experiences.
+The desert environment likely contributed both novel sensory content (unusual fauna, stark visual landscape) and a psychological state of awe and isolation that synergized with the psychedelic effects. Turner's turner psychedelic [[psychedelic-safety-guidelines-turner]] repeatedly emphasize that [[duggar-mushroom-environmental-factors-temperature-moisture-light]] are not merely background but active participants in shaping psychedelic experiences.
 
 ## Summary of Interaction Principles
 
@@ -50,7 +50,7 @@ The desert environment likely contributed both novel sensory content (unusual fa
 
 - [[turner-multiple-combinations-specific-reports]] - Detailed combination reports
 - [[turner-harmala-psychedelic-potentiation-signature]] - Harmala potentiation effects
-- turner psychedelic safety guidelines - Safety principles for combinations
+- turner psychedelic safety guidelines - [[shulgin-safety-principles-self-experimentation]] for combinations
 - [[psychedelic-safety-guidelines-turner]]
 
 ## See Also
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

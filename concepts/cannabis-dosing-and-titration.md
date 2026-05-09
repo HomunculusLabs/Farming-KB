@@ -1,23 +1,23 @@
 ---
-title: Cannabis Dosing and Titration
+title: blesching-cannabis-dosing-strategies and Titration
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis Dosing and Titration
 
 Cannabis dosing is fundamentally different from dosing conventional pharmaceuticals because of the plant's complexity, the variability between strains and batches, and the individual variability in endocannabinoid system function. Unlike most pharmaceuticals with established standard doses, cannabis medicine requires a personalized approach to finding the optimal therapeutic dose for each patient.
 
-The concept of a "subjective therapeutic window" is central to cannabis dosing. This window represents the dose range at which therapeutic benefits are maximized while adverse effects are minimized. Taking too little may produce sub-optimal results, while taking too much can actually increase the very symptoms being treated.
+The concept of a "[[cannabis-subjective-therapeutic-window-dosing]] window" is central to cannabis dosing. This window represents the dose range at which therapeutic benefits are maximized while [[blesching-cannabis-safety-adverse-effects-evidence]] are minimized. Taking too little may produce sub-optimal results, while taking too much can actually increase the very symptoms being treated.
 
 ## Principles of Cannabis Dosing
 
 The foundational principle of cannabis dosing is to start low and go slow. This means beginning with a very small dose, waiting to assess the effects, and then gradually increasing the dose by small increments until the desired therapeutic effect is achieved.
 
-This approach is essential because cannabis tolerance and sensitivity vary enormously between individuals. Factors that influence individual response include genetic variation in cannabinoid receptor density and function, prior cannabis use and tolerance level, body weight and composition, the specific condition being treated, and the form and route of administration.
+This approach is essential because [[cervantes-cannabis-tolerance-addiction-pharmacology]] and sensitivity vary enormously between individuals. Factors that influence individual response include genetic variation in [[cannabis-cannabinoid-receptor-pharmacology]] density and function, prior cannabis use and tolerance level, body weight and composition, the specific condition being treated, and the form and route of administration.
 
 Establishing one's therapeutic window is governed by three primary factors: the body's present endocannabinoid state (relative balance or deficiency), the cannabinoid profile in the medicine being taken, and the form in which it is consumed.
 
@@ -49,7 +49,7 @@ For tinctures and oils, start with a small number of drops (2 to 4 drops), wait 
 
 ### Sublingual Administration
 
-Sublingual (under the tongue) administration of cannabis tinctures or sprays provides faster onset than oral ingestion because the cannabinoids are absorbed directly through the mucous membranes into the bloodstream, bypassing the digestive system and first-pass liver metabolism.
+Sublingual (under the tongue) administration of [[query-how-to-make-cannabis-tinctures-at-home]] or sprays provides faster onset than oral ingestion because the cannabinoids are absorbed directly through the mucous membranes into the bloodstream, bypassing the digestive system and first-pass liver metabolism.
 
 Onset typically occurs within 15 to 45 minutes, with duration of 3 to 6 hours. Sublingual administration allows more precise dosing control than edibles because of the faster onset time, while avoiding the respiratory concerns of inhalation.
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

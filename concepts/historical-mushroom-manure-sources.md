@@ -1,5 +1,5 @@
 ---
-title: Historical Mushroom Manure Sources and Selection
+title: Historical historical mushroom manure sources Sources and Selection
 slug: historical-mushroom-manure-sources
 source: William Falconer, Mushrooms: How to Grow Them (1891)
 tags: [horse-manure, mushroom-compost, historical-agriculture, mule-manure, cellar-manure, stable-manure, manure-selection]
@@ -9,11 +9,11 @@ tags: [horse-manure, mushroom-compost, historical-agriculture, mule-manure, cell
 
 ## The Primacy of Horse Manure
 
-In the nineteenth century, there was no known substitute for horse manure as a basis for commercial mushroom production.
+In the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], there was no known substitute for horse manure as a basis for commercial mushroom production.
 
 [[agaricus-campestris]] was cultivated on a large scale, fresh horse dung was the starting material.
 
-The quality of the manure directly determined the quality and quantity of the mushroom crop.
+The quality of the manure directly determined the quality and quantity of the [[sustaining-mushroom-crop-flushing-harvesting]].
 
 Falconer devoted an entire chapter of his treatise to the subject of manure for mushroom beds, reflecting the central importance of this material.
 
@@ -41,7 +41,7 @@ It was city stable manure that nearly all large market growers used for their mu
 
 ## Entire Horses Versus Other Animals
 
-There was a widespread belief that the manure of entire (stallion) horses was superior to that of other horses for mushroom culture.
+There was a widespread belief that the manure of entire (stallion) horses was superior to that of other horses for [[mazatec-mushroom-culture-and-velada]].
 
 Parisian growers insisted upon this difference, especially in the case of hard-worked animals engaged in heavy carting.
 
@@ -77,7 +77,7 @@ Each horse was fed, in addition to hay and some oats and bran, about a third of 
 
 The beds bore well until the middle of April, producing mushrooms averaging three-fourths to one ounce apiece.
 
-When asked whether manure from carrot-fed horses was as good as manure from animals fed no root crops, Falconer answered: decidedly not.
+When asked whether manure from carrot-fed horses was as good as manure from animals fed no [[permaculture-plants-root-crops-and-tubers]], Falconer answered: decidedly not.
 
 While not the best, at the same time it was good, and anyone having plenty of it could also have plenty of mushrooms.
 

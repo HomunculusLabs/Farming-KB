@@ -10,13 +10,13 @@ sources:
 
 # Plants and Drugs in the Ancient World
 
-Allegro situates the Amanita muscaria within a broader context of psychoactive plant use in the ancient Near East. He argues that many plants mentioned in biblical and classical texts — frankincense, myrrh, mandrake, and others — were part of a pharmacopoeia whose uses were encoded in Sumerian plant names.
+Allegro situates the [[allegro-amanita-muscaria-properties-and-pharmacology]] within a broader context of psychoactive plant use in the [[allegro-fertility-philosophy-of-the-ancient-near-east]] East. He argues that many plants mentioned in biblical and classical texts — frankincense, myrrh, mandrake, and others — were part of a pharmacopoeia whose uses were encoded in Sumerian plant names.
 
 ## The Sumerian Botanical Cryptogram
 
 The Sumerians had an extensive botanical vocabulary, much of which Allegro argues was deliberately cryptic. Plant names encoded information about their appearance, effects, and cultic uses — but in a form accessible only to those trained in the cryptographic tradition. This practice continued throughout the ancient Near East and into the biblical period.
 
-When the Hebrew Bible mentions "spices," "incense," or "perfume," it is often referring to psychoactive substances whose true nature has been obscured by translation and commentary. The "holy incense" of Exodus 30:34-38 — stacte, onycha, galbanum, and frankincense — was not merely aromatic but psychoactive, designed to produce altered states of consciousness during temple rituals.
+When the Hebrew Bible mentions "spices," "incense," or "perfume," it is often referring to psychoactive substances whose true nature has been obscured by translation and commentary. The "holy incense" of Exodus 30:34-38 — stacte, onycha, galbanum, and frankincense — was not merely aromatic but psychoactive, designed to produce [[weil-the-natural-mind-altered-states-normalcy]] of consciousness during temple rituals.
 
 ## Frankincense and Myrrh
 
@@ -24,7 +24,7 @@ Frankincense (Boswellia sacra) and myrrh (Commiphora myrrha) were the most valua
 
 Allegro argues that frankincense and myrrh were not merely fragrant resins but psychoactive substances. Both contain compounds that, when burned and inhaled, can produce mild altered states. Their combination with other substances — possibly including mushroom powder — would have created a powerful temple incense.
 
-The Magi's gifts of gold, frankincense, and myrrh to the infant Jesus (Matt 2:11) encode, in Allegro's reading, the mushroom cult's essential materials: gold (the mushroom's colour), frankincense (the incense that accompanied its use), and myrrh (the analgesic/psychedelic resin).
+The Magi's gifts of gold, frankincense, and myrrh to the infant Jesus (Matt 2:11) encode, in Allegro's reading, the [[african-mushroom-cult-history]]'s essential materials: gold (the mushroom's colour), frankincense (the incense that accompanied its use), and myrrh (the analgesic/psychedelic resin).
 
 ## Mandrake (Mandrake and the [[sacred-mushroom-and-the-cross]]. While mainstream Assyriologists and biblical scholars have largely rejected his philological methods, the broader question of psychoactive plant use in ancient Near Eastern religion continues to receive serious scholarly attention. The discovery of psychoactive substances at archaeological sites and the analysis of ritual plant residues have opened new avenues for investigating the role of entheogens in ancient religion that were unavailable in Allegro's time.
 
@@ -32,7 +32,7 @@ Critics argue that Allegro's methodology relies on selective citation of Sumeria
 
 ## Key Points
 
-- Death-resurrection myths across the ancient Near East share structural similarities with mushroom life cycles
+- Death-resurrection myths across the ancient Near East share structural similarities with [[pf-tek-mushroom-life-cycle-timeline]] cycles
 - Allegro connected Sumerian and Hebrew terminology for life, death, and resurrection to mushroom-related roots
 - The pattern extended from Mesopotamian Tammuz/Inanna cults through Greek Dionysian mysteries to Christian resurrection narratives
 - The goddess-god dynamic in these myths was interpreted as reflecting the earth-mushroom relationship
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,3 +106,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[bloomfield-mike-madelin-and-the-rotten-world-about-us]]

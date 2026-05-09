@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-*Rhus typhina*, commonly known as staghorn sumac, is a deciduous shrub or small tree in the family Anacardiaceae native to eastern North America. It is easily recognized by its large compound leaves, fuzzy reddish branchlets resembling deer antlers in velvet, and dense upright crimson-red fruit clusters that persist through winter. Staghorn sumac is a versatile permaculture species valued for its edible fruit (rich in vitamin C and antioxidants), ability to colonize and stabilize degraded soils, ornamental qualities, and role as a pioneer species. The dried ground fruits produce a tangy, lemon-like spice used in Middle Eastern cuisine and a refreshing beverage known as sumac-ade.
+*Rhus typhina*, commonly known as staghorn sumac, is a deciduous shrub or small tree in the family Anacardiaceae native to [[polypore-fungi-eastern-north-america]] America. It is easily recognized by its large compound leaves, fuzzy reddish branchlets resembling deer antlers in velvet, and dense upright crimson-red fruit clusters that persist through winter. Staghorn sumac is a versatile permaculture species valued for its edible fruit (rich in vitamin C and antioxidants), ability to colonize and stabilize degraded soils, ornamental qualities, and role as a pioneer species. The dried ground fruits produce a tangy, lemon-like spice used in Middle Eastern cuisine and a refreshing beverage known as sumac-ade.
 
 ## Taxonomy
 
@@ -71,7 +71,7 @@ sources:
 ## Permaculture Applications
 
 - **Pioneer species:** Among the first woody plants to colonize disturbed, degraded, or nutrient-poor soils; creates favorable conditions for later-succession species
-- **Soil stabilization:** Extensive root system and suckering habit make it excellent for erosion control on slopes and mine reclamation
+- **Soil stabilization:** Extensive root system and suckering habit make it excellent for [[permplant-willows-salix-erosion-control-fodder]] on slopes and mine reclamation
 - **Rhizosphere enrichment:** Supports high mycorrhizal populations and nitrogen-fixing bacteria (*Azotobacter*, *Azospirillus*), indirectly improving soil nitrogen
 - **Wildlife habitat:** Flowers attract bees and butterflies; fruit feeds 300+ bird species (robins, bluebirds, grouse, wild turkey); dense thickets shelter predatory insects
 - **Food forest integration:** Functions as canopy-understory transition shrub; provides shade for understory herbs while tolerating partial shade
@@ -90,7 +90,7 @@ sources:
 
 ## Indigenous and Traditional Uses
 
-Native American peoples used staghorn sumac extensively. The fruits were
+[[halpern-sacramental-peyote-and-native-american-church]] peoples used staghorn sumac extensively. The fruits were
 brewed into a vitamin C-rich beverage ("Indian lemonade"), and the dried
 leaves and fruits were used as a smoking mixture. The Iroquois used a root
 decoction for bloody diarrhea, and the Cherokee used leaf preparations for
@@ -102,7 +102,7 @@ in some Levantine regions.
 
 ## Propagation and Establishment Guidelines
 
-- **Seed propagation:** Collect seed in late autumn; cold stratify at
+- **[[jeavons-seed-propagation-techniques]]:** Collect seed in late autumn; cold stratify at
   4°C for 60-90 days in moist sand or vermiculite; sow in spring in
   flats or directly into prepared beds; germination rate 40-60%;
   seedlings establish slowly in the first year but accelerate in
@@ -116,14 +116,16 @@ in some Levantine regions.
 - **Root cuttings:** 10-15 cm sections of horizontal roots planted
   horizontally 3-5 cm deep in early spring; new shoots emerge in 4-6
   weeks
-- **Direct seeding for restoration:** Broadcast 1-2 g/m² on disturbed
+- **[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] for restoration:** Broadcast 1-2 g/m² on disturbed
   sites; light raking to incorporate; natural cold stratification over
   winter; germination the following spring
 - **Establishment care:** Water 2-3 times per week for the first growing
-  season; mulch with 5 cm of organic matter to retain moisture; no
+  season; mulch with 5 cm of [[hamilton-composting-and-organic-matter-management]] to retain moisture; no
   fertilizer needed — sumac thrives in poor soils
 
 ## See Also
+
+- [[epichloe-typhina]]
 
 - [[food-forest]] — Staghorn sumac as a functional shrub layer component
 - [[robinia-pseudoacacia]] — Black locust, complementary nitrogen-fixing pioneer tree

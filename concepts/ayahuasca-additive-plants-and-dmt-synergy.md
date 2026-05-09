@@ -101,8 +101,8 @@ DMT is structurally similar to serotonin (5-hydroxytryptamine) and
 acts primarily as an agonist at the 5-HT2A receptor subtype, the same
 receptor through which psilocybin and LSD exert their primary
 hallucinogenic effects. This pharmacological overlap explains why
-ayahuasca visions share certain qualitative features with those produced
-by psilocybin mushrooms, despite the very different plant sources
+[[amaringo-ayahuasca-visions-shipibo-iconography]] share certain qualitative features with those produced
+by [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], despite the very different plant sources
 and chemical families involved. The beta-carboline harmine and
 harmaline also have their own psychoactive properties at higher doses,
 contributing a sedative and contemplative quality to the ayahuasca
@@ -123,7 +123,7 @@ testifies to centuries of careful experimentation and observation.
 
 ## See Also
 
-- [[ayahuasca-vision-art-and-Shipibo-tradition]]
+- [[ayahuasca-vision-art-and-shipibo-tradition]]
 
 - [[ayahuasca-preparation-and-ceremony]]
 - [[golden-guide-hallucinogenic-plants-dmt-containing-species]]

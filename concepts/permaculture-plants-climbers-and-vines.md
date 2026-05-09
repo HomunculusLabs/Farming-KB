@@ -24,7 +24,7 @@ Vines can inhibit growth of supporting trees by reducing sunlight. To overcome t
 
 - **Purple Passionfruit (P. edulis)** -- Native to Brazil. Subtropical, densely growing, evergreen. Prefers moist, well-drained, fertile, neutral to slightly alkaline soil. Withstands occasional light frosts. Often two crops per year; in warm conditions seasons extend into year-round fruiting. Eaten raw, juiced, bottled, into sauces, cakes, jellies. Seeds yield edible oil comparable to sunflower and soybean oil (12% protein, 50% fibre). Juice used medicinally as digestive stimulant.
 
-- **Yellow Passionfruit (P. edulis var. flavicarpa)** -- Slightly less cold-tolerant but resists Fusarium wilt and nematodes. Does better climbing a tall tree rather than trellis. Tall acacias recommended as support, adding nitrogen fixing and long-term timber functions. More juice to pulp than purple.
+- **Yellow Passionfruit (P. edulis var. flavicarpa)** -- Slightly less cold-tolerant but resists Fusarium wilt and nematodes. Does better climbing a tall tree rather than trellis. Tall acacias recommended as support, adding [[comparison-rhizobia-vs-free-living-nitrogen-fixing-bacteria]] and long-term timber functions. More juice to pulp than purple.
 
 - **Banana Passionfruit (P. mollissima)** -- Native to the Andes (1800-3200 m). Straggly, rampant vine that can climb to cover trees. Cold tolerant to -2 C. Best-tasting juice of all passionfruit in the Andes. Made into highly prized wine and liqueur (crema de curuba).
 
@@ -46,7 +46,7 @@ All passionfruit can be grown from seed (fresh seed gives best results). Passing
 
 ### Medicinal Uses of Passionfruit
 
-- **P. edulis** -- Juice used as digestive stimulant and treatment for gastric cancer. Unripe fruit contain cyanogenic glycosides requiring caution.
+- **P. edulis** -- Juice used as digestive stimulant and treatment for [[lentinan-gastric-cancer-combination-therapy]]. Unripe fruit contain cyanogenic glycosides requiring caution.
 - **P. incarnata** -- Passiflorine extracted as pharmaceutical sedative and tranquilliser.
 - **P. quadrangularis** -- Pulp contains passiflorine (lethargy and drowsiness in large doses). Used as preventative for scurvy and as stomachic. Flesh used as sedative for headache, asthma, diarrhoea, insomnia. Seeds are cardiotonic. Leaf decoction is vermifuge and used for bathing skin problems. Root used as vermifuge, emetic, and diuretic.
 
@@ -56,7 +56,7 @@ All passionfruit can be grown from seed (fresh seed gives best results). Passing
 Family: Convolvulaceae. Tropical trailing herb found in muddy streams, freshwater ponds, and marshes. Annual yields up to 90,000 kg/ha. Protein 1.9-4.6%, rich in vitamins A, C, E, iron, and minerals. One of the most productive leaf vegetables known (up to 60 t/ha). Young leaves and shoots boiled or cooked in oil. Cold sensitive, usually grown as annual in cooler climates.
 
 ### Mulberry as Vine Support
-Mulberries are noted as good companion plants for grapes, and the tree itself can form a trellis structure. This illustrates the permaculture principle of stacking functions -- the mulberry provides fruit, fodder, and structural support simultaneously.
+Mulberries are noted as good companion plants for grapes, and the tree itself can form a trellis structure. This illustrates the permaculture principle of [[gaias-garden-stacking-functions-detailed]] -- the mulberry provides fruit, fodder, and structural support simultaneously.
 
 ## Vine Support Strategies
 

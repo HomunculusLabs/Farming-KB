@@ -1,5 +1,5 @@
 ---
-title: Rhizosphere Ecology
+title: comparison-rhizosphere-ecology-vs-mycorrhizal-fungi
 created: 2026-04-28
 tags: [rhizosphere, soil-ecology, plant-microbe, root-exudates, nutrient-cycling]
 date: 2026-04-28
@@ -12,26 +12,26 @@ The rhizosphere is the narrow zone of soil directly influenced by root
 secretions and associated soil microorganisms. Coined by Lorenz Hiltner in
 1904, the term describes the dynamic interface where plant roots interact with
 the soil environment, exchanging signals, nutrients, and chemical compounds
-with a dense and active microbial community. The rhizosphere is one of the most
+with a dense and active [[edaphic-factors-microbial-community-structure]]. The rhizosphere is one of the most
 biologically diverse and chemically complex environments on Earth, and its
 ecology is central to understanding plant health, nutrient cycling, and
 ecosystem function.
 ## Root Exudates
 Root exudates are the primary drivers of rhizosphere formation. Plants release
-a wide array of organic compounds from their roots, including low-molecular-
+a wide array of [[fungal-volatile-organic-compounds-communication]] from their roots, including low-molecular-
 weight compounds (sugars, amino acids, organic acids, phenolics, hormones) and
 high-molecular-weight compounds (mucilage, proteins, polysaccharides). A single
 plant may release five to twenty percent of its total photosynthetically fixed
 carbon into the rhizosphere, representing a substantial carbon investment.
 The composition and quantity of root exudates vary with plant species, cultivar,
 developmental stage, and environmental conditions. Stress conditions such as
-nutrient deficiency, drought, and pathogen attack alter exudate profiles to
+[[cannabis-grow-nutrient-deficiency-problem-solving]], drought, and pathogen attack alter exudate profiles to
 recruit beneficial microorganisms or modify the rhizosphere environment. For
-example, phosphorus deficiency triggers increased release of organic acids that
+example, [[query-how-to-fix-phosphorus-deficiency-in-cannabis]] triggers increased release of organic acids that
 mobilize insoluble phosphate, while iron deficiency induces secretion of
 siderophore-like compounds.
 ## Microbial Recruitment and Selection
-Root exudates act as chemical signals that attract specific microorganisms to
+Root exudates act as [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] that attract specific microorganisms to
 the rhizosphere. This process, sometimes called the cry for help hypothesis,
 suggests that plants actively recruit beneficial microbes when under stress.
 Flavonoids and strigolactones in root exudates attract rhizobia and [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]]. Malic acid released by Arabidopsis roots under
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

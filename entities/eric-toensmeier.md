@@ -24,7 +24,7 @@ sources:
 
 # Eric Toensmeier
 
-Eric Toensmeier is an American lecturer, author, and agroforestry researcher recognized as one of the leading figures in perennial polyculture design, carbon farming, and edible food forest systems. His work bridges academic ecology, practical permaculture design, and climate change mitigation, making him one of the most influential voices in regenerative agriculture in the 21st century. He served as a Senior Fellow at Project Drawdown and has lectured extensively at Yale University, the University of Massachusetts, and institutions worldwide.
+Eric Toensmeier is an American lecturer, author, and agroforestry researcher recognized as one of the leading figures in perennial polyculture design, carbon farming, and edible food forest systems. His work bridges academic ecology, practical [[permaculture-design]], and climate change mitigation, making him one of the most influential voices in [[regenerative-agriculture]] in the 21st century. He served as a Senior Fellow at Project Drawdown and has lectured extensively at Yale University, the University of Massachusetts, and institutions worldwide.
 
 ## Biography
 
@@ -38,7 +38,7 @@ Eric Toensmeier is an American lecturer, author, and agroforestry researcher rec
 
 ### Perennial Polyculture and Food Forests
 
-**Perennial Vegetables: A Gardener's Guide to Over 100 Delicious, Easy-to-Grow Edibles** (Chelsea Green, 2007)
+**[[perennial-vegetables]]: A Gardener's Guide to Over 100 Delicious, Easy-to-Grow Edibles** (Chelsea Green, 2007)
 - First comprehensive English-language reference on edible perennial vegetables
 - Profiles over 100 species suitable for temperate and tropical gardens
 - Won the American Horticultural Society Book Award
@@ -90,13 +90,13 @@ Toensmeier has been instrumental in popularizing numerous underappreciated peren
 - **Groundnuts** (*Apios americana*) — nitrogen-fixing tuber vine native to eastern North America
 - **Good King Henry** (*Blitum bonus-henricus*) — traditional European perennial leaf vegetable
 - **Skirret** (*Sium sisarum*) — forgotten European root vegetable with sweet, parsnip-like tubers
-- **Mashua** (*Tropaeolum tuberosum*) — Andean tuber with pest-repellent properties
+- **Mashua** (*[[tropaeolum-tuberosum]]*) — Andean tuber with pest-repellent properties
 - **Oca** (*Oxalis tuberosa*) — South American tuber adaptable to temperate climates
-- **Ulluco** (*Ullucus tuberosus*) — Andean tuber with vividly colored varieties
+- **Ulluco** (*[[ullucus-tuberosus]]*) — Andean tuber with vividly colored varieties
 - **Chinese artichoke** (*Stachys affinis*) — perennial tuber producing crisp, mild-flavored corms
 - **Chayote** (*Sechium edule*) — perennial subtropical vine producing edible fruit and tuberous roots
 - **Water spinach** (*Ipomoea aquatica*) — prolific perennial aquatic leaf vegetable for warm climates
-- **Yacon** (*Smallanthus sonchifolius*) — Andean daisy producing sweet, juicy tuberous storage roots
+- **Yacon** (*[[smallanthus-sonchifolius]]*) — Andean daisy producing sweet, juicy tuberous storage roots
 
 His systematic approach to evaluating these species includes assessment of climate adaptability, nutritional profile, yield potential, ecological function, and ease of propagation — creating a practical framework for breeders and growers to evaluate novel perennial crops.
 

@@ -5,7 +5,8 @@ updated: 2026-04-21
 type: concept
 tags: [fukuoka, natural-farming]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
@@ -19,7 +20,7 @@ The traditional brown rice-and-vegetable diet of the East gave long life, a stro
 
 Compared with plants that ripen naturally, vegetables and fruits grown out-of-season under necessarily unnatural conditions contain few vitamins and minerals. It is not surprising that summer vegetables grown in the autumn or winter have none of the flavour and fragrance of those grown beneath the sun by organic and natural methods.
 
-The connection between seasonal eating and [[fukuoka-critique-western-dietetics-nutritional-science]] that runs through Fukuoka's work. Just as agricultural science reduces the farm to a factory, nutritional science reduces food to chemicals, and in both cases something essential is lost. The farmer who sees soil as a substrate for chemical inputs and the eater who sees food as a delivery system for nutrients have both lost the ability to perceive the living wholeness that sustains them.
+The connection between [[fukuoka-seasonal-eating-natural-food-calendar]] and [[fukuoka-critique-western-dietetics-nutritional-science]] that runs through Fukuoka's work. Just as agricultural science reduces the farm to a factory, nutritional science reduces food to chemicals, and in both cases something essential is lost. The farmer who sees soil as a substrate for chemical inputs and the eater who sees food as a delivery system for nutrients have both lost the ability to perceive the living wholeness that sustains them.
 
 ## Connection to Natural Farming Principles
 
@@ -113,4 +114,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

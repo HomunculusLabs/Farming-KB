@@ -9,7 +9,7 @@ updated: 2026-04-26
 
 # Fish Amino Acid (FAA) Fertilizer
 
-Fish Amino Acid (FAA) is a liquid fertilizer made from fish that contains abundant amounts of nutrients and various types of amino acids. It is absorbed directly by crops and stimulates the activity of microorganisms. FAA is a primary nitrogen source in Korean Natural Farming.
+Fish Amino Acid (FAA) is a [[jadam-liquid-fertilizer-nutritional-perspective]] made from fish that contains abundant amounts of nutrients and various types of amino acids. It is absorbed directly by crops and stimulates the activity of microorganisms. FAA is a primary nitrogen source in Korean [[comparison-natural-farming-vs-permaculture]].
 
 ## What is FAA
 
@@ -43,7 +43,7 @@ Molasses can be used instead of brown sugar at a 1:3 ratio (one part molasses to
 ## Uses and Applications
 
 ### As Nitrogen Fertilizer
-FAA is rich with nitrogen and is excellent for both soil and foliar application during the **vegetative growth period** when used with other NF materials. Dilution: 1:1000.
+FAA is rich with nitrogen and is excellent for both soil and [[ultra-low-cost-foliar-application-methods]] during the **[[cannabis-vegetative-growth-stage]] period** when used with other NF materials. Dilution: 1:1000.
 
 ### For Leafy Vegetables
 FAA can be used continuously on leafy vegetables to:
@@ -65,7 +65,7 @@ Put leftover bones from FAA production into brown rice vinegar (BRV) at 10x volu
 
 ## When NOT to Use
 
-**Do not use FAA during the reproductive growth period** -- it may induce overgrowth at a stage when plants should be focusing energy on fruit/seed production.
+**Do not use FAA during the [[knf-reproductive-growth-stage]] period** -- it may induce overgrowth at a stage when plants should be focusing energy on fruit/seed production.
 
 ## Storage
 
@@ -91,7 +91,7 @@ In the Philippines, fish emulsion is popular in organic agriculture. The natural
 ## Sources
 
 - Cho, H.K. (2011). Dr. Cho's Global Natural Farming. SARRA.
-- Carandang, G.A. (2003). Indigenous Microorganisms: Grow Your Own. Herbana Farms.
+- Carandang, G.A. (2003). [[beneficial-indigenous-microorganisms-bim]]: Grow Your Own. Herbana Farms.
 
 ## See Also
 

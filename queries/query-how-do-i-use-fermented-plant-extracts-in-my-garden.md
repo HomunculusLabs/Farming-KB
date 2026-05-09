@@ -1,5 +1,5 @@
 ---
-title: "How Do I Use Fermented Plant Extracts in My Garden?"
+title: "How Do I Use query how do i use fermented plant extracts in my garden in My Garden?"
 tags: [query, fermented-plant-extract, knf, organic-fertilizer, foliar-feeding]
 date: 2026-05-08
 updated: 2026-05-08
@@ -10,9 +10,9 @@ sources: []
 
 ## Short Answer
 
-Fermented plant extracts (FPEs) are liquid fertilizers made by fermenting fast-growing plant material with sugar or a carbohydrate source.
+Fermented plant extracts (FPEs) are [[solomon-liquid-fertilizers-and-foliar-feeding]] made by fermenting fast-growing plant material with sugar or a carbohydrate source.
 
-They concentrate the nutrients, growth hormones, and bioactive compounds from plants into a stable, easy-to-apply liquid form.
+They concentrate the nutrients, growth hormones, and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] from plants into a stable, easy-to-apply liquid form.
 
 FPEs are a cornerstone of [[foliar-feeding|foliar spray]] to boost plant growth, improve pest resistance, and enhance soil biology.
 
@@ -38,7 +38,7 @@ Soil drenches can be applied at the same dilution rate every 1 to 2 weeks during
 
 During flowering and fruiting stages, you can increase application frequency to every 7 to 10 days.
 
-Adding a small amount of [[kelp-meal-fertilizer|kelp extract]] adds trace minerals and natural plant growth regulators.
+Adding a small amount of [[kelp-meal-fertilizer|kelp extract]] adds trace minerals and natural plant [[ingham-natural-growth-regulators-soil-microbes]].
 
 Adding [[comparison-fermented-plant-extract-vs-compost-tea|comparison between FPE and compost tea]] shows they serve different but complementary roles.
 
@@ -51,7 +51,7 @@ Many growers alternate between the two for a balanced approach to plant nutritio
 | Plant Material | Primary Nutrients | Best Growth Stage |
 |---|---|---|
 | Comfrey leaves | Potassium, calcium | Flowering, fruiting |
-| Stinging nettle | Nitrogen, iron | Vegetative growth |
+| [[comparison-stinging-nettle-vs-horsetail]] | Nitrogen, iron | [[cannabis-vegetative-growth-stage]] |
 | Young bamboo shoots | Silica | Stem strength |
 | Mugwort | Minerals, vitamins | General health |
 | Sweet potato vines | Potassium, amino acids | Root development |
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

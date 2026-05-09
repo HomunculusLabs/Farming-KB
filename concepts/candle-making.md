@@ -39,7 +39,7 @@ Pillar candles are free-standing candles poured into molds. They require harder 
 
 ### Container Candles
 
-Container candles are poured directly into jars, tins, or ceramic vessels. Softer waxes like soy work well here since the container provides structural support. These are the easiest candles for beginners and are popular gifts.
+Container candles are poured directly into jars, tins, or ceramic vessels. Softer waxes like soy work well here since the container provides [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]]. These are the easiest candles for beginners and are popular gifts.
 
 ### Votives and Tealights
 
@@ -59,9 +59,9 @@ Wick materials include cotton (most common for beeswax), paper core, and hemp. A
 
 Beeswax candles carry a natural honey scent. For additional fragrance:
 
-- Add essential oils at 185-195 F (just below pouring temperature)
-- Use 0.5-1 ounce of essential oil per pound of wax
-- Good essential oils for candles: lavender, cedar, cinnamon, sweet orange, pine
+- Add [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] at 185-195 F (just below pouring temperature)
+- Use 0.5-1 ounce of [[permaculture-designers-manual-essential-oil-plants]] per pound of wax
+- Good [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] for candles: lavender, cedar, cinnamon, sweet orange, pine
 - Stir gently for 2 minutes after adding oil to ensure even distribution
 
 Avoid synthetic fragrance oils if natural purity is important. Some essential oils (especially citrus) can cause candle surface issues or accelerate burning.

@@ -1,5 +1,5 @@
 ---
-title: Cannabis Chromosomes and Mendelian Inheritance
+title: Cannabis cannabis chromosomes and mendelian inheritance Inheritance
 created: 2026-04-28
 tags: [genetics, cannabis, breeding, chromosomes, mendelian]
 date: 2026-04-25
@@ -25,7 +25,7 @@ pistillate (seed) parent.
 
 ## Mitosis: Vegetative Cell Division
 
-Mitosis is the normal cell division that occurs during vegetative growth.
+Mitosis is the normal cell division that occurs during [[cannabis-vegetative-growth-stage]].
 During mitosis, every chromosome pair replicates, and one of the two
 identical sets of chromosome pairs migrates to each daughter cell. This
 preserves the full diploid complement (2n = 20) in every cell of the plant.
@@ -113,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

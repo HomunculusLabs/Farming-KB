@@ -20,7 +20,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Miller, O.K. & Miller, H.H. (2006). "North American Mushrooms: A Field
+  - Miller, O.K. & Miller, H.H. (2006). "growing-gourmet-north-american-reishi-species Mushrooms: A Field
     Guide to Edible and Inedible Fungi." Falcon Guide.
   - Kuo, M. (2023). "Scleroderma citrinum." MushroomExpert.com.
   - Watling, R. (1973). "The genus Scleroderma in Europe." Persoonia, 7(4),
@@ -39,7 +39,7 @@ Scleroderma citrinum, commonly known as the common earthball or pigskin
 puffball, is a widespread ectomycorrhizal fungus in the order Boletales. It is
 one of the most frequently encountered gasteroid (puffball-like) fungi in
 temperate forests of the Northern Hemisphere, recognizable by its tough, warty,
-yellowish-brown outer surface and dark purple-black internal spore mass at
+yellowish-brown outer surface and dark purple-black internal [[growing-gourmet-spore-mass-inoculation-techniques]] at
 maturity. Despite superficial resemblance to edible puffballs (Lycoperdon spp.),
 Scleroderma citrinum is toxic and has caused gastrointestinal poisoning in
 cases of mistaken consumption.
@@ -60,8 +60,8 @@ Hornem., and *S. geaster* Fr. Molecular phylogenetics confirm Scleroderma as
 a member of Boletales rather than Agaricales, placing it closer to boletes
 than to true puffballs, supported by bolete-type spores and shared
 [[mycelium]] envelops root tips,
-facilitating bidirectional nutrient exchange: the fungus transfers water and
-mineral nutrients (particularly phosphorus) to the host tree, while receiving
+facilitating bidirectional [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]: the fungus transfers water and
+mineral nutrients (particularly phosphorus) to the [[ectomycorrhizal-host-tree-partnerships]], while receiving
 carbohydrates from host photosynthesis.
 
 This relationship enhances phosphorus and micronutrient uptake on nutrient-poor
@@ -73,7 +73,7 @@ disturbed or young forest sites before being replaced by more competitive
 boletes and agarics.
 
 ## [[phytostabilization]] with tolerant host trees. Decomposing
-fruiting bodies feed soil invertebrates, and the extensive mycelial network
+fruiting bodies feed soil invertebrates, and the extensive [[gadd-mycelial-network-dynamics]]
 ## Related Species
 
 *S. verrucosum* — larger (up to 12 cm), darker, more pronounced warts;

@@ -28,18 +28,18 @@ Sandoz initially offered psilocybin to the Harvard project, but after learning t
 
 ## Post-Harvard Organizations
 
-With Alpert and Metzner, Leary founded IFIF (International Federation for Internal Freedom) and then the Castalian Foundation, both aimed at promoting cultural revolution and spiritual enlightenment through mass consumption of LSD. They started publishing the *Psychedelic Review*. Leary's work increasingly focused on the spiritual and religious dimensions of psychedelic experience, stimulated by his associations with Aldous Huxley, Huston Smith, and Alan Watts.
+With Alpert and Metzner, Leary founded IFIF (International Federation for Internal Freedom) and then the Castalian Foundation, both aimed at promoting cultural revolution and spiritual enlightenment through mass consumption of LSD. They started publishing the *Psychedelic Review*. Leary's work increasingly focused on the spiritual and religious dimensions of [[leary-psychedelic-experience-bardo-mapping]], stimulated by his associations with Aldous Huxley, Huston Smith, and Alan Watts.
 
 ## Key Publications
 
 - *The Psychedelic Experience: A Manual Based on the Tibetan Book of the Dead* (1964, with Metzner & Alpert) — Adapted the Tibetan Buddhist Bardo Thödol as a guidebook for psychedelic sessions
 - *The Psychedelic Review* — Journal he founded and published
-- *Tao Te Ching* adaptation for psychedelic use (1997)
+- *[[metzner-leary-bardo-thodol-and-tao-te-ching-adaptation]]* adaptation for psychedelic use (1997)
 - Numerous articles on psilocybin and LSD effects in *Journal of Nervous and Mental Disease*
 
 ## Legacy
 
-Leary's catchphrase "Turn on, tune in, drop out" became emblematic of the 1960s counterculture. His Harvard research and subsequent advocacy directly inspired [[terence-mckenna]] and [[dennis-mckenna]] to explore psychedelics. While his approach was criticized for its lack of scientific rigor later in his career, his early Harvard work with psilocybin and LSD laid important groundwork for modern psychedelic research.
+Leary's catchphrase "Turn on, tune in, drop out" became emblematic of the 1960s counterculture. His Harvard research and subsequent advocacy directly inspired [[terence-mckenna]] and [[dennis-mckenna]] to explore psychedelics. While his approach was criticized for its lack of scientific rigor later in his career, his early Harvard work with psilocybin and LSD laid important groundwork for modern [[mckenna-suppression-psychedelic-research-lsd-therapy]].
 
 ## Related
 
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

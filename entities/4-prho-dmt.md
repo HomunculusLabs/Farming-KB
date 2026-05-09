@@ -24,7 +24,7 @@ created: 2026-05-07
 
 The compound was first synthesized and characterized by Alexander Shulgin, with preliminary pharmacological data reported in TiHKAL (Tryptamines I Have Known and Loved).
 
-Like other 4-substituted DMTs, 4-PrO-DMT acts primarily as a serotonin 5-HT2A receptor agonist, producing subjective effects qualitatively similar to psilocybin mushrooms.
+Like other 4-substituted DMTs, 4-PrO-DMT acts primarily as a serotonin 5-HT2A receptor agonist, producing subjective effects qualitatively similar to [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]].
 
 The compound exists in research-chemical contexts and has not been approved for any therapeutic or commercial application.
 
@@ -94,9 +94,9 @@ These figures are based on anecdotal self-report data from the research-chemical
 
 4-PrO-DMT is unscheduled in most jurisdictions but is typically controlled under analogue drug provisions or unapproved-substance regulations.
 
-In the United States, the compound may fall under the Federal Analogue Act as a structural analogue of a Schedule I substance (DMT).
+In the [[dmt-containing-plants-united-states-halpern]], the compound may fall under the Federal Analogue Act as a structural analogue of a Schedule I substance (DMT).
 
-In the United Kingdom, the Psychoactive Substances Act 2016 criminalizes the production, supply, and importation of psychoactive substances not specifically exempted.
+In the United Kingdom, the Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016 criminalizes the production, supply, and importation of psychoactive substances not specifically exempted.
 
 In many European countries, the compound is not individually scheduled but may be prosecuted under generic tryptamine control provisions.
 
@@ -115,7 +115,7 @@ The compound is also structurally related to DMT itself and to endogenous trace 
 ## See Also
 
 - [[dmt]]
-- [[4-aco-dmt]]
+- [[4-acetoxy-dmt]]
 - [[muscimol-entity]]
 - [[5-meo-dmt-entity]]
-- [[ergoline]]
+- ergoline

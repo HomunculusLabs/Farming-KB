@@ -4,8 +4,8 @@
 ## Overview
 
 [[wood-decay-fungi]]** — [[mycorrhizal-networks]]** — [[mycelium-network-architecture]]
-- fungal cell wall structure and composition
-- [[fungal-enzymes-degradation]]-in-wood-decay
+- [[gadd-fungal-cell-structure]] wall structure and composition
+- fungal-enzymes-degradation-in-wood-decay
 
 ## References
 
@@ -142,3 +142,8 @@ conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
 
+## See Also
+
+- [[hyphal-growth-dynamics]]
+
+- [[mycelium-structure-and-growth]]

@@ -1,5 +1,5 @@
 ---
-title: Natural Diet and Seasonal Eating
+title: Natural natural diet and seasonal eating Eating
 created: 2026-04-28
 tags: [diet, nutrition, philosophy, seasons, yin-yang, fukuoka, food]
 date: 2026-04-28
@@ -20,7 +20,7 @@ artificial enhancement.
 
 ## The Foundation of Natural Diet
 
-Fukuoka's natural diet begins with detachment from discriminating knowledge
+Fukuoka's natural diet begins with detachment from [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]]
 about food. Rather than analyzing foods for their vitamin, mineral, protein,
 and calorie content, one should eat what nature provides locally and seasonally.
 He described this as creating "unlearned people who gather food without
@@ -39,7 +39,7 @@ Fukuoka's description of seasonal eating begins with the seven herbs of spring:
 Japanese parsley, shepherd's purse, cudweed, chickweed, bee nettle, wild turnip,
 and wild radish. These emerge early in the new year from the brown earth. As the
 farmer enjoys their flavors, he meditates on having survived a harsh winter.
-Nature provides complementary foods in the form of early spring shellfish such
+Nature provides complementary foods in the form of [[coleman-overwintered-onions-and-early-spring-crops]] shellfish such
 as pond snails, freshwater clams, and sea clams.
 
 The progression continues through the year: bracken and osmund in early spring,
@@ -76,7 +76,7 @@ detachment, all things are colorless and white. Similarly, the vast array of
 foods in nature are fundamentally one, and human categorization into good and
 bad foods is the root of dietary error.
 
-Flavor, for Fukuoka, cannot be understood through chemical analysis of food
+Flavor, for Fukuoka, cannot be understood through [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of food
 components. True flavor is perceived only with the five senses, the mind, and
 the spirit working in concert. He argued that people today chase after flavor
 because they have lost it. Their instincts are confused, their senses deranged,
@@ -88,7 +88,7 @@ Fukuoka traced the corruption of the modern diet through several stages:
 
 **Loss of instinctive taste**: Adults who have lost their instinctive sense of
 taste no longer appreciate the taste of rice. They eat white rice with meat
-sauce or sashimi to compensate for the flavor removed by polishing. Tasty rice
+sauce or sashimi to compensate for the flavor removed by polishing. [[fukuoka-tasty-rice-illusion-food-processing]]
 becomes defined as rice that is easy to flavor and season rather than rice with
 its own inherent flavor.
 

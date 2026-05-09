@@ -1,5 +1,5 @@
 ---
-title: Trichoderma and Green Mold Management
+title: Trichoderma and growing gourmet trichoderma green mold management Management
 created: 2026-04-26
 tags:
   - mycology
@@ -16,7 +16,7 @@ type: concept
 # Trichoderma and Green Mold Management
 
 Trichoderma species, commonly known as green mold, represent the
-most persistent and damaging contaminant in mushroom cultivation.
+most persistent and damaging contaminant in [[accessible-mushroom-cultivation-for-disabilities]].
 These aggressive fungi compete directly with mushroom mycelium for
 substrate resources and can devastate entire crops if not managed
 properly. Understanding the conditions that favor Trichoderma and
@@ -26,9 +26,9 @@ cultivator.
 ## The Threat of Trichoderma
 
 Green molds, especially Trichoderma, are the most frequently
-encountered contaminants in mushroom growing operations. They are
+encountered contaminants in [[duggar-mushroom-growing-history-and-methods]] operations. They are
 especially problematic because they share many of the same
-environmental preferences as cultivated mushrooms: moderate
+environmental preferences as [[fungi-cultivated-mushrooms-pathogens-competitors]]: moderate
 temperatures, high humidity, and wood or straw-based substrates.
 Trichoderma grows rapidly, often outpacing mushroom mycelium in
 colonization speed.
@@ -79,4 +79,5 @@ the facility several times using a 10% household bleach solution.
 
 - [[growing-gourmet-contamination-prevention]]
 - [[growing-gourmet-substrate-preparation]]
-- [[growing-gourmet-supplemented-sawdust-sterilization]]
+- growing-gourmet-supplemented-sawdust-sterilization
+- [[six-vectors-of-contamination]]

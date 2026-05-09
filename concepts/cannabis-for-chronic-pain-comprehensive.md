@@ -1,5 +1,5 @@
 ---
-title: Cannabis For Chronic Pain Comprehensive
+title: Cannabis For cannabis-chronic-pain-management Comprehensive
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -12,14 +12,14 @@ sources:
 
 updated: 2026-04-18
 
-Pain is the most common reason patients seek medical cannabis. Research from The Cannabis Health Index documents extensive evidence for cannabinoids across all pain types, with the endocannabinoid system playing a central role in pain modulation.
+Pain is the most common reason patients seek medical cannabis. Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] documents extensive evidence for cannabinoids across all pain types, with the endocannabinoid system playing a central role in pain modulation.
 
 ## The Endocannabinoid System and Pain
 
 ### CB1 and CB2 in Pain Pathways
 CB1 receptors are present throughout the pain pathway:
 - **Peripheral nerves**: CB1 on nociceptive nerve endings reduces pain signal generation
-- **Spinal cord**: CB1 in the dorsal horn reduces pain signal transmission to the brain
+- **[[blesching-cannabis-spinal-cord-injuries]]**: CB1 in the dorsal horn reduces pain signal transmission to the brain
 - **Brain**: CB1 in pain processing regions (thalamus, periaqueductal gray) modulates pain perception
 
 CB2 receptors on immune cells reduce the inflammatory component of pain.
@@ -129,15 +129,15 @@ Opioids carry risks of addiction, respiratory depression, constipation, and tole
 
 ### Strain Selection
 - **Indica-dominant**: For pain with insomnia, muscle spasm, or anxiety
-- **Hybrid balanced**: For daytime pain management with functional clarity
+- **Hybrid balanced**: For daytime [[cannabis-pain-management-protocols]] with functional clarity
 - **CBD-dominant**: For inflammatory pain without psychoactivity
 - **High-THC**: For severe, breakthrough pain
 
 ### Starting Protocol
 1. Start with CBD-only (5-10mg) to assess response
 2. Add small amounts of THC (1-2.5mg) if CBD alone insufficient
-3. Gradually increase to find subjective therapeutic window
-4. Consider whole-plant preparations for entourage effect
+3. Gradually increase to find [[cannabis-subjective-therapeutic-window-dosing]] window
+4. Consider whole-plant preparations for [[cannabis-terpene-entourage-effect-profiles]]
 5. Use the lowest effective dose to minimize tolerance development
 
 ## Related Topics

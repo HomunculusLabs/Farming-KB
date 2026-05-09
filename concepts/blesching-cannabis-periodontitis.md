@@ -24,7 +24,7 @@ the reduction of tissue support and alveolar bone loss. The process of
 resorption initiates this deficiency where bone cells leak substances and
 become weak.
 
-According to the Cannabis Health Index, the evidence for cannabis in treating
+According to the [[blesching-cannabis-health-index-autoimmune-conditions]], the evidence for cannabis in treating
 periodontitis is based on 1 study reviewed with a CHI value of 2. While the
 evidence base is small, the findings are promising and the biological
 mechanism involving CB2 receptors and bone metabolism is well-established.
@@ -59,7 +59,7 @@ Orthodox medical treatments include:
 
 - Deep cleaning (scaling and root planing)
 - Surgical cleaning and interventions
-- Alternative treatments involving hydrogen peroxide or other oral oxidants
+- Alternative treatments involving [[cervantes-hydrogen-peroxide-sterilization]] or other oral oxidants
 
 These approaches primarily target the bacterial component but may not fully
 address the immune-mediated bone destruction that characterizes advanced
@@ -103,11 +103,11 @@ The pre-clinical finding that CBD aided in mitigating periodontitis-related
 bone loss is consistent with broader research on cannabinoids and bone
 metabolism. Related research from Israel, Switzerland, and Sweden has shown
 that CBD and other primarily CB2-activating cannabinoids have the capacity
-to make fractured bones stronger while they heal.
+to make [[blesching-cannabis-fractured-bones-cbd-healing]] stronger while they heal.
 
 ## Strain-Specific Considerations
 
-Indica and indica-dominant strains tend to contain a lower THC:CBD ratio,
+Indica and indica-dominant strains tend to contain a lower THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]],
 resulting in a relatively higher activation of CB2 receptors. For
 periodontitis, where the therapeutic target is CB2-mediated bone protection,
 CBD-rich preparations may be most appropriate.

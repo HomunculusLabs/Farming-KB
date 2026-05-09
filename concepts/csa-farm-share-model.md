@@ -1,5 +1,5 @@
 ---
-title: CSA Farm Share Model
+title: CSA csa farm share model Model
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # CSA Farm Share Model
 
-Community Supported Agriculture (CSA) connects farmers directly with consumers through prepaid seasonal subscriptions. Members receive a weekly or biweekly box of fresh produce (and sometimes meat, eggs, herbs, flowers) throughout the growing season. The model provides farmers with upfront capital, predictable demand, and a committed customer base.
+Community [[community-supported-agriculture-csa]] (CSA) connects farmers directly with consumers through prepaid seasonal subscriptions. Members receive a weekly or biweekly box of fresh produce (and sometimes meat, eggs, herbs, flowers) throughout the [[savory-growing-season-and-non-growing-season-management]]. The model provides farmers with upfront capital, predictable demand, and a committed customer base.
 
 ## How CSAs Work
 
@@ -48,14 +48,14 @@ Community Supported Agriculture (CSA) connects farmers directly with consumers t
 - Mushroom share: weekly or biweekly ([[homestead-mushroom-business]])
 - Flower share: weekly bouquets
 - Bread share: weekly loaf (from [[wild-yeast-bread-baking]])
-- Value-added: jam, hot sauce, honey, soap
+- Value-added: jam, [[fermented-hot-sauce-guide]], honey, soap
 
 ## Box Contents Planning
 
 ### Planning Principles
 - Plan for 6-10 items per box (varies by size)
 - Balance staples (lettuce, carrots, onions, potatoes) with specialties
-- Succession planting ensures continuous harvest
+- [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] ensures continuous harvest
 - Include a newsletter with storage tips, recipes, and farm updates
 - "U-pick" options for herbs, flowers, cherry tomatoes reduce packing labor
 
@@ -63,7 +63,7 @@ Community Supported Agriculture (CSA) connects farmers directly with consumers t
 Week 1: lettuce mix, radishes, sugar snap peas, kale, scallions, herbs (basil, cilantro)
 Week 2: head lettuce, carrots, zucchini, beets, green beans, herbs
 Week 3: tomatoes, cucumbers, bell peppers, eggplant, potatoes, basil
-Week 4: heirloom tomatoes, sweet corn, green beans, squash, onions, garlic
+Week 4: heirloom tomatoes, [[growing-sweet-corn-organically]], green beans, squash, onions, garlic
 
 ### Seasonal Flow
 - Spring (weeks 1-6): lettuce, spinach, radishes, turnips, peas, herbs, asparagus
@@ -144,20 +144,6 @@ Week 4: heirloom tomatoes, sweet corn, green beans, squash, onions, garlic
 
 - Start with 15-25 members and grow 20-30% per year
 - Each 10 additional members adds ~2 hours/week of harvest and packing
-- Hire help at 50+ members (see homestead labor and volunteers)
-- Software helps manage memberships: Harvie, Barn2Door, CSAware
-- Winter shares extend revenue and maintain member relationships year-round
-
-## Common Mistakes
-
-- Over-promising variety: better to under-promise and over-deliver
-- Underestimating harvest labor: packing 50 boxes takes 2-3 hours
-- Poor communication: members who feel out of the loop don't renew
-- No flexibility: members who travel need a way to manage missed pickups
-- Ignoring feedback: surveys reveal what members value most
-
-The CSA model pairs naturally with [[farmers-market-selling-guide]] (sell surplus) and online homestead sales for additional revenue streams.
-
 ## Related
 
 - [[online-homestead-sales]]

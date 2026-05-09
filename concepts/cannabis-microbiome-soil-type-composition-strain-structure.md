@@ -9,7 +9,7 @@ created: 2026-04-28
 
 # Cannabis Microbiome Soil Type Composition Strain and Structure
 
-The cannabis endorhiza microbiome — the community of microorganisms inhabiting the root zone — is shaped by two interacting but conceptually distinct dimensions: **composition** (which taxa are present) and **structure** (how those taxa are organized and distributed).
+The cannabis [[cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis]] — the community of microorganisms inhabiting the root zone — is shaped by two interacting but conceptually distinct dimensions: **composition** (which taxa are present) and **structure** (how those taxa are organized and distributed).
 
 Research demonstrates that both dimensions are influenced by soil type and cultivar (strain), but through different mechanisms and with different consequences for plant health and cannabinoid production.
 
@@ -31,7 +31,7 @@ The research examined cannabis grown in different soil types and found significa
 
 Different soils therefore provide different source pools, leading to different root communities through a process of ecological filtering as the plant selectively takes up or excludes microorganisms from the available pool.
 
-Soil type also affects community structure. The co-occurrence patterns, network connectivity, and keystone taxa differ between soil types, suggesting that the ecological interactions between microorganisms are mediated by the soil environment.
+Soil type also affects community structure. The co-occurrence patterns, network connectivity, and keystone taxa differ between soil types, suggesting that the [[king-stropharia-ecological-interactions-permaculture]] between microorganisms are mediated by the soil environment.
 
 A well-structured community in one soil type (high connectivity, many positive interactions) may become fragmented or dominated by negative interactions in another soil type.
 
@@ -39,7 +39,7 @@ A well-structured community in one soil type (high connectivity, many positive i
 
 The cannabis cultivar (genetic strain) exerts a secondary but significant influence on the endorhiza microbiome. Different cultivars selectively recruit or exclude different microorganisms from the available soil pool, resulting in cultivar-specific microbiome profiles.
 
-This selective recruitment is mediated by root exudates — the complex mixture of sugars, amino acids, organic acids, and secondary metabolites that the plant secretes into the rhizosphere.
+This selective recruitment is mediated by root exudates — the complex mixture of sugars, amino acids, organic acids, and [[antifungal-secondary-metabolites-coprophilous-fungi]] that the plant secretes into the rhizosphere.
 
 Different cultivars produce different exudate profiles, which attract different microbial communities. This is the basis for the **strain specificity** observed in the cannabis microbiome: the same soil will produce different root microbiomes depending on which cannabis strain is grown in it.
 
@@ -55,7 +55,7 @@ This means that optimal microbiome-mediated plant performance depends on matchin
 
 Edaphic factors — the physical and chemical properties of the soil — mediate the relationship between soil type and microbiome assembly. Key edaphic factors include:
 
-- **Soil pH**: Influences microbial community composition by selecting for acidophilic or alkaliphilic organisms. Many cannabis-associated microorganisms have specific pH optima.
+- **Soil pH**: Influences microbial [[core-endorhiza-bacterial-community-composition-cannabis]] by selecting for acidophilic or alkaliphilic organisms. Many cannabis-associated microorganisms have specific pH optima.
 - **Organic matter content**: Higher organic matter generally supports greater microbial biomass and diversity, providing more carbon sources and habitat complexity.
 - **Nutrient availability**: Nitrogen, phosphorus, and potassium levels affect which microbial functional groups can thrive. Nitrogen-fixing bacteria, for example, are more competitive in nitrogen-poor soils.
 - **Soil texture**: Clay content affects water retention and root penetration, which in turn influence the microenvironments available for microbial colonization.
@@ -84,7 +84,7 @@ This highlights the importance of matching cultivar selection to growing conditi
 
 ## Implications for Cannabinoid Production
 
-The connection between microbiome structure and cannabinoid production is an active area of research. The working hypothesis is that the microbiome influences cannabinoid biosynthesis through several mechanisms:
+The connection between microbiome structure and cannabinoid production is an active area of research. The working hypothesis is that the microbiome influences [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]] through several mechanisms:
 
 - Modulating nutrient availability (particularly phosphorus and micronutrients involved in secondary metabolism)
 - Producing plant hormones that affect developmental timing
@@ -110,9 +110,11 @@ Third, the distinction between composition and structure suggests that cultivato
 
 Key unanswered questions include whether the microbiome effects on cannabinoid production are consistent across different growth stages (vegetative versus flowering), whether soil sterilization followed by targeted inoculation can outperform natural soil-based approaches, and whether the bacterial community patterns observed in this research hold across the wider diversity of cannabis cultivars now available commercially.
 
-Additionally, the interaction between the bacterial microbiome and the mycorrhizal fungal community remains poorly characterized in cannabis. Since arbuscular mycorrhizal fungi are known to influence both nutrient uptake and secondary metabolism in other plant species, their role in the cannabis root ecosystem may be equally important and warrants dedicated investigation.
+Additionally, the interaction between the bacterial microbiome and the mycorrhizal fungal community remains poorly characterized in cannabis. Since [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi are known to influence both nutrient uptake and secondary metabolism in other plant species, their role in the cannabis root ecosystem may be equally important and warrants dedicated investigation.
 
 ## See Also
+
+- [[carmagnola]]
 
 - [[edaphic-determinants-cannabis-microbiome-community-structure]]
 

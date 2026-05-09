@@ -1,5 +1,5 @@
 ---
-title: Cannabis Addiction and Dependence
+title: [[blesching-cannabis-abortion-miscarriage-fertility]] addiction dependence and Dependence
 created: 2026-04-26
 tags:
   - cannabis
@@ -39,7 +39,7 @@ effects (including death). An FDA (federal Food and Drug Administration)
 report compared marijuana to seventeen common FDA-approved pharmaceutical drugs
 used to treat similar symptoms and conditions.
 
-The findings make a compelling argument for medical marijuana: between 1997
+The findings make a compelling argument for [[cervantes-medical-marijuana-pharmacology]]: between 1997
 and 2005, no deaths were attributed to the exclusive use of cannabis, while
 the FDA recorded 10,008 deaths due to the seventeen FDA-approved
 pharmaceutical drugs in the study.
@@ -54,7 +54,7 @@ suggests you may reduce this potential risk by:
   the deeper causes of your condition and take corrective action.
 
 - **Using raw preparations** of cannabis, which have little or no
-  psychoactive effect. Fresh raw cannabis contains CBD and THC in their acid
+  psychoactive effect. Fresh [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]] contains CBD and THC in their acid
   forms (THCA and CBDA). As THC is not psychoactive in this form, fresh raw
   cannabis is ideal for patients who want therapeutic benefits without the
   psychoactive component.

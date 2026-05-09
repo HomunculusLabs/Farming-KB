@@ -19,7 +19,7 @@ type: concept
 Cover crops and green manures are living plants grown primarily to benefit the
 soil rather than for harvest. Mollison treats them as essential components of
 any permaculture system, serving multiple functions simultaneously: nitrogen
-fixation, organic matter addition, erosion control, weed suppression, pest
+fixation, organic matter addition, [[permplant-willows-salix-erosion-control-fodder]], weed suppression, pest
 disruption, and soil structure improvement. A well-planned cover crop strategy
 can replace most or all synthetic fertiliser inputs.
 
@@ -43,9 +43,9 @@ webs.
 
 Legumes are the primary nitrogen-fixing cover crops. Their effectiveness
 depends on proper inoculation with the appropriate Rhizobium strain, adequate
-soil pH, and sufficient phosphorus and molybdenum for nitrogen fixation.
+soil pH, and sufficient phosphorus and molybdenum for [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 
-**Temperate species:** Crimson clover, red clover, white clover, subterranean
+**Temperate species:** [[comparison-lupin-vs-crimson-clover-green-manure]], red clover, white clover, subterranean
 clover, hairy vetch, field peas, faba beans, and lucerne (alfalfa). Crimson
 clover and hairy vetch are excellent autumn-sown covers that produce abundant
 biomass before being terminated in spring. Subterranean clover self-seeds
@@ -82,7 +82,7 @@ aeration. Mustard produces glucosinolate compounds that suppress soil-borne
 pathogens and nematodes through biofumigation.
 
 **Broadleaves:** Buckwheat, phacelia, and sunflower. Buckwheat grows rapidly
-in warm conditions, suppressing weeds and attracting beneficial insects.
+in warm conditions, suppressing weeds and attracting [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
 Phacelia is an excellent bee forage that also produces good biomass. Sunflower
 roots access deep soil nutrients and the tall plants create wind protection.
 
@@ -103,7 +103,7 @@ Cover crops are terminated at the stage that maximises their benefit to the
 subsequent cash crop. Legumes fix maximum nitrogen during flowering but
 should be terminated before seed set to prevent weediness. Cereal covers are
 easiest to terminate when young and succulent but produce less biomass. The
-balance between biomass production and ease of termination guides timing.
+balance between [[dighton-fungal-biomass-production-aquatic-ecosystems]] and ease of termination guides timing.
 
 Termination methods include: mowing and surface mulching (preferred in no-till
 systems), roller-crimping (mechanically kills without cutting), shallow
@@ -115,6 +115,6 @@ as a mulch mat through which the cash crop is direct-drilled.
 
 Mollison emphasises that cover crops should be planned as integral phases of
 the rotation, not as afterthoughts. A typical temperate vegetable rotation
-might include: winter cover crop, spring vegetables, summer cover crop, autumn
+might include: winter cover crop, spring vegetables, [[solomon-buckwheat-summer-cover-crop-guide]], autumn
 vegetables. In broadacre systems, ley farming (see [[hamilton-green-manure-crops-and-cover-cropping]]
 - [[mollison-designers-trout-and-cool-water-aquaculture-species]]

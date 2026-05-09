@@ -1,5 +1,5 @@
 ---
-title: Timber Frame Basics
+title: comparison-bamboo-construction-vs-timber-frame-basics Basics
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Timber Frame Basics
 
-Timber framing is a traditional building method where large timbers are joined together with wooden connections (joinery) rather than nails or metal fasteners. The resulting structural frame is strong, durable, and beautiful, with timbers often left exposed as an architectural feature. Timber frames pair naturally with natural infill materials like straw bales, light straw-clay, and hempcrete.
+Timber framing is a traditional [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] where large timbers are joined together with wooden connections (joinery) rather than nails or metal fasteners. The resulting structural frame is strong, durable, and beautiful, with timbers often left exposed as an architectural feature. Timber frames pair naturally with natural infill materials like straw bales, light straw-clay, and hempcrete.
 
 ## History
 
@@ -28,10 +28,10 @@ The craft declined with the introduction of stick framing (dimensional lumber wi
 
 Choose locally available species when possible:
 
-- **Oak (white, red):** Traditional choice, extremely strong, rot resistant, takes joinery well. Heavy and hard to work with hand tools.
-- **Douglas fir:** Strong, straight-grained, widely available in western North America. Excellent for beams and posts.
+- **Oak (white, red):** Traditional choice, extremely strong, rot resistant, takes joinery well. Heavy and hard to work with [[garden-hand-tools-solomon]].
+- **Douglas fir:** Strong, straight-grained, widely available in western [[psilocybin-north-america-pacific-northwest]]. Excellent for beams and posts.
 - **Eastern white pine:** Light, easy to work, adequate for smaller structures. Less rot resistant — keep out of ground contact.
-- **Hemlock:** Strong, rot resistant, widely available in eastern North America. Can be brittle in tension.
+- **Hemlock:** Strong, rot resistant, widely available in [[polypore-fungi-eastern-north-america]] America. Can be brittle in tension.
 - **Cedar (western red, eastern):** Naturally rot resistant, lighter weight. Good for exposed exterior elements.
 - **Recycled/reclaimed timber:** Old-growth timbers from demolished buildings, often superior quality to new lumber
 
@@ -140,24 +140,6 @@ A timber frame provides the structure; the enclosure system provides the walls. 
 ## Tools
 
 ### Hand Tools (Traditional)
-
-- **Broad axe and hatchet:** Hewing timbers to dimension
-- **Hand saws (rip and crosscut):** Cutting timbers to length
-- **Chisels (1/4 inch to 2 inch):** Cutting mortises and tenons
-- **Mallet:** Driving chisels — use a wooden mallet to avoid damaging chisel handles
-- **Boring machine or brace and bit:** Drilling peg holes and mortises
-- **Hand plane (jack and smoothing):** Flattening and finishing surfaces
-- **Drawknife and spokeshave:** Shaping curved elements
-- **Slick:** Large chisel pushed by hand for paring surfaces flat
-
-### Power Tools (Modern)
-
-- **Chain mortiser:** Efficiently cuts mortises of consistent depth
-- **Circular saw with beam-cutting blade:** Rough cutting of timbers
-- **Reciprocating saw with long blade:** Trimming tenons
-- **Drill press or boring machine:** Clean peg holes
-- **Planer (portable or stationary):** Milling rough-sawn timber to consistent dimensions
-- **Angle grinder with flap disc:** Cleaning up joints and shaping
 
 ## Related Concepts
 

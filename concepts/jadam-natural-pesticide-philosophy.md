@@ -1,5 +1,5 @@
 ---
-title: JADAM Natural Pesticide Philosophy
+title: JADAM jadam-natural-pesticide-institute-and-research Philosophy
 created: 2026-04-28
 tags: [jadam, natural-pesticide, pest-control, ultra-low-cost, organic-farming]
 date: 2026-04-27
@@ -11,7 +11,7 @@ type: concept
 # JADAM Natural Pesticide Philosophy
 
 JADAM's approach to natural pesticide represents a pragmatic middle ground
-between romantic views of nature that reject all pest control and conventional
+between romantic views of nature that reject all [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] and conventional
 agriculture's reliance on expensive synthetic chemicals. Founded by Youngsang
 Cho, JADAM (Jayonul Damun Ultralow-cost Agriculture) argues that pesticide
 is essential in farming because the fundamental purpose of agriculture is to
@@ -69,7 +69,7 @@ innovation that makes JADAM pesticide effective at ultra-low cost.
 JADAM sulfur is a germicide made from sulfur without heating, taking only
 20 minutes to prepare. JS is no less effective than chemical pesticides and
 does not damage plastic or steel pipes like traditional lime-sulfur mixtures.
-It controls fungal diseases including powdery mildew, downy mildew, and
+It controls fungal diseases including [[cervantes-powdery-mildew-prevention-treatment]], downy mildew, and
 anthracnose without the corrosive properties of conventional sulfur
 preparations.
 
@@ -78,21 +78,21 @@ preparations.
 JHS is made by steeping selected herbs in water, primarily for its
 insect-controlling effect. Different herb combinations target different pest
 species. The selection of herbs for JHS preparation is documented in JADAM's
-comprehensive herb selection guide, with specific recipes for aphids, mites,
+comprehensive [[jadam-jhs-herb-selection-guide]] guide, with specific recipes for aphids, mites,
 moths, stinkbugs, and other common pests.
 
 ## Practical Application Philosophy
 
 JADAM takes a gradual, comfortable approach to pesticide transition. Farmers
 can use JADAM pesticide alongside chemical pesticides they already use. As
-a beginning, use JADAM pesticide for powdery mildew, downy mildew, fungus,
+a beginning, use JADAM [[jadam-pesticide-for-powdery-mildew]] mildew, downy mildew, fungus,
 aphids, mites, and moths, while continuing chemical pesticide for other
 issues. Any start should be light-hearted and comfortable. As confidence
 grows, farmers can shift more pest control to JADAM methods.
 
 ### Proven Results
 
-In Bongha village, Korea (320 acres), farmers applied JADAM natural
+In [[jadam-bongha-village-proof]], Korea (320 acres), farmers applied JADAM natural
 pesticide 4 times at a cost of 9 dollars per acre. This ultra-low-cost
 approach has been proven over 5 years of successful rice farming using
 entirely JADAM methods. The village demonstrates that large-scale organic

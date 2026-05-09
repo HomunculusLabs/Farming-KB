@@ -21,7 +21,7 @@ sources:
 
 *Musa acuminata* Colla is the primary wild progenitor of the majority of cultivated bananas and plantains consumed worldwide.
 
-It is a large herbaceous monocot in the family Musaceae, native to Southeast Asia and northern Australia.
+It is a large herbaceous monocot in the family Musaceae, native to [[psilocybe-southeast-asia-pacific]] and northern Australia.
 
 Global banana production exceeds 120 million tonnes annually, making it the world's most important fruit crop by volume and the fourth most important food crop after rice, wheat, and maize.
 
@@ -61,7 +61,7 @@ The Cavendish subgroup replaced Gros Michel due to its resistance to race 1, tho
 
 Bananas require warm, humid tropical conditions with mean temperatures of 25–28°C and annual rainfall of 1,500–2,500 mm, distributed evenly throughout the year.
 
-Plants tolerate a wide range of soils but perform best in deep, well-drained, loamy soils with pH 5.5–7.0 and high organic matter content.
+Plants tolerate a wide range of soils but perform best in deep, well-drained, loamy soils with pH 5.5–7.0 and high [[hamilton-composting-and-organic-matter-management]] content.
 
 Production cycle from planting to harvest is 9–15 months depending on cultivar and environmental conditions.
 
@@ -87,13 +87,13 @@ Cooking bananas (plantains) are starchier and less sweet than dessert bananas, w
 
 ## Ecology and Applications
 
-Banana plantations provide ecosystem services including erosion control on steep tropical slopes, microclimate modification, and carbon storage in biomass.
+Banana plantations provide [[biodiversity-of-fungi-ecosystem-services-agriculture]] including [[permplant-willows-salix-erosion-control-fodder]] on steep tropical slopes, microclimate modification, and [[holmgren-soil-humus-carbon-storage-rebuilding]] in biomass.
 
 The pseudostems and leaves are used as mulch, animal fodder, and wrapping material in traditional agricultural systems.
 
 Banana fiber from pseudostems is used for textiles, paper production, and biodegradable packaging materials.
 
-Intercropping bananas with shade-tolerant crops such as coffee, cacao, and black pepper is a common agroforestry practice.
+Intercropping bananas with shade-tolerant crops such as coffee, cacao, and [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]] is a common agroforestry practice.
 
 Banana waste (peels, pseudostems) is a potential feedstock for bioethanol production and composting.
 
@@ -106,6 +106,10 @@ International banana collections, including those maintained by Bioversity Inter
 Genome editing using CRISPR-Cas9 has been applied to develop TR4-resistant banana lines, though regulatory and public acceptance challenges remain.
 
 ## See Also
+
+- [[acacia-acuminata]]
+
+- [[musa-paradisiaca]]
 
 - [[manihot-esculenta]]
 - [[zea-mays]]

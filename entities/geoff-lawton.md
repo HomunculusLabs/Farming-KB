@@ -2,19 +2,15 @@
 title: Geoff Lawton
 created: 2026-04-28
 type: person
-tags: [[permaculture, ecological-design, water-harvesting, earthworks, teacher, australia, regenerative-agriculture]
+tags: [permaculture, ecological-design, water-harvesting, earthworks, teacher, australia, regenerative-agriculture]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-design-course.md, /Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md, /Users/t3rpz/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md]
+sources: sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
-
-# Geoff Lawton
-
-## Overview
-
-Geoff Lawton is an Australian permaculture consultant, designer, teacher, and practitioner widely regarded as one of the most influential figures in the global permaculture movement. A former student of [[bill-mollison]] — Permaculture co-founder and Lawton's teacher
-- [[masanobu-fukuoka]] — Natural farming pioneer whose philosophy influenced permaculture
-- [[sepp-holzer-entity]] — Austrian permaculture practitioner with complementary approach to landscape rehabilitation
+# Geoff Lawton ## Overview Geoff Lawton is an Australian permaculture consultant, designer, teacher, and practitioner widely regarded as one of the most influential figures in the global permaculture movement. A former student of [[bill-mollison]] — Permaculture co-founder and Lawton's teacher
+- [[masanobu-fukuoka]] — [[comparison-natural-farming-vs-permaculture]] pioneer whose philosophy influenced permaculture
+- [[sepp-holzer-entity]] — Austrian permaculture practitioner with complementary approach to [[mollison-designers-landscape-rehabilitation-degraded-mined-land]]
 ## Background and Context
 
 Geoff Lawton is an important subject that has garnered significant attention
@@ -143,4 +139,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

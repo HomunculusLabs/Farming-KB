@@ -3,12 +3,11 @@ title: Fungal Biogeochemistry
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources: []
 ---
-# Fungal Biogeochemistry
-
-Fungi are major agents of biogeochemical cycling, mediating transformations of carbon, nitrogen, phosphorus, metals, and minerals in virtually all ecosystems. The field of geomycology encompasses all aspects of fungal interactions with geological and mineral substrates, from rock weathering to metal transformations. Fungi have been components of microbial communities of many terrestrial environments, including deserts, metal-rich and hypersaline habitats, since the Ordovician period (480-460 MYBP) (Heckman et al., 2001; Burford et al., 2003), as explored in [[gadd-fungal-metal-interactions]].
+# Fungal Biogeochemistry Fungi are major agents of biogeochemical cycling, mediating transformations of carbon, nitrogen, phosphorus, metals, and minerals in virtually all ecosystems. The field of geomycology encompasses all aspects of fungal interactions with geological and mineral substrates, from rock weathering to metal transformations. Fungi have been components of microbial communities of many terrestrial environments, including deserts, metal-rich and hypersaline habitats, since the Ordovician period (480-460 MYBP) (Heckman et al., 2001; Burford et al., 2003), as explored in [[gadd-fungal-metal-interactions]].
 
 ## Fungal Adaptations for Biogeochemical Activity
 
@@ -16,14 +15,14 @@ Fungi are well suited as biogeochemical agents because they can be highly resist
 
 ## Mineral Transformations
 
-Fungi can transform minerals through several mechanisms, contributing to both mineral dissolution and precipitation. These processes operate at the interface between the biosphere and the lithosphere, fundamentally influencing soil formation, nutrient availability, and element cycling.
+Fungi can transform minerals through several mechanisms, contributing to both mineral dissolution and precipitation. These processes operate at the interface between the biosphere and the lithosphere, fundamentally influencing soil formation, [[ph-and-nutrient-availability-garden-soils]], and element cycling.
 
 ### Oxidative Precipitation
 
 Fungi oxidize reduced metals, precipitating them as oxides and hydroxides:
 
 - **Manganese**: Fungal oxidation of Mn(II) to Mn(III/IV) produces birnessite and other manganese oxides. Manganese-oxidizing fungi are important in soil and aquatic environments, where manganese oxides serve as powerful oxidants for organic and inorganic compounds. The production of manganese oxides by fungi affects the bioavailability of manganese and other elements that adsorb to oxide surfaces
-- **Iron**: Oxidation of Fe(II) to Fe(III) produces ferrihydrite, goethite, and other iron oxyhydroxides. These mycogenic iron minerals affect phosphorus availability and heavy metal mobility in soils. Iron-oxidizing fungi contribute to the formation of iron pans in forest soils and influence the redox chemistry of waterlogged environments
+- **Iron**: Oxidation of Fe(II) to Fe(III) produces ferrihydrite, goethite, and other iron oxyhydroxides. These mycogenic iron minerals affect [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] and heavy metal mobility in soils. Iron-oxidizing fungi contribute to the formation of iron pans in forest soils and influence the redox chemistry of waterlogged environments
 - **Desert varnish**: An oxidized metal layer (patina) a few millimetres thick found on rocks and in soils of arid and semi-arid regions, also believed to be of microbial origin with some proposed fungal involvement
 
 ### Reductive Precipitation
@@ -38,7 +37,7 @@ These transformations contribute to the formation of mycogenic minerals -- miner
 
 ### Carbonate Transformations
 
-Microbial carbonate precipitation coupled with silicate weathering provides an important sink for CO2 in terrestrial environments (Verrecchia et al., 1990; Riding, 2000). In limestone, fungi and lichens are important agents of mineral deterioration and transformation. Many calcretes and petrocalcic horizons in soils are secondarily cemented with calcite (CaCO3) and whewellite (calcium oxalate monohydrate).
+Microbial carbonate precipitation coupled with silicate weathering provides an important sink for CO2 in terrestrial environments (Verrecchia et al., 1990; Riding, 2000). In limestone, fungi and lichens are important agents of mineral deterioration and transformation. Many calcretes and petrocalcic horizons in soils are secondarily cemented with calcite (CaCO3) and whewellite ([[fungal-calcium-oxalate-crystals]] monohydrate).
 
 Fungal filaments mineralized with calcite have been reported from limestone and calcareous soils worldwide (Kahle, 1977; Callot et al., 1985; Verrecchia, 2000). Calcium oxalate can be degraded to calcium carbonate in semi-arid environments, where such a process may act to cement pre-existing limestones. During decomposition of fungal hyphae, calcite crystals can act as sites of further secondary calcite precipitation (Verrecchia, 2000). Chitin, the major component of fungal cell walls, is a substrate on which calcite readily nucleates (Manoli et al., 1997). Cations such as Si4+, Fe3+, Al3+, and Ca2+ stimulate precipitation of compounds that act as bonding agents for soil particles.
 
@@ -54,12 +53,13 @@ Fungal mineral transformations contribute to soil formation (pedogenesis) and so
 
 ## Environmental Significance at Local and Global Scales
 
-At local and global scales, fungal involvement in the biogeochemical cycling of elements has important implications for living organisms, plant production, and human health (Gadd, 2006). The cumulative effect of fungal biogeochemical transformations operates at ecosystem and global scales. Fungal weathering of silicate minerals contributes to long-term CO2 drawdown through the carbonate-silicate cycle. Mycorrhizal carbon allocation represents a major pathway for atmospheric carbon into soil pools. The formation and stabilization of soil organic matter through fungal-mediated processes affects global carbon storage and nutrient availability on timescales ranging from years to millennia.
+At local and global scales, fungal involvement in the biogeochemical cycling of elements has important implications for [[savory-living-organisms-as-tools]], plant production, and human health (Gadd, 2006). The cumulative effect of fungal biogeochemical transformations operates at ecosystem and global scales. Fungal weathering of silicate minerals contributes to long-term CO2 drawdown through the carbonate-silicate cycle. [[mycoheterotrophic-plants-mycorrhizal-carbon-theft]] allocation represents a major pathway for atmospheric carbon into soil pools. The formation and stabilization of soil organic matter through fungal-mediated processes affects global [[holmgren-soil-humus-carbon-storage-rebuilding]] and nutrient availability on timescales ranging from years to millennia.
 
-These processes are central to [[fungal-weathering-rocks-minerals]], [[fungal-role-in-carbon-cycling]], [[fungi-in-the-environment-rock-building-fungi]]
+These processes are central to fungal-weathering-rocks-minerals, [[fungal-role-in-carbon-cycling]], fungi-in-the-environment-rock-building-fungi
 
-- [[fungal-bioremediation]]
+- fungal-bioremediation
 - [[fungal-role-in-phosphorus-cycling]]
+
 ## Practical Considerations
 
 Successful implementation of Fungal Biogeochemistry requires attention to
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

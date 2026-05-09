@@ -20,9 +20,9 @@ The genus Psilocybe, as treated by Guzmán (1983, 1995), is organized
 into several intrageneric sections that carry profound biogeographic
 meaning. These sections are not merely taxonomic groupings; they
 reflect evolutionary histories, dispersal corridors, and ecological
-preferences that map directly onto global vegetation patterns. The
+preferences that map directly onto global [[holmgren-vegetation-patterns-biomass-fertility]]. The
 Guzmán, Allen and Gartz (2000) worldwide analysis identified the
-bluing Psilocybe sections as the core of the neurotropic fungi, with
+bluing guzman allen gartz psilocybe sections biogeographic significance as the core of the neurotropic fungi, with
 116 species distributed across at least nine named sections.
 
 ## The Bluing Sections as a Taxonomic Framework
@@ -45,7 +45,7 @@ specialists in the genus. Psilocybe aztecorum var. aztecorum grows
 exclusively in subalpine and alpine habitats of the high mountains of
 Mexico, reaching elevations of approximately 4,000 meters. This species
 presents strong morphological and phylogenetic relationships with
-Psilocybe baeocystis from the Pacific Northwest of North America,
+[[stamets-psi-psilocybe-baeocystis-knobby-tops]] from the Pacific Northwest of North America,
 specifically Oregon, Washington and British Columbia, and with
 Psilocybe quebecensis from Quebec, Canada.
 
@@ -90,10 +90,10 @@ The section also includes Psilocybe aucklandii from New Zealand,
 which is closely related to P. zapotecorum. This relationship
 further supports the hypothesis that Psilocybe diversity originated
 in the southern hemisphere, particularly in South America, and
-subsequently dispersed northward. The Zapotecorum section species
+subsequently dispersed northward. The [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]] species
 are strongly associated with subtropical and tropical humid forests,
 consistent with the observation that the majority of Psilocybe
-species occur in or near the Austral hemisphere.
+species occur in or near the [[biogeography-austral-hemisphere-fungi]].
 
 ## Section Subaeruginosae: Australasian Endemism
 
@@ -108,7 +108,7 @@ southern Pacific.
 
 ## Section Semilanceatae: The Temperate Holarctic Pattern
 
-Section Semilanceatae contains Psilocybe semilanceata, the liberty
+Section Semilanceatae contains [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], the liberty
 cap, which represents a fundamentally different biogeographic pattern
 from the predominantly tropical sections. P. semilanceata is known
 from the temperate regions of Europe, India, Russia, Canada, the
@@ -134,7 +134,7 @@ sharply with the broad distributions seen in sections like
 
 ## See also
 
-[[guzman-allen-gartz-psilocybe-transcontinental-species-pairs]]
+guzman-allen-gartz-psilocybe-transcontinental-species-pairs
 [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]]
 [[guzman-allen-gartz-cosmopolitan-and-endemic-neurotropic-species]]
 

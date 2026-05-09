@@ -19,7 +19,7 @@ sources:
 ## Overview
 
 **Amanita porphyria** is a medium-sized ectomycorrhizal mushroom in the family
-Amanitaceae. It is widely distributed across temperate and boreal forests of
+Amanitaceae. It is widely distributed across temperate and [[fungal-diversity-boreal-forests-taiga]] of
 Europe and Asia.
 
 The species is inedible and causes gastrointestinal distress when consumed.
@@ -61,7 +61,7 @@ The stipe is 6–12 cm tall and 1–2 cm thick, white to pale grey, and bears
 a membranous, pendant annulus near the apex. The base is bulbous and
 surrounded by a short, membranous, sac-like volva.
 
-Spore print is white. Basidiospores are broadly ellipsoid to subglobose,
+[[comparison-spore-print-collection-vs-spore-syringe-production]] is white. Basidiospores are broadly ellipsoid to subglobose,
 measuring 7–9 × 5.5–7.5 µm. Spores are inamyloid and thin-walled.
 
 ## Distribution and Habitat
@@ -98,7 +98,7 @@ cases. No fatalities have been conclusively attributed to this species.
 
 Despite its non-lethal toxicity, the mushroom should never be consumed due
 to the significant risk of confusion with deadly *Amanita* species,
-particularly *Amanita phalloides* and *Amanita virosa*.
+particularly *Amanita phalloides* and *[[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]*.
 
 ## Similar Species
 
@@ -127,10 +127,10 @@ improving nutrient and water uptake.
 
 In exchange, the host tree provides the fungus with photosynthetically
 derived carbohydrates. This relationship is particularly important for
-nutrient cycling in boreal and montane forest ecosystems.
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in boreal and montane forest ecosystems.
 
-The species contributes to soil aggregation and organic matter decomposition
-through its extensive mycelial networks. Dead basidiomata return nutrients
+The species contributes to soil aggregation and [[hamilton-composting-and-organic-matter-management]] decomposition
+through its extensive [[fungal-mycelial-networks-nutrient-translocation]]. Dead basidiomata return nutrients
 to the forest floor and support diverse invertebrate communities.
 
 ## See Also

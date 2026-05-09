@@ -1,5 +1,5 @@
 ---
-title: Myconeurological Networks and Biological Computing
+title: Myconeurological myconeurological networks and biological computing Computing
 created: 2026-04-28
 tags:
   - mycology
@@ -76,20 +76,20 @@ Fungi may not be unique to Earth. Scientists theorize that life is spread
 throughout the cosmos and is likely to exist wherever water is found in a
 liquid state. Proto-germplasm could travel throughout galactic expanses
 riding upon comets or carried by stellar winds. This form of interstellar
-protobiological migration, known as panspermia, suggests that fungal life
+protobiological migration, known as panspermia, suggests that [[bloomfield-fungal-life-cycle-spiral-versus-circle]]
 may exist on other planets.
 
 NASA has established the Astrobiology Institute and Cambridge University
 Press has established the International Journal for Astrobiology. NASA has
 even considered using fungi for interplanetary colonization, recognizing
-their ability to break down organic matter and generate soil on barren
+their ability to [[query-can-fungi-break-down-plastic-pollution]] [[hamilton-composting-and-organic-matter-management]] and generate soil on barren
 worlds. Spores have no borders.
 
 ## Ethical and Practical Implications
 
 The recognition of fungal intelligence raises profound questions about how
-we treat these organisms. If mycelial networks possess a form of cognition,
-then the destruction of fungal habitats through deforestation, chemical
+we treat these organisms. If [[fungal-mycelial-networks-nutrient-translocation]] possess a form of cognition,
+then the destruction of [[freshwater-fungal-habitats-conservation-urgency]] through deforestation, chemical
 agriculture, and pollution takes on a moral dimension beyond mere
 ecological concern.
 

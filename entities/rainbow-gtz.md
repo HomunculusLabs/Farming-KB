@@ -21,7 +21,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly. "Rainbow GTZ Strain Information." www.leafly.com/strains/rainbow-gtz.
-  - AllBud. "Rainbow GTZ Cannabis Strain." www.allbud.com/marijuana-strains/hybrid/rainbow-gtz.
+  - AllBud. "Rainbow GTZ [[blesching-cannabis-strain-selection-receptor-targeting]]." www.allbud.com/marijuana-strains/hybrid/rainbow-gtz.
   - Wikileaf. "Rainbow GTZ Strain Review." www.wikileaf.com/strain/rainbow-gtz.
   - GrowDiaries. "Rainbow GTZ Grow Reports." www.growdiaries.com.
   - SeedsHereNow. "Archive Seed Bank — Rainbow GTZ." www.seedsherenow.com.
@@ -90,24 +90,24 @@ Side effects are typical of high-THC cannabis: dry mouth, dry eyes, and potentia
 
 Rainbow GTZ has moderate cultivation difficulty, suitable for experienced growers. It performs well in both indoor and outdoor environments, with a flowering time of 8–10 weeks indoors.
 
-The strain responds well to training techniques including LST, SCROG, and topping. Branching is moderate, with adequate node spacing for light penetration. Support may be needed during late flowering due to the density and weight of mature buds.
+The strain responds well to [[cannabis-training-techniques-comparison]] including LST, SCROG, and topping. Branching is moderate, with adequate node spacing for light penetration. Support may be needed during late flowering due to the density and weight of mature buds.
 
-Indoor yields range from 400–500 g/m² under optimal conditions. The plants reach medium height (100–150 cm) and exhibit vigorous vegetative growth. Nutrient requirements are moderate to heavy during mid-flowering, particularly for phosphorus and potassium.
+Indoor yields range from 400–500 g/m² under optimal conditions. The plants reach medium height (100–150 cm) and exhibit vigorous [[cannabis-vegetative-growth-stage]]. Nutrient requirements are moderate to heavy during mid-flowering, particularly for phosphorus and potassium.
 
 ## Notable Phenotypes and Crosses
 
 Several phenotypes of Rainbow GTZ have been identified by growers, varying in color expression, bud structure, and terpene dominance. The "purple" pheno exhibits the most vivid coloration with deep violet hues throughout, while the "green" pheno maintains brighter green tones with more pronounced citrus terpenes.
 
-Archive Seed Bank has used Rainbow GTZ in further breeding projects, crossing it with other elite cultivars to produce new lines. Its combination of visual appeal, resin production, and complex terpene profile makes it an attractive parent for exotic strain development.
+Archive Seed Bank has used Rainbow GTZ in further breeding projects, crossing it with other elite cultivars to produce new lines. Its combination of visual appeal, [[cannabis-glandular-trichome-types-resin-production-clarke]], and complex terpene profile makes it an attractive parent for exotic [[vic-high-true-breeding-strain-development-stabilization]].
 
-The strain's genetics have also been incorporated into several crosses in the competitive cannabis breeding circuit, particularly in California and Oregon. Some breeders have paired it with Dosidos or Kush Mints lineage to increase resin gland size and add cookie-dough terpene notes.
+The strain's genetics have also been incorporated into several crosses in the competitive [[oner-cannabis-breeding-fundamentals]] circuit, particularly in California and Oregon. Some breeders have paired it with Dosidos or Kush Mints lineage to increase resin gland size and add cookie-dough terpene notes.
 
 ## See Also
 
 - [[grape-ape]]
 - triangle kush
 - og triple og
-- [[gelato-cannabis]]
+- [[gelato]]
 - [[cannabis-extraction-basics]]
 - [[cannabis-genetics-and-breeding]]
 - [[cannabis-breeding-basics]]

@@ -1,5 +1,5 @@
 ---
-title: Mushroom Cultivation in Kenya
+title: accessible-mushroom-cultivation-for-disabilities in Kenya
 created: 2026-04-28
 tags:
   - kenya
@@ -19,7 +19,7 @@ type: concept
 Kenya is a medium-sized East African tropical country (582,646 sq km) with a
 population of 30 million. The equator divides the country, creating a diverse
 climate that supports year-round cultivation of coffee, tea, maize, wheat, rice,
-sugarcane, and cotton, whose residues serve as mushroom substrates. The economy
+sugarcane, and cotton, whose residues serve as [[query-what-are-the-best-mushroom-substrates-for-different-species]]. The economy
 depends heavily on agriculture, with tourism as the second major income source.
 Both sectors drive demand for mushrooms in hotels and supermarkets.
 
@@ -28,11 +28,11 @@ Both sectors drive demand for mushrooms in hotels and supermarkets.
 The Kenyan mushroom industry is still in its infancy, growing slowly. Of the 42
 indigenous tribes, 38 are known to use mushrooms as food, and wild mushrooms
 (Termitomyces and Pleurotus species) are traditionally collected from forests.
-However, deforestation reduces wild mushroom habitat each year.
+However, deforestation reduces wild [[psilocybin-mushroom-habitat-and-ecology]] each year.
 
 ### Production and Market
 Current production is approximately 500 tons per annum, vastly below the estimated
-potential of over 100,000 tons per year. Button mushroom (Agaricus bisporus)
+potential of over 100,000 tons per year. Button mushroom ([[genetic-improvement-agaricus-bisporus-molecular-approaches]])
 accounts for 476 tons (over 95% of production). Four major commercial farms
 (Agridutt Ltd., Rift Valley Mushrooms, Olive Mushrooms, Devani and Kanchan
 Mushrooms) supply supermarkets in Nairobi and Mombasa. Several small farms sell
@@ -64,7 +64,7 @@ There is no single spawn manufacturing company in Kenya. Farmers must import
 spawn at KES600/kg (USD7.80) including airfreight, or produce their own from
 culture collections. Self-produced spawn often suffers from quality loss after a
 few months due to culture preservation difficulties and electricity fluctuations.
-Few personnel are trained in spawn production.
+Few personnel are trained in [[growing-gourmet-sawdust-spawn-production-use]].
 
 ### Information Secrecy
 Commercial farms restrict access and keep growing procedures secret. Information
@@ -92,7 +92,7 @@ to market surplus production.
 Several measures are recommended to accelerate the Kenyan mushroom industry:
 
 - Establish a local high-quality spawn manufacturer that advises farmers on
-  strain selection for diverse cold, moderate, and hot regions
+  [[blesching-cannabis-strain-selection-receptor-targeting]] for diverse cold, moderate, and hot regions
 - The Ministry of Agriculture should assign officers specifically for mushroom
   extension services, making them more accessible and affordable
 - Donors should support women's groups and small farmers to initiate local

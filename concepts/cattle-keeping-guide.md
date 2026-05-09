@@ -1,5 +1,5 @@
 ---
-title: Cattle Keeping Guide
+title: Cattle duck-keeping-guide-detailed
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Ultimate Guide to Natural Farming and Sustainable Living, Nicole Faires
+Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]], Nicole Faires
 
 Cattle are versatile large livestock providing milk, meat, draft power, and manure. For the small farmer, a single dairy cow or a small herd of dual-purpose cattle can provide significant food security.
 
@@ -44,7 +44,7 @@ Cattle are versatile large livestock providing milk, meat, draft power, and manu
 - **With quality grass**: 0.5 pounds (0.23 kg) of grain gives about 90% of milk-producing capacity
 - **Timing**: Slowly increase grain as milk supply grows, taper off near end of lactation
 - **Processing**: Grains should be chopped or ground; mixing different types together is better
-- **Supplements**: Cornstalks, washed and sliced root vegetables, whole sunflower heads
+- **Supplements**: Cornstalks, washed and sliced [[growing-root-vegetables-guide]], whole sunflower heads
 - **Alfalfa note**: Quality alfalfa pasture or hay may be rich enough to require no grain supplement
 
 ## Cattle Breeds

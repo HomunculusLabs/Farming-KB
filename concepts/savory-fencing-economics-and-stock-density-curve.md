@@ -1,5 +1,5 @@
 ---
-title: "Fencing Economics and Stock Density Curve"
+title: "savory fencing economics and stock density curve and savory-stock-density-vs-stocking-rate Curve"
 created: 2026-04-28
 tags: [holistic-management, fencing, paddock-design, stock-density,
       diminishing-returns, grazing-infrastructure, marginal-reaction]
@@ -23,7 +23,7 @@ paddock numbers and grazing effectiveness.
 As paddock numbers increase and paddock size decreases, stock density
 (animals per acre) increases. Effects include more uniform grazing
 pressure, longer recovery periods without reducing total area, higher
-animal impact and herd effect, and better diet quality from frequent
+[[savory-animal-impact-and-herd-effect]] and herd effect, and better diet quality from frequent
 moves to fresh ground. With new fence, time can change everywhere but
 stock density only changes where paddock size changes.
 
@@ -31,7 +31,7 @@ stock density only changes where paddock size changes.
 
 The relationship between fencing investment and return follows a curve
 of diminishing marginal reaction. Each additional paddock division
-produces a smaller benefit than the previous one. The [[savory-livestock-grazing-planning]]  planning to prevent overgrazing, provide adequate recovery, create
+produces a smaller benefit than the previous one. The   planning to prevent overgrazing, provide adequate recovery, create
 needed stock density, and maintain animal nutrition through frequent
 moves.
 
@@ -63,10 +63,10 @@ The number of paddocks directly influences diet quality:
 
 This affects [[savory-stock-density-vs-stocking-rate]]
 - [[animal-tractoring]] - Maximizing return per dollar invested
-- short duration grazing and cell systems - Multi-paddock
+- [[savory-short-duration-grazing-and-cell-systems]] grazing and cell systems - Multi-paddock
   implementation
 - animal impact and herd effect - How density creates disturbance
-- land planning and grazing cell design - Physical infrastructure
+- [[savory-land-planning-and-grazing-cell-design]] and grazing cell design - Physical infrastructure
   design
 ## Practical Considerations
 
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

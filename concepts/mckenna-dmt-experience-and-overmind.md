@@ -1,5 +1,5 @@
 ---
-title: The DMT Experience and the Overmind
+title: The mckenna-dmt-experience-and-hyperspace and the Overmind
 created: 2026-04-28
 tags: [DMT, hyperspace, tryptamine, consciousness, entity-encounter, Overmind, McKenna, pineal-gland]
 date: 2026-04-28
@@ -10,11 +10,11 @@ type: concept
 
 # The DMT Experience and the Overmind
 
-The DMT experience occupies a central place in Terence McKenna's vision of human possibility.
+The DMT experience occupies a central place in [[terence-mckenna]]'s vision of human possibility.
 
 In the closing sections of *Food of the Gods*, he describes N,N-dimethyltryptamine not merely as the most powerful of the naturally occurring hallucinogens but as a gateway to an objectively real dimension of existence, one that holds transformative implications for human consciousness, cultural evolution, and our understanding of intelligence in the universe.
 
-His concept of the "Overmind" provides a framework for interpreting the consistently reported entity encounters that characterize the DMT experience.
+His concept of the "Overmind" provides a framework for interpreting the consistently reported [[dmt-entity-encounters-and-the-logos]] that characterize the DMT experience.
 
 ## The Phenomenology of DMT
 
@@ -64,7 +64,7 @@ After only a few hundred seconds, these enzymes have completely and harmlessly i
 
 That ordinary amine levels in the brain are reestablished so quickly, with the most powerful of all hallucinogenic indoles, argues there may have been a long co-evolutionary association between human beings and hallucinogenic tryptamines.
 
-Although psilocybin and psilocin, the hallucinogenic indoles active in Stropharia cubensis, are not presently thought to directly metabolize into DMT before becoming active in the brain, nevertheless their pathway is the closest of relatives to the neural pathway of DMT activity.
+Although [[psilocybin]] and [[psilocin]], the hallucinogenic indole [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] ria cubensis, are not presently thought to directly metabolize into DMT before becoming active in the brain, nevertheless their pathway is the closest of relatives to the neural pathway of DMT activity.
 
 They may be active at the same synapses, with DMT being more reactive. The source of this difference is probably pharmacokinetic: DMT may cross the blood-brain barrier more readily, so that more reaches the site of activity in a shorter time.
 
@@ -78,7 +78,7 @@ When DMT has been studied, it was administered by injection. This is the preferr
 
 The experience of DMT by intermuscular injection lasts nearly an hour; the peak of the experience obtained by smoking occurs in about one minute.
 
-In the Amazon Basin some tribal people have a tradition of using DMT-containing plants. They use the sap of Virola trees, relatives of nutmeg, or the ground and toasted seeds of Anadenanthera peregrina, a huge leguminous tree.
+In the Amazon Basin some tribal people have a tradition of using DMT-containing plants. They use the sap of Virola trees, relatives of nutmeg, or the ground and t [[yopo-anadenanthera-peregrina-snuff]] nthera peregrina, a huge leguminous tree.
 
 The generally accepted method of activating the indole is to snuff the powdered plant material. Such snuffing is not left to the discretion of the user; rather, the user has a friend blow a hollow reed full of fine powder up first one nostril, then the other.
 
@@ -100,7 +100,7 @@ What he does believe is that he has a sufficient grasp of the customs, expectati
 
 ## Jung and the Alchemical Cabiri
 
-Alone among twentieth-century schools of mainstream thought, Jungian psychology has sought to confront some of the phenomena so central to shamanism.
+Alone among twentieth-century schools of mainstream thought, Jungian psychology has sought to confront some of the phenomena so central shamanism nism.
 
 Alchemy, which Jung studied very carefully, was the inheritor of a long tradition of shamanistic and magical techniques, as well as more practical chemical procedures.
 

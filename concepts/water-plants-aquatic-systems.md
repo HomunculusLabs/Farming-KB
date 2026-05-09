@@ -13,7 +13,7 @@ type: concept
 # Water Plants for Aquatic Systems
 
 Water plants are essential components of any aquatic system in
-permaculture design. They provide direct food for humans and fish,
+[[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. They provide direct food for humans and fish,
 oxygenate water, filter excess nutrients, and create habitat for
 aquatic organisms. No aquatic system is complete without a diverse
 range of plants filling different ecological niches.
@@ -22,7 +22,7 @@ range of plants filling different ecological niches.
 
 Water plants can be classified into four broad groups:
 
-- **Submerged plants**: Roots act only as anchors; nutrient exchange
+- **Submerged plants**: Roots act only as anchors; [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
   occurs across the entire plant surface. Valuable for fish production
   as they oxygenate water directly
 - **Floating-leaved plants**: Often useful to humans but less so for
@@ -49,7 +49,7 @@ A small, perennial, free-floating fern that hosts a microscopic alga
 atmosphere, making it available to the Azolla as ammonia. Key benefits:
 
 - Used extensively in Vietnam as a companion in rice paddies
-- Feeds tilapia and other fish in rice paddy systems
+- Feeds tilapia and other fish in [[fukuoka-textdoc-creating-rice-paddy-natural-methods]] systems
 - Valuable food for pigs, poultry, and waterfowl
 - Controls mosquitoes and weeds by covering water surface
 - Excellent nitrogen-rich mulch when dried; similar water-holding
@@ -94,7 +94,7 @@ Possibly the earliest cultivated plant. Grown in paddy culture like
 rice or on dry land under irrigation. Requires 6-7 month frost-free
 period. Corms are comparable nutritionally to potatoes and sweet
 potatoes. Leaves and petioles can be cooked like spinach. The plant
-must be cooked before eating. Some cultivars are highly salt tolerant.
+must be cooked before eating. Some cultivars are highly [[halotolerant-halophilic-fungi-salt-tolerant-diversity]].
 
 ### Eleocharis dulcis (Chinese Water Chestnut)
 
@@ -125,15 +125,21 @@ varieties suited to temperate sites.
 
 ### Glyceria maxima (Great Water Grass)
 
-A dense clumping perennial grass to 2 m. Leaves are good fish food and
+A dense clumping [[savory-perennial-grass-and-desertification]] to 2 m. Leaves are good fish food and
 the seed has been used for human food. Seed flour makes good quality
 bread and can thicken soups, stews, and puddings.
 
 ## Role in Permaculture Design
 
-Water plants provide critical functions in [[faires-aquaculture-pond-systems]] systems:
+Water plants provide critical functions in faires-aquaculture-pond-systems systems:
 
-- [[mycofiltration-silt-erosion-control]]: Emergent and margin plants stabilise banks
+- mycofiltration-silt-erosion-control: Emergent and margin plants stabilise banks
 - [[permaculture-plants-aquatic-systems-water-plants]]
 
 - [[swale-design-water-harvesting]]
+## See Also
+- [[permaculture-plants-aquatic-systems-water-plants]]
+- [[mycofiltration]]
+- [[colocasia-esculenta]]
+- [[permaculture-design]]
+- [[sepp-holzer-water-gardens-and-aquatic-plants]]

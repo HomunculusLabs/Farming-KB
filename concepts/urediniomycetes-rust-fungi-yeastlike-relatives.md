@@ -1,5 +1,5 @@
 ---
-title: "Urediniomycetes - Rust Fungi and Yeastlike Relatives"
+title: "Urediniomycetes - biodiversity-rust-fungi-urediniomycetes and Yeastlike Relatives"
 created: 2026-04-26
 tags:
   - basidiomycota
@@ -21,7 +21,7 @@ The Urediniomycetes is a large and diverse class within the phylum
 Hymenomycetes (mushrooms and shelf fungi). The Urediniomycetes is
 distinguished by its dimorphic life histories, which typically
 include a saprobic yeast phase and a pathogenic filamentous state,
-as well as by distinctive septal pore structures lacking both
+as well as by distinctive [[fungal-woronin-bodies-and-septal-pore-organization]] structures lacking both
 dolipore septa and parenthesomes.
 
 ## Major Subclasses and Orders
@@ -48,7 +48,7 @@ and orders:
 
 ## The Rust Fungi (Uredinales)
 
-The rust fungi display some of the most complex life cycles known
+The rust fungi display some of the most complex [[bloomfield-rust-fungus-life-cycles-puccinia-haustoria-spermatia]] known
 among fungi. In the most extreme examples, these fungi are
 heteroecious, requiring two distantly related host plants to
 complete their life cycles, and macrocyclic, possessing up to five
@@ -122,13 +122,13 @@ Urediniomycetes.
 ## Ecological Significance
 
 The Urediniomycetes play critical roles in both natural and
-agricultural ecosystems. Rust fungi are major constraints on
+[[fungi-grassland-agricultural-ecosystems-dighton]]. Rust fungi are major constraints on
 food production globally, driving breeding programs for disease
 resistance in crop plants. The yeastlike members contribute to
-nutrient cycling, particularly on plant surfaces and in soil,
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], particularly on plant surfaces and in soil,
 and some serve as opportunistic pathogens of humans and animals.
 The Septobasidiales represent a unique fungal-insect interaction
-that has implications for biological control of scale insect
+that has implications for [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] of scale insect
 pests.
 
 ## See Also

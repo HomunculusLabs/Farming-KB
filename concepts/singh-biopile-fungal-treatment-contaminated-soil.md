@@ -1,5 +1,5 @@
 ---
-title: "Biopile Fungal Treatment of Contaminated Soil"
+title: "Biopile staycare-fungal-treatment-of-molasses-wastewater of Contaminated Soil"
 created: 2026-04-28
 tags: [mycoremediation, biopile, soil-remediation, petroleum-hydrocarbons, ex-situ-treatment]
 date: 2026-04-25
@@ -14,7 +14,7 @@ type: concept
 Biopile treatment is an engineered ex-situ bioremediation technology that
 combines soil excavation, nutrient amendment, aeration, and moisture control
 to create optimized conditions for microbial degradation of organic contaminants.
-When fungal degradation pathways are specifically targeted, biopiles become
+When fungal [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]] are specifically targeted, biopiles become
 powerful platforms for mycoremediation of petroleum hydrocarbons, PAHs,
 pesticides, and other organic contaminants. Singh's treatment of biopile
 technology emphasizes the importance of designing systems that favor fungal
@@ -35,14 +35,14 @@ components include:
 - **Aeration system**: Forced air injection or vacuum extraction through
   perforated pipes embedded in the pile base, providing oxygen for aerobic
   [[singh-composted-biomass-as-soil-amendment-remediation]] provide structural support, carbon sources, and
-  induce white rot lignin modifying enzyme production. These materials
+  induce white rot lignin modifying [[ligninolytic-enzyme-production-bioremediation]]. These materials
   align with [[ligninolytic-enzymes-bioremediation]]
   under nitrogen-limited conditions. Biopile C:N ratios of 25:1 to 40:1
   favor fungal ligninolytic activity over bacterial growth, which prefers
   lower C:N ratios around 20:1.
 - **pH adjustment**: Fungi generally prefer slightly acidic conditions
   (pH 5 to 6), while bacteria prefer near-neutral pH. Sulfur or acidic
-  organic amendments can lower biopile pH to favor fungal communities.
+  [[cervantes-organic-amendments-chart]] can lower biopile pH to favor [[biodiversity-of-fungi-soil-fungal-communities-agriculture]].
 
 ### Aeration Strategy
 
@@ -54,7 +54,7 @@ dominate:
   drying and temperature increases that favor thermophilic bacteria over
   mesophilic fungi.
 - **Air flow rates**: Moderate air flow rates (1 to 5 L/min/m3) provide
-  sufficient oxygen for fungal metabolism without stripping volatile
+  sufficient oxygen for [[singh-fungal-metabolism-pahs]] without stripping volatile
   compounds or excessively cooling the pile.
 - **Temperature management**: [[fungal-exopolysaccharides-and-extracellular-polymers]]
   produced during growth improve moisture retention and distribution.

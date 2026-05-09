@@ -15,18 +15,18 @@ sources:
   - "Small, E. (2017). Cannabis: A Complete Guide. CRC Press."
   - "Mills, S. et al. (2020). \"Genetic structure of Cannabis sativa L. with a focus on chemotype and geographic origin.\" Genes, 11(11), 1321."
   - "Lewis, M.A. et al. (2018). \"Cannabis sativa L. botany and emerging horticultural applications.\" Horticultural Research, 5, 59."
-  - "ElSohly, M.A. et al. (2016). \"Changes in Cannabis potency over the last two decades.\" Biological Psychiatry, 79(7), 613-619."
+  - "ElSohly, M.A. et al. (2016). \"Changes in [[green-cannabis-potency-maximizing]] over the last two decades.\" Biological Psychiatry, 79(7), 613-619."
 ---
 
 # Afghan Kush
 
-Afghan Kush is a pure indica landrace cannabis strain originating from the
+Afghan Kush is a pure indica [[cervantes-landrace-cannabis-populations]] strain originating from the
 Hindu Kush mountain range spanning Afghanistan and northern Pakistan.
 
 It is one of the most genetically influential cannabis strains in history,
-serving as the genetic foundation for countless modern indica and hybrid varieties.
+serving as the genetic foundation for countless modern [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]] varieties.
 
-Renowned for its resin production, Afghan Kush has been the primary source of
+Renowned for its [[cannabis-glandular-trichome-types-resin-production-clarke]], Afghan Kush has been the primary source of
 charas and hashish in Central and South Asia for centuries.
 
 ## Strain Classification
@@ -82,7 +82,7 @@ short-season mountain environments.
 
 Afghan Kush is considered a quintessential "nighttime" strain due to its
 pronounced sedative effects. The high myrcene content contributes significantly
-to the entourage effect producing deep relaxation.
+to the [[cannabis-terpene-entourage-effect-profiles]] producing deep relaxation.
 
 ## Growing Characteristics
 
@@ -107,7 +107,7 @@ genetics. Its influence permeates the vast majority of contemporary strains.
 - **OG Kush lineage:** Afghan Kush is a confirmed parent in the OG Kush genetic
   lineage, making it an ancestor of countless West Coast varieties.
 - **Skunk heritage:** Contributed indica genetics to Skunk #1 via Afghani
-  selections used in the original breeding program.
+  selections used in the original [[cervantes-breeding-program-design-goal-setting]].
 - **Hash plant lines:** Directly used in creating Hash Plant and numerous
   resin-focused cultivars.
 - **Medical breeding:** Foundation for many high-CBD medical strains through

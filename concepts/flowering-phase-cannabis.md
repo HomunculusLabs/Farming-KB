@@ -1,5 +1,5 @@
 ---
-title: Flowering Phase Cannabis
+title: green-cannabis-grow-bible-flowering-phase-and-harvest Cannabis
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -47,10 +47,10 @@ below the surface.
 
 - **Hermaphroditism:** Light leaks or stress can cause female plants to develop male
   pollen sacs, leading to seeded buds (sinsemilla lost)
-- **Bud mold (botrytis):** High humidity during late flowering causes gray mold inside
+- **Bud mold (botrytis):** High humidity during late flowering causes [[cervantes-gray-mold-botrytis-prevention]] inside
   dense buds
-- **Nutrient burn:** Overfeeding during flowering can affect taste and harshen smoke
-- **Nutrient deficiency:** Calcium and magnesium demands increase; see [[flushing-nutrients]] with plain water or a
+- **[[cannabis-nutrient-burn-and-toxicity]]:** Overfeeding during flowering can affect taste and harshen smoke
+- **[[cannabis-grow-nutrient-deficiency-problem-solving]]:** Calcium and magnesium demands increase; see [[flushing-nutrients]] with plain water or a
 clearing solution to remove residual fertilizers from the growing medium and plant
 tissue. This improves the taste and smoothness of the final product.
 
@@ -79,6 +79,6 @@ predict final plant structure.
 
 ## See Also
 
-- [[vegetative-phase-cannabis]] -- the preceding growth stage
+- [[vegetative-phase-cannabis]] -- the preceding [[cho-plant-growth-stage-treatment-protocols]]
 - [[light-schedule-cannabis]] -- the 12/12 trigger for flowering
 - [[hps-grow-lights]] -- preferred lighting for flowering

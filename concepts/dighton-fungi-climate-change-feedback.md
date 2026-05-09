@@ -1,5 +1,5 @@
 ---
-title: "Fungi and Climate Change Feedback"
+title: "mycelium-running-stamets-fungi-and-climate-change Change Feedback"
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -11,7 +11,7 @@ tags: [climate, fungi]
 # Fungi and Climate Change Feedback
 
 Dighton (2003) examines how fungi mediate feedbacks between climate change and
-ecosystem processes. The interactions between elevated atmospheric CO2,
+[[fungal-ecosystem-processes-overview]]. The interactions between elevated atmospheric CO2,
 increased temperature, and fungal-mediated decomposition, nutrient cycling,
 mycorrhizal function, and carbon storage create complex feedback loops that
 may either amplify or dampen the effects of climate change on ecosystems.
@@ -27,7 +27,7 @@ carbon pool size in cool-adapted plants:
 carbohydrate pools supporting greater mycorrhizal development, fruiting,
 community diversity, and extraradical hyphal soil exploitation. Increased C:N
 ratio of plant litter makes mycorrhizal fungi more important as saprotrophs.
-Mycorrhizal diversity is maintained, favoring species capable of producing
+[[dighton-mycorrhizal-diversity-ecosystem-function]] is maintained, favoring species capable of producing
 enzymes for organic nutrient acquisition.
 
 **Scenario B — Elevated temperature alone:** Increased saprotrophic
@@ -38,11 +38,11 @@ mycorrhizae, potentially declining mycorrhizal diversity and extraradical
 hyphal exploitation.
 
 **Scenario C — Combined CO2 and temperature:** Changes in leaf litter
-chemistry (enhanced N content) improve resource quality, forcing mycorrhizal
+chemistry (enhanced N content) improve [[fungal-decomposition-resource-quality-determinants]], forcing mycorrhizal
 fungi to compete with saprotrophs for mineralized nutrients by increasing
 diversity and hyphal exploitation of soil.
 
-The model predicts ECM and ericoid mycorrhizal communities (dominating in
+The model predicts ECM and [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] communities (dominating in
 cooler, nutrient-poor systems) will be more affected than AM-dominated
 communities. Vogt et al. (1993) and O'Neill (1994) suggest that fine root
 growth, turnover, mycorrhizal status and function are among the most useful
@@ -80,7 +80,7 @@ doubling, but no consensus for C:P ratio trends.
 Zak et al. (2000) summarized 47 publications on soil C and N cycling under
 elevated CO2 across graminoid, herbaceous, and woody ecosystems. Two
 generalities emerged: (1) greater plant growth with more carbon entering
-below-ground systems, and (2) greater metabolic activity of soil microbial
+below-ground systems, and (2) greater [[arbuscule-isolation-metabolic-activity-assays]] of soil microbial
 communities. However, coefficients of variation of 80-800% indicate highly
 inconsistent responses.
 

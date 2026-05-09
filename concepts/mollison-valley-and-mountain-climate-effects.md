@@ -1,5 +1,5 @@
 ---
-title: "Valley and Mountain Climate Effects in Design"
+title: "Valley and mollison valley and mountain climate effects Effects in Design"
 created: 2026-04-26
 tags:
   - permaculture
@@ -56,7 +56,7 @@ directly to water vapour rather than melting.
 
 ### Valley Winds
 Valley winds follow a daily cycle. Downslope and down-valley winds
-occur at dawn as cold air drains from upper elevations. Upslope and
+occur at dawn as [[hemenway-cold-air-drainage-and-frost-management]] drains from upper elevations. Upslope and
 up-valley winds develop by day as slopes heat. Many bird species use
 these winds to follow a daily migration (downhill at dawn, to ridge
 forests at evening).
@@ -97,7 +97,7 @@ microclimate zones suitable for different species.
 
 ## Snow Cover Dynamics
 
-Snow cover may serve as an insulating blanket, preventing early spring
+Snow cover may serve as an insulating blanket, preventing [[coleman-overwintered-onions-and-early-spring-crops]]
 thawing or even autumn freezing if it covers unfrozen ground. Snow cover
 also causes intense reflection, raising air temperatures just above the
 snow by day. At night, radiation from snow causes an extremely cold
@@ -121,7 +121,7 @@ The designer can exploit altitude and valley effects to:
 
 - [[mollison-frost-protection-and-thermal-belt-design]] for cold air
   drainage management.
-- [[mollison-permaculture-high-islands]] for high island design.
+- mollison-permaculture-high-islands for high island design.
 - [[mollison-climate-zones-permaculture-strategies]] for climate-based
   strategies.
 
@@ -137,3 +137,5 @@ The designer can exploit altitude and valley effects to:
 5. Snow cover both insulates and creates extreme cold at the surface.
 6. A single mountain property can support an extraordinary range of
   species across its altitude gradient.
+## See Also
+- [[mollison-designers-climate-classification-and-design-zones]]

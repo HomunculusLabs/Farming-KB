@@ -1,5 +1,5 @@
 ---
-title: Fungal Exopolysaccharides, Biofilm, and Soil Aggregation
+title: singh fungal exopolysaccharides biofilm soil aggregation, Biofilm, and Soil Aggregation
 created: 2026-04-28
 tags: [exopolysaccharides, soil-aggregation, glomalin, biofilm]
 date: 2026-04-25
@@ -15,7 +15,7 @@ Fungal exopolysaccharides (EPS) and related extracellular polymeric substances
 play critical roles in soil structure formation, water retention, and
 ecosystem stability. Singh's treatment of this topic within the mycoremediation
 context emphasizes that fungal contributions to soil physical properties are
-at least as important as their well-documented roles in nutrient cycling and
+at least as important as their well-documented [[dighton-fungal-roles-in-nutrient-cycling]] cycling and
 pollutant degradation, with fungal EPS serving as biological glue that binds
 soil particles into stable aggregates essential for productive soil function.
 
@@ -69,13 +69,13 @@ water and wind erosion:
 - [[mycorrhizal-networks]] stabilize steep slopes and riverbanks by
   reinforcing soil structure at depth, reducing the risk of mass
   wasting and bank collapse
-- The erosion control function of fungal EPS is particularly important
+- The [[permplant-willows-salix-erosion-control-fodder]] function of fungal EPS is particularly important
   in disturbed ecosystems including post-mining landscapes, construction
   sites, and degraded agricultural lands
 
 ## Biofilm Formation in Soil Environments
 
-Fungal biofilms in soil consist of structured communities of fungal
+[[gadd-fungal-biofilms-quorum-sensing]] in soil consist of structured communities of fungal
 hyphae embedded in self-produced EPS matrices, often in association with
 bacterial partners:
 

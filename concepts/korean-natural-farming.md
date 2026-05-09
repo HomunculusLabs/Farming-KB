@@ -1,5 +1,5 @@
 ---
-title: Korean Natural Farming
+title: Korean comparison-natural-farming-vs-permaculture
 created: 2026-04-28
 tags: [knf, natural-farming, korean-agriculture, cho-han-kyu]
 date: 2026-04-25
@@ -30,7 +30,7 @@ a system that promotes respect and care for the environment
 while producing more with less cost and labor.
 
 The core philosophy of KNF is to maximize the inborn
-potential of living organisms and their harmony with the
+potential of [[savory-living-organisms-as-tools]] and their harmony with the
 environment by not interfering with their natural growth
 and development. Rather than forcing crops to yield more
 than they can naturally, KNF practitioners believe that
@@ -48,16 +48,16 @@ stages.
 
 The three main growth stages are:
 
-1. **Vegetative Growth Stage**: Plants develop roots and
+1. **[[cannabis-vegetative-growth-stage]] Stage**: Plants develop roots and
    shoots, consuming carbohydrates and converting them to
    nitrogen. This is the primary growth requirement.
 
-2. **Cross-Over Period (Morning Sickness)**: As plants
+2. **Cross-Over Period ([[cho-morning-sickness-and-plant-cross-over-period]])**: As plants
    begin flowering for reproduction, they need "sour
    nutrients" in the form of phosphoric compounds,
    analogous to pregnant women craving sour foods.
 
-3. **Reproductive Growth Stage**: From flowering to fruit
+3. **[[knf-reproductive-growth-stage]] Stage**: From flowering to fruit
    ripening, plants store carbohydrates in fruits and
    storage organs. Potassium is needed for proper color
    development.
@@ -76,7 +76,7 @@ KNF uses a range of homemade biological inputs:
 ## Nature's Tillers
 
 KNF avoids mechanical tillage, instead relying on "Nature's
-Tillers" including aerobic and anaerobic bacteria, fungi,
+Tillers" including [[query-what-is-the-difference-between-aerobic-and-anaerobic-composting]] bacteria, fungi,
 mole crickets, earthworms, and moles to maintain soil
 structure. Grass mulching serves as a remedy for weeds,
 and brown rice vinegar can help dwarf unwanted vegetation.

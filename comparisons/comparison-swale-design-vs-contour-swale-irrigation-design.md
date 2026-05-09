@@ -1,10 +1,11 @@
 ---
-title: "Swale Design vs Contour Swale Irrigation Design"
+title: "comparison swale design vs contour swale irrigation design vs Contour contour-swale-irrigation-design Design"
 created: 2026-04-28
 tags: [comparison, earthworks, water-harvesting, swales, irrigation]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -23,13 +24,13 @@ application focus.
 
 Contour swale irrigation design takes the basic swale concept and applies it specifically to
 irrigation purposes, with detailed engineering for water distribution systems. This includes
-designing swale networks for orchard irrigation, where swales feed water to fruit trees through
+designing swale networks for orchard irrigation, where swales feed water to [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] through
 gravity flow, and urban stormwater systems where swales capture and filter runoff from impervious
 surfaces. The emphasis is on reliable, engineered water delivery rather than broad landscape
 hydration.
 
 One notable technique in this approach is the use of reverse siphons, which allow water to flow
-uphill across small valleys or depressions in the contour line using sealed pipes. This
+uphill across small valleys or depressions in the [[comparison-swale-vs-contour-line-water-management]] using sealed pipes. This
 engineering solution ensures that a contour swale network can maintain continuous water
 distribution even on irregular terrain. Other elements include overflow spillways, sediment traps,
 and inlet structures that control the flow rate and prevent the swale from being overwhelmed
@@ -64,7 +65,7 @@ which focuses more on initial construction and broad hydrological function.
 ## When to Choose Swale Design
 The general swale design approach is ideal when you are working on a rural or semi-rural property
 and want to broadly improve water retention across a landscape. If your goal is to drought-proof a
-farm, restore degraded pasture, or create a productive permaculture property, the basic swale
+farm, restore degraded pasture, or create a productive [[query-how-do-i-start-designing-a-permaculture-property-from-scratch]], the basic swale
 design framework gives you everything you need. It is accessible to landowners who want to do the
 work themselves with a laser level, a digger, and basic understanding of contour.
 
@@ -88,7 +89,7 @@ professionally installed. It is the right approach for projects that need to be 
 and compliant with local water management regulations.
 
 ## Hybrid Approaches
-Many land managers combine both approaches, starting with general swale design principles for the
+Many land managers combine both approaches, starting with general swale [[holmgren-permaculture-twelve-design-principles-framework]] for the
 broad landscape layout and then adding engineered irrigation elements where precise water delivery
 is needed. A common pattern is to install a network of basic contour swales across a property for
 overall rehydration, then design specific swale segments with overflow structures and siphons to

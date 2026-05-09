@@ -1,5 +1,5 @@
 ---
-title: "Magic Mushroom Prohibition and Scheduling History"
+title: "Magic magic-mushroom-prohibition-and-uk-drug-policy and Scheduling History"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -14,7 +14,7 @@ sources:
 
 updated: 2026-04-24
 
-The legal status of magic mushrooms has shifted dramatically from
+The legal status of [[guzman-magic-mushrooms-african-species]] has shifted dramatically from
 relative obscurity to strict prohibition over the past half century.
 The scheduling of psilocybin and psilocin as controlled substances was
 driven not by any evidence of widespread harm but by their structural
@@ -45,7 +45,7 @@ fresh mushrooms.
 Psilocybin and psilocin had been classified as controlled substances
 under Federal Law in 1970. The Comprehensive Drug Abuse Prevention and
 Control Act (Public Law 91-513) made the unauthorised possession, sale
-or use of a psilocybin mushroom a crime punishable by fine or
+or use of a [[emcdda-psilocybin-mushroom-dose-and-effects]] a crime punishable by fine or
 imprisonment. Possession of LSD was made a federal crime in 1966, and
 overnight many hundreds of research projects across the States were
 shut down. Thereafter, research into the effects of psychedelics became
@@ -82,7 +82,7 @@ The Dutch took a more pragmatic approach. Their government acted to
 separate "drugs with acceptable risks" from "drugs with unacceptable
 risks," both in law and in the marketplace. In the early 1990s,
 enterprising enthusiasts spotted a loophole in the law and hit upon the
-novel idea of growing mushrooms commercially. Following the 1971 UN
+novel idea of [[falconer-growing-mushrooms-in-sheds]] commercially. Following the 1971 UN
 Convention on Psychotropic Substances, the Dutch Opium Act only listed
 psilocybin and psilocin, and not the mushrooms themselves. Smart shops
 selling fresh mushrooms proliferated throughout Amsterdam.
@@ -93,7 +93,7 @@ Given that, by any measure, prohibition has been an abject failure at
 preventing the escalation of drug use -- the illegal drugs market alone
 is worth billions annually -- perhaps the time has come for a more sober
 and rational debate. Prohibition may prove to be a retrograde step for
-harm reduction. The likelihood of novices picking the wrong mushrooms,
+[[adverse-effects-and-harm-reduction-psilocybin]]. The likelihood of novices picking the wrong mushrooms,
 or of spurious mushrooms finding their way onto the market, will
 undoubtedly be increased, while a whole section of society faces legal
 consequences that far outstrip any health risks.
@@ -104,7 +104,7 @@ consequences that far outstrip any health risks.
 
 ## Source
 
-Letcher, Andy. Shroom: A Cultural History of the Magic Mushroom.
+Letcher, Andy. Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the Magic Mushroom.
 HarperCollins, 2006. Lines 1250-1270, 9800-10000, 12100-12350.
 
 ## See Also

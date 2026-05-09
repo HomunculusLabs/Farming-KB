@@ -1,5 +1,5 @@
 ---
-title: JADAM Crop Rotation Critique
+title: JADAM comparison-crop-rotation-vs-cover-cropping Critique
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -44,13 +44,13 @@ What humans do:
 Rotational cultivation is offered as a panacea but misses the point entirely:
 - It is not easy to change what you have been growing (especially perennials)
 - It only addresses the symptom (nutrient depletion), not the cause (residue removal)
-- It forces farmers to learn multiple crop management systems
+- It forces farmers to learn multiple [[mushroom-crop-management-flush-harvesting]] systems
 - It reduces specialization and efficiency
 - It was created specifically to compensate for the error of removing crop residues
 
 ## Disease Fears Are Overblown
 
-Experts teach that crop residues should be completely destroyed because they are a source of canker, powdery mildew, and other diseases. JADAM's response:
+Experts teach that crop residues should be completely destroyed because they are a source of canker, [[cervantes-powdery-mildew-prevention-treatment]], and other diseases. JADAM's response:
 
 These organisms are so common that it is impossible to get rid of them by burning crop residues. They are everywhere in the soil. One spore can propagate into 1 billion in 10 hours. Clearly, such diseases cannot be prevented by eliminating crop residues.
 
@@ -66,13 +66,13 @@ The principle: "Change from disinfection to diversity."
 
 ## The Solution
 
-Return crop residues to the soil. Crop residue is the substance with the best nutritional balance for the crop. It contains exactly what the crop needs because it IS the crop.
+Return crop residues to the soil. Crop residue is the substance with the best [[jadam-nutritional-balance-fertilizer]] for the crop. It contains exactly what the crop needs because it IS the crop.
 
 If someone says you should not give crop residues to your crops but throw them away and buy fertilizer to provide the best nutritional balance -- who does that benefit?
 
 ## JADAM's Stance
 
-JADAM supports organic farming but NOT crop rotation. It is neither appropriate nor necessary. True natural farming thrives even with repeated cultivation of a single variety, as evidenced by numerous case studies on the JADAM website.
+JADAM supports [[coleman-deep-organic-farming-philosophy]] but NOT crop rotation. It is neither appropriate nor necessary. True [[comparison-natural-farming-vs-permaculture]] thrives even with repeated cultivation of a single variety, as evidenced by numerous case studies on the JADAM website.
 
 ## See Also
 

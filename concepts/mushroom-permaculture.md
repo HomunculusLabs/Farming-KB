@@ -59,7 +59,7 @@ soil building, King Stropharia has demonstrated the ability to reduce
 populations of root-knot nematodes (Meloidogyne spp.), beneficial
 pest control that protects nearby vegetable crops.
 
-King Stropharia is one of the few gourmet mushroom species that is
+King Stropharia is one of the few [[growing-gourmet-mushroom-dehydration-methods-equipment]] species that is
 absolutely dependent upon casing soils (a layer of peat-based
 topsoil) for fruitbody formation. In outdoor settings, the natural
 soil contact provides the necessary microbial stimulation. The
@@ -78,7 +78,7 @@ suitable:
   substrate for multi-year fruiting.
 - **Salix** (Willow): Fast-growing and readily colonized by Oyster
   mushrooms. Willow chips and logs decompose quickly.
-- **Alnus** (Alder): Preferred base wood for supplemented sawdust
+- **Alnus** (Alder): Preferred base wood for [[oyster-mushroom-supplemented-sawdust-blocks]]
   formulations. Fast-decomposing hardwood ideal for Shiitake.
 - **Betula** (Birch): Good substrate for many gourmet species. Birch
   logs and chips are readily decomposed.
@@ -98,7 +98,7 @@ a routine management activity into a food production opportunity.
 
 The concept of species sequencing extends the permaculture model by
 running multiple mushroom species through the same substrate in
-succession. After Shiitake mushrooms finish fruiting on supplemented
+succession. After [[query-how-to-grow-shiitake-mushrooms-on-logs]] finish fruiting on supplemented
 sawdust blocks, the spent substrate can be broken apart, re-
 sterilized, and inoculated with Oyster mushrooms. After the Oyster
 crop, King Stropharia or Shaggy Manes can be grown on the further
@@ -119,14 +119,14 @@ are often better than those achieved indoors. One Natural Culture bed
 has supported a succession of three species: Morels in the spring,
 King Stropharia in the summer, and an assortment of Hypholoma and
 allied species in the fall. This approach could be called the Zen of
-mushroom growing, where nature is used as an ally and the implanted
+[[duggar-mushroom-growing-history-and-methods]], where nature is used as an ally and the implanted
 mycelium draws additional nutrients from the surrounding habitat.
 
 ## Broader Implications
 
 These courses of decomposition occur daily in forest ecosystems. The
 permaculture model is especially relevant for those in desert, island,
-or other environments where substrate materials for wood decomposers
+or other environments where [[growing-gourmet-substrate-materials-wood-types]] for wood decomposers
 are costly and hard to acquire. By understanding the nuances within
 the mycosphere, complex biospheres can be created wherein fungi play
 determinant roles in supporting other life cycles. Mushrooms could
@@ -136,6 +136,9 @@ converted into usable products with maximum efficiency.
 
 ## See Also
 
-- [[agricultural-waste-substrates]] for substrate preparation
+- [[agricultural-waste-substrates]] for [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]
 - [[mushroom-casing-layers]] for King Stropharia casing requirements
-- [[mushroom-harvesting-storage-methods]] for post-harvest handling
+- mushroom-harvesting-storage-methods for post-harvest handling
+- [[decomposition]]
+- [[building-soil]]
+- [[permaculture-design]]

@@ -10,7 +10,7 @@ sources:
 
 # Cannabis and Neuroprotection Research
 
-**Source:** Uwe Blesching, The Cannabis Health Index (2017)
+**Source:** Uwe Blesching, The [[blesching-cannabis-health-index-autoimmune-conditions]] (2017)
 
 ## Overview
 
@@ -24,7 +24,7 @@ CB1 receptor sites are especially prominent in brain areas related to motor cont
 
 - **2009 Rome (laboratory):** Endocannabinoids confirmed neuroprotective via JWH-015
 
-- **2010 Barcelona (mice):** THC protects against MDMA neurotoxicity -- produces hypothermic, anti-inflammatory, antioxidant effects (opposite of MDMA's hyperthermia, oxidative stress, neuronal damage)
+- **2010 Barcelona (mice):** THC protects against MDMA neurotoxicity -- produces hypothermic, anti-inflammatory, antioxidant effects (opposite of MDMA's hyperthermia, [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], neuronal damage)
 
 ## Study Summary
 
@@ -42,7 +42,7 @@ William L. Courtney, MD, considers raw cannabis a dietary essential providing po
 
 ## Companion Foods
 
-- **Garlic:** Aged garlic extract may prevent Alzheimer's progression (rodent studies)
+- **Garlic:** Aged [[ginger-garlic-extract-bionutrient]] may prevent Alzheimer's progression (rodent studies)
 
 - **Rosemary:** Potent antiglycative bioactivity; adjuvant for diabetic, cardiovascular, neurodegenerative diseases
 
@@ -68,13 +68,13 @@ The neuroprotective properties of cannabinoids are supported by a growing body o
 
 - **US Patent 6,630,507 (2003):** The US Department of Health and Human Services patented cannabinoids as neuroprotectants, specifically citing efficacy in limiting neurological damage following ischemic insults (stroke and trauma) and treating neurodegenerative diseases including Alzheimer's and Parkinson's. This patent represents an official government acknowledgment of cannabinoid neuroprotection.
 
-- **Stroke models:** Multiple animal studies have demonstrated that both THC and CBD reduce infarct volume and improve neurological outcomes when administered after stroke onset. The therapeutic window extends to several hours post-event.
+- **Stroke models:** Multiple animal studies have demonstrated that both THC and CBD reduce infarct volume and improve neurological outcomes when administered after stroke onset. The [[blesching-cannabis-therapeutic-window-dosing]] extends to several hours post-event.
 
 - **MDMA neuroprotection (2010, Barcelona):** THC demonstrated protection against MDMA-induced neurotoxicity in mice through three complementary mechanisms: hypothermia induction (counteracting MDMA-induced hyperthermia), anti-inflammatory action, and direct antioxidant effects.
 
 - **Alcohol neurotoxicity (2005, Bethesda):** CBD protected rat neurons from alcohol-induced toxicity in a dose-dependent manner, suggesting potential applications in alcohol-related brain damage and fetal alcohol spectrum disorders.
 
-- **Dose-dependent response:** The CBD study confirmed a clear dose-response relationship, with higher doses providing greater neuroprotection, which is valuable for establishing clinical dosing guidelines.
+- **Dose-dependent response:** The CBD study confirmed a clear dose-response relationship, with higher doses providing greater neuroprotection, which is valuable for establishing clinical [[cannabis-dosing-guidelines-by-condition]].
 
 ## Dosing Considerations
 
@@ -84,7 +84,7 @@ The neuroprotective properties of cannabinoids are supported by a growing body o
 
 - **THC for acute neuroprotection:** For acute events (stroke, TBI), higher doses of THC (10-20 mg) may be warranted in the immediate aftermath, though this requires medical supervision.
 
-- **Full-spectrum advantage:** Whole-plant cannabis preparations containing THC, CBD, CBC, CBG, and terpenes provide synergistic neuroprotection through the entourage effect, targeting multiple protective pathways simultaneously.
+- **Full-spectrum advantage:** Whole-plant cannabis preparations containing THC, CBD, CBC, CBG, and terpenes provide synergistic neuroprotection through the [[cannabis-terpene-entourage-effect-profiles]], targeting multiple protective pathways simultaneously.
 
 - **Preventive vs. acute use:** Raw dietary cannabis may serve as a daily preventive measure, while isolated cannabinoids or full-spectrum extracts may be more appropriate for acute neuroprotective intervention.
 

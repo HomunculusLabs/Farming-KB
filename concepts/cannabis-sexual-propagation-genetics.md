@@ -1,5 +1,5 @@
 ---
-title: Cannabis Sexual Propagation and Genetics
+title: Cannabis cannabis sexual propagation genetics and Genetics
 created: 2026-04-28
 tags: [cannabis, propagation, genetics, breeding, plant-biology]
 date: 2026-04-25
@@ -55,7 +55,7 @@ If the genes on one chromosome differ from the genes on its homologous
 chromosome, the plant is termed heterozygous. The resultant offspring
 may not possess parental traits and will most probably differ from each
 other. This genetic variation is the raw material upon which
-selection acts in a breeding program.
+selection acts in a [[cervantes-breeding-program-design-goal-setting]].
 
 ## Controlled Pollination Techniques
 
@@ -80,7 +80,7 @@ Pollination begins with dehiscence (release of pollen) from staminate
 flowers. Millions of pollen grains float through the air on light
 breezes, many landing on stigmatic surfaces of nearby pistillate
 plants. Just prior to dehiscence, the pollen nucleus divides to produce
-a small reproductive cell and a large vegetative cell, both contained
+a small reproductive cell and a large [[spore-vs-vegetative-cell-resistance-microwave-sterilization]], both contained
 within the mature pollen grain. Germination occurs 15 to 20 minutes
 after contact with a pistil.
 
@@ -127,5 +127,5 @@ with the same rigor applied to pistillate selections.
   expression
 - [[cannabis-plant-anatomy]] for morphological features used in
   selection
-- cannabis cannabinoid biosynthesis for the biochemical traits
+- cannabis [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]] for the biochemical traits
   targeted in breeding programs

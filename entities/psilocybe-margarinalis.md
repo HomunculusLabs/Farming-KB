@@ -11,9 +11,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Guzmán, G. (2005). "Species Diversity of the Genus Psilocybe (Basidiomycotina, Agaricales, Strophariaceae) in the World Mycobiota, with Special Attention to Hallucinogenic Properties." International Journal of Medicinal Mushrooms, 7(4), 305-316.
+  - Guzmán, G. (2005). "Species Diversity of the Genus Psilocybe (Basidiomycotina, Agaricales, Strophariaceae) in the World Mycobiota, with Special Attention to Hallucinogenic Properties." International Journal of comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive, 7(4), 305-316.
   - Guzmán, G., Tapia, F. & Gándara, D. (2004). "A new bluing species of Psilocybe section Stropharia from Spain." Mycotaxon, 89, 177-180.
-  - Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press.
+  - Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press.
   - Borovička, J., Noordeloos, M.E. & Gryndler, M. (2015). "Molecular phylogeny of Psilocybe sensu lato." Mycologia, 107(6), 1274-1286.
 ---
 
@@ -25,7 +25,7 @@ sources:
 family Hymenogastraceae (formerly Strophariaceae).
 
 It was first described from Spain and is one of the lesser-known members of
-the genus that produces psilocybin and psilocin as primary bioactive compounds.
+the genus that produces psilocybin and psilocin as primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
 
 The species epithet "margaritalis" references the pearly or pearl-like appearance
 of its cap surface, particularly when moist.
@@ -93,7 +93,7 @@ effort and its resemblance to other small, brown *Psilocybe* species.
 
 The species is confirmed to contain **psilocybin** and **psilocin** based on
 Guzmán's taxonomic placement within the bluing *Psilocybe* clade and
-chemical analysis of related taxa.
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of related taxa.
 
 Quantitative analysis specific to *P. margaritalis* has not been published,
 but related section *Stropharia* species typically contain 0.2–1.0% total
@@ -109,7 +109,7 @@ No additional bioactive alkaloids have been specifically reported for this speci
 *P. margaritalis* can be confused with several other small, brown, grassland
 *Psilocybe* species, including:
 
-- ***Psilocybe semilanceata*** — the liberty cap, more pronounced papilla,
+- ***[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]*** — the liberty cap, more pronounced papilla,
   tighter association with grass roots.
 - ***Psilocybe hispanica*** — another Iberian species, generally smaller,
   more conic cap.
@@ -126,7 +126,7 @@ size, habitat, and geographic range serve as primary diagnostic characters.
 As a saprotrophic fungus, *P. margaritalis* decomposes organic matter in
 grassland soils, contributing to nutrient cycling in pastoral ecosystems.
 
-Its ecological interactions, including potential mycorrhizal associations,
+Its [[king-stropharia-ecological-interactions-permaculture]], including potential mycorrhizal associations,
 remain unstudied.
 
 ## Significance
@@ -139,6 +139,6 @@ psychoactive fungi in Mediterranean Europe.
 - [[baeocystin]]
 - [[mycorrhiza]]
 
-- [[psilocybe-hispanica]]
+- psilocybe-hispanica
 - [[psilocybe-serbica]]
 - [[psilocybe-azurescens]]

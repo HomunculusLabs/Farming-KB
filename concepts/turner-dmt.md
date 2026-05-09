@@ -1,5 +1,5 @@
 ---
-title: DMT (N,N-Dimethyltryptamine) - The Essential Psychedelics Guide
+title: DMT (N,N-Dimethyltryptamine) - The turner-essential-psychedelics-5-meo-dmt-void-experience Guide
 created: 2026-04-26
 author: D.M. Turner
 sources: The Essential Psychedelics Guide (1994)
@@ -18,7 +18,7 @@ Since DMT takes effect almost immediately, users normally lie down or sit in a r
 
 ## Material
 
-N,N-Dimethyltryptamine and 5-Methoxy-Dimethyltryptamine are naturally occurring psychedelics found in a variety of plants around the world, several native to the Amazon region. These alkaloids are also found in:
+N,N-Dimethyltryptamine and 5-Methoxy-Dimethyltryptamine are naturally occurring psychedelics found in a variety of plants [[fungi-around-the-world-species-distribution]], several native to the Amazon region. These alkaloids are also found in:
 - The **human brain** as neurotransmitters
 - Human **blood, urine, and spinal fluid**
 - The **human pineal gland** (correlated to the "3rd eye" or Ajna Chakra)
@@ -31,10 +31,10 @@ N,N-DMT and 5-MeO-DMT are also manufactured synthetically and sold on the underg
 DMT is not active if taken orally - it must be smoked or snorted for psychoactive effects. To obtain a full-strength experience, the entire dose must be consumed in a short period.
 
 ### Snuff Sources
-Two sources - **Anadenanthera peregrina** and **Virola theiodora** - are made into snuffs known as **Yopo** and **Epena**. Amazon natives use ingenious methods including paired snorting devices where one person blows the DMT snuff into the other's nose.
+Two sources - **[[yopo-anadenanthera-peregrina-snuff]]** and **Virola theiodora** - are made into snuffs known as **Yopo** and **Epena**. Amazon natives use ingenious methods including paired snorting devices where one person blows the DMT snuff into the other's nose.
 
 ### Ayahuasca
-Elsewhere in the Amazon, DMT-containing plants like **Psychotria veridis** are included in brews known as **Ayahuasca** or **Yage**, combined with **Banisteriopsis caapi** (source of Harmala alkaloids). The Harmala alkaloids (MAO inhibitors) intensify the DMT experience and allow it to be active orally. The healers claim that plant spirits tell them which plants to use in their brews.
+Elsewhere in the Amazon, DMT-containing plants like **Psychotria veridis** are included in brews known as **Ayahuasca** or **Yage**, combined with **Banisteriopsis caapi** (source of [[turner-harmala-alkaloids-preparation-and-dosage]]). The Harmala alkaloids (MAO inhibitors) intensify the [[mckenna-dmt-experience-and-hyperspace]] and allow it to be active orally. The healers claim that plant spirits tell them which plants to use in their brews.
 
 ## Dosage and Administration
 
@@ -107,7 +107,7 @@ DMT visuals are best in **diffused sunlight** (unlike mushrooms, which are best 
 
 ## Intelligent Entity Interaction
 
-DMT and psilocybin mushrooms (long-lasting tryptamines) share a unique property: the sense of interacting with an **intelligent entity** vastly superior in knowledge and breadth of consciousness. This entity seems aware of what's transpiring in the user's mind and is able to instruct and tailor the experience personally. This contrasts with LSD or Ketamine, where one typically feels they are interacting with their own mind.
+DMT and [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] (long-lasting tryptamines) share a unique property: the sense of interacting with an **intelligent entity** vastly superior in knowledge and breadth of consciousness. This entity seems aware of what's transpiring in the user's mind and is able to instruct and tailor the experience personally. This contrasts with LSD or Ketamine, where one typically feels they are interacting with their own mind.
 
 ## DMT with Harmala Alkaloids
 

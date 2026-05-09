@@ -1,5 +1,5 @@
 ---
-title: Light Measurement and Meters for Cannabis
+title: cervantes light measurement meters and Meters for Cannabis
 created: 2026-04-28
 tags:
   - cannabis
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -27,7 +28,7 @@ their gardens.
 
 Virtually all light is measured in foot-candles, lux, or lumens.
 Foot-candles and lux measure light visible to the human eye. The human
-eye sees much less of the light spectrum than plants "see." The eye
+eye sees much less of the [[cannabis-light-spectrum-and-color-bands]] than plants "see." The eye
 is most sensitive to light between 525-625 nanometers, while plants
 use a much broader range of wavelengths for photosynthesis.
 

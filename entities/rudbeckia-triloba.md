@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Urbatsch L.E., Cox P.B. (2006). "Rudbeckia." In Flora of North America Editorial Committee (ed.), Flora of North America North of Mexico, Vol. 21. Oxford University Press.
+  - Urbatsch L.E., Cox P.B. (2006). "Rudbeckia." In Flora of psilocybin-north-america-pacific-northwest Editorial Committee (ed.), Flora of North America North of Mexico, Vol. 21. Oxford University Press.
   - Barnes T.G., Swanson S.J. (2004). "Selection of native warm-season grasses for use in riparian zones." Native Plants Journal 5(1): 5–11.
   - USDA NRCS. "Rudbeckia triloba." PLANTS Database.
   - Cullina W. (2000). "The New England Wild Flower Society Guide to Growing and Propagating Wildflowers." Houghton Mifflin.
@@ -25,7 +25,7 @@ sources:
 
 The species is distinguished from the more widely known black-eyed Susan (*Rudbeckia hirta*) by its taller stature, more numerous flower heads per plant, and distinctive three-lobed lower leaves. It typically reaches 0.9–1.5 meters in height and produces dozens of smaller flower heads (2.5–5 cm across) with warm orange-yellow rays and dark brown central cones.
 
-Brown-eyed Susan is a popular subject for native plant gardens, pollinator meadows, and ecological landscaping projects. Its extended bloom period from mid-summer to hard frost provides continuous nectar resources for butterflies, native bees, and other beneficial insects.
+Brown-eyed Susan is a popular subject for native plant gardens, pollinator meadows, and ecological landscaping projects. Its extended bloom period from mid-summer to hard frost provides continuous nectar resources for butterflies, [[query-how-to-attract-native-bees-and-beneficial-insects]], and other [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
 
 Despite being short-lived (individual plants typically persist 2–4 years), *R. triloba* reliably self-seeds and can form persistent colonies in cultivated settings. Its adaptability to a range of soil and light conditions makes it one of the easiest native wildflowers to establish.
 
@@ -47,7 +47,7 @@ The species produces a bushy, multi-branched habit that can spread 60–90 cm in
 
 ## Distribution and Habitat
 
-The species is native to the eastern and central United States, from Massachusetts and New York west to Wisconsin and Minnesota, south to Oklahoma, Texas, and the Gulf Coast states. Isolated populations occur in southern Ontario, Canada.
+The species is native to the eastern and central [[dmt-containing-plants-united-states-halpern]], from Massachusetts and New York west to Wisconsin and Minnesota, south to Oklahoma, Texas, and the Gulf Coast states. Isolated populations occur in southern Ontario, Canada.
 
 It occupies open habitats including woodland edges, savannas, thickets, stream banks, meadows, pastures, and disturbed sites such as roadsides and abandoned fields. It is tolerant of partial shade, a trait that distinguishes it from most other *Rudbeckia* species that require full sun.
 
@@ -55,7 +55,7 @@ It occupies open habitats including woodland edges, savannas, thickets, stream b
 
 The species is widely planted in gardens and restorations across its range and has naturalized in scattered locations outside its native distribution, particularly in the northeastern United States and Pacific Northwest. It is not considered ecologically invasive.
 
-In ecological restoration, *R. triloba* is included in seed mixes for prairie reconstructions, riparian buffer plantings, and roadside beautification projects. Its tolerance of partial shade and compact growth form make it well-suited to understory plantings in open woodlands and savanna restorations.
+In ecological restoration, *R. triloba* is included in seed mixes for prairie reconstructions, riparian buffer plantings, and roadside beautification projects. Its tolerance of partial shade and [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] form make it well-suited to understory plantings in open woodlands and savanna restorations.
 
 ## Ecology and Pollinator Value
 
@@ -67,7 +67,7 @@ Goldfinches, chickadees, and other small seed-eating birds consume the achenes i
 
 In ecological landscaping, *R. triloba* is valued for its ability to naturalize in partially shaded areas where many other prairie forbs fail to persist. It performs well under the dappled shade of open-canopy trees and along woodland edges.
 
-The species has moderate deer resistance due to the rough, hairy foliage, though young growth may be browsed in areas with heavy deer pressure. It is generally free of serious disease problems, though powdery mildew can affect plants in humid, poorly ventilated locations.
+The species has moderate deer resistance due to the rough, hairy foliage, though young growth may be browsed in areas with heavy deer pressure. It is generally free of serious disease problems, though [[cervantes-powdery-mildew-prevention-treatment]] can affect plants in humid, poorly ventilated locations.
 
 ## Cultivation and Ornamental Use
 

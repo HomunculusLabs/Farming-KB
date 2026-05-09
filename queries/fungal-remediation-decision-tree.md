@@ -1,6 +1,6 @@
 ---
 
-title: Fungal Remediation Decision Tree
+title: Fungal fungal remediation decision tree Tree
 created: 2026-04-11
 updated: 2026-04-12
 type: query
@@ -36,10 +36,10 @@ Flowchart-style reference for matching fungal species to contaminant types. Cove
 | Contaminant | Best Fungal Species | Mechanism | Setup | Timeline | Effectiveness | References |
 |-------------|-------------------|-----------|-------|----------|--------------|------------|
 | **Heavy metals** (Pb, Hg, Cd, Cu, Zn) | Aspergillus niger; mycorrhizal fungi | Biosorption via cell wall chitin/glucans; ion exchange, complexation, bioaccumulation in fruiting bodies | Contact with contaminated soil/water; periodic harvest of fruiting bodies (hazardous waste) | Weeks to months | High for Cu/Zn (91%/70%, Price 2001) | [[mycoremediation-basics]], [[mycofiltration-overview]] |
-| **Petroleum hydrocarbons** (diesel, oil, BTEX) | Pleurotus ostreatus; white-rot fungi | Extracellular ligninolytic enzymes (LiP, MnP, laccase); enzymatic breakdown | Layer inoculated straw/wood chips 6-12" deep; cover with cardboard + straw | 8 weeks dramatic reduction | Very high — proven field trials | [[mycoremediation-basics]], [[mycoremediation-techniques]] |
+| **Petroleum hydrocarbons** (diesel, oil, BTEX) | Pleurotus ostreatus; white-rot fungi | Extracellular [[singh-ligninolytic-enzymes-fungal-bioremediation]] (LiP, MnP, laccase); enzymatic breakdown | Layer inoculated straw/wood chips 6-12" deep; cover with cardboard + straw | 8 weeks dramatic reduction | Very high — proven field trials | [[mycoremediation-basics]], [[mycoremediation-techniques]] |
 | **PAHs** | P. chrysosporium; T. versicolor; P. ostreatus; Penicillium, Fusarium, Cunninghamella | Cytochrome P450 + ligninolytic enzymes; oxidative cleavage | Inoculated substrate; fungal-bacterial co-cultures enhance mineralization | Weeks to months | High low-MW; moderate high-MW | [[mycoremediation-basics]] |
-| **PCBs** | Trametes versicolor; Phanerochaete chrysosporium; P. sordida | Lignin peroxidase oxidizes non-phenolic aromatics; oxidative cleavage | Substrate inoculation; nutrient-limited conditions; lab preconditioning recommended | Months; 95% degradation (Zeddel 1993) | Very high | [[mycoremediation-basics]] |
-| **Dioxins** (TCDD) | Phanerochaete sordida; Cordyceps sinensis | Ligninolytic enzymes; novel dioxin pathway (Cordyceps) producing catechol intermediates | Lab-trained strains; lined pits/berms; monitor with GC-MS | Months; ~60% TCDD degradation | Moderate — ongoing research | [[mycoremediation-basics]] |
+| **PCBs** | [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]; [[staycare-phanerochaete-chrysosporium-in-bioremediation]]; P. sordida | Lignin peroxidase oxidizes non-phenolic aromatics; oxidative cleavage | Substrate inoculation; nutrient-limited conditions; lab preconditioning recommended | Months; 95% degradation (Zeddel 1993) | Very high | [[mycoremediation-basics]] |
+| **Dioxins** (TCDD) | [[staycare-phanerochaete-sordida-in-bioremediation]]; Cordyceps sinensis | Ligninolytic enzymes; novel dioxin pathway (Cordyceps) producing catechol intermediates | Lab-trained strains; lined pits/berms; monitor with GC-MS | Months; ~60% TCDD degradation | Moderate — ongoing research | [[mycoremediation-basics]] |
 | **Pesticides/herbicides** | White-rot fungi; Stropharia rugoso-annulata | Extracellular nonspecific ligninolytic enzymes degrade organophosphates, organochlorines, carbamates | Mycelial mats on runoff pathways; straw bale mycofilters in drainage | Weeks to months | High — nonspecific enzymes | [[mycoremediation-basics]], [[mycofiltration-overview]] |
 | **Pathogens** (E. coli, coliforms) | Stropharia rugoso-annulata; P. ostreatus | Antibacterial secretions; competitive displacement (Pseudomonas → Bacillus subtilis) | Mycofilter downslope; layered: gravel → sawdust → spawn → corncobs → straw | Immediate coliform die-off | Very high — millions → undetectable | [[mycofiltration-overview]] |
 | **Dyes** (azo, anthraquinone) | Trametes versicolor; P. ostreatus; Coriolus versicolor | Laccase oxidizes phenolic dye structures; mediators (ABTS, HBT) extend range | Inoculated substrate in water treatment pathways | Days to weeks (reactors) | High — widely studied | [[mycoremediation-basics]] |
@@ -65,7 +65,7 @@ Flowchart-style reference for matching fungal species to contaminant types. Cove
 | Enzyme | Produced By | Degrades | Key Requirement |
 |--------|------------|----------|-----------------|
 | **Lignin Peroxidase (LiP)** | P. chrysosporium, T. versicolor, B. adusta | Non-phenolic aromatics, PCBs, dioxins | Nutrient-limited (N, C) conditions |
-| **Manganese Peroxidase (MnP)** | White-rot fungi broadly | PAHs, lignin | Mn(II) and H2O2 required |
+| **[[fungal-manganese-peroxidase-remediation]] (MnP)** | White-rot fungi broadly | PAHs, lignin | Mn(II) and H2O2 required |
 | **Laccase** | T. versicolor, P. ostreatus, C. versicolor | Phenols, chlorophenols, PAHs, dyes | Uses O2 (not H2O2); mediators extend range |
 
 ## Spawn Types for Remediation
@@ -103,6 +103,8 @@ Key rules: surface area should be several times the contamination source; water 
 - Source wood from sawmills, NOT roadsides — automobile exhaust contaminates wood with lead/aluminum
 
 ## See Also
+
+- [[cost-effectiveness-fungal-remediation]]
 
 - [[mycoremediation-basics]] — science, principles, key enzyme systems
 - [[mycoremediation-techniques]] — spawn types, mycelial mat construction, site strategies

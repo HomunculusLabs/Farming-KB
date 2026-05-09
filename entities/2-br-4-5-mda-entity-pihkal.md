@@ -1,5 +1,5 @@
 ---
-title: "2-Br-4,5-MDA (2-Bromo-4,5-methylenedioxy-A) -- PIHKAL Entry #19"
+title: "2-Br-4,5-MDA (2-Bromo-4,5-methylenedioxy-A) -- 2c-b-pihkal-entry-20 #19"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -37,7 +37,7 @@ theory. The mp was 221-222 deg C. Anal. (C10H13Br2NO2) C,H,Br.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## Practical Context
 
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

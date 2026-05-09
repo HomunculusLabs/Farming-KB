@@ -1,5 +1,5 @@
 ---
-title: "F-22 -- 6-(2-AMINOPROPYL)-2,2-DIMETHYL-5-METHOXY-2,3-DIHYDROBENZOFURAN -- PIHKAL Entry #80"
+title: "F-22 -- 6-(2-AMINOPROPYL)-2,2-DIMETHYL-5-METHOXY-2,3-DIHYDROBENZOFURAN -- 2c-b-pihkal-entry-20 #80"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -20,7 +20,7 @@ And, as it turned out, the entire project pretty much ran out of steam. A number
 
 And a start towards F-23, 6-(2-aminopropyl)-2,3-dimethyl-5-methoxy-2,3-dihydrobenzofuran, got just as far as the starting ether, when it occurred to me that the final product would have an unprecedented three chiral centers, and so a total of four racemic pairs of diastereoisomers. And then I discovered that the starting allyl halide, crotyl chloride, was only 80% pure, with the remaining 20% being 3-chloro-1-butene. This would have eventually produced a 2-ethyl-analogue, 6-(2-aminopropyl)-2-ethyl-5-methoxy-2,3-dihydrobenzofuran, with its two chiral centers and two more pairs of stereoisomers (not to speak
 
-of the need to devise an entirely new coding system). Unless something were to fall into my lap as a crystalline intermediate, the final mess could have had at least six discreet compounds in it, not even considering [[palmer-about-mushrooms-foraging-basics-and-safety]] profiles are based on limited self-experimentation. Exercise
+of the need to devise an entirely new coding system). Unless something were to fall into my lap as a crystalline intermediate, the final mess could have had at least six discreet compounds in it, not even considering palmer-about-mushrooms-foraging-basics-and-safety profiles are based on limited self-experimentation. Exercise
 extreme caution. This compound is not approved for human consumption.
 
 ## See Also
@@ -32,7 +32,7 @@ extreme caution. This compound is not approved for human consumption.
 - Related benzofuran compounds
 ## Practical Applications
 
-F-22 -- 6-(2-AMINOPROPYL)-2,2-DIMETHYL-5-METHOXY-2,3-DIHYDROBENZOFURAN -- PIHKAL Entry #80 has a range of practical applications that make it relevant to
+F-22 -- 6-(2-AMINOPROPYL)-2,2-DIMETHYL-5-METHOXY-2,3-DIHYDROBENZOFURAN -- [[2c-b-pihkal-entry-20]] #80 has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -47,7 +47,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -97,7 +97,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -107,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

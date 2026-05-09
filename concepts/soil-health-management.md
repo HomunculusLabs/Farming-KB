@@ -34,7 +34,7 @@ clay; lay boards down first if you must cross it.
 binding tiny clay particles into larger crumbs. Dig in one
 to two bucketfuls of coarse sand per square yard/meter.
 
-**Organic matter:** Adding bulky organic matter holds clay
+**[[hamilton-composting-and-organic-matter-management]]:** Adding bulky organic matter holds clay
 particles apart. After a few years, every plant you grow
 improves the soil for the next generation.
 
@@ -93,13 +93,13 @@ grossly deficient in essential elements.
 Return all organic material to the soil as compost.
 Supplement with manure or purchased soil conditioners. Dig
 organic matter in during fall and spread as mulch in the
-growing season. This increases water-holding capacity of
+[[savory-growing-season-and-non-growing-season-management]]. This increases water-holding capacity of
 light soils and opens heavy soils.
 
 ### Phase 3: General Fertilizer
 If manure and compost are insufficient, use concentrated
-organic fertilizers such as blood, fish, and bone meal or
-pelleted chicken manure. Application rates vary by soil and
+[[hamilton-organic-fertilizers-and-plant-nutrition]] such as blood, fish, and bone meal or
+pelleted chicken manure. [[ingham-compost-tea-application-rates-and-timing]] vary by soil and
 crop type.
 
 ### Phase 4: Specific Fertilizers

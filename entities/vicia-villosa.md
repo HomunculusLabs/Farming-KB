@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-Hairy vetch is an annual or winter-annual legume in the family Fabaceae, native to Europe and western Asia. It is one of the most widely used [[permaculture-design]], hairy vetch serves as a foundational nitrogen-fixing ground cover in and food forests, orchard understories, and annual crop rotations.
+Hairy vetch is an annual or winter-annual legume in the family Fabaceae, native to Europe and western Asia. It is one of the most widely used [[permaculture-design]], hairy vetch serves as a foundational nitrogen-fixing [[fukuoka-citrus-orchard-ground-cover-cultivation]] in and food forests, orchard understories, and annual crop rotations.
 
 ## Botanical Description
 
@@ -26,7 +26,7 @@ Hairy vetch is a climbing, trailing vine that grows 60–150 cm long, using tend
 
 ## Nitrogen Fixation
 
-Hairy vetch is among the most productive nitrogen-fixing cover crops in temperate climates:
+Hairy vetch is among the most productive nitrogen-fixing [[gaias-garden-cover-crops-soil-building]] in temperate climates:
 
 - Fixes **80–250 kg N/ha/year**, depending on growing conditions and duration
 - Forms effective symbiosis with a broad range of *Rhizobium leguminosarum* biovar *viciae* strains
@@ -37,15 +37,15 @@ Hairy vetch is among the most productive nitrogen-fixing cover crops in temperat
 
 - **Winter cover crop:** Sown in late summer/autumn, it establishes in autumn, overwinters (hardy to -20°C), and produces explosive spring growth
 - **No-till mulch:** When rolled/crimped at flowering, forms a thick weed-suppressing mat into which crops can be direct-seeded
-- **Orchard understory:** Grown beneath comparison pruning fruit as a nitrogen source and weed suppressor; climbing habit can be managed by mowing
+- **Orchard understory:** Grown beneath comparison [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] as a nitrogen source and weed suppressor; climbing habit can be managed by mowing
 - **Companion crop:** Often mixed with cereal rye (*Secale cereale*) for complementary benefits — rye provides rapid fall growth and weed suppression, vetch adds nitrogen and extends the nitrogen release curve
-- **and erosion control:** Dense fall/winter canopy protects soil from rain and wind erosion
+- **and [[permplant-willows-salix-erosion-control-fodder]]:** Dense fall/winter canopy protects soil from rain and wind erosion
 - **Forage:** High-protein forage for livestock when grazed or cut for hay (contains 20–28% crude protein at flowering)
 - **Bee forage:** Prolific spring blooms provide nectar and pollen for early-season pollinators
 
 ## Cultivation
 
-Hairy vetch is typically drilled at 15–30 kg/ha or broadcast at 25–35 kg/ha in late summer to early autumn (August–September in most temperate zones). Seed requires inoculation with appropriate rhizobium strains. Germination occurs in 7–14 days. The plant is slow to establish in autumn but produces rapid vegetative growth in spring once temperatures exceed 10°C. For maximum nitrogen contribution, terminate at early to mid-flowering (typically May–June). Hard seed (dormancy) can produce volunteer plants in subsequent seasons.
+Hairy vetch is typically drilled at 15–30 kg/ha or broadcast at 25–35 kg/ha in late summer to early autumn (August–September in most temperate zones). Seed requires inoculation with appropriate rhizobium strains. Germination occurs in 7–14 days. The plant is slow to establish in autumn but produces rapid [[cannabis-vegetative-growth-stage]] in spring once temperatures exceed 10°C. For maximum nitrogen contribution, terminate at early to mid-flowering (typically May–June). Hard seed (dormancy) can produce volunteer plants in subsequent seasons.
 
 ## Soil Preferences
 
@@ -54,10 +54,11 @@ Adapts to a wide range of soil types including sandy, loamy, and clay soils. Tol
 ## Ecological Interactions
 
 - Excellent spring nectar source for bumblebees and other long-tongued pollinators
-- Provides nesting habitat and cover for ground-dwelling beneficial insects
+- Provides nesting habitat and cover for ground-dwelling [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - Dense residue mat created by rolled/crimped vetch supports soil microbiome diversity
 - Can harbor beneficial [[cover-crop-selection-guide]]
 - [[green-manure-crops]]
+
 ## Practical Considerations
 
 Successful implementation of Vicia villosa requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

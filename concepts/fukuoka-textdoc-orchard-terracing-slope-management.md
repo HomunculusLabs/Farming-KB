@@ -1,5 +1,5 @@
 ---
-title: Orchard Terracing and Slope Management in Natural Farming
+title: fukuoka textdoc orchard terracing slope management and Slope Management in comparison-natural-farming-vs-permaculture
 created: 2026-04-28
 tags:
   - fukuoka
@@ -24,11 +24,11 @@ When Fukuoka planted his orchard, he dug large holes among the stumps of
 felled trees and planted unpruned saplings and fruit seed over the site,
 leaving these unattended much as one would leave alone a reforested stand
 of trees. Suckers grew from the cut tree stumps and weeds and low brush
-flourished abundantly. During this early period, orchard management consisted
+flourished abundantly. During this early period, [[fukuoka-orchard-management-detailed]] consisted
 primarily of coming in twice a year to cut the weeds and underbrush with a
 large sickle. There was no attempt to create orderly rows, control specific
 weed species, or establish ground [[natural-orchard-management]] Without Pruning
-- Natural Orchard Ground Cover Cultivation
+- [[fukuoka-natural-orchard-development]] [[fukuoka-ground-cover-strategy]] Cultivation
 
 ## See Also
 
@@ -111,4 +111,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

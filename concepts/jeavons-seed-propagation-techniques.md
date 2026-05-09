@@ -1,5 +1,5 @@
 ---
-title: Seed Propagation Techniques in GROW BIOINTENSIVE
+title: jeavons seed propagation techniques Techniques in jeavons-grow-biointensive-method-overview
 created: 2026-04-28
 tags: [biointensive, seed-propagation, seed-starting, flats, jeavons]
 date: 2026-04-28
@@ -29,7 +29,7 @@ Whether planted in beds or flats, seeds should be placed in a
 diagonally offset or hexagonal spacing pattern with equal distance
 between each seed. The Master Charts specify spacings for each crop.
 When plants are mature, their leaves should barely touch—forming a
-living mulch that retards weed growth, retains soil moisture, and
+[[comparison-living-mulch-vs-cover-crops]] that retards weed growth, retains soil moisture, and
 creates the miniclimate essential to balanced, uninterrupted growth.
 In flats, space seeds 1-2 inches apart depending on seedling size
 at [[jeavons-pricking-out-seedlings]] later
@@ -57,7 +57,7 @@ leaf canopy where plants need it most.
 ## Flat Soil Mix
 
 A good simple flat soil mix is one part sifted [[jeavons-shade-netting-mini-greenhouses]] in cold weather
-- Cold frame for 2 days when seedlings approach transplanting
+- [[comparison-cold-frame-gardening-vs-container-gardening-guide]] for 2 days when seedlings approach transplanting
   size (part of hardening off)
 - Open air for 2 more days to complete hardening
 - Open during warm/hot weather

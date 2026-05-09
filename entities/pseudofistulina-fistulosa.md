@@ -47,7 +47,7 @@ The context is fleshy and reddish when cut, sometimes exuding reddish juice when
 
 ## Distribution and Habitat
 
-Found across temperate Europe and parts of North America, with scattered records in Asia.
+Found across temperate Europe and parts of [[psilocybin-north-america-pacific-northwest]], with scattered records in Asia.
 
 In Europe, it occurs from Scandinavia to the Mediterranean, though it is generally uncommon throughout its range.
 
@@ -69,7 +69,7 @@ Habitat loss from intensive forestry and the removal of veteran oak trees are th
 
 This brown-rot decay pattern produces the characteristic cubical fracture pattern in affected wood, where the wood splits into roughly cubic blocks along the grain.
 
-As a late-stage decomposer of large-diameter hardwood, it contributes to nutrient cycling in mature forest ecosystems.
+As a late-stage decomposer of large-diameter hardwood, it contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in mature forest ecosystems.
 
 Its preference for large-diameter oak substrates means it is closely associated with old-growth forest conditions and veteran trees.
 
@@ -99,13 +99,13 @@ Further phytochemical investigation of this rare species may yield novel metabol
 
 *Fistulina hepatica* (beefsteak fungus) is the most commonly confused species. *F. hepatica* has a distinctly beef-like red flesh that bleeds red juice when cut, and grows primarily on oak but also chestnut.
 
-Unlike *P. fistulosa*, true *Fistulina hepatica* belongs to Fistulinaceae but has tubes that are more densely packed and a more robust, liver-like fruiting body.
+Unlike *P. fistulosa*, true *Fistulina hepatica* belongs to Fistulinaceae but has tubes that are more densely packed and a more robust, liver-like [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]].
 
 Polyporoid fungi with fused pores (e.g., *Fomitopsis* spp.) can be distinguished by their non-separable tube layer.
 
 The separately detachable tubes are the definitive diagnostic feature separating *Pseudofistulina* from all other polyporoid genera.
 
-Microscopic examination of spore morphology further confirms identification, as spore dimensions are consistently diagnostic.
+[[fungal-microscopic-examination-mounting-media-techniques]] of spore morphology further confirms identification, as spore dimensions are consistently diagnostic.
 
 ## See Also
 

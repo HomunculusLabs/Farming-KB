@@ -1,5 +1,5 @@
 ---
-title: Land Planning and Grazing Cell Design
+title: savory land planning and grazing cell design and Grazing Cell Design
 created: 2026-04-28
 tags: [land-planning, infrastructure, grazing-cells, paddocks, strategic]
 date: 2026-04-25
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

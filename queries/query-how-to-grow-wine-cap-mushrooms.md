@@ -5,6 +5,7 @@ tags: [query, mushroom-cultivation, wine-cap, garden-mushrooms, stropharia]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: query
 ---
@@ -13,10 +14,10 @@ type: query
 
 ## Short Answer
 Wine cap mushrooms (Stropharia rugosoannulata), also known as king stropharia or garden giants, are among the easiest mushrooms to grow outdoors.
-They thrive on wood chip beds supplemented with straw or other organic matter.
+They thrive on wood chip beds supplemented with straw or other [[hamilton-composting-and-organic-matter-management]].
 They require minimal maintenance after the initial inoculation and spawn run period.
 Wine caps produce large, burgundy-capped mushrooms from spring through fall.
-They simultaneously improve soil health and filter runoff water while producing edible mushrooms.
+They simultaneously improve soil health and filter runoff water while producing [[palmer-edible-mushrooms-north-america]].
 
 ## Detailed Explanation
 
@@ -42,23 +43,23 @@ Bed location matters significantly for wine cap success and productivity.
 Choose a shaded or partially shaded spot in your garden or landscape.
 The north side of a building, beneath fruit trees, or in a [[stropharia-rugoso-annulata-mycofiltration]] research shows an additional ecological benefit.
 Wine cap beds can serve as water filtration systems in your landscape.
-As runoff water passes through the mycelial network, sediments and biological contaminants are trapped.
+As runoff water passes through the [[gadd-mycelial-network-dynamics]], sediments and biological contaminants are trapped.
 The mycelium also absorbs excess nutrients that would otherwise pollute waterways.
 This makes wine cap beds excellent additions to rain gardens, swale bottoms, and drainage areas.
-The [[stamets-harvesting-drying-and-storage]] recommends processing within 48 hours.
+The stamets-harvesting-drying-and-storage recommends processing within 48 hours.
 Wine caps can be sauteed, grilled, pickled, or dehydrated for long-term storage.
 Dehydrated wine caps rehydrate well for use in soups, stews, and sauces throughout the year.
 
 ### Garden Integration Advantages
 
 One of the unique advantages of wine cap mushrooms is their role in garden ecosystem integration.
-Unlike most mushroom species, wine caps can be established directly in vegetable garden pathways.
+Unlike most mushroom species, wine caps can be established directly in [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] pathways.
 They also grow well around the base of perennial plants and in ornamental landscape beds.
 They decompose the wood chip mulch that many gardeners already apply.
 This decomposition converts mulch into humus that improves soil structure and fertility.
 The [[stamets-mushroom-disease-pathogens-contaminants]] notes that wine caps are remarkably resistant to contamination.
-They are resistant to the green mold (Trichoderma) that plagues indoor mushroom cultivation.
-Very wet conditions can occasionally lead to bacterial blotch on the mushroom caps.
+They are resistant to the green mold (Trichoderma) that plagues indoor [[accessible-mushroom-cultivation-for-disabilities]].
+Very wet conditions can occasionally lead to [[growing-gourmet-bacterial-blotch-disease-management]] on the mushroom caps.
 Improving air circulation around the bed usually resolves this issue without intervention.
 
 ## Key Points
@@ -93,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

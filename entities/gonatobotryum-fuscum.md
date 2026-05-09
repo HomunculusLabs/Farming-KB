@@ -16,7 +16,7 @@ sources:
 
 # Gonatobotryum fuscum
 
-Gonatobotryum fuscum is a biotrophic contact mycoparasite that grows on a variety of fungal hosts, particularly polypores and other wood-inhabiting fungi. It belongs to a group of well-studied anamorphic mycoparasites that require fungal extracts or living fungal tissue for axenic growth, representing an important model system for understanding the nutritional physiology and host specificity of biotrophic fungal parasites.
+Gonatobotryum fuscum is a biotrophic contact mycoparasite that grows on a variety of fungal hosts, particularly polypores and other wood-inhabiting fungi. It belongs to a group of well-studied anamorphic mycoparasites that require fungal extracts or living fungal tissue for axenic growth, representing an important model system for understanding the nutritional physiology and host specificity of biotrophic [[bloomfield-fungal-parasites-of-insects]].
 
 ## Taxonomy and Classification
 
@@ -24,7 +24,7 @@ G. fuscum was revised by Walker and Minter (1981) along with related genera Gona
 
 ## Host Range
 
-G. fuscum displays a remarkably broad host range among wood-inhabiting fungi, attacking hosts across multiple taxonomic groups and ecological categories:
+G. fuscum displays a remarkably broad host range among wood-inhabiting fungi, attacking hosts across multiple [[coprophilous-fungi-taxonomic-groups-distribution]] and ecological categories:
 
 ### Polyporaceae
 
@@ -32,7 +32,7 @@ Recorded on Polyporus and Poria species (Shigo 1960a, 1960b), G. fuscum colonize
 
 ### Ganodermataceae
 
-G. fuscum has been found on Ganoderma species, which include some of the most common bracket fungi in tropical and temperate forests. The ability to parasitize Ganoderma species indicates that G. fuscum can overcome the chemical defenses of these notoriously resistant fungi.
+G. fuscum has been found on Ganoderma species, which include some of the most common bracket [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] and temperate forests. The ability to parasitize Ganoderma species indicates that G. fuscum can overcome the chemical defenses of these notoriously [[radiation-resistant-fungi-and-myco-corrosion]].
 
 ### Tremellaceae
 
@@ -52,7 +52,7 @@ The nutritional physiology of G. fuscum has been studied in detail, providing im
 
 ### Growth on Host Mycelium
 
-Jordan and Barnett (1978) demonstrated that G. fuscum can withdraw all required nutrients from washed host mycelium. Unlike some related mycoparasites that require specific growth factors, mycotrophein (a fungal growth factor required by many biotrophic mycoparasites) is not required for its growth. This nutritional independence from specific fungal metabolites may explain its broad host range compared to more specialized biotrophic parasites.
+Jordan and Barnett (1978) demonstrated that G. fuscum can withdraw all required nutrients from washed host mycelium. Unlike some related mycoparasites that require specific growth factors, mycotrophein (a [[brassinosteroid-fungal-growth-promotion]] factor required by many biotrophic mycoparasites) is not required for its growth. This nutritional independence from specific fungal metabolites may explain its broad host range compared to more specialized biotrophic parasites.
 
 ### Influence of Environmental Factors
 
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

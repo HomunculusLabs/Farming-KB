@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Extraterrestrial Hypothesis
+title: Psilocybin mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal
 source: mckenna_t-tryptamines_consciousness.md
 tags: [psychedelics, psilocybin, McKenna, extraterrestrial, panspermia, Stropharia]
 created: 2026-05-08
@@ -14,17 +14,17 @@ may not have evolved on Earth but could be an extraterrestrial organism that
 radiated throughout the galaxy via [[psilocybin-mushroom]] spores are "deep,
 deep purple — the color that they would have to be to absorb the deep ultraviolet
 end of the spectrum." The casing of a spore is described as "one of the hardest
-organic substances known" with an "electron density approaching that of a metal."
+organic substances known" with an "[[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]] approaching that of a metal."
 
 The proposed dispersal mechanism involves several stages:
 1. Spores are extremely light and can reach the upper atmosphere through
-   Brownian motion (random thermal agitation of microscopic particles).
+   [[mckenna-spore-brownian-motion-and-galactic-percolation]] (random thermal agitation of microscopic particles).
 2. At the edge of the atmosphere, interaction with energetic particles could
    propel some spores into space.
 3. Over geological timescales, a fraction of these spores could travel between
    star systems, surviving the journey due to their extraordinarily durable casings.
 4. Upon reaching a habitable planet, spores would germinate and establish a
-   mycelial network, potentially associating with local life forms.
+   [[gadd-mycelial-network-dynamics]], potentially associating with local life forms.
 
 McKenna calculated that at one one-hundredth the speed of light, spores could
 cross the galaxy in approximately one hundred million years — far less than the
@@ -36,7 +36,7 @@ geological timescales.
 McKenna noted that "there are no fungi in the fossil record older than forty
 million years." The orthodox explanation is that fungi are soft-bodied and do not
 fossilize well. However, McKenna pointed out that "we have fossilized soft-bodied
-worms and other benthic marine invertebrates from South African gunflint chert
+worms and other benthic marine invertebrates from [[kanna-sceletium-south-african-narcotic]] gunflint chert
 that is dated to over a billion years." This gap in the fungal fossil record is
 consistent with, though certainly not proof of, a relatively recent arrival of
 fungi on Earth.
@@ -104,7 +104,7 @@ than uncritically accepting its self-description.
 ## See Also
 
 - [[tryptamine-hyperdimensional-entities]]
-- [[tryptamine-hallucinogens-and-consciousness]]." The Archaic Revival. HarperSanFrancisco.
+- [[tryptamine-hallucinogens-and-consciousness]]." The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]. HarperSanFrancisco.
 - McKenna, T. & McKenna, D. (1975). The Invisible Landscape. Seabury Press.
 - McKenna, T. (1976). Psilocybin: The Magic Mushroom Grower's Guide. And/Or Press.
 - Dick, P.K. (1981). Valis. Bantam Books.

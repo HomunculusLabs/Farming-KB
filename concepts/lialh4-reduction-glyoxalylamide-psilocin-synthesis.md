@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-The reduction of 3-dimethylaminooxalyl-4-acetylindole (the glyoxalylamide intermediate) with lithium aluminum hydride (LiAlH4) represents the pivotal transformation that converts a protected oxo-glyoxalylamide precursor into psilocin (4-hydroxy-N,N-dimethyltryptamine). This step, reported by Shirota, Hakamata, and Goda in 2003, achieves over 85% yield and is central to the concise large-scale synthesis of psilocin from commercially available 4-hydroxyindole.
+The reduction of 3-dimethylaminooxalyl-4-acetylindole (the [[shirota-glyoxalylamide-intermediate-oxalyl-chloride-acylation-pathway]]) with lithium aluminum hydride (LiAlH4) represents the pivotal transformation that converts a protected oxo-glyoxalylamide precursor into psilocin (4-hydroxy-N,N-dimethyltryptamine). This step, reported by Shirota, Hakamata, and Goda in 2003, achieves over 85% yield and is central to the concise large-scale synthesis of psilocin from commercially available 4-hydroxyindole.
 
 ## Reaction Mechanism
 
@@ -37,7 +37,7 @@ The workup procedure is notable for its simplicity and avoidance of chromatograp
 
 1. After quenching, additional anhydrous Na2SO4 is added to the mixture
 2. The reaction mixture is diluted with ethyl acetate
-3. Filtration through an aminopropyl silica gel laminated Celite pad removes aluminum salts
+3. Filtration through an aminopropyl [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] laminated Celite pad removes aluminum salts
 4. The pad is washed with ethyl acetate
 5. The organic solution is concentrated in vacuo
 6. The resulting crystals are briefly washed with methanol
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

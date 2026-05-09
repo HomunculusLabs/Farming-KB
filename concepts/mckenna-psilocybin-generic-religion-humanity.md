@@ -1,5 +1,5 @@
 ---
-title: "McKenna on Psilocybin as the Generic Religion of Humanity"
+title: "McKenna on Psilocybin as the mckenna psilocybin generic religion humanity of Humanity"
 source: "mckenna_t-food_of_the_gods.md"
 tags: [mckenna, psilocybin, religion, generic, soma, haoma, eleusinian, humanity, origin, ecstatic, mushroom]
 ---
@@ -8,7 +8,7 @@ tags: [mckenna, psilocybin, religion, generic, soma, haoma, eleusinian, humanity
 
 ## Overview
 
-A central thesis of *Food of the Gods* is that psilocybin-containing mushrooms constituted a "generic religion" — a universal, cross-cultural religious practice that preceded and gave rise to all later organized religions. McKenna argues that the ecstatic mushroom experience was not one religion among many but was the original religious impulse itself, the generative source from which all subsequent religious forms were derived. The suppression of this mushroom religion, in his view, represents the single most consequential event in human cultural history.
+A central thesis of *Food of the Gods* is that psilocybin-containing mushrooms constituted a "generic religion" — a universal, cross-cultural religious practice that preceded and gave rise to all later organized religions. McKenna argues that the ecstatic mushroom experience was not one religion among many but was the original religious impulse itself, the generative source from which all subsequent religious forms were derived. The suppression of this mushroom religion, in his view, represents the single most consequential event in human [[shroom-cultural-history-hippie-revolution-and-counterculture]].
 
 ## The Term "Generic Religion"
 
@@ -39,7 +39,7 @@ The Greek Eleusinian Mysteries, conducted for nearly two thousand years, centere
 
 ### Mesoamerican Mushroom Cults
 
-The mushroom cults of Mesoamerica, documented by the Wassons among the Mazatec and still practiced today, represent the most direct surviving expression of the original mushroom religion. Maria Sabina's mushroom veladas, in which participants consume psilocybin mushrooms in a ritual context, are essentially identical in structure and intention to the Soma ceremonies of ancient India — separated by thousands of years and thousands of miles but united by the same pharmacological agent and the same religious intent.
+The mushroom cults of Mesoamerica, documented by the Wassons among the Mazatec and still practiced today, represent the most direct surviving expression of the original mushroom religion. Maria Sabina's mushroom veladas, in which participants consume [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] in a ritual context, are essentially identical in structure and intention to the Soma ceremonies of ancient India — separated by thousands of years and thousands of miles but united by the same pharmacological agent and the same religious intent.
 
 ## The Universality Argument
 
@@ -77,7 +77,7 @@ McKenna identifies *Stropharia cubensis* (now *Psilocybe cubensis*) as the most 
 
 - **Coprophilic habit**: It grows on cattle dung, linking it to the cattle-mushroom complex that pervades ancient mythology
 - **Tropical distribution**: Its natural range includes the African grasslands where human beings evolved and where McKenna places the origin of the mushroom-religion partnership
-- **Consistent psychoactivity**: Unlike the unreliable *Amanita muscaria* (Wasson's Soma candidate), *Stropharia cubensis* produces reliable, dose-dependent visionary experiences
+- **Consistent psychoactivity**: Unlike the unreliable *[[allegro-amanita-muscaria-properties-and-pharmacology]]* (Wasson's Soma candidate), *Stropharia cubensis* produces reliable, dose-dependent visionary experiences
 - **Cultural persistence**: It remains in active ceremonial use in Mesoamerica, the region nearest to its natural range that maintained the mushroom religion into historical times
 
 ### Ecological Requirements
@@ -98,11 +98,13 @@ This framing has profound implications for contemporary debates about religious 
 
 ### The Rediscovery Imperative
 
-McKenna's argument leads to an explicit call for the rediscovery and reintegration of the mushroom sacrament into modern religious life. He frames this not as nostalgia for a lost past but as a practical necessity: the dominator culture that replaced the partnership model and its mushroom religion has produced ecological catastrophe, nuclear proliferation, and spiritual alienation on a planetary scale. The recovery of the original religious experience — through the responsible use of psilocybin — is, in McKenna's view, humanity's best hope for cultural renewal and ecological survival.
+McKenna's argument leads to an explicit call for the rediscovery and reintegration of the mushroom sacrament into modern religious life. He frames this not as nostalgia for a lost past but as a practical necessity: the dominator culture that replaced the partnership model and its mushroom religion has produced ecological catastrophe, nuclear proliferation, and [[fukuoka-flavor-philosophy-spiritual-alienation-food]] on a planetary scale. The recovery of the original religious experience — through the responsible use of psilocybin — is, in McKenna's view, humanity's best hope for cultural renewal and ecological survival.
 
-The "archaic revival" that McKenna advocates is precisely the revival of this generic religious impulse: the direct, experiential encounter with the sacred through the medium of the mushroom, stripped of institutional mediation and doctrinal overlay.
+The "[[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]" that McKenna advocates is precisely the revival of this generic religious impulse: the direct, experiential encounter with the sacred through the medium of the mushroom, stripped of institutional mediation and doctrinal overlay.
 
 ## See Also
+
+- [[zoroaster-mazda-religion-haoma]]
 
 - [[mckenna-wasson-amanita-theory-and-objections-to-fly-agaric]]
 - [[mckenna-eleusinian-mysteries]]

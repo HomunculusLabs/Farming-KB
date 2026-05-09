@@ -8,7 +8,7 @@ tags: [pf-tek, mushroom, cultivation, life-cycle, timeline, psilocybe-cubensis, 
 
 ## Overview
 
-The Psilocybe Fanaticus TEK (PF TEK) defines a complete mushroom cultivation life cycle that progresses through discrete stages, each with specific timelines, environmental requirements, and biological processes. Understanding the full temporal arc from spore inoculation to harvest is essential for successful cultivation. The timeline described here reflects the PF TEK methodology specifically, which uses half-pint canning jars with a brown rice flour and vermiculite substrate.
+The [[pf-tek-psilocybe-fanaticus-cultivation-method]] TEK (PF TEK) defines a complete [[accessible-mushroom-cultivation-for-disabilities]] life cycle that progresses through discrete stages, each with specific timelines, environmental requirements, and biological processes. Understanding the full temporal arc from spore inoculation to harvest is essential for successful cultivation. The timeline described here reflects the PF TEK methodology specifically, which uses half-pint canning jars with a brown rice flour and vermiculite substrate.
 
 ## Stage One: Spore Germination and Colonization
 
@@ -24,7 +24,7 @@ The substrate is loaded into shoulderless half-pint Kerr or Ball canning jars, f
 
 ### Sterilization (Day 0)
 
-Jars are sterilized using a pressure canner at **12 PSI for 20 minutes**. Alternatively, boiling water steaming can be used as a lower-tech sterilization method, though pressure canning is more reliable. After sterilization, jars must cool completely to room temperature before inoculation to prevent killing the spores with residual heat.
+Jars are sterilized using a [[pf-tek-pressure-canner-sterilization]] at **12 PSI for 20 minutes**. Alternatively, boiling water steaming can be used as a lower-tech sterilization method, though [[comparison-pressure-canning-vs-water-bath-canning]] is more reliable. After sterilization, jars must cool completely to room temperature before inoculation to prevent killing the spores with residual heat.
 
 ### Inoculation (Day 1)
 
@@ -32,7 +32,7 @@ Spore solution from a prepared syringe is injected through the inoculation holes
 
 ### Germination and Mycelial Growth (Days 2–14)
 
-After inoculation, spores germinate and begin forming mycelial networks throughout the substrate. Key parameters during this phase:
+After inoculation, spores germinate and begin forming [[fungal-mycelial-networks-nutrient-translocation]] throughout the substrate. Key parameters during this phase:
 
 - **Temperature**: Room temperature, ideally 70–75°F (21–24°C)
 - **Light**: Incubation in darkness or indirect light; direct sunlight is avoided
@@ -56,7 +56,7 @@ The colonized "cake" is removed from the jar. This process, called "birthing" in
 2. Gently tapping the jar to dislodge the substrate cake
 3. Carefully extracting the intact cake without breaking it
 
-The cake is then placed in the fruiting chamber — the PF TEK uses a 10-gallon dual-chambered terrarium with a transparent partition dividing the growing space from the humidification area.
+The cake is then placed in the [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] — the PF TEK uses a 10-gallon dual-chambered terrarium with a transparent partition dividing the growing space from the humidification area.
 
 ### Initiation of Fruiting
 

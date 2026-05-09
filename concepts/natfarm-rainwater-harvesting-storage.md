@@ -1,5 +1,5 @@
 ---
-title: Rainwater Harvesting and Storage
+title: comparison-xeriscaping-guide-vs-rainwater-harvesting-systems and Storage
 created: 2026-04-28
 tags: [rainwater, water-storage, water-harvesting, permaculture, self-sufficiency]
 date: 2026-04-25
@@ -52,7 +52,7 @@ metal, or even plastered dirt. The water to fill tanks comes from rainwater
 running off roofs or other surfaces, or is pumped from a dam.
 
 ### Mosquito Control
-To repel mosquitoes, tanks should be covered and screened. Thick green algae
+To repel mosquitoes, tanks should be covered and screened. Thick [[cervantes-green-algae-growing-medium]]
 will begin to grow over the sides of the tank, but this is beneficial because
 the algae help clean the water. The outlet pipe should be 3 inches (7.6 cm)
 above the bottom so that the algae remain undisturbed. Frogs and birds are
@@ -60,7 +60,7 @@ more effective mosquito control than introducing fish like mosquitofish,
 which breed prolifically and can choke out other populations.
 
 ### Strategic Placement
-It makes sense to place a dam or water tanks at the top of a hill. A large
+It [[coleman-first-rule-nature-makes-sense]] to place a dam or water tanks at the top of a hill. A large
 water tank set on the top of a hill can act as the foundation for a
 building, and the building roof can then be used to collect rainwater. The
 house has its own water tank, and the pond or lake can be situated below the

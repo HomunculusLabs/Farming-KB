@@ -1,11 +1,12 @@
 ---
-title: "Cannabis Strain Selection and Genetics"
+title: "Cannabis cannabis-strain-selection-guide and Genetics"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
 tags: [cannabis]
 sources:
-  - raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # Cannabis Strain Selection and Genetics
@@ -15,7 +16,7 @@ sources:
 ## Taxonomic Classification
 
 Technically and legally, all cannabis is classified as [[cannabis-indica]] (= C. sativa var. indica)
-- Cannabis ruderalis (= C. sativa var. spondanea)
+- [[cervantes-cannabis-ruderalis-autoflowering]] (= C. sativa var. spondanea)
 - Cannabis afghanica (= C. sativa var. afghanica)
 
 Each has distinct growth patterns, appearance, smell, taste, and effects.
@@ -36,7 +37,7 @@ Each has distinct growth patterns, appearance, smell, taste, and effects.
 **Regional varieties:**
 - Mexican, Columbian, Thai, Jamaican — can be very potent
 - Central African (e.g., 'Congolese') — tall, leggy, loosely packed buds
-- South African — 'Durban Poison' is the best-known strain
+- [[kanna-sceletium-south-african-narcotic]] — 'Durban Poison' is the best-known strain
 - Asian (Thai, Vietnamese, Laotian, Cambodian, Nepalese) — super THC-potent but difficult indoors, slowest to mature. Thai strains more prone to hermaphroditism
 - Hemp strains — grown for fiber, very low THC
 
@@ -64,7 +65,7 @@ Each has distinct growth patterns, appearance, smell, taste, and effects.
 **General traits:**
 - Short, weedy, scrubby plant
 - Very low THC content — "ditch weed"
-- Starts flowering cycle after a few weeks of growth (NOT photoperiod-dependent)
+- Starts [[cannabis-sativa-flowering-cycle-management]] after a few weeks of growth (NOT photoperiod-dependent)
 - Auto-flowering characteristic has been bred into other strains
 - 'Lowryder' is one of the few C. ruderalis crosses that is auto-flowering and THC-potent
 
@@ -83,13 +84,13 @@ Each has distinct growth patterns, appearance, smell, taste, and effects.
 
 ## Hybrid Strains
 
-Most popular strains are combinations of two or more: C. sativa, C. indica, C. ruderalis, and C. afghanica. Many are bred specifically for indoor growing, greenhouse cultivation, or specific outdoor climates.
+Most popular strains are combinations of two or more: C. sativa, C. indica, C. ruderalis, and C. afghanica. Many are bred specifically for [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]], greenhouse cultivation, or specific outdoor climates.
 
 ## Seed Genetics
 
 A seed contains all genetic characteristics from both parents. Genes dictate:
 - Plant size
-- Disease and pest resistance
+- Disease and [[cannabis-disease-pest-resistance-breeding-clarke]]
 - Root, stem, leaf, and flower production
 - Cannabinoid levels (THC, CBD, etc.)
 - Growth rate
@@ -97,6 +98,8 @@ A seed contains all genetic characteristics from both parents. Genes dictate:
 
 Strong, healthy parents and proper care yield strong seeds. The genetic makeup of a seed is the single most important factor in how well a plant will grow and the cannabinoid levels it will produce.
 
-## Related Topics
+## Related
+
+- [[cervantes-recurrent-selection-pedigree-breeding]] Topics
 - [[cervantes-cloning]] — Cloning for preserving genetics
 - [[cervantes-flowering-phase]] — Flowering differences by strain

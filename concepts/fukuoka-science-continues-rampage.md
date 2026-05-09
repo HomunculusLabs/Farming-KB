@@ -1,11 +1,12 @@
 ---
-title: Science Continues Its Rampage
+title: fukuoka science continues rampage Its Rampage
 created: 2026-04-18
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Science Continues Its Rampage
@@ -24,7 +25,7 @@ Fukuoka was scathing in his critique of universities, which he saw as institutio
 
 These have grown and thrived to such an extent because the world we live in has become so complex and incomprehensible. Properly speaking, the goal of education should be to create people who have no need to know anything -- sages who understand the wholeness of reality.
 
-Instead, universities break knowledge into fragments and specialties, producing experts who understand increasingly less about increasingly more. This fragmentation of knowledge mirrors the fragmentation of nature that scientific agriculture imposes upon the land.
+Instead, universities break knowledge into fragments and specialties, producing experts who understand increasingly less about increasingly more. This fragmentation of knowledge mirrors the fragmentation of nature that [[fukuoka-critique-scientific-agriculture-civilization]] imposes upon the land.
 
 ## Medicine as a Barometer of Collapse
 
@@ -44,7 +45,7 @@ Each one of these laws is nothing other than a manifestation of the great harmon
 
 Life on earth is a story of the birth and death of individual organisms, a cyclic history of the ascendance and fall, the thriving and failure, of communities. All matter behaves according to set principles -- whether we are talking of the cosmic universe, the world of microorganisms, or the far smaller world of molecules and atoms.
 
-All things are in constant flux while the natural order is maintained. It is man alone who disrupts this order, who acts as he pleases, who refuses to recognize the harmony that sustains all life.
+All things are in constant flux while the [[fukuoka-textdoc-natural-order-food-chain-unity]] is maintained. It is man alone who disrupts this order, who acts as he pleases, who refuses to recognize the harmony that sustains all life.
 
 ## The Way Forward
 

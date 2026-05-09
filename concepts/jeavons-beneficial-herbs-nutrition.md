@@ -1,5 +1,5 @@
 ---
-title: "Beneficial Herbs and Garden Nutrition"
+title: "jeavons beneficial herbs nutrition and Garden Nutrition"
 created: 2026-04-26
 sources: "Jeavons, John. How to Grow More Vegetables. Ten Speed Press."
 tags: [biointensive, herbs, nutrition, companion-planting, health, jeavons]
@@ -25,9 +25,9 @@ It is part of the mint family.
 
 **Oregano** has a beneficial effect on surrounding plants.
 
-**Stinging Nettle** (Urtica dioica) helps neighboring plants grow more
-resistant to spoiling, increases the essential oil content in many herbs,
-stimulates humus formation, helps stimulate fermentation in compost piles, and
+**[[comparison-stinging-nettle-vs-horsetail]]** (Urtica dioica) helps neighboring plants grow more
+resistant to spoiling, increases the [[permaculture-designers-manual-essential-oil-plants]] content in many herbs,
+stimulates [[lowenfels-humus-formation-benefits]], helps stimulate fermentation in compost piles, and
 as a tea promotes plant growth and strengthens plants. It concentrates sulfur,
 potassium, calcium, and iron in its body.
 
@@ -37,7 +37,7 @@ resistance in plants.
 
 **Chamomile** (Chamaemelum nobile) contains a growth hormone that stimulates
 yeast growth. In a 1:100 ratio, it helps wheat growth. As a tea, it combats
-damping off and other diseases in young plants. It concentrates calcium,
+[[cervantes-damping-off-seedling-disease-prevention]] and other diseases in young plants. It concentrates calcium,
 sulfur, and potash.
 
 **Dandelion** (Taraxacum officinale) increases the aromatic quality of all
@@ -91,7 +91,7 @@ moths.
 
 Herbs serve a critical role in natural insect management. The age and number
 of herb plants used per 100 square feet determine effectiveness. A young plant
-does not have an aroma or root exudate strong enough to discourage harmful
+does not have an aroma or [[amf-biocontrol-phytophthora-root-exudate-modification]] strong enough to discourage harmful
 insects. Too few herbs will not control a pest, but too many may retard
 vegetable growth and yield. Two to four plants per 100-square-foot bed will
 probably suffice for most purposes.

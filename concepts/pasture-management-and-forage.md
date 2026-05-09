@@ -1,5 +1,5 @@
 ---
-title: Pasture Management and Forage
+title: grassland-pasture-management-mollison and Forage
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Ultimate Guide to Natural Farming and Sustainable Living, Nicole Faires
+Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]], Nicole Faires
 
 Effective pasture management is the key to raising livestock on a permaculture homestead. A well-designed forage system can feed animals year-round, improve soil health, and dramatically reduce the farmer's labor.
 
@@ -30,7 +30,7 @@ In most temperate climates, 20 acres (8 hectares) is enough land to raise enough
 Even with excellent pasture management, a food shortage in winter is inevitable through forage alone. Solutions include:
 
 - **Tree crops**: The primary solution for winter feed gaps — provide fodder when pasture is dormant
-- **Hay storage**: Stockpile hay harvested during peak growing season
+- **Hay storage**: Stockpile hay harvested during peak [[savory-growing-season-and-non-growing-season-management]]
 - **Root crops**: Harvested and stored vegetables supplement winter feeding
 - **Grain**: Grown on the farm and stored for winter feeding
 - **Herd culling**: Thin the herd by selling or butchering young males before winter
@@ -107,10 +107,10 @@ Most of these should be **sprouted** before feeding — for both animals and hum
 
 ## Timber in the Pasture
 
-- **Purpose**: Firewood, building materials, shelter, and windbreaks alongside forage trees
+- **Purpose**: Firewood, [[natural-building-materials-guide]], shelter, and windbreaks alongside forage trees
 - **Planting**: Follow the contours of the land
 - **Maturity**: Allow 30 years for trees to mature enough that animals will not damage them
-- **Grazing integration**: Animals can graze before grass is harvested for hay or cover crops
+- **Grazing integration**: Animals can graze before grass is harvested for hay or [[gaias-garden-cover-crops-soil-building]]
 
 ## Rotation Principles
 
@@ -124,4 +124,4 @@ Most of these should be **sprouted** before feeding — for both animals and hum
 - [[cattle-keeping-guide]] — cattle grazing management
 - [[pig-keeping-guide]] — pig forage and land clearing
 - [[woodlot-and-coppicing]] — integrating timber with pasture
-- [[holzer-fruit-tree-planting-method]]
+- holzer-fruit-tree-planting-method

@@ -22,7 +22,7 @@ industrial enzymes, and bioremediation cocktails.
 ## The Enzymatic Arsenal of Fungi
 
 Fungi produce and secrete many types of extracellular enzymes,
-including lignin peroxidase, manganese peroxidase, laccases,
+including [[fungal-lignin-peroxidase-veratryl-alcohol]], [[fungal-manganese-peroxidase-remediation]], laccases,
 amylases, and cellulases. These enzymes function as "chemical
 scissors" that cleave the bonds of large molecules such as lignin
 embedded in woody plant tissue. As the mushroom's enzymes break
@@ -40,7 +40,7 @@ more aggressive in breaking down cellulose.
 
 ## Eliciting Novel Metabolites from Fungal Biomass
 
-Understanding that fungi retool enzyme production in response to
+Understanding that fungi retool [[ligninolytic-enzyme-production-bioremediation]] in response to
 environmental triggers, researchers can construct enzyme
 production units. The process begins with simple laboratory plating
 techniques: positioning a wedge of mushroom mycelium near a
@@ -77,7 +77,7 @@ within a few days.
 
 ## Tabletop Filtration Units for Enzyme Capture
 
-A tabletop mycofiltration unit can serve double duty as an enzyme
+A tabletop [[tabletop-mycofiltration-unit-construction]] can serve double duty as an enzyme
 harvesting system. The three-tiered plastic module with a
 recirculating water filter costs approximately $30 to build. To
 convert it for enzyme harvesting, insert small sterile, open-ended
@@ -114,11 +114,11 @@ Several mushroom genera are recognized for their enzyme production:
 
 - **Agrocybe**: Wide laccase spectrum; breaks down BPA and other
   endocrine disruptors; useful for mycofiltration projects.
-- **Pleurotus** (oyster mushrooms): Produce versatile enzyme
+- **Pleurotus** ([[query-how-to-grow-oyster-mushrooms-at-home]]): Produce versatile enzyme
   systems capable of biodegrading nearly all types of waste.
 - **Fomes fomentarius**: Demonstrates activity against E. coli
   and other bacterial pathogens when stimulated.
 - **Shiitake ([[tabletop-mycofiltration-unit-construction]]
 - [[mycorrhizal-carbon-phosphorus-exchange]]
-- laccase and ligninolytic enzymes
+- laccase and [[singh-ligninolytic-enzymes-fungal-bioremediation]]
 - [[fungal-biology-fundamentals]]

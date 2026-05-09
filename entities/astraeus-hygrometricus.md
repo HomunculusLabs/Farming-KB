@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Phosri, C., et al. (2013). "Astraeus is more widely distributed than previously thought." Mycological Progress 12(1): 45–57.
-  - Fangfuk, W., et al. (2010). "Molecular systematic of Astraeus." Fungal Diversity 42: 117–129.
+  - Fangfuk, W., et al. (2010). "Molecular systematic of Astraeus." [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] 42: 117–129.
   - Singer, R. (1986). "The Agaricales in Modern Taxonomy." 4th ed. Koeltz Scientific Books.
   - Kuo, M. (2024). "Astraeus hygrometricus." MushroomExpert.com.created: 2026-05-07
 
@@ -22,7 +22,7 @@ created: 2026-05-07
 
 Astraeus hygrometricus, commonly known as the **barometer earthstar**, is a gasteroid fungus in the family Diplocystaceae (historically placed in Astraeaceae or Sclerodermataceae). It is recognized by its hygroscopic star-shaped fruiting body that opens in humid conditions and closes when dry.
 
-The species has a broad global distribution across temperate and subtropical regions. It forms **ectomycorrhizal associations** with a wide range of tree hosts, particularly pines and oaks, making it ecologically significant in forest ecosystems.
+The species has a broad [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] across temperate and subtropical regions. It forms **ectomycorrhizal associations** with a wide range of tree hosts, particularly pines and oaks, making it ecologically significant in forest ecosystems.
 
 Despite its resemblance to true earthstars in the genus *Geastrum*, *Astraeus* is phylogenetically distinct. Modern molecular studies have confirmed it belongs in the Boletales, closely related to boletes rather than to the Agaricales-affiliated *Geastrum*.
 
@@ -42,7 +42,7 @@ Basidiospores are spherical to broadly ellipsoid, 7–11 µm in diameter, orname
 
 ## Distribution and Habitat
 
-*Astraeus hygrometricus* is found across much of the temperate and subtropical world. It occurs throughout Europe, Asia (China, Japan, Korea, India, Southeast Asia), North America, Central and South America, Africa, and Australia.
+*Astraeus hygrometricus* is found across much of the temperate and subtropical world. It occurs throughout Europe, Asia (China, Japan, Korea, India, [[psilocybe-southeast-asia-pacific]]), [[psilocybin-north-america-pacific-northwest]], Central and South America, Africa, and Australia.
 
 It fruits on the ground in association with a broad host range, including species of **Pinus** (pine), **Quercus** (oak), **Eucalyptus**, **Castanea** (chestnut), **Betula** (birch), and various members of the Dipterocarpaceae in Southeast Asian forests.
 
@@ -82,7 +82,7 @@ In parts of Yunnan Province, China, dried *Astraeus* specimens are sold in tradi
 
 *Astraeus hygrometricus* has been successfully cultivated in association with host tree seedlings in controlled nursery environments. Inoculation protocols typically involve mixing spore slurries or mycelial cultures into potting media before transplanting seedlings.
 
-In Thailand and China, **commercial mycorrhizal inoculants** containing *Astraeus* spp. are marketed for forestry applications, particularly for *Pinus* and *Eucalyptus* plantations. These products aim to improve seedling survival rates and early growth performance on marginal or degraded sites.
+In Thailand and China, **commercial [[pgpr-mycorrhizal-inoculants-microplant-establishment]]** containing *Astraeus* spp. are marketed for forestry applications, particularly for *Pinus* and *Eucalyptus* plantations. These products aim to improve seedling survival rates and early growth performance on marginal or degraded sites.
 
 Research has shown that inoculated seedlings of *Pinus kesiya* and *Eucalyptus camaldulensis* exhibit significantly greater biomass and root colonization compared to non-inoculated controls when planted in nutrient-poor soils.
 
@@ -102,7 +102,7 @@ True earthstars in the genus *Geastrum* can be distinguished by their sessile sp
 
 Limited phytochemical investigation has been conducted on *Astraeus hygrometricus*. Studies on related *Astraeus* species have identified several bioactive metabolites including astraeusin A and B, which are ergostane-type triterpenoids.
 
-Preliminary in vitro assays have demonstrated **antimicrobial activity** of crude extracts against Gram-positive bacteria including *Staphylococcus aureus* and *Bacillus subtilis*. Antifungal activity against *Candida albicans* has also been reported at moderate concentrations.
+Preliminary in vitro assays have demonstrated **antimicrobial activity** of crude extracts against Gram-positive bacteria including *Staphylococcus aureus* and *Bacillus subtilis*. Antifungal activity against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* has also been reported at moderate concentrations.
 
 Additional compounds isolated from the genus include fatty acid derivatives, phenolic acids, and small amounts of ergosterol peroxide. These findings are consistent with the broader pattern of antimicrobial metabolite production observed across ectomycorrhizal basidiomycetes.
 

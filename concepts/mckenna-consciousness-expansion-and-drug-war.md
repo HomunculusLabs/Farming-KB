@@ -1,5 +1,5 @@
 ---
-title: McKenna on Consciousness Expansion and the Drug War
+title: McKenna on mckenna consciousness expansion and drug war and the Drug War
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -11,7 +11,7 @@ sources: [papers/mckenna_t-tryptamines_consciousness.md]
 
 ## The Psychedelic as the Dominator's Nightmare
 
-The psychedelic experience is the dominator culture's worst nightmare. It dissolves the rigid boundaries of the ego, reveals the interconnectedness of all things, and exposes the artificiality of social hierarchies. No wonder the dominator establishment has spent so much energy suppressing it.
+The [[leary-psychedelic-experience-bardo-mapping]] is the dominator culture's worst nightmare. It dissolves the rigid boundaries of the ego, reveals the interconnectedness of all things, and exposes the artificiality of social hierarchies. No wonder the dominator establishment has spent so much energy suppressing it.
 
 The drug war is not really about drugs. It is about consciousness — about who has the right to control and alter their own consciousness, and about what kinds of consciousness are socially acceptable. The drug war is a war on the mind, a war on the imagination, a war on the human spirit.
 
@@ -19,7 +19,7 @@ The drug war is not really about drugs. It is about consciousness — about who 
 
 The 1960s represented the most significant challenge to dominator consciousness in modern history. The combination of psychedelic drugs, popular music, political radicalism, and anti-war activism created a mass movement that threatened to transform Western society from within.
 
-The establishment response was swift and brutal. Psychedelic research was shut down, the counterculture was infiltrated and disrupted, and the drug war was launched — a domestic military operation that has cost hundreds of billions of dollars and destroyed millions of lives, while doing nothing to reduce the availability of drugs.
+The establishment response was swift and brutal. [[mckenna-suppression-psychedelic-research-lsd-therapy]] was shut down, the counterculture was infiltrated and disrupted, and the drug war was launched — a domestic military operation that has cost hundreds of billions of dollars and destroyed millions of lives, while doing nothing to reduce the availability of drugs.
 
 ## The Management Agenda
 
@@ -48,7 +48,7 @@ The drug war has nothing to do with health and everything to do with power. It i
 
 McKenna's political views on drug policy were inseparable from his broader critique of dominator culture. He argued that the war on drugs was not a public health initiative but a mechanism of social control — a deliberate effort by entrenched power structures to suppress substances that might provoke questioning of authority and dissolution of hierarchical social norms. His position was not that all drugs should be freely available, but that the legal distinction between "acceptable" drugs like alcohol and tobacco — which cause massive social harm — and "unacceptable" drugs like cannabis and psychedelics — which pose minimal health risks but maximum ideological threats — reveals the true motives behind prohibition.
 
-McKenna frequently cited the work of ethnobotanist Richard Evans Schultes and the Harvard Psilocybin Project to argue that the suppression of psychedelic research in the 1960s was not driven by scientific evidence but by political panic. The Schedule I classification of psilocybin, LSD, and DMT — substances with no known lethal dose and no demonstrated pattern of addiction — alongside heroin and crack cocaine, was, in McKenna's view, a transparently political act designed to stigmatize consciousness-expanding substances.
+McKenna frequently cited the work of ethnobotanist Richard Evans Schultes and the [[leary-harvard-psilocybin-project]] Project to argue that the suppression of psychedelic research in the 1960s was not driven by scientific evidence but by political panic. The Schedule I classification of psilocybin, LSD, and DMT — substances with no known lethal dose and no demonstrated pattern of addiction — alongside heroin and crack cocaine, was, in McKenna's view, a transparently political act designed to stigmatize consciousness-expanding substances.
 
 ## Arguments Against the War on Drugs
 
@@ -62,7 +62,7 @@ Third, McKenna challenged the philosophical foundation of drug prohibition: the 
 
 McKenna's vision for a post-prohibition future was not one of unfettered commercialization but of culturally integrated, responsible use. He advocated for a model based on indigenous shamanic traditions, in which psychedelic substances are treated as sacred medicines administered within a framework of ritual, community, and experienced guidance. He envisioned licensed facilitators trained in both the pharmacology and the cultural context of psychedelic use, operating within a legal framework that recognized the therapeutic and spiritual potential of these substances.
 
-This vision anticipated, in many respects, the contemporary psychedelic therapy movement. Modern clinical trials of psilocybin for depression, PTSD, and end-of-life anxiety — conducted at institutions like Johns Hopkins, Imperial College London, and the Multidisciplinary Association for Psychedelic Studies (MAPS) — have validated many of McKenna's intuitions about the therapeutic potential of psychedelics. The growing movement for psychedelic decriminalization and legalization, which has achieved notable successes in Oregon, Colorado, and several other jurisdictions, reflects McKenna's argument that prohibition is both unjust and unsustainable.
+This vision anticipated, in many respects, the contemporary [[metzner-psycholytic-psychedelic-therapy-models]] movement. Modern clinical trials of psilocybin for depression, PTSD, and end-of-life anxiety — conducted at institutions like Johns Hopkins, Imperial College London, and the [[maps-multidisciplinary-association-for-psychedelic-studies]] for Psychedelic Studies (MAPS) — have validated many of McKenna's intuitions about the therapeutic potential of psychedelics. The growing movement for psychedelic decriminalization and legalization, which has achieved notable successes in Oregon, Colorado, and several other jurisdictions, reflects McKenna's argument that prohibition is both unjust and unsustainable.
 
 McKenna also warned against the corporatization of psychedelics. He feared that pharmaceutical companies would isolate and patent specific molecules, stripping them of their cultural and spiritual context and reducing them to mere medications. His ideal was not a new industry but a revival of the ancient partnership between humans and psychoactive plants — a relationship grounded in respect, reciprocity, and ecological awareness.
 

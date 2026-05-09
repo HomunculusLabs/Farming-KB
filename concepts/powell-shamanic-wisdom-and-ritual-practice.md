@@ -1,5 +1,5 @@
 ---
-title: Shamanic Wisdom and Ritual Practice
+title: powell shamanic wisdom and ritual practice and Ritual Practice
 created: 2026-04-28
 tags: [shamanism, ritual, indigenous-knowledge, entheogens, visionary-experience,
   wisdom, neo-shamanism, ethnobotany]
@@ -20,8 +20,8 @@ between the human mind and the natural world.
 
 ## Native Cultures and the Taming of Psychedelics
 
-Despite the obvious dangers posed by psychedelic substances, including their
-capacity to induce intense psychical terror (the "bad trip"), native cultures
+Despite the obvious dangers posed by [[psychedelic-substances-comparison]], including their
+capacity to induce intense psychical terror (the "[[emcdda-bad-trip-phenomenology-psychiatric-intervention]]"), native cultures
 have managed to "tame" them through a learned appreciation of their scope of
 effect. This taming is achieved through ritual frameworks, ceremonial
 contexts, careful dosing, and the guidance of experienced practitioners.
@@ -32,7 +32,7 @@ and cosmological domains.
 ## Tukanoan Shamanism as Case Study
 
 Powell examines the ayahuasca-using Tukanoan Indians of Colombia as a
-detailed example of sophisticated shamanic practice. The Tukanoan shamans
+detailed example of sophisticated [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]]. The Tukanoan shamans
 experience culturally and environmentally determined symbology in their
 visions, often related to powerful jungle creatures like the jaguar as well as
 the ubiquitous serpent. They also experience imagery related to their
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

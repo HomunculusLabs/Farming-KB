@@ -5,21 +5,21 @@ type: species
 tags: [psilocybin, mushroom, conocybe, entheogen, bolbitiaceae]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+sources: sources: []
 ---
 
 # Conocybe smithii
 
-**Conocybe smithii** is a small, fragile, psilocybin-containing mushroom in the family Bolbitiaceae. It is one of the lesser-known psychoactive *Conocybe* species, found in grasslands and disturbed soils in North America and Europe. The species was named in honor of the American mycologist **Alexander H. Smith**, one of the most prolific agaric taxonomists of the 20th century. Due to its extremely small size, inconspicuous appearance, and tendency to grow among other small grassland mushrooms, *C. smithii* is rarely noticed by casual observers and is among the most underreported [[amanita-phalloides]]*); can cause fatal liver and kidney failure
+**Conocybe smithii** is a small, fragile, psilocybin-containing mushroom in the family Bolbitiaceae. It is one of the lesser-known psychoactive *Conocybe* species, found in grasslands and disturbed soils in [[psilocybin-north-america-pacific-northwest]] and Europe. The species was named in honor of the American mycologist **Alexander H. Smith**, one of the most prolific agaric taxonomists of the 20th century. Due to its extremely small size, inconspicuous appearance, and tendency to grow among other small grassland mushrooms, *C. smithii* is rarely noticed by casual observers and is among the most underreported [[amanita-phalloides]]*); can cause fatal liver and kidney failure
 - **Conocybe apala:** Common lawn species; non-psychoactive but not dangerous
 - **Conocybe lactea:** Small white species; non-psychoactive
 - **Conocybe albipes:** Very common lawn species; non-psychoactive
 
-The risk of confusing *C. smithii* with toxic *Conocybe* species makes it one of the **most dangerous** psilocybin mushrooms to forage. Microscopic examination is strongly recommended before any consumption.
+The risk of confusing *C. smithii* with toxic *Conocybe* species makes it one of the **most dangerous** [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] to forage. [[fungal-microscopic-examination-mounting-media-techniques]] is strongly recommended before any consumption.
 
 ## Ecological Role
 
-*Conocybe smithii* is a **saprotrophic** species that decomposes organic matter in grassland soils. Its role in nutrient cycling includes:
+*Conocybe smithii* is a **saprotrophic** species that decomposes organic matter in grassland soils. Its role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] includes:
 
 - Breaking down grass clippings and thatch
 - Decomposing dung and manure deposits
@@ -38,13 +38,13 @@ The species appears to thrive in nitrogen-rich environments, which explains its 
 
 ## Similar Species
 
-- **Conocybe cyanopus:** Also psychoactive; distinguished by more prominent blue bruising and larger spores
+- **[[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]]:** Also psychoactive; distinguished by more prominent blue bruising and larger spores
 - **Conocybe kuehneriana:** European species; reported to contain psilocybin; very similar morphology
 - **Conocybe siligineodes:** Small species found in similar habitats; psychoactive status uncertain
 - **Conocybe filaris:** Toxic amatoxin-containing species; visually very similar; must be distinguished microscopically
 ## See Also
 
-- [[conocybe-kuehneriana]]
+- conocybe-kuehneriana
 - [[baeocystin]]
 - Bolbitiaceae
 - alexander-h.-smith
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,6 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+- [[psilocybin-mushrooms]]
+- [[conocybe-cyanopus]]
+- [[psilocybin-mushroom]]

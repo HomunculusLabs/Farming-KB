@@ -1,5 +1,5 @@
 ---
-title: "Spider Mites - Identification and Control (Cervantes)"
+title: "cervantes spider mites identification control - Identification and Control (Cervantes)"
 created: 2026-04-28
 tags:
   - cannabis
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -18,7 +19,7 @@ type: concept
 
 ## Overview
 
-The spider mite is the most common pest found on indoor cannabis
+The spider mite is the most common pest found on [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]]
 plants and causes the most problems according to Jorge Cervantes.
 Spider mites have eight legs and are classified as arachnids
 (spider relatives) rather than insects, which have six legs.
@@ -94,7 +95,7 @@ into the garden on clothing, and prevent animal visits.
 ## Progressive Control Summary
 
 The recommended progression of control measures:
-1. Cleanliness: clean room daily, disinfect tools, prevent
+1. Cleanliness: [[oyster-mushroom-clean-room-design]] daily, disinfect tools, prevent
    new pest introductions
 2. Create hostile environment: adjust humidity, temperature,
    water spray
@@ -102,11 +103,11 @@ The recommended progression of control measures:
    drying lines
 4. Dip cuttings and vegetative plants in pyrethrum or neem
 5. Remove foliage more than 50 percent damaged
-6. Introduce predatory mites before infestations grow out of
+6. Introduce [[comparison-predatory-mites-vs-ladybugs-biocontrol]] before infestations grow out of
    hand
 7. Spray with [[cervantes-neem-oil-organic-pest-control]]; use
    strong miticides only if necessary, rotating sprays
 ## Related Topics
 
 - [[cervantes-biological-pest-control-predators]] - predators
-- [[cervantes-thrips-pest-control]] - another common foliar pest
+- [[cervantes-thrips-pest-control]] - another common [[ingham-foliar-pest-deterrence-aact]]

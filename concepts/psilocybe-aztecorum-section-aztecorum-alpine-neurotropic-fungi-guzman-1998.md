@@ -1,5 +1,5 @@
 ---
-title: Psilocybe aztecorum Section Aztecorum: Alpine Neurotropic Fungi
+title: Psilocybe psilocybe aztecorum section aztecorum alpine neurotropic fungi guzman 1998 Aztecorum: Alpine challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification
 created: 2026-05-06
 tags: mycology, psilocybe, aztecorum, baeocystis, alpine, subalpine, mexico, biogeography, guzman-1998
 type: concept
@@ -16,11 +16,11 @@ subalpine, and alpine habitats. According to [[neurotropic-fungi-underground-tra
 - [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]]
 - [[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]]
 
-- Psilocybe semilanceata Worldwide Temperate Distribution
+- Psilocybe [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]] [[tropical-vs-temperate-distribution-neurotropic-fungi]]
 - Mexico as a Neurotropic Fungi Diversity Hotspot
-- Southern Hemisphere Origin Hypothesis for Neurotropic Fungi
+- [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] Origin Hypothesis for Neurotropic Fungi
 - [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
-- Mexico as a Northern and Southern Mycobiotic Convergence Zone
+- Mexico as a Northern and [[mexico-northern-southern-mycobiotic-convergence-zone-guzman-1998]] Convergence Zone
 ## Practical Applications
 
 Psilocybe aztecorum Section Aztecorum: Alpine Neurotropic Fungi has a range of practical applications that make it relevant to
@@ -98,4 +98,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -19,7 +19,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Gilbertson R.L., Ryvarden L. (1986). "North American Polypores." Fungiflora,
+  - Gilbertson R.L., Ryvarden L. (1986). "growing-gourmet-north-american-reishi-species Polypores." Fungiflora,
     Oslo, Vol. 1, pp. 156-159.
   - Spirin W.A. et al. (2015). "Molecular phylogeny of the polypore genus
     Bondarzewia (Basidiomycota, Russulales)." Mycological Progress 14: 102.
@@ -70,21 +70,21 @@ living hardwood trees or on stumps and buried roots.
 
 ## Distribution and Habitat
 
-Found across eastern North America from eastern Canada to the Gulf Coast, and
+Found across [[polypore-fungi-eastern-north-america]] America from eastern Canada to the Gulf Coast, and
 in Europe from Scandinavia to the Mediterranean. Also reported from eastern Asia
 (Japan, Korea). The species parasitizes the root systems of hardwoods, especially
 oaks (*Quercus* spp.), but also beech (*Fagus*), maple (*Acer*), elm (*Ulmus*),
 and hickory (*Carya*). It fruits at the base of living trees, on stumps, or
-from buried roots, often in association with advancing brown rot of the heartwood.
+from buried roots, often in association with advancing [[comparison-brown-rot-vs-white-rot-bioremediation]] of the heartwood.
 Prefers mature hardwood forests on well-drained soils.
 
 ## Pathology
 
 *B. berkeleyi* is a **white-rot** fungus (contrary to older literature
-classifying it as a brown-rot agent — modern studies confirm white rot
+classifying it as a brown-rot agent — modern studies confirm [[comparison-white-rot-fungi-vs-trichoderma]]
 cellulose and [[grifola-frondosa]]*** (Maitake) — Superficially similar multi-shelf
   appearance but in Meripilaceae; different pore structure, no amyloid spores.
-- ***Meripilus giganteus*** (Giant Polypore) — Another massive root-rot
+- ***[[meripilus-giganteus]]*** (Giant Polypore) — Another massive root-rot
   polypore of hardwoods; pores bruise black, spores are non-amyloid.
-- [[agar]]
+- agar
 - [[decomposition]]

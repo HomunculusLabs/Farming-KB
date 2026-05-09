@@ -22,7 +22,7 @@ Spawn is the [[mycelial-growth-and-colonization]] on a chosen substrate material
 pure culture is used to inoculate new substrates under sterile
 conditions. For [[mycelium]] grows on the surface of a
   liquid nutrient medium.
-- **Submerged fermentation**: Mycelium grows throughout the liquid
+- **[[cancer-medicinal-mushrooms-submerged-fermentation-production]]**: Mycelium grows throughout the liquid
   medium. This method can be accomplished on an industrial scale
   (Fang et al., 1998), making it suitable for large-scale
   operations.
@@ -41,7 +41,7 @@ A variety of grains can serve as the substrate base for grain spawn:
 - Milo
 
 Grain spawn is widely used because grains provide excellent nutrition
-for mycelial growth and the individual grains allow for easy
+for [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and the individual grains allow for easy
 distribution throughout the substrate during inoculation. Millet-based
 spawn has been specifically noted for enabling very rapid spawn runs
 when used in sufficient quantity.
@@ -63,7 +63,7 @@ conditions where maitake colonizes wood.
 
 ## Obtaining Spawn vs. Ready-to-Fruit Blocks
 
-Growers have two options for starting [[mushroom-spawn]], including maitake. Contact information is as published in
+Growers have two options for starting mushroom-spawn, including maitake. Contact information is as published in
 the source material:
 
 ### North American Suppliers
@@ -89,7 +89,7 @@ mushroom grower in the United States, does not sell maitake spawn.
 ## Cultivation Bag Supplier
 
 Unicorn Imp. and Mfg. Corp. (Commerce, TX) is identified as a
-supplier of specialized mushroom cultivation bags with microfilter
+supplier of specialized [[accessible-mushroom-cultivation-for-disabilities]] bags with microfilter
 windows, essential for synthetic-log cultivation. Contact:
 1-800-888-0811 or www.unicornbags.com.
 
@@ -104,8 +104,8 @@ approximately one week.
 ## References
 
 Chen, A.W. (1999). A Practical Guide for Synthetic-Log Cultivation
-of Medicinal Mushroom Grifola frondosa (Maitake). International
-Journal of Medicinal Mushrooms, Vol. 1, pp. 153-167.
+of [[gourmet-medicinal-mushroom-casing-layer-techniques]] [[maitake-grifola-frondosa-comprehensive-profile]] (Maitake). International
+Journal of [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], Vol. 1, pp. 153-167.
 
 ## See Also
 

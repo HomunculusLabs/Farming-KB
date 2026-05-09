@@ -27,7 +27,7 @@ has become a major strategy in cancer therapy, and cannabinoids have
 demonstrated significant ability to disrupt this pathway.
 
 A pivotal 2004 study from Complutense University in Madrid examined the effects
-of THC, WIN55,212-2, and anandamide on brain cancer cells in both laboratory
+of THC, WIN55,212-2, and anandamide on [[blesching-cannabis-brain-cancer-glioblastoma]] cells in both laboratory
 and animal models. The results were striking: cannabinoids reduced VEGF gene
 expression, depressed VEGF pathways, decreased the production of VEGF, and
 decreased the activation of VEGF receptors in brain cancer cells. These
@@ -36,7 +36,7 @@ changes corresponded to significant reductions in tumor size in mice.
 This study demonstrated that cannabinoids attack tumors not only by directly
 killing cancer cells through [[blesching-cannabis-infectious-agents-cancer]], along with THC and synthetic cannabinoids like
 WIN55,212-2, all demonstrated the ability to reduce VEGF production and
-signaling through cannabinoid receptor pathways.
+signaling through [[cannabis-cannabinoid-receptor-pharmacology]] pathways.
 
 In brain cancer specifically, JWH-133 (a potent CB2 receptor agonist) induced
 considerable regression in the size of malignant tumors in mice. This finding
@@ -47,9 +47,9 @@ without the psychoactive effects associated with CB1 activation.
 
 Beyond directly targeting VEGF, cannabinoids influence the broader tumor
 microenvironment in ways that discourage angiogenesis. By reducing
-inflammation and modulating immune cell activity around tumors, cannabinoids
+inflammation and modulating [[mushroom-immune-cell-activation-mechanisms]] activity around tumors, cannabinoids
 create conditions less favorable for the formation of new blood vessels. The
-[[blesching-endocannabinoid-system-overview]] functions as an innate biological mechanism for suppressing cancer
+[[endocannabinoid-system-overview]] functions as an innate biological mechanism for suppressing cancer
 through multiple pathways including anti-angiogenesis. The body's own
 anandamide reduces VEGF signaling and tumor invasiveness, and plant cannabinoids
 can amplify this natural defense mechanism.
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

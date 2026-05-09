@@ -12,16 +12,16 @@ sources:
 
 Updated: 2026-04-18
 
-Steve Solomon argues that a well-designed vegetable garden can provide a significant portion of a family's nutritional needs, but that nutritional quality depends on soil mineral balance, variety selection, and growing methods. The decline in vegetable nutrition since 1870 is a central concern.
+Steve Solomon argues that a well-designed vegetable garden can provide a significant portion of a family's nutritional needs, but that [[coleman-winter-greens-nutritional-quality-cold-sweetening]] depends on soil [[holmgren-mineral-balance-soil-fertility]], variety selection, and [[mushroom-growing-methods-comparison]]. The decline in vegetable nutrition since 1870 is a central concern.
 
 ## The Decline of Vegetable Nutrition
 
 Solomon, drawing on the work of biophysicist Dr. Alan Kapuler, explains why modern vegetables are less nutritious than historical varieties:
 
 - For thousands of years, each family raised seed for its own unique varieties, selected over generations to suit the family's needs and tastes.
-- Nutritional quality varied between varieties. In the era before antibiotics and mass sanitation, children faced a gauntlet of childhood diseases. Families with more nutritious vegetable varieties tended to have children who survived to carry on those varieties.
+- Nutritional quality varied between varieties. In the era before antibiotics and mass sanitation, children faced a gauntlet of childhood diseases. Families with more nutritious [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] tended to have children who survived to carry on those varieties.
 - Good taste is an indicator of high nutrition -- humans naturally select for flavor.
-- After about 1870, the industrial revolution ended subsistence farming in Europe and North America. Farmers began selecting varieties for marketability (appearance, shipping quality, uniformity) rather than nutritional quality.
+- After about 1870, the industrial revolution ended subsistence farming in Europe and [[psilocybin-north-america-pacific-northwest]]. Farmers began selecting varieties for marketability (appearance, shipping quality, uniformity) rather than nutritional quality.
 - Modern hybrids and modern OP varieties bred after 1870 are generally not as nutritious as pre-industrial varieties.
 - Much of what passes for "heirloom" varieties today is actually degraded commercial seed that has been misnamed by unethical growers.
 
@@ -45,7 +45,7 @@ A vegetable garden alone cannot provide complete nutrition. Solomon recommends:
 - Growing calorie-dense crops (potatoes, sweet corn, beans, winter squash) as the foundation.
 - Including diverse leafy greens for vitamins and minerals.
 - Supplementing with animal protein or carefully selected plant protein sources.
-- Using complete organic fertilizer (COF) to ensure mineral balance in all crops.
+- Using complete [[complete-organic-fertilizer-cof-recipe-solomon]] (COF) to ensure mineral balance in all crops.
 
 ## Soil Mineral Balance and Nutrition
 
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

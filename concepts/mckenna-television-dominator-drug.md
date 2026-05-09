@@ -84,7 +84,7 @@ message, and the message is dominion.
 ## Statistical Dimensions of the Addiction
 
 McKenna cites alarming statistics to underscore the scale of television
-addiction in American society. In the United States, there are more televisions
+addiction in American society. In the [[dmt-containing-plants-united-states-halpern]], there are more televisions
 than households. The average television set is on six hours a day. The average
 person watches more than five hours per day, nearly one-third of their waking
 time. Aware as we all are of these simple facts, McKenna observes, we seem
@@ -114,7 +114,7 @@ hallucinogens. "Oops," responded the dominators, and they quickly made
 psychedelics illegal and halted all research. A "double dose of TV therapy plus
 cocaine" was ordered up for the errant hippies, and they were quickly cured and
 turned into consumption-oriented yuppies. Nearly everyone learned to love Big
-Brother. The few who did not are still clucked over by the dominator culture
+Brother. The few who did not are still clucked over by the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]
 each time it compulsively scratches in the barnyard dust of its puzzlement over
 "what happened in the Sixties."
 

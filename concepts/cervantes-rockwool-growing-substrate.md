@@ -1,5 +1,5 @@
 ---
-title: Rockwool as a Cannabis Growing Substrate
+title: Rockwool as a query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work Substrate
 created: 2026-04-26
 tags:
   - rockwool
@@ -10,14 +10,15 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Rockwool as a Cannabis Growing Substrate
 
-Rockwool is a widely used growing substrate in cannabis cultivation,
-particularly for seed germination, clone rooting, and hydroponic
+Rockwool is a widely used growing substrate in [[query-how-does-no-till-cannabis-cultivation-work]],
+particularly for [[cannabis-seed-germination-methods]], [[comparison-cannabis-clone-rooting-and-transplanting-vs-seed-germination]], and hydroponic
 growing systems. Made from basalt rock and limestone that is melted at
 high temperatures and spun into fibers, rockwool provides an inert,
 sterile, and well-aerated medium for plant roots.
@@ -58,7 +59,7 @@ them into the rockwool substrate. See [[cervantes-rooting-hormones-cloning]] for
 information. For complete cloning procedures, see [[cervantes-hydroponic-systems]] for detailed hydroponic system information.
 
 In these systems, rockwool blocks or containers are flooded with
-nutrient solution and then allowed to drain. Remember that rockwool
+[[cannabis-nutrient-solution-preparation]] and then allowed to drain. Remember that rockwool
 holds a lot of moisture, so irrigation frequency should be adjusted
 accordingly. Rockwool can also be used on air tables for specialized
 growing setups.
@@ -81,7 +82,7 @@ rockwool drains faster but holds less organic material. Compared to
 perlite, rockwool retains more water while still providing good
 aeration. See [[cervantes-ph-management-testing]].
 
-- **Salt buildup**: Rockwool can accumulate nutrient salts over time.
+- **[[cervantes-salt-buildup-leaching-management]]**: Rockwool can accumulate nutrient salts over time.
   Flush periodically with plain pH-adjusted water to prevent toxicity.
 
 ## Related Concepts

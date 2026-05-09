@@ -21,11 +21,11 @@ sources:
 
 # Psilocybe bohemica
 
-A psychoactive mushroom species found primarily in Central Europe, particularly the Czech Republic (Bohemia). Known for having the most intense bluing reaction of any psilocybin-containing species despite relatively low psilocin content. Named for the Bohemian region where it was first documented. See [[european-psilocybin-species]] for comparison with other European species and [[psilocybin-bluing-reaction]] for its unique biochemical properties.
+A psychoactive mushroom species found primarily in Central Europe, particularly the Czech Republic (Bohemia). Known for having the most intense [[field-guide-psilocybin-bluing-reaction-identification]] of any psilocybin-containing species despite relatively low psilocin content. Named for the Bohemian region where it was first documented. See [[european-psilocybin-species]] for comparison with other European species and [[psilocybin-bluing-reaction]] for its unique biochemical properties.
 
 ## Taxonomy and Discovery
 
-Originally described from specimens collected near Sázava, Bohemia (Czech Republic). The species was confirmed as distinct from *Psilocybe cyanescens* through cross-breeding experiments — mycelia from *P. bohemica* and *P. cyanescens* (US collections) cannot be fused together, proving they are separate species.
+Originally described from specimens collected near Sázava, Bohemia (Czech Republic). The species was confirmed as distinct from *[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]* through cross-breeding experiments — mycelia from *P. bohemica* and *P. cyanescens* (US collections) cannot be fused together, proving they are separate species.
 
 ## Identification
 
@@ -42,7 +42,7 @@ Successfully cultivated by [[jochen-gartz]] on damp rice substrate. Key findings
 - Cultivated specimens appeared **much hardier** than wild-collected fruiting bodies
 - Some cultivated specimens developed **two annular rings** — unusual for the species
 - Fruitng required exposure to **cold temperature shock** to trigger
-- Mycelial growth rate is faster than *Psilocybe semilanceata* but comparable to *Gymnopilus purpuratus*
+- Mycelial growth rate is faster than *[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]* but comparable to *[[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]]*
 
 ## Psychoactive Properties
 
@@ -69,7 +69,7 @@ Detailed observations from the type locality near Poricko v Pozavi, Sázava Rive
 
 ### Prague Experiments (Gartz, 1980s)
 
-Controlled clinical trials in Prague documented the species' psychoactive effects:
+Controlled [[mushroom-cancer-clinical-trials-overview]] in Prague documented the species' psychoactive effects:
 
 - **Standard dose**: ~30 mg psilocybin in mushroom tissue prepared in hot water, onset within 10 minutes
 - **Effects profile**: Initial somatic effects (leg tingling, underarm tingling), deeper breathing, fits of laughter from unusual cognitive associations, growing hyperacuity interfering with music perception (Vivaldi's "Springtime" caused "painful stabs inside the brain")
@@ -86,5 +86,5 @@ Controlled clinical trials in Prague documented the species' psychoactive effect
 
 - [[european-psilocybin-species]] — Other European psychoactive mushroom species
 - [[psilocybin-bluing-reaction]] — Detailed biochemistry of the bluing phenomenon
-- [[psilocybin-mushroom-chemistry]] — Global distribution of psychoactive species
+- [[psilocybin-mushroom-chemistry]] — [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] of psychoactive species
 - [[jochen-gartz]] — Researcher who studied and cultivated this species

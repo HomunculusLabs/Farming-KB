@@ -30,7 +30,7 @@ In nature, rice grain ripens in autumn and falls to the ground as the plant with
 
 - **Bird predation**: Sparrows and other birds consume the vast majority of fallen grain
 - **Rodent predation**: Mice and other rodents eat seed from the ground
-- **Disease**: Fungal and bacterial infections destroy seed during winter months
+- **Disease**: Fungal and [[blesching-cannabis-bacterial-infections]] destroy seed during winter months
 - **Rotting**: Excessive moisture causes seed to decompose before germination
 - **Frost damage**: In colder areas, freezing temperatures kill the embryo
 
@@ -48,7 +48,7 @@ The challenge was to find a way to protect seed that worked with nature rather t
 
 After more than ten years of experimentation, Fukuoka developed a protectant consisting of a mixture of pesticide and synthetic resin with which to coat rice seed. This coating protected seeds against winter damage by rodents and other pests. The resin formed a physical barrier that prevented rodents from detecting and consuming the seed, while the pesticide component protected against fungal and insect damage.
 
-While effective, this solution remained dependent on chemical inputs, which contradicted the principles of natural farming. Fukuoka continued seeking a method that would eliminate even this minimal use of pesticides.
+While effective, this solution remained dependent on chemical inputs, which contradicted the principles of [[cho-loess-powder-in-natural-farming]]. Fukuoka continued seeking a method that would eliminate even this minimal use of pesticides.
 
 ## Final Solution: Clay Pellets
 
@@ -60,7 +60,7 @@ Fukuoka ultimately developed the clay pellet method — enclosing rice seed in p
 
 **Refined single-seed method**: Place the seed moistened with water in a bamboo basket or mixer. Sprinkle with clay powder while spraying water mist with an atomizer and moving the basket in a swirling motion. The seeds become coated with clay and grow larger, forming small pellets a quarter to half inch in size.
 
-**Large-scale production**: A concrete mixer can be used when preparing a large quantity of pellets. This mechanized approach maintains the same basic principle while scaling up for larger operations.
+**Large-scale production**: A [[clay-seed-pellet-production-method-concrete-mixer]] can be used when preparing a large quantity of pellets. This mechanized approach maintains the same basic principle while scaling up for larger operations.
 
 ### How Clay Pellets Work
 
@@ -124,15 +124,15 @@ The clay pellet exemplifies Fukuoka's approach to natural farming: working withi
 
 The clay is not a fertilizer or a chemical treatment — it is simply earth, the same material the seed would encounter in the soil. The technique adds nothing foreign to the ecosystem. It merely gives the seed the physical protection that wild plants evolved through natural selection but that cultivated rice has lost through breeding.
 
-This principle — using minimal, natural interventions to bridge the gap between cultivated plants and wild conditions — runs throughout Fukuoka's farming method. The clay pellet for rice seed, the clover ground cover for weed management, the straw mulch for soil protection — all are examples of the same approach: simple, local, natural materials used to create conditions where natural processes can take over.
+This principle — using minimal, natural interventions to bridge the gap between cultivated plants and wild conditions — runs throughout Fukuoka's farming method. The clay pellet for rice seed, the clover ground cover for weed management, the straw mulch for soil protection — all are examples of the same approach: simple, local, [[building-with-natural-materials]] used to create conditions where natural processes can take over.
 
 ## Legacy and Spread
 
-The clay pellet technique has become one of the most widely known practices associated with Fukuoka's natural farming. It has been applied far beyond rice cultivation — used for direct seeding of vegetables, grains, and tree seeds in natural farming and reforestation projects worldwide. The method played a central role in Fukuoka's desert greening projects, where clay pellets protected seeds from desiccation and animal predication in arid environments.
+The clay pellet technique has become one of the most widely known practices associated with Fukuoka's natural farming. It has been applied far beyond rice cultivation — used for [[clay-seed-pellets-direct-seeding]] of vegetables, grains, and tree seeds in natural farming and reforestation projects worldwide. The method played a central role in Fukuoka's desert greening projects, where clay pellets protected seeds from desiccation and animal predication in arid environments.
 
 ## See Also
 
 - [[fukuoka-textdoc-rice-seed-overwintering-biennial-cultivation-discovery]]
-- fukuoka textdoc clay pellet seed coating direct seeding
+- [[fukuoka-textdoc-absence-no-fertilizer-tests]] clay pellet seed coating direct seeding
 - [[fukuoka-textdoc-perennial-rice-biennial-cultivation-exploration]]
 - [[natural-farming]]

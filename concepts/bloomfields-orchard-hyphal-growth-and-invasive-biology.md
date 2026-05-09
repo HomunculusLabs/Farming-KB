@@ -26,14 +26,14 @@ sources:
 Hyphae are the fundamental cellular units of most fungi:
 microscopic tubes that extend at their tips, branch
 repeatedly, and form networks called mycelia.
-Invasive growth by filamentous hyphae is a uniquely
+[[fungal-hyphae-invasive-growth-mechanisms]] by filamentous hyphae is a uniquely
 fungal capability that allows these organisms to
 penetrate the toughest plant tissues, animal skin,
 bone, and even granite bedrock.
 A fungus that normally infects rice leaves will punch
 holes through bulletproof vest material in its futile
 search for nourishment. This invasive power makes
-fungal pathogens among the most destructive organisms
+[[bloomfield-fungal-pathogens-and-parasites]] among the most destructive organisms
 in agriculture and medicine.
 
 ## Hyphal Architecture
@@ -51,7 +51,7 @@ World's Largest Organism, outclassing quaking aspen
 colonies in terms of living mass.
 When food is plentiful, mycelia adopt a torus shape,
 spreading outward and leaving dead cells at their core,
-producing fairy rings. Within the mycelium, nutrient
+producing [[bloomfield-fairy-rings-armillaria-giant-fungi]]. Within the mycelium, nutrient
 absorption in some regions stimulates growth toward
 food-rich areas.
 The fungus transports water and nutrients between
@@ -134,13 +134,15 @@ tension to emerge. By collaborating to form a mushroom,
 millions of cells each exerting micronewtons can crack a
 ## Related Concepts
 
-- Fungal Biology and Ecology
-- Spore Discharge Mechanisms in Fungi
+- [[bloomfield-fungal-biology-and-hyphal-growth]] and Ecology
+- Spore [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]] in Fungi
 - Fungal Pathogens and Human Disease
-- Gasteromycetes and Stinkhorn Fungi
+- [[bloomfields-orchard-gasteromycetes-and-stinkhorn-fungi]] Fungi
 
 ## See Also
 
-- [[mr-bloomfields-fungal-sexual-reproduction-and-pheromone-signaling]]
+- mr-bloomfields-fungal-sexual-reproduction-and-pheromone-signaling
 - [[magnaporthe-grisea]]
 - [[mycorrhiza]]
+- [[bloomfield-fungal-biology-and-hyphal-growth]]
+- [[hyphal-growth-dynamics]]

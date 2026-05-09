@@ -5,7 +5,8 @@ updated: 2026-04-15
 type: concept
 tags: [gardening, organic-gardening]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Mycological Landscaping and Gardening with Fungi
 
@@ -13,7 +14,7 @@ Paul Stamets advocates for integrating fungi into garden and landscape design, a
 
 ## The Concept of Mycogardening
 
-Mycorestoration practices can be implemented at the garden scale through "mycogardening" -- the intentional cultivation of fungal communities in designed landscapes. The early introduction of primary saprophytes, which are among the first organisms to rejuvenate the food chain, can determine the course of biological communities through thoughtfully matching mycelia with compatible plants, insects, and other organisms.
+Mycorestoration practices can be implemented at the garden scale through "mycogardening" -- the intentional cultivation of [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] in designed landscapes. The early introduction of primary saprophytes, which are among the first organisms to rejuvenate the food chain, can determine the course of biological communities through thoughtfully matching mycelia with compatible plants, insects, and other organisms.
 
 ## The Rhododendron Garden Model
 
@@ -40,26 +41,28 @@ Key parameters:
 
 Stamets recommends specific fungal companions for landscape settings:
 
-- **Garden giants** (Stropharia rugosoannulata): ideal for garden beds, pathways, and [[mycoremediation-stamets-approach]].
-- **Turkey tails** (Trametes versicolor): multibeneficial polypores that fight bacteria, prevent blights, and break down toxic chemicals like PCBs and dioxins.
-- **Woodlovers** (Hypholoma species): colonize wood chips in pathways and garden borders. Hypholoma capnoides is edible, while H. fasciculare is beautiful though poisonous.
-- **Reishi** (Ganoderma lucidum): for medicinal landscapes, reishi can be cultivated on stumps and buried logs. See [[permaculture-zones-and-sectors]]:
+- **Garden giants** (Stropharia rugosoannulata): ideal for garden beds, pathways, and mycoremediation-stamets-approach.
+- **Turkey tails** ([[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]): multibeneficial polypores that fight bacteria, prevent blights, and break down toxic chemicals like PCBs and dioxins.
+- **Woodlovers** (Hypholoma species): colonize wood chips in pathways and garden borders. [[growing-gourmet-hypholoma-capnoides-cultivation]] is edible, while H. fasciculare is beautiful though poisonous.
+- **Reishi** ([[stamets-reishi-ganoderma-lucidum-cultivation]]): for medicinal landscapes, reishi can be cultivated on stumps and buried logs. See [[permaculture-zones-and-sectors]]:
 
-- **Zone 1** (immediate surroundings): medicinal mushrooms like reishi on stumps near the house; small oyster mushroom buckets for kitchen waste decomposition.
+- **Zone 1** (immediate surroundings): [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] like reishi on stumps near the house; small oyster mushroom buckets for kitchen waste decomposition.
 - **Zone 2** (home garden): garden giant beds in pathways and between garden rows; [[soil-food-web-structure]] enhancement.
 - **Zone 4** (managed forest): wood chip trails inoculated with Hypholoma and Stropharia; [[mycorestoration-ecology]].
 
 ## See Also
 
-- [[mushroom-cultivation-for-gardeners]] -- cultivation techniques
-- [[mushroom-substrates]] -- substrate materials
+- mushroom-trails-and-mycological-landscaping
+
+- mushroom-cultivation-for-gardeners -- cultivation techniques
+- [[mushroom-substrates]] -- [[growing-gourmet-substrate-materials-wood-types]]
 - [[soil-food-web-structure]] -- soil biology context
 - [[outdoor-mushroom-bed]] -- outdoor bed techniques
 - [[permaculture-zones-and-sectors]] -- permaculture integration
 
 ## Related
 
-- [[fungal-chromogens-and-color-change]]
+- fungal-chromogens-and-color-change
 ## Practical Considerations
 
 Successful implementation of Mycological Landscaping and Gardening with Fungi requires attention to
@@ -78,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: Energy Efficiency in Natural Farming
+title: Energy Efficiency in comparison-natural-farming-vs-permaculture
 created: 2026-05-06
 tags:
 type: concept
@@ -19,7 +19,7 @@ sources:
 Energy efficiency is one of the most compelling arguments for natural
 farming, as articulated by Masanobu Fukuoka. When the full energy
 accounting is done, including fossil fuel inputs for mechanization,
-chemical fertilizers, and pesticides, scientific agriculture reveals
+[[cervantes-chemical-fertilizers-guide]], and pesticides, [[fukuoka-critique-scientific-agriculture-civilization]] reveals
 itself as profoundly wasteful compared to methods that rely on natural
 biological processes.
 
@@ -73,7 +73,7 @@ inputs, which further degrade the land, requiring still more intervention.
 
 ## Livestock Energy Conversion Ratios
 
-Energy inefficiency extends deeply into livestock production. Raising one
+[[fukuoka-livestock-energy-inefficiency-caloric-cost]] extends deeply into livestock production. Raising one
 yellowtail to marketable size requires ten times its weight in sardines.
 A silver fox consumes ten times its weight in rabbit meat. The energy
 conversion ratios for major livestock are:
@@ -85,13 +85,13 @@ conversion ratios for major livestock are:
 
 Raising beef cattle reduces recoverable food energy from land tenfold.
 People who eat beef consume ten times as much energy as those on a
-rice-based diet. Modern livestock farming, raising cattle in indoor stalls
+rice-based diet. Modern [[fukuoka-textdoc-natural-livestock-farming-open-grazing]], raising cattle in indoor stalls
 with feed grain shipped from overseas, has helped deplete foreign soils
 while providing an energy-inefficient food source.
 
 ## The Paradox of Improved Breeds
 
-The Japanese Bantam chicken allowed to roam freely lays one small egg
+The [[fukuoka-textdoc-japanese-bantam-leghorn-calorie-efficiency-chicken]] chicken allowed to roam freely lays one small egg
 every other day, yet a breeding pair allowed to nest naturally will hatch
 a clutch and grow into a flock of ten or twenty within a year, producing
 many times the eggs of any confined White Leghorn. The Bantams are
@@ -129,6 +129,8 @@ The labor of one or two people is sufficient. Human effort is unnecessary
 because nature, not man, grows the rice and wheat.
 
 ## See Also
+
+- [[energy-efficiency-farming-systems-comparison]]
 
 - [[chos-global-natural-farming-input-reduction-methods]]
 - [[natural-farming-imo-collection-and-cultivation]]

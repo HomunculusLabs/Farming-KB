@@ -95,10 +95,10 @@ cannot be ruled out
 - The contrast between pyr-T's benign effects and its hydroxylated/methoxylated
 analogues' negative effects suggests unpredictable pharmacology in this series
 
-- Standard tryptamine precautions apply: avoid MAO inhibitors, SSRIs, and other
+- Standard tryptamine precautions apply: avoid [[mao-inhibitors-and-psychedelics]], SSRIs, and other
 serotonergic medications
 
-- The compound has not been evaluated for chronic toxicity or drug interactions
+- The compound has not been evaluated for chronic toxicity or [[cannabis-drug-interactions-and-contraindications]]
 
 ## Legal Status
 

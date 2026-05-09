@@ -13,12 +13,12 @@ sources:
   - Swinscow, T.D.V. & Krog, H. (1988). "Macrolichens of East Africa." British Museum (Natural History).
   - Goward, T. (1999). "The Lichens of British Columbia: Part 2." Ministry of Forests.
   - McCune, B. & Geiser, L. (2009). "Macrolichens of the Pacific Northwest." Oregon State University Press.
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). "Lichens of [[psilocybin-north-america-pacific-northwest]]." Yale University Press.
 ---
 
 ## Overview
 
-**Sticta sylvatica**, commonly known as the tree lungwort or felt lichen, is a large foliose cyanolichen in the family Stictaceae. It is widely distributed in temperate and boreal forests of the Northern Hemisphere, where it grows primarily on the bark of deciduous trees.
+**Sticta sylvatica**, commonly known as the tree lungwort or felt lichen, is a large foliose cyanolichen in the family Stictaceae. It is widely distributed in temperate and [[fungal-diversity-boreal-forests-taiga]] of the Northern Hemisphere, where it grows primarily on the bark of deciduous trees.
 
 The species is a tripartite lichen, associating with both a green algal photobiont (*Symbiochloris* or *Dictyochloropsis* sp.) and the cyanobacterium *Nostoc* sp. housed in conspicuous cephalodia on the lower surface of the thallus.
 
@@ -34,7 +34,7 @@ The thallus is large, 8–25 cm in diameter, with broad, rounded lobes 2–6 cm 
 
 The lower surface is pale brown to tan with a smooth to slightly wrinkled cortex. Cyphellae are abundant, appearing as small circular pores 0.3–1 mm in diameter. These structures facilitate gas exchange and water vapor release.
 
-Cephalodia are dark brown to black, warty to gall-like structures on the lower surface, 1–5 mm in diameter. They contain the cyanobacterial partner *Nostoc* and are the sites of nitrogen fixation.
+Cephalodia are dark brown to black, warty to gall-like structures on the lower surface, 1–5 mm in diameter. They contain the cyanobacterial partner *Nostoc* and are the sites of [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 
 Apothecia are produced on the upper surface of lobes. They are reddish-brown, 1–4 mm in diameter, with a concave disc that becomes plane with age. Spores are colorless, ellipsoid, and multiseptate.
 
@@ -54,7 +54,7 @@ In the Pacific Northwest of North America, *S. sylvatica* reaches its greatest a
 
 *Sticta sylvatica* reproduces both sexually through ascospores and vegetatively through isidia and soredia. Vegetative diaspores are the primary mode of local dispersal, allowing colonization of nearby suitable substrates.
 
-Sexual reproduction produces ascospores that must encounter compatible algal and cyanobacterial partners to form a new lichen thallus. This requirement makes successful establishment from spores a relatively rare event.
+[[fungal-life-cycles-sexual-reproduction-metamorphosis]] produces ascospores that must encounter compatible algal and cyanobacterial partners to form a new lichen thallus. This requirement makes successful establishment from spores a relatively rare event.
 
 ## Symbiosis and Physiology
 
@@ -68,7 +68,7 @@ Cyphellae on the lower surface are specialized pores that regulate gas exchange.
 
 ## Ecology
 
-*Sticta sylvatica* contributes to forest nitrogen cycling through its cephalodial nitrogen fixation. In old-growth forests with abundant cyanolichen communities, lichen-derived nitrogen can represent a significant input to the ecosystem nitrogen budget.
+*Sticta sylvatica* contributes to forest [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] through its cephalodial nitrogen fixation. In old-growth forests with abundant cyanolichen communities, lichen-derived nitrogen can represent a significant input to the ecosystem nitrogen budget.
 
 The lichen provides microhabitat for diverse invertebrate communities. Tardigrades, mites, and springtails colonize the thallus, using its moisture-retaining structure as shelter and feeding on associated microbial communities.
 
@@ -80,7 +80,7 @@ As an epiphyte, *S. sylvatica* does not parasitize its host tree. However, heavy
 
 Habitat loss through logging is the primary threat. The species' dependence on old-growth conditions means that second-growth forests typically do not support viable populations for decades or centuries after disturbance.
 
-Climate change poses an additional threat through altered precipitation patterns and increased drought frequency. As a highly moisture-dependent species, *S. sylvatica* may be outcompeted by more drought-tolerant lichens as conditions become drier.
+[[dighton-fungi-climate-change-feedback]] poses an additional threat through altered precipitation patterns and increased drought frequency. As a highly moisture-dependent species, *S. sylvatica* may be outcompeted by more drought-tolerant lichens as conditions become drier.
 
 The species has been used in biomonitoring programs to assess air quality and forest health. Its presence reliably indicates low levels of sulfur dioxide and other phytotoxic air pollutants.
 

@@ -14,14 +14,14 @@ type: query
 The Johnson-Su bioreactor is a passive, aerobic composting system designed by Dr. David Johnson and Hui-Chun Su that
 produces fungal-dominated compost teeming with diverse microbial communities. Unlike traditional hot composting that
 favors bacteria, the Johnson-Su method operates at lower temperatures over a longer period of 6 to 12 months, creating
-compost that dramatically improves soil aggregation, water retention, and plant nutrient availability.
+compost that dramatically improves soil aggregation, water retention, and plant [[ph-and-nutrient-availability-garden-soils]].
 
 ## What Is the Johnson-Su Bioreactor
 
 The Johnson-Su bioreactor is essentially a perforated plastic pipe surrounded by a wire mesh cylinder, packed with a
 carefully formulated mixture of organic materials and kept consistently moist through drip irrigation. The system relies
 on passive aeration through the central pipe rather than mechanical turning, creating a stable environment where
-beneficial fungi can thrive alongside a diverse bacterial community.
+beneficial fungi can thrive alongside a diverse [[core-endorhiza-bacterial-community-composition-cannabis]].
 
 The [[biointensive-composting]] approach recommends a carbon-to-nitrogen ratio starting between 25:1 and 30:1. Achieving
 this balance is important because too much nitrogen creates anaerobic conditions and foul odors, while too little
@@ -50,8 +50,8 @@ tarp or plastic sheet, leaving the central chimney pipe open for air circulation
 ## The Composting Process
 
 During the first few weeks, the pile will heat up as thermophilic bacteria begin breaking down the most readily
-available organic compounds. Internal temperatures typically reach 100 to 130 degrees Fahrenheit, which is significantly
-lower than the 140 to 160 degrees common in traditional hot composting. This lower temperature range is intentional and
+available [[fungal-volatile-organic-compounds-communication]]. Internal temperatures typically reach 100 to 130 degrees Fahrenheit, which is significantly
+lower than the 140 to 160 degrees common in traditional hot composting. This lower [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] is intentional and
 critical for preserving fungal diversity.
 
 After the initial heating phase subsides, typically within 2 to 4 weeks, the pile enters a mesophilic phase where
@@ -68,13 +68,13 @@ Research and farmer reports consistently show dramatic improvements in soil heal
 application. Soils become more friable and easier to work, develop stronger aggregate structure, show increased water
 infiltration rates, and support more diverse earthworm and microarthropod populations.
 
-Crop responses include improved seedling vigor, enhanced drought tolerance, reduced disease pressure, and in many cases
+Crop responses include improved seedling vigor, enhanced [[dighton-fungal-drought-tolerance-plant-water-relations]], reduced disease pressure, and in many cases
 increased yields of 15 to 30 percent compared to unamended controls. Perennial crops, pastures, and tree crops tend to
 show the most pronounced responses because their root systems benefit most from the mycorrhizal and fungal relationships
 fostered by this compost.
 
 The carbon sequestration potential of Johnson-Su compost is one of its most significant benefits in the context of
-climate change. The fungal-dominated compost promotes the formation of stable soil organic matter fractions that persist
+[[dighton-fungi-climate-change-feedback]]. The fungal-dominated compost promotes the formation of stable soil organic matter fractions that persist
 for decades to centuries, unlike the rapidly cycling carbon from bacterial composts or synthetic fertilizers. Regular
 application builds soil carbon stocks while simultaneously improving crop productivity.
 

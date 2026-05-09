@@ -1,13 +1,12 @@
 ---
-title: "Fungal Herbarium Collections Management"
+title: "biodiversity fungal herbarium collections Collections Management"
 created: 2026-04-28
-tags: [[mycology, herbarium, specimen-management, fungal-taxonomy, biodiversity]
+tags: [mycology, herbarium, specimen-management, fungal-taxonomy, biodiversity]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 type: concept
 ---
-
 # [[staycare-ecotoxicological-assessment-of-fungal-bioremediation]] diversity, distribution, and
 morphology. They are essential infrastructure for [[turner-harmala-alkaloids-preparation-and-dosage]] Preservation
 
@@ -98,6 +97,6 @@ revision for future interoperability.
 ## Uses Beyond Taxonomy
 
 Herbarium specimens serve purposes beyond systematic research. They
-document [[fungal-diversity-extreme-environments]] at particular places and times, relevant
-to conservation and climate change studies. They serve as sources for
+document fungal-diversity-extreme-environments at particular places and times, relevant
+to conservation and [[dighton-fungi-climate-change-feedback]] studies. They serve as sources for
 ethnological, medical, and pharmaceutical research. As databases and

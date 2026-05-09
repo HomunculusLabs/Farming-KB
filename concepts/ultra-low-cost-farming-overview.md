@@ -42,8 +42,8 @@ ULC farming is built on three philosophical pillars derived from observing natur
 The core economic argument of ULC farming is that farmers should not need money to farm. Historically, a person with no means of living could at least survive off the land. Today, one must already have money in order to farm. JADAM reverses this by teaching farmers to make all necessary inputs themselves:
 
 - **Fertilizers**: Liquid fertilizers from crop residues, wild grass, food waste, and even human manure
-- **Pesticides**: Natural pesticides from locally available herbs, oils, and minerals
-- **Microorganisms**: Indigenous microorganism solutions collected from local leaf mold
+- **Pesticides**: [[jadam-pest-control-with-natural-pesticides-jhs]] from locally available herbs, oils, and minerals
+- **Microorganisms**: [[knf-indigenous-microorganism-culture]] solutions collected from local leaf mold
 - **Wetting agents**: Environment-friendly surfactants from canola oil and caustic potash
 
 JADAM has demonstrated that it is possible to prepare pesticide and fertilizer at approximately $100 per acre (0.4 ha) per year, compared to the $6,000 average for conventional organic farming.
@@ -78,13 +78,13 @@ Both are unpatented and openly shared so all farmers can benefit.
 
 ## Transitioning to Ultra-Low-Cost Farming
 
-JADAM recommends a gradual transition rather than an abrupt shift from conventional to organic farming. Begin by applying ULC methods to one-tenth of your total cropland. Master soil management and fertilizer application basics first, then learn more advanced pest control methods. Expand the proportion of organic land as confidence grows.
+JADAM recommends a gradual transition rather than an abrupt shift from conventional to organic farming. Begin by applying ULC methods to one-tenth of your total cropland. Master soil management and [[cervantes-fertilizer-application-strain-feeding]] basics first, then learn more advanced pest control methods. Expand the proportion of organic land as confidence grows.
 
 Before transitioning, farmers should honestly assess their readiness:
 
 - Can you manage soil microbial changes without chemical crutches?
 - Have you solved soil compaction problems?
-- Do you trust wild grass as organic fertilizer?
+- Do you trust wild grass as [[complete-organic-fertilizer-cof-recipe-solomon]]?
 - Can you formulate appropriate fertilizer programs for each crop?
 - Can you control aphids, mites, and powdery mildew with natural methods?
 - Are you confident that yield and quality will not decrease?
@@ -103,7 +103,7 @@ The ULC approach is particularly relevant in an era of global free trade in agri
 
 JADAM builds on a long Korean tradition of organic farming spanning over 4,000 years. Before the introduction of chemical agriculture in the 1960s, all farming households kept cows, pigs, or chickens with completely self-sufficient feed systems. Animal manure was valued as fertilizer. Farming was done without money — everything needed was available nearby. The introduction of "modern" chemical methods devastated this traditional system, contaminating land and waters with synthetic inputs while creating dependency on purchased products.
 
-Hankyu Cho, who pioneered Natural Farming in Korea starting from his demonstration farm in 1965, developed inputs including indigenous microorganisms, fermented plant juice, lactic acid bacteria, natural calcium, and natural phosphorus. His son Youngsang Cho founded JADAM in 1991 and advanced the system further, particularly with the inventions of JADAM Wetting Agent and JADAM Sulfur, making it possible to produce all farming inputs at home from locally available, inexpensive materials.
+Hankyu Cho, who pioneered Natural Farming in Korea starting from his demonstration farm in 1965, developed inputs including indigenous microorganisms, [[bionutrients-lab-fermented-plant-juice-fpj]], lactic acid bacteria, natural calcium, and natural phosphorus. His son Youngsang Cho founded JADAM in 1991 and advanced the system further, particularly with the inventions of JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]] JADAM Sulfur, making it possible to produce all farming inputs at home from locally available, inexpensive materials.
 
 ## See Also
 

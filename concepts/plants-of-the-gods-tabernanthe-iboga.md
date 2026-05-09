@@ -1,5 +1,5 @@
 ---
-title: Tabernanthe Iboga - The African Hallucinogen
+title: plants-of-the-gods-tabernanthe-iboga-chemistry - The African Hallucinogen
 created: 2026-04-28
 tags:
   - iboga
@@ -21,11 +21,11 @@ holds a position of paramount cultural and spiritual importance
 among the peoples of Gabon, the Congo, and Cameroon, where it
 serves as the central sacrament of the Bwiti religion. The plant
 has been described as a "plant of the gods" in every sense, and
-its use continues to grow [[psilocybe-mushroom-species-guide]]s and [[plants-of-the-gods-psilocybe-species-teonanacatl]]
+its use continues to grow psilocybe-mushroom-species-guides and [[plants-of-the-gods-psilocybe-species-teonanacatl]]
 - [[plants-of-the-gods-banisteriopsis-ayahuasca]]
 ## Practical Applications
 
-Tabernanthe Iboga - The African Hallucinogen has a range of practical applications that make it relevant to
+[[plants-of-the-gods-tabernanthe-iboga-chemistry]] - The African Hallucinogen has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -40,7 +40,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -90,7 +90,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -100,4 +100,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

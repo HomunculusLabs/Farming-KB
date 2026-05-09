@@ -5,7 +5,8 @@ updated: 2026-04-16
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Cannabis for Stroke Recovery
 
@@ -20,7 +21,7 @@ Stroke (cerebrovascular accident, CVA) is a medical emergency in which blood flo
 
 - **Ischemic stroke:** Blockage of blood flow to the brain (most common)
 - **Hemorrhagic stroke:** Rupture of blood vessels in the brain
-- Both involve oxidative stress, inflammation, and neuronal death
+- Both involve [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], inflammation, and neuronal death
 
 ## U.S. Government Patent on Cannabinoid Neuroprotection
 

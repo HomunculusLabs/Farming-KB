@@ -1,5 +1,5 @@
 ---
-title: The Sacred Mushroom — Amanita Muscaria Identification (Allegro)
+title: The allegro the sacred mushroom amanita identification — allegro-amanita-muscaria-properties-and-pharmacology Identification (Allegro)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -10,17 +10,17 @@ sources:
 
 # The Sacred Mushroom — Amanita Muscaria Identification
 
-Allegro identifies the Amanita muscaria (fly agaric) as the specific fungus at the center of ancient Near Eastern and Christian religion. This page details his identification, the mushroom's properties, and the evidence from comparative religion.
+Allegro identifies the Amanita muscaria (fly agaric) as the specific fungus at the center of [[allegro-fertility-philosophy-of-the-ancient-near-east]] Eastern and Christian religion. This page details his identification, the mushroom's properties, and the evidence from comparative religion.
 
 ## Why Amanita Muscaria?
 
 Several characteristics make the Amanita muscaria the most likely candidate for the "sacred mushroom" of antiquity:
 
 1. **Striking appearance**: The bright red cap with white warts is among the most recognizable organisms in nature — impossible to overlook and naturally inspiring awe
-2. **Psychoactive properties**: Contains ibotenic acid and muscimol, producing altered states of consciousness including visions, euphoria, and feelings of transcendence
+2. **Psychoactive properties**: Contains [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] and muscimol, producing [[weil-the-natural-mind-altered-states-normalcy]] of consciousness including visions, euphoria, and feelings of transcendence
 3. **Wide distribution**: Found across the northern hemisphere in association with birch, pine, and spruce trees — present throughout the ancient Near East, Europe, and Asia
 4. **Toxic variability**: Different specimens contain wildly different concentrations of active compounds, making expert knowledge essential — naturally restricting use to trained specialists (priests)
-5. **Life cycle**: Emerges rapidly after rain, expands to full size in hours, and dries to a durable form — a dramatic natural demonstration of "death and resurrection"
+5. **Life cycle**: Emerges rapidly after rain, expands to full size in hours, and dries to a durable form — a dramatic natural demonstration of "[[allegro-death-and-resurrection-in-the-mushroom-cult]]"
 
 ## Physical Description in Ancient Terms
 
@@ -68,7 +68,7 @@ Allegro's interpretation of death and resurrection mythology as mushroom-derived
 ## See Also
 - [[allegro-philological-methodology]]
 - [[allegro-fungal-iconography-in-ancient-art]]
-- [[controversy-sacred-mushroom-theory]]
+- controversy-sacred-mushroom-theory
 - [[allegro-death-and-resurrection-in-the-mushroom-cult]]
 ## Practical Considerations
 
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

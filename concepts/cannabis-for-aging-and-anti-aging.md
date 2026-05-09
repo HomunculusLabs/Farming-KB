@@ -19,7 +19,7 @@ Scientists do not yet fully understand the physiological mechanism of aging. Pro
 - Accumulation of toxins over time
 - Long-term effects of ionizing radiation
 - Changes in hormone profiles
-- Damage from free radicals (oxidative stress)
+- Damage from free radicals ([[blesching-cannabis-oxidative-stress-and-antioxidant-defense]])
 - Exposure to pathogens (parasites, fungi, bacteria, viruses)
 - Telomere shortening with each cell division and environmental toxin exposure
 - Accumulation of senescent (older) cells that cause chronic low-grade inflammation
@@ -42,7 +42,7 @@ A Mayo Clinic study found that typical aging signs were not observed in mice who
 
 A study from Columbus University, Ohio, discovered that the synthetic cannabinoid WIN55,212-2 can enhance cognition and produce anti-inflammatory effects in older rats. This effect has not yet been confirmed in humans.
 
-| Agent | Study Type | Key Results | CHI Score |
+| Agent | Study Type | Key Results | [[blesching-cannabis-chi-score-methodology]] |
 |-------|-----------|-------------|-----------|
 | WIN55,212-2 | Animal study | Anti-inflammatory and cognitive-enhancing effect in aged rats | 2 |
 
@@ -74,7 +74,7 @@ underlying mechanisms and their practical applications.
 
 ## Source
 
-Blesching, U. (2015). *The Cannabis Health Index*. Chapter IV: "Aging/Anti-Aging." North Atlantic Books.
+Blesching, U. (2015). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. Chapter IV: "Aging/Anti-Aging." North Atlantic Books.
 ## Practical Considerations
 
 Successful implementation of Cannabis for Aging and Anti-Aging requires attention to
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

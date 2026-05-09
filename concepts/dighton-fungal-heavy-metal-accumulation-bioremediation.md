@@ -37,7 +37,7 @@ biomass, while zinc ranges from 0.12 to 15.3 mmol per gram. Uranium
 uptake capacity ranges from 0.12 to 1.3 mmol per gram of biomass.
 
 In living fungal tissue, metal ion accumulation results from both
-metabolic uptake and cation exchange on appropriate binding sites. The
+metabolic uptake and [[mollison-designers-tropical-soils-and-cation-exchange-management]] on appropriate binding sites. The
 concentration of magnesium is positively related to the cation-exchange
 capacity of stipe tissue across basidiomycete fungal species. Zinc
 uptake by Penicillium notatum is competitively inhibited by cadmium and
@@ -55,7 +55,7 @@ measured by substrate-induced respiration. This suggests fungi are more
 sensitive to heavy metals than bacteria.
 
 Kuperman and Carreiro (1997) showed that total and fluorescein
-diacetate active (FDA) fungal biomass and enzyme activity was reduced in
+diacetate active (FDA) [[bioremediation-fungal-biomass-biosorbent-material]] and enzyme activity was reduced in
 heavy-metal-contaminated soils containing As, Cd, Cr, Cu, Ni, Pb, and
 Zn. The presence of heavy metals reduced activity of the enzymes
 N-acetylglucosaminidase, beta-glucosaminidase, endocellulase, and acid
@@ -92,15 +92,15 @@ implications for movement and toxicity within food chains.
 
 ## Mycorrhizal Interactions with Heavy Metals
 
-Within the mycorrhizal symbiosis, fungi may alter the rate at which
+Within the [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]], fungi may alter the rate at which
 pollutants enter host plants. The presence of a pollutant chemical
 within mycelium can change the chemical and physical state of the
 pollutant, making it more or less toxic to fungal consumers. Pollutants
 can be transferred up the food web by grazing of mycelium or fruiting
 structures, or released through death or leakiness of fungal mycelium.
 
-The wood-decaying fungus Phanerochaete chrysosporium has demonstrated
-ability to degrade toxic organic compounds by converting chlorine bound
+The wood-decaying fungus [[staycare-phanerochaete-chrysosporium-in-bioremediation]] has demonstrated
+ability to degrade toxic [[fungal-volatile-organic-compounds-communication]] by converting chlorine bound
 in organic form to harmless inorganic forms and degrading aromatic
 hydrocarbons to CO2 and water. From both metal ion accumulation and
 enzymatic competence perspectives, fungi have potential for detoxifying
@@ -113,11 +113,11 @@ employed in industrial processes for metal retrieval from effluent. Dead
 mycelium of Rhizopus arrhizus efficiently adsorbs a range of metal ions,
 though not alkali metals. The interaction between live fungal biomass and
 the relative availability of carbon, nitrogen, and phosphorus influences
-the solubility of heavy metals, showing that fungal metal binding is
+the solubility of heavy metals, showing that fungal [[chelation-and-metal-binding-in-plants]] is
 greatly influenced by environmental conditions.
 
 ## See Also
 
 - [[fungal-metal-transformations-biosorption]]
 - [[dighton-ectomycorrhizal-ecosystem-impact]]
-- [[mycoremediation-heavy-metals-detailed]]
+- [[mycoremediation-of-heavy-metals]]

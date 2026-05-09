@@ -1,5 +1,5 @@
 ---
-title: Spawn Production (Growing Gourmet & Medicinal Mushrooms)
+title: Spawn Production (Growing Gourmet & comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive)
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
@@ -12,11 +12,11 @@ sources:
 ---
 # Spawn Production
 
-Spawn production is the critical bridge between pure culture mycelium on agar and the bulk substrates on which mushrooms fruit. Paul Stamets provides exhaustive detail on grain spawn preparation, the grain master system (G1, G2, G3), inoculation techniques, and the expansion ratios that define successful spawn manufacturing.
+Spawn production is the critical bridge between pure culture mycelium on agar and the bulk substrates on which mushrooms fruit. Paul Stamets provides exhaustive detail on grain spawn preparation, the grain master system (G1, G2, G3), [[cotter-inoculation-techniques-and-hygiene]], and the expansion ratios that define successful spawn manufacturing.
 
 ## Purpose of Grain Spawn
 
-Grain spawn serves two functions: it is a vehicle for evenly distributing mycelium, and a nutritional supplement. Whole grain is used because each kernel becomes a mycelial capsule, a platform from which mycelium can leap into the surrounding expanse. Smaller kernels of grain provide more points of inoculation per pound of spawn. Millet, a small kernel grain, is used by many large spawn producers because end-users like its convenience. Most small-scale gourmet mushroom growers utilize organically grown rye or wheat grain.
+Grain spawn serves two functions: it is a vehicle for evenly distributing mycelium, and a nutritional supplement. Whole grain is used because each kernel becomes a mycelial capsule, a platform from which mycelium can leap into the surrounding expanse. Smaller kernels of grain provide more points of inoculation per pound of spawn. Millet, a small kernel grain, is used by many large spawn producers because end-users like its convenience. Most small-scale [[growing-gourmet-mushroom-dehydration-methods-equipment]] growers utilize organically grown rye or wheat grain.
 
 ## Grain Selection and Quality
 
@@ -76,7 +76,7 @@ Since the Grain Master is used to generate 100 to 1000 times its mass, special a
 
 ### Steps for Creating G1
 
-1. Visually ascertain the purity of a mushroom culture, selecting a petri dish culture showing greatest vigor. Ideally, the culture should be no more than two weeks old, with a margin of uncolonized media (~1/2 inch) along the inside peripheral edge to detect recently landed contaminants.
+1. Visually ascertain the purity of a [[mazatec-mushroom-culture-and-velada]], selecting a petri dish culture showing greatest vigor. Ideally, the culture should be no more than two weeks old, with a margin of uncolonized media (~1/2 inch) along the inside peripheral edge to detect recently landed contaminants.
 
 2. Open the pressure cooker in the laboratory clean room. Ideally, the pressure cooker has formed a vacuum in cooling. If not, outside air will be sucked in, potentially contaminating the recently sterilized jars. The pressure cooker should be placed in the clean room directly after the sterilization cycle.
 
@@ -123,7 +123,7 @@ The next generation of spawn jars is denoted as G2. Each Grain Master can inocul
 
 ## Spawn Bags
 
-Spawn generated in bags is far easier to use than from jars. Flat, non-gusseted bags are popular for incubating grain spawn. The more grain filled into a bag, the greater the danger of poor gas exchange. Three-dimensional gusseted bags are used primarily for holding supplemented sawdust. Bags contacting hot surfaces become elastic, deform, and fail. The industry uses polypropylene or polymethylpentene bags with and without microporous filters.
+Spawn generated in bags is far easier to use than from jars. Flat, non-gusseted bags are popular for incubating grain spawn. The more grain filled into a bag, the greater the danger of poor gas exchange. Three-dimensional gusseted bags are used primarily for holding [[oyster-mushroom-supplemented-sawdust-blocks]]. Bags contacting hot surfaces become elastic, deform, and fail. The industry uses polypropylene or polymethylpentene bags with and without microporous filters.
 
 ## Terminal vs. Propagation Spawn
 
@@ -131,7 +131,7 @@ Most spawn producers only select a portion of the spawn inventory for further pr
 
 ## Liquid Culture Alternative
 
-An alternative method for generating spawn is via Liquid Culture. This method saves time, money, and is less susceptible to contamination. Liquid inoculation techniques allow a much greater exponent of expansion than traditional grain-to-grain methods.
+An alternative method for generating spawn is via Liquid Culture. This method saves time, money, and is less susceptible to contamination. [[growing-gourmet-liquid-inoculation-fermentation]] techniques allow a much greater exponent of expansion than traditional grain-to-grain methods.
 
 ## Inoculation Rates for Substrate
 
@@ -139,9 +139,11 @@ An alternative method for generating spawn is via Liquid Culture. This method sa
 - Self-generated spawn: 8-15% rate of moist spawn to dry substrate
 - Higher spawning rates accelerate colonization, narrow the window of opportunity for competitor invasion, and boost yields
 - One major drawback of high spawning rates is increased thermogenesis
-
 ## See Also
+
+- [[growing-gourmet-shade-house-hoop-house-structures]]
+- [[sorghum-seed-spawn-production]]
 
 - [[growing-gourmet-oyster-cultivation]]
 - [[growing-gourmet-contamination-prevention]]
-- [[gourmet-mushroom-strain-selection]]
+- gourmet-mushroom-strain-selection

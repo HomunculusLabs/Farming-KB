@@ -1,5 +1,5 @@
 ---
-title: Cannabis Transplanting Guide
+title: green-cannabis-transplanting-root-bound-management Guide
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Cannabis Grow Bible, Greg Green (Ch. 5, 6)
+Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, Greg Green (Ch. 5, 6)
 
 Transplanting — moving a plant from a smaller container to a larger one — is a critical skill. Done properly, it promotes explosive root growth. Done poorly, it can stunt or kill the plant.
 
@@ -29,7 +29,7 @@ Transplanting — moving a plant from a smaller container to a larger one — is
 2. **Roots circling the surface**: You can see roots growing along the top of the soil
 3. **Rapid drying**: The container dries out much faster than it used to
 4. **Slowed growth**: Despite good conditions, growth has stalled
-5. **Plant size vs pot size**: The plant is clearly too large for its current container (e.g., plant is 2 feet tall in a 1-gallon pot)
+5. **Plant size vs [[query-how-to-choose-the-right-pot-size-for-cannabis]]**: The plant is clearly too large for its current container (e.g., plant is 2 feet tall in a 1-gallon pot)
 
 ### When NOT to Transplant
 

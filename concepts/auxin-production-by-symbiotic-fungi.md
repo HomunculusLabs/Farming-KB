@@ -1,5 +1,5 @@
 ---
-title: "Auxin Production by Symbiotic Fungi"
+title: "Auxin auxin production by symbiotic fungi Fungi"
 created: 2026-04-26
 tags: mycorrhiza, auxin, plant-hormones, fungal-physiology, root-development]
 date: 2026-04-25
@@ -13,8 +13,8 @@ type: concept
 
 ## Overview
 
-[[mycorrhizal-plant-signaling]]
-and the hormonal basis of [[symbiosis-in-fungi]].
+mycorrhizal-plant-signaling
+and the hormonal basis of symbiosis-in-fungi.
 
 ## Bioassay for IAA Detection
 
@@ -56,7 +56,7 @@ grows readily on artificial media and can colonise cruciferous plants
 including A. thaliana. For broader context on [[ectomycorrhizal-fungi]] forming symbioses with trees such as oaks
 and hazels, and some shrubs including Cistus spp. See [[truffle-cultivation-basics]] for further details on truffle biology.
 Production of IAA by
-ectomycorrhizal fungi is well-documented and may drive ectomycorrhiza
+[[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] is well-documented and may drive ectomycorrhiza
 genesis alongside other signalling molecules.
 
 Using the dual-medium bioassay, exudates of two truffle species (Tuber
@@ -83,7 +83,7 @@ The production of auxin by symbiotic fungi may serve several functions:
 
 Bioassays provide an indication of auxin-like activity but cannot be
 considered definitive proof of IAA production, because other substances
-may cause similar root morphological effects, or inhibiting compounds may
+may cause similar root [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], or inhibiting compounds may
 interfere with auxin action. Chemical quantification by HPLC-MS/MS is
 necessary to confirm IAA production and determine its concentration.
 
@@ -99,7 +99,7 @@ necessary to confirm IAA production and determine its concentration.
 
 For testing culture filtrates or extracted compounds:
 
-1. Apply fungal culture filtrate or extract to filter paper discs
+1. Apply [[biodiversity-fungal-culture-preservation]] filtrate or extract to filter paper discs
 2. Place discs on MSK agar seeded with Arabidopsis
 3. Compare root responses to IAA standard dose-response curves
 4. For P. indica, 135 microliters of extract per disc was effective
@@ -111,8 +111,8 @@ For testing culture filtrates or extracted compounds:
 3. Apply sterile filtrate directly to filter discs, or extract with ethyl acetate at pH 3
 ## See Also
 
-- [[mycorrhizal-symbiosis]] — mycorrhizal symbiosis mechanisms
+- mycorrhizal-symbiosis — mycorrhizal [[lichen-symbiosis-mechanisms-photobiont-selection]]
 - [[truffle-auxin-root-morphogenesis]] — truffle-specific auxin effects
 - [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] — AMF biology and symbiosis details
 - [[endophytic-fungi]] — endophytic fungal associations with plants
-- [[mycorrhizal-fungal-diversity]] — diversity of mycorrhizal fungal communities
+- [[mycorrhizal-fungal-diversity]] — diversity of [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] communities

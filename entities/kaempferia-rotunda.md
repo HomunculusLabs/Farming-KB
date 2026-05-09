@@ -31,7 +31,7 @@ The rhizome has been used for centuries in Ayurvedic, Siddha, and Thai tradition
 
 The plant is small compared to most Zingiberaceae, with leafy shoots reaching only 15–30 cm in height. It grows from a round to ovoid rhizome, typically 3–6 cm in diameter, giving rise to the species epithet and common name "round zedoary."
 
-Leaves are broadly ovate to almost circular, 10–20 cm long and 8–15 cm wide, with a distinctive pattern of lighter markings along the veins. The upper leaf surface is often glossy, and the petioles are short and sheathing.
+Leaves are broadly ovate to almost circular, 10–20 cm long and 8–15 cm wide, with a distinctive pattern of lighter markings along the veins. The upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is often glossy, and the petioles are short and sheathing.
 
 Flowers appear in March–May, emerging directly from the rhizome before or alongside the first leaves. The inflorescence is a short peduncle bearing 2–4 flowers with a tubular corolla approximately 4–5 cm long. Petals are white above and deep purple below, creating a striking bicolor effect.
 
@@ -39,11 +39,11 @@ The capsule is ovoid, approximately 1.5 cm long, containing small seeds with an 
 
 ## Distribution and Habitat
 
-*Kaempferia rotunda* is native to a wide area spanning the Indian subcontinent, mainland Southeast Asia, and southern China. It occurs naturally in India, Bangladesh, Nepal, Sri Lanka, Myanmar, Thailand, Cambodia, Laos, Vietnam, and the Chinese provinces of Yunnan, Guangxi, and Guangdong.
+*Kaempferia rotunda* is native to a wide area spanning the Indian subcontinent, mainland [[psilocybe-southeast-asia-pacific]], and southern China. It occurs naturally in India, Bangladesh, Nepal, Sri Lanka, Myanmar, Thailand, Cambodia, Laos, Vietnam, and the Chinese provinces of Yunnan, Guangxi, and Guangdong.
 
 The species grows in open forests, grasslands, and disturbed sites at low to moderate elevations, typically below 1000 meters. It prefers well-drained, sandy loam soils with partial shade and moderate moisture.
 
-In its native range, *K. rotunda* is often found in seasonally dry deciduous forests where it completes its flowering cycle before the canopy closes. This early-season phenology allows it to exploit spring light conditions unavailable to later-emerging herbs.
+In its native range, *K. rotunda* is often found in seasonally dry deciduous forests where it completes its [[cannabis-sativa-flowering-cycle-management]] before the canopy closes. This early-season phenology allows it to exploit spring light conditions unavailable to later-emerging herbs.
 
 The species has been widely introduced beyond its native range as an ornamental and medicinal plant. Naturalized populations occur in parts of tropical Africa, the Caribbean, and Pacific islands.
 
@@ -51,7 +51,7 @@ The species has been widely introduced beyond its native range as an ornamental 
 
 *Kaempferia rotunda* is cultivated commercially for its rhizomes in India, Thailand, and Bangladesh. It is also grown as a garden ornamental in tropical and subtropical regions worldwide for its attractive foliage and striking early-season flowers.
 
-Plants require warm conditions and are sensitive to frost. They perform best in partial shade with rich, well-draining soil and regular watering during the growing season. In cooler climates, rhizomes can be lifted and overwintered indoors.
+Plants require warm conditions and are sensitive to frost. They perform best in partial shade with rich, well-draining soil and regular watering during the [[savory-growing-season-and-non-growing-season-management]]. In cooler climates, rhizomes can be lifted and overwintered indoors.
 
 Propagation is achieved through rhizome division, with each piece containing at least one bud. Division is performed during the dormant period in late autumn or early winter. Seed propagation is possible but rarely practiced commercially.
 
@@ -59,7 +59,7 @@ The rhizomes reach harvestable maturity 8–10 months after planting. Yields var
 
 ## Bioactive Compounds and Pharmacology
 
-The rhizomes of *K. rotunda* contain a diverse array of secondary metabolites. The essential oil is rich in monoterpenes and sesquiterpenes, with camphor, pinene, and caryophyllene among the major constituents identified.
+The rhizomes of *K. rotunda* contain a diverse array of [[antifungal-secondary-metabolites-coprophilous-fungi]]. The [[permaculture-designers-manual-essential-oil-plants]] is rich in monoterpenes and sesquiterpenes, with camphor, pinene, and caryophyllene among the major constituents identified.
 
 Cyclohexane diepoxides known as rotundins are characteristic compounds of this species. These include (+)-rotundin and related derivatives that exhibit significant biological activity in various pharmacological assays.
 
@@ -108,4 +108,3 @@ The young shoots and leaves are edible but rarely consumed. Some communities in 
 - [[etlingera-elatior]]
 - [[hedychium-gardnerianum]]
 - [[curcuma-phaeocaulis]]
-- [[curcuma-zedoaria]]

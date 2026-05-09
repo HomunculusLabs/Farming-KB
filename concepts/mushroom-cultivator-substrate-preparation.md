@@ -1,10 +1,11 @@
 ---
-title: Substrate Preparation in The Mushroom Cultivator
+title: cotter-compost-substrate-preparation-manure-mushroom-cultivation in The Mushroom Cultivator
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [gardening]
 sources:
+  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Substrate Preparation in The Mushroom Cultivator
@@ -44,7 +45,7 @@ Phase I is outdoor composting involving mixing and primary decomposition. The pr
 Phase II is carried out indoors in specially designed rooms. The compost is pasteurized and conditioned:
 - Pasteurization at 140°F for 2 hours kills pests, pathogens and competitor organisms
 - Conditioning follows pasteurization: beneficial microorganisms convert residual ammonia into protein the mushroom can use
-- Compost at filling should have specific moisture content (71-74% for Agaricus bitorquis)
+- Compost at filling should have specific moisture content (71-74% for [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]])
 - Compost should be filled to 6-12 inches depth depending on species
 
 **Alternative Composts:**
@@ -75,7 +76,7 @@ Developed primarily in Japan for growing [[mushroom-cultivator-enoki-cultivation
 
 ### Pasteurized Straw Substrates
 
-One of the most frequently used substrate materials for commercial production.
+One of the most frequently used [[growing-gourmet-substrate-materials-wood-types]] for commercial production.
 
 **Preparation:**
 1. Chop or shred dry straw into 1-3 inch pieces using a chipper, shredder, or mower
@@ -96,7 +97,7 @@ One of the most frequently used substrate materials for commercial production.
 - Alternative: 12-24 hours at 122°F after high-temperature pasteurization to promote beneficial microbial growth
 
 **Species Grown on Straw:**
-- [[stamets-shiitake-and-stropharia-cultivation]]
+- stamets-shiitake-and-stropharia-cultivation
 - [[psilocybe-cubensis]]
 
 **Plastic Bag Method:**
@@ -106,10 +107,10 @@ One of the most frequently used substrate materials for commercial production.
 
 ## Substrate Moisture Content
 
-Moisture content is critical. A dry substrate produces fine wispy mycelial growth and poor mushroom formation. An over-wet substrate inhibits growth and produces overly stringy mycelia. Controlled experiments with Agaricus brunnescens showed yield depressions when moisture deviated more than 2% from optimum, and deviations greater than 5% generally prevent fruitbody production.
+Moisture content is critical. A dry substrate produces fine wispy [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and poor [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]. An over-wet substrate inhibits growth and produces overly stringy mycelia. Controlled experiments with Agaricus brunnescens showed yield depressions when moisture deviated more than 2% from optimum, and deviations greater than 5% generally prevent fruitbody production.
 
 ## See Also
 
-- [[stamets-non-composted-substrates]] -- wood and straw substrates
-- [[mushroom-cultivator-grain-spawn-production]] -- grain spawn preparation
-- [[mushroom-substrate-recipes]] -- general substrate recipes
+- stamets-non-composted-substrates -- wood and straw substrates
+- [[mushroom-cultivator-grain-spawn-production]] -- grain [[azurescens-spawn-preparation-grain-to-wood]]
+- mushroom-substrate-recipes -- general substrate recipes

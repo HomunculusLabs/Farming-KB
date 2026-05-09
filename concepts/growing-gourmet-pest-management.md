@@ -1,5 +1,5 @@
 ---
-title: Pest Management in Mushroom Cultivation
+title: cannabis-pest-management-guide in mushroom-cultivation
 created: 2026-04-26
 tags:
   - mycology
@@ -16,9 +16,9 @@ type: concept
 # Pest Management in Mushroom Cultivation
 
 Pests represent a persistent challenge in mushroom cultivation,
-threatening both the [[growing-gourmet-six-vectors-of-contamination]]
-- [[growing-gourmet-spawn-laboratory-design]]
-- [[growing-gourmet-natural-culture-myco-landscaping]]
+threatening both the growing-gourmet-six-vectors-of-contamination
+- growing-gourmet-spawn-laboratory-design
+- growing-gourmet-natural-culture-myco-landscaping
 ## Practical Applications
 
 Pest Management in Mushroom Cultivation has a range of practical applications that make it relevant to
@@ -96,4 +96,9 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[mushroom-cultivation]]
+- [[growing-gourmet-bacterial-blotch-disease-management]]
+- [[growing-gourmet-sciarid-phorid-fly-management]]
+- [[growing-gourmet-trichoderma-green-mold-management]]
+- [[growing-gourmet-gypsum-lime-ph-management]]

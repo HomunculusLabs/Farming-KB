@@ -1,5 +1,5 @@
 ---
-title: Fungal Mineral Transformations and Biogeochemical Cycles
+title: Fungal fungal-mineral-transformations-biogeochemical-cycles-gadd and Biogeochemical Cycles
 created: 2026-04-22
 updated: 2026-04-22
 type: concept
@@ -37,7 +37,7 @@ The formation of secondary minerals — organic and inorganic precipitates on an
 
 The precipitation of carbonates, phosphates, and hydroxides by fungi increases soil aggregation and organic matter stabilization. In [[fungal-building-material-deterioration]] and infrastructure integrity.
 
-Mycorrhizal fungi are increasingly used in phytoremediation — the use of plants to clean contaminated soil — because they simultaneously enhance plant metal tolerance and alter metal speciation in the rhizosphere. Fungal bioremediation strategies include biopiles (contaminated soil mixed with organic amendments and inoculated with fungi), mycofiltration (fungal mats used to filter contaminated water), and constructed wetlands where fungal communities contribute to nutrient and pollutant transformation.
+Mycorrhizal fungi are increasingly used in phytoremediation — the use of plants to clean contaminated soil — because they simultaneously enhance plant metal tolerance and alter metal speciation in the rhizosphere. Fungal [[comparison-bioremediation-strategies-vs-biostimulation-techniques]] include biopiles (contaminated soil mixed with [[cervantes-organic-amendments-chart]] and inoculated with fungi), mycofiltration (fungal mats used to filter contaminated water), and [[comparison-constructed-wetlands-vs-bioswales]] where fungal communities contribute to nutrient and pollutant transformation.
 
 ## Fungal Weathering and the Carbon Cycle
 
@@ -49,7 +49,7 @@ Fungi have been isolated from some of the most extreme environments on Earth, in
 
 ## Fungal Biomass as a Carbon Sink
 
-Fungi represent a massive but often overlooked carbon reservoir in terrestrial ecosystems. Mycelial biomass in forest soils can contain 50-70% of total soil microbial biomass, and individual mycelial networks of ectomycorrhizal fungi can extend for hundreds of hectares and contain tons of carbon. The carbon stored in living fungal biomass, dead hyphal residues, and fungal necromass (the organic matter left after fungal death) constitutes a significant fraction of total soil organic carbon. Fungal necromass is particularly recalcitrant to decomposition because fungal cell walls contain chitin and melanin — compounds that resist enzymatic breakdown. This means that carbon incorporated into fungal biomass tends to persist in soil longer than carbon from bacterial or plant sources, making fungal biomass management an important consideration in carbon sequestration strategies. Practices that promote fungal abundance — reduced tillage, cover cropping, mycorrhizal inoculation, and organic matter inputs — simultaneously improve soil health and contribute to climate change mitigation.
+Fungi represent a massive but often overlooked carbon reservoir in terrestrial ecosystems. Mycelial biomass in forest soils can contain 50-70% of total soil microbial biomass, and individual [[fungal-mycelial-networks-nutrient-translocation]] of ectomycorrhizal fungi can extend for hundreds of hectares and contain tons of carbon. The carbon stored in living fungal biomass, dead hyphal residues, and fungal necromass (the organic matter left after fungal death) constitutes a significant fraction of total soil organic carbon. Fungal necromass is particularly recalcitrant to decomposition because fungal cell walls contain chitin and melanin — compounds that resist enzymatic breakdown. This means that carbon incorporated into fungal biomass tends to persist in soil longer than carbon from bacterial or plant sources, making fungal biomass management an important consideration in carbon sequestration strategies. Practices that promote fungal abundance — reduced tillage, cover cropping, [[teaming-with-fungi-mycorrhizal-inoculation-techniques]], and organic matter inputs — simultaneously improve soil health and contribute to climate change mitigation.
 
 ## Fungal Interactions with Heavy Metals in Mining Environments
 
@@ -63,7 +63,7 @@ Rock surfaces in diverse environments are often colonized by fungal communities 
 
 - [[fungal-biogeochemistry]]
 - [[fungal-calcium-oxalate-crystals]]
-- [[rock-eating-fungi-and-mineral-weathering]]
+- rock-eating-fungi-and-mineral-weathering
 ## Practical Considerations
 
 Successful implementation of Fungal Mineral Transformations and Biogeochemical Cycles requires attention to
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -69,13 +69,13 @@ The dramatic difference in potency between dob-entity|DOB (active at 1-3 mg) and
 
 The 2,5-dimethoxy pattern of dob-entity|DOB is optimal for psychedelic activity, while the 2,4-dimethoxy pattern of META-DOB produces a compound with both reduced potency and increased physical toxicity.
 
-The 3-Br-2,6-DMA and its iodo-counterpart have been explored as potential radio-fluorine carriers for brain imaging studies.
+The 3-Br-2,6-DMA and its iodo-counterpart have been explored as potential radio-fluorine carriers for [[neurochemical-probes-brain-imaging-pihkal]] studies.
 
 ## Comparison with DOB
 
 The contrast between META-DOB and dob-entity|DOB is stark.
 
-dob-entity|DOB: 1-3 mg active dose, 12-24 hour duration, clean psychedelic experience.
+dob-entity|DOB: 1-3 mg active dose, 12-24 hour duration, clean [[leary-psychedelic-experience-bardo-mapping]].
 
 META-DOB: 50-100 mg active dose, 5-6 hour duration, toxic physical effects dominate.
 

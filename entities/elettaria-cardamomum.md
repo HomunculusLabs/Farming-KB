@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - "Ravindran, P.N. & Madhusoodanan, K.J. (2002). Cardamom: The Genus Elettaria. CRC Press."
   - "Krishnamurthy, M.N. et al. (2018). \"Cardamom (Elettaria cardamomum) — A review on its phytochemistry and pharmacology.\" Pharmacognosy Reviews, 12(23), 74-80."
-  - "Sasidharan, I. & Menon, A.N. (2010). \"Chemical composition of essential oil of Elettaria cardamomum.\" Journal of Spices and Aromatic Crops, 19(1), 31-35."
+  - "Sasidharan, I. & Menon, A.N. (2010). \"Chemical composition of [[permaculture-designers-manual-essential-oil-plants]] of Elettaria cardamomum.\" Journal of Spices and Aromatic Crops, 19(1), 31-35."
   - "Gilani, A.H. et al. (2005). \"Species specific effect of cardamom on gastrointestinal motility.\" Phytotherapy Research, 19(5), 439-443."
 ---
 
@@ -44,7 +44,7 @@ Fruits are ovoid to oblong capsules, 1–2 cm long, green when immature and pale
 
 Elettaria cardamomum is native to the Western Ghats of southern India (Kerala, Karnataka, Tamil Nadu) and the montane forests of Sri Lanka. It grows naturally in the understory of tropical evergreen and semi-evergreen forests at elevations of 600–1500 m.
 
-The species requires a specific combination of environmental conditions: high humidity (70–90%), abundant rainfall (2000–4000 mm annually), well-drained forest loams rich in organic matter, and dappled shade. Temperature range of 10–35°C is tolerated, with optimal growth at 15–25°C.
+The species requires a specific combination of environmental conditions: high humidity (70–90%), abundant rainfall (2000–4000 mm annually), well-drained forest loams rich in [[hamilton-composting-and-organic-matter-management]], and dappled shade. [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] of 10–35°C is tolerated, with optimal growth at 15–25°C.
 
 Natural forests in the Western Ghats remain the most important genetic reservoir for the species. Wild populations are threatened by deforestation and habitat fragmentation. The species has been introduced to Tanzania, Guatemala, Costa Rica, Papua New Guinea, and Vietnam for commercial cultivation.
 
@@ -82,7 +82,7 @@ Modern pharmacological research has documented several bioactive properties:
 - **Antioxidant:** Seed extracts scavenge free radicals and upregulate endogenous antioxidant enzymes including glutathione peroxidase and superoxide dismutase.
 - **Antispasmodic:** Cardamom extracts relax intestinal smooth muscle in ex vivo preparations, supporting traditional use for digestive cramps and flatulence.
 
-⚠️ Cardamom is generally recognized as safe (GRAS) for food use. No serious adverse effects have been reported at culinary doses. Therapeutic doses of concentrated extracts have not been extensively studied in human clinical trials.
+⚠️ Cardamom is generally recognized as safe (GRAS) for food use. No serious [[blesching-cannabis-safety-adverse-effects-evidence]] have been reported at culinary doses. Therapeutic doses of concentrated extracts have not been extensively studied in human [[mushroom-cancer-clinical-trials-overview]].
 
 ## Cultivation
 
@@ -106,6 +106,6 @@ Cardamom is typically grown as an understory crop in agroforestry systems, inter
 - [[boesenbergia-rotunda]] — Fingerroot, a Zingiberaceae species with related essential oil chemistry
 - [[cymbopogon-martinii]] — Palmarosa, a tropical grass with 1,8-cineole in its essential oil
 - [[salvia-officinalis]] — Common sage, a Mediterranean aromatic herb with medicinal terpenoids
-- [[tagetes-minuta]] — Marigold, an aromatic plant used in companion planting with spice crops
+- [[tagetes-minuta]] — Marigold, an aromatic plant used in [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with spice crops
 - [[rosmarinus-officinalis-entity]] — Rosemary, a Mediterranean aromatic herb with cineole-rich essential oil
 - [[kaempferia-galanga]] — Sand ginger, a Zingiberaceae species with aromatic seed-like rhizome

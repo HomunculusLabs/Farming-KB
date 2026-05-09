@@ -43,7 +43,7 @@ The fruit is a globular follicle 2–3 cm in diameter with a smooth, green peric
 
 The kernel is white to cream-colored and comprises 30–35% of the total nut weight by mass. Kernel recovery rate is a key breeding objective, with commercial cultivars achieving 32–38% recovery.
 
-Shell thickness and brittleness are also important selection criteria for breeding programs. Thinner shells improve processing efficiency but may increase susceptibility to insect damage in the field.
+Shell thickness and brittleness are also important [[cannabis-breeding-traits-selection-criteria-clarke]] for breeding programs. Thinner shells improve processing efficiency but may increase susceptibility to insect damage in the field.
 
 ## Distribution and Habitat
 
@@ -65,7 +65,7 @@ In its native range, *M. integrifolia* is classified as a threatened species und
 
 Macadamia trees require a frost-free climate with mean annual temperatures of 18–25°C. They are sensitive to temperatures below −1°C and to prolonged waterlogging of the root zone.
 
-Optimal soils are well-drained, acidic (pH 5.0–6.5) loams or sandy loams with good organic matter content. Trees are relatively tolerant of low-fertility soils compared to other nut crops.
+Optimal soils are well-drained, acidic (pH 5.0–6.5) loams or sandy loams with good [[hamilton-composting-and-organic-matter-management]] content. Trees are relatively tolerant of low-fertility soils compared to other nut crops.
 
 Trees are typically propagated by grafting selected scions onto seedling rootstocks of *M. integrifolia* or hybrid rootstocks. Grafted trees begin bearing at 3–4 years, with commercial yields commencing at 7–8 years.
 
@@ -73,13 +73,13 @@ Full production is reached at 12–15 years, with mature trees yielding 30–80 
 
 Productive orchards can remain economically viable for 40–60 years with proper management. The long productive lifespan offsets the high initial establishment costs.
 
-Nut harvest occurs from late autumn through spring in the Southern Hemisphere. Mature nuts fall naturally and are collected from the orchard floor at regular intervals using mechanical sweepers.
+Nut harvest occurs from late autumn through spring in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]. Mature nuts fall naturally and are collected from the [[fukuoka-orchard-floor-management]] at regular intervals using mechanical sweepers.
 
 Post-harvest processing includes dehusking within 24 hours to prevent fermentation. Nuts are then dried to below 1.5% moisture content before mechanical cracking of the hard shell.
 
 Integrated pest management is critical in commercial orchards. Major pests include macadamia nut borer (*Cryptophlebia ombrodelta*), tropical nut borer, and rats, which can cause significant crop losses if uncontrolled.
 
-Biological control programs using Trichogramma wasps and specific baculoviruses have been implemented in several production regions. These programs aim to reduce reliance on synthetic pesticides while maintaining economic thresholds.
+[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] programs using Trichogramma wasps and specific baculoviruses have been implemented in several production regions. These programs aim to reduce reliance on synthetic pesticides while maintaining economic thresholds.
 
 ## Nutritional Value and Chemistry
 
@@ -87,7 +87,7 @@ Macadamia kernels are exceptionally energy-dense, providing approximately 718 kc
 
 The lipid profile is dominated by monounsaturated fatty acids, primarily oleic acid at approximately 60% of total fatty acids. Palmitoleic acid contributes approximately 20%, giving macadamia oil one of the highest palmitoleic acid levels among edible oils.
 
-This fatty acid profile is considered favorable for cardiovascular health. Clinical trials have documented LDL-cholesterol-lowering effects from regular macadamia nut consumption at intakes of 30–50 g per day.
+This fatty acid profile is considered favorable for cardiovascular health. [[mushroom-cancer-clinical-trials-overview]] have documented LDL-cholesterol-lowering effects from regular macadamia nut consumption at intakes of 30–50 g per day.
 
 The nuts are also rich in tocopherols and phytosterols, contributing to their antioxidant properties. Total phenolic content in macadamia kernels is relatively low compared to other tree nuts.
 
@@ -108,7 +108,7 @@ The tree also has applications in agroforestry systems. Its deep root system hel
 - [[glycine-max]]
 - [[theobroma-cacao]]
 - [[vigna-radiata]]
-- [[punica-granatum]]
+- punica-granatum
 - [[mucuna-pruriens]]
 - [[vicia-faba]]
-- [[crotalaria-juncea]]
+- crotalaria-juncea

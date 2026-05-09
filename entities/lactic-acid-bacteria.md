@@ -12,7 +12,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
 
 **Lactic acid bacteria (LAB)** are a diverse group of Gram-positive, acid-tolerant, generally non-sporulating bacteria that produce lactic acid as the major metabolic end-product of carbohydrate fermentation. In [[phosphorus-availability]] for plant uptake
 * **Mineral chelation:** LAB metabolites chelate micronutrients (iron, zinc, manganese) in plant-available forms
-* **Nitrogen cycling support:** By suppressing nitrifying bacteria through acidification, LAB can help retain ammonium nitrogen in soil, reducing leaching losses in acidic or tropical soils
+* **[[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] support:** By suppressing nitrifying bacteria through acidification, LAB can help retain ammonium nitrogen in soil, reducing leaching losses in acidic or [[mollison-designers-tropical-soils-and-cation-exchange-management]]
 
 ### Odor Control
 
@@ -25,7 +25,7 @@ LAB serum is widely used in livestock operations to control foul odors from manu
 ### Compost Acceleration
 
 * LAB inoculation of compost piles accelerates the early stages of decomposition by acidifying the environment and promoting the growth of acid-tolerant decomposer communities
-* When combined with IMO (Indigenous Microorganisms) preparations, LAB helps create a balanced microbial succession from acidophilic to neutrophilic decomposer communities
+* When combined with IMO ([[beneficial-indigenous-microorganisms-bim]]) preparations, LAB helps create a balanced microbial succession from acidophilic to neutrophilic decomposer communities
 * LAB-treated compost typically matures 20–30% faster than untreated controls, with higher concentrations of available nitrogen and phosphorus
 
 ### Food Preservation
@@ -40,9 +40,9 @@ In agricultural communities, LAB serum serves as a natural preservative:
 
 Beyond antimicrobial activity, LAB interact with plants through:
 
-* **Induced systemic resistance (ISR):** *Lactobacillus plantarum* and related species trigger ISR pathways in plants, upregulating defense-related genes (PR proteins, chitinases, glucanases) and increasing resistance to subsequent pathogen challenge
+* **[[endophytic-mycorrhizal-induced-systemic-resistance]] resistance (ISR):** *Lactobacillus plantarum* and related species trigger ISR pathways in plants, upregulating defense-related genes (PR proteins, chitinases, glucanases) and increasing resistance to subsequent pathogen challenge
 * **Phytohormone modulation:** Some LAB strains produce or modulate plant hormone levels, including IAA (indole-3-acetic acid) that can influence root development, though effects are strain-specific and concentration-dependent
-* **Stress tolerance enhancement:** LAB inoculation can increase plant tolerance to abiotic stresses including drought, salinity, and heavy metal exposure through modulation of antioxidant enzyme systems (SOD, CAT, POD) in plant tissues
+* **[[fungal-lichen-stress-tolerance-and-poikilohydry]] enhancement:** LAB inoculation can increase plant tolerance to abiotic stresses including drought, salinity, and heavy metal exposure through modulation of antioxidant enzyme systems (SOD, CAT, POD) in plant tissues
 
 ## See Also
 
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -12,8 +12,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Bándyopadhyay, R. et al. (2019). "Cultivation of Pleurotus flabellatus on agricultural wastes." Bioresource Technology Reports.
-  - Oei, P. (2003). Mushroom Cultivation: Appropriate Technology for Mushroom Growers. TOOL Publications.
-  - Stamets, P. (1993). Growing Gourmet and Medicinal Mushrooms. Ten Speed Press.
+  - Oei, P. (2003). [[accessible-mushroom-cultivation-for-disabilities]]: [[mollison-designers-appropriate-technology-small-scale-tools]] for Mushroom Growers. TOOL Publications.
+  - Stamets, P. (1993). Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. Ten Speed Press.
   - Zadrazil, F. & Kurtzman, R.H. (1982). "The biology of Pleurotus cultivation in the tropics." In Tropical Mushrooms.
   - Chang, S.T. & Hayes, W.A. (1978). The Biology and Cultivation of Edible Mushrooms. Academic Press.created: 2026-05-07
 
@@ -24,7 +24,7 @@ created: 2026-05-07
 
 **Pleurotus flabellatus** (Berk. & Br.) Sacc. is a tropical and subtropical oyster mushroom species closely related to the common oyster mushroom (*Pleurotus ostreatus*). It is widely cultivated across Southeast Asia and sub-Saharan Africa, valued for its adaptability to agricultural waste substrates and its reliable fruiting in warm, humid conditions.
 
-The species is commercially significant in tropical mushroom farming due to its fast colonization speed, broad substrate range, and biological efficiency frequently exceeding 80% on supplemented materials. It is also investigated for its lignocellulolytic enzyme production and bioremediation potential.
+The species is commercially significant in tropical mushroom farming due to its fast colonization speed, broad substrate range, and [[stamets-biological-efficiency-yield]] frequently exceeding 80% on supplemented materials. It is also investigated for its lignocellulolytic enzyme production and bioremediation potential.
 
 ## Taxonomy and Morphology
 
@@ -65,7 +65,7 @@ This species is well-suited to low-technology cultivation in tropical regions. I
 
 **Spawn run:** 14–21 days at 25–30°C. Mycelium is white, cottony, and aggressive, fully colonizing substrate within three weeks.
 
-**Fruiting:** Requires high humidity (85–95%) and ambient temperatures of 25–32°C. Indirect light and adequate fresh air exchange are essential for normal fruiting body development. First harvest typically occurs 5–7 days after primordia formation.
+**Fruiting:** Requires high humidity (85–95%) and ambient temperatures of 25–32°C. Indirect light and adequate fresh air exchange are essential for normal fruiting body development. First harvest typically occurs 5–7 days after [[growing-gourmet-primordia-formation-pinning]].
 
 **Yields:** Biological efficiency ranges from 60–100% depending on substrate and supplementation. Multiple flushes (3–4) are common, with the first flush producing the largest share of total biomass.
 
@@ -76,7 +76,7 @@ This species is well-suited to low-technology cultivation in tropical regions. I
 - **β-glucans:** Polysaccharides with immunomodulatory activity, concentrated in the fruiting body cell walls.
 - **Lovastatin:** A statin compound found in several *Pleurotus* species, contributing to cholesterol-lowering properties.
 - **Ergothioneine:** An antioxidant amino acid derivative present at measurable concentrations.
-- **Laccase and manganese peroxidase:** Lignin-degrading enzymes produced during substrate colonization, of interest for bioremediation applications.
+- **Laccase and [[fungal-manganese-peroxidase-remediation]]:** Lignin-degrading enzymes produced during substrate colonization, of interest for bioremediation applications.
 
 Nutritionally, the mushroom is high in protein (20–30% dry weight), fiber, and minerals including potassium, phosphorus, and zinc. It contains all essential amino acids and B vitamins including riboflavin and niacin.
 

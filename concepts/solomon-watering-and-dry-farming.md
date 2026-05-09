@@ -1,5 +1,5 @@
 ---
-title: Solomon Watering and Dry Farming Methods
+title: Solomon solomon watering and dry farming natural-farming-methods-comparison
 created: 2026-04-18
 updated: 2026-04-18
 sources: Gardening When It Counts (Steve Solomon)
@@ -26,7 +26,7 @@ From Widstoe's 1911 "Dry Farming":
 Solomon provides detailed root system drawings showing how extensive the root systems of vegetables actually are when given room to grow:
 - A beet root system at 110 days extends over 4 feet across and 7 feet deep, making use of all moisture and nutrition from a large soil volume
 - Corn roots at 8 weeks old extend far beyond the above-ground plant
-- Tomato roots in wide spacing can draw from an enormous soil volume
+- Tomato roots in [[solomon-wide-spacing-versus-intensive-gardening-debate]] can draw from an enormous soil volume
 
 The key insight: when plants are widely spaced, their root systems can access soil moisture that would be unavailable to a crowded plant. This is why Solomon's extensive spacing system can grow vegetables through rainless periods that would kill an intensively planted garden.
 
@@ -47,7 +47,7 @@ When watering is needed:
 - The gardener is essentially shackled to the garden during summer
 
 ### Extensive Gardens (Solomon's wide spacing)
-- With wide spacing, the soil holds enough moisture for the entire growing season in areas with reasonable rainfall
+- With wide spacing, the soil holds enough moisture for the entire [[savory-growing-season-and-non-growing-season-management]] in areas with reasonable rainfall
 - Plants survive short dry spells without any irrigation
 - When irrigation is needed, much less water is required per plant
 - The gardener can take a holiday during summer without the garden dying
@@ -64,7 +64,7 @@ NOTE: Lack of nutrients can sometimes be mistaken for drought stress. Before inc
 
 ## Fertigation
 
-Fertigation means applying liquid fertilizer through irrigation water. Solomon provides a specific organic fertigation formula for use with drip irrigation or watering cans. This is particularly useful for:
+Fertigation means applying [[jadam-liquid-fertilizer-nutritional-perspective]] through irrigation water. Solomon provides a specific organic fertigation formula for use with drip irrigation or watering cans. This is particularly useful for:
 - Large plants with extensive root systems
 - Situations where rapid growth is needed
 - Supplementing soil that may be deficient in certain nutrients
@@ -86,7 +86,7 @@ For gardeners without irrigation or who want to minimize water use:
 Solomon discusses the importance of mulch for reducing evaporation:
 - A thick layer of organic mulch can reduce evaporation by 50-75%
 - Mulch also moderates soil temperature, reducing moisture loss from heat
-- As mulch decomposes, it adds organic matter to the soil surface
+- As mulch decomposes, it adds [[hamilton-composting-and-organic-matter-management]] to the soil surface
 - In areas with summer rain, mulch helps soil absorb rain slowly rather than running off
 
 ## Sandy Soil Special Considerations

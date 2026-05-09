@@ -78,12 +78,12 @@ In Colombia, B. sanguinea was ritually used in the cult of the sun in
 pre-Columbian times. The plant is still used as a hallucinogen by
 shamans and curanderos of Ecuador and Peru. Mapuche Indian witch
 doctors (mostly female) of Chile formerly employed a hallucinogenic
-tree of the Nightshade family called Latue or Arbol de los Brujos.
+tree of the Nightshade family called Latue or Arbol de [[latua-pubiflora-arbol-de-los-brujos-ethnobotany]].
 
 ## Medical Applications
 
 Beyond their psychoactive use, Brugmansia species have been widely
-employed in South American folk medicine. Their anti-spasmodic and
+employed in [[chiric-caspi-brunfelsia-south-american-hallucinogen]] folk medicine. Their anti-spasmodic and
 analgesic properties, derived from tropane alkaloids, made them
 valuable treatments for rheumatic pains, asthma, and other conditions.
 The book notes that all species served as important elements in the

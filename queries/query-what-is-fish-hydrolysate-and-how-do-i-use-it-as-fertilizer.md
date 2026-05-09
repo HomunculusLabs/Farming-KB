@@ -14,7 +14,7 @@ type: query
 # What Is Fish Hydrolysate and How Do I Use It as Fertilizer?
 
 ## Short Answer
-Fish hydrolysate is a liquid organic fertilizer made by enzymatically
+Fish hydrolysate is a liquid [[complete-organic-fertilizer-cof-recipe-solomon]] made by enzymatically
 breaking down whole fish or fish byproducts into a nutrient-rich liquid.
 Unlike fish emulsion, hydrolysate is produced using cold processing that
 preserves amino acids, proteins, and beneficial oils. It provides a
@@ -24,7 +24,7 @@ suppress pathogens. In this way, fish hydrolysate works more like a
 pre-digested food source for soil biology than a conventional fertilizer.
 
 The concept of using fish-based fertilizers appears in several
-traditional farming systems around the world. In Korean Natural Farming,
+traditional farming systems around the world. In Korean [[comparison-natural-farming-vs-permaculture]],
 [[jadam-liquid-fertilizer]] recipes. While the specific preparation methods
 differ, the underlying principle is the same: fish provides a
 concentrated, biologically active source of nutrients that supports both
@@ -41,12 +41,12 @@ hydrolysate serve as an immediate food source for bacteria, which rapidly
 multiply and begin processing the organic nitrogen into ammonium.
 Nitrifying bacteria then convert ammonium to nitrate, which plant roots
 can absorb. Fungi in the soil also benefit from the fatty acids and
-complex organic compounds, leading to increased mycorrhizal colonization
-and improved nutrient exchange networks. This cascading biological
+complex [[fungal-volatile-organic-compounds-communication]], leading to increased [[arbuscular-mycorrhizal-colonization-patterns]]
+and improved [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] networks. This cascading biological
 response is what makes hydrolysate so much more than a simple nutrient
 source.
 
-Application rates and methods vary depending on the product concentration
+[[ingham-compost-tea-application-rates-and-timing]] and methods vary depending on the product concentration
 and the crop being grown. As a general guideline, most commercial fish
 hydrolysate products are diluted at a rate of 1 to 4 ounces per gallon of
 water and applied as a soil drench every 2 to 4 weeks during the growing
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

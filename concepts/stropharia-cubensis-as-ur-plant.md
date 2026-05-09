@@ -1,5 +1,5 @@
 ---
-title: Stropharia Cubensis as the Ur Plant
+title: mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal as the Ur Plant
 created: 2026-05-06
 tags:
   - mycology
@@ -21,14 +21,14 @@ type: concept
 The search for the original hallucinogenic plant that catalyzed the
 emergence of human self-reflection requires a careful process of
 elimination. Terence McKenna argued that Stropharia cubensis, also
-known as Psilocybe cubensis, is the most likely candidate for what he
+known as [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], is the most likely candidate for what he
 called the Ur plant, the umbilicus connecting early humans to what he
 described as the feminine mind of the planet.
 
 ## Criteria for the Original Hallucinogen
 
 Several strict requirements must be met by any plant considered as a
-candidate for catalyzing consciousness in evolving hominids:
+candidate for [[mckenna-catalyzing-consciousness-and-language]] in evolving hominids:
 
 - **African origin**: The evidence is overwhelming that modern humans
   emerged in Africa, so the plant must be native to that continent.
@@ -50,10 +50,10 @@ New World, a pattern that has never been satisfactorily explained.
 Several plants were considered and rejected as candidates for the
 original hallucinogenic catalyst:
 
-**Tabernanthe iboga**: The Bwiti religion among the Fang of Gabon and
+**[[plants-of-the-gods-tabernanthe-iboga-chemistry]]**: The Bwiti religion among the Fang of Gabon and
 Zaire uses iboga root bark in prodigious amounts. However, iboga is a
 tropical forest plant, not a grassland species. No evidence of its use
-exists before the early nineteenth century, and at small doses it
+exists before the early [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], and at small doses it
 diminishes ordinary vision by facilitating afterimages and halos.
 
 **LSD-type compounds**: No plants containing ergoline-type
@@ -61,7 +61,7 @@ hallucinogens are known to have been used in Africa, and there are no
 striking examples of plants rich in these compounds native to the
 continent.
 
-**Peganum harmala**: The giant Syrian rue contains the beta-carboline
+**[[mckenna-food-gods-peganum-harmala-soma]]**: The giant Syrian rue contains the beta-carboline
 harmine and occurs across arid Mediterranean North Africa. However,
 there is no record of its use in Africa as a hallucinogen, and it must
 be concentrated and combined with DMT to activate visionary potential.

@@ -1,5 +1,5 @@
 ---
-title: "THC and Cannabinoid Science"
+title: "greg green thc and cannabinoid science Science"
 created: 2026-04-28
 tags: [cannabis, thc, cannabinoids, potency, chemistry]
 date: 2026-04-25
@@ -16,7 +16,7 @@ the various cannabinoid types, and how they contribute to the cannabis
 experience. See also [[green-cannabis-grow-bible-hash-making-and-trichome-extraction]].
 
 Understanding cannabinoid science helps growers make informed decisions
-about strain selection, growing techniques, and harvest timing. Green's
+about [[blesching-cannabis-strain-selection-receptor-targeting]], growing techniques, and [[cannabis-harvest-timing-visual-cues]]. Green's
 treatment of this topic is notably accessible, breaking down complex
 biochemistry into practical concepts that every grower can apply to
 improve their results.
@@ -27,12 +27,12 @@ these are only present in very minor quantities compared to THC.
 CBD has gained significant attention for its non psychoactive therapeutic
 properties. CBN is associated with the sedative effects often experienced
 with aged cannabis. Each of these minor cannabinoids contributes to what
-is known as the entourage effect, where the combination of all
+is known as the [[cannabis-terpene-entourage-effect-profiles]], where the combination of all
 cannabinoids and terpenes produces a more complex effect than any single
 compound alone.
 
 No complete study of cannabinoids has been made public since the book's
-publication, according to Green. Cross breeding produces so many different
+publication, according to Green. [[fukuoka-textdoc-cross-breeding-fungal-strain-mutability]] produces so many different
 results that it is hard to keep track of what is happening. Some older
 strains have been tested, and this information can be obtained from larger
 seed production companies. THC testing is an expensive process requiring
@@ -54,7 +54,7 @@ be expensive and is not practical for most home growers.
 ## Genetically Modified Low THC Plants
 
 Green notes that some plants do not produce any THC at all. These plants
-have been genetically engineered to produce very low levels of THC and are
+have been [[singh-genetically-engineered-fungi-bioremediation]] to produce very low levels of THC and are
 mainly used by farmers in some countries who have permission to grow
 cannabis for hemp production only. It is best to keep away from these
 seeds and strains as they will not produce a psychoactive effect.
@@ -91,5 +91,7 @@ genetics behind THC production helps growers select the right strains and
 optimize their cultivation for maximum potency.
 
 ## See Also
+
+- [[thc-bomb]]
 
 - [[greg-green-odor-control-and-air-filtration]]

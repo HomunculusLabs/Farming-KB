@@ -32,7 +32,7 @@ Progressively thin seedlings to a single strong plant per station.
 
 Tomato vines should be lifted off the earth to prevent disease and rotting.
 Options include staking, trellising, wire cages, and hanging strings. The
-best pruning method Solomon recommends follows the plant's natural growth
+best pruning method Solomon recommends follows the plant's [[ingham-natural-growth-regulators-soil-microbes]]
 pattern: side shoots emerge from each leaf notch in groups of three. Two
 weak side branches appear first, then a third stronger one. During the
 first few months, remove all weak side branches by pinching and allow the
@@ -47,12 +47,12 @@ tomato vines produce a side shoot from each leaf notch. Indeterminate
 vines grow indefinitely from their tip, producing ever-longer vines with
 lanky, aggressive spread. They keep setting new fruit and covering new
 ground until frost, as long as the root zone has room. The more room roots
-have, the more growing space tomatoes need.
+have, the more [[cotter-growing-space-design-fruiting-rooms]] tomatoes need.
 
 Determinate vines grow only a few leaves (usually three) and then stop,
 forming a more compact plant. They yield more heavily for a shorter time
 and are bred to hold much of their crop at once. Most determinate
-varieties are suited to container gardening or small-space production.
+varieties are suited to [[comparison-cold-frame-gardening-vs-container-gardening-guide]] or small-space production.
 
 ## Spacing and Root Systems
 
@@ -80,7 +80,7 @@ Key issues include:
 Special variety types worth knowing:
 
 - **Cherry tomatoes** (indeterminate): Most aggressively growing of all
-  types, best suited to dry gardening methods.
+  types, best suited to [[wide-spacing-dry-gardening-low-irrigation-solomon]] methods.
 - **Paste/sauce varieties**: Bred to contain less moisture, cooking down
   in half the time and superior for drying.
 - **Longkeeper types**: Ripen extremely slowly; green-picked fruits

@@ -1,5 +1,5 @@
 ---
-title: "MEPEA (3-METHOXY-4-ETHOXYPHENETHYLAMINE) -- PIHKAL Entry #123"
+title: "MEPEA (3-METHOXY-4-ETHOXYPHENETHYLAMINE) -- 2c-b-pihkal-entry-20 #123"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -60,13 +60,13 @@ would be 3-methoxy-4-ethoxy- (and 3-methoxy-4-allyloxy)-amphetamine.
 And equally interesting would be the 4-hydroxy analogue. This would
 be an easily made compound from vanillin, one of our most enjoyable
 spices in the kitchen cabinet, and it would be directly related to the
-essential oils, eugenol and isoeugenol. This amphetamine compound has
+[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]], eugenol and isoeugenol. This amphetamine compound has
 already been synthesized, but it is still unexplored in man.
 
 Some years ago a report appeared in the forensic literature of Italy,
 of the seizure of a small semitransparent capsule containing 141
 milligrams of a white powder that was stated to be a new
-hallucinogenic drug. This was shown to contain an analogue of DOM,
+[[emcdda-hallucinogenic-drug-classification-and-terminology-taxonomy]]. This was shown to contain an analogue of DOM,
 3-methoxy-4-methylamphetamine, or MMA. The Italian authorities made
 no mention of the net weight contained in each dosage unit, but it has
 been found that the active level of MMA in man is in the area of 40-60
@@ -92,7 +92,7 @@ salute to an almost unknown explorer in the psychedelic drug area.
 
 A solution of 10.0 g 3-methoxy-4-ethoxybenzaldehyde in 150
 mL nitromethane was treated with 1.7 g anhydrous ammonium acetate, and
-heated on the steam bath for 1 h. The excess nitromethane was removed
+heated on the [[scythian-cannabis-steam-bath-ritual]] for 1 h. The excess nitromethane was removed
 under vacuum, yielding a loose, yellow crystalline mass that was
 filtered and modestly washed with cold MeOH. The 8.0 g of damp yellow
 crystals thus obtained were dissolved in 50 mL of vigorously boiling
@@ -130,7 +130,7 @@ yielded 3.8 g of 3-methoxy-4-ethoxyphenethylamine hydrochloride
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

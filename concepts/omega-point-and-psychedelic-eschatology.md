@@ -1,5 +1,5 @@
 ---
-title: Omega Point and Psychedelic Eschatology
+title: Omega omega point and psychedelic eschatology Eschatology
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
@@ -13,13 +13,13 @@ sources:
 
 The concept of the Omega Point, originally developed by the French philosopher and paleontologist Pierre Teilhard de Chardin, proposes that the evolutionary process is directed toward a final state of maximum consciousness and spiritual unity.
 
-Psychedelic eschatology draws upon this concept, suggesting that the altered states of consciousness produced by substances like [[psilocybin-and-mystical-experience]] mirrors the cosmic unity that Teilhard predicted as the ultimate state of consciousness.
+Psychedelic eschatology draws upon this concept, suggesting that the [[weil-the-natural-mind-altered-states-normalcy]] of consciousness produced by substances like [[psilocybin-and-mystical-experience]] mirrors the cosmic unity that Teilhard predicted as the ultimate state of consciousness.
 
 The dissolution of the separate self, the [[computational-universe-and-natural-intelligence]], then the emergence of consciousness within that computation may serve a specific function.
 
 Conscious beings capable of understanding the nature of reality may represent the Universe's means of reflecting upon itself, of achieving a kind of self-awareness that was latent within the original informational configuration of the cosmic system.
 
-In this view, the psychedelic experience is not an escape from reality but a deepening engagement with it, a means through which consciousness can accelerate its understanding of the cosmic process in which it participates.
+In this view, the [[leary-psychedelic-experience-bardo-mapping]] is not an escape from reality but a deepening engagement with it, a means through which consciousness can accelerate its understanding of the cosmic process in which it participates.
 
 ## The Surprise at the End of History
 
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

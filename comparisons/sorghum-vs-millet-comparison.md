@@ -13,7 +13,7 @@ sources:
   - FAO. "Sorghum and Millets in Human Nutrition." Food and Agriculture Organization, 1995.
   - ICRISAT. "Sorghum and Millets Compendium." International Crops Research Institute for the Semi-Arid Tropics, 2021.
   - National Research Council. "Lost Crops of Africa: Volume I — Grains." National Academies Press, 1996.
-  - CGIAR Research Program on Grain Legumes and Dryland Cereals. "Sorghum and Millet: The Climate-Smart Cereals." 2020.
+  - CGIAR Research Program on [[query-best-grain-legumes-for-a-small-homestead]] and Dryland Cereals. "Sorghum and Millet: The Climate-Smart Cereals." 2020.
   - Andrews, D.J., and K.A. Kumar. "Breeding Sorghum and Pearl Millet for Drought-Prone Environments." Field Crops Research, 1992.
 created: 2026-04-28
 type: comparison
@@ -25,7 +25,7 @@ Both [[companion-planting]] and [[regenerative-agriculture]] frameworks:
 
 - As warm-season C4 cereals in rotation with cool-season C3 crops and [[agroforestry]] systems as understory crops in young tree plantings
 - As nurse crops for establishing perennial pastures
-- Both contribute to soil organic matter when residues are returned, though sorghum's higher lignin content means slower decomposition compared to pearl millet residues
+- Both contribute to soil [[hamilton-composting-and-organic-matter-management]] when residues are returned, though sorghum's higher lignin content means slower decomposition compared to pearl millet residues
 
 For farmers transitioning to no-till systems, pearl millet's quick establishment and low nitrogen demand make it an excellent first crop on previously tilled, degraded land.
 ## Practical Applications
@@ -105,4 +105,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,7 +1,7 @@
 ---
-title: Pelagic Disease and Chemical Treatment in Modern Fish Farming
+title: fukuoka pelagic disease chemical fish farming and Chemical Treatment in Modern knf-fish-farming-integration
 source: masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
-author: [[masanobu-fukuoka]]
+author: masanobu-fukuoka
 tags: [fukuoka, natural-farming, fish-farming, aquaculture, pelagic-disease, pollution, marine-ecology]
 ---
 
@@ -9,7 +9,7 @@ tags: [fukuoka, natural-farming, fish-farming, aquaculture, pelagic-disease, pol
 
 ## Overview
 
-In *The Natural Way of Farming*, Masanobu Fukuoka extends his critique of modern agriculture
+In *The Natural Way of Farming*, Masanobu Fukuoka extends his [[fukuoka-road-critique-of-modern-science]] agriculture
 to include fishing and aquaculture. He describes how pelagic diseases in Japan's Inland Sea,
 caused by pollution from fish farming centers, are treated with large doses of chemicals — a
 destructive cycle mirroring the pesticide spiral in agriculture. The sardine shortage caused
@@ -72,7 +72,7 @@ number of fish in the sea.
 Such misguided thinking undermines the fishing industry and will someday spell doom for the
 oceans of the world.
 
-The solution is not more technology but less intervention: allowing marine ecosystems to
+The solution is not more technology but less intervention: allowing [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]] to
 recover their natural productivity by removing industrial fishing and aquaculture pressures.
 
 ## The Fragility of Nature
@@ -117,3 +117,4 @@ There is no other way forward for the relationship between humanity and the sea.
 
 - [[fukuoka-critique-modern-livestock]]
 - [[fukuoka-mutual-cancellation-agricultural-interventions]]
+- [[holzer-aquaculture-fish-farming]]

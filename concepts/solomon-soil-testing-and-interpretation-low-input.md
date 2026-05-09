@@ -1,5 +1,5 @@
 ---
-title: Solomon Soil Testing and Interpretation for Low-Input Gardens
+title: Solomon Soil solomon soil testing and interpretation low input for Low-Input Gardens
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -13,7 +13,7 @@ tags: [soil]
 
 In "Gardening When It Counts," [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]] through the
 [[soil-testing-and-analysis]] reports and calculating lime
-equivalents based on CEC (cation exchange capacity), the gardener simply
+equivalents based on CEC ([[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity), the gardener simply
 applies COF and the blend handles calcium distribution automatically.
 
 ## What If pH Is Already Acceptable?
@@ -22,14 +22,14 @@ Even with acceptable pH, Solomon recommends the full COF program anyway.
 Vegetables still need calcium and magnesium in the right balance. A soil
 with a "good" pH may still lack sufficient available calcium for strong
 cell walls and disease resistance. COF includes these minerals in
-proportions designed for vegetable production, so applying it regardless
+proportions designed for [[dry-gardening-unirrigated-vegetable-production-solomon]], so applying it regardless
 of pH ensures balanced mineral nutrition.
 
 ## The Albrecht Connection
 
 Solomon references William Albrecht, whose research suggested:
 
-- Plant nutrition depends on available mineral balance, not pH per se.
+- Plant nutrition depends on available [[holmgren-mineral-balance-soil-fertility]], not pH per se.
 - Excess magnesium relative to calcium (common after years of dolomite
   liming) creates tight, poorly aerated soil conditions.
 - Calcium-rich soils with proper mineral balance produce more nutritious
@@ -48,7 +48,7 @@ Soil tests remain useful for purposes beyond pH:
   or iron not obvious from plant symptoms.
 - **Excessive nutrient levels**: Over-fertilization with certain
   elements creating imbalances or toxicities.
-- **Organic matter content**: Knowing your baseline helps track
+- **[[hamilton-composting-and-organic-matter-management]] content**: Knowing your baseline helps track
   improvement over years of compost application.
 - **Phosphorus accumulation**: Repeated compost applications can build
   excessive phosphorus levels.
@@ -73,6 +73,8 @@ but the principle remains: apply a balanced mineral amendment rather
 than chasing pH numbers.
 
 ## See Also
+
+- [[weeding-strategies-low-input-garden]]
 
 - [[solomon-potting-mix-and-seedling-soil-recipe]]
 

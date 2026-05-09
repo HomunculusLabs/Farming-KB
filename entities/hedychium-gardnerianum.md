@@ -14,7 +14,7 @@ sources:
   - Moodley, D. et al. (2019). "Ecological impacts of invasive Hedychium gardnerianum in Hawaiian montane forests." Biological Invasions, 21, 3417-3432.
   - Nag, S. et al. (2020). "Phytochemistry and pharmacology of Hedychium gardnerianum." Pharmacognosy Reviews, 14(28), 102-108.
   - Sheppard, C.S. et al. (2018). "Invasion of Kahili ginger in New Zealand: distribution, impacts, and management." New Zealand Journal of Ecology, 42(1), 45-56.
-  - Patel, S. et al. (2021). "Essential oil composition of Hedychium species." Journal of Essential Oil-Bearing Plants, 24(3), 671-685.
+  - Patel, S. et al. (2021). "[[permaculture-designers-manual-essential-oil-plants]] composition of Hedychium species." Journal of Essential Oil-Bearing Plants, 24(3), 671-685.
 ---
 
 # Hedychium gardnerianum
@@ -77,7 +77,7 @@ Water flow in invaded riparian areas is reduced due to physical obstruction by d
 
 In New Zealand, invasion leads to the displacement of native forest floor species and reduced regeneration of canopy trees. Control efforts focus on manual removal and herbicide application.
 
-Biological control research has identified the ginger weevil (*Derelomus hedychi*) and a leaf roller (*Exeristes roborator*) as potential agents, but no biological control program has been implemented due to concerns about non-target effects.
+[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] research has identified the ginger weevil (*Derelomus hedychi*) and a leaf roller (*Exeristes roborator*) as potential agents, but no biological control program has been implemented due to concerns about non-target effects.
 
 ## Cultivation and Uses
 
@@ -91,7 +91,7 @@ Ornamental cultivation remains the primary use globally. The plant is valued for
 
 In temperate regions, it can be grown as a container plant and overwintered indoors. Rhizomes survive mild frosts if well-mulched, though hard freezes are lethal.
 
-The species has been investigated for phytoremediation potential, showing capacity to accumulate heavy metals from contaminated soils. This application remains at the research stage.
+The species has been investigated for phytoremediation potential, showing capacity to accumulate [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] from contaminated soils. This application remains at the research stage.
 
 ## Chemical Composition
 
@@ -99,7 +99,7 @@ The essential oil of *Hedychium gardnerianum* rhizomes contains 1,8-cineole, α-
 
 Flower essential oil has a distinct composition, dominated by linalool, geraniol, farnesol, and various monoterpene alcohols. The floral oil is more valued in perfumery than the rhizome oil.
 
-Labordane-type diterpenes have been isolated from the rhizome, including hedychilactones A and B. These compounds show cytotoxic activity against cancer cell lines in preliminary studies.
+Labordane-type diterpenes have been isolated from the rhizome, including hedychilactones A and B. These compounds show cytotoxic activity against [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines in preliminary studies.
 
 Flavonoids identified include kaempferol, quercetin, and several glycosylated derivatives. Phenolic acid content contributes to the species' antioxidant activity.
 

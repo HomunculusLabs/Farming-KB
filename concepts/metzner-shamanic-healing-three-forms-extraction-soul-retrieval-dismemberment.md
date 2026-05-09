@@ -1,7 +1,7 @@
 # Shamanic Healing Three Forms: Extraction, Soul Retrieval, and Dismemberment
 
 ## Overview
-In his 1998 article "Hallucinogenic Drugs and Plants in Psychotherapy and
+In his 1998 article "[[metzner-hallucinogenic-drugs-psychotherapy-shamanism]] and Plants in Psychotherapy and
 Shamanism," Ralph Metzner identifies three main variations of shamanic healing
 experiences that occur with entheogenic plants and other methods of accessing
 nonordinary states of consciousness. These three forms—extraction of toxins or
@@ -39,7 +39,7 @@ the healing that has taken place.
 ### Parallels in Other Traditions
 Similar extraction practices are found in shamanic traditions worldwide. In
 Siberian shamanism, the shaman may extract illness-causing objects from the
-patient's body. In indigenous North American traditions, healers may remove
+patient's body. In indigenous [[growing-gourmet-north-american-reishi-species]] traditions, healers may remove
 "spirit arrows" or other intrusive objects. The universality of this healing
 form suggests that it addresses a fundamental dimension of human experience of
 illness that is not captured by purely biomedical models.
@@ -80,7 +80,7 @@ therapy can produce results that neither approach achieves alone.
 The third and most dramatic form of shamanic healing involves the experience
 of being dismembered or destroyed, and then reconstituted with a healthier,
 stronger "body." This form of healing is closely related to what Stanislav
-Grof, working within the psychedelic psychotherapy tradition, called "perinatal
+Grof, working within the [[metzner-psychedelic-psychotherapy-clinical-history]] tradition, called "perinatal
 matrices"—experiences of ego death and rebirth that occur when the psyche
 opens to levels deeper than biographical material. In shamanic contexts, the
 dismemberment experience is often described in vivid physical terms: the
@@ -92,8 +92,8 @@ Dismemberment-reconstitution experiences frequently occur in the context of
 shamanic initiation rather than healing per se. The aspiring shaman undergoes
 a symbolic death that destroys their old identity and creates space for a new,
 shamanic identity to emerge. This process is analogous in some respects to the
-psychedelic therapy concept of the "psychedelic peak experience"—a moment of
-ego dissolution that can lead to lasting personality transformation. However,
+[[metzner-psycholytic-psychedelic-therapy-models]] concept of the "psychedelic peak experience"—a moment of
+[[psilocybin-ego-dissolution-mechanisms]] that can lead to lasting personality transformation. However,
 in the shamanic context, the dismemberment is understood as a literal spiritual
 event, not merely a psychological metaphor.
 
@@ -103,7 +103,7 @@ traditions worldwide. The Egyptian god Osiris is dismembered by Set and
 reassembled by Isis. The Norse god Odin hangs from the world tree for nine
 nights, sacrificing himself to himself. In the Tibetan Buddhist chöd practice,
 the practitioner visualizes offering their body to demons. In the Christian
-tradition, the death and resurrection of Christ follows a similar pattern of
+tradition, the [[allegro-death-and-resurrection-in-the-mushroom-cult]] of Christ follows a similar pattern of
 destruction and renewal. The universality of this motif suggests that it
 encodes a fundamental psychological and spiritual process.
 
@@ -141,7 +141,10 @@ the meaning of healing.
 ### The Role of Dramatic Experience
 Western psychotherapy typically proceeds through verbal interaction, insight,
 ## See Also
+
+- [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]]
+
+- [[metzner-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment]]
+
+- [[shamanic-healing-modalities-extraction-soul-retrieval-dismemberment]]
 ## See Also
-- [[metzner-amplifier-microscope-metaphors-psychedelic-therapy]]
-- [[metzner-psycholytic-psychedelic-therapy-models]]
-- [[metzner-shamanic-healing-divination-worldview]]

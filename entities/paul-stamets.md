@@ -5,7 +5,8 @@ updated: 2026-04-12
 type: entity
 tags: [person, mycology, academia, fungi]
 sources:
-  - raw/papers/mycelium-running-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
   - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
   - raw/papers/the-mushroom-cultivator-stamets.md
 ---
@@ -16,10 +17,10 @@ American mycologist, author, and entrepreneur. Founder of Fungi Perfecti, a comp
 
 ## Key Works
 
-- **Mycelium Running: How Mushrooms Can Help Save the World** (2005) — Comprehensive guide to mycoremediation, mycofiltration, and the ecological roles of fungi. Over 1,000 pages covering [[mycoremediation-basics]] techniques, [[mycofiltration-overview]], and fungal partnerships with plants.
-- **The Mushroom Cultivator** (1983, with J.S. Chilton) — Seminal practical guide to mushroom cultivation techniques, still considered a standard reference for growers.
-- **Psilocybin Mushrooms of the World** (1996) — Taxonomic and identification guide to psychoactive mushroom species worldwide, with contributions from [[david-arora]], [[gary-lincoff]], [[gaston-guzman]], and [[jeremy-bigwood]].
-- **Growing Gourmet and Medicinal Mushrooms** (1993) — Practical cultivation guide.
+- **[[woodlovers-mycelium-running-pathway-technique]]: How Mushrooms Can Help Save the World** (2005) — Comprehensive guide to mycoremediation, mycofiltration, and the ecological roles of fungi. Over 1,000 pages covering [[mycoremediation-basics]] techniques, [[mycofiltration-overview]], and fungal partnerships with plants.
+- **The Mushroom Cultivator** (1983, with J.S. Chilton) — Seminal practical guide to [[accessible-mushroom-cultivation-for-disabilities]] techniques, still considered a standard reference for growers.
+- **[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World** (1996) — Taxonomic and identification guide to psychoactive mushroom species worldwide, with contributions from [[david-arora]], [[gary-lincoff]], [[gaston-guzman]], and [[jeremy-bigwood]].
+- **Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]** (1993) — Practical cultivation guide.
 - **Fantastic Fungi** (2019) — Documentary film featuring his work.
 
 ## Key Contributions
@@ -31,7 +32,7 @@ Pioneered research on using fungi to decompose toxic waste, break down petroleum
 Developed techniques using fungal mycelium mats to filter biological and chemical contaminants from water sources, including agricultural runoff and stormwater.
 
 ### Medicinal Mushrooms
-Research on the immune-boosting properties of species including turkey tail (*Trametes versicolor*), lion's mane (*Hericium erinaceus*), and reishi (*Ganoderma lucidum*). [[andrew-weil]] wrote the foreword to *Mycelium Running*, endorsing Stamets' work.
+Research on the immune-boosting properties of species including turkey tail (*[[staycare-trametes-versicolor-bioremediation-applications]]*), lion's mane (*Hericium erinaceus*), and reishi (*[[stamets-reishi-ganoderma-lucidum-cultivation]]*). [[andrew-weil]] wrote the foreword to *Mycelium Running*, endorsing Stamets' work.
 
 ### Psilocybin Research
 Co-reported *Psilocybe subcubensis* with [[jeremy-bigwood]] (1978). His taxonomic and photographic documentation of psilocybin mushrooms worldwide has been cited in hundreds of scientific papers. His patents on [[mycoremediation-basics]] and [[mycofiltration-overview]] technologies are held through [[stamets-patents]].
@@ -106,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

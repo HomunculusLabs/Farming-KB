@@ -5,7 +5,8 @@ tags: [comparison, farming, natural-farming, permaculture, philosophy]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 type: comparison
 ---
 
@@ -13,7 +14,7 @@ type: comparison
 
 ## Overview
 
-Masanobu Fukuoka and Sepp Holzer are two of the most influential natural
+Masanobu Fukuoka and [[comparison-sepp-holzer-vs-biodynamic]] are two of the most influential natural
 farming pioneers of the 20th century, both advocating farming in
 cooperation with nature rather than against it. Despite sharing core
 principles of minimal intervention and ecological alignment, they developed
@@ -43,7 +44,7 @@ warmth through decomposition, constructing stone terraces that absorb and
 radiate heat, and establishing windbreaks and shelterbelts that create
 protected microclimates. His farm supports over seventy crop species
 including citrus, kiwi, and other subtropical plants that would normally
-never survive at his altitude. Animal integration is central, with pigs,
+never survive at his altitude. [[mollison-animal-integration-permaculture-design]] is central, with pigs,
 cattle, and poultry each performing specific ecological functions.
 
 Holzer mounts a sharp critique of industrial agriculture, agricultural
@@ -63,7 +64,7 @@ dimension that can overshadow the farming techniques.
 | Philosophy | Do nothing; observe nature | Cooperate with and shape nature |
 | Intervention Level | Absolute minimum | Strategic, deliberate earthworks |
 | Climate | Subtropical (Shikoku, Japan) | Alpine (Austria, 1,500m elevation) |
-| Key Techniques | Clay seed balls, straw mulch, clover | Ponds, terraces, hugelkultur, microclimates |
+| Key Techniques | Clay seed balls, [[fukuoka-rice-straw-mulch-central-technique]], clover | Ponds, terraces, hugelkultur, microclimates |
 | Approach to Water | Natural rainfall, no irrigation | Actively hold and distribute water |
 | Farm Scale | Quarter-acre rice paddies | 100+ acre mountain farm |
 | Crop Focus | Rice, winter grains, citrus | Extreme diversity (70+ species) |
@@ -80,7 +81,7 @@ Fukuoka's methods suit grain farmers in temperate to subtropical climates
 who want to minimize inputs and labor to the absolute minimum. The approach
 works best for practitioners willing to invest years in patient observation
 and who resonate with the philosophical dimension of non-intervention. It
-is ideal for rice-based systems, small-scale grain production, and orchards
+is ideal for rice-based systems, small-scale [[fukuoka-no-till-grain-production-method]], and orchards
 where natural patterns can be followed rather than imposed. Fukuoka's
 approach also appeals to those who see farming as a spiritual practice
 rather than a production system.
@@ -102,9 +103,9 @@ political philosophy empowering.
 Many permaculture practitioners combine both thinkers' approaches. Holzer-
 style earthworks establish favorable growing conditions and water
 infrastructure during the initial design phase, then Fukuoka- style minimal
-intervention takes over as the system matures. The Permaculture Design
+intervention takes over as the system matures. The [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
 Course methodology bridges both thinkers, using Holzer-style observation
-and zone planning to set up systems that can eventually be managed with
+and [[mollison-course-zone-planning-and-design]] to set up systems that can eventually be managed with
 Fukuoka-style minimal intervention. The concept of "protracted and
 thoughtful observation" before action reflects Fukuoka's patience, while
 the tools of swales, ponds, and hugelkultur reflect Holzer's active

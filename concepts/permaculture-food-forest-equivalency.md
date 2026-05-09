@@ -1,20 +1,16 @@
 ---
-title: Permaculture Food Forest Equivalency
+title: urban-permaculture-food-forest-succession Equivalency
 created: 2026-04-28
-tags: [[permaculture, food-forest, tree-crops, sustainable-agriculture]
+tags: [permaculture, food-forest, tree-crops, sustainable-agriculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [bill-mollison-permaculture-design-course.md]
 type: concept
 ---
-
-# Permaculture Food Forest Equivalency
-
-## Overview
-Food forest equivalency is a foundational concept in [[permaculture-design]]  principles and the need for redesigned local economies.
+# Permaculture Food Forest Equivalency ## Overview Food forest equivalency is a foundational concept in [[permaculture-design]]  principles and the need for redesigned local economies.
 
 ## References
-- Mollison, B. Permaculture Design Course Pamphlet X, "[[urban-permaculture-food-forest-succession]]
+- Mollison, B. [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Course Pamphlet X, "[[urban-permaculture-food-forest-succession]]
 - [[permaculture-food-forest-design-principles]]
 ## Background and Context
 
@@ -66,7 +62,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -144,4 +140,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

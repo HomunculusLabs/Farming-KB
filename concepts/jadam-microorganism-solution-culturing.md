@@ -1,5 +1,5 @@
 ---
-title: JADAM Microorganism Solution and Culturing Methods
+title: JADAM jadam microorganism solution culturing and Culturing Methods
 created: 2026-04-28
 tags: [jadam, microorganisms, organic-farming, soil-biology, fermentation]
 date: 2026-04-25
@@ -10,9 +10,9 @@ type: concept
 # JADAM Microorganism Solution and Culturing Methods
 ## Overview
 JADAM Microorganism Solution (JMS) is the cornerstone input of JADAM
-organic farming, a Korean ultra-low-cost agricultural system developed
-by Young-sang Cho. JMS is produced by culturing [[lactic-acid-bacteria]], yeast, actinobacteria, hay bacillus, and Bacillus natto,
-all of which are anaerobic organisms that benefit farming when applied
+[[coleman-deep-organic-farming-philosophy]], a Korean ultra-low-cost agricultural system developed
+by Young-sang Cho. JMS is produced by culturing [[lactic-acid-bacteria]], yeast, actinobacteria, [[knf-hay-bacillus-disease-control]], and Bacillus natto,
+all of which are [[ingham-anaerobic-organisms-role-soil]] that benefit farming when applied
 to soil or plant surfaces.
 The JADAM approach to microbial cultivation fundamentally rejects the
 use of air pumps and forced aeration. Cho argues that since the microbes
@@ -28,7 +28,7 @@ possesses the microorganisms best adapted to local conditions. By
 collecting and culturing these indigenous microbes, farmers restore the
 soil biological diversity that chemical agriculture has destroyed. JMS
 application transforms soil structure, suppresses pathogens, raises
-soil temperature, and increases nutrient availability through the action
+soil temperature, and increases [[ph-and-nutrient-availability-garden-soils]] through the action
 of a thriving microbial ecosystem.
 ## Key Concepts
 ### Indigenous Microorganism Collection
@@ -70,7 +70,7 @@ For greenhouses without rainwater, JMS is applied with irrigation water,
 fully wetting the soil each time. For open fields, JMS should be applied
 before rain so that microbes reach deep soil layers with rainwater
 penetration. During the entire growth period, JMS is applied to soil
-every watering, supplemented with foliar application. This consistent
+every watering, supplemented with [[ultra-low-cost-foliar-application-methods]]. This consistent
 application regime completely transforms soil biology, solving problems
 of nematodes, wilt disease, and virus diseases that are notoriously
 difficult to cure through conventional means.

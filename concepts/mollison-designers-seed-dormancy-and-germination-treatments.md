@@ -1,5 +1,5 @@
 ---
-title: "Seed Dormancy and Germination Treatments in Permaculture"
+title: "mollison designers seed dormancy and germination treatments and Germination Treatments in Permaculture"
 created: 2026-04-26
 tags:
   - permaculture
@@ -47,18 +47,18 @@ species and for understanding weed emergence patterns.
 
 ## Stratification (Cold Treatment)
 
-[[mollison-cold-climate-strategies-detailed]]. See also [[mollison-cold-climate-strategies-detailed]].
+mollison-cold-climate-strategies-detailed. See also mollison-cold-climate-strategies-detailed.
 
 ## Heat Treatment for Hard-Seeded Legumes
 
-The [[mollison-native-seed-forage-systems-and-arid-species-lists]] is heat treatment, applied to many
+The mollison-native-seed-forage-systems-and-arid-species-lists is heat treatment, applied to many
 tree legume seeds. Methods include:
 
 - Heating in an oven at 95 degrees C (200 degrees F) for 10-20
   minutes
 - Pouring very hot (near-boiling) water over seeds and allowing
   them to soak
-- Burning seeds in a light straw fire
+- Burning seeds in a [[comparison-light-straw-clay-vs-hempcrete]] fire
 - Scarification by mechanical nicking, filing, or acid treatment
   to break hard seed coats
 
@@ -84,17 +84,17 @@ integrate livestock.
 ## Seed Scarification
 
 Seeds with thick or hard coats may need scarification to break
-dormancy. The [[mollison-native-seed-forage-systems-and-arid-species-lists]], or inoculation
+dormancy. The mollison-native-seed-forage-systems-and-arid-species-lists, or inoculation
 before .
 
 ## Practical Germination Testing
 
 The [[permaculture-designers-manual-pioneer-species]], ensuring reliable germination in
-[[mollison-seed-resources-and-sovereignty]]. The overall approach is to work with natural seed
+mollison-seed-resources-and-sovereignty. The overall approach is to work with natural seed
 adaptations rather than against them, using gentle, low-energy
 methods that mirror natural processes.
 ## See Also
 
-- [[mollison-seed-resources-and-sovereignty]]
+- mollison-seed-resources-and-sovereignty
 - [[mollison-designers-seed-pelleting-and-pretreatment]]
 - [[permaculture-designers-manual-plant-nursery]]

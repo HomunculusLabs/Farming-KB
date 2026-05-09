@@ -1,5 +1,5 @@
 ---
-title: Permaculture Appropriate Technology
+title: Permaculture mollison-designers-appropriate-technology-small-scale-tools
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -13,14 +13,14 @@ Permaculture appropriate technology is the selection, design, and application of
 
 ## Earthworking Tools
 
-Permaculture earthworking uses a range of appropriate tools depending on the scale of the project. A-frames and bunyip levels for contour identification can be made from locally available materials at minimal cost. Hand tools including mattocks, shovels, digging bars, and wheelbarrows are sufficient for small-scale swale and garden construction.
+Permaculture earthworking uses a range of appropriate tools depending on the scale of the project. A-frames and bunyip levels for contour identification can be made from locally available materials at minimal cost. [[garden-hand-tools-solomon]] including mattocks, shovels, digging bars, and wheelbarrows are sufficient for small-scale swale and garden construction.
 
 For larger earthworks, animal-powered equipment such as horse-drawn ploughs and scoops provides effective earthmoving without fossil fuels. Small tractors with attachments including chisel ploughs, rippers, and front-end loaders extend the scale of what small teams can accomplish. Laser levels and GPS guidance improve accuracy for larger projects.
 
 ## Building Technology
 
 Appropriate building technologies include [[permaculture-design]] -- Holistic design framework integrating appropriate technology
-- [[permaculture-energy-storage-systems]]
+- permaculture-energy-storage-systems
 
 [[permaculture-energy-descent-planning]]
 
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

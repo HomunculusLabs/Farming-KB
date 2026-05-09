@@ -1,15 +1,16 @@
 ---
-title: "How Do I Set Up a Rainwater Harvesting System for My Garden?"
+title: "How Do I Set Up a comparison-xeriscaping-guide-vs-rainwater-harvesting-systems System for My Garden?"
 created: 2026-04-28
 tags: [query, rainwater-harvesting, water-management, permaculture, irrigation, sustainability]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 # How Do I Set Up a Rainwater Harvesting System for My Garden?
 ## Short Answer
-A basic rainwater harvesting system collects rain from your roof via gutters and downspouts, directs it through a screen filter into a storage tank or barrel, and distributes it to your garden through gravity-fed hoses or drip irrigation.
+A basic rainwater harvesting system collects rain from your roof via gutters and downspouts, directs it through a screen filter into a storage tank or barrel, and distributes it to your garden through gravity-fed hoses or [[comparison-drip-irrigation-vs-passive-irrigation]].
 A 1000-square-foot roof can collect approximately 600 gallons of water per inch of rainfall, making even a small system capable of significantly reducing municipal water usage.
 Rainwater is naturally soft and free of chlorine, making it superior to tap water for plant health and soil biology.
 ## Detailed Explanation
@@ -24,11 +25,11 @@ The mineral salts in hard water can accumulate in soil over time and cause nutri
 The [[backyard-water-harvesting]] reference describes the essential components in detail.
 These include a catchment surface (usually a roof), a conveyance system (gutters and downspouts), a pre-filter or screen, first-flush diversion, storage vessel, overflow mechanism, and distribution system.
 Each component plays a specific role in ensuring the collected water is clean and the system operates safely.
-The water must be accessible for garden use when needed throughout the growing season.
+The water must be accessible for garden use when needed throughout the [[savory-growing-season-and-non-growing-season-management]].
 The catchment surface is typically your roof, and the roofing material matters significantly for water quality.
 Metal roofs (galvanized steel, aluminum, or copper) are ideal catchment surfaces because they are smooth and non-porous.
 They do not leach chemicals into the water that could harm plants or soil biology.
-Asphalt shingle roofs, the most common roofing material in North America, are acceptable for rainwater collection.
+Asphalt shingle roofs, the most common roofing material in [[psilocybin-north-america-pacific-northwest]], are acceptable for rainwater collection.
 However, they may contribute small amounts of petroleum-based chemicals and granular debris to the collected water.
 Avoid collecting from roofs treated with preservatives, moss killers, or other chemical treatments that could contaminate your water supply.
 Tile and slate roofs are also excellent catchment surfaces that produce very clean runoff with minimal contamination.
@@ -96,7 +97,7 @@ Check the first-flush diverter for proper operation after each major storm event
 Inspect tank seals and connections for leaks periodically, especially after extreme weather events.
 Clean the tank interior every 1 to 2 years to remove accumulated sediment and organic debris from the bottom.
 Mosquito control is essential: ensure all tank openings are screened with fine mesh to prevent breeding.
-Consider adding mosquito dunks containing Bacillus thuringiensis israelensis (BTi) to any standing water in the system.
+Consider adding mosquito dunks containing [[cervantes-bacillus-thuringiensis-bt-control]] israelensis (BTi) to any standing water in the system.
 Winterization is critical in climates where temperatures drop below freezing during the winter months.
 Drain all tanks, pipes, and hoses before the first hard freeze to prevent ice damage to system components.
 Disconnect and store filtration components indoors during the winter to extend their useful life.
@@ -104,7 +105,7 @@ The [[comparison-greywater-vs-rainwater-harvesting]] resource explains how these
 Rainwater provides clean irrigation water during and immediately after rain events.
 Greywater from laundry, showers, and sinks provides a steady baseline water supply during dry periods between rainfall events.
 Combining both systems allows you to dramatically reduce or eliminate your dependence on municipal water for all outdoor water needs.
-Water-efficient irrigation methods like drip irrigation, mulching, and [[mushroom-cultivation-basics]] may also benefit from rainwater, as the chemical-free water is ideal for substrate preparation and misting.
+Water-efficient irrigation methods like drip irrigation, mulching, and [[mushroom-cultivation-basics]] may also benefit from rainwater, as the chemical-free water is ideal for [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] and misting.
 ## Key Points
 - A [[drip-irrigation-guide]] systems works well with elevated tanks, while pump-based systems enable more complex irrigation layouts
 - Regular maintenance including gutter cleaning, tank inspection, and winterization keeps your system functional for decades of reliable water harvesting

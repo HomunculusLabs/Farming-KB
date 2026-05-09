@@ -1,5 +1,5 @@
 ---
-title: LSD Psychotherapy Approaches
+title: metzner lsd psychotherapy approaches Approaches
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 
 # LSD Psychotherapy Approaches
 
-LSD (lysergic acid diethylamide-25) served as the primary substance in the two major
+LSD ([[ergot-and-lysergic-acid-history]] diethylamide-25) served as the primary substance in the two major
 paradigms of psychedelic-assisted psychotherapy that developed during the 1950s and
 1960s. Discovered accidentally by gordon-wasson at Sandoz Laboratories in Switzerland
 during World War II, LSD's [[european-psycholytic-therapy-1960s-1970s]]:
@@ -50,7 +50,7 @@ fundamentally shift the patient's relationship with alcohol and with themselves.
 
 ### The Southern California Center
 
-A second center for psychedelic therapy developed in the early 1960s in Southern
+A second center for [[metzner-psycholytic-psychedelic-therapy-models]] developed in the early 1960s in Southern
 California, where Sidney Cohen, Oscar Janiger, and others began providing psychedelic
 experiences to clients in the Hollywood film, arts, and media community. This work,
 which Novak (1997) documented as predating Leary's public work, brought considerable
@@ -76,10 +76,10 @@ pharmacotherapy:
   in a psychedelic state is likely to be severely limited
 - **Spiritual dimensions**: Albert Hofmann testified that his ability to recognize
   the psycholytic properties of LSD was based on its similarity to his childhood
-  mystical experiences in nature. Hofmann's broader [[timothy-leary]], stimulated by his association with Aldous Huxley, Huston Smith and
+  [[psilocybin-mystical-experiences-personality-change]] in nature. Hofmann's broader [[timothy-leary]], stimulated by his association with Aldous Huxley, Huston Smith and
 Alan Watts, devoted considerable energy to exploring the spiritual dimensions of
-psychedelic experience. This work resulted in adaptations of the Tibetan Buddhist
-Bardo Thodol and the Chinese Taoist Tao Te Ching as guidebooks for psychedelic
+[[leary-psychedelic-experience-bardo-mapping]]. This work resulted in adaptations of the Tibetan Buddhist
+[[metzner-leary-bardo-thodol-and-tao-te-ching-adaptation]] and the Chinese Taoist Tao Te Ching as guidebooks for psychedelic
 sessions. Leary recognized that the fundamental mystical vision emerging in these
 states was an evolutionary remembering -- an experience of reconnecting with
 biological and cosmological evolution, suggesting that psychedelic experience goes

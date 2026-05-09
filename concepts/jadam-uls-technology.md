@@ -11,7 +11,7 @@ type: concept
 
 # JADAM Ultra-Low-Cost Technology
 
-JADAM (Jayonul Sasang Gua Damunhoe) is a South Korean organic farming
+JADAM (Jayonul Sasang Gua Damunhoe) is a South Korean [[coleman-deep-organic-farming-philosophy]]
 system developed by [[jadam-liquid-fertilizer]] (JLF)
 Made from locally available organic materials including wild grasses,
 crop residues, and food waste. Multiple specialized formulations exist
@@ -19,13 +19,13 @@ for nitrogen, calcium, potassium, phosphate, chitosan, and mineral
 needs. These replace expensive commercial fertilizers entirely.
 
 ### JADAM Natural Pesticide (JNP)
-A natural pest control solution made with JADAM herb solution (JHS)
-and JADAM wetting agent (JWA). JHS is produced by boiling indigenous
+A natural [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] solution made with JADAM [[jadam-herb-solution-jhs]] (JHS)
+and JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA). JHS is produced by boiling indigenous
 weeds and herbs. JWA replaces chemical surfactants with natural
 alternatives.
 
 ### Other Inputs
-JADAM mineral water (JMW), JADAM sulfur (JS), [[natural-farming-microbial-inoculants]] for comparative approaches to
+JADAM mineral water (JMW), [[ultra-low-jadam-sulfur-js]] (JS), [[natural-farming-microbial-inoculants]] for comparative approaches to
   soil microbial management
 - [[knf-fermented-plant-juice]] for another [[korean-natural-farming]]
   input system
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

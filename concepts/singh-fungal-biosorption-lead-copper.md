@@ -1,5 +1,5 @@
 ---
-title: Fungal Biosorption of Lead and Copper
+title: dighton-fungal-biosorption-heavy-metal-remediation of Lead and Copper
 created: 2026-04-26
 tags: [mycoremediation, biosorption, heavy-metals, lead, copper]
 date: 2026-04-25
@@ -14,7 +14,7 @@ type: concept
 Lead and copper represent two of the most significant metallic
 contaminants targeted by fungal biosorption technologies. Lead is a
 potent neurotoxin with no biological function, while copper is an
-essential trace element that becomes toxic at elevated concentrations.
+essential [[fukuoka-textdoc-fertilizer-acidification-trace-element-deficiency]] that becomes toxic at elevated concentrations.
 Both metals are widespread industrial pollutants amenable to fungal
 removal through biosorption and bioaccumulation mechanisms.
 
@@ -28,7 +28,7 @@ with cadmium, as the metals of highest concern after uranium in
 biosorption priority, due to strong toxic environmental effects. Copper
 is used in many applications and is increasing in the environment, while
 lead remains one of the most problematic heavy metal contaminants in
-industrial wastewater.
+[[fungal-industrial-wastewater-treatment]].
 
 ## Lead Biosorption by Filamentous Fungi
 
@@ -64,7 +64,7 @@ A unique aspect of copper in fungal systems is its dual role as both
 a pollutant and an essential enzyme cofactor. Copper is a cofactor for
 the enzyme laccase, and its addition has a positive effect on laccase
 production in numerous white-rot species including Ceriporiopsis
-subvermispora, Trametes versicolor, Pleurotus ostreatus, P. sajor-caju,
+subvermispora, [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]], Pleurotus ostreatus, P. sajor-caju,
 Trametes trogii, T. pubescens, T. multicolor, T. hirsuta, T. gibbosa,
 Ganoderma applanatum, Polyporus ciliatus, and Panus tigrinus. Copper
 enhances the production of all isozymes of laccase in P. ostreatus.
@@ -80,10 +80,10 @@ Heavy metals cause significant morphological changes in fungi.
 Schizophyllum commune forms black mycelial pellets in Pb-containing
 media. In white-rot fungi, the concentrations of heavy metal ions in
 soil and contaminated sites are generally higher than those in wood.
-These metals affect growth, reproduction, metabolic activity, mycelial
+These metals affect growth, reproduction, [[arbuscule-isolation-metabolic-activity-assays]], mycelial
 morphology, and enzymatic activities. Metal ions accumulated in
 Daedalea quercina decrease in the preferential order Zn > Cu > Pb > Al.
-Ganoderma lucidum follows a toxicity order of Hg > Cd > Cu > U > Pb >
+[[stamets-reishi-ganoderma-lucidum-cultivation]] follows a toxicity order of Hg > Cd > Cu > U > Pb >
 Mn = Zn. Lead uptake by nonliving R. nigricans was reduced in the
 presence of co-cations such as Zn(II) and Fe(III) ions at pH 4.0.
 
@@ -128,5 +128,5 @@ effective for lead-contaminated mixed-waste streams.
 ## See Also
 
 - [[singh-fungal-biosorption-cadmium]]
-- [[mycoremediation-heavy-metals-detailed]]
+- [[mycoremediation-of-heavy-metals]]
 - [[fungal-binary-ternary-biosorption]]

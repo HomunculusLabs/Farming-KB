@@ -16,7 +16,7 @@ sources:
 
 # Hypsizygus ulmarius
 
-**Elm Oyster Mushroom**
+**Elm [[cotter-oyster-mushroom-cultivation]]**
 
 *Author: (Bulliard:Fries) Redhead*
 
@@ -33,7 +33,7 @@ The taxonomic history of this species is complex. It was formerly classified as
 current position as *Hypsizygus ulmarius* by Redhead. It is closely related to
 [[paul-stamets]] ranks hypsizygus ulmarius above all other oyster-like
 mushrooms in terms of flavor and texture, making it one of the most desirable
-species for home cultivators and gourmet mushroom enthusiasts.
+species for home cultivators and [[growing-gourmet-mushroom-dehydration-methods-equipment]] enthusiasts.
 
 ## Description
 
@@ -49,11 +49,11 @@ found singly, sometimes in groups of 2 to 3, and rarely in larger clusters.
 Unlike most mushrooms where biomass increase ceases when caps reach broadly
 convex stage, hypsizygus ulmarius continues lateral growth with appreciable
 mass increase. Picking too early results in substantial yield loss, making
-harvest timing critical.
+[[cannabis-harvest-timing-visual-cues]] critical.
 
 ## Distribution
 
-hypsizygus ulmarius is found throughout temperate forests of eastern North
+hypsizygus ulmarius is found throughout temperate forests of [[polypore-fungi-eastern-north-america]]
 America, Europe, and Japan. Though less common than [[hypsizygus-tessulatus]] but is distinguished by its larger size, lighter
 coloration, and wavy cap margin. In contrast, *H. tessulatus* is smaller,
 stouter, with a thicker stem and cap speckled with dark "water" markings.
@@ -67,7 +67,7 @@ connections are numerous. The hyphal system is monomitic.
 
 **Mycelium:**
 
-White, cottony, closely resembling [[agar]] media.
+White, cottony, closely resembling agar media.
 
 **Fragrance:**
 
@@ -91,7 +91,7 @@ pharmacological merit worthy of further investigation.
 
 ## Flavor and Preparation
 
-hypsizygus ulmarius is considered one of the finest edible mushrooms, with
+hypsizygus ulmarius is considered one of the finest [[palmer-edible-mushrooms-north-america]], with
 a firm meaty texture and rich, nutty flavor that surpasses most other oyster-like
 species. The large cap size makes it versatile in the kitchen, suitable for
 grilling, sauteing, roasting, and soups. It pairs well with butter, garlic,
@@ -102,4 +102,6 @@ herbs, cream sauces, and hearty meat dishes.
 - Bulliard, J.B.F. Original description.
 - Petersen, R.H. (1993). Studies on Hypsizygus species.
 - Redhead, S.A. Transfer to Hypsizygus.
-- Stamets, P. (1993). Growing Gourmet and Medicinal Mushrooms.
+- Stamets, P. (1993). Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]].
+## See Also
+- [[medicinal-mushrooms]]

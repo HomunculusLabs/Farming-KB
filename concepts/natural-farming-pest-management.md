@@ -1,5 +1,5 @@
 ---
-title: Natural Farming Pest Management
+title: comparison-natural-farming-vs-permaculture cannabis-pest-management-guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -15,14 +15,14 @@ Organic pest management works by building healthy ecosystems where pests are nat
 
 The foundation of natural pest management is a healthy ecosystem:
 - Healthy soil grows healthy plants that resist pests
-- Biodiversity provides natural predator populations
+- Biodiversity provides [[fukuoka-natural-predator-protection]] populations
 - No monocultures = no pest population explosions
 - Accept some pest damage — the goal is management, not eradication
 
 ## Cultural Practices
 
 ### Prevention (first line of defense)
-- **Crop rotation** breaks pest and disease cycles
+- **[[comparison-crop-rotation-vs-cover-cropping]]** breaks [[hamilton-pest-and-disease-control-organic]] cycles
 - **Healthy soil** with adequate nutrients produces resistant plants
 - **Proper spacing** ensures good airflow (reduces fungal diseases)
 - **Timely planting** avoids peak pest emergence windows
@@ -33,7 +33,7 @@ The foundation of natural pest management is a healthy ecosystem:
 - Nasturtiums: trap crop for aphids
 - Basil: repels tomato hornworms and flies
 - Garlic: deters aphids, cabbage maggots, and Japanese beetles
-- Borage: attracts beneficial insects, repels tomato hornworm
+- Borage: attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], repels tomato hornworm
 - Dill: attracts parasitic wasps that control caterpillars
 - Calendula: attracts hoverflies and aphid-eating insects
 

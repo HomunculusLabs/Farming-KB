@@ -1,5 +1,5 @@
 ---
-title: "Psilocybe semilanceata"
+title: "guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution"
 created: 2026-04-28
 updated: 2026-04-28
 type: species
@@ -11,17 +11,17 @@ tags:
   - agaricales
 sources:
   - Guzmán G, Allen JW, Gartz J. (1998). "A worldwide geographical distribution of the neurotropic fungi." Mycological Research 102(4): 405–410.
-  - Stamets P. (1996). "Psilocybin Mushrooms of the World." Ten Speed Press.
+  - Stamets P. (1996). "[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World." Ten Speed Press.
   - Gartz J. (1994). "Der Pilz als Droge." Naturwissenschaftliche Rundschau 47(8): 317–320.
-  - Weeks RJ, Flegg PB, Woodbridge AP. (1979). "The cultivation of Psilocybe semilanceata." Journal of the Natural History Society 11: 63–65.
+  - Weeks RJ, Flegg PB, Woodbridge AP. (1979). "The [[grass-seed-cultivation-of-psilocybe-mushrooms]] semilanceata." Journal of the Natural History Society 11: 63–65.
   - https://www.mycobank.org/Biolomics.aspx?Table=Mycobank&Rec=129191
 ---
 
 ## Overview
 
-**Psilocybe semilanceata** (Fr.) P. Kumm., commonly known as the liberty cap, is a small psilocybin-containing mushroom in the family Hymenogastraceae. It is the most widely distributed and commonly consumed psychedelic mushroom in Europe, and among the most potent naturally occurring psilocybin-containing species.
+**Psilocybe semilanceata** (Fr.) P. Kumm., commonly known as the liberty cap, is a small psilocybin-containing mushroom in the family Hymenogastraceae. It is the most widely distributed and commonly consumed [[archaeology-of-psychedelic-mushroom-use]] in Europe, and among the most potent naturally occurring psilocybin-containing species.
 
-The liberty cap has a long history of use in indigenous European contexts and became prominent in Western counterculture during the 1960s–1970s. Its reputation as a potent entheogen has made it one of the most studied psychedelic fungi in modern clinical research on psilocybin-assisted therapy.
+The liberty cap has a long history of use in indigenous European contexts and became prominent in Western counterculture during the 1960s–1970s. Its reputation as a potent entheogen has made it one of the most studied psychedelic fungi in modern [[hofmann-lsd-clinical-research-early-studies]] on psilocybin-assisted therapy.
 
 ## Taxonomy and Morphology
 
@@ -81,7 +81,7 @@ P. semilanceata is among the most potent psilocybin-containing mushrooms, with c
 
 Psilocybin is a serotonergic psychedelic acting primarily as a partial agonist at the 5-HT2A receptor. It also binds to 5-HT2C, 5-HT1A, and other serotonin receptor subtypes with lower affinity.
 
-The psychedelic experience from P. semilanceata is characterized by altered perception, synesthesia, enhanced introspection, and mystical-type experiences. Effects typically begin 20–60 minutes after ingestion and last 4–6 hours.
+The [[leary-psychedelic-experience-bardo-mapping]] from P. semilanceata is characterized by altered perception, synesthesia, enhanced introspection, and mystical-type experiences. Effects typically begin 20–60 minutes after ingestion and last 4–6 hours.
 
 **Clinical research:** Psilocybin has demonstrated efficacy in clinical trials for treatment-resistant depression, end-of-life anxiety, nicotine addiction, and alcohol dependence. The psilocybin from P. semilanceata is chemically identical to that used in clinical formulations.
 

@@ -1,5 +1,5 @@
 ---
-title: Surface Cultivation Technique
+title: jeavons surface cultivation technique Technique
 created: 2026-04-28
 tags: [biointensive, soil-preparation, bed-maintenance, double-digging, soil-structure]
 date: 2026-04-28
@@ -18,7 +18,7 @@ loosens soil to a depth of 24 inches, but after the first year or two,
 the goal shifts from loosening to preserving the valuable structure
 that has been created.
 
-The initial double-dig creates a raised bed with a "living sponge
+The initial double-dig creates a [[comparison-chinampas-vs-raised-bed-gardening]] with a "living sponge
 cake" texture. As your soil improves and large clods disappear, the
 bed may not raise as high as it did initially. This is not a cause for
 concern but rather a sign that you and your soil are successful. The
@@ -71,12 +71,12 @@ supports abundant plant life.
 
 ## Benefits of Surface Cultivation
 
-1. **Preserves soil organic matter** - By not turning the soil deeply,
+1. **Preserves soil [[hamilton-composting-and-organic-matter-management]]** - By not turning the soil deeply,
   the organic matter and humus built up through composting are better
   preserved and not exposed to rapid oxidation.
 2. **Maintains microbial networks** - The fungal mycelia and bacterial
   colonies established in the soil are less disturbed, supporting
-  continuous nutrient cycling.
+  continuous [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 3. **Reduces labor** - Surface cultivation takes significantly less
   time and physical effort than a full double-dig, requiring only a
   cultivating tool rather than a spade and fork.
@@ -87,7 +87,7 @@ supports abundant plant life.
 
 ## Relationship to the Complete System
 
-Surface cultivation is part of the broader GROW BIOINTENSIVE system.
+Surface cultivation is part of the broader [[jeavons-grow-biointensive-method-overview]] system.
 Deep soil preparation develops good structure initially, and surface
 cultivation maintains it. Together with regular
 [[jeavons-fertilization-organic-soil-amendments]], and good

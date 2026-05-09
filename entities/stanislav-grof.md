@@ -8,21 +8,21 @@ sources: []
 ---
 # Stanislav Grof
 
-Stanislav Grof (born 1931) is a Czech-born American psychiatrist, one of the founding figures of transpersonal psychology, and a pioneer of psychedelic psychotherapy. Over more than six decades of research, he conducted thousands of psychedelic sessions and developed influential theoretical frameworks for understanding non-ordinary states of consciousness. See [[psychedelic-experience-stages]] for his experiential mapping.
+Stanislav Grof (born 1931) is a Czech-born American psychiatrist, one of the founding figures of transpersonal psychology, and a pioneer of [[metzner-psychedelic-psychotherapy-clinical-history]]. Over more than six decades of research, he conducted thousands of psychedelic sessions and developed influential theoretical frameworks for understanding non-ordinary states of consciousness. See [[psychedelic-experience-stages]] for his experiential mapping.
 
 ## Biography
 
 - Born July 1, 1931, in Prague, Czechoslovakia
 - MD from Charles University in Prague (1957)
 - Early research at the Psychiatric Research Institute in Prague using LSD
-- Emigrated to the United States in 1967 after the Soviet invasion of Czechoslovakia
+- Emigrated to the [[dmt-containing-plants-united-states-halpern]] in 1967 after the Soviet invasion of Czechoslovakia
 - Chief of Psychiatric Research at the Maryland Psychiatric Research Center
 - Co-founded the International Transpersonal Association (1977)
 - Professor at the California Institute of Integral Studies
 
 ## LSD Psychotherapy Research
 
-Grof conducted more documented psychedelic therapy sessions than any other researcher, working with thousands of patients from the late 1950s through the mid-1970s. His clinical research included:
+Grof conducted more documented [[metzner-psycholytic-psychedelic-therapy-models]] sessions than any other researcher, working with thousands of patients from the late 1950s through the mid-1970s. His [[hofmann-lsd-clinical-research-early-studies]] included:
 
 - Treatment of alcoholism, neuroses, depression, and psychosomatic disorders
 - Therapy with terminal cancer patients facing death anxiety
@@ -42,7 +42,7 @@ Grof argued that unresolved trauma from the birth process is stored in the uncon
 
 ## Holotropic Breathwork
 
-After the legal prohibition of LSD in the mid-1970s, Grof and his wife Christina developed Holotropic Breathwork as a non-drug method for accessing non-ordinary states of consciousness. The technique involves:
+After the [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]] of LSD in the mid-1970s, Grof and his wife Christina developed Holotropic Breathwork as a non-drug method for accessing non-ordinary states of consciousness. The technique involves:
 
 - Accelerated breathing combined with evocative music
 - Bodywork to release physical tension and emotional blockages
@@ -67,7 +67,7 @@ Grof proposed the concept of COEX (Condensed Experience) Systems — constellati
 
 ## Key Works
 
-- "Realms of the Human Unconscious" (1975) — Perinatal matrices and COEX systems
+- "Realms of the Human Unconscious" (1975) — [[metzner-grof-perinatal-matrices-and-transpersonal-realms]] COEX systems
 - "The Adventure of Self-Discovery" (1988) — Holotropic Breathwork
 - "Beyond the Brain" (1985) — Transpersonal psychology and consciousness
 - "The Holotropic Mind" (1992, with Hal Zina Bennett) — Accessible overview

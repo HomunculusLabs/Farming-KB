@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Minore, D. (1990). "Thuja plicata — Western Redcedar." In: Burns, R.M. & Honkala, B.H. (eds.), Silvics of North America, Vol. 1. USDA Forest Service.
+  - Minore, D. (1990). "Thuja plicata — Western Redcedar." In: Burns, R.M. & Honkala, B.H. (eds.), Silvics of psilocybin-north-america-pacific-northwest, Vol. 1. USDA Forest Service.
   - Pojar, J. & MacKinnon, A. (1994). "Plants of the Pacific Northwest Coast." Lone Pine Publishing.
   - Stewart, H. (1984). "Cedar: Tree of Life to the Northwest Coast Indians." University of Washington Press.
   - IUCN Red List (2023). "Thuja plicata."
@@ -112,4 +112,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

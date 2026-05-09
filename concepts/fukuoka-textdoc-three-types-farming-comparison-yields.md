@@ -1,5 +1,5 @@
 ---
-title: "Three Types of Farming Compared: Scientific, Hinayana Natural, Mahayana Natural"
+title: "Three Types of Farming Compared: Scientific, fukuoka-mahayana-and-hinayana-natural-farming, Mahayana Natural"
 created: 2026-04-28
 tags: [farming-types, scientific-farming, mahayana, hinayana, natural-farming, yields, comparison, classification]
 date: 2026-04-28
@@ -18,15 +18,15 @@ fundamentally different relationship between man and nature. This classification
 on Buddhist terminology — Mahayana (the "Great Vehicle") and Hinayana (the "Lesser
 Vehicle") — to distinguish degrees of alignment with natural processes:
 
-1. **Scientific Farming** — the modern method that breaks away from nature
-2. **Hinayana Natural Farming** — a limited, incomplete return to nature
+1. **[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]** — the modern method that breaks away from nature
+2. **Hinayana [[comparison-natural-farming-vs-permaculture]]** — a limited, incomplete [[emcdda-return-to-nature-megatrend-mushroom-appeal]]
 3. **Mahayana Natural Farming** — pure, perfect farming as nature itself
 
 ## Scientific Farming: Farming Without Nature
 
 Constant changes in crop-growing practices and the shifting history of sericulture and
-livestock farming show that while man may have approached natural farming in some
-ages, he leaned more toward scientific agriculture in others. Today, it is headed
+[[fukuoka-textdoc-natural-livestock-farming-open-grazing]] show that while man may have approached natural farming in some
+ages, he leaned more toward [[fukuoka-critique-scientific-agriculture-civilization]] in others. Today, it is headed
 toward fully automated and systemized production.
 
 The immediate reason for this trend is that artificial methods of raising livestock and

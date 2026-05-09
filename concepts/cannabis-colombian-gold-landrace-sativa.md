@@ -1,5 +1,5 @@
 ---
-title: Colombian Gold — Pure Landrace Sativa from the Andes
+title: [[cannabis-colombian-strain-description-clarke]] gold [[african-landrace-sativa-modern-hybrids]] — Pure african-landrace-sativa-modern-hybrids from the Andes
 tags:
   - cannabis
   - strain-profile
@@ -67,7 +67,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -144,5 +144,6 @@ include primary research literature, established reference works,
 practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
-area and contributing to its ongoing development and refinement.
+## See Also
 
+- [[polm-gold-moroccan-chefchaouen-sativa-hybrid]]

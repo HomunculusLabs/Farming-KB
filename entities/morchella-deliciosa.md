@@ -19,7 +19,7 @@ sources:
 
 # Morchella deliciosa
 
-*Morchella deliciosa* is a species of **morel mushroom** in the family Morchellaceae, prized by foragers for its culinary value. It is one of several species within the *Morchella elata* clade (black morels) and is found across temperate regions of Europe and North America. The species epithet *deliciosa* means "delicious" in Latin, reflecting its esteemed status as a table mushroom.
+*Morchella deliciosa* is a species of **morel mushroom** in the family Morchellaceae, prized by foragers for its culinary value. It is one of several species within the *Morchella elata* clade (black morels) and is found across temperate regions of Europe and [[psilocybin-north-america-pacific-northwest]]. The species epithet *deliciosa* means "delicious" in Latin, reflecting its esteemed status as a table mushroom.
 
 ## Taxonomy and Classification
 
@@ -72,11 +72,11 @@ Morels typically fruit in **spring** (March–May in the Northern Hemisphere), w
 - **North America:** Found in eastern deciduous forests and the Pacific Northwest
 - **Asia:** Reported from China, Japan, and the Himalayan region
 
-The species shows a preference for **calcareous soils** in Europe but tolerates a wider pH range in North American populations.
+The species shows a preference for **calcareous soils** in Europe but tolerates a wider pH range in [[growing-gourmet-north-american-reishi-species]] populations.
 
 ## Culinary Value
 
-*M. deliciosa* is considered an **excellent edible mushroom** when thoroughly cooked. Key culinary considerations:
+*M. deliciosa* is considered an **excellent [[bloomfield-boletus-satanus-edible-mushroom-hazards]]** when thoroughly cooked. Key culinary considerations:
 
 - **Must be cooked** — raw morels contain small amounts of hydrazine compounds (gyromitrin analogs) that are destroyed by heat
 - The flavor is described as nutty, earthy, and richly umami
@@ -90,7 +90,7 @@ Morels must never be consumed raw or undercooked. While *M. deliciosa* is a true
 
 ## Cultivation
 
-Like all morels, *M. deliciosa* has proven **extremely difficult to cultivate** commercially. While some success has been reported with indoor cultivation systems using sterile substrate inoculation and specific environmental triggers (temperature cycling, soil flooding), reliable and economical cultivation remains elusive. Most commercial morels are still wild-harvested.
+Like all morels, *M. deliciosa* has proven **extremely difficult to cultivate** commercially. While some success has been reported with [[cannabis-sativa-indoor-cultivation-techniques]] systems using sterile substrate inoculation and specific environmental triggers (temperature cycling, soil flooding), reliable and economical cultivation remains elusive. Most commercial morels are still wild-harvested.
 
 ## Similar Species
 
@@ -108,11 +108,13 @@ While *M. deliciosa* is not considered threatened globally, local populations ca
 
 - Habitat destruction from urban development
 - Over-harvesting in popular foraging areas
-- Climate change affecting spring fruiting conditions
+- [[dighton-fungi-climate-change-feedback]] affecting spring fruiting conditions
 
-Sustainable foraging practices include cutting mushrooms at the base rather than pulling (to preserve the mycelium), using mesh bags to facilitate spore dispersal while collecting, and avoiding harvest of very young specimens to allow spore maturation and dispersal.
+Sustainable foraging practices include cutting mushrooms at the base rather than pulling (to preserve the mycelium), using mesh bags to facilitate [[aquatic-fungi-spore-dispersal-ingold]] while collecting, and avoiding harvest of very young specimens to allow spore maturation and dispersal.
 
 ## See Also
+
+- [[morchella-rufobrunnea]]
 
 - [[ectomycorrhizal-associations]]
 - [[morchella-esculenta]] — Yellow Morel

@@ -1,5 +1,5 @@
 ---
-title: The Apoplastic Symplastic and Transcellular Transport Pathways
+title: The the apoplastic symplastic and transcellular transport pathways and Transcellular Transport Pathways
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -38,7 +38,7 @@ The apoplast is the continuous space outside the plasma membrane, including cell
 
 ### The Casparian Strip Barrier
 
-The endodermis is a single layer of cells whose walls are impregnated with suberin (a waxy, waterproof substance). This Casparian strip blocks the apoplastic pathway, forcing all water and dissolved substances to cross a cell membrane (enter the symplastic pathway) before proceeding inward. This is the plant's primary quality-control checkpoint.
+The endodermis is a single layer of cells whose walls are impregnated with suberin (a waxy, waterproof substance). This Casparian strip blocks the apoplastic pathway, forcing all water and dissolved substances to cross a [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] (enter the symplastic pathway) before proceeding inward. This is the plant's primary quality-control checkpoint.
 
 ## The Symplastic Pathway
 
@@ -64,7 +64,7 @@ The symplast is the continuous cytoplasmic space of all living cells connected b
 ### Limitations
 
 - Slower than apoplastic pathway (membrane barriers)
-- Requires energy for active transport
+- Requires energy for [[diffusion-osmosis-and-active-transport-in-plants]]
 - Limited to molecules that can cross membranes or pass through plasmodesmata
 
 ### The Desmotubule
@@ -131,7 +131,9 @@ This redundancy serves several purposes:
 - Creates the quality-control checkpoints essential for plant survival
 - Enables both passive water movement and active nutrient accumulation
 
-## Related Topics
+## Related
+
+- [[chorismate-metabolism-and-branch-pathways]] Topics
 
 - [[water-pathways-through-plants]] -- the complete water transport picture
 - [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] -- membrane crossing mechanisms

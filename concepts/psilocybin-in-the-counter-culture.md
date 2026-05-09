@@ -17,7 +17,7 @@ sources:
 
 # Psilocybin in the Counter-Culture
 
-The role of psilocybin mushrooms in the 1960s counterculture, from Harvard research to the hippie movement.
+The role of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] in the 1960s counterculture, from Harvard research to the hippie movement.
 
 ## From Medicine to Counterculture
 
@@ -34,7 +34,7 @@ The evolution of psychedelics from legitimate research tools to countercultural 
 Timothy Leary and Richard Alpert, both psychology professors at Harvard University, became the pivotal figures in bringing psychedelics into the cultural mainstream:
 
 - **1960**: Leary traveled to Cuernavaca, Mexico and consumed psilocybin mushrooms, an experience he described as the most profound of his life. He returned to Harvard and, with Alpert, founded the **Harvard Psilocybin Project**.
-- The Project administered psilocybin to volunteers including graduate students, prisoners at Concord State Prison, and divinity students. The **Good Friday Experiment** (1962), conducted by Walter Pahnke, tested whether psilocybin could induce genuine mystical experiences in religious settings.
+- The Project administered psilocybin to volunteers including graduate students, prisoners at Concord State Prison, and divinity students. The **Good [[good-friday-experiment-marsh-chapel]]** (1962), conducted by Walter Pahnke, tested whether psilocybin could induce genuine [[psilocybin-mystical-experiences-personality-change]] in religious settings.
 - **1963**: Leary and Alpert were dismissed from Harvard amid controversy over their methods, their distribution of psychedelics to students, and their increasingly public advocacy.
 - After Harvard, Leary became a full-time counterculture figure, coining slogans like "Turn on, tune in, drop out." He moved to Millbrook, New York, where he hosted psychedelic sessions and became, in Hofmann's words, an "apostle of LSD."
 
@@ -48,7 +48,7 @@ Despite the counterculture's embrace of psychedelics, serious academic research 
 
 - Mycologists described and identified new psilocybin-containing species without censure.
 - Anthropologists, ethnobotanists, and pharmacologists studied indigenous use of plant hallucinogens in distant cultures.
-- Journals like the *Journal of Psychedelic Drugs*, the *Journal of Altered States of Consciousness*, and the *Journal of Ethnopharmacology* published extensively on indigenous drug use.
+- Journals like the *Journal of Psychedelic Drugs*, the *Journal of [[weil-the-natural-mind-altered-states-normalcy]] of Consciousness*, and the *Journal of Ethnopharmacology* published extensively on indigenous drug use.
 - Major conferences on ethnopharmacology were held, including a 1967 San Francisco conference organized by the National Institute of Mental Health.
 - Peter Furst's *Flesh of the Gods* (1972) and Michael Harner's *Hallucinogens and Shamanism* (1973) kept academic inquiry alive.
 
@@ -56,7 +56,7 @@ Despite the counterculture's embrace of psychedelics, serious academic research 
 
 In the 1970s, psilocybin mushrooms "tipped" from academic curiosity to popular drug choice:
 
-- Folk knowledge spread from returning Mexican mushroom pilgrims and from those who discovered hallucinogenic species growing locally.
+- Folk knowledge spread from returning [[gartz-wasson-mexican-mushroom-cult-rediscovery]] pilgrims and from those who discovered hallucinogenic species growing locally.
 - Hostile press coverage of mushroom pickers on farmland paradoxically brought mushrooms to wider attention.
 - Academic publications on taxonomy, identification, pharmacology, and dosage filtered into popular culture, serving as practical guides.
 - Paul Stamets published *Psilocybe Mushrooms and Their Allies* (1976), providing reliable identification and cultivation information.
@@ -68,7 +68,7 @@ Carlos Castaneda's *The Teachings of Don Juan: A Yaqui Way of Knowledge* (1968) 
 
 ## Legacy
 
-The association between psychedelics and the counterculture had a double-edged legacy. It popularized these substances globally but also provoked the backlash that led to their criminalization, effectively shutting down clinical research for decades. The cultural stigma attached to psychedelics as "hippie drugs" is only now being overcome by the modern scientific renaissance.
+The association between psychedelics and the counterculture had a double-edged legacy. It popularized these substances globally but also provoked the backlash that led to their criminalization, effectively shutting down [[hofmann-lsd-clinical-research-early-studies]] for decades. The cultural stigma attached to psychedelics as "hippie drugs" is only now being overcome by the modern scientific renaissance.
 
 ## Related Topics
 
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

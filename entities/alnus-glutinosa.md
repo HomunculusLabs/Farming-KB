@@ -83,13 +83,13 @@ Black alder is valued in permaculture and agroforestry for its rapid growth, nit
 - **Nitrogen fixation rate:** 40–100 kg N/ha/year, depending on site conditions and tree density
 - **Mechanism:** Oxygen-limited compartment within nodules protects nitrogenase; hemoglobin (similar to leghemoglobin in legumes) regulates oxygen diffusion
 - **Seasonality:** Active during growing season; nodules senesce in autumn and reactivate in spring
-- **Transfer to ecosystem:** Fixed nitrogen is transferred to surrounding plants via mycorrhizal networks, leaf litter decomposition, and root exudates
+- **Transfer to ecosystem:** Fixed nitrogen is transferred to surrounding plants via [[mycorrhizal-networks]], leaf litter decomposition, and [[root-exudates]]
 - **Comparison to legumes:** Fixes less nitrogen per unit area than soybeans (~200 kg N/ha) but provides year-round fixation over a much longer lifespan and across a broader range of soil conditions
 
 ### Ectomycorrhizal Associations
 
-- Black alder simultaneously hosts both *Frankia* (nitrogen-fixing) and ectomycorrhizal fungi, a dual symbiosis relatively uncommon among temperate trees
-- Common ectomycorrhizal partners include *Laccaria laccata*, *Paxillus involutus*, *Alpova diplophloeus*, and several *Tomentella* species
+- Black alder simultaneously hosts both *Frankia* (nitrogen-fixing) and [[ectomycorrhizal-fungi]], a dual symbiosis relatively uncommon among temperate trees
+- Common ectomycorrhizal partners include *[[laccaria-laccata]]*, *[[paxillus-involutus]]*, *Alpova diplophloeus*, and several *Tomentella* species
 - The tripartite association (alder–Frankia–ectomycorrhiza) significantly enhances phosphorus uptake and overall nutrient cycling efficiency
 
 ## Phytochemistry and Medicinal Properties
@@ -130,7 +130,7 @@ Black alder is valued in permaculture and agroforestry for its rapid growth, nit
 | *Alnus rubra* (Red Alder) | Pacific Northwest native, larger, redder wood, faster-growing |
 | *Alnus viridis* (Green Alder) | Shrub-sized, montane, spreading habit |
 | *Alnus cordata* (Italian Alder) | Glossy heart-shaped leaves, drought-tolerant, Mediterranean |
-| *Betula pendula* (Silver Birch) | Similar habitat but no nitrogen fixation; birch family |
+| *[[betula-pendula]]* (Silver Birch) | Similar habitat but no nitrogen fixation; birch family |
 
 ## See Also
 

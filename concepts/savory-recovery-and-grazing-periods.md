@@ -1,5 +1,5 @@
 ---
-title: Recovery and Grazing Periods
+title: savory recovery and grazing periods Periods
 created: 2026-04-28
 tags: [grazing-planning, time-management, holistic-management]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 
 # Recovery and Grazing Periods
 
-In [[savory-livestock-grazing-planning]]. Savory demonstrates that these two
+In . Savory demonstrates that these two
 periods are inextricably linked: any change to one inevitably affects the
 other, and failing to understand this linkage is a primary cause of both
 [[savory-grazing-mechanics-and-root-sacrifice]], which happens when animals bite off a regrowing plant before it
@@ -26,7 +26,7 @@ leaves the crucial recovery period to chance.
 
 ## Computing Grazing from Recovery Periods
 
-Land managed as a unit for grazing is called a grazing cell. The timing of
+Land managed as a unit for grazing is called a [[savory-land-planning-and-grazing-cell-design]]. The timing of
 herd moves within the cell depends on the number of subdivisions (paddocks)
 per herd. Given a selected recovery period, the grazing period is computed
 using a formula originally credited to Andre Voisin:
@@ -77,7 +77,7 @@ where the [[savory-ecosystem-foundation-blocks]].
 ## Impact on Ecosystem Processes
 
 Properly managed recovery and grazing periods directly support all four
-ecosystem foundation blocks. Adequate recovery allows plants to rebuild
+[[savory-ecosystem-foundation-blocks]] blocks. Adequate recovery allows plants to rebuild
 root systems, which improves the [[savory-mineral-cycle-management]] through root turnover. Short grazing periods
 prevent overgrazing and maintain plant vigor, supporting [[savory-plant-succession-and-community-dynamics]] toward more complex,
 stable communities.

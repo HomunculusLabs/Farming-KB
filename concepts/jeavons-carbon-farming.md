@@ -11,13 +11,13 @@ updated: 2026-04-26
 
 # Carbon Farming and Carbon Crops
 
-Carbon farming is the practice of growing crops specifically to produce large amounts of carbonaceous material for compost. This is the foundation of sustainable soil fertility in the GROW BIOINTENSIVE method.
+Carbon farming is the practice of growing crops specifically to produce large amounts of carbonaceous material for compost. This is the foundation of sustainable soil fertility in the [[jeavons-grow-biointensive-method-overview]] method.
 
 ## Why Carbon Matters
 
 When soil grows crops, it loses nutrients and humus that soil microorganisms consume. The carbon that leaves the soil in the form of carbon dioxide must be returned through compost crops that store large amounts of carbon in their bodies.
 
-Humus (4-6% organic matter in temperate regions, 3% in tropical ones) is:
+Humus (4-6% [[hamilton-composting-and-organic-matter-management]] in temperate regions, 3% in tropical ones) is:
 - The food of soil microorganisms responsible for creating good soil structure and fertility
 - The key to holding nutrients in soil so they don't leach out
 - The most limiting and essential element in maintaining sustainable soil fertility
@@ -26,7 +26,7 @@ Humus (4-6% organic matter in temperate regions, 3% in tropical ones) is:
 
 Ecology Action's experience at the Common Ground Mini-Farm in Willits, California, illustrates the challenge:
 
-1. **Initial phase:** Soil was so infertile that carbonaceous compost crops did not grow well. Carbonaceous material and horse manure were imported.
+1. **Initial phase:** Soil was so infertile that carbonaceous compost crops did not grow well. Carbonaceous material and [[falconer-horse-manure-varieties]] were imported.
 2. **Transition phase:** Limited compost building to include materials produced on-site, but many test crops didn't produce much carbon. Without sufficient cured compost, the soil began losing humus.
 3. **Current phase:** Working toward closed-system soil humus sustainability using compost materials grown primarily within the growing beds.
 
@@ -44,7 +44,7 @@ Carbon-and-calorie crops should optimally be grown on approximately **60% of the
 
 **Legumes (for nitrogen):** fava beans (grown to maturity), interplanted with grains to provide nitrogen for composting
 
-**Other:** sunflowers, Jerusalem artichoke
+**Other:** sunflowers, [[comparison-jerusalem-artichoke-vs-potato]]
 
 ## Carbon Crops vs. Green Manures
 
@@ -56,7 +56,7 @@ Carbon-and-calorie crops should optimally be grown on approximately **60% of the
 | Nitrogen contribution | From interplanted legumes | From legume root nodules |
 | Soil building | Through compost | By digging residues into soil |
 
-**GROW BIOINTENSIVE recommendation:** Green manures are much more effective when used as compost materials rather than being dug into the soil. The plant residues are more valuable in the compost pile, and the roots still have their good effect in the soil.
+**GROW BIOINTENSIVE recommendation:** Green manures are much more effective when used as compost materials rather than being dug into the soil. The plant residues are more valuable in the [[mushroom-cultivator-compost-pile-management]], and the roots still have their good effect in the soil.
 
 ## Humus Sustainability Goals
 
@@ -92,7 +92,7 @@ The net loss of carbon dioxide ("leakage") from the system is a key concern. Wor
 
 The ultimate goal is a mini-farm that:
 - Produces all of its own compost material without importing straw, manure, or other carbonaceous material
-- Maintains nutrient sustainability (though some organic fertilizers may be needed until human waste can be safely returned to the soil)
+- Maintains nutrient sustainability (though some [[hamilton-organic-fertilizers-and-plant-nutrition]] may be needed until human waste can be safely returned to the soil)
 - Becomes a net source of carbon, nutrients, and fertility rather than a sink
 
 "We need to grow enough organic matter for our own needs. If we farm in a way that does not sustain soil fertility, the soil that is currently used to grow crops will soon be able to grow only fodder for sheep, later only scraggly weeds for goats, and then nothing at all."

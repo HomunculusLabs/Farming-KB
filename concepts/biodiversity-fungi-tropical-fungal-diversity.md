@@ -1,5 +1,5 @@
 ---
-title: Tropical Fungal Diversity
+title: Tropical arbuscular-mycorrhizal-fungal-diversity-patterns-distribution
 created: 2026-04-28
 tags:
   - mycology
@@ -16,7 +16,7 @@ type: concept
 
 # Tropical Fungal Diversity
 
-Tropical regions harbor some of the most diverse fungal communities on
+Tropical regions harbor some of the most diverse [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] on
 Earth, yet they remain among the least studied. The gap between estimated
 and described tropical fungal species is enormous, representing one of the
 most significant challenges in [[fungal-endemism-and-biogeography]] that face accelerating habitat loss.
@@ -104,4 +104,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Experience Preparation
+title: leary-psychedelic-experience-bardo-mapping Preparation
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Psychedelic Experience Preparation
 
-Proper preparation is the single most important factor in determining the quality and safety of a psychedelic experience. Turner emphasizes that the main reason for negative experiences is lack of preparation, rather than anything inherent in the person or in the substance. One's chances of having a bad trip, or not being able to reintegrate afterwards, can be sharply reduced by learning about the experience beforehand.
+Proper preparation is the single most important factor in determining the quality and safety of a psychedelic experience. Turner emphasizes that the main reason for negative experiences is lack of preparation, rather than anything inherent in the person or in the substance. One's chances of having a [[emcdda-bad-trip-phenomenology-psychiatric-intervention]], or not being able to reintegrate afterwards, can be sharply reduced by learning about the experience beforehand.
 
 ## Physical Preparation
 
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

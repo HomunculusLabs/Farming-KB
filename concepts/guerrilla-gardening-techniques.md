@@ -20,7 +20,7 @@ converting lawns into gardens, giving neglected spaces
 particularity, identity, and conviviality.
 
 The practice challenges the notion that productive
-landscapes belong only in rural areas. Urban permaculture
+landscapes belong only in rural areas. [[pdc-urban-permaculture-design-principles]]
 demonstrates that cities and suburbs can be imagined as
 large gardens where nature shifts from background to
 foreground. Guerrilla gardening makes this vision real in
@@ -60,7 +60,7 @@ practitioners generally focus on neglected, publicly owned
 spaces that clearly benefit from improvement. The practice
 has gained widespread acceptance as cities recognize the
 value of green infrastructure for stormwater management,
-air quality, and community wellbeing.
+[[cervantes-air-quality-ventilation]], and community wellbeing.
 
 ## Getting Started
 
@@ -71,7 +71,7 @@ right now, on whatever scale suits you. Initiating
 systematic or random acts of restoration and evoking the
 spirit of the place can transform neglected urban spaces.
 
-Start small with seed balls on a roadside, a fruit tree
+Start small with [[comparison-seed-balls-vs-direct-seeding]] on a roadside, a [[comparison-berry-growing-vs-fruit-tree-pruning]]
 in a vacant lot, or herbs in a traffic island. Observe
 what thrives and expand from there. Every successful
 guerrilla garden inspires others and builds momentum for

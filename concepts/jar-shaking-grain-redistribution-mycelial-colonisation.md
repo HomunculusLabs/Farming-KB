@@ -1,5 +1,5 @@
 ---
-title: Jar Shaking and Grain Redistribution for Mycelial Colonisation
+title: Jar Shaking and jar shaking grain redistribution mycelial colonisation for Mycelial Colonisation
 created: 2026-05-06
 tags: [mycelial-colonisation, grain-jar, shaking-technique, spawn-expansion, cultivation, colonisation-speed, contamination-prevention]
 date: 2026-04-28
@@ -45,7 +45,7 @@ substrate. Each colonised kernel thus functions as a miniature inoculation point
 
 The optimal timing for the first shake depends on several interacting factors:
 
-**Species**: Fast-colonising species like Psilocybe cubensis establish visible
+**Species**: Fast-colonising species like [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] establish visible
 mycelium within a few days of inoculation, while slower species may take a week
 or more to develop sufficient colonisation to justify shaking. Tropical species
 generally colonise faster at warm temperatures than temperate species.
@@ -54,7 +54,7 @@ generally colonise faster at warm temperatures than temperate species.
 spores that must germinate and mate before colonisation proceeds, typically
 require longer colonisation before shaking than liquid culture or agar
 inoculation, which deposit already-mated mycelium directly onto the grain. The
-genetic compatibility window required for spore germination adds days or weeks
+genetic compatibility window required for [[growing-gourmet-spore-germination-strain-isolation]] adds days or weeks
 to the initial phase.
 
 **Substrate**: Grass seed substrates, with their relatively small kernel size
@@ -103,7 +103,7 @@ greatest.
 
 Several visual indicators can signal problems during the colonisation phase:
 
-**Yellowish metabolite excretion**: If jars are incubated too long or at too
+**Yellowish [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]]**: If jars are incubated too long or at too
 high a temperature, the mycelium will excrete yellowish metabolites into the
 substrate. This fluid is a stress response and indicates that the mycelium is
 struggling, often due to elevated temperatures or depleted substrate. Jars
@@ -126,7 +126,7 @@ can differ greatly in their ability to absorb water.
 ## Application to Sclerotia Production
 
 The jar shaking technique is also relevant to sclerotia production in species
-such as Psilocybe mexicana and Psilocybe tampanensis. These species can produce
+such as [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] and [[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]. These species can produce
 sclerotia while still colonising grain in the jar, without the need for casing
 or fruiting. Sclerotia will continue to enlarge until approximately four months
 after inoculation. While shaking during early colonisation is beneficial for
@@ -136,10 +136,13 @@ developing sclerotia should be avoided once they have begun to form.
 ## Contamination Prevention During Shaking
 
 Shaking necessarily introduces air movement within the jar and temporarily
-disrupts the mycelial network. To minimise contamination risk during and after
-shaking:
 ## See Also
 
+- colonization-shaking-redistribution-grain-kernels
+
 - [[mycelial-metabolite-exudation-stress-indicator-jar-cultivation]]
-- [[fungal-nutrient-translocation-mycelial-systems]]
+- fungal-nutrient-translocation-mycelial-systems
 - [[grain-spawn-types-and-preparation]]
+- [[psilocybe-mexicana]]
+- [[spore-syringe]]
+- [[sclerotia-production]]

@@ -1,5 +1,5 @@
 ---
-title: Oriental Herbal Nutrient Preparation (Cho's Method)
+title: bionutrients-lab-oriental-herbal-nutrients-ohn Nutrient Preparation (Cho's Method)
 created: 2026-04-28
 tags: [knf, input-preparation, herbal-medicine]
 date: 2026-04-28
@@ -10,7 +10,7 @@ type: concept
 ---
 
 The Oriental Herbal Nutrient (OHN) is a very important input in Dr.
-Cho's Natural Farming system. It is made from herbs that are full of
+Cho's [[comparison-natural-farming-vs-permaculture]] system. It is made from herbs that are full of
 energy and function to increase plant robustness, to sterilize, and
 to keep plants warm. OHN revitalizes crops and activates their growth.
 It is made from popular oriental herbs such as Angelica, Acutiloba,
@@ -103,7 +103,7 @@ OHN is one of the most versatile inputs in Natural Farming and is used
 throughout the entire [[cho-indigenous-microorganisms-collection-and-cultivation]] and IMO-4
 - [[cho-seed-seedling-solution-treatment]]
 - All growth periods: nutritional growth, change-over, and
-  reproductive growth periods
+  [[knf-reproductive-growth-stage]] periods
 
 ### When Crops Are Weakened
 
@@ -112,7 +112,7 @@ To reinvigorate weakened crops, apply a mixture of:
 - FPJ at 1:500 dilution
 - BRV at 1:500 dilution
 
-For plants with soft rot or anthracnose, add WCA at 1:1000 dilution
+For plants with [[staycare-soft-rot-fungi-in-pollutant-degradation]] or anthracnose, add WCA at 1:1000 dilution
 to the mixture.
 
 ## Key Principle
@@ -120,7 +120,7 @@ to the mixture.
 OHN is always used in Natural Farming. It is considered one of the
 most important inputs because it bridges all growth stages and
 provides the robustness and sterilization that plants need throughout
-their life cycle.
+their [[bloomfield-fungal-life-cycle-spiral-versus-circle]].
 
 ## See Also
 

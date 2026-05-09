@@ -8,7 +8,7 @@ tags: [fungi, basidiomycota, agaricales, pluteaceae, pluteus,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources: []
   - "/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 ---
 # Pluteus glaucus
@@ -17,16 +17,16 @@ Pluteus glaucus is a psychoactive mushroom in the family
 Pluteaceae, recognized as one of the psilocybin-containing
 members of the genus Pluteus. The genus Pluteus is
 distinguished by its free gill attachment and pink
-spore print, characteristics that separate it from most
+[[comparison-spore-print-collection-vs-spore-syringe-production]], characteristics that separate it from most
 other genera containing psychoactive species. P. glaucus
 is a wood-inhabiting saprotroph found on decaying logs,
-stumps, and woody debris in temperate forests. The species
+stumps, and [[fungal-succession-woody-debris-ecology]] in temperate forests. The species
 name "glaucus" refers to the bluish-grey or glaucous
 coloration that is characteristic of fresh specimens, a
 feature that hints at its psychoactive chemistry. While
 less well-known than the Psilocybe genus, Pluteus species
 with psilocybin represent an important and often overlooked
-component of the global distribution of neurotropic fungi.
+component of the global [[global-distribution-of-neurotropic-fungi]] fungi.
 The documentation of psilocybin in Pluteus species expanded
 the understanding of how widely these compounds are
 distributed across the Agaricales.
@@ -96,7 +96,7 @@ distributed across the Agaricales.
 | Clamp connections | Present |
 ## Distribution and Habitat
 - **Geographic range:** Temperate regions of Europe and
-  North America; reported from forested areas of Asia
+  [[psilocybin-north-america-pacific-northwest]]; reported from forested areas of Asia
   where suitable habitat exists
 - **Substrate:** Saprotrophic, growing exclusively on dead
   wood of broadleaf trees (especially Fagus, Quercus,
@@ -128,7 +128,7 @@ genera than was historically appreciated:
   fungi, published potency figures are derived from dried
   herbarium specimens and may significantly underestimate
   the concentrations present in fresh material. Specimen
-  age, storage conditions, and geographic origin all
+  age, [[vegetable-storage-conditions-by-temperature-and-humidity]], and geographic origin all
   influence reported alkaloid levels
 ## Similar Species
 | Species | Distinguishing Features |

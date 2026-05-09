@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Hermann, R.K. & Lavender, D.P. (1990). "Pseudotsuga menziesii." In: Burns, R.M. & Honkala, B.H. (eds.) Silvics of North America, Vol. 1. USDA Forest Service.
+  - Hermann, R.K. & Lavender, D.P. (1990). "Pseudotsuga menziesii." In: Burns, R.M. & Honkala, B.H. (eds.) Silvics of psilocybin-north-america-pacific-northwest, Vol. 1. USDA Forest Service.
   - Franklin, J.F. & Dryness, C.T. (1973). Natural Vegetation of Oregon and Washington. USDA Forest Service General Technical Report PNW-8.
   - Klinka, K. et al. (2000). "Towards a taxonomic classification of humus forms." Forest Science 46(4): 1-49.
   - Farjon, A. (2017). A Handbook of the World's Conifers (2nd ed.). Brill.
@@ -58,7 +58,7 @@ Associated tree species vary by region. Coastal stands commonly include *Picea s
 
 Douglas-fir forms extensive climax and seral forests across its range. In the Pacific Northwest, it is a long-lived seral species that can persist for 500–1,000+ years in old-growth stands. The species is the dominant component of the "Douglas-fir zone" in British Columbia and the Pacific Northwest.
 
-The root system features a deep taproot in well-drained soils and widespread lateral roots. Douglas-fir forms **ectomycorrhizal associations** with numerous fungal genera, including *Suillus*, *Rhizopogon*, *Laccaria*, and *Pisolithus*. These associations are critical for nutrient uptake, particularly phosphorus.
+The root system features a deep taproot in well-drained soils and widespread lateral roots. Douglas-fir forms **ectomycorrhizal associations** with numerous fungal genera, including *Suillus*, *Rhizopogon*, *Laccaria*, and *Pisolithus*. These associations are critical for [[plant-nutrient-uptake-mechanisms]], particularly phosphorus.
 
 **Ganoderma tsugae**, the hemlock varnish shelf, commonly fruits on Douglas-fir despite its specific epithet. Heart rot fungi such as *Fomes* and *Phellinus* species create hollow cavities in old-growth trees, providing critical habitat for cavity-nesting birds and mammals.
 
@@ -80,9 +80,9 @@ The species is also widely harvested as Christmas trees, particularly the interi
 
 The species is also important for pulp and paper production, railroad ties, pilings, and pallets. Smaller logs and mill residues are chipped for oriented strand board (OSB) and particleboard manufacturing.
 
-Douglas-fir yields a commercially valuable essential oil through steam distillation of foliage and twigs. The oil contains primarily **α-pinene**, **β-pinene**, **sabinene**, and **limonene**, and is used in cleaning products, fragrances, and aromatherapy.
+Douglas-fir yields a commercially valuable [[permaculture-designers-manual-essential-oil-plants]] through [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of foliage and twigs. The oil contains primarily **α-pinene**, **β-pinene**, **sabinene**, and **limonene**, and is used in cleaning products, fragrances, and aromatherapy.
 
-Native American peoples of the Pacific Northwest used Douglas-fir extensively. Wood was shaped into canoes, poles, and house planks. Bark was used for medicinal teas to treat colds, stomach ailments, and rheumatism. Young spring buds were a source of vitamin C and were chewed or brewed as a tonic.
+[[halpern-sacramental-peyote-and-native-american-church]] peoples of the Pacific Northwest used Douglas-fir extensively. Wood was shaped into canoes, poles, and house planks. Bark was used for medicinal teas to treat colds, stomach ailments, and rheumatism. Young spring buds were a source of vitamin C and were chewed or brewed as a tonic.
 
 ## Cultivation and Ornamental Use
 
@@ -96,7 +96,7 @@ Propagation is primarily from seed, though vegetative methods including rooted c
 
 Interior Douglas-fir varieties are preferred for cold-climate plantings due to superior winter hardiness. Coastal varieties perform best in mild, humid climates with adequate summer rainfall or irrigation.
 
-Pests and pathogens include the Douglas-fir beetle (*Dendroctonus pseudotsugae*), western spruce budworm (*Choristoneura occidentalis*), and Swiss needle cast (*Phaeocryptopus gaeumannii*). Climate change has increased Swiss needle cast severity in coastal Oregon, causing significant growth reductions in affected stands.
+Pests and pathogens include the Douglas-fir beetle (*Dendroctonus pseudotsugae*), western spruce budworm (*Choristoneura occidentalis*), and Swiss needle cast (*Phaeocryptopus gaeumannii*). [[dighton-fungi-climate-change-feedback]] has increased Swiss needle cast severity in coastal Oregon, causing significant growth reductions in affected stands.
 
 ## See Also
 

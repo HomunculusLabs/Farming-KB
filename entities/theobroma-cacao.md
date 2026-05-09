@@ -33,7 +33,7 @@ sources:
 native to the Amazon basin and cultivated throughout the humid tropics for its
 seeds, the sole source of cocoa and chocolate.
 
-The species is one of the most economically significant tropical crops,
+The species is one of the most economically significant [[mollison-specialist-tropical-crops-forest-products]],
 supporting millions of smallholder farmers globally with a confectionery market
 exceeding $130 billion annually. The name *Theobroma* means "food of the gods,"
 reflecting the deep cultural reverence among Mesoamerican civilizations who
@@ -63,12 +63,12 @@ Native to the upper Amazon basin centered on Ecuador, Colombia, and Peru, with
 the greatest genetic diversity in the Napo River region. Now cultivated across
 the humid tropics between 20°N and 20°S.
 
-Major production regions: West Africa (Côte d'Ivoire, Ghana), Southeast Asia
+Major production regions: West Africa (Côte d'Ivoire, Ghana), [[psilocybe-southeast-asia-pacific]]
 (Indonesia), and the Americas (Ecuador, Brazil, Dominican Republic, Peru).
 
 Optimal conditions: 25–28°C, 1,500–2,500 mm rainfall, 70–90% humidity, well-
 drained acidic soils (pH 5.5–7.0). Shade-tolerant as juveniles, traditionally
-grown under canopy in [[theobromine]]** (1–3% dry weight) is the primary xanthine, a mild
+grown under canopy in theobromine** (1–3% dry weight) is the primary xanthine, a mild
 vasodilatory stimulant less potent than caffeine.
 
 Cocoa is exceptionally rich in **flavan-3-ols** (6–8% in raw beans), especially
@@ -100,3 +100,7 @@ shade trees (*Inga* spp., *[[dimocarpus-longan]]
 - *[[stropharia-rugosoannulata]] — temperate [[food-forest]] mushroom
 - *musa-acuminata* — banana, standard cacao intercrop
 - theobromine — primary xanthine alkaloid in cacao
+
+## See Also
+
+- [[theobroma-grandiflorum]]

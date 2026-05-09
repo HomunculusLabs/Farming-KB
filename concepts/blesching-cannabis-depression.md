@@ -27,8 +27,8 @@ treatment-resistant depression.
 
 ## Key References
 
-Blesching, U. (2017). *The Cannabis Health Index*. North Atlantic Books.
-See Chapter on mood disorders for full study citations and CHI scoring
+Blesching, U. (2017). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. North Atlantic Books.
+See Chapter on mood disorders for full study citations and [[blesching-cannabis-chi-scoring-evidence-based-medicine]]
 methodology.
 ## Practical Applications
 
@@ -107,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

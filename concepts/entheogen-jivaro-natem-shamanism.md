@@ -1,5 +1,5 @@
 ---
-title: "Jivaro Natem Shamanism"
+title: "entheogen jivaro natem shamanism Shamanism"
 created: 2026-04-28
 tags: [ethnobotany, shamanism, ayahuasca, banisteriopsis, amazonian]
 date: 2026-04-25
@@ -29,19 +29,19 @@ The shaman blows away the froth on the bubbling natem brew as it
 cooks, checking its appearance to assess readiness. After the natem
 has boiled down and cooled, it is ready to drink.
 
-Chemical analysis has confirmed that the natem tea contains the
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] has confirmed that the natem tea contains the
 powerful hallucinogenic beta-carboline alkaloids harmaline, harmine,
 and d-tetrahydroharmine, and quite possibly N,N-dimethyltryptamine
 ([[psilocybin-mushroom-biology-chemistry]], [[hofmann-lsd-mazatec-and-psilocybin]]. The beta-carboline alkaloids function as monoamine
 oxidase inhibitors (MAOIs), which would permit orally ingested DMT
 to cross the blood-brain barrier and exert its visionary effects.
-This pharmacological synergy between the harmala alkaloids and DMT
+This pharmacological synergy between the [[turner-harmala-alkaloids-preparation-and-dosage]] and DMT
 is the same mechanism that underlies the activity of [[ayahuasca-botany-and-preparation]]
 preparations used by other Amazonian peoples.
 
 ## The Tsentsak Spirit Helpers
 
-Central to Jivaro shamanism is the concept of tsentsak, or "spirit
+Central to [[harner-jivaro-shamanism-yage]] is the concept of tsentsak, or "spirit
 helpers" -- magical darts that are the main supernatural forces
 believed to cause illness and death in daily life. To the non-shaman
 these spirit helpers are normally invisible, and even shamans can

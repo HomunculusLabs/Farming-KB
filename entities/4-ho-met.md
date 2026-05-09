@@ -24,7 +24,7 @@ sources:
 
 4-HO-MET (4-hydroxy-N-methyl-N-ethyltryptamine), also known as metocin, methylpropyltryptamine, or colloquially as "colour," is a synthetic psychedelic substance of the tryptamine class.
 It is a close structural analog of [[psilocybin]], differing only by the replacement of one methyl group on the terminal amine with an ethyl group.
-First synthesized and characterized by Alexander Shulgin, 4-HO-MET was documented in TiHKAL (Tryptamines I Have Known and Loved) as entry #40, where Shulgin reported it produces a psychedelic experience comparable to psilocybin but with distinctive visual richness.
+First synthesized and characterized by Alexander Shulgin, 4-HO-MET was documented in TiHKAL (Tryptamines I Have Known and Loved) as entry #40, where Shulgin reported it produces a [[leary-psychedelic-experience-bardo-mapping]] comparable to psilocybin but with distinctive visual richness.
 The compound has gained popularity as a research chemical and is valued for its reportedly gentler, more recreational character compared to other synthetic tryptamines.
 
 ## Chemical Properties
@@ -65,7 +65,7 @@ The shorter duration compared to [[psilocin]], potentially affecting blood-brain
 |-------|-----------|-------|--------|--------|-------|
 | Oral | 5–10 mg | 10–15 mg | 15–25 mg | 25–40 mg | 40+ mg |
 
-> ⚠️ **NOTE:** Dosage information is presented for harm reduction and educational purposes only. Individual sensitivity varies significantly. Start with lower doses and always use a milligram scale.
+> ⚠️ **NOTE:** Dosage information is presented for [[adverse-effects-and-harm-reduction-psilocybin]] and educational purposes only. Individual sensitivity varies significantly. Start with lower doses and always use a milligram scale.
 
 ## Subjective Effects
 
@@ -83,7 +83,7 @@ The effects of 4-HO-MET are broadly similar to those of [[psilocybin]]
 | Compound | Duration | Visual Intensity | Introspection | Nausea | Legality |
 |----------|----------|-----------------|---------------|--------|----------|
 | 4-HO-MET | 4–6 hours | High | Moderate | Moderate | Varies |
-| [[4-aco-dmt]] | 4–6 hours | High | High | Low | Varies |
+| [[4-acetoxy-dmt]] | 4–6 hours | High | High | Low | Varies |
 | [[lsd]] | 8–12 hours | Very High | Very High | Low | Varies |
 
 ## History
@@ -91,18 +91,18 @@ The effects of 4-HO-MET are broadly similar to those of [[psilocybin]]
 - First synthesized by Alexander Shulgin, documented in TiHKAL (1997) as entry #40
 - Shulgin reported threshold dose of 10 mg, full effects at 20–30 mg; described "a +++, with rich imagery"
 - Emerged on the research chemical market in the late 2000s/early 2010s
-- Limited formal clinical research compared to [[psilocybin]] analog (Schedule I)
-- **United Kingdom:** Class A under Psychoactive Substances Act amendments
+- Limited formal [[hofmann-lsd-clinical-research-early-studies]] compared to [[psilocybin]] analog (Schedule I)
+- **United Kingdom:** Class A under Psychoactive [[controlled-substances-act-and-psychedelic-research]] amendments
 - **Canada:** Schedule III of the Controlled Drugs and Substances Act
 - **Germany:** Controlled under NpSG (New Psychoactive Substances Act)
 - **Australia:** Scheduled as a prohibited substance
-- Legal status is evolving rapidly; consult current local regulations
+- [[ayahuasca-tourism-legal-status-by-country]] is evolving rapidly; consult current local regulations
 
 ## Harm Reduction
 
 - Always test substances with a reagent test kit when possible; use a calibrated milligram scale
 - Start with lower doses, especially with a new batch; avoid combining with MAOIs, alcohol, or other psychedelics
-- Use with a trusted sober sitter; be aware of set and setting
+- Use with a trusted sober sitter; be aware of [[lsd-set-and-setting-framework]]
 - Those with personal or family history of psychotic disorders should exercise caution
 - Allow adequate time between experiences (minimum 1–2 weeks recommended)
 

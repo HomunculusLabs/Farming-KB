@@ -1,5 +1,5 @@
 ---
-title: "The London Underground and the British Magic Mushroom Discovery"
+title: "The London Underground and the london underground and british magic mushroom discovery psilocybin-mushroom-discovery-historical-periods"
 created: 2026-04-26
 tags:
   - british-counterculture
@@ -41,13 +41,13 @@ detailing his psilocybin experience with Timothy Leary in the Sunday
 Telegraph. A month later, a prime-time BBC television documentary,
 Eye on Research, devoted an entire programme to "The Sacred Mushrooms,"
 featuring interviews with Wasson and Hofmann. The documentary showed
-pictures of Psilocybe mexicana, the species most similar in appearance
+pictures of [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]], the species most similar in appearance
 to the Liberty Cap, sprouting from a Petri dish, yet nobody grasped
 its significance.
 
 ## The Fly Agaric Distraction
 
-One reason psilocybin mushrooms were overlooked in Britain for so long
+One reason [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] were overlooked in Britain for so long
 was that popular belief still equated the "magic mushroom" with the
 fly-agaric. The playwright Jeremy Sandford, in his 1972 book In Search
 of the Magic Mushroom, swore that the fly-agaric was the only British
@@ -103,7 +103,7 @@ Jimi Hendrix sense was to have dropped Acid. Cannabis served as a
 conspicuous marker of alterity, but only one other drug conferred
 membership of the underground's inner sanctum. This LSD dominance
 meant that mushrooms were largely ignored even by those most receptive
-to psychedelic experience.
+to [[leary-psychedelic-experience-bardo-mapping]].
 
 Darnton's article was met largely with indifference, possibly because
 he focused on the fly-agaric, a drug never destined to catch on in
@@ -113,9 +113,14 @@ biology and cultivation techniques. Its initial impact was muted. The
 Liberty Cap made an unimpressive debut: by 1978 its use was confined
 to small numbers of hippies, mainly in London and southeast England.
 
-## Related Topics
+## Related
+
+- falconer-london-ridge-mushroom-picking-and-market-grades Topics
 
 - [[psychedelic-mushroom-set-and-setting]] - broader counterculture context
-- [[mushroom-music-psychedelic-underground]] - music and underground
+- mushroom-music-psychedelic-underground - music and underground
   - culture
-- [[mushroom-cultivation-underground-history]] - cultivation history
+- mushroom-cultivation-underground-history - [[cuthill-mushroom-cultivation-history-19th-century]]
+- [[psilocybin-mushrooms]]
+- [[psilocybe-mexicana]]
+- [[timothy-leary]]

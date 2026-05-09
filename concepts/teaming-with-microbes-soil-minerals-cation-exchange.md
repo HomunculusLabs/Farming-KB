@@ -1,5 +1,5 @@
 ---
-title: Teaming with Microbes: Soil Minerals and Cation Exchange
+title: Teaming with Microbes: Soil Minerals and mollison-designers-tropical-soils-and-cation-exchange-management
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -40,13 +40,13 @@ The number of exchange sites on soil particles measures the soil's capacity to h
 CEC depends on soil texture:
 - **Sand and silt**: Low CEC (particles too large for electrical charge)
 - **Clay**: Higher CEC (small particles with many charges)
-- **Organic matter/humus**: Highest CEC per unit weight
+- **[[hamilton-composting-and-organic-matter-management]]/humus**: Highest CEC per unit weight
 
 This is why gardeners add organic matter: more humus means more nutrient storage capacity. However, too much clay without sufficient humus creates high CEC but poor drainage due to clay's platy structure blocking pore space.
 
 ## pH and Nutrient Availability
 
-Every time a plant root tip exchanges a hydrogen cation for a nutrient cation, hydrogen ion concentration increases, raising pH (making soil more alkaline). Root surfaces also take up anions using hydroxy (OH-) ions as exchange medium, lowering pH (making soil more acidic). Fungi and bacteria also carry charges on their surfaces, influencing soil pH through their nutrient uptake and release.
+Every time a plant root tip exchanges a hydrogen cation for a nutrient cation, hydrogen ion concentration increases, raising pH (making soil more alkaline). Root surfaces also take up anions using hydroxy (OH-) ions as exchange medium, lowering pH (making soil more acidic). Fungi and bacteria also carry charges on their surfaces, influencing soil pH through their [[plant-nutrient-uptake-mechanisms]] and release.
 
 The pH created by nutrient-ion exchanges influences what types of microorganisms live in the soil, which in turn affects nitrification and other biological activities. Each plant has an optimum soil pH, but this has more to do with the needs of certain fungi and bacteria important to those plants than with chemistry alone.
 
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

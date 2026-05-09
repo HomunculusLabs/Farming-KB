@@ -1,14 +1,14 @@
 ---
-title: Top-Bar Hive vs Warre Hive
+title: Top-Bar comparison top bar hive vs warre hive Hive
 created: 2026-04-28
 tags:
   - beekeeping
-  - top-bar-hive
+  - [[top-bar-hive]]
   - warre-hive
   - bees
   - apiculture
   - natural-beekeeping
-  - permaculture
+  - [[permaculture]]
   - hive-design
 date: 2026-04-28
 updated: 2026-04-28
@@ -23,7 +23,7 @@ type: comparison
 
 # Top-Bar Hive vs Warre Hive
 
-Both the **top-bar hive (TBH)** and the **Warre hive** (also called the "People's Hive") are horizontal or vertically-stacked alternatives to the conventional Langstroth hive. They share a philosophy of **natural beekeeping** — allowing bees to build comb freely without foundation, minimizing disturbance, and prioritizing colony health over maximum honey extraction. However, their designs, management approaches, and ideal use cases differ significantly.
+Both the **top-bar hive (TBH)** and the **Warre hive** (also called the "People's Hive") are horizontal or vertically-stacked alternatives to the conventional Langstroth hive. They share a philosophy of **[[comparison-natural-beekeeping-vs-standard-beekeeping]]** — allowing bees to build comb freely without foundation, minimizing disturbance, and prioritizing colony health over maximum honey extraction. However, their designs, management approaches, and ideal use cases differ significantly.
 
 ## Quick Comparison
 
@@ -67,7 +67,7 @@ Designed by French monk **Émile Warré** (1867–1951) and detailed in his book
 **Key design elements:**
 - **Box size:** ~300 mm × 300 mm × 210 mm (12" × 12" × 8¼")
 - **Bars per box:** 8 top bars per box
-- **Quilt box:** A box filled with insulating material (straw, sawdust, wood chips) sits above the top bars, providing moisture absorption and insulation
+- **Quilt box:** A box filled with insulating material (straw, sawdust, [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]]) sits above the top bars, providing moisture absorption and insulation
 - **Roof:** Sloped or peaked roof provides weather protection
 - **Entrance:** Small entrance slot near the bottom of the lowest box
 
@@ -78,7 +78,7 @@ Designed by French monk **Émile Warré** (1867–1951) and detailed in his book
 The TBH excels as an **educational and observational hive**. Each bar can be lifted individually for inspection, making it ideal for:
 - **Teaching:** Beekeeping classes and demonstrations where students can see comb, brood, and queen activity
 - **Minimalist beekeeping:** Beekeepers who want to check on their bees without heavy lifting
-- **Comb honey production:** Harvesting beautiful, natural comb honey by the bar
+- **Comb [[mollison-designers-beekeeping-honey-production-permaculture]]:** Harvesting beautiful, natural comb honey by the bar
 - **Research and monitoring:** Easy access for Varroa checks, queen sighting, and colony assessment
 
 The trade-off is that the colony builds laterally, and in a strong nectar flow, bees may fill the hive before winter stores are adequate. Management requires vigilance during peak season.
@@ -143,6 +143,6 @@ Both hives produce less honey than Langstroth hives (typically 40–100+ lbs), b
 - Lower honey yield than both Langstroth and TBH
 ## See Also
 
-- [[bee-feeding-and-fungal-pesticides]] — Hive products beyond honey
+- [[bee-feeding-and-fungal-pesticides]] — Hive [[bee-products-beyond-honey]] honey
 - [[integrated-pest-management]] system
 - [[permaculture-design]]

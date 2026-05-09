@@ -1,5 +1,5 @@
 ---
-title: Endophyte Isolation Techniques
+title: bacterial-endophyte-isolation-detection-plant-roots Techniques
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -22,14 +22,14 @@ Key principles for endophyte sampling include:
 - **Older foliage** typically harbors greater species diversity than younger foliage
 - Perennial species generally harbor greater diversity than annuals
 - Sample size should be standardized across study sites for meaningful comparison
-- Carroll and associates suggest that maceration of host tissue and serial dilution plating may yield more accurate estimates of fungal infection frequencies
+- Carroll and associates suggest that maceration of host tissue and serial [[particle-filtration-dilution-plating-microfungal-isolation]] may yield more accurate estimates of fungal infection frequencies
 
 ## Surface Sterilization
 
 Surface sterilization is the critical step that distinguishes endophytic fungi from surface contaminants. The most commonly used protocol involves:
 
 ### Standard NaOCl Protocol
-1. Brief rinse in 70-95% ethanol (wetting agent with limited antibiotic activity)
+1. Brief rinse in 70-95% ethanol ([[jadam-nutrient-management-wetting-agent-and-calcium]] with limited antibiotic activity)
 2. Treatment with 2-10% household chlorine bleach (NaOCl) for 1-10 minutes
 3. Final rinse in sterile water or 70-95% ethanol (30 seconds)
 4. Plating of surface-sterilized tissue onto isolation media
@@ -37,7 +37,7 @@ Surface sterilization is the critical step that distinguishes endophytic fungi f
 The concentration of available chlorine, duration of exposure, and use of wetting agents should be specified precisely because commercial hypochlorite solutions vary in concentration. A wetting agent (ethanol or Tween 80) is essential for hydrophobic or densely pubescent leaves.
 
 ### Alternative Sterilants
-- **Hydrogen peroxide (3%)**: effective oxidant for surface sterilization
+- **[[cervantes-hydrogen-peroxide-sterilization]] (3%)**: effective oxidant for surface sterilization
 - **Potassium permanganate (2%)**: alternative oxidant treatment
 - **Silver nitrate (1%)**: used for roots and stems of grasses (e.g., Gaeumannomyces graminis)
 - **Mercuric chloride (0.01%)**: historically used but now avoided due to toxicity
@@ -69,7 +69,7 @@ Fungi growing on selective media should be subcultured as quickly as possible on
 ## Specialized Approaches
 
 ### Root Endophytes
-Dark septate endophytes (DSE) are common root endophytes characterized by melanized, septate hyphae. Serial washing is preferred over chemical sterilization for root tissues to obtain representative frequencies.
+Dark [[dark-septate-endophytes-root-colonizing-fungi]] (DSE) are common root endophytes characterized by melanized, septate hyphae. Serial washing is preferred over chemical sterilization for root tissues to obtain representative frequencies.
 
 ### Lichen Endophytes
 Cryptic endophytic microfungi in lichen thalli require specialized methods for maximum recovery. Petrini and colleagues (1990) isolated 506 fungal taxa from 17 fruticose lichen samples, with the majority (306) isolated only once.
@@ -79,13 +79,13 @@ These xylem-colonizing species are primarily xylariaceous (Hypoxylon and related
 
 ## Molecular Identification of Endophytes
 
-Molecular approaches (PCR-RFLP, sequencing of ITS regions) have revolutionized endophyte studies by enabling identification of sterile isolates that cannot be identified by morphology alone. Culture-independent molecular methods reveal that many endophyte species detected by DNA are never recovered in culture.
+[[staycare-molecular-approaches-fungal-bioremediation]] (PCR-RFLP, sequencing of ITS regions) have revolutionized endophyte studies by enabling identification of sterile isolates that cannot be identified by morphology alone. Culture-independent molecular methods reveal that many endophyte species detected by DNA are never recovered in culture.
 
 ## Related Topics
 
 - [[fungal-dna-extraction-methods]]
 - [[fungal-rdna-primers-molecular-identification]]
-- [[fungal-endophyte-diversity-patterns]]
+- fungal-endophyte-diversity-patterns
 - endophyte isolation techniques
 
 ## Merged: Fungal Canopy Diversity

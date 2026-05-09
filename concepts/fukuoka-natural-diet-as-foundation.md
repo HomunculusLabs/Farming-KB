@@ -1,17 +1,18 @@
 ---
-title: Fukuoka's Natural Diet as Foundation for Agriculture
+title: Fukuoka's fukuoka natural diet as foundation as Foundation for Agriculture
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka's Natural Diet as Foundation for Agriculture
 
 ## Overview
 
-Fukuoka argues that agriculture arose from human cravings over food and that farming methods have constantly had to adapt to changes in the human diet. His central thesis: unless the diet is basically sound, agriculture cannot be normal. The failure of modern agriculture has its roots in abnormal dietary practices and the low level of basic awareness people have regarding diet.
+Fukuoka argues that agriculture arose from human cravings over food and that [[natural-farming-methods-comparison]] have constantly had to adapt to changes in the human diet. His central thesis: unless the diet is basically sound, agriculture cannot be normal. The failure of modern agriculture has its roots in abnormal dietary practices and the low level of basic awareness people have regarding diet.
 
 ## The Driving Forces Behind Diet Development
 

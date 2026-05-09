@@ -1,5 +1,5 @@
 ---
-title: JADAM Transition Conventional to Organic
+title: JADAM jadam transition conventional to organic to Organic
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -18,19 +18,19 @@ Transitioning from conventional chemical farming to organic farming should be ca
 JADAM recommends starting by applying the JADAM method to one-tenth of total cropland. This allows the farmer to:
 - Learn JADAM methods safely with reduced risk
 - Experience the transition firsthand on a manageable scale
-- Master soil management and fertilizer application before tackling pest control
+- Master soil management and [[cervantes-fertilizer-application-strain-feeding]] before tackling pest control
 - Gradually expand as confidence builds
 
 ## The Checklist: Before Going Organic
 
 JADAM provides specific questions every farmer should answer before transitioning:
 
-- Are you confident you can use indigenous microorganisms and manage the changes in your soil?
+- Are you confident you can use [[beneficial-indigenous-microorganisms-bim]] and manage the changes in your soil?
 - Have you solved the problem of soil compaction?
 - Do you trust the effectiveness of wild grass as organic fertilizer?
-- Can you formulate the appropriate fertilizer program for each crop?
-- Are you confident you can grow field crops without chemical fertilizers?
-- Do you trust the effects of natural calcium phosphate and calcium liquid fertilizers?
+- Can you formulate the appropriate [[jadam-fertilizer-program-design]] for each crop?
+- Are you confident you can grow field crops without [[cervantes-chemical-fertilizers-guide]]?
+- Do you trust the effects of natural [[bionutrients-lab-calcium-phosphate-calamansi]] and calcium liquid fertilizers?
 - Do you trust the effects of natural nitrogen liquid fertilizers?
 - Can you control aphids and mites with natural pesticides?
 - Can you control tobacco moths, cabbage white butterfly caterpillars, and scales with natural pesticides?

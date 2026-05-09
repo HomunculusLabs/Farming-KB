@@ -20,7 +20,7 @@ type: query
 
 # What Are the Best Citrus Varieties for Different Climates?
 
-Choosing the right citrus variety for your climate zone is the single most important factor in success. Citrus spans a wide hardiness range — from kumquats and yuzu that survive 10°F (-12°C) to true limes damaged below 32°F (0°C).
+Choosing the right citrus variety for your [[holzer-climate-zone-microclimate-creation]] is the single most important factor in success. Citrus spans a wide hardiness range — from kumquats and yuzu that survive 10°F (-12°C) to true limes damaged below 32°F (0°C).
 
 ## By USDA Hardiness Zone
 
@@ -30,8 +30,8 @@ Only the most cold-hardy species survive without protection:
 
 - **Satsuma mandarin (Owari, Brown Select)** — Gold standard for cold-climate citrus. Survives 15°F with leaf drop; mature trees recover from 10°F. Sweet, easily peeled fruit. Harvest Oct–Dec.
 - **Meiwa kumquat** — Round, sweet, entire fruit edible. Survives to 10°F. Harvest Nov–Mar.
-- **Nagami kumquat** — Oval, tart-sweet. Similar cold hardiness. Great for marmalade.
-- **Yuzu** — Aromatic rind for Japanese cooking. Survives to 10°F. Essential for ponzu sauce.
+- **Nagami kumquat** — Oval, tart-sweet. Similar [[coleman-cold-hardiness-testing-ratings]]. Great for marmalade.
+- **Yuzu** — Aromatic rind for [[fukuoka-japanese-cooking-culture-disappearing]]. Survives to 10°F. Essential for ponzu sauce.
 - **Sudachi** — Intensely sour Japanese citrus. Hardy to ~15°F. Used as seasoning.
 - **Calamondin** — Mandarin × kumquat hybrid. Hardy to 20°F. Tart, productive, ornamental.
 
@@ -80,7 +80,7 @@ Near-ideal to ideal. All previous varieties plus:
 4. **Dwarf Bearss lime** — Semi-dwarf forms in 15–20 gallon pots.
 5. **Variegated pink lemon** — Ornamental foliage + pink flesh.
 
-Use well-draining citrus/cactus mix. Fertilize every 2–4 weeks in growing season. Move indoors before first frost to a bright 40–55°F location.
+Use well-draining citrus/cactus mix. Fertilize every 2–4 weeks in [[savory-growing-season-and-non-growing-season-management]]. Move indoors before first frost to a bright 40–55°F location.
 
 ### Humid, Rainy Climates
 
@@ -102,7 +102,7 @@ All citrus perform well. Irrigation is essential. Use iron chelate (EDDHA) for a
 ### Coastal/Saline Sites
 
 - **Lemon (Eureka, Lisbon)** — Most salt-tolerant commercial citrus
-- **Grapefruit** — Good salt tolerance on sour orange rootstock
+- **Grapefruit** — Good [[fungal-salt-tolerance-and-ion-homeostasis]] on sour orange rootstock
 - Avoid: Mandarins on sensitive rootstocks in saline conditions
 
 ## Rootstock for Cold Climates
@@ -134,7 +134,9 @@ All citrus perform well. Irrigation is essential. Use iron chelate (EDDHA) for a
 
 ## See Also
 
+- [[query-best-kiwifruit-varieties-for-cold-climates]]
+
 - [[query-what-are-the-best-mushroom-substrates-for-different-species]]
 - [[query-how-do-i-grow-figs-in-cold-climates]]
 - [[comparison-citrus-vs-mango-cultivation]]
-- microclimate design for garden and farm
+- microclimate [[edge-effect-and-microclimate]] and farm

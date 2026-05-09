@@ -11,9 +11,9 @@ type: comparison
 # Indoor Growing vs Outdoor Growing
 
 ## Overview
-Indoor and outdoor cannabis cultivation represent fundamentally different
+Indoor and outdoor [[query-how-does-no-till-cannabis-cultivation-work]] represent fundamentally different
 approaches to producing high-quality cannabis. Indoor growing prioritizes
-complete environmental control and year-round production cycles, while outdoor
+complete [[eclss-environmental-control-life-support]] and year-round production cycles, while outdoor
 growing leverages free natural sunlight and lower operating costs. The choice
 between them shapes every aspect of the operation, from startup budget and
 equipment needs to harvest timeline, yield expectations, and quality profile.
@@ -28,7 +28,7 @@ dramatically reducing equipment and energy costs. Plants are grown directly in
 amended soil beds or large fabric containers, with unrestricted root zones
 enabling much larger plants and potentially higher per-plant yields. Full-
 spectrum sunlight, which no artificial light perfectly replicates, produces
-robust terpene profiles and complex cannabinoid expression that many
+robust [[cannabis-terpene-profiles-sativa]] and complex cannabinoid expression that many
 connoisseurs prefer. A single outdoor plant in a Mediterranean climate can yield
 multiple pounds, far exceeding typical indoor per-plant output.
 
@@ -38,7 +38,7 @@ large plants with extensive vegetative growth. Temperate zones (5-7) have
 shorter windows requiring fast-finishing strains or autoflowers. Tropical zones
 allow year-round growing but demand mold-resistant genetics suited to high
 humidity. Preparation begins in late winter with site selection, soil amendment,
-companion planting, and seed starting under lights, with harvest typically
+[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]], and seed starting under lights, with harvest typically
 occurring in early to mid-autumn after 5-8 months of growth.
 
 The challenges include weather dependency, pest and disease pressure from the
@@ -64,7 +64,7 @@ Indoor growing is ideal for growers who need year-round production, live in
 climates with short or unreliable growing seasons, or prioritize maximum control
 over quality and consistency. Medical patients requiring a reliable continuous
 supply, commercial operations needing predictable output schedules, and breeders
-performing phenotype selection all benefit from the stable indoor environment.
+performing [[vic-high-cannabis-phenotype-selection-criteria]] all benefit from the stable indoor environment.
 The ability to fine-tune every variable makes indoor growing essential for
 competitive cultivation where consistency and potency are paramount, and for
 protecting expensive or rare genetics from weather-related crop loss.
@@ -74,7 +74,7 @@ Outdoor growing excels when cost efficiency is the priority and the local
 climate supports a reliable growing season of at least 4-5 frost-free months. It
 suits large-scale production where per-plant yield matters more than rapid
 turnover, and growers practicing living soil methods benefit from natural
-integration with beneficial insect populations and mycorrhizal networks. The
+integration with beneficial insect populations and [[dighton-mycorrhizal-networks-carbon-transfer]]. The
 extended growing period also allows plants to express their full genetic
 potential in ways that container-bound indoor plants cannot, producing complex
 flavor and aroma profiles prized by connoisseurs.

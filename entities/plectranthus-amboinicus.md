@@ -23,9 +23,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Lukhoba, C.W. et al. (2006). "Plectranthus: A review of ethnobotanical uses." Journal of Ethnopharmacology 103(1): 1-24.
-  - Omidbaigi, R. et al. (2009). "Essential oil composition of Plectranthus amboinicus." Journal of Essential Oil Research 21(5): 432-434.
+  - Omidbaigi, R. et al. (2009). "[[permaculture-designers-manual-essential-oil-plants]] composition of Plectranthus amboinicus." Journal of Essential Oil Research 21(5): 432-434.
   - Asokan, S. et al. (2009). "Antimicrobial activity of Plectranthus amboinicus." Indian Journal of Pharmacology 41(5): 244-247.
-  - Duke, J.A. (2002). "Handbook of Medicinal Herbs." CRC Press.
+  - Duke, J.A. (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]]." CRC Press.
   - Ravindran, P.N. (2017). "The Encyclopedia of Herbs and Spices." CABI Publishing.
 created: 2026-04-28
 ---
@@ -69,7 +69,7 @@ Inflorescences are terminal racemes or panicles, 10–20 cm long, bearing small 
 
 ## Distribution and Habitat
 
-*P. amboinicus* is native to the East African coast, specifically Kenya and Tanzania, but has been naturalized across tropical Asia, the Pacific Islands, the Caribbean, and Central and South America. It thrives in USDA zones 9–11 and is commonly grown as a container plant in cooler climates.
+*P. amboinicus* is native to the [[comparison-cavendish-vs-east-african-highland-bananas]] coast, specifically Kenya and Tanzania, but has been naturalized across tropical Asia, the Pacific Islands, the Caribbean, and Central and South America. It thrives in USDA zones 9–11 and is commonly grown as a container plant in cooler climates.
 
 The species prefers well-drained soils with moderate fertility and partial to full sun. It is remarkably drought-tolerant due to its succulent leaf tissues but performs best with regular watering. It tolerates a wide range of soil types including sandy and rocky substrates.
 
@@ -92,9 +92,9 @@ Flavonoids identified in the leaves include quercetin, apigenin, and luteolin de
 
 In Indian Ayurvedic medicine, *P. amboinicus* is used to treat respiratory conditions including coughs, colds, asthma, and bronchitis. The leaves are typically prepared as a decoction or juice, sometimes combined with honey.
 
-Across Southeast Asia, it is employed for digestive complaints, fever reduction, and as a topical treatment for skin infections and wounds. In the Caribbean, a tea of the leaves is used as a cold remedy and general tonic.
+Across [[psilocybe-southeast-asia-pacific]], it is employed for digestive complaints, fever reduction, and as a topical treatment for skin infections and wounds. In the Caribbean, a tea of the leaves is used as a cold remedy and general tonic.
 
-Modern pharmacological studies have confirmed antimicrobial activity against *Staphylococcus aureus*, *Escherichia coli*, *Candida albicans*, and *Aspergillus niger*. Anti-inflammatory, analgesic, and antioxidant activities have been demonstrated in animal models.
+Modern pharmacological studies have confirmed antimicrobial activity against *Staphylococcus aureus*, *Escherichia coli*, *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*, and *Aspergillus niger*. Anti-inflammatory, analgesic, and antioxidant activities have been demonstrated in animal models.
 
 The essential oil has shown insect repellent and larvicidal properties against mosquitoes, suggesting potential applications in vector control.
 
@@ -108,7 +108,7 @@ In Indian cuisine, the leaves are used in chutneys, curries, and as a flavoring 
 
 *P. amboinicus* excels as a container herb, ground cover, and companion plant in tropical and subtropical food gardens. Its insect-repellent properties make it a useful companion for vegetable crops susceptible to pest damage.
 
-The plant propagates extremely easily from stem cuttings, which root within 1–2 weeks in moist soil. This rapid vegetative propagation makes it an excellent plant for sharing and distributing within community garden networks.
+The plant propagates extremely easily from stem cuttings, which root within 1–2 weeks in moist soil. This rapid vegetative propagation makes it an excellent plant for sharing and distributing within [[mollison-designers-community-garden-design-urban-permaculture]] networks.
 
 ## See Also
 

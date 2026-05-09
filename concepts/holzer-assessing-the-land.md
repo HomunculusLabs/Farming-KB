@@ -5,11 +5,12 @@ updated: 2026-04-21
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 # Assessing the Land
 
-From "Sepp Holzer's Permaculture" by Sepp Holzer.
+From "[[comparison-sepp-holzer-vs-biodynamic]]'s Permaculture" by Sepp Holzer.
 
 ## Overview
 
@@ -19,7 +20,7 @@ Once I have worked out what I want to do with the land, I have to examine the ar
 
 The aspect (the direction the land faces) and elevation affect the design to a great extent. Obviously, it is far easier to set up a productive permaculture system at low altitudes, on flat ground and in sunny places than on steep slopes or at high altitudes. But even in so-called 'unfavourable' locations it is possible to set up a functioning system.
 
-At high altitudes -- from around 1,000m above sea level -- I aim to design the system to compensate for the shorter growing season and the lower temperatures. It is important to get the most sunlight and make sure crops will be sheltered from the wind. A windbreak made up of various fruit bushes, fruit trees and flowering shrubs at different heights is very effective.
+At high altitudes -- from around 1,000m above sea level -- I aim to design the system to compensate for the shorter [[savory-growing-season-and-non-growing-season-management]] and the lower temperatures. It is important to get the most sunlight and make sure crops will be sheltered from the wind. A windbreak made up of various [[holzer-soft-fruit-bushes-and-berries]], [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and flowering shrubs at different heights is very effective.
 
 ## Creating Suntraps
 
@@ -31,7 +32,7 @@ If possible, I put a pond or lake in front of the niche. The sun's rays are then
 
 It is particularly important to get a feel for the quality of the soil. The more I know about the properties of the soil, the better I can work with it. The best soil has a crumbly structure. A crumbly topsoil allows plants to establish their roots more easily. Its high pore volume means that it holds water and nutrients like a sponge.
 
-'Light' soil is well aerated and heats up quickly but has low capacity to store water and nutrients. 'Heavy' soil retains water easily with higher nutrient content, but is poorly aerated and prone to compaction. Raised beds have many advantages when dealing with heavy soil.
+'Light' soil is well aerated and heats up quickly but has low capacity to store water and nutrients. 'Heavy' soil retains water easily with higher nutrient content, but is poorly aerated and prone to compaction. [[comparison-raised-beds-vs-hugelkultur]] have many advantages when dealing with heavy soil.
 
 The 'finger test' is a simple way to determine soil type: take fresh soil and roll it between your palms. Sandy soil will not hold together; medium soil of sandy loam can be rolled to pencil thickness; heavy loam or clay can be rolled even thinner.
 
@@ -54,7 +55,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -96,4 +97,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,18 +1,15 @@
 ---
 title: "Fungicolous and Mycoparasitic Fungi"
 created: 2026-04-28
-tags: [[mycology, mycoparasitism, fungicolous-fungi, fungal-ecology, biodiversity]
+tags: [mycology, mycoparasitism, fungicolous-fungi, fungal-ecology, biodiversity]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 type: concept
 ---
-
-# Fungicolous and Mycoparasitic Fungi
-
-[[fungal-biodiversity]], with species distributed across all
+# Fungicolous and Mycoparasitic Fungi [[fungal-biodiversity]], with species distributed across all
 major fungal phyla. The study of fungicolous fungi is critical for
-understanding fungal community dynamics, [[schizophyllum-commune]] is a potent
+understanding [[air-pollution-fungal-community-responses]] dynamics, [[schizophyllum-commune]] is a potent
 mycoparasite of many plant-pathogenic fungi, coiling around and
 penetrating host hyphae. Athelia arachnoidea is a common corticiaceous
 species that overgrows and kills epiphytic lichens, and can destroy
@@ -25,7 +22,7 @@ found in Asterophora and Squamanita.
 Fungicolous fungi employ diverse mechanisms to exploit fungal hosts.
 Biotrophic contact mycoparasites such as Gonatobotrys simplex grow on
 Alternaria and Cladosporium species, contacting hosts via fingerlike
-branches. Some require mycotrophein, a mixture found in fungal culture
+branches. Some require mycotrophein, a mixture found in [[biodiversity-fungal-culture-preservation]]
 extracts, for axenic growth. Necrotrophic mycoparasites like
 [[ceratocystis-fimbriata]]. Trichoderma species
 produce volatile inhibitors, peptaibols, and cell wall-degrading enzymes
@@ -43,7 +40,7 @@ Gliocladium album and Nectriopsis violacea on Physarales, and Aphanocladium
 album and Byssostilbe stilbigera on noncalcareous myxomycetes.
 
 ## [[biodiversity-powdery-mildews]], (4) mycelia, sclerotia, and spores in
-soil, and (5) aquatic fungi and fungus-like microorganisms. Polyphagous
+soil, and (5) [[bloomfield-ingoldian-aquatic-fungi-spore-dispersal]] and fungus-like microorganisms. Polyphagous
 fungicolous fungi including Clonostachys rosea, Trichoderma species, and
 Acremonium strictum can colonize many kinds of Ascomycota and
 Basidiomycota. Specialized fungicolous fungi often show narrow host
@@ -66,7 +63,9 @@ sporocarps in the field, looking for deformations, color changes, or
 overgrowth on potential host fungi. Both the host and parasite should
 be collected whenever possible. Insecticidal fogging can be used to
 collect fungicolous fungi from tree canopies where they grow on
+
 ## See Also
+
 ## Practical Considerations
 
 Successful implementation of Fungicolous and Mycoparasitic Fungi requires attention to
@@ -85,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

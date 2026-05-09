@@ -1,15 +1,16 @@
 ---
-title: Fukuoka's Critique of Modern Science and Reductionism
+title: Fukuoka's fukuoka road critique of modern science Science and Reductionism
 created: 2026-04-24
 updated: 2026-04-25
 type: concept
 tags: [philosophy, science, reductionism, farming, nature, fukuoka]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka's Critique of Modern Science and Reductionism
 
-In [[natural-farming-fukuoka]] delivers one of his most sustained critiques of modern science, arguing that the scientific method itself is fundamentally incapable of understanding nature. This position, developed across his world travels and decades of farming, distinguishes his [[fukuoka-road-do-nothing-farming]] practice, which begins from wholeness rather than fragmentation.
+In [[natural-farming-fukuoka]] delivers one of his most sustained critiques of modern science, arguing that the scientific method itself is fundamentally incapable of understanding nature. This position, developed across his [[fukuoka-world-travels-global-influence]] and decades of farming, distinguishes his [[fukuoka-road-do-nothing-farming]] practice, which begins from wholeness rather than fragmentation.
 
 ## Science Doesn't Know What Real Food Is
 
@@ -35,7 +36,7 @@ This is not merely an anti-evolutionary stance but part of a larger critique of 
 
 Despite his withering critique, Fukuoka does not despair entirely. He recalls receiving "a revelation of God one moment fifty years ago" — a vision so overwhelming that he was "taken aback" and failed to advance along the road he should have. Instead, he "turned my back on God and tried to follow quietly the path of a solitary farmer." He came to call this path "the road back to nature."
 
-He acknowledges that his own natural farming is "haphazardly conceived" and incomplete, yet his orchard — where cherry, plum, peach, and pear trees bloom alongside semi-wild vegetables — is called "an Eden, a paradise on Earth" by visitors. The flowers of nature "bloom of their own accord and scatter without care or concern," embodying the perfection that science can never grasp but that anyone can witness if they simply look.
+He acknowledges that his own [[comparison-natural-farming-vs-permaculture]] is "haphazardly conceived" and incomplete, yet his orchard — where cherry, plum, peach, and pear trees bloom alongside semi-wild vegetables — is called "an Eden, a paradise on Earth" by visitors. The flowers of nature "bloom of their own accord and scatter without care or concern," embodying the perfection that science can never grasp but that anyone can witness if they simply look.
 
 Yet even as visitors call his farm beautiful, Fukuoka notes that "as soon as they finish clicking the shutters on their cameras, they hurry off home to the towns and cities." People today "no longer have the time or ease of mind to immerse themselves in such sensibility." Rather than "indulging directly in the raw, unrefined beauty of nature," they return home with photographs and "are content to enjoy the natural beauty captured in their photographs." Science has taught them to consume nature as an object rather than to dwell within it as participants — a habit of mind that his [[fukuoka-road-back-to-nature-overview]] — the book in which this critique is most fully developed
 - [[fukuoka-road-do-nothing-farming]] — the practice that emerges when science is abandoned
@@ -51,7 +52,7 @@ Fukuoka challenged the fundamental assumption of scientific knowing: "No one —
 
 ## The Chemical Industry's Grip on Agriculture
 
-Fukuoka identified the economic reason scientific agriculture persists despite its failures: "If natural farming were to spread widely throughout Japan, there would no longer be any need for agricultural chemicals, chemical fertilizers, and pesticides. The key sectors of Japan's chemical industry will all collapse. No wonder then that no one is willing to believe such a method of farming is possible." The "boom period in agricultural technology" was really "producing chemicals and fertilizers which are wrecking agriculture."
+Fukuoka identified the economic reason [[fukuoka-critique-scientific-agriculture-civilization]] persists despite its failures: "If natural farming were to spread widely throughout Japan, there would no longer be any need for agricultural chemicals, [[cervantes-chemical-fertilizers-guide]], and pesticides. The key sectors of Japan's chemical industry will all collapse. No wonder then that no one is willing to believe such a method of farming is possible." The "boom period in agricultural technology" was really "producing chemicals and fertilizers which are wrecking agriculture."
 
 ## Related Concepts
 ## Practical Considerations
@@ -70,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

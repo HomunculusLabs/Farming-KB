@@ -38,13 +38,13 @@ fusarium culmorum is a filamentous fungus with distinctive morphological feature
 - **Crop losses:** fusarium culmorum causes significant yield losses in cereal crops worldwide, particularly in cooler climates where it replaces F. graminearum as the dominant cause of ear blight.
 - **Mycotoxin contamination:** The mycotoxins produced by F. culmorum contaminate grain, reducing grain quality and marketability. Deoxynivalenol contamination can render grain unsuitable for human consumption or animal feed.
 - **Food safety:** Mycotoxin exposure through contaminated grain poses risks to human and animal health, including acute toxicity, chronic health effects, and immune system suppression.
-- **Biological control:** The feeding preference of collembola for F. culmorum suggests opportunities for enhancing natural biological control through conservation or augmentation of soil fauna populations.
+- **[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]:** The feeding preference of collembola for F. culmorum suggests opportunities for enhancing natural biological control through conservation or augmentation of soil fauna populations.
 
 ## Management
 
 Management strategies for Fusarium diseases caused by F. culmorum include:
 
-- Crop rotation with non-host crops
+- [[comparison-crop-rotation-vs-cover-cropping]] with non-host crops
 - Tillage practices to bury infected crop residues
 - Use of resistant or tolerant cereal cultivars
 - Application of fungicides at flowering (for ear blight control)
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

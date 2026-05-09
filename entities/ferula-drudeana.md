@@ -30,7 +30,7 @@ slope.
 
 Phytochemical analysis has revealed the presence of psychoactive compounds
 in the plant's resin, lending plausibility to historical accounts that
-silphium possessed powerful medicinal and psychoactive properties. F. drudeana
+silphium possessed [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]] and psychoactive properties. F. drudeana
 represents one of the most compelling intersections of classical archaeology,
 ethnobotany, and modern phytochemistry.
 
@@ -50,7 +50,7 @@ psychoactive or medicinal resins.
 
 ## Morphology
 
-F. drudeana is a robust perennial herb growing 1.5 to 2.5 meters tall with a
+F. drudeana is a robust perennial [[medicinal-herb-growing]] 1.5 to 2.5 meters tall with a
 thick, fleshy taproot. The stem is stout, hollow, and finely ribbed, arising
 from a basal rosette of large compound leaves. The overall growth habit is
 similar to other large Ferula species, with a single flowering stalk produced
@@ -78,14 +78,14 @@ where cold winters and dry summers create a harsh but stable environment.
 ## Resin Chemistry and Psychoactivity
 
 The most significant finding regarding F. drudeana is the presence of
-bioactive compounds in its resin, including ferujol-type sesquiterpenes and
+[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in its resin, including ferujol-type sesquiterpenes and
 several guaiane-type lactones with structural similarity to known psychoactive
 ferula compounds. Gas chromatography-mass spectrometry analysis has identified
 at least 15 major compounds, several of which are shared with F. assafoetida
 and F. persica.
 
 Notably, the resin contains compounds that may act as GABAergic modulators
-and dopamine receptor agonists, consistent with classical accounts of
+and dopamine [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]], consistent with classical accounts of
 silphium's effects as a euphoriant, aphrodisiac, and general tonic. The
 alkaloid content and exact pharmacological mechanisms remain under active
 investigation.

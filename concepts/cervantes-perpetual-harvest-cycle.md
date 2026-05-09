@@ -1,18 +1,19 @@
 ---
-title: Perpetual Harvest Cycle for Cannabis
+title: cervantes perpetual harvest cycle Cycle for Cannabis
 created: 2026-04-26
 tags: [cannabis, perpetual-harvest, scheduling, indoor-growing, efficiency]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Perpetual Harvest Cycle for Cannabis
 
 A perpetual harvest system maintains multiple growth stages simultaneously,
-enabling growers to harvest cannabis on a regular, ongoing basis rather than
+enabling growers to [[cultivar-specificity-persistence-post-harvest-cannabis-endorhiza]] on a regular, ongoing basis rather than
 waiting for a single crop to complete its full cycle. Jorge Cervantes
 describes this approach as the most efficient method for consistent production
 in indoor gardens.
@@ -40,7 +41,7 @@ separation is between vegetative and flowering spaces, as light leaks during
 the dark period can disrupt flowering or cause accidental
 [[cervantes-mother-plants]] is the
 foundation of any perpetual system. Mothers must be kept in continuous
-vegetative growth under 18/6 or 24/0 lighting. Plan for adequate container
+[[cannabis-vegetative-growth-stage]] under 18/6 or 24/0 lighting. Plan for adequate container
 size - see [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] space requirements are also spread out.
 
 [[cannabis-indica]] and [[cervantes-case-study-energy-efficient-sea-of-green]], [[cervantes-mother-plants]], [[cervantes-indoor-grow-room-setup]]
@@ -60,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

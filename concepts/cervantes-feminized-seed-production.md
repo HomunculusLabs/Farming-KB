@@ -1,5 +1,5 @@
 ---
-title: Feminized Seed Production
+title: Feminized cervantes-seed-production-storage
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -18,9 +19,9 @@ type: concept
 
 Feminized seeds are produced by obtaining pollen from one female
 individual and subsequently fertilizing another female plant. The result
-is a seed population consisting entirely or predominantly of female
+is a [[cervantes-seed-population-types-ibl-hybrid]] consisting entirely or predominantly of female
 (XX) offspring. This technique has become standard practice in the
-commercial cannabis seed industry.
+commercial [[cervantes-cannabis-seed-purchasing-storage]] industry.
 
 ## Chromosome Basis of Sex in Cannabis
 
@@ -81,7 +82,7 @@ offspring.
    be considered as potential breeding parents -- "true females"
 3. Clone copies of these pistillate intersex-resistant plants
 4. Spray clones with hormone treatment (e.g., silver thiosulfate) and
-   place into the flowering cycle
+   place into the [[cannabis-sativa-flowering-cycle-management]]
 5. Allow three to five weeks for the plants to enter dehiscence and
    shed pollen
 6. Use this pollen to fertilize true female candidates
@@ -107,7 +108,7 @@ pollen.
 ## Ethylene and Sex Reversal
 
 The science behind sex reversal involves ethylene, a plant hormone
-involved in sex determination. Applying high enough concentrations of
+involved in [[cannabis-sex-determination-floral-biology]]. Applying high enough concentrations of
 ethylene to staminate individuals in the flowering cycle results in the
 formation of pistils. Conversely, applying ethylene-inhibiting agents to
 pistillate individuals as they enter flowering results in the formation

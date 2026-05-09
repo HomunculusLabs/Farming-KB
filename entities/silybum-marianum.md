@@ -23,12 +23,12 @@ its use in liver disorders, and it also has applications in [[amanita-phalloides
 | Diabetes (type 2 adjunct) | Emerging | 140–420 mg/day |
 | Skin health / anti-aging | Preliminary | Topical 0.5–1% silymarin |
 ## Permaculture and Ecological Value
-- **Dynamic Accumulator:** Deep taproot mines calcium, potassium, and
+- **[[nutrient-dynamic-accumulator-reference]]:** Deep taproot mines calcium, potassium, and
   trace minerals from subsoil; leaves return these to surface soil when
   they decompose
 - **Pollinator Support:** Rich nectar source for bees and butterflies;
   blooms July–September when many other nectar sources are declining
-- **[[phytoremediation]]:** Demonstrated ability to accumulate heavy metals
+- **[[phytoremediation]]:** Demonstrated ability to accumulate [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
   (lead, cadmium) from contaminated soils
 - **Soil Improvement:** Deep taproot breaks compacted subsoil layers,
   improving drainage and aeration
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

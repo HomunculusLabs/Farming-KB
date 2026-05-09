@@ -21,7 +21,7 @@ sources:
 
 **Alpinia kuhlii** is a species of flowering plant in the family Zingiberaceae,
 known as Kuhl's shell ginger. It is a tropical rhizomatous herb native to
-Island Southeast Asia and the western Pacific.
+Island [[psilocybe-southeast-asia-pacific]] and the western Pacific.
 
 The species is recognized by its attractive foliage and shell-shaped floral
 bracts, which have made it a popular ornamental plant in tropical gardens. It
@@ -30,7 +30,7 @@ floral and vegetative characteristics.
 
 A. kuhlii has documented traditional uses among Pacific Island communities,
 where various plant parts are employed in folk medicine and cultural practices.
-Its essential oil composition has attracted interest for potential
+Its [[permaculture-designers-manual-essential-oil-plants]] composition has attracted interest for potential
 pharmacological applications.
 
 ## Taxonomy and Morphology
@@ -39,7 +39,7 @@ pharmacological applications.
 Alpinioideae of Zingiberaceae. The species was described from botanical
 collections in the Indonesian archipelago.
 
-The plant is a robust perennial herb growing 1.5–3 meters tall. The pseudostem
+The plant is a robust perennial [[medicinal-herb-growing]] 1.5–3 meters tall. The pseudostem
 is formed by tightly clasping leaf sheaths, giving the appearance of a
 slender cane. Stems are green and unbranched.
 
@@ -92,7 +92,7 @@ a cloth bandage, a practice documented in ethnobotanical surveys of Vanuatu.
 ## Bioactive Compounds
 
 Phytochemical studies of A. kuhlii have identified several classes of
-secondary metabolites in the rhizome and leaf tissues. Essential oils extracted
+[[antifungal-secondary-metabolites-coprophilous-fungi]] in the rhizome and leaf tissues. [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] extracted
 from the rhizome contain 1,8-cineole, α-terpineol, and linalool as major
 components.
 

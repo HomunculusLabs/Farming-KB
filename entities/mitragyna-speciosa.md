@@ -1,5 +1,5 @@
 ---
-title: Mitragyna speciosa
+title: kratom-mitragyna-speciosa-pharmacology
 created: 2026-04-28
 type: species
 tags:
@@ -23,7 +23,7 @@ sources:
 
 **Kratom** | **Ketum** | **Thom** | **Ithang** | **Kakuam** | **Biak**
 
-*Mitragyna speciosa* is a tropical evergreen tree in the coffee family (Rubiaceae), native to Southeast Asia. Its leaves contain a complex mixture of indole alkaloids — most notably mitragynine and 7-hydroxymitragynine — that produce stimulant effects at low doses and opioid-like analgesic and sedative effects at higher doses. Kratom has been used traditionally for centuries in Thailand, Malaysia, and Indonesia as a labor tonic, pain reliever, and management tool for opioid withdrawal.
+*Mitragyna speciosa* is a tropical evergreen tree in the coffee family (Rubiaceae), native to [[psilocybe-southeast-asia-pacific]]. Its leaves contain a complex mixture of indole alkaloids — most notably mitragynine and 7-hydroxymitragynine — that produce stimulant effects at low doses and opioid-like analgesic and sedative effects at higher doses. Kratom has been used traditionally for centuries in Thailand, Malaysia, and Indonesia as a labor tonic, pain reliever, and [[savory-fire-as-management-tool]] for opioid withdrawal.
 
 ## Taxonomy
 
@@ -58,7 +58,7 @@ Native to: Thailand, Malaysia, Indonesia (Sumatra, Borneo, Kalimantan), Myanmar,
 
 ## Chemical Constituents
 
-Over 40 alkaloids have been identified in *M. speciosa* leaves. The major bioactive compounds:
+Over 40 alkaloids have been identified in *M. speciosa* leaves. The major [[cordyceps-cancer-bioactive-compounds]]:
 
 ### Primary Alkaloids
 - **Mitragynine:** C₂₃H₃₀N₂O₄, MW 398.5; 66–70% of total alkaloid content. Partial agonist at μ-opioid receptors and competitive antagonist at δ- and κ-opioid receptors. Also acts on adrenergic, serotonergic, and dopaminergic systems.
@@ -96,7 +96,7 @@ Mitraphylline, rhynchophylline, ajmalicine (raubasine), corynantheidine, isomitr
 - **Thailand:** Laborers chew fresh leaves (5–30 per day) for stamina and pain relief during agricultural work; tea preparations for diarrhea, cough, and fever; used by some as a substitute for opium since the 19th century
 - **Malaysia:** "Ketum" tea prepared from fresh or dried leaves; used as a traditional remedy for diabetes, hypertension, fatigue, and as a poultice for wounds
 - **Indonesia:** Widely consumed across all social classes; integral to daily life in rural communities; exported globally as dried leaf powder
-- **Myanmar:** Used traditionally for pain management and as an opium substitute
+- **Myanmar:** Used traditionally for [[cannabis-chronic-pain-management]] and as an opium substitute
 
 ## Kratom Strains and Vein Colors
 
@@ -110,7 +110,7 @@ Commercial kratom is marketed by vein color and regional origin, though scientif
 ## Legal Status
 
 Legal status is highly variable and rapidly evolving:
-- **United States:** Unscheduled at the federal level; banned in Alabama, Arkansas, Indiana, Rhode Island, Vermont, Wisconsin, and several municipalities. DEA has listed it as a "Drug of Concern." FDA has not approved kratom for any medical use.
+- **[[dmt-containing-plants-united-states-halpern]]:** Unscheduled at the federal level; banned in Alabama, Arkansas, Indiana, Rhode Island, Vermont, Wisconsin, and several municipalities. DEA has listed it as a "Drug of Concern." FDA has not approved kratom for any medical use.
 - **Thailand:** Decriminalized in 2021 after decades of prohibition under the Kratom Act of 1943 (which made planting the tree illegal); now regulated
 - **Malaysia:** Scheduled under the Poisons Act; illegal to possess, sell, or consume
 - **Indonesia:** Legal domestically; major export commodity; proposed export ban announced periodically

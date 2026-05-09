@@ -17,7 +17,7 @@ sources:
   - Tilford, G.L. (1997). Edible and Medicinal Plants of the West. Mountain Press Publishing.
   - Kershaw, L. (2000). Edible and Medicinal Plants of the Rockies. Lone Pine Publishing.
   - CABI Invasive Species Compendium. "Rumex crispus (curly dock)." CAB International, 2024.
-  - Couplan, F. (1998). The Encyclopedia of Edible Plants of North America. Gibbs Smith.
+  - Couplan, F. (1998). The Encyclopedia of Edible Plants of [[psilocybin-north-america-pacific-northwest]]. Gibbs Smith.
 ---
 
 ## Overview
@@ -26,7 +26,7 @@ sources:
 
 The species has a long history of use in traditional Western herbal medicine, particularly as a digestive tonic, liver remedy, and source of iron. Its roots contain significant concentrations of anthraquinone glycosides, tannins, and iron, making it one of the most widely recommended "blood-building" herbs in Western and Native American herbal traditions.
 
-In permaculture and ecological design, Rumex crispus is valued as a **dynamic accumulator** — a plant that mines minerals from deep soil layers and brings them to the surface. It is also an early successional species that stabilizes disturbed soils and prepares ground for subsequent plant community development.
+In permaculture and ecological design, Rumex crispus is valued as a **[[nutrient-dynamic-accumulator-reference]]** — a plant that mines minerals from deep soil layers and brings them to the surface. It is also an early successional species that stabilizes disturbed soils and prepares ground for subsequent plant community development.
 
 ## Taxonomy and Morphology
 
@@ -90,13 +90,13 @@ Rumex crispus serves several valuable functions in permaculture and ecological d
 
 **Soil building:** The extensive root system breaks compacted soil and creates channels for water infiltration and deeper-rooting subsequent species. Root decomposition adds organic matter and nutrient-rich biomass to deep soil profiles.
 
-**Pioneer species:** As an early successional plant, R. crispus rapidly colonizes bare, disturbed, or degraded soil, providing ground cover that reduces erosion and begins the process of ecological succession toward more complex plant communities.
+**Pioneer species:** As an early successional plant, R. crispus rapidly colonizes bare, disturbed, or degraded soil, providing ground cover that reduces erosion and begins the process of [[holmgren-ecological-succession-and-pulsing]] toward more complex plant communities.
 
-**Pest management:** Dock plants serve as a trap crop for certain insect pests and can be managed as part of integrated pest management strategies. They also provide habitat for beneficial predatory insects.
+**Pest management:** Dock plants serve as a trap crop for certain insect pests and can be managed as part of integrated pest management strategies. They also provide [[query-how-do-i-design-habitat-for-beneficial-insects]] predatory insects.
 
-**Comfrey companion pairing:** In permaculture design, Rumex crispus is often found alongside comfrey (*Symphytum officinale*) in guild plantings. Both are deep-rooted dynamic accumulators, but dock tolerates drier conditions and more acidic soils than comfrey, providing complementary mineral cycling across different microsites.
+**Comfrey companion pairing:** In permaculture design, Rumex crispus is often found alongside comfrey (*Symphytum officinale*) in guild plantings. Both are deep-rooted [[comparison-dynamic-accumulators-vs-cover-crops]], but dock tolerates drier conditions and more acidic soils than comfrey, providing complementary mineral cycling across different microsites.
 
-**Erosion control:** The robust taproot system makes R. crispus effective at stabilizing slopes, road cuts, streambanks, and other erosion-prone areas. Its tolerance for compacted, degraded, and low-nutrient soils makes it particularly useful in restoration ecology.
+**[[permplant-willows-salix-erosion-control-fodder]]:** The robust taproot system makes R. crispus effective at stabilizing slopes, road cuts, streambanks, and other erosion-prone areas. Its tolerance for compacted, degraded, and low-nutrient soils makes it particularly useful in restoration ecology.
 
 ## Harvesting and Preparation
 

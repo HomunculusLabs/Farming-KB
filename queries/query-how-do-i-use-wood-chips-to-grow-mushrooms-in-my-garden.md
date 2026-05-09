@@ -11,9 +11,9 @@ type: query
 # How Do I Use Wood Chips to Grow Mushrooms in My Garden
 
 ## Short Answer
-Growing mushrooms on wood chips in your garden is one of the simplest and most rewarding forms of mushroom cultivation.
+[[falconer-growing-mushrooms-in-sheds]] on wood chips in your garden is one of the simplest and most rewarding forms of [[accessible-mushroom-cultivation-for-disabilities]].
 By inoculating hardwood chip beds with mushroom spawn, you can create productive fungal patches that yield gourmet and
-medicinal mushrooms for years with minimal ongoing maintenance. The process requires no special equipment beyond wood
+[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] for years with minimal ongoing maintenance. The process requires no special equipment beyond wood
 chips, mushroom spawn, and a suitable garden location.
 
 ## Choosing the Right Wood Chips
@@ -38,7 +38,7 @@ species while maximizing the productivity of every garden zone.
 
 ## Preparing and Hydrating the Wood Chips
 
-Fresh wood chips straight from the arborist's chipper are the ideal starting material for most outdoor mushroom beds.
+Fresh wood chips straight from the arborist's chipper are the ideal starting material for most [[cotter-outdoor-mushroom-garden-mulch-beds]] beds.
 The chipping process naturally fractures the wood fibers and increases surface area for fungal colonization. Chips that
 are 1 to 3 inches in size provide the best balance of moisture retention, air circulation, and structural stability in
 the bed.
@@ -69,11 +69,13 @@ adjusting moisture and waiting for favorable weather conditions will eventually 
 most important qualities for the wood chip mushroom cultivator.
 
 ## Key Points
-- Fresh hardwood chips from oak, maple, birch, or alder make the best mushroom substrate
+- Fresh hardwood chips from oak, maple, birch, or alder make the best [[gourmet-medicinal-mushroom-substrate-preparation]]
 - King Stropharia (Wine Cap) is the easiest and most productive species for wood chip beds
 - Hydrate chips thoroughly before inoculating, and keep the bed consistently moist during colonization
 - Inoculate at 1 pound of spawn per 4 to 6 square feet for reliable colonization
-- Harvest mushrooms by cutting at the stem base to protect the mycelial network
+- Harvest mushrooms by cutting at the stem base to protect the [[gadd-mycelial-network-dynamics]]
 - Well-maintained wood chip beds produce for 2 to 5 years with annual chip replenishment
-## Related Questions
+## Related
+
+- [[query-how-to-use-wood-chips-in-your-garden]] Questions
 - [[query-how-to-grow-wine-cap-mushrooms]]

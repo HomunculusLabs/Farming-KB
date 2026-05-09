@@ -10,7 +10,8 @@ tags:
   - site-design
   - holmgren
 sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 # Permaculture Zone and Sector Planning
 
@@ -32,13 +33,13 @@ according to how often they need attention — high-frequency elements close,
 low-frequency elements further away.
 
 **Zone 0: The House** — The centre of activity where people live, cook, and
-work. Energy-efficient design, passive solar orientation, roof water
+work. Energy-efficient design, [[comparison-passive-solar-vs-earth-sheltered]] orientation, roof water
 harvesting, and indoor food processing belong here. In Holmgren's meta-
 analysis, Zone 0 represents the personal self — the core of identity and
 daily habits from which all design radiates.
 
 **Zone 1: The Intensive Garden** — Visited daily or more often. Contains
-elements requiring frequent attention: culinary herbs, salad greens, vegetable
+elements requiring frequent attention: [[holzer-medicinal-and-culinary-herbs-compendium]], salad greens, vegetable
 beds, seedling nurseries, and small poultry houses. At Melliodora, the kitchen
 garden, greenhouse, and goat yard occupy Zone 1. Soil fertility is highest
 here due to concentrated composting and mulching.
@@ -62,7 +63,7 @@ community governance.
 
 **Zone 5: The Wilderness Zone** — Visited rarely. Unmanaged land left to
 natural processes — providing wildlife habitat, genetic diversity, and a
-reference for understanding natural ecosystem dynamics. Traditional societies
+reference for understanding [[fukuoka-natural-ecosystem-food-chain-interconnection]] dynamics. Traditional societies
 always had sacred wild areas. Zone 5 is insurance: it preserves ecological
 processes that ultimately sustain all other zones.
 
@@ -85,7 +86,7 @@ directions. The most commonly mapped sectors include:
 
 **Sun sector** — The path of the sun determines passive solar design, shade
 patterns, and growing microclimates. At Melliodora, north-facing slopes (in
-the southern hemisphere) receive maximum sun exposure.
+the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]) receive maximum sun exposure.
 
 **Wind sector** — Prevailing wind directions inform windbreak placement and
 building orientation. Cold winter winds are deflected with dense shelterbelts;
@@ -103,7 +104,7 @@ irrigation.
 
 **Wildlife sector** — Wildlife corridors and foraging routes are identified and
 protected. Wildlife provides pest control, pollination, and soil aeration as
-ecosystem services that permaculture designs deliberately harness.
+[[biodiversity-of-fungi-ecosystem-services-agriculture]] that permaculture designs deliberately harness.
 
 **Noise and pollution sector** — External sources of noise, dust, or chemical
 drift from roads or industry inform buffer planting and building placement.
@@ -117,7 +118,7 @@ facing side sheltered from cold wind. A dam belongs where water naturally flows
 at the Zone 3–4 boundary. A windbreak goes along the prevailing wind sector at
 the Zone 2–3 boundary. This overlay process is iterative — each element's
 placement affects and is affected by every other. The spider web icon for
-Principle 7 (Design from Patterns to Details) evokes this: radial lines
+Principle 7 ([[permaculture-principle-design-from-patterns-to-details]] to Details) evokes this: radial lines
 represent sectors, concentric rings represent zones, and details always vary.
 
 ## Meta-Analysis: Zones of Social Influence
@@ -131,6 +132,8 @@ focused close to the centre, helping practitioners act effectively at the
 appropriate scale.
 
 ## See Also
+
+- [[natfarm-zone-sector-permaculture-planning]]
 
 - [[gaias-garden-zone-and-sector-garden-layout]]
 - [[permaculture-plants-food-forest-ground-covers-bamboos]]

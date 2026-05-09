@@ -1,5 +1,5 @@
 ---
-title: Fungal Degradation of Synthetic Dyes
+title: singh-fungal-degradation-endocrine-disrupting-compounds of Synthetic Dyes
 created: 2026-04-28
 tags: [dye-degradation, bioremediation, white-rot-fungi, textile-effluent]
 date: 2026-04-25
@@ -12,15 +12,15 @@ type: concept
 
 Synthetic dyes are widely used in textile dyeing, paper printing, colour
 photography, and petroleum products. Azo dyes, anthraquinone dyes,
-triarylmethane dyes, and phthalocyanine dyes represent the major classes
+triarylmethane dyes, and phthalocyanine dyes represent the [[ascomycota-phylogeny-major-classes-lineages]]
 of industrial dyes released into the environment. It has been estimated
 that approximately 10 to 15 percent of the dyes produced end up in
 industrial effluents. Azo dyes are the predominant group, accounting for
 roughly 50 percent of all industrial dyes produced worldwide. These
-compounds are recalcitrant to conventional wastewater treatment and
+compounds are recalcitrant to conventional [[mollison-designers-wastewater-treatment-wetlands]] and
 persist in the environment, making [[phanerochaete-chrysosporium]] has been
 reported to decolorize azo dyes including Congo Red, Orange II, and
-Tropaeolin. Crude lignin peroxidase (LiP) preparations decolorized all
+Tropaeolin. Crude [[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP) preparations decolorized all
 dyes tested except Congo Red, suggesting involvement of enzymes other
 than LiP in the degradation of that particular dye.
 
@@ -49,9 +49,9 @@ system.
 MnPs from B. adusta and [[pleurotus-ostreatus]] and Trametes hispida
 demonstrated that only laccase activity correlated with decolorization
 activity of crude extracts from these organisms. This suggests laccases
-can serve as the primary enzymatic agents for dye degradation in certain
+can serve as the primary enzymatic agents for [[azo-dye-degradation-biochemistry]] in certain
 fungal species. Laccases offer advantages for bioremediation applications
-because they do not require hydrogen peroxide, have broader substrate
+because they do not require [[cervantes-hydrogen-peroxide-sterilization]], have broader substrate
 specificity, and can function with mediator compounds to expand their
 oxidation capabilities to non-phenolic substrates.
 

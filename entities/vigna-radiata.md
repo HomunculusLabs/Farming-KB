@@ -28,9 +28,9 @@ created: 2026-04-28
 
 It is cultivated primarily for its edible seeds, which are rich in protein, dietary fiber, and essential micronutrients.
 
-Mung bean is one of the most important pulse crops in South and Southeast Asia, where it has been domesticated for over 4,500 years.
+Mung bean is one of the most important pulse crops in South and [[psilocybe-southeast-asia-pacific]], where it has been domesticated for over 4,500 years.
 
-The crop is increasingly recognized for its role in sustainable agriculture due to its nitrogen-fixing ability and short growing season.
+The crop is increasingly recognized for its role in sustainable agriculture due to its nitrogen-fixing ability and short [[savory-growing-season-and-non-growing-season-management]].
 
 ## Taxonomy and Morphology
 
@@ -92,7 +92,7 @@ It is commonly sown as a rainfed crop during the monsoon season or as an irrigat
 
 Seed rates of 10–15 kg/ha are typical, with row spacing of 25–30 cm and plant-to-plant spacing of 5–10 cm.
 
-Inoculation with appropriate *Bradyrhizobium* strains enhances nodulation and nitrogen fixation, often eliminating the need for nitrogen fertilizer.
+Inoculation with appropriate *Bradyrhizobium* strains enhances nodulation and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], often eliminating the need for nitrogen fertilizer.
 
 Average yields range from 500 to 1,500 kg/ha depending on variety, management, and environmental conditions.
 
@@ -100,13 +100,13 @@ Average yields range from 500 to 1,500 kg/ha depending on variety, management, a
 
 Mung bean is a versatile component in permaculture and regenerative agriculture systems due to its multiple ecological functions.
 
-As a nitrogen-fixing legume, it contributes 40–80 kg N/ha to the soil through biological nitrogen fixation.
+As a nitrogen-fixing legume, it contributes 40–80 kg N/ha to the soil through [[biological-nitrogen-fixation-agriculture]] fixation.
 
-The crop serves as an effective green manure when incorporated into the soil before pod maturity, adding organic matter and nutrients.
+The crop serves as an effective green manure when incorporated into the soil before pod maturity, adding [[hamilton-composting-and-organic-matter-management]] and nutrients.
 
 Its short lifecycle allows multiple plantings per season, maximizing ground cover and reducing weed pressure.
 
-Mung bean is an excellent catch crop for breaking pest and disease cycles in cereal-dominated rotations.
+Mung bean is an excellent catch crop for breaking [[hamilton-pest-and-disease-control-organic]] cycles in cereal-dominated rotations.
 
 The crop residue (straw and husks) provides valuable mulch and animal fodder, supporting integrated farming systems.
 

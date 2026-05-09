@@ -11,9 +11,9 @@ type: comparison
 # Chaga vs Turkey Tail
 
 ## Overview
-Chaga (Inonotus obliquus) and turkey tail (Trametes versicolor) are two of
-the most extensively researched medicinal mushrooms in the world, each with
-distinct bioactive compounds and health applications. Chaga is a sterile
+Chaga ([[chaga-inonotus-obliquus-medicinal-profile]]) and turkey tail ([[staycare-trametes-versicolor-bioremediation-applications]]) are two of
+the most extensively researched [[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]] in the world, each with
+distinct [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] and health applications. Chaga is a sterile
 conk that grows primarily on birch trees in cold climates and is prized
 for its exceptionally high antioxidant content. Turkey tail is a colorful
 bracket fungus found worldwide on dead hardwood that is celebrated for its
@@ -27,7 +27,7 @@ Turkey tail is one of the most common bracket fungi in the world, found on
 dead and dying hardwood across every continent except Antarctica. Its
 colorful concentric zones of brown, tan, white, and blue give it a
 resemblance to a wild turkey's tail feathers, hence the common name.
-Turkey tail has been the subject of extensive clinical research,
+Turkey tail has been the subject of extensive [[hofmann-lsd-clinical-research-early-studies]],
 particularly in Japan and China, where its extracted polysaccharides PSK
 (polysaccharide-K, trade name Krestin) and PSP (polysaccharopeptide) are
 approved as adjuvant cancer therapies prescribed alongside conventional
@@ -79,7 +79,7 @@ undergoing conventional cancer treatments. The clinical evidence for PSK
 and PSP is the strongest of any medicinal mushroom compound. Turkey tail
 is also the practical choice for growers who want to produce their own
 medicinal mushrooms at home, as it is one of the easiest species to
-cultivate on supplemented sawdust. Its prebiotic properties make it
+cultivate on [[oyster-mushroom-supplemented-sawdust-blocks]]. Its prebiotic properties make it
 additionally valuable for gut health protocols.
 
 ## Hybrid Approaches
@@ -93,6 +93,8 @@ at home while wild-harvesting chaga, creating a sustainable mixed approach
 that reduces pressure on wild chaga populations.
 
 ## See Also
+
+- [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]
 
 - [[comparison-chaga-vs-reishi-medicinal]]
 - [[comparison-reishi-vs-turkey-tail-medicinal-mushrooms]]

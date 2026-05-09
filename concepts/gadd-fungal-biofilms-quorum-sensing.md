@@ -1,5 +1,5 @@
 ---
-title: "Fungal Biofilms and Quorum Sensing"
+title: "gadd fungal biofilms quorum sensing and Quorum Sensing"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -35,7 +35,7 @@ The least understood biotic signals influencing filamentous fungi are the autore
 **Developmental Regulation:**
 - Germination self-inhibitors
 - Germ-tube emergence patterns from spores
-- Regulation of asexual and sexual reproduction
+- Regulation of asexual and [[fungal-life-cycles-sexual-reproduction-metamorphosis]]
 - Choice between sexual and asexual reproduction
 
 ### Quorum Sensing in Fungi
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

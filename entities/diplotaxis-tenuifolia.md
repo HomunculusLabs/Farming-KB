@@ -23,7 +23,7 @@ The species is commercially important as a salad green, prized for its intense p
 
 Commercial cultivation has expanded significantly since the 1990s, with Italy, the United Kingdom, and France as major producers. The species is increasingly grown hydroponically for year-round supply.
 
-Beyond culinary use, wild rocket contains glucosinolates and flavonoids with documented antioxidant and anti-inflammatory properties. These bioactive compounds have attracted research interest for potential health applications.
+Beyond culinary use, wild rocket contains glucosinolates and flavonoids with documented antioxidant and anti-inflammatory properties. These [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] have attracted research interest for potential health applications.
 
 ## Taxonomy and Morphology
 
@@ -55,7 +55,7 @@ Leaf epidermis has sinuous anticlinal walls and anisocytic stomata. Myrosin cell
 
 **Diplotaxis tenuifolia** is native to the Mediterranean Basin, from Portugal and Morocco eastward to Greece and Turkey. Its native range extends to the Black Sea region and parts of central Europe.
 
-The species has naturalized widely in northern Europe, the British Isles, North America, Australia, and South America. It is particularly common as a garden escape and along roadsides in temperate regions.
+The species has naturalized widely in northern Europe, the British Isles, [[psilocybin-north-america-pacific-northwest]], Australia, and South America. It is particularly common as a garden escape and along roadsides in temperate regions.
 
 It grows in dry, rocky, and sandy habitats including roadside verges, field margins, walls, rocky outcrops, and disturbed ground. The species tolerates poor, calcareous soils and is drought-resistant once established.
 
@@ -77,7 +77,7 @@ The leaves are highly perishable and have a shelf life of 5–7 days when refrig
 
 ## Nutrition
 
-**Diplotaxis tenuifolia** is nutritionally dense, containing high levels of vitamins, minerals, and phytochemicals relative to most salad vegetables.
+**Diplotaxis tenuifolia** is nutritionally dense, containing high levels of vitamins, minerals, and phytochemicals relative to most [[hamilton-salad-vegetables-organic]].
 
 Vitamin K content is among the highest of any leafy green, with approximately 250 µg per 100 g fresh weight. The leaves are also rich in vitamin C (110 mg/100 g), vitamin A (as carotenoids), and folate.
 
@@ -91,13 +91,13 @@ Flavonoids including quercetin, kaempferol, and isorhamnetin glycosides contribu
 
 Commercial cultivation of wild rocket is well-established in Mediterranean Europe. The crop is grown as an annual for leaf production, though it is botanically a short-lived perennial.
 
-Direct seeding is the standard method, at rates of 1–2 g per square meter. Germination occurs in 5–10 days at 15–20°C. Successive sowings every 2–3 weeks maintain continuous production through the growing season.
+[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is the standard method, at rates of 1–2 g per square meter. Germination occurs in 5–10 days at 15–20°C. Successive sowings every 2–3 weeks maintain continuous production through the [[savory-growing-season-and-non-growing-season-management]].
 
 Harvest begins 30–40 days after sowing for baby leaf production, or 50–60 days for mature leaves. Cut-and-come-again harvesting can yield 3–5 cuts per planting.
 
 Hydroponic production in nutrient film technique (NFT) systems allows year-round cultivation. Controlled-environment production produces more consistent flavor and quality than field-grown crops.
 
-Major production challenges include flea beetle damage, downy mildew (*Hyaloperonospora parasitica*), and bolting in warm temperatures. Resistant cultivars and integrated pest management practices are widely employed.
+Major production challenges include flea beetle damage, downy mildew (*Hyaloperonospora parasitica*), and bolting in warm temperatures. Resistant cultivars and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management practices are widely employed.
 
 Post-harvest handling is critical for maintaining quality. Rapid cooling to 2–4°C immediately after harvest extends shelf life significantly. Modified atmosphere packaging reduces yellowing and moisture loss during distribution.
 

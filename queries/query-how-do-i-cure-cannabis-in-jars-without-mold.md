@@ -1,10 +1,11 @@
 ---
-title: "How do I cure cannabis in jars without mold?"
+title: "How do I query how do i cure cannabis in jars without mold in jars without mold?"
 created: 2026-04-28
 tags: [query, cannabis, curing, post-harvest]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---
@@ -40,7 +41,7 @@ The safest cure begins when stems bend with some resistance and smaller stems be
 
 Trimming affects how quickly flowers release water.
 [[cervantes-manicuring-trimming-buds|Cervantes trimming guidance]] explain why leaves, density, and bud structure change drying speed.
-Wet-trimmed flowers often dry faster because more leaf surface has been removed.
+Wet-trimmed flowers often dry faster because more [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] has been removed.
 Dry-trimmed flowers may retain moisture longer because sugar leaves slow evaporation.
 Neither method is automatically safer; each needs matching airflow and monitoring.
 The key is to avoid trapping wet interior flower tissue inside a tightly closed jar.
@@ -67,8 +68,8 @@ The goal is steady internal equalization without condensation, clumping, or anae
 Small hygrometers can help identify jars that are too humid, but they are not a substitute for touch and smell.
 Buds can have wet cores even when the jar reading looks acceptable for a short period.
 Dense colas should be broken down if they are drying unevenly or hiding moisture inside.
-[[green-cannabis-grow-bible-sog-scrog-advanced-methods|Cervantes curing storage]] treats storage conditions as part of preserving finished flower quality.
-A closet, cabinet, or dedicated curing tote is usually better than a warm windowsill or grow room corner.
+[[green-cannabis-grow-bible-sog-scrog-advanced-methods|Cervantes curing storage]] treats [[vegetable-storage-conditions-by-temperature-and-humidity]] as part of preserving finished flower quality.
+A closet, cabinet, or dedicated curing tote is usually better than a warm windowsill or [[cannabis-grow-room-setup]] corner.
 Quality curing is less about dramatic intervention and more about stable conditions repeated every day.
 
 ### Know the difference between curing aroma and mold warning signs

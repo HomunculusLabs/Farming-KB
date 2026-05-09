@@ -24,7 +24,7 @@ sources:
 
 # Master Cho Han-Kyu
 
-Master Cho Han-Kyu (1935-2018) was a Korean farmer and educator who developed Korean Natural Farming (KNF), a complete agricultural system that uses naturally occurring microorganisms and plant-derived inputs instead of chemical fertilizers and pesticides. He founded the Janong Natural Farming Institute in Korea.
+Master Cho Han-Kyu (1935-2018) was a Korean farmer and educator who developed Korean [[comparison-natural-farming-vs-permaculture]] (KNF), a complete agricultural system that uses naturally occurring microorganisms and plant-derived inputs instead of [[cervantes-chemical-fertilizers-guide]] and pesticides. He founded the Janong Natural Farming Institute in Korea.
 
 ## Background
 
@@ -42,7 +42,7 @@ Cho's system rests on several principles:
 
 1. **Use what nature provides locally** — No imported inputs; everything comes from the farm or immediate surroundings
 2. **Observe and follow nature** — Let nature's timing guide farming decisions
-3. **Indigenous microorganisms (IMO)** — Capture and multiply the microorganisms already adapted to your local environment
+3. **[[beneficial-indigenous-microorganisms-bim]] (IMO)** — Capture and multiply the microorganisms already adapted to your local environment
 4. **Fermentation over decomposition** — Fermented inputs are more stable, more bioavailable, and don't attract pests
 5. **Plants feed microbes, microbes feed plants** — The plant-microbe partnership is central
 6. **Zero waste** — Every output becomes an input somewhere else
@@ -70,14 +70,14 @@ Cho's system rests on several principles:
 
 ### Fish Amino Acid (FAA)
 - Fermented fish waste provides nitrogen and amino acids
-- Particularly effective during vegetative growth phase
+- Particularly effective during [[cannabis-vegetative-growth-stage]] phase
 
 ### Natural Farming Input System
 Cho developed a complete toolkit of inputs for every stage of plant growth and every farming need. See [[knf-preparations]] for the full catalog.
 
 ## The Nutritive Cycle Theory
 
-Cho's most distinctive contribution is the Nutritive Cycle — matching fertilizer inputs to the plant's natural growth rhythm:
+Cho's most distinctive contribution is the Nutritive Cycle — matching fertilizer inputs to the plant's [[ingham-natural-growth-regulators-soil-microbes]] rhythm:
 
 1. **Vegetative/Reproductive (V/R)** — Early growth: nitrogen-dominant
 2. **Changeover** — Transition to flowering: calcium, phosphorus
@@ -90,7 +90,7 @@ See [[nutritive-cycle-theory]] for detailed application.
 
 KNF has spread to:
 
-- **Hawaii** — where it's widely adopted by both conventional and organic growers
+- **Hawaii** — where it's widely adopted by both [[jadam-conventional-and-organic-pesticide-integration]] growers
 - **Thailand, Vietnam, Philippines** — significant adoption in Southeast Asia
 - **East Africa** — promoted as a low-cost alternative to chemical agriculture
 - **United States** — growing interest among cannabis growers and market gardeners

@@ -1,5 +1,5 @@
 ---
-title: Natural Farming Composting Methods
+title: Natural natural farming composting methods Methods
 created: 2026-04-24
 tags: [agriculture, natural-farming, KNF, composting, FMC, IMO-compost]
 type: concept
@@ -35,8 +35,8 @@ Choose a place with:
 ### Materials
 
 - IMO-4 (10% of total materials)
-- Organic matter (oil cake, fish waste, bone meal, bean oil cake, eggshells)
-- Natural farming inputs (FPJ, FAA, OHN, etc.)
+- [[hamilton-composting-and-organic-matter-management]] (oil cake, fish waste, bone meal, bean oil cake, eggshells)
+- Natural [[natural-farming-inputs-cho]] (FPJ, FAA, OHN, etc.)
 - Shovel or mixing machine
 - Jute sacks for storage
 - Powdered oyster/crab/shrimp/eggshells (excellent calcium addition)
@@ -73,7 +73,7 @@ The major ingredients should be animal materials with abundant proteins (bone me
 
 ### Method 2: Quick IMO-Enriched Compost
 
-1. Mix IMO-4 with compost materials (oil cake, fowl droppings, pig manure, cow manure, fish meal, commercial organic fertilizer) at 1:10 ratio
+1. Mix IMO-4 with compost materials (oil cake, fowl droppings, pig manure, cow manure, fish meal, commercial [[complete-organic-fertilizer-cof-recipe-solomon]]) at 1:10 ratio
 2. Ferment for 7-14 days
 3. Add cow bone powder, shrimp shell, or crab shell
 4. Ferment for more than a week
@@ -109,7 +109,7 @@ A more fortified version similar to Japanese bokashi, incorporating macro/micron
 - Coco peat: 20 kg
 - Chicken manure: 30 kg
 - Charcoal dust: 20 kg
-- BIM (Beneficial Indigenous Microorganisms): 1 liter
+- BIM (Beneficial [[beneficial-indigenous-microorganisms-bim]]): 1 liter
 - Molasses: 1 kg
 - Bionutrient: 1 liter
 
@@ -141,12 +141,8 @@ A comprehensive soil conditioner applied per acre:
 - BRV: 500 ml
 - LAB: 300 ml
 - WCaP: 300 ml
-- FAA: 300 ml
-- Charcoal: 50 kg
-- Soil: 500 kg
-- Seawater: 3 liters
 ## See Also
-- green cannabis grow bible seed germination methods
+- green cannabis grow bible [[cannabis-seed-germination-methods]] methods
 
 ## See Also
 

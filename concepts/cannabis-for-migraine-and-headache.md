@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Migraine affects approximately 12% of the population and is one of the most common reasons for medical consultation. Research from The Cannabis Health Index documents both historical use dating back thousands of years and modern scientific evidence for cannabinoids in migraine treatment.
+Migraine affects approximately 12% of the population and is one of the most common reasons for medical consultation. Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] documents both historical use dating back thousands of years and modern scientific evidence for cannabinoids in migraine treatment.
 
 ## Key Clinical Studies
 
@@ -21,10 +21,10 @@ Migraine affects approximately 12% of the population and is one of the most comm
 
 **Russo (2001)**: "Hemp for headache: An in-depth historical and scientific review of cannabis in migraine treatment." Journal of Cannabis Therapeutics 1(2).
 
-Dr. Ethan Russo documented the extensive historical use of cannabis for migraine, from ancient Indian Ayurvedic medicine through 19th-century Western medicine. Cannabis was a standard migraine treatment in Western pharmacopoeias until it was removed in the mid-20th century.
+Dr. Ethan Russo documented the extensive historical use of cannabis for migraine, from ancient Indian Ayurvedic medicine through 19th-century [[fukuoka-eastern-western-medicine-healing-world-crisis]]. Cannabis was a standard migraine treatment in Western pharmacopoeias until it was removed in the mid-20th century.
 
 ### Clinical Endocannabinoid Deficiency (CECD)
-**Russo (2004)**: "Clinical Endocannabinoid Deficiency (CECD): Can this concept explain therapeutic benefits of cannabis in migraine, fibromyalgia, irritable bowel syndrome and other treatment-resistant conditions?" Neuroendocrinology Letters 25(1/2).
+**Russo (2004)**: "Clinical Endocannabinoid Deficiency (CECD): Can this concept explain therapeutic benefits of cannabis in migraine, fibromyalgia, [[blesching-cannabis-irritable-bowel-syndrome]] syndrome and other treatment-resistant conditions?" Neuroendocrinology Letters 25(1/2).
 
 This influential paper proposed that migraine, fibromyalgia, IBS, and other treatment-resistant conditions may share a common underlying mechanism: deficient endocannabinoid tone. This would explain why cannabis -- which supplements the endocannabinoid system -- is effective across these seemingly unrelated conditions.
 

@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [query, cannabis, environment, stress-management]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -37,10 +38,10 @@ Providing shade cloth during the hottest part of the day can reduce canopy
 temperatures by 10-15°F while still allowing sufficient light for
 photosynthesis. Strategic use of companion plants and trees as natural
 shade is a technique covered in depth in [[greenhouse-growing]] covers
-automated systems, evaporative cooling walls, and shade curtain systems
+automated systems, [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] walls, and shade curtain systems
 that can maintain optimal temperatures even in hot climates.
 
-Humidity management is closely tied to temperature control. Hot air holds
+[[stamets-cultivator-humidity-management-fogging-systems]] is closely tied to temperature control. Hot air holds
 more moisture, which can push humidity to dangerous levels in enclosed
 spaces and create conditions favorable for powdery mildew and bud rot.
 Conversely, high heat with low humidity causes plants to transpire
@@ -49,14 +50,14 @@ vapor pressure deficit (VPD) — the relationship between temperature and
 humidity — helps growers maintain conditions in the optimal range.
 
 Heat stress weakens cannabis plants and makes them more susceptible to
-pest and disease pressure. Stressed plants emit chemical signals that can
+[[hamilton-pest-and-disease-control-organic]] pressure. Stressed plants emit [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] that can
 attract certain pests, and their compromised immune systems are less able
-to resist fungal and bacterial infections. Maintaining proper
+to resist fungal and [[cannabis-for-bacterial-infections-and-mrsa]]. Maintaining proper
 temperatures as part of a comprehensive cannabis pest management
 strategy is more effective than treating pest outbreaks after heat stress
 has already weakened your plants.
 
-Nutrient management during heat waves requires careful attention.
+[[green-cannabis-grow-bible-nutrient-management-ppm]] during heat waves requires careful attention.
 Heat-stressed plants use more water but may actually absorb fewer
 nutrients because their root systems are functioning under duress. This
 can create confusing situations where plants show signs of nutrient
@@ -92,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

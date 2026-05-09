@@ -20,7 +20,7 @@ between solanaceous intoxication and animal transformation beliefs
 provides a pharmacological explanation for one of the most persistent
 folk beliefs in European history. Harner's hypothesis was part of a
 broader scholarly effort to identify the botanical and chemical
-identities of the psychoactive substances used in European witchcraft
+identities of the psychoactive substances used in [[harner-european-witchcraft-hallucinogens]]
 practices from the late medieval period through the early modern era.
 
 ## Historical Accounts of Lycanthropy
@@ -54,7 +54,7 @@ belladonna, henbane, aconite, opium, and hashish, asserting that
 The ointments described in witchcraft and lycanthropy confessions
 were prepared from tropane-alkaloid-rich plants of the Solanaceae
 family. John Baptista Porta (1589) described a potion made from
-henbane (Hyoscyamus niger), mandrake (Mandragora officinarum),
+henbane ([[henbane-hyoscyamus-niger-ethnobotany]]), mandrake ([[mandrake-mandragora-officinarum-in-european-folklore]]),
 stramonium ([[atropa-belladonna]]).
 Under its effects, subjects believed themselves transformed into
 birds, fish, or geese, exhibiting behaviors appropriate to each

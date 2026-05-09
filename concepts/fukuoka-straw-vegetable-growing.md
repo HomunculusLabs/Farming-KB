@@ -1,5 +1,5 @@
 ---
-title: Vegetable Growing in the Natural Farm
+title: fukuoka-semi-wild-vegetable-growing-natural-method in the fukuoka-creating-natural-farm-site-selection-establishment
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Masanobu Fukuoka, The Natural Way of Farming"
@@ -62,19 +62,19 @@ vegetables.
 Leguminous vegetables should be included in the seeds sown among the weeds in
 spring to early summer. Vegetables such as asparagus bean, cowpea, and mung
 bean are especially good choices because they are inexpensive and
-high-yielding. For companion planting in a broader orchard context, see [[fukuoka-straw-seed-balls-direct-seeding]].
+high-yielding. For [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] in a broader orchard context, see [[fukuoka-straw-seed-balls-direct-seeding]].
 
 ### Tomatoes and Eggplants
 
 Weak vegetables such as tomatoes and eggplants tend to become overwhelmed at
 first by weeds. The safest way to grow these is to raise young plants from
-seed and transplant them into a cover of clover and weeds. Rather than training
+[[vegetable-seed-and-transplant-guide]] them into a cover of clover and weeds. Rather than training
 them into single-stem plants, after transplantation they should be left alone
 and allowed to grow as bushes. This technique is part of Fukuoka's broader
 [[fukuoka-natural-farming]] — core philosophy and method overview
 - [[fukuoka-semi-wild-vegetable-growing-techniques]] — detailed semi-wild methods
-- [[fukuoka-clover-and-green-manure-cropping]] — clover and green manure systems
-- [[fukuoka-rice-and-barley-natural-farming]] — grain production without tillage
+- [[fukuoka-clover-and-green-manure-cropping]] — clover and [[comparison-green-manure-guide-vs-mulch-types-and-effects]] systems
+- [[fukuoka-rice-and-barley-natural-farming]] — [[fukuoka-no-till-grain-production-method]] without tillage
 - [[cover-cropping-natural-farming]] — cover crop systems for soil health
 ## Practical Considerations
 
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

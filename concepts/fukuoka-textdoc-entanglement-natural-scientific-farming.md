@@ -1,5 +1,5 @@
 ---
-title: Entanglement of Natural and Scientific Farming
+title: Entanglement of Natural and fukuoka-illusions-scientific-farming-centrifugal-centripetal-model
 created: 2026-04-28
 tags: [natural-farming, scientific-farming, sericulture, divergence, history]
 date: 2026-04-28
@@ -31,12 +31,12 @@ improved by artificial breeding were weak and susceptible to disease.
 ### The Brief Return Toward Nature
 
 Starting fifteen to twenty years before Fukuoka wrote, techniques that
-approached natural farming spread widely. Growers began throwing branches of
+approached [[comparison-natural-farming-vs-permaculture]] spread widely. Growers began throwing branches of
 mulberry leaves onto the silkworms rather than picking and chopping leaves.
 They discovered this crude method works for young silkworms as well as fully
 grown larvae. Instead of raising worms in special rooms, they might be
 raised outdoors in a small shed, under the eaves, or in a hotbed. Silkworms
-proved to be quite hardy and never needed constant temperature and humidity
+proved to be quite hardy and never needed constant [[greg-green-temperature-and-humidity-control]]
 conditions. Originally a creature of nature, the silkworms thrived outdoors
 day and night; only man feared the evening dew.
 
@@ -61,7 +61,7 @@ under way, it does not regress or turn back but rushes madly onward along a
 path that takes it away from nature.
 
 The intertwining of natural farming and scientific farming can be depicted
-as follows. Narrowly defined natural farming, which includes organic farming,
+as follows. Narrowly defined natural farming, which includes [[coleman-deep-organic-farming-philosophy]],
 proceeds centripetally inward toward a state of "nothingness" (Mu) by the
 elimination of human labor; it compresses and freezes time and space. Modern
 scientific farming, on the other hand, seeks to appropriate time and space
@@ -93,13 +93,15 @@ not merely a change in techniques. See [[fukuoka-theory-three-ways-of-farming]].
 
 This pattern of divergence, partial return, and then further departure from
 nature repeats across all areas of agriculture. In crop cultivation, in
-livestock farming, in forestry, man repeatedly discovers that his
+[[fukuoka-textdoc-natural-livestock-farming-open-grazing]], in forestry, man repeatedly discovers that his
 interventions create new problems, partially retreats toward natural methods,
 but then uses that partial knowledge to develop even more aggressive
 scientific techniques. The cycle is driven by the fundamental error of
 believing that man can improve upon nature through knowledge and action.
 
 ## See Also
+
+- [[fukuoka-textdoc-scientific-farming-energy-paradox]]
 
 - [[fukuoka-natural-farming-vs-organic-farming]]
 - [[fukuoka-mu-nothingness-philosophy]]

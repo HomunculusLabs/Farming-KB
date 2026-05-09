@@ -1,5 +1,5 @@
 ---
-title: "Graywater Wetland Marsh Filtration Systems"
+title: "Graywater graywater wetland marsh filtration systems Filtration Systems"
 created: 2026-04-28
 tags: [graywater, water-recycling, wetland, permaculture]
 date: 2026-04-25
@@ -16,7 +16,7 @@ waste), graywater does not contain sewage but still carries valuable
 nutrients from soaps, food particles, and biological material. When
 handled properly, graywater reclaims these nutrients and returns them
 to the soil while simultaneously saving energy and fresh water. A
-constructed wetland marsh is one of the most effective and ecological
+[[comparison-constructed-wetland-vs-backyard-pond]] marsh is one of the most effective and ecological
 methods for processing graywater on a homestead or community scale.
 
 ## The Problem with Conventional Systems
@@ -53,8 +53,8 @@ plants.
 Dig a trench or basin a few feet deep. The excavation should be
 angled so that water flows over the entire marsh area. Pile the
 excavated dirt around the sides as a retainment wall, and plant this
-wall with clover or other nitrogen-fixing ground covers to prevent
-erosion and add additional nutrient cycling.
+wall with clover or other nitrogen-fixing [[permaculture-plants-food-forest-ground-covers-bamboos]] to prevent
+erosion and add additional [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 ### Step 4: Layer the Filtration Media
 

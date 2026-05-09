@@ -10,7 +10,8 @@ tags:
   - sustainability
   - systems-thinking
 sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 # Permaculture Design Principles Overview
 
@@ -63,7 +64,7 @@ self-organisation.
 
 ### Bottom-Up Principles (1–6)
 
-**1. Observe and Interact** — *Beauty is in the eye of the beholder.* Good
+**1. [[holmgren-observe-and-interact-detailed]]** — *Beauty is in the eye of the beholder.* Good
 design depends on careful observation and thoughtful interaction. Traditional
 agriculture was labour-intensive, industrial agriculture is energy-intensive,
 and permaculture is information and design intensive.
@@ -82,7 +83,7 @@ are visited on the children.* Negative feedback prevents systems running out of
 control. We must accept feedback from nature and design self-regulating
 mechanisms that reduce ongoing corrective intervention.
 
-**5. Produce No Waste** — *Waste not, want not.* In nature, output of one
+**5. [[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]]** — *Waste not, want not.* In nature, output of one
 organism is input for another. Industrial culture creates linear waste flows;
 permaculture designs for cyclical flows where waste becomes food.
 
@@ -93,11 +94,11 @@ nature does the work rather than substituting fossil-fuelled effort.
 
 ### Top-Down Principles (7–12)
 
-**7. Design from Patterns to Details** — *Can't see the wood for the trees.*
+**7. [[permaculture-principle-design-from-patterns-to-details]] to Details** — *Can't see the wood for the trees.*
 Finding the appropriate pattern is more important than understanding every
 detail. Complex systems that work evolve from simple ones that work.
 
-**8. Integrate Rather Than Segregate** — *Many hands make light work.*
+**8. [[permaculture-principle-integrate-rather-than-segregate]] Than Segregate** — *Many hands make light work.*
 Place elements so they support each other. Integrated systems produce
 synergies where the whole is greater than the sum of parts.
 
@@ -117,7 +118,7 @@ innovation. Design to increase edge.
 **12. Creatively Use and Respond to Change** — *Vision is not seeing things as
 they are but as they will be.* Change is inevitable. Rather than resisting it,
 design for adaptability and see disruption as opportunity. This draws on
-ecological succession and the pulsing dynamics of ecosystems.
+[[holmgren-ecological-succession-and-pulsing]] and the pulsing dynamics of ecosystems.
 
 ## Holmgren vs. Mollison
 
@@ -127,7 +128,7 @@ oriented. Mollison presented diverse principles without a single organising
 structure; Holmgren's twelve are a complementary set with action statements,
 icons, and proverbs. Holmgren also more explicitly addresses energy descent
 and the limits of industrial civilisation, drawing heavily on H.T. Odum's
-systems ecology. The principles apply equally to land use, built environments,
+systems ecology. The principles apply equally to land use, [[fungal-biodiversity-built-environments-indoor-mycobiome]],
 social systems, and economic organisation — reflecting permaculture's
 evolution from permanent agriculture to permanent culture.
 

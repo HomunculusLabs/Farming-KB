@@ -9,7 +9,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Smith, C.W., Aptroot, A., Coppins, B.J. et al. (2009). "The Lichens of Great Britain and Ireland." British Lichen Society.
   - Moberg, R., Holmäsen, I. (1990). "Lav- och svampflora." Interpublishing, Stockholm.
   - Purvis, O.W. et al. (1992). "The Lichen Flora of Great Britain and Ireland." Natural History Museum Publications.
@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Hypogymnia tubulosa** is a foliose lichen in the family Parmeliaceae, commonly known as the **tubular lungwort** or **tube lichen**. It is a widespread epiphytic species found on the bark of mature trees in temperate and boreal forests.
+**Hypogymnia tubulosa** is a foliose lichen in the family Parmeliaceae, commonly known as the **tubular lungwort** or **tube lichen**. It is a widespread epiphytic species found on the bark of mature trees in temperate and [[fungal-diversity-boreal-forests-taiga]].
 
 The species is characterized by its inflated, hollow, tubular lobes that hang downward from branches. This distinctive morphology separates it from most other foliose lichens and makes it relatively easy to identify in the field.
 
@@ -50,13 +50,13 @@ The species is strictly epiphytic, growing on the bark of mature trees. Preferre
 
 It shows a strong preference for old-growth and late-successional forest stands with high humidity and stable microclimatic conditions. The species is typically found on trunk bases and lower branches in shaded, well-ventilated positions.
 
-H. tubulosa is sensitive to air pollution, particularly SO₂ and acidifying nitrogen deposition. It has declined significantly in central European forests affected by industrial emissions and intensive agriculture.
+H. tubulosa is sensitive to air pollution, particularly SO₂ and acidifying [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]. It has declined significantly in central European forests affected by industrial emissions and intensive agriculture.
 
 The species recovers slowly after disturbance, making it a reliable indicator of long-term habitat continuity. Its presence in a forest stand suggests at least 50–100 years of continuous forest cover without major disturbance.
 
 ## Chemistry and Bioactive Compounds
 
-H. tubulosa contains several characteristic lichen acids, primarily **physodic acid** and **physodalic acid**. These depsidones are the main diagnostic secondary metabolites used in species identification within the genus.
+H. tubulosa contains several characteristic lichen acids, primarily **physodic acid** and **physodalic acid**. These depsidones are the main diagnostic [[antifungal-secondary-metabolites-coprophilous-fungi]] used in species identification within the genus.
 
 Additional compounds reported include protocetraric acid, atranorin, and trace amounts of hypostictic acid. The medulla reacts K+ yellow to reddish-brown (physodic acid reaction), C– (no reaction), and PD+ orange.
 
@@ -70,7 +70,7 @@ Extracts of H. tubulosa have shown moderate antimicrobial activity in vitro agai
 
 H. tubulosa plays a significant role in forest canopy ecosystems as a component of the epiphytic lichen community. It contributes to canopy biomass, moisture retention, and microhabitat diversity on tree surfaces.
 
-The hollow lobe structure provides shelter for a variety of microarthropods, including oribatid mites, collembolans, and tardigrades. These organisms form the base of a microfood web that contributes to canopy nutrient cycling.
+The hollow lobe structure provides shelter for a variety of microarthropods, including oribatid mites, collembolans, and tardigrades. These organisms form the base of a microfood web that contributes to canopy [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 As an epiphyte, H. tubulosa intercepts atmospheric nutrients including nitrogen, phosphorus, and mineral dust particles. Through leaching and decomposition, these nutrients are transferred to the forest floor, contributing to overall forest nutrient budgets.
 
@@ -102,7 +102,7 @@ The species has been included in air quality biomonitoring programs across north
 
 H. tubulosa is not globally threatened but has experienced regional declines in areas with intensive forestry and air pollution. In central Europe, the species has retreated to protected forest reserves and remote mountain areas.
 
-Forest management practices that remove old-growth trees and reduce canopy continuity are the primary threat to H. tubulosa populations. The species requires 50–100 years of stand stability to establish viable populations on host trees.
+[[mollison-pdc-forest-management-products]] practices that remove old-growth trees and reduce canopy continuity are the primary threat to H. tubulosa populations. The species requires 50–100 years of stand stability to establish viable populations on host trees.
 
 Conservation recommendations include maintaining structural diversity in managed forests, retaining old trees with well-developed lichen communities, and establishing buffer zones around known populations. The species benefits from reduced nitrogen deposition.
 

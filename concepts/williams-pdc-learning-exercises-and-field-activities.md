@@ -1,18 +1,13 @@
 ---
-title: Learning Exercises and Field Activities from the PDC
+title: williams pdc learning exercises and field activities and Field Activities from the PDC
 created: 2026-04-28
-tags: [[permaculture, learning-exercises, field-activities, PDC,
-      hands-on-learning]
+tags: [permaculture, learning-exercises, field-activities, PDC, hands-on-learning]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+sources: [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-
-# Learning Exercises and Field Activities from the PDC
-
-William Ozier's [[water-management]], and the relationship
+# Learning Exercises and Field Activities from the PDC William Ozier's [[water-management]], and the relationship
 between soil, water, and plants. A swale is a water-harvesting trench
 on contour that slows, spreads, and sinks water into the landscape.
 
@@ -43,7 +38,7 @@ patterns to details principle.
 
 Find and analyze a map of your local watershed. This exercise builds
 the macro-scale analysis skills needed for understanding how your
-design site fits into the broader hydrological context.
+[[oyster-mushroom-growing-house-design-site-selection-tropical-climates]] fits into the broader hydrological context.
 
 ## Sector and Zone Analysis Practice
 
@@ -69,7 +64,7 @@ functions within the local ecology.
 ## Rainwater Calculation
 
 Calculate how much rain water you could potentially capture from the
-roof of your home. A one thousand square foot surface collects six
+roof of your home. A one thousand [[comparison-biointensive-vs-square-foot-gardening]] surface collects six
 hundred gallons of water per inch of rain. Apply this formula to your
 roof area and local rainfall data to determine your rainwater harvest
 potential.
@@ -84,7 +79,7 @@ no waste by valuing resources that others discard.
 ## Design Project
 
 The culmination of the PDC is a comprehensive design project where
-students apply all learned concepts to a real site. The design process
+students apply all learned concepts to a real site. The [[hemenway-garden-design-process-observation-and-visioning]]
 includes getting a client and site, assembling a team, organizing the
 team, conducting analysis (base map, broad scale site, client
 interview, climate data, history, indicator species, inventories,
@@ -97,7 +92,7 @@ charettes, and making a final presentation.
 - Learning is a combination of reading, discussion, field observation,
   and hands-on practice
 - Each exercise builds skills that integrate with the broader
-  permaculture design framework
+  [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] framework
 - Local knowledge and site-specific research are always prioritized
   over generic solutions
 - Observation should precede interpretation in all exercises
@@ -105,6 +100,8 @@ charettes, and making a final presentation.
   the framework for continued learning
 
 ## See Also
+
+- pdc-practical-exercises-and-field-activities
 
 - [[williams-pdc-sustainability-history-and-definition]]
 - [[williams-pdc-inventories-and-observation]]

@@ -1,5 +1,5 @@
 ---
-title: Constructed Wetlands and Fungal Wastewater Treatment
+title: comparison-constructed-wetlands-vs-bioswales and Fungal mollison-designers-wastewater-treatment-wetlands
 created: 2026-04-26
 tags:
   - constructed-wetlands
@@ -17,7 +17,7 @@ type: concept
 # Constructed Wetlands and Fungal Wastewater Treatment
 
 Constructed wetlands are engineered systems designed to harness natural
-biological processes for wastewater treatment. The decomposition activity
+biological processes for wastewater treatment. The [[decomposition]] activity
 of microorganisms, especially fungi, plays a critical role in the
 treatment performance of these systems. Identifying and characterizing
 the microbial populations and dominating colonies in constructed wetlands
@@ -42,7 +42,7 @@ critical decomposition functions:
 - Few bacteria have chitinase and xylanase activities
 
 These enzymatic capabilities enable the microbial communities to break
-down complex organic compounds in wastewater, reducing BOD and degrading
+down complex [[fungal-volatile-organic-compounds-communication]] in wastewater, reducing BOD and degrading
 recalcitrant pollutants. Fungi are particularly important due to their
 ability to produce [[fungal-bioaugmentation]] at PAH-contaminated sites showing
 promise for enhancing natural degradation processes. Fungal-bacterial
@@ -58,8 +58,8 @@ fungal-assisted wastewater treatment include:
 - Appropriate substrate composition to support fungal colonization
 - Oxygen availability for aerobic fungal metabolism
 - pH maintenance within optimal range for fungal enzyme activity
-- Temperature considerations for fungal growth and enzyme production
-- Vegetation selection to support rhizosphere fungal communities
+- Temperature considerations for fungal growth and [[ligninolytic-enzyme-production-bioremediation]]
+- Vegetation selection to support rhizosphere [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
 - Organic loading rate compatible with fungal treatment capacity
 
 ## Future Directions
@@ -70,11 +70,11 @@ compared to bacterial processes. Further research is needed to:
 - Characterize fungal community structure in wetland systems
 - Optimize wetland design for fungal-dominated treatment processes
 - Develop monitoring tools for fungal activity assessment
-- Integrate fungal bioreactors with wetland treatment trains
+- Integrate [[singh-immobilized-fungal-bioreactors-wastewater-treatment]] with wetland treatment trains
 - Evaluate the long-term sustainability of fungal communities in
   constructed wetland systems
 
 ## See Also
 
 - [[singh-petroleum-hydrocarbon-fungal-remediation-technologies]]
-- [[singh-fungal-lignin-degradation-pulp-effluents]]
+- singh-fungal-lignin-degradation-pulp-effluents

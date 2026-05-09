@@ -3,7 +3,7 @@ title: Deep-Organic Farming and the Small Farm
 created: 2026-04-26
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
-    title: The Winter Harvest Handbook - Eliot Coleman
+    title: The [[coleman-claytonia-winter-harvest-cultivation]] Handbook - Eliot Coleman
     author: Eliot Coleman
 updated: 2026-04-24
 type: concept
@@ -29,16 +29,16 @@ without a hitch.
 the past to the chemical insults of the present, there was a part left
 out that is the rope's equivalent -- an unappreciated part without
 which the boat will fall apart. That crucial part is called "soil
-organic matter."
+[[hamilton-composting-and-organic-matter-management]]."
 
 ## The Biological Foundation
 
 In the mid-1930s, organic farming arose from a renewed recognition of
 the vital importance of soil organic matter. Some farmers saw the
 undesirable changes in their soil and the diminished health of their
-crops and livestock that followed the shift to chemical farming. Their
+crops and livestock that followed the shift to [[knf-vs-chemical-farming-comparison]]. Their
 appreciation for soil organic matter was reborn. This philosophy
-connects directly to [[holmgren-permaculture-principles-7-9]] of working with natural systems.
+connects directly to holmgren-permaculture-principles-7-9 of working with natural systems.
 
 The organic pioneers realized that the farm is not a factory, but
 rather a human-managed microcosm of the natural world. Whether in
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

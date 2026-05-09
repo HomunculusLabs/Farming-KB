@@ -1,18 +1,19 @@
 ---
-title: Conversion Bulbs for HID Lighting
+title: cervantes conversion bulbs [[cannabis-hid-lighting-specifications]] for cannabis-hid-lighting-specifications
 created: 2026-04-28
 tags: [cannabis, lighting, conversion-bulbs, hid, spectrum]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Conversion Bulbs for HID Lighting
 
 Conversion, or retrofit, bulbs increase flexibility in HID lighting
-systems. They allow growers to change the light spectrum without
+systems. They allow growers to change the [[cannabis-light-spectrum-and-color-bands]] without
 purchasing an entirely new ballast system. This page covers MH-to-HPS
 and HPS-to-MH conversion bulbs. See also
 [[cervantes-high-pressure-sodium-lighting]], and
@@ -35,7 +36,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -85,7 +86,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -95,4 +96,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

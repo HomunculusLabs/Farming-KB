@@ -13,15 +13,15 @@ Before nutrients can enter a plant, they must first travel through the soil to r
 
 ## Root Interception
 
-As roots grow through soil, they come into direct physical contact with nutrient ions -- not just those dissolved in water, but also ions loosely attached to clay particles and organic matter surfaces.
+As roots grow through soil, they come into direct physical contact with nutrient ions -- not just those dissolved in water, but also ions loosely attached to clay particles and [[hamilton-composting-and-organic-matter-management]] surfaces.
 
 ### The Cation Exchange Mechanism
 
-Clay particles and organic matter carry a slight negative charge that attracts and loosely holds nutrient cations (positively charged ions). Roots also bear a negative charge because hydrogen ions (H+) are pumped out of cell membranes to set up active transport. Not all H+ ions make it back into the root; some are exchanged for the loosely attached cations in the soil. This is **cation exchange**.
+Clay particles and organic matter carry a slight negative charge that attracts and loosely holds nutrient cations (positively charged ions). Roots also bear a negative charge because hydrogen ions (H+) are pumped out of cell membranes to set up [[diffusion-osmosis-and-active-transport-in-plants]]. Not all H+ ions make it back into the root; some are exchanged for the loosely attached cations in the soil. This is **cation exchange**.
 
 ### Limitations of Interception
 
-Root interception accounts for only about 1% of a plant's total nutrient uptake. A cation depletion zone quickly forms around a root hair after exchange takes place -- there is nothing left to exchange. New root growth and new root hairs are needed to encounter new soil particles. This problem is mitigated by mycorrhizal fungi.
+Root interception accounts for only about 1% of a plant's total [[plant-nutrient-uptake-mechanisms]]. A cation depletion zone quickly forms around a root hair after exchange takes place -- there is nothing left to exchange. New root growth and new root hairs are needed to encounter new soil particles. This problem is mitigated by [[arbuscular-mycorrhizal-fungi-biology-symbiosis]].
 
 ### Nutrients Moved Primarily by Interception
 
@@ -33,7 +33,7 @@ Water pulled toward plant roots during transpiration carries dissolved nutrient 
 
 ### How It Works
 
-Transpiration at the leaf surface pulls a chain of water molecules through the xylem and into the roots. As water moves toward the root, it sweeps dissolved ions along. These ions arrive at the root surface in the transpiration stream.
+Transpiration at the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] pulls a chain of water molecules through the xylem and into the roots. As water moves toward the root, it sweeps dissolved ions along. These ions arrive at the root surface in the transpiration stream.
 
 ### The Double-Edged Sword
 
@@ -82,7 +82,7 @@ These nitrogen-fixing bacteria form specific relationships with legumes (Rhizobi
 
 ### Mycorrhizal Fungi
 
-Between 90-96% of all plants enter into mycorrhizal associations. The fungi extend from root hairs into pore spaces the root cannot reach, and to distances the root cannot grow. They produce powerful acids and enzymes that break down organic material, freeing tied-up nutrients.
+Between 90-96% of all plants enter into mycorrhizal associations. The fungi extend from root hairs into pore spaces the root cannot reach, and to distances the root cannot grow. They produce powerful acids and enzymes that [[query-can-fungi-break-down-plastic-pollution]] organic material, freeing tied-up nutrients.
 
 Mycorrhizal fungi are best known for obtaining phosphorus, which is so tightly bound to soil particles that little is readily available. They also bring nitrogen, copper, and zinc to the plant. The number of nitrogen-fixing nodules in legumes increases in the presence of mycorrhizal fungi.
 

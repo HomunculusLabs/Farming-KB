@@ -1,5 +1,5 @@
 ---
-title: "Polypore Mushrooms: Cultivation Overview and Techniques"
+title: "growing gourmet polypore mushrooms cultivation overview: Cultivation Overview and Techniques"
 created: 2026-04-26
 tags:
   - polypores
@@ -18,7 +18,7 @@ type: concept
 
 Polypores are premier wood decomposers and can produce annual or
 perennial fruitbodies. The polypore chapter in Growing Gourmet and
-Medicinal Mushrooms covers three major cultivated species:
+[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] covers three major cultivated species:
 [[stamets-maitake-grifola-frondosa-cultivation]],
 and [[growing-gourmet-maitake-cultivation]] has been found
 effective in vitro against the HIV virus by the National Cancer
@@ -46,9 +46,12 @@ includes:
 - Polyporus indigenus
 - Polyporus saporema
 - Trametes cinnabarinum (= Pycnoporus cinnabarinus)
-- Trametes versicolor and allies
+- [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] and allies
 
 ## See Also
+
+- [[growing-gourmet-mushrooms-civilization-history]]
+- [[growing-gourmet-sclerotia-formation-biology-mushrooms]]
 
 - [[stamets-maitake-grifola-frondosa-cultivation]]
 - [[growing-gourmet-medicinal-polypore-candidates-turkey-tail-chaga]]
@@ -69,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

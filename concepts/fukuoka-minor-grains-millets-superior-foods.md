@@ -2,7 +2,7 @@
 title: "Minor Grains and Millets as Superior Foods"
 source: masanobu-fukuoka-the-road-back-to-nature.md
 topics:
-  - natural farming
+  - [[comparison-natural-farming-vs-permaculture]]
   - grain diets
   - nutrition
   - traditional agriculture
@@ -15,9 +15,9 @@ topics:
 
 Masanobu Fukuoka, in *The Road Back to Nature*, argues that primitive small-seed
 crops — millets, azuki beans, and buckwheat — are the most suitable foods for
-human health. He traces this conclusion through Japanese agricultural tradition,
+human health. He traces this conclusion through [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]] tradition,
 nutritional anthropology, and his philosophy that energy is more condensed in
-smaller, simpler things. His critique of modern agriculture's "bigger is better"
+smaller, simpler things. His [[fukuoka-road-critique-of-modern-science]] agriculture's "bigger is better"
 mentality extends from fruits to grains, challenging the assumption that larger
 yields and larger seeds equate to better nutrition.
 
@@ -84,7 +84,7 @@ Globally, he observed that roughly half the world's population relies on wheat
 as a staple grain and half on rice. These two grains divide the temperate and
 tropical food systems, each adapted to its climate and civilization. The
 nomadic peoples of cold northern countries, he noted, became meat-eaters not by
-preference but by necessity — the cold, dry climate made grain cultivation
+preference but by necessity — the cold, dry climate made [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]]
 impossible, and meat became the compensatory calorie source.
 
 Japanese peasants, by contrast, retained a herbivore diet perfectly suited to
@@ -121,14 +121,14 @@ root structures and growth patterns. Millets grow well in polycultures with
 legumes and can be direct-seeded without tilling, fitting naturally into
 Fukuoka's no-till, no-chemical methodology.
 
-For modern farmers and gardeners, the lesson is clear: nutritional quality and
+For modern farmers and gardeners, the lesson is clear: [[coleman-winter-greens-nutritional-quality-cold-sweetening]] and
 ecological resilience come from diversity, not from maximizing a single crop.
 The minor grains that modern agriculture discarded may be precisely the crops
 needed to rebuild sustainable food systems adapted to local conditions.
 
 ## See Also
 
-- Natural farming principles
+- Natural [[natural-farming-principles-fukuoka]]
 - The five-grain food mandala
 - Nutritional density and seed size
 - Japanese traditional agriculture

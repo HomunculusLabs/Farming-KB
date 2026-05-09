@@ -1,5 +1,5 @@
 ---
-title: Replanning and Monitoring Feedback
+title: savory replanning and monitoring feedback Feedback
 created: 2026-04-28
 tags: [holistic-management, planning, monitoring, feedback, decision-making]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 # Replanning and Monitoring Feedback
 
 Replanning and monitoring feedback form the operational backbone of the
-Holistic Resource Management (HRM) model. Savory emphasizes that achieving any
+[[savory-holistic-resource-management-animal-impact]] Management (HRM) model. Savory emphasizes that achieving any
 goal in a complex, ever-changing environment requires a continuous cycle of
 plan, monitor, control, and replan. This cycle is not a one-time exercise but a
 perpetual discipline that distinguishes professional land management from
@@ -20,7 +20,7 @@ reactive crisis management.
 ## The Plan-Monitor-Control-Replan Cycle
 
 In the HRM model, planning alone is insufficient. Once a plan is made, it must
-be continuously monitored against the three-part holistic goal. Deviations are
+be continuously monitored against the three-part [[savory-holistic-goal-definition]]. Deviations are
 identified early and corrected through control measures. When events exceed our
 control, such as natural disasters, drought, or fire, full replanning becomes
 necessary. Savory illustrates this with a driving analogy: just as a driver must
@@ -53,14 +53,14 @@ which Savory identifies as the most rapid path to disaster during drought.
 ## Drought Replanning
 
 Droughts creep up on people, and many consider them acts of God rather than
-occasions for timely replanning. Savory argues that each growing season,
+occasions for timely replanning. Savory argues that each [[savory-growing-season-and-non-growing-season-management]],
 especially in brittle environments, is a potential drought. Initial planning
 should automatically include a time reserve against potential drought. However,
 if drought persists and a whole growing season may not produce enough feed,
 immediate replanning is critical.
 
 When replanning for drought, managers should consider combining herds to
-increase stock density and animal impact while extending recovery periods. A
+increase [[savory-fencing-economics-and-stock-density-curve]] and [[savory-animal-impact-and-herd-effect]] while extending recovery periods. A
 dramatic example shows four separate herds on a six-thousand-acre ranch
 combined into a single herd of 1,450 animals across thirty-eight paddocks.
 Grazing periods fell from an average of 7.4 days to 3.5 days, while recovery

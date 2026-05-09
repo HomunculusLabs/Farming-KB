@@ -1,5 +1,5 @@
 ---
-title: Diet Design and Sustainable Food Self-Sufficiency
+title: jeavons diet design self sufficiency and Sustainable Food Self-Sufficiency
 created: 2026-04-26
 author: John Jeavons
 sources: How to Grow More Vegetables, 8th edition
@@ -11,7 +11,7 @@ updated: 2026-04-26
 
 # Diet Design and Sustainable Food Self-Sufficiency
 
-The GROW BIOINTENSIVE method is designed to make it possible for one person to grow a complete, nutritionally adequate diet on as little as 4,000 square feet of land.
+The [[jeavons-grow-biointensive-method-overview]] method is designed to make it possible for one person to grow a complete, nutritionally adequate diet on as little as 4,000 square feet of land.
 
 ## The Challenge of Scale
 
@@ -26,11 +26,11 @@ The world is approaching a crisis of arable land per person:
 ### For One Person (~4,000 sq ft / ~40 beds of 100 sq ft)
 
 **60% — Carbon-and-Calorie Crops** (~24 beds)
-- Purpose: Maximum carbon production for compost AND satisfactory calorie production
+- Purpose: Maximum carbon production for compost AND satisfactory [[solomon-self-sufficiency-calorie-production-economics]]
 - Crops: Wheat, cereal rye, oats, barley, triticale, corn, sorghum, amaranth, quinoa, fava beans, sunflowers
 - These crops must be interplanted with legumes for nitrogen
 
-**30% — High-Calorie Root Crops** (~12 beds)
+**30% — High-Calorie [[permaculture-plants-root-crops-and-tubers]]** (~12 beds)
 - Purpose: Maximum calories per unit area
 - Best choices (both area- and weight-efficient): Potatoes, burdock, sweet potatoes, garlic, parsnips, salsify
 - Trade-off options: Onions, leeks, turnips (more area-efficient but require eating more weight)
@@ -63,7 +63,7 @@ A complete sustainable diet must include:
 2. Vitamins and minerals from vegetable crops
 3. Protein from grains and legumes
 4. Carbon production from compost crops for soil sustainability
-5. Enough area for seed saving of open-pollinated varieties
+5. Enough area for [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] of open-pollinated varieties
 
 ## Progressive Garden Development
 

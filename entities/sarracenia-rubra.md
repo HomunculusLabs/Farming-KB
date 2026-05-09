@@ -9,8 +9,8 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Schnell, D.E. (2002). Carnivorous Plants of the United States and Canada. 2nd ed. Timber Press.
-  - McPherson, S.R. (2011). Sarraceniaceae of North America. Redfern Natural History Productions.
+  - Schnell, D.E. (2002). Carnivorous Plants of the dmt-containing-plants-united-states-halpern and Canada. 2nd ed. Timber Press.
+  - McPherson, S.R. (2011). Sarraceniaceae of [[psilocybin-north-america-pacific-northwest]]. Redfern Natural History Productions.
   - Mellichamp, T.L. (2011). "Sarracenia rubra Walter." Flora of North America, 8, 442–444.
   - NatureServe. (2024). "Sarracenia rubra." NatureServe Explorer.
   - Slack, A. (1980). Carnivorous Plants. MIT Press.
@@ -90,11 +90,11 @@ Plants should be watered with rainwater, distilled water, or reverse osmosis wat
 
 Tap water containing chlorine, salts, or high mineral content can damage or kill the plants over time.
 
-Pots should be kept standing in 2–5 cm of water during the growing season.
+Pots should be kept standing in 2–5 cm of water during the [[savory-growing-season-and-non-growing-season-management]].
 
 Outdoors in full sun produces the best pitcher coloration and strongest growth.
 
-Common pests include aphids, thrips, and fungal infections during humid conditions.
+Common pests include aphids, thrips, and [[blesching-cannabis-fungal-infections-candida]] during humid conditions.
 
 ## Prey Attraction and Digestion
 
@@ -104,7 +104,7 @@ The hood over the pitcher opening acts as a landing platform and reduces rainwat
 
 Prey lose footing on the waxy interior surface and slide down into the fluid-filled lower tube.
 
-Digestive enzymes, primarily proteases and phosphatases, break down insect tissues over several days.
+Digestive enzymes, primarily proteases and phosphatases, [[query-can-fungi-break-down-plastic-pollution]] insect tissues over several days.
 
 Absorbed nutrients supplement the plant's photosynthetic intake, an adaptation to nutrient-poor environments.
 
@@ -120,12 +120,12 @@ Subsp. *alabamensis* and subsp. *jonesii* are listed as Endangered under the US 
 
 The species is considered globally vulnerable (G3) by NatureServe.
 
-Cultivation from legally sourced seed and tissue culture has reduced pressure on wild populations.
+Cultivation from legally sourced seed and [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] has reduced pressure on wild populations.
 
 ## See Also
 
 - [[sarracenia-flava]]
 - [[sarracenia-psittacina]]
 - [[sarracenia-minor]]
-- [[darlingtonia-californica]]
+- darlingtonia californica
 - [[drosera-filiformis]]

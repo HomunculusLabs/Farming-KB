@@ -65,7 +65,7 @@ forming a dense barrier:
   growth, produces small apricots.
 - **Buffaloberry** (*Shepherdia argentea*): extremely hardy, nitrogen-fixing,
   silver-leaved, and thorny; birds devour the red berries.
-- **Osage orange** (*Maclura pomifera*): dense, thorny, rot-resistant wood;
+- **[[bloomfield-ghosts-of-evolution-osage-orange-anachronism]]** (*Maclura pomifera*): dense, thorny, rot-resistant wood;
   deer browse young growth but mature plants form an effective barrier.
 - **Gooseberry and currant** (*Ribes spp.*): thorny or dense shrubs bearing
   edible berries.
@@ -97,9 +97,15 @@ The food hedge follows [[permaculture-nitrogen-fixing-trees|nitrogen-fixing tree
 ## Integration with the Broader Landscape
 
 The food hedge should not exist in isolation. It connects to the broader
-garden design as part of a [[hemenway-ecological-garden-design|ecologicalgarden design]]: every element should perform multiple functions. A fence
+[[comparison-mandala-garden-design-vs-keyhole-garden-design]] as part of a ecologicalgarden design: every element should perform multiple functions. A fence
 performs one function — exclusion. A food hedge performs six or more — food,
-fertility, water conservation, wind protection, wildlife habitat, and deer
+fertility, water conservation, [[cervantes-wind-protection-outdoor-cannabis]], wildlife habitat, and deer
 deflection — while requiring less maintenance and looking far more beautiful.
-By stacking functions, the ecological gardener transforms a problem (deer
+By [[gaias-garden-stacking-functions-detailed]], the ecological gardener transforms a problem (deer
 pressure) into an opportunity for abundance.
+## See Also
+- [[maclura-pomifera]]
+- [[prunus-armeniaca]]
+- [[caragana-arborescens]]
+- [[water-conservation]]
+- [[gaias-garden-soil-food-web-living-soil]]

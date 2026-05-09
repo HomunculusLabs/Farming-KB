@@ -24,9 +24,9 @@ sources:
 
 ## Overview
 
-Super Skunk is an indica-dominant hybrid cannabis strain bred by Sensi Seeds in the 1990s, created by crossing Skunk #1 with an Afghani indica. It was among the first strains to combine the vigorous growth and reliability of Skunk #1 with the resin production and body stone of true Afghani genetics.
+Super Skunk is an indica-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] bred by Sensi Seeds in the 1990s, created by crossing Skunk #1 with an Afghani indica. It was among the first strains to combine the vigorous growth and reliability of Skunk #1 with the [[cannabis-glandular-trichome-types-resin-production-clarke]] and body stone of true Afghani genetics.
 
-The strain won the overall Cannabis Cup in 1990, cementing its reputation as one of the most impactful hybrids in cannabis breeding history. It remains a cornerstone genetics for countless modern indica-dominant varieties.
+The strain won the overall Cannabis Cup in 1990, cementing its reputation as one of the most impactful hybrids in [[oner-cannabis-breeding-fundamentals]] history. It remains a cornerstone genetics for countless modern indica-dominant varieties.
 
 Super Skunk is widely regarded as one of the most pungent-smelling cannabis strains ever created, with an intensely skunky, earthy aroma that is immediately recognizable.
 
@@ -59,7 +59,7 @@ The overall impression is of a premium, resin-dense flower that is sticky to the
 - **Taste:** Earthy and skunky on the inhale, with sweet, slightly sour undertones on the exhale
 - **Smoke:** Thick and expansive, with a lingering pungent aftertaste
 
-The aroma is notoriously powerful and persistent, making odor control a serious consideration for indoor growers. A single plant can fill a house with its scent during late flowering.
+The aroma is notoriously powerful and persistent, making [[cannabis-odor-control-and-carbon-filters]] a serious consideration for indoor growers. A single plant can fill a house with its scent during late flowering.
 
 ## Terpene Profile
 
@@ -79,7 +79,7 @@ The terpene profile is dominated by myrcene, which amplifies the sedative body e
 - **Duration:** 2–3 hours
 - **Primary effects:** Deep physical relaxation, euphoria, cerebral haziness
 - **Body effects:** Heavy body stone, couch-lock potential, muscle tension relief
-- **Medical applications:** Chronic pain, insomnia, anxiety, appetite stimulation, muscle spasms
+- **Medical applications:** [[cannabis-chronic-pain-management]], insomnia, anxiety, appetite stimulation, muscle spasms
 - **Side effects:** Dry mouth, dry eyes, dizziness (high doses), paranoia (sensitive individuals)
 
 The high is predominantly physical, starting with a pleasant cerebral uplift that quickly gives way to a heavy, enveloping body stone. It is best suited for evening or nighttime use.
@@ -99,7 +99,7 @@ Beginner consumers should approach with caution due to the combination of high T
 
 Super Skunk is considered one of the easiest high-quality strains to grow, making it popular with both beginners and experienced cultivators.
 
-Its Skunk #1 heritage provides robust growth and disease resistance, while the Afghani genetics ensure compact structure suitable for indoor cultivation.
+Its Skunk #1 heritage provides robust growth and disease resistance, while the Afghani genetics ensure compact structure suitable for [[cannabis-sativa-indoor-cultivation-techniques]].
 
 ## Genetic Relatives and Crosses
 

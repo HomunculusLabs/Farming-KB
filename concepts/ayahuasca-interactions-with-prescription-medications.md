@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca Interactions with Prescription Medications
+title: Ayahuasca ayahuasca interactions with prescription medications Medications
 created: 2026-04-28
 tags:
   - ayahuasca
@@ -23,15 +23,15 @@ type: concept
 The pharmacological complexity of [[tryptamine]] content, means that individuals taking
 certain medications face risks ranging from hypertensive crisis to
 serotonin syndrome and death. Unlike
-pharmaceutical drug interactions that are typically monitored by
-healthcare systems, ayahuasca ceremonies often occur in remote settings
+pharmaceutical [[cannabis-drug-interactions-and-contraindications]] that are typically monitored by
+healthcare systems, [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] often occur in remote settings
 with no medical oversight, making prior awareness of these interactions
 critically important.
 
 ## Pharmacological Basis of Interactions
 
 [[dimethyltryptamine|DMT]] in the digestive tract and
-  liver, enabling its oral activity. However, this MAOI action also
+  liver, enabling its [[tihkal-oral-activity-mao-inhibition]]. However, this MAOI action also
   inhibits the metabolism of many other endogenous and exogenous
   compounds processed by monoamine oxidase enzymes
 - **N,N-Dimethyltryptamine (DMT)**: A potent serotonergic psychedelic

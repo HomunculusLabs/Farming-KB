@@ -1,5 +1,5 @@
 ---
-title: Mollison Rabbits In Permaculture Design And Soil Preparation
+title: Mollison Rabbits In permaculture-design And Soil Preparation
 created: 2026-04-26
 tags:
   - permaculture
@@ -16,14 +16,14 @@ type: concept
 
 # Rabbits in [[bill-mollison]] presents rabbits
 not as a simple protein source but as active landscape modifiers that
-prepare soil, create micro-niches, and participate in nutrient cycles.
+prepare soil, create micro-niches, and participate in [[ozier-pdc-composting-and-nutrient-cycles]].
 The principle of "everything gardens" applies directly to rabbits,
 whose burrowing, defecation, and browsing habits fundamentally alter
 the ecosystems they inhabit.
 
 ## The "Everything Gardens" Principle Applied to Rabbits
 
-Mollison's fifth design principle states that everything gardens, or
+Mollison's fifth [[design-principle-integration]] states that everything gardens, or
 has an effect on its environment. Rabbits demonstrate this principle
 clearly: they make burrows and defecation mounds, scratch out roots,
 create short swards or lawns, and create conditions favourable for
@@ -47,7 +47,7 @@ Mollison identifies several direct uses for rabbits:
   browsing, lowering fire risk in grassy and shrubby areas.
 
 - **Soil preparation**: Rabbit activity prepares ground for "thistles"
-  (cardoons and globe artichokes). Where rabbits create disturbed soil
+  (cardoons and [[growing-globe-artichokes]]). Where rabbits create disturbed soil
   with urine and manure, designers can sow globe artichoke seed and
   achieve productive artichoke beds.
 
@@ -71,10 +71,10 @@ can be mimicked or managed in designed landscapes.
 
 ## Rabbits in Zone 1 and Zone 2
 
-In the [[mollison-chicken-tractor-and-animal-tractor-systems]] extends to rabbits. By confining rabbits to
+In the mollison-chicken-tractor-and-animal-tractor-systems extends to rabbits. By confining rabbits to
 specific areas using mobile pens or fencing, designers can direct their
 soil-preparing and fertilising effects to zones intended for future
-planting. This follows the same logic as chicken or pig tractors used
+planting. This follows the same logic as chicken or [[mollison-designers-pig-tractors-forage-systems]] used
 to remove stubborn weeds such as nut-grass, Convolvulus, onion-weed,
 and twitch before planting a new succession of useful plants.
 
@@ -121,3 +121,4 @@ Rabbits provide the following yields in permaculture systems:
 ## See Also
 
 - [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]
+- [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]

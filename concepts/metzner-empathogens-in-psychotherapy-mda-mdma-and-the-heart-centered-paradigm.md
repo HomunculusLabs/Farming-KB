@@ -1,5 +1,5 @@
 ---
-title: "Empathogens in Psychotherapy: MDA, MDMA, and the Heart-Centered Paradigm"
+title: "metzner empathogens in psychotherapy mda mdma and the heart centered paradigm: MDA, MDMA, and the Heart-Centered Paradigm"
 created: 2026-04-28
 tags:
   - mdma
@@ -55,7 +55,7 @@ empathy, and the capacity for intimate communication.
 
 The empathogen concept represents a conceptual innovation in the field of
 psychoactive-assisted therapy. Where classical hallucinogens were understood
-through the amplifier and microscope metaphors, empathogens might be better
+through the amplifier and [[metzner-amplifier-microscope-metaphors-psychedelic-therapy]], empathogens might be better
 understood through a lens or window metaphor, in that they clarify and
 intensify emotional perception without radically altering the structure of
 consciousness itself. This makes them particularly suited to therapeutic
@@ -78,7 +78,7 @@ arousal and increased feelings of safety and trust, allowing therapeutic
 processing that might otherwise be blocked by avoidance and dissociation.
 This mechanism anticipates contemporary understandings of MDMA-assisted
 therapy for post-traumatic stress disorder that have been validated in
-modern clinical trials.
+modern [[mushroom-cancer-clinical-trials-overview]].
 
 ## From Therapy to Rave Culture
 
@@ -97,11 +97,11 @@ states.
 The empathogen development intersects with several of Metzner's five
 fundamental conclusions about psychoactive-assisted psychotherapy. MDMA
 clearly involves an expanded state of consciousness, though of a different
-quality than classical psychedelic states. The set and setting principle
+quality than classical psychedelic states. The [[lsd-set-and-setting-framework]] principle
 applies equally to empathogens. The requirement for therapist personal
 experience with the substance is particularly relevant given MDMA's
 distinctive subjective character. However, empathogens do not typically
-provide access to the transcendent, religious, or transpersonal dimensions
+provide access to the transcendent, religious, or [[metzner-transpersonal-dimensions-psychedelic-therapy]]
 of consciousness that Metzner identifies as the fifth shared conclusion,
 instead remaining focused on the interpersonal and emotional realm.
 
@@ -118,9 +118,11 @@ healing, simply amplified by the empathogenic compound.
 
 ## See Also
 
+- [[empathogens-in-psychotherapy]]
+
 - [[metzner-hallucinogens-psychotherapy-shamanism-paradigms]]
 - [[metzner-mdma-assisted-therapy-research]]
 
 - Metzner Five Fundamental Conclusions of Psychoactive Assisted Psychotherapy
 - [[psychedelic-psychotherapy]]
-- Set and Setting Hypothesis
+- Set and [[metzner-set-and-setting-hypothesis-origins-and-extensions]]

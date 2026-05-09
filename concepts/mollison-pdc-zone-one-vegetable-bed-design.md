@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-design-course.md
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
 
@@ -18,11 +19,11 @@ type: concept
 
 ## Overview
 
-In Pamphlet IX of the Permaculture Design Course, Bill Mollison describes
+In Pamphlet IX of the [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Course, Bill Mollison describes
 a detailed system for designing and managing zone one vegetable gardens.
 His approach differs significantly from conventional row-cropping
 methods, emphasizing permanent bed systems, spot rotation within beds,
-and strategic companion planting that eliminates the need for traditional
+and strategic [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] that eliminates the need for traditional
 block crop rotation. The design aims to create a garden that produces
 abundantly year-round while requiring minimal maintenance once
 established.
@@ -64,7 +65,7 @@ approach of clearing and replanting entire areas.
 
 The spot rotation approach offers several advantages. It eliminates bare
 soil periods vulnerable to erosion, weed invasion, and nutrient loss.
-It maintains continuous root networks supporting mycorrhizal fungi. It
+It maintains continuous root networks supporting [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]. It
 makes pest management easier because scattered host plants prevent pests
 from building up the populations they achieve in block plantings.
 Mollison also notes that spot rotation allows more intensive space use,
@@ -123,7 +124,7 @@ are always available for planting.
 The zone one bed system relies heavily on mulch for weed suppression,
 moisture retention, and soil building. Mollison advocates keeping beds
 permanently mulched, pulling back the mulch only to plant or harvest. As
-described in his sheet mulching approach, organic materials decompose
+described in his [[comparison-sheet-mulching-vs-chop-and-drop-mulching]] approach, organic materials decompose
 in place, feeding the soil continuously. The mulch layer also prevents
 compaction from rain and foot traffic on pathways.
 
@@ -135,12 +136,10 @@ moist soil beneath.
 ## The Polyculture Advantage
 
 The ultimate goal of Mollison's zone one design is a productive
-polyculture that mimics the structure and function of a natural ecosystem.
+polyculture that mimics the structure and function of a [[fukuoka-natural-ecosystem-food-chain-interconnection]].
 Multiple crop families share each bed, root zones stratify vertically,
-beneficial insects find habitat among diverse flowers, and the soil food
+[[comparison-beneficial-insects-guide-vs-integrated-pest-management]] find habitat among diverse flowers, and the soil food
 web remains active year-round. This approach stands in direct contrast to
-monoculture row cropping and represents one of the most practical
-applications of permaculture principles at the home garden scale.
 ## See Also
 
 - [[mollison-pdc-trellis-systems-climate-control]]

@@ -54,7 +54,7 @@ bacteria. Mechanisms include:
   and hydrogen cyanide with antifungal activity.
 - **Siderophore-mediated competition:** Iron sequestration inhibits
   pathogen growth in the rhizosphere.
-- **Induced systemic resistance (ISR):** Root colonization primes
+- **[[endophytic-mycorrhizal-induced-systemic-resistance]] resistance (ISR):** Root colonization primes
   systemic defenses via jasmonic acid/ethylene signaling.
 - **Lytic enzymes:** Chitinases, glucanases, and proteases degrade
   fungal cell walls.
@@ -68,14 +68,14 @@ fluorescens* A506 (BlightBan) and CHA0.
 ## Role in Mushroom Cultivation
 
 *Pseudomonas* has a dual role in [[agaricus-bisporus]]
-  mycelial growth through hormone production and nutrient mobilization.
-- Act as mycorrhizal helper bacteria, facilitating nutrient exchange.
+  [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] through hormone production and nutrient mobilization.
+- Act as mycorrhizal [[mycorrhiza-helper-bacteria-fungal-interactions]], facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]].
 - Suppress competitors in casing soil as biocontrol agents.
 
 ### Pathogenic
 - **P. tolaasii** causes brown blotch disease on [[soil-food-web]]: competing with
-and inhibiting pathogenic fungi, cooperating with mycorrhizal fungi as
+and inhibiting pathogenic fungi, cooperating with [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] as
 helper bacteria, cycling nitrogen alongside azotobacter, and serving
 as prey for protozoa and nematodes. In [[composting]], they are dominant
 during the thermophilic phase, contributing to organic matter decomposition.
-Their metabolic versatility makes them key players in nutrient cycling.
+Their metabolic versatility makes them key players in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].

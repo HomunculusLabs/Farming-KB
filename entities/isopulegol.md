@@ -61,21 +61,21 @@ The (−)-isopulegol isomer is the most pharmacologically relevant and is the di
 
 ## Natural Sources
 
-Isopulegol is found in the essential oils of several members of the Lamiaceae (mint) family.
+Isopulegol is found in the [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of several members of the Lamiaceae (mint) family.
 
 **Peppermint** (*Mentha × piperita*): Present as a biosynthetic intermediate in the menthol pathway, typically at low concentrations.
 
-**Lemon balm** (*Melissa officinalis*): Minor constituent of the essential oil alongside citronellal and citral.
+**[[comparison-lemon-balm-vs-passionflower]]** (*Melissa officinalis*): Minor constituent of the essential oil alongside citronellal and citral.
 
 **Geranium** (*Pelargonium* spp.): Detected in the leaf oils of several Pelargonium species used in perfumery.
 
 **Eucalyptus** species: Some species produce isopulegol as a minor leaf volatile constituent.
 
-**Buchu** (*Agathosma betulina*): Traditional South African medicinal plant containing isopulegol in its essential oil.
+**Buchu** (*Agathosma betulina*): Traditional [[kanna-sceletium-south-african-narcotic]] medicinal plant containing isopulegol in its essential oil.
 
 In cannabis, isopulegol is present at trace to moderate levels, typically below 0.1% of the essential oil fraction.
 
-It has been reported at higher concentrations in certain hemp cultivars bred for aromatic terpene profiles.
+It has been reported at higher concentrations in certain hemp cultivars bred for aromatic [[cannabis-terpene-profiles-sativa]].
 
 ## Pharmacology and Bioactivity
 
@@ -93,7 +93,7 @@ It inhibits pro-inflammatory mediator release including prostaglandin E2 and nit
 
 **Gastroprotective activity:** Studies demonstrate isopulegol protects gastric mucosa against ethanol-induced lesions.
 
-The gastroprotective effect involves increased gastric mucus production and reduction of oxidative stress markers.
+The gastroprotective effect involves increased gastric mucus production and reduction of [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers.
 
 **Bronchodilator properties:** Preliminary evidence suggests isopulegol may have relaxant effects on airway smooth muscle.
 
@@ -103,7 +103,7 @@ This activity is consistent with the traditional use of mint-family plants for r
 
 Isopulegol contributes subtle minty, herbal, and slightly camphoraceous notes to cannabis aroma.
 
-It is not a dominant terpene in most cultivars but may play a synergistic role in the entourage effect.
+It is not a dominant terpene in most cultivars but may play a synergistic role in the [[cannabis-terpene-entourage-effect-profiles]].
 
 Some Kush-descended and indica-dominant strains show detectable isopulegol concentrations.
 

@@ -14,9 +14,9 @@ updated: 2026-04-28
 sources:
   - USDA ARS (2023). "Cydonia oblonga Mill." Germplasm Resources Information Network (GRIN).
   - Rivera, D. et al. (2003). "Ethnobotany of Cydonia oblonga (quince) in the Mediterranean." Economic Botany 57(2): 186-194.
-  - Magwaza, L.S. et al. (2016). "Quince (Cydonia oblonga Mill.) Fruit: A Review of Bioactive Compounds and Health Benefits." Food Science and Technology International 22(4): 335-353.
+  - Magwaza, L.S. et al. (2016). "Quince (Cydonia oblonga Mill.) Fruit: A Review of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] and Health Benefits." Food Science and Technology International 22(4): 335-353.
   - Mabberley, D.J. (2017). "Mabberley's Plant-Book." 4th ed. Cambridge University Press.
-  - Jacke, D. & Toensmeier, E. (2005). "Edible Forest Gardens, Vol. 2." Chelsea Green Publishing.created: 2026-05-07
+  - Jacke, D. & Toensmeier, E. (2005). "Edible [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]], Vol. 2." Chelsea Green Publishing.created: 2026-05-07
 
 created: 2026-05-07
 ---
@@ -69,7 +69,7 @@ It prefers well-drained, loamy soils with moderate fertility and tolerates both 
 
 **Yield:** Mature trees produce 20–60 kg of fruit annually, depending on variety and growing conditions. Trees begin bearing at 3–5 years from planting.
 
-**Pests and diseases:** Quince is generally more disease-resistant than apple or pear. Fire blight (Erwinia amylovora) is the most significant disease threat. Quince leaf blight (Diplocarpon mespili) can cause premature defoliation in humid conditions. Codling moth and various aphids are the primary insect pests.
+**[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]:** Quince is generally more disease-resistant than apple or pear. Fire blight (Erwinia amylovora) is the most significant disease threat. Quince leaf blight (Diplocarpon mespili) can cause premature defoliation in humid conditions. Codling moth and various aphids are the primary insect pests.
 
 ## Nutritional and Bioactive Profile
 
@@ -91,11 +91,11 @@ Antioxidant capacity of quince extracts is high, comparable to or exceeding that
 
 Quince occupies a valuable niche in food forest and permaculture systems as a low-maintenance, productive fruit tree for the understory or mid-canopy layer.
 
-**Guild planting:** Quince pairs well with comfrey as a dynamic accumulator beneath the canopy, nitrogen-fixing groundcovers such as clover or alfalfa, and alliums as pest deterrents. Its late flowering makes it useful for extending the nectar flow season for pollinators.
+**Guild planting:** Quince pairs well with comfrey as a [[nutrient-dynamic-accumulator-reference]] beneath the canopy, nitrogen-fixing groundcovers such as clover or alfalfa, and alliums as pest deterrents. Its late flowering makes it useful for extending the nectar flow season for pollinators.
 
 **Rootstock use:** Quince A and Quince C rootstocks are the standard dwarfing rootstocks for commercial pear cultivation, inducing earlier bearing and smaller tree size. This dual utility (fruit production and rootstock provision) increases its value in diverse planting systems.
 
-**Soil and water benefits:** The deep taproot system improves soil structure and brings nutrients from subsoil layers. The tree's drought tolerance makes it suitable for xeriscaping and water-wise garden designs. Fallen fruit provides significant organic matter input.
+**Soil and water benefits:** The deep taproot system improves soil structure and brings nutrients from subsoil layers. The tree's [[dighton-fungal-drought-tolerance-plant-water-relations]] makes it suitable for xeriscaping and water-wise garden designs. Fallen fruit provides significant [[hamilton-composting-and-organic-matter-management]] input.
 
 ## Culinary Uses
 
@@ -112,7 +112,7 @@ In Middle Eastern cuisine, quince features in stews (such as the Persian khoresh
 - [[ficus-carica]]
 - [[castanea-sativa]]
 - [[juglans-regia]]
-- [[rosa-canina]]
+- rosa-canina
 - [[food-forest]]
 - [[elaeagnus-umbellata]]
 - [[prunus-spinosa]]

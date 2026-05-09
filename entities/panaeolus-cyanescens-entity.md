@@ -1,5 +1,5 @@
 ---
-title: "Panaeolus cyanescens"
+title: "stamets-panaeolus-cyanescens-copelandia-identification-ecology"
 created: 2026-04-28
 type: species
 tags:
@@ -14,8 +14,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Guzmán, G., Allen, J.W. & Gartz, J. (1998). "A worldwide geographical distribution of the neurotropic fungi." Mycotaxon.
-  - Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press.
+  - Guzmán, G., Allen, J.W. & Gartz, J. (1998). "A worldwide geographical distribution of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification." Mycotaxon.
+  - Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press.
   - https://www.mycobank.org/ (taxonomic classification)
   - La Bar, G. (1971). "Observations on the cultivation of Panaeolus cyanescens." Mushroom Science.
   - Wurst, M. et al. (2002). "Biogenic amines in Panaeolus species." Folia Microbiologica.
@@ -46,7 +46,7 @@ Gills are adnexed to adnate, initially gray, becoming mottled black as spores ma
 | **Serotonin** | Trace | Present in many coprophilous fungi |
 | **Urea** | Present | Common in dung-inhabiting species |
 
-The high psilocin:psilocybin ratio (approaching 1:1 in some specimens) contributes to the rapid onset and intensity of effects compared to *Psilocybe cubensis*, which has a higher proportion of psilocybin relative to psilocin.
+The high psilocin:psilocybin ratio (approaching 1:1 in some specimens) contributes to the rapid onset and intensity of effects compared to *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*, which has a higher proportion of psilocybin relative to psilocin.
 
 ## Pharmacology
 
@@ -55,7 +55,7 @@ The pharmacology is identical to that of other psilocybin-containing mushrooms. 
 Effects are dose-dependent:
 - **Low dose (0.5–1 g dried):** mild visual enhancement, mood elevation, increased sociability
 - **Moderate dose (1–2.5 g dried):** pronounced visual and auditory alteration, philosophical introspection, time distortion
-- **High dose (2.5+ g dried):** intense ego dissolution, mystical experiences, strong visual hallucinations; effects comparable to 2–3× the equivalent dose of *P. cubensis*
+- **High dose (2.5+ g dried):** intense ego dissolution, [[psilocybin-mystical-experiences-personality-change]], strong visual hallucinations; effects comparable to 2–3× the equivalent dose of *P. cubensis*
 
 Onset occurs within 15–45 minutes (faster than *Psilocybe* species due to higher free psilocin content), with peak effects at 60–90 minutes and total duration of 4–6 hours.
 
@@ -69,7 +69,7 @@ Geographic distribution spans:
 - **Africa** — Sub-Saharan Africa, Madagascar
 - **Asia** — India, Thailand, Indonesia, Philippines, Japan (Okinawa)
 - **Oceania** — Australia, Hawaii, Fiji
-- **North America** — Gulf Coast states, Florida, occasionally California
+- **[[psilocybin-north-america-pacific-northwest]]** — Gulf Coast states, Florida, occasionally California
 - **Europe** — rare; occasional reports from southern Spain and Italy
 
 ## Cultivation

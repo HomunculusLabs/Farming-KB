@@ -1,5 +1,5 @@
 ---
-title: Compost and Organic Matter Management
+title: coleman-compost-and-organic-fertility-management Matter Management
 updated: 2026-04-24
 sources:
   - raw/papers/gardening-when-it-counts-steve-solomon.md
@@ -14,7 +14,7 @@ created: 2026-04-24
 
 [[sheet-composting]]
 
-Sheet composting -- spreading organic matter directly on the soil surface and
+[[solomon-sheet-composting-mulch-gardening]] -- spreading organic matter directly on the soil surface and
 digging it in -- is riskier than heap composting because the C/N is harder to
 control. Key cautions:
 
@@ -25,7 +25,7 @@ strong, low-C/N materials are best used as fertilizers.  - Avoid
 sheet-composting with woody grasses of late summer on a brand-new garden -- the
 high C/N material may not finish decomposing before planting season.  - In warm
 weather, sheet composting takes about six weeks for decomposition to proceed to
-the point of nutrient availability.
+the point of [[ph-and-nutrient-availability-garden-soils]].
 
 ## Temperature and Decomposition Speed
 
@@ -42,7 +42,7 @@ accelerate decomposition at the cost of nutrient retention.
 
 ## The Organic Matter Deficit
 
-Solomon states that "no vegetable garden of any considerable size can operate as
+Solomon states that "no [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] of any considerable size can operate as
 a closed system that, all by itself, generates enough organic matter to maintain
 itself." He must import and compost a volume of dry organic matter at least
 twice the volume of his own garden's output. This import could be ruminant
@@ -65,8 +65,8 @@ value but does feed soil microbes and improve structure. Sacked chicken manure
 
 ## See Also
 
-- [[solomon-soil-mineral-depletion]] for mineral balance considerations -
-[[solomon-raised-beds]] for application rates on beds
+- [[solomon-soil-mineral-depletion]] for [[holmgren-mineral-balance-soil-fertility]] considerations -
+[[solomon-raised-beds]] for [[ingham-compost-tea-application-rates-and-timing]] on beds
 ## Practical Considerations
 
 Successful implementation of Compost and Organic Matter Management requires attention to
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

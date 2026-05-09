@@ -40,7 +40,7 @@ As combined grazing pressure builds, bacterial populations diminish. The larger 
 
 ## Role in Nutrient Cycling (Mineralization)
 
-When protozoa ingest bacteria or fungi, they digest what they need for their own metabolism and excrete the excess as waste. These wastes contain carbon, ammonium (NH4+), and other nutritional compounds that had been immobilized in bacterial and fungal bodies. This mineralization delivers plant-available nutrients directly in the [[root-exudates|rhizosphere]] -- the zone of root absorption.
+When protozoa ingest bacteria or fungi, they digest what they need for their own metabolism and excrete the excess as waste. These wastes contain carbon, ammonium (NH4+), and other nutritional compounds that had been immobilized in [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] bodies. This mineralization delivers plant-available nutrients directly in the [[root-exudates|rhizosphere]] -- the zone of root absorption.
 
 If nitrogen-fixing bacteria are present (requiring pH 7 or above), the free ammonium is converted into nitrates. If not, nitrogen remains in ammonium form -- preferred by perennials and trees.
 

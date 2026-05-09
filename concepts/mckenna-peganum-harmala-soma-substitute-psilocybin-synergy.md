@@ -5,7 +5,7 @@
 as **[[psilocybin-mushroom]]**,
 ingested in the context of Indo-Aryan and proto-Indo-European worship practices dating
 back to the Neolithic cultures of Anatolia and Iran. These cultures, which he describes
-as **Catal Huyuk type societies**, were cattle-raising, Great Goddess-worshipping
+as **[[mckenna-catal-huyuk-natufian-link]] type societies**, were cattle-raising, Great Goddess-worshipping
 partnership societies practicing orgiastic psychedelic religion, with roots reaching
 back to Neolithic Africa and the emergence of self-reflecting consciousness.
 
@@ -18,14 +18,14 @@ disruption.
 ## Haoma and the Zoroastrian Complication
 
 In the Iranian tradition, Soma is known as **Haoma**. The relationship between
-Zoroaster (circa 575 BC) and the Haoma rite is ambiguous and deeply contested.
+Zoroaster (circa 575 BC) and the [[mckenna-zoroaster-suppression-haoma-rite-ecstatic-religion]] is ambiguous and deeply contested.
 Zoroaster's approach to the ancient sacrament appears repressive: only two references
 to Haoma appear in the Gathas, his oldest texts. One calls it "Duroaosa, averter of
 death" — suggesting a grudging acknowledgment of its power — while the other condemns
 "the filthiness of this intoxicant."
 
 Yet in the later Avestan texts, particularly **Yasna IX–X**, Haoma reappears in nearly
-every respect as the same entity as the Vedic Soma. R.C. Zahner has argued that
+every respect as the same entity as the [[mckenna-vedic-soma-indo-european-mysteries]]. R.C. Zahner has argued that
 Zoroaster may never have actually abolished the Haoma rite at all, and that it remained
 the central liturgical act of Zoroastrianism throughout its history. The prohibition
 recorded in the Gathas may have been directed at **bull sacrifice** — a practice
@@ -33,7 +33,7 @@ associated with the older goddess-worshipping cults — rather than at the plant
 
 This ambiguity is critical to McKenna's argument. If the Haoma rite persisted even
 under Zoroaster's reform, then the identity of the plant matters profoundly, and the
-possibility that it changed over time — from mushroom to Syrian rue — becomes
+possibility that it changed over time — from mushroom to [[golden-guide-syrian-rue-and-maoi-plants]] — becomes
 historically plausible.
 
 ## Flattery and Schwartz: The Case for Syrian Rue
@@ -74,7 +74,7 @@ the effects of psilocybin when the two are consumed together.
 
 McKenna envisions a historical scenario in which:
 
-1. **Psilocybin mushrooms** were the original Soma, consumed in elaborate Vedic
+1. **[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]** were the original Soma, consumed in elaborate Vedic
    and pre-Vedic rites.
 2. As mushroom supplies dwindled due to ecological change, **Peganum harmala** was
    adopted as a partial substitute, sometimes combined with remaining mushroom
@@ -84,7 +84,7 @@ McKenna envisions a historical scenario in which:
    ceremony.
 
 This model elegantly explains why the Soma/Haoma rite persisted in form even as the
-identity of the plant appears to have changed. The ritual structure — the pressing,
+identity of the plant appears to have changed. The [[metzner-hybrid-circle-ritual-structure-and-council-practice]] — the pressing,
 the three daily preparations, the hymns and invocations — would have survived the
 transition from one active ingredient to another.
 
@@ -122,3 +122,5 @@ structural pattern in human relationships with psychoactive plants.
 - Catal Huyuk and the Great Goddess Cultures
 - The Decline of Entheogenic Religion
 - Beta Carbolines and Monoamine Oxidase Inhibition
+
+- [[mckenna-peganum-harmala-syrian-rue-soma-theory]]

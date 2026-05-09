@@ -1,5 +1,5 @@
 ---
-title: Chlorpyrifos and Organophosphate Degradation by Fungi
+title: Chlorpyrifos and Organophosphate query-how-does-lignin-degradation-by-fungi-work
 created: 2026-04-26
 tags: [mycoremediation, pesticide, organophosphate, chlorpyrifos]
 date: 2026-04-25
@@ -14,7 +14,7 @@ type: concept
 Organophosphorus insecticides are used extensively in agriculture and
 pose significant environmental and health concerns. Chlorpyrifos, one of
 the most widely applied organophosphates, has been the subject of
-considerable research into fungal degradation pathways. Singh's review
+considerable research into fungal [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]]. Singh's review
 documents multiple fungal species capable of degrading chlorpyrifos and
 related organophosphate compounds through enzymatic mechanisms including
 hydrolysis, oxidation, and cometabolism.
@@ -35,7 +35,7 @@ photothermal biosensors containing acetyl cholinesterase.
 
 ## Chlorpyrifos Degradation by White-Rot Fungi
 
-Phanerochaete chrysosporium degrades radiolabeled chlorpyrifos with
+[[staycare-phanerochaete-chrysosporium-in-bioremediation]] degrades radiolabeled chlorpyrifos with
 27.5% degradation in nutrient nitrogen-limited cultures over 18 days.
 The chlorinated pyridinyl ring of chlorpyrifos undergoes cleavage during
 biodegradation by P. chrysosporium, indicating ring-opening metabolism.
@@ -100,13 +100,13 @@ generate concentrated pesticide waste that requires on-farm treatment.
 
 ## Ligninolytic Enzyme Involvement
 
-The role of ligninolytic enzymes in organophosphate degradation remains
+The role of [[singh-ligninolytic-enzymes-fungal-bioremediation]] in organophosphate degradation remains
 an area of active investigation. While the principal mechanism of
 organophosphate degradation is hydrolysis, the oxidative enzymes of
 white-rot fungi may contribute to the degradation of aromatic moieties
 in organophosphate molecules. The chlorinated pyridinyl ring cleavage
 of chlorpyrifos by P. chrysosporium suggests involvement of oxidative
-enzyme systems. The lignin peroxidase (LiP) and manganese peroxidase
+enzyme systems. The [[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP) and [[fungal-manganese-peroxidase-remediation]]
 (MnP) systems, along with laccase, may act on the ring structures of
 organophosphates, complementing the hydrolytic pathways that cleave
 phosphoester bonds.
@@ -140,4 +140,7 @@ direction for on-farm pesticide waste management.
 
 - [[fungal-pesticide-and-herbicide-degradation]]
 - [[fungal-enzymatic-assays-identification-characterization]]
-- [[fungal-biosensors-environmental-monitoring]]
+- fungal-biosensors-environmental-monitoring
+- [[alternaria-alternata]]
+- [[fungal-bioaugmentation]]
+- [[hypholoma-fasciculare]]

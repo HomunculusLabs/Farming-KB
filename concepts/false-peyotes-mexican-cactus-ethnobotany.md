@@ -1,5 +1,5 @@
 ---
-title: False Peyotes — Mexican Cactus Ethnobotany
+title: False Peyotes — false peyotes mexican cactus ethnobotany Ethnobotany
 created: 2026-04-22
 updated: 2026-04-22
 type: concept
@@ -31,9 +31,9 @@ The Tarahumare's belief that sunami can summon supernatural protection against t
 
 Perhaps the most mysterious of the false peyotes is "hikuli walula saeliami," meaning "hikuli of greatest authority." This cactus is so rare that it has not yet been identified by botanists, but it is reputedly the most powerful of all hallucinogenic cacti according to Tarahumare tradition. Its identity remains one of the unresolved questions in Mesoamerican ethnobotany.
 
-Several candidates have been proposed by researchers, including rare Ariocarpus species such as A. agavoides, unusual forms of peyote-cultivation|Lophophora, and possibly Aztekium ritteri. The extreme rarity of this plant in both the wild and in ethnobotanical accounts suggests it may be a species on the brink of extinction, or possibly a mythologized composite of several different psychoactive cacti that has been elevated to legendary status within Tarahumare oral tradition.
+Several candidates have been proposed by researchers, including rare Ariocarpus species such as A. agavoides, unusual forms of peyote-cultivation|Lophophora, and possibly Aztekium ritteri. The extreme rarity of this plant in both the wild and in ethnobotanical accounts suggests it may be a species on the brink of extinction, or possibly a mythologized composite of several different [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] that has been elevated to legendary status within Tarahumare oral tradition.
 
-Richard Evans Schultes, who documented many of the Tarahumare sacred plants, noted that the hikuli walula saeliami was mentioned only by the oldest and most knowledgeable informants, suggesting that knowledge of this plant was already fading by the mid-20th century. Whether this cactus represents a genuine botanical species or a cultural memory of a now-extinct plant remains an open question.
+Richard [[richard-evans-schultes-updated]], who documented many of the Tarahumare sacred plants, noted that the hikuli walula saeliami was mentioned only by the oldest and most knowledgeable informants, suggesting that knowledge of this plant was already fading by the mid-20th century. Whether this cactus represents a genuine botanical species or a cultural memory of a now-extinct plant remains an open question.
 
 ## Tsuwiri — Ariocarpus retusus
 
@@ -45,7 +45,7 @@ This belief reflects a broader pattern in Huichol ethnobotany where certain plan
 
 Pelecyphora aselliformis, another cactus classified among the "false peyotes," is a small, globe-shaped cactus bearing distinctive comb-like spines arranged in rows resembling the segments of a woodlouse (the origin of its species epithet). Native to the state of San Luis Potosí in central Mexico, it grows in semi-desert grasslands on limestone soils at elevations between 1,600 and 2,200 meters.
 
-Recent chemical analysis has confirmed the presence of alkaloids in Pelecyphora, though their specific identity and psychoactive properties remain poorly characterized. The plant is used in some Huichol communities, though less frequently than the Ariocarpus species. Its distinctive appearance and limited distribution have also made it a target for cactus collectors, contributing to its endangered status in the wild.
+Recent [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] has confirmed the presence of alkaloids in Pelecyphora, though their specific identity and psychoactive properties remain poorly characterized. The plant is used in some Huichol communities, though less frequently than the Ariocarpus species. Its distinctive appearance and limited distribution have also made it a target for cactus collectors, contributing to its endangered status in the wild.
 
 ## Chemistry of the False Peyotes
 
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

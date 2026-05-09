@@ -1,23 +1,23 @@
 ---
-title: "Remediating Toxic Waste with Fungi"
+title: "mycelium running remediating toxic waste Waste with Fungi"
 created: 2026-04-26
 updated: "2025-04-23"
 sources:
-  - "raw/papers/mycelium-running-stamets.md"
+  sources: []
 type: concept
 tags: [mycelium, pollution, toxic]
 ---
 
 # Remediating Toxic Waste with Fungi
 
-[[mycoremediation-heavy-metals-detailed]] and chemical
-decontamination represent major frontiers in fungal bioremediation.
+[[mycoremediation-of-heavy-metals]] and chemical
+decontamination represent major frontiers in [[staycare-composting-as-a-fungal-bioremediation-strategy]].
 
 ## The Toxic Legacy
 
 Bill Moyers reported that analysis of his blood revealed 84 of 150 known
 industrial toxins, including 13 dioxins, 31 PCBs, several pesticides,
-and numerous heavy metals. Had his blood been analyzed in the 1930s,
+and numerous [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]. Had his blood been analyzed in the 1930s,
 only lead would have been detected. Most citizens likely carry similar
 toxin loads, and exposure increases as environments become more polluted.
 
@@ -31,9 +31,9 @@ ecosystems detoxify.
 
 Different fungal strategies suit different contamination scenarios:
 
-- **Saprophytic fungi**: Grow on or above ground; feed on debris fields;
+- **[[saprophytic-fungi]]**: Grow on or above ground; feed on [[mushroom-debris-fields-and-ecological-succession]];
   more useful for surface or recently deposited contaminants
-- **Mycorrhizal fungi**: Live on sites for decades; penetrate deeper
+- **[[mycorrhizal-fungi]]**: Live on sites for decades; penetrate deeper
   underground; offer transport systems from deeper contaminated zones
 
 Once mycelium upchannels heavy metals into mushrooms, they can be
@@ -49,7 +49,7 @@ For toxic waste sites, Stamets recommends:
 2. Create a 1.5-foot-deep mulch layer for aerobic conditions
 3. Cover with cardboard, then a loose straw layer
 4. After residual levels decline to tolerable limits, plant trees with
-  mycorrhizae
+  [[mycorrhizae]]
 5. Reintroduce follow-up populations of mediating mycelia as needed
 
 ## Safety Warnings
@@ -61,10 +61,10 @@ eaten until determined safe through testing.
 
 ## See Also
 
-- [[mycoremediation-heavy-metals-detailed]] -- heavy metal focus
-- [[mycoremediation-of-pahs]] -- PAH degradation
-- [[mycoremediation-of-explosives]] -- explosives remediation
-- mycelium running remediating toxic waste -- this page
+- [[mycoremediation-of-heavy-metals]] -- heavy metal focus
+- mycoremediation-of-pahs -- [[fungal-pah-degradation-and-soil-bioremediation]]
+- mycoremediation-of-explosives -- explosives remediation
+- [[woodlovers-mycelium-running-pathway-technique]] remediating toxic waste -- this page
 ## Practical Considerations
 
 Successful implementation of Remediating Toxic Waste with Fungi requires attention to
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

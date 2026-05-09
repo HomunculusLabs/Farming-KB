@@ -9,7 +9,7 @@ sources:
 ---
 # Deep Bed Cultivation
 
-Deep bed cultivation is a core technique in organic gardening that maximizes productivity from limited space while improving soil structure. The system involves creating raised beds of deeply cultivated soil that are never walked on, ensuring permanently good soil structure.
+Deep bed cultivation is a core technique in [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] that maximizes productivity from limited space while improving soil structure. The system involves creating raised beds of deeply cultivated soil that are never walked on, ensuring permanently good soil structure.
 
 ## Principles
 
@@ -19,20 +19,20 @@ The deep bed system was popularized by organic gardening pioneers and is central
 - **Deep cultivation:** Double-dig the beds initially to a depth of about 2 spade depths (spit depth). This breaks up hard pans and allows deep root penetration.
 - **Intensive spacing:** Plants are grown much closer together than in conventional rows. This means more food from less space, and the close planting shades the soil, reducing moisture loss and suppressing weeds.
 - **Block planting:** Instead of single rows, crops are sown in blocks across the bed width. This makes better use of space and light.
-- **No rotation needed on the bed:** While crop rotation is still practiced across the garden as a whole, individual beds can be managed intensively.
+- **No rotation needed on the bed:** While [[comparison-crop-rotation-vs-cover-cropping]] is still practiced across the garden as a whole, individual beds can be managed intensively.
 
 ## Construction
 
 **Dimensions:** Standard width is 4ft (1.2m) -- narrow enough to reach the center from either side without stepping on the bed. Length can vary. Paths between beds are typically 15-18in (38-45cm) wide.
 
-**Initial preparation (double digging):**
+**Initial preparation ([[comparison-double-digging-vs-no-till]]):**
 1. Remove a trench one spade deep across the width of the bed
 2. Fork over the bottom of the trench to another spade's depth
 3. Move the soil from the next trench into the first, incorporating manure or compost
 4. Continue across the bed
 5. The final trench is filled with soil from the first
 
-**Adding organic matter:** Incorporate as much well-rotted manure or compost as possible during the initial digging. After that, add organic matter as a surface mulch; the worms and weather will work it in.
+**Adding [[hamilton-composting-and-organic-matter-management]]:** Incorporate as much well-rotted manure or compost as possible during the initial digging. After that, add organic matter as a surface mulch; the worms and weather will work it in.
 
 ## Advantages
 
@@ -47,7 +47,7 @@ The deep bed system was popularized by organic gardening pioneers and is central
 ## Suitable Crops
 
 **Ideal for deep beds:**
-- Root vegetables: carrots, parsnips, beets (deep, loose soil prevents forking)
+- [[growing-root-vegetables-guide]]: carrots, parsnips, beets (deep, loose soil prevents forking)
 - Leaf vegetables: lettuce, spinach, chard (block planting works well)
 - Alliums: onions, leeks, shallots (intensive spacing)
 - Peas: semi-leafless varieties form self-supporting blocks
@@ -80,6 +80,6 @@ The deep bed system was popularized by organic gardening pioneers and is central
 ## Related
 
 - [[soil-food-web-structure]] for soil biology
-- [[cover-cropping-guide]] for bed rotation and green manures
+- [[cover-cropping-guide]] for bed rotation and [[jeavons-green-manures-cover-crops]]
 - [[gaias-garden-cover-crops-soil-building]]
 - [[green-manure-cover-crops]]

@@ -1,6 +1,6 @@
 ---
 title: "Soil Food Web Diversity Assessment: DNA and Molecular Methods"
-source: "[[actively-aerated-compost-tea]] (AACT)"
+source: "actively-aerated-compost-tea (AACT)"
 tags: [soil-food-web, microbiology, DNA-testing, diversity-assessment, molecular-methods, compost-tea, soil-health]
 created: 2026-05-08
 ---
@@ -15,9 +15,9 @@ Assessing microbial diversity in soil, compost, and  is critical for understandi
 
 Ingham emphasizes that diversity is "critically important" in compost tea and soil biology. Key relationships between diversity and function include:
 
-- **Disease suppression**: Higher total bacterial and fungal biomass generally correlates with greater diversity, and both are needed for reliable disease prevention.
+- **[[aact-disease-suppression-mechanisms-ingham]]**: Higher total [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] biomass generally correlates with greater diversity, and both are needed for reliable [[cervantes-pest-disease-prevention-overview]].
 - **Nutrient cycling**: Diverse food webs ensure multiple nutrient pathways operate simultaneously, preventing nutrient lock-up.
-- **Soil structure**: Fungal diversity drives aggregate formation through glomalin and biological glues.
+- **Soil structure**: Fungal diversity drives [[soil-aggregate-formation-fungal-contributions]] through glomalin and biological glues.
 - **Resilience**: Diverse communities recover faster from disturbance.
 
 Good, healthy soil and compost contain approximately **25,000 unique DNA strands per gram**, reflecting immense biological complexity.
@@ -69,7 +69,7 @@ Ingham is sharply critical of plate count methods:
 - **Species boundaries**: Debate continues about how many base-pair differences define a species. Some pathogens differ from non-pathogens by only one base pair.
 - **Plasmid DNA**: Extrachromosomal material must be accounted for to avoid overcounting.
 - **Cost**: Equipment for probe replication and fluorescent excitation costs ~$190,000.
-- **Repeatability**: Significant problems remain with molecular approaches.
+- **Repeatability**: Significant problems remain with [[staycare-molecular-approaches-fungal-bioremediation]].
 - **Sample timing**: Samples must arrive within 12 hours because E. coli reproduces every 20-30 minutes.
 
 ### E. coli DNA Testing
@@ -85,7 +85,7 @@ Primary workhorse assessment at 400x magnification measuring:
 - Total and active bacteria/fungi biomass (µg/g)
 - Protozoa (flagellates, amoebae, ciliates)
 - Nematodes (bacterial-feeding, fungal-feeding, root-feeding, predatory)
-- Mycorrhizal colonization percentage
+- [[arbuscular-mycorrhizal-colonization-patterns]] percentage
 
 ### Tier 2: Beneficial Organism Assays
 
@@ -123,3 +123,4 @@ Comprehensive approach using DNA chip arrays, PCR amplification, probe developme
 ## See Also
 - [[fungal-species-estimation-methods-total-diversity]]
 - [[ingham-field-guide-soil-food-web-assessment]]
+- [[ingham-soil-food-web-assessment-methods]]

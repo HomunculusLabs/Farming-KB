@@ -45,7 +45,7 @@ Neonatal presentations can occur after protein feeding begins and may be mistake
 sepsis or nonspecific encephalopathy.
 Partial defects may remain silent until infection, fasting, high-protein intake,
 pregnancy, surgery, valproate exposure, or other stressors raise nitrogen load.
-Diagnosis uses plasma ammonia, amino acid profiles, urine orotic acid, genetic testing,
+Diagnosis uses plasma ammonia, [[cho-fish-amino-acid-preparation]] profiles, urine orotic acid, genetic testing,
 and urgent metabolic consultation.
 
 ## Therapeutic Logic
@@ -59,7 +59,7 @@ Severe hyperammonemia may require dialysis because neurologic injury can progres
 than medical scavenging can lower ammonia.
 
 ## Related Concepts
-The cycle is closely connected to amino acid metabolism, [[citric-acid-cycle-tca-krebs-cycle]].
+The cycle is closely connected to [[fish-amino-acid]] metabolism, [[citric-acid-cycle-tca-krebs-cycle]].
 It also links clinical toxicology with [[glutathione-biochemistry-and-redox-biology]]
 because both systems protect cells from chemically reactive nitrogen or sulfur stress.
 Understanding the urea cycle clarifies why liver failure, enzyme defects, and catabolic
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

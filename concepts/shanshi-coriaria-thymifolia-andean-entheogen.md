@@ -1,5 +1,5 @@
 ---
-title: "Shanshi Coriaria Thymifolia Andean Entheogen"
+title: "Shanshi shanshi coriaria thymifolia andean entheogen Andean Entheogen"
 created: 2026-04-28
 tags: [ethnobotany, entheogen, coriariaceae, andes, toxicology]
 date: 2026-04-25
@@ -24,7 +24,7 @@ documentation in Schultes and Hofmann's Golden Guide suggests that
 knowledge of its use was current at the time of their fieldwork
 but may represent a fragile or declining tradition. The plant's
 use by rural peasants rather than in formal shamanic contexts
-distinguishes it from many other South American entheogens, which
+distinguishes it from many other [[chiric-caspi-brunfelsia-south-american-hallucinogen]] entheogens, which
 are typically associated with specialized ritual practitioners.
 
 ## Comparison with Related Coriaria Species
@@ -41,13 +41,13 @@ of the Mediterranean has a similar toxicity profile and has been
 implicated in historical poisonings. The fact that Andean peasants
 consume C. thymifolia fruits despite the documented toxicity of
 congeneric species raises questions about possible differences in
-alkaloid profiles, traditional preparation methods that may reduce
+alkaloid profiles, [[kava-traditional-preparation-ceremonial-context]] methods that may reduce
 toxicity, or culturally transmitted knowledge of safe dosage levels.
 
 ## Research Needs
 
 Coriaria thymifolia represents a significant gap in ethnobotanical
-and phytochemical knowledge. No modern chemical analysis appears to
+and phytochemical knowledge. No modern [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] appears to
 have been conducted on the fruits used by Ecuadorian peasants, and
 the ethnobotanical context of its use has not been documented in
 detail. Key research priorities include chemical characterization
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

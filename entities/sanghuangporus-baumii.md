@@ -21,13 +21,13 @@ created: 2026-04-28
 
 ## Overview
 
-Sanghuang is a medicinal polypore mushroom deeply rooted in Traditional Chinese Medicine (TCM). The name "Sanghuang" (桑黄) literally translates to "mulberry yellow," referring to the mushroom's preferred host tree and the yellowish color of its pore surface.
+Sanghuang is a [[growing-gourmet-medicinal-polypore-candidates-turkey-tail-chaga]] mushroom deeply rooted in Traditional Chinese Medicine (TCM). The name "Sanghuang" (桑黄) literally translates to "mulberry yellow," referring to the mushroom's preferred host tree and the yellowish color of its pore surface.
 
 For over two millennia, Sanghuang has been valued as a potent herbal remedy in East Asian medical systems. Historically, it was prescribed for a range of conditions including chronic diarrhea, gastrointestinal hemorrhage, and various gynecological disorders.
 
-In modern times, Sanghuang has attracted significant scientific attention due to its remarkable anti-tumor, immunomodulatory, and anti-inflammatory properties. The fungus belongs to the genus *Sanghuangporus*, which was erected in 2012 to clarify the long-standing taxonomic confusion surrounding Sanghuang mushrooms.
+In modern times, Sanghuang has attracted significant scientific attention due to its remarkable anti-tumor, immunomodulatory, and anti-inflammatory properties. The fungus belongs to the genus *Sanghuangporus*, which was erected in 2012 to clarify the long-standing [[neurotropic-fungi-taxonomic-confusion-and-identification]] surrounding Sanghuang mushrooms.
 
-Among the species in this genus, *Sanghuangporus baumii* is one of the most widely studied and commercially significant, and it underpins most of the modern pharmacological research on Sanghuang. Wild Sanghuang is now one of the most expensive medicinal mushrooms in the world, with demand far exceeding natural supply.
+Among the species in this genus, *Sanghuangporus baumii* is one of the most widely studied and commercially significant, and it underpins most of the modern pharmacological research on Sanghuang. Wild Sanghuang is now one of the most expensive [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] in the world, with demand far exceeding natural supply.
 The commercial Sanghuang market in China alone is estimated to exceed several billion yuan annually, reflecting growing consumer interest in functional foods and natural health products derived from this mushroom.
 
 ## Taxonomy
@@ -47,7 +47,7 @@ The species was originally described under the basionym *Polyporus baumii* by Pi
 Molecular phylogenetic studies in the early 2010s demonstrated that Sanghuang-forming species formed a distinct clade separate from *Phellinus* sensu stricto, prompting the establishment of the new genus *Sanghuangporus* by Zhou et al. in 2016.
 
 The type species of the genus is *S. lonicericola*, while *S. baumii* remains one of the most economically important members. Phylogenetic analyses based on ITS, nLSU, and tef1-α gene regions have confirmed the monophyly of *Sanghuangporus* and its position within the Hymenochaetaceae.
-The genus currently contains approximately 15 recognized species, with new species continuing to be described as molecular surveys expand across East and Southeast Asia.
+The genus currently contains approximately 15 recognized species, with new species continuing to be described as molecular surveys expand across East and [[psilocybe-southeast-asia-pacific]].
 Several of these newly described species may also possess significant medicinal properties, though pharmacological data remain limited for most.
 
 ## Morphology
@@ -87,14 +87,14 @@ The *Ben Cao Gang Mu* (Compendium of Materia Medica, 1578) by Li Shizhen further
 
 ## Chemical Constituents
 
-Phytochemical investigations of *Sanghuangporus baumii* have revealed a diverse array of bioactive compounds, many of which contribute to its pharmacological activities:
+Phytochemical investigations of *Sanghuangporus baumii* have revealed a diverse array of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]], many of which contribute to its pharmacological activities:
 
-- **Hispolon:** A phenolic compound and one of the most studied bioactive molecules from Sanghuang. Hispolon has demonstrated potent anti-tumor, anti-inflammatory, and antioxidant effects in preclinical studies, with IC₅₀ values in the low micromolar range against several cancer cell lines.
+- **[[hispolon]]:** A phenolic compound and one of the most studied bioactive molecules from Sanghuang. Hispolon has demonstrated potent anti-tumor, anti-inflammatory, and antioxidant effects in preclinical studies, with IC₅₀ values in the low micromolar range against several cancer cell lines.
 - **3,4-Dihydroxybenzaldehyde (protocatechualdehyde):** A simple phenolic aldehyde with antioxidant, anti-inflammatory, and neuroprotective activities that contributes to the free radical scavenging capacity of Sanghuang extracts.
 - **Phelligridins A–H:** A family of hispidin-like phenolic compounds isolated from *Sanghuangporus* species. Phelligridins exhibit significant antioxidant, anti-inflammatory, and cytotoxic activities against various cancer cell lines, with phelligridin D and G being among the most pharmacologically active.
 - **Polysaccharides:** High molecular weight polysaccharides, particularly β-glucans, are among the most important immunomodulatory constituents. These water-soluble compounds activate macrophages, NK cells, and T lymphocytes, and are responsible for much of the tumor-inhibitory activity in vivo. The polysaccharide fraction typically constitutes 3–8% of the dry weight.
 - **Triterpenoids:** Including inotodiol and related lanostane-type triterpenes, which possess anti-tumor, anti-inflammatory, and hepatoprotective properties. Content varies significantly with growth conditions and substrate composition.
-- **Ergosterol and sterols:** Ergosterol (provitamin D₂) is the predominant sterol, along with ergosterol peroxide and other sterol derivatives that exhibit anti-inflammatory and anti-tumor activities through modulation of PI3K/Akt and MAPK signaling pathways.
+ergosterol erol and sterols:** Ergosterol (provitamin D₂) is the predominant sterol, along with ergosterol peroxide and other sterol derivatives that exhibit anti-inflammatory and anti-tumor activities through modulation of PI3K/Akt and MAPK signaling pathways.
 - **Other compounds:** Additional constituents include flavonoids, organic acids, lectins, and small peptides identified through HPLC-MS and NMR spectroscopy.
 
 ## Pharmacological Research
@@ -134,7 +134,7 @@ Additional anti-inflammatory mechanisms include suppression of COX-2 expression 
 
 ### Hepatoprotective Effects
 
-*Sanghuangporus baumii* extracts protect the liver from chemical-induced injury caused by agents such as carbon tetrachloride (CCl₄), acetaminophen, and alcohol. Hepatoprotective mechanisms include reduction of serum transaminase levels (ALT, AST), attenuation of lipid peroxidation, enhancement of hepatic antioxidant enzyme activity (SOD, catalase, glutathione peroxidase), and suppression of hepatic stellate cell activation.
+*Sanghuangporus baumii* extracts protect the liver from chemical-induced injury caused by agents such as carbon tetrachloride (CCl₄), acetaminophen, and alcohol. Hepatoprotective mechanisms include reduction of serum transaminase levels (ALT, AST), attenuation of lipid peroxidation, enhancement of hepatic antioxidant enzyme activity (SOD, catalase, glutathione peroxidase), and suppression of hepatic stellate [[mushroom-immune-cell-activation-mechanisms]].
 
 The suppression of hepatic stellate cell activation is particularly important, as it is central to the development of liver fibrosis and cirrhosis. Sanghuang extracts have shown anti-fibrotic effects in CCl₄-induced fibrosis models in rats.
 

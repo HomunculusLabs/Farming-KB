@@ -1,5 +1,5 @@
 ---
-title: Panaeolus cyanescens Cultivation Guide
+title: stamets-panaeolus-cyanescens-copelandia-identification-ecology Cultivation Guide
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
@@ -14,9 +14,9 @@ Panaeolus cyanescens (copelandia) and P. tropicalis are tropical coprophilous mu
 
 - Note: Panaeolus species do **not colonise grain as densely** as P. cubensis
 - Open bags in flow cabinet (touch only the outside)
-- Each bag receives **300 ml** of [[psilocybin-cultivation]] — general psilocybin mushroom cultivation
-- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] — substrate preparation
-- [[mushroom-cultivation-anastomosis-and-strain-mixing]]
+- Each bag receives **300 ml** of [[psilocybin-cultivation]] — general psilocybin [[accessible-mushroom-cultivation-for-disabilities]]
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] — [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]
+- mushroom-cultivation-anastomosis-and-strain-mixing
 
 ## See Also
 
@@ -98,4 +98,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

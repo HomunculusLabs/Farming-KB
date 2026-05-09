@@ -11,11 +11,11 @@ type: concept
 
 # Non-Discriminating Knowledge and the Child's Intuitive Grasp of Nature
 
-Masanobu Fukuoka's philosophy of natural farming rests on a fundamental
+Masanobu Fukuoka's philosophy of [[comparison-natural-farming-vs-permaculture]] rests on a fundamental
 epistemological distinction drawn from Buddhism: the difference between
 "discriminating knowledge" and "non-discriminating knowledge." This is not
 merely an abstract philosophical point but the cornerstone of his critique of
-modern scientific agriculture and his justification for the "do-nothing"
+modern [[fukuoka-critique-scientific-agriculture-civilization]] and his justification for the "do-nothing"
 approach to farming.
 
 ## The Infant's Original Vision
@@ -29,10 +29,10 @@ enjoys peace of mind without having to do anything.
 This state of intuitive perception is, for Fukuoka, the highest form of
 wisdom. It is not ignorance or naivety, but a direct apprehension of nature
 as an organic whole. The infant does not separate the world into categories
-of good and bad, useful and harmful, cause and effect. Nature simply is, in
+of good and bad, useful and harmful, [[fukuoka-textdoc-no-cause-and-effect-in-nature]]. Nature simply is, in
 its totality, and the infant exists within it without conflict.
 
-The infant does not wonder why the wind blows or the rain falls. It does not
+The infant does not wonder why the wind blows or the [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]]. It does not
 classify soil microorganisms as beneficial or pathogenic. It does not
 distinguish between crops and weeds. This absence of categorization is not a
 deficiency of understanding but a mode of understanding that is, in
@@ -77,7 +77,7 @@ grows up alienated from the earth that sustains him.
 
 ## The Soil Scientist's Ignorance
 
-Fukuoka extends the mud field parable into a broader critique of scientific
+Fukuoka extends the mud field parable into a broader [[fukuoka-critique-of-scientific-agriculture]]
 expertise. Hundreds of millions of microorganisms crowd each gram of soil.
 Bacteria are present, but so are other bacteria that kill these bacteria,
 and yet other bacteria that kill the killer bacteria. The soil contains

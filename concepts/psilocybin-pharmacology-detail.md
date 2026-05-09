@@ -1,6 +1,6 @@
 ---
 
-title: Psilocybin Pharmacology Detail
+title: emcdda-psilocybin-pharmacology-and-chemistry Detail
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -23,11 +23,11 @@ sources:
 
 # Psilocybin Pharmacology Detail
 
-Detailed pharmacokinetics, route of administration, toxicity data, psychological risks, and legal status for psilocybin mushrooms. See [[psilocybin-mushroom-chemistry]] for dosage guidelines, subjective effects, and acute incidents.
+Detailed pharmacokinetics, route of administration, toxicity data, psychological risks, and legal status for [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]. See [[psilocybin-mushroom-chemistry]] for dosage guidelines, subjective effects, and acute incidents.
 
 ## Gartz's Aeruginascin Hypothesis
 
-In a fascinating observation, [[jochen-gartz]] noted that users of Inocybe aeruginascens (which contains aeruginascin alongside psilocybin and baeocystin) reported predominantly positive experiences with very few "bad trips" compared to users of other species. Gartz hypothesized that aeruginascin might act as a euphoriant, counteracting anxiety-producing aspects of the psilocybin experience. This hypothesis remains untested in formal clinical settings but represents one of the few examples of a naturally occurring mushroom alkaloid potentially modulating the quality of the psychedelic experience.
+In a fascinating observation, [[jochen-gartz]] noted that users of [[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]] (which contains aeruginascin alongside psilocybin and baeocystin) reported predominantly positive experiences with very few "bad trips" compared to users of other species. Gartz hypothesized that aeruginascin might act as a euphoriant, counteracting anxiety-producing aspects of the psilocybin experience. This hypothesis remains untested in formal clinical settings but represents one of the few examples of a naturally occurring mushroom alkaloid potentially modulating the quality of the [[leary-psychedelic-experience-bardo-mapping]].
 
 ## Route of Administration and Pharmacokinetics (EMCDDA Data)
 
@@ -43,7 +43,7 @@ In a fascinating observation, [[jochen-gartz]] noted that users of Inocybe aerug
 - **Peak effects**: Typically 1-2 hours after ingestion
 - **Duration**: 2-6 hours primary effects
 - **After-effects**: Additional 2-6 hours (sleep difficulties, residual perceptual changes)
-- **Tolerance**: Short-term tolerance develops rapidly; physical and psychological effects diminish with consecutive daily use
+- **Tolerance**: Short-term tolerance develops rapidly; physical and [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] diminish with consecutive daily use
 
 ### Acute Physiological Effects (EMCDDA Clinical Summary)
 - Dizziness, nausea, weakness
@@ -114,7 +114,7 @@ From clinical and self-report data compiled by Gartz:
 
 - **HPPD (Hallucinogen Persisting Perception Disorder):** Rare condition involving persistent visual disturbances after psychedelic use. Prevalence estimated at 1-4% of regular users. Not specific to psilocybin; more commonly associated with LSD.
 - **Precipitation of latent mental illness:** Psilocybin can trigger psychotic episodes in individuals with personal or family history of schizophrenia or bipolar disorder.
-- **Traumatic experiences:** "Bad trips" can be psychologically harmful, especially without preparation or integration support. Set and setting are critical.
+- **Traumatic experiences:** "Bad trips" can be psychologically harmful, especially without preparation or integration support. [[lsd-set-and-setting-framework]] are critical.
 - **Impaired judgment:** Users may engage in risky behavior during acute effects.
 
 ### Contraindications
@@ -132,23 +132,10 @@ From clinical and self-report data compiled by Gartz:
 3. **Trip sitter** — Have a sober, experienced person present, especially for first experiences or higher doses
 4. **Substance testing** — Verify species identification; toxic lookalikes exist (Galerina marginata, Conocybe filaris)
 5. **Medication interactions** — Research interactions with any medications, especially psychiatric drugs
-6. **Integration** — Allow time for processing the experience afterward
-7. **Abstain from driving** — Impaired coordination and perception for 6-12 hours after dosing
-
-## Legal Status
-
-Psilocybin and psilocin are Schedule I under the UN Convention on Psychotropic Substances (1971). However, the legal status of the mushrooms themselves varies by country:
-
-- **Prohibited:** Most countries criminalize both psilocybin and psilocybin-containing mushrooms
-- **Decriminalized:** Several US cities (Denver, Oakland, Santa Cruz, Ann Arbor, Washington DC, Somerville, Cambridge, Northampton, Seattle)
-- **Legal/regulated:** Netherlands (sclerotia/truffles are legal; fruiting bodies are not since 2008); Oregon (regulated therapeutic use since 2020); Colorado (decriminalized 2022); several indigenous contexts in Mexico
-- **Legal gray area:** In many countries, the mushrooms are not specifically scheduled but psilocybin is, creating legal ambiguity
-- **Spores:** In many jurisdictions, spores contain no psilocybin and are legal to possess (but cultivation becomes illegal once mycelium produces alkaloids)
-
 ## See Also
 
 - [[psilocybin-mushroom-chemistry]] — Detailed chemical composition and analysis methods
-- [[psilocybin-mushroom-cultivation]] — Growing techniques
+- [[psilocybin-cultivation]] — Growing techniques
 - [[psychedelic-mushroom-history]] — Historical timeline
 - [[psilocybin-psychotherapy]] — Clinical and therapeutic applications
 - [[jochen-gartz]] — Researcher who compiled much of this data

@@ -9,7 +9,7 @@ sources: []
 
 # Basic Electrical for Homestead
 
-Electrical work on a homestead ranges from wiring a simple shed to installing a full residential service panel. Electricity is the most dangerous system a homeowner can work with — mistakes cause fires, electrocution, and death. This page covers wiring fundamentals, circuit basics, outlet installation, GFCI protection, and critical safety guidelines. It also covers when to hire a licensed electrician.
+Electrical work on a homestead ranges from wiring a simple shed to installing a full residential service panel. Electricity is the most dangerous system a homeowner can work with — mistakes cause fires, electrocution, and death. This page covers wiring fundamentals, circuit basics, outlet installation, GFCI protection, and critical [[psychedelic-safety-guidelines-turner]]. It also covers when to hire a licensed electrician.
 
 ## Safety First
 
@@ -29,7 +29,7 @@ Electrical work on a homestead ranges from wiring a simple shed to installing a 
 
 **NM-B (Romex):**
 - Non-metallic sheathed cable for interior residential wiring
-- Contains 2-3 insulated conductors plus a bare ground wire
+- Contains 2-3 insulated conductors plus a [[savory-bare-ground-and-soil-exposure]] wire
 - Cannot be used outdoors, in wet locations, or where exposed to physical damage
 - 14/2 NM-B = 2 conductors (14 AWG) + ground, for 15-amp circuits
 - 12/2 NM-B = 2 conductors (12 AWG) + ground, for 20-amp circuits
@@ -142,36 +142,8 @@ Required in modern construction for bedrooms, living rooms, and other habitable 
 - Loose wire connection at the switch or fixture
 - Voltage drop from overloaded circuit
 - Failing light switch — replace if it feels warm or makes crackling sounds
-- If widespread, may indicate a failing main connection — call an electrician
-
-## Tools for Basic Electrical Work
-
-- Non-contact voltage tester (essential)
-- Multimeter
-- Wire strippers (combo with cutter and crimper)
-- Screwdrivers (insulated set)
-- Needle-nose pliers
-- Lineman's pliers
-- Fish tape (for pulling wire through walls)
-- Circuit tracer (for identifying circuits)
-- Headlamp (for working in panels and dark spaces)
-
-## When to Hire a Licensed Electrician
-
-- Any work on the service entrance (masthead, main panel, meter socket)
-- Installing a new circuit or subpanel
-- Work requiring a permit or inspection
-- Aluminum wiring repairs (specialized and dangerous)
-- Any work in wet or hazardous locations
-- Upgrading service amperage
-- Generator transfer switch installation
-- Solar panel electrical connections
-- If you are not 100% confident in your understanding and ability
-
-Electrical mistakes can kill. The cost of hiring an electrician is always less than the cost of a house fire or electrocution. Know your limits.
-
 ## Related Concepts
 
 - [[barn-construction-reference]] — Building and construction infrastructure for the homestead
-- [[mushroom-foraging-safety-guide]] — Safety principles and risk management across homestead systems
+- [[mushroom-foraging-safety-guide]] — [[shulgin-safety-principles-self-experimentation]] and risk management across homestead systems
 - [[emergency-preparedness]] — Backup power considerations during electrical outages

@@ -1,5 +1,5 @@
 ---
-title: Cannabis Seed Germination Methods
+title: Cannabis cannabis seed germination methods Methods
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-Germination is the initial stage of cannabis growth, occurring when the seed's embryo cracks open and produces a root. This root fixes into the growing medium and pushes the seedling upward until embryonic leaves open to receive sunlight. Germination takes anywhere from 12 hours to 3 weeks. The Cannabis Grow Bible (Greg Green) describes several methods with varying success rates. After germination, the plant enters the seedling stage (1-3 weeks), followed by vegetative growth, pre-flowering, flowering, and seed production stages.
+Germination is the initial stage of cannabis growth, occurring when the seed's embryo cracks open and produces a root. This root fixes into the growing medium and pushes the seedling upward until embryonic leaves open to receive sunlight. Germination takes anywhere from 12 hours to 3 weeks. The Cannabis Grow Bible (Greg Green) describes several methods with varying success rates. After germination, the plant enters the seedling stage (1-3 weeks), followed by [[cannabis-vegetative-growth-stage]], pre-flowering, flowering, and [[cervantes-seed-production-storage]] stages.
 
 ## Seed Viability
 
@@ -20,7 +20,7 @@ Germination is the initial stage of cannabis growth, occurring when the seed's e
 - Crushed seeds will not germinate
 - Old seeds may have trouble germinating
 - Seeds can be killed by extreme temperatures in postal transit
-- Seed viability is affected by storage conditions — keep cool, dry, and dark
+- Seed viability is affected by [[vegetable-storage-conditions-by-temperature-and-humidity]] — keep cool, dry, and dark
 
 ## Methods
 
@@ -29,7 +29,7 @@ Germination is the initial stage of cannabis growth, occurring when the seed's e
 Seeds are placed on a damp paper towel, cheesecloth, or cotton wool and covered with another damp layer. The material must be kept moist at all times — drying out can damage seeds. Check daily for root emergence and immediately transfer seedlings to a grow medium using tweezers, being careful not to touch the root.
 
 - Success rate: 8-9 out of 10 seeds
-- Risk: transplant shock can kill seedlings; practice improves results
+- Risk: [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]] can kill seedlings; practice improves results
 - Cost: minimal
 - Advantages: Simple, requires no special equipment
 - Disadvantage: Highest risk of transplant damage
@@ -44,7 +44,7 @@ Seeds are soaked in water until they sink and crack open, then transferred to gr
 
 ### Direct Soil Method
 
-Seeds are placed in moist soil approximately 3mm deep (about the length of the seed). Soil is sprinkled with water once daily to keep moist (not soaking wet). Seeds germinate when the soil is within a certain temperature range — usually between 50-70 deg F (15-20 deg C). Warming the soil with plastic can speed up the process.
+Seeds are placed in moist soil approximately 3mm deep (about the length of the seed). Soil is sprinkled with water once daily to keep moist (not soaking wet). Seeds germinate when the soil is within a certain [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] — usually between 50-70 deg F (15-20 deg C). Warming the soil with plastic can speed up the process.
 
 - Success rate: 7-8 out of 10 seeds
 - Advantage: no transplant shock
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

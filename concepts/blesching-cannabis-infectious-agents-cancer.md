@@ -1,5 +1,5 @@
 ---
-title: "Infectious Agents and Cancer - Cannabis Research"
+title: "blesching cannabis infectious agents cancer and Cancer - Cannabis Research"
 created: 2026-04-26
 tags:
   - cannabis
@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-The Cannabis Health Index documents a significant but often overlooked
+The [[blesching-cannabis-health-index-autoimmune-conditions]] documents a significant but often overlooked
 connection between infectious agents and cancer development. Blesching
 highlights that certain types of infectious agents may contribute to a
 cancer's development, adding an important dimension to both cancer
@@ -31,10 +31,10 @@ connections:
 
 ### Viral Causes of Cancer
 - **Hepatitis B**: An infection of the liver caused by a virus that may
-  lead to liver cancer
+  lead to [[cannabis-and-liver-cancer-research]]
 - **Human papillomavirus (HPV)**: May lead to cervical cancer
 - **Human herpes virus (HHV-8)**: Also known as Kaposi's sarcoma-
-  associated herpes virus (KSHV), may produce skin cancer lesions
+  associated herpes virus (KSHV), may produce [[blesching-cannabis-skin-cancer-non-melanoma]] lesions
 
 ### Bacterial Causes of Cancer
 - **Helicobacter pylori**: A bacterium that may facilitate stomach cancer
@@ -112,14 +112,14 @@ inflammation, or other factors, the body's ability to detect and destroy
 mutated cells before they develop into cancer is diminished.
 
 Cannabis, through its interactions with the endocannabinoid system's CB1
-and CB2 receptors, plays a role in immune modulation that may help
+and CB2 receptors, plays a role in [[cancer-immune-modulation-mechanisms]] that may help
 maintain the body's natural cancer surveillance and defense mechanisms.
 ## Related
 
 - [[blesching-cannabis-hepatitis]] - Hepatitis B/C and liver cancer
   prevention
 - [[blesching-cannabis-kaposi-sarcoma]] - HHV-8 and Kaposi's sarcoma
-- [[blesching-cannabis-cancer-symptoms]] - General cancer symptom management
+- [[blesching-cannabis-cancer-symptoms]] - General [[cannabis-cancer-symptom-management]] management
 - [[blesching-cannabis-viral-infections]] - Antiviral properties of
   cannabinoids
 - [[blesching-cannabinoid-pharmacology]] - Mechanisms of cannabinoid

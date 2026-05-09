@@ -8,17 +8,17 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-JADAM provides practical, farmer-friendly soil diagnosis methods that require no expensive laboratory equipment. The core approach emphasizes direct observation and simple physical tests to assess soil health, compaction, and fertility.
+JADAM provides practical, farmer-friendly soil diagnosis methods that require no expensive laboratory equipment. The core approach emphasizes [[fukuoka-direct-observation-method]] and simple physical tests to assess soil health, compaction, and fertility.
 
 ## The Compaction Layer Test
 
-The most important soil diagnosis in JADAM is identifying the compacted soil layer. This hardened layer blocks root penetration, water infiltration, and air circulation -- the three pillars of healthy soil.
+The most important soil diagnosis in JADAM is identifying the compacted soil layer. This hardened layer blocks root penetration, water infiltration, and [[stamets-growing-room-air-circulation-co2-management]] -- the three pillars of healthy soil.
 
 ### Method 1: Dig and Observe
 - Dig a vertical profile approximately 40cm (16 inches) deep
 - Examine the soil structure at different depths
 - Look for a distinct hardened layer, typically around 15-20cm (6-8 inches) below the surface
-- This compaction layer is caused by heavy machinery, repeated chemical applications, and loss of organic matter
+- This compaction layer is caused by heavy machinery, repeated chemical applications, and loss of [[hamilton-composting-and-organic-matter-management]]
 
 ### Method 2: Iron Rod Probe
 - Use a sharp iron rod to probe the soil
@@ -61,9 +61,9 @@ A root-to-shoot ratio greater than 1 indicates healthy soil where roots can pene
 JADAM's ultimate soil diagnosis standard is comparison with leaf mold from nearby mountains:
 
 1. Visit a forested area near your field
-2. Dig below the leaf litter to find dark, crumbly, moist soil with strong microbial smell
+2. Dig below the [[dighton-fungal-decomposition-leaf-litter-dynamics]] to find dark, crumbly, moist soil with strong microbial smell
 3. Compare this to your field soil
-4. The gap between leaf mold soil and field soil reveals what needs improvement
+4. The gap between [[jadam-leaf-mold-soil-method]] and field soil reveals what needs improvement
 
 Three targets:
 - Microorganism composition should match leaf mold
@@ -72,7 +72,7 @@ Three targets:
 
 ## Soil Salinity Diagnosis
 
-Signs of salt accumulation:
+Signs of [[jadam-salt-accumulation-in-soil]]:
 - White crust on soil surface
 - Stunted plant growth despite fertilization
 - Water pooling on surface rather than infiltrating
@@ -112,3 +112,7 @@ Once diagnosis identifies compaction and/or contamination, JADAM prescribes "soi
 - Use [[jadam-leaf-mold-soil-method]]
 - [[jadam-cover-crop-wild-grass-symbiosis]]
 - [[jadam-coexisting-with-wild-grass]]
+
+## See Also
+
+- [[creosote-soil-mycoremediation]]

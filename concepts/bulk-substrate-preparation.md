@@ -1,15 +1,16 @@
 ---
-title: Bulk Substrate Preparation
+title: Bulk cotter-compost-substrate-preparation-manure-mushroom-cultivation
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, cultivation, indoor, preparation, recipe, substrate, workflow]
-sources: []
+sources:
+  - "raw/papers/unknown-oyster-mushroom-cultivation.md"
 ---
 
 ## Overview
 
-Bulk substrate is the nutritious, water-retaining medium that mushroom mycelium colonizes to produce fruiting bodies. In home cultivation, the bulk substrate is typically mixed with colonized grain spawn at a defined ratio. The substrate provides the water reservoir and additional nutrition that grain alone cannot supply. The standard bulk substrate for Psilocybe cubensis is CVG — coconut coir, vermiculite, and gypsum — valued for its simplicity, contamination resistance, and consistent results.
+Bulk substrate is the nutritious, water-retaining medium that mushroom mycelium colonizes to produce fruiting bodies. In home cultivation, the bulk substrate is typically mixed with colonized grain spawn at a defined ratio. The substrate provides the water reservoir and additional nutrition that grain alone cannot supply. The standard bulk substrate for [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] is CVG — coconut coir, vermiculite, and gypsum — valued for its simplicity, contamination resistance, and consistent results.
 
 ## CVG: The Standard Substrate
 
@@ -19,7 +20,7 @@ Bulk substrate is the nutritious, water-retaining medium that mushroom mycelium 
 - Processed from coconut husk fibers, usually sold in compressed bricks (650g is standard).
 - Naturally resistant to contamination — coconut coir contains tannins and other compounds that inhibit microbial growth.
 - Excellent water retention capacity (holds 8-9 times its weight in water).
-- Near-neutral pH (6.0-6.8), ideal for mushroom cultivation.
+- Near-neutral pH (6.0-6.8), ideal for [[accessible-mushroom-cultivation-for-disabilities]].
 - No nutritional supplementation needed for cubensis, though it can be added.
 
 **Vermiculite**
@@ -85,7 +86,7 @@ Getting field capacity right is one of the most important skills in cultivation.
 
 ### Horse Manure
 
-Horse manure is a traditional substrate, especially for outdoor grows. It provides excellent nutrition and water retention. Must be aged (6+ months) or leached and pasteurized. Often mixed with straw (50/50 by volume). Popular with Panaeolus cyanescens growers.
+Horse manure is a traditional substrate, especially for outdoor grows. It provides excellent nutrition and water retention. Must be aged (6+ months) or leached and pasteurized. Often mixed with straw (50/50 by volume). Popular with [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] growers.
 
 ### Straw
 
@@ -93,13 +94,13 @@ Wheat or oat straw, chopped to 1-3 inch pieces. Excellent aeration and decent nu
 
 ### Compost
 
-Mushroom compost or custom compost mixes can produce excellent results but require careful preparation. The composting process itself must reach thermophilic temperatures (130-170F) to kill pathogens and weed seeds. Not recommended for beginners.
+[[staycare-spent-mushroom-compost-bioremediation]] or custom compost mixes can produce excellent results but require careful preparation. The composting process itself must reach thermophilic temperatures (130-170F) to kill pathogens and weed seeds. Not recommended for beginners.
 
 ### CVG + Supplementation
 
 Adding nutrition to CVG can boost yields but increases contamination risk:
 
-- **Coffee grounds**: 5-10% by volume. Adds nitrogen. Can be added fresh to bucket tek.
+- **[[oyster-mushroom-coffee-grounds-cultivation]]**: 5-10% by volume. Adds nitrogen. Can be added fresh to bucket tek.
 - **Wheat bran**: 5-10% by volume. Adds carbohydrates and nitrogen. Requires proper pasteurization.
 - **Blood meal or bone meal**: 2-5% by volume. High nitrogen. Requires pasteurization.
 - **Millet or ground grain**: 5-10% by volume. Very nutritious but very contamination-prone.

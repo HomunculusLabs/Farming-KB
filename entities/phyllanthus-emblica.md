@@ -23,7 +23,7 @@ sources:
 ## Overview
 
 Phyllanthus emblica (amla, Indian gooseberry) is a deciduous tree in the
-Phyllanthaceae family, native to tropical South and Southeast Asia. Its fruit
+Phyllanthaceae family, native to tropical South and [[psilocybe-southeast-asia-pacific]]. Its fruit
 is among the richest natural sources of ascorbic acid and contains a complex
 array of tannins, flavonoids, and polyphenols. Amla is a premier rasayana
 (rejuvenative) herb in Ayurvedic medicine with over three millennia of
@@ -65,7 +65,7 @@ the Arabic/Persian name for the fruit.
 - **Altitude:** Sea level to 1,800 m
 - **Soil:** Wide-ranging tolerance; prefers well-drained loam but survives in
   sandy, rocky, and saline conditions
-- **Drought tolerance:** High once established
+- **[[dighton-fungal-drought-tolerance-plant-water-relations]]:** High once established
 
 ## Phytochemistry
 
@@ -79,7 +79,7 @@ oxidative degradation during drying and processing.
 | Tannins | Emblicanin A & B, Punigluconin | 28-35% dry weight |
 | Flavonoids | Quercetin, Kaempferol, Rutin | 0.5-1.5% |
 | Phenolic acids | Gallic acid, Ellagic acid | 1-3% |
-| Fatty acids | Linoleic, Oleic (seed oil) | 25-35% seed |
+| [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] | Linoleic, Oleic (seed oil) | 25-35% seed |
 
 The gallotannin-ellagitannin complex (emblicanins) synergizes with ascorbic
 acid, protecting it from thermal degradation — a unique stabilization

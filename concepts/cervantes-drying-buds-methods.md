@@ -1,11 +1,12 @@
 ---
-title: Drying Cannabis Buds - Methods and Best Practices
+title: Drying query-what-causes-airy-loose-cannabis-buds-and-how-to-prevent-them - Methods [[knf-imo-diversity-and-best-practices]]
 created: 2026-04-26
 tags: [cannabis, drying, harvest, post-harvest, curing]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -14,14 +15,14 @@ type: concept
 ## Enemies of Drying Cannabis
 
 Light (UV rays), heat, and friction hasten biodegradation and are cannabis's
-biggest enemies during drying and storage. Keep dried marijuana in a cool, dry,
+biggest enemies during [[psilocybin-mushroom-drying-and-storage-methods]]. Keep dried marijuana in a cool, dry,
 dark place away from any source of heat or light.
 
 See also: [[cervantes-harvest-timing-trichome-ripeness]],
 [[cervantes-air-quality-ventilation]]
 ## Practical Applications
 
-Drying Cannabis Buds - Methods and Best Practices has a range of practical applications that make it relevant to
+Drying [[query-what-causes-airy-loose-cannabis-buds-and-how-to-prevent-them]] - Methods and Best Practices has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -86,7 +87,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -96,4 +97,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,15 +1,15 @@
 ---
-title: Phase II Composting
+title: mushroom-cultivator-phase-ii-composting-biology
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [composting, soil]
 sources:
-  - "raw/papers/mycelium-running-stamets.md"
+  sources: []
 ---
 # Phase II Composting
 
-Phase II is the pasteurization and conditioning phase that converts raw compost into a selective medium suitable for mushroom growth. It serves two critical functions: killing pests/pathogens and converting ammonia into microbial protein.
+Phase II is the pasteurization and conditioning phase that converts raw compost into a selective medium suitable for [[pf-tek-mushroom-growth-timeline]]. It serves two critical functions: killing pests/pathogens and converting ammonia into microbial protein.
 
 ## The Two Goals of Phase II
 
@@ -19,7 +19,7 @@ Exposure to live steam at 140°F throughout the substrate for 2 hours. This kill
 - Insect eggs and larvae (flies, nematodes)
 - Competitor fungi and their spores
 - Many bacteria (except heat-resistant endospores)
-- Weed mushroom spores (e.g., Coprinus)
+- Weed [[query-how-to-store-mushroom-spores-long-term]] (e.g., Coprinus)
 
 ### 2. Conditioning
 
@@ -31,7 +31,7 @@ After pasteurization, the compost is held at specific temperatures to allow bene
 |----------|-------------------|-------------|------|
 | Bacteria | 100-170 | Variable | Initial decomposition |
 | Actinomycetes | 115-140 | 125-132 | Primary ammonia consumers; humification |
-| Fungi | 110-130 | 118-122 | Cellulose/lignin degradation |
+| Fungi | 110-130 | 118-122 | Cellulose/[[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]] |
 
 The ammonia removal process is driven primarily by actinomycetes thriving at 125-132°F. These filamentous bacteria (Firefang) are the major microorganism selected during Phase II. When finished compost is spawned, Actinomyces are consumed by the mushroom mycelium.
 
@@ -91,5 +91,8 @@ Though not a contaminant, Actinomycetes are important to understand:
 
 - [[composting-systems]] for composting infrastructure and raw materials
 - [[mushroom-contaminant-identification-key]] for Actinomycetes details
-- [[stamets-phase-ii-composting]] — Author-specific treatment of the same topic
-- [[fungal-chromogens-and-color-change]]
+- stamets-phase-ii-composting — Author-specific treatment of the same topic
+- fungal-chromogens-and-color-change
+- [[decomposition]]
+- [[lignin-degradation]]
+- [[fungal-antibiotics]]

@@ -13,7 +13,7 @@ sources:
 
 **Lobaria pulmonaria**, commonly known as the lung lichen, is a large foliose lichen-forming ascomycete.
 
-It is one of the most ecologically significant lichen species in temperate and boreal forests.
+It is one of the most ecologically significant lichen species in temperate and [[fungal-diversity-boreal-forests-taiga]].
 
 It serves as a bioindicator of old-growth forest conditions and provides habitat and nitrogen inputs to forest ecosystems.
 
@@ -44,7 +44,7 @@ The common name "lung lichen" derives from the resemblance of its thallus surfac
 
 Historically the species was used in [[lichens]], the fungal partner creates microaerobic conditions around the cyanobacterial colony.
 
-This results in increased heterocyst frequencies and thus enhanced nitrogen fixation compared with the free-living state.
+This results in increased heterocyst frequencies and thus enhanced [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] compared with the free-living state.
 
 This triple symbiosis allows L. pulmonaria to contribute both carbon and nitrogen to forest ecosystems.
 
@@ -79,3 +79,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[lobaria-quercizans]]

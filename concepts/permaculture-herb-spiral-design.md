@@ -1,18 +1,17 @@
 ---
 title: "Permaculture Herb Spiral Design"
 created: 2026-04-28
-tags: [[permaculture, herb-spiral, garden-design, microclimate, zone-1]
+tags: [permaculture, herb-spiral, garden-design, microclimate, zone-1]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 type: concept
 ---
-
 # Permaculture [[herb-spiral]] is a classic [[mollison-permaculture-two-zone-planning-and-site-layout]],
 as close to the kitchen door as possible, so that herbs can be grabbed while
 cooking. The spiral demonstrates how natural patterns, particularly spirals
 found throughout nature from seashells to galaxies, can be harnessed to
-maximize growing space and create diverse growing conditions within a small
+maximize [[cotter-growing-space-design-fruiting-rooms]] and create diverse growing conditions within a small
 footprint.
 
 ## Design Principles and Edge Effect
@@ -22,7 +21,7 @@ cylinders, and especially spirals. The edge of a forest receives more light
 and nutrients than the center, making it more productive. The relationship
 between edges, such as the line between ocean and shore or mountain and
 valley, is as diverse as the areas on either side. To take advantage of this
-edge effect, permaculture design uses circles, spirals, curves, vertical
+edge effect, [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] uses circles, spirals, curves, vertical
 growing space like trellises, and zigzags to create more edge space. The
 herb spiral creates tremendous edge within its small footprint: the winding
 path creates a long interface between different microclimates, and the
@@ -42,7 +41,7 @@ different growing requirements to coexist in a compact space.
 
 The specific placement of herbs on the spiral follows their individual
 preferences for moisture, sun, and soil conditions. At the top of the
-spiral, where conditions are driest and sunniest, Mediterranean herbs thrive:
+spiral, where conditions are driest and sunniest, [[query-best-mediterranean-herbs-for-beginner-herb-garden]] thrive:
 thyme, rosemary, and sage all prefer well-drained soil and full sun. These
 are the herbs that would suffer in wetter conditions lower on the spiral.
 Moving down the sunny side, oregano and lavender can be placed where they
@@ -72,8 +71,8 @@ gradient that different herbs need.
 The rocks or bricks forming the spiral walls serve an additional function
 beyond structure: they act as thermal mass, absorbing heat during the day
 and releasing it at night. This moderates temperature fluctuations and
-extends the growing season for heat-loving herbs at the top. Gaps between
-stones also provide habitat for beneficial insects and small creatures.
+extends the [[savory-growing-season-and-non-growing-season-management]] for heat-loving herbs at the top. Gaps between
+stones also provide [[query-how-do-i-design-habitat-for-beneficial-insects]] insects and small creatures.
 
 ## Integration with Other Garden Elements
 
@@ -112,4 +111,4 @@ to establish deep root systems over multiple years. The small pond at the
 base should be cleaned occasionally to prevent mosquito breeding, though
 moving water from the sprinkler typically prevents this. Over time, the
 spiral matures into a stable, self-regulating ecosystem that produces an
-abundance of culinary herbs with minimal ongoing input.
+abundance of [[holzer-medicinal-and-culinary-herbs-compendium]] with minimal ongoing input.

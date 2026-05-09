@@ -1,5 +1,5 @@
 ---
-title: "Soil Food Web vs Bacterial vs Fungal Soil"
+title: "Soil Food Web vs teaming-with-microbes-bacterial-vs-fungal-dominance Soil"
 created: 2026-04-28
 tags: [comparison, soil-biology, soil-food-web, fungal-dominant, bacterial-dominant]
 date: 2026-04-25
@@ -28,18 +28,18 @@ significant because different types of plants have evolved to thrive in soils do
 different microbial communities. Annual crops, vegetables, and most weeds generally prefer
 bacterial-dominated soils, while perennials, shrubs, and trees prefer fungal-dominated soils.
 
-Bacterial-dominated soils tend to have rapid nutrient cycling, which benefits fast-growing annual
+Bacterial-dominated soils tend to have rapid [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], which benefits fast-growing annual
 plants that need available nitrogen quickly. These soils are typically found in disturbed
 environments, tilled fields, and early successional ecosystems. Fungal-dominated soils cycle
-nutrients more slowly through fungal decomposition of tougher organic materials like lignin and
+nutrients more slowly through [[dighton-fungal-decomposition-leaf-litter-dynamics]] of tougher organic materials like lignin and
 cellulose, providing a steady, slow release of nutrients that suits woody perennials and mature
 ecosystems.
 
-Management practices directly influence the F:B ratio. Tilling the soil, adding green manures,
+Management practices directly influence the F:B ratio. Tilling the soil, adding [[jeavons-green-manures-cover-crops]],
 and applying simple composts tend to favor bacteria. Adding woody mulches, avoiding tillage, and
 using fungal-rich composts or inoculants shift the balance toward fungi. Understanding this
 dynamic allows growers to actively manage their soil microbiome in alignment with the crops they
-intend to grow, whether that is a vegetable garden, a pasture, or an orchard.
+intend to grow, whether that is a [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]], a pasture, or an orchard.
 
 Typical F:B ratio targets vary by system. Disturbed agricultural soils may have ratios of 0.1:1
 to 1:1 (bacterial dominated), while old-growth forests can reach ratios of 10:1 to 100:1
@@ -56,7 +56,7 @@ toward as they adjust their management practices.
 | Best For | Building overall soil health and resilience | Matching soil biology to crop type |
 | Measurement | Microscope counts of all organism groups | F:B ratio from lab or microscope analysis |
 | Drawbacks | Can be overwhelming for beginners | Oversimplifies by ignoring other trophic levels |
-| Primary Tools | Compost, compost tea, biological assessments | Mulch type, tillage decisions, inoculants |
+| Primary Tools | Compost, [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]], biological assessments | Mulch type, tillage decisions, inoculants |
 | Historical Roots | Soil ecology research, Ingham framework | succession ecology, soil microbiology |
 
 ## When to Choose the Soil Food Web Approach

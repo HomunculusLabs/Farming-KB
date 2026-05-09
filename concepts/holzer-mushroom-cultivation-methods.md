@@ -1,11 +1,12 @@
 ---
-title: Holzer Mushroom Cultivation Methods
+title: Holzer accessible-mushroom-cultivation-for-disabilities Methods
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Cultivating Mushrooms
@@ -30,7 +31,7 @@ Mushrooms are low in calories, rich in vitamins and minerals, high in fibre, and
 
 ## Growing Mushrooms on Wood
 
-Most mushrooms that grow on wood are cultivated in almost exactly the same way, with differences limited to slight preferences in log size, type of wood, temperature and humidity. The mushroom culture should be started in spring, giving the mycelium time to colonise the wood before frost.
+Most mushrooms that grow on wood are cultivated in almost exactly the same way, with differences limited to slight preferences in log size, type of wood, [[greg-green-temperature-and-humidity-control]]. The mushroom culture should be started in spring, giving the mycelium time to colonise the wood before frost.
 
 Only uncontaminated raw materials should be used. Mushrooms can absorb harmful substances and retain them. Trees near busy roads or industrial areas usually contain large amounts of heavy metals, making logs unsuitable for mushroom cultivation.
 
@@ -42,11 +43,11 @@ Related topics in this wiki include: [[sepp-holzer-method]], [[sepp-holzer-terra
 
 Sepp Holzer began farming on his family's steep mountain land in Austria as a teenager, learning through experimentation.
 The Krameterhof demonstrates that high-altitude farms can be more productive than conventional lowland operations.
-Holzer's fish ponds serve multiple functions: aquaculture, irrigation, fire protection, and microclimate creation.
-Terrace construction on slopes prevents erosion while creating level planting areas with improved water retention.
+Holzer's fish ponds serve multiple functions: aquaculture, irrigation, fire protection, and [[mollison-designers-microclimate-creation-frost-protection]].
+[[holzer-terrace-construction-guide]] on slopes prevents erosion while creating level planting areas with improved water retention.
 Mushroom cultivation on logs and in raised beds provides additional food production and aids decomposition.
 Holzer's pig paddock system uses animals to root and fertilize soil in controlled areas before planting.
-Ancient grain varieties selected for mountain conditions show superior resilience and nutritional quality.
+Ancient grain varieties selected for mountain conditions show superior resilience and [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
 ## Practical Considerations
 
 When working with Holzer Mushroom Cultivation Methods, several practical factors should be
@@ -63,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

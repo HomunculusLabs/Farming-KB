@@ -1,18 +1,13 @@
 ---
 title: "Composting and the Nutrient Cycle"
 created: 2026-04-28
-tags: [[permaculture, composting, nutrient-cycle, soil-health]
+tags: [permaculture, composting, nutrient-cycle, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-
-# Composting and the Nutrient Cycle
-
-Composting is the technique of controlled decomposition of
-food scraps and organic waste to create fertilizer, serving
-as a critical practice for maintaining the [[teaming-with-nutrients-organic-fertilizer-types-and-sources|nutrient cycle]]
+# Composting and the Nutrient Cycle Composting is the technique of controlled decomposition of food scraps and organic waste to create fertilizer, serving as a critical practice for maintaining the [[teaming-with-nutrients-organic-fertilizer-types-and-sources|nutrient cycle]]
 that sustains all ecological systems.
 
 ## The Nutrient Cycle
@@ -37,7 +32,7 @@ entire body decomposes and becomes fertilizer as well.
 Plants and animals do not truly use up nutrients; they
 constantly recycle them. Living things use nutrients and
 then place them back into the soils to continue the process
-anew. Plants use solar energy to mine inert minerals of the
+anew. Plants use [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] to mine inert minerals of the
 earth, make nutrients out of them and put them into
 circulation, basically forever.
 
@@ -49,7 +44,7 @@ plots fertilized by factory-made chemicals. The food is
 harvested and shipped worldwide. People consume it. Wasted
 food goes to ecologically inert landfills. The excreted
 nutrients are flushed into sewer systems. Our current system
-is actually designed to break down the nutrient cycle.
+is actually designed to [[query-can-fungi-break-down-plastic-pollution]] the nutrient cycle.
 
 Nutrients are harvested from one location, transported away,
 and then discarded. The ecology of food producing biomes
@@ -76,5 +71,5 @@ long-term soil carbon.
 
 ## Related Pages
 
-[[vermicomposting]] details worm-based composting systems for faster nutrient cycling.
+[[vermicomposting]] details worm-based composting systems for faster [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 [[microscope-identification-soil-organisms]] introduces the soil microorganisms that drive the composting process.

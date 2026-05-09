@@ -1,16 +1,14 @@
 ---
-title: Permaculture Ethics and Holmgren's 12 Principles
+title: williams pdc permaculture ethics and holmgrens principles and Holmgren's 12 Principles
 created: 2026-04-28
-tags: [[permaculture, holmgren, principles, ethics, design-framework]
+tags: [permaculture, holmgren, principles, ethics, design-framework]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+sources: [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-
 # [[permaculture-design]] framework is built upon three core ethics and
-twelve principles articulated by [[creatively-use-and-respond-to-change]]
+twelve principles articulated by creatively-use-and-respond-to-change
 
 Things change, and fighting change causes environmental damage.
 Ecosystems evolve, and even perfectly installed systems will change
@@ -19,12 +17,12 @@ up, and earthworks will slowly alter topography. A good design accounts
 for predictable change and adapts to the unpredictable. There is no
 "bad" ecological evolution as long as you are prepared to adapt.
 
-## Principle 4: [[integrate-rather-than-segregate]]
+## Principle 4: integrate-rather-than-segregate
 
 Monocropping (one plant type) is segregation; polycropping (multiple
 species) is integration. This principle applies to everything: plants,
-building materials, design philosophies, and social norms. A good
-permaculture design integrates as many elements as possible, locking
+[[natural-building-materials-guide]], design philosophies, and social norms. A good
+[[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] integrates as many elements as possible, locking
 them together so they achieve more working as a team than separately.
 
 ## Principle 6: Accept Feedback and Self-Regulate
@@ -49,7 +47,7 @@ products simultaneously.
 
 In nature there is no waste, only nutrients constantly re-used in an
 endless cycle. Waste is a completely human invention. From a
-permaculture perspective, waste is a resource management issue. Almost
+permaculture perspective, waste is a [[savory-holistic-resource-management-animal-impact]] issue. Almost
 any material can be re-used, recycled, or repurposed. The only limit
 is the imagination and skill of the designer. Waste is a choice and a
 design issue.
@@ -61,7 +59,7 @@ robust and resilient it is. This applies to ALL things: plants,
 building materials, economic systems, and methods of transportation.
 For any type of system, diversity is strength.
 
-## Principle 10: [[use-edges-and-value-the-marginal]]
+## Principle 10: use-edges-and-value-the-marginal
 
 An edge is where two different things meet. Most yards have feet of
 empty space lining their edges. Vertical marginal space is also
@@ -88,4 +86,5 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[williams-pdc-permaculture-ethics-and-principles-in-practice]]

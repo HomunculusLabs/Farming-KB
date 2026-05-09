@@ -11,7 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-
 
 ## Overview
 
-Arbuscular mycorrhizal fungi (AMF) can protect host plants against soilborne pathogens including Phytophthora nicotianae, a major pathogen of tomato. The biocontrol mechanisms are diverse, interrelated, and often synergistic, involving changes in root exudation patterns, induction of plant defense pathways, and modifications to the rhizosphere microbial community.
+[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF) can protect host plants against soilborne pathogens including Phytophthora nicotianae, a major pathogen of tomato. The [[singh-trichoderma-biocontrol-mechanisms-applications]] are diverse, interrelated, and often synergistic, involving changes in root exudation patterns, induction of plant defense pathways, and modifications to the rhizosphere [[edaphic-factors-microbial-community-structure]].
 
 ## The Pathogen: Phytophthora nicotianae
 
@@ -19,7 +19,7 @@ Arbuscular mycorrhizal fungi (AMF) can protect host plants against soilborne pat
 - Possesses a diploid life cycle, proliferating mainly by mobile spores (zoospores) formed during asexual reproduction
 - Zoospores swim towards roots in soil solution, attracted primarily to root subapices where exudates are liberated
 - Conditions favoring zoospore formation: high temperature (20-25 degrees C) and humidity
-- Zoospore chemotaxy is driven by root exudates including ethanol, sugars, amino acids, organic acids, secondary metabolites, and volatiles
+- Zoospore chemotaxy is driven by root exudates including ethanol, sugars, amino acids, organic acids, [[antifungal-secondary-metabolites-coprophilous-fungi]], and volatiles
 - For P. nicotianae specifically: attracted by sucrose, dextrose, fructose, rhamnose, maltose, asparagine, and glutamine
 
 ## AMF Biocontrol Mechanisms
@@ -30,7 +30,7 @@ Arbuscular mycorrhizal fungi (AMF) can protect host plants against soilborne pat
 - Cell wall thickenings rich in pectin in colonized areas
 
 ### Systemic Defense (ISR)
-- In nonmycorrhizal roots of plants colonized with G. mosseae: accumulation of PR-1 proteins and cell wall modifications characteristic of induced systemic resistance (ISR)
+- In nonmycorrhizal roots of plants colonized with G. mosseae: accumulation of PR-1 proteins and cell wall modifications characteristic of [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance (ISR)
 - Reduction of pathogen development is systemic -- occurs in both mycorrhizal and non-colonized root parts
 - New isoform of superoxide dismutase detected after colonization with both G. mosseae and G. intraradices
 
@@ -39,7 +39,7 @@ Arbuscular mycorrhizal fungi (AMF) can protect host plants against soilborne pat
 - JA is essential for ISR provoked by rhizobacteria
 - JA accumulates within cortical cells containing arbuscules, potentially reducing pathogen proliferation
 - P. nicotianae hyphae never observed in same cells as those containing G. mosseae (Cordier et al. 1996)
-- Overexpression of JA-biosynthetic genes increases JA levels but reduces mycorrhizal colonization
+- Overexpression of JA-biosynthetic genes increases JA levels but reduces [[arbuscular-mycorrhizal-colonization-patterns]]
 
 ### Root Exudate Modification
 The most direct biocontrol mechanism involves changes in root exudation patterns:
@@ -81,6 +81,9 @@ Using compartmented soil systems where tomato plants were colonized with G. moss
 
 ## See Also
 
-- [[mycorrhizal-pathogen-resistance]]
+- mycorrhizal-pathogen-resistance
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[fungal-soil-aggregate-formation-glomalin]]
+- fungal-soil-aggregate-formation-glomalin
+- [[root-exudates]]
+- [[integrated-pest-management]]
+- [[mycorrhizal-fungi]]

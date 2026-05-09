@@ -1,5 +1,5 @@
 ---
-title: "Carnot Cycle and Heat Engines"
+title: "Carnot Cycle and query-why-cant-heat-engines-be-100-percent-efficient"
 type: topic
 category: thermodynamics
 tags: [thermodynamics, heat-engines, carnot-cycle, entropy, energy-conversion]
@@ -14,7 +14,7 @@ It describes a theoretical engine operating between a hot reservoir and a cold r
 The cycle converts part of the heat flowing from high temperature to low temperature into mechanical work.
 Its importance is not that it represents a practical machine, but that it sets a boundary no practical machine can exceed.
 For this reason the Carnot cycle is central to thermodynamics, power engineering, refrigeration, and [[exergy-analysis]].
-The cycle was proposed by Nicolas Léonard [[sadi-carnot]] in 1824 in his study of the motive power of fire.
+The cycle was proposed by Nicolas Lé in 1824 in his study of the motive power of fire.
 Carnot wrote before the modern energy concept was fully established and still used the caloric theory of heat.
 Despite that obsolete framework, his temperature-based efficiency result survived the transition to modern thermodynamics.
 Later work by Émile Clapeyron, Rudolf Clausius, and William Thomson connected Carnot's argument to pressure-volume diagrams and entropy.
@@ -28,7 +28,7 @@ Carnot approached the problem by asking what an ideal heat engine would do if al
 He compared heat flow to water falling through a height: useful work required a difference in level, or in this case temperature.
 This analogy led him to see that an engine's maximum performance depended on the temperatures of its reservoirs.
 Carnot's work was obscure during his lifetime and only became influential after Clapeyron reformulated it mathematically.
-Clausius later replaced caloric reasoning with energy conservation plus entropy production.
+Clausius later replaced caloric reasoning with [[mollison-designers-home-energy-conservation-and-solar-heating]] plus entropy production.
 Kelvin used Carnot's result to define an absolute thermodynamic temperature scale.
 Together these developments made the Carnot cycle more than an engine model: it became a statement about nature's limits.
 
@@ -131,7 +131,7 @@ The Carnot refrigerator nevertheless remains the reference limit for cooling and
 ## Engineering Significance
 
 The Carnot cycle gives engineers a simple way to distinguish energy quantity from energy quality.
-A joule of heat at high temperature can yield more work than a joule of heat near ambient temperature.
+A joule of heat at high temperature can yield more work than a joule of heat near [[jadam-ambient-temperature-principle]].
 This idea underlies exergy analysis, which measures maximum useful work relative to the environment.
 Power-plant designers use Carnot reasoning to justify higher boiler temperatures, lower condenser temperatures, reheat, regeneration, and combined cycles.
 Materials engineers use it to understand why hotter turbines promise higher efficiency but demand creep-resistant alloys and cooling systems.

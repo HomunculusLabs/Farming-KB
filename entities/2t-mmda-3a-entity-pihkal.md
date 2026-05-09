@@ -1,5 +1,5 @@
 ---
-title: "2T-MMDA-3a (3,4-METHYLENEDIOXY-2-METHYLTHIOAMPHETAMINE) -- PIHKAL Entry #166"
+title: "2T-MMDA-3a (3,4-METHYLENEDIOXY-2-METHYLTHIOAMPHETAMINE) -- 2c-b-pihkal-entry-20 #166"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -86,7 +86,7 @@ of dimethyl disulfide. The color immediately vanished and there was
 the formation of a white precipitate. The temperature was allowed to
 return to ice bath temperature, and then all volatiles were removed
 under vacuum. The residue was poured into 500 mL H2O and acidified
-with HCl. After heating for 1 h on the steam bath, the reaction
+with HCl. After heating for 1 h on the [[scythian-cannabis-steam-bath-ritual]], the reaction
 mixture was cooled, producing a gummy solid that was shown to be a
 complex mixture by TLC. But there was a single fluorescent spot that
 was the product aldehyde and it was pursued. Extraction with 3x75 mL
@@ -112,7 +112,7 @@ a product that had a mp of 94-95 deg C. The mixed mp with the
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

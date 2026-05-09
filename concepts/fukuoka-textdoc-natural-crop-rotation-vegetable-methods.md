@@ -1,5 +1,5 @@
 ---
-title: Natural Crop Rotation and Vegetable Growing Methods
+title: Natural comparison-crop-rotation-vs-cover-cropping and fukuoka-semi-wild-vegetable-growing-natural-method Methods
 created: 2026-04-28
 tags: [crop-rotation, vegetables, semi-wild-cultivation, soil-fertility, polyculture]
 date: 2026-04-28
@@ -55,7 +55,7 @@ fowl loose among them. Most vegetable seeds germinate quite easily and the
 young seedlings grow more vigorously than one might imagine. Things to watch
 out for include the tendency of semi-wild vegetables to revert to a more
 primitive state, and the need to choose appropriate companion plants that do
-not compete excessively with the fruit trees. The method of semi-wild
+not compete excessively with the [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]. The method of semi-wild
 vegetable cultivation requires careful attention to timing and plant
 selection, but the results are remarkably productive.
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

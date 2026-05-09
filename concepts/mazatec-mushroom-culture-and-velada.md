@@ -1,20 +1,18 @@
 ---
-title: Mazatec Mushroom Culture and the Velada
+title: maria-sabina-mazatec-mushroom-ceremony Culture and the Velada
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, mushrooms]
+tags: [mycology, mushrooms]
 sources: [papers/unknown-mushroom-culture-patent-2761246.md]
 ---
-# Mazatec Mushroom Culture and the Velada
-
-The [[psychedelic-mushroom-decriminalization]] use in the world. Their mushroom vigils,
+# Mazatec Mushroom Culture and the Velada The [[psychedelic-mushroom-decriminalization]] use in the world. Their mushroom vigils,
 known as veladas, represent a sophisticated indigenous practice that combines
 healing, divination, and spiritual encounter.
 
 ## Mazatec Cosmology and the Sacred Mushrooms
 
-In Mazatec culture, psychoactive mushrooms are not regarded merely as drugs or
+In Mazatec culture, [[ceremonial-shamanic-use-psychoactive-mushrooms]] are not regarded merely as drugs or
 medicines but as sentient beings. They are known as "nti xi tho" or "the little
 ones that spring forth," and are believed to possess their own intelligence and
 agency.
@@ -32,7 +30,7 @@ of illnesses and can indicate the location of lost or stolen property.
 
 ## The Velada Ceremony
 
-The velada (from the Spanish for "night vigil") is the ceremonial context in
+The velada (from the Spanish for "night vigil") is the [[kava-traditional-preparation-ceremonial-context]] in
 which mushrooms are consumed under the guidance of a curandero. The ceremony
 follows a relatively consistent structure, though individual curanderos may vary
 their approach.
@@ -99,7 +97,7 @@ internationally known. Sabina began eating mushrooms intentionally as a child of
 about six or seven, growing up in a culture where the highest class of healers
 derived their powers from the sacred mushrooms.
 
-She conducted her first healing ceremony at approximately eight years old. Her
+She conducted her first [[entheogen-cimora-folk-healing-ceremony]] at approximately eight years old. Her
 reputation as a "curandera de primera" (healer of the first quality) attracted
 Wasson to Huautla and eventually made her a countercultural icon.
 
@@ -109,7 +107,7 @@ regret about her role in making the mushroom knowledge available to outsiders.
 
 ## Curandero Training
 
-Becoming a curandero in the Mazatec tradition involves years of training and
+Becoming a curandero in the [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]] involves years of training and
 initiation. The mushrooms themselves are understood to select and train their
 practitioners. A curandero's authority derives from their relationship with the
 mushroom spirits, not from any institutional credential.

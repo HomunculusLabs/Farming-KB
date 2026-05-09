@@ -23,7 +23,7 @@ sources:
 
 # MAC (Miracle Alien Cookies)
 
-**MAC**, also known as **Miracle Alien Cookies**, is a premium cannabis hybrid strain renowned for its exceptional resin production, complex terpene profile, and potent effects. Created by the breeder **Capulator** of **Alien Genetics**, MAC has become one of the most sought-after and commercially successful modern cannabis cultivars, serving as a foundational parent for numerous subsequent crosses.
+**MAC**, also known as **Miracle Alien Cookies**, is a premium cannabis hybrid strain renowned for its exceptional [[cannabis-glandular-trichome-types-resin-production-clarke]], complex terpene profile, and potent effects. Created by the breeder **Capulator** of **Alien Genetics**, MAC has become one of the most sought-after and commercially successful modern cannabis cultivars, serving as a foundational parent for numerous subsequent crosses.
 
 ## Genetic Lineage
 
@@ -55,7 +55,7 @@ MAC buds are visually striking and immediately recognizable:
 - **Color:** Light to medium green with occasional flashes of deep violet, especially when exposed to cooler nighttime temperatures during late flowering; some phenotypes display striking pinkish-purple hues
 - **Trichomes:** Extraordinarily heavy — a defining characteristic; buds appear coated in a thick layer of milky-white to amber glandular trichomes, giving them a frosted, almost powdered sugar appearance
 - **Pistils:** Abundant, long, orange to rust-colored stigmas winding through the bud structure
-- **Leaf:** Broad indica-dominant fan leaves during vegetative growth
+- **Leaf:** Broad indica-dominant fan leaves during [[cannabis-vegetative-growth-stage]]
 
 ## Aroma and Terpene Profile
 
@@ -124,13 +124,13 @@ MAC is suitable for intermediate to experienced growers:
   - Prefers warm, Mediterranean-like climate
   - Medium to tall height (120–180 cm); may require support for heavy colas
 - **Resin production:** Exceptional — makes excellent candidates for solventless extraction (rosin, ice water hash) and hydrocarbon extraction
-- **Pest and disease resistance:** Moderate; dense buds require attention to humidity management
+- **[[hamilton-pest-and-disease-control-organic]] resistance:** Moderate; dense buds require attention to [[stamets-cultivator-humidity-management-fogging-systems]]
 
 ## History
 
-MAC was created by **Capulator**, a breeder known for his work with Alien Genetics. The strain gained widespread recognition in the **2016–2018 period** when it won multiple awards at cannabis competitions across North America. MAC 1, a specific phenotype selected by Capulator himself, became particularly prized for its superior expression of the original cross.
+MAC was created by **Capulator**, a breeder known for his work with Alien Genetics. The strain gained widespread recognition in the **2016–2018 period** when it won multiple awards at cannabis competitions across [[psilocybin-north-america-pacific-northwest]]. MAC 1, a specific phenotype selected by Capulator himself, became particularly prized for its superior expression of the original cross.
 
-The strain's commercial success helped establish the "cookie family" lineage as one of the most commercially important genetic groups in modern cannabis breeding, alongside Kush, Haze, and Skunk families.
+The strain's commercial success helped establish the "cookie family" lineage as one of the most commercially important genetic groups in modern [[oner-cannabis-breeding-fundamentals]], alongside Kush, Haze, and Skunk families.
 
 ## See Also
 

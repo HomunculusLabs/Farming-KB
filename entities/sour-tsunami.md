@@ -15,7 +15,7 @@ sources:
   - "Ringo, L. (2011). Soure Tsunami breeding notes.
     Southern Humboldt Seed Collective."
   - "De Meijer, E.P. et al. (2003). \"The inheritance of
-    chemical phenotype in Cannabis sativa L.\" Genetics,
+    chemical phenotype in [[comparison-cannabis-sativa-vs-cannabis-indica]] L.\" Genetics,
     163(1), 335-346."
   - "Ligresti, A. et al. (2006). \"Antitumor activity of
     plant cannabinoids.\" Molecular Cancer Therapeutics,
@@ -96,7 +96,7 @@ cannabidiolic acid (CBDA) synthase activity.
 | CBC | Trace | Present in most phenotypes |
 | CBD:THC ratio | 10:1 to 20:1 | Therapeutic focus |
 
-Phenotype selection is critical for maintaining high CBD ratios.
+[[vic-high-cannabis-phenotype-selection-criteria]] is critical for maintaining high CBD ratios.
 Without selection, plants may express THC:CBD ratios closer to 1:1.
 
 ## Effects
@@ -112,14 +112,14 @@ Without selection, plants may express THC:CBD ratios closer to 1:1.
 
 ## Medical Applications
 
-- **Epilepsy and seizure disorders:** High-CBD profile associated
+- **[[cannabis-for-epilepsy-and-seizure-disorders]] disorders:** High-CBD profile associated
   with anticonvulsant properties; foundational genetics for
   Charlotte's Web lineage
 - **Chronic pain:** Anti-inflammatory and analgesic without
   cognitive impairment
-- **Anxiety and PTSD:** Anxiolytic effects of CBD without THC-induced
+- **[[cannabis-anxiety-and-ptsd-treatment]]:** Anxiolytic effects of CBD without THC-induced
   paranoia
-- **Autoimmune conditions:** CBD modulates immune response and
+- **[[cannabis-autoimmune-conditions-detailed]]:** CBD modulates immune response and
   reduces inflammatory markers
 - **Neuroprotection:** Antioxidant and neuroprotective properties
   documented in preclinical studies
@@ -135,7 +135,7 @@ Without selection, plants may express THC:CBD ratios closer to 1:1.
 - **Difficulty:** Moderate; requires phenotype selection to maintain
   CBD-dominant profile
 - **Pest resistance:** Moderate susceptibility to spider mites and
-  powdery mildew
+  [[cervantes-powdery-mildew-prevention-treatment]]
 
 ## See Also
 

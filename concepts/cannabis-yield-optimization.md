@@ -12,11 +12,11 @@ tags: [cannabis]
 
 ## Overview
 
-Yield optimization in cannabis cultivation involves maximizing the quantity and quality of harvested material per unit of resources invested. According to Cervantes, a baseline target for indoor growers is 0.5 grams of dried bud every month for each watt of light in the flowering room. Growers who do not achieve this benchmark need to master the basics of growing.
+Yield optimization in [[query-how-does-no-till-cannabis-cultivation-work]] involves maximizing the quantity and quality of harvested material per unit of resources invested. According to Cervantes, a baseline target for indoor growers is 0.5 grams of dried bud every month for each watt of light in the flowering room. Growers who do not achieve this benchmark need to master the basics of growing.
 
 ## Yield Per Watt Benchmark
 
-The yield-per-watt metric is the primary standard for evaluating indoor cannabis cultivation efficiency:
+The yield-per-watt metric is the primary standard for evaluating [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]] cultivation efficiency:
 
 - Target: 0.5 grams dried bud per watt of light per month
 - This applies to the flowering room specifically
@@ -51,17 +51,17 @@ Different strains produce vastly different yields:
 Several techniques directly affect harvest weight:
 
 - Pruning lower branches can redirect energy to top colas
-- Screen of green (SCROG) methods maximize light utilization per square foot
+- [[cannabis-screen-of-green-scrog-guide]] (SCROG) methods maximize light utilization per square foot
 - Sea of green (SOG) enables faster turnover with many small plants
 - Removing large fan leaves before harvest speeds drying without affecting quality
 - Proper spacing prevents overcrowding and light competition
 
 ### Environmental Control
 
-Environmental factors that impact yield:
+[[duggar-mushroom-environmental-factors-temperature-moisture-light]] that impact yield:
 
-- Temperature range of 65-75F (18-24C) during flowering
-- Humidity control at 45-55 percent during drying
+- [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] of 65-75F (18-24C) during flowering
+- [[cervantes-humidity-control-dehumidification]] at 45-55 percent during drying
 - Adequate CO2 enrichment can boost yields significantly
 - Proper ventilation prevents mold and supports healthy growth
 - Clean water with appropriate pH and nutrient levels

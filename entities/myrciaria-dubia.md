@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - McVaugh, R. (1963). "Tropical American Myrtaceae: Myrciaria and Allied
     Genera." Fieldiana: Botany 29(5): 145-172.
-  - Justi, K.C. et al. (2000). "Nutritional Composition and Vitamin C
+  - Justi, K.C. et al. (2000). "[[dighton-fungal-nutritional-composition-animal-diets]] and Vitamin C
     Stability of Camu-Camu." Archives of Latinoamerican Nutrition 50(4): 405-408.
   - Langguth, H.F. et al. (2015). "Camu-Camu (Myrciaria dubia)." Fruits 70(4).
   - Akter, M.S. et al. (2011). "Camu-Camu: Composition and Health Benefits."
@@ -109,12 +109,12 @@ The health-promoting properties of camu camu extend beyond vitamin C:
   for any fruit, from the synergistic combination of vitamin C,
   anthocyanins, and ellagitannins.
 - **Antidiabetic potential:** In animal studies, camu camu extract
-  improved glucose tolerance and reduced metabolic syndrome markers,
+  improved glucose tolerance and reduced [[cannabis-metabolic-syndrome-research]] markers,
   with effects exceeding equivalent vitamin C alone.
-- **Immune modulation:** Vitamin C at these concentrations supports
+- **[[cancer-immune-modulation-mechanisms]]:** Vitamin C at these concentrations supports
   neutrophil function, collagen synthesis, and adaptive immunity.
 
-Clinical trials show improvements in oxidative stress and inflammatory
+Clinical trials show improvements in [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] and inflammatory
 biomarkers with regular consumption.
 
 ## Cultivation and Permaculture
@@ -133,8 +133,8 @@ In permaculture systems, camu camu serves multiple functions:
 - **Food forest understory:** Tolerates partial shade when young,
   producing under a canopy of larger fruit trees.
 - **Riparian stabilizer:** Useful for stream bank restoration and
-  erosion control in tropical waterlogged soils.
-- **Nutrient cycling:** Leaf litter contributes organic matter to
+  [[permplant-willows-salix-erosion-control-fodder]] in tropical waterlogged soils.
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]:** Leaf litter contributes organic matter to
   floodplain soil systems.
 - **Economic output:** High-value fruit provides income for Amazonian
   communities without requiring deforestation.

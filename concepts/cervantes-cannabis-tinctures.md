@@ -1,11 +1,12 @@
 ---
-title: Cannabis Tinctures
+title: query-how-to-make-cannabis-tinctures-at-home
 type: concept
 created: 2026-04-25
 type: concept
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 tags: [cannabis, tincture, alcohol, extraction, medicine]
 ---
 
@@ -36,7 +37,7 @@ completely.
 ## Tincture Recipe
 
 Ingredients:
-- 4 ounces (112 grams) of clean cannabis leaf
+- 4 ounces (112 grams) of clean [[cannabis-leaf-morphology-and-phyllotaxy]]
 - 2 quarts (about 2 liters) of lukewarm water (90 degrees F /
   32 degrees C)
 - 1 quart (0.95 L) of 80 proof or higher alcohol
@@ -53,7 +54,7 @@ Step 1: Chlorophyll Removal
 - This step washes out much of the green chlorophyll,
   improving the final flavor.
 
-Step 2: Alcohol Extraction
+Step 2: [[pf-tek-alcohol-extraction-method]]
 - Place the wet foliage in a bowl and cover with 1 quart of
   alcohol of your choice.
 - Stir until alcohol and foliage are well-mixed.

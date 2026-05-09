@@ -23,7 +23,7 @@ sources:
 
 # Donald E. Teeter
 
-Author of "Amanita Muscaria: Herb of Immortality" (revised 2007, copyright 2005), published through the Ambrosia Society. An independent researcher who spent over 35 years investigating the hypothesis that Amanita muscaria was the original sacramental plant of Indo-European religion.
+Author of "[[allegro-amanita-muscaria-properties-and-pharmacology]]: [[amanita-muscaria-herb-of-immortality-soma-hypothesis]]" (revised 2007, copyright 2005), published through the Ambrosia Society. An independent researcher who spent over 35 years investigating the hypothesis that Amanita muscaria was the original sacramental plant of Indo-European religion.
 
 ## Research Background
 
@@ -37,7 +37,7 @@ He was influenced by R. Gordon Wasson's "Soma: Divine Mushroom of Immortality" (
 Teeter documented that dried Amanita muscaria resurrects into living mycelium within 3 days when rehydrated in liquid food sources (grape juice, honey water, barley water). He argues this biological property is the literal origin of resurrection myths across Indo-European religions.
 
 ### Preparation Methods
-Developed and documented multiple Amanita preparation methods: ambrosia (cold water extract), sacred wine (grape juice extract), seer's milk (milk fermentation), holy oil (topical), and "living bread" (barley inoculation).
+Developed and documented multiple Amanita preparation methods: ambrosia (cold water extract), sacred wine (grape juice extract), seer's milk (milk fermentation), holy oil (topical), and "[[amanita-muscaria-living-bread-sacrament]]" (barley inoculation).
 
 ### The Dilution Paradox
 Discovered that Amanita muscaria wine extract becomes paradoxically more potent and psychedelic (similar to psilocybin/LSD) when diluted with water -- the opposite of every other drug extract. He theorizes muscimol's polar molecules form chains in solution that are broken by dilution into individual psychoactive units.
@@ -46,7 +46,7 @@ Discovered that Amanita muscaria wine extract becomes paradoxically more potent 
 Reports anecdotal evidence of: cold sore/herpes remission (14+ years), arthritis/bursitis pain relief, dental infection relief, anti-anxiety and insomnia effects at low doses.
 
 ### The Grail Connection
-Proposed that the Holy Grail was literally a terra cotta vessel containing perpetually living Amanita muscaria mycelium, published separately as "Natural Magic: Recreating the Grail."
+Proposed that the [[amanita-muscaria-holy-grail-theory-detailed]] was literally a terra cotta vessel containing perpetually living Amanita muscaria mycelium, published separately as "Natural Magic: Recreating the Grail."
 
 ## The Ambrosia Society
 
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,17 +1,13 @@
 ---
-title: Fungal Treatment of Textile Dyes -- Mechanisms and Processes
+title: singh-biopile-fungal-treatment-contaminated-soil of fungal treatment of textile dyes mechanisms -- Mechanisms and Processes
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources: []
 ---
-
-# Fungal Treatment of Textile Dyes -- Mechanisms and Processes
-
-Updated: 2026-04-18
-
-Textile dye effluents are among the most challenging industrial wastewaters due to their intense colour, chemical complexity, and toxicity. Dye house effluents contain numerous chromophore types including azo, triphenylmethane, metal phthalocyanin, anthraquinone, heterocyclic, indigo, and polymeric dyes. White rot fungi and their ligninolytic enzymes offer effective biological treatment through mechanisms analogous to [[fungal-degradation-of-textile-dyes]].
+# Fungal Treatment of Textile Dyes -- Mechanisms and Processes Updated: 2026-04-18 Textile dye effluents are among the most challenging industrial wastewaters due to their intense colour, chemical complexity, and toxicity. Dye house effluents contain numerous chromophore types including azo, triphenylmethane, metal phthalocyanin, anthraquinone, heterocyclic, indigo, and polymeric dyes. White rot fungi and their ligninolytic enzymes offer effective biological treatment through mechanisms analogous to [[fungal-degradation-of-textile-dyes]].
 
 ## Mechanisms of Decolorization
 
@@ -21,18 +17,18 @@ Two main mechanisms operate in biological decolorization:
 Positively charged dyes like triphenylmethanes and basic azo dyes can adsorb to the negatively charged fungal cell surface through charge interaction. Adsorption is typically rapid and can be modeled using Langmuir or Freundlich isotherms. With white rot fungi, adsorption alone is usually insufficient -- it serves as a preliminary step bringing chromophores into contact with surface-associated degradative enzymes.
 
 ### Enzymatic Degradation
-The principal mechanism in white rot fungi involves oxidative degradation by [[brown-rot-fungi-biodegradation]] oxidizes phenolic groups on dyes, generating radicals that lead to bond cleavage and decolorization. In the presence of mediators (e.g., ABTS, HBT), laccase can also degrade non-phenolic dye structures. Laccase from Pycnoporus cinnabarinus shows different pH optima for different dye substrates. Laccase bioreactors have demonstrated effective treatment of azo, anthraquinone, and triphenylmethane dyes.
+The principal mechanism in white rot fungi involves oxidative degradation by brown-rot-fungi-biodegradation oxidizes phenolic groups on dyes, generating radicals that lead to bond cleavage and decolorization. In the presence of mediators (e.g., ABTS, HBT), laccase can also degrade non-phenolic dye structures. Laccase from Pycnoporus cinnabarinus shows different pH optima for different dye substrates. Laccase bioreactors have demonstrated effective treatment of azo, anthraquinone, and triphenylmethane dyes.
 
 ### Manganese Peroxidase
 MnP generates Mn(III)-organic acid chelates that act as diffusible oxidants, attacking dye chromophores including those in regions inaccessible to the enzyme itself.
 
 ### Lignin Peroxidase
-LiP can directly oxidize non-phenolic aromatic structures in dyes through its high redox potential. Different LiP isoenzymes show different pH optima for dye decolorization.
+LiP can directly oxidize non-phenolic aromatic structures in dyes through its high redox potential. Different LiP isoenzymes show different pH optima for [[singh-textile-dye-decolorization-fungal]].
 
 ## Factors Affecting Decolorization
 
 ### pH and Buffering
-Most white rot fungi show optimal decolorization at pH 4-5.5. Fungal growth on carbohydrates often produces organic acids that self-buffer the medium. For practical applications, automatic pH control is preferable to adding buffers, which increase BOD/COD and may cause eutrophication. The optimum pH for long-term enzyme stability may differ from the pH for maximum initial reaction rate.
+Most white rot fungi show optimal decolorization at pH 4-5.5. [[brassinosteroid-fungal-growth-promotion]] on carbohydrates often produces organic acids that self-buffer the medium. For practical applications, automatic pH control is preferable to adding buffers, which increase BOD/COD and may cause eutrophication. The optimum pH for long-term enzyme stability may differ from the pH for maximum initial reaction rate.
 
 ### Carbon Source
 Glucose (5-10 g/L) is the standard co-substrate, though xylose, fructose, sucrose, glycerol, and ethanol also work. Carbon sources fuel fungal oxidases that produce H2O2 needed by peroxidases. For reused mycelia, carbon source is essential to maintain activity. Starch and xylan are useful but cellulose is surprisingly ineffective.
@@ -52,10 +48,10 @@ Various bioreactor configurations have been tested:
 - Membrane bioreactors (hollow fibre)
 - Continuous and sequential batch processes
 
-Immobilization in alginate beads, urethane foam, or on jute rope enables repeated reuse of fungal biomass and is essential for continuous treatment processes. See [[fungal-immobilization-bioreactor-systems]], and [[fungal-textile-dye-effluent-decolorization]]
+Immobilization in alginate beads, urethane foam, or on jute rope enables repeated reuse of [[bioremediation-fungal-biomass-biosorbent-material]] and is essential for continuous treatment processes. See [[fungal-immobilization-bioreactor-systems]], and [[fungal-textile-dye-effluent-decolorization]]
 - [[textile-dye-bioremediation]]
 - [[fungal-bioremediation-mechanisms]]
-- [[white-rot-fungi-effluent-decolorization]]
+- white-rot-fungi-effluent-decolorization
 ## Practical Considerations
 
 When working with Fungal Treatment of Textile Dyes -- Mechanisms and Processes, several practical factors should be
@@ -72,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

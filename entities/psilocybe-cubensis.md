@@ -1,5 +1,5 @@
 ---
-title: Psilocybe cubensis
+title: brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting
 type: species
 tags:
   - fungi
@@ -13,12 +13,12 @@ updated: 2026-04-28
 sources:
   - Guzmán G, Allen JW, Gartz J. "A worldwide geographical distribution of the neurotropic fungi." Mycotaxon. 1998.
   - Stijve T, Kuyper TW. "Occurrence of psilocybin in various higher fungi." Persoonia. 1985.
-  - Stamets P. "Psilocybin Mushrooms of the World." Ten Speed Press. 1996.
+  - Stamets P. "[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World." Ten Speed Press. 1996.
 ---
 
 # Psilocybe cubensis
 
-**Psilocybe cubensis** is a species of psychedelic mushroom whose principal active compounds are psilocybin and psilocin. It is the most widely known and cultivated psilocybin mushroom, belonging to the family Hymenogastraceae in the order Agaricales.
+**Psilocybe cubensis** is a species of [[archaeology-of-psychedelic-mushroom-use]] whose principal active compounds are psilocybin and psilocin. It is the most widely known and cultivated psilocybin mushroom, belonging to the family Hymenogastraceae in the order Agaricales.
 
 ## Taxonomy
 
@@ -78,9 +78,9 @@ Dozens of cultivated strains exist, each with distinctive morphological and pote
 
 ## Cultivation
 
-*P. cubensis* is the easiest psilocybin mushroom to cultivate due to its fast colonization speed and relatively undemanding environmental requirements. Standard cultivation methods include:
+*P. cubensis* is the easiest psilocybin mushroom to cultivate due to its fast colonization speed and relatively undemanding environmental requirements. Standard [[synthetic-log-cultivation-methods-guide]] include:
 
-1. **PF Tek (Psilocybe Fanaticus Technique):** Beginner-friendly method using brown rice flour and vermiculite in half-pint mason jars.
+1. **PF Tek ([[pf-tek-psilocybe-fanaticus-cultivation-method]] Technique):** Beginner-friendly method using brown rice flour and vermiculite in half-pint mason jars.
 2. **Monotub Cultivation:** Bulk method using grain spawn inoculated into a pasteurized bulk substrate (coconut coir, vermiculite, gypsum).
 3. **Straw/Log Cultivation:** Less common for *P. cubensis* but viable using pasteurized wheat or oat straw.
 
@@ -114,7 +114,7 @@ Modern Western rediscovery is attributed to R. Gordon Wasson, who participated i
 
 ## Therapeutic Potential
 
-Recent clinical research has explored psilocybin-assisted therapy for:
+Recent [[hofmann-lsd-clinical-research-early-studies]] has explored psilocybin-assisted therapy for:
 
 - Treatment-resistant depression (TRD)
 - End-of-life anxiety in terminal illness
@@ -133,6 +133,17 @@ A landmark 2021 study published in *NEJM* found that a single 25 mg dose of synt
 - Precipitation of psychotic episodes in individuals with personal or family history of schizophrenia or bipolar disorder
 
 ## See Also
+
+- [[pleurocybella-porrigens]]
+
+- [[psilocybe-allenii]]
+- [[psilocybe-columbiana]]
+- [[psilocybe-kumaenorum]]
+- [[psilocybe-mairei]]
+- [[psilocybe-moseri]]
+- [[psilocybe-ovoidocystidiata]]
+- [[psilocybe-plutonia]]
+- [[psilocybe-verrucosa]]
 
 - [[psilocin]] — Active metabolite
 - [[golden-teacher-cannabis]] — Popular cultivated strain

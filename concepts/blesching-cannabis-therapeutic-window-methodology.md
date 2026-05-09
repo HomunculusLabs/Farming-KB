@@ -1,5 +1,5 @@
 ---
-title: "Cannabis Therapeutic Window Methodology"
+title: "blesching-cannabis-therapeutic-window-dosing Window Methodology"
 created: 2026-04-28
 tags: [cannabis, dosing, therapeutic-window, biphasic, dose-response, microdosing]
 date: 2026-04-25
@@ -24,20 +24,20 @@ curve where more drug produces more effect, cannabis cannabinoids frequently
 display biphasic (or U-shaped) dose-response patterns. This means that a
 dose that is too low may be ineffective, a dose within the therapeutic
 window produces optimal therapeutic effects, and a dose that exceeds the
-window may not only increase adverse effects but actually reverse the desired
+window may not only increase [[blesching-cannabis-safety-adverse-effects-evidence]] but actually reverse the desired
 therapeutic benefit. This biphasic phenomenon is one of the most important
 yet least understood aspects of cannabis pharmacology.
 
 The therapeutic window for cannabis varies significantly between individuals
 based on factors including body weight, metabolism, prior cannabis exposure,
-genetic variations in cannabinoid receptor density, the specific condition
+genetic variations in [[cannabis-cannabinoid-receptor-pharmacology]] density, the specific condition
 being treated, and the cannabinoid profile of the strain or preparation being
 used. What constitutes a therapeutic dose for one patient may be excessive for
 another and insufficient for a third. This inter-individual variability makes
-standardized dosing guidelines difficult to establish and emphasizes the
+standardized [[cannabis-dosing-guidelines-by-condition]] difficult to establish and emphasizes the
 importance of individualized titration.
 
-The Cannabis Health Index emphasizes that finding the right dose is often more
+The [[blesching-cannabis-health-index-autoimmune-conditions]] emphasizes that finding the right dose is often more
 important than finding the right strain. A suboptimal dose of an otherwise
 well-matched strain may produce disappointing results, while an optimally
 dosed strain with less-than-ideal characteristics may still provide meaningful
@@ -119,7 +119,7 @@ to several weeks.
 ## Strain-Specific Dosing Considerations
 
 Different cannabis strains produce different effects at the same dose due to
-variations in their cannabinoid and terpene profiles. A high-THC sativa strain
+variations in their cannabinoid and [[cannabis-terpene-profiles-sativa]]. A high-THC sativa strain
 may require a smaller dose to achieve therapeutic effects than a low-THC
 indica strain, but the sativa strain may also have a narrower therapeutic
 window before adverse effects appear. Patients should be prepared to adjust
@@ -127,6 +127,8 @@ their dose when switching between strains and should track their responses
 to different strain-dose combinations in a medication journal.
 
 ## Related
+
+- [[subjective-therapeutic-window-cannabis]]
 
 - [[blesching-cannabis-safety-profile]]
 - [[blesching-cannabis-four-prime-cannabinoids]]

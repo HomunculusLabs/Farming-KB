@@ -1,5 +1,5 @@
 ---
-title: Cannabis True Breeding and IBL Strains
+title: Cannabis cannabis true breeding ibl strains and IBL Strains
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -9,7 +9,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/vic-high-creating-true-breeding-strains.m
 
 Updated: 2026-04-18
 
-Creating a true breeding strain (Inbred Line or IBL) is the ultimate goal of cannabis breeding. An IBL is a strain where all individuals consistently express the same traits because key genes have been "locked down" as homozygous.
+Creating a true breeding strain (Inbred Line or IBL) is the ultimate goal of [[oner-cannabis-breeding-fundamentals]]. An IBL is a strain where all individuals consistently express the same traits because key genes have been "locked down" as homozygous.
 
 ## What Is an IBL?
 
@@ -25,7 +25,7 @@ IBLs are the foundation of reliable cannabis [[cannabis-breeding-basics]]
 
 ## Equipment and Space Requirements
 
-Test crosses require significant resources. Each test cross needs a dedicated growing space for the offspring population. A minimum of 100 plants per cross provides statistically meaningful results, though 500+ plants give more reliable conclusions. This means a dedicated breeding room or greenhouse with capacity for multiple simultaneous test populations. Proper labeling and record-keeping systems are critical — mislabeled plants can invalidate months of work.
+Test crosses require significant resources. Each test cross needs a dedicated [[cotter-growing-space-design-fruiting-rooms]] for the offspring population. A minimum of 100 plants per cross provides statistically meaningful results, though 500+ plants give more reliable conclusions. This means a dedicated breeding room or greenhouse with capacity for multiple simultaneous test populations. Proper labeling and record-keeping systems are critical — mislabeled plants can invalidate months of work.
 
 ## Common Mistakes
 
@@ -107,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

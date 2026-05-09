@@ -14,7 +14,7 @@ sources:
 Calocybe gambosa, commonly known as St. George's mushroom, is a highly
 prized edible basidiomycete in the family Tricholomataceae. Named for
 its reliable appearance around April 23rd (St. George's Day) in Europe,
-it is one of the first significant edible mushrooms of the spring
+it is one of the first significant [[palmer-edible-mushrooms-north-america]] of the spring
 foraging season. Found across Europe, North Africa, and western Asia,
 C. gambosa grows in grasslands, meadows, and pastures, often in fairy
 rings or arcs. It is considered one of the finest wild edible mushrooms
@@ -53,7 +53,7 @@ in 1938 based on spore and microscopic features.
 | Flesh | Thick, firm, white, unchanging when cut |
 | Odor | Strong, pleasant, flour-like (farinaceous) |
 | Taste | Mild, mealy, pleasant |
-| Spore print | White to pale cream |
+| [[comparison-spore-print-collection-vs-spore-syringe-production]] | White to pale cream |
 
 ### Microscopic Features
 
@@ -74,7 +74,7 @@ in 1938 based on spore and microscopic features.
 - **Substrate:** Terrestrial, growing from soil with grass roots.
 - **Season:** Spring — mid-April to early June, peak late April to
   mid-May. One of few large edibles fruiting in spring.
-- **Growth pattern:** Rings (fairy rings), arcs, scattered troops.
+- **Growth pattern:** Rings ([[bloomfield-fairy-rings-armillaria-giant-fungi]]), arcs, scattered troops.
   Returns to same locations for decades.
 - **Ecological indicator:** Indicates old, undisturbed, nutrient-poor
   grassland. Sensitive to nitrogen fertilizers and herbicides.
@@ -88,7 +88,7 @@ in 1938 based on spore and microscopic features.
 | Fat | 0.3–0.5 g | Very low fat |
 | Fiber | 1.5–2.5 g | Dietary fiber |
 | Potassium | 350–450 mg | High potassium |
-| Ergothioneine | Present | Antioxidant amino acid |
+| Ergothioneine | Present | Antioxidant [[cho-fish-amino-acid-preparation]] |
 
 ### Bioactive Compounds
 
@@ -97,7 +97,7 @@ in 1938 based on spore and microscopic features.
 - **β-Glucans:** Cell wall polysaccharides with immunomodulatory
   activity.
 - **Phenolic compounds:** Contribute to antioxidant capacity.
-- **Volatile compounds:** Flour-like aroma from C8 aldehydes
+- **[[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]:** Flour-like aroma from C8 aldehydes
   (primarily 1-octen-3-ol).
 
 ## Culinary Significance
@@ -138,7 +138,7 @@ is the key distinguishing character.
 ## Conservation
 
 Declining across Europe due to agricultural intensification and
-nitrogen deposition. Protected in some jurisdictions.
+[[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]. Protected in some jurisdictions.
 ## See Also
 
 - [[boletus-edulis-entity]]

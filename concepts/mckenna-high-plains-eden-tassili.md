@@ -1,5 +1,5 @@
 ---
-title: The High Plains of Eden and the Tassili Plateau
+title: The High Plains of Eden and the mckenna-tassili-plateau-round-head-civilization
 source: mckenna_t-food_of_the_gods.md
 author: Terence McKenna
 chapter: 6 - The High Plains of Eden
@@ -28,7 +28,7 @@ Tassili was a lush savanna with rivers, lakes, and abundant wildlife
 The plateau rises to over 2,000 meters, creating an elevated ecosystem
 that supported diverse plant and animal life. McKenna argues that this
 environment would have been ideal for the growth of psilocybin-
-containing mushrooms, particularly *Psilocybe cubensis* and related
+[[psilocybin-containing-mushrooms-in-us]], particularly *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* and related
 species that thrive in warm, humid grasslands grazed by herbivores.
 
 ## The Round Head Civilization
@@ -80,7 +80,7 @@ the Round Head civilization to:
 
 He argues that the cultural innovations usually associated with the
 Near Eastern Neolithic — agriculture, pottery, monumental architecture
-— may have their origins in earlier African psychedelic cultures.
+— may have their origins in earlier [[iboga-and-the-bwiti-cult-initiation]] cultures.
 
 ## Çatal Höyük and the Crucial Difference
 
@@ -94,8 +94,8 @@ The "crucial difference" McKenna identifies is that Çatal Höyük
 represents a partnership culture in transition — still goddess-
 worshipping and relatively egalitarian, but beginning to show signs
 of the social stratification and male dominance that would eventually
-produce the dominator culture. The Tassili, by contrast, may represent
-an earlier, purer form of partnership society.
+produce the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]. The Tassili, by contrast, may represent
+an earlier, purer form of [[mckenna-dominator-vs-partnership-society-model]].
 
 ## The Vegetable Mind and Gaian Holism
 

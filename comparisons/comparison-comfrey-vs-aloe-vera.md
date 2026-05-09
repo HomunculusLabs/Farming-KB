@@ -1,5 +1,5 @@
 ---
-title: "Comfrey vs Aloe Vera"
+title: "comparison comfrey vs aloe vera Vera"
 tags: [comparison, medicinal-plants, permaculture, herbs, first-aid]
 date: 2026-05-08
 updated: 2026-05-08
@@ -16,7 +16,7 @@ medicine cabinets worldwide. Both are renowned for their wound-healing and
 skin-soothing properties, yet they occupy very different ecological niches,
 require opposite growing conditions, and carry distinct safety profiles.
 Understanding their complementary strengths helps gardeners and herbalists
-choose the right plant for each situation.
+[[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] plant for each situation.
 
 ## Comfrey
 
@@ -57,7 +57,7 @@ used, and commercial products must have aloin removed below 10 ppm.
 | Water Needs | Moderate, drought-tolerant | Very low, xerophytic |
 | Key Compound | Allantoin | Acemannan |
 | Primary Use | Wound healing, soil building | Burns, skin care |
-| Soil Function | Dynamic accumulator, mulch | None |
+| Soil Function | [[nutrient-dynamic-accumulator-reference]], mulch | None |
 | Internal Use | Avoid (PA hepatotoxicity) | Limited, mixed evidence |
 | Pest Pressure | Virtually none | Overwatering, frost |
 | Propagation | Root cuttings, crown division | Offsets (pups) |
@@ -67,7 +67,7 @@ used, and commercial products must have aloin removed below 10 ppm.
 ## When to Choose Comfrey
 
 Choose comfrey when your primary goals include both garden fertility and
-first-aid medicine. Comfrey is the better choice for temperate climate
+first-aid medicine. Comfrey is the better choice for [[permaculture-designers-manual-temperate-climate-design]]
 homesteads where a single plant can serve multiple functions: mining
 minerals, producing mulch, activating compost, feeding livestock, and
 providing poultice material. Plant comfrey under fruit trees, along guild
@@ -83,7 +83,7 @@ Choose aloe vera when you need an accessible, ready-to-use first-aid plant
 for everyday burns, sunburns, and minor skin irritations. Aloe is ideal as
 a kitchen windowsill or bathroom plant where its gel can be applied
 immediately to cuts and burns. It is the better choice for indoor growing,
-container gardening, and xeriscaping. Aloe requires virtually no
+[[comparison-cold-frame-gardening-vs-container-gardening-guide]], and xeriscaping. Aloe requires virtually no
 maintenance beyond occasional watering and repotting of offsets. Choose
 aloe over comfrey when frost is a concern, space is limited, or your
 garden design prioritizes drought-tolerant ornamentals over biomass
@@ -93,7 +93,7 @@ production.
 
 In climates where both plants can thrive (USDA zones 9 to 9), growing
 comfrey and aloe together creates a complementary first-aid garden.
-Comfrey handles the heavy lifting of soil fertility and biomass production
+Comfrey handles the heavy lifting of soil fertility and [[dighton-fungal-biomass-production-aquatic-ecosystems]]
 outdoors, while aloe provides instant burn relief from a sunny kitchen
 windowsill. Harvest comfrey leaves in summer for poultice and salve
 preparations, and keep aloe gel fresh for immediate topical use. Together,

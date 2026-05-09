@@ -1,11 +1,11 @@
 ---
-title: "Casing Soil Preparation And Application"
+title: "Casing Soil [[fermented-plant-juice-preparation-and-application]]"
 ---
 
 # Casing Soil Preparation and Application
 
 Casing is a non-nutritive layer applied to fully colonized substrate to
-stimulate [[casing-layer-materials-and-formulas]] serves several critical functions:
+stimulate casing-layer-materials-and-formulas serves several critical functions:
 
 - **Humidity**: Creates a high-humidity zone at the surface for
   [[pressure-cooker-sterilisation-fungal-substrate]] for one hour at 15 psi
@@ -14,7 +14,7 @@ stimulate [[casing-layer-materials-and-formulas]] serves several critical functi
 ## Sterilization Debate
 
 Some authors advise against sterilizing casing soil, arguing it kills
-beneficial microorganisms. However, practical experience shows:
+[[forest-and-bamboo-beneficial-microorganisms]]. However, practical experience shows:
 
 - **Untreated**: Often introduces mold spores, nematodes, or mites
 - **Pasteurized**: Reduces but doesn't eliminate contaminants; can
@@ -43,7 +43,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -93,7 +93,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -103,4 +103,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

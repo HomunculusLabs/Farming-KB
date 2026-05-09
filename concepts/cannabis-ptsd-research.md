@@ -108,4 +108,4 @@ Cannabis may support mind-body healing by reducing physiological hyperarousal, i
 
 ## Source
 
-Uwe Blesching, *The Cannabis Health Index*, PTSD section
+Uwe Blesching, *The [[blesching-cannabis-health-index-autoimmune-conditions]]*, PTSD section

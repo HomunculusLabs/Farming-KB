@@ -34,7 +34,7 @@ deciduous tree in the family Moraceae, native to East Asia. It has been
 cultivated for millennia across Asia and the Pacific for its bark fiber, which
 is the traditional raw material for tapa cloth and handmade paper — hence the
 common name. The tree grows rapidly in disturbed sites and has become a
-problematic invasive species in eastern North America and parts of South Asia.
+problematic invasive species in [[polypore-fungi-eastern-north-america]] America and parts of South Asia.
 Despite its invasive reputation, paper mulberry has significant ethnobotanical
 importance, medicinal applications in traditional Chinese medicine, and
 potential as a fodder and fiber crop in managed systems.
@@ -66,16 +66,16 @@ potential as a fodder and fiber crop in managed systems.
   polymorphism is a key diagnostic feature.
 - **Flowers:** Dioecious (separate male and female trees). Male
   inflorescences are pendulous catkins, 3–8 cm long, appearing before leaves
-  in early spring; female flowers in compact spherical heads, 1–2 cm.
+  in [[coleman-overwintered-onions-and-early-spring-crops]]; female flowers in compact spherical heads, 1–2 cm.
 - **Fruit:** Aggregate of small drupes (syncarp), 1.5–2.5 cm diameter, orange
-  to red, sweet and fleshy when ripe; each contains a single seed; matures
+  to red, sweet and fleshy when ripe; each contains a [[cervantes-selfing-single-seed-descent]]; matures
   July–September.
 - **Roots:** Shallow lateral roots with strong root-suckering ability; forms
   dense sprout thickets when cut or damaged from a single parent tree.
 
 ## Distribution and Habitat
 
-- **Native range:** China, Japan, Korea, Taiwan, and Southeast Asia.
+- **Native range:** China, Japan, Korea, Taiwan, and [[psilocybe-southeast-asia-pacific]].
 - **Introduced/naturalized:** Widespread in the Pacific Islands (carried by
   Austronesian voyagers ~3,000 years ago), eastern and central US (New York
   to Texas, heaviest in the Southeast), South America, South Asia, and
@@ -129,12 +129,12 @@ potential as a fodder and fiber crop in managed systems.
 
 ## Permaculture Applications
 
-- Useful in managed food-forest systems for rapid biomass production and
+- Useful in managed food-forest systems for rapid [[dighton-fungal-biomass-production-aquatic-ecosystems]] and
   chop-and-drop mulch.
 - High protein content makes it valuable as a fodder tree in silvopastoral
   systems, particularly for goats and rabbits.
 - Can be coppiced repeatedly for fiber harvest; regrows from stumps within
-  a single growing season, yielding 3–5 m of new growth.
+  a single [[savory-growing-season-and-non-growing-season-management]], yielding 3–5 m of new growth.
 - Best suited to controlled settings where spread can be managed — not
   recommended for wild planting in regions where it is invasive.
 

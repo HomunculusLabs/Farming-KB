@@ -12,7 +12,7 @@ tags: [water]
 
 # Water Management and Irrigation
 
-Water management is a critical skill in the GROW BIOINTENSIVE method. The approach approximates natural rainfall as closely as possible, using gentle application techniques that minimize soil compaction and maximize water efficiency. Proper watering is essential for maintaining the living mulch mini-climate that is central to the method's success.
+Water management is a critical skill in the [[jeavons-grow-biointensive-method-overview]] method. The approach approximates natural rainfall as closely as possible, using gentle application techniques that minimize soil compaction and maximize water efficiency. Proper watering is essential for maintaining the [[comparison-living-mulch-vs-cover-crops]] mini-climate that is central to the method's success.
 
 ## Water Efficiency of GROW BIOINTENSIVE
 
@@ -20,7 +20,7 @@ When properly practiced, GROW BIOINTENSIVE achieves a 67% to 88% reduction in wa
 
 - **Living mulch effect**: Close plant spacing shades the soil surface, reducing evaporation. When plant leaves barely touch, they create a micro-climate that retains moisture.
 - **Raised bed structure**: Double-dug beds with their curved surface area have more surface for the interaction of natural elements. The loose, friable soil structure absorbs and retains water far better than compacted soil.
-- **Compost**: Organic matter holds 6 times its own weight in water. A soil with good organic matter content soaks up rain like a sponge and regulates the supply to plants. A soil stripped of organic matter resists water penetration, leading to crusting, erosion, and flooding.
+- **Compost**: [[hamilton-composting-and-organic-matter-management]] holds 6 times its own weight in water. A soil with good organic matter content soaks up rain like a sponge and regulates the supply to plants. A soil stripped of organic matter resists water penetration, leading to crusting, erosion, and flooding.
 - **Close spacing**: Evenly spaced transplanted seedlings cover and protect the soil, creating a good mini-climate that reduces water loss.
 
 ## Watering Tools
@@ -74,13 +74,13 @@ Water the sides and ends of planting beds more than the middle. These areas are 
 
 ## Drought Response
 
-A transplant in a bed with a low moisture level will have difficulty growing well because of the dry pan below. If you wait until plants are wilting and drooping before watering, they will revive but will have suffered some permanent damage — an open invitation for pests and diseases. However, slight drooping on a hot day is not usually a sign to water. Plants are minimizing water loss through transpiration; watering at this time increases water loss rather than lessening it and weakens the plant through too much pampering.
+A transplant in a bed with a low moisture level will have difficulty growing well because of the dry pan below. If you wait until plants are wilting and drooping before watering, they will revive but will have suffered some permanent damage — an open invitation for [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. However, slight drooping on a hot day is not usually a sign to water. Plants are minimizing water loss through transpiration; watering at this time increases water loss rather than lessening it and weakens the plant through too much pampering.
 
 During a drought, GROW BIOINTENSIVE techniques proved effective in India, where women successfully raised food under drought conditions. One Indian woman reportedly grew 5 times more vegetables than experienced gardeners using her single unit of water, fertilizers, and seed.
 
 ## Weather Adjustment
 
-A bed may lose more moisture on a cloudy, windy, dry day than on a hot, clear, humid, and still one. There are times when flats and beds need no water or need watering twice a day. It is important to note these differences and become sensitive to the plants' needs. Water for good fruit, flower, and seed production, not just so the plant will stay alive.
+A bed may lose more moisture on a cloudy, windy, dry day than on a hot, clear, humid, and still one. There are times when flats and beds need no water or need watering twice a day. It is important to note these differences and become sensitive to the plants' needs. Water for good fruit, flower, and [[cervantes-seed-production-storage]], not just so the plant will stay alive.
 
 ## Shade Netting for Water Conservation
 
@@ -94,11 +94,13 @@ Daily watering washes dust, grime, and insects from plant leaves and creates a d
 
 ## Water and Sustainable Fertility
 
-Water management connects directly to sustainable soil fertility. Compost holds 6 times its weight in water, so maintaining adequate organic matter levels is itself a water management strategy. The GROW BIOINTENSIVE method's emphasis on raised beds, close spacing, and consistent compost application creates a soil system that maximizes water retention and minimizes waste.
+Water management connects directly to sustainable soil fertility. Compost holds 6 times its weight in water, so maintaining adequate organic matter levels is itself a water management strategy. The GROW BIOINTENSIVE method's emphasis on [[comparison-raised-beds-vs-hugelkultur]], close spacing, and consistent compost application creates a soil system that maximizes water retention and minimizes waste.
 
 With water scarcity affecting much of the world — by 2025, an estimated 3 billion people in 52 countries will live in water-scarce regions — learning to grow more food with less water is not just a gardening skill; it is a survival skill.
 
 ## See Also
+
+- [[solomon-irrigation-water-management]]
 
 - [[jeavons-double-digging-bed-preparation]] — Soil preparation for water retention
 - [[jeavons-flat-preparation-seedling-raising]] — Watering seedlings in flats

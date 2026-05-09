@@ -1,7 +1,7 @@
 ---
-title: Mushroom Disease and Contamination Control
+title: duggar mushroom disease and contamination and Contamination Control
 created: 2026-04-26
-sources: Benjamin Minge Duggar, "Mushroom Growing" (1915)
+sources: Benjamin benjamin-minge-duggar-mushroom-cultivation-research, "duggar-mushroom-growing-history-and-methods" (1915)
 source_path: raw/papers/benjamin-minge-duggar-mushroom-growing.md
 extracted: 2026-04-24
 type: concept
@@ -21,14 +21,14 @@ Several species of small flies are common about mushroom houses. The mushroom is
 **Control:** These insects are practically inactive at temperatures below 55 degrees F. Proper control of conditions will usually result in perfect control of this pest. Adult flies are readily killed by fumigation with tobacco or various trade nicotine fumigants. Fumigation with carbon bisulphide (2 to 4 pounds per 1,000 cubic feet of space) is also effective but expensive. Sulphur or hydrocyanic acid fumigation may be used before spawning. Thorough fumigation is best done just prior to making the beds.
 
 ### Mites (Tyroglyphus lintneri)
-The common mushroom mite is a minute insect found invariably in manure. It becomes very abundant if much time is consumed in the preparation of the compost and of the beds, particularly if the temperature is high. It feeds not only upon the mushrooms themselves but more particularly upon the mushroom spawn, so that when present in large numbers they may entirely prevent mushroom production or even the growth of spawn.
+The common mushroom mite is a minute insect found invariably in manure. It becomes very abundant if much time is consumed in the preparation of the compost and of the beds, particularly if the temperature is high. It feeds not only upon the mushrooms themselves but more particularly upon the [[cuthill-mushroom-spawn-preparation-historical]], so that when present in large numbers they may entirely prevent mushroom production or even the growth of spawn.
 
 **Control:** Less active at lower favorable temperatures. Fumigation with deadly hydrocyanic acid fumes at four times the usual strength kills the majority but a sufficient number survive to make it seem scarcely worth while. The best approach is to carry through all processes in the preparation of the compost as promptly as possible and keep conditions favorable. Mites have been treated fairly successfully by placing scraps of cooked meat upon the beds and then occasionally collecting these and dropping them into boiling water.
 
 ### Springtails
 Sometimes appearing upon the surface of the beds in colonies so populous that affected areas seem literally alive with tiny gray-black creatures hopping in every direction when disturbed. Particularly numerous — and frequently a cause of failure — where mushrooms are grown in damp caves and where the rules of sanitation are grossly violated.
 
-**Control:** They attack primarily through the gills or gain entrance from injuries. A "flush" of mushrooms may be completely destroyed in two days. The best practical remedy is to ventilate thoroughly and dust the beds and floors with quick lime. Pyrethrum powder is serviceable if conditions are not too wet. A spray of lysol (2 to 2.5 percent) is also effective but cannot be applied without some injury to the growing mushrooms.
+**Control:** They attack primarily through the gills or gain entrance from injuries. A "flush" of mushrooms may be completely destroyed in two days. The best practical remedy is to ventilate thoroughly and dust the beds and floors with quick lime. Pyrethrum powder is serviceable if conditions are not too wet. A spray of lysol (2 to 2.5 percent) is also effective but cannot be applied without some injury to the [[falconer-growing-mushrooms-in-sheds]].
 
 ### Sowbugs (Woodlice)
 The common gray crustaceans of the woods and greenhouse, fully a half-inch in length, sometimes brought in with the manure or permitted to multiply in rubbish left in the houses. They eat into the mushrooms as would snails or mice, and a relatively small force may destroy many pounds of buttons.
@@ -38,7 +38,7 @@ The common gray crustaceans of the woods and greenhouse, fully a half-inch in le
 ## Fungous Diseases
 
 ### Mycogone Disease ("la Mele")
-The most important fungous disease of mushrooms, caused by Mycogone perniciosa. Known in France for several generations, the same or similar diseases are widely distributed wherever mushroom culture is practised.
+The most important fungous disease of mushrooms, caused by Mycogone perniciosa. Known in France for several generations, the same or similar diseases are widely distributed wherever [[mazatec-mushroom-culture-and-velada]] is practised.
 
 **Two characteristic types of injury:**
 
@@ -83,6 +83,8 @@ After beds cease to be productive:
 6. Spray walls with one of these washes or fumigate with hydrocyanic acid or sulphur fumes
 
 ## Related
+
+- [[pine-disease-and-matsutake-mushroom-decline]]
 
 - [[verticillium-dry-bubble-mushroom-disease]] Concepts
 

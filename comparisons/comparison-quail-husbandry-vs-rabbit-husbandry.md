@@ -1,5 +1,5 @@
 ---
-title: "Quail Husbandry vs Rabbit Husbandry"
+title: "comparison quail husbandry vs rabbit husbandry vs comparison-rabbit-husbandry-vs-chicken-keeping"
 created: 2026-04-28
 tags: [comparison, livestock, homesteading, micro-livestock, meat-production]
 date: 2026-04-25
@@ -16,7 +16,7 @@ Quail and rabbits are the two most space-efficient meat animals available to
 homesteaders, both producing significant protein in a fraction of the space
 required by chickens, goats, or other livestock. Coturnix quail offer the
 fastest turnaround of any meat animal (egg to harvest in 8-10 weeks) in minimal
-cage space, while rabbits produce the most meat per square foot annually through
+cage space, while rabbits produce the most meat per [[comparison-biointensive-vs-square-foot-gardening]] annually through
 rapid breeding cycles and efficient feed conversion. The choice between them
 depends on whether you prioritize speed and egg production (quail) or meat
 volume, versatility, and garden fertility (rabbits).
@@ -110,6 +110,8 @@ water supply infrastructure. Quail manure, being hot, can be composted with
 rabbit manure, carbon material, and garden waste for an excellent balanced
 fertilizer. Quail provide daily eggs while rabbits provide periodic large meat
 ## See Also
+
+- [[comparison-rabbit-vs-quail-husbandry]]
 
 - [[comparison-chicken-keeping-vs-quail-husbandry]]
 - [[comparison-rabbit-husbandry-vs-chicken-keeping]]

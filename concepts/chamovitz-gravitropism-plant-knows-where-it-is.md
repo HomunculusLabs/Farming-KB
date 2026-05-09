@@ -11,7 +11,7 @@ upward even when displaced from their original position.
 ## The Darwin Experiments
 
 In 1880, **Charles and Francis Darwin** conducted foundational experiments on gravitropism
-in plant roots, published in *The Power of Movement in Plants*. They observed that when a
+in plant roots, published in *The [[darwin-power-of-movement-in-plants]] in Plants*. They observed that when a
 root was reoriented horizontally, it would curve downward within hours. Crucially, removing
 the root tip — specifically the **root cap (calyptra)** — abolished the gravitropic response
 entirely. The Darwins concluded that the root cap was the site of gravity perception and
@@ -42,14 +42,14 @@ Plant organs respond to gravity in opposite directions depending on their identi
 
 - **Roots** exhibit **positive gravitropism** — they grow toward the gravitational vector,
   downward into the soil, anchoring the plant and positioning the root system for water
-  and nutrient uptake.
+  and [[plant-nutrient-uptake-mechanisms]].
 - **Shoots** exhibit **negative gravitropism** — they grow against the gravitational vector,
   upward toward light and air, positioning leaves for photosynthesis and reproductive
   structures for dispersal.
 
 The same sensing machinery — statocytes and statoliths — operates in both organs, but the
 downstream growth response is reversed. The same hormone, **auxin**, mediates both, but its
-effect on cell elongation differs between root and shoot tissue.
+effect on [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] differs between root and shoot tissue.
 
 ## The Cholodny-Went Model
 
@@ -73,7 +73,7 @@ auxin-responsive reporter genes such as DR5.
 ## PIN Proteins and Auxin Redistribution
 
 The lateral auxin redistribution of the Cholodny-Went model is carried out by **PIN
-proteins** — auxin efflux carriers embedded in the cell membrane. In response to
+proteins** — auxin efflux carriers embedded in the [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]. In response to
 gravistimulation, PIN proteins rapidly relocalize within cells, redirecting auxin flow to
 one side of the organ and creating the asymmetric distribution that drives differential
 growth. Different PIN family members show distinct localization patterns, and their
@@ -138,9 +138,11 @@ Understanding gravitropism has practical implications for horticulture and agric
   transplant success.
 - **Grafted plants**: Scion and rootstock orientation must be maintained during grafting
   to avoid confusing each partner's gravitropic signaling systems.
-
 ## See Also
 
-- [[tropisms-psilocybe-cubensis-gravitropism]] — gravitropism in fungal systems
+- tropisms-psilocybe-cubensis-gravitropism — gravitropism in fungal systems
 - [[chamovitz-red-far-red-phytochrome-switch-and-plant-memory]] — Chamovitz on how plants perceive light
-- [[stomata-transpiration-and-plant-water-regulation]] — plant environmental sensing mechanisms
+- [[stomata-transpiration-and-plant-water-regulation]] — plant [[fungal-environmental-sensing-signal-transduction-read]] mechanisms
+- [[daniel-chamovitz]]
+- [[plant-gravitropism-and-spatial-awareness]]
+- [[chamovitz-plant-senses-overview]]

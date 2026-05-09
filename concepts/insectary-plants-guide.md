@@ -8,7 +8,7 @@ sources: []
 ---
 # Insectary Plants Guide
 
-Insectary plants attract, feed, and shelter beneficial insects -- pollinators, predators, and parasitoids that provide essential ecological services in any [[tagasaste]] | N | P | Winter through spring; staggered cutting increases flowering |
+Insectary plants attract, feed, and shelter [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] -- pollinators, predators, and parasitoids that provide essential ecological services in any tagasaste | N | P | Winter through spring; staggered cutting increases flowering |
 
 ## Understorey Hedgerow Bee Forage (Herbs and Perennials)
 
@@ -16,7 +16,7 @@ Insectary plants attract, feed, and shelter beneficial insects -- pollinators, p
 |-------|--------|--------|-------------|
 | Balm (Melissa) | | | |
 | Borage | | | Long season |
-| Capeweed | N | P | Early spring |
+| Capeweed | N | P | [[coleman-overwintered-onions-and-early-spring-crops]] |
 | Chicory | N | P | |
 | Daisy | | | |
 | Dandelion | N | P | Long season |
@@ -37,7 +37,7 @@ Introduce a whole range of plants to extend the flowering season:
 
 | Plant | Nectar | Pollen | Season/Notes |
 |-------|--------|--------|-------------|
-| Clovers | N | P | Up to 400 kg/ha N yield; crimson clover particularly high |
+| Clovers | N | P | Up to 400 kg/ha N yield; [[comparison-lupin-vs-crimson-clover-green-manure]] particularly high |
 | Cowpea | N | P | |
 | Lotus spp | N | P | |
 | Lucerne | N | P | Very long flowering (78-285 kg/ha/day in USA); good lock-up fodder |
@@ -54,7 +54,7 @@ Introduce a whole range of plants to extend the flowering season:
 - **Cape lilac** (Melia azedarach): Valuable bee forage
 - **Castor** (Ricinus communis): Valued bee forage
 - **Chilean nut** (Gevuina avellana): Nectar and pollen
-- **[[garden-plant-groupings]] for detailed companion planting lists.
+- **[[garden-plant-groupings]] for detailed [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] lists.
 
 Key insectary companions:
 - **Marigolds**: Repel nematodes, attract pollinators
@@ -83,4 +83,9 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[melia-azedarach]]
+- [[companion-planting]]
+- [[golden-guide-hallucinogenic-plants-overview]]
+- [[comparison-insectary-plants-vs-trap-cropping]]
+- [[insectary-plants-for-pest-control]]

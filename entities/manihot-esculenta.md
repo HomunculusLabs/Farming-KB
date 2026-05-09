@@ -81,7 +81,7 @@ Cassava is propagated vegetatively from stem cuttings, making it accessible to s
 - **Growth cycle:** 8–24 months depending on variety and conditions; sweet varieties mature in 8–12 months, bitter varieties in 12–24 months.
 - **Yield:** 10–40 tonnes fresh roots per hectare; average world yield ~12 t/ha; improved varieties can exceed 50 t/ha.
 - **Nutrient requirements:** Low compared to cereals; benefits from moderate potassium and phosphorus application; nitrogen needs are modest due to efficient canopy architecture.
-- **Pest resistance:** Generally resistant to most pests; the cassava mealybug (*Phenacoccus manihoti*) and cassava green mite (*Mononychellus tanajoa*) are the most significant pests.
+- **[[cannabis-disease-pest-resistance-breeding-clarke]]:** Generally resistant to most pests; the cassava mealybug (*Phenacoccus manihoti*) and cassava green mite (*Mononychellus tanajoa*) are the most significant pests.
 - **Diseases:** Cassava mosaic disease (CMD, caused by begomoviruses), cassava brown streak disease (CBSD), and bacterial blight (*Xanthomonas axonopodis* pv. *manihotis*) are the most damaging.
 
 ## Nutritional Profile
@@ -107,16 +107,16 @@ Raw cassava contains cyanogenic glycosides (primarily linamarin and lotaustralin
 Cassava is one of the most versatile permaculture crops in the tropics, valued for its resilience, low-input requirements, and multiple functions in designed ecosystems.
 
 - **Food forest integration:** Functions as an upper-shrub layer between ground covers and canopy trees; provides shade for understory crops during establishment.
-- **Soil improvement:** Deep root system breaks compacted subsoil and cycles nutrients from deep soil layers; leaf fall contributes organic matter.
-- **Erosion control:** Effective slope stabilizer when planted as contour hedgerows; the dense root mat holds soil on steep terrain.
-- **Companion planting:** Pairs well with leguminous trees (gliricidia, leucaena, sesbania) for nitrogen fixation; intercropped with cowpea, peanut, and maize in traditional systems.
+- **Soil improvement:** Deep root system breaks compacted subsoil and cycles nutrients from deep soil layers; leaf fall contributes [[hamilton-composting-and-organic-matter-management]].
+- **[[permplant-willows-salix-erosion-control-fodder]]:** Effective slope stabilizer when planted as contour hedgerows; the dense root mat holds soil on steep terrain.
+- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Pairs well with leguminous trees (gliricidia, leucaena, sesbania) for [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]; intercropped with cowpea, peanut, and maize in traditional systems.
 - **Multi-use crop:** Leaves are edible (rich in protein and vitamins when cooked); stems provide fuelwood and propagation material; starch extracted from roots produces tapioca, bioethanol, and industrial adhesives.
 - **Drought resilience:** Often planted as a famine-reserve crop due to its ability to remain in the ground for up to 3 years without deterioration, providing food security during crop failures.
 
 ## See Also
 
-- [[mollison-designers-cassava-tropical-root-crops]]
+- mollison-designers-cassava-tropical-root-crops
 - [[colocasia-esculenta]] — taro, another tropical tuber crop in polycultures
-- [[moringa-oleifera]] — drought-tolerant multipurpose tree for tropical food forests
+- [[moringa-oleifera]] — drought-tolerant [[mollison-designers-chestnut-as-multipurpose-tree-crop]] for tropical food forests
 - [[pachyrhizus-erosus]] — jicama, another tropical root crop
 - [[leucaena-leucocephala]] — fast-growing legume tree for agroforestry

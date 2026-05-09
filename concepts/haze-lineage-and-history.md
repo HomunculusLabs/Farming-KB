@@ -1,5 +1,5 @@
 ---
-title: Haze Lineage and History
+title: sativa-haze-lineage-breeding-history and History
 tags:
   - cannabis-strains
   - haze
@@ -17,11 +17,11 @@ type: concept
 
 # Haze Lineage and History
 
-The Haze family is perhaps the most celebrated and influential lineage in cannabis genetics.
+The Haze family is perhaps the most celebrated and influential lineage in [[vic-high-cannabis-genetics-mendelian-inheritance]].
 Originating in California during the 1960s and 1970s, Haze strains have defined the modern sativa
-experience and served as genetic building blocks for hundreds of hybrid varieties. From coffee
+experience and served as genetic building blocks for hundreds of [[cervantes-hybrid-varieties-types]]. From coffee
 shop menus to medical dispensaries, the Haze name carries an almost mythic weight in cannabis
-culture, representing the pinnacle of sativa breeding achievement.
+culture, representing the pinnacle of [[cannabis-sativa-breeding-evolution]] achievement.
 
 ## Origins of Haze
 
@@ -31,7 +31,7 @@ Colombia, Thailand, and southern India. This ambitious four-way hybrid produced 
 extraordinary potency and a soaring cerebral high unlike anything that had come before.
 The original Haze became legendary on the West Coast but was notoriously difficult to grow,
 requiring long flowering times of 14 to 16 weeks and reaching enormous heights that made indoor
-cultivation nearly impossible in the era before modern training techniques were developed.
+cultivation nearly impossible in the era before modern [[cannabis-training-techniques-comparison]] were developed.
 The Haze Brothers' creation would go on to influence virtually every major sativa-dominant
 strain developed in the subsequent decades. Dutch breeders, particularly Neville Schoenmaker and
 the team at Positronics Seeds, obtained Haze genetics in the 1980s and began incorporating them

@@ -1,5 +1,5 @@
 ---
-title: "Winter Greens Variety Selection"
+title: "coleman-winter-greens-nutritional-quality-cold-sweetening Variety Selection"
 created: 2026-04-28
 tags: [varieties, greens, cold-hardy, planting, winter-harvest]
 date: 2026-04-25
@@ -10,7 +10,7 @@ type: concept
 
 # Winter Greens Variety Selection
 
-Eliot Coleman's winter harvest system relies on a carefully curated
+Eliot Coleman's [[coleman-claytonia-winter-harvest-cultivation]] system relies on a carefully curated
 selection of cold-hardy greens that thrive in unheated high tunnels
 during the coldest months. These species have evolved or been bred to
 survive freezing temperatures and continue producing harvestable leaves
@@ -25,7 +25,7 @@ considers mache the king of winter salads and a cornerstone of his
 winter production.
 
 Key varieties include 'Vit' and 'Coquille de Louviers,' both of which
-have been selected for cold hardiness and uniform rosette formation.
+have been selected for [[coleman-cold-hardiness-testing-ratings]] and uniform rosette formation.
 Mache germinates best in cool soil and is direct-seeded in early to
 mid-fall. It grows slowly through winter but can be harvested
 repeatedly as a cut-and-come-again crop.
@@ -35,11 +35,11 @@ repeatedly as a cut-and-come-again crop.
 Claytonia perfoliata produces distinctive round leaves surrounding
 delicate white flowers. It is exceptionally cold-hardy and retains
 its crisp texture and mild flavor even after hard freezes. Claytonia
-is native to western North America and is naturally adapted to cool,
+is native to western [[psilocybin-north-america-pacific-northwest]] and is naturally adapted to cool,
 moist conditions.
 
 Coleman seeds claytonia in September for winter harvest. It grows
-vigorously in the low light of winter and produces abundant leaves
+vigorously in the [[darkness-low-light-facilitation-entheogenic-ceremonies]] of winter and produces abundant leaves
 from November through March. The stems are also edible and add a
 pleasant crunch to salad mixes. 'Giant Winter' is a preferred
 variety for its larger leaf size and productivity.

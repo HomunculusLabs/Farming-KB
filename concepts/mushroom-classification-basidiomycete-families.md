@@ -15,7 +15,7 @@ sources:
 
 # Mushroom Classification and Basidiomycete Families
 
-Benjamin Minge Duggar's 1905 survey of mushroom classification provides a valuable window into early taxonomic understanding of fleshy fungi. His treatment focused on five families of Basidiomycetes — the predominant fleshy fungi — and several genera of Ascomycetes, organized primarily by spore-bearing surface structure.
+Benjamin [[benjamin-minge-duggar-mushroom-cultivation-research]]'s 1905 survey of mushroom classification provides a valuable window into early taxonomic understanding of fleshy fungi. His treatment focused on five families of Basidiomycetes — the predominant fleshy fungi — and several genera of Ascomycetes, organized primarily by spore-bearing surface structure.
 
 ## The Basidiomycetes
 
@@ -33,19 +33,19 @@ The cultivated mushroom, *Agaricus campestris*, is the most widely known member 
 
 *Agaricus arvensis*, the Horse Mushroom, is larger and stouter than the Field Mushroom, distinguished by a double ring. *Agaricus fabaceus* (A. subrufescens) is the almond-flavored mushroom, readily distinguished by a long-persistent membranous veil with soft frosty scales on its lower surface. It requires more completely fermented compost, a higher temperature, and may not bear for several months.
 
-The genus *Coprinus*, the Ink Caps, is characterized by the deliquescence of gills and other parts into an inky black liquid when fully mature. *Coprinus comatus*, the Shaggy Mane, is considered by many to be one of the best fungi — often 6 to 8 inches in height. *C. atramentarius*, the true Ink-Cap, is slaty gray and so rapidly deliquescent it should be put on ice immediately. *C. micaceus* is smaller, often covering several square feet about old stumps in solid phalanx.
+The genus *Coprinus*, the Ink Caps, is characterized by the deliquescence of gills and other parts into an inky black liquid when fully mature. *[[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]*, the [[growing-gourmet-shaggy-mane-coprinus-cultivation]], is considered by many to be one of the best fungi — often 6 to 8 inches in height. *C. atramentarius*, the true Ink-Cap, is slaty gray and so rapidly deliquescent it should be put on ice immediately. *C. micaceus* is smaller, often covering several square feet about old stumps in solid phalanx.
 
 ### Agarics with White Spores
 
 *Lepiota* resembles Agaricus but possesses white spores and species that are usually less stocky. *Lepiota procera*, the Parasol Mushroom, is among the most conspicuous of edible agarics.
 
-The genus *Amanita* contains the most dangerous poisonous mushrooms, including *A. phalloides* (the Death Cap) and *A. muscaria* (the Fly Agaric, perhaps the handsomest mushroom of the forest). These are characterized by a volva (cup) at the base of the stem and scales or patches on the cap — critical identification features. The Royal Agaric, *Amanita Caesarea*, is a great delicacy but should be omitted by amateur collectors.
+The genus *Amanita* contains the most dangerous [[palmer-poisonous-mushrooms-deadly-species]], including *A. phalloides* (the Death Cap) and *A. muscaria* (the Fly Agaric, perhaps the handsomest mushroom of the forest). These are characterized by a volva (cup) at the base of the stem and scales or patches on the cap — critical identification features. The Royal Agaric, *Amanita Caesarea*, is a great delicacy but should be omitted by amateur collectors.
 
 *Cortinellus shiitake*, cultivated in Japan for several centuries on wood of *Carpinus laxiflora* and *Quercus glandulifera*, is the only mushroom of considerable economic importance cultivated on wood at the time. Wood poles are cut, weathered, then notched or bored for spawn insertion. More than two years may pass before the first mushrooms appear.
 
 *Tricholoma* embraces a very large number of species, nearly all of considerable size. Only a single species among the 200 or more in the genus has been marked even suspicious. Duggar grew *T. personatum* (the Masked Tricholoma) in pure culture and demonstrated its capacity to fruit on fermented leaves of maple, birch, and beech — a substrate free from all the objections of compost.
 
-*Pleurotus ostreatus*, the Oyster Mushroom, grows in clusters on decaying trunks and fallen logs. No species of Pleurotus is even suspicious of being poisonous.
+*Pleurotus ostreatus*, the [[cotter-oyster-mushroom-cultivation]], grows in clusters on decaying trunks and fallen logs. No species of Pleurotus is even suspicious of being poisonous.
 
 ## Polyporaceae — The Pore Fungi
 
@@ -77,11 +77,11 @@ The Ascomycetes are characterized by having asci, or spore sacs, in which spores
 
 ## Spore Color as a Classification Tool
 
-Duggar emphasized spore print color as one of the most practical field identification characters. A spore print is made by placing the cap, gills downward, on a sheet of white paper for several hours. Black-spored agarics include Agaricus and Coprinus; white-spored forms include Lepiota, Amanita, Tricholoma, and Pleurotus. Pink and ochraceous spored forms represent additional groups. This simple test, combined with attention to the presence or absence of a ring, volva, and milk-producing gills, provides the foundation for safe identification.
+Duggar emphasized [[comparison-spore-print-collection-vs-spore-syringe-production]] color as one of the most practical field identification characters. A spore print is made by placing the cap, gills downward, on a sheet of white paper for several hours. Black-spored agarics include Agaricus and Coprinus; white-spored forms include Lepiota, Amanita, Tricholoma, and Pleurotus. Pink and ochraceous spored forms represent additional groups. This simple test, combined with attention to the presence or absence of a ring, volva, and milk-producing gills, provides the foundation for safe identification.
 
 ## See Also
 
 - [[mushroom-nutrition-manure-fermentation]]
 - [[fungal-sexual-reproduction]]
-- [[fungal-wood-decay-types-white-rot-brown-rot]]
+- fungal-wood-decay-types-white-rot-brown-rot
 - [[oyster-mushroom-species-fruiting-parameters]]

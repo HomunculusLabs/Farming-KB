@@ -1,5 +1,5 @@
 ---
-title: Cannabinoid Profile and Microbiome Correlation
+title: Cannabinoid Profile and cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis
 created: 2026-04-28
 tags: [cannabis, microbiome, cannabinoids, secondary-metabolites]
 date: 2026-04-28
@@ -14,9 +14,9 @@ type: concept
 ## Overview
 
 Winston et al. (2014) investigated whether Cannabis cannabinoid profiles
-are associated with endorhiza microbial community structure. A significant
+are associated with endorhiza [[edaphic-factors-microbial-community-structure]] structure. A significant
 correlation was found between cannabinoid concentration and composition and
-the structure of endorhiza bacterial communities (Mantel test: r-stat =
+the structure of [[core-endorhiza-bacterial-community-composition-cannabis]] communities (Mantel test: r-stat =
 0.863, p = 0.001). However, this correlation could not be disentangled
 from soil edaphic effects, as higher THC concentrations co-occurred with
 specific soil physicochemical properties. This represents one of the first
@@ -28,10 +28,10 @@ unestablished.
 Cannabis is an interesting model for exploring plant-microbiome
 interactions because it produces numerous secondary metabolic compounds.
 The glandular trichomes that produce cannabinoids and terpenes are unique
-to the Cannabaceae family. These bioactive compounds could influence the
+to the Cannabaceae family. These [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] could influence the
 root microbiome through several mechanisms:
 
-- **Root exudate modulation**: Cannabinoid biosynthesis pathways may
+- **Root exudate modulation**: [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]] pathways may
   share precursors or regulatory networks with root exudate production,
   potentially altering the chemical environment that shapes rhizosphere
   and endorhiza communities.
@@ -39,7 +39,7 @@ root microbiome through several mechanisms:
   may act as signaling molecules that influence root physiology and
   immune responses, indirectly affecting microbial recruitment.
 - **Direct antimicrobial activity**: Some cannabinoids exhibit
-  antimicrobial properties in vitro, which could influence which
+  [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] in vitro, which could influence which
   bacteria can colonize root tissue.
 
 ## Cultivar Chemotypes

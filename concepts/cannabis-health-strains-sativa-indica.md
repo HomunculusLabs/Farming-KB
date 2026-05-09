@@ -1,5 +1,5 @@
 ---
-title: "Cannabis Strains (Sativa vs Indica)"
+title: "Cannabis Strains (cannabis-sativa-vs-indica-guide)"
 created: 2026-04-28
 tags: [cannabis, strains, sativa, indica, thc-cbd-ratio, strain-selection]
 date: 2026-04-25
@@ -92,7 +92,7 @@ cannabis species. While hemp plants are a good source of nutrition
 (e.g., essential fatty acids), the medicinal quality of hempseed oil is
 limited to some mild anti-inflammatory properties. Hemp is a legal crop
 in numerous countries, utilized for food, drink, fiber, oil, paper,
-building materials, erosion control, fuel, biodegradable plastics, and
+[[natural-building-materials-guide]], [[permplant-willows-salix-erosion-control-fodder]], fuel, biodegradable plastics, and
 many other uses. In contrast, both sativa and indica medicinal strains
 are psychoactive and contain the cannabinoids needed to engage the
 endocannabinoid system for specific therapeutic purposes.
@@ -109,12 +109,12 @@ conditions, and growing method (indoor vs. outdoor).
 
 ## Practical Guidance
 
-When selecting a cannabis strain for therapeutic purposes, consider:
+When selecting a [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] therapeutic purposes, consider:
 1. Whether the condition primarily involves the nervous system (CB1) or
    the immune system (CB2)
 2. The time of day the medicine will be used
 3. Whether alertness or sedation is desired
-4. Your individual subjective therapeutic window with each strain
+4. Your individual [[cannabis-subjective-therapeutic-window-dosing]] window with each strain
 5. The specific cannabinoid profile available from your dispensary
 
 ## Beyond Medicine: The Spiritual Dimension
@@ -134,6 +134,9 @@ aligned with the patient's therapeutic goals and personal disposition.
 
 ## See Also
 
+- [[calocybe-indica]]
+- [[derris-indica]]
+
 - [[cannabis-health-cbd-cannabidiol]] — CBD pharmacology and its role in strain selection for therapeutic use
 - [[cannabis-health-pain-management]] — strain selection considerations for pain relief
-- [[cannabis-health-methods-of-administration]] — how delivery methods interact with strain characteristics
+- [[cannabis-health-methods-of-administration]] — how [[cannabis-delivery-methods-comparison]] interact with strain characteristics

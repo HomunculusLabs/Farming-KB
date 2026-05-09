@@ -1,7 +1,7 @@
 ---
-title: Mushroom House Design
+title: Mushroom mollison-designers-house-design-climate-zones
 created: 2026-04-28
-tags: [[mycology]], architecture, cultivation, infrastructure, design]
+tags: [mycology], architecture, cultivation, infrastructure, design]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
@@ -10,7 +10,7 @@ type: concept
 
 # Mushroom House Design
 
-The design and construction of mushroom growing
+The design and construction of [[duggar-mushroom-growing-history-and-methods]]
 facilities is a critical factor in commercial success.
 Any situation in which temperature and moisture may be
 controlled according to the requirements of the mushroom
@@ -33,7 +33,7 @@ accessed by ladder with a windlass for materials.
 
 ## American Mushroom Houses
 
-In the United States, production has been confined to
+In the [[dmt-containing-plants-united-states-halpern]], production has been confined to
 special houses, caves, and cellars. Near Philadelphia,
 Chicago, Boston, and other production centers, mushrooms
 are grown wholly in special mushroom houses. The major
@@ -100,7 +100,7 @@ conditions and the scale of operations.
 ## Open Air Culture
 
 In Southern England, where winter temperature extremes
-are moderate, culture in modified hot beds or cold frames
+are moderate, culture in modified hot beds or [[hamilton-cold-frames-and-hardening-off]]
 has been successful. Simple frames are employed, covered
 with sheet iron or boards and straw. Open air culture
 cannot be regarded as having great possibilities in most
@@ -119,3 +119,4 @@ results and are not to be depended upon.
 
 - Duggar, B.M. Mushroom Growing. Macmillan, 1915.
 - Falconer, W. Mushrooms: How to Grow Them. 1900.
+- [[mushroom-growing-house-construction-low-cost]]

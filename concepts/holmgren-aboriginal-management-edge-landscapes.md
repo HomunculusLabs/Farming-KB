@@ -16,7 +16,7 @@ type: concept
 
 # Aboriginal Land Management and Edge in Cultivated Landscapes
 
-[[holmgren-permaculture-edge-principle]] and sustainable
+holmgren-permaculture-edge-principle and sustainable
 landscape management in a low-energy future. The active management of Australian
 landscapes by Aboriginal people was foundational to the original conception of
 Permaculture.
@@ -90,7 +90,7 @@ The effects of the fire regime were manifold:
 - Created open accessible ground along all routes used to traverse the land
 - Shaped mature trees, creating nest hollows and base hollows used for shelter,
   including ancient revered birthing trees
-- Stimulated growth of lush green grass high in protein, attracting kangaroos
+- Stimulated growth of lush [[knf-green-grass-liquid-fertilizer]] high in protein, attracting kangaroos
   and other herbivores
 - Stimulated flowering in heathland plants (rich nectar sources) and was
   critical in stimulating germination, fruiting, or tuber formation of diverse
@@ -104,7 +104,7 @@ The effects of the fire regime were manifold:
 The culturally embedded land management practices produced a pattern of
 localised degradation and enrichment that was self-reinforcing. Nutrients lost
 from burnt areas were mostly absorbed by unburnt areas adjacent and down slope.
-Over time, these areas became more fertile, with ecological succession to less
+Over time, these areas became more fertile, with [[holmgren-ecological-succession-and-pulsing]] to less
 fire-prone vegetation, often rainforest. These "islands" provided different food
 sources and habitat for animals that utilised the seasonal productivity of the
 burnt areas.
@@ -139,13 +139,8 @@ destroyed as the suburban monoculture takes over.
 
 Progressive suburban design maintains green space along watercourses for amenity
 and stormwater management, and creates nodes of denser pedestrian-dominated
-urban development. These designs all draw on the amenity of natural edge or the
-creation of designed edge -- applying ancient principles of edge productivity to
-contemporary settlement patterns.
-
-See also: [[holmgren-permaculture-edge-principle]],
-[[holmgren-ecological-succession-design]]
-
 ## See Also
 
 - [[permaculture-edge-effect-design]]
+- [[water-management]]
+- [[holmgren-water-harvesting-storage-landscapes]]

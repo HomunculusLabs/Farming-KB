@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Shulgin, A. & Shulgin, A. (1991). "PiHKAL: A Chemical Love Story." Transform Press.
-  - Shulgin, A.T. (1975). "The Chemistry and Pharmacology of MDMA and MDA." In "Psychopharmacology of Hallucinogens." Pergamon Press.
+  - Shulgin, A.T. (1975). "The [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]] of MDMA and MDA." In "Psychopharmacology of Hallucinogens." Pergamon Press.
   - Nichols, D.E. (1986). "Differences between the mechanism of action of MDMA, MDA, and the classic hallucinogens." Journal of Psychoactive Drugs, 18(4), 305-313.
   - Pasqualucci, V. et al. (1999). "MDA and MDMA: A review." European Review for Medical and Pharmacological Sciences, 3(4), 233-242.
 created: 2026-05-07
@@ -35,7 +35,7 @@ MDA was used briefly as an adjunct to psychotherapy in the 1960s and 1970s befor
 - **SMILES:** CC(N)CC1=CC=C(C=C1)OCO2
 - **Appearance:** White to off-white crystalline powder or crystalline shards
 
-MDA differs from MDMA by the absence of the N-methyl group, which results in significantly different pharmacokinetics and receptor binding profiles.
+MDA differs from MDMA by the absence of the N-methyl group, which results in significantly different pharmacokinetics and [[tihkal-receptor-binding-serotonin]] profiles.
 
 The methylenedioxy bridge on the phenyl ring is shared with MDMA, safrole-derived precursors, and other members of the MDxx class.
 
@@ -66,7 +66,7 @@ The stimulant component is more pronounced than MDMA, with users frequently repo
 - **Light dose:** 50–80 mg oral
 - **Common dose:** 80–130 mg oral
 - **Strong dose:** 130–180 mg oral
-- **Heavy dose:** 180+ mg oral (not recommended — increased risk of adverse effects)
+- **Heavy dose:** 180+ mg oral (not recommended — increased risk of [[blesching-cannabis-safety-adverse-effects-evidence]])
 
 MDA is approximately 2–3× more potent by weight than MDMA for comparable subjective effects, though dose-response relationships differ.
 
@@ -84,7 +84,7 @@ Neurotoxicity concern exists based on animal studies showing serotonergic axon d
 
 MDA is classified as **Schedule I** under the United Nations Convention on Psychotropic Substances (1971).
 
-In the United States, MDA is a Schedule I controlled substance under the Controlled Substances Act.
+In the [[dmt-containing-plants-united-states-halpern]], MDA is a Schedule I controlled substance under the Controlled [[controlled-substances-act-and-psychedelic-research]].
 
 In the European Union, it is controlled under national legislation in most member states, typically classified alongside MDMA.
 

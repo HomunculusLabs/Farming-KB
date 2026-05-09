@@ -1,22 +1,13 @@
 ---
-title: Stamets Fruiting Substrate Materials and Formulations
+title: Stamets Fruiting growing-gourmet-substrate-materials-wood-types and Formulations
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [[mushroom-cultivation, species-guide, equipment]
-sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+tags: [mushroom-cultivation, species-guide, equipment]
+sources: sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-
-# Stamets Fruiting Substrate Materials and Formulations
-#mushroom-cultivation #substrate-preparation #materials #sustainable-agriculture
-
-Updated: 2026-04-18
-
-Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Ch. 6 "Materials for Formulating a Fruiting Substrate"
-
-## Overview
-
-The potential for recycling organic wastes with fungi seems unlimited. Many mushrooms thrive on base materials alien to their natural habitat. Although Oyster mushrooms are generally found on deciduous woods, they grow well on cereal straws, corn cobs, seed hulls, coffee wastes, sugar cane bagasse, paper and pulp by-products, and numerous other materials. Success increases if the base material is modified for optimal structure and moisture, and heat-treated before inoculation. See also [[oyster-mushroom-substrate-preparation]], [[stem-butt-cardboard-cultivation]]
+# Stamets Fruiting Substrate Materials and Formulations #mushroom-cultivation #substrate-preparation #materials #sustainable-agriculture Updated: 2026-04-18 Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Ch. 6 "Materials for Formulating a Fruiting Substrate" ## Overview The potential for recycling organic wastes with fungi seems unlimited. Many mushrooms thrive on base materials alien to their natural habitat. Although Oyster mushrooms are generally found on deciduous woods, they grow well on cereal straws, corn cobs, seed hulls, coffee wastes, sugar cane bagasse, paper and pulp by-products, and numerous other materials. Success increases if the base material is modified for optimal structure and moisture, and heat-treated before inoculation. See also [[oyster-mushroom-substrate-preparation]], [[stem-butt-cardboard-cultivation]]
 
 ### Other Agricultural Wastes
 - Coffee waste and tea leaves
@@ -27,14 +18,14 @@ The potential for recycling organic wastes with fungi seems unlimited. Many mush
 - Hulls: almonds, walnuts, sunflower, pecans, peanuts
 - Soybean meal, roughage (Okara), soy waste
 - Artichoke waste
-- Cactus waste: saguaro, prickly pear, yucca, agave (Pleurotus opuntiae is native to prickly pear/agave/yucca)
+- Cactus waste: saguaro, [[comparison-agave-vs-prickly-pear-cultivation]], yucca, agave (Pleurotus opuntiae is native to prickly pear/agave/yucca)
 
 ## Suitable Tree Species List
 
 Comprehensive list compiled from trials and reports by Stamets, Pegler (1973), San Antonio (1981), Farr (1983), Gilbertson & Ryvarden (1986), Chang & Miles (1989), Przybylowicz & Donoghue (1989), and Krieger (1992):
 
 ### Hardwoods
-Acer (Maples), Alnus (Alders), Betula (Birches), Carpinus (Hornbeams), Carya (Hickories, Pecan), Castanea (Chestnuts), Castanopsis (Chinkapins), Cornus (Dogwoods), Fagus (Beeches), Fraxinus (Ashes), Juglans (Walnuts), Larix (Larches), Liquidambar (Sweetgums), Liriodendron (Tulip Poplar), Lithocarpus (Tanoaks), Ostrya (Ironwoods/Hophornbeams), Populus (Cottonwoods, Poplars, Aspens), Prosopis (Mesquite), Quercus (Oaks), Robinia (Black Locust), Rhus (Sumac), Salix (Willows), Taxus (Yews), Ulmus (Elms)
+Acer (Maples), Alnus (Alders), Betula (Birches), Carpinus (Hornbeams), Carya (Hickories, Pecan), Castanea (Chestnuts), Castanopsis (Chinkapins), Cornus (Dogwoods), Fagus (Beeches), Fraxinus (Ashes), Juglans (Walnuts), Larix (Larches), Liquidambar (Sweetgums), Liriodendron (Tulip Poplar), Lithocarpus (Tanoaks), Ostrya (Ironwoods/Hophornbeams), Populus (Cottonwoods, Poplars, Aspens), Prosopis (Mesquite), Quercus (Oaks), Robinia ([[comparison-black-locust-vs-honey-locust]]), Rhus (Sumac), Salix (Willows), Taxus (Yews), Ulmus (Elms)
 
 ### Softwoods
 Abies (Firs), Tsuga (Hemlocks), Pseudotsuga (Douglas Fir)
@@ -48,7 +39,7 @@ Ganoderma (G. oregonense, G. tsugae), Hypholoma (H. capnoides), Pleurotus (P. pu
 - Follow sustainable forest practices
 - Wood materials should ideally be a "waste" product from other activities
 - Mixed wood sources from mills that don't separate species are NOT recommended
-- Disease-free logs selected from forest in winter or early spring for log culture
+- Disease-free logs selected from forest in winter or [[coleman-overwintered-onions-and-early-spring-crops]] for log culture
 - Freshness of sawdust/chips counts -- competitors may already have taken hold in aged material
 - Lumber mills, pulp mills, furniture manufacturers generate usable waste
 
@@ -60,10 +51,11 @@ Base substrate is supplemented with carbohydrate- and protein-rich additives to 
 - Corn meal
 - Soy meal
 - Millet
-- Rye grain
+- [[bigwood-beug-miniculture-rye-grain-flush-variation-method]]
 
-Supplements increase biological efficiency but also increase contamination risk. Higher supplement levels require stricter sterilization protocols. See [[stamets-phase-ii-composting]].
-- [[mushroom-sawdust-bran-spawn-preparation]]
+Supplements increase [[stamets-biological-efficiency-yield]] but also increase contamination risk. Higher supplement levels require stricter sterilization protocols. See stamets-phase-ii-composting.
+- mushroom-sawdust-bran-spawn-preparation
+
 ## Practical Considerations
 
 Successful implementation of Stamets Fruiting Substrate Materials and Formulations requires attention to
@@ -83,3 +75,5 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+- [[biological-efficiency]]

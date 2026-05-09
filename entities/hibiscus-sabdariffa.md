@@ -36,7 +36,7 @@ beverages, preserves, and traditional medicines.
 
 The plant is believed to originate from West Africa, with some evidence
 suggesting Angola or Sudan as the center of domestication. It has been
-naturalized throughout Southeast Asia, Central America, the Caribbean, and parts
+naturalized throughout [[psilocybe-southeast-asia-pacific]], [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], the Caribbean, and parts
 of Australia.
 
 Roselle is valued for its striking red calyces, which are rich in anthocyanins
@@ -78,7 +78,7 @@ with consistent moisture. It grows on a wide range of soils (pH 4.5–8.0) but
 prefers well-drained, fertile loams. Daylength sensitivity varies by cultivar.
 
 Propagation is by seed (direct sowing or nursery seedlings) or by cuttings.
-Seed germination occurs in 3–5 days at 25–30°C. Plants are typically spaced
+[[cannabis-seed-germination-methods]] occurs in 3–5 days at 25–30°C. Plants are typically spaced
 50–100 cm apart in rows.
 
 Calyx harvest occurs 3–4 weeks after flowering, typically 120–180 days from
@@ -132,10 +132,10 @@ approximately 20:1.
 
 It functions as a temporary hedge or windbreak in annual cropping systems. The
 dense foliage provides partial shade for understory crops during the hottest
-part of the growing season. Calyx and leaf harvest creates a yield-producing
-living mulch system.
+part of the [[savory-growing-season-and-non-growing-season-management]]. Calyx and leaf harvest creates a yield-producing
+[[comparison-living-mulch-vs-cover-crops]] system.
 
-In agroforestry, roselle can be intercropped with fruit trees, cassava, or
+In agroforestry, roselle can be intercropped with [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], cassava, or
 vegetable crops. It acts as a nurse crop, protecting young tree seedlings from
 excessive sun and wind while generating income from calyx sales.
 
@@ -143,5 +143,7 @@ Seeds contain 18–22% oil rich in linoleic acid (38–44%) and oleic acid
 (20–28%), with potential for soap-making and biodiesel. The pressed seed cake
 is a nutritious animal feed supplement.
 ## See Also
+
+- [[hibiscus-cannabinus]]
 
 - [[medicinal-herbs-for-livestock]]

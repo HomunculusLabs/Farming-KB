@@ -57,14 +57,14 @@ delicate fungal networks.
 
 ### Bacteria
 Soil bacteria are the most numerous organisms in soil, with billions in
-a single teaspoon. They decompose simple organic compounds, fix
+a single teaspoon. They decompose simple [[fungal-volatile-organic-compounds-communication]], fix
 nitrogen from the air, and make nutrients available to plants. Different
 bacterial species thrive at different pH levels and temperatures, so a
-diverse soil supports diverse bacterial communities.
+diverse soil supports diverse [[cultivar-endorhiza-bacterial-communities-cannabis]].
 
 ### Other Important Organisms
 Protozoa eat bacteria and release nitrogen in plant-available form.
-Beneficial nematodes prey on root-feeding nematodes and other pests.
+[[ingham-beneficial-nematodes-soil-food-web]] prey on root-feeding nematodes and other pests.
 Springtails and mites break down organic matter and help control
 fungi. Ants aerate soil and bring organic material underground.
 
@@ -72,11 +72,11 @@ fungi. Ants aerate soil and bring organic material underground.
 
 Soil organisms perform several critical functions:
 - **Decomposition**: Breaking down dead plant and animal material
-- **Nutrient cycling**: Converting organic nutrients into mineral
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: Converting organic nutrients into mineral
   forms that plants can absorb
-- **Nitrogen fixation**: Converting atmospheric nitrogen into
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]**: Converting atmospheric nitrogen into
   plant-available form (performed by rhizobia and other bacteria)
-- **Disease suppression**: Outcompeting or preying on pathogens
+- **[[aact-disease-suppression-mechanisms-ingham]]**: Outcompeting or preying on pathogens
 - **Soil structure**: Creating aggregates that improve porosity,
   water-holding capacity, and resistance to erosion
 

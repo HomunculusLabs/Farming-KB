@@ -1,5 +1,5 @@
 ---
-title: "Bwiti Iboga Initiation and Fang Society"
+title: "entheogen bwiti iboga initiation fang society Initiation and Fang Society"
 created: 2026-04-28
 tags: [ethnobotany, entheogen, ibogaine, african, initiation, bwiti]
 date: 2026-04-25
@@ -15,7 +15,7 @@ most complex and enduring entheogenic traditions in the world. Centered
 on the use of [[iboga-and-ibogaine-profile]], the Bwiti cults of the Fang people of
 Gabon provide a remarkable example of how a hallucinogenic plant can
 serve as the foundation for an entire religious, social, and ethical
-system. The root bark of Tabernanthe iboga contains the psychoactive
+system. The [[iboga-root-bark-preparation]] of [[plants-of-the-gods-tabernanthe-iboga-chemistry]] contains the psychoactive
 portion of the plant, and it is consumed in elaborate initiation
 ceremonies that define the structure of Fang society.
 
@@ -24,7 +24,7 @@ ceremonies that define the structure of Fang society.
 Tabernanthe iboga is a small, shrubby bush native to Gabon, the Congo,
 and surrounding regions of West and Central Africa. It is the only
 member of its genus in the dogbane family, Apocynaceae. The plant's
-active compounds bear a structural relationship to the beta-carboline
+active compounds bear a [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to the beta-carboline
 alkaloids found in [[peganum-harmala]]. Ibogaine is
 the principal psychoactive alkaloid, though the root bark contains a
 complex mixture of indole alkaloids that contribute to the overall
@@ -46,7 +46,7 @@ mechanism of action remains incompletely understood.
 
 Ibogaine was investigated as a potential treatment for male impotence
 in the mid-twentieth century. The research was promising, but ibogaine
-was placed in a controlled category in the United States, making
+was placed in a controlled category in the [[dmt-containing-plants-united-states-halpern]], making
 further research difficult. If the impact of ibogaine on sexual
 dysfunction is found to be congruent with its folklore, then further
 research might be especially promising. These powerful plants that
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

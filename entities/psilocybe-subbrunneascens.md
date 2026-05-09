@@ -10,7 +10,7 @@ sources: [/Users/t3erpz/wiki/raw/papers/cultivation-of-panaeolus-cyanescens-and-
 
 # Psilocybe subbrunneascens
 
-**Psilocybe subbrunneascens** is a psilocybin mushroom in the family Hymenogastraceae, described from the highlands of Guatemala and subsequently reported from southern Mexico and Colombia. It was first formally described by gastón-guzmán in the 1980s during his extensive fieldwork on neurotropic fungi of Mesoamerica. The species is placed in Psilocybe section Mexicanae, a group noted for sclerotia production and preference for subtropical grassland habitats.
+**Psilocybe subbrunneascens** is a [[emcdda-psilocybin-mushroom-dose-and-effects]] in the family Hymenogastraceae, described from the highlands of Guatemala and subsequently reported from southern Mexico and Colombia. It was first formally described by gastón-guzmán in the 1980s during his extensive fieldwork on neurotropic fungi of Mesoamerica. The species is placed in [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]] Mexicanae, a group noted for [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] and preference for subtropical grassland habitats.
 
 ## Taxonomy
 
@@ -32,12 +32,12 @@ psilocybe subbrunneascens was originally described from the highlands of Guatema
 
 ## Chemistry
 
-Chemical analysis has confirmed the presence of [[psilocin]] in fruiting bodies. The tryptamine alkaloid profile is similar to that of [[psilocybin]] predominant over [[psilocybe-mexicana]] is the most similar and frequently confused species, from which psilocybe subbrunneascens differs in its paler cap coloration when moist, slightly smaller spores, and generally weaker bluing reaction. psilocybe mulgewii from Jamaica shares similar dimensions but has a distinctive odor and different cheilocystidia. [[psilocybe-mexicana]]
+Chemical analysis has confirmed the presence of [[psilocin]] in fruiting bodies. The tryptamine alkaloid profile is similar to that of [[psilocybin]] predominant over [[psilocybe-mexicana]] is the most similar and frequently confused species, from which psilocybe subbrunneascens differs in its paler cap coloration when moist, slightly smaller spores, and generally weaker [[field-guide-psilocybin-bluing-reaction-identification]]. psilocybe mulgewii from Jamaica shares similar dimensions but has a distinctive odor and different cheilocystidia. [[psilocybe-mexicana]]
 - Slow, weak blue bruising on the cap flesh and stipe when damaged
 - Occurrence in montane grasslands and pastures at 1,500–2,500 meters elevation
 - Dark purplish brown spore print on white paper
 
-The weak bluing reaction can be a particular challenge, as it may take several minutes to develop and may be easily overlooked. In fresh specimens collected during peak rainy season, the bruising is typically more pronounced than in older or drier specimens. The farinaceous odor, when present, provides a supporting character. Definitive identification requires microscopic examination, particularly of spore dimensions (6–8 × 4–5 µm), which are slightly smaller than those of [[psilocybe-mexicana]] — the most closely related and frequently confused species
+The weak bluing reaction can be a particular challenge, as it may take several minutes to develop and may be easily overlooked. In fresh specimens collected during peak rainy season, the bruising is typically more pronounced than in older or drier specimens. The farinaceous odor, when present, provides a supporting character. Definitive identification requires [[fungal-microscopic-examination-mounting-media-techniques]], particularly of spore dimensions (6–8 × 4–5 µm), which are slightly smaller than those of [[psilocybe-mexicana]] — the most closely related and frequently confused species
 - [[psilocybe-martinezii]] — Mexican species from section Mexicanae
 - gastón-guzmán — describing authority
 - [[psilocybe-tampanensis-entity]] — another sclerotia-producing species from the section
@@ -60,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -12,14 +12,14 @@ updated: 2026-04-26
 
 ## Overview
 
-Fungi constitute one of the most diverse kingdoms of life, yet their biodiversity remains profoundly underestimated. Current estimates suggest there are between 1.5 and 5.1 million species of fungi worldwide, of which only approximately 120,000-150,000 have been formally described. This means that the vast majority of fungal species -- potentially 90-97% -- remain unknown to science. The scale of undocumented fungal diversity is one of the most significant gaps in our understanding of global biodiversity. Despite their ecological importance as decomposers, mutualists, and pathogens, fungi are consistently underrepresented in biodiversity assessments, conservation policies, and protected area management.
+Fungi constitute one of the most diverse kingdoms of life, yet their biodiversity remains profoundly underestimated. Current estimates suggest there are between 1.5 and 5.1 million species of fungi worldwide, of which only approximately 120,000-150,000 have been formally described. This means that the vast majority of fungal species -- potentially 90-97% -- remain unknown to science. The scale of undocumented fungal diversity is one of the most significant gaps in our understanding of [[psilocybe-global-biodiversity-hotspots]]. Despite their ecological importance as decomposers, mutualists, and pathogens, fungi are consistently underrepresented in biodiversity assessments, conservation policies, and protected area management.
 
 ## The Scale of Unknown Diversity
 
 The magnitude of undiscovered fungal biodiversity becomes apparent from several lines of evidence:
 
 - **No complete inventory**: No complete inventory of soil fungi has been undertaken for any single geographic region, and no complete inventory exists for any fungal functional group at any spatial scale.
-- **Undersampled ecosystems**: Tropical soils; soils from austral South America, southern Asia, and much of Australia and Africa; and soils in other geographically and ecologically remote areas have been examined far less thoroughly than temperate regions.
+- **Undersampled ecosystems**: [[mollison-designers-tropical-soils-and-cation-exchange-management]]; soils from austral South America, southern Asia, and much of Australia and Africa; and soils in other geographically and ecologically remote areas have been examined far less thoroughly than temperate regions.
 - **Taxonomic impediment**: Even in well-studied temperate regions, 60-80% of sporulating soil fungi can be identified to species, but higher percentages of unknown forms are encountered in tropical or remote sites. Many species cannot be reliably identified without trained systematists.
 - **Cryptic diversity**: Molecular methods continue to reveal cryptic species complexes that are morphologically similar but genetically distinct, indicating that described species counts substantially underestimate true diversity.
 - **Methodological biases**: Culture-based methods detect only a fraction of the organisms present. Single-isolation-method inventories consistently underestimate species richness compared to multi-method approaches. Basidiomycetes remain "the missing link in soil mycology" because standard soil plating techniques fail to capture their diversity.
@@ -28,7 +28,7 @@ The magnitude of undiscovered fungal biodiversity becomes apparent from several 
 
 ### Latitudinal Gradients
 
-Fungal biodiversity patterns exhibit distinct spatial and temporal trends, though these patterns remain largely unexplored compared to those of plants and animals. Key observations include:
+Fungal [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]] exhibit distinct spatial and temporal trends, though these patterns remain largely unexplored compared to those of plants and animals. Key observations include:
 
 - Species diversity of sequestrate fungi is highest in subtropical to temperate forests, declining toward polar regions and at high elevations, even when suitable hosts are present.
 - Chytrid diversity increases from higher latitudes toward equatorial regions, following a gradient pattern common among many organisms.
@@ -46,7 +46,7 @@ Fungal diversity is strongly influenced by habitat characteristics:
 
 ### Environmental Correlates
 
-Soil fungal community composition is regulated strongly by climatic and edaphic factors. An experienced mycologist reading a list of the 10-20 most abundant fungi in a soil sample can predict with great accuracy the prevailing vegetation and climate. Key factors include temperature, moisture, pH, organic matter content, and vegetation type. Ecological similarity among habitats supersedes geography as a predictor of fungal community composition.
+Soil fungal [[core-endorhiza-bacterial-community-composition-cannabis]] is regulated strongly by climatic and [[soil-edaphic-factors-microbial-communities]]. An experienced mycologist reading a list of the 10-20 most abundant fungi in a soil sample can predict with great accuracy the prevailing vegetation and climate. Key factors include temperature, moisture, pH, organic matter content, and vegetation type. Ecological similarity among habitats supersedes geography as a predictor of fungal community composition.
 
 ## Conservation Challenges
 
@@ -56,7 +56,7 @@ Fungal conservation faces unique challenges:
 - **Lack of conservation status assessments**: Very few fungal species have been formally evaluated for conservation status. Threatened fungal species are rarely included in red lists or protected species legislation.
 - **Habitat dependence**: Many fungi are intimately associated with specific host plants, substrata, or microenvironments. Loss of old-growth forests, dead wood habitats, or specific host plants cascades to fungal biodiversity loss.
 - **Undescribed species at risk**: Many endemic fungal species are likely being driven to extinction before they are ever described, particularly in biodiversity hotspots facing deforestation and habitat conversion.
-- **Air pollution effects**: Studies in Europe have demonstrated significant impacts of air pollution (especially nitrogen deposition and acidification) on basidiomycete communities, with sensitive species declining and tolerant species increasing.
+- **Air pollution effects**: Studies in Europe have demonstrated significant impacts of air pollution (especially [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and acidification) on basidiomycete communities, with sensitive species declining and tolerant species increasing.
 - **Logging and wood removal**: Anthropogenic disturbances such as logging and removal of dead wood dramatically reduce habitat for wood-inhabiting fungi, which depend on a continuous supply of woody debris in various decay stages.
 
 ## Approaches to Fungal Conservation
@@ -83,6 +83,6 @@ Sequestrate (truffle-like) fungi are particularly important for conservation att
 - [[fungal-biodiversity-biogeography]]
 - [[fungal-biodiversity-forest-ecosystems]]
 - [[fungal-biodiversity-grassland]]
-- [[fungal-biodiversity-in-soil-ecosystems]]
+- fungal-biodiversity-in-soil-ecosystems
 - [[gadd-fungal-ecology-saprotrophs]]
 - [[gadd-fungal-extremophiles]]

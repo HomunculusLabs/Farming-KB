@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Weete, J.D. & Gandhi, S.R. (1996). \"Sterols of fungi: Their distribution in the contemporary fungal kingdom.\" The Mycota, Vol. I, 393-412."
-  - "Dupont, S. et al. (2011). \"The ergosterol biosynthetic pathway and its regulation by oxygen.\" Fungal Genetics and Biology, 48(7), 694-702."
+  - "Dupont, S. et al. (2011). \"The ergosterol biosynthetic pathway and its regulation by oxygen.\" [[fungal-genetics]] and Biology, 48(7), 694-702."
   - "Barros, L. et al. (2007). \"Total phenols, ascorbic acid, β-carotene and lycopene in Portuguese wild edible mushrooms and their antioxidant activities.\" Food Chemistry, 103(2), 413-419."
   - "Mattila, P. et al. (2002). \"Vitamin D₂ in edible mushrooms in relation to UV irradiation.\" Journal of Agricultural and Food Chemistry, 50(22), 6413-6416."
 ---
@@ -46,7 +46,7 @@ Ergosterol is synthesized via the mevalonate pathway, shared with plant and anim
 - **Key enzymes:** HMG-CoA reductase (rate-limiting), squalene epoxidase, C-14 demethylase (CYP51), C-22/C-23 desaturase
 - **Regulation:** Oxygen-dependent; anaerobic conditions block the pathway at C-5 and C-22 desaturation steps, leading to accumulation of intermediate sterols
 - **Fungal specificity:** Found in all true fungi (Eumycota) but absent in bacteria, plants, and animals
-- **Content by species:** Agaricus bisporus (~5.8 mg/g DW), Pleurotus ostreatus (~7.3 mg/g DW), Lentinula edodes (~8.4 mg/g DW), porcini (Boletus edulis, ~10.6 mg/g DW)
+- **Content by species:** Agaricus bisporus (~5.8 mg/g DW), [[pleurotus-ostreatus]] (~7.3 mg/g DW), [[lentinula-edodes]] (~8.4 mg/g DW), porcini (Boletus edulis, ~10.6 mg/g DW)
 - **Mycelial vs. fruiting body:** Mycelium typically contains lower ergosterol concentrations than mature fruiting bodies
 - **Environmental factors:** Light exposure, temperature, and substrate composition influence ergosterol accumulation; higher levels observed in sun-exposed specimens
 - **Storage:** Concentrated in plasma membrane; small amounts in intracellular membranes (mitochondria, ER)
@@ -67,7 +67,7 @@ Ergosterol converts to vitamin D₂ (ergocalciferol) upon ultraviolet B (UVB) ir
 
 - **Mechanism:** UVB (280–315 nm) photolyzes the B-ring, opening it to form pre-vitamin D₂, which thermally isomerizes to vitamin D₂
 - **Conversion rate:** 20–50% of ergosterol converts to vitamin D₂ under controlled UV exposure
-- **Commercial production:** Large-scale irradiation of ergosterol extracted from yeast (*Saccharomyces cerevisiae*) is the primary source of dietary vitamin D₂ supplements
+- **Commercial production:** Large-scale irradiation of ergosterol extracted from yeast (*[[saccharomyces-cerevisiae]]*) is the primary source of dietary vitamin D₂ supplements
 - **Mushroom irradiation:** Fresh mushrooms exposed to UVB produce 10–25 µg vitamin D₂ per 100 g fresh weight, comparable to vitamin D₂ supplements
 - **Post-harvest enhancement:** UV treatment of commercially grown mushrooms is increasingly adopted by producers; gills are most responsive due to high surface area
 - **Sun-drying:** Traditional sun-drying of mushrooms achieves significant vitamin D₂ formation, explaining the elevated vitamin D content of many dried mushroom products in traditional diets
@@ -82,7 +82,7 @@ Ergosterol biosynthesis is the target of the most widely used antifungal drug cl
 - **Allylamines (terbinafine):** Inhibit squalene epoxidase, preventing squalene-to-lanosterol conversion
 - **Morpholines (fenpropimorph):** Inhibit C-14 reductase and C-8 isomerase
 - **Selective toxicity:** Mammalian cells use cholesterol, not ergosterol — this difference underlies the therapeutic index of antifungal agents
-- **Resistance mechanisms:** Target site mutations in CYP51, upregulation of efflux pumps (CDR1, MDR1), and activation of alternative sterol pathways have been documented in clinical isolates of *Candida albicans* and *Aspergillus fumigatus*
+- **Resistance mechanisms:** Target site mutations in CYP51, upregulation of efflux pumps (CDR1, MDR1), and activation of alternative sterol pathways have been documented in clinical isolates of *[[candida-albicans]]* and *[[aspergillus-fumigatus]]*
 
 ## Analytical Methods
 

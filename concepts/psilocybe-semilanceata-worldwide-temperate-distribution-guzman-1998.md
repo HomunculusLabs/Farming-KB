@@ -4,7 +4,7 @@
 Psilocybe semilanceata, commonly known as the [[neurotropic-fungi]] in the world. According to the global
 survey by guzmán, allen & gartz (1998), this species has been documented
 across an extraordinary range of temperate and boreal habitats spanning both
-hemispheres, yet is notably absent from Mexico as a Neurotropic Fungi Diversity Hotspot, making its distribution pattern a biogeographic anomaly.
+hemispheres, yet is notably absent from Mexico as a [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] Diversity Hotspot, making its distribution pattern a biogeographic anomaly.
 
 ## European Distribution
 
@@ -39,7 +39,7 @@ regions, demonstrates remarkable ecological plasticity.
 ## North American Distribution
 
 In North America, P. semilanceata is concentrated in the Pacific Northwest
-region of the United States and Canada, where it was documented by Guzmán
+region of the [[dmt-containing-plants-united-states-halpern]] and Canada, where it was documented by Guzmán
 et al. (1976) and numerous subsequent researchers:
 
 - **Washington State**: One of the most productive regions, with extensive
@@ -49,14 +49,14 @@ et al. (1976) and numerous subsequent researchers:
   corridor.
 - **British Columbia, Canada**: Recorded by Turner & Szczawinski (1991).
 - **Alaska**: Extends into subarctic North America.
-- **Eastern North America**: Reported from Georgia (Guzmán, 1983), Vermont
+- **[[polypore-fungi-eastern-north-america]] America**: Reported from Georgia (Guzmán, 1983), Vermont
   (no specific P. semilanceata record, but [[psilocybe-species-diversity-and-biogeographic-origin]]
 worldwide, has never been documented in Mexico. This absence supports the
 hypothesis proposed by [[psilocybe-zapotecorum]]-section-zapotecorum-americas-pacific-distribution-guzman-1998
 - [[psilocybe-semilanceata]]-distribution-ecology
 ## Practical Considerations
 
-When working with Psilocybe Semilanceata Worldwide Temperate Distribution Guzman 1998, several practical factors should be
+When working with Psilocybe Semilanceata Worldwide Temperate psilocybe semilanceata worldwide temperate distribution guzman 1998 1998, several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

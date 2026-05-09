@@ -1,5 +1,5 @@
 ---
-title: "Talking Staff and Preparation-Integration in Hybrid Ceremonies"
+title: "metzner talking staff and preparation integration in hybrid ceremonies and Preparation-Integration in Hybrid Ceremonies"
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 tags: [ralph-metzner, talking-staff, council-practice, neoshamanic,
   preparation, integration, intention-sharing, meditation, expressive-arts,
@@ -9,13 +9,13 @@ created: 2026-05-08
 
 # Talking Staff and Preparation-Integration in Hybrid Ceremonies
 
-[[metzner-preparation-and-integration-practices-in-hybrid-ceremonies]]
+metzner-preparation-and-integration-practices-in-hybrid-ceremonies
 
 [[metzner-set-and-setting-hypothesis-origins-and-extensions]]
 [[metzner-shamanic-singing-icaros-rhythm-and-entrainment]]
 [[metzner-syncretic-entheogenic-folk-ceremonies]]
-[[metzner-syncretic-entheogenic-folk-ceremonies-community-ritual]]
-holotropic breathwork
+metzner-syncretic-entheogenic-folk-ceremonies-community-ritual
+[[metzner-holotropic-breathwork-and-grof-perinatal-matrices]]
 ## Background and Context
 
 Talking Staff and Preparation-Integration in Hybrid Ceremonies is an important subject that has garnered significant attention
@@ -66,7 +66,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -144,4 +144,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

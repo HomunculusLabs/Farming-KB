@@ -5,12 +5,13 @@ updated: 2026-04-12
 type: concept
 tags: [mycology, ecology, decomposition, nutrient-cycling, soil, symbiosis]
 sources:
-  - raw/papers/mycelium-running-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Fungal Ecology
 
-Fungi are the grand recyclers of the planet — keystone organisms that create soil, cycle nutrients, and govern ecological equilibrium. From *Mycelium Running* by [[paul-stamets]].
+Fungi are the grand recyclers of the planet — keystone organisms that create soil, cycle nutrients, and govern ecological equilibrium. From *[[woodlovers-mycelium-running-pathway-technique]]* by [[paul-stamets]].
 
 ## Evolutionary Context
 
@@ -26,8 +27,8 @@ Fungi are the grand recyclers of the planet — keystone organisms that create s
 ### 1. Saprophytic (Decomposers)
 Break down dead organic matter into simpler molecules. The premier recyclers.
 
-- **Primary decomposers**: First on fresh debris. Fast-growing. Include oyster (Pleurotus), shiitake (Lentinula edodes), maitake (Grifola frondosa).
-- **Secondary decomposers**: Work after primary fungi + bacteria. Include button mushroom (Agaricus bisporus), garden giant (Stropharia rugoso-annulata).
+- **Primary decomposers**: First on fresh debris. Fast-growing. Include oyster (Pleurotus), shiitake (Lentinula edodes), maitake ([[maitake-grifola-frondosa-comprehensive-profile]]).
+- **Secondary decomposers**: Work after primary fungi + bacteria. Include button mushroom ([[genetic-improvement-agaricus-bisporus-molecular-approaches]]), garden giant (Stropharia rugoso-annulata).
 - **Tertiary decomposers**: End-stage decomposers in complex microbial soil. Include Agrocybe, Mycena, Clitocybe.
 
 ### 2. Parasitic
@@ -45,7 +46,7 @@ Live inside plant tissues without causing disease. Enhance growth and disease re
 
 | | White Rot | Brown Rot |
 |---|---|---|
-| **Enzymes** | Lignin peroxidase, manganese peroxidase, laccase | Primarily cellulases |
+| **Enzymes** | Lignin peroxidase, [[fungal-manganese-peroxidase-remediation]], laccase | Primarily cellulases |
 | **Effect on wood** | Breaks down lignin, leaves white cellulose | Breaks down cellulose, leaves brown lignin |
 | **Remediation** | Breaks H-C bonds in petroleum, PAHs, PCBs | Less effective for toxin degradation |
 | **% of species** | ~93% | ~7% |
@@ -113,11 +114,15 @@ Mycelium "sweats" antibiotics that shape microbial populations. Cold-water extra
 
 Select saprophytic mushrooms can outcompete parasitic forest pathogens:
 - **Sparassis crispa** (cauliflower mushroom) parasitizes Armillaria in vitro
-- **Hypholoma capnoides/fasciculare** reduced Armillaria root rot by up to 67% in field trials
-- **Trametes versicolor** (turkey tail) overgrows Armillaria mycelium
+- **[[growing-gourmet-hypholoma-capnoides-cultivation]]/fasciculare** reduced Armillaria root rot by up to 67% in field trials
+- **[[staycare-trametes-versicolor-bioremediation-applications]]** (turkey tail) overgrows Armillaria mycelium
 - By erecting "mycelial perimeters" of beneficial species, foresters can create species barriers against devastating parasites
 
 ## See Also
+
+- [[fungal-metatranscriptomics]]
+- [[saltmarsh-fungal-ecology]]
+- [[soil-fungal-ecology]]
 
 - [[mycorestoration-overview]] for applied fungal ecology
 - [[mycorrhizal-networks]] for plant-fungal partnerships

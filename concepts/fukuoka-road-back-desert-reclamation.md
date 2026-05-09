@@ -1,11 +1,12 @@
 ---
-title: Fukuoka's Desert Reclamation: Stopping the Advance of Deserts
+title: Fukuoka's fukuoka-desert-reclamation-projects: Stopping the Advance of Deserts
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [regenerative, farming, desertification, regenerative]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka's Desert Reclamation: Stopping the Advance of Deserts
 
@@ -17,7 +18,7 @@ In the final chapters of [[fukuoka-natural-farming-method]] — from individual 
 
 Fukuoka argues that deserts do not form because water disappears. Rather, the fundamental conditions preceding and underlying the appearance of water — namely, the perishing of grasses and other plants — must be understood first. When man cuts down trees and his livestock feeds on grasses, the varieties of plant life invariably dwindle. Simplified vegetative cover is easily destroyed. If the land is taken over by yellow grasses such as foxtail, the increased reflection of sunlight raises ground temperature, upsetting weather patterns and accelerating evaporation, transforming land into desert.
 
-He traces this pattern across continents: the Silk Road regions of China, once virgin forest and green plains; Africa, Iran, and Iraq, where vast areas that once flourished have become arid; the Amazon rain forests, cleared by Japanese trading companies for agriculture, giving way to desert; the dense forests of Thailand and Southeast Asia, razed and left as barren land. Even in Japan, the mountain forests of Shikoku were depleted more than a thousand years ago when provincial temples were erected everywhere.
+He traces this [[psilocin-accumulation-pattern-across-flushes]] continents: the Silk Road regions of China, once virgin forest and green plains; Africa, Iran, and Iraq, where vast areas that once flourished have become arid; the Amazon rain forests, cleared by Japanese trading companies for agriculture, giving way to desert; the dense forests of Thailand and Southeast Asia, razed and left as barren land. Even in Japan, the mountain forests of Shikoku were depleted more than a thousand years ago when provincial temples were erected everywhere.
 
 The [[fukuoka-view-of-nature-and-human-hubris]], which holds that human attempts to improve upon nature invariably produce the opposite effect. The clearing of forests for agriculture, the overgrazing of grasslands by livestock, and the draining of wetlands all reflect the same error: the assumption that nature's complexity can be simplified without consequence.
 
@@ -31,7 +32,7 @@ The [[fukuoka-critique-laws-agricultural-science]] shows how scientific "laws" a
 
 ## The Seed-Scattering Approach
 
-Fukuoka proposes that the first step in reclaiming arid land should be to cover the ground with a mantle of vegetation. He suggests conducting a large-scale aerial seeding in which the seeds of many different kinds of vegetables and green manure plants are scattered over as wide an area as possible. This may seem brash and foolish, but Fukuoka insists it can bring land out of a hopeless state.
+Fukuoka proposes that the first step in reclaiming arid land should be to cover the ground with a mantle of vegetation. He suggests conducting a large-scale [[clay-seed-pellet-composition-and-aerial-seeding-method]] in which the seeds of many different kinds of vegetables and green manure plants are scattered over as wide an area as possible. This may seem brash and foolish, but Fukuoka insists it can bring land out of a hopeless state.
 
 The key principles of his approach:
 
@@ -69,7 +70,7 @@ Fukuoka's practical guide to desert succession ecology provides a specific seque
 
 ## The Sowing Method
 
-Natural farming begins by sowing different seeds and determining what will grow on the land. The same method used for converting farms managed with scientific techniques to natural farms can be used for changing a desert land into a green plain. The natural farm provides extremely fascinating food for thought on this question.
+[[comparison-natural-farming-vs-permaculture]] begins by sowing different seeds and determining what will grow on the land. The same method used for converting farms managed with scientific techniques to natural farms can be used for changing a desert land into a green plain. The natural farm provides extremely fascinating food for thought on this question.
 
 ## Desert Succession Sequence
 
@@ -93,7 +94,7 @@ The scientist conducts soil tests, determines physical properties, and tells the
 
 ## Learning from Failure
 
-Nature, seen superficially, is stingy and generous. That is why "do-nothing" natural farming is possible. On the other hand, the deeper we pursue the scientific study of nature, the more we realise nature to be a complicated organic entity that cannot be comprehended with knowledge.
+Nature, seen superficially, is stingy and generous. That is why "do-nothing" natural farming is possible. On the other hand, the deeper we pursue the [[roger-heim-scientific-study-psilocybin]] of nature, the more we realise nature to be a complicated organic entity that cannot be comprehended with knowledge.
 
 If we attempt to grasp the essence of nature and practice a natural way of farming that makes use of this, the result would be an incredibly complicated and rigorous method. These are the two sides of natural farming. In any case, natural farming starts with the skillful sowing of seed; but the intellect cannot discern what is skillful and what is not.
 
@@ -114,7 +115,7 @@ The seeds of many different types of plants -- as well as microbes, insects, and
 
 The only way in which an entire vast region can be revegetated at once is to scatter the seeds of grasses, trees, and vegetables for greening the deserts from airplanes. The vision is to use aircraft to distribute clay-encased seed pellets over vast areas of desert, allowing natural processes to select which species establish.
 
-Fukuoka's ultimate desire was to run tests on methods of scattering drought-hardy coated seeds over arid lands by airplane. The California desertification analysis and the Somalia experiments were steps toward this larger vision. See [[fukuoka-seed-ball-methods-advanced]].
+Fukuoka's ultimate desire was to run tests on methods of scattering drought-hardy coated seeds over arid lands by airplane. The [[fukuoka-california-desertification-myth-natural-aridity]] analysis and the Somalia experiments were steps toward this larger vision. See [[fukuoka-seed-ball-methods-advanced]].
 
 ## From Desert to Green Plain
 

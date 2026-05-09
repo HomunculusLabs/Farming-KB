@@ -1,5 +1,5 @@
 ---
-title: Falconer Mushroom Spawn Preparation
+title: Falconer Mushroom azurescens-spawn-preparation-grain-to-wood
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -7,7 +7,7 @@ sources:
 type: concept
 tags: [grain-spawn, mushroom-cultivation]
 ---
-# Falconer Mushroom [[mushroom-spawn]],
+# Falconer Mushroom mushroom-spawn,
 which he called "the chief enigma connected with mushroom-growing." He
 explained that what growers call spawn, botanists term mycelium -- the
 true mushroom plant, a delicate white mold-like network of whitish
@@ -56,7 +56,7 @@ Natural spawn occurring spontaneously in fields, manure piles, or
 elsewhere, presumably produced directly from spores. Far more vigorous
 than "made" spawn. Seldom used for spawning beds because difficult to
 obtain. When found, it was to be secured, dried, and used as French
-flake spawn.
+[[french-flake-spawn-vs-brick-spawn]].
 
 ## Keeping Spawn
 
@@ -84,3 +84,6 @@ patches on brick surfaces indicated other [[cuthill-mushroom-spawn-preparation-h
 ## See Also
 
 - [[falconer-mushroom-cooking-selection-and-preparation]]
+- [[mushroom-spawn-preparation]]
+- [[spawn-preparation]]
+- [[mushroom-spawn-grain-preparation-inoculation]]

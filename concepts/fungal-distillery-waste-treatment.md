@@ -3,27 +3,21 @@ title: Fungal Distillery Waste Treatment
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Distillery Waste Treatment
-
-## Overview
-
-Distillery wastewater (stillage, vinasse, or molasses spent wash) is produced during ethanol distillation from sugarcane, beet, grains, and fruit. For every liter of ethanol produced, up to 20 liters of stillage is generated. A typical distillery produces over half a million liters of stillage daily, with pollution levels equivalent to the sewage of a city of 500,000 people. The dark brown color, high COD (85,170 mg/L), and recalcitrant melanoidin polymers make treatment challenging.
-
-This topic complements [[mycoremediation-basics]].
+# Fungal Distillery Waste Treatment ## Overview Distillery wastewater (stillage, vinasse, or molasses spent wash) is produced during ethanol distillation from sugarcane, beet, grains, and fruit. For every liter of ethanol produced, up to 20 liters of stillage is generated. A typical distillery produces over half a million liters of stillage daily, with pollution levels equivalent to the sewage of a city of 500,000 people. The dark brown color, high COD (85,170 mg/L), and recalcitrant melanoidin polymers make treatment challenging. This topic complements [[mycoremediation-basics]].
 
 ## Composition and Characteristics
 
-Molasses stillage has high ash content, low pH (~3.5), high mineral salt concentration, and BOD ranging from 45–65 g/dm³. Sugarcane stillage contains acetic acid, lactic acid, glycerol, and reducing sugars. Beet molasses has COD of 80.5 g/L, Kjeldahl-N of 1.8 g/L, and total phenols of 0.450 g/L. The color disrupts photosynthesis in surface waters, causes eutrophication, reduces dissolved oxygen, and inhibits seed germination when disposed on land.
+Molasses stillage has high ash content, low pH (~3.5), high mineral salt concentration, and BOD ranging from 45–65 g/dm³. Sugarcane stillage contains acetic acid, lactic acid, glycerol, and reducing sugars. Beet molasses has COD of 80.5 g/L, Kjeldahl-N of 1.8 g/L, and total phenols of 0.450 g/L. The color disrupts photosynthesis in surface waters, causes eutrophication, reduces [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]], and inhibits seed germination when disposed on land.
 
 ## Melanoidin Degradation
 
 Melanoidins are complex polymers formed by Maillard aminocarbonyl reactions. They are recalcitrant, show antioxidant properties, and are inhibitory to fermentation. Key findings on fungal melanoidin degradation:
 
 - **Lignin peroxidase (LiP)**: Production increases with molasses addition; color removal rate is directly proportional to LiP activity in *P. chrysosporium*
-- **Manganese peroxidase (MnP)**: Coriolus hirsutus pellets use MnP and manganese-independent peroxidase (MIP) for enzymatic decolorization of synthetic melanoidins
+- **[[fungal-manganese-peroxidase-remediation]] (MnP)**: Coriolus hirsutus pellets use MnP and manganese-independent peroxidase (MIP) for enzymatic decolorization of synthetic melanoidins
 - **Laccase**: Trametes sp. I-62 showed 35-fold laccase increase in response to vinasse compounds; laccase activity correlated with decolorization
 - **Glucose oxidase**: Generates H₂O₂ acting as bleaching agent on spent wash (*Flavodon flavus*)
 - **Adsorption**: 5–25% of decolorization by *T. versicolor* and *A. niger* is attributable to mycelial adsorption
@@ -33,13 +27,13 @@ Melanoidins are complex polymers formed by Maillard aminocarbonyl reactions. The
 | Fungus | Stillage Type | Decolorization (%) | Duration | Key Enzyme |
 |--------|--------------|-------------------|----------|------------|
 | *Flavodon flavus* | Cane MSW/10% | 80 | 8 days | MnP, laccase |
-| *Phanerochaete chrysosporium* | Synthetic melanoidin | 80 | 6 days | Extracellular enzymes |
+| *[[staycare-phanerochaete-chrysosporium-in-bioremediation]]* | Synthetic melanoidin | 80 | 6 days | Extracellular enzymes |
 | *P. chrysosporium* ATCC 24725 | MSW/6.25% | 85 | 10 days | LiP |
 | *Trametes sp.* I-62 | Distillery vinasse/20% | 73 | 7 days | Laccase (35× increase) |
 | *Coriolus hirsutus* (pellets) | Melanoidin medium | 60 | 5 days | MnP, MIP, laccase |
 | *Coriolus versicolor* Ps4a | Molasses pigment | 80 | — | Intracellular enzymes |
 | *Mycelia sterilia* D90 | Molasses wastewater | 93 | 8 days | — |
-| *Aspergillus fumigatus* G-2-6 | Molasses melanoidin | 75 | 3 days | — |
+| *[[gadd-aspergillus-fumigatus-glucan-virulence]]* G-2-6 | Molasses melanoidin | 75 | 3 days | — |
 
 ## Single-Cell Protein Production
 
@@ -71,12 +65,12 @@ Mixed cultures also help prevent contamination in continuous fermentation by occ
 ## Factors Affecting Treatment
 
 - **Carbon source**: Glucose provides highest growth and decolorization rates
-- **Nitrogen**: Low-nitrogen media favor highest decolorization for white-rot fungi; yeast extract and peptone support best growth for *C. versicolor*; phosphoric acid provides best protein/biomass production in *C. krusei*
+- **Nitrogen**: Low-nitrogen media favor highest decolorization for white-rot fungi; yeast extract and peptone support best growth for *C. versicolor*; phosphoric acid provides best protein/[[dighton-fungal-biomass-production-aquatic-ecosystems]] in *C. krusei*
 - **Temperature**: Optima at 30°C (strain D90), 32–36°C (*Hansenula* sp.), 35°C (*C. versicolor*), 40°C (*P. chrysosporium*, *C. rugosa*)
 - **pH**: Best decolorization at pH 5.0 for most species; melanoidin components are soluble at basic pH and insoluble at acidic pH
 - **Aeration**: Dissolved oxygen of ~1 ppm sufficient for 60–65% decolorization yield; optimum 1.5 (v/v/m) for *Hansenula* sp.
 - **Agitation**: Maximum performance at 900 rpm for *Hansenula* sp.; higher speeds disrupt cell walls
-- **Effluent dilution**: 10–20% stillage concentration balances toxicity with nutrient availability; practical limit of 50% stillage recycling
+- **Effluent dilution**: 10–20% stillage concentration balances toxicity with [[ph-and-nutrient-availability-garden-soils]]; practical limit of 50% stillage recycling
 - **Inoculum size**: 5% (w/v) mycelial suspension optimal for *P. chrysosporium* JAG-40; 0.15 g mycelia/100 mL for strain D90
 
 ## Related

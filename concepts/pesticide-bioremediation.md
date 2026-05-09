@@ -13,7 +13,7 @@ Pesticide contamination of soil, water, and sediment is a widespread environment
 
 Bioremediation offers effective approaches for degrading or transforming pesticide residues, leveraging the metabolic capabilities of bacteria, fungi, and their enzyme systems.
 
-This topic complements the fungal-specific discussions in [[fungal-degradation-of-pesticides]], and [[fungal-biodegradation-of-synthetic-pollutants]] describes the broader context of fungal degradation of synthetic chemicals including pesticides.
+This topic complements the fungal-specific discussions in [[fungal-degradation-of-pesticides]], and fungal-biodegradation-of-synthetic-pollutants describes the broader context of fungal degradation of synthetic chemicals including pesticides.
 
 ## Bacterial Degradation of Pesticides
 
@@ -31,9 +31,9 @@ Phenoxy herbicide degradation by bacteria proceeds through initial side-chain cl
 
 The frequency of pesticide-degrading genes in soil microbial communities depends on pesticide application history, with soils receiving long-term pesticide application harboring larger populations of degrading organisms.
 
-Cometabolic degradation of pesticides by bacteria growing on other substrates, as described in [[fungal-biodegradation-pesticides]] and [[fungal-cytochrome-p450-biodegradation]], hydroxylates pesticide molecules, making them more susceptible to further degradation.
+Cometabolic degradation of pesticides by bacteria growing on other substrates, as described in fungal-biodegradation-pesticides and [[fungal-cytochrome-p450-biodegradation]], hydroxylates pesticide molecules, making them more susceptible to further degradation.
 
-Pentachlorophenol (PCP) degradation by fungi involves initial hydroxylation or dechlorination by ligninolytic enzymes, followed by ring methylation and eventual ring cleavage.
+Pentachlorophenol (PCP) [[query-how-does-lignin-degradation-by-fungi-work]] involves initial hydroxylation or dechlorination by [[singh-ligninolytic-enzymes-fungal-bioremediation]], followed by ring methylation and eventual ring cleavage.
 
 [[fungal-pesticide-and-herbicide-degradation]] covers the specific contributions of fungi to herbicide and pesticide degradation in agricultural and industrial settings.
 
@@ -41,11 +41,11 @@ Pentachlorophenol (PCP) degradation by fungi involves initial hydroxylation or d
 
 Mycorrhizal fungi play an important role in pesticide fate and degradation in the rhizosphere of agricultural and natural ecosystems.
 
-Arbuscular mycorrhizal fungi (AMF) can directly degrade certain pesticides through enzyme production, and can also influence pesticide degradation indirectly by modifying rhizosphere microbial communities.
+[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF) can directly degrade certain pesticides through [[ligninolytic-enzyme-production-bioremediation]], and can also influence pesticide degradation indirectly by modifying rhizosphere microbial communities.
 
 AMF hyphae extend the effective volume of soil explored by plant roots, potentially increasing exposure of soil-bound pesticides to degrading microorganisms.
 
-Ectomycorrhizal fungi degrade a range of organochlorine pesticides including DDT and lindane through their extracellular enzyme systems.
+Ectomycorrhizal fungi degrade a range of organochlorine pesticides including DDT and lindane through their [[dighton-fungal-extracellular-enzyme-systems-decomposition]] systems.
 
 [[mycorrhizal-fungi-rhizosphere-remediation]] describe the roles of mycorrhizal associations in pesticide-contaminated environments.
 
@@ -61,9 +61,9 @@ Phytoremediation combined with mycorrhizal fungi provides an integrated approach
 
 [[constructed-wetlands-wastewater-treatment]] describe the plant-microbe interactions that contribute to pesticide degradation.
 
-Biopile treatment of excavated pesticide-contaminated soil provides controlled conditions for optimizing temperature, moisture, nutrient availability, and aeration for enhanced microbial degradation.
+Biopile treatment of excavated pesticide-contaminated soil provides controlled conditions for optimizing temperature, moisture, [[ph-and-nutrient-availability-garden-soils]], and aeration for enhanced microbial degradation.
 
-[[fungal-bioreactor-effluent-treatment]] describe reactor configurations for treatment of pesticide-containing wastewater.
+fungal-bioreactor-effluent-treatment describe reactor configurations for treatment of pesticide-containing wastewater.
 
 [[enzyme-based-bioremediation]] approaches using organophosphate hydrolase, laccase, and other pesticide-degrading enzymes offer potential for targeted treatment of concentrated waste streams.
 
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

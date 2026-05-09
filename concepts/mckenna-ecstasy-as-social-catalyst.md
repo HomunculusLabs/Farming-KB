@@ -1,5 +1,5 @@
 ---
-title: Ecstasy as Social Catalyst in Shamanic Mushroom Rituals
+title: mckenna ecstasy as social catalyst Catalyst in Shamanic Mushroom Rituals
 created: 2026-04-28
 tags:
   - anthropology
@@ -23,7 +23,7 @@ type: concept
 
 ## Overview
 
-Terence McKenna's *Food of the Gods* presents a detailed model of how psychedelic mushroom
+Terence McKenna's *Food of the Gods* presents a detailed model of how [[archaeology-of-psychedelic-mushroom-use]]
 rituals functioned as the primary social glue of prehistoric partnership societies. The periodic
 group consumption of psilocybin-containing mushrooms, typically at lunar intervals coinciding with
 rains that made mushrooms plentiful, created recurring episodes of shared ecstasy that dissolved
@@ -34,7 +34,7 @@ of the community as a whole.
 
 ## The Ritual Structure
 
-McKenna reconstructs the likely form of these ancient mushroom ceremonies based on ethnographic
+McKenna reconstructs the likely form of these ancient [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]] based on ethnographic
 parallels from surviving shamanic cultures. The gathering took place at night, since darkness
 enhances the intensity of visual hallucinations and the sense of entering a sacred space separate
 from ordinary reality. The entire clan was present, from the oldest elders to the youngest children.
@@ -68,14 +68,14 @@ successful than their non-using counterparts.
 McKenna proposes that the natural psychedelic compounds in the mushroom diet acted specifically
 as feminizing agents. They tempered and civilized the egocentric values of the solitary male
 hunter with what he calls "the feminine concerns for child-rearing and group survival." The
-prolonged and repeated exposure to the psychedelic experience, the rupture of mundane reality
+prolonged and repeated exposure to the [[leary-psychedelic-experience-bardo-mapping]], the rupture of mundane reality
 caused by hallucinogenic ritual ecstasy, acted steadily to dissolve the portion of the psyche
 that modern people call the ego.
 
 Wherever and whenever the ego function began to form, McKenna describes it as "akin to a
 calcareous tumor or a blockage in the energy of the psyche." The use of psychedelic plants in
 the context of shamanic initiation dissolved this knotted structure into undifferentiated feeling,
-what Eastern philosophy calls the Tao. This dissolving of individual identity into the Tao is,
+what [[fukuoka-western-eastern-philosophy-agriculture]] calls the Tao. This dissolving of individual identity into the Tao is,
 in McKenna's reading, the goal of much Eastern thought and has traditionally been recognized as
 the key to psychological health and balance for both the group and the individual.
 
@@ -96,7 +96,7 @@ the presence of a hallucinogen indicates that shamanism is authentic and alive.
 
 Mircea Eliade defined shamanism as "the archaic techniques of ecstasy" and placed ecstasy at
 the center of shamanic practice. Gordon Wasson expanded this understanding by arguing that the
-hallucinogenic mushrooms were themselves "a gateway to ecstasy." Wasson wrote that "ecstasy in
+[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] were themselves "a gateway to ecstasy." Wasson wrote that "ecstasy in
 itself is neither pleasant nor unpleasant. The bliss or panic into which it plunges you is
 incidental to ecstasy." He described the mushroom as bestowing on the healer "what the Greeks
 called Logos, the Aryan Vac, Vedic Kavya, poetic potency."

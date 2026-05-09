@@ -1,5 +1,5 @@
 ---
-title: PSK Gastric Cancer Clinical Trials
+title: cancer-medicinal-mushrooms-psk-gastric-cancer maitake-cancer-clinical-research Trials
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -144,4 +144,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

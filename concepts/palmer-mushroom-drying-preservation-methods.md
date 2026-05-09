@@ -1,5 +1,5 @@
 ---
-title: Palmer on Mushroom Drying and Preservation Methods
+title: Palmer on Mushroom oss-oeric-drying-and-preservation-methods Methods
 created: 2026-04-28
 tags: [food-preservation, drying, mushroom-storage, nineteenth-century,
   palmer]
@@ -25,7 +25,7 @@ to plant matter.
 ## Chinese Dried Fungus Tradition
 
 Palmer spoke from personal acquaintance with Chinese culinary habits,
-acquired by residence in San Francisco, Honolulu, and Hong-Kong. The
+acquired by residence in [[shipibo-san-francisco-ceremonial-center-ucayali]], Honolulu, and Hong-Kong. The
 Chinese made dried fungus a very general article of diet. He regarded
 their example as proof of concept for preservation, noting that dried
 mushrooms maintained their meat-like qualities and could be stored
@@ -35,11 +35,11 @@ that drying was the most practical method for home preservation.
 ## Drying Methods
 
 Palmer dried mushrooms by simple air-drying, spreading them in a warm,
-dry place. The fairy-ring champignon (Marasmius oreades) was
+dry place. The fairy-ring champignon ([[marasmius-oreades]]) was
 particularly amenable to this method, expanding again the moment it
 was put in water, as if fresh-picked. He noted that mushrooms should
 be gathered in the afternoon when dry, rather than in the morning
-when dew was upon them. This practical advice about harvest timing
+when dew was upon them. This practical advice about [[cannabis-harvest-timing-visual-cues]]
 served the dual purpose of improving both immediate eating quality
 and the success of subsequent drying.
 
@@ -48,7 +48,7 @@ and the success of subsequent drying.
 Palmer insisted that mushrooms are best gathered in the afternoon when
 dry. The popular notion that mushrooms must be picked in the morning
 with the dew on them was, in his view, erroneous. Dew adds moisture
-that accelerates decomposition. Mushrooms decay very rapidly: in a
+that accelerates [[decomposition]]. Mushrooms decay very rapidly: in a
 short time a fair, solid fungus becomes a mass of maggots, honeycombed
 with cells charged on warm days with the vapor of decomposition. Any
 preservation method presupposes starting with the freshest possible
@@ -71,7 +71,7 @@ or preserved.
 
 Palmer believed the Italians ate many dangerous fungi with impunity
 because, when fresh, their properties were changed by sweet-oil
-(olive oil). When preserved, such fungi were neutralized by pickle.
+([[staycare-fungal-treatment-of-olive-oil-mill-wastewater]]). When preserved, such fungi were neutralized by pickle.
 Either element rendered harmless the peculiar alkali to a
 superfluity of which mushrooms owe their noxious qualities. He
 prescribed sweet-oil liberally in case of mistake, recommending two
@@ -90,7 +90,7 @@ counteract the alkaline poisons found in certain mushrooms. The
 combination of vinegar or other acid with the mushroom's natural
 alkaloid created a compound that was harmless to the human system.
 
-## Vinegar and the Amanita Alkaloid
+## Vinegar and the [[amanita]] Alkaloid
 
 Palmer's experiments revealed a paradox: if an Amanita was cut in
 sections and laid in vinegar, the fungus could be eaten without
@@ -134,5 +134,5 @@ notice.
 ## See Also
 
 - [[palmer-specific-mushroom-species-guide]]
-- [[palmer-about-mushrooms-cooking-and-preservation]]
+- palmer-about-mushrooms-cooking-and-preservation
 - [[palmer-medicinal-mushroom-uses-historical]]

@@ -1,33 +1,13 @@
 ---
-title: Cultivation of Oyster Mushrooms
+title: Cultivation of query-how-to-grow-oyster-mushrooms-at-home
 created: 2026-04-28
-tags: [[mycology, pleurotus, cultivation, oyster-mushroom]
+tags: [mycology, pleurotus, cultivation, oyster-mushroom]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 type: concept
 ---
-
-# Cultivation of Oyster Mushrooms
-
-Oyster mushrooms (genus Pleurotus) are among the most widely cultivated
-gourmet mushrooms worldwide, and for good reason. They are fast-growing,
-aggressive colonizers that fruit prolifically on a wide range of
-substrates. Their biological efficiency routinely exceeds 100%, and they
-are forgiving enough for beginners while rewarding enough for commercial
-growers. The genus includes dozens of species with diverse flavors,
-textures, and growing requirements.
-
-## Major Cultivated Species
-
-**Pleurotus ostreatus** (pearl oyster): The standard oyster mushroom.
-Gray to white caps, mild flavor, grows on straw and hardwood. Fruits at
-12-20 C. The most common commercial variety and an excellent beginner
-species.
-
-**Pleurotus pulmonarius** (phoenix oyster / Indian oyster): Similar to
-P. ostreatus but prefers warmer temperatures (18-28 C). Thinner flesh
-but faster colonization and fruiting. Often preferred [[substrate-preparation]]
+# Cultivation of Oyster Mushrooms Oyster mushrooms (genus Pleurotus) are among the most widely cultivated gourmet mushrooms worldwide, and for good reason. They are fast-growing, aggressive colonizers that fruit prolifically on a wide range of substrates. Their biological efficiency routinely exceeds 100%, and they are forgiving enough for beginners while rewarding enough for commercial growers. The genus includes dozens of species with diverse flavors, textures, and growing requirements. ## Major Cultivated Species **Pleurotus ostreatus** (pearl oyster): The standard oyster mushroom. Gray to white caps, mild flavor, grows on straw and hardwood. Fruits at 12-20 C. The most common commercial variety and an excellent beginner species. **Pleurotus pulmonarius** (phoenix oyster / Indian oyster): Similar to P. ostreatus but prefers warmer temperatures (18-28 C). Thinner flesh but faster colonization and fruiting. Often preferred [[substrate-preparation]]
 
 Oyster mushrooms are exceptionally versatile in their [[staycare-fungal-agricultural-waste-conversion]], and many other cellulose-rich materials.
 
@@ -38,7 +18,7 @@ pasteurization.
 For indoor commercial cultivation, supplemented hardwood sawdust blocks
 are the standard. A typical formula is 80% hardwood sawdust, 18% wheat
 bran, and 2% gypsum, hydrated to 63-65% moisture. Blocks of 2.5-5 kg
-are sterilized at 121 C for 2 hours and inoculated with grain spawn at
+are sterilized at 121 C for 2 hours and inoculated with [[comparison-grain-spawn-vs-grain-to-grain-transfer]] at
 5-10% [[allegro-death-and-resurrection-in-the-mushroom-cult]] center of dense blocks.
 
 During spawn run, CO2 levels should be maintained above 2,000 ppm to
@@ -86,16 +66,16 @@ maximize throughput and minimize contamination risk.
 
 ## Pest and Disease Management
 
-Oyster mushroom crops are susceptible to several pests. Fungus gnats and
+Oyster mushroom crops are susceptible to several pests. [[query-how-to-control-fungus-gnats-organically]] and
 sciarid flies lay eggs in moist substrate, and their larvae feed on
 mycelium, reducing yield and creating entry points for bacterial
-contamination. Sticky traps and careful moisture management are the
-primary defenses. Slugs and snails can devour developing fruiting bodies
+contamination. [[cervantes-sticky-traps-pest-monitoring]] and careful moisture management are the
+primary defenses. [[query-how-to-get-rid-of-slugs-and-snails-organically]] can devour developing fruiting bodies
 overnight in outdoor or poorly sealed growing areas. Biological
-controls such as Hypoaspis miles predatory mites can be introduced
+controls such as Hypoaspis miles [[comparison-predatory-mites-vs-ladybugs-biocontrol]] can be introduced
 proactively in commercial operations.
 
 ## See Also
 
 - [[oyster-cultivation-kenya]]
-- [[oyster-mushroom-bag-cultivation]]
+- oyster-mushroom-bag-cultivation

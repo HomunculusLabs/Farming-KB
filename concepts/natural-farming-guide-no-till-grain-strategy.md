@@ -10,16 +10,16 @@ type: concept
 
 # No-Till Grain Strategy for Sustainable Farms
 
-The no-till grain strategy, based on Masanobu Fukuoka's natural farming
+The no-till grain strategy, based on Masanobu Fukuoka's [[comparison-natural-farming-vs-permaculture]]
 methods, grows grain and legumes together continuously without plowing,
-applying chemical fertilizers, weeding, or using pesticides. This system
+applying [[cervantes-chemical-fertilizers-guide]], weeding, or using pesticides. This system
 requires remarkably low energy input while producing high yields on small
 plots of land, making it ideal for self-sufficient homesteads.
 
 ## Why No-Till Grain?
 
 Soil should not be turned or disturbed much at all. Grain is a staple of
-most people's diets, and yet modern grain farming uses monstrous machines
+most people's diets, and yet modern [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]] uses monstrous machines
 to turn and fertilize the earth, and even bigger machines to harvest
 perfect rows of grain, leaving the land to sit over the winter.
 
@@ -33,7 +33,7 @@ continuously, eliminating the need for fallow periods entirely.
 This system is not only sustainable but requires extremely low energy
 input. Not only is there no mechanization, the energy used in human labor
 is also very low. A farmer eating an average 2,000-calorie per day diet
-can produce 1,300 pounds (590 kg) of rice on a quarter acre. Using
+can produce 1,300 pounds (590 kg) of rice on a [[fukuoka-agriculture-tomorrow-quarter-acre-vision]]. Using
 animals for labor requires at least 5 times as many calories. Using a
 tractor requires at least 10 times as many.
 
@@ -50,7 +50,7 @@ keep one human alive entirely on one food is striking:
 - 90,000 square feet of beef alone
 
 This comparison is the greatest argument for a plant-based diet and
-demonstrates that grain production on small plots is highly practical.
+demonstrates that [[fukuoka-no-till-grain-production-method]] on small plots is highly practical.
 
 ## Setting Up the Rice Paddy
 
@@ -68,7 +68,7 @@ species exist that can survive on monsoon rains alone.
 ## Step-by-Step No-Till Method
 
 **Step 1:** A variety of plants can be grown together. Each plot will
-always grow rice and white clover. Then add rye, barley, millet, winter
+always grow rice and [[fukuoka-white-clover-cover-crop-system]]. Then add rye, barley, millet, winter
 wheat, or oats. Use approximately 1 pound of clover, 6 to 14 pounds
 of grains, and 5 to 10 pounds of rice seed per acre.
 

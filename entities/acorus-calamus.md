@@ -1,5 +1,5 @@
 ---
-title: "acorus calamus"
+title: "sweet-flag-acorus-calamus-ethnobotany"
 created: 2026-04-28
 updated: 2026-04-28
 type: species
@@ -36,7 +36,7 @@ Acorus calamus, commonly known as sweet flag, calamus, or bitter pepper root, is
 The safety of Acorus calamus is heavily dependent on the β-asarone content of the particular cytotype:
 
 - **β-Asarone carcinogenicity:** FDA banned calamus as a food additive in 1968 after studies showed β-asarone caused intestinal tumors in rats at high doses; EU limits β-asarone to 0.1 mg/kg in food
-- **The diploid North American variety (A. calamus var. americanus)** is considered significantly safer due to negligible β-asarone content
+- **The diploid [[growing-gourmet-north-american-reishi-species]] variety (A. calamus var. americanus)** is considered significantly safer due to negligible β-asarone content
 - **Neurotoxicity:** High doses of essential oil associated with hallucinations, nausea, vomiting, and convulsions
 - **Contraindications:** Pregnancy, lactation, and young children; may potentiate sedative medications and anticonvulsants
 
@@ -45,8 +45,8 @@ The safety of Acorus calamus is heavily dependent on the β-asarone content of t
 Acorus calamus has several applications in permaculture and ecological design:
 
 - **Phytoremediation:** Capable of accumulating heavy metals (lead, cadmium, zinc) from contaminated water and soil
-- **Constructed wetlands:** Used in wastewater treatment systems for nutrient removal and water purification
-- **Erosion control:** Dense rhizome networks stabilize stream banks and wetland margins
+- **[[comparison-constructed-wetlands-vs-bioswales]]:** Used in [[mollison-designers-wastewater-treatment-wetlands]] systems for nutrient removal and water purification
+- **[[permplant-willows-salix-erosion-control-fodder]]:** Dense rhizome networks stabilize stream banks and wetland margins
 - **Insectary plant:** Repels mosquitoes and other pest insects when planted around dwellings and water features
 - **Ornamental:** Attractive foliage for water gardens and bog gardens; provides vertical accent in aquatic plantings
 
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

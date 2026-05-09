@@ -9,7 +9,7 @@ sources: [raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-livin
 
 # Barn Design
 
-A well-designed barn protects animals, stores feed and equipment, and serves as the central hub of a homestead livestock operation. This guide covers design principles, layout, flooring, and construction considerations for small to medium homesteads. Drawn from [[nicole-faires]]' comprehensive manual.
+A well-designed barn protects animals, stores feed and equipment, and serves as the central hub of a homestead livestock operation. This guide covers [[holmgren-permaculture-twelve-design-principles-framework]], layout, flooring, and construction considerations for small to medium homesteads. Drawn from [[nicole-faires]]' comprehensive manual.
 
 ## Design Principles
 
@@ -67,7 +67,7 @@ A practical small homestead barn (24x36 feet) might include:
 ### Key Zones
 
 1. **Feed storage**: largest single area; needs to be dry and rodent-proof
-2. **Animal housing**: stalls, pens, bedding areas
+2. **[[permaculture-designers-manual-animal-housing-detailed]]**: stalls, pens, bedding areas
 3. **Milk/processing room**: clean area separate from animals (for dairy operations)
 4. **Tool and equipment storage**: for fencing tools, medical supplies, halters
 5. **Manure management**: covered area for composting or storage before spreading
@@ -120,7 +120,7 @@ A practical small homestead barn (24x36 feet) might include:
 | Hay (waste) | Moderate | Varies | Use older or moldy hay |
 | Wood shavings | Excellent | Low-Medium | Very absorbent, avoid black walnut |
 | Sawdust | Excellent | Low | Can cause respiratory issues (dust) |
-| Pine needles | Good | Free (in some areas) | Natural pest repellent |
+| Pine needles | Good | Free (in some areas) | [[cho-natural-pest-control-methods]] repellent |
 | Shredded paper | Good | Free | Avoid glossy/colored paper |
 | Sand | Poor | Low | Use with rubber mats, not alone |
 
@@ -136,7 +136,7 @@ For ventilation design, roofing options, construction materials (foundation, wal
 ## Related Pages
 
 - [[barn-construction-reference]] -- Construction details and cost estimates
-- [[natural-building]] -- cob, straw bale, earthbag alternatives
+- [[natural-building]] -- cob, [[comparison-cob-construction-vs-straw-bale-construction]], earthbag alternatives
 - [[goat-husbandry]] -- goat housing requirements
 - [[duck-keeping]] -- duck housing requirements
 - [[sheep-husbandry]] -- sheep housing requirements

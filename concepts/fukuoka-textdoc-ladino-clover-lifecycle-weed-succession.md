@@ -1,5 +1,5 @@
 ---
-title: Ladino Clover Lifecycle and Weed Succession Dynamics
+title: Ladino Clover Lifecycle and fukuoka-textdoc-clover-decline-and-weed-succession-orchard Dynamics
 created: 2026-04-28
 tags:
   - fukuoka
@@ -19,7 +19,7 @@ type: concept
 
 Masanobu Fukuoka's use of ladino clover as the primary ground cover in his
 citrus and deciduous fruit orchards represents one of the most carefully
-documented and practically refined elements of his natural farming method.
+documented and practically refined elements of his [[comparison-natural-farming-vs-permaculture]] method.
 His observations of the clover lifecycle, its interactions with weed
 communities, and the long-term succession dynamics between cover crops and
 volunteer vegetation provide a detailed case study in natural soil
@@ -38,12 +38,12 @@ bindweed and kudzu, and perennials such as the various sorrels. Those
 herbs resistant to clover survive and reestablish themselves, filling the
 gaps left as the clover thins out.
 
-This natural cycle of establishment, dominance, and decline is not a
+This [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] of establishment, dominance, and decline is not a
 failure of the system but an integral part of how nature enriches soil. A
 monoculture of one type of plant grown year after year on the same land
 tends to make the soil imbalanced. The emergence and succession of
 different weeds is more natural and more conducive to soil enrichment and
-development. The clover years build nitrogen and organic matter, while the
+development. The clover years build nitrogen and [[hamilton-composting-and-organic-matter-management]], while the
 succeeding weed years bring deep-rooted species that break up compacted
 soil layers and access mineral nutrients from deeper strata.
 
@@ -78,7 +78,7 @@ broadcast in late autumn among the dying weeds and grasses on levees and
 roadsides, clover growth gradually thickens. When the clover is sown
 initially in the spring among the weeds, it should be cut back a year later
 to stimulate growth. Ladino clover vine may additionally be planted in
-spring in the same manner as sweet potato vine so as to ensure a full
+spring in the same manner as [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]] vine so as to ensure a full
 cover of clover by summertime.
 
 This seeding strategy takes advantage of the natural dieback of winter
@@ -106,7 +106,7 @@ over the years, clover requires the same meticulous care that one gives a
 lawn.
 
 Areas where perennial weeds such as sorrel and [[white-clover-ground-cover]]
-- Natural Weed Management
+- Natural [[fukuoka-weed-management-and-green-manure]]
 
 ## See Also
 

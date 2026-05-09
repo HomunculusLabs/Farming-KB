@@ -13,7 +13,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ## Safety Notes
 - Nausea is common at onset, especially with food in stomach
 - Body load and muscle spasms reported at higher doses (12+ mg)
-- Some users report anxiety, paranoia, or "unusable" altered states at higher doses
+- Some users report anxiety, paranoia, or "unusable" [[weil-the-natural-mind-altered-states-normalcy]] at higher doses
 - Combining with MAOIs may dangerously increase potency
 - Long-term effects unknown
 - Variable experience quality: some found it "outstanding" while others found it "awful" at the same dose
@@ -36,7 +36,7 @@ The compound was first published in 1981 by Shulgin and Michael Carter. After in
 - [[psilocybin-toxicity-and-safety-profile]]
 
 ## Practical Context
-5 Meo Dipt Compound Profile is relevant to farming knowledge because it connects observation,
+5 5 meo dipt compound profile Compound Profile is relevant to farming knowledge because it connects observation,
 site conditions, and management choices. Treat it as a working topic rather
 than a standalone label: the useful questions are where it appears, what
 conditions make it stronger or weaker, and how it changes decisions in the
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

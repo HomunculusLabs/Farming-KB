@@ -16,12 +16,12 @@ type: concept
 
 # Mycorrhizal Interactions with Plant Pathogens and Biocontrol
 
-Mycorrhizal fungi can protect host plants from root-infecting pathogens through
+[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] can protect host plants from root-infecting pathogens through
 multiple mechanisms, creating a three-way interaction among host plants,
 beneficial mycorrhizal fungi, and pathogenic organisms. In [[fungal-ecology]], these interactions highlight the complex
 balance between [[dighton-fungi-aquatic-marine-faunal-interactions]]
 
-- [[dighton-arbuscular-mycorrhizal-plant-community-effects]]
+- dighton-arbuscular-mycorrhizal-plant-community-effects
 - [[dighton-fungal-mediated-plant-competition]]
 - [[fungal-antibiotics]]
 ## Practical Applications
@@ -101,4 +101,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

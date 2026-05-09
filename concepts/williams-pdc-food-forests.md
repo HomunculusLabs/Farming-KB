@@ -1,25 +1,19 @@
 ---
 title: "Food Forests"
 created: 2026-04-28
-tags: [[permaculture, food-forests, agroforestry, polyculture]
+tags: [permaculture, food-forests, agroforestry, polyculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-
-# Food Forests
-
-Food forests are gardens modeled after the three-dimensional
-structure of natural forests, using vertical layering to
-produce diverse food yields on far less surface area than
-conventional gardening, combining multiple [[permaculture-principles]] into one harmonious
+# Food Forests Food forests are gardens modeled after the three-dimensional structure of natural forests, using vertical layering to produce diverse food yields on far less surface area than conventional gardening, combining multiple [[permaculture-principles]] into one harmonious
 food system. Modeled after a forest, a food forest can have
 up to seven layers of production.
 
 The concept ties in exactly with the concept of density
 and complexity central to Arcology. It is also an excellent
-application of the permaculture principle of using edges and
+application of the [[permaculture-principle-apply-self-regulation]] of using edges and
 valuing the marginal, since food forests utilize empty three
 dimensional space that is typically marginalized instead of
 used. In essence food forests are what happens when the
@@ -28,7 +22,7 @@ concept of Arcology meets the concept of an orchard.
 ## The Seven Layers
 
 Instead of mature large trees like Doug Firs or Oaks, the
-canopy of the food forest will be fruit and nut trees.
+canopy of the food forest will be fruit and [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]].
 Shorter fruit or nut bearing trees fill in the next layer,
 and one level down from those can be shrubs with berries.
 Growing around their trunks can be herbs or other small
@@ -61,6 +55,7 @@ support natural ecological processes.
 ## See Also
 
 - [[ozier-pdc-forest-succession-and-food-forests]]
+
 ## Practical Considerations
 
 Successful implementation of Food Forests requires attention to
@@ -79,4 +74,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -45,9 +45,9 @@ The species is valued in sustainable agriculture for its exceptional pollinator 
 
 **Flowers:** Small, bell-shaped, arranged in coiled scorpioid cymes that unfurl as flowers open from base to tip. Color is a distinctive lavender-blue to violet. Each flower is 6–8 mm across with five petals fused at the base.
 
-**Roots:** Fibrous taproot system extending 30–60 cm deep, with extensive lateral branching that improves soil aggregation and organic matter incorporation at depth.
+**Roots:** Fibrous taproot system extending 30–60 cm deep, with extensive lateral branching that improves soil aggregation and [[hamilton-composting-and-organic-matter-management]] incorporation at depth.
 
-**Seeds:** Small (2–3 mm), dark brown to black, produced in clusters of four per calyx. Seed production is prolific, with each plant yielding 500–2000 seeds.
+**Seeds:** Small (2–3 mm), dark brown to black, produced in clusters of four per calyx. [[cervantes-seed-production-storage]] is prolific, with each plant yielding 500–2000 seeds.
 
 ## Distribution and Habitat
 
@@ -61,7 +61,7 @@ The species tolerates a wide range of soil types including sandy, loamy, and cla
 
 **Establishment:** Germination occurs in 7–14 days at soil temperatures above 10°C. Rapid early growth produces a dense canopy within 4–6 weeks, effectively suppressing weed germination through light competition.
 
-**Biomass production:** Under favorable conditions, *P. tanacetifolia* produces 3–6 tonnes dry matter/ha in 8–10 weeks. It is a fast-maturing species suitable for short-season catch cropping between main crops.
+**[[dighton-fungal-biomass-production-aquatic-ecosystems]]:** Under favorable conditions, *P. tanacetifolia* produces 3–6 tonnes dry matter/ha in 8–10 weeks. It is a fast-maturing species suitable for short-season catch cropping between main crops.
 
 **Termination:** Non-winter-hardy in most temperate regions; killed by temperatures below -8°C. Easy to terminate by mowing, rolling, or light incorporation. It decomposes rapidly due to its low C:N ratio (15–20:1), making nitrogen available to subsequent crops.
 
@@ -75,7 +75,7 @@ The extended flowering period (6–8 weeks) provides critical forage during mid-
 
 ## Soil Health Benefits
 
-The deep, branching root system creates soil macropores that improve water infiltration and root penetration for subsequent crops. Root exudates promote beneficial soil microbial communities, and the rapid decomposition of incorporated biomass feeds soil organic matter pools.
+The deep, branching root system creates soil macropores that improve water infiltration and root penetration for subsequent crops. [[mycorrhizal-root-exudates-pathogen-interactions]] promote beneficial soil microbial communities, and the rapid decomposition of incorporated biomass feeds soil organic matter pools.
 
 As a catch crop, it scavenges residual soil nitrogen that might otherwise leach into groundwater during fallow periods. The low C:N ratio of the mature biomass allows rapid mineralization without nitrogen immobilization, a practical advantage over higher C:N cover crops like cereal rye.
 
@@ -83,7 +83,7 @@ As a catch crop, it scavenges residual soil nitrogen that might otherwise leach 
 
 *P. tanacetifolia* integrates well into diverse cropping systems. In vegetable gardens, it serves as an interplanted living mulch between rows of tomatoes, peppers, or brassicas, providing pollinator services and weed suppression simultaneously.
 
-In permaculture design, it is commonly included in insectary strips, hedgerow plantings, and orchard understory mixes. Its rapid growth and dense canopy make it effective as a nurse crop for slower-establishing perennials. When planted adjacent to fruit trees, it supports pollinator populations during the critical blossom period.
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], it is commonly included in insectary strips, hedgerow plantings, and orchard understory mixes. Its rapid growth and dense canopy make it effective as a nurse crop for slower-establishing perennials. When planted adjacent to fruit trees, it supports pollinator populations during the critical blossom period.
 
 The species is compatible with most vegetable crops and does not exhibit allelopathic effects. It breaks pest cycles by providing habitat for predatory insects such as parasitic wasps, lacewings, and ground beetles that control aphid and whitefly populations.
 
@@ -95,7 +95,7 @@ The flowers have a long vase life (7–10 days) and are increasingly used by flo
 
 The plant is deer-resistant and generally unpalatable to livestock, making it suitable for farm-edge plantings where grazing pressure is a concern. It has no significant disease or pest issues when grown as an annual, further reducing management requirements.
 
-Seed is readily available from cover crop suppliers and pollinator seed mix vendors. Cost per hectare is low compared to other cover crop species, and the multiple ecosystem services provided make it one of the most cost-effective annuals in sustainable farming systems.
+Seed is readily available from cover crop suppliers and pollinator seed mix vendors. Cost per hectare is low compared to other cover crop species, and the multiple [[biodiversity-of-fungi-ecosystem-services-agriculture]] provided make it one of the most cost-effective annuals in sustainable farming systems.
 
 ## See Also
 

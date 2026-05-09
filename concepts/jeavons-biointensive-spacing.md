@@ -11,15 +11,15 @@ updated: 2026-04-26
 
 # Biointensive Spacing and Close Planting Principles
 
-Close plant spacing is one of the eight key features of GROW BIOINTENSIVE. Plants are spaced so their leaves barely touch when mature, following nature's example — natural meadows, forests, and fields grow densely, not in widely spaced rows.
+Close plant spacing is one of the eight key features of [[jeavons-grow-biointensive-method-overview]]. Plants are spaced so their leaves barely touch when mature, following nature's example — natural meadows, forests, and fields grow densely, not in widely spaced rows.
 
 ## The Hexagonal (Offset) Spacing Pattern
 
 Seeds and seedlings should be planted in a **diagonally offset or hexagonal spacing pattern** with an equal distance between each plant. This pattern:
 
-- Uses up less space than grid spacing (multiply row spacing by 0.87 to calculate offset distance)
+- Uses up less space than grid spacing (multiply [[wide-row-spacing-intensive-gardening-comparison]] by 0.87 to calculate offset distance)
 - Allows more plants per unit area
-- Creates the living mulch miniclimate essential for balanced, uninterrupted growth
+- Creates the [[comparison-living-mulch-vs-cover-crops]] miniclimate essential for balanced, uninterrupted growth
 
 ### Tools for Achieving Proper Spacing
 
@@ -46,7 +46,7 @@ For hills and less common plants, spacing must be established by experimentation
 ### Spacing Adjustment Factors
 
 - **Winter:** May need closer spacing (3/4 or 1/2 of usual) to compensate for slower growth and create a balanced winter miniclimate
-- **Humid tropics:** May need wider spacings to ensure adequate air circulation
+- **Humid tropics:** May need wider spacings to ensure adequate [[stamets-growing-room-air-circulation-co2-management]]
 - **Temperature:** Spacing increases with warmth (from column E of Master Charts)
 
 ## Spacing for [[biointensive-close-plant-spacing]]
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

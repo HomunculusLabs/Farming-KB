@@ -1,5 +1,5 @@
 ---
-title: "mckenna Shamanic Centeredness and Peripheral Social Role"
+title: "mckenna Shamanic Centeredness and mckenna shaman centeredness and peripheral social role Role"
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -47,7 +47,7 @@ facilitating these experiences."
 ## The Shaman's Extraordinary Centeredness
 
 The most striking characteristic McKenna observed in shamans he met
-around the world was "an extraordinary centeredness." Despite their
+[[fungi-around-the-world-species-distribution]] was "an extraordinary centeredness." Despite their
 access to realms of experience that would destabilize most people,
 shamans display a remarkable equanimity and self-possession.
 
@@ -73,7 +73,7 @@ shamans speak of "spirit" the way a quantum physicist might speak of
 This observation bridges the gap between indigenous and scientific
 worldviews. The shaman's "spirits" are not supernatural beings in the
 Western sense but descriptions of real patterns in consciousness and
-nature that are encountered directly in altered states. The terminology
+nature that are encountered directly in [[weil-the-natural-mind-altered-states-normalcy]]. The terminology
 is different, but the phenomena being described may overlap
 significantly with what consciousness researchers investigate
 through other methods.
@@ -127,3 +127,5 @@ naturally, "but I am underwhelmed by the evidence that this is so."
 
 - [[dmt-black-hole-effect-and-shamanic-practice]]
 - [[mckenna-amazon-shamanism-and-ayahuasca]]
+
+- [[mckenna-shamanic-identification-training-and-peripheral-social-role]]

@@ -1,20 +1,14 @@
 ---
-title: Mushroom Cultivation History
+title: mushroom-cultivation History
 created: 2026-04-28
-tags: [[mycology, agriculture, history, fungi, cultivation]
+tags: [mycology, agriculture, history, fungi, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
 type: concept
 ---
-
-# Mushroom Cultivation History
-
-Mushroom cultivation has a long and fascinating history,
-stretching from ancient Mediterranean civilizations to the
-modern commercial industry. The cultivation of the common
-edible mushroom (*[[agaricus-campestris]]
-- [[mushroom-compost-preparation]]
+# Mushroom Cultivation History Mushroom cultivation has a long and fascinating history, stretching from ancient Mediterranean civilizations to the modern commercial industry. The cultivation of the common edible mushroom (*[[agaricus-campestris]]
+- mushroom-compost-preparation
 - [[mushroom-market-and-production]]
 ## Background and Context
 
@@ -66,7 +60,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -116,7 +110,7 @@ Building resilience into systems through diversity, redundancy, and
 adaptive capacity helps mitigate the impacts of these uncertainties.
 
 Knowledge gaps and the ongoing evolution of understanding mean that
-current best practices represent our current state of knowledge rather
+current [[knf-imo-diversity-and-best-practices]] represent our current state of knowledge rather
 than final answers. Practitioners should maintain intellectual humility
 and remain open to new information and approaches that may improve
 upon established methods. Continuous learning and observation are
@@ -144,4 +138,5 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-
+## See Also
+- [[mushroom-home-cultivation-history]]

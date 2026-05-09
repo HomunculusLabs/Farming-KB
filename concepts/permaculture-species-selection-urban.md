@@ -8,17 +8,17 @@ type: concept
 tags: [culture, permaculture, species]
 ---
 # Permaculture Species Selection for Urban Environments
-Selecting the right plants for urban permaculture requires understanding which
+Selecting the right plants for [[pdc-urban-permaculture-design-principles]] requires understanding which
 species perform multiple functions, tolerate urban conditions, and fit into
 small-space polyculture systems. The species listed here are drawn from Bill
-Mollison's comprehensive [[tagasaste]] (Chamaecytisus palmensis) -- drought tolerant, protein-rich fodder,
+Mollison's comprehensive tagasaste (Chamaecytisus palmensis) -- [[permplant-carob-drought-tolerant-food-tree]], protein-rich fodder,
   bee forage, excellent cut mulch, windbreak, nurse plant for frost-sensitive
   trees
 - Siberian pea shrub (Caragana spp.) -- very cold and wind hardy, poultry
   forage from seeds, windbreak and hedge for cold climates
 - Autumn olive (Elaeagnus umbellata) -- nitrogen-fixing, drought tolerant,
   wildlife habitat, edible berries
-- Mesquite (Prosopis spp.) -- extremely drought resistant, salt tolerant,
+- Mesquite (Prosopis spp.) -- extremely drought resistant, [[halotolerant-halophilic-fungi-salt-tolerant-diversity]],
   pods high in sugar and protein, coppices for firewood
 ## Shrubs and Bushes
 
@@ -75,11 +75,17 @@ Mollison's comprehensive [[tagasaste]] (Chamaecytisus palmensis) -- drought tole
   pillow filling, mild narcotic, browsed by sheep and geese when young
 ## Ground Covers and Green Manures
 
-- Clover (Trifolium spp.) -- nitrogen fixation, bee forage, living mulch
+- Clover (Trifolium spp.) -- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], bee forage, living mulch
 - Lucerne/alfalfa (Medicago sativa) -- 10-year perennial, human food (tea,
   sprouts), major fodder, bee forage, soil improver drawing up subsoil nutrients
-- Vetch (Vicia spp.) -- nitrogen fixation, erosion control on slopes
+- Vetch (Vicia spp.) -- nitrogen fixation, [[permplant-willows-salix-erosion-control-fodder]] on slopes
 - Buckwheat -- phosphorus accumulator, suppresses weed growth, bee forage,
   quick cover crop
-- Sweet potato (Ipomoea batatas) -- perennial groundcover for orchards, staple
+- [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]] (Ipomoea batatas) -- perennial groundcover for orchards, staple
   food, livestock fodder, dies back in frost
+## See Also
+- [[elaeagnus-umbellata]]
+- [[taraxacum-officinale]]
+- [[ipomoea-batatas]]
+- [[cichorium-intybus]]
+- [[actinidia-chinensis]]

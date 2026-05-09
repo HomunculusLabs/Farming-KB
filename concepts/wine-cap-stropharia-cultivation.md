@@ -1,15 +1,16 @@
 ---
-title: Wine Cap Stropharia Cultivation
+title: Wine wine cap stropharia cultivation Cultivation
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mushrooms, cultivation, permaculture, food, gardening, species]
-sources: []
+sources:
+  sources: []
 ---
 
 # Wine Cap Stropharia Cultivation
 
-This page provides detailed practical instructions for cultivating Wine Cap mushrooms (Stropharia rugosoannulata) in outdoor wood chip beds. See [[kings-stropharia-garden-giant]] for the species overview, ecology, and nematode trapping biology.
+This page provides detailed practical instructions for cultivating Wine Cap mushrooms (Stropharia rugosoannulata) in [[stamets-outdoor-wood-chip-bed-mycelium-transplantation]] chip beds. See [[kings-stropharia-garden-giant]] for the species overview, ecology, and [[bloomfield-nematode-trapping-fungi-predatory-soil-fungi]] biology.
 
 ## Wood Chip Selection and Preparation
 
@@ -57,7 +58,7 @@ Fresh chips from recently felled trees are ideal. Chips that have been sitting i
 ### Spawn Types
 
 - Grain spawn (on rye or millet): most aggressive, fastest colonization
-- Sawdust spawn: slower but more economical for large beds
+- [[growing-gourmet-sawdust-spawn-production-use]]: slower but more economical for large beds
 - Cardboard spawn: budget option; colonize cardboard with mycelium indoors, then transplant
 
 ### Sourcing Spawn
@@ -70,7 +71,7 @@ Purchase from reputable mushroom supply companies. Wine Cap spawn is widely avai
 
 Best installation times:
 
-- Spring (March-May): allows full growing season for colonization; may fruit same fall
+- Spring (March-May): allows full [[savory-growing-season-and-non-growing-season-management]] for colonization; may fruit same fall
 - Fall (September-November): colonization over winter; first fruiting following spring
 
 Fall installation is generally preferred in most climates — the winter months allow slow, thorough colonization without competition from fast-growing summer fungi.
@@ -78,7 +79,7 @@ Fall installation is generally preferred in most climates — the winter months 
 ### Step-by-Step Bed Construction
 
 1. Choose and prepare the site (partially shaded, near a water source)
-2. Clear ground vegetation; optional: lay cardboard or newspaper as weed barrier
+2. Clear [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]]; optional: lay cardboard or newspaper as weed barrier
 3. Loosen the top 2-4 inches of soil with a garden fork
 4. Moisten the soil surface
 5. Apply first layer of chips: 2-3 inches deep, evenly spread
@@ -135,63 +136,6 @@ Maintain a 2-3 inch layer of straw or leaf mulch on top:
 - After 2-3 months: should see extensive white mycelium throughout
 - If colonization stalls: increase moisture, check for contaminants
 
-## Harvesting
-
-### When to Harvest
-
-- Mushrooms appear 2-4 days after heavy rain or deep watering
-- Harvest when caps are fully expanded but still firm
-- Young specimens: burgundy-red cap, white gills, firm flesh
-- Mature: cap faded to tan, gills purple-black, slightly softer
-
-### How to Harvest
-
-- Cut at the base with a knife or twist gently
-- Do not pull — this damages the mycelial network
-- Leave small pins to continue growing
-- Harvest all large mushrooms within 1-2 days of emergence
-
-### Storage
-
-- Refrigerate immediately after harvest
-- Shelf life: 3-7 days refrigerated
-- Best consumed within 2-3 days for optimal quality
-- Can be dried but texture suffers; best used fresh
-- Freezing works if mushrooms are sauteed first
-
-## Seasonal Care
-
-### Spring
-
-- Monitor for emergence after spring rains
-- Top-dress with fresh chips if bed is thinning
-- Remove accumulated debris
-
-### Summer
-
-- Ensure adequate watering during hot, dry periods
-- Extra mulch to retain moisture
-- Mushrooms may fruit sporadically if conditions allow
-
-### Fall
-
-- Prime fruiting season in most climates
-- May produce the heaviest flushes
-- Top-dress with fresh chips and leaves to prepare for winter
-
-### Winter
-
-- Bed goes dormant in freezing climates
-- No maintenance needed in cold regions
-- Mild winter climates: occasional winter fruiting possible
-
-## Troubleshooting
-
-- No colonization after 3 months: spawn may be dead, try again with fresh spawn
-- Green mold patches: normal in small amounts; large patches indicate contamination
-- Inky caps dominating: substrate was too decomposed; use fresher chips
-- Slugs eating mushrooms: hand-pick, set beer traps, or use diatomaceous earth
-- Bed too dry: increase watering and mulch depth
 ## Related Topics
 
 - [[kings-stropharia-garden-giant]] for species overview and ecological benefits
@@ -199,4 +143,5 @@ Maintain a 2-3 inch layer of straw or leaf mulch on top:
 
 ## See Also
 
-- [[king-stropharia-wine-cap-cultivation]]
+- king-stropharia-wine-cap-cultivation
+- [[wine-cap]]

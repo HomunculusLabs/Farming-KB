@@ -1,5 +1,5 @@
 ---
-title: "Copelandia Genus Diversity and Biogeography"
+title: "guzman allen gartz copelandia genus diversity biogeography Diversity and Biogeography"
 created: 2026-04-28
 tags:
   - guzman-allen-gartz
@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Guzman G, Allen JW, Gartz J (2000) A worldwide geographical distribution
-    of the neurotropic fungi, an analysis and discussion. Ann. Mus. civ.
+    of the [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]], an analysis and discussion. Ann. Mus. civ.
     Rovereto 14:189-280.
 type: concept
 ---
@@ -29,7 +29,7 @@ of 29 species in this subfamily considered in the Guzman, Allen and Gartz (2000)
 treatment of 216 neurotropic fungi worldwide.
 
 Copelandia species are among the most characteristic and easily recognized
-neurotropic mushrooms due to their strong bluing reaction, coprophilous habit,
+neurotropic mushrooms due to their strong [[field-guide-psilocybin-bluing-reaction-identification]], coprophilous habit,
 and predominantly tropical distribution.
 
 ## Taxonomy and Classification
@@ -87,7 +87,13 @@ The 12 species of Copelandia recognized by Guzman, Allen and Gartz (2000):
 ### Tropical and Subtropical Concentration
 
 Copelandia species are predominantly tropical and subtropical in distribution.
-Unlike [[copelandia-genus]]
+Unlike copelandia-genus
 
 - [[guzman-allen-gartz-global-psilocybe-biogeography]]
 - [[guzman-allen-gartz-amazonia-and-unexplored-neotropical-regions]]
+## See Also
+- [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]]
+- [[guzman-allen-gartz-mexico-center-neurotropic-diversity]]
+- [[guzman-allen-gartz-global-psilocybe-biogeography]]
+- [[neurotropic-fungi]]
+- [[guzman-allen-gartz-gymnopilus-pluteus-neurotropic-genera]]

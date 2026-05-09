@@ -13,17 +13,17 @@ type: query
 # How to Set Up a Mushroom Grow Lab or Clean Room
 
 ## Short Answer
-A mushroom grow lab is a dedicated space for sterile cultivation work including agar preparation, grain inoculation, and spawn production. The essential components are a still-air box or laminar flow hood for inoculations, a pressure cooker or autoclave for sterilization, a clean and sealable workspace, and rigorous hygiene protocols. Even a small closet or corner of a room can serve as a functional lab with the right setup and discipline.
+A mushroom grow lab is a dedicated space for sterile cultivation work including agar preparation, grain inoculation, and [[growing-gourmet-sawdust-spawn-production-use]]. The essential components are a still-air box or laminar flow hood for inoculations, a pressure cooker or autoclave for sterilization, a clean and sealable workspace, and rigorous hygiene protocols. Even a small closet or corner of a room can serve as a functional lab with the right setup and discipline.
 
 ### Why a Dedicated Lab Space Matters
 
-Attempting sterile mushroom work in a kitchen, living room, or other multi-purpose space is possible but significantly increases contamination rates. Every cubic foot of indoor air contains thousands of mold spores, bacteria, and other particles that can land on exposed sterile media and ruin a culture. A dedicated lab space, even a small one, allows you to control air quality, establish cleaning routines, and develop muscle memory for sterile procedures without the distractions and contaminants of a shared environment. The [[mushroom-cultivation-sterile-laboratory-design]] principles apply whether you are converting a spare room or building a dedicated facility. The core idea is to create a space where you can work with exposed sterile media without introducing airborne contaminants, which are the primary cause of failed cultures and lost time.
+Attempting sterile mushroom work in a kitchen, living room, or other multi-purpose space is possible but significantly increases contamination rates. Every cubic foot of indoor air contains thousands of mold spores, bacteria, and other particles that can land on exposed sterile media and ruin a culture. A dedicated lab space, even a small one, allows you to control air quality, establish cleaning routines, and develop muscle memory for sterile procedures without the distractions and contaminants of a shared environment. The mushroom-cultivation-sterile-laboratory-design principles apply whether you are converting a spare room or building a dedicated facility. The core idea is to create a space where you can work with exposed sterile media without introducing airborne contaminants, which are the primary cause of failed cultures and lost time.
 
-The heart of any lab is the airflow management system. A [[growing-gourmet-autoclave-retort-selection]] capable of reaching 15 PSI is essential. Large pressure canners like the All-American series work well for home growers processing up to 10 quart jars per cycle. Commercial operations need proper autoclaves that can handle bulk bags of supplemented sawdust. Regardless of scale, the principle is the same: complete sterilization of nutrient-rich media before inoculation gives your mushroom culture a competitive advantage.
+The heart of any lab is the airflow management system. A [[growing-gourmet-autoclave-retort-selection]] capable of reaching 15 PSI is essential. Large pressure canners like the All-American series work well for home growers processing up to 10 quart jars per cycle. Commercial operations need proper autoclaves that can handle bulk bags of [[oyster-mushroom-supplemented-sawdust-blocks]]. Regardless of scale, the principle is the same: complete sterilization of nutrient-rich media before inoculation gives your [[mazatec-mushroom-culture-and-velada]] a competitive advantage.
 
 The physical space should be easy to clean and free of porous surfaces. Smooth walls, sealed floors, and minimal clutter reduce hiding spots for mold spores and bacteria. A daily cleaning routine with 70 percent isopropyl alcohol or a 10 percent bleach solution keeps surface contamination low. The [[cultivator-sterile-technique-and-agar-culture]] practices are especially important during the most vulnerable steps of the process, including opening sterile containers, transferring mycelium between media, and pouring agar plates.
 
-Lab organization matters more than most beginners realize. Designate separate areas for dirty work like substrate preparation and clean work like inoculation. Keep tools flame-sterilized and organized. Maintain a culture library with proper labeling and storage. A well-organized lab reduces mistakes, saves time, and makes the entire cultivation process more enjoyable. The difference between a frustrating hobby and a rewarding one often comes down to the quality of the lab setup and the consistency of the sterile technique practiced within it.
+Lab organization matters more than most beginners realize. Designate separate areas for dirty work like [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] and clean work like inoculation. Keep tools flame-sterilized and organized. Maintain a culture library with proper labeling and storage. A well-organized lab reduces mistakes, saves time, and makes the entire cultivation process more enjoyable. The difference between a frustrating hobby and a rewarding one often comes down to the quality of the lab setup and the consistency of the [[cultivator-sterile-technique-and-agar-culture]] practiced within it.
 
 ### Building a DIY Laminar Flow Hood
 
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

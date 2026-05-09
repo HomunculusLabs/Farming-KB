@@ -1,6 +1,6 @@
 ---
 
-title: Aquatic Fungi and Ingoldian Spores
+title: Aquatic aquatic fungi and ingoldian spores Spores
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -23,7 +23,7 @@ sources:
 
 # Aquatic Fungi and Ingoldian Spores
 
-Aquatic fungi are a diverse group of decomposer organisms that live and reproduce in freshwater habitats. The most famous are the Ingoldian hyphomycetes, whose spectacularly shaped spores were discovered by C.T. Ingold in 1938 and revolutionized understanding of fungal diversity in water ecosystems.
+Aquatic fungi are a diverse group of decomposer organisms that live and reproduce in freshwater habitats. The most famous are the Ingoldian hyphomycetes, whose spectacularly shaped spores were discovered by C.T. Ingold in 1938 and revolutionized understanding of [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] in water ecosystems.
 
 ## Ingold's Discovery
 
@@ -56,7 +56,7 @@ Appendages do NOT slow spore descent through water — experiments show tetrarad
 Ingoldian fungi are critical decomposers in freshwater ecosystems:
 
 1. **Leaf decomposition**: Spores colonize submerged autumn leaves, producing mycelia that soften and macerate plant tissues by secreting cellulose-degrading enzymes
-2. **Nutrient cycling**: Hyphae raise the protein content of leaf debris as dead plant material is transformed into living fungal tissue
+2. **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: Hyphae raise the protein content of leaf debris as dead plant material is transformed into living fungal tissue
 3. **Food web support**: The resulting fungal-enriched debris feeds tiny crustaceans and other aquatic invertebrates
 4. **Abundance**: Spore concentrations reach 20,000 per liter in late fall and early winter
 
@@ -66,11 +66,11 @@ Ingoldians are not confined to underwater habitats. Mycelia also grow on plants 
 
 ## Water as Fungal Architect
 
-Water plays multiple critical roles in fungal biology beyond aquatic species:
-- Acts as an internal skeleton in mycelia and mushrooms (turgor pressure)
+Water plays multiple critical roles in [[bloomfield-fungal-biology-and-hyphal-growth]] beyond aquatic species:
+- Acts as an internal skeleton in mycelia and mushrooms ([[bloomfield-turgor-pressure-and-hyphal-invasion]])
 - Powers invasive hyphal growth through substrates
 - Is indispensable for drop-driven spore catapults (Buller's drop)
-- Creates the humidity required for fruiting body development
+- Creates the humidity required for [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] development
 
 See also [[fungal-biology-fundamentals]], [[fungal-spore-biology]], [[saprotrophic-fungi]], [[fungi-soil-food-webs]]
 ## Practical Considerations
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

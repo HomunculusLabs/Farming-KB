@@ -1,5 +1,5 @@
 ---
-title: ALEPH-7 - PIHKAL Entry #7 Compound Profile
+title: ALEPH-7 - 2c-b-pihkal-entry-20 #7 Compound Profile
 created: 2026-04-26
 updated: 2026-04-22
 sources: PIHKAL Entry #7
@@ -26,7 +26,7 @@ ALEPH-7 is the most pharmacologically distinctive member of the [ALEPH family, n
 
 ## Synthesis Summary
 
-Synthesized from 2,5-dimethoxy-4-((n)-propylthio)benzaldehyde (see [[2c-d-pihkal-entry-23]] for aldehyde synthesis) via condensation with nitroethane and ammonium acetate (steam bath, overnight), yielding the nitrostyrene as orange crystals (mp 83-84 C). Reduction with LAH in THF requires extended reaction time (2 days reflux + 2 days at room temperature). The product is isolated via extraction and converted to HCl salt as an off-white powder.
+Synthesized from 2,5-dimethoxy-4-((n)-propylthio)benzaldehyde (see [[2c-d-pihkal-entry-23]] for aldehyde synthesis) via condensation with nitroethane and ammonium acetate ([[scythian-cannabis-steam-bath-ritual]], overnight), yielding the nitrostyrene as orange crystals (mp 83-84 C). Reduction with LAH in THF requires extended reaction time (2 days reflux + 2 days at room temperature). The product is isolated via extraction and converted to HCl salt as an off-white powder.
 
 ## Comparison to Related Compounds
 
@@ -65,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

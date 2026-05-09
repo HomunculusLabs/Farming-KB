@@ -13,7 +13,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dy
 Hypholoma fasciculare, commonly known as the sulphur tuft, is a
 basidiomycete fungus that plays a significant role in wood
 decomposition and soil ecology. It is a cord-forming species studied
-for its mycelial foraging strategies, fractal growth patterns, and
+for its mycelial [[mycelial-foraging-strategies-nutrient-translocation]], fractal growth patterns, and
 interactions with soil invertebrates.
 
 Unlike some other cord-formers, H. fasciculare produces surface
@@ -86,21 +86,21 @@ changing resource distributions in the soil environment.
 
 ## Ecological Significance
 
-H. fasciculare contributes to wood decomposition, nutrient cycling
+H. fasciculare contributes to wood decomposition, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 through enzymatic degradation of complex polymers, soil fauna
 interactions providing habitat and food for microarthropods, and
 competitive interactions with other decomposer fungi for wood and
 litter resources in forest ecosystems.
 
-Fractal geometry provides quantitative tools for characterizing the complex branching patterns of H. fasciculare mycelia. Box-counting fractal dimension measures space-filling characteristics, while graph-theoretic approaches quantify branching patterns and network connectivity. These mathematical tools enable rigorous comparison of mycelial morphology across species and environmental conditions.
+Fractal geometry provides quantitative tools for characterizing the complex branching patterns of H. fasciculare mycelia. Box-counting fractal dimension measures space-filling characteristics, while graph-theoretic approaches quantify branching patterns and network connectivity. These mathematical tools enable rigorous comparison of [[growing-gourmet-mycelial-morphology-classification-agar-media]] across species and environmental conditions.
 
 H. fasciculare produces basidiocarps (mushrooms) in dense clusters on dead wood, giving rise to the common name sulphur tuft. The fruiting bodies are bright sulphur-yellow to greenish-yellow, darkening with age, and contain the toxins fasciculol E and fasciculol F, which cause gastrointestinal symptoms including nausea, vomiting, and diarrhea if ingested.
 
 The ability of H. fasciculare to colonize both large and small woody debris, combined with its surface fractal growth strategy, allows it to function as a generalist decomposer in forest floor ecosystems. This ecological flexibility may contribute to its widespread distribution and abundance across temperate forest types.
 
-The competitive interactions between H. fasciculare and other decomposer fungi have been studied in laboratory microcosms. H. fasciculare can replace previously established mycelia of other species through combative interactions involving hyphal interference and antibiotic production, demonstrating its competitive ability in multispecies fungal communities.
+The competitive interactions between H. fasciculare and other decomposer fungi have been studied in laboratory microcosms. H. fasciculare can replace previously established mycelia of other species through combative interactions involving hyphal interference and antibiotic production, demonstrating its competitive ability in multispecies [[biodiversity-of-fungi-soil-fungal-communities-agriculture]].
 
-Seasonal patterns of mycelial growth and regression have been documented for H. fasciculare in field studies. Mycelial extension is most rapid during autumn when moisture and temperature conditions are favorable, while regression occurs during summer drought periods. This seasonal dynamics affects the timing and outcome of competitive interactions with other wood-decomposing fungi.
+Seasonal patterns of [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and regression have been documented for H. fasciculare in field studies. Mycelial extension is most rapid during autumn when moisture and temperature conditions are favorable, while regression occurs during summer drought periods. This seasonal dynamics affects the timing and outcome of competitive interactions with other wood-decomposing fungi.
 
 The bright-colored fruiting bodies of H. fasciculare are among the most commonly encountered mushrooms in temperate forests. Despite their toxicity to humans, they are not harmful to wildlife and may play a role in spore dispersal through animal interactions. The species serves as a useful indicator of dead wood decomposition stages in forest ecosystem assessments.
 
@@ -110,7 +110,7 @@ The interactions between H. fasciculare and soil microarthropods represent an im
 
 The study of H. fasciculare mycelial systems has provided important insights into the relationship between fungal foraging strategy, mycelial architecture, and ecological function. Understanding these relationships is crucial for predicting how fungal communities respond to environmental change and management interventions in forest ecosystems.
 
-The fruiting bodies of H. fasciculare are produced annually from established mycelial networks in dead wood. The timing of fruiting is influenced by environmental cues including temperature, moisture, and light. Fruiting typically occurs in autumn in temperate regions, when conditions are most favorable for basidiocarp development and spore dispersal.
+The fruiting bodies of H. fasciculare are produced annually from established [[fungal-mycelial-networks-nutrient-translocation]] in dead wood. The timing of fruiting is influenced by environmental cues including temperature, moisture, and light. Fruiting typically occurs in autumn in temperate regions, when conditions are most favorable for basidiocarp development and spore dispersal.
 
 This seasonal pattern of fruiting ensures spore release coincides with periods of high humidity and moderate temperatures favorable for spore germination and mycelial establishment.
 
@@ -118,6 +118,6 @@ H. fasciculare is widely distributed across temperate forests of the Northern He
 
 ## See Also
 Related: [[mycelial-foraging-resource-allocation]], [[hypholoma-pluteus-inocybe-conocybe-genera]]
-- [[growing-gourmet-hypholoma-sublateritium-kuritake-cultivation]]
+- growing-gourmet-hypholoma-sublateritium-kuritake-cultivation
 
 - [[fungal-serpula-lacrymans-dry-rot-buildings]]

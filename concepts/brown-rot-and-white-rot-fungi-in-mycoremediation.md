@@ -5,14 +5,14 @@ updated: 2026-04-19
 type: concept
 tags: [remediation, environment]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources: []
 ---
 
-**Source:** Mycelium Running (Paul Stamets, Ch. 6) | **Updated:** 2026-04-18
+**Source:** [[woodlovers-mycelium-running-pathway-technique]] (Paul Stamets, Ch. 6) | **Updated:** 2026-04-18
 
 ## Overview
 
-Mushrooms that decompose wood can be classified into two subgroups based on the type of rot they cause: brown rotters and white rotters. This distinction is critical for mycoremediation, as the enzymes each group produces determine which toxins they can break down. See also mycoremediation, [[antiviral-properties-of-mushrooms]].
+Mushrooms that decompose wood can be classified into two subgroups based on the type of rot they cause: brown rotters and white rotters. This distinction is critical for mycoremediation, as the enzymes each group produces determine which toxins they can break down. See also mycoremediation, antiviral-properties-of-mushrooms.
 
 ## Brown Rot Fungi
 
@@ -44,17 +44,17 @@ Mushrooms that decompose wood can be classified into two subgroups based on the 
 - Only white rot mushrooms produce manganese-dependent peroxidase — an enzyme that mineralizes wood and is particularly efficient at breaking hydrogen-carbon bonds
 
 ### Key White Rot Species
-- **Oyster mushroom** (Pleurotus ostreatus) — the premier mycoremediator
-- **Maitake** (Grifola frondosa)
-- **Turkey tail** (Trametes versicolor)
-- **Reishi** (Ganoderma lucidum)
+- **[[cotter-oyster-mushroom-cultivation]]** (Pleurotus ostreatus) — the premier mycoremediator
+- **Maitake** ([[maitake-grifola-frondosa-comprehensive-profile]])
+- **Turkey tail** ([[staycare-trametes-versicolor-bioremediation-applications]])
+- **Reishi** ([[stamets-reishi-ganoderma-lucidum-cultivation]])
 - **Artist conk** (Ganoderma applanatum)
 - **Crust fungus** ([[comparison-white-rot-vs-brown-rot-fungi]]
 
-- [[mycoremediation-species-selection-guide]]
+- mycoremediation-species-selection-guide
 - [[companion-cultivation-of-mushrooms-with-garden-vegetables]]
 - [[stamets-reishi-ganoderma-lucidum-cultivation]]
-- [[fungal-wood-decay-types-white-rot-brown-rot]]
+- fungal-wood-decay-types-white-rot-brown-rot
 - [[laricifomes-officinalis]]
 ## Practical Considerations
 
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

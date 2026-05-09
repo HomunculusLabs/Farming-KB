@@ -11,7 +11,7 @@ type: entity
 # Loquat
 
 **Type:** Species (Plant)
-**Category:** Evergreen fruit tree
+**Category:** Evergreen [[comparison-berry-growing-vs-fruit-tree-pruning]]
 **Also known as:** Eriobotrya japonica, Japanese loquat, Japanese
 medlar, nispero, pipa
 
@@ -57,9 +57,9 @@ subtropical and warm temperate landscapes.
 
 ### Uses
 - **Food:** Best eaten fresh; also made into jams and wine
-- **Landscape:** Excellent shade tree; can serve as hedge or windbreak
+- **Landscape:** Excellent [[mollison-designers-legume-shade-tree-pasture-systems]]; can serve as hedge or windbreak
 - **Ornamental:** Attractive evergreen foliage
-- **Animal forage:** Some potential as animal forage
+- **[[permaculture-designers-manual-animal-forage-systems]]:** Some potential as animal forage
 - **Thinning:** Fruit thinning improves individual fruit size
 
 ### Propagation
@@ -75,7 +75,7 @@ Loquat is a valuable early-season fruit for [[2-4-dma-entity-pihkal]]
 - Citrus
 - fig
 
-See also: [[loquat-cultivation-and-variety-guide]]
+See also: loquat entity
 ## Practical Considerations
 
 Successful implementation of Loquat requires attention to
@@ -94,4 +94,5 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[4-ho-dpt-entity-tihkal]]

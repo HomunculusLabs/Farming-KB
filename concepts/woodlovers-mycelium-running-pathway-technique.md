@@ -1,5 +1,5 @@
 ---
-title: Woodlovers Mycelium Running Pathway Technique
+title: Woodlovers woodlovers mycelium running pathway technique Pathway Technique
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -10,7 +10,7 @@ sources:
 ---
 # Woodlovers Mycelium Running Pathway Technique
 
-Mycelium "running" refers to the aggressive outward expansion of fungal networks through wood chip substrates. For outdoor woodlover cultivation, this natural behavior can be harnessed to expand patches, create pathways of productive mycelium, and establish new beds without laboratory-grade spawn. The technique transforms a single inoculated bed into an expanding network of productive mushroom habitat.
+Mycelium "running" refers to the aggressive outward expansion of fungal networks through wood chip substrates. For outdoor woodlover cultivation, this natural behavior can be harnessed to expand patches, create pathways of productive mycelium, and establish new beds without laboratory-grade spawn. The technique transforms a single inoculated bed into an expanding network of productive [[psilocybin-mushroom-habitat-and-ecology]].
 
 ## The Cardboard Transfer Method
 
@@ -37,7 +37,7 @@ This works because cardboard is made of cellulose (wood pulp), which is a natura
 Mycelium will also run directly from colonized chips into adjacent fresh chips without any transfer medium:
 
 ### In-Bed Expansion
-- A well-established bed naturally expands its mycelial network outward into surrounding soil and organic matter
+- A well-established bed naturally expands its [[gadd-mycelial-network-dynamics]] outward into surrounding soil and [[hamilton-composting-and-organic-matter-management]]
 - Adding fresh wood chips to the edges of an existing bed in spring encourages this expansion
 - Over multiple seasons, a single inoculation point can colonize a large area
 
@@ -97,7 +97,7 @@ The mycelium running technique can be integrated into garden design:
 
 - Place wood chip beds along garden pathways where foot traffic is light
 - Use the cardboard transfer method to establish mycelium in mulched perennial beds
-- Position beds near compost piles for nutrient availability and moisture
+- Position beds near compost piles for [[ph-and-nutrient-availability-garden-soils]] and moisture
 - Half-shaded areas under shrubs serve dual purposes as ornamental and productive zones
 
 ## Species Suitability
@@ -110,6 +110,8 @@ All major woodlovers respond well to running techniques:
 
 ## See Also
 
+- [[woodlovers-outdoor-alder-chip-method]]
+
 - [[outdoor-woodlover-bed-preparation]] — bed preparation methods
 - [[companion-cultivation-of-mushrooms-with-garden-vegetables]] — garden integration
-- [[fungal-ecosystem-roles]] — ecological role of mycelial networks
+- [[fungal-ecosystem-roles]] — ecological role of [[fungal-mycelial-networks-nutrient-translocation]]

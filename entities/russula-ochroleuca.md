@@ -11,8 +11,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Kibby, G. & Fatto, R. (2019). "Field Guide to the Mushrooms of Britain and Europe." Merlin Unwin Books.
-  - Phillips, R. (2010). "Mushrooms: A Comprehensive Guide to Mushroom Identification." Macmillan.
+  - Kibby, G. & Fatto, R. (2019). "ghouled-field-guide-historical-context to the Mushrooms of Britain and Europe." Merlin Unwin Books.
+  - Phillips, R. (2010). "Mushrooms: A Comprehensive Guide to [[psilocybin-mushroom-identification-guide]]." Macmillan.
   - Knudsen, H. & Vesterholt, J. (2012). "Funga Nordica: Agaricoid, Boletoid and Cyphelloid Genera." Nordsvamp.
   - Boertmann, D. (2010). "The Mushrooms and Toadstools of Britain and North-West Europe." PilzPress.
 created: 2026-05-07
@@ -22,7 +22,7 @@ created: 2026-05-07
 
 **Russula ochroleuca** is a widespread basidiomycete fungus in the family Russulaceae, commonly known as the common yellow russula or ochre brittlegill.
 
-It is one of the most frequently encountered *Russula* species in temperate European and North American forests, fruiting from midsummer through late autumn.
+It is one of the most frequently encountered *Russula* species in temperate European and [[growing-gourmet-north-american-reishi-species]] forests, fruiting from midsummer through late autumn.
 
 The species forms ectomycorrhizal associations with both coniferous and broadleaf trees, particularly *Pinus*, *Picea*, *Betula*, and *Quercus*.
 
@@ -64,7 +64,7 @@ The gills are adnexed to slightly decurrent, moderately crowded, white to pale c
 
 The stipe is cylindrical, 4 to 10 cm tall and 1 to 2.5 cm thick, white, firm when young but becoming hollow and somewhat spongy with maturity.
 
-Spore print is creamy white to pale ochre.
+[[comparison-spore-print-collection-vs-spore-syringe-production]] is creamy white to pale ochre.
 
 Basidiospores are elliptical, measuring 7 to 9 by 6 to 7.5 μm, ornamented with isolated warts connected by fine reticulations.
 
@@ -76,7 +76,7 @@ No notable odor is present, though some specimens develop a faint fruity or gera
 
 *Russula ochroleuca* is found across temperate regions of Europe, from Scandinavia to the Mediterranean, and extends into parts of North Africa and western Asia.
 
-In North America, it occurs across much of the United States and southern Canada, though some reports may represent a species complex rather than the true European taxon.
+In North America, it occurs across much of the [[dmt-containing-plants-united-states-halpern]] and southern Canada, though some reports may represent a species complex rather than the true European taxon.
 
 The species is particularly abundant in the British Isles, where it is one of the most commonly collected russulas in coniferous plantations.
 
@@ -114,7 +114,7 @@ This mycorrhizal relationship is ecologically significant in forest regeneration
 
 The fruiting bodies serve as food for various forest invertebrates, including slugs and fly larvae, as well as small mammals such as deer mice and squirrels.
 
-*Russula* species are also known to accumulate heavy metals from soil, potentially playing a role in site remediation in contaminated forest environments.
+*Russula* species are also known to accumulate [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] from soil, potentially playing a role in site remediation in contaminated forest environments.
 
 ## Related Species
 

@@ -6,7 +6,7 @@ tags:
   - fungi
   - polypore
   - edible-mushroom
-  - [[mycology]]
+  - mycology
   - north-america
   - foraging
   - tree-pathogen
@@ -34,9 +34,9 @@ Fomitopsidaceae, commonly known as the white-pored [[spore-print]]:** White. **S
 
 ## Distribution and Habitat
 
-L. cincinnatus is found across eastern North America from the Atlantic
+L. cincinnatus is found across [[polypore-fungi-eastern-north-america]] America from the Atlantic
 coast west to the Great Plains, and from southern Canada through the
-Appalachians into the southeastern United States. It fruits from late
+Appalachians into the southeastern [[dmt-containing-plants-united-states-halpern]]. It fruits from late
 spring through autumn, with peak fruiting in mid-summer to early fall.
 The species is strongly associated with mature oak forests and is
 common in temperate hardwood and mixed deciduous ecosystems. Prefers
@@ -62,7 +62,7 @@ and white pore coloration before harvesting.
 ## See Also
 
 - [[oyster-mushrooms]]
-- [[oyster-mushrooms]]
+
 ## Practical Considerations
 
 Successful implementation of Laetiporus cincinnatus requires attention to
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

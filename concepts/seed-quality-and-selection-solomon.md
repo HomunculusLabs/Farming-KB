@@ -1,5 +1,5 @@
 ---
-title: Seed Quality and Selection (Solomon)
+title: Seed seed quality and selection solomon (Solomon)
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -54,7 +54,7 @@ The seeds that germinate quickest in the lab also produce the highest percentage
 ## How Cheap Seed Is Made
 
 It is easy to produce cheap seed:
-- Do not bother eradicating off-types from seed production fields
+- Do not bother eradicating off-types from [[cervantes-seed-production-storage]] fields
 - Do not hire skilled plant breeders to maintain pure lines
 - Do not patrol surrounding areas to prevent cross-pollination
 - Do not hand-select the best plants for seed production
@@ -68,9 +68,9 @@ This is why many "heirlooms" from cheap producers bear no resemblance to the ori
 
 No single variety performs well everywhere. A seed company serving the entire English-speaking world would need trial grounds in every broad climatic zone. Most don't.
 
-Solomon's climate zones:
+Solomon's [[mollison-climate-zones-permaculture-strategies]]:
 - **Short-season**: Northern tier of US states, southern Canada within a few hundred miles of the US border
-- **Moderate**: Middle American states, roughly from northern Pennsylvania to southern North Carolina, east coast of Australia south of Sydney
+- **Moderate**: Middle American states, roughly from northern Pennsylvania to southern North Carolina, [[fukuoka-east-coast-forest-livestock-soil-damage]] of Australia south of Sydney
 - **Warm**: Southern US states, Australia from Sydney north to Bundaberg
 
 The likelihood of success is far higher when the seed supplier's trial grounds are in roughly the same climatic zone as your garden.
@@ -105,7 +105,7 @@ The garden center seed rack is supplied by jobbers seeking the lowest possible p
 
 ## Seed Storage
 
-Seed viability declines with time and storage conditions. Key principles:
+Seed viability declines with time and [[vegetable-storage-conditions-by-temperature-and-humidity]]. Key principles:
 
 - Cool, dry, dark storage extends viability
 - Seeds in sealed containers at refrigerator temperatures store longest

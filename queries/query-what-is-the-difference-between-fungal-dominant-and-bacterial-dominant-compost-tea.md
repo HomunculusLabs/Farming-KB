@@ -1,17 +1,18 @@
 ---
-title: "What Is the Difference Between Fungal and Bacterial Dominant Compost Tea?"
+title: "What Is the Difference Between Fungal and comparison-bacterial-dominant-vs-fungal-dominant-tea Compost Tea?"
 created: 2026-04-28
 tags: [query, compost-tea, soil-biology, microbiology, organic-farming]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
 # What Is the Difference Between Fungal and Bacterial Dominant Compost Tea?
 
 ## Short Answer
-Fungal dominant compost tea is brewed to multiply beneficial fungi like
+[[aact-fungal-dominant-tea]] compost tea is brewed to multiply beneficial fungi like
 mycorrhizal partners and decomposers, using ingredients like humic acids,
 kelp, and longer brew times with minimal aeration disruption. Bacterial
 dominant tea boosts populations of beneficial bacteria using simple food
@@ -24,10 +25,10 @@ seedlings, and early growth stages benefit from bacterial teas.
 
 Compost tea is a liquid extract created by brewing high-quality compost in
 aerated water with food sources that feed beneficial microorganisms. The
-resulting liquid is rich in the [[aact-disease-suppression-recipes]], and plant growth promotion.
+resulting liquid is rich in the [[aact-disease-suppression-recipes]], and plant [[brassinosteroid-growth-promotion-psilocybe-cubensis]].
 
 Fungal dominant teas are more challenging to produce but are essential for
-certain growing situations where fungal biology is needed. Fungi require
+certain growing situations where [[bloomfield-fungal-biology-and-hyphal-growth]] is needed. Fungi require
 different food sources than bacteria, including more complex compounds like
 humic acid, fulvic acid, fish hydrolysate (not fish emulsion, which can
 favor bacteria due to its oil content), and oatmeal or oat bran. Critically,
@@ -43,13 +44,13 @@ nature, disturbed soils and early-succession environments tend to be
 bacterial dominated, supporting annual plants and fast-growing colonizers
 that need readily available nutrients. Mature, undisturbed ecosystems like
 forests develop fungal-dominated soils that support perennials and woody
-plants through slower, more complex nutrient cycling networks. For
+plants through slower, more complex [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] networks. For
 cannabis, the ideal soil microbial balance shifts through the grow cycle.
 Early [[arbuscular-mycorrhizal-network-visualization-anastomosis]] associations
 that contribute to [[cervantes-foliar-feeding]] benefits alongside surface-level disease protection. Fungal teas
 are more effective as soil drenches where the hyphae can establish in the
 root zone and begin building relationships with plant roots through
-nutrient exchange networks. For [[aact-applications-guide-ingham]], bacterial teas
+[[arbuscule-isolation-and-nutrient-exchange-mechanisms]] networks. For [[aact-applications-guide-ingham]], bacterial teas
 are most valuable during the first half of the grow and fungal teas
 during the second half, especially in the weeks leading up to and during
 the early flowering period.
@@ -88,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

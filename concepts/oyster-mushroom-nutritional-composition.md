@@ -12,9 +12,9 @@ type: concept
 
 ## Overview
 
-Oyster mushrooms (Pleurotus spp.) are recognized as nutritionally dense foods
+[[query-how-to-grow-oyster-mushrooms-at-home]] (Pleurotus spp.) are recognized as nutritionally dense foods
 offering significant protein content, essential vitamins and minerals, and
-bioactive compounds with medicinal properties. Their nutritional profile makes
+[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with medicinal properties. Their nutritional profile makes
 them particularly valuable in developing countries where protein malnutrition
 is prevalent and access to animal protein sources may be limited. As Quimio
 (2002) notes, "mushrooms can mean cash for the poor and a new source of
@@ -36,7 +36,7 @@ Oyster mushrooms provide a balanced nutritional profile per fresh weight:
 
 - **Protein**: 2.9% fresh (26-35% dry weight), comparable to corn, milk, and
   legumes, though lower than meat, fish, and eggs. The protein content is
-  superior to most fruits and vegetables except beans and peas.
+  superior to most fruits and vegetables except [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]].
 - **Carbohydrates**: 5.66% fresh weight, primarily as complex polysaccharides
   including dietary fiber and beta-glucans rather than simple sugars
 - **Fat**: 1.79% fresh weight, with a favorable fatty acid profile that
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

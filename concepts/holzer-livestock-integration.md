@@ -1,5 +1,5 @@
 ---
-title: Holzer Livestock Integration
+title: Holzer faires-livestock-integration-permaculture
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,11 +9,11 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # Holzer Livestock Integration
 
-Livestock play a large role in Sepp Holzer's permaculture system. They provide high-quality produce and are also industrious and pleasant workers. Holzer breeds robust, hardy animals suited to the terrain — old domestic breeds as well as wild animals.
+Livestock play a large role in [[comparison-sepp-holzer-vs-biodynamic]]'s permaculture system. They provide high-quality produce and are also industrious and pleasant workers. Holzer breeds robust, hardy animals suited to the terrain — old domestic breeds as well as wild animals.
 
 ## Philosophy
 
-Old domestic breeds are significantly hardier, more intelligent and adaptable than over-bred modern varieties. Their natural instincts are sufficient for them not to fall over their own feet, and their produce is of far higher quality. These breeds can be kept under near-natural conditions, which is Holzer's main requirement. Intensive livestock farming amounts to torture and produces food of very low nutritional value.
+Old domestic breeds are significantly hardier, more intelligent and adaptable than over-bred modern varieties. Their natural instincts are sufficient for them not to fall over their own feet, and their produce is of far higher quality. These breeds can be kept under near-natural conditions, which is Holzer's main requirement. Intensive [[fukuoka-textdoc-natural-livestock-farming-open-grazing]] amounts to torture and produces food of very low nutritional value.
 
 ## Keeping Conditions
 
@@ -62,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

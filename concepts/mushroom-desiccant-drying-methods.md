@@ -1,5 +1,5 @@
 ---
-title: Mushroom Desiccant Drying Methods
+title: Mushroom mushroom desiccant drying methods Methods
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 author: Robert "Psylocybe Fanaticus" McPherson
 tags: [drying, desiccant, silica-gel, drierite, preservation, potency]
@@ -7,7 +7,7 @@ tags: [drying, desiccant, silica-gel, drierite, preservation, potency]
 
 # Mushroom Desiccant Drying Methods
 
-Proper drying is critical for preserving mushroom potency and
+Proper drying is critical for preserving [[pf-tek-mushroom-potency-and-age-relationship]] and
 preventing mold growth. The pf tek emphasizes desiccant-based
 drying as a superior alternative to heat-based methods. This page
 covers desiccant types, chamber construction, and best practices.
@@ -61,14 +61,14 @@ Silica gel is the most widely available desiccant:
   packaging, available in bulk from craft stores, hardware stores,
   and online
 - **Types**: Beaded (preferred for chamber use) or granular. Beaded
-  form has better air circulation between particles
+  form has better [[stamets-growing-room-air-circulation-co2-management]] between particles
 
 ### Other Desiccants
 - **Calcium chloride**: Very high absorption capacity but becomes
   liquid as it absorbs moisture, making it messy for drying
   chambers. Better suited as a bulk dehumidifier
 - **Molecular sieves**: Extremely effective but expensive and
-  overkill for mushroom drying
+  overkill for [[palmer-mushroom-drying-preservation-methods]]
 - **Rice and salt**: Common household desiccants with low capacity.
   Can supplement other desiccants but are not effective alone
 
@@ -130,7 +130,7 @@ Properly dried mushrooms require appropriate storage:
 
 - **Container**: Airtight glass jars with desiccant packets
 - **Environment**: Cool, dark location. Refrigeration extends
-  shelf life significantly; freezing can preserve potency for
+  [[psilocybin-shelf-life-stability]] significantly; freezing can preserve potency for
   years
 - **Desiccant**: Include a small desiccant packet in the storage
   jar to absorb any residual moisture

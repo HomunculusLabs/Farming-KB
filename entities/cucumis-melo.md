@@ -25,7 +25,7 @@ encompasses a diverse group of cultivars including cantaloupe, honeydew,
 muskmelon, and casaba.
 
 Melon is one of the most important global fruit crops, with annual production
-exceeding 30 million tonnes. China, Turkey, Iran, and the United States are the
+exceeding 30 million tonnes. China, Turkey, Iran, and the [[dmt-containing-plants-united-states-halpern]] are the
 leading producers.
 
 The species originated in Africa or Southwest Asia and has been cultivated for
@@ -61,7 +61,7 @@ contains numerous seeds enclosed in a gelatinous placental tissue.
 ## Distribution and Habitat
 
 Wild progenitors of *C. melo* are found in Africa, particularly the Sahel and
-East African regions, where *C. melo* subsp. *agrestis* grows as a weed in
+[[comparison-cavendish-vs-east-african-highland-bananas]] regions, where *C. melo* subsp. *agrestis* grows as a weed in
 disturbed habitats.
 
 Cultivation spread from Africa to the Mediterranean, Middle East, and India by
@@ -83,14 +83,14 @@ trays. Seeds germinate in 3–10 days at soil temperatures above 20°C.
 
 Spacing varies by cultivar and training method: 0.5–1.0 m within rows and
 1.5–2.5 m between rows for bush types; wider spacing for vining types.
-Trellising improves air circulation and reduces disease pressure.
+Trellising improves [[stamets-growing-room-air-circulation-co2-management]] and reduces disease pressure.
 
 The crop requires 90–130 days from planting to harvest depending on cultivar
 and growing conditions. Fruit maturity is indicated by aroma development,
 easy stem separation (full slip), and background color change.
 
-Major production constraints include powdery mildew (*Podosphaera xanthii*),
-downy mildew (*Pseudoperonospora cubensis*), fusarium wilt (*Fusarium
+Major production constraints include [[cervantes-powdery-mildew-prevention-treatment]] (*Podosphaera xanthii*),
+[[cervantes-downy-mildew-fungal-blight]] (*Pseudoperonospora cubensis*), fusarium wilt (*Fusarium
 oxysporum* f. sp. *melonis*), and aphid-transmitted viruses.
 
 Modern hybrid cultivars dominate commercial production, offering disease
@@ -119,7 +119,7 @@ The species is divided into several cultivar groups based on fruit
 characteristics:
 
 - **Cantalupensis** (cantaloupe): netted rind, orange flesh, aromatic. The most
-  commercially important group in North America and Europe.
+  commercially important group in [[psilocybin-north-america-pacific-northwest]] and Europe.
 - **Inodorus** (honeydew, casaba, crenshaw): smooth or wrinkled rind, green or
   white flesh, mild flavor, long shelf life.
 - **Reticulatus** (muskmelon): netted rind, orange to salmon flesh, highly
@@ -136,5 +136,5 @@ characteristics:
 - [[cucurbita-pepo]]
 - [[solanum-tuberosum]]
 - citrus
-- [[punica-granatum]]
+- punica-granatum
 - [[physalis-peruviana]]

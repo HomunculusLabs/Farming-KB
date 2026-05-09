@@ -64,7 +64,7 @@ Hamburg parsley produces a thick, fleshy taproot similar in appearance to a smal
 
 ## Distribution and Cultivation
 
-Parsley is cultivated worldwide in temperate and subtropical climates. Major producers include the United States, Germany, France, Italy, and Hungary. It prefers well-drained, fertile soil with partial to full sun.
+Parsley is cultivated worldwide in temperate and subtropical climates. Major producers include the [[dmt-containing-plants-united-states-halpern]], Germany, France, Italy, and Hungary. It prefers well-drained, fertile soil with partial to full sun.
 
 Seeds are slow to germinate, requiring 3–6 weeks and often benefiting from soaking or stratification. The plant is hardy and can withstand light frost, allowing extended harvest seasons.
 
@@ -76,7 +76,7 @@ Parsley is exceptionally rich in vitamin K, providing over 500% of the daily val
 
 The herb contains notable amounts of iron (6.2 mg/100 g), potassium, calcium, and magnesium. Its high chlorophyll content contributes to its characteristic deep green color and antioxidant properties.
 
-Essential oil yield ranges from 0.1–0.3% of fresh weight, with apiol, myristicin, and limonene as the primary volatile constituents.
+[[permaculture-designers-manual-essential-oil-plants]] yield ranges from 0.1–0.3% of fresh weight, with apiol, myristicin, and limonene as the primary volatile constituents.
 
 ## Bioactive Compounds and Pharmacology
 

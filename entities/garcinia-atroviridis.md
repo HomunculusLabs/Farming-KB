@@ -81,11 +81,11 @@ biosynthesis, providing a mechanism for the fruit's anti-obesity effects.
 
 Animal studies demonstrate significant reductions in body weight gain, serum
 triglycerides, and LDL cholesterol in HCA-supplemented groups compared to
-controls. Human clinical trials with *Garcinia* extracts show mixed results.
+controls. Human [[mushroom-cancer-clinical-trials-overview]] with *Garcinia* extracts show mixed results.
 
 Antioxidant activity of fruit extracts is strong, with IC50 values in DPPH
 assays comparable to standard antioxidants. Xanthones isolated from the bark
-exhibit cytotoxic activity against several cancer cell lines in vitro.
+exhibit cytotoxic activity against several [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines in vitro.
 
 Anti-inflammatory effects are mediated through inhibition of COX-2 and iNOS
 expression. The bark extract shows potential as a topical anti-inflammatory
@@ -127,7 +127,9 @@ leaf-eating caterpillars. No serious diseases have been reported in cultivation.
 
 ## See Also
 
+- [[garcinia-mangostana]]
+
 - [[mangifera-indica]]
-- [[punica-granatum]]
+- punica-granatum
 - [[moringa-oleifera]]
 - [[passiflora-edulis]]

@@ -1,5 +1,5 @@
 ---
-title: Ectomycorrhizal Fungal Transformation of PAHs and TNT
+title: Ectomycorrhizal singh-fungal-transformation-metals-metalloids of PAHs and TNT
 created: 2026-04-26
 tags: [ectomycorrhizal, pah, tnt, explosives, mycorrhizal-remediation]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: concept
 # Ectomycorrhizal Fungal Transformation of PAHs and TNT
 
 Ectomycorrhizal (ECM) fungi demonstrate significant potential for the
-biotransformation of polycyclic aromatic hydrocarbons (PAHs) and
+biotransformation of [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) and
 explosive compounds such as trinitrotoluene (TNT). Their symbiotic
 association with plant roots provides unique advantages for the
 remediation of contaminated soils, including enhanced survival at
@@ -33,7 +33,7 @@ soil containing 8 g/kg total PAHs from a coal production plant.
 
 The ability to degrade PAHs (phenanthrene, chrysene, pyrene, and
 benzo[a]pyrene) has been tested in 16 species (27 strains) of
-ectomycorrhizal fungi (Braun-Lullemann et al., 1999). Amanita muscaria,
+[[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] (Braun-Lullemann et al., 1999). [[allegro-amanita-muscaria-properties-and-pharmacology]],
 Paxillus involutus, and Suillus grevillei utilized about 50% of
 phenanthrene. Strains of Amanita excelsa, Leccinum versipelle, S.
 grevillei, S. luteus, and S. variegatus removed about the same amount
@@ -46,7 +46,7 @@ No correlation exists between the number of aromatic rings and the rate
 of PAH metabolism, or between nitrogen depletion and degradation rate.
 The rate of benzo[a]pyrene metabolism is slow but very efficient,
 correlating with results obtained by white-rot fungi (Schutzendubel et
-al., 1999). Conversion rates of five PAHs in liquid culture by 58 fungi,
+al., 1999). Conversion rates of five PAHs in [[comparison-liquid-culture-vs-grain-spawn]] by 58 fungi,
 including ECM fungi, have been noted (Gramss et al., 1999). Only one
 of 21 species does not degrade at least one PAH, and over half tend to
 degrade all five PAHs. Active oxygen appears important for the oxidation
@@ -67,7 +67,7 @@ TNT transformation capacity is significantly higher in intact mycelium
 (600%) than in cultural filtrate containing extracellular enzymes. This
 suggests the possibility of multiple pathways in TNT transformation by
 intact mycelium, involving both intracellular and extracellular
-mechanisms. The dose-response curve for S. variegatus biomass production
+mechanisms. The dose-response curve for S. variegatus [[dighton-fungal-biomass-production-aquatic-ecosystems]]
 depicts fungal sensitivity to TNT. The TNT concentration reducing S.
 variegatus biomass by 50% (EC50) is between 2 and 10 ug/ml, which is
 within the range (12 mg/g soil dry weight) reported for Phanerochaete
@@ -106,6 +106,9 @@ T. fibrillosa, showing involvement of monoxygenation pathways.
 
 ## See Also
 
-- [[mycoremediation-of-explosives]]
+- mycoremediation-of-explosives
 - [[singh-arbuscular-mycorrhizal-fungi-soil-remediation]]
-- [[singh-fungal-degradation-pcbs-dioxins]]
+- singh-fungal-degradation-pcbs-dioxins
+- [[ectomycorrhiza]]
+- [[suillus-grevillei]]
+- [[suillus-granulatus]]

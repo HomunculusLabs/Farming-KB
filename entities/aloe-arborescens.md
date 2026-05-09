@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Reynolds, T. (2004). "Aloes: The Genus Aloe." CRC Press.
-  - Grace, O.M. et al. (2009). "Organoleptic and phytochemical properties of Aloe arborescens leaf gel." South African Journal of Botany 75(1): 44-51.
+  - Grace, O.M. et al. (2009). "Organoleptic and phytochemical properties of Aloe arborescens leaf gel." [[kanna-sceletium-south-african-narcotic]] Journal of Botany 75(1): 44-51.
   - Surjushe, A. et al. (2008). "Aloe vera: A short review." Indian Journal of Dermatology 53(4): 163-166.
   - Nebel, S. et al. (2017). "Metabolite profiling of Aloe arborescens using UHPLC-QTOF-MS." Journal of Pharmaceutical and Biomedical Analysis 138: 58-66.
 ---
@@ -46,7 +46,7 @@ In cultivation, plants typically remain smaller, reaching 0.5–1.5 meters.
 
 Leaves are succulent, lanceolate, 40–60 cm long and 5–8 cm wide at the base.
 
-The leaf surface is dull green to blue-green with a slight glaucous bloom.
+The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dull green to blue-green with a slight glaucous bloom.
 
 Marginal teeth are prominent, triangular, and coral-colored, spaced 10–15 mm apart.
 
@@ -60,7 +60,7 @@ Inflorescences are terminal, racemose panicles rising 40–80 cm above the folia
 
 Tubular flowers are 30–35 mm long, bright red-orange to scarlet, rarely yellow.
 
-Flowering occurs primarily in winter (June–August in the Southern Hemisphere, December–February in the Northern).
+Flowering occurs primarily in winter (June–August in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], December–February in the Northern).
 
 Flowers are pollinated by sunbirds and various nectar-feeding insects.
 
@@ -118,7 +118,7 @@ The species is moderately frost-tolerant, surviving brief freezes to approximate
 
 Pests include aloe mites (*Aceria aloinis*), scale insects, and mealybugs.
 
-In ornamental landscaping, it is valued for drought tolerance, dramatic form, and winter flower display.
+In ornamental landscaping, it is valued for [[dighton-fungal-drought-tolerance-plant-water-relations]], dramatic form, and winter flower display.
 
 It is listed as an accepted species by the IUCN with no current conservation concern.
 

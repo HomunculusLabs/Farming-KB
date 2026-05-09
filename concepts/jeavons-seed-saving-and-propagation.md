@@ -1,5 +1,5 @@
 ---
-title: Seed Saving and Seed Propagation
+title: comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques and jeavons-seed-propagation-techniques
 created: 2026-04-26
 author: John Jeavons
 sources: How to Grow More Vegetables, 8th edition
@@ -11,7 +11,7 @@ updated: 2026-04-26
 
 # Seed Saving and Seed Propagation
 
-The goal of seed propagation in the GROW BIOINTENSIVE method is enhanced and uninterrupted plant growth.
+The goal of seed propagation in the [[jeavons-grow-biointensive-method-overview]] method is enhanced and uninterrupted plant growth.
 
 ## Open-Pollinated Seeds
 
@@ -32,7 +32,7 @@ Seeds should be planted as deep as the thin vertical dimension of each side. Lim
 
 ### Spacing
 
-Seeds in beds or flats should be planted in a **diagonally offset (hexagonal) spacing pattern** with equal distance between each seed. When mature, plant leaves should barely touch, forming a living mulch that retards weed growth, aids soil moisture retention, and creates the essential miniclimate.
+Seeds in beds or flats should be planted in a **diagonally offset (hexagonal) spacing pattern** with equal distance between each seed. When mature, plant leaves should barely touch, forming a [[comparison-living-mulch-vs-cover-crops]] that retards weed growth, aids soil moisture retention, and creates the essential miniclimate.
 
 ### Tools for Spacing
 
@@ -60,7 +60,7 @@ Compost for flat soil should be passed through a sieve of 1/2-inch or 1/4-inch w
 
 Depending on weather:
 - Greenhouse or miniature greenhouse in cold weather
-- Cold frame for 2 days before transplanting in cold weather (hardening off)
+- [[comparison-cold-frame-gardening-vs-container-gardening-guide]] for 2 days before transplanting in cold weather (hardening off)
 - Open for 2 more days to complete hardening off
 - Open during warm/hot weather
 - Shade to slow growth in hot weather
@@ -103,7 +103,7 @@ Seedlings are ready to prick out after cotyledons appear and before roots are to
 - Spread out root-bound roots in all directions.
 - Water after transplanting to settle soil, eliminate air spaces, and provide moisture.
 - Optimal time: early evening for moderate weather conditions.
-- In hot weather, shade newly transplanted seedlings with 30% shade netting for several days.
+- In hot weather, shade newly transplanted seedlings with 30% [[jeavons-shade-netting-mini-greenhouses]] for several days.
 
 ### Spotting
 

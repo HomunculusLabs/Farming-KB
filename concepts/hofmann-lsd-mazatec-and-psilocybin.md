@@ -21,7 +21,7 @@ Cosas de Nueva Espana (1529-1590). In Nahuatl, the language of the Aztecs,
 these mushrooms were called teonanacatl, meaning "sacred mushroom."
 The Christian missionaries regarded the inebriating, vision-producing effects
 as Devil's work and tried to extirpate their use. They succeeded only partially,
-as the Indians continued secretly to utilize the sacred mushrooms down to
+as the Indians continued secretly to utilize the [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]] down to
 modern times. So-called mushroom stones found in El Salvador, Guatemala, and
 Mexico, stone sculptures in the form of pileate mushrooms dating to before 500
 B.C., suggest the mushroom cult is more than two thousand years old.
@@ -30,7 +30,7 @@ B.C., suggest the mushroom cult is more than two thousand years old.
 
 In 1915, the American botanist Dr. W. E. Safford advanced the thesis that no
 such thing as magic mushrooms had ever existed, claiming the Spanish
-chroniclers had confused the mescaline cactus with a mushroom. This
+chroniclers had confused the [[peyote-mescaline-cactus-pharmacology]] with a mushroom. This
 controversial claim directed scientific attention to the riddle.
 The Mexican physician Dr. Blas Pablo Reko first openly disagreed with Safford
 and found evidence that mushrooms were still employed in remote districts of
@@ -60,7 +60,7 @@ candlelight, while others lie quietly on straw mats, the curandero, kneeling or
 sitting, prays and sings before an altar bearing a crucifix or image of a saint.
 Under the influence of the sacred mushrooms, the curandero counsels in a
 visionary state, in which even the inactive observers more or less participate.
-In the monotonous song of the curandero, the mushroom teonanacatl gives its
+In the monotonous song of the curandero, the [[mckenna-mushroom-teonanacatl-franciscan-theophagy-and-oaxaca-survival]] gives its
 answers to the questions posed -- whether the diseased person will live or die,
 which herbs will effect the cure, who has committed a specific crime, or how a
 distant relative fares.
@@ -96,8 +96,8 @@ Wassons on further expeditions into the Mazatec country, Heim conducted the
 botanical identification. He showed that they were gilled mushrooms from the
 family Strophariaceae, about a dozen different species not previously described
 scientifically, the greatest part belonging to the genus Psilocybe. Heim also
-succeeded in cultivating some species in the laboratory. Psilocybe mexicana
-proved especially suitable for artificial cultivation.
+succeeded in cultivating some species in the laboratory. [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]
+proved especially suitable for [[fukuoka-matsutake-artificial-cultivation-attempt]].
 
 ## Chemical Investigation at Sandoz
 
@@ -114,7 +114,7 @@ investigation himself.
 About 100 g of dried Psilocybe mexicana mushrooms, cultivated by Heim, were
 available. Hofmann's laboratory assistant Hans Tscherter aided in the
 extraction and isolation attempts. No extract showed an unequivocal effect in
-the mouse or dog, raising doubt whether the cultivated mushrooms were still
+the mouse or dog, raising doubt whether the [[fungi-cultivated-mushrooms-pathogens-competitors]] were still
 active. As with LSD, Hofmann made the fundamental human experiment himself.
 
 ## Hofmann's Mushroom Self-Experiment
@@ -135,4 +135,9 @@ degree that Hofmann feared he would be torn into the whirlpool of form and
 color. After about six hours the dream came to an end. He felt his return to
 
 - [[psilocybin-mushroom-species-identification]]
-- [[gordon-wasson-mushroom-discovery]]
+- gordon-wasson-mushroom-discovery
+
+## See Also
+
+- [[hofmann-ernst-junger-lsd-literary-dialogue]]
+- [[hofmann-lsd-animal-experiments-toxicity]]

@@ -1,5 +1,5 @@
 ---
-title: Mahayana Hinayana and Scientific — Three Ways of Farming
+title: fukuoka-textdoc-mahayana-hinayana-natural-farming-pursuit-of-nature and Scientific — Three Ways of Farming
 created: 2026-04-28
 tags:
   - fukuoka
@@ -20,7 +20,7 @@ type: concept
 
 ## Overview
 
-Fukuoka classifies all approaches to agriculture into three fundamental types, borrowing terminology from Buddhist philosophy. This framework provides the philosophical foundation for understanding why natural farming is inherently superior to scientific agriculture, and clarifies the distinctions between different degrees of naturalness in farming practice.
+Fukuoka classifies all approaches to agriculture into three fundamental types, borrowing terminology from Buddhist philosophy. This framework provides the philosophical foundation for understanding why [[comparison-natural-farming-vs-permaculture]] is inherently superior to [[fukuoka-critique-scientific-agriculture-civilization]], and clarifies the distinctions between different degrees of naturalness in farming practice.
 
 ## The Three Ways Defined
 
@@ -36,7 +36,7 @@ Mahayana farming transcends time and space and reaches the zenith of understandi
 
 Hinayana natural farming belongs to the relative world, alongside scientific farming. It arises when man earnestly seeks entry to the realm of Mahayana farming — desirous of the true blessings and bounty of nature, he prepares himself to receive it. This is the road leading directly to complete enlightenment, but falls short of that perfect state.
 
-The relationship here is like a lover who yearns after his loved one and asks for her hand, but has not realized full union. Hinayana farming includes organic farming and other approaches that attempt to cast off human knowledge and action while still operating within the framework of discriminating knowledge.
+The relationship here is like a lover who yearns after his loved one and asks for her hand, but has not realized full union. Hinayana farming includes [[coleman-deep-organic-farming-philosophy]] and other approaches that attempt to cast off human knowledge and action while still operating within the framework of [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]].
 
 ### Scientific Farming (Dialectical Materialism)
 
@@ -94,5 +94,8 @@ The amount of technology needed to create a single persimmon seed artificially i
 ## Related
 
 - [[fukuoka-textdoc-entanglement-natural-scientific-farming|The Entanglement of Natural and Scientific Farming]]
-- [[fukuoka-five-principles-natural-farming|Five Principles of Natural Farming]]
+- Five [[four-principles-of-natural-farming]] Farming
 - [[fukuoka-textdoc-errors-of-human-intellect|The Errors of the Human Intellect]]
+- [[mahayana-natural-farming]]
+- [[fukuoka-textdoc-mahayana-hinayana-natural-farming-pursuit-of-nature]]
+- [[fukuoka-textdoc-entanglement-natural-scientific-farming]]

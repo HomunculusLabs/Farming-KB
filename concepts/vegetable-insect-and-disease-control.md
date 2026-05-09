@@ -1,5 +1,5 @@
 ---
-title: Vegetable Insect and Disease Control
+title: Vegetable vegetable insect and disease control Control
 created: 2026-04-28
 date: 2026-04-28
 updated: 2026-04-28
@@ -23,7 +23,7 @@ Extension office for help with diagnosis.
 ## Pesticide Application
 
 Commercially available garden sprays or dusts applied throughout the
-growing season will control many vegetable insects and diseases. Spray
+growing season will control many vegetable [[solomon-insects-and-diseases-integrated-approach]]. Spray
 or dust regularly as directed on the label. Be sure to cover the
 underside of the leaves as well as the tops. Controls may need to be
 reapplied after rain.
@@ -37,7 +37,7 @@ form the foundation of a sustainable pest management program.
 ## Strategy 1: Disease-Resistant Cultivars
 
 Plant only disease-resistant cultivars whenever possible. Many
-vegetable varieties have been bred for resistance to common diseases.
+[[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] have been bred for resistance to common diseases.
 Resistance is the most effective and economical form of disease
 control. Examples include tomato varieties resistant to Fusarium wilt,
 Verticillium wilt, and nematodes; cabbage resistant to yellows and
@@ -63,7 +63,7 @@ summer vegetables. Rotate these areas each year.
 
 ## Strategy 3: Garden Sanitation
 
-Practice good garden sanitation to reduce pest and disease pressure.
+Practice good garden sanitation to reduce [[organic-pest-and-disease-management]] pressure.
 Remove plant debris from the garden at the end of the season. Keep
 edges and fence rows free of trash and weeds. Destroy diseased plants
 rather than composting them. Clean up fallen fruit and rotting
@@ -129,12 +129,12 @@ Clean, repair, and sharpen garden tools, and store them in a dry
 place. Wipe metal blades with an oily rag to prevent rust. Store
 leftover pesticides protected from extreme temperatures and moisture,
 out of reach of children and pets. Remove all crop residue to reduce
-overwintering sites for pests and diseases.
+overwintering sites for [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
 
 ## See Also
 
 - [[vegetable-watering-and-thinning]] — Watering and plant spacing
-- [[vegetable-garden-guide]] — Comprehensive vegetable gardening
+- [[vegetable-garden-guide]] — Comprehensive [[home-vegetable-garden-planning]]
   reference
 
 ## See Also

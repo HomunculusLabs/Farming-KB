@@ -1,5 +1,5 @@
 ---
-title: Summer Fallow Green Manure Crops in Winter Harvest Greenhouses
+title: Summer Fallow Green Manure Crops in coleman-claytonia-winter-harvest-cultivation Greenhouses
 source: eliot-coleman-winter-harvest-handbook.md
 author: Eliot Coleman
 tags: [coleman, green-manure, summer-fallow, winter-harvest, soil-fertility, mobile-greenhouse, leguminous-cover-crops, soil-building]
@@ -9,13 +9,13 @@ tags: [coleman, green-manure, summer-fallow, winter-harvest, soil-fertility, mob
 
 ## Overview
 
-During the years of the backwards farm experiment at Four Season Farm, Eliot Coleman developed
+During the years of the [[coleman-backwards-farm-experiment-winter-only]] experiment at Four Season Farm, Eliot Coleman developed
 a systematic approach to summer soil management using long-term green manure crops. When the
 winter harvest ended in late May and the greenhouses were emptied, the exposed soil was
 planted with deep-rooting leguminous cover crops that occupied the ground for up to thirteen
 months before the next winter crop cycle began. This practice became a cornerstone of the
 farm's soil fertility program during its early years and demonstrated the critical role that
-planned fallow periods play in sustainable intensive vegetable production.
+planned fallow periods play in sustainable intensive [[dry-gardening-unirrigated-vegetable-production-solomon]].
 
 ## The Soil Fertility Challenge
 
@@ -48,7 +48,7 @@ The green manure crops used during the summer fallow were chosen for several spe
 characteristics.
 
 They were leguminous, meaning they could fix atmospheric nitrogen through symbiotic
-bacteria in their root nodules. This biological nitrogen fixation provided a natural source
+bacteria in their root nodules. This [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation provided a natural source
 of the nutrient that vegetable crops need in the greatest quantity.
 
 They were deep-rooting, which meant their roots penetrated deeply into the soil profile,
@@ -56,7 +56,7 @@ breaking up compaction, improving drainage, and drawing up minerals from subsoil
 shallow-rooted vegetable crops cannot reach.
 
 They produced substantial above-ground biomass that, when turned under, added significant
-organic matter to the soil. This organic matter improved soil structure, water-holding
+[[hamilton-composting-and-organic-matter-management]] to the soil. This organic matter improved soil structure, water-holding
 capacity, and microbial activity.
 
 ## Duration of the Green Manure Phase
@@ -73,7 +73,7 @@ If the farmer wanted to grow some summer crops before the greenhouse returned fo
 the green manure period was shorter — about ten months, from September through July. Even
 this reduced period provided significant soil benefits.
 
-All green manures were turned under three to four weeks before the planting date of the
+All [[jeavons-green-manures-cover-crops]] were turned under three to four weeks before the planting date of the
 winter crops that followed them, allowing time for decomposition and nutrient release.
 
 ## Benefits Beyond Nitrogen
@@ -137,6 +137,9 @@ the farm's management even under the more intensive year-round schedule.
 
 ## See Also
 
-- [[coleman-mobile-greenhouse-crop-rotation-patterns]]
+- coleman-mobile-greenhouse-crop-rotation-patterns
 - [[coleman-compost-and-organic-fertility-management]]
 - [[coleman-cover-crop-rotation-and-soil-health]]
+- [[green-manure-crops]]
+- [[decomposition]]
+- [[building-soil]]

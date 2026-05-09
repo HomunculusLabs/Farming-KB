@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources: []
 ---
 
 # Psilocybe viridescens
@@ -22,13 +22,13 @@ sources:
 
 ## Seasonality
 
-*P. viridescens* fruits in the autumn months of the Pacific Northwest, typically from October through December. It is associated with the same seasonal weather patterns that trigger fruiting in [[psilocybe-cyanescens]] — cool temperatures, sustained rainfall, and shortening day length. The species may persist into January during mild, wet winters along the Oregon and Washington coasts. Its preference for wood chip mulch and landscaped areas means it is sometimes found in suburban and urban settings, not only in natural forest habitats.
+*P. viridescens* fruits in the autumn months of the Pacific Northwest, typically from October through December. It is associated with the same seasonal weather patterns that trigger fruiting in [[psilocybe-cyanescens]] — cool temperatures, sustained rainfall, and shortening [[coleman-winter-day-length-and-persephone-months]]. The species may persist into January during mild, wet winters along the Oregon and Washington coasts. Its preference for [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] mulch and landscaped areas means it is sometimes found in suburban and urban settings, not only in natural forest habitats.
 
 ## See Also
 
 - [[psilocybe-cyanescens]]
 - [[psilocybe-pelliculosa-entity]]
-- [[psilocybin-mushrooms-of-the-world-genus-overview]]
+- psilocybin-mushrooms-of-the-world-genus-overview
 ## Practical Applications
 
 Psilocybe viridescens has a range of practical applications that make it relevant to
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

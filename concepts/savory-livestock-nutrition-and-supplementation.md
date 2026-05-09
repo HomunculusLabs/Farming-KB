@@ -1,5 +1,5 @@
 ---
-title: Livestock Nutrition and Supplementation
+title: savory livestock nutrition and supplementation and Supplementation
 created: 2026-04-28
 tags: [livestock, nutrition, grazing-planning, animal-performance]
 date: 2026-04-25
@@ -19,12 +19,12 @@ a formidable knot of complexity. The controlling principles involve timing and
 [[savory-overgrazing-vs-overrest]] of even the
 most severely bitten plant, and recovery time is adequate even in poor years.
 
-Animals move so frequently that they enjoy good nutrition throughout the growing season,
+Animals move so frequently that they enjoy good nutrition throughout the [[savory-growing-season-and-non-growing-season-management]],
 and by constantly moving to fresh ground suffer little parasitism or disease. At the
-one-hundred-paddock level, the stock density is high and [[savory-plant-succession-and-community-dynamics]], water and mineral cycles, and
+one-hundred-paddock level, the [[savory-fencing-economics-and-stock-density-curve]] is high and [[savory-plant-succession-and-community-dynamics]], water and mineral cycles, and
 [[savory-livestock-grazing-planning]]. If stock simply rotate
 through paddocks on an arbitrary schedule, it can devastate wildlife. In addition, such
-rotational grazing commonly results in very high supplemental feed costs because domestic
+[[comparison-rotational-grazing-vs-continuous-grazing]] commonly results in very high supplemental feed costs because domestic
 animals will suffer from the same decreasing plane of nutrition inflicted on the wild ones.
 
 ## Free Choice Supplementation
@@ -41,14 +41,14 @@ to better nutrition and less parasitism, disease, and need for supplementation.
 
 By manipulating recovery periods and the related grazing periods, we can control the
 number of times animals select from a paddock during dormancy. In America, government
-advisors commonly recommend putting stock on a short duration grazing system in an
+advisors commonly recommend putting stock on a [[savory-short-duration-grazing-and-cell-systems]] grazing system in an
 eight-paddock cell. When the rotation makes four cycles during the dormant season, the
 first cycle provides relatively good feed, but its value drops drastically in each
 successive cycle. When the gap between supplies and needs becomes excessive, a well-
 capitalized rancher can buy supplements to make up the difference. Wild animals often
 just starve.
 
-With only eight paddocks, better results come from lengthening recovery and grazing
+With only eight paddocks, better results come from lengthening [[savory-recovery-and-grazing-periods]]
 periods to reduce the number of selections. Two selections with a recovery period of
 fifty days still drops nutrition enough to require supplementation for top livestock
 performance, but wildlife would have a better chance. The same amount of forage has
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

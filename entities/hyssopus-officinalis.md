@@ -69,7 +69,7 @@ The European chemotype (isopinocamphone-dominant) is the most widely studied and
 
 Hyssop preparations have documented expectorant, antispasmodic, and antimicrobial activities. The expectorant effect is attributed primarily to 1,8-cineole and the pinocamphone isomers, which stimulate bronchial secretions and facilitate mucus clearance.
 
-In vitro studies have shown hyssop essential oil to be active against *Staphylococcus aureus*, *Escherichia coli*, and *Candida albicans*. The pinocamphone constituents are also associated with anticonvulsant activity in animal models, though the therapeutic relevance in humans remains unestablished.
+In vitro studies have shown hyssop essential oil to be active against *Staphylococcus aureus*, *Escherichia coli*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*. The pinocamphone constituents are also associated with anticonvulsant activity in animal models, though the therapeutic relevance in humans remains unestablished.
 
 ### Safety Considerations
 
@@ -97,13 +97,13 @@ In traditional European herbalism, hyssop tea was used for respiratory complaint
 
 Hyssop is an excellent plant for permaculture food forests and pollinator gardens. Its long flowering period (6–8 weeks) provides sustained nectar and pollen resources for bees and butterflies during the mid-summer gap between spring and autumn blooms.
 
-The species functions as a dynamic accumulator, drawing minerals from deep soil layers. Its aromatic foliage may serve as a mild pest deterrent when interplanted with susceptible crops. In companion planting traditions, hyssop is said to benefit cabbage family crops when planted nearby.
+The species functions as a [[nutrient-dynamic-accumulator-reference]], drawing minerals from deep soil layers. Its aromatic foliage may serve as a mild pest deterrent when interplanted with susceptible crops. In [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] traditions, hyssop is said to benefit cabbage family crops when planted nearby.
 
 Hyssop makes an effective ground cover on dry banks and slopes. Its fibrous root system provides light soil stabilization in erosion-prone areas. The plant's tolerance of poor, rocky soils makes it useful for colonizing marginal garden areas.
 
-The dried flower stems can be used in floral arrangements and as natural crafting material. In traditional European agriculture, hyssop was sometimes bundled with other herbs and burned as a fumigant in animal housing, a practice that may have had some antimicrobial benefit.
+The dried flower stems can be used in floral arrangements and as natural crafting material. In traditional [[fukuoka-european-agriculture-observations]], hyssop was sometimes bundled with other herbs and burned as a fumigant in animal housing, a practice that may have had some antimicrobial benefit.
 
-Hyssop's compact size makes it suitable for edges, borders, and pathways in permaculture designs. It can serve as a low hedge or edging plant. The woody stems provide overwintering habitat for beneficial insects. Its drought tolerance makes it a reliable performer in xeriscaping and water-wise garden designs.
+Hyssop's compact size makes it suitable for edges, borders, and pathways in permaculture designs. It can serve as a low hedge or edging plant. The woody stems provide overwintering [[query-how-do-i-design-habitat-for-beneficial-insects]] insects. Its [[dighton-fungal-drought-tolerance-plant-water-relations]] makes it a reliable performer in xeriscaping and water-wise garden designs.
 
 ## See Also
 

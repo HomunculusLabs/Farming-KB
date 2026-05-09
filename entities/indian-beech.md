@@ -1,5 +1,5 @@
 ---
-title: "Indian Beech"
+title: "permaculture-neem-and-indian-beech-utility-trees"
 created: 2026-04-28
 tags: [species, plant, tree, nitrogen-fixer, multipurpose]
 date: 2026-04-25
@@ -11,17 +11,17 @@ type: entity
 # Indian Beech
 
 **Type:** Species (Plant)
-**Category:** Leguminous multipurpose tree
-**Also known as:** [[permaculture]]
+**Category:** Leguminous [[mollison-designers-chestnut-as-multipurpose-tree-crop]]
+**Also known as:** permaculture
 systems, particularly in coastal and saline environments where few productive
-trees can grow. Its combination of nitrogen fixation, livestock fodder,
-industrial oil production, natural pest control, and extreme environmental
+trees can grow. Its combination of [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], livestock fodder,
+industrial oil production, [[cho-natural-pest-control-methods]] control, and extreme environmental
 tolerance make it a cornerstone species for sustainable tropical agriculture
-and agroforestry.
+and [[agroforestry]].
 
 ## See Also
 - [[acacia]]
-- [[tagasaste]]
+- tagasaste
 - Coastal Agroforestry
 - Botanical Insecticides
 ## Practical Applications
@@ -101,4 +101,4 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+- [[permaculture-neem-and-indian-beech-utility-trees]]

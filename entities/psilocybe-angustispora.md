@@ -16,11 +16,11 @@ type: entity
 
 ## Overview
 Psilocybe angustispora is a petite, uncommon dung-inhabiting mushroom
-originally described from western North America. Named for its narrow
+originally described from western [[psilocybin-north-america-pacific-northwest]]. Named for its narrow
 spores (angustispora = "narrow spore"), it is a classically shaped
 mycenoid Psilocybe. Though activity is suspected based on its
 morphology and phylogenetic placement, no specimens have yet been
-submitted for chemical analysis. Its small size makes it easily
+submitted for [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]. Its small size makes it easily
 overlooked in the field.
 
 ## Key Details
@@ -54,7 +54,7 @@ Idaho, and Colorado. Its presence across both coastal (Pacific NW)
 and interior (Idaho, Colorado) mountain ranges suggests adaptability
 to different moisture regimes and forest types. The species fruits
 during both spring and fall, indicating a bimodal fruiting pattern
-possibly tied to seasonal livestock grazing cycles in alpine and
+possibly tied to seasonal [[savory-livestock-grazing-planning]] cycles in alpine and
 subalpine meadows. Its occurrence on dung of diverse animals
 (sheep, cows, horses, elk, marmots) demonstrates broad substrate
 tolerance among herbivore manures, a trait shared with many
@@ -64,8 +64,8 @@ coprophilous Panaeolus and Psilocybe species.
 Psilocybe angustispora represents a gap in the chemical
 characterization of Psilocybe species. Its mycenoid form (small
 size, conic cap, narrow stem) places it among the less conspicuous
-psilocybin mushrooms, easily overlooked in the field. Its presence
-on diverse animal dung across western North American mountain and
+[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], easily overlooked in the field. Its presence
+on diverse animal dung across western [[growing-gourmet-north-american-reishi-species]] mountain and
 coastal regions suggests wide ecological tolerance. The lack of
 chemical analysis highlights the need for systematic study of
 Psilocybe diversity, as many similar small species may harbor
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

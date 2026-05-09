@@ -30,7 +30,7 @@ Perennials eliminate seed-starting, tilling, and the opportunity for weeds that 
 
 ### 3. Cover Crops to Smother Weeds
 
-Cover crops are planted specifically to smother weeds. Their dense planting crowds and shades out weeds, and their leaves shield soil from hammering rains. Short-term green manures are meant to be slashed in place after a season, maintaining the weed-suppressive mulch layer.
+[[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil]] planted specifically to smother weeds. Their dense planting crowds and shades out weeds, and their leaves shield soil from hammering rains. Short-term green manures are meant to be slashed in place after a season, maintaining the weed-suppressive mulch layer.
 
 ### 4. Sheet Mulching
 
@@ -38,20 +38,20 @@ For converting weedy areas, sheet mulching involves layering cardboard or newspa
 
 ### 5. Living Mulches
 
-Masanobu Fukuoka's approach: use perennial white clover as a permanent living mulch. To plant crops, open small areas in the clover and place seeds or transplants in the resulting gaps. The greenery suppresses weeds, the shade holds moisture, the blossoms attract beneficial insects, and nitrogen fixed by the clover boosts crop growth.
+Masanobu Fukuoka's approach: use perennial white clover as a permanent living mulch. To plant crops, open small areas in the clover and place seeds or transplants in the resulting gaps. The greenery suppresses weeds, the shade holds moisture, the blossoms attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], and nitrogen fixed by the clover boosts crop growth.
 
 ### 6. Plant Communities and Stacking
 
-Rather than isolated individuals, plants in an ecological garden form communities. Diverse, multi-layered plantings fill every niche, leaving no room for weeds. A dense web of many niches for wildlife also creates a rich place for humans: food, flowers, medicinal herbs, and beauty.
+Rather than isolated individuals, plants in an ecological garden form communities. Diverse, multi-layered plantings fill every niche, leaving no room for weeds. A dense web of many niches for wildlife also creates a rich place for humans: food, flowers, [[permaculture-plants-medicinal-herbs-healing]], and beauty.
 
 ### 7. Work With Succession
 
-Understanding ecological succession means allying with nature's considerable might. Rather than battling pioneer weeds, design plantings that advance succession toward more mature ecosystems. Diverse habitat shrinks pest problems -- a garden planted all to one crop is a magnet for pests, but providing habitat for natural predators lets nature do the bug control.
+Understanding [[holmgren-ecological-succession-and-pulsing]] means allying with nature's considerable might. Rather than battling pioneer weeds, design plantings that advance succession toward more mature ecosystems. Diverse habitat shrinks pest problems -- a garden planted all to one crop is a magnet for pests, but providing habitat for natural predators lets nature do the bug control.
 
 ## Related
 
 - [[sheet-mulching]] -- detailed sheet mulching technique
-- [[cover-crop-selection-guide]] -- choosing cover crops for weed suppression
+- [[cover-crop-selection-guide]] -- choosing [[query-best-cover-crops-for-sandy-soil]] weed suppression
 - [[chop-and-drop-mulching]] -- in-place mulching from slashed plants
 - [[white-clover-ground-cover]] -- Fukuoka's living mulch approach
 ## Practical Considerations
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

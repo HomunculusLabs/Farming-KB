@@ -45,12 +45,12 @@ Three-carbon chain compounds (amphetamines) are generally more potent and longer
 
 ### Entactogens (MDA/MDMA Family)
 
-- [[mdma]] — N-methyl-MDA, the prototypical entactogen
+- mdma — N-methyl-MDA, the prototypical entactogen
 - [[mbdb-entity]] — N-methyl-1,3-benzodioxolylbutanamine, a non-neurotoxic analogue
 
 ### Essential Amphetamines
 
-Compounds structurally related to natural essential oils, differing only by elements of ammonia:
+Compounds structurally related to natural [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]], differing only by elements of ammonia:
 
 - [[tma-entity]] — from elemicin
 - [[tma-2-compound-profile]])
@@ -77,7 +77,7 @@ Compounds structurally related to natural essential oils, differing only by elem
 - Serotonin syndrome risk with MAOIs or other serotonergic drugs
 - [[kavalactone-pharmacology-neurochemistry]]
 
-- [[mdma]] — the most widely studied entactogen
+- mdma — the most widely studied entactogen
 - [[verticillium-malthousei-entity-the-mushroom-cultivator]]
 
 ## Related

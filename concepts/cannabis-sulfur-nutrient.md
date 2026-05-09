@@ -20,7 +20,7 @@ Excess calcium in the growing medium can interfere with sulfur uptake. Conversel
 
 [[cannabis-calcium-nutrient]] in an "A" container and a "B" container. If combined in a concentrated form, sulfur and calcium will form crude, insoluble gypsum (calcium sulfate) and settle as residue to the bottom of the tank. Always dilute nutrient concentrates before combining the A and B solutions.
 
-Sulfur is also used as a fungicide. Sulfur and lime-sulfur sprays are a good prophylactic against powdery mildew. However, avoid applying sulfur-based sprays when temperatures exceed 85F (29C) to avoid plant damage.
+Sulfur is also used as a fungicide. Sulfur and lime-sulfur sprays are a good prophylactic against [[cervantes-powdery-mildew-prevention-treatment]]. However, avoid applying sulfur-based sprays when temperatures exceed 85F (29C) to avoid plant damage.
 
 ## Nutrient Requirements
 
@@ -31,7 +31,7 @@ Sulfur is also used as a fungicide. Sulfur and lime-sulfur sprays are a good pro
 
 ## Common Mistakes
 
-- Confusing sulfur deficiency with nitrogen deficiency (they look very similar)
+- Confusing [[query-how-to-fix-sulfur-deficiency-in-cannabis]] with nitrogen deficiency (they look very similar)
 - Adding elemental sulfur without understanding the slow bacterial conversion process
 - Combining concentrated calcium and sulfur solutions in hydroponics (forms gypsum)
 - Applying sulfur-based fungicides in hot conditions (above 85F/29C)
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Market Garden Intensive Production Design
+title: mollison designers market garden intensive production design Intensive Production Design
 created: 2026-04-28
 tags:
   - permaculture
@@ -16,7 +16,7 @@ type: concept
 
 # Market Garden Intensive Production Design
 
-Market gardening is small-scale, intensive vegetable production for direct sale.
+Market gardening is small-scale, intensive [[dry-gardening-unirrigated-vegetable-production-solomon]] for direct sale.
 Mollison views the market garden as the productive heart of many permaculture
 smallholdings, generating income while cycling nutrients and building soil.
 The design emphasises high yields per unit area, efficient labour use, season
@@ -45,14 +45,14 @@ Celsius and protect against insect pests.
 
 **Cold frames:** Bottomless boxes with transparent lids, positioned against
 a south-facing wall or in full sun. Cold frames are used for hardening off
-seedlings, growing winter salad greens, and starting early spring crops. They
+seedlings, growing winter salad greens, and starting [[coleman-overwintered-onions-and-early-spring-crops]] crops. They
 provide 5 to 10 degrees of [[growing-gourmet-indoor-growing-environment]]. Polytunnels (hoop houses
 covered with polyethylene film) are the most cost-effective option for
 commercial production. They allow year-round production of salad crops,
-early tomatoes and peppers, and winter greens.
+early tomatoes and peppers, and [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
 
 **Mulching:** Organic mulch (straw, leaves, compost) moderates soil
-temperature, conserves moisture, and suppresses weeds. Black plastic mulch
+temperature, conserves moisture, and suppresses weeds. Black [[jadam-plastic-mulch-problems]]
 warms soil in spring for early planting of heat-loving crops.
 
 ## Crop Planning for Continuous Harvest
@@ -65,7 +65,7 @@ planting and harvesting, and soil-building requirements (cover crop phases).
 
 Mollison suggests dedicating 20 to 30 percent of garden area to cover crops
 and soil-building at any given time, rotating this area through the garden
-so every bed receives regular fertility building. This approach is described
+so every bed receives regular [[soil-fertility-building-gradient-solomon]]. This approach is described
 in [[mollison-designers-design-for-children-education-gardens]] for integrating
 community engagement into the market garden setting.
 
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -15,7 +15,7 @@ Geosiphon pyriforme von Wettstein is a coenocytic soil fungus and the only known
 
 ## Habitat and Distribution
 
-The fungus lives together with the cyanobacterium on the surface and in the upper layer of wet soils poor in inorganic nutrients, particularly phosphate. When a fungal hypha comes into contact with free-living Nostoc cells, the latter are incorporated by the fungus at the hyphal tip.
+The fungus lives together with the cyanobacterium on the surface and in the upper layer of wet soils poor in inorganic nutrients, particularly phosphate. When a fungal hypha comes into contact with free-living Nostoc cells, the latter are incorporated by the fungus at the [[gadd-hyphal-tip-growth-and-branching-mechanisms]].
 
 Geosiphon is typically found in damp, shaded environments such as the margins of ponds, marshy meadows, and stream banks. The organism requires consistently moist conditions and cannot tolerate desiccation, which severely limits its geographic range. Most documented collections come from central Europe, particularly Germany, Austria, and Switzerland, with scattered reports from other temperate regions. The rarity of field observations has led some researchers to speculate that Geosiphon may be more widespread than collections suggest but simply overlooked due to its inconspicuous appearance and specific habitat requirements.
 
@@ -23,7 +23,7 @@ Geosiphon is typically found in damp, shaded environments such as the margins of
 
 After incorporation, the hyphal tip swells and forms a unicellular "bladder" about 1-2 mm in size that appears on the soil surface. Inside this bladder, the cyanobacteria remain physiologically active and continue dividing (Schussler and Kluge 2001).
 
-The bladder is essentially a giant, multinucleate fungal cell -- up to 2 mm in diameter -- that houses thousands of Nostoc cells within individual symbiosome compartments. Each Nostoc cell is surrounded by a fungal-derived symbiosome membrane that regulates metabolite exchange between the partners. The bladder's green color comes from the photosynthetic pigments of the enclosed cyanobacteria, making it one of the few truly photosynthetic fungi (though the photosynthesis is performed by its endosymbiont, not by the fungus itself). The bladder can persist for several weeks under favorable conditions before collapsing and releasing Nostoc cells back into the environment.
+The bladder is essentially a giant, multinucleate [[gadd-fungal-cell-structure]] -- up to 2 mm in diameter -- that houses thousands of Nostoc cells within individual symbiosome compartments. Each Nostoc cell is surrounded by a fungal-derived symbiosome membrane that regulates metabolite exchange between the partners. The bladder's green color comes from the photosynthetic pigments of the enclosed cyanobacteria, making it one of the few truly photosynthetic fungi (though the photosynthesis is performed by its endosymbiont, not by the fungus itself). The bladder can persist for several weeks under favorable conditions before collapsing and releasing Nostoc cells back into the environment.
 
 ## Compartmentation
 
@@ -40,9 +40,9 @@ The Geosiphon bladder features distinct compartmentation:
 
 ## Significance as a Model System
 
-It has been suggested that Geosiphon pyriforme could provide an important model system for understanding another major symbiosis, the arbuscular mycorrhiza. The structural parallels between the two systems offer insight into the evolution of plant-fungal endosymbioses.
+It has been suggested that Geosiphon pyriforme could provide an important model system for understanding another major symbiosis, the [[proteomics-early-arbuscular-mycorrhiza-symbiosis]]. The structural parallels between the two systems offer insight into the evolution of plant-fungal endosymbioses.
 
-Both Geosiphon and arbuscular mycorrhizal fungi (AMF) form intracellular interfaces with their photosynthetic partners. In Geosiphon, the fungus houses entire cyanobacterial cells; in AMF, the fungus forms highly branched arbuscules within root cortical cells. Both systems involve a perisymbiotic membrane derived from the host that controls nutrient exchange. These structural convergences suggest that the molecular toolkit for establishing and maintaining endosymbiotic interfaces was already present in the common ancestor of Geosiphon and AMF, and was later co-opted for the plant-fungal mycorrhizal partnership that now dominates terrestrial ecosystems.
+Both Geosiphon and [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF) form intracellular interfaces with their photosynthetic partners. In Geosiphon, the fungus houses entire cyanobacterial cells; in AMF, the fungus forms highly branched arbuscules within root cortical cells. Both systems involve a perisymbiotic membrane derived from the host that controls [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. These structural convergences suggest that the molecular toolkit for establishing and maintaining endosymbiotic interfaces was already present in the common ancestor of Geosiphon and AMF, and was later co-opted for the plant-fungal mycorrhizal partnership that now dominates terrestrial ecosystems.
 
 ## Differences from Lichens
 
@@ -54,7 +54,7 @@ Key distinctions between Geosiphon and lichens include:
 | Vegetative propagation | No mechanism exists | Via soredia and isidia |
 | Water loss tolerance | Cannot survive desiccation | Robust toward dehydration |
 | High temperature | Very sensitive | Many are resistant |
-| Light requirements | Grows only in moderate light | Can tolerate high light irradiance |
+| [[growing-gourmet-light-requirements-mushroom-fruiting]] | Grows only in moderate light | Can tolerate high light irradiance |
 
 The most fundamental distinction lies in the depth of integration. In lichens, the fungal and algal partners remain in close physical contact but each retains its own cell boundaries. In Geosiphon, the cyanobacterial cells are truly internalized -- enclosed within membrane-bound compartments inside the fungal cytoplasm. This makes Geosiphon a genuine endosymbiosis, more analogous to the relationship between a eukaryotic cell and its mitochondria than to a lichen partnership. This distinction is crucial for understanding the evolutionary significance of Geosiphon as a model for the deeper integration seen in [[arbuscular-mycorrhizal-fungi]] are so focused on phosphorus exchange rather than nitrogen: the ancestral Glomeromycota may have had greater nitrogen independence than their modern AMF descendants.
 

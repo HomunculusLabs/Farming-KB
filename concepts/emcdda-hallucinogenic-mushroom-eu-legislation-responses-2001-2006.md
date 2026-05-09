@@ -1,5 +1,5 @@
 ---
-title: "EU Legislative Responses to Hallucinogenic Mushrooms 2001-2006"
+title: "EU eu-legislative-responses-hallucinogenic-mushrooms-2001-2006 to emcdda-hallucinogenic-mushrooms-emerging-trend-europe 2001-2006"
 created: 2026-04-28
 tags: [legislation, psilocybin, emcdda, europe, drug-policy, magic-mushrooms, scheduling]
 date: 2026-04-28
@@ -20,16 +20,16 @@ Germany enacted restrictions on the sale and possession of hallucinogenic mushro
 Estonia tightened controls in parallel with other EU states responding to the cross-border availability of mushrooms through internet commerce and travel.
 
 ### United Kingdom (2005)
-The UK enacted the most commercially disruptive legislation, prohibiting the sale of fresh hallucinogenic mushrooms in July 2005. Prior to this change, an estimated 300 shops and market stalls across the UK sold hallucinogenic mushrooms. The UK Treasury had been collecting sales tax estimated at up to £175,000 (approximately €255,421) per year on a turnover of around £1 million (approximately €1.46 million) per annum. After the ban, the Mixmag survey conducted in 2005 found that 67% of survey respondents reported that mushrooms were less available than previously.
+The UK enacted the most commercially disruptive legislation, prohibiting the sale of fresh hallucinogenic mushrooms in July 2005. Prior to this change, an estimated 300 shops and market stalls across the UK sold hallucinogenic mushrooms. The UK Treasury had been collecting sales tax estimated at up to £175,000 (approximately €255,421) per year on a turnover of around £1 million (approximately €1.46 million) per annum. After the ban, the [[emcdda-mixmag-survey-magic-mushroom-prevalence-trends-2000-2005]] conducted in 2005 found that 67% of survey respondents reported that mushrooms were less available than previously.
 
 ### Ireland (2006)
 Ireland was the sixth country to tighten legislation during this period, following the pattern established by the UK and other nations.
 
 ## Market Adaptation and Substitution
 
-The EMCDDA highlighted a critical observation: legal prohibitions of psilocybin-containing fungi appeared to trigger retailer interest in alternative, legal hallucinogenic mushroom species, particularly [[hallucinogenic-mushroom-telephone-helplines-and-emergency-response]]
+The EMCDDA highlighted a critical observation: legal prohibitions of psilocybin-containing fungi appeared to trigger retailer interest in alternative, legal [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]], particularly [[hallucinogenic-mushroom-telephone-helplines-and-emergency-response]]
 - [[hallucinogenic-mushroom-prevalence-europe]]
-- [[emcdda-hallucinogenic-mushroom-sclerotia-truffle-products]]
+- emcdda-hallucinogenic-mushroom-sclerotia-truffle-products
 - [[emcdda-hallucinogenic-vs-psychedelic-terminology-debate]]
 - [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]
 - [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]] Topics
@@ -54,7 +54,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -96,4 +96,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

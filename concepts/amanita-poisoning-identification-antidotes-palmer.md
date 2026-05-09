@@ -82,9 +82,9 @@ Dr. Ott's frog experiments demonstrated that muscarine stops the heart in diasto
 
 ### Solanaceous Plant Connection
 Palmer recognized that all effective antidotes come from the Solanaceae (nightshade) family:
-- **Atropine** — from *Atropa belladonna* (deadly nightshade)
+- **Atropine** — from *[[belladonna-atropa-belladonna-ethnobotany]]* (deadly nightshade)
 - **Daturine** — from *Datura stramonium* (jimsonweed)
-- **Hyoscyamine** — from *Hyoscyamus niger* (henbane)
+- **Hyoscyamine** — from *[[henbane-hyoscyamus-niger-ethnobotany]]* (henbane)
 - **Stramonium** — from *Datura stramonium*
 
 ### The Farris Family Case (Shenandoah, Pennsylvania, 1885)
@@ -110,7 +110,7 @@ The length of time between eating and symptom onset informs the physician whethe
 
 Palmer's work was foundational in establishing:
 - That Amanita is the primary dangerous mushroom genus
-- That three diagnostic marks reliably identify Amanita species
+- That three diagnostic marks reliably [[query-how-to-identify-amanita-muscaria]] species
 - That folk tests for edibility are worthless
 - That atropine from the Solanaceae is the specific antidote
 - That prompt aggressive atropine treatment saves lives

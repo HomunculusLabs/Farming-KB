@@ -13,7 +13,7 @@ tags: [cannabis]
 Electrical Conductivity (EC) and Total Dissolved Solids (TDS) are measurements used to
 determine the concentration of nutrients (fertilizer salts) in a hydroponic solution or
 soil runoff. These measurements are essential tools for managing nutrient strength and
-preventing overfertilization or underfeeding in cannabis cultivation.
+preventing overfertilization or underfeeding in [[query-how-does-no-till-cannabis-cultivation-work]].
 
 ## The Science
 
@@ -34,7 +34,7 @@ Several scales are used to express nutrient concentration:
   This is the most accurate and consistent scale.
 - **CF (Conductivity Factor):** Used in parts of Australia and New Zealand; related
   to EC by a factor of 10.
-- **PPM (Parts Per Million):** Common in North America; less accurate because
+- **PPM (Parts Per Million):** Common in [[psilocybin-north-america-pacific-northwest]]; less accurate because
   different salts conduct electricity differently. PPM meters actually measure EC and
   convert using an arbitrary standard.
 - **TDS (Total Dissolved Solids):** Expressed in ppm; essentially the same as PPM
@@ -43,7 +43,7 @@ Several scales are used to express nutrient concentration:
 
 Most American growers use ppm to measure overall fertilizer concentration. European,
 Australian, and New Zealand growers use EC. Parts per million is not as accurate or
-consistent as EC to measure nutrient solution strength.
+consistent as EC to measure [[cannabis-nutrient-solution-preparation]] strength.
 
 ## EC vs. PPM Accuracy
 
@@ -80,7 +80,7 @@ internal chemistry.
 - Clean probes after each use to prevent residue buildup
 - Temperature affects readings; meters with automatic temperature compensation (ATC)
   are preferred
-- Take readings from the nutrient reservoir and from runoff to check for salt
+- Take readings from the [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]] and from runoff to check for salt
   accumulation in the medium
 - Perpetual pH-metering devices with a probe immersed in the nutrient tank provide
   24-hour intelligence
@@ -106,7 +106,7 @@ prevent toxicity.
 ## EC and Nutrient Problems
 
 - **EC too high:** Nutrient burn, leaf tip burn, stunted growth, locked-out nutrients
-- **EC too low:** Nutrient deficiency symptoms, slow growth, pale foliage
+- **EC too low:** [[cannabis-grow-nutrient-deficiency-problem-solving]] symptoms, slow growth, pale foliage
 - **EC rising in reservoir:** Plants are taking up more water than nutrients (possibly
   due to high humidity or high temperatures)
 - **EC dropping in reservoir:** Plants are taking up nutrients faster than water
@@ -128,6 +128,6 @@ dissolved solids (TDS).
 ## See Also
 
 - [[flushing-nutrients]] -- reducing EC when salt buildup occurs
-- [[cannabis-nutrient-lockout-and-ph]] -- nutrient lockout detection
+- [[cannabis-nutrient-lockout-and-ph]] -- [[cannabis-nutrient-lockout-and-ph]] detection
 - [[growing-vegetables-with-less-fertilizer]]
 - [[cannabis-nutrient-deficiency-and-toxicity-guide]]

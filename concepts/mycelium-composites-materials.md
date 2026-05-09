@@ -4,7 +4,7 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [mycelium, materials, composites, biomaterials, packaging, building-materials, fungi, mycology, sustainability, ecology]
-sources: [raw/papers/mycelium-running-stamets.md, raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: sources: []
 ---
 
 # Mycelium Composites and Materials
@@ -13,9 +13,9 @@ Mycelium composites are materials produced by growing fungal mycelium through ag
 
 ## How Mycelium Composites Are Made
 
-The process exploits the natural tendency of mycelium to colonize and bind together substrate materials:
+The process exploits the natural tendency of mycelium to colonize and bind together [[growing-gourmet-substrate-materials-wood-types]]:
 
-1. **Substrate preparation**: Agricultural waste (straw, sawdust, corn stalks, hemp hurds) is cleaned and sometimes pasteurized
+1. **[[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]**: Agricultural waste (straw, sawdust, corn stalks, hemp hurds) is cleaned and sometimes pasteurized
 2. **Inoculation**: Mycelium of selected fungal species is introduced to the substrate
 3. **Colonization**: The mycelium grows through the substrate over days to weeks, binding the particles together with a dense network of hyphae
 4. **Formation**: The colonized substrate is pressed into molds (for packaging, bricks, panels) or shaped into sheets
@@ -30,7 +30,7 @@ Mycelium composites offer several advantageous properties:
 - **Thermal insulation**: Good insulating properties for building applications
 - **Compostable**: Fully biodegradable at end of life, unlike petroleum-based alternatives
 - **Acoustic absorption**: Effective sound dampening
-- **Structural strength**: Can be engineered for various strength requirements depending on substrate density and fungal species
+- **[[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]]**: Can be engineered for various strength requirements depending on substrate density and fungal species
 
 ## Applications
 
@@ -45,19 +45,19 @@ Mycelium can be grown into thin, durable sheets that mimic the texture and prope
 
 ## Suitable Fungal Species
 
-Species with strong mycelial networks and rapid colonization are preferred:
+Species with strong [[fungal-mycelial-networks-nutrient-translocation]] and rapid colonization are preferred:
 
 - **Ganoderma species**: Dense, tough mycelium; reishi (G. lucidum) produces very robust growth
 - **Pleurotus ostreatus**: Fast colonizer, aggressive growth through diverse substrates
-- **Trametes versicolor**: Strong white rot fungus with tenacious mycelial binding
+- **[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]**: Strong white rot fungus with tenacious mycelial binding
 
 ## Relationship to Stamets' Work
 
-While Mycelium Running discusses the structural role of mycelium in nature -- binding soil, creating aggregates, and forming mats that resist erosion -- the commercial development of mycelium composites extends these natural properties into manufactured materials. The concept draws directly from observations of how mycelium binds wood chips into coherent masses in mycofiltration installations and how fungal mycelium creates durable structures in nature.
+While [[woodlovers-mycelium-running-pathway-technique]] discusses the structural role of mycelium in nature -- binding soil, creating aggregates, and forming mats that resist erosion -- the commercial development of mycelium composites extends these natural properties into manufactured materials. The concept draws directly from observations of how mycelium binds wood chips into coherent masses in mycofiltration installations and how fungal mycelium creates durable structures in nature.
 
 ## See Also
 
-- [[mycoremediation-overview]]
+- [[cotter-mycoremediation-overview]]
 - [[mushroom-substrates]]
 - [[fungal-ecology-decomposition-cycles]]
 ## Practical Considerations
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

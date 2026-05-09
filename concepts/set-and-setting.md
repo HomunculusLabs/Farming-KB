@@ -1,5 +1,5 @@
 ---
-title: Set and Setting
+title: lsd-set-and-setting-framework
 created: 2026-04-28
 tags: [psychology, psychedelics, therapy, consciousness]
 date: 2026-04-28
@@ -10,9 +10,9 @@ type: concept
 
 # Set and Setting
 
-Set and setting is a foundational concept in psychedelic therapy and drug
+Set and setting is a foundational concept in [[metzner-psycholytic-psychedelic-therapy-models]] and drug
 research that describes how the psychological and environmental context of a
-psychedelic experience profoundly shapes its content, quality, and outcomes.
+[[leary-psychedelic-experience-bardo-mapping]] profoundly shapes its content, quality, and outcomes.
 First articulated by [[psychedelic-harm-reduction]]
 - [[entheogen-culture]]
 
@@ -101,4 +101,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,11 +1,11 @@
 ---
-title: Psilocybin Synthesis via Zwitterionic Phosphate Intermediate
+title: psilocin-psilocybin-synthesis-shirota via hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin Intermediate
 created: 2026-04-28
 tags: [chemistry, psilocybin, psilocin, synthesis, phosphorylation, shirota-hakamata-goda, zwitterion, pharmaceutical-chemistry]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Shirota, O., Hakamata, W. & Goda, Y. (2003). Concise Large-Scale Synthesis of Psilocin and Psilocybin, Principal Hallucinogenic Constituents of "Magic Mushroom". Journal of Natural Products, 66(6), 885-887.
+  - Shirota, O., Hakamata, W. & Goda, Y. (2003). Concise Large-Scale Synthesis of tryptamine-chemistry-psilocin-and-psilocybin-synthesis, Principal Hallucinogenic Constituents of "Magic Mushroom". Journal of Natural Products, 66(6), 885-887.
 type: concept
 ---
 
@@ -15,7 +15,7 @@ The 2003 paper by Shirota, Hakamata, and Goda at Japan's National Institute of H
 
 ## Background and Motivation
 
-Psilocin and psilocybin are the principal hallucinogenic constituents of Psilocybe mushrooms. They closely resemble the neurotransmitter [[serotonin]], and their hallucinogenic effect is probably caused by interference with normal brain serotonin actions. Standard compounds are needed for chromatographic identification methods (TLC, GC, HPLC) used in forensic analysis of magic mushrooms. However, isolating psilocybin from mushrooms on a gram scale is impractical because psilocin decomposes easily and psilocybin has high polarity.
+Psilocin and psilocybin are the principal hallucinogenic constituents of Psilocybe mushrooms. They closely resemble the n, and their hallucinogenic effect is probably caused by interference with normal brain serotonin actions. Standard compounds are needed for chromatographic [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] (TLC, GC, HPLC) used in forensic analysis of magic mushrooms. However, isolating psilocybin from mushrooms on a gram scale is impractical because psilocin decomposes easily and psilocybin has high polarity.
 
 Previous syntheses of psilocybin had achieved yields of only 20% (Hofmann et al., 1959) and 47% (Nichols and Frescas, 1999), and typically required chromatographic purification.
 
@@ -24,7 +24,7 @@ Previous syntheses of psilocybin had achieved yields of only 20% (Hofmann et al.
 The synthesis starts from commercially available **4-hydroxyindole** and proceeds through four steps:
 
 1. **Acetyl protection**: 4-hydroxyindole is acetylated using acetic anhydride and pyridine in dichloromethane at 0°C to room temperature, yielding 4-acetylindole as ivory white crystals
-2. **Glyoxalylamide formation**: The acetyl-protected indole is treated with oxalyl chloride in ether at 0°C, forming yellow crystals of the oxalyl chloride intermediate, which is then reacted with dimethylamine in THF to give the glyoxalylamide in over 80% yield
+2. **[[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]]**: The acetyl-protected indole is treated with oxalyl chloride in ether at 0°C, forming yellow crystals of the oxalyl chloride intermediate, which is then reacted with dimethylamine in THF to give the glyoxalylamide in over 80% yield
 3. **Reduction**: The glyoxalylamide is reduced by lithium aluminum hydride (LiAlH4) in THF under argon atmosphere, refluxing for 2 hours, yielding psilocin as white crystals in over 85% yield
 
 The acetyl protection route was chosen over benzyl ether protection because the 4-O-benzyl derivative of 4-hydroxyindole was somewhat unstable and required careful reaction control, whereas the acetylated intermediate was stable and easily crystallized.
@@ -64,7 +64,7 @@ The zwitterionic nature of compound 8 made large-scale isolation possible by **s
 
 ## Final Deprotection to Psilocybin
 
-Catalytic hydrogenolysis of the zwitterionic intermediate using 10% palladium-activated carbon in methanol under a hydrogen atmosphere at room temperature removed both benzyl groups, yielding psilocybin as a white needle crystalline powder. The overall yield from psilocin to psilocybin exceeded 72%, even at gram scale — dramatically better than the previous best of 47%.
+[[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]] of the zwitterionic intermediate using 10% palladium-activated carbon in methanol under a hydrogen atmosphere at room temperature removed both benzyl groups, yielding psilocybin as a white needle crystalline powder. The overall yield from psilocin to psilocybin exceeded 72%, even at gram scale — dramatically better than the previous best of 47%.
 
 ### Psilocybin Characterization Data
 

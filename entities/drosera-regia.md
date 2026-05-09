@@ -42,7 +42,7 @@ Leaves are lanceolate, arranged in a dense rosette, and can exceed 60 cm in leng
 
 Each leaf bears two types of trichomes: long stalked marginal tentacles and shorter sessile glands distributed across the lamina surface.
 
-The inflorescence is a tall scape bearing pink to mauve flowers approximately 2 cm in diameter, produced during the Southern Hemisphere spring and summer.
+The inflorescence is a tall scape bearing pink to mauve flowers approximately 2 cm in diameter, produced during the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] spring and summer.
 
 ## Distribution and Habitat
 
@@ -76,7 +76,7 @@ When prey contacts the tentacles, the glandular heads bend toward the capture si
 
 The leaf blade itself may slowly fold over the trapped insect over several hours, increasing contact surface area for enzyme secretion.
 
-Digestive enzymes including proteases and phosphatases break down the prey over a period of several days.
+Digestive enzymes including proteases and phosphatases [[query-can-fungi-break-down-plastic-pollution]] the prey over a period of several days.
 
 The plant supplements its nutrient intake primarily with nitrogen and phosphorus derived from captured arthropods, compensating for the impoverished substrate.
 
@@ -98,7 +98,7 @@ The total wild population is estimated at fewer than 2,000 mature individuals di
 
 Habitat degradation from invasive plant species, particularly alien pines and wattles, poses the most significant ongoing threat to remaining populations.
 
-Climate change models for the Eastern Cape predict increased drought frequency and reduced summer rainfall, which could critically impact the seepage habitats this species depends on.
+[[dighton-fungi-climate-change-feedback]] models for the Eastern Cape predict increased drought frequency and reduced summer rainfall, which could critically impact the seepage habitats this species depends on.
 
 Over-collection by carnivorous plant enthusiasts has historically contributed to population declines, though cultivated material is now widely available from tissue-cultured stock.
 
@@ -108,9 +108,11 @@ Its extremely restricted range and small population sizes make it vulnerable to 
 
 ## See Also
 
+- [[drosera-scorpioides]]
+
 - [[drosera-anglica]]
 - [[nepenthes-rajah]]
 - [[pinguicula-vulgaris]]
-- [[darlingtonia-californica]]
+- darlingtonia californica
 - [[drosera-spatulata]]
 - [[drosophyllum-lusitanicum]]

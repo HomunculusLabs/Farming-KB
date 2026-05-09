@@ -1,5 +1,5 @@
 ---
-title: Lactic Acid Bacteria Preparation (Cho's Method)
+title: Lactic lactic-acid-bacteria-knf Preparation (Cho's Method)
 created: 2026-04-28
 tags: [knf, input-preparation, microorganisms]
 date: 2026-04-28
@@ -12,7 +12,7 @@ type: concept
 Lactic Acid Bacteria (LAB) are anaerobic microorganisms that, in the
 absence of oxygen, break sugar into lactic acid. In Dr. Cho's Natural
 Farming system, LAB is very effective in improving ventilation of air
-in the soil, promoting rapid growth of fruit trees and leaf vegetables.
+in the soil, promoting rapid growth of [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and leaf vegetables.
 LAB is conditionally anaerobic, meaning it can also survive with
 oxygen present.
 
@@ -21,7 +21,7 @@ oxygen present.
 1. Rice-washed water
 2. Milk (unprocessed and not boiled)
 3. Jaggery / Brown sugar
-4. Clay jar / glass jar
+4. Clay jar / [[sterile-spore-print-collection-glass-jar-technique]]
 5. Porous paper (paper towel)
 6. Rubber band / thread
 
@@ -87,7 +87,7 @@ The basic dilution ratio is 1:1000 (LAB to water).
 
 ### Compost Applications
 
-- If LAB is used together with mixed compost or IMO, fermentation
+- If LAB is used together with [[cho-fermented-mixed-compost-methods]] or IMO, fermentation
   occurs rapidly with very effective results.
 - LAB's key function in compost is to prevent
   [[knf-lactic-acid-bacteria-serum]] - general KNF LAB reference

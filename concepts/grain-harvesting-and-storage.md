@@ -5,12 +5,13 @@ updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 Updated: 2026-04-18
 
-Source: The Ultimate Guide to Natural Farming and Sustainable Living, Nicole Faires
+Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]], Nicole Faires
 
 Harvesting grain the traditional way involves a series of steps from cutting to threshing to winnowing to storage. Understanding these processes is essential for any homestead growing its own grain.
 
@@ -88,7 +89,7 @@ Winnowing separates the chaff (husks) from the grain:
 - **Temperature**: Cool, dry place
 - **Preservation aids**: Bay leaves in the container can help
 - **Purity**: Grain must be very dry and free of other material
-- **Shelf life**: One year or more until ground
+- **[[psilocybin-shelf-life-stability]]**: One year or more until ground
 - **Inspection**: Check periodically for mold, bugs, or rodent signs
 - **Grinding**: Once grain is ground into flour, it must be used immediately
 
@@ -132,6 +133,6 @@ Winnowing separates the chaff (husks) from the grain:
 ## Related Topics
 
 - [[duck-rice-paddy]] — rice-specific production
-- [[fukuoka-natural-farming]] — natural farming principles
+- [[fukuoka-natural-farming]] — natural [[natural-farming-principles-fukuoka]]
 - [[fukuoka-rice-barley-no-till-method]]
 - [[fukuoka-natural-rice-farming-steps]]

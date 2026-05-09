@@ -1,5 +1,5 @@
 ---
-title: Peganum Harmala
+title: mckenna-food-gods-peganum-harmala-soma
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -21,7 +21,7 @@ hallucinogens.
 
 ## Botanical Description
 
-Peganum harmala is a bushy, succulent perennial herb growing to a
+Peganum harmala is a bushy, succulent perennial [[medicinal-herb-growing]] to a
 height of approximately 30-60 cm. It produces numerous branching
 stems with alternate, deeply divided leaves that give the plant a
 feathery appearance. The flowers are white, solitary, and showy, with
@@ -45,7 +45,7 @@ the Middle East and Central Asia.
 
 The plant has been used in traditional medicine across its range for
 a wide variety of purposes, including treatment of asthma, jaundice,
-and various skin conditions. In Iranian traditional medicine, the
+and various [[cannabis-for-skin-conditions-detailed]]. In Iranian traditional medicine, the
 seeds have been used as an emmenagogue and abortifacient. In
 Ayurvedic medicine, Harmal is prescribed for a range of conditions
 including fever, digestive disorders, and nervous complaints.
@@ -71,11 +71,11 @@ chemical class across the plant kingdom. See [[ayahuasca-preparation]] and relat
   brews.
 - **Psychoactivity**: At sufficient doses, harmine and harmaline produ
   ce mild hallucinogenic effects characterized by visual changes (geom
-  etric patterns, color enhancement), altered states of consciousness,
+  etric patterns, color enhancement), [[weil-the-natural-mind-altered-states-normalcy]] of consciousness,
    and dream-like imagery.
 - **Vasoactivity**: The alkaloids have effects on blood vessels, causi
   ng vasoconstriction at higher doses.
-- **Antimicrobial properties**: Traditional use as an antimicrobial ag
+- **[[mycelium-running-mushroom-antimicrobial-properties-species-chart]]**: Traditional use as an antimicrobial ag
   ent has some scientific support.
 
 ## Use in Ayahuasca Analogs
@@ -83,7 +83,7 @@ chemical class across the plant kingdom. See [[ayahuasca-preparation]] and relat
 The MAO-inhibiting properties of Peganum harmala seeds have made them
 a key ingredient in so-called "ayahuasca analogs" -- preparations
 that substitute for the traditional Amazonian brew. In combination
-with DMT-containing plants, the harmala alkaloids prevent the
+with DMT-containing plants, the [[turner-harmala-alkaloids-preparation-and-dosage]] prevent the
 breakdown of DMT in the digestive tract, allowing the visionary
 compound to reach the central nervous system.
 
@@ -115,3 +115,7 @@ combination with Peganum harmala, has visionary effects and can be
 drunk as a substitute for [[ayahuasca-preparation]]. This combination
 represents an Old World parallel to the Amazonian discovery of the
 DMT-harmala synergy.
+## See Also
+- [[banisteriopsis-caapi]]
+- [[ayahuasca-preparation]]
+- [[syrian-rue-peganum-harmala-ethnobotany]]

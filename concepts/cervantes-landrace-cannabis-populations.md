@@ -1,5 +1,5 @@
 ---
-title: Landrace Cannabis Populations
+title: cervantes landrace cannabis populations Populations
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -29,23 +30,23 @@ Landraces have evolved over centuries in their native environments,
 adapting to local climate, soil conditions, photoperiod, and pest
 pressures through natural selection. They represent the genetic
 diversity that existed before modern breeding practices began to narrow
-the cannabis gene pool.
+the cannabis [[cannabis-gene-pool-preservation-acclimatization-clarke]].
 
 ## Geographic Origins
 
 Cannabis landraces developed across a vast geographic range. The major
 centers of landrace diversity include:
-- The Hindu Kush mountains of Afghanistan and Pakistan, home to
+- The [[cannabis-hindu-kush-strain-description-clarke]] mountains of Afghanistan and Pakistan, home to
   indica-type landraces known for their short stature, broad leaves,
   and resinous flowers
-- The tropical and subtropical regions of Southeast Asia, including
+- The tropical and subtropical regions of [[psilocybe-southeast-asia-pacific]], including
   Thailand, where tall, late-flowering sativa landraces evolved
 - Central and South America, including Colombia and Mexico, where
   landrace sativas adapted to equatorial photoperiods
 - The Indian subcontinent and African continent, each with distinct
   regional populations
 
-See [[cervantes-genetic-bottleneck-and-diversity-loss]] affecting cannabis. Climate change poses an additional
+See [[cervantes-genetic-bottleneck-and-diversity-loss]] affecting cannabis. [[dighton-fungi-climate-change-feedback]] poses an additional
 threat as native environments shift beyond the adaptive range of
 local landraces.
 
@@ -61,7 +62,7 @@ The term "heirloom seeds" came about because the selection process for
 some cultivars has been going on for generations, often passed along
 within a family or shared among friends. Heirloom varieties are non-
 hybrid (open-pollinated), meaning they breed relatively true. Growers
-can save seeds from their crops, plant them the following year, and
+can [[query-how-do-i-save-seeds-from-biennial-vegetables]] from their crops, plant them the following year, and
 expect offspring very much like the parent generation. See
 [[cervantes-indica-sativa-ruderalis-differences]] - Subspecies
 - [[cervantes-open-pollinated-heirloom-seeds]] - Heirloom varieties
@@ -84,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

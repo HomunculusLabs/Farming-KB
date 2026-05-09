@@ -72,7 +72,7 @@ In fish feed, partial replacement of fishmeal with chlorella (up to 10–15%) ha
 
 Biomass productivity and lipid yield under stress conditions remain below economic viability targets for standalone fuel production. Integration with biorefinery approaches, where high-value coproducts subsidize fuel production, is considered more promising.
 
-**Wastewater treatment:** The species efficiently removes nitrogen, phosphorus, and heavy metals from municipal and agricultural wastewater. Coupled cultivation-bioremediation systems are an active area of commercial development.
+**[[mollison-designers-wastewater-treatment-wetlands]]:** The species efficiently removes nitrogen, phosphorus, and heavy metals from municipal and agricultural wastewater. Coupled cultivation-bioremediation systems are an active area of commercial development.
 
 **Bioproducts:** Pigment extracts (lutein, chlorophyll), bioactive peptides, and polysaccharides with reported antioxidant and immunomodulatory activities are high-value coproducts.
 
@@ -80,7 +80,7 @@ Biomass productivity and lipid yield under stress conditions remain below econom
 
 *C. vulgaris* is ubiquitous in freshwater environments worldwide. It is commonly found in ponds, lakes, and slow-moving rivers, often forming green water blooms under nutrient-rich conditions.
 
-The species plays a role in freshwater primary production and nutrient cycling. It serves as food for zooplankton and filter-feeding organisms, forming a base link in many aquatic food webs.
+The species plays a role in freshwater [[lichens-primary-production-soil-formation-dighton]] and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. It serves as food for zooplankton and filter-feeding organisms, forming a base link in many aquatic food webs.
 
 In eutrophic systems, *C. vulgaris* can contribute to algal blooms. These blooms alter water quality through oxygen fluctuations, pH shifts, and light attenuation affecting submerged macrophytes.
 
@@ -88,17 +88,17 @@ Its ability to sequester CO2 during photosynthesis (approximately 1.8 kg CO2 per
 
 ## Strain Improvement and Genetics
 
-The *C. vulgaris* genome was first sequenced in 2010, revealing a compact nuclear genome of approximately 46–56 Mb. Multiple strains exist with significant phenotypic variation in growth rate, lipid content, and stress tolerance.
+The *C. vulgaris* genome was first sequenced in 2010, revealing a compact nuclear genome of approximately 46–56 Mb. Multiple strains exist with significant phenotypic variation in growth rate, lipid content, and [[fungal-lichen-stress-tolerance-and-poikilohydry]].
 
 Classical mutagenesis using UV, gamma radiation, and chemical mutagens has produced strains with enhanced lipid accumulation and thermal tolerance. Adaptive laboratory evolution under high-light or high-CO2 conditions has also yielded improved production strains.
 
-Genetic engineering tools remain less developed than for model organisms like *Chlamydomonas reinhardtii*. However, electroporation-based transformation, CRISPR-Cas9 editing, and RNA interference have been demonstrated, enabling targeted pathway modification.
+[[fukuoka-textdoc-genetic-engineering-critique-warning]] tools remain less developed than for model organisms like *Chlamydomonas reinhardtii*. However, electroporation-based transformation, CRISPR-Cas9 editing, and RNA interference have been demonstrated, enabling targeted pathway modification.
 
 ## Related Species
 
 *Chlorella pyrenoidosa* (often considered conspecific with *C. sorokiniana*) is a closely related thermotolerant species used in similar commercial applications. *C. sorokiniana* tolerates temperatures up to 42°C, making it suited to tropical outdoor cultivation.
 
-*Chlorella protothecoides* is distinguished by its ability to grow heterotrophically to very high cell densities with lipid contents exceeding 50% under appropriate conditions. It is considered one of the most promising species for algal biodiesel production.
+*Chlorella protothecoides* is distinguished by its ability to grow heterotrophically to very high cell densities with lipid contents exceeding 50% under appropriate conditions. It is considered one of the most promising species for algal [[biodiesel-production]].
 
 The genus *Chlorella* has undergone significant taxonomic revision using molecular phylogenetics. Several former *Chlorella* species have been reclassified into genera such as *Auxenochlorella*, *Parachlorella*, and *Chlorella* sensu stricto based on 18S rRNA sequencing.
 
@@ -109,7 +109,7 @@ The genus *Chlorella* has undergone significant taxonomic revision using molecul
 - aquaculture
 - fermentation
 - sustainability
-- climate change
+- [[dighton-fungi-climate-change-feedback]]
 - photosynthesis
 - [[cannabis-anti-inflammatory-applications]]
 - bioenergy

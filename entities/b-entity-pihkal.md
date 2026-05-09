@@ -1,5 +1,5 @@
 ---
-title: "B (4-Butoxy-3,5-dimethoxy-PEA) -- PIHKAL Entry #10"
+title: "B (4-Butoxy-3,5-dimethoxy-PEA) -- 2c-b-pihkal-entry-20 #10"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # B
 
-PIHKAL entry #10. 4-Butoxy-3,5-dimethoxy-PEA.
+[[2c-b-pihkal-entry-20]] #10. 4-Butoxy-3,5-dimethoxy-PEA.
 
 ## Dosage and Duration
 
@@ -96,7 +96,7 @@ stirred under He at ice bath temperature. A total of 4.9 g of
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

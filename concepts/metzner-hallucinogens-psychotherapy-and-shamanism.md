@@ -1,5 +1,5 @@
 ---
-title: "metzner hallucinogens psychotherapy and shamanism"
+title: "metzner metzner hallucinogens psychotherapy and shamanism and shamanism"
 created: 2026-04-28
 tags: [ralph-metzner, psychotherapy, shamanism, psychedelics, entheogen, set-and-setting, indigenous-healing, transpersonal, ritual]
 date: 2026-04-28
@@ -22,7 +22,7 @@ healing and knowledge acquisition across Western and indigenous traditions.
 Metzner used three terms interchangeably: "psychedelic" (mind-manifesting,
 coined by Humphrey Osmond and [[set-and-setting]] hypothesis, which holds that internal set
 (intention, expectation, motivation) and external setting are the primary
-determinants of psychedelic experience outcomes.
+determinants of [[leary-psychedelic-experience-bardo-mapping]] outcomes.
 
 ### Five Shared Principles
 
@@ -48,7 +48,7 @@ scheduling under controlled substances legislation.
 
 ## Paradigm Two: Shamanic Healing and Divination
 
-Metzner identified the shamanic entheogenic ceremony as "the intentional
+Metzner identified the shamanic [[shamanic-entheogenic-ceremony-structure-common-elements]] as "the intentional
 arrangement of the set and the setting for purposes of healing and
 divination." Three features distinguish traditional shamanic ceremonies from
 Western psychotherapy: minimal verbal interaction during the experience, the
@@ -77,7 +77,7 @@ interiorly, revealing the origin of illness or appropriate remedies.
 ### Spirit Beings and Multiple Worlds
 
 Two elements of shamanic cosmology pose the most direct challenge to Western
-materialism: the existence of multiple realities or "worlds" (the "inner
+materialism: the existence of [[metzner-spirit-beings-multiple-realities-entheogens]] or "worlds" (the "inner
 world," "spirit world," "upper or lower world," "dreamtime," or "nonordinary
 reality" per Michael Harner), and the reality of spirit beings including
 power animals, plant spirits, ancestors, and other entities. These beings
@@ -85,10 +85,10 @@ function as "allies," "guardians," or "helpers" in healing and divination.
 
 ### Ceremonial Examples
 
-Metzner surveyed specific entheogenic ceremonies: the Native American Church
+Metzner surveyed specific [[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]]: the Native American Church
 peyote ceremony (all-night, central fire, led by a roadman); the Mazatec
 mushroom velada (dark room, healer singing incorporating Christian saints
-and nature spirits); Amazonian ayahuasca ceremonies (semidarkness, icaros);
+and nature spirits); [[harner-amazonian-ayahuasca-preparation-methods]] ceremonies (semidarkness, icaros);
 Huichol peyote pilgrimage to Wirikuta; Andean San Pedro cactus ceremonies
 with altar arrangements; and Bwiti iboga ceremonies in Gabon with ancestral
 mirrors.
@@ -118,3 +118,7 @@ Both Western psychotherapy and shamanic traditions recognize the centrality of
 an experienced guide, the importance of set and setting, and the potential for
 healing and insight. The fundamental divergence lies in underlying cosmology:
 the Western paradigm operates within a single-material-reality framework where
+
+## See Also
+
+- [[shamanism-and-plant-hallucinogens]]

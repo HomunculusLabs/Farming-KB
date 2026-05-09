@@ -1,12 +1,12 @@
 ---
-title: Dose Effects and Health Risks of Psilocybin Mushrooms
+title: Dose Effects and Health Risks of forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc
 created: 2026-04-28
 tags:
   - pharmacology
   - health
   - dose
   - risks
-  - harm reduction
+  - [[adverse-effects-and-harm-reduction-psilocybin]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -18,13 +18,13 @@ type: concept
 
 ## Overview
 
-The effects of hallucinogenic mushrooms depend on dose, individual sensitivity and reaction to psilocybin, previous experiences, and the setting in which they are consumed. While acute toxicity is low and dependency does not develop, the psychological risks can be significant. Understanding dose-response relationships, routes of administration, and potential adverse effects is essential for both clinical and harm reduction perspectives.
+The effects of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] depend on dose, individual sensitivity and reaction to psilocybin, previous experiences, and the setting in which they are consumed. While acute toxicity is low and dependency does not develop, the psychological risks can be significant. Understanding dose-response relationships, routes of administration, and potential [[blesching-cannabis-safety-adverse-effects-evidence]] is essential for both clinical and harm reduction perspectives.
 
 ## Dose and Potency
 
 ### Potency Variables
 
-Mushroom potency is influenced by multiple factors that make consistent dosing inherently difficult:
+[[pf-tek-mushroom-potency-and-age-relationship]] is influenced by multiple factors that make consistent dosing inherently difficult:
 
 - **Species or variety:** Different species contain vastly different concentrations of active compounds
 - **Origin:** Geographic source and cultivation conditions affect alkaloid profiles
@@ -48,7 +48,7 @@ The psychoactive dose of psilocybin is estimated between 45 and 315 micrograms p
 - **Dried mushrooms:** 1 to 3.5 grams (some users report up to 5 grams for strong experiences)
 - **Fresh mushrooms:** Approximately 10 to 50 grams (roughly 10 times the dried equivalent)
 
-Short-term tolerance develops rapidly to both physical and psychological effects, meaning subsequent doses within a short period require escalation to achieve similar effects.
+Short-term tolerance develops rapidly to both physical and [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]], meaning subsequent doses within a short period require escalation to achieve similar effects.
 
 ## Route of Administration and Duration
 
@@ -138,4 +138,4 @@ Based on available evidence, key risk reduction considerations include:
 
 - [[psilocybe-bohemica]]
 - [[psilocybin-psilocin-chemistry]]
-- [[psilocybe-species-identification]]
+- psilocybe-species-identification

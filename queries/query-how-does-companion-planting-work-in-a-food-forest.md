@@ -1,5 +1,5 @@
 ---
-title: "How Does Companion Planting Work in a Food Forest"
+title: "How Does comparison-companion-planting-reference-vs-jadam-monoculture-critique Work in a Food Forest"
 created: 2026-04-28
 tags: query, permaculture, food-forest, companion-planting, guilds
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: query
 
 ## Short Answer
 Companion planting in a [[food-forest-layers-and-species|multi-layered plant communities]] where each species fulfills specific ecological functions
-such as nitrogen fixation, pest deterrence, nutrient accumulation,
+such as [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], pest deterrence, nutrient accumulation,
 pollinator attraction, and ground cover. Unlike traditional garden
 companion planting that focuses on pairwise plant interactions, food
 forest companion planting creates interconnected
@@ -21,7 +21,7 @@ vertical structure of the system. These layers include the canopy layer
 (tall trees), understory layer (shorter trees), shrub layer, herbaceous
 layer, ground cover layer, root layer, and vine layer. Each layer
 presents different light, moisture, and nutrient conditions that support
-different plant species. The [[food-forest-understory-plants|understory plants]] must tolerate partial
+different plant species. The understory plants must tolerate partial
 shade. Effective companion planting ensures that every niche in this
 vertical structure is filled productively.
 
@@ -30,7 +30,7 @@ like leguminous trees or shrubs that add atmospheric nitrogen to the
 soil, [[apple-guild-design-guide|apple guild design]] provides a detailed template for how these roles work together
 around a single tree.
 
-Agroforestry and alley cropping
+Agroforestry and [[comparison-alley-cropping-vs-silvopasture]]
 principles also apply to food forest companion planting. Nitrogen-fixing
 trees like black locust or alder planted between fruit trees provide both
 nitrogen and wind protection. As these nurse trees mature and cast shade,
@@ -38,11 +38,11 @@ they can be coppiced or removed to open space for the productive trees to
 fill. The [[soil-food-web-nutrient-cycling|soil food web]] is an often-overlooked component
 of companion planting in food forests. Plants in a guild are not just
 companions to each other but also to the soil biology. Root exudates from
-diverse plant species feed different segments of the microbial community,
+diverse plant species feed different segments of the [[edaphic-factors-microbial-community-structure]],
 creating a more robust and resilient soil ecosystem.
 [[backyard-food-forest-design|backyard food forest design]] guide recommends starting with a single productive
 tree and building its guild outward. Begin with the tree, add nitrogen
-fixers, then dynamic accumulators, then pest-confusing plants, then
+fixers, then [[comparison-dynamic-accumulators-vs-cover-crops]], then pest-confusing plants, then
 ground covers, and finally fill remaining niches with productive herbs,
 berries, or vegetables. The
 [[food-forest-layers-and-species|plant communities]] rather than
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

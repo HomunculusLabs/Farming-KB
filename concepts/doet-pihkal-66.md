@@ -19,15 +19,15 @@ DOET is described by Shulgin as "one of the Classic Ladies, namely HECATE." At m
 
 - **Chemical name:** 2,5-Dimethoxy-4-ethylamphetamine
 - **Alternate name:** HECATE
-- **PIHKAL entry:** #66
+- **[[2c-b-pihkal-entry-20]]:** #66
 - **Family:** DOx (2,5-dimethoxy-4-substituted amphetamines)
-- **Legal status:** Controlled Substance Analogue (US, under 1986 Act) / Status varies by jurisdiction
+- **[[ayahuasca-tourism-legal-status-by-country]]:** Controlled Substance Analogue (US, under 1986 Act) / Status varies by jurisdiction
 
 The original code DOE was abandoned because DOE was already a classic abbreviation for desoxyephedrine (methamphetamine). The ethyl suffix was added to become DOET, analogous to DOAM for the amyl homologue. DOM was already too firmly established in popular usage to rename to DOME.
 
 ## Synthesis (Summary)
 
-DOET synthesis begins with 2,5-dimethoxy-4-ethylbenzaldehyde (prepared as described under the 2C-E entry). This aldehyde undergoes a nitropropene condensation with nitroethane and ammonium acetate in glacial acetic acid, heated on a steam bath for 1.75 hours. The resulting 1-(2,5-dimethoxy-4-ethylphenyl)-2-nitropropene forms fine yellow crystals (mp 67.5-68.5 degrees C).
+DOET synthesis begins with 2,5-dimethoxy-4-ethylbenzaldehyde (prepared as described under the 2C-E entry). This aldehyde undergoes a nitropropene condensation with nitroethane and ammonium acetate in glacial acetic acid, heated on a [[scythian-cannabis-steam-bath-ritual]] for 1.75 hours. The resulting 1-(2,5-dimethoxy-4-ethylphenyl)-2-nitropropene forms fine yellow crystals (mp 67.5-68.5 degrees C).
 
 Reduction is achieved using lithium aluminum hydride (LAH) in anhydrous ether under inert atmosphere via Soxhlet extraction over 18 hours. After careful destruction of excess hydride with 8% sulfuric acid, the aqueous phase is treated with potassium sodium tartrate, basified with NaOH, and extracted with dichloromethane. The hydrochloride salt crystallizes as lustrous white crystals (mp 194-195 degrees C after recrystallization from acetonitrile or ethyl acetate).
 
@@ -46,7 +46,7 @@ Note: Considerable individual variation in response has been observed. The effec
 
 ## Qualitative Commentary (from PIHKAL)
 
-**1.0 mg:** Very gentle and relaxing with no apparent psychedelic effects. One subject experienced complete relief from menstrual cramps and accompanying irritability, feeling relaxed and at peace. This cramp-relieving effect was replicated in a subsequent trial but did not work for another volunteer, suggesting a 50% success rate.
+**1.0 mg:** Very gentle and relaxing with no apparent psychedelic effects. One subject experienced complete relief from menstrual cramps and accompanying irritability, feeling relaxed and at peace. This cramp-relieving effect was replicated in a subsequent trial but did not work for another volunteer, suggesting a 50% [[maitake-fruiting-body-success-rate-management]].
 
 **2.5 mg:** Significant visual movement with both eyes open and closed, to the point of causing near sea-sickness from movement on a concrete floor. Difficulty finding a centering reference point in reality. Twitching legs, crawling body sensations, and general physical discomfort. Still at ++ the following morning but clearly repairing. One subject described this as "definitely not my thing."
 
@@ -61,7 +61,7 @@ Note: Considerable individual variation in response has been observed. The effec
 ### Dose-Dependent Character
 DOET displays an unusual dose-dependent character shift:
 - **Low doses (1-4 mg):** Gentle mood enhancement, cognitive energizing, potential cramp relief. Minimal psychedelic effects.
-- **Moderate doses (4-6 mg):** Serene, clean, beautiful psychedelic experience with rich eyes-closed imagery but minimal visual distortion with eyes open.
+- **Moderate doses (4-6 mg):** Serene, clean, beautiful [[leary-psychedelic-experience-bardo-mapping]] with rich eyes-closed imagery but minimal visual distortion with eyes open.
 - **Higher doses (6-7 mg):** Deeply erotic-to-divine experience with form-image-symbol imagery. Open, loving quality with intact cognitive function.
 
 ### Physical
@@ -89,4 +89,4 @@ The nomenclature history of the DOx series is itself interesting. The naming con
 ## References
 
 - Shulgin, A. & Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Entry #66.
-- [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
+- hallucinogenic-mushroom-health-risks-and-harm-reduction

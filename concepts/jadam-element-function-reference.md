@@ -1,5 +1,5 @@
 ---
-title: JADAM Element Function Reference
+title: JADAM jadam element function reference Reference
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -17,7 +17,7 @@ dry mass; major inorganic elements ~3.5%; trace elements ~0.5%.
 
 | Element | Symbol | Conc. (%) | Role |
 |---------|--------|-----------|------|
-| Hydrogen | H | 6 | Component of water and organic compounds |
+| Hydrogen | H | 6 | Component of water and [[fungal-volatile-organic-compounds-communication]] |
 | Carbon | C | 45 | Backbone of all organic molecules |
 | Oxygen | O | 45 | Component of water, organic compounds, respiration |
 
@@ -27,9 +27,9 @@ dry mass; major inorganic elements ~3.5%; trace elements ~0.5%.
 - **Role:** Component of amino acids and nucleic acids; needed most by crops
 - **Deficiency:** Growth rapidly deteriorates; chlorosis on leaves near roots;
   stems become woody; nitrogen transfers from old to young leaves first
-- **Excess:** Excessive vegetative growth; soft tissue; disease susceptibility;
+- **Excess:** Excessive [[cannabis-vegetative-growth-stage]]; soft tissue; disease susceptibility;
   delayed fruiting
-- **JADAM source:** [[jadam-wild-grass-liquid-fertilizer]]; cover crops (hairy
+- **JADAM source:** [[jadam-wild-grass-liquid-fertilizer]]; [[gaias-garden-cover-crops-soil-building]] (hairy
   vetch, milk vetch)
 
 ### Potassium (K) -- 1.0%
@@ -50,7 +50,7 @@ dry mass; major inorganic elements ~3.5%; trace elements ~0.5%.
 
 ### Silicon (Si) -- 0.1%
 - **Role:** Stimulates growth and reproduction; accumulated in cell walls and
-  intercellular space as silica; alleviates heavy metal toxicity
+  intercellular space as silica; alleviates [[dighton-fungal-biosorption-heavy-metal-remediation]] toxicity
 - **Deficiency:** Plants easily topple over; vulnerable to pathogens
 - **JADAM source:** Phyllite JLF; sea water
 

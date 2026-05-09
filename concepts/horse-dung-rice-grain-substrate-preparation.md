@@ -2,14 +2,14 @@
 
 ## Overview
 
-Horse dung and rice grain substrate is a traditional two-component cultivation medium used for growing *Psilocybe cubensis* and other coprophilous fungi. This substrate combines the nitrogen-rich, microbially pre-digested properties of horse manure with the readily available carbohydrates of rice grain, creating a balanced nutritional profile that supports robust mycelial colonization and prolific fruiting body production.
+Horse dung and rice grain substrate is a traditional two-component cultivation medium used for growing *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* and other coprophilous fungi. This substrate combines the nitrogen-rich, microbially pre-digested properties of horse manure with the readily available carbohydrates of rice grain, creating a balanced nutritional profile that supports robust mycelial colonization and prolific fruiting body production.
 
 ## Historical Context
 
-The use of dung-based substrates for mushroom cultivation predates modern mycology. Many *Psilocybe* species are naturally coprophilous (dung-inhabiting), having evolved to colonize the nutrient-rich droppings of herbivores. Horse dung in particular has been a staple substrate because:
+The use of dung-based substrates for [[accessible-mushroom-cultivation-for-disabilities]] predates modern mycology. Many *Psilocybe* species are naturally coprophilous (dung-inhabiting), having evolved to colonize the nutrient-rich droppings of herbivores. Horse dung in particular has been a staple substrate because:
 
 - Horses have relatively inefficient digestion, leaving significant undigested cellulose, hemicellulose, and lignin in their manure.
-- The dung is naturally colonized by a diverse microbial community that partially breaks down complex plant compounds, making nutrients more accessible to fungi.
+- The dung is naturally colonized by a diverse [[edaphic-factors-microbial-community-structure]] that partially breaks down complex plant compounds, making nutrients more accessible to fungi.
 - The texture of horse dung provides good aeration and water retention properties.
 
 Rice grain serves as a supplemental nutrient source, providing easily metabolized starches and proteins that accelerate mycelial colonization.
@@ -33,7 +33,7 @@ The Gartz (1990) study used a horse dung and rice grain mixture in water, supple
 
 ### Sourcing and Pre-Treatment
 1. **Dung selection**: Use dung from horses fed primarily on grass or hay. Avoid dung from horses recently treated with anthelmintics (dewormers) or antibiotics, as these can inhibit fungal growth.
-2. **Dung preparation**: Spread fresh dung in a thin layer and allow to age for 1–2 weeks. This reduces ammonia content and allows beneficial microbial succession. Alternatively, use commercially available pre-pasteurized mushroom compost.
+2. **Dung preparation**: Spread fresh dung in a thin layer and allow to age for 1–2 weeks. This reduces ammonia content and allows beneficial microbial succession. Alternatively, use commercially available pre-pasteurized [[staycare-spent-mushroom-compost-bioremediation]].
 3. **Rice preparation**: Rinse rice grain thoroughly to remove surface dust and debris. Soak in water for 12–24 hours before use to pre-hydrate.
 
 ### Mixing and Loading
@@ -98,14 +98,14 @@ These results suggest that the dung/grain substrate provides an excellent base f
 
 ### Insufficient Colonization
 - **Cause**: Substrate too wet or too dry, contamination, or insufficient spawn.
-- **Solution**: Adjust moisture to field capacity, improve sterile technique, increase inoculation rate.
+- **Solution**: Adjust moisture to field capacity, improve [[cultivator-sterile-technique-and-agar-culture]], increase inoculation rate.
 
 ### Sour or Ammonia Smell
 - **Cause**: Dung not properly aged; anaerobic conditions during preparation.
 - **Solution**: Extend aging period, ensure adequate aeration during mixing.
 
 ### Contamination
-- **Cause**: Inadequate sterilization, poor inoculation technique, or contaminated source material.
+- **Cause**: Inadequate sterilization, poor [[pf-tek-inoculation-technique-and-syringe-management]], or contaminated source material.
 - **Solution**: Extend sterilization time, work in a clean area with flame-sterilized tools, use quality spawn.
 
 ## Storage and Shelf Life

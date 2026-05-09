@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources: []
 ---
 
 # Psilocybe thailandensis
@@ -26,7 +26,7 @@ sources:
 - **Genus:** *Psilocybe*
 - **Species:** *P. thailandensis*
 
-Described by Guzmán and colleagues from collections made in Thailand. The species name reflects its type locality and primary known distribution in mainland Southeast Asia. It belongs to *Psilocybe* Section *Coprophilae*, the dung-inhabiting group within the genus.
+Described by Guzmán and colleagues from collections made in Thailand. The species name reflects its type locality and primary known distribution in mainland [[psilocybe-southeast-asia-pacific]]. It belongs to *Psilocybe* Section *Coprophilae*, the dung-inhabiting group within the genus.
 
 ## Description
 
@@ -54,11 +54,11 @@ Described by Guzmán and colleagues from collections made in Thailand. The speci
 
 ## Ethnobotanical Significance
 
-Thailand has a documented history of psychoactive mushroom use, particularly among rural communities and hill tribes. While *[[psilocybin-mushrooms]] including this species. Tourism-related mushroom consumption in Thailand has brought international attention to the country's psychoactive fungal diversity, though this has also led to legal restrictions.
+Thailand has a documented history of psychoactive mushroom use, particularly among rural communities and hill tribes. While *[[psilocybin-mushrooms]] including this species. Tourism-related mushroom consumption in Thailand has brought international attention to the country's psychoactive [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]], though this has also led to legal restrictions.
 
 ## Similar Species
 
-Most easily confused with *Psilocybe samuiensis*, which shares its Southeast Asian distribution and coprophilous habit. *P. thailandensis* can be distinguished by its generally smaller size, more strongly conic cap, and differences in spore morphology. *[[panaeolus-cyanescens-entity]]* co-occurs in the same habitats but is readily separated by its black spore print and mottled gill edges.
+Most easily confused with *Psilocybe samuiensis*, which shares its Southeast Asian distribution and coprophilous habit. *P. thailandensis* can be distinguished by its generally smaller size, more strongly conic cap, and differences in spore morphology. *[[panaeolus-cyanescens-entity]]* co-occurs in the same habitats but is readily separated by its black [[comparison-spore-print-collection-vs-spore-syringe-production]] and mottled gill edges.
 
 ## Conservation
 
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

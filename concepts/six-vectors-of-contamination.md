@@ -9,7 +9,7 @@ sources:
 ---
 # Six Vectors of Contamination in Mushroom Cultivation
 
-Cultivating mushroom mycelium in a laboratory is tantamount to not cultivating contaminants. Diagnosing the source of contamination, and the vector or pathway through which contaminants travel, is the key to successful tissue culture. Over years of practice, six distinct and separate vectors of contamination have been identified. If a contaminant arises in the laboratory, the cultivator should systematically examine each vector category as being the possible cause. Through a process of elimination, the distressed cultivator can determine the vector through which contaminants spread. Once discovered, the vector can be closed and the threat eliminated. If one vector is open, a multitude of contaminants pass through it, often confounding the diagnoses of inexperienced cultivators.
+Cultivating mushroom mycelium in a laboratory is tantamount to not cultivating contaminants. Diagnosing the source of contamination, and the vector or pathway through which contaminants travel, is the key to successful [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]. Over years of practice, six distinct and separate vectors of contamination have been identified. If a contaminant arises in the laboratory, the cultivator should systematically examine each vector category as being the possible cause. Through a process of elimination, the distressed cultivator can determine the vector through which contaminants spread. Once discovered, the vector can be closed and the threat eliminated. If one vector is open, a multitude of contaminants pass through it, often confounding the diagnoses of inexperienced cultivators.
 
 ## The Overriding Coefficients
 
@@ -56,8 +56,8 @@ Often the medium upon which a culture is grown becomes the contamination source.
 - Malt extract or potato dextrose agar: minimum 40 minutes at 15 psi (not the commonly cited 15-20 minutes, which is far too brief for endospore-forming bacteria in additives)
 - Soil extracts: soak 24 hours, then sterilize extracted water for 1+ hour (soil extracts are resplendent with contaminants)
 - Small batches of sawdust: 2 hours at 15 psi
-- Large autoclave loads of supplemented sawdust: 4+ hours at 19 psi (Badham 1988 found 4 hours at 19 psi equivalent to 14 hours at atmospheric pasteurization)
-- Bulk substrate: absolute sterilization is impractical; goal is reducing contaminants below threshold within the 2-week colonization window
+- Large autoclave loads of [[oyster-mushroom-supplemented-sawdust-blocks]]: 4+ hours at 19 psi (Badham 1988 found 4 hours at 19 psi equivalent to 14 hours at atmospheric pasteurization)
+- [[gottlieb-psilocybin-cultivation-bulk-substrate-preparation]]: absolute sterilization is impractical; goal is reducing contaminants below threshold within the 2-week colonization window
 
 **Key principle:** Increasing the spawn rate accelerates colonization, narrowing the window of opportunity for competitors. Should colonization not be complete in two weeks, contaminant development elsewhere is not unusual.
 
@@ -81,10 +81,10 @@ A single kernel of grain contaminated with Penicillium, surrounded by thousands 
 
 Insects (ants, flies), mites, and other mobile organisms transport contamination on their bodies and in their digestive tracts. Mites are particularly devastating -- nearly invisible, they can destroy entire cultures. Nematodes in substrate can also introduce bacterial contamination.
 
-**Note on Oyster mushrooms:** Thorn and Barron (1984) first noted that Pleurotus ostreatus exudes a metabolite toxic to nematodes. As the nematode lies stunned, mycelium invades through its orifices. This explains why nematodes have never been reported as a pathogen in Oyster cultivation, while they are economically devastating in Button mushroom (Agaricus brunnescens) cultivation.
+**Note on [[query-how-to-grow-oyster-mushrooms-at-home]]:** Thorn and Barron (1984) first noted that Pleurotus ostreatus exudes a metabolite toxic to nematodes. As the nematode lies stunned, mycelium invades through its orifices. This explains why nematodes have never been reported as a pathogen in [[gourmet-medicinal-mushroom-oyster-cultivation-methods]], while they are economically devastating in [[growing-gourmet-button-mushroom-agaricus-cultivation]] (Agaricus brunnescens) cultivation.
 
 ## The Blank Control Method
 
 The most powerful diagnostic tool: leave uninoculated samples ("blanks") at every step of cultivation. Observe for two weeks. Under ideal conditions, no contamination should occur no matter how long uninoculated media is stored. If blanks contaminate within 48-72 hours, media was insufficiently sterilized. If contamination appears near the end of two weeks, it is likely endemic to the laboratory environment.
 
-See also: [[mold-identification-guide]], [[agar-work-guide]], [[oyster-mushroom-clean-room-design]], [[mushroom-contamination-control-strategies]]
+See also: [[mold-identification-guide]], [[agar-work-guide]], [[oyster-mushroom-clean-room-design]], mushroom-contamination-control-strategies

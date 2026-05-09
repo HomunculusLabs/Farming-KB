@@ -5,7 +5,7 @@ type: species
 tags: [psilocybin-mushroom, agaricales, strophariaceae, mexico, indigenous-use]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+sources: sources: []
 ---
 
 # Psilocybe wassonii
@@ -18,7 +18,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 - **Species:** P. wassonii
 - **Authority:** Heim (1958)
 - **Synonyms:** Sometimes treated as a variety or synonym within the [[psilocybin]] and [[psilocybe-mexicana]] species complex, sharing similar alkaloid profiles
-- The strong bluing reaction suggests relatively high concentrations of psilocin
+- The strong [[field-guide-psilocybin-bluing-reaction-identification]] suggests relatively high concentrations of psilocin
 - Potency varies with altitude, substrate, and environmental conditions
 - Traditional preparations involve fresh consumption
 
@@ -26,7 +26,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 
 - Named in honor of R. Gordon Wasson, the American banker and amateur mycologist who, along with his wife Valentina Pavlovna Wasson, brought the knowledge of psychoactive mushrooms to Western attention
 - The Wassons participated in a velada (mushroom ceremony) with Mazatec curandera María Sabina in 1955, an event that launched the modern psychedelic movement
-- Part of the traditional Mazatec mushroom pharmacopeia used in healing ceremonies and divination
+- Part of the traditional [[maria-sabina-mazatec-mushroom-ceremony]] pharmacopeia used in healing ceremonies and divination
 - María Sabina used multiple species interchangeably in her ceremonies, including P. wassonii, [[psilocybe-mexicana]]
 - The Wasson expedition and subsequent publications by Roger Heim and Albert Hofmann led to the identification and synthesis of [[psilocybe-mexicana]] by its more robust size, more strongly viscid cap, and more intense bluing reaction
 - The gelatinous pellicle on the cap is more prominent than in related species
@@ -46,12 +46,12 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 ## Conservation
 
 - Wild populations may be threatened by habitat loss in Mexican highland forests
-- Climate change affecting cloud forest ecosystems may impact this species
+- [[dighton-fungi-climate-change-feedback]] affecting cloud forest ecosystems may impact this species
 - Traditional knowledge of use is at risk as younger generations move away from indigenous practices
 
 ## Legal Status
 
-- Protected under Mexican federal law alongside other psilocybin containing mushrooms
+- Protected under Mexican federal law alongside other psilocybin [[psilocybin-containing-mushrooms-in-us]]
 - Indigenous communities retain traditional use rights under certain circumstances
 - Classified as a controlled substance in most other jurisdictions worldwide
 ## Practical Considerations
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Fungal Spore Dispersal Mechanisms
+title: Fungal aquatic-fungi-spore-dispersal-ingold Mechanisms
 created: 2026-04-26
 tags:
   - spore-dispersal
@@ -16,7 +16,7 @@ type: concept
 
 # Fungal Spore Dispersal Mechanisms
 
-Spore dispersal is fundamental to fungal reproduction, colonization
+Spore dispersal is fundamental to [[bloomfield-fungal-reproduction-and-chemical-communication]], colonization
 of new substrata, and gene flow among populations. Fungi have evolved
 a remarkable diversity of dispersal mechanisms, from forcible
 ballistic discharge of spores into the air to passive transport by
@@ -27,7 +27,7 @@ primary dispersal vector.
 
 ## Adaptations in Sequestrate Fungi
 
-The loss of forcible spore discharge in sequestrate fungi
+The loss of forcible [[bloomfields-orchard-spore-discharge-mechanisms]] in sequestrate fungi
 necessitated the evolution of alternative dispersal strategies,
 primarily animal mycophagy. Sequestrate fungi produce aromatic
 compounds including pheromones that attract animals when spores
@@ -62,7 +62,7 @@ in some species.
 
 ## Dispersal in Dictyostelids
 
-Dictyostelid cellular slime molds are found worldwide in soil,
+Dictyostelid cellular [[bloomfield-slime-molds-myxomycetes-plasmodial-protists]] are found worldwide in soil,
 particularly in surface humus layers. Spores can be transported
 by invertebrates such as nematodes and small bacteria, by water,
 and by ground-feeding birds. Birds can transport spores of

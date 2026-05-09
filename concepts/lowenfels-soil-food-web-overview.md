@@ -25,7 +25,7 @@ Microbes."
 A mere teaspoon of good garden soil contains staggering numbers of organisms: a
 billion invisible bacteria, several yards of fungal hyphae, several thousand
 protozoa, and a few dozen nematodes. Visible organisms include earthworms (up to
-50 per square foot), centipedes, springtails, ants, slugs, beetle larvae, and
+50 per [[comparison-biointensive-vs-square-foot-gardening]]), centipedes, springtails, ants, slugs, beetle larvae, and
 more. An acre of good garden soil contains 2,000 pounds of bacteria, 2,400 pounds
 of fungi, 900 pounds each of earthworms, arthropods, and algae, and 133 pounds of
 protozoa. All share a common denominator: every organism needs carbon-based
@@ -39,13 +39,13 @@ and grow specific beneficial bacteria and fungi in the rhizosphere -- a zone
 extending about a millimeter from the root surface. Individual plants can control
 the numbers and types of fungi and bacteria attracted by the exudates they
 produce, changing these populations depending on their nutrient needs throughout
-the growing season. Plants are not passive recipients of soil nutrients; they
+the [[savory-growing-season-and-non-growing-season-management]]. Plants are not passive recipients of soil nutrients; they
 actively manage the soil food web for their own benefit.
 
 ## The Nutrient Cycle
 
 At the bottom of the soil food web are bacteria and fungi, which consume plant
-root exudates and are eaten by nematodes and protozoa. These larger microbes
+[[mycorrhizal-root-exudates-pathogen-interactions]] and are eaten by nematodes and protozoa. These larger microbes
 digest what they need and excrete excess nutrients as waste -- primarily ammonium
 -- directly in the rhizosphere, right where plant roots can absorb them. Soil
 bacteria and fungi act as "small bags of fertilizer," retaining nutrients in their
@@ -78,7 +78,7 @@ pathogens can gain the upper hand.
 
 The ratio of fungal to bacterial biomass is a critical indicator of soil health and
 determines what types of plants will thrive. Research by Dr. Ingham showed that
-the least disturbed soils (old growth timber) had far more fungi than bacteria,
+the least disturbed soils ([[fungal-roles-in-old-growth-forests]] timber) had far more fungi than bacteria,
 while disturbed soils (rototilled) had far more bacteria. Agricultural soils have
 an F:B ratio of 1:1 or less; forest soils have 10:1 or more. This ratio follows
 plant succession: early succession (weeds, annuals) is bacterially dominated, while
@@ -98,11 +98,11 @@ convert ammonium to nitrate.
 ## Human Impact
 
 Rototilling, spraying with herbicides and pesticides, compacting soil, and
-removing organic material all damage soil food webs. Chemical fertilizers kill off
+removing organic material all damage soil food webs. [[cervantes-chemical-fertilizers-guide]] kill off
 most or all soil food web microbes. Once a niche is destroyed, the web works
 imperfectly, and the gardener must step in to fill the gap. The alternative is to
 cooperate with nature by using the three soil food web tools: compost, mulch, and
-actively aerated compost tea. As Lowenfels and Lewis emphasize: "No one ever
+actively [[actively-aerated-compost-tea-aact-brewing]] tea. As Lowenfels and Lewis emphasize: "No one ever
 fertilized an old growth forest."
 
 ## See Also

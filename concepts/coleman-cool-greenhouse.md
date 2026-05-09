@@ -1,7 +1,7 @@
 ---
 title: The Cool Greenhouse (Heated Greenhouse for Seedlings and Early Crops)
 created: 2026-04-26
-sources: The Winter Harvest Handbook, Eliot Coleman (2009), Chapter 7
+sources: The coleman-claytonia-winter-harvest-cultivation Handbook, Eliot Coleman (2009), Chapter 7
 tags:
   - greenhouse
   - winter-harvest
@@ -19,7 +19,7 @@ Eliot Coleman's "cool greenhouse" concept represents a middle ground
 between fully unheated cold houses and traditional heated greenhouses.
 The cool greenhouse is maintained at a just-above-freezing nighttime
 temperature, providing enough heat to expand the range and number of
-winter crops without the energy costs of maintaining warm-season
+[[coleman-semi-hibernating-winter-crops-harvest-extension]] without the energy costs of maintaining warm-season
 temperatures.
 
 Coleman compares this minimal-heat approach to hybrid automobile
@@ -70,7 +70,7 @@ Several design choices maximize the efficiency of the cool greenhouse:
   four-inch air space created by an inflation fan, which research
   shows can lower fuel consumption by up to 40 percent
 - Tight construction with well-fitting doors and vents to prevent
-  cold air infiltration
+  [[hemenway-cold-air-drainage-and-frost-management]] infiltration
 - Careful attention to sealing any gaps that could allow heat loss
 
 ## Heating Options
@@ -107,7 +107,7 @@ narrow-stem chard, claytonia, minutina, spinach, mache,
 watercress, and beet leaves. Coleman's advertising cites USDA
 nutritional data showing this blend contains at least five times
 more calcium, four times more iron, twelve times more vitamin A,
-and six times more vitamin C than head lettuce salad.
+and six times more vitamin C than head [[growing-lettuce-salad-greens]].
 
 Quality is the primary concern. Coleman does not sell ingredients
 that are too large, bitter, tough, stringy, or frost-damaged.
@@ -124,11 +124,11 @@ challenge of the simple, minimalist, unheated approach is where
 the hearts of the operation lie. Only one small growing area
 retains minimal heat for occasional trials. The cool greenhouse
 remains a proven option for growers in colder climates who need
-to maximize winter income per square foot.
+to maximize winter income per [[comparison-biointensive-vs-square-foot-gardening]].
 
 ## See Also
 
 - [[coleman-winter-harvest-philosophy]]
-- [[coleman-greenhouse-soil-management]]
+- coleman-greenhouse-soil-management
 - [[coleman-succession-planting]]
 - [[coleman-marketing-economics]]

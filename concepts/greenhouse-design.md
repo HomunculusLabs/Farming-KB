@@ -1,6 +1,6 @@
 ---
 
-title: Greenhouse Design for Homestead Scale
+title: passive-solar-design for Homestead Scale
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -32,17 +32,17 @@ sources:
 
 # Greenhouse Design for Homestead Scale
 
-A greenhouse extends the growing season, protects crops from weather, and enables year-round production. For homestead scale (500-2000 sq ft), design choices balance cost, durability, and passive climate management.
+A greenhouse extends the [[savory-growing-season-and-non-growing-season-management]], protects crops from weather, and enables year-round production. For homestead scale (500-2000 sq ft), design choices balance cost, durability, and passive climate management.
 
 ## Types by Scale and Complexity
 
 **Cold Frame** — Simple bottomless box with angled glazing. 2-8 sq ft. Extends season 4-6 weeks in spring/fall. Best for hardening off seedlings, growing cold-hardy greens. DIY cost: $50-150.
 
-**Low Tunnel** — Metal or PVC hoops covered with row cover or poly film. 3-4 ft tall, any length. Portable, excellent for [[cover-cropping-guide]] beds and season extension. Cost: $0.50-1.00/linear ft.
+**Low Tunnel** — Metal or PVC hoops covered with row cover or poly film. 3-4 ft tall, any length. Portable, excellent for [[cover-cropping-guide]] beds and [[comparison-season-extension-techniques-vs-cold-frame-gardening]]. Cost: $0.50-1.00/linear ft.
 
-**High Tunnel / Hoop House** — Quonset or gothic arch, 12-30 ft wide, any length. No permanent heating. Roll-up sides for ventilation. The core homestead workhorse — Eliot Coleman's "unheated greenhouse" model. Cost: $2-6/sq ft (DIY) to $8-15/sq ft (kit).
+**High Tunnel / Hoop House** — Quonset or gothic arch, 12-30 ft wide, any length. No permanent heating. Roll-up sides for ventilation. The core homestead workhorse — Eliot Coleman's "[[coleman-unheated-greenhouse-design]]" model. Cost: $2-6/sq ft (DIY) to $8-15/sq ft (kit).
 
-**Attached Lean-To** — Shares a wall with an existing structure. Good passive solar gain from the house wall as thermal mass. Limited by available wall length. Structural attachment must handle wind/snow loads.
+**Attached Lean-To** — Shares a wall with an existing structure. Good [[comparison-passive-solar-vs-earth-sheltered]] gain from the house wall as thermal mass. Limited by available wall length. Structural attachment must handle wind/snow loads.
 
 **Freestanding Greenhouse** — Full独立 structure with foundation. Highest control over environment. Suitable for [[composting-systems]] integration, [[seed-saving-techniques]], and year-round growing. Cost: $10-30/sq ft.
 
@@ -78,7 +78,7 @@ Ventilation is the #1 priority — more plants die from heat and humidity than c
 ## Cooling
 
 - **Shade cloth** — 30-50% woven polypropylene on exterior. Remove for winter. Essential above 85°F.
-- **Evaporative cooling** — Fan-and-pad systems (wet wall on one end, exhaust on other). Effective in dry climates; less so in humid zones.
+- **[[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]]** — Fan-and-pad systems (wet wall on one end, exhaust on other). Effective in dry climates; less so in humid zones.
 - **Natural ventilation** — Sufficient roll-up sides + ridge vents handle cooling to ~85°F in most climates without power.
 
 ## Year-Round Growing Schedule (Zone 7-8)

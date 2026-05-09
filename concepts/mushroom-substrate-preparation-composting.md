@@ -1,5 +1,5 @@
 ---
-title: Mushroom Substrate Preparation and Composting
+title: Mushroom cotter-compost-substrate-preparation-manure-mushroom-cultivation and Composting
 created: 2026-04-28
 tags: mycology, mushroom-cultivation, composting, agricultural-science,
       fungal-physiology]
@@ -13,9 +13,9 @@ type: concept
 
 ## Overview
 
-Substrate preparation is the most critical phase of commercial mushroom
+[[substrate-preparation]] is the most critical phase of commercial mushroom
 cultivation. The process transforms raw organic materials into a selective
-medium that supports vigorous mushroom mycelial growth while suppressing
+medium that supports vigorous mushroom [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] while suppressing
 competing microorganisms. For [[mycelium]]; too little limits microbial activity needed for
 [[benjamin-minge-duggar-mushroom-cultivation-research]]
 - [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]
@@ -36,7 +36,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -86,7 +86,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -96,4 +96,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

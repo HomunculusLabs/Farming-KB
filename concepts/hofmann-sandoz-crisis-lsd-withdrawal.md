@@ -1,5 +1,5 @@
 ---
-title: "Sandoz Crisis and Withdrawal of LSD from Distribution"
+title: "hofmann sandoz crisis lsd withdrawal and Withdrawal of LSD from Distribution"
 created: 2026-04-28
 tags: [lsd, sandoz, hofmann, drug-policy, history, pharmaceutical]
 date: 2026-04-25
@@ -68,7 +68,7 @@ continued distribution impossible:
 
 3. **Fermentation technology**: The problem of availability of LSD,
    once limited on technical grounds, had fundamentally changed with
-   the advent of mass production of lysergic acid by fermentation
+   the advent of mass production of [[ergot-and-lysergic-acid-history]] by fermentation
    procedures. Since the last patent on LSD expired in 1963, an
    increasing number of dealers in fine chemicals were offering LSD
    from unknown sources at the high price paid by LSD enthusiasts
@@ -93,7 +93,7 @@ could again be supplied with LSD and psilocybin if they could produce a
 special permit from the respective national health authorities.
 
 ### The NIMH Takes Over
-In the United States, the National Institute of Mental Health (NIMH)
+In the [[dmt-containing-plants-united-states-halpern]], the National Institute of Mental Health (NIMH)
 undertook the distribution of these agents to licensed research
 institutes, replacing the Sandoz free-distribution program.
 

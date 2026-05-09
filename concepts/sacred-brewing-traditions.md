@@ -22,9 +22,9 @@ The concept of "liquid bread" in these cultures reflects the understanding that 
 
 Norse mythology is rich with references to ale, mead, and fermentation. The god Odin was associated with poetic inspiration and mead, and the mythical Mead of Poetry was said to grant wisdom and the ability to compose verse. The drinking horn was a sacred ritual object, and communal drinking was central to Norse social and religious life.
 
-The Viking-era ale feasts (sumbl) were ritual drinking ceremonies with strict protocols. The first toast was always to Odin, followed by toasts to Njord and Freyr for peace and good harvest. The ritual structure of these drinking ceremonies suggests that the intoxicating effects of the beverage were understood as a means of accessing spiritual insight.
+The Viking-era ale feasts (sumbl) were ritual drinking ceremonies with strict protocols. The first toast was always to Odin, followed by toasts to Njord and Freyr for peace and good harvest. The [[metzner-hybrid-circle-ritual-structure-and-council-practice]] of these drinking ceremonies suggests that the intoxicating effects of the beverage were understood as a means of accessing spiritual insight.
 
-Many scholars believe that Norse and Germanic ales contained herbs beyond simple gruit mixtures. The sagas reference herbs like bog myrtle and henbane being added to ale, suggesting that at least some ceremonial brews were intentionally psychoactive. The sacred mushrooms of northern Europe (Amanita muscaria) may also have been incorporated into fermented beverages.
+Many scholars believe that Norse and Germanic ales contained herbs beyond simple gruit mixtures. The sagas reference herbs like bog myrtle and henbane being added to ale, suggesting that at least some ceremonial brews were intentionally psychoactive. The [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]] of northern Europe ([[allegro-amanita-muscaria-properties-and-pharmacology]]) may also have been incorporated into fermented beverages.
 
 ## Indigenous American Brewing Traditions
 
@@ -60,7 +60,7 @@ Chinese medicinal wines (yaojiu) involve steeping herbs, animal products, and ot
 
 The industrialization of brewing in the 19th and 20th centuries largely severed the connection between brewing and the sacred. Beer became a commercial commodity rather than a sacred substance. The standardization of ingredients, the elimination of herbal additives, and the concentration of production in large factories all contributed to this loss.
 
-However, the modern craft brewing revival has reawakened interest in sacred and historical brewing traditions. Brewers are experimenting with ancient recipes, traditional herbs, and indigenous fermentation methods. The renewed interest in herbal beers, wild fermentation, and indigenous brewing practices represents a partial recovery of the sacred dimension of brewing.
+However, the modern craft brewing revival has reawakened interest in sacred and historical brewing traditions. Brewers are experimenting with ancient recipes, traditional herbs, and indigenous fermentation methods. The renewed interest in herbal beers, [[comparison-wild-fermentation-vs-commercial-starter-culture]], and indigenous brewing practices represents a partial recovery of the sacred dimension of brewing.
 
 ## Principles of Sacred Brewing
 
@@ -75,9 +75,11 @@ Several common principles emerge across the world's sacred brewing traditions:
 
 ## See Also
 
+- [[sacred-meal-ancient-traditions]]
+
 - [[gruit-beer-and-herbs]] for sacred European herbal brewing
 - herbal beer ingredients for psychoactive and medicinal brewing herbs
-- wild fermentation vs cultured yeast for the spiritual dimension of wild fermentation
+- wild [[wild-fermentation-vs-cultured-yeast]] yeast for the spiritual dimension of wild fermentation
 - [[mead-making-guide]] for the sacred history of mead
 - [[herbal-medicine-making-basics]]
 - [[wild-fermentation-vs-cultured-yeast]]

@@ -11,7 +11,7 @@ entity_type: "compound"
 source: "TIHKAL"
 source_entry: "#43"
 classification: ["tryptamine", "psychedelic", "dissociative"]
-synthesis_method: "from 5-methoxyindole via oxalyl chloride and pyrrolidine"
+synthesis_method: "from 5-methoxyindole via [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] and pyrrolidine"
 status: ["research chemical", "unscheduled"]
 legal_status: ["varies by jurisdiction"]
 created: 2026-04-15
@@ -31,7 +31,7 @@ sources:
 
 The molecular formula is C15H20N2O. The free base is an off-white oil that does not crystallize. The hydrochloride salt has a melting point of 164-167 degrees Celsius when recrystallized from methanol and benzene.
 
-Mass spectral data shows the characteristic C5H10N+ fragment at m/z 84 (100%), the methoxyindolemethylene+ fragment at m/z 160 (4%), and the parent ion at m/z 244 (6%).
+Mass [[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]] shows the characteristic C5H10N+ fragment at m/z 84 (100%), the methoxyindolemethylene+ fragment at m/z 160 (4%), and the parent ion at m/z 244 (6%).
 
 This compound represents one of the heterocyclic tryptamines in which the two nitrogen alkyl groups are joined into a ring structure. The pyrrolidine ring is the five-membered version of this structural motif, making it the smallest of the cyclic amine substituents explored in the TIHKAL series.
 
@@ -71,7 +71,7 @@ The glyoxylamide intermediates for 5-MeO-pip-T and 5-MeO-mor-T were prepared but
 
 5-MeO-pyr-T presents significant safety concerns that are unusual for the tryptamine class. Reports of prolonged unconsciousness (up to four hours or more), complete amnesia for the experience period, and residual effects lasting days to potentially a week place this compound in a higher risk category than typical psychedelic tryptamines.
 
-The skin abnormalities reported by one subject lasting several days after use suggest possible systemic toxicity that is not characteristic of other tryptamines. The extreme inter-individual variability in both effects and recovery time makes it impossible to establish safe dosage guidelines.
+The skin abnormalities reported by one subject lasting several days after use suggest possible systemic toxicity that is not characteristic of other tryptamines. The extreme inter-individual variability in both effects and recovery time makes it impossible to establish safe [[blesching-cannabis-health-index-dosage-guidelines-medical]].
 
 The compound should be considered potentially dangerous and should not be used without appropriate medical supervision and [[5-meo-dmt-entity-tihkal]] - the N,N-dimethyl counterpart, profoundly different profile
 - [[pyr-t-entity-tihkal]] - the unsubstituted pyrrolidine tryptamine
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

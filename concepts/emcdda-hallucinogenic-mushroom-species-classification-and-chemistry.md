@@ -1,5 +1,5 @@
 ---
-title: Hallucinogenic Mushroom Species Classification and Chemistry
+title: emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Species Classification and Chemistry
 created: 2026-04-28
 tags:
   - mycology
@@ -17,7 +17,7 @@ type: concept
 
 # Hallucinogenic Mushroom Species Classification and Chemistry
 
-The EMCDDA 2006 thematic paper on hallucinogenic mushrooms provided a systematic
+The EMCDDA 2006 thematic paper on [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] provided a systematic
 overview of the taxonomy, chemistry, and classification of psilocybin-containing
 fungi, documenting the complexity of their mycological classification alongside
 the different chemical compounds they produce. Understanding this taxonomy is
@@ -64,7 +64,7 @@ families:
 The list of species and their geographical distribution is constantly being revised
 by mycologists as new species are identified and existing classifications are
 refined through molecular phylogenetics. The complexity of classification means
-that definitive identification often requires microscopic examination of spore
+that definitive identification often requires [[fungal-microscopic-examination-mounting-media-techniques]] of spore
 characteristics.
 
 ## Key Species in Recreational Use
@@ -79,7 +79,7 @@ encountered species include:
   allows fresh specimens to remain viable for seven to ten days, making it ideal
   for commercial distribution.
 
-- **Psilocybe semilanceata** (liberty caps): The most common wild European
+- **[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** (liberty caps): The most common wild European
   hallucinogenic mushroom, found in wet grassy fields and uncultivated pastures
   throughout central and northern Europe, including the UK, Norway, and Germany.
   This is the species most commonly foraged by wild mushroom hunters in Europe.
@@ -87,7 +87,7 @@ encountered species include:
 - **Psilocybe cyanescens** (wavy caps): Found in Europe and North America,
   typically among wood chips and decomposing woody material in landscaped areas.
 
-- **Psilocybe mexicana and Psilocybe tampanensis**: These species form sclerotia,
+- **Psilocybe mexicana and [[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]**: These species form sclerotia,
   hardened masses of mycelium that serve as a defense mechanism against adverse
   environmental conditions including dryness, cold, heat, and excessive moisture.
   Known commercially as "truffles" or "philosopher's stone," these are sold by
@@ -100,7 +100,7 @@ particularly in tropical and subtropical regions.
 
 A critical taxonomic and safety distinction must be drawn between the
 psilocybin-containing mushrooms and those of the Agaric family (Agaricaceae),
-particularly Amanita muscaria (fly agaric). The active chemicals in Amanita
+particularly [[allegro-amanita-muscaria-properties-and-pharmacology]] (fly agaric). The active chemicals in Amanita
 species, muscimol, ibotenic acid, and muscarine, are chemically entirely different
 from the tryptamines found in psilocybin mushrooms. Amanita species carry
 substantial toxicity risks, and some closely related Amanita species are among the

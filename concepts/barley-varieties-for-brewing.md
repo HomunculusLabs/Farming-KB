@@ -5,11 +5,11 @@ updated: 2026-04-17
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources: []
 ---
 # Barley Varieties for Brewing
 
-Barley (Hordeum vulgare) is the primary grain used in beer production worldwide. Not all barley is suitable for brewing -- malting barley differs from feed or food barley in key characteristics. Understanding barley varieties helps brewers make informed decisions about grain selection and helps growers choose the right varieties for their conditions.
+Barley (Hordeum vulgare) is the primary grain used in beer production worldwide. Not all barley is suitable for brewing -- malting barley differs from feed or food barley in key characteristics. Understanding barley varieties helps brewers make informed decisions about [[mushroom-cultivator-grain-selection-moisture]] and helps growers [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] varieties for their conditions.
 
 ## Malting Barley vs Feed Barley
 
@@ -44,7 +44,7 @@ Major two-row varieties include Maris Otter (the classic English malting barley)
 
 ### Six-Row Barley
 
-Six-row barley has six rows of kernels on each ear, though the kernels are smaller. It was historically dominant in American brewing because it grows well in the North American climate and has higher enzyme content.
+Six-row barley has six rows of kernels on each ear, though the kernels are smaller. It was historically dominant in American brewing because it grows well in the [[growing-gourmet-north-american-reishi-species]] climate and has higher enzyme content.
 
 Advantages of six-row barley:
 
@@ -52,7 +52,7 @@ Advantages of six-row barley:
 - Better adaptation to hot, dry conditions
 - Higher protein content provides more nutrients for yeast (but can be excessive)
 
-Six-row varieties include Larker, Morex, Excel, and Robust. These are primarily grown in the Upper Midwest of the United States.
+Six-row varieties include Larker, Morex, Excel, and Robust. These are primarily grown in the Upper Midwest of the [[dmt-containing-plants-united-states-halpern]].
 
 ## Major European Malting Barley Varieties
 
@@ -94,7 +94,7 @@ Barley varieties are classified as either winter or spring types based on their 
 
 ### Spring Barley
 
-Planted in early spring and harvested in late summer. Spring barley is the most common type for malting because it generally produces lower protein content and more consistent quality. Most craft maltsters prefer spring varieties.
+Planted in [[coleman-overwintered-onions-and-early-spring-crops]] and harvested in late summer. Spring barley is the most common type for malting because it generally produces lower protein content and more consistent quality. Most craft maltsters prefer spring varieties.
 
 ### Winter Barley
 
@@ -114,6 +114,6 @@ Home growers interested in malting barley should consider:
 ## See Also
 
 - [[beer-brewing-basics]] for using malt in the brewing process
-- [[grain-cultivation-small-scale]] for grain farming fundamentals
+- [[grain-cultivation-small-scale]] for [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]] fundamentals
 - [[ale-vs-lager-fermentation]] for how barley choice affects fermentation
 - [[fukuoka-natural-rice-barley-cultivation]]

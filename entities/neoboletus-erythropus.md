@@ -10,9 +10,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Kuo, M. (2024). \"Boletes of North America.\" MushroomExpert.com."
+  - "Kuo, M. (2024). \"Boletes of psilocybin-north-america-pacific-northwest.\" MushroomExpert.com."
   - "Watling, R. (1970). \"British Boletes.\" J. Cramer, Lehre."
-  - "Hall, I.R. et al. (1998). \"Edible and Poisonous Mushrooms of the World.\" Timber Press."
+  - "Hall, I.R. et al. (1998). \"Edible and [[palmer-poisonous-mushrooms-deadly-species]] of the World.\" Timber Press."
   - "Kumar, T.K.A. & Manimohan, P. (2005). \"Boletes from Kerala State, India.\" Kavaka, 33, 53–76."
   - "Krieglsteiner, G.J. (2000). \"Die Großpilze Baden-Württembergs." Eugen Ulmer Verlag."created: 2026-05-07
 
@@ -53,7 +53,7 @@ The species forms ectomycorrhizal associations primarily with conifers, especial
 
 Fruiting occurs from July to October, with peak abundance in late summer to early autumn. It is more common in humid, montane and subalpine forests.
 
-The mushroom is found solitarily or in small groups, often on acidic soils. It prefers mature forest stands with established mycorrhizal networks.
+The mushroom is found solitarily or in small groups, often on acidic soils. It prefers mature forest stands with established [[dighton-mycorrhizal-networks-carbon-transfer]].
 
 ## Edibility
 
@@ -77,9 +77,9 @@ Preliminary screening for antimicrobial activity in related Neoboletus species h
 
 ## Ecology and Applications
 
-As an ectomycorrhizal fungus, Neoboletus erythropus plays an important role in forest nutrient cycling. It facilitates phosphorus and nitrogen uptake for host trees in exchange for photosynthetically derived carbohydrates.
+As an ectomycorrhizal fungus, Neoboletus erythropus plays an important role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. It facilitates phosphorus and nitrogen uptake for host trees in exchange for photosynthetically derived carbohydrates.
 
-The species contributes to soil aggregation and organic matter decomposition through its extensive mycelial networks. It is sensitive to forest disturbance and soil compaction, making it an indicator of forest ecosystem health.
+The species contributes to soil aggregation and organic matter decomposition through its extensive [[fungal-mycelial-networks-nutrient-translocation]]. It is sensitive to forest disturbance and soil compaction, making it an indicator of forest ecosystem health.
 
 In forestry applications, ectomycorrhizal boletes including Neoboletus species are increasingly recognized for their role in reforestation success. Inoculation of seedlings with compatible mycorrhizal fungi improves transplant survival.
 
@@ -103,7 +103,7 @@ The species is listed on several national red lists in central European countrie
 
 Collection pressure from foragers is minimal due to the species' moderate culinary reputation. Habitat loss from clear-cut forestry and soil acidification poses a greater threat to long-term population stability.
 
-Climate change may affect distribution patterns, as ectomycorrhizal fungi are sensitive to temperature and precipitation shifts in their host tree species' ranges.
+Climate change may affect [[guzman-global-distribution-patterns-neurotropic-fungi]], as ectomycorrhizal fungi are sensitive to temperature and precipitation shifts in their host tree species' ranges.
 
 ## See Also
 

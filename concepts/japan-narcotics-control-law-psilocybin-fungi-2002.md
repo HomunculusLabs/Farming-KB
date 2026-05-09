@@ -7,10 +7,10 @@ Prior to this amendment, dried  were sold openly in Japanese shops, head shops, 
 through mail-order catalogs as legal "herbal products" or "aromatic herbs," despite containing significant
 quantities of the Schedule I  [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]] selling dried mushroom
 products across th  he 2002 ban.
-Several factors contributed to the popularity of psilocybin mushrooms in Japan during this period, including
+Several factors contributed to the popularity of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] in Japan during this period, including
 their relative affordability compared to other recreational substances, their natural and "organic" image
 that appealed to health-conscious consumers, and the widespread perception that they were legal and safe.
-Research by Adlaf et al. and colleagues examining substance use patterns found that psychedelic mushroom users
+Research by Adlaf et al. and colleagues examining substance use patterns found that [[archaeology-of-psychedelic-mushroom-use]] users
 typically reported lower guilt awareness and perceived lower legal risk compared to users of synthetic drugs,
 a perception that was reinforced by the open retail availability of mushrooms in Japanese commercial venues.
 The mushrooms were marketed under various euphemistic names including "magic mushrooms," "herbal ecstasy,"
@@ -46,12 +46,12 @@ and purification method employed.
 Chemical synthesis provides a more reliable and scalable route to analytical reference standards of
 consistent purity and known stereochemistry, essential for establishing validated analytical methods and
 ensuring legally defensible results in criminal prosecutions involving psilocybin-containing fungi.
-The Shirota group's development of a concise, gram-scale synthesis of both psilocin and psilocybin with
+The Shirota group's development of a concise, gram-scale synthesis of both [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] with
 high yields and minimal chromatographic purification requirements directly addressed this need, producing
 reference-grade material suitable for calibration of analytical instruments including ESIMS and HPLC systems
 used in Japanese forensic laboratories.
 Their synthetic route, proceeding from commercially available 4-hydroxyindole through acetylation, oxalyl
-chloride acylation, dimethylamine amidation, and LiAlH4 reduction to psilocin, followed by phosphorylation
+[[shirota-glyoxalylamide-intermediate-oxalyl-chloride-acylation-pathway]], dimethylamine amidation, and LiAlH4 reduction to psilocin, followed by phosphorylation
 and hydrogenolysis to psilocybin, provided a practical and reproducible pathway to the needed reference
 standards without requiring exotic reagents or specialized equipment.
 ## Forensic Implications and Laboratory Implementation
@@ -62,7 +62,7 @@ Electrospray ionization mass spectrometry (ESIMS) was employed in the Shirota st
 confirmation of synthetic intermediates and final products, providing accurate mass measurements that
 distinguish psilocybin (molecular weight 284.1 g/mol) from psilocin (molecular weight 204.3 g/mol) and from
 numerous structural analogues and degradation products.
-The availability of synthetic reference standards enabled the development of validated quantitative HPLC
+The availability of [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] standards enabled the development of validated quantitative HPLC
 methods with internal standard calibration, allowing forensic laboratories to determine the exact
 concentration of psilocybin and psilocin in seized materials and to establish threshold values for
 determining whether a sample contains controlled substances above the statutory minimum concentrations.
@@ -95,7 +95,7 @@ regulatory overhead to research programs but also formalized the legal framework
 scientific investigations could proceed with appropriate oversight and institutional approval.
 Shirota, Hakamata, and Goda's synthesis work at the National Institute of Health Sciences in Japan exemplified
 the type of government-supported research that the regulatory environment both necessitated and enabled,
-as forensic standard production required precisely the kind of rigorous, reproducible chemistry that the
+as [[shirota-forensic-standard-compounds-magic-mushroom-identification]] production required precisely the kind of rigorous, reproducible chemistry that the
 peer-reviewed J. Natural Products publication documented.
 Their work also contributed to the broader natural products chemistry literature by demonstrating practical
 synthetic approaches to indole alkaloids that could be adapted for the preparation of other bioactive
@@ -116,6 +116,8 @@ The synthesis demonstrates how regulatory imperatives can catalyze chemical inno
 practical methodologies that serve both the immediate forensic needs that motivated them and the longer-term
 scientific research programs that benefit from reliable access to well-characterized reference compounds.
 ## See Also
+
+- [[psilocybian-fungi-law-australia-nz]]
 - 
 - 
 - 

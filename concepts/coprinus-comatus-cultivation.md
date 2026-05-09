@@ -1,5 +1,5 @@
 ---
-title: Coprinus comatus Cultivation — Shaggy Mane
+title: stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation Cultivation — Shaggy Mane
 created: 2026-04-22
 updated: 2026-04-22
 type: concept
@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-The Shaggy Mane (*Coprinus comatus*) is one of the most recognizable and beloved edible mushrooms in temperate regions worldwide. Known for its tall, cylindrical cap covered in ascending scales, this mushroom has a mild, excellent flavor but is limited in commercial potential by its rapid self-dissolution — a process called deliquescence, where the gills liquefy into a black, spore-laden ink within hours of maturity. Despite this challenge, Shaggy Manes adapt well to both indoor and outdoor cultivation on a variety of substrates.
+The Shaggy Mane (*Coprinus comatus*) is one of the most recognizable and beloved [[palmer-edible-mushrooms-north-america]] in temperate regions worldwide. Known for its tall, cylindrical cap covered in ascending scales, this mushroom has a mild, excellent flavor but is limited in commercial potential by its rapid self-dissolution — a process called deliquescence, where the gills liquefy into a black, spore-laden ink within hours of maturity. Despite this challenge, Shaggy Manes adapt well to both indoor and outdoor cultivation on a variety of substrates.
 
 ## Taxonomy and Description
 
@@ -30,17 +30,17 @@ Shaggy Manes grow throughout temperate regions of the world, fruiting in late su
 
 ### Substrate Preparation
 
-The preferred substrate for [[query-what-is-the-difference-between-a-casing-layer-and-a-bulk-substrate]] composed of peat moss and gypsum is highly beneficial. After the compost is fully colonized (approximately two weeks), a moist casing layer is applied. Within 10 days, the cottony mycelium becomes visible reaching through the upper surface of the casing.
+The preferred substrate for [[query-what-is-the-difference-between-a-casing-layer-and-a-bulk-substrate]] composed of peat moss and gypsum is highly beneficial. After the compost is fully colonized (approximately two weeks), a moist [[gourmet-medicinal-mushroom-casing-layer-techniques]] is applied. Within 10 days, the cottony mycelium becomes visible reaching through the upper surface of the casing.
 
 ### Spawn and Inoculation
 
-Shaggy Manes are adaptive to [[spawn-grain-to-grain-transfer]] can be created with ease. Hardwood [[mushroom-primordia-formation-triggers]].
+Shaggy Manes are adaptive to [[spawn-grain-to-grain-transfer]] can be created with ease. Hardwood mushroom-primordia-formation-triggers.
 
-Yields can be substantially increased if the casing layer is vigorously raked just as the mycelium begins to show on the surface. This disturbance triggers a more abundant primordia formation.
+Yields can be substantially increased if the casing layer is vigorously raked just as the mycelium begins to show on the surface. This disturbance triggers a more abundant [[growing-gourmet-primordia-formation-pinning]].
 
 ### Outdoor Cultivation
 
-Shaggy Manes are an excellent choice for outdoor mushroom patches and garden integration. Once established, patches can fruit for many years. The mycelium tends to wander, often fruiting meters away from the original inoculation site. Inoculation into manure-enriched soils or 4–6 inch deep beds of hardwood sawdust works well. Newly laid or fertilized lawns that are frequently watered are perfect habitats.
+Shaggy Manes are an excellent choice for [[cotter-outdoor-mushroom-garden-mulch-beds]] patches and garden integration. Once established, patches can fruit for many years. The mycelium tends to wander, often fruiting meters away from the original inoculation site. Inoculation into manure-enriched soils or 4–6 inch deep beds of hardwood sawdust works well. Newly laid or fertilized lawns that are frequently watered are perfect habitats.
 
 ## Growth Parameters
 
@@ -51,7 +51,7 @@ Shaggy Manes are an excellent choice for outdoor mushroom patches and garden int
 - Duration: 12–14 days
 - CO2: 5,000–20,000 ppm
 - Fresh Air Exchanges: 0–1 per hour
-- Light Requirements: n/a
+- [[growing-gourmet-light-requirements-mushroom-fruiting]]: n/a
 
 ### Primordia Formation
 
@@ -76,7 +76,11 @@ Two to three flushes, four to ten days apart.
 
 ## Yield and Harvesting
 
-When soya flour was added at a rate giving the substrate 0.5% nitrogen content, yields approached 80% [[mushroom-composting]]
+When soya flour was added at a rate giving the substrate 0.5% nitrogen content, yields approached 80% mushroom-composting
 - [[mushroom-yield-optimization]]
 - [[companion-cultivation-of-mushrooms-with-garden-vegetables]]
-- [[mushroom-crop-scheduling]]
+- mushroom-crop-scheduling
+
+## See Also
+
+- [[coprinus-comatus]]

@@ -109,7 +109,7 @@ have demonstrated anti-tumor properties in laboratory studies.
 ## HPV Connection
 
 Human papillomavirus (HPV) is the primary risk factor for cervical cancer. The
-endocannabinoid system's role in immune modulation suggests that cannabinoids
+endocannabinoid system's role in [[cancer-immune-modulation-mechanisms]] suggests that cannabinoids
 may support the body's natural defense against viral infections. The ECS
 influences both innate and adaptive immune responses, and CB2 receptor
 activation has been shown to modulate immune function without producing
@@ -117,7 +117,7 @@ psychoactive effects.
 
 ## Clinical Significance
 
-While the CHI score for cervical cancer is relatively low (2), the finding
+While the [[blesching-cannabis-chi-score-methodology]] for cervical cancer is relatively low (2), the finding
 that anandamide can both protect healthy cervical cells and induce apoptosis
 in cancerous cells via CB1 and CB2 receptors is significant. This dual action
 -- protective and therapeutic -- through the body's own endocannabinoid
@@ -136,5 +136,5 @@ yourself, and appreciating the source of your creativity.
 ## See Also
 
 - [[cannabis-and-endometriosis]]
-- [[blesching-endocannabinoid-system-overview]]
+- [[endocannabinoid-system-overview]]
 - [[blesching-cannabis-cancer-symptoms]]

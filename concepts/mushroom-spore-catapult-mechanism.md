@@ -1,29 +1,19 @@
 ---
-title: Mushroom Spore Catapult Mechanism
+title: emcdda-hallucinogenic-mushroom-spore-distribution-home-cultivation [[fungal-spore-discharge-catapult-mechanism]]
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [[mycology, mushrooms, cultivation]
+tags: [mycology, mushrooms, cultivation]
 sources: []
 ---
-# Mushroom Spore Catapult Mechanism
-
-Updated: 2026-2026-04-18
-
-The spore catapult is the high-speed launch mechanism that ejects basidiospores from the gills,
-pores, or spines of mushroom fruiting bodies. It is driven by the [[mushroom-evaporative-cooling]] of the mushroom, which creates supersaturated
-conditions between the gills.
-
-## Gasteromycete Contrast
-
-[[fungal-amber-fossils]] shows that the catapult mechanism
+# Mushroom Spore Catapult Mechanism Updated: 2026-2026-04-18 The spore catapult is the high-speed launch mechanism that ejects basidiospores from the gills, pores, or spines of mushroom fruiting bodies. It is driven by the mushroom-evaporative-cooling of the mushroom, which creates supersaturated conditions between the gills. ## Gasteromycete Contrast [[fungal-amber-fossils]] shows that the catapult mechanism
 was already operating in mushrooms 90+ million years ago. The hilar appendix is visible on
 spores from amber-preserved mushrooms, making the catapult one of the oldest known biological
 mechanisms of its kind.
 
 ## Related Topics
 
-- [[mushroom-evaporative-cooling]] - Cooling that enables water condensation
+- mushroom-evaporative-cooling - Cooling that enables water condensation
 - [[fungal-spore-biology]] - Spore structure and diversity
 - [[fungal-amber-fossils]] - Fossil evidence of the mechanism
 
@@ -47,7 +37,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -97,7 +87,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -107,4 +97,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,6 +1,6 @@
 ---
 
-title: Integrated Homestead Annual Calendar
+title: Integrated integrated homestead annual calendar Calendar
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -59,7 +59,7 @@ Seasonal integration map — how all homestead systems overlap and support each 
 1. **Rain** → roof catchment → tanks → irrigation
 2. **Spring/well** → [[homestead-water-systems]] → house + livestock
 3. **Pond overflow** → swale/irrigation → garden → subsurface → pond/well
-4. **Greywater** → constructed wetland → [[food-forest-design]] irrigation
+4. **Greywater** → [[comparison-constructed-wetland-vs-backyard-pond]] → [[food-forest-design]] irrigation
 5. **Soil organic matter** (1% OM ≈ 20,000 gal/acre storage) → plant-available moisture
 
 ## Spring Integration (March–May)
@@ -74,7 +74,7 @@ Seasonal integration map — how all homestead systems overlap and support each 
 ### Key Integration Moments
 - Duck manure + bedding from spring cleaning → hot compost → garden beds by June
 - Goat kids consuming milk → excess whey from [[dairy-and-cheesemaking]] → compost or animal feed
-- Orchard prunings → fresh mushroom substrate ([[mushroom-substrates]])
+- Orchard prunings → fresh [[gourmet-medicinal-mushroom-substrate-preparation]] ([[mushroom-substrates]])
 - Cover crop termination → biomass sheet-mulched into garden beds
 - First [[indigenous-microorganisms-imo]] collection of the year from forest floor
 
@@ -83,7 +83,7 @@ Seasonal integration map — how all homestead systems overlap and support each 
 ### System Overlaps
 - **Animals**: Maximum forage. Ducks on pasture rotation. Goats browsing [[food-forest-design]] edges.
 - **Soil**: Mulch all beds heavily. [[compost-tea-aact]] every 2 weeks. KNF inputs per [[nutritive-cycle-theory]].
-- **Cannabis**: Vegetative growth → flip to flower ([[cannabis-flowering-stage]]). Apply WS-CaPo during changeover.
+- **Cannabis**: [[cannabis-vegetative-growth-stage]] → flip to flower ([[cannabis-flowering-stage]]). Apply WS-CaPo during changeover.
 - **Mushrooms**: Peak fruiting for outdoor logs and indoor monotubs. Harvest, process ([[mushroom-nutrition-guide]]), SMS to compost.
 - **Kitchen**: Peak preservation — canning, dehydrating, fermenting ([[food-preservation-canning]]).
 
@@ -100,7 +100,7 @@ Seasonal integration map — how all homestead systems overlap and support each 
 ### System Overlaps
 - **Animals**: Reduce stocking as forage declines. Cull and process. Bones → WS-CaPo. Feathers → compost.
 - **Soil**: Final compost turning. Plant [[cover-cropping-guide]] on all bare ground. Collect IMO for winter.
-- **Cannabis**: Harvest and cure ([[cannabis-harvest-and-curing]]). Spent living soil → store or amend food forest.
+- **Cannabis**: [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]] ([[cannabis-harvest-and-curing]]). Spent living soil → store or amend food forest.
 - **Mushrooms**: Fall fruiting for wine caps, maitake. Final log inoculations.
 - **Kitchen**: Root cellar storage. Last fermentations. [[seed-saving-techniques]] from mature plants.
 
@@ -125,7 +125,7 @@ Seasonal integration map — how all homestead systems overlap and support each 
 - Deep bedding pack (3-4 months manure + straw) → hottest compost pile of year when turned in spring
 - [[fermented-plant-extract-fpe]] from winter-hardy plants (mugwort, bamboo shoots)
 - Plan cover crop rotations for spring based on fall soil test results
-- Indoor mushroom cultivation supplies fresh food when garden is dormant
+- Indoor [[accessible-mushroom-cultivation-for-disabilities]] supplies fresh food when garden is dormant
 - KNF inputs (FPJ, FAA, OHN) brewed during winter downtime for spring applications
 - Review and plan: what loops closed well, what needs improvement next year
 
@@ -148,5 +148,3 @@ A rough annual nutrient budget for a 5-acre homestead with 5-7 goats, 30-50 duck
 | Cannabis (4x4 living soil) | 5-10 | 2-5 | 5-10 |
 
 The homestead produces 2-4x the nutrients needed for food production. The surplus builds soil organic matter, feeds the food forest, and creates buffer against poor years. This is the power of closed-loop design — the system generates its own fertility.
-
-See [[soil-fertility-management]] for detailed amendment rates, [[cannabis-living-soil-amendment-schedule]] for cannabis-specific timing, and [[dynamic-accumulator-quick-reference]] for plant-based nutrient sources.

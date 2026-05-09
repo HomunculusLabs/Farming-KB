@@ -1,5 +1,5 @@
 ---
-title: Ergot Alkaloid Chemistry and History
+title: Ergot ergot alkaloid chemistry history and History
 created: 2026-04-28
 tags: [ergot, alkaloids, history, ethnomycology]
 date: 2026-04-25
@@ -13,14 +13,14 @@ type: concept
 ## Overview
 
 Ergot refers to the sclerotia (hard, dark resting bodies) produced by
-fungi of the genus Claviceps, most notably Claviceps purpurea, which
+fungi of the genus Claviceps, most notably [[bloomfield-ergot-claviceps-purpurea-ergotism]], which
 parasitizes edible grains including rye, barley, and wheat. These
 sclerotia contain a complex mixture of alkaloids -- powerful compounds
 capable of causing hallucination, triggering uterine contractions, and
 producing profound vasoconstriction. The history of ergot spans from
-ancient grain cultivation practices through medieval epidemics to the
+ancient [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] practices through medieval epidemics to the
 discovery of lysergic acid derivatives that would reshape modern
-psychiatry and psychedelic research.
+psychiatry and [[mckenna-suppression-psychedelic-research-lsd-therapy]].
 
 ## The Organism: Claviceps purpurea
 
@@ -89,7 +89,7 @@ Roman Empire and in the Salem witch trials of 1692.
 The discovery of LSD's extraordinary psychoactive properties in 1943,
 when Albert Hofmann accidentally absorbed a tiny amount through his
 fingertips, launched the modern psychedelic era. LSD-type compounds are
-found in several related genera of morning glories and in ergot. Though
+found in several related genera of [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] and in ergot. Though
 rare in nature, they became the best-known hallucinogens because
 millions of doses were manufactured and distributed during the 1960s.
 
@@ -112,7 +112,7 @@ may offer a more favorable alkaloid profile. It potentially contains a
 higher proportion of the psychoactive but less toxic "simple" ergot
 alkaloids (similar to those in morning glories) and a lower proportion
 of toxic peptide-containing alkaloids. Wasson and Hofmann reported in
-The Road to Eleusis that macerating ergotized grain in water would
+The [[the-road-to-eleusis-wasson-hofmann-ruck]] that macerating ergotized grain in water would
 effectively separate water-soluble psychoactive alkaloids from the
 fat-soluble toxic alkaloids -- a potential key to safe preparation of
 ergot-based preparations.

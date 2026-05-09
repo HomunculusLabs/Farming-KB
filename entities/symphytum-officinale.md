@@ -22,7 +22,7 @@ sources:
 
 # Symphytum officinale
 
-**Symphytum officinale**, commonly known as **comfrey**, is a perennial herbaceous plant in the family Boraginaceae. It is one of the most important plants in [[herbal-medicine]], renowned for its deep taproot that mines nutrients from subsoil layers and its remarkable biomass production capacity. Its dual role as a dynamic nutrient accumulator and medicinal plant makes it indispensable in sustainable growing systems.
+**Symphytum officinale**, commonly known as **comfrey**, is a perennial herbaceous plant in the family Boraginaceae. It is one of the most important plants in [[herbal-medicine]], renowned for its deep taproot that mines nutrients from subsoil layers and its remarkable [[dighton-fungal-biomass-production-aquatic-ecosystems]] capacity. Its dual role as a dynamic nutrient accumulator and medicinal plant makes it indispensable in sustainable growing systems.
 
 ## Taxonomy and Classification
 
@@ -45,7 +45,7 @@ The genus *Symphytum* contains approximately 35 species native to Europe and wes
 
 The most widely planted comfrey in permaculture systems is the **Bocking 14** cultivar, developed by Lawrence D. Hills at the Henry Doubleday Research Association (HDRA) in England during the 1950s. Key characteristics:
 
-- **Sterile triploid:** Produces no viable seeds, preventing unwanted spread — a critical consideration for permaculture design
+- **Sterile triploid:** Produces no viable seeds, preventing unwanted spread — a critical consideration for [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
 - **High biomass yield:** Produces 3–5 kg of fresh leaf material per plant per cutting; 4–6 cuts per season in temperate climates
 - **Disease resistant:** Resistant to comfrey rust (*Melampsorella symphyti*)
 - **Deep taproot:** Roots penetrate 1.5–3 m, accessing minerals unavailable to shallow-rooted plants
@@ -63,7 +63,7 @@ The most widely planted comfrey in permaculture systems is the **Bocking 14** cu
 
 ## Dynamic Mineral Accumulation
 
-Comfrey's most celebrated attribute in permaculture is its role as a **dynamic accumulator** — a plant that mines nutrients from deep soil horizons and concentrates them in its above-ground biomass, making those nutrients available to other plants when used as mulch, compost, or liquid feed.
+Comfrey's most celebrated attribute in permaculture is its role as a **[[nutrient-dynamic-accumulator-reference]]** — a plant that mines nutrients from deep soil horizons and concentrates them in its above-ground biomass, making those nutrients available to other plants when used as mulch, compost, or liquid feed.
 
 ### Nutrient Composition (per 100 kg dry weight)
 
@@ -83,7 +83,7 @@ The exceptionally high potassium content makes comfrey particularly valuable for
 
 ### Compost Tea and Liquid Feed
 
-Comfrey tea is one of the most widely used organic liquid fertilizers:
+Comfrey tea is one of the most widely used organic [[solomon-liquid-fertilizers-and-foliar-feeding]]:
 
 **Method:** Pack fresh comfrey leaves into a container (bucket or barrel), weigh down, cover with water, and let ferment for 2–4 weeks. The resulting dark liquid is diluted 1:10 to 1:15 with water and applied as a foliar feed or soil drench.
 
@@ -96,7 +96,7 @@ Comfrey tea is one of the most widely used organic liquid fertilizers:
 Fresh comfrey leaves can be applied directly as a thick mulch layer (5–10 cm) around garden plants:
 
 - **Nitrogen release:** Leaves decompose rapidly, releasing nutrients within 2–3 weeks
-- **Slug deterrence:** The coarse hairs on comfrey leaves may deter slugs and snails from reaching crop plants
+- **Slug deterrence:** The coarse hairs on comfrey leaves may deter [[query-how-to-get-rid-of-slugs-and-snails-organically]] from reaching crop plants
 - **Soil moisture:** The mulch layer reduces evaporation and suppresses weed germination
 
 ### Compost Accelerator
@@ -138,11 +138,11 @@ Comfrey contains hepatotoxic **pyrrolizidine alkaloids (PAs)**, primarily symphy
 - **Propagation:** Root cuttings (most common), crown divisions, or offsets; Bocking 14 must be vegetatively propagated
 - **Soil:** Tolerates a wide range; prefers deep, moist, fertile loams; pH 6.0–7.0
 - **Sun:** Full sun to partial shade
-- **Hardiness:** USDA Zones 3–9; fully cold-hardy
-- **Water:** Moderate; drought-tolerant once established
-- **Maintenance:** Cut to ground level after flowering; divide every 5–7 years
 ## See Also
 
-- [[nitrogen-fixing-plants]] — Complementary soil fertility strategy
-- [[permaculture-plant-guilds]] — Polyculture design patterns
+- nitrogen-fixing-plants — Complementary soil fertility strategy
+- permaculture-plant-guilds — [[aquatic-polyculture-design-mollison]] patterns
 - boraginaceae — Borage family botanical overview
+- [[decomposition]]
+- [[forest-gardens]]
+- [[permaculture-design]]

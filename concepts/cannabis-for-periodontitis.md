@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Periodontitis (gum disease) is the leading cause of tooth loss in adults and affects approximately 47% of adults over 30 in the US. Research from The Cannabis Health Index documents that CBD reduces the bone loss associated with periodontitis by inhibiting the RANK/RANKL signaling pathway.
+Periodontitis (gum disease) is the leading cause of tooth loss in adults and affects approximately 47% of adults over 30 in the US. Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] documents that CBD reduces the bone loss associated with periodontitis by inhibiting the RANK/RANKL signaling pathway.
 
 ## Key Clinical Studies
 
@@ -54,10 +54,11 @@ CB2 receptors on osteoclasts (bone-resorbing cells) inhibit their activity. In p
 CBD reduces the inflammatory cytokines that drive periodontal tissue destruction, addressing both the cause (inflammation) and the effect (bone loss).
 
 ### Antimicrobial
-Cannabis has broad antimicrobial properties (see [[blesching-cannabis-osteoporosis]]
+Cannabis has broad [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] (see [[blesching-cannabis-osteoporosis]]
 - [[cannabis-anti-inflammatory-applications]]
 - [[blesching-cannabis-prostate-cancer]]
 - [[blesching-cannabis-cervical-cancer]]
+
 ## Practical Considerations
 
 Successful implementation of Cannabis For Periodontitis requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

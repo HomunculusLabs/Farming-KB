@@ -50,7 +50,7 @@ Seed size does not necessarily predict plant size or potency, but consistent see
 
 ## Environmental Influences on Resin Production
 
-Environmental factors play a significant role in modulating both the quantity and quality of resin produced by cannabis plants. Light intensity, ultraviolet (UV) radiation exposure, temperature fluctuations, and nutrient availability all influence trichome development and cannabinoid biosynthesis. Plants grown in higher UV-B environments tend to produce denser trichome coverage and elevated THC concentrations, likely as a defensive response to radiation stress.
+[[duggar-mushroom-environmental-factors-temperature-moisture-light]] play a significant role in modulating both the quantity and quality of resin produced by cannabis plants. Light intensity, ultraviolet (UV) radiation exposure, temperature fluctuations, and [[ph-and-nutrient-availability-garden-soils]] all influence [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]] and [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]. Plants grown in higher UV-B environments tend to produce denser trichome coverage and elevated THC concentrations, likely as a defensive response to radiation stress.
 
 Water availability during the late flowering period can also concentrate resin constituents. Moderate drought conditions before harvest may increase the ratio of resin to plant tissue, although severe stress will reduce overall yield. Careful management of irrigation timing allows growers to optimize resin density without sacrificing total biomass. See [[hps-grow-lights]].
 
@@ -60,7 +60,7 @@ The choice of resin extraction method can significantly influence which quality 
 
 For growers utilizing [[cannabis-harvest-and-curing]].
 
-Long-term storage considerations are especially important for breeding programs that maintain seed stock and mother plant material. Properly vacuum-sealed and refrigerated cannabis can retain acceptable potency for one to two years, while frozen storage may extend viable resin quality even further. Breeders should consider selecting for strains that naturally resist degradation, maintaining their cannabinoid and terpene profiles over extended storage periods.
+Long-term storage considerations are especially important for breeding programs that maintain seed stock and mother plant material. Properly vacuum-sealed and refrigerated cannabis can retain acceptable potency for one to two years, while frozen storage may extend viable resin quality even further. Breeders should consider selecting for strains that naturally resist degradation, maintaining their cannabinoid and [[cannabis-terpene-profiles-sativa]] over extended storage periods.
 
 ## Terpene-Cannabinoid Entourage Effect
 
@@ -83,4 +83,4 @@ dose-dependent, meaning that analytical testing of cannabinoid and terpene profi
 essential for quality assurance, as covered in [[cannabis-chemotype-classification-cannabinoid-breeding]]. The [[screen-of-green]]
 
 - [[cannabis-terpene-and-aroma-chemistry-clarke]] - Terpene and aroma chemistry
-- [[cannabis-chemotype-classification-cannabinoid-breeding]] - Chemotype classification
+- [[cannabis-chemotype-classification-cannabinoid-breeding]] - [[cannabis-chemotype-classification-cannabinoid-breeding]]

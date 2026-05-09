@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Shulgin, A. & Shulgin, A. (1991). "PIHKAL: A Chemical Love Story." Transform Press.
-  - Ray, T.S. (2010). "Psychoactive Designer Drugs: The '2C' Family." Drug Enforcement Administration Microgram Journal 8(1): 1–10.
+  - Ray, T.S. (2010). "Psychoactive [[shulgin-designer-drugs-analysis]]: The '2C' Family." Drug Enforcement Administration Microgram Journal 8(1): 1–10.
   - Dean, B.V. et al. (2013). "2C Phenethylamines and NBOMe Compounds." American Journal of Health-System Pharmacy 70(23): 2111–2117.
   - EMCDDA. (2014). "Europol-EMCDDA Report on New Psychoactive Substances." Publications Office of the EU.
 ---
@@ -38,7 +38,7 @@ The propyl substitution at the 4-position of the phenyl ring is responsible for 
 
 2C-P exists as a freebase oil at room temperature and is commonly stored and distributed as a hydrochloride salt (C₁₂H₂₀ClNO₂, MW 245.75 g/mol), which is a white crystalline powder. The freebase is sparingly soluble in water but soluble in organic solvents including ethanol, DMSO, and chloroform.
 
-The compound belongs to the 2,5-dimethoxy-4-substituted phenethylamine class, which is structurally related to the classical psychedelics mescaline (3,4,5-trimethoxyphenethylamine) and the 2C family compounds. The 2,5-dimethoxy substitution pattern is critical for 5-HT₂A receptor affinity.
+The compound belongs to the 2,5-dimethoxy-4-substituted phenethylamine class, which is structurally related to the classical psychedelics mescaline (3,4,5-trimethoxyphenethylamine) and the 2C [[2c-family-compounds-overview]]. The 2,5-dimethoxy substitution pattern is critical for 5-HT₂A receptor affinity.
 
 As with other 2C compounds, 2C-P can serve as a precursor for the synthesis of corresponding DOx amphetamine derivatives (in this case, DOPR, 2,5-dimethoxy-4-propylamphetamine), which have even longer durations and higher potencies.
 
@@ -54,7 +54,7 @@ The propyl chain at the 4-position increases lipophilicity compared to shorter-c
 
 Metabolism is presumed to occur primarily via hepatic oxidative deamination by monoamine oxidase (MAO-A), followed by O-demethylation by cytochrome P450 enzymes, particularly CYP2D6. The extended duration suggests a slow rate of metabolic clearance and possibly active metabolites.
 
-Limited receptor binding data are available, but the compound's potency relative to 2C-B (approximately 10–20× by dose) is consistent with the trend of increasing 5-HT₂A affinity with increasing 4-position alkyl chain length observed across the 2C series.
+Limited [[tihkal-receptor-binding-serotonin]] data are available, but the compound's potency relative to 2C-B (approximately 10–20× by dose) is consistent with the trend of increasing 5-HT₂A affinity with increasing 4-position alkyl chain length observed across the 2C series.
 
 2C-P shows minimal affinity for dopamine, norepinephrine, and histamine receptors at psychedelic-relevant concentrations, distinguishing it from amphetamine-derived psychedelics like the DOx compounds that carry additional dopaminergic and adrenergic activity. This selectivity profile contributes to 2C-P's relatively "clean" somatic effects compared to DOx compounds.
 
@@ -86,17 +86,17 @@ Relative to 2C-E, 2C-P produces comparable visual intensity but with a distinctl
 
 **Threshold:** 3–5 mg. **Light:** 6–8 mg. **Common:** 8–10 mg. **Strong:** 10–14 mg. **Heavy:** 14+ mg.
 
-Doses above 14 mg are strongly discouraged due to the risk of overwhelming psychological effects and physical distress. The compound's slow onset (2–4 hours) means that effects may not be apparent for a considerable time after ingestion, leading to the common and dangerous error of taking additional doses prematurely.
+Doses above 14 mg are strongly discouraged due to the risk of overwhelming [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] and physical distress. The compound's slow onset (2–4 hours) means that effects may not be apparent for a considerable time after ingestion, leading to the common and dangerous error of taking additional doses prematurely.
 
 Total duration is typically 10–16 hours from oral ingestion, with aftereffects persisting for an additional 2–4 hours. The peak plateau extends for 4–8 hours, during which effects remain intense and stable. The comedown phase is characteristically gradual and extended.
 
 The extended duration and slow onset make 2C-P poorly suited for inexperienced psychedelic users. Harm reduction guidelines recommend starting with the lowest effective dose, having a trusted sober sitter present, and allowing at least 4 hours before considering any supplemental dose.
 
-Insomnia is common on the night following 2C-P use, even if the experience concludes in the afternoon. Users should plan for a full day of recovery and avoid driving or operating machinery for at least 24 hours after the last dose. The prolonged duration also increases the importance of set and setting preparation.
+Insomnia is common on the night following 2C-P use, even if the experience concludes in the afternoon. Users should plan for a full day of recovery and avoid driving or operating machinery for at least 24 hours after the last dose. The prolonged duration also increases the importance of [[lsd-set-and-setting-framework]] preparation.
 
 ## Legal Status
 
-2C-P is classified as a Schedule I controlled substance under the United States Controlled Substances Act, as part of the 2002 emergency scheduling of 2C compounds by the DEA. It is also controlled in Australia (Schedule 9), Canada (Schedule III), the United Kingdom (Class A, as a 2C compound), and the European Union.
+2C-P is classified as a Schedule I controlled substance under the United States Controlled [[controlled-substances-act-and-psychedelic-research]], as part of the 2002 emergency scheduling of 2C compounds by the DEA. It is also controlled in Australia (Schedule 9), Canada (Schedule III), the United Kingdom (Class A, as a 2C compound), and the European Union.
 
 In many jurisdictions, 2C-P is covered by analogue drug legislation or generic bans on substituted phenethylamines, even where it is not specifically named. China has scheduled the entire 2C series under its broad synthetic drug control regulations.
 

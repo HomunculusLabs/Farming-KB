@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushrooms - The Turner Guide
+title: forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc - The Turner Guide
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -14,13 +14,13 @@ D.M. Turner describes psilocybin mushrooms as possibly an "extraterrestrial infi
 
 ## Material
 
-There are dozens of species of mushrooms containing the psychoactive alkaloids psilocybin/psilocin in active amounts. 99% of psilocybin mushrooms on the underground market are Psilocybe cubensis (also called Stropharia cubensis). Some species contain up to 10 times as much psilocybin by weight as cubensis, producing equivalent experiences at much lower doses.
+There are dozens of species of mushrooms containing the psychoactive alkaloids psilocybin/psilocin in active amounts. 99% of psilocybin mushrooms on the underground market are Psilocybe cubensis (also called [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]). Some species contain up to 10 times as much psilocybin by weight as cubensis, producing equivalent experiences at much lower doses.
 
 ## History
 
 The use of psilocybin mushrooms traces back thousands of years. Schultes and Hofmann traced use to numerous locations and Indian cultures in pre-Columbian Mexico and South America. The Aztecs named them Teonanacatl, meaning "flesh of the gods" or "divine flesh." Sacred mushroom stones have been found dating back to 1000 B.C.
 
-Terence McKenna suggests hallucinogenic mushroom use may be much older than 3,000 years. He proposes that mushroom spores arriving from outer space may have been some of the earliest forms of life on Earth. Studies at the University of Leiden determined that certain mushroom spores could survive up to 45 million years in interstellar transit (Nature, Aug 1985).
+Terence McKenna suggests [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] use may be much older than 3,000 years. He proposes that mushroom spores arriving from outer space may have been some of the earliest forms of life on Earth. Studies at the University of Leiden determined that certain mushroom spores could survive up to 45 million years in interstellar transit (Nature, Aug 1985).
 
 R. Gordon Wasson's quest for mushroom knowledge began in 1927, after experiencing the cultural divide between Western mycophobia and other cultures' mycophilia. In 1955, Wasson participated in a mushroom ceremony guided by a 65-year-old shamaness in Mexico, possibly becoming the first white man to eat psilocybin mushrooms in hundreds of years.
 
@@ -54,7 +54,7 @@ A typical mushroom trip lasts 4-6 hours, somewhat shorter than LSD. The onset is
 
 ## Species Potency Comparison
 
-Psilocybin content varies enormously between species. Psilocybe cubensis, the most commonly cultivated species, typically contains 0.5-1.0% psilocybin by dry weight. More potent species include Psilocybe azurescens (up to 1.8%), Psilocybe bohemica (up to 1.5%), and Psilocybe semilanceata (liberty caps, 0.5-2.5%). Wood-loving species like P. azurescens and P. cyanescens tend to be significantly more potent than dung-loving species like P. cubensis.
+Psilocybin content varies enormously between species. Psilocybe cubensis, the most commonly cultivated species, typically contains 0.5-1.0% psilocybin by dry weight. More potent species include [[stamets-psi-psilocybe-azurescens-species-guide]] (up to 1.8%), Psilocybe bohemica (up to 1.5%), and [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] (liberty caps, 0.5-2.5%). Wood-loving species like P. azurescens and P. cyanescens tend to be significantly more potent than dung-loving species like P. cubensis.
 
 ## Cultivation and Identification
 
@@ -78,12 +78,12 @@ Outdoor foraging carries risks from toxic lookalikes, particularly Galerina spec
 
 ## Safety
 
-Natural psychedelics like psilocybin mushrooms have an excellent safety profile. Turner notes never hearing of anyone experiencing long-term adverse effects through the use of natural psychedelics. When disturbing experiences occur with mushrooms, users seem to take it in stride and come back to center. The mushrooms are not MAO inhibitors and do not have the dietary restrictions associated with substances like ayahuasca.
+Natural psychedelics like psilocybin mushrooms have an excellent safety profile. Turner notes never hearing of anyone experiencing long-term [[blesching-cannabis-safety-adverse-effects-evidence]] through the use of natural psychedelics. When disturbing experiences occur with mushrooms, users seem to take it in stride and come back to center. The mushrooms are not MAO inhibitors and do not have the dietary restrictions associated with substances like ayahuasca.
 
 ## Related
 
 - [[global-psychedelic-mushroom-species-diversity]]
-- [[saharan-rock-art-mushroom-cult]]
+- saharan-rock-art-mushroom-cult
 - [[lsd-molecule-of-perfection]]
 - [[wasson-hofmann-psilocybin-connection]]
-- [[fungal-wood-decay-types-white-rot-brown-rot]]
+- fungal-wood-decay-types-white-rot-brown-rot

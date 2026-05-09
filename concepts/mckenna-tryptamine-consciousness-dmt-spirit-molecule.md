@@ -1,5 +1,5 @@
 ---
-title: "DMT and the Spirit Molecule - McKenna's Tryptamine Consciousness"
+title: "DMT and the Spirit Molecule - McKenna's mckenna tryptamine consciousness dmt spirit molecule"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -10,7 +10,7 @@ tags: [dmt, spirituality, tryptamine]
 
 # DMT and the Spirit Molecule
 
-McKenna's account of dimethyltryptamine (DMT) in "Tryptamine Hallucinogens and Consciousness" (Esalen lecture, December 1983; published in The Archaic Revival, 1992) is one of the most vivid phenomenological descriptions of the smoked DMT experience in the literature. He frames DMT not merely as a drug but as a portal to what he calls the "tryptamine hypercontinuum" -- a dimension of transhuman, hyperdimensional intelligence accessible through endogenous neurochemistry. The essay was delivered at the Lilly/Goswami Conference on Consciousness and Quantum Physics at Esalen Institute on the Big Sur Coast of California, placing McKenna's experiential report alongside quantum mechanical discussions of consciousness.
+McKenna's account of dimethyltryptamine (DMT) in "[[tryptamine-hallucinogens-and-consciousness]]" (Esalen lecture, December 1983; published in The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]], 1992) is one of the most vivid phenomenological descriptions of the smoked DMT experience in the literature. He frames DMT not merely as a drug but as a portal to what he calls the "[[tryptamine-hypercontinuum]]" -- a dimension of transhuman, hyperdimensional intelligence accessible through endogenous neurochemistry. The essay was delivered at the Lilly/Goswami Conference on Consciousness and Quantum Physics at Esalen Institute on the Big Sur Coast of California, placing McKenna's experiential report alongside [[mckenna-quantum-mechanical-correlates-hallucinogenesis]] discussions of consciousness.
 
 ## The DMT Onset Experience
 
@@ -24,11 +24,11 @@ The normal hallucinogenic modality then appears: "a shifting geometric surface o
 
 At the thirty-second mark, one arrives in a place that "defies description, a space that has a feeling of being underground, or somehow insulated and domed." McKenna identifies this space with the "merry go raum" from Finnegans Wake -- a pun on the German word "raum" (space). "The room is actually going around, and in that space one feels like a child, though one has come out somewhere in eternity."
 
-This image of the child at play connects directly to McKenna's reading of the twenty-fourth fragment of Heraclitus: "The Aeon is a child at play with colored balls." Under DMT, he writes, "One not only becomes the Aeon at play with colored balls but meets entities as well." The Heraclitus reference is significant: it connects the DMT experience to the pre-Socratic philosophical tradition, suggesting that the phenomenology of tryptamine ecstasy has roots in the earliest Western attempts to articulate the nature of reality and time.
+This image of the child at play connects directly to McKenna's reading of the twenty-fourth fragment of Heraclitus: "The Aeon is a child at play with colored balls." Under DMT, he writes, "One not only becomes the Aeon at play with colored balls but meets entities as well." The Heraclitus reference is significant: it connects the DMT experience to the pre-Socratic philosophical tradition, suggesting that the phenomenology of [[mckenna-tryptamine-ecstasy-and-platonic-eternity]] has roots in the earliest Western attempts to articulate the nature of reality and time.
 
 ## Self-Transforming Machine Elves
 
-In The Invisible Landscape (co-authored with his brother Dennis McKenna), these entities are described as "self-transforming machine elves, for that is how they appear." McKenna elaborates: "These entities are dynamically contorting topological modules that are somehow distinct from the surrounding background, which is itself undergoing a continuous transformation."
+In The Invisible Landscape (co-authored with his brother [[dennis-mckenna]]), these entities are described as "self-transforming machine elves, for that is how they appear." McKenna elaborates: "These entities are dynamically contorting topological modules that are somehow distinct from the surrounding background, which is itself undergoing a continuous transformation."
 
 He offers a literary analogy from The Wizard of Oz: "These entities remind me of the scene in the film version after the Munchkins come with a death certificate for the Witch of the East. They all have very squeaky voices and they sing a little song about being 'absolutely and completely dead.'" McKenna calls them "tryptamine Munchkins" -- "hyperdimensional machine-elf entities" that "bathe one in love." This love is "not erotic but it is open-hearted. It certainly feels good." McKenna characterizes the entities as "fractal reflections of some previously hidden and suddenly autonomous part of one's own psyche."
 
@@ -38,7 +38,7 @@ The description "self-transforming machine elves" became one of McKenna's most w
 
 The entities communicate in a mode that resists ordinary language. McKenna describes them emitting "sounds like music, like language" that "pass without any quantized moment of distinction -- as Philo Judaeus said that the Logos would when it became perfect -- from things heard to things beheld." One "hears and beholds a language of alien meaning that is conveying alien information that cannot be Englished."
 
-McKenna identifies this as the central cognitive challenge: "Being monkeys, when we encounter a translinguistic object, a kind of cognitive dissonance is set up in our hindbrain. We try to pour language over it and it sheds it like water off a duck's back. We try again and fail again, and this cognitive dissonance, this 'wow' or 'flutter' that is building off this object causes wonder, astonishment, and awe at the brink of terror."
+McKenna identifies this as the central cognitive challenge: "Being monkeys, when we encounter a translinguistic object, a kind of [[mckenna-cognitive-dissonance-translinguistic-object]] is set up in our hindbrain. We try to pour language over it and it sheds it like water off a duck's back. We try again and fail again, and this cognitive dissonance, this 'wow' or 'flutter' that is building off this object causes wonder, astonishment, and awe at the brink of terror."
 
 The entities instruct the experiencer: "Don't get a loop of wonder going that quenches your ability to understand. Try not to be so amazed. Try to focus and look at what we're doing." This attempt to manage the experiencer's astonishment is itself a distinctive feature of the DMT encounter. The entities seem to understand the cognitive challenge their presence creates and actively coach the experiencer through it.
 
@@ -56,7 +56,7 @@ McKenna reports engaging this intelligence in ongoing dialogue, saying: "Well, w
 
 McKenna proposes what he calls "the black hole effect" surrounding DMT. Drawing on the physics of black holes, where the curvature of space is so extreme that no light or information can escape, he suggests that DMT is "like an intellectual black hole in that once one knows about it, it is very hard for others to understand what one is talking about. One cannot be heard. The more one is able to articulate what it is, the less others are able to understand."
 
-He connects this to the silence of enlightened beings across spiritual traditions: "people who attain enlightenment, if we may for a moment compare these two things, are silent. They are silent because we cannot understand them." McKenna extends the metaphor to the broader neglect of tryptamine research: "Why the phenomenon of tryptamine ecstasy has not been looked at by scientists, thrill seekers, or anyone else, I am not sure, but I recommend it to your attention."
+He connects this to the silence of enlightened beings across spiritual traditions: "people who attain enlightenment, if we may for a moment compare these two things, are silent. They are silent because we cannot understand them." McKenna extends the metaphor to the broader neglect of [[mckenna-baconian-exploration-tryptamine-research-methodology]]: "Why the phenomenon of tryptamine ecstasy has not been looked at by scientists, thrill seekers, or anyone else, I am not sure, but I recommend it to your attention."
 
 The black hole metaphor operates on multiple levels. At the individual level, it describes the communicative impossibility of conveying the DMT experience to those who have not had it. At the cultural level, it describes the way DMT seems to absorb attention and resist dissemination -- the more one knows about it, the less one can communicate. At the scientific level, it describes the epistemological barrier that prevents conventional research methods from engaging with the phenomenon.
 

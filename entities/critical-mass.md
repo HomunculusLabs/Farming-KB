@@ -25,8 +25,8 @@ sources: ["domain-knowledge"]
 ## Lineage & Genetics
 
 - **Parent 1 — Afghani:** Pure indica landrace from the Hindu Kush region; contributes
-  deep relaxation, heavy resin production, and compact structure
-- **Parent 2 — Skunk #1:** Legendary hybrid (Afghani x Acapulco Gold x Colombian Gold);
+  [[blesching-cannabis-deep-relaxation-healing]], heavy [[cannabis-glandular-trichome-types-resin-production-clarke]], and compact structure
+- **Parent 2 — Skunk #1:** Legendary hybrid (Afghani x Acapulco Gold x [[cannabis-colombian-gold-landrace-sativa]]);
   contributes vigor, yield, disease resistance, and signature skunky aroma
 - **Breeder:** Shantibaba (Mr. Nice Seed Bank) — same program that produced White Widow
   and Super Silver Haze
@@ -43,7 +43,7 @@ sources: ["domain-knowledge"]
 - **THC:CBD Ratio:** Typically 10:1 to 5:1 in standard cuts
 - **1:1 Variants:** Critical Mass CBD achieves ~1:1 ratio with 5–8% THC and 5–10% CBD
 - **Minor Cannabinoids:** Detectable CBG and CBC in well-cured samples
-- **Entourage Effect:** Moderate-to-high THC with meaningful CBD creates balanced
+- **[[cannabis-terpene-entourage-effect-profiles]]:** Moderate-to-high THC with meaningful CBD creates balanced
   psychoactivity with pronounced physical relief
 - **Testing Notes:** CBD content varies by breeder; Mr. Nice original trends higher
 
@@ -78,7 +78,7 @@ sources: ["domain-knowledge"]
 
 ## Medicinal Applications
 
-- **Chronic Pain:** Effective for neuropathic, joint, and back pain; fibromyalgia;
+- **[[cannabis-chronic-pain-management]]:** Effective for neuropathic, joint, and back pain; fibromyalgia;
   long-lasting relief suitable for sustained management
 - **Muscle Spasms:** Anti-spasmodic properties beneficial for MS, ALS, and general
   cramping
@@ -102,7 +102,7 @@ sources: ["domain-knowledge"]
 - **Difficulty:** Beginner-friendly — forgiving of minor nutrient/environment errors
 - **Plant Height:** Medium; typically 80–140 cm indoors
 - **Odor Level:** Moderate — lower than many Skunk descendants; somewhat discreet
-- **Mold/Pest Resistance:** Good general resistance; dense buds susceptible to botrytis
+- **Mold/[[cannabis-disease-pest-resistance-breeding-clarke]]:** Good general resistance; dense buds susceptible to botrytis
   in high humidity — ensure adequate airflow
 - **Nutrient Needs:** Moderate feeder; avoid overfeeding mid-flower
 - **Training:** Highly responsive to SOG and ScrOG; LST recommended for branch support

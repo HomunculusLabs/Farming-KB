@@ -1,19 +1,13 @@
 ---
 title: Saprotrophic Nutrition
 created: 2026-04-28
-tags: [[mycology, ecology, decomposition, microbiology]
+tags: [mycology, ecology, decomposition, microbiology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
 type: concept
 ---
-
-# Saprotrophic Nutrition
-
-Saprotrophic nutrition (also called saprophytic nutrition) is a mode of
-feeding in which organisms obtain nutrients by decomposing dead organic
-matter. Fungi are the primary saprotrophs in most terrestrial ecosystems,
-using their [[saprotrophic-decomposition]] occurs in three overlapping phases:
+# Saprotrophic Nutrition Saprotrophic nutrition (also called saprophytic nutrition) is a mode of feeding in which organisms obtain nutrients by decomposing dead organic matter. Fungi are the primary saprotrophs in most terrestrial ecosystems, using their [[saprotrophic-decomposition]] occurs in three overlapping phases:
 
 ### 1. Colonization and Enzyme Secretion
 Fungal spores germinate on dead organic matsaprotrophic-fungiyphae
@@ -60,14 +54,14 @@ follow this strategy.
 
 ### Lignocellulose Decomposers
 Specialists in breaking down the tough, recalcitrant polymers of plant
-cell walls. These fungi invest heavily in enzyme production and are
-slower-growing but dominant in wood and leaf litter decomposition.
+cell walls. These fungi invest heavily in [[ligninolytic-enzyme-production-bioremediation]] and are
+slower-growing but dominant in wood and leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]].
 - **White-rot fungi:** Can degrade all cell wall components including
   lignin, using peroxidases and laccases. Examples: *Phanerochaete*,
   *Trametes*, *Pleurotus*.
 - **Brown-rot fungi:** Primarily degrade cellulose and hemicellulose,
-  modifying but not fully removing lignin. They use a Fenton chemistry
-  system (generating hydroxyl radicals from hydrogen peroxide and iron)
+  modifying but not fully removing lignin. They use a [[bioremediation-fenton-chemistry-brown-rot-fungi]]
+  system (generating hydroxyl radicals from [[cervantes-hydrogen-peroxide-sterilization]] and iron)
   to depolymerize cellulose. Examples: *Serpula*, *Gloeophyllum*,
   *Postia*.
 - **Soft-rot fungi:** Typically ascomycetes that can degrade cellulose
@@ -84,13 +78,13 @@ humic substances.
 ## Role in Carbon Cycling
 
 Saprotrophic fungi are the primary agents of carbon release from dead
-organic matter in soils. Through respiration, they convert organic carbon
+[[maintaining-organic-matter-in-vegetable-gardens]] soils. Through respiration, they convert organic carbon
 to CO2, returning it to the atmosphere. Globally, soil respiration
 (primarily fungal and bacterial) releases approximately 60-80 Gt of
 carbon per year — roughly 8 times anthropogenic fossil fuel emissions.
 
 The balance between CO2 release (mineralization) and carbon incorporation
-into stable soil organic matter (humification) determines whether soils
+into stable [[savory-soil-organic-matter-and-decomposition-dynamics]] (humification) determines whether soils
 function as carbon sources or sinks. Saprotrophic fungi influence this
 balance through:
 - Enzyme production rates that determine decomposition speed

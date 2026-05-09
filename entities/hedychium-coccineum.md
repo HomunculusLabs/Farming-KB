@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Hedychium coccineum** (scarlet ginger lily, orange ginger lily) is a robust perennial herb in the family Zingiberaceae, native to the eastern Himalayas and montane forests of South and Southeast Asia. It is widely cultivated as an ornamental for its striking inflorescences of vivid orange to red flowers.
+**Hedychium coccineum** (scarlet ginger lily, orange ginger lily) is a robust perennial herb in the family Zingiberaceae, native to the eastern Himalayas and montane forests of South and [[psilocybe-southeast-asia-pacific]]. It is widely cultivated as an ornamental for its striking inflorescences of vivid orange to red flowers.
 
 The species is one of approximately 80–90 species in the genus *Hedychium*, which are distributed from the Himalayas through southern China to the western Pacific. It is distinguished by its tall stature, large showy flowers, and the orange-red coloration that gives rise to both its common and specific epithet (*coccineus* = scarlet).
 
@@ -47,7 +47,7 @@ Naturalized populations exist in parts of tropical and subtropical America, incl
 
 Scarlet ginger lily is a popular ornamental in tropical and subtropical gardens worldwide, valued for its dramatic flower spikes and sweet fragrance. The flowers are particularly attractive to butterflies and hummingbirds, adding to its garden appeal.
 
-Plants are propagated from rhizome division in spring, with divisions planted 5–10 cm deep and spaced 60–90 cm apart. They prefer rich, moisture-retentive soil in partial shade to full sun, with regular watering during the growing season.
+Plants are propagated from rhizome division in spring, with divisions planted 5–10 cm deep and spaced 60–90 cm apart. They prefer rich, moisture-retentive soil in partial shade to full sun, with regular watering during the [[savory-growing-season-and-non-growing-season-management]].
 
 In temperate climates, *H. coccineum* can be grown in containers and overwintered indoors, or the rhizomes can be lifted and stored in a frost-free location. The plant is hardy to approximately USDA Zone 8 with heavy mulching.
 
@@ -57,7 +57,7 @@ Several named cultivars exist, including 'Tara' (compact form with deep orange f
 
 In the Himalayan region, *H. coccineum* rhizomes are used in traditional medicine for treating fever, inflammation, and digestive disorders. The Khasi and Naga tribes of northeast India apply rhizome paste to wounds and skin infections.
 
-The essential oil extracted from flowers and rhizomes has been investigated for its antimicrobial properties. In vitro studies show activity against gram-positive bacteria including *Bacillus subtilis* and *Staphylococcus epidermidis*.
+The [[permaculture-designers-manual-essential-oil-plants]] extracted from flowers and rhizomes has been investigated for its [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. In vitro studies show activity against gram-positive bacteria including *Bacillus subtilis* and *Staphylococcus epidermidis*.
 
 In Nepal and Bhutan, the flowers are used in religious offerings and festival decorations. The dried rhizome is sometimes used as a substitute for commercial ginger in rural cooking, though it has a more pungent and less palatable flavor.
 
@@ -75,7 +75,7 @@ Pollination is primarily by butterflies and sphinx moths, which are attracted to
 
 ## Bioactive Compounds
 
-Phytochemical analysis of *H. coccineum* rhizomes has identified labdane diterpenes (hedychilactones A–E), diarylheptanoids, and phenolic glycosides as the major secondary metabolite classes.
+Phytochemical analysis of *H. coccineum* rhizomes has identified labdane diterpenes (hedychilactones A–E), diarylheptanoids, and phenolic glycosides as the major [[fungal-elicitors-enhanced-secondary-metabolite-production]] classes.
 
 The essential oil from rhizomes contains significant quantities of 1,8-cineole (15–25%), α-pinene (8–12%), β-pinene (5–8%), and linalool (3–6%). Flower essential oil is richer in benzenoid compounds, including benzyl acetate and phenylacetaldehyde, which contribute to the sweet fragrance.
 

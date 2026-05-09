@@ -1,5 +1,5 @@
 ---
-title: Mulching in Natural Farming
+title: Mulching in comparison-natural-farming-vs-permaculture
 created: 2026-04-28
 tags: [mulching, natural-farming, soil-health, fukuoka, no-till]
 date: 2026-04-25
@@ -11,18 +11,18 @@ type: concept
 # Mulching in Natural Farming
 
 Mulching is a foundational practice in [[clay-seed-balls-tsuchi-dango]] before scattering them over the straw. This
-creates a complete cycle where all organic matter returns
+creates a complete cycle where all [[hamilton-composting-and-organic-matter-management]] returns
 to the soil.
 
 The same pattern applies to barley: after the barley
 harvest in late May, the barley straw is scattered uncut
 over the entire field. The trampled rice seedlings emerge
-through this layer of straw, and the clover ground cover
+through this layer of straw, and the [[fukuoka-ladino-clover-ground-cover-management]] cover
 grows back alongside them.
 
 ## Benefits Observed Over Decades
 
-Fukuoka grew rice and barley without plowing for over
+Fukuoka grew [[fukuoka-rice-and-barley-natural-farming]] without plowing for over
 twenty years and never observed any decline in yields due
 to reduced soil fertility. Because he returned all rice
 and barley straw and hulls to the land, the soil
@@ -33,7 +33,7 @@ practice.
 ## Green Manure as Living Mulch
 
 Beyond straw, Fukuoka used living mulches in the form of
-ground covers. His [[korean-natural-farming]], grass mulching is prescribed
+[[permaculture-plants-food-forest-ground-covers-bamboos]]. His [[korean-natural-farming]], grass mulching is prescribed
 as a remedy for weeds, often combined with brown rice
 vinegar to help dwarf unwanted vegetation. KNF avoids
 mechanical tillage and relies instead on "Nature's
@@ -68,7 +68,7 @@ could sustain high productivity indefinitely.
 1. Apply straw immediately after threshing, uncut
 2. Scatter evenly over the entire field surface
 3. Do not incorporate into the soil; leave on top
-4. Allow natural decomposition over the seasons
+4. Allow [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]] over the seasons
 5. Combine with living mulch for complete soil coverage
 6. Expect improved results with each successive year
 

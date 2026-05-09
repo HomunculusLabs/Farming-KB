@@ -16,7 +16,7 @@ sources:
 # PF TEK Brown Rice Flour Freshness and Preparation
 
 Brown rice flour (BRF) is the primary nutritional component of the PF TEK
-substrate formula. Its quality, freshness, and preparation method directly
+[[pf-tek-measurement-calibration-and-substrate-formula-precision]]. Its quality, freshness, and preparation method directly
 influence the success of mycelial colonization and subsequent fruiting. The
 original PF TEK specifically calls for pulverized brown rice rather than
 commercial brown rice flour, and the distinction is considered important for
@@ -24,7 +24,7 @@ achieving optimal results.
 
 ## The Role of Brown Rice in the PF Substrate
 
-The PF TEK substrate is a mixture of brown rice flour, vermiculite, and water.
+The PF [[pf-tek-substrate-formula-details]] is a mixture of brown rice flour, vermiculite, and water.
 The brown rice provides the carbohydrates and nutrients that the mycelium
 requires for growth. Unlike whole grain methods where rice kernels are used
 intact, the PF TEK relies on finely pulverized rice powder to create an
@@ -35,12 +35,12 @@ stretch across the airy vermiculite structure rather than growing into a dense
 mass, which is what happens with whole grain substrates. When mycelium is
 cultured in just grain, it turns into a mass with little air space. But when
 grown with vermiculite, the mycelial threads stretch across space, creating a
-more natural and productive growing environment.
+more natural and productive [[cannabis-growing-environment-setup]].
 
 The PF TEK is basically a brown rice method with an improved formula using
 vermiculite as a base and adding pulverized brown rice. The secret is in the
 vermiculite. This combination copies nature by allowing a mass spore
-inoculation directly to the fruiting substrate, keeping the genotype complete
+inoculation directly to the [[pf-tek-maximum-fruiting-substrate-formula]], keeping the genotype complete
 and avoiding the senescence problems associated with tissue cloning.
 
 ## Homemade Pulverization Using a Coffee Grinder
@@ -133,13 +133,16 @@ substrate, less water should be used.
 
 ## Nutritional Profile of Brown Rice
 
-Brown rice provides a complete nutritional profile for Psilocybe cubensis
+Brown rice provides a complete nutritional profile for [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 mycelium. The bran layer contains complex carbohydrates, proteins, B vitamins,
 and minerals including magnesium and phosphorus. The mycelium enzymatically
 breaks down the starches into simpler sugars for metabolic use.
 
 The PF TEK specifically uses brown rice rather than white rice because the
 ## Related
-- [[pf-tek-substrate-jar-preparation-and-steam-sterilization]] for the complete jar preparation process
+- pf-tek-substrate-jar-preparation-and-steam-sterilization for the complete [[pf-tek-jar-preparation-steam-sterilization]] process
 - [[pf-tek-maximum-fruiting-substrate-formula]] for the enhanced nutrition formula
 - [[pf-tek-substrate-moisture-diagnosis-and-correction]] for moisture troubleshooting
+- [[mycelial-colonization]]
+- [[psilocybe-cubensis]]
+- [[sterilization]]

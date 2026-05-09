@@ -27,7 +27,7 @@ Oxytocin is associated with empathy, generosity, trust, and reduced fear.
 It is commonly referred to as the "cuddle molecule" and is involved in
 the development of bonding, closeness, tenderness, and intimacy. It
 increases trust and generosity. Additionally, it initiates the release
-of endorphins with their own deep relaxation and emotional benefits.
+of endorphins with their own [[blesching-cannabis-deep-relaxation-healing]] and emotional benefits.
 
 ## Health Benefits of Oxytocin
 
@@ -58,7 +58,7 @@ empower innate capacity for self-healing.
 
 Lack of oxytocin (or imbalance) has been associated with the development
 of autism, low libido, eating disorders, social anxiety disorders,
-schizophrenia, and [[blesching-endocannabinoid-system-overview]]
+schizophrenia, and [[endocannabinoid-system-overview]]
 - [[blesching-cannabis-depression]]
 - [[cannabis-chronic-pain-management]]
 - [[blesching-cannabis-immune-system-modulation]]
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

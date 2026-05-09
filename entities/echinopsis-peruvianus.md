@@ -23,9 +23,9 @@ created: 2026-04-28
 
 ## Overview
 
-**Echinopsis peruvianus**, commonly known as the **Peruvian torch cactus**, is a fast-growing columnar cactus in the family Cactaceae, native to the western slopes of the Andes in Peru and Ecuador.
+**Echinopsis peruvianus**, commonly known as the **[[trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern]] cactus**, is a fast-growing columnar cactus in the family Cactaceae, native to the western slopes of the Andes in Peru and Ecuador.
 
-The species is one of the four principal mescaline-containing cactos traditionally used in Andean ethnomedicine and shamanic practice, alongside San Pedro (*Echinopsis pachanoi*), the Bolivian torch (*Echinopsis lageniformis*), and peyote (*Lophophora williamsii*).
+The species is one of the four principal mescaline-containing cactos traditionally used in Andean ethnomedicine and shamanic practice, alongside [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] (*Echinopsis pachanoi*), the Bolivian torch (*Echinopsis lageniformis*), and peyote (*Lophophora williamsii*).
 
 Mescaline content in *E. peruvianus* is generally reported to be higher than in *E. pachanoi*, making it a particularly significant entheogenic plant in traditional ceremonial contexts and modern botanical collections.
 
@@ -81,7 +81,7 @@ Ceremonial use centers on healing rituals (*mesas*) conducted by curanderos (hea
 
 *Echinopsis peruvianus* is among the fastest-growing columnar cacti, capable of adding 30–45 cm of new growth per year under optimal conditions. It is widely cultivated by botanical enthusiasts and ethnobotanical gardeners.
 
-Propagation is primarily through stem cuttings, which root readily when calloused and placed in well-drained cactus soil mix. Seed germination is also straightforward with fresh seed on a sandy substrate.
+Propagation is primarily through stem cuttings, which root readily when calloused and placed in well-drained cactus soil mix. [[cannabis-seed-germination-methods]] is also straightforward with fresh seed on a sandy substrate.
 
 Outdoor cultivation requires a frost-free climate (USDA zones 9b–11) with full sun exposure. In cooler climates, it can be grown in containers and overwintered indoors with minimal watering. The species is significantly more cold-sensitive than *E. pachanoi*.
 
@@ -89,13 +89,13 @@ Grafted specimens onto fast-growing rootstock such as *Pereskiopsis sp.* or *Hyl
 
 ### Pests and Diseases
 
-Common pests include mealybugs, scale insects, and spider mites, particularly on plants grown indoors or in humid conditions. Root rot caused by overwatering is the most frequent cultivation problem, particularly during winter dormancy.
+Common pests include mealybugs, scale insects, and [[cervantes-spider-mites-identification-control]], particularly on plants grown indoors or in humid conditions. Root rot caused by overwatering is the most frequent cultivation problem, particularly during winter dormancy.
 
 ## Legal Status
 
 The legal status of *Echinopsis peruvianus* varies significantly by jurisdiction. The cactus itself is generally legal to cultivate as an ornamental in most countries, but its preparation for consumption is regulated in many places.
 
-In the United States, mescaline is a Schedule I controlled substance under the Controlled Substances Act. However, the plant itself is not specifically scheduled, and live plants can typically be legally cultivated and sold.
+In the [[dmt-containing-plants-united-states-halpern]], mescaline is a Schedule I controlled substance under the Controlled [[controlled-substances-act-and-psychedelic-research]]. However, the plant itself is not specifically scheduled, and live plants can typically be legally cultivated and sold.
 
 In Australia, all mescaline-containing cacti are restricted under state legislation in several jurisdictions. In the European Union, the plant is legal to grow but preparation for consumption may violate national drug laws.
 
@@ -103,6 +103,6 @@ In Australia, all mescaline-containing cacti are restricted under state legislat
 
 - [[echinopsis-bridgesii]]
 - [[mescaline-entity]]
-- [[peyote]]
+- peyote
 - [[pihkal-mescaline]]
 - [[5-meo-dmt-entity]]

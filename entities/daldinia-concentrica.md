@@ -19,7 +19,7 @@ sources:
 
 # Daldinia concentrica
 
-**Daldinia concentrica** is a saprotrophic ascomycete fungus commonly known as **King Alfred's cakes**, **cramp balls**, or **carbon balls**. It is one of the most recognizable pyrenomycetes in temperate forests worldwide, forming hard, hemispherical, charcoal-like stromata on dead and dying hardwood. The fungus has a long history of human use as fire-starting tinder, and recent research has revealed a rich chemistry of bioactive secondary metabolites including antimicrobial and cytotoxic compounds. Its concentric internal zonation — alternating dark and light rings visible in cross-section — is diagnostic and gives the species its epithet.
+**Daldinia concentrica** is a saprotrophic ascomycete fungus commonly known as **King Alfred's cakes**, **cramp balls**, or **carbon balls**. It is one of the most recognizable pyrenomycetes in temperate forests worldwide, forming hard, hemispherical, charcoal-like stromata on dead and dying hardwood. The fungus has a long history of human use as fire-starting tinder, and recent research has revealed a rich chemistry of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]] including antimicrobial and cytotoxic compounds. Its concentric internal zonation — alternating dark and light rings visible in cross-section — is diagnostic and gives the species its epithet.
 
 ## Taxonomic Classification
 
@@ -35,7 +35,7 @@ sources:
 | **Authority** | Originally described as *Sphaeria concentrica* by Bolton (1791) |
 | **Type** | Saprotrophic, facultatively endophytic |
 
-The genus *Daldinia* contains approximately 20 described species worldwide. *D. concentrica* is the type species and the most widely distributed member of the genus. Closely related species include *D. childiae* (tropical), *D. eschscholzii* (pantropical), and *D. vernicosa* (North American). Molecular phylogenetics has shown that some previous *Daldinia* records represent species complexes requiring revision.
+The genus *Daldinia* contains approximately 20 described species worldwide. *D. concentrica* is the type species and the most widely distributed member of the genus. Closely related species include *D. childiae* (tropical), *D. eschscholzii* (pantropical), and *D. vernicosa* ([[growing-gourmet-north-american-reishi-species]]). Molecular phylogenetics has shown that some previous *Daldinia* records represent species complexes requiring revision.
 
 ## Morphology
 
@@ -62,9 +62,9 @@ The genus *Daldinia* contains approximately 20 described species worldwide. *D. 
 
 - **Geographic range**: Cosmopolitan in temperate regions; widespread across Europe, North America, Asia, and parts of Australasia
 - **Substrate**: Almost exclusively on dead or moribund hardwood, especially ash (*Fraxinus* spp.), beech (*Fagus* spp.), oak (*Quercus* spp.), birch (*Betula* spp.), and elm (*Ulmus* spp.)
-- **Occurrence**: Found year-round on standing dead wood, fallen branches, and stumps
-- **Ecology**: Primary decomposer of cellulose and lignin; contributes significantly to nutrient cycling in forest ecosystems
-- **Succession**: Often appears in mid-to-late stages of wood decay succession, following initial colonization by white-rot basidiomycetes
+- **Occurrence**: Found year-round on standing [[fungal-dead-wood-diversity]], fallen branches, and stumps
+- **Ecology**: Primary decomposer of cellulose and lignin; contributes significantly to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest ecosystems
+- **Succession**: Often appears in mid-to-late stages of [[bloomfield-wood-decay-fungi-spalted-timber]] succession, following initial colonization by white-rot basidiomycetes
 
 ## Chemistry and Bioactive Compounds
 
@@ -74,7 +74,7 @@ The genus *Daldinia* contains approximately 20 described species worldwide. *D. 
 |---------------|----------|---------------------|
 | **Naphthoquinones** | Daldinin A–F, daldinone A–B | Antimicrobial, cytotoxic |
 | **Cytochalasins** | Daldinins, concentricol | Antifungal, anti-inflammatory |
-| **Xylarenone** | Xylarenone A | Cytotoxic against cancer cell lines |
+| **Xylarenone** | Xylarenone A | Cytotoxic against [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines |
 | **Daldinols** | Daldinol A–C | Antimicrobial, antioxidant |
 | **Pigments** | Melanin derivatives | UV protection, radical scavenging |
 

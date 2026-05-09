@@ -1,5 +1,5 @@
 ---
-title: Genetic Bottleneck and Diversity Loss in Cannabis
+title: cervantes genetic bottleneck and diversity loss and Diversity Loss in Cannabis
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,16 +10,17 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Genetic Bottleneck and Diversity Loss in Cannabis
 
-Genetic diversity is the foundation upon which all cannabis breeding
+Genetic diversity is the foundation upon which all [[oner-cannabis-breeding-fundamentals]]
 depends. Years of persecution, narrow breeding practices, and
 commercial pressures have led to a genetic bottleneck in cannabis,
-narrowing the gene pool available to breeders and threatening the
+narrowing the [[cannabis-gene-pool-preservation-acclimatization-clarke]] available to breeders and threatening the
 long-term viability of the species.
 
 ## What Is a Genetic Bottleneck?

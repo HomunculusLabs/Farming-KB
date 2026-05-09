@@ -1,5 +1,5 @@
 ---
-title: "Fungal Propagule Dispersal by Soil Fauna"
+title: "dighton fungal propagule dispersal soil fauna Dispersal by Soil Fauna"
 created: 2026-04-28
 tags:
   - fungal-dispersal
@@ -22,8 +22,8 @@ propagules -- including spores and hyphal fragments -- through ecosystems. In
 connects fungal populations across spatial scales, facilitating colonization
 of new resources and influencing [[dighton-hypogeous-fungi-mammal-spore-dispersal]]
 - [[dighton-mycorrhizal-succession-forest-ecosystems]]
-- biodiversity of fungi spore dispersal
-- [[fungal-spore-dispersal-animals-wind]]
+- biodiversity of fungi [[aquatic-fungi-spore-dispersal-ingold]]
+- fungal-spore-dispersal-animals-wind
 ## Practical Applications
 
 Fungal Propagule Dispersal by Soil Fauna has a range of practical applications that make it relevant to
@@ -102,3 +102,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[fungal-dispersal-limitation-biogeographic-barriers]]

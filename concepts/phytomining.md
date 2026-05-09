@@ -16,10 +16,10 @@ Phytomining (also called agromining) is an agricultural technology that uses hyp
 The concept of phytomining exploits the natural ability of certain plant species, called hyperaccumulators, to concentrate metals in their above-ground tissues at concentrations far exceeding normal plant levels. While most plants contain trace amounts of metals (typically 1 to 100 mg/kg dry weight), hyperaccumulators can concentrate specific metals to levels exceeding 1,000 mg/kg (0.1% dry weight), with some species reaching concentrations of 1% to 5% for certain metals.
 
 Phytomining operates on the same fundamental principles as phytoextraction, a mechanism of [[phytoremediation-mechanisms]] — overview of plant-based contaminant removal
-- [[heavy-metal-biosorption]] — biosorption mechanisms for metal removal
-- [[fungal-biosorption-mechanisms]] — fungal metal biosorption
+- [[heavy-metal-biosorption]] — [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]] for metal removal
+- [[fungal-biosorption-mechanisms]] — fungal [[fungal-heavy-metal-biosorption-and-detoxification]]
 - [[biodiversity-of-fungi-biomass-carbon-soil-structure]]
-- [[fungal-biodiversity-in-soil-ecosystems]]
+- fungal-biodiversity-in-soil-ecosystems
 ## Practical Applications
 
 Phytomining has a range of practical applications that make it relevant to
@@ -97,4 +97,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

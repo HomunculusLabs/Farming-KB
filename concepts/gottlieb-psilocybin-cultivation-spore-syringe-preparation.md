@@ -1,5 +1,5 @@
 ---
-title: Gottlieb Psilocybin Cultivation Spore Syringe Preparation
+title: Gottlieb gottlieb-psilocybin-cultivation-bulk-substrate-preparation Spore mushroom-spore-printing-syringe-preparation-pf-tek
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -12,8 +12,8 @@ tags: [cultivation, mycology, psilocybin]
 
 In Gottlieb's "The Psilocybin Producer's Guide" (1976), spore collection
 and preparation is the first step in establishing a psilocybin mycelium
-culture. The guide describes spore print creation and a spore-water
-suspension method using pipettes or syringes for inoculating agar media.
+culture. The guide describes [[comparison-spore-print-vs-agar-culture]] creation and a spore-water
+suspension method using pipettes or syringes for inoculating [[growing-gourmet-agar-media-formulas-preparation]].
 All it takes is one mushroom or a few spores to develop a culture that
 will continue producing as much psilocybin as desired for years to come.
 Gottlieb notes that any part of the fungus can be used for inoculation,
@@ -111,7 +111,7 @@ the mating step entirely and provides a faster path to a viable culture:
 10. Incubate all inoculated dishes at room temperature.
 
 The mycelium needs oxygen as it grows, so do not cap lids too tightly.
-Radial mycelial growth appears in 3-5 days. Select the most vigorous
+Radial [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] appears in 3-5 days. Select the most vigorous
 appearing mycelia (largest, fastest-growing, uncontaminated) for transfer
 to broth jars. Stock cultures not used immediately can be refrigerated
 (tightened lids) for about one year.
@@ -120,6 +120,5 @@ to broth jars. Stock cultures not used immediately can be refrigerated
 
 - [[gottlieb-psilocybin-cultivation-strain-selection-guide]]
 - [[gottlieb-psilocybin-cultivation-grain-spawn-production]]
-- [[gottlieb-psilocybin-cultivation-strain-selection-guide]]
-- [[psilocybin-mushroom-spore-print-identification]]
+- psilocybin-mushroom-spore-print-identification
 - [[nitrogen-transfer-through-common-mycorrhizal-networks]]

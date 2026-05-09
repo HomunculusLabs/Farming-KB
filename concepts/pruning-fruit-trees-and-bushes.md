@@ -1,5 +1,5 @@
 ---
-title: Pruning Fruit Trees and Bushes
+title: comparison-pruning-fruit-trees-vs-grafting-fruit-trees Trees and Bushes
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Pruning Fruit Trees and Bushes
 
-Pruning is essential for maintaining healthy, productive fruit trees and bushes. The timing and method differ significantly between fruit types, and getting it wrong can introduce disease. In organic gardening, correct pruning reduces the need for chemical intervention.
+Pruning is essential for maintaining healthy, productive fruit trees and bushes. The timing and method differ significantly between fruit types, and getting it wrong can introduce disease. In [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]], correct pruning reduces the need for chemical intervention.
 
 ## General Principles
 
@@ -17,7 +17,7 @@ Pruning is essential for maintaining healthy, productive fruit trees and bushes.
 - Prune on a dry day to reduce disease risk
 - Make clean cuts just above an outward-facing bud
 - Remove dead, diseased, and crossing branches first
-- Aim for an open center that allows air circulation and light penetration
+- Aim for an open center that allows [[stamets-growing-room-air-circulation-co2-management]] and light penetration
 - Never prune more than necessary -- each cut is a wound that must heal
 
 ## Apples and Pears (Pome Fruits)
@@ -34,7 +34,7 @@ Pruning is essential for maintaining healthy, productive fruit trees and bushes.
 - Used mainly for trained forms (cordons, espaliers, fans)
 - Shorten new lateral shoots to 3 leaves beyond the basal cluster
 - Shorten subsequent side shoots to 1 leaf
-- This directs energy into fruit production rather than vegetative growth
+- This directs energy into fruit production rather than [[cannabis-vegetative-growth-stage]]
 - Helps control the size of trained forms
 
 ## Stone Fruits (Plums, Cherries, Peaches, Apricots)
@@ -49,7 +49,7 @@ Pruning is essential for maintaining healthy, productive fruit trees and bushes.
 
 ## Soft Fruit Bushes
 
-**Black currants:** Grown as "stools" -- cut all stems to ground level after harvest to encourage vigorous new growth from the base. In winter, remove a quarter of the oldest stems to ground level.
+**[[query-how-to-grow-black-currants-at-home]]:** Grown as "stools" -- cut all stems to ground level after harvest to encourage vigorous new growth from the base. In winter, remove a quarter of the oldest stems to ground level.
 
 **Red and white currants, gooseberries:** Prune in winter. Create an open goblet shape. Keep 8-10 main branches, removing the oldest each year and retaining strong new growth from the base. Shorten new growth on main branches by about half. For cordons, train as single stems with fruiting spurs.
 
@@ -76,6 +76,6 @@ In organic systems, avoid wound paints and sealants. Make clean cuts and let the
 ## Related
 
 - [[growing-tree-fruit-organically]] for variety-specific guidance
-- [[plant-propagation-techniques]] for grafting and budding
-- [[holzer-fruit-tree-planting-method]]
+- [[plant-propagation-techniques]] for [[mollison-designers-grafting-and-budding-fruit-trees]]
+- holzer-fruit-tree-planting-method
 - [[jadam-fruit-tree-winter-pest-control]]

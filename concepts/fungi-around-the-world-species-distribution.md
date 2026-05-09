@@ -1,57 +1,13 @@
 ---
-title: Fungi Around the World -- Species Distribution
+title: Fungi fungi around the world species distribution -- Species Distribution
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mushrooms-fungi-from-around-the-world.md]
 ---
-# Fungi Around the World -- Species Distribution
-
-Fungi are among the most widespread and ecologically diverse organisms on Earth,
-found in virtually every terrestrial and aquatic habitat from polar ice caps to
-tropical rainforests. Estimated at 2.2 to 3.8 million species globally, only
-approximately 150,000 have been formally described, meaning the vast majority of
-fungal diversity remains undocumented. The geographic distribution of fungi is
-shaped by climate, vegetation type, soil conditions, and co-evolutionary
-relationships with specific plant hosts.
-
-## Regions Covered
-
-### Amazon
-The Amazon basin contains extraordinary fungal diversity due to its tropical
-climate, vast old-growth forests, and high humidity. The region is home to
-numerous psilocybin-containing species, bioluminescent fungi, and a vast
-unexplored mycological territory. The sheer volume of fungal biomass in tropical
-forests is staggering — mycorrhizal networks connect the majority of trees in
-old-growth tropical forests, creating an underground "wood wide web" of nutrient
-exchange and chemical signaling.
-
-The Amazon's fungal diversity is intimately linked to its plant diversity. Each
-tree species may host dozens of unique endophytic and mycorrhizal fungal species,
-meaning deforestation directly destroys unknown fungal taxa. The rate of fungal
-extinction in tropical regions is estimated to be far higher than the rate of
-discovery and description.
-
-### Africa
-African fungal diversity spans from tropical West and Central Africa to the
-southern temperate zones. Notable features include edible species collected by
-indigenous peoples for centuries (including termite mushroom cultivation in
-parts of West and East Africa), bracket fungi of savanna woodlands, and dung-
-inhabiting species of grassland ecosystems. Africa's fungal biodiversity remains
-poorly documented compared to Europe and North America, with many regions yet to
-receive systematic mycological survey.
-
-### Scotland to Russia
-This transect covers temperate and boreal forests across Europe and northern
-Asia, spanning a remarkable range of climatic conditions:
-- **Caledonian pine forests** (Scotland) — chanterelles, porcini, fly agaric,
-  and a distinctive assemblage of pine-associated mycorrhizal fungi
-- **Continental Europe** — broadleaf and mixed forest fungi with centuries of
-  documentation through victorian-mycology|European mycological traditions
-- **Siberian taiga** — cold-adapted species, birch-associated fungi, and the
-  species central to [[magic-mushrooms-australia-new-zealand]]
-- Amanita muscaria, introduced with pine plantations and now widespread
+# Fungi Around the World -- Species Distribution Fungi are among the most widespread and ecologically diverse organisms on Earth, found in virtually every terrestrial and aquatic habitat from polar ice caps to tropical rainforests. Estimated at 2.2 to 3.8 million species globally, only approximately 150,000 have been formally described, meaning the vast majority of fungal diversity remains undocumented. The geographic distribution of fungi is shaped by climate, vegetation type, soil conditions, and co-evolutionary relationships with specific plant hosts. ## Regions Covered ### Amazon The Amazon basin contains extraordinary fungal diversity due to its tropical climate, vast old-growth forests, and high humidity. The region is home to numerous psilocybin-containing species, bioluminescent fungi, and a vast unexplored mycological territory. The sheer volume of fungal biomass in tropical forests is staggering — mycorrhizal networks connect the majority of trees in old-growth tropical forests, creating an underground "wood wide web" of nutrient exchange and chemical signaling. The Amazon's fungal diversity is intimately linked to its plant diversity. Each tree species may host dozens of unique endophytic and mycorrhizal fungal species, meaning deforestation directly destroys unknown fungal taxa. The rate of fungal extinction in tropical regions is estimated to be far higher than the rate of discovery and description. ### Africa African fungal diversity spans from tropical West and Central Africa to the southern temperate zones. Notable features include edible species collected by indigenous peoples for centuries (including termite mushroom cultivation in parts of West and East Africa), bracket fungi of savanna woodlands, and dung- inhabiting species of grassland ecosystems. Africa's fungal biodiversity remains poorly documented compared to Europe and North America, with many regions yet to receive systematic mycological survey. ### Scotland to Russia This transect covers temperate and boreal forests across Europe and northern Asia, spanning a remarkable range of climatic conditions: - **Caledonian pine forests** (Scotland) — chanterelles, porcini, fly agaric, and a distinctive assemblage of pine-associated mycorrhizal fungi - **Continental Europe** — broadleaf and mixed forest fungi with centuries of documentation through victorian-mycology|European mycological traditions - **Siberian taiga** — cold-adapted species, birch-associated fungi, and the species central to [[magic-mushrooms-australia-new-zealand]]
+- [[allegro-amanita-muscaria-properties-and-pharmacology]], introduced with pine plantations and now widespread
 - Unique endemic species in eucalyptus forests and Nothofagus woodlands
 - Copelandia cyanescens in tropical and subtropical zones
 - Bioluminescent fungi in Queensland's tropical rainforests
@@ -76,7 +32,7 @@ Japanese mycology is among the most thoroughly studied in Asia, with distinct
 species assemblages in temperate and subtropical forests. Matsutake (Tricholoma
 matsutake) is culturally and economically significant, commanding premium prices
 in domestic and international markets. Japan also has a rich tradition of
-mushroom foraging and a well-developed mushroom cultivation industry.
+[[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]] and a well-developed mushroom [[mushroom-cultivation-industry-directory]].
 
 ## Patterns in Global Fungal Distribution
 
@@ -102,7 +58,7 @@ pages in this wiki.
 
 ## Cosmopolitan vs. Endemic Fungal Species
 
-Not all fungi follow the same distribution patterns. Some species are truly cosmopolitan, found on every continent where suitable substrate exists — common saprotrophs like *Coprinus comatus* (shaggy mane) and *Pleurotus ostreatus* (oyster mushroom) fall into this category, aided by wind-dispersed spores that can travel atmospheric currents over vast distances. Others are highly endemic, restricted to single mountain ranges, island chains, or even individual tree species. The Hawaiian Islands, for example, host numerous endemic fungi found nowhere else, having evolved in isolation over millions of years. Understanding which species are cosmopolitan and which are endemic is critical for conservation, as endemic fungi face the same extinction risks as endemic plants and animals but receive far less protection under current biodiversity frameworks. The field of [[cotter-fungi-in-the-classroom-education]]
+Not all fungi follow the same [[guzman-global-distribution-patterns-neurotropic-fungi]]. Some species are truly cosmopolitan, found on every continent where suitable substrate exists — common saprotrophs like *[[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]* (shaggy mane) and *Pleurotus ostreatus* (oyster mushroom) fall into this category, aided by wind-dispersed spores that can travel atmospheric currents over vast distances. Others are highly endemic, restricted to single mountain ranges, island chains, or even individual tree species. The Hawaiian Islands, for example, host numerous endemic fungi found nowhere else, having evolved in isolation over millions of years. Understanding which species are cosmopolitan and which are endemic is critical for conservation, as endemic fungi face the same extinction risks as endemic plants and animals but receive far less protection under current biodiversity frameworks. The field of [[cotter-fungi-in-the-classroom-education]]
 - [[magic-mushrooms-australia-new-zealand]] — Detailed species guide for Australasia
 - [[fungal-biodiversity-tropical-forests]] — Tropical forest fungal diversity
 - [[fungal-species-concept-and-taxonomy]] — How fungal species are defined

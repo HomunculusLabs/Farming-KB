@@ -9,13 +9,13 @@ sources: ["raw/papers/bill-mollison-permaculture-a-designers-manual.md"]
 
 # Adobe Construction
 
-Adobe construction is a building technique using sun-dried earth bricks made from a mixture of clay-rich soil, sand, water, and straw or other fibrous material. Adobe is one of the most widespread traditional building methods on Earth, practised across the Americas, the Middle East, North Africa, the Mediterranean, and parts of Asia for thousands of years. The word adobe comes from the Arabic word at-tub, meaning brick, which was adopted into Spanish during the Moorish occupation of the Iberian Peninsula. In permaculture design, adobe is valued for its minimal energy inputs, local material sourcing, excellent thermal mass, and deep cultural roots in sustainable building traditions.
+Adobe construction is a building technique using sun-dried earth bricks made from a mixture of clay-rich soil, sand, water, and straw or other fibrous material. Adobe is one of the most widespread traditional building methods on Earth, practised across the Americas, the Middle East, North Africa, the Mediterranean, and parts of Asia for thousands of years. The word adobe comes from the Arabic word at-tub, meaning brick, which was adopted into Spanish during the Moorish occupation of the Iberian Peninsula. In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], adobe is valued for its minimal energy inputs, [[jadam-local-material-collection-and-use]] sourcing, excellent thermal mass, and deep cultural roots in sustainable building traditions.
 
 ## History and Geographic Distribution
 
-Adobe building has been practised continuously for over 4,000 years. The earliest known adobe structures are in the ancient Near East, including the city of Ur in Mesopotamia. In the Americas, adobe traditions developed independently, with notable examples including the Pueblo dwellings of the American Southwest, the great adobe cities of the Inca and pre-Inca civilisations in the Andes, and the colonial architecture of Mexico and California.
+Adobe building has been practised continuously for over 4,000 years. The earliest known adobe structures are in the [[allegro-fertility-philosophy-of-the-ancient-near-east]] East, including the city of Ur in Mesopotamia. In the Americas, adobe traditions developed independently, with notable examples including the Pueblo dwellings of the American Southwest, the great adobe cities of the Inca and pre-Inca civilisations in the Andes, and the colonial architecture of Mexico and California.
 
-Adobe remains one of the most common building materials in the world today. An estimated 30-50 percent of the world's population lives in earth buildings, many of them adobe. The technique persists because it is affordable, requires minimal technology, uses locally available materials, and produces comfortable buildings suited to their climates.
+Adobe remains one of the most common [[natural-building-materials-guide]] in the world today. An estimated 30-50 percent of the world's population lives in earth buildings, many of them adobe. The technique persists because it is affordable, requires minimal technology, uses locally available materials, and produces comfortable buildings suited to their climates.
 
 ## Soil Selection
 
@@ -73,7 +73,7 @@ Traditional renders use lime wash, mud plaster, or a combination. Lime render pr
 
 Adobe construction aligns closely with permaculture principles of using local, minimally processed resources. The building material is literally the earth on which the building stands. The energy input is minimal, limited to soil extraction, mixing, and manual labour. Adobe buildings are non-toxic, breathable, and biodegradable.
 
-The thermal mass of adobe walls can be enhanced by passive solar design. South-facing glazing in the northern hemisphere allows winter sun to heat adobe walls, which then radiate warmth throughout the night. Summer shading prevents overheating. Adobe's thermal mass makes it an ideal material for energy-efficient, climate-responsive building.
+The thermal mass of adobe walls can be enhanced by [[comparison-passive-solar-vs-earth-sheltered]] design. South-facing glazing in the northern hemisphere allows winter sun to heat adobe walls, which then radiate warmth throughout the night. Summer shading prevents overheating. Adobe's thermal mass makes it an ideal material for energy-efficient, climate-responsive building.
 
 ## Practical Context
 Adobe Construction is best interpreted in relation to site goals, climate constraints,

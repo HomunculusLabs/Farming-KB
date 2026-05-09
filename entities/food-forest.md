@@ -31,8 +31,8 @@ A food forest (also known as a forest garden) is a perennial polyculture system 
 
 Food forests are not a modern invention but rather a formalization of practices that have existed for thousands of years:
 
-- **Tropical homegardens:** Kerala (India), West Java, Chagga homegardens (Tanzania), and Maya forest gardens (Central America) are ancient, well-documented examples of multi-strata food production systems that have sustained communities for centuries
-- **Dehesa/montado systems:** Iberian Peninsula — integrated oak-pasture systems combining cork oak (*Quercus suber*) and holm oak (*Q. ilex*) with livestock grazing, acorn collection, and understory crops
+- **Tropical homegardens:** Kerala (India), West Java, Chagga homegardens (Tanzania), and Maya forest gardens ([[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]) are ancient, well-documented examples of multi-strata food production systems that have sustained communities for centuries
+- **Dehesa/montado systems:** Iberian Peninsula — integrated oak-pasture systems combining cork oak (*Quercus suber*) and holm oak (*Q. ilex*) with [[savory-livestock-grazing-planning]], acorn collection, and understory crops
 - **Chinese integration systems:** Mulberry-fish-pond systems and tea-based agroforests with complex vertical structure
 - **Temperate coppice systems:** European woodland management that produced food, fuel, and fodder from managed forest edges and clearings
 
@@ -49,7 +49,7 @@ The classic food forest model, as articulated by Robert Hart, organizes plants i
 ### 1. Canopy Layer (8–15+ meters)
 - Large fruit and nut trees forming the overstory
 - Species: Standard apples (*Malus domestica*), pears (*Pyrus communis*), sweet chestnut (*Castanea sativa*), walnut (*Juglans regia*), oak (*Quercus* spp. for acorns), heartnut, pawpaw (*Asimina triloba*), persimmon (*Diospyros virginiana*)
-- Function: Primary light capture, microclimate creation, wind protection, nitrogen input (leguminous trees), pollinator habitat
+- Function: Primary light capture, [[mollison-designers-microclimate-creation-frost-protection]], wind protection, nitrogen input (leguminous trees), pollinator habitat
 ### 2. Understory/Low Tree Layer (4–8 meters)
 - Smaller fruit trees, dwarf fruit varieties, and nitrogen-fixing understory trees
 - Species: Dwarf apples and pears, plums (*Prunus* spp.), cherries, quince (*Cydonia oblonga*), medlar, serviceberry (*Amelanchier* spp.), Siberian pea shrub (*Caragana arborescens*), eleagnus species
@@ -76,8 +76,8 @@ The classic food forest model, as articulated by Robert Hart, organizes plants i
 
 ### Succession Acceleration
 
-Food forests leverage natural ecological succession — the process by which ecosystems develop from bare ground to mature forest — but accelerate and direct it toward edible productivity:
-1. **Pioneer stage:** Fast-growing nitrogen-fixing trees and dynamic accumulators establish soil structure and fertility
+Food forests leverage natural [[holmgren-ecological-succession-and-pulsing]] — the process by which ecosystems develop from bare ground to mature forest — but accelerate and direct it toward edible productivity:
+1. **Pioneer stage:** Fast-growing nitrogen-fixing trees and [[comparison-dynamic-accumulators-vs-cover-crops]] establish soil structure and fertility
 2. **Shrub establishment:** Berry bushes and understory trees fill the mid-layers
 3. **Canopy closure:** Mature fruit and nut trees form the overstory; shade-tolerant understory species are selected
 4. **Mature food forest:** Complex, self-regulating polyculture with high biodiversity and stable productivity
@@ -115,7 +115,7 @@ Unlike conventional agriculture, food forests aim for closed-loop nutrient cycli
 
 Following permaculture zone theory:
 - **Zone 1 (most intensively managed):** Kitchen garden herbs, salad greens, strawberries, frequently harvested elements — typically closest to the dwelling
-- **Zone 2:** Main food forest area with fruit trees, berry bushes, and perennial vegetables — visited daily to weekly
+- **Zone 2:** Main food forest area with fruit trees, berry bushes, and [[comparison-perennial-vegetables-vs-cover-crops]] — visited daily to weekly
 - **Zone 3:** Larger nut trees, bulk crops, grazing areas, firewood — visited weekly to monthly
 - **Zone 4:** Managed woodland, foraging areas, water harvesting — visited seasonally
 - **Zone 5:** Unmanaged wildlife habitat — left as natural ecosystem buffer
@@ -125,9 +125,9 @@ Sector analysis maps external energies (sun, wind, fire risk, wildlife corridors
 ## See Also
 
 - [[hugelkultur]] — Mound-based bed-building technique often used in food forest establishment
-- [[comfrey]] — Key dynamic accumulator and mulch crop in temperate food forests
-- [[robert-hart]] — Pioneer of the modern temperate food forest concept
+- comfrey — Key dynamic accumulator and mulch crop in temperate food forests
+- robert-hart — Pioneer of the modern temperate food forest concept
 - [[rhus-typhina]]
-- [[punica-granatum]]
-- [[arctostaphylos-uva-ursi]]
+- punica-granatum
+- arctostaphylos-uva-ursi
 - [[thuja-occidentalis]]

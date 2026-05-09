@@ -12,7 +12,7 @@ sources:
 ---
 # Reishi Cultivation
 
-Reishi (Ganoderma lucidum) is the most revered medicinal mushroom in Asian culture, with a documented history spanning more than 2,000 years. Known as "Ling Chi" in China (the "Mushroom of Immortality") and "Reishi" in Japan, it holds an exalted position in traditional medicine that exceeds that of Ginseng.
+Reishi ([[stamets-reishi-ganoderma-lucidum-cultivation]]) is the most revered medicinal mushroom in Asian culture, with a documented history spanning more than 2,000 years. Known as "Ling Chi" in China (the "Mushroom of Immortality") and "Reishi" in Japan, it holds an exalted position in traditional medicine that exceeds that of Ginseng.
 
 ## Historical Significance
 
@@ -24,7 +24,7 @@ Reishi is cultivated on supplemented hardwood sawdust or chips in indoor growing
 
 ## Antler vs. Cap Growth
 
-One of the most distinctive features of Reishi cultivation is the ability to control morphology through environmental conditions, particularly CO2 concentration:
+One of the most [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of Reishi cultivation is the ability to control morphology through environmental conditions, particularly CO2 concentration:
 
 ### Antler Growth (High CO2)
 - Maintained at elevated CO2 levels (above 1,000 ppm)
@@ -45,13 +45,13 @@ The choice between antler and cap cultivation involves tradeoffs in yield, morph
 
 ## Fruiting Parameters
 
-Reishi demonstrates strong photosensitivity, similar to Oyster and Shiitake mushrooms. Light is required for proper primordia formation and development. Without adequate light exposure, fruitbodies become malformed. The mushroom also responds to light direction, growing toward light sources (phototropism).
+Reishi demonstrates strong photosensitivity, similar to Oyster and Shiitake mushrooms. Light is required for proper [[growing-gourmet-primordia-formation-pinning]] and development. Without adequate light exposure, fruitbodies become malformed. The mushroom also responds to light direction, growing toward light sources (phototropism).
 
 Temperature requirements for Reishi are moderate, fitting within the 70-85F (21-29C) range typical of many gourmet and medicinal species. Relative humidity should be maintained at 85-95% during fruiting for optimal development.
 
 ## Mycelial Characteristics
 
-Reishi mycelium is typically white to off-white, forming a dense, cottony mat on agar media. On grain spawn, the mycelium is thick and tenacious, showing good recovery within 2-3 days of inoculation. As the mycelium matures on supplemented sawdust substrates, it develops a thick, durable mycelial mat that binds the substrate firmly.
+Reishi mycelium is typically white to off-white, forming a dense, cottony mat on agar media. On grain spawn, the mycelium is thick and tenacious, showing good recovery within 2-3 days of inoculation. As the mycelium matures on [[oyster-mushroom-supplemented-sawdust-blocks]] substrates, it develops a thick, durable mycelial mat that binds the substrate firmly.
 
 ## Substrate Preferences
 
@@ -63,12 +63,12 @@ Reishi fruitbodies are harvested when fully mature, typically after 2-3 months o
 
 - Drying and grinding into powder for teas and extracts
 - Hot water extraction for polysaccharide concentrates
-- Alcohol extraction for triterpenoid compounds
+- [[pf-tek-alcohol-extraction-method]] for triterpenoid compounds
 - Dual extraction (water + alcohol) for full-spectrum products
 
 ## Medicinal Properties
 
-Reishi is one of the most extensively studied medicinal mushrooms. Key bioactive compounds include:
+Reishi is one of the most extensively studied medicinal mushrooms. Key [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include:
 - Beta-glucans (polysaccharides) with immunomodulatory activity
 - Triterpenoids (ganoderic acids) with anti-inflammatory and hepatoprotective effects
 - Ganoderma lucidum peptide with antioxidant properties
@@ -83,4 +83,4 @@ Traditional uses include immune system support, fatigue reduction, liver protect
 - [[reishi-mushroom-medicinal-properties]]
 - [[growing-gourmet-substrate-preparation]]
 - [[growing-gourmet-fruiting-parameters]]
-- [[gourmet-mushroom-strain-selection]]
+- gourmet-mushroom-strain-selection

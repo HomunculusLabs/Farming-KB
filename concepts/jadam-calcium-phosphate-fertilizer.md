@@ -1,5 +1,5 @@
 ---
-title: JADAM Calcium Phosphate Liquid Fertilizer
+title: JADAM bionutrients-lab-calcium-phosphate-calamansi jadam-liquid-fertilizer-nutritional-perspective
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 Animal bones consist of approximately 20% phosphate (P) and 20% calcium (Ca).
 Bone meal JLF provides both elements simultaneously, making it an excellent
-dual-purpose input for mid-to-late stage crop management.
+dual-purpose input for mid-to-late stage [[mushroom-crop-management-flush-harvesting]].
 
 ## Role in Plant Growth
 
@@ -19,8 +19,8 @@ dual-purpose input for mid-to-late stage crop management.
   metabolism (ATP), DNA and RNA
 - **Calcium (Ca):** Forms spindle fibers for cell walls and cell division (Ca2+);
   signal transmitter for hormone responses
-- Together these elements **control vegetative growth** and **stimulate
-  reproductive growth** (flowering, fruiting)
+- Together these elements **control [[cannabis-vegetative-growth-stage]]** and **stimulate
+  [[knf-reproductive-growth-stage]]** (flowering, fruiting)
 - Apply in later stages of fruit growth to strengthen lower buds
 
 ## Recipe: Bone Meal JLF
@@ -62,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -104,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

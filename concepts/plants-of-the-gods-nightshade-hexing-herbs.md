@@ -15,8 +15,8 @@ type: concept
 
 Since antiquity, several members of the Nightshade family (Solanaceae)
 have been associated with witchcraft in Europe. These plants — Henbane
-(Hyoscyamus), Belladonna (Atropa belladonna), and Mandrake
-(Mandragora officinarum) — enabled witches to perform feats of occult
+(Hyoscyamus), Belladonna ([[belladonna-atropa-belladonna-ethnobotany]]), and Mandrake
+([[mandrake-mandragora-officinarum-in-european-folklore]]) — enabled witches to perform feats of occult
 wonder and prophecy, hex through hallucinogenic communication with the
 supernatural, and transport themselves to far-off places. In *Plants of
 the Gods*, Schultes, Hofmann, and Ratsch document their extraordinary
@@ -95,7 +95,7 @@ vanish, adding to the plant's mysterious reputation.
 
 The extraordinary reputation of these plants is due primarily to their
 bizarre psychoactivity and similarity in chemical constitution. Their
-use in medieval European witchcraft was widespread, with preparations
+use in medieval [[harner-european-witchcraft-hallucinogens]] was widespread, with preparations
 ranging from drinks and salves to fumigations. The "flying ointment"
 applied to mucous membranes produced sensations of levitation and
 transport to the sabbat — in reality, the tropane alkaloid-induced
@@ -115,7 +115,7 @@ consistent with scopolamine intoxication.
 ## Legacy in Modern Culture
 
 The Nightshade hallucinogens represent a fundamentally different class
-from other psychoactive plants. Unlike psilocybin mushrooms or peyote,
+from other psychoactive plants. Unlike [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] or peyote,
 which typically produce vivid visual experiences within clear
 consciousness, the tropane alkaloids induce a true delirium with
 complete amnesia. This distinction led Albert Hofmann to classify them

@@ -1,5 +1,5 @@
 ---
-title: Solomon on Crop Rotation and Garden Planning
+title: Solomon on comparison-crop-rotation-vs-cover-cropping and hamilton-garden-planning-and-site-assessment
 created: 2026-04-21
 updated: 2026-04-21
 type: "concept"
@@ -18,9 +18,9 @@ From [[solomon-garden-ley-rotation-soil-restoration]]
 - [[intensive-gardening-critique-solomon]]
 
 ## Merged: Garden Size Planning
-Steve Solomon provides practical guidance on how much garden space is needed to feed a family, drawing on historical examples and his own experience. His recommendations are grounded in what is actually achievable for a home gardener. - solomon crop rotation and garden planning - solomon crop rotation and garden planning - [[solomon-gardening-when-it-counts-index]] During World War II, the British government required every council to make an "allotment" (community garden plot) available to any resident who requested one.
+Steve Solomon provides practical guidance on how much garden space is needed to feed a family, drawing on historical examples and his own experience. His recommendations are grounded in what is actually achievable for a home gardener. - solomon crop rotation and garden planning - solomon crop rotation and garden planning - [[solomon-gardening-when-it-counts-index]] During World War II, the British government required every council to make an "allotment" ([[mollison-designers-community-garden-design-urban-permaculture]] plot) available to any resident who requested one.
 ## Merged: Solomon Wide Row Spacing Method
-Steve Solomon advocates for much wider plant spacing than intensive gardening methods recommend. This approach reduces irrigation needs, produces larger individual vegetables, and matches the way vegetables were traditionally grown before oil-driven irrigation became common. - [[solomon-gardening-when-it-counts-index]] - [[solomon-root-cellaring-and-crop-storage]]
+Steve Solomon advocates for much wider plant spacing than [[solomon-wide-spacing-versus-intensive-gardening-debate]] methods recommend. This approach reduces irrigation needs, produces larger individual vegetables, and matches the way vegetables were traditionally grown before oil-driven irrigation became common. - [[solomon-gardening-when-it-counts-index]] - [[solomon-root-cellaring-and-crop-storage]]
 ## Practical Applications
 
 Solomon on Crop Rotation and Garden Planning has a range of practical applications that make it relevant to
@@ -98,4 +98,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

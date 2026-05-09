@@ -85,19 +85,19 @@ good leaf litter accumulation.
 As an obligate ectomycorrhizal fungus, H. russula forms mutualistic
 associations with the fine root systems of broadleaf trees.
 
-The fungal mantle surrounds root tips, facilitating nutrient exchange: the
+The fungal mantle surrounds root tips, facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]: the
 fungus receives photosynthates from the host while delivering mineral
 nutrients (phosphorus, nitrogen, micronutrients) scavenged from soil.
 
-This relationship improves host tree drought tolerance and disease resistance,
+This relationship improves host tree [[dighton-fungal-drought-tolerance-plant-water-relations]] and disease resistance,
 making H. russula ecologically significant in oak-beech forest ecosystems.
 
-It contributes to soil aggregation and organic matter cycling through its
-extensive extraradical mycelial network.
+It contributes to soil aggregation and [[hamilton-composting-and-organic-matter-management]] cycling through its
+extensive extraradical [[gadd-mycelial-network-dynamics]].
 
 ## Edibility and Culinary Use
 
-Hygrophorus russula is considered an excellent edible mushroom, among the
+Hygrophorus russula is considered an excellent [[bloomfield-boletus-satanus-edible-mushroom-hazards]], among the
 most prized in the Hygrophoraceae family for its firm texture and mild flavor.
 
 In Italy, France, and Spain it is collected commercially and features in
@@ -132,7 +132,7 @@ The mycorrhizal association it forms supports tree health and nutrient
 cycling, contributing to the overall productivity of polyculture systems.
 
 In established food forests with Quercus spp., the presence of H. russula
-indicates healthy soil biology and functional mycorrhizal networks.
+indicates healthy soil biology and functional [[dighton-mycorrhizal-networks-carbon-transfer]].
 
 It can be introduced via spore slurries applied to oak seedling root zones
 at planting time, though commercial inoculum is not widely available.

@@ -1,10 +1,11 @@
 ---
-title: Black Soldier Fly Larvae as Feed
+title: comparison-black-soldier-fly-composting-vs-bokashi Fly Larvae as Feed
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [animal-husbandry, byproducts, nutrition, homesteading, processing, preservation, sustainability]
-sources: []
+sources:
+  sources: []
 ---
 
 # Black Soldier Fly Larvae as Feed
@@ -31,7 +32,7 @@ The high calcium content (from the exoskeleton) is especially beneficial for egg
 BSF larvae contain 5-10% chitin in their exoskeleton. Chitin and its derivative chitosan have documented benefits:
 
 - Stimulates immune function in poultry and fish
-- Antimicrobial properties in the gut
+- [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] in the gut
 - May reduce need for antibiotics in livestock production
 - Improves gut microbiome diversity
 
@@ -64,7 +65,7 @@ BSF meal can replace 10-25% of soybean meal in poultry rations without affecting
 
 ### Fat Extraction (Advanced)
 
-The high fat content of BSF larvae can be a liability in feed rations — excess fat causes rancidity and digestive upset. Defatting improves shelf life:
+The high fat content of BSF larvae can be a liability in feed rations — excess fat causes rancidity and digestive upset. Defatting improves [[psilocybin-shelf-life-stability]]:
 
 - Press dried larvae through a screw press or expeller
 - The resulting oil can be used as a supplemental energy source or made into biodiesel
@@ -102,7 +103,7 @@ The high fat content of BSF larvae can be a liability in feed rations — excess
 
 Feed insect regulations vary significantly by region:
 
-- **United States** — The FDA has not formally approved BSF as a feed ingredient for livestock intended for human consumption. Several states allow it for poultry and fish under specific conditions. Check state feed control regulations.
+- **[[dmt-containing-plants-united-states-halpern]]** — The FDA has not formally approved BSF as a feed ingredient for livestock intended for human consumption. Several states allow it for poultry and fish under specific conditions. Check state feed control regulations.
 - **European Union** — BSF larvae are approved for use in aquaculture feed (EU Regulation 2017/893) and pet food. Approval for poultry and swine feed is pending as of 2026.
 - **Canada** — CFIA allows BSF for pet food and aquaculture feed under certain conditions.
 - **Australia** — Approved for poultry, swine, and aquaculture feed.
@@ -115,7 +116,7 @@ BSF larvae are produced as a byproduct of [[black-soldier-fly-composting]]. The 
 
 ## Economic Considerations
 
-At homestead scale, BSF larvae production costs are primarily labor and bin materials. The value of waste diverted from landfill and feed costs avoided typically provides a strong return on investment. Commercial BSF meal sells for $800-1,500 per ton, making small-scale production economically competitive with soybean meal ($350-500/ton) when waste diversion value is included.
+At homestead scale, BSF larvae [[fukuoka-textdoc-production-costs-not-coming-down]] are primarily labor and bin materials. The value of waste diverted from landfill and feed costs avoided typically provides a strong return on investment. Commercial BSF meal sells for $800-1,500 per ton, making small-scale production economically competitive with soybean meal ($350-500/ton) when waste diversion value is included.
 
 ## See Also
 

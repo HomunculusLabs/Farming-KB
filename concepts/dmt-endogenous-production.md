@@ -53,9 +53,9 @@ with exogenous psychedelic compounds simply pushing this balance further.
 
 ## Analytical Challenges
 
-Quantifying endogenous DMT levels in brain tissue presents significant
+Quantifying [[mckenna-endogenous-dmt-brain-familiarity]] levels in brain tissue presents significant
 analytical challenges. DMT is present at very low concentrations, is
-chemically unstable under some storage conditions, and can be generated as
+chemically unstable under some [[vegetable-storage-conditions-by-temperature-and-humidity]], and can be generated as
 an artifact during sample processing. Early studies reporting DMT in human
 brain tissue were criticized for potential methodological artifacts, though
 more recent studies using improved analytical techniques have confirmed
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

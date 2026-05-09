@@ -1,5 +1,5 @@
 ---
-title: Pine Bark Weevil Ecology in Fukuoka's Framework
+title: fukuoka pine bark weevil ecology Weevil Ecology in Fukuoka's Framework
 created: 2026-04-28
 tags:
   - natural-farming
@@ -16,8 +16,8 @@ type: concept
 
 # Pine Bark Weevil Ecology in Fukuoka's Framework
 
-The pine bark weevil blight affecting Japanese red pines serves as one of
-Masanobu Fukuoka's most detailed case studies in ecological cascade effects and
+The pine bark [[fukuoka-pine-weevil-blight-non-causality]] affecting Japanese red pines serves as one of
+Masanobu Fukuoka's most detailed case studies in [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]] effects and
 the futility of [[fukuoka-road-critique-of-modern-science]]: intervening against surface symptoms while remaining
 ignorant of root causes, thereby sowing the seeds for future catastrophes.
 
@@ -47,8 +47,8 @@ understanding risk disrupting the system further.
 
 ## Connection to Pine Blight and Matsutake
 
-Fukuoka discussed pine forest decline in other contexts as well, linking it
-to the disappearance of the matsutake mushroom, which depends on healthy
+Fukuoka discussed [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] decline in other contexts as well, linking it
+to the disappearance of the [[pine-disease-and-matsutake-mushroom-decline]], which depends on healthy
 pine roots. The [[fukuoka-rodenticide-ecosystem-disruption-chain]] that Fukuoka describes elsewhere follows the same pattern: chemical
 intervention against a visible pest creates conditions for a different, often
 worse, problem to emerge.
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

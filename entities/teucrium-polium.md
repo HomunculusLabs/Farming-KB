@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Abu-Rabia, A. (2005). "Urinal decoctions of Teucrium polium." Journal of Ethnopharmacology.
   - Wikipedia contributors (2024). "Teucrium polium." Wikipedia, The Free Encyclopedia.
-  - Novak, J. et al. (2008). "Composition of essential oils of Teucrium species." Chemistry & Biodiversity.
+  - Novak, J. et al. (2008). "Composition of [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of Teucrium species." Chemistry & Biodiversity.
   - Radulović, N. et al. (2007). "Antimicrobial activity of Teucrium polium." Journal of Ethnopharmacology.
 ---
 
@@ -50,13 +50,13 @@ It grows at elevations from near sea level to approximately 2,000 meters. The pl
 
 The species is calcicole, preferring alkaline limestone substrates. It is often found growing in rock crevices and on stony ground where competition from taller vegetation is limited.
 
-Several subspecies have been recognized, including subsp. polium (western Mediterranean) and subsp. capitatum (eastern Mediterranean and western Asia). These differ in inflorescence structure and leaf morphology.
+Several subspecies have been recognized, including subsp. polium (western Mediterranean) and subsp. capitatum (eastern Mediterranean and western Asia). These differ in inflorescence structure and [[cannabis-leaf-morphology-and-phyllotaxy]].
 
 In parts of its range, particularly North Africa and the Middle East, T. polium is collected from wild populations for traditional medicine. Overharvesting has led to local population declines in some areas.
 
 ## Bioactive Compounds
 
-T. polium contains a diverse array of secondary metabolites, including diterpenes, flavonoids, phenolic acids, and essential oil components.
+T. polium contains a diverse array of [[antifungal-secondary-metabolites-coprophilous-fungi]], including diterpenes, flavonoids, phenolic acids, and essential oil components.
 
 The most notable compounds are neo-clerodane diterpenoids, including teucvin, teucvidin, and poliumoside. These compounds are responsible for many of the species' pharmacological activities.
 
@@ -66,19 +66,19 @@ Flavonoid glycosides, including luteolin and apigenin derivatives, have been iso
 
 Total phenolic content varies considerably with geography, harvest time, and plant part. Aerial parts harvested during flowering typically contain the highest concentrations of bioactive compounds.
 
-Volatile oil composition shows significant chemotype variation across the species' range. Western Mediterranean populations tend to be richer in α-pinene, while eastern populations contain more sesquiterpenes.
+Volatile oil composition shows significant chemotype [[psilocybin-psilocin-variation-across-flushes]] the species' range. Western Mediterranean populations tend to be richer in α-pinene, while eastern populations contain more sesquiterpenes.
 
 ## Pharmacology and Traditional Uses
 
 T. polium has been used extensively in traditional medicine for gastrointestinal disorders, diabetes, inflammation, and wound healing. In Persian traditional medicine (Unani), it is prescribed as a hypoglycemic agent.
 
-In vitro and animal studies have demonstrated anti-inflammatory, antioxidant, antimicrobial, and hepatoprotective activities. Extracts show activity against Gram-positive bacteria and some fungal pathogens.
+In vitro and animal studies have demonstrated anti-inflammatory, antioxidant, antimicrobial, and hepatoprotective activities. Extracts show activity against Gram-positive bacteria and some [[bloomfield-fungal-pathogens-and-parasites]].
 
 However, several cases of hepatotoxicity have been associated with T. polium consumption, particularly with prolonged use. The hepatotoxic effects are attributed to specific neoclerodane diterpenoids.
 
 Hepatotoxicity cases have been documented primarily in patients using T. polium as a weight-loss aid or diabetes treatment. Liver enzyme elevations typically resolve after discontinuation.
 
-In severe cases, fulminant hepatic failure requiring transplantation has been reported. These adverse effects have significantly reduced the commercial availability of T. polium supplements in Europe.
+In severe cases, fulminant hepatic failure requiring transplantation has been reported. These [[blesching-cannabis-safety-adverse-effects-evidence]] have significantly reduced the commercial availability of T. polium supplements in Europe.
 
 The species has been investigated for potential antidiabetic properties, with animal studies showing reductions in blood glucose levels. Human clinical data remains limited and inconclusive.
 
@@ -105,6 +105,9 @@ Essential oil yield from cultivated plants is typically 0.5–1.5% of dry weight
 Propagation from cuttings is more reliable than seed, which can have low and uneven germination rates. Semi-hardwood cuttings taken in late summer root readily under mist propagation.
 
 ## See Also
+
+- [[teucrium-scorodonia]]
+- [[teucrium-marum]]
 
 - [[thymus-vulgaris-entity]]
 - [[lavandula-angustifolia]]

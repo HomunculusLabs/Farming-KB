@@ -19,13 +19,13 @@ Hemoglobin is a tetrameric transport protein with cooperative oxygen binding.
 Myoglobin is a monomeric storage protein with high oxygen affinity and no cooperativity.
 Hemoglobin loads oxygen in the lung and unloads it in tissues.
 Myoglobin holds oxygen inside skeletal and cardiac muscle until local oxygen pressure becomes very low.
-Hemoglobin is regulated by pH, carbon dioxide, and 2,3-BPG.
+Hemoglobin is regulated by pH, [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]], and 2,3-BPG.
 Myoglobin is regulated mainly by oxygen availability and cellular demand.
 ## Basic Comparison
 | Feature | Hemoglobin | Myoglobin |
 |---|---|---|
 | Main location | Red blood cells | Skeletal and cardiac muscle cells |
-| Main role | hemoglobin and oxygen transport | Oxygen storage and diffusion buffer |
+| Main role | hemoglobin and [[hemoglobin-oxygen-transport-biochemistry]] | Oxygen storage and diffusion buffer |
 | Structure | Tetramer | Monomer |
 | Heme groups | Four per molecule | One per molecule |
 | Binding curve | Sigmoidal | Hyperbolic |
@@ -67,7 +67,7 @@ Lower pH and higher carbon dioxide shift hemoglobin toward oxygen release throug
 2,3-BPG binds deoxygenated hemoglobin and stabilizes the low-affinity T state.
 Heat also promotes oxygen unloading in active tissues.
 These effects make hemoglobin sensitive to metabolic demand.
-Myoglobin lacks comparable [[cannabis-and-sickle-cell-disease]] such as sickle cell disease and thalassemi [[protein-folding-and-misfolding-diseases-biochemistry]] mistry helped establish principles of ligand binding and protein folding.
+Myoglobin lacks comparable [[cannabis-and-sickle-cell-disease]] such as [[cannabis-and-sickle-cell-disease]] disease and thalassemi [[protein-folding-and-misfolding-diseases-biochemistry]] mistry helped establish principles of ligand binding and protein folding.
 ## Evolutionary Relationship
 Hemoglobin and myoglobin belong to the globin protein family.
 They share a conserved fold that positions heme in a hydrophobic pocket.

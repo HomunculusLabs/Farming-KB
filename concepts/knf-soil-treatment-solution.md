@@ -22,8 +22,8 @@ strategies working in harmony:
   naturally, creating channels for air and water penetration.
 - Straw and leaf mulching suppresses weeds while adding organic
   matter to the soil surface.
-- Indigenous microorganisms (IMOs) manage soil health by
-  decomposing organic matter, fixing nutrients, and suppressing
+- [[beneficial-indigenous-microorganisms-bim]] (IMOs) manage soil health by
+  decomposing [[hamilton-composting-and-organic-matter-management]], fixing nutrients, and suppressing
   pathogens.
 
 The SOS is an all-natural soil conditioner that combines multiple
@@ -68,7 +68,7 @@ application:
 2. Do not bury the IMO deeply. The source emphasizes that deeper
    soil is already rich, and surface application is more effective.
 3. Soil applied with IMO-4 will become warm and develop a soft
-   surface while maintaining a balanced microbial community.
+   surface while maintaining a balanced [[edaphic-factors-microbial-community-structure]].
 4. Apply IMO-4 in small lumps rather than spreading it uniformly.
    This lump form helps the field soil build up aggregated structure
    rapidly.
@@ -106,13 +106,13 @@ The liquid SOS is prepared and applied through the following process:
 
 ## Integration with Other Soil Practices
 
-The SOS works best when combined with other Natural Farming soil
+The SOS works best when combined with other [[comparison-natural-farming-vs-permaculture]] soil
 management practices described in the source:
 
 - No-till or minimal tillage to preserve fungal networks and soil
   structure built by IMOs.
-- Mulching with rice straw or other organic materials to suppress
+- Mulching with [[fukuoka-rice-straw-mulch-central-technique]] or other organic materials to suppress
   weeds and maintain soil moisture.
-- Cover cropping to add organic matter and protect soil from
+- [[fukuoka-clover-cover-cropping-soil-ecology]] to add organic matter and protect soil from
   erosion.
 - Use of [[knf-seed-treatment-and-soil-foundation]]

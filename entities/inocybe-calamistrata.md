@@ -7,7 +7,7 @@ tags: [fungi, basidiomycota, agaricales, inocybaceae, inocybe,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources: []
   - "/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 ---
 # Inocybe calamistrata
@@ -20,7 +20,7 @@ of which are not psychoactive. Many Inocybe species are in fact
 toxic, containing dangerous levels of muscarine, making accurate
 identification critical for anyone encountering members of this
 genus. I. calamistrata is a small, mycorrhizal species found in
-coniferous and mixed forests of Europe and parts of North America.
+coniferous and mixed forests of Europe and parts of [[psilocybin-north-america-pacific-northwest]].
 Its discovery as a psilocybin-containing species was significant
 because it expanded the known taxonomic distribution of
 hallucinogenic compounds beyond the traditionally recognized genera
@@ -92,7 +92,7 @@ distinctive scaly or fibrillose cap surface.
   occasionally with broadleaf trees
 - **Habitat:** Coniferous and mixed forests, often in mossy
   areas or along forest paths; found on forest floors with
-  accumulated needle or leaf litter
+  accumulated needle or [[dighton-fungal-decomposition-leaf-litter-dynamics]]
 - **Seasonality:** Late summer through autumn (August to
   November in the Northern Hemisphere); fruits during
   cooler, wetter periods

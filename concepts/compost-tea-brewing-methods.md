@@ -9,24 +9,24 @@ sources:
 ---
 # Compost Tea Brewing Methods (AACT)
 
-Actively Aerated Compost Tea (AACT) is a water extract of [[lowenfels-earthworms-soil-food-web]] needs restoration.
+Actively [[actively-aerated-compost-tea]] Tea (AACT) is a water extract of [[lowenfels-earthworms-soil-food-web]] needs restoration.
 
 ## AACT Definition
 
 AACT is specifically distinguished from other brewing methods:
 
 - **AACT (Actively Aerated Compost Tea)**: Compost is extracted into water, food resources are added, and the brew is actively aerated throughout the brewing process. Oxygen levels must stay above 5.5-6 ppm. This is the method that preserves all beneficial organism groups: bacteria, fungi, protozoa, and nematodes.
-- **FCT (Fermentative Compost Tea)**: Selects for facultative anaerobic organisms; produces antibiotic/inhibitory compounds
+- **FCT ([[aerobic-vs-fermentative-compost-tea]] Tea)**: Selects for facultative [[ingham-anaerobic-organisms-role-soil]]; produces antibiotic/inhibitory compounds
 - **LBCT (Long-Brewing Compost Tea)**: Starts aerobic, moves through anaerobic phase, returns aerobic
 - **NACT (Not-Aerobic Compost Tea)**: Anaerobic bacteria dominate; produces toxic materials
 
-Per Ingham: "If the tea has gone anaerobic and the beneficial fungi are gone, it is not compost tea." Anaerobic liquids should be called "putrefying organic matter tea."
+Per Ingham: "If the tea has gone anaerobic and the beneficial fungi are gone, it is not compost tea." Anaerobic liquids should be called "putrefying [[hamilton-composting-and-organic-matter-management]] tea."
 
 ## Essential Equipment
 
 - **Brewer**: Commercial AACT brewers (Growing Solutions, EPM, Alaska Giant, Earthworks, etc.) or DIY 5-gallon bucket with aquarium bubbler
-- **Air pump**: Must maintain dissolved oxygen above 5.5-6 ppm throughout the brew
-- **Compost**: Must be aerobic, thermal compost or worm castings meeting SFI biological standards (see [[aact-compost-quality-standards-ingham]]
+- **Air pump**: Must maintain [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] above 5.5-6 ppm throughout the brew
+- **Compost**: Must be aerobic, [[ingham-thermal-compost-versus-worm-compost]] or worm castings meeting SFI biological standards (see [[aact-compost-quality-standards-ingham]]
 - [[compost-tea-application-rates]]
 - [[2c-d-pihkal-entry-23]]
 - [[compost-tea-aact]]
@@ -108,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

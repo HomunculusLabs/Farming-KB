@@ -12,8 +12,8 @@ type: concept
 # Mushroom Soil and Mould
 
 The selection and preparation of soil, or "mould," for
-covering [[mushroom-spawn]].
-The dense nature of clay prevents necessary air circulation.
+covering mushroom-spawn.
+The dense nature of clay prevents necessary [[stamets-growing-room-air-circulation-co2-management]].
 
 ### Chalk and Lime
 
@@ -35,7 +35,7 @@ odours.
 
 ### Worm Removal
 
-Worms were considered great enemies to a mushroom bed, on
+Worms were considered great enemies to a [[falconer-mushroom-bed-boxing-and-protection]], on
 account of their boring and loosening the soil, and perhaps
 eating the spawn. Care had to be taken that not one worm was
 in the bed at moulding time, requiring careful inspection
@@ -91,3 +91,6 @@ production for three to four months or more on each bed.
 ## See Also
 
 - [[casing-soil-preparation-mushroom-cultivation]]
+- [[mushroom-cultivator-casing-soil]]
+- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
+- [[casing-soil-mushroom-cultivation]]

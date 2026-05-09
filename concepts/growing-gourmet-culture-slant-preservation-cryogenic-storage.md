@@ -1,5 +1,5 @@
 ---
-title: Mushroom Culture Slant Preservation and Cryogenic Storage
+title: mazatec-mushroom-culture-and-velada Slant Preservation and Cryogenic Storage
 tags:
   - mushroom-cultivation
   - strain-preservation
@@ -9,14 +9,14 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Growing Gourmet and Medicinal Mushrooms, Paul Stamets, 1993, Chapter 13
+  - Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive, Paul Stamets, 1993, Chapter 13
 type: concept
 created: 2026-04-28
 ---
 
 # Mushroom Culture Slant Preservation and Cryogenic Storage
 
-Every mushroom strain is certain to die out eventually, making the [[growing-gourmet-stamets-p-value-strain-age-system|P-value]] of each slant to know its generational age
+Every [[dikaryon-formation-mushroom-strain-genetics]] is certain to die out eventually, making the [[growing-gourmet-stamets-p-value-strain-age-system|P-value]] of each slant to know its generational age
 5. Use the oldest slants first for working cultures, preserving the youngest for archival purposes
 6. For tropical species like Volvariella, avoid standard refrigeration and use specialized warm-storage protocols
 7. Inspect stored slants visually every 3 to 6 months for signs of contamination or desiccation
@@ -25,10 +25,10 @@ Every mushroom strain is certain to die out eventually, making the [[growing-gou
 ## Related Concepts
 
 - [[growing-gourmet-stamets-p-value-strain-age-system|Stamets P-Value System]]
-- [[growing-gourmet-grain-spawn-generation|Grain Spawn Generation]]
+- Grain [[mushroom-spawn-generation-limits]]
 - [[growing-gourmet-spore-germination-strain-isolation|Spore Germination and Strain Isolation]]
-- Agar Culture Techniques
-- Nutrified Agar Media Formulas and Preparation
+- Agar [[agar-culture-techniques-detailed]]
+- Nutrified [[growing-gourmet-agar-media-formulas-preparation]] Formulas and Preparation
 ## Practical Applications
 
 Mushroom Culture Slant Preservation and Cryogenic Storage has a range of practical applications that make it relevant to
@@ -106,4 +106,4 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+- [[grain-spawn-generation]]

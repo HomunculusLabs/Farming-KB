@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-Edaphic factors, the physical and chemical properties of soil, are the primary determinants of microbial community structure across all sample compartments in cannabis cultivation. The Winston et al. (2014) study demonstrated that soil type was the strongest predictor of both community composition and abundance.
+[[soil-edaphic-factors-microbial-communities]], the physical and chemical properties of soil, are the primary determinants of [[edaphic-factors-microbial-community-structure]] structure across all sample compartments in cannabis cultivation. The Winston et al. (2014) study demonstrated that soil type was the strongest predictor of both [[core-endorhiza-bacterial-community-composition-cannabis]] and abundance.
 
 Soil type outweighed both sample type (endorhiza, rhizosphere, bulk soil) and Cannabis cultivar in structuring the microbiome. Understanding the relative importance of individual edaphic variables is essential for managing soil health to support beneficial plant-microbe associations.
 
@@ -53,11 +53,11 @@ Nitrogen was the single most important edaphic factor structuring cannabis-assoc
 
 The Mo-Bio soil had nitrogen concentrations ranging from approximately 0.26% to 1.51% across experiments. The Orange County soil had 0.53%. The higher nitrogen content was associated with distinct community structures that clustered separately in PCoA plots along PC1 (32.06% variance explained in the unweighted analysis).
 
-Nitrogen availability directly influences microbial growth rates, biomass production, and community dynamics. Nitrogen-rich environments tend to favor copiotrophic organisms, particularly members of the Proteobacteria.
+Nitrogen availability directly influences microbial growth rates, [[dighton-fungal-biomass-production-aquatic-ecosystems]], and community dynamics. Nitrogen-rich environments tend to favor copiotrophic organisms, particularly members of the Proteobacteria.
 
 Nitrogen-limited environments may select for oligotrophic organisms adapted to nutrient scarcity such as Acidobacteria. The strong nitrogen signal across all compartments suggests it structures the foundational soil community, which then propagates influence through the [[dighton-fungal-dissolved-organic-carbon-production]] showed a strong and highly significant correlation with community structure (weighted r = 0.330, unweighted r = 0.512). Carbon content varied dramatically between soils, from 3.02% to 20.0%.
 
-The Orange County soil had substantially higher organic carbon than the Mo-Bio soil. Higher carbon content supports greater microbial biomass and diversity, provides energy for heterotrophic organisms, improves soil structure through aggregate formation, and increases cation exchange capacity.
+The Orange County soil had substantially higher organic carbon than the Mo-Bio soil. Higher carbon content supports greater microbial biomass and diversity, provides energy for heterotrophic organisms, improves soil structure through [[soil-aggregate-formation-fungal-contributions]], and increases cation exchange capacity.
 
 The dramatic carbon difference between soil types likely contributed to the distinct community clustering observed in PCoA analyses. Carbon-rich soils support more diverse communities, translating into a larger pool of potential endophytes available for rhizosphere and endorhiza colonization.
 
@@ -73,7 +73,7 @@ Water availability directly influences microbial activity, substrate diffusion, 
 
 For presence/absence comparisons, 657 OTUs differed between soil types while zero showed significant presence/absence differences between cultivars. This approximately 10:1 ratio underscores that soil properties set the fundamental conditions for microbial life.
 
-Cultivar effects represent a finer level of community tuning through abundance modulation only, not through determining which organisms are present. All cultivars draw from the same soil-derived species pool and simply adjust relative abundances differently.
+[[cannabis-cultivar-effects-soil-microbiome]] represent a finer level of community tuning through abundance modulation only, not through determining which organisms are present. All cultivars draw from the same soil-derived species pool and simply adjust relative abundances differently.
 
 Cultivar effects were only detectable in the [[two-tier-selection-model]].
 
@@ -82,6 +82,8 @@ Organic matter amendments increase both carbon content and water-holding capacit
 Regular soil testing for nitrogen, carbon, salinity, and pH is recommended to track the edaphic conditions that most strongly influence the cannabis microbiome. Targeted adjustments based on test results can shift the soil microbial community toward more beneficial compositions.
 
 ## See Also
+
+- [[edaphic-factor-ranking-nitrogen-salinity-cannabis-microbiome]]
 
 - [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]]
 - [[two-tier-selection-model]]

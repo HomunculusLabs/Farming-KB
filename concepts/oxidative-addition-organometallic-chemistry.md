@@ -61,7 +61,7 @@ then complete the formal oxidative addition product.
 Polar oxidative additions are sensitive to solvent polarity, leaving-group ability, and substrate structure. Benzyl, allyl, methyl, and
 primary halides are often more suitable than hindered secondary or tertiary substrates.
 
-Aryl halides often add by pathways that are not simple SN2 reactions at carbon. Palladium(0) oxidative addition into aryl bromides, iodides,
+Aryl halides often add by pathways that are not simple [[nucleophilic-substitution-sn1-sn2-reactions]] at carbon. Palladium(0) oxidative addition into aryl bromides, iodides,
 chlorides, and triflates depends strongly on ligand electronics and on the strength and polarity of the aryl- leaving group bond.
 
 ## Radical and One-Electron Pathways

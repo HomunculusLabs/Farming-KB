@@ -1,5 +1,5 @@
 ---
-title: "How to Use Rock Dust in Your Garden"
+title: "How to Use basalt-rock-dust-agriculture in Your Garden"
 created: 2026-04-28
 tags: [query, soil-amendment, rock-dust, minerals, organic-farming]
 date: 2026-04-25
@@ -27,7 +27,7 @@ glaciers over millennia), and azomite (a volcanic ash deposit containing over 70
 trace minerals). These materials provide a slow-release source of the major
 secondary nutrients and micronutrients that are often depleted in intensively managed
 soils. The [[nutrient-lockout]] page explains
-how mineral balance affects nutrient availability to plants and why remineralization
+how [[holmgren-mineral-balance-soil-fertility]] affects [[ph-and-nutrient-availability-garden-soils]] to plants and why remineralization
 is important.
 
 However, rock dust alone is not a quick-fix fertilizer. The minerals in rock dust
@@ -45,13 +45,13 @@ For outdoor garden beds and food forests, rock dust can be applied as a top-dres
 Heavier applications (up to 40 pounds per 100 square feet) are sometimes used for
 severely depleted soils, but should be split across multiple applications to avoid
 temporary nutrient imbalances. Combining rock dust with [[kelp-meal-fertilizer]] for trace minerals and
-hormones, and compost for microbial food and organic matter, rock dust forms the
+hormones, and compost for microbial food and [[hamilton-composting-and-organic-matter-management]], rock dust forms the
 mineral backbone of a complete, self-sustaining soil fertility program that improves
 with each season of application.
 
 Application timing matters for rock dust effectiveness. Fall applications are ideal
 for outdoor gardens because the winter freeze-thaw cycle and spring microbial
-activity help begin breaking down the mineral matrix before the growing season. For
+activity help begin breaking down the mineral matrix before the [[savory-growing-season-and-non-growing-season-management]]. For
 container gardens, rock dust should be mixed into the soil at least 2 to 4 weeks
 before planting to allow initial microbial colonization. Rock dust can also be
 added to compost piles at a rate of 1 to 2 cups per cubic yard to enrich the
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,10 +1,10 @@
 ---
-title: Mushroom Food Safety and Heavy Metal Accumulation
+title: Mushroom Food Safety and dighton-fungal-biosorption-heavy-metal-remediation Accumulation
 created: 2026-04-28
 tags: [food-safety, heavy-metals, mycoremediation, mushroom-cultivation]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [raw/papers/mycelium-running-stamets.md]
+sources: sources: []
 type: concept
 ---
 
@@ -22,7 +22,7 @@ bioaccumulation is essential for safe mycoremediation practice.
 
 Mushrooms are remarkably efficient at absorbing and concentrating
 substances from their environment. This includes not only nutrients
-but also heavy metals such as lead, cadmium, mercury, arsenic, and
+but also [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] such as lead, cadmium, mercury, arsenic, and
 other toxic elements. When cultivated on contaminated substrates,
 mushroom mycelium can concentrate these metals in the fruiting
 bodies to levels far exceeding those found in the surrounding
@@ -41,7 +41,7 @@ Fungal cell walls contain chitin, glucans, and proteins with
 functional groups that can bind metal ions. These binding sites
 include carboxyl, amino, hydroxyl, and phosphate groups that
 chemically attract and sequester heavy metals from the
-surrounding matrix. Additionally, the extensive mycelial network
+surrounding matrix. Additionally, the extensive [[gadd-mycelial-network-dynamics]]
 provides enormous surface area for absorption, and active
 transport mechanisms may concentrate specific elements within
 fungal cells.
@@ -80,7 +80,7 @@ harvested biomass.
 ## Organochlorines and Persistent Pollutants
 
 Beyond heavy metals, mushrooms can absorb organochlorine
-pesticides, polychlorinated biphenyls (PCBs), polycyclic aromatic
+pesticides, polychlorinated biphenyls (PCBs), [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]
 hydrocarbons (PAHs), and other persistent organic pollutants.
 [[spent-mushroom-substrate]]
 contains concentrated contaminants. This material should not be
@@ -91,13 +91,13 @@ landfill disposal, or further treatment in specialized facilities.
 
 ## Indoor Cultivation Safety
 
-Even indoor mushroom cultivation carries some risk of
+Even indoor [[accessible-mushroom-cultivation-for-disabilities]] carries some risk of
 contamination. Substrates must be sourced from clean, tested
 materials. Water used for cultivation should be tested if there
 is any concern about heavy metal contamination. Growing rooms
 should be kept free from industrial chemicals, pesticides, and
 other potential contaminants that could be absorbed by the
-cultivated mushrooms.
+[[fungi-cultivated-mushrooms-pathogens-competitors]].
 
 ## Testing and Monitoring
 

@@ -1,5 +1,5 @@
 ---
-title: "Beneficial Insects and Biological Pest Control"
+title: "comparison-beneficial-insects-guide-vs-integrated-pest-management and cervantes-biological-pest-control-predators Control"
 created: 2026-04-28
 tags: [biological-control, pest-management, beneficial-insects, organic-gardening, predators]
 date: 2026-04-25
@@ -42,7 +42,7 @@ Both the easily identifiable adult ladybug and its slate-gray larvae eat
 vast quantities of aphids. They cannot be attracted by specific plants but
 are encouraged by cultivating a varied selection of plant species. A single
 ladybug can consume hundreds of aphids during its lifetime. Their presence
-is a reliable indicator of a healthy garden ecosystem.
+is a reliable indicator of a [[query-how-to-build-healthy-garden-soil]] ecosystem.
 
 ### Hoverflies
 
@@ -64,9 +64,9 @@ provides a diverse habitat and plenty of egg-laying sites.
 ### Ground Beetles
 
 Black garden beetles feed on eelworms, cutworms, leatherjackets, and
-insect eggs. They are nocturnal predators that need ground cover to hide
+insect eggs. They are nocturnal predators that need [[fukuoka-citrus-orchard-ground-cover-cultivation]] to hide
 under during the day. Using the closely planted deep bed system in the
-vegetable garden and growing green-manure crops between main crops helps
+[[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] and growing green-manure crops between main crops helps
 maintain the conditions ground beetles need. Keeping the ground covered
 with mulch also provides daytime shelter.
 
@@ -90,7 +90,7 @@ variety of options attracts more species.
 ### Frogs and Toads
 
 These amphibians are excellent for slug control and also eat woodlice
-and other small insects. A garden pond provides an ideal breeding
+and other small insects. A [[fukuoka-heart-shaped-garden-pond-technique]] provides an ideal breeding
 environment, though they really only need water for reproduction. They
 can be encouraged to stay by providing damp, sheltered areas near the
 pond.
@@ -130,6 +130,8 @@ as adding more or less is wasteful.
 - Use biological controls in greenhouses where enclosed conditions suit them
 
 ## Related
+
+- [[savory-biological-pest-control-and-succession]]
 
 - [[hamilton-organic-pest-control]]
 - [[hamilton-wildlife-gardening-biodiversity]]

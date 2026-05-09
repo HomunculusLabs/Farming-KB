@@ -17,7 +17,7 @@ The use of psychoactive plants and fungi in religious, healing, and divinatory c
 
 ### Cave Art and Rock Paintings
 
-- The **tassili Plateau** in Algeria (circa 7000-9000 years ago) contains extensive rock paintings showing anthropomorphic figures with mushroom-like heads, dancing figures, and what appear to be mushroom motifs -- Terence McKenna argued this represents a "mushroom-using culture" from the African Neolithic
+- The **[[mckenna-tassili-plateau-round-head-civilization]]** in Algeria (circa 7000-9000 years ago) contains extensive rock paintings showing anthropomorphic figures with mushroom-like heads, dancing figures, and what appear to be mushroom motifs -- Terence McKenna argued this represents a "mushroom-using culture" from the African Neolithic
 - Other cave art sites in Spain, France, and the Sahara show possible mushroom motifs, though interpretations vary
 - McKenna proposed that these images represent the "Round Head civilization" -- a mushroom-using culture that may represent the original psychedelic-using human society
 
@@ -42,9 +42,9 @@ The Psychedelic Ancient History Mysteries were the most important religious init
 
 ### The Ergotized Kykeon Theory
 
-Wasson, Hofmann, and Ruck (in "The Road to Eleusis," 1978) proposed that the kykeon (a barley drink consumed during the initiation) was prepared from ergotized barley:
+Wasson, Hofmann, and Ruck (in "The [[the-road-to-eleusis-wasson-hofmann-ruck]]," 1978) proposed that the kykeon (a barley drink consumed during the initiation) was prepared from ergotized barley:
 
-- Claviceps purpurea (ergot) grows on barley and other grasses
+- [[bloomfield-ergot-claviceps-purpurea-ergotism]] (ergot) grows on barley and other grasses
 - Ergot contains [[amanita-muscaria-guide]]):
 
 - The mushroom's red-and-white appearance matches some Vedic descriptions
@@ -54,15 +54,15 @@ Wasson, Hofmann, and Ruck (in "The Road to Eleusis," 1978) proposed that the kyk
 
 ### Alternative Theories
 
-- **Peganum harmala (Syrian rue):** Contains harmala alkaloids (MAOIs); was used as a Soma substitute in later periods; some scholars argue it was the original Soma
-- **Psilocybin mushrooms:** McKenna suggested Psilocybe species as candidates, noting the phenomenological match with Vedic descriptions
+- **[[mckenna-food-gods-peganum-harmala-soma]] (Syrian rue):** Contains [[turner-harmala-alkaloids-preparation-and-dosage]] (MAOIs); was used as a Soma substitute in later periods; some scholars argue it was the original Soma
+- **[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]:** McKenna suggested Psilocybe species as candidates, noting the phenomenological match with Vedic descriptions
 - **Ephedra species:** A traditional Ayurvedic candidate; contains ephedrine (a stimulant, not a psychedelic)
 
 ## Allegro and the Sacred Mushroom Hypothesis
 
 John Allegro's "The Sacred Mushroom and the Cross" (1970) proposed a radical thesis:
 
-- Christianity originated from a fertility cult centered on the [[magic-mushroom-cultural-history]] -- Modern history of mushroom use
+- Christianity originated from a fertility cult centered on the magic-mushroom-cultural-history -- Modern history of mushroom use
 - [[psychedelic-plant-sources]] -- Comprehensive plant source listing
 - [[mckenna-tassili-plateau-round-head-civilization]]
 - [[siberian-fly-agaric-shamanism-urine-recycling]]
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

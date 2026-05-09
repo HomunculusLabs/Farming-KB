@@ -3,11 +3,11 @@ title: Semiconductor Physics and Devices
 type: concept
 category: physics
 related:
-  - statistical-mechanics
-  - crystal-structure-and-crystal-defects
-  - phase-diagrams-and-phase-transformations
-  - maxwell-equations-electromagnetism
-  - dislocation-theory-crystal-plasticity
+  - [[statistical-mechanics]]
+  - [[crystal-structure-and-crystal-defects]]
+  - [[phase-diagrams-and-phase-transformations]]
+  - [[maxwell-equations-electromagnetism]]
+  - [[dislocation-theory-crystal-plasticity]]
 tags: [physics, semiconductor, band-theory, pn-junction, transistor,
   MOSFET, optoelectronics, fabrication, quantum-wells, doping,
   carrier-transport, integrated-circuits, materials-science]
@@ -21,7 +21,7 @@ sources:
 ## Overview
 
 Semiconductor physics governs materials with electrical conductivity between
-metals and insulators, typically with band gaps of 0.1–3.5 eV. Silicon,
+metals and insulators, typically with band gaps of 0.1–3.5 eV. [[silicon]],
 germanium, [[gallium-arsenide]], and compound semiconductors form the basis of
 modern electronics, optoelectronics, and photovoltaics. The field bridges
 quantum mechanics and electrical engineering. Key milestones: the transistor

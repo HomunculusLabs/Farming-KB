@@ -61,7 +61,7 @@ These compounds exhibit anti-inflammatory activity through inhibition of NF-κB 
 
 Polyphenolic compounds, including hispidin and its oligomers, contribute to the antioxidant capacity of sanghuang extracts. Hispidin analogs also demonstrate antitumor activity via induction of apoptosis in cancer cell lines.
 
-Sesquiterpenoids, sterols, and fatty acids have also been isolated. The total phenolic content of *S. vaninii* extracts ranges from 15–45 mg GAE/g dry weight depending on extraction method.
+Sesquiterpenoids, sterols, and [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] have also been isolated. The total phenolic content of *S. vaninii* extracts ranges from 15–45 mg GAE/g dry weight depending on extraction method.
 
 ## Pharmacology
 
@@ -81,11 +81,11 @@ Antidiabetic effects have been reported, with polysaccharide extracts inhibiting
 
 Wild *S. vaninii* remains the primary commercial source due to the slow growth and challenging cultivation of this species.
 
-Artificial cultivation has been attempted on various hardwood substrates including oak and mulberry sawdust, supplemented with wheat bran and calcium carbonate.
+[[fukuoka-matsutake-artificial-cultivation-attempt]] has been attempted on various hardwood substrates including oak and mulberry sawdust, supplemented with wheat bran and calcium carbonate.
 
-Optimal mycelial growth occurs at 25–30°C on malt extract agar. Fruiting requires extended incubation periods of 60–120 days after substrate inoculation. Biological efficiency on supplemented sawdust substrates is low, typically 5–15% of dry substrate weight.
+Optimal [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] occurs at 25–30°C on malt extract agar. Fruiting requires extended incubation periods of 60–120 days after substrate inoculation. [[stamets-biological-efficiency-yield]] on [[oyster-mushroom-supplemented-sawdust-blocks]] substrates is low, typically 5–15% of dry substrate weight.
 
-Liquid culture fermentation offers a more practical approach for producing mycelial biomass and extracellular polysaccharides. Optimal fermentation conditions include 28°C, pH 5.5–6.0, with agitation at 150 rpm. Polysaccharide yields in submerged culture reach 2–4 g/L.
+[[comparison-liquid-culture-vs-grain-spawn]] fermentation offers a more practical approach for producing mycelial biomass and extracellular polysaccharides. Optimal fermentation conditions include 28°C, pH 5.5–6.0, with agitation at 150 rpm. Polysaccharide yields in submerged culture reach 2–4 g/L.
 
 Conservation concerns have prompted research into sustainable harvesting practices and improved cultivation techniques for all sanghuang species.
 

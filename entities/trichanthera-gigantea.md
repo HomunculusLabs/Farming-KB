@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Rosales M, Galindo J, Gonzalez J, et al. (2001). "Trichanthera gigantea as a source of protein for livestock." Livestock Research for Rural Development, 13(5).
   - Murgueitio E, Calle Z, Uribe F, et al. (2011). "Native trees and shrubs for the rehabilitation of tropical lands." Agroforestry Systems, 83(1), 39-57.
-  - Lascano CE. (1994). "Nutritional quality and digestibility of Trichanthera gigantea foliage." Tropical Grasslands, 28(2), 88-92.
+  - Lascano CE. (1994). "[[coleman-winter-greens-nutritional-quality-cold-sweetening]] and digestibility of Trichanthera gigantea foliage." Tropical Grasslands, 28(2), 88-92.
   - Maass BL, Rosales M, Galindo J. (2006). "Forage quality of Trichanthera gigantea and its potential role in mixed farming systems." Animal Feed Science and Technology, 128(3-4), 252-263.
 created: 2026-04-28
 ---
@@ -22,11 +22,11 @@ created: 2026-04-28
 
 **Trichanthera gigantea** (Humb. & Bonpl.) Nees, commonly known as **nacedero**, **cachimbo**, or **madre de agua**, is a fast-growing perennial shrub or small tree in the family Acanthaceae.
 
-Native to the humid tropics of northern South America and Central America, it is widely cultivated as a high-protein fodder crop for livestock throughout tropical regions worldwide.
+Native to the humid tropics of northern South America and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], it is widely cultivated as a high-protein fodder crop for livestock throughout tropical regions worldwide.
 
 The species is valued in tropical agroforestry and permaculture systems for its rapid growth, high leaf protein content, palatability to ruminants and monogastrics, and ability to produce biomass year-round.
 
-It has become one of the most important multi-purpose fodder trees in smallholder farming systems across Latin America, Southeast Asia, and increasingly in sub-Saharan Africa.
+It has become one of the most important multi-purpose fodder trees in smallholder farming systems across Latin America, [[psilocybe-southeast-asia-pacific]], and increasingly in sub-Saharan Africa.
 
 ## Taxonomy and Morphology
 
@@ -58,7 +58,7 @@ It occurs naturally in moist forest margins, riparian zones, and disturbed areas
 
 Optimal growth conditions include annual rainfall of 1,500–4,000 mm, mean temperatures of 25–30°C, and well-drained fertile soils with pH 5.0–7.0.
 
-The plant tolerates seasonal waterlogging and shows moderate drought tolerance once established, though growth is significantly reduced during prolonged dry periods.
+The plant tolerates seasonal waterlogging and shows moderate [[dighton-fungal-drought-tolerance-plant-water-relations]] once established, though growth is significantly reduced during prolonged dry periods.
 
 ## Nutritional Value
 
@@ -90,11 +90,11 @@ Fertilization with organic manure or moderate NPK application significantly impr
 
 In silvopastoral systems, *T. gigantea* is planted as protein banks adjacent to grazing areas, providing cut-and-carry fodder during dry seasons when pasture quality declines.
 
-It integrates well with rotational grazing systems and can be intercropped with food crops such as cassava, plantain, and maize during the establishment phase.
+It integrates well with [[comparison-rotational-grazing-vs-continuous-grazing]] systems and can be intercropped with food crops such as cassava, plantain, and maize during the establishment phase.
 
 The plant serves effectively as a living fence and windbreak in tropical farm landscapes. Its dense foliage provides shade for livestock and reduces heat stress in open pastures.
 
-In permaculture design, nacedero fits Zone 2 (intensive food production) as a productive edge element linking animal systems to perennial crop plantings.
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], nacedero fits Zone 2 (intensive food production) as a productive edge element linking animal systems to perennial crop plantings.
 
 The species has shown promise in riparian buffer zones, where its dense root system helps stabilize stream banks while producing harvestable fodder biomass.
 
@@ -107,5 +107,5 @@ In integrated farming systems, nacedero leaves are fed directly to cattle, goats
 - [[leucaena-leucocephala]]
 - [[moringa-oleifera]]
 - [[lemna-minor]]
-- [[permaculture]]
+- permaculture
 - [[silvopasture]]

@@ -38,13 +38,13 @@ solutions.
 ## How Phosphate Liberator Plants Work
 
 Phosphate-liberating plants address the [[natural-farming]] guide. Using alfalfa as a cover
-crop or green manure enhances the cycling of both nitrogen and
+crop or [[comparison-green-manure-guide-vs-mulch-types-and-effects]] enhances the cycling of both nitrogen and
 phosphorus within a backyard garden system.
 
 ## Mustard for Cool-Season Phosphorus Cycling
 
 Mustards (Brassica species) are excellent phosphate-liberating
-crops for the cooler part of growing season. They combine
+crops for the cooler part of [[savory-growing-season-and-non-growing-season-management]]. They combine
 deep taproot architecture with the phosphorus-dissolving root
 exudation described above. Mustards are particularly useful for
 improving the drainage and tilth of deeper clay soils, where
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

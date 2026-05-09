@@ -1,17 +1,17 @@
 ---
-title: Fungal Volatile Organic Compounds Communication
+title: Fungal fungal volatile organic compounds communication Compounds Communication
 source: general knowledge
 topics:
   - mycology
   - chemical ecology
-  - fungal metabolism
+  - [[singh-fungal-metabolism-pahs]]
   - semiochemicals
   - microbiome
 ---
 
 # [[plant-olfaction-volatile-organic-compound-signaling]]
 compounds (VOCs)—low-molecular-weight chemicals that
-evaporate at ambient temperature and travel through air
+evaporate at [[jadam-ambient-temperature-principle]] and travel through air
 and soil gas spaces. These fungal VOCs serve as
 semiochemicals (signaling molecules) mediating
 inter-organism communication, competition, defense, and
@@ -38,11 +38,11 @@ growth stage, substrate composition, environmental
 conditions (temperature, pH, oxygen availability), and
 interactions with other organisms. Stress conditions
 often dramatically alter VOC production, sugges [[growing-gourmet-spore-germination-strain-isolation]] of competitors—a form of
-chemical warfare.
+[[solomon-root-exudates-and-allelopathy]].
 
 Quorum sensing, typically associated with bacteria, also
 occurs in fungi through volatile signals. Some fungi
-alter their growth patterns and metabolic activity in
+alter their growth patterns and [[arbuscule-isolation-metabolic-activity-assays]] in
 response to VOCs produced by neighboring colonies of the
 same species, coordinating collective behaviors such as
 spore dispersal timing and resource allocation.
@@ -52,7 +52,7 @@ pheromones. Trichoderma species produce 6-pentyl-α-pyrone
 (6-PP), a coconut-scented compound that regulates both
 antibiotic production and hyphal morphology. In
 Aspergillus nidulans, volatile compounds mediate the
-balance between asexual and sexual reproduction.
+balance between asexual and [[fungal-life-cycles-sexual-reproduction-metamorphosis]].
 
 ## Inter-Kingdom Interactions
 
@@ -65,7 +65,7 @@ factor production, while some soil bacteria migrate
 toward or away from fungal VOC gradients.
 
 In fungal-plant interactions, VOCs influence both
-pathogenic and beneficial relationships. Pathogenic fu [[query-how-does-induced-systemic-resistance-work-and-how-can-biocontrol-agents-trigger-it]] t. VOC-producing fungi can be formulated
+pathogenic and beneficial relationships. Pathogenic fu query-how-does-induced-systemic-resistance-work-and-how-can-biocontrol-agents-trigger-it t. VOC-producing fungi can be formulated
 as biofumigants for soil-borne pathogens. The mushroom
 industry uses VOC profiles as quality indicators—off-odors
 signal contamination or improper storage. In biotechnology,

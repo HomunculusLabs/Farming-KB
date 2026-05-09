@@ -1,18 +1,12 @@
 ---
-title: Sclerotia Production on Grass Seed
+title: dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis on Grass Seed
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [[mushroom-cultivation, sclerotia, psilocybe-tampanensis, psilocybe-mexicana, grass-seed, truffles]
+tags: [mushroom-cultivation, sclerotia, psilocybe-tampanensis, psilocybe-mexicana, grass-seed, truffles]
 sources: [/Users/t3rpz/wiki/raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md]
 ---
-
-# Sclerotia Production on Grass Seed
-
-Sclerotia (singular: sclerotium) are dense, hardened masses of mycelium that
-serve as survival structures for certain fungi. In cultivation, they are often
-called "magic truffles" and are produced by species such as
-[[psilocybe-mexicana]]. Unlike mushroom
+# Sclerotia Production on Grass Seed Sclerotia (singular: sclerotium) are dense, hardened masses of mycelium that serve as survival structures for certain fungi. In cultivation, they are often called "magic truffles" and are produced by species such as [[psilocybe-mexicana]]. Unlike mushroom
 fruiting bodies, sclerotia form entirely underground (or in this case, within
 the substrate jar) and do not require a casing layer or fruiting chamber.
 
@@ -46,15 +40,15 @@ within the colonized grain:
 1. **Prepare grass seed jars** following standard hydration and sterilization
    protocols (110g seed, 180ml water per 720ml jar, pressure cooked 1 hour).
 2. **Inoculate** with spore syringe, mycelium syringe, or agar wedges using
-   strict sterile technique.
+   strict [[cultivator-sterile-technique-and-agar-culture]].
 3. **Incubate** at room temperature (20°C or slightly higher) in a clean,
    dark location. Darkness is preferred but not absolutely required.
-4. **Wait** — unlike mushroom cultivation which may take 5-20 days for full
+4. **Wait** — unlike [[accessible-mushroom-cultivation-for-disabilities]] which may take 5-20 days for full
    colonization, sclerotia continue developing over a much longer period.
 
 ## Timeline and Development
 
-Sclerotia formation is a slow process compared to mycelial colonization:
+[[growing-gourmet-sclerotia-formation-biology-mushrooms]] is a slow process compared to mycelial colonization:
 
 - **Colonization phase**: Mycelium typically colonizes the grass seed fully
   within 5-20 days depending on temperature, species, and inoculation method.
@@ -69,7 +63,7 @@ after approximately 3 months for *P. tampanensis*.
 
 ## Environmental Requirements
 
-Unlike fruiting, sclerotia production requires minimal environmental control:
+Unlike fruiting, sclerotia production requires minimal [[eclss-environmental-control-life-support]]:
 
 - **Temperature**: Room temperature (20-25°C) is ideal. No cold shocking or
   temperature cycling is needed.
@@ -122,6 +116,6 @@ due to water content.
 
 ## See Also
 
-- [[psilocybe-tampanensis-cultivation]] — the primary sclerotia-producing species
+- psilocybe-tampanensis-cultivation — the primary sclerotia-producing species
 - [[casing-soil-preparation]] — for mushroom fruiting from the same species
-- inoculation techniques — sterile transfer of inoculant to jars
+- [[cotter-inoculation-techniques-and-hygiene]] — sterile transfer of inoculant to jars

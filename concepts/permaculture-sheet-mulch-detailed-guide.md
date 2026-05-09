@@ -15,7 +15,7 @@ sources:
 
 # Permaculture Sheet Mulch Detailed Guide
 
-Sheet mulching (also called lasagna gardening or sheet composting) is the primary soil-building technique in permaculture. Toby Hemenway provides detailed instructions in Gaia's Garden, calling it "the backbone technique for converting lawn and waste land into fertile garden." It builds rich soil without tilling, suppresses weeds, conserves moisture, and sequesters carbon.
+[[comparison-sheet-mulching-vs-chop-and-drop-mulching]] (also called lasagna gardening or [[solomon-sheet-composting-mulch-gardening]]) is the primary soil-building technique in permaculture. Toby Hemenway provides detailed instructions in Gaia's Garden, calling it "the backbone technique for converting lawn and waste land into fertile garden." It builds rich soil without tilling, suppresses weeds, conserves moisture, and sequesters carbon.
 
 ## What Is Sheet Mulching?
 
@@ -25,7 +25,7 @@ Sheet mulching is a layered composting system applied directly on top of the gro
 
 - **Preserves soil structure**: Does not destroy the existing soil food web
 - **Suppresses weeds**: Smothering existing vegetation without herbicides
-- **Builds soil**: Adds organic matter and feeds soil life
+- **Builds soil**: Adds [[hamilton-composting-and-organic-matter-management]] and feeds soil life
 - **Conserves moisture**: Mulch layer reduces evaporation dramatically
 - **Sequesters carbon**: Organic matter is converted to stable humus
 - **Requires no machinery**: Can be done entirely by hand
@@ -44,7 +44,7 @@ Sheet mulching is a layered composting system applied directly on top of the gro
 - Fresh manure (cow, horse, chicken -- aged at least 2 weeks)
 - [[comfrey-plant-guide|Comfrey]] leaves
 - Green garden waste
-- Coffee grounds
+- [[oyster-mushroom-coffee-grounds-cultivation]]
 - Seaweed
 
 ### Carbon Layer (Brown)
@@ -98,7 +98,7 @@ Sheet mulching is a layered composting system applied directly on top of the gro
 
 ### Step 6: Top With Finished Compost
 
-1. Finish with a 5-10 cm (2-4 inch) layer of finished compost, composted manure, or topsoil
+1. Finish with a 5-10 cm (2-4 inch) layer of finished compost, [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]], or topsoil
 2. This provides an immediate planting medium while lower layers decompose
 3. The finished layer is where you will initially plant
 
@@ -119,7 +119,7 @@ Sheet mulching is a layered composting system applied directly on top of the gro
 
 - Pull back the surface mulch to expose the compost layer
 - Dig small holes for transplants; fill with additional compost if needed
-- For seeds, create a seed bed of finer compost in the top layer
+- For seeds, [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]] bed of finer compost in the top layer
 - Avoid disturbing the cardboard barrier below
 - As the bed matures, roots will penetrate through the decomposing layers
 
@@ -138,7 +138,6 @@ Sheet mulching is a layered composting system applied directly on top of the gro
 - [[sheet-mulching-lasagna-gardening|Lasagna gardening]]: Similar technique with slightly different layering emphasis
 - [[chop-and-drop-mulching|Chop and drop]]: In-place mulching using existing vegetation
 - [[hugelkultur-bed-construction|Hugelkultur]]: Incorporates logs and woody debris beneath the sheet mulch layers
-
 ## Related Concepts
 
 - [[sheet-mulching]]

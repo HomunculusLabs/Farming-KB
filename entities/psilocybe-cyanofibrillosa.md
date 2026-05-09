@@ -57,15 +57,15 @@ psilocin degradation during handling and drying.
 
 ## Relevance
 Psilocybe cyanofibrillosa is an important Pacific Northwest species
-that demonstrates how chemical analyses of dried specimens may
+that demonstrates how [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] of dried specimens may
 underestimate the true potency of bluing species. Its strong bluing
 reaction indicates significant psilocin content, and actual potency
 of fresh specimens is likely higher than dried analyses reveal due to
 psilocin degradation during handling and drying.
 Its association with coastal rhododendron gardens and nurseries
 highlights the role of ornamental landscaping in creating habitat for
-psilocybin mushrooms. To date, it has only been reported from the
-Pacific Coast region of North America.
+[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]. To date, it has only been reported from the
+Pacific Coast region of [[psilocybin-north-america-pacific-northwest]].
 
 ## See Also
 - [[psilocybe-caerulipes]]
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

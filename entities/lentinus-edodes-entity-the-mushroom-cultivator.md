@@ -6,7 +6,7 @@ tags: [shiitake, edible-mushroom, wood-decomposer, medicinal-mushroom, lignicolo
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+  sources: []
 ---
 
 # Lentinus edodes
@@ -16,7 +16,7 @@ sources:
 Lentinus edodes (Berk.) Sing. is a basidiomycete fungus in the family Polyporaceae (or
 Lentinaceae, depending on classification system). The genus name Lentinus comes from
 "lentis" meaning lens-shaped, referring to the form of the cap, while "edodes" signifies
-the edibility of this species. Commonly known as the Shiitake Mushroom, the Japanese
+the edibility of this species. Commonly known as the [[shiitake-mushroom-cultivation]], the Japanese
 Black Mushroom, and the Chinese Black Mushroom. The name "shiitake" derives from the
 mushroom's association with the shii tree (Pasania), a member of the Fagaceae family.
 
@@ -48,7 +48,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -98,7 +98,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -108,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

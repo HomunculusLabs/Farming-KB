@@ -1,5 +1,5 @@
 ---
-title: Holzer Saving Ancient Trees - Natural Monuments and Tree Care
+title: Holzer holzer saving ancient trees Trees - Natural Monuments and comparison-apple-tree-care-vs-apple-guild-design
 created: 2026-04-26
 tags: [tree-care, ecological-restoration, old-growth, permaculture, holzer]
 date: 2026-04-25
@@ -41,13 +41,13 @@ around it, not to water or fertilise the tree directly:
    poisonous ones like lupins, foxglove, and aconites are excellent choices
    because they are stimulating for the soil.
 2. Add deep-rooting plants like clover that bring nutrients from deep layers
-   and fix nitrogen.
+   and [[query-how-to-fix-nitrogen-toxicity-in-cannabis]].
 3. Ensure there is enough moisture in the ground by restoring the
-   [[holzer-fig-and-mediterranean-species]] in suitable climates.
+   Mediterranean in suitable climates.
 
 ## Related Topics
 
-- [[holzer-fruit-tree-planting-method]]
+- holzer-fruit-tree-planting-method
 - [[holzer-reading-nature-philosophy]]
 - [[holzer-indicator-plants]]
 ## Practical Considerations
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,3 +109,9 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+- [[eclss-environmental-control-life-support]]
+- [[tompkins-ancient-plant-knowledge]]
+- [[mollison-designers-soil-water-storage-and-field-capacity]]
+- [[jadam-local-material-resource-cycling]]
+- [[permaculture-energy-cycling-and-resource-efficiency]]

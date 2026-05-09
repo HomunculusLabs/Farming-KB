@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [species, fungi, psilocybin-mushroom, psychedelic]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+sources: sources: []
 type: entity
 ---
 
@@ -42,7 +42,7 @@ debate over its relationship to P. callosa.
   decorated with fibrillose patches and basal mycelium that can bruise
   bluish. Base NOT adorned with cordlike rhizomorphs (distinguishing
   from P. semilanceata).
-- **Partial veil:** Thinly cortinate, fragile, rarely leaving an annular
+- **[[partial-veil-tropism-protection-before-spore-release]]:** Thinly cortinate, fragile, rarely leaving an annular
   zone.
 - **Spores:** Dark purple brown in deposit, subellipsoid to suboblong,
   10-12 by 5.5-8 um.
@@ -51,7 +51,7 @@ debate over its relationship to P. callosa.
   2-3.5 um thick.
 
 ### Habitat and Distribution
-- Late summer to fall in the Pacific Northwest, England, northern and
+- Late summer to fall in the [[psilocybin-north-america-pacific-northwest]], England, northern and
   central Europe (Czech Republic, France, Germany, Holland, Slovakia,
   Sweden), Siberia, and Chile.
 - Typically found in rich, grassy areas such as lawns, roadsides, and
@@ -60,11 +60,11 @@ debate over its relationship to P. callosa.
 - Burned lands can subsequently produce enormous fruitings.
 
 ### Chemistry
-- Chemical analyses not available.
+- [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] not available.
 - Estimated moderately active to potent from personal bioassays.
 - Probably low in [[psilocybe-semilanceata]]
 - [[psilocybe-serbica]]
-- Psilocybe subfimetaria
+- [[psilocybe-subfimetaria]]
 
 ## See Also
 
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

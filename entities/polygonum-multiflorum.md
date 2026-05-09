@@ -86,7 +86,7 @@ comes from cultivation in Guangxi and Guizhou provinces.
 
 ## Chemical Constituents
 
-The root contains diverse bioactive compounds: the primary active constituent
+The root contains diverse [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]: the primary active constituent
 is 2,3,5,4'-tetrahydroxystilbene-2-O-β-D-glucoside (THSG) at 1.5–3.0% dry
 weight, responsible for most pharmacological activity. Anthraquinones include
 emodin, physcion, chrysophanol, and rhein — concentrated in raw root and
@@ -114,7 +114,7 @@ root inhibits NF-κB and MAPK signaling pathways (anti-inflammatory).
 
 In TCM, prepared He Shou Wu is classified as sweet, bitter, and slightly warm,
 entering the liver, kidney, and heart meridians. Primary indications include
-premature graying and hair loss, lower back and knee soreness, dizziness,
+premature graying and [[blesching-cannabis-hair-loss-alopecia]], lower back and knee soreness, dizziness,
 tinnitus, insomnia, and constipation. Raw root addresses toxin accumulation,
 carbuncles, and dry-stool constipation. Modern herbal practice uses 9–15 g
 decocted as a daily tonic for anti-aging, liver support, and hair health, often
@@ -132,16 +132,16 @@ use only commercially prepared (zhi) root at recommended doses, avoid
 concurrent hepatotoxic substances, and monitor liver enzymes during extended
 supplementation.
 
-## Permaculture and Cultivation
+## [[permaculture]] and Cultivation
 
 Polygonum multiflorum can be integrated into permaculture systems as a
 groundcover or climbing vine in food forest understories. It tolerates partial
 shade and stabilizes soil on slopes. Cultivation requires well-drained loamy
-soil with organic matter (pH 6.0–7.5), propagation by seed (stratification
+soil with [[hamilton-composting-and-organic-matter-management]] (pH 6.0–7.5), propagation by seed (stratification
 required) or root division, trellis support for commercial root production, and
 3–4 years before harvest for maximum constituent content. Hardy in zones 7–10.
 
 ## See Also
 
 - [[food-forest]]
-- [[permaculture]]
+- permaculture

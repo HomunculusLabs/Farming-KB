@@ -1,16 +1,17 @@
 ---
-title: Holzer Terrace Systems
+title: sepp-holzer-terrace-systems-and-raised-beds Systems
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 ## Overview
 
-Terrace systems are central to Holzer permaculture. By converting steep, marginal slopes into productive growing areas, terraces prevent erosion, store moisture, increase cultivable area, and create favourable microclimates. Human cultures across Asia, South America, Africa, and Europe have used terraces for thousands of years. Holzer has refined traditional terrace techniques for modern application with mechanical earthworks.
+Terrace systems are central to [[holzer-rebel-farmer-philosophy]]. By converting steep, marginal slopes into productive growing areas, terraces prevent erosion, store moisture, increase cultivable area, and create favourable microclimates. Human cultures across Asia, South America, Africa, and Europe have used terraces for thousands of years. Holzer has refined traditional terrace techniques for modern application with mechanical earthworks.
 
 ## Design Considerations
 
@@ -48,11 +49,11 @@ Large-scale projects should be done gradually over multiple growing seasons:
 4. Sow and plant immediately after excavation -- danger of erosion is greatest right after creation
 5. Mulch with leaves or straw while plants establish
 
-Plant root systems at different depths (lupins, sweet clover) stabilise slopes. Fruit bushes and trees thrive on the relatively dry, warm embankments. The key principle is that soil and plants work together at depth -- metres rather than centimetres of root penetration provide real stability.
+Plant root systems at different depths (lupins, sweet clover) stabilise slopes. [[holzer-soft-fruit-bushes-and-berries]] and trees thrive on the relatively dry, warm embankments. The key principle is that soil and plants work together at depth -- metres rather than centimetres of root penetration provide real stability.
 
 ## Humus Storage Ditches
 
-These are long, wide ditches with low banks placed throughout the permaculture landscape:
+These are long, wide ditches with low banks placed throughout the [[holzer-permaculture-landscape-design]]:
 
 - Collect surplus water from heavy rainfall and snowmelt
 - Sides slope gently upward, set well into the hill
@@ -64,8 +65,8 @@ These are long, wide ditches with low banks placed throughout the permaculture l
 ## Managing Terrace Culture
 
 - Cultivate plant cover as soon as terraces are constructed
-- On poor soil, start with deep-rooted green manure (sweet clover, lupins)
-- On wet soil, use Alsike clover and white clover
+- On poor soil, start with deep-rooted [[comparison-green-manure-guide-vs-mulch-types-and-effects]] (sweet clover, lupins)
+- On wet soil, use Alsike clover and [[fukuoka-white-clover-cover-crop-system]]
 - Embankments are ideal for fruit bushes and trees
 - Seasonal cropping makes efficient use: vegetables/cereals in summer, fruit in autumn
 

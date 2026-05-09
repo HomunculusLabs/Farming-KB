@@ -1,5 +1,5 @@
 ---
-title: "Heraclitus Fragment 24 and the Tryptamine Aeon"
+title: "heraclitus-fragment-24-aeon-child-play-dmt-experience 24 and the Tryptamine Aeon"
 tags:
   - philosophy
   - heraclitus
@@ -27,9 +27,9 @@ pais estin paizon, pessueon; paidos he basileie." The most commonly cited transl
 this as "The lifetime (aion) is a child playing, playing draughts; the kingship is the child's."
 Alternative readings translate *pessueon* as "moving colored balls" or "playing with colored
 balls," drawing on the ambiguity of the Greek term which can refer to various game pieces
-including spherical ones. Terence McKenna, in his 1983 Esalen lecture on tryptamine
-hallucinogens and consciousness, seized upon this fragment as perhaps the most precise literary
-description of the DMT experience ever committed to writing in Western philosophy, despite
+including spherical ones. [[terence-mckenna]], in his 1983 Esalen lecture on tryptamine
+[[tryptamine-hallucinogens-and-consciousness]], seized upon this fragment as perhaps the most precise literary
+description of the DMT experience ever committed to writing in [[fukuoka-descartes-western-philosophy-nature]], despite
 predating the discovery of DMT by roughly two and a half millennia.
 
 ## McKenna's Phenomenological Reading
@@ -129,7 +129,7 @@ show, where language becomes visible and meaning becomes spatial.
 The tryptamine state, for McKenna, is "transtemporal" — an anticipation of the future and a
 stepping out of the "moving image" of time into eternity. He invoked Plato's metaphor that
 "time is the moving image of eternity" and Thomas Aquinas's concept of the *nunc stans*, the
-"standing now." In the tryptamine ecstasy, all of human history is seen to lead toward this
+"standing now." In the [[mckenna-heraclitus-aeon-child-play-tryptamine-ecstasy]], all of human history is seen to lead toward this
 culminating moment. The Heraclitean Aeon at play is therefore not ancient or archaic but
 utterly present, eternally now. The child is always playing. The game has always been in
 progress. The colored balls are always moving. What changes is our capacity to perceive this
@@ -141,6 +141,6 @@ convenience."
 ## See Also
 
 - [[dmt-self-transforming-machine-elves-mckenna]] for entity phenomenology
-- mckenna tryptamine transtemporal consciousness and nunc stans for the temporal dimension
+- [[mckenna-tryptamine-ayahuasca-and-dmt-combinations]] transtemporal consciousness and nunc stans for the temporal dimension
 - [[dmt-finnegans-wake-and-the-merry-go-raum]] for the Joyce connection
 - [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]] for the communication paradox

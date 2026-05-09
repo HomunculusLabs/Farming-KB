@@ -10,11 +10,11 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - DeBolt A.M., Kartesz J.T. (2007). "Gaillardia." In Flora of North America Editorial Committee (ed.), Flora of North America North of Mexico, Vol. 21. Oxford University Press.
+  - DeBolt A.M., Kartesz J.T. (2007). "Gaillardia." In Flora of psilocybin-north-america-pacific-northwest Editorial Committee (ed.), Flora of North America North of Mexico, Vol. 21. Oxford University Press.
   - Wold J.L., Shafii B., Price W.J. (2004). "Selection for seedling vigor in Gaillardia aristata." HortScience 39(6): 1288–1291.
   - USDA NRCS. "Gaillardia aristata." PLANTS Database.
   - Cullina W. (2000). "The New England Wild Flower Society Guide to Growing and Propagating Wildflowers." Houghton Mifflin.
-  - Moerman D.E. (1998). "Native American Ethnobotany." Timber Press.
+  - Moerman D.E. (1998). "[[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany." Timber Press.
 ---
 
 # Gaillardia aristata
@@ -25,7 +25,7 @@ sources:
 
 The species produces striking flower heads with a central disk surrounded by ray florets that are typically yellow at the tips grading to red, orange, or maroon at the base. This bicolored pattern gives the flower head its common name "blanketflower" from the resemblance to colorful Native American blankets.
 
-*G. aristata* is one of the most widely cultivated native North American wildflowers, valued for its exceptional drought tolerance, long bloom period, and attractiveness to pollinators. It is a staple of xeriscaping, native plant gardens, and roadside wildflower plantings across the continent.
+*G. aristata* is one of the most widely cultivated native [[growing-gourmet-north-american-reishi-species]] wildflowers, valued for its exceptional [[dighton-fungal-drought-tolerance-plant-water-relations]], long bloom period, and attractiveness to pollinators. It is a staple of xeriscaping, native plant gardens, and roadside wildflower plantings across the continent.
 
 The species is closely related to *G. pulchella* (firewheel), an annual native to the Great Plains and southern United States. Many commercially available gaillardia cultivars are hybrids between these two species, marketed under the name *Gaillardia × grandiflora*.
 
@@ -55,7 +55,7 @@ The species occupies open, dry habitats including prairies, grasslands, sagebrus
 
 It is hardy to USDA Zone 3 (−40 °C) and is one of the most cold-hardy and drought-tolerant of all native North American ornamental forbs. It thrives in full sun and well-drained sandy or gravelly soils but tolerates clay loams if drainage is adequate.
 
-The species has been widely planted for ornamental and erosion control purposes across North America and has naturalized in scattered locations east of its native range, particularly in the upper Midwest and New England. It is not considered invasive due to its non-aggressive, tap-rooted growth habit.
+The species has been widely planted for ornamental and [[permplant-willows-salix-erosion-control-fodder]] purposes across North America and has naturalized in scattered locations east of its native range, particularly in the upper Midwest and New England. It is not considered invasive due to its non-aggressive, tap-rooted growth habit.
 
 In the western United States, *G. aristata* is a common component of highway roadside seed mixtures, where its drought tolerance, rapid establishment, and showy flowers make it ideal for erosion control on steep, dry slopes. It is also planted extensively in mine reclamation projects in the Rocky Mountain region.
 
@@ -81,7 +81,7 @@ Established plants are extremely drought-tolerant and require no supplemental ir
 
 Deadheading spent flower heads extends the bloom period significantly and reduces unwanted self-seeding. However, allowing seed heads to mature supports natural recruitment and provides winter bird food. In naturalistic plantings, a balance of deadheading and seed dispersal is recommended.
 
-The species has contributed heavily to the development of *Gaillardia × grandiflora* hybrids, which include many award-winning cultivars such as 'Goblin', 'Arizona Sun', and 'Arizona Apricot'. These hybrids combine the perennial habit and cold hardiness of *G. aristata* with the compact stature and prolific blooming of *G. pulchella*.
+The species has contributed heavily to the development of *Gaillardia × grandiflora* hybrids, which include many award-winning cultivars such as 'Goblin', 'Arizona Sun', and 'Arizona Apricot'. These hybrids combine the perennial habit and [[coleman-cold-hardiness-testing-ratings]] of *G. aristata* with the compact stature and prolific blooming of *G. pulchella*.
 
 *G. aristata* is also used in green roof and living wall installations due to its shallow basal rosette, drought tolerance, and low maintenance requirements. Its fibrous root system establishes quickly in thin growing media typical of extensive green roof substrates.
 

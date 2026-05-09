@@ -1,11 +1,11 @@
 ---
-title: "Traditional Farmer Philosophy of Mu (Nothingness)"
+title: "fukuoka [[fukuoka-textdoc-traditional-mountain-paddy-aesthetics-spiritual-wisdom]] [[holzer-rebel-farmer-philosophy]] [[fukuoka-mu-nothingness-philosophy]] of Mu (Nothingness)"
 created: 2026-04-28
 tags: [farming-philosophy, mu, natural-farming, village-culture, japanese-agriculture, zen, spiritual-farming, do-nothing]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "The Natural Way of Farming - Masanobu Fukuoka (administrator-microsoft-word-fukuoka-textdoc.md)"
+  - "The Natural Way of Farming - masanobu-fukuoka (administrator-microsoft-word-fukuoka-textdoc.md)"
 type: concept
 ---
 

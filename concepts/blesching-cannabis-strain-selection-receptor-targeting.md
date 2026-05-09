@@ -1,5 +1,5 @@
 ---
-title: Cannabis Strain Selection and Receptor Targeting
+title: Cannabis cannabis-strain-selection-guide and Receptor Targeting
 created: 2026-04-28
 tags: [cannabis, cb1-receptors, cb2-receptors, strain-selection,
   endocannabinoid-system, thc, cbd, terpenes, entourage-effect,
@@ -23,7 +23,7 @@ cannabinoids have been isolated, each with unique receptor affinities.
 ## CB1 Receptor Distribution and Function
 
 CB1 receptors are concentrated in the central nervous system (CNS),
-including the brain and spinal cord. Key regions include:
+including the brain and [[blesching-cannabis-spinal-cord-injuries]]. Key regions include:
 
 - **Hippocampus** — memory, learning, and neurogenesis
 - **Cerebellum** — movement and motor control
@@ -86,9 +86,9 @@ Indicas have lower THC:CBD ratios, favoring CB2 activation:
 
 - Body-centered, sedating, relaxing effects
 - Pain relief, muscle relaxation
-- Anti-inflammatory and immune modulation
+- Anti-inflammatory and [[cancer-immune-modulation-mechanisms]]
 - Nighttime use suitability
-- Sought for chronic pain, insomnia, anxiety, spasms
+- Sought for [[cannabis-chronic-pain-management]], insomnia, anxiety, spasms
 
 ### Hybrid Strains
 
@@ -116,10 +116,10 @@ with FDA GRAS approval. Key sources:
 - **Black Ashanti pepper** — 58% (E)-BCP content
 - **White Ashanti pepper** — 52%
 - **Indian bay-leaf** — 25%
-- **Black pepper** — 7-19%
+- **[[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]]** — 7-19%
 - **Cinnamon, rosemary, clove, oregano, basil** — also contain (E)-BCP
 
-Cannabis sativa ranges from 12-35% (E)-BCP content by comparison.
+[[comparison-cannabis-sativa-vs-cannabis-indica]] ranges from 12-35% (E)-BCP content by comparison.
 
 ## Practical Strain Selection Guide
 
@@ -134,6 +134,6 @@ Cannabis sativa ranges from 12-35% (E)-BCP content by comparison.
 - [[lambsbread]]
 - [[royal-gorilla]]
 - [[thin-mint]]
-- [[blesching-endocannabinoid-system-overview]]
+- [[endocannabinoid-system-overview]]
 - [[blesching-cannabis-food-as-medicine-anti-inflammatory-spices]]
 - [[cannabidiol-cbd]]

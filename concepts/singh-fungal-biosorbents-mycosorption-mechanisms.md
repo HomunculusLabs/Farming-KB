@@ -1,5 +1,5 @@
 ---
-title: Fungal Biosorbents and Mycosorption Mechanisms
+title: singh fungal biosorbents mycosorption mechanisms and Mycosorption Mechanisms
 created: 2026-04-26
 tags: mycoremediation, biosorption, biosorbent, mycosorption]
 date: 2026-04-25
@@ -11,13 +11,13 @@ type: concept
 
 # Fungal Biosorbents and Mycosorption Mechanisms
 
-Mycosorption refers to the biosorption of metal ions by fungal biomass,
+Mycosorption refers to the biosorption of metal ions by [[bioremediation-fungal-biomass-biosorbent-material]],
 with the fungal material used in the process termed a mycosorbent. The
 biosorption phenomenon, in which microorganisms bind metals from aqueous
 solution, provides a promising and economical alternative for treating
 metal-containing industrial effluents. Singh's review provides a
 comprehensive examination of fungal biosorbents, their mechanisms of
-action, and their application in heavy metal removal from waste streams.
+action, and their application in [[dighton-fungal-biosorption-heavy-metal-remediation]] removal from waste streams.
 
 ## Fundamentals of Mycosorption
 
@@ -25,7 +25,7 @@ Microorganisms have the ability to bind metals from aqueous solution,
 and those responsible for the process are considered biosorbents. A wide
 variety of living and dead biomass of bacteria, algae, fungi, and plants
 is capable of sequestering toxic metals from waste streams. Yeasts and
-fungi are unique in metal biosorption, and this process is known as
+fungi are unique in [[fungal-metal-biosorption-comparative]], and this process is known as
 mycosorption. The fungal biomass used in mycosorption is termed a
 mycosorbent. Conservative estimates of new biosorbents in the North
 America environmental market amount to $27 million per year (Volesky,
@@ -72,12 +72,12 @@ indicated that potassium and calcium are replaced by lead on the cell
 wall of Mucor rouxii (Lo et al., 1999). The thickness of the mannan
 layer and the larger surface area of different yeast strains influence
 their metal uptake capacity. FTIR spectroscopic analysis confirms the
-involvement of carboxyl, amino, and hydroxyl groups in metal binding.
+involvement of carboxyl, amino, and hydroxyl groups in [[chelation-and-metal-binding-in-plants]].
 
 ## Fungal Biomass Types as Biosorbents
 
 A wide variety of fungal biomass types have been evaluated as
 biosorbents. These include baker's yeast ([[aspergillus-niger]], Mucor rouxii,
-Penicillium spp.), white-rot fungi (Phanerochaete chrysosporium,
+Penicillium spp.), white-rot fungi ([[staycare-phanerochaete-chrysosporium-in-bioremediation]],
 [[singh-fungal-biosorption-cadmium]]
 - [[singh-fungal-biosorption-lead-copper]]

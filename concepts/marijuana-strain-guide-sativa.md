@@ -4,14 +4,15 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, beginner, plants, species-profiles, ethnobotany, psychopharmacology]
-sources: []
+sources:
+  - "raw/papers/ben-lemon-cannabis-alchemy.md"
 ---
 
 # Marijuana Strain Guide — Sativa
 
 ## Overview
 
-Sativa is one of the three primary classifications of cannabis, alongside [[marijuana-strain-guide-indica]] and [[marijuana-strain-guide-hybrid]]. Sativa strains originate from equatorial regions including Southeast Asia, Central America, and Africa. They are characterized by tall, lanky growth patterns, narrow finger-like leaves, and longer flowering cycles.
+Sativa is one of the three primary classifications of cannabis, alongside [[marijuana-strain-guide-indica]] and [[marijuana-strain-guide-hybrid]]. Sativa strains originate from equatorial regions including Southeast Asia, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and Africa. They are characterized by tall, lanky growth patterns, narrow finger-like leaves, and longer flowering cycles.
 
 ## Botanical Characteristics
 
@@ -23,7 +24,7 @@ Sativa plants can grow exceptionally tall — often reaching 8-12 feet outdoors 
 - Extended flowering period (10-16 weeks indoors)
 - Lighter green foliage compared to indicas
 
-The tall stature and extended flowering time make sativas more challenging for [[cannabis-indoor-growing-basics|indoor growers]] with limited vertical space, though training techniques like SCROG (Screen of Green) can help manage canopy height.
+The tall stature and extended flowering time make sativas more challenging for [[cannabis-indoor-growing-basics|indoor growers]] with limited vertical space, though [[cannabis-training-techniques-comparison]] like SCROG (Screen of Green) can help manage canopy height.
 
 ## Effects Profile
 
@@ -34,7 +35,7 @@ Sativa strains are traditionally associated with uplifting, cerebral, and energe
 - Enhanced sociability and conversation
 - Functional daytime effects
 
-These effects are attributed to higher ratios of THC to CBD and specific terpene profiles. Sativa-dominant strains tend to be rich in terpinolene, limonene, and pinene, which contribute to their characteristic aroma and perceived effects.
+These effects are attributed to higher ratios of THC to CBD and specific [[cannabis-terpene-profiles-sativa]]. Sativa-dominant strains tend to be rich in terpinolene, limonene, and pinene, which contribute to their characteristic aroma and perceived effects.
 
 ## Popular Sativa Strains
 
@@ -68,7 +69,7 @@ Sativas thrive with intense, full-spectrum light. In [[cannabis-indoor-growing-b
 
 ### Nutrient Needs
 
-Sativa strains tend to be lighter feeders than indicas. They are more susceptible to nutrient burn, particularly nitrogen toxicity during vegetative growth. A gentle feeding schedule is recommended.
+Sativa strains tend to be lighter feeders than indicas. They are more susceptible to nutrient burn, particularly [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] during vegetative growth. A gentle feeding schedule is recommended.
 
 ### Flowering Time Management
 
@@ -110,7 +111,7 @@ Common terpenes found in sativa strains:
 
 Patients may find sativa strains helpful for:
 
-- Chronic fatigue
+- [[cannabis-chronic-fatigue-research]]
 - Depression and mood disorders
 - ADHD (anecdotal reports of improved focus)
 - PTSD (some patients prefer sativa for daytime symptom management)
@@ -124,4 +125,4 @@ When selecting sativa strains from [[cannabis-seed-banks-and-genetics|seed banks
 - Landrace preservation vs. hybridized crosses
 - Expected flowering time for your setup
 - Terpene profile and cannabinoid content
-- Climate suitability for your growing environment
+- Climate suitability for your [[cannabis-growing-environment-setup]]

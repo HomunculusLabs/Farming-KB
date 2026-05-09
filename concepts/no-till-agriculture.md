@@ -30,7 +30,7 @@ the earth, Fukuoka wrote, is so weak as to germinate only in plowed soil.
 Beyond the immediate mechanical effects, tillage disrupts the soil ecosystem in
 multiple ways. The soil in natural ecosystems is worked by plant roots, earthworms,
 and microorganisms that create channels for air and water movement. Plowing
-destroys these biological structures. It exposes organic matter to rapid
+destroys these biological structures. It exposes [[hamilton-composting-and-organic-matter-management]] to rapid
 oxidation, depleting soil carbon. It kills or displaces the [[fukuoka-white-clover-ground-cover]] and the layer of straw
 mulch, not through herbicides. The clover also fixes nitrogen, eliminating the
 need for synthetic nitrogen fertilizer. This makes Fukuoka's system a truly
@@ -40,7 +40,7 @@ practices that dominate conventional agriculture.
 ## Energy and Labor Implications
 
 No-till farming has significant implications for energy use and labor. Fukuoka
-calculated that natural farming produced 130 pounds of rice per man-day of labor
+calculated that [[comparison-natural-farming-vs-permaculture]] produced 130 pounds of rice per man-day of labor
 without outside material inputs. Traditional farming with draft animals required
 ten times the energy input. Small-scale mechanization doubled that figure again,
 and large-scale mechanization doubled it yet again. The progression from
@@ -52,11 +52,11 @@ requirement of any farming system.
 
 No-till farming preserves the soil as a living ecosystem rather than treating it
 as an inert substrate for plant growth. The continuous presence of undisturbed
-soil aggregates, mycorrhizal fungal networks, and diverse microbial communities
+soil aggregates, [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] networks, and diverse microbial communities
 creates a resilient soil system that can withstand drought, resist erosion, and
 suppress plant diseases without chemical inputs. Fukuoka pointed to the example
 of shrine groves in Japanese villages, where tall trees grew to great size
-without the aid of nutrition science or plant ecology, saved from the axe and saw
+without the aid of [[duggar-mushroom-nutrition-science-fermentation-biological-requirement]] or plant ecology, saved from the axe and saw
 by the shrine deity, growing "into large trees of their own accord."
 
 The mulch layer from uncut straw also plays a critical role. It protects the
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

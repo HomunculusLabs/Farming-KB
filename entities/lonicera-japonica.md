@@ -53,11 +53,11 @@ Fruits are small spherical berries approximately 6 to 8 mm in diameter, ripening
 
 ## Distribution and Habitat
 
-Lonicera japonica is native to eastern Asia, including Japan, Korea, and eastern China. It has been widely introduced across Europe, North America, South America, Australia, and New Zealand.
+Lonicera japonica is native to eastern Asia, including Japan, Korea, and eastern China. It has been widely introduced across Europe, [[psilocybin-north-america-pacific-northwest]], South America, Australia, and New Zealand.
 
 In its native range, the species occurs in forest margins, thickets, and along stream banks from lowland to montane elevations. It tolerates full sun to partial shade and a wide range of soil conditions.
 
-As an invasive species, L. japonica is particularly problematic in the southeastern United States. It forms dense mats that smother native vegetation, alter fire regimes, and reduce forest regeneration.
+As an invasive species, L. japonica is particularly problematic in the southeastern [[dmt-containing-plants-united-states-halpern]]. It forms dense mats that smother native vegetation, alter fire regimes, and reduce forest regeneration.
 
 The vine colonizes disturbed habitats rapidly, including roadsides, fence lines, abandoned fields, and forest edges. It spreads both vegetatively through stem rooting and by bird-dispersed seeds.
 
@@ -87,21 +87,21 @@ Jin Yin Hua is a key ingredient in the classical formula Yin Qiao San (Lonicera 
 
 In Japanese Kampo medicine, the flower buds (Kinginka) are used in formulations such as Sho-saiko-to and Keishi-bukuryo-gan for their anti-inflammatory and immunomodulatory effects.
 
-Modern clinical applications extend to upper respiratory tract infections, pharyngitis, and as an adjunct in antibiotic therapy for bacterial infections resistant to conventional treatment.
+Modern clinical applications extend to upper respiratory tract infections, pharyngitis, and as an adjunct in antibiotic therapy for [[cannabis-for-bacterial-infections-and-mrsa]] resistant to conventional treatment.
 
 ## Cultivation and Management
 
 Lonicera japonica is cultivated commercially in China for the herbal medicine market, with major production areas in Shandong, Henan, and Hebei provinces. Annual production exceeds 10,000 metric tons of dried flower buds.
 
-Cultivation is typically by transplanting rooted cuttings in early spring. Plants are spaced 0.5 to 1 meter apart and supported on trellises or allowed to trail along the ground.
+Cultivation is typically by transplanting rooted cuttings in [[coleman-overwintered-onions-and-early-spring-crops]]. Plants are spaced 0.5 to 1 meter apart and supported on trellises or allowed to trail along the ground.
 
 Flower buds are harvested just before opening, when they retain the highest chlorogenic acid content. Harvesting occurs multiple times per season as new buds develop.
 
 Post-harvest processing involves air-drying or low-temperature oven-drying. Properly dried buds retain a greenish-white color and should be stored in dry, dark conditions.
 
-Invasive population management requires persistent effort, combining mechanical removal, herbicide application, and prescribed fire. Complete eradication is difficult due to extensive root systems and soil seed banks.
+Invasive population management requires persistent effort, combining mechanical removal, herbicide application, and prescribed fire. Complete eradication is difficult due to extensive root systems and soil [[cannabis-seed-banks-and-genetics]].
 
-Biological control agents including the honeysuckle aphid and Japanese honeysuckle leaf beetle have been investigated but are not widely deployed due to non-target risk concerns.
+[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents including the honeysuckle aphid and Japanese honeysuckle leaf beetle have been investigated but are not widely deployed due to non-target risk concerns.
 
 ## See Also
 
@@ -113,3 +113,5 @@ Biological control agents including the honeysuckle aphid and Japanese honeysuck
 - [[passiflora-quadrangularis]]
 - [[ursolic-acid]]
 - [[vaccinium-macrocarpon]]
+
+- [[cryptomeria-japonica]]

@@ -1,5 +1,5 @@
 ---
-title: Leaf Curl Disease Control with Actively Aerated Compost Tea
+title: Leaf Curl Disease Control with actively-aerated-compost-tea
 tags: [leaf-curl, taphrina, compost-tea, aact, disease-control, peach, orchard, elaine-ingham]
 date: 2026-04-28
 updated: 2026-04-28
@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Leaf curl, caused by the fungus *Taphrina*, is a common disease affecting stone fruits including peach, nectarine, almond, and related species. Dr. Elaine Ingham's field experience demonstrates that leaf curl is among the easier diseases to suppress using actively aerated compost tea (AACT), provided the tea contains adequate beneficial fungal biomass and is applied according to a proper seasonal schedule.
+Leaf curl, caused by the fungus *Taphrina*, is a common disease affecting stone fruits including peach, nectarine, almond, and related species. Dr. [[elaine-ingham]]'s field experience demonstrates that leaf curl is among the easier diseases to suppress using actively aerated compost tea (AACT), provided the tea contains adequate beneficial fungal biomass and is applied according to a proper seasonal schedule.
 
 ## The Pathogen: Taphrina
 
@@ -31,9 +31,9 @@ The critical requirement is a tea with good beneficial fungal biomass. The fungi
 
 For effective leaf curl suppression, the compost tea must contain:
 
-- **Adequate beneficial fungal biomass**: This is the non-negotiable requirement. A bacterial-only tea will not reliably prevent *Taphrina* infection. The tea must have fungal hyphae growing well within it before application.
+- **Adequate beneficial fungal biomass**: This is the non-negotiable requirement. A bacterial-only tea will not reliably prevent *Taphrina* infection. The tea must have [[fungal-hyphae]] growing well within it before application.
 
-- **Diverse bacterial community**: While fungi provide the primary defense, bacteria contribute to overall leaf surface coverage and compete with any *Taphrina* cells that might attempt to establish.
+- **Diverse [[core-endorhiza-bacterial-community-composition-cannabis]]**: While fungi provide the primary defense, bacteria contribute to overall leaf surface coverage and compete with any *Taphrina* cells that might attempt to establish.
 
 - **Active organisms**: Both active bacteria and active fungi should be within the ranges established by Soil Foodweb laboratory testing. Inactive organisms cannot compete effectively with the pathogen.
 
@@ -45,7 +45,7 @@ Leaf curl control requires a year-round approach, not a single spray application
 
 Apply a soil drench of compost tea in the fall, before leaves drop. This accomplishes two critical objectives:
 
-1. **Establish beneficial organisms on leaves**: Get healthy beneficial organisms growing on leaf surfaces before they fall, initiating decomposition of the leaves rather than allowing them to serve as an overwintering site for *Taphrina*.
+1. **Establish beneficial organisms on leaves**: Get healthy beneficial organisms growing on leaf surfaces before they fall, initiating [[decomposition]] of the leaves rather than allowing them to serve as an overwintering site for *Taphrina*.
 
 2. **Inoculate the orchard floor**: Soil drenching ensures that beneficial organisms are present to decompose fallen leaves rapidly, denying the pathogen its primary overwintering habitat.
 
@@ -65,15 +65,15 @@ During the growing season, apply compost tea as a foliar spray at minimum once p
 
 The mechanism of leaf curl suppression illustrates a general principle of biological disease control. *Taphrina*, like many foliar pathogens, has relatively weak enzymatic capability. It cannot break down the cell walls or consume the food resources that beneficial organisms are already using. When the leaf surface is occupied by a diverse community of bacteria and fungi, the pathogen has nowhere to germinate, no available food, and no exposed leaf surface to infect.
 
-This is fundamentally different from chemical disease control, which relies on toxic compounds that kill the pathogen directly. Biological control works through competitive exclusion: the good organisms simply outcompete the pathogen for every resource it needs. This is why Ingham insists that compost tea should never be discussed as a pesticide or compared to chemical control methods. The mechanisms are entirely different, and the management approach reflects that difference.
+This is fundamentally different from chemical disease control, which relies on toxic compounds that kill the pathogen directly. [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] works through competitive exclusion: the good organisms simply outcompete the pathogen for every resource it needs. This is why Ingham insists that compost tea should never be discussed as a pesticide or compared to chemical control methods. The mechanisms are entirely different, and the management approach reflects that difference.
 
 ## The Importance of Multiple Applications
 
 Ingham strongly emphasizes that compost tea is not a pesticide and should never be treated as a single-application chemical control. A single spray will not establish adequate organism coverage. Coming from conventional management, growers may expect the "spray once and done" approach, but this does not work with biological systems.
 
-The organisms need time to establish, grow, and maintain their populations on leaf surfaces. If beneficial insects are not present to spread the organisms to new growth (serving as "taxi cabs"), the grower must perform this function through repeated applications. If any component is missing from the soil foodweb, the grower must compensate by performing that function manually.
+The organisms need time to establish, grow, and maintain their populations on leaf surfaces. If [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] are not present to spread the organisms to new growth (serving as "taxi cabs"), the grower must perform this function through repeated applications. If any component is missing from the soil foodweb, the grower must compensate by performing that function manually.
 
-Attempting to substitute for missing foodweb functions is expensive and may lead to soil compaction from repeated equipment passes. The most sustainable approach is to rebuild the complete soil foodweb so that natural biological processes handle disease suppression with minimal human intervention.
+Attempting to substitute for missing foodweb functions is expensive and may lead to soil compaction from repeated equipment passes. The most sustainable approach is to rebuild the complete soil foodweb so that natural biological processes handle [[aact-disease-suppression-mechanisms-ingham]] with minimal human intervention.
 
 ## Transitioning from Conventional Management
 
@@ -95,7 +95,7 @@ Fall applications to the orchard floor serve multiple purposes:
 
 The approach used for leaf curl applies broadly to other orchard diseases:
 
-- **Apple scab**: Requires both bacterial and fungal coverage. Fall soil drench plus foliar applications beginning two weeks before bud break.
+- **Apple scab**: Requires both [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] coverage. Fall soil drench plus foliar applications beginning two weeks before bud break.
 - **Brown rot on cherries**: Fungal tea applied at adequate concentration has shown good results, though replicated data is limited.
 - **Cedar apple rust**: AACT with good fungal biomass stops this disease.
 - **Verticillium wilt**: Requires 70 percent coverage of leaves, blossoms, bark, and orchard floor with both bacteria and fungi. Fungi must be at least 5 percent of that coverage. Start two weeks before bud break.
@@ -105,7 +105,7 @@ The vineyard research program demonstrated that when fungal biomass was adequate
 
 ## Transitioning from Conventional Management
 
-Growers transitioning from conventional chemical programs should expect that the first year of compost tea application may not achieve complete disease suppression. The soil foodweb has been damaged by years of chemical inputs, and rebuilding the full complement of organisms takes time. Patience during the transition period is essential.
+Growers transitioning from conventional chemical programs should expect that the first year of [[ingham-compost-tea-application-rates-and-timing]] may not achieve complete disease suppression. The soil foodweb has been damaged by years of chemical inputs, and rebuilding the full complement of organisms takes time. Patience during the transition period is essential.
 
 Each season of compost tea application builds upon the previous one. As organism populations increase and soil structure improves, the need for intervention decreases. Eventually, a mature soil foodweb provides most disease suppression services autonomously.
 

@@ -12,7 +12,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Besnard G, Rubio de Casas R, Vargas P (2007). "Placing Olea europaea L. in its context." Annals of Botany, 100(4), 683–685.
-  - Boskou D (2015). Olive Oil: Chemistry and Technology. AOCS Press.
+  - Boskou D (2015). [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]]: Chemistry and Technology. AOCS Press.
   - Lourens ACU et al. (2004). "Oleuropein — a lead compound for the treatment of hypertension." Phytomedicine, 11, 38–39.
   - FAO (2023). "FAOSTAT: Olives — area harvested, production quantity." Food and Agriculture Organization.
   - Conceição M et al. (2021). "Olive oil authentication: A review." Food Control, 123, 107844.
@@ -22,7 +22,7 @@ sources:
 
 *Olea europaea* L., the olive, is an evergreen tree in the family Oleaceae native to the Mediterranean basin, parts of Asia, and Africa.
 
-It is one of the oldest cultivated fruit trees, with archaeological evidence of olive oil production dating back approximately 6,000 years.
+It is one of the oldest cultivated [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], with archaeological evidence of olive oil production dating back approximately 6,000 years.
 
 The species is renowned for its fruit, which yields olive oil — a cornerstone of Mediterranean cuisine and one of the most widely consumed culinary oils globally.
 
@@ -76,13 +76,13 @@ Trees typically begin bearing fruit 3–5 years after planting, with full produc
 
 Yields range from 2–12 tonnes of fruit per hectare depending on cultivar, tree density, irrigation, and management intensity.
 
-Key pests include the olive fruit fly (*Bactrocera oleae*), olive moth (*Prays oleae*), and black scale (*Saissetia oleae*).
+Key pests include the olive [[fukuoka-australia-fruit-fly-incident]] (*Bactrocera oleae*), olive moth (*Prays oleae*), and black scale (*Saissetia oleae*).
 
 Verticillium wilt (*Verticillium dahliae*) is the most serious soil-borne disease, capable of killing mature trees.
 
 ## Chemistry and Pharmacology
 
-Olive oil is composed primarily of triacylglycerols (97–99%), with oleic acid (C18:1, omega-9) constituting 55–83% of total fatty acids.
+Olive oil is composed primarily of triacylglycerols (97–99%), with oleic acid (C18:1, omega-9) constituting 55–83% of total [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]].
 
 Minor bioactive constituents include squalene (0.2–0.7%), tocopherols (100–300 mg/kg), phytosterols (1000–2500 mg/kg), and phenolic compounds (50–1000 mg/kg).
 
@@ -104,9 +104,9 @@ Olive wood is dense, fine-grained, and highly valued for woodworking, carving, a
 
 Olive leaves contain oleuropein at concentrations of 60–90 mg/g dry weight and are used in traditional medicine and dietary supplements.
 
-Waste from olive oil processing (olive mill wastewater and pomace) poses environmental challenges but can be composted or used for bioenergy production.
+Waste from olive oil processing ([[fungal-olive-mill-wastewater-treatment]] wastewater and pomace) poses environmental challenges but can be composted or used for bioenergy production.
 
-The species is increasingly planted in arid-region restoration projects due to its drought tolerance, soil stabilization capacity, and economic value.
+The species is increasingly planted in arid-region restoration projects due to its [[dighton-fungal-drought-tolerance-plant-water-relations]], soil stabilization capacity, and economic value.
 
 ## See Also
 

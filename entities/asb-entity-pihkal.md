@@ -1,5 +1,5 @@
 ---
-title: "ASB (3,4-Diethoxy-5-methoxy-PEA) -- PIHKAL Entry #9"
+title: "ASB (3,4-Diethoxy-5-methoxy-PEA) -- 2c-b-pihkal-entry-20 #9"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # ASB
 
-PIHKAL entry #9. 3,4-Diethoxy-5-methoxy-PEA.
+[[2c-b-pihkal-entry-20]] #9. 3,4-Diethoxy-5-methoxy-PEA.
 
 ## Dosage and Duration
 
@@ -109,7 +109,7 @@ greenish oil. This slowly set to a crystalline glass with a mp of
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

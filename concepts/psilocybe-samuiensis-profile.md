@@ -25,10 +25,10 @@ Guzman, Bandala and Allen. It was described from material collected
 on Koh Samui, Thailand, and named after its type locality. The
 species was first documented during John W. Allen's extensive
 mycological explorations of Southeast Asia, where he collected and
-photographed numerous psilocybin mushroom species throughout Thailand.
+photographed numerous [[emcdda-psilocybin-mushroom-dose-and-effects]] species throughout Thailand.
 
 Psilocybe samuiensis is placed within the genus Psilocybe and belongs
-to the group of tropical and subtropical psilocybin mushrooms
+to the group of tropical and subtropical [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]
 associated with manured substrates. Its taxonomic relationships within
 the genus have been the subject of some discussion, and it shares
 morphological similarities with other Southeast Asian Psilocybe
@@ -72,7 +72,7 @@ annular zone near the top of the stem.
 
 Blue bruising may be observed on the stem when the tissue is damaged
 or handled, indicating the presence of psilocybin and related
-compounds. This bluing reaction is generally more noticeable on
+compounds. This [[field-guide-psilocybin-bluing-reaction-identification]] is generally more noticeable on
 younger, fresher specimens.
 
 ### Spore Print
@@ -84,7 +84,7 @@ approximately 11 to 14 micrometers in length.
 ## Habitat and Ecology
 
 Psilocybe samuiensis is closely associated with manured substrates
-in tropical agricultural environments. The Psilocybin Mushroom Image
+in tropical agricultural environments. The Psilocybin [[psilocybin-mushroom-image-guide-habitat-clues]]
 Guide specifically documents the species as growing "from manured
 soil in a rice paddy" on Koh Samui, Thailand, with photographs by
 John W. Allen showing freshly picked specimens from this habitat.
@@ -94,7 +94,7 @@ John W. Allen showing freshly picked specimens from this habitat.
 The rice paddy environment provides ideal conditions for this species.
 Rice paddies on Koh Samui and throughout Southeast Asia are
 periodically enriched with animal manure (typically water buffalo
-or cattle dung), which provides the nutrient-rich organic matter
+or cattle dung), which provides the nutrient-rich [[hamilton-composting-and-organic-matter-management]]
 that P. samuiensis requires for growth. The combination of warm
 tropical temperatures, high humidity from standing water, and
 nutrient-dense manured soil creates an optimal microhabitat.
@@ -120,7 +120,7 @@ similar manured habitats across the island.
 ## Potency and Cultural Significance
 
 Psilocybe samuiensis contains psilocybin and psilocin as its primary
-active compounds. While comprehensive chemical analyses are limited,
+active compounds. While comprehensive [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] are limited,
 the species is reported to have moderate psychoactivity. Koh Samui has
 a long history of psilocybin mushroom use, and the island became a
 notable destination for psychedelic tourism during the late 20th

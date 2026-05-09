@@ -15,7 +15,7 @@ sources:
   - Van Wyk, B.E. & Wink, M. (2004). "Medicinal Plants of the World." 2nd ed. Briza Publications, Pretoria.
   - Neuwinger, H.D. (2000). "African Traditional Medicine: A Dictionary of Plant Use and Applications." Medpharm Scientific Publishers, Stuttgart.
   - Watt, J.M. & Breyer-Brandwijk, M.G. (1962). "The Medicinal and Poisonous Plants of Southern and Eastern Africa." 2nd ed. E&S Livingstone, Edinburgh.
-  - Xaba, S.E. & Dutton, M.F. (2000). "The use of Silene capensis by the Xhosa as a divinatory plant." South African Journal of Botany, 66, 258–261.
+  - Xaba, S.E. & Dutton, M.F. (2000). "The use of Silene capensis by the Xhosa as a divinatory plant." [[kanna-sceletium-south-african-narcotic]] Journal of Botany, 66, 258–261.
 created: 2026-04-28
 ---
 
@@ -101,7 +101,7 @@ Self-experimentation reports in the psychonaut and herbalist communities describ
 
 The plant is commercially available through ethnobotanical suppliers, primarily as dried root powder or tincture.
 
-No controlled clinical trials have been conducted on its dream-enhancing effects, and the long-term safety profile of regular consumption has not been established.
+No controlled [[mushroom-cancer-clinical-trials-overview]] have been conducted on its dream-enhancing effects, and the long-term [[cannabis-safety-profile-and-overdose-risk]] of regular consumption has not been established.
 
 Conservation concerns exist due to **wild harvesting pressure** from both traditional use and commercial demand, though the species remains widespread and is not currently considered threatened.
 

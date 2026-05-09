@@ -1,5 +1,5 @@
 ---
-title: Panaeolus Cyanescens Bali Omelette Cultivation
+title: stamets-panaeolus-cyanescens-copelandia-identification-ecology Bali Omelette Cultivation
 created: 2026-04-19
 updated: 2026-04-18
 type: concept
@@ -22,7 +22,7 @@ tags: [reference]
 
 - **Cap:** Small (1.5-4 cm diameter), conic to campanulate, hygrophanous, bluing when bruised
 - **Color:** Grayish to brownish when moist, pale when dry
-- **Bluing reaction:** Strong blue bruising on cap, stem, and gills when handled
+- **[[field-guide-psilocybin-bluing-reaction-identification]]:** Strong blue bruising on cap, stem, and gills when handled
 - **Spore print:** Black (typical of Panaeolus genus)
 - **Habitat:** Exclusively coprophilous -- grows on dung of herbivores (cattle, water buffalo, horses)
 - **Distribution:** Pantropical and subtropical
@@ -50,11 +50,11 @@ As demand grew, commercial cultivation of Panaeolus cyanescens began in Bali, us
 3. Allow colonization and fruiting under tropical conditions
 4. Harvest for restaurant use
 
-This cultivation method is essentially the mushroom's natural growth cycle reproduced under controlled conditions. It represents one of the simplest and most accessible forms of psychoactive mushroom cultivation.
+This [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] is essentially the mushroom's natural growth cycle reproduced under controlled conditions. It represents one of the simplest and most accessible forms of psychoactive [[accessible-mushroom-cultivation-for-disabilities]].
 
 ### The Restaurant Experience
 
-The omelettes were prepared as standard egg dishes, with the Panaeolus mushrooms mixed into the omelette along with other ingredients. The experience typically began 30-60 minutes after consumption and lasted 4-6 hours.
+The omelettes were prepared as standard egg dishes, with the [[schultes-panaeolus-mushrooms-shamanic]] mixed into the omelette along with other ingredients. The experience typically began 30-60 minutes after consumption and lasted 4-6 hours.
 
 ### Safety Record
 
@@ -111,6 +111,6 @@ On the Asian mainland:
 
 ### Differentiation Challenge
 
-In most cases, the differentiation of Panaeolus cyanescens from closely related species (such as Panaeolus tropicales) is an extremely difficult task, even for experienced mycologists. This taxonomic challenge complicates both scientific study and harm reduction efforts.
+In most cases, the differentiation of Panaeolus cyanescens from closely related species (such as Panaeolus tropicales) is an extremely difficult task, even for experienced mycologists. This taxonomic challenge complicates both [[roger-heim-scientific-study-psilocybin]] and harm reduction efforts.
 
 ## Comparison with [[panaeolus-campanulatus]]

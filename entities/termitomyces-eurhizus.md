@@ -11,14 +11,14 @@ tags:
   - tropical
   - africa
   - asia
-  - [[agroforestry]] stry
+  - agroforestry stry
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Heim, R. (1942). "Nouvelles études sur les Termitomyces." Revue de Mycologie, 7, 61-80.
   - Pegler, D.N. & Vanhaecke, M. (1994). "Termitomyces of South-East Asia." Kew Bulletin, 49(4), 717-736.
   - Aanen, D.K. et al. (2002). "The Evolution of fungus-growing termites and their mutualistic fungal symbionts." PNAS, 99(23), 14887-14892.
-  - Oei, P. (1996). Mushroom Cultivation: Appropriate Technology for Mushroom Growers. TOOL Publications.
+  - Oei, P. (1996). [[accessible-mushroom-cultivation-for-disabilities]]: [[mollison-designers-appropriate-technology-small-scale-tools]] for Mushroom Growers. TOOL Publications.
   - De Fine Licht, H.H. et al. (2005). "The termite fungus comb." Insectes Sociaux, 52(3), 247-254.
 ---
 # Termitomyces eurhizus
@@ -28,7 +28,7 @@ sources:
 **Termitomyces eurhizus** (Berk.) R. Heim is an edible agaric mushroom in the
 family Lyophyllaceae, notable for its obligate symbiotic relationship with
 fungus-growing termites (Macrotermitinae). It is one of the most prized wild
-edible mushrooms in tropical Africa and South and , where it
+[[palmer-edible-mushrooms-north-america]] in tropical Africa and South and , where it
 fruits seasonally from termite mounds during the rainy season. The species
 is commercially significant, highly nutritious, and has potential inagroforestry agroforestry systems.
 
@@ -65,7 +65,7 @@ annulus, brownish below. Characteristic long **pseudorhiza**
 **Annulus:** Membranous, persistent, movable, white palmer-mushroom-hunting-field-identificationld-spore-mass-inoculationsoid, smooth, hyaline, inamylo  rint white to pale pink.
 ## Distribution and Habitat
 **Geographic range:** Tropical Africa (Senegal to DRC and Tanzania), South
-Asia (India, Sri Lanka, Bangladesh), Southeast Asia (Thailand, Malaysia,
+Asia (India, Sri Lanka, Bangladesh), [[psilocybe-southeast-asia-pacific]] (Thailand, Malaysia,
 Indonesia). Most abundant in West and Central African savanna zones.
 
 **Habitat:** Exclusively associated with fungus combs of Macrotermitinae
@@ -127,8 +127,8 @@ digestion partnership relevant to :
 - **Mound microclimate:** Termite mounds create regulated temperature and
   humidity zones, potentially beneficial companion structures in tropical
   food forests.
-- **Soil building:** Termite activity and fungal decomposition enrich
-  surrounding soils with organic matter and available nutrients.
+- **Soil building:** Termite activity and [[dighton-fungal-decomposition-leaf-litter-dynamics]] enrich
+  surrounding soils with [[hamilton-composting-and-organic-matter-management]] and available nutrients.
 
 Incorporating termite mounds into tropical agroforestry design rather
 than eliminating them can enhance overall system productivity.
@@ -145,3 +145,4 @@ than eliminating them can enhance overall system productivity.
 ## See Also
 - [[teaming-with-microbes-soil-food-web-overview]]
 - [[mycorrhizal-fungi-symbiosis-with-plants]]
+- [[teaming-with-microbes-mulch-and-soil-food-web]]

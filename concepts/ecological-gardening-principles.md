@@ -78,9 +78,9 @@ into this welcoming habitat. The two depend on each other.
 ## Immature vs. Mature Ecosystems
 
 Understanding the differences between immature and mature ecosystems
-helps guide ecological garden design:
+helps guide ecological [[comparison-mandala-garden-design-vs-keyhole-garden-design]]:
 
-- **Organic matter**: Low in immature systems, high in mature ones
+- **[[hamilton-composting-and-organic-matter-management]]**: Low in immature systems, high in mature ones
 - **Nutrient cycles**: Open (many imports) vs. closed (recycling)
 - **Plant diversity**: Usually low vs. high
 - **Food chains**: Short and linear vs. complex and weblike
@@ -96,7 +96,7 @@ else, connected in life and death to many other species.
 
 ## Applying the Principles
 
-By filling a garden with [[nurse-plants]] and [[sheet-mulching]] establishes mature soil
+By filling a garden with nurse-plants and [[sheet-mulching]] establishes mature soil
 conditions quickly. These techniques mimic what nature does on its
 own timescale, but compress decades of natural succession into months
 or a few years.

@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca Tourism Peru
+title: stuart-r-ayahuasca-tourism-cautionary-ethnography Peru
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -12,7 +12,7 @@ sources: [raw/papers/stuart-r-ayahuasca-tourism.md]
 ## Overview
 
 Ayahuasca tourism refers to Western travelers visiting South America—particularly
-Peru, Brazil, and Ecuador—to participate in traditional ayahuasca ceremonies led
+Peru, Brazil, and Ecuador—to participate in traditional [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] led
 by indigenous or mestizo shamans. The practice represents a modern continuation
 of Western fascination with alternative spiritual traditions, following earlier
 waves of interest in Zen Buddhism, Hinduism, and New Age practices.
@@ -40,7 +40,7 @@ external interests intersect with living indigenous traditions.
 
 Iquitos has been the primary hub for ayahuasca tourism for over a decade.
 Reachable only by air or river, its large number of practicing ayahuasqueros
-makes it the most common entry point. Tourism infrastructure has grown with
+makes it the most common entry point. [[ayahuasca-tourism-infrastructure-peruvian-amazon]] has grown with
 numerous lodges and retreat centers, though this also makes Iquitos the most
 commercialized setting for ayahuasca work in Peru.
 
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

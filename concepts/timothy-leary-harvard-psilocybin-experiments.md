@@ -1,5 +1,5 @@
 ---
-title: Timothy Leary and the Harvard Psilocybin Experiments
+title: Timothy Leary and the leary-harvard-psilocybin-project Experiments
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -10,15 +10,15 @@ sources:
 
 # Timothy Leary and the Harvard Psilocybin Experiments
 
-Timothy Leary (1920-1996), a Harvard psychology professor, became the most famous — and infamous — advocate of psychedelic drugs in the 1960s, transforming psilocybin from an obscure Mexican mushroom compound into a symbol of cultural revolution.
+Timothy Leary (1920-1996), a Harvard psychology professor, became the most famous — and infamous — advocate of psychedelic drugs in the 1960s, transforming psilocybin from an obscure Mexican [[medicinal-mushroom-compound-extraction]] into a symbol of cultural revolution.
 
 ## The Mexican Experience
 
-In August 1960, Leary traveled to Cuernavaca, Mexico, where he consumed psilocybin mushrooms for the first time. The experience was transformative. "In four hours," he later wrote, "I learned more about my brain, its capacities, its potentials, than I had in the previous twenty-five years of studying psychology."
+In August 1960, Leary traveled to Cuernavaca, Mexico, where he consumed [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] for the first time. The experience was transformative. "In four hours," he later wrote, "I learned more about my brain, its capacities, its potentials, than I had in the previous twenty-five years of studying psychology."
 
 ## The Harvard Experiments (1960-1963)
 
-Leary returned to Harvard and launched a research program using synthesized psilocybin (provided by [[magic-mushroom-cultural-history]]
+Leary returned to Harvard and launched a research program using synthesized psilocybin (provided by magic-mushroom-cultural-history
 
 - [[wasson-hofmann-ruck-theory]]
 
@@ -103,4 +103,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,5 +1,5 @@
 ---
-title: JADAM Plastic Mulch Problems and Alternatives
+title: JADAM jadam plastic mulch problems Problems and Alternatives
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -15,7 +15,7 @@ Black plastic mulch is one of the most common practices in modern farming, prais
 
 ## The Temperature Problem
 
-JADAM measured soil temperatures beneath black plastic mulch in early June (not yet summer) and found alarming results. When the ambient temperature reached 34 degrees Celsius (93 degrees Fahrenheit):
+JADAM measured soil temperatures beneath black plastic mulch in early June (not yet summer) and found alarming results. When the [[jadam-ambient-temperature-principle]] reached 34 degrees Celsius (93 degrees Fahrenheit):
 
 | Depth | Temperature Under Plastic |
 |-------|--------------------------|
@@ -44,10 +44,10 @@ The consequences of this temperature torture are severe:
 
 ## Comparison with Weed Mats
 
-Weed mats (permeable landscape fabric) offer a better alternative:
+Weed mats (permeable [[comparison-mulch-types-and-effects-vs-landscape-fabric-alternatives]]) offer a better alternative:
 - Small holes allow hot air to pass through, preventing extreme temperature buildup
 - UV-coated material lasts approximately 5 years (vs. 1 year for plastic)
-- Water and liquid fertilizer can be applied directly onto the mat
+- Water and [[jadam-liquid-fertilizer-nutritional-perspective]] can be applied directly onto the mat
 - Temperature rise is much smaller compared to plastic
 - Still effective at weed suppression
 
@@ -55,11 +55,11 @@ Weed mats (permeable landscape fabric) offer a better alternative:
 
 The ideal solution is to seek a symbiotic relationship with wild grass, which provides:
 - Natural soil temperature regulation in all seasons
-- Organic matter input for soil fertility
+- [[hamilton-composting-and-organic-matter-management]] input for soil fertility
 - Protection against early flowering, chilling/freezing, and summer overheating
 - Root penetration that alleviates soil compaction
 - Mineral diversity improvement
-- Pest and disease suppression through increased microbial activity
+- Pest and [[aact-disease-suppression-mechanisms-ingham]] through increased microbial activity
 
 ## If You Must Use Plastic
 

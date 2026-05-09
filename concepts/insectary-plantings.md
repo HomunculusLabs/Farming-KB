@@ -9,7 +9,7 @@ sources: []
 
 # Insectary Plantings
 
-Insectary plantings are dedicated areas of flowering plants grown specifically to attract, feed, and shelter beneficial insects — predators, parasitoids, and pollinators. By providing nectar, pollen, and habitat, insectary plantings increase the population of insects that control pests and pollinate crops, reducing the need for chemical interventions.
+Insectary plantings are dedicated areas of flowering plants grown specifically to attract, feed, and shelter [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] — predators, parasitoids, and pollinators. By providing nectar, pollen, and habitat, insectary plantings increase the population of insects that [[query-how-to-control-pests-without-chemicals]] and pollinate crops, reducing the need for chemical interventions.
 
 ## Why Insectary Plantings Matter
 
@@ -51,7 +51,7 @@ Daisy-like flowers attract a wide range of pollinators, ladybugs, and predatory 
 | Sunflower (Helianthus annuus) | Jul-Sep | 5-10 ft | Annual, attracts ladybugs and pollinators, see [[trap-cropping]] |
 | Calendula (Calendula officinalis) | Apr-Nov | 1-2 ft | Annual/perennial, very long bloom, edible flowers |
 | Purple coneflower (Echinacea purpurea) | Jun-Aug | 2-4 ft | Perennial, drought-tolerant, attracts butterflies and bees |
-| Black-eyed Susan (Rudbeckia hirta) | Jun-Sep | 2-3 ft | Biennial/perennial, native to North America |
+| Black-eyed Susan (Rudbeckia hirta) | Jun-Sep | 2-3 ft | Biennial/perennial, native to [[psilocybin-north-america-pacific-northwest]] |
 | Goldenrod (Solidago spp.) | Aug-Oct | 2-5 ft | Perennial, critical late-season nectar source |
 | Asters (Symphyotrichum spp.) | Aug-Oct | 2-4 ft | Perennial, essential late-season food for migrating monarchs |
 | Coreopsis (Tickseed) | Jun-Sep | 1-3 ft | Perennial, long bloom, drought-tolerant |
@@ -78,7 +78,7 @@ Legumes provide nectar and pollen, fix nitrogen, and serve as host plants for so
 | Plant | Bloom Period | Height | Notes |
 |-------|-------------|--------|-------|
 | White clover (Trifolium repens) | May-Oct | 0.3 ft | Perennial, excellent ground cover, nitrogen fixer |
-| Crimson clover (Trifolium incarnatum) | Apr-Jun | 1-2 ft | Winter annual, excellent spring nectar source |
+| [[comparison-lupin-vs-crimson-clover-green-manure]] (Trifolium incarnatum) | Apr-Jun | 1-2 ft | Winter annual, excellent spring nectar source |
 | Sweet clover (Melilotus spp.) | Jun-Sep | 3-6 ft | Biennial, very attractive to bees, can be weedy |
 | Vetch (Vicia spp.) | Apr-Jun | 2-6 ft | Annual/perennial, nitrogen fixer, see [[cover-cropping-guide]] |
 
@@ -96,9 +96,9 @@ Dedicated strips of flowering plants within or alongside crop areas.
 
 ### Hedgerows
 
-Linear plantings of woody shrubs and perennial flowers along field edges, fence lines, or property boundaries.
+Linear plantings of woody shrubs and [[hamilton-perennial-flowers-organic]] along field edges, fence lines, or property boundaries.
 
-- **Benefits**: Windbreak, privacy, wildlife corridor, and year-round beneficial insect habitat
+- **Benefits**: Windbreak, privacy, wildlife corridor, and year-round beneficial [[hemenway-insectary-plants-and-beneficial-insects]]
 - **Species**: Combine flowering shrubs (elderberry, chokeberry, serviceberry) with perennial flowers and native grasses
 - **Maintenance**: Prune annually to maintain shape and flower production
 
@@ -141,19 +141,6 @@ Continuous bloom from early spring through late fall is the goal. Plan insectary
 - Goldenrod, asters, Joe-Pye weed, sedum, marigold, late-blooming zinnias and cosmos
 
 ### Winter (December-February)
-
-- Leave dried flower stalks and seed heads standing for overwintering habitat
-- Evergreen shrubs provide shelter
-- Some warm winters allow late kale and brassica flowers to support bees
-
-## Maintaining Insectary Plantings
-
-- **Water during establishment**: New plantings need regular water for the first season
-- **Minimal weeding**: Allow some "weeds" (dandelion, Queen Anne's lace, clover) to persist — they are excellent insectary plants
-- **Selective mowing**: Mow insectary strips in sections to maintain continuous bloom
-- **Avoid pesticides**: This is the most important maintenance rule. Even organic pesticides kill beneficial insects.
-- **Replant annuals**: Buckwheat, alyssum, and other annuals need replanting each year or succession planting
-
 ## Related Topics
 
 - [[beneficial-insects-guide]] for identifying and supporting specific beneficial species

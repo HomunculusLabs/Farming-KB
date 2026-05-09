@@ -1,10 +1,11 @@
 ---
-title: "Natural Beekeeping vs Standard Beekeeping"
+title: "comparison natural beekeeping vs standard beekeeping vs Standard Beekeeping"
 created: 2026-04-28
 tags: [comparison, beekeeping, permaculture, pollinators]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 # Natural Beekeeping vs Standard Beekeeping
@@ -17,14 +18,14 @@ equipment choices, and long-term bee health outcomes.
 ## Overview
 
 **Natural Beekeeping** follows a bee-centered philosophy rooted in the practices
-of Sepp Holzer and other permaculture practitioners. The core principle is
+of [[comparison-sepp-holzer-vs-biodynamic]] and other permaculture practitioners. The core principle is
 minimal intervention: trust the bees to manage themselves in a healthy
 environment. Hives are built from untreated insulated wood, with traditional
 log hives and straw skeps preferred over commercial equipment.
 
 Beekeepers open hives infrequently, allowing bees to build natural comb without
 foundation, and leave sufficient honey for the colony to overwinter without
-supplemental feeding. Medicinal herbs such as thyme, lavender, and sage are
+[[savory-supplemental-feeding-and-winter-management]]. [[permaculture-plants-medicinal-herbs-healing]] such as thyme, lavender, and sage are
 planted near hives to support bee immune systems. No sugar feeding or chemical
 medications are used. Yields typically range from 50-80 kg per hive annually,
 though this depends heavily on the health and diversity of the surrounding
@@ -39,7 +40,7 @@ performance.
 Varroa mite monitoring and treatment with chemical controls or organic acids
 is standard practice. Supplemental sugar syrup feeding supports colonies through
 dearth periods. Swarm prevention techniques include providing drawn comb,
-splitting colonies, and using entrance reducers. Surplus honey production is
+splitting colonies, and using entrance reducers. Surplus [[mollison-designers-beekeeping-honey-production-permaculture]] is
 predictable at 30-60 lbs per hive. The approach is highly standardized,
 well-documented, and considered beginner-friendly.
 
@@ -51,7 +52,7 @@ well-documented, and considered beginner-friendly.
 | Hive Type | Log hives, straw skeps, top bars | Langstroth with removable frames |
 | Intervention Level | Very low, 2-4 inspections per year | High, inspections every 2-3 weeks |
 | Feeding | None; bees live on own honey stores | Sugar syrup and pollen patties as needed |
-| Pest Management | No treatments, rely on bee genetics | Monitoring plus chemical or organic treatments |
+| [[cannabis-pest-management-guide]] | No treatments, rely on bee genetics | Monitoring plus chemical or organic treatments |
 | Honey Yield | 50-80 kg/hive (variable) | 30-60 lbs/hive (predictable) |
 | Comb Building | Natural comb, no foundation | Pre-formed wax or plastic foundation |
 | Skill Level | Intermediate to advanced | Beginner-friendly with courses |
@@ -92,3 +93,7 @@ Standard beekeeping addresses varroa mites through monitoring and treatment.
 [[natural-beekeeping-practices]] for detailed natural beekeeping methods
 - [[comparison-chicken-keeping-vs-beekeeping-basics]]
 - [[permaculture-beekeeping-guide]]
+
+## See Also
+
+- [[comparison-natural-swimming-pool-vs-conventional-pool]]

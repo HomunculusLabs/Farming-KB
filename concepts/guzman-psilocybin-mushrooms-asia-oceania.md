@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushrooms of Asia and Oceania
+title: forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of Asia and Oceania
 created: 2026-04-26
 aliases:
   - Neurotropic fungi of Asia
@@ -27,21 +27,21 @@ updated: 2026-04-26
 
 Asia and Oceania together encompass enormous mycological diversity, from the
 tropical forests of Southeast Asia to the temperate zones of Japan and New
-Zealand. New Guinea harbors unique sacred mushroom traditions, and Japan has a
+Zealand. New Guinea harbors unique sacred [[sacred-mushroom-traditions-in-mexico]], and Japan has a
 richly documented temperate mycobiota. Australia and New Zealand possess notable
 diversity including several endemic species.
 
 ## Asia
 
 ### Widely distributed species
-Amanita muscaria, Claviceps purpurea, [[psilocybe-cubensis]], P. goniospora, P. indica (endemic), P. natarajanii
+[[allegro-amanita-muscaria-properties-and-pharmacology]], [[bloomfield-ergot-claviceps-purpurea-ergotism]], [[psilocybe-cubensis]], P. goniospora, P. indica (endemic), P. natarajanii
   (endemic), P. pseudoaztecorum (endemic), P. semilanceata**
 
 ### Southeast Asia
 Southeast Asia is rich in tropical Copelandia and Psilocybe species:
 
 - **Cambodia:** Copelandia cambodginiensis, C. cyanescens, C. tropicalis,
-  Psilocybe cubensis.
+  [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]].
 - **Indonesia (Java, Sumatra, Borneo):** Copelandia cyanescens, Psilocybe
   subaeruginascens var. subaeruginascens, Boletus flammeus.
 - **Thailand:** Copelandia cyanescens, Dictyophora indusiata, Psilocybe
@@ -76,7 +76,7 @@ well-documented indigenous use of neurotropic fungi:
 - **China:** Amanita muscaria, Boletus sp., Claviceps purpurea, Gymnopilus
   spectabilis, Panaeolus papilionaceus, P. retirugis, Psilocybe venenata.
 - **Himalaya/Tibet:** Amanita muscaria.
-- **Israel:** Amanita pantherina, [[psilocybe-australiana]] (endemic), P. collybioides, P. cubensis, P.
+- **Israel:** Amanita pantherina, psilocybe-australiana (endemic), P. collybioides, P. cubensis, P.
   cyanescens, P. eucalypta (endemic), P. semilanceata, P. subaeruginosa
   (endemic), P. subcubensis, P. tasmaniana (endemic)**
 
@@ -90,11 +90,17 @@ New Zealand has a rich mycobiota with several endemic species:
 - **Claviceps paspali, C. purpurea**
 - **Copelandia cyanescens**
 - **[[panaeolus-subbalteatus]]**
-- **[[psilocybe-aucklandii]] (endemic), P. australiana, P. collybioides, P.
+- **psilocybe-aucklandii (endemic), P. australiana, P. collybioides, P.
   cubensis, P. eucalypta, P. kumaenorum, P. makarorae (endemic), P.
   semilanceata, P. subaeruginosa, P. subcubensis, P. tasmaniana**
 
 ### Pacific Islands
 - **Hawaii:** Amanita muscaria, Copelandia anomala, C. bispora, C.
-  cambodginiensis, C. cyanescens, C. tropicalis, Panaeolus subbalteatus, P.
+  cambodginiensis, C. cyanescens, C. tropicalis, [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]], P.
   sphinctrinus, Psilocybe cubensis (?).
+## See Also
+- [[psilocybin-mushrooms]]
+- [[neurotropic-fungi]]
+- [[copelandia-cyanescens]]
+- [[gerronema-fibula]]
+- [[amanita-muscaria]]

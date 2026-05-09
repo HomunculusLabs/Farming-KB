@@ -1,5 +1,5 @@
 ---
-title: "Morning Glory (Ipomoea violacea) Seeds"
+title: "golden-guide-morning-glory-and-ololiuqui (Ipomoea violacea) Seeds"
 created: 2026-04-28
 tags: [ethnobotany, morning-glory, ipomoea, mexico, ololiuqui, lsa, mazatec, oaxaca]
 date: 2026-04-28
@@ -17,7 +17,7 @@ present day.
 ## Botanical Background
 
 *Ipomoea violacea* L. belongs to the Convolvulaceae (bindweed family),
-the same family that includes the Ololiuqui vine (*[[schultes-ergot-st-anthonys-fire]]. Lysergic acid amide, also
+the same family that includes the Ololiuqui vine (*[[schultes-ergot-st-anthonys-fire]]. [[ergot-and-lysergic-acid-history]] amide, also
 known as ergine, and lysergic acid hydroxyethylamide are the main
 components of the alkaloid mixture. The tryptamine radical in the ring
 structure of lysergic acid establishes its relationship with ergoline
@@ -46,14 +46,14 @@ herbs, in Peyote, in Ololiuqui, in the owl..."
 
 ## Related Species
 
-Other Morning Glories have psychoactive properties. In South America,
+Other [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] have psychoactive properties. In South America,
 *Ipomoea carnea* is used as an inebriant and also contains the
 psychoactive alkaloid ergotine. *Ipomoea rubrocaerulea* has also been
 noted. The European bindweed *Convolvulus tricolor* contains
 psychoactive alkaloids, although there is no knowledge of any
 traditional use.
 
-Both *Turbina corymbosa* and *Ipomoea violacea* are entheogenic
+Both *[[plants-of-the-gods-turbina-corymbosa-ololiuqui]]* and *Ipomoea violacea* are entheogenic
 Morning Glories whose seeds contain lysergic acid amide alkaloids. The
 horticultural importance of *Ipomoea violacea* among the Zapotec and
 Mazatec peoples remains significant to this day.
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

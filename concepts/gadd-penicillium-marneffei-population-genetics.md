@@ -1,5 +1,5 @@
 ---
-title: Penicillium marneffei Population Genetics
+title: gadd penicillium marneffei population genetics Population Genetics
 created: 2026-04-28
 tags:
   - population-genetics
@@ -16,9 +16,9 @@ type: concept
 
 # Penicillium marneffei Population Genetics
 
-Penicillium marneffei is a dimorphic fungal pathogen causing
+Penicillium marneffei is a dimorphic [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] causing
 penicilliosis, an opportunistic infection common in HIV-positive
-individuals in Southeast Asia. Molecular typing studies have revealed
+individuals in [[psilocybe-southeast-asia-pacific]]. Molecular typing studies have revealed
 how this fungus is dispersed in the environment and how clinical
 isolates relate to environmental populations.
 
@@ -35,7 +35,7 @@ rates correlating with human disease incidence across Southeast Asia.
 
 Early studies characterised clinical isolates using a variety of
 molecular techniques including RAPD, microsatellite typing, and
-multilocus sequence typing. A key breakthrough came with the development
+[[fungi-multilocus-sequence-typing-molecular-epidemiology]] typing. A key breakthrough came with the development
 of a multilocus microsatellite typing system (MLMT) specifically for
 P. marneffei, revealing substantial genetic diversity among clinical
 isolates that reflected broader environmental population structure.
@@ -85,7 +85,7 @@ index of association suggest that P. marneffei reproduces predominantly
 clonally in nature, with limited evidence for recombination. This is
 consistent with the asexual production of conidia being the primary
 mode of reproduction. However, the presence of both mating-type genes
-in populations suggests potential for sexual reproduction.
+in populations suggests potential for [[fungal-life-cycles-sexual-reproduction-metamorphosis]].
 
 ## Demographic history and population expansion
 
@@ -107,7 +107,7 @@ demonstrated seasonal variation in isolation rates.
 ## Implications for disease control
 
 Understanding the environmental population genetics of P. marneffei
-has practical implications for disease prevention. Since clinical
+has practical implications for [[cervantes-pest-disease-prevention-overview]]. Since clinical
 infections arise from environmental exposure, mapping the genetic
 structure of environmental populations can identify high-risk areas.
 The spatial structure of populations means that local environmental

@@ -1,12 +1,12 @@
 ---
-title: Bromeliad vs Orchid Care
+title: comparison bromeliad vs orchid care Care
 tags: [epiphytes, bromeliads, orchids, houseplants, cultivation, care-guide, comparison]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Benzing, D.H. (2000). Bromeliaceae: Profile of an Adaptive Radiation. Cambridge University Press.
   - Hessayon, D.G. (2014). The House Plant Expert. Expert Books.
-  - Royal Horticultural Society. "Orchid Growing Guide." RHS Publications.
+  - Royal Horticultural Society. "Orchid [[comparison-bean-growing-guide-vs-pepper-growing-guide]]." RHS Publications.
   - Bechtel, H., Cribb, P. & Launert, E. (1992). The Manual of Cultivated Orchid Species. MIT Press.
   - Kress, W.J. (2019). "Bromeliads: Tropical and Subtropical Plants for the Garden and Home." Smithsonian Gardens.
 created: 2026-05-07
@@ -63,7 +63,7 @@ Leaf color indicates light status: dark green = too little light; yellow green o
 ### Bromeliads
 
   **Tank types**: Small bark based orchid mix or well draining bromeliad mix. The medium primarily anchors the plant; nutrients come from the tank. Repotting is rarely needed.
-  **Tillandsias**: No soil. Mount on cork, driftwood, or stone with wire or glue. Display where air circulation is excellent.
+  **Tillandsias**: No soil. Mount on cork, driftwood, or stone with wire or glue. Display where [[stamets-growing-room-air-circulation-co2-management]] is excellent.
   **Terrestrial bromeliads** (*Cryptanthus*, *Ananas*): Standard well draining potting soil works.
 
 ### Orchids

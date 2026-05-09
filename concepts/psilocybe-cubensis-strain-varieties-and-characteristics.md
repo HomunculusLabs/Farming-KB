@@ -1,5 +1,5 @@
 ---
-title: Psilocybe Cubensis Strain Varieties And Characteristics
+title: brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting Strain Varieties And Characteristics
 source: fanaticus-pf-tek-psilocybe-fanaticus.md, carolina-mushrooms_08qxp.md
 mined: 2026-05-08
 tags: [strains, cubensis, varieties, potency, cultivation, taxonomy]
@@ -9,7 +9,7 @@ tags: [strains, cubensis, varieties, potency, cultivation, taxonomy]
 
 ## Overview
 
-*Psilocybe cubensis* is the most widely cultivated hallucinogenic mushroom
+*Psilocybe cubensis* is the most widely cultivated [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]]
 species, and numerous named "strains" or "varieties" are available through
 commercial and underground sources. It is important to understand that these
 strains are not distinct taxonomic varieties in the botanical sense — they
@@ -40,7 +40,7 @@ hardened masses of mycelium that serve as nutrient storage organs. Sold
 commercially as "philosopher's stones" or "magic truffles" in Dutch
 smartshops. Moderate potency with a milder, more controllable experience.
 
-**Psilocybe tampanensis**: Another sclerotia-producing species, first
+**[[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]**: Another sclerotia-producing species, first
 collected near Tampa, Florida. Produces smaller sclerotia than *P. mexicana*
 but is easier to cultivate. Also sold as "truffles" in the commercial market.
 
@@ -53,10 +53,10 @@ potency" strain may exceed a poorly-grown "high potency" strain in actual
 alkaloid content.
 
 Factors affecting potency include: substrate composition (more nutritious
-substrates tend to produce more potent fruits), harvest timing (potency
+substrates tend to produce more potent fruits), [[cannabis-harvest-timing-visual-cues]] (potency
 peaks just before or as the veil tears and declines as spores mature), drying
-method (heat degrades psilocybin; air-drying or desiccant drying is preferred),
-and storage conditions (light, heat, and moisture all degrade alkaloids).
+method (heat degrades psilocybin; air-drying or [[mushroom-desiccant-drying-methods]] is preferred),
+and [[vegetable-storage-conditions-by-temperature-and-humidity]] (light, heat, and moisture all degrade alkaloids).
 
 ## Species Beyond Cubensis
 
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

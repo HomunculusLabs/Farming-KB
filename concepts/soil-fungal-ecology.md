@@ -1,35 +1,13 @@
 ---
 title: Soil Fungal Ecology
 created: 2026-04-28
-tags: [[mycology, ecology, soil-science, decomposition]
+tags: [mycology, ecology, soil-science, decomposition]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 type: concept
 ---
-
-# Soil Fungal Ecology
-
-Soil is the primary reservoir of fungal diversity on Earth. A single gram
-of soil can contain hundreds of fungal species representing all major
-fungal phyla, engaged in complex ecological interactions that underpin
-nutrient cycling, plant health, and ecosystem functioning. Despite their
-importance, soil fungi remain among the least characterized components of
-terrestrial biodiversity.
-
-## Functional Guilds
-
-Soil fungi are classified into broad functional guilds based on their
-nutritional strategies:
-
-- **Saprotrophs (decomposers)**: The primary agents of organic matter
-  decomposition in soil. They secrete extracellular enzymes (cellulases,
-  ligninases, chitinases, proteases) to break down complex plant
-  polymers. Saprotrophic basidiomycetes (e.g., litter-decomposing
-  mushrooms) are especially important for lignin degradation.
-- **Mycorrhizal fungi**: Form mutualistic symbioses with plant roots,
-  exchanging soil nutrients (phosphorus, nitrogen) for plant-derived
-  carbon. [[wood-wide-web]]s") physically connect multiple trees,
+# Soil Fungal Ecology Soil is the primary reservoir of fungal diversity on Earth. A single gram of soil can contain hundreds of fungal species representing all major fungal phyla, engaged in complex ecological interactions that underpin nutrient cycling, plant health, and ecosystem functioning. Despite their importance, soil fungi remain among the least characterized components of terrestrial biodiversity. ## Functional Guilds Soil fungi are classified into broad functional guilds based on their nutritional strategies: - **Saprotrophs (decomposers)**: The primary agents of organic matter decomposition in soil. They secrete extracellular enzymes (cellulases, ligninases, chitinases, proteases) to break down complex plant polymers. Saprotrophic basidiomycetes (e.g., litter-decomposing mushrooms) are especially important for lignin degradation. - **Mycorrhizal fungi**: Form mutualistic symbioses with plant roots, exchanging soil nutrients (phosphorus, nitrogen) for plant-derived carbon. [[wood-wide-web]]s") physically connect multiple trees,
 facilitating carbon and nutrient transfer between individuals. These
 networks can be vast, with individual mycelial genets spanning
 hectares.

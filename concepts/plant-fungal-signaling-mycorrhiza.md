@@ -1,5 +1,5 @@
 ---
-title: Plant-Fungal Signaling in Mycorrhizal Symbiosis
+title: Plant-Fungal Signaling in bloomfield-mycorrhizal-symbiosis-and-fungal-ecology
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -19,9 +19,9 @@ Before physical contact between plant and fungus, a chemical dialogue establishe
 
 Strigolactones are the primary plant signals that activate AMF:
 
-- Root-exuded sesquiterpene lactones that stimulate AMF spore germination and hyphal branching at extremely low concentrations (10^-13 to 10^-10 M)
+- Root-exuded sesquiterpene lactones that stimulate AMF [[growing-gourmet-spore-germination-strain-isolation]] and hyphal branching at extremely low concentrations (10^-13 to 10^-10 M)
 - Originally identified as germination stimulants for root parasitic plants (Striga, Orobanche)
-- Synthesized from carotenoid precursors; their production increases under phosphorus deficiency
+- Synthesized from carotenoid precursors; their production increases under [[query-how-to-fix-phosphorus-deficiency-in-cannabis]]
 - Also function as endogenous plant hormones regulating shoot branching and root architecture
 - The dual role as both signals to fungi and internal hormones links symbiosis to plant nutritional status
 
@@ -48,7 +48,7 @@ Flavonoid compounds serve multiple signaling roles:
 
 #### Ethylene
 
-- Ethylene is generally considered a negative regulator of mycorrhizal colonization
+- Ethylene is generally considered a negative regulator of [[arbuscular-mycorrhizal-colonization-patterns]]
 - High ethylene levels can suppress AMF colonization
 - Some PGPR promote mycorrhization partly by reducing ethylene levels through ACC deaminase activity
 - The ethylene pathway intersects with jasmonic acid signaling in modulating the symbiosis
@@ -73,7 +73,7 @@ Flavonoid compounds serve multiple signaling roles:
 
 Molecular events in mycorrhizal signaling overlap with plant-pathogen interactions:
 
-- Signal perception, signal transduction, and defense gene activation occur in both
+- Signal perception, [[fungal-environmental-sensing-signal-transduction-read]], and defense gene activation occur in both
 - In mycorrhizal symbiosis, these responses are characteristically weak and transient
 - The low intensity may reflect limited capacity of AMF to trigger defense
 - Alternatively, the fungus may actively suppress defense responses through effector proteins
@@ -121,7 +121,7 @@ Arbuscules are transient structures with a defined life cycle:
 
 1. **Initiation**: Fungal hypha contacts root cortical cell; signaling triggers arbuscule branching
 2. **Development**: Arbuscule branches fill the cell; periarbuscular membrane forms around branches
-3. **Maturity**: Active nutrient exchange phase; plant and fungal transporters are expressed
+3. **Maturity**: Active [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] phase; plant and fungal transporters are expressed
 4. **Senescence**: Arbuscule degenerates; the host cell may recover or undergo programmed cell death
 
 Each stage involves distinct signaling events, and the temporal regulation of these signals determines the outcome of each individual arbuscule.

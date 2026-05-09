@@ -1,18 +1,13 @@
 ---
-title: "Lichenized Fungi and Their Symbiotic Relationships (Biodiversity of Fungi)"
+title: "biodiversity lichenized fungi symbiosis and Their Symbiotic Relationships (Biodiversity of Fungi)"
 created: 2026-04-28
-tags: [[mycology, lichenology, symbiosis, biodiversity, ecology]
+tags: [mycology, lichenology, symbiosis, biodiversity, ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: ["/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
-
-# Lichenized Fungi and Their Symbiotic Relationships
-
-## Overview
-
-[[fungal-biodiversity]]. Most lichen-forming fungi belong to the [[lichen-symbiosis]]
+# Lichenized Fungi and Their Symbiotic Relationships ## Overview [[fungal-biodiversity]]. Most lichen-forming fungi belong to the [[lichen-symbiosis]]
 
 The relationship between the fungal partner and the photosynthetic
 partner has been variously described by researchers. Some consider it a
@@ -74,7 +69,7 @@ Lecanorales.
 
 Molecular phylogenetic studies indicate that lichenization occurred
 early during [[fungal-taxonomy]] and [[nephroma-arcticum]]
-- [[biodiversity-fungi-plant-mutualisms]]
+- biodiversity-fungi-plant-mutualisms
 - [[mycorrhizal-fungi]]
 - [[lichen-biology-guide]] — comprehensive lichen biology reference
 - [[lichen-ecology-environmental-sensitivity]] — ecological roles and habitat requirements

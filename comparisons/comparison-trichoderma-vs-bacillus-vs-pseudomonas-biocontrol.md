@@ -1,24 +1,11 @@
 ---
-title: "Trichoderma vs Bacillus vs Pseudomonas — Biocontrol Agents Compared"
-created: 2026-04-28
-tags:
-  - biocontrol
-  - soil-biology
-  - plant-pathology
-  - beneficial-microbes
-  - integrated-pest-management
-  - microbial-inoculant
-  - PGPR
-  - regenerative-agriculture
-  - soil-health
-date: 2026-04-28
-updated: 2026-04-28
-sources:
 ## See Also
 
+- bacillus-megaterium
+
 - comparison trichoderma vs bacillus vs pseudomonas biocontrol
-- [[ingham-fungal-dominant-vs-bacterial-dominant-tea]]
-- [[comparison-rhizosphere-ecology-vs-mycorrhizal-fungi]]
+- ingham-fungal-dominant-vs-bacterial-dominant-tea
+- comparison-rhizosphere-ecology-vs-mycorrhizal-fungi
 
 ## Merged: "Trichoderma vs Bacillus — Biocontrol Agents Compared"
 
@@ -52,7 +39,7 @@ sources:
 - This mechanism is especially effective against **fungal pathogens with chitinous cell walls** — *Fusarium*, *Rhizoctonia*, *Sclerotinia*, *Botrytis*.
 
 **Antibiosis**:
-- Produces secondary metabolites including trichothecenes, gliotoxin, viridin, peptaibols, and 6-pentyl-α-pyrone (6-PAP).
+- Produces [[antifungal-secondary-metabolites-coprophilous-fungi]] including trichothecenes, gliotoxin, viridin, peptaibols, and 6-pentyl-α-pyrone (6-PAP).
 - These compounds inhibit pathogen growth at a distance and can be volatile (trichodermin, harzianic acid).
 - 6-PAP also directly stimulates plant growth.
 
@@ -61,7 +48,7 @@ sources:
 - Competes for space on root surfaces, iron (via siderophores), and carbon sources.
 - Forms dense hyphal networks that physically exclude pathogens.
 
-**Induced Systemic Resistance (ISR)**:
+**[[endophytic-mycorrhizal-induced-systemic-resistance]] Resistance (ISR)**:
 - Root colonization triggers jasmonic acid (JA) and ethylene (ET) signaling pathways in plants.
 - Activates PR (pathogenesis-related) genes, including chitinases and glucanases.
 - Provides protection against foliar pathogens the fungus never contacts — a true whole-plant effect.
@@ -81,12 +68,12 @@ sources:
   - **Iturins**: Primarily antifungal; highly active against *Fusarium*, *Rhizoctonia*, *Botrytis*.
   - **Fengycins**: Strong antifungal activity, especially against filamentous fungi; also antibacterial.
 - Produces polyketides (difficidin, macrolactin, bacillaene) with antibacterial activity against *Xanthomonas*, *Pseudomonas*, *Ralstonia*.
-- Produces volatile organic compounds (VOCs) — 2,3-butanediol and acetoin — that suppress pathogens and promote plant growth at a distance.
+- Produces [[fungal-volatile-organic-compounds-communication]] compounds (VOCs) — 2,3-butanediol and acetoin — that suppress pathogens and promote plant growth at a distance.
 
 **Competition**:
 - Rapid root colonization via chemotaxis toward root exudates (sugars, amino acids, organic acids).
 - Forms robust **biofilms** on root surfaces that physically exclude pathogens.
-- Exceptional nutrient-scavenging ability; siderophore production (bacillibactin) sequesters iron.
+- Exceptional nutrient-scavenging ability; [[singh-fungal-siderophore-production-iron-acquisition]] (bacillibactin) sequesters iron.
 
 **Induced Systemic Resistance (ISR)**:
 - Triggers both JA/ET and SA (salicylic acid) pathways, depending on strain and pathogen.
@@ -119,7 +106,7 @@ sources:
 - **Survival**: Bacillus endospores are dramatically more resilient — they survive boiling (121°C for 15 min), UV radiation, desiccation for decades, extreme pH, and chemical disinfectants. Trichoderma conidia are viable for months to a year under favorable conditions but degrade with heat, UV, and desiccation.
 - **Shelf life**: Bacillus-based products typically last 2–5 years at room temperature. Trichoderma products last 6–18 months and often require refrigerated storage.
 - **Soil adaptability**: Bacillus tolerates a wider range of soil conditions (pH, temperature, moisture, salinity). Trichoderma performs best in warm, moist, organic-matter-rich soils.
-- **Compatibility with chemicals**: Bacillus is more compatible with chemical fertilizers and some fungicides. Trichoderma is sensitive to many fungicides and high rates of synthetic fertilizers.
+- **Compatibility with chemicals**: Bacillus is more compatible with [[cervantes-chemical-fertilizers-guide]] and some fungicides. Trichoderma is sensitive to many fungicides and high rates of synthetic fertilizers.
 
 ### Application Scenarios
 
@@ -132,7 +119,7 @@ sources:
 | High-temperature environments | Bacillus | Thermotolerant endospores |
 | Acidic soils | Trichoderma | Many species prefer slightly acidic conditions |
 | Alkaline soils | Bacillus | Better alkaline tolerance |
-| Emergency disease suppression | Bacillus | Faster metabolite production; VOCs act within hours |
+| Emergency [[aact-disease-suppression-mechanisms-ingham]] | Bacillus | Faster metabolite production; VOCs act within hours |
 | Compost tea inoculant | Both | Trichoderma in fungal-dominant teas; Bacillus in bacterial-dominant teas |
 | Post-chemical pesticide application | Bacillus | Greater fungicide tolerance |
 | Stored grain protection | Bacillus | Endospore stability, antifungal VOCs, long persistence |
@@ -140,3 +127,4 @@ sources:
 
 - [[pseudomonas]]
 - [[trichoderma]]
+- [[solomon-soil-temperature-and-nighttime-plant-growth]]

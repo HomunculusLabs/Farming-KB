@@ -24,9 +24,9 @@ primarily defined by which side of the uvea is affected: anterior uveitis
 posterior uveitis (choroiditis) describes inflammation of the inside layer.
 When both sides of the uvea are inflamed, the condition is called pan-uveitis.
 
-According to the Cannabis Health Index, the evidence for cannabis in treating
+According to the [[blesching-cannabis-health-index-autoimmune-conditions]], the evidence for cannabis in treating
 uveitis is based on 3 studies reviewed with a total CHI value of 6, yielding a
-CHI score of 2.00.
+[[blesching-cannabis-chi-score-methodology]] of 2.00.
 
 See also: [[cannabis-autoimmune-conditions-detailed]],
 [[blesching-cannabis-immune-system-modulation]],
@@ -84,7 +84,7 @@ of CB2 was anti-inflammatory in a model of acute endotoxin-induced uveitis
 
 Researchers from the Department of Ophthalmology discovered that CBD exerts
 an anti-inflammatory and neuroprotective effect in uveitis. The mechanism
-involves blocking oxidative stress and activating p38 MAPK and microglia.
+involves blocking [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] and activating p38 MAPK and microglia.
 This finding is particularly significant because it suggests CBD may protect
 the eye from inflammatory damage while simultaneously reducing the
 inflammation itself.

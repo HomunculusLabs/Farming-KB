@@ -1,5 +1,5 @@
 ---
-title: McKenna on the Dissolution of the Dominator Culture
+title: McKenna on the Dissolution of the mckenna-dominator-culture-and-suppression-of-ecstasy
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -14,11 +14,11 @@ sources:
 
 The dominator culture, which has held sway over Western civilization for the past five thousand years, is now in the process of dissolving. This dissolution is not a political event or an ideological shift but a structural transformation driven by the convergence of ecological crisis, technological change, and the resurgence of Archaic values.
 
-The dominator model of social organization — hierarchical, patriarchal, exploitative, and alienated from nature — has reached the limits of its viability. The ecological consequences of five thousand years of dominator culture — deforestation, desertification, pollution, species extinction, and climate change — are now threatening the very survival of the human species and the biosphere as a whole.
+The dominator model of social organization — hierarchical, patriarchal, exploitative, and alienated from nature — has reached the limits of its viability. The ecological consequences of five thousand years of dominator culture — deforestation, desertification, pollution, species extinction, and [[dighton-fungi-climate-change-feedback]] — are now threatening the very survival of the human species and the biosphere as a whole.
 
 ## The Accelerating Crisis
 
-We are in a race between self-destruction and self-discovery. The forces of the dominator culture — militarism, consumerism, nationalism, religious fanaticism — are accelerating toward catastrophe. At the same time, the forces of the Archaic Revival — ecological awareness, spiritual seeking, psychedelic exploration, indigenous rights — are gathering strength.
+We are in a race between self-destruction and self-discovery. The forces of the dominator culture — militarism, consumerism, nationalism, religious fanaticism — are accelerating toward catastrophe. At the same time, the forces of the [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]] — ecological awareness, spiritual seeking, psychedelic exploration, indigenous rights — are gathering strength.
 
 The dissolution of the dominator culture is not something to be welcomed uncritically. The collapse of a civilization is a messy, painful, and dangerous process. But the dominator culture's continued existence is even more dangerous — it threatens to take the entire biosphere down with it.
 
@@ -26,13 +26,13 @@ The dissolution of the dominator culture is not something to be welcomed uncriti
 
 McKenna presents the dissolution of the dominator culture as an opportunity rather than a catastrophe — if we are wise enough to seize it. The choice is not between the dominator culture and chaos but between the dominator culture and a neo-Archaic future that integrates the wisdom of the partnership model with the knowledge and technology of the modern world.
 
-The essential insight is this: the dominator culture is not an eternal fact of human nature but a historical phase — a long, dark night of the soul from which we are now beginning to awaken. The partnership society that preceded it was not a primitive precursor to civilization but a viable alternative model of social organization that was suppressed by force and not by any inherent superiority of the dominator model.
+The essential insight is this: the dominator culture is not an eternal fact of human nature but a historical phase — a long, dark night of the soul from which we are now beginning to awaken. The [[mckenna-dominator-vs-partnership-society-model]] that preceded it was not a primitive precursor to civilization but a viable alternative model of social organization that was suppressed by force and not by any inherent superiority of the dominator model.
 
 ## The Role of Psychedelics
 
 Psychedelic plants have a crucial role to play in the dissolution of the dominator culture. By dissolving the rigid boundaries of the ego and opening the mind to the larger dimensions of reality, psychedelics undermine the psychological foundations of dominator consciousness — the isolated, competitive, nature-hating self that the dominator culture requires.
 
-The psychedelic experience reveals the interconnectedness of all things, the intelligence of nature, and the reality of the sacred. These revelations are inherently subversive of the dominator worldview, which depends on the illusion of separation — separation of humans from nature, of mind from body, of the individual from the community.
+The [[leary-psychedelic-experience-bardo-mapping]] reveals the interconnectedness of all things, the intelligence of nature, and the reality of the sacred. These revelations are inherently subversive of the dominator worldview, which depends on the illusion of separation — separation of humans from nature, of mind from body, of the individual from the community.
 
 ## The Global Situation
 
@@ -72,7 +72,7 @@ This analysis is part of McKenna's larger project, articulated most fully in [[p
 
 ## Contemporary Relevance
 
-McKenna's ideas about the relationship between psychoactive plants and human consciousness have found new relevance in the context of the modern psychedelic renaissance. Research into psychedelic-assisted therapy, documented in [[psychedelic-therapy-mechanisms]], has demonstrated that substances like psilocybin can produce mystical-type experiences that have lasting positive effects on personality, well-being, and attitudes toward death. These findings lend some empirical support to McKenna's argument that psychoactive plants have played a significant role in shaping human consciousness and culture.
+McKenna's ideas about the relationship between psychoactive plants and human consciousness have found new relevance in the context of the modern psychedelic renaissance. Research into psychedelic-assisted therapy, documented in [[psychedelic-therapy-mechanisms]], has demonstrated that substances like psilocybin can produce mystical-type experiences that have lasting positive effects on personality, well-being, and [[weil-cultural-attitudes-toward-altered-states]] death. These findings lend some empirical support to McKenna's argument that psychoactive plants have played a significant role in shaping human consciousness and culture.
 ## Practical Considerations
 
 Successful implementation of McKenna on the Dissolution of the Dominator Culture requires attention to
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

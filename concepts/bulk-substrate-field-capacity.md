@@ -10,7 +10,7 @@ sources:
 
 # Bulk Substrate Field Capacity and Moisture Management
 
-Field capacity is the moisture content of a substrate after it has been fully saturated and allowed to drain freely. In mushroom cultivation, achieving proper field capacity is one of the most important practical skills, as substrate moisture directly affects mycelial growth rate, contamination resistance, and yield. Both under-hydration and over-hydration can severely compromise a grow.
+Field capacity is the moisture content of a substrate after it has been fully saturated and allowed to drain freely. In [[accessible-mushroom-cultivation-for-disabilities]], achieving proper field capacity is one of the most important practical skills, as [[pf-tek-substrate-moisture-diagnosis-and-correction]] directly affects [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] rate, contamination resistance, and yield. Both under-hydration and over-hydration can severely compromise a grow.
 
 ## Defining Field Capacity
 
@@ -38,11 +38,11 @@ The squeeze test requires some calibration through experience. Different materia
 
 For precise moisture management, moisture content is determined gravimetrically. A sample of substrate (approximately 100 grams) is weighed, then dried in an oven at 200-250°F for 2-3 hours until completely dry. The sample is reweighed, and moisture content is calculated as the weight lost divided by the original wet weight, multiplied by 100.
 
-For example, if 100 grams of wet substrate dries to 30 grams, the moisture content is (100 - 30) / 100 x 100 = 70%. Commercial grain has a natural moisture content of approximately 11% plus or minus 2%, which is why additional water must be added during grain spawn preparation. Precise measurement allows reproducible results across batches and seasons.
+For example, if 100 grams of wet substrate dries to 30 grams, the moisture content is (100 - 30) / 100 x 100 = 70%. Commercial grain has a natural moisture content of approximately 11% plus or minus 2%, which is why additional water must be added during grain [[azurescens-spawn-preparation-grain-to-wood]]. Precise measurement allows reproducible results across batches and seasons.
 
 ## Effects of Improper Moisture
 
-Dry substrates produce fine, wispy mycelial growth because water is essential for the transport and assimilation of nutrients. Mushroom formation is poor because developing primordia and growing fruitbodies require substantial water for cell expansion. Dry substrates also colonize more slowly, extending the spawn run period and increasing the window for contamination.
+Dry substrates produce fine, wispy mycelial growth because water is essential for the transport and assimilation of nutrients. [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] is poor because developing primordia and growing fruitbodies require substantial water for cell expansion. Dry substrates also colonize more slowly, extending the spawn run period and increasing the window for contamination.
 
 Over-wet substrates are equally problematic. Excess water fills the air spaces between substrate particles, displacing oxygen and creating anaerobic conditions. Mycelial growth becomes stringy and weak. Bacteria thrive in wet environments and can rapidly outcompete mushroom mycelium. Over-wet grain kernels may explode during sterilization, exposing their starchy interiors and creating concentrated pockets of contamination risk. Spawn made with over-wet grain is difficult to break apart into individual kernels, reducing the number of inoculation points.
 
@@ -60,7 +60,7 @@ During spawn running, the metabolism of growing mycelium generates heat and cons
 
 ## Moisture During Fruiting
 
-The transition from spawn running to fruiting represents a critical moisture management period. Lowering temperature and increasing fresh air exchange accelerate evaporation from the substrate surface. This evaporation is actually an important pinning trigger, as it creates a microclimate that stimulates primordia formation. However, excessive evaporation during pinning can abort developing primordia, while insufficient evaporation fails to trigger pinning altogether.
+The transition from spawn running to fruiting represents a critical moisture management period. Lowering temperature and increasing fresh air exchange accelerate evaporation from the substrate surface. This evaporation is actually an important pinning trigger, as it creates a microclimate that stimulates [[growing-gourmet-primordia-formation-pinning]]. However, excessive evaporation during pinning can abort developing primordia, while insufficient evaporation fails to trigger pinning altogether.
 
 During active fruiting, mushrooms draw water from the substrate to expand their cells. Heavy flushes can significantly deplete substrate moisture reserves. Misting between flushes and maintaining high ambient humidity (85-92% during cropping) ensure that water supply meets demand. The casing layer functions as a water reservoir that buffers these fluctuations, making it particularly important for species that produce multiple flushes.
 
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

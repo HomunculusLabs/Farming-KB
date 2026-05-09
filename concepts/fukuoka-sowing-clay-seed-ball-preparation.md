@@ -15,9 +15,9 @@ as detailed in Appendix B of "Sowing Seeds in the Desert."*
 
 ## Purpose
 
-The clay seed pellet was conceived and developed for direct seeding rice,
+The clay seed pellet was conceived and developed for [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] rice,
 barley, and vegetables in conjunction with the no-till method. It has since come
-into wide use, and is particularly well suited for aerial seeding for the
+into wide use, and is particularly well suited for [[clay-seed-pellet-composition-and-aerial-seeding-method]] for the
 purpose of revegetating large areas of desert at one time.
 
 ## Materials
@@ -36,7 +36,7 @@ with seaweed paste for binding making up 5 percent of combined weight.
 
 4. Slaked lime — 10 percent of combined weight.
 
-5. Medicinal herbs: derris root, powdered fruits and leaves of Japanese star
+5. [[permaculture-plants-medicinal-herbs-healing]]: derris root, powdered fruits and leaves of Japanese star
 anise (*Illicium anisatum*), Japanese andromeda (*Pieris* spp.), Japanese
 lacquer tree (*Rhus verniciflua*), Japanese bead tree (Chinaberry, *Melia
 azedarach*). 10 percent of combined weight.
@@ -73,7 +73,7 @@ and can adjust to changes in dampness and dryness related to rainfall, becoming
 shrunken and solid. They seldom crumble or break, and the seeds are protected
 from damage by birds or animals until they germinate.
 
-**3. Pest resistance.** Many insects are repelled by the bitterness of the herbs
+**3. [[cannabis-disease-pest-resistance-breeding-clarke]].** Many insects are repelled by the bitterness of the herbs
 and the bittern mixed into the outer layer. In deserts and savannas this helps
 prevent damage by mice, goats, and particularly strong insects such as red ants.
 Even damage by birds can be prevented simply by enclosing the seeds in pellets.
@@ -103,8 +103,8 @@ seaweed paste, if available.
 ## Natural Culture Medium for Clay Pellets
 
 The all-around natural culture medium (matsutake fungus culture medium) for use
-with clay pellets is comprised of bacterial and fungal microorganisms,
-especially mycorrhizal fungi (matsutake), eumycetes (fungi), actinomycetes
+with clay pellets is comprised of [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] microorganisms,
+especially [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] (matsutake), eumycetes (fungi), actinomycetes
 (fungi), and bacilli (bacteria).
 
 This medium is made by combining leaf mold and rice bran, and adding an infusion

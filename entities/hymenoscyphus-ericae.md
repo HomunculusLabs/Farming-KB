@@ -15,16 +15,16 @@ sources:
 mycorrhizal associations with plants in the family Ericaceae. It is one
 of the most ecologically important mycorrhizal fungi in boreal
 heathland and tundra ecosystems, playing a central role in organic
-nutrient cycling and enabling host plants to survive in severely
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and enabling host plants to survive in severely
 nutrient-limited acidic soils.
 
 ## Taxonomy and Classification
 
 Hymenoscyphus ericae is an ascomycete in the order Helotiales. Unlike
-arbuscular mycorrhizal fungi (Glomeromycota) or ectomycorrhizal
-basidiomycetes, ericoid mycorrhizal fungi are primarily ascomycetes
+[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (Glomeromycota) or ectomycorrhizal
+basidiomycetes, [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] fungi are primarily ascomycetes
 that form distinctive coiled hyphal structures within root cortical
-cells of their Ericaceae hosts, facilitating direct nutrient exchange.
+cells of their Ericaceae hosts, facilitating direct [[arbuscule-isolation-and-nutrient-exchange-mechanisms]].
 
 ## Ecosystem Distribution
 
@@ -64,7 +64,7 @@ ericae from many other mycorrhizal fungi.
 
 Ericoid mycorrhizae produce phosphatase enzymes (Pearson and Read,
 1975; Mitchell and Read, 1981; Straker and Mitchell, 1985) to liberate
-phosphate from organic compounds. Mitchell and Read (1981), Myers and
+phosphate from [[fungal-volatile-organic-compounds-communication]]. Mitchell and Read (1981), Myers and
 Leake (1996), and Leake and Miles (1996) showed that Vaccinium
 macrocarpon could access phosphate from inositol hexaphosphate and both
 P and N from phosphodiesters. Related ericoid species (Oidiodendron
@@ -91,7 +91,7 @@ soils.
 Fungal-grazing soil fauna (collembola, mites, nematodes) interact with
 ericoid mycorrhizal fungi in heathland soils. The palatability of H.
 ericae to soil fauna influences grazing pressure on the mycorrhizal
-mycelial network, with implications for nutrient transfer to host
+[[gadd-mycelial-network-dynamics]], with implications for nutrient transfer to host
 plants.
 
 ## Agricultural Relevance

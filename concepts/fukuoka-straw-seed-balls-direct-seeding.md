@@ -1,5 +1,5 @@
 ---
-title: Seed Balls and Direct Seeding Techniques
+title: Seed Balls and comparison-seed-starting-indoors-vs-direct-seeding-techniques Techniques
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Masanobu Fukuoka, The Natural Way of Farming"
@@ -15,7 +15,7 @@ tags: [fukuoka, plant-growth]
 All plants have always grown by direct seeding, without tillage. Plants have
 always grown by direct seeding. The soil in the fields does not need to be
 tilled. Fukuoka realized that since transplanting rice seedlings was a human
-invention, natural rice cultivation must involve direct seeding. So he tried
+invention, natural [[jadam-rice-cultivation-methods]] must involve direct seeding. So he tried
 sowing seed directly over the surface of a drained field, and after many years
 of experimentation arrived at the principle of direct seeding without tilling
 of any sort.
@@ -23,7 +23,7 @@ of any sort.
 Fukuoka began studying direct seeding when he realized that all plants in
 nature grow from seed dropped where the parent plant stood. The conventional
 practice of raising seedlings in nursery beds and transplanting them to the
-field is labor-intensive and disrupts the natural growth pattern of the plant.
+field is labor-intensive and disrupts the [[ingham-natural-growth-regulators-soil-microbes]] pattern of the plant.
 Direct seeding allows the plant to develop a natural root system from the very
 beginning, producing stronger, more vigorous plants.
 
@@ -60,9 +60,9 @@ mixer.
 
 Topsoil-containing clay may also be used to form the pellets, but if the
 pellets crumble too early in spring, the seed will be devoured by rodents and
-other pests. For those who prefer a scientific method of convenience, the
+other pests. For those who prefer a [[fukuoka-limits-scientific-method-agriculture]] of convenience, the
 seeds may be coated with a synthetic resin such as styrofoam containing the
-necessary pesticides, though this defeats the purpose of natural farming.
+necessary pesticides, though this defeats the purpose of [[comparison-natural-farming-vs-permaculture]].
 
 ## Seed Balls for Vegetable Growing
 
@@ -79,7 +79,7 @@ emerge when conditions are favorable and grow with minimal human intervention.
 
 ## Seed Balls for Desert Greening
 
-The seed ball technique has applications far beyond the farm. For greening
+The seed [[fukuoka-seed-ball-technique-detailed]] has applications far beyond the farm. For greening
 deserts, a mixture of the seeds of green manure trees such as acacias that
 grow in areas of scant rainfall, of clover, alfalfa, bur clover and other
 green manure plants, and of grain and vegetable seeds is enclosed in a double

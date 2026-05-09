@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Leung, A.Y. & Foster, S. (1996). "Encyclopedia of Common Natural
     Ingredients." Wiley.
-  - Duke, J.A. (2002). "Handbook of Medicinal Herbs." CRC Press.
+  - Duke, J.A. (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]]." CRC Press.
   - Parejo, I. et al. (2002). "LC-MS Analysis of Phenolic Compounds
     in Pimpinella anisum." J. Agric. Food Chem. 50: 3761–3767.
   - WHO Monographs (2007). "Pimpinella anisum." Vol. 3.
@@ -29,7 +29,7 @@ in Apiaceae native to the eastern Mediterranean and Southwest Asia. It is
 cultivated worldwide for its aromatic seeds, which are among the oldest and
 most widely used spices in human history, dating back over 4,000 years.
 
-The seeds contain 2–6% essential oil dominated by trans-anethole (80–95%),
+The seeds contain 2–6% [[permaculture-designers-manual-essential-oil-plants]] dominated by trans-anethole (80–95%),
 which gives anise its characteristic sweet, licorice-like flavor. Anise has
 been used as a culinary spice, medicinal herb, and fragrance ingredient
 across Greek, Roman, Egyptian, Indian, and Chinese traditions.
@@ -90,7 +90,7 @@ medicine as carminative, expectorant, galactagogue, and antispasmodic.
 - **Galactagogue:** Anethole has estrogenic activity; clinical evidence
   supports modest increase in breast milk production.
 - **Antimicrobial:** Essential oil active against Gram-positive bacteria
-  and Candida albicans.
+  and [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]].
 - **Antioxidant:** Flavonoid fraction shows significant free radical
   scavenging activity.
 
@@ -106,12 +106,12 @@ commercially significant.
 
 ## Ecological Notes
 
-Anise serves as a nectar source for parasitoid wasps and hoverflies,
+Anise serves as a nectar source for [[comparison-parasitoid-wasps-vs-chemical-pesticides]] and hoverflies,
 making it a useful companion plant in organic vegetable gardens. Its
 aromatic compounds may deter aphids and cabbage moth when intercropped
 with brassicas.
 
-In permaculture design, anise functions as a short-lived annual filler
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], anise functions as a short-lived annual filler
 between perennials. Its shallow root system minimizes competition. The
 plant is not aggressive and does not self-seed prolifically in temperate
 climates.

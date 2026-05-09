@@ -1,5 +1,5 @@
 ---
-title: Cannabis Landrace Strains
+title: Cannabis sativa-landrace-strains-and-geographic-origins
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -15,7 +15,7 @@ that evolved in specific geographic areas over centuries of natural
 selection and traditional cultivation. They form the genetic foundation
 upon which virtually all modern cannabis hybrids are built. Cervantes
 describes the major landrace groups and their characteristics as the
-basis for understanding cannabis taxonomy and breeding origins.
+basis for understanding [[clarke-marijuana-botany-cannabis-taxonomy-and-genetics]] and breeding origins.
 
 ## What Are Landrace Strains
 
@@ -51,7 +51,7 @@ longer. Classic sativa landraces include:
   important genetic resources.
 - **Mexican landraces:** Contributed genetics to foundational hybrids
   like 'Skunk #1' (Mexican x Colombian x Afghani).
-- **Jamaican and South African varieties:** Additional tropical
+- **Jamaican and [[kanna-sceletium-south-african-narcotic]] varieties:** Additional tropical
   sativa landraces with distinct characteristics.
 
 Sativa landraces often prove disappointing when grown under artificial
@@ -74,15 +74,15 @@ with dense compact buds resist gray (bud) mold. See
 
 The genetic diversity found in landrace populations represents the raw
 material for all cannabis improvement. Years of persecution and greedy
-seed-making practices have led to a genetic bottleneck -- a narrowing
+seed-making practices have led to a [[cervantes-genetic-bottleneck-and-diversity-loss]] -- a narrowing
 of available breeding stock. Ethical breeding should focus on preserving
 valuable genetic resources from landraces and wild populations for
 future generations.
 
 Cervantes reports that ninety different strains from Holland were grown
-out in a single Colombian breeding program, demonstrating the
+out in a single Colombian [[cervantes-breeding-program-design-goal-setting]], demonstrating the
 international exchange of landrace genetics. Neville, founder of the
-Seed Bank, traveled the world to collect the best cannabis seeds from
+Seed Bank, traveled the world to collect the best [[query-how-to-store-cannabis-seeds-for-long-term-viability]] from
 landrace populations.
 
 ## Modern Strain Composition

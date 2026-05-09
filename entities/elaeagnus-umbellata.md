@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Olsson, A.M. (1974). "Elaeagnus umbellata as a nurse plant in black walnut plantations." Plant and Soil 40(2): 321-328.
-  - Paschke, M.W. et al. (1989). "Nitrogen fixation and biomass production by Elaeagnus umbellata." American Journal of Botany 76(1): 22-29.
+  - Paschke, M.W. et al. (1989). "[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and [[dighton-fungal-biomass-production-aquatic-ecosystems]] by Elaeagnus umbellata." American Journal of Botany 76(1): 22-29.
   - USDA-NRCS (2020). "Plant Guide: Autumn olive (Elaeagnus umbellata)." USDA Natural Resources Conservation Service.
   - Fordham, I.M. et al. (2001). "Lycopene and tocopherol content of autumn olive berries." Journal of the American Society for Horticultural Science 126(1): 14-18.
   - Catling, P.M. & Porebski, S. (1994). "The history of invasion and current status of Elaeagnus umbellata in Ontario." Canadian Field-Naturalist 108(3): 305-310.
@@ -21,9 +21,9 @@ created: 2026-04-28
 
 ## Overview
 
-**Elaeagnus umbellata** Thunb., commonly known as **autumn olive**, is a deciduous shrub in the family Elaeagnaceae. Native to East Asia (China, Korea, Japan), it was widely introduced to North America and Europe as an ornamental, windbreak, and erosion control plant beginning in the 1830s.
+**Elaeagnus umbellata** Thunb., commonly known as **autumn olive**, is a deciduous shrub in the family Elaeagnaceae. Native to East Asia (China, Korea, Japan), it was widely introduced to [[psilocybin-north-america-pacific-northwest]] and Europe as an ornamental, windbreak, and [[permplant-willows-salix-erosion-control-fodder]] plant beginning in the 1830s.
 
-The species has become one of the most widespread invasive shrubs in eastern North America. Despite its ecological impact as an invader, autumn olive is increasingly recognized in permaculture for its nitrogen-fixing capacity, prolific fruit production, and exceptional lycopene content.
+The species has become one of the most widespread invasive shrubs in [[polypore-fungi-eastern-north-america]] America. Despite its ecological impact as an invader, autumn olive is increasingly recognized in permaculture for its nitrogen-fixing capacity, prolific fruit production, and exceptional lycopene content.
 
 ## Taxonomy and Morphology
 
@@ -51,7 +51,7 @@ The shrub thrives on disturbed soils, abandoned agricultural land, roadsides, an
 
 This nitrogen-fixing capacity makes autumn olive a valuable nurse plant in agroforestry and ecological restoration. Intercropping with fruit trees or timber species can reduce or eliminate the need for synthetic nitrogen inputs.
 
-The nitrogen contribution extends beyond the root zone through leaf litter decomposition. Annual leaf fall adds both nitrogen and organic matter to surface soils, gradually improving fertility of degraded sites.
+The nitrogen contribution extends beyond the root zone through leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]]. Annual leaf fall adds both nitrogen and organic matter to surface soils, gradually improving fertility of degraded sites.
 
 ## Nutritional Value
 
@@ -99,9 +99,11 @@ However, the displacement of native shrub species (e.g., native *Viburnum*, *Cor
 
 ## See Also
 
-- [[elaeagnus-angustifolia]]
+- [[elaeagnus-multiflora]]
+
+- elaeagnus-angustifolia
 - [[robinia-pseudoacacia]]
-- [[hippophae-rhamnoides]]
+- hippophae-rhamnoides
 - [[lathyrus-tuberosus]]
 - [[gleditsia-triacanthos]]
 - [[opuntia-ficus-indica]]

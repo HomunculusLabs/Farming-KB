@@ -25,7 +25,7 @@ They are also studied as physical models of synaptic plasticity because conducta
 
 The concept is simple at the circuit level, but the materials science is diverse and often difficult.
 
-Different devices called memristors may rely on ion migration, phase change, redox reactions, ferroelectric polarization, or spintronic effects.
+Different devices called memristors may rely on ion migration, [[phase-change-materials-thermal-energy-storage]], redox reactions, ferroelectric polarization, or spintronic effects.
 
 For this reason, memristor is best understood as both a theoretical element and a family of technologies.
 
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

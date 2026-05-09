@@ -14,7 +14,7 @@ type: concept
 Melanoidins are complex polymeric brown pigments formed by Maillard
 aminocarbonyl reactions during the thermal processing of foods and during
 distillery fermentation. These recalcitrant compounds contribute dark
-color and high chemical oxygen demand (COD) to distillery and brewery
+color and high chemical oxygen demand (COD) to [[fungal-treatment-of-distillery-and-brewery-wastes]]
 wastewaters, making melanoidin degradation a critical challenge in
 industrial effluent treatment.
 
@@ -27,7 +27,7 @@ Melanoidins possess the following properties relevant to bioremediation:
 - Contribute significant color, COD, and toxicity to wastewaters
 - Present in molasses spent wash (MSW), distillery stillage, and
   brewery effluents
-- Antimicrobial properties that inhibit biological treatment processes
+- [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] that inhibit biological treatment processes
 
 ## Enzymatic Degradation Mechanisms
 
@@ -37,7 +37,7 @@ decolorization of distillery effluents, but research has revealed several
 enzymatic pathways:
 
 - **Manganese peroxidase (MnP)**: Decolorization of sugar refinery
-  effluent by Phanerochaete chrysosporium coincides with MnP detection
+  effluent by [[staycare-phanerochaete-chrysosporium-in-bioremediation]] coincides with MnP detection
   in the medium. P. chrysosporium JAG-40 produces extracellular enzymes
   achieving 40 to 50% color removal of synthetic melanoidins in 24 hours
 - **Laccase**: Trametes sp. I-62 produces laccase activity in response
@@ -45,7 +45,7 @@ enzymatic pathways:
   increases 35-fold in Kirk's medium supplemented with 20% vinasses
 - **Manganese-independent peroxidase (MIP)**: Synthetic melanoidins
   are decolorized by MnP and MIP participation, along with extracellular
-  hydrogen peroxide produced by glucose oxidase
+  [[cervantes-hydrogen-peroxide-sterilization]] produced by glucose oxidase
 
 ### Sugar Oxidase Pathway
 Two-thirds of melanoidin-decolorizing enzymes from Coriolus versicolor
@@ -84,11 +84,11 @@ to a secondary metabolite pathway distinct from enzymatic degradation.
 
 Color adsorption onto fungal mycelia provides a complementary
 non-enzymatic mechanism. Aspergillus niger adsorbs 10 to 25% of color,
-while Trametes versicolor adsorbs 5 to 10%. In optimized nutrient
+while [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] adsorbs 5 to 10%. In optimized nutrient
 conditions, Aspergillus niger achieves 83% decolorization with 17%
 adsorption, and Trametes versicolor reaches 90% decolorization with 10%
 adsorption. High decolorization activity also occurs through adsorption
-by Aspergillus fumigatus G-2-6.
+by [[gadd-aspergillus-fumigatus-glucan-virulence]] G-2-6.
 
 ## Combined Biological and Physical Approaches
 

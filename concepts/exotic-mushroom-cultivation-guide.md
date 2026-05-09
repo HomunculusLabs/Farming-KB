@@ -1,5 +1,5 @@
 ---
-title: Exotic Mushroom Cultivation on Sterilised Grass Seed
+title: Exotic accessible-mushroom-cultivation-for-disabilities on Sterilised Grass Seed
 tags:
   - mycology
   - cultivation
@@ -21,7 +21,7 @@ type: concept
 
 ## Summary
 
-This guide covers the complete cultivation cycle for several exotic mushroom species on sterilised grass seed substrate, from substrate preparation through fruiting or sclerotia harvest. Species addressed include **Psilocybe mexicana**, **Psilocybe tampanensis**, **Psilocybe cubensis**, and **Panaeolus subbalteatus**. The core technique uses rye grass seed (*Lolium perenne*) in jars sterilised in a pressure cooker, inoculated with spore or mycelium syringes or agar squares, then either cased for mushroom production or left in jars for sclerotia formation. Casing soil is a peat, vermiculite, and limestone mix also sterilised before use. Fruiting takes place in simple clear plastic bins with polyethylene covering and passive air exchange. Sclerotia of *P. tampanensis* and *P. mexicana* develop directly on colonised grain over several months without casing.
+This guide covers the complete cultivation cycle for several exotic mushroom species on sterilised grass seed substrate, from [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] through fruiting or sclerotia harvest. Species addressed include **[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]**, **[[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]**, **Psilocybe cubensis**, and **[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]**. The core technique uses rye grass seed (*Lolium perenne*) in jars sterilised in a pressure cooker, inoculated with spore or mycelium syringes or agar squares, then either cased for mushroom production or left in jars for [[growing-gourmet-sclerotia-formation-biology-mushrooms]]. Casing soil is a peat, vermiculite, and limestone mix also sterilised before use. Fruiting takes place in simple clear plastic bins with polyethylene covering and passive air exchange. Sclerotia of *P. tampanensis* and *P. mexicana* develop directly on colonised grain over several months without casing.
 
 ## Species Covered
 
@@ -91,9 +91,12 @@ Mist casings **daily** and never let the surface dry out. Increase watering afte
 
 ## See Also
 
-- [[sterile-technique-mushroom-cultivation]]
+- [[mushroom-cultivation-sterile-technique]]
 - [[mushroom-cultivation-methods]]
 
 ## See Also
 
-- [[grass-seed-substrate-psilocybe-mushroom-sclerotia-cultivation-guide]]
+- grass-seed-substrate-psilocybe-mushroom-sclerotia-cultivation-guide
+- [[mushroom-cultivation]]
+- [[psilocybe-mexicana]]
+- [[substrate-preparation]]

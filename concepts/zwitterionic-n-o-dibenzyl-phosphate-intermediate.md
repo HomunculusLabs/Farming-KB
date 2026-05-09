@@ -1,5 +1,5 @@
 ---
-title: Zwitterionic N,O-Dibenzyl Phosphate Intermediate
+title: Zwitterionic N,O-Dibenzyl hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin
 created: 2026-04-28
 tags:
   - intermediates
@@ -18,7 +18,7 @@ type: concept
 ## Overview
 
 Compound 8, formally named {benzyl[2-(4-oxyindol-3-yl)ethyl]dimethyl-
-ammonio}-4-O-benzyl phosphate, is a novel zwitterionic intermediate
+ammonio}-4-O-benzyl phosphate, is a novel [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]]
 discovered during the phosphorylation of [[psilocybin]] without chromatographic
 purification.
 
@@ -137,9 +137,11 @@ The discovery of compound 8 was critical for achieving a practical
 large-scale synthesis of psilocybin. The zwitterionic nature of 8
 enables its isolation in over 85% yield by simple filtration, avoiding
 chromatographic purification entirely. Compound 8 is then converted to
-psilocybin by catalytic hydrogenolysis, which simultaneously removes
+psilocybin by [[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]], which simultaneously removes
 both benzyl groups (from nitrogen and from phosphate) to give the
 target molecule in high yield.
 
 ## See Also
+
+- [[zwitterionic-phosphate-intermediate-psilocybin-synthesis]]
 - [[psilocybin-and-psilocin-chemical-synthesis]]

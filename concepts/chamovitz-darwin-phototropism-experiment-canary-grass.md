@@ -1,7 +1,7 @@
 ---
-title: "Darwin's Phototropism Experiment with Canary Grass"
+title: "Darwin's chamovitz darwin phototropism experiment canary grass with Canary Grass"
 source: grahamholmes-what-a-plant-knowsindd.md (Daniel Chamovitz, 2012)
-topics: Darwin phototropism, canary grass, plant vision, shoot tip, Power of Movement in Plants
+topics: Darwin phototropism, canary grass, plant vision, shoot tip, [[darwin-power-of-movement-in-plants]] in Plants
 created: 2026-05-08
 ---
 
@@ -15,7 +15,7 @@ and published in Darwin's final book, *The Power of Movement in Plants*
 (1880). These experiments demonstrated that plants possess a form of
 vision — the ability to perceive light direction and translate that
 information into a growth response. The work established foundational
-principles of plant sensory biology that continue to influence research.
+principles of plant [[plant-sensory-biology-smell-touch-hearing]] that continue to influence research.
 
 ## Darwin's Observation
 
@@ -87,7 +87,7 @@ effect.
 The experiments proved that phototropism results from a two-stage
 process:
 
-1. **Light perception occurs at the shoot tip** — this is the
+1. **[[plant-vision-and-light-perception-mechanisms]] occurs at the shoot tip** — this is the
    plant's "eye"
 2. **The bending response occurs in the midsection below the tip**
    — this is the plant's "muscle"
@@ -102,7 +102,7 @@ rudimentary sight in plants.
 Darwin's key insight was demonstrating that light perception and the
 growth response occur at different locations on the plant. This
 implied a signalling mechanism — some mobile factor that travels from
-the tip to the bending region. This mobile signal was later identified
+the tip to the bending region. This [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]] was later identified
 as auxin (indole-3-acetic acid), a plant hormone that redistributes to
 the shaded side of the stem, causing cells on that side to elongate
 more than cells on the lit side, producing the bend.
@@ -116,7 +116,7 @@ perfectly adequate to trigger phototropism.
 
 ### Foundation for Photoreceptor Discovery
 The experiment laid the groundwork for the later discovery of specific
-plant photoreceptors. In 1864, Julius von Sachs (Darwin's
+plant photoreceptors. In 1864, [[chamovitz-julius-von-sachs-blue-light-phototropism]] Sachs (Darwin's
 contemporary) had already established that blue light is the primary
 colour inducing phototropism, while plants are generally insensitive
 to other colours. The identification of phototropins (blue light
@@ -134,6 +134,8 @@ represent one of the most elegant experimental designs in the history
 of plant biology.
 
 ## See Also
+
+- [[canary-grass-phototropism-model-organism]]
 
 - [[chamovitz-plant-senses-overview]]
 - [[phytochrome-photoreception]]

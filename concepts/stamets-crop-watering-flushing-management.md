@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [watering, flushing, cropping, mushroom-cultivation]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+sources: sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
 
@@ -20,8 +21,8 @@ environmental demands throughout the cropping cycle.
 
 ## Temperature Management During Cropping
 
-During the vegetative growth period, the substrate was held at optimum
-temperature range. Once the change to generative growth is initiated, air
+During the [[cannabis-vegetative-growth-stage]] period, the substrate was held at optimum
+[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]. Once the change to generative growth is initiated, air
 temperature becomes the controlling factor. Each species has an optimum
 temperature for fruitbody development within a broader growing range.
 
@@ -41,12 +42,12 @@ successive flush bearing fewer mushrooms. The manner of flushing is determined
 during the pin initiation period.
 
 Even pinning sets up a uniform flushing pattern. Uneven flushing creates
-difficult situations for watering and environmental control. Early forming
+difficult situations for watering and [[eclss-environmental-control-life-support]]. Early forming
 pinheads should be picked off as buttons unless they constitute the flush.
 
 Poor first flushes are indicative of faulty pinning procedures and lead to
 lower total yields. The progressive build-up of competing contaminant organisms
-eventually brings mushroom growth to a halt, so the goal is to maximize yields
+eventually brings [[pf-tek-mushroom-growth-timeline]] to a halt, so the goal is to maximize yields
 in the early flushes.
 
 ## Watering Techniques
@@ -83,7 +84,7 @@ contaminants. Fill exposed holes with moist casing material.
 
 ## Bacterial Blotch Prevention
 
-One of the common contaminants in mushroom growing is Bacterial Blotch
+One of the common contaminants in [[duggar-mushroom-growing-history-and-methods]] is Bacterial Blotch
 (Pseudomonas). Blotch results from mushroom caps that remain wet for extended
 periods. Agaricus growers attempt to dry recently watered mushroom caps as
 quickly as possible by lowering humidity, increasing air circulation, or
@@ -136,11 +137,13 @@ For Agaricus brunnescens, 4-6 air changes per hour is common; for Psilocybe
 cubensis, 2-3 changes per hour is sufficient.
 
 Too much fresh air is preferable to insufficient supply. However, fresh air
-displaces room air and unless preconditioned, disrupts the growing environment.
+displaces room air and unless preconditioned, disrupts the [[cannabis-growing-environment-setup]].
 CO2 tolerant species give the grower an advantage since they need less fresh
-air and are easier to manage environmentally.
 ## See Also
 
 - [[stamets-pinning-initiation-stages-environmental-control]]
-- [[stamets-casing-layer-design]]
+- stamets-casing-layer-design
 - [[stamets-growing-room-air-circulation-co2-management]]
+- [[agaricus-brunnescens]]
+- [[mushroom-crop-sustaining-flushing-watering-harvesting]]
+- [[mushroom-cultivator-flush-management-watering]]

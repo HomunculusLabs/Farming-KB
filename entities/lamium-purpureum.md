@@ -13,7 +13,7 @@ sources:
   - Bartlett, M.E. et al. (2019). "Phylogeny of Lamium (Lamiaceae)." Botanical Journal of the Linnean Society, 191(1), 77-95.
   - Tutin, T.G. et al. (1972). "Flora Europaea, Vol. 3." Cambridge University Press.
   - Mabberley, D.J. (2017). "Mabberley's Plant-Book, 4th ed." Cambridge University Press.
-  - Duke, J.A. (2002). "Handbook of Medicinal Herbs, 2nd ed." CRC Press.
+  - Duke, J.A. (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]], 2nd ed." CRC Press.
 ---
 
 ## Overview
@@ -56,7 +56,7 @@ nutlets approximately 1.5 mm long.
 ## Distribution and Habitat
 
 Red dead-nettle is native to Europe, North Africa, and western Asia. It has
-been introduced to North America, South America, eastern Asia, Australia, and
+been introduced to [[psilocybin-north-america-pacific-northwest]], South America, eastern Asia, Australia, and
 New Zealand, where it is now naturalized and often common.
 
 The species is highly adaptable and colonizes disturbed ground, cultivated
@@ -124,10 +124,12 @@ finches and sparrows. Several species of ground beetles and other
 invertebrates shelter among the dense foliage.
 
 In agricultural contexts, red dead-nettle can be both a competitive weed and
-a beneficial biodiversity reservoir. Its presence supports beneficial insect
-populations that contribute to pest control in adjacent crops.
+a beneficial biodiversity reservoir. Its presence supports [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
+populations that contribute to [[biological-pest-control-balance]] in adjacent crops.
 
 ## See Also
+
+- [[eupatorium-purpureum]]
 
 - [[lamium-maculatum]]
 - [[stachys-officinalis]]

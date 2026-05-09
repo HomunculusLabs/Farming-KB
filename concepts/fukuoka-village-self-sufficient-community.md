@@ -5,7 +5,8 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka The Village and Self-Sufficient Community
@@ -16,7 +17,7 @@ In "The Road Back to Nature," Masanobu Fukuoka envisions a radical reorganizatio
 
 Fukuoka calculates that if Japan's 120 million people spread out over the 15 million acres of arable land, "that's a quarter-acre for each of the 60 million households. Without using machinery, they could build a house on that plot of land and grow everything they need there -- vegetables, fruit, grains."
 
-"A quarter-acre of land is certainly adequate for growing the food a family needs to live." He adds fuel self-sufficiency: "by planting a single black wattle seed or sapling each year, then in ten years time, even without a single drop of petroleum, everyone would have plenty of fuel for the winter."
+"A quarter-acre of land is certainly adequate for growing the food a family needs to live." He adds fuel self-sufficiency: "by planting a single [[fukuoka-black-wattle-fertilizer-tree-method]] seed or sapling each year, then in ten years time, even without a single drop of petroleum, everyone would have plenty of fuel for the winter."
 
 ## The Housing Law Problem
 
@@ -56,13 +57,13 @@ Fukuoka has tried to create a utopian community on his farm: "Many of the young 
 
 Fukuoka embraces the role of outcast: "The urban dropouts are more likely to feel at home in the orchard. These are often seen as individuals lacking in common sense who take a road different from the ordinary man."
 
-"Those who think they understand nature are ill at ease on my natural farm. If nothing but heretics gathered together on this farm, perhaps one or two might win the favor of this world."
+"Those who think they understand nature are ill at ease on my [[fukuoka-creating-natural-farm-site-selection-establishment]]. If nothing but heretics gathered together on this farm, perhaps one or two might win the favor of this world."
 
 He cites a Buddhist teaching: "The scoundrel in a bind is easier to save than the virtuous man who seems to know it all."
 
 ## The Farm's Future Without Him
 
-"I have closed my farm to students, however, and for the most part stopped receiving visitors." His reasoning is not retirement but hope: "Even without anyone running it, the farm should go on improving naturally. I believe that what I have done up until now is to create the opportunity for a farm ruined by scientific farming to return to its original condition. Given the chance for the earth to regain its former fertile form, it should recover, become self-sustaining, and grow naturally into an ideal state. Once nature has been restored, the farm will no longer need any tending. My trip will be over."
+"I have closed my farm to students, however, and for the most part stopped receiving visitors." His reasoning is not retirement but hope: "Even without anyone running it, the farm should go on improving naturally. I believe that what I have done up until now is to create the opportunity for a farm ruined by [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] to return to its original condition. Given the chance for the earth to regain its former fertile form, it should recover, become self-sustaining, and grow naturally into an ideal state. Once nature has been restored, the farm will no longer need any tending. My trip will be over."
 
 ## The Haiku
 

@@ -1,10 +1,11 @@
 ---
-title: "Keyline Design vs Contour Line Water Management"
+title: "Keyline comparison-swale-design-vs-contour-swale-irrigation-design Line Water Management"
 created: 2026-04-28
 tags: [comparison, water-management, earthworks, permaculture, land-design]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 type: comparison
 ---
@@ -17,7 +18,7 @@ managing water movement across landscapes using topographic features. Keyline,
 developed by P.A. Yeomans in 1950s Australia and adopted widely in permaculture
 by Bill Mollison, uses a specific geometric reference line to systematically
 redistribute water from valleys to ridges. Contour line management, central to
-Sepp Holzer's approach, reads natural landscape patterns to place water
+[[comparison-sepp-holzer-vs-biodynamic]]'s approach, reads natural landscape patterns to place water
 retention features where nature already indicates they belong. Both seek to
 hydrate landscapes and prevent erosion, but they differ in their analytical
 framework, implementation philosophy, and scale of application.
@@ -44,7 +45,7 @@ need for artificial waterproofing. A lake placed along a contour line where
 natural clay layers exist will hold water without synthetic liners.
 
 Holzer's contour approach extends beyond water retention to encompass
-terraces, raised beds, and entire water landscapes that integrate with animal
+terraces, [[comparison-raised-beds-vs-hugelkultur]], and entire water landscapes that integrate with animal
 systems and diverse plantings. Lakes should enable three types of water
 movement: meandering like a snake, wave movement from wind, and spiraling where
 meanders and waves meet. Contour placement helps achieve this natural water

@@ -14,7 +14,7 @@ type: concept
 In *Food of the Gods*, Terence McKenna discusses the Bwiti cults of West
 Africa as an instructive example of how hallucinogenic indole-containing
 plants can shape social cohesion and sexual dynamics within a tribal
-society. The Bwiti use of *Tabernanthe iboga* provides not only visionary
+society. The Bwiti use of *[[plants-of-the-gods-tabernanthe-iboga-chemistry]]* provides not only visionary
 ecstasy but also what its users call "open heartedness," a quality McKenna
 sees as central to the partnership model of social organization.
 
@@ -22,7 +22,7 @@ sees as central to the partnership model of social organization.
 
 The Fang people of West Africa maintain the Bwiti religion, a syncretic
 spiritual tradition built around the consumption of ibogaine, the
-principal indole alkaloid found in the root bark of *Tabernanthe iboga*.
+principal [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] found in the [[iboga-root-bark-preparation]] of *Tabernanthe iboga*.
 McKenna presents the Bwiti as a living example of a partnership-oriented
 society that has successfully resisted both commercial and missionary
 incursions into its cultural integrity, a resilience he attributes in
@@ -84,7 +84,7 @@ boundary-dissolving activities McKenna argues they are.
 ## Partnership Sexuality and the Mushroom Religion
 
 McKenna connects the Bwiti example back to his larger thesis about
-archaic sexuality. An open and nonproprietary approach to sexuality is
+[[mckenna-archaic-sexuality-and-partnership-society]]. An open and nonproprietary approach to sexuality is
 fundamental to the partnership model, a tendency that was synergized
 and strengthened by the orgiastic behavior that was certainly part of
 the African Goddess and mushroom religion. Group sexual activity within
@@ -97,7 +97,7 @@ McKenna is careful to note that this is not to imply that contemporary
 mushroom rituals are "orgies," despite what a sensation-hungry segment
 of the public may believe. The archaic sexuality he describes was an
 organic expression of community bonding, not the commodified spectacle
-that dominator culture projects onto the unfamiliar.
+that [[mckenna-dominator-culture-and-suppression-of-ecstasy]] projects onto the unfamiliar.
 
 ## Implications for Modern Understanding
 
@@ -119,3 +119,7 @@ proceed. If the impact of [[mckenna-huxley-mind-at-large-reducing-valve]]
 - [[mckenna-food-gods-archaic-revival]]
 - [[entheogen-bwiti-iboga-initiation-fang-society]]
 - [[mckenna-food-gods-fall-consciousness]]
+
+## See Also
+
+- [[mckenna-iboga-tabernanthe-ibogaine-fang-bwiti-initiation-cult]]

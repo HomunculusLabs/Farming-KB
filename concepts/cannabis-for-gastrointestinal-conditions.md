@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-The gastrointestinal tract has one of the highest densities of endocannabinoid receptors in the body. Research from The Cannabis Health Index documents applications of cannabis for inflammatory bowel disease (IBS/IBD), GERD, pancreatitis, periodontitis, and nausea/vomiting.
+The gastrointestinal tract has one of the highest densities of endocannabinoid receptors in the body. Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] documents applications of cannabis for [[blesching-cannabis-inflammatory-bowel-disease]] disease (IBS/IBD), GERD, pancreatitis, periodontitis, and nausea/vomiting.
 
 ## Inflammatory Bowel Disease (IBS/IBD)
 
@@ -24,20 +24,20 @@ Comprehensive review establishing that the gut endocannabinoid system is a major
 ### Endocannabinoid Degradation Inhibition
 **Storr et al. (2008)**: "Targeting endocannabinoid degradation protects against experimental colitis in mice: involvement of CB(1) and CB(2) receptors." Journal of Molecular Medicine.
 
-Inhibiting the enzymes that break down anandamide protected against colitis through both CB1 and CB2 receptors. This approach enhances the body's own endocannabinoid signaling without introducing external cannabinoids.
+Inhibiting the enzymes that [[query-can-fungi-break-down-plastic-pollution]] anandamide protected against colitis through both CB1 and CB2 receptors. This approach enhances the body's own endocannabinoid signaling without introducing external cannabinoids.
 
 ### CBD for Intestinal Inflammation
-**Capasso et al. (2008)**: "Cannabidiol, extracted from Cannabis sativa, selectively inhibits inflammatory hypermotility in mice." British Journal of Pharmacology.
+**Capasso et al. (2008)**: "Cannabidiol, extracted from [[comparison-cannabis-sativa-vs-cannabis-indica]], selectively inhibits inflammatory hypermotility in mice." British Journal of Pharmacology.
 
 CBD selectively reduced excessive intestinal motility (diarrhea) associated with inflammation, without affecting normal gut motility. This suggests CBD could treat IBS-related diarrhea without causing constipation.
 
 ### Curcumin for Ulcerative Colitis
 **Hanai et al. (2006)**: "Curcumin maintenance therapy for ulcerative colitis: Randomized, multicenter, double-blind, placebo-controlled trial." Clinical Gastroenterology and Hepatology.
 
-Curcumin (from turmeric) showed significant benefit as maintenance therapy for ulcerative colitis in a rigorous clinical trial.
+Curcumin (from turmeric) showed significant benefit as maintenance therapy for ulcerative colitis in a rigorous [[psilocybin-clinical-trial-landscape-2020-2025]].
 
 ### Placebo Effect in IBS
-**Kaptchuk et al. (2010)**: "Placebos without deception: A randomized controlled trial in irritable bowel syndrome." PLoS ONE.
+**Kaptchuk et al. (2010)**: "Placebos without deception: A randomized controlled trial in [[blesching-cannabis-irritable-bowel-syndrome]] syndrome." PLoS ONE.
 
 **Kaptchuk et al. (2008)**: "Components of placebo effect: Randomized controlled trial in patients with irritable bowel syndrome." BMJ.
 
@@ -122,3 +122,7 @@ CB1 receptors in the gut and brain regulate appetite, taste perception, and sati
 - [[cannabis-and-ibs-research]]
 - [[cannabis-cannabinoid-receptor-pharmacology]]
 - [[cannabis-for-nausea-and-appetite-stimulation]]
+
+## See Also
+
+- [[cannabis-gastrointestinal-conditions]]

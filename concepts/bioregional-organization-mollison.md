@@ -5,7 +5,8 @@ updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
-  - raw/papers/bill-mollison-permaculture-design-course.md
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Bioregional Organization and Alternative Nation
@@ -16,7 +17,7 @@ Bioregional organization is a social and political framework based on the idea t
 
 ## The Bioregional Concept
 
-A bioregion is a geographic area defined by natural characteristics: watersheds, soil types, climate zones, plant communities, and ecological systems. Bioregionalism proposes that people who live within a bioregion share common ecological interests and responsibilities that transcend political boundaries.
+A bioregion is a geographic area defined by natural characteristics: watersheds, soil types, [[mollison-climate-zones-permaculture-strategies]], plant communities, and ecological systems. Bioregionalism proposes that people who live within a bioregion share common ecological interests and responsibilities that transcend political boundaries.
 
 Mollison argues that "a people without an agreed-upon common basis to their actions is neither a community nor a nation. A people with a common ethic is a nation wherever they live."
 
@@ -83,20 +84,22 @@ Basic rights that are commonly denied by regulations include:
 
 The wealth of any area lies not in banks or cities, but in basic resources, skills, and natural systems developed by its peoples. The real cause of a lack of shelter or food in any country is not finance, but restrictive practices by a regulatory bureaucracy.
 
-In Chile, while the government accumulated a $12 billion foreign debt, poor people acting without loans built at least $11 billion in housing in slum areas by local cooperation. Stone, mud, bamboo, round timbers, rope, and thatch are age-old durable building materials, all locally producible.
+In Chile, while the government accumulated a $12 billion foreign debt, poor people acting without loans built at least $11 billion in housing in slum areas by local cooperation. Stone, mud, bamboo, round timbers, rope, and thatch are age-old durable [[natural-building-materials-guide]], all locally producible.
 
 ## Two Paths to Political Change
 
 1. **Work within existing systems** to bring ecological change through political affiliations
-2. **Create alternatives outside** existing systems through direct action, community organization, and bioregional self-reliance
+2. **Create alternatives outside** existing systems through direct action, [[savory-community-organization-and-shared-grazing]], and bioregional self-reliance
 
 Both are valid. The place to start change is first with the individual (oneself), and second in one's region or neighbourhood.
 
 ## See Also
 
-- [[bioregionalism-in-permaculture]]
-- [[permaculture-legal-structures]]
+- bioregionalism-in-permaculture
+- permaculture-legal-structures
 - [[bioregional-organization]]
-- [[permaculture-village-design]]
-- [[right-livelihood-and-permaculture-business]]
-- [[holmgren-energy-descent-culture-adaptation]]
+- permaculture-village-design
+- right-livelihood-and-permaculture-business
+- holmgren-energy-descent-culture-adaptation
+- [[mollison-designers-rice-paddy-integrated-duck-fish]]
+- [[tidal-estuarine-aquaculture-mollison]]

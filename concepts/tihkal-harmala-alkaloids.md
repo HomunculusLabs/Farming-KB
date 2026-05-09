@@ -1,5 +1,5 @@
 ---
-title: "Harmala Alkaloids: Harmine, Harmaline, and Tetrahydroharmine"
+title: "turner-harmala-alkaloids-preparation-and-dosage: Harmine, Harmaline, and Tetrahydroharmine"
 created: 2026-04-26
 sources: "TIHKAL - Tryptamines I Have Known and Loved (Shulgin & Shulgin)"
 tags: [harmala, harmine, harmaline, THH, beta-carboline, MAOI, ayahuasca]
@@ -42,7 +42,7 @@ This is where harmaline's MAO inhibition becomes transformative:
 | 20 mg | 55 mg | Minimal -- 3 hours to onset, mild effects |
 | 50 mg | 60 mg | No significant effects |
 | 80 mg | 40 mg | "Quite a bit of visual activity" |
-| 100 mg | 120 mg | Full psychedelic experience at 80 minutes |
+| 100 mg | 120 mg | Full [[leary-psychedelic-experience-bardo-mapping]] at 80 minutes |
 | 150 mg | 35 mg | "Highly effective MAO blocker" at the 35 mg DMT level |
 
 **Key finding**: 150 mg harmaline is highly effective as an MAO blocker, making as little as 35 mg DMT orally active. The effects are qualitatively different from either compound alone and can last 4+ hours.
@@ -59,7 +59,7 @@ This is where harmaline's MAO inhibition becomes transformative:
 
 **Chemical name**: 7-Methoxy-1-methyl-beta-carboline
 
-Harmine is the other major alkaloid found in Peganum harmala, present alongside harmaline and tetrahydroharmine. It is closely related to harmaline (the dihydro form) and shares MAO inhibitory properties.
+Harmine is the other major alkaloid found in [[mckenna-food-gods-peganum-harmala-soma]], present alongside harmaline and tetrahydroharmine. It is closely related to harmaline (the dihydro form) and shares MAO inhibitory properties.
 
 ## Tetrahydroharmine (Entry #54)
 

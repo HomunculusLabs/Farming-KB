@@ -1,10 +1,10 @@
 ---
-title: Mushroom Cultivation - Cloning and Strain Isolation
+title: accessible-mushroom-cultivation-for-disabilities - Cloning and Strain Isolation
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [mushroom-cultivation, cloning, strain-isolation, tissue-culture, agar, fungi, mycology, spore-print, genetics]
-sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+sources: sources: []
 ---
 
 # Mushroom Cultivation - Cloning and Strain Isolation
@@ -30,7 +30,7 @@ Tissue cultures must be taken within a day or two of picking, after which a heal
 1. Flame-sterilize a scalpel
 2. Tear (do not cut) the mushroom stem to expose clean internal tissue
 3. Remove a small piece of inner tissue from the cap or stem
-4. Transfer to agar media under sterile conditions
+4. Transfer to [[growing-gourmet-agar-media-formulas-preparation]] under sterile conditions
 5. Mycelium grows out from the tissue fragment in 3-7 days
 
 Tearing rather than cutting exposes sterile internal tissue without dragging surface contaminants through the specimen.
@@ -40,14 +40,14 @@ Tearing rather than cutting exposes sterile internal tissue without dragging sur
 From a multispore germination, individual strains can be isolated by:
 
 1. Making sector cuts from the leading edge of actively growing mycelium
-2. Transferring sectors to fresh agar plates
+2. Transferring sectors to fresh [[query-how-to-make-agar-plates-for-mushroom-cultivation]]
 3. Selecting for desired characteristics: rhizomorphic (strandy) vs. cottony growth, colonization speed, fruiting potential
 
-Rhizomorphic mycelium is generally preferred for its fast growth. The addition of ground rye grain or grain extract to agar media promotes the growth of strandy mycelium.
+[[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]] is generally preferred for its fast growth. The addition of ground [[bigwood-beug-miniculture-rye-grain-flush-variation-method]] or grain extract to agar media promotes the growth of strandy mycelium.
 
 ## Agar-to-Agar Transfers
 
-To transfer mycelium between agar plates: flame-sterilize scalpel, cut a wedge from the leading edge of mycelial growth, transfer to fresh plate. This is used for strain isolation, expansion, and maintenance. Clamp connections -- microscopic bridges between adjoining cells visible at 100-400X -- indicate dikaryotic (mated) mycelium capable of fruiting.
+To transfer mycelium between agar plates: flame-sterilize scalpel, cut a wedge from the leading edge of [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]], transfer to fresh plate. This is used for strain isolation, expansion, and maintenance. Clamp connections -- microscopic bridges between adjoining cells visible at 100-400X -- indicate dikaryotic (mated) mycelium capable of fruiting.
 
 ## The Mushroom Life Cycle
 
@@ -58,6 +58,7 @@ Understanding the life cycle aids cultivation: spore (1N, haploid) germinates to
 - [[mushroom-cultivation-sterile-technique]]
 - [[mushroom-cultivation-grain-spawn]]
 - [[psilocybin-mushroom-cultivation-basics]]
+
 ## Practical Considerations
 
 Successful implementation of Mushroom Cultivation - Cloning and Strain Isolation requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

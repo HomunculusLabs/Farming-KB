@@ -26,7 +26,7 @@ Less than 1% of estimated one million soil microorganism species have been studi
 Conventional agriculture treats all nematodes as pests to be eliminated. JADAM recognizes that:
 - Nematodes become much less active when microorganism diversity and activity are recovered
 - Fungi exist that use hyphal loops to trap and consume nematodes
-- The goal is ecological balance, not eradication
+- The goal is [[fukuoka-ecological-balance-principles]], not eradication
 - Some nematodes play beneficial roles in nutrient cycling
 
 ### Heavy Metals
@@ -72,17 +72,17 @@ contained naturally. Lady beetles, lacewings, predatory mites, and
 parasitic wasps each keep specific pest populations in check. When
 broad-spectrum pesticides destroy these predators, the pests rebound
 faster than their natural enemies, creating a cycle of escalating
-chemical dependency. JADAM's [[permaculture]] design similarly emphasizes whole-system thinking
+chemical dependency. JADAM's permaculture design similarly emphasizes whole-system thinking
 and ecological balance, and the two philosophies align closely on
 pest management and soil biology. However, JADAM's philosophical
 foundation is explicitly rooted in Korean Buddhist non-dualism,
 giving it a distinct cultural and intellectual grounding that
 influences how practitioners relate to their land and its organisms.
 
-Biodynamic agriculture introduces the concept of farm individuality
+[[query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic]] introduces the concept of farm individuality
 and cosmic influences, which JADAM does not address. Both traditions
 share a holistic worldview, but JADAM grounds its non-dualism in
-observable microbial ecology and practical low-cost techniques
+observable [[fukuoka-microbial-ecology-decomposition]] and practical low-cost techniques
 rather than esoteric preparations or astronomical calendars.
 
 ## Implications for Disease Management
@@ -93,16 +93,16 @@ good-and-bad-are-one principle, disease is viewed as evidence that
 the plant's defenses or its environment have been weakened, allowing
 a normally benign organism to become pathogenic.
 
-This mirrors the human microbiome understanding: Candida albicans
+This mirrors the human microbiome understanding: [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]
 lives harmlessly in most people but causes thrush when the bacterial
 community is disrupted by antibiotics. Similarly, many soil-borne
-fungi only cause disease when the microbial community has been
+fungi only cause disease when the [[edaphic-factors-microbial-community-structure]] has been
 simplified by monoculture, tillage, or chemical inputs. The JADAM
 response is to restore the conditions that kept the organism in
 check rather than to attack the organism directly.
 
 This approach has practical limits. Some pathogens, such as certain
-viruses and aggressive bacterial infections, may require direct
+viruses and aggressive [[cannabis-for-bacterial-infections-and-mrsa]], may require direct
 intervention even in JADAM systems. The principle is a guiding
 heuristic, not an absolute rule that denies the existence of genuine
 agricultural threats requiring targeted responses.

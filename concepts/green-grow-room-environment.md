@@ -1,5 +1,5 @@
 ---
-title: Grow Room Environment - Greg Green's Cannabis Grow Bible
+title: cannabis-grow-room-setup Environment - [[greg-green]]'s green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
 created: 2026-04-26
 updated: 2026-04-25
 sources:
@@ -16,7 +16,7 @@ From [[green-cannabis-grow-bible-indoor-grow-room-setup]]
 - [[mushroom-growing-environmental-parameters]]
 ## Background and Context
 
-Grow Room Environment - Greg Green's Cannabis Grow Bible is an important subject that has garnered significant attention
+Grow Room Environment - Greg Green's [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough
@@ -64,7 +64,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -142,4 +142,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

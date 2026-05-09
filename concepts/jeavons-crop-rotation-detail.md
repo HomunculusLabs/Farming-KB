@@ -1,5 +1,5 @@
 ---
-title: "Crop Rotation Detail"
+title: "comparison-crop-rotation-vs-cover-cropping Detail"
 created: 2026-04-26
 sources: "Jeavons, John. How to Grow More Vegetables. Ten Speed Press."
 tags: [biointensive, crop-rotation, heavy-feeder, nitrogen, soil-fertility, jeavons]
@@ -11,7 +11,7 @@ updated: 2026-04-26
 
 Crop rotation is a form of agricultural recycling in which gardeners and plants
 participate to return as much to the soil as has been taken out. In the GROW
-BIOINTENSIVE method, rotation follows a specific pattern: heavy feeders, then
+[[jeavons-grow-biointensive-method-overview]], rotation follows a specific pattern: heavy feeders, then
 heavy givers, then light feeders. This sequence has been practiced for
 centuries and is based on how much nitrogen crops generally consume or produce.
 
@@ -47,7 +47,7 @@ relying on any single crop for nitrogen restoration.
 ## Light Feeders
 
 Light feeders give the soil a rest before the next heavy feeder onslaught. All
-root crops are classified as light feeders. They are planted after heavy
+[[permaculture-plants-root-crops-and-tubers]] are classified as light feeders. They are planted after heavy
 givers, which have put nitrogen into the soil.
 
 Three vegetables have special nitrogen characteristics:
@@ -68,7 +68,7 @@ plantings should be experimented with.
 ## The Potato Exception
 
 Potatoes present an interesting anomaly in the rotation system. Although
-potatoes are a root crop and therefore classified as a light feeder, they
+potatoes are a [[root-crop-harvest-and-storage]] and therefore classified as a light feeder, they
 consume one of the largest amounts of nitrogen. As a result, they are
 functionally a heavy feeder despite their classification. Nonetheless, the
 heavy feeder / heavy giver / light feeder system remains a good organizing

@@ -1,5 +1,5 @@
 ---
-title: AACT Disease Case Studies: Specific Pathogen Responses
+title: AACT ingham-disease-case-studies-bacterial: Specific Pathogen Responses
 tags: [disease-suppression, compost-tea, pathogens, ingham, fusarium, rhizoctonia, anthracnose, verticillium, late-blight, brown-rot]
 date: 2026-04-28
 updated: 2026-04-28
@@ -11,7 +11,7 @@ created: 2026-04-28
 
 # AACT Disease Case Studies: Specific Pathogen Responses
 
-Elaine Ingham's field guide correspondence includes detailed observations on how actively aerated compost tea (AACT) interacts with specific plant diseases. These case studies reveal important patterns about which diseases respond to bacterial teas versus full foodweb teas, and provide practical guidance for practitioners targeting particular pathogens.
+[[elaine-ingham]]'s field guide correspondence includes detailed observations on  tea (AACT) interacts with specific plant diseases. These case studies reveal important patterns about which diseases respond to bacterial teas versus full foodweb teas, and provide practical guidance for practitioners targeting particular pathogens.
 
 ## AACT Is a Protectant, Not a Cure
 
@@ -48,7 +48,7 @@ Anthracnose location on the plant determines the tea composition needed:
 - **Crown, root, or soil anthracnose** requires a strong fungal component in the tea
 - **Foliar anthracnose** appears preventable with just a bacterial tea
 
-This distinction is important because the same disease organism, depending on where it attacks the plant, may be susceptible to different biological control strategies. Crown and root protection requires the full foodweb; leaf surface protection can be achieved with bacteria alone.
+This distinction is important because the same disease organism, depending on where it attacks the plant, may be susceptible to different [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] strategies. Crown and root protection requires the full foodweb; leaf surface protection can be achieved with bacteria alone.
 
 ## Powdery Mildew on Vines and Strawberries
 
@@ -87,7 +87,7 @@ Leaf curl caused by *Taphrina* is described as "a breeze to shut down" with tea 
 3. **Two weeks before budbreak**: Begin foliar AACT applications
 4. **During season**: Apply minimum once monthly, more like every 10 to 14 days depending on disease severity
 
-Spraying just once and expecting results is not adequate to get the organisms established and growing well. Beneficial insects serve as "taxi-cabs" that transport protective organisms to new leaf surfaces, but if beneficial insects are absent, the practitioner must do that job through repeated applications.
+Spraying just once and expecting results is not adequate to get the organisms established and growing well. [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] serve as "taxi-cabs" that transport protective organisms to new leaf surfaces, but if beneficial insects are absent, the practitioner must do that job through repeated applications.
 
 ## Scale on Rhododendrons and Apples
 
@@ -95,11 +95,11 @@ Good tea with excellent fungal biomass has eliminated scale on rhododendron and 
 
 ## Root Grubs and Wireworms
 
-AACT typically contains fungi parasitic on insect larvae, especially beetle larvae that consume roots. *Beauveria* species may be available as commercial inoculum and can be added to AACT to be active against root grubs and wireworms on contact. This represents a direct biological control mechanism distinct from the competition-based foliar disease suppression.
+AACT typically contains fungi parasitic on insect larvae, especially beetle larvae that consume roots. *[[beauveria]]* species may be available as commercial inoculum and can be added to AACT to be active against root grubs and wireworms on contact. This represents a direct biological control mechanism distinct from the competition-based foliar [[aact-disease-suppression-mechanisms-ingham]].
 
 ## Hydroponics Applications
 
-AACT has been applied in hydroponic systems to address algal problems and some root disease. The approach involves adding enough tea to the water to restore predator populations so that normal nutrient cycling is returned to the water column. Work continues on water "mold" problems in hydroponic systems.
+AACT has been applied in hydroponic systems to address algal problems and some root disease. The approach involves adding enough tea to the water to restore predator populations so that normal [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] is returned to the water column. Work continues on water "mold" problems in hydroponic systems.
 
 ## When Tea Fails: A Diagnostic Protocol
 
@@ -116,7 +116,7 @@ A well-made tea with the full foodweb does not allow pathogens like *Venturia* (
 
 ## Regulatory Considerations
 
-Ingham strongly advises practitioners not to make disease-control claims in commercial settings. When asked about compost tea's disease control ability, practitioners must say that evidence has not been accepted by the EPA, USDA, or other federal regulatory agencies. Interesting research is ongoing, but nothing absolute has been demonstrated across the board. Failures are almost always attributable to poor compost quality, inadequate tea biology, transport without aeration, or application to fields with insufficient organic matter to support soil biology.
+Ingham strongly advises practitioners not to make disease-control claims in commercial settings. When asked about compost tea's [[hamilton-pest-and-disease-control-organic]] ability, practitioners must say that evidence has not been accepted by the EPA, USDA, or other federal regulatory agencies. Interesting research is ongoing, but nothing absolute has been demonstrated across the board. Failures are almost always attributable to poor compost quality, inadequate tea biology, transport without aeration, or application to fields with insufficient organic matter to support soil biology.
 
 ## See Also
 

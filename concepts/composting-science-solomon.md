@@ -1,5 +1,5 @@
 ---
-title: Composting Science (Solomon)
+title: lowenfels-composting-science-microbiology (Solomon)
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -38,7 +38,7 @@ Soil humus has a C:N of approximately 12:1 in every climate. When you amend soil
 - Higher nitrate levels encourage microbial growth, which attacks existing humus
 - Net result: immediate plant growth, but soil humus decreases, tilth degrades
 
-This is the same mechanism by which chemical fertilizers degrade soil organic matter.
+This is the same mechanism by which [[cervantes-chemical-fertilizers-guide]] degrade soil [[hamilton-composting-and-organic-matter-management]].
 
 **Key insight**: The result is the same whether the low-C:N material is "organic" or chemical. Adding any material with C:N below 12:1 reduces soil humus over time.
 
@@ -83,7 +83,7 @@ Key considerations:
 - Fresh manure must be incorporated immediately in hot weather — spreading manure on hot ground in sun and wind can lose 25% of nutritional value by sundown
 
 Cautions:
-- Don't sheet-compost with high C:N woody materials in autumn on beds intended for early spring crops — decomposition won't finish in time
+- Don't sheet-compost with high C:N woody materials in autumn on beds intended for [[coleman-overwintered-onions-and-early-spring-crops]] crops — decomposition won't finish in time
 - Poultry and rabbit manure are too strong (low C:N) for sheet composting — use as fertilizer instead
 - In high-rainfall regions, add lime (50 lbs per 1,000 sq ft) each time you sheet-compost
 
@@ -110,7 +110,7 @@ The key to good compost:
 - Monitor temperature (should reach 130-150°F)
 - Allow sufficient time for full decomposition
 
-See also: [[composting-methods-comparison]], [[complete-organic-fertilizer-recipes]], compost carbon-to-nitrogen ratio guide
+See also: [[composting-methods-comparison]], [[complete-organic-fertilizer-recipes]], compost carbon-to-nitrogen [[cannabis-thc-cbd-ratio-guide-for-conditions]]
 - [[teaming-with-microbes-gastropods-and-higher-soil-animals]]
 - [[solomon-manure-types-and-nutrient-values]]
 

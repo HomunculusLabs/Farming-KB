@@ -14,7 +14,7 @@ type: concept
 
 We typically want a whole set of beneficial organisms, not just one
 or two species. Well-made, local compost supplies tens of thousands
-of species of bacteria. Correctly made aerobic compost has them all,
+of species of bacteria. Correctly made [[ingham-anaerobic-vs-aerobic-compost-tea]] has them all,
 and not just bacteria, but fungi, protozoa, and nematodes. Thermal,
 worm, and static compost can all have great communities of each kind
 of organism. The whole [[compost-biology-soil-food-web-inoculation]]
@@ -33,7 +33,7 @@ environmental isolate that will grow in the conditions in your soil,
 and know the temperature, moisture, and humidity are right for it
 to grow. This approach can be extremely specific. You should also
 know if you already have the beneficial organism in your soil,
-compost, or compost tea, so you know if you need to add it.
+compost, or [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]], so you know if you need to add it.
 
 Single species products that sit on the shelf for days or weeks
 contain dormant organisms. A put-to-sleep tea is much better than
@@ -51,7 +51,7 @@ months, those organisms must be dormant, or the product would spoil.
 See [[soil-food-web]]. A single
 bacterial species may perform one function well, such as nitrogen
 fixation or phosphate solubilization, but it cannot provide the
-full range of nutrient cycling, disease suppression, and soil
+full range of [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], [[aact-disease-suppression-mechanisms-ingham]], and soil
 building functions that a diverse community delivers. The
 interactions between species in a complete community produce
 emergent properties that no single organism can achieve. See also [[biofertilizers-and-soil-inoculants]].
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

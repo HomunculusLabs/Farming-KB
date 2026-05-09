@@ -27,7 +27,7 @@ properties. The species is distributed throughout tropical and subtropical
 regions from Africa to Southeast Asia and naturalized in many Pacific islands.
 Its primary bioactive constituent, plumbagin, is a naphthoquinone with
 well-documented cytotoxic, antibacterial, antifungal, and antiplasmodial
-activities. In Ayurveda, the root bark is the principal plant part used,
+activities. In Ayurveda, the [[iboga-root-bark-preparation]] is the principal plant part used,
 classified as a *tikta* (bitter) and *katu* (pungent) herb with *ushna*
 (heating) potency.
 
@@ -65,7 +65,7 @@ classified as a *tikta* (bitter) and *katu* (pungent) herb with *ushna*
 a natural distribution spanning India, Sri Lanka, Bangladesh, Myanmar,
 Thailand, southern China, Malaysia, and Indonesia. It has been introduced
 and naturalized throughout tropical Africa, the Pacific islands, and parts
-of the Americas (Hawaii, the Caribbean, Central America).
+of the Americas (Hawaii, the Caribbean, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]).
 
 The species grows in forest margins, grasslands, disturbed sites, and
 along roadsides at elevations from sea level to 1,500 m. It prefers

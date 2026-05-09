@@ -35,7 +35,7 @@ worldwide. Often dismissed as a ubiquitous lawn weed, it is one of the most
 medicinally significant plants in both Western herbalism and traditional medicine
 systems globally. Every part of the plant has documented uses — leaves for wound
 healing and respiratory complaints, seeds as a mucilaginous laxative, and roots for
-toothache relief. In permaculture design, broadleaf plantain serves as a dynamic
+toothache relief. In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], broadleaf plantain serves as a dynamic
 nutrient accumulator, ground cover, and indicator species for compacted soils. Its
 deep taproot mines calcium, magnesium, sulfur, and trace minerals from subsoil
 layers, bringing them to the surface where they become available to neighboring
@@ -94,7 +94,7 @@ plants.
   anti-inflammatory action
 - **Digestive health:** Seed mucilage acts as a bulk-forming laxative similar to
   psyllium (*P. ovata*); tea for gastritis and peptic ulcers
-- **Skin conditions:** Topical preparations for eczema, psoriasis, minor burns,
+- **[[cannabis-for-skin-conditions-detailed]]:** Topical preparations for eczema, psoriasis, minor burns,
   and hemorrhoids
 - **Urinary tract:** Diuretic and anti-inflammatory; traditional use for UTIs and
   bladder irritation
@@ -114,22 +114,24 @@ plants.
 
 ## Permaculture and Ecological Role
 
-- **Dynamic accumulator:** Deep taproot (up to 30 cm) mines calcium, magnesium,
+- **[[nutrient-dynamic-accumulator-reference]]:** Deep taproot (up to 30 cm) mines calcium, magnesium,
   sulfur, copper, iron, and zinc from subsoil; mulching with leaves returns these
   minerals to surface soil
 - **Ground cover:** Dense rosettes suppress weed emergence and protect bare soil
   from erosion and compaction
-- **Companion plant:** Attracts beneficial insects including pollinators and
+- **Companion plant:** Attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] including pollinators and
   predatory wasps; serves as a nurse plant in disturbed areas
 - **Soil restoration:** Roots break compacted soil layers, improving infiltration
   and aeration for subsequent plantings
 - **Biomass:** Reliable chop-and-drop mulch source; leaves decompose quickly and
   release accumulated minerals
 - **Pioneer species:** Among the first plants to colonize disturbed, compacted, or
-  degraded soils, initiating ecological succession
+  degraded soils, initiating [[holmgren-ecological-succession-and-pulsing]]
 
 ## See Also
 
-- [[urtica-dioica|Stinging Nettle]] — nutrient-dense dynamic accumulator and medicinal herb
+- [[vinca-major]]
+
+- [[urtica-dioica|Stinging Nettle]] — nutrient-dense dynamic accumulator and [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]]
 - [[trifolium-repens|White Clover]] — nitrogen-fixing ground cover companion
 - [[alfalfa-medicago-sativa|Alfalfa]] — deep-rooted dynamic accumulator with similar mineral profiles

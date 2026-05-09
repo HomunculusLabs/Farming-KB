@@ -40,7 +40,7 @@ Reproduction is triphasic, involving haploid gametophytes, diploid carposporophy
 
 ## Distribution and Habitat
 
-G. verrucosa occurs in coastal waters of the Atlantic, Pacific, and Indian Oceans. It is reported from Europe, East Asia, Southeast Asia, Australia, and both coasts of the Americas.
+G. verrucosa occurs in coastal waters of the Atlantic, Pacific, and Indian Oceans. It is reported from Europe, East Asia, [[psilocybe-southeast-asia-pacific]], Australia, and both coasts of the Americas.
 
 The species inhabits the intertidal and shallow subtidal zones, typically from 0 to 10 meters depth. It grows on rocky substrates, shells, pebbles, and artificial structures such as pier pilings and aquaculture nets.
 
@@ -63,11 +63,11 @@ R-phycoerythrin from Gracilaria has commercial value as a fluorescent marker in 
 
 G. verrucosa is one of the most widely cultivated seaweeds globally. Major production occurs in China, Vietnam, Indonesia, Chile, and Brazil, with annual output exceeding several hundred thousand tonnes.
 
-Primary cultivation methods include fixed-bottom rope techniques, floating raft culture, and pond cultivation in brackish water impoundments.
+Primary [[synthetic-log-cultivation-methods-guide]] include fixed-bottom rope techniques, floating raft culture, and pond cultivation in brackish water impoundments.
 Vegetative propagation using 5–10 cm fragment cuttings is the standard approach.
 
 Growth rates of 3–8% per day are typical under optimal conditions.
-Harvest cycles range from 30–60 days depending on temperature and nutrient availability.
+Harvest cycles range from 30–60 days depending on temperature and [[ph-and-nutrient-availability-garden-soils]].
 
 Pond systems in China and Vietnam integrate Gracilaria cultivation with shrimp and finfish aquaculture.
 This polyculture approach uses Gracilaria for bioremediation of nitrogen and phosphorus waste.
@@ -79,7 +79,7 @@ Management includes periodic air-drying, freshwater rinsing, and stocking densit
 
 Agar extracted from G. verrucosa is used across multiple industries. In food production, it serves as a gelling, thickening, and stabilizing agent in confectionery, dairy products, canned meats, and Asian desserts.
 
-In microbiology, agar provides the solid substrate for bacterial and fungal culture media. Its high melting point (85–95°C) and low gelling point (32–40°C) make it ideal for incubating thermophilic organisms.
+In microbiology, agar provides the solid substrate for [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] culture media. Its high melting point (85–95°C) and low gelling point (32–40°C) make it ideal for incubating thermophilic organisms.
 
 The species is consumed directly as a vegetable in several Asian cuisines, sold dried or salted in markets. It is added to soups, salads, and stir-fried dishes for its texture and mineral content.
 
@@ -89,7 +89,7 @@ In traditional medicine, G. verrucosa preparations have been used as mild laxati
 
 G. verrucosa provides habitat and nursery structure for small invertebrates and juvenile fish within coastal ecosystems. Its dense thalli create refuges from predation in intertidal and shallow subtidal zones.
 
-The species contributes to nutrient cycling by absorbing dissolved nitrogen and phosphorus from the water column. This biofiltration capacity has led to its use in integrated multi-trophic aquaculture systems.
+The species contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by absorbing dissolved nitrogen and phosphorus from the water column. This biofiltration capacity has led to its use in integrated multi-trophic aquaculture systems.
 
 In some regions, dense Gracilaria mats can alter benthic community structure. Excessive biomass accumulation may lead to localized hypoxia beneath the algal canopy.
 
@@ -102,9 +102,11 @@ G. verrucosa is part of a species complex including *G. gracilis* and *G. dura*.
 
 *Gracilaria chilensis*, native to Pacific South America, is extensively cultivated in Chile for agar production. It was formerly considered synonymous with G. verrucosa but is now recognized as distinct based on molecular data.
 
-*G. tikvahiae* from the western Atlantic is another important agarophyte cultivated in the United States and Caribbean. It differs in its broader, flattened branches and preference for warmer waters.
+*G. tikvahiae* from the western Atlantic is another important agarophyte cultivated in the [[dmt-containing-plants-united-states-halpern]] and Caribbean. It differs in its broader, flattened branches and preference for warmer waters.
 
 ## See Also
+
+- [[gracilaria-tikvahiae]]
 
 - [[kappaphycus-alvarezii]]
 - [[porphyra-umbilicalis]]

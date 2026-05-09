@@ -1,5 +1,5 @@
 ---
-title: "3-TME (3-THIOMETAESCALINE;) -- PIHKAL Entry #163"
+title: "3-TME (3-THIOMETAESCALINE;) -- 2c-b-pihkal-entry-20 #163"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 3-TME
 
-PIHKAL entry #163. 3-THIOMETAESCALINE;.
+[[2c-b-pihkal-entry-20]] #163. 3-THIOMETAESCALINE;.
 
 ## Chemical Name
 
@@ -117,7 +117,7 @@ for 10 min producing a fine white precipitate. There was then added
 7.0 g diethyl disulfide. The dry ice bath was removed and the
 reaction stirred as it came to room temperature. This was then added
 to 300 mL dilute HCl and the aqueous phase separated and heated on the
-steam bath for 45 min. A yellow oil was formed with a nearly
+[[scythian-cannabis-steam-bath-ritual]] for 45 min. A yellow oil was formed with a nearly
 colorless aqueous overhead. This was removed by decantation, and the
 remaining oil was diluted with a little MeOH and additional
 concentrated HCl. After further heating on the steam bath, this was

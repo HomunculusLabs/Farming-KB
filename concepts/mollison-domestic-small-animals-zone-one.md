@@ -1,5 +1,5 @@
 ---
-title: Domestic Small Animals in Zone One
+title: mollison domestic small animals zone one in Zone One
 created: 2026-04-26
 tags: [zone-one, rabbit, guinea-pig, pigeon, permaculture, smallstock]
 date: 2026-04-25
@@ -14,7 +14,7 @@ type: concept
 In Permaculture: A Designers' Manual, Bill Mollison assigns
 small, quiet domestic animals to Zone 1, the area immediately
 surrounding the home. These animals fish, rabbits, pigeons,
-guinea pigs, and the culinary herbs used in food preparation.
+guinea pigs, and the [[holzer-medicinal-and-culinary-herbs-compendium]] used in food preparation.
 Rainwater catchment tanks are also placed here. Within 6 m (20
 feet) or so of a home, householders can produce most of the
 food necessary to existence.
@@ -55,7 +55,7 @@ prepare ground for planting of perennial crops.
 
 ## Guinea Pigs for Tree Establishment
 
-In the tropical home garden, the guinea pig aids small tree
+In the [[mollison-tropical-home-garden-design]] garden, the guinea pig aids small tree
 establishment as they "chip" the base of young grasses,
 effectively controlling grass competition around newly planted
 seedlings without disturbing the soil or damaging the trees.
@@ -67,7 +67,7 @@ establishment where grass suppression is critical.
 Pigeons are most easily protected from predators by elevation on
 pole structures, or over shallow ponds. They provide a reliable
 source of protein in the home garden with minimal space
-requirements. In many traditional systems around the world,
+requirements. In many traditional systems [[fungi-around-the-world-species-distribution]],
 pigeon lofts are integrated into the house or placed on nearby
 poles, providing eggs and squab with very little feed input
 when the birds can forage freely.
@@ -78,8 +78,8 @@ Chickens are the most common Zone 1 animal, with laying boxes
 placed close to hand. The chicken laying flock requires 365
 visits per year for egg collection alone, justifying their
 placement in the most intensively managed zone. Chickens
-provide insect control, manure for gardens, and egg production.
-Their foraging behaviour helps control pests and cycle nutrients
+provide [[mushroom-pests-insect-control-stamets]], manure for gardens, and egg production.
+Their foraging behaviour helps [[query-how-to-control-pests-without-chemicals]] and cycle nutrients
 from kitchen wastes back into the garden system.
 
 ## Techniques for Zone One Animals
@@ -103,6 +103,12 @@ the closer the objects need to be.
 Fish are listed among the small, quiet domestic animals
 appropriate for Zone 1. Small aquaculture systems, even as
 simple as a bathtub or small tank, can produce significant
-protein yields. Fish integrate with [[mollison-zone-one-garden-design]]
-- [[mollison-animal-integration-in-permaculture]]
-- [[mollison-poultry-duck-integration]]
+protein yields. Fish integrate with mollison-zone-one-garden-design
+- mollison-animal-integration-in-permaculture
+- mollison-poultry-duck-integration
+## See Also
+- [[bill-mollison]]
+- [[mollison-pdc-small-pond-frog-habitat-design]]
+- [[mollison-designers-temperate-zone-food-forest-design]]
+- [[mollison-pdc-zone-two-livestock-integration]]
+- [[small-scale-intensive-food-systems-mollison]]

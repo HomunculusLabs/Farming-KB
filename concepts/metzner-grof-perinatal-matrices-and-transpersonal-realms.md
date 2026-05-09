@@ -1,5 +1,5 @@
 ---
-title: "Grof Perinatal Matrices and Transpersonal Realms"
+title: "metzner grof perinatal matrices and transpersonal realms Matrices and Transpersonal Realms"
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 tags: [ralph-metzner, stanislav-grof, perinatal-matrices, psycholytic,
   transpersonal, holotropic, birth-memory, psychotherapy, consciousness]
@@ -9,7 +9,7 @@ created: 2026-05-08
 # Grof Perinatal Matrices and Transpersonal Realms
 
 [[stanislav-grof]]'s groundbreaking
-discovery within psycholytic therapy that patients could access birth
+discovery within [[european-psycholytic-therapy-1960s-1970s]] that patients could access birth
 and prebirth memories, leading to the formulation of perinatal
 matrices and the discovery of transpersonal realms of consciousness.
 
@@ -104,7 +104,7 @@ drug effects.
 The perinatal and transpersonal discoveries in psycholytic therapy
 created a bridge between Western psychotherapy and shamanic
 traditions.
-Shamanic journeying, vision quests, and entheogenic ceremonies also
+Shamanic journeying, vision quests, and [[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]] also
 access these deeper layers of consciousness.
 
 The transpersonal realms that Grof mapped correspond closely to the

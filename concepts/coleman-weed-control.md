@@ -1,7 +1,7 @@
 ---
-title: Weed Control in Greenhouses and Fields
+title: fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery in Greenhouses and Fields
 created: 2026-04-26
-sources: The Winter Harvest Handbook, Eliot Coleman (2009), Chapter 14
+sources: The coleman-claytonia-winter-harvest-cultivation Handbook, eliot-coleman (2009), Chapter 14
 tags:
   - weed-control
   - flaming
@@ -17,7 +17,7 @@ updated: 2026-04-26
 
 Eliot Coleman approaches weed control with the principle that
 prevention is always better than confrontation. Given the intensive
-planting density used in greenhouse production, weed management
+planting density used in greenhouse production, [[fukuoka-weed-management-and-green-manure]]
 becomes especially critical. Even with short-season crops like
 baby-leaf salad, quick-growing weeds such as chickweed can
 dramatically slow harvest. The yield increase possible from close
@@ -28,7 +28,7 @@ weed problems a worthwhile investment of time.
 
 The primary strategy is to ensure that no weed ever goes to seed.
 Coleman hand-weeds in fields and greenhouses whenever necessary.
-The operation has even hand-weeded green manures to prevent weed
+The operation has even hand-weeded [[jeavons-green-manures-cover-crops]] to prevent weed
 seed production, or tilled green manures under and started again
 when weeds became too numerous. Studies show that the serious
 weed-seed load in a soil can be greatly reduced over three to five
@@ -79,7 +79,7 @@ in full bloom in a cold house on January 15.
 
 Flaming involves wilting, not burning weeds. Exposure to the propane
 flame causes the water in the plant cells to expand and burst,
-destroying the cell structure. The weeds wilt and die within hours.
+destroying the [[plant-cell-structure-and-organelles]]. The weeds wilt and die within hours.
 The technique requires a steady walking pace and the correct torch
 height above the weed seedlings. Coleman recommends practicing on a
 test area to calibrate speed and torch position.
@@ -113,7 +113,7 @@ For tiny weeds on sunny days, a rapid cultivation technique involves
 walking down the path holding the collineal hoe or wire weeder
 between rows just slightly under the soil surface, working in a
 direction toward uncut weeds. The forward angle of the blade can be
-adjusted to compensate for slight discrepancies in row spacing.
+adjusted to compensate for slight discrepancies in [[wide-row-spacing-intensive-gardening-comparison]].
 Keeping depth consistent (never more than half an inch) ensures all
 tiny weeds are cut off or tipped out to wilt on the surface.
 
@@ -143,4 +143,5 @@ system progressively becomes easier to manage.
 
 - [[coleman-sowing-seedling-production]]
 - [[coleman-tools-small-farm]]
-- [[coleman-planting-schedules]]
+- coleman-planting-schedules
+- [[dom]]

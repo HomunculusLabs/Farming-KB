@@ -1,5 +1,5 @@
 ---
-title: Gaia's Garden Stacking Functions and Redundancy
+title: Gaia's Garden williams-pdc-stacking-functions-and-system-integration and Redundancy
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Stacking Functions and Redundancy in Ecological Design
 
-Toby Hemenway's explanation of two complementary permaculture design principles: stacking functions and redundancy. From Gaia's Garden, Chapter 2.
+Toby Hemenway's explanation of two complementary [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] principles: stacking functions and redundancy. From Gaia's Garden, Chapter 2.
 
 ## Stacking Functions: Two Rules
 
@@ -22,7 +22,7 @@ Nature stacks functions because every living thing represents a big investment i
 
 ### Rule 2: Each Function Is Served by Multiple Elements
 
-Always have backups in place. Gardeners already follow this unconsciously — planting several vegetable varieties in case one fails, or maintaining sprinklers, drip irrigation, soaker hoses, and watering cans all for the single purpose of delivering water.
+Always have backups in place. Gardeners already follow this unconsciously — planting several [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] in case one fails, or maintaining sprinklers, [[comparison-drip-irrigation-vs-passive-irrigation]], soaker hoses, and watering cans all for the single purpose of delivering water.
 
 ## Why Redundancy Matters
 
@@ -78,7 +78,10 @@ A natural landscape harvests energy (sun, wind, heat) and matter (water, nutrien
 
 ## See Also
 
-- [[mollison-plant-stacking-and-interaction]] — plant stacking in permaculture
-- [[mollison-design-analysis]] — Mollison's design analysis methods
+- mollison-plant-stacking-and-interaction — plant stacking in permaculture
+- mollison-design-analysis — Mollison's design analysis methods
 - [[gaias-garden-cover-crops-soil-building]]
 - [[soil-building-ecological-garden]]
+- [[gaias-garden-stacking-functions-detailed]]
+- [[toby-hemenway]]
+- [[permaculture-design]]

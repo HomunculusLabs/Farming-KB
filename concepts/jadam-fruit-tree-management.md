@@ -3,7 +3,7 @@ title: "JADAM Fruit Tree Management"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
-tags: [fukuoka natural permplant persimmon diospyros kaki fruit tree pest control, jadam, tree-crop]
+tags: masanobu-fukuoka-natural-farming-philosophy permplant permplant-persimmon-diospyros-kaki-fruit-tree kaki fruit tree pest control, jadam, tree-crop]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
@@ -37,7 +37,7 @@ This is the most critical moment -- high yield is determined at the early stage.
 
 ## [[tree-canopy-fungal-sampling-techniques]]
 - Tree leaves fall between rye plants and are not blown away
-- Complete nutrient recycling -- "This is a perfect fertilizer program"
+- Complete nutrient recycling -- "This is a perfect [[jadam-fertilizer-program-design]]"
 - Rye has low nitrogen content, maintaining nutrient balance
 
 ### Hairy Vetch
@@ -84,7 +84,7 @@ Developed by Chanmo Gim.
 
 **Diseases/Pests Controlled:**
 - Valsa canker
-- Scale insects (arrowhead scale, pear sucker)
+- Scale insects ([[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]], pear sucker)
 - Moss disease
 
 ## Disease Control
@@ -113,11 +113,11 @@ Effective against soil nematodes, verticillium wilt, virus diseases:
 - JMS -- 500 L + Seawater -- 60 L + Phyllite solution -- 60 L + GC-JLF -- 30 L
 
 ### Reproductive Growth Promoter (weak flowering/fruiting)
-- Above + Calcium phosphate JLF -- 60 L
+- Above + [[bionutrients-lab-calcium-phosphate-calamansi]] JLF -- 60 L
 
 ### Fruit Growth Promoter (boost fruit growth)
 - JMS -- 500 L + Seawater -- 60 L + Phyllite -- 60 L + Calcium JLF -- 30 L + Potassium JLF -- 40 L
-- To control excessive vegetative growth: remove potassium JLF and increase calcium JLF
+- To control excessive [[cannabis-vegetative-growth-stage]]: remove potassium JLF and increase calcium JLF
 
 ## Customized Microorganism Medium for Specific Fruits
 

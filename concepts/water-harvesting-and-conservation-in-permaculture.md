@@ -2,11 +2,11 @@
 
 Water is the foundation of any productive landscape. In permaculture, the goal is not merely to conserve water but to actively harvest, slow, sink, and cycle it through the ecosystem. Every drop that falls on or flows through a site can be guided toward productive use rather than lost to runoff and erosion.
 
-The fivefold water-saving strategy outlined in *Gaia's Garden* by [[building-soil]] organic matter is one of the most effective [[cover-crops]], green manures, and minimal tillage all contribute to building this living sponge. Over time, well-built soil can hold inches of rain and release it slowly to plant roots through capillary action.
+The fivefold water-saving strategy outlined in *Gaia's Garden* by [[building-soil]] [[hamilton-composting-and-organic-matter-management]] is one of the most effective cover crops, [[jeavons-green-manures-cover-crops]], and minimal tillage all contribute to building this living sponge. Over time, well-built soil can hold inches of rain and release it slowly to plant roots through capillary action.
 
 The difference between depleted mineral soil and humus-rich loam is dramatic. Sandy soil drains rapidly, losing moisture within hours. Compacted clay sheds water entirely, creating runoff and erosion. But soil rich in organic aggregates has both good drainage and good retention — it accepts water quickly and holds it for days or weeks.
 
-Testing soil water-holding capacity is simple. After a rain, dig into both mulched and bare areas. The mulched soil will be moist inches below the surface, while bare soil will be dry. This visible difference is the direct result of organic matter at work, and it compounds with every season of mulching and composting.
+Testing soil water-holding capacity is simple. After a rain, dig into both mulched and bare areas. The mulched soil will be moist inches below the surface, while bare soil will be dry. This visible difference is the direct result of organic matter at work, and it compounds with every season of mulching and [[composting]].
 
 ### 2. Contour and Swales
 
@@ -20,13 +20,13 @@ Key design considerations include spacing swales according to slope steepness an
 
 ### 3. Choose the Right Plants
 
-Deep-rooted perennials access water far below the soil surface where moisture persists long after the topsoil dries out. Trees, shrubs, and perennial herbs send roots deep into subsoil layers, drawing water up and making it available to the surrounding ecosystem through hydraulic lift and [[guild-planting]] takes this further by grouping complementary species together. A fruit tree underplanted with nitrogen fixers, dynamic accumulators, insectary plants, and ground covers creates a self-maintaining polyculture that shades, mulches, and waters itself. The dense root network also improves soil structure and water infiltration over time.
+Deep-rooted perennials access water far below the soil surface where moisture persists long after the topsoil dries out. Trees, shrubs, and perennial herbs send roots deep into subsoil layers, drawing water up and making it available to the surrounding ecosystem through hydraulic lift and [[guild-planting]] takes this further by grouping complementary species together. A fruit tree underplanted with nitrogen fixe [[comparison-dynamic-accumulators-vs-cover-crops]] tors, insectary plants, and ground covers creates a self-maintaining polyculture that shades, mulches, and waters itself. The dense root network also improves soil structure and water infiltration over time.
 
 ### 5. Mulch
 
-A 2 to 4 inch layer of mulch on the soil surface is one of the simplest and most effective water conservation tools available. Mulch slows evaporation by blocking direct sunlight, keeps root zones cool, absorbs rainfall so it penetrates gradually, adds humus as it decomposes, prevents erosion, and softens temperature swings at the soil surface.
+A 2 to 4 inch layer of mulch on the soil surface is one of the simplest and most effect [[water-conservation]] tion tools available. Mulch slows evaporation by blocking direct sunlight, keeps root zones cool, absorbs rainfall so it penetrates gradually, adds humus as it decomposes, prevents erosion, and softens temperature swings at the soil surface.
 
-Organic mulches like straw, leaves, and wood chips feed soil biology as they break down. This decomposition process creates humus, which further improves the soil's water-holding capacity. Over time, a regularly mulched bed develops a rich, dark topsoil that retains moisture for weeks between rain events.
+Organic mulches like straw, leaves, and wood chips feed soil biology as they break down. T decomposition tion process creates humus, which further improves the soil's water-holding capacity. Over time, a regularly mulched bed develops a rich, dark topsoil that retains moisture for weeks between rain events.
 
 Living mulches — low-growing ground covers like clover, thyme, or oregano — provide the same benefits while also producing food, habitat, or nitrogen. They are especially useful between larger plants and in orchard aisles where bare soil would otherwise be exposed to sun and wind.
 
@@ -56,7 +56,7 @@ For smaller-scale harvesting, rain barrels and cisterns offer a simple entry poi
 
 A typical family uses between 100 and 200 gallons of water per day. The vast majority of this is "greywater" from sinks, showers, and laundry — not the "blackwater" from toilets. Rather than sending this resource down the drain, greywater systems redirect it into the landscape where soil organisms process it into fertility.
 
-This approach closes a critical loop: clean water flows in, gets used for washing, passes through a mulch basin or constructed wetland where microbes and plants purify it, and emerges as irrigation and soil nutrition. The cycle transforms waste into a productive input for the garden, reducing municipal water demand and building soil health simultaneously.
+This approach closes a critical loop: clean water flows in, gets used for washing, passes through a mulch basin or [[comparison-constructed-wetland-vs-backyard-pond]] where microbes and plants purify it, and emerges as irrigation and soil nutrition. The cycle transforms waste into a productive input for the garden, reducing municipal water demand and building soil health simultaneously.
 
 ### Greywater Best Practices
 
@@ -74,7 +74,7 @@ The real power of permaculture water strategy lies in integration. Each techniqu
 
 Permaculture designer Tom Ward demonstrated a fully integrated water system at his Oregon homestead. He installed a 3,000-gallon pond fed by a neighbor's downspouts, capturing runoff that would otherwise leave the property. A swale alongside the pond catches any overflow and distributes it along the contour line.
 
-Downhill from the swale, a vegetable garden benefits from the subterranean moisture plume released by the infiltrating water. At the pond outlet, blueberry bushes catch the remaining flow, thriving in the consistent moisture. This single integrated system captures, stores, and distributes thousands of gallons of water annually without pumps, pipes, or energy input.
+Downhill from the swale, a [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] benefits from the subterranean moisture plume released by the infiltrating water. At the pond outlet, blueberry bushes catch the remaining flow, thriving in the consistent moisture. This single integrated system captures, stores, and distributes thousands of gallons of water annually without pumps, pipes, or energy input.
 
 ## Key Principles
 
@@ -91,7 +91,7 @@ sufficient by itself, but the combination creates a garden far more drought-
 resistant than any one method alone. If one element fails (mulch blows away,
 a tank runs dry), the other elements compensate.
 
-This synergy is one of the great benefits of ecological design. These same
+This synergy is one of the great benefits of [[williams-pdc-ecological-design-principles]]. These same
 techniques also moderate wet conditions: humus-rich soil absorbs vast water
 volumes without drowning roots, mulch prevents erosion from heavy rain, and
 dense plantings slow runoff. Swales can be graded at 2% to carry excess water

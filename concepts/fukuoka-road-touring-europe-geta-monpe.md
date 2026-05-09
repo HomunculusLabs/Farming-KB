@@ -1,10 +1,11 @@
 ---
-title: Touring Europe in Geta and Monpe
+title: [[fukuoka-road-africa-greening-desert]] touring europe geta monpe in Geta and Monpe
 created: 2026-04-28
 tags: [travel, europe, clothing, culture, natural-farming]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
@@ -14,7 +15,7 @@ In 1983, masanobu-fukuoka|Fukuoka traveled to Europe for fifty days. A Greek
 man named Panos and a young Italian woman named Miriam, both
 of whom had stayed and worked on his farm, offered to serve
 as guides. He traveled by car through five or six countries,
-visiting farms working to adopt new ways of farming and
+visiting farms working to adopt new [[fukuoka-theory-three-ways-of-farming]] and
 speaking to groups at summer camps.
 
 ## The Attire of Rebellion
@@ -42,7 +43,7 @@ The doi, blending features of haori and hakama, has a
 clean style that braces the spirit. He returned to Japan
 confident that this could become the garb of peasants
 throughout the world. The experience helped him reflect on
-what the culture of clothing is, but because man is an
+what the [[fukuoka-culture-of-clothing-and-meat]] is, but because man is an
 animal born naked, simple diet and dress would have suited
 him fine. One bowl and one robe would do quite well.
 ## Practical Considerations
@@ -61,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,9 +99,8 @@ advance the field as a whole. Cross-pollination of ideas from biology,
 ecology, data science, and traditional knowledge systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

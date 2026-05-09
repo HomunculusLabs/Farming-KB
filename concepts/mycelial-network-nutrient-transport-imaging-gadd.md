@@ -10,7 +10,7 @@ reconfigure in response to resource discovery.
 The vacuolar system in filamentous fungi has been proposed as an important organ for long-
 distance translocation over millimetres or centimetres within individual hyphae. Vacuolar
 morphology changes systematically along individual hyphae, creating distinct transport zones.
-Near the hyphal tip, the vacuole appears as a complex reticulum of fine tubes interspersed with
+Near the [[gadd-hyphal-tip-growth-and-branching-mechanisms]], the vacuole appears as a complex reticulum of fine tubes interspersed with
 small spherical vacuoles, forming a highly interconnected network well suited for distributing
 materials to the growing apex. Progressing distally from the tip, this transitions through
 larger, more spherical adherent vacuoles interconnected by fine tubes, to a series of discrete,
@@ -36,7 +36,7 @@ large, isolated vacuole using rapid confocal imaging. Values obtained in vivo co
 favourably with theoretical and experimental values for fluorescein in pure water, suggesting
 that OG was freely diffusible in a largely aqueous vacuole lumen. This established that the
 vacuolar system offers relatively low resistance to molecular movement, at least for small,
-uncharged solutes like amino acid analogues. With a known Dv, the functional tube diameter
+uncharged solutes like [[cho-fish-amino-acid-preparation]] analogues. With a known Dv, the functional tube diameter
 between two connected vacuoles was estimated by FRAP, assuming diffusion-only transport through
 the narrow connecting tube. Functional tube diameters determined in vivo ranged from 0.24 to
 0.48 micrometres, consistent with EM estimates of approximately 0.3 micrometres.
@@ -61,7 +61,7 @@ dynamically regulated to change its translocation capacity according to local nu
 conditions.
 
 ## Radiolabelled Amino Acid Tracking with PCSI
-To measure transport at the millimetre to centimetre scale across whole mycelial networks,
+To measure transport at the millimetre to centimetre scale across whole [[fungal-mycelial-networks-nutrient-translocation]],
 researchers developed photon-counting scintillation imaging (PCSI), a novel non-invasive
 technique to track movement of 14C-labelled nitrogen compounds. [[phanerochaete-velutina]] networks of 300 to 500 main nodes, the average node degree stabilized
 at around 3.5 after excluding degree-2 nodes left on the main connecting cords. Betweenness
@@ -69,10 +69,10 @@ centrality identifies nodes that act as critical bridges, whose removal would mo
 transport through the network.
 
 ## Resilience Testing via Node and Edge Removal
-Network resilience was assessed in silico by measuring how network properties changed as
+[[gadd-mycelial-network-resilience-graph-theory]] was assessed in silico by measuring how network properties changed as
 individual nodes or links were removed randomly or in a targeted manner. The same approach was
 applied to model networks (Delaunay triangulation, relative neighbourhood graph, minimum
-spanning tree) for comparison. The fungal network showed greater resilience than the minimum
+spanning tree) for comparison. The [[mycelium-running-mycelium-natures-internet-fungal-network-theory]] showed greater resilience than the minimum
 spanning tree but less than the fully connected Delaunay triangulation. In real mycelial
 networks, the probability of node or edge removal is unlikely to be random and may show
 correlation between adjacent nodes, as grazing by soil invertebrates targets specific palatable
@@ -82,7 +82,8 @@ through growth, branching, and fusion---distinguishing biological networks from 
 mathematical analogues.
 
 ## See Also
-- [[fungal-ecology-and-decomposition]]
+
+- [[gadd-mycelial-nutrient-translocation-imaging]]
 - [[fungal-ecology-and-decomposition]]
 
 ## Source

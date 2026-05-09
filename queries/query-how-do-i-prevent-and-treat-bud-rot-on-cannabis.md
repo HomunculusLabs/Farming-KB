@@ -1,10 +1,11 @@
 ---
-title: "How Do I Prevent and Treat Bud Rot on Cannabis?"
+title: "How Do I query-how-do-i-identify-prevent-and-treat-fusarium-wilt Bud Rot on Cannabis?"
 created: 2026-04-28
 tags: [query, cannabis, disease, mold, bud-rot, prevention]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---
@@ -13,7 +14,7 @@ type: query
 
 ## Short Answer
 Bud rot, caused by the fungus Botrytis cinerea, is one of the most devastating
-cannabis diseases. Prevention focuses on maintaining low humidity below 50
+cannabis diseases. Prevention focuses on maintaining [[pf-tek-low-humidity-symptoms-and-remediation]] below 50
 percent during late flowering, ensuring good airflow between buds, removing dead
 or damaged plant material, and applying preventive organic sprays. Once bud rot
 appears inside a cola, the affected bud must be removed immediately to prevent
@@ -24,18 +25,18 @@ spread.
 Bud rot, also known as gray mold, is caused by the pathogenic fungus Botrytis
 cinerea and represents one of the greatest threats to outdoor and indoor
 cannabis crops alike. The query how do i prevent and treat bud rot on cannabis details the full
-life cycle of this pathogen and how it infects cannabis flowers. The fungus
+[[bloomfield-fungal-life-cycle-spiral-versus-circle]] of this pathogen and how it infects cannabis flowers. The fungus
 thrives in cool, humid conditions and typically attacks the densest, most
 moisture-retentive parts of the plant first, which means large, tight colas are
 at the highest risk, especially during the final weeks of flowering when buds
 are at their densest.
 
-Prevention is far more effective than treatment, and humidity management is the
-cornerstone of any bud rot prevention strategy. During the
+Prevention is far more effective than treatment, and [[stamets-cultivator-humidity-management-fogging-systems]] is the
+cornerstone of any bud [[cannabis-root-rot-prevention-and-treatment]] strategy. During the
 [[query-how-to-manage-humidity-cannabis-grow-room]]
 covers equipment and techniques for maintaining these levels. In outdoor grows
 where you cannot control humidity, choosing strains with looser bud structure
-and ensuring adequate plant spacing for air circulation are your best defenses.
+and ensuring adequate plant spacing for [[stamets-growing-room-air-circulation-co2-management]] are your best defenses.
 
 Airflow is equally critical. Fans should create enough movement to gently sway
 all parts of the plant, including the inner canopy where humidity can become

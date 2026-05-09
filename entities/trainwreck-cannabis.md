@@ -39,7 +39,7 @@ Trainwreck's genetic composition is one of the most well-documented among legacy
 - **Lineage:** A three-way landrace cross combining:
   - **Mexican sativa:** Contributes cerebral stimulation, creative energy, and extended flowering characteristics
   - **Thai sativa:** Adds potency, visual and mental effects, and the strain's characteristic soaring head high
-  - **Afghani indica:** Provides resin production, physical density, and the mellowing body relaxation that grounds the experience
+  - **Afghani indica:** Provides [[cannabis-glandular-trichome-types-resin-production-clarke]], physical density, and the mellowing body relaxation that grounds the experience
 - **Original breeder:** Developed by underground growers in the Emerald Triangle region of Northern California (Humboldt, Mendocino, and Trinity counties) during the 1980s. The strain was reportedly stabilized from clone-only genetics before being released as seeds by select breeders.
 - **Name origin:** Multiple accounts exist. The most widely cited story holds that the original growers cultivated the plants near the site of a train wreck in Arcata, California, in Humboldt County. An alternative explanation suggests the name refers to the plant's sprawling, chaotic growth pattern, which can resemble a train wreck when left untrained.
 
@@ -75,10 +75,10 @@ Trainwreck is considered moderately challenging to cultivate and is best suited 
 - **Flowering time:** 8–10 weeks indoors (averaging approximately 9 weeks). Outdoor harvest occurs in late September to mid-October in the Northern Hemisphere.
 - **Indoor yield:** 350–500 g/m² under optimized conditions with proper training and light management.
 - **Outdoor yield:** 500–700 g per plant in favorable climates with adequate sunlight and growing season length.
-- **Height:** Medium to tall — the sativa dominance produces vigorous vegetative growth. Indoor plants typically reach 100–150 cm; outdoor plants can exceed 200 cm when planted in the ground. The plant's tendency toward sprawling growth necessitates training (LST, SCROG, or topping) for indoor cultivation.
+- **Height:** Medium to tall — the sativa dominance produces vigorous [[cannabis-vegetative-growth-stage]]. Indoor plants typically reach 100–150 cm; outdoor plants can exceed 200 cm when planted in the ground. The plant's tendency toward sprawling growth necessitates training (LST, SCROG, or topping) for indoor cultivation.
 - **Structure:** Long, branching colas with moderate internodal spacing. Buds are large, elongated, and resinous, with a light green coloration and heavy trichome coverage that can give the appearance of a subtle gray or frosty tint. Pistils are abundant and orange.
 - **Climate preference:** Thrives in warm, Mediterranean climates similar to its native Northern California. Prefers low humidity during flowering to prevent mold. The dense bud structure makes it moderately susceptible to bud rot (Botrytis cinerea) in humid conditions.
-- **Nutrient needs:** Moderate to heavy feeder during both vegetative and flowering stages. Responds well to organic cultivation methods. Nitrogen requirements taper off during weeks 6–8 of flowering while phosphorus and potassium demand increases.
+- **Nutrient needs:** Moderate to heavy feeder during both vegetative and flowering stages. Responds well to organic [[synthetic-log-cultivation-methods-guide]]. Nitrogen requirements taper off during weeks 6–8 of flowering while phosphorus and potassium demand increases.
 - **Difficulty:** Moderate — the main challenges are managing the plant's vigorous height and branching, maintaining appropriate humidity during dense bud development, and achieving the full 9-week flowering window without premature harvest.
 
 ## Cannabinoid & Terpene Profile
@@ -122,9 +122,9 @@ Trainwreck's potent, functional effects have made it a mainstay in medical canna
 
 ## Cultural Significance
 
-Trainwreck holds a unique position in cannabis culture as one of the quintessential Northern California strains:
+Trainwreck holds a unique position in [[mckenna-cannabis-culture-history]] as one of the quintessential Northern California strains:
 
-- **Emerald Triangle heritage:** Trainwreck emerged from the underground cannabis cultivation culture of Humboldt, Mendocino, and Trinity counties — the legendary "Emerald Triangle" that has been the center of American cannabis production since the 1960s back-to-the-land movement. The strain embodies the region's tradition of breeding high-quality, potent cannabis from diverse international genetics.
+- **Emerald Triangle heritage:** Trainwreck emerged from the underground [[query-how-does-no-till-cannabis-cultivation-work]] culture of Humboldt, Mendocino, and Trinity counties — the legendary "Emerald Triangle" that has been the center of American cannabis production since the 1960s back-to-the-land movement. The strain embodies the region's tradition of breeding high-quality, potent cannabis from diverse international genetics.
 - **Medical cannabis pioneer:** Trainwreck was one of the first strains widely distributed through California's early medical cannabis dispensaries following the passage of Proposition 215 in 1996. Its reliable potency and therapeutic effects made it a staple recommendation from the earliest cannabis physicians.
 - **Naming mythology:** The train wreck origin story has become part of cannabis folklore, reflecting the strain's underground origins and the romanticism of illicit cultivation in the Northern California wilderness.
 - **Parent to new varieties:** Trainwreck has served as a genetic parent or contributor to several notable crosses, including:
@@ -137,7 +137,7 @@ Trainwreck holds a unique position in cannabis culture as one of the quintessent
 ## See Also
 
 - [[cannabis-indica]] — The indica species providing body relaxation and resin production
-- [[myrcene]] — Secondary terpene contributing to the entourage effect
+- [[myrcene]] — Secondary terpene contributing to the [[cannabis-terpene-entourage-effect-profiles]]
 - [[tetrahydrocannabinol-thc]] — Primary psychoactive cannabinoid in Trainwreck
 - northern-lights — Classic indica in many hybrid breeding programs
 - [[og-kush]] — Southern California counterpart and fellow legacy strain

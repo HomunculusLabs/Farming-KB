@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Psilocybe moseri** is a wood-inhabiting mushroom in the family Hymenogastraceae, named in honor of the Austrian mycologist Meinhard Moser. It is a European species that was included in Bigwood and Beug's 1992 analysis of psilocybin and psilocin levels. *P. moseri* is recognized as a moderately psychoactive species within the genus Psilocybe, though it remains relatively obscure compared to better-known European taxa.
+**Psilocybe moseri** is a wood-inhabiting mushroom in the family Hymenogastraceae, named in honor of the Austrian mycologist Meinhard Moser. It is a European species that was included in Bigwood and Beug's 1992 [[hplc-analysis-of-psilocybin-and-psilocin]] and psilocin levels. *P. moseri* is recognized as a moderately psychoactive species within the genus Psilocybe, though it remains relatively obscure compared to better-known European taxa.
 
 ## Taxonomy and Classification
 
@@ -40,8 +40,8 @@ The species was described by [[psilocybe-cyanescens]] due to macroscopic similar
 *Psilocybe moseri* is a saprotrophic species associated with woody substrates in temperate forest environments:
 
 - Decaying hardwood logs and stumps, particularly of beech, oak, and alder
-- Forest floor debris and leaf litter in mixed woodlands
-- Wood chips and mulched garden beds, especially in urban and suburban parks
+- Forest floor debris and [[dighton-fungal-decomposition-leaf-litter-dynamics]] in mixed woodlands
+- [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] and mulched garden beds, especially in urban and suburban parks
 
 The species is primarily European in distribution, with confirmed reports from central and western Europe including Germany, Austria, Switzerland, and France. It has also been reported from parts of Scandinavia. Fruiting occurs from late summer through autumn, typically September to November in central Europe, often following cool wet periods.
 
@@ -52,10 +52,10 @@ The species is primarily European in distribution, with confirmed reports from c
 - **Psilocybin content:** Moderate, generally ranging from 0.1% to 0.3% dry weight depending on the collection
 - **Psilocin content:** Low to moderate, typically 0.01% to 0.05% dry weight
 - **Baeocystin:** Present in trace amounts in some analyses
-- **Bluing reaction:** Prominent blue bruising on the stipe and, less commonly, on the cap or gills when damaged
+- **[[field-guide-psilocybin-bluing-reaction-identification]]:** Prominent blue bruising on the stipe and, less commonly, on the cap or gills when damaged
 
 The moderate psilocybin content places *P. moseri* in the mid-range of psychoactive potency among Psilocybe species. It is comparable to or slightly less potent than [[psilocybe-cyanescens]]** — The most commonly confused species; *P. cyanescens* is generally more potent and has a more pronounced wavy cap margin
-- **[[psilocybe-bohemica]]** — Central European species with overlapping distribution; now often considered synonymous with [[psilocybe-cyanescens]] or [[psilocybe-cyanescens]], which also fruits on woody debris. No commercial or hobbyist cultivation of this species has been reported.
+- **[[psilocybe-bohemica]]** — Central European species with overlapping distribution; now often considered synonymous with [[psilocybe-cyanescens]] or [[psilocybe-cyanescens]], which also fruits on [[fungal-succession-woody-debris-ecology]]. No commercial or hobbyist cultivation of this species has been reported.
 
 ## References
 
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

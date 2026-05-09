@@ -1,5 +1,5 @@
 ---
-title: Beneficial Insect Habitat
+title: comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol Habitat
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Beneficial Insect Habitat
 
-Creating habitat for beneficial insects is one of the most important and rewarding aspects of ecological gardening. Most insects are either helpful or harmless, and only a tiny fraction are true pests. By designing gardens that attract and sustain predatory and parasitic insects, gardeners can let nature handle pest control rather than relying on chemicals.
+Creating [[query-how-do-i-design-habitat-for-beneficial-insects]] insects is one of the most important and rewarding aspects of ecological gardening. Most insects are either helpful or harmless, and only a tiny fraction are true pests. By designing gardens that attract and sustain predatory and parasitic insects, gardeners can let nature handle [[biological-pest-control-balance]] rather than relying on chemicals.
 
 ## The Ecological Balance
 
@@ -66,11 +66,11 @@ Choice insectary plants include yarrow, buckwheat, lavender, golden marguerite, 
 ## Key Beneficial Insect Groups
 
 - **Lady beetles (ladybugs)**: Both adults and larvae consume aphids, mealybugs, and other soft-bodied pests. Larvae are particularly voracious, resembling tiny alligators.
-- **Ground beetles**: Large, fast-running predators that hunt at night, consuming slugs, cutworms, and root maggots. Shelter in mulch, stones, and woody debris.
+- **Ground beetles**: Large, fast-running predators that hunt at night, consuming slugs, cutworms, and [[cervantes-nematodes-root-maggots-soil-pests]]. Shelter in mulch, stones, and [[fungal-succession-woody-debris-ecology]].
 - **Lacewings**: Adults feed on nectar; larvae are active predators of aphids, thrips, and small caterpillars.
 - **Hover flies (syrphid flies)**: Adults visit flowers for nectar; their larvae consume large numbers of aphids.
 - **Parasitic wasps**: Tiny wasps that lay eggs inside or on pest insects. Adults need nectar from small flowers, especially umbels.
-- **Predatory mites**: Hunt pest mites and thrips in leaf litter and on plants.
+- **[[comparison-predatory-mites-vs-ladybugs-biocontrol]]**: Hunt pest mites and thrips in leaf litter and on plants.
 - **Spiders**: Generalist predators found in all garden habitats.
 
 ## Design Strategies
@@ -79,7 +79,7 @@ Choice insectary plants include yarrow, buckwheat, lavender, golden marguerite, 
 - **Continuous bloom**: Ensure something is flowering from early spring through late fall
 - **Cluster plantings**: Group insectary plants in masses of at least 3-5 feet across so beneficials can find them easily
 - **Integrate throughout**: Sprinkle insectary flowers in vegetable beds, along paths, and at the edges of [[fruit-tree-guild-roles]] -- guilds include insectary plants as a key role
-- [[chicken-integration-permaculture-guide]] -- chickens can help manage pest insects as well
+- chicken-integration-permaculture-guide -- chickens can help manage pest insects as well
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] -- interplanting strategies that support beneficial insect populations
 - [[bee-forage-plants]] -- specialized habitat for pollinator species
 - [[fukuoka-natural-fruit-tree-pest-control]]

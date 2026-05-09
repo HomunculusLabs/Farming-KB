@@ -52,7 +52,7 @@ The hyphal system is dimitic, with generative hyphae bearing clamp connections a
 
 Picipes badius has a wide distribution across temperate and subtropical regions of the Northern Hemisphere.
 
-It is commonly found throughout Europe, North America, and parts of Asia including Japan and China.
+It is commonly found throughout Europe, [[psilocybin-north-america-pacific-northwest]], and parts of Asia including Japan and China.
 
 The species is primarily saprotrophic, decomposing dead hardwood including oak, beech, maple, birch, and ash.
 
@@ -62,11 +62,11 @@ Fruiting occurs from late spring through autumn, typically on fallen logs, branc
 
 It prefers moist, shaded environments and is commonly encountered along stream banks and in ravine forests.
 
-The species is relatively common in old-growth and mature secondary forests with abundant coarse woody debris.
+The species is relatively common in old-growth and mature secondary forests with abundant [[fungal-diversity-leaf-litter-coarse-woody-debris]] debris.
 
 ## Ecology and Applications
 
-Picipes badius plays a significant role in forest nutrient cycling through its saprotrophic decomposition of hardwood.
+Picipes badius plays a significant role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] through its saprotrophic decomposition of hardwood.
 
 The white rot decay it produces breaks down both cellulose and lignin, contributing to carbon and nitrogen recycling in forest ecosystems.
 
@@ -86,7 +86,7 @@ The species is of interest in mycoremediation research due to its lignin-degradi
 
 Picipes badius is closely related to other members of the Picipes clade including P. tubaeformis and P. melanopus.
 
-It can be confused with Polyporus arcularius, which has larger pores and a more delicate fruiting body.
+It can be confused with Polyporus arcularius, which has larger pores and a more delicate [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]].
 
 Royoporus badius is a synonym under the current Picipes classification.
 
@@ -102,9 +102,9 @@ Picipes badius is not commercially cultivated but can be grown on supplemented h
 
 Fruiting requires elevated humidity (85–95%) and temperatures of 18–24°C with moderate air exchange.
 
-The species is relatively slow-growing compared to cultivated polypores like oyster mushrooms and shiitake.
+The species is relatively slow-growing compared to cultivated polypores like [[query-how-to-grow-oyster-mushrooms-at-home]] and shiitake.
 
-Spawn preparation uses grain or sawdust inoculum, with a 2–3 week colonization period at 22–25°C.
+[[azurescens-spawn-preparation-grain-to-wood]] uses grain or sawdust inoculum, with a 2–3 week colonization period at 22–25°C.
 
 Outdoor cultivation on buried hardwood logs has been achieved experimentally, with fruiting appearing 6–12 months after inoculation.
 

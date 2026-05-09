@@ -9,7 +9,7 @@ sources:
 ---
 # 2C-N — 2,5-Dimethoxy-4-nitrophenethylamine
 
-PIHKAL entry #34. 2C-N carries a nitro group at the 4-position of the 2,5-dimethoxyphenethylamine backbone. It is distinctive for its yellow coloration and its consistent failure to fully meet expectations.
+[[2c-b-pihkal-entry-20]] #34. 2C-N carries a nitro group at the 4-position of the 2,5-dimethoxyphenethylamine backbone. It is distinctive for its yellow coloration and its consistent failure to fully meet expectations.
 
 ## Chemical Identity
 
@@ -61,7 +61,7 @@ The nitro group (−NO₂) is a strong electron-withdrawing substituent, quite d
 
 ## Cautionary Notes
 
-Relatively short duration and underwhelming effects make this a low-priority compound. The nitro group presents a structural dead-end that prevents further medicinal chemistry optimization. No particularly dangerous effects reported, but the consistent underperformance should be noted. The high dosage requirement (100–150 mg) compared to most other 2C compounds means larger amounts of material must be consumed, which is a practical disadvantage.
+Relatively [[savory-short-duration-grazing-and-cell-systems]] and underwhelming effects make this a low-priority compound. The nitro group presents a structural dead-end that prevents further medicinal chemistry optimization. No particularly dangerous effects reported, but the consistent underperformance should be noted. The high dosage requirement (100–150 mg) compared to most other 2C compounds means larger amounts of material must be consumed, which is a practical disadvantage.
 
 ## See Also
 
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

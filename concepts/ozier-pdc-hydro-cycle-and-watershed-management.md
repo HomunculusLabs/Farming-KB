@@ -1,15 +1,12 @@
 ---
-title: Hydro Cycle and Watershed Management
+title: ozier pdc hydro cycle and watershed management and Watershed Management
 created: 2026-04-28
-tags: [[permaculture, hydro-cycle, watershed, water-harvesting, 
-infiltration, evaporation, condensation, precipitation, runoff, 
-aquifer, subsurface-flow, erosion, deforestation, desertification]
+tags: [permaculture, hydro-cycle, watershed, water-harvesting, infiltration, evaporation, condensation, precipitation, runoff, aquifer, subsurface-flow, erosion, deforestation, desertification]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-
 # Hydro Cycle and [[water-management]].
 
 ### The Role of Animals
@@ -113,3 +110,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[pdc-hydro-cycle-and-watershed-management]]

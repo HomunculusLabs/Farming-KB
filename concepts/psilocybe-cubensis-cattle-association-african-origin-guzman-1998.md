@@ -1,5 +1,5 @@
 ---
-title: Psilocybe cubensis Cattle Association and Probable African Origin
+title: brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting Cattle Association and Probable African Origin
 created: 2026-05-06
 tags:
   - psilocybe
@@ -28,7 +28,7 @@ dung of large herbivores, particularly cattle (Bos taurus and Bos indicus).
 
 ## Taxonomic Context
 
-P. cubensis was originally described as Stropharia cubensis by Earle in 1906
+P. cubensis was originally described as [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] by Earle in 1906
 from Cuba. Singer later transferred it to Psilocybe. The species has accumulated
 numerous synonyms over the years, including Stropharia subcyanescens Rick, S.
 cyanescens Murrill, and Stropharia caerulescens (Pat.) Singer. It is a robust,
@@ -46,7 +46,7 @@ extraordinary range of tropical and subtropical locations:
 - Caribbean: Cuba, Jamaica, Puerto Rico, Trinidad, Dominican Republic, Martinique
 - South America: Colombia, Venezuela, Ecuador, Peru, Brazil, Bolivia, Argentina,
   French Guiana
-- Africa: Kenya (with some taxonomic confusion involving P. aquamarina)
+- Africa: Kenya (with some [[neurotropic-fungi-taxonomic-confusion-and-identification]] involving P. aquamarina)
 - Asia: Thailand, Vietnam, India, Sri Lanka, Nepal (tentative), Philippines,
   Indonesia (Java, Sumatra), Malaysia
 - Australasia: Australia (eastern), Tasmania, New Zealand
@@ -85,7 +85,7 @@ Spanish colonial period. The reasoning follows several lines of evidence:
    America) during the 16th through 19th centuries. It is plausible that
    spore-contaminated cattle or fodder carried the fungus across the Atlantic.
 
-4. **Current pantropical distribution**: The species is most diverse and
+4. **Current [[copelandia-cyanescens-pantropical-distribution-and-ecology]]**: The species is most diverse and
    abundant in precisely those tropical regions connected by historical trade
    routes.
 
@@ -137,9 +137,9 @@ biogeography of neurotropic fungi.
 ## See Also
 
 - [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
-- [[psilocybe-cubensis-distribution-and-ecology]]
+- psilocybe-cubensis-distribution-and-ecology
 - [[psilocybe-zapotecorum]]
 - [[copelandia-cyanescens]]
 - Neurotropic Fungi Diversity and Vegetation Types
-- Mycological Exploration Bias and Underexplored Regions
-- Cosmopolitan and Endemic Neurotropic Species
+- [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]] Bias and Underexplored Regions
+- Cosmopolitan and [[guzman-allen-gartz-cosmopolitan-and-endemic-neurotropic-species]] Species

@@ -16,11 +16,11 @@ sources:
 
 # Gliocladium roseum
 
-Gliocladium roseum is a destructive mycoparasitic hyphomycete known for its capacity to attack and kill a wide range of fungal hosts. First described by Barnett and Lilly (1962) as a destructive mycoparasite, it has been investigated extensively for its potential in biological control of plant diseases and for its production of bioactive secondary metabolites.
+Gliocladium roseum is a destructive mycoparasitic hyphomycete known for its capacity to attack and kill a wide range of fungal hosts. First described by Barnett and Lilly (1962) as a destructive mycoparasite, it has been investigated extensively for its potential in [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] of plant diseases and for its production of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]].
 
 ## Taxonomy and Classification
 
-G. roseum is an anamorphic fungus (hyphomycete) classified among the mycoparasitic fungi. The genus Gliocladium is characterized by its penicillate conidiophores with slimy conidial heads, distinguishing it from the dry-spored Penicillium. Taxonomic revisions have placed some Gliocladium species in synonymy with Clonostachys, reflecting the recognition that many Gliocladium species represent the anamorphic states of teleomorphic Clonostachys species. However, G. roseum continues to be widely referenced under its original name in the mycoparasitism and biocontrol literature.
+G. roseum is an anamorphic fungus (hyphomycete) classified among the mycoparasitic fungi. The genus Gliocladium is characterized by its penicillate conidiophores with slimy conidial heads, distinguishing it from the dry-spored Penicillium. Taxonomic revisions have placed some Gliocladium species in synonymy with Clonostachys, reflecting the recognition that many Gliocladium species represent the anamorphic states of teleomorphic Clonostachys species. However, G. roseum continues to be widely referenced under its original name in the [[fungal-mycoparasitism-and-biocontrol-interactions]] literature.
 
 ## Mycoparasitic Activity
 
@@ -36,11 +36,11 @@ The destructive nature of its mycoparasitism distinguishes G. roseum from biotro
 
 - Antagonistic activity of G. roseum against V. dahliae in controlled conditions
 - Potential for formulation as a soil-applied biocontrol agent
-- Compatibility with integrated pest management approaches
+- Compatibility with [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management approaches
 
 ### General Verticillium Antagonism
 
-G. roseum shows general antagonism against Verticillium species, suggesting broader applicability against multiple Verticillium wilt pathogens including V. albo-atrum and other species that cause vascular wilt diseases in agricultural crops.
+G. roseum shows general antagonism against Verticillium species, suggesting broader applicability against multiple Verticillium wilt pathogens including V. albo-atrum and other species that cause [[cervantes-fusarium-vascular-wilt-diseases]] diseases in agricultural crops.
 
 ## Growth Characteristics and Formulation
 
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: Grafting vs Budding Fruit Trees
+title: Grafting vs comparison grafting vs budding fruit trees Trees
 created: 2026-04-28
 tags: grafting, budding, fruit-trees, propagation, plant-propagation, orcharding
 date: 2026-04-28
@@ -17,7 +17,7 @@ type: comparison
 | Rootstock condition | Dormant or just beginning growth | Active growth (bark slipping) |
 | Skill level | Moderate to high | Low to moderate |
 | Scion wood needed | 15–30 cm per graft | 1 bud per union |
-| Time per union | 2–5[[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]] ith skill) | 80–98% (with skill) |
+| Time per union | 2–5 ith skill) | 80–98% (with skill) |
 | Best for | Top-working mature trees, changing varieties | Large-scale nursery production, beginner grafters |
 | Wind strength | Strong (if whip-and-tongue) | Moderate (needs protection) |
 
@@ -62,7 +62,7 @@ A T-shaped cut is made in the rootstock bark, and a bud shield is slid underneat
 
 - **When:** Mid-summer to early autumn (bark must be slipping)
 - **Best for:** Nearly all fruit trees — stone fruits (peach, plum, cherry) especially well-suited
-- **Advantage:** Fast; uses minimal budwood; very high success rate (90%+); easy to learn
+- **Advantage:** Fast; uses minimal budwood; very high [[maitake-fruiting-body-success-rate-management]] (90%+); easy to learn
 - **Disadvantage:** Only works during active growth; bud must remain dormant until spring
 
 ### Chip Budding

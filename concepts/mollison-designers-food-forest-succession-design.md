@@ -1,5 +1,5 @@
 ---
-title: Food Forest Succession Design
+title: Food mollison designers food forest succession design Design
 created: 2026-04-28
 tags:
   - permaculture
@@ -26,9 +26,9 @@ allows the designer to accelerate the development of productive food forests.
 ## The Seven Layers of a Food Forest
 
 Mollison identifies multiple vertical layers in a mature food forest: a tall
-canopy of large trees, a lower canopy of smaller fruit and nut trees, a shrub
+canopy of large trees, a lower canopy of smaller fruit and [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]], a shrub
 layer of berries and fruiting bushes, a herbaceous layer of perennial herbs
-and vegetables, a ground cover layer of creeping plants, a root layer of
+and vegetables, a [[fukuoka-citrus-orchard-ground-cover-cultivation]] layer of creeping plants, a root layer of
 edible tubers and bulbs, and a vine layer climbing through all other layers.
 Each layer occupies a different niche for light, water, and nutrients, and
 together they capture available resources far more efficiently than any single-
@@ -43,7 +43,7 @@ systems into broader farm landscapes.
 
 ## See Also
 
-- [[succession-in-permaculture]] covers the broader permaculture framework of ecological succession that underpins food forest design strategies.
+- succession-in-permaculture covers the broader permaculture framework of [[holmgren-ecological-succession-and-pulsing]] that underpins food [[comparison-food-forest-design-vs-backyard-orchard-design]] strategies.
 
 [[pdc-food-forest-layers-and-succession]] provides a PDC-level summary of the seven-layer model and successional phases for food forest establishment.
 
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

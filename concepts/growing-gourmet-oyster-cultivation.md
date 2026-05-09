@@ -1,5 +1,5 @@
 ---
-title: Oyster Cultivation (Growing Gourmet & Medicinal Mushrooms)
+title: gourmet-medicinal-mushroom-oyster-cultivation-methods (Growing Gourmet & comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive)
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
@@ -12,7 +12,7 @@ sources:
 ---
 # Oyster Mushroom Cultivation
 
-Oyster mushrooms of the genus Pleurotus are described by Paul Stamets as "by far the easiest and least expensive to grow." They demonstrate unparalleled adaptability, aggressiveness, and productivity among cultivated mushrooms, growing on a wider array of forest and agricultural wastes than any other mushroom group.
+[[query-how-to-grow-oyster-mushrooms-at-home]] of the genus Pleurotus are described by Paul Stamets as "by far the easiest and least expensive to grow." They demonstrate unparalleled adaptability, aggressiveness, and productivity among [[fungi-cultivated-mushrooms-pathogens-competitors]], growing on a wider array of forest and agricultural wastes than any other mushroom group.
 
 ## Introduction
 
@@ -39,7 +39,7 @@ Oyster mushrooms achieve some of the highest biological efficiencies among culti
 - 20% remaining as spent compost
 - 10% converted into dry mushrooms
 
-This translates to roughly a 25% conversion of wet substrate mass into fresh mushrooms. Yield is significantly affected by harvest timing and stage.
+This translates to roughly a 25% conversion of wet substrate mass into fresh mushrooms. Yield is significantly affected by [[cannabis-harvest-timing-visual-cues]] and stage.
 
 ## Nutritional Profile
 
@@ -53,7 +53,7 @@ On a dry weight basis, Oyster mushrooms contain 15-35% protein and significant q
 - Duration: 10-14 days
 - CO2: 5,000-20,000 ppm
 - Fresh Air Exchanges: 1-2 per hour
-- Light Requirements: none
+- [[growing-gourmet-light-requirements-mushroom-fruiting]]: none
 
 ### Primordia Formation
 - Initiation Temperature: 70-80F (21-27C)
@@ -108,8 +108,10 @@ Spent Oyster substrate has multiple valuable uses:
 
 ## See Also
 
+- [[growing-gourmet-tarragon-oyster-euosmus-cultivation]]
+
 - [[oyster-mushroom-species-guide]]
-- [[oyster-mushroom-strain-selection-guide]]
+- oyster-mushroom-strain-selection-guide
 - [[growing-gourmet-substrate-preparation]]
 - [[growing-gourmet-fruiting-parameters]]
 - [[growing-gourmet-harvesting-storage]]

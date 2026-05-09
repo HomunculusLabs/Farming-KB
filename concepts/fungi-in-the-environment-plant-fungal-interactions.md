@@ -3,15 +3,10 @@ title: Fungi in the Environment - Plant-Fungal Interactions
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
 ---
-
-# Plant-Fungal Interactions in the Environment
-
-Fungal interactions with plants represent some of the most ecologically significant relationships in terrestrial ecosystems.
-
-These range from mutualistic mycorrhizal associations and [[arbuscular-mycorrhizal-fungi]] (AM fungi) and ericoid mycorrhizas.
+# Plant-Fungal Interactions in the Environment Fungal interactions with plants represent some of the most ecologically significant relationships in terrestrial ecosystems. These range from mutualistic mycorrhizal associations and [[arbuscular-mycorrhizal-fungi]] (AM fungi) and ericoid mycorrhizas.
 
 - **Ectomycorrhizas**: The fungus is located outside the root cells of the host plant, forming a Hartig net between cortical cells and a hyphal mantle around the root.
 
@@ -21,9 +16,9 @@ AM fungi form an ancient association with plants, distributed widely across the 
 
 In the AM symbiosis, the plant receives all of its phosphorus via the fungus, while the fungus receives carbon from the plant. Development of the AM symbiosis is intricate, involving coordinated molecular signalling between both partners.
 
-The AM symbiosis is characterized by a reciprocal exchange of plant carbohydrate in return for soil nutrients absorbed by the fungi. Genomic studies have revealed that numerous plant genes are regulated during the symbiosis, including those involved in nutrient transport, cell wall modification, and defence responses. The [[symbiotic-fungi-ectomycorrhizal-network-carbon-trading]] (EM fungi) are dominant in forest ecosystems, where they play critical roles in nutrient cycling and carbon storage.
+The AM symbiosis is characterized by a reciprocal exchange of plant carbohydrate in return for soil nutrients absorbed by the fungi. Genomic studies have revealed that numerous plant genes are regulated during the symbiosis, including those involved in [[mycelial-network-nutrient-transport-imaging-gadd]], cell wall modification, and defence responses. The [[symbiotic-fungi-ectomycorrhizal-network-carbon-trading]] (EM fungi) are dominant in forest ecosystems, where they play critical [[dighton-fungal-roles-in-nutrient-cycling]] cycling and carbon storage.
 
-They form extensive extramatrical mycelial networks that connect individual trees and transfer nutrients between them. EM fungi have been shown to dissolve soil minerals, mobilize phosphorus, and influence tree species composition through their effects on nutrient availability. These [[entomopathogenic-fungal-diversity-cordyceps-insect-pathogens]] in agriculture.
+They form extensive extramatrical [[fungal-mycelial-networks-nutrient-translocation]] that connect individual trees and transfer nutrients between them. EM fungi have been shown to dissolve soil minerals, mobilize phosphorus, and influence tree species composition through their effects on [[ph-and-nutrient-availability-garden-soils]]. These [[entomopathogenic-fungal-diversity-cordyceps-insect-pathogens]] in agriculture.
 
 ### Nematode-Trapping Fungi
 
@@ -31,7 +26,7 @@ They form extensive extramatrical mycelial networks that connect individual tree
 
 ## Endophytic Fungi
 
-[[fungal-community-ecology]] is substantial but often underestimated.
+fungal-community-ecology is substantial but often underestimated.
 
 ## Fungal Pathogens and Crop Loss
 
@@ -47,7 +42,7 @@ Plant pathogenic fungi cause enormous economic losses in agriculture worldwide. 
 
 Understanding these strategies at the molecular level is essential for developing targeted [[arbuscular-mycorrhizal-network-visualization-anastomosis]] can improve crop nutrient uptake, especially on phosphorus-limited soils.
 
-- Understanding [[singh-endophytic-fungi-plant-protection-mechanisms]] offer potential for biocontrol and stress tolerance enhancement.
+- Understanding [[singh-endophytic-fungi-plant-protection-mechanisms]] offer potential for biocontrol and [[fungal-lichen-stress-tolerance-and-poikilohydry]] enhancement.
 
 - Mycorrhizal associations can reduce fertilizer requirements, with important implications for [[insect-fungi-interactions]]
 
@@ -70,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,3 +108,8 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[fungi-in-the-environment-fungal-soil-aggregation-structure]]
+
+- [[fungi-in-the-environment-fungal-radionuclide-interactions]]

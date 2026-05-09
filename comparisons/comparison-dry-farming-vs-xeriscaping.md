@@ -1,23 +1,24 @@
 ---
-title: "Dry Farming vs Xeriscaping"
+title: "comparison dry farming vs xeriscaping vs Xeriscaping"
 created: 2026-04-28
 tags: [comparison, water-management, drought, gardening]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 # Dry Farming vs Xeriscaping
 
-Both dry farming and xeriscaping address the challenge of growing plants with
+Both [[query-what-is-dry-farming-and-how-does-it-work]] xeriscaping address the challenge of growing plants with
 minimal water, but they serve fundamentally different purposes. Dry farming is
 a food-production strategy, while xeriscaping is primarily a landscaping
-philosophy. Understanding their distinct approaches helps you choose the right
+philosophy. Understanding their distinct approaches helps you [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]]
 method for your climate, goals, and available resources.
 
 ## Overview
 
-**Dry Farming**, as developed and popularized by [[solomon-watering-and-dry-farming]] for detailed dry farming techniques
+**Dry Farming**, as developed and popularized by [[solomon-watering-and-dry-farming]] for detailed dry [[holzer-alpine-farming-techniques]]
 - [[comparison-xeriscaping-vs-drought-gardening]]
 - [[comparison-drip-irrigation-vs-passive-irrigation]]
 ## Practical Applications
@@ -37,7 +38,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -87,7 +88,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -97,4 +98,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

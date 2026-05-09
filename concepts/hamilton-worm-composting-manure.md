@@ -1,5 +1,5 @@
 ---
-title: Worm Composting and Manure in Organic Gardening
+title: hamilton worm composting manure and Manure in hamilton-geoffhamilton-nick-organic-gardening-companion-planting
 created: 2026-04-28
 tags: [worms, composting, manure, organic-gardening, hamilton]
 date: 2026-04-25
@@ -19,10 +19,10 @@ conditioners available to the organic gardener.
 
 ## The Effects of Worms on Soil
 
-Worms feed mainly on organic matter and, in the process, break the
+Worms feed mainly on [[hamilton-composting-and-organic-matter-management]] and, in the process, break the
 waste down and eject it in the form of pellets. These small pellets
 are coated with a gel which holds them together. The resulting crumb
-structure helps to improve soil drainage and aeration, providing a
+structure helps to [[query-how-do-i-improve-soil-drainage-in-my-garden]] and aeration, providing a
 superior environment for root growth.
 
 The pellets not only change nutrients into a form readily available to
@@ -84,7 +84,7 @@ Worms work through almost anything from grass cuttings to kitchen
 scraps and even soaked newspapers, provided they are used in
 moderation. As with the compost heap, do not use too much of any one
 thing on its own; mix everything together. Never put more than an inch
-of material onto the heap in a week. Animal manure can be added on its
+of material onto the heap in a week. [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] can be added on its
 own.
 
 ## Managing the Wormery
@@ -101,7 +101,7 @@ it to be too wet than too dry.
 Green manure crops are an excellent way to add organic matter to the
 soil. Sown primarily to be dug back into the soil, they add nutrients
 and improve soil structure. Mustard, for example, can be sown as a
-quick-maturing cover crop in vacant areas of the vegetable plot,
+quick-maturing [[coleman-cover-crop-rotation-and-soil-health]] in vacant areas of the vegetable plot,
 particularly useful in winter on light soils. See
 [[hamilton-organic-fertilizers-and-plant-nutrition]] for
 nutrient content details of different manures.

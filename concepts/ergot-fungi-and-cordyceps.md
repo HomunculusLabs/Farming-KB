@@ -3,13 +3,10 @@ title: ergot fungi and cordyceps
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [[mycology, ergot, cordyceps, alkaloids, neurotropic]
+tags: [mycology, ergot, cordyceps, alkaloids, neurotropic]
 sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
-# Ergot Fungi and Cordyceps
-
-Ergot fungi (genus *Claviceps*) and their relatives in the genus
-*Cordyceps* represent a distinct category [[ergot-alkaloids-eleusinian-mysteries]] rather than [[lsd-synthesis-history]]. See also
+# Ergot Fungi and Cordyceps Ergot fungi (genus *Claviceps*) and their relatives in the genus *Cordyceps* represent a distinct category [[ergot-alkaloids-eleusinian-mysteries]] rather than [[lsd-synthesis-history]]. See also
 [[neurotropic-fungi-of-mexico]].
 
 ## The Ergot Group: Claviceps Species
@@ -30,7 +27,7 @@ Ergot fungi produce a complex mixture of alkaloid compounds including:
 - **Ergotamine** — a vasoconstrictor used medicinally to treat migraine
 - **Ergometrine (ergonovine)** — used to control postpartum hemorrhage
 - **Ergocristine, ergocryptine, ergocornine** — the ergotoxine group
-- **Lysergic acid** — the core chemical structure from which LSD-25
+- **[[ergot-and-lysergic-acid-history]]** — the core chemical structure from which LSD-25
   ([[ergot-fungi-and-ergotism-claviceps-purpurea]] urea* sclerotia.
 The condition manifested in two forms:
 
@@ -56,7 +53,7 @@ Two species of *Cordyceps* are considered neurotropic:
 - ***Cordyceps capitata*** — parasitizes *Elaphomyces* truffles
 - ***Cordyceps ophioglossoides*** — also parasitizes truffle species
 
-These species are closely related taxonomically to *Claviceps purpurea*
+These species are closely related taxonomically to *[[bloomfield-ergot-claviceps-purpurea-ergotism]]*
 and are used in traditional ceremonies by indigenous peoples in Mexico,
 particularly in the Nevado de Toluca region. They are consumed together
 with *[[psilocybe-muliercula]]* or alone in special nocturnal ceremonies.
@@ -74,7 +71,7 @@ However, Hofmann (in Heim and Wasson, 1958) did not find indoles in
 *Cordyceps capitata* and *C. ophioglossoides* specimens that had been
 gathered in a popular market in Mexico and preserved for a long time.
 This is likely because the active compounds degrade over time, as has
-been demonstrated in other neurotropic fungi.
+been demonstrated in other [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].
 
 ## Elaphomyces and Traditional Medicine
 
@@ -102,9 +99,9 @@ with age, as confirmed by Ohenoja et al. (1987) in herbarium specimens.
 ## Distinction from Psilocybin-Containing Fungi
 
 Ergot and Cordyceps fungi are classified separately from psilocybin-
-containing mushrooms in the four-group system of Guzmán, Allen, and
+[[psilocybin-containing-mushrooms-in-us]] in the four-group system of Guzmán, Allen, and
 Gartz. Group 1 contains psilocybin and related indoles; Group 2
-contains ibotenic acid species (*Amanita muscaria*, *A. pantherina*, *A.
+contains ibotenic acid species (*[[allegro-amanita-muscaria-properties-and-pharmacology]]*, *A. pantherina*, *A.
 regalis*); Group 3 contains ergot fungi (*Claviceps* and *Cordyceps*);
 and Group 4 contains species used as sacred fungi without reliable
 chemical confirmation.
@@ -112,5 +109,5 @@ chemical confirmation.
 The ergot alkaloids are chemically distinct from the tryptamine-based
 compounds (psilocybin, psilocin, baeocystin) found in *Psilocybe* and
 related genera. While both groups produce psychoactive effects, their
-pharmacological profiles, chemical structures, and historical impacts
+pharmacological profiles, [[plants-of-the-gods-chemical-structures-hallucinogens]], and historical impacts
 differ significantly.

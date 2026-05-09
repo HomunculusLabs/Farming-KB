@@ -1,11 +1,11 @@
 ---
-title: Cannabis Clone Rooting and Transplanting
+title: Cannabis cannabis clone rooting and transplanting and Transplanting
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 
 Updated: 2026-04-18
@@ -68,13 +68,13 @@ Work quickly to minimize air exposure at the cut surface. Use a clean, sharp bla
 
 - **Temperature**: 70-80°F (21-27°C)
 
-- **Light**: Low-intensity fluorescent or CFL (no strong HID lighting)
+- **Light**: Low-intensity fluorescent or CFL (no strong [[cannabis-hid-lighting-specifications]])
 
 - **No nutrients** in the water until roots are established
 
 ## Troubleshooting Rooting Problems
 
-Wilting after 24 hours usually indicates the cutting cannot transpire fast enough — increase humidity. Yellowing leaves are normal as the cutting uses stored energy; remove severely yellowed leaves. Slime or mold on the stem indicates fungal infection — reduce humidity, improve ventilation, and consider a mild hydrogen peroxide treatment. If roots do not appear after 21 days, the cutting has likely failed — discard and try again with a fresh cutting.
+Wilting after 24 hours usually indicates the cutting cannot transpire fast enough — increase humidity. Yellowing leaves are normal as the cutting uses stored energy; remove severely yellowed leaves. Slime or mold on the stem indicates fungal infection — reduce humidity, improve ventilation, and consider a mild [[cervantes-hydrogen-peroxide-sterilization]] treatment. If roots do not appear after 21 days, the cutting has likely failed — discard and try again with a fresh cutting.
 
 ## Transplanting
 
@@ -104,7 +104,7 @@ Once roots emerge from the bottom of the rooting medium (1-2 inches long):
 
 ## Common Mistakes
 
-Overwatering is the most common cloning mistake — keep the medium moist but not saturated. Using nutrients too early burns delicate new roots. Exposing clones to strong light before rooting causes stress and wilting. Removing the humidity dome too quickly causes transplant shock. Taking cuttings from unhealthy or stressed mother plants leads to weak clones.
+Overwatering is the most common cloning mistake — keep the medium moist but not saturated. Using nutrients too early burns delicate new roots. Exposing clones to strong light before rooting causes stress and wilting. Removing the humidity dome too quickly causes [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]]. Taking cuttings from unhealthy or stressed mother plants leads to weak clones.
 
 ## Equipment Recommendations
 

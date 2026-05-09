@@ -5,6 +5,7 @@ tags: [comparison, hugelkultur, terracing, earthworks, slope-management]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 type: comparison
 ---
@@ -15,7 +16,7 @@ type: comparison
 
 Hugelkultur and terracing are two earthwork techniques popularized by Sepp
 Holzer for managing sloped terrain in productive agriculture. Hugelkultur
-builds raised mounds from woody debris and organic matter, while terracing
+builds raised mounds from [[fungal-succession-woody-debris-ecology]] and [[hamilton-composting-and-organic-matter-management]], while terracing
 reshapes slopes into level growing surfaces. Both conserve water and
 reduce erosion, but they differ fundamentally in construction approach,
 scale, and long-term behavior.
@@ -35,7 +36,7 @@ land that would otherwise be uncultivable.
 Terraces prevent erosion by eliminating the primary cause: water
 accelerating down a slope. By creating level surfaces, they allow water to
 percolate into the soil at a natural rate. The retaining structures also
-create microclimates; south-facing terrace walls absorb heat during the
+[[query-how-do-i-create-microclimates-in-my-garden]]; south-facing terrace walls absorb heat during the
 day and radiate it at night, extending growing conditions for heat-loving
 crops. Holzer often integrates ponds at various elevations within
 terraced landscapes for additional water storage and climate moderation.
@@ -66,7 +67,7 @@ space suitable for orchards, annual crops, and grazing systems.
 
 Hugelkultur is ideal when you have abundant woody debris from tree
 pruning, land clearing, or storm cleanup and want to convert that waste
-into productive growing space. It suits homesteaders and gardeners
+into productive [[cotter-growing-space-design-fruiting-rooms]]. It suits homesteaders and gardeners
 working on gentle to moderate slopes who want a low-cost, hand-built
 approach. The technique is especially valuable in arid and semi-arid
 regions where moisture retention is critical, as the woody core can
@@ -92,7 +93,7 @@ benefits future generations.
 Choose terracing for whole-landscape water management on hilly properties.
 Integrating terraces with ponds, swales, and access roads creates
 comprehensive water-harvesting systems that transform degraded hillsides
-into resilient agricultural ecosystems. This approach suits farms,
+into resilient [[fungi-grassland-agricultural-ecosystems-dighton]]. This approach suits farms,
 permaculture sites, and restoration projects operating at landscape scale
 with access to earth-moving machinery.
 
@@ -110,4 +111,4 @@ that outperforms either technique alone.
 
 - [[hugelkultur]]
 - [[swale-design]]
-- [[mollison-designers-terracing-slope-stabilization]]
+- mollison-designers-terracing-slope-stabilization

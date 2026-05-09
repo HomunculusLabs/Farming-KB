@@ -1,10 +1,11 @@
 ---
-title: "What Are Permaculture Zones and How Do I Use Them?"
+title: "What Are query what are permaculture zones and how do i use them and How Do I Use Them?"
 created: 2026-04-28
 tags: [query, permaculture, zone-planning, site-design, permaculture-principles]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: query
 ---
@@ -14,14 +15,14 @@ type: query
 ## Short Answer
 
 Permaculture zones are a land-use planning system that organizes a property into five concentric areas based on frequency of use and maintenance needs.
-Zone 0 is the house, Zone 1 is the intensive garden right outside, and Zone 5 is the unmanaged wilderness at the edges.
+Zone 0 is the house, Zone 1 is the [[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]] right outside, and Zone 5 is the unmanaged wilderness at the edges.
 This system ensures that high-maintenance elements are placed close to where you walk daily, reducing wasted time and energy.
 
 ## Understanding the Zone System
 
 The zone model was developed by Bill Mollison and David Holmgren as a practical tool for efficient site design.
 The core principle is simple: place the things you visit most often closest to your home.
-The [[permaculture-zones-system]] resource offers a comprehensive overview of how zones interact with each other.
+The permaculture-zones-system resource offers a comprehensive overview of how zones interact with each other.
 Zones are not rigid circles; they are organic and shaped by topography, access paths, microclimate, and existing features.
 They can even be elongated along pathways or split by property boundaries and waterways.
 A well-designed zone layout reduces daily labor while maximizing productivity and ecological function.
@@ -29,27 +30,27 @@ A well-designed zone layout reduces daily labor while maximizing productivity an
 ## Zone 0 and Zone 1: The Intensive Zones
 
 Zone 0 is your home, including indoor spaces, greenhouse, and immediate outdoor living areas.
-The [[permaculture-zone-one-planning-and-techniques]] guide details what belongs in this high-traffic area.
+The permaculture-zone-one-planning-and-techniques guide details what belongs in this high-traffic area.
 Zone 1 typically contains herb gardens, salad greens, seedling propagation areas, and frequently harvested vegetables.
 Compost bins, worm farms, and small animal systems like quail or rabbits also fit well in Zone 1.
-The [[mollison-zone-planning-frequency-distance-and-placement]] page explains the visit frequency model in detail.
+The mollison-zone-planning-frequency-distance-and-placement page explains the visit frequency model in detail.
 Zone 3 is for broad-scale farming, large orchards, pastures, and field crops that need only weekly or seasonal attention.
 Commercial food production, main crop rotations, and large animal grazing systems belong in Zone 3.
 The [[zone-sector-analysis-guide]] page explains how zones relate to broader landscape analysis.
-Zone 5 provides ecological services like pollination, pest control, and genetic diversity that flow inward.
+Zone 5 provides ecological services like pollination, [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], and genetic diversity that flow inward.
 Observing Zone 5 teaches designers how natural ecosystems function and what species thrive locally.
 Many permaculture designers consider Zone 5 the most important zone because it provides the ecological intelligence for all the others.
-The [[permaculture-zone-and-sector-planning]] page demonstrates how to combine both frameworks.
-The [[mollison-course-zone-planning-and-design]] page offers Mollison's original zone planning methodology.
-The [[permaculture-zone-design]] page provides templates for different property sizes and shapes.
+The  page demonstrates how to combine both frameworks.
+The [[mollison-course-zone-planning-and-design]] page offers Mollison's original [[mollison-course-zone-planning-and-design]] methodology.
+The permaculture-zone-design page provides templates for different property sizes and shapes.
 Zone boundaries should be flexible and adjusted as your needs and the landscape evolve over time.
 Remember that zones are a design tool, not a rigid rule set, and should serve your specific context and lifestyle.
 The best zone plan is one that reduces your workload while increasing your harvest and ecological benefits.
 
 ## Key Points
 - Permaculture zones organize land use by frequency of visit to minimize wasted energy and effort
-- [[permaculture-zone-one-planning-and-techniques]] covers the intensive garden area closest to your home
-- [[permaculture-zone-and-sector-planning]] shows how zones integrate with sector analysis
+- permaculture-zone-one-planning-and-techniques covers the intensive garden area closest to your home
+- [[permaculture-zone-and-sector-planning]] shows how zones integrate with [[mollison-designers-sector-analysis-wind-sun-fire]]
 - [[query-what-are-permaculture-earthworks-and-how-do-i-plan-them]]
 
 - [[query-how-to-design-a-permaculture-property-from-scratch]]
@@ -71,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,3 +115,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[query-what-are-biofertilizers-and-how-do-i-use-them]]

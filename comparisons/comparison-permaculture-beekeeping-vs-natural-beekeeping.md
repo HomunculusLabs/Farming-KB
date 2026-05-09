@@ -1,11 +1,12 @@
 ---
-title: "Permaculture Beekeeping vs Natural Beekeeping"
+title: "comparison permaculture beekeeping vs natural beekeeping vs comparison-natural-beekeeping-vs-standard-beekeeping"
 created: 2026-04-28
 tags: [comparison, beekeeping, permaculture, pollination, sustainable-agriculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/sepp-holzer-practical-guide.md"
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
 
@@ -15,7 +16,7 @@ type: comparison
 
 Permaculture beekeeping and natural beekeeping share the fundamental goal of working
 with bees as partners rather than exploiting them as industrial commodities. Both
-emerged as responses to conventional practices that prioritize honey production over
+emerged as responses to conventional practices that prioritize [[mollison-designers-beekeeping-honey-production-permaculture]] over
 colony health. However, they differ in primary focus: permaculture beekeeping
 emphasizes integration of bees into whole-system design with deliberate forage
 planning and hive placement for pollination, while natural beekeeping prioritizes
@@ -60,8 +61,8 @@ than livestock to be managed for maximum production.
 | Hive Design | Standard Langstroth; placement-focused | Log, top-bar, or Warre hives preferred |
 | Intervention Level | Moderate; systematic seasonal management | Minimal; reduced inspections |
 | Honey Harvest | Significant yield expected | Leave sufficient for bees; lower yield |
-| Forage Design | Deliberate planning of 30+ species | Relies on natural and existing forage |
-| Supplemental Feeding | Acceptable when needed | Avoided; colonies should be self-sufficient |
+| [[free-range-poultry-forage-design-mollison]] | Deliberate planning of 30+ species | Relies on natural and existing forage |
+| [[savory-supplemental-feeding-and-winter-management]] | Acceptable when needed | Avoided; colonies should be self-sufficient |
 | Comb Building | Foundation frames generally accepted | Natural comb strongly preferred |
 | Typical Scale | Multiple hives serving system functions | Fewer hives at lower intensity |
 
@@ -81,13 +82,15 @@ Natural beekeeping is ideal for those prioritizing bee conservation over honey
 production. It suits landowners with abundant natural forage who want to support
 pollinator populations with minimal intervention. It is particularly appropriate
 where pesticide exposure is a concern, as stronger colonies resist disease and
-environmental stressors better. Natural beekeeping aligns with [[top-bar-hive]] within permaculture zones allows natural
+environmental stressors better. Natural beekeeping aligns with [[top-bar-hive]] within [[query-what-are-permaculture-zones-and-how-do-i-use-them]] allows natural
 comb building while benefiting from systematic placement. The key insight from both
 is that healthy bees are more productive bees: minimal intervention, adequate honey
 reserves, and natural comb improve long-term viability of any apiary regardless of
 management philosophy.
 
 ## See Also
+
+- [[comparison-natural-beekeeping-vs-standard-beekeeping]]
 
 - [[beekeeping-basics]]
 - [[bee-forage-plants]]

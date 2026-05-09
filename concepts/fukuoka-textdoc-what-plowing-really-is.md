@@ -1,5 +1,5 @@
 ---
-title: What Plowing Really Is - Critique of Tillage
+title: What fukuoka textdoc what plowing really is Is - Critique of Tillage
 created: 2026-04-28
 tags: [no-tillage, soil-critique, plowing, natural-soil, philosophy]
 date: 2026-04-28
@@ -17,7 +17,7 @@ practice: plowing the soil. His critique goes beyond the practical
 
 By killing the soil with plow and chemical fertilizer, and rotting the roots
 through heavy weeding, man creates the conditions that make further plowing
-appear necessary. The cycle becomes self-reinforcing: tillage destroys soil
+appear necessary. The cycle becomes self-reinforcing: [[fukuoka-why-tillage-destroys-soil]] soil
 structure, which reduces fertility, which seems to require more tillage to
 remedy.
 
@@ -65,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

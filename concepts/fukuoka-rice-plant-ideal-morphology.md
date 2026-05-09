@@ -1,10 +1,11 @@
 ---
-title: "Ideal Rice Plant Morphology and Natural Form"
+title: "fukuoka-ideal-rice-plant-form-dimensions-high-yield Plant Morphology and Natural Form"
 created: 2026-04-28
 tags: [rice, plant-morphology, high-yield, natural-farming, tillering, panicle-structure]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [~/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
@@ -21,7 +22,7 @@ attainable. True high yields come about through the spirited
 activity of nature, never apart from nature. Attempts to increase
 production in an unnatural environment invariably result in a
 deformed and inferior crop. The three-dimensional utilization of
-space by rice, green manure, and soil organisms together captures
+space by rice, [[comparison-green-manure-guide-vs-mulch-types-and-effects]], and soil organisms together captures
 more total energy than rice monoculture ever could, even when
 measured purely by grain output per unit area.
 
@@ -31,7 +32,7 @@ measured purely by grain output per unit area.
 - [[fukuoka-rice-and-barley-natural-farming]]
 ## Practical Applications
 
-Ideal Rice Plant Morphology and Natural Form has a range of practical applications that make it relevant to
+Ideal [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] and Natural Form has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -46,7 +47,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -96,7 +97,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -106,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

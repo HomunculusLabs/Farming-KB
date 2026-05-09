@@ -1,17 +1,18 @@
 ---
-title: Permaculture Mapping and Reading the Landscape
+title: Permaculture permaculture mapping and reading the landscape the Landscape
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, mapping, topography, contour, landscape-analysis, site-design, observation]
-sources: [raw/papers/bill-mollison-permaculture-design-course.md]
+sources: sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Permaculture Mapping and Reading the Landscape
 
 ## Overview
 
-Reading the landscape is the first and most essential skill in permaculture design. Before any design work begins, the designer must learn to observe and interpret the patterns, processes, and history written on the land. Mapping translates these observations into a usable design base.
+Reading the landscape is the first and most essential skill in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. Before any design work begins, the designer must learn to observe and interpret the patterns, processes, and history written on the land. Mapping translates these observations into a usable design base.
 
 ## Reading the Landscape
 
@@ -22,7 +23,7 @@ The landscape itself tells the story of its history and current health:
 - **Tree flagging and wind pruning** reveal prevailing wind directions and strength
 - **Erosion patterns** indicate water flow, soil instability, and past disturbance
 - **Vegetation types** indicate soil conditions, moisture levels, and microclimates
-- **Soil color** reveals organic matter content, drainage, and mineral composition
+- **Soil color** reveals [[hamilton-composting-and-organic-matter-management]] content, drainage, and mineral composition
 - **Rock outcrops and stone placement** indicate geological history
 - **Animal trails and tracks** show movement patterns and wildlife corridors
 
@@ -39,7 +40,7 @@ Slope determines water movement, erosion potential, frost drainage, and access. 
 ### Contour Reading
 
 Contour lines connect points of equal elevation. Understanding contour is essential for:
-- Placing swales and water harvesting earthworks on contour
+- Placing swales and water [[pdc-water-harvesting-earthworks-design]] on contour
 - Designing access roads to follow contours (minimizing grade)
 - Understanding water flow and accumulation patterns
 - Planning terraces and garden beds on level ground
@@ -72,8 +73,8 @@ Sector maps overlay information about external energies and influences:
 Multiple transparent overlays can be used to analyze different factors:
 - Water flow and catchment
 - Microclimates (frost pockets, heat zones)
-- Access and circulation
-- Zone planning (Zone 0-5 placement)
+- [[permaculture-access-and-circulation-design]]
+- [[mollison-course-zone-planning-and-design]] (Zone 0-5 placement)
 - Soil types and conditions
 
 Each overlay isolates one factor for analysis before combining them into a final integrated design.
@@ -107,6 +108,8 @@ Understanding the watershed above and below your site is critical:
 - Field notebook for recording observations
 
 ## See Also
+
+- [[reading-the-landscape]]
 
 - [[permaculture-site-analysis]]
 - [[permaculture-design-methods]]

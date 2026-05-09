@@ -1,5 +1,5 @@
 ---
-title: Psilocybe tampanensis Profile
+title: sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana Profile
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
@@ -11,11 +11,11 @@ sources:
 
 ## Overview
 
-*Psilocybe tampanensis* is a rare psilocybin-containing mushroom originally collected from a sandy pasture near Tampa, Florida in 1977 by Steven Pollock and a colleague. It is most famous as the premier sclerotia-producing species -- the "philosopher's stones" sold in European smart shops are sclerotia of this species or [[sclerotia-cultivation]] for cultivation methods and [[grass-seed-substrate-preparation]] method:
+*Psilocybe tampanensis* is a rare psilocybin-containing mushroom originally collected from a sandy pasture near Tampa, Florida in 1977 by Steven Pollock and a colleague. It is most famous as the premier sclerotia-producing species -- the "philosopher's stones" sold in European smart shops are sclerotia of this species or [[sclerotia-cultivation]] for [[synthetic-log-cultivation-methods-guide]] and [[grass-seed-substrate-preparation]] method:
 - Colonizes in 5-20 days at 20°C
 - Sclerotia form in complete darkness or ambient light
 - Harvest at 3-4 months for maximum yield
-- No casing, no fruiting chamber, no light cycling required
+- No casing, no [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]], no light cycling required
 
 ### Fruiting Body Production
 
@@ -30,7 +30,7 @@ If mushroom production is desired:
 
 - Generally considered a more difficult species to fruit than *P. cubensis*
 - Some strains fruit more readily than others
-- The "Ecuador" cubensis strain mentioned in cultivation literature fruits easily without cold shock -- note this refers to *P. cubensis*, not *P. tampanensis*
+- The "Ecuador" [[oss-oeric-psilocybe-cubensis-strain-guide]] mentioned in cultivation literature fruits easily without cold shock -- note this refers to *P. cubensis*, not *P. tampanensis*
 - *P. tampanensis* and *P. mexicana* specifically do not benefit from cold-shocking
 
 ## Distribution
@@ -41,7 +41,7 @@ If mushroom production is desired:
 
 ## Relationship to Psilocybin Biosynthesis
 
-*P. tampanensis* was the subject of Niels Jensen's research on cloning enzymes from the [[shikimate-pathway-in-fungi]] origins of psilocybin production in fungi.
+*P. tampanensis* was the subject of Niels Jensen's research on cloning enzymes from the shikimate-pathway-in-fungi origins of [[gottlieb-psilocybin-production-extraction-methods]] in fungi.
 
 ## Distinguishing Features
 
@@ -55,7 +55,7 @@ If mushroom production is desired:
 
 - [[sclerotia-cultivation]] -- Detailed cultivation guide
 - [[grass-seed-substrate-preparation]] -- Preferred substrate
-- [[shikimate-pathway-in-fungi]] -- Metabolic pathway origins
+- shikimate-pathway-in-fungi -- Metabolic pathway origins
 - [[nutrient-lockout]] -- Discoverer of the species
 ## Practical Considerations
 
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

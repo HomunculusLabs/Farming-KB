@@ -2,7 +2,7 @@
 title: Paulownia tomentosa
 created: 2026-04-28
 type: species
-tags: permaculture, timber, nitrogen-fixing, agroforestry, fast-growing]
+tags: [permaculture], timber, nitrogen-fixing, agroforestry, fast-growing]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md]
@@ -16,16 +16,16 @@ building for lightweight components.
 
 ## Permaculture and Agroforestry Applications
 
-In permaculture design, Paulownia tomentosa serves multiple functions as a [[nitrogen-fixing-trees]] companion. As a nurse tree,
-its rapid growth and large canopy provide quick shade and wind protection for establishing
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], Paulownia tomentosa serves multiple functions as a [[nitrogen-fixing-trees]] companion. As a nurse tree,
+its rapid growth and large canopy provide quick shade and [[cervantes-wind-protection-outdoor-cannabis]] for establishing
 understory crops and slower-growing climax species. The large leaves decompose rapidly,
-contributing significant quantities of organic matter and nutrients to the soil surface.
+contributing significant quantities of [[hamilton-composting-and-organic-matter-management]] and nutrients to the soil surface.
 Leaf fall in autumn creates a thick mulch layer that suppresses weeds, moderates soil
 temperature, and improves moisture retention. The nutrient content of fallen paulownia
 leaves is relatively high, containing significant nitrogen, potassium, calcium, and
 magnesium.
 
-Paulownia is noted for its strong [[paul-wheaton]]
+Paulownia is noted for its strong paul-wheaton
 ## Practical Applications
 
 Paulownia tomentosa has a range of practical applications that make it relevant to
@@ -103,4 +103,5 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[permaculture]]

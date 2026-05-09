@@ -1,9 +1,9 @@
 ---
-title: Phytochrome Discovery and the Butler Single Receptor Model
+title: Phytochrome Discovery and the phytochrome discovery butler single receptor model Receptor Model
 created: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Daniel Chamovitz - What a Plant Knows (2012)"
+  - "daniel-chamovitz - What a Plant Knows (2012)"
 type: concept
 tags: [phytochrome, photoperiodism, photoreceptor, plant-biology, chamovitz, butler, borthwick]
 ---
@@ -13,7 +13,7 @@ tags: [phytochrome, photoperiodism, photoreceptor, plant-biology, chamovitz, but
 The discovery of phytochrome — the molecular switch that allows plants
 to measure the length of night using red and far-red light — resolved
 one of the central mysteries of plant biology. The story of its
-identification connects the discovery of photoperiodism with
+identification connects the [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]] with
 Garner and Allard's [[phytochrome-red-far-red-switch-and-photoperiodism]] light
 responses. This discovery fundamentally changed our understanding
 of how plants perceive and respond to their light environment.
@@ -24,7 +24,7 @@ The discovery of photoperiodism by Wightman W. Garner and Harry A.
 Allard in 1918 established that plants measure the length of
 continuous darkness rather than the length of the day. A [[julius-von-sachs-blue-light-phototropism-discovery]] s were using blue li [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]] ile
 chemical signal that propagates throughout the plant and induces the
-floral transition at the shoot apex. This mobile signal — later
+floral transition at the shoot apex. This [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]] — later
 identified as the protein FT (FLOWERING LOCUS T) — represents one
 of the most important signalling molecules in plant biology and was
 the subject of decades of research after the initial phytochrome
@@ -46,7 +46,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -96,7 +96,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

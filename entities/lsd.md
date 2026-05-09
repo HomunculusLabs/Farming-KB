@@ -35,7 +35,7 @@ and neuroscience through **5-HT2A receptor agonism**. See also [[dmt]], [[timoth
 - **Systematic name:** (6aR,9R)-N,N-diethyl-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide
 - **Formula:** C₂₀H₂₅N₃O | **MW:** 323.43 g/mol | **CAS:** 50-37-3
 - **Appearance:** Colorless, odorless crystalline solid; blotter paper, liquid, or microdots
-- **Classification:** Lysergamide; semi-synthetic ergot alkaloid derivative
+- **Classification:** Lysergamide; semi-synthetic [[kykeon-composition-and-ergot-alkaloid-hypothesis]] derivative
 - **Stereospecificity:** Only the (+)-D-isomer is psychoactive; the (-)-L-isomer is inactive — one of the most stereospecific drugs known.
 
 ## Discovery
@@ -43,7 +43,7 @@ and neuroscience through **5-HT2A receptor agonism**. See also [[dmt]], [[timoth
 ### Sandoz Synthesis (1938)
 LSD was first synthesized **November 16, 1938** by Albert Hofmann at Sandoz
 Laboratories in Basel — the 25th compound in a series of lysergic acid
-derivatives from ergotamine (from the ergot fungus *Claviceps purpurea*).
+derivatives from ergotamine (from the ergot fungus *[[bloomfield-ergot-claviceps-purpurea-ergotism]]*).
 Sandoz initially deemed LSD-25 pharmacologically uninteresting.
 
 ### Bicycle Day — April 19, 1943
@@ -76,10 +76,10 @@ explaining its long duration and unique profile. **PK:** Onset 30–90 min; peak
 | Threshold | 15–25 | Minimal perceptible changes |
 | Light | 25–75 | Enhanced colors, mild visual distortions |
 | Common | 75–150 | Pronounced visuals, synesthesia, altered thinking |
-| Strong | 150–300 | Intense hallucinations, ego dissolution, mystical states |
+| Strong | 150–300 | Intense hallucinations, [[psilocybin-ego-dissolution-mechanisms]], mystical states |
 | Heavy | 300–500+ | Complete ego dissolution, overwhelming experience |
 
-Active at microgram doses. **Harm reduction:** Ehrlich's reagent turns purple;
+Active at microgram doses. **[[adverse-effects-and-harm-reduction-psilocybin]]:** Ehrlich's reagent turns purple;
 NBOMe compounds are sometimes sold as LSD and are more dangerous.
 
 ## Effects
@@ -90,7 +90,7 @@ appreciation. **Cognitive/Emotional:** Enhanced pattern recognition, ego
 dissolution, emotional intensification, mystical-type experiences (unity,
 transcendence, noetic quality). **Physiological:** Mydriasis, mild tachycardia,
 nausea, insomnia, tremors, jaw clenching, hyperreflexia. All effects are
-dose-dependent and influenced by set and setting.
+dose-dependent and influenced by [[lsd-set-and-setting-framework]].
 
 ## History of Use
 
@@ -115,7 +115,7 @@ Army tested LSD on ~7,000 soldiers at Edgewood Arsenal (1955–1975).
 requested LSD on his deathbed (November 22, 1963). LSD became synonymous with
 the cultural revolution — psychedelic music (Beatles, Grateful Dead, Pink
 Floyd), art, anti-war movement. Underground chemist **Owsley Stanley** produced
-~5 million doses (1965–1967). The **Controlled Substances Act (1970)** placed
+~5 million doses (1965–1967). The **Controlled [[controlled-substances-act-and-psychedelic-research]] (1970)** placed
 LSD in **Schedule I**; the 1971 UN Convention established international control.
 
 ## Modern Research
@@ -144,9 +144,6 @@ evidence remains mixed.
 ## Legal Status
 
 Schedule I in the US, Class A in the UK, controlled under the 1971 UN
-Convention in most countries. Research exemptions exist in the US, UK,
-Switzerland, Canada, Germany. Portugal decriminalized personal use (2001).
-
 ## See Also
 
 - [[hofmann-lsd-chemical-modifications-derivatives]]

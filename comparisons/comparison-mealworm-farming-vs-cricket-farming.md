@@ -1,5 +1,5 @@
 ---
-title: "Mealworm Farming vs Cricket Farming"
+title: "comparison mealworm farming vs cricket farming vs Cricket Farming"
 created: 2026-04-28
 tags: [insect-farming, entomophagy, sustainable-agriculture, alternative-protein, comparison]
 date: 2026-04-28
@@ -8,7 +8,7 @@ sources:
   - "van Huis, A. (2013). Potential of insects as food and feed in assuring food security. Annual Review of Entomology, 58, 563-583."
   - "Oonincx, D.G.A.B., et al. (2015). An exploration on greenhouse gas and ammonia production by insect species suitable for animal or human consumption. PLoS ONE, 10(3), e0118458."
   - "EFSA Panel on Nutrition (2021). Safety of dried Tenebrio molitor larva (mealworm) as a novel food. EFSA Journal, 19(7), e06679."
-  - "Mali, P.K., et al. (2023). Nutritional composition and functional properties of edible insects: a review. Foods, 12(19), 3653."
+  - "Mali, P.K., et al. (2023). [[dighton-fungal-nutritional-composition-animal-diets]] and functional properties of edible insects: a review. Foods, 12(19), 3653."
   - "Smetana, S., et al. (2019). Edible insects for sustainable food systems. Journal of Insects as Food and Feed, 5(4), 243-256."
   - "FAO (2013). Edible Insects: Future Prospects for Food and Feed Security. FAO Forestry Paper 171."
   - "Rumpold, B.A. & Schlüter, O.K. (2013). Nutritional composition and safety aspects of edible insects. Molecular Nutrition & Food Research, 57(5), 802-823."
@@ -42,7 +42,7 @@ Mealworms provide approximately **50-55% protein** and **30-35% fat** on a dry m
 
 ### Amino Acids and Micronutrients
 
-Both species contain all nine essential amino acids. Crickets are particularly rich in leucine, lysine, and tryptophan. Mealworms have higher methionine and cysteine levels, making them complementary in amino acid profiles.
+Both species contain all nine essential amino acids. Crickets are particularly rich in leucine, lysine, and [[tryptophan]]. Mealworms have higher methionine and cysteine levels, making them complementary in amino acid profiles.
 
 For micronutrients, crickets are notably rich in **iron (8-20 mg/100g dry)**, **zinc (12-16 mg/100g dry)**, and **B12**. Mealworms provide significant **copper, manganese, and vitamin E**. Both are excellent calcium sources when fed calcium-supplemented diets, which is critical for their use in animal feed.
 
@@ -50,7 +50,7 @@ For micronutrients, crickets are notably rich in **iron (8-20 mg/100g dry)**, **
 
 **Mealworm farming** requires relatively compact vertical shelving systems. Larvae are housed in shallow trays (5-10 cm depth) stacked vertically, making efficient use of warehouse space. Temperature control (25-28°C) and ventilation are the primary infrastructure needs. No special lighting is required—in fact, darkness is preferred.
 
-**Cricket farming** demands more complex infrastructure. Crickets are highly mobile and require enclosed containers with vertical egg-laying substrates, proper humidity management (60-80% RH), and temperature control (28-32°C). Crickets also exhibit cannibalism if overcrowded, requiring careful density management. Facilities need more headroom and specialized containment systems.
+**Cricket farming** demands more complex infrastructure. Crickets are highly mobile and require enclosed containers with vertical egg-laying substrates, proper [[stamets-cultivator-humidity-management-fogging-systems]] (60-80% RH), and temperature control (28-32°C). Crickets also exhibit cannibalism if overcrowded, requiring careful density management. Facilities need more headroom and specialized containment systems.
 
 Overall, mealworm farming can be established in roughly **30-40% less floor space** per kilogram of protein output compared to cricket farming.
 
@@ -61,7 +61,7 @@ FCR is a critical metric for protein production efficiency:
 - **Mealworms:** FCR of ~2.0:1 to 2.5:1 (dry feed to live weight)
 - **Crickets:** FCR of ~1.5:1 to 1.7:1 (dry feed to live weight)
 
-Crickets are more efficient feed converters, though estimates vary depending on feed substrate, moisture management, and accounting for water intake (crickets require standing water or hydrogel sources). Mealworms obtain moisture from their feed, simplifying water management.
+Crickets are more efficient feed converters, though estimates vary depending on feed substrate, moisture management, and accounting for water intake (crickets require standing water or hydrogel sources). Mealworms obtain moisture from their feed, simplify [[water-management]] ment.
 
 ## Growth Rate and Lifecycle
 
@@ -75,19 +75,19 @@ Crickets are more efficient feed converters, though estimates vary depending on 
 |---------------|---------------|--------------|
 | Small-scale setup (< 100kg/mo) | $2,000-$5,000 | $3,000-$8,000 |
 | Medium-scale setup (1-5 ton/yr) | $15,000-$40,000 | $25,000-$60,000 |
-| Primary cost drivers | Trays, climate control | Enclosures, climate + humidity control |
+| Primary cost drivers | Trays, climate control | Enclosures, climate + [[cervantes-humidity-control-dehumidification]] |
 
 Cricket farming typically requires **25-50% higher initial capital** due to more complex enclosure requirements, humidity systems, and the need for multiple rearing containers per production batch. Mealworm farming can scale incrementally by adding tray racks.
 
 ## Ease of Care
 
-Mealworms are widely regarded as the easier species for beginners. They are slow-moving, non-vocal, require no water provisions, and tolerate wider temperature fluctuations. Crickets require active humidity management, regular egg harvesting, water provision, and are susceptible to cricket paralysis virus and fungal infections (e.g., *Metarhizium* species).
+Mealworms are widely regarded as the easier species for beginners. They are slow-moving, non-vocal, require no water provisions, and tolerate wider temperature fluctuations. Crickets require active humidity management, regular egg harvesting, water provision, and are susceptible to cricket paralysis virus and fungal infections (e.g metarhizium zium* species).
 
 **Winner for beginners: Mealworms.**
 
 ## Climate Tolerance
 
-Mealworms tolerate a broader temperature range (15-32°C) and are resilient to temporary fluctuations. Crickets require stricter temperature control (26-32°C) and high humidity, making them more energy-intensive to maintain in temperate climates. This gives mealworm farming a significant advantage in regions with variable climates or for operations seeking to minimize HVAC costs.
+Mealworms tolerate a broader [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] (15-32°C) and are resilient to temporary fluctuations. Crickets require stricter temperature control (26-32°C) and high humidity, making them more energy-intensive to maintain in temperate climates. This gives mealworm farming a significant advantage in regions with variable climates or for operations seeking to minimize HVAC costs.
 
 ## Processing and Harvesting
 
@@ -126,7 +126,7 @@ Both insect farming systems dramatically outperform conventional livestock on en
 | Land use | ~5-10 m² | ~5-8 m² | 200-300 m² |
 | Water use | ~10-15 L | ~8-12 L | 15,000-20,000 L |
 
-Crickets have a slight edge in GHG emissions due to their superior FCR, but mealworms can be raised on organic waste substrates (spent grain, vegetable scraps) more readily, potentially closing the gap in net environmental impact. Both species produce frass that can be used as organic fertilizer, adding value to the farming system.
+Crickets have a slight edge in GHG emissions due to their superior FCR, but mealworms can be raised on organic waste substrates (spent grain, vegetable scraps) more readily, potentially closing the gap in net environmental impact. Both species produce frass that can be used as [[complete-organic-fertilizer-cof-recipe-solomon]], adding value to the farming system.
 
 ## Summary Comparison Table
 

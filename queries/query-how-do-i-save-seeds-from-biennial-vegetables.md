@@ -1,9 +1,10 @@
 ---
-title: "How Do I Save Seeds from Biennial Vegetables?"
+title: "How Do I query how do i save seeds from biennial vegetables from Biennial Vegetables?"
 tags: [query, seed-saving, biennial-vegetables, plant-breeding, heirloom-varieties]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources: []
 ---
 # How Do I Save Seeds from Biennial Vegetables?
 
@@ -27,9 +28,9 @@ and store in cool, humid conditions (1-4°C, 85-95% humidity). [[plant-propagati
 ## Key Points
 
 - Biennial vegetables need two growing seasons and a cold period to produce
-  seed — see seed saving and plant breeding for techniques.
+  seed — see [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] and plant breeding for techniques.
 - In cold climates, dig roots before hard freeze and store at 1-4°C in damp
-  sand or sawdust, then replant in early spring.
+  sand or sawdust, then replant in [[coleman-overwintered-onions-and-early-spring-crops]].
 - Most biennials are outcrossing and need 500-800m isolation to maintain
   purity; beets/chard and all brassicas will cross within their species.
 - Select seed from the best plants — ideal size, shape, disease resistance,
@@ -39,7 +40,7 @@ and store in cool, humid conditions (1-4°C, 85-95% humidity). [[plant-propagati
 
 ## Related Questions
 
-- query what is the difference between heirloom and hybrid seeds
+- query what is the difference between heirloom and [[heirloom-vs-hybrid-seeds-comparison]]
 
 ## See Also
 
@@ -60,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

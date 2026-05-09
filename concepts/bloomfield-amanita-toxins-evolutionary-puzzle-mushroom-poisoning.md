@@ -1,5 +1,5 @@
 ---
-title: Amanita Toxins and the Evolutionary Puzzle of Mushroom Poisoning
+title: Amanita Toxins and the Evolutionary Puzzle of european-mushroom-poisoning-history
 created: 2026-04-28
 tags:
   - mycology
@@ -21,7 +21,7 @@ type: concept
 ## Overview
 
 The genus Amanita contains some of the most spectacular and deadly
-mushrooms, including the destroying angel (Amanita virosa) and the
+mushrooms, including the [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]] (Amanita virosa) and the
 death cap (Amanita phalloides). These species produce amatoxins,
 miniproteins absorbed from the intestine that destroy the liver. Yet the
 evolutionary rationale for producing such lethal delayed-action toxins
@@ -50,7 +50,7 @@ The death cap (Amanita phalloides) causes most fatal mushroom poisonings
 in Europe and probably North America. Many recent U.S. cases involved
 immigrants who misidentified lethal Amanita as edible species from their
 homeland. Destroying angels and death caps resemble the paddy straw
-mushroom (Volvariella volvacea), widely cultivated in Asia. The autumn
+mushroom ([[paddy-straw-mushroom-volvariella-volvacea-cultivation]]), widely cultivated in Asia. The autumn
 skullcap (Galerina autumnalis), a classic LBM (little brown mushroom),
 contains the same amatoxins but is easily overlooked.
 
@@ -62,7 +62,7 @@ for hours. A delayed-action toxin offers no selective advantage to an
 organism whose genes have already been digested.
 
 ### Hypothesis 1: Biochemical Trash
-Amatoxins could be unavoidable secondary metabolites performing no
+Amatoxins could be unavoidable [[antifungal-secondary-metabolites-coprophilous-fungi]] performing no
 useful function. Unsatisfying because the biosynthetic pathway is
 complex and presumably energetically costly.
 
@@ -70,7 +70,7 @@ complex and presumably energetically costly.
 Like the Osage orange (once dispersed by extinct mammoths), amatoxins
 might once have deterred a prehistoric animal. But amatoxins block gene
 expression by inhibiting protein synthesis, and no animal would be
-affected quickly enough. Slugs and snails eat Amanita with impunity.
+affected quickly enough. [[query-how-to-get-rid-of-slugs-and-snails-organically]] eat Amanita with impunity.
 
 ### Hypothesis 3: Defense Against Insect Larvae (Most Compelling)
 The best explanation centers on insect larvae hatching within fruiting
@@ -92,7 +92,7 @@ caesaria) is toxin-free and develops normally, refuting this idea.
 
 ## Other Amanita Compounds
 
-The fly agaric (Amanita muscaria) produces muscimol and ibotenic acid,
+The fly agaric ([[allegro-amanita-muscaria-properties-and-pharmacology]]) produces muscimol and ibotenic acid,
 which excite and sedate the nervous system by binding to brain
 receptors. The disoriented world of Lewis Carroll's Alice in Wonderland
 probably owes much to contemporary accounts of fly agaric inebriation
@@ -116,5 +116,10 @@ newborn umbilical stumps to stop bleeding.
 
 - [[amanita-cesarea]]
 
-- [[bloomfield-mushroom-poisons-and-toxidromes]] for broader toxicology
+- bloomfield-mushroom-poisons-and-toxidromes for broader toxicology
 - [[bloomfield-fungal-secondary-metabolites]] for secondary metabolism
+- [[fruiting-body-development]]
+- [[amanita-phalloides]]
+- [[galerina-autumnalis]]
+
+- [[bloomfield-cortinarius-webcap-orellanine-kidney-poisoning]]

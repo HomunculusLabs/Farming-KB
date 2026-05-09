@@ -1,8 +1,8 @@
 ---
-title: Fukuoka's Critique of Scientific Agriculture and the Illusions of Natural Science
+title: Fukuoka's fukuoka-critique-of-scientific-agriculture Agriculture and the fukuoka illusions of natural science Science
 source: administrator-microsoft-word-fukuoka-textdoc.md
 author: Masanobu Fukuoka
-topics: natural farming, philosophy of science, epistemology, do-nothing farming, ecological critique, agriculture
+topics: [[comparison-natural-farming-vs-permaculture]], philosophy of science, epistemology, do-nothing farming, ecological critique, agriculture
 ---
 # Fukuoka's Critique of Scientific Agriculture and the Illusions of Natural Science
 
@@ -42,7 +42,7 @@ Fukuoka traces how one human intervention cascades into ecological catastrophe a
 3. **No food for birds** → insectivore populations collapse
 4. **Long-horned beetles flourish** → no natural predators remain
 5. **Nematodes attack pines** → weakened trees succumb
-6. **Botrytis fungi spread** → fungal disease takes hold
+6. **Botrytis fungi spread** → [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] takes hold
 7. **Soil acidity from pollution** → chemical degradation worsens
 8. **Pine death** → canopy opens further
 9. **Bamboo grass invades** → suppresses regeneration
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: "Camellia sinensis"
+title: "camellia-sinensis-entity"
 created: 2026-04-28
 type: species
 tags: [species, plant, theaceae, herbal, tea, caffeine, permaculture, cash-crop]
@@ -10,7 +10,7 @@ sources:
 ---
 # Camellia sinensis
 Camellia sinensis, the tea plant, is an evergreen shrub or small tree in the
-family Theaceae native to East and Southeast Asia. It is the source of all
+family Theaceae native to East and [[psilocybe-southeast-asia-pacific]]. It is the source of all
 true teas—white, green, oolong, black, and pu-erh—differentiated by their
 processing methods rather than botanical variety. The plant has been cultivated
 for over 4,000 years and is now grown commercially across tropical and
@@ -80,7 +80,7 @@ the relative concentrations of key compounds:
   stimulant; higher in shade-grown and young-bud teas; synergises with
   [[agroforestry]]
   systems as an understory crop; shade trees (Grevillea, Albizia) provide
-  microclimate regulation and nitrogen fixation; tea intercropping with
+  microclimate regulation and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]; tea intercropping with
   legumes improves soil fertility. See also [[litsea-cubeba]]
 - camellia sinensis entity
 - caffeine

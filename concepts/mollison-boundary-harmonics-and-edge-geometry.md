@@ -1,5 +1,5 @@
 ---
-title: Boundary Harmonics and Edge Geometry in Design
+title: mollison boundary harmonics and edge geometry and Edge Geometry in Design
 created: 2026-04-26
 tags:
   - permaculture
@@ -40,7 +40,7 @@ Notched or lobular edges, such as we achieve in plan by following
 hill contours, afford sheltered, wetter, drier, hotter, or more
 exposed micro-habitats for a variety of species. Serrate or zig-zag
 fences not only stand on their own, but resist wind-throw much better
-than straight barriers. Lobular embayments, like the keyhole beds
+than straight barriers. Lobular embayments, like the [[gaias-garden-keyhole-beds-and-mandala-gardens]]
 common in nature, are obviously sheltered, spacious habitats for
 gardens and settlements.
 
@@ -59,7 +59,7 @@ mulched, or smoothed for water run-off.
 Without altering the area of a field and a pond, we can double the
 plants on the pond-edge (for example, blueberries) by crenellating
 the edge to increase the earth/water interface. This is a direct
-application of the edge effect principle: more edge between two media
+application of the [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]] principle: more edge between two media
 means more opportunity for exchange and productivity.
 
 ## Trade and Transaction at Boundaries
@@ -110,7 +110,7 @@ like many plants and animals, are creatures of the edge.
 
 ## Design Applications
 
-In permaculture design, boundary harmonics can be applied to:
+[[mollison-rabbits-in-permaculture-design-and-soil-preparation]], boundary harmonics can be applied to:
 
 - **Pond edges**: Crenellate the shoreline to maximise the interface
   between water and land, creating more growing area without
@@ -134,5 +134,8 @@ In permaculture design, boundary harmonics can be applied to:
 ## See Also
 
 - [[mollison-tessellation-and-annidation-in-design]]
-- [[mollison-pond-edge-configuration-and-yield]]
-- [[mollison-zone-and-sector-analysis]]
+- mollison-pond-edge-configuration-and-yield
+- mollison-zone-and-sector-analysis
+- [[permaculture-design]]
+- [[mollison-designers-pond-edge-configuration-and-yield-maximisation]]
+- [[mollison-designers-aquatic-edge-planted-wetland-design]]

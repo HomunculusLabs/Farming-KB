@@ -1,6 +1,6 @@
 ---
-title: Wide-Row Spacing vs Intensive Gardening
-source: Gardening When It Counts - [[steve-solomon]]
+title: Wide-Row Spacing vs solomon-wide-spacing-versus-intensive-gardening-debate
+source: Gardening When It Counts - steve-solomon
 source_author: Steve Solomon
 tags: [gardening, spacing, intensive, water-efficiency, vegetable-production]
 created: 2026-05-08
@@ -12,21 +12,21 @@ created: 2026-05-08
 
 The debate between wide-row spacing (traditional row gardening) and
 intensive raised-bed systems represents one of the most significant
-divisions in vegetable gardening philosophy. Steve Solomon, founder of
+divisions in [[home-vegetable-garden-planning]] philosophy. Steve Solomon, founder of
 Territorial Seed Company and author of *Gardening When It Counts*,
 argues that intensive gardening methods, while popular, are
 fundamentally unsuited to producing food efficiently during hard times
 when resources like water, fertilizer, and energy are scarce.
 
 The core question is simple: which method produces the most food per
-unit of total input — not just per square foot of bed, but per gallon
+unit of total input — not just per [[comparison-biointensive-vs-square-foot-gardening]] of bed, but per gallon
 of water, per pound of fertilizer, per hour of labor? Solomon argues
 the answer is wide-row spacing.
 
 ## The Rise of Intensive Gardening
 
 During the 1970s back-to-the-land movement, intensive gardening became
-the dominant paradigm in North America. [[dryland-vegetable-gardening]]
+the dominant paradigm in [[psilocybin-north-america-pacific-northwest]]. [[dryland-vegetable-gardening]]
 - [[crop-rotation-and-ley-farming]]
 - [[seed-saving-and-variety-selection]]
 ## Practical Applications
@@ -107,3 +107,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[comparison-two-row-vs-six-row-barley]]

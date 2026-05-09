@@ -18,7 +18,7 @@ updated: 2026-04-28
 sources:
   - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:582804-1
   - https://pfaf.org/user/Plant.aspx?LatinName=Helichrysum+italicum
-  - Appending, G. (2013). The Essential Oil of Helichrysum italicum. International Journal of Clinical Aromatherapy.
+  - Appending, G. (2013). The [[permaculture-designers-manual-essential-oil-plants]] of Helichrysum italicum. International Journal of Clinical Aromatherapy.
   - Sneader, W. (2005). Drug Discovery: A History. Wiley.
 ---
 
@@ -92,8 +92,8 @@ The **Corsican chemotype** (subsp. *microphyllum*) is considered the finest and 
 
 ### Production
 - **Yield:** 0.05–0.15% (fresh weight) — extremely low, contributing to high cost
-- **Harvest:** Flowering aerial parts in full bloom; steam distillation
-- **Price:** $150–$400+ per ounce, making it one of the most expensive essential oils
+- **Harvest:** Flowering aerial parts in full bloom; [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]]
+- **Price:** $150–$400+ per ounce, making it one of the most expensive [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]
 - **Primary producers:** Corsica, Bosnia, Italy
 
 ### Traditional and Modern Uses of the Oil
@@ -121,13 +121,13 @@ Traditional uses include wound healing, respiratory conditions, and digestive co
 - **Soil:** Well-drained, sandy or rocky, low fertility preferred; pH 6.5–8.0
 - **Water:** Extremely drought-tolerant once established
 - **Harvest:** Cut flowering stems in full bloom; flowers dry well for arrangements
-- **Companion planting:** Good with rosemary, lavender, and thyme in Mediterranean gardens
+- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Good with rosemary, lavender, and thyme in Mediterranean gardens
 
 ## Permaculture Applications
 
 - **Drought-tolerant ground cover** for dry, marginal areas
-- **Pollinator support** — flowers attract bees, butterflies, and beneficial insects
-- **Erosion control** on slopes and rocky terrain
+- **Pollinator support** — flowers attract bees, butterflies, and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
+- **[[permplant-willows-salix-erosion-control-fodder]]** on slopes and rocky terrain
 - **Guild member** in Mediterranean food forest systems alongside rosemary, thyme, sage, and lavender
 - **Dual-purpose crop** — ornamental, medicinal, and aromatic value
 - **Low-input** — requires minimal water, fertilizer, or maintenance

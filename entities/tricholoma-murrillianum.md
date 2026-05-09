@@ -13,7 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Trudell, S.A. et al. (2017). "The North American matsutake: Clarifying taxonomy, distribution, and nomenclature of an economically important fungal species complex." Mycologia, 109(5), 829–842.
+  - Trudell, S.A. et al. (2017). "The growing-gourmet-north-american-reishi-species matsutake: Clarifying taxonomy, distribution, and nomenclature of an economically important fungal species complex." Mycologia, 109(5), 829–842.
   - Redhead, S.A. & Norvell, L.L. (2006). "Tricholoma murrillianum, the correct name for the North American matsutake." Mycotaxon, 97, 19–27.
   - Wang, Y. & Hall, I.R. (2004). "Edible Ectomycorrhizal Mushrooms." Springer-Verlag, Berlin.
   - Hosford, D. et al. (1997). "Matsutake: Mushrooms and People." Forest Service, Pacific Northwest Research Station, Portland.
@@ -64,17 +64,17 @@ Tricholoma murrillianum is found in coniferous and mixed forests along the Pacif
 
 The species is an obligate ectomycorrhizal associate, forming associations primarily with Douglas-fir (*Pseudotsuga menziesii*), ponderosa pine (*Pinus ponderosa*), lodgepole pine (*P. contorta*), and various true firs (*Abies* spp.).
 
-The mycorrhizal relationship is essential for both partners: the fungus provides the host tree with enhanced mineral nutrient uptake (particularly phosphorus) and water access, while receiving photosynthetically derived carbon compounds. This mutualism is particularly important in nutrient-poor forest soils where mineral availability limits plant growth.
+The mycorrhizal relationship is essential for both partners: the fungus provides the host tree with enhanced mineral nutrient uptake (particularly phosphorus) and water access, while receiving photosynthetically derived carbon compounds. This mutualism is particularly important in nutrient-poor forest soils where [[chelation-microbial-mineral-availability-ingham]] limits plant growth.
 
 Optimal fruiting habitat consists of mature to old-growth coniferous forests with well-developed duff layers and moderate canopy closure.
 
-Matsutake are sensitive to soil disturbance and compaction, and fruiting productivity generally declines after clear-cut harvesting or intensive forest management. The species typically fruits in "shiro" — dense, whitish mycelial mats in the forest soil that represent long-established ectomycorrhizal networks. These shiro formations can persist for decades in undisturbed forests.
+Matsutake are sensitive to soil disturbance and compaction, and fruiting productivity generally declines after clear-cut harvesting or intensive forest management. The species typically fruits in "shiro" — dense, whitish mycelial mats in the forest soil that represent long-established [[symbiotic-fungi-ectomycorrhizal-networks-overview]]. These shiro formations can persist for decades in undisturbed forests.
 
 ## Chemistry and Pharmacology
 
-The distinctive aroma of matsutake is primarily attributed to a complex mixture of volatile organic compounds, with **matsutake alcohol** (1-octen-3-ol) and **cinnamic acid derivatives** as the dominant contributors. Additional aromatic compounds include methyl cinnamate, various lactones, and sulfur-containing volatiles that give the mushroom its characteristic spicy quality.
+The distinctive aroma of matsutake is primarily attributed to a complex mixture of [[fungal-volatile-organic-compounds-communication]] compounds, with **matsutake alcohol** (1-octen-3-ol) and **cinnamic acid derivatives** as the dominant contributors. Additional aromatic compounds include methyl cinnamate, various lactones, and sulfur-containing volatiles that give the mushroom its characteristic spicy quality.
 
-**Nutritional composition (per 100 g fresh weight):**
+**[[dighton-fungal-nutritional-composition-animal-diets]] (per 100 g fresh weight):**
 
 - **Energy:** 20–30 kcal
 - **Protein:** 2.0–3.5 g
@@ -104,7 +104,7 @@ Annual harvest volumes have declined significantly since the 1990s, raising conc
 
 ## Cultivation
 
-Despite decades of research, *Tricholoma murrillianum* has not been successfully cultivated at commercial scale. The obligate ectomycorrhizal dependency makes conventional indoor cultivation impossible. Mycorrhizal inoculation of host tree seedlings has been demonstrated under controlled conditions, but fruiting requires years of undisturbed forest-floor development.
+Despite decades of research, *Tricholoma murrillianum* has not been successfully cultivated at commercial scale. The obligate ectomycorrhizal dependency makes conventional indoor cultivation impossible. [[teaming-with-fungi-mycorrhizal-inoculation-techniques]] of host tree seedlings has been demonstrated under controlled conditions, but fruiting requires years of undisturbed forest-floor development.
 
 Experimental approaches include planting inoculated seedlings in managed forest settings and attempting to establish matsutake-producing "matsutake forests" (*sho* in Japanese forestry terminology). These efforts have shown limited success in Japan and Korea, with inconsistent fruiting after 5–10 year establishment periods.
 

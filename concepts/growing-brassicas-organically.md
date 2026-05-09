@@ -1,5 +1,5 @@
 ---
-title: Growing Brassicas Organically
+title: solomon-growing-brassicas-guide Organically
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Growing Brassicas Organically
 
-The cabbage family (Brassica oleracea) includes cabbages, broccoli, cauliflower, Brussels sprouts, kale, and kohlrabi. They are among the most important winter vegetables but are also the most vulnerable to pests and diseases, making careful management essential for organic [[growing-alliums-organically]] growers.
+The cabbage family (Brassica oleracea) includes cabbages, broccoli, cauliflower, Brussels sprouts, kale, and kohlrabi. They are among the most important winter vegetables but are also the most vulnerable to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]], making careful management essential for organic [[growing-alliums-organically]] growers.
 
 ## Soil and Site
 
@@ -65,10 +65,10 @@ Clubroot is a crippling fungus disease causing distortion and swelling of roots.
 ## Disease Prevention
 
 Beyond clubroot, brassicas face several significant diseases in organic systems:
-- **Downy mildew (Peronospora parasitica):** Grey-purple fungal growth on leaf undersides. Promoted by cool, damp conditions and overcrowding. Ensure adequate spacing (at least 18 inches for most cabbages) and good air circulation. Remove and destroy affected leaves immediately. Resistant varieties are available for many crops.
+- **Downy mildew (Peronospora parasitica):** Grey-purple fungal growth on leaf undersides. Promoted by cool, damp conditions and overcrowding. Ensure adequate spacing (at least 18 inches for most cabbages) and good [[stamets-growing-room-air-circulation-co2-management]]. Remove and destroy affected leaves immediately. Resistant varieties are available for many crops.
 - **Alternaria leaf spot:** Dark brown concentric rings on leaves. More common in warm, wet conditions. Crop rotation and removal of infected plant debris are the primary organic controls. Copper-based sprays (allowed in some organic certification programs) can provide some protection.
-- **Black rot (Xanthomonas campestris):** Bacterial disease causing V-shaped yellow-brown lesions from leaf margins. Enter through water pores at leaf edges. Avoid overhead watering and working with plants when wet. Hot water seed treatment (50°C for 25 minutes) can reduce seed-borne infection.
-- **Ring spot:** Fungal disease causing circular spots with concentric rings. Most common on Brussels sprouts and cabbage in autumn. Remove lower leaves to improve air flow and reduce humidity around the plant.
+- **Black rot (Xanthomonas campestris):** Bacterial disease causing V-shaped yellow-brown lesions from leaf margins. Enter through water pores at leaf edges. Avoid overhead watering and working with plants when wet. Hot water [[jadam-seed-treatment-and-nursery-management]] (50°C for 25 minutes) can reduce seed-borne infection.
+- **Ring spot:** [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] causing circular spots with concentric rings. Most common on Brussels sprouts and cabbage in autumn. Remove lower leaves to improve air flow and reduce humidity around the plant.
 
 ## Variety Selection for Organic Systems
 
@@ -101,7 +101,7 @@ Harvesting technique affects both yield and storage life of brassicas:
 Brassicas are heavy feeders, particularly nitrogen-demanding. In organic systems:
 - Apply 2-3 handfuls of blood, fish, and bone meal per square meter before planting
 - Top-dress with pelleted poultry manure 4-6 weeks after planting for a nitrogen boost
-- Seaweed meal provides trace minerals (boron, molybdenum) that brassicas need; boron deficiency causes brown heart in cauliflower and internal browning in turnips
+- Seaweed meal provides trace minerals (boron, molybdenum) that brassicas need; [[query-how-to-fix-boron-deficiency-in-cannabis]] causes brown heart in cauliflower and internal browning in turnips
 - A liquid feed of comfrey or nettle tea applied every 2 weeks during active growth supports steady development
 - Avoid excess nitrogen, which produces soft, sappy growth susceptible to aphids, frost damage, and fungal diseases
 

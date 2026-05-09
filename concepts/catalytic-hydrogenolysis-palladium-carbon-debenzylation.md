@@ -1,5 +1,5 @@
 ---
-title: Catalytic Hydrogenolysis for Psilocybin Debenzylation
+title: shirota-catalytic-hydrogenolysis-debenzylation-psilocybin for Psilocybin Debenzylation
 created: 2026-04-28
 tags:
   - synthesis
@@ -21,14 +21,14 @@ psilocybin in 87.5% yield without any chromatographic purification.
 
 ## The Role of Hydrogenolysis in the Synthesis
 
-The zwitterionic intermediate (compound 8) carries two benzyl groups that
+The [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] (compound 8) carries two benzyl groups that
 must be removed to reveal the final psilocybin structure:
 
 1. **N-benzyl removal**: Cleavage of the benzyl group from the quaternary
    ammonium nitrogen (N-1 of the indole) restores the indole NH and
    converts the quaternary ammonium to the tertiary N,N-dimethylamine.
 2. **O-benzyl removal**: Cleavage of the benzyl group from the phosphate
-   monoester reveals the free phosphoric acid group (-OPO3H2), giving
+   monoester reveals the free [[cho-water-soluble-phosphoric-acid-preparation]] group (-OPO3H2), giving
    the complete phosphate ester of psilocybin.
 
 Both debenzylation events occur under the same catalytic hydrogenolysis

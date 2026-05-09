@@ -1,5 +1,5 @@
 ---
-title: "How Do I Use Mycorrhizal Inoculants When Growing Cannabis?"
+title: "How Do I Use pgpr-mycorrhizal-inoculants-microplant-establishment When Growing Cannabis?"
 created: 2026-04-28
 tags:
   - cannabis
@@ -17,16 +17,16 @@ type: query
 
 ## Overview
 
-Mycorrhizal inoculants are products containing beneficial fungi that form a symbiotic relationship with cannabis roots. The fungi extend hyphal networks into the soil, dramatically increasing the root system's effective surface area for nutrient and water uptake. In return, the plant feeds the fungus carmycorrhizal-fungied through photosynthesis. This mutualism can improve vigor, drought tolerance, and nutrient efficiency — especially phosphorus uptake, which mycorrhizae excel at solubilizing.
-[[arbuscular-mycorrhizal-fungi]] (AMF)** are the primary group used with cannabis. Endomycorrhizal species such as *Rhizophagus irregularis* (formerly *Glomus intraradices*), *Funneliformis mosseae*, and *Glomus aggregatum* colonize root cells internaectomycorrhizal-fungies — tree-like structures inside root cortical cells where nutrient exchange occurs. Cannabis is a broadleaf annual that readily forms associations with AMF under the right conditions.
+Mycorrhizal inoculants are products containing beneficial fungi that form a symbiotic relationship with cannabis roots. The fungi extend hyphal networks into the soil, dramatically increasing the root system's effective surface area for nutrient and water uptake. In return, the plant feeds the fungus carmycorrhizal-fungied through photosynthesis. This mutualism can improve vigor, [[dighton-fungal-drought-tolerance-plant-water-relations]], and nutrient efficiency — especially phosphorus uptake, which mycorrhizae excel at solubilizing.
+[[arbuscular-mycorrhizal-fungi]] (AMF)** are the primary group used with cannabis. Endomycorrhizal species such as *Rhizophagus irregularis* (formerly *Glomus intraradices*), *Funneliformis mosseae*, and *Glomus aggregatum* colonize root cells internaectomycorrhizal-fungies — tree-like structures inside root cortical cells where [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] occurs. Cannabis is a broadleaf annual that readily forms associations with AMF under the right conditions.
 
-[[soil-food-web]] that cycles nutrients to the fungal network.
+[[soil-food-web]] that cycles nutrients to the [[mycelium-running-mycelium-natures-internet-fungal-network-theory]].
 
 Avoid combining mycorrhizal inoculants with products containing high concentrations of soluble nutrients or harsh biological controls in the same application.
 
 ## Summary
 
-Mycorrhizal inoculants are most effective when applied early, kept in contact with roots, and supported by low-P organic fertility, minimal soil disturbance, and compatible biological inputs. In a well-managed living soil or no-till cannabis system, they become a self-sustaining part of the root ecosystem that improves nutrient efficiency, water access, and overall plant resilience.
+Mycorrhizal inoculants are most effective when applied early, kept in contact with roots, and supported by low-P [[coleman-compost-and-organic-fertility-management]], minimal soil disturbance, and compatible biological inputs. In a well-managed living soil or no-till cannabis system, they become a self-sustaining part of the root ecosystem that improves nutrient efficiency, water access, and overall plant resilience.
 
 See also: [[arbuscular-mycorrhizal-fungal-diversity]]
 ## Practical Applications
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

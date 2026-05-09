@@ -1,5 +1,5 @@
 ---
-title: "JADAM Sulfur (JS)"
+title: "ultra low jadam sulfur js (JS)"
 created: 2026-04-28
 tags: [jadam, sulfur, fungicide, germicide, pesticide, ultra-low-cost]
 date: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 # JADAM Sulfur (JS)
 
 JADAM Sulfur (JS) is a self-made sulfur fungicide and germicide that
-represents a major breakthrough in natural pest control. Traditionally,
+represents a major breakthrough in [[cho-natural-pest-control-methods]] control. Traditionally,
 sulfur was difficult for farmers to use because commercial sulfur
 pesticides were expensive and complicated to manufacture. Youngsang Cho
 discovered a method that allows any farmer to make high-quality liquid
@@ -20,7 +20,7 @@ sulfur pesticide at minimal cost, using simple ingredients and equipment.
 ## The Significance of Sulfur
 
 Sulfur is one of the oldest and most widely used agricultural pesticides.
-It is effective against powdery mildew, downy mildew, anthracnose,
+It is effective against [[cervantes-powdery-mildew-prevention-treatment]], [[cervantes-downy-mildew-fungal-blight]], anthracnose,
 rust diseases, mites, and many other fungal and bacterial pathogens.
 Sulfur is listed on the USDA National Organic Program as a permitted
 substance. The challenge was always the manufacturing process, which
@@ -30,7 +30,7 @@ developing a method any farmer can perform at home.
 ## Ingredients for 100L (26 gal) Batch
 
 - Sulfur powder: 14 kg (31 lb)
-- JADAM Wetting Agent (JWA): 6 L (1.6 gal)
+- JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA): 6 L (1.6 gal)
 - Water: 100 L (26 gal)
 
 Sulfur powder is inexpensive and widely available. A 100L batch of JS
@@ -59,6 +59,7 @@ sulfur products.
 The critical innovation in JS is using [[ultra-low-jadam-wetting-agent-jwa]] - Foundation surfactant for JS
 - [[ultra-low-cost-jadam-natural-pesticide-jnp]] - Complete pesticide system
 - [[ultra-low-water-softening-for-pesticide-efficacy]] - Water quality needs
+
 ## Practical Considerations
 
 Successful implementation of JADAM Sulfur (JS) requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

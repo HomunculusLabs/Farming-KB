@@ -97,7 +97,7 @@ The species provides habitat and food for native fauna, including birds, insects
 
 Its deep root system helps prevent soil erosion and can improve soil structure in degraded landscapes.
 
-In agroforestry systems, A. acuminata can serve as a windbreak and shade tree while contributing nitrogen to companion plantings.
+In agroforestry systems, A. acuminata can serve as a windbreak and [[mollison-designers-legume-shade-tree-pasture-systems]] while contributing nitrogen to companion plantings.
 
 The dense wood produces excellent firewood with high energy content, and the aromatic smoke has traditional insect-repellent properties.
 
@@ -114,6 +114,8 @@ Several other Australian Acacia species are known to contain tryptamine alkaloid
 **Acacia simplicifolia** is known for its high NMT content in bark, sometimes exceeding its DMT concentration.
 
 ## See Also
+
+- [[acacia-farnesiana]]
 
 - [[mimosa-hostilis]]
 - [[desmanthus-illinoensis]]

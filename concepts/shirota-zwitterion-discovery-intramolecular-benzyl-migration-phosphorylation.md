@@ -2,10 +2,10 @@
 
 ## Overview
 The most innovative aspect of the 2003 Shirota, Hakamata, and Goda synthesis
-of psilocybin is the discovery and exploitation of a zwitterionic phosphate
-intermediate (compound 8). During the phosphorylation of psilocin using
+of [[psilocybin]] is the discovery and exploitation of a zwitterionic phosphate
+intermediate (compound 8). During the phosphorylation of [[psilocin]] using
 tetrabenzylpyrophosphate and n-butyllithium, the expected O,O-dibenzyl
-phosphate derivative (compound 7) undergoes an intramolecular benzyl group
+phosphate derivative (compound 7) undergoes an shirota zwitterion discovery intramolecular benzyl migration phosphorylation group
 migration from oxygen to the quaternary ammonium nitrogen, producing a
 zwitterionic N,O-dibenzyl phosphate. This zwitterionic compound has
 dramatically different solubility properties from the starting material and
@@ -19,7 +19,7 @@ synthesis of psilocybin possible.
 For the synthesis of psilocybin (the 4-phosphoryloxy derivative of psilocin),
 several phosphorylation methodologies were applied to psilocin. Most of the
 phosphorylation methods did not consume psilocin, reflecting the poor
-nucleophilicity of the 4-hydroxy group on the indole ring. The phosphoryl
+nucleophilicity of the 4-hydroxy group on the [[indole]] ring. The phosphoryl
 iodide method (using tribenzyl phosphite, iodine, and DMAP) and the pyrophosphate
 method (using tetrabenzylpyrophosphate and n-BuLi) appeared promising. The
 pyrophosphate method was selected for its easy handling and reagent stability.
@@ -79,7 +79,7 @@ dissolved in the dichloromethane. The zwitterion is then collected by simple
 filtration and washed with additional dichloromethane.
 
 ### High Yield Filtration
-The zwitterionic intermediate is isolated in over 85% yield by this
+The [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] is isolated in over 85% yield by this
 filtration-based procedure. This yield is remarkable for a single isolation
 step and is significantly higher than the 20% and 47% yields reported in
 previous syntheses of psilocybin. The high yield reflects the efficiency of
@@ -88,11 +88,11 @@ property (zwitterionic character) rather than relying on chromatographic
 resolution.
 
 ### Gram-Scale Practicality
-The filtration procedure was demonstrated to work effectively on gram scale.
+The filtration procedure was demonstrated to work effectively on [[shirota-gram-scale-chromatography-free-psilocybin-synthesis]].
 The synthesis of psilocybin from psilocin via the zwitterionic intermediate
 achieved an isolated yield of greater than 72%, even for gram-scale production.
 This represents a dramatic improvement over previous methods and makes the
-synthesis practical for the production of standard compounds for forensic and
+synthesis practical for the production of [[shirota-forensic-standard-compounds-magic-mushroom-identification]] for forensic and
 research applications.
 
 ## Catalytic Hydrogenolysis to Psilocybin

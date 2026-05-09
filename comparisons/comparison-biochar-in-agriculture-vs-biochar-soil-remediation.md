@@ -1,5 +1,5 @@
 ---
-title: "Biochar in Agriculture vs Biochar for Soil Remediation"
+title: "comparison biochar in agriculture vs biochar soil remediation vs Biochar for Soil Remediation"
 created: 2026-04-28
 tags: [comparison, biochar, soil-amendment, remediation, carbon-sequestration]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: comparison
 
 ## Overview
 Biochar is the same carbon-rich, porous material in both agricultural and
-remediation contexts, but the goals, application methods, selection criteria,
+remediation contexts, but the goals, application methods, [[cannabis-breeding-traits-selection-criteria-clarke]],
 and evaluation metrics differ substantially. Agricultural biochar use aims to
 improve crop productivity and soil health over years and decades, while
 remediation biochar targets contaminant immobilization and site recovery
@@ -21,8 +21,8 @@ biochar's versatility as a soil amendment capable of serving both productive
 and restorative functions.
 
 ## Biochar in Agriculture
-[[biochar-soil-remediation]]
-Remediation biochar targets contaminated sites with heavy metals, petroleum
+
+Remediation biochar targets contaminated sites with [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]], petroleum
 hydrocarbons, PAHs, PCBs, pesticides, and other pollutants. The mechanisms
 differ from agricultural use. Heavy metals are immobilized through surface
 adsorption, precipitation, and complexation reactions driven by biochar's
@@ -68,17 +68,17 @@ chlorinated solvents.
 Farmers and gardeners looking to improve soil water retention, nutrient
 cycling, and microbial habitat should incorporate biochar as a long-term soil
 amendment. The investment pays dividends over decades as biochar persists in
-soil and its benefits compound with compost and cover crop additions. Start
+soil and its benefits compound with compost and [[coleman-cover-crop-rotation-and-soil-health]] additions. Start
 with small rates (1 to 2% by volume), always charge before application, and
 focus on sandy or degraded soils where the water and nutrient retention
-benefits are greatest. The carbon sequestration benefit provides additional
+benefits are greatest. The [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] benefit provides additional
 value for operations pursuing carbon credit programs.
 
 ## When to Choose Remediation Biochar
 Biochar is appropriate for contaminated sites where heavy metal immobilization
 or organic pollutant sequestration is needed. It is particularly effective for
 lead, cadmium, zinc, and nickel immobilization in acidic soils, and for
-petroleum hydrocarbon and PAH sequestration at industrial sites. The
+[[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] and PAH sequestration at industrial sites. The
 combination of biochar with phytoremediation using hyperaccumulator plants
 offers a sustainable, low-cost remediation approach for moderately
 contaminated sites that avoids the destruction and cost of excavation.

@@ -5,17 +5,18 @@ updated: 2026-04-15
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Psilocybe Woodlovers Species and Cultivation Guide
 
-Wood-loving (lignicolous) Psilocybe species are among the most potent psilocybin-containing mushrooms, naturally found growing on decaying wood debris in temperate and subtropical regions. Their cultivation outdoors on wood chip beds is one of the lowest-maintenance approaches to mushroom growing, closely mimicking their natural habitat.
+Wood-loving (lignicolous) Psilocybe species are among the most potent psilocybin-containing mushrooms, naturally found growing on decaying wood debris in temperate and subtropical regions. Their cultivation outdoors on wood chip beds is one of the lowest-maintenance approaches to [[duggar-mushroom-growing-history-and-methods]], closely mimicking their natural habitat.
 
 ## Principal Species
 
 ### Psilocybe cyanescens
 
-The wavy-capped psilocybe, native to the Pacific Northwest of North America but now widely distributed through human activity. One of the most potent psilocybin mushrooms known, with psilocybin content reaching 1.68% dry weight. Found naturally on decaying alder chips, mulch, and woody garden debris. Fruits in autumn (October-December in the Northern Hemisphere) following cool, wet weather.
+The wavy-capped psilocybe, native to the Pacific Northwest of [[psilocybin-north-america-pacific-northwest]] but now widely distributed through human activity. One of the most potent [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] known, with psilocybin content reaching 1.68% dry weight. Found naturally on decaying alder chips, mulch, and woody garden debris. Fruits in autumn (October-December in the Northern Hemisphere) following cool, wet weather.
 
 ### Psilocybe azurescens
 
@@ -29,11 +30,11 @@ Native to Australia and New Zealand, found in subtropical and temperate forests 
 
 - **Psilocybe bohemica** (P. serbica): Central European species found on deciduous wood debris
 - **Psilocybe allenii**: Pacific Northwest species, similar habitat to P. cyanescens
-- **Psilocybe ovoideocystidiata**: Eastern North American species found on wood chips near streams
+- **Psilocybe ovoideocystidiata**: [[polypore-fungi-eastern-north-america]] American species found on wood chips near streams
 
 ## Why Outdoor Cultivation
 
-Unlike [[comparison-laminar-flow-hood-vs-fruiting-chamber]]. Their natural cycle is tied to seasonal temperature changes and outdoor conditions. Outdoor bed cultivation leverages natural seasonal triggers:
+Unlike [[comparison-laminar-flow-hood-vs-fruiting-chamber]]. Their [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] is tied to seasonal temperature changes and outdoor conditions. Outdoor bed cultivation leverages natural seasonal triggers:
 
 - Cool autumn temperatures initiate fruiting
 - Natural rainfall provides humidity
@@ -44,7 +45,7 @@ Unlike [[comparison-laminar-flow-hood-vs-fruiting-chamber]]. Their natural cycle
 
 ### Overview
 
-The method involves three stages: preparing sterilised wood chip spawn, inoculating outdoor beds in spring, and allowing nature to trigger fruiting in autumn. See [[mushroom-grain-spawn-preparation]], begin agar work |
+The method involves three stages: preparing sterilised wood chip spawn, inoculating outdoor beds in spring, and allowing nature to trigger fruiting in autumn. See mushroom-grain-spawn-preparation, begin agar work |
 | Mid Spring | Prepare sterilised wood chip spawn bags |
 | Late Spring | Inoculate outdoor beds, cover with plastic |
 | Summer | Monitor moisture, maintain plastic cover |
@@ -75,7 +76,7 @@ Chips are soaked 48 hours, supplemented with oatmeal or boiled grass seed (half 
 - [[azurescens-cyanescens-and-woodlovers-comparison]]
 - [[woodlovers-mycelium-running-pathway-technique]]
 - [[outdoor-woodlover-bed-preparation]] — detailed bed construction and maintenance
-- [[outdoor-mushroom-bed-preparation]] — general outdoor mushroom beds
-- [[psilocybe-mushroom-species-guide]] — comprehensive species guide
+- [[outdoor-mushroom-bed-preparation]] — general [[cotter-outdoor-mushroom-garden-mulch-beds]] beds
+- psilocybe-mushroom-species-guide — comprehensive species guide
 - [[log-cultivation-methods]] — alternative wood-based cultivation
 - [[psilocybin-liquid-culture]]

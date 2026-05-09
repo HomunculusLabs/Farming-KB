@@ -1,16 +1,13 @@
 ---
-title: "Native Versus Exotic Plants Debate in Ecological Gardening"
+title: "hemenway native versus exotic plants debate Exotic Plants Debate in [[ecological-gardening-principles]]"
 created: 2026-04-28
-tags: [[permaculture, native-plants, invasive-species, ecological-design, biodiversity]
+tags: [permaculture, native-plants, invasive-species, ecological-design, biodiversity]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["~/wiki/raw/papers/gaias-garden-toby-hemenway.md"]
 type: concept
 ---
-
-# Native Versus Exotic Plants Debate in Ecological Gardening
-
-[[david-holmgren]] calls the rampantly growing blends
+# Native Versus Exotic Plants Debate in Ecological Gardening [[david-holmgren]] calls the rampantly growing blends
 of natives and exotics that appear on disturbed land "recombinant ecologies,"
 and believes these are nature's effective strategy of assembling available
 plants to heal damaged land. Rather than fighting this process, ecological
@@ -28,13 +25,13 @@ pressure on wild lands to provide for human needs.
 
 In Switzerland, 70 percent of all lumber comes from community woodlots. This
 model suggests that cities could provide for most human needs, letting
-cropland and tree farms return to nature. The ecological garden is the
+cropland and tree farms [[emcdda-return-to-nature-megatrend-mushroom-appeal]]. The ecological garden is the
 backyard expression of this philosophy.
 
 ## Practical Strategy
 
 Instead of waging endless war against invasives, Hemenway recommends:
-- Softening forest margins with low trees and shrubs to shade out
+- Softening forest margins with low [[nitrogen-fixing-trees-and-shrubs]] to shade out
   sun-loving exotics
 - Planting edge-loving species like dogwood, cherry, crabapple, and small
   maples at yard and woodlot margins
@@ -60,11 +57,12 @@ and resources from elsewhere.
 
 ## See Also
 
-- [[hemenway-ecological-principles-niche-succession-biodiversity]] for the
+- hemenway-ecological-principles-niche-succession-biodiversity for the
   underlying ecological concepts
 - [[hemenway-accelerated-succession]] for using succession to outcompete
   invasives
-- [[permaculture-forest-garden-design]] for the productive garden model
+- permaculture-forest-garden-design for the productive garden model
+
 ## Practical Considerations
 
 Successful implementation of Native Versus Exotic Plants Debate in Ecological Gardening requires attention to
@@ -83,4 +81,4 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+- [[us-native-hallucinogenic-dissociative-plants]]

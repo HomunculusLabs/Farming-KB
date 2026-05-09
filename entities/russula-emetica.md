@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dy
 
 # Russula emetica
 
-*Russula emetica*, commonly known as the sickener, is a basidiomycete mushroom in the family *Russulaceae*. It is one of the most widely recognized poisonous mushrooms in the Northern Hemisphere, renowned for its brilliant red cap and extremely acrid (peppery) taste. The species is an ectomycorrhizal associate of coniferous trees, particularly *Pinus* (pine) and *Picea* (spruce), forming mutualistic symbiotic relationships with the roots of its host trees.
+*Russula emetica*, commonly known as the sickener, is a basidiomycete mushroom in the family *Russulaceae*. It is one of the most widely recognized [[palmer-poisonous-mushrooms-deadly-species]] in the Northern Hemisphere, renowned for its brilliant red cap and extremely acrid (peppery) taste. The species is an ectomycorrhizal associate of coniferous trees, particularly *Pinus* (pine) and *Picea* (spruce), forming mutualistic symbiotic relationships with the roots of its host trees.
 
 ## Taxonomy and Description
 
@@ -24,11 +24,11 @@ The stipe (stem) is white, cylindrical, 4–10 cm tall and 1–2 cm thick, with 
 
 *R. emetica* has a broad circumboreal distribution, occurring across Europe, Asia, and North America. It is found in coniferous and mixed woodlands, typically in association with pine (*Pinus sylvestris*, *P. nigra*, *P. resinosa*) and spruce (*Picea abies*, *P. sitchensis*) on acidic to neutral soils. The species fruits from mid-summer through autumn, producing solitary to scattered fruiting bodies on the forest floor among needle litter and moss.
 
-The organism prefers moist, cool, shaded conditions and is most abundant in mature forests with well-developed ectomycorrhizal networks. It is relatively tolerant of nutrient-poor soils, as it derives the majority of its carbon from its host tree through the mycorrhizal symbiosis. *R. emetica* is commonly found in the same habitats as other red-capped *Russula* species, requiring careful identification to distinguish from edible lookalikes such as *Russula vesca*.
+The organism prefers moist, cool, shaded conditions and is most abundant in mature forests with well-developed [[symbiotic-fungi-ectomycorrhizal-networks-overview]]. It is relatively tolerant of nutrient-poor soils, as it derives the majority of its carbon from its host tree through the [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]. *R. emetica* is commonly found in the same habitats as other red-capped *Russula* species, requiring careful identification to distinguish from edible lookalikes such as *Russula vesca*.
 
 ## Ectomycorrhizal Symbiosis
 
-Like all *Russula* species, *R. emetica* forms ectomycorrhizal associations with the fine roots of compatible tree species. In this mutualistic relationship, the fungal hyphae form a dense sheath (mantle) around the root tips and extend into the soil as an extensive extraradical mycelium network. The Hartig net—a labyrinthine interface of fungal hyphae between root cortical cells—facilitates bidirectional nutrient exchange between the fungal and plant partners.
+Like all *Russula* species, *R. emetica* forms ectomycorrhizal associations with the fine roots of compatible tree species. In this mutualistic relationship, the fungal hyphae form a dense sheath (mantle) around the root tips and extend into the soil as an extensive extraradical mycelium network. The Hartig net—a labyrinthine interface of fungal hyphae between root cortical cells—facilitates bidirectional [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between the fungal and plant partners.
 
 The fungus receives carbohydrates (primarily glucose and fructose) produced by the host tree through photosynthesis. In return, the fungal mycelium provides the tree with mineral nutrients—particularly nitrogen and phosphorus—mobilized from soil organic matter through enzymatic decomposition. The extensive extraradical mycelium network dramatically increases the effective absorptive surface area of the root system, allowing the tree to access nutrients beyond the depletion zone surrounding individual root tips.
 
@@ -42,9 +42,9 @@ The toxic principles in *R. emetica* have not been definitively identified. The 
 
 ## Ecology and Environmental Role
 
-Beyond its mycorrhizal function, *R. emetica* plays several important roles in forest ecosystems. The fruiting bodies serve as a food source for various invertebrates (slugs, insects) and small mammals (rodents, squirrels), some of which can consume the mushroom without apparent ill effects. The extensive mycelial network contributes to soil carbon sequestration, with ectomycorrhizal fungi estimated to account for a significant proportion of soil organic carbon in boreal and temperate forests.
+Beyond its mycorrhizal function, *R. emetica* plays several important roles in forest ecosystems. The fruiting bodies serve as a food source for various invertebrates (slugs, insects) and small mammals (rodents, squirrels), some of which can consume the mushroom without apparent ill effects. The extensive [[gadd-mycelial-network-dynamics]] contributes to soil carbon sequestration, with ectomycorrhizal fungi estimated to account for a significant proportion of soil organic carbon in boreal and temperate forests.
 
-The species is sensitive to atmospheric pollution, particularly nitrogen deposition and heavy metal contamination, and has been proposed as a bioindicator of forest ecosystem health. Declines in *Russula* species diversity have been observed in forests subjected to chronic nitrogen deposition from agricultural and industrial sources.
+The species is sensitive to atmospheric pollution, particularly [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and heavy metal contamination, and has been proposed as a bioindicator of forest ecosystem health. Declines in *Russula* species diversity have been observed in forests subjected to chronic nitrogen deposition from agricultural and industrial sources.
 
 ## Applied Notes
 
@@ -70,7 +70,7 @@ pressure, soil biology, yields, and long-term resilience.
 
 ## Related Topics
 
-- [[mycorrhizal-symbiosis]]
+- mycorrhizal-symbiosis
 - [[spore-print]]
 
 ## See Also

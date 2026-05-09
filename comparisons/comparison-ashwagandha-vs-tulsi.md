@@ -10,7 +10,7 @@ type: comparison
 
 # Ashwagandha vs Tulsi (Holy Basil)
 
-Both ashwagandha (*[[ocimum-sanctum]]*) are
+Both ashwagandha (*ocimum-sanctum*) are
 cornerstones of Ayurvedic medicine with thousands of years of traditional use.
 They share the adaptogen classification but differ dramatically in their active
 compounds, plant parts used, growing requirements, and primary therapeutic
@@ -62,7 +62,7 @@ Ashwagandha is the stronger herb for physical and hormonal restoration:
 ### Where Tulsi Excels
 
 Tulsi shines as a daily tonic for immune resilience and respiratory health:
-- Immune modulation: enhances immune function and reduces infection frequency
+- [[cancer-immune-modulation-mechanisms]]: enhances immune function and reduces infection frequency
 - Respiratory support: traditional remedy for coughs, colds, bronchitis
 - Antimicrobial defense: broad activity against bacteria, fungi, and viruses
 - Gentle stress adaptation: milder cortisol regulation suitable for daily tea
@@ -74,12 +74,12 @@ Tulsi shines as a daily tonic for immune resilience and respiratory health:
 | Requirement | Ashwagandha | Tulsi |
 |------------|------------|-------|
 | Hardiness | USDA 8-11 (annual elsewhere) | USDA 10-11 (annual elsewhere) |
-| Growing season | 150-180 days for roots | 90-120 days for leaves |
-| Ideal temperature | 68-95 degrees F | 70-95 degrees F |
+| [[savory-growing-season-and-non-growing-season-management]] | 150-180 days for roots | 90-120 days for leaves |
+| [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] | 68-95 degrees F | 70-95 degrees F |
 | Soil preference | Sandy, poor, well-drained | Fertile loam, well-drained |
 | Fertility needs | Low; excess reduces potency | Moderate; benefits from compost |
 | Water needs | Very low once established | Moderate; allow slight drying |
-| Drought tolerance | Excellent | Moderate |
+| [[dighton-fungal-drought-tolerance-plant-water-relations]] | Excellent | Moderate |
 | Spacing | 18-24 inches apart | 12-18 inches apart |
 | Mulch preference | Sand or gravel (no organic) | Organic mulch 2-3 inches |
 | Frost tolerance | Killed by frost | Killed below 40 degrees F |
@@ -88,3 +88,9 @@ Ashwagandha is notably easier in poor, dry soils and rewards neglect once
 established. Tulsi is more demanding of fertility and consistent moisture but
 rewards with a much faster harvest cycle and the ability to harvest repeatedly
 throughout the season. See [[adaptogenic-herbs-guide]].
+## See Also
+- [[comparison-ashwagandha-vs-rhodiola-cultivation]]
+- [[comparison-echinacea-vs-tulsi]]
+- [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation]]
+
+- [[comparison-ashwagandha-vs-echinacea]]

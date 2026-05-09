@@ -34,7 +34,7 @@ The species is known by many common names including white ginger lily, garland f
 
 The genus name derives from Greek *hedys* (sweet) and *chion* (snow), referring to the fragrant white flowers. The specific epithet *coronarium* means "used for garlands," reflecting its traditional use in floral arrangements and ceremonial decorations.
 
-The species was first described by Johann König in 1783 from specimens collected in Southeast Asia. It is the type species of the genus Hedychium, which contains approximately 80–90 species distributed across tropical and subtropical Asia.
+The species was first described by Johann König in 1783 from specimens collected in [[psilocybe-southeast-asia-pacific]]. It is the type species of the genus Hedychium, which contains approximately 80–90 species distributed across tropical and subtropical Asia.
 
 Plants grow 1.0–2.0 m tall from a thick, branching rhizome system. Leaf blades are lanceolate to oblong, 20–40 cm long and 6–12 cm wide, bright green with a slightly glossy surface and a prominent central midrib. The pseudostem is formed by tightly sheathing leaf bases.
 
@@ -54,7 +54,7 @@ The species is listed as a noxious weed in several jurisdictions and is prohibit
 
 ## Phytochemistry
 
-The essential oil of H. coronarium flowers (0.1–0.3% fresh weight) is dominated by monoterpenes and sesquiterpenes. Linalool is the principal constituent (30–50%), followed by 1,8-cineole (10–20%), β-pinene (5–10%), and limonene (3–8%).
+The [[permaculture-designers-manual-essential-oil-plants]] of H. coronarium flowers (0.1–0.3% fresh weight) is dominated by monoterpenes and sesquiterpenes. Linalool is the principal constituent (30–50%), followed by 1,8-cineole (10–20%), β-pinene (5–10%), and limonene (3–8%).
 
 The rhizomes contain a different phytochemical profile including coronarin D, coronarin E, and other labdane-type diterpenes. These diterpenes have demonstrated anti-inflammatory and cytotoxic activities in preclinical studies.
 
@@ -62,7 +62,7 @@ Flavonoids identified in the plant include quercetin, kaempferol, and isorhamnet
 
 ## Traditional Medicine and Pharmacology
 
-In Ayurvedic medicine, the rhizomes of H. coronarium are used as a carminative, expectorant, and anti-inflammatory agent. The flowers are used in traditional Indian folk medicine for fever, headache, and as a topical application for skin conditions.
+In Ayurvedic medicine, the rhizomes of H. coronarium are used as a carminative, expectorant, and anti-inflammatory agent. The flowers are used in traditional Indian folk medicine for fever, headache, and as a topical application for [[cannabis-for-skin-conditions-detailed]].
 
 In Thai traditional medicine, rhizome preparations are prescribed for asthma, bronchitis, and joint pain. In Brazilian folk medicine, the rhizome is used as a diuretic and anti-inflammatory. The flowers are traditionally steeped as a fragrant tea in several Asian cultures.
 
@@ -73,7 +73,7 @@ In Thai traditional medicine, rhizome preparations are prescribed for asthma, br
 - **Antioxidant:** Methanol extracts show significant free radical scavenging activity. The antioxidant capacity is attributed to flavonoid and phenolic acid constituents.
 - **Anticancer:** Coronarin D induces apoptosis in human cancer cell lines including leukemia and breast cancer. The mechanism involves mitochondrial membrane depolarization and caspase-3 activation.
 
-⚠️ No clinical trials have validated the traditional medicinal uses of H. coronarium. The invasive status of the species in many regions complicates commercial development of therapeutic products.
+⚠️ No [[mushroom-cancer-clinical-trials-overview]] have validated the traditional medicinal uses of H. coronarium. The invasive status of the species in many regions complicates commercial development of therapeutic products.
 
 ## Ornamental and Cultural Uses
 
@@ -93,7 +93,7 @@ Hedychium coronarium is propagated by rhizome division in spring. Rhizome pieces
 
 Partial shade to full sun is tolerated, with flowering most prolific in partial shade. Consistent moisture is essential; the species thrives in boggy or waterside conditions that would kill most other garden plants. Hardiness ranges from USDA zones 7b–11, with the rhizome surviving winter dormancy in zone 7b with heavy mulching.
 
-Pests and diseases are relatively few in cultivation. The most common pest is the ginger shoot borer (*Chilo auricilius*), while fungal leaf spot diseases caused by *Colletotrichum* species may occur in humid conditions. The invasive potential of the species means that disposal of rhizome waste requires care in frost-free climates.
+[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] are relatively few in cultivation. The most common pest is the ginger shoot borer (*Chilo auricilius*), while fungal leaf spot diseases caused by *Colletotrichum* species may occur in humid conditions. The invasive potential of the species means that disposal of rhizome waste requires care in frost-free climates.
 
 In regions where the species is invasive, responsible cultivation practices include growing in containers, removing flower heads before seed set, and avoiding planting near waterways or natural areas. Several sterile cultivars have been developed to reduce invasive spread risk.
 
@@ -107,6 +107,6 @@ Commercial flower production for the cut flower trade is most developed in Hawai
 - [[lavandula-angustifolia]] — English lavender, an ornamental aromatic herb with essential oil production
 - [[eucalyptus-globulus]] — Blue gum eucalyptus, a tree with invasive potential and essential oil production
 - [[zingiber-zerumbet]] — Shampoo ginger, a Zingiber species with ornamental inflorescences
-- [[vetiveria-zizanoides]] — Vetiver, a rhizomatous grass used for erosion control and essential oil
+- [[vetiveria-zizanoides]] — Vetiver, a rhizomatous grass used for [[permplant-willows-salix-erosion-control-fodder]] and essential oil
 - [[mentha-piperita]] — Peppermint, an aromatic herb with fragrant essential oil used in perfumery
 - [[salvia-officinalis]] — Common sage, a Mediterranean ornamental herb with traditional medicinal uses

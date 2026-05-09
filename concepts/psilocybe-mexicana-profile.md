@@ -1,11 +1,11 @@
 ---
-title: Psilocybe mexicana Profile
+title: dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis Profile
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [species-profiles, species-identification, mycology, psilocybin, mesoamerica, mazatec, entheogen, wasson]
 sources:
-  - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources: []
   - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
@@ -13,7 +13,7 @@ sources:
 
 ## Overview
 
-Psilocybe mexicana is the original species that launched the modern psychedelic era. Identified by Roger Heim and studied by Albert Hofmann, it was the species consumed by R. Gordon Wasson and Maria Sabina during the veladas described in Wasson's famous 1957 LIFE article. Its Nahuatl name is "teonanacatl" -- "flesh of the gods."
+Psilocybe mexicana is the original species that launched the modern psychedelic era. Identified by Roger Heim and studied by Albert Hofmann, it was the species consumed by R. Gordon Wasson and [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]] during the veladas described in Wasson's famous 1957 LIFE article. Its Nahuatl name is "teonanacatl" -- "flesh of the gods."
 
 ## Taxonomy
 
@@ -28,7 +28,7 @@ Psilocybe mexicana is the original species that launched the modern psychedelic 
 - **Stem**: 40-120 mm long by 1-3 mm thick, equal to narrowing towards base. Smooth, hollow. Straw yellow to brownish, darkening with age or injury.
 - **Veil**: Thinly fibrillose, whitish, leaving fibrillose remnants on upper stem.
 - **Flesh**: Reddish brown, bruising bluish where injured.
-- **Spore print**: Dark purplish brown to blackish purple brown.
+- **[[comparison-spore-print-collection-vs-spore-syringe-production]]**: Dark purplish brown to blackish purple brown.
 - **Spores**: 8-9.9 (12) x 5.5-7.7 (8) micrometers, ellipsoid to subellipsoid.
 
 ## Potency
@@ -36,7 +36,7 @@ Psilocybe mexicana is the original species that launched the modern psychedelic 
 - Moderately to highly active.
 - Heim and Hofmann (1958) found 0.02% psilocybin and 0.01% psilocin in seven-month-old dried specimens.
 - Fresh specimens are "many orders of magnitude stronger."
-- The variety P. wassonii is described as potently active based on the strength of its bluing reaction.
+- The variety P. wassonii is described as potently active based on the strength of its [[field-guide-psilocybin-bluing-reaction-identification]].
 
 ## Sclerotia Formation
 
@@ -51,7 +51,7 @@ P. mexicana is one of the few Psilocybe species known to produce sclerotia -- de
 
 ## Historical Significance
 
-P. mexicana is the species at the center of Wasson's discovery of the "divine mushroom" of the Mazatec. Roger Heim cultivated specimens and sent them to Albert Hofmann at Sandoz, who isolated and identified psilocybin and psilocin from them in 1958. This led to Sandoz manufacturing approximately 2 kg of pure psilocybin for research distribution. The species is therefore the direct ancestor of all modern psilocybin research.
+P. mexicana is the species at the center of Wasson's discovery of the "divine mushroom" of the Mazatec. Roger Heim cultivated specimens and sent them to Albert Hofmann at Sandoz, who isolated and identified psilocybin and psilocin from them in 1958. This led to Sandoz manufacturing approximately 2 kg of pure psilocybin for research distribution. The species is therefore the direct ancestor of all modern [[early-paris-psilocybin-research-1960s]].
 
 ## Related Concepts
 
@@ -73,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -115,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Cannabis Sativa Landrace Strains
+title: Cannabis Sativa sativa-landrace-strains-and-geographic-origins
 source: Cannabis Sativa Volume 3 - S.T. Oner, The Rev (2014)
 tags: [cannabis, sativa, landrace, breeding, genetics, strains]
 created: 2026-05-08
@@ -23,7 +23,7 @@ Laotian varieties known for their potent psychoactive effects. South America
 contributed Colombian, Mexican (Oaxacan, Acapulco Gold), and Brazilian
 genetics that became foundational to modern breeding programs. Africa offered
 Malawi Gold, Swazi, Congolese, Durban Poison, and South Indian strains with
-distinctive sweet and fruity profiles. Central America produced Jamaican,
+distinctive sweet and fruity profiles. [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] produced Jamaican,
 Panamanian, and Honduran varieties. Each region's unique combination of
 latitude, altitude, humidity, and day length created distinct chemical profiles,
 growth patterns, and morphological characteristics that breeders would later
@@ -37,7 +37,7 @@ adapted to a nearly equal 12/12 day-night cycle year-round, resulting in
 extremely long flowering periods often 14 to 20 weeks when grown at higher
 latitudes. This is because equatorial cannabis evolved to flower based on
 minimal light changes rather than dramatic seasonal shifts. Strains from higher
-latitudes in the southern hemisphere, such as Durban Poison (originating
+latitudes in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], such as Durban Poison (originating
 around 30 degrees south in South Africa) and Brazilian White Sativa, developed
 early flowering traits that are invaluable for northern hemisphere growers.
 
@@ -48,10 +48,10 @@ more when grown outdoors with adequate growing season. They exhibit elongated
 internodes, narrow fingered leaflets, and sparse branching compared to indica
 varieties. Their root systems tend to be more extensive and penetrating, adapted
 to nutrient-poor tropical soils. The plants are generally more sensitive to
-overfeeding with synthetic nutrients, as noted by breeders who compare sativas
+overfeeding with [[query-organic-vs-synthetic-nutrients-cannabis]], as noted by breeders who compare sativas
 to wolves, wild adaptable and resistant to domestication through chemical
 forcing. They tend to produce lower yields per square foot than indicas but
-compensate with superior resin quality and complex terpene profiles.
+compensate with superior resin quality and complex [[cannabis-terpene-profiles-sativa]].
 
 ## Terpene and Cannabinoid Profiles
 
@@ -111,7 +111,7 @@ maintained heirloom sativa varieties from multiple continents. Bodhi Seeds and
 Dynasty Seeds have incorporated landrace material into their breeding programs
 while maintaining pure lines. The movement toward heirloom cannabis reflects a
 growing recognition that the genetic diversity represented by landrace strains
-is an irreplaceable resource, analogous to heirloom vegetable varieties or
+is an irreplaceable resource, analogous to heirloom [[solomon-vegetable-varieties-self-sufficiency]] or
 heritage livestock breeds in the broader agricultural conservation movement.
 
 ## See Also

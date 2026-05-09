@@ -12,7 +12,7 @@ type: concept
 # Brassinosteroid
 
 Brassinosteroids are a class of polyhydroxylated steroidal plant growth
-regulators. First isolated from *Brassica napus* (rapeseed) pollen in 1979 by
+regulators. First isolated from *[[brassica-napus]]* (rapeseed) pollen in 1979 by
 Grove and coworkers, they are now recognized as the sixth major class of plant
 hormones alongside auxins, gibberellins, cytokinins, ethylene, and abscisic
 acid. Approximately 30 naturally occurring brassinosteroids have been
@@ -46,7 +46,7 @@ Their primary effects include:
 - **Cell division**: Stimulating the cell cycle in meristematic tissues
   through upregulation of cyclin-dependent kinases
 - **Vascular differentiation**: Promoting xylem differentiation and phloem
-  development, essential for water and nutrient transport
+  development, essential for water and [[mycelial-network-nutrient-transport-imaging-gadd]]
 - **Stress tolerance**: Enhancing resistance to heat, cold, drought,
   salinity, and pathogen attack through modulation of antioxidant systems
   and stress-responsive gene expression
@@ -100,7 +100,7 @@ response rather than stochastic variation.
 
 ### Fruiting Enhancement on Dung and Grain Substrate
 
-On the dung and grain substrate, brassinosteroid treatment produced several
+On the dung and grain substrate, [[annulus-loss-morphological-effect-brassinosteroid-treatment]] produced several
 marked improvements in fruiting body production:
 
 - **Earlier fruiting**: First flush appeared at 3 to 3.5 weeks after
@@ -108,11 +108,11 @@ marked improvements in fruiting body production:
   30% reduction in time to first harvest
 - **Increased first-flush yield**: First flush produced 4 to 7 mushrooms
   versus 1 to 3 in controls, a two- to three-fold increase
-- **Higher overall dry mass**: Treated cultures yielded 3.4 to 3.9 g dry
+- **Higher overall dry mass**: [[flush-count-variation-brassinosteroid-treated-cultures]] yielded 3.4 to 3.9 g dry
   weight per 10 g substrate, compared to 2.3 to 2.9 g in controls,
-  representing a 30 to 50% increase in biological efficiency
+  representing a 30 to 50% increase in [[biological-efficiency]]
 - **Reduced abnormalities**: Formation of incomplete fruit bodies, which are
-  normally present in mushroom cultivation and represent wasted metabolic
+  normally present in [[mushroom-cultivation]] and represent wasted metabolic
   effort, was almost completely suppressed
 
 ### Morphological Changes
@@ -130,7 +130,7 @@ marked improvements in fruiting body production:
 
 ## Brassinosteroid Fruiting Acceleration Flush Timing
 
-# Brassinosteroid Acceleration of Fruiting and Flush Timing in Psilocybe Cubensis Among the most practically significant findings of the Gartz, Adam, and Vorbrodt (1990) study was the reduction in time to first harvest of [[Gartz-Jörg]], Adam-L, and Vorbrodt-HM in 1990. ...
+# Brassinosteroid Acceleration of Fruiting and Flush Timing in Psilocybe Cubensis Among the most practically significant findings of the Gartz, Adam, and Vorbrodt (1990) study was the reduction in time to first harvest of jorg-gartz, Adam-L, and Vorbrodt-HM in 1990. ...
 
 ## Brassinosteroid Suppression Abortive Fruit Bodies
 

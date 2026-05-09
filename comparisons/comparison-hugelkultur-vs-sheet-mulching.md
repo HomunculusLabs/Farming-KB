@@ -1,5 +1,5 @@
 ---
-title: "Hugelkultur vs Sheet Mulching"
+title: "comparison hugelkultur vs sheet mulching Mulching"
 created: 2026-04-28
 tags: [comparison, soil-building, hugelkultur, sheet-mulching]
 date: 2026-04-25
@@ -13,7 +13,7 @@ type: comparison
 ## Overview
 Hugelkultur and sheet mulching are both no-till bed creation techniques that layer
 organic materials to build soil, suppress weeds, and retain moisture. Hugelkultur
-buries woody debris to create raised mounds that function as long-term, self-fertilizing
+buries [[fungal-succession-woody-debris-ecology]] to create raised mounds that function as long-term, self-fertilizing
 sponge beds. Sheet mulching (also called lasagna gardening) layers cardboard, compost,
 and mulch over existing ground to create planting-ready beds within weeks. Both mimic
 natural forest floor accumulation but differ dramatically in scale, labor requirements,
@@ -59,7 +59,7 @@ ongoing mulch maintenance.
 | Initial Labor | High (moving logs, building mounds) | Low (layering materials on flat ground) |
 | Space Needed | 3 to 6 foot wide mounds | Any size, including small spaces |
 | Year 1 Planting | Limited (nitrogen tie-up) | Full planting possible in 2 to 4 weeks |
-| Self-Fertilizing | Yes (wood decomposition) | No (requires compost top-dressing) |
+| Self-Fertilizing | Yes ([[fungal-wood-decomposition-spatial-variation]]) | No (requires compost top-dressing) |
 | Best Climate Benefit | Arid regions (moisture retention) | Any climate (weed suppression) |
 
 ## When to Choose Hugelkultur
@@ -76,7 +76,7 @@ buried wood releases its stored nutrients.
 Sheet mulching is the best choice for rapid bed creation, small spaces, beginner
 gardeners, and urban settings where sourcing large logs is impractical. It is unmatched
 for lawn-to-garden conversion and works well as a preparation step before planting into
-hugelkultur or raised beds. Sheet mulching suits gardeners who want results within
+hugelkultur or [[comparison-raised-beds-vs-hugelkultur]]. Sheet mulching suits gardeners who want results within
 weeks rather than months and who need a technique that requires minimal physical
 strength and no special materials. It is also the ideal method for expanding garden
 areas incrementally, sheet-mulching one section at a time as cardboard and compost

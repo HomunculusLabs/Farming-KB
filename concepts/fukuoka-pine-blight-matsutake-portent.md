@@ -5,7 +5,8 @@ updated: 2026-04-18
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Pine Blight and Matsutake as Portent of Desertification
@@ -29,7 +30,7 @@ Fukuoka elevates pine decline from a forestry problem to a civilizational warnin
 - The same patterns of soil degradation and vegetation loss that killed the pines are at work across entire landscapes
 - Pine forests are the last defense against [[ectomycorrhizal-fungal-ecology]]
 - When the pines die, the matsutake disappears
-- Fukuoka told the California forestry director that "a single matsutake mushroom fetched a higher price than a large log"
+- Fukuoka told the California forestry director that "a single [[pine-disease-and-matsutake-mushroom-decline]] fetched a higher price than a large log"
 - This economic observation illustrates the hidden value of intact ecosystems
 
 ## Competing Theories
@@ -45,15 +46,15 @@ Fukuoka critiques both Japanese and American scientific explanations:
 
 For Fukuoka, pine blight exemplifies a broader pattern:
 
-- Modern forestry practices (clear-cutting, monoculture replanting) have weakened forest ecosystems
-- [[lowenfels-earthworms-soil-food-web]] diversity removes natural disease suppression
+- Modern [[mycelium-running-forestry-practices-and-mushrooms]] (clear-cutting, monoculture replanting) have weakened forest ecosystems
+- [[lowenfels-earthworms-soil-food-web]] diversity removes natural [[aact-disease-suppression-mechanisms-ingham]]
 - The pine-matsutake relationship, once a model of ecological partnership, is breaking down
 
 See also: [[fukuoka-pine-blight-matsutake-research]], [[fukuoka-desert-succession-ecology]]
 
 ## Key Points
 
-- Masanobu Fukuoka's natural farming emphasizes working with nature rather than against it
+- Masanobu Fukuoka's [[comparison-natural-farming-vs-permaculture]] emphasizes working with nature rather than against it
 - The one-straw revolution approach minimizes human intervention in agricultural systems
 - Seed balls and no-till methods are central to Fukuoka's philosophy
 - Observing natural ecosystems provides the blueprint for sustainable food production
@@ -68,14 +69,14 @@ See also: [[fukuoka-pine-blight-matsutake-research]], [[fukuoka-desert-successio
 The principles outlined on this page connect directly to hands-on work in gardens,
 farms, and homesteads. Integrating these concepts with complementary techniques from
 related disciplines can significantly improve outcomes. Start with small-scale
-implementation and scale up as understanding deepens through direct observation.
+implementation and scale up as understanding deepens through [[fukuoka-direct-observation-method]].
 
 ## Philosophical Context
 
 Fukuoka's work emerged from a deep disillusionment with the trajectory of modern
 civilization. His experiences as a plant pathologist, farmer, and philosopher
 converged into a worldview that questioned humanity's separation from nature.
-He argued that the more humans try to control natural systems, the further they
+He argued that the more humans try to [[fukuoka-straw-pest-control-natural-balance]] systems, the further they
 drift from genuine understanding. This perspective challenges both conventional
 agriculture and the assumptions underlying industrial progress.
 

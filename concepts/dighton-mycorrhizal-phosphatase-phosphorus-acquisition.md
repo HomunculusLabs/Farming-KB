@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Phosphatase Enzyme Activity and Phosphorus Acquisition
+title: dighton mycorrhizal phosphatase phosphorus acquisition Enzyme Activity and Phosphorus Acquisition
 created: 2026-04-26
 tags:
   - mycology
@@ -25,9 +25,9 @@ low and organic matter accumulates.
 
 ## Phosphatase Production by Ericoid Mycorrhizae
 
-Ericoid mycorrhizal associations dominate in boreal and high-altitude
+[[dighton-ericoid-mycorrhizal-nutrient-acquisition]] associations dominate in boreal and high-altitude
 ecosystems where low temperatures constrain decomposition. In these systems,
-most phosphorus is complexed within organic compounds and is scarcely available
+most phosphorus is complexed within [[fungal-volatile-organic-compounds-communication]] and is scarcely available
 for plant growth. Ericoid mycorrhizal fungi produce phosphatase enzymes that
 release phosphorus from organic sources (Pearson and Read, 1975; Mitchell and
 Read, 1981; Straker and Mitchell, 1985).
@@ -56,7 +56,7 @@ inorganic and organic forms of phosphorus.
 
 Haussling and Marschner (1989) determined that approximately 50% of the
 phosphorus in a Norway spruce forest was in organic form, making the ability of
-ectomycorrhizal fungi to produce phosphatase enzymes particularly beneficial.
+[[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] to produce phosphatase enzymes particularly beneficial.
 They demonstrated a two- to 2.5-fold increase in acid phosphatase activity in
 the rhizosphere compared to bulk soil.
 
@@ -84,7 +84,7 @@ Suillus spp. exhibit greater enzyme competency.
 
 ## Phosphatase and Forest Succession
 
-Differences in ectomycorrhizal enzyme production have been linked to changes
+Differences in ectomycorrhizal [[ligninolytic-enzyme-production-bioremediation]] have been linked to changes
 during forest ecosystem development. During later stages of forest development
 or in more mature forests, litter inputs consist of more recalcitrant
 materials, favoring mycorrhizal fungi with greater enzyme competency (Read,
@@ -109,7 +109,7 @@ phosphorus acquisition.
 
 Beyond organic phosphorus, some ectomycorrhizal fungi can solubilize complex
 inorganic forms of phosphate. Paxillus involutus was shown to solubilize
-calcium phosphate, but only in the presence of available ammonium or nitrate
+[[bionutrients-lab-calcium-phosphate-calamansi]], but only in the presence of available ammonium or nitrate
 nitrogen (Lapeyrie et al., 1991). In all fungal species examined, dissolution
 of complex phosphate was enhanced in the absence of orthophosphate, suggesting
 product suppression of the enzyme system.

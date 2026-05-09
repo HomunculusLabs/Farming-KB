@@ -1,5 +1,5 @@
 ---
-title: "Elderberry vs Gooseberry vs Currant (Ribes) — Cultivation Comparison"
+title: "comparison elderberry vs gooseberry vs currant vs Currant (Ribes) — Cultivation Comparison"
 tags:
   - elderberry
   - gooseberry
@@ -54,7 +54,7 @@ tinctures, and immune supplements. Yield: 12–15 lbs per mature plant.
 Sharp and tart when underripe; sweet and dessert-quality when fully ripe.
 Excellent for pies, preserves, and sauces. Yield: 4–8 lbs per mature plant.
 
-**Currant** — Black, red, or white berries on strigs. Black currants have an
+**Currant** — Black, red, or white berries on strigs. [[query-how-to-grow-black-currants-at-home]] have an
 intense, musky, tart flavor high in vitamin C; red/white are milder and sweeter.
 Used in jams, jellies, juices, cordials, and baking. Yield: 5–10 lbs/plant.
 
@@ -93,7 +93,7 @@ fruit on 2–3 year old spurs; prune less aggressively, similar to gooseberries.
 **Elderberry:**
 - *Elderberry borer* (Achatodes zeae) — larvae tunnel in stems, causing wilting
   and dieback; destroy infested canes.
-- *Cercospora leaf spot* and *powdery mildew* — improve air circulation; remove
+- *Cercospora leaf spot* and *[[cervantes-powdery-mildew-prevention-treatment]]* — improve [[stamets-growing-room-air-circulation-co2-management]]; remove
   affected foliage.
 - Birds are the primary pest; netting is essential at fruiting.
 
@@ -102,7 +102,7 @@ fruit on 2–3 year old spurs; prune less aggressively, similar to gooseberries.
   coating on leaves and fruit, stunting growth. Resistant cultivars
   ('Invicta', 'Hinnomaki Yellow') are strongly recommended.
 - *Gooseberry sawfly* — green larvae defoliate bushes; hand-pick or use Bt.
-- *Imported currant worm* — same sawfly genus; shares control strategies.
+- *Imported currant worm* — same sawfly genus; shares [[jadam-weed-control-strategies-natural]].
 
 **Currant:**
 - *Currant worm / imported currant sawfly* (Nematus ribesii) — primary insect
@@ -122,7 +122,7 @@ fruit on 2–3 year old spurs; prune less aggressively, similar to gooseberries.
 | Layering | Works well | Works well | Works well |
 | Division | Easy (suckers) | Possible | Possible |
 | Seed | Variable; cultivars not true | Rarely used | Rarely used |
-| Tissue culture | Common for named cvs | Less common | Common for black currant |
+| [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] | Common for named cvs | Less common | Common for black currant |
 
 ## Landscape Uses
 

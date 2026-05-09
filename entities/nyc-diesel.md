@@ -28,7 +28,7 @@ sources:
 
 ## Overview
 
-**NYC Diesel** is a sativa-dominant cannabis strain created by **Soma** (Soma Sacred Seeds) in the early 2000s in New York City.
+**NYC Diesel** is a sativa-dominant [[blesching-cannabis-strain-selection-receptor-targeting]] created by **Soma** (Soma Sacred Seeds) in the early 2000s in New York City.
 
 A cross between a **Sour Diesel** clone and an **Afghan** indica, it delivers an uplifting, cerebral high paired with a pungent diesel-citrus aroma that has become its signature.
 
@@ -90,7 +90,7 @@ Plants exhibit strong sativa stretch during the first weeks of flowering, often 
 
 Yields are moderate: 350–450 g/m² indoors, 400–500 g/plant outdoors. The buds are not exceptionally dense, contributing to moderate rather than heavy yields.
 
-The strain responds well to SCROG (screen of green) training and performs best in warm, Mediterranean-like climates with low humidity during late flowering.
+The strain responds well to SCROG ([[cannabis-screen-of-green-scrog-guide]]) training and performs best in warm, Mediterranean-like climates with [[pf-tek-low-humidity-symptoms-and-remediation]] during late flowering.
 
 Nutrient requirements are moderate; the Afghan lineage provides some hardiness, but overfeeding (especially nitrogen late in flower) can reduce terpene production and flavor quality.
 
@@ -100,11 +100,11 @@ NYC Diesel has an established reputation in medical cannabis circles, particular
 
 **Depression and anxiety:** The uplifting, euphoric onset makes it popular among patients with treatment-resistant depression. Limonene's anxiolytic properties may complement THC's mood-elevating effects, though THC-dominant strains can worsen anxiety in some individuals.
 
-**Chronic fatigue syndrome:** The energizing cerebral effects provide functional daytime relief without the sedation that makes many cannabis strains impractical for daytime use.
+**[[cannabis-chronic-fatigue-research]] syndrome:** The energizing cerebral effects provide functional daytime relief without the sedation that makes many cannabis strains impractical for daytime use.
 
-**Pain management:** Mild to moderate analgesic effects, primarily through caryophyllene's CB2 agonism and general endocannabinoid system modulation. Not suitable for severe or acute pain.
+**[[cannabis-pain-management-protocols]]:** Mild to moderate analgesic effects, primarily through caryophyllene's CB2 agonism and general endocannabinoid system modulation. Not suitable for severe or acute pain.
 
-**ADHD:** Anecdotal reports suggest improved focus and task engagement, though clinical evidence is lacking. The strain's balanced cannabinoid-terpene profile may support the "entourage effect" hypothesis.
+**ADHD:** Anecdotal reports suggest improved focus and task engagement, though clinical evidence is lacking. The strain's balanced cannabinoid-terpene profile may support the "[[cannabis-terpene-entourage-effect-profiles]]" hypothesis.
 
 **Appetite stimulation:** Moderate munchies effect, useful for patients experiencing appetite loss from chemotherapy or HIV/AIDS treatment.
 

@@ -1,5 +1,5 @@
 ---
-title: Mmda Closed Eye Imagery Phenomenology
+title: Mmda mmda closed eye imagery phenomenology Imagery Phenomenology
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -52,7 +52,7 @@ The compound produced relaxation, passivity, and "compassion of an impersonal so
 
 ## Origin from Nutmeg
 
-MMDA's derivation from myristicin in nutmeg connects it to one of the oldest known psychoactive plant materials. The conversion pathway (myristicin to isomyristicin to myristicinaldehyde to nitrostyrene to MMDA) demonstrates how a naturally occurring essential oil can be transformed into a distinct psychoactive compound. The relationship also provides a pharmacological explanation for nutmeg's reputation as a psychoactive spice -- though the actual myristicin-to-MMDA conversion in humans remains uncertain.
+MMDA's derivation from myristicin in nutmeg connects it to one of the oldest known psychoactive plant materials. The conversion pathway (myristicin to isomyristicin to myristicinaldehyde to nitrostyrene to MMDA) demonstrates how a naturally occurring [[permaculture-designers-manual-essential-oil-plants]] can be transformed into a distinct psychoactive compound. The relationship also provides a pharmacological explanation for nutmeg's reputation as a psychoactive spice -- though the actual myristicin-to-MMDA conversion in humans remains uncertain.
 
 ## Relationship to Other Compounds
 
@@ -73,7 +73,7 @@ MMDA's phenomenology touches on fundamental questions about consciousness:
 - The continuum between meditative states and drug-induced imagery
 - The concept of a "link between the subconscious and the conscious"
 
-These observations, while anecdotal, anticipate modern research into the default mode network and the neurobiology of visual imagery.
+These observations, while anecdotal, anticipate modern research into the [[psilocybin-default-mode-network-ego-dissolution]] network and the neurobiology of visual imagery.
 
 ## Historical Note
 

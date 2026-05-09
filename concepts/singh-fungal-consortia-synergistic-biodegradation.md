@@ -1,5 +1,5 @@
 ---
-title: Fungal Consortia and Synergistic Biodegradation
+title: singh fungal consortia synergistic biodegradation and Synergistic Biodegradation
 created: 2026-04-28
 tags: [biodegradation, fungal-consortia, co-metabolism, enzyme-synergy]
 date: 2026-04-25
@@ -23,7 +23,7 @@ approaches essential for practical remediation applications.
 
 Individual fungal species possess defined enzymatic repertoires that limit
 the range of substrates they can mineralize. Complex environmental pollutants
-such as polycyclic aromatic hydrocarbons (PAHs), polychlorinated biphenyls
+such as [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs), polychlorinated biphenyls
 (PCBs), and pesticide mixtures require sequential enzymatic transformations
 that no single organism typically provides. Consortia overcome this limitation
 through:
@@ -31,10 +31,10 @@ through:
 - Complementary enzymatic pathways where one species initiates degradation
   and produces intermediates that another species further transforms
 - Cross-feeding of metabolites and growth factors between community members
-  that sustain metabolic activity under nutrient-limited conditions
+  that sustain [[arbuscule-isolation-metabolic-activity-assays]] under nutrient-limited conditions
 - Shared redox balancing where one organism's waste products serve as
   electron donors or acceptors for another community member
-- Enhanced bioavailability through biosurfactant production by one species
+- [[staycare-surfactant-enhanced-bioavailability-in-fungal-bioremediation]] through biosurfactant production by one species
   that solubilizes hydrophobic pollutants for uptake by others
 
 The Singh source documents numerous examples where fungal consortia achieved
@@ -48,7 +48,7 @@ lignin-modifying enzyme system of white-rot fungi provides a model:
 
 - [[turkey-tail-trametes-versicolor]] oxidize phenolic
   substrates and initiate ring cleavage of aromatic pollutants
-- Manganese peroxidase from [[staycare-phanerochaete-chrysosporium-in-bioremediation]] with Pseudomonas species for PAH
+- [[fungal-manganese-peroxidase-remediation]] from [[staycare-phanerochaete-chrysosporium-in-bioremediation]] with Pseudomonas species for PAH
 degradation, [[singh-fungal-coal-biodegradation]]
 
 - [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]] - Enzymatic basis of primary
@@ -59,6 +59,7 @@ degradation, [[singh-fungal-coal-biodegradation]]
   broader remediation technology frameworks
 - fungal biofilm formation mechanisms - Biofilm formation in mixed
   fungal-bacterial communities on pollutant surfaces
+
 ## Practical Considerations
 
 Successful implementation of Fungal Consortia and Synergistic Biodegradation requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

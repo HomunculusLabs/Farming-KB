@@ -1,9 +1,9 @@
 ---
-title: Falconer Mushroom Cultivation - Victorian Methods
+title: Falconer mushroom-cultivation - Victorian Methods
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - William Falconer - Mushrooms: How to Grow Them (1891)
+  - william-falconer - Mushrooms: How to Grow Them (1891)
 type: concept
 tags: [cultivation, mushroom-cultivation]
 ---
@@ -11,7 +11,7 @@ tags: [cultivation, mushroom-cultivation]
 # Falconer Mushroom Cultivation - Victorian Methods
 
 William Falconer's "Mushrooms: How to Grow Them" (1891), published by
-Orange Judd Company, was a practical treatise on mushroom culture for
+Orange Judd Company, was a practical treatise on [[mazatec-mushroom-culture-and-velada]] for
 profit and pleasure, written from extensive experience at the Dosoris
 estate on Long Island, New York, and from correspondence with leading
 growers in America and England.
@@ -20,17 +20,17 @@ growers in America and England.
 
 Falconer addressed multiple classes of cultivators:
 
-- **Market Gardeners**: For whom mushrooms were a winter crop filling
+- **Market Gardeners**: For whom mushrooms were a [[coleman-sunlight-and-winter-crop-growth-rates]] filling
   the gap when outdoor operations were at a standstill. Manure used
   first for mushrooms was thoroughly rotted and ideal for subsequent
   spring crops of tomatoes, lettuce, cabbages, and cauliflowers.
 
-- **Florists**: Who could grow mushrooms under greenhouse benches.
+- **Florists**: Who could [[query-how-can-i-grow-mushrooms-alongside-garden-vegetables]] under greenhouse benches.
   A 100-foot greenhouse could yield 500 square feet of bed producing
   250 pounds at fifty cents per pound net ($125), with the additional
   expense being only labor and spawn price.
 
-- **Private Gardeners**: Mushroom growing was routine duty in
+- **Private Gardeners**: [[duggar-mushroom-growing-history-and-methods]] was routine duty in
   pretentious gardens. Failing a dedicated mushroom house, beds could
   be made in tool-sheds, potting-sheds, wood-sheds, stoke-holes,
   fruit-rooms, or under greenhouse benches.
@@ -57,7 +57,7 @@ by conspicuous amateur failures.
 
 ## Manure Preparation
 
-The standard procedure involved turning fresh horse manure once every
+The standard procedure involved turning fresh [[falconer-horse-manure-varieties]] once every
 day or two for about three weeks before making beds. Falconer
 described several successful growers' methods:
 
@@ -86,7 +86,7 @@ Two principal spawn types were available:
 - **English Brick Spawn**: Sold by American seedsmen. Broken into
   pieces 1-2 inches square.
 
-- **French Flake Spawn**: Less commonly used in America.
+- **French [[french-flake-spawn-vs-brick-spawn]]**: Less commonly used in America.
 
 Gardner's distinctive method was to draw drills 18 inches apart and
 2.5-3 inches deep with an angular-pointed hoe, then sow the broken
@@ -136,4 +136,5 @@ alleys between.
 
 - [[mushroom-cultivation-basics]]
 - [[falconer-mushroom-cellar-management]]
-- [[duggar-mushroom-bed-preparation-and-casing]]
+- duggar-mushroom-bed-preparation-and-casing
+- [[mushroom-cultivation]]

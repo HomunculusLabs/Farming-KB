@@ -29,7 +29,7 @@ tags: [profile]
 ## Overview
 
 L-ornithine is a non-proteinogenic alpha-amino acid.
-It is a central recyclable carrier in the mammalian urea cycle.
+It is a central recyclable carrier in the mammalian [[urea-cycle-biochemistry]].
 The compound is not one of the twenty standard amino acids used by ribosomes.
 Its main biochemical importance comes from nitrogen disposal and arginine metabolism.
 Ornithine accepts a carbamoyl group to become citrulline.
@@ -65,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,9 +102,8 @@ advance the field as a whole. Cross-pollination of ideas from biology,
 ecology, data science, and traditional knowledge systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

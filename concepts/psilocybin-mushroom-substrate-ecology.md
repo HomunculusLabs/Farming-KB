@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushroom Substrate Ecology
+title: emcdda-psilocybin-mushroom-dose-and-effects Substrate Ecology
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -18,15 +18,15 @@ The four main substrate categories are coprophilous (dung-inhabiting), lignicolo
 
 ## Coprophilous Species: Dung-Dwellers
 
-The largest group of tropical and subtropical psilocybin mushrooms grows directly on herbivore dung.
+The largest group of tropical and subtropical [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] grows directly on herbivore dung.
 
 [[panaeolus-cyanescens-bali-omelette]] grows on cow dung and water buffalo dung across Asia, the Pacific, and other tropical regions.
 
 Copelandia species are almost exclusively coprophilous on dung in tropical and subtropical regions.
 
-Panaeolus subbalteatus can grow on dung but also on grassy or rarely woodland habitats.
+[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]] can grow on dung but also on grassy or rarely woodland habitats.
 
-In Bali, commercial cultivation of Panaeolus cyanescens used the method of transferring dung with naturally-grown mycelia onto fresh buffalo manure.
+In Bali, commercial cultivation of [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] used the method of transferring dung with naturally-grown mycelia onto fresh buffalo manure.
 
 In Thailand, rice debris was added to fresh manure and mixed with dung already permeated by mycelia for outdoor cultivation.
 
@@ -50,7 +50,7 @@ It is a nitrophilic species that benefits from nutrient-rich soils in establishe
 
 [[inocybe-aeruginascens-profile]] is unique among psilocybin-containing species in being mycorrhizal, requiring a symbiosis with certain types of wood (Populus, Tilia, Quercus, Betula) to fruit.
 
-This is the most marked difference between Inocybe aeruginascens and other European psychotropic mushroom species.
+This is the most marked difference between [[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]] and other European psychotropic mushroom species.
 
 Inocybe aeruginascens grows only in areas of human development, in the middle of villages and towns, near roots of different deciduous trees.
 
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

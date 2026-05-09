@@ -33,7 +33,7 @@ sources:
 ## Overview
 
 **Romulan** (sometimes spelled "Romulan" after the Star Trek alien race) is an
-indica-dominant cannabis strain renowned for its deeply sedative effects and
+indica-dominant [[blesching-cannabis-strain-selection-receptor-targeting]] renowned for its deeply sedative effects and
 pine-scented aroma. Originating in Northern California during the 1990s, it
 earned a devoted following among medical cannabis patients seeking potent
 physical relaxation and sleep support.
@@ -52,12 +52,12 @@ strong body-focused sedation.
 
 Romulan's exact genetic history is not fully documented, but it is widely
 accepted as a cross involving **White Rhino** genetics, itself an indica-dominant
-hybrid of **White Widow** and an unknown North American indica. Some accounts
+hybrid of **White Widow** and an unknown [[growing-gourmet-north-american-reishi-species]] indica. Some accounts
 suggest Afghani landrace genetics as an additional contributor.
 
 The genetic ratio is approximately **85–90% indica / 10–15% sativa**. White
 Rhino parentage is responsible for the strain's dense bud structure, heavy
-resin production, and physical stone, while the indica ancestry provides the
+[[cannabis-glandular-trichome-types-resin-production-clarke]], and physical stone, while the indica ancestry provides the
 pronounced sedative character.
 
 Romulan has been used extensively as a breeding parent. Notable crosses include
@@ -102,14 +102,14 @@ Romulan has a long history in medical cannabis circles, particularly in the
 Pacific Northwest where it was widely available through dispensaries during the
 medical-only era. Primary applications include:
 
-- **Insomnia and sleep disorders** — consistently rated among the most
+- **Insomnia and [[cannabis-sleep-disorders-and-insomnia]]** — consistently rated among the most
   effective strains for sleep induction due to heavy sedative properties.
 - **Chronic pain** — strong analgesic body effects suitable for neuropathic
   and musculoskeletal pain management.
 - **Muscle spasms and tension** — pronounced muscle-relaxant qualities.
 - **Stress and anxiety** — calming mental effects without significant
   paranoia risk at moderate doses.
-- **Nausea and appetite stimulation** — munchies effect aids patients
+- **[[cannabis-for-nausea-and-appetite-stimulation]] stimulation** — munchies effect aids patients
   undergoing chemotherapy or with appetite-suppressing conditions.
 
 ## Cultivation
@@ -125,7 +125,7 @@ mid-October in Northern Hemisphere temperate zones. Yields are moderate:
 
 The strain responds well to LST (low stress training) and topping to control
 height and maximize bud sites. It is relatively pest-resistant but can be
-susceptible to powdery mildew in high-humidity environments. Nutrient
+susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in high-humidity environments. Nutrient
 requirements are moderate; the strain is not a heavy feeder.
 
 ## Side Effects

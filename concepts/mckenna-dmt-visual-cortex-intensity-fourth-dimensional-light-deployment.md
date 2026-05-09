@@ -1,5 +1,5 @@
 ---
-title: "DMT Visual Cortex Intensity and Fourth-Dimensional Light Deployment"
+title: "mckenna dmt visual cortex intensity fourth dimensional light deployment Cortex Intensity and Fourth-Dimensional Light Deployment"
 source: mckenna_t-tryptamines_consciousness.md
 topics: ["DMT", "visual cortex", "hallucination", "tryptamine",
   "fourth dimension", "phenomenology", "consciousness",
@@ -88,9 +88,9 @@ normal hallucinogenic modality appears: a shifting geometric
 surface of migrating colored forms.
 
 At the synaptic site, "all available bond sites are being
-occupied," and a mode shift occurs over thirty seconds. One arrives
+occupied," and a [[mckenna-dmt-onset-phenomenology-and-mode-shift-experience]] occurs over thirty seconds. One arrives
 in a space that "defies description" — underground, insulated,
-domed. McKenna referenced Finnegans Wake's "merry go raum" (German
+domed. McKenna referenced [[dmt-finnegans-wake-and-the-merry-go-raum]]'s "merry go raum" (German
 for space). The room seems to move, and one feels like a child
 come out somewhere in eternity.
 

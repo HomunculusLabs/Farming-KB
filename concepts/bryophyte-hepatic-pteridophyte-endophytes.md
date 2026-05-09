@@ -1,5 +1,5 @@
 ---
-title: "Endophytic Fungi of Bryophytes, Hepatics, and Pteridophytes"
+title: "comparison-endophytic-fungi-vs-mycorrhizal-fungi of Bryophytes, Hepatics, and Pteridophytes"
 created: 2026-04-26
 tags:
   - mycology
@@ -58,7 +58,7 @@ recognition as a distinct category of plant-fungus interaction.
 Fungi colonizing tropical, arboreal, epiphytic ferns demonstrate the
 breadth of endophytic associations in pteridophytes. The colonization
 pattern, involving invasion of epidermal and cortical cells with
-hyphal coils, parallels the ericoid mycorrhizal association seen in
+hyphal coils, parallels the [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] association seen in
 ericaceous plants. This convergence suggests similar ecological
 functions across phylogenetically distant plant groups.
 
@@ -67,13 +67,13 @@ functions across phylogenetically distant plant groups.
 The ecological roles of endophytes in nonvascular and primitive
 vascular plants remain largely speculative but may include:
 
-- **Nutrient acquisition**: Fungal associates may enhance nutrient uptake, particularly phosphorus, in substrata where these plants
+- **Nutrient acquisition**: Fungal associates may enhance [[plant-nutrient-uptake-mechanisms]], particularly phosphorus, in substrata where these plants
   typically grow
-- **Stress tolerance**: Endophytic fungi may confer tolerance to
+- **[[fungal-lichen-stress-tolerance-and-poikilohydry]]**: Endophytic fungi may confer tolerance to
   desiccation, temperature extremes, or UV radiation, which is
   particularly relevant for plants growing on exposed rock surfaces
   or in alpine environments
-- **Defense**: Production of secondary metabolites may protect hosts
+- **Defense**: Production of [[antifungal-secondary-metabolites-coprophilous-fungi]] may protect hosts
   from herbivores or microbial pathogens
 - **Establishment assistance**: Fungal partners may facilitate spore
   germination or gametophyte establishment in challenging habitats
@@ -100,7 +100,7 @@ groups:
 ## Global Distribution
 
 Endophytic fungi are known from bryophytes, hepatics, and
-pteridophytes growing in tropical, temperate, and boreal forests; from
+pteridophytes growing in tropical, temperate, and [[fungal-diversity-boreal-forests-taiga]]; from
 herbaceous plants in extreme arctic, alpine, and xeric environments;
 and from mesic temperate and tropical forests. The ubiquity of these
 ## See Also

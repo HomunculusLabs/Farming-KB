@@ -1,5 +1,5 @@
 ---
-title: The Kykeon Potion and Ergot Hypothesis at Eleusis
+title: The Kykeon kykeon-potion-and-ergot-theory Hypothesis at Eleusis
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -10,11 +10,11 @@ sources:
 
 # The Kykeon Potion and Ergot Hypothesis at Eleusis
 
-The central ritual of the Eleusinian Mysteries involved the drinking of a potion called the kykeon, after which initiates experienced a transformative vision in the great telesterion (initiation hall). Wasson, Hofmann, and Ruck proposed that the kykeon contained an hallucinogenic extract of ergot (Claviceps purpurea) growing on barley -- Demeter's sacred grain.
+The central ritual of the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] involved the drinking of a potion called the kykeon, after which initiates experienced a transformative vision in the great telesterion (initiation hall). Wasson, Hofmann, and Ruck proposed that the kykeon contained an hallucinogenic extract of ergot ([[bloomfield-ergot-claviceps-purpurea-ergotism]]) growing on barley -- Demeter's sacred grain.
 
 ## The Kykeon Formula
 
-The formula for the kykeon is recorded in the Homeric Hymn to Demeter. In addition to barley, it contained water and a fragrant mint called blechon. The mint was initially considered as a possible psychoactive candidate, but evidence indicates it was unsuitable:
+The formula for the kykeon is recorded in the [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]] to Demeter. In addition to barley, it contained water and a fragrant mint called blechon. The mint was initially considered as a possible psychoactive candidate, but evidence indicates it was unsuitable:
 
 - It was neither sufficiently psychotropic to warrant secrecy
 - It was openly despised as a sign of illicit union
@@ -36,7 +36,7 @@ After drinking, initiates chanted that they had consumed the potion and handled 
 
 ## The Vision
 
-From the potion, the initiates gradually entered ecstasy. The hallucinogen, under carefully controlled set and setting, produced extraordinary effects:
+From the potion, the initiates gradually entered ecstasy. The hallucinogen, under carefully controlled [[lsd-set-and-setting-framework]], produced extraordinary effects:
 
 - Ventroloquistic effects (disturbing the inner ear)
 - Music coming from hither and yon -- whispers, distant voices, depth of the earth
@@ -89,5 +89,5 @@ In the fifth century BC, a scandal erupted when aristocratic Athenians were disc
 
 - [[the-road-to-eleusis-wasson-hofmann-ruck]] -- the full collaborative argument
 - [[ergot-and-lysergic-acid-history]] -- broader history of ergot alkaloids
-- [[kykeon-composition-and-ergot-alkaloid-hypothesis]] -- detailed chemical analysis
+- [[kykeon-composition-and-ergot-alkaloid-hypothesis]] -- detailed [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]
 - [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]

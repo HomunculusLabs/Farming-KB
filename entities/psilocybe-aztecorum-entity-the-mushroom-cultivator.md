@@ -6,7 +6,7 @@ tags: [psilocybe, psychoactive, aztec, compost-cultivation, mexican-species]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+  sources: []
 ---
 
 # Psilocybe aztecorum
@@ -33,7 +33,7 @@ typical features of the Psilocybe genus. Members of this genus typically have sm
 hygrophanous caps that are convex when young and expand to plane with age. The gills
 are adnate to adnexed and darken from pale grey to dark purplish brown as spores
 mature. Stems are typically slender, hollow, and may bruise bluish when damaged, a
-hallmark of psilocybin-containing species. The spore print is typically dark purplish
+hallmark of psilocybin-containing species. The [[comparison-spore-print-collection-vs-spore-syringe-production]] is typically dark purplish
 brown, consistent with other species in the genus. More detailed morphological
 descriptions can be found in the primary taxonomic literature, particularly the works
 of Gaston Guzman who has extensively studied the Psilocybe genus in Mexico.
@@ -78,7 +78,7 @@ knowledge of the species, the following can be inferred:
   composting techniques with a turn schedule on days 0, 2, 5, 7, and 9.
 - **Temperature:** As a highland species from central Mexico, P. aztecorum likely
   prefers cooler fruiting temperatures compared to tropical Psilocybe species.
-- **Casing:** Most Psilocybe species benefit from a peat-based casing layer for
+- **Casing:** Most Psilocybe species benefit from a peat-based [[gourmet-medicinal-mushroom-casing-layer-techniques]] for
   fruitbody initiation.
 - **Substrate Notes:** Bagasse used as stable bedding produced yields comparable to
   horse manure-based compost in Kneebone's experiments. However, bagasse supplemented
@@ -90,11 +90,11 @@ knowledge of the species, the following can be inferred:
 The mention of Psilocybe aztecorum in The Mushroom Cultivator occurs within a broader
 discussion of alternative compost substrates for mushroom cultivation. Dr. Kneebone's
 1960 work with bagasse compost was pioneering in demonstrating that sugar cane
-by-products could serve as effective mushroom growing media. The composts were
+by-products could serve as effective [[duggar-mushroom-growing-history-and-methods]] media. The composts were
 prepared using standard techniques with a turn schedule on days 0, 2, 5, 7, and 9.
 Bagasse supplemented with a commercial activator ("Acto 88") yielded poorly,
 indicating that additives designed for one compost system may not transfer
-successfully to another. Bagasse used as stable bedding (mixed with animal manure)
+successfully to another. Bagasse used as stable bedding (mixed with [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]])
 produced yields comparable to the horse manure-based control compost, suggesting
 that natural enrichment through stable use is preferable to artificial supplementation
 for this substrate.
@@ -105,7 +105,7 @@ Psilocybe aztecorum, like other members of its genus, interacts with its environ
 primarily as a decomposer of plant material. In cultivation, it would be susceptible
 to the same range of contaminants that affect other mushroom species grown on compost
 substrates, including Trichoderma (green mold), various bacterial contaminants, and
-cobweb mold (Dactylium dendroides). The species does not have known mycorrhizal
+[[dactylium-cobweb-mold-mushroom-pathogens]] (Dactylium dendroides). The species does not have known mycorrhizal
 associations. Its successful cultivation on bagasse compost by Dr. Kneebone suggests
 that it can compete effectively with other microorganisms in a properly prepared and
 pasteurized compost environment. The species shares its highland Mexican habitat with
@@ -117,7 +117,7 @@ interactions with these species in natural settings.
 Psilocybe aztecorum represents an interesting case study in substrate adaptability
 for mushroom cultivation. The successful growth on bagasse compost by Dr. Kneebone
 demonstrates that not all psychoactive Psilocybe species require the grain-based or
-straw-based substrates commonly used in home cultivation. The species connection to
+straw-based substrates commonly used in [[mushroom-home-cultivation-history]]. The species connection to
 Aztec culture adds significant ethnobotanical interest, as it is one of the mushroom
 species believed to have been used in pre-Columbian Mesoamerican religious ceremonies.
 Further research into optimized cultivation parameters for this species would be

@@ -27,15 +27,15 @@ For mushroom preservation specifically, the FAO mushroom training manual recomme
 
 ## Fermentation Without Equipment
 
-JADAM's expertise in anaerobic fermentation applies directly to food preservation. The same simple principles used for making liquid fertilizers can preserve food:
+JADAM's expertise in [[jadam-anaerobic-fermentation-principles]] applies directly to food preservation. The same simple principles used for making liquid fertilizers can preserve food:
 
 - **Anaerobic conditions**: Excluding oxygen prevents spoilage organisms while allowing beneficial lactic acid bacteria to preserve the food
 - **Simple containers**: Glass jars, plastic buckets, or even cloth sacks can serve as fermentation vessels
 - **No starter cultures needed**: Wild lactic acid bacteria present on food surfaces are sufficient for most vegetable fermentations
-- **Ambient temperature**: Fermentation works at room temperature — no heating or cooling equipment needed
+- **[[jadam-ambient-temperature-principle]]**: Fermentation works at room temperature — no heating or cooling equipment needed
 
-JADAM's "gunnysack fermentation" method can be adapted for food preservation. The manual describes several fermented mushroom products:
-- **Fermented mushrooms "Pla la hed"**: A traditional Thai fermented mushroom preparation
+JADAM's "gunnysack fermentation" method can be adapted for food preservation. The manual describes several fermented [[cotter-mushroom-products-and-value-added-applications]]:
+- **Fermented mushrooms "Pla la hed"**: A traditional Thai fermented [[magic-mushroom-preparation-and-consumption-methods]]
 - **Fermented mushrooms in banana leaf**: Using banana leaves as both container and flavoring agent
 - **Pickled mushrooms with soya sauce**: A simple preservation method using readily available ingredients
 - **Shrimp paste mushrooms (vegetarian)**: A protein-rich preserved mushroom product
@@ -44,7 +44,7 @@ JADAM's "gunnysack fermentation" method can be adapted for food preservation. Th
 
 While JADAM does not explicitly describe root cellaring methods, the principles of low-cost preservation naturally include cool storage. Traditional methods that require no energy input:
 
-- **Earth storage**: Burying root vegetables in soil or sand in a cool, shaded area. The earth provides natural insulation and humidity control
+- **Earth storage**: Burying root vegetables in soil or sand in a cool, shaded area. The earth provides natural insulation and [[cervantes-humidity-control-dehumidification]]
 - **Cool rooms**: North-facing rooms or naturally cool basements that maintain temperatures suitable for short-term storage without refrigeration
 - **Ventilated storage**: Well-ventilated areas where air circulation prevents moisture buildup and mold growth
 - **Pit storage**: Digging shallow pits lined with straw for storing root crops through winter
@@ -61,7 +61,7 @@ Beyond basic preservation, simple processing adds value to farm products without
 
 - **Sun-dried mushrooms**: Dried mushrooms command higher prices and have longer shelf life than fresh
 - **Dried herbs and teas**: Herbs from the farm can be dried and packaged as value-added products
-- **Fermented products**: Sauerkraut, kimchi, pickles, and other fermented vegetables can be made from farm produce
+- **Fermented products**: Sauerkraut, kimchi, pickles, and other [[comparison-fermented-vegetables-vs-canning]] can be made from farm produce
 - **Powders and flours**: Dried vegetables and grains can be ground into powders for extended storage
 
 ## Waste Reduction Through Preservation

@@ -5,15 +5,15 @@ updated: 2026-04-16
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis High-Volume Extraction
 
-High-volume cannabis extraction is the scaled-up application of solvent-based extraction techniques, designed to process large quantities of cannabis material efficiently and safely. The apparatus and methods described in classical cannabis alchemy literature, particularly in Ben Lemon's Cannabis Alchemy, draw directly from the tradition of illicit alcohol distillation, adapting moonshiner techniques for the extraction and refinement of cannabis oils.
+High-volume [[comparison-cannabis-extraction-basics-vs-extraction-methods]] is the scaled-up application of solvent-based extraction techniques, designed to process large quantities of cannabis material efficiently and safely. The apparatus and methods described in classical [[lemon-cannabis-alchemy-advanced-refinement-techniques]] literature, particularly in Ben Lemon's Cannabis Alchemy, draw directly from the tradition of illicit alcohol distillation, adapting moonshiner techniques for the extraction and refinement of cannabis oils.
 
 ## Historical Context
 
-The development of high-volume extraction methods was driven by the high potential profits from smuggling concentrated cannabis oil, which is far more potent per unit weight than raw plant material. The United States Drug Enforcement Administration documented various large-scale extraction devices they had seized, noting the new problems these operations posed for law enforcement. The situation was described as reminiscent of the traditional moonshiner-revenuer dynamic.
+The development of high-volume extraction methods was driven by the high potential profits from smuggling concentrated cannabis oil, which is far more potent per unit weight than raw plant material. The [[dmt-containing-plants-united-states-halpern]] Drug Enforcement Administration documented various large-scale extraction devices they had seized, noting the new problems these operations posed for law enforcement. The situation was described as reminiscent of the traditional moonshiner-revenuer dynamic.
 
 The apparatus designs reflect practical ingenuity in adapting commonly available industrial materials for cannabis processing. The use of 55-gallon oil drums, hardware store components, and surplus equipment made these systems accessible to operators without access to professional laboratory apparatus.
 
@@ -61,7 +61,7 @@ The entire operation requires continuous monitoring. Such a device must always b
 
 The principles of each operation in the high-volume system parallel those in basic kitchen-scale extraction using household equipment. The chemistry is identical, but the engineering challenges of managing large volumes of flammable solvents require proportionally greater attention to safety, cooling capacity, and structural integrity.
 
-Modern commercial extraction facilities have largely replaced these improvised systems with purpose-built closed-loop extraction equipment that provides even greater safety, efficiency, and solvent recovery. However, the fundamental principles of reflux extraction, soxhlet washing, and solvent recovery remain the same.
+Modern commercial extraction facilities have largely replaced these improvised systems with purpose-built closed-loop extraction equipment that provides even greater safety, efficiency, and solvent recovery. However, the fundamental principles of [[cannabis-reflux-extraction-apparatus]], soxhlet washing, and solvent recovery remain the same.
 
 ## Related Topics
 
@@ -87,4 +87,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

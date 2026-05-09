@@ -70,7 +70,7 @@ UGT induction can lower exposure by increasing conjugation and clearance, someti
 
 Interactions may be substrate-specific because one inhibitor affects UGT1A1 differently from UGT2B7 or UGT1A9.
 
-Competition for UDP-glucuronic acid is usually less important than enzyme inhibition, transporter effects, and changes in hepatic uptake or biliary export.
+Competition for UDP-glucuronic acid is usually less important than [[enzyme-inhibition]], transporter effects, and changes in hepatic uptake or biliary export.
 
 Clinical interpretation requires considering the parent drug, active glucuronides, transporter handling, protein binding, and patient-specific clearance.
 
@@ -86,9 +86,8 @@ Urinary glucuronides are useful biomarkers of exposure for drugs, environmental 
 
 [[knf-fish-amino-acid]] conjugation, and [[cytochrome-p450-enzyme-system]] can create hydroxylated metabolites that are then excellent UGT substrates.
 
-This coupling means that phase I and phase II metabolism are not isolated stages but linked networks shaped by enzyme expression [[fungal-poisons-and-toxicology]] literature on UGT isoforms, bilirubin conjugation, drug clearance, acyl glucuronides, and enterohepatic cycling.
+This coupling means that phase I and [[phase-ii-metabolism]] are not isolated stages but linked networks shaped by enzyme expression [[fungal-poisons-and-toxicology]] literature on UGT isoforms, bilirubin conjugation, drug clearance, acyl glucuronides, and enterohepatic cycling.
 ## See Also
 
-[[cytochrome-p450-enzyme-system]]
 pharmacokinetics
 toxicology

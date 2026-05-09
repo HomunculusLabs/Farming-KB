@@ -1,5 +1,5 @@
 ---
-title: Chinampa Wetland Garden System
+title: mollison designers chinampa wetland garden system Garden System
 created: 2026-04-28
 tags:
   - permaculture-design
@@ -24,7 +24,7 @@ firmly anchored to the lake floor. Bill Mollison presents chinampas in the
 soil building, and [[pond-and-aquaculture]] and [[backyard-water-harvesting]] and
 intensive growing integrated design. Permaculture adaptations include:
 
-- Constructing chinampa-like systems in constructed wetlands, retention
+- Constructing chinampa-like systems in [[comparison-constructed-wetlands-vs-bioswales]], retention
   ponds, and seasonal waterlogged areas on farm properties.
 - Using the chinampa model for [[pond-and-aquaculture]] in integrated pond-garden
   designs where fish waste fertilises plants and plant debris feeds fish
@@ -43,7 +43,7 @@ productivity increases rather than declines with time.
 Contemporary practitioners have adapted chinampa principles to various
 contexts, including urban rooftop wetland gardens, constructed treatment
 wetlands, and small-scale pond-edge gardens. The core principles of
-water-based nutrient cycling, layered organic soil construction, and
+water-based [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], layered organic soil construction, and
 integrated canal-bed design remain applicable wherever shallow water and
 organic material can be combined productively.
 
@@ -51,7 +51,7 @@ organic material can be combined productively.
 
 - Mollison, Bill. *Permaculture: A Designers' Manual.* Tagari Publications,
   1988. Section on water and wetland systems.
-- Related concepts: [[constructed-wetland-design]], [[zone-1-intensive-garden]], [[mollison-aquatic-polyculture-systems]]
+- Related concepts: [[constructed-wetland-design]], [[zone-1-intensive-garden]], mollison-aquatic-polyculture-systems
 ## Practical Considerations
 
 When working with Chinampa Wetland Garden System, several practical factors should be
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

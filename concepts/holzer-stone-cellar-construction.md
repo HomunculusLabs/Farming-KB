@@ -1,5 +1,5 @@
 ---
-title: Stone Cellar Construction
+title: holzer stone cellar construction Construction
 created: 2026-04-26
 tags:
   - root-cellar
@@ -16,8 +16,8 @@ type: concept
 # Stone Cellar Construction
 
 Stone cellars represent the most permanent and durable approach to crop
-storage in Sepp Holzer's permaculture system. Built on the [[holzer-roundwood-shelters-earth-cellars]], stone cellars
-provide unmatched longevity and stable storage conditions. They complement
+storage in [[comparison-sepp-holzer-vs-biodynamic]]'s permaculture system. Built on the [[holzer-roundwood-shelters-earth-cellars]], stone cellars
+provide unmatched longevity and stable [[vegetable-storage-conditions-by-temperature-and-humidity]]. They complement
 the broader traditions of [[earth-cellar-construction]].
 
 ## Comparison with Roundwood Shelters
@@ -47,7 +47,7 @@ in the shortest amount of time. The high humidity and steady temperature of
 earth-insulated cellars is ideal for the majority of crops.
 
 This connects to the broader [[root-cellar-design-and-construction]] principles used in
-many traditional root cellar designs.
+many traditional [[comparison-root-cellar-vs-ice-house]] designs.
 
 ## Condensation Prevention
 
@@ -79,7 +79,7 @@ This permanence reflects the [[holzer-seed-saving-and-variety-preservation]]
 
 ## Climate Adaptation
 
-Building roundwood shelters and earth cellars is both possible and practical
+Building roundwood shelters and [[sepp-holzer-earth-cellars-and-philosophy]] is both possible and practical
 all over the world. Holzer has had good results with all of his projects. If
 you make use of the balancing effect of the soil, you can create a pleasant,
 cool retreat in hot places and a warm one in cold places. You just have to

@@ -43,7 +43,7 @@ Salves combine cannabis-infused oil with beeswax to create a semi-solid preparat
 
 - Cannabis-infused oil provides the active cannabinoids
 - Beeswax adds structure and helps the preparation adhere to skin
-- Essential oils can be added for additional therapeutic benefits
+- [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] can be added for additional therapeutic benefits
 - Coconut oil is a popular carrier due to its skin-friendly properties
 - The ratio of wax to oil determines the firmness of the final product
 
@@ -67,7 +67,7 @@ For topicals, cannabis material should be carefully prepared:
 - Clean stems and large debris from leaf material
 - Ensure foliage is free of pesticide residues (use only water-based products before harvest)
 - Flush with water for 7-10 days before harvest to remove fertilizers
-- Dry foliage thoroughly before use to prevent mold in the final product
+- Dry foliage thoroughly before use to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] in the final product
 - Remove brown, crisp, and dead foliage before processing
 
 Trim leaves from [[cannabis-cannabutter-preparation]]
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

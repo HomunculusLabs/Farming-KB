@@ -1,5 +1,5 @@
 ---
-title: "Sophora secundiflora"
+title: "mescal-bean-sophora-secundiflora-vision-dance"
 created: 2026-04-28
 type: species
 aliases: [mescal bean, Texas mountain laurel, frijolillo, coralbean, red bean]
@@ -17,7 +17,7 @@ sources:
 Sophora secundiflora, the mescal bean or Texas mountain laurel, is an
 evergreen shrub or small tree native to the limestone hills of Texas,
 New Mexico, and northern Mexico. Its bright scarlet seeds were among
-the most important psychoactive plants of pre-Columbian North America,
+the most important psychoactive plants of pre-Columbian [[psilocybin-north-america-pacific-northwest]],
 used in the Red Bean Dance and vision-seeking ceremonies by at least a
 dozen tribes for over 9,000 years. The seeds contain the highly toxic
 quinolizidine alkaloid cytisine, which is unrelated to mescaline despite
@@ -87,16 +87,16 @@ dry caves in Texas and northern Mexico documents use dating back 8,500
 to 10,000+ years, among the oldest entheogenic plant traditions in
 North America. Seeds found far beyond the natural range indicate
 extensive long-distance trade networks across the Great Plains and
-into the eastern United States (Illinois, Ohio).
+into the eastern [[dmt-containing-plants-united-states-halpern]] (Illinois, Ohio).
 
 ## Displacement by Peyote
 
 The arrival of the peyote cult led the natives to abandon the Red
 Bean Dance beginning in the early 1800s, accelerating with the Native
-American Church circa 1918. Peyote produced more predictable visionary
+[[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] circa 1918. Peyote produced more predictable visionary
 effects with a much wider safety margin than the highly toxic mescal
 bean. Mescal bean use persisted in some Apache and Plains communities
-into the early twentieth century, and the red beans continue to hold
+into the early [[coleman-louis-savier-twentieth-century-maraicher]], and the red beans continue to hold
 symbolic importance in [[mescal-bean-sophora-secundiflora-vision-dance]]
 - ethnomycology
 - [[tabernanthe-iboga]]

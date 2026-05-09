@@ -3,33 +3,10 @@ title: Mushroom Polysaccharide Chemistry
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [[mycology, mushrooms, cultivation]
+tags: [mycology, mushrooms, cultivation]
 sources: ["raw/papers/cancer-treatments-medicinal-mushrooms.md"]
 ---
-# Mushroom Polysaccharide Chemistry
-
-Mushroom-derived polysaccharides are the primary bioactive compounds responsible for the medicinal properties of fungi used in traditional Chinese medicine and modern oncology. These macromolecules demonstrate potent immunomodulatory and antitumour activities.
-
-## Structural Classes
-
-### β-D-Glucans
-
-The most significant antitumour polysaccharides from mushrooms are water-soluble β-D-glucans. These consist of D-glucose units linked primarily by β-(1→3) glycosidic bonds with β-(1→6) branching points. The branching pattern and degree of branching critically determine biological activity.
-
-Key structural features affecting activity:
-- **Triple helix conformation** — helical structure is essential for immunopotentiating activity; linear or single-strand conformations show reduced activity
-- **Molecular weight** — higher molecular weight generally correlates with stronger immune response
-- **Branching frequency** — moderate branching (one branch per 3-5 glucose units) is optimal
-- **Solubility** — water-soluble fractions are most bioactive
-
-### Heteropolysaccharides
-
-Complex polysaccharides containing glucose plus other sugars (xylose, mannose, galactose, uronic acid) attached as heterosaccharide chains to the β-glucan backbone. These heteropolymers often show enhanced immunomodulatory activity compared to pure glucans.
-
-### Proteoglycans (Polysaccharide-Peptide Complexes)
-
-Protein-bound polysaccharides where peptide chains are covalently linked to the carbohydrate moiety. The protein component contributes to biological activity and may improve receptor binding. Examples include:
-- **PSK** (polysaccharide-peptide from [[turkey-tail-trametes-versicolor]])
+# Mushroom Polysaccharide Chemistry Mushroom-derived polysaccharides are the primary bioactive compounds responsible for the medicinal properties of fungi used in traditional Chinese medicine and modern oncology. These macromolecules demonstrate potent immunomodulatory and antitumour activities. ## Structural Classes ### β-D-Glucans The most significant antitumour polysaccharides from mushrooms are water-soluble β-D-glucans. These consist of D-glucose units linked primarily by β-(1→3) glycosidic bonds with β-(1→6) branching points. The branching pattern and degree of branching critically determine biological activity. Key structural features affecting activity: - **Triple helix conformation** — helical structure is essential for immunopotentiating activity; linear or single-strand conformations show reduced activity - **Molecular weight** — higher molecular weight generally correlates with stronger immune response - **Branching frequency** — moderate branching (one branch per 3-5 glucose units) is optimal - **Solubility** — water-soluble fractions are most bioactive ### Heteropolysaccharides Complex polysaccharides containing glucose plus other sugars (xylose, mannose, galactose, uronic acid) attached as heterosaccharide chains to the β-glucan backbone. These heteropolymers often show enhanced immunomodulatory activity compared to pure glucans. ### Proteoglycans (Polysaccharide-Peptide Complexes) Protein-bound polysaccharides where peptide chains are covalently linked to the carbohydrate moiety. The protein component contributes to biological activity and may improve receptor binding. Examples include: - **PSK** (polysaccharide-peptide from [[turkey-tail-trametes-versicolor]])
 - **LZ-8** (immunomodulatory protein from [[reishi-mushroom-medicinal-properties]]. Ganoderic acids are oxygenated lanostane-type triterpenoids with demonstrated anti-inflammatory, hepatoprotective, and antitumour properties.
 
 ## Major Bioactive Compounds
@@ -37,11 +14,12 @@ Protein-bound polysaccharides where peptide chains are covalently linked to the 
 | Compound | Source Species | Type | Clinical Status |
 |----------|---------------|------|----------------|
 | Lentinan | [[turkey-tail-trametes-versicolor]] | Proteoglycan | Approved (Japan) |
-| PSP | [[stamets-maitake-grifola-frondosa-cultivation]] | β-1,6/1,3 glucan | Clinical trials |
+| PSP | [[stamets-maitake-grifola-frondosa-cultivation]] | β-1,6/1,3 glucan | [[mushroom-cancer-clinical-trials-overview]] |
 | D-Fraction | [[mushroom-immunomodulation-mechanisms]] — how these compounds interact with the immune system
-- [[psk-psp-polysaccharide-peptides]] — turkey tail proteoglycans in cancer treatment
+- [[psk-psp-polysaccharide-peptides]] — [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] proteoglycans in cancer treatment
 - [[lentinan-pre-clinical-antitumour-models]]
 - [[schizophyllum-commune-schizophyllan-cancer]]
+
 ## Practical Considerations
 
 When working with Mushroom Polysaccharide Chemistry, several practical factors should be
@@ -58,7 +36,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,4 +78,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

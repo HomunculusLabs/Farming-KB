@@ -1,5 +1,5 @@
 ---
-title: "METHYL-MA (PMMA; DOONE; 4-MMA; 4-METHOXY-N-METHYLAMPHETAMINE) -- PIHKAL Entry #130"
+title: "METHYL-MA (PMMA; DOONE; 4-MMA; 4-METHOXY-N-METHYLAMPHETAMINE) -- 2c-b-pihkal-entry-20 #130"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -54,7 +54,7 @@ two brilliant twins, Drs. Albie and Bunny Gorp. They vividly
 demonstrated to the enthusiastic conference that their new drug
 "Intensity" was simply MDMA with one of the two oxygens removed.
 "Voila," said one of them, with a molecular model in his hands, "Legal
-as sea salt." And what is MDMA with one oxygen atom removed? It is
+as [[jadam-sea-salt-and-mineral-solutions]]." And what is MDMA with one oxygen atom removed? It is
 4-methoxy-N-methylamphetamine or METHYL-MA which, according to the
 twins, should give the illusion of substance to one's alter ego. So,
 I called it Doonesamine, or simply RDOONES for short. Maybe that was
@@ -63,7 +63,7 @@ wherein the magical drug "spice" provided a most remarkable alteration
 of the user's state of consciousness.
 
 This comic strip presentation was the first nationally distributed
-allusion to the term "designer drugs," and perhaps it lent unexpected
+allusion to the term "[[shulgin-designer-drugs-analysis]]," and perhaps it lent unexpected
 
 support for the passage, just a year later, of the Controlled
 Substances Analogue Enforcement Act of 1986. This intentionally vague
@@ -126,7 +126,7 @@ LAH to this same end product.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

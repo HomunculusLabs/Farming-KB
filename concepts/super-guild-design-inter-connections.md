@@ -1,5 +1,5 @@
 ---
-title: Super Guild Design Inter Connections
+title: gaias-garden-super-guild-design Design Inter Connections
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -13,7 +13,7 @@ A super-guild is an integrated landscape design where multiple individual [[perm
 
 ## Buffer Zones Between Guilds
 
-The walnut-hackberry guild developed by Tim Murphy hinted at a method for extending and connecting guilds. Tim's suggestion of using buffer plants to protect fruit trees from the effects of a walnut tree's toxic secretions pointed at one route for inter-guild connection.
+The walnut-hackberry guild developed by Tim Murphy hinted at a method for extending and connecting guilds. Tim's suggestion of using buffer plants to protect [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] from the effects of a walnut tree's toxic secretions pointed at one route for inter-guild connection.
 
 Buffer plants are species that can tolerate the conditions created by one guild while also providing transition to the next guild. For the walnut guild, mulberries, elderberries, black locusts, and acacias serve as buffers. Beyond the buffer zone, useful plants not tolerant of juglone can be woven into the assemblage.
 
@@ -23,11 +23,11 @@ Bill Mollison, in Permaculture: A Designer's Manual, elaborates on the value of 
 
 Super-guilds can also be designed across time, not just space. As a food forest matures, the composition of guilds changes through natural succession. Early-stage guilds dominated by pioneer species gradually give way to mature guilds with long-lived canopy trees.
 
-This temporal dimension connects to [[permaculture-cycles-and-niches-in-time]]. The designer plants for both present and future conditions, ensuring that the super-guild evolves productively over decades.
+This temporal dimension connects to permaculture-cycles-and-niches-in-time. The designer plants for both present and future conditions, ensuring that the super-guild evolves productively over decades.
 
 ## Super-Guilds in Different Scales
 
-Super-guilds can be designed at any scale. In a suburban yard, three or four fruit tree guilds can be connected through shared understory plants, ground covers, and water features. In a larger property, dozens of guilds can form a comprehensive food forest landscape.
+Super-guilds can be designed at any scale. In a suburban yard, three or four fruit tree guilds can be connected through shared understory plants, [[permaculture-plants-food-forest-ground-covers-bamboos]], and water features. In a larger property, dozens of guilds can form a comprehensive food forest landscape.
 
 In a community or village setting, individual household guilds can be connected through shared commons, hedgerows, and water systems, creating a community-scale super-guild. This scales up to [[permaculture-community-design]].
 
@@ -41,7 +41,7 @@ The web of connections between guilds means that the loss of one component is bu
 
 A fruit-focused super-guild might combine apple, pear, plum, cherry, and peach guilds, each with their own nitrogen fixers and mulch plants, but connected through shared insectary corridors and continuous ground covers. The overall effect is an orchard that functions as a single ecosystem rather than a collection of isolated trees.
 
-A nut-focused super-guild might combine walnut, chestnut, pecan, and hazelnut guilds, with oaks providing wildlife habitat and canopy, and black locust providing nitrogen fixation across the entire system. Buffer zones of mulberry and elderberry protect non-tolerant species from juglone while producing their own crops.
+A nut-focused super-guild might combine walnut, chestnut, pecan, and hazelnut guilds, with oaks providing wildlife habitat and canopy, and black locust providing [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] across the entire system. Buffer zones of mulberry and elderberry protect non-tolerant species from juglone while producing their own crops.
 
 ## The Living Landscape
 
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

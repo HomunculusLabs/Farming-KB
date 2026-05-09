@@ -1,5 +1,5 @@
 ---
-title: Country Permaculture - Rural Land Design
+title: mollison country permaculture rural land design - Rural Land Design
 created: 2026-04-26
 updated: 2026-04-24
 sources: Bill Mollison, Permaculture Two: Practical Design for Town and Country (Tagari Books, 1979)
@@ -12,7 +12,7 @@ tags: [culture, design, permaculture]
 Permaculture Two provides detailed guidance for rural land design,
 from small farmlets to broadacre properties. The emphasis is on
 intensive small-scale production, careful water management, and
-the gradual transition from conventional agriculture to permanent
+the gradual [[query-how-to-transition-from-conventional-to-no-till-farming]] agriculture to permanent
 polyculture systems.
 
 ## How Much Land?
@@ -30,7 +30,7 @@ than he lands.
 ## Broad Landscape Analysis
 
 Mollison presents a model landscape profile applicable from humid
-tropical to cool climates, divided into four zones:
+tropical to [[greenhouse-cool-climates-mollison]], divided into four zones:
 
 - **High plateau (A):** The vast roof where rain and snow gather.
   Trees and shrubs prevent quick run-off. Up to 85% of precipitation
@@ -61,7 +61,7 @@ Specific water strategies include:
 - Ridge-top storage dams for gravity-fed domestic water
 - Covered tanks for drinking water supply
 - High dams for bulk domestic and farm water
-- Keyline diversion drains as "spouting" and dams as "tanks"
+- Keyline [[mollison-designers-diversion-drains-and-interceptor-banks]] as "spouting" and dams as "tanks"
 - Waste water ponding systems for algae, ducks, and fish production
 - High slope access roads integrated with drainage
 
@@ -71,7 +71,7 @@ Mollison demonstrates that a family of five can be supported on just
 400 square metres using continuous mulch with clover plus
 double-cropping winter and spring grains. The five-plot rotation
 system alternates rice with clover and rye, barley, millet, wheat,
-or oats across plots, with straw mulch recycling between plots.
+or oats across plots, with [[fukuoka-rice-straw-mulch-central-technique]] recycling between plots.
 The goal is to eliminate resowing and seed beds entirely through
 self-seeding strategies.
 
@@ -122,7 +122,7 @@ supply, and a frost-clear roof functioning as an indoor glasshouse.
 Estimated cost was under $1,000 plus floor slab and roof trusses.
 
 Rudolf Doernach's "biostructure" concept from Stuttgart uses a light
-steel or timber frame grown over with evergreen waxy-leaved climbing
+steel or [[comparison-bamboo-construction-vs-timber-frame-basics]] grown over with evergreen waxy-leaved climbing
 plants (ivy, geranium, coastal climbers) in an igloo-like form.
 
 ## Processing and Energy
@@ -131,13 +131,11 @@ The book addresses on-site processing for small settlements, including
 grain mills capable of handling 4-5 tonnes per hour, suited to central
 processing in small communities. Farmers and city waste centres are
 identified as the potential future energy base, with tree crops like
-carob convertible to sugars, fuels, glues, food additives, and flours.
-
 ## See Also
 
-- [[mollison-tropical-and-coastal-permaculture-design]]
-- [[coastal-permaculture-design-mollison]]
-- [[tropical-permaculture-guide]]
+- mollison-tropical-and-coastal-permaculture-design
+- coastal-permaculture-design-mollison
+- tropical-permaculture-guide
 
 - [rural-permaculture](rural-permaculture.md)
 - [keyline-design](keyline-design.md)
@@ -145,3 +143,6 @@ carob convertible to sugars, fuels, glues, food additives, and flours.
 - [self-seeding-garden](self-seeding-garden.md)
 - [earth-sheltered-housing](earth-sheltered-housing.md)
 - [mollison-tree-crop-systems-permaculture](mollison-tree-crop-systems-permaculture.md)
+- [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
+- [[water-management]]
+- [[bill-mollison]]

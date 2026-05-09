@@ -1,5 +1,5 @@
 ---
-title: "Durban Poison (Cannabis Strain)"
+title: "durban-poison (Cannabis Strain)"
 created: 2026-04-28
 updated: 2026-04-28
 type: strain
@@ -15,7 +15,7 @@ tags:
 sources:
   - Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press.
   - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last Two Decades (1995-2014)." Biological Psychiatry, 79(7), 613-619.
-  - Mudge, E.M. et al. (2019). "Cannabis sativa L. (Cannabaceae): A review of its traditional uses, phytochemistry, and pharmacology." Planta Medica, 85(12), 1007-1020.
+  - Mudge, E.M. et al. (2019). "[[cannabis-sativa]] L. (Cannabaceae): A review of its traditional uses, phytochemistry, and pharmacology." Planta Medica, 85(12), 1007-1020.
   - Smart, R. et al. (2017). "The Phytochemical Diversity of Commercial Cannabis in the United States." PLoS ONE, 12(12), e0188826.
   - Hazekamp, A. & Fischedick, J.T. (2012). "Cannabis — from cultivar to chemovar." Drug Testing and Analysis, 4(7-8), 660-667.
 ---
@@ -53,7 +53,7 @@ Durban Poison is distinguished by an exceptionally rich terpene profile dominate
 
 The distinctive aroma combines sweet anise, earthy pepper, ripe pineapple, and subtle pine notes. The flavor is often described as smooth, sweet, and slightly licorice-like, with a clean exhale.
 
-The terpinolene-dominant profile is relatively rare among commercial cannabis strains, shared with only a handful of others including Golden Pineapple and Jack Herer (which itself carries Durban Poison lineage).
+The terpinolene-dominant profile is relatively rare among commercial cannabis strains, shared with only a handful of others including Golden Pineapple and [[jack-herer]] (which itself carries Durban Poison lineage).
 
 ## Cannabinoid Profile
 
@@ -102,13 +102,13 @@ Durban Poison is considered moderately challenging to cultivate due to its vigor
 Durban Poison has been used extensively as a breeding parent, valued for contributing its sativa vigor, unique terpene profile, and THCV content. Notable descendants include:
 
 - **Girl Scout Cookies** (Durban Poison × OG Kush) — one of the most commercially successful strains of the 2010s
-- **Cherry Pie** (Durban Poison × Granddaddy Purple) — a balanced hybrid combining Durban energy with GDP relaxation
+- **Cherry Pie** (Durban Poison × [[granddaddy-purple]]) — a balanced hybrid combining Durban energy with GDP relaxation
 - **Thin Mint Cookies** (selected GSC phenotype retaining strong Durban influence)
 - **Mendo Breath** (backcross involving Durban Poison genetics)
 
 ## Historical Context
 
-The collection and preservation of landrace genetics became a priority among cannabis breeders in the 1970s and 1980s, as commercial hybridization threatened to dilute or lose pure sativa and indica gene pools. Durban Poison was one of several African landraces collected during this period, alongside Swazi Gold, Malawi Gold, and Durban Thai. These collections formed the genetic foundation for many of today's most popular strains.
+The collection and preservation of landrace genetics became a priority among cannabis breeders in the 1970s and 1980s, as commercial hybridization threatened to dilute or lose pure sativa and indica gene pools. Durban Poison was one of several African landraces collected during this period, alongside [[swazi-gold]], Malawi Gold, and Durban Thai. These collections formed the genetic foundation for many of today's most popular strains.
 
 The term "poison" in the strain name does not indicate toxicity but rather reflects the intense potency of the original landrace phenotype — a common naming convention in historical cannabis culture for particularly strong varieties.
 
@@ -119,7 +119,7 @@ The term "poison" in the strain name does not indicate toxicity but rather refle
 | **Durban Poison** | South Africa | 18–25% | Terpinolene | 8–9 weeks |
 | **Thai Stick** | Thailand | 15–22% | Myrcene | 10–14 weeks |
 | **Malawi Gold** | Malawi | 14–20% | Myrcene | 12–16 weeks |
-| **Acapulco Gold** | Mexico | 15–23% | Terpinolene | 9–11 weeks |
+| **[[acapulco-gold]]** | Mexico | 15–23% | Terpinolene | 9–11 weeks |
 | **Swazi Gold** | Swaziland | 12–18% | Myrcene | 9–10 weeks |
 
 Durban Poison's relatively short flowering time for a landrace sativa has made it a preferred parent for breeders seeking sativa effects without the extreme flowering durations of equatorial varieties like Thai and Malawi.

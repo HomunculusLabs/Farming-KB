@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [comparison, organic-farming, sustainable-agriculture, growing-methods]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/john-jeavons-how-to-grow-more-vegetables.md"
 type: comparison
 ---
 
@@ -12,7 +13,7 @@ type: comparison
 
 ## Overview
 
-Biodynamic agriculture and biointensive gardening are two approaches to
+[[query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic]] and biointensive gardening are two approaches to
 sustainable food production that share a deep commitment to ecological farming
 and soil health but differ profoundly in their philosophical foundations.
 
@@ -34,12 +35,12 @@ nitrogen fertilizers after World War I.
 The framework is grounded in anthroposophy, Steiner's comprehensive
 spiritual-philosophical system, which posits that a farm is a self-sustaining
 living organism influenced by cosmic and terrestrial forces including planetary
-rhythms, lunar cycles, and seasonal patterns believed to affect plant growth,
+rhythms, lunar cycles, and seasonal patterns believed to [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]],
 soil biology, and food quality.
 
 Central to biodynamic practice are nine specific compost and field preparations
 made from carefully selected plant materials including yarrow, chamomile,
-stinging nettle, oak bark, dandelion, valerian, and horsetail. Two additional
+[[comparison-stinging-nettle-vs-horsetail]], oak bark, dandelion, valerian, and horsetail. Two additional
 preparations, horn manure (BD 500) and horn silica (BD 501), are prepared by
 burying cow manure and ground quartz respectively in cow horns over winter and
 summer periods. These are applied in homeopathic quantities to compost piles,
@@ -48,7 +49,7 @@ soil biology, plant nutrition, and food vitality.
 
 Biodynamic farms integrate livestock, field crops, orchards, vegetable gardens,
 and wild areas into a self-contained farm organism emphasizing biodiversity,
-polyculture, crop rotation, and animal integration for manure and rotational
+polyculture, [[comparison-crop-rotation-vs-cover-cropping]], and [[mollison-animal-integration-permaculture-design]] for manure and rotational
 grazing. Certification through Demeter International, established in 1928, is
 the oldest ecological certification system in the world and requires adherence
 to these unique preparations alongside baseline organic standards. While the
@@ -58,7 +59,7 @@ and consumer demand worldwide.
 
 ## Biointensive Agriculture
 
-The biointensive method (GROW BIOINTENSIVE) was developed by John Jeavons and
+The [[jeavons-grow-biointensive-method-overview]] (GROW BIOINTENSIVE) was developed by John Jeavons and
 colleagues at Ecology Action beginning in 1972 in Palo Alto, California, and
 later at the Common Ground Garden in Willits, California. It is grounded in
 decades of meticulous field research, crop trials, and data collection focused

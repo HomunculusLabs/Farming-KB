@@ -52,17 +52,17 @@ The vine has been widely planted as an ornamental and has naturalized beyond its
 
 ## Cultivation
 
-Trumpet vine is propagated from seed, softwood cuttings, root cuttings, or layering. Root cuttings are particularly effective and can produce new plants within a single growing season.
+Trumpet vine is propagated from seed, softwood cuttings, root cuttings, or layering. Root cuttings are particularly effective and can produce new plants within a single [[savory-growing-season-and-non-growing-season-management]].
 
 It requires a sturdy support structure such as a trellis, pergola, or strong fence. The weight of mature vines can be substantial, and unsupported plants may damage lightweight structures.
 
 Pruning should be done in late winter or early spring before new growth begins. Heavy pruning controls size and encourages vigorous flowering on new wood.
 
-No serious pest or disease problems affect established plants, though powdery mildew and leaf spot can occur in humid conditions. Deer generally avoid browsing the foliage.
+No serious pest or disease problems affect established plants, though [[cervantes-powdery-mildew-prevention-treatment]] and leaf spot can occur in humid conditions. Deer generally avoid browsing the foliage.
 
 ## Ecological Role
 
-The tubular red flowers of *Campsis radicans* are specifically adapted for pollination by hummingbirds. Ruby-throated hummingbirds (*Archilochus colubris*) are the primary pollinator in eastern North America.
+The tubular red flowers of *Campsis radicans* are specifically adapted for pollination by hummingbirds. Ruby-throated hummingbirds (*Archilochus colubris*) are the primary pollinator in [[polypore-fungi-eastern-north-america]] America.
 
 Long-tongued bees, including bumblebees and carpenter bees, also visit the flowers. Some bees "rob" nectar by chewing holes near the base of the corolla, bypassing the pollination mechanism entirely.
 
@@ -72,9 +72,9 @@ Despite its wildlife value, trumpet vine can become ecologically problematic in 
 
 ## Traditional and Medicinal Uses
 
-The plant has limited ethnobotanical use. Native American tribes reportedly used the roots for medicinal purposes, though detailed records are scarce and pharmacological data is minimal.
+The plant has limited ethnobotanical use. [[halpern-sacramental-peyote-and-native-american-church]] tribes reportedly used the roots for medicinal purposes, though detailed records are scarce and pharmacological data is minimal.
 
-Some traditional sources mention preparations of the leaves and bark for treating skin conditions and digestive complaints. These uses have not been substantiated by modern clinical research.
+Some traditional sources mention preparations of the leaves and bark for treating [[cannabis-for-skin-conditions-detailed]] and digestive complaints. These uses have not been substantiated by modern [[hofmann-lsd-clinical-research-early-studies]].
 
 All parts of the plant contain irritant compounds, and contact with the foliage can cause dermatitis in sensitive individuals. The sap may also cause skin irritation upon prolonged exposure.
 
@@ -101,7 +101,7 @@ The hybrid *Campsis × tagliabuana* (C. radicans × C. grandiflora) combines the
 - [[parthenocissus-tricuspidata]]
 - [[humulus-lupulus]]
 - [[ceanothus-thyrsiflorus]]
-- [[crataegus-monogyna]]
+- crataegus-monogyna
 - [[salvia-officinalis]]
 - [[vaccinium-angustifolium]]
 - [[vitis-labrusca]]

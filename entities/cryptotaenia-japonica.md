@@ -11,7 +11,7 @@ updated: 2026-05-08
 sources:
   - Kato, A. et al. (2012). "Chemical composition and antioxidant activity of Cryptotaenia japonica." Journal of Agricultural and Food Chemistry.
   - Sugimoto, N. et al. (2009). "Polyacetylenes from Cryptotaenia japonica." Phytochemistry.
-  - Duke, J.A. (2002). Handbook of Medicinal Herbs. CRC Press.
+  - Duke, J.A. (2002). Handbook of [[permaculture-plants-medicinal-herbs-healing]]. CRC Press.
   - Lee, J. et al. (2015). "Anti-inflammatory effects of Cryptotaenia japonica extract." BMC Complementary and Alternative Medicine.
 ---
 
@@ -35,7 +35,7 @@ The root system consists of fibrous roots and a short rhizome. Cultivated variet
 
 ## Distribution and Habitat
 
-C. japonica is native to East Asia, occurring naturally in Japan, Korea, and eastern China. It has been naturalized in parts of North America and Europe as an ornamental and escapee from cultivation.
+C. japonica is native to East Asia, occurring naturally in Japan, Korea, and eastern China. It has been naturalized in parts of [[psilocybin-north-america-pacific-northwest]] and Europe as an ornamental and escapee from cultivation.
 
 The species prefers moist, shaded environments in forests, along stream banks, and in mountain valleys. It thrives in rich, well-draining loam soils with high organic matter content.
 
@@ -55,7 +55,7 @@ Nutritional analysis shows mitsuba is rich in vitamin C, β-carotene, and potass
 
 ## Bioactive Compounds
 
-C. japonica produces several classes of secondary metabolites with documented biological activity. Polyacetylenes are the most notable, including falcarindiol and (8Z)-heptadeca-1,8-diene-4,6-diyn-3-ol.
+C. japonica produces several classes of [[antifungal-secondary-metabolites-coprophilous-fungi]] with documented biological activity. Polyacetylenes are the most notable, including falcarindiol and (8Z)-heptadeca-1,8-diene-4,6-diyn-3-ol.
 
 Flavonoid glycosides identified in the species include quercetin, kaempferol, and isorhamnetin derivatives. These compounds contribute to the antioxidant capacity observed in leaf extracts.
 
@@ -71,7 +71,7 @@ Commercial production uses shade structures or greenhouse cultivation to maintai
 
 Harvesting begins approximately 60–80 days from sowing when plants reach 20–30 cm height. The cutting-and-coming-again method allows multiple harvests from a single planting.
 
-Common pests include aphids, leaf miners, and slugs. Fungal diseases such as powdery mildew and downy mildew can affect plants under humid conditions with poor air circulation.
+Common pests include aphids, leaf miners, and slugs. Fungal diseases such as [[cervantes-powdery-mildew-prevention-treatment]] and downy mildew can affect plants under humid conditions with poor air circulation.
 
 ## Traditional and Modern Uses
 
@@ -85,7 +85,7 @@ Modern herbal practitioners sometimes use mitsuba leaf extracts as a mild anti-i
 
 In forest ecosystems, C. japonica occupies the herbaceous understory layer beneath deciduous canopy trees. It contributes to soil stabilization along stream banks and moist slopes.
 
-The small white flowers attract a variety of pollinators, including small bees, hoverflies, and beetles. Umbelliferous flowers are particularly valuable for supporting beneficial insect populations.
+The small white flowers attract a variety of pollinators, including small bees, hoverflies, and beetles. Umbelliferous flowers are particularly valuable for supporting [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] populations.
 
 As a companion plant in vegetable gardens, mitsuba provides ground cover and may help deter certain pests. Its shallow root system does not compete aggressively with deeper-rooted crops.
 
@@ -93,7 +93,7 @@ The plant serves as a larval food source for several species of swallowtail butt
 
 ## Related Species
 
-The genus Cryptotaenia contains approximately three species. C. japonica is the most widely cultivated, while C. canadensis (honewort) is native to eastern North America.
+The genus Cryptotaenia contains approximately three species. C. japonica is the most widely cultivated, while C. canadensis (honewort) is native to [[polypore-fungi-eastern-north-america]] America.
 
 C. canadensis is sometimes confused with C. japonica but can be distinguished by its more open umbels and narrower leaflets. The American species has a milder flavor and is less commercially important.
 

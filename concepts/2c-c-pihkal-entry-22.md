@@ -1,5 +1,5 @@
 ---
-title: 2C-C - PIHKAL Entry #22 Compound Profile
+title: 2C-C - 2c-b-pihkal-entry-20 #22 Compound Profile
 created: 2026-04-26
 updated: 2026-04-22
 sources: PIHKAL Entry #22
@@ -65,7 +65,7 @@ Two synthetic routes are described:
 - Slow onset (1.5-2 hours) increases risk of re-dosing too early. Wait at least 2 hours before considering additional dose.
 - Despite feeling sedating, the compound prevents sleep at active doses. Plan for a full 8-hour experience.
 - IV administration (20 mg) was described as "overwhelming" -- this route is strongly discouraged outside clinical settings.
-- The [legal status varies by jurisdiction.
+- The [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 - See [[set-and-setting-framework]] applies to all phenethylamine psychedelics.
 
 ## Practical Context

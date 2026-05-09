@@ -3,25 +3,25 @@ title: Archaeology of Psychoactive Mushroom Use
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[rock-eating-fungi-and-mineral-weathering]]. The "bemushroomed shaman" image is based on a drawing by Kat Harrison, not a photograph of the original. In the original rock art, the objects "could be mushrooms or, say, arrows."
+tags: rock-eating-fungi-and-mineral-weathering. The "bemushroomed shaman" image is based on a drawing by Kat Harrison, not a photograph of the original. In the original rock art, the objects "could be mushrooms or, say, arrows."
 
 ### Hildesheim Cathedral (Germany)
 A bronze door panel that seems to show a giant Liberty Cap actually depicts a stylized fig-tree from a coherent biblical narrative. The careful construction of the doors' theological message makes it "improbable that a magic mushroom could have been surreptitiously slipped in."
 
 ### Scandinavian Bronze Age
-Recurring mushroom-shaped motifs have been interpreted as fly-agaric, but alternative readings (ship's sail, tree, hatchet, axe) are equally plausible. See [[powell-cultural-defense-criticism-psychedelic-use]]
+Recurring mushroom-shaped motifs have been interpreted as fly-agaric, but alternative readings (ship's sail, tree, hatchet, axe) are equally plausible. See powell-cultural-defense-criticism-psychedelic-use
 
-- [[rock-eating-fungi-and-mineral-weathering]]
-- [[amanita-muscaria-guide]]
+- rock-eating-fungi-and-mineral-weathering
+- amanita-muscaria-guide
 - archaeology of psychedelic mushroom use
 
 ---
 
-Source: Shroom: A Cultural History of the Magic Mushroom (Letcher, 2006), Chapters 2-3
+Source: Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the Magic Mushroom (Letcher, 2006), Chapters 2-3
 Updated: 2026-04-18
 
 ## Merged: Early European Accidental Mushroom Intoxications
-The history of [[psilocybe-bohemica-central-european]] mushroom consumption in Europe, before the twentieth century, consists entirely of accidental intoxications. As Andy Letcher documents in Shroom: A Cultural History of the Magic Mushroom, people appear to have been eating hallucinogenic mushrooms for as long as there have been records, "but until the twentieth century they always did so accidentally and unintentionally." The herbalist and botanist Albertus Magnus (c.1200-1280), in his treatise De Vegetabilibus, cautioned against mushrooms "of a moist humour" that "stop up the head, the mental passages of the creatures [that eat them] and cause insanity." This appears to be a reference to psychoactive effects rather than the fly-agaric, which he described separately. In the late 1960s, American mycologist Rolf Singer re-examined the case and reclassified the species as [[psychedelic-mushroom-set-and-setting]] - [[rock-eating-fungi-and-mineral-weathering]]. See [[rock-eating-fungi-and-mineral-weathering]] - [[amanita-muscaria-guide]] --- Source: Shroom: A Cultural History of the Magic Mushroom (Letcher, 2006), Chapters 2-3 Updated: 2026-04-18
+The history of [[psilocybe-bohemica-central-european]] mushroom consumption in Europe, before the [[coleman-louis-savier-twentieth-century-maraicher]], consists entirely of accidental intoxications. As Andy Letcher documents in Shroom: A Cultural History of the Magic Mushroom, people appear to have been eating [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] for as long as there have been records, "but until the twentieth century they always did so accidentally and unintentionally." The herbalist and botanist Albertus Magnus (c.1200-1280), in his treatise De Vegetabilibus, cautioned against mushrooms "of a moist humour" that "stop up the head, the mental passages of the creatures [that eat them] and cause insanity." This appears to be a reference to psychoactive effects rather than the fly-agaric, which he described separately. In the late 1960s, American mycologist Rolf Singer re-examined the case and reclassified the species as [[psychedelic-mushroom-set-and-setting]] - rock-eating-fungi-and-mineral-weathering. See rock-eating-fungi-and-mineral-weathering - [[amanita-muscaria-guide]] --- Source: Shroom: A Cultural History of the Magic Mushroom (Letcher, 2006), Chapters 2-3 Updated: 2026-04-18
 - [[amanita-muscaria-fly-agaric-history-and-pharmacology]]
 - [[psilocybin]] and [[conocybe-cyanopus]] and [[psilocybin]] and [[baeocystin]] in this species.
 
@@ -33,15 +33,15 @@ While not as well-documented in ethnomycological literature as species like [[ps
 
 ## Microscopic Features and Taxonomic Placement
 
-Detailed microscopic examination reveals the characters that place *C. siligineoides* within the genus Conocybe and the family Bolbitiaceae. The cap cuticle (pileipellis) is composed of a hymeniderm or cellular layer of broadly clavate to spheropedunculate cells, typical of many Conocybe species. The presence of a distinct germ pore on the spores is a key generic character. Cheilocystidia are ventricose to lageniform with narrow necks, measuring approximately 15–30 × 5–10 µm, and are the primary sterile elements on the gill edges. Pleurocystidia are less common but when present are similar in morphology. The combination of small spores with a germ pore, hymeniderm pileipellis, and habitat on enriched soils places this species firmly within the genus, though species-level identification within Conocybe remains challenging due to the high number of species and morphological conservatism.
+Detailed [[fungal-microscopic-examination-mounting-media-techniques]] reveals the characters that place *C. siligineoides* within the genus Conocybe and the family Bolbitiaceae. The cap cuticle (pileipellis) is composed of a hymeniderm or cellular layer of broadly clavate to spheropedunculate cells, typical of many Conocybe species. The presence of a distinct germ pore on the spores is a key generic character. Cheilocystidia are ventricose to lageniform with narrow necks, measuring approximately 15–30 × 5–10 µm, and are the primary sterile elements on the gill edges. Pleurocystidia are less common but when present are similar in morphology. The combination of small spores with a germ pore, hymeniderm pileipellis, and habitat on enriched soils places this species firmly within the genus, though species-level identification within Conocybe remains challenging due to the high number of species and morphological conservatism.
 
 ## Seasonal and Geographic Patterns
 
-*C. siligineoides* fruits during the warm, wet months of the tropical rainy season, typically from May through October depending on latitude and local precipitation patterns. It is one of the earlier fruiting coprophilous fungi, often appearing within days of sustained rainfall on suitable substrates. The fruiting period is relatively short for individual basidiocarps, which are fragile and quickly deliquesce in hot conditions. Geographic records span from southern Mexico through Central America (Guatemala, Honduras, Costa Rica) into northern South America (Colombia, Venezuela, Ecuador). The full extent of its distribution is uncertain, as the small size and inconspicuous appearance of the species mean it is likely undercollected and underreported across its range.
+*C. siligineoides* fruits during the warm, wet months of the tropical rainy season, typically from May through October depending on latitude and local precipitation patterns. It is one of the earlier fruiting coprophilous fungi, often appearing within days of sustained rainfall on suitable substrates. The fruiting period is relatively short for individual basidiocarps, which are fragile and quickly deliquesce in hot conditions. Geographic records span from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] (Guatemala, Honduras, Costa Rica) into northern South America (Colombia, Venezuela, Ecuador). The full extent of its distribution is uncertain, as the small size and inconspicuous appearance of the species mean it is likely undercollected and underreported across its range.
 
 ## Toxicity and Identification Warnings
 
-The genus Conocybe contains species that produce dangerous toxins, including amatoxins and phallotoxins in some species (though these are more commonly associated with Galerina). The small size, brown coloration, and fragile stature of Conocybe species make them extremely difficult to identify to species level in the field. Many species are virtually indistinguishable macroscopically. The risk of confusing a psilocybin-containing Conocybe with a toxic one — or with a potentially lethal Galerina species — is very real and significant. **Conocybe siligineoides should not be consumed.** The margin of safety for misidentification in this genus is unacceptably narrow. Even experienced mycologists routinely require microscopic examination to identify Conocybe species with confidence.
+The genus Conocybe contains species that produce dangerous toxins, including amatoxins and phallotoxins in some species (though these are more commonly associated with Galerina). The small size, brown coloration, and fragile stature of Conocybe species make them extremely difficult to identify to species level in the field. Many species are virtually indistinguishable macroscopically. The risk of confusing a psilocybin-containing Conocybe with a toxic one — or with a potentially lethal Galerina species — is very real and significant. **[[guzman-conocybe-siligineoides-lost-sacred-mushroom-oaxaca-never-recollected]] should not be consumed.** The margin of safety for misidentification in this genus is unacceptably narrow. Even experienced mycologists routinely require microscopic examination to identify Conocybe species with confidence.
 
 ## Similar Species
 
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Hallucinogenic mushroom market in Europe
+title: emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative market in Europe
 created: 2026-05-06
 tags:
   - market
@@ -17,7 +17,7 @@ type: concept
 
 # Hallucinogenic Mushroom Market in Europe
 
-The market for hallucinogenic mushrooms in Europe expanded significantly during the late 1990s and early 2000s, driven by the emergence of smartshops in the Netherlands, the growth of internet retail, and broader consumer trends favoring natural and organic products. This market subsequently contracted in many countries following legislative changes between 2001 and 2006 that tightened controls on psilocybin-containing fungi.
+The market for [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] in Europe expanded significantly during the late 1990s and early 2000s, driven by the emergence of smartshops in the Netherlands, the growth of internet retail, and broader consumer trends favoring natural and organic products. This market subsequently contracted in many countries following legislative changes between 2001 and 2006 that tightened controls on psilocybin-containing fungi.
 
 ## Retail Channels
 
@@ -31,9 +31,9 @@ The Dutch Risk Assessment Report of 2000 estimated that magic mushrooms accounte
 
 ## Wild Mushroom Collection
 
-Despite the predominance of cultivated mushrooms in the commercial market, some users collect wild-growing hallucinogenic mushrooms, a practice known as "magic mushroom hunting." Qualitative reports from Poland, Ireland, and the Czech Republic document users seeking wild [[amanita-muscaria-entity]] (fly agaric) and Purple Ohms capsules containing Hawaiian Baby Woodrose (Argyreia nervosa) with its active compound LSA (lysergic acid amide).
+Despite the predominance of [[fungi-cultivated-mushrooms-pathogens-competitors]] in the commercial market, some users collect wild-growing hallucinogenic mushrooms, a practice known as "magic mushroom hunting." Qualitative reports from Poland, Ireland, and the Czech Republic document users seeking wild [[amanita-muscaria-entity]] (fly agaric) and Purple Ohms capsules containing Hawaiian Baby Woodrose ([[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]]) with its active compound LSA (lysergic acid amide).
 
-The Irish online headshop THC removed all mushroom products after they became illegal on 31 January 2006. UK retailers such as EveryOneDoesIt.com and AllSalvia.co.uk pivoted to marketing Amanita muscaria and Amanita pantherina as legal alternatives.
+The Irish online headshop THC removed all [[cotter-mushroom-products-and-value-added-applications]] after they became illegal on 31 January 2006. UK retailers such as EveryOneDoesIt.com and AllSalvia.co.uk pivoted to marketing [[allegro-amanita-muscaria-properties-and-pharmacology]] and Amanita pantherina as legal alternatives.
 
 ## Information Sources and Internet Communities
 
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

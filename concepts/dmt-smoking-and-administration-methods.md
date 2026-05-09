@@ -1,5 +1,5 @@
 ---
-title: DMT Smoking and Administration Methods
+title: DMT dmt smoking and administration methods Methods
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
@@ -26,12 +26,14 @@ DMT-containing plants (like Psychotria viridis) are combined with Banisteriopsis
 - Intensifies and deepens the experience
 - Produces a more spiritual quality according to Turner
 - Eliminates the need to consume the entire dose rapidly
-- The Harmala alkaloids also produce their own effects (see [[psychedelic-safety-and-harm-reduction]] for comprehensive safety guidelines.
+- The [[turner-harmala-alkaloids-preparation-and-dosage]] also produce their own effects (see [[psychedelic-safety-and-harm-reduction]] for comprehensive [[psychedelic-safety-guidelines-turner]].
 
 ## See Also
-- [[dmt-dimethyltryptamine-experience-guide]] — experience overview and entity encounters
+
+- [[dmt-smoking-technique-and-preparation]]
+- [[dmt-dimethyltryptamine-experience-guide]] — experience overview and [[dmt-entity-encounters-and-the-logos]]
 - [[beta-carboline-chemistry]] — Harmala alkaloids and their effects
-- [[psychedelic-safety-and-harm-reduction]] — harm reduction
+- [[psychedelic-safety-and-harm-reduction]] — [[adverse-effects-and-harm-reduction-psilocybin]]
 - [[turner-harmala-alkaloids-preparation-and-dosage]]
 ## Practical Applications
 
@@ -110,4 +112,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

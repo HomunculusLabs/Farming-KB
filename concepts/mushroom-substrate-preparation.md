@@ -1,10 +1,10 @@
 ---
-title: Mushroom Substrate Preparation
+title: Mushroom cotter-compost-substrate-preparation-manure-mushroom-cultivation
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 mined: 2026-05-08
 tags: [substrate, mushroom-cultivation, brown-rice-flour, vermiculite,
   sterilization, contamination]
-aliases: [BRF substrate, mushroom grow medium, pf substrate formula]
+aliases: [BRF substrate, [[query-how-to-set-up-a-mushroom-grow-lab-or-clean-room]] medium, pf [[pf-tek-measurement-calibration-and-substrate-formula-precision]]
 ---
 
 # Mushroom Substrate Preparation
@@ -17,7 +17,7 @@ brown rice flour (BRF), vermiculite, and water — is the most widely used
 beginner substrate for [[substrate-preparation]]:
 
 - Distilled or spring water is preferred
-- Tap water may contain chlorine that can inhibit mycelial growth
+- Tap water may contain chlorine that can inhibit [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
 - If using tap water, let it sit uncovered for 24 hours to off-gas chlorine
 - The water-to-dry-ingredient ratio is critical: too wet promotes
   bacterial contamination; too dry slows colonization
@@ -46,7 +46,7 @@ Proper jar loading ensures successful colonization and easy cake removal:
    large air pockets
 3. Wipe the inside rim of the jar clean with a paper towel — any
    substrate on the rim can provide a contamination pathway
-4. Fill the remaining 1/2 inch at the top with **dry vermiculite** — this
+4. Fill the remaining 1/2 inch at the top with **[[pf-tek-dry-vermiculite-contaminant-barrier]]** — this
    "barrier layer" is a critical innovation of the PF TEK that filters
    airborne contaminants during inoculation
 5. Cover with the prepared lid (4 nail holes, tape over holes)
@@ -79,7 +79,7 @@ functions:
 
 ### Pressure Sterilization (Recommended for Reliability)
 
-- Pressure canner at **15 PSI** for **30–45 minutes**
+- [[pf-tek-pressure-canner-sterilization]] at **15 PSI** for **30–45 minutes**
 - More reliable at killing resistant bacterial endospores
 - Not strictly necessary for PF TEK but significantly reduces
   contamination rates
@@ -110,4 +110,4 @@ functions:
 ## See Also
 
 - [[mushroom-spore-inoculation-techniques]]
-- [[dual-chambered-terrarium]]
+- [[dual-chambered-terrarium-fruiting]]

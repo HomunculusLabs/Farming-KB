@@ -16,7 +16,7 @@ channels and electrochemical gradients across cell membranes.
 
 ## Historical Discovery
 
-The earliest observations [[allegro-death-and-resurrection-in-the-mushroom-cult]] late nineteenth century, Jagadis Chandra Bose
+The earliest observations [[allegro-death-and-resurrection-in-the-mushroom-cult]] late [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], Jagadis [[jagadis-chandra-bose-plant-research]]
 conducted pioneering experiments demonstrating that plants generate electrical
 impulses in [[allegro-colour-and-consistency-of-the-amanita-muscaria]] plasma membrane that
 propagate along plant tissues at speeds of centimeters per second. These are
@@ -54,7 +54,7 @@ action potential.
 One of the most significant aspects of plant electrophysiology is the role of
 electrical signals in systemic communication. When a leaf is wounded, an
 electrical signal rapidly propagates to distant parts of the plant, preceding
-the arrival of chemical signals and triggering defense responses in undamaged
+the arrival of [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] and triggering defense responses in undamaged
 tissues. This electrical alarm system allows the entire plant to prepare for
 attack within minutes of initial damage.
 
@@ -72,7 +72,7 @@ species, and hydraulic signals. The integration of these multiple signaling
 modalities allows plants to mount coordinated, context-appropriate responses
 to complex environmental challenges.
 
-Calcium ions serve as a key bridge between electrical and chemical signaling.
+Calcium ions serve as a key bridge between electrical [[plant-hormones-and-chemical-signaling-systems]].
 The calcium influx during action potentials activates calcium-dependent protein
 kinases and other downstream effectors, linking the electrical impulse to
 specific biochemical responses such as the production of defensive compounds.
@@ -93,7 +93,7 @@ signaling. When a leaf is damaged by herbivores, mechanical injury, or other
 forms of trauma, an action potential or variation potential is generated at
 the wound site and propagates to distant tissues. This electrical signal
 triggers the production of defensive compounds including protease inhibitors,
-toxic secondary metabolites, and volatile organic compounds that attract
+toxic [[antifungal-secondary-metabolites-coprophilous-fungi]], and [[fungal-volatile-organic-compounds-communication]] compounds that attract
 predators of the attacking herbivores.
 
 The speed of electrical signaling gives plants a significant advantage in

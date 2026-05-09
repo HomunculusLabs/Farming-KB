@@ -3,7 +3,7 @@ title: Atriplex halimus
 created: 2026-04-28
 type: species
 tags:
-  - permaculture
+  - permaculture|permaculture
   - halophyte
   - salt-tolerant
   - forage
@@ -20,7 +20,7 @@ sources:
 
 # Atriplex halimus
 
-**Atriplex halimus**, commonly known as **Mediterranean saltbush**, **sea orache**, or **spiny saltbush**, is a perennial halophytic shrub in the family Amaranthaceae. One of the most salt-tolerant and drought-resistant shrubs available for permaculture, it is invaluable for arid-zone food forestry, windbreaks, livestock forage, and soil restoration in marginal environments. Its ability to thrive in conditions lethal to most plants has earned increasing attention in climate-adaptive agriculture.
+**Atriplex halimus**, commonly known as **Mediterranean saltbush**, **sea orache**, or **spiny saltbush**, is a perennial halophytic shrub in the family Amaranthaceae. One of the most salt-tolerant and drought-resistant shrubs available for permaculture, it is invaluable for arid-zone [[food-forest|food forest]]ry, windbreaks, livestock forage, and soil restoration in marginal environments. Its ability to thrive in conditions lethal to most plants has earned increasing attention in climate-adaptive agriculture.
 
 ## Taxonomy
 
@@ -84,11 +84,11 @@ One of the most important drought-resistant forages:
 - **Erosion control:** Extensive roots stabilize slopes, dunes, degraded soils
 - **Organic matter:** Leaf litter and root turnover improve soil structure
 - **Dune stabilization:** Widely planted for coastal fixation
-- **Phytoremediation:** Used for heavy metal-contaminated soils
+- **[[phytoremediation|Phytoremediation]]:** Used for heavy metal-contaminated soils
 
-### [[hippophae-rhamnoides]]
-- [[elaeagnus-angustifolia]]
+### hippophae-rhamnoides
+- elaeagnus-angustifolia
 
 - Atriplex canescens — Four-wing saltbush, North American relative
-- [[elaeagnus-angustifolia]] — Russian olive, salt-tolerant nitrogen fixer
+- elaeagnus-angustifolia — Russian olive, salt-tolerant nitrogen fixer
 - [[silvopasture]] — Integration of trees and forage for livestock

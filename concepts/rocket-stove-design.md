@@ -1,5 +1,5 @@
 ---
-title: Rocket Stove Design
+title: comparison-rocket-stove-vs-masonry-heater Design
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -13,7 +13,7 @@ A rocket stove is an efficient, clean-burning cookstove that uses small-diameter
 
 ## How Rocket Stoves Work
 
-Rocket stoves operate on the principle of **insulated combustion chamber design**:
+Rocket stoves operate on the principle of **insulated combustion [[fruiting-chamber-design-and-environmental-control]]**:
 
 1. **Fuel is fed vertically** into a narrow (J-shaped or L-shaped) combustion chamber
 2. The chamber is heavily insulated, which keeps the combustion zone extremely hot (1000F+)
@@ -104,8 +104,8 @@ A well-built rocket stove achieves:
 
 - **Daily cooking** — efficient stovetop cooking for soups, stews, boiling, and frying
 - **Water heating** — heat water for bathing, cleaning, or [[wood-fired-hot-tub]]
-- **Canning** — supports a large pot for water bath canning during power outages
-- **Space heating** — rocket mass heaters use the same combustion principle with a thermal mass bench for radiant heating (significant project, not covered here)
+- **Canning** — supports a large pot for water [[water-bath-canning-guide]] during power outages
+- **Space heating** — [[query-what-is-a-rocket-mass-heater-and-how-does-it-work]] heaters use the same combustion principle with a thermal mass bench for radiant heating (significant project, not covered here)
 - **Outdoor cooking** — portable rocket stoves are excellent for outdoor kitchens, camping, and emergency cooking
 - **Burning brush** — dispose of small brush and branches efficiently while producing useful heat
 

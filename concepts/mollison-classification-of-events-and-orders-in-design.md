@@ -1,5 +1,5 @@
 ---
-title: Classification of Events and Orders in Design
+title: mollison classification of events and orders in design and Orders in Design
 created: 2026-04-26
 tags:
   - permaculture
@@ -111,7 +111,7 @@ in relation to the society you choose to live in.
 
 This classification framework has direct applications:
 
-- **Site analysis**: Classify existing site elements by nature, stage,
+- **[[mollison-climate-site-analysis-permaculture]]**: Classify existing site elements by nature, stage,
   dimension, and location to understand what exists and what is
   possible.
 
@@ -119,13 +119,13 @@ This classification framework has direct applications:
   plan the evolution of systems from potential through maturity to
   renewal, matching species and structures to each stage.
 
-- **Settlement design**: Choose settlement sizes that correspond to
+- **[[cool-climate-settlement-design-mollison]]**: Choose settlement sizes that correspond to
   stable orders of magnitude, and design infrastructure appropriate
   to the chosen scale.
 
 - **Element placement**: Use dimension and location classifications
   to place elements where they function best: linear elements along
-  boundaries, surface elements as ground covers, three-dimensional
+  boundaries, surface elements as [[permaculture-plants-food-forest-ground-covers-bamboos]], three-dimensional
   elements as trees and structures.
 
 - **System health assessment**: Evaluate whether system components
@@ -137,10 +137,12 @@ This classification framework has direct applications:
 We need each other, and it is a reciprocal need wherever we have a
 function in relation to each other. This principle of functional
 interdependence, drawn from the study of natural orders, is a
-foundation of permaculture design ethics and methodology.
-
+foundation of [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] ethics and methodology.
 ## See Also
 
 - [[mollison-fractals-branching-and-conduit-design]]
-- [[mollison-village-development-design]]
-- [[mollison-design-methodology]]
+- mollison-village-development-design
+- mollison-design-methodology
+- [[permaculture-design]]
+- [[mollison-designers-climate-classification-and-design-zones]]
+- [[mollison-course-swales-and-earthworks-design]]

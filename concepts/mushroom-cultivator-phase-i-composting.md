@@ -1,18 +1,13 @@
 ---
 title: "Compost Phase I Preparation and Raw Materials"
 created: 2026-04-28
-tags: [[mycology, composting, substrate-preparation, mushroom-cultivator,
-      phase-i-composting]
+tags: [mycology, composting, substrate-preparation, mushroom-cultivator, phase-i-composting]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [~/wiki/raw/papers/the-mushroom-cultivator-stamets.md]
+sources: sources: []
 type: concept
 ---
-
-# Compost Phase I Preparation and Raw Materials
-
-The purpose of composting is to prepare a nutritious medium that
-promotes the growth of mushroom [[mushroom-cultivator-bulk-substrate]]; create a selective medium favoring mushrooms over
+# Compost Phase I Preparation and Raw Materials The purpose of composting is to prepare a nutritious medium that promotes the growth of mushroom [[mushroom-cultivator-bulk-substrate]]; create a selective medium favoring mushrooms over
 competitors; concentrate nutrients for mushroom use while exhausting
 nutrients favored by competitors; and remove the heat-generating
 capabilities of the substrate.
@@ -99,3 +94,5 @@ Approximately 40% of dry matter is reduced by microbial and chemical
 processes during composting: 20-30% during Phase I and another
 10-15% during Phase II. This demonstrates the importance of not
 ## See Also
+
+- [[mushroom-cultivator-phase-ii-composting-biology]]

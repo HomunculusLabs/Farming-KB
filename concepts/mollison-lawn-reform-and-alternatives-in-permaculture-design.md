@@ -1,5 +1,5 @@
 ---
-title: Lawn Reform and Alternatives in permaculture-design
+title: mollison lawn reform and alternatives in permaculture design and Alternatives in permaculture-design
 created: 2026-04-26
 tags:
   - permaculture
@@ -24,7 +24,7 @@ ecological function.
 ## The Scale of Lawn Culture
 
 Mollison traces the development of lawns from short-cropped vistas
-maintained by geese and sheep on rural estates in cool humid climates.
+maintained by geese and sheep on rural estates in [[mollison-designers-cool-humid-climate-design-overview]] climates.
 A 1897 USDA Yearbook photograph shows a flock of sheep grazing in
 Central Park, New York, described as "the lawn mowers or turf makers"
 of the park.
@@ -115,7 +115,7 @@ eliminated. Exemptions would include:
 Mollison identifies several permaculture businesses and design
 approaches for lawn reform:
 
-- **Natural ground covers**: Non-irrigated ground covers that require
+- **Natural [[permaculture-plants-food-forest-ground-covers-bamboos]]**: Non-irrigated ground covers that require
   no mowing, fertiliser, or water beyond natural rainfall.
 
 - **Berry and smallfruit shrubberies**: Salal, blueberry, and
@@ -123,7 +123,7 @@ approaches for lawn reform:
   space as lawns.
 
 - **Flowering meadows**: Native bulbs and perennials that provide
-  habitat for pollinators and beneficial insects while requiring
+  habitat for pollinators and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] while requiring
   minimal maintenance.
 
 - **Copses of small trees**: Miniature woodlots that produce fuel,
@@ -142,4 +142,6 @@ approaches for lawn reform:
 ## The Emerging Ethic
 
 - [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
-- [[permaculture-designers-manual-grazing-animals]]
+- permaculture-designers-manual-grazing-animals
+## See Also
+- [[permaculture-design]]

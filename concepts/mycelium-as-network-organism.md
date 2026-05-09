@@ -5,15 +5,15 @@ updated: 2026-04-15
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+  sources: []
 ---
 # Mycelium as Network Organism
 
-Mycelium is the neurological network of nature — interlacing mosaics that infuse habitats with information-sharing membranes. These membranes are aware, react to change, and collectively have the long-term health of the host environment in mind. From *Mycelium Running* by [[mycelium-network]] Concepts
+Mycelium is the neurological network of nature — interlacing mosaics that infuse habitats with information-sharing membranes. These membranes are aware, react to change, and collectively have the long-term health of the host environment in mind. From *[[woodlovers-mycelium-running-pathway-technique]]* by mycelium-network Concepts
 
 - [[mushroom-cultivation-contamination-control]] — visible manifestations of network organisms
-- [[mycorestoration-framework]] — applying network intelligence for restoration
-- [[mycelium-natures-internet]]
+- [[mycorestoration-framework]] — applying [[mycelium-network-intelligence]] for restoration
+- mycelium-natures-internet
 - [[mycelial-foraging-strategies-nutrient-translocation]]
 ## Background and Context
 
@@ -65,7 +65,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -143,4 +143,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

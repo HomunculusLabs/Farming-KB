@@ -16,11 +16,11 @@ Pruning is the selective removal of branches to shape the tree, improve fruit qu
 ### Benefits of Proper Pruning
 
 - **Improved light penetration**: Sun-exposed fruit ripens better, develops more sugar, and has fewer disease problems
-- **Better air circulation**: Reduces humidity within the canopy, decreasing fungal disease pressure
+- **Better air circulation**: Reduces humidity within the canopy, decreasing [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] pressure
 - **Easier harvest**: Well-shaped trees are more accessible for picking
-- **Disease management**: Removal of infected wood slows the spread of canker, fire blight, and other diseases
-- **Tree vigor control**: Pruning balances vegetative growth with fruit production
-- **Structural strength**: Removing weak crotches and crowded branches prevents breakage under fruit load
+- **[[plant-disease-management-solomon]]**: Removal of infected wood slows the spread of canker, fire blight, and other diseases
+- **Tree vigor control**: Pruning balances [[cannabis-vegetative-growth-stage]] with fruit production
+- **[[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]]**: Removing weak crotches and crowded branches prevents breakage under fruit load
 - **Renewal**: Removing old wood stimulates new productive growth
 
 ### When Not to Prune
@@ -141,39 +141,9 @@ Espalier is the practice of training trees to grow flat against a wall, fence, o
    - Third cut: Remove the remaining stub, cutting just outside the branch collar
 
 ## Timing by Tree Type
-
-### Apples and Pears
-
-- **Winter pruning (February-March)**: Primary structural pruning. Tree is dormant; branch structure is visible.
-- **Summer pruning (June-August)**: Remove water sprouts, thin crowded areas, improve light. Less vigorous regrowth from summer cuts.
-- Best pruned during dormancy; summer pruning is supplemental.
-
-### Peaches and Nectarines
-
-- **Winter pruning (February-March)**: Major structural pruning and renewal of fruiting wood. Remove 50% of last year's growth.
-- **Summer pruning (May-August)**: Essential for peaches. Remove vigorous upright shoots, thin fruit, maintain open center. Summer pruning reduces disease pressure significantly.
-- Peaches require aggressive annual pruning for consistent production.
-
-### Cherries
-
-- **Sweet cherries**: Prune only in summer (June-July) to avoid bacterial canker infection. Minimal pruning needed after framework is established.
-- **Sour cherries**: Can be pruned in late winter. Fruit on 1-year-old wood; remove oldest wood to renew.
-
-### Plums and Apricots
-
-- **Winter pruning (February-March)**: Light structural pruning.
-- **Avoid pruning in wet weather**: Both are susceptible to bacterial canker and silver leaf disease.
-- Japanese plums fruit on 1-year wood; European plums on older spurs. Adjust renewal pruning accordingly.
-
-### Citrus
-
-- **Minimal pruning needed**: Remove dead wood, crossing branches, and suckers.
-- **Best timing**: After harvest, before spring bloom.
-- **Avoid heavy pruning**: Citrus fruit is produced on the outside of the canopy; heavy pruning removes fruiting wood.
-
 ## Related Topics
 
 - [[grafting-fruit-trees]] for propagating fruit trees to prune
 - [[plant-propagation-methods]] for other propagation techniques
 - [[fruit-tree-pruning]] for general fruit tree care
-- [[orchard-management]] for orchard management
+- [[orchard-management]] for [[fukuoka-orchard-management-detailed]]

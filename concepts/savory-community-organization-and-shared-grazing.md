@@ -1,5 +1,5 @@
 ---
-title: Community Organization and Shared Grazing
+title: savory community organization and shared grazing and Shared Grazing
 created: 2026-04-28
 tags: [holistic-management, communal-land, community-governance, grazing-planning, social-organization]
 date: 2026-04-25
@@ -10,7 +10,7 @@ type: concept
 
 # Community Organization and Shared Grazing
 
-The application of holistic management to communal and tribal lands
+The application of [[savory-holistic-management-overview]] to communal and tribal lands
 presents unique challenges that differ significantly from individually
 owned ranches. Savory's work in Africa demonstrated that the same
 principles apply, but the planning process must account for multiple
@@ -29,7 +29,7 @@ herders would inevitably overstock shared pasture because they captured
 the full benefit of each additional animal while sharing the costs of
 overgrazing with the community. Savory's experience in Africa and
 elsewhere showed that this outcome is not inevitable when communities
-adopt holistic planning. The key is creating a shared holistic goal that
+adopt holistic planning. The key is creating a shared [[savory-holistic-goal-definition]] that
 aligns individual behavior with community wellbeing. When all members
 participate in defining the quality of life they want to achieve and
 the forms of production needed to sustain it, the incentive structure
@@ -90,10 +90,10 @@ On communal land, grazing cells must be designed to accommodate
 multiple herds and herd owners. This may require larger paddocks or
 coordinated moves among different livestock owners. The cell design
 should ensure that all community members have equitable access to
-grazing resources while maintaining the stock density needed to achieve
+grazing resources while maintaining the [[savory-fencing-economics-and-stock-density-curve]] needed to achieve
 desired landscape outcomes. Water point placement is particularly
 important, as it determines grazing distribution and can either
-concentrate or disperse animal impact. Community agreements on herd
+concentrate or disperse [[savory-animal-impact-and-herd-effect]]. Community agreements on herd
 composition, breeding seasons, and animal numbers help align
 individual decisions with the shared grazing plan. In practice, many
 communities find that merging herds during the planning period and
@@ -106,7 +106,7 @@ Community ranches require financial structures that differ from
 individual operations. Revenue from livestock sales must be distributed
 fairly while maintaining reserves for infrastructure development and
 drought preparedness. Holistic financial planning applies the same
-testing guidelines but at the community level. The weak link analysis
+testing guidelines but at the community level. The [[savory-weak-link-analysis]] analysis
 helps identify whether the primary constraint is biological (land
 health, forage production), social (community cohesion, governance),
 or financial (market access, capital). Addressing the true weak link

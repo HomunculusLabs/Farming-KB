@@ -1,5 +1,5 @@
 ---
-title: "Shirota Psilocin and Psilocybin Synthesis Starting from 4 Hydroxyindole"
+title: "Shirota tryptamine-chemistry-psilocin-and-psilocybin-synthesis Synthesis Starting from 4 Hydroxyindole"
 created: 2026-04-28
 tags: [chemistry, synthesis, psilocybin, psilocin, shirota, 4-hydroxyindole, pharmaceutical]
 date: 2026-04-28
@@ -13,22 +13,22 @@ type: concept
 
 Shirota, Hakamata, and Goda of the National Institute of Health Sciences in
 Tokyo published in the Journal of Natural Products (2003, Vol. 66, pp.
-885-887) a concise large scale synthesis of psilocin and psilocybin that
+885-887) a [[psilocybin-synthesis-shirota-concise-large-scale-method]] synthesis of psilocin and psilocybin that
 required no chromatographic purification at any stage. The synthesis began
 with commercially available 4-hydroxyindole and proceeded through four
 steps to psilocin and six steps to psilocybin. The work was motivated by
 Japan's regulation of fungi containing psilocybin and psilocin under the
-Narcotics and Psychotropic Control Law, effective June 6, 2002, which
+Narcotics and Psychotropic [[japan-narcotics-control-law-psilocybin-fungi-2002]], effective June 6, 2002, which
 created demand for pure reference standards for forensic identification.
 
 ## Motivation and Regulatory Context
 
-Before the 2002 Japanese law, magic mushrooms had become popular among young
+Before the 2002 Japanese law, [[guzman-magic-mushrooms-african-species]] had become popular among young
 people because they were relatively inexpensive and carried lower awareness
 of guilt compared to other drugs. Identification of magic mushrooms using
 morphologic and microscopic analyses is difficult without experts, so
 chromatographic methods including TLC, GC, and HPLC are usually employed.
-These methods always require standard compounds. Isolating psilocin and
+These methods always require [[shirota-forensic-standard-compounds-magic-mushroom-identification]]. Isolating psilocin and
 psilocybin from mushrooms on a gram scale is difficult because psilocin
 easily decomposes and psilocybin has high polarity.
 
@@ -46,7 +46,7 @@ The authors noted that benzyl ether protection was also utilized in
 previous syntheses, but this required a separate step for deprotection. The
 4-O-benzyl derivative of 4-hydroxyindole was somewhat unstable and not
 isolated in crystal form without careful reaction control. The acetyl
-protection route proved simpler and more practical for scale.
+[[acetyl-protection-route-psilocin-psilocybin-synthesis]] proved simpler and more practical for scale.
 
 ## Oxalyl Chloride Acylation to Glyoxalyl Intermediate
 
@@ -115,6 +115,8 @@ when compared to previously reported yields of 20% and 47% for psilocybin
 from other routes.
 
 ## Related
+
+- [[shirota-4-hydroxyindole-acetyl-protection-experimental]]
 
 - [[shirota-psilocin-psilocybin-synthesis]]
 - [[psilocin-synthesis-4-hydroxyindole-to-psilocin]]

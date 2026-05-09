@@ -1,5 +1,5 @@
 ---
-title: "EMCDDA Hallucinogenic Mushroom Cultivation and Growkit Market"
+title: "EMCDDA emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Cultivation and Growkit Market"
 created: 2026-04-28
 tags:
   - emcdda
@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-While hallucinogenic mushrooms grow wild in much of Europe, the EMCDDA 2006
+While [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] grow wild in much of Europe, the EMCDDA 2006
 thematic paper noted that most recreationally used mushrooms were cultivated
 rather than picked wild. The development of home cultivation methods and the
 commercial growkit market represented a significant supply channel for
@@ -73,7 +73,7 @@ Psilocybe cubensis and Psilocybe tampensis. A typical growkit contains:
 
 - A box with colonised substrate (the growing medium already inoculated
   with mycelium).
-- A bag with an air filter for humidity control.
+- A bag with an air filter for [[cervantes-humidity-control-dehumidification]].
 - Paperclips for securing the bag.
 - Instructions for the cultivation process.
 
@@ -85,7 +85,7 @@ a cost-effective option for regular users.
 The "Free Spore Ring Europe" (FSRE) was identified as a non-profit making
 organisation that distributed various strains of hallucinogenic mushroom
 spores. Users could obtain strains of species such as Psilocybe cubensis
-and Panaeolus cyanescens for a price of approximately 1 EUR per print. This
+and [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] for a price of approximately 1 EUR per print. This
 organisation represented an informal distribution network operating outside
 conventional commercial channels.
 
@@ -93,7 +93,7 @@ conventional commercial channels.
 
 Instructions on growing hallucinogenic mushrooms using spore prints and
 a substrate could be easily found on the internet. Websites provided
-step-by-step guides covering sterile technique, substrate preparation,
+step-by-step guides covering [[cultivator-sterile-technique-and-agar-culture]], substrate preparation,
 environmental conditions (temperature, humidity, light), harvesting and
 drying techniques, and troubleshooting common cultivation problems.
 
@@ -115,7 +115,7 @@ varied by product type:
 
 ## Terrarium Cultivation
 
-The commercial cultivation of Psilocybe cubensis varieties was primarily
+The commercial [[grass-seed-cultivation-of-psilocybe-mushrooms]] cubensis varieties was primarily
 conducted in terrariums, mostly in the Netherlands. Terrarium cultivation
 allows precise control of environmental conditions including temperature,
 humidity, and air exchange, producing reliable yields for the market.
@@ -139,7 +139,6 @@ One site (allsalvia.co.uk) was "sold out" in July 2005 with a notice that
 growkits were about to become Class A controlled drugs. The Irish online
 headshop THC stopped offering mushroom products from January 2006. Despite
 legal restrictions, spore prints and cultivation information remained
-accessible online, raising enforcement challenges.
 ## See Also
 
 - [[emcdda-hallucinogenic-mushroom-online-retail-shops]]

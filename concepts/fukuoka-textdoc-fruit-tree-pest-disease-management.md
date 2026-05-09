@@ -1,5 +1,5 @@
 ---
-title: Natural Fruit Tree Pest and Disease Management
+title: Natural Fruit Tree Pest and plant-disease-management-solomon
 created: 2026-04-28
 tags: [fukuoka, pest-control, fruit-trees, orchards]
 date: 2026-04-28
@@ -10,10 +10,10 @@ type: concept
 
 # Natural Fruit Tree Pest and Disease Management
 
-Fukuoka's approach to managing pests and diseases in fruit orchards
+Fukuoka's approach to managing [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] in fruit orchards
 demonstrates that chemical pesticides are not merely unnecessary but
 actively counterproductive. Through decades of observation in his natural
-orchards, he documented how ecological balance maintains tree health
+orchards, he documented how [[fukuoka-ecological-balance-principles]] maintains tree health
 without human intervention — and how pesticide use destroys that balance.
 
 ## The Fundamental Principle
@@ -22,7 +22,7 @@ In nature, trees are constantly attacked and parasitized by insects and
 disease, but the belief that trees will succumb without spraying does not
 hold under natural conditions. Crops become susceptible to attack because
 they have been artificially improved (reducing innate resistance) and
-because the growing environment is unnatural. If varieties closer to their
+because the [[cannabis-growing-environment-setup]] is unnatural. If varieties closer to their
 natural ancestors are selected and grown properly, pesticides become
 unnecessary.
 
@@ -35,7 +35,7 @@ attention is given to a few specific pests.
 
 Arrowhead scale infestation of citrus trees (Satsuma orange, Iyo orange,
 and shaddock) has become severe in conventional orchards. Fukuoka observed
-that in his natural orchard, parasitic wasps and several types of ladybugs
+that in his [[fukuoka-natural-orchard-development]], parasitic wasps and several types of ladybugs
 emerged to feast on the scales in large numbers. Even when natural enemies
 are present, places where branches crisscross and foliage is congested
 sustain considerable damage — not because of the pest, but because of the
@@ -62,7 +62,7 @@ pollution. Fukuoka's conclusion was direct: "If man had left the mite
 alone, it would never have become a major pest."
 
 Mites are highly sensitive to microclimatic changes in the tree. When
-black wattle (Acacia mearnsii) is used as a windbreak or shade tree, the
+black wattle ([[acacia-mearnsii]]) is used as a windbreak or shade tree, the
 number of mites and scales may drop dramatically or almost entirely vanish
 depending on sunlight and breeze exposure. The black wattle produces tannin
 and excretes insect-repelling substances, but the most direct cause of
@@ -94,7 +94,7 @@ by natural predators until pesticides disrupted the balance:
 Fukuoka recommends planting five or more black wattle trees per
 quarter-acre. The wattle serves multiple protective functions:
 
-- It supports populations of beneficial insects, particularly ladybugs,
+- It supports populations of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], particularly ladybugs,
   which feed on aphids and scales.
 - It modifies microclimate through shade and wind protection, reducing
   conditions favorable to pest outbreaks.
@@ -127,5 +127,5 @@ pest damage remains within tolerable bounds without any chemical inputs.
 ## See Also
 
 - [[fukuoka-disease-pest-management]]
-- [[mushroom-training-pest-disease-management]]
+- mushroom-training-pest-disease-management
 - [[jadam-fruit-tree-management]]

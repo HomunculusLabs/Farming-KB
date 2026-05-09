@@ -1,5 +1,5 @@
 ---
-title: Hofmann on Mysticism Meditation and Reality
+title: Hofmann on hofmann mysticism meditation reality and Reality
 created: 2026-04-28
 tags:
   - mysticism
@@ -41,7 +41,7 @@ innumerable generations had access to such experience through
 initiation at Eleusis. The unio mystica of Catholic saints and the
 visions described by Jakob Boehme, Meister Eckhart, Angelus Silesius,
 Thomas Traherne, and William Blake are "obviously essentially related
-to the enlightenment that the initiates to the Eleusinian Mysteries
+to the enlightenment that the initiates to the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]
 experienced."
 
 ## The Need for Mystical Experience in Modern Society
@@ -119,7 +119,7 @@ of human spirituality.
 
 At Eleusis, the mystical vision could be arranged at a prescribed place
 and time for all who were initiated. This was possible because a
-hallucinogenic drug was used. The characteristic property of
+[[emcdda-hallucinogenic-drug-classification-and-terminology-taxonomy]] was used. The characteristic property of
 hallucinogens, to suspend the boundaries between self and outer world
 in an ecstatic experience, makes it possible to evoke a mystical
 experience "according to plan" after suitable preparation. Hofmann's

@@ -1,11 +1,11 @@
 ---
-title: Psilocybin Synthesis via Zwitterionic Phosphate Intermediate Isolation
+title: psilocin-psilocybin-synthesis-shirota via hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin Intermediate Isolation
 created: 2026-04-28
 tags: [psilocybin-synthesis, zwitterionic-intermediate, phosphorylation, tetrabenzylpyrophosphate, n-o-dibenzyl-phosphate, chromatographic-free, organic-chemistry]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Concise Large-Scale Synthesis of Psilocin and Psilocybin (Shirota, Hakamata & Goda, J. Nat. Prod. 2003)"
+  - "Concise Large-Scale Synthesis of tryptamine-chemistry-psilocin-and-psilocybin-synthesis (Shirota, Hakamata & Goda, J. Nat. Prod. 2003)"
 type: concept
 ---
 
@@ -13,14 +13,14 @@ type: concept
 
 ## Overview
 
-The 2003 synthesis of [[psilocybin]]. This approach eliminated the need for any chromatographic purification throughout the entire synthesis, enabling gram-scale production of analytical standard compounds for forensic and regulatory identification of hallucinogenic mushrooms.
+The 2003 synthesis of [[psilocybin]]. This approach eliminated the need for any chromatographic purification throughout the entire synthesis, enabling gram-scale production of analytical [[shirota-forensic-standard-compounds-magic-mushroom-identification]] for forensic and regulatory identification of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]].
 
 ## The Phosphorylation Challenge
 
 Converting [[psilocybin]] requires introducing a phosphate ester group at the 4-hydroxy position of the indole ring. This phosphorylation step had historically been the bottleneck in psilocybin synthesis because:
 
 1. Psilocin is a secondary amine that can also be phosphorylated at nitrogen, creating regioselectivity problems
-2. The phosphate ester product ([[psilocybin]] via catalytic hydrogenolysis:
+2. The phosphate ester product ([[psilocybin]] via [[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]]:
 
 - **Conditions**: 10% palladium on activated carbon, hydrogen atmosphere, methanol solvent, room temperature
 - **Mechanism**: Both benzyl groups (N-benzyl and O-benzyl phosphate) are cleaved simultaneously by hydrogenolysis, yielding free psilocybin with its O-phosphate group intact
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

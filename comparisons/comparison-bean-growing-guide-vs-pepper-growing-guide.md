@@ -5,7 +5,7 @@ tags: [comparison, vegetable-growing, garden-planning, warm-season-crops, plant-
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 type: comparison
 ---
 
@@ -16,18 +16,18 @@ type: comparison
 Beans and peppers are both warm-season garden staples, but they differ dramatically in how
 they are started, managed, and harvested. Beans are among the easiest crops to grow, capable
 of fixing their own nitrogen through symbiosis with rhizobia bacteria, and they strongly
-prefer direct seeding. Peppers demand more attention, requiring indoor seed starting, warm
-soil temperatures, and consistent feeding throughout the growing season.
+prefer [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]. Peppers demand more attention, requiring indoor seed starting, warm
+soil temperatures, and consistent feeding throughout the [[savory-growing-season-and-non-growing-season-management]].
 
 Despite these differences, both crops reward the home gardener with prolific harvests and are
-essential components of a well-rounded vegetable garden. Understanding their distinct needs
+essential components of a well-rounded [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]. Understanding their distinct needs
 allows you to allocate garden space effectively and time your plantings for maximum yield.
 Many gardeners grow both, with beans serving as a soil-building companion crop alongside the
 more demanding peppers.
 
 ## Bean Growing Guide
 
-[[pepper-growing-guide]] details the cultivation of one of the most popular warm-season
+ details the cultivation of one of the most popular warm-season
 vegetables, prized for its incredible variety of flavors, colors, and heat levels. Peppers
 range from sweet bell peppers to fiery habaneros and ghost peppers, with heat measured on
 the Scoville scale. This diversity makes peppers one of the most exciting crops to grow.
@@ -44,7 +44,7 @@ with compost and bone meal to provide phosphorus for strong root development and
 production.
 
 Peppers are heavy feeders that benefit from nitrogen early in the growing season to support
-vegetative growth, then shift to phosphorus and potassium during flowering and fruiting.
+[[cannabis-vegetative-growth-stage]], then shift to phosphorus and potassium during flowering and fruiting.
 They are container-friendly, thriving in 5-gallon or larger pots with good drainage and
 regular fertilization.
 
@@ -59,7 +59,7 @@ peppers develop sweeter, more complex flavors with higher vitamin C content.
 | **Approach**    | Direct sow, low input, soil-building crop       | Indoor start, heat-dependent, heavy feeding crop      |
 | **Cost**        | Low (seeds, inoculant, optional trellis)        | Moderate (seeds, heat mat, containers, fertilizer)   |
 | **Complexity**  | Low (direct sow, minimal maintenance)           | Moderate (indoor starting, transplanting, feeding)   |
-| **Best For**    | Beginners, succession planting, soil improvement | Experienced gardeners, container growing, variety     |
+| **Best For**    | Beginners, [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]], soil improvement | Experienced gardeners, container growing, variety     |
 | **Drawbacks**   | Mexican bean beetle, concentrated bush harvest  | Frost-sensitive, slow start, needs heat and feeding   |
 | **Start Method**| Direct sow only, no transplanting               | Start indoors 8-10 weeks before last frost            |
 | **Soil Temp**   | 60 degrees Fahrenheit minimum                   | 75-85 degrees Fahrenheit for germination              |
@@ -74,7 +74,7 @@ food. Beans are the perfect choice for new gardeners, children's gardens, and an
 where low-maintenance growing is a priority. Their nitrogen-fixing ability makes them an
 excellent companion crop or cover crop that benefits the entire garden ecosystem.
 
-Bush beans work well in small spaces and intensive garden beds, while pole beans maximize
+Bush beans work well in small spaces and [[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]] beds, while pole beans maximize
 vertical growing space on trellises. Succession planting with bush beans ensures a
 continuous supply of fresh beans all season long without the need for a large dedicated
 growing area.
@@ -104,6 +104,10 @@ layout with peppers on the south side and beans to the north ensures both crops 
 adequate sunlight throughout the growing season.
 
 ## See Also
+
+- [[comparison-permaculture-tuber-crops-vs-bean-growing-guide]]
+
+- [[comparison-fava-bean-vs-chickpea-vs-lentil-grain-legumes]]
 
 - [[pepper-growing-guide]]
 - warm season crops

@@ -26,7 +26,7 @@ The species is a prominent component of montane chaparral and mixed-conifer unde
 
 Arctostaphylos patula was described by Edward Lee Greene in 1887. The genus name derives from Greek *arktos* (bear) and *staphyle* (cluster of grapes), referencing the bear-favored berries. The specific epithet *patula* means spreading or open, referring to the branching habit.
 
-The genus *Arctostaphylos* contains approximately 60 species, the vast majority endemic to western North America. California alone hosts over 50 species, making it one of the most speciose genera in the California flora.
+The genus *Arctostaphylos* contains approximately 60 species, the vast majority endemic to western [[psilocybin-north-america-pacific-northwest]]. California alone hosts over 50 species, making it one of the most speciose genera in the California flora.
 
 The species is placed in section *Arctostaphylos* within the genus, a group characterized by smooth, exfoliating bark and well-developed basal burls (lignotubers). It is most closely related to *A. nevadensis* and *A. viscida*.
 
@@ -46,7 +46,7 @@ Flowering occurs from April through July, depending on elevation and latitude. L
 
 Fruit is a drupe-like berry, 6–10 mm in diameter, reddish-brown when mature, with a mealy texture and several hard seeds. The fruit is edible but largely insipid, consumed by bears, birds, and small mammals.
 
-Each fruit typically contains 3–5 seeds enclosed in a hard, bony endocarp. Seed production is abundant in favorable years, with mature shrubs yielding thousands of fruits.
+Each fruit typically contains 3–5 seeds enclosed in a hard, bony endocarp. [[cervantes-seed-production-storage]] is abundant in favorable years, with mature shrubs yielding thousands of fruits.
 
 Nutritional analysis shows moderate sugar content (5–8%) with low fat. The mealy texture and mild flavor limit human culinary interest, though indigenous peoples of the Sierra Nevada region gathered and processed the berries into dried cakes and beverages.
 
@@ -82,15 +82,15 @@ Mule deer browse the foliage and twigs moderately, particularly in winter when o
 
 The evergreen foliage provides year-round cover for wildlife, and the dense shrub canopy offers thermal refugia and nesting sites for birds and small mammals. Flowers are visited by hummingbirds, bees, and butterflies.
 
-Ericoid mycorrhizal associations are critical for nutrient acquisition in the nutrient-poor soils typical of montane chaparral. These fungal symbionts enable the plant to access organic nitrogen and phosphorus that would otherwise be unavailable.
+[[dighton-ericoid-mycorrhizal-nutrient-acquisition]] associations are critical for nutrient acquisition in the nutrient-poor soils typical of montane chaparral. These fungal symbionts enable the plant to access organic nitrogen and phosphorus that would otherwise be unavailable.
 
 ## Cultivation
 
-Greenleaf manzanita is valued in western native plant landscaping for its attractive bark, glossy foliage, and drought tolerance. It is used in fire-resistant landscaping, habitat restoration, and erosion control on disturbed slopes.
+Greenleaf manzanita is valued in western native plant landscaping for its attractive bark, glossy foliage, and [[dighton-fungal-drought-tolerance-plant-water-relations]]. It is used in fire-resistant landscaping, habitat restoration, and [[permplant-willows-salix-erosion-control-fodder]] on disturbed slopes.
 
 Propagation from seed requires fire treatment (boiling water soak or charred wood leachate) followed by cold stratification for 60–90 days. Softwood cuttings under intermittent mist yield 30–50% rooting success.
 
-Seed germination without fire treatment is typically below 5%. The most effective laboratory treatment involves a 5-minute soak in 95°C water followed by 90 days at 2–4°C, which can raise germination to 40–60%.
+[[cannabis-seed-germination-methods]] without fire treatment is typically below 5%. The most effective laboratory treatment involves a 5-minute soak in 95°C water followed by 90 days at 2–4°C, which can raise germination to 40–60%.
 
 Plants require full sun, excellent drainage, and acidic to neutral soils. Irrigation should be minimal after establishment — the species is highly drought-adapted and susceptible to root rot (*Phytophthora* spp.) in poorly drained soils.
 
@@ -101,6 +101,8 @@ Pruning is generally unnecessary and can damage the natural form. Selective remo
 The species is classified as fire-resistant rather than fire-retardant — while the foliage contains volatile oils, the dense woody stems and burl-based architecture enable survival of low-to-moderate intensity fires.
 
 ## See Also
+
+- [[arctostaphylos-uva-ursi]]
 
 - [[vaccinium-ovatum]]
 - [[vaccinium-macrocarpon]]

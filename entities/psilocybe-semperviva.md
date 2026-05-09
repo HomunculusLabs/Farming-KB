@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-gartz.md
 
 # Psilocybe semperviva
 
-**Psilocybe semperviva** is a rare psilocybin-containing mushroom species documented from Europe. The species name "semperviva" translates from Latin as "always living" or "evergreen," likely referring to its persistent fruiting habit or the resilient nature of its mycelial network. The species was identified through systematic mycochemical surveys rather than through traditional ethnomycological knowledge.
+**Psilocybe semperviva** is a rare psilocybin-containing mushroom species documented from Europe. The species name "semperviva" translates from Latin as "always living" or "evergreen," likely referring to its persistent fruiting habit or the resilient nature of its [[gadd-mycelial-network-dynamics]]. The species was identified through systematic mycochemical surveys rather than through traditional ethnomycological knowledge.
 
 ## Taxonomy
 
@@ -19,18 +19,18 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-gartz.md
 - **Genus:** Psilocybe
 - **Authority:** Described from European collections
 
-The species belongs to the bluing, psilocybin-producing section of Psilocybe, though its exact sectional placement is subject to revision as molecular phylogenetics reshapes the genus. The genus Psilocybe has undergone significant taxonomic reorganization, with DNA sequencing revealing that many traditional species groups are polyphyletic.
+The species belongs to the bluing, psilocybin-producing section of Psilocybe, though its exact sectional placement is subject to revision as molecular phylogenetics reshapes the genus. The genus Psilocybe has undergone significant taxonomic reorganization, with [[environmental-dna-sequencing-fungi]] revealing that many traditional species groups are polyphyletic.
 
-Within the European Psilocybe flora, P. semperviva contributes to the recognition that Europe harbors a more diverse assemblage of psychoactive fungi than was appreciated in earlier mycological literature. It sits alongside better-known species such as [[psilocybe-cyanescens]], and [[psilocybin]] and [[baeocystin]] — A biosynthetic precursor of psilocybin
+Within the European Psilocybe flora, P. semperviva contributes to the recognition that Europe harbors a more diverse assemblage of [[cattle-dispersal-psychoactive-fungi-australia]] than was appreciated in earlier mycological literature. It sits alongside better-known species such as [[psilocybe-cyanescens]], and [[psilocybin]] and [[baeocystin]] — A biosynthetic precursor of psilocybin
 - [[psilocybe-semilanceata]] | More conic cap with pronounced papilla; robust curved stipe |
 | [[psilocybe-bohemica]] | Central European; larger stature |
-| [[psilocybe-semilanceata]] — Most common European psilocybin mushroom
+| [[psilocybe-semilanceata]] — Most common European [[emcdda-psilocybin-mushroom-dose-and-effects]]
 - [[psilocybe-cyanescens]] — Potent wood-inhabiting species
 - [[psilocin]] — Active metabolite of psilocybin
 
 ## References
 
-- Gartz, J. *Magic Mushrooms Around the World*. 1996.
+- Gartz, J. *[[guzman-magic-mushrooms-african-species]] [[fungi-around-the-world-species-distribution]]*. 1996.
 
 ## External Links
 
@@ -113,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

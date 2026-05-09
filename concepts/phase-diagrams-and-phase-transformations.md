@@ -1,5 +1,5 @@
 ---
-title: Phase Diagrams and Phase Transformations
+title: Phase phase diagrams and phase transformations Transformations
 type: concept
 aliases: [phase diagram, phase equilibria, Gibbs phase rule, eutectic, peritectic, TTT diagram, CCT diagram, precipitation hardening, CALPHAD]
 tags: [physics, materials-science, thermodynamics, metallurgy, phase-transformations, alloy-design, engineering]
@@ -17,7 +17,7 @@ A **phase diagram** is a graphical map showing the equilibrium states of a mater
 **Unary diagrams** plot pressure vs. temperature for a single component (e.g., H₂O, Fe, SiO₂), showing triple points and critical points. Iron exhibits α (BCC) → γ (FCC) at 912°C and γ → δ (BCC) at 1394°C at 1 atm. Water's phase diagram is notable for the negative slope of the ice I–liquid boundary, meaning ice melts under pressure — essential for glacier flow dynamics.
 
 **Binary diagrams** (temperature–composition at fixed pressure) include:
-- **Isomorphous** (complete solid solubility): Cu–Ni, Ag–Au. Single lens-shaped L + S region between liquidus and solidus. The Hume-Rothery rules predict solid solubility: atomic size difference < 15%, same crystal structure, similar electronegativity, same valence.
+- **Isomorphous** (complete solid solubility): Cu–Ni, Ag–Au. Single lens-shaped L + S region between liquidus and solidus. The Hume-Rothery rules predict solid solubility: atomic size difference < 15%, same [[crystal-structure-and-crystal-defects]], similar electronegativity, same valence.
 - **Eutectic**: Two terminal solid solutions with limited solubility meeting at the eutectic point where L → α + β on cooling.
 - **Peritectic**: L + α → β invariant reaction; common in Fe–C, Cu–Zn, Cu–Sn systems.
 - **Monotectic**: L₁ → L₂ + α, involving immiscible liquids (e.g., Cu–Pb at 954°C).
@@ -48,7 +48,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -98,7 +98,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -108,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

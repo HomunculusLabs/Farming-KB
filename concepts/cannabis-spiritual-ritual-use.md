@@ -24,7 +24,7 @@ sources:
 
 # Cannabis Spiritual and Ritual Use
 
-Cannabis has served as a sacrament in numerous religious and spiritual traditions throughout history. From Rastafarianism to possible early Christian use, the plant has been integrated into worship, meditation, and healing practices across cultures.
+Cannabis has served as a sacrament in numerous religious and spiritual traditions throughout history. From Rastafarianism to possible [[allegro-dead-sea-scrolls-and-early-christian-sects]] use, the plant has been integrated into worship, meditation, and healing practices across cultures.
 
 ## Historical and Cross-Cultural Context
 
@@ -39,7 +39,7 @@ The practitioner's guide by Magus Sativus frames cannabis as having three primar
 The guide draws explicit parallels with other traditions:
 
 - **Christian Eucharist**: Bread and wine as sacred substances — cannabis fills a parallel role in earth-based traditions
-- **Native American peyote ceremonies**: Peyote and [[ayahuasca-visions]] used to communicate with the divine — cannabis serves similar functions in Wiccan and neo-pagan contexts
+- **[[halpern-sacramental-peyote-and-native-american-church]] peyote ceremonies**: Peyote and [[ayahuasca-visions]] used to communicate with the divine — cannabis serves similar functions in Wiccan and neo-pagan contexts
 - **Rastafarianism**: Cannabis ("ganja") is considered a holy herb, used in reasoning sessions and religious ceremonies
 
 ## Philosophical Framework
@@ -65,7 +65,7 @@ The guide describes several structured rituals that share common elements:
    - West: Water, life, oceans, emotional healing
 3. **Cannabis consumption**: Smoked in a pipe or joint, or consumed as infused liquid/oil
 4. **Visualization**: Green and blue healing energies from the earth; purple and yellow from the sky
-5. **Chanting/incantation**: Specific verbal formulas repeated during altered states
+5. **Chanting/incantation**: Specific verbal formulas repeated during [[weil-the-natural-mind-altered-states-normalcy]]
 6. **Closing**: The pentagram is wiped away — "the earth, like all things, is fleeting"
 
 ### Described Rituals
@@ -116,6 +116,6 @@ The guide notes that cannabis should only be used in jurisdictions where legally
 
 - [[entheogen-culture]] — Broader context of psychoactive plants in spiritual practice
 - [[psychedelic-compounds-reference]] — Pharmacological profiles of psychoactive substances
-- [[cannabis-vegetative-stage]] — Cannabis cultivation basics
-- [[cannabis-extraction-basics]] — Making infused oils and tinctures
-- [[mushroom-folklore-and-culture]] — Cultural attitudes toward fungi as a parallel tradition
+- [[cannabis-vegetative-stage]] — [[query-how-does-no-till-cannabis-cultivation-work]] basics
+- [[cannabis-extraction-basics]] — Making [[query-how-to-make-herbal-infused-oils-at-home]] and tinctures
+- [[mushroom-folklore-and-culture]] — [[weil-cultural-attitudes-toward-altered-states]] toward fungi as a parallel tradition

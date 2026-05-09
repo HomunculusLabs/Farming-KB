@@ -1,10 +1,11 @@
 ---
-title: "How to Start Seed Saving"
+title: "How to Start comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques"
 created: 2026-04-28
 tags: [query, seed-saving, organic-gardening, plant-breeding, self-sufficiency]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/steve-solomon-gardening-when-it-counts.md"
 type: query
 ---
 
@@ -14,7 +15,7 @@ type: query
 Seed saving is the practice of harvesting, drying, and storing seeds from your garden plants to grow in future seasons. Beginners should start with easy self-pollinating species like tomatoes, beans, peas, and lettuce. The basic process involves selecting the best plants, allowing seeds to fully mature, properly drying them, and storing them in cool, dark, and dry conditions.
 
 ## Key Points
-- Save seeds only from open-pollinated and heirloom varieties, not hybrids
+- [[query-how-do-i-save-seeds-from-biennial-vegetables]] only from open-pollinated and heirloom varieties, not hybrids
 - Start with easy self-pollinating crops: tomatoes, beans, peas, peppers, and lettuce
 - Always select seeds from your healthiest, most productive plants
 - Process dry-seeded crops by letting pods dry fully on the plant
@@ -69,7 +70,7 @@ selection over multiple seasons can develop locally adapted strains.
 These strains often outperform commercial varieties in your specific garden
 conditions. Healthy soil is the foundation of strong seed stock, so consider
 [[solomon-seed-storage-for-maximum-viability]] guide emphasizes that seeds
-must be completely dry before storage to prevent mold and maintain germination rates.
+must be completely dry before storage to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] and maintain germination rates.
 Regular germination testing every one to two years helps track viability and
 identify when seeds need to be replanted to refresh your stock.
 For tips on germinating specific seed types, see
@@ -94,4 +95,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

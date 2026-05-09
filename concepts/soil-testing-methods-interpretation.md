@@ -16,7 +16,7 @@ Soil testing is the foundation of informed garden and farm management. A good so
 - Avoid applying nutrients that are already sufficient
 - Identify deficiencies before symptoms appear in plants
 - Monitor [[teaming-with-nutrients-composting-and-nutrient-cycling]]:** Nutrient holding capacity
-- **Organic matter percentage:** Key indicator of soil health
+- **[[hamilton-composting-and-organic-matter-management]] percentage:** Key indicator of soil health
 
 ### Micronutrient Analysis
 Optional test for [[natural-fertilizer-sources-and-application]] can be matched to specific deficiencies
@@ -105,4 +105,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

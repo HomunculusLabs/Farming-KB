@@ -1,5 +1,5 @@
 ---
-title: Home Vegetable Gardening
+title: Home home-vegetable-garden-planning
 created: 2026-04-28
 tags: [gardening, vegetables, horticulture, home-growing]
 date: 2026-04-28
@@ -35,13 +35,13 @@ broccoli) tolerate frost and grow best in spring and fall. Warm-season crops
 temperatures and are planted after the last expected frost date.
 
 Seed packets and transplant labels provide spacing requirements. Crowding
-reduces air circulation and increases disease pressure. Succession planting,
+reduces air circulation and increases disease pressure. [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]],
 where small batches of fast-maturing crops are planted every two to three weeks,
 extends the harvest window for crops like lettuce, beans, and radishes.
 
 ## Watering and Fertilization
 
-Consistent moisture is critical for vegetable production. Most gardens need one
+Consistent moisture is critical for [[dry-gardening-unirrigated-vegetable-production-solomon]]. Most gardens need one
 to one and a half inches of water per week from rainfall or irrigation. Drip
 irrigation and soaker hoses deliver water directly to root zones, reducing
 waste and minimizing foliar diseases caused by wet leaves. Mulching with straw,
@@ -71,10 +71,10 @@ advantages for the home gardener.
 
 ## Season Extension
 
-Season extension techniques allow gardeners to start earlier in spring and
+Season [[comparison-season-extension-techniques-vs-cold-frame-gardening]] allow gardeners to start earlier in spring and
 continue later into fall. See [[winter-gardening-season-extension]] for detailed approaches. Cold frames, row covers, and low tunnels provide a
-few degrees of frost protection. Hoop houses or high tunnels offer more
-substantial protection and can significantly extend the growing season, making
+few degrees of [[holzer-frost-protection-techniques]]. Hoop houses or high tunnels offer more
+substantial protection and can significantly [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season, making
 it possible to grow cool-season crops through much of the winter in mild
 climates.
 

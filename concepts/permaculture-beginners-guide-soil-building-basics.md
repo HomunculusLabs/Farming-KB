@@ -1,14 +1,12 @@
 ---
-title: Permaculture Beginners Guide — Soil Building Basics
+title: permaculture permaculture-beginners-guide-food-forests-introduction — Soil cob-building-basics-detailed
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
-tags: [[permaculture, soil, soil-building, ecology, erosion, burnett, broadscale]
+tags: [permaculture, soil, soil-building, ecology, erosion, burnett, broadscale]
 sources: ["raw/papers/permaculture-beginners-guide.md"]
 ---
-# Permaculture Beginners Guide — Soil Building Basics
-
-[[faires-hugelkultur-and-soil-building]], [[acid-and-alkaline-soil-management]] for more detailed soil-building methods from other sources.
+# Permaculture Beginners Guide — Soil Building Basics faires-hugelkultur-and-soil-building, [[acid-and-alkaline-soil-management]] for more detailed soil-building methods from other sources.
 
 ## The Soil Crisis: Industrial Agriculture's Impact
 
@@ -16,9 +14,9 @@ Burnett frames soil degradation as one of the primary consequences of industrial
 
 **Destructive practices:**
 - Continuous ploughing breaks down soil structure and depletes organic matter
-- Grubbing up hedgerows removes root systems that stabilize soil and create microclimates
+- Grubbing up hedgerows removes root systems that stabilize soil and [[query-how-do-i-create-microclimates-in-my-garden]]
 - Removal of trees eliminates the soil-building role of deep-rooted perennial systems
-- Chemical fertilizers disrupt natural soil biology and nutrient cycling
+- [[cervantes-chemical-fertilizers-guide]] disrupt natural soil biology and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - Pesticides kill beneficial soil organisms essential to soil health
 
 **Consequences observed:**
@@ -97,7 +95,7 @@ For beginners, Burnett's incremental approach applies to soil:
 
 - Start with composting food and garden waste to create fertility
 - Begin closing nutrient cycles within your own garden or allotment
-- Use mulching to protect and feed soil surface biology
+- Use mulching to protect and feed soil [[ingham-leaf-surface-biology-exudates]]
 - Introduce diverse plantings rather than monocultures
 - Let each observation of soil response inform the next intervention
 
@@ -144,6 +142,6 @@ Burnett's analysis of UK farmland provides a framework for understanding differe
 ## Soil Building in Urban Contexts
 
 Burnett specifically addresses urban soil building, recognizing that most practitioners live in towns and cities with limited access to land:
+## See Also
 
-- Windowbox and balcony gardens can still build soil through composting and mulching
-- Community gardens and allotments provide larger-scale soil-building opportunities
+- [[permaculture-beginners-guide-food-forests-introduction]]

@@ -1,11 +1,12 @@
 ---
-title: Fukuoka High-Yield Rice and Barley Cultivation
+title: Fukuoka High-Yield Rice and fukuoka-textdoc-barley-cultivation-three-stage-no-tillage-evolution
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # High-Yield Cultivation of Rice and Barley
@@ -14,17 +15,17 @@ From "The Natural Way of Farming: The Theory" by Masanobu Fukuoka.
 
 ## Yields Exceed Scientific Farming
 
-Many people assume that yields from natural farming are inferior to those of scientific farming, but in fact the very reverse is true. Analytic and scientific reasoning leads us to believe that the way to increase yields is to break up rice production into constituent elements, conduct research on each, then reassemble. But this is like carrying a single lantern to guide one's way through a pitch-dark night -- blind, directionless progress.
+Many people assume that yields from [[comparison-natural-farming-vs-permaculture]] are inferior to those of scientific farming, but in fact the very reverse is true. Analytic and scientific reasoning leads us to believe that the way to increase yields is to break up [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]] into constituent elements, conduct research on each, then reassemble. But this is like carrying a single lantern to guide one's way through a pitch-dark night -- blind, directionless progress.
 
 ## Straw Mulch Method
 
 Although it may appear crude and backward, spreading fresh straw on a rice field is really quite a bold and revolutionary step. The agricultural technician has always regarded rice straw as nothing but a source of rice diseases and pests, so the common practice has been to apply the straw only when fully decomposed as compost.
 
-Fukuoka deliberately called composting unnecessary and proposed that all fresh rice straw be scattered over the field during barley cultivation and all barley straw spread during rice cultivation. Straw produced on Japanese rice fields is of great importance as a source of organic fertilizer and for protecting the fields and enriching the soil.
+Fukuoka deliberately called composting unnecessary and proposed that all fresh rice straw be scattered over the field during barley cultivation and all barley straw spread during [[jadam-rice-cultivation-methods]]. Straw produced on Japanese rice fields is of great importance as a source of [[complete-organic-fertilizer-cof-recipe-solomon]] and for protecting the fields and enriching the soil.
 
 ## Water Management
 
-Water management, consisting of irrigation and drainage, is the most important part of crop management in rice cultivation. Farmers using direct-seeding rice-barley cultivation will be seeding and irrigating at times different from other local farmers, which can lead to disputes over communally controlled irrigation canals.
+Water management, consisting of irrigation and drainage, is the most important part of [[mushroom-crop-management-flush-harvesting]] in rice cultivation. Farmers using direct-seeding rice-barley cultivation will be seeding and irrigating at times different from other local farmers, which can lead to disputes over communally controlled irrigation canals.
 
 Building earthen levees that do not leak requires traditional farming tools. Erecting a well-built levee in a paddy field is akin to making a work of art. Such technology is clearly superior to poured concrete and vinyl sheeting.
 
@@ -112,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -5,7 +5,8 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Mu Economics
@@ -26,7 +27,7 @@ He poses the fundamental economic questions: "Is there intrinsic value in this t
 
 Fukuoka connects economic value to human well-being: "The fact that there is no intrinsic value to objects in nature and no need for research seems to have a direct bearing on the happiness and unhappiness of man." His conclusion: "True happiness does not arise from things."
 
-This extends his first principle of farming -- "we do not understand; it is not possible to know and understand" -- into economics. Just as scientific agriculture creates problems it then claims to solve, economic systems create the conditions of scarcity that give objects their apparent value.
+This extends his first principle of farming -- "we do not understand; it is not possible to know and understand" -- into economics. Just as [[fukuoka-critique-scientific-agriculture-civilization]] creates problems it then claims to solve, economic systems create the conditions of scarcity that give objects their apparent value.
 
 ## Critique of Scientific Knowledge in Economics
 
@@ -40,7 +41,7 @@ Fukuoka's economic thinking directly informs his farming critique:
 
 - Farmers are trapped in a value system created by chemical agriculture: "The key sectors of Japan's chemical industry will all collapse" if no-till farming spreads
 - Agricultural cooperatives create economic dependency: farmers who follow instructions receive payment automatically; those who deviate face financial ruin
-- The Japanese system of land ownership and cooperative control makes natural farming economically impossible even when technically superior
+- The Japanese system of land ownership and cooperative control makes [[comparison-natural-farming-vs-permaculture]] economically impossible even when technically superior
 
 His natural farming method produces yields of 50 bushels per quarter-acre -- matching or exceeding conventional methods -- yet cannot spread because the economic system is designed around chemical inputs and mechanized planting, not biological productivity.
 
@@ -48,7 +49,7 @@ His natural farming method produces yields of 50 bushels per quarter-acre -- mat
 
 In his Asahi Shimbun essay (1983), Fukuoka presents an implicit economic vision:
 
-"The hearthside is the universe; to own nothing is to never be without." This is not asceticism but a recognition that the thousand rice paddies -- built over centuries by Japanese farmers "serving nature, growing crops without digging up and destroying the soil" -- already contain within them all the value needed for human flourishing.
+"The hearthside is the universe; to own nothing is to never be without." This is not asceticism but a recognition that the thousand rice paddies -- built over centuries by Japanese farmers "[[fukuoka-serving-nature-philosophy]], growing crops without digging up and destroying the soil" -- already contain within them all the value needed for human flourishing.
 
 The real economy, for Fukuoka, is the biological productivity of healthy land managed with minimal intervention. The "false nature" replacing Japan's "natural beauty" represents not just ecological but economic catastrophe: "the rate of collapse of Japan's pine forests" equals "the rate at which nature is collapsing in this country."
 
@@ -61,7 +62,7 @@ Fukuoka identifies a cruel paradox: the more productive natural farming becomes 
 - Agricultural cooperatives (which profit from distribution of inputs)
 - Agricultural testing stations (which exist to solve problems created by their own methods)
 
-"What happens if you don't have to plow, if you don't have any need for tillers and tractors, if you don't have to spread chemical fertilizers and pesticides? The key sectors of Japan's chemical industry will all collapse. No wonder then that no one is willing to believe such a method of farming is possible."
+"What happens if you don't have to plow, if you don't have any need for tillers and tractors, if you don't have to spread [[cervantes-chemical-fertilizers-guide]] and pesticides? The key sectors of Japan's chemical industry will all collapse. No wonder then that no one is willing to believe such a method of farming is possible."
 
 ## Connection to Fukuoka's Broader Philosophy
 

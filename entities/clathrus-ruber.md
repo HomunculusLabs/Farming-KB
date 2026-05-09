@@ -26,12 +26,12 @@ fungus, is a striking saprotrophic basidiomycete in the family
 Phallaceae.
 
 Native to Mediterranean and subtropical regions, it has spread globally
-through horticultural trade. The mature fruiting body forms a latticed,
+through horticultural trade. The mature [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] forms a latticed,
 bright red cage-like structure that is among the most visually
 distinctive of all fungi.
 
 The species produces a foul-smelling gleba that attracts flies and
-other insects for spore dispersal. It is considered inedible.
+other insects for [[aquatic-fungi-spore-dispersal-ingold]]. It is considered inedible.
 
 ## Taxonomy
 
@@ -63,16 +63,16 @@ Arms are bright red to orange-red, spongy, polygonal in cross-section
 gleba. The carrion-like odor attracts dipteran spore vectors.
 
 - **Spores:** Ellipsoidal to cylindrical, smooth, 4-6 × 1.5-2.5 µm
-- **Spore print:** Olive-brown to dark olive
+- **[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Olive-brown to dark olive
 - **Basidia:** Clavate, 4-spored, 15-25 × 4-6 µm
 
 ## Distribution and Habitat
 
 Widely distributed across Mediterranean Europe, North Africa, and
-parts of Asia; introduced to North America, South America, Australia,
+parts of Asia; introduced to [[psilocybin-north-america-pacific-northwest]], South America, Australia,
 and New Zealand.
 
-Prefers gardens with mulched beds, decomposing wood chips and straw,
+Prefers gardens with mulched beds, decomposing [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] and straw,
 forest edges, and sandy coastal soils. Fruiting occurs autumn through
 early winter in Mediterranean climates.
 
@@ -90,7 +90,7 @@ media.
 ## Bioactive Compounds
 
 - **Volatile organics:** Dimethyl disulfide, dimethyl trisulfide, and
-  short-chain fatty acids produce the carrion odor
+  short-chain [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] produce the carrion odor
 - **Phenolic compounds:** Flavonoid-like substances from mycelial
   extracts show antioxidant activity in vitro
 - Antimicrobial activity documented against *S. aureus* and *E. coli*

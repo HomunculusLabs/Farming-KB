@@ -1,6 +1,6 @@
 # EMCDDA "Return to Nature" Megatrend as a Driver of Mushroom Appeal
 
-The EMCDDA's 2006 thematic paper on hallucinogenic mushrooms identified a broad
+The EMCDDA's 2006 thematic paper on [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] identified a broad
 consumer "megatrend" -- a large-scale social shift slow to form but powerful once
 established -- that significantly contributed to the emerging popularity of magic
 mushrooms in Europe during the late 1990s and early 2000s. This "return to nature"
@@ -21,7 +21,7 @@ experiential products, and a specific preference for natural and organic goods.
 
 ## Natural vs Synthetic: The Authenticity Advantage
 
-The paper's conclusion on contributing factors stated directly that "increasing
+The paper's conclusion on [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]] stated directly that "increasing
 interest in natural and organic products may have enhanced the appeal of
 hallucinogenic mushrooms over synthetic hallucinogens." This framing positioned
 mushrooms favourably against synthetic drugs like ecstasy and LSD in the
@@ -55,8 +55,8 @@ The natural-product framing was central to smartshop marketing strategies. The
 paper documented that "hallucinogenic mushrooms have been sold by many retailers
 under the general label of 'Herbal highs' following the trend in the late 1990s
 towards the preference for organic and herbal products." This categorisation
-placed mushrooms alongside other products marketed as natural alternatives to
-synthetic drugs, including "herbal xtc" and Salvia divinorum. Smartshops, which
+placed [[query-how-can-i-grow-mushrooms-alongside-garden-vegetables]] other products marketed as natural alternatives to
+synthetic drugs, including "herbal xtc" and [[golden-guide-salvia-divinorum-and-diviner-sage]]. Smartshops, which
 specialised in psychoactive herbal substances alongside vitamins and health
 products, deliberately positioned mushrooms within a wellness and natural-products
 retail context rather than a drug-market context. Dutch smartshops concentrated
@@ -68,7 +68,7 @@ constituting approximately 50% of smartshop turnover.
 The perception of mushrooms as natural organisms rather than manufactured drugs
 created significant legal ambiguity across Europe. Psilocybin and psilocin were
 controlled under the 1971 UN Convention on Psychotropic Substances, but the
-biological status of the mushrooms themselves -- living organisms containing
+biological status of the mushrooms themselves -- [[savory-living-organisms-as-tools]] containing
 controlled substances but growing wild in many European countries -- generated
 confusion in national legal frameworks.
 
@@ -103,7 +103,7 @@ diffusion of and responses to an emerging drug trend."
 
 ## Source
 
-EMCDDA Thematic Paper "Hallucinogenic Mushrooms: An Emerging Trend Case Study"
+EMCDDA Thematic Paper "Hallucinogenic Mushrooms: An [[emcdda-epod-project-emerging-trend-detection-methodology]] Case Study"
 (2006), Hillebrand, J., Olszewski, D., and Sedefov, R. European Monitoring Centre
 for Drugs and Drug Addiction, Lisbon. ISBN 92-9168-249-7.
 
@@ -112,5 +112,5 @@ for Drugs and Drug Addiction, Lisbon. ISBN 92-9168-249-7.
 - [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]].md
 - [[emcdda-hallucinogenic-mushroom-entactogenic-comparison-ecstasy]].md
 - [[norwegian-woodland-party-organic-mushroom-milieu]].md
-- [[emcdda-hallucinogenic-mushroom-barriers-to-diffusion]].md
+- emcdda-hallucinogenic-mushroom-barriers-to-diffusion.md
 - magic-mushroom-smartshop-retail-europe.md

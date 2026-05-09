@@ -21,18 +21,18 @@ sources:
 
 **GMO Cookies**, also known simply as **GMO** or **Garlic Cookies**, is a potent indica-dominant hybrid cannabis strain bred by **Mamiko Seeds**. It is a cross between **Girl Scout Cookies** and **Chemdawg**, two legendary strains that together produce an exceptionally powerful and aromatic cultivar.
 
-The strain has become one of the most sought-after modern hybrids in the North American cannabis market, prized for its unique garlic-onion-pungent aroma profile and deeply relaxing effects. Despite its intimidating name (a play on "Garlic, Mushroom, Onion"), GMO contains no genetically modified organisms.
+The strain has become one of the most sought-after modern hybrids in the [[growing-gourmet-north-american-reishi-species]] cannabis market, prized for its unique garlic-onion-pungent aroma profile and deeply relaxing effects. Despite its intimidating name (a play on "Garlic, Mushroom, Onion"), GMO contains no genetically modified organisms.
 
 GMO consistently tests at high THC levels, typically ranging from 25-32%, placing it among the most potent strains available. It has won multiple awards, including first place at the 2020 Emerald Cup and recognition at various High Times Cannabis Cups.
 
-The strain's popularity has surged since approximately 2018, driven by the craft cannabis movement and growing consumer interest in unique, savory terpene profiles that diverge from the sweet, fruity profiles dominating the market. GMO is now available in licensed dispensaries across North America and has inspired an entire category of "garlic" strains.
+The strain's popularity has surged since approximately 2018, driven by the craft cannabis movement and growing consumer interest in unique, savory [[cannabis-terpene-profiles-sativa]] that diverge from the sweet, fruity profiles dominating the market. GMO is now available in licensed dispensaries across North America and has inspired an entire category of "garlic" strains.
 
 ## Lineage
 
 GMO is the product of crossing two foundational modern cannabis lines:
 
 - **Female parent:** Girl Scout Cookies (GSC) — itself a cross of OG Kush × Durban Poison, contributing sweet, earthy cookie-like terpenes and dense bud structure
-- **Male parent:** Chemdawg — a cornerstone breeding strain of unknown exact origin (possibly Nepalese × Thai), contributing its signature fuel, chemical, and pungent aromas alongside heavy resin production
+- **Male parent:** Chemdawg — a cornerstone breeding strain of unknown exact origin (possibly Nepalese × Thai), contributing its signature fuel, chemical, and pungent aromas alongside heavy [[cannabis-glandular-trichome-types-resin-production-clarke]]
 
 The genetic ratio is approximately 70% indica / 30% sativa. Chemdawg's influence dominates the terpene profile, while GSC contributes to the overall structure, trichome density, and complex flavor layers.
 
@@ -91,13 +91,13 @@ Due to its sedating nature, GMO is best reserved for evening or nighttime use. N
 
 ### Cultivation
 
-GMO has a flowering time of approximately 9-10 weeks when grown indoors. It is considered a moderately difficult strain to cultivate, requiring careful nutrient management and environmental control to achieve optimal terpene expression.
+GMO has a flowering time of approximately 9-10 weeks when grown indoors. It is considered a moderately difficult strain to cultivate, requiring careful [[green-cannabis-grow-bible-nutrient-management-ppm]] and [[eclss-environmental-control-life-support]] to achieve optimal terpene expression.
 
 Plants tend to be medium height with bushy lateral branching. Yields range from 350-450 g/m² indoors. The strain responds well to low-stress training (LST) and SCROG methods.
 
 Cooler nighttime temperatures during the final two weeks of flowering enhance the purple coloration. Outdoor cultivation is possible in Mediterranean climates with harvest in mid-October, though the pungent aroma requires consideration of odor control measures.
 
-GMO is moderately resistant to common molds and pests but can be susceptible to powdery mildew in high-humidity environments. Proper air circulation and spacing between plants are essential for healthy development.
+GMO is moderately resistant to common molds and pests but can be susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in high-humidity environments. Proper air circulation and spacing between plants are essential for healthy development.
 
 ## See Also
 

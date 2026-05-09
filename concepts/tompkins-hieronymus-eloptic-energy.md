@@ -12,7 +12,7 @@ type: concept
 # Hieronymus and Eloptic Energy
 
 Thomas Galen Hieronymus was a laboratory researcher who built upon the
-work of Albert Abrams to develop a theory of "eloptic energy" -- a
+work of [[tompkins-albert-abrams-electronic-diagnosis]] to develop a theory of "eloptic energy" -- a
 force that obeys some laws of electricity and some laws of optics but
 not all of either. His experiments, particularly those involving plant
 growth in total darkness, suggest the existence of a growth-promoting
@@ -100,14 +100,14 @@ achieve.
 
 ## Patent and Official Recognition
 
-In 1949, Hieronymus was awarded United States patent 2,482,773 for
+In 1949, Hieronymus was awarded [[dmt-containing-plants-united-states-halpern]] patent 2,482,773 for
 "Detection of Emanations from Materials and Measurement of the Volumes
 Thereof." The patent application included an important qualification:
 the "apparatus preferably relies upon the element of touch and,
 therefore, the skill of the operator." The detector was described as
 "preferably an electrical conductor coated with a material having such
 characteristics that under influence of energy flowing through the
-conducting portion, the coating will change its surface tension or
+conducting portion, the coating will change its [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] or
 viscosity."
 
 What actually happened at the detector to increase and decrease its

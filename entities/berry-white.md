@@ -12,7 +12,7 @@ sources:
   - Leafly. "Berry White Cannabis Strain." www.leafly.com.
   - AllBud. "Berry White Weed Strain." www.allbud.com.
   - "Strainbank Genetics Database." www.strainbank.com.
-  - Mudge EM, Murch SJ (2020). "Cannabinoid and Terpene Profiles of Commercial Cannabis Strains." Cannabis and Cannabinoid Research 5(4).
+  - Mudge EM, Murch SJ (2020). "Cannabinoid and [[cannabis-terpene-profiles-sativa]] of Commercial Cannabis Strains." Cannabis and Cannabinoid Research 5(4).
 created: 2026-04-28
 ---
 
@@ -22,11 +22,11 @@ created: 2026-04-28
 
 Berry White has earned a reputation as a potent relaxation strain with a pleasant flavor profile. It is popular among both recreational and medical users seeking evening or nighttime relief from stress, pain, and insomnia.
 
-The strain is moderately challenging to cultivate, requiring attention to training and nutrient management. Its flowering time of 8–9 weeks and respectable yields make it accessible to experienced home growers.
+The strain is moderately challenging to cultivate, requiring attention to training and [[green-cannabis-grow-bible-nutrient-management-ppm]]. Its flowering time of 8–9 weeks and respectable yields make it accessible to experienced home growers.
 
 ## Lineage and Genetics
 
-**Parent 1: White Widow** — A legendary Brazilian sativa × South Indian indica hybrid, White Widow has been a cornerstone of European cannabis genetics since the 1990s. It contributes heavy trichome coverage, balanced potency, and stress resilience to the Berry White profile.
+**Parent 1: White Widow** — A legendary Brazilian sativa × South Indian indica hybrid, White Widow has been a cornerstone of European [[vic-high-cannabis-genetics-mendelian-inheritance]] since the 1990s. It contributes heavy trichome coverage, balanced potency, and stress resilience to the Berry White profile.
 
 **Parent 2: Blueberry** — Developed by DJ Short, Blueberry is an indica-dominant strain known for its distinctive berry aroma and deeply relaxing effects. Originally bred from Thai and Afghani landrace genetics, it contributes the sweet flavor and sedative body high.
 
@@ -42,7 +42,7 @@ Trichome coverage is heavy, giving the buds a frosty, silvery-white appearance t
 
 ### Aroma and Flavor
 
-The aroma is dominated by sweet berry notes with earthy, piney undertones from the White Widow lineage. A subtle hashy quality emerges when the buds are broken apart, reflecting the strain's resin production.
+The aroma is dominated by sweet berry notes with earthy, piney undertones from the White Widow lineage. A subtle hashy quality emerges when the buds are broken apart, reflecting the strain's [[cannabis-glandular-trichome-types-resin-production-clarke]].
 
 On the palate, Berry White delivers a smooth smoke with prominent blueberry and grape flavors. The exhale carries earthy and slightly woody notes, with a lingering sweetness that makes it one of the more palatable strains in its potency class.
 
@@ -78,7 +78,7 @@ Common applications include evening stress relief, chronic pain management, and 
 
 ## Cultivation
 
-Berry White is considered moderately difficult to grow, best suited for cultivators with prior experience. Plants respond well to both indoor and outdoor environments, with indoor cultivation offering greater control over the final product.
+Berry White is considered moderately difficult to grow, best suited for cultivators with prior experience. Plants respond well to both indoor and outdoor environments, with [[cannabis-sativa-indoor-cultivation-techniques]] offering greater control over the final product.
 
 **Flowering time:** 8–9 weeks indoors. Outdoor harvest occurs in early to mid-October in the Northern Hemisphere.
 
@@ -88,7 +88,7 @@ The strain benefits from low-stress training (LST) and scrogging to maximize lig
 
 Temperature management during the final two weeks of flowering (dropping to 16–18°C at night) enhances the purple coloration and can improve terpene expression. The strain is moderately resistant to common molds but requires adequate airflow due to its dense bud structure.
 
-Pest resistance is reasonable, though growers should monitor for spider mites during vegetative growth. The indica growth structure makes Berry White relatively compact, suited to indoor spaces with limited vertical clearance.
+Pest resistance is reasonable, though growers should monitor for spider mites during [[cannabis-vegetative-growth-stage]]. The indica growth structure makes Berry White relatively compact, suited to indoor spaces with limited vertical clearance.
 
 ## Medical Applications
 
@@ -116,6 +116,6 @@ Crosses using Berry White as a parent include several modern strains that combin
 
 - [[granddaddy-purple]]
 - [[girl-scout-cookies]]
-- [[wedding-cake-cannabis]]
+- [[wedding-cake]]
 - [[skunk-1]]
 - [[kali-mist]]

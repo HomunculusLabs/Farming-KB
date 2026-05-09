@@ -67,10 +67,10 @@ did little to deter enthusiasts.
 Like the secret stills supplying moonshine during alcohol prohibition, mushroom
 cultivation became celebrated as an illicit folk art. The development of
 [[holzer-mushroom-cultivation-methods]] including the PF Tek and
-the McKenna brothers' method turned mushroom growing into an accessible underground
+the McKenna brothers' method turned [[duggar-mushroom-growing-history-and-methods]] into an accessible underground
 practice.
 
-Robert McPherson, better known as Psilocybe Fanaticus, became an underground hero
+Robert McPherson, better known as [[pf-tek-psilocybe-fanaticus-cultivation-method]], became an underground hero
 for developing the PF Tek. At one point his company was earning $30,000 a month
 before being busted by federal agents.
 
@@ -78,7 +78,7 @@ before being busted by federal agents.
 
 The [musical culture of the 1960s was
 deeply intertwined with mushroom use. Jefferson Airplane's "White Rabbit" became an
-anthem of the psychedelic experience, explicitly referencing Alice in Wonderland
+anthem of the [[leary-psychedelic-experience-bardo-mapping]], explicitly referencing Alice in Wonderland
 and magic mushrooms with its famous refrain: "Go ask Alice, I think she'll know."
 
 The broader psychedelic music scene, from the Grateful Dead to Pink Floyd,
@@ -90,7 +90,7 @@ performance aesthetics.
 Gordon Wasson himself had little time for hippie culture. He was treated as a
 psychedelic guru despite himself, and expressed contempt for Timothy Leary and the
 counterculture his discoveries had helped spawn. He later berated the hippies,
-declaring he had taken the sacred mushrooms "but never for a 'kick'. Knowing as I
+declaring he had taken the [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]] "but never for a 'kick'. Knowing as I
 did from the outset the lofty regard in which they are held," he stated, "I would
 not, could not, profane them."
 
@@ -109,10 +109,10 @@ recreational use was established but never resolved.
 
 Perhaps most significantly, the counterculture created the narrative framework
 within which mushroom use would be understood for decades: not merely as drug use
-but as a form of spiritual exploration and consciousness expansion, however
+but as a form of spiritual exploration and [[mckenna-consciousness-expansion-and-drug-war]], however
 problematic that framework might be from an anthropological perspective.
 
 ## See Also
 - [[wasson-mexico-expeditions]] - The expeditions that started it all
 - [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] - Mushroom influence on music
-- [[magic-mushroom-cultural-history]] - Full cultural history
+- magic-mushroom-cultural-history - Full [[shroom-cultural-history-hippie-revolution-and-counterculture]]

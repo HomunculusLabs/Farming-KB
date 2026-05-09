@@ -11,9 +11,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly Strain Database. "Cinnamon Toast Crunch." leafly.com.
-  - AllBud. "Cinnamon Toast Crunch Cannabis Strain." allbud.com.
+  - AllBud. "Cinnamon Toast Crunch [[blesching-cannabis-strain-selection-receptor-targeting]]." allbud.com.
   - Wikileaf. "Cinnamon Toast Crunch Strain Review." wikileaf.com.
-  - Growers Network. "Modern Cookie-Lineage Hybrids: Genetics and Terpene Profiles." growersnetwork.org.
+  - Growers Network. "Modern Cookie-Lineage Hybrids: Genetics and [[cannabis-terpene-profiles-sativa]]." growersnetwork.org.
 created: 2026-04-28
 ---
 
@@ -49,7 +49,7 @@ On combustion, the flavor profile expands to include toasted cereal, graham crac
 
 **Dominant terpenes:**
 
-- **Caryophyllene** — spicy, peppery; contributes the primary cinnamon and brown sugar notes and provides anti-inflammatory activity via CB2 receptor binding.
+- **Caryophyllene** — spicy, peppery; contributes the primary cinnamon and brown sugar notes and provides anti-inflammatory activity via CB2 [[tihkal-receptor-binding-serotonin]].
 - **Limonene** — citrus, sweet; adds brightness to the aroma and contributes mood elevation and stress relief.
 - **Myrcene** — earthy, herbal; provides sedative body effects and potentiates cannabinoid absorption.
 - **Linalool** — floral, lavender; adds a subtle sweetness and anxiolytic properties.
@@ -71,7 +71,7 @@ Commonly reported medical applications include:
 - **Appetite stimulation** — consistent munchies effect, fitting for the cereal-themed name.
 - **Fatigue and low mood** — daytime-appropriate energy without overstimulation.
 
-Adverse effects are generally mild and include dry mouth, dry eyes, and occasional anxiety at higher doses in sensitive users.
+[[blesching-cannabis-safety-adverse-effects-evidence]] are generally mild and include dry mouth, dry eyes, and occasional anxiety at higher doses in sensitive users.
 
 ## Cultivation
 
@@ -90,11 +90,11 @@ Color-enhancing techniques such as cooler nighttime temperatures (16–18°C) du
 
 ### Outdoor Cultivation
 
-Outdoor cultivation is feasible in Mediterranean and warm temperate climates with a long growing season. Plants typically reach 120–180 cm in height when grown in full sun.
+Outdoor cultivation is feasible in Mediterranean and warm temperate climates with a long [[savory-growing-season-and-non-growing-season-management]]. Plants typically reach 120–180 cm in height when grown in full sun.
 
 Harvest in the Northern Hemisphere generally falls between mid-October and early November. Outdoor yields can reach 400–600 g per plant under optimal conditions.
 
-The strain shows moderate resistance to common mold and mildew but is susceptible to spider mite infestations during prolonged dry periods. Regular IPM protocols are recommended.
+The strain shows moderate resistance to common [[cannabis-mold-and-mildew-prevention]] but is susceptible to spider mite infestations during prolonged dry periods. Regular IPM protocols are recommended.
 
 Cloning is straightforward from healthy vegetative cuttings, with root development typically occurring within 7–10 days in standard rockwool or peat propagation media.
 

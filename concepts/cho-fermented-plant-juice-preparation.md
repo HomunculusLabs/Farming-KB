@@ -1,5 +1,5 @@
 ---
-title: Fermented Plant Juice Preparation
+title: bionutrients-lab-fermented-plant-juice-fpj Preparation
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -29,13 +29,13 @@ Choose plants that possess one or more of these characteristics:
 
 ### Recommended Plants by Growth Stage
 
-- **Germination to early vegetative growth**: Mugwort (Artemisia
+- **Germination to early [[cannabis-vegetative-growth-stage]]**: Mugwort (Artemisia
   vulgaris) and bamboo shoot FPJs help crops resist cold and grow
   fast and strong
 - **Vegetative growth**: Arrowroot, bamboo shoot, and reed FPJs help
   crops obtain nitrogen for volume increase
 - **Crop-specific**: Use lateral buds and stems of the same crop
-  (tomato for tomatoes, squash vines for squash, sweet potato vines
+  (tomato for tomatoes, squash vines for squash, [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]] vines
   for sweet potatoes)
 
 ### When to Collect
@@ -77,7 +77,7 @@ Choose plants that possess one or more of these characteristics:
 
 - Germination to early vegetative growth: 1:1000 dilution
 - Vegetative growth: 1:800 to 1:1000 dilution
-- Pest management: Mix FPJ with rice bran and sprinkle around fruit
+- [[cannabis-pest-management-guide]]: Mix FPJ with rice bran and sprinkle around fruit
   trees to lure pests away from fruits
 
 ## When NOT to Use FPJ
@@ -86,7 +86,7 @@ Choose plants that possess one or more of these characteristics:
   rain or cloudy weather
 - FPJ made from the crop itself (promotes further overgrowth)
 - During acidic or nitrogen-excessive conditions (pest-attractive)
-- Conditions of too much moisture or bad ventilation (fungal growth)
+- Conditions of too much moisture or bad ventilation ([[brassinosteroid-fungal-growth-promotion]])
 
 ## Storage
 
@@ -101,7 +101,7 @@ Choose plants that possess one or more of these characteristics:
   air-to-ingredient ratio. Add sugar, stir, filter, and preserve.
 - Avoid molasses (too much moisture, insufficient osmotic pressure)
 - If hot weather continues, water the plant one day before picking
-- Do not wash ingredients (removes lactic acid bacteria and yeast)
+- Do not wash ingredients (removes lactic [[lactic-acid-bacteria-knf]] and yeast)
 - After rain, wait 2-3 days for microbes to return to leaf surfaces
 
 ## Application Notes

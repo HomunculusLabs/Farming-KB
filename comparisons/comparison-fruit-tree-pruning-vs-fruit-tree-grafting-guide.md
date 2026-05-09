@@ -1,10 +1,11 @@
 ---
-title: "Fruit Tree Pruning vs Fruit Tree Grafting"
+title: "Fruit fruit-tree-pruning-training-hamilton vs Fruit fruit-tree-grafting-guide"
 created: 2026-04-28
 tags: [comparison, fruit-trees, orchard, tree-care, propagation]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -24,7 +25,7 @@ for decades.
 [[fruit-tree-grafting-guide]]
 Grafting joins two plant tissues (rootstock and scion) so they grow together
 as one tree. The key requirement is good contact between the cambium layers of
-both parts. Sepp Holzer advocates for vigorous seedling rootstocks over dwarf
+both parts. [[comparison-sepp-holzer-vs-biodynamic]] advocates for vigorous seedling rootstocks over dwarf
 varieties because they produce hardier, longer-lived trees with strong root
 systems that can thrive on poor soil, require far less maintenance, and better
 resist disease and frost.
@@ -64,7 +65,7 @@ provides varied ripening times from a single planting space.
 | Longevity of effect | Must be repeated every year | Permanent once the graft heals |
 | Recovery from mistakes | Tree regrows; can be corrected | Failed graft may require re-grafting |
 | Cost | Tool purchase only | Rootstock, scion wood, supplies |
-| Best For | Ongoing tree care, yield, and health | Establishing orchards, adding varieties |
+| Best For | Ongoing [[comparison-apple-tree-care-vs-apple-guild-design]], yield, and health | Establishing orchards, adding varieties |
 
 ## When to Choose Pruning
 Pruning is an annual necessity for every fruit tree owner. Unpruned trees
@@ -95,5 +96,7 @@ varieties onto the framework of an established tree) combines the root system
 and structure of an old tree with new, improved varieties.
 
 ## See Also
-- [[fruit-tree-propagation]] — broader propagation methods including grafting
+
+- [[comparison-berry-growing-vs-fruit-tree-pruning]]
+- [[fruit-tree-propagation]] — broader [[vegetative-propagation-methods-mollison]] including grafting
 - [[season-extension-techniques]] — protecting blossoms from late frost

@@ -1,11 +1,12 @@
 ---
-title: Natural Farming and Spirituality
+title: comparison-natural-farming-vs-permaculture and Spirituality
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [agriculture, homesteading]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Natural Farming and Spirituality
 
@@ -18,6 +19,8 @@ Masanobu Fukuoka's [[fukuoka-view-of-nature-and-human-hubris]].
 - [[fukuoka-western-eastern-philosophy-agriculture]]
 
 ## See Also
+
+- [[natural-farming-faa-fertilizer]]
 
 - [[fukuoka-heart-sutra-and-illusion-of-life-death]]
 ## Practical Applications
@@ -97,4 +100,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

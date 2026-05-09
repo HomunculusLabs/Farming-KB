@@ -1,5 +1,5 @@
 ---
-title: Formulation and Delivery of Fungal Inocula
+title: Formulation and formulation and delivery of fungal inocula Inocula
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -26,12 +26,12 @@ Organisms efficient under laboratory conditions typically fare poorly in field c
 **Solid substrate inoculum:** Most common and cost-effective approach. Fungal mycelium grown on inexpensive solid substrates:
 - Wood chips serve as both inoculum carrier and supplementary carbon source
 - Grain-sawdust mixtures (often wheat or rice grain) provide nutrients for robust fungal growth
-- Spent mushroom substrate from commercial cultivation offers ready-made inoculum
+- Spent [[gourmet-medicinal-mushroom-substrate-preparation]] from commercial cultivation offers ready-made inoculum
 - Straw, corn cobs, and other agricultural residues used as growth substrates
 
 Lestan and Lamar (1996) demonstrated cheap and robust inoculum preparation methods. Pelleted and powdered fungal inocula have been developed for more effective soil bioremediation.
 
-**Liquid culture inoculum:** Submerged fermentation produces large quantities of fungal biomass:
+**Liquid culture inoculum:** [[cancer-medicinal-mushrooms-submerged-fermentation-production]] produces large quantities of fungal biomass:
 - Higher biomass yields per unit time
 - More uniform product quality
 - Requires downstream processing (drying, formulation)
@@ -41,14 +41,14 @@ Lestan and Lamar (1996) demonstrated cheap and robust inoculum preparation metho
 
 Encapsulation protects inocula and provides controlled release of nutrients:
 - **Calcium alginate beads:** Most widely used encapsulation material. Stabilizes strains, provides protective habitat, ensures slow nutrient release. Alginate-encapsulated Pseudomonas fluorescens with skimmed milk and bentonite showed higher root colonization than unencapsulated forms.
-- **Polyurethane foam:** High porosity supports mycelial penetration and growth. Used for Trametes versicolor and other white-rot fungi in packed-bed reactors.
+- **Polyurethane foam:** High porosity supports mycelial penetration and growth. Used for [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] and other white-rot fungi in packed-bed reactors.
 - **Vermiculite and peat:** Granular carriers used for agricultural inoculant delivery. Provide good drainage and aeration.
 - **Kaolin-based granules:** Fungal biomass fermented on rice flour, combined with wheat flour, kaolin, and water to form granules. Developed for P. chrysosporium soil delivery.
 
 ## Adjuvants and Additives
 
 Formulations may include supplementary components to improve field performance:
-- **Buffers:** Maintain pH near optimal for fungal growth and enzyme production
+- **Buffers:** Maintain pH near optimal for fungal growth and [[ligninolytic-enzyme-production-bioremediation]]
 - **Humectants:** Retain moisture in the inoculum microenvironment
 - **Selective antibiotics:** Suppress competing bacteria without harming the target fungus
 - **Surfactants:** Increase bioavailability of hydrophobic contaminants
@@ -76,11 +76,14 @@ Key factors determining inoculum success:
 
 ## Cost Considerations
 
-The extra cost of using fungal inocula must be balanced against remediation benefit. Inocula are only justified if they detoxify soil more effectively than indigenous microflora alone. Using waste fungal mycelium from mushroom industries significantly reduces inoculum costs. Spent oyster mushroom substrate and spent shiitake sawdust cultures have proven effective as remediation inocula.
+The extra cost of using fungal inocula must be balanced against remediation benefit. Inocula are only justified if they detoxify soil more effectively than indigenous microflora alone. Using waste fungal mycelium from mushroom industries significantly reduces inoculum costs. Spent [[cotter-oyster-mushroom-cultivation]] substrate and spent shiitake sawdust cultures have proven effective as remediation inocula.
 
 ## See Also
 
 - [[factors-affecting-mycoremediation-efficiency]]
 - [[enzymatic-degradation-in-mycoremediation]]
-- [[fungal-chromogens-and-color-change]]
-- [[oyster-mushroom-agricultural-waste-substrates-survey]]
+- fungal-chromogens-and-color-change
+- oyster-mushroom-agricultural-waste-substrates-survey
+- [[oyster-mushroom]]
+- [[spent-mushroom-substrate]]
+- [[mycoremediation]]

@@ -64,7 +64,7 @@ Mead's palette is narrower in base but broadens through adjunts: melomels (fruit
 
 Typical mead ranges from 8-14% ABV (traditional), with session meads at 3-7% and big meads reaching 16-18%. Most beers fall between 4-8% ABV, with imperial styles reaching 10-12%. Mead's higher ABV is a natural consequence of honey's high sugar density (approximately 1.035 gravity per pound per gallon).
 
-Higher ABV meads require more careful yeast selection and nutrient management. A standard 3-pound-per-gallon traditional mead hits ~12% ABV -- pushing the limits of many wine yeasts. Lalvin EC-1118 (Champagne yeast) at 18% tolerance is the go-to for big meads. Beer yeasts rarely exceed 12% tolerance, and high-gravity beers often need yeast starters or multiple pitches.
+Higher ABV meads require more careful yeast selection and [[green-cannabis-grow-bible-nutrient-management-ppm]]. A standard 3-pound-per-gallon traditional mead hits ~12% ABV -- pushing the limits of many wine yeasts. Lalvin EC-1118 (Champagne yeast) at 18% tolerance is the go-to for big meads. Beer yeasts rarely exceed 12% tolerance, and high-gravity beers often need yeast starters or multiple pitches.
 
 ## Scaling and Batch Sizes
 
@@ -86,22 +86,22 @@ Mead is traditionally still, though sparkling meads (petillant or fully carbonat
 
 ## Risk of Infection
 
-Beer's boil (60-90 minutes at 212°F) effectively pasteurizes the wort, killing virtually all wild organisms. Combined with hops' antimicrobial properties (iso-alpha acids inhibit bacteria), beer is relatively resilient to contamination post-boil.
+Beer's boil (60-90 minutes at 212°F) effectively pasteurizes the wort, killing virtually all wild organisms. Combined with hops' [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] (iso-alpha acids inhibit bacteria), beer is relatively resilient to contamination post-boil.
 
-Mead has no boil step. Honey is naturally antimicrobial (low water activity, high osmotic pressure, trace hydrogen peroxide), but once diluted with water, this protection vanishes. Meticulous sanitation is critical for mead -- infections are more common and harder to correct. The lack of hop bitterness in mead also means no antimicrobial backup.
+Mead has no boil step. Honey is naturally antimicrobial (low water activity, high osmotic pressure, trace [[cervantes-hydrogen-peroxide-sterilization]]), but once diluted with water, this protection vanishes. Meticulous sanitation is critical for mead -- infections are more common and harder to correct. The lack of hop bitterness in mead also means no antimicrobial backup.
 
 ## Homesteader Integration
 
 Both beverages connect to homesteading systems, but through different pathways:
 
-- **Mead** directly values beekeeping infrastructure and honey production. A single strong hive can produce 30-60 pounds of surplus honey annually -- enough for 10-15 gallons of mead.
-- **Beer** connects to grain production and hop cultivation. Hops are perennial vines hardy in zones 4-8, requiring rhizome planting and trellising. Malting barley at home is possible but labor-intensive.
+- **Mead** directly values beekeeping infrastructure and [[mollison-designers-beekeeping-honey-production-permaculture]]. A single strong hive can produce 30-60 pounds of surplus honey annually -- enough for 10-15 gallons of mead.
+- **Beer** connects to [[fukuoka-no-till-grain-production-method]] and hop cultivation. Hops are perennial vines hardy in zones 4-8, requiring rhizome planting and trellising. Malting barley at home is possible but labor-intensive.
 
 ## Common Problems
 
 | Problem | Mead | Beer |
 |---------|------|------|
-| Stalled fermentation | Nutrient deficiency, low temp, exceeded ABV tolerance | Too cold, old yeast, insufficient aeration |
+| Stalled fermentation | [[cannabis-grow-nutrient-deficiency-problem-solving]], low temp, exceeded ABV tolerance | Too cold, old yeast, insufficient aeration |
 | Off-flavors | Sulphur (nutrient stress), medicinal (chlorine) | Fusel alcohols (too warm), buttery (diacetyl), skunky (light exposure) |
 | Overly sweet | Incomplete fermentation; repitch or check ABV tolerance | Incomplete fermentation; check gravity |
 | Too dry | Normal for mead; backsweeten after stabilizing | Unlikely; indicates over-attenuation or infection |

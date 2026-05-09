@@ -18,9 +18,9 @@ sources:
 
 ## Overview
 
-sphingomonas wittichii cannabis endorhiza strain specificity is a bacterium within the Alphaproteobacteria that emerged as a significantly differentiating operational taxonomic unit (OTU) between Cannabis cultivars in the Winston et al. (2014) study of the cannabis microbiome.
+sphingomonas wittichii cannabis endorhiza strain specificity is a bacterium within the Alphaproteobacteria that emerged as a significantly differentiating operational taxonomic unit (OTU) between Cannabis cultivars in the Winston et al. (2014) study of the [[cultivar-cannabis-microbiome-two-tier-selection-model]].
 
-This organism was found to be prevalent in the [[cannabis-endorhiza-microbiome]] microbial community structure.
+This organism was found to be prevalent in the [[cannabis-endorhiza-microbiome]] [[edaphic-factors-microbial-community-structure]] structure.
 
 Its identification as a strain-discriminating taxon highlights the potential for cannabis secondary metabolism to shape the root microbiome at the species level, providing a precise target for understanding the mechanistic basis of cultivar specificity.
 
@@ -34,13 +34,13 @@ The outer membrane sphingolipids of Sphingomonas species may also reduce recogni
 
 Additionally, the unique membrane composition may confer increased resistance to antimicrobial root compounds, giving Sphingomonas a survival advantage in the biochemically challenging root interior environment.
 
-Members of this genus are widely distributed in soil and aquatic environments and are renowned for their ability to degrade a variety of aromatic and recalcitrant organic compounds. The genus includes species capable of degrading polycyclic aromatic hydrocarbons, xenobiotics, and various plant-derived phenolic compounds.
+Members of this genus are widely distributed in soil and aquatic environments and are renowned for their ability to degrade a variety of aromatic and recalcitrant organic compounds. The genus includes species capable of degrading [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons, xenobiotics, and various plant-derived phenolic compounds.
 
-This catabolic versatility is relevant to understanding their role in the cannabis endorhiza, where they encounter a complex mixture of root exudates and secondary metabolites. The ability to metabolize diverse aromatic compounds may provide Sphingomonas with a competitive advantage in this chemically complex environment.
+This catabolic versatility is relevant to understanding their role in the cannabis endorhiza, where they encounter a complex mixture of root exudates and [[antifungal-secondary-metabolites-coprophilous-fungi]]. The ability to metabolize diverse aromatic compounds may provide Sphingomonas with a competitive advantage in this chemically complex environment.
 
 ## Phenazine Metabolism and Ecological Significance
 
-sphingomonas wittichii cannabis endorhiza strain specificity has been documented as capable of metabolizing phenazine 1 carboxylic acid, a compound with broad-spectrum antimicrobial properties. Phenazines are secondary metabolites produced by certain bacteria, particularly [[pseudomonas]] is a dominant member and known phenazine producer.
+sphingomonas wittichii cannabis endorhiza strain specificity has been documented as capable of metabolizing phenazine 1 carboxylic acid, a compound with broad-spectrum [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. Phenazines are secondary metabolites produced by certain bacteria, particularly [[pseudomonas]] is a dominant member and known phenazine producer.
 
 If Pseudomonas within cannabis roots produces phenazines to suppress competitors, the presence of a phenazine-degrading organism like S. wittichii could serve as a natural buffer. This buffer would prevent excessive phenazine accumulation and maintain community balance within the root microbiome.
 
@@ -68,7 +68,7 @@ S. wittichii appears to be a taxon that passes the first filter but is only sele
 
 If a cultivar consistently enriches for S. wittichii, its persistence in the soil could create a positive feedback loop facilitating similar colonization in subsequent plantings of the same cultivar, potentially contributing to site-specific microbial terroir.
 
-This soil legacy effect has practical implications for crop rotation and successive planting strategies in cannabis cultivation. Growers who plant the same cultivar repeatedly may benefit from accumulated cultivar-specific microbes in their soil.
+This soil legacy effect has practical implications for crop rotation and successive planting strategies in [[query-how-does-no-till-cannabis-cultivation-work]]. Growers who plant the same cultivar repeatedly may benefit from accumulated cultivar-specific microbes in their soil.
 
 ## Relationship to the Core Endorhiza Community
 
@@ -92,7 +92,6 @@ Future work should include isolation and characterization of S. wittichii strain
 
 - [[methylophilus-cannabis-endorhiza-strain-specificity]]
 
-- [[methylophilus-cannabis-endorhiza-strain-specificity]]
 - [[cannabis-endorhiza-microbiome]]
 - microbial terroir in agricultural systems
 - [[core-endorhiza-bacterial-community-composition-cannabis]]

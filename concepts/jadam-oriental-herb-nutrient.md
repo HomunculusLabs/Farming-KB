@@ -1,5 +1,5 @@
 ---
-title: JADAM Oriental Herb Nutrient
+title: JADAM jadam oriental herb nutrient Nutrient
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # JADAM Oriental Herb Nutrient
 
-JADAM herb solution (JHS) serves a dual purpose: it functions both as a pesticide and as a nutrient source for crops. Unlike chemical pesticides that only kill, JHS provides measurable nutritional benefits including nitrogen, phosphorus, potassium, calcium, magnesium, and trace minerals.
+JADAM [[jadam-herb-solution-jhs]] (JHS) serves a dual purpose: it functions both as a pesticide and as a nutrient source for crops. Unlike chemical pesticides that only kill, JHS provides measurable nutritional benefits including nitrogen, phosphorus, potassium, calcium, magnesium, and trace minerals.
 
 ## Nutritional Analysis of JHS
 
@@ -19,7 +19,7 @@ Korean pasque flower root (KPFR) JHS analysis per standard preparation:
 |-----------|-------|
 | pH | 6.9 |
 | EC (1:5) ds/m | 0.67 |
-| Organic Matter | 0.21% |
+| [[hamilton-composting-and-organic-matter-management]] | 0.21% |
 | Total Carbon | 0.12% |
 | Total Nitrogen | 0.01% |
 | C/N Ratio | 9.25 |
@@ -46,7 +46,7 @@ Used in oriental medicine to promote blood circulation. Has the strongest pestic
 
 ### Ginkgo (Ginkgo biloba)
 
-Described as having "the perfect defense mechanism against pests and diseases." Use fresh leaves, fallen leaves, and fruits. Controls everything Jerusalem artichoke does, plus mulberry suckers, citrus flatid planthoppers, and leafhoppers.
+Described as having "the perfect defense mechanism against [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]." Use fresh leaves, fallen leaves, and fruits. Controls everything Jerusalem artichoke does, plus mulberry suckers, citrus flatid planthoppers, and leafhoppers.
 
 ### Other Medicinal Herbs
 
@@ -60,7 +60,7 @@ Described as having "the perfect defense mechanism against pests and diseases." 
 
 ## JHS in the Fertilizer Program
 
-When JHS is mixed with JWA and applied as pesticide, the nutrient content is simultaneously delivered to the plant. JHS causes little concentration stress compared to chemical pesticides. The nutritional benefit means that pest control and fertilization happen in a single operation, reducing labor and cost.
+When JHS is mixed with JWA and applied as pesticide, the nutrient content is simultaneously delivered to the plant. JHS causes little concentration stress compared to chemical pesticides. The nutritional benefit means that [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] and fertilization happen in a single operation, reducing labor and cost.
 
 ### Comparison with Chemical Pesticides
 
@@ -106,7 +106,7 @@ JADAM encourages farmers to grow their own herb materials around the farm. Jerus
 
 - [[jadam-jhs-nutritional-analysis]]
 - [[jadam-fermented-plant-juice-preparation]]
-- [[ultra-low-jadam-fertilizer-program]]
+- [[jadam-fertilizer-program]]
 - [[jadam-natural-pest-control-methods]]
 - [[jadam-fermented-plant-juice-preparation]]
 - [[what-natural-farming-method-should-i-use]]

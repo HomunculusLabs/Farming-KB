@@ -1,5 +1,5 @@
 ---
-title: "Medically Important Fungi: Isolation and Ecology"
+title: "biodiversity medically important fungi isolation: Isolation and Ecology"
 created: 2026-04-28
 tags:
   - biodiversity-pathogens
@@ -22,7 +22,7 @@ agents have saprobic ecological roles through which they exert their
 main ecological impact. [[candida-albicans]], C. tropicalis, C. glabrata, C.
 parapsilosis, and C. krusei are strongly associated with mammalian and
 avian gastrointestinal tracts. Truly commensal, purely filamentous
-fungi have not been encountered, as hyphal growth involves substratum
+fungi have not been encountered, as [[bloomfields-orchard-hyphal-growth-and-invasive-biology]] involves substratum
 penetration that activates vertebrate immune responses.
 
 ## Systemic Pathogens and the Onygenales
@@ -42,7 +42,7 @@ Subcutaneous pathogens cause disease in immunologically normal hosts
 when traumatically introduced into dermal layers. Prominent genera
 include Fonsecaea, Cladophialophora, Exophiala, Phialophora, and
 certain Hypocrealean anamorphs such as Acremonium falciforme and
-[[biodiversity-fungal-culture-media]] provides the foundational methods
+[[fungal-culture-media]] provides the foundational methods
 for environmental isolation of medically important fungi, which targets three
 categories: systemic pathogens, dermatophytes, and opportunistic
 pathogens. For systemic pathogens, soil samples from endemic areas are
@@ -51,7 +51,7 @@ productive sources for Histoplasma. Dermatophytes are recovered using
 hair-baiting techniques, where sterile hair fragments are placed on
 soil and examined periodically for keratinophilic growth. Opportunistic
 pathogens may be recovered from environmental samples using general
-fungal isolation media supplemented with antibacterial antibiotics.
+[[selective-agents-fungal-isolation-antibiotics-fungicides]] media supplemented with antibacterial antibiotics.
 
 Skin prick serological testing provides a rough measure of environmental
 prevalence for Histoplasma capsulatum and Coccidioides immitis. Sterile
@@ -70,7 +70,7 @@ surveys.
 Medical and veterinary records contain a mix of medically significant
 and insignificant fungal isolates. Some evaluation criteria for
 determining significance include consistency of association with
-disease, host immune status, and inoculum route. Herbarium specimens
+disease, [[fungal-virulence-factors-host-immune-evasion]] status, and inoculum route. Herbarium specimens
 traditionally are prepared by drying cultures after fumigating plates
 with formaldehyde vapor and demonstrating nonviability of attempted
 subcultures. The University of Alberta Microfungus Collection,
@@ -81,7 +81,7 @@ authorities on pathogen environmental prevalence.
 
 ## Related Topics
 
-- [[biodiversity-fungal-culture-media]] — media formulations for
+- [[fungal-culture-media]] — media formulations for
   isolating pathogenic fungi
 - fungal species descriptions and taxonomy — taxonomic
   approaches to medically important fungi

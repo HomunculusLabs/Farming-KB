@@ -1,17 +1,16 @@
 ---
-title: "Permaculture Windbreak Design and Species Selection"
+title: "Permaculture comparison-windbreak-design-vs-species-selection and Species Selection"
 created: 2026-04-28
-tags: [[permaculture, windbreak, microclimate, orchard, shelterbelt, design]
+tags: [permaculture, windbreak, microclimate, orchard, shelterbelt, design]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 type: concept
 ---
-
 # [[permaculture-design]] that protect crops,
 livestock, buildings, and soil from wind damage while providing additional
 functions such as wildlife habitat, firewood production, privacy screening,
-and erosion control. Wind is a significant sector that affects every aspect
+and [[permplant-willows-salix-erosion-control-fodder]]. Wind is a significant sector that affects every aspect
 of a permaculture system: winds of 15 mph, which is average in many regions,
 are sufficient to reduce crop production, while winds of 20 mph cause
 physical damage to plants. Properly designed windbreaks can either block
@@ -65,7 +64,7 @@ In coastal areas, select species with rough bark and either hardy pine or
 thick moisture-retaining leaves. Observing what already grows successfully
 in your area provides the most reliable species guidance. Bamboo serves as
 a particularly valuable windbreak, especially in hurricane zones, due to
-its flexibility and rapid growth. Willow, acacia, and fruit trees can also
+its flexibility and rapid growth. Willow, acacia, and [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] can also
 serve as productive windbreaks that yield food alongside their protective
 function.
 
@@ -83,7 +82,7 @@ this scale.
 ## Fire Prevention with Windbreaks
 
 In fire-prone areas, windbreak design doubles as fire defense. Place ponds,
-bare ground, or animal paddocks between the fire danger sector and
+[[savory-bare-ground-and-soil-exposure]], or animal paddocks between the fire danger sector and
 structures. Plant windbreaks of less flammable species such as fruit trees
 or willows at the bottom of hills (fire travels faster uphill). Avoid pine
 trees, which are highly flammable and leave combustible litter. A series of
@@ -111,7 +110,7 @@ trees can serve as support structures for climbing vines, producing food
 and shade. Earth-sheltered buildings use windbreaks to reduce heating and
 cooling demands. Windbreaks also serve as wildlife corridors connecting
 [[permaculture-polyculture-fish-pond]] and [[permaculture-herb-spiral-design]] for related microclimate elements and
-[[permaculture-beekeeping-guide]] for wind-sensitive livestock integration.
+[[permaculture-beekeeping-guide]] for wind-sensitive [[faires-livestock-integration-permaculture]].
 
 ## Summary of Design Principles
 
@@ -119,5 +118,15 @@ The most effective windbreaks are multi-layered, multi-functional, and
 designed from careful observation. Wind direction, speed, and seasonal
 variation must be documented before any planting begins. Combine evergreen
 and deciduous species in multiple rows, include productive and nitrogen-
-fixing trees, and integrate the windbreak with other systems for maximum
+[[nitrogen-fixing-trees-and-shrubs]], and integrate the windbreak with other systems for maximum
 return on the space invested.
+
+## See Also
+
+- [[cortaderia-selloana]]
+
+- [[coronilla-varia]]
+
+- [[fagus-orientalis]]
+
+- [[cedrus-atlantica]]

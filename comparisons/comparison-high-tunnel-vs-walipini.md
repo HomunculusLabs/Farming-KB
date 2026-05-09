@@ -1,14 +1,14 @@
 ---
-title: High Tunnel vs Walipini ([[underground-greenhouse-walipini]])
+title: High Tunnel vs Walipini (underground-greenhouse-walipini)
 created: 2026-04-28
-tags: [high-tunnel, walipini, greenhouse, [[comparison-passive-solar-vs-earth-sheltered]], passive-solar, underground-greenhouse, hoophouse, polycarbonate]
+tags: [high-tunnel, walipini, greenhouse, comparison-passive-solar-vs-earth-sheltered, passive-solar, underground-greenhouse, hoophouse, polycarbonate]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.sare.org/publications/season-extension-techniques-for-market-gardeners/
   - https://attra.ncat.org/attra-pub/summaries/summary.php?pub=299
   - https://www.bensoninstitute.org/publications/thesis/walipini/
-  - Coleman, Eliot. The Winter Harvest Handbook. Chelsea Green, 2009.
+  - Coleman, Eliot. The [[coleman-claytonia-winter-harvest-cultivation]] Handbook. Chelsea Green, 2009.
 type: comparison
 ---
 
@@ -19,7 +19,7 @@ type: comparison
 A **high tunnel** (also called a hoophouse) is an unheated, polyethylene-covered hoop structure
 typically anchored directly into the soil.[[comparison-windbreak-vs-thermal-mass]] and stable subsurface temperature (~50–60 °F at 4–6 ft depth) to moderate
 internal climate. Originating in the high-altitude Altiplano of South America through work by
-the Benson Institute, walipinis leverage passive solar design with a south-facing glazed wall
+the Benson Institute, walipinis leverage [[comparison-passive-solar-vs-earth-sheltered]] design with a south-facing glazed wall
 (in the Northern Hemisphere) to capture heat while the surrounding earth insulates against
 extreme cold.
 
@@ -30,8 +30,8 @@ extreme cold.
 | **Cost** | Low–Medium ($500–$5,000 for 30×72 ft) | Medium–High ($3,000–$15,000 for similar footprint) |
 | **Construction difficulty** | Low — can be built in 1–3 days with 2–4 people | High — excavation, drainage, structural engineering required |
 | **Lifespan** | 5–15 years (poly replaced every 4–6 years) | 15–30+ years with proper waterproofing and maintenance |
-| **Temperature range** | Zone ambient +10–20 °F daytime gain | 40–70 °F year-round with good passive solar design |
-| **Season extension gain** | 4–8 weeks (spring/fall); limited true winter | 2–4 months; can grow through winter in zones 4–6 |
+| **[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]** | Zone ambient +10–20 °F daytime gain | 40–70 °F year-round with good passive solar design |
+| **[[comparison-season-extension-techniques-vs-cold-frame-gardening]] gain** | 4–8 weeks (spring/fall); limited true winter | 2–4 months; can grow through winter in zones 4–6 |
 | **Ventilation** | Roll-up sides + end walls; excellent natural airflow | Limited; requires powered fans, ridge vents, and intake vents |
 | **Light levels** | High (80–90% PAR transmission through poly) | Reduced (30–60% due to walls, earth reflection, and glazing angles) |
 | **Humidity** | Moderate; manageable with ventilation | High; condensation and mold risk without active dehumidification |
@@ -40,7 +40,7 @@ extreme cold.
 | **Pest pressure** | Moderate; some exclusion from enclosure but open bottom | Low below-ground; aphids and fungus gnats thrive in humid enclosed air |
 | **Space requirements** | Flat open area; no excavation; standard 30 ft width typical | Excavated pit 6–8 ft deep; needs additional land for spoil and access |
 | **Best climate zones** | 3–9 (most versatile across climates) | 3–7 (greatest advantage in cold, dry climates with low water tables) |
-| **Best uses** | Spring/fall extension, hardy winter greens, seedling starts | Year-round growing in cold climates, tropical crops in temperate zones |
+| **Best uses** | Spring/fall extension, hardy winter greens, seedling starts | Year-round growing in cold climates, [[mollison-specialist-tropical-crops-forest-products]] in temperate zones |
 
 ## Temperature Performance
 
@@ -76,7 +76,7 @@ fungal disease pressure.
 - **Ventilation:** Roll-up side curtain kits (manual or motorized) and end wall louvers
 - **End walls:** Wood or metal framing with personnel doors and optional roll-up equipment doors
 - **Optional upgrades:** Shade cloth (30–50%), internal drip irrigation, insect exclusion netting,
-  gas or electric heat for marginal frost protection
+  gas or electric heat for marginal [[holzer-frost-protection-techniques]]
 - **Tools required:** Post driver, socket wrenches, poly clip locks or wiggle wire, tape measure,
   ladder, circular saw
 

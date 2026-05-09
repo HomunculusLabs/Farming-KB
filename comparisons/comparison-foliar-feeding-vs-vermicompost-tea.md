@@ -26,12 +26,12 @@ maximize plant health and soil vitality.
 Vermicompost tea is a liquid extract brewed from worm castings that
 delivers beneficial microorganisms, soluble plant nutrients, humic
 acids, and plant growth hormones to both foliage and soil. Unlike plain
-compost tea, vermicompost tea contains a distinctive microbial community
+compost tea, vermicompost tea contains a distinctive [[edaphic-factors-microbial-community-structure]]
 dominated by beneficial bacteria and fungi from the earthworm gut, with
 higher diversity and lower pathogen risk than conventional compost-based
 teas.
 
-Brewing methods range from simple passive steeping (non-aerated tea) to
+[[compost-tea-brewing-methods-aact]] range from simple passive steeping (non-aerated tea) to
 actively aerated compost tea (AACT) systems that use air pumps and
 molasses or kelp as microbial food sources. Aerated brews, typically run
 for 24 to 36 hours, multiply bacterial populations dramatically and
@@ -56,8 +56,8 @@ vermicomposting that can enhance seedling vigor and root development.
 | Long-term Impact | Minimal (symptomatic relief) | Significant (builds soil biology and disease resistance) |
 | Application Targets | Leaves (stomata and cuticle) | Leaves and soil (drench) |
 | Nutrient Range | Limited to what is dissolved in spray | Broad spectrum from vermicompost |
-| Disease Suppression | None (may increase if overhead) | Strong (competitive microbial exclusion) |
-| Cost | Low (basic nutrients and sprayer) | Moderate (brewing equipment, quality castings) |
+| [[aact-disease-suppression-mechanisms-ingham]] | None (may increase if overhead) | Strong (competitive microbial exclusion) |
+| Cost | Low (basic nutrients and sprayer) | Moderate ([[compost-tea-brewing-equipment-ingham]], quality castings) |
 | Complexity | Low (mix and spray) | Moderate (brewing requires monitoring and timing) |
 | Best For | Acute deficiency correction, stress recovery | Ongoing plant health, disease prevention, soil building |
 | Drawbacks | Does not fix soil problems, burn risk, transient | Requires fresh ingredients, strict brewing hygiene, short shelf life |
@@ -85,8 +85,8 @@ Vermicompost tea is the better choice for growers focused on building
 long-term soil and plant health through biological means. It is
 particularly effective as a preventive foliar spray for disease-prone
 crops, coating leaf surfaces with beneficial microbes that outcompete
-pathogens. In cannabis cultivation, regular vermicompost tea
-applications are associated with improved terpene profiles and root zone
+pathogens. In [[query-how-does-no-till-cannabis-cultivation-work]], regular vermicompost tea
+applications are associated with improved [[cannabis-terpene-profiles-sativa]] and root zone
 health in living soil systems.
 
 Use vermicompost tea as a soil drench when establishing new garden beds,

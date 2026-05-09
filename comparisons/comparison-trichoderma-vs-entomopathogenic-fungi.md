@@ -1,5 +1,5 @@
 ---
-title: "Trichoderma vs Entomopathogenic Fungi"
+title: "comparison trichoderma vs entomopathogenic fungi Fungi"
 created: 2026-04-28
 tags: [biocontrol, fungi, integrated-pest-management, mycopesticides, trichoderma]
 date: 2026-04-28
@@ -12,9 +12,9 @@ type: comparison
 
 Both Trichoderma species and entomopathogenic fungi (EF) are fungal
 biocontrol agents deployed in [[beauveria-bassiana]] and [[trichoderma-harzianum]] provides direct
-growth promotion through solubilization of phosphates, production of
-phytohormones (indole-3-acetic acid), and enhanced nutrient uptake. The
-plant benefits from disease suppression and improved vigor; Trichoderma
+[[brassinosteroid-growth-promotion-psilocybe-cubensis]] through solubilization of phosphates, production of
+phytohormones (indole-3-acetic acid), and enhanced [[plant-nutrient-uptake-mechanisms]]. The
+plant benefits from [[aact-disease-suppression-mechanisms-ingham]] and improved vigor; Trichoderma
 benefits from a stable rhizosphere niche and access to [[singh-trichoderma-biocontrol-mechanisms-applications]]
 ## Background and Context
 
@@ -144,4 +144,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

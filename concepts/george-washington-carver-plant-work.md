@@ -1,5 +1,5 @@
 ---
-title: "George Washington Carver's Plant Work"
+title: "tompkins-george-washington-carver-plant-alchemy Carver's Plant Work"
 created: 2026-04-28
 tags: [plant-chemistry, carver, peanut, sweet-potato, soil-health, intuition]
 date: 2026-04-25
@@ -46,7 +46,7 @@ never allowed a single book to penetrate, communing directly with plants.
   strictly analytical, similar to those of the alchemists
 - He established that peanuts and sweet potatoes could serve as the
   basis for hundreds of industrial and food products
-- Natural soil fertility through organic matter was superior to
+- Natural soil fertility through [[hamilton-composting-and-organic-matter-management]] was superior to
   commercial fertilizers for maintaining agricultural productivity
 - Plants respond to human attention and care, a principle Carver
   demonstrated throughout his career
@@ -114,7 +114,7 @@ productive forests where only scrub had existed.
 
 ## Practical Applications
 
-Carver demonstrated the economic viability of crop rotation with legumes,
+Carver demonstrated the economic viability of [[comparison-crop-rotation-vs-cover-cropping]] with legumes,
 the industrial potential of underutilized plants, and the superiority of
 [[luther-burbank-plant-breeding-methods]]
 - [[biodynamic-agriculture-and-steiner]]

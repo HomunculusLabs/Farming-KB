@@ -1,5 +1,5 @@
 ---
-title: Cannabis Immune Modulation
+title: Cannabis cancer-immune-modulation-mechanisms
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-The [[cannabis-endocannabinoid-system]] (ECS) is one of the most important regulatory systems for immune function in the human body. The Cannabis Health Index (Blesching) presents extensive evidence that cannabinoids modulate immune responses through multiple pathways, primarily via CB2 receptors concentrated on immune cells. This immunomodulatory capacity is relevant to a vast range of conditions -- from autoimmune diseases and chronic inflammation to cancer, infectious disease, and neuroinflammation.
+The [[cannabis-endocannabinoid-system]] (ECS) is one of the most important regulatory systems for immune function in the human body. The [[blesching-cannabis-health-index-autoimmune-conditions]] (Blesching) presents extensive evidence that cannabinoids modulate immune responses through multiple pathways, primarily via CB2 receptors concentrated on immune cells. This immunomodulatory capacity is relevant to a vast range of conditions -- from autoimmune diseases and chronic inflammation to cancer, infectious disease, and neuroinflammation.
 
 ## The Immune System and the ECS
 
@@ -26,7 +26,7 @@ Researchers from Boston (2006) acknowledged that "habitual cannabis use has been
 Cytokines are cell-signaling protein molecules that direct immune responses. The balance between pro-inflammatory and anti-inflammatory cytokines determines whether the immune system mounts an appropriate response or becomes dysregulated.
 
 **Pro-inflammatory cytokines** (suppressed by cannabinoids):
-- **TNF-alpha**: A master inflammatory mediator involved in arthritis, IBD, psoriasis, and autoimmune conditions
+- **TNF-alpha**: A master inflammatory mediator involved in arthritis, IBD, psoriasis, and [[cannabis-autoimmune-conditions-detailed]]
 - **IL-1beta**: Promotes inflammation and fever response
 - **IL-6**: Drives chronic inflammation and is elevated in numerous diseases
 - **IFN-gamma**: Activates macrophages and promotes TH1 immune responses
@@ -42,7 +42,7 @@ Cannabinoids shift the cytokine profile from pro-inflammatory to anti-inflammato
 Cannabinoids modulate T-cell function through multiple pathways:
 - **Regulatory T-cells (T-regs)**: CBD promotes T-reg function, which helps restore immune tolerance and suppress autoimmune attacks
 - **TH1/TH2 balance**: Many autoimmune conditions involve TH1 dominance (overactive cellular immune response). Cannabinoids shift the TH1/TH2 balance toward TH2, reducing the cell-mediated autoimmune attack on tissues
-- **Autoreactive T-cells**: CB2 receptor agonists inhibit the activation and function of autoreactive T cells and prevent leukocyte trafficking into inflamed tissue, demonstrated in autoimmune uveoretinitis studies (Aberdeen, 2007)
+- **Autoreactive T-cells**: CB2 [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] inhibit the activation and function of autoreactive T cells and prevent leukocyte trafficking into inflamed tissue, demonstrated in autoimmune uveoretinitis studies (Aberdeen, 2007)
 
 ### Transcription Factor Modulation
 
@@ -94,9 +94,9 @@ CB2 receptors, while sparse in healthy brain tissue, are upregulated in activate
 
 ## CBD vs THC: Different Immune Modulation Profiles
 
-- **CBD**: Primarily immunosuppressive and anti-inflammatory; suppresses excessive immune response, reduces inflammatory cytokine production, promotes T-reg activity, inhibits NF-kB, blocks oxidative stress, activates p38 MAPK and microglia. Does not produce psychoactive effects.
+- **CBD**: Primarily immunosuppressive and anti-inflammatory; suppresses excessive immune response, reduces inflammatory cytokine production, promotes T-reg activity, inhibits NF-kB, blocks [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], activates p38 MAPK and microglia. Does not produce psychoactive effects.
 - **THC**: Broader immunomodulatory effects through both CB1 and CB2; may be immunosuppressive at higher doses but can stimulate immune function at low doses (biphasic effect). Also psychoactive, limiting tolerability.
-- **Combined THC:CBD**: The entourage effect provides broader immunomodulation than isolated cannabinoids. Sativex (roughly equal parts THC and CBD) exemplifies this synergistic approach.
+- **Combined THC:CBD**: The [[cannabis-terpene-entourage-effect-profiles]] provides broader immunomodulation than isolated cannabinoids. Sativex (roughly equal parts THC and CBD) exemplifies this synergistic approach.
 - **(E)-beta-caryophyllene**: A dietary CB2 agonist providing non-psychoactive immune modulation through food and spices
 
 ## The Mind-Immune Connection
@@ -122,4 +122,4 @@ Negative emotional and mental states (lack of support, insecurity, mistrust, fea
 - [[cannabis-autoimmune-conditions]] -- Autoimmune applications of immune modulation
 - [[cannabis-anti-inflammatory-applications]] -- Clinical anti-inflammatory evidence
 - [[cannabis-terpene-profile]] -- Terpenes with immunomodulatory properties
-- [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
+- [[beta-caryophyllene-dietary-cannabinoid]]

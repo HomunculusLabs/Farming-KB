@@ -1,18 +1,19 @@
 ---
-title: Liquid Culture Propagation Methods
+title: comparison-liquid-culture-vs-grain-spawn vegetative-propagation-methods-mollison
 created: 2026-04-28
-tags: [spawn-preparation, liquid-inoculation, mycelial-suspension, scaling-up, sterile-technique]
+tags: [azurescens-spawn-preparation-grain-to-wood, liquid-inoculation, mycelial-suspension, scaling-up, sterile-technique]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
 
 # Liquid Culture Propagation Methods
 
-Liquid culture techniques enable cultivators to dramatically increase the
-scale of inoculum production. By suspending fragmented mushroom mycelia in
+Liquid [[agar-culture-techniques-detailed]] enable cultivators to dramatically increase the
+scale of [[arbuscular-mycorrhizal-inoculum-production-best-practices]]. By suspending fragmented mushroom mycelia in
 sterile water, a single agar culture plate can inoculate up to 100 grain
 spawn jars, more than ten times the number possible with traditional wedge
 transfer methods. This approach is fundamental to efficient
@@ -25,7 +26,7 @@ efficiency.
 ## Related Topics
 
 - [[stamets-grain-sterilization-contamination-sources]]
-- [[stamets-sterile-laboratory-design]]
+- stamets-sterile-laboratory-design
 ## Practical Applications
 
 Liquid Culture Propagation Methods has a range of practical applications that make it relevant to
@@ -103,4 +104,5 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[stamets-cultivator-pasteurization-vs-sterilization-methods]]

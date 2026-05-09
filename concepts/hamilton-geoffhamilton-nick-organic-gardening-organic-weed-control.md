@@ -1,5 +1,5 @@
 ---
-title: Organic Weed Control
+title: Organic fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery
 created: 2026-04-28
 tags: [weed-control, organic-gardening, mulching, hoeing, land-management]
 date: 2026-04-25
@@ -25,7 +25,7 @@ Whether you are trying to clear a new garden of weeds or deal with their
 habitual menace in an established one, the basic principles to remember
 are:
 
-- **Light deprivation**: All green plants must have access to sunshine
+- **[[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]]**: All green plants must have access to sunshine
   to survive. There are a variety of light-deprivation measures that
   can be used by the organic gardener to control weeds
 - **Constant vigilance**: Remove weeds as soon as you see them. Regular
@@ -70,7 +70,7 @@ of the sheeting and be ready with the hoe.
 
 ### Organic Mulches
 In ornamental borders, the most effective and attractive method of
-keeping weeds out is to provide competition in the form of ground cover
+keeping weeds out is to provide competition in the form of [[fukuoka-citrus-orchard-ground-cover-cultivation]]
 plants that create a canopy over the soil. Bark chippings, gravel, and
 other organic materials also serve well.
 
@@ -101,4 +101,3 @@ that runs deep into the soil to discourage encroaching roots.
 - [[mollison-designers-composting-toilets-and-humanure]] for recycling weed material (with caution)
 - [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]] for understanding how soil affects weed
   growth
-- [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]

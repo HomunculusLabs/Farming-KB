@@ -1,5 +1,5 @@
 ---
-title: "Carnot Cycle and Heat Engines"
+title: "Carnot Cycle and query-why-cant-heat-engines-be-100-percent-efficient"
 type: concept
 category: thermodynamics
 related:
@@ -13,7 +13,7 @@ type: concept
 sources: []
 ---
 
-The Carnot cycle is the foundational theoretical model of heat engine operation, establishing the maximum possible efficiency any engine can achieve when converting thermal energy into mechanical work. Proposed by Nicolas Léonard Sadi Carnot in 1824, it remains the benchmark against which all real engines are measured and was instrumental in the development of the second law of thermodynamics and the concept of entropy.
+The Carnot cycle is the foundational theoretical model of heat engine operation, establishing the maximum possible efficiency any engine can achieve when converting [[phase-change-materials-thermal-energy-storage]] into mechanical work. Proposed by Nicolas Léonard Sadi Carnot in 1824, it remains the benchmark against which all real engines are measured and was instrumental in the development of the second law of thermodynamics and the concept of entropy.
 
 ## Historical Context
 
@@ -60,7 +60,7 @@ The efficiency formula η_Carnot = 1 − T_C/T_H follows from the first law of t
 
 Numerical examples illustrate the constraints imposed by the Carnot limit. A steam power plant with T_H = 873 K (600°C) and T_C = 313 K (40°C) achieves η = 64.2% maximum. An automotive engine with T_H = 2400 K (peak combustion) and T_C = 300 K (ambient) has η = 87.5% Carnot limit, though actual Otto engines deliver only 25–35%. An engine between equal-temperature reservoirs produces zero work (η = 0); achieving 100% efficiency would require T_C = 0 K, forbidden by the third law.
 
-To maximize real-world efficiency, engineers pursue higher T_H (advanced materials, blade cooling) and lower T_C (improved condensers, evaporative cooling), while minimizing internal irreversibilities through regenerative feedwater heating, reheat cycles, and multi-stage compression with intercooling. The gap between Carnot and actual efficiency serves as a diagnostic tool — a large gap indicates opportunities for thermodynamic improvement.
+To maximize real-world efficiency, engineers pursue higher T_H (advanced materials, blade cooling) and lower T_C (improved condensers, [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]]), while minimizing internal irreversibilities through regenerative feedwater heating, reheat cycles, and multi-stage compression with intercooling. The gap between Carnot and actual efficiency serves as a diagnostic tool — a large gap indicates opportunities for thermodynamic improvement.
 
 ## Carnot’s Theorem
 
@@ -87,3 +87,7 @@ The inevitable consequence is zero power output: P = W/t → 0 as t → ∞. Rea
 - [[fracture-mechanics-engineering-materials]]
 
 - [[fenton-reaction-chemistry-and-biochemistry]]
+
+## See Also
+
+- [[sadi-carnot]]

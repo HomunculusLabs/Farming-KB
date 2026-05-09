@@ -27,15 +27,15 @@ sources:
 
 # Cannabis Growing Mediums Comparison
 
-The growing medium is the foundation of any cannabis cultivation system. It determines nutrient availability, root health, microbial activity, water management, and ultimately bud quality. This comparison covers eight major approaches from fully organic living soil to high-tech aeroponics, synthesized from [[cannabis-living-soil-guide]], [[cannabis-plant-nutrition]], [[soil-food-web-nutrient-cycling]], and [[aquaponics]].
+The growing medium is the foundation of any [[query-how-does-no-till-cannabis-cultivation-work]] system. It determines [[ph-and-nutrient-availability-garden-soils]], root health, microbial activity, water management, and ultimately bud quality. This comparison covers eight major approaches from fully organic living soil to high-tech aeroponics, synthesized from [[cannabis-living-soil-guide]], [[cannabis-plant-nutrition]], [[soil-food-web-nutrient-cycling]], and [[aquaponics]].
 
-The central tradeoff is biological complexity vs. environmental control. Living soil and amended soil systems rely on microbial ecosystems to deliver nutrients, producing superior flavor and terpene profiles but requiring patience and biological knowledge. Hydroponic systems deliver nutrients directly in solution, enabling faster growth and higher yields but sacrificing the complexity that living soil biology contributes to cannabinoid and terpene production.
+The central tradeoff is biological complexity vs. [[eclss-environmental-control-life-support]]. Living soil and amended soil systems rely on microbial ecosystems to deliver nutrients, producing superior flavor and [[cannabis-terpene-profiles-sativa]] but requiring patience and biological knowledge. Hydroponic systems deliver nutrients directly in solution, enabling faster growth and higher yields but sacrificing the complexity that living soil biology contributes to cannabinoid and terpene production.
 
 ## Medium Comparison Table
 
 | Medium | Nutrient Delivery | pH Management | Organic Potential | Yield Potential | Startup Cost | Ongoing Cost | Difficulty | Flavor Quality | Environmental Control Needed |
 |--------|-------------------|---------------|-------------------|-----------------|-------------|-------------|-----------|---------------|------------------------------|
-| **Living Soil (no-till)** | Microbial mineralization; top-dress amendments; compost tea | Easy — soil buffers pH naturally (6.0-6.8) | Fully organic; supports full soil food web | Moderate-High (improves over cycles) | $200-500 (initial build + amendments) | Low ($50-100/yr amendments, compost tea inputs) | Intermediate | Excellent — terpene-rich, complex | Low-medium; temp and humidity control still needed |
+| **Living Soil (no-till)** | Microbial mineralization; top-dress amendments; compost tea | Easy — soil buffers pH naturally (6.0-6.8) | Fully organic; supports full soil food web | Moderate-High (improves over cycles) | $200-500 (initial build + amendments) | Low ($50-100/yr amendments, compost tea inputs) | Intermediate | Excellent — terpene-rich, complex | Low-medium; temp and [[cervantes-humidity-control-dehumidification]] still needed |
 | **Amended Soil (peat/coco base)** | Pre-mixed organic amendments release over time; feed tea/water | Easy-Moderate; buffer capacity from peat/compost | Fully organic; customizable amendment recipes | Moderate-High | $150-350 | Moderate ($75-150/yr amendments) | Beginner-Intermediate | Very Good | Low-medium |
 | **Coco Coir (drain-to-waste)** | Liquid nutrients fed with every watering; inert medium | Moderate — must monitor runoff pH (5.5-6.5); buffer with cal-mag | Can use organic liquids but typically synthetic | High | $100-250 (coco, nutrients, pots) | Moderate ($100-200/yr nutrients) | Intermediate | Good — clean, slightly less complex than soil | Moderate — need precise feeding schedule |
 | **Hydroponic (DWC)** | Nutrient solution directly at roots; constant aeration | Moderate — monitor and adjust reservoir daily (5.5-6.0) | Difficult; organic nutrients clog systems | Very High | $300-600 (totes, air pumps, nutrients, meters) | Moderate-High ($150-300/yr nutrients) | Intermediate-Advanced | Moderate — can lack depth without organics | High — reservoir management, aeration, temperature |
@@ -50,7 +50,7 @@ Living soil as described in [[cannabis-living-soil-guide]] is built on the soil 
 
 The base mix is typically 40% peat moss, 30% aeration (pumice/perlite/rice hulls), 20% compost, 10% worm castings. Amendments include kelp meal, crab meal, neem seed meal, bone meal, rock phosphate, and gypsum. Inoculants (mycorrhizae, trichoderma) establish the fungal network. A mulch layer of straw or cardboard retains moisture and feeds surface microbes.
 
-Advantages: soil improves over 3-6 cycles, input costs decrease over time, no pH adjustment needed, superior terpene profiles. Disadvantages: slower initial setup, lower yields than optimized hydroponics in the first cycle, requires understanding of microbial ecology.
+Advantages: soil improves over 3-6 cycles, input costs decrease over time, no pH adjustment needed, superior terpene profiles. Disadvantages: slower initial setup, lower yields than optimized hydroponics in the first cycle, requires understanding of [[fukuoka-microbial-ecology-decomposition]].
 
 ## Hydroponic vs. Soil: The Yield-Quality Tradeoff
 

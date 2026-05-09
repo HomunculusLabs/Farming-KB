@@ -1,5 +1,5 @@
 ---
-title: Acetylation Protection Strategy in Psilocin Synthesis from 4-Hydroxyindole
+title: Acetylation Protection Strategy in acetylation protection psilocin synthesis 4 hydroxyindole from 4-Hydroxyindole
 created: 2026-04-28
 tags:
   - synthesis
@@ -20,7 +20,7 @@ type: concept
 
 # Acetylation Protection Strategy in [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]] verview
 
-The concise large-scale synthesis of psilocin and psilocybin reported by Shirota, Hakamata, and Goda (2003) at Japan's National Institute of Health Sciences employed an **acetylation-based protection strategy** for the 4-hydroxyl group of indole, rather than the more commonly used benzyl ether protection. This choice proved critical to achieving a chromatography-free synthesis on gram scale, yielding both target compounds in high purity without the need for column chromatography at any step.
+The concise large-scale synthesis of [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] reported by Shirota, Hakamata, and Goda (2003) at Japan's National Institute of Health Sciences employed an **acetylation-based protection strategy** for the 4-hydroxyl group of indole, rather than the more commonly used benzyl ether protection. This choice proved critical to achieving a chromatography-free synthesis on [[shirota-gram-scale-chromatography-free-psilocybin-synthesis]], yielding both target compounds in high purity without the need for column chromatography at any step.
 
 ## The Protection Choice: Acetyl vs. Benzyl
 
@@ -39,7 +39,7 @@ Previous syntheses of psilocin from 4-hydroxyindole had utilized **benzyl ether 
 
 ### Step 2: Oxalylation to 3-Glyoxalyl-4-acetylindole (Compound 5)
 
-4-Acetylindole was treated with oxalyl chloride in anhydrous diethyl ether at 0 degrees Celsius. After addition of n-hexane and storage in a freezer overnight, the intermediate 5 crystallized as yellow crystals, which were isolated by filtration.
+4-Acetylindole was treated with [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] in anhydrous diethyl ether at 0 degrees Celsius. After addition of n-hexane and storage in a freezer overnight, the intermediate 5 crystallized as yellow crystals, which were isolated by filtration.
 
 ### Step 3: Amidation to 3-Dimethylaminooxalyl-4-acetylindole (Compound 6)
 
@@ -79,7 +79,7 @@ Previous syntheses of psilocin had been reported, but the Shirota route offered 
 
 - **Troxler, Seemann, and Hofmann (1959)**: The original Sandoz synthesis; psilocybin yield of approximately 20%
 - **Hofmann et al. (1959)**: Alternative route with similar limitations
-- **Nichols and Frescas**: Benzyl protection route with approximately 47% yield for psilocybin, requiring anion-exchange resin purification
+- **Nichols and Frescas**: Benzyl [[acetyl-protection-route-psilocin-psilocybin-synthesis]] with approximately 47% yield for psilocybin, requiring anion-exchange resin purification
 
 The Shirota acetylation route achieved **87.5% yield for psilocin** and **87.5% yield for psilocybin** from the respective immediate precursors, representing a substantial improvement.
 

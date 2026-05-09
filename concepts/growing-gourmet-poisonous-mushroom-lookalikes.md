@@ -1,5 +1,5 @@
 ---
-title: Poisonous Mushroom Lookalikes in Cultivation
+title: growing gourmet poisonous mushroom lookalikes Lookalikes in Cultivation
 created: 2026-04-26
 tags:
   - mushroom-safety
@@ -16,12 +16,12 @@ type: concept
 
 # Poisonous Mushroom Lookalikes in Cultivation
 
-Outdoor mushroom cultivators face a serious challenge that
+[[cotter-outdoor-mushroom-garden-mulch-beds]] cultivators face a serious challenge that
 indoor growers largely avoid: the risk of accidentally
 harvesting poisonous wild mushrooms that naturally colonize
 the same substrates. Many deadly species share habitat with
-gourmet mushrooms, making accurate identification an
-essential survival skill for anyone growing mushrooms
+[[growing-gourmet-mushrooms-civilization-history]], making accurate identification an
+essential survival skill for anyone [[falconer-growing-mushrooms-in-sheds]]
 outdoors.
 
 ## The Danger of Wild Mushrooms in Wood Chip Beds
@@ -37,8 +37,8 @@ The most dangerous groups include:
 
 ### The Deadly Galerinas
 [[growing-gourmet-enoki-cultivation]]
-([[mushroom-identification]] to avert the
-accidental ingestion of undesired mushrooms.
+(mushroom-identification to avert the
+[[psilocybin-accidental-ingestion-australia]] of undesired mushrooms.
 
 ### Other Poisonous Lookalikes
   - Red-Staining Lepiotas (Lepiota spp.) -- deadly
@@ -65,7 +65,7 @@ a toxic Omphalotus, can literally be a matter of life and
 death. This knowledge is not optional for outdoor growers;
 it is a fundamental professional requirement.
 
-The history of mushroom poisoning is long. Claudius II and
+The history of [[european-mushroom-poisoning-history]] is long. Claudius II and
 Pope Clement VII were both killed by enemies who poisoned
 them with deadly Amanitas. Fear of mushroom poisoning
 pervades every culture, and this fear is not without basis.
@@ -90,4 +90,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -21,7 +21,7 @@ type: concept
 Historically cannabis has been applied topically in the form of poultices,
 plasters, salves, tinctures, and oils to treat slow-healing wounds and
 skin ulcers (as in "diabetic foot" in turn-of-the-century American
-medicine). The Cannabis Health Index (CHI) for wound care draws on 10
+medicine). The [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) for wound care draws on 10
 studies reviewed with a combined CHI value of 32, reflecting moderate
 evidence of therapeutic potential.
 
@@ -35,7 +35,7 @@ dermatological applications.
 Oil made from hempseed is void of mind-altering cannabinoids and has
 historically been used for the treatment of dry skin, as well as
 age-related skin blemishes and wounds. It is a rich and properly balanced
-source of omega-3 and omega-6 polyunsaturated fatty acids. Recent studies
+source of omega-3 and omega-6 polyunsaturated [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]. Recent studies
 reveal that ingestion of hempseed oil positively changes fat profiles in
 the body and significantly reduces the symptoms of dryness, itching, and
 inflammation in atopic dermatitis.
@@ -51,7 +51,7 @@ soothing of inflammation, and a subtle increase in libido, all with a
 gentle uplift in mood.
 
 As with all natural, biologically active substances, effects are usually
-optimal within a specific therapeutic window, which may vary from person
+optimal within a specific [[blesching-cannabis-therapeutic-window-dosing]], which may vary from person
 to person. Taking too much may aggravate symptoms; taking too little may
 have a sub-optimal effect. Start slowly and increase application until you
 reach your therapeutic window. See [[blesching-cannabis-dermatological-conditions]]
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

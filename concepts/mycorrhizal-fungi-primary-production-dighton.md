@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Fungi and Primary Production (Dighton)
+title: Mycorrhizal Fungi and lichens-primary-production-soil-formation-dighton (Dighton)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -11,7 +11,7 @@ sources: [raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
 
 Updated: 2026-04-18
 
-Source: John Dighton, *Fungi in Ecosystem Processes*, Chapter 3.
+Source: John Dighton, *Fungi in [[fungal-ecosystem-processes-overview]]*, Chapter 3.
 
 ## Overview
 
@@ -77,7 +77,7 @@ Mycorrhizal associations significantly improve plant-water relations:
 - Sanchez-Diaz and Honrubia (1994): direct water flow through hyphae, improved phosphate nutrition, altered hormonal balance
 - Augé (2001) reviewed that AM colonization improved water relations under both drought and adequate moisture
 - AM inoculation of *Acacia nilotica* and *Leucaena leucocephala* benefited *Leucaena* most under drought, with mycorrhizal effect exceeding that of phosphorus addition (Michelsen and Rosendahl, 1990)
-- Grass endophytes confer drought tolerance through loline alkaloid production as osmoregulators (Belesky and Malinowski, 2000)
+- Grass endophytes confer [[dighton-fungal-drought-tolerance-plant-water-relations]] through loline alkaloid production as osmoregulators (Belesky and Malinowski, 2000)
 
 ### Salinity
 Irrigation in agroecosystems causes localized salinity increases. Juniper and Abbott (1993) showed this reduces AM spore germination and extraradical hyphal growth. Some salinity tolerance has been observed (Sengupta and Chaudhuri, 1990), though reductions occur with increasing salinity. Johnson-Green et al. (2001) suggest mycorrhizae could still benefit revegetation of salt-degraded soils.
@@ -96,17 +96,19 @@ Walker et al. (1999) showed that *Rhododendron maximum* severely reduces regener
 
 ## Leaf Litter Patch Dynamics
 
-Dighton et al. (2000) demonstrated in New Jersey pine barrens that localized leaf litter patches of varying size develop different ECM communities on invading pine and oak roots. Large litter patches contained higher proportions of oak leaves, altering resource quality and soil chemistry through leachates. Conn and Dighton (2000) showed that pitch pine seedling roots favored mixed oak-pine litter, and that oak-containing litters (which immobilize phosphorus during initial decomposition) selected for mycorrhizal communities with higher phosphatase activity.
+Dighton et al. (2000) demonstrated in New Jersey pine barrens that localized leaf litter patches of varying size develop different ECM communities on invading pine and oak roots. Large litter patches contained higher proportions of oak leaves, altering [[fungal-decomposition-resource-quality-determinants]] and soil chemistry through leachates. Conn and Dighton (2000) showed that pitch pine seedling roots favored mixed oak-pine litter, and that oak-containing litters (which immobilize phosphorus during initial decomposition) selected for mycorrhizal communities with higher [[mycorrhizal-phosphatase-activity-elf97-detection]].
 
 ## Significance for Agriculture and Forestry
 
 - ECM diversity itself (not just species identity) influences plant performance
 - Mycorrhizal benefits are greatest in low-fertility and stressed environments
-- Leaf litter management in forests can be used to influence mycorrhizal community composition
+- Leaf litter management in forests can be used to influence mycorrhizal [[core-endorhiza-bacterial-community-composition-cannabis]]
 - Salinity from irrigation may reduce mycorrhizal effectiveness, complicating crop management
 - Fire management affects mycorrhizal community continuity and forest regeneration potential
 
 ## Related
+
+- [[dighton-fungi-volcanic-glacier-primary-succession]]
 
 - [[arbuscular-mycorrhizal-fungi]]
 - [[ectomycorrhizal-ecology]]

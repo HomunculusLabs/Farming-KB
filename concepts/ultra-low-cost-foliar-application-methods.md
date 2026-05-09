@@ -30,7 +30,7 @@ or improving crop health.
 The guide emphasises a dual approach to crop nutrition: "You water and
 supplement with foliar application. Your soil will change completely." The
 JADAM system uses both soil drenching and foliar spraying to deliver
-Jadam Ultra Low Cost Microorganism Solution And Soil Foundation (JMS)
+Jadam Ultra Low Cost [[jadam-microorganism-solution-culturing]] And Soil Foundation (JMS)
 and various liquid fertilisers to crops.
 
 Soil application builds the long-term foundation of soil health, while
@@ -43,23 +43,23 @@ needs and pest pressures.
 
 JADAM Microorganism Solution (JMS) can be applied as a foliar spray to
 deliver beneficial microorganisms directly to leaf surfaces. The guide
-notes that JMS applied foliarly can help control powdery mildew and other
+notes that JMS applied foliarly can help control [[cervantes-powdery-mildew-prevention-treatment]] and other
 fungal diseases. For foliar application, JMS should be diluted over 20
 times and always mixed with [[ultra-low-cost-jadam-natural-pesticide-jnp]]
-(JNP). The JADAM wetting agent (JWA) is essential for effective foliar
+(JNP). The JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA) is essential for effective foliar
 coverage, ensuring that pesticide and nutrient solutions coat leaves
 evenly and penetrate pest organisms.
 
 The guide emphasises that for foliar application, water must pass the
 JADAM wetting agent test before use. This ensures that the water's
-surface tension is compatible with the active ingredients and that the
+[[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] is compatible with the active ingredients and that the
 solution will spread properly across leaf surfaces.
 
 ## Foliar Application Schedule
 
 The JADAM system uses foliar application as part of a regular crop
-management schedule rather than as a reactive measure. In Bongha village,
-Korea, JADAM natural pesticide was applied 4 times per season as foliar
+management schedule rather than as a reactive measure. In [[jadam-bongha-village-proof]],
+Korea, JADAM [[jadam-natural-pesticide-institute-and-research]] was applied 4 times per season as foliar
 sprays, costing only 9 dollars per acre for the entire season.
 
 The timing and frequency of foliar applications depend on:

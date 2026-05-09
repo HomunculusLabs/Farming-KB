@@ -23,27 +23,27 @@ Fungal conversion of agricultural wastes involves secretion of different exoenzy
 Cellulases consist of three major activities: endoglucanase, exocellulase (cellobiohydrolase), and glucosidase. True cellulolytic fungi include *Sclerotium rolfsii*, [[ingham-trichoderma-biocontrol-fungi-aact]], and [[aspergillus-niger-in-fungal-bioleaching]] produces cellulase-free xylanase on sugar cane bagasse, wheat bran, and corn cob.
 
 ### Pectinases
-Pectinases degrade pectic substances in plant cell walls. They are used for fruit juice extraction and clarification, wine clarification, plant oil extraction, and linen manufacture. Production is 4-6 times higher in SSF than submerged fermentation for [[fungal-ligninolytic-enzyme-systems-overview]]. White-rot fungi produce lignin peroxidases (LiPs), manganese peroxidases (MnPs), and laccases. [[pleurotus-tuberregium-sclerotia-cultivation]] species, is the most promising approach for improving digestibility for ruminant feed.
+Pectinases degrade pectic substances in plant cell walls. They are used for [[bionutrients-lab-fermented-fruit-juice-ffj]] extraction and clarification, wine clarification, plant oil extraction, and linen manufacture. Production is 4-6 times higher in SSF than [[cancer-medicinal-mushrooms-submerged-fermentation-production]] for fungal-ligninolytic-enzyme-systems-overview. White-rot fungi produce lignin peroxidases (LiPs), manganese peroxidases (MnPs), and laccases. [[pleurotus-tuberregium-sclerotia-cultivation]] species, is the most promising approach for improving digestibility for ruminant feed.
 
 ### Corn Cobs
-Used for xylanase production (A. tamarii, Thermomyces lanuginosus) and glucose production (T. viride). P. ostreatus grown on corn cobs increased dietary fibre content up to 78% and significantly prevented colon cancer development in rats.
+Used for xylanase production (A. tamarii, Thermomyces lanuginosus) and glucose production (T. viride). P. ostreatus grown on corn cobs increased dietary fibre content up to 78% and significantly prevented [[cannabis-and-colon-cancer-research]] development in rats.
 
 ### Sugar Cane Bagasse
 An inexpensive, abundant energy source for xylitol production (Candida guilliermondii), single-cell protein (Candida blankii), and xylanase production. About 10^8 tonnes of roots are produced annually in the EU.
 
 ### Coffee Pulp
-One of the most abundant and hardest-to-handle agricultural wastes. A. niger under SSF conditions improves nutritional quality for animal feed by increasing amino acid content and reducing caffeine. Five Aspergillus strains and two Penicillium strains can degrade almost 100% of caffeine.
+One of the most abundant and hardest-to-handle agricultural wastes. A. niger under SSF conditions improves [[coleman-winter-greens-nutritional-quality-cold-sweetening]] for animal feed by increasing amino acid content and reducing caffeine. Five Aspergillus strains and two Penicillium strains can degrade almost 100% of caffeine.
 
 ### Sugar Beet Pulp
 Low lignin content enhances suitability for biotransformation. Used for protein production (thermophilic microorganisms) and nutritional upgrading by white-rot fungi.
 
 ### Cotton Stalks
-India produces 10 million tons annually. Anaerobic preservation produces silage suitable for commercial [[mushroom-contamination-control-strategies]] species and Gliocladium virens are effective biocontrol agents in compost-amended substrates. Compost must be of consistent quality for successful biological control of horticultural crop diseases.
+India produces 10 million tons annually. Anaerobic preservation produces silage suitable for commercial mushroom-contamination-control-strategies species and Gliocladium virens are effective biocontrol agents in compost-amended substrates. Compost must be of consistent quality for successful [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] of horticultural crop diseases.
 
 ## Related Topics
 
-- [[fungal-agricultural-waste-conversion]]
-- [[fungal-bioremediation]]
+- fungal-agricultural-waste-conversion
+- fungal-bioremediation
 - [[mycoremediation]]
 ## Practical Considerations
 
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

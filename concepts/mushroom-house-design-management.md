@@ -1,5 +1,5 @@
 ---
-title: Mushroom House Design and Management
+title: Mushroom mollison-designers-house-design-climate-zones and Management
 created: 2026-04-28
 tags: [mushroom-house, humidity-control, ventilation, fruiting,
   incubation, pest-management]
@@ -16,7 +16,7 @@ Proper mushroom house design and ongoing management are crucial for
 successful cultivation. The mushroom house must maintain appropriate
 environmental conditions including humidity, temperature, light, and
 ventilation. Management practices directly impact yield, quality, and
-disease prevention. This page covers house preparation, bag opening
+[[cervantes-pest-disease-prevention-overview]]. This page covers house preparation, bag opening
 procedures, and daily maintenance routines.
 
 ## House Capacity and Sizing
@@ -31,8 +31,8 @@ Mushroom houses should be sized according to production goals:
 ## Low-Cost Construction Materials
 
 Mushroom houses can be built for as little as 500 Baht (US$12) using
-readily available materials. Suitable materials include rice straw, grass,
-leaves, bamboo, tree branches, old rice bags, and shade mesh. Roofs can
+readily available materials. Suitable materials include [[fukuoka-rice-straw-mulch-central-technique]], grass,
+leaves, bamboo, tree branches, [[fukuoka-old-rice-variety-testing]] bags, and shade mesh. Roofs can
 use old rice bags with dried leaves for insulation. Branches serve as
 structural supports. These designs make mushroom farming accessible to
 resource-limited farmers while maintaining adequate growing conditions.
@@ -59,9 +59,9 @@ substrate as compost for gardening.
 ## Opening Bags for Fruiting
 
 When mycelium has fully colonized the substrate, bags are moved to the
-fruiting body house and opened according to mushroom type:
+[[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] house and opened according to mushroom type:
 
-- **Oyster mushrooms (Pleurotus ostreatus)** - Simply remove cotton plugs.
+- **[[query-how-to-grow-oyster-mushrooms-at-home]] (Pleurotus ostreatus)** - Simply remove cotton plugs.
 - **Lentinus species (Hed Lom, Hed Khon Khao)** - Cut plastic bags at the
   shoulder using a knife or cutter.
 - **Ear mushrooms ([[buildings-tools-equipment-mushroom-cultivation]]
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

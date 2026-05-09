@@ -30,7 +30,7 @@ by metal-activated PCS enzymes.
 
 **Metallothioneins** are gene-encoded, cysteine-rich proteins that bind
 metals through thiolate bonds. They play roles in copper and zinc
-homeostasis, oxidative stress protection, and heavy metal detoxification.
+homeostasis, [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] protection, and heavy [[staycare-phytochelatins-and-intracellular-metal-detoxification-in-fungi]].
 Unlike phytochelatins, metallothioneins are constitutively expressed at
 low levels and can be transcriptionally upregulated by metals, hormones, and
 oxidative stress. Different plant metallothionein isoforms show preferences
@@ -48,9 +48,9 @@ particularly important for nickel transport and tolerance in nickel
 hyperaccumulators, where free histidine concentrations in xylem sap can be
 orders of magnitude higher than in non-accumulating species. Nicotianamine,
 a non-protein amino acid derived from methionine, chelates iron, copper,
-and zinc for phloem transport and intracellular distribution.
+and zinc for [[xylem-and-phloem-transport-systems-in-plants]] and intracellular distribution.
 
-**Phytosiderophores** are mugineic acid family compounds exuded by graminaceous
+**Phytosiderophores** are mugineic acid [[2c-family-compounds-overview]] exuded by graminaceous
 (grass family) plants to acquire iron from alkaline soils. These compounds
 have extremely high affinity for Fe(III) and form soluble complexes that
 can be taken up by specific transporters (YELLOW STRIPE proteins). Some
@@ -66,9 +66,9 @@ fertilizers to maintain iron and zinc in plant-available forms. EDDS
 (ethylenediamine-N,N'-disuccinic acid) is a biodegradable alternative to
 EDTA that has gained favor in phytoremediation applications.
 
-Natural exogenous chelators include humic and fulvic acids, which improve
+Natural exogenous chelators include [[teaming-with-microbes-humic-and-fulvic-acids]] acids, which improve
 micronutrient availability through mild chelation. Citric acid is used as a
-soil amendment to enhance phosphorus availability and as a biodegradable
+soil amendment to enhance [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] and as a biodegradable
 chelator in remediation. These natural compounds generally provide lower
 but more sustainable metal mobilization compared to synthetic chelators.
 

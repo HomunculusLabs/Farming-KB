@@ -10,11 +10,11 @@ sources:
 
 # Cannabis and Anxiety Research (General)
 
-**Source:** Uwe Blesching, The Cannabis Health Index (2017)
+**Source:** Uwe Blesching, The [[blesching-cannabis-health-index-autoimmune-conditions]] (2017)
 
 ## Condition Overview
 
-Anxiety is a normal reaction to stress. Chronic anxiety affects ~20% of the US population. Five types defined by Western medicine:
+Anxiety is a normal reaction to stress. Chronic anxiety affects ~20% of the US population. Five types defined by [[fukuoka-eastern-western-medicine-healing-world-crisis]]:
 
 - **GAD:** chronic worry about anticipated events
 
@@ -30,7 +30,7 @@ Standard treatments: anti-anxiety drugs, antidepressants, psychological interven
 
 ## Cannabis Research Findings
 
-**Dose-dependent effects:** Too little = sub-optimal; too much = increases anxiety. Therapeutic window is critical.
+**Dose-dependent effects:** Too little = sub-optimal; too much = increases anxiety. [[blesching-cannabis-therapeutic-window-dosing]] is critical.
 
 **Key studies:**
 
@@ -72,7 +72,7 @@ The anxiolytic (anti-anxiety) effects of cannabinoids operate through multiple p
 
 - **Hippocampal neurogenesis:** The 2005 international study showed that HU210 promotes hippocampal neurogenesis -- the birth of new neurons in a brain region critical for emotional regulation and memory. Chronic stress, a primary driver of anxiety, shrinks the hippocampus. Cannabinoid-induced neurogenesis reverses this damage, providing a structural rather than merely symptomatic treatment for anxiety.
 
-- **HPA axis modulation:** The hypothalamic-pituitary-adrenal (HPA) axis controls the stress response. CBD normalizes HPA axis hyperactivity by reducing cortisol release, which is chronically elevated in anxiety disorders.
+- **HPA axis modulation:** The hypothalamic-pituitary-adrenal (HPA) axis controls the [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]]. CBD normalizes HPA axis hyperactivity by reducing cortisol release, which is chronically elevated in anxiety disorders.
 
 - **Endocannabinoid deficiency hypothesis:** Clinical evidence suggests that some individuals with anxiety disorders may have reduced endocannabinoid tone (lower anandamide levels). Cannabis supplementation may correct this deficiency, particularly CBD which preserves anandamide.
 
@@ -88,7 +88,7 @@ The clinical evidence for cannabis in anxiety is moderate, with a CHI value of 1
 
 - **CBD's broad therapeutic profile (2010, Sao Paulo):** The comprehensive review establishing CBD as antipsychotic, anxiolytic, and antidepressant positions it as a uniquely versatile cannabinoid for treating the common anxiety-depression comorbidity.
 
-- **Biphasic dose response:** The consistently observed pattern -- low doses reduce anxiety while high doses increase it -- is well-documented across multiple studies and is critical for clinical guidance. This effect appears to be CB1-mediated and may reflect differential activation of anxiolytic vs. anxiogenic circuits in the amygdala.
+- **Biphasic [[microwave-sterilization-dose-response-microbial-kill-curves]]:** The consistently observed pattern -- low doses reduce anxiety while high doses increase it -- is well-documented across multiple studies and is critical for clinical guidance. This effect appears to be CB1-mediated and may reflect differential activation of anxiolytic vs. anxiogenic circuits in the amygdala.
 
 - **Acute vs. chronic effects:** While acute THC administration at moderate doses is anxiolytic, chronic heavy use is associated with increased anxiety risk. This suggests that intermittent, moderate dosing may be more effective than continuous high-dose use.
 
@@ -100,7 +100,7 @@ The clinical evidence for cannabis in anxiety is moderate, with a CHI value of 1
 
 - **CBD:THC ratio:** A 5:1 to 10:1 CBD:THC ratio is recommended for anxiety patients. CBD buffers THC's anxiogenic potential at higher doses while both cannabinoids contribute to anxiolysis through different pathways.
 
-- **Strain selection:** Indica and indica-dominant hybrids are preferred due to their higher myrcene content (sedating terpene) and lower THC:CBD ratios. Strains high in linalool (lavender-scented) and beta-caryophyllene (CB2 agonist terpene) provide additional anxiolytic effects.
+- **[[blesching-cannabis-strain-selection-receptor-targeting]]:** Indica and indica-dominant hybrids are preferred due to their higher myrcene content (sedating terpene) and lower THC:CBD ratios. Strains high in linalool (lavender-scented) and beta-caryophyllene (CB2 agonist terpene) provide additional anxiolytic effects.
 
 - **Acute anxiety/panic:** Sublingual CBD 25-50 mg for rapid onset during acute anxiety episodes. Onset within 15-30 minutes sublingually vs. 1-2 hours orally.
 

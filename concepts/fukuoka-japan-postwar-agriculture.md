@@ -1,11 +1,12 @@
 ---
-title: Fukuoka Japan Postwar Agricultural Transformation
+title: Fukuoka fukuoka-japan-postwar-agricultural-transformation-mechanization-trap Agricultural Transformation
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka on Japan's Postwar Agricultural Transformation
 
@@ -38,7 +39,7 @@ rice,
 barley, and wheat. The emphasis on labor productivity over land productivity
 led
 farmers to abandon animal-powered farming and embrace mechanization and chemicals.
-Even organic farming, he argued, is an outgrowth of scientific farming oriented
+Even [[coleman-deep-organic-farming-philosophy]], he argued, is an outgrowth of [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] oriented
 toward
 petroleum energy-intensive commercial agribusiness.
 
@@ -63,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

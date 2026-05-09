@@ -22,7 +22,7 @@ sources:
 
 **Sargassum fusiforme** (Harvey) Setchell is a species of brown macroalga in the family Sargassaceae. It is widely known as *hijiki* in Japan, where it has been consumed as a food for centuries.
 
-The species is among the most nutritionally rich seaweeds in Asian cuisine, valued for its exceptional mineral content, particularly calcium, iron, and magnesium. It also contains fucoidan and fucoxanthin, bioactive compounds with documented health benefits.
+The species is among the most nutritionally rich seaweeds in Asian cuisine, valued for its exceptional mineral content, particularly calcium, iron, and magnesium. It also contains fucoidan and fucoxanthin, [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with documented health benefits.
 
 S. fusiforme is harvested from wild populations along the coasts of East Asia and is increasingly cultivated in coastal aquaculture systems. Its economic importance extends from food to nutraceuticals.
 
@@ -73,11 +73,11 @@ In Chinese cuisine, S. fusiforme is used in braised dishes and stir-fries, often
 
 Wild harvest of S. fusiforme has declined due to overexploitation and habitat degradation. Japan, Korea, and China have developed cultivation techniques to supplement wild supply.
 
-Cultivation typically involves attaching germlings to rope substrates in coastal waters. The growth cycle is 6–12 months, with harvesting in spring when biomass and nutritional quality peak.
+Cultivation typically involves attaching germlings to rope substrates in coastal waters. The growth cycle is 6–12 months, with harvesting in spring when biomass and [[coleman-winter-greens-nutritional-quality-cold-sweetening]] peak.
 
 Annual production in East Asia is estimated at several thousand tonnes fresh weight. Japan imports significant quantities from China and Korea to meet domestic demand for traditional hijiki dishes.
 
-Sustainable management challenges include regulating harvest intensity and monitoring heavy metal contamination in both wild and cultivated products. Quality control protocols test for arsenic, lead, and cadmium levels.
+Sustainable management challenges include regulating harvest intensity and monitoring [[dighton-fungal-biosorption-heavy-metal-remediation]] contamination in both wild and cultivated products. Quality control protocols test for arsenic, lead, and cadmium levels.
 
 ## Health Research
 
@@ -89,13 +89,13 @@ Fucoxanthin from this species has shown anti-obesity effects in animal models th
 
 Polysaccharide fractions modulate gut microbiota composition in animal studies, increasing beneficial Lactobacillus and Bifidobacterium populations while reducing pathogenic species.
 
-Clinical trials in Japan have evaluated S. fusiforme extracts for immune support in elderly populations. Results indicate enhanced natural killer cell activity and reduced incidence of upper respiratory infections.
+[[mushroom-cancer-clinical-trials-overview]] in Japan have evaluated S. fusiforme extracts for immune support in elderly populations. Results indicate enhanced natural killer cell activity and reduced incidence of upper respiratory infections.
 
 ## Ecological Role
 
 S. fusiforme forms dense canopies that provide critical habitat structure in temperate rocky reef ecosystems. The thalli shelter diverse invertebrate communities including amphipods, polychaetes, and juvenile mollusks.
 
-As a primary producer in intertidal zones, the species contributes significantly to coastal carbon fixation and nutrient cycling. Seasonal shedding of senescent fronds delivers detritus to benthic food webs.
+As a primary producer in intertidal zones, the species contributes significantly to coastal [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]] and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. Seasonal shedding of senescent fronds delivers detritus to benthic food webs.
 
 The species serves as a bioindicator of coastal water quality due to its sensitivity to heavy metal contamination and eutrophication. Monitoring populations reveals long-term changes in marine environmental conditions.
 
@@ -103,11 +103,14 @@ Climate-driven shifts in distribution have been documented, with range contracti
 
 ## See Also
 
+- [[sargassum]]
+- [[sargassum-horneri]]
+
 - [[laminaria-digitata]]
 - [[ulva-lactuca]]
 - [[chondrus-crispus]]
 - [[fucus-vesiculosus]]
-- [[resveratrol]]
+- resveratrol
 - [[eucheuma-denticulatum]]
 - [[taurine]]
 - [[caulerpa]]

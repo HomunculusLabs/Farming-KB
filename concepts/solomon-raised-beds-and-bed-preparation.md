@@ -11,7 +11,7 @@ type: concept
 
 ## Solomon's Approach to Raised Beds
 
-Solomon uses raised beds but with a very different philosophy from the intensive gardening school. Most of his garden, except for running vines and blocks of corn, is grown on 4 x 25 foot (1.25 by 7.5 meter) raised beds. However, his spacings reflect large individual growing areas per plant -- typically 4-6 times more room per plant than intensive methods recommend.
+Solomon uses raised beds but with a very different philosophy from the [[solomon-wide-spacing-versus-intensive-gardening-debate]] school. Most of his garden, except for running vines and blocks of corn, is grown on 4 x 25 foot (1.25 by 7.5 meter) raised beds. However, his spacings reflect large individual growing areas per plant -- typically 4-6 times more room per plant than [[row-gardening-vs-intensive-methods-solomon]] recommend.
 
 ## Why Raised Beds
 
@@ -31,7 +31,7 @@ Retaining walls or perimeter boards (typically 1x6 or 2x6 lumber) hold the bed s
 For new beds, the standard approach involves loosening the soil to two feet deep (60 cm), allowing root systems to go down instead of out. However, Solomon cautions that this "double-digging" approach is labor-intensive and unnecessary for the extensive spacing he recommends -- with wider spacing, roots don't need to go as deep because they aren't competing with neighbors for horizontal space.
 
 ### Soil Depth
-Raised beds should have at least 6-8 inches (15-20 cm) of loose, fertile soil above the original ground level. This is achieved by incorporating compost and organic matter into the native soil and mounding it up.
+Raised beds should have at least 6-8 inches (15-20 cm) of loose, fertile soil above the original ground level. This is achieved by incorporating [[coleman-compost-and-organic-fertility-management]] matter into the native soil and mounding it up.
 
 ## Solomon's Spacing on Beds
 
@@ -48,7 +48,7 @@ In areas dependent on rainfall, raised beds dry out faster than level ground. Th
 
 ## Double-Digging: Solomon's Assessment
 
-The biointensive method calls for double-digging beds to two spade depths (about 24 inches / 60 cm). Solomon acknowledges this creates excellent soil conditions but questions whether the enormous labor investment is worthwhile when extensive spacing allows plants to access sufficient soil volume without such deep preparation.
+The [[jeavons-grow-biointensive-method-overview]] calls for double-digging beds to two spade depths (about 24 inches / 60 cm). Solomon acknowledges this creates excellent soil conditions but questions whether the enormous labor investment is worthwhile when extensive spacing allows plants to access sufficient soil volume without such deep preparation.
 
 His practical compromise: loosen the bed to one spade depth initially, add organic matter, and allow plant roots and cover crops to deepen the soil profile over subsequent seasons. The extensive spacing means roots can spread wide rather than needing to go deep.
 
@@ -74,13 +74,13 @@ Solomon's approach to bed management across seasons reflects his low-input philo
 - **Spring preparation**: Loosen beds with a spading fork to one spade depth, incorporating any overwintered cover crop residue. Avoid working soil when wet — wait until it crumbles rather than smears
 - **Summer maintenance**: Mulch between plants with grass clippings or straw to retain moisture and suppress weeds. Avoid cultivating deeply and disturbing root zones of established plants
 - **Fall preparation**: After harvest, sow cover crops (especially in beds that held heavy feeders). The cover crop roots maintain soil structure through winter and the top growth provides spring mulch material
-- **Bed rotation**: Move crop families to different beds each year to break pest and disease cycles. Solomon recommends a minimum 3-year rotation for brassicas and solanaceae
+- **Bed rotation**: Move crop families to different beds each year to break [[hamilton-pest-and-disease-control-organic]] cycles. Solomon recommends a minimum 3-year rotation for brassicas and solanaceae
 
 ## Compost and Organic Matter in Beds
 
 Solomon's approach to bed fertility differs from intensive methods in quantity and type:
 - **Moderate compost rates**: Apply 1-2 inches of finished compost per bed annually, not the 4-6 inches that biointensive methods recommend. Excessive compost, especially with high-nitrogen manures, produces sappy, pest-prone growth
-- **Complete organic fertilizer (COF)**: Solomon's signature fertilizer blend provides balanced minerals including seed meal (nitrogen), bone meal or rock phosphate (phosphorus), agricultural lime or dolomite (calcium/magnesium), and kelp meal (trace minerals). See [[solomon-soil-preparation-bed-prep]]
+- **Complete [[complete-organic-fertilizer-cof-recipe-solomon]] (COF)**: Solomon's signature fertilizer blend provides balanced minerals including seed meal (nitrogen), bone meal or rock phosphate (phosphorus), agricultural lime or dolomite (calcium/magnesium), and kelp meal (trace minerals). See [[solomon-soil-preparation-bed-prep]]
 
 - [[solomon-cover-crops-green-manure-guide]] for incorporating organic matter into beds
 - [[intensive-gardening-critique-solomon]] for irrigation on raised beds

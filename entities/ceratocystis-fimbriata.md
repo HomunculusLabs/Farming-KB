@@ -15,7 +15,7 @@ sources:
 
 Originally described as a single entity, modern phylogenetic analysis has revealed it to harbour several cryptic species with distinct host specializations.
 
-It is a landmark example of the power of molecular systematics in fungal taxonomy.
+It is a landmark example of the power of molecular systematics in [[molecular-methods-fungal-taxonomy-and-diversity]].
 
 ## Taxonomy and Classification
 
@@ -40,7 +40,7 @@ These represent multiple phylogenetic and biological species.
 
 This discovery followed the pattern seen in other fungal species complexes such as histoplasma-capsulatum and coccidioides-immitis, where phylogenetic analysis revealed previously unrecognized species boundaries.
 
-The recognition of cryptic species within C. fimbriata has important implications for plant quarantine regulations and disease management.
+The recognition of cryptic species within C. fimbriata has important implications for plant quarantine regulations and [[plant-disease-management-solomon]].
 
 ## Host Specialization
 
@@ -48,7 +48,7 @@ Once phylogenetic groups within C. fimbriata were identified, phenotypic differe
 
 The primary distinguishing phenotype is the preferred host:
 
-- **Sweet potato** associated clade
+- **[[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]** associated clade
 - **Sycamore** associated clade, described as the new species *C. platani*
 - **Cacao** associated clade, described as the new species *C. cacaofunesta*
 
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

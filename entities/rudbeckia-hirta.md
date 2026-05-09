@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - USDA NRCS (2024). "The PLANTS Database." National Plant Data Team, Baton Rouge, LA.
-  - Barkley, T.M. (1986). "Asteraceae." In Flora of North America Editorial Committee, Flora of North America North of Mexico, Vol. 1.
+  - Barkley, T.M. (1986). "Asteraceae." In Flora of [[psilocybin-north-america-pacific-northwest]] Editorial Committee, Flora of North America North of Mexico, Vol. 1.
   - Stritch, L. (2018). "Rudbeckia hirta." IUCN Red List of Threatened Species.
   - University of Wisconsin Extension (2008). "Native Plants for Rain Gardens." UW-Extension Horticulture.
 ---
@@ -56,7 +56,7 @@ The root system is a fibrous taproot in annual forms; short-lived perennials may
 
 ## Distribution and Habitat
 
-Rudbeckia hirta is native to central and eastern North America, ranging from Quebec and Ontario south to Florida and west to New Mexico.
+Rudbeckia hirta is native to central and [[polypore-fungi-eastern-north-america]] America, ranging from Quebec and Ontario south to Florida and west to New Mexico.
 
 It has been widely naturalized beyond its native range across much of the continental United States and parts of Canada.
 
@@ -88,7 +88,7 @@ Several species of moths and beetles feed on the foliage, flowers, and seeds, su
 
 The hairy stems provide structural support for climbing insects and spiders.
 
-As a pioneer species, Rudbeckia hirta plays an important role in ecological succession, stabilizing disturbed soils and facilitating the establishment of later-successional perennials.
+As a pioneer species, Rudbeckia hirta plays an important role in [[holmgren-ecological-succession-and-pulsing]], stabilizing disturbed soils and facilitating the establishment of later-successional perennials.
 
 It contributes to meadow biodiversity when included in native wildflower seed mixes for habitat restoration.
 
@@ -110,7 +110,7 @@ Deadheading spent blooms extends the flowering period and encourages lateral bra
 
 Black-eyed Susan self-seeds freely in the garden, often establishing persistent naturalized colonies.
 
-Major pests include aphids and powdery mildew; good air circulation and avoiding overhead irrigation minimize disease pressure.
+Major pests include aphids and [[cervantes-powdery-mildew-prevention-treatment]]; good air circulation and avoiding overhead irrigation minimize disease pressure.
 
 The species is widely used in cutting gardens, pollinator plantings, rain gardens, and large-scale meadow installations.
 
@@ -120,7 +120,7 @@ Notable cultivars include 'Indian Summer', 'Prairie Sun', 'Cherokee Sunset', and
 
 ## Ethnobotanical Uses
 
-Several Native American tribes traditionally used Rudbeckia hirta for medicinal purposes.
+Several [[halpern-sacramental-peyote-and-native-american-church]] tribes traditionally used Rudbeckia hirta for medicinal purposes.
 
 The Ojibwa prepared a root infusion for treating colds and as a wash for snakebites.
 
@@ -134,11 +134,11 @@ European settlers adopted the plant as a traditional remedy for colds, flu, and 
 
 The flowers contain flavonoids, terpenoids, and small amounts of polysaccharides with reported immunomodulatory activity.
 
-Black-eyed Susan holds cultural significance as the state flower of Maryland, designated in 1918.
+Black-eyed Susan holds [[ethnomycology-cultural-significance-sacred-fungi]] as the state flower of Maryland, designated in 1918.
 ## See Also
 
 - [[echinacea-angustifolia]]
-- [[solidago-virgaurea]]
+- solidago-virgaurea
 - [[calendula-officinalis]]
 - [[taraxacum-officinale]]
 - [[monarda-fistulosa]]

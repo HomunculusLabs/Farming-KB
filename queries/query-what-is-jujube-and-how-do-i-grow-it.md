@@ -48,7 +48,7 @@ rarely a problem since jujube leafs out very late compared to most fruit trees.
 Jujube tolerates an extraordinarily wide range of soil conditions. It prefers
 **well-drained soil** but handles sandy, loamy, clay-loam, and even rocky soils.
 Acceptable pH ranges from approximately **5.5 to 8.5**. Once established, the tree is
-deeply [[holzer-fruit-tree-planting-method]]
+deeply holzer-fruit-tree-planting-method
 for general planting techniques.
 
 ## How Do I Care for Jujube?
@@ -63,7 +63,7 @@ vegetative growth at the expense of fruit production.
 
 **Pruning:** Train young trees to a modified central leader or open center. Remove
 suckers from the base regularly. Prune mature trees in late winter to remove dead,
-crossing, or crowded branches. See [[pdc-yield-harvest-and-seasonal-calendar]] for regional timing.
+crossing, or crowded branches. See pdc-yield-harvest-and-seasonal-calendar for regional timing.
 
 ## What Pests and Diseases Affect Jujube?
 
@@ -92,15 +92,22 @@ Varieties like Honey Jar and Sugarcane are good compact choices for patio growin
 
 ## How Does Jujube Fit Into a Permaculture Food Forest?
 
-Jujube is an outstanding addition to any [[permaculture]] design:
+Jujube is an outstanding addition to any permaculture design:
 
 - **Drought resilience** — Produces reliable fruit with minimal irrigation once
   established, ideal for dryland or xeriscaped systems.
 - **Nurse tree** — Thorny young growth protects sensitive understory plantings from
   browsing animals.
 - **Bee forage** — Small, fragrant flowers provide late-season nectar for
-  [[permaculture]] principles.
+  permaculture principles.
 - **Multi-functional** — Hard wood useful for tool handles; leaves are edible and
   used medicinally for livestock.
 
 ---
+
+## See Also
+
+- jujube-ziziphus-spp
+- [[permaculture-design]]
+- [[ziziphus-jujuba]]
+- [[permaculture-principles]]

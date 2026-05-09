@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-4-Acetoxy-N,N-dimethyltryptamine (4-AcO-DMT), also known as psilacetin, O-acetylpsilocin, or synthetically as "synthetic mushrooms," is a synthetic psychedelic tryptamine and a close structural analog of psilocybin. It functions as a prodrug of psilocin (4-HO-DMT), the active metabolite of psilocybin, and produces subjective effects that are broadly indistinguishable from those of natural psilocybin-containing mushrooms. First synthesized by Albert Hofmann in the 1960s and later described by Alexander Shulgin in TiHKAL, 4-AcO-DMT has gained popularity as a research chemical and substitute for natural psilocybin due to its legal status in certain jurisdictions and ease of synthesis.
+4-Acetoxy-N,N-dimethyltryptamine (4-AcO-DMT), also known as psilacetin, O-acetylpsilocin, or synthetically as "synthetic mushrooms," is a synthetic psychedelic tryptamine and a close structural analog of psilocybin. It functions as a prodrug of psilocin (4-HO-DMT), the active metabolite of psilocybin, and produces subjective effects that are broadly indistinguishable from those of natural psilocybin-containing mushrooms. First synthesized by [[albert-hofmann]] in the 1960s and later described alexander shulgin lgin in TiHKAL, 4-AcO-DMT has gained popularity as a research chemical and substitute for natural psilocybin due to its legal status in certain jurisdictions and ease of synthesis.
 
 ## Chemical Identification
 
@@ -76,7 +76,7 @@ sources:
 
 ## Subjective Effects and Dosage
 
-The subjective effects of 4-AcO-DMT are reported by users as virtually indistinguishable from those of psilocybin mushrooms, with some users describing subtle differences in character:
+The subjective effects of 4-AcO-DMT are reported by users as virtually indistinguishable from t [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] ushrooms, with some users describing subtle differences in character:
 
 ### Common Dosage Ranges (Oral, dried powder)
 
@@ -91,7 +91,7 @@ The subjective effects of 4-AcO-DMT are reported by users as virtually indisting
 ### Subjective Effects
 
 - **Visual:** Enhancement of colors and patterns; geometric hallucinations (fractals, lattices, spirals); visual distortion (trailing, morphing, breathing); synesthesia (especially sound-to-color); enhanced appreciation of art and nature
-- **Cognitive:** Altered thought patterns; philosophical and spiritual insights; enhanced creativity and divergent thinking; ego dissolution at higher doses; increased emotional sensitivity and introspection
+- **Cognitive:** Altered thought patterns; philosophical and spiritual insights; enhanced creativity and divergent thinking; [[psilocybin-ego-dissolution-mechanisms]] at higher doses; increased emotional sensitivity and introspection
 - **Somatic:** Physical lightness or heaviness; nausea (more common during onset, less than with natural mushrooms); pupil dilation; increased body temperature; changes in heart rate and blood pressure (generally mild)
 - **Emotional:** Euphoria, awe, and connectedness; anxiety or paranoia (dose-dependent and set/setting dependent); cathartic emotional release; enhanced empathy
 
@@ -107,8 +107,8 @@ Experienced users and researchers have noted several frequently reported differe
 
 ## Historical Context
 
-- **1960s:** First synthesized by Albert Hofmann at Sandoz Pharmaceuticals during the same research program that produced psilocybin; part of systematic investigation of tryptamine structure-activity relationships
-- **1997:** Alexander and Ann Shulgin documented 4-AcO-DMT in TiHKAL (entry #37), describing it as producing psychedelic effects at doses of 10–25 mg; Shulgin noted its similarity to psilocybin and its potential utility as an alternative to natural mushroom material
+- **1960s:** First synthesized by Albert sandoz pharmaceuticals rmaceuticals during the same research program that produced psilocybin; part of systematic investigation of tryptamine structure-activity relationships
+- **1997:** Alexander and ann shulgin documented 4-AcO-DMT in TiHKAL (entry #37), describing it as producing psychedelic effects at doses of 10–25 mg; Shulgin noted its similarity to psilocybin and its potential utility as an alternative to natural mushroom material
 - **2000s–2010s:** Emergence as a "research chemical" on the grey market, sold online under various names including "psilacetin," "synthetic shrooms," "4-AcO," and "O-acetylpsilocin"; gained popularity in the psychonaut community as a legal (in some jurisdictions) substitute for psilocybin
 - **2010s–present:** Increasing interest from clinical researchers as a potential therapeutic agent with advantages over natural psilocybin in terms of dosing precision, purity, and legal status in certain regulatory frameworks
 
@@ -116,7 +116,7 @@ Experienced users and researchers have noted several frequently reported differe
 
 The legal status of 4-AcO-DMT varies by country and is subject to rapid change:
 
-- **United States:** Not explicitly scheduled at the federal level under the Controlled Substances Act; however, the Federal Analog Act may apply, as it is structurally similar to psilocybin (a Schedule I substance). Some states have explicitly scheduled 4-AcO-DMT
+- **[[dmt-containing-plants-united-states-halpern]]:** Not explicitly scheduled at the federal level under the Controlled [[controlled-substances-act-and-psychedelic-research]]; however, the Federal Analog Act may apply, as it is structurally similar to psilocybin (a Schedule I substance). Some states have explicitly scheduled 4-AcO-DMT
 - **United Kingdom:** Controlled as a Class A drug under the Psychoactive Substances Act 2016 and/or the Misuse of Drugs Act 1971 (as a psilocin derivative)
 - **Austria:** Controlled under the Neue psychoaktive Stoffe (NPSG) as of 2012
 - **Germany:** Controlled under the Betäubungsmittelgesetz (BtMG) as a psilocin derivative
@@ -126,20 +126,18 @@ The legal status of 4-AcO-DMT varies by country and is subject to rapid change:
 
 ## Toxicology and Safety
 
-4-AcO-DMT is generally considered to have a favorable safety profile, consistent with other classic psychedelics:
+4-AcO-DMT is generally considered to have a favorable [[cannabis-safety-profile-and-overdose-risk]], consistent with other classic psychedelics:
 
 - **Acute toxicity:** Very low; no human fatalities have been attributed solely to 4-AcO-DMT; the estimated lethal dose is far beyond any reasonably achievable dose (estimated LD50 extrapolated from rodent data is >500 mg/kg oral)
 - **Harm potential:** No evidence of neurotoxicity, organ toxicity, or addictive potential; classic psychedelics are not considered addictive (no withdrawal syndrome, low reinforcement potential)
-- **Psychological risks:** Include acute anxiety ("bad trip"), paranoia, confusion, and triggering of latent psychiatric conditions; these risks are strongly moderated by set (mindset), setting (environment), and dose
+- **Psychological risks:** Include acute anxiety ("[[bad-trip]]"), paranoia, confusion, and triggering of latent psychiatric conditions; these risks are strongly moderated by set (mindset), setting (environment), and dose
 - **5-HT2B agonism:** Chronic activation of 5-HT2B receptors is associated with valvular heart disease (as seen with fenfluramine); the relevance for occasional psychedelic use is unclear but theoretical concern exists
-- **Drug interactions:** Dangerous interactions with MAO inhibitors (potentiation of serotonin effects, risk of serotonin syndrome); SSRIs may attenuate effects; contraindicated with lithium
+- **[[cannabis-drug-interactions-and-contraindications]]:** Dangerous interactions with MAO inhibitors (potentiation of serotonin effects, risk of serotonin syndrome); SSRIs may attenuate effects; contraindicated with lithium
 - **Purity concerns:** Grey-market material may contain synthetic impurities, residual solvents, or incorrect compounds; analytical testing is strongly recommended
 
 ## Clinical and Therapeutic Potential
 
 As interest in psychedelic-assisted psychotherapy expands, 4-AcO-DMT is being considered alongside psilocybin as a potential therapeutic compound:
-
-- **Advantages over psilocybin:** Greater chemical stability (psilocybin is sensitive to oxidation and hydrolysis); potentially better oral bioavailability due to increased lipophilicity; easier and more economical to synthesize at scale; more consistent dosing without the variability inherent in natural mushroom material
 ## See Also
 
 - [[psilocin]] — Active metabolite of both psilocybin and 4-AcO-DMT

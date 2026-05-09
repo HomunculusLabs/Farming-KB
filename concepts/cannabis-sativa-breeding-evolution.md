@@ -1,5 +1,5 @@
 ---
-title: Cannabis Sativa Breeding Evolution
+title: Cannabis cannabis sativa breeding evolution Evolution
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
@@ -14,7 +14,7 @@ The breeding of cannabis sativa has undergone a dramatic transformation from the
 
 ## The Landrace Era and Early Outdoor Breeding
 
-Before indoor cannabis cultivation became widespread, all breeding was conducted outdoors. In the late 1970s and early 1980s, outdoor growers faced a fundamental challenge: cash croppers working with limited space needed to pollinate only a few female plants. Using prevailing winds and isolation distances, growers would place male plants upwind from females, often using several male and female varieties simultaneously.
+Before indoor [[query-how-does-no-till-cannabis-cultivation-work]] became widespread, all breeding was conducted outdoors. In the late 1970s and early 1980s, outdoor growers faced a fundamental challenge: cash croppers working with limited space needed to pollinate only a few female plants. Using prevailing winds and isolation distances, growers would place male plants upwind from females, often using several male and female varieties simultaneously.
 
 The first-generation seeds from these open pollinations were known as "trainwreck generations" — so named because the genetics were unpredictable. You could never be certain which male had pollinated which female, creating a "train wreck" of mixed lineage. After these seeds were grown out, cloned, and inbred, distinct lines emerged and received names. Different lines from these early hybrid experiments became the legendary strains of the era, with regional names like Humboldt Trainwreck, Purple, L.A., African, Colombian, Mexican, and Hawaiian variants.
 
@@ -38,13 +38,13 @@ The Haze family's importance cannot be overstated: it provided the template for 
 
 ## The Indoor Adaptation Movement
 
-The widespread adoption of indoor growing created enormous selective pressure on cannabis breeding. Indica varieties were naturally favored: their short stature, hardiness, and heavy yields made them ideal for confined grow spaces. Sativas, by contrast, were marginalized for decades. As S.T. Oner notes in the preface to Cannabis Sativa Volume 3, "sativa strains have been the second child of the cannabis family," standing behind indica "waving its arms and trying to get attention."
+The widespread adoption of indoor growing created enormous selective pressure on [[oner-cannabis-breeding-fundamentals]]. Indica varieties were naturally favored: their short stature, hardiness, and heavy yields made them ideal for confined grow spaces. Sativas, by contrast, were marginalized for decades. As S.T. Oner notes in the preface to Cannabis Sativa Volume 3, "sativa strains have been the second child of the cannabis family," standing behind indica "waving its arms and trying to get attention."
 
 This imbalance drove two parallel breeding movements:
 
 ### Sativa Traits into Indica Frameworks (North America)
 
-North American breeders focused on introducing sativa qualities — particularly the psychedelic head highs and creative stimulation — into plants with indica growth characteristics. The goal was to create hybrids small enough for indoor cultivation that still delivered the effects sativa enthusiasts sought.
+[[growing-gourmet-north-american-reishi-species]] breeders focused on introducing sativa qualities — particularly the psychedelic head highs and creative stimulation — into plants with indica growth characteristics. The goal was to create hybrids small enough for indoor cultivation that still delivered the effects sativa enthusiasts sought.
 
 - **Jack the Ripper** from Subcool's TGA Genetics exemplifies this approach. Bred from Jack's Cleaner (itself a cross of Jack Herer and The Cleaner, which contained Northern Lights #5 and Purple Haze) and Space Queen, Jack the Ripper is a compact sativa-dominant plant that works well indoors while delivering the energetic, cerebral effects associated with classic sativas.
 
@@ -64,7 +64,7 @@ Spanish and other European breeders took the complementary approach: reducing sa
 
 ## The Auto-Flowering Sativa Development
 
-The introduction of Cannabis ruderalis genetics into sativa breeding opened new possibilities for growers with limited space or time. Ruderalis, a subspecies native to Central and Eastern Europe, flowers based on age rather than photoperiod, allowing plants to mature regardless of light schedule.
+The introduction of [[cervantes-cannabis-ruderalis-autoflowering]] genetics into sativa breeding opened new possibilities for growers with limited space or time. Ruderalis, a subspecies native to Central and Eastern Europe, flowers based on age rather than photoperiod, allowing plants to mature regardless of light schedule.
 
 - **Angelmatic** (also known as Little Angel) from Ministry of Cannabis crosses a Little Devil plant with Ruderalis genetics, producing a sativa-dominant auto-flowering strain that reaches only about a foot in height and completes its entire lifecycle in 60 days from seed. This makes sativa genetics accessible to growers whose only available space might be "smaller than your average fridge."
 
@@ -80,7 +80,7 @@ The Harlequin strain from Green Haven Genetics demonstrates a modern breeding fo
 
 ### Terpene Preservation and Enhancement
 
-Sativa strains are renowned for their complex terpene profiles — the fruity aromas, berry flavors, and tropical scents that distinguish them from indicas. Modern breeders increasingly select for terpene expression alongside potency. Strains like Dragon's Teeth from Acumen Genetics and Mango Haze from Mr. Nice Seedbank are specifically noted for preserving and enhancing these aromatic qualities.
+Sativa strains are renowned for their complex [[cannabis-terpene-profiles-sativa]] — the fruity aromas, berry flavors, and tropical scents that distinguish them from indicas. Modern breeders increasingly select for terpene expression alongside potency. Strains like Dragon's Teeth from Acumen Genetics and Mango Haze from Mr. Nice Seedbank are specifically noted for preserving and enhancing these aromatic qualities.
 
 ### Phenotype Selection
 

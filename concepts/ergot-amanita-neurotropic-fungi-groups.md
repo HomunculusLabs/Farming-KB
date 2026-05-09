@@ -22,7 +22,7 @@ type: concept
 
 # Ergot Fungi and Amanita as Neurotropic Species
 
-Guzman, Allen, and Gartz (1998) classified 216 neurotropic fungal species
+Guzman, Allen, and Gartz (1998) classified 216 [[mexico-center-neurotropic-fungal-biodiversity]] species
 into four major groups. Beyond the psilocybin-containing fungi that
 dominate popular understanding, two important groups contain distinct
 neuroactive chemistries: the ibotenic acid fungi (Amanita species) and
@@ -54,10 +54,10 @@ introduced to pine plantations in tropical regions, including Brazil
 (Homrich, 1965), Colombia, Tanzania (Africa), Australia, and New Zealand.
 Its distribution type is classified as Eurasian/Northern hemisphere.
 
-The cultural significance of A. muscaria centers on Siberia, where the
+The [[ethnomycology-cultural-significance-sacred-fungi]] of A. muscaria centers on Siberia, where the
 Chukchee and Koryak peoples used it as a sacred intoxicant, as documented
 by Wasson and Wasson (1957). Wasson (1979) also reported traditional
-divinatory use of A. muscaria among Native American peoples.
+divinatory use of A. muscaria among [[halpern-sacramental-peyote-and-native-american-church]] peoples.
 
 ### Amanita pantherina (DC.: Fr.) P. Kumm.
 
@@ -73,7 +73,7 @@ primarily from central Europe. Recognized varieties include:
 
 Also classified as A. muscaria var. regalis (Fr.) Bertillon, this species
 is closely related to A. muscaria but is treated as a separate species
-in the neurotropic fungi classification.
+in the neurotropic [[ustilaginomycetes-smut-fungi-classification-diversity]].
 
 ## Group 3: Ergot Fungi (Claviceps and Cordyceps)
 
@@ -96,7 +96,7 @@ Five species of Claviceps are recognized as neurotropic:
 - **C. rolfesii** F. Stev. and J.G. Hall: Synonym of C. paspali.
 - **C. tripsicii** F. Stev. and J.G. Hall
 
-Claviceps purpurea and its allies are confined to temperate regions.
+[[bloomfield-ergot-claviceps-purpurea-ergotism]] and its allies are confined to temperate regions.
 Three species (C. paspali, C. purpurea, C. rolfesii, and C. tripsaci)
 are reported from the United States.
 
@@ -128,7 +128,7 @@ negative result.
 
 ## Group 4: Sacred Fungi Without Chemical Confirmation
 
-A fourth group consists of fungi used as sacred mushrooms by indigenous
+A fourth group consists of fungi used as [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]] by indigenous
 peoples but for which no reliable chemical studies confirm neurotropic
 properties. This group includes:
 

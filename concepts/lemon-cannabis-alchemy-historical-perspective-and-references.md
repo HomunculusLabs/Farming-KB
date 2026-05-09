@@ -1,5 +1,5 @@
 ---
-title: Historical Perspective and References
+title: lemon cannabis alchemy historical perspective and references and References
 created: 2026-04-28
 tags:
   - cannabis-history
@@ -19,7 +19,7 @@ type: concept
 ## Introduction and Context
 
 The public attitude on personal marijuana use changed significantly
-since the first edition of *Cannabis Alchemy* by D. Gold (published
+since the first edition of *[[lemon-cannabis-alchemy-advanced-refinement-techniques]]* by D. Gold (published
 under the pseudonym "Nicolas Flamel," Berkeley, California, 1979). The book appeared at a time when marijuana use had
 become common practice for millions of Americans, including the
 children of governing officials. The criminal stigma and revolutionary
@@ -38,14 +38,14 @@ The introduction observed that given widespread recreational cannabis
 use, methods of consumption were only starting to develop. Comparing
 cannabis to wine, with its varied forms of ethanol evolved over
 centuries, it was clear that "cannabis has a long way to go." Research
-on physiological and psychological effects of THC and its analogs
+on physiological and [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] of THC and its analogs
 was in its incipient state, with enormous potential for developing
 compounds of varied effects and duration.
 
 ## The Alchemical Metaphor
 
 The book's title and pseudonym (Nicolas Flamel, the legendary
-14th-century alchemist said to have discovered the philosopher's stone) consciously connect cannabis extraction to the
+14th-century alchemist said to have discovered the philosopher's stone) consciously connect [[comparison-cannabis-extraction-basics-vs-extraction-methods]] to the
 Western alchemical tradition. The word "alchemy" itself carries
 multiple meanings: the ancient practice of attempting to transform
 base metals into gold, the discovery of the elixir of life, and the
@@ -79,14 +79,14 @@ methods for extracting and fractionating cannabis oil from wild
 Minnesota hemp. His work also appeared in volume 63 (page 2211),
 describing the isomerization of crystalline cannabidiol to THC
 using sulfuric acid in cyclohexane. Adams established the basic
-fractional distillation parameters still referenced in modern
+[[cannabis-fractional-distillation-cannabinoids]] parameters still referenced in modern
 cannabis processing.
 
 ### National Institute of Mental Health
 
 The NIMH supplied confiscated hashish for research purposes. One
 study involved 13 kg of hashish of unknown origin extracted with
-95% ethyl alcohol and analyzed by gas-liquid chromatography,
+95% [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]] and analyzed by gas-liquid chromatography,
 yielding data on the composition of cannabinoid profiles
 (29.5% cannabidiol, 8.2% cannabinol, 5.8% delta-9 THC). This
 research was published in the Lloydia Journal of Natural Products

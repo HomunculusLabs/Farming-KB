@@ -56,9 +56,9 @@ way of looking at things.
 The price of Japanese rice, the price of Thai rice, and the farmer's price
 for rice should all be the same. Food is food. But the economic system has
 distorted these realities beyond recognition. When viewed from the standpoint
-of natural farming, which seeks to return to the original state of nature,
+of [[comparison-natural-farming-vs-permaculture]], which seeks to return to the original state of nature,
 these economic considerations are secondary. The primary question is whether
-man can rediscover his place within the natural order.
+man can rediscover his place within the [[fukuoka-textdoc-natural-order-food-chain-unity]].
 
 ## See Also
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

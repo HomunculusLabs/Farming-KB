@@ -16,7 +16,7 @@ sources:
 
 # Vole Control Methods
 
-Voles are among the most damaging garden pests, capable of destroying root crops, fruit trees, and garden beds through their tunneling and feeding. Sepp Holzer addresses vole control as part of his integrated approach to working with nature rather than declaring war on individual species.
+Voles are among the most damaging garden pests, capable of destroying root crops, [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], and garden beds through their tunneling and feeding. [[comparison-sepp-holzer-vs-biodynamic]] addresses vole control as part of his integrated approach to working with nature rather than declaring war on individual species.
 
 ## Encouraging Natural Predators
 
@@ -33,9 +33,9 @@ Holzer emphasizes that a healthy ecosystem with diverse predator populations kee
 
 When voles exceed tolerable levels, trapping is recommended over poisoning:
 
-- **Live traps** and **snap traps** placed in active tunnel runs are effective. Bait with apple, carrot, or root vegetable pieces.
+- **Live traps** and **snap traps** placed in active tunnel runs are effective. Bait with apple, carrot, or [[fukuoka-western-root-vegetable-deficiency]] pieces.
 - **Trap placement**: Locate active runs by probing the soil surface. Place traps perpendicular to the runway, with the trap trigger aligned with the tunnel direction.
-- **Timing**: Trap in autumn and early spring when food is scarce and voles are most active near the surface.
+- **Timing**: Trap in autumn and [[coleman-overwintered-onions-and-early-spring-crops]] when food is scarce and voles are most active near the surface.
 - **Cover traps** with boards or stones to create dark, enclosed spaces voles will enter willingly.
 
 ## Habitat Management
@@ -43,7 +43,7 @@ When voles exceed tolerable levels, trapping is recommended over poisoning:
 - Keep grass mowed short near vulnerable plantings to reduce cover for voles.
 - Avoid thick mulch layers directly against tree trunks where voles can tunnel unseen.
 - Maintain firm soil surfaces -- voles prefer loose, workable soil for tunneling.
-- Remove weed thickets and dense ground cover that provide vole habitat adjacent to gardens.
+- Remove weed thickets and dense [[fukuoka-citrus-orchard-ground-cover-cultivation]] that provide vole habitat adjacent to gardens.
 
 ## Exclusion Methods
 
@@ -56,9 +56,10 @@ Holzer stresses that complete eradication is neither possible nor desirable. The
 
 ## See Also
 
-- [[slugs-and-snails-organic-control]] -- Other common garden pest control methods
+- [[slugs-and-snails-organic-control]] -- Other common garden [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] methods
 - [[integrated-pest-management]] -- Broader IPM strategies
 - [[animal-manure-guide]] -- Soil health as pest prevention
+
 ## Practical Considerations
 
 Successful implementation of Vole Control Methods requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

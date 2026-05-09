@@ -4,12 +4,13 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 
 # Endophyte Sampling Methods — Isolation, Culture, and Identification
 
-Studying endophytic fungi requires specialized methods for isolation, culture, and identification. The small scale of endophyte infections demands meticulous technique.
+Studying [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]] requires specialized methods for isolation, culture, and identification. The small scale of endophyte infections demands meticulous technique.
 
 ## General Sampling Guidelines
 
@@ -27,7 +28,7 @@ Key principles for endophyte surveys:
 - Process samples within 48 hours of collection
 - Air-dry to remove surface moisture before transport or storage
 - Keep cool and dry during transport
-- Use cotton, Tyvek, or paper bags (NOT plastic — if used, leave open for air circulation)
+- Use cotton, Tyvek, or paper bags (NOT plastic — if used, leave open for [[stamets-growing-room-air-circulation-co2-management]])
 - Prevent condensation and growth of superficial molds
 
 ## Surface Sterilization
@@ -44,7 +45,7 @@ Key principles for endophyte surveys:
 - Ethylene oxide gas sterilization (for some applications)
 
 ### Enhancing Efficacy
-- Combine sterilant with wetting agent (ethanol 70-95% or Tween 80 surfactant)
+- Combine sterilant with [[jadam-nutrient-management-wetting-agent-and-calcium]] (ethanol 70-95% or Tween 80 surfactant)
 - Essential for hydrophobic or densely pubescent leaves
 
 ### Serial Washing
@@ -55,7 +56,7 @@ Best for root tissues, leaf surfaces, and when nontoxic methods are desired:
 
 ## Media and Incubation
 
-- **Malt extract agar** (1-2%) most commonly used, sometimes with yeast extract (0.1-0.2%)
+- **Malt extract agar** (1-2%) most commonly used, sometimes with [[marmite-yeast-extract-straw-substrate]] (0.1-0.2%)
 - Colony-limiting agents and antibiotics often used for primary isolations
 - Incubate at room temperature for 3-4 weeks
 - Discard rapidly growing fungi appearing within first 2 weeks
@@ -63,9 +64,9 @@ Best for root tissues, leaf surfaces, and when nontoxic methods are desired:
 
 ## Microdissection
 
-For investigating distribution patterns within host tissue:
+For investigating [[guzman-global-distribution-patterns-neurotropic-fungi]] within host tissue:
 - Divide tissue into small units (e.g., 2mm x 3mm segments)
-- Record pattern of fungal growth from each unit
+- Record pattern of [[brassinosteroid-fungal-growth-promotion]] from each unit
 - Reveals mosaic of occupation patterns
 - Multiple infections of single segments suggest even finer-scale heterogeneity
 
@@ -85,7 +86,7 @@ Molecular sequence approaches are increasingly used for:
 
 ## See Also
 
-- [[fungal-culture-preservation-methods]]
+- fungal-culture-preservation-methods
 - [[microfungi-wood-plant-debris-survey]]
 - [[selective-agents-fungal-isolation-antibiotics-fungicides]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

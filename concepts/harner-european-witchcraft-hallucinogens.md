@@ -1,5 +1,5 @@
 ---
-title: European Witchcraft and Solanaceous Hallucinogens
+title: harner european witchcraft hallucinogens and Solanaceous Hallucinogens
 created: 2026-04-26
 sources: Harner (ed.), Hallucinogens and Shamanism (1973), Ch. 8 (Harner)
 related:
@@ -24,10 +24,10 @@ A prevalent attitude among historians is that late medieval and Renaissance witc
 
 The single most important group of plants used by mankind to contact the supernatural belongs to the **order Solanaceae** (the potato family). Hallucinogenic members include:
 
-- **Datura** (Jimson weed, devil's apple, thorn apple, mad apple, devil's weed, Gabriel's trumpet, angel's trumpet) -- used widely in shamanism, witchcraft, and vision quest in Europe, Asia, Africa, and among American Indian tribes
+- **Datura** (Jimson weed, devil's apple, thorn apple, mad apple, devil's weed, Gabriel's trumpet, angel's trumpet) -- used widely in shamanism, witchcraft, and vision quest in Europe, Asia, Africa, and among [[harner-american-indian-peyote-rituals]] tribes
 - **Mandrake** (*Mandragora*)
 - **Henbane** (*Hyoscyamus*)
-- **Deadly nightshade / Belladonna** (*Atropa belladonna*)
+- **Deadly nightshade / Belladonna** (*[[belladonna-atropa-belladonna-ethnobotany]]*)
 
 ## Pharmacology
 
@@ -81,7 +81,7 @@ The Inquisition, at the cost of torture and execution of perhaps hundreds of tho
 
 ## Connection to Shamanism
 
-The use of solanaceous hallucinogens in European witchcraft represents a Western parallel to the use of *Banisteriopsis* and *Amanita muscaria* in shamanistic societies. The "witches' flight" is functionally equivalent to the **soul flight** of the shaman -- a journey to the supernatural world made possible by hallucinogenic substances.
+The use of solanaceous hallucinogens in European witchcraft represents a Western parallel to the use of *Banisteriopsis* and *[[allegro-amanita-muscaria-properties-and-pharmacology]]* in shamanistic societies. The "witches' flight" is functionally equivalent to the **soul flight** of the shaman -- a journey to the supernatural world made possible by hallucinogenic substances.
 
 - [[harner-amazonian-ayahuasca-shamanism]]
 

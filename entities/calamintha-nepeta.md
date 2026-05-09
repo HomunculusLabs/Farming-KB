@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Morris S. (1997). "A Monograph of the Genus Calamintha (Labiatae)." Botanical Journal of the Linnean Society, 125(4), 341-373.
-  - Formisano C. et al. (2012). "Chemical Composition and Antimicrobial Activity of Calamintha nepeta Essential Oil." Chemistry & Biodiversity, 9(4), 723-734.
+  - Formisano C. et al. (2012). "Chemical Composition and Antimicrobial Activity of Calamintha nepeta [[permaculture-designers-manual-essential-oil-plants]]." Chemistry & Biodiversity, 9(4), 723-734.
   - Tutin T.G. et al. (1972). Flora Europaea, Vol. 3. Cambridge University Press.
   - Piccaglia R. et al. (1993). "Essential Oil Composition of Calamintha nepeta." Journal of Essential Oil Research, 5(2), 155-159.
 ---
@@ -56,11 +56,11 @@ The calyx is tubular-campanulate, 3–4 mm long, with five subequal teeth. The c
 
 *Calamintha nepeta* is native to central and southern Europe, the Mediterranean basin, and parts of western Asia. Its range extends from Spain and France eastward through Italy and the Balkans to Turkey and the Caucasus.
 
-The species has naturalized in parts of North America (northeastern United States, Ontario) and the British Isles. Naturalized populations are generally found in disturbed, open habitats.
+The species has naturalized in parts of [[psilocybin-north-america-pacific-northwest]] (northeastern [[dmt-containing-plants-united-states-halpern]], Ontario) and the British Isles. Naturalized populations are generally found in disturbed, open habitats.
 
 It grows in dry, rocky places, scrubland, woodland margins, roadsides, and old walls. The plant prefers calcareous or neutral soils and tolerates both full sun and partial shade.
 
-Optimal conditions include well-drained soils of moderate fertility, annual rainfall of 400–800 mm, and temperatures of 15–28°C during the growing season. It is drought-tolerant once established.
+Optimal conditions include well-drained soils of moderate fertility, annual rainfall of 400–800 mm, and temperatures of 15–28°C during the [[savory-growing-season-and-non-growing-season-management]]. It is drought-tolerant once established.
 
 ## Cultivation
 
@@ -70,7 +70,7 @@ Plants are spaced 20–30 cm apart in garden settings. The species thrives in po
 
 Harvest for culinary use can begin in the first year from seed. Leaves are best gathered just before or during flowering, when aromatic oil content peaks. The plant regrows quickly after cutting.
 
-The species is largely pest and disease free in temperate climates. It can be short-lived in very wet or heavy clay soils. Dividing clumps every 3–4 years maintains plant vigor.
+The species is largely [[hamilton-pest-and-disease-control-organic]] free in temperate climates. It can be short-lived in very wet or heavy clay soils. Dividing clumps every 3–4 years maintains plant vigor.
 
 Several named cultivars are available, including 'White Cloud' (pure white flowers) and compact forms suitable for rock gardens and container cultivation.
 

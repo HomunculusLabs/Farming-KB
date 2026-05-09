@@ -1,5 +1,5 @@
 ---
-title: "Elm Oyster Mushroom Cultivation (Hypsizygus ulmarius)"
+title: "Elm Oyster accessible-mushroom-cultivation-for-disabilities (Hypsizygus ulmarius)"
 created: 2026-04-26
 tags:
   - mushroom-cultivation
@@ -19,7 +19,7 @@ Hypsizygus ulmarius is a relatively rare mushroom that usually grows
 singly or in small groups on elms and beeches. It closely parallels
 the morphology of an Oyster mushroom but is far better in flavor and
 texture. Increasingly popular in Japan, H. ulmarius has yet to be
-cultivated commercially in North America where it would be well
+cultivated commercially in [[psilocybin-north-america-pacific-northwest]] where it would be well
 received by discriminating markets.
 
 ## Taxonomy and Common Names
@@ -53,17 +53,17 @@ floury overtone, not anise-like but pleasant.
 
 ## Distribution and Habitat
 
-Throughout the temperate forests of eastern North America, Europe,
+Throughout the temperate forests of [[polypore-fungi-eastern-north-america]] America, Europe,
 and Japan. A saprophyte on elms, cottonwoods, beech, maple, willow,
 oak and occasionally other hardwoods. Probably widespread throughout
-similar climatic zones worldwide. Strains are available from Japanese,
+similar [[permaculture-designers-manual-climatic-zones-tropical]] worldwide. Strains are available from Japanese,
 American, and Canadian culture libraries.
 
 ## Extraordinary Growth Pattern
 
 This mushroom is extraordinary for many reasons. When the caps grow
 to the broadly convex stage, lateral growth continues with an
-appreciable increase in mass. In most cultivated mushrooms, when the
+appreciable increase in mass. In most [[fungi-cultivated-mushrooms-pathogens-competitors]], when the
 cap becomes broadly convex, this marks the beginning of tissue
 re-apportionment for final feature development. If cultivators pick
 too early, a substantial loss in yield results.
@@ -78,7 +78,7 @@ compare favorably in flavor and texture.
 
 ### Spawn Expansion
 Adapts well to liquid fermentation methods. First and second
-generation grain spawn throughout. For outdoor cultivation, sawdust
+generation [[comparison-grain-spawn-vs-grain-to-grain-transfer]] throughout. For outdoor cultivation, sawdust
 spawn is recommended. Supplementing sterilized sawdust definitely
 enhances mycelial integrity and yields.
 
@@ -96,4 +96,4 @@ hardwood sawdust and chips are recommended, similar to
 
 - [[growing-gourmet-buna-shimeji-hypsizygus-cultivation]]
 - [[growing-gourmet-king-stropharia-cultivation]]
-- [[growing-gourmet-supplemented-sawdust-sterilization]]
+- growing-gourmet-supplemented-sawdust-sterilization

@@ -27,7 +27,7 @@ the honeydew so the sooty mold lacks food.
 
 Black spot, on the other hand, harms the plant. The enzymatic ability
 of the black-spot fungi is so weak that it cannot outcompete any
-other organism on the leaf surface. If some organism is already
+other organism on the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]. If some organism is already
 present on the leaf surface, the black spot fungus cannot push it
 out. The main agent of protection is coverage. Get the organisms
 back on your leaf surfaces, and then stop killing them. It is easy
@@ -41,19 +41,19 @@ are black. The spot gets larger as the fungus grows outward.
 The carbohydrate and starch media are best for pathogens. Avoid the
 starchy, carbohydrate, and sugary foods when trying to grow
 beneficial fungi. Stick to the lignin, cellulose, [[aact-fungal-dominant-tea]]
-should use materials like fish hydrolysate, humic acids, and other
+should use materials like [[comparison-fish-hydrolysate-vs-fish-emulsion]], humic acids, and other
 complex fungal foods rather than simple sugars or starches. Take
 your cultures to the local University mycologist if you need help
 identifying what you have growing in your [[aact-compost-quality-standards-ingham]].
 
 The process of growing beneficial fungi in compost involves adding
-beneficial fungal foods and/or good tested fungal compost or worm
+beneficial fungal foods and/or good tested [[bacterial-vs-fungal-compost-teas]] or worm
 castings to compost that needs improvement, and letting them grow
 at around 50% moisture. Pay attention to the kind of fungi growing.
 Good composts with good food resources will produce thick white
 strands. Bad composts produce only gray fuzz. Testing different
 composts with different food resources is the most reliable way
-to identify quality fungal material for your tea brewing.
+to identify [[dighton-litter-quality-fungal-decomposition-rates]] material for your [[compost-tea-brewing-equipment-ingham]].
 ## Practical Considerations
 
 When working with Yeasts and Molds in Compost Tea Systems, several practical factors should be
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -3,16 +3,13 @@ title: Swales and Raised Beds
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
-tags: [[permaculture, gardening, urban-agriculture]
+tags: [permaculture, gardening, urban-agriculture]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
-
-# Swales and Raised Beds
-
-Swales and raised beds are complementary earthwork strategies that manage water, build soil, and create productive growing spaces. In [[hugelkultur]]** -- beds built over logs and branches that decompose over time, creating long-term fertility and water retention (see [[dynamic-accumulators]]
+# Swales and Raised Beds Swales and raised beds are complementary earthwork strategies that manage water, build soil, and create productive growing spaces. In ** -- beds built over logs and branches that decompose over time, creating long-term fertility and water retention (see [[dynamic-accumulators]]
 - **Ground cover** -- clovers and other living mulches in the swale trench itself
 
-Each species is placed according to its shade tolerance, height, and water requirements. The taller trees access deeper groundwater; the ground covers protect the soil surface and fix nitrogen; the herbs attract pollinators and accumulate nutrients.
+Each species is placed according to its shade tolerance, height, and water requirements. The taller trees access deeper groundwater; the ground covers protect the soil surface and [[query-how-to-fix-nitrogen-toxicity-in-cannabis]]; the herbs attract pollinators and accumulate nutrients.
 
 ## The Self-Contained Ecosystem
 
@@ -22,9 +19,9 @@ The goal of [swale-and-bed design is to create a system that functions without e
 - Nitrogen is fixed by leguminous ground covers and trees
 - Biomass is cycled through pruning and mulching
 - Pests are managed by diverse plantings that attract beneficials
-- Fertility is maintained through decomposition and nutrient cycling
+- Fertility is maintained through decomposition and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 
-The system produces its own water, fertility, and pest management. Trees are essential parts of swale planting systems -- their deep roots access stored groundwater and their leaf drop contributes to the organic matter cycle.
+The system produces its own water, fertility, and [[cannabis-pest-management-guide]]. Trees are essential parts of swale planting systems -- their deep roots access stored groundwater and their leaf drop contributes to the [[hamilton-composting-and-organic-matter-management]] cycle.
 
 ## [[swale-design]] Guidelines
 
@@ -52,7 +49,7 @@ Even on flat urban lots, the principles apply: slow, spread, and sink water rath
 
 - [[permaculture-water-systems]]
 - [[rainwater-harvesting-systems]]
-- [Chop and Drop Mulching
+- [Chop and [[comparison-chop-and-drop-mulching-vs-mulching-guide]]
 - [[urban-permaculture-food-forest-succession]]
 - [[urban-permaculture-trees-water-cycling]]
 ## Practical Considerations
@@ -71,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

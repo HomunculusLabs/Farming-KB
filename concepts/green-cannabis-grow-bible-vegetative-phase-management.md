@@ -1,5 +1,5 @@
 ---
-title: Vegetative Phase Management - Greg Green's Cannabis Grow Bible
+title: green cannabis grow bible vegetative phase management Management - Greg Green's green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,8 +10,8 @@ tags: [cannabis]
 
 # Vegetative Phase Management
 
-Greg Green's Cannabis Grow Bible details how to manage cannabis plants
-through their vegetative growth stage, from seedling transplant through
+Greg Green's Cannabis Grow Bible details how to [[query-how-to-manage-cannabis-odor-and-stay-discreet]] plants
+through their [[cannabis-vegetative-growth-stage]] stage, from seedling transplant through
 pre-flowering.
 
 ## Transplanting to the Main Grow Area

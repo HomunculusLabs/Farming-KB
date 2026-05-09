@@ -1,5 +1,5 @@
 ---
-title: jadam liquid fertilizer nutritional perspective
+title: jadam jadam liquid fertilizer nutritional perspective nutritional perspective
 created: 2026-04-28
 tags: [jadam, liquid-fertilizer, nutritional-balance, crop-residue-fertilizer]
 date: 2026-04-25
@@ -10,7 +10,7 @@ type: concept
 
 # JADAM Liquid Fertilizer Nutritional Perspective
 
-JADAM introduces a fundamentally simple approach to fertilizer selection
+JADAM introduces a fundamentally simple approach to [[solomon-fertilizer-selection-application]]
 called the "nutritional perspective." Instead of analyzing fertilizers by
 their NPK values and attempting to adjust individual nutrient levels, JADAM
 asks a basic question: which kind of fertilizer is best for tomatoes? The
@@ -36,7 +36,7 @@ understand, and farmers accept buying fertilizer from dealers as the norm.
 
 With the nutritional perspective, farmers realize that only they have the
 ingredients for their crops, only they can make their own fertilizer, and
-it costs very little. The solution to nutritional balance lies everywhere
+it costs very little. The solution to [[jadam-nutritional-balance-fertilizer]] lies everywhere
 around the farm in the form of crop residues and wild grasses.
 
 ## Why Crop Residues Are the Best Fertilizer
@@ -51,12 +51,12 @@ residues and locally available wild grass, filling with water, adding a
 handful of leaf mold, and closing the lid. No stirring is needed (unless
 ingredients sink). After the liquid darkens fdecompositiontion, it is ready.
 In summer, this takes only 7 days. However, JADAM recommends preparing JLF
-in spring for use the following year, as older liquid fertilizers are more
+in spring for use the following year, as older [[solomon-liquid-fertilizers-and-foliar-feeding]] are more
 easily absorbed by plants.
 
 ## The Problem with Skin Fertilizers
 
-JADAM identifies a critical problem with common organic fertilizers such as
+JADAM identifies a critical problem with common [[hamilton-organic-fertilizers-and-plant-nutrition]] such as
 rice bran, perilla pulp, and oil cake (press cake). These materials are the
 leftovers after grains, nuts, or fruits have been extracted of their
 nutritional essences. They are essentially the "skin" of the product and
@@ -71,7 +71,7 @@ problem applies to perilla pulp: overuse will ruin soil balance.
 Anything good that is excessive becomes bad. Farming is a precision
 operation of finding and approaching the optimized nutritional balance for
 your crop. When using skin fertilizers, JADAM recommends keeping them below
-one-tenth of the total mollison designers humus applied.
+one-tenth of the total mollison [[mollison-designers-humus-building-and-soil-organic-matter]] applied.
 
 ## Simplifying Complex Theories
 

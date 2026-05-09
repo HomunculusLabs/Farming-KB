@@ -50,7 +50,7 @@ the chance, at first, of insect damage or blight.
 ## Accelerated Artificial Growth
 
 Since root absorption of nutrients dissolved in water is inefficient, the
-nutrient solution is sprayed on a regular basis over the entire plant. Nutrients
+[[cannabis-nutrient-solution-preparation]] is sprayed on a regular basis over the entire plant. Nutrients
 are taken in not only through the roots, but also through leaf surfaces, making
 them more immediately available and resulting in a higher growth rate. The
 temperature is increased and the level of light exposure raised with artificial
@@ -87,7 +87,7 @@ synthesize starch, perhaps even by the saccharification of wood and oil.
 
 Man has learned how to synthesize nucleic acid and cellular proteins and nuclei,
 and is beginning to synthesize and recombine genes and chromosomes. He has even
-begun thinking that he can control life itself. Not only that: as the notion
+begun thinking that he can [[eclss-environmental-control-life-support]] itself. Not only that: as the notion
 has settled in that he may soon be able to alter all living things in any way
 he pleases, man has begun fancying himself as the Creator.
 
@@ -105,7 +105,7 @@ efficiency and productivity is actually a form of systematic impoverishment.
 
 ## Connection to Natural Farming
 
-In [[fukuoka-natural-farming-philosophy]]
+In 
 
 - [[fukuoka-artificial-food-synthesis-degradation-food-quality]]
 

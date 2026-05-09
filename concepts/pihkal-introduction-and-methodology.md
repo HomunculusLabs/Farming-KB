@@ -21,7 +21,7 @@ The Shulgins' research group of six to eight people gathered at their home. Sash
 
 ### Safety Philosophy
 
-Shulgin's cautionary note states: "No one who is lacking legal authorization should attempt the synthesis of any of the compounds described in these files, with the intent to give them to man. To do so is to risk legal action which might lead to the tragic ruination of a life." He also warned that experimenting on oneself without being familiar with a drug's action is "acting irresponsibly and immorally, whether or not he is doing so within the bounds of the law."
+Shulgin's [[pihkal-cautionary-note-and-legal-context]] states: "No one who is lacking legal authorization should attempt the synthesis of any of the compounds described in these files, with the intent to give them to man. To do so is to risk legal action which might lead to the tragic ruination of a life." He also warned that experimenting on oneself without being familiar with a drug's action is "acting irresponsibly and immorally, whether or not he is doing so within the bounds of the law."
 
 ## Book II: The Chemical Story
 
@@ -58,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,3 +101,12 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[mckenna-dmt-endogenous-brain-affinity-versus-lsd-pharmacokinetics]]
+
+- [[aconitine]]
+- [[ayahuasca-pharmacology-maoi-interactions]]
+- [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]
+
+- [[isoproscaline]]

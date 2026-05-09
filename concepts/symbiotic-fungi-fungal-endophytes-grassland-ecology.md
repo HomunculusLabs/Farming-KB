@@ -4,7 +4,8 @@ created: 2026-05-02
 updated: 2026-05-02
 type: concept
 tags: [fungal-ecology, mycology]
-sources: []
+sources:
+  sources: []
 ---
 ---
 title: Fungal Endophytes in Grassland Ecology
@@ -30,9 +31,9 @@ interactions involving [[arbuscular-mycorrhizal-fungi]] (Bianciotto et al. 1996)
 ## Streptomyces AcH 505: A Model Helper Bacterium
 
 Streptomyces sp. AcH 505, isolated from the rhizosphere of Norway spruce (Picea abies),
-demonstrates the dual action of helper bacteria:
+demonstrates the dual action of [[mycorrhiza-helper-bacteria-fungal-interactions]]:
 
-- Significantly promoted mycelial growth of Amanita muscaria
+- Significantly promoted [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] of [[allegro-amanita-muscaria-properties-and-pharmacology]]
 - Promoted mycorrhization rate
 - Simultaneously suppressed plant pathogens:
   - Armillariella obscura
@@ -61,7 +62,7 @@ Key findings from 13C-labelling studies with Plantago lanceolata:
 
 - Recently assimilated carbon appeared in extraradical AM hyphae within days
 - Carbon remained largely in hyphae for at least 30 days
-- Carbon allocation to rhizosphere bacteria occurs at much lower rate than
+- Carbon allocation to [[lowenfels-rhizosphere-bacteria-plant-interaction]] occurs at much lower rate than
   direct transfer to AM fungi
 - Retention of carbon in AM mycelium contributes significantly to soil organic carbon
 - AM fungi believed to contribute greatly to carbon cycling in all types of grassland
@@ -73,7 +74,7 @@ pool can be estimated using 13C-labelling techniques.
 
 ## Interactions with Soil Pathogens
 
-Mycorrhizal fungi interact with root pathogens that parasitize feeder roots. In
+[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] interact with root pathogens that parasitize feeder roots. In
 natural ecosystems with low phosphorus uptake, a major role may be protection from
 endemic pathogens such as Fusarium spp.
 
@@ -81,7 +82,7 @@ Proposed protective mechanisms:
 
 1. **Mechanical barrier**: especially the ECM mantle to pathogen entry
 2. **Antibiotic production**: compounds that suppress pathogens
-3. **Nutrient competition**: including siderophore production
+3. **Nutrient competition**: including [[singh-fungal-siderophore-production-iron-acquisition]]
 4. **Induced host defense**: generalized defense mechanisms
 
 Mycorrhizae may stimulate root colonization by selected biocontrol agents, but

@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - "Cookies Fam Genetics. Official strain database." cookiesfam.com.
   - Leafly Staff. "Cereal Milk Strain Information." Leafly, 2023.
-  - Wikileaf. "Cereal Milk Cannabis Strain Review." wikileaf.com, 2023.
+  - Wikileaf. "Cereal Milk [[blesching-cannabis-strain-selection-receptor-targeting]] Review." wikileaf.com, 2023.
   - Blettel C. "Cereal Milk: A Cookies Cross Worth Trying."
     Weedmaps News, 2022.
   - AllBud. "Cereal Milk Marijuana Strain." allbud.com, 2023.
@@ -47,7 +47,7 @@ though phenotypic variation can lean slightly indica-dominant.
 
 Buds are medium to large, densely packed with a chunky, rounded
 structure typical of Cookies-family strains. Coloration ranges from
-deep forest green to olive, often accented by pale yellowish-green
+deep [[trichoderma-forest-green-mold-guide]] to olive, often accented by pale yellowish-green
 highlights and occasional purple patches under cooler conditions. A
 thick coating of milky-white trichomes gives buds a frosted, sugary
 appearance. Pistils are short, curly, and orange-amber.
@@ -66,13 +66,13 @@ pronounced fruitiness, while others lean into the dessert-like profile.
 
 ## Terpene Profile
 
-- **Limonene** (~0.5–1.0%): Citrus notes, mood elevation, stress
+- **[[limonene]]** (~0.5–1.0%): Citrus notes, mood elevation, stress
   relief
 - **Caryophyllene** (~0.3–0.7%): Peppery spice, anti-inflammatory
   activity
-- **Linalool** (~0.2–0.5%): Floral sweetness, anxiolytic properties
-- **Myrcene** (~0.3–0.6%): Earthy, herbal base, sedative effects
-- **Pinene** (~0.1–0.3%): Pine, mental clarity
+- **[[linalool]]** (~0.2–0.5%): Floral sweetness, anxiolytic properties
+- **[[myrcene]]** (~0.3–0.6%): Earthy, herbal base, sedative effects
+- **[[pinene]]** (~0.1–0.3%): Pine, mental clarity
 
 The terpene composition creates a distinctive creamy-sweet profile
 unusual among Cookies-family strains, which typically lean toward
@@ -86,7 +86,7 @@ earthy or diesel-dominant expressions.
 - **THCV:** Trace
 
 Cereal Milk is a high-THC, low-CBD strain. Potency varies with
-cultivation practices and harvest timing. Late-harvested specimens
+cultivation practices and [[cannabis-harvest-timing-visual-cues]]. Late-harvested specimens
 tend toward higher THC with increased sedative effects.
 
 ## Effects
@@ -110,9 +110,9 @@ daytime use at lower doses.
 **Yield:** Moderate to high (400–500 g/m² indoor)
 
 **Difficulty:** Intermediate — requires attention to humidity and
-nutrient management. Prefers warm, dry conditions (65–80°F) with
+[[green-cannabis-grow-bible-nutrient-management-ppm]]. Prefers warm, dry conditions (65–80°F) with
 moderate humidity (40–55% RH during flowering). Sensitive to high
-humidity — bud rot risk if airflow is insufficient. Responds well to
+humidity — [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]] risk if airflow is insufficient. Responds well to
 LST, scrog, and topping to maximize light penetration.
 
 ## Medical Applications
@@ -130,7 +130,7 @@ LST, scrog, and topping to maximize light penetration.
 - **Cereal Milk #1:** Most common commercial cut, balanced
   hybrid expression
 - **Cereal Milk BX1:** Backcrossed version with enhanced stability
-  and resin production
+  and [[cannabis-glandular-trichome-types-resin-production-clarke]]
 - **Cinnamon Milk:** Cereal Milk ×  cross
 - **Cereal Milk Breath:** Cereal Milk × Mendo Breath cross, heavier
   indica expression
@@ -141,4 +141,4 @@ LST, scrog, and topping to maximize light penetration.
 
 ## See Also
 - [[teaming-with-fungi-truffle-cultivation-basics]]
-- [[mushroom-cultivation-for-people-with-disabilities]]
+- mushroom-cultivation-for-people-with-disabilities

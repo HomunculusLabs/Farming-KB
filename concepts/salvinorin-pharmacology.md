@@ -17,7 +17,7 @@ it unique among naturally occurring [[hofmann-salvia-divinorum-discovery]] were 
 scientific attention by ethnobotanical research in the 1960s and
 1970s, when researchers documented the Mazatec use of the plant in
 divination ceremonies. The active compound, salvinorin A, was
-subsequently isolated and characterized through chemical analysis of
+subsequently isolated and characterized through [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of
 the plant's leaves.
 
 Research on the pharmacology of salvinorin A has accelerated since
@@ -65,7 +65,7 @@ substance:
   ent naturally occurring hallucinogen
 
 The extremely low effective dose means that very small amounts of
-Salvia divinorum leaf material can produce profound psychoactive
+[[golden-guide-salvia-divinorum-and-diviner-sage]] leaf material can produce profound psychoactive
 effects. A single leaf typically contains sufficient salvinorin A for
 multiple psychoactive doses.
 
@@ -93,7 +93,7 @@ hallucinogens:
 - Profound alterations in perception of reality and the boundaries of 
   self
 - Complete dissociation from the physical body, sometimes described as
-   "ego dissolution"
+   "[[psilocybin-ego-dissolution-mechanisms]]"
 - Vivid, immersive visionary experiences with complex imagery
 - Uncontrollable laughter or emotional catharsis
 - Synesthetic experiences blending different sensory modalities

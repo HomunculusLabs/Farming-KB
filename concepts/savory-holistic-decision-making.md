@@ -3,7 +3,7 @@ title: Holistic Decision-Making Framework
 created: 2026-04-26
 aliases: [holistic goal setting, HRM model, testing guidelines, holistic context]
 tags: [decision-making, goal-setting, management-framework, holism]
-related: [savory-holistic-management-overview, savory-ranch-financial-planning, savory-land-monitoring]
+related: [[savory-holistic-management-overview]], [[savory-ranch-financial-planning]], [[savory-land-monitoring]]
 type: concept
 sources:
   - "raw/papers/savory-holistic-resource-management.md"
@@ -12,7 +12,7 @@ updated: 2026-04-26
 
 # Holistic Decision-Making Framework
 
-The Holistic Management decision-making framework provides a structured process for making decisions that simultaneously consider economic, social, and ecological factors. At its heart is a "thought model" that enables practitioners to see the whole they are managing and test every action against a comprehensive goal.
+The [[savory-holistic-management-overview]] decision-making framework provides a structured process for making decisions that simultaneously consider economic, social, and ecological factors. At its heart is a "thought model" that enables practitioners to see the whole they are managing and test every action against a comprehensive goal.
 
 ## The Three-Part Goal
 
@@ -29,7 +29,7 @@ A description of what must be produced from the ecosystem to deliver the desired
 Multiple forms of production can coexist. A ranch might simultaneously pursue profitability from livestock, cultural preservation of historic sites, and aesthetic goals for riparian areas.
 
 ### Future Landscape Description
-A broad description of the landscape needed to sustain the production forms, which in turn sustain the quality of life. This description focuses not on current conditions but on what the landscape must become. It specifies how the four ecosystem processes—succession, water cycle, mineral cycle, and energy flow—must function.
+A broad description of the landscape needed to sustain the production forms, which in turn sustain the quality of life. This description focuses not on current conditions but on what the landscape must become. It specifies how the four [[fungal-ecosystem-processes-overview]]—succession, water cycle, [[savory-mineral-cycle-management]], and energy flow—must function.
 
 For example: "Open grassland at a high successional level with scattered trees and shrubs, a mosaic of brush thickets and grassland along river bottoms, providing high complexity and stability, good mineral and water cycles, and high energy flow."
 
@@ -53,7 +53,7 @@ Three common errors produce what Savory calls "nongoals":
 
 Before implementing any action, HRM practitioners run it through a series of testing questions. Each guideline addresses a different dimension of the decision:
 
-**Cause and Effect**: Does the action address the root cause or merely treat a symptom? This guideline is first because addressing symptoms rather than causes is the most pervasive error in resource management.
+**[[fukuoka-textdoc-no-cause-and-effect-in-nature]]**: Does the action address the root cause or merely treat a symptom? This guideline is first because addressing symptoms rather than causes is the most pervasive error in resource management.
 
 **Weak Link**: Every situation has a weakest point. Will the action strengthen the weakest link, or will it fail because that link remains unaddressed? Weak links can be social (people-related), biological (nature-related), or financial (money-related).
 
@@ -63,7 +63,7 @@ Before implementing any action, HRM practitioners run it through a series of tes
 
 **Energy/Wealth Source and Use**: Is the action based on a sustainable energy source (primarily solar energy captured by green plants) or does it depend on nonrenewable energy (fossil fuels, mined minerals)? Does the wealth generated build lasting community infrastructure or merely consume resources?
 
-**Society and Culture**: Will the action lead to the quality of life sought by the people involved? What will it do to the quality of life of others? Does it strengthen or undermine the social fabric, cultural values, and community institutions?
+**[[savory-society-and-culture-guideline]]**: Will the action lead to the quality of life sought by the people involved? What will it do to the quality of life of others? Does it strengthen or undermine the social fabric, cultural values, and community institutions?
 
 Technology must pass all these tests: it should benefit the whole ecosystem, be socially and culturally acceptable, strengthen the weakest link, address causes not symptoms, be economically sound, and reflect wise use of wealth and energy.
 
@@ -87,10 +87,11 @@ Goals are never set in concrete. They are continually under review and subject t
 
 ## Sources
 
-- Savory, Allan. *Holistic Resource Management*, Chapters 8 and 46. Island Press, 1988.
+- Savory, Allan. *[[savory-holistic-resource-management-animal-impact]] Management*, Chapters 8 and 46. Island Press, 1988.
 
 ## See Also
 
-- [[permaculture-designers-manual-grazing-management]]
+- permaculture-designers-manual-grazing-management
 - [[livestock-fencing-guide]]
 - [[glomalin-and-soil-carbon]]
+- [[savory-holistic-resource-management-decision-framework]]

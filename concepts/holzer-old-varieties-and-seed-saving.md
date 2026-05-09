@@ -1,16 +1,17 @@
 ---
-title: Holzer Old Varieties and Seed Saving
+title: Holzer holzer old varieties and seed saving and Seed Saving
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Old Varieties and Seed Saving
 
-Sepp Holzer's approach to preserving and breeding old plant varieties, and his philosophy on seed sovereignty. From his Practical Guide to Small-Scale Integrative Farming and Gardening.
+[[comparison-sepp-holzer-vs-biodynamic]]'s approach to preserving and breeding old plant varieties, and his philosophy on seed sovereignty. From his Practical Guide to Small-Scale Integrative Farming and Gardening.
 
 ## Why Old Varieties Are Best
 
@@ -67,7 +68,7 @@ This contradicts academic advice (which prefers seeds from the largest plants on
 - Nutritious, high-quality food develops an intense flavour
 - Contains many valuable substances
 - Works almost like a medicine, protecting people and animals from sickness
-- Anyone with a sense of taste (partially protected from ready meals and fast food) can determine seed quality
+- Anyone with a sense of taste (partially protected from ready meals and fast food) can determine [[solomon-seed-quality-and-germination-testing]]
 
 ### Breeding Goals
 
@@ -83,7 +84,7 @@ The numerous habitats and microclimates at the Krameterhof are useful for produc
 
 ### Physical Barriers
 
-- Hedges and particularly tall raised beds between varieties prevent cross-pollination
+- Hedges and particularly tall [[comparison-raised-beds-vs-hugelkultur]] between varieties prevent cross-pollination
 - Especially effective for wind-pollinated varieties
 
 ### Distance
@@ -101,8 +102,10 @@ Many varieties have arisen by chance cross-pollination on the Krameterhof. From 
 
 ## See Also
 
-- [[mollison-seed-resources-and-sovereignty]] — Mollison on seed resources
-- [[holzer-green-manure-crops]] — green manure and cover crops
+- [[holzer-seed-autonomy-preserving-old-varieties]]
+
+- mollison-seed-resources-and-sovereignty — Mollison on seed resources
+- [[holzer-green-manure-crops]] — [[comparison-green-manure-guide-vs-mulch-types-and-effects]] and [[gaias-garden-cover-crops-soil-building]]
 - [[holzer-green-manure-crop-compendium]]
 - [[holzer-green-manure-and-soil-building-plants]]
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]

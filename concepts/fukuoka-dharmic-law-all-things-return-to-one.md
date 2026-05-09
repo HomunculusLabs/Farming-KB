@@ -5,19 +5,20 @@ updated: 2026-04-16
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka's Dharmic Law That All Things Return to One
 
 ## Overview
 
-Masanobu Fukuoka proposes that beneath the many fragmentary laws of agricultural science lies a single, unifying principle he calls the "Dharmic Law That All Things Return to One." This is the philosophical cornerstone of his critique of scientific farming and the foundation upon which [[fukuoka-mu-nothingness-philosophy]] in Buddhist thought -- the empty fullness from which all forms arise and to which they return. The farmer who grasps this principle recognizes that fertility is not something added to the soil but something that emerges when the whole system is allowed to function as nature intended.
+Masanobu Fukuoka proposes that beneath the many fragmentary laws of agricultural science lies a single, unifying principle he calls the "Dharmic Law That All Things Return to One." This is the philosophical cornerstone of his [[fukuoka-critique-of-scientific-agriculture]] farming and the foundation upon which [[fukuoka-mu-nothingness-philosophy]] in Buddhist thought -- the empty fullness from which all forms arise and to which they return. The farmer who grasps this principle recognizes that fertility is not something added to the soil but something that emerges when the whole system is allowed to function as nature intended.
 
 The scientific approach identifies discrete phenomena and studies their interactions. The Dharmic Law suggests that what appears to be many interacting phenomena is actually one process viewed from different angles. This has profound implications for how we approach agriculture, ecology, and our relationship with the natural world.
 
 ## Fragmentary Laws as Scattered Images
 
-The different laws of agricultural science -- the law of diminishing returns, the law of minimum, and the law of compensation and cancellation -- are merely scattered images, as seen through the prisms of time and circumstance, of this fundamental law. Because these laws all derive from the same source and were originally one, it is natural that they should fuse together like stalks of rice at the base of the plant.
+The different laws of agricultural science -- the law of diminishing returns, the [[liebig-law-of-minimum-critique-natural-farming]], and the law of compensation and cancellation -- are merely scattered images, as seen through the prisms of time and circumstance, of this fundamental law. Because these laws all derive from the same source and were originally one, it is natural that they should fuse together like stalks of rice at the base of the plant.
 
 Man might just as well have chosen to group together the law of diminishing returns, the law of minimum, and the law of compensation and cancellation, and refer to these collectively as the "law of harmony." When we interpret this single law as several different laws, are we really explaining more of nature and achieving agricultural progress? Fukuoka argues emphatically: no.
 
@@ -39,7 +40,7 @@ These laws are fragments cut from the one law that flows at the source of nature
 
 ## Implications for Farming
 
-That the nature observed through these fragmentary laws differs fundamentally from true nature should come as no surprise. Scientific farming based on the application of such laws is vastly different from natural farming, which observes the basic principle of nature.
+That the nature observed through these fragmentary laws differs fundamentally from true nature should come as no surprise. Scientific farming based on the application of such laws is vastly different from [[comparison-natural-farming-vs-permaculture]], which observes the basic principle of nature.
 
 As long as natural farming stands on this unique law, it is guaranteed truth and possesses eternal life. For although the laws of scientific farming may be useful in examining the status quo, they cannot be used to develop better cultivation techniques. These laws cannot boost rice yields beyond those attainable by present methods, and are useful only in preventing reduced yields.
 
@@ -64,14 +65,14 @@ or weeds separately because these functions emerge from the whole system operati
 to its single organizing principle.
 The contrast with conventional agriculture is stark. A conventional farm applies nitrogen
 fertilizer (addressing one fragmentary law), sprays pesticides (addressing another), and tills
-for weed control (addressing a third). Each intervention disrupts the others: tillage destroys
-soil structure that fertilizer was meant to build, pesticides kill beneficial insects that
+for weed control (addressing a third). Each intervention disrupts the others: [[fukuoka-why-tillage-destroys-soil]]
+soil structure that fertilizer was meant to build, pesticides kill [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] that
 would have controlled pests naturally, and the entire system spirals toward greater dependency
 on external inputs. Fukuoka's approach — establish clover and straw, broadcast seed, do
 nothing else — works with the single unifying principle of natural succession and soil ecology.
-In permaculture design, this principle translates directly into the practice of designing from
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], this principle translates directly into the practice of designing from
 patterns to details: first understand the whole system's organizing pattern, then design
-interventions that support rather than override it. The [[fukuoka-four-principles-natural-farming]]
+interventions that support rather than override it. The 
 - [[fukuoka-natural-farming-philosophy-of-mu]]
 - [[fukuoka-observation-based-farming]]
 - [[von-liebig-law-of-the-minimum-and-fertilizer-history]]
@@ -79,3 +80,7 @@ interventions that support rather than override it. The [[fukuoka-four-principle
 - [[2c-d-pihkal-entry-23]]
 - [[fukuoka-nature-god-limits-of-knowledge]]
 - [[fukuoka-road-back-to-nature-overview]]
+
+## See Also
+
+- [[fouriers-law-heat-conduction]]

@@ -14,7 +14,7 @@ type: concept
 tags: [reference]
 ---
 # Fire-Resistant Landscape Design
-Bill Mollison addresses fire in [[mollison-designers-living-mulches-ground-covers]]: gravel, stone, concrete, brick
+Bill Mollison addresses fire in mollison-designers-living-mulches-ground-covers: gravel, stone, concrete, brick
   paving, or closely mown green lawns (maintained and irrigated)
 - Store firewood, fuel, and combustible materials well away from
   buildings (minimum 10 metres, preferably 20+ metres)
@@ -52,14 +52,14 @@ thick bark, or other fire-adapted characteristics:
 - Broad-leaved evergreens with high moisture content: Laurus (bay
   laurel), Arbutus (strawberry tree), Quercus ilex (holm oak in some
   conditions)
-- Ground covers: Some low-growing species maintain high moisture and
+- [[permaculture-plants-food-forest-ground-covers-bamboos]]: Some low-growing species maintain high moisture and
   resist ignition
 ### Fire-Susceptible Species (High Flammability)
 These should be avoided near buildings or carefully managed:
 - Resinous conifers: Pinus (pine), Cupressus (cypress), Juniperus
   (juniper) -- contain volatile oils and resins that burn intensely
 - Eucalyptus: Many species have highly flammable bark, leaves, and
-  volatile oils. Eucalypts drop copious bark and leaf litter that
+  volatile oils. Eucalypts drop copious bark and [[dighton-fungal-decomposition-leaf-litter-dynamics]] that
   accumulates as deep, aerated fuel beds
 - Heaths and heathers (Ericaceae family): contain flammable oils
 - Dry grasses: Annual grasses that cure (dry) in summer provide fine

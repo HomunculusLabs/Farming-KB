@@ -1,5 +1,5 @@
 ---
-title: "Kratky vs DWC (Deep Water Culture)"
+title: "Kratky vs DWC (cannabis-deep-water-culture-guide)"
 created: 2026-04-28
 tags: [hydroponics, growing-methods, water-culture, passive-systems, beginners]
 date: 2026-04-28
@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 # Kratky vs DWC (Deep Water Culture)
-Both Kratky and DWC (Deep Water Culture) are hydroponic methods where plant roots grow directly in nutrient solution rather than in soil. Despite sharing the same core principle — suspending roots in water — they differ fundamentally in complexity, cost, maintenance, and the types of growers they suit best.
+Both Kratky and DWC (Deep Water Culture) are hydroponic methods where plant roots grow directly in [[cannabis-nutrient-solution-preparation]] rather than in soil. Despite sharing the same core principle — suspending roots in water — they differ fundamentally in complexity, cost, maintenance, and the types of growers they suit best.
 ## Core Concept
 **DWC (Deep Water Culture)** submerges plant roots in an oxygenated nutrient solution using one or more air pumps and air stones to continuously dissolve oxygen into the water. Plants sit in net pots at the surface of the reservoir, with roots dangling into the aerated solution below. It is an *active* system requiring electricity.
 **Kratky Method** (named after Dr. B.A. Kratky of the University of Hawaii) is a *passive* variant of DWC. Roots grow down into the nutrient solution, but as the water level drops over time, an air gap forms between the water surface and the net pot. The upper portion of roots is exposed to air, absorbing oxygen passively. No air pump, no electricity, no moving parts.
@@ -17,7 +17,7 @@ Both Kratky and DWC (Deep Water Culture) are hydroponic methods where plant root
 1. Fill a reservoir (typically 5–30 gallons) with nutrient solution at the correct pH (5.5–6.5) and EC.
 2. Place an air pump outside the reservoir; run airline tubing to one or more air stones submerged at the bottom.
 3. Plants in net pots sit in a lid or raft that floats on the surface.
-4. The air pump runs 24/7, keeping dissolved oxygen (DO) levels high enough to prevent root rot.
+4. The air pump runs 24/7, keeping [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] (DO) levels high enough to prevent root rot.
 5. Monitor and top off nutrient solution as plants consume water; replace entirely every 1–2 weeks.
 ### Kratky Setup
 1. Fill a container (anything from a mason jar to a 5-gallon bucket) with nutrient solution to just below the net pot.
@@ -33,7 +33,7 @@ Both Kratky and DWC (Deep Water Culture) are hydroponic methods where plant root
 | **Maintenance** | Almost zero after planting | Regular: top-offs, pump checks, water changes |
 | **Cost to start** | Very low ($5–$20) | Low to moderate ($30–$100+) |
 | **Scalability** | Best for small setups, single plants | Easily scales to multi-site commercial |
-| **Nutrient management** | Set-and-forget (single fill) | Requires ongoing monitoring and adjustment |
+| **[[green-cannabis-grow-bible-nutrient-management-ppm]]** | Set-and-forget (single fill) | Requires ongoing monitoring and adjustment |
 | **pH stability** | Drifts over the cycle, not corrected | Monitored and adjusted regularly |
 | **Dissolved oxygen** | Relies on natural air gap formation | Actively maintained by air pump |
 | **Root rot risk** | Moderate (if gap doesn't form properly) | Low (with properly functioning aeration) |
@@ -45,7 +45,7 @@ Both Kratky and DWC (Deep Water Culture) are hydroponic methods where plant root
 **Yield:** DWC systems typically produce larger harvests per plant, especially for fruiting crops like tomatoes and peppers. Kratky yields are respectable for leafy greens — often comparable to DWC for short-cycle plants like lettuce — but fall behind for longer-cycle or heavier-feeding crops.
 **Plant size limitation:** Kratky works well for small to medium plants. Large, heavy-feeding plants (indeterminate tomatoes, large peppers, cucumbers) can exhaust the nutrient solution before completing their cycle or may suffer from insufficient oxygen in the root zone. DWC handles these larger plants more reliably because the constant aeration supports a denser root mass.
 ## Suitability by Plant Type
-- **Lettuce and leafy greens:** Both work excellently. Kratky is arguably the ideal method here — simple, cheap, and nearly hands-off for a 30–45 day cycle.
+- **[[lettuce-and-leafy-greens]]:** Both work excellently. Kratky is arguably the ideal method here — simple, cheap, and nearly hands-off for a 30–45 day cycle.
 - **Herbs (basil, cilantro, mint):** Both work well. Kratky's simplicity is a strong advantage for countertop herb gardens.
 - **Fruiting vegetables (tomatoes, peppers):** DWC is strongly preferred. The longer cycle and higher nutrient demands make Kratky's set-and-forget approach risky — plants may run out of nutrients or experience oxygen stress.
 - **Cucumbers and squash:** DWC recommended. These are heavy feeders with large root systems that benefit from consistent aeration.
@@ -65,7 +65,7 @@ Both Kratky and DWC (Deep Water Culture) are hydroponic methods where plant root
 **Choose Kratky if:**
 - You are a complete beginner wanting to try hydroponics with minimal investment
 - You want to grow lettuce, herbs, or other leafy greens on a windowsill or balcony
-- You are off-grid, in a location without reliable electricity, or want an emergency food production method
+- You are off-grid, in a location without reliable electricity, or want an emergency food [[clay-seed-pellet-production-method-concrete-mixer]]
 - You prefer a "plant it and walk away" approach with near-zero maintenance
 - You are a teacher or parent wanting a simple educational project
 **Choose DWC if:**
@@ -102,7 +102,7 @@ As a rule of thumb, Kratky works best when the container holds enough nutrient s
 | Slow growth overall | Low nutrient concentration initially | Low DO, check air pump and stones |
 | Tip burn on leaves | Nutrient solution too strong | EC too high, reduce nutrient strength |
 | Algae in reservoir | Light exposure | Light exposure (same fix: block light) |
-| Wilting despite full reservoir | Roots not reaching water, transplant shock | Root disease, check root health |
+| Wilting despite full reservoir | Roots not reaching water, [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]] | Root disease, check root health |
 | Foul odor from reservoir | Anaerobic conditions, stagnant water | Dead roots, insufficient aeration |
 ## Bottom Line
 Kratky is the gateway drug to hydroponics: dirt-cheap, dead simple, and genuinely effective for what it does. DWC is the workhorse: more setup, more maintenance, but more versatile, faster, and higher-yielding. For a homesteader growing a salad garden on the porch, Kratky is hard to beat. For a serious grower producing significant food year-round, DWC is the more capable tool. Many hydroponic growers start with Kratky, learn the basics of nutrient management and plant needs, then graduate to DWC when they outgrow the passive method's limitations — a natural progression that makes both methods valuable at different stages of a grower's journey.

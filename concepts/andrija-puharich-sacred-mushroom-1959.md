@@ -1,5 +1,5 @@
 ---
-title: "Andrija Puharich and The Sacred Mushroom (1959)"
+title: "Andrija Puharich and The allegro-the-sacred-mushroom-amanita-identification (1959)"
 created: 2026-04-26
 tags:
   - history
@@ -18,8 +18,8 @@ type: concept
 
 ## ESP, Egyptian Priests, and the Fly-Agaric in Maine
 
-Before [Gordon Wasson published his influential SOMA hypothesis, and well before the
-fly-agaric conspiracy theories reached their peak with John Allegro's
+Before [[gordon-wasson-comparative-method-ethnomycology]] published his influential [[amanita-muscaria-herb-of-immortality-soma-hypothesis]], and well before the
+fly-agaric conspiracy theories reached their peak with [[john-allegro]]'s
 The Sacred Mushroom and the Cross, an extraordinary text laid the
 groundwork for what would become a sub-genre of psychedelic literature.
 That text was Andrija Puharich's The Sacred Mushroom: Key to the Door of
@@ -27,7 +27,7 @@ Eternity, published in 1959.
 
 ## The Author
 
-Andrija Puharich (1918-1995) was born in the United States, the son of
+Andrija Puharich (1918-1995) was born in the [[dmt-containing-plants-united-states-halpern]], the son of
 immigrants. He trained as a physician, graduating from Northwestern
 University Medical School in 1947. However, he chose to devote his life
 not to medicine but to his first love, parapsychology, the study of
@@ -78,7 +78,7 @@ Puharich claimed to have undertaken a bioassay of the fly-agaric to
 determine its active ingredients. Of the three chemicals he 'discovered'
 -- muscarine, atropine and bufotenine -- only the first is actually
 present in the mushroom, and in such small amounts as to play no
-significant role in its psychopharmacology. As Jonathan Ott has noted,
+significant role in its psychopharmacology. As [[jonathan-ott]] has noted,
 Puharich was either an inept chemist or a fraud. Most probably, he
 fabricated the analysis and drew his conclusions from the incomplete
 scientific knowledge of the mushroom at the time.
@@ -96,7 +96,7 @@ To be fair, Puharich's interest in telepathy did not mark him out as
 particularly exceptional for the time. Cold War anxieties led to a
 flurry of parapsychological research in the late 1950s, with both the
 US Army and the Westinghouse Electric company seriously pursuing the
-military potential of ESP. Even Aldous Huxley and
+military potential of ESP. Even [[aldous-huxley]] and
 Gordon Wasson moved to participate in Puharich's experiments, though
 Wasson ultimately gave them short shrift.
 
@@ -107,7 +107,7 @@ According to his second wife, he developed a penchant for hosting
 mushroom bacchanals during the 1960s season, at which couples might
 ostentatiously and volubly make love to the accompaniment of operatic
 arias sung by appreciative onlookers, justifying them as legitimate
-scientific research. Despite these absurdities, The Sacred Mushroom
+[[psilocybin-isolation-and-early-scientific-research]]. Despite these absurdities, The Sacred Mushroom
 established a template that later conspiracy theorists would follow.
 
 ## Puharich's Later Career and CIA Connections

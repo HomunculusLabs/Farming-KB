@@ -13,8 +13,8 @@ type: query
 ## Short Answer
 Transitioning from synthetic to organic nutrients involves gradually phasing
 out mineral salt fertilizers while building soil biology through compost teas,
-microbial inoculants, and organic amendments. The shift typically takes one to
-three grow cycles and requires patience as the [[comparison-living-soil-vs-hydroponic]] with an active microbial community is
+microbial inoculants, and [[cervantes-organic-amendments-chart]]. The shift typically takes one to
+three grow cycles and requires patience as the [[comparison-living-soil-vs-hydroponic]] with an active [[edaphic-factors-microbial-community-structure]] is
 essential for organic growing to work well. Without enough bacteria, fungi, and
 protozoa in the root zone, organic amendments just sit there unused.
 
@@ -23,13 +23,13 @@ is at the beginning of a new vegetative cycle when you can introduce organic
 amendments from day one. Begin by reducing synthetic nutrient concentrations
 by 25 to 50 percent while simultaneously adding organic inputs like worm
 castings, compost, and [[cervantes-compost-tea-organic-brewing]] as a regular supplement, applying them every
-one to two weeks during vegetative growth. Actively aerated compost teas are
+one to two weeks during vegetative growth. Actively [[actively-aerated-compost-tea-aact-brewing]] teas are
 packed with beneficial bacteria and fungi that colonize the root zone and begin
 processing organic matter. You should also add fungal-dominated compost teas
-during early vegetative growth to establish mycorrhizal networks.
+during early vegetative growth to establish [[dighton-mycorrhizal-networks-carbon-transfer]].
 
 As your soil biology develops, you can further reduce synthetic inputs. By the
-second or third cycle, most growers find they can eliminate synthetic nutrients
+second or third cycle, most growers find they can eliminate [[query-organic-vs-synthetic-nutrients-cannabis]]
 entirely and rely on top-dressings of organic amendments, compost teas, and
 mulch. The organic vs synthetic
 comparison shows that organic plants may grow slightly slower during vegetative
@@ -52,7 +52,7 @@ that justifies the investment.
 
 ## Key Points
 - Transition gradually over one to three cycles by reducing synthetics while
-  building [[cervantes-compost-tea-organic-brewing]] and mycorrhizal inoculants to
+  building [[cervantes-compost-tea-organic-brewing]] and [[pgpr-mycorrhizal-inoculants-microplant-establishment]] to
   kickstart the microbial ecosystem
 - Use organic amendments like alfalfa meal, bone meal, kelp meal, and worm
   castings as nutrient sources
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

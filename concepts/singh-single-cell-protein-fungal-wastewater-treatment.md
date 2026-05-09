@@ -1,5 +1,5 @@
 ---
-title: "Single-Cell Protein from Fungal Wastewater Treatment"
+title: "Single-Cell Protein from Fungal mollison-designers-wastewater-treatment-wetlands"
 created: 2026-04-28
 tags: [mycoremediation, single-cell-protein, wastewater-treatment, fungal-biomass]
 date: 2026-04-25
@@ -20,7 +20,7 @@ processes.
 
 ## SCP from Starch-Processing Wastewater
 
-Fungal treatment of starch-processing wastewater produces marketable
+[[singh-biopile-fungal-treatment-contaminated-soil]] of starch-processing wastewater produces marketable
 biomass alongside effluent purification. Key findings include:
 
 - Biomass of 4.5 to 5.2 g dry weight per liter from 1 L of starch
@@ -56,7 +56,7 @@ productivity at 2.15 g/L per hour but with lower biomass yield.
 
 ## SCP from Dairy Industry Wastewater
 
-Kluyveromyces fragilis strains are employed for yeast biomass production
+Kluyveromyces fragilis strains are employed for yeast [[dighton-fungal-biomass-production-aquatic-ecosystems]]
 from whey, resulting in significant pollution load reduction. Lactose
 utilization requires a combination of lactose transport and lactase
 enzyme activity. Large-scale processes have operated for several years,
@@ -77,7 +77,7 @@ The amino acid profile of fungal SCP exceeds the FAO reference protein
 standard and is comparable to soybean and fish meal. Additional quality
 considerations include:
 
-- Essential amino acid profiles of SCP from distillery waste are greater
+- Essential amino acid profiles of SCP from [[fungal-distillery-waste-treatment]] are greater
   than FAO reference protein
 - Digestibility of Aspergillus awamori biomass from Shochu distillery
   wastewater reaches 52% without pretreatment, increasing to 62% after
@@ -114,15 +114,18 @@ Successful SCP production from wastewater requires careful control of:
 
 ## Economic Considerations
 
-SCP production costs from fungal wastewater treatment are competitive
+SCP [[fukuoka-textdoc-production-costs-not-coming-down]] from fungal wastewater treatment are competitive
 with conventional protein sources. Fed-batch fermentation of C. utilis
 on molasses produces biomass at $2.76/kg dry cells, matching commercial
 pricing. Revenue from SCP sales can offset wastewater treatment costs,
-making fungal bioremediation economically sustainable for food-processing
+making [[staycare-composting-as-a-fungal-bioremediation-strategy]] economically sustainable for food-processing
 industries.
 
 ## See Also
 
-- [[singh-fungal-treatment-industrial-wastewaters-overview]]
-- [[singh-mushroom-cultivation-on-agricultural-wastes]]
+- singh-fungal-treatment-industrial-wastewaters-overview
+- singh-mushroom-cultivation-on-agricultural-wastes
 - [[singh-fungal-bioreactor-types-configurations]]
+- [[singh-olive-mill-wastewater-fungal-treatment]]
+- [[singh-starch-oil-wastewater-fungal-treatment]]
+- [[singh-constructed-wetlands-fungal-wastewater-treatment]]

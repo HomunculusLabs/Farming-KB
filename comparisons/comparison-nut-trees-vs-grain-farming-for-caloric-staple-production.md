@@ -24,7 +24,7 @@ type: comparison
 
 # Nut Trees vs Grain Farming for Caloric Staple Production
 
-The question of whether nut trees or annual grains should form the caloric foundation of a food system is one of the most consequential in regenerative agriculture. This comparison examines yield, labor, ecological impact, resilience, and nutritional quality of these two fundamentally different approaches to staple food production.
+The question of whether nut trees or annual grains should form the caloric foundation of a food system is one of the most consequential in regenerative agriculture. This comparison examines yield, labor, ecological impact, resilience, and [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of these two fundamentally different approaches to staple food production.
 
 ## At a Glance
 
@@ -60,9 +60,9 @@ The question of whether nut trees or annual grains should form the caloric found
 | **Acorns** | 1–6 million | Highly variable by species and year; virtually unmanaged potential |
 | **Mixed nut polyculture** | 3–8 million | Combined yield from multiple species |
 **Key takeaway**: Annual grains currently out-produce nut trees in raw caloric yield per hectare by a factor of 2–5×. However, this gap narrows significantly when accounting for:
-- Fossil fuel inputs in grain production (which subsidize yields)
+- Fossil fuel inputs in [[fukuoka-no-till-grain-production-method]] (which subsidize yields)
 - The 5–15 year establishment period (nut trees produce for 50–200+ years afterward)
-- Multi-functional yields from nut tree systems (fruit, fodder, timber, ecosystem services)
+- Multi-functional yields from nut tree systems (fruit, fodder, timber, [[biodiversity-of-fungi-ecosystem-services-agriculture]])
 - Degraded land where annual crops fail but nut trees thrive
 
 ### Protein and Fat Yield
@@ -85,12 +85,12 @@ Nut trees dramatically outperform grains in **fat production** and are competiti
 | Factor | Nut Trees | Annual Grains |
 |--------|-----------|---------------|
 | **Soil erosion** | 0.01–0.1 t/ha/yr | 5–30 t/ha/yr (US average ~5 t/ha/yr) |
-| **Soil organic carbon** | Increasing over time | Declining without heavy inputs |
+| **Soil [[dighton-fungal-dissolved-organic-carbon-production]]** | Increasing over time | Declining without heavy inputs |
 | **Soil structure** | Improved by root channels and litter | Degrading under tillage |
-| **Mycorrhizal networks** | Abundant, permanent | Disrupted annually by tillage |
+| **[[dighton-mycorrhizal-networks-carbon-transfer]]** | Abundant, permanent | Disrupted annually by tillage |
 | **Topsoil generation** | Net positive | Net negative |
 
-Nut tree systems build soil rather than consuming it. A mature food forest with nut trees generates 2–5 cm of topsoil per decade through leaf litter decomposition, root turnover, and biological activity. Annual grain farming, even with no-till practices, generally cannot match this rate of soil building and often loses topsoil despite conservation efforts.
+Nut tree systems build soil rather than consuming it. A mature food forest with nut trees generates 2–5 cm of topsoil per decade through leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]], root turnover, and biological activity. Annual grain farming, even with no-till practices, generally cannot match this rate of soil building and often loses topsoil despite conservation efforts.
 
 ### Water Use and Management
 

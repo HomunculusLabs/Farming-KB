@@ -5,7 +5,7 @@ updated: 2026-04-14
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  sources: []
 ---
 # Growing Tree Fruit [[pruning-fruit-trees-and-bushes]] Organically
 
@@ -23,7 +23,7 @@ Rootstocks limit tree size; fans and espaliers are suitable for walls; and even 
 
 **Planting:** Plant bare-root in early winter. Prune at planting.
 
-**Pests and diseases:** Codling moth, woolly aphid, canker, apple scab, powdery mildew. Choose resistant varieties where possible. Encourage birds and predatory insects.
+**[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]:** Codling moth, woolly aphid, canker, apple scab, [[cervantes-powdery-mildew-prevention-treatment]]. Choose resistant varieties where possible. Encourage birds and predatory insects.
 
 ## Pears
 
@@ -45,7 +45,7 @@ Easy to grow with heavy crops. Risk from late-spring frosts.
 
 **Varieties:** Stanley is recommended.
 
-**Fan-training:** A 5-step process -- establish a central leader, train branches at 45-degree angles, tie to wires, shorten extension growth by half, repeat annually.
+**Fan-training:** A 5-step process -- establish a [[comparison-central-leader-vs-open-center-fruit-tree-training]], train branches at 45-degree angles, tie to wires, shorten extension growth by half, repeat annually.
 
 **Pruning:** Prune in midsummer for established trees to avoid silver leaf disease infection.
 
@@ -59,7 +59,7 @@ Need well-drained soil and full sun. Best grown as fans on a south wall.
 
 ## Apricots
 
-Prefer light soils with added organic matter, pH around 6.0. Very sunny, sheltered position essential. Varieties: Alfred, Moorpark. Hand pollination needed (flower early). Same pest/disease profile as peaches.
+Prefer light soils with added [[hamilton-composting-and-organic-matter-management]], pH around 6.0. Very sunny, sheltered position essential. Varieties: Alfred, Moorpark. Hand pollination needed (flower early). Same pest/disease profile as peaches.
 
 ## Figs
 
@@ -84,14 +84,16 @@ Large, slow-growing trees. Self-pollinating.
 ## General Care
 
 - Apply one bucket of compost or manure per square yard/meter as mulch in spring
-- Feed with general organic fertilizer in spring if not mulched
-- Ensure good drainage and air circulation
+- Feed with general [[complete-organic-fertilizer-cof-recipe-solomon]] in spring if not mulched
+- Ensure good drainage and [[stamets-growing-room-air-circulation-co2-management]]
 - Net all fruit against birds
 - Prune at appropriate times (stone fruits in summer to avoid disease; apples/pears in winter)
 - Choose disease-resistant rootstocks and varieties
 - Maintain biodiversity around trees to encourage natural pest predators
 
 ## Related
+
+- [[growing-legumes-organically]]
 
 - [[organic-fruit-tree-care-calendar]]
 - [[urban-guerrilla-gardening]]

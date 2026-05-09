@@ -1,10 +1,11 @@
 ---
-title: "Mulch vs Living Mulch"
+title: "comparison mulch vs living mulch Mulch"
 created: 2026-04-28
 tags: [comparison, soil, mulch, ground-cover, no-till]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: comparison
 ---
@@ -19,7 +20,7 @@ biological activity and long-term impact on soil ecosystems. Conventional mulch
 is dead organic material applied as a surface layer that decomposes passively,
 while living mulch is actively growing vegetation maintained as permanent ground
 cover that fixes nitrogen, exudes root compounds, and self-renews. The choice
-between them shapes soil biology, nutrient cycling, and long-term garden
+between them shapes soil biology, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and long-term garden
 management strategies, and many successful systems combine elements of both
 approaches.
 
@@ -29,7 +30,7 @@ approaches.
 
 Living mulch uses actively growing, low-growing plants as permanent ground cover
 beneath or between crops. White clover is the most widely used living mulch
-species, valued for its nitrogen fixation through root nodules, drought
+species, valued for its [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] through root nodules, drought
 tolerance, shade tolerance, and ability to coexist with a wide range of crop
 plants. Other species include creeping thyme for dry conditions and various
 low-growing legumes selected for specific climate and soil conditions. Unlike
@@ -39,7 +40,7 @@ biology year-round.
 
 The primary advantage of living mulch is its regenerative capacity. Once
 established, it requires no external inputs to maintain itself, continuously
-building soil organic matter and nitrogen reserves through biological fixation
+building soil [[hamilton-composting-and-organic-matter-management]] and nitrogen reserves through biological fixation
 and root turnover. Living mulch root systems improve soil structure through
 persistent channel formation, enhance water infiltration, and support 
 mycorrhizal
@@ -91,11 +92,11 @@ new garden on previously bare or degraded land.
 Living mulch is ideal for no-till farming systems, permaculture food forests,
 orchard understories, and any long-term growing area where reducing external
 inputs and building self-sustaining soil fertility are priorities. It is the
-superior choice for gardeners seeking biological nitrogen fixation to replace
+superior choice for gardeners seeking [[biological-nitrogen-fixation-agriculture]] fixation to replace
 synthetic fertilizers, continuous root exudation to maintain year-round soil
 biological activity, and persistent root systems to improve soil structure and
 water infiltration. Living mulch works particularly well in Fukuoka-style grain
-rotations, permanent pasture systems, and homestead-scale vegetable production.
+rotations, permanent pasture systems, and homestead-scale [[dry-gardening-unirrigated-vegetable-production-solomon]].
 
 ## Hybrid Approaches
 
@@ -107,6 +108,8 @@ the living mulch matures and provides adequate ground cover, dead mulch
 applications can be reduced or eliminated. In orchard systems, wood chip mulch
 around tree trunks provides immediate fungal dominance while clover between rows
 ## See Also
+
+- [[comparison-living-mulch-vs-mulch]]
 
 - [[comparison-living-mulch-vs-cover-crops]]
 - [[comparison-no-till-vs-conventional-tillage]]

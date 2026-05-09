@@ -5,16 +5,16 @@ updated: 2026-04-19
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 
 Updated: 2026-04-18
 
-Hardy-Weinberg Equilibrium is the principle that in a large, randomly mating population, allele frequencies remain constant from generation to generation unless disrupted by specific forces. Understanding this is essential for cannabis breeding and strain stabilization.
+Hardy-Weinberg Equilibrium is the principle that in a large, randomly mating population, allele frequencies remain constant from generation to generation unless disrupted by specific forces. Understanding this is essential for [[oner-cannabis-breeding-fundamentals]] and strain stabilization.
 
 ## Basic Principle
 
-In a stable population, the gene pool maintains a constant ratio of alleles. If 80% carry allele S and 20% carry allele s, this ratio persists across generations — assuming no outside forces act on the population.
+In a stable population, the [[cannabis-gene-pool-preservation-acclimatization-clarke]] maintains a constant ratio of alleles. If 80% carry allele S and 20% carry allele s, this ratio persists across generations — assuming no outside forces act on the population.
 
 The mathematical formula p² + 2pq + q² = 1 describes the expected genotype frequencies, where p is the frequency of the dominant allele and q is the frequency of the recessive allele. For cannabis breeders, this formula allows prediction of offspring trait ratios when parental genotypes are known, forming the mathematical foundation of [[cannabis-true-breeding-ibl-strains]] with multiple locked-down traits require many generations and very large populations to achieve.
 
@@ -104,4 +104,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

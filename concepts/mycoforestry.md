@@ -5,12 +5,13 @@ updated: 2026-04-12
 type: concept
 tags: [mycology, forestry, trees, mycorrhizae, restoration, ecology]
 sources:
-  - raw/papers/mycelium-running-stamets.md
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Mycoforestry
 
-Using fungi to restore, protect, and enhance forests. One of the four branches of [[mycorestoration-overview]]. From Chapter 6 of *Mycelium Running* by [[paul-stamets]].
+Using fungi to restore, protect, and enhance forests. One of the four branches of [[mycorestoration-overview]]. From Chapter 6 of *[[woodlovers-mycelium-running-pathway-technique]]* by [[paul-stamets]].
 
 ## The Problem
 
@@ -30,7 +31,7 @@ Instead of burning brush:
 2. Leave chips on the forest floor (4-6 inches deep around replanted trees)
 3. Inoculate with mycorrhizal and saprophytic species
 4. Fungi decompose chips over 2-5 years into rich soil
-5. Benefits: moisture retention, nutrient cycling, fire prevention, erosion control
+5. Benefits: moisture retention, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], fire prevention, [[permplant-willows-salix-erosion-control-fodder]]
 
 ### 2. Mycorrhizal Inoculation at Planting
 
@@ -54,14 +55,14 @@ See [[mycofiltration-overview]] for detailed methods. Key points:
 ### For Stump Inoculation (Combating Armillaria Blight)
 Armillaria (honey mushroom) causes root rot in conifers. Stumps inoculated with these species resist Armillaria:
 - **Sparassis crispa** (cauliflower mushroom) — parasitic on conifer roots, outcompetes Armillaria
-- **Hypholoma capnoides** (woodlover) — grows on conifer stumps, blocks Armillaria
-- **Trametes versicolor** (turkey tail) — aggressive white rot, general stump competitor
+- **[[growing-gourmet-hypholoma-capnoides-cultivation]]** (woodlover) — grows on conifer stumps, blocks Armillaria
+- **[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]** (turkey tail) — aggressive white rot, general stump competitor
 - **Ganoderma applanatum** (artist conk) — large, persistent fruiting on stumps
 
 ### For Mycorrhizal Partnership
 - **Rhizopogon parksii** — ectomycorrhizal with cedar
 - **Pisolithus tinctorius** — ectomycorrhizal with many conifers; drought-tolerant
-- **Amanita muscaria** — iconic mycorrhizal partner with birch, pine, spruce
+- **[[allegro-amanita-muscaria-properties-and-pharmacology]]** — iconic mycorrhizal partner with birch, pine, spruce
 - **Suillus** species — mycorrhizal with pines
 - **Laccaria** species — generalist ectomycorrhizae, good for nursery inoculation
 

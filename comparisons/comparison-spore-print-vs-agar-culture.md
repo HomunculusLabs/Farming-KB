@@ -16,7 +16,7 @@ Spore printing captures mushroom spores for identification, storage, and
 starting cultivation from wild specimens. Agar culture provides a sterile
 nutrient medium for isolating, propagating, and maintaining pure mushroom
 mycelium strains. Both are fundamental mycology skills that serve distinct
-purposes in the mushroom cultivation workflow.
+purposes in the [[accessible-mushroom-cultivation-for-disabilities]] workflow.
 
 ## Overview
 
@@ -29,10 +29,10 @@ surface, where they germinate and grow as visible mycelium. The cultivator
 can then select the most vigorous, rhizomorphic sectors for transfer to
 fresh plates, gradually isolating a pure strain with desirable traits.
 
-Agar work requires sterile technique: a pressure cooker for sterilization,
+Agar work requires [[cultivator-sterile-technique-and-agar-culture]]: a pressure cooker for sterilization,
 a still-air box or laminar flow hood for inoculation, and careful handling
 to prevent contamination. The learning curve is significant but the rewards
-include genetic consistency, strain improvement through selection, and the
+include genetic consistency, [[mushroom-strain-improvement-and-breeding-methods]] through selection, and the
 ability to maintain library cultures for long-term use.
 
 ## Key Differences
@@ -51,7 +51,7 @@ ability to maintain library cultures for long-term use.
 
 ## When to Choose Spore Printing
 
-Choose spore printing for mushroom identification and taxonomy work. Spore
+Choose spore printing for [[psilocybin-mushroom-identification-guide]] and taxonomy work. Spore
 color is one of the most reliable field identification characteristics, and
 a clean print provides definitive information. Spore printing is essential
 when starting cultivation from wild specimens, since it captures the
@@ -68,7 +68,7 @@ diversity provides resilience against environmental variation.
 
 Choose agar culture for strain isolation and improvement. When you find a
 wild mushroom with exceptional characteristics, agar work lets you isolate
-and propagate that specific genotype. Commercial spawn production depends
+and propagate that specific genotype. Commercial [[growing-gourmet-sawdust-spawn-production-use]] depends
 entirely on agar-derived pure cultures to ensure consistency from batch to
 batch. Cloning exceptional fruiting bodies by transferring tissue directly
 to agar captures proven genetics. Long-term culture preservation through
@@ -76,7 +76,7 @@ master slant libraries ensures you never lose a valuable strain.
 
 Agar culture also serves as a diagnostic tool. Contamination on a plate is
 visible and identifiable, allowing cultivators to clean up cultures before
-they reach grain spawn. Mycelial growth characteristics on agar reveal
+they reach grain spawn. [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] characteristics on agar reveal
 information about strain vigor, sectoring, and health that invisible spore
 suspensions cannot provide.
 
@@ -106,6 +106,6 @@ competent mushroom cultivation at any scale.
 ## See Also
 
 - [[agar-work-guide]]
-- [[sterile-technique-mushroom-cultivation]]
+- [[mushroom-cultivation-sterile-technique]]
 - [[agar-culture-techniques-detailed]]
 - [[comparison-agar-vs-liquid-culture]]

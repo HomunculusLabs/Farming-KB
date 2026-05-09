@@ -14,8 +14,8 @@ type: concept
 Some fungi possess the ability to survive in environments containing
 excessive concentrations of metal ions, developing metal resistance
 through various cellular and molecular mechanisms. Understanding these
-mechanisms is essential for improving fungal bioremediation strategies
-and for developing bioengineered strains with enhanced metal tolerance
+mechanisms is essential for improving fungal [[comparison-bioremediation-strategies-vs-biostimulation-techniques]]
+and for developing bioengineered strains with enhanced [[fungal-metal-tolerance-mechanisms]]
 and accumulation capabilities.
 
 ## Mechanisms of Metal Resistance
@@ -44,7 +44,7 @@ Different fungal species produce distinct metallothionein responses:
 - **Candida glabrata**: High Cu(II) concentrations trigger MT production;
   Cd(II) stress primarily induces phytochelatin response
 - **Neurospora crassa**: Synthesizes MT belonging to family 8 of MT
-  classes only upon copper exposure, not due to oxidative stress
+  classes only upon copper exposure, not due to [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
 - **Heliscus lugdunensis**: Increases GSH pool with increasing Cd(II)
   concentration; cadmium stress responds to simultaneous MT and PC
   induction
@@ -55,7 +55,7 @@ chelating properties are differentiated and refined.
 
 ## Phosphatase-Mediated Resistance
 
-Acid phosphatases participate in heavy metal resistance mechanisms,
+Acid phosphatases participate [[singh-mycorrhizal-fungi-in-heavy-metal-phytostabilization]] resistance mechanisms,
 though their role remains less characterized than chelation pathways:
 
 - **Aspergillus niger**: Produces extracellular and cellular acid
@@ -75,7 +75,7 @@ S. pombe serves as a model system for studying cadmium chelation and
 transport. Key genetic findings include:
 - The **hmt1 gene** encodes a vacuolar membrane protein belonging to
   the ATP-binding cassette (ABC) type transporter family, responsible
-  for heavy metal resistance
+  [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]] resistance
 - Cadmium tolerance requires two purine biosynthetic enzymes,
   suggesting metabolic linkages between nucleotide synthesis and metal
   detoxification pathways
@@ -114,7 +114,7 @@ over extended operational periods.
 Different metals elicit distinct adaptive responses in fungi. Copper
 exposure primarily induces metalllothionein production, while cadmium
 stress triggers both MT and phytochelatin pathways along with GSH
-pool expansion. Zinc tolerance may involve different transport proteins
+pool expansion. Zinc tolerance may involve different [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]
 and storage mechanisms. Arsenic and selenium detoxification often
 proceeds through methylation and volatilization pathways rather than
 chelation, adding another dimension to the fungal metal resistance
@@ -132,6 +132,8 @@ metal-resistant fungal strains could be deployed for:
 
 ## See Also
 
+- [[ion-selective-microelectrodes-ectomycorrhizal-roots]]
+
 - [[singh-fungal-interactions-with-heavy-metals-in-soil]]
 - [[singh-genetically-engineered-fungi-bioremediation]]
-- [[fungal-bioaccumulation-heavy-metals]]
+- fungal-bioaccumulation-heavy-metals

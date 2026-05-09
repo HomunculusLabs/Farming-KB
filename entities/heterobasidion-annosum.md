@@ -16,7 +16,7 @@ sources:
 
 # Heterobasidion annosum
 
-Heterobasidion annosum is one of the most economically important forest pathogens in the temperate and boreal zones of the Northern Hemisphere. It causes annosum root rot and butt rot in coniferous trees, resulting in significant timber losses, increased tree mortality, and reduced forest productivity in both managed and natural forests across Europe, North America, and Asia.
+Heterobasidion annosum is one of the most economically important forest pathogens in the temperate and boreal zones of the Northern Hemisphere. It causes annosum root rot and butt rot in coniferous trees, resulting in significant timber losses, increased tree mortality, and reduced [[fukuoka-textdoc-forest-productivity-without-fertilizer]] in both managed and natural forests across Europe, [[psilocybin-north-america-pacific-northwest]], and Asia.
 
 ## Taxonomy and Classification
 
@@ -24,7 +24,7 @@ H. annosum is a basidiomycete polypore in the Bondarzewiaceae within the Russula
 
 - The "S" type (European), primarily attacking Picea abies (Norway spruce)
 - The "P" type (European), primarily attacking Pinus sylvestris (Scots pine)
-- The "F" type (North American), primarily attacking fir and hemlock species
+- The "F" type ([[growing-gourmet-north-american-reishi-species]]), primarily attacking fir and hemlock species
 - Additional groups with varying host specializations
 
 The species complex is a perennial, wood-decaying basidiomycete that forms bracket-like basidiocarps on infected stumps, roots, and the bases of living trees.
@@ -41,7 +41,7 @@ The fungus typically infects fresh stump surfaces after thinning or harvesting o
 
 Once established in a tree, H. annosum causes:
 
-- A white rot of roots and butts, progressively weakening the structural integrity of the tree
+- A [[comparison-brown-rot-vs-white-rot-bioremediation]] of roots and butts, progressively weakening the structural integrity of the tree
 - Reduced growth rates due to root system damage
 - Increased susceptibility to windthrow and secondary attack by insects and other pathogens
 - Mortality of severely infected trees
@@ -62,7 +62,7 @@ The H. annosum species complex infects a wide range of coniferous hosts includin
 - Tsuga species (hemlock)
 - Larix species (larch)
 
-Different intersterility groups show host specialization, with some forms preferentially attacking pines and others attacking spruces or firs. This host specialization has important implications for disease management in mixed-species forests.
+Different intersterility groups show host specialization, with some forms preferentially attacking pines and others attacking spruces or firs. This host specialization has important implications for [[plant-disease-management-solomon]] in mixed-species forests.
 
 ## Biological Control and Antagonists
 
@@ -90,7 +90,7 @@ Additional antagonists that have been studied include various Trichoderma specie
 H. annosum sporocarps serve as substrates for several fungicolous fungi, providing microhabitats for specialized mycoparasitic organisms:
 
 - **sphaerostilbella-broomeana** (teleomorph of Gliocladium microspermum): A fungicolous species specifically recorded on H. annosum sporocarps (Poldmaa 1999; Gams and van Zaayen 1982). This species forms its own fruiting structures on the surface of H. annosum basidiocarps
-- Various other fungi may colonize dead or dying H. annosum sporocarps as part of the natural fungal succession on decaying polypore brackets
+- Various other fungi may colonize dead or dying H. annosum sporocarps as part of the natural [[dighton-fungal-succession-disturbance]] on decaying polypore brackets
 
 ## Host Defense Responses
 

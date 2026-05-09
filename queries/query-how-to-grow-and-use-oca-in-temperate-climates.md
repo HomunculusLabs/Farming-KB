@@ -1,5 +1,5 @@
 ---
-title: "How to Grow and Use Oca in Temperate Climates"
+title: "How to Grow and Use query how to grow and use oca in temperate climates Climates"
 tags: [oca, growing-guide, temperate-climates, root-crops, daylength, tuber-crops, faq, cultivation]
 created: 2026-05-03
 updated: 2026-05-03
@@ -11,7 +11,7 @@ type: query
 
 ## When should I plant oca?
 
-Plant oca in spring after the last expected frost, once soil temperatures reach 8–10°C. In most temperate regions this means April to mid-May. Pre-sprout tubers indoors 3–4 weeks before planting by placing them in trays of damp potting mix in a bright, cool location (10–15°C). This gives the plants a head start on the short [[query-how-to-use-neem-oil-for-cannabis-pest-control]]
+Plant oca in spring after the last expected frost, once soil temperatures reach 8–10°C. In most temperate regions this means April to mid-May. Pre-sprout tubers indoors 3–4 weeks before planting by placing them in trays of damp [[solomon-potting-mix-and-seedling-soil-recipe]] in a bright, cool location (10–15°C). This gives the plants a head start on the short [[query-how-to-use-neem-oil-for-cannabis-pest-control]]
 - [[solomon-climate-zones-and-growing-seasons]]
 
 - comparison-oca-vs-potato
@@ -144,4 +144,6 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
+## See Also
 
+- [[query-how-to-grow-and-use-chicory]]

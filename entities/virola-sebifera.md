@@ -12,8 +12,8 @@ updated: 2026-04-28
 sources:
   - Schultes, R.E. (1969). "Virola as an Oral Hallucinogen Among the Bororo and Pataxó Indians of Brazil." Botanical Museum Leaflets, Harvard University 22(7): 221-230.
   - Schultes, R.E. & Hofmann, A. (1980). "The Botany and Chemistry of Hallucinogens." 2nd ed. Charles C. Thomas.
-  - Prance, G.T. (1972). "A Field Guide to the Common Trees of the Amazon." Amazon Conservation Association.
-  - Rivier, L. & Lindgren, J.E. (1972). "Ayahuasca: The South American Hallucinogenic Drink—An Ethnobotanical and Chemical Investigation." Economic Botany 26(2): 101-129.
+  - Prance, G.T. (1972). "A [[ghouled-field-guide-historical-context]] to the Common Trees of the Amazon." Amazon Conservation Association.
+  - Rivier, L. & Lindgren, J.E. (1972). "Ayahuasca: The [[chiric-caspi-brunfelsia-south-american-hallucinogen]] Hallucinogenic Drink—An Ethnobotanical and Chemical Investigation." Economic Botany 26(2): 101-129.
 ---
 
 # Virola sebifera
@@ -64,7 +64,7 @@ Like other Myristicaceae, *V. sebifera* is dioecious, with male and female flowe
 
 ### Fruit and Seeds
 
-The fruit is a fleshy, dehiscent capsule, 2–4 cm long, that splits open when ripe to reveal a single seed enclosed in a bright red or orange aril.
+The fruit is a fleshy, dehiscent capsule, 2–4 cm long, that splits open when ripe to reveal a [[cervantes-selfing-single-seed-descent]] enclosed in a bright red or orange aril.
 
 The aril is rich in lipids and is eagerly consumed by birds, which serve as the primary seed dispersal agents.
 
@@ -72,7 +72,7 @@ The seed oil, known locally as "ucuuba butter," has traditional uses as a candle
 
 ## Distribution and Habitat
 
-*V. sebifera* is distributed from southern Mexico through Central America to the Amazon basin, reaching as far south as Bolivia and Brazil's Paraná region.
+*V. sebifera* is distributed from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to the Amazon basin, reaching as far south as Bolivia and Brazil's Paraná region.
 
 It occurs in lowland tropical rainforest at elevations up to 800 meters, in both primary and secondary growth forests.
 
@@ -108,7 +108,7 @@ As a canopy tree, *V. sebifera* provides habitat, food, and nesting sites for nu
 
 The timber is moderately dense and workable, used locally for construction, furniture, and boat building, though it is not a major commercial timber species.
 
-Ucuuba butter extracted from the seed aril is used in traditional medicine for wound healing, skin conditions, and as a massage oil.
+Ucuuba butter extracted from the seed aril is used in traditional medicine for wound healing, [[cannabis-for-skin-conditions-detailed]], and as a massage oil.
 
 Modern cosmetic and soap industries have shown interest in ucuuba butter as a sustainable alternative to palm oil in certain formulations.
 

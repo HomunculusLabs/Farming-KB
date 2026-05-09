@@ -48,7 +48,7 @@ Cannabis has been part of traditional medicine's treatment of eye disease for mi
 | 5 mg Delta-9-THC sublingual | 6 patients with ocular hypertension (2006, Aberdeen, UK) | Single dose reduced IOP temporarily; well tolerated | 5 |
 | WIN55,212-2 (synthetic cannabinoid) | Animal study, rabbits (2000, Louisville, KY) | IOP reduction mediated by CB1 receptors in the eye | 3 |
 | 0.05% and 0.1% THC topical solution | 6 glaucoma patients (1981) | Topical treatment ineffective; smoked THC lowered ocular and systolic pressure | 3 |
-| 2.8% THC inhalation | Human clinical trial (1979, Howard University, DC) | Reduced blood pressure and IOP while maintaining adequate perfusion | 3 |
+| 2.8% THC inhalation | Human [[psilocybin-clinical-trial-landscape-2020-2025]] (1979, Howard University, DC) | Reduced blood pressure and IOP while maintaining adequate perfusion | 3 |
 | 2 gm inhaled cannabis (0.9% THC) | 11 healthy youths (1971) | Substantial decrease in IOP in 9 of 11 subjects | 3 |
 | **Total CHI Value** | | | **19** |
 

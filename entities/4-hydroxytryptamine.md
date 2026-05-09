@@ -31,7 +31,7 @@ The discovery and characterization of this pathway, particularly the identificat
 
 The structural isomerism between 4-hydroxytryptamine (4-HT) and [[serotonin]] is a potent agonist at 5-HT₁, 5-HT₂, 5-HT₃, 5-HT₄, 5-HT₆, and 5-HT₇ receptor families, while 4-HT shows a more restricted receptor profile with generally lower potency.
 - **Metabolic fate**: Both compounds are substrates for monoamine oxidase (MAO), but the rates and patterns of oxidative deamination differ. 4-HT may be metabolized more slowly than [[serotonin]] is a high-affinity substrate for the serotonin transporter (SERT), which is responsible for its reuptake from the synaptic cleft. 4-HT has not been thoroughly characterized as a SERT substrate.
-- **Tissue distribution**: [[serotonin]] receptor binding and activation. Comparing the activity of 4-HT with [[psilocybin]] biosynthetic pathway in fungal cultures.
+- **Tissue distribution**: [[serotonin]] [[tihkal-receptor-binding-serotonin]] and activation. Comparing the activity of 4-HT with [[psilocybin]] biosynthetic pathway in fungal cultures.
 - **Metabolic studies**: Measurement of 4-HT levels in [[psilocybin]] biosynthetic gene cluster has enabled biotechnological approaches to producing 4-hydroxytryptamine and its derivatives:
 
 - **Heterologous expression**: The PsiD gene has been expressed in bacterial and yeast systems, enabling the enzymatic production of 4-HT from [[psilocin]], and [[psilocybin]] and related compounds for research and therapeutic applications.
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

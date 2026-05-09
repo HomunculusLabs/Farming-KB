@@ -5,18 +5,19 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Natural Farming in Tropical Climates
 
 During his global travels, Masanobu Fukuoka observed agricultural conditions in tropical regions and developed ideas about how [[fukuoka-living-soil]] community
 
-- High biodiversity: Complex ecological communities naturally regulate pests and diseases through [[fukuoka-critique-modern-agriculture]] applied with particular force in the tropics, where the introduction of Western-style chemical farming had often been most destructive. Cash crop plantations of cotton, coffee, cocoa, and sugar had replaced diverse food systems, creating dependency on global markets while degrading local ecosystems.
+- High biodiversity: Complex ecological communities naturally regulate [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] through [[fukuoka-critique-modern-agriculture]] applied with particular force in the tropics, where the introduction of Western-style [[knf-vs-chemical-farming-comparison]] had often been most destructive. Cash crop plantations of cotton, coffee, cocoa, and sugar had replaced diverse food systems, creating dependency on global markets while degrading local ecosystems.
 
 ## The Clay Pellet Approach
 
-Fukuoka's [[fukuoka-clay-pellet-desert-greening]] is especially effective in tropical environments because the combination of warmth and moisture accelerates both the dissolution of the clay and the germination of the seeds. What might take weeks in a temperate climate can happen in days in the tropics.
+Fukuoka's [[fukuoka-clay-pellet-desert-greening]] is especially effective in tropical environments because the combination of warmth and moisture accelerates both the dissolution of the clay and the germination of the seeds. What might take weeks in a [[permaculture-designers-manual-temperate-climate-design]] can happen in days in the tropics.
 
 ## Observations in India and Africa
 
@@ -26,7 +27,7 @@ In Africa, he observed the devastating effects of desert expansion. He proposed 
 
 ## Traditional Tropical Farming
 
-Fukuoka noted that many traditional tropical farming systems already incorporated principles of natural farming. Shifting cultivation, agroforestry, and mixed gardens all mimicked natural ecosystems to some degree. The problem was not that tropical farmers didn't know how to farm naturally, but that these traditional systems were being destroyed by the imposition of Western-style monoculture and chemical agriculture.
+Fukuoka noted that many traditional tropical farming systems already incorporated [[four-principles-of-natural-farming]] farming. Shifting cultivation, agroforestry, and mixed gardens all mimicked natural ecosystems to some degree. The problem was not that tropical farmers didn't know how to farm naturally, but that these traditional systems were being destroyed by the imposition of Western-style monoculture and chemical agriculture.
 
 The introduction of cash crops -- cotton, coffee, cocoa, sugar -- had disrupted traditional food systems and created dependency on global markets. Fukuoka advocated for a return to locally adapted food systems that could support communities without external inputs.
 
@@ -50,7 +51,7 @@ The [[fukuoka-vegetable-disease-insect-resistance]] that Fukuoka developed is es
 
 ## A Natural Advantage
 
-Despite the challenges, Fukuoka remained optimistic about the potential for natural farming in tropical climates. The inherent advantages of year-round growing, abundant rainfall, rapid biomass production, and high biodiversity make the tropics arguably the best-suited environment for natural farming methods. The barrier is not ecological but economic and political -- the entrenched interests of chemical agriculture and global food trade.
+Despite the challenges, Fukuoka remained optimistic about the potential for natural farming in tropical climates. The inherent advantages of year-round growing, abundant rainfall, rapid [[dighton-fungal-biomass-production-aquatic-ecosystems]], and high biodiversity make the tropics arguably the best-suited environment for natural farming methods. The barrier is not ecological but economic and political -- the entrenched interests of chemical agriculture and global food trade.
 
 See also: [[fukuoka-desert-reclamation-projects]], [[fukuoka-natures-self-organizing-principles]], [[fukuoka-natural-diet-theory]]
 ## Practical Considerations
@@ -69,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

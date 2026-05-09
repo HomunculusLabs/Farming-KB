@@ -1,5 +1,5 @@
 ---
-title: JADAM Sulfur Germicide (JS)
+title: JADAM jadam sulfur germicide js (JS)
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-JADAM sulfur (JS), also called red clay-sulfur, is a low-cost sulfur-based germicide developed by Youngsang Cho. It is highly effective against most fungal diseases including powdery mildew, downy mildew, black spot, pear rust, and canker, without requiring heating equipment. Making 1 liter of JS (25% sulfur content) costs only about 50 cents.
+JADAM sulfur (JS), also called red clay-sulfur, is a low-cost sulfur-based germicide developed by Youngsang Cho. It is highly effective against most fungal diseases including [[cervantes-powdery-mildew-prevention-treatment]], [[cervantes-downy-mildew-fungal-blight]], black spot, pear rust, and canker, without requiring heating equipment. Making 1 liter of JS (25% sulfur content) costs only about 50 cents.
 
 ## Advantages Over Lime Sulfur
 
@@ -18,7 +18,7 @@ Traditional lime sulfur requires very high heat, takes a long time to make, can 
 - Can be made in plastic containers (no steel needed)
 - Completed in under 10 minutes of active work (plus 24 hours settling)
 - Does not damage greenhouse pipes
-- Causes far fewer concentration problems during the growing season
+- Causes far fewer concentration problems during the [[savory-growing-season-and-non-growing-season-management]]
 - Can replace lime sulfur for winter dormant sprays
 
 ## Ingredients for 100L Batch
@@ -27,7 +27,7 @@ Traditional lime sulfur requires very high heat, takes a long time to make, can 
 - Caustic soda (NaOH): 20 kg (98%)
 - Water: 82 L total (50 L first addition + 32 L second)
 - Phyllite powder: 0.5 kg
-- Red clay powder: 0.5 kg (or very fine rock powder substitute)
+- Red [[jadam-red-clay-powder-method]]: 0.5 kg (or very fine rock powder substitute)
 - Sea salt: 1.5 kg
 
 Equipment needed: 110L heat-resistant plastic container, 1.2m wooden stick, mask, boots, jacket, gloves, safety goggles.
@@ -67,7 +67,7 @@ Standard dilution: 0.5-2L JS per 500L water
 - Fog machines: 0.1L per 17L
 - Maximum: do not exceed 2.5L per 500L
 
-For winter dormant spray on fruit trees: use approximately 5L per 500L before sprouting or leaf fall. During growth period when buds are enlarging: approximately 1L per 500L.
+For winter dormant spray on [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]: use approximately 5L per 500L before sprouting or leaf fall. During growth period when buds are enlarging: approximately 1L per 500L.
 
 ## Key Usage Rules
 
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

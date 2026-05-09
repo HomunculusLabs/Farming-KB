@@ -54,7 +54,7 @@ Like all Brugmansia species, B. sanguinea is suspected to be a cultigen — a pl
 
 Among the Jivaro people of the upper Amazon, recalcitrant children were given a drink prepared from B. sanguinea combined with parched maize. When intoxicated, the children were lectured so that the spirits of the ancestors might admonish them.
 
-This practice served as a form of spiritual discipline and socialization within the community. It reflects the deep Andean belief that altered states of consciousness provide direct access to ancestral wisdom and authority. The Jivaro are among the most extensively studied Amazonian peoples in ethnopharmacology, and their use of Brugmansia is well-documented.
+This practice served as a form of spiritual discipline and socialization within the community. It reflects the deep Andean belief that [[weil-the-natural-mind-altered-states-normalcy]] of consciousness provide direct access to ancestral wisdom and authority. The Jivaro are among the most extensively studied Amazonian peoples in ethnopharmacology, and their use of Brugmansia is well-documented.
 
 ### Choco Region
 
@@ -108,7 +108,7 @@ The deliriant effects mean that users may engage in dangerous behavior while com
 
 - [[datura-stramonium]] — Jimsonweed, widely used solanaceous deliriant
 
-- [[trichocereus-pachanoi]] — San Pedro cactus, commonly prepared with Brugmansia
+- [[trichocereus-pachanoi]] — San [[san-pedro-cactus-history]], commonly prepared with Brugmansia
 
 - [[latua-pubiflora]] — Latue, a Chilean solanaceous hallucinogen
 

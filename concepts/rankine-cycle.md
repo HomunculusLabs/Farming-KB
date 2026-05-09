@@ -1,5 +1,5 @@
 ---
-title: "Rankine Cycle"
+title: "[[carnot-cycle-vs-rankine-cycle]]"
 aliases: [steam power cycle, vapor power cycle, Clausius-Rankine cycle]
 tags: [thermodynamics, power-engineering, heat-engines, energy, engineering]
 created: 2026-05-02
@@ -60,7 +60,7 @@ Real pumps and turbines are not isentropic; friction, turbulence, leakage, and f
 
 Pressure drops occur in boilers, reheaters, condensers, piping, valves, and heat exchangers.
 
-Heat transfer across finite temperature differences destroys available work even when total energy is conserved.
+[[heat-transfer-coefficient]] across finite temperature differences destroys available work even when total energy is conserved.
 
 ## Reheat
 
@@ -125,10 +125,6 @@ Ignoring condenser pressure can miss one of the strongest influences on turbine 
 Using ideal isentropic expansion without moisture checks can produce turbine outlet states that are mechanically unacceptable.
 
 ## See Also
-
+- [[phase-change-materials-thermal-energy-storage]]
 - [[heat-transfer-mechanisms]]
 - [[corrosion-electrochemistry]]
-
-## See Also
-
-- [[carnot-cycle-vs-rankine-cycle]]

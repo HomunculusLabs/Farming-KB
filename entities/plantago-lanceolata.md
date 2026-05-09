@@ -34,7 +34,7 @@ Despite sharing its common name with the cooking banana, ribwort plantain is ent
 - **Genus:** Plantago
 - **Species:** P. lanceolata
 
-The genus *Plantago* contains approximately 200 species distributed globally. *P. lanceolata* is one of two species most commonly used in European herbal medicine (the other being broadleaf plantain, *P. major*). It is diploid with 2n = 12 chromosomes.
+The genus *Plantago* contains approximately 200 species distributed globally. *P. lanceolata* is one of two species most commonly used in European [[herbal-medicine]] (the other being broadleaf plantain, *P. major*). It is diploid with 2n = 12 chromosomes.
 
 ## Botanical Description
 
@@ -53,7 +53,7 @@ Flowers are wind-pollinated and lack petals, producing abundant pollen from May 
 The fruit is a circumscissile capsule (pyxis) that opens by a lid to release 2 small, dark brown, glossy seeds. Seeds are 2–3 mm long, lens-shaped, with a mucilaginous coating that aids in germination and water retention. A single plant can produce 2,000–15,000 seeds annually.
 
 ### Root System
-The root system consists of a short, fibrous rootstock with numerous fine roots extending 10–25 cm into the soil. Older plants develop a woody taproot. Roots form associations with arbuscular mycorrhizal fungi, particularly Glomeromycota species.
+The root system consists of a short, fibrous rootstock with numerous fine roots extending 10–25 cm into the soil. Older plants develop a woody taproot. Roots form associations with arbuscular [[mycorrhizal-fungi]], particularly Glomeromycota species.
 
 ## Distribution and Habitat
 
@@ -111,14 +111,14 @@ Young leaves are edible — tender and slightly bitter when raw, suitable for sa
 ## Ecological Role
 
 ### Pollinator Support
-Despite being wind-pollinated, ribwort plantain flowers attract a range of beneficial insects, including small bees, hoverflies, and butterflies. The flowers are an important nectar source for the small skipper butterfly (*Thymelicus flavus*) and other Lepidoptera. The plant is listed as a recommended nectar source by the UK Royal Horticultural Society.
+Despite being wind-pollinated, ribwort plantain flowers attract a range of [[beneficial-insects-guide]], including small bees, hoverflies, and butterflies. The flowers are an important nectar source for the small skipper butterfly (*Thymelicus flavus*) and other Lepidoptera. The plant is listed as a recommended nectar source by the UK Royal Horticultural Society.
 
 ### Soil Ecology
-Deep, fibrous roots improve soil aggregation, porosity, and erosion control. Roots accumulate minerals from subsoil (dynamic accumulator — calcium, magnesium, silica). Leaves are grazed by rabbits, deer, and livestock; seeds eaten by finches and small birds.
+Deep, fibrous roots improve soil aggregation, porosity, and erosion control. Roots accumulate minerals from subsoil ([[comparison-hyperaccumulator-vs-dynamic-accumulator]] — calcium, magnesium, silica). Leaves are grazed by rabbits, deer, and livestock; seeds eaten by finches and small birds.
 
 ## Permaculture and Regenerative Agriculture Applications
 
-Ribwort plantain serves multiple functions in permaculture design. As a **dynamic accumulator**, its deep roots mine minerals (calcium, magnesium, sulfur, copper, zinc, silica) from subsoil layers — when used as chop-and-drop mulch or compost, these become available to shallow-rooted crops. It forms persistent, low-growing **living mulch** that suppresses weeds without competing strongly with taller crops, tolerates mowing and grazing, and provides year-round green cover. In **companion planting**, it is compatible with most vegetables and serves as understory groundcover in orchards and food forests, attracting predatory insects (ground beetles, spiders). When cut back, it rapidly regenerates, producing 2–5 t/ha dry weight annually for chop-and-drop biomass.
+Ribwort plantain serves multiple functions in [[permaculture-design]]. As a **dynamic accumulator**, its deep roots mine minerals (calcium, magnesium, sulfur, copper, zinc, silica) from subsoil layers — when used as chop-and-drop mulch or compost, these become available to shallow-rooted crops. It forms persistent, low-growing **living mulch** that suppresses weeds without competing strongly with taller crops, tolerates mowing and grazing, and provides year-round green cover. In **[[cervantes-companion-planting-pest-deterrent]]**, it is compatible with most vegetables and serves as understory groundcover in orchards and food forests, attracting predatory insects (ground beetles, spiders). When cut back, it rapidly regenerates, producing 2–5 t/ha dry weight annually for chop-and-drop biomass.
 
 ## Cultivation
 

@@ -1,5 +1,5 @@
 ---
-title: "4-TIM (4-THIOISOMESCALINE;) -- PIHKAL Entry #154"
+title: "4-TIM (4-THIOISOMESCALINE;) -- 2c-b-pihkal-entry-20 #154"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -45,7 +45,7 @@ been removed, these mother liquors could be processed to give the
 mother liquors to a residue under vacuum, and hope for a spontaneous
 crystallization. If this failed, flash chromatography could be used.
 For reference purposes, the three nitrostyrenes involved in the
-2-TIM/4-TIM problem movedon silica gel TLC with CHCl3 solvent in the
+2-TIM/4-TIM problem movedon [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] TLC with CHCl3 solvent in the
 following manner: 2,3-dimethoxy-4-methylthio-beta-nitrostyrene (leading
 to 4-TIM), Rf = 0.61; 3,4-dimethoxy-2-methylthio-beta-nitrostyrene
 (leading to 2-TIM), Rf = 0.54; and 3,4-dimethoxy-beta-nitrostyrene
@@ -69,7 +69,7 @@ under He and stirred. There was added, dropwise, 0.8 mL of 100%
 H2SO4, followed by 0.9 g of 2,3-dimethoxy-4-methylthio-beta-nitrostyrene
 dissolved in 20 mL THF. Stirring was continued for a few min as the
 reaction returned to room temperature, and then it was heated to a
-reflux for 5 min on the steam bath. The reaction was cooled again,
+reflux for 5 min on the [[scythian-cannabis-steam-bath-ritual]]. The reaction was cooled again,
 EtOAc was added to destroy the excess hydride, followed by 25% NaOH
 added dropwise until a white granular precipitate was obtained. This
 was removed by filtration, and the filter cake was washed with 2x35 mL
@@ -81,9 +81,12 @@ washed with Et2O and, in turn, made basic again and extracted with
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
+
+- [[2-tim-entity-pihkal]]
+- [[3-tim-entity-pihkal]]
 
 - [[mme-entity-pihkal]]
 

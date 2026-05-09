@@ -19,7 +19,7 @@ Cannabidiolic acid (CBDA) is the non-psychoactive acidic precursor to
 cannabidiol (CBD), found in the raw, unheated cannabis plant. Like
 THCA, CBDA is the naturally occurring form of the molecule before
 decarboxylation converts it to its active neutral form. CBDA is present
-in relatively high concentrations in raw, fresh cannabis flower and
+in relatively high concentrations in raw, fresh [[cervantes-cannabis-flower-anatomy]] and
 leaf, and is of growing scientific interest for its unique therapeutic
 properties that differ from those of decarboxylated CBD.
 
@@ -33,11 +33,11 @@ properties that differ from those of decarboxylated CBD.
   fresh cannabis tissue
 
 ### Biosynthesis
-CBDA is produced in cannabis trichomes from cannabigerolic acid (CBGA)
+CBDA is produced in [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]] from cannabigerolic acid (CBGA)
 through the enzymatic action of CBDA synthase. The enzyme selectively
 directs CBGA toward the CBDA pathway rather than the THCA pathway,
 and the relative activity of CBDA vs THCA synthase enzymes determines
-the CBD-dominant or THC-dominant chemotype of a given cannabis strain.
+the CBD-dominant or THC-dominant chemotype of a given [[blesching-cannabis-strain-selection-receptor-targeting]].
 
 ### Pharmacology and Therapeutic Properties
 - **Selective COX-2 inhibition:** A Japanese research team (2008)
@@ -58,7 +58,7 @@ the CBD-dominant or THC-dominant chemotype of a given cannabis strain.
 
 ### Historical Use
 Prior to the discovery of penicillin, cannabidiolic acids were
-commonly prescribed by physicians for bacterial infections including
+commonly prescribed by physicians for [[cannabis-for-bacterial-infections-and-mrsa]] including
 gonorrhea. As late as 1935, cannabis preparations containing CBDA were
 sold in the U.S. as urethral injections for treating this condition.
 These preparations were administered as tinctures, extracts, or

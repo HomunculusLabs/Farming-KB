@@ -1,5 +1,5 @@
 ---
-title: Hotel Building Model of Harvest Yields
+title: fukuoka textdoc hotel building model harvest yields Model of Harvest Yields
 created: 2026-04-28
 tags:
   - fukuoka
@@ -20,7 +20,7 @@ type: concept
 
 ## Overview
 
-Fukuoka introduces the "hotel building" analogy to explain how crop yields are determined by the interplay of countless factors and conditions. This model directly challenges Liebig's law of minimum and the reductionist approach to agricultural science, arguing that treating individual yield factors in isolation is as futile as renovating one room of a hotel while ignoring the building as a whole.
+Fukuoka introduces the "hotel building" analogy to explain how crop yields are determined by the interplay of countless factors and conditions. This model directly challenges Liebig's [[liebig-law-of-minimum-critique-natural-farming]] and the reductionist approach to agricultural science, arguing that treating individual yield factors in isolation is as futile as renovating one room of a hotel while ignoring the building as a whole.
 
 ## The Building Analogy
 
@@ -42,11 +42,11 @@ The actual harvest is much lower than the maximum yield because the harvest does
 
 ### 4. Science Fills Rooms, Nature Enlarges the Building
 
-The approach of scientific farming is to fill as many rooms as possible. But this merely minimizes losses in yield. The only true way to raise yields is to enlarge the building itself — to work within the full power of nature rather than patching deficiencies.
+The approach of [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] is to fill as many rooms as possible. But this merely minimizes losses in yield. The only true way to raise yields is to enlarge the building itself — to work within the full power of nature rather than patching deficiencies.
 
 ### 5. Annexes Built on Sand
 
-Any attempt to outdo nature — to increase production by purely industrial methods that disregard the natural order — is analogous to adding an annex onto the building representing nature. If this annex is built on sand, it is inherently unstable. These artificial additions do not represent true production and do not really benefit man.
+Any attempt to outdo nature — to increase production by purely industrial methods that disregard the [[fukuoka-textdoc-natural-order-food-chain-unity]] — is analogous to adding an annex onto the building representing nature. If this annex is built on sand, it is inherently unstable. These artificial additions do not represent true production and do not really benefit man.
 
 ### 6. Rooms Are Interconnected
 
@@ -79,18 +79,20 @@ We cannot predict what will work and what will not. A farmer might attribute thi
 The side view of the building shows different climbing courses from floor to floor, each meeting different production requirements:
 
 - **Course 1**: Poor weather and land conditions mean yield is poor regardless of special efforts invested in cultivation and pest control.
-- **Course 2**: Good weather and land conditions mean yield is high even though cultivation methods and management leave something to be desired.
+- **Course 2**: Good weather and land conditions mean yield is high even though [[synthetic-log-cultivation-methods-guide]] and management leave something to be desired.
 
 There are an infinite number of such courses with infinite variations in factors and conditions. While useful to the theorist, the diagram has no practical value for the farmer.
 
 ## The Inherent Instability of Science
 
-As the scientist makes additions and repairs and the building grows higher, it becomes increasingly unstable and imperfect. Man's observations, experiences, and ideas are all derived from nature, so he can never build a house extending beyond nature's bounds. Yet heedless of this, he breaks away from the natural arrangement of environmental factors and builds an addition — artificially cultivated crops — projecting out from the cliff on which nature stands.
+As the scientist makes additions and repairs and the building grows higher, it becomes increasingly unstable and imperfect. Man's observations, experiences, and ideas are all derived from nature, so he can never build a house extending beyond nature's bounds. Yet heedless of this, he breaks away from the natural arrangement of [[duggar-mushroom-environmental-factors-temperature-moisture-light]] and builds an addition — artificially cultivated crops — projecting out from the cliff on which nature stands.
 
 This artificial, chemically produced food presents a dreadful danger to man. More than wasted effort, it is the root of a calamity that threatens the very foundations of human existence.
 
 ## Related Concepts
 
-- [[fukuoka-textdoc-high-yield-theory-photosynthesis-critique|High Yield Theory and Photosynthesis Critique]]
-- [[fukuoka-textdoc-increased-production-not-increased-yields|Increased Production Has Not Brought Increased Yields]]
-- [[fukuoka-critique-of-scientific-agriculture|Critique of Scientific Agriculture]]
+- High Yield Theory and Photosynthesis Critique
+- [[fukuoka-textdoc-increased-production-not-increased-yields]]
+- [[fukuoka-critique-of-scientific-agriculture]]
+## See Also
+- [[fukuoka-textdoc-soil-building-as-multigenerational-legacy]]

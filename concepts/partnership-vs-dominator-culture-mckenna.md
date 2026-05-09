@@ -1,5 +1,5 @@
 ---
-title: Partnership vs Dominator Culture (McKenna)
+title: archaic-revival-partnership-vs-dominator-cultures Culture (McKenna)
 source: mckenna_t-food_of_the_gods.md
 topics: cultural evolution, patriarchy, anthropology, gender, history
 ---
@@ -32,11 +32,11 @@ without warfare and upheaval.
 
 ### Dominator Societies
 
-Dominator cultures are hierarchical, paternalistic, materialistic, and
+[[partnership-and-dominator-cultures-in-human-history]] are hierarchical, paternalistic, materialistic, and
 male-dominated. They organize society through [[mckenna-dominator-culture-and-suppression-of-ecstasy]] n from partnership to
-dominator culture in the prehistoric but [[mckenna-cannabis-cultural-style-and-feminine-plant]] ons of the ego-dominator cultural style. The terror the ego feels
+dominator culture in the prehistoric but [[mckenna-cannabis-cultural-style-and-feminine-plant]] ons of the ego-dominator [[mckenna-cannabis-cultural-style-and-feminine-plant]]. The terror the ego feels
 in contemplating the dissolution of boundaries between self and world
-lies behind not only the suppression of altered states of consciousness
+lies behind not only the suppression of [[weil-the-natural-mind-altered-states-normalcy]] of consciousness
 but, more generally, the suppression of the feminine, the foreign and
 exotic, and transcendental experiences.
 
@@ -48,7 +48,7 @@ suppressed visionary plants (psychedelics, cannabis, mushrooms) while
 promoting substances that reinforce social hierarchy and compliance
 (alcohol, tobacco, sugar, coffee).
 
-The transition from sacred mushroom use to alcohol consumption, in
+The transition from [[allegro-the-sacred-mushroom-amanita-identification]] use to alcohol consumption, in
 McKenna's historical narrative, represents the transition from
 partnership to dominator culture. Alcohol, unlike psilocybin, reinforces
 ego boundaries, promotes aggression, and supports male dominance
@@ -106,6 +106,8 @@ warfare for extended periods — a claim that fundamentally challenges the
 assumption that human violence is inevitable and universal.
 
 ## See Also
+
+- [[mckenna-partnership-dominator-culture-models]]
 
 - [[mckenna-stoned-ape-hypothesis]]
 - [[fukuoka-natural-farming-five-principles]]

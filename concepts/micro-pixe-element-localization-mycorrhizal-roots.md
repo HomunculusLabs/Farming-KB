@@ -1,5 +1,5 @@
 ---
-title: Micro-PIXE Analysis for Element Localization in Mycorrhizal Roots
+title: Micro-PIXE Analysis for micro pixe element localization mycorrhizal roots in Mycorrhizal Roots
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Particle-induced X-ray emission with a focused proton beam (micro-PIXE) is a powerful technique for studying elemental distributions in mycorrhizal roots. All elements encompassing macro- and micro-nutrients, as well as toxic pollutants, can be measured simultaneously. Maps of element distribution provide information impossible to obtain using point analyses or linear scans, revealing possible detoxification pathways and adaptations to environmental conditions.
+Particle-induced X-ray emission with a focused proton beam (micro-PIXE) is a powerful technique for studying elemental distributions in mycorrhizal roots. All elements encompassing macro- and micro-nutrients, as well as toxic pollutants, can be measured simultaneously. [[maps]] of element distribution provide information impossible to obtain using point analyses or linear scans, revealing possible detoxification pathways and adaptations to environmental conditions.
 
 ## Specimen Preparation (Critical Step)
 
@@ -66,9 +66,9 @@ The most important step in micro-PIXE analysis is specimen preparation, aimed at
 ## Applications in Mycorrhizal Research
 
 ### Metal-Tolerant Plants
-- Localization of heavy metals in mycorrhizal vs. non-mycorrhizal roots
+- Localization of [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] in mycorrhizal vs. non-mycorrhizal roots
 - Tracking detoxification pathways (e.g., sequestration in cell walls, vacuoles, or fungal structures)
-- Comparing element distribution patterns between AM fungal structures and host cells
+- Comparing element [[guzman-global-distribution-patterns-neurotropic-fungi]] between AM fungal structures and host cells
 
 ### Nutrient Transport Studies
 - Mapping phosphorus, calcium, and other elements at the arbuscular interface
@@ -77,8 +77,8 @@ The most important step in micro-PIXE analysis is specimen preparation, aimed at
 
 ### Environmental Stress Studies
 - Documenting responses to anthropogenic pollution (heavy metals, excess nutrients)
-- Understanding how mycorrhizal symbiosis modifies plant responses to toxic elements
-- Identifying possible mechanisms of fungal-mediated metal tolerance
+- Understanding how [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] modifies plant responses to toxic elements
+- Identifying possible mechanisms of fungal-mediated [[fungal-metal-tolerance-mechanisms]]
 
 ## Advantages
 - Simultaneous multi-element detection
@@ -95,6 +95,6 @@ The most important step in micro-PIXE analysis is specimen preparation, aimed at
 ## Related Topics
 
 - [[mycorrhizal-nutrient-transport]] - Phosphorus transport mechanisms
-- [[mycorrhizal-nutrient-uptake]]
+- mycorrhizal-nutrient-uptake
 - [[micro-pixe-analysis-of-elements-in-mycorrhizal-roots]]
-- [[mycorrhizal-nitrogen-transfer-between-plants]]
+- mycorrhizal-nitrogen-transfer-between-plants

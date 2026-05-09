@@ -1,5 +1,5 @@
 ---
-title: "Wind Power and the Renewable Energy Debate"
+title: "holmgren wind power and renewable energy debate and the Renewable Energy Debate"
 created: 2026-04-26
 tags:
   - wind-energy
@@ -17,8 +17,8 @@ type: concept
 # Wind Power and the Renewable Energy Debate
 
 [[holmgren-biomass-fuels-and-energy-yield-ratios]],
-[[permaculture-emergy-accounting]],
-[[permaculture-energy-systems]].
+permaculture-emergy-accounting,
+permaculture-energy-systems.
 ## Practical Applications
 
 Wind Power and the Renewable Energy Debate has a range of practical applications that make it relevant to
@@ -96,4 +96,9 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[holmgren-energy-descent-planning]]
+- [[holmgren-trees-solar-power-plants-detailed]]
+- [[holmgren-built-environment-household-energy-storage]]
+- [[holmgren-biomass-fuels-and-energy-yield-ratios]]
+- [[wind-power-basics]]

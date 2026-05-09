@@ -1,5 +1,5 @@
 ---
-title: AACT Brewing Ingredients (Ingham)
+title: AACT aact brewing ingredients ingham (Ingham)
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Field Guide I for Actively Aerated Compost Tea, Dr. Elaine Ingham, Soil Foodweb Inc.
+Source: The Field Guide I for Actively [[actively-aerated-compost-tea-aact-brewing]] Tea, Dr. Elaine Ingham, Soil Foodweb Inc.
 
 Ingham provides detailed guidance on selecting ingredients for actively aerated compost tea, emphasizing that the right foods must match the biology you want to grow and the conditions in your specific situation.
 
@@ -36,7 +36,7 @@ Ingham provides detailed guidance on selecting ingredients for actively aerated 
 
 ### Fish Products
 - Fish emulsion: feeds mostly bacteria (oxygen demand is high)
-- Fish hydrolysate: contains fish oil plus simpler proteins, feeds FUNGI more than bacteria
+- [[comparison-fish-hydrolysate-vs-fish-emulsion]]: contains fish oil plus simpler proteins, feeds FUNGI more than bacteria
 - Warning: some fish products on the market are waste left-overs that have gone putrid — if containers swell badly after purchase, the product was already anaerobic before you bought it
 - Neptune's Harvest is mentioned as a reliable fish product
 
@@ -45,7 +45,7 @@ Ingham provides detailed guidance on selecting ingredients for actively aerated 
 - Liquid humic acid works better than dry formulations (dry takes too long for organisms to solubilize)
 - Recommended products: Hydrahume AN (Helena), Eco-Nutrient kelp and humic acid, Horizon Ag humic acid
 - Nutri-Tech dry form (Australia) is soluble and works well
-- Humic acid is a part of humus — specifically the complex tertiary binding complexes of organic matter
+- Humic acid is a part of humus — specifically the complex tertiary binding complexes of [[hamilton-composting-and-organic-matter-management]]
 
 ### Protein Meals
 - Cornmeal, corn bran, wheat bran: variable bacterial/fungal response depending on protein types
@@ -67,7 +67,7 @@ The relationship is non-linear — more water means proportionally less compost 
 A machine maker claiming their 100-gallon machine needs 100 pounds of compost is either selling compost or has a very poorly designed machine.
 
 ### Compost Mix
-A mix of good aerobic thermal compost with good aerobic worm castings, in about 50-50 or 25-75 ratio. DO NOT use cedar grove products — they do not make compost.
+A mix of good aerobic [[ingham-thermal-compost-versus-worm-compost]] with good aerobic worm castings, in about 50-50 or 25-75 ratio. DO NOT use cedar grove products — they do not make compost.
 
 ### Why Not Huge Amounts of Compost?
 We just need to get an inoculum of the good organisms, then grow them with added foods. There's enough soluble nutrients in a small amount of compost for initial growth. We add foods that help the specific organisms we want more of.
@@ -97,7 +97,7 @@ Minerals (greensand, rock phosphate, rock dusts) should be added based on soil c
 
 ## Protozoa Considerations
 
-It takes two weeks at 72°F for protozoa to wake up and begin cycling nutrients. If you need immediate nutrient cycling, consider adding a protozoan inoculant. Worm compost is the best source of protozoa.
+It takes two weeks at 72°F for protozoa to wake up and begin cycling nutrients. If you need immediate [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], consider adding a protozoan inoculant. Worm compost is the best source of protozoa.
 
 See also: [[compost-tea-brewing]], [[compost-quality-standards]]
 - [[ingham-nutrient-cycling-soil-food-web]]
@@ -125,6 +125,8 @@ an untreated area are usually more reliable than immediate whole-system
 changes.
 
 ## Related
+
+- [[ingham-aact-brewing-equipment-reliability-machine-testing-standards]]
 
 - [[elaine-ingham]]
 - [[humic-acids-soil-biology-ingham]]

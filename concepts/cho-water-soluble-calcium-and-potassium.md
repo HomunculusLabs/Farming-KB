@@ -9,7 +9,7 @@ sources:
 ---
 
 Water-soluble mineral inputs are a distinctive feature of Dr. Cho's
-Natural Farming. By converting normally insoluble minerals into
+[[comparison-natural-farming-vs-permaculture]]. By converting normally insoluble minerals into
 plant-available forms through acid extraction, NF makes calcium,
 potassium, phosphorus, and other minerals readily absorbable. The two
 most important are [[knf-water-soluble-potassium-detailed]] (WS-K), both corresponding to key stages of the
@@ -38,12 +38,12 @@ most important are [[knf-water-soluble-potassium-detailed]] (WS-K), both corresp
 - Promotes phosphoric acid absorption
 - Carries and accumulates nutrients from branches/leaves to final
   storage organs (ovary, fruit)
-- Transitions plants from vegetative to reproductive growth
+- Transitions plants from vegetative to [[knf-reproductive-growth-stage]]
 
 ### When to Use WS-Ca
 - Cross-over period (vegetative to reproductive transition)
 - After fruits have grown large (spray on leaves for solid fruits)
-- When plants overgrow (prevents excessive vegetative growth)
+- When plants overgrow (prevents excessive [[cannabis-vegetative-growth-stage]])
 - When initial growth is poor
 - When leaves discolor, lack luster, or flower buds differentiate
   poorly
@@ -53,7 +53,7 @@ most important are [[knf-water-soluble-potassium-detailed]] (WS-K), both corresp
 
 ### Combinations for Enhanced Effect
 WS-Ca works synergistically with:
-- Water-soluble calcium phosphate (WCaP)
+- Water-soluble [[bionutrients-lab-calcium-phosphate-calamansi]] (WCaP)
 - FPJ, OHN, and seawater for better taste and more aromatic fruits
 - Basic dilution ratio: 1:1000
 
@@ -101,13 +101,13 @@ high amounts of this element.
   can cause synergy-induced overgrowth. Also avoid on rainy days.
 
 ### Excess Symptoms
-- Excessive WS-K causes magnesium deficiency
+- Excessive WS-K causes [[query-how-to-fix-magnesium-deficiency-in-cannabis]]
 - Symptoms similar to gas disorder, appearing in the middle of leaves
 
 ## Potassium and Calcium: The K-Ca Balance
 
 WS-K and WS-Ca represent the reproductive growth stage of the
-Nutritive Cycle. Potassium is needed for proper color development of
+[[cho-nutritive-cycle-theory]]. Potassium is needed for proper color development of
 fruits; calcium prevents overgrowth and hardens fruits. Together
 they ensure quality harvests. Weather conditions must be considered
 when applying these inputs -- synergy with nitrogen in hot, humid

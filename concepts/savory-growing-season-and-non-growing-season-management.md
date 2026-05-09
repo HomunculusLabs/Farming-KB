@@ -1,5 +1,5 @@
 ---
-title: Growing Season and Non-Growing Season Management
+title: savory growing season and non growing season management and Non-Growing Season Management
 created: 2026-04-28
 tags: [holistic-management, grazing-planning, seasons, energy-flow, forage]
 date: 2026-04-25
@@ -59,7 +59,7 @@ With only a few paddocks, the manager must make difficult compromises. With
 thirty-five or more paddocks per herd, recovery periods of thirty to ninety
 days mean grazing periods of only one to three days, which largely resolves
 the dilemma. At ultra-high paddock numbers approaching fifty to one hundred,
-stock density is high, animal impact is usually high, and exposure of plants
+[[savory-fencing-economics-and-stock-density-curve]] is high, [[savory-animal-impact-and-herd-effect]] is usually high, and exposure of plants
 and animals to one another is very short.
 
 ## The Advantage of Many Paddocks
@@ -73,6 +73,9 @@ paddock at such short intervals maintains a reasonable plane of nutrition
 without supplementation.
 
 ## See Also
+
+- [[savory-locoweed-and-poisonous-plant-management]]
+- [[savory-cropland-management-and-succession]]
 
 - [[savory-energy-flow-and-solar-capture]]
 - [[savory-drought-planning-and-reserves]]

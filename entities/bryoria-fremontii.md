@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Goward, T. (1999). "Lichens of British Columbia." Royal BC Museum.
   - McCune, B. & Geiser, L. (2009). "Macrolichens of the Pacific Northwest." Oregon State University Press.
   - Turner, N.J. (1997). "The Food and Technology of the Thompson Indians." UBC Press.
@@ -54,7 +54,7 @@ Bryoria fremontii is the most important edible lichen in the culture of Interior
 
 Harvesting involved knocking lichen from tree branches with long poles, often from specific trees known to produce abundant growth. The collected material was cleaned of debris and prepared through an elaborate processing method.
 
-**Processing:** Raw *Bryoria* contains bitter secondary compounds (primarily **usnic acid** and **divaricatic acid**). Traditional preparation involves pit-cooking the lichen underground for 12–24 hours, which leaches out bitter compounds and gelatinizes the thallus.
+**Processing:** Raw *Bryoria* contains bitter secondary compounds (primarily **usnic acid** and **divaricatic acid**). [[kava-traditional-preparation-ceremonial-context]] involves pit-cooking the lichen underground for 12–24 hours, which leaches out bitter compounds and gelatinizes the thallus.
 
 After cooking, the lichen was typically dried and stored for winter use. It could be reconstituted in water, mixed with berries or animal fat, or formed into cakes.
 
@@ -68,13 +68,13 @@ Protein content ranges from 3–6% dry weight. The lichen is low in fat and prov
 
 Mineral content includes notable concentrations of calcium, magnesium, and iron, derived from atmospheric dust deposition on the thallus surface.
 
-Vitamin content is not well characterized. Traditional pit-cooking likely improves digestibility and bioavailability of nutrients by breaking down complex polysaccharides and reducing antimicrobial secondary metabolites.
+Vitamin content is not well characterized. Traditional pit-cooking likely improves digestibility and bioavailability of nutrients by breaking down complex polysaccharides and reducing antimicrobial [[antifungal-secondary-metabolites-coprophilous-fungi]].
 
 **Warning:** Some *Bryoria* species contain **vulpinic acid** and other hepatotoxic compounds. Correct species identification is critical. *B. tortuosa* is notably toxic and can be confused with *B. fremontii*.
 
 ## Chemistry and Secondary Metabolites
 
-The primary secondary metabolites of *Bryoria fremontii* are **divaricatic acid** and trace amounts of **usnic acid**. These compounds contribute to the lichen's bitter taste and have documented antimicrobial properties.
+The primary secondary metabolites of *Bryoria fremontii* are **divaricatic acid** and trace amounts of **usnic acid**. These compounds contribute to the lichen's bitter taste and have documented [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
 
 Divaricatic acid is a depside with demonstrated activity against Gram-positive bacteria, including *Staphylococcus aureus* and *Bacillus subtilis*. Usnic acid, found in larger quantities in related *Bryoria* species, is a potent antibacterial agent.
 
@@ -88,11 +88,11 @@ Traditional pit-cooking effectively reduces these bitter compounds to palatable 
 
 Bryoria fremontii is a dual organism composed of a fungal partner (mycobiont, genus *Bryoria*) and a photosynthetic partner (photobiont, the green alga *Trebouxia*).
 
-The lichen plays an important ecological role in forest canopies. It intercepts atmospheric nutrients, particularly nitrogen from fog and precipitation, and contributes to canopy nutrient cycling when fragments fall to the forest floor.
+The lichen plays an important ecological role in forest canopies. It intercepts atmospheric nutrients, particularly nitrogen from fog and precipitation, and contributes to canopy [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] when fragments fall to the forest floor.
 
 It provides microhabitat and foraging substrate for various invertebrates, including mites, springtails, and certain moth larvae. Several arthropod species are specialized lichen feeders.
 
-*Bryoria fremontii* is moderately sensitive to air pollution, particularly sulfur dioxide and nitrogen deposition. Its presence or absence serves as a bioindicator of forest air quality.
+*Bryoria fremontii* is moderately sensitive to air pollution, particularly sulfur dioxide and [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]. Its presence or absence serves as a bioindicator of forest air quality.
 
 ## Related Species
 
@@ -105,6 +105,10 @@ It provides microhabitat and foraging substrate for various invertebrates, inclu
 *Bryoria capillaris* is a smaller, more delicate species found at high elevations in the Rocky Mountains. It lacks significant secondary chemistry and is rarely collected for food.
 
 ## See Also
+
+- [[populus-fremontii]]
+- [[bryoria-caperata]]
+- [[bryoria-implexa]]
 
 - [[cladonia-rangiferina]]
 - [[evernia-prunastri]]

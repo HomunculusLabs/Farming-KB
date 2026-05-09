@@ -8,7 +8,7 @@ sources: []
 ---
 # Gruit Beer and Herbs
 
-Gruit (also grut) is the historical term for the mixture of herbs used to flavor and preserve beer before the widespread adoption of hops. For thousands of years before hops became dominant, European beers were flavored with complex blends of bitter, aromatic, and often medicinal herbs. The gruit tradition represents a largely lost art of herbal brewing that is now being revived by craft brewers and homebrewers interested in historical and medicinal beers.
+Gruit (also grut) is the historical term for the mixture of herbs used to flavor and preserve beer before the widespread adoption of hops. For thousands of years before hops became dominant, European beers were flavored with complex blends of bitter, aromatic, and often [[permaculture-plants-medicinal-herbs-healing]]. The gruit tradition represents a largely lost art of herbal brewing that is now being revived by craft brewers and homebrewers interested in historical and medicinal beers.
 
 ## The Classic Gruit Herbs
 
@@ -22,9 +22,9 @@ The flavor of sweet gale is resinous, slightly sweet, and aromatic with notes of
 
 ### Yarrow (Achillea millefolium)
 
-Yarrow is a common herb found across Europe, Asia, and North America. It has been used in brewing for thousands of years and provides both bittering and flavoring. Yarrow contains a complex mixture of bitter principles, flavonoids, and essential oils that give it a distinctive herbal, chamomile-like flavor with peppery notes.
+Yarrow is a common herb found across Europe, Asia, and [[psilocybin-north-america-pacific-northwest]]. It has been used in brewing for thousands of years and provides both bittering and flavoring. Yarrow contains a complex mixture of bitter principles, flavonoids, and [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] that give it a distinctive herbal, chamomile-like flavor with peppery notes.
 
-In addition to its brewing uses, yarrow has a long history as a medicinal herb. It is astringent, diaphoretic, and anti-inflammatory. The name Achillea comes from the Greek hero Achilles, who was said to have used yarrow to treat wounds. In gruit mixtures, yarrow contributed not only flavor but also medicinal properties that would have been valued in a daily beverage.
+In addition to its brewing uses, yarrow has a long history as [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]]. It is astringent, diaphoretic, and anti-inflammatory. The name Achillea comes from the Greek hero Achilles, who was said to have used yarrow to treat wounds. In gruit mixtures, yarrow contributed not only flavor but also medicinal properties that would have been valued in a daily beverage.
 
 ### Wild Rosemary (Ledum palustre)
 
@@ -36,7 +36,7 @@ The flavor contribution of wild rosemary is distinctive -- herbal, slightly medi
 
 The history of gruit is closely tied to medieval economics and politics. In many parts of medieval Europe, the right to produce and sell gruit was controlled by local authorities -- often the Church or feudal lords. Brewers were required to purchase their gruit mixture from authorized gruit merchants, creating a lucrative monopoly.
 
-The gruit tax was a significant source of revenue for medieval towns and monasteries. This economic structure partly explains the eventual shift to hops: hops could be grown by individual brewers and farmers, bypassing the gruit monopoly. The adoption of hops was thus partly an economic rebellion against centralized control of brewing ingredients.
+The gruit tax was a significant source of revenue for medieval towns and monasteries. This economic structure partly explains the eventual shift to hops: hops could be grown by individual brewers and farmers, bypassing the gruit monopoly. The adoption of hops was thus partly an economic rebellion against centralized control of [[aact-brewing-ingredients-ingham]].
 
 ## Regional Gruit Traditions
 
@@ -63,7 +63,7 @@ Many gruit herbs have significant medicinal properties that would have been deli
 - Sedative compounds from wild rosemary
 - Vitamins and minerals from the herb infusion
 
-This medicinal dimension of gruit beer is often overlooked in discussions of historical brewing. In an era before modern medicine, a daily beverage that delivered therapeutic doses of beneficial herbs would have been genuinely valuable for public health.
+This medicinal dimension of gruit beer is often overlooked in discussions of historical brewing. In an era before modern medicine, a daily beverage that delivered therapeutic doses of [[jeavons-beneficial-herbs-nutrition]] would have been genuinely valuable for public health.
 
 ## Brewing with Gruit Today
 

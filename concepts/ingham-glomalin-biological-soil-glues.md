@@ -1,11 +1,4 @@
 ---
-title: Ingham — Glomalin and Biological Soil Glues
-created: 2026-04-18
-updated: 2026-04-18
-type: concept
-tags: [soil-biology, composting, microbiology]
-sources:
-  - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 # Ingham — Glomalin and Biological Soil Glues
 
@@ -78,12 +71,8 @@ To promote glomalin and biological glue production:
 - Use cover crops to maintain living root networks that feed soil organisms
 
 ## See Also
-
-- [[glomalin-and-soil-carbon]]
-- [[fungal-soil-aggregate-formation-glomalin]]
-- [[nutrient-cycling-in-soil]]
-- [[ingham-field-guide-overview]]
-
-## Related
-
-- [[ingham-trichoderma-biocontrol-fungi-aact]]
+- [[fungi-in-the-environment-fungal-soil-aggregation-structure]]
+- [[query-role-of-fungi-in-soil-aggregation-and-erosion-prevention]]
+- [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]]
+- [[query-how-do-fungi-improve-soil-structure]]
+- [[glomalin-mycorrhizal-soil-aggregate-stabilizer-ingham]]

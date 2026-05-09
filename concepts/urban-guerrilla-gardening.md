@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Urban guerrilla gardening is the practice of cultivating food, native plants, and productive ecosystems on neglected, abandoned, or unauthorized urban land. It combines permaculture design principles with direct action to reclaim concrete-dominated cityscapes for food production, ecological restoration, and community building. The term encompasses a spectrum from seed-bombing vacant lots to systematic reclamation of abandoned properties with full garden installations.
+Urban guerrilla gardening is the practice of cultivating food, native plants, and productive ecosystems on neglected, abandoned, or unauthorized urban land. It combines [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] principles with direct action to reclaim concrete-dominated cityscapes for food production, ecological restoration, and [[urban-permaculture-community-building-social-design]]. The term encompasses a spectrum from seed-bombing vacant lots to systematic reclamation of abandoned properties with full garden installations.
 
 ## Philosophy and Motivation
 
@@ -62,7 +62,7 @@ Core drivers from practitioner accounts:
 ### Native Plant Guerrilla Gardens
 
 - Plant native species that survive on local rainfall alone
-- Native plants provide: medicinal value, food, wildlife habitat, bee forage, nitrogen fixation
+- Native plants provide: medicinal value, food, wildlife habitat, bee forage, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
 - They "bring the real world into the heart of the city"
 - Create 8-10 foot wide buffer zones of native plants for noise, pollution, light, and privacy screening
 
@@ -94,12 +94,12 @@ Core drivers from practitioner accounts:
 - **Deciduous vine trellises**: Edible annuals (squash) shade buildings in summer, die back for solar gain in winter
 - **Living fences**: Ocotillo canes + agave stalks create wildlife habitat and privacy screens
 - **Noise/pollution buffers**: 8-10 ft native plantings along property edges
-- **Rock walls**: Local granite retaining walls create microclimates and act as heat banks
+- **Rock walls**: Local granite retaining walls [[query-how-do-i-create-microclimates-in-my-garden]] and act as heat banks
 - **Shade cloth**: Over planting beds dug in caliche for temperature moderation
 
 ## Community Building
 
-- "Urban permaculture is intensely social — everything you do is within sight, sound, or touch of a neighbor"
+- "[[pdc-urban-permaculture-design-principles]] is intensely social — everything you do is within sight, sound, or touch of a neighbor"
 - Start with visible, friendly activity — wave at passersby
 - Neighbors contribute: physical help, security, advice, plants, hot meals, materials
 - School gardens: permaculture gardens at middle schools build community across teachers, bus drivers, and parents
@@ -126,6 +126,6 @@ Core drivers from practitioner accounts:
 
 ## Related Pages
 
-- [[water-catchment-urban-permaculture]] — Detailed water harvesting techniques
+- [[water-catchment-urban-permaculture]] — Detailed water [[water-harvesting-techniques-comparison]]
 - [[permaculture-useful-plants-reference]] — Plant species catalog for urban settings
 - [[bill-mollison]] — Permaculture founder whose design principles underlie these techniques

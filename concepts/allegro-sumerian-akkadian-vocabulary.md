@@ -10,7 +10,7 @@ sources:
 
 # Sumerian and Akkadian Mushroom Vocabulary in Religious Texts
 
-A central pillar of Allegro's argument in *The Sacred Mushroom and the Cross*
+A central pillar of Allegro's argument in *The [[allegro-the-sacred-mushroom-amanita-identification]] and the Cross*
 is his [[amanita-muscaria-cultural-history]] mushroom.
 
 ## The Sumerian Key
@@ -46,7 +46,7 @@ An Akkadian magical text provides detailed instructions for extracting the
 > sunrise root it out of its place, and take its root."
 
 This ritual matches Josephus's description of the Mandrake extraction near
-the Dead Sea, where the plant had to be covered and approached under darkness.
+the [[allegro-dead-sea-scrolls-and-early-christian-sects]], where the plant had to be covered and approached under darkness.
 The flour encirclement offered magical protection and was "a token of
 compensation to the earth for its rape." See
 [[allegro-names-of-the-gods-and-their-fertility-origins]].
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

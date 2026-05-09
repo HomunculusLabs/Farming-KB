@@ -1,5 +1,5 @@
 ---
-title: Constructed Wetlands for Wastewater Treatment
+title: comparison-constructed-wetlands-vs-bioswales for Wastewater Treatment
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -31,7 +31,7 @@ Subsurface flow constructed wetlands (SSF CWs) route water through a porous medi
 
 Horizontal subsurface flow (HSSF) wetlands are the most common type. Water enters at one end, flows horizontally through the gravel bed, and is collected at the opposite end. The saturated gravel provides a large surface area for microbial biofilm development, and the subsurface flow prevents mosquito breeding and reduces human exposure to contaminated water.
 
-Vertical flow (VF) wetlands distribute water over the surface of a gravel bed, allowing it to percolate vertically through the substrate. intermittent dosing creates alternating aerobic and anaerobic conditions that enhance nitrification-denitrification processes for nitrogen removal. VF systems typically achieve better oxygen transfer and ammonia removal than HSSF systems.
+Vertical flow (VF) wetlands distribute water over the surface of a gravel bed, allowing it to percolate vertically through the substrate. intermittent dosing creates alternating [[query-what-is-the-difference-between-aerobic-and-anaerobic-composting]] conditions that enhance nitrification-denitrification processes for nitrogen removal. VF systems typically achieve better oxygen transfer and ammonia removal than HSSF systems.
 
 Hybrid systems combining HSSF and VF stages in series leverage the strengths of each type for more comprehensive treatment of nitrogen, organic matter, and other contaminants.
 
@@ -59,7 +59,7 @@ Nitrification-denitrification is the primary nitrogen removal pathway in most co
 
 The plant rhizosphere in constructed wetlands supports microbial populations that are orders of magnitude higher than bulk water or substrate. Root exudates provide carbon sources that sustain diverse microbial communities capable of degrading a wide range of organic contaminants.
 
-Fungi play an important but often overlooked role in constructed wetland treatment. Studies have identified up to 40 fungal species belonging to 24 genera from contaminated wetland ecosystems, with many demonstrating efficient degradation of organic pollutants including polycyclic aromatic hydrocarbons (PAHs). White-rot fungi and other ligninolytic species produce extracellular enzymes (laccase, manganese peroxidase) that can degrade recalcitrant organic compounds.
+Fungi play an important but often overlooked role in constructed wetland treatment. Studies have identified up to 40 fungal species belonging to 24 genera from contaminated wetland ecosystems, with many demonstrating efficient degradation of organic pollutants including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs). White-rot fungi and other ligninolytic species produce extracellular enzymes (laccase, [[fungal-manganese-peroxidase-remediation]]) that can degrade recalcitrant organic compounds.
 
 Wastewater decolorization in constructed wetlands depends on the decomposition capabilities of diverse microbial communities. Pilot-scale constructed wetlands have been successfully employed to treat PAH-contaminated water, with fungal species degrading high percentages of fluoranthene and anthracene in the wetland environment.
 
@@ -77,14 +77,14 @@ Land area requirements are a significant design consideration. Surface flow wetl
 
 ## Applications
 
-Constructed wetlands treat municipal wastewater at various levels from primary to tertiary treatment, particularly effective in small communities and rural areas where conventional treatment is cost-prohibitive. They provide industrial wastewater treatment for sectors including food processing, textile manufacturing, pulp and paper, and mining.
+Constructed wetlands treat municipal wastewater at various levels from primary to tertiary treatment, particularly effective in small communities and rural areas where conventional treatment is cost-prohibitive. They provide [[fungal-industrial-wastewater-treatment]] treatment for sectors including food processing, textile manufacturing, pulp and paper, and mining.
 
 Stormwater management systems use constructed wetlands to remove nutrients, sediments, metals, and hydrocarbons from urban runoff. Agricultural applications include treatment of animal waste lagoon effluent, feedlot runoff, and irrigation return water. Acid mine drainage treatment is a well-established application that leverages the sulfate-reducing and metal-precipitating capabilities of wetland systems.
 
-Emerging applications include treatment of landfill leachate, removal of emerging contaminants such as pharmaceuticals and personal care products, and polishing of reverse osmosis concentrate. See [[graywater-systems-for-homesteads]] and even blackwater (combined with septic tank pretreatment). A typical household system requires 2-5 square meters per person for secondary treatment. Integration with [[phytoremediation-mechanisms]] — plant-based contaminant removal
+Emerging applications include treatment of [[singh-landfill-leachate-fungal-treatment]], removal of emerging contaminants such as pharmaceuticals and personal care products, and polishing of reverse osmosis concentrate. See [[graywater-systems-for-homesteads]] and even blackwater (combined with septic tank pretreatment). A typical household system requires 2-5 square meters per person for secondary treatment. Integration with [[phytoremediation-mechanisms]] — plant-based contaminant removal
 - [[wetland-ecology]] — natural wetland function and processes
 - [[mycoremediation]] — comparison of remediation organisms
-- [[edge-effect-in-permaculture]] — small-scale wetland construction
+- edge-effect-in-permaculture — small-scale wetland construction
 - [[desalination-and-water-treatment-technologies]]
 - [[fungal-treatment-of-industrial-wastewaters]]
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]

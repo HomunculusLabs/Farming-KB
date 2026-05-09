@@ -1,5 +1,5 @@
 ---
-title: "DOAM -- 2,5-DIMETHOXY-4-(n)-AMYLAMPHETAMINE -- PIHKAL Entry #61"
+title: "DOAM -- 2,5-DIMETHOXY-4-(n)-AMYLAMPHETAMINE -- 2c-b-pihkal-entry-20 #61"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # DOAM
 
-PIHKAL entry #61. 2,5-DIMETHOXY-4-(n)-AMYLAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #61. 2,5-DIMETHOXY-4-(n)-AMYLAMPHETAMINE.
 
 ## Chemical Name
 
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,9 +101,8 @@ advance the field as a whole. Cross-pollination of ideas from biology,
 ecology, data science, and traditional knowledge systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

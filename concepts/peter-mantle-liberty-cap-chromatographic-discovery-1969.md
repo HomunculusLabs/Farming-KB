@@ -1,5 +1,5 @@
 ---
-title: "Peter Mantle and the Liberty Cap Chromatographic Discovery (1969)"
+title: "Peter Mantle and the peter mantle liberty cap chromatographic discovery 1969 Chromatographic Discovery (1969)"
 created: 2026-04-26
 tags:
   - mycology
@@ -19,7 +19,7 @@ type: concept
 ## The British Biochemist Who Confirmed Psilocybin in the Liberty Cap
 
 The story of how the hallucinogenic properties of the Liberty Cap
-(Psilocybe semilanceata) were confirmed in Britain is a tale of missed
+([[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]) were confirmed in Britain is a tale of missed
 connections, academic caution, and the gulf between laboratory science
 and popular culture. At its centre is Peter Mantle, a young biochemist
 at London's Imperial College, whose careful chromatographic work
@@ -36,10 +36,10 @@ available for anyone who knew where to look, but the gulf between
 academic publication and popular awareness meant that the knowledge
 remained locked away.
 
-Graves had been proselytising about magic mushrooms since the late
+Graves had been proselytising about [[guzman-magic-mushrooms-african-species]] since the late
 1950s, in high-brow books and essays, and had placed wild claims about
 the hallucinogenic properties of British fungi into the revised editions
-of The White Goddess and The Greek Myths. If academic scientists had
+of The [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]] and The Greek Myths. If academic scientists had
 been paying attention to this wider discourse, the discovery might have
 reached a broader audience much sooner.
 
@@ -77,3 +77,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[liberty-cap-rediscovery-in-britain]]

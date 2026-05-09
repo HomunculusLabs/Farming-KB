@@ -1,16 +1,16 @@
 ---
-title: Cannabis Controlled Pollination and Seed Production
+title: Cannabis Controlled Pollination and cannabis-seed-production
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 
 # Cannabis Controlled Pollination and Seed Production
 
-Controlled pollination is the foundation of serious Cannabis breeding, allowing the breeder to determine the genotype of future offspring rather than relying on random wind-borne pollinations.
+Controlled pollination is the foundation of serious [[cannabis-breeding-basics]], allowing the breeder to determine the genotype of future offspring rather than relying on random wind-borne pollinations.
 
 ## Biology of Pollination
 
@@ -38,7 +38,7 @@ A small vial, glass plate, or mirror is held beneath a recently-opened staminate
 Whole limbs or clusters of staminate flowers are placed on paper or glass in a cool, still place. Pollen drops from anthers as they dry and may be scraped up. Pollen may be stored in a cool, dark, dry spot in a sealed container with desiccant (dry soda crackers or rice) in the refrigerator.
 
 ### Enclosure Collection
-Paper or Gore-Tex bags are placed over selected limb tips before pollen release. The bags collect pollen as it sheds. Bags are collected early in the morning before solar heating. After drying, bags are shaken vigorously and pollen is screened into storage vials.
+Paper or Gore-Tex bags are placed over selected limb tips before pollen release. The bags collect pollen as it sheds. Bags are collected early in the morning before [[mollison-designers-home-energy-conservation-and-solar-heating]]. After drying, bags are shaken vigorously and pollen is screened into storage vials.
 
 ## Pollen Parent Selection
 
@@ -64,7 +64,7 @@ Paper or Gore-Tex bags are placed over selected limb tips before pollen release.
 - Bags remain on the seed parent for three full sunny days (up to a week in cool/overcast conditions).
 - After removal, calyxes begin to swell with seed, indicating successful fertilization.
 - Seed parents need good irrigation for proper seed development.
-- Seeds develop fastest in warm weather (2-4 weeks); in cold weather, up to two months.
+- Seeds develop fastest in [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]] (2-4 weeks); in cold weather, up to two months.
 - Seeds are removed when the calyx begins to dry and the dark shiny perianth is visible.
 - Seeds are labeled and stored in a cool, dark, dry place.
 
@@ -73,7 +73,7 @@ Paper or Gore-Tex bags are placed over selected limb tips before pollen release.
 - Paper and tightly woven cloth are most suitable
 - Coarse cloth allows pollen to escape
 - Plastic materials tend to collect transpired water and rot flowers
-- Light-colored opaque or translucent reflective materials remain cooler
+- Light-colored opaque or translucent [[cervantes-reflective-materials-grow-room-walls]] remain cooler
 - Gore-Tex works with great success
 - Long narrow bags (quart-bottle bags, giant popcorn bags) provide convenient shapes
 
@@ -94,7 +94,7 @@ Identifying the sex of cannabis plants during the pre-flowering stage is essenti
 
 ## When Sex Becomes Visible
 
-Sex typically becomes identifiable 3-6 weeks after germination, depending on the strain and growing conditions. Photoperiod-triggered plants show sex after the light cycle is reduced to 12/12. Some indica-dominant strains show pre-flowers as early as 3 weeks, while sativa-dominant strains may take 6 weeks or longer. Autoflowering varieties typically show sex around week 3-4 regardless of light cycle.
+Sex typically becomes identifiable 3-6 weeks after germination, depending on the strain and growing conditions. Photoperiod-triggered plants show sex after the [[green-cannabis-photoperiod-12-12-light-cycle]] is reduced to 12/12. Some indica-dominant strains show pre-flowers as early as 3 weeks, while sativa-dominant strains may take 6 weeks or longer. Autoflowering varieties typically show sex around week 3-4 regardless of light cycle.
 
 ## Female Identification (Desired)
 

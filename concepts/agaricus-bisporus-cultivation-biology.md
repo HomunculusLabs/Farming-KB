@@ -1,10 +1,10 @@
 ---
-title: Agaricus bisporus Cultivation Biology
+title: genetic-improvement-agaricus-bisporus-molecular-approaches Cultivation Biology
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [cultivation, mycology]
-sources: ["raw/papers/cancer-treatments-medicinal-mushrooms.md", "raw/papers/the-mushroom-cultivator-stamets.md"]
+sources: sources: []
 ---
 # Agaricus bisporus Cultivation Biology
 
@@ -30,7 +30,7 @@ A. bisporus is a secondary decomposer that grows on composted organic materials.
 
 Compost preparation involves two phases. Phase I composting involves mixing and wetting raw materials (typically wheat straw, horse or poultry manure, and gypsum), during which thermophilic microorganisms raise the temperature to 70-80 degrees C.
 
-Phase II composting (pasteurization and conditioning) occurs in controlled rooms at 58-60 degrees C to eliminate pests and pathogens and to complete the conversion of ammonia to microbial protein.
+[[mushroom-cultivator-phase-ii-composting-biology]] (pasteurization and conditioning) occurs in controlled rooms at 58-60 degrees C to eliminate pests and pathogens and to complete the conversion of ammonia to microbial protein.
 
 ## Spawn and Spawn Running
 
@@ -54,7 +54,7 @@ The casing layer is essential for A. bisporus fruiting, and its composition, dep
 
 After casing, environmental conditions are adjusted to induce fruiting: air temperature is lowered to 16-18 degrees C, relative humidity is maintained at 85-92%, fresh air exchange is increased to reduce CO2 levels, and the casing layer is watered to maintain adequate moisture.
 
-Pin formation (primordia initiation) occurs on the casing surface, and mushrooms develop over 7-14 days.
+Pin formation ([[chen-maitake-primordia-initiation-fruiting]]) occurs on the casing surface, and mushrooms develop over 7-14 days.
 
 Harvesting involves twisting or cutting the mushrooms from the casing.
 
@@ -80,13 +80,13 @@ Bacterial diseases include bacterial blotch (Pseudomonas tolaasii).
 
 Pests include mushroom flies (Sciaridae and Phoridae), mites, and nematodes.
 
-Integrated pest management combining hygiene, environmental control, and selective chemical treatments is essential for disease management.
+Integrated pest management combining hygiene, environmental control, and selective chemical treatments is essential for [[plant-disease-management-solomon]].
 
 ## Genetic Improvement
 
 Genetic improvement of A. bisporus has traditionally been slow due to its predominantly bisporic nature (most basidia produce only two spores rather than four), which limits conventional breeding.
 
-Molecular approaches including genome sequencing, marker-assisted selection, and genetic transformation are being applied to improve traits such as yield, disease resistance, shelf life, and nutritional quality.
+[[staycare-molecular-approaches-fungal-bioremediation]] including genome sequencing, marker-assisted selection, and genetic transformation are being applied to improve traits such as yield, disease resistance, shelf life, and [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
 
 Understanding the genetic basis of agronomically important traits is a major focus of mushroom research, with [[organic-composting-methods]] and [[growing-gourmet-compost-phase-i-phase-ii-agaricus]]
 

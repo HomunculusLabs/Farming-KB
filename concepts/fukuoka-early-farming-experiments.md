@@ -1,11 +1,12 @@
 ---
-title: Early Farming Experiments
+title: fukuoka early farming experiments Experiments
 created: 2026-04-18
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Early Farming Experiments
@@ -14,7 +15,7 @@ When Masanobu Fukuoka returned to his family farm on Shikoku Island around 1938,
 
 ## The Orchard Ecosystem
 
-Simultaneously, Fukuoka was developing his orchard into a multi-layered ecosystem. He planted a border of trees and shrubs to serve as a windbreak and habitat for beneficial insects. He allowed weeds to grow freely, observing which species appeared and how they interacted with the fruit trees.
+Simultaneously, Fukuoka was developing his orchard into a multi-layered ecosystem. He planted a border of trees and shrubs to serve as a windbreak and [[query-how-do-i-design-habitat-for-beneficial-insects]] insects. He allowed weeds to grow freely, observing which species appeared and how they interacted with the [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]].
 
 Over time, the orchard became a self-sustaining ecosystem that produced fruit, eggs, and vegetables without any external inputs. More than twenty types of trees and several hundred kinds of weeds grew together in a complex, interdependent community.
 
@@ -100,4 +101,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

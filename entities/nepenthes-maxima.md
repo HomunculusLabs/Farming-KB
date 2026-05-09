@@ -12,7 +12,7 @@ sources:
   - Clarke, C.M. (1997). "Nepenthes of Borneo." Natural History Publications.
   - Murphy, D.J. (2017). "Carnivorous Plants of the World." Timber Press.
   - Danser, B.H. (1928). "The Nepenthaceae of the Netherlands Indies." Bulletin de Jardin de Botanique.
-  - McPherson, S.R. (2009). "Pitcher Plants of the Old World." Redfern Natural History Productions.
+  - McPherson, S.R. (2009). "Pitcher Plants of the [[datura-metel-old-world-ethnobotany]]." Redfern Natural History Productions.
   - Meijer, W. (1997). "Nepenthes of Sumatra." National Parks Board of Singapore.
 ---
 
@@ -30,7 +30,7 @@ Nepenthes maxima was formally described by Nees von Esenbeck in 1824. The specif
 
 It belongs to the *Regiae* clade, a group of closely related species that includes N. rajah, N. burkei, and N. mirabilis. Molecular phylogenetic studies confirm its placement within this Southeast Asian radiation.
 
-The species exhibits considerable morphological variation across its range. Highland forms from Sulawesi tend to have more elongated pitchers with pronounced wings, while lowland New Guinea forms produce broader, more squat pitchers.
+The species exhibits considerable morphological [[psilocybin-psilocin-variation-across-flushes]] its range. Highland forms from Sulawesi tend to have more elongated pitchers with pronounced wings, while lowland New Guinea forms produce broader, more squat pitchers.
 
 Stems are cylindrical and can climb to heights exceeding 5 m in mature plants. Leaves are sessile or sub-petiolate, with a lanceolate to oblong lamina.
 
@@ -70,7 +70,7 @@ High humidity (60–80%) promotes optimal pitcher production, though established
 
 N. maxima provides an important ecological service in its native habitats by trapping insect prey. The nutrient capture supplements growth in the typically nutrient-poor soils where the species occurs.
 
-Several infaunal organisms have been recorded from N. maxima pitchers, including mosquito larvae (particularly *Toxorhynchites* spp.), fly larvae, and aquatic mites. These commensals feed on captured prey and contribute to digestion.
+Several infaunal organisms have been recorded from N. maxima pitchers, including mosquito larvae (particularly *Toxorhynchites* spp.), [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]], and aquatic mites. These commensals feed on captured prey and contribute to digestion.
 
 The species serves as a minor food source for arboreal mammals and birds in New Guinea, which occasionally damage pitchers while foraging. The robust stems may also provide climbing support for small vertebrates.
 
@@ -84,7 +84,7 @@ Notable hybrids include N. × maxima (with N. northiana), N. × hookeriana (with
 
 The species is frequently used in breeding programs aimed at combining the cold tolerance of highland species with the heat tolerance of lowland forms. N. maxima itself, with its wide altitudinal range, bridges this gap effectively.
 
-Commercial tissue culture has made selected clones widely available. The cultivar N. maxima "Borneo Exotica" is particularly popular for its large, richly colored pitchers.
+Commercial [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] has made selected clones widely available. The cultivar N. maxima "Borneo Exotica" is particularly popular for its large, richly colored pitchers.
 
 ## Related Species and Taxonomic Notes
 

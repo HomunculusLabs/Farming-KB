@@ -11,11 +11,11 @@ sources:
 # Ingham Field Guide — Actively Aerated Compost Tea
 
 *The Field Guide I for Actively Aerated Compost Tea (AACT)* by Dr. Elaine R. Ingham (2001-2003, published 2004) is the definitive practical reference for making and applying [[ingham-aact-disease-suppression]]
-- Nutrient cycling and retention
-- Specific disease and pest management protocols
+- [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and retention
+- Specific disease and [[cannabis-pest-management-guide]] protocols
 - [[compost-biology-soil-food-web-inoculation]] must be established and maintained for plant health
 2. AACT is the most efficient method for rapidly inoculating soil and plant surfaces with beneficial organisms
-3. Disease suppression comes from outcompeting pathogens, not killing them
+3. [[aact-disease-suppression-mechanisms-ingham]] comes from outcompeting pathogens, not killing them
 4. [[compost-tea-aact]], [[soil-food-web-structure]], [[psilocybin-extraction-guide]], [[garlic-growing-guide]], [[ashwagandha-growing-guide]], [[fukuoka-road-back-to-nature-overview]], [[morel-mushroom-guide]]
 
 ## Practical Applications
@@ -23,7 +23,7 @@ sources:
 The principles outlined on this page connect directly to hands-on work in gardens,
 farms, and homesteads. Integrating these concepts with complementary techniques from
 related disciplines can significantly improve outcomes. Start with small-scale
-implementation and scale up as understanding deepens through direct observation.
+implementation and scale up as understanding deepens through [[fukuoka-direct-observation-method]].
 
 ## Practical Applications
 
@@ -38,7 +38,7 @@ helps refine amendment strategies for specific soil conditions and crop needs.
 
 Regular monitoring of soil biology through microscope analysis provides
 valuable feedback on the effectiveness of management practices. Key indicators
-include bacterial biomass, fungal biomass, protozoan populations, and
+include bacterial biomass, [[bioremediation-fungal-biomass-biosorbent-material]], protozoan populations, and
 nematode community structure. Changes in these populations over time reveal
 trends in soil health that may not be visible through chemical testing alone.
 This biological perspective complements conventional soil analysis and provides
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: plant memory and learning
+title: plant plant-memory-and-learning-mechanisms
 created: 2026-04-28
 tags: [plant-biology, plant-memory, vernalization, epigenetics,
        plant-senses]
@@ -59,12 +59,12 @@ that germinate in autumn rather than spring.
 Plants can be "primed" by prior exposure to stress, resulting in faster,
 stronger, or more effective responses to subsequent stress encounters.
 This form of memory, sometimes called systemic acquired resistance (SAR)
-or induced systemic resistance (ISR), can persist for weeks to months
+or [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance (ISR), can persist for weeks to months
 and in some cases appears to be transmitted to offspring through
 transgenerational epigenetic inheritance.
 
 When a plant is attacked by pathogens, it activates defense pathways
-centered on the signaling molecule salicylic acid (SA). After the
+centered on the signaling molecule [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]] (SA). After the
 initial infection is resolved, the plant maintains elevated levels of
 defensive proteins and a heightened state of alertness. If the same or
 a related pathogen attacks again, the primed plant mounts a defense

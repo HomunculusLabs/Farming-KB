@@ -1,10 +1,11 @@
 ---
-title: Pasture Management
+title: grassland-pasture-management-mollison
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [forage, animal-husbandry, homesteading, regenerative, permaculture, livestock]
-sources: []
+sources:
+  sources: []
 ---
 
 # Pasture Management
@@ -12,7 +13,7 @@ sources: []
 Pasture management is the foundation of any grass-based livestock system.
 Properly managed pastures produce more forage per acre, build soil health,
 sequester carbon, reduce feed costs, and break parasite life cycles. The
-principles of rotational grazing and adaptive multi-paddock management can
+principles of [[comparison-rotational-grazing-vs-continuous-grazing]] and adaptive multi-paddock management can
 transform marginal land into productive, resilient pasture.
 
 ## Rotational Grazing
@@ -20,7 +21,7 @@ transform marginal land into productive, resilient pasture.
 ### The Principle
 Rotational grazing divides pasture into smaller paddocks and moves animals
 through them on a schedule, allowing each paddock a rest period for regrowth.
-This mimics natural grazing patterns of wild herbivores and stimulates both
+This mimics [[fukuoka-factory-livestock-critique-natural-grazing-philosophy]] patterns of wild herbivores and stimulates both
 plant and soil health.
 
 ### Benefits
@@ -31,7 +32,7 @@ plant and soil health.
 - Deeper root systems — plants grow deeper when grazed and rested properly.
 - Improved water infiltration — root channels and organic matter increase
   soil porosity.
-- Carbon sequestration — grazing stimulates root exudates that feed soil
+- [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] — grazing stimulates root exudates that feed soil
   microbes, building soil organic carbon.
 
 ### Implementation
@@ -39,7 +40,7 @@ plant and soil health.
   fencing. See [[livestock-fencing-guide]].
 - Move animals when the pasture is grazed to the target residual height.
 - Rest each paddock until plants have fully recovered.
-- Adjust stock density (animals per acre) based on forage availability and
+- Adjust [[savory-fencing-economics-and-stock-density-curve]] (animals per acre) based on forage availability and
   season.
 
 ### Grazing Management Rules
@@ -100,7 +101,7 @@ plant and soil health.
   infected types cause fescue toxicosis in livestock — use novel endophyte
   varieties.
 - **Timothy:** High quality, good for hay. Less persistent under grazing.
-- **Smooth Bromegrass:** Aggressive, sod-forming. Good for erosion control.
+- **Smooth Bromegrass:** Aggressive, sod-forming. Good for [[permplant-willows-salix-erosion-control-fodder]].
 
 ### Warm-Season Grasses (Grow in Summer)
 - **Bermudagrass:** Highly productive in hot climates. Requires good
@@ -139,59 +140,10 @@ plant and soil health.
 - General guidelines for cool-season pastures:
   - Spring (rapid growth): 14-21 days
   - Early summer: 21-30 days
-  - Mid-summer (drought): 30-60+ days
-  - Fall: 30-45 days
-- Rest until plants have 3-4 fully expanded leaves before re-grazing.
+## See Also
 
-### Stockpiling
-- Allow pasture to grow ungrazed in late summer/fall for winter grazing.
-- Tall fescue and orchardgrass stockpile well. Strip-graze with temporary
-  fencing to minimize waste. Can reduce winter hay feeding 30-60 days.
-
-## Stocking Density
-
-### Definitions
-- **Stocking rate:** total number of animals per acre for the entire season.
-- **Stocking density:** number of animals per acre at a given moment
-  (in rotational systems, this is much higher than stocking rate).
-
-### Calculating Stocking Rate
-- A 1000 lb cow-calf pair consumes approximately 2.5-3% of body weight in
-  dry matter daily = 25-30 lbs/day.
-- Good pasture produces 5000-10000 lbs of dry matter per acre per year.
-- Rule of thumb: 1-2 cow-calf pairs per acre on improved cool-season pasture.
-- Adjust for: soil fertility, rainfall, forage species, management level.
-
-### Animal Unit Equivalents
-- 1 Animal Unit (AU) = 1000 lb cow.
-- Sheep: 5 sheep = 1 AU.
-- Goats: 5-6 goats = 1 AU.
-- Horse: 1.25 AU.
-- Stocking calculations should be based on total animal units.
-
-### Overstocking Indicators
-- Pasture grazed below 2-3 inches consistently.
-- Weeds increasing (bare soil allows weed germination).
-- Animals losing body condition. Erosion visible.
-- If any of these occur, reduce stocking rate or improve pasture productivity.
-
-## Integrating with Homestead Systems
-
-- Pasture integrates with [[homestead-permaculture-design]] through zone
-  planning and multi-species grazing.
-- Poultry following cattle reduces parasite larvae (birds eat larvae from
-  manure pats).
-- Pigs can be used for pasture renovation (rooting up old sod for reseeding).
-- Manure from confined animals can be composted and applied to pasture.
-- See [[hay-and-forage-management]] for winter feed production from the same
-  land.
-
-## Links
-
-- [[goat-husbandry]]
-- [[sheep-husbandry]]
-- [[cattle-husbandry]]
-- [[livestock-fencing-guide]]
+- [[permaculture-pasture-management]]
 - [[hay-and-forage-management]]
-- [[livestock-feed-formulation]]
-- [[integrated-homestead-design]]
+- [[livestock-fencing-guide]]
+- mollison-designers-sheep-management-grazing-systems
+- [[pasture-management-and-forage]]

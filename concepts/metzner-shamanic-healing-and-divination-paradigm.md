@@ -1,5 +1,5 @@
 ---
-title: Metzner Shamanic Healing and Divination Paradigm
+title: Metzner metzner shamanic healing and divination paradigm and Divination Paradigm
 tags: [shamanism, entheogen, psychotherapy, divination, healing, plant-teachers, consciousness, metzner]
 date: 2026-04-28
 updated: 2026-04-28
@@ -28,7 +28,7 @@ understood as an actual process of spiritual dissolution and reformation.
 
 ## Ceremonial Structure
 
-Shamanic entheogenic ceremonies share a consistent structural pattern across
+Shamanic [[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]] share a consistent structural [[psilocin-accumulation-pattern-across-flushes]]
 cultures. A small group of six to twelve people gathers with respectful,
 spiritual attitudes. The ceremonies involve very little talking among
 participants, except during preparatory phases or afterward to clarify visions
@@ -57,6 +57,8 @@ uninterruptedly throughout the night, weaving the names of Christian saints,
 spirit allies, and the spirits of the Earth, elements, animals, plants, sky,
 ## See Also
 
+- [[shamanic-healing-variants-and-divination]]
+
 - [[metzner-hybrid-shamanic-therapeutic-rituals]]
 - [[icaros-power-songs]]
 ## Practical Considerations
@@ -77,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,19 +1,12 @@
 ---
-title: Fungal Enzyme Systems for Xenobiotic Degradation
+title: fungal-enzyme-systems for Xenobiotic Degradation
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, fungi]
+tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Enzyme Systems for Xenobiotic Degradation
-
-Fungi deploy a diverse arsenal of enzyme systems to degrade xenobiotic compounds. These range from the highly non-specific extracellular [[white-rot-fungi-effluent-decolorization]] to more specific intracellular cytochrome P450 monooxygenases. Understanding these systems is essential for developing effective [[fungal-biodegradation-of-synthetic-pollutants]]. Organism selection must be based on enzyme profiling, not taxonomy alone.
-
-## See Also
-
-- [[fungal-lignin-degradation-enzymology]]
-- [[fungal-bioremediation-mechanisms]]
+# Fungal Enzyme Systems for Xenobiotic Degradation Fungi deploy a diverse arsenal of enzyme systems to degrade xenobiotic compounds. These range from the highly non-specific extracellular white-rot-fungi-effluent-decolorization to more specific intracellular cytochrome P450 monooxygenases. Understanding these systems is essential for developing effective fungal-biodegradation-of-synthetic-pollutants. Organism selection must be based on enzyme profiling, not taxonomy alone. ## See Also - fungal-lignin-degradation-enzymology - [[fungal-bioremediation-mechanisms]]
 - [[fungal-degradation-explosives-tnt-rdx]]
 ## Background and Context
 
@@ -65,7 +58,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -115,7 +108,7 @@ Building resilience into systems through diversity, redundancy, and
 adaptive capacity helps mitigate the impacts of these uncertainties.
 
 Knowledge gaps and the ongoing evolution of understanding mean that
-current best practices represent our current state of knowledge rather
+current [[knf-imo-diversity-and-best-practices]] represent our current state of knowledge rather
 than final answers. Practitioners should maintain intellectual humility
 and remain open to new information and approaches that may improve
 upon established methods. Continuous learning and observation are
@@ -143,4 +136,4 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-
+- [[lignin-degradation]]

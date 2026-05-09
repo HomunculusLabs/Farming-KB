@@ -63,7 +63,7 @@ Enslaved Africans in Brazil came from many regions, including West Central Afric
 Their languages, cosmologies, combat games, dances, and musical forms contributed to new Afro-Brazilian practices.
 Scholars debate exact origins because written sources are often hostile, fragmentary, or produced by police and elites.
 The word capoeira may refer to brush, cleared vegetation, baskets, or urban contexts depending on etymological interpretation.
-In the nineteenth century, capoeira was strongly associated with Rio de Janeiro street groups, dockworkers, freed people, and marginalized youth.
+In the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], capoeira was strongly associated with Rio de Janeiro street groups, dockworkers, freed people, and marginalized youth.
 Practitioners known as capoeiras appeared in police records, newspapers, and political conflicts.
 Some capoeiras were feared as fighters, bodyguards, gang members, or political agents.
 After Brazilian abolition in 1888, capoeira remained stigmatized by racialized policing.
@@ -78,7 +78,7 @@ He helped secure official recognition by presenting capoeira as a disciplined na
 The Vargas-era search for Brazilian national identity created both opportunities and constraints for Afro-Brazilian cultural forms.
 Capoeira was gradually rebranded as folklore, sport, heritage, and symbol of Brazil.
 This legitimation did not erase racial inequality or the struggles of practitioners.
-In the late twentieth century, capoeira expanded internationally through migration, tourism, workshops, performances, and cultural exchange.
+In the late [[coleman-louis-savier-twentieth-century-maraicher]], capoeira expanded internationally through migration, tourism, workshops, performances, and cultural exchange.
 UNESCO recognized the capoeira roda as intangible cultural heritage in 2014.
 Globalization has created new communities while raising questions about commercialization, appropriation, lineage, and language.
 The art continues to evolve while maintaining deep respect for ancestry and oral transmission.

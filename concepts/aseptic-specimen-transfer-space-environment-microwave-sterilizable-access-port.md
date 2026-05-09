@@ -7,9 +7,9 @@ interconnected life-support infrastructure.
 
 Historically, aseptic removal of samples and addition of materials to sterile
 systems has been compromised by the lack of a reliable [[sterilization-techniques-mushroom-cultivation]] are unsuitable for in-space
-specimen transfer scenarios:
+aseptic specimen transfer space environment microwave sterilizable access port scenarios:
 
-- **Autoclaving** (steam sterilization): Imposes excessive thermal loads on
+- **Autoclaving** ([[pf-tek-steam-sterilization-pot-method-common-pottery]]): Imposes excessive thermal loads on
   surrounding systems and requires large energy expenditure, making it
   impractical for repeated use aboard spacecraft with limited power budgets.
 
@@ -80,7 +80,7 @@ Key design considerations for the microwave field include:
   mating surfaces, eliminating cold spots where microorganisms could survive.
 
 - **Material selection**: Microwave-reflective materials confine energy within
-  the sterilization zone, while transparent materials allow penetration to
+  the sterilization zone, while [[microwave-reflective-transparent-materials-surface-sterilization]] allow penetration to
   recessed surfaces, ensuring comprehensive coverage of complex geometries.
 
 - **Pre- and post-transfer sterilization**: The protocol requires sterilization
@@ -115,6 +115,8 @@ Its modular, reusable design aligns with spacecraft mass and power constraints
 while providing a repeatable, verifiable sterilization process for each
 transfer event.
 ## See Also
+
+- [[msap-subsystem-architecture-microwave-sterilizable-access-port]]
 
 - [[microwave-sterilization]]-technology
 - aseptic processing space biology

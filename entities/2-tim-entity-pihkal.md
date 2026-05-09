@@ -1,5 +1,5 @@
 ---
-title: "2-TIM (2-THIOISOMESCALINE; 3,4-DIMETHOXY-2-) -- PIHKAL Entry #152"
+title: "2-TIM (2-THIOISOMESCALINE; 3,4-DIMETHOXY-2-) -- 2c-b-pihkal-entry-20 #152"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -97,7 +97,7 @@ deg C. Anal. (C15H15N3O9S) N.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

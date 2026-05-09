@@ -15,7 +15,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 5-MeO-MiPT (5-methoxy-N-methyl-N-isopropyltryptamine) is a synthetic psychedelic
 tryptamine first synthesized and characterized by Alexander Shulgin. It is
 documented in tihkal (Tryptamines I Have Known and Loved), where it is described
-as producing a warm, sensual, and predominantly physical psychedelic experience
+as producing a warm, sensual, and predominantly physical [[leary-psychedelic-experience-bardo-mapping]]
 compared to the more visual and cognitive effects of [[psilocin]].
 Its informal name "Moxy" reflects its methoxy substitution pattern.
 
@@ -54,7 +54,7 @@ metabolized by monoamine oxidase (MAO) and by cytochrome P450 enzymes, with the
 isopropyl group providing some resistance to oxidative deamination. This metabolic
 stability, relative to [[psilocin]] or [[5-meo-dmt-entity]], it is longer-acting, less overwhelming, and produces
 more body-focused effects. Compared to 5-MeO-DiPT ("Foxy Methoxy"), it is less
-auditorily distortive and generally regarded as having a more benign safety profile.
+auditorily distortive and generally regarded as having a more benign [[cannabis-safety-profile-and-overdose-risk]].
 The isopropyl substitution on the amine nitrogen is the key structural feature
 distinguishing it from these relatives and is responsible for its unique balance of
 oral bioavailability, duration, and subjective character.
@@ -63,10 +63,10 @@ oral bioavailability, duration, and subjective character.
 
 Formal toxicological data for 5-MeO-MiPT is limited. Like other serotonergic
 psychedelics, it carries theoretical risks of triggering latent psychiatric
-conditions in susceptible individuals. Shulgin noted no serious adverse effects at
+conditions in susceptible individuals. Shulgin noted no serious [[blesching-cannabis-safety-adverse-effects-evidence]] at
 reasonable doses but cautioned that the compound can be dysphoric at doses above
 the effective range. There are no confirmed deaths directly attributable to
-5-MeO-MiPT. As with all tryptamines, caution is advised regarding drug interactions,
+5-MeO-MiPT. As with all tryptamines, caution is advised regarding [[cannabis-drug-interactions-and-contraindications]],
 particularly with serotonergic medications (SSRIs, MAOIs, tramadol) which could
 theoretically precipitate serotonin syndrome.
 
@@ -86,7 +86,7 @@ have tightened in many jurisdictions.
 5-MeO-MiPT is not explicitly scheduled in most countries but may be controlled
 under analog drug provisions or generic tryptamine controls. In the US, it exists
 in a regulatory gray area under the Federal Analog Act but is not specifically
-listed in the Controlled Substances Act. It is controlled in the UK under the
+listed in the Controlled [[controlled-substances-act-and-psychedelic-research]]. It is controlled in the UK under the
 Psychoactive Substances Act (2016) and in several other European countries. Its
 legal status varies significantly by jurisdiction.
 

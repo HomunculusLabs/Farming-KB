@@ -1,5 +1,5 @@
 ---
-title: "Aboveground Herbivory Effects on Mycorrhizal Communities"
+title: "dighton aboveground herbivory mycorrhizal effects Effects on Mycorrhizal Communities"
 created: 2026-04-28
 tags:
   - herbivory
@@ -17,9 +17,9 @@ type: concept
 # Aboveground Herbivory Effects on Mycorrhizal Communities
 
 Aboveground herbivory -- the consumption of plant foliage, shoots, or bark by
-animals -- can profoundly influence the belowground mycorrhizal fungal
+animals -- can profoundly influence the belowground [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 communities associated with host plants. In [[fungal-ecology]], herbivory represents a critical indirect pathway by which
-animals affect [[dighton-fungal-mediated-plant-competition]] and the role of mycorrhizae in [[fungal-interactions-soil-fauna]]
+animals affect [[dighton-fungal-mediated-plant-competition]] and the role of mycorrhizae in fungal-interactions-soil-fauna
 - [[dighton-ectomycorrhizal-ecosystem-impact]]
 - [[dighton-fungal-trophic-interactions-soil-food-webs]]
 ## Practical Applications
@@ -99,4 +99,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

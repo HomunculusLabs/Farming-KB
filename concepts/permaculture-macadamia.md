@@ -3,46 +3,29 @@ title: Macadamia (Macadamia spp)
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [[permaculture, design]
+tags: [permaculture, design]
 sources: [/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md]
 ---
-
-# Macadamia (Macadamia spp)
-
-## Description
-
-- Small to medium, long-lived evergreen tree
-
-- Family: Proteaceae
-
-- First Australian native tree developed into commercial crop
-
-- Commences nut production years 4-6
-
-- Hard to about -4°C; heavy frost kills small trees and reduces yields on mature trees
-
-- Fairly drought tolerant; more reliable with irrigation (especially spring and early summer)
-
-Macadamias are among the most valuable [[permaculture-climate-zones]]. Their long productive lifespan makes them an excellent long-term investment in any [[permaculture-zone-planning]] is essential for macadamias given their spacing requirements and need for shelter. Young trees benefit from interplanting with [[permaculture-sheet-mulch-detailed-guide]] techniques helps retain moisture in the root zone without risking root damage from cultivation.
+# Macadamia (Macadamia spp) ## Description - Small to medium, long-lived evergreen tree - Family: Proteaceae - First Australian native tree developed into commercial crop - Commences nut production years 4-6 - Hard to about -4°C; heavy frost kills small trees and reduces yields on mature trees - Fairly drought tolerant; more reliable with irrigation (especially spring and early summer) Macadamias are among the most valuable [[permaculture-climate-zones]]. Their long productive lifespan makes them an excellent long-term investment in any permaculture-zone-planning is essential for macadamias given their spacing requirements and need for shelter. Young trees benefit from interplanting with [[permaculture-sheet-mulch-detailed-guide]] techniques helps retain moisture in the root zone without risking root damage from cultivation.
 
 ## Nutrition (per 100g edible portion)
 
 Water 3.0%, Energy 691 cal, Carbohydrate 15.9g, Fat 71.6g, Protein 7.8g, Calcium 48mg, Potassium 264mg, Phosphorous 161mg, Iron 2.0mg
 
-The high fat content makes macadamia nuts one of the most energy-dense tree crops. They are comparable in caloric value to other [[permaculture-fruit-tree-guide]] plantings where a managed harvest is desired. It responds well to [[permaculture-difficult-sites-plant-guide]] where drainage or disease pressure is a concern. Its use as rootstock can combine the nut quality of integrifolia scions with the hardiness of tetraphylla root systems, following principles in [[permaculture-plant-propagation-guide]] for general techniques. Grafted trees using [[permaculture-tagasaste]], small acacias, cassias. Small acacias reduce Phytophthora root attack risk. Wind protection critical.
+The high fat content makes macadamia nuts one of the most energy-dense tree crops. They are comparable in caloric value to other [[permaculture-fruit-tree-guide]] plantings where a managed harvest is desired. It responds well to [[permaculture-difficult-sites-plant-guide]] where drainage or disease pressure is a concern. Its use as rootstock can combine the nut quality of integrifolia scions with the hardiness of tetraphylla root systems, following principles in [[permaculture-plant-propagation-guide]] for general techniques. Grafted trees using [[permaculture-tagasaste]], small acacias, cassias. Small acacias reduce [[amf-biocontrol-phytophthora-root-exudate-modification]] attack risk. [[cervantes-wind-protection-outdoor-cannabis]] critical.
 
-This follows [[permaculture-wattles]] and [[permaculture-windbreak]] should be established before planting macadamias in exposed locations. See also [[permaculture-soil-strategies]] through organic matter cycling. The dense canopy provides shade for understory crops in [[composting-materials-alternative]] systems.
+This follows [[permaculture-wattles]] and permaculture-windbreak should be established before planting macadamias in exposed locations. See also permaculture-soil-strategies through [[hamilton-composting-and-organic-matter-management]] cycling. The dense canopy provides shade for understory crops in [[composting-materials-alternative]] systems.
 
 ## Harvest and Processing
 
-Nuts fall naturally when ripe and must be collected promptly to prevent mould. Husks should be removed within 24 hours. Drying to approximately 1.5% moisture content is essential for storage. This labour-intensive processing makes macadamias well suited to [[permaculture-chestnut]]
+Nuts fall naturally when ripe and must be collected promptly to prevent mould. Husks should be removed within 24 hours. Drying to approximately 1.5% moisture content is essential for storage. This labour-intensive processing makes macadamias well suited to permaculture-chestnut
 
 - [[permaculture-tagasaste]]
 
 - [[permaculture-tree-crop-systems]]
 
 - [[growing-tree-fruit-organically]]
-- [[macadamia]]
+- macadamia
 ## Practical Considerations
 
 When working with Macadamia (Macadamia spp), several practical factors should be
@@ -59,7 +42,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +84,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Farjon, A. (2005). "A Monograph of Cupressaceae and Sciadopitys." Royal Botanic Gardens, Kew.
-  - Bartel, J.A. (1993). "Cupressus macrocarpa." In: "Flora of North America," Vol. 2, Oxford University Press.
+  - Bartel, J.A. (1993). "Cupressus macrocarpa." In: "Flora of [[psilocybin-north-america-pacific-northwest]]," Vol. 2, Oxford University Press.
   - Griffen, K.R. (1968). "Cupressus macrocarpa (Monterey Cypress): A Literature Review." USDA Forest Service.
   - Thomas, P. (2011). "Cupressus macrocarpa." IUCN Red List of Threatened Species.
   - New Zealand Forest Research Institute (2005). "Cypress Timber Species Manual."
@@ -25,9 +25,9 @@ Wild populations contain an estimated 10,000–15,000 mature trees, distributed 
 
 Molecular studies using microsatellite markers have confirmed the two populations represent distinct management units, each requiring separate conservation strategies.
 
-Despite its extremely limited native distribution, Monterey cypress is one of the most widely planted ornamental conifers in the world. Its rapid growth, salt tolerance, and tolerance of coastal exposure have made it a standard choice for windbreaks, hedges, and landscape plantings in temperate maritime regions. The species is critically endangered in its native range due to habitat loss, disease, and hybridization with closely related species.
+Despite its extremely limited native distribution, Monterey cypress is one of the most widely planted ornamental conifers in the world. Its rapid growth, [[fungal-salt-tolerance-and-ion-homeostasis]], and tolerance of coastal exposure have made it a standard choice for windbreaks, hedges, and landscape plantings in temperate maritime regions. The species is critically endangered in its native range due to habitat loss, disease, and hybridization with closely related species.
 
-The contrast between its minuscule natural range and its global cultivation footprint makes Monterey cypress one of the most striking examples of a species that is simultaneously endangered in the wild and abundant in horticulture. This paradox complicates conservation assessments, as the species' survival does not depend solely on its native populations. However, cultivated populations are genetically depauperate compared to wild stands, and conservation of the native gene pool remains essential for the species' long-term evolutionary potential.
+The contrast between its minuscule natural range and its global cultivation footprint makes Monterey cypress one of the most striking examples of a species that is simultaneously endangered in the wild and abundant in horticulture. This paradox complicates conservation assessments, as the species' survival does not depend solely on its native populations. However, cultivated populations are genetically depauperate compared to wild stands, and conservation of the native [[cannabis-gene-pool-preservation-acclimatization-clarke]] remains essential for the species' long-term evolutionary potential.
 
 ## Taxonomy and Morphology
 
@@ -71,7 +71,7 @@ Native Monterey cypress forests support a distinct lichen community adapted to t
 
 Hybridization with introduced *Cupressus* species poses a significant genetic threat to the native populations. The Leyland cypress (*× Cupressocyparis leylandii*), a hybrid between C. macrocarpa and C. nootkatensis, is widely planted near native groves. Backcrossing with hybrids dilutes the genetic integrity of wild populations.
 
-Cypress canker disease, caused by the fungal pathogen *Seiridium cardinale*, has affected planted Monterey cypress worldwide and has been detected in native populations. The disease causes branch dieback and can kill young trees. Conservation efforts include monitoring disease progression and establishing disease-free seed orchards.
+Cypress canker disease, caused by the [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] *Seiridium cardinale*, has affected planted Monterey cypress worldwide and has been detected in native populations. The disease causes branch dieback and can kill young trees. Conservation efforts include monitoring disease progression and establishing disease-free seed orchards.
 
 The species is listed as **Vulnerable** on the IUCN Red List. Conservation strategies include the removal of non-native *Cupressus* species from buffer zones around native groves to reduce hybridization pressure, and the collection and storage of genetically pure seed from remaining wild populations. Genetic studies have identified distinct genotypes in the two native populations, underscoring the importance of conserving both.
 
@@ -83,7 +83,7 @@ In New Zealand, where the species has been planted extensively since the late 19
 
 Growth rates in New Zealand plantations are significantly higher than in the native range, with mean annual increments of 15–25 m³/ha on productive sites. Rotation lengths of 25–35 years are typical for timber production. However, cypress canker disease has reduced the commercial viability of the species in some regions, leading to increased interest in disease-resistant hybrids such as C. × ovensii (C. macrocarpa × C. lusitanica).
 
-The species is also a source of essential oil extracted from foliage and twigs. The oil contains α-pinene, δ-3-carene, and terpinolene as major constituents and has been investigated for antimicrobial and insect-repellent properties. Indigenous peoples of the Monterey area historically used the wood for structural purposes and ceremonial items.
+The species is also a source of [[permaculture-designers-manual-essential-oil-plants]] extracted from foliage and twigs. The oil contains α-pinene, δ-3-carene, and terpinolene as major constituents and has been investigated for antimicrobial and insect-repellent properties. Indigenous peoples of the Monterey area historically used the wood for structural purposes and ceremonial items.
 
 In traditional aromatherapy, Monterey cypress essential oil is used as a respiratory aid and stress reliever. The wood contains tropolone compounds, including nootkatin, which contribute to its natural durability and resistance to wood-boring insects. These compounds have attracted pharmaceutical interest for their antifungal and antibacterial activities.
 
@@ -99,7 +99,7 @@ In the British Isles, the species has been planted since the 1830s and is one of
 
 The species is hardy to approximately -15°C (USDA zone 8) but is susceptible to cold damage in continental climates. It performs best in maritime climates with cool summers and mild winters. In hot, dry interior climates, the species requires supplemental irrigation and is prone to spider mite infestations. Ornamental cultivars with golden or variegated foliage are popular in the nursery trade.
 
-The Leyland cypress (*× Cupressocyparis leylandii*), a fertile hybrid between C. macrocarpa and Nootka cypress (*Callitropsis nootkatensis*), is one of the most widely planted hedging plants in the world. First raised in Wales in 1888, it inherits the rapid growth of Monterey cypress and the cold hardiness of Nootka cypress, making it adaptable to a broader range of climates than either parent.
+The Leyland cypress (*× Cupressocyparis leylandii*), a fertile hybrid between C. macrocarpa and Nootka cypress (*Callitropsis nootkatensis*), is one of the most widely planted hedging plants in the world. First raised in Wales in 1888, it inherits the rapid growth of Monterey cypress and the [[coleman-cold-hardiness-testing-ratings]] of Nootka cypress, making it adaptable to a broader range of climates than either parent.
 
 ## See Also
 

@@ -1,5 +1,5 @@
 ---
-title: Microclimate Creation and Frost Protection
+title: mollison designers microclimate creation frost protection and holzer-frost-protection-techniques
 created: 2026-04-28
 tags:
   - microclimate-design
@@ -22,7 +22,7 @@ Microclimate creation is a core skill in [[passive-solar-design]] integration
   slowly at night. Water has the highest volumetric heat capacity of
   common materials (4.2 J/cm3/K)
 - **Earth berms:** Mounded earth on the north side of plantings
-  provides both thermal mass and wind protection. Combined with
+  provides both thermal mass and [[cervantes-wind-protection-outdoor-cannabis]]. Combined with
   [[pond-and-aquaculture]] ponds:** Integrate frost protection with food
   production. Ponds positioned to catch morning sun warm quickly and
   influence adjacent plantings
@@ -37,13 +37,13 @@ Microclimate creation is a core skill in [[passive-solar-design]] integration
 ## Windbreaks and Shelterbelts
 
 Wind increases convective heat loss from plants and soil, exacerbating
-frost damage. Mollison describes windbreak design for frost protection:
+frost damage. Mollison describes [[comparison-windbreak-design-vs-species-selection]] for frost protection:
 
 - **Height to distance ratio:** Wind protection extends approximately
   10-15 times the height of the windbreak on the leeward side. A
   5-meter windbreak protects 50-75 meters downwind
 - **Density:** 40-60% density provides the best combination of wind
-  reduction and air circulation. Too-dense windbreaks create turbulence
+  reduction and [[stamets-growing-room-air-circulation-co2-management]]. Too-dense windbreaks create turbulence
   on the leeward side and impede cold air drainage
 - **Species selection:** Evergreen species provide year-round wind
   protection; deciduous species allow winter sun penetration. Mollison
@@ -64,7 +64,7 @@ microclimate beneath. Mollison notes:
   open fields than in orchards or forests
 - **Ground covers:** Living ground covers or mulch insulate soil and
   reduce heat loss. Bare soil radiates heat rapidly at night
-- **Weed management:** Dense weed growth or [[pdc-design-methods-site-analysis]]
+- **[[fukuoka-weed-management-and-green-manure]]:** Dense weed growth or [[pdc-design-methods-site-analysis]]
 ## Practical Considerations
 
 Successful implementation of Microclimate Creation and Frost Protection requires attention to
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

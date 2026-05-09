@@ -5,12 +5,13 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Personal Journey of Masanobu Fukuoka
 
-The story of Masanobu Fukuoka's life is inseparable from the development of his natural farming method. His [[fukuoka-one-straw-revolution-philosophy]] that has inspired farmers and gardeners around the world.
+The story of Masanobu Fukuoka's life is inseparable from the development of his [[comparison-natural-farming-vs-permaculture]] method. His [[fukuoka-one-straw-revolution-philosophy]] that has inspired farmers and gardeners [[fungi-around-the-world-species-distribution]].
 
 ## Early Life and Education
 
@@ -60,7 +61,7 @@ His conviction that crops grow themselves was tested. He found that if you apply
 
 ## The Intermediate Years
 
-Fukuoka's father was shocked and suggested he take a job elsewhere. Fukuoka went to work for almost eight years at the Kochi Prefecture Testing Station as Head Researcher of Disease and Insect Control.
+Fukuoka's father was shocked and suggested he take a job elsewhere. Fukuoka went to work for almost eight years at the Kochi Prefecture [[fukuoka-straw-scattering-testing-station-resistance]] as Head Researcher of Disease and [[mushroom-pests-insect-control-stamets]].
 
 During those eight years, he was pondering the relationship between scientific and natural agriculture. The question was always in the back of his mind: whether natural agriculture could stand up against modern science.
 
@@ -70,12 +71,12 @@ When the war ended, he felt a fresh breeze of freedom and returned to his home v
 
 Fukuoka persisted through the difficult early years, and gradually his methods began to bear fruit. Over the course of more than three decades, he refined his approach through constant observation.
 
-He learned to read the signs that nature provided -- the weeds that indicated soil conditions, the insects that signaled [[fukuoka-barley-clover-cultivation]] method involved scattering rice straw on unplowed fields, allowing clover to grow as a living mulch, and broadcasting seeds in clay pellets.
+He learned to read the signs that nature provided -- the weeds that indicated soil conditions, the insects that signaled [[fukuoka-barley-clover-cultivation]] method involved scattering rice straw on unplowed fields, allowing clover to grow as a living mulch, and broadcasting seeds in [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]].
 
 This technique produced yields comparable to conventional farming while requiring a fraction of the labor and no chemical inputs. One or two people could do all the work of growing rice and winter grain on a quarter-acre field in a matter of a few days.
 
 ## Recognition and Global Influence
 
-Fukuoka's methods remained largely unknown outside his local area until the publication of "The One Straw Revolution" in 1975. Translated into many languages, the book attracted a worldwide following among farmers, gardeners, environmentalists, and spiritual seekers.
+Fukuoka's methods remained largely unknown outside his local area until the publication of "The One [[fukuoka-one-straw-revolution-conclusion]]" in 1975. Translated into many languages, the book attracted a worldwide following among farmers, gardeners, environmentalists, and spiritual seekers.
 
 Fukuoka became one of the most influential figures in the [[fukuoka-road-back-desert-reclamation]] and [[fukuoka-road-to-natural-farming]], [[fukuoka-mu-nothingness-philosophy]], [[fukuoka-do-nothing-farming-philosophy]]

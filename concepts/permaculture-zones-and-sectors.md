@@ -1,15 +1,16 @@
 ---
-title: Permaculture Zones and Sectors
+title: query-what-are-permaculture-zones-and-how-do-i-use-them and Sectors
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, design, patterns, ecological-design, water-management, principles]
-sources: []
+sources:
+  sources: []
 ---
 
 # Permaculture Zones and Sectors
 
-Permaculture zones and sectors are the foundational spatial planning tools of permaculture design. Zones organize elements by frequency of human use and maintenance needs. Sectors map external energies (sun, wind, fire, water, wildlife) flowing through a site. Together they enable efficient, resilient landscape design that minimizes energy input while maximizing yield.
+Permaculture zones and sectors are the foundational spatial planning tools of [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. Zones organize elements by frequency of human use and maintenance needs. Sectors map external energies (sun, wind, fire, water, wildlife) flowing through a site. Together they enable efficient, resilient landscape design that minimizes energy input while maximizing yield.
 
 ## Zone Analysis
 
@@ -22,18 +23,18 @@ The house or primary dwelling. This is the center of activity where people spend
 - Indoor living spaces
 - Kitchen and food preparation areas
 - Indoor herb gardens, sprouting setups
-- Passive solar design elements
+- [[comparison-passive-solar-vs-earth-sheltered]] design elements
 - Water harvesting from rooftops
 - Composting toilet or worm bin in attached greenhouse
 
-Zone 0 design focuses on energy efficiency, thermal comfort, and integrating growing systems into daily living spaces.
+Zone 0 design focuses on [[fukuoka-textdoc-energy-efficiency-agricultural-labor]], thermal comfort, and integrating growing systems into daily living spaces.
 
 ### Zone 1 — Intensive Garden
 
 Immediately surrounding the home, visited daily. Contains high-maintenance, high-yield elements:
 
 - Annual vegetable beds
-- Salad gardens and culinary herbs
+- Salad gardens and [[holzer-medicinal-and-culinary-herbs-compendium]]
 - Seedling nursery and propagation area
 - Small greenhouse or cold frame
 - Compost bins (close for kitchen scrap delivery)
@@ -49,7 +50,7 @@ Visited every few days. Lower maintenance than Zone 1 but still actively managed
 
 - Fruit and nut trees (semi-dwarf and standard)
 - Berry patches (raspberries, blackberries, strawberries)
-- Perennial vegetables (asparagus, rhubarb, artichokes)
+- [[comparison-perennial-vegetables-vs-cover-crops]] (asparagus, rhubarb, artichokes)
 - Larger composting systems
 - Poultry housing and forage areas
 - Pond or small water feature
@@ -141,37 +142,6 @@ Map all water flows onto the property:
 - Flood risk areas
 - Springs, seeps, and groundwater indicators
 - Potential sites for ponds, swales, and catchment
-
-Key design response: [[permaculture-earthworks]] such as swales and keyline systems capture, store, and slowly release water across the landscape. See [[keyline-design]] for detailed water management techniques.
-
-### Wildlife Sector
-
-Track animal movement corridors and foraging patterns:
-
-- Deer trails and browsing pressure zones
-- Bird migration routes and nesting areas
-- Beneficial insect habitat (hedgerows, wildflower strips)
-- Predator presence and livestock protection needs
-
-Key design response: Use fencing strategically, create wildlife corridors that bypass sensitive crops, and integrate habitat features that support beneficial species.
-
-## The Design Process
-
-1. Observe — Spend at least one full year observing the site through all seasons before major changes
-2. Map — Create base maps of topography, water flow, existing vegetation, structures
-3. overlay zones and sectors onto the base map
-4. place elements where zone needs match sector conditions
-5. Connect elements so outputs of one become inputs for another
-6. Iterate — design is never finished; adjust based on observation and feedback
-
-## Key Principles Applied
-
-- Relative location: every element should be placed in relation to others for maximum efficiency
-- Each element performs multiple functions
-- Each function is supported by multiple elements
-- Use biological resources over mechanical where possible
-- Work with nature, not against it
-
 ## See Also
 
 - [[forest-garden-layers]] for detailed polyculture layer design

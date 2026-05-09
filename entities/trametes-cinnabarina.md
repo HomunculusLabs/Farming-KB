@@ -62,11 +62,11 @@ It typically colonizes shaded, moist microhabitats on recently fallen branches s
 
 The most notable metabolite of *T. cinnabarina* is **cinnabarinic acid**, a red benzoxazinone pigment responsible for the species' distinctive coloration. This compound is produced enzymatically via oxidation of 3-hydroxyanthranilic acid and has been the subject of numerous pharmacological investigations.
 
-Additional metabolites include various sesquiterpenes, sterols (ergosterol and ergosterol peroxide), and phenolic acids. Laccase enzymes, common to white-rot fungi, are produced in significant quantities and have industrial relevance for bioremediation and biocatalysis.
+Additional metabolites include various sesquiterpenes, sterols (ergosterol and ergosterol peroxide), and phenolic acids. [[singh-fungal-laccase-enzymes-bioremediation]], common to white-rot fungi, are produced in significant quantities and have industrial relevance for bioremediation and biocatalysis.
 
 ## Pharmacology and Bioactivity
 
-Cinnabarinic acid has demonstrated **antibacterial activity** against Gram-positive bacteria including *Staphylococcus aureus* and *Bacillus subtilis*, with weaker activity against Gram-negative organisms. Antifungal effects against *Candida albicans* and *Aspergillus niger* have also been reported in vitro.
+Cinnabarinic acid has demonstrated **antibacterial activity** against Gram-positive bacteria including *Staphylococcus aureus* and *Bacillus subtilis*, with weaker activity against Gram-negative organisms. Antifungal effects against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and *Aspergillus niger* have also been reported in vitro.
 
 The pigment exhibits **antioxidant activity** through free radical scavenging in DPPH and ABTS assays, though potency is moderate compared to established antioxidants like ascorbic acid. Anti-inflammatory activity via COX-2 inhibition has been demonstrated in cell culture models.
 
@@ -78,7 +78,7 @@ The laccase enzymes produced by *T. cinnabarina* have applications in **biodegra
 
 The primary practical application is as a **source of natural red dye**. The cinnabarinic acid pigment can be extracted in hot water or ethanol solutions to produce vibrant orange-to-red dyes for textiles and paper. Traditional dyers in Europe and Asia have used this species, though synthetic dyes have largely replaced natural fungal pigments.
 
-The species has been investigated for **mycoremediation** potential due to its laccase production, showing capacity to degrade polycyclic aromatic hydrocarbons and synthetic dyes in laboratory settings.
+The species has been investigated for **mycoremediation** potential due to its laccase production, showing capacity to degrade [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons and synthetic dyes in laboratory settings.
 
 ## Similar Species
 
@@ -92,13 +92,13 @@ Other red-pored polypores include *Pycnoporus sanguineus*, which is brighter ora
 
 Sawdust-based substrates supplemented with wheat bran (10–20%) support robust colonization and fruiting. The species responds well to oak, beech, and mixed hardwood sawdust. Full colonization typically occurs in 14–21 days under laboratory conditions.
 
-Fruiting is induced by exposure to light (12 hours on/off) and fresh air exchange. Cold shock is not required but a 5°C temperature drop can accelerate primordia formation. Biological efficiency is low compared to edible species, making commercial cultivation impractical for food purposes.
+Fruiting is induced by exposure to light (12 hours on/off) and fresh air exchange. Cold shock is not required but a 5°C temperature drop can accelerate [[growing-gourmet-primordia-formation-pinning]]. [[stamets-biological-efficiency-yield]] is low compared to edible species, making commercial cultivation impractical for food purposes.
 
 ## Ecological Role
 
 As a white-rot fungus, *T. cinnabarina* plays an important role in forest nutrient cycling by decomposing lignin and cellulose in dead hardwood. Its enzymatic system targets lignin preferentially, leaving behind a bleached, fibrous residue.
 
-The species contributes to deadwood biodiversity by providing microhabitats for invertebrates and serving as a substrate for mosses and lichens on aged brackets. It is a relatively early colonizer of freshly fallen branches, often preceding more aggressive decomposers like *Trametes versicolor*.
+The species contributes to deadwood biodiversity by providing microhabitats for invertebrates and serving as a substrate for mosses and lichens on aged brackets. It is a relatively early colonizer of freshly fallen branches, often preceding more aggressive decomposers like *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]*.
 
 Interactions with other wood-inhabiting fungi include both competitive and successional dynamics. It is frequently succeeded by *Bjerkandera adusta* and *Trametes hirsuta* on longer-decayed substrates.
 

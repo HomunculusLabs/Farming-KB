@@ -1,17 +1,18 @@
 ---
-title: "Beneficial Insects vs Integrated Pest Management"
+title: "comparison beneficial insects guide vs integrated pest management vs natural-farming-guide-integrated-pest-management Management"
 created: 2026-04-28
 tags: [comparison, pest-management, biological-control, organic-gardening, ecology]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
 # Beneficial Insects vs Integrated Pest Management
 
 ## Overview
-Beneficial insects are living organisms that provide pest control through
+Beneficial insects are [[savory-living-organisms-as-tools]] that provide pest control through
 predation, parasitism, or pollination, while integrated pest management (IPM)
 is a systematic decision-making framework that combines multiple control
 strategies in order of least environmental disruption. Beneficial insects are
@@ -34,7 +35,7 @@ control measures must be taken. A few aphids on a tomato rarely warrant
 treatment, while any sign of late blight warrants immediate action due to the
 risk of rapid total crop loss. Step four applies control methods in a
 hierarchy of least disruption. Cultural controls come first (crop rotation,
-resistant varieties, proper spacing, sanitation, trap crops, drip irrigation).
+resistant varieties, proper spacing, sanitation, trap crops, [[comparison-drip-irrigation-vs-passive-irrigation]]).
 Biological controls come second (predators, parasitoids, Bt for caterpillars,
 Trichoderma for fungal suppression). Mechanical and physical controls come
 third (hand-picking, row covers, traps, copper tape). Chemical controls are
@@ -83,9 +84,9 @@ sprays at the first sign of any insect.
 ## Hybrid Approaches
 Beneficial insect conservation is the biological control pillar of any IPM
 program. The most effective pest management systems combine rigorous IPM
-monitoring with robust beneficial insect habitat. Use sticky traps and regular
+monitoring with robust beneficial [[hemenway-insectary-plants-and-beneficial-insects]]. Use sticky traps and regular
 scouting to detect problems early, then deploy beneficial insects as the first
-biological response before considering any sprays. This integration maximizes
+[[medicinal-mushrooms-biological-response-modifiers]] before considering any sprays. This integration maximizes
 natural pest suppression while retaining the IPM safety net of additional
 control options when thresholds are exceeded.
 

@@ -1,5 +1,5 @@
 ---
-title: Organic Pest Control
+title: cervantes-neem-oil-organic-pest-control Control
 created: 2026-04-28
 tags: [pest-control, organic-gardening, IPM, biological-control, companion-planting]
 date: 2026-04-25
@@ -96,4 +96,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

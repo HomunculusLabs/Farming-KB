@@ -5,7 +5,7 @@ updated: 2026-04-17
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  sources: []
 ---
 # Malt and Malting Process
 
@@ -36,7 +36,7 @@ Once the grain has absorbed sufficient water, it is spread out in a thin layer (
 
 - The embryo grows a small rootlet (acrospire) that travels along the length of the kernel
 - Enzymes are produced that will later convert starch to sugar: alpha-amylase, beta-amylase, limit dextrinase, and proteases
-- The grain's protein matrix begins to break down, making starches more accessible
+- The grain's protein matrix begins to [[query-can-fungi-break-down-plastic-pollution]], making starches more accessible
 - Cell walls within the endosperm are degraded by beta-glucanases
 
 The germination process must be carefully controlled. The grain is turned regularly to prevent rootlets from tangling, to distribute heat, and to ensure even germination. Temperature is maintained at 60-65 degrees F (15-18 degrees C). If germination goes too far, the grain consumes its own starch reserves, reducing the potential sugar yield.

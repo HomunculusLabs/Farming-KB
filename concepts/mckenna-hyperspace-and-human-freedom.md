@@ -14,8 +14,8 @@ updated: 2026-04-28
 sources: [mckenna_t-food_of_the_gods.md]
 ---
 # Hyperspace and Human Freedom
-The final chapters of *Food of the Gods* culminate in Terence McKenna's argument that the psychedelic dimension, which he calls "hyperspace," is not merely a subjective experience but a real domain accessible through tryptamine hallucinogens.
-His defense of the right to explore this dimension becomes a broader argument about human freedom, the failures of drug prohibition, and the necessity of the Archaic Revival.
+The final chapters of *Food of the Gods* culminate in Terence McKenna's argument that the psychedelic dimension, which he calls "hyperspace," is not merely a subjective experience but a real domain accessible through [[mckenna-tryptamine-hallucinogens-and-consciousness]].
+His defense of the right to explore this dimension becomes a broader argument about human freedom, the failures of drug prohibition, and the necessity of the [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]].
 ## The Fear Behind Prohibition
 What is most feared by those who advocate the unworkable Luddite solution of "Just say no" is a world in which all traditional community values have dissolved in the face of an endless search for self-gratification.
 McKenna acknowledges this fear as legitimate, but insists it cannot be addressed through witch hunts, the suppression of research, and the hysterical spreading of disinformation and lies.
@@ -23,7 +23,7 @@ Drugs have been a part of the galaxy of cultural concerns since the dawn of time
 In a sense what we have is not a drug problem, but a problem with the management of our technologies.
 Is our future to include the appearance of new synthetic drugs, a hundred or a thousand times more addictive than heroin or crack? The answer is absolutely yes, unless we bring to consciousness and examine the basic human need for chemical dependency.
 We are discovering that human beings are creatures of chemical habit with the same horrified disbelief as when the Victorians discovered that humans are creatures of sexual fantasy and obsession.
-This process of facing ourselves as a species is a necessary precondition to the creation of a more humane social and natural order.
+This process of facing ourselves as a species is a necessary precondition to the creation of a more humane social and [[fukuoka-textdoc-natural-order-food-chain-unity]].
 ## The Drug War as Civil Rights Issue
 McKenna identifies the drug war as fundamentally a civil rights and civil liberties issue, concerned with the most basic of human freedoms: religious practice and the privacy of the individual mind.
 He draws explicit parallels with historical struggles for freedom. It was said that women could not be given the vote because society would be destroyed.
@@ -37,7 +37,7 @@ McKenna retrieves the older phenomenological description of psychedelics as "con
 If the expansion of consciousness does not loom large in the human future, what kind of future is it going to be?
 The propsychedelic position is most fundamentally threatening to the Establishment because, when fully and logically thought through, it is an antidrug, antiaddiction position.
 A drug, McKenna suggests, is something that causes unexamined, obsessive, and habitual behavior. You don't examine obsessive behavior; you just do it. You let nothing get in the way of your gratification.
-The psychedelic option represents the only counterflow directed against a tendency to leave people in designer states of consciousness. Not their own designs, but the designs of Madison Avenue, of the Pentagon, of the Fortune 500 corporations.
+The psychedelic option represents the only counterflow directed against a tendency to leave people in [[mckenna-food-gods-designer-states-of-consciousness]] of consciousness. Not their own designs, but the designs of Madison Avenue, of the Pentagon, of the Fortune 500 corporations.
 This is not just metaphor; it is really happening to us. Looking down on Los Angeles from an airliner, McKenna sees "a printed circuit" of interchangeable modules within a very large machine.
 As long as the Reader's Digest stays subscribed to and the TV stays on, these modules are all interchangeable parts within a very large machine. This is the nightmarish reality that Marshall McLuhan and Wyndham Lewis foresaw: the creation of the public as herd.
 The public has no history and no future; the public lives in a golden moment created by a credit system which binds them ineluctably to a web of illusions that is never critiqued.
@@ -52,7 +52,7 @@ This begins with an analysis of the unique confluence of conditions that must ha
 Once the centrality of the hallucinogen-mediated human-plant symbiosis in our origins is understood, we are then in a position to appreciate our current state of neurosis.
 Assimilation of the lessons contained in those ancient and formative events can lay the groundwork for solutions to meet not only society's need to manage substance use and abuse but also our deep and growing need for a spiritual dimension to our lives.
 ## Hyperspace and the Law
-McKenna addresses the legal status of DMT directly. DMT is currently a Schedule I compound in the United States, a classification for drugs with no proven medical application whatsoever.
+McKenna addresses the legal status of DMT directly. DMT is currently a Schedule I compound in the [[dmt-containing-plants-united-states-halpern]], a classification for drugs with no proven medical application whatsoever.
 Not even cocaine rates a Schedule I classification. Psilocybin and DMT were made Schedule I without any scientific evidence at all being presented for or against their use.
 In the paranoid atmosphere of the late sixties, the mere fact that these compounds cause hallucinations was sufficient grounds for their placement in a category so restrictive that even medical research is discouraged.
 Faced with this "hysterical Know-Nothingism," McKenna recalls that at one time dissection of corpses was forbidden by the Church and denounced as witchcraft.
@@ -62,7 +62,7 @@ In the phenomenon of the indole hallucinogens that prescient fear has born bount
 ## The Unexamined Alternative
 The full implications of McKenna's argument point toward a society in which the exploration of consciousness is not merely tolerated but encouraged as a fundamental human right.
 The Archaic Revival he envisions would restore the symbiotic relationship between humans and the Gaian matrix of the planet, not through a return to primitive conditions but through a conscious integration of ancient wisdom with modern understanding.
-The credit for giving us tools to resist the horror of consumer fascism belongs to unsung heroes who are botanists and chemists: Richard Schultes, the Wassons, and Albert Hofmann.
+The credit for giving us tools to resist the horror of consumer fascism belongs to unsung heroes who are botanists and chemists: [[mckenna-richard-schultes-harvard-ethnobotany-psychoactive-plants]], the Wassons, and Albert Hofmann.
 Thanks to them we have, in this most chaotic of centuries, taken into our frail hands the means to do something about our predicament. Psychology, in contrast, has been complacent and silent.
 The adventure of facing who we are did not begin or end with Freud and Jung. The next step in the adventure of self-understanding can begin only when we take note of our innate and legitimate need for an environment rich in mental states that are induced through an act of will.
 I believe we can initiate the process by revisioning our origins, McKenna writes. Indeed, I have taken great pains to show that in the Archaic milieu in which self-reflection first emerged we find clues to the roots of our own troubled history.
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

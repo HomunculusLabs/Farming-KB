@@ -1,9 +1,4 @@
 ---
-title: Phytochrome and Photoperiodism
-source: grahamholmes-what-a-plant-knowsindd.md
-tags: [botany, photobiology, phytochrome, photoperiodism, flowering]
-created: 2026-05-08
----
 
 # Phytochrome and Photoperiodism
 
@@ -17,7 +12,7 @@ alternates between two forms in response to red and far-red light. The phytochro
 system underlies photoperiodism—one of the most important biological timing
 ## See Also
 
-- [[phototropism]]
+- phototropism
 - flowering time regulation
 
 ## References
@@ -31,7 +26,7 @@ system underlies photoperiodism—one of the most important biological timing
 
 ## Plants Measure Night, Not Day
 
-For decades, photoperiodism was described in terms of day length. [[mollison-designers-day-length-and-flowering-response]] always reflected only the **last** flash of light it received. It was a biological toggle switch.
+For decades, photoperiodism was described in terms of day length. mollison-designers-day-length-and-flowering-response always reflected only the **last** flash of light it received. It was a biological toggle switch.
 
 ---
 
@@ -53,7 +48,7 @@ This elegant toggle mechanism pointed unmistakably to a single molecular switch,
 
 In 1960, Warren Butler and his colleagues at the USDA finally identified the mysterious pigment responsible for the red/far-red reversible response. They named it **phytochrome** (from the Greek *phyton*, meaning plant, and *chroma*, meaning color).
 
-Butler extracted phytochrome from dark-grown oat seedlings and demonstrated its unique photoreversible properties in vitro. The pigment could be switched between two stable forms: Pr, which absorbs red light, and Pfr, which absorbs far-red light.
+Butler extracted phytochrome from dark-grown oat seedlings and demonstrated its unique photoreversible properties in vitro. The pigment could be switched between two stable forms: Pr, which absorbs [[phytochrome-red-far-red-light-switch]], and Pfr, which absorbs far-red light.
 
 When Pr absorbs red light, it converts to Pfr. When Pfr absorbs far-red light, it converts back to Pr. In darkness, Pfr slowly reverts to Pr over time.
 
@@ -73,11 +68,11 @@ The system is remarkably sensitive. Even a brief flash of light lasting only a f
 
 ## One Leaf Controls the Whole Plant
 
-One of the most fascinating aspects of phytochrome-mediated photoperiodism is that the "eye" for detecting day length is not a specialized organ. It is **any leaf** on the plant.
+One of the most fascinating aspects of phytochrome-mediated photoperiodism is that the "eye" for detecting [[coleman-winter-day-length-and-persephone-months]] is not a specialized organ. It is **any leaf** on the plant.
 
 Experiments demonstrated that if even a single leaf is exposed to the appropriate light regime, the entire plant will flower. Conversely, if all leaves are kept in darkness while the stem tip is illuminated, the plant will not respond photoperiodically.
 
-The leaf perceives the light signal through phytochrome, then produces a mobile signaling molecule — a hormone called **florigen** — that travels through the vascular system to the shoot apex. There, at the growing tip, florigen triggers the genetic program that converts vegetative growth into reproductive flowering.
+The leaf perceives the light signal through phytochrome, then produces a mobile signaling molecule — a hormone called **florigen** — that travels through the vascular system to the shoot apex. There, at the growing tip, florigen triggers the genetic program that converts [[cannabis-vegetative-growth-stage]] into reproductive flowering.
 
 This means that phytochrome in one small leaf can regulate flowering across the entire organism. It is an elegant example of how plants integrate localized sensory information into whole-plant responses.
 
@@ -93,15 +88,15 @@ Conversely, supplemental lighting can be used to prevent premature flowering or 
 
 The red/far-red toggle has also been harnessed. Some commercial growers use specific light-emitting diodes (LEDs) tuned to red or far-red wavelengths to precisely manipulate phytochrome states, optimizing growth, flowering time, and plant architecture.
 
-These applications demonstrate how fundamental research into plant sensing — beginning with a curious tobacco plant in Maryland — translates directly into agricultural practices that feed and beautify the world.
+These applications demonstrate how fundamental research into plant sensing — beginning with a curious tobacco plant in Maryland — translates directly into [[mycorrhizal-agricultural-practices]] that feed and beautify the world.
 
 ---
 
 ## Key Takeaways
 
-- Photoperiodism was discovered through Maryland Mammoth tobacco in 1918 by Garner and Allard.
+- Photoperiodism was discovered through [[chamovitz-maryland-mammoth-photoperiodism-discovery]] tobacco in 1918 by Garner and Allard.
 
-- Plants measure night length, not day length, to determine when to flower.
+- Plants measure night length, not [[coleman-persephone-months-winter-day-length]], to determine when to flower.
 
 - Red light converts phytochrome to its active Pfr form; far-red light reverts it to inactive Pr.
 

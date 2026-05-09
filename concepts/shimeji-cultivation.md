@@ -4,16 +4,17 @@ created: 2026-04-12
 updated: 2026-04-13
 type: concept
 tags: [fungi, mushrooms, cultivation, indoor, species, food, asia]
-sources: []
+sources:
+  sources: []
 ---
 
 # Shimeji Cultivation Guide (Hypsizygus tessulatus)
 
-Shimeji refers to a group of cultivated mushrooms in the genus Hypsizygus, primarily H. tessulatus (also known as H. marmoreus), which includes both brown (Buna-shimeji) and white (Hakata-shimeji or Bunapi) varieties. Shimeji is a premium mushroom in Japanese cuisine and one of the most commercially important cultivated mushrooms in East Asia.
+Shimeji refers to a group of [[fungi-cultivated-mushrooms-pathogens-competitors]] in the genus Hypsizygus, primarily H. tessulatus (also known as H. marmoreus), which includes both brown (Buna-shimeji) and white (Hakata-shimeji or Bunapi) varieties. Shimeji is a premium mushroom in Japanese cuisine and one of the most commercially important cultivated mushrooms in East Asia.
 
 ## Overview
 
-Shimeji mushrooms are highly valued for their firm texture, nutty flavor, and excellent shelf life. They are among the top five cultivated mushrooms in Japan by production volume. The brown variety (Buna-shimeji) was traditionally wild-harvested before commercial cultivation techniques were developed in the 1970s. The white variety is a commercial cultivar selected for its appearance.
+Shimeji mushrooms are highly valued for their firm texture, nutty flavor, and excellent [[psilocybin-shelf-life-stability]]. They are among the top five cultivated mushrooms in Japan by production volume. The brown variety (Buna-shimeji) was traditionally wild-harvested before commercial cultivation techniques were developed in the 1970s. The white variety is a commercial cultivar selected for its appearance.
 
 ## Species and Varieties
 
@@ -37,7 +38,7 @@ True shimeji (Lyophyllum shimeji) is a different, mycorrhizal species that canno
 - Cap: 1-3 cm, brown (Buna) or white (Bunapi), smooth to slightly wrinkled
 - Stem: 3-6 cm, slender, firm, white
 - Growth habit: grows in tight clusters (bouquets) from a central base
-- Spore print: white
+- [[comparison-spore-print-collection-vs-spore-syringe-production]]: white
 - Flavor: nutty, slightly sweet, with umami depth; intensifies with cooking
 - Texture: firm, crisp, maintains integrity when cooked
 
@@ -69,7 +70,7 @@ Beech sawdust is the traditional standard. Some commercial operations use a mix 
 
 ### Inoculation and Spawn Run
 
-- Grain spawn rate: 3-5% by weight (lower than many species)
+- [[comparison-grain-spawn-vs-grain-to-grain-transfer]] rate: 3-5% by weight (lower than many species)
 - Incubation temperature: 68-75 F (20-24 C)
 - Incubation time: 25-35 days
 - Conditions: dark, still air
@@ -78,7 +79,7 @@ Mycelium is white and vigorous. Full colonization is indicated by a firm, white 
 
 ## Fruiting Induction
 
-Shimeji requires a cold shock to initiate fruiting, similar to nameko:
+Shimeji requires a [[growing-gourmet-cold-shock-temperature-initiation-fruiting]] to initiate fruiting, similar to nameko:
 
 1. Scrape or "brush" the surface of the colonized block to remove aerial mycelium and create an even pinning surface
 2. Apply cold shock: 37-45 F (3-7 C) for 3-5 days
@@ -111,7 +112,7 @@ Shimeji requires a cold shock to initiate fruiting, similar to nameko:
 
 ## Yield and Economics
 
-- Biological efficiency: 60-100% (fresh weight per dry substrate weight)
+- [[stamets-biological-efficiency-yield]]: 60-100% (fresh weight per dry substrate weight)
 - Yield per bottle: 150-200g fresh
 - First flush: 70-80% of total yield
 - 2-3 flushes possible but first flush is primary commercially
@@ -136,41 +137,6 @@ Grading standards:
 
 - Premium: tight clusters, even cap size, uniform color, no broken stems
 - Standard: slightly irregular clusters, minor color variation
-- Processing: broken clusters, individual stems
-
-## Post-Harvest Storage
-
-Shimeji has one of the best shelf lives among cultivated mushrooms:
-
-- Refrigerated (35-38 F): 14-21 days
-- Store in breathable packaging
-- The firm texture resists deterioration
-- Brown variety: color darkens slightly but quality maintained
-- White variety: may yellow if stored too warm
-- Freezing: not recommended (texture degrades significantly)
-- Drying: possible but uncommon; fresh use preferred
-
-## Culinary Applications
-
-Shimeji is versatile and widely used in Japanese cuisine:
-
-- Best cooked thoroughly — raw shimeji has a bitter taste
-- Stir-fried with butter, garlic, and soy sauce
-- In miso soup and nabemono (hot pot)
-- Tempura batter-fried
-- Pasta dishes (pairs well with cream sauces)
-- As a topping for pizza, rice bowls, and noodle dishes
-- The firm texture holds up well to cooking and does not become mushy
-
-## Common Problems
-
-- Poor pinning: inadequate cold shock or surface not properly scraped
-- Uneven clusters: uneven scraping or temperature variation
-- Bacterial contamination: improve sterilization; shimeji is moderately susceptible
-- Small clusters: insufficient thinning — too many pins competing
-- Brown color on white variety: temperature too high during fruiting
-- Slow colonization: old spawn or low incubation temperature
-
 ## Related Topics
 
 - [[enoki-cultivation-guide]] for another bottle-cultivated Japanese mushroom
@@ -179,6 +145,6 @@ Shimeji is versatile and widely used in Japanese cuisine:
 - [[mushroom-substrates]]
 - [[mushroom-grow-room-design]]
 - [[grain-spawn-preparation]]
-- [[oyster-mushroom-cultivation]]
+- [[cotter-oyster-mushroom-cultivation]]
 - [[mushroom-cultivation-basics]]
 - [[mushroom-cultivation-fruiting-chambers]]

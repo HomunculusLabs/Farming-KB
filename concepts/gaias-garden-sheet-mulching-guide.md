@@ -1,5 +1,5 @@
 ---
-title: Gaia's Garden Sheet Mulching Detailed Guide
+title: Gaia's Garden comparison-sheet-mulching-vs-chop-and-drop-mulching Detailed Guide
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -16,7 +16,7 @@ Toby Hemenway's comprehensive guide to sheet mulching — composting in place to
 
 Hemenway argues that traditional composting has drawbacks:
 
-- **Disrupts soil life:** Each turning smashes homes, bludgeons microorganisms, and sets back the complex ecological succession from sugar-digesters to lignin-eating fungi
+- **Disrupts soil life:** Each turning smashes homes, bludgeons microorganisms, and sets back the complex [[holmgren-ecological-succession-and-pulsing]] from sugar-digesters to lignin-eating fungi
 - **Wastes nutrients:** Nutrient-rich liquids ooze out of the pile's base, wasted on ground with no plants
 - **Wastes worms:** Worms thriving under the pile are a foot below plantless ground, shuttling nutrients to nowhere
 - **Sheet mulching** keeps all decomposition, worms, microbes, and nutrients right where plants will grow
@@ -26,8 +26,8 @@ Hemenway argues that traditional composting has drawbacks:
 For roughly 50 square feet (2 cubic yards of material):
 
 1. **Newspaper or cardboard** — 2-3 foot stack of newspaper (minus glossy sections) or ~300 sq ft of corrugated cardboard (no staples or plastic tape). Can also use cloth, old clothing, or wool carpet (natural fibers only)
-2. **Soil amendments** — lime (for acid soil), gypsum or sulfur (for alkaline), rock phosphate or bonemeal, greensand, kelp meal, or rock dust for trace minerals
-3. **Bulk organic matter** — 4-8 cubic yards loosely piled, or 6-10 two-string bales: straw, spoiled hay, yard waste, leaves, seaweed, bark, sawdust, pine needles, grain hulls. Target C:N ratio of 100:1 to 30:1
+2. **Soil amendments** — lime (for acid soil), gypsum or sulfur (for alkaline), rock phosphate or bonemeal, greensand, [[comparison-kelp-meal-vs-rock-dust]], or [[basalt-rock-dust-agriculture]] for trace minerals
+3. **Bulk [[hamilton-composting-and-organic-matter-management]]** — 4-8 cubic yards loosely piled, or 6-10 two-string bales: straw, spoiled hay, yard waste, leaves, seaweed, bark, sawdust, pine needles, grain hulls. Target C:N ratio of 100:1 to 30:1
 4. **Compost** — 1/4 to 1/2 cubic yard (6-12 cubic feet)
 5. **Manure** — 1/4 to 1 cubic yard (composted cattle manure or similar)
 6. **Seed-free top layer** — 2 inches of straw, fine bark, wood shavings
@@ -101,6 +101,6 @@ Hemenway converted nasty red clay soil to chocolate brown, seething with worms, 
 
 - [[permaculture-sheet-mulch-detailed-guide]] — alternative sheet mulch guide
 - [[sheet-mulching-lasagna-gardening]] — lasagna gardening approach
-- [[gaias-garden-methods]] — zone planning, sheet mulching, composting overview
+- [[gaias-garden-methods]] — [[mollison-course-zone-planning-and-design]], sheet mulching, composting overview
 - [[nutrient-movement-through-soil-to-plant-roots]]
-- [[faires-permaculture-soil-and-sheet-mulching]]
+- faires-permaculture-soil-and-sheet-mulching

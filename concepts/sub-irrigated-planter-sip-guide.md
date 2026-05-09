@@ -28,7 +28,7 @@ Water can typically rise only 15–20 cm through standard potting mixes, which c
 
 ### EarthBox Style (Commercial Standard)
 
-Rectangular plastic container (76 × 30 × 28 cm) with integrated reservoir and overflow drain. A perforated screen separates reservoir from growing medium, with corner cups of potting mix serving as wicks. Black plastic mulch cover stretches over the soil surface with planting holes cut for each crop. A fill tube extends from surface to reservoir.
+Rectangular plastic container (76 × 30 × 28 cm) with integrated reservoir and overflow drain. A perforated screen separates reservoir from growing medium, with corner cups of potting mix serving as wicks. Black [[jadam-plastic-mulch-problems]] cover stretches over the soil surface with planting holes cut for each crop. A fill tube extends from surface to reservoir.
 
 ### Two-Bucket System (Global Bucket)
 
@@ -79,11 +79,11 @@ Potatoes (tuber rot risk in warm, moist conditions), large squash/pumpkins (exce
 
 ## Fertilization
 
-Place a band of granular organic fertilizer in a narrow trench along one container edge, covered with 2–3 cm of growing medium before planting. This creates a slow-release nutrient zone lasting 2–3 months through constant moisture movement.
+Place a band of granular [[complete-organic-fertilizer-cof-recipe-solomon]] in a narrow trench along one container edge, covered with 2–3 cm of growing medium before planting. This creates a slow-release nutrient zone lasting 2–3 months through constant moisture movement.
 
 **Strip blend**: 2 cups mixed organic granular fertilizer (4-4-4), 1 cup dolomitic lime, 2 tablespoons elemental sulfur.
 
-For heavy feeders (tomatoes, peppers), supplement with diluted liquid fertilizer through the fill tube every 2–3 weeks once fruit set begins.
+For heavy feeders (tomatoes, peppers), supplement with diluted [[jadam-liquid-fertilizer-nutritional-perspective]] through the fill tube every 2–3 weeks once fruit set begins.
 
 ## Troubleshooting
 
@@ -91,7 +91,7 @@ For heavy feeders (tomatoes, peppers), supplement with diluted liquid fertilizer
 
 **Algae in reservoir**: Light entering through translucent walls. Paint or wrap the reservoir section in opaque material. Algae is not harmful but consumes oxygen and can produce odors.
 
-**Fungus gnats**: Mulch cover has gaps or wicking zone too shallow. Apply Bti (Bacillus thuringiensis israelensis) drenches through the fill tube or beneficial nematodes.
+**Fungus gnats**: Mulch cover has gaps or wicking zone too shallow. Apply Bti ([[cervantes-bacillus-thuringiensis-bt-control]] israelensis) drenches through the fill tube or [[ingham-beneficial-nematodes-soil-food-web]].
 
 **Salt accumulation**: White crust on soil surface after 3–4 months. Top-water heavily until overflow drains for 5 minutes, then allow to drain completely before refilling.
 
@@ -113,5 +113,5 @@ SIPs reduce urban water consumption significantly. University of Maryland Extens
 ## See Also
 
 - [[rain-garden-design]] — passive water management for landscapes
-- [[earthworks-for-water-management]] — broader water harvesting earthworks
+- [[earthworks-for-water-management]] — broader water [[pdc-water-harvesting-earthworks-design]]
 - [[keyline-design]] — landscape-scale water distribution systems

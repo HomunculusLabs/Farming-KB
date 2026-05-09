@@ -1,5 +1,5 @@
 ---
-title: Willows for Erosion Control and Fodder in Permaculture
+title: Willows for permplant willows salix [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]] fodder and Fodder in Permaculture
 created: 2026-04-28
 tags:
   - permaculture
@@ -18,9 +18,9 @@ type: concept
 
 Willows (Salix spp) are a genus of over 300 species with the widest
 natural geographical distribution of any tree genus, spanning the entire
-northern hemisphere plus South America and South Africa. Belonging to the
+northern hemisphere plus [[guzman-psilocybin-mushrooms-south-america]] and South Africa. Belonging to the
 family Salicaceae, willows are among the most versatile plants in
-[[water-management]] and Erosion Control
+[[water-management]] [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
 
 Willows generally use large amounts of water and will grow in waterlogged
 soil. Their root systems have been known to reach out as far as 50
@@ -28,7 +28,7 @@ metres laterally in search of moisture and nutrient. For this reason,
 they are extremely effective trees for sheet, gully, and slump erosion
 control and for |salinity control. Willows will
 generally tolerate prolonged periods of flooding, making them ideal for
-riparian zone planting and wetland restoration.
+[[riparian-zone-restoration]] planting and wetland restoration.
 
 Important design note: willows should not be planted close to gardens,
 septic systems, or orchards due to their aggressive water-seeking root
@@ -37,7 +37,7 @@ systems.
 ## Growth and Fodder Value
 
 Willows are very fast growers with many species producing foliage edible
-to livestock. Nutritional analysis of weeping willow foliage shows:
+to livestock. [[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] of weeping willow foliage shows:
 
 - Crude protein: 15.9%
 - Crude fat: 2.9%
@@ -48,7 +48,7 @@ to livestock. Nutritional analysis of weeping willow foliage shows:
 
 New Zealand trials have shown hybrid willow to produce more than 30
 tonnes of dry matter yield per hectare, whereas good grass or lucerne
-stands yield only 10 to 15 tonnes per hectare. Tree crops also allow
+stands yield only 10 to 15 tonnes per hectare. [[mollison-designers-avocado-mango-and-subtropical-tree-crops]] also allow
 grass to grow beneath, providing dual production.
 
 ## Fodder System Design

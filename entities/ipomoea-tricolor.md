@@ -16,7 +16,7 @@ sources:
 
 # Ipomoea tricolor
 
-**Ipomoea tricolor* Cav. (syn. *Ipomoea violacea* auct. non L.), commonly known as the Mexican morning glory or tlitliltzin (from Nahuatl, meaning "black thing," referring to the dark seeds), is a climbing or trailing vine in the family Convolvulaceae. It is native to Mexico and Central America and is one of the most significant entheogenic plants in Mesoamerican ethnobotany. The seeds of *Ipomoea tricolor* contain ergoline alkaloids, principally lysergic acid amide (LSA, also known as ergine), and have been used since pre-Columbian times in ritual, divinatory, and healing contexts by indigenous peoples of central and southern Mexico.
+**Ipomoea tricolor* Cav. (syn. *Ipomoea violacea* auct. non L.), commonly known as the [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] glory or tlitliltzin (from Nahuatl, meaning "black thing," referring to the dark seeds), is a climbing or trailing vine in the family Convolvulaceae. It is native to Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and is one of the most significant entheogenic plants in Mesoamerican ethnobotany. The seeds of *Ipomoea tricolor* contain ergoline alkaloids, principally lysergic acid amide (LSA, also known as ergine), and have been used since pre-Columbian times in ritual, divinatory, and healing contexts by indigenous peoples of central and southern Mexico.
 
 ## Taxonomy and Description
 
@@ -38,23 +38,23 @@ The fruit is a globose to ovoid capsule approximately 8 to 12 mm in diameter, co
 
 *Ipomoea tricolor* is native to the tropical and subtropical regions of Mexico and Central America, extending from central Mexico (states of Puebla, Oaxaca, Guerrero, Morelos, Michoacán, and Veracruz) through Guatemala, Honduras, El Salvador, and possibly into Nicaragua and Costa Rica. The species occurs in a variety of habitats including disturbed areas, roadsides, forest edges, cultivated fields, tropical lowland forests, and montane cloud forests, typically at elevations below 2,000 meters.
 
-The plant has been widely introduced and naturalized throughout the tropics and subtropics worldwide, including the Caribbean islands, South America (particularly Brazil and Argentina), sub-Saharan Africa, South and Southeast Asia (India, Sri Lanka, Thailand, Indonesia, Philippines), and northern and eastern Australia. It is also extensively cultivated as an ornamental annual vine in temperate regions of North America, Europe, and Asia.
+The plant has been widely introduced and naturalized throughout the tropics and subtropics worldwide, including the Caribbean islands, South America (particularly Brazil and Argentina), sub-Saharan Africa, South and Southeast Asia (India, Sri Lanka, Thailand, Indonesia, Philippines), and northern and eastern Australia. It is also extensively cultivated as an ornamental annual vine in temperate regions of [[psilocybin-north-america-pacific-northwest]], Europe, and Asia.
 
 In many parts of its introduced range, *Ipomoea tricolor* has become naturalized and is regarded as a weed of agriculture and disturbed areas. It can be particularly problematic in tropical farming systems where it climbs and smothers crop plants.
 
 ## Chemistry
 
-The seeds of *Ipomoea tricolor* contain ergoline (lysergic acid derivative) alkaloids as their principal active constituents. These compounds are structural relatives of the ergot alkaloids produced by the fungus *Claviceps purpurea* (ergot) and of the semi-synthetic compound lysergic acid diethylamide (LSD). The discovery of ergoline alkaloids in a higher plant by Albert Hofmann in 1960 was a landmark finding in phytochemistry.
+The seeds of *Ipomoea tricolor* contain ergoline (lysergic acid derivative) alkaloids as their principal active constituents. These compounds are structural relatives of the ergot alkaloids produced by the fungus *[[bloomfield-ergot-claviceps-purpurea-ergotism]]* (ergot) and of the semi-synthetic compo lysergic acid diethylamide mide (LSD). The discovery of ergoline alkaloids in a higher plant by [[albert-hofmann]] in 1960 was a landmark finding in phytochemistry.
 
-The dominant alkaloid is lysergic acid amide (LSA, also known as ergine), typically present at concentrations of 0.02% to 0.1% of seed dry weight. Other ergoline alkaloids identified in the seeds include isoergine (isolysergic acid amide, the C-8 stereoisomer of LSA), lysergic acid hydroxyethylamide (LSH, also known as ergoline or chanoclavine-I), elymoclavine, lysergic acid methylcarbinolamide (ergonovine), lysergyl methyl ketone, and setoclavine. The total ergoline alkaloid content is typically 0.05% to 0.15% of seed dry weight.
+The dominant alkaloid is lysergic acid amide (LSA, also known as ergine), typically present at concentrations of 0.02% to 0.1% of seed dry weight. Other ergoline alkaloids identified in the seeds include isoergine (isolysergic acid amide, the C-8 stereoisom lysergic acid hydroxyethylamide xyethylamide (LSH, also known as ergoline or chanoclavine-I), elymoclavine, lysergic acid methylcarbinolamide (ergonovine), lysergyl methyl ketone, and setoclavine. The total ergoline alkaloid content is typically 0.05% to 0.15% of seed dry weight.
 
-The ergoline alkaloids in *Ipomoea tricolor* are structurally related to LSD but are significantly less potent. LSA is estimated to be approximately 10 to 30 times less potent than LSD by weight. The psychoactive effects of the seeds are attributed primarily to LSA, with possible contributions from the other ergoline constituents, particularly LSH which may contribute to the sedative and somatic effects. The relative proportions of these alkaloids can vary between seed batches depending on the variety, growing conditions, and the possible influence of endophytic fungi.
+The ergoline alkaloids in *Ipomoea tricolor* are structurally related to LSD but are significantly less potent. LSA is estimated to be approximately 10 to 30 times less potent than LSD by weight. The psychoactive effects of the seeds are attributed primarily to LSA, with possible contributions from the other ergoline constituents, particularly LSH which may contribute to the sedative and somatic effects. The relative proportions of these alkaloids can vary between seed batches depending on the variety, growing conditions, and the possible influence endophytic fungi ungi.
 
 The seeds also contain a mucilaginous coating that can cause significant gastrointestinal discomfort (nausea, vomiting, abdominal cramping) when ingested. This coating is produced by the seed coat and serves as a water-absorbing gel that aids germination. Many traditional and modern preparation methods involve removing this coating by washing, scraping, or soaking the seeds before consumption, though this process may also remove some of the alkaloidal constituents.
 
 ## Ethnobotanical and Traditional Use
 
-The seeds of *Ipomoea tricolor* were among the most important entheogens in pre-Columbian Mesoamerica. The Nahuatl name tlitliltzin ("black thing") refers to the characteristic dark color of the seeds. Along with the seeds of *Turbina corymbosa* (ololiuqui), they constituted the principal hallucinogenic complex of the Aztec (Mexica) and other central Mexican peoples, and their use is among the best-documented of all pre-Columbian entheogenic practices.
+The seeds of *Ipomoea tricolor* were among the most important entheogens in pre-Columbian Mesoamerica. The Nahuatl name tlitliltzin ("black thing") refers to the characteristic dark color of the seeds. Along with the seeds of *[[plants-of-the-gods-turbina-corymbosa-ololiuqui]]* (ololiuqui), they constituted the principal hallucinogenic complex of the Aztec (Mexica) and other central Mexican peoples, and their use is among the best-documented of all pre-Columbian entheogenic practices.
 
 Spanish colonial chronicles provide detailed accounts of the use of these seeds. Francisco Hernández, the royal physician to Philip II of Spain, who spent seven years (1570 to 1577) studying the natural history and medicinal practices of Mexico, documented the ritual use of tlitliltzin and ololiuqui among the Aztecs. His work, "Rerum Medicarum Novae Hispaniae Thesaurus" (published posthumously in 1651), described how the seeds were consumed by priests and soothsayers (teopixqui) to induce visionary states for divination, diagnosis of illness, communication with the gods and spirits of the dead, and revelation of hidden knowledge including the causes of disease, the location of lost objects, and the outcome of future events.
 
@@ -80,7 +80,7 @@ Seeds are sown directly in the ground after the last frost, or started indoors 4
 
 ## Tlitliltzin and Ololiuqui: The Twin Seeds of Aztec Divination
 
-The seeds of *Ipomoea tricolor* (tlitliltzin) and *Turbina corymbosa* (ololiuqui) constituted the most important hallucinogenic complex in the Aztec pharmacopoeia and were among the few entheogens that survived the Spanish conquest with their cultural significance at least partially intact, unlike the teonanácatl (psilocybin mushrooms) and peyotl (peyote) which were more thoroughly suppressed.
+The seeds of *Ipomoea tricolor* (tlitliltzin) and *Turbina corymbosa* (ololiuqui) constituted the most important hallucinogenic complex in the Aztec pharmacopoeia and were among the few entheogens that survived the Spanish conquest with their [[ethnomycology-cultural-significance-sacred-fungi]] at least partially intact, unlike the teona  ushrooms) and peyotl (peyote) which were more thoroughly suppressed.
 
 While both seeds were used for similar purposes, there were some distinctions in their use and cultural associations. Ololiuqui (the seeds of *Turbina corymbosa*) was considered the more sacred and prestigious of the two, and its use was more closely associated with the highest levels of Aztec religious practice. Tlitliltzin (*Ipomoea tricolor* seeds) was used in a somewhat broader range of contexts, including divination, healing, and less formal ceremonial settings.
 
@@ -106,11 +106,11 @@ The horticultural development of *Ipomoea tricolor* has produced dozens of named
 
 The genus *Ipomoea* is one of the most economically and culturally important plant genera in the world.
 
-The sweet potato (*Ipomoea batatas*) is one of the world's most important food crops, particularly in tropical and subtropical developing countries.
+The sweet potat ipomoea batatas atas*) is one of the world's most important food crops, particularly in tropical and subtropical developing countries.
 
 Several *Ipomoea* species are invasive weeds of agriculture, including *I. triloba* (three-lobe morning glory) and *I. hederacea* (ivy-leaved morning glory), which cause significant crop losses worldwide.
 
-Water spinach (*Ipomoea aquatica*) is an important leaf vegetable in Southeast Asia.
+Water sp ipomoea aquatica aquatica*) is an important leaf vegetable in Southeast Asia.
 
 The genus also includes species with medicinal properties, ornamental value, and industrial applications.
 
@@ -134,6 +134,6 @@ Ethnobotanical documentation efforts in Oaxaca, Guerrero, and other Mexican stat
 
 - [[ipomoea-violacea]]
 - [[turbina-corymbosa]]
-- [[argyreia-nervosa]]
+- argyreia-nervosa
 - [[claviceps-purpurea]]
 - Periglandula

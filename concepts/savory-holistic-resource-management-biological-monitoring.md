@@ -17,7 +17,7 @@ type: concept
 # Biological Monitoring and Control
 
 Biological monitoring is the essential feedback mechanism in Allan Savory's
-holistic management framework. A plan, no matter how sound, serves little
+[[savory-holistic-management-overview]] framework. A plan, no matter how sound, serves little
 purpose unless its application is monitored and deviations controlled. This
 chapter of the framework connects the [[savory-water-cycle-management]], [[savory-plant-succession-and-community-dynamics]], and
    [[savory-water-cycle-management]], [[savory-energy-flow-and-solar-capture]], and
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

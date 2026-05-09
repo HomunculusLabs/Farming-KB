@@ -1,5 +1,5 @@
 ---
-title: "Traditional Irrigation Systems"
+title: "mollison designers traditional irrigation systems Systems"
 created: 2026-04-28
 tags:
   - irrigation
@@ -18,7 +18,7 @@ type: concept
 These systems embody the [[water-management]] technologies ever
 devised. Originating in ancient Persia (modern Iran) over 3,000 years ago,
 qanats tap groundwater from alluvial fans at the base of mountains and
-deliver it by gravity to settlements and agricultural land on the plains
+deliver it by gravity to settlements and [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] on the plains
 below, often over distances of many kilometres.
 
 A qanat consists of a gently sloping underground tunnel that follows the
@@ -62,7 +62,7 @@ Key principles of acequia management that align with [[watershed-management]]**:
 ## Terraced Paddy Systems
 
 Terraced rice paddies represent perhaps the most visually dramatic traditional
-irrigation system. Found throughout East and Southeast Asia, the Himalayas,
+irrigation system. Found throughout East and [[psilocybe-southeast-asia-pacific]], the Himalayas,
 the Andes, and parts of Africa, terraced paddies transform steep hillsides
 into productive agricultural land while managing water and preventing erosion.
 
@@ -73,7 +73,7 @@ This stepwise system:
 - **Eliminates runoff and erosion**: Water velocity is reduced at each
   terrace wall, allowing sediment to settle rather than wash away.
 - **Creates productive wetland habitat**: Paddy systems support fish,
-  frogs, ducks, and aquatic plants alongside rice production.
+  frogs, ducks, and aquatic plants alongside [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]].
 - **Builds soil over time**: Sediment trapped by terrace walls gradually
   builds soil depth, increasing productivity over centuries.
 - **Manages groundwater recharge**: The slow percolation through terraces

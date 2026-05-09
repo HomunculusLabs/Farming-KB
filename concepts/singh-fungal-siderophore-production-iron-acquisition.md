@@ -1,5 +1,5 @@
 ---
-title: Fungal Siderophore Production and Iron Acquisition
+title: singh fungal siderophore production iron acquisition Production and fungal-siderophores-iron-acquisition-mycorrhiza
 created: 2026-04-28
 tags:
   - siderophores
@@ -20,7 +20,7 @@ Siderophores are high-affinity iron-chelating compounds produced by
 fungi, bacteria, and some plants to scavenge iron from environments where
 this essential element is biologically unavailable. In the context of
 [[singh-fungal-plant-growth-promoting-mechanisms]] and
-soil microbial ecology.
+soil [[fukuoka-microbial-ecology-decomposition]].
 
 ## The Iron Problem in Soil
 
@@ -71,10 +71,10 @@ recycled and re-secreted, making this an efficient recycling system.
 
 ## Competition with Pathogens and Microbial Antagonism
 
-Siderophore production is a key mechanism of biological control. Fungi
+Siderophore production is a key mechanism of [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]. Fungi
 that secrete high-affinity siderophores can sequester environmental iron
 to levels too low for competing microorganisms to grow, a strategy known
-as competitive exclusion. In the rhizosphere, mycorrhizal fungi and
+as competitive exclusion. In the rhizosphere, [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] and
 their associated [[pah-bioremediation]] contexts.
 
 ## Siderophores in Heavy Metal Chelation
@@ -93,7 +93,7 @@ bioremediation strategy.
 
 Mycorrhizal fungi transfer iron acquired through siderophores to their
 host plants, supplementing the plant's own iron acquisition strategies
-(strategy I and strategy II mechanisms). Arbuscular mycorrhizal fungi
+(strategy I and strategy II mechanisms). [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi
 can deliver up to 90 percent of a plant's iron requirements under
 deficient conditions. The siderophore-mediated iron transfer occurs
 across the fungal-plant interface, likely involving reduction of Fe3+

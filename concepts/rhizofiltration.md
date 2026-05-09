@@ -10,7 +10,7 @@ sources: []
 
 Rhizofiltration is a phytoremediation technology that uses plant roots to absorb, adsorb, concentrate, and precipitate contaminants from aqueous solutions. The technique exploits the natural ability of plant root systems to remove heavy metals, radionuclides, and certain organic pollutants from water, including groundwater, surface water, wastewater, and industrial effluents.
 
-Unlike other phytoremediation methods that treat soil in situ, rhizofiltration typically involves growing plants hydroponically or in constructed wetlands, then exposing their root systems to contaminated water. The roots act as a biological filter, removing dissolved contaminants through a combination of physical, chemical, and biological processes.
+Unlike other phytoremediation methods that treat soil in situ, rhizofiltration typically involves growing plants hydroponically or in [[comparison-constructed-wetlands-vs-bioswales]], then exposing their root systems to contaminated water. The roots act as a biological filter, removing dissolved contaminants through a combination of physical, chemical, and biological processes.
 
 ## Mechanisms of Contaminant Removal
 
@@ -20,7 +20,7 @@ Rhizofiltration operates through several complementary mechanisms that work toge
 
 The primary mechanism of metal removal in rhizofiltration is biosorption, the passive binding of metal ions to functional groups on root cell wall surfaces. Plant root cell walls contain polysaccharides (cellulose, hemicellulose, pectin), proteins, and lignin that provide numerous binding sites including carboxyl, hydroxyl, amino, sulfhydryl, and phosphate groups.
 
-Metal ions bind to these sites through ion exchange, complexation, electrostatic attraction, and surface precipitation. The binding is rapid, often reaching equilibrium within minutes to hours, and is largely independent of plant metabolic activity. This means that both living and dead root biomass can function as biosorbent material.
+Metal ions bind to these sites through ion exchange, complexation, electrostatic attraction, and surface precipitation. The binding is rapid, often reaching equilibrium within minutes to hours, and is largely independent of plant [[arbuscule-isolation-metabolic-activity-assays]]. This means that both living and dead root biomass can function as biosorbent material.
 
 Root surface area is a critical factor in biosorption capacity. Fine, fibrous root systems provide greater surface area per unit volume than coarse roots. Root hairs further increase the available binding surface. The composition and density of surface binding groups vary among plant species, making species selection an important consideration for system design.
 
@@ -34,7 +34,7 @@ Uptake rates are influenced by water chemistry parameters including pH, redox po
 
 ### Root-Mediated Precipitation
 
-Plant roots can alter the chemical environment of the rhizosphere in ways that promote contaminant precipitation. Root exudates can raise or lower local pH, change redox conditions, and release ligands that form insoluble complexes with metal ions. Root-associated microorganisms further modify the rhizosphere chemistry through their metabolic activities.
+Plant roots can alter the chemical environment of the rhizosphere in ways that promote contaminant precipitation. [[root-exudates]] can raise or lower local pH, change redox conditions, and release ligands that form insoluble complexes with metal ions. Root-associated microorganisms further modify the rhizosphere chemistry through their metabolic activities.
 
 Iron plaque formation on root surfaces is a well-documented phenomenon in wetland plants. Under flooded conditions, roots release oxygen that oxidizes ferrous iron (Fe2+) to ferric iron (Fe3+), which precipitates as iron oxyhydroxide coatings on the root surface. These iron plaques can adsorb and co-precipitate other metal contaminants including arsenic, phosphorus, and heavy metals.
 
@@ -44,11 +44,11 @@ Selection of appropriate plant species is critical for successful rhizofiltratio
 
 ### Aquatic and Semi-Aquatic Plants
 
-Water hyacinth (Eichhornia crassipes) is one of the most studied species for rhizofiltration due to its extremely rapid growth rate and extensive fibrous root system. It has demonstrated effective removal of lead, cadmium, copper, zinc, nickel, chromium, and mercury from contaminated water. However, its invasive potential in warm climates requires careful management.
+Water hyacin eichhornia crassipes ipes) is one of the most studied species for rhizofiltration due to its extremely rapid growth rate and extensive fibrous root system. It has demonstrated effective removal of lead, cadmium, copper, zinc, nickel, chromium, and mercury from contaminated water. However, its invasive potential in warm climates requires careful management.
 
-Duckweed (Lemna minor, Spirodela polyrhiza) species are small floating aquatic plants with high metal uptake capacity relative to their biomass. Their rapid multiplication rate allows quick biomass production for continuous harvesting and contaminant removal.
+Duckweed (Lemna minor, Spirodela polyrhiza) species are small floating aquatic plants with high metal uptake capacity relative to their biomass. Their rapid multiplication rate allows quick [[dighton-fungal-biomass-production-aquatic-ecosystems]] for continuous harvesting and contaminant removal.
 
-Common reed (Phragmites australis) is the dominant plant species in most constructed treatment wetlands worldwide. Its deep, extensive root system creates a large treatment zone and provides physical filtration through dense root mats. See [[constructed-wetlands-wastewater-treatment]] for comprehensive coverage of constructed wetland design, types, and treatment processes.
+Common re phragmites australis alis) is the dominant plant species in most constructed treatment wetlands worldwide. Its deep, extensive root system creates a large treatment zone and provides physical filtration through dense root mats. See [[constructed-wetlands-wastewater-treatment]] for comprehensive constructed wetland design tland design, types, and treatment processes.
 
 ## Factors Affecting Performance
 
@@ -60,9 +60,9 @@ The concentration of contaminants affects both removal kinetics and the ultimate
 
 ## Applications
 
-Rhizofiltration has been applied or proposed for treatment of groundwater contaminated with heavy metals from mining, smelting, and industrial activities. It has been used for treatment of landfill leachate containing mixed heavy metal contamination. Nuclear facility decommissioning has employed rhizofiltration for removal of radionuclides including uranium, strontium, cesium, and cobalt from contaminated surface and groundwater.
+Rhizofiltration has been applied or proposed for treatment of groundwater contaminated with heavy metals from mining, smelting, and industrial activities. It has been used for treatment of [[singh-landfill-leachate-fungal-treatment]] containing mixed heavy metal contamination. Nuclear facility decommissioning has employed rhizofiltration for removal of radionuclides including uranium, strontium, cesium, and cobalt from contaminated surface and groundwater.
 
-Industrial wastewater from electroplating, battery manufacturing, and metal finishing operations can be treated using rhizofiltration. The technology has also been investigated for treatment of agricultural runoff containing excess nutrients and pesticide residues, though organic contaminants are generally more effectively removed through rhizodegradation than biosorption alone.
+[[fungal-industrial-wastewater-treatment]] from electroplating, battery manufacturing, and metal finishing operations can be treated using rhizofiltration. The technology has also been investigated for treatment of agricultural runoff containing excess nutrients and pesticide residues, though organic contaminants are generally more effectively removed through rhizodegradation than biosorption alone.
 
 ## Limitations
 
@@ -98,14 +98,10 @@ In leaf tissues, metals are detoxified through several mechanisms including vacu
 
 ## Key Hyperaccumulator Species
 
-Several hyperaccumulator species have been extensively studied for phytoremediation applications. Alyssum species (Brassicaceae) are nickel hyperaccumulators native to ultramafic (serpentine) soils, with some species accumulating nickel to concentrations exceeding 3% of leaf dry weight. Thlaspi caerulescens (now Noccaea caerulescens) is a zinc and cadmium hyperaccumulator that has served as a model organism for understanding hyperaccumulation physiology.
-
-Pteris vittata, the Chinese brake fern, was the first discovered arsenic hyperaccumulator and can accumulate arsenic to concentrations exceeding 2% in fronds. Astragalus bisulcatus is a selenium hyperaccumulator used in selenium phytoremediation. Sunflower (Helianthus annuus) shows enhanced lead accumulation and has been used in rhizofiltration applications. Indian mustard (Brassica juncea) is not a true hyperaccumulator but accumulates moderate metal concentrations with high biomass production, making it useful for practical phytoremediation.
-
-Azolla filiculoides, a floating aquatic fern, has demonstrated zinc removal capabilities in biotechnology applications. Aquatic hyperaccumulator species are particularly useful for constructed wetland treatment systems where contaminated water flows through plant-filled channels.
+Several hyperaccumulator species have been extensively studied for phytoremediation applications. Alyssum species (Brassicaceae) are nickel hyperaccumulators native to ultramafic (serpentine) soils, with some species accumulating nickel to concentrations exceeding 3% of leaf dry weight. Thlaspi caerulescens (now Noccaea caerulescens) is a zinc and cadmium hyperaccumulator that has served as a model organism for understanding hyperaccumulation physiolog pteris vittata tata, the Chinese brake fern, was the first discovered arsenic hyperaccumulator and can accumulate arsenic to concentrations exceeding 2% in fronds. Astragalus bisulcatus is a selenium hyperaccumulator used in selenium phytoremediation. Sunflower (Helianthus annuus) shows enhanced lead accumulation and has been used in rhizofiltration applications. Indian m brassica juncea a juncea) is not a true hyperaccumulator but accumulates moderate metal concentrations with high biomass production, making it useful for practical phytore azolla filiculoides filiculoides, a floating aquatic fern, has demonstrated zinc removal capabilities in biotechnology applications. Aquatic hyperaccumulator species are particularly useful for constructed wetland treatment systems where contaminated water flows through plant-filled channels.
 
 ## Ecology and Distribution
 
-Hyperaccumulator plants are typically endemic to soils derived from metal-rich parent materials, including ultramafic rocks, mineralized zones, and mine-impacted areas. Their distribution is often restricted to these naturally metalliferous environments, though some species can colonize anthropogenically contaminated sites. The evolutionary advantage of hyperaccumulation is debated, with hypotheses including tolerance mechanisms, defense against herbivores and pathogens, drought tolerance, and allelopathic competition.
+Hyperaccumulator plants are typically endemic to soils derived from metal-rich parent materials, including ultramafic rocks, mineralized zones, and mine-impacted areas. Their distribution is often restricted to these naturally metalliferous environments, though some species can colonize anthropogenically contaminated sites. The evolutionary advantage of hyperaccumulation is debated, with hypotheses including tolerance mechanisms, defense against herbivores and pathogens, [[dighton-fungal-drought-tolerance-plant-water-relations]], and allelopathic competition.
 
-Most hyperaccumulating species being explored for commercial exploitation are in the Brassicaceae and are generally non-mycorrhizal. This is significant because it limits the potential for mycorrhizal enhancement of metal uptake, though non-mycorrhizal status may be advantageous in metal-contaminated soils where mycorrhizal fungi could potentially increase metal toxicity. The absence of mycorrhizal associations in many hyperaccumulator species may reflect the unique metal-rich environments they inhabit, where the typical mutualistic benefits of mycorrhizae are outweighed by the risks of enhanced metal uptake.
+Most hyperaccumulating species being explored for commercial exploitation are in the Brassicaceae and are generally non-mycorrhizal. This is significant because it limits the potential for mycorrhizal enhancement of metal uptake, though non-mycorrhizal status may be advantageous in metal-contaminated mycorrhizal fungi rhizal fungi could potentially increase metal toxicity. The absence of mycorrhizal associations in many hyperaccumulator species may reflect the unique metal-rich environments they inhabit, where the typical mutualistic benefits of mycorrhizae are outweighed by the risks of enhanced metal uptake.

@@ -13,7 +13,7 @@ sources:
   - Wren, R.C. (1988). "Potter's New Cyclopaedia of Botanical Drugs and Preparations." C.W. Daniel Co.
   - Rivera, D. et al. (2006). "Myrtus communis in the Mediterranean: ethnobotany and traditional uses." Economic Botany, 60(3), 237-253.
   - Barros, L. et al. (2014). "Myrtus communis L.: a review on phytochemical and pharmacological aspects." Planta Medica, 80(6), 443-455.
-  - Senatore, F. et al. (2006). "Essential oil composition of Myrtus communis." Flavour and Fragrance Journal, 21(2), 257-261.
+  - Senatore, F. et al. (2006). "[[permaculture-designers-manual-essential-oil-plants]] composition of Myrtus communis." Flavour and Fragrance Journal, 21(2), 257-261.
   - Hayder, N. et al. (2005). "Anti-inflammatory and antioxidant activities of Myrtus communis extracts." Journal of Ethnopharmacology, 97(1), 67-72.
 ---
 
@@ -25,7 +25,7 @@ Myrtus communis, commonly known as true myrtle or common myrtle, is an evergreen
 
 The species is valued for its aromatic leaves and berries, both of which are used in culinary, medicinal, and perfumery applications. Myrtle essential oil, distilled from the leaves and twigs, is an important ingredient in traditional Mediterranean herbal medicine and modern aromatherapy.
 
-Myrtle plays a significant ecological role in Mediterranean maquis and garrigue ecosystems, providing food and habitat for numerous bird and insect species. It is also widely cultivated as an ornamental shrub in gardens worldwide, appreciated for its glossy foliage, fragrant white flowers, and adaptability to pruning.
+Myrtle plays a significant ecological role in Mediterranean maquis and garrigue ecosystems, providing food and habitat for numerous bird and insect species. It is also widely cultivated as an [[hamilton-ornamental-shrub-care]] in gardens worldwide, appreciated for its glossy foliage, fragrant white flowers, and adaptability to pruning.
 
 ## Taxonomy and Morphology
 
@@ -45,7 +45,7 @@ Myrtus communis is native to the Mediterranean region, extending from southern P
 
 The species occurs from sea level to 800 meters elevation, typically on dry, rocky hillsides, limestone outcrops, and in scrubland communities. It thrives in Mediterranean climates with hot, dry summers and mild, wet winters, tolerating temperatures from -5 to 40 degrees Celsius.
 
-Myrtle is adaptable to various soil types including calcareous, sandy, and volcanic substrates, though it prefers well-drained soils. It demonstrates moderate salt tolerance, enabling growth in coastal environments. The species resprouts vigorously after fire, a key survival trait in fire-prone Mediterranean ecosystems.
+Myrtle is adaptable to various soil types including calcareous, sandy, and volcanic substrates, though it prefers well-drained soils. It demonstrates moderate [[fungal-salt-tolerance-and-ion-homeostasis]], enabling growth in coastal environments. The species resprouts vigorously after fire, a key survival trait in fire-prone Mediterranean ecosystems.
 
 ## Bioactive Compounds and Pharmacology
 
@@ -53,7 +53,7 @@ The leaves of Myrtus communis contain 0.5-1.5% essential oil composed primarily 
 
 Phenolic compounds in the leaves include myricetin, quercetin, kaempferol, and their glycoside derivatives, along with galloyl derivatives and hydrolyzable tannins. The berries are rich in anthocyanins, primarily delphinidin-3-glucoside and malvidin-3-glucoside, responsible for their dark pigmentation.
 
-Antimicrobial activity of myrtle essential oil has been demonstrated against Gram-positive bacteria including Staphylococcus aureus and Streptococcus pyogenes, as well as Candida albicans and Aspergillus niger. This supports the traditional use of myrtle preparations for treating respiratory and skin infections.
+Antimicrobial activity of myrtle essential oil has been demonstrated against Gram-positive bacteria including Staphylococcus aureus and Streptococcus pyogenes, as well as [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]] and Aspergillus niger. This supports the traditional use of myrtle preparations for treating respiratory and skin infections.
 
 Anti-inflammatory and antioxidant properties are attributed to the combined action of essential oil terpenes and phenolic compounds. In vitro studies show inhibition of cyclooxygenase-2 and nitric oxide production in macrophage cell lines, with IC50 values comparable to standard anti-inflammatory drugs.
 
@@ -79,7 +79,7 @@ Myrtus communis is widely cultivated as an ornamental shrub in Mediterranean, su
 
 Propagation is achieved through seed, semi-hardwood cuttings, and layering. Seeds require cold stratification for optimal germination. Cuttings taken in late summer root readily under mist propagation with bottom heat. The plant prefers full sun to partial shade and well-drained soil.
 
-Established plants are drought-tolerant and require minimal irrigation in Mediterranean climates. Fertilization needs are low, though a balanced application in spring supports vigorous growth. Few serious pests or diseases affect cultivated myrtle, though scale insects and red spider mites may occur under glasshouse conditions.
+Established plants are drought-tolerant and require minimal irrigation in Mediterranean climates. Fertilization needs are low, though a balanced application in spring supports vigorous growth. Few serious pests or diseases affect cultivated myrtle, though scale insects and red [[cervantes-spider-mites-identification-control]] may occur under glasshouse conditions.
 
 Hardiness varies among provenances, with western Mediterranean populations tolerating temperatures to -10 degrees Celsius. In colder climates, myrtle can be grown in containers and overwintered indoors. The plant responds well to renovation pruning and can regenerate from old wood after severe cutting back.
 
@@ -101,7 +101,7 @@ The species plays a critical role in post-fire succession in Mediterranean ecosy
 
 While not globally threatened, some local populations face pressure from urbanization, agricultural expansion, and overgrazing. Conservation efforts in several Mediterranean countries focus on preserving representative myrtle communities within protected areas and promoting sustainable use of wild-harvested material.
 
-Climate change poses an emerging threat through increased drought frequency and wildfire intensity in Mediterranean regions. Research on myrtle's physiological responses to combined heat and drought stress suggests moderate resilience, but repeated severe fire events may exceed the species' regenerative capacity in marginal populations.
+[[dighton-fungi-climate-change-feedback]] poses an emerging threat through increased drought frequency and wildfire intensity in Mediterranean regions. Research on myrtle's physiological responses to combined heat and drought stress suggests moderate resilience, but repeated severe fire events may exceed the species' regenerative capacity in marginal populations.
 
 ## See Also
 

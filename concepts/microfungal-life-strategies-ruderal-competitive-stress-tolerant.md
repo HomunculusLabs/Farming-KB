@@ -1,5 +1,5 @@
 ---
-title: Microfungal Life Strategies — Ruderal, Competitive, and Stress-Tolerant
+title: Microfungal microfungal life strategies ruderal competitive stress tolerant — Ruderal, Competitive, and Stress-Tolerant
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Microfungal Life Strategies — Ruderal, Competitive, and Stress-Tolerant
 
-Fungal life strategy theory, adapted from Grime's (1977, 1979) work on higher plants, classifies microfungi into three primary strategies based on their response to environmental conditions. These strategies describe behaviors at particular life cycle stages rather than fixed trophic categories.
+Fungal life strategy theory, adapted from Grime's (1977, 1979) work on higher plants, classifies microfungi into three primary strategies based on their response to environmental conditions. These strategies describe behaviors at particular [[bloomfield-fungal-life-cycle-spiral-versus-circle]] stages rather than fixed trophic categories.
 
 ## The Three Primary Strategies
 
@@ -23,7 +23,7 @@ Fungal life strategy theory, adapted from Grime's (1977, 1979) work on higher pl
 **Examples:**
 - Many Mucorales — abundant in soil
 - Particularly sensitive to transient factors (e.g., water stress)
-- Play insignificant role in litter decomposition
+- Play insignificant role in [[dighton-pine-needle-litter-decomposition-fungal-succession]]
 
 **Modified Ruderal — [[microfungal-species-diversity-large-areas]]
 - microfungal life strategies ruderal competitive stress tolerant
@@ -107,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

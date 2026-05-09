@@ -1,9 +1,9 @@
 ---
-title: "Food Forest Design Principles"
+title: "Food Forest holmgren-permaculture-twelve-design-principles-framework"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
-  - "Nicole Faires, The Ultimate Guide to Natural Farming and Sustainable Living"
+  - "Nicole Faires, The Ultimate Guide to comparison-natural-farming-vs-permaculture and natural-farming-sustainable-living-principles"
 type: concept
 tags: [design, food-forest, forest-garden]
 ---
@@ -24,7 +24,7 @@ Monoculture maximizes yield per individual plant but ignores total system output
 
 Monoculture is concerned with the individual plant and how to push each one to the greatest yield. Polyculture, and in particular a forest garden, is concerned with the whole. Pushing as many species as possible to work together actually yields more in total than one species grown alone. The plants aren't as big as possible and may not produce as much fruit, and there may be so-called "weeds," but when it is all collected in the end, the quantity of food will be greater.
 
-Forest gardens are experimental and take at least a decade to establish and even longer to make profitable. There is no strict formula, and every climate and microclimate is different. The goal is many eggs in many baskets rather than one crop that can fail. A forest garden should need only a few people working part time, versus 80+ hours per week for a typical organic market farm.
+Forest gardens are experimental and take at least a decade to establish and even longer to make profitable. There is no strict formula, and every [[pdc-climate-and-microclimate-analysis]] is different. The goal is many eggs in many baskets rather than one crop that can fail. A forest garden should need only a few people working part time, versus 80+ hours per week for a typical organic market farm.
 
 ## Ecological Succession Context
 
@@ -36,7 +36,7 @@ Understanding ecological succession is essential to forest garden design. When g
 
 The forest garden strategy uses and accelerates this process. Stage 1 fixes nitrogen and breaks up soil so later stages flourish without human effort. Rotation is unnecessary when planting all kinds of different crops and allowing them to mimic a forest. Animals are placed for a time, and plants are started at different times, following natural plant cycles.
 
-Important distinction: companion planting is not the same as ecological succession. Putting plants from Stage 1 with Stage 3 plants is not always beneficial.
+Important distinction: [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] is not the same as ecological succession. Putting plants from Stage 1 with Stage 3 plants is not always beneficial.
 
 ## Seven Design Principles
 
@@ -79,7 +79,7 @@ The edge of a forest gets more light and nutrients than the center, making it mo
 
 ## Choosing Species
 
-When selecting species, consider: successional stage, deciduous vs evergreen, height, root invasiveness, growth rate, shade density, disease resistance, climate suitability, tendency to spread, pruning sensitivity, common vs rare, labor requirements, multiple products (leaves, roots, seeds, fruit), self-storage ability, and harvest timing.
+When selecting species, consider: successional stage, deciduous vs evergreen, height, root invasiveness, growth rate, shade density, disease resistance, climate suitability, tendency to spread, pruning sensitivity, common vs rare, labor requirements, multiple products (leaves, roots, seeds, fruit), self-storage ability, and [[cannabis-harvest-timing-visual-cues]].
 
 Record each species on 3x5 index cards with all characteristics and growing instructions, plus specific uses (food type, animal feed, soil nutrient contribution, dye production).
 
@@ -89,8 +89,11 @@ Large-scale single crops are possible if the crop needs little work after planti
 
 ## See Also
 
-- [[faires-mimicking-forests]]
-- [[faires-hugelkultur-and-forest-garden-strategy]]
-- [[faires-zone-and-sector-planning]]
-- [[faires-hugelkultur-and-forest-garden-strategy]]
+- faires-mimicking-forests
+- faires-hugelkultur-and-forest-garden-strategy
+- faires-zone-and-sector-planning
+- faires-hugelkultur-and-forest-garden-strategy
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
+- [[food-forest-design]]
+- [[forest-gardens]]
+- [[companion-planting]]

@@ -1,5 +1,5 @@
 ---
-title: "MDA (3,4-METHYLENEDIOXYAMPHETAMINE) -- PIHKAL Entry #100"
+title: "MDA (3,4-METHYLENEDIOXYAMPHETAMINE) -- 2c-b-pihkal-entry-20 #100"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -96,15 +96,15 @@ PIHKAL entry #100. 3,4-METHYLENEDIOXYAMPHETAMINE.
 There are about twenty different synthetic
 routes in the literature for the preparation of MDA. Many start with
 piperonal, and employ it to make methylenedioxyphenylacetone or a
-methylenedioxydihydro-cinnamic acid amide instead of the nitrostyrene.
+methylenedioxydihydro-cinnamic [[lysergic-acid-amide-containing-plants-halpern]] instead of the nitrostyrene.
 The phenylacetone can be reduced in several ways other than the
 cyanoborohydride method mentioned here, and the amide can be
 rearranged directly to MDA. And there are additional methods for the
 reduction of the nitrostyrene that use no lithium aluminum hydride.
 Also there are procedures that have safrole or isosafrole as starting
 points. There is even one in the underground literature that starts
-with sassafras root bark. In fact, it is because safrole is one of
-the ten essential oils that MDA can humorously be referred to as one
+with sassafras [[iboga-root-bark-preparation]]. In fact, it is because safrole is one of
+the ten [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] that MDA can humorously be referred to as one
 of the Ten Essential Amphetamines. See the comments under TMA.
 There is a broad and checkered history concerning the use and abuse of
 MDA, and it is not the case that all the use was medical and all the
@@ -118,7 +118,7 @@ unknowing subjects was commonplace. There was one case in 1953,
 involving MDA and a psychiatric patient named Howard Blauer that
 proved fatal. The army had contracted with several physicians at the
 New York State Psychiatric Institute to explore new chemicals from the
-Edgewood Arsenal and one of these, with a chemical warfare code number
+Edgewood Arsenal and one of these, with a [[solomon-root-exudates-and-allelopathy]] code number
 of EA-1298, was MDA. The last and lethal injection into Blauer was an
 intravenous dose of 500 milligrams.
 There have been a number of medical explorations. Under the code
@@ -135,3 +135,8 @@ quantities of it, as it was available as a research chemical from
 several scientific supply houses (as were [[psychedelic-research-legal-history-united-states]]
 - [[qualitative-comments-methodology-pihkal]]
 - [[turner-psychedelic-combination-experience-reports]]
+
+## See Also
+
+- [[pihkal-mda-family]]
+- [[2-br-4-5-mda-entity]]

@@ -1,5 +1,5 @@
 ---
-title: "4-MA (PMA; 4-METHOXYAMPHETAMINE) -- PIHKAL Entry #97"
+title: "4-MA (PMA; 4-METHOXYAMPHETAMINE) -- 2c-b-pihkal-entry-20 #97"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -37,7 +37,7 @@ PMA; 4-METHOXYAMPHETAMINE
 ## Extensions and Commentary
 
 This is another of the and natural precursors, because of the appearance of the 4-methoxy group in two
-most important essential oils. These are the allylbenzene (estragole
+most important [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]. These are the allylbenzene (estragole
 or esdragol) and the propenyl isomer (anethole). Their natural
 sources have been discussed under TMA.
 
@@ -130,7 +130,7 @@ weighed 3.8 g and had a mp of 171-172 deg C.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin safety principles and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna [[2-4-dma-entity-pihkal]]
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin [[shulgin-safety-principles-self-experimentation]] and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna [[2-4-dma-entity-pihkal]]
 - [[2c-g-4-entity-pihkal]]
 
 - PIHKAL (the source book)

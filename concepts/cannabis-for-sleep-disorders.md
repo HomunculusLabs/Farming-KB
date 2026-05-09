@@ -1,5 +1,5 @@
 ---
-title: Cannabis for Sleep Disorders
+title: Cannabis for cannabis-sleep-disorders-and-insomnia
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -22,7 +22,7 @@ Cannabis has been used as a sleep aid for centuries. Modern research confirms it
 ### Indica vs Sativa
 - Indica-dominant strains: More sedating, better for sleep (higher myrcene)
 - Sativa-dominant strains: More stimulating, may disrupt sleep
-- Hybrid strains: Variable effects depending on terpene profile
+- Hybrid strains: Variable effects depending on [[cannabis-terpene-profile]]
 
 ## Evidence by Condition
 
@@ -35,7 +35,7 @@ Cannabis has been used as a sleep aid for centuries. Modern research confirms it
 ### Sleep Apnea
 - Evidence level: Limited/preclinical
 - THC may stabilize respiratory patterns during sleep
-- Dronabinol (synthetic THC) showed benefit in a small clinical trial
+- Dronabinol (synthetic THC) showed benefit in a small [[psilocybin-clinical-trial-landscape-2020-2025]]
 - Not a substitute for CPAP therapy
 
 ### PTSD-Related Nightmares
@@ -53,7 +53,7 @@ Cannabis has been used as a sleep aid for centuries. Modern research confirms it
 - Use 30-60 minutes before desired sleep time
 - Start low: 2.5-5mg THC
 - Increase gradually: 5-10mg if needed
-- Vaporizing preferred over smoking (cleaner, temperature control)
+- Vaporizing preferred over smoking (cleaner, [[hamilton-greenhouse-heating-and-temperature-control]])
 - Edibles: take 2 hours before bed (delayed onset)
 - Avoid daily use — tolerance develops in 1-2 weeks
 
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

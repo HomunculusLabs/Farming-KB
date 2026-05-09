@@ -9,7 +9,7 @@ sources: [raw/papers/a-selection-permaculture-plants.md]
 
 # Bamboo Species Guide
 
-Bamboos (Family: Bambusaceae) are among the most useful multi-purpose plants in permaculture design. They provide timber, edible shoots, windbreaks, hedges, erosion control, and fodder. They divide into two main types: **clumping** (non-invasive) and **running** (potentially invasive).
+Bamboos (Family: Bambusaceae) are among the most useful multi-purpose plants in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. They provide timber, edible shoots, windbreaks, hedges, [[permplant-willows-salix-erosion-control-fodder]], and fodder. They divide into two main types: **clumping** (non-invasive) and **running** (potentially invasive).
 
 ## Clumping Bamboos (Bambusa spp.)
 
@@ -59,6 +59,7 @@ Native of Japan, small (2-4 m) runner bamboo with leaves up to 35 cm long and 9 
 - [[permaculture-plant-selection-guide]]
 - [[salt-tolerant-plant-guide]]
 - [[difficult-site-planting]]
+
 ## Practical Considerations
 
 Successful implementation of Bamboo Species Guide requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

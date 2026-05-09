@@ -1,5 +1,5 @@
 ---
-title: Ketamine The Ultimate Psychedelic Journey
+title: Ketamine The ketamine ultimate [[ketamine-psychedelic-journey-guide]] Journey
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -26,7 +26,7 @@ Ketamine is used clinically as a "gentle" anesthetic, often given to children an
 - **10-20 mg:** Non-psychedelic dissociative altered state
 - **50 mg:** Semi-conscious halfway zone
 - **75-125 mg:** Highly desirable Ketamine trip (~100 mg average)
-- **100 mg IM:** Standard intense psychedelic dose
+- **100 mg IM:** Standard intense [[psychedelic-dose-response]]
 
 **Other routes:**
 - **Snorting:** Liquid poured on glass tray, evaporated at 200 degrees F, powder scraped off and snorted. Less intense than injection.
@@ -39,7 +39,7 @@ The "dosage window" for a spectacular Ketamine journey is significantly wider wh
 ### Onset and Journey
 The high comes on ~2 minutes after injecting. User should be lying down or reclining -- they will be unconscious of their body shortly after onset.
 
-There is a break in the continuity of consciousness, then the user finds themselves in a swirling psychedelic universe. There is no concept of being high on a drug or coming down. Frequently no recollection of ever having a personality, body, or knowing of planet Earth.
+There is a break in the continuity of consciousness, then the user finds themselves in a swirling psychedelic universe. There is no concept of being high on a drug or [[fukuoka-textdoc-production-costs-not-coming-down]]. Frequently no recollection of ever having a personality, body, or knowing of planet Earth.
 
 ### Core Experience
 - Total orgasm with the universe

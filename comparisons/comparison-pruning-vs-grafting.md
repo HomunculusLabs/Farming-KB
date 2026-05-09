@@ -14,7 +14,7 @@ Pruning selectively removes branches to shape trees, improve fruit quality,
 and maintain tree health. Grafting joins two plants (a scion and rootstock)
 so they grow as one, reproducing named varieties and combining desirable
 traits from each partner. Both are essential orchard skills that serve
-complementary purposes in fruit tree management.
+complementary purposes in [[comparison-berry-growing-vs-fruit-tree-pruning]] management.
 
 ## Overview
 
@@ -30,7 +30,7 @@ varieties, and repair damaged trees.
 
 Common grafting methods include whip and tongue graft for small-diameter
 material, cleft graft for larger branches, and T-budding during the active
-growing season. Each method suits specific timing, skill levels, and tree
+[[savory-growing-season-and-non-growing-season-management]]. Each method suits specific timing, skill levels, and tree
 sizes. Successful grafting requires sharp tools, clean cuts, precise
 cambium contact, and protection from drying until the union heals.
 
@@ -50,7 +50,7 @@ cambium contact, and protection from drying until the union heals.
 
 ## When to Choose Pruning
 
-Choose pruning for all cultivated fruit trees as part of routine annual
+Choose pruning for all cultivated [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] as part of routine annual
 care. Young trees need formative pruning to establish strong scaffold
 branches with wide crotch angles that resist splitting under fruit load.
 Mature bearing trees require maintenance pruning to remove deadwood,
@@ -59,16 +59,16 @@ orchards benefit from restorative pruning over two to three seasons to
 bring overgrown trees back into production without excessive stress.
 
 Pruning is also critical for espalier training, pollarding, and topiary
-where specific architectural forms are desired. Disease management relies
+where specific architectural forms are desired. [[plant-disease-management-solomon]] relies
 heavily on pruning to remove infected branches and improve drying conditions
 within the canopy.
 
 ## When to Choose Grafting
 
-Choose grafting when propagating named fruit varieties that must remain
+Choose grafting when propagating named [[holzer-stone-fruit-varieties-and-growing]] that must remain
 genetically identical to the parent. Seed-grown apples, for instance, do
 not reproduce the parent variety, so grafting is the only practical method
-for orchard establishment. Grafting also enables topworking, the practice
+for [[fukuoka-citrus-orchard-establishment-bare-hillside]]. Grafting also enables topworking, the practice
 of changing the variety on an established tree by replacing the canopy with
 new scionwood. This allows growers to convert unproductive or undesirable
 trees to better varieties without waiting years for a new tree to mature.

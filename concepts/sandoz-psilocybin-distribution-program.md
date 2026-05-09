@@ -26,12 +26,12 @@ Following gordon-wasson's synthesis of [psilocybin in 1958, the Swiss pharmaceut
 
 Sandoz manufactured approximately 2 kg (ca. 4.4 lbs) of pure psilocybin for [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]] (Germany, Switzerland, UK, France, Czechoslovakia, and others)
 - North America (United States, Canada)
-- South and Central America
+- South and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]
 - Asia and Australia (to a lesser extent)
 
 ### The Sandoz Brand
 
-Sandoz marketed psilocybin under the brand name "Indocybin" -- a contraction of "Indian" (referencing the indigenous Mexican use) and "psilocybin." The product was supplied in glass vials containing lyophilized (freeze-dried) powder for reconstitution.
+Sandoz marketed psilocybin under the brand name "Indocybin" -- a contraction of "Indian" (referencing the [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] use) and "psilocybin." The product was supplied in glass vials containing lyophilized (freeze-dried) powder for reconstitution.
 
 ## Research Outcomes
 
@@ -49,14 +49,14 @@ Sandoz marketed psilocybin under the brand name "Indocybin" -- a contraction of 
 
 The distributed psilocybin enabled a broad range of clinical investigations, including:
 
-- **Psycholytic therapy** (Europe): Treatment of neurotic character disorders with reported 85% success rate
-- **Psychedelic therapy** (Europe): High-dose treatment of terminal patients, with remarkable success in easing fear of death
+- **[[european-psycholytic-therapy-1960s-1970s]]** (Europe): Treatment of neurotic character disorders with reported 85% success rate
+- **[[metzner-psycholytic-psychedelic-therapy-models]]** (Europe): High-dose treatment of terminal patients, with remarkable success in easing fear of death
 - **Alcoholism treatment** (Canada): Humphry Osmond's work with alcoholics
 - **Personality assessment** (United States): Various psychological research programs
 
 ### Scientific Publications
 
-The Sandoz program generated hundreds of scientific publications documenting the pharmacology, psychology, and clinical applications of psilocybin. This body of literature remains the foundation for modern clinical psychedelic research.
+The Sandoz program generated hundreds of scientific publications documenting the pharmacology, psychology, and clinical applications of psilocybin. This body of literature remains the foundation for modern clinical [[mckenna-suppression-psychedelic-research-lsd-therapy]].
 
 ## The Shutdown
 
@@ -84,7 +84,7 @@ Gartz laments that "despite this evidence [of safety], the anti-drug legislative
 
 The shutdown meant that:
 
-- Decades of potential clinical research were lost
+- Decades of potential [[hofmann-lsd-clinical-research-early-studies]] were lost
 - The 85% success rate in treating neurotic disorders was never followed up
 - The terminal patient treatment program was discontinued
 - An entire generation of researchers was prevented from studying the substance

@@ -50,7 +50,7 @@ All above-ground tissues except the fleshy aril contain lethal concentrations of
   March–April; female cones reduced to a single ovule
 - **Aril:** Fleshy, cup-shaped, bright red, 8–12 mm, sweet and mucilaginous,
   ripening September–October; surrounds the single toxic seed
-- **Root system:** Extensive, deep, and highly branched; tolerates root pruning
+- **Root system:** Extensive, deep, and highly branched; tolerates [[cervantes-root-pruning-rootbound-management]]
 
 Growth is exceptionally slow: 20–30 cm/year in youth, declining with age.
 
@@ -59,7 +59,7 @@ Growth is exceptionally slow: 20–30 cm/year in youth, declining with age.
 - **Native range:** Western, central, and southern Europe; northwest Africa
   (Atlas Mountains); northern Turkey, Caucasus, northern Iran
 - **Naturalized:** Great Britain (possibly native), parts of northern India,
-  New Zealand, and temperate South America
+  New Zealand, and temperate [[guzman-psilocybin-mushrooms-south-america]]
 - **Habitat:** Shade-tolerant understory tree in mixed deciduous and coniferous
   forests; also cliffs, rocky limestone slopes, and ancient hedgerows
 - **Altitude:** 0–1,800 m; most abundant in oceanic and suboceanic climates
@@ -90,7 +90,7 @@ compound is now produced semi-synthetically from precursors in *T. baccata* need
 —a sustainable source that avoids harvesting bark from endangered species.
 
 - **Mechanism:** Binds β-tubulin, stabilizing microtubules, preventing mitosis
-- **Indications:** Ovarian, breast, lung, and pancreatic cancers; Kaposi sarcoma
+- **Indications:** Ovarian, breast, lung, and pancreatic cancers; [[blesching-cannabis-kaposi-sarcoma]]
 - **Market:** Annual global market exceeding $4 billion at peak; now generic
 
 Traditional European use of yew was limited by its toxicity, but some folk
@@ -113,5 +113,5 @@ makes it valuable in designed landscapes where toxicity risk is managed.
 ## See Also
 
 - [[cicuta-maculata]] — Water hemlock, another extremely toxic plant
-- [[atropa-belladonna]] — Deadly nightshade, cardiotoxic alkaloid parallel
+- [[atropa-belladonna]] — [[plants-of-the-gods-atropa-belladonna-deadly-nightshade]], cardiotoxic alkaloid parallel
 - [[nicotine]] — Nicotine, plant-derived neurotoxin with medicinal history

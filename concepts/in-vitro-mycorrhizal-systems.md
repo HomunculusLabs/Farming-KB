@@ -8,7 +8,7 @@ sources: []
 ---
 # In Vitro Mycorrhizal Systems
 
-In vitro mycorrhizal systems are experimental setups that allow the study and application of mycorrhizal symbiosis under controlled, axenic conditions. These systems are essential for understanding the molecular biology of mycorrhizal interactions and for producing mycorrhiza-inoculated micropropagated plants for commercial horticulture and forestry.
+In vitro mycorrhizal systems are experimental setups that allow the study and application of [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] under controlled, axenic conditions. These systems are essential for understanding the molecular biology of mycorrhizal interactions and for producing mycorrhiza-inoculated micropropagated plants for commercial horticulture and forestry.
 
 ## Importance and Applications
 
@@ -16,14 +16,14 @@ In vitro systems address several critical needs:
 
 - **Research**: Eliminating confounding variables from soil microbial communities allows precise study of plant-fungal interactions
 - **Micropropagation**: Tissue-cultured plants lack a rhizosphere microbiome; in vitro mycorrhization restores beneficial symbioses before plants leave the laboratory
-- **Inoculum production**: Clean, pathogen-free mycorrhizal inoculum for commercial use
-- **Co-culture biotechnology**: Combined plant cell-fungal cultures for enhanced secondary metabolite production
+- **[[arbuscular-mycorrhizal-inoculum-production-best-practices]]**: Clean, pathogen-free mycorrhizal inoculum for commercial use
+- **Co-culture biotechnology**: Combined plant cell-fungal cultures for enhanced [[mycorrhizal-fungi-secondary-metabolite-elicitation]] production
 
 ## Types of In Vitro Systems
 
 ### Monoxenic AMF Cultures
 
-Arbuscular mycorrhizal fungi are obligate biotrophs that cannot be grown without a host. Monoxenic (two-organism) cultures involve:
+[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi are obligate biotrophs that cannot be grown without a host. Monoxenic (two-organism) cultures involve:
 
 - **Ri T-DNA transformed roots**: Carrot (Daucus carota) roots transformed by Agrobacterium rhizogenes grow axenically on minimal medium and support AMF colonization
 - **Root organ cultures**: Discrete root segments maintained on agar plates
@@ -42,7 +42,7 @@ Split-plate designs separate the fungal inoculation zone from the plant growth z
 ### Hydroponic and Aeroponic Systems
 
 - **Aseptic microhydroponics**: Rooted microplants transferred to sterile liquid medium for weaning
-- **Aeroponics**: Roots suspended in mist chambers; allows easy observation of mycorrhizal colonization
+- **Aeroponics**: Roots suspended in mist chambers; allows easy observation of [[arbuscular-mycorrhizal-colonization-patterns]]
 
 ## Mycorrhization of Micropropagated Plants
 
@@ -105,7 +105,7 @@ P. indica co-culture with L. album suspension cultures enhances podophyllotoxin 
 For commercial inoculum production, quality control includes:
 
 - **Most Probable Number (MPN)** of infective propagules
-- **DNA multiscan** for molecular genetic analysis of fungal and bacterial communities
+- **DNA multiscan** for molecular genetic analysis of fungal and [[cultivar-endorhiza-bacterial-communities-cannabis]]
 - **Mycorrhizal Effectiveness Index (MEI)**: A threshold of MEI > 30 is required for commercial interest
 - **Process monitoring**: Principal component analysis of growth conditions to detect negative interrelationships
 

@@ -1,10 +1,11 @@
 ---
-title: "How do clay seed balls work for natural farming?"
+title: "How do clay seed balls work for comparison-natural-farming-vs-permaculture?"
 created: 2026-04-28
 tags: [query, natural-farming, seed-balls, restoration]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
+  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: query
 ---
@@ -13,7 +14,7 @@ type: query
 
 ## Short Answer
 Clay seed balls protect seeds inside a small pellet of clay, compost, and sometimes amendments until rainfall and soil contact allow germination.
-They are associated with natural farming because they reduce tillage, transplant shock, and precise row preparation.
+They are associated with natural farming because they reduce tillage, [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]], and precise row preparation.
 Pages such as [[fukuoka-seed-ball-method]], and [[clay-seed-balls-tsuchi-dango]] uses the Japanese term tsuchi dango for this clay-ball approach.
 [[clay-ball-seed-pellets]] describe closely related preparations.
 The pellet may include compost, fine soil, microbial inoculants, mineral dust, or multiple seed species.
@@ -24,10 +25,10 @@ When rain softens the clay, the seed can germinate in place.
 
 Natural farming often tries to reduce plowing, bare soil, and unnecessary control.
 Clay seed balls allow sowing without opening a furrow or making a conventional seedbed.
-[[fukuoka-seed-balls-and-direct-seeding]] shows how the approach overlaps with direct seeding but adds protection.
-The method can scatter seed through standing mulch, straw, crop residue, or rough ground.
+[[fukuoka-seed-balls-and-direct-seeding]] shows how the approach overlaps with [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] but adds protection.
+The method can scatter seed through standing mulch, straw, [[jadam-crop-residue-fertilizer]], or rough ground.
 It also encourages mixtures rather than single-species uniformity.
-That makes it attractive for cover crops, prairie restoration, food forest understories, and experimental polycultures.
+That makes it attractive for cover crops, [[comparison-prairie-restoration-vs-silvopasture]], food forest understories, and experimental polycultures.
 
 ### Ingredients and proportions
 
@@ -72,7 +73,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +115,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

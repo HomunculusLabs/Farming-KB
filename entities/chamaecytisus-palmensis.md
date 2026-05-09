@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [species, tree, nitrogen-fixer, fodder, pioneer]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [a-selection-permaculture-plants.md]
+sources: [a-selection-permaculture|permaculture-plants.md]
 type: entity
 ---
 
@@ -12,12 +12,12 @@ type: entity
 
 **Type:** Species
 **Category:** Nitrogen-fixing fodder shrub/tree
-**Also known as:** [[permaculture]]. In Western Australia alone, 50,000 hectares of
+**Also known as:** permaculture. In Western Australia alone, 50,000 hectares of
 marginal farmland have been planted to tagasaste, with an estimated 1.5
 million hectares that could benefit. It is a fast-growing, highly
 productive stock feed with exceptional drought tolerance.
 
-## Key Details
+## Key [[det|Det]]ails
 
 ### Botany
 - **Family:** Fabaceae (Papilionaceae)
@@ -105,4 +105,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

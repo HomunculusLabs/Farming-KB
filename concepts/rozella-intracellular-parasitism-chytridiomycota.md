@@ -1,5 +1,5 @@
 ---
-title: "Rozella: Intracellular Parasitism in Chytridiomycota"
+title: "Rozella: rozella intracellular parasitism chytridiomycota in Chytridiomycota"
 created: 2026-04-26
 tags:
   - mycology
@@ -18,7 +18,7 @@ type: concept
 
 The genus Rozella represents one of the most intriguing and
 poorly understood groups of intracellular [[fungal-evolution]]. These organisms are part of the
-broader community of zoosporic mycoparasites aquatic fungi.
+broader community of zoosporic mycoparasites [[bloomfield-ingoldian-aquatic-fungi-spore-dispersal]].
 
 ## Taxonomic History and Phylogenetic Position
 
@@ -51,7 +51,7 @@ taxonomy based on host specificity, assigning approximately
    specialized on the blastocladialean genus Allomyces and
    members of the Saprolegniaceae.
 5. **Miscellaneous hosts**: Species with broader or less
-   clearly defined [[mycorrhizal-specificity-and-host-range]]s.
+   clearly defined mycorrhizal-specificity-and-host-ranges.
 
 This classification based on host relationships predated
 molecular phylogenetics but remains useful for understanding
@@ -61,7 +61,7 @@ the ecological diversity within the genus.
 
 When Rozella invades a host hypha, it elicits a host reaction
 at the papilla (the penetration site). The reaction involves
-the deposition of host cell wall material around the
+the deposition of host [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] material around the
 penetration site but with minimal overall cell disruption.
 Importantly, this reaction does not occur in hyphae that
 already are infected, so renewed penetration by additional
@@ -100,7 +100,7 @@ studies of host recognition and specificity mechanisms.
 ### Rozella rhizoclonemi
 
 Parasitizes Rhizoclonium species, an algal host, demonstrating
-that some Rozella species can cross kingdom boundaries to
+that some Rozella species can [[phytohormone-cross-kingdom-fungal-effects]] boundaries to
 parasitize hosts outside the fungi.
 
 ## Ecological Significance
@@ -109,8 +109,10 @@ Rozella species are likely important regulators of
 zoosporic fungal populations in aquatic environments.
 Their ability to parasitize common aquatic fungi, including
 plant pathogens such as Pythium species, means they may
-play a role in natural biological control. However, their
+play a role in natural [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]. However, their
 ecological impact is difficult to assess because they are
 rarely detected in routine surveys. Their small size,
 intracellular habitat, and lack of conspicuous fruiting
 structures make them easy to overlook.
+## See Also
+- [[mycorrhiza]]

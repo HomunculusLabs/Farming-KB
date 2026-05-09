@@ -1,5 +1,5 @@
 ---
-title: "2,5-DMA -- 2,5-DIMETHOXYAMPHETAMINE -- PIHKAL Entry #54"
+title: "2,5-DMA -- 2,5-DIMETHOXYAMPHETAMINE -- 2c-b-pihkal-entry-20 #54"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -20,7 +20,7 @@ All three isomers of monomethylamphetamine have also been looked at in man. The 
 
 stimulation, and at twice this dosage there are signs of mild toxicity such as salivation, coughing and vomiting.
 
-There is a mystery, at least to me, concerning the commercial production of 2,5-DMA. At regular intervals, there is a public announcement of the production quotas that are requested or allowed by the Drug Enforcement Administration, for drugs that have been placed in Schedules I or II. In the Schedule I category there are usually listed amounts such as a gram of this, and a few grams of that. These are probably for analytical purposes, since there are no medical uses, by definition, for drugs in this Schedule. But there is a staggering quantity of 2,5-DMA requested, regularly. Quantities in the many tens of millions of grams, quantities that vie with medical mainstays such as codeine and morphine. I have heard that this material is used in the photographic industry, but I have no facts. Somewhere I am sure that there is someone who has to keep a lot of very careful books!
+There is a mystery, at least to me, concerning the commercial production of 2,5-DMA. At regular intervals, there is a public announcement of the production quotas that are requested or allowed by the Drug Enforcement Administration, for drugs that have been placed in Schedules I or II. In the Schedule I category there are usually listed amounts such as a gram of this, and a few grams of that. These are probably for analytical purposes, since there are no medical uses, by definition, for drugs in this Schedule. But there is a staggering quantity of 2,5-DMA requested, regularly. Quantities in the many tens of millions of grams, quantities that vie with medical mainstays such as codeine and [[morphine]]. I have heard that this material is used in the photographic industry, but I have no facts. Somewhere I am sure that there is someone who has to keep a lot of very careful books!
 
 In the area of psychedelic drugs, the value of 2,5-DMA is mainly in its role as a precursor to the preparation of materials that can come from a direct electrophilic attack on the activated 4-position. These uses can be found under things such as DOB and DOI and DON. The radio-halogenation of N-substituted homologues of 2,5-DMA with hypoiodite or hypofluorite is part of an extensive study underway in the search for radio-labeled brain blood flow agents. The rationale for this work is to be found in the commentary under IDNNA. In essence it has been found that the N-substitution or N,N-disubstitution of 2,5-DMA where the 4-position is unsubstituted and thus available for the introduction of a radioactive nucleus can give rise to potentially useful drugs. Most of these 2,5-dimethoxy exploratory compounds were made by the reductive alkylation of 2,5-dimethoxy-4-(radio)iodophenylacetone, using various mono or dialkyl amines. This, too, is described under IDNNA.
 
@@ -34,7 +34,7 @@ All of these latter materials remain unevaluated in man.
 
 ## Synthesis
 
-A solution of 10.0 g 2,5-dimethoxybenzaldehyde in 50 mL glacial acetic acid was treated with 6.8 g of nitroethane and 4.0 g of anhydrous ammonium acetate. This mixture was heated on the steam bath for 3 h and then the reagent/solvent was removed under vacuum. The residue was suspended in H2O and extracted with CHCl3. Removal of the solvent from the pooled extracts yielded 11.2 g of an impure 1-(2,5-dimethoxyphenyl)-2-nitropropene which, on recrystallization from 75 mL boiling MeOH, gave 6.7 g of product with a mp of 73-75 deg C. Anal. (C11H13NO4) C,H,N. This nitrostyrene has been periodically available commercially from a number of sources.
+A solution of 10.0 g 2,5-dimethoxybenzaldehyde in 50 mL glacial acetic acid was treated with 6.8 g of nitroethane and 4.0 g of anhydrous ammonium acetate. This mixture was heated on the [[scythian-cannabis-steam-bath-ritual]] for 3 h and then the reagent/solvent was removed under vacuum. The residue was suspended in H2O and extracted with CHCl3. Removal of the solvent from the pooled extracts yielded 11.2 g of an impure 1-(2,5-dimethoxyphenyl)-2-nitropropene which, on recrystallization from 75 mL boiling MeOH, gave 6.7 g of product with a mp of 73-75 deg C. Anal. (C11H13NO4) C,H,N. This nitrostyrene has been periodically available commercially from a number of sources.
 
 A solution of 17.0 g of 1-(2,5-dimethoxyphenyl)-2-nitropropene was prepared in 500 mL anhydrous Et2O. This solution was added slowly to a well-stirred suspension of 12.0 g LAH in 700 mL anhydrous Et2O. The mixture was then brought up to a reflux and maintained there for 20 h, cooled with an external ice bath, and the excess hydride destroyed by the cautious addition of H2O. Finally, a total of 500 mL H2O was added, followed by the addition of 300 g potassium sodium tartrate, and sufficient aqueous NaOH to bring the pH above 9. The two phases
 
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Natural vs Synthetic Drugs in Food of the Gods
+title: teaming-with-nutrients-natural-vs-synthetic-fertilizers Drugs in Food of the Gods
 created: 2026-04-28
 tags: [drugs, natural, synthetic, mckenna, ethnobotany]
 date: 2026-04-28
@@ -14,7 +14,7 @@ type: concept
 Throughout *Food of the Gods*, [[mckenna-food-gods-archaic-revival]] he advocates is
 in part a movement toward the restoration of the ancient symbiotic
 compact between humans and psychoactive plants. This does not mean a
-rejection of modern science or pharmacology but rather a recognition
+rejection [[fukuoka-road-critique-of-modern-science]] or pharmacology but rather a recognition
 that the relationship between humans and psychoactive plants is older,
 deeper, and more complex than the dominator model of drug use allows.
 
@@ -39,7 +39,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -89,7 +89,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -99,4 +99,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

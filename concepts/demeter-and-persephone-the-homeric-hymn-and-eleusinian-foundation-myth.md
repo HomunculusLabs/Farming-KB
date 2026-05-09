@@ -1,5 +1,5 @@
 ---
-title: Demeter and Persephone the Homeric Hymn and Eleusinian Foundation Myth
+title: Demeter and Persephone the demeter and persephone the homeric hymn and eleusinian foundation myth and Eleusinian Foundation Myth
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -13,7 +13,7 @@ The Homeric Hymn to Demeter (7th century BC) is the foundational text for unders
 
 ## Related Topics
 
-- [[fungal-immunology-overview]] -- hidden interactions beneath the surface
+- fungal-immunology-overview -- hidden interactions beneath the surface
 - [[demeter-and-persephone-in-eleusinian-mythology]]
 - [[demeter-ergot-symbiosis-eleusinian-symbolism]]
 - [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]]
@@ -67,7 +67,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -145,4 +145,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

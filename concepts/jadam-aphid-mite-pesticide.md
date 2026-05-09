@@ -11,17 +11,17 @@ sources:
 # Aphid and Mite Pesticide (JADAM Recipe #6)
 
 **Updated:** 2026-04-18
-**Source:** JADAM Organic Farming, p.315 (Youngsang Cho, 2016)
+**Source:** JADAM [[coleman-deep-organic-farming-philosophy]], p.315 (Youngsang Cho, 2016)
 
 ## Overview
 
 JADAM pesticide recipe #6 targets aphids and mites using [[jadam-herb-solution-jhs]]. This is a versatile recipe with multiple herb substitution options and the ability to add [[jadam-wetting-agent-jwa]] 5 L (1.3 gal)
-- Jerusalem artichoke [[jadam-sulfur-js]] 1-2 L (0.26-0.53 gal) per 500 L
+- [[comparison-jerusalem-artichoke-vs-potato]] [[jadam-sulfur-js]] 1-2 L (0.26-0.53 gal) per 500 L
 - JS is also independently effective on mites
 
 ### Caution with JS
 - If JS is used, you cannot spray consecutively (need gaps between applications)
-- If JS is NOT used, you can spray JNP consecutively for better pest control
+- If JS is NOT used, you can spray JNP consecutively for better [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
 
 ## Escalation for Heavy Infestation
 
@@ -32,7 +32,7 @@ JADAM pesticide recipe #6 targets aphids and mites using [[jadam-herb-solution-j
 
 ## Red Clay Enhancement
 
-- Add 0.5 kg (1.1 lb) of very fine red clay powder per 500 L
+- Add 0.5 kg (1.1 lb) of very fine red [[jadam-red-clay-powder-method]] per 500 L
 - Increases pesticidal effectiveness
 - See [[jadam-rice-water-weevil-control]]) for wetting effectiveness
 - Ensure thorough coverage, especially leaf undersides where aphids hide
@@ -60,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

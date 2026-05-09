@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Therapy Mechanisms
+title: metzner-psycholytic-psychedelic-therapy-models Mechanisms
 created: 2026-04-12
 updated: 2026-04-18
 type: concept
@@ -21,23 +21,23 @@ DMT, mescaline) is agonism at the 5-HT2A serotonin receptor. This receptor is
 densely expressed in the prefrontal cortex, a region critical for cognitive
 flexibility, self-reflection, and emotional regulation. Activation of 5-HT2A
 receptors triggers a cascade of downstream effects including increased cortical
-excitability, enhanced glutamate release, and modulation of the default mode
+excitability, enhanced glutamate release, and modulation of the [[psilocybin-default-mode-network-ego-dissolution]]
 network (DMN).
 
 The DMN, normally associated with self-referential thinking and autobiographical
 memory, shows decreased activity and connectivity under psychedelics — a
-phenomenon that correlates with the subjective experience of ego dissolution and
+phenomenon that correlates with the subjective experience of [[psilocybin-ego-dissolution-mechanisms]] and
 the sense of connection to something larger than oneself. This DMN disruption is
 hypothesized to allow entrenched patterns of negative self-referential thought
 (central to depression, anxiety, and addiction) to relax, creating a window for
-cognitive and behavioral change. Brain imaging studies using fMRI have
+cognitive and behavioral change. [[neurochemical-probes-brain-imaging-pihkal]] studies using fMRI have
 demonstrated that psilocybin reduces DMN connectivity while increasing global
 brain connectivity — literally making parts of the brain that normally don't
 communicate begin to exchange signals.
 
 ## Psychological Mechanisms
 
-The acute psychedelic experience itself appears to be a key mechanism of
+The acute [[leary-psychedelic-experience-bardo-mapping]] itself appears to be a key mechanism of
 therapeutic change. High-dose experiences rated as "mystical-type" on validated
 scales show stronger and more enduring therapeutic outcomes than non-mystical
 experiences, suggesting that the subjective quality of the experience matters
@@ -105,7 +105,7 @@ distress and improve quality of remaining life.
 ## Related
 
 - [[psychedelic-therapy-models-comparison]]
-- psychedelic assisted therapy protocol
+- psychedelic [[metzner-mdma-assisted-therapy-research]] protocol
 - [[psilocybin-and-addiction-treatment]]
 - [[default-mode-network-and-ego-dissolution]]
 - [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]]

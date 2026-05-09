@@ -97,6 +97,8 @@ A low-pass digital filter removes most out-of-band noise.
 Decimation then reduces the sample rate to a practical value.
 A sinc filter is common in precision measurement converters.
 Finite impulse response filters are common in audio [[tompkins-plant-electrical-signals]]
-- [[mollison-permaculture-two-sound-walls-noise-control]]
+- mollison-permaculture-two-sound-walls-noise-control
 
-See also: [[natural-building-techniques]]
+See also: [[natural-building]]
+## See Also
+- [[cannabis-immune-modulation]]

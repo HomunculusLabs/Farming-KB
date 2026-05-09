@@ -1,5 +1,5 @@
 ---
-title: Rabbit Husbandry Guide
+title: comparison-rabbit-husbandry-vs-chicken-keeping Guide
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
@@ -82,7 +82,7 @@ Rabbits are among the most space-efficient and productive homestead livestock. T
 - **Snuffles (pasteurellosis)** — Respiratory infection, contagious and incurable. Cull affected animals.
 - **Mastitis** — Inflamed mammary glands in lactating does. Check udders regularly.
 - **GI stasis** — Intestinal slowdown, often fatal if not caught early. Prevention through proper diet and stress reduction.
-- **Heat stress** — Rabbits tolerate cold well but are very heat-sensitive. Above 85°F (29°C), provide cooling.
+- **[[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]]** — Rabbits tolerate cold well but are very heat-sensitive. Above 85°F (29°C), provide cooling.
 
 ### Biosecurity
 - Quarantine new rabbits for 2 weeks
@@ -101,10 +101,10 @@ Rabbits are among the most space-efficient and productive homestead livestock. T
 
 ## Manure Management
 
-Rabbit manure is one of the best organic fertilizers:
+Rabbit manure is one of the best [[hamilton-organic-fertilizers-and-plant-nutrition]]:
 
 - **N-P-K approximately 2.4-1.4-0.6** — rich in nitrogen and phosphorus
-- Does not need composting before use (unlike chicken, cow, or horse manure)
+- Does not need composting before use (unlike chicken, cow, or [[falconer-horse-manure-varieties]])
 - Can be applied directly to garden beds as a top-dressing or side-dress
 - Excellent addition to [[animal-manure-guide]] for comparison with other manure types
 

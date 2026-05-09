@@ -1,5 +1,5 @@
 ---
-title: Selenium and Arsenic Biotransformation by Fungi
+title: Selenium and singh selenium arsenic biotransformation fungi by Fungi
 created: 2026-04-28
 tags:
   - mycoremediation
@@ -20,7 +20,7 @@ Selenium and arsenic are metalloids posing significant environmental and
 health risks due to their toxicity and widespread distribution. Fungi
 play critical roles in their biogeochemical cycling, mediating
 oxidation-reduction reactions, methylation-demethylation processes, and
-volatilization pathways that form the basis of fungal remediation
+volatilization pathways that form the basis of [[cotter-pet-livestock-waste-fungal-remediation-systems]]
 strategies.
 
 ## Selenium in the Environment
@@ -30,7 +30,7 @@ selenium (Se0), selenite (SeO3 2-), and selenate (SeO4 2-). Solubility
 and toxicity follow the order selenate > selenite > selenide.
 Contamination arises from agricultural drainage in seleniferous soils,
 coal combustion, mining operations, electronics manufacturing, and
-phosphate fertilizer application.
+phosphate [[cervantes-fertilizer-application-strain-feeding]].
 
 ## Fungal Selenium Transformations
 
@@ -107,8 +107,8 @@ Fungi manage arsenite toxicity through multiple strategies:
 
 Mycelial barriers in [[singh-arbuscular-mycorrhizal-fungi-soil-remediation]] reduce
 metalloid translocation to plant shoots, supporting
-[[singh-fungal-bioreactor-types-configurations]] packed with fungal biomass achieve high
-removal efficiencies from industrial wastewater.
+[[singh-fungal-bioreactor-types-configurations]] packed with [[bioremediation-fungal-biomass-biosorbent-material]] achieve high
+removal efficiencies from [[fungal-industrial-wastewater-treatment]].
 
 ### Tolerance Mechanisms
 
@@ -118,6 +118,8 @@ production, upregulated efflux transporters, and extracellular polymeric
 substance production limiting metalloid uptake.
 
 ## See Also
+
+- [[singh-microplastic-degradation-fungi]]
 
 - [[singh-fungal-transformation-metals-metalloids]]
 - [[singh-mycorrhizal-fungi-in-heavy-metal-phytostabilization]]

@@ -1,14 +1,12 @@
 ---
 title: "Hugelkultur Beds"
 created: 2026-04-28
-tags: [[permaculture, soil-building, raised-beds, organic-matter]
+tags: [permaculture, soil-building, raised-beds, organic-matter]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  ["~/wiki/raw/papers/bill-mollison-permaculture-design-course.md"]
+sources: sources: []
 type: concept
 ---
-
 # [[water-management]]
 
 Hugelkultur beds dramatically reduce irrigation needs. The buried woody
@@ -28,9 +26,9 @@ manufactures its own topsoil from woody waste materials.
 ### Microclimate Creation
 
 The mound shape creates multiple microclimates. The south-facing slope
-warms earlier in spring, extending the growing season. The north-facing
+warms earlier in spring, extending the [[savory-growing-season-and-non-growing-season-management]]. The north-facing
 slope stays cooler for heat-sensitive crops. The raised height improves
-drainage and air circulation around plants.
+drainage and [[stamets-growing-room-air-circulation-co2-management]] around plants.
 
 ### Waste Recycling
 
@@ -44,8 +42,8 @@ the property.
 ### First Year
 
 During the first year, the bed is settling and nitrogen may be limited.
-Plant nitrogen-fixing cover crops like clover or beans, or add extra
-nitrogen through compost tea and [[comparison-raised-beds-vs-hugelkultur]]
+Plant nitrogen-fixing [[gaias-garden-cover-crops-soil-building]] like clover or beans, or add extra
+nitrogen through [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] and [[comparison-raised-beds-vs-hugelkultur]]
 
 - [[soil-building-permaculture]]
 ## Practical Considerations
@@ -64,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Psilocybe Mushrooms and Little Flowers of the Gods
+title: Psilocybe Mushrooms and schultes psilocybe little flowers gods of the Gods
 created: 2026-04-28
 tags:
   - ethnobotany
@@ -16,7 +16,7 @@ type: concept
 
 # Psilocybe Mushrooms and Little Flowers of the Gods
 
-The sacred mushrooms of Mexico, known to the Aztecs as Teonanacatl
+The [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]] of Mexico, known to the Aztecs as Teonanacatl
 ("divine flesh"), represent one of the oldest and most deeply revered
 psychoactive plant traditions in the world. Few plants of the gods have
 ever been held in greater reverence. At least twenty-four species of
@@ -58,7 +58,7 @@ uncontrollable laughter, others that brought visions of wars and
 demons, and still others sought by princes for their fiestas and
 banquets. For four centuries, the mushroom cult was driven into hiding
 through persecution so successfully that no anthropologist or botanist
-had uncovered it until the twentieth century.
+had uncovered it until the [[coleman-louis-savier-twentieth-century-maraicher]].
 
 ## Rediscovery in the Twentieth Century
 
@@ -66,9 +66,9 @@ In the late 1930s, the first of the many species of sacred Mexican
 mushrooms were collected and associated with a modern mushroom
 ceremony. Subsequent field research resulted in the discovery of some
 two dozen species. The most important belong to the genus Psilocybe,
-twelve of which have been reported, not including Stropharia cubensis,
+twelve of which have been reported, not including [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]],
 sometimes considered a Psilocybe. The most important species appear to
-be Psilocybe mexicana, P. cubensis, and P. caerulescens.
+be [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]], P. cubensis, and P. caerulescens.
 
 These mushrooms are employed in divinatory and religious rites among
 the Mazatec, Chinantec, Chatino, Mixe, Zapotec, and Mixtec of Oaxaca,
@@ -102,7 +102,7 @@ pre-Columbian Mesoamerica, some dating to 1000-300 BCE, testify to the
 antiquity of the mushroom cult. The Aztec statue of Xochipilli, the
 ecstatic Prince of Flowers, unearthed near the volcano Popocatepetl,
 bears stylized glyphs depicting various hallucinogenic plants including
-mushroom caps and morning glory tendrils.
+mushroom caps and [[golden-guide-morning-glory-and-ololiuqui]] tendrils.
 
 ## See Also
 

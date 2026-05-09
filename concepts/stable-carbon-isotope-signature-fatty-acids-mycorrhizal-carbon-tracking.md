@@ -1,5 +1,5 @@
 ---
-title: Stable Carbon Isotope Labelling in Signature Fatty Acids for Mycorrhizal Carbon Tracking
+title: Stable Carbon carbon-isotope-labelling-mycorrhizal-fatty-acids in Signature Fatty Acids for Mycorrhizal Carbon Tracking
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-A technique based on stable carbon (C) isotope labelling and compound-specific isotope ratio mass spectrometry can estimate carbon flow between different soil organism groups. The neutral lipid fatty acid 16:1 omega 5 is particularly useful for detecting and estimating carbon flow to arbuscular mycorrhizal (AM) fungi in roots and soil, while other fatty acids track carbon transfer to saprophytic microorganisms.
+A technique based on stable carbon (C) isotope labelling and compound-specific isotope ratio mass spectrometry can estimate carbon flow between different soil organism groups. The neutral lipid fatty acid 16:1 omega 5 is particularly useful for detecting and estimating carbon flow to [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] (AM) fungi in roots and soil, while other fatty acids track [[singh-mycorrhizal-network-carbon-transfer-plants]] to saprophytic microorganisms.
 
 ## Conceptual Model
 
@@ -38,7 +38,7 @@ Carbon flow in the rhizosphere can be described using pools and fluxes:
 
 ### PLFAs vs. NLFAs
 - The phosphate group of phospholipids is rapidly released by enzymatic action in soil
-- PLFAs reflect occurrence of mainly living organisms
+- PLFAs reflect occurrence of mainly [[savory-living-organisms-as-tools]]
 - Neutral lipids (storage) also degrade rapidly when fungal hyphae senesce
 - The dynamics of 13C-labelled signature fatty acids can track carbon flux from plants to both intra- and extraradical AM fungal tissues
 
@@ -68,7 +68,7 @@ Carbon flow in the rhizosphere can be described using pools and fluxes:
 
 1. **Quantifying C allocation to AM fungi**: How much plant-fixed C goes to fungal partners
 2. **Comparing C flow between organism groups**: AM fungi vs. saprophytic fungi vs. bacteria
-3. **Assessing C storage in mycorrhizal networks**: Spores and vesicles as long-term C sinks
+3. **Assessing C storage in [[dighton-mycorrhizal-networks-carbon-transfer]]**: Spores and vesicles as long-term C sinks
 4. **Evaluating C transfer between plants through common mycorrhizal networks**
 5. **Studying temporal dynamics of C allocation**: Seasonal or developmental patterns
 
@@ -82,7 +82,7 @@ Carbon flow in the rhizosphere can be described using pools and fluxes:
 
 ## Related Topics
 
-- [[mycorrhizal-nutrient-transport]] - Nutrient exchange at arbuscular interface
+- [[mycorrhizal-nutrient-transport]] - [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] at arbuscular interface
 - [[symbiotic-fungi-carbon-isotope-mycorrhizal-allocation-tracking]]
 
 - [[mycorrhizal-carbon-sequestration]]

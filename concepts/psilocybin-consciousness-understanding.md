@@ -3,7 +3,7 @@ title: Psilocybin and the Understanding of Consciousness
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - The Psilocybin Solution by Simon G. Powell
+  - The powell-psilocybin-solution-ecological-cognition-theory by Simon G. Powell
 type: concept
 tags: [psilocybin]
 ---
@@ -24,7 +24,7 @@ This imaginary situation is not unlike the real world, only this time it is our 
 
 The reason why consciousness is mutable is because it is mediated by chemistry. Mutable or transformable chemical processes underlie consciousness. Our normal ways of thinking are arguably constrained due to the chemical hardware (or "wetware") of the brain. It is therefore conceivable that certain aspects of the world with which we interface remain hidden to us because of the limitations of our everyday type of consciousness.
 
-Taken together, "chemistry and consciousness" directly address the boundary between the physical and the psychological. Chemistry implies chemicals and substances -- clearly "material" things -- whereas altered states of awareness lie in the realm of the intangible mind. Psilocybin bridges perfectly the conceptual gap between the two seemingly incompatible worlds of mind and matter, psychological and physical.
+Taken together, "chemistry and consciousness" directly address the boundary between the physical and the psychological. Chemistry implies chemicals and substances -- clearly "material" things -- whereas [[weil-the-natural-mind-altered-states-normalcy]] of awareness lie in the realm of the intangible mind. Psilocybin bridges perfectly the conceptual gap between the two seemingly incompatible worlds of mind and matter, psychological and physical.
 
 ## The Informational Nature of Mindstuff
 
@@ -70,13 +70,13 @@ Psilocybin, by demonstrating the mutability of consciousness and its dependence 
 
 ## The Philosophical Significance of Consciousness Mutability
 
-Since the philosophical musings of Descartes, philosophers have had a veritable free-for-all in their attempts to either defend or do away with the mind/body problem. Yet, not one professional mind/body philosopher has become seriously involved with entheogenic experimentation in order to further their knowledge and insight into the dynamic interplay between chemistry and altered states of awareness. Most books purportedly dealing with the issue of consciousness patently ignore psychoactive substances altogether, as if they had nothing whatsoever to tell us.
+Since the philosophical musings of Descartes, philosophers have had a veritable free-for-all in their attempts to either defend or do away with the mind/[[mind-body-problem-vs-information-paradigm-of-consciousness]]. Yet, not one professional mind/body philosopher has become seriously involved with entheogenic experimentation in order to further their knowledge and insight into the dynamic interplay between chemistry and altered states of awareness. Most books purportedly dealing with the issue of consciousness patently ignore psychoactive substances altogether, as if they had nothing whatsoever to tell us.
 
 This omission is remarkable, because psilocybin addresses the mind/body problem directly. Chemistry implies chemicals and substances -- clearly "material" things -- whereas altered states of awareness lie in the realm of the intangible mind. Psilocybin bridges perfectly the conceptual gap between these two seemingly incompatible worlds. The more we can understand the psilocybin modus operandi, the closer we get to divining the actual design of the bridge linking mind to matter.
 
 ## Altered States and the Nature of Consciousness
 
-Altered forms of awareness demand altered brain processes, and such a change in brain state can be achieved in many different ways whether through psilocybin mushrooms, endogenous DMT, yoga, meditation, fasting, or spontaneous epileptic disturbances. Mystical experience is therefore not to be conveniently disposed of with a label. The fact that such diverse methods can produce similar states of consciousness suggests that these states represent fundamental capacities of the human brain -- latent modes of consciousness that exist as potential configurations of the brain's informational architecture.
+Altered forms of awareness demand altered brain processes, and such a change in brain state can be achieved in many different ways whether through [[psilocybin-mushrooms]], [[mckenna-endogenous-dmt-brain-familiarity]], yoga, meditation, fasting, or spontaneous epileptic disturbances. [[mystical-experience]] is therefore not to be conveniently disposed of with a label. The fact that such diverse methods can produce similar states of consciousness suggests that these states represent fundamental capacities of the human brain -- latent modes of consciousness that exist as potential configurations of the brain's informational architecture.
 
 Psilocybin reveals these latent configurations by chemically perturbing the system into new regions of its state space. The altered state is not a pathological aberration but a genuine mode of consciousness -- one that the brain is capable of sustaining and which may carry valid information about the nature of reality.
 

@@ -1,5 +1,5 @@
 ---
-title: Rice Blast Disease and Magnaporthe grisea
+title: bloomfield-rice-blast-appressorium-mechanics Disease and Magnaporthe grisea
 created: 2026-04-28
 tags:
   - rice-blast
@@ -21,7 +21,7 @@ capable of infecting over 50 species of grass. The most economically
 important host is rice, the staple diet of nearly half the global
 human population. Rice blast disease destroys 11-30% of the rice
 harvest annually, and has been classified as a significant biological
-weapon threat by the American Centre for Disease Control.
+weapon threat by the American Centre for [[hamilton-pest-and-disease-control-organic]].
 
 ## Disease manifestations
 
@@ -42,7 +42,7 @@ attachment. Within one hour a germ tube 15-30 micrometres develops.
 Within four hours the tube hooks, changes direction, and begins
 differentiating into an appressorium. An inner melanin layer and outer
 chitin layer are deposited in the appressorium wall, generating up to
-8 MPa of turgor pressure. A penetration peg emerges from a small
+8 MPa of [[bloomfield-turgor-pressure-and-hyphal-invasion]]. A penetration peg emerges from a small
 melanin-free region and pierces the plant epidermis.
 
 ## Genomic context
@@ -83,7 +83,7 @@ representing 2.2% of all ESTs.
 ## SAGE analysis and dual-organism monitoring
 
 Serial analysis of gene expression (SAGE) enables simultaneous monitoring
-of gene expression in both plant host and fungal pathogen. SAGE libraries
+of gene expression in both plant host and [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]. SAGE libraries
 were generated from 24-hour and 96-hour post-infection time points.
 This technique overcomes limitations of EST analysis by determining
 abundance of every transcript in a cell population and does not require
@@ -102,7 +102,7 @@ damaged during initial infection, consistent with hemibiotrophy.
 ## Population genetics and reproduction
 
 Asexual reproduction predominates in the field. Population studies in
-Europe, the United States, Cambodia, and the Philippines show typically
+Europe, the [[dmt-containing-plants-united-states-halpern]], Cambodia, and the Philippines show typically
 clonal populations with low genotypic diversity. However, studies near
 the Himalayas reveal higher diversity suggesting sexual reproduction
 occurs in the centre of diversity. Sexual reproduction requires
@@ -112,7 +112,7 @@ ascospores that can initiate infection cycles.
 ## Virulence genes and MAP kinase signalling
 
 The PMK1 gene encoding a MAP kinase is essential for appressorium
-formation and invasive growth. MPG1 encodes a hydrophobin important for
+formation and [[fungal-hyphae-invasive-growth-mechanisms]]. MPG1 encodes a hydrophobin important for
 surface recognition. MAS1/GAS2 and MAS3/GAS1 are abundant in
 appressorium libraries but absent from pmk1 mutant libraries, indicating
 PMK1-dependent expression. M. grisea accumulates arabitol rather than

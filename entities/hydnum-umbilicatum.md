@@ -11,10 +11,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Harrison, K.A. (1973). "The genus Hydnum in North America." Michigan Botanist 12: 129-138.
+  - Harrison, K.A. (1973). "The genus Hydnum in psilocybin-north-america-pacific-northwest." Michigan Botanist 12: 129-138.
   - Dentinger, B.T.M. & Binder, M. (2010). "Evolutionary relationships of the chanterelles and allies." Mycologia 102(5): 981-994.
   - Wilson, A.W. et al. (2017). "Systematics of the genus Hydnum." Persoonia 38: 106-121.
-  - Trudell, S.A. & Ammirati, J.F. (2009). "Hyperdiverse fungal communities in the Tongass National Forest." Mycologia 101(5): 613-624.
+  - Trudell, S.A. & Ammirati, J.F. (2009). "Hyperdiverse [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] in the Tongass National Forest." Mycologia 101(5): 613-624.
 created: 2026-05-07
 ---
 
@@ -50,7 +50,7 @@ Basidiospores are 7.0–8.5 × 6.0–7.5 µm, broadly ellipsoid, smooth, hyaline
 
 ## Distribution and Habitat
 
-*Hydnum umbilicatum* is widely distributed across temperate and boreal forests of North America, Europe, and Asia.
+*Hydnum umbilicatum* is widely distributed across temperate and [[fungal-diversity-boreal-forests-taiga]] of North America, Europe, and Asia.
 
 In North America it ranges from Newfoundland to the Pacific Northwest, extending southward in montane forests.
 
@@ -62,7 +62,7 @@ Fruiting occurs from late summer to late autumn (August–November), often persi
 
 Preferring moist, acidic forest soils with thick organic duff layers, it commonly fruits in mossy areas.
 
-Multiple fruiting events can occur in the same location across successive years, suggesting persistent mycelial networks.
+Multiple fruiting events can occur in the same location across successive years, suggesting persistent [[fungal-mycelial-networks-nutrient-translocation]].
 
 ## Edibility and Culinary Use
 
@@ -74,7 +74,7 @@ Flavor is mild and slightly sweet with earthy undertones; the teeth give a pleas
 
 It dries well for long-term storage, reconstituting with good texture retention.
 
-No toxic lookalikes exist within the genus *Hydnum*, making it one of the safest edible mushrooms for beginning foragers.
+No toxic lookalikes exist within the genus *Hydnum*, making it one of the safest [[palmer-edible-mushrooms-north-america]] for beginning foragers.
 
 Nutritional analysis shows high protein content (18–25% dry weight), significant potassium, and moderate levels of selenium.
 
@@ -84,7 +84,7 @@ As an ectomycorrhizal species, *H. umbilicatum* provides mineral nutrients and w
 
 The extensive extramatrical mycelium contributes to soil aggregation and organic matter decomposition.
 
-It plays a role in forest nutrient cycling, particularly phosphorus mobilization from organic matter.
+It plays a role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], particularly phosphorus mobilization from organic matter.
 
 The species supports small mammal populations; flying squirrels and chipmunks are known to consume and disperse fruiting bodies.
 

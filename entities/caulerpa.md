@@ -61,7 +61,7 @@ spheres in *C. racemosa*), or **feather-like pinnules** (in *C. sertularioides*)
 **Reproduction** is primarily vegetative through fragmentation — any piece of
 stolon or frond containing viable cytoplasm can regenerate a complete thallus.
 This extraordinary regenerative capacity is central to the genus's invasive
-success. Sexual reproduction involves anisogamous gametes released en masse in
+success. [[fungal-life-cycles-sexual-reproduction-metamorphosis]] involves anisogamous gametes released en masse in
 a holocarpic event that exhausts the entire thallus.
 
 ## Distribution and Habitat
@@ -100,12 +100,12 @@ strategy.
 
 ## Chemistry and Bioactive Compounds
 
-**Caulerpenyne** (CYN) is the dominant secondary metabolite, comprising up to
+**Caulerpenyne** (CYN) is the dominant [[fungal-elicitors-enhanced-secondary-metabolite-production]], comprising up to
 1.3% of dry weight. This acyclic sesquiterpenoid is stored in specialized
 vacuoles (caulerpenyne-containing vesicles) and converted to reactive
 dialdehydes upon tissue damage, creating a chemical defense against herbivores.
 
-Caulerpenyne exhibits cytotoxic activity against multiple cancer cell lines at
+Caulerpenyne exhibits cytotoxic activity against multiple [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines at
 micromolar concentrations. It inhibits microtubule assembly, disrupts
 mitochondrial function, and induces apoptosis. These properties have generated
 significant pharmaceutical interest.
@@ -123,7 +123,7 @@ lentillifera* safe for regular consumption in many Pacific Island cultures.
 ## Applications and Culinary Use
 
 **Sea grapes** (*C. lentillifera* and *C. racemosa*) are commercially cultivated
-and consumed across Southeast Asia, Japan, the Philippines, and Pacific Islands.
+and consumed across [[psilocybe-southeast-asia-pacific]], Japan, the Philippines, and Pacific Islands.
 The vesicular fronds have a crisp, popping texture and mild briny flavor,
 often served raw as a salad ingredient or garnish.
 
@@ -135,7 +135,7 @@ Okinawa (Japan), the Philippines, and Vietnam. Growth cycles range from 30 to
 In traditional medicine, Caulerpa preparations have been used to treat
 rheumatism, hypertension, and wounds in various Pacific Island and Southeast
 Asian cultures. These applications are attributed to the anti-inflammatory
-and antimicrobial properties of caulerpenyne and related compounds.
+and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] of caulerpenyne and related compounds.
 
 ## See Also
 

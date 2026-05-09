@@ -16,7 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mollison, B. (1988). "Permaculture: A Designers' Manual." Tagari Publications.
-  - Holzer, S. (2010). "Sepp Holzer's Permaculture." Chelsea Green Publishing.
+  - Holzer, S. (2010). "[[comparison-sepp-holzer-vs-biodynamic]]'s Permaculture." Chelsea Green Publishing.
   - Harvey, M. (2011). "The Small-Scale Poultry Flock." Chelsea Green Publishing.
   - Hemenway, T. (2009). "Gaia's Garden." Chelsea Green Publishing, 2nd edition.
 aliases:
@@ -31,10 +31,10 @@ created: 2026-05-07
 
 A duck tractor is a mobile, floorless enclosure used to house ducks on
 pasture or garden beds in a rotational pattern. Adapted from the chicken
-tractor concept popularized by Bill Mollison in permaculture design, duck
+tractor concept popularized by Bill Mollison in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], duck
 tractors allow ducks to forage on fresh vegetation and insects while
-depositing manure directly onto the soil, providing fertility, pest control,
-and weed management in a managed, movable system.
+depositing manure directly onto the soil, providing fertility, [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]],
+and [[fukuoka-weed-management-and-green-manure]] in a managed, movable system.
 
 Ducks are particularly well-suited to tractor systems because of their
 foraging behavior, aquatic preferences, and lower tendency to scratch and
@@ -114,12 +114,12 @@ Effective duck tractor management follows rotational principles:
   tall) to prevent damage to young plants
 - **Seasonal adjustment:** reduce tractor time during extreme heat; ducks
   overheat more readily than chickens
-- **Supplemental feeding:** provide grain or layer feed as a supplement,
+- **[[savory-supplemental-feeding-and-winter-management]]:** provide grain or layer feed as a supplement,
   typically 50–70% of diet from forage, 30–50% from supplemental feed
 
 ## Limitations
 
-Duck tractors require more water management than chicken tractors. Ducks
+Duck tractors require more water management than [[mollison-designers-chicken-tractors-egg-production]]. Ducks
 need regular access to water for drinking and head-dipping, which creates
 wet areas that can become muddy or foul-smelling if not managed.
 
@@ -137,5 +137,5 @@ Selective placement and timing of tractor rotations are essential.
 - [[silvopasture]]
 - [[vermicomposting]]
 - [[hugelkultur]]
-- [[comfrey]]
+- comfrey
 - [[dynamic-accumulators]]

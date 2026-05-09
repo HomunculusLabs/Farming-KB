@@ -11,7 +11,7 @@ type: concept
 
 # Cannabis and Cancer-Induced Night Sweats
 
-The Cannabis Health Index (CHI) provides an evidence-based rating system
+The [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) provides an evidence-based rating system
 for evaluating the therapeutic potential of cannabis across various
 conditions. For cancer-induced night sweats, the CHI scores 1 study with
 a combined CHI value of 3, indicating preliminary but promising evidence.
@@ -91,3 +91,7 @@ Night sweats in the context of [[blesching-cannabis-palliative-care]]
 - [[blesching-cannabis-sleep-disorders]]
 - [[blesching-cannabis-anorexia-cachexia]]
 - [[blesching-cannabis-ptsd-anxiety]]
+
+## See Also
+
+- [[blesching-cannabis-improved-night-vision]]

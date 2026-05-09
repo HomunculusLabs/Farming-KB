@@ -1,5 +1,5 @@
 ---
-title: Delysid Product Development and Psychotherapeutic Use
+title: hofmann delysid product psychotherapy Development and Psychotherapeutic Use
 created: 2026-04-28
 tags:
   - delysid
@@ -52,7 +52,7 @@ was found, with treatments best given at weekly intervals.
 Second, experimental studies on the nature of psychoses. By taking
 Delysid himself, the psychiatrist could gain insight into the world of
 ideas and sensations of mental patients. Delysid could also induce model
-psychoses of short duration in normal subjects. In normal subjects, 25
+psychoses of [[savory-short-duration-grazing-and-cell-systems]] in normal subjects. In normal subjects, 25
 to 75 micrograms were generally sufficient, while certain forms of
 psychosis and chronic alcoholism required higher doses (2 to 4
 micrograms per kg body weight).
@@ -82,7 +82,7 @@ therapy by drawing and painting.
 
 ## Psychedelic Therapy
 
-The second approach, favored in the United States, was psychedelic
+The second approach, favored in the [[dmt-containing-plants-united-states-halpern]], was psychedelic
 therapy. A single very high LSD dose (0.3 to 0.6 mg) was administered
 after intensive psychological preparation of the patients. This method
 attempted to induce a mystical-religious experience through the shock
@@ -130,7 +130,7 @@ Eisner, H. A. Abramson, H. Osmond, and A. Hoffer in the United States;
 R. A. Sandison in England; W. Frederking and H. Leuner in Germany; and
 G. Roubicek and S. Grof in Czechoslovakia. The most recent comprehensive
 publication was [[hofmann-lsd-sandoz-research-program]] for broader psychiatric research context
-- [[hofmann-lsd-sandoz-research-program]] for the Sandoz research environment
+- [[hofmann-lsd-sandoz-research-program]] for the [[hofmann-lsd-sandoz-research-program]] environment
 - [[hofmann-sandoz-crisis-lsd-withdrawal]] for the eventual cessation of
   Delysid distribution
 

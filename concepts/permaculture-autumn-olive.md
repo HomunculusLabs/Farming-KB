@@ -3,13 +3,10 @@ title: Autumn Olive
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[permaculture, design]
+tags: [permaculture, design]
 sources: []
 ---
-
-Updated: 2026-04-18
-
-Autumn Olive (Elaeagnus umbellata) is a hardy nitrogen-fixing small tree producing small, nutritious fruit. Despite its versatility, it is considered invasive in parts of North America. It fits well within [[permaculture-tree-crop-systems]] as a nitrogen-fixing support tree.
+Updated: 2026-04-18 Autumn Olive (Elaeagnus umbellata) is a hardy nitrogen-fixing small tree producing small, nutritious fruit. Despite its versatility, it is considered invasive in parts of [[psilocybin-north-america-pacific-northwest]]. It fits well within [[permaculture-tree-crop-systems]] as a nitrogen-fixing support tree.
 
 ## Botanical Description
 
@@ -17,7 +14,7 @@ Autumn Olive is a deciduous shrub or small tree typically growing 10-20 feet (3-
 
 ## Uses
 
-- Bare soil erosion control
+- Bare soil [[permplant-willows-salix-erosion-control-fodder]]
 
 - Edible fruit (fresh, dried, or jam)
 
@@ -25,17 +22,17 @@ Autumn Olive is a deciduous shrub or small tree typically growing 10-20 feet (3-
 
 - Windbreak
 
-- Leguminous nitrogen fixation — improves soil
+- Leguminous [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] — improves soil
 
 - Wildlife habitat and food source
 
-- [[nitrogen-fixing-trees-and-shrubs]], Autumn Olive serves as a support tree in fruit tree guilds. It provides dappled shade for understory plants, fixes nitrogen for neighboring trees, and attracts pollinators. In a [[permaculture-food-forest-design-principles]]
+- [[nitrogen-fixing-trees-and-shrubs]], Autumn Olive serves as a support tree in [[comparison-berry-growing-vs-fruit-tree-pruning]] guilds. It provides dappled shade for understory plants, fixes nitrogen for neighboring trees, and attracts pollinators. In a [[permaculture-food-forest-design-principles]]
 
-In food forest design, Autumn Olive serves as a nurse tree and nitrogen fixer in the canopy or understory layers. Its ability to thrive on degraded soils makes it valuable for site rehabilitation. In swale plantings alongside [[permaculture-nitrogen-fixing-trees-guide]]
+In food [[comparison-food-forest-design-vs-backyard-orchard-design]], Autumn Olive serves as a nurse tree and nitrogen fixer in the canopy or understory layers. Its ability to thrive on degraded soils makes it valuable for site rehabilitation. In swale plantings alongside [[permaculture-nitrogen-fixing-trees-guide]]
 
 - [[permaculture-pioneer-species]]
 
-- [[permaculture-ground-cover-plants]]
+- permaculture-ground-cover-plants
 ## Practical Applications
 
 Autumn Olive has a range of practical applications that make it relevant to
@@ -113,4 +110,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

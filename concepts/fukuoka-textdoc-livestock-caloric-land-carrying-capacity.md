@@ -18,7 +18,7 @@ themselves on milk and eggs.
 The caloric math is devastating. Someone eating eggs and milk rather than grains and
 vegetables must work at least twice as hard. If they prefer meat, they must put out seven
 times the effort. Fukuoka argues that because it is so energy-inefficient, modern
-livestock farming cannot be considered "production" in any basic sense. True efficiency
+[[fukuoka-textdoc-natural-livestock-farming-open-grazing]] cannot be considered "production" in any basic sense. True efficiency
 has become so low that man has been driven to extremes of toil, even attempting to
 increase efficiency by raising large, genetically improved breeds — a strategy Fukuoka
 considers deeply misguided.
@@ -30,7 +30,7 @@ energy as people on a diet of rice.
 
 ## The Japanese Bantam vs White Leghorn Comparison
 
-Fukuoka uses a powerful contrast between two chicken breeds to illustrate his point. The
+Fukuoka uses a powerful contrast between two [[query-what-are-the-best-chicken-breeds-for-a-backyard-flock]] to illustrate his point. The
 Japanese Bantam is a native breed that, left to roam freely, lays just one small egg every
 other day — low productivity by conventional standards. However, a breeding pair of Bantams
 will hatch clutches of chicks and within a year grow to a flock of ten or twenty birds,
@@ -63,7 +63,7 @@ global population, Fukuoka calculates Earth's carrying capacity under each diet:
 - **Potato diet:** Twenty times the current population
 - **Grain diet:** Sixty times the current world population
 
-He points to the United States and Europe as clear evidence that beef impoverishes the
+He points to the [[dmt-containing-plants-united-states-halpern]] and Europe as clear evidence that beef impoverishes the
 soil and denudes the earth. The Japanese livestock industry, which raises cattle in indoor
 stalls with feed grain shipped from America, has helped deplete American soil — practices
 Fukuoka calls "essentially a campaign to destroy vegetation on a global scale."
@@ -92,7 +92,7 @@ comfortable for small animals is also an ideal setting for man."
 Fukuoka extends his critique to mechanized farming. A two-acre farmer who buys a 30-
 horsepower tractor will not magically become a 50-acre farmer. Mechanization only lowers
 the number of laborers required, and surplus income cannot come from the land — yields
-decrease while energy requirements skyrocket. Machinery, chemical fertilizers, and
+decrease while energy requirements skyrocket. Machinery, [[cervantes-chemical-fertilizers-guide]], and
 pesticides create a vicious cycle: they rob nature of its powers, leaving man no choice
 but to tend vast fields by hand, which in turn makes large machinery, high-grade
 fertilizers, and powerful poisons "indispensable."
@@ -100,5 +100,5 @@ fertilizers, and powerful poisons "indispensable."
 ## Key Takeaways
 
 1. Beef requires 10x the land of grain and represents the most energy-wasteful food
-2. Energy efficiency ratios decline sharply: 50% broiler, 20% pork, 15% milk, 8% beef
+2. [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] ratios decline sharply: 50% broiler, 20% pork, 15% milk, 8% beef
 3. Free-ranging native breeds outperform confined improved breeds in true [[fukuoka-livestock-energy-inefficiency-caloric-cost]]

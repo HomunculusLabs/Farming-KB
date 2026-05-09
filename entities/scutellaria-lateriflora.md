@@ -36,7 +36,7 @@ sources:
 
 ## Description
 
-Scutellaria lateriflora is a perennial herbaceous plant in the mint family (Lamiaceae) native to North America. It grows 30–90 cm tall with a branching, square stem characteristic of the Lamiaceae. The leaves are opposite, ovate to lanceolate, 2–8 cm long, serrate, and lightly pubescent with a green upper surface and lighter underside.
+Scutellaria lateriflora is a perennial herbaceous plant in the mint family (Lamiaceae) native to [[psilocybin-north-america-pacific-northwest]]. It grows 30–90 cm tall with a branching, square stem characteristic of the Lamiaceae. The leaves are opposite, ovate to lanceolate, 2–8 cm long, serrate, and lightly pubescent with a green upper surface and lighter underside.
 
 The flowers are the most distinctive feature — small, two-lipped, blue to lavender-blue (occasionally white or pink), approximately 1–1.5 cm long, borne in pairs along one side of the raceme axis (hence the specific epithet *lateriflora*, meaning "side-flowering"). The calyx has a prominent ridge or "scutella" (small shield) on the upper side, giving the genus its name. Flowering occurs from June through September. The root system is fibrous with creeping rhizomes, allowing the plant to form loose colonies in favorable conditions.
 
@@ -46,7 +46,7 @@ S. lateriflora is native to eastern and central North America, ranging from Newf
 
 ## Ethnobotanical History
 
-American skullcap has one of the most extensive histories of use among North American medicinal plants:
+American skullcap has one of the most extensive histories of use among [[growing-gourmet-north-american-reishi-species]] medicinal plants:
 
 ### Native American Use
 
@@ -61,7 +61,7 @@ American skullcap was a central nervine remedy in 19th-century American botanica
 Eclectic physicians used skullcap for:
 
 - Nervous exhaustion and "nervous prostration"
-- Epilepsy and seizure disorders (as an adjunct)
+- [[cannabis-for-epilepsy-and-seizure-disorders]] disorders (as an adjunct)
 - Hysteria, chorea, and convulsions
 - Neuralgia and headaches of nervous origin
 - Insomnia and sleep disturbances
@@ -76,4 +76,4 @@ Contemporary Western herbalism continues to use S. lateriflora as a primary nerv
 
 ## See Also
 
-- [[herbal-medicine-making]]
+- [[herbal-medicine-making-basics]]

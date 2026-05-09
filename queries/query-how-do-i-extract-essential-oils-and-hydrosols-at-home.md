@@ -1,5 +1,5 @@
 ---
-title: "How Do I Extract Essential Oils and Hydrosols at Home?"
+title: "How Do I query how do i extract [[essential-oils-and-hydrosol-distillation]] hydrosols at home Oils and Hydrosols at Home?"
 tags: [query, essential-oils, hydrosols, distillation, aromatic-plants, herbalism]
 date: 2026-04-28
 updated: 2026-04-28
@@ -13,7 +13,7 @@ created: 2026-04-28
 ## Short Answer
 
 You can extract essential oils and hydrosols at home using
-steam distillation, the most practical and versatile method for
+[[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]], the most practical and versatile method for
 small-scale production.
 
 A simple copper or stainless steel still (2-10 liters) costs

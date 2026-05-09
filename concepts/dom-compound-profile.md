@@ -44,13 +44,13 @@ The narrow effective dose range (3-10 mg) and extremely long duration make DOM o
 
 ## Synthesis (from PIHKAL)
 
-Synthesized from 2,5-dimethoxy-4-methylbenzaldehyde via condensation with nitroethane to form the nitrostyrene intermediate, followed by lithium aluminum hydride (LAH) reduction to the amine, then conversion to the hydrochloride salt. The aldehyde precursor is obtained from 2,5-dimethoxybenzaldehyde via Vilsmeier-Haack formylation. See [[phenethylamine-receptor-pharmacology]] for receptor binding data.
+Synthesized from 2,5-dimethoxy-4-methylbenzaldehyde via condensation with nitroethane to form the nitrostyrene intermediate, followed by lithium aluminum hydride (LAH) reduction to the amine, then conversion to the hydrochloride salt. The aldehyde precursor is obtained from 2,5-dimethoxybenzaldehyde via Vilsmeier-Haack formylation. See [[phenethylamine-receptor-pharmacology]] for [[tihkal-receptor-binding-serotonin]] data.
 
 DOM is closely related to [[doi-compound-profile]], [[dob-compound-profile]], all sharing the 2,5-dimethoxy-4-substituted amphetamine scaffold. See [[mescaline-compound-profile]] than amphetamine. No nausea." — A light, pleasant experience with mescaline-like warmth.
 
 **At 3 mg:** "Able to separate components of complex things to evaluate separately. Sharpness of observation enhanced. Colors not just brighter; there are more of them. Profoundness of meaning in anything that moves." — Enhanced analytical ability with subtle perceptual changes.
 
-**At 4 mg:** "At fourth hour it went totally outside of me. THE CLOUDS!!! No visual experience has ever been like this. The meaning of color has just changed completely. Of all past joys, LSD, mescaline, cannabis, peyote, this ranks number one." — A breakthrough psychedelic experience, ranked above all other substances by the reporter.
+**At 4 mg:** "At fourth hour it went totally outside of me. THE CLOUDS!!! No visual experience has ever been like this. The meaning of color has just changed completely. Of all past joys, LSD, mescaline, cannabis, peyote, this ranks number one." — A breakthrough [[leary-psychedelic-experience-bardo-mapping]], ranked above all other substances by the reporter.
 
 **At 5 mg:** "Magnification of light, color and odors. Alternated about 50-50 between joy and discomfort. At times the negativity disappeared completely and broke into most enjoyable, hilarious experiences. Seemed clear I had made all the wrong decisions. Looked across the brink to insanity." — A bipolar experience illustrating the fine line between euphoria and dysphoria at higher doses.
 
@@ -65,7 +65,7 @@ DOM is closely related to [[doi-compound-profile]], [[dob-compound-profile]], al
 As with other DOx compounds, DOM shows pronounced stereoselectivity:
 
 - **R-isomer:** Active at doses as low as 0.5 mg, confirming that the R-enantiomer carries the majority of the psychedelic activity
-- **S-isomer:** No psychological effects at 2.0-2.6 mg; produced only physical side effects including tachycardia, blood pressure increase, and "teeth-rubbiness"
+- **S-isomer:** No [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] at 2.0-2.6 mg; produced only physical side effects including tachycardia, blood pressure increase, and "teeth-rubbiness"
 
 The S-isomer's contribution to the racemate appears to be primarily negative — adding physical side effects without corresponding psychedelic benefit. Shulgin speculated that the S-isomer "may contribute to physical side effects of racemate." This stereoselectivity is consistent with the pattern observed across [[doi-compound-profile]], and [[phenethylamine-receptor-pharmacology]] for discussion of stereochemical requirements at 5-HT2A.
 
@@ -73,7 +73,7 @@ The S-isomer's contribution to the racemate appears to be primarily negative —
 
 DOM's history as "STP" is one of the most consequential episodes in psychedelic drug culture:
 
-In mid-1967, DOM was distributed widely in the Haight-Ashbury district of San Francisco. The street name "STP" was variously interpreted as:
+In mid-1967, DOM was distributed widely in the Haight-Ashbury district of [[shipibo-san-francisco-ceremonial-center-ucayali]]. The street name "STP" was variously interpreted as:
 - **Serenity, Tranquility, and Peace**
 - **Super Terrific Psychedelic**
 - **Stop The Police**
@@ -84,7 +84,7 @@ The overdose crisis was aggravated by a critical pharmacological mismatch: DOM h
 
 ## Harm Reduction
 
-- Start with low doses (2-3 mg) due to the narrow therapeutic window
+- Start with low doses (2-3 mg) due to the narrow [[blesching-cannabis-therapeutic-window-dosing]]
 - Plan for a full day commitment — 14-20 hours is typical
 - Have a trip sitter, especially for first experiences
 - Do not combine with other serotonergic substances (risk of serotonin syndrome)
@@ -96,7 +96,7 @@ The overdose crisis was aggravated by a critical pharmacological mismatch: DOM h
 - The S-isomer in racemic DOM contributes physical side effects without psychedelic benefit
 - If encountering DOM in tablet form, be aware that underground dosing is notoriously unreliable — start with a fraction of a tablet
 - Stay hydrated but avoid excessive water intake (SIADH risk with serotonergic drugs)
-- The emotional character of DOM can swing between euphoria and dysphoria — set and setting are especially important
+- The emotional character of DOM can swing between euphoria and dysphoria — [[lsd-set-and-setting-framework]] are especially important
 - See [[shroom-scientific-study]] for the entity-level page with additional context
 
 ## Historical Notes

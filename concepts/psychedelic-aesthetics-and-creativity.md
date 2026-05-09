@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
-Psychedelic aesthetics and creativity explores the relationship between psychedelic experience and the production of art, music, literature, and other creative works.
+Psychedelic aesthetics and creativity explores the relationship between [[leary-psychedelic-experience-bardo-mapping]] and the production of art, music, literature, and other creative works.
 
 The psychedelic state has been a profound influence on visual art, music, design, fashion, and popular culture since the mid-twentieth century.
 
@@ -19,7 +19,7 @@ The disruption of ordinary perceptual processing leads to novel visual patterns,
 
 The temporary dissolution of habitual thought patterns opens access to unusual conceptual associations and novel problem-solving approaches.
 
-Terence McKenna articulated the deep connection between psychedelics and creativity through his concept of language as magic.
+Terence McKenna articulated the deep connection between psychedelics and creativity through his concept of [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens]].
 
 He argued that the world is made of language in some fashion, and that the shaman is the remote ancestor of the poet and artist.
 
@@ -27,7 +27,7 @@ Our need to feel part of the world seems to demand that we express ourselves thr
 
 The ultimate wellsprings of this creativity are hidden in the mystery of language.
 
-The movement that Gordon Wasson's discovery of Mexican mushroom cults eventually helped blossom into the psychedelic sixties produced a colourful burst of artistic expression that transformed Western visual culture.
+The movement that Gordon Wasson's discovery of [[gartz-wasson-mexican-mushroom-cult-rediscovery]] cults eventually helped blossom into the psychedelic sixties produced a colourful burst of artistic expression that transformed Western visual culture.
 
 This was not merely a stylistic fad but reflected a genuine shift in perception and consciousness that found expression through multiple artistic media.
 
@@ -84,6 +84,6 @@ See Also: [[psilocybin-and-mystical-experience]]
 See Also: [[psychedelic-consciousness-models]]
 
 ## Merged: LSD from Remedy to Inebriant — The Social History
-For the first decade after its discovery, [LSD was regarded within the pharmaceutical industry as a promising investigational tool with potential medicinal value in psychiatry and neuroscience. The transformation of LSD from a carefully controlled research chemical to a widely consumed recreational drug represents one of the most dramatic shifts in the history of any pharmaceutical compound. A particular type of psychedelic art developed from these early experiments, documented most thoroughly in Robert E. Religious scholars and philosophers debated whether the [mystico-religious experiences discovered in LSD sessions were genuine and comparable to spontaneous mystical enlightenment. These were the same conditions that produced the [hippie movement, which developed simultaneously with the LSD wave and could not be dissociated from it. Related: [psychotherapeutic LSD treatment, Timothy Leary, [sacred mushrooms, [set and setting, [psychiatric use
+For the first decade after its discovery, [LSD was regarded within the pharmaceutical industry as a promising investigational tool with potential medicinal value in psychiatry and neuroscience. The transformation of LSD from a carefully controlled research chemical to a widely consumed recreational drug represents one of the most dramatic shifts in the history of any pharmaceutical compound. A particular type of psychedelic art developed from these early experiments, documented most thoroughly in Robert E. Religious scholars and philosophers debated whether the [mystico-religious experiences discovered in LSD sessions were genuine and comparable to spontaneous mystical enlightenment. These were the same conditions that produced the [hippie movement, which developed simultaneously with the LSD wave and could not be dissociated from it. Related: [psychotherapeutic LSD treatment, Timothy Leary, [sacred mushrooms, [[lsd-set-and-setting-framework]], [psychiatric use
 ## Merged: Huxley Doors Of Perception And Mind At Large
-Aldous Huxley's 1954 work "The Doors of Perception" represents a foundational text in the modern Western understanding of psychedelic experience. Simon G. Powell argues that armed with modern data on [serotonin receptors and their infiltration by entheogens, we can now see that Huxley was essentially correct in his pioneering conjectures. - [[psilocybin-neuroscience]] — Neuroscience of psilocybin action - [[information-paradigm-of-consciousness]] — Information theory of consciousness - [[psychedelic-1960s-counterculture]] — Cultural impact of psychedelic ideas - [[psychedelic-mushroom-art-and-iconography]] for the history of psychedelic mushroom imagery and [[psilocybin-and-mystical-experience]] for related research on peak experiences and [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] for the cultural history and [[omega-point-and-psychedelic-eschatology]]
+Aldous Huxley's 1954 work "The Doors of Perception" represents a foundational text in the modern Western understanding of psychedelic experience. Simon G. Powell argues that armed with modern data on [serotonin receptors and their infiltration by entheogens, we can now see that Huxley was essentially correct in his pioneering conjectures. - [[psilocybin-neuroscience]] — Neuroscience of psilocybin action - [[information-paradigm-of-consciousness]] — Information theory of consciousness - [[psychedelic-1960s-counterculture]] — Cultural impact of psychedelic ideas - [[psychedelic-mushroom-art-and-iconography]] for the history of [[archaeology-of-psychedelic-mushroom-use]] imagery and [[psilocybin-and-mystical-experience]] for related research on peak experiences and [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] for the [[shroom-cultural-history-hippie-revolution-and-counterculture]] and [[omega-point-and-psychedelic-eschatology]]

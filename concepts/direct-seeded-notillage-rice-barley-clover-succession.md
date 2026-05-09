@@ -12,10 +12,10 @@ type: concept
 # Direct-Seeded No-Tillage Rice Barley Clover Succession
 
 The direct-seeded, no-tillage, winter grain and rice succession in a clover cover
-is the central practical method of Masanobu Fukuoka's natural farming system.
+is the central practical method of Masanobu Fukuoka's [[comparison-natural-farming-vs-permaculture]] system.
 This technique produces consistent yields of approximately 22 bushels each of
-winter grain and rice per quarter-acre without plowing, chemical fertilizers,
-pesticides, compost preparation, or any form of soil cultivation. The method
+winter grain and rice per quarter-acre without plowing, [[cervantes-chemical-fertilizers-guide]],
+pesticides, [[cultivator-compost-preparation-phase-methods]], or any form of soil cultivation. The method
 relies entirely on natural biological processes and the symbiotic relationships
 between rice, winter grain, and clover.
 
@@ -54,9 +54,9 @@ the need for weeding. The clover cover protects the soil surface from erosion
 and maintains soil moisture. When the field is briefly flooded in late spring,
 the clover is weakened just enough to allow rice seedlings to establish
 themselves, but it recovers and continues growing through the rice season,
-providing ongoing soil protection and nitrogen fixation.
+providing ongoing soil protection and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 
-The clover also supports a diverse ecosystem of beneficial insects. Spiders,
+The clover also supports a diverse ecosystem of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. Spiders,
 frogs, dragonflies, and other predators thrive in the clover-covered field,
 providing natural pest control that eliminates the need for pesticides. Fukuoka
 observed that whenever a large outbreak of leafhoppers occurred, spider
@@ -98,7 +98,7 @@ land from which the organic material is taken.
 In Fukuoka's system, the straw is returned directly to the field where it
 grew, creating a closed nutrient cycle. The straw serves as mulch, protecting
 the soil from direct sun and rain, suppressing weeds, retaining moisture, and
-providing habitat for beneficial organisms. As it decomposes, it releases
+providing [[query-how-do-i-design-habitat-for-beneficial-insects]] organisms. As it decomposes, it releases
 nutrients gradually, feeding the soil ecosystem and the growing crop. This
 simple act of returning straw to the field replaces an entire chain of
 conventional operations: composting, fertilizing, weeding, and soil

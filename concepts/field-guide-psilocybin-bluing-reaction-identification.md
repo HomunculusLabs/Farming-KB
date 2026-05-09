@@ -1,13 +1,12 @@
 ---
-title: "Field Guide to Psilocybin Bluing Reaction and Identification"
+title: "ghouled-field-guide-historical-context to Psilocybin metol-testing-bluing-reaction-mushrooms and Identification"
 created: 2026-04-28
-tags: [[mycology, identification, psilocybin, bluing-reaction, safety]
+tags: [mycology, identification, psilocybin, bluing-reaction, safety]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-field-guide-to-the-psilocybin-mushroom.md]
 type: concept
 ---
-
 # Field Guide to [[psilocybe-cubensis]] typically yields the fastest
   bluing reaction.
 - [[psilocybe-caerulescens]],
@@ -85,7 +84,7 @@ be eaten in the field. Specimens should be compared to descriptions
 and photographs first. Even when confident in identification, only a
 tiny test bite should be consumed initially. Six of the eight
 alkaloids in the chemical structure are toxic, producing a slight
-queasiness even from genuine psilocybin mushrooms.
+queasiness even from genuine [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]].
 
 ## Related
 

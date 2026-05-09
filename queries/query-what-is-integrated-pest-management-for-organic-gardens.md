@@ -1,10 +1,11 @@
 ---
-title: "What Is Integrated Pest Management for Organic Gardens"
+title: "What Is comparison-beneficial-insects-guide-vs-integrated-pest-management Management for Organic Gardens"
 created: 2026-04-28
 tags: [query, pest-management, organic-gardening, ipm, beneficial-insects]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -24,7 +25,7 @@ Integrated Pest Management represents a fundamental shift from reactive pest
 control to proactive ecosystem management. The core philosophy, as detailed in
 [[solomon-insects-diseases-pest-management]] approach emphasizes
 that misidentification leads to unnecessary treatments that kill the very
-allies you need. Yellow sticky traps, pitfall traps, and simple visual
+allies you need. Yellow [[cervantes-sticky-traps-pest-monitoring]], pitfall traps, and simple visual
 inspection with a hand lens are effective monitoring tools. Keep a garden
 journal documenting pest sightings, locations, and population trends.
 
@@ -44,17 +45,17 @@ conditions that favor the natural enemies of pest insects. The
 [[beneficial-insect-habitat]]
 with diverse flowering plants, undisturbed ground areas, water sources, and
 shelter belts ensures these allies remain present and active in the garden
-ecosystem throughout the growing season.
+ecosystem throughout the [[savory-growing-season-and-non-growing-season-management]].
 
 ### Step 4: Cultural and Mechanical Controls
-Companion planting and trap cropping are cultural IPM strategies that
+[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] and [[comparison-trap-cropping-vs-beneficial-insects]] are cultural IPM strategies that
 manipulate insect behavior. Certain plant combinations repel pest insects or
 mask host plant odors, while trap crops like nasturtiums for aphids or blue
 Hubbard squash for squash bugs draw pests away from the main crop. The
 [[beneficial-insects-cannabis]] approach demonstrates that even in
 high-value crops, organic sprays should be applied with precision, targeting
 specific pest hotspots rather than blanket-spraying the entire garden, and
-always applied in the evening when bees are inactive and beneficial insects
+always applied in the evening when bees are inactive and [[coleman-beneficial-insects-and-ecological-pest-control]]
 have returned to shelter.
 
 ### Establishing Action Thresholds

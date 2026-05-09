@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-Capillary action is the movement of water through narrow spaces between soil particles, driven by the combined forces of surface tension and adhesion. In the context of gardening, understanding capillarity is essential for seed germination, drought gardening, irrigation management, and overall soil health. Steve Solomon devotes significant attention to this physical phenomenon because it is the mechanism by which water moves upward through soil from deeper moist layers to the surface, and it is the foundation upon which his low-irrigation and dry gardening methods depend.
+Capillary action is the movement of water through narrow spaces between soil particles, driven by the combined forces of [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] and adhesion. In the context of gardening, understanding capillarity is essential for [[cannabis-seed-germination-methods]], [[drought-gardening]], irrigation management, and overall soil health. [[steve-solomon]] devotes significant attention to this physical phenomenon because it is the mechanism by which water moves upward through soil from deeper moist layers to the surface, and it is the foundation upon which his low-irrigation and [[wide-spacing-dry-gardening-low-irrigation-solomon]] methods depend.
 
 ## How Capillary Action Works
 
@@ -45,7 +45,7 @@ When soil has absorbed all the water it can hold against the force of gravity �
 As soil dries, the remaining moisture forms an ever-thinner film on soil particle surfaces. The thinner the film, the more tightly the water is held by capillary and adhesive forces. Eventually, the moisture clings so tightly to soil particles that vegetable roots cannot extract it. This is the permanent wilting point. Even hot, dry desert soil still holds some moisture that is physically inaccessible to plants.
 
 ### Available Water Capacity
-The difference between field capacity and the permanent wilting point is the available water capacity — the range of soil moisture that plants can actually use. A garden soil with high available water capacity (typically a loam with good organic matter content) can go longer between waterings than a sandy soil with low available water capacity.
+The difference between field capacity and the permanent wilting point is the available water capacity — the range of soil moisture that plants can actually use. A garden soil with high available water capacity (typically a loam with good [[hamilton-composting-and-organic-matter-management]] content) can go longer between waterings than a sandy soil with low available water capacity.
 
 ### Temporary Wilting Point
 Most vegetable species experience temporary wilting during hot afternoon hours when transpiration demand exceeds the roots' ability to extract water. This is a normal, non-damaging phenomenon if the soil still contains moisture above the permanent wilting point. Plants recover overnight as transpiration demand drops. However, Solomon warns that many vegetables experience subtle moisture stress well before any visible wilting occurs, and this invisible stress significantly reduces growth and quality.

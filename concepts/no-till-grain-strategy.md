@@ -10,25 +10,25 @@ type: concept
 
 # No-Till Grain Strategy
 
-The no-till grain strategy adapts Masanobu Fukuoka's natural farming method for
+The no-till grain strategy adapts Masanobu Fukuoka's [[comparison-natural-farming-vs-permaculture]] method for
 growing staple grains without plowing, synthetic fertilizer, or pesticides.
 Often called the "no-work method," this approach follows four core principles:
 no cultivation, no chemical fertilizer, no weeding, and no chemical pesticides.
 The system grows rice, barley, wheat, rye, millet, and oats together with
 white clover in continuous rotation on the same land, eliminating fallow periods
 and building soil fertility through straw mulch, living mulch systems,
-and biological nitrogen fixation.
+and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation.
 
 ## Energy Efficiency and Land Requirements
 
 The no-till grain system is remarkably energy-efficient compared to conventional
 and even traditional animal-powered farming. A farmer eating an average 2,000
 calorie per day diet can produce 1,300 pounds (590 kg) of rice, equivalent to
-22 bushels, on just a quarter acre. Using animals for labor requires at least
+22 bushels, on just a [[fukuoka-agriculture-tomorrow-quarter-acre-vision]]. Using animals for labor requires at least
 five times as many calories for the same yield, while tractor-based farming
 requires at least ten times as much energy input.
 
-The land efficiency of grain production compared to other food sources
+The land efficiency of [[fukuoka-no-till-grain-production-method]] compared to other food sources
 demonstrates why Fukuoka advocated plant-based diets:
 - 1,800 square feet of grain to feed one person
 - 5,400 square feet of potatoes alone for one person
@@ -46,7 +46,7 @@ be used the first year only. Lime or dolomite and a thin layer of chicken
 manure are spread over the area and watered in. After this single treatment,
 the soil is managed entirely through natural means.
 
-On the outer perimeter of grain fields, a band of weed control plants
+On the outer perimeter of grain fields, a band of [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] plants
 should be grown such as comfrey, lemongrass, or citrus. These should be
 mulched with sawdust for additional protection. If a paddy that fills with
 water cannot be built, dry rice species exist that only need watering and have
@@ -54,7 +54,7 @@ the additional benefit of surviving on monsoon rains alone.
 
 ## Cold Climate Adaptations
 
-In areas too cold for rice cultivation, a system with shorter cycles can be
+In areas too cold for [[jadam-rice-cultivation-methods]], a system with shorter cycles can be
 used. Spring wheat is planted in spring with oats, barley, or winter wheat as
 the winter crop. Experimental no-till crops for cold climates include squash,
 melons, tomato, cotton, vetch, and sunflowers. The key principle remains the

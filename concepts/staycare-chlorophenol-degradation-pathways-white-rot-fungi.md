@@ -1,5 +1,5 @@
 ---
-title: Chlorophenol Degradation Pathways by White Rot Fungi
+title: staycare chlorophenol degradation pathways white rot fungi Pathways by White Rot Fungi
 created: 2026-04-28
 tags: [bioremediation, chlorophenols, pollutant-degradation, white-rot-fungi, enzymatic-pathways]
 date: 2026-04-25
@@ -23,7 +23,7 @@ ligninolytic and non-ligninolytic enzyme systems.
 
 ### Role of Ligninolytic Enzymes
 
-Phanerochaete chrysosporium degrades PCP under nitrogen-limiting
+[[staycare-phanerochaete-chrysosporium-in-bioremediation]] degrades PCP under nitrogen-limiting
 secondary metabolic conditions, corresponding to ligninolytic conditions.
 Degradation is inhibited under high-nitrogen non-ligninolytic conditions,
 directly implicating the lignin-degrading system (LDS) in PCP metabolism.
@@ -31,7 +31,7 @@ Typical degradation levels of 20-50% have been reported in nitrogen-
 limited static cultures.
 
 The degradation pathway was elucidated by Reddy and Gold (2000). PCP
-degradation is initiated by a lignin peroxidase (LiP) or manganese
+degradation is initiated by a [[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP) or manganese
 peroxidase (MnP) catalyzed oxidative dechlorination reaction that
 produces tetrachloro-1,4-benzoquinone (TCBQ). The quinone is then
 reduced to tetrachlorodihydrobenzene (TCDB), which undergoes successive
@@ -48,7 +48,7 @@ P. chrysosporium.
 
 ### Role of Laccase
 
-Trametes versicolor cultures grown under conditions conducive for laccase
+[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] cultures grown under conditions conducive for laccase
 production but with no detectable LiP also catalyzed PCP degradation.
 Addition of purified extracellular laccase enhanced PCP breakdown in the
 first days of incubation, establishing a clear role for laccase in PCP
@@ -60,7 +60,7 @@ degradation. Enhanced laccase production was observed in the presence of
 In early field studies where soil was augmented with peat as a carbon
 source, PCP depletion reached 88-91%, though most PCP was converted to
 non-extractable soil-bound products rather than fully mineralized.
-Lentinula edodes achieved 99% PCP biotransformation within 10 weeks in
+[[staycare-lentinula-edodes-in-bioremediation]] achieved 99% PCP biotransformation within 10 weeks in
 inoculated soils, with rapid depletion in the first four weeks.
 
 ## 2,4,6-Trichlorophenol (TCP) Degradation
@@ -97,7 +97,7 @@ immobilized mycelial pellets.
 
 Several parameters are critical for chlorophenol bioremediation by white
 rot fungi: selection of appropriate fungal strains with high pollutant
-tolerance; choice of suitable inoculum carriers and delivery methods;
+tolerance; choice of suitable inoculum carriers and [[cannabis-delivery-methods-comparison]];
 optimization of growth parameters to align with peak enzyme production;
 assessment of both fungal tolerance and pollutant toxicity; and
 measurement of actual degradation levels rather than mere pollutant
@@ -109,6 +109,8 @@ degradation of both PCP and its anisole derivatives must be verified for
 complete remediation of contaminated sites.
 
 ## See Also
+
+- [[staycare-soft-rot-fungi-in-pollutant-degradation]]
 
 - [[staycare-laccase-enzymes-in-bioremediation]]
 - [[staycare-manganese-peroxidase-in-fungal-bioremediation]]

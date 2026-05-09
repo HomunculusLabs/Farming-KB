@@ -12,9 +12,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly Staff. (2024). "Chemdawg." Leafly Strain Database. leafly.com/strains/chemdawg.
-  - De Meijer EPM, Hammond KM, Peeters A. (2014). "The inheritance of chemical phenotype in Cannabis sativa L." Genetics, 183(1), 345-361.
+  - De Meijer EPM, Hammond KM, Peeters A. (2014). "The inheritance of chemical phenotype in [[comparison-cannabis-sativa-vs-cannabis-indica]] L." Genetics, 183(1), 345-361.
   - ElSohly MA, Gul W. (2014). "Constituents of Cannabis sativa L." In Handbook of Cannabis, pp. 3-22. Oxford University Press.
-  - Mudge EM, Murch SJ, Brown PDS. (2018). "Cannabinoid and terpenoid profiles of diverse Cannabis cultivars." Planta Medica, 84(18), 1374-1381.
+  - Mudge EM, Murch SJ, Brown PDS. (2018). "Cannabinoid and [[cannabis-terpenoid-profiles-detailed]] of diverse Cannabis cultivars." Planta Medica, 84(18), 1374-1381.
 created: 2026-04-28
 ---
 
@@ -22,7 +22,7 @@ created: 2026-04-28
 
 Chemdawg is a legendary hybrid cannabis strain whose genetics form the backbone of dozens of commercially significant modern cultivars, including Sour Diesel and OG Kush.
 
-Despite its uncertain and often debated origins, Chemdawg is widely regarded as one of the most genetically influential cannabis strains in cultivation history.
+Despite its uncertain and often debated origins, Chemdawg is widely regarded as one of the most genetically influential cannabis strains in [[cuthill-mushroom-cultivation-history-19th-century]].
 
 The strain is named for its intensely pungent, chemical-diesel aroma that is immediately recognizable to experienced cannabis consumers.
 
@@ -40,7 +40,7 @@ From those seeds, several distinct phenotypes were isolated, including Chemdawg 
 
 Chemdawg 91 and Chemdawg D are considered the two primary line-hold phenotypes, each with slightly different growth characteristics and flavor profiles.
 
-The strain's exact genetics remain uncertain because no formal breeding records were kept, and multiple competing origin stories exist within cannabis culture.
+The strain's exact genetics remain uncertain because no formal breeding records were kept, and multiple competing origin stories exist within [[mckenna-cannabis-culture-history]].
 
 ## Aroma, Flavor, and Terpene Profile
 
@@ -89,14 +89,14 @@ Buds are moderately dense with a loose, elongated structure, pale green with ora
 
 ## Genetic Legacy
 
-Chemdawg's influence on modern cannabis genetics is arguably unmatched by any single strain:
+Chemdawg's influence on modern [[vic-high-cannabis-genetics-mendelian-inheritance]] is arguably unmatched by any single strain:
 
 - **Sour Diesel** — Chemdawg 91 × Mass Super Skunk
 - **OG Kush** — Chemdawg × Lemon Thai × Hindu Kush (debated)
 - **Headband** — Sour Diesel × OG Kush (Chemdawg grandchild)
 - **Chemdogging** — Chemdawg backcross
 - **GSC lineage** — OG Kush is a grandparent of Girl Scout Cookies
-- **Diesel heritage** — Chemdawg-derived strains dominate the "diesel" category of cannabis terpene profiles
+- **Diesel heritage** — Chemdawg-derived strains dominate the "diesel" category of cannabis [[cannabis-terpene-profiles-sativa]]
 
 The Chemdawg name has become a marker of authenticity and potency within cannabis culture, representing a pre-commercialization era of genetics.
 
@@ -105,10 +105,10 @@ Original Chemdawg cuts remain clone-only and are considered among the most prize
 ## See Also
 
 - [[og-kush-cannabis-entity]]
-- [[wedding-cake-cannabis]]
+- [[wedding-cake]]
 - [[hindu-kush]]
 - [[cannabis-indica]]
 - [[skunk-1]]
-- [[gelato-cannabis]]
+- [[gelato]]
 - [[amnesia-haze]]
 - [[afghan-kush]]

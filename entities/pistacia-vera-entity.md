@@ -39,7 +39,7 @@ Productive lifespan exceeds 100 years in suitable conditions.
 - **Habit:** Deciduous tree, 5–8 m in cultivation (to 12 m wild)
 - **Trunk:** Short, gnarled, gray-brown rough bark
 - **Root system:** Deep taproot (3–5 m+) with extensive laterals;
-  confers exceptional drought tolerance and erosion control
+  confers exceptional [[dighton-fungal-drought-tolerance-plant-water-relations]] and [[permplant-willows-salix-erosion-control-fodder]]
 - **Leaves:** Pinnately compound, 10–20 cm, 3–5 pairs of glossy
   leathery leaflets; new foliage bronze-tinted, maturing deep green
 - **Flowers:** Dioecious (separate male/female trees); wind-pollinated,
@@ -53,7 +53,7 @@ Productive lifespan exceeds 100 years in suitable conditions.
   northern Afghanistan; wild stands in Kopet-Dag mountains
 - **Major producers:** Iran (~55% world production), USA/California
   (~27%), Turkey (~8%), China, Syria, Italy/Sicily, Australia
-- **Climate zones:** Mediterranean, semi-arid, continental dry;
+- **[[mollison-climate-zones-permaculture-strategies]]:** Mediterranean, semi-arid, continental dry;
   USDA zones 7–10
 - **Temperature:** Hot summers (30–38°C optimal); 800–1000 chilling
   hours required; winter cold below -20°C damages trees
@@ -73,7 +73,7 @@ Productive lifespan exceeds 100 years in suitable conditions.
   12–15 years peak production
 
 ### Orchard Management
-- **Training:** Modified central leader or open vase; annual pruning
+- **Training:** Modified [[comparison-central-leader-vs-open-center-fruit-tree-training]] or open vase; annual pruning
 - **Irrigation:** Drip standard; deficit irrigation reduces water 30–40%
   with minimal yield loss
 - **Fertilization:** Low-moderate N; K and P important for nut fill;
@@ -116,7 +116,7 @@ Productive lifespan exceeds 100 years in suitable conditions.
 - **Guild companions:** Alfalfa, clover, comfrey, rosemary, lavender,
   fig, pomegranate, olive — shared drought/heat tolerance
 - **Soil ecology:** Forms vesicular-arbuscular mycorrhizal (VAM)
-  associations; facilitates nutrient cycling in poor soils
+  associations; facilitates [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in poor soils
 - **Erosion control:** Deep roots stabilize slopes in arid landscapes
 - **Windbreak:** Mid-layer component in multi-strata shelterbelts
 - **Biodiversity:** Early pollen for insects; nuts for birds/wildlife;

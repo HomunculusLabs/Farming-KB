@@ -1,5 +1,5 @@
 ---
-title: Fungal Virulence Factors and Host Immune Evasion
+title: Fungal fungal virulence factors host immune evasion and Host Immune Evasion
 created: 2026-04-26
 tags: [fungal-pathogen, virulence, immune-evasion, medical-mycology, melanin]
 date: 2026-04-25
@@ -17,7 +17,7 @@ Fungal pathogenesis requires a combination of traits that enable the
 fungus to colonize, invade, and persist within a mammalian host. Unlike
 bacterial pathogens, which often rely on specific toxins and secretion
 systems, fungal virulence factors tend to be derived from fundamental
-fungal biology -- traits originally evolved for environmental survival
+[[bloomfield-fungal-biology-and-hyphal-growth]] -- traits originally evolved for environmental survival
 that are co-opted during infection. Key virulence determinants include
 thermotolerance, cell wall composition, melanin production, capsule
 formation, and the ability to undergo morphological transitions.
@@ -26,7 +26,7 @@ formation, and the ability to undergo morphological transitions.
 
 The ability to grow at mammalian body temperature (37 degrees C and
 above) is a fundamental prerequisite for pathogenesis. Among the three
-major systemic fungal pathogens -- [[aspergillus-fumigatus-population-genetics]], and
+major systemic [[bloomfield-fungal-pathogens-and-parasites]] -- [[aspergillus-fumigatus-population-genetics]], and
 [[alpha-1-3-glucan-fungal-pathogen-cell-walls]], which
 serves as a scaffold for capsule attachment.
 
@@ -34,7 +34,7 @@ serves as a scaffold for capsule attachment.
 
 Several fungal pathogens undergo dimorphic transitions between yeast
 and hyphal forms that are essential for virulence. C. albicans switches
-between yeast, pseudohyphal, and true hyphal growth forms, with each
+between yeast, pseudohyphal, and true [[bloomfields-orchard-hyphal-growth-and-invasive-biology]] forms, with each
 morphology conferring distinct advantages during infection. The yeast
 form facilitates dissemination in the bloodstream, while hyphal forms
 promote tissue invasion and biofilm formation.
@@ -59,10 +59,10 @@ functions. [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]
 - Casadevall, A. & Pirofski, L. A. (2001). Host-pathogen
   interactions: redefining the basic concepts of virulence and
   pathogenicity. Infect Immun 69, 3343-53.
-- Steenbergen, J. N. et al. (2001). Cryptococcus neoformans
+- Steenbergen, J. N. et al. (2001). [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]]
   virulence: coming to grips with a fungal pathogen. Annu Rev
   Microbiol 55, 413-39.
-- Latge, J. P. (1999). Aspergillus fumigatus and aspergillosis.
+- Latge, J. P. (1999). [[gadd-aspergillus-fumigatus-glucan-virulence]] and aspergillosis.
   Clin Microbiol Rev 12, 310-50.
 ## Practical Considerations
 
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

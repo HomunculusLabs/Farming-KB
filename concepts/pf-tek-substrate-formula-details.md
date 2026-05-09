@@ -1,5 +1,5 @@
 ---
-title: PF Tek Substrate Formula Details
+title: PF Tek pf-tek-measurement-calibration-and-substrate-formula-precision Details
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 author: Robert "Psylocybe Fanaticus" McPherson
 tags: [pf-tek, substrate, vermiculite, brown-rice-flour, formula, cultivation]
@@ -18,13 +18,13 @@ The standard PF TEK substrate formula per jar:
 
 | Ingredient | Amount | Purpose |
 |---|---|---|
-| Brown rice flour (BRF) | 60 mL (¼ cup) | Nutrient source |
+| [[cho-brown-rice-vinegar-preparation]] flour (BRF) | 60 mL (¼ cup) | Nutrient source |
 | Vermiculite | 120 mL (½ cup) | Water retention and aeration |
 | Water | 60 mL (¼ cup) | Moisture for colonization |
-| Dry vermiculite (top layer) | 15-20 mL | Contamination barrier |
+| [[pf-tek-dry-vermiculite-contaminant-barrier]] (top layer) | 15-20 mL | Contamination barrier |
 
 This produces a 1:2:1 ratio of BRF to vermiculite to water by volume.
-The formula fills a standard 240 mL (½ pint) wide-mouth canning jar
+The formula fills a standard 240 mL (½ pint) wide-mouth [[pf-tek-canning-jar-lid-configuration]]
 approximately two-thirds full, leaving headspace for air exchange.
 
 ## Brown Rice Flour Specifications
@@ -85,7 +85,7 @@ The dry vermiculite top layer is a key innovation of the PF TEK:
 - The dry layer lacks moisture and nutrients, preventing most
   contaminant germination
 - This barrier allows inoculation through the foil without a
-  glovebox or flow hood in many cases
+  glovebox or [[comparison-laminar-flow-hood-vs-fruiting-chamber]] in many cases
 - The barrier should be loose, not packed, and level with or
   slightly below the jar rim
 
@@ -112,5 +112,5 @@ For larger jars or bulk preparation:
 
 ## See Also
 
-- [[mushroom-potency-harvest-age]] - Harvest timing
+- [[mushroom-potency-harvest-age]] - [[cannabis-harvest-timing-visual-cues]]
 - [[pf-tek-psilocybin-dosage-reference]] - Dosage from PF grows

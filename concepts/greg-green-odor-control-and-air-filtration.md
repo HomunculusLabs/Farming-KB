@@ -1,5 +1,5 @@
 ---
-title: "Odor Control and Air Filtration"
+title: "cannabis-odor-control-and-carbon-filters and Air Filtration"
 created: 2026-04-28
 tags: [cannabis, odor-control, ventilation, ozone, security]
 date: 2026-04-25
@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md]
 type: concept
 ---
 
-Odor control is a critical concern for indoor cannabis growers, especially
+Odor control is a critical concern for [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]] growers, especially
 those living in apartments or shared housing. Greg Green's Cannabis Grow
 Bible addresses odor management as both a quality of life issue and a
 security consideration. During flowering, cannabis plants produce strong
@@ -97,4 +97,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

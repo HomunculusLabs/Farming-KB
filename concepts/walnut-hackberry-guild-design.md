@@ -1,5 +1,5 @@
 ---
-title: Walnut Hackberry Guild Design
+title: Walnut walnut hackberry guild design Design
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -16,13 +16,13 @@ The walnut-hackberry guild, developed by Arizona permaculture designer Tim Murph
 
 ## The Allelopathy Challenge
 
-Walnut trees secrete juglone, a toxic compound that suppresses competing plants. Very few species can thrive under the walnut canopy, and vegetation near the trees is often stunted. This makes companion planting with walnuts particularly tricky. However, observing nature reveals that certain species naturally tolerate juglone and can form productive communities beneath walnuts.
+Walnut trees secrete juglone, a toxic compound that suppresses competing plants. Very few species can thrive under the walnut canopy, and vegetation near the trees is often stunted. This makes [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with walnuts particularly tricky. However, observing nature reveals that certain species naturally tolerate juglone and can form productive communities beneath walnuts.
 
 ## Core Guild Members
 
 ### Walnut (Juglans spp.) -- Central Element
 - Provides nuts, premium timber, and wildlife habitat
-- Drought tolerant; grows in arid western states and less harsh locales
+- [[permplant-carob-drought-tolerant-food-tree]]; grows in arid western states and less harsh locales
 - Naturally open, spreading varieties (butternut, buartnut, heartnut) are excellent
 - Decomposing walnut leaves and husks release insect-repelling citronella fumes
 - Black walnut (J. nigra), butternut (J. cinerea), heartnut (J. ailantifolia cordiformis)
@@ -54,7 +54,7 @@ Chiltepine (Capsicum aviculare) and wolfberry (Lycium spp.) are found naturally 
 
 ### Nitrogen Fixers
 Russian olive (Elaeagnus angustifolia) and other Elaeagnus species are drought-tolerant and insensitive to juglone. They provide:
-- Nitrogen fixation via symbiotic bacteria
+- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] via symbiotic bacteria
 - Wildlife food (berries)
 - Human food (goumi and Elaeagnus x ebbingei produce edible fruit)
 - In arid regions, native N-fixers like ceanothus and Apache plume (Fallugia paradoxa) work well
@@ -63,7 +63,7 @@ Russian olive (Elaeagnus angustifolia) and other Elaeagnus species are drought-t
 Placed at guild margins to protect neighboring plants from juglone drift:
 - Mulberry (Morus spp.)
 - Elderberry (Sambucus spp.)
-- Black locust (Robinia pseudoacacia) -- also fixes nitrogen, beloved by bees
+- [[comparison-black-locust-vs-honey-locust]] (Robinia pseudoacacia) -- also fixes nitrogen, beloved by bees
 - Acacia -- also fixes nitrogen
 - Beyond this buffer zone, non-tolerant fruiting trees and shrubs can be planted
 
@@ -96,7 +96,7 @@ This guild exemplifies the "bookworm" approach to guild design:
 3. Look for patterns of co-occurrence and plant family affinities
 4. Note allelopathic relationships and species tolerance
 5. Substitute domesticated relatives where appropriate
-6. Add nitrogen fixers and other functional species
+6. [[query-how-do-legumes-add-nitrogen-to-soil]] fixers and other functional species
 7. Create buffer zones for allelopathic species
 8. Test and observe; adjust over time
 
@@ -104,5 +104,8 @@ This guild exemplifies the "bookworm" approach to guild design:
 
 - [[permaculture-guild-design-method]]
 - [[dynamic-accumulators]]
-- [[holzer-fruit-tree-planting-method]]
-- [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
+- holzer-fruit-tree-planting-method
+- fungal-symbiosis-with-plants-beyond-mycorrhizae
+- [[permaculture-design]]
+- [[robinia-pseudoacacia]]
+- [[companion-planting]]

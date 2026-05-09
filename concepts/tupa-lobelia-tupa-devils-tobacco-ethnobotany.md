@@ -1,11 +1,12 @@
 ---
-title: Tupa - Lobelia Tupa Devil's Tobacco Ethnobotany
+title: Tupa - tupa lobelia tupa devils tobacco ethnobotany Devil's Tobacco Ethnobotany
 created: 2026-04-28
 tags: [ethnobotany, chile, mapuche, lobelia, campanulaceae, lobeline,
   narcotic-plants, schultes, andes]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 type: concept
 ---
 
@@ -17,7 +18,7 @@ reference to its use as a smoking mixture. In Chile, the Mapuche Indians
 smoke the dried leaves of this beautiful red-flowered plant for their
 narcotic effects. Whether these effects are truly hallucinogenic has not yet
 been established. The plant contains the alkaloid lobeline and several
-derivatives of it. The same alkaloid occurs in some North American species
+derivatives of it. The same alkaloid occurs in some [[growing-gourmet-north-american-reishi-species]] species
 of Lobelia, especially L. inflata, known locally as Indian tobacco.
 
 ## Botanical Description
@@ -67,12 +68,12 @@ effects at higher doses.
 
 The same alkaloid occurs in some North American species of Lobelia,
 especially L. inflata, known locally as Indian tobacco. L. inflata was
-widely used in Native American medicine and was adopted into the
+widely used in [[halpern-sacramental-peyote-and-native-american-church]] medicine and was adopted into the
 Anglo-American pharmacopeia as a treatment for respiratory ailments,
 including asthma and bronchitis. Lobeline was formerly included in
 commercial preparations as an expectorant and respiratory stimulant. The
-presence of lobeline in both South American and North American species of
-Lobelia suggests that this alkaloid is a characteristic secondary metabolite
+presence of lobeline in both [[chiric-caspi-brunfelsia-south-american-hallucinogen]] and North American species of
+Lobelia suggests that this alkaloid is a characteristic [[fungal-elicitors-enhanced-secondary-metabolite-production]]
 of the genus as a whole.
 
 ## Lobeline: Pharmacology and Effects
@@ -138,6 +139,8 @@ substances is deeply rooted in indigenous American cultures and predates
 European contact by many centuries.
 
 ## See Also
+
+- [[lobelia-inflata]]
 
 - lobeline
 

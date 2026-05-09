@@ -1,5 +1,5 @@
 ---
-title: Metzner on Syncretic Entheogenic Folk Ceremonies
+title: Metzner on metzner-syncretic-entheogenic-churches-brazil-bwiti Folk Ceremonies
 created: 2026-04-28
 tags: [metzner, shamanism, ayahuasca, peyote, iboga]
 date: 2026-04-28
@@ -12,7 +12,7 @@ type: concept
 
 In his 1998 comparative framework, Ralph Metzner identifies syncretic
 folk religious ceremonies as a distinct paradigm of entheogenic use,
-sitting between traditional shamanic healing rituals and modern hybrid
+sitting between traditional [[metzner-shamanic-healing-and-divination-paradigm]] rituals and modern hybrid
 therapeutic circles. These ceremonies involve organized religious
 communities using psychoactive plants as sacraments, with primary
 emphasis on group worship, celebration, singing, and prayer rather than
@@ -24,7 +24,7 @@ Metzner acknowledges the distinction is somewhat arbitrary, existing
 along a continuum. Shamanic practices emphasize healing and divination,
 typically in small groups of around a dozen. Folk religious ceremonies
 often involve 20 to 40 participants, and in the case of Brazilian
-ayahuasca churches, several hundred.
+[[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]], several hundred.
 
 In folk ceremonies, healing and visioning recede into the background.
 The primary focus is group worship and celebration. Instead of a shaman,
@@ -34,7 +34,7 @@ healing or Western psychotherapy.
 
 ## Social Functions of Entheogenic Churches
 
-Groups coalescing around entheogenic ceremonies have typically organized
+Groups coalescing around [[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]] have typically organized
 into recognized churches, providing members with social cohesion and
 legal protection. An important function is strengthening community bonds
 and giving members a sense of belonging. Participation in both the
@@ -51,7 +51,7 @@ pilgrimage to Wirikuta to find the sacred cactus. Native American tribes
 in the United States legally incorporated the Native American Church
 (NAC) using peyote as sacrament. Though legal protection has eroded in
 recent court decisions, the NAC enjoyed legal access for most of the
-twentieth century.
+[[coleman-louis-savier-twentieth-century-maraicher]].
 
 NAC ceremonies follow a consistent format: a "roadman" presides,
 assisted by a drummer, firekeeper, and cedar-man. Participants sit on
@@ -74,7 +74,7 @@ the brew as sacrament.
 
 Members come from all walks of life in both urban and rural Brazil.
 Each church has several thousand members, and two have satellite centers
-in North America and Europe. The churches are officially recognized and
+in [[psilocybin-north-america-pacific-northwest]] and Europe. The churches are officially recognized and
 ayahuasca use is legal in Brazil within that framework. Research by
 Charles Grob and Dennis McKenna confirmed that long-term participation
 is associated with no adverse health effects and with a reduction of
@@ -112,3 +112,10 @@ powerful hallucinogen iboga (eboka), from which
 - [[metzner-ayahuasca-therapeutic-potential]]
 - [[metzner-hybrid-shamanic-therapeutic-rituals]]
 - [[peyote-ceremony-guide]]
+
+## See Also
+
+- [[entheogenic-folk-religions]]
+
+- [[susto-andean-folk-illness-category]]
+- [[mithraism-entheogenic-origins]]

@@ -1,5 +1,5 @@
 ---
-title: "Timothy Leary and the Harvard Psilocybin Project"
+title: "Timothy Leary and the leary-harvard-psilocybin-project Project"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -13,7 +13,7 @@ sources:
 
 ## Source
 
-Letcher, Andy. Shroom: A Cultural History of the Magic Mushroom.
+Letcher, Andy. Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the [[australian-magic-mushroom-common-names]].
 HarperCollins, 2006. Lines 8760-9060.
 ## Background and Context
 
@@ -143,4 +143,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

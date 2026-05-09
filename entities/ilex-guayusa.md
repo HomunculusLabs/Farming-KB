@@ -63,7 +63,7 @@ leaf blade is coriaceous (leathery) with a prominent yellowish midrib.
 **Flowers** are small (4–6 mm), white, in axillary fascicles, appearing
 January–March. **Fruit** is a red drupe 6–8 mm diameter containing 4–6
 pyrenes, maturing March–May; only female trees produce fruit. **Root system**
-is shallow and spreading, associating with arbuscular mycorrhizal fungi.
+is shallow and spreading, associating with [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi.
 
 ## Distribution and Habitat
 
@@ -71,7 +71,7 @@ Native to the upper Amazonian foothills of Ecuador, Colombia, and Peru at
 200–2,000 m elevation. Most abundant in Ecuador's Napo and Pastaza provinces,
 where it forms a significant understorey component in primary and secondary
 rainforest. Grows on well-drained clay-loam to sandy-loam soils receiving
-2,000–4,000 mm annual rainfall. Temperature range: 18–28°C. Shade-tolerant
+2,000–4,000 mm annual rainfall. [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]: 18–28°C. Shade-tolerant
 when young; higher leaf caffeine content with increasing light exposure.
 
 ## Alkaloid Profile
@@ -84,7 +84,7 @@ unique combined stimulant profile:
 - **Theobromine:** 0.2–0.5% dry weight. The same compound found in cacao;
   contributes smooth cardiovascular stimulation and vasodilation.
 - **L-Theanine:** 0.1–0.3% dry weight. An amino acid almost exclusively found
-  in tea (*Camellia sinensis*); promotes alpha-wave brain activity associated
+  in tea (*[[camellia-sinensis-entity]]*); promotes alpha-wave brain activity associated
   with relaxed alertness.
 
 Additional phytochemicals include chlorogenic acids (3–5% dry weight), rutin,
@@ -127,11 +127,11 @@ provides a forest-friendly economic alternative to deforestation.
 
 ## Related Species
 
-- ***Ilex paraguariensis*** (Yerba Mate) — South American caffeinated holly;
+- ***Ilex paraguariensis*** (Yerba Mate) — [[chiric-caspi-brunfelsia-south-american-hallucinogen]] caffeinated holly;
   lower caffeine (1–1.5%), no L-theanine; dominant beverage in Argentina,
   Uruguay, Paraguay, southern Brazil.
-- ***Ilex vomitoria*** (Yaupon) — North American caffeinated holly; native to
-  the southeastern United States; historically used for purification rituals.
+- ***Ilex vomitoria*** (Yaupon) — [[growing-gourmet-north-american-reishi-species]] caffeinated holly; native to
+  the southeastern [[dmt-containing-plants-united-states-halpern]]; historically used for purification rituals.
 - ***Camellia sinensis*** (Tea) — The other major L-theanine-containing
   caffeinated plant; different botanical order (Ericales).
 - [[agroforestry]]

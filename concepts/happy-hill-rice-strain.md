@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Fukuoka, Masanobu. *The Natural Way of Farming: The Theory and
-    Practice of Green Philosophy*. 1985.
+    Practice of [[fukuoka-sowing-green-philosophy-one-grain-revolution]]*. 1985.
 related_concepts:
   - natural-farming-principles
   - fukuoka-natural-farming-philosophy
@@ -23,7 +23,7 @@ related_concepts:
 
 Happy Hill is a rice strain developed by Masanobu Fukuoka on his farm in
 Ehime Prefecture, Japan. It represents a practical demonstration of
-natural farming principles applied to plant breeding — a variety created
+natural [[natural-farming-principles-fukuoka]] applied to plant breeding — a variety created
 through natural selection and symbiosis with the farm ecosystem rather
 than through laboratory genetic manipulation.
 
@@ -39,7 +39,7 @@ environment.
 
 The strain is notable for its vigor under low-input conditions. Unlike
 modern high-yielding varieties that require substantial nitrogen
-fertilization, irrigation, and pest management, Happy Hill performs well
+fertilization, irrigation, and [[cannabis-pest-management-guide]], Happy Hill performs well
 within the minimal-intervention framework of natural farming.
 
 Fukuoka created it "together with the insects in my fields," suggesting
@@ -80,7 +80,7 @@ straw mulch and clover cover in spring without any transplanting.
 Under this system, the rice matured alongside the declining clover cover
 and was harvested while the young shoots of the next winter grain crop
 were already emerging beneath it. The variety's ability to establish
-from clay pellet seeding and compete with clover made it uniquely suited
+from clay [[clay-pellet-seeding-technique]] and compete with clover made it uniquely suited
 to this rotation.
 
 ## Significance
@@ -93,7 +93,7 @@ mutually exclusive. His goal was to eventually achieve 33 bushels per
 quarter-acre through continued natural selection.
 
 The variety also illustrates Fukuoka's broader philosophical point about
-the relationship between plants and their environment. A rice variety
+the relationship between plants and their environment. A [[fukuoka-old-rice-variety-testing]]
 selected under artificial conditions becomes dependent on those
 conditions. Happy Hill, selected under natural conditions, carries
 resilience as a genetic trait rather than requiring it as an external
@@ -124,7 +124,7 @@ these typically require the chemical inputs that Fukuoka rejected.
 - [[masanobu-fukuoka]]
 - seed saving and plant breeding
 - growing staple crops grains beans and tubers
-- heritage and landrace crop varieties for small farmers
+- heritage and [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] varieties for small farmers
 
 ## See Also
 

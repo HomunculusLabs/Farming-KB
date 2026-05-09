@@ -1,11 +1,11 @@
 ---
-title: "Cervantes - Whitefly Pest Control on Cannabis"
+title: "Cervantes - cervantes whitefly pest control Control on Cannabis"
 created: 2026-04-26
 tags: [cannabis, pest-control, whiteflies, integrated-pest-management, insects]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources: []
 type: concept
 ---
 
@@ -59,7 +59,7 @@ production and overall yield.
 Several cultural and physical methods effectively manage
 whitefly populations without chemicals:
 
-- Yellow sticky traps are highly effective because adult
+- Yellow [[cervantes-sticky-traps-pest-monitoring]] are highly effective because adult
   whiteflies are strongly attracted to the color yellow
 - Build traps by covering bright yellow objects with a
   sticky substance like Tanglefoot
@@ -81,7 +81,7 @@ inputs. See [[cervantes-pyrethrum-pyrethroid-insecticides]] must be completely w
 - The wasp lays an egg inside the whitefly larva that
   hatches and consumes the larva from the inside out
 - Control is slower than chemical methods because the
-  life cycle of the parasite takes time
+  [[bloomfield-fungal-life-cycle-spiral-versus-circle]] of the parasite takes time
 - Release two or more parasites per plant as soon as
   the first whitefly is detected
 - Repeat releases every two to four weeks throughout
@@ -90,7 +90,7 @@ inputs. See [[cervantes-pyrethrum-pyrethroid-insecticides]] must be completely w
 The fungus Verticillium lecanii, also known as
 Cephalosporium lecanii (trade name Mycotal), is also very
 effective against whiteflies and can be used as a
-supplement to parasitic wasps. Other common cannabis pests
+supplement to parasitic wasps. Other common [[green-cannabis-pests-prevention]]
 like [[thrips-cannabis]] require
 similar integrated approaches combining biological and chemical
 controls. For predatory insect allies, see [[ultra-low-cost-pest-control]]:
@@ -98,7 +98,7 @@ controls. For predatory insect allies, see [[ultra-low-cost-pest-control]]:
 - Homemade sprays applied at five to ten day intervals
 - [[cervantes-pyrethrum-pyrethroid-insecticides]]
   aerosol formulations applied at five to ten day intervals
-- Neem oil provides both contact and systemic protection
+- [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] provides both contact and systemic protection
 
 The key to successful spray control is consistency. Multiple
 applications at regular intervals are necessary because eggs,
@@ -111,7 +111,7 @@ development.
 
 Preventing whitefly introduction is easier than eradicating
 an established infestation. Inspect all new plants carefully
-before bringing them into the grow room. Quarantine new
+before bringing them into the [[cannabis-grow-room-setup]]. Quarantine new
 additions for at least two weeks. Maintain proper
 [[aphids-cannabis|aphids]]
 require similar preventive vigilance.

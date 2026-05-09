@@ -22,8 +22,8 @@ updated: 2026-04-28
 sources:
   - Pegler, D.N. & Lodge, D.J. (1992). "Three new species of Macrocybe from the Caribbean." Mycotaxon 45: 445-455.
   - Hedger, J.N. et al. (1993). "Tropical agarics: resource and diversity." Mycological Research 97(6): 637-644.
-  - De Kesel, A. et al. (2002). "The genus Macrocybe." Fungal Diversity 10: 33-60.
-  - Oei, P. (2003). "Mushroom Cultivation with Special Emphasis on Appropriate Techniques for Developing Countries." TOOL Publications.
+  - De Kesel, A. et al. (2002). "The genus Macrocybe." [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] 10: 33-60.
+  - Oei, P. (2003). "[[accessible-mushroom-cultivation-for-disabilities]] with Special Emphasis on Appropriate Techniques for Developing Countries." TOOL Publications.
   - Bandara, A.R. et al. (2017). "Antioxidant and anti-inflammatory activities of Macrocybe gigantea." BMC Complementary and Alternative Medicine 17: 463.
 ---
 
@@ -79,13 +79,13 @@ Caribbean (Puerto Rico, Trinidad, Jamaica), and tropical Africa. Grows solitary 
 gregarious in grasslands, pastures, open fields, and along forest edges.
 Prefers warm, humid conditions with seasonal rainfall. Fruiting occurs during the
 monsoon season in South Asia (June–September) and the wet season in Southeast
-Asia. A saprotro [[food-forest-understory-plants]] ted farming systems.
-- **Companion planting**: Can be integrated into agroforestry edges a [[mollison-designers-avocado-mango-and-subtropical-tree-crops]], utilizing shade-tolerant positions beneath
+Asia. A saprotro food-forest-understory-plants ted farming systems.
+- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]**: Can be integrated into agroforestry edges a [[mollison-designers-avocado-mango-and-subtropical-tree-crops]], utilizing shade-tolerant positions beneath
   young tree canopies.
-- **Soil building**: Spent substrate is rich in organic matter and microbial
+- **Soil building**: [[oyster-mushroom-spent-substrate-recycling]] is rich in [[hamilton-composting-and-organic-matter-management]] and microbial
   biomass; can be returned to fields as mulch or compost amendment.
 - **Low-input cultivation**: Requires minimal infrastructure compared to
-  shiitake or oyster mushroom production; suitable for rural and subsistence
+  shiitake or [[cotter-oyster-mushroom-cultivation]] production; suitable for rural and subsistence
   farming contexts.
 
 ## Similar Species

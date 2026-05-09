@@ -38,7 +38,7 @@ ultrasound.
 
 ## Evidence-Based Confidence Level
 
-From Uwe Blesching's Cannabis Health Index (CHI):
+From [[uwe-blesching]]'s [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI):
 
 - Total Number of Studies Reviewed: 3
 - CHI Value: 5
@@ -73,8 +73,8 @@ British scientists (2008) conducted a review of the existing literature on
 cannabinoids and bone disorders, which supported the notion that "cannabinoid
 receptor ligands show a great promise in the treatment of bone diseases
 associated with accelerated osteoclastic bone resorption, including
-osteoporosis, rheumatoid arthritis, and bone metastasis."
+osteoporosis, [[blesching-cannabis-rheumatoid-arthritis]], and bone metastasis."
 
 This finding bridges the osteoporosis research with [[cannabis-and-bone-cancer]]
-- [[blesching-endocannabinoid-system-overview]]
+- [[endocannabinoid-system-overview]]
 - [[blesching-cannabis-menstrual-pain]]

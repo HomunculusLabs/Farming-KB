@@ -16,7 +16,7 @@ type: concept
 [[mycoremediation-pahs]] emphasizes that [[mycoremediation-pahs]]:
 
 - Contaminated sites impose multiple simultaneous stresses (metal
-  toxicity, nutrient deficiency, drought, pathogen pressure)
+  toxicity, [[cannabis-grow-nutrient-deficiency-problem-solving]], drought, pathogen pressure)
 - Mycorrhizal plants survive and grow better under combined stress
 - Enhanced plant vigor supports greater contaminant uptake, degradation,
   or stabilization
@@ -25,8 +25,8 @@ type: concept
 
 - [[singh-mycorrhizal-exudates-root-exudate-interactions]] -- exudate chemistry
   underlying stress responses
-- [[mycoremediation-pahs]] -- broader context for fungal remediation
-- heavy metal contamination -- metals co-occurring with abiotic
+- [[mycoremediation-pahs]] -- broader context for [[cotter-pet-livestock-waste-fungal-remediation-systems]]
+- [[dighton-fungal-biosorption-heavy-metal-remediation]] contamination -- metals co-occurring with abiotic
 
 ## See Also
 
@@ -108,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

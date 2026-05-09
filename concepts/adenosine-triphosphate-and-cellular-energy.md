@@ -1,5 +1,5 @@
 ---
-title: Adenosine Triphosphate and Cellular Energy
+title: Adenosine adenosine triphosphate and cellular energy Energy
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -29,7 +29,7 @@ The energy from ATP is used to:
 - Make proteins change shape (essential for enzyme function and transport)
 - Break apart water molecules
 - Recombine carbon, hydrogen, and nutrients into new compounds
-- Power active transport of nutrients across membranes
+- Power [[diffusion-osmosis-and-active-transport-in-plants]] of nutrients across membranes
 - Drive cell division and growth
 
 ## ATP and Photosynthesis
@@ -38,7 +38,7 @@ In chloroplasts, chlorophyll captures light energy and uses most of it to conver
 
 Each chloroplast can create thousands of sugar molecules per second. With approximately 500,000 chloroplasts per square millimeter of leaf surface, the scale of production is enormous.
 
-The light reactions take place across the thylakoid membrane, where photosystem II and photosystem I work in sequence. As electrons flow through the electron transport chain, protons are pumped into the thylakoid lumen, creating a proton gradient. ATP synthase then harnesses this gradient to phosphorylate ADP into ATP -- a process called photophosphorylation. Both cyclic and non-cyclic photophosphorylation occur, with the cyclic pathway producing only ATP and the non-cyclic pathway yielding both ATP and NADPH.
+The light reactions take place across the thylakoid membrane, where photosystem II and photosystem I work in sequence. As electrons flow through the electron [[electron-transport-chain-mitochondrial-respiration]], protons are pumped into the thylakoid lumen, creating a proton gradient. ATP synthase then harnesses this gradient to phosphorylate ADP into ATP -- a process called photophosphorylation. Both cyclic and non-cyclic photophosphorylation occur, with the cyclic pathway producing only ATP and the non-cyclic pathway yielding both ATP and NADPH.
 
 ## ATP and Respiration
 
@@ -52,7 +52,7 @@ During aerobic respiration, glucose is broken down through glycolysis, the citri
 
 Why does a plant need chloroplasts to make sugar for energy if mitochondria can make ATP directly? Part of the answer is redundancy -- having backup systems for critical operations. But sugar serves purposes beyond energy:
 
-- Glucose is a basic building material for everything in a cell
+- Glucose is a basic [[fungal-building-material-deterioration]] for everything in a cell
 - Its carbon, hydrogen, and oxygen atoms construct nucleotides, lipids, and proteins
 - Sucrose (transport sugar) can be moved through the phloem to where it is needed
 - Starch provides long-term energy storage
@@ -67,15 +67,15 @@ These redox reactions are mediated by electron carriers such as NAD+/NADH and FA
 
 The energy budget of a plant is staggering. Every cell must constantly produce ATP to maintain its functions. Root cells need ATP for active nutrient uptake (moving ions against their concentration gradient). Leaf cells need ATP for stomatal opening and closing. Growing cells need ATP for synthesizing new cell walls and organelles.
 
-ATP turnover in plant cells is remarkably rapid -- a single cell may consume and regenerate its entire ATP pool within seconds during peak metabolic activity. Mitochondria are the primary ATP producers through oxidative phosphorylation, while chloroplasts generate ATP during the light reactions of photosynthesis.
+ATP turnover in plant cells is remarkably rapid -- a single cell may consume and regenerate its entire ATP pool within seconds during peak [[arbuscule-isolation-metabolic-activity-assays]]. Mitochondria are the primary ATP producers through oxidative phosphorylation, while chloroplasts generate ATP during the light reactions of photosynthesis.
 
 ### Anaerobic Energy Crisis
 
-Under anaerobic conditions (waterlogged soil), plants shift to fermentation pathways, which produce only 2 ATP per glucose molecule compared to 36-38 from aerobic respiration. This dramatic reduction in ATP yield explains why waterlogged plants quickly show nutrient deficiency symptoms even when nutrients are abundant in the soil. The energy deficit impairs active transport of all essential ions simultaneously.
+Under anaerobic conditions (waterlogged soil), plants shift to fermentation pathways, which produce only 2 ATP per glucose molecule compared to 36-38 from aerobic respiration. This dramatic reduction in ATP yield explains why waterlogged plants quickly show [[cannabis-grow-nutrient-deficiency-problem-solving]] symptoms even when nutrients are abundant in the soil. The energy deficit impairs active transport of all essential ions simultaneously.
 
 This energy crisis is particularly relevant to [[arbuscular-mycorrhizal-fungi]], the fungal partner relies on plant-supplied carbon (ultimately derived from photosynthetic ATP) to fuel its growth and nutrient-scavenging activities. In return, the fungus delivers phosphorus and other minerals to the plant. This cross-kingdom carbon-for-phosphorus trade depends on both organisms maintaining adequate ATP supplies. Understanding ATP dynamics thus provides insight into the metabolic foundation of [[photosynthesis-and-chloroplast-function]] -- where light energy becomes chemical energy
 - [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]
-- [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
+- fungal-symbiosis-with-plants-beyond-mycorrhizae
 
 ## Practical Context
 Adenosine Triphosphate and Cellular Energy is best interpreted in relation to site

@@ -1,9 +1,9 @@
 ---
-title: "Sandoz Psycholytic Therapy and the European Clinical Model"
+title: "Sandoz european-psycholytic-therapy-1960s-1970s and the European Clinical Model"
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 topics: ["psycholytic therapy", "Sandoz", "LSD", "Albert Hofmann",
   "seelische Auflockerung", "European psychiatry", "psychoanalysis",
-  "Stanislav Grof", "perinatal matrices", "psychedelic therapy"]
+  "Stanislav Grof", "[[metzner-grof-perinatal-matrices-and-transpersonal-realms]]", "[[metzner-psycholytic-psychedelic-therapy-models]]"]
 ---
 
 # Sandoz Psycholytic Therapy and the European Clinical Model
@@ -92,7 +92,7 @@ supportive, home-like settings.
 The concept of **consciousness expansion** was introduced, contrasted
 with the contracted, fixated awareness characteristic of addictions
 and compulsions. Leary popularized the **set and setting
-hypothesis**: the primary determinants of a psychedelic experience
+hypothesis**: the primary determinants of a [[leary-psychedelic-experience-bardo-mapping]]
 are internal set (intention, expectation) and external setting
 (context, guide presence).
 
@@ -100,7 +100,7 @@ are internal set (intention, expectation) and external setting
 
 Despite theoretical and practical differences between the
 psycholytic and psychedelic approaches, Metzner identified five
-fundamental conclusions they share, distinguishing hallucinogen-
+[[metzner-five-fundamental-conclusions-psychedelic-psychotherapy]] they share, distinguishing hallucinogen-
 assisted psychotherapy from other drug-based treatments:
 
 **Expanded consciousness**: Hallucinogen-assisted psychotherapy
@@ -124,7 +124,7 @@ the role the microscope plays in biology — opening realms and
 processes of the human mind to direct, repeatable, verifiable
 observation.
 
-**Therapist experiential prerequisite**: Personal experience
+**[[metzner-therapist-experiential-prerequisite-psychedelic-therapy]] prerequisite**: Personal experience
 with psychedelics is essential for effective therapy. Without it,
 communication between therapist and patient in a psychedelic state
 is severely limited.

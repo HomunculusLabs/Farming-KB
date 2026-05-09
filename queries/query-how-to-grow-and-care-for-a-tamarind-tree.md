@@ -1,5 +1,5 @@
 ---
-title: How to Grow and Care for a Tamarind Tree
+title: How to query how to grow and care for a tamarind tree for a Tamarind Tree
 tags:
   - tamarind
   - fruit-trees
@@ -12,7 +12,7 @@ date: 2026-05-03
 updated: 2026-05-03
 sources:
   - Morton JF. Fruits of Warm Climates. 1987. Purdue University.
-  - Orwa C et al. Agroforestree Database. 2009. World Agroforestry Centre (ICRAF).
+  - Orwa C et al. Agroforestree Database. 2009. World agroforestry Centre (ICRAF).
   - TNAU Agritech Portal. Tamarind Cultivation. Tamil Nadu Agricultural University.
   - Maundu P et al. Useful Trees and Shrubs of Kenya. 1999. World Agroforestry Centre.
 type: query
@@ -21,7 +21,7 @@ created: 2026-05-03
 
 # How to Grow and Care for a Tamarind Tree
 
-Growing a tamarind tree (*[[foliar-feeding]] with seaweed extract during flowering can improve fruit set in deficient soils.
+Growing a tamarind tree (*[[foliar-feeding]] with [[comparison-seaweed-extract-vs-fish-hydrolysate]] during flowering can improve fruit set in deficient soils.
 
 ### Pruning
 
@@ -33,7 +33,7 @@ Tamarind needs very little pruning:
 
 ### Mulching
 
-Continue annual mulching for the life of the tree. Use fallen tamarind leaves, pod husks, crop residues, or any organic material. A mature tamarind produces abundant leaf litter that self-mulches to some degree.
+Continue annual mulching for the life of the tree. Use fallen tamarind leaves, pod husks, crop residues, or any organic material. A mature tamarind produces abundant [[dighton-fungal-decomposition-leaf-litter-dynamics]] that self-mulches to some degree.
 
 ## Step 7: Harvesting
 
@@ -53,12 +53,16 @@ Continue annual mulching for the life of the tree. Use fallen tamarind leaves, p
 
 | Problem | Cause | Solution |
 |---|---|---|
-| Yellowing leaves | Overwatering or poor drainage | Improve drainage, reduce watering, check for root rot |
+| Yellowing leaves | Overwatering or poor drainage | Improve drainage, reduce watering, check for [[cannabis-root-rot-prevention-and-treatment]] |
 | No fruit | Tree too young, or insufficient dry season | Be patient (up to 8 years for seedlings); ensure dry period |
+
 ## See Also
 
+- [[query-how-to-grow-amaranth-for-grain-and-greens]]
+
 - [[comparison-tamarind-vs-carob]] — tamarind compared to its Mediterranean analog
-- [[gaias-garden-hedgerows-and-windbreaks]] — tamarind as a windbreak species
+- gaias-garden-hedgerows-and-windbreaks — tamarind as a windbreak species
+
 ## Practical Considerations
 
 Successful implementation of How to Grow and Care for a Tamarind Tree requires attention to
@@ -77,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

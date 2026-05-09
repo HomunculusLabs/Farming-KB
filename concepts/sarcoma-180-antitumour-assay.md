@@ -61,11 +61,11 @@ In pre-clinical S-180 models, [[lentinan-pre-clinical-antitumour-models]] and sc
 - Intraperitoneal administration (primary screen) bypasses first-pass metabolism and may overestimate oral bioavailability
 - The assay does not distinguish between immunomodulatory and direct cytotoxic mechanisms
 - Results in this model have not always translated to clinical success in human trials
-- While many mushroom polysaccharides show "considerable antitumour activity in several xenographs only a limited number have undergone clinical trials"
+- While many mushroom polysaccharides show "considerable antitumour activity in several xenographs only a limited number have undergone [[mushroom-cancer-clinical-trials-overview]]"
 
 ## Cancer Chemoprevention Studies
 
-Beyond purified compounds, the S-180 model has been used to demonstrate chemopreventive effects of whole mushroom dietary supplementation. Diets enriched with 5-20% dried mushroom powder (L. edodes, G. frondosa, P. ostreatus) significantly reduced tumour incidence in carcinogen-treated mice, suggesting a role for [[mycoremediation-scale-up-challenges]]
+Beyond purified compounds, the S-180 model has been used to demonstrate chemopreventive effects of whole [[medicinal-mushroom-dietary-supplements]] supplementation. Diets enriched with 5-20% dried mushroom powder (L. edodes, G. frondosa, P. ostreatus) significantly reduced tumour incidence in carcinogen-treated mice, suggesting a role for mycoremediation-scale-up-challenges
 - [[psychedelic-dose-response]]
 ## Practical Considerations
 
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

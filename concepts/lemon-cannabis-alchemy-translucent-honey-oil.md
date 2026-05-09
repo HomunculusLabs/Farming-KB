@@ -11,7 +11,7 @@ type: concept
 
 # Preparation of Translucent (Honey) Oil
 
-Chapter 8 of *Cannabis Alchemy* by [[lemon-cannabis-alchemy-thc-extraction-purification]]
+Chapter 8 of *[[lemon-cannabis-alchemy-advanced-refinement-techniques]]* by [[lemon-cannabis-alchemy-thc-extraction-purification]]
 - [[lemon-cannabis-alchemy-thc-acetate]]
 - [[lemon-cannabis-alchemy-direct-vaporization]]
 ## Background and Context
@@ -143,3 +143,6 @@ conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
 
+## See Also
+
+- [[lemon-cannabis-alchemy-oil-capsules]]

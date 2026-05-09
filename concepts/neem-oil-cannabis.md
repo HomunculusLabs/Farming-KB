@@ -3,6 +3,7 @@ title: Neem Oil and Neem Products - Cannabis Pest Control
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
@@ -11,11 +12,11 @@ tags: [cannabis]
 
 # Neem Oil and Neem Products for Cannabis
 
-Neem has been used for medicine and pest control for more than four centuries in India and Southeast Asia. Extracted from the Indian neem tree (Azadirachta indica) or the chinaberry tree (Melia azedarach), neem products act as antifeedants and disrupt insect life cycles. The neem tree is known as the "village pharmacy" because it supplies cures for humans and animals as well as safely controlling countless pests and fungi.
+Neem has been used for medicine and pest control for more than four centuries in India and [[psilocybe-southeast-asia-pacific]]. Extracted from the Indian neem tree (Azadirachta indica) or the chinaberry tree (Melia azedarach), neem products act as antifeedants and disrupt insect life cycles. The neem tree is known as the "village pharmacy" because it supplies cures for humans and animals as well as safely controlling countless pests and fungi.
 
 ## Neem Powder vs Neem Oil
 
-Two primary neem products are used in cannabis cultivation, each with distinct properties:
+Two primary neem products are used in [[query-how-does-no-till-cannabis-cultivation-work]], each with distinct properties:
 
 ### Neem Powder
 
@@ -42,7 +43,7 @@ Because azadirachtin works on growth regulation rather than as a direct neurotox
 |---------|--------------|
 | Neem powder | Caterpillars, whitefly larvae, fungus gnat larvae, mealybugs, leafminers |
 | Neem oil | Spider mites, fungus gnats, aphids |
-| Both | Powdery mildew (fungistat), rust fungi |
+| Both | [[cervantes-powdery-mildew-prevention-treatment]] (fungistat), rust fungi |
 
 Neem powder is most effective against soft-bodied immature insects. Neem oil is particularly effective against [[aphids-cannabis]] and [[powdery-mildew-cannabis]].
 
@@ -65,7 +66,7 @@ Two primary application methods are used:
 
 1. **Foliar spray**: Spray on foliage, especially under leaves where pests congregate. Spray heavily so pests have little choice but to contact or ingest the treatment. Performs best in rooms with 60%+ humidity. Apply every few days so hatching larvae will encounter the treatment immediately.
 
-2. **Soil drench / systemic application**: Add to nutrient solution or apply as a soil drench. This allows neem to enter the plant's vascular tissue and become systemic, providing internal protection. Once absorbed via roots, neem persists in the plant system.
+2. **Soil drench / systemic application**: Add to [[cannabis-nutrient-solution-preparation]] or apply as a soil drench. This allows neem to enter the plant's vascular tissue and become systemic, providing internal protection. Once absorbed via roots, neem persists in the plant system.
 
 ## Application Frequency and Persistence
 
@@ -74,14 +75,14 @@ Two primary application methods are used:
 - **Foliar spray frequency**: Every few days for active infestations, to catch hatching larvae
 - **Avoid spraying** the last few days before harvest -- some growers report a foul taste when neem is applied just before harvest
 
-See [[cannabis-flushing-before-harvest]] for harvest timing guidance.
+See [[cannabis-flushing-before-harvest]] for [[cannabis-harvest-timing-visual-cues]] guidance.
 
 ## Toxicity and Safety
 
 ### Environmental Toxicity
 
 - Not toxic to honeybees, fish, or earthworms (neem powder)
-- Not toxic to beneficial insects at normal concentrations that kill target pests (neem powder)
+- Not toxic to [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] at normal concentrations that kill target pests (neem powder)
 - Neem oil has reported toxicity to some beneficial insects -- use caution when combining with [[bud-rot-cannabis]].
 
 ## Additional Organic Spray Ingredients

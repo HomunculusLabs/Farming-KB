@@ -32,7 +32,7 @@ sources:
 ## Overview
 
 **L-Theanine** (γ-glutamylethylamide) is a non-proteinogenic amino acid found almost
-exclusively in tea plants (*Camellia sinensis*), where it constitutes 1–2% of dry leaf
+exclusively in tea plants (*[[camellia-sinensis-entity]]*), where it constitutes 1–2% of dry leaf
 weight. First identified in green tea in 1949, it is responsible for the characteristic
 "umami" flavor of high-quality tea and for the calming, focused alertness that
 distinguishes tea stimulation from coffee.
@@ -58,7 +58,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,3 +101,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[tianeptine]]

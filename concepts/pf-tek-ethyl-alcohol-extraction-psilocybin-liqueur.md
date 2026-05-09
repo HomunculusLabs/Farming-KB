@@ -69,12 +69,14 @@ The syringe-based dispensing system provides accuracy that is particularly impor
 
 ## Relationship to Other PF TEK Techniques
 
-This extraction method is designed to work optimally with mushrooms produced using the PF TEK cultivation method — specifically, young specimens harvested before veil rupture and cool-dried with desiccant. The desiccant drying technique preserves maximum alkaloid content, which is essential for producing a potent extract.
+This extraction method is designed to work optimally with mushrooms produced using the PF TEK [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] — specifically, young specimens harvested before veil rupture and cool-dried with desiccant. The [[mushroom-desiccant-drying-methods]] technique preserves maximum alkaloid content, which is essential for producing a potent extract.
 
 The 200 proof ethyl alcohol used for extraction can also serve as a surface sterilizer for the cultivation process, making it a dual-purpose material in the PF TEK system.
 
 ## See Also
 
 - [[pf-tek-psilocybin-dosage-reference]]
-- [[pf-tek-ethyl-alcohol-procurement-guide]]
+- pf-tek-ethyl-alcohol-procurement-guide
 - [[pf-tek-alcohol-extraction-method]]
+
+- [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]]

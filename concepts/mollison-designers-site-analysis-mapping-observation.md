@@ -1,5 +1,5 @@
 ---
-title: Site Analysis, Mapping and Observation
+title: mollison-climate-site-analysis-permaculture, Mapping and Observation
 created: 2026-04-28
 tags:
   - permaculture
@@ -38,7 +38,7 @@ Mollison emphasizes the importance of gathering comprehensive climate data
 for the site and region:
 
 **Temperature**: Average monthly temperatures, extreme highs and lows, first
-and last frost dates, growing season length, heating and cooling degree days.
+and last frost dates, [[savory-growing-season-and-non-growing-season-management]] length, heating and cooling degree days.
 Local microclimate may differ significantly from regional averages.
 
 **Precipitation**: Monthly and annual rainfall averages, seasonal
@@ -53,18 +53,18 @@ selection and water management. Evaporation rates determine irrigation needs
 and water storage sizing.
 
 **Sunshine hours**: Cloud cover patterns and solar radiation data inform
-solar energy systems and crop selection.
+[[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] systems and [[cover-crop-selection-guide]].
 
 Mollison notes that long-term climate records (20+ years) provide the most
 reliable basis for design, but recent trends should also be considered for
-climate change adaptation.
+[[dighton-fungi-climate-change-feedback]] adaptation.
 
 ## Soil Survey
 
 A comprehensive soil survey is central to site analysis. Walk the site in a
 grid pattern, examining soil at regular intervals. Note changes in type,
 depth, and condition to create a soil map. Laboratory analysis of
-representative samples provides pH, nutrient levels, organic matter, and
+representative samples provides pH, nutrient levels, [[hamilton-composting-and-organic-matter-management]], and
 texture data. Assess soil structure by examining aggregation, porosity, root
 penetration, and earthworm activity. Map existing erosion features -- gullies,
 sheet erosion, tunnel erosion -- and identify causes. Soil survey data directly

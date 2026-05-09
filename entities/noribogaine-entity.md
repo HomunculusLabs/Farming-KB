@@ -21,7 +21,7 @@ sources:
 # Noribogaine
 
 **Noribogaine** (12-hydroxyibogamine) is the primary active metabolite of
-ibogaine, a psychoactive indole alkaloid from the root bark of *Tabernanthe
+ibogaine, a psychoactive [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] from the [[iboga-root-bark-preparation]] of *Tabernanthe
 iboga*. It is a long-acting compound with significant pharmacological activity
 at multiple receptor systems. Noribogaine is increasingly recognized as the
 principal mediator of ibogaine's anti-addictive effects, with a plasma
@@ -103,11 +103,11 @@ session.
 
 Noribogaine is not individually scheduled in most jurisdictions but is
 generally treated as a controlled substance analogue of ibogaine. Ibogaine
-is classified as a Schedule I substance in the United States. In countries
+is classified as a Schedule I substance in the [[dmt-containing-plants-united-states-halpern]]. In countries
 where ibogaine is uncontrolled or available for medical use (Brazil, South
 Africa, New Zealand, Mexico), noribogaine status follows that of the parent
 compound. Research-grade noribogaine has been investigated in Phase I
-clinical trials under regulatory approval in New Zealand.
+[[mushroom-cancer-clinical-trials-overview]] under regulatory approval in New Zealand.
 
 ## History and Research
 

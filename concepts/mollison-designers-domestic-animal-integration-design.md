@@ -1,5 +1,5 @@
 ---
-title: Domestic Animal Integration Design
+title: Domestic mollison-animal-integration-permaculture-design Design
 created: 2026-04-28
 tags:
   - animal-systems
@@ -16,11 +16,11 @@ type: concept
 
 # Domestic Animal Integration Design
 
-Bill Mollison's Permaculture: A Designers Manual devotes considerable
+[[bill-mollison]]'s Permaculture: A [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] devotes considerable
 attention to the integration of domestic animals into designed
 ecosystems. Rather than treating animals as isolated production units,
 permaculture designs them as functional elements that cycle nutrients,
-control pests, prepare ground for planting, and produce food, fiber,
+[[query-how-to-control-pests-without-chemicals]], prepare ground for planting, and produce food, fiber,
 and fertility within diverse polycultural systems.
 
 ## Design Principles for Animal Integration
@@ -29,13 +29,13 @@ Mollison establishes several key principles for incorporating animals
 into permaculture designs:
 
 - Every animal should perform multiple functions (yield, manure, pest
-  control, soil aeration, weed management)
+  control, soil aeration, [[fukuoka-weed-management-and-green-manure]])
 - Animal systems should be positioned to minimize energy inputs
   (feeding, watering, moving) and maximize beneficial outputs
 - Animal numbers should match the carrying capacity of the system to
   prevent overgrazing and soil degradation
 - Animal housing should integrate with other system elements (greenhouses,
-  composting areas, [[compost-building-guide]] and [[permaculture-zone-one-design]] gardens and [[aquaculture-in-permaculture]] ponds and rice paddies
+  [[composting]] areas, [[compost-building-guide]] and permaculture-zone-one-design gardens and aquaculture-in-permaculture ponds and rice paddies
 - Duck eggs are larger and richer than chicken eggs; duck meat is
   a high-quality protein source
 
@@ -58,7 +58,7 @@ valuable manure. Mollison describes their role in permaculture systems:
 Goats serve as browsers and brush controllers in permaculture systems:
 
 - Goats preferentially eat woody plants, thistles, brambles, and
-  broadleaf weeds, making them excellent for [[mollison-designers-house-site-preparation-and-drainage-design]] before planting
+  broadleaf weeds, making them excellent for mollison-designers-house-site-preparation-and-drainage-design before planting
 - Pig manure is high in nutrients and, when composted with carbon
   material, produces excellent fertilizer
 - Pigs can be run through orchards after harvest to clean up fallen
@@ -75,9 +75,9 @@ system. Mollison describes several strategies:
 
 - **Deep bedding composting:** Animals on thick carbon beds produce
   compost in situ
-- **Anaerobic digestion:** Biogas from animal manure produces cooking
+- **[[biogas-digester-basics]]:** Biogas from animal manure produces cooking
   fuel and nutrient-rich effluent
-- **Worm farming (vermiculture):** Animal manure feeds worm populations
+- **[[comparison-worm-farming-vs-bsf-larvae]] (vermiculture):** Animal manure feeds worm populations
   that produce castings for garden use
 - **Aquaculture integration:** Animal manure (particularly duck)
   fertilizes pond systems, supporting fish and aquatic plant production

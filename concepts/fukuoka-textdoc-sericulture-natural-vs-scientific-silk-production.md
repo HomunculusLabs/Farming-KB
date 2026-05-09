@@ -1,5 +1,5 @@
 ---
-title: Sericulture — Natural vs Scientific Silk Production
+title: Sericulture — fukuoka-natural-vs-scientific-farming Silk Production
 created: 2026-04-28
 tags:
   - fukuoka
@@ -23,10 +23,10 @@ type: concept
 
 - Throwing entire branches of mulberry leaves onto the silkworms worked as well as picking and chopping leaves individually
 - Young silkworms thrived on this crude method just as well as fully-grown larvae
-- Silkworms proved remarkably hardy and did not require constant temperature and humidity control
+- Silkworms proved remarkably hardy and did not require constant [[greg-green-temperature-and-humidity-control]] control
 - Rearing under the eaves of houses worked well, and eventually silkworms were raised outdoors and even released into nearby trees
 
-The realization was striking: originally a creature of nature, the silkworm had thrived outdoors day and night. Only humans had feared the evening dew. Sericulture appeared to be headed decisively in the direction of natural farming.
+The realization was striking: originally a creature of nature, the silkworm had thrived outdoors day and night. Only humans had feared the evening dew. Sericulture appeared to be headed decisively in the direction of [[comparison-natural-farming-vs-permaculture]].
 
 ## The Collapse and Scientific Rebound
 
@@ -39,19 +39,19 @@ The apparent return to natural methods was interrupted not by agricultural reaso
 
 ## Industrial Sericulture
 
-The new industrial sericulture represents the extreme end of scientific agriculture:
+The new industrial sericulture represents the extreme end of [[fukuoka-critique-scientific-agriculture-civilization]]:
 
 - **Artificial feed**: Prepared from mulberry leaf powder, soybean powder, wheat powder, starch, fats, vitamins, preservatives, and sterilized components. Eventually to be replaced by totally synthetic petrochemical-based feed.
 - **Automated environment**: Fully outfitted facilities with heating, air conditioning, automatic lighting and ventilation adjustment.
 - **Conveyor systems**: Feed carried in and droppings carried out on belt conveyors.
-- **Disease control**: Rooms hermetically sealed and disinfected with gas when disease breaks out.
+- **[[hamilton-pest-and-disease-control-organic]]**: Rooms hermetically sealed and disinfected with gas when disease breaks out.
 - **Full automation**: All feeding and cocoon collection operations fully automated.
 
 Natural silk, once the product of mountain forests and patient farmers, had become a factory commodity. The starting material remained mulberry leaves only temporarily; the trajectory pointed toward total synthesis from petrochemicals.
 
 ## The Pattern of Non-Return
 
-Fukuoka emphasizes that sericulture did not truly return to nature even during its apparent natural phase. The two paths — natural farming and scientific farming — proceed in opposite directions:
+Fukuoka emphasizes that sericulture did not truly return to nature even during its apparent natural phase. The two paths — natural farming and [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] — proceed in opposite directions:
 
 - **Natural farming** proceeds centripetally inward toward "nothingness" (Mu), compressing and freezing time and space by the elimination of human labor.
 - **Scientific farming** proceeds centrifugally outward toward "somethingness," expanding and developing through increasingly complex and diverse means.
@@ -89,4 +89,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

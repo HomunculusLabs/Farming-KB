@@ -47,9 +47,9 @@ The land itself was never the constraint; the social system was.
 
 ## The Hundred-Crop Farm
 
-Farmers at the time were said to grow a hundred crops. In the paddy field and vegetable gardens, they raised rice, barley, and other grains, as well as sweet potato and many different vegetables. Fruits ripened on trees next to the farmhouse, which was surrounded by a shelterbelt.
+Farmers at the time were said to grow a hundred crops. In the paddy field and [[maintaining-organic-matter-in-vegetable-gardens]], they raised rice, barley, and other grains, as well as sweet potato and many different vegetables. Fruits ripened on trees next to the farmhouse, which was surrounded by a shelterbelt.
 
-A cow was kept under the same roof and chickens ran about loose in the farmyard, protected by a dog. A beehive hung from the eaves. This model of diversified, integrated farming stands in stark contrast to the monoculture systems that dominate modern agriculture.
+A cow was kept under the same roof and chickens ran about loose in the farmyard, protected by a dog. A beehive hung from the eaves. This model of diversified, [[ultra-low-cost-integrated-farming]] stands in stark contrast to the monoculture systems that dominate [[fukuoka-critique-modern-agriculture]].
 
 ## An Integrated Ecosystem, Not a Factory
 
@@ -61,7 +61,7 @@ The farmer's family provided the labor, and the land provided everything they ne
 
 All peasants were totally self-supporting and enjoyed the richest and safest possible diet. That they are seen as having been poor and hungry may well reflect the envy of modern man more than anything else.
 
-People today have never had the experience of living independently by their own devices, so they know neither spiritual nor material poverty and abundance. The modern person judges the traditional farmer's life by the standards of consumer society and finds it wanting, never realizing that the farmer possessed a form of wealth, security, and connection to the land that money cannot buy.
+People today have never had the experience of living independently by their own devices, so they know neither spiritual nor material poverty and abundance. The modern person judges the [[fukuoka-textdoc-traditional-farmer-philosophy-mu-nothingness]]'s life by the standards of consumer society and finds it wanting, never realizing that the farmer possessed a form of wealth, security, and connection to the land that money cannot buy.
 
 ## The Proof: Bigger Farms, Greater Instability
 
@@ -89,7 +89,7 @@ Granted Japan's farmers are among the most diligent in the world and with their 
 
 ## Low Labor Productivity as a Point of Pride
 
-If anything, the low labor productivity of Japan's farmers in spite of their high yields is cause for pride rather than shame. Low income merely indicates either that prices for produce are unreasonably low or that farming equipment and materials are unfairly high, inflating production costs.
+If anything, the low labor productivity of Japan's farmers in spite of their high yields is cause for pride rather than shame. Low income merely indicates either that prices for produce are unreasonably low or that farming [[oss-oeric-equipment-and-materials-list]] are unfairly high, inflating production costs.
 
 The farmers have never had any control over the price of farm produce or the costs of materials used in crop production. It is the consumer who determines whether the prices of farm products will be high or low. Farmers never calculated the wages for their labor because farming was done aside from any considerations over money.
 
@@ -117,12 +117,12 @@ The proposal for quarter-acre farming is a call to escape from a currency-based 
 
 ## Food Should Not Be Priced Competitively
 
-Whether agricultural crops have prices at all is the deeper question. What sense is there in importing oranges from the United States and exporting mandarin oranges? Agricultural crops grown by natural farming should be assessed on the basis of a natural economy rather than a currency-based one.
+Whether [[fungal-endophytes-agricultural-crops]] have prices at all is the deeper question. What sense is there in importing oranges from the United States and exporting mandarin oranges? Agricultural crops grown by [[natural-farming]] should be assessed on the basis of a natural economy rather than a currency-based one.
 
 The price of Japanese rice, the price of Thai rice, and the farmer's price for rice should not be compared in terms of money but in terms of the relationship each has to the land and the people who eat it. Food is sacred, and reducing it to a commodity traded on international markets is a fundamental error.
 
 ## See Also
 
-- [[fukuoka-textdoc-mu-economics-natural-farming-beyond-money]]
+- fukuoka-textdoc-mu-economics-natural-farming-beyond-money
 - [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]]
 - [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]

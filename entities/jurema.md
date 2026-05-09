@@ -37,7 +37,7 @@ The taxonomic distinction between M. tenuiflora and M. hostilis has been debated
 
 M. tenuiflora is a fast-growing, multi-stemmed shrub or small tree reaching 4–8 m in height, though it is often shorter in harsh conditions. Key morphological features include:
 
-- **Bark:** Dark brown to gray, rough and fissured; inner bark is reddish-pink, the characteristic feature used in Mexican traditional medicine. Root bark is the primary psychoactive plant part
+- **Bark:** Dark brown to gray, rough and fissured; inner bark is reddish-pink, the characteristic feature used in Mexican traditional medicine. [[iboga-root-bark-preparation]] is the primary psychoactive plant part
 - **Leaves:** Bipinnately compound, 5–10 cm long, with 2–4 pairs of pinnae, each bearing 10–20 pairs of tiny linear leaflets 3–6 mm long. The sensitive leaves fold when disturbed (seismonastic movement), a characteristic of the genus
 - **Flowers:** Spikes of fragrant white to pale yellow staminate flowers, 2–4 cm long, appearing after rainfall events
 - **Fruit:** Flat, brittle pods 3–6 cm × 6–10 mm, containing 3–5 brown oval seeds 2–3 mm long
@@ -45,11 +45,11 @@ M. tenuiflora is a fast-growing, multi-stemmed shrub or small tree reaching 4–
 
 ## Distribution and Ecology
 
-- **Native range:** Northeastern Brazil (Caatinga biome), extending through Central America to southern Mexico (Chiapas, Oaxaca)
+- **Native range:** Northeastern Brazil (Caatinga biome), extending through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to southern Mexico (Chiapas, Oaxaca)
 - **Introduced/naturalized:** Parts of the Caribbean, tropical Africa, and Asia
 - **Habitat:** Semi-arid tropical and subtropical regions; dominant component of Caatinga vegetation in northeastern Brazil; also found in secondary growth, disturbed areas, and dry deciduous forests
 
-The species is exceptionally drought-tolerant and fire-resistant, resprouting vigorously from the root crown after cutting or fire. It is a pioneer species that colonizes degraded land and contributes to soil recovery through nitrogen fixation.
+The species is exceptionally drought-tolerant and fire-resistant, resprouting vigorously from the root crown after cutting or fire. It is a pioneer species that colonizes degraded land and contributes to soil recovery through [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 
 ## Phytochemistry
 
@@ -77,7 +77,7 @@ The inner root bark (cambium layer) contains the highest alkaloid concentrations
 
 ### Brazilian Jurema Traditions
 
-The psychoactive use of M. tenuiflora root bark has been documented in northeastern Brazil since at least the 18th century, and likely predates European contact. Traditional preparation methods include:
+The psychoactive use of M. tenuiflora root bark has been documented in northeastern Brazil since at least the 18th century, and likely predates European contact. [[kava-traditional-preparation-ceremonial-context]] methods include:
 
 - **Jurema wine (vinho de jurema):** Root bark is macerated or decocted, often in combination with other plants, to produce a fermented or unfermented beverage consumed in communal ceremonial contexts. Indigenous groups including the Kariri-Xocó, Fulniô, and Atikum continue these practices
 - **Traditional ceremonies:** Often involve singing, dancing, and contact with ancestral spirits. The jurema ceremony (toré) was suppressed during colonial and post-colonial periods but has experienced revival since the 1980s
@@ -89,10 +89,10 @@ In Mexico, M. tenuiflora is used primarily for dermatological purposes, with no 
 
 - **Burn treatment:** The inner bark powder is applied topically to burns, promoting rapid re-epithelialization and reducing scarring. This use became internationally known after the 1984 San Juan Ixhuatepec gas explosion in Mexico City, where burn victims were treated with tepezcohuite
 - **Wound healing:** Applied to cuts, abrasions, and skin ulcers
-- **Anti-inflammatory:** Bark decoctions used for inflammatory skin conditions
+- **Anti-inflammatory:** Bark decoctions used for inflammatory [[cannabis-for-skin-conditions-detailed]]
 - **Antimicrobial:** Demonstrated in vitro activity against Staphylococcus aureus, Escherichia coli, and [[peganum-harmala]] ([[syrian-rue]]) or Banisteriopsis caapi to create orally active DMT preparations (anahuasca, jurema)
 - **Pharmahuasca:** The extracted DMT is combined with pharmaceutical harmine/harmaline
-- **Changa:** DMT extracted from root bark is infused onto smokable herb blends with harmala alkaloids
+- **Changa:** DMT extracted from root bark is infused onto smokable herb blends with [[turner-harmala-alkaloids-preparation-and-dosage]]
 - **Freebase extraction:** DMT is extracted using standard acid-base extraction techniques (typically with sodium hydroxide and naphtha)
 
 The root bark is commercially available through botanical suppliers, though several countries have restricted its sale or importation due to its DMT content.

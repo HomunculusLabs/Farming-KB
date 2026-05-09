@@ -1,5 +1,5 @@
 ---
-title: The Garden of Eden — Mushroom Paradise (Allegro)
+title: The allegro garden of eden and delight — Mushroom Paradise (Allegro)
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # The Garden of Eden — Mushroom Paradise
 
-Allegro argues that the biblical Garden of Eden narrative, far from being a unique Hebrew creation myth, is a reinterpretation of ancient Sumerian fertility-cult stories about the sacred mushroom grove — the paradise where the god planted his phallus and where the serpent, the mushroom itself, offered knowledge.
+Allegro argues that the biblical Garden of Eden narrative, far from being a unique Hebrew creation myth, is a reinterpretation of ancient Sumerian fertility-cult stories about the [[allegro-the-sacred-mushroom-amanita-identification]] grove — the paradise where the god planted his phallus and where the serpent, the mushroom itself, offered knowledge.
 
 ## Eden as the Mushroom Grove
 
@@ -20,7 +20,7 @@ The Lord God "planted a garden in Eden, in the east, and there he put the man wh
 
 ## The Two Trees: Life and Knowledge
 
-The Tree of Life and the Tree of the Knowledge of Good and Evil are, in Allegro's reading, two aspects of the same sacred mushroom. The Amanita muscaria gives both life (regeneration, immortality through ecstatic experience) and knowledge (the visionary insights of the psychedelic experience). The prohibition against eating from the Tree of Knowledge is a later "cover story" — originally the mushroom was consumed freely by the cult's initiates.
+The Tree of Life and the Tree of the Knowledge of Good and Evil are, in Allegro's reading, two aspects of the same sacred mushroom. The [[allegro-amanita-muscaria-properties-and-pharmacology]] gives both life (regeneration, immortality through ecstatic experience) and knowledge (the visionary insights of the [[leary-psychedelic-experience-bardo-mapping]]). The prohibition against eating from the Tree of Knowledge is a later "cover story" — originally the mushroom was consumed freely by the cult's initiates.
 
 ## The Serpent as the Mushroom
 
@@ -30,7 +30,7 @@ The curse upon the serpent — "upon your belly you shall go, and dust you shall
 
 ## Babel and the Destruction of Paradise
 
-The Tower of Babel story (Gen 11:1-9) records, in mythical form, the destruction of the mushroom cult and the scattering of its language. Babel (Bab-El) is the "Gate of God" — the original name of Babylon, but in the Sumerian cryptogram it relates to the mushroom's name for the divine phallus. The "confusion of languages" is the loss of the Sumerian cryptographic key that once made the mushroom names comprehensible.
+The Tower of Babel story (Gen 11:1-9) records, in mythical form, the destruction of the mushroom cult and the scattering of its language. Babel (Bab-El) is the "Gate of God" — the original name of Babylon, but in the Sumerian cryptogram it relates to the mushroom's name for the divine phallus. The "confusion of languages" is the loss of the Sumerian cryptographic key that once made the [[sacred-mushroom-names-cross-cultural-synonyms]] comprehensible.
 
 Allegro notes that the name Babel was deliberately made to sound like balal ("confuse") for the purposes of the story: "Therefore its name was called Babel, because there the Lord confused the language of all the earth" (Gen 11:9). This is exactly the kind of word-play the biblical cryptographers employed everywhere.
 
@@ -48,7 +48,7 @@ Allegro extends the Eden theme to Noah's vineyard (Gen 9:20-27). The "vine" plan
 
 ## Scholarly Significance and Criticism
 
-Allegro's interpretation of death and resurrection mythology as mushroom-derived remains one of the most contested aspects of [[sacred-mushroom-hypothesis]] he advanced prefigured later, more methodologically rigorous investigations. Archaeobotanical research has confirmed psychoactive plant use at numerous ancient sites (including ergot alkaloids in Egyptian beer residues and psychoactive plant traces in Scythian burial sites). Ethnomycologists including R. Gordon Wasson, who independently proposed Amanita muscaria use in Vedic India (the [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
+Allegro's interpretation of [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[sacred-mushroom-hypothesis]] he advanced prefigured later, more methodologically rigorous investigations. Archaeobotanical research has confirmed psychoactive plant use at numerous ancient sites (including ergot alkaloids in Egyptian beer residues and psychoactive plant traces in Scythian burial sites). Ethnomycologists including R. Gordon Wasson, who independently proposed Amanita muscaria use in Vedic India (the [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
 
 This topic connects to broader themes explored throughout the wiki.
 
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

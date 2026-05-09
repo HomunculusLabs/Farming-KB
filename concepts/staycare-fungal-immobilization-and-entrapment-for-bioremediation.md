@@ -1,5 +1,5 @@
 ---
-title: "Fungal Immobilization and Entrapment for Bioremediation"
+title: "singh-fungal-immobilization-bioreactor-technology and Entrapment for Bioremediation"
 created: 2026-04-28
 tags: [bioremediation, immobilization, alginate, bioaugmentation, biocontrol]
 date: 2026-04-25
@@ -17,7 +17,7 @@ that improve the survival, delivery, and effectiveness of fungi introduced
 into contaminated environments for bioremediation. These techniques embed
 fungal mycelia, spores, or propagules within protective carrier matrices,
 providing a controlled microhabitat that shields the inoculum from
-competition with indigenous microorganisms and environmental stress. The
+competition with [[beneficial-indigenous-microorganisms-bim]] and environmental stress. The
 primary carriers used include calcium alginate, polyurethane foam, and
 pelleted solid substrates.
 
@@ -26,7 +26,7 @@ pelleted solid substrates.
 Calcium alginate is the most widely studied carrier for fungal
 immobilization in bioremediation. It forms a hydrogel matrix when sodium
 alginate contacts calcium ions, entrapping fungal cells in a porous
-structure that permits nutrient exchange and enzyme diffusion. Research
+structure that permits [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] and enzyme diffusion. Research
 groups at the USDA Forest Products Laboratory and Tulane University have
 independently converged on alginate encapsulation as the most effective
 delivery method after testing numerous alternatives.
@@ -68,7 +68,7 @@ in packed bed reactor configurations.
 ## Biofilm Reactors and Continuous Systems
 
 Silicone membrane biofilm reactors have been used to study fungal
-lignin peroxidase (LiP) production. Immobilized-cell reactors using
+[[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP) production. Immobilized-cell reactors using
 white rot fungus on wood chips have been applied in packed bed
 configurations for continuous effluent treatment. White rot mycelia are
 rugged enough to withstand repeated use and can be stored for several
@@ -80,7 +80,7 @@ decolorize immediately upon reintroduction.
 There have been several reports of immobilized enzymes (LiP or MnP) for
 decolorization. Although immobilization may stabilize enzymes, it is
 usually associated with some initial loss of activity. It seems unlikely
-that immobilized ligninolytic enzymes will offer advantages over the use
+that immobilized [[singh-ligninolytic-enzymes-fungal-bioremediation]] will offer advantages over the use
 of intact mycelia for large-scale applications, since mycelia
 continuously produce fresh enzyme and can self-repair.
 
@@ -106,10 +106,12 @@ viability, with refrigerated storage significantly extending usable life.
 ## Challenges
 
 Competition from indigenous microorganisms remains the primary challenge
-for immobilized fungal inocula. Non-aseptic conditions often lead to
+for [[singh-immobilized-fungal-bioreactors-wastewater-treatment]] inocula. Non-aseptic conditions often lead to
 treatment failure as faster-growing organisms consume added nutrients.
 
 ## See Also
+
+- [[disenchantment-and-modern-craving-for-fungal-enchantment]]
 
 - [[staycare-bjerkandera-and-pleurotus-in-pollutant-degradation]]
 - [[staycare-surfactant-enhanced-bioavailability-in-fungal-bioremediation]]

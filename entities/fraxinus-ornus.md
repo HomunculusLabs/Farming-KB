@@ -13,7 +13,7 @@ sources:
   - Sficas, A.D. (1980). "Fraxinus ornus L. (manna ash)." Economic Botany, 34(2), 168–176.
   - Tutin, T.G. et al. (1968–1980). "Flora Europaea, Vol. 4." Cambridge University Press.
   - Pieroni, A. et al. (2002). "Ethnobotanical knowledge in south-eastern Italy." Journal of Ethnopharmacology, 79(2), 217–228.
-  - Christensen, K.I. (2004). "Fraxinus." In: Flora of North America, Vol. 8, Oxford University Press.
+  - Christensen, K.I. (2004). "Fraxinus." In: Flora of [[psilocybin-north-america-pacific-northwest]], Vol. 8, Oxford University Press.
   - Rivera, D. et al. (2006). "Manna: a traditional product of Southern Italy." Economic Botany, 60(3), 259–266.
 ---
 
@@ -91,7 +91,7 @@ Young trees establish quickly and can begin flowering within 5–8 years from se
 
 *Fraxinus ornus* provides habitat and food for numerous insects and birds. The flowers attract bees, hoverflies, and beetles, while the leaves support larvae of several Lepidoptera species.
 
-The canopy offers shade and shelter in warm Mediterranean woodlands. Fallen leaves contribute to soil organic matter and support decomposer communities.
+The canopy offers shade and shelter in warm Mediterranean woodlands. Fallen leaves contribute to soil [[hamilton-composting-and-organic-matter-management]] and support decomposer communities.
 
 The species is susceptible to ash dieback disease (*Hymenoscyphus fraxineus*), though it shows greater resistance than *F. excelsior*. This may become increasingly important as the disease spreads across Europe.
 

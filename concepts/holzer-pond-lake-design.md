@@ -1,5 +1,5 @@
 ---
-title: Holzer Pond and Lake Design
+title: sepp-holzer-pond-construction and Lake Design
 created: 2026-04-26
 tags:
   - water-management
@@ -16,7 +16,7 @@ type: concept
 
 # Holzer Pond and Lake Design
 
-Sepp Holzer has developed a detailed methodology for designing and building
+[[comparison-sepp-holzer-vs-biodynamic]] has developed a detailed methodology for designing and building
 ponds and lakes that work with nature to create self-cleansing, biodiverse
 water bodies. His approach contrasts sharply with conventional pond
 construction that produces static, deteriorating water. This is part of his
@@ -34,7 +34,7 @@ broader [[biodiversity-fungi-soil-fungal-communities]] by attracting as many
 The lake should be aligned lengthwise in the direction of the prevailing
 wind, typically west to east. A Y-shape is particularly beneficial as it
 creates long waves that move with the gentlest of winds. Each wave brings
-oxygen to the lake and carries pollen, humus, leaves, and organic matter to
+oxygen to the lake and carries pollen, humus, leaves, and [[hamilton-composting-and-organic-matter-management]] to
 the banks. When banks are planted with reed, water lilies, and bullrush,
 these particles are retained and become nutrients for vegetation, keeping the
 water clear.
@@ -70,7 +70,7 @@ water lilies offer young fish places to hide.
 
 ## Fish Integration
 
-Fish belong in any pond or lake for ecological balance. A diverse habitat
+Fish belong in any pond or lake for [[fukuoka-ecological-balance-principles]]. A diverse habitat
 with stone hills on the lake bed, tree trunks, and varied bank vegetation
 allows predatory and non-predatory fish to coexist. Non-predatory fish find
 hiding spaces, while predatory fish like pike, zander, and catfish regulate
@@ -86,7 +86,7 @@ pole-built structures keep waterfowl safe from predators.
 
 ## Dam Construction and Waterproofing
 
-In hilly country, dams are built by excavating deep zones near the dam site
+In hilly country, dams are built by excavating deep zones near the [[mollison-designers-small-dam-site-selection-design]]
 and using the material for the dam itself. Making a pond watertight can be
 achieved through several methods depending on the soil. The Holzer Monk (a
 pivoting overflow drainage system) and pipe-in-pipe systems provide
@@ -99,10 +99,13 @@ and becomes compost for new water plants. The bank zones are highly productive
 areas that can be used to grow vegetables and fruit. Terracing the banks
 prevents soil washing into the lake, improves growing conditions, and keeps
 the water clear. Proximity to water facilitates symbiotic effects: increased
-morning dew, light reflection from the water surface, and natural pest
+morning dew, light reflection from the water surface, and [[cho-natural-pest-control-methods]]
 regulation by ducks.
 
 ## See Also
 
 - [[contour-line-water-management]] for placement principles
-- [[mollison-animal-range-management]] for related animal management concepts
+- mollison-animal-range-management for related animal management concepts
+- [[dam-construction]]
+- [[mollison-pdc-small-pond-frog-habitat-design]]
+- [[comparison-pond-design-vs-dam-construction]]

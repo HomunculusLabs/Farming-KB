@@ -1,5 +1,5 @@
 ---
-title: Basidiomycete Diversity and Taxonomy
+title: biodiversity basidiomycete diversity taxonomy and Taxonomy
 created: 2026-04-28
 tags: [fungi, taxonomy, basidiomycota, biodiversity, systematics]
 date: 2026-04-28
@@ -76,7 +76,7 @@ subclasses Urediniomycetidae (Uredinales and Septobasidiales),
 Microbotryomycetidae, and Agaricostilbomycetidae, as well as
 the Atractiellales and the enigmatic genus Mixia. The
 Uredinales (rusts) contains plant pathogens displaying some
-of the most complex life cycles among fungi, with heteroecious
+of the most complex [[bloomfield-rust-fungi-life-cycles-barberry-wheat]] among fungi, with heteroecious
 species requiring two distantly related hosts and macrocyclic
 forms possessing up to five distinct spore-producing states.
 Basidiomycetous yeasts are polyphyletic, with the order
@@ -87,7 +87,7 @@ Sporidiales including members of no fewer than three clades.
 The Hymenomycetes consists of fleshy forest fungi (mushrooms,
 jelly fungi, shelf fungi) and is united by a unique mycelial
 structure: the dolipore septum, in which cell walls flare near
-the septal pore, and a membrane structure (parenthesome) on
+the [[fungal-woronin-bodies-and-septal-pore-organization]], and a membrane structure (parenthesome) on
 either side. The class includes an estimated eight major clades
 (polyporoid, euagaric, bolete, thelephoroid, russuloid,
 hymenochaetoid, cantharelloid, and gomphoid-phalloid), each
@@ -116,7 +116,7 @@ genomes do not support these artificial groupings.
 ## Ecological Roles
 
 Hymenomycetes fulfill diverse ecological functions: they
-produce mycorrhizae with plants, decay litter and wood, act
+produce [[mycorrhizae]] with plants, decay litter and wood, act
 as plant pathogens, and form symbiotic associations with
 insects. The orders Ceratobasidiales and Tulasnellales include
 plant-pathogenic species (e.g., Rhizoctonia) as well as
@@ -127,6 +127,9 @@ Basidiomycota.
 
 ## See Also
 
-- [[biodiversity-fungi-wood-decay-succession]]
-- [[biodiversity-fungi-plant-mutualisms]]
-- [[biodiversity-fungi-molecular-methods]]
+- biodiversity-fungi-wood-decay-succession
+- biodiversity-fungi-plant-mutualisms
+- biodiversity-fungi-molecular-methods
+- [[biodiversity-ascomycete-diversity-taxonomy]]
+- [[lichenized-fungi-taxonomy-diversity]]
+- [[biodiversity-glomeromycota-diversity]]

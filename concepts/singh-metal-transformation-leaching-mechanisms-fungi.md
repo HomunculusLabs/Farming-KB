@@ -1,5 +1,5 @@
 ---
-title: Mechanisms of Metal Transformation and Leaching by Fungi
+title: Mechanisms of dighton-fungal-metal-transformation-methylation and Leaching by Fungi
 created: 2026-04-26
 tags:
   - metal-transformation
@@ -73,7 +73,7 @@ mycorrhizas and lichenicolous fungi.
 The white-rot fungi Bjerkandera fumosa, Phlebia radiata, and Trametes
 versicolor and the brown-rot fungus Fomitopsis pinicola produce oxalate
 crystals at high levels on metal oxide substrates including ZnO and
-Co3(PO4)2. In brown-rot fungi, induction of oxalic acid production is
+Co3(PO4)2. In brown-rot fungi, induction of oxalic [[staycare-fungal-organic-acid-production-metal-leaching]] is
 related to copper tolerance, with concentrations maintained as high as
 600 micromolar per gram. Oxalic acid production by brown-rot fungi
 facilitates leaching of metals from treated wood.
@@ -89,7 +89,7 @@ chelating compound known as ferrichrome.
 
 Alternaria alternata causes volatilization of substantial amounts of
 selenium to the dimethylselenide form. The volatilization process is
-optimized and used in the fungal bioremediation of contaminated water
+optimized and used in the [[staycare-composting-as-a-fungal-bioremediation-strategy]] of contaminated water
 and land. The mechanism of fungal selenium transformation involves
 biomethylation, converting inorganic selenium species into volatile
 organic forms that can be captured or dispersed.

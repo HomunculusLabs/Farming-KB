@@ -29,7 +29,7 @@ delay that overwintered living crops create when finally turned under.
 ## Season Extension Practicalities
 
 Solomon is pragmatic about season extension. While cold frames and row covers
-can extend the growing season, they require investment in materials and
+can [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season, they require investment in materials and
 management time that must be weighed against the food value of the extended
 harvest. For gardeners focused on calorie self-sufficiency, the highest-value
 use of resources may be maximizing main-season calorie crop production rather
@@ -40,12 +40,12 @@ than extending the season for relatively low-calorie winter greens.
 Solomon provides specific guidance on seed sources:
 
 - **Veseys Seeds** (Prince Edward Island, Canada) — carries varieties adapted
-  to short growing seasons and cool climates
+  to short growing seasons and [[greenhouse-cool-climates-mollison]]
 - **William Dam Seeds** (Ontario, Canada) — another northern-adapted source
 - **Local farm suppliers** — often the best source for cover crop seed suited
   to the specific area, as they stock what local farmers actually use
 
-He explicitly warns that mail-order vegetable garden seed companies may not
+He explicitly warns that mail-order [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] seed companies may not
 carry the best-adapted varieties for all climates, and may not stock cover crop
 species suited to particular regions at all. Local agricultural extension
 offices and farm supply stores are preferred for cover crop guidance.
@@ -73,7 +73,7 @@ dates:
 2. Select varieties with days-to-maturity that fit within the available
    season
 3. Plan succession plantings to fill gaps between main crops
-4. Schedule cover crops for periods when no food crop is planned
+4. Schedule [[query-best-cover-crops-for-sandy-soil]] periods when no food crop is planned
 5. Plan overwintering crops to capture early spring production before
    the main season begins
 
@@ -84,5 +84,5 @@ matter for the soil.
 ## See Also
 
 - green manure cover crop techniques
-- self sufficiency calorie production
-- humanure recycling and [[solomon-garden-planning-calorie-production]]
+- [[fukuoka-textdoc-basic-agriculture-law-japan-food-self-sufficiency-crisis]] calorie production
+- [[solomon-humanure-recycling-and-composting]] and [[solomon-garden-planning-calorie-production]]

@@ -1,24 +1,25 @@
 ---
-title: Fukuoka Compost Unnecessary Philosophy
+title: Fukuoka fukuoka compost unnecessary philosophy Philosophy
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Compost Unnecessary Philosophy
 
 Updated: 2026-04-19
 
-Masanobu Fukuoka provocatively declares composting unnecessary in *The Natural Way of Farming*, arguing that returning fresh straw directly to fields is both simpler and more effective than the laborious process of compost preparation.
+Masanobu Fukuoka provocatively declares composting unnecessary in *The Natural Way of Farming*, arguing that returning fresh straw directly to fields is both simpler and more effective than the laborious process of [[cultivator-compost-preparation-phase-methods]].
 
-This position is one of Fukuoka's most controversial claims and directly challenges both conventional agriculture and [[fukuoka-no-fertilizer-principle]] and [[fukuoka-scattering-straw-technique]] and [[fukuoka-soil-microbiology]] and [[fukuoka-no-tillage-direct-seeding-history]] system. Fresh straw provides weed suppression, moisture retention, and soil building all at once, eliminating the need for separate composting operations. This simplification is what allows one person to manage the entire system with minimal labor.
+This position is one of Fukuoka's most controversial claims and directly challenges both conventional agriculture and [[fukuoka-no-fertilizer-principle]] and [[fukuoka-scattering-straw-technique]] and [[soil-microbiology-in-natural-farming]] and [[fukuoka-no-tillage-direct-seeding-history]] system. Fresh straw provides weed suppression, moisture retention, and soil building all at once, eliminating the need for separate composting operations. This simplification is what allows one person to manage the entire system with minimal labor.
 
 ## Only Possible With Healthy Crops
 
-Fukuoka acknowledges: "Spreading fresh straw on a rice field is really quite a bold and revolutionary step in rice farming." But this is only possible with strong, healthy grain. The importance of healthy rice and barley production has been overlooked by researchers who only now are beginning to encourage the use of fresh straw by chopping it with a cutter and plowing it under.
+Fukuoka acknowledges: "Spreading fresh straw on a rice field is really quite a bold and revolutionary step in [[fukuoka-natural-rice-farming-steps]]." But this is only possible with strong, healthy grain. The importance of healthy [[fukuoka-rice-and-barley-natural-farming]] production has been overlooked by researchers who only now are beginning to encourage the use of fresh straw by chopping it with a cutter and plowing it under.
 
 ## The Fate of Japanese Agriculture
 
@@ -112,4 +113,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

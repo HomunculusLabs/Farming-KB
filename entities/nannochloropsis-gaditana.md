@@ -26,7 +26,7 @@ sources:
 
 The species was first isolated from coastal waters near Cádiz, Spain. Since its description, it has become a leading candidate for industrial-scale EPA production as a sustainable alternative to fish oil.
 
-Commercial cultivation of *N. gaditana* is well established, with several companies operating large-scale photobioreactor facilities in Europe, Israel, and the United States.
+Commercial cultivation of *N. gaditana* is well established, with several companies operating large-scale photobioreactor facilities in Europe, Israel, and the [[dmt-containing-plants-united-states-halpern]].
 
 ## Taxonomy and Morphology
 
@@ -38,11 +38,11 @@ They lack the complex external covering of many other marine microalgae, present
 
 The chloroplast is single and parietal, lacking a pyrenoid. Chlorophyll *a* is the sole chlorophyll pigment, while violaxanthin and vaucheriaxanthin serve as accessory light-harvesting pigments. This pigment composition distinguishes eustigmatophytes from other ochrophytes.
 
-Reproduction occurs through autosporulation, with each cell dividing into two or four daughter cells. No sexual reproduction has been observed under laboratory conditions.
+Reproduction occurs through autosporulation, with each cell dividing into two or four daughter cells. No [[fungal-life-cycles-sexual-reproduction-metamorphosis]] has been observed under laboratory conditions.
 
 ## Biochemical Composition
 
-*N. gaditana* accumulates lipids at 25–50% of dry weight, with a remarkably high proportion of EPA (20:5n-3). EPA typically constitutes 25–40% of total fatty acids, making this species one of the most efficient EPA producers known.
+*N. gaditana* accumulates lipids at 25–50% of dry weight, with a remarkably high proportion of EPA (20:5n-3). EPA typically constitutes 25–40% of total [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], making this species one of the most efficient EPA producers known.
 
 Total protein content ranges from 30–45% of dry weight. The amino acid profile is well balanced for animal nutrition, with particularly high levels of lysine and methionine relative to terrestrial plant proteins.
 
@@ -68,7 +68,7 @@ Nitrogen limitation triggers lipid accumulation, elevating total lipid content w
 
 **Omega-3 production:** EPA-rich oil extracted from *N. gaditana* biomass is marketed as a vegetarian alternative to fish oil.
 
-Products include dietary supplements, infant formula ingredients, and functional food additives. Clinical trials have demonstrated that algal EPA is bioequivalent to fish-derived EPA in raising blood omega-3 indices.
+Products include dietary supplements, infant formula ingredients, and functional food additives. [[mushroom-cancer-clinical-trials-overview]] have demonstrated that algal EPA is bioequivalent to fish-derived EPA in raising blood omega-3 indices.
 
 **Biofuel:** The species' high lipid content and robust growth make it a candidate for algal biodiesel. Techno-economic analyses indicate that biofuel-only production is not yet cost-competitive, but integrated biorefinery models with EPA as the primary product show promise.
 
@@ -82,9 +82,9 @@ This improves the nutritional profile of farmed products, reducing reliance on w
 
 It often contributes to nanoplankton communities in estuarine and nearshore habitats, where nutrient inputs from upwelling or terrestrial runoff support elevated cell densities.
 
-The species can form dense blooms under conditions of high nutrient availability, particularly when nitrogen and phosphorus inputs from agricultural runoff coincide with favorable light and temperature conditions.
+The species can form dense blooms under conditions of high [[ph-and-nutrient-availability-garden-soils]], particularly when nitrogen and phosphorus inputs from agricultural runoff coincide with favorable light and temperature conditions.
 
-As a primary producer, *N. gaditana* contributes to marine carbon fixation and forms the base of short food chains supporting zooplankton, larval fish, and filter-feeding invertebrates in coastal ecosystems.
+As a primary producer, *N. gaditana* contributes to marine [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]] and forms the base of short food chains supporting zooplankton, larval fish, and filter-feeding invertebrates in coastal ecosystems.
 
 ## Strain Improvement
 

@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-"Do as nature does" (the Way resembles nature) is the first and foundational principle of JADAM organic farming. Drawn from Laozi's Dao De Jing (chapter 25), it teaches that the wisdom of farming is found by observing and emulating natural processes. Nature has been farming for billions of years with extraordinary success -- it is the ultimate teacher.
+"Do as nature does" (the Way resembles nature) is the first and foundational principle of JADAM [[coleman-deep-organic-farming-philosophy]]. Drawn from Laozi's Dao De Jing (chapter 25), it teaches that the wisdom of farming is found by observing and emulating natural processes. Nature has been farming for billions of years with extraordinary success -- it is the ultimate teacher.
 
 ## The Philosophical Foundation
 
@@ -27,7 +27,7 @@ JADAM systematically poses farming questions to nature and finds surprisingly si
 
 ### Monoculture
 
-Modern agriculture says repeated monoculture degrades soil and requires crop rotation. Nature says: "No. I do not farm in rotations. I plant the same species in the same place again and again." Forests grow the same species for thousands of years and the soil becomes richer. The problem is not monoculture but the removal of crop residues that breaks nutrient cycling.
+Modern agriculture says repeated monoculture degrades soil and requires [[comparison-crop-rotation-vs-cover-cropping]]. Nature says: "No. I do not farm in rotations. I plant the same species in the same place again and again." Forests grow the same species for thousands of years and the soil becomes richer. The problem is not monoculture but the removal of crop residues that breaks [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 ### Salt Accumulation
 
@@ -39,11 +39,11 @@ Nature follows three rules: fertilizer is (i) fresh, (ii) applied on the soil su
 
 ### Microorganisms
 
-In nature, all microorganisms are beneficial -- diversity is the key. Wherever a dead plant or animal falls, it decomposes on the spot without extra microbial input. Commercial products isolate a tiny fraction of total microbial diversity. The answer is in leaf mold: "Take it from nature. Bring them to your fields."
+In nature, all microorganisms are beneficial -- diversity is the key. Wherever a dead plant or animal falls, it decomposes on the spot without extra microbial input. Commercial products isolate a tiny fraction of total microbial diversity. The answer is in [[comparison-leaf-mold-composting-vs-hot-composting-method]]: "Take it from nature. Bring them to your fields."
 
 ### Optimum Fertility
 
-Nature does not use rice bran or oil cakes. Soil beneath trees has dark leaf mold on top and coarse rock sediment below, where microbes break rock into mineral nutrients. The "secret" is combining organic matter from above with mineral diversity from below.
+Nature does not use [[jadam-rice-bran-problems]] or oil cakes. Soil beneath trees has dark leaf mold on top and coarse rock sediment below, where microbes break rock into mineral nutrients. The "secret" is combining [[hamilton-composting-and-organic-matter-management]] from above with mineral diversity from below.
 
 ## The Commercialization Critique
 
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

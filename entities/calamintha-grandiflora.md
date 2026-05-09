@@ -9,9 +9,9 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Skocibusic, M. & Bezić, N. (2004). "Essential oil composition of Calamintha grandiflora." Journal of Essential Oil Research, 16(2), 109–112.
+  - Skocibusic, M. & Bezić, N. (2004). "permaculture-designers-manual-essential-oil-plants composition of Calamintha grandiflora." Journal of Essential Oil Research, 16(2), 109–112.
   - Senatore, F. et al. (2006). "Antibacterial activity of Calamintha grandiflora essential oil." Journal of Essential Oil Research, 18(3), 321–325.
-  - Tuttolomondo, T. et al. (2014). "Volatile compounds and antioxidant activity of Calamintha grandiflora from Sicily." Natural Product Research, 28(11), 834–841.
+  - Tuttolomondo, T. et al. (2014). "[[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] and antioxidant activity of Calamintha grandiflora from Sicily." Natural Product Research, 28(11), 834–841.
   - Karray-Bouraoui, N. et al. (2010). "Essential oil composition of Calamintha grandiflora from Tunisia." Chemistry of Biodiversity, 7(5), 1087–1095.
 ---
 
@@ -67,7 +67,7 @@ Large-flowered calamint is increasingly popular as a garden ornamental, valued f
 
 Propagation is by seed, division in spring, or softwood cuttings in early summer. Division every 3–4 years maintains vigor.
 
-The plant is relatively pest-free, though aphids and spider mites may occasionally affect new growth. It is deer-resistant due to its aromatic foliage.
+The plant is relatively pest-free, though aphids and [[cervantes-spider-mites-identification-control]] may occasionally affect new growth. It is deer-resistant due to its aromatic foliage.
 
 Deadheading extends the flowering period. Cutting back after the first flush of bloom encourages a second flowering in autumn.
 
@@ -104,11 +104,11 @@ Large-flowered calamint is valued in ornamental horticulture for its combination
 - Extended bloom period of 2–3 months, providing sustained color through midsummer.
 - Pink flowers attract bees, butterflies, and hummingbirds.
 - Aromatic foliage provides sensory interest in herb gardens and sensory gardens.
-- Compact growth habit suits border plantings, rock gardens, and woodland gardens.
+- [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit suits border plantings, rock gardens, and woodland gardens.
 
 It pairs well with other shade-tolerant perennials such as hostas, ferns, and astilbes. The airy flower spikes add vertical interest to mixed borders.
 
-In cottage garden designs, it fills the gap between spring bulbs and autumn asters. Its informal growth habit suits naturalistic and prairie-style plantings.
+In [[hamilton-cottage-garden-design]] designs, it fills the gap between spring bulbs and autumn asters. Its informal growth habit suits naturalistic and prairie-style plantings.
 
 The species is increasingly available from specialty nurseries. Cultivar selection is limited, but the straight species remains the most widely grown form.
 

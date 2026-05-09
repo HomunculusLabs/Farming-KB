@@ -1,9 +1,9 @@
 ---
-title: Screen of Green (SCROG)
+title: cannabis-screen-of-green-scrog-guide (SCROG)
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [reference]
@@ -50,7 +50,7 @@ The screen should be 70-80 percent filled before switching to flowering. The rem
 
 ## SCROG and Airflow
 
-The dense canopy created by SCROG can restrict airflow, creating pockets of high humidity. Cervantes emphasizes that "constant air circulation and a supply of fresh air are essential." An oscillating fan positioned to blow across the canopy surface helps prevent mold and ensures even CO2 distribution. Removing all growth below the screen (see [[sea-of-green]] -- alternative high-density method using many small plants
+The dense canopy created by SCROG can restrict airflow, creating pockets of high humidity. Cervantes emphasizes that "constant [[stamets-growing-room-air-circulation-co2-management]] and a supply of fresh air are essential." An oscillating fan positioned to blow across the canopy surface helps [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] and ensures even CO2 distribution. Removing all growth below the screen (see [[sea-of-green]] -- alternative high-density method using many small plants
 - [[topping-cannabis]] -- creating additional branch points for screen filling
 - [[defoliation-cannabis]] -- removing lower growth below the screen
 - [[cannabis-lighting-guide]] -- optimizing light for flat canopy production
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

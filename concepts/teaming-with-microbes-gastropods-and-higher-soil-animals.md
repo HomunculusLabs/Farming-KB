@@ -1,5 +1,5 @@
 ---
-title: Gastropods and Higher Soil Animals
+title: teaming with microbes gastropods and higher soil animals Soil Animals
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -8,16 +8,16 @@ sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
-Slugs and snails (gastropods) are among the more visible members of the
-[[fungal-cellulose-decomposition-fungal-enzymes]].
+[[query-how-to-get-rid-of-slugs-and-snails-organically]] (gastropods) are among the more visible members of the
+fungal-cellulose-decomposition-fungal-enzymes.
 
 ## Ecological Role in the Soil Food Web
 
 ### Decomposition
 
 Despite their reputation as plant eaters, slugs and snails also graze
-on fungi, algae, lichens, and rotting organic matter. As shredders,
-they break down organic material before consuming it, opening it up for
+on fungi, algae, lichens, and rotting [[hamilton-composting-and-organic-matter-management]]. As shredders,
+they [[query-can-fungi-break-down-plastic-pollution]] organic material before consuming it, opening it up for
 bacteria and fungi to attack -- similar to the role played by
 [[teaming-with-microbes-mites-and-soil-arthropod-predators]].
 
@@ -39,7 +39,7 @@ Gastropods serve as prey for:
 - Specialized nematodes (available commercially for slug control)
 
 When a nematode parasitizes a slug, parts become a meal while the
-remainder is left for bacterial and fungal colonization and decay.
+remainder is left for [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] colonization and decay.
 
 ### Population Balance
 
@@ -55,7 +55,7 @@ nutrients and organic matter that fuels decomposition communities.
 
 ### Context-Dependent Impact
 
-The role of larger animals differs between a vegetable garden and other
+The role of larger animals differs between a [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] and other
 parts of the yard. But wherever they roam, their ecological function is
 entirely underpinned by microarthropods and microorganisms, which far
 outnumber them in any soil food web. The larger animals are the visible
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

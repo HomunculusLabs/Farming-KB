@@ -1,17 +1,13 @@
 ---
-title: Nitroaromatic Degradation by White Rot Fungi
+title: Nitroaromatic Degradation by comparison-brown-rot-vs-white-rot-bioremediation Fungi
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources: []
 ---
-
-# Nitroaromatic Degradation by White Rot Fungi
-
-Updated: 2026-04-18
-
-Nitroaromatics are used in the manufacture of explosives, pesticides, pharmaceuticals, dyes, and plastics. They are common groundwater and soil contaminants near production sites and military facilities. Some are highly toxic, carcinogenic, or mutagenic. Regular exposure to TNT (2,4,6-trinitrotoluene) causes liver damage and anaemia. White rot fungi degrade nitroaromatics through a combination of ligninolytic enzymes and other enzymatic pathways. The degradation of nitroaromatics by white rot fungi is an important application of [[enzymatic-degradation-in-mycoremediation]].
+# Nitroaromatic Degradation by White Rot Fungi Updated: 2026-04-18 Nitroaromatics are used in the manufacture of explosives, pesticides, pharmaceuticals, dyes, and plastics. They are common groundwater and soil contaminants near production sites and military facilities. Some are highly toxic, carcinogenic, or mutagenic. Regular exposure to TNT (2,4,6-trinitrotoluene) causes liver damage and anaemia. White rot fungi degrade nitroaromatics through a combination of ligninolytic enzymes and other enzymatic pathways. The degradation of nitroaromatics by white rot fungi is an important application of [[enzymatic-degradation-in-mycoremediation]].
 
 ## TNT Degradation by P. chrysosporium
 
@@ -29,7 +25,7 @@ Higher TNT concentrations inhibit degradation. Problematic intermediates accumul
 
 These intermediates (not TNT itself) inhibit further TNT degradation. Addition of TNT to ligninolytic cultures caused disappearance of LiP activity, which was attributed to metabolites rather than TNT itself. 2-aminodinitrotoluene and 4-aminodinitrotoluene were not inhibitory to LiP.
 
-The inhibition of LiP by hydroxylamino intermediates is significant because it creates a negative feedback loop: TNT degradation produces intermediates that suppress the very enzymes needed for further degradation. This self-limiting behavior explains why TNT degradation by P. chrysosporium plateaus at 30-50% and why higher initial TNT concentrations result in lower fractional degradation. Strategies to overcome this limitation include co-cultivation with bacteria that metabolize the inhibitory intermediates, use of adsorbent materials to sequester intermediates, and genetic engineering to produce LiP variants resistant to inhibition.
+The inhibition of LiP by hydroxylamino intermediates is significant because it creates a negative feedback loop: TNT degradation produces intermediates that suppress the very enzymes needed for further degradation. This self-limiting behavior explains why TNT degradation by P. chrysosporium plateaus at 30-50% and why higher initial TNT concentrations result in lower fractional degradation. Strategies to overcome this limitation include co-cultivation with bacteria that metabolize the inhibitory intermediates, use of adsorbent materials to sequester intermediates, and [[fukuoka-textdoc-genetic-engineering-critique-warning]] to produce LiP variants resistant to inhibition.
 
 ### Aromatic Nitroreductase
 
@@ -61,13 +57,13 @@ Despite bans on alkyl halide insecticides, bioaccumulation and toxicity from per
 
 - P. eryngii, P. florida, and P. sajor-caju showed extensive heptachlor degradation and moderate lindane degradation
 
-The involvement of cytochrome P450 monooxygenases in pesticide degradation is significant because it demonstrates that white rot fungi possess enzymatic capabilities beyond the classical ligninolytic system. P450 enzymes can catalyze oxidative dechlorination, epoxidation, and hydroxylation reactions that convert persistent organochlorine pesticides into more polar, water-soluble metabolites. This broader enzymatic repertoire expands the range of compounds amenable to fungal degradation and is relevant to [[fungal-bioremediation-mechanisms]].
+The involvement of cytochrome P450 monooxygenases in pesticide degradation is significant because it demonstrates that white rot fungi possess enzymatic capabilities beyond the classical ligninolytic system. P450 enzymes can catalyze oxidative dechlorination, epoxidation, and hydroxylation reactions that convert persistent organochlorine pesticides into more polar, water-soluble metabolites. This broader enzymatic repertoire expands the range of compounds amenable to [[singh-fungal-degradation-endocrine-disrupting-compounds]] and is relevant to [[fungal-bioremediation-mechanisms]].
 
 ## Cometabolic Transformation
 
-Many nitroaromatic degradation reactions by white rot fungi are cometabolic, meaning the fungi do not derive energy or carbon from the pollutant transformation. The nitroaromatic compound is incidentally transformed by enzymes whose primary function is lignin degradation or other metabolic processes. Cometabolism has both advantages (broad substrate range) and limitations (no energy gain from pollutant degradation, potential for toxic metabolite accumulation). Understanding the cometabolic nature of these transformations is important for designing effective treatment systems, as discussed in [[white-rot-fungi-bioremediation]]
+Many nitroaromatic degradation reactions by white rot fungi are cometabolic, meaning the fungi do not derive energy or carbon from the pollutant transformation. The nitroaromatic compound is incidentally transformed by enzymes whose primary function is [[query-how-does-lignin-degradation-by-fungi-work]] or other metabolic processes. Cometabolism has both advantages (broad substrate range) and limitations (no energy gain from pollutant degradation, potential for toxic metabolite accumulation). Understanding the cometabolic nature of these transformations is important for designing effective treatment systems, as discussed in [[white-rot-fungi-bioremediation]]
 
-- [[fungal-degradation-of-dioxins-and-polychlorinated-biphenyls]]
+- fungal-degradation-of-dioxins-and-polychlorinated-biphenyls
 
 - [[fungal-bioremediation-mechanisms]]
 
@@ -90,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

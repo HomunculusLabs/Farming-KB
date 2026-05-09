@@ -1,9 +1,9 @@
 
 # Fukuoka African Agriculture Observations
 
-[[natural-farming]] al farming methods fdesert-revegetationvegetation. His observations form a sharp critique of both
+[[natural-farming]] al [[natural-farming-methods-comparison]] fdesert-revegetationvegetation. His observations form a sharp critique of both
 the causes of African [[cash-crop-guide]] plantations. His intention
-to teach for self sufficiency through natural farming was viewed as
+to teach for [[fukuoka-textdoc-basic-agriculture-law-japan-food-self-sufficiency-crisis]] through [[comparison-natural-farming-vs-permaculture]] was viewed as
 rebellion.
 
 Refugee food consisted entirely of wheat from the U.S., old rice from
@@ -47,14 +47,14 @@ Despite the obstacles, Fukuoka achieved significant results:
   onions, and cucumbers
 - Women and old people gathered to receive seed; bags disappeared
   rapidly
-- He scattered seed in clay pellets over rock-strewn savanna with
+- He scattered seed in [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] over rock-strewn savanna with
   40-50 people, mixing rice seed with barnyard millet and proso
   millet
 - Practically all vegetables germinated
 - After his return to Japan, large vegetables had grown, and little
   gardens appeared around huts
 - [[plant-life-rhythms-pulsatory-growth]]. The goats and cattle consumed vegetation faster than it
-could regenerate, creating a negative cycle of bare ground, rising
+could regenerate, creating a negative cycle of [[savory-bare-ground-and-soil-exposure]], rising
 soil temperatures, and further vegetation loss.
 
 **External causes:** Agricultural modernization abandoned
@@ -72,7 +72,7 @@ The discovery that Somali desert sand contained clay was significant
 for Fukuoka's methodology. Clay content meant that [[seed-balls-technique]] would
 work -- the clay pellets could protect seeds and hold moisture long
 enough for germination. This finding extended the applicability of
-his desert greening techniques beyond California to genuinely arid
+his [[fukuoka-desert-greening-plant-irrigation]] techniques beyond California to genuinely arid
 African environments.
 
 ## Fukuoka's Verdict

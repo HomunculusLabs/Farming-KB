@@ -1,5 +1,5 @@
 ---
-title: Lundberg Family Farms — Natural Rice Transition in California
+title: fukuoka lundberg family farms natural rice transition Farms — Natural Rice Transition in California
 tags:
   - farming
   - rice
@@ -18,13 +18,13 @@ sources:
 
 ## Overview
 
-During his 1986 visit to California, Fukuoka visited Lundberg Family Farms near Chico, California — a 7,500-acre brown rice operation that became one of the most significant examples of large-scale natural farming transition in the United States. The story illustrates both the potential for industrial-scale natural farming and the challenges of shifting from organic to truly natural methods.
+During his 1986 visit to California, Fukuoka visited Lundberg Family Farms near Chico, California — a 7,500-acre brown rice operation that became one of the most significant examples of large-scale [[comparison-natural-farming-vs-permaculture]] transition in the United States. The story illustrates both the potential for industrial-scale natural farming and the challenges of shifting from organic to truly natural methods.
 
 ## The First Visit
 
 Seven years before his 1986 visit, Fukuoka had traveled to the Lundberg farm to promote natural farming and learn about rice cultivation in the vast fields of the Sacramento Valley. When he presented his philosophy to the owner, Mr. Lundberg, the response was enthusiastic: "This is wonderful! It is a revolution!"
 
-Lundberg took Fukuoka's words to heart. He got rid of six of his tractors and began transitioning to natural farming methods. The scale of this decision is remarkable — a 7,500-acre farm discarding most of its heavy equipment represents an enormous act of faith in natural methods.
+Lundberg took Fukuoka's words to heart. He got rid of six of his tractors and began transitioning to natural [[natural-farming-methods-comparison]]. The scale of this decision is remarkable — a 7,500-acre farm discarding most of its heavy equipment represents an enormous act of faith in natural methods.
 
 ## The 1986 Reunion
 
@@ -36,7 +36,7 @@ Four large grain elevators stood in different places on the farm, and nearly a h
 
 The most striking observation Fukuoka made was the condition of the rice fields: thousands of acres filled with barnyard grass. In Japan, such fields would be considered a failure. People would say that so many weeds indicated the natural farming method was flawed.
 
-Neither Lundberg nor the other farmers seemed concerned. Fukuoka realized how truly open-minded Lundberg had become — he had been able to look calmly at all those weeds for seven years without panicking. Despite the barnyard grass, the fields produced 16 to 18 bushels (960 to 1,080 pounds) per quarter acre, matching conventional paddy yields in Japan — and this was achieved using large harvesting equipment, while Japanese farmers had the advantage of managing small fields more intensively.
+Neither Lundberg nor the other farmers seemed concerned. Fukuoka realized how truly open-minded Lundberg had become — he had been able to look calmly at all those weeds for seven years without panicking. Despite the barnyard grass, the fields produced 16 to 18 bushels (960 to 1,080 pounds) per [[fukuoka-agriculture-tomorrow-quarter-acre-vision]], matching conventional paddy yields in Japan — and this was achieved using large harvesting equipment, while Japanese farmers had the advantage of managing small fields more intensively.
 
 ## The Soil Vitality Secret
 
@@ -66,7 +66,7 @@ The Lundberg story demonstrates several important points:
 
 Fukuoka drew an important distinction between organic and natural farming during this visit:
 
-- Conventional farming and organic farming are not fundamentally different in approach
+- Conventional farming and [[coleman-deep-organic-farming-philosophy]] are not fundamentally different in approach
 - Both begin by asking "How can I get nature to produce most efficiently for human beings?"
 - The industrial farmer uses chemicals; the organic farmer uses organic materials
 - Both systems rely on plowing the soil, which Fukuoka did not do
@@ -113,10 +113,12 @@ The Lundberg experience offers several lessons for farmers considering natural m
 - Expect a multi-year learning curve with uncertain results
 - Soil health improvement is gradual but cumulative
 - Weeds indicate soil imbalances that will self-correct over time
-- Marketing and distribution are as important as growing methods
+- Marketing and distribution are as important as [[mushroom-growing-methods-comparison]]
 - Community support (the association) helps sustain commitment through difficult years
 
 ## See Also
+
+- [[fukuoka-lundberg-family-farms-natural-rice]]
 
 - [[fukuoka-sowing-natural-farming-philosophy]]
 - [[fukuoka-one-straw-revolution-principles]]

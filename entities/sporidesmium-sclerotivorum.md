@@ -21,7 +21,7 @@ Sclerotinia species. It is a true sclerotial parasite with an
 exceptionally narrow host range, attacking primarily Sclerotinia
 minor and S. sclerotiorum. The fungus is widely distributed in
 soil environments worldwide and has been extensively studied as a
-biological control agent for Sclerotinia diseases in lettuce and
+[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent for Sclerotinia diseases in lettuce and
 other susceptible crops.
 
 The species is remarkable for its ability to detect sclerotia
@@ -105,7 +105,7 @@ planting.
 
 ### Survival in Soil
 
-{w("In the absence of host sclerotia, S. sclerotivorum persists as conidia or hyphal fragments in soil organic matter. Survival is enhanced in soils with high organic matter content and moderate moisture levels. The fungus does not form specialized resting structures, relying instead on saprotrophic growth on organic debris between parasitic events.")}
+{w("In the absence of host sclerotia, S. sclerotivorum persists as conidia or hyphal fragments in soil [[hamilton-composting-and-organic-matter-management]]. Survival is enhanced in soils with high organic matter content and moderate moisture levels. The fungus does not form specialized resting structures, relying instead on saprotrophic growth on organic debris between parasitic events.")}
 
 ## Relevance
 S. sclerotivorum represents a highly specialized and effective

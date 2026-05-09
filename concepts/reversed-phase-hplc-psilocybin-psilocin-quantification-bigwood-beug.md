@@ -1,5 +1,5 @@
 ---
-title: Reversed Phase HPLC Quantification of Psilocybin and Psilocin in Bigwood and Beug 1982
+title: Reversed reversed phase hplc psilocybin psilocin quantification bigwood beug Quantification of Psilocybin and Psilocin in Bigwood and Beug 1982
 tags:
   - HPLC
   - reversed-phase
@@ -15,7 +15,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bigwood, J. and Beug, M.W. (1982). Variation of Psilocybin and Psilocin Levels with Repeated Flushes of Mature Sporocarps of Psilocybe cubensis. Journal of Ethnopharmacology, 5, 287-291.
+  - Bigwood, J. and Beug, M.W. (1982). Variation of Psilocybin and Psilocin Levels with Repeated Flushes of Mature Sporocarps of brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting. Journal of Ethnopharmacology, 5, 287-291.
 type: concept
 created: 2026-04-28
 ---
@@ -76,9 +76,9 @@ method.
 ## Detection Limits and Sensitivity
 
 The detection limit for both psilocybin and psilocin was approximately 0.01 micrograms. This sensitivity was critical for the study because
-many early-flush samples contained zero or near-zero levels of [[psilocybin-psilocin-stability-degradation-volatility-fungi]] is a
+many early-flush samples contained zero or near-zero levels of psilocybin-psilocin-stability-degradation-volatility-fungi is a
 well-documented concern; psilocin in particular is prone to oxidation and degradation upon exposure to air, light, and elevated
-temperatures. Rapid freeze-drying removed water that could facilitate enzymatic or chemical degradation pathways, while cold storage further
+temperatures. Rapid freeze-drying removed water that could facilitate enzymatic or chemical [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]], while cold storage further
 slowed any residual degradation processes. This ensured that measured concentrations reflected the in-vivo alkaloid levels at the time of
 harvest.
 
@@ -92,8 +92,8 @@ differences between flushes, strains, and sources without needing to account for
 ## Historical Significance in Fungal Alkaloid Analysis
 
 The Bigwood and Beug analytical protocol represents one of the earliest systematic applications of reversed-phase HPLC to the study of
-flush-by-flush alkaloid variation in cultivated psilocybin mushrooms. The use of NIDA-calibrated standards, the documentation of linear
+flush-by-flush alkaloid variation in cultivated [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]. The use of NIDA-calibrated standards, the documentation of linear
 range and detection limits, and the TLC confirmation step established methodological precedents that subsequent researchers in
 [[hplc-analysis-of-tryptamine-alkaloids]]
 - [[psilocybin-psilocin-chemistry]]
-- [[bigwood-beug-psilocybin-psilocin-variation-analysis]]
+- bigwood-beug-psilocybin-psilocin-variation-analysis

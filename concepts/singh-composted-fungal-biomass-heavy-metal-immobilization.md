@@ -1,5 +1,5 @@
 ---
-title: Composted Fungal Biomass for Heavy Metal Immobilization
+title: singh composted fungal biomass heavy metal immobilization Biomass for Heavy Metal Immobilization
 created: 2026-04-28
 tags:
   - composting
@@ -18,7 +18,7 @@ type: concept
 
 Composting of organic waste amended with fungal biomass creates a valuable soil
 amendment capable of immobilizing heavy metals in contaminated soils. The
-combination of fungal biosorption capacity with the humification processes of
+combination of [[singh-binary-ternary-fungal-biosorption-systems]] capacity with the humification processes of
 composting produces a material rich in metal-binding functional groups that
 reduce contaminant bioavailability while improving soil fertility.
 
@@ -26,7 +26,7 @@ reduce contaminant bioavailability while improving soil fertility.
 
 Compost derived from municipal green waste, agricultural residues, or
 industrial byproducts provides multiple benefits for metal-contaminated soils.
-The mature compost matrix contains humic and fulvic acids, polysaccharides,
+The mature compost matrix contains [[teaming-with-microbes-humic-and-fulvic-acids]] acids, polysaccharides,
 proteins, and mineral phases that collectively bind metals through various
 mechanisms including ion exchange, complexation, surface adsorption, and
 precipitation. These processes transform soluble, bioavailable metal species
@@ -42,7 +42,7 @@ alone.
 
 ## Fungal Biomass Metal Binding Mechanisms
 
-Fungal cell walls serve as the primary site for metal biosorption. Key
+Fungal cell walls serve as the primary site for [[fungal-metal-biosorption-comparative]]. Key
 binding mechanisms include:
 
 - **Ion exchange**: Metal cations displace lighter ions (H+, Na+, K+, Ca2+)
@@ -70,9 +70,9 @@ applications include:
 - **Agricultural soil remediation**: Reducing metal uptake by crops on
   marginally contaminated agricultural land. Compost amendments decrease
   the bioavailable fraction of Cd, Pb, Zn, and Cu while supplying organic
-  matter and plant nutrients, supporting [[singh-fungal-roles-in-soil-aggregate-formation]], increases cation exchange capacity, and improves water retention.
+  matter and plant nutrients, supporting [[singh-fungal-roles-in-soil-aggregate-formation]], increases [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity, and improves water retention.
 Compost provides slow-release nitrogen, phosphorus, potassium, and
-micronutrients that support plant establishment and mycorrhizal colonization.
+micronutrients that support plant establishment and [[arbuscular-mycorrhizal-colonization-patterns]].
 
 The amendment also supports [[singh-phytoremediation-mycorrhizal-assisted-plant-uptake]]
 - [[singh-mushroom-spawn-production-grain-spawn]]

@@ -1,5 +1,5 @@
 ---
-title: "3,4-DMA -- 3,4-DIMETHOXYAMPHETAMINE -- PIHKAL Entry #55"
+title: "3,4-DMA -- 3,4-DIMETHOXYAMPHETAMINE -- 2c-b-pihkal-entry-20 #55"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 3,4-DMA
 
-PIHKAL entry #55. 3,4-DIMETHOXYAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #55. 3,4-DIMETHOXYAMPHETAMINE.
 
 ## Chemical Name
 
@@ -60,7 +60,7 @@ addition of aqueous NaOH. This clear solution was extracted with 3x150 mL CH2Cl2
 
 ## Safety Notes
 
-3,4-DMA is a research chemical documented in PIHKAL. Dosage data and safety profiles are based on limited shulgin safety principles. Exercise
+3,4-DMA is a research chemical documented in PIHKAL. Dosage data and safety profiles are based on limited shulgin [[shulgin-safety-principles-self-experimentation]]. Exercise
 extreme caution. This compound is not approved for human consumption.
 
 ## See Also
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

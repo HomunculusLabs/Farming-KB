@@ -12,7 +12,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-Community gardens are shared growing spaces where multiple people or families cultivate garden plots, often on land that is loaned, leased, or owned collectively. They are a key element of urban permaculture and bioregional organization, transforming vacant land into productive community assets.
+Community gardens are shared growing spaces where multiple people or families cultivate garden plots, often on land that is loaned, leased, or owned collectively. They are a key element of [[pdc-urban-permaculture-design-principles]] and bioregional organization, transforming vacant land into productive community assets.
 
 ## The Community Garden Movement
 
@@ -28,7 +28,7 @@ Since 1970, there has been a widespread home garden movement and increasing deve
 - Seed saving and plant variety preservation
 
 ### Social Benefits
-- Community building and neighbor connections
+- [[urban-permaculture-community-building-social-design]] and neighbor connections
 - Intergenerational knowledge sharing
 - Cultural exchange through diverse food traditions
 - Youth education and engagement
@@ -48,7 +48,7 @@ Since 1970, there has been a widespread home garden movement and increasing deve
 - Skill-building for new gardeners
 - Demonstration of sustainable techniques
 - Nutrition and cooking education
-- Permaculture design training ground
+- [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] training ground
 
 ## Design Principles for Community Gardens
 
@@ -73,9 +73,9 @@ Before establishing a community garden, assess:
 ### Permaculture Integration
 Community gardens can incorporate permaculture elements:
 - **Guild plantings** in common areas (fruit tree guilds, herb spirals)
-- **Sheet mulching** for new plot establishment
+- **[[comparison-sheet-mulching-vs-chop-and-drop-mulching]]** for new plot establishment
 - **Swales and rain gardens** for water management
-- **Chicken coops** (where permitted) for pest control and fertility
+- **[[faires-chicken-coops-tractors-and-breeding-guide]]** (where permitted) for pest control and fertility
 - **Food forests** in larger gardens or adjacent public spaces
 - **Seed saving libraries** and plant exchanges
 - **Compost tea brewing** stations
@@ -115,17 +115,17 @@ Primarily serves as a teaching garden with classes, workshops, and tours. Often 
 | Soil contamination | Raised beds with imported soil; phytoremediation; soil testing |
 | Vandalism and theft | Community involvement; visible presence; fencing; welcome signs |
 | Conflict between gardeners | Clear agreements; facilitation; shared events |
-| Water access and cost | Rainwater harvesting; greywater systems; drip irrigation; municipal partnerships |
+| Water access and cost | [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]; greywater systems; drip irrigation; municipal partnerships |
 | Funding | Plot fees; grants; fundraising events; in-kind donations |
 | Volunteer burnout | Rotating responsibilities; shared work days; recognition |
 
 ## See Also
 
 - [[permaculture-community-design]]
-- [[permaculture-intentional-community-design]]
-- [[urban-permaculture-productive-yards]]
-- [[permaculture-village-design]]
-- [[holmgren-permaculture-village-and-community-design]]
+- permaculture-intentional-community-design
+- urban-permaculture-productive-yards
+- permaculture-village-design
+- holmgren-permaculture-village-and-community-design
 
 ## Source
 
@@ -134,3 +134,6 @@ Toby Hemenway, *Gaia's Garden: A Guide to Home-Scale Permaculture*; Bill Molliso
 ## Related
 
 - [[urban-guerrilla-gardening]]
+- [[compost-tea-brewing]]
+- [[toby-hemenway]]
+- [[water-management]]

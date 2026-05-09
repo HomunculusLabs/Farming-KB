@@ -47,7 +47,7 @@ hunt was always on to find legal loopholes to exploit.
 Not long after opening, van den Huerk was approached by a home-growing magic
 mushroom enthusiast who offered to supply mushrooms. After legal
 consultation, he concluded that the law was sufficiently grey to put
-psilocybin mushrooms on the market. Following the 1971 UN Convention on
+[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] on the market. Following the 1971 UN Convention on
 Psychotropic Substances, the Dutch Opium Act only listed psilocybin and
 psilocin as controlled substances -- and not the mushrooms themselves.
 
@@ -57,13 +57,13 @@ Mushrooms, known as "paddos" in Dutch, became big business. They could be
 sold openly from market stalls, in head shops, and in specialist smart
 shops. Inundations of tourists flocked to Amsterdam to sample these unusual
 wares. Enterprising enthusiasts in Holland spotted the loophole in the law
-and hit upon the novel idea of growing mushrooms commercially.
+and hit upon the novel idea of [[falconer-growing-mushrooms-in-sheds]] commercially.
 
-Growing methods were refined from the cultivation techniques pioneered in
+[[mushroom-growing-methods-comparison]] were refined from the cultivation techniques pioneered in
 America by Paul Stamets and Jeff Chilton (The Mushroom Cultivator, 1983)
 and Stephen Hayden Pollock. Sophisticated operations emerged using
-climate-controlled rooms, sterile substrate preparation, and efficient
-harvesting techniques. Industrial-scale cultivation was perfected and
+climate-controlled rooms, sterile [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]], and efficient
+[[water-harvesting-techniques-comparison]]. Industrial-scale cultivation was perfected and
 mushrooms were transformed by the cold hand of capitalism from a sacred
 sacrament to a commodity.
 
@@ -129,11 +129,17 @@ The Dutch smart shop era demonstrated both the possibilities and the
 limitations of pragmatic drug policy. While the system successfully monitored
 sales and kept usage rates low, it proved politically vulnerable to external
 pressures and isolated incidents. The average dose in Holland was a tolerably
-low fifteen grams of Psilocybe cubensis -- a quarter of that preferred by
+low fifteen grams of [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] -- a quarter of that preferred by
 McKenna-type psychonauts -- suggesting that people had learnt how to take
 mushrooms safely. The Dutch model remains influential in drug policy reform
 discussions worldwide, and the truffle trade that succeeded the mushroom
 trade continues to operate under its own set of legal ambiguities.
-- [[gartz-european-psychoactive-mushroom-species]]
+- gartz-european-psychoactive-mushroom-species
 - [[mushroom-cultivator-substrate-preparation]]
-- [[european-magic-mushroom-growkit-market]]
+- european-magic-mushroom-growkit-market
+## See Also
+- [[psilocybe-atlantis]]
+- [[psilocybin-mushrooms]]
+- [[substrate-preparation]]
+- [[salvia-divinorum]]
+- [[psilocybin-mushroom]]

@@ -18,11 +18,11 @@ Heffter was born in Leipzig, Germany. He studied medicine and chemistry at the U
 
 ## The Mescaline Discovery
 
-Heffter's most significant contribution came from his systematic investigation of peyote (*Lophophora williamsii*), the small spineless cactus used as a sacrament by indigenous peoples of Mexico and the southwestern United States. Previous researchers had extracted crude alkaloid fractions from peyote, but Heffter was the first to isolate and chemically characterize the individual alkaloids responsible for its psychoactive effects.
+Heffter's most significant contribution came from his systematic investigation of peyote (*Lophophora williamsii*), the small spineless cactus used as a sacrament by indigenous peoples of Mexico and the southwestern [[dmt-containing-plants-united-states-halpern]]. Previous researchers had extracted crude alkaloid fractions from peyote, but Heffter was the first to isolate and chemically characterize the individual alkaloids responsible for its psychoactive effects.
 
 In 1896–1897, Heffter isolated four alkaloids from peyote, which he named **anhalonine**, **anhalonidine**, **mescaline**, and **lophophorine**. Through a remarkable series of self-experiments, he determined that mescaline alone was responsible for the characteristic visionary effects of peyote.
 
-Heffter's methodology was groundbreaking: he isolated each alkaloid separately, then ingested them himself to determine their individual pharmacological effects. On one occasion, he ingested 150 mg of mescaline sulfate and experienced the full spectrum of peyote's psychoactive effects, including intense visual hallucinations with brilliantly colored patterns. His detailed written descriptions of the visual phenomena remain among the earliest systematic accounts of psychedelic experience in the scientific literature.
+Heffter's methodology was groundbreaking: he isolated each alkaloid separately, then ingested them himself to determine their individual pharmacological effects. On one occasion, he ingested 150 mg of mescaline sulfate and experienced the full spectrum of peyote's psychoactive effects, including intense visual hallucinations with brilliantly colored patterns. His detailed written descriptions of the visual phenomena remain among the earliest systematic accounts of [[leary-psychedelic-experience-bardo-mapping]] in the scientific literature.
 
 Heffter published his findings in 1898 in a landmark paper titled "Über Pellote" (On Peyote), which established the principle that the psychoactive effects of psychoactive plants are attributable to specific chemical compounds rather than mystical plant essences.
 
@@ -51,7 +51,7 @@ These principles directly enabled the work of later researchers including Alexan
 
 ## Death and Legacy
 
-Heffter died on February 18, 1925, in Freiburg im Breisgau, Germany, at the age of 65. His work was largely forgotten during the mid-20th century as pharmacology shifted toward synthetic drug development, but has been increasingly recognized in recent decades as the field of psychedelic research has undergone a renaissance.
+Heffter died on February 18, 1925, in Freiburg im Breisgau, Germany, at the age of 65. His work was largely forgotten during the mid-20th century as pharmacology shifted toward synthetic drug development, but has been increasingly recognized in recent decades as the field of [[mckenna-suppression-psychedelic-research-lsd-therapy]] has undergone a renaissance.
 
 ## Major Contributions and Influence
 
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-b
 
 # Panaeolus venenosus
 
-**Panaeolus venenosus** is a psychoactive mushroom species in the genus Panaeolus, reported from Australia. The species epithet "venenosus" (meaning poisonous or venomous) reflects its bioactive properties. It has historical significance in the study of Australian psychoactive fungi, having been used in early clinical investigations of psilocybin mushroom effects.
+**Panaeolus venenosus** is a psychoactive mushroom species in the genus Panaeolus, reported from Australia. The species epithet "venenosus" (meaning poisonous or venomous) reflects its bioactive properties. It has historical significance in the study of Australian [[cattle-dispersal-psychoactive-fungi-australia]], having been used in early clinical investigations of [[emcdda-psilocybin-mushroom-dose-and-effects]] effects.
 
 ## Taxonomy and Classification
 
@@ -36,13 +36,13 @@ The species favors warm, humid conditions and is most commonly found during the 
 
 *Panaeolus venenosus* contains [[psilocin]], though the specific alkaloid profile and concentrations have not been as thoroughly documented as those of more widely studied species. It is generally considered to be of low to moderate potency.
 
-*Panaeolus venenosus* holds particular historical interest because of its use by Dr. Sam Stein in clinical research conducted in Australia in 1958-1959. Stein prepared extracts from dried specimens and administered them to volunteer subjects in controlled settings, documenting the subjective effects. His colleagues found that the subjective effects produced by the ingestion of Panaeolus species were "more tranquil and less" intense compared to those produced by Psilocybe species, suggesting a qualitatively different experiential profile.
+*Panaeolus venenosus* holds particular historical interest because of its use by Dr. Sam Stein in [[hofmann-lsd-clinical-research-early-studies]] conducted in Australia in 1958-1959. Stein prepared extracts from dried specimens and administered them to volunteer subjects in controlled settings, documenting the subjective effects. His colleagues found that the subjective effects produced by the ingestion of Panaeolus species were "more tranquil and less" intense compared to those produced by Psilocybe species, suggesting a qualitatively different experiential profile.
 
-This distinction between the effects of Panaeolus and Psilocybe species was noted in multiple early studies and remains an interesting though under-explored aspect of comparative tryptamine pharmacology. One possible explanation for the reported qualitative differences is that Panaeolus species may contain a different ratio of [[psilocin]] compared to Psilocybe species, or may contain additional minor alkaloids that modulate the overall psychoactive profile. Another possibility is that the presence of other naturally occurring compounds in Panaeolus species — such as urea derivatives, phenethylamine-related compounds, or other indole alkaloids not found in Psilocybe species — could contribute to the qualitative differences in subjective experience. This hypothesis has not been systematically tested with modern analytical or pharmacological methods.
+This distinction between the effects of Panaeolus and Psilocybe species was noted in multiple early studies and remains an interesting though under-explored aspect of comparative [[mckenna-food-gods-tryptamine-pharmacology-indoles]]. One possible explanation for the reported qualitative differences is that Panaeolus species may contain a different ratio of [[psilocin]] compared to Psilocybe species, or may contain additional minor alkaloids that modulate the overall psychoactive profile. Another possibility is that the presence of other naturally occurring compounds in Panaeolus species — such as urea derivatives, phenethylamine-related compounds, or other indole alkaloids not found in Psilocybe species — could contribute to the qualitative differences in subjective experience. This hypothesis has not been systematically tested with modern analytical or pharmacological methods.
 
 ## Microscopic Features
 
-Microscopic examination is essential for reliable identification of *Panaeolus venenosus*. Basidia are four-spored, clavate, measuring 20–28 × 6–8 µm. Cheilocystidia are ventricose to cylindrical, sometimes with a slightly capitate apex, 18–30 × 6–10 µm. Pleurocystidia are absent. The pileipellis consists of a thin layer of hyaline, cylindrical hyphae 3–5 µm wide. The spores are thick-walled, smooth, and possess a germ pore — a feature that distinguishes Panaeolus from the closely related genus Panaeolina, whose spores lack a germ pore. Spore size and shape, combined with cheilocystidia morphology, are the primary microscopic characters used to separate *P. venenosus* from other Panaeolus species.
+[[fungal-microscopic-examination-mounting-media-techniques]] is essential for reliable identification of *Panaeolus venenosus*. Basidia are four-spored, clavate, measuring 20–28 × 6–8 µm. Cheilocystidia are ventricose to cylindrical, sometimes with a slightly capitate apex, 18–30 × 6–10 µm. Pleurocystidia are absent. The pileipellis consists of a thin layer of hyaline, cylindrical hyphae 3–5 µm wide. The spores are thick-walled, smooth, and possess a germ pore — a feature that distinguishes Panaeolus from the closely related genus Panaeolina, whose spores lack a germ pore. Spore size and shape, combined with cheilocystidia morphology, are the primary microscopic characters used to separate *P. venenosus* from other Panaeolus species.
 ## Chemical Profile
 
 *Panaeolus venenosus* contains [[psilocin]] as its principal psychoactive alkaloids. While detailed quantitative HPLC or GC-MS data specific to this species remain limited in the peer-reviewed literature, it is generally considered to be of low to moderate potency compared to more widely studied psychoactive fungi such as [[copelandia-cyanescens]]. [[psilocin]], which oxidizes to blue quinone polymers upon tissue damage. The tryptamine alkaloid profile of Panaeolus species is of particular comparative pharmacological interest because of the qualitative differences in subjective effects reported by early clinical researchers.
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,3 +112,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[panaeolus-olivaceus]]

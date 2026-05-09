@@ -1,5 +1,5 @@
 ---
-title: Jar Selection and Physical Requirements for PF TEK
+title: pf tek jar selection and physical requirements and Physical Requirements for PF TEK
 tags: [pf-tek, jars, equipment, cultivation, mycology]
 date: 2026-04-28
 updated: 2026-04-28
@@ -24,11 +24,11 @@ The original TEK recommends trying the standard punched-lid technique first befo
 
 Any jar with an interior shoulder or ledge where the body meets the mouth must be rejected. The fungus cake will not pass through a shoulder during extraction. This is a non-negotiable physical constraint. No amount of tapping, shaking, scraping, or manipulation will free a cake that is wider than the jar mouth at the shoulder point.
 
-Attempting to force extraction through a shoulder will damage the mycelium and potentially shatter the glass jar, creating both a biological contamination risk and a physical safety hazard from glass shards. The bruising that results from forcing the cake past a shoulder can introduce contamination directly into the mycelium at the exact moment it is most vulnerable, during the transition from jar to fruiting chamber.
+Attempting to force extraction through a shoulder will damage the mycelium and potentially shatter the [[sterile-spore-print-collection-glass-jar-technique]], creating both a biological contamination risk and a physical safety hazard from glass shards. The bruising that results from forcing the cake past a shoulder can introduce contamination directly into the mycelium at the exact moment it is most vulnerable, during the transition from jar to [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]].
 
 ### Regular Mouth Kerr Half Pint
 
-The regular mouth Kerr half pint canning jar looks similar to the Ball regular mouth half pint but is specifically noted in the original TEK as not tapered. Despite the visual similarity, it cannot be used because the cake will not release cleanly. This is a documented pitfall that has caused failures for cultivators who assumed all half pint canning jars were interchangeable. The lesson is to always verify the taper regardless of brand or appearance.
+The regular mouth Kerr half pint [[pf-tek-canning-jar-lid-configuration]] looks similar to the Ball regular mouth half pint but is specifically noted in the original TEK as not tapered. Despite the visual similarity, it cannot be used because the cake will not release cleanly. This is a documented pitfall that has caused failures for cultivators who assumed all half pint canning jars were interchangeable. The lesson is to always verify the taper regardless of brand or appearance.
 
 ### Oversized Jars
 
@@ -36,7 +36,7 @@ Jars larger than 1/2 pint are explicitly unreliable. Larger volumes of substrate
 
 The deeper substrate also takes significantly longer to colonize, increasing the window of vulnerability to contamination during the uncolonized period. A jar that takes 5 weeks to fully colonize instead of 2 to 3 weeks has twice the exposure time for airborne contaminants to find a foothold.
 
-The larger cakes are more difficult to birth and manage in the [[pf-tek-substrate-jar-preparation-and-steam-sterilization|steam sterilization]] and cooling, the tape is removed immediately before inoculation and replaced with fresh tape afterward. This tape replacement cycle ensures that any contaminants that may have settled on the tape surface during the sterilization and storage period are discarded before the vulnerable inoculation step.
+The larger cakes are more difficult to birth and manage in the steam sterilization and cooling, the tape is removed immediately before inoculation and replaced with fresh tape afterward. This tape replacement cycle ensures that any contaminants that may have settled on the tape surface during the sterilization and storage period are discarded before the vulnerable inoculation step.
 
 ## Steaming Setup and Jar Protection
 
@@ -49,7 +49,7 @@ The jars can sit in water as long as boiling water cannot slosh into the jar ope
 ## See Also
 
 - [[pf-tek-guide|PF TEK Guide]]
-- [[pf-tek-substrate-jar-preparation-and-steam-sterilization|Substrate Jar Preparation]]
+- Substrate [[pf-tek-jar-preparation-steam-sterilization]]
 - [[pf-tek-steam-sterilization-technique|Steam Sterilization Technique]]
 - Jar Selection and Physical Requirements
 ## Practical Considerations
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: How Do I Grow Bananas Successfully in a Subtropical Climate?
+title: How Do I query how do i grow bananas in a subtropical climate Successfully in a Subtropical Climate?
 tags:
   - banana
   - subtropical-gardening
@@ -49,7 +49,7 @@ This is the single most important decision. Most commercial bananas (Cavendish, 
 Subtropical climates challenge bananas in several ways:
 
 - **Winter chill:** Temperatures below 13°C (55°F) stop growth entirely. Prolonged exposure below 10°C causes chilling injury (yellowing leaves, poor fruit quality). Frost below 0°C kills above-ground tissue
-- **Short growing season:** In Mediterranean climates (Southern California, coastal Mediterranean), the growing season may be only 8–10 months. Bananas need 9–18 months of warm weather from planting to harvest
+- **Short [[savory-growing-season-and-non-growing-season-management]]:** In Mediterranean climates (Southern California, coastal Mediterranean), the growing season may be only 8–10 months. Bananas need 9–18 months of [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]] from planting to harvest
 - **Cool summer nights:** Even if daytime highs are warm, night temperatures below 15°C slow fruit filling and can cause poor ripening
 - **Dry summers:** Many subtropical zones have summer drought; bananas need consistent moisture
 - **Wind:** Subtropical areas (coastal, exposed) can be windy; bananas are highly susceptible
@@ -78,6 +78,8 @@ Subtropical climates challenge bananas in several ways:
 - Bunches may be **smaller** (15–30 kg vs. 25–50 kg in the tropics) due to shorter warm periods and lower total heat units
 - Fruit quality can be excellent in subtropical climates — cool nights can enhance sweetness in some varieties
 ## See Also
+
+- [[apples-and-bananas]]
 
 - [[query-how-do-i-grow-figs-in-cold-climates]]
 - [[query-how-to-grow-and-use-oca-in-temperate-climates]]

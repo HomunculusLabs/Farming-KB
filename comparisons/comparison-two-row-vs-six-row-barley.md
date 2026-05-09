@@ -43,7 +43,7 @@ Brewers compensating with 6-row malt typically employ protein rests during mashi
 
 ## Regional and Historical Context
 
-- **North America** historically favored 6-row barley because it thrived in the hotter, drier growing conditions of the US Midwest. The American lager tradition (Budweiser, Miller, Coors) was built on 6-row malt combined with corn and rice adjuncts.
+- **[[psilocybin-north-america-pacific-northwest]]** historically favored 6-row barley because it thrived in the hotter, drier growing conditions of the US Midwest. The American lager tradition (Budweiser, Miller, Coors) was built on 6-row malt combined with corn and rice adjuncts.
 - **Europe** has almost exclusively used 2-row barley for centuries. Continental European brewing traditions (German, Czech, Belgian) rely on 2-row malt purity laws and specific 2-row varieties for their character.
 - **Modern craft brewing** overwhelmingly prefers 2-row barley. As craft brewers moved toward all-malt recipes with minimal adjuncts, 2-row's superior flavor and lower protein became the obvious choice. American 2-row is now the base malt standard for most craft breweries.
 
@@ -52,7 +52,7 @@ Brewers compensating with 6-row malt typically employ protein rests during mashi
 | Factor | 2-Row | 6-Row |
 |---|---|---|
 | Yield per acre | Slightly lower | Higher (more kernels per head) |
-| Drought tolerance | Moderate | Better |
+| [[dighton-fungal-drought-tolerance-plant-water-relations]] | Moderate | Better |
 | Heat tolerance | Lower | Higher |
 | Disease resistance | Varies by variety | Generally hardier |
 | Malting yield | Higher (more extract) | Lower |

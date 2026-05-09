@@ -41,7 +41,7 @@ helped popularize.
 
 ## Ecover Period
 Pauli was formerly chairman of Ecover, an ecological detergent company.
-That period is often used as a turning point in accounts of his thinking.
+That period is often used as a [[fukuoka-textdoc-post-season-cultivation-kochi-turning-point]] in accounts of his thinking.
 The problem was that an apparently ecological product could still depend on harmful
 upstream inputs, including palm-oil supply chains that damage primary forests.
 The lesson became central to his later work: a green product is not enough if the
@@ -49,7 +49,7 @@ whole system remains extractive.
 This pushed him toward broader supply-chain and ecosystem design.
 
 ## Founding ZERI
-In 1994 Pauli founded Zero Emissions Research and Initiatives, abbreviated ZERI.
+In 1994 Pauli founded Zero [[zero-emissions-research-and-initiatives]] and Initiatives, abbreviated ZERI.
 The network developed practical projects for eliminating waste by linking outputs
 from one process to inputs for another.
 ZERI's examples often use biological kingdoms as partners in production cascades.
@@ -84,15 +84,15 @@ This makes Pauli's work a useful bridge between applied mycology and regional ec
 development.
 
 ## Connection to This Wiki
-The concept page [[fungi-sustainable-packaging-and-materials]] uses ZERI as a framework for
+The concept page fungi-sustainable-packaging-and-materials uses ZERI as a framework for
 turning fungal and plant materials into sustainable products.
-These pages treat Pauli as a connector between mycology, waste cycling, and industrial
+These pages treat Pauli as a connector between mycology, [[permaculture-food-waste-cycling]], and industrial
 design.
 A dedicated entity page helps link those scattered references.
 
 ## Brewery Cascade
 One ZERI-style example associated with this wiki is the brewery cascade.
-Spent grain from brewing can become substrate for oyster mushrooms such as
+Spent grain from brewing can become substrate for [[query-how-to-grow-oyster-mushrooms-at-home]] such as
 [[zero-emissions-research-and-initiatives]]
 - blue economy
 - [[fungal-roles-in-mass-extinction-recovery]]

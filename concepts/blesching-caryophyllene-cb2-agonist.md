@@ -22,18 +22,18 @@ most accessible cannabinoid-mimicking compounds available.
 ## What Is Beta-Caryophyllene?
 
 Beta-caryophyllene (also written as beta-caryophyllene or BCP) is a
-bicyclic sesquiterpene found in the essential oils of numerous plants. It
+bicyclic sesquiterpene found in the [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of numerous plants. It
 is one of the major terpenes in cannabis, typically comprising 5-15% of the
 plant's essential oil profile depending on the strain. However, BCP is far
 more ubiquitous than cannabis alone -- it is found in significant
-quantities in many common culinary herbs and spices, making it a regular
+quantities in many common [[holzer-medicinal-and-culinary-herbs-compendium]] and spices, making it a regular
 component of the human diet worldwide.
 
 ## Natural Dietary Sources
 
 Beta-caryophyllene is abundant in several widely consumed foods and spices:
 
-- **Black pepper (Piper nigrum)**: One of the richest common dietary
+- **[[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]] (Piper nigrum)**: One of the richest common dietary
   sources of BCP. The characteristic pungent flavor of black pepper is
   due in part to beta-caryophyllene, which can constitute up to 30% of
   its essential oil.
@@ -79,14 +79,14 @@ CB2 receptor activation:
 
 - CB2 receptor activation by BCP suppresses pro-inflammatory cytokine
   production (TNF-alpha, IL-1beta, IL-6) from immune cells
-- BCP reduces neutrophil infiltration and oxidative stress at sites of
+- BCP reduces neutrophil infiltration and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] at sites of
   inflammation
 - The compound has shown efficacy in animal models of inflammatory
   conditions including colitis, arthritis, and neuroinflammation
 - These effects are consistent with broader evidence for
   [[cannabis-cancer-symptom-management]]
 
-These findings are primarily from preclinical studies, and clinical trials
+These findings are primarily from preclinical studies, and [[mushroom-cancer-clinical-trials-overview]]
 are needed to evaluate BCP's anti-cancer potential in humans.
 
 ## FDA Status and Safety Profile
@@ -99,7 +99,7 @@ toxicological evaluation. Key safety considerations include:
 
 - No known psychoactive effects due to CB2 selectivity
 - Excellent oral bioavailability
-- No significant drug interactions identified at dietary exposure levels
+- No significant [[cannabis-drug-interactions-and-contraindications]] identified at dietary exposure levels
 - Well-tolerated at supplement doses, with mild gastrointestinal effects
   possible at very high doses
 

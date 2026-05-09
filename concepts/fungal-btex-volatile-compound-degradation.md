@@ -1,5 +1,5 @@
 ---
-title: Fungal BTEX and Volatile Organic Compound Degradation
+title: Fungal BTEX and fungal-volatile-organic-compounds-communication Compound Degradation
 created: 2026-04-28
 tags: [BTEX, VOC, bioremediation, petroleum, mycoremediation]
 date: 2026-04-25
@@ -51,13 +51,13 @@ Trichloroethylene (TCE) is a volatile aliphatic halocarbon used as
 an industrial degreasing solvent and chemical precursor. TCE is a
 suspected carcinogen causing cardiac and neurological problems, and
 is one of the most important pollutants of soils, air, and aquifers
-in the United States. P. chrysosporium degrades TCE under nutrient-
+in the [[dmt-containing-plants-united-states-halpern]]. P. chrysosporium degrades TCE under nutrient-
 rich conditions through an alternative enzyme system independent of
 LiP or MnP production, probably upregulated under nutrient-rich
 conditions. Total TCE removal of 46.2% was achieved, with 38.5%
 converted to carbon dioxide, indicating that most TCE is
 mineralized. This represents an important finding because TCE
-degradation by fungi had been relatively unexplored.
+[[query-how-does-lignin-degradation-by-fungi-work]] had been relatively unexplored.
 
 ## Linear Alkylbenzene Sulfonate Transformation
 
@@ -83,7 +83,7 @@ substituted benzenes has been observed, demonstrating the capacity
 to handle mixed contamination scenarios. Chlorobenzenes are
 structurally simpler than PCBs but share the challenge of
 chlorine-substituted aromatic rings that resist biological attack.
-Fungal degradation of chlorobenzenes suggests potential for
+[[singh-fungal-degradation-endocrine-disrupting-compounds]] of chlorobenzenes suggests potential for
 treating mixed halogenated and non-halogenated VOC plumes.
 
 ## Ligninolytic versus Non-Ligninolytic Pathways
@@ -92,5 +92,7 @@ A notable finding in fungal VOC degradation is that many compounds
 are degraded more effectively under nutrient-rich conditions where
 [[fungal-explosive-compound-degradation]]
 
-- [[mycoremediation-of-petroleum-hydrocarbons]]
-- [[mycoremediation-oil-spills]]
+- mycoremediation-of-petroleum-hydrocarbons
+- mycoremediation-oil-spills
+## See Also
+- [[mycoremediation]]

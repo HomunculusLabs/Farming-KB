@@ -3,7 +3,7 @@
 
 ## Core Argument
 
-[[peyote]] represents direct
+peyote represents direct
 suppression of indigenous spiritual practice by a government that simultaneously
 claims to protect religious freedom under the First Amendment.
 
@@ -29,9 +29,9 @@ physical foundations and can be profoundly altered by chemical intervention.
 ### The Ego and Its Defenses
 
 The terror the ego feels in contemplating the dissolution of boundaries between
-self and world lies behind the suppression of altered states of consciousness,
+self and world lies behind the suppression of [[weil-the-natural-mind-altered-states-normalcy]] of consciousness,
 the feminine, the foreign and exotic, and transcendental experiences. In
-prehistoric times, suppression of partnership society by patriarchal invaders
+prehistoric times, suppression of [[mckenna-dominator-vs-partnership-society-model]] by patriarchal invaders
 set the stage for suppression of the open-ended investigation of nature carried
 on by shamans. The Archaic tradition was replaced by dogma, priestcraft,
 patriarchy, and dominator values.
@@ -45,16 +45,16 @@ freedoms: religious practice and the privacy of the individual mind.
 ### The Original Religious Sensibility
 
 Religious use of [[partnership-vs-dominator-culture-mckenna]] Dominator Society Model
-- McKenna   A Modest Proposal Drug Policy Reform
+- McKenna   A [[mckenna-modest-proposal-drug-policy-reform]] Drug Policy Reform
 - McKenna   Drug War and Human Freedom
-- McKenna   The Dissolution of the Dominator Culture
+- McKenna   The Dissolution of the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]
 
 ## See Also
 
 - [[mckenna-food-gods-genesis-first-drug-bust]]
 ## Practical Considerations
 
-When working with Mckenna Food Gods Fundamentalist Christianity Drug War, several practical factors should be
+When working with Mckenna Food mckenna food gods fundamentalist christianity drug war Christianity Drug War, several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,5 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+- [[mckenna-food-gods-television-drug-mass-hypnosis]]
+- [[mckenna-food-gods-television-dominator-drug]]

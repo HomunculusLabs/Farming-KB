@@ -1,7 +1,7 @@
 ---
 title: Soil Surface and Capping
 created: 2026-04-26
-aliases: [soil capping, crumb structure, soil surface management,
+aliases: [soil capping, crumb structure, soil [[jadam-soil-surface-management-no-till]],
           soil crust, bare ground, algae lichen crust]
 tags: [soil-surface, capping, crumb-structure, erosion, water-infiltration]
 related: [savory-water-cycle-management, savory-mineral-cycle-management,
@@ -16,9 +16,9 @@ type: concept
 # Soil Surface and Capping
 
 The condition of the soil surface is the single most critical factor
-determining the health of all four ecosystem foundation blocks. In
-Holistic Resource Management, soil surface management is central to
-the management of succession, water cycle, mineral cycle, and energy
+determining the health of all four [[savory-ecosystem-foundation-blocks]] blocks. In
+[[savory-holistic-resource-management-animal-impact]] Management, soil surface management is central to
+the management of succession, water cycle, [[savory-mineral-cycle-management]], and energy
 flow. An exposed, capped soil surface creates a cascade of degradation
 that affects every aspect of ecosystem function.
 
@@ -103,7 +103,7 @@ for thousands of years once they encrust the surface. These crusts do
 inhibit erosion to a degree on fairly flat ground, which has produced
 debate about whether to disturb them.
 
-Traditional American range management favors protecting algal crusts
+Traditional American [[mollison-pdc-range-management-wildlife]] favors protecting algal crusts
 and disparages any kind of trampling because breaking the crust
 increases erosion in the short run. Savory argues that a much deeper,
 long-term observation shows that heavy trampling over a short period
@@ -128,7 +128,7 @@ Management tools must be applied so that soil acquires and maintains
 adequate organic content and animal activity. Tools that break up a
 capped surface, increase organic content and crumb structure, and
 create rough surfaces that slow water flow all improve soil surface
-condition. In brittle environments, periodic animal impact through
+condition. In brittle environments, periodic [[savory-animal-impact-and-herd-effect]] through
 herd effect provides the disturbance needed to maintain soil health.
 
 ## See Also

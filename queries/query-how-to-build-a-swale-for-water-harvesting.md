@@ -1,5 +1,5 @@
 ---
-title: "How to Build a Swale for Water Harvesting"
+title: "How to query how to build a swale for water harvesting for Water Harvesting"
 created: 2026-04-28
 tags: [query, permaculture, water-harvesting, earthworks, swales]
 date: 2026-04-25
@@ -11,17 +11,17 @@ type: query
 ## Short Answer
 A swale is a level ditch-and-berm system built on contour across a slope to capture, slow, and infiltrate surface water runoff into the soil. Building one involves marking contour lines with an A-frame level, digging a shallow ditch on contour, and piling the excavated soil on the downhill side to form a berm that holds water until it soaks into the ground.
 ## Key Points
-- Swales are passive water harvesting earthworks that capture runoff and recharge groundwater
+- Swales are passive water [[pdc-water-harvesting-earthworks-design]] that capture runoff and recharge groundwater
 - They must be built perfectly level on contour to prevent dangerous water concentration at one end
 - An A-frame level is the simplest tool for marking accurate contour lines across a slope
 - Swales work best on slopes between 2 and 15 percent grade
 - Typical dimensions are 1 to 3 feet deep and 2 to 4 feet wide, scaled to catchment area
 - The berm should be compacted and planted immediately with deep-rooted perennials
-- Swales concentrate water infiltration at specific points, unlike keyline design which distributes broadly
+- Swales concentrate water infiltration at specific points, unlike [[query-how-does-keyline-design-work-in-permaculture]] which distributes broadly
 - They integrate well with other water harvesting elements like ponds, rain tanks, and greywater systems
 ## Detailed Explanation
 ### What Is a Swale?
-Swales are foundational earthworks in [[faires-swales-and-water-conservation]] guide recommends installing the first swale near the top of the slope.
+Swales are foundational earthworks in faires-swales-and-water-conservation guide recommends installing the first swale near the top of the slope.
 Additional swales should be spaced at vertical intervals determined by three key factors:
 - **Soil type** — sandy soils infiltrate quickly, allowing closer spacing
 - **Slope gradient** — steeper slopes need closer spacing to catch water before it gains speed
@@ -33,7 +33,7 @@ Gathering the right tools before starting will make the construction process smo
 3. **Measuring tape and marking flags or stakes** — for laying out the contour line
 4. **Shovel, mattock, or excavator** — depending on swale size and scale
 5. **Wheelbarrow** — for moving excavated soil to the berm
-The [[gaias-garden-swales-and-berms-construction]] guide emphasizes that the berm is just as important as the ditch.
+The gaias-garden-swales-and-berms-construction guide emphasizes that the berm is just as important as the ditch.
 Shape the berm with a slight rounded crown to shed water that overtops it during extreme rainfall events. A flat-topped berm can allow water to pond on top and erode through.
 Avoid placing rocks, roots, or debris in the berm, as these create weak points where water can channel through during heavy flows.
 #### Step 4: Plant Immediately
@@ -42,10 +42,10 @@ Bare soil on a newly built berm is highly vulnerable to erosion from the first r
 Good berm planting choices include:
 - **Fruit trees** — apple, pear, plum, and citrus thrive on the well-drained berm shoulder
 - **Nitrogen fixers** — leguminous trees and shrubs improve soil fertility over time
-- **Dynamic accumulators** — comfrey and yarrow mine deep minerals and cycle them to the surface
-- **Ground covers** — clover, vetch, or creeping thyme protect the soil surface from erosion
+- **[[comparison-dynamic-accumulators-vs-cover-crops]]** — comfrey and yarrow mine deep minerals and cycle them to the surface
+- **[[permaculture-plants-food-forest-ground-covers-bamboos]]** — clover, vetch, or creeping thyme protect the soil surface from erosion
 ### Swales vs. Keyline Design
-Swales differ from keyline design in their approach to water management. Understanding the distinction helps you choose the right technique for your property.
+Swales differ from keyline design in their approach to water management. Understanding the distinction helps you [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] technique for your property.
 | Feature | Swales | Keyline Design |
 |---|---|---|
 | Placement | Exact contour lines | Parallel to keypoint contours |
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: Rehabilitation Through Mushroom Cultivation
+title: Rehabilitation Through accessible-mushroom-cultivation-for-disabilities
 created: 2026-04-28
 tags: [rehabilitation, disability-inclusion, mushroom-cultivation,
   self-reliance, three-in-one-training]
@@ -12,7 +12,7 @@ type: concept
 
 # Rehabilitation Through Mushroom Cultivation
 
-The FAO training manual for mushroom cultivation by people with
+The FAO [[mushroom-cultivation-disabilities-training-manual-overview]] for mushroom cultivation by people with
 disabilities introduces a "Three-in-One" training approach that combines
 rehabilitation, mushroom cultivation skills, and enterprise development.
 This integrated model recognizes that effective training for people with
@@ -88,7 +88,7 @@ bag production for higher profit.
 The manual identifies specific advantages of mushroom cultivation as a
 rehabilitation tool. Cultivation under shade reduces physical exertion
 compared to open-field farming. Repetitive tasks suit people with mental
-disabilities who can learn through practice. The cool growing environment
+disabilities who can learn through practice. The cool [[cannabis-growing-environment-setup]]
 benefits chronically ill or weak individuals. The wide range of
 activities accommodates diverse physical capabilities, from bag
 preparation to harvesting to marketing.

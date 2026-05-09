@@ -3,7 +3,7 @@ title: Bud Rot (Botrytis) - Cannabis Disease Guide
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -11,7 +11,7 @@ tags: [cannabis]
 
 # Bud Rot (Botrytis cinerea) on Cannabis
 
-Gray mold (Botrytis cinerea), commonly known as bud rot or bud mold, is the most common and destructive fungus that attacks indoor cannabis plants. It flourishes in the moist temperate climates common to grow rooms and can spread through an entire crop in a matter of days. Botrytis is so prolific that it can reduce a harvest to a wisp of powdery foliage in short order. In one documented case, a grow room located near a swamp had omnipresent Botrytis spores; the grower lost four consecutive crops before moving to a new location.
+Gray mold (Botrytis cinerea), commonly known as bud rot or bud mold, is the most common and destructive fungus that attacks [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]] plants. It flourishes in the moist temperate climates common to grow rooms and can spread through an entire crop in a matter of days. Botrytis is so prolific that it can reduce a harvest to a wisp of powdery foliage in short order. In one documented case, a grow room located near a swamp had omnipresent Botrytis spores; the grower lost four consecutive crops before moving to a new location.
 
 ## Identification
 
@@ -37,7 +37,7 @@ Botrytis reproduces through airborne spores that are present virtually everywher
 - Can infect an entire grow room in less than a week when conditions are right
 - Flower buds are quickly reduced to slime in cool, humid conditions or unsmokable powder in warm, dry rooms
 
-The rapid spread of Botrytis makes constant vigilance essential, especially during the flowering stage when dense buds create ideal microclimates for fungal growth.
+The rapid spread of Botrytis makes constant vigilance essential, especially during the [[cannabis-flowering-stage-management]] when dense buds create ideal microclimates for fungal growth.
 
 ## Early Warning Signs
 
@@ -73,13 +73,13 @@ Botrytis thrives in:
 
 ## Prevention
 
-- **Humidity control**: Keep humidity at 50% or less; install vent fans large enough to remove moist air quickly
+- **[[cervantes-humidity-control-dehumidification]]**: Keep humidity at 50% or less; install vent fans large enough to remove moist air quickly
 - **Air circulation**: Ample circulation and ventilation are essential; a vent fan is the easiest and least expensive humidity control device
-- **Strain selection**: Grow varieties that do not produce heavy, tightly packed buds; many crosses are more resistant than pure indica varieties; some varieties seldom fall victim to gray mold
+- **[[blesching-cannabis-strain-selection-receptor-targeting]]**: Grow varieties that do not produce heavy, tightly packed buds; many crosses are more resistant than pure indica varieties; some varieties seldom fall victim to gray mold
 - **Sanitation**: Remove dead leaf stems and petioles when defoliating; keep the grow room clean
 - **Fresh medium**: Use sterile growing medium for each crop
 - **pH management**: Keep pH around 6 to facilitate calcium uptake
-- **Harvest timing**: Harvest when resin glands are still translucent — once glands turn amber, threat of gray mold increases substantially
+- **[[cannabis-harvest-timing-visual-cues]]**: Harvest when resin glands are still translucent — once glands turn amber, threat of gray mold increases substantially
 - **Avoid excess nitrogen and phosphorus**: These make foliage tender, allowing Botrytis to get a foothold
 - **Bright light**: Low light levels encourage weak growth and gray mold attack
 
@@ -124,6 +124,6 @@ When Botrytis symptoms appear:
 ## See Also
 
 - [[cannabis-root-rot-prevention-and-treatment]] — another fungal disease affecting cannabis
-- [[humidity-cannabis-growing]] — environmental control
+- [[humidity-cannabis-growing]] — [[eclss-environmental-control-life-support]]
 - [[gaias-garden-cover-crops-soil-building]]
 - [[hamilton-pest-and-disease-control-organic]]

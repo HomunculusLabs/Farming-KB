@@ -1,5 +1,5 @@
 ---
-title: "IM (ISOMESCALINE; 2,3,4-TRIMETHOXYPHENETHYLAMINE) -- PIHKAL Entry #91"
+title: "IM (ISOMESCALINE; 2,3,4-TRIMETHOXYPHENETHYLAMINE) -- 2c-b-pihkal-entry-20 #91"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # IM
 
-PIHKAL entry #91. ISOMESCALINE; 2,3,4-TRIMETHOXYPHENETHYLAMINE.
+[[2c-b-pihkal-entry-20]] #91. ISOMESCALINE; 2,3,4-TRIMETHOXYPHENETHYLAMINE.
 
 ## Chemical Name
 
@@ -64,7 +64,7 @@ with methionine (an [[tryptamine]] research varies by jurisdiction.
 - [[phenethylamine-chemistry-basics]]
 ## Practical Considerations
 
-Successful implementation of IM (ISOMESCALINE; 2,3,4-TRIMETHOXYPHENETHYLAMINE) -- PIHKAL Entry #91 requires attention to
+Successful implementation of IM (ISOMESCALINE; 2,3,4-TRIMETHOXYPHENETHYLAMINE) -- [[2c-c-pihkal-entry-22]] #91 requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

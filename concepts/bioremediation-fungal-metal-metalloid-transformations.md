@@ -1,5 +1,5 @@
 ---
-title: "Fungal Metal and Metalloid Transformations in Bioremediation"
+title: "bioremediation fungal metal metalloid transformations and Metalloid Transformations in Bioremediation"
 created: 2026-04-28
 tags: [bioremediation, heavy-metals, metalloid, biomethylation, bioremediation]
 date: 2026-04-25
@@ -30,7 +30,7 @@ reduction, methylation (biomethylation), and dealkylation.
 
 Reduction reactions convert metals from higher to lower oxidation states,
 often resulting in precipitation and immobilization. Silver(I) reduction
-to metallic silver(0) during fungal growth on silver nitrate media
+to metallic silver(0) during [[brassinosteroid-fungal-growth-promotion]] on silver nitrate media
 produces blackened colonies with metallic silver precipitated in and
 around cell walls. Both enzymatic and non-enzymatic copper(II)-reducing
 systems have been purified from Debaryomyces hansenii cell walls.
@@ -118,7 +118,7 @@ versatile toolkit for metal and metalloid remediation.
 
 ## Practical Applications
 
-The metal transformation capabilities of fungi are being
+The [[singh-metal-transformation-leaching-mechanisms-fungi]] capabilities of fungi are being
 harnessed for bioremediation of contaminated sites. Fungal-based
 bioreactors and biofilters can treat metal-laden wastewater through
 biosorption, bioaccumulation, and enzymatic transformation of toxic
@@ -126,6 +126,8 @@ metal species. In situ applications include mycoremediation of
 mine tailings and industrial waste sites.
 
 ## See Also
+
+- [[bioremediation-fungal-iron-reduction-chelation-metal-solubilization]]
 
 - [[mycoremediation]]
 - [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]]

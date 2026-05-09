@@ -27,7 +27,7 @@ tags:
 
 ## Overview
 
-Cold shocking is a cultivation technique in which fully colonised substrate cultures are placed in a refrigerator (typically 2–4 °C) overnight before being transferred to fruiting conditions. The procedure simulates the onset of cooler seasonal weather, which in nature acts as an environmental cue prompting many fungal species to redirect energy from vegetative growth toward reproductive structures. However, the effectiveness of cold shock is **highly species-dependent**, and applying it indiscriminately across all *Psilocybe* and psychoactive agaric species can be counterproductive or simply unnecessary. The source paper on grass seed cultivation provides clear evidence that cold shock benefits only certain strains while being entirely irrelevant for others.
+Cold shocking is a cultivation technique in which fully colonised substrate cultures are placed in a refrigerator (typically 2–4 °C) overnight before being transferred to [[fruiting-conditions]]. The procedure simulates the onset of cooler seasonal weather, which in nature acts as an environmental cue prompting many fungal species to redirect energy from vegetative growth toward reproductive structures. However, the effectiveness of cold shock is **highly species-dependent**, and applying it indiscriminately across all *Psilocybe* and psychoactive agaric species can be counterproductive or simply unnecessary. The source paper on grass seed cultivation provides clear evidence that cold shock benefits only certain strains while being entirely irrelevant for others.
 
 ## What Cold Shocking Is
 
@@ -45,7 +45,7 @@ Cold shock does not operate in isolation. It interacts synergistically with othe
 
 - **Light**: Ambient or directional light signals the presence of an open environment suitable for spore release. Most *Psilocybe* species require at least indirect light for normal fruiting morphology; continuous darkness yields etiolated, malformed, or absent fruitbodies. Blue-spectrum light (400–500 nm) is particularly effective at stimulating pinning.
 
-- **Fresh air exchange (FAE)**: Elevated CO₂ suppresses fruiting initiation and promotes continued vegetative growth. Introducing fresh air lowers CO₂ concentration, signalling that the mycelium has reached the substrate surface and is exposed to open air. CO₂ concentrations above ~1000 ppm are generally inhibitory to primordia formation.
+- **Fresh air exchange (FAE)**: Elevated CO₂ suppresses fruiting initiation and promotes continued vegetative growth. Introducing fresh air lowers CO₂ concentration, signalling that the mycelium has reached the substrate surface and is exposed to open air. CO₂ concentrations above ~1000 ppm are generally inhibitory to [[growing-gourmet-primordia-formation-pinning]].
 
 - **Humidity**: Sustained high relative humidity (90–95 % at the substrate surface) prevents desiccation of emerging primordia and developing pins. Evaporation from the substrate surface also plays a role in initiating pin formation, creating a balance between too much and too little moisture.
 
@@ -61,17 +61,15 @@ The paper does not identify these strains by specific epithet, but the category 
 
 The source paper explicitly identifies several species for which cold shock provides **no measurable benefit**:
 
-- ***Psilocybe mexicana***: A sclerotium-forming species of central and southern Mexico. It fruits readily under standard conditions without cold treatment. The species naturally fruits in warm, humid grassland environments where dramatic temperature drops are not a regular seasonal feature. Its ecological niche did not select for cold-responsive fruiting pathways.
+- ***[[psilocybe-mexicana]]***: A sclerotium-forming species of central and southern Mexico. It fruits readily under standard conditions without cold treatment. The species naturally fruits in warm, humid grassland environments where dramatic temperature drops are not a regular seasonal feature. Its ecological niche did not select for cold-responsive fruiting pathways.
 
-- ***Psilocybe tampanensis***: Another sclerotium-producing species originally collected near Tampa, Florida. Like *P. mexicana*, it initiates fruiting without cold shock and may be indifferent or slightly negatively affected by the procedure. It prefers warm, stable conditions and tends to produce sclerotia as its primary survival structure rather than relying heavily on above-ground fruiting.
-
-- ***Panaeolus subbalteatus*** (syn. *P. cinctulus*): A cosmopolitan coprophilous species found worldwide. Coprophilous fungi fruit in response to substrate availability and moisture rather than temperature cues, making cold shock an irrelevant variable for this genus. The species fruits in warm months across a wide geographic range with no apparent association with seasonal cooling.
+- ***[[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]***: Another sclerotium-producing species originally collected near Tampa, Florida. Like *P. mexicana*, it initiates fruiting without cold shock and may be indifferent or slightly negatively affected by the procedure. It prefers warm, stable conditions and tends to produce sclerotia as its primary survival structure rather than relying heavily on above-ground frui [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]] subbalteatus*** (syn. *P. cinctulus*): A cosmopolitan coprophilous species found worldwide. [[coprophilous-fungi]] fruit in response to substrate availability and moisture rather than temperature cues, making cold shock an irrelevant variable for this genus. The species fruits in warm months across a wide geographic range with no apparent association with seasonal cooling.
 
 ## Easy-Fruiting Strains: Ecuador Cubensis
 
-The paper notes that easy-fruiting strains — using **Ecuador cubensis** (*Psilocybe cubensis* "Ecuador") as a representative — require no cold shock. *P. cubensis* is a tropical and subtropical species that evolved to fruit in warm, humid conditions with relatively stable temperatures. Cold shock is an unnecessary step that adds handling time without improving yield, pin count, or time to first harvest.
+The paper notes that easy-fruiting strains — using **Ecuador cubensis** (*[[psilocybe-cubensis]]* "Ecuador") as a representative — require no cold shock. *P. cubensis* is a tropical and subtropical species that evolved to fruit in warm, humid conditions with relatively stable temperatures. Cold shock is an unnecessary step that adds handling time without improving yield, pin count, or time to first harvest.
 
-Ecuador cubensis in particular is noted for aggressive colonisation speed and enthusiastic fruiting response, making it popular with cultivators at all experience levels. Standard parameters — ambient light, adequate FAE, and high humidity — are more than sufficient to trigger prolific flushes without any temperature manipulation. Many cultivators who apply cold shock to cubensis strains are following inherited wisdom from temperate mushroom cultivation guides that may not be applicable to tropical psilocybin species.
+Ecuador cubensis in particular is noted for aggressive colonisation speed and enthusiastic fruiting response, making it popular with cultivators at all experience levels. Standard parameters — ambient light, adequate FAE, and high humidity — are more than sufficient to trigger prolific flushes without any temperature manipulation. Many cultivators who apply cold shock to [[cap-vs-stem-alkaloid-distribution-psilocybe-cubensis-strains-bigwood-beug]] are following inherited wi [[accessible-mushroom-cultivation-for-disabilities]] mushroom cultivation guides that may not be applicable to tropical psilocybin species.
 
 ## Practical Cold Shock Protocol
 
@@ -112,9 +110,7 @@ Several persistent misconceptions surround cold shock in amateur mycology:
 
 - **"Colder is better."** Temperatures below freezing will damage or kill mycelium. The recommended range of 2–4 °C is a mild stimulus, not a deep freeze. Colder temperatures do not produce stronger or faster fruiting responses.
 
-- **"Cold shock replaces other fruiting triggers."** Cold shock is supplementary. It must be combined with adequate light, FAE, and humidity. A refrigerated culture placed back into a sealed, dark, stagnant container will still not fruit.
-
-- **"All psilocybin mushrooms benefit from cold shock."** The source paper directly contradicts this. *P. mexicana*, *P. tampanensis*, and *P. subbalteatus* show no benefit, and *P. cubensis* strains like Ecuador require no such treatment.
+- **"Cold shock replaces other fruiting triggers."** Cold shock is supplementary. It must be combined with adequate light, FAE, and humidity. A refrigerated culture placed back into a sealed, dark, stagnant container will still n [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] psilocybin mushrooms benefit from cold shock."** The source paper directly contradicts this. *P. mexicana*, *P. tampanensis*, and *P. subbalteatus* show no benefit, and *P. cubensis* strains like Ecuador require no such treatment.
 
 ## Implications for Cultivators
 

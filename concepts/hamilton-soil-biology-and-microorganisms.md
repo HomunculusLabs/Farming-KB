@@ -11,7 +11,7 @@ type: concept
 # Soil Biology and Microorganisms
 
 The health and productivity of any garden depends not on the mineral content
-of the soil alone, but on the vast community of living organisms that inhabit
+of the soil alone, but on the vast community of [[savory-living-organisms-as-tools]] that inhabit
 it. In a natural soil there are millions of microorganisms working
 continuously to produce the nutrients that plants need for healthy growth.
 The organic approach to gardening begins with nurturing this subterranean
@@ -21,7 +21,7 @@ plants.
 ## The Soil as a Living Ecosystem
 
 Soil is far more than mineral particles used to anchor roots. Its makeup
-includes organic matter in various stages of decay, air, water, and millions
+includes [[hamilton-composting-and-organic-matter-management]] in various stages of decay, air, water, and millions
 of living organisms including soil fungi, algae, bacteria, insects, and
 worms. These organisms provide plants with food in a form they can absorb
 and improve soil structure by breaking it up and allowing air to circulate.
@@ -67,10 +67,10 @@ require less air than bacteria but more light. This is why woody prunings
 take so long to compost on the main heap but can be speeded up by chopping
 them into smaller pieces.
 
-Mycorrhizal fungi form associations with plant roots, extending the root
+[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] form associations with plant roots, extending the root
 network and helping plants access nutrients and water that would otherwise
 be unavailable. These fungal relationships are especially important in
-organic systems where chemical fertilizers are not used to supply nutrients
+organic systems where [[cervantes-chemical-fertilizers-guide]] are not used to supply nutrients
 directly.
 
 ## Earthworms and Soil-Dwelling Invertebrates
@@ -94,13 +94,13 @@ The chemical gardener uses soil merely to hold artificial fertilizers and
 anchor roots. In the long term, because organic matter is not replaced,
 soil organisms die out. Without them, soil structure breaks down, the soil
 becomes hard and airless, and force-feeding plants produces soft, sappy
-growth prone to pest and disease attack.
+growth prone to [[hamilton-pest-and-disease-control-organic]] attack.
 
 The organic gardener, by contrast, feeds the soil with natural materials
 such as compost, manure, and green-manure crops. This supports the vast
 community of soil organisms, which in turn release nutrients in forms that
 plants can absorb as needed. Plants grown in biologically active soil are
-stronger and more resistant to pests and diseases.
+stronger and more resistant to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
 
 Regular digging improves soil aeration and drainage, mimicking the action
 of burrowing animals. Adding organic matter through compost and manure

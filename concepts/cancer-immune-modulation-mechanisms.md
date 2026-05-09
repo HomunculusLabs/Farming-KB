@@ -1,5 +1,5 @@
 ---
-title: Cancer Immune Modulation Mechanisms of Medicinal Mushrooms
+title: Cancer cancer immune modulation mechanisms Mechanisms of comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -15,7 +15,7 @@ tags: [reference]
 
 ## Overview
 
-The anticancer activity of medicinal mushroom extracts operates primarily through modulation of the host immune system. Bioactive polysaccharides and polysaccharide-protein complexes from these fungi enhance innate and cell-mediated immune responses, stimulating the maturation, differentiation, and proliferation of immune cells. While some mushroom-derived polymers also possess direct cytotoxic effects on cancer cells, immune modulation appears central to their antitumour action.
+The anticancer activity of medicinal mushroom extracts operates primarily through modulation of the [[fungal-virulence-factors-host-immune-evasion]] system. Bioactive polysaccharides and polysaccharide-protein complexes from these fungi enhance innate and cell-mediated immune responses, stimulating the maturation, differentiation, and proliferation of immune cells. While some mushroom-derived polymers also possess direct cytotoxic effects on cancer cells, immune modulation appears central to their antitumour action.
 
 ## Complement Receptor Type 3 (CR3) Binding
 
@@ -28,7 +28,7 @@ The key receptor mechanism involves beta-glucan binding to complement receptor t
 - Beta-glucan overrides normal resistance of iC3b-opsonised tumour cells to cytotoxic activation of phagocyte and NK cell CR3, allowing the complement system to function against tumour cells
 
 ### Significance
-Beta-glucan is one of the first biological response modifiers for which the cellular mechanism of action has been partially defined at the specific receptor level. The cytotoxic host defence function is specific for target cells bearing iC3b, so its action depends on antibody specificity.
+Beta-glucan is one of the first [[medicinal-mushrooms-biological-response-modifiers]] modifiers for which the cellular mechanism of action has been partially defined at the specific receptor level. The cytotoxic host defence function is specific for target cells bearing iC3b, so its action depends on antibody specificity.
 
 ## T-Cell Oriented Immunopotentiators
 
@@ -62,7 +62,7 @@ Macrophages are central effectors of mushroom-mediated antitumour immunity:
 
 ## NK Cell Activation
 
-Natural killer cells are critical for tumour surveillance and are activated by multiple mushroom compounds:
+Natural killer cells are critical for tumour surveillance and are activated by multiple [[medicinal-mushroom-compounds-and-health-benefits]]:
 - Lentinan activates NK cells in vitro at concentrations achievable in patient blood plasma
 - Reishi polysaccharide fractions enhance splenic NK cell cytotoxicity in tumour-bearing mice
 - NK cell activity is involved in tumour suppression independent of T-killer cell stimulation
@@ -103,13 +103,19 @@ Mushroom compounds also influence B-cell mediated immunity:
 
 A key feature of mushroom-derived immunomodulators is their ability to both stimulate and suppress immune responses depending on context:
 - Immune stimulation for cancer, immunodeficiency, and post-chemotherapy recovery
-- Immune suppression potentially useful for autoimmune conditions and gastrointestinal disorders
+- Immune suppression potentially useful for [[cannabis-autoimmune-conditions-detailed]] and gastrointestinal disorders
 - Lentinan and LEM restore or augment host cell responsiveness to lymphocytokines, hormones, and other biologically active substances
 - PSK has been shown to exert tumourcidal activity by inducing T cells that recognise PSK as an antigen and kill tumour cells in an antigen-specific manner
 
 ## See Also
 
+- [[blesching-cannabis-homeostasis-and-immune-regulation]]
+
+- [[blesching-cannabis-cancer-night-sweats]]
+
+- [[blesching-cannabis-brain-cancer-glioblastoma]]
+
 - [[cancer-beta-glucan-pharmacology]]
 - [[cancer-reishi-cancer-research]]
-- [[beta-glucan-receptor-binding]]
-- [[mushroom-cytokine-production-immune-activation]]
+- kappa opioid receptor
+- mushroom-cytokine-production-immune-activation

@@ -1,5 +1,5 @@
 ---
-title: Shamanic Tobaccos and the Loss of Nicotiana Rustica
+title: mckenna shamanic tobaccos and nicotiana rustica and the Loss of Nicotiana Rustica
 created: 2026-04-28
 tags: [tobacco, nicotiana-rustica, shamanism, Maya, McKenna, food-of-the-gods, MAO-inhibitors]
 date: 2026-04-28
@@ -8,11 +8,11 @@ sources: [mckenna_t-food_of_the_gods.md]
 type: concept
 ---
 
-# Shamanic Tobaccos and the Loss of Nicotiana Rustica
+# Shamanic Tobaccos and the Loss of [[nicotiana-rustica]]
 
 McKenna's treatment of tobacco in Food of the Gods focuses on a rarely discussed dimension of the plant's history: the gap between the powerful, hallucinogenic Nicotiana rustica used by indigenous shamans and the mild commercial Nicotiana tabacum that conquered Europe.
 
-This gap represents a larger pattern in which the introduction of drugs into dominator culture involves a systematic dilution of their psychoactive power, transforming sacred plants into commodities of mere recreation.
+This gap represents a larger pattern in which the introduction of drugs into [[mckenna-dominator-culture-and-suppression-of-ecstasy]] involves a systematic dilution of their psychoactive power, transforming sacred plants into commodities of mere recreation.
 
 ## Nicotiana Rustica in Mesoamerica
 
@@ -22,13 +22,13 @@ The high culture of the Maya that flourished until the mid-800s in Mesoamerica h
 
 This species is much more potent, chemically complex, and potentially hallucinogenic than the commercial grades of Nicotiana tabacum available today. The difference between this tobacco and cigarette tobacco is profound and not widely appreciated.
 
-The wild tobacco was cured and rolled into cigars which were smoked. The trancelike state that followed, partially synergized by compounds including MAO inhibitors, was central to the shamanism of the Maya. This was not casual recreation but serious spiritual practice.
+The wild tobacco was cured and rolled into cigars which were smoked. The trancelike state that followed, partially synergized by compounds including MAO inhibitors, was central to the [[shamanism]] of the Maya. This was not casual recreation but serious spiritual practice.
 
 ## Beta-Carboline Alkaloids in Tobacco
 
-Francis Robicsek has published extensively on the Mayan fascination with tobacco and its chemical complexity. Nicotine is by no means the only bioactive substance in the tobacco leaf.
+Francis Robicsek has published extensively on the Mayan fascination with tobacco and its chemical complexity. [[nicotine]] is by no means the only bioactive substance in the tobacco leaf.
 
-Recently alkaloids of the harmala group, harman and norharman, have been isolated from cured commercial tobaccos and their smoke. They constitute a chemical group of beta-carbolines, which include harmine, harmaline, tetrahydroharmine, and 6-methoxyharmine, all with hallucinogenic properties.
+Recently alkaloids of the harmala group, harman and norharman, have been isolated from cured commercial tobaccos and their smoke. They constitute a chemical group of beta-carbolines, which include tetrahydroharmine etrahydroharmine, and 6-methoxyharmine, all with hallucinogenic properties.
 
 While no native varieties of tobacco have been analyzed for these substances, it is a reasonable supposition that their composition may vary widely depending upon variety and growth conditions, and that some native-grown tobaccos may contain relatively high concentrations of these compounds.
 
@@ -52,9 +52,9 @@ One traditional use of tobacco involved the New World's invention of the first e
 
 It has only recently come to light that the ancient Maya employed enemas. Enema syringes and enema rituals were discovered to be represented in Maya art. A large painted vase dating to 600-800 AD depicts a man carrying an enema syringe, applying it to himself, and having a woman apply it to him.
 
-If the enemas of the ancient Maya were intoxicating or hallucinogenic, they might have consisted of fermented balche, a very sacred honey mead. Balche may have been fortified with tobacco or with morning-glory seed infusions containing lysergic acid amides.
+If the enemas of the ancient Maya were intoxicating or hallucinogenic, they might have consisted of fermented balche, a very sacred honey mead. Balche may have been fortified with tobacco or with morning-glory se lysergic acid containing lysergic acid amides.
 
-Datura infusions and even hallucinogenic mushrooms may have been administered in this way. Of course they could also have used a tobacco infusion alone. The range of possibilities reveals a sophisticated pharmacological toolkit.
+Datura infusions and even [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] may have been administered in this way. Of course they could also have used a tobacco infusion alone. The range of possibilities reveals a sophisticated pharmacological toolkit.
 
 ## Tobacco Triumphant and Commercial Dominance
 
@@ -66,7 +66,7 @@ The native tobaccos that McKenna experienced among Amazonian peoples were extrem
 
 ## Tobacco Quack Medicine in Europe
 
-Every drug introduced into use inevitably winds up associated with quack medical theories and treatments. Cocaine abuse was preceded by the craze for Vin de Mariani, and heroin was touted as a cure for morphine addiction.
+Every drug introduced into use inevitably winds up associated with quack medical theories and treatments. Cocaine abuse was preceded by the craze for Vin de Mariani, and heroin was touted as a cure morphine hine addiction.
 
 In 1661 the Danish physician Thomas Bartholin recommended not only tobacco-juice enemas but also tobacco-smoke enemas to his patients. Smoke from two pipes filled with tobacco was blown into the intestines using a suitable instrument devised by the ingenious English.
 
@@ -96,7 +96,7 @@ Once a drug is discovered, it often goes through a process of dilution before a 
 
 The notion of the correct dose of a drug is something that a culture evolves over time. The trend from snuffing powdered cocaine to smoking crack cocaine exemplifies a movement in the opposite direction, toward larger doses and more dangerous patterns of use.
 
-This dilution pattern is, for McKenna, emblematic of the dominator culture's relationship to psychoactive plants generally. Where partnership cultures seek the full visionary potential of the plant, dominator cultures prefer mild, controllable, non-threatening versions.
+This dilution pattern is, for McKenna, emblematic of the dominator culture's relationship to psychoactive plants generally. Where partnership cultures seek the full visionary potential of the plant, [[partnership-and-dominator-cultures-in-human-history]] prefer mild, controllable, non-threatening versions.
 
 ## The Contra-Tobacco Movement
 
@@ -106,7 +106,7 @@ King James I of England led the Protestant effort with his inflammatory Counterb
 
 Eight years later a report claimed that in London alone there were no fewer than 7,000 tobacconists and tobacco houses. Tobacco smoking and snuff taking were pursued at the level of intensity of a modern craze, despite the best efforts of church and crown.
 
-The pattern of initial resistance followed by eventual acceptance and commercial exploitation would repeat itself with every drug introduced to European culture. The specific drug mattered less than the structural relationship between the dominator culture and the substances it consumed.
+The pattern of initial resistance followed by eventual acceptance and commercial exploitation would repeat itself with every drug introduced to [[fukuoka-road-european-culture-of-food]]. The specific drug mattered less than the [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] between the dominator culture and the substances it consumed.
 
 ## The Legacy of the Rustica-Tabacum Split
 

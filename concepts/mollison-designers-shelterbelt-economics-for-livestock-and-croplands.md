@@ -1,5 +1,5 @@
 ---
-title: "Shelterbelt Economics for Livestock and Croplands"
+title: "mollison designers shelterbelt economics for livestock and croplands for Livestock and Croplands"
 created: 2026-04-26
 tags:
   - permaculture
@@ -17,7 +17,7 @@ type: concept
 # Shelterbelt Economics for Livestock and Croplands
 
 Shelterbelts and windbreaks are among the most economically
-significant elements in [[mollison-microclimate-creation]] and [[mollison-forage-trees-in-livestock-systems]] production and conserving rations.
+significant elements in mollison-microclimate-creation and mollison-forage-trees-in-livestock-systems production and conserving rations.
 
 ### Tropical Shelter
 In the tropics and subtropics, a ridge planting of pines or
@@ -44,7 +44,7 @@ on mountain passes and near exposed coasts subject to gales.
 
 For croplands, a matrix of shelterbelt species 10-16 m in height
 and 33-66 m apart (Casuarina, poplar, Matsudana willow, trimmed
-eucalypt) affords wind protection for crops such as kiwifruit and
+eucalypt) affords [[cervantes-wind-protection-outdoor-cannabis]] for crops such as kiwifruit and
 avocado, giving the greatest increases in yield while reducing wind
 damage to fruit and leaf.
 
@@ -62,7 +62,7 @@ preservation of good shape in trees, hence less pruning.
 
 Species selection for shelterbelts should be based on:
 
-- Nitrogen fixation or good mulch potential from leaves and
+- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] or good mulch potential from leaves and
   trimmings
 - Hosting of predatory insects or birds that control crop pests
 - Least moisture competition with crop (roots can be ripped or
@@ -88,9 +88,15 @@ single-tree lines is effective if close-spaced.
 
 ## Design Integration
 
-Shelterbelt economics reinforce the [[mollison-windbreak-design]]
+Shelterbelt economics reinforce the mollison-windbreak-design
 principle that every farm should have integrated wind protection.
 The 20-30% fuel savings, 15-20% livestock production increases, and
-10-17% crop yield improvements demonstrate that shelterbelt
+10-17% [[fukuoka-hotel-analogy-crop-yield-model]] improvements demonstrate that shelterbelt
 investment pays for itself rapidly while providing multiple
 additional yields.
+## See Also
+- [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]]
+- [[mollison-designers-lime-and-cement-natural-building]]
+- [[mollison-designers-citrus-growing-and-care]]
+- [[mollison-designers-rice-paddy-integrated-duck-fish]]
+- [[mollison-designers-geese-and-duck-weed-control]]

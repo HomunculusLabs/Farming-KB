@@ -24,7 +24,7 @@ Prunus persica, the peach, is a deciduous tree in the family Rosaceae native to 
 
 The species includes both freestone and clingstone fruit types, as well as the smooth-skinned nectarine variety which differs only by a single recessive gene for skin pubescence. Peaches are valued for their aromatic, juicy flesh and diverse culinary applications.
 
-China alone produces over 60% of the world's peaches, with the remaining production distributed among Mediterranean countries (Italy, Spain, Greece), the United States, and South America. The fruit's perishability limits long-distance trade, making local and regional markets the primary sales channels.
+China alone produces over 60% of the world's peaches, with the remaining production distributed among Mediterranean countries (Italy, Spain, Greece), the [[dmt-containing-plants-united-states-halpern]], and South America. The fruit's perishability limits long-distance trade, making local and regional markets the primary sales channels.
 
 ## Taxonomy and Morphology
 
@@ -32,11 +32,11 @@ Prunus persica (L.) Batsch was originally described by Linnaeus as Amygdalus per
 
 The tree reaches 2–6 meters in height with a spreading crown and glossy, lanceolate leaves 5–15 cm long. Leaves are serrated, tapering to a fine point, and often呈现 a reddish tinge when young.
 
-Flowers appear in early spring before the leaves, with five pink petals approximately 2.5 cm across. The showy blossoms make peach trees popular ornamental specimens in temperate landscapes worldwide.
+Flowers appear in [[coleman-overwintered-onions-and-early-spring-crops]] before the leaves, with five pink petals approximately 2.5 cm across. The showy blossoms make peach trees popular ornamental specimens in temperate landscapes worldwide.
 
 The fruit is a drupe 5–10 cm in diameter with fuzzy yellow-red skin and sweet, fragrant flesh surrounding a hard, pitted stone. Fruit weight ranges from 50 to 300 g depending on cultivar and growing conditions.
 
-Flesh color varies from white to yellow, with white-fleshed varieties predominant in Asian markets and yellow-fleshed types preferred in Europe and North America. Red or crimson blush on the skin and flesh is influenced by light exposure and anthocyanin accumulation.
+Flesh color varies from white to yellow, with white-fleshed varieties predominant in Asian markets and yellow-fleshed types preferred in Europe and [[psilocybin-north-america-pacific-northwest]]. Red or crimson blush on the skin and flesh is influenced by light exposure and anthocyanin accumulation.
 
 ## Distribution and Habitat
 
@@ -46,7 +46,7 @@ The fruit reached the Mediterranean via the Silk Road and was known to the Roman
 
 Peaches grow in USDA hardiness zones 5–9, requiring approximately 500–1,000 chilling hours below 7°C for proper bud break. Low-chill cultivars have been developed for subtropical regions including Florida, southern California, and northern Australia.
 
-Well-drained, fertile loam soils with pH 6.0–6.8 are optimal for commercial production. The trees are susceptible to waterlogging and require sites with good air drainage to reduce frost damage during bloom.
+Well-drained, fertile loam soils with pH 6.0–6.8 are optimal for commercial production. The trees are susceptible to waterlogging and require sites with good [[hemenway-cold-air-drainage-and-frost-management]] to reduce frost damage during bloom.
 
 Peach trees have relatively shallow root systems concentrated in the top 60 cm of soil. This makes them sensitive to drought stress during fruit development but also allows for high-density planting systems using dwarfing rootstocks.
 
@@ -56,7 +56,7 @@ Commercial peach trees are propagated by budding or grafting onto rootstocks, wi
 
 Trees typically begin bearing fruit 2–4 years after planting, with peak production at 8–12 years. Economic orchard life averages 12–20 years, with trees declining in productivity after this period due to increasing disease pressure.
 
-Pruning is critical and typically follows an open center system to maximize light penetration and air circulation. Summer pruning is used to direct vegetative growth, while dormant pruning removes dead wood and maintains tree architecture.
+Pruning is critical and typically follows an open center system to maximize light penetration and [[stamets-growing-room-air-circulation-co2-management]]. Summer pruning is used to direct [[cannabis-vegetative-growth-stage]], while dormant pruning removes dead wood and maintains tree architecture.
 
 Thinning is essential to prevent limb breakage and ensure adequate fruit size, with target fruit spacing of 15–20 cm along branches. Hand thinning is labor-intensive but produces the most uniform results.
 

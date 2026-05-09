@@ -1,5 +1,5 @@
 ---
-title: Permaculture Aquatic and Wetland Species
+title: Permaculture [[permaculture-plants-aquatic-systems-water-plants]] and wetland species Species
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [culture, permaculture, plants, species]
 
 # Permaculture Aquatic and Wetland Species
 
-Water plants provide direct food for humans and aquatic animals, oxygenate water, filter nutrients, and create habitat. "A Selection of [[permaculture-plants-comfrey-chop-and-drop]]
+Water plants provide direct food for humans and [[fungi-aquatic-animals-pathogens-parasites]], oxygenate water, filter nutrients, and create habitat. "A Selection of [[permaculture-plants-comfrey-chop-and-drop]]
 
 - [[permaculture-water-systems]]
 - [[permaculture-design]]
@@ -64,7 +64,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -142,4 +142,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

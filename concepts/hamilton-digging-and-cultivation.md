@@ -19,7 +19,7 @@ type: concept
 Hand digging is the main method of cultivating the soil in organic
 gardening. It breaks up compacted land, introduces air, allows water
 to drain away and roots to penetrate, and enables the gardener to
-work organic matter into the lower levels, increasing the depth of
+work [[hamilton-composting-and-organic-matter-management]] into the lower levels, increasing the depth of
 the topsoil. While digging can cause severe back strain if done
 poorly, it can also be a healthy, invigorating, and enjoyable
 exercise when approached with common sense and proper technique.
@@ -99,9 +99,10 @@ work rhythmically without straining, and rotate digging areas across
 the garden over a five-year cycle. No-dig methods offer a viable
 alternative for established gardens with good existing soil structure.
 
-Raised beds eliminate the need for deep digging on heavy soils and improve
+[[comparison-raised-beds-vs-hugelkultur]] eliminate the need for deep digging on heavy soils and improve
 drainage naturally through the elevated profile of the growing area.
 
 ## See Also
 
-- [[mushroom-cultivation-anastomosis-and-strain-mixing]]
+- mushroom-cultivation-anastomosis-and-strain-mixing
+- [[hamilton-soft-fruit-cultivation]]

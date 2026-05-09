@@ -1,5 +1,5 @@
 ---
-title: Sheet Mulching and Lasagna Gardening
+title: comparison-sheet-mulching-vs-chop-and-drop-mulching and Lasagna Gardening
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Sheet Mulching and Lasagna Gardening
 
-Sheet mulching (also called sheet composting, composting in place, or lasagna gardening) is one of the basics in the ecological gardener's toolkit. It is a method of eradicating weeds and building soil that eliminates herbicides and avoids tilling, both of which rupture soil ecology. Sheet mulching is a variation on nature's way of building soil by accumulating and breaking down organic debris from the top down.
+Sheet mulching (also called [[solomon-sheet-composting-mulch-gardening]], composting in place, or lasagna gardening) is one of the basics in the ecological gardener's toolkit. It is a method of eradicating weeds and building soil that eliminates herbicides and avoids tilling, both of which rupture soil ecology. Sheet mulching is a variation on nature's way of building soil by accumulating and breaking down organic debris from the top down.
 
 ## How It Works
 
@@ -26,8 +26,8 @@ Ideally this is done in fall so the mulch rots to become humusy earth over winte
 From Gaia's Garden, the materials for a thorough sheet mulch on about 200 square feet:
 
 1. **Newspaper or cardboard**: A 2-3 foot stack of newspaper (no glossy sections — standard newsprint inks are soy-based and nontoxic) or about 300 square feet of corrugated cardboard (no staples or plastic tape). Alternatives: cloth, old clothing, or wool carpet (no synthetics — but these take far longer to decay)
-2. **Soil amendments**: Depending on your soil's needs — lime (for acid soil), gypsum or sulfur (for alkaline soil), rock phosphate or bonemeal (phosphorus), greensand, kelp meal, or rock dust (trace minerals)
-3. **Bulk organic matter**: Straw, spoiled hay, yard waste, leaves, seaweed, finely ground bark, stable sweepings, wood shavings — roughly 4-8 cubic yards, aiming for an overall C:N ratio of 100:1 to 30:1
+2. **Soil amendments**: Depending on your soil's needs — lime (for acid soil), gypsum or sulfur (for alkaline soil), rock phosphate or bonemeal (phosphorus), greensand, [[comparison-kelp-meal-vs-rock-dust]], or [[basalt-rock-dust-agriculture]] (trace minerals)
+3. **Bulk [[hamilton-composting-and-organic-matter-management]]**: Straw, spoiled hay, yard waste, leaves, seaweed, finely ground bark, stable sweepings, wood shavings — roughly 4-8 cubic yards, aiming for an overall C:N ratio of 100:1 to 30:1
 4. **Compost**: About 1/4 to 1/2 cubic yard (6-12 cubic feet)
 5. **Manure**: 1/4 to 1 cubic yard (about 6 cubic feet of composted cattle manure)
 6. **Top layer**: 2 inches of weed- and seed-free material such as straw, fine bark, or wood shavings
@@ -46,7 +46,7 @@ From Gaia's Garden, the materials for a thorough sheet mulch on about 200 square
 
 ### Nitrogen Layer
 
-5. **Add nitrogen**: A thin layer of manure, blood or cottonseed meal, fresh grass clippings, or cast-off produce. For concentrated matter (rabbit manure, blood meal), sprinkle to just cover the soil; for bedding-rich manure, about an inch thick
+5. **[[query-how-do-legumes-add-nitrogen-to-soil]]**: A thin layer of manure, blood or cottonseed meal, fresh grass clippings, or cast-off produce. For concentrated matter (rabbit manure, blood meal), sprinkle to just cover the soil; for bedding-rich manure, about an inch thick
 
 ### The Sheet
 

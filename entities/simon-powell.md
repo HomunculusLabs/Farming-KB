@@ -11,7 +11,7 @@ sources:
 
 # Simon G. Powell
 
-British author, filmmaker, and philosopher known for *The Psilocybin Solution: The Magic of Mushroom Cultivation and the expanded mind* (2010, also published as *Sacred Mushroom: Psilocybin Mushrooms and the Rebirth of Nature*). His work explores the relationship between psychedelic mushroom experiences, ecological consciousness, and humanity's understanding of nature.
+British author, filmmaker, and philosopher known for *The [[powell-psilocybin-solution-ecological-cognition-theory]]: The Magic of [[accessible-mushroom-cultivation-for-disabilities]] and the expanded mind* (2010, also published as *Sacred Mushroom: [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] and the Rebirth of Nature*). His work explores the relationship between [[archaeology-of-psychedelic-mushroom-use]] experiences, ecological consciousness, and humanity's understanding of nature.
 
 ## Key Ideas
 
@@ -21,7 +21,7 @@ Powell argues that psilocybin mushrooms function as "Gaian neurotransmitters" â€
 
 ### Natural Intelligence
 
-Powell challenges the anthropocentric assumption that intelligence is uniquely human, arguing instead that nature itself exhibits forms of intelligence that are distributed, decentralized, and fundamentally different from human cognition. Fungi, he argues, are exemplary of this natural intelligence through their mycelial networks.
+Powell challenges the anthropocentric assumption that intelligence is uniquely human, arguing instead that nature itself exhibits forms of intelligence that are distributed, decentralized, and fundamentally different from human cognition. Fungi, he argues, are exemplary of this natural intelligence through their [[fungal-mycelial-networks-nutrient-translocation]].
 
 ### Ecological Consciousness
 
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -1,5 +1,5 @@
 ---
-title: Soil Nutrient Cycling
+title: Soil comparison-nutrient-cycling-vs-nutrient-dense-gardening
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Soil Nutrient Cycling
 
-Soil nutrient cycling is the process by which nutrients are converted from unavailable forms locked in organic matter and mineral particles into plant-available forms through the activity of soil organisms. This is the core mechanism by which the soil food web feeds plants, as detailed in Jeff Lowenfels's "Teaming with Nutrients."
+Soil nutrient cycling is the process by which nutrients are converted from unavailable forms locked in [[hamilton-composting-and-organic-matter-management]] and mineral particles into plant-available forms through the activity of soil organisms. This is the core mechanism by which the soil food web feeds plants, as detailed in Jeff Lowenfels's "Teaming with Nutrients."
 
 ## How Nutrients Become Available
 
@@ -21,7 +21,7 @@ In a healthy soil food web, nutrients follow a biological pathway rather than a 
 4. **Predation releases nutrients**: Protozoa eat bacteria; bacterial-feeding nematodes eat bacteria; fungal-feeding nematodes eat fungi. These predators need much more nitrogen than they consume, so they excrete the excess as ammonium (NH4+) -- a plant-available form.
 5. **Plant uptake**: Plant roots absorb the ammonium (and, after nitrification, nitrate) released by the soil food web. The nutrients were originally in organic matter or mineral particles, converted to microbial biomass, and then released in plant-available form through predation.
 
-This cycle is continuous and self-regulating. The plant "orders" nutrients by adjusting the composition of its root exudates. Different exudates attract different microbes, which in turn make different nutrients available.
+This cycle is continuous and self-regulating. The plant "orders" nutrients by adjusting the composition of its [[mycorrhizal-root-exudates-pathogen-interactions]]. Different exudates attract different microbes, which in turn make different nutrients available.
 
 ## The Nitrogen Cycle in Soil
 
@@ -86,7 +86,7 @@ Soil pH affects nutrient availability because it determines the chemical form of
 
 ## Mycorrhizal Nutrient Uptake
 
-Mycorrhizal fungi play a critical role in nutrient cycling, particularly for phosphorus:
+[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] play a critical role in nutrient cycling, particularly for phosphorus:
 
 - Phosphorus is immobile in soil -- it doesn't move to roots; roots must grow to it.
 - Mycorrhizal hyphae extend the root's effective reach by 100-1000x.
@@ -98,7 +98,7 @@ Mycorrhizal fungi play a critical role in nutrient cycling, particularly for pho
 
 Organic matter is the fuel for the soil food web:
 
-- **Humus**: Stable, decomposed organic matter that provides long-term nutrient reservoir and improves soil structure.
+- **Humus**: Stable, decomposed organic matter that provides long-term [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]] and improves soil structure.
 - **Active organic matter**: Recently decomposed material that feeds soil organisms.
 - **Compost**: A concentrated source of both humus and active organic matter, plus diverse microbial populations.
 
@@ -128,13 +128,13 @@ Cannot be relocated. Deficiency appears on NEWER leaves first:
 4. **Minimize disturbance**: Reduce tillage to protect fungal networks and soil aggregates.
 5. **Living roots year-round**: Cover crops maintain soil biology during fallow periods.
 6. **Diverse plantings**: Different plants support different microbial communities, increasing overall nutrient cycling capacity.
-7. **Avoid excess nitrogen**: High nitrogen reduces mycorrhizal colonization and shifts the soil food web toward bacterial dominance.
+7. **Avoid excess nitrogen**: High nitrogen reduces [[arbuscular-mycorrhizal-colonization-patterns]] and shifts the soil food web toward bacterial dominance.
 
 ## Related
 
 - [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]]
 
 - [[cannabis-soil-and-nutrient-requirements]] for specific nutrient needs of cannabis
-- [[fungal-chromogens-and-color-change]]
+- fungal-chromogens-and-color-change
 - [[teaming-with-microbes-soil-minerals-cation-exchange]]
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]

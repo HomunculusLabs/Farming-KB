@@ -1,5 +1,5 @@
 ---
-title: 3 Tme Entity
+title: 3 3-tme-entity-pihkal
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -70,7 +70,7 @@ Duration: 12 - 16 h.
 Shulgin, A. & Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Entry #163: 3-TME.
 ## Practical Considerations
 
-Successful implementation of 3 Tme Entity requires attention to
+Successful implementation of 3 [[3-tme-entity-pihkal]] requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

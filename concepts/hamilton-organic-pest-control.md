@@ -1,5 +1,5 @@
 ---
-title: Organic Pest Control Methods
+title: cervantes-neem-oil-organic-pest-control Control Methods
 created: 2026-04-26
 author: Geoff Hamilton
 sources: hamilton-geoffhamilton-nick_-organic-gardening.md
@@ -9,7 +9,7 @@ tags: [reference]
 ---
 
 # [[geoff-hamilton]]'s approach to pest control emphasizes that the organic
-gardener simply will not come across the pest and disease problems that
+gardener simply will not come across the [[hamilton-pest-and-disease-control-organic]] problems that
 face the monoculture grower. By cultivating a natural organic garden with
 diverse planting, a balanced ecosystem of pests and predators develops
 naturally. Prevention is the best approach, and organic pesticides
@@ -36,7 +36,7 @@ of water and food.
 ## Daily Vigilance
 
 Make a habit of walking around the garden at least once a day in summer,
-when pests and diseases are most likely to appear. Take a hoe and a
+when [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] are most likely to appear. Take a hoe and a
 plastic bag. If you see signs of mildew or find a caterpillar, pick it
 off immediately. The first attack of greenfly can often be removed by
 simply rubbing the stem with your finger to squash them.
@@ -66,7 +66,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -108,4 +108,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

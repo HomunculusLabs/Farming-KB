@@ -1,5 +1,5 @@
 ---
-title: Plant Hormones and Chemical Signaling Systems
+title: Plant Hormones and plant hormones and chemical signaling systems Systems
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -15,8 +15,8 @@ Plants lack nervous systems, yet they coordinate complex responses to environmen
 
 ### The Signal Cascade
 
-1. A receptor protein on the cell membrane detects a signal molecule
-2. The receptor triggers an internal chain reaction (signal transduction)
+1. A receptor protein on the [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] detects a signal molecule
+2. The receptor triggers an internal chain reaction ([[fungal-environmental-sensing-signal-transduction-read]])
 3. Secondary messengers (often calcium ions) amplify the signal
 4. Target enzymes are activated or deactivated
 5. The cellular response occurs (gene expression changes, ion channel opening, metabolic shifts)
@@ -28,14 +28,14 @@ Hormones and signaling molecules travel through:
 - **Xylem**: Some hormones travel with the transpiration stream
 - **Apoplastic pathway**: Cell wall spaces allow short-distance diffusion
 - **Symplastic pathway**: Through plasmodesmata between adjacent cells
-- **Airborne signals**: Some signals are volatile organic compounds (VOCs) that travel through the air
+- **Airborne signals**: Some signals are [[fungal-volatile-organic-compounds-communication]] compounds (VOCs) that travel through the air
 
 ## Major Plant Hormones
 
 ### Auxin (Indole-3-Acetic Acid, IAA)
 
 The primary plant growth hormone. Key functions:
-- **Cell elongation**: Stimulates cells to lengthen, driving growth toward light (phototropism) and against gravity (geotropism)
+- **[[brassinosteroid-physiological-mechanisms-cell-elongation-division]]**: Stimulates cells to lengthen, driving growth toward light (phototropism) and against gravity (geotropism)
 - **Apical dominance**: Produced at shoot tips, it suppresses lateral bud growth, ensuring the main stem grows tallest
 - **Root development**: At proper concentrations, promotes root initiation and growth
 - **Vascular differentiation**: Guides the development of xylem and phloem
@@ -80,7 +80,7 @@ Because ethylene is a gas, it can diffuse through air spaces between cells and e
 Sugar is not typically classified as a hormone but functions as a major signaling molecule:
 - Stimulates new cell growth in roots
 - Regulates photosynthesis rates (too much sugar in leaves slows photosynthesis)
-- Controls the root-shoot balance (more sugar to roots = more root growth = more nutrient uptake)
+- Controls the root-shoot balance (more sugar to roots = more root growth = more [[plant-nutrient-uptake-mechanisms]])
 - Triggers flower and seed development only after ample support exists
 - Influences partitioning -- the division of resources between plant parts
 

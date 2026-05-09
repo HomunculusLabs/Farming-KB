@@ -1,5 +1,5 @@
 ---
-title: Opium History and the Demeter Poppy Goddess
+title: mckenna opium history demeter poppy and the Demeter Poppy Goddess
 created: 2026-04-28
 tags:
   - ethnobotany
@@ -17,7 +17,7 @@ type: concept
 
 The opium poppy, [[psilocybin]] mushroom with its association with cattle, and the
 parasitism of ergot on rye and other cereals, the opium poppy represents
-a plant that has co-evolved with human [[integrate-rather-than-segregate]] opium.
+a plant that has co-evolved with human integrate-rather-than-segregate opium.
 
 The confusion of grain and poppy is easy to understand since Demeter was
 the goddess of both. The transfer of poppy lore to the Greek Mysteries of
@@ -64,7 +64,7 @@ secret remedy which I call laudanum and which is superior to all other
 heroic remedies."
 
 One enthusiastic follower, the alchemist van Helmont, became well known
-as "Doctor Opiatus," the first "croaker" or junk doctor. Soon physicians
+as "[[mckenna-paracelsus-doctor-opiatus-alchemical-opium]]," the first "croaker" or junk doctor. Soon physicians
 of the Paracelsan school were preparing nostrums whose sole basis of
 activity was the copious amount of opium they contained.
 
@@ -105,3 +105,6 @@ twentieth-century governments.
 ## See Also
 
 - [[mckenna-eleusinian-mysteries]]
+- [[mckenna-eschatology-and-acceleration-of-history]]
+- [[mckenna-history-shockwave-eschatology-temporal-acceleration]]
+- [[mckenna-opium-tobacco-paradoxical-attitudes]]

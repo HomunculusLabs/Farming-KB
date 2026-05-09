@@ -1,5 +1,5 @@
 ---
-title: Fungal Hyphae and Invasive Growth Mechanisms
+title: Fungal Hyphae and fungal hyphae invasive growth mechanisms Mechanisms
 created: 2026-04-28
 tags:
   - mycology
@@ -40,7 +40,7 @@ behind the advancing front.
 
 ## Tip Growth Mechanism
 
-Hyphal tip growth is driven by a combination of turgor pressure and targeted
+Hyphal tip growth is driven by a combination of [[bloomfield-turgor-pressure-and-hyphal-invasion]] and targeted
 cell wall synthesis. The fungal cell maintains a positive internal pressure
 (turgor) that pushes against the cell wall at the hyphal tip, where the wall
 is thinner and more extensible. As new wall material is deposited behind the
@@ -91,7 +91,7 @@ dissolve rock minerals. The hyphae follow the dissolved mineral trails,
 pushing deeper into the rock and prying apart mineral grains.
 
 This rock-penetrating capability has profound geological significance. By
-fracturing rocks and facilitating water infiltration, fungi contribute to
+fracturing rocks and facilitating water infiltration, [[query-how-do-fungi-contribute-to-carbon-sequestration]] to
 soil formation and landscape evolution. The weathering of bedrock by fungi
 may have been a critical factor in the development of the first terrestrial
 ecosystems hundreds of millions of years ago.
@@ -99,7 +99,7 @@ ecosystems hundreds of millions of years ago.
 ## Hyphal Fusion and Network Formation
 
 Fungi can fuse their hyphae together through a process called hyphal
-anastomosis, creating interconnected networks that allow resource sharing
+anastomosis, creating interconnected networks that allow [[mycelial-network-resource-sharing-plants]]
 and communication between different parts of the mycelium. This capacity
 for fusion means that a single fungal individual can spread over large areas
 while maintaining physiological integration.
@@ -125,8 +125,8 @@ Understanding hyphal growth mechanisms has practical applications in
 agriculture, medicine, and biotechnology. Targeting hyphal tip growth or
 invasive structures offers strategies for controlling fungal plant diseases.
 In medicine, understanding hyphal growth is important for combating
-invasive fungal infections in immunocompromised patients. In biotechnology,
-fungal hyphae are used in industrial fermentation, enzyme production, and
+invasive [[blesching-cannabis-fungal-infections-candida]] in immunocompromised patients. In biotechnology,
+fungal hyphae are used in industrial fermentation, [[ligninolytic-enzyme-production-bioremediation]], and
 bioremediation.
 
 ## See Also

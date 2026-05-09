@@ -1,10 +1,12 @@
 ---
-title: "How Do I Identify and Control Aphids on Cannabis?"
+title: "How Do I query-how-do-i-identify-and-control-thrips-on-cannabis Aphids on Cannabis?"
 created: 2026-04-28
 tags: [query, cannabis, pests, aphids, ipm]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: query
 ---
 
@@ -35,7 +37,7 @@ grow areas. Regular scouting, especially of [[mollison-designers-insectary-plant
 flowering umbels and sweet alyssum that provide nectar and pollen for adult
 predators to sustain themselves when aphid populations are low.
 
-Organic spray options include neem|neem oil, insecticidal soap,
+Organic spray options include neem|[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]], insecticidal soap,
 pyrethrin-based products, and fatty acid salts. These work best when
 applied directly to aphid colonies, ensuring thorough coverage of leaf
 undersides and stem crevices where aphids congregate. Some growers use a
@@ -51,11 +53,11 @@ compound release.
 - A single female aphid can produce 50 to 80 live offspring per week
   without mating, leading to rapid population explosions
 - Lady beetles, lacewing larvae, and Aphidius parasitic wasps provide the
-  most effective biological control when released preventively
+  most effective [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] when released preventively
 - neem|Neem oil and insecticidal soap provide effective contact control
   when applied thoroughly to leaf undersides
 - Prevention through screening, quarantine, inspection of new plants, and
-  weed management is essential for long-term control
+  [[fukuoka-weed-management-and-green-manure]] is essential for long-term control
 
 ## Related
 
@@ -80,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

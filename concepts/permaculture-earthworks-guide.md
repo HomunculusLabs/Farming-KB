@@ -1,11 +1,12 @@
 ---
-title: Permaculture Earthworks Guide
+title: query-what-are-permaculture-earthworks-and-how-do-i-plan-them Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, earthworks, water-management, construction, design, methods]
 sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - raw/papers/gaias-garden-toby-hemenway.md
 ---
 
@@ -37,11 +38,11 @@ Terracing converts slopes into a series of level steps, preventing erosion and c
 
 ### Keyline Systems
 
-Developed by P.A. Yeomans, keyline design uses the natural topography to distribute water from wet valleys to dry ridges. Keyline pattern cultivation and dam placement follow the keyline contour. See [[keyline-design]] for full details.
+Developed by P.A. Yeomans, [[query-how-does-keyline-design-work-in-permaculture]] uses the natural topography to distribute water from wet valleys to dry ridges. Keyline pattern cultivation and dam placement follow the keyline contour. See [[keyline-design]] for full details.
 
 ### Access Tracks and Roads
 
-Roads placed on contour or slightly off-contour serve as diversion drains, moving water to storage or planting areas. Poorly placed roads can concentrate water and cause severe erosion. Permaculture design places roads as high as possible on ridges to avoid interrupting water flow across slopes.
+Roads placed on contour or slightly off-contour serve as [[mollison-designers-diversion-drains-and-interceptor-banks]], moving water to storage or planting areas. Poorly placed roads can concentrate water and cause severe erosion. [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] places roads as high as possible on ridges to avoid interrupting water flow across slopes.
 
 ### Net and Pan Systems
 
@@ -49,7 +50,7 @@ In drylands, orchard trees are planted in small depressions connected by a netwo
 
 ## Appropriate Scale
 
-Holmgren emphasizes that earthworks should be done at the smallest scale that is practical. Large machines are used for initial earth-moving, but the resulting systems should be maintainable by hand. This is the appropriate use of non-renewable resources (fossil fuels) to establish systems that then run on renewable energy (gravity, biological processes, human labor).
+Holmgren emphasizes that earthworks should be done at the smallest scale that is practical. Large machines are used for initial earth-moving, but the resulting systems should be maintainable by hand. This is the appropriate use of non-renewable resources (fossil fuels) to establish systems that then run on [[holmgren-wind-power-and-renewable-energy-debate]] (gravity, biological processes, human labor).
 
 ## Order of Operations
 
@@ -60,11 +61,11 @@ In permaculture design, earthworks are typically done first because they:
 3. Are difficult to modify once planted
 4. Set the template for zones, access, and planting
 
-After earthworks, tree planting, soil building, and detailed garden design follow.
+After earthworks, tree planting, soil building, and detailed [[comparison-mandala-garden-design-vs-keyhole-garden-design]] follow.
 
 ## Connections
 
-See also [[permaculture-earthworks]], [[earthworks-for-water-management]], [[swale-construction-guide]], [[keyline-design]], [[rainwater-harvesting-systems]], [[permaculture-principle-catch-and-store-energy]], and [[permaculture-zone-and-sector-analysis]] for placement guidance.
+See also [[permaculture-earthworks]], [[earthworks-for-water-management]], [[swale-construction-guide]], [[keyline-design]], [[rainwater-harvesting-systems]], [[permaculture-principle-catch-and-store-energy]], and [[zone-sector-analysis-guide]] for placement guidance.
 ## Practical Considerations
 
 Successful implementation of Permaculture Earthworks Guide requires attention to
@@ -83,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: "Water-Soluble Phosphoric Acid (WS-PA)"
+title: "Water-Soluble cho-water-soluble-phosphoric-acid-preparation (WS-PA)"
 created: 2026-04-28
 tags: [knf, natural-farming, phosphoric-acid, plant-nutrition, deficiency]
 date: 2026-04-25
@@ -12,8 +12,8 @@ type: concept
 
 Water-Soluble Phosphoric Acid (WS-PA) is a [[knf-nutritive-cycle-theory]], phosphoric acid
 is particularly critical during the changeover period when plants
-transition from vegetative to reproductive growth. This period, also
-called "morning sickness," is when plants crave sour nutrients, and
+transition from vegetative to [[knf-reproductive-growth-stage]]. This period, also
+called "[[cho-morning-sickness-and-plant-cross-over-period]]," is when plants crave sour nutrients, and
 phosphoric acid compounds fulfill this need.
 
 ## Why Sesame Stems
@@ -61,8 +61,8 @@ it is used alone or in combination with other inputs:
 
 ## When to Apply WS-PA
 
-Timing of WS-PA application is tied to the growth stage of the crop
-according to the nutritive cycle:
+Timing of WS-PA application is tied to the [[cho-plant-growth-stage-treatment-protocols]] of the crop
+according to the [[cho-nutritive-cycle-theory]]:
 
 1. Apply WS-PA during the changeover period. It promotes the
    differentiation of flower buds, resulting in high fertility and
@@ -91,7 +91,7 @@ acid deficiency:
 The source specifies optimal conditions for WS-PA preparation and
 storage:
 
-- Optimum temperature range: 23 to 25 degrees Celsius.
+- Optimum [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]: 23 to 25 degrees Celsius.
 - Select a cool and shaded place with no direct sunlight for both
   preparation and storage.
 - These conditions support the percolation process and maintain
@@ -120,6 +120,8 @@ storage:
   imbalance
 - Supporting protein synthesis and anabolite transport in crops
 ## See Also
+
+- [[knf-phosphoric-acid-deficiency-symptoms]]
 
 - [[water-soluble-calcium-wca]]
 - [[knf-nutritive-cycle-theory]]

@@ -1,5 +1,5 @@
 ---
-title: Outdoor Mushroom Cultivation
+title: Outdoor accessible-mushroom-cultivation-for-disabilities
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -8,7 +8,7 @@ sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 ---
 # Outdoor Mushroom Cultivation
 
-Outdoor cultivation methods leverage natural environmental conditions to grow mushrooms with minimal infrastructure. While yields are less predictable than indoor systems, outdoor methods require less capital investment and integrate well with gardens, farms, and permaculture systems.
+Outdoor [[synthetic-log-cultivation-methods-guide]] leverage natural environmental conditions to grow mushrooms with minimal infrastructure. While yields are less predictable than indoor systems, outdoor methods require less capital investment and integrate well with gardens, farms, and permaculture systems.
 
 ## Log Culture Methods
 
@@ -16,14 +16,14 @@ Outdoor cultivation methods leverage natural environmental conditions to grow mu
 The traditional method originating in China (Sung Dynasty, 960-1127 AD):
 1. Select hardwood logs (oak, sweetgum, poplar, cottonwood, alder, beech, birch, willow)
 2. Cut fresh logs in late winter/early spring when sap is rising
-3. Inoculate with plug spawn or sawdust spawn in drilled holes
+3. Inoculate with plug spawn or [[growing-gourmet-sawdust-spawn-production-use]] in drilled holes
 4. Seal inoculation sites with food-grade wax
 5. Stack logs in shade ("crib stack" or "laying" method)
 6. Wait 6-18 months for full colonization
-7. Induce fruiting by submerging logs in water for 1-2 days ("soak and strike")
+7. Induce fruiting by submerging logs in water for 1-2 days ("[[growing-gourmet-soak-and-strike-forcing]]")
 8. Place logs in shade; water via sprinklers 2-4 times daily
 9. Mushrooms appear 1-2 weeks after soaking
-10. Repeat every 2-3 months during growing season
+10. Repeat every 2-3 months during [[savory-growing-season-and-non-growing-season-management]]
 
 Denser hardwoods (oak, ironwood) produce for up to 6 years. Faster-decomposing species (poplar, cottonwood) last about 3 years. Fruit-woods are poor candidates.
 
@@ -42,7 +42,7 @@ Hardwood stumps can be inoculated using plug or sawdust spawn. Reishi grows prol
 ## Garden Bed Cultivation
 
 ### King Stropharia (Garden Giant)
-The premier outdoor bed mushroom:
+The premier [[azurescens-outdoor-bed-preparation-woodchips]] mushroom:
 1. Select shaded or partially shaded site
 2. Prepare bed with hardwood wood chips and/or straw (4-12 inches deep)
 3. Layer grain spawn or sawdust spawn into the bed
@@ -81,5 +81,5 @@ Used primarily for Reishi in Asia:
 ## Related Topics
 - [[mushroom-substrates]] for substrate selection
 - [[mushroom-cultivation-basics]] for foundational concepts
-- [[london-outdoor-ridge-mushroom-cultivation]]
+- london-outdoor-ridge-mushroom-cultivation
 - [[oyster-mushroom-growing-house-types]]

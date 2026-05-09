@@ -1,5 +1,5 @@
 ---
-title: "How to Identify Psilocybe Cubensis in the Wild"
+title: "How to query how to identify psilocybe cubensis in the wild Cubensis in the Wild"
 created: 2026-04-28
 tags: [query, mycology, mushroom-identification, foraging, psilocybin]
 date: 2026-04-25
@@ -9,14 +9,14 @@ type: query
 ---
 # How to Identify Psilocybe Cubensis in the Wild
 ## Short Answer
-Psilocybe cubensis is a dung-inhabiting psychedelic mushroom found in tropical
+Psilocybe cubensis is a dung-inhabiting [[archaeology-of-psychedelic-mushroom-use]] found in tropical
 and subtropical climates worldwide. It is identified by its golden caramel cap
-that bruises blue when handled, a dark purplish-brown spore print, and growth
+that bruises blue when handled, a dark purplish-brown [[comparison-spore-print-collection-vs-spore-syringe-production]], and growth
 directly on bovine manure in grassy fields.
 ## Detailed Explanation
 Psilocybe cubensis is one of the most widely distributed psychedelic mushroom
-species, found across the Americas, Southeast Asia, Australia, and parts of
-Africa. The [[mushroom-identification-basics]].
+species, found across the Americas, [[psilocybe-southeast-asia-pacific]], Australia, and parts of
+Africa. The mushroom-identification-basics.
 ### Habitat and Ecology
 Psilocybe cubensis is a coprophilous species, meaning it fruits almost
 exclusively on herbivore dung, particularly that of cattle. It thrives in warm,
@@ -79,10 +79,10 @@ doubt, throw it out.
 - The deadly Galerina marginata is a potential look-alike with a
   rusty-brown spore print
 - Always take a spore print and consult multiple identification resources
-  before consuming any wild mushroom
+  before consuming any [[emcdda-wild-mushroom-foraging-misidentification-hazards]]
 - Never rely on a single identification feature; use habitat, morphology,
   spore print, and bruising together
-- The [[mushroom-toxicity-identification-warnings]] provide essential safety
+- The  provide essential safety
   frameworks for all foragers
 - For those interested in cultivation rather than foraging, see
   [[query-how-to-identify-psilocybe-cubensis-mushrooms]] Questions

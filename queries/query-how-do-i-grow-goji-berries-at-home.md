@@ -52,8 +52,8 @@ Buy 1–2 year old rooted cuttings from a reputable nursery. Avoid seeds — the
 Goji berries are forgiving about soil — one reason they're beginner-friendly:
 
 - **pH:** 6.5–8.0 (they prefer slightly alkaline soil)
-- **Texture:** Well-draining sandy loam is ideal; grow in raised beds if clay-heavy
-- **Organic matter:** Mix in 2–3 inches of compost before planting
+- **Texture:** Well-draining sandy loam is ideal; grow in [[comparison-raised-beds-vs-hugelkultur]] if clay-heavy
+- **[[hamilton-composting-and-organic-matter-management]]:** Mix in 2–3 inches of compost before planting
 - **Drainage:** Build a raised mound if your soil drains poorly
 
 Do not add peat moss — it acidifies the soil. Use compost, aged manure, or leaf mold instead.
@@ -61,7 +61,7 @@ Do not add peat moss — it acidifies the soil. Use compost, aged manure, or lea
 ## How Do I Plant Goji Berries?
 
 ### Bare Root vs. Container Plants
-- **Bare root:** Plant in early spring while dormant. Soak roots 1–2 hours before planting. More economical but slower to establish.
+- **Bare root:** Plant in [[coleman-overwintered-onions-and-early-spring-crops]] while dormant. Soak roots 1–2 hours before planting. More economical but slower to establish.
 - **Container plants:** Can be planted spring through early fall. More forgiving for beginners.
 
 ### In-Ground Planting Steps
@@ -72,7 +72,7 @@ Do not add peat moss — it acidifies the soil. Use compost, aged manure, or lea
 5. Space plants **4–6 feet apart**
 
 ### Container Planting
-Choose a pot at least **18–24 inches deep and wide** with drainage holes. Use a well-draining potting mix blended with 20% perlite or coarse sand. Add a handful of lime to raise pH.
+Choose a pot at least **18–24 inches deep and wide** with drainage holes. Use a well-draining [[solomon-potting-mix-and-seedling-soil-recipe]] blended with 20% perlite or coarse sand. Add a handful of lime to raise pH.
 
 ## Watering and Fertilizing
 
@@ -108,9 +108,9 @@ Goji fruit on **new growth from 1-year-old wood**, so annual pruning increases y
 
 Goji berries are remarkably pest-resistant, but watch for:
 - **Aphids** — hose off with water or use insecticidal soap
-- **Spider mites** — increase humidity; spray neem oil if severe
+- **[[cervantes-spider-mites-identification-control]]** — increase humidity; spray neem oil if severe
 - **Birds** — net the bush when berries ripen (the biggest "pest")
-- **Powdery mildew** — ensure good airflow through pruning
+- **[[cervantes-powdery-mildew-prevention-treatment]]** — ensure good airflow through pruning
 - **Root rot** — prevent with excellent drainage
 
 ## Harvesting

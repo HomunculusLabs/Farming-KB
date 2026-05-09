@@ -35,7 +35,7 @@ sources:
 
 **Onobrychis viciifolia**, commonly known as sainfoin or esparcet, is a perennial forage legume in the family Fabaceae.
 
-It is valued as a high-protein forage crop that does not cause bloat in ruminants, making it a safer alternative to alfalfa for livestock grazing.
+It is valued as a high-protein forage crop that does not cause bloat in ruminants, making it a safer alternative to alfalfa for [[savory-livestock-grazing-planning]].
 
 The species is also a nitrogen-fixing pioneer plant with applications in soil restoration, pollinator support, and sustainable agriculture systems.
 
@@ -73,7 +73,7 @@ The species is highly drought-tolerant once established, surviving in areas with
 
 Optimal growth occurs at 400–700 mm rainfall with well-drained soils; it tolerates cold winters and can persist at elevations up to 2,000 m.
 
-Sainfoin was widely grown across Europe and North America before being largely displaced by alfalfa in the mid-20th century.
+Sainfoin was widely grown across Europe and [[psilocybin-north-america-pacific-northwest]] before being largely displaced by alfalfa in the mid-20th century.
 
 ## Agricultural Value
 
@@ -111,7 +111,7 @@ The flowers are highly attractive to pollinators, especially honeybees and bumbl
 
 In silvopasture systems, sainfoin can serve as a productive understory legume beneath widely spaced trees, tolerating moderate shade.
 
-Its drought tolerance makes it suitable for dryland farming and climate-resilient pasture systems in Mediterranean and continental climates.
+Its [[dighton-fungal-drought-tolerance-plant-water-relations]] makes it suitable for dryland farming and climate-resilient pasture systems in Mediterranean and continental climates.
 
 ## See Also
 

@@ -49,10 +49,10 @@ Several approaches are used to uncover cryptic species:
 
 ### Molecular Phylogenetics
 
-DNA sequencing of conserved loci (ITS, LSU, RPB1, RPB2, TEF1) reveals
+[[environmental-dna-sequencing-fungi]] of conserved loci (ITS, LSU, RPB1, RPB2, TEF1) reveals
 phylogenetic lineages within morphologically defined species. Concordance
 across multiple gene trees strengthens the case for cryptic speciation.
-Multi-locus sequence typing (MLST) and whole-genome sequencing provide
+Multi-locus [[fungi-multilocus-sequence-typing-molecular-epidemiology]] (MLST) and whole-genome sequencing provide
 increasing resolution. Whole-genome data can reveal speciation events
 through patterns of linkage disequilibrium and recombination.
 
@@ -80,7 +80,7 @@ when morphological data are uninformative.
 ## Implications for Biodiversity Estimates
 
 Cryptic species significantly inflate the gap between described and
-estimated fungal diversity. If even 30% of described fungal species
+estimated [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]. If even 30% of described fungal species
 contain unrecognized cryptic lineages, the true species count could be
 substantially higher than current estimates suggest. This has profound
 implications for conservation, as cryptic species may have different
@@ -102,7 +102,7 @@ unresolved. Practical issues include the lack of physical type specimens
 for DNA-only descriptions and the difficulty of linking sexual and asexual
 morphs (teleomorph-anamorph connections).
 
-The fungal taxonomy community is gradually embracing molecular-based
+The [[molecular-methods-fungal-taxonomy-and-diversity]] community is gradually embracing molecular-based
 species concepts, with many journals now accepting DNA diagnoses as part
 of formal descriptions. However, the backlog of undescribed cryptic
 species far outpaces the rate of formal taxonomic work, leaving most

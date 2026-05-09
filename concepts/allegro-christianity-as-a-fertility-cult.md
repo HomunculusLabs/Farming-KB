@@ -10,13 +10,13 @@ sources:
 
 # Christianity as a Fertility Cult — The Eucharist as Mushroom Rite
 
-Allegro's most provocative thesis is that Christianity originated as a mushroom fertility cult, and that its central rituals — baptism, the Eucharist, and the crucifixion-resurrection cycle — are transformed mushroom ceremonies. This page synthesizes his arguments across the entire book.
+Allegro's most provocative thesis is that Christianity originated as a mushroom fertility cult, and that its central rituals — baptism, the Eucharist, and the crucifixion-resurrection cycle — are transformed [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]]. This page synthesizes his arguments across the entire book.
 
 ## The Eucharist: Eating the Body of God
 
-The words of institution at the Last Supper — "This is my body... this is my blood" (Matt 26:26-28) — are, in Allegro's reading, the direct continuation of the mushroom cult's most sacred rite: the consumption of the Amanita muscaria as the "body" of the fertility god. The bread and wine of the Christian Eucharist are substitute elements for the original mushroom sacrament.
+The words of institution at the Last Supper — "This is my body... this is my blood" (Matt 26:26-28) — are, in Allegro's reading, the direct continuation of the mushroom cult's most sacred rite: the consumption of the [[allegro-amanita-muscaria-properties-and-pharmacology]] as the "body" of the fertility god. The bread and wine of the Christian Eucharist are substitute elements for the original mushroom sacrament.
 
-The early Christian communities, Allegro argues, still knew the true meaning of the Eucharist. Paul's discussion of the Lord's Supper in 1 Corinthians 11:23-30, with its warning that "whoever eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty of profaning the body and blood of the Lord," makes sense as a caution against improper use of the powerful psychedelic mushroom.
+The early Christian communities, Allegro argues, still knew the true meaning of the Eucharist. Paul's discussion of the Lord's Supper in 1 Corinthians 11:23-30, with its warning that "whoever eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty of profaning the body and blood of the Lord," makes sense as a caution against improper use of the powerful [[archaeology-of-psychedelic-mushroom-use]].
 
 ## Baptism as Mushroom Rebirth
 
@@ -26,9 +26,9 @@ The baptismal formula "in the name of the Father and of the Son and of the Holy 
 
 ## The Crucifixion as Mushroom Imagery
 
-Allegro reads the crucifixion as a detailed description of mushroom harvesting and preparation. The cross itself is the mushroom's stem seen in cross-section — or alternatively, the crossed sticks used to dry Amanita caps. The crown of thorns is the mushroom's cap with its white warts. The vinegar offered on a sponge (Matt 27:48) may preserve a memory of the mushroom's preparation — the Amanita was sometimes soaked in a liquid to extract its active principles.
+Allegro reads the crucifixion as a detailed description of [[oyster-mushroom-harvesting-post-harvest]] and preparation. The cross itself is the mushroom's stem seen in cross-section — or alternatively, the crossed sticks used to dry Amanita caps. The crown of thorns is the mushroom's cap with its white warts. The vinegar offered on a sponge (Matt 27:48) may preserve a memory of the mushroom's preparation — the Amanita was sometimes soaked in a liquid to extract its active principles.
 
-The darkness at noon (Matt 27:45), the earthquake (Matt 27:51), and the tearing of the temple veil (Matt 27:51) all describe the visionary experience produced by the mushroom. The initiate's "death" on the cross is the ego-death of the psychedelic experience; the "resurrection" is the return to ordinary consciousness with new understanding.
+The darkness at noon (Matt 27:45), the earthquake (Matt 27:51), and the tearing of the temple veil (Matt 27:51) all describe the visionary experience produced by the mushroom. The initiate's "death" on the cross is the ego-death of the [[leary-psychedelic-experience-bardo-mapping]]; the "resurrection" is the return to ordinary consciousness with new understanding.
 
 ## The Virgin Birth as Mushroom Parthenogenesis
 
@@ -64,12 +64,12 @@ Allegro's interpretation draws heavily on the Amanita muscaria's distinctive app
 The mushroom's bright red cap with white spots suggests vitality and blood; its rapid emergence after rain suggests the generative power of water on earth; its phallic stem rising from a volva (a cup-like base resembling female genitalia) embodies the union of male and female principles.
 In Allegro's reading, virtually every element of the mushroom's morphology carries symbolic weight: the gills beneath the cap represent the underworld or grave; the expanding cap represents the rising sun or divine consciousness; the white juice exuded by damaged specimens represents semen or divine seed.
 This comprehensive symbolic system allows Allegro to find mushroom references in an enormous range of biblical and extra-biblical texts, but critics argue that it is so flexible that virtually any passage can be reinterpreted through its lens, rendering the theory unfalsifiable.
-The [[kykeon-composition-and-ergot-alkaloid-hypothesis]] of the Eleusinian Mysteries, consumed by initiates for nearly two thousand years, is widely believed by scholars including R. Gordon Wasson and Albert Hofmann to have contained psychoactive ergot alkaloids.
-The Vedic [[controversy-sacred-mushroom-theory]].
+The [[kykeon-composition-and-ergot-alkaloid-hypothesis]] of the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]], consumed by initiates for nearly two thousand years, is widely believed by scholars including R. Gordon Wasson and Albert Hofmann to have contained psychoactive ergot alkaloids.
+The Vedic controversy-sacred-mushroom-theory.
 Despite its rejection by specialists, the book has maintained a persistent readership and continues to influence popular discussions about the possible role of psychoactive substances in the development of religion.
 The [[sacred-mushroom-and-the-cross]]
 - [[allegro-fungal-iconography-in-ancient-art]]
-- [[controversy-sacred-mushroom-theory]]
+- controversy-sacred-mushroom-theory
 - [[allegro-soma-and-vedic-traditions]]
 - [[allegro-man-child-born-of-a-virgin]]
 - [[allegro-death-and-resurrection-in-the-mushroom-cult]]
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,7 +1,7 @@
 ---
 title: Economics of Small-Scale Mushroom Farming
 created: 2026-04-26
-sources: Benjamin Minge Duggar, "Mushroom Growing" (1915)
+sources: Benjamin benjamin-minge-duggar-mushroom-cultivation-research, "duggar-mushroom-growing-history-and-methods" (1915)
 source_path: raw/papers/benjamin-minge-duggar-mushroom-growing.md
 extracted: 2026-04-24
 type: concept
@@ -13,7 +13,7 @@ updated: 2026-04-26
 
 ## Success and Failure
 
-Can success in mushroom work be counted upon? Not at all. There have been innumerable failures; but at the same time there are conspicuous successes. A large number of the failures have been the direct result of crediting irresponsible or deceptive advertisements. No one should be advised to undertake mushroom culture on a commercial basis who cannot present good evidence of his special competence to go into this work.
+Can success in mushroom work be counted upon? Not at all. There have been innumerable failures; but at the same time there are conspicuous successes. A large number of the failures have been the direct result of crediting irresponsible or deceptive advertisements. No one should be advised to undertake [[mazatec-mushroom-culture-and-velada]] on a commercial basis who cannot present good evidence of his special competence to go into this work.
 
 ### Qualifications for Commercial Mushroom Growing
 A person may be considered qualified who:
@@ -78,14 +78,14 @@ Practically all mushrooms grown in the United States are marketed fresh. This wi
 The price paid for mushrooms was formerly much higher than at present. The large grower today cannot hope for the high prices of former days. In the winter season, one may expect to sell mushrooms at reasonable prices. Commission men cannot sell mushrooms at the prices sometimes quoted in advertisements; the retail market absorbs a large part of the profit.
 
 ### Seasonal Factors
-The small grower frequently experiences great difficulty handling his product, due to the fact that the market is flooded at the time when his beds are yielding most heavily. Mild winter weather finds the markets of all cities filled with wild mushrooms, and the grower whose beds happen to be yielding at that time is seriously affected.
+The small grower frequently experiences great difficulty handling his product, due to the fact that the market is flooded at the time when his beds are yielding most heavily. Mild winter weather finds the markets of all cities filled with [[edible-wild-mushrooms-by-region]], and the grower whose beds happen to be yielding at that time is seriously affected.
 
 ### Shipment
 Mushrooms may be shipped considerable distances during winter months. If properly packed and shipped immediately after being gathered, there is little danger from shipment during 36 to 48 hours. Pack in small baskets (not more than 10 pounds each) to avoid "sweating."
 
 ## The Spawn Industry
 
-The price of mushroom spawn varies considerably depending upon quality:
+The price of [[cuthill-mushroom-spawn-preparation-historical]] varies considerably depending upon quality:
 - Standard American brick spawn (inoculated from pure culture): premium pricing
 - English imported brick spawn: a few cents less per brick, but subjected to longer shipment and storage
 
@@ -96,6 +96,8 @@ The success of spawn of pure culture origin has been so great that from 80 to 90
 Formerly, florists furnished a considerable and often dominant portion of the mushroom supply. By them the work was conducted as a side line, utilizing the available space under the greenhouse benches during the colder months. This remains a viable approach for those with existing greenhouse infrastructure.
 
 ## Related
+
+- [[duggar-mushroom-marketing-economics-1915]]
 
 - [[duggar-mushroom-history-and-overview]] - Development of the mushroom industry
 - [[duggar-mushroom-harvest-and-post-harvest]] - Packaging and shipping for market

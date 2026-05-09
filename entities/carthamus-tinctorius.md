@@ -84,20 +84,20 @@ Safflower is adapted to arid and semi-arid climates with 200–500 mm annual rai
 **Agronomic parameters:**
 
 - Seeding rate: 15–25 kg/ha
-- Row spacing: 20–50 cm
-- Growing season: 100–150 days
+- [[wide-row-spacing-intensive-gardening-comparison]]: 20–50 cm
+- [[savory-growing-season-and-non-growing-season-management]]: 100–150 days
 - Seed yield: 800–2,500 kg/ha (rainfed), up to 3,500 kg/ha (irrigated)
 - Oil yield: 250–1,200 L/ha depending on cultivar and conditions
 
-**Permaculture functions:** The deep taproot breaks compacted subsoil layers and mines nutrients from depth. Safflower serves as a pioneer species for soil rehabilitation on degraded land. Flower heads attract pollinators, and post-harvest residue contributes organic matter.
+**Permaculture functions:** The deep taproot breaks compacted subsoil layers and mines nutrients from depth. Safflower serves as a pioneer species for soil rehabilitation on degraded land. Flower heads attract pollinators, and post-harvest residue contributes [[hamilton-composting-and-organic-matter-management]].
 
 In rotation systems, safflower is an effective break crop reducing soil-borne pathogen populations. It has low pest pressure compared to other oilseeds and requires minimal fertilizer input when following a legume in rotation.
 
-The species exhibits moderate salt tolerance (EC threshold ~7 dS/m), expanding its utility in marginal and saline-affected agricultural zones where conventional oilseeds fail.
+The species exhibits moderate [[fungal-salt-tolerance-and-ion-homeostasis]] (EC threshold ~7 dS/m), expanding its utility in marginal and saline-affected agricultural zones where conventional oilseeds fail.
 
 ## Historical and Culinary Uses
 
-Safflower dye was one of the most important textile dyes in the ancient world, used in Egypt, Mesopotamia, India, and China. Egyptian mummy wrappings dating to the 12th dynasty (c. 1991–1786 BCE) show evidence of safflower dye.
+Safflower dye was one of the most important [[fungal-treatment-of-textile-dyes-mechanisms]] in the ancient world, used in Egypt, Mesopotamia, India, and China. Egyptian mummy wrappings dating to the 12th dynasty (c. 1991–1786 BCE) show evidence of safflower dye.
 
 In traditional Chinese medicine, safflower (*hong hua*) has been used for over 2,000 years to promote blood circulation, alleviate pain, and treat menstrual disorders. Modern research has validated anti-coagulant and vasodilatory effects of safflower extracts.
 
@@ -109,8 +109,8 @@ Safflower petals have found renewed interest as a natural food colorant (E164 in
 
 ## See Also
 
-- [[tagetes-erecta-entity]] — Marigold, another dye-producing Asteraceae
+- tagetes-erecta-entity — Marigold, another dye-producing Asteraceae
 - [[curcuma-longa]] — Turmeric, a dye and medicinal rhizomatous plant
-- [[ricinus-communis-entity]] — Castor bean, non-edible oilseed for comparison
-- [[piper-nigrum-entity]] — Black pepper, historically traded spice for comparison
+- ricinus-communis-entity — Castor bean, non-edible oilseed for comparison
+- [[piper-nigrum-entity]] — [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], historically traded spice for comparison
 - [[myristica-fragrans]] — Nutmeg, another high-value historical trade spice

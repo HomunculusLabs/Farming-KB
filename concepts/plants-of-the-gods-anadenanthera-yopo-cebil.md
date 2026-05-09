@@ -1,5 +1,5 @@
 ---
-title: Anadenanthera Yopo and Cebil in Plants of the Gods
+title: plants of the gods anadenanthera yopo cebil and Cebil in Plants of the Gods
 created: 2026-04-28
 tags: [ethnobotany, anadenanthera, snuff, tryptamines, south-america]
 date: 2026-04-28
@@ -53,7 +53,7 @@ In the Orinoco and parts of the Amazon, a powerful snuff called Yopo
 or Niopo is made from the toasted seeds. The seeds are primarily used
 in shamanism for divination, healing, and communication with the spirit
 world. Among the Waika and other tribes of the upper Orinoco, Yopo
-snuff is employed alongside Virola snuff for the production of Epena,
+snuff is employed alongside [[entheogen-virola-snuff-ethnobotany-chemistry]] for the production of Epena,
 the shamanic preparation used in ceremonial contexts.
 
 ## Chemistry
@@ -69,7 +69,7 @@ practice of adding lime to coca leaves or betel quids.
 
 ## Preparation and Administration
 
-The traditional preparation involves toasting the seeds over a fire,
+The [[kava-traditional-preparation-ceremonial-context]] involves toasting the seeds over a fire,
 removing the seed coats, and grinding the kernels to a fine powder.
 This powder is then mixed with ashes from the bark of various trees to
 create an alkaline snuff. The mixture is blown into the nostrils

@@ -11,11 +11,11 @@ sources:
 
 ## Overview
 
-The skin possesses its own functional endocannabinoid system, with CB1 and CB2 receptors present on keratinocytes, sebocytes, hair follicles, and immune cells throughout the dermis. The Cannabis Health Index (Blesching) describes how topical and systemic cannabis applications can address dermatological conditions including psoriasis, eczema, acne, and general skin inflammation. The endocannabinoid system of the skin in health and disease offers novel perspectives and therapeutic opportunities for conditions that are often resistant to conventional single-molecule treatments.
+The skin possesses its own functional endocannabinoid system, with CB1 and CB2 receptors present on keratinocytes, sebocytes, hair follicles, and immune cells throughout the dermis. The [[blesching-cannabis-health-index-autoimmune-conditions]] (Blesching) describes how topical and systemic cannabis applications can address dermatological conditions including psoriasis, eczema, acne, and general skin inflammation. The endocannabinoid system of the skin in health and disease offers novel perspectives and therapeutic opportunities for conditions that are often resistant to conventional single-molecule treatments.
 
 ## The Cutaneous Endocannabinoid System
 
-The [[cannabis-minor-cannabinoids]] detail specific cannabinoid ratios most effective for inflammatory skin conditions.
+The [[cannabis-minor-cannabinoids]] detail specific cannabinoid ratios most effective for inflammatory [[cannabis-for-skin-conditions-detailed]].
 
 ### Eczema (Atopic Dermatitis)
 
@@ -23,7 +23,7 @@ Cannabis reduces the inflammatory response and itching that characterize eczema.
 
 ### Acne
 
-Sebaceous gland activity is regulated by CB1 and CB2 receptors. CBD has been shown to normalize sebaceous gland lipid production (sebum), addressing the excess sebum that drives acne formation. Yosipovitch et al. (2007) demonstrated the connection between psychological stress, sebum production, and acne vulgaris in adolescents -- suggesting that cannabis's combined sebum-regulating and stress-reducing effects may be particularly relevant. Anti-inflammatory effects reduce the redness and swelling of acne lesions. Antimicrobial properties of certain cannabis terpenes (pinene, limonene) may help with bacterial colonization. THC may increase sebum production via CB1 -- CBD-dominant topicals are preferred for acne.
+Sebaceous gland activity is regulated by CB1 and CB2 receptors. CBD has been shown to normalize sebaceous gland lipid production (sebum), addressing the excess sebum that drives acne formation. Yosipovitch et al. (2007) demonstrated the connection between psychological stress, sebum production, and acne vulgaris in adolescents -- suggesting that cannabis's combined sebum-regulating and stress-reducing effects may be particularly relevant. Anti-inflammatory effects reduce the redness and swelling of acne lesions. [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] of certain [[query-what-are-cannabis-terpenes-and-why-do-they-matter]] (pinene, limonene) may help with bacterial colonization. THC may increase sebum production via CB1 -- CBD-dominant topicals are preferred for acne.
 
 ### Itching (Pruritus)
 
@@ -39,7 +39,7 @@ Research from Casanova et al. (2003) demonstrated that activation of cannabinoid
 
 ## Topical Application
 
-Topicals act locally without producing psychoactive effects -- even THC-based topicals do not enter the bloodstream in significant amounts. This is because the cannabinoid molecules are too large to penetrate through the skin layers into systemic circulation. Balms, salves, creams, and oils are common delivery methods. Topical creams are used to deliver medicine to specific and isolated problem areas, with absorption rates similar to ingestion but less systemic and more local. See [[cannabis-endocannabinoid-system]]
+Topicals act locally without producing psychoactive effects -- even THC-based topicals do not enter the bloodstream in significant amounts. This is because the cannabinoid molecules are too large to penetrate through the skin layers into systemic circulation. Balms, salves, creams, and oils are common [[cannabis-delivery-methods-comparison]]. Topical creams are used to deliver medicine to specific and isolated problem areas, with absorption rates similar to ingestion but less systemic and more local. See [[cannabis-endocannabinoid-system]]
 - [[cannabis-topical-applications]]
 - [[cannabis-cancer-symptom-management]]
 - [[cannabis-endocannabinoid-system]] offers a novel approach to hirsutism through direct modulation of hair follicle function, potentially addressing the condition at its source rather than managing symptoms. The [[cannabis-cannabinoid-receptor-pharmacology]] receptors. The [[cannabis-endocannabinoid-system]], [[cannabis-cbd-therapeutic-profile]], cannabis for dermatological conditions,
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -101,4 +101,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

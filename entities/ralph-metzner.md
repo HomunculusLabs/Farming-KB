@@ -26,11 +26,11 @@ sources:
 
 # Ralph Metzner
 
-Ralph Metzner (1936-2019) was a German-born American psychologist, psychotherapist, and consciousness researcher. A key member of the Harvard Psilocybin Project alongside [[timothy-leary]] and Richard Alpert (Ram Dass), and the most academically grounded of the three, maintaining scholarly credibility throughout a career spanning five decades.
+Ralph Metzner (1936-2019) was a German-born American psychologist, psychotherapist, and consciousness researcher. A key member of the [[leary-harvard-psilocybin-project]] Project alongside [[timothy-leary]] and Richard Alpert (Ram Dass), and the most academically grounded of the three, maintaining scholarly credibility throughout a career spanning five decades.
 
 ## Key Contributions
 
-- **Co-author of "The Psychedelic Experience" (1964):** With Leary and Alpert, adapted the Tibetan Bardo Thodol as a practical guide for psychedelic sessions. The book provided a framework for navigating the stages of a psychedelic experience, structured around the Tibetan concept of the bardos — transitional states between death and rebirth — reinterpreted as phases of ego dissolution and reintegration. This was the first manual specifically designed to guide people through psychedelic experiences.
+- **Co-author of "The [[leary-psychedelic-experience-bardo-mapping]]" (1964):** With Leary and Alpert, adapted the Tibetan Bardo Thodol as a practical guide for psychedelic sessions. The book provided a framework for navigating the stages of a psychedelic experience, structured around the Tibetan concept of the bardos — transitional states between death and rebirth — reinterpreted as phases of [[psilocybin-ego-dissolution-mechanisms]] and reintegration. This was the first manual specifically designed to guide people through psychedelic experiences.
 - **Harvard Psilocybin Project:** Conducted research on psilocybin's effects on consciousness, personality, and creativity while at Harvard, publishing "Reactions to Psilocybin Administered in a Supportive Environment" (1963) in the Journal of Nervous and Mental Disease with Leary and Litwin.
 - **"Maps of Consciousness" (1971):** A survey of consciousness-altering practices across cultures, including psychedelics, meditation, yoga, and shamanic techniques — one of the first comparative studies of its kind.
 - **Green Psychology:** Later developed an ecological psychology integrating Jungian thought, systems theory, and ecological awareness, connecting personal transformation with environmental consciousness.
@@ -42,9 +42,9 @@ When [[timothy-leary]] was dismissed from Harvard in 1963, Metzner and Alpert we
 
 ## Later Career
 
-- Professor at the California Institute of Integral Studies (CIIS) in San Francisco
+- Professor at the California Institute of Integral Studies (CIIS) in [[shipibo-san-francisco-ceremonial-center-ucayali]]
 - Founding editor of the Journal of Consciousness Studies
-- Studied ayahuasca ceremonies in the Amazon, contributing to understanding of [[entheogen-culture]]
+- Studied [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] in the Amazon, contributing to understanding of [[entheogen-culture]]
 - Explored the therapeutic potential of ayahuasca and other entheogenic plant medicines
 
 ## Legacy
@@ -57,7 +57,8 @@ Metzner was the most academically disciplined of the Harvard trio. His work on c
 - [[alexander-shulgin]] — Chemist whose compounds Metzner's therapeutic frameworks applied to
 - [[john-halpern]] — Researcher whose work Metzner cited on addiction treatment
 - [[entheogen-culture]] — Cultural context of sacred plant use
-- [[psychedelic-mushroom-history]] — History of psychedelic mushroom research
+- [[psychedelic-mushroom-history]] — History of [[archaeology-of-psychedelic-mushroom-use]] research
+
 ## Practical Considerations
 
 Successful implementation of Ralph Metzner requires attention to
@@ -76,4 +77,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

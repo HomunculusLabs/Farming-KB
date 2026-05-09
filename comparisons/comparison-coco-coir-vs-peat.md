@@ -1,5 +1,5 @@
 ---
-title: "Coco Coir vs Peat"
+title: "comparison-coco-coir-cannabis-vs-peat-free-gardening vs Peat"
 created: 2026-04-28
 tags: [comparison, coco-coir, peat, growing-media, sustainability]
 date: 2026-04-25
@@ -36,13 +36,13 @@ advantages over locally sourced alternatives.
 
 ## Peat-Free Gardening
 
-peat free gardening
+[[hamilton-peat-free-gardening-and-alternatives]] gardening
 
 Peat has been the standard horticultural growing medium for over a century,
 valued for its exceptional water retention, low nutrient content, and
 slightly acidic pH ideal for acid-loving plants. However, peat is harvested
 from peatlands and bogs, ancient wetland ecosystems that have accumulated
-organic matter over thousands of years. Extraction destroys these
+[[hamilton-composting-and-organic-matter-management]] over thousands of years. Extraction destroys these
 irreplaceable habitats, releasing stored carbon and eliminating
 specialized species including sphagnum mosses, carnivorous plants, and
 rare invertebrates that depend on bog conditions for survival.
@@ -51,17 +51,17 @@ The environmental case against peat extraction is compelling. Peatlands
 cover only 3 percent of the Earth's land surface but store approximately
 30 percent of all soil carbon. When drained and harvested, this carbon is
 released as carbon dioxide, making peat extraction a significant
-contributor to greenhouse gas emissions. The United Kingdom has
+contributor to [[dighton-fungal-greenhouse-gas-nitrogen-saturation]] emissions. The United Kingdom has
 implemented phased bans on peat sales for amateur gardeners, with
 professional horticulture following, and similar regulations are advancing
-across the European Union and North America.
+across the European Union and [[psilocybin-north-america-pacific-northwest]].
 
 Peat-free alternatives have improved dramatically in recent years. Coco
 coir, bark-based mixes, wood fiber, green compost, and wool-based products
 now match or exceed peat's performance in most applications. Blended
 formulations that combine multiple alternative materials often outperform
 pure peat by providing more diverse physical and biological properties.
-The organic gardening movement has been a driving force in promoting
+The [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] movement has been a driving force in promoting
 peat-free practices, with major certification bodies now requiring or
 strongly encouraging peat-free growing media.
 

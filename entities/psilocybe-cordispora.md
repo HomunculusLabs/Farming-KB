@@ -58,7 +58,8 @@ P. cordispora is a notable species for mycologists due to its unusual spore shap
 
 ## See Also
 
-- [[psilocybin-mushroom-potency-comparison-by-species]]
+- psilocybin-mushroom-potency-comparison-by-species
+
 ## Practical Considerations
 
 Successful implementation of Psilocybe cordispora requires attention to
@@ -77,4 +78,4 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+- [[cap-vs-stem-alkaloid-distribution-psilocybe-cubensis]]

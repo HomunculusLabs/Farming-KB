@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca Tourism Ethics and Commodification
+title: stuart-r-ayahuasca-tourism-cautionary-ethnography Ethics and Commodification
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [ayahuasca, ethics]
 
 # [[ayahuasca-tourism]] raises significant ethical concerns that cut across cultural appropriation, economic exploitation, authenticity, and safety.
 
-As shamanism became fashionable among Western seekers in the 1990s, commercial demand created a tourism industry that inevitably transforms the character of the ceremonies it packages and sells.
+As shamanism became fashionable among [[ayahuasca-tourism-western-seekers-and-integration]] in the 1990s, commercial demand created a tourism industry that inevitably transforms the character of the ceremonies it packages and sells.
 
 The ethical landscape is complex, involving tensions between genuine cross-cultural exchange and exploitative commercialization, between seekers' spiritual aspirations and practitioners' economic realities.
 
@@ -18,7 +18,7 @@ The ethical landscape is complex, involving tensions between genuine cross-cultu
 
 ### Shallowness of Commercialized Ceremony
 
-A core ethical tension is that commercialized ayahuasca ceremonies tend to be shallower than rituals conducted solely for the shaman's relatives and community.
+A core ethical tension is that commercialized [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] tend to be shallower than rituals conducted solely for the shaman's relatives and community.
 
 The article states plainly that "the character of a commercialized ayahuasca ceremony would probably be shallower than a ritual conducted solely for the benefit of the shaman's relatives and community."
 
@@ -34,7 +34,7 @@ The ceremonial depth, communal intention, and cosmological specificity that char
 
 Even in ordinary states of consciousness, linguistic barriers and cultural misunderstandings confound communication between foreign tourists and indigenous practitioners.
 
-These barriers are amplified during altered states of consciousness, making genuine spiritual transmission extremely difficult in a commercial setting.
+These barriers are amplified during [[weil-the-natural-mind-altered-states-normalcy]] of consciousness, making genuine spiritual transmission extremely difficult in a commercial setting.
 
 The shaman's primary concern becomes risk management -- "it is only prudent for the shaman to take reasonable precautions to prevent problems with foreigners" -- rather than deep engagement with each participant.
 
@@ -114,7 +114,7 @@ This pattern suggests that Western engagement with indigenous practices is drive
 
 Each wave of appropriation extracts spiritual techniques from their cultural contexts, often distorting them in the process.
 
-Ayahuasca tourism risks a similar dynamic: Western seekers consume indigenous ceremonies as exotic experiences, strip them of their cultural specificity, and reinterpret them through Western frameworks of personal growth and psychedelic therapy.
+Ayahuasca [[ayahuasca-tourism-risks-and-ethics]] a similar dynamic: Western seekers consume indigenous ceremonies as exotic experiences, strip them of their cultural specificity, and reinterpret them through Western frameworks of personal growth and [[metzner-psycholytic-psychedelic-therapy-models]].
 
 ## The Do-It-Yourself Alternative
 
@@ -138,6 +138,8 @@ The ethical burden falls on both practitioners (to acknowledge the limits of the
 
 The absence of regulatory oversight means no systematic screening, no informed consent protocols, and no liability frameworks to protect vulnerable participants.
 ## See Also
+
+- [[ayahuasca-tourism-risks-and-ethics]]
 
 - [[ayahuasca-tourism-shamanic-tourism-economics]] -- economic structures enabling exploitation
 - [[ayahuasca-tourism-peru-retreat-landscape]] -- where these ethical dynamics play out

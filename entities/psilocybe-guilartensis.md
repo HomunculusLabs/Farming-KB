@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources: []
 ---
 
 # Psilocybe guilartensis
@@ -54,11 +54,11 @@ Described by Guzmán and collaborators from collections made in Puerto Rico. The
 
 ## Biogeographic Significance
 
-As an island endemic, *Psilocybe guilartensis* is of particular interest for understanding [[psilocybe-caerulescens]]* of Mexico and Central America is morphologically similar but geographically separated; *P. guilartensis* can be distinguished by its smaller spores and Caribbean distribution. Microscopic comparison of cystidia and spore dimensions is essential for certain identification.
+As an island endemic, *Psilocybe guilartensis* is of particular interest for understanding [[psilocybe-caerulescens]]* of Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] is morphologically similar but geographically separated; *P. guilartensis* can be distinguished by its smaller spores and Caribbean distribution. Microscopic comparison of cystidia and spore dimensions is essential for certain identification.
 
 ## Conservation
 
-While not formally listed as threatened, the restricted island distribution of *P. guilartensis* makes it inherently vulnerable. Puerto Rico's montane forests face pressure from urbanization, agriculture, and climate change. The species' known localities within protected forest reserves (such as Toro Negro and Guilarte State Forest) provide some degree of habitat security, but long-term monitoring would be advisable to assess population trends.
+While not formally listed as threatened, the restricted island distribution of *P. guilartensis* makes it inherently vulnerable. Puerto Rico's montane forests face pressure from urbanization, agriculture, and [[dighton-fungi-climate-change-feedback]]. The species' known localities within protected forest reserves (such as Toro Negro and Guilarte State Forest) provide some degree of habitat security, but long-term monitoring would be advisable to assess population trends.
 
 ## See Also
 
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

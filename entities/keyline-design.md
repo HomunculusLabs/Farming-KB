@@ -1,5 +1,5 @@
 ---
-title: Keyline Design
+title: query-how-does-keyline-design-work-in-permaculture
 created: 2026-04-28
 type: species
 tags:
@@ -23,9 +23,9 @@ sources:
 
 **Keyline Design** is a landscape planning technique for the sustainable development and management of agricultural and pastoral land, originally developed by Australian farmer and engineer **Percival Alfred (P.A.) Yeomans** in the 1950s.
 The system focuses on the systematic management of water across a landscape by identifying and working with the natural topographic features — specifically the "keyline" — to maximize rainfall absorption, soil moisture retention, and overall land productivity.
-Keyline design integrates water harvesting, soil building, and land shaping into a cohesive approach that has profoundly influenced modern [[bill-mollison]] and [[permaculture]]
-- [[permaculture]] | Keyline is a core technique within permaculture water management |
-| [[permaculture]]
+Keyline design integrates water harvesting, soil building, and land shaping into a cohesive approach that has profoundly influenced modern [[bill-mollison]] and permaculture
+- permaculture | Keyline is a core technique within permaculture water management |
+| permaculture
 - [[food-forest]]
 - [[david-holmgren]]
 - [[paul-stamets]]
@@ -107,3 +107,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[wofati]]

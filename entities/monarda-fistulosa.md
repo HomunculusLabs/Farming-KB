@@ -25,7 +25,7 @@ sources:
 ## Overview
 
 Monarda fistulosa, commonly known as wild bergamot or bee balm, is a perennial
-herbaceous plant in the mint family (Lamiaceae). Native to North America, it ranges
+herbaceous plant in the mint family (Lamiaceae). Native to [[psilocybin-north-america-pacific-northwest]], it ranges
 from Canada to Mexico across prairies, open woodlands, and meadows.
 
 The plant is valued for its showy lavender-to-pink flower heads, aromatic foliage,
@@ -71,7 +71,7 @@ Several varieties are recognized: var. menthifolia (western), var. fistulosa
 
 ## Bioactive Compounds
 
-The essential oil of M. fistulosa contains a complex mixture of monoterpenes and
+The [[permaculture-designers-manual-essential-oil-plants]] of M. fistulosa contains a complex mixture of monoterpenes and
 phenolic compounds:
 
 - **Thymol:** Primary antimicrobial constituent (20–60% of essential oil depending
@@ -106,7 +106,7 @@ pH 6.0–8.0. Water: low to moderate; drought-tolerant once established. Hardine
 USDA Zones 3–9. Spacing: 45–60 cm apart.
 
 Plants bloom in the second year. Deadheading extends bloom period. Division every
-3–4 years maintains vigor. Susceptible to powdery mildew in humid conditions.
+3–4 years maintains vigor. Susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in humid conditions.
 
 ## Permaculture and Ecological Applications
 
@@ -114,13 +114,13 @@ M. fistulosa is one of the most valuable native plants for pollinator support,
 attracting bees, butterflies, hummingbirds, and moths. It is a host plant for the
 hermit sphinx moth (Sphinx eremitus) and several specialist bee species.
 
-In permaculture design, wild bergamot serves multiple functions:
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], wild bergamot serves multiple functions:
 
 - **Pollinator support:** Blooms during the mid-summer pollinator gap.
-- **Dynamic accumulator:** Deep taproot mines subsoil minerals; leaf mulch returns
+- **[[nutrient-dynamic-accumulator-reference]]:** Deep taproot mines subsoil minerals; leaf mulch returns
   nutrients to surface soil.
 - **Herb layer:** Fits well in food forest understories and guild plantings.
-- **Erosion control:** Rhizomatous roots stabilize soil on slopes.
+- **[[permplant-willows-salix-erosion-control-fodder]]:** Rhizomatous roots stabilize soil on slopes.
 - **Medicinal yield:** Aerial parts harvested 2–3 times per season for tea and
   medicine.
 
@@ -132,6 +132,8 @@ flowers serve as garnishes. The aromatic tea is often used as an Earl Grey
 substitute.
 
 ## See Also
+
+- [[pseudofistulina-fistulosa]]
 
 - [[cymbopogon-citratus]]
 - [[leonurus-cardiaca-entity]]

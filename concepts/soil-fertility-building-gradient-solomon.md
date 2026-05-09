@@ -15,7 +15,7 @@ means to haul enough [[soil-health-and-management]].
 ## Step 3: Manure Plus COF (Recommended)
 The recommended approach for most gardeners is a 1-inch layer of steer manure
 or finished compost over the whole area, plus 4-6 liters of [[complete-organic-fertilizer-cof-recipe-solomon]]
-- vegetable demand classification solomon
+- [[solomon-vegetable-demand-classification-low-medium-high]] classification solomon
 - [[row-gardening-vs-intensive-methods-solomon]]
 
 ## Source
@@ -99,3 +99,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[solomon-manure-nutrient-variability-cof]]

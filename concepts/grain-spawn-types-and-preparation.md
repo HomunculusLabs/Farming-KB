@@ -1,11 +1,11 @@
 ---
-title: Grain Spawn Types And Preparation
+title: comparison-grain-spawn-vs-grain-to-grain-transfer Types And Preparation
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+  sources: []
   - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 ---
 # Grain Spawn Types and Preparation for Mushroom Cultivation
@@ -15,10 +15,10 @@ Grain spawn is the next step in the exponential expansion of mycelial mass from 
 ## Common Grain Types
 
 ### Rye Grain
-The most popular choice among gourmet mushroom growers worldwide. Rye has an ideal kernel size and shape, a good nutritional profile, and separates readily upon shaking after sterilization. It is the standard referenced in most cultivation literature including The Mushroom Cultivator. Organically grown rye is widely available and cost-effective.
+The most popular choice among [[growing-gourmet-mushroom-dehydration-methods-equipment]] growers worldwide. Rye has an ideal kernel size and shape, a good nutritional profile, and separates readily upon shaking after sterilization. It is the standard referenced in most cultivation literature including The Mushroom Cultivator. Organically grown rye is widely available and cost-effective.
 
 ### Wheat
-Second most common grain for spawn production. Performs comparably to rye in most applications and is widely available. Some cultivators prefer wheat for certain species, and it is the traditional grain used in many parts of Europe.
+Second most common grain for [[growing-gourmet-sawdust-spawn-production-use]]. Performs comparably to rye in most applications and is widely available. Some cultivators prefer wheat for certain species, and it is the traditional grain used in many parts of Europe.
 
 ### Milo (Sorghum)
 A larger, rounder grain used extensively by commercial spawn producers. Milo kernels are durable and withstand the sterilization process well. The round shape aids in separation after colonization. Common in large-scale operations where throughput is prioritized.
@@ -31,7 +31,7 @@ Less commonly used but viable for many species. Larger kernels mean fewer inocul
 
 ## Virtually All Cereal Grains Are Usable
 
-Every spawn maker favors the grain which, from experience, has produced the most satisfactory results. The grain used must be free of fungicides and ideally should be organically grown. Grain obtained in the spring was probably harvested 6 or more months earlier, and the resident contamination population gradually increases over time. With more contaminants per pound, cultivators must adjust sterilization schedules to compensate. Experienced cultivators are constantly searching for sources of fresh, high quality grain with endemically low counts of bacteria and mold spores.
+Every spawn maker favors the grain which, from experience, has produced the most satisfactory results. The grain used must be free of fungicides and ideally should be organically grown. Grain obtained in the spring was probably harvested 6 or more months earlier, and the resident contamination population gradually increases over time. With more contaminants per pound, cultivators must adjust sterilization schedules to compensate. Experienced cultivators are constantly searching for sources of fresh, high [[oyster-mushroom-spawn-types-and-quality-grain-sawdust-plug-liquid]] with endemically low counts of bacteria and mold spores.
 
 ## Two Methods of Grain Preparation
 
@@ -89,7 +89,7 @@ Theoretically, one petri dish can produce over 1,000,000 lbs of mushrooms in as 
 
 ## Inoculation Rates
 
-- Commercial spawn (purchased): typically 3-7% of substrate dry weight, or 30-70 lbs wet spawn per 1000 lbs substrate
+- Commercial spawn (purchased): typically 3-7% of [[pf-tek-vermiculite-brown-rice-substrate-dry-barrier]] weight, or 30-70 lbs wet spawn per 1000 lbs substrate
 - Self-produced spawn: 8-15% wet spawn/dry substrate (80-150 lbs per 1000 lbs)
 - Higher rates accelerate colonization, narrow the window for competitor invasion, and boost yields
 - Major drawback of high spawning rates: increased thermogenesis (substrate heating from mycelial metabolism)
@@ -98,7 +98,7 @@ Theoretically, one petri dish can produce over 1,000,000 lbs of mushrooms in as 
 
 [[spawn-grain-performance-research]], [[agar-culture-techniques-detailed]], [[mushroom-cultivation-bulk-substrates]], [[six-vectors-of-contamination]]
 
-*Source: Stamets, P. "Growing Gourmet and Medicinal Mushrooms" -- Chapter 15: Generating Grain Spawn*
+*Source: Stamets, P. "Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]" -- Chapter 15: Generating Grain Spawn*
 
 ## See Also
 

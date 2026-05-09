@@ -1,6 +1,6 @@
 ---
 
-title: JADAM Pesticide for Fungal Diseases
+title: JADAM jadam pesticide for fungal diseases Diseases
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -20,7 +20,7 @@ sources:
 
 # JADAM Pesticide for Fungal Diseases
 
-For serious fungal diseases -- canker, anthracnose, rust, brown blotch, black spot -- JADAM uses stronger concentrations of [[jadam-sulfur-js]] combined with [[jadam-wetting-agent-jwa]]. These are the "heavy" germicide formulations, one tier above the [[jadam-pesticide-for-powdery-mildew]] recipes.
+For serious fungal diseases -- canker, anthracnose, rust, [[oyster-brown-blotch-disease]], black spot -- JADAM uses stronger concentrations of [[jadam-sulfur-js]] combined with [[jadam-wetting-agent-jwa]]. These are the "heavy" germicide formulations, one tier above the [[jadam-pesticide-for-powdery-mildew]] recipes.
 
 ## Formulation (per 500L / 132 gal spray tank)
 
@@ -35,7 +35,7 @@ For serious fungal diseases -- canker, anthracnose, rust, brown blotch, black sp
 - JS: 2L (0.53 gal)
 - Apply every 2 days for total of 2-3 applications
 
-**With insect control**:
+**With [[mushroom-pests-insect-control-stamets]]**:
 - JWA: 5L + JS 1.5L + JHS 5L (any JHS type)
 
 ### Leaf Blight
@@ -54,7 +54,7 @@ For serious fungal diseases -- canker, anthracnose, rust, brown blotch, black sp
 
 | Disease | Formulation | Notes |
 |---------|------------|-------|
-| Powdery/downy mildew | JWA 3L + JS 1.2L | Early intervention, see [[jadam-pesticide-for-powdery-mildew]] |
+| Powdery/[[cervantes-downy-mildew-fungal-blight]] | JWA 3L + JS 1.2L | Early intervention, see [[jadam-pesticide-for-powdery-mildew]] |
 | Canker (mild) | JWA 5L + JS 1.5L | Standard |
 | Canker (severe) | JWA 10L + JS 2L | Every 2 days, 2-3 applications |
 | Black spot (pear, plum) | JWA 5L + JS 1.5L | Same as canker |
@@ -91,7 +91,7 @@ For serious fungal diseases -- canker, anthracnose, rust, brown blotch, black sp
 
 Instead of relying on JS treatments:
 - Apply JMS regularly to maintain microbial diversity on leaves and branches
-- A diverse microbial community prevents any single pathogen from dominating
+- A diverse [[edaphic-factors-microbial-community-structure]] prevents any single pathogen from dominating
 - JMS 20L + JWA 3L per 500L as preventive foliar spray
 - Remove infected plant debris from field
 
@@ -101,4 +101,4 @@ Instead of relying on JS treatments:
 - [[jadam-pesticide-for-powdery-mildew]] -- lighter formulation for mildew
 - [[jadam-natural-pesticide-jnp]] -- complete formulation reference
 - [[jadam-wetting-agent-jwa]] -- surfactant that makes everything work
-- [[jadam-microorganism-solution-jms]] -- preventive disease management
+- [[jadam-microorganism-solution-jms]] -- preventive [[plant-disease-management-solomon]]

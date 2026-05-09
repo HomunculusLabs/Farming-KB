@@ -1,5 +1,5 @@
 ---
-title: Animal Impact and Herd Effect
+title: savory-animal-impact-and-herd-effect and Herd Effect
 created: 2026-04-28
 tags:
   - holistic-management
@@ -17,7 +17,7 @@ type: concept
 # Animal Impact and Herd Effect
 
 Animal impact is one of the six ecosystem management tools in Allan Savory's
-holistic management framework. It refers to the physical effects that large
+[[savory-holistic-management-overview]] framework. It refers to the physical effects that large
 hooved animals have on soil surfaces and vegetation through trampling,
 dunging, and urination. The concept of herd effect, a specific form of
 animal impact, is critical to understanding how [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]] evolved over
@@ -42,12 +42,12 @@ Periodic high animal impact in brittle environments:
 - Breaks soil surface capping and algal communities between plants
 - Provides compaction enabling grass seedlings to establish
 
-Low animal impact, typically associated with partial rest:
-- Produces bare ground by disturbing algal communities without advancing
+Low animal impact, typically associated with [[savory-partial-rest-and-algal-crusts]]:
+- Produces [[savory-bare-ground-and-soil-exposure]] by disturbing algal communities without advancing
   succession
 - Allows plant spacings to increase
 - Reduces mineral and water cycles below the land's potential
-- Reduces energy flow, especially when compounded by overgrazing
+- Reduces [[savory-energy-flow-and-solar-capture]], especially when compounded by overgrazing
 
 ## Resilience to Extreme Impact
 
@@ -64,7 +64,7 @@ to the total land area.
 Many cultures recognized the connection between hooves and land health.
 Scottish shepherds referred to the "golden hooves" of sheep. Navajo
 medicine men warned that reducing sheep numbers would harm the soil.
-South African oldtimers had a saying: "Hammer veld to sweeten it",
+[[kanna-sceletium-south-african-narcotic]] oldtimers had a saying: "Hammer veld to sweeten it",
 meaning literally to hammer the land with herds of livestock to improve
 forage quality. These observations were rejected by the scientific
 community of the time.

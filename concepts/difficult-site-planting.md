@@ -25,11 +25,11 @@ See [[salt-tolerant-plant-guide]] for full details on grasses, legumes, saltbush
 Vigorous, bushy, pine-like tree. Tolerates most soils in frost-free districts with 350+ mm rainfall. **WARNING**: Most tamarisks cause salinisation of upper soil. Extensive roots extract all soluble salts from soil, excrete salts on leaves, return them to topsoil with litter fall. Reduce crop yields for up to 50 m.
 
 ### Paperbarks (Melaleuca spp, Family: Myrtaceae)
-Many valuable for honey and essential oils. Notable species:
+Many valuable for honey and [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]. Notable species:
 - **M. stypheloides** (Prickly Paperbark): Fast growing 6-18 m, swampy coastal sites. Tolerates saline, sandy, wet, heavy soils. Drought and frost tolerant.
 - **M. bracteata** (White Cloud Tree): To 7 m, spreading to 5 m. Drought and frost tolerant. Heavy to medium soils.
 - **M. lanceolata** (Moonah): Produces light amber honey in summer.
-- **M. thyroides**: Evergreen shrub to 2 m. Frost and drought tolerant, good waterlogging tolerance.
+- **M. thyroides**: Evergreen shrub to 2 m. Frost and [[permplant-carob-drought-tolerant-food-tree]], good waterlogging tolerance.
 
 ### Casuarinas
 - C. obesa, C. glauca (Swamp Sheoak), C. cristata (Black Sheoak), and other species for saline conditions.
@@ -39,7 +39,7 @@ Many valuable for honey and essential oils. Notable species:
 
 ### Other Salt Tolerant Trees
 - **Colophospermum mopane** (Mopane): Leguminous tree to 23 m from central/southern Africa. Grows on poor soils with bad drainage. Withstands high summer temperatures, mild frosts. Hardy, durable wood used for pylons, mine timbers, railroad ties. Considered best firewood in Africa (specific gravity > 1.0). Coppices vigorously after fire, frost, or felling.
-- **Dalbergia sissoo** (Sissoo): Fast growing leguminous tree to 30 m. Temperature range below 0 deg C to nearly 50 deg C. Rainfall 500-2000 mm. Grows on alluvial soils along rivers. Hardy, elastic, close-grained wood valued for furniture, veneer, boat building. Good firewood (specific gravity 0.64-0.7). Can be managed in coppice rotation.
+- **Dalbergia sissoo** (Sissoo): Fast growing leguminous tree to 30 m. [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] below 0 deg C to nearly 50 deg C. Rainfall 500-2000 mm. Grows on alluvial soils along rivers. Hardy, elastic, close-grained wood valued for furniture, veneer, boat building. Good firewood (specific gravity 0.64-0.7). Can be managed in coppice rotation.
 
 ## Alkaline and Calcareous Soils
 
@@ -52,10 +52,10 @@ Several species specifically tolerate alkaline conditions:
 
 ## Coastal Sites (Plants Surviving to the Ocean)
 
-See [[salt-tolerant-plant-guide]] for ground covers. Trees for coastal conditions include many of the Acacia, Casuarina, Melaleuca, and Eucalyptus species listed above.
+See [[salt-tolerant-plant-guide]] for [[permaculture-plants-food-forest-ground-covers-bamboos]]. Trees for coastal conditions include many of the Acacia, Casuarina, Melaleuca, and Eucalyptus species listed above.
 
 ## Giant Reed (Arundo donax)
-Often wrongly called bamboo, this vigorous perennial has thick underground stems. Native to the Mediterranean, colonised many damp areas in Western Australia. Survives in inundated, saline watercourses. Useful for erosion control and as a structural material.
+Often wrongly called bamboo, this vigorous perennial has thick underground stems. Native to the Mediterranean, colonised many damp areas in Western Australia. Survives in inundated, saline watercourses. Useful for [[permplant-willows-salix-erosion-control-fodder]] and as a structural material.
 
 ## Related
 
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

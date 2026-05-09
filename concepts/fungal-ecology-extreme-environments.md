@@ -24,7 +24,7 @@ Desert soils harbor diverse fungal communities despite extreme conditions:
 
 - **Stress factors**: Low water availability, high temperatures (soil surface can exceed 70C), high UV radiation, large diurnal temperature fluctuations, low organic matter
 - **Black fungi (black yeasts)**: Melanized fungi (e.g., *Cladosporium sphaerospermum*, *Aureobasidium pullulans*) dominate exposed desert rock surfaces. Melanin provides UV protection and desiccation resistance by absorbing radiation and binding water molecules.
-- **Microcolonial fungi**: Slow-growing, melanized fungi that form compact colonies on rock surfaces. They can survive in a metabolically inactive state for years and resume growth during brief moisture events.
+- **[[rock-inhabiting-microcolonial-fungi-detail]]**: Slow-growing, melanized fungi that form compact colonies on rock surfaces. They can survive in a metabolically inactive state for years and resume growth during brief moisture events.
 - **Desert truffles**: *Terfezia* and *Tirmania* species form mycorrhizas with desert shrubs (e.g., *Helianthemum*) and produce underground fruiting bodies after rare rainfall events. They are important food sources for desert cultures.
 
 ### Biological Soil Crusts
@@ -33,7 +33,7 @@ In arid and semi-arid regions, fungi are key components of biological soil crust
 
 - Fungal hyphae bind soil particles together, reducing erosion by wind and water
 - Dark-pigmented fungi (especially *Microcolonium* species) are dominant in biological soil crusts
-- Crust fungi contribute to carbon and nitrogen fixation in cooperation with cyanobacteria
+- Crust fungi contribute to carbon and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] in cooperation with cyanobacteria
 - They are extremely sensitive to disturbance -- livestock trampling can destroy decades-old crust communities
 
 ### Adaptations to Aridity
@@ -85,8 +85,8 @@ Marine fungi inhabit diverse coastal and oceanic environments:
 ### Physiological Adaptations to Marine Life
 
 - **Salinity tolerance**: True marine fungi are halotolerant, growing optimally in the presence of seawater (approximately 3.5% NaCl). They accumulate compatible solutes (glycerol, mannitol) to balance osmotic pressure.
-- **Enzyme production**: Marine fungi produce extracellular enzymes adapted to function in cold, saline conditions. Cellulases, ligninases, and proteases from marine fungi often have distinct salt and temperature optima compared to terrestrial counterparts.
-- **Lignin degradation**: Some marine fungi can degrade lignocellulose in wood, contributing to carbon cycling in coastal ecosystems. Unlike terrestrial white-rot fungi, marine lignin degraders often produce laccases without the full complement of peroxidases.
+- **[[ligninolytic-enzyme-production-bioremediation]]**: Marine fungi produce extracellular enzymes adapted to function in cold, saline conditions. Cellulases, ligninases, and proteases from marine fungi often have distinct salt and temperature optima compared to terrestrial counterparts.
+- **[[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]]**: Some marine fungi can degrade lignocellulose in wood, contributing to carbon cycling in coastal ecosystems. Unlike terrestrial white-rot fungi, marine lignin degraders often produce laccases without the full complement of peroxidases.
 
 ## Halophilic and Alkaliphilic Fungi
 
@@ -98,7 +98,7 @@ Marine fungi inhabit diverse coastal and oceanic environments:
 ### Alkaline Environments
 
 - **Alkaliphilic fungi**: Fungi that grow optimally at pH 9-10. These are relatively rare compared to alkaliphilic bacteria.
-- **Concrete and building materials**: Fungi colonizing alkaline concrete and mortar include *Fusarium*, *Alternaria*, and *Cladosporium* species. Their ability to tolerate high pH makes them important biodeterioration agents.
+- **Concrete and [[natural-building-materials-guide]]**: Fungi colonizing alkaline concrete and mortar include *Fusarium*, *Alternaria*, and *Cladosporium* species. Their ability to tolerate high pH makes them important biodeterioration agents.
 
 ## Heavy Metal-Contaminated Environments
 
@@ -139,31 +139,10 @@ Fungi are among the first organisms to colonize bare rock surfaces:
 
 - **Cave ecosystems**: Fungi in caves include both saprotrophic species (growing on bat guano, wood, and organic detritus) and true cave-dwelling species adapted to permanent darkness and constant temperature.
 - **Hypogean fungi**: Some fungi are exclusively found in subterranean environments, including species associated with cave cricket guano deposits.
-
-## Thermal Environments
-
-### Hot Springs and Geothermal Areas
-
-- **Thermophilic fungi**: Species growing at temperatures above 40C. *Thermomyces lanuginosus* is a well-studied thermophile producing thermostable enzymes. *Myceliophthora thermophila* grows up to 55C.
-- **Geothermal soils**: Fungi in geothermal areas show zonation with temperature. Thermophilic species occupy the hottest zones, while mesophiles dominate cooler areas.
-- **Compost fungi**: Thermophilic fungi are important in the self-heating phase of composting, where temperatures reach 50-70C. *Scytalidium thermophilum* is a key species in mushroom compost.
-
-## Ecosystem Significance of Extreme-Environment Fungi
-
-1. **Primary succession**: Fungi are often the first colonizers of newly exposed substrates (volcanic rock, mine spoil, glacial moraine), initiating soil development and nutrient accumulation.
-
-2. **Biogeochemical cycling**: Even in extreme environments, fungi drive decomposition, nutrient mineralization, and element transformations.
-
-3. **Climate indicators**: Changes in fungal community composition in extreme environments can serve as early indicators of climate change, particularly in polar and alpine regions.
-
-4. **Biotechnological potential**: Extremophilic fungi are sources of novel enzymes (thermostable, cold-active, salt-tolerant) and bioactive compounds with pharmaceutical and industrial applications.
-
-5. **Ecosystem resilience**: The ability of fungi to survive extreme conditions and rapidly resume activity when conditions improve provides ecosystem resilience against disturbance.
-
 ## Related Pages
 
 - [[fungal-biodiversity]] -- species diversity and biogeography
-- [[fungal-nutrient-cycling-mineral-transformations]] -- mineral transformations
+- [[fungal-nutrient-cycling-mineral-transformations]] -- [[fungal-mineral-transformations-biogeochemical-cycles-gadd]]
 - [[endophytic-fungi]] -- fungi inside plant tissues
 - [[lichens]] -- fungal-algal symbioses
 - [[mycoremediation-of-heavy-metals]] -- fungal metal bioremediation

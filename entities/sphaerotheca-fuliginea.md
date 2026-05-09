@@ -16,7 +16,7 @@ sources:
 
 # Sphaerotheca fuliginea
 
-Sphaerotheca fuliginea is a major powdery mildew pathogen that infects cucurbit crops worldwide. As an obligate biotrophic parasite, it has served as one of the most important model host organisms for studying biological control by mycoparasitic fungi, providing fundamental insights into fungal-fungal interactions and the development of biocontrol strategies for plant diseases.
+Sphaerotheca fuliginea is a major [[cervantes-powdery-mildew-prevention-treatment]] pathogen that infects cucurbit crops worldwide. As an obligate biotrophic parasite, it has served as one of the most important model host organisms for studying [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] by mycoparasitic fungi, providing fundamental insights into fungal-fungal interactions and the development of biocontrol strategies for plant diseases.
 
 ## Taxonomy and Classification
 
@@ -24,7 +24,7 @@ S. fuliginea belongs to the Erysiphaceae (powdery mildews) within the Ascomycota
 
 ## Host Range and Disease Impact
 
-S. fuliginea primarily attacks Cucurbitaceae, causing severe powdery mildew on cucumber, melon, squash, pumpkin, zucchini, and related crops. The disease cycle begins when conidia land on leaf surfaces, germinate, and establish haustorial connections with epidermal cells. The fungus forms characteristic white powdery colonies on both upper and lower leaf surfaces, reducing photosynthetic capacity, increasing transpiration, and ultimately reducing crop yield and fruit quality. In greenhouse environments, the disease can spread rapidly and cause significant economic losses. The obligate biotrophic nature of the pathogen means it cannot be cultured on artificial media, complicating research and control efforts.
+S. fuliginea primarily attacks Cucurbitaceae, causing severe powdery mildew on cucumber, melon, squash, pumpkin, zucchini, and related crops. The disease cycle begins when conidia land on leaf surfaces, germinate, and establish haustorial connections with epidermal cells. The fungus forms characteristic white powdery colonies on both upper and lower leaf surfaces, reducing photosynthetic capacity, increasing transpiration, and ultimately reducing [[fukuoka-hotel-analogy-crop-yield-model]] and fruit quality. In greenhouse environments, the disease can spread rapidly and cause significant economic losses. The obligate biotrophic nature of the pathogen means it cannot be cultured on artificial media, complicating research and control efforts.
 
 ## Mycoparasitic Interactions
 
@@ -46,7 +46,7 @@ pseudozyma-flocculosa and P. rugulosa kill mildew conidia without penetration. P
 
 Several other fungi have been documented as active mycoparasites on S. fuliginea:
 
-- acrodontium-crateriforme: Active on powdery mildews (Hijwegen and Buchenauer 1984), also commonly found on rust fungi
+- acrodontium-crateriforme: Active on powdery mildews (Hijwegen and Buchenauer 1984), also commonly found on [[biodiversity-rust-fungi-urediniomycetes]]
 - lecanicillium-aphanocladii: Previously identified as [[trichothecium-roseum]]: Active mycoparasite on mildew conidia, commonly inhabiting powdery mildew colonies and killing conidia (Heintz and Blaich 1990)
 - ramichloridium-apiculatum: Parasitizes powdery mildew colonies
 - dissoconium-apiculatum: Recently recognized as an active mycoparasite on powdery mildews
@@ -70,7 +70,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,4 +112,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

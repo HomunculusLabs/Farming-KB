@@ -34,9 +34,9 @@ practice and other well-established sacramental traditions:
   cannabis should hold an analogous sacred role in pagan practice.
 - **Rastafarianism** recognizes cannabis as a holy sacrament central to
   worship, meditation, and connection with Jah.
-- **Native American traditions** employ peyote and ayahuasca as ceremonial
+- **[[halpern-sacramental-peyote-and-native-american-church]] traditions** employ peyote and ayahuasca as ceremonial
   tools to attain states conducive to communication with the divine.
-- The **early Christian church** may have incorporated cannabis into its
+- The **[[allegro-dead-sea-scrolls-and-early-christian-sects]] church** may have incorporated cannabis into its
   practices, as Sativus suggests, noting that the sacred role of this herb is
   "not something that is foreign or alien to the earth but rather comes out of
   it naturally."
@@ -79,4 +79,4 @@ This mirrors the broader anthropological observation that the same substance
 can serve radically different functions depending on the context and mindset
 of the user, a concept sometimes called "[[blessing-ground-ritual]] for the earth-blessing ceremony
 - [[cannabis-fire-ritual]] for the fire celebration ceremony
-- [[cannabis-anointing-oil]] for the oil blessing ritual
+- [[cannabis-anointing-oil]] for the [[cannabis-anointing-oil-blessing-rituals]] ritual

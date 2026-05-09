@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [query, cannabis, diseases, mold, ipm]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -14,14 +15,14 @@ type: query
 Bud rot, caused by the fungus Botrytis cinerea, appears as brown or gray mushy spots
 inside dense cannabis colas, often with white fuzzy mold growth. Once a bud is
 infected, it cannot be saved and must be removed immediately to prevent spore spread.
-Prevention through proper airflow, humidity control, and environmental management is
+Prevention through proper airflow, [[cervantes-humidity-control-dehumidification]], and environmental management is
 far more effective than treatment, as fungicides cannot be safely applied to flowering
 cannabis buds that will be consumed.
 
 ## Detailed Explanation
 
 Bud rot is one of the most devastating problems a cannabis grower can face, particularly
-during the late flowering stage when colas are dense and environmental conditions favor
+during the late [[cannabis-flowering-stage-management]] when colas are dense and environmental conditions favor
 fungal growth. The pathogen, Botrytis cinerea, is ubiquitous in the environment and
 cannot be entirely eliminated from any grow space. Instead, growers must focus on
 creating conditions where the fungus cannot establish itself. Understanding the full
@@ -45,9 +46,9 @@ and airflow is stagnant inside the canopy. Maintaining proper [[defoliation-cann
 reduces humidity pockets where bud rot takes hold.
 
 Strain selection matters significantly. Dense, tight-budded indica varieties are far
-more susceptible than airy, sativa-dominant strains. If you grow in a humid climate or
+more susceptible than airy, sativa-dominant strains. If you grow in a [[mollison-designers-cool-humid-climate-design-overview]] or
 have struggled with bud rot before, consider selecting looser-budded cultivars.
-Training techniques like [[water-in-permaculture]] overview covers additional methods for opening up the canopy.
+[[cannabis-training-techniques-comparison]] like water-in-permaculture overview covers additional methods for opening up the canopy.
 
 Outdoor growers face additional challenges because they cannot control rainfall and dew
 formation. Choosing early-finishing varieties that harvest before the wettest part of
@@ -56,9 +57,9 @@ while maintaining airflow can make the difference between a successful harvest a
 total loss. The [[beneficial-insects-cannabis]] programs also contribute to overall plant health and
 disease resistance.
 
-Integrated pest and disease management should address bud rot as part of a broader
+Integrated pest and [[plant-disease-management-solomon]] should address bud rot as part of a broader
 strategy. Products containing Bacillus subtilis or Trichoderma species can be applied
-as preventive foliar sprays during vegetative growth and early flowering. These
+as preventive foliar sprays during [[cannabis-vegetative-growth-stage]] and early flowering. These
 beneficial microbes colonize plant surfaces and compete with Botrytis for space and
 resources. However, all foliar sprays should stop by week three or four of flowering
 to avoid contaminating consumable buds. The [[drying-cannabis]] and [[cannabis-flowering-stage-management]] guide discusses how different cultivars respond to
@@ -90,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

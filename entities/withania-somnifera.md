@@ -62,7 +62,7 @@ The primary bioactive constituents of Withania somnifera are a group of naturall
 ### Major Withanolides
 
 - **Withanolide D**: Potent neuroprotective and anti-inflammatory compound; considered one of the key markers for quality standardization.
-- **Withaferin A**: A bioactive withanolide with demonstrated anticancer, anti-inflammatory, and pro-apoptotic properties. Shown to inhibit NF-κB signaling and induce oxidative stress in tumor cells.
+- **Withaferin A**: A bioactive withanolide with demonstrated anticancer, anti-inflammatory, and pro-apoptotic properties. Shown to inhibit NF-κB signaling and induce [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in tumor cells.
 - **Withanolide A**: Associated with neuroprotective effects and cognitive enhancement; promotes neurite outgrowth.
 - **Withanone**: Exhibits anticancer activity and may influence telomerase activity.
 - **12-Deoxywithastramonolide**: Anti-inflammatory and immunomodulatory.
@@ -76,6 +76,8 @@ The primary bioactive constituents of Withania somnifera are a group of naturall
 
 The withanolide profile varies significantly with cultivar, geographic origin, harvest time, and processing method. Standardized extracts are typically calibrated to 2.5–5% total withanolides.
 ## See Also
+
+- [[curculigo-orchioides]]
 
 ## Merged: "Withania somnifera (Ashwagandha)"
 
@@ -91,7 +93,7 @@ Ashwagandha occupies a central position in the Ayurvedic pharmacopoeia, classifi
 
 The primary bioactive constituents of W. somnifera are a group of naturally occurring steroidal lactones called withanolides, which are structurally similar to ergostane-type sterols. Over 40 withanolides have been identified, with withanolide D, withaferin A, withanolide A, and withanone being the most pharmacologically significant. Other important constituents include:
 
-- **Withaferin A**: A C28 steroidal lactone with potent anti-inflammatory, anti-tumor, and pro-apoptotic properties. It inhibits NF-κB signaling and induces heat shock response.
+- **Withaferin A**: A C28 steroidal lactone with potent anti-inflammatory, anti-tumor, and pro-apoptotic properties. It inhibits NF-κB signaling and induces heat [[species-specific-cold-shock-response-psilocybe]].
 - **Withanolide A**: Associated with neuroprotective effects and cognitive enhancement through acetylcholinesterase inhibition and promotion of neurite outgrowth.
 - **Withanone**: Demonstrates anti-cancer properties and telomerase inhibitory activity.
 - **Alkaloids**: Including withanine, somniferine, somniferinine, and anferine.
@@ -120,7 +122,7 @@ Lopresti et al. (2019) found that ashwagandha supplementation (600 mg/day for 8 
 
 ### Cognitive Function
 
-Clinical trials in both healthy individuals and those with mild cognitive impairment have shown improvements in reaction time, task performance, and memory following ashwagandha supplementation. These effects are consistent with its medhya rasayana classification in Ayurveda.
+[[mushroom-cancer-clinical-trials-overview]] in both healthy individuals and those with mild cognitive impairment have shown improvements in reaction time, task performance, and memory following ashwagandha supplementation. These effects are consistent with its medhya rasayana classification in Ayurveda.
 
 ## Traditional Preparations
 

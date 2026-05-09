@@ -1,13 +1,13 @@
-# [[keyhole-beds]].
+# keyhole-beds.
 - **Waves and nets**: Create productive edge habitats along waterways and windbreaks.
 
 The guiding principle is to [[herb-spiral]] is a compressed mountain ecosystem, offering microclimates from moist and cool at the base to dry and warm at the top.
 
 ### 7. Guild and Polyculture Design
 
-Group plants and animals into mutually beneficial communities called guilds. Each guild includes a central element surrounded by supporting species that provide nitrogen fixation, pest control, pollination, mulch, and microclimate modification.
+Group plants and animals into mutually beneficial communities called guilds. Each guild includes a central element surrounded by supporting species that provide [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], pollination, mulch, and microclimate modification.
 
-The classic apple tree guild includes comfrey for dynamic nutrient accumulation, nitrogen-fixing legumes beneath the canopy, daffodils to deter grazing pests, and alliums to repel borers.
+The classic [[comparison-apple-tree-care-vs-apple-guild-design]] guild includes comfrey for dynamic nutrient accumulation, nitrogen-fixing legumes beneath the canopy, daffodils to deter grazing pests, and alliums to repel borers.
 
 Design guilds by analyzing the needs and products of the central element. Then select companion species that fill those needs and benefit from its products. The result is a plant community more productive than any monoculture.
 
@@ -17,12 +17,12 @@ Polycultures extend this concept to broader planting arrangements across the ent
 
 Design for how the landscape will evolve over time. Start with pioneer species that prepare the ground, improve soil, and establish microclimates. Fast-growing nitrogen fixers pave the way for longer-term productive species.
 
-The design should anticipate and guide natural succession rather than fight it. A [[permaculture-ethics]]: earth care, people care, and fair share. Every design decision should be evaluated against these ethics before proceeding. The process also reinforces the twelve principles, including obtaining a yield, producing no waste, and using small and slow solutions.
+The design should anticipate and guide natural succession rather than fight it. A permaculture-ethics: earth care, people care, and fair share. Every design decision should be evaluated against these ethics before proceeding. The process also reinforces the twelve principles, including obtaining a yield, producing no waste, and using small and slow solutions.
 
-Effective permaculture design is as much about listening as it is about planning. The best designs emerge from deep attention to place and a willingness to let the landscape lead.
+Effective [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] is as much about listening as it is about planning. The best designs emerge from deep attention to place and a willingness to let the landscape lead.
 ## Practical Applications
 
-Permaculture Design Process Overview has a range of practical applications that make it relevant to
+Permaculture [[hemenway-garden-design-process-observation-and-visioning]] Overview has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -97,4 +97,9 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[permaculture-design-process]]
+- [[permaculture-design]]
+- [[mollison-designers-design-methods-overview-process]]
+- [[permaculture-garden-design-process]]
+- [[permaculture-design-principles-overview]]

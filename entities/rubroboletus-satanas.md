@@ -70,7 +70,7 @@ recognize.
 - **Flesh:** Thick, firm, pale yellow in cap, yellowish in stipe; turns
   slightly bluish in the stipe base when cut, but the reaction is slow and
   weak — much less pronounced than in *S. luridus*.
-- **Spore print:** Olive-green to olive-brown.
+- **[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Olive-green to olive-brown.
 - **Spores:** 10–15 × 5–7 µm, ellipsoid to fusiform, smooth.
 - **Odor:** Distinctive and unpleasant — often described as reminiscent of
   old ham or putrid, especially in mature specimens.
@@ -132,4 +132,7 @@ recognize.
 
 ## See Also
 
-- [[mushroom-foraging-traditions-europe]]
+- mushroom-foraging-traditions-europe
+- [[ectomycorrhiza]]
+- [[suillellus-luridus]]
+- [[neoboletus-erythropus]]

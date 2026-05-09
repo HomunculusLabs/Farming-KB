@@ -8,7 +8,7 @@ sources: []
 ---
 # TM
 
-TM (4-thiomescaline; 3,5-dimethoxy-4-methylthiophenethylamine) is a psychedelic phenethylamine described in PiHKAL entry #156.
+TM (4-thiomescaline; 3,5-dimethoxy-4-methylthiophenethylamine) is a psychedelic phenethylamine described in [[2c-b-pihkal-entry-20]] #156.
 
 It is the sulfur-substituted analogue of mescaline, created by replacing the 4-position methoxy oxygen atom with sulfur.
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

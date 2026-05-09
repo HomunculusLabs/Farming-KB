@@ -1,21 +1,22 @@
 ---
-title: Direct-Seeded No-Tillage Rice and Barley
+title: Direct-Seeded No-Tillage fukuoka-rice-and-barley-natural-farming
 created: 2026-05-08
 tags: [fukuoka, natural-farming, rice, barley, no-tillage, direct-seeding, clover, clay-pellets, practical-method]
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
 # Direct-Seeded No-Tillage Rice and Barley
 
 Fukuoka's signature practical method is what he calls "direct-seeded, no-tillage,
-winter grain/rice succession in a clover cover." This system produces approximately
+[[direct-seeded-no-tillage-rice-winter-grain-succession]]/rice succession in a [[fukuoka-clover-cover-cropping-soil-ecology]]." This system produces approximately
 22 bushels (1,300 pounds) of winter grain and 22 bushels of rice per quarter-acre
 each year, on land that has not been plowed or turned in over thirty years. No
-chemical fertilizers, compost, pesticides, or other chemicals are applied.
+[[cervantes-chemical-fertilizers-guide]], compost, pesticides, or other chemicals are applied.
 
 ## The Complete Annual Cycle
 
@@ -43,7 +44,7 @@ growing. The rice is left to dry for three days, then threshed.
 After threshing, all of the rice straw is scattered uncut over the entire field.
 If chicken droppings are available, these are scattered over the straw. The straw
 mulch serves multiple purposes: it protects the soil, retains moisture, suppresses
-weeds, and as it decomposes, returns organic matter to the earth. The straw is
+weeds, and as it decomposes, returns [[hamilton-composting-and-organic-matter-management]] to the earth. The straw is
 applied half a year before the next rice crop, eliminating the need for compost
 preparation.
 
@@ -51,7 +52,7 @@ preparation.
 
 Before the New Year, Fukuoka forms clay pellets containing seed rice and scatters
 these pellets over the straw-covered field. The pellets protect the seeds from
-being eaten by birds and mice. With the winter grain growing and the rice seed
+being eaten by birds and mice. With the winter [[jeavons-grain-growing-mini-farms]] and the rice seed
 sown, there is nothing left to do until the harvesting of the winter grain. The
 labor of one or two people is more than enough to grow crops on a quarter-acre.
 
@@ -93,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

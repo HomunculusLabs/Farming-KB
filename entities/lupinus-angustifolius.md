@@ -25,7 +25,7 @@ The species is the most widely grown lupin crop globally, with Australia dominat
 
 Poland is the second-largest producer, with lupin cultivated as both a grain crop and a green manure in Central European farming systems. Chile and Ethiopia are emerging producers with expanding lupin areas.
 
-Narrow-leafed lupin is valued for its high protein seeds (30-40% protein), its ability to fix atmospheric nitrogen, and its adaptation to acidic, sandy soils unsuitable for most other grain legumes. It serves as both a human food and livestock feed ingredient.
+Narrow-leafed lupin is valued for its high protein seeds (30-40% protein), its ability to fix atmospheric nitrogen, and its adaptation to acidic, sandy soils unsuitable for most other [[query-best-grain-legumes-for-a-small-homestead]]. It serves as both a human food and livestock feed ingredient.
 
 The development of low-alkaloid (sweet) cultivars beginning in the 1960s enabled lupin to transition from a bitter, toxic forage plant to a palatable grain crop suitable for human consumption. This domestication milestone was largely achieved by Australian breeding programs.
 
@@ -39,7 +39,7 @@ The species is an erect, branching annual herb growing 40-100 cm tall. Stems are
 
 Leaves are palmately compound with 5-9 narrow lanceolate leaflets 2-6 cm long and 3-8 mm wide. The narrow leaflets distinguish *L. angustifolius* from the broader-leaved white lupin (*L. albus*).
 
-Leaf color is typically dark green with a silvery underside due to pubescence. The foliage provides good ground cover during the vegetative growth phase, suppressing weed competition.
+Leaf color is typically dark green with a silvery underside due to pubescence. The foliage provides good ground cover during the [[cannabis-vegetative-growth-stage]] phase, suppressing weed competition.
 
 Flowers are borne in terminal racemes 10-30 cm long, with blue to purple, rarely white, pea-like flowers 8-12 mm long. Flowering is indeterminate, with the lower pods maturing before upper flowers open.
 
@@ -47,7 +47,7 @@ Pods are small (2-3 cm), flattened, and hairy, containing 4-6 seeds. Seeds are s
 
 The diploid chromosome number is 2n=40. The species is predominantly self-pollinating, with natural outcrossing rates typically below 1% in commercial cultivation.
 
-This low outcrossing rate simplifies cultivar maintenance and seed production. However, it also limits the potential for conventional hybrid breeding, making mutation breeding and marker-assisted selection the primary tools for genetic improvement.
+This low outcrossing rate simplifies cultivar maintenance and [[cervantes-seed-production-storage]]. However, it also limits the potential for conventional hybrid breeding, making mutation breeding and marker-assisted selection the primary tools for genetic improvement.
 
 ## Distribution and Habitat
 
@@ -69,7 +69,7 @@ This deep rooting also improves soil structure by creating macropores that enhan
 
 ## Cultivation
 
-Narrow-leafed lupin is typically sown in autumn (April-May in Australia) at rates of 80-120 kg per hectare. Seed is sown 3-5 cm deep into moist soil, with row spacing of 18-25 cm.
+Narrow-leafed lupin is typically sown in autumn (April-May in Australia) at rates of 80-120 kg per hectare. Seed is sown 3-5 cm deep into moist soil, with [[wide-row-spacing-intensive-gardening-comparison]] of 18-25 cm.
 
 Inoculation with Bradyrhizobium lupini is essential for effective nodulation in soils where lupin has not been previously grown. The plant can fix 150-250 kg of nitrogen per hectare under favorable conditions.
 
@@ -79,7 +79,7 @@ Average grain yields range from 1.0-2.5 tonnes per hectare, with experimental yi
 
 Major diseases include anthracnose (Colletotrichum lupini), which devastated Australian lupin production in the 1990s, as well as brown leaf spot, Pleiochaeta root rot, and cucumber mosaic virus. Resistant cultivars have been bred against most major diseases.
 
-Integrated pest management approaches combine genetic resistance with fungicide seed treatments and strategic fungicide applications during flowering. Aphid control is important for managing cucumber mosaic virus transmission.
+[[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management approaches combine genetic resistance with fungicide seed treatments and strategic fungicide applications during flowering. Aphid control is important for managing cucumber mosaic virus transmission.
 
 ## Nutritional Value
 
@@ -87,7 +87,7 @@ Lupin seeds contain 30-40% protein and 10-15% oil on a dry weight basis. The pro
 
 The carbohydrate fraction is dominated by non-starch polysaccharides, primarily cellulose and hemicellulose. Lupin seeds contain very little starch (less than 1%), distinguishing them from most other grain legumes.
 
-Dietary fiber content is exceptionally high at 30-40%, making lupin an attractive ingredient for high-fiber food products. Lupin fiber has demonstrated cholesterol-lowering and glycemic response-modulating effects in human clinical trials.
+Dietary fiber content is exceptionally high at 30-40%, making lupin an attractive ingredient for high-fiber food products. Lupin fiber has demonstrated cholesterol-lowering and glycemic response-modulating effects in human [[mushroom-cancer-clinical-trials-overview]].
 
 Lupin protein isolates have functional properties comparable to soy protein, including emulsification, foaming, and gelation capacity. This makes them suitable for use in meat analogues, dairy alternatives, and protein-fortified beverages.
 

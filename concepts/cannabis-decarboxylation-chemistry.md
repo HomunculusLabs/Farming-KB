@@ -1,15 +1,15 @@
 ---
-title: Cannabis Decarboxylation Chemistry
+title: comparison-cannabis-decarboxylation-chemistry-vs-edibles-guide Chemistry
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis Decarboxylation Chemistry
 
-Decarboxylation is the chemical process by which the carboxyl group (-COOH) is removed from acidic cannabinoids, converting them into their active, psychoactive forms. This reaction is fundamental to virtually every method of cannabis consumption beyond raw juice, and understanding its chemistry is essential for anyone working with cannabis extracts, edibles, or concentrates.
+Decarboxylation is the chemical process by which the carboxyl group (-COOH) is removed from acidic cannabinoids, converting them into their active, psychoactive forms. This reaction is fundamental to virtually every method of cannabis consumption beyond [[cannabis-raw-juice-non-psychoactive]], and understanding its chemistry is essential for anyone working with cannabis extracts, edibles, or concentrates.
 
 ## The Chemistry of Decarboxylation
 
@@ -35,7 +35,7 @@ CBD decarboxylation from CBDA follows similar kinetics but occurs at slightly di
 
 Oven decarboxylation is the most common method for home practitioners. Cannabis material is spread in a thin layer on a baking sheet and placed in a preheated oven at 110-120 degrees Celsius for 30-60 minutes. The material should be stirred or flipped midway through to ensure even heating. A cover of aluminum foil can help prevent excessive terpene loss through evaporation.
 
-In the context of solvent extraction, decarboxylation often occurs during the solvent removal step. When alcohol-extracted cannabis oil is heated to evaporate the solvent, the elevated temperatures simultaneously drive decarboxylation. Ben Lemon's Cannabis Alchemy notes that heating oil-bearing material to approximately 220 degrees Fahrenheit (about 104 degrees Celsius) will remove all traces of solvent, and this same heat exposure begins the decarboxylation process. Higher temperatures during subsequent processing steps complete the conversion.
+In the context of solvent extraction, decarboxylation often occurs during the solvent removal step. When alcohol-extracted [[cervantes-hash-cannabis-oil-production]] is heated to evaporate the solvent, the elevated temperatures simultaneously drive decarboxylation. Ben Lemon's [[lemon-cannabis-alchemy-advanced-refinement-techniques]] notes that heating oil-bearing material to approximately 220 degrees Fahrenheit (about 104 degrees Celsius) will remove all traces of solvent, and this same heat exposure begins the decarboxylation process. Higher temperatures during subsequent processing steps complete the conversion.
 
 For extract processors, decarboxylation can be performed on the crude extract prior to further refinement. The oil is dissolved in a solvent and refluxed, or simply heated in an oil bath under controlled conditions. This approach allows precise temperature control and uniform heating of the extract.
 
@@ -45,7 +45,7 @@ The curing process itself is a slow, natural form of decarboxylation. Over weeks
 
 In [[cannabis-terpene-entourage-effect-profiles]], suggests that terpenes play an important role in modulating the effects of cannabinoids. Therefore, decarboxylation methods that minimize terpene loss may produce qualitatively different effects than methods that sacrifice terpenes for speed.
 
-Vacuum-assisted decarboxylation can lower the boiling points of both solvents and terpenes while still providing sufficient thermal energy for decarboxylation. This approach allows the processor to operate at lower absolute temperatures, preserving more volatile compounds.
+Vacuum-assisted decarboxylation can lower the boiling points of both solvents and terpenes while still providing sufficient [[phase-change-materials-thermal-energy-storage]] for decarboxylation. This approach allows the processor to operate at lower absolute temperatures, preserving more [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]].
 
 ## Related
 
@@ -59,6 +59,7 @@ Vacuum-assisted decarboxylation can lower the boiling points of both solvents an
 ## Common Mistakes in Decarboxylation
 
 One of the most common errors in decarboxylation is using temperatures that are too high for too long, which accelerates the conversion of THC to CBN. While CBN has some therapeutic properties (discussed in [[cannabis-potency-enhanced-flowers]]
+
 ## Practical Considerations
 
 Successful implementation of Cannabis Decarboxylation Chemistry requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

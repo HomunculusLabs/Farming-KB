@@ -24,7 +24,7 @@ Stinkhorn fungi and related gasteromycetes represent some of the most visually
 striking and biologically ingenious organisms in Kingdom Fungi. Members of the
 [[phallus-impudicus]]: The Shameless Penis
 
-The common stinkhorn, *Phallus impudicus*, has been impossible to ignore
+The common stinkhorn, *[[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]*, has been impossible to ignore
 throughout human history. Pliny the Elder featured it in his thirty-seven-volume
 *Natural History* in the first century A.D. John Gerard pictured it in his
 seventeenth-century herbal with the description "Fungus virilis penis arecti
@@ -41,7 +41,7 @@ ranging from scientific fascination to Victorian outrage.
 The transformation from egg to stinking horn is a slow erection that begins in
 the cool of night and completes by sunrise. Inside the unhatched egg, a hollow
 shaft of white spongy material called the **receptacle** runs through its
-center, surrounded by the green-black spore mass called the **gleba**, cased in
+center, surrounded by the green-black [[growing-gourmet-spore-mass-inoculation-techniques]] called the **gleba**, cased in
 clear jelly veiled with white skin.
 
 When the egg hatches, the receptacle expands by absorbing water and ruptures

@@ -51,7 +51,7 @@ regions during the warmer months.
 
 In Asia, the mushroom is particularly abundant in China, Japan, Korea, and Southeast
 Asia, where it occurs naturally on a wide variety of hardwood substrates. Its broad
-distribution reflects its adaptability to different climate zones and host tree species.
+distribution reflects its adaptability to different [[mollison-climate-zones-permaculture-strategies]] and host tree species.
 
 ## Natural Habitat
 
@@ -69,13 +69,13 @@ host trees include oak, elm, and various fruit trees.
 
 auricularia polytricha is widely regarded as one of the easiest mushrooms to
 cultivate, making it an excellent choice for beginning growers and large-scale
-commercial operations alike. It grows readily on pasteurized straw, sawdust, and
-various agricultural waste materials.
+commercial operations alike. It grows readily on [[oyster-mushroom-pasteurized-straw-cultivation]], sawdust, and
+various [[fungi-in-composting-and-agricultural-waste-conversion]] materials.
 
-Traditional log cultivation methods remain common, particularly in rural areas of
+Traditional [[comparison-mushroom-log-cultivation-vs-monotub-cultivation]] methods remain common, particularly in rural areas of
 Asia, where hardwood logs are inoculated and left in shaded, humid environments to
 fruit naturally over multiple seasons. Modern methods include bottle culture, bag
-culture, and tray culture on supplemented sawdust substrates.
+culture, and tray culture on [[oyster-mushroom-supplemented-sawdust-blocks]] substrates.
 
 The species has been cultivated in China for centuries, and Chinese growers have
 developed highly efficient production methods that yield consistent results. Indoor
@@ -111,7 +111,7 @@ mushroom can be added directly to soups or stir-fried with vegetables and meats.
 
 ## References
 
-1. Stamets, P. *Growing Gourmet and Medicinal Mushrooms*. 3rd edition.
+1. Stamets, P. *Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]*. 3rd edition.
 2. Source document: unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 
 ## See Also

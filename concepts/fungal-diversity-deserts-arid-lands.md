@@ -1,16 +1,13 @@
 ---
-title: Fungal Diversity in Deserts and Arid Lands
+title: arbuscular-mycorrhizal-fungal-diversity-patterns-distribution in Deserts and mollison-arid-lands-aquatic-species
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources: []
 ---
-# Fungal Diversity in Deserts and Arid Lands
-
-Desert and arid land fungi represent remarkable adaptations to extreme conditions including intense desiccation, high UV radiation, temperature extremes, and nutrient scarcity. These environments harbor specialized fungal communities often overlooked in biodiversity surveys.
-
-[[fungal-biodiversity]] [[fungal-conservation-endangered-species]] [[rock-penetrating-fungi]] [[rock-penetrating-fungi]] [[xerophilic-xerotolerant-fungi]] [[fungal-adaptations-environmental-gradients]] [[endophytic-fungal-diversity]] [[fungal-biodiversity]] [[fungal-biodiversity-soil-seasonal]] [[fungal-endemism-and-biogeography]] [[fungal-sampling-methods]] [[fungal-spore-dispersal-animals-wind]]
+# Fungal Diversity in Deserts and Arid Lands Desert and arid land fungi represent remarkable adaptations to extreme conditions including intense desiccation, high UV radiation, temperature extremes, and nutrient scarcity. These environments harbor specialized fungal communities often overlooked in biodiversity surveys. [[fungal-biodiversity]] [[fungal-conservation-endangered-species]] [[rock-penetrating-fungi]] [[rock-penetrating-fungi]] [[xerophilic-xerotolerant-fungi]] [[fungal-adaptations-environmental-gradients]] [[endophytic-fungal-diversity]] [[fungal-biodiversity]] [[fungal-biodiversity-soil-seasonal]] [[fungal-endemism-and-biogeography]] [[fungal-sampling-methods]] fungal-spore-dispersal-animals-wind
 - [[african-truffle-species]]
 ## Background and Context
 
@@ -140,4 +137,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

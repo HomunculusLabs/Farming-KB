@@ -9,7 +9,7 @@ sources: [raw/papers/arthur-j-mushrooms-and-mankind.md]
 
 # Mithraism and Entheogenic Origins
 
-Mithraism — the mystery religion centered on the god Mithra that flourished throughout the Roman Empire from the 1st to 4th centuries CE — is frequently cited in ethnomycology-as-discipline|ethnomycological literature as a crucial bridge between earlier pagan entheogenic traditions and the development of Christianity. In "Mushrooms and Mankind," [[amanita-muscaria-chemistry-and-pharmacology]] consumption, and that Christianity borrowed extensively from Mithraic doctrine while systematically suppressing the entheogenic knowledge that underpinned both traditions.
+Mithraism — the mystery religion centered on the god Mithra that flourished throughout the Roman Empire from the 1st to 4th centuries CE — is frequently cited in ethnomycology-as-discipline|ethnomycological literature as a crucial bridge between earlier pagan entheogenic traditions and the development of Christianity. In "[[arthur-mushrooms-and-mankind-ethnomycology-and-religion]]," [[amanita-muscaria-chemistry-and-pharmacology]] consumption, and that Christianity borrowed extensively from Mithraic doctrine while systematically suppressing the entheogenic knowledge that underpinned both traditions.
 
 ## The Mithraic Mysteries
 
@@ -23,7 +23,7 @@ The central myth of Mithraism depicted the god Mithra slaying a bull (the tauroc
 
 Mithra was identified with Sol Invictus (the "Unconquered Sun"), a title that connects him to a vast solar mythology spanning Egypt (Ra), Persia (Mithra), India (Surya), and Rome (Sol Invictus). The birth of Mithra was celebrated on December 25th — the winter solstice — coinciding with the Roman festival of Dies Natalis Solis Invicti. This date was later adopted as the celebration of Jesus's birth, one of many borrowings that entheogenic scholars point to as evidence of a continuous tradition.
 
-The winter solstice symbolism connects directly to mushroom natural history: December is the prime fruiting season for Amanita muscaria in the Northern Hemisphere, particularly under coniferous trees in Siberia and northern Europe. The "death" of the sun at the solstice — its apparent cessation of movement for three days before reversing direction — mirrors the mushroom's need to be dried (killed) before consumption, and the three-day death-and-resurrection pattern found in the Osiris, Dionysus, and Jesus myths.
+The winter solstice symbolism connects directly to [[gourmet-mushroom-natural-culture]] history: December is the prime fruiting season for [[allegro-amanita-muscaria-properties-and-pharmacology]] in the Northern Hemisphere, particularly under coniferous trees in Siberia and northern Europe. The "death" of the sun at the solstice — its apparent cessation of movement for three days before reversing direction — mirrors the mushroom's need to be dried (killed) before consumption, and the three-day death-and-resurrection pattern found in the Osiris, Dionysus, and Jesus myths.
 
 ## Parallels Between Mithraism and Christianity
 
@@ -41,7 +41,7 @@ The entheogenic interpretation of Mithraism exists alongside several mainstream 
 
 The entheogenic reading, while not accepted in mainstream academia, draws on genuine features of Mithraic practice — the emphasis on secrecy, the initiatory structure, the sacramental meal, and the subterranean temples — that are consistent with entheogenic ritual use across cultures. Proponents argue that the astronomical and political interpretations are not mutually exclusive with the entheogenic one, as sky-knowledge and plant-knowledge were typically intertwined in ancient mystery traditions.
 
-The connection between Mithraism and early Christianity remains one of the most debated topics in religious studies. While mainstream scholars acknowledge genuine parallels — the December 25th birth date, the sacramental meal, the moral emphasis on brotherhood — they attribute these to common cultural borrowing rather than shared entheogenic origins. The [[christmas-mushroom-symbolism]]
+The connection between Mithraism and early Christianity remains one of the most debated topics in religious studies. While mainstream scholars acknowledge genuine parallels — the December 25th birth date, the sacramental meal, the moral emphasis on brotherhood — they attribute these to common cultural borrowing rather than shared entheogenic origins. The 
 - [[ethnomycology-as-discipline]]
 - [[allegro-christianity-as-a-fertility-cult]]
 - [[soma-and-the-sacred-mushroom-debate]]
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

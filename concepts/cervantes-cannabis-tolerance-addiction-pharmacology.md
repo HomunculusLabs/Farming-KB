@@ -1,5 +1,5 @@
 ---
-title: Cannabis Tolerance and Addiction Pharmacology
+title: cervantes cannabis tolerance addiction pharmacology and Addiction Pharmacology
 created: 2026-04-28
 tags:
   - cannabis-pharmacology
@@ -9,13 +9,14 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 synonyms:
   - cannabis dependence
   - partial agonist
   - endocannabinoid deficiency
   - THC tolerance
-  - cannabis addiction myth
+  - [[blesching-cannabis-addiction-dependence]] myth
 type: concept
 ---
 
@@ -34,7 +35,7 @@ is a 'partial agonist.'"
 Agonists are compounds that stimulate receptors. Full agonists completely
 activate receptors, while partial agonists can only partially activate
 them. THC's status as a partial agonist at the CB1 receptor is central to
-its favorable safety profile:
+its favorable [[cannabis-safety-profile-and-overdose-risk]]:
 
 - **Partial activation** means THC cannot overstimulate the endocannabinoid
   system the way full agonists (like synthetic cannabinoids) can
@@ -104,19 +105,21 @@ activation.
 ## Therapeutic Implications
 
 The pharmacology suggests cannabis is best used as a whole-plant medicine
-rather than isolated cannabinoids. The entourage effect of multiple
+rather than isolated cannabinoids. The [[cannabis-terpene-entourage-effect-profiles]] of multiple
 cannabinoids, terpenoids, and other compounds working together provides:
 
 - Cumulative or synergistic therapeutic activity
 - Mitigation of side effects from predominant active ingredients
 - Gentle, multi-pathway modulation toward homeostasis
-- Lower risk of tolerance, dependence, and adverse effects
+- Lower risk of tolerance, dependence, and [[blesching-cannabis-safety-adverse-effects-evidence]]
 
 ## Tolerance Reversal and Clinical Withdrawal
 
 While cannabis dependence is uncommon relative to other substances, clinical recognition of Cannabis Use Disorder (CUD) acknowledges that heavy, prolonged use can produce tolerance and a mild withdrawal syndrome. Symptoms include irritability, sleep disturbance, decreased appetite, and physical discomfort peaking within the first week after cessation and typically resolving within 2-4 weeks. Unlike opioid or alcohol withdrawal, cannabis withdrawal is not life-threatening. Research by Budney et al. (2004) demonstrated that oral THC administration effectively reduces withdrawal severity in clinical settings, supporting the partial agonist model: exogenous THC can temporarily bridge the gap while CB1 receptor density normalizes after chronic downregulation. Notably, CB1 receptor downregulation from chronic cannabis use is reversible — receptor density typically returns to baseline within 4-8 weeks of abstinence, consistent with the homeostatic rather than degenerative nature of endocannabinoid adaptation.
 
 ## See Also
+
+- [[cervantes-medical-marijuana-pharmacology]]
 
 - [[cervantes-cannabinoids-thc-cbd-chemistry]]
 - [[cannabis-endocannabinoid-system]]

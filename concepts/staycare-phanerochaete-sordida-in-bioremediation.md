@@ -1,5 +1,5 @@
 ---
-title: "Phanerochaete sordida in Bioremediation"
+title: "staycare phanerochaete sordida in bioremediation in Bioremediation"
 created: 2026-04-28
 tags: [mycoremediation, white-rot-fungi, pentachlorophenol, creosote, field-studies]
 date: 2026-04-28
@@ -10,12 +10,12 @@ type: concept
 
 # Phanerochaete sordida in Bioremediation
 
-P. sordida is a white rot basidiomycete fungus that has
+P. sordida is a [[comparison-brown-rot-vs-white-rot-bioremediation]] basidiomycete fungus that has
 demonstrated exceptional capabilities as a bioremediation agent,
 particularly in field-scale applications for the treatment of wood
-preservative contaminated soils. While [[fungal-bioremediation]] Field Studies,
-Chlorophenol Degradation Pathways White Rot Fungi,
-and Fungal Degradation of Polycyclic Aromatic Hydrocarbons.
+preservative contaminated soils. While fungal-bioremediation Field Studies,
+Chlorophenol Degradation Pathways White [[brown-rot-fungi-cellulose-degradation-wood-decay]],
+and [[singh-fungal-degradation-endocrine-disrupting-compounds]] of [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] Hydrocarbons.
 
 ## See Also
 
@@ -98,4 +98,5 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+- [[white-rot-fungi]]
+- [[mycoremediation]]

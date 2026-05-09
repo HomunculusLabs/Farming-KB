@@ -1,5 +1,5 @@
 ---
-title: "Light Straw Clay vs Hempcrete"
+title: "comparison light straw clay vs hempcrete Clay vs Hempcrete"
 tags: [comparison, natural-building, light-straw-clay, hempcrete, insulation]
 date: 2026-04-28
 updated: 2026-04-28
@@ -12,7 +12,7 @@ created: 2026-04-28
 
 Light straw clay (also called slip straw, light clay straw, or
 Leichtlehm) and hempcrete are both natural, bio-based wall
-infill materials designed to insulate timber frame and other
+infill materials designed to insulate [[comparison-bamboo-construction-vs-timber-frame-basics]] and other
 structural systems. Both replace conventional fiberglass or foam
 insulation with plant fiber composites that are breathable,
 carbon-sequestering, and non-toxic. However, their composition,
@@ -103,7 +103,7 @@ budgets.
 Hempcrete is significantly more expensive. Hemp hurd costs
 $0.50-$2.00 per pound depending on source and shipping distance,
 and lime binders add $15-$30 per bag. Total material costs run
-20-40% higher than straw bale and substantially more than light
+20-40% higher than [[comparison-cob-construction-vs-straw-bale-construction]] and substantially more than light
 straw clay. Hemp processing infrastructure is also less developed
 in many regions, limiting availability and increasing shipping
 costs. See [[comparison-hempcrete-vs-straw-bale-construction]]

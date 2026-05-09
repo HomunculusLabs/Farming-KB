@@ -1,5 +1,5 @@
 ---
-title: "What Are the Best Grain Legumes for a Small Homestead"
+title: "What Are the query best grain legumes for a small homestead Legumes for a Small Homestead"
 subtitle: Choosing pulse crops for self-sufficiency, soil health, and dietary diversity on small-scale farms
 tags:
   - grain-legumes
@@ -24,7 +24,7 @@ created: 2026-05-03
 ---
 # What Are the Best Grain Legumes for a Small Homestead?
 
-grain legumes and pulse crops (pulses) are essential crops for any small homestead. They provide homegrown protein, fix atmospheric nitrogen for your garden, improve [[drought-tolerant-planting-design]]; kabuli types (large, cream seeds) have higher yields and are easier to process.
+grain grain legumes and pulse crops crops (pulses) are essential crops for any small homestead. They provide homegrown protein, fix atmospheric nitrogen for your garden, improve [[drought-tolerant-planting-design]]; kabuli types (large, cream seeds) have higher yields and are easier to process.
 
 **Growing Tips**:
 - Sow 2–3 weeks before last frost (they need cool weather to set pods; heat during flowering causes flower drop)
@@ -45,9 +45,9 @@ Dry peas are among the easiest grain legumes to grow. Their short season (80–1
 
 **Growing Tips**:
 - Sow as early as soil can be worked (4–6 weeks before last frost)
-- Inoculate with pea-specific rhizobia for best nitrogen fixation
+- Inoculate with pea-specific rhizobia for best [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
 - Provide a trellis or support for semi-leafless varieties
-- Powdery mildew is the main disease concern — ensure good air circulation and choose resistant varieties
+- [[cervantes-powdery-mildew-prevention-treatment]] is the main disease concern — ensure good [[stamets-growing-room-air-circulation-co2-management]] and choose resistant varieties
 - Harvest when pods are tan and dry; vines should be brown and brittle
 - Thresh by flailing dried plants in a tarp and winnow with a fan
 

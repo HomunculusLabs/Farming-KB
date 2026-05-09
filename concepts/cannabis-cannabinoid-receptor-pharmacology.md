@@ -1,16 +1,16 @@
 ---
-title: Cannabis Cannabinoid Receptor Pharmacology (CB1 and CB2)
+title: Cannabis cannabis cannabinoid receptor pharmacology Pharmacology (CB1 and CB2)
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis Cannabinoid Receptor Pharmacology (CB1 and CB2)
 
 The [[cervantes-viral-diseases-cannabis]]
-- Protection against inflammatory and oxidative stress
+- Protection against inflammatory and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
 - Tissue repair and wound healing
 - Cancer-fighting properties (apoptosis induction in tumor cells)
 
@@ -27,9 +27,9 @@ The [[cervantes-viral-diseases-cannabis]]
 CB2 activation offers therapeutic benefits without the psychoactive effects associated with CB1. This is particularly relevant for:
 
 - Anti-inflammatory applications
-- Autoimmune conditions
+- [[cannabis-autoimmune-conditions-detailed]]
 - Neuroprotection (CB2 activation slows neurodegeneration)
-- Pain management in chronic inflammatory conditions
+- [[cannabis-pain-management-protocols]] in chronic inflammatory conditions
 - Gastrointestinal disorders
 
 ## THC:CBD Ratios and Receptor Engagement
@@ -47,7 +47,7 @@ This explains why sativas tend to produce more cerebral, stimulating effects (CB
 ## Receptor Distribution in Specific Conditions
 
 ### Pain Management
-- CB1: Central pain processing (brain, spinal cord)
+- CB1: Central pain processing (brain, [[blesching-cannabis-spinal-cord-injuries]])
 - CB2: Peripheral inflammatory pain (immune-mediated)
 
 ### Neurodegenerative Diseases
@@ -70,7 +70,7 @@ This explains why sativas tend to produce more cerebral, stimulating effects (CB
 
 ## Key Insight
 
-The dual-receptor system allows cannabis to address both central nervous system conditions (via CB1) and peripheral/immune conditions (via CB2), with strain selection and THC:CBD ratios determining the therapeutic focus.
+The dual-receptor system allows cannabis to address both central nervous system conditions (via CB1) and peripheral/immune conditions (via CB2), with [[blesching-cannabis-strain-selection-receptor-targeting]] and THC:CBD ratios determining the therapeutic focus.
 - [[cannabis-terpene-entourage-effect-profiles]]
 
 ## See Also

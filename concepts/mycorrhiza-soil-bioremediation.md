@@ -11,7 +11,7 @@ sources: []
 
 Rhizoremediation — the use of plant root systems to facilitate degradation of
 soil contaminants — offers a low-cost, ecologically acceptable approach to
-treating polluted land. Mycorrhizal fungi extend the capabilities of
+treating polluted land. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] extend the capabilities of
 rhizoremediation by expanding root surface area, producing extracellular
 degradative enzymes, conferring pollutant resistance, and supporting
 diverse microbial consortia in the mycorrhizosphere. Three mycorrhizal types
@@ -20,8 +20,8 @@ arbuscular mycorrhizas (AM).
 
 ## Rhizosphere Remediation: Benefits and Limitations
 
-Enhanced pollutant degradation in the rhizosphere results from stimulated
-microbial activity due to root carbon flow, plant secondary metabolites that
+[[staycare-fungal-consortia-for-enhanced-pollutant-removal]] degradation in the rhizosphere results from stimulated
+microbial activity due to root carbon flow, plant [[antifungal-secondary-metabolites-coprophilous-fungi]] that
 select for degradative microorganisms, accelerated plasmid transfer, and
 altered pollutant partitioning from the transpiration stream. However,
 rhizoremediation faces three fundamental constraints: the pollutant must be
@@ -52,7 +52,7 @@ EcM fungi produce a suite of persistent organic pollutant (POP)-degrading
 enzymes including laccases, tyrosinases, catechol oxidases, manganese
 peroxidases, and lignin peroxidases. Critically, these enzymes are
 non-specific with respect to aromatic ring transformation, enabling
-degradation of PCBs, PAHs, chlorinated phenols, nitrotoluenes, and
+[[fungal-degradation-of-pcbs-by-white-rot-fungi]], PAHs, chlorinated phenols, nitrotoluenes, and
 pesticides. POP-degrading activities are expressed constitutively — all EcM
 fungal isolates tested have come from unpolluted soils, requiring no
 selection for degradative ability.
@@ -120,12 +120,12 @@ fungi from arsenic mine spoils further enhanced arsenate resistance in the
 already-resistant grass *Holcus lanatus*. AM fungi from the metal violet
 (*Viola calaminaria*) significantly enhanced growth of maize, barley, lupin,
 and medic on contaminated soil compared to standard AMF inocula. By
-stimulating host plant growth on contaminated sites, AM fungi improve the
+stimulating host plant growth on contaminated sites, AM [[query-how-do-fungi-improve-soil-structure]] the
 conditions necessary for rhizosphere remediation.
 
 ## See Also
 
 - [[staycare-cyanide-biodegradation-by-fungi]]
 - [[mycorrhizal-pah-tnt-degradation]]
-- [[fungal-petroleum-hydrocarbon-degradation-mechanisms]]
+- fungal-petroleum-hydrocarbon-degradation-mechanisms
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

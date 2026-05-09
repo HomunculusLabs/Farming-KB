@@ -71,7 +71,7 @@ DOI produces effects similar in character to DOB but with the iodine atom's cont
 
 ### Research Utility
 
-DOI has found particular use as a pharmacological research tool. It is one of the most selective 5-HT2A receptor agonists available and is widely used in laboratory research to study the 5-HT2A receptor system. Its receptor selectivity makes it valuable for understanding the mechanisms of psychedelic action.
+DOI has found particular use as a pharmacological research tool. It is one of the most selective 5-HT2A [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] available and is widely used in laboratory research to study the 5-HT2A receptor system. Its receptor selectivity makes it valuable for understanding the mechanisms of psychedelic action.
 
 ## DOB vs. DOI Comparison
 

@@ -1,5 +1,5 @@
 ---
-title: Halotolerant and Halophilic Fungi
+title: Halotolerant and halotolerant-halophilic-fungi-saline-environments
 created: 2026-04-26
 tags:
   - halophilic
@@ -61,13 +61,13 @@ hypersaline environments. Hortaea werneckii, Phaeotheca
 triangularis, and [[mycorrhizal-fungi]] that tolerate salinity could
 be important for maintaining plant productivity in salt-affected
 agricultural areas. The interactions between salinity, soil
-fungal communities, and plant health represent an important but
+[[biodiversity-of-fungi-soil-fungal-communities-agriculture]], and plant health represent an important but
 understudied area of research.
 
 ## Research Gaps
 
 Many saline environments remain unsampled for fungi, and the
-physiological mechanisms of salt tolerance are incompletely
+[[brassinosteroid-physiological-mechanisms-cell-elongation-division]] of [[fungal-salt-tolerance-and-ion-homeostasis]] are incompletely
 understood for most species. The distinction between halophilic
 and halotolerant strategies, and the evolutionary origins of
 salt adaptation in fungi, require further investigation. The
@@ -76,6 +76,8 @@ has opened new avenues for understanding eukaryotic adaptation
 to extreme salinity.
 
 ## See Also
+
+- [[halotolerant-halophilic-fungi-saline-environments]]
 
 - [[marine-estuarine-fungi]]
 - [[xerophilic-xerotolerant-fungi]]

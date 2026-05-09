@@ -1,5 +1,5 @@
 ---
-title: Panaeolus subbalteatus
+title: gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history
 created: 2026-04-28
 type: species
 tags: [psilocybin-mushroom, coprophilous, entheogen, pasture-mushroom, panaeolina]
@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/field-guide-to-the-psilocybin-mushroom.md
 
 # Panaeolus subbalteatus
 
-**Panaeolus subbalteatus** (syn. **Panaeolina subbalteata**, also known as **Panaeolus cinctulus** following modern taxonomic revision) is a widely distributed psilocybin-containing mushroom. It is one of the most commonly encountered psychoactive species in temperate regions, often found in lawns, compost piles, and pastures. It was one of three species featured in F.C. Ghouled's 1972 *Field Guide to the Psilocybin Mushroom* alongside *Psilocybe cubensis* and *Psilocybe caerulescens*.
+**Panaeolus subbalteatus** (syn. **Panaeolina subbalteata**, also known as **Panaeolus cinctulus** following modern taxonomic revision) is a widely distributed psilocybin-containing mushroom. It is one of the most commonly encountered psychoactive species in temperate regions, often found in lawns, compost piles, and pastures. It was one of three species featured in F.C. Ghouled's 1972 *[[ghouled-field-guide-historical-context]] to the [[emcdda-psilocybin-mushroom-dose-and-effects]]* alongside *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* and *Psilocybe caerulescens*.
 
 ## Taxonomy and Classification
 
@@ -31,7 +31,7 @@ The taxonomic history of this species is complex. Many field guides and mycologi
 
 ## Chemical Composition
 
-*P. subbalteatus* contains **psilocybin** and **psilocin**, though at lower concentrations than *Psilocybe cubensis* or *Psilocybe cyanescens*. Reported alkaloid content ranges from 0.05% to 0.3% psilocybin in dried material, making it a **mildly active** species. Potency varies considerably by geographic population and growing conditions. Baeocystin has also been detected.
+*P. subbalteatus* contains **psilocybin** and **psilocin**, though at lower concentrations than *Psilocybe cubensis* or *[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]*. Reported alkaloid content ranges from 0.05% to 0.3% psilocybin in dried material, making it a **mildly active** species. Potency varies considerably by geographic population and growing conditions. Baeocystin has also been detected.
 
 The lack of prominent blue bruising can make identification challenging; the species does not oxidize psilocin as visibly as *Psilocybe* species, which is partly attributable to lower psilocin concentrations.
 
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,3 +106,7 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[panaeolus-castaneifolius]]
+- [[panaeolus-retirugis]]

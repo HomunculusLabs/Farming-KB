@@ -1,4 +1,13 @@
-# Darwin's  Experiments
+---
+title: "Darwin's Phototropism Experiments"
+created: 2026-05-02
+updated: 2026-05-08
+type: concept
+tags: [plant-biology, phototropism, history-of-science, darwin]
+sources: []
+---
+
+# Darwin's Phototropism Experiments
 
 ## Overview
 
@@ -32,11 +41,11 @@ The pattern was clear: if the tip could "see" the light, the plant bent. If the 
 
 ## The Tip vs. Bending Region
 
-These five conditions led Darwin to a crucial distinction: the site of light perception and the site of the bending response are physically separated.
+These five conditions led Darwin to a crucial distinction: the site of [[plant-vision-and-light-perception-mechanisms]] and the site of the bending response are physically separated.
 
 The tip of the seedling acts as the sensory organ — [[julius-von-sachs-blue-light-phototropism-discovery]] and Blue Light
 
-Darwin's experiments built upon earlier work by the German botanist Julius von Sachs.
+Darwin's experiments built upon earlier work by the German botanist [[chamovitz-julius-von-sachs-blue-light-phototropism]] Sachs.
 
 In 1864, Sachs made an important discovery that complemented Darwin's findings: he determined that blue light is the primary wavelength responsible for inducing phototropic bending.
 
@@ -74,11 +83,37 @@ Third, the work bridges Darwin's evolutionary framework with the emerging field 
 
 Finally, these experiments continue to resonate in contemporary plant science. Modern research has identified the specific photoreceptors involved — the phototropins — and has shown that the basic logic Darwin uncovered remains the foundation of our understanding of how plants navigate their light environment.
 
+## Modern Reinterpretation
+
+Darwin's observation of a transmitted "influence" from tip to bending
+region anticipated the discovery of auxin by six decades. Modern
+molecular biology has identified the specific photoreceptors involved —
+phototropins (phot1 and phot2) — which are blue-light-activated
+serine/threonine kinases localized in the coleoptile tip.
+
+The [[fungal-environmental-sensing-signal-transduction-read]] pathway from phototropin activation to
+differential [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] is now mapped in considerable detail.
+Blue light triggers phototropin autophosphorylation, which activates
+NPH3 and PKS proteins, leading to asymmetric redistribution of the
+auxin efflux carrier PIN3 and differential auxin accumulation on the
+shaded side of the stem.
+
+Recent work on the auxin signaling network shows that Darwin's
+"influence" is actually a gradient of indole-3-acetic acid that
+modulates gene expression through the TIR1/AFB receptor system and
+ARF transcription factors, controlling cell wall loosening enzymes
+that drive asymmetric growth.
+
+Comparative genomics has revealed that phototropin-based phototropism
+is conserved across land plants, from mosses and ferns to angiosperms,
+indicating that the basic sensory logic Darwin uncovered is an ancient
+and fundamental feature of plant biology.
+
 ## Sources
 
-- Chamovitz, Daniel. *What a Plant Knows: A Field Guide to the Senses*. Scientific American / Farrar, Straus and Giroux, 2012.
+- Chamovitz, Daniel. *What a Plant Knows: A [[ghouled-field-guide-historical-context]] to the Senses*. Scientific American / Farrar, Straus and Giroux, 2012.
 
-- Darwin, Charles, and Francis Darwin. *The Power of Movement in Plants*. John Murray, 1880.
+- Darwin, Charles, and Francis Darwin. *The [[darwin-power-of-movement-in-plants]] in Plants*. John Murray, 1880.
 
 - Sachs, Julius von. *Handbuch der Experimental-Physiologie der Pflanzen*. Wilhelm Engelmann, 1865.
 

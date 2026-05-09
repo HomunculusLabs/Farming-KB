@@ -1,5 +1,5 @@
 ---
-title: Brassinosteroids and Psilocybin Mushroom Fruiting
+title: Brassinosteroids and emcdda-psilocybin-mushroom-dose-and-effects Fruiting
 created: 2026-04-19
 updated: 2026-04-18
 type: concept
@@ -32,7 +32,7 @@ The discovery that brassinosteroids affect fungal fruiting was unexpected, since
 1. **Evolutionary conservation:** Steroid signaling pathways may be conserved across kingdoms
 2. **Receptor similarity:** Fungi may possess receptors that respond to brassinosteroids
 3. **Membrane effects:** Brassinosteroids may affect fungal cell membrane properties
-4. **Indirect effects:** The hormones may influence the substrate or microbial ecology in ways that benefit fruiting
+4. **Indirect effects:** The hormones may influence the substrate or [[fukuoka-microbial-ecology-decomposition]] in ways that benefit fruiting
 
 ## Gartz's Experimental Findings
 
@@ -40,8 +40,8 @@ The discovery that brassinosteroids affect fungal fruiting was unexpected, since
 
 Gartz's laboratory was investigating methods to improve the efficiency of [[psilocybin-mushroom-distribution-worldwide]] fruiting:
 
-1. **Temperature decrease** -- A drop in temperature triggers the transition from vegetative mycelial growth to reproductive fruiting
-2. **Humidity increase to 95-100%** -- Very high humidity is required for primordia formation and development
+1. **Temperature decrease** -- A drop in temperature triggers the transition from vegetative [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] to reproductive fruiting
+2. **Humidity increase to 95-100%** -- Very high humidity is required for [[growing-gourmet-primordia-formation-pinning]] and development
 3. **CO2 decrease via air circulation** -- Fresh air exchange reduces CO2 levels, signaling the mushroom to fruit
 4. **Light exposure** -- Light is required for normal fruiting body development and spore production
 
@@ -51,13 +51,13 @@ Brassinosteroids appear to act as an additional factor that can enhance or accel
 
 ### Dikaryotic Mycelium
 
-The vegetative phase of Psilocybe cubensis consists of dikaryotic mycelium -- mycelium containing two genetically distinct nuclei per cell. This is the "body" of the fungus that colonizes the substrate.
+The [[green-cannabis-grow-bible-vegetative-phase-management]] of [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] consists of dikaryotic mycelium -- mycelium containing two genetically distinct nuclei per cell. This is the "body" of the fungus that colonizes the substrate.
 
 ### Rhizomorphs
 
 In species such as [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] -- Full cultivation guide
 - [[stamets-psi-psilocybe-cyanescens-species-guide]] -- Rhizomorph-forming species
-- [[mushroom-strain-selection-genetics]] -- Improving cultivation results
+- mushroom-strain-selection-genetics -- Improving cultivation results
 - [[mycorrhizal-edible-mushroom-species-overview]]
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 ## Practical Considerations
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

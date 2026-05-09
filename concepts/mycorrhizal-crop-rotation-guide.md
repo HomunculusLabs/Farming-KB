@@ -3,15 +3,10 @@ title: Mycorrhizal Crop Rotation Guide
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[mycology, soil-biology, symbiosis]
+tags: [mycology, soil-biology, symbiosis]
 sources: []
 ---
-
-Updated: 2026-04-18
-
-## Overview
-
-Crop rotation is a standard agricultural practice for improving and maintaining soil quality. However, the type of crop planted can profoundly affect whether [[teaming-with-microbes-fungi]]
+Updated: 2026-04-18 ## Overview Crop rotation is a standard agricultural practice for improving and maintaining soil quality. However, the type of crop planted can profoundly affect whether [[teaming-with-microbes-fungi]]
 
 ***
 
@@ -22,7 +17,7 @@ Crop rotation is a standard agricultural practice for improving and maintaining 
 These crops benefit significantly from mycorrhizal associations:
 - **Corn** (Zea mays) — root tissues increased 35% with Funneliformis mosseae; 98% with Rhizophagus fasciculatus
 - **Flax** — strong mycorrhizal responder
-- **Legumes** (beans, peas, alfalfa, chickpea, soybean) — benefit from dual nitrogen fixation and mycorrhizal phosphorus uptake
+- **Legumes** (beans, peas, alfalfa, chickpea, soybean) — benefit from dual [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and [[comparison-phosphorus-solubilizing-microorganisms-vs-mycorrhizal-phosphorus-acquisition]] uptake
 - **Potatoes** — inoculation increased number and size of tubers by up to 50%
 
 ### Somewhat Dependent Crops
@@ -71,7 +66,7 @@ Alfalfa (a legume with nitrogen-fixing nodules) shows that inoculated plants:
 Corn is a strong mycorrhizal responder:
 - With Funneliformis mosseae: 35% increase in root tissue
 - With Rhizophagus fasciculatus: 98% increase in root tissue
-- With Rhizophagus intraradices: delayed drought wilting, better salt stress tolerance
+- With Rhizophagus intraradices: delayed drought wilting, better salt [[fungal-lichen-stress-tolerance-and-poikilohydry]]
 - Mycorrhizal hyphae bring more nitrogen to roots during drought
 
 ### Potatoes
@@ -87,7 +82,7 @@ Potatoes show particularly strong mycorrhizal responses:
 Legumes are especially valuable in mycorrhizal-friendly rotations because:
 - They form mycorrhizae AND nitrogen-fixing nodules
 - They provide both carbon (to fungi) and nitrogen (to soil)
-- Mycorrhizal colonization enhances nodulation and vice versa
+- [[arbuscular-mycorrhizal-colonization-patterns]] enhances nodulation and vice versa
 - Inoculated alfalfa, chickpea, and soybean all show significant improvements
 
 ***
@@ -103,11 +98,11 @@ Many common cover crops form strong mycorrhizal associations:
 - Oats
 - Field peas
 - Cowpeas
-- Buckwheat (NOTE: does NOT form mycorrhizae — avoid as sole cover crop for mycorrhizal maintenance)
+- Buckwheat (NOTE: does NOT form mycorrhizae — avoid as sole [[query-how-do-i-choose-the-right-cover-crop-for-my-garden]] mycorrhizal maintenance)
 
 ### Green Manures
 
-When cover crops are terminated and incorporated:
+When [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil]] terminated and incorporated:
 - Mycorrhizal root fragments remain in the soil
 - Spores from colonized roots are released
 - These serve as natural inoculum for the next crop
@@ -125,4 +120,4 @@ Year 3: Wheat (somewhat dependent) — maintains network
 Year 4: Oats with clover cover crop — maintains network
 ## See Also
 
-See also: [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]]
+See also: [[legume-nitrogen-fixation-and-green-manure]]

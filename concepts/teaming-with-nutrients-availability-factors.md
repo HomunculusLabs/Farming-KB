@@ -1,5 +1,5 @@
 ---
-title: Nutrient Availability Factors
+title: ph-and-nutrient-availability-garden-soils Factors
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -20,7 +20,7 @@ Gardeners respond with greenhouses, cloches, cold frames, and heat-retaining mul
 Soil pH (potential hydrogen) measures the concentration of hydrogen ions on a logarithmic scale of 1-10, with neutral at 7. pH profoundly influences nutrient availability:
 
 - **Below pH 6:** Phosphorus binds tightly to iron and aluminum cations, becoming fixed and unavailable
-- **Above pH 7:** Phosphorus reacts with calcium to form calcium phosphate, also becoming unavailable
+- **Above pH 7:** Phosphorus reacts with calcium to form [[bionutrients-lab-calcium-phosphate-calamansi]], also becoming unavailable
 - **Nitrogen form:** Nitrifying bacteria prefer neutral-to-alkaline conditions (producing nitrate for annuals), while fungi dominate acidic conditions (producing ammonium preferred by perennials and trees)
 - **Micronutrients:** Manganese, iron, copper, zinc, and boron become less available as pH increases; molybdenum is more available in alkaline conditions
 - **Ammonia volatilization:** When pH rises from 7 to 8, 10 percent of ammonium converts to gaseous ammonia and evaporates
@@ -33,7 +33,7 @@ Soil pH (potential hydrogen) measures the concentration of hydrogen ions on a lo
 
 ## Moisture
 
-Soil moisture levels directly influence nutrient availability and uptake. Water is the solvent that dissolves mineral nutrients and carries them into plant roots. Too little water means nutrients remain locked in soil particles despite being present; too much water displaces oxygen from pore spaces and creates anaerobic conditions that suppress nutrient cycling.
+Soil moisture levels directly influence nutrient availability and uptake. Water is the solvent that dissolves mineral nutrients and carries them into plant roots. Too little water means nutrients remain locked in soil particles despite being present; too much water displaces oxygen from pore spaces and creates anaerobic conditions that suppress [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 After heavy rains or excessive irrigation, nitrogen can be lost through leaching as nitrate (NO3-) ions move downward with water flow beyond the root zone. This is particularly problematic on sandy soils with low [[ozier-pdc-composting-and-soil-building]] is the primary mechanism by which nutrients become available to plants in organic systems. Bacteria and fungi decompose organic matter, releasing nutrients in plant-available forms. Protozoa and nematodes consume bacteria and fungi, excreting excess nutrients at the root zone where plants can absorb them.
 
@@ -50,7 +50,7 @@ Different soil types retain and release nutrients at vastly different rates:
 - **Loam soils:** A balanced mixture of sand, silt, and clay provides moderate CEC with good drainage and aeration — generally the most favorable for nutrient availability.
 - **Organic soils:** Very high CEC from humic and fulvic acids. Nutrient retention is excellent but these soils can be challenging to manage due to shrink-swell behavior and subsidence.
 
-Understanding your soil type through testing is essential for making informed decisions about [[organic-fertilizer-sources-guide]] application rates and timing. No single nutrient management program works across all soil types.
+Understanding your soil type through testing is essential for making informed decisions about [[organic-fertilizer-sources-guide]] application rates and timing. No single [[green-cannabis-grow-bible-nutrient-management-ppm]] program works across all soil types.
 
 ## Redox Potential
 
@@ -65,9 +65,9 @@ The interaction of all these factors means that simply adding fertilizer is neve
 - Test soil regularly to know baseline nutrient levels and pH
 - Maintain high organic matter to improve CEC, moisture retention, and biological activity
 - Use mulches to regulate soil temperature and moisture
-- Avoid compaction to preserve aeration and mycorrhizal networks
+- Avoid compaction to preserve aeration and [[dighton-mycorrhizal-networks-carbon-transfer]]
 - Apply nutrients in forms and at times that match plant demand cycles
-- Monitor plant symptoms as indicators of system health rather than individual nutrient deficiencies
+- Monitor plant symptoms as indicators of system health rather than individual [[hamilton-nutrient-deficiencies-and-treatment]]
 
 Source: Teaming with Nutrients (Lowenfels), Chapter 9
 ## Practical Considerations
@@ -88,4 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

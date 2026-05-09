@@ -1,5 +1,5 @@
 ---
-title: Keyline Design Water Management
+title: query-how-does-keyline-design-work-in-permaculture Water Management
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
@@ -24,7 +24,7 @@ To find the keypoint, walk up a valley from the bottom. The point where the grou
 
 ### The Keyline
 
-The **keyline** is a contour line that passes through the keypoint and extends across the adjacent ridges. It represents the natural water-spreading contour of the landscape. All cultivation, plowing, and earthworks are organized relative to this line.
+The **keyline** is a [[comparison-swale-vs-contour-line-water-management]] that passes through the keypoint and extends across the adjacent ridges. It represents the natural water-spreading contour of the landscape. All cultivation, plowing, and earthworks are organized relative to this line.
 
 ## Keyline Cultivation Pattern
 
@@ -58,7 +58,7 @@ Contour channels above the keyline distribute water from high dams outward acros
 
 Keyline design fits naturally into [[urban-permaculture-rainwater-harvesting-graywater]] needs for zone 1-3 intensive growing areas while managing broadacre zone 4-5 grazing or forestry.
 
-- **Swale integration**: On smaller properties, keyline principles inform Water Harvesting Techniques Comparison by providing the conceptual framework for where swales, diversion drains, and spillways should be placed.
+- **Swale integration**: On smaller properties, keyline principles inform Water [[water-harvesting-techniques-comparison]] Comparison by providing the conceptual framework for where swales, [[mollison-designers-diversion-drains-and-interceptor-banks]], and spillways should be placed.
 
 ## Benefits
 
@@ -82,11 +82,11 @@ Keyline design fits naturally into [[urban-permaculture-rainwater-harvesting-gra
 
 - P.A. Yeomans, "Water for Every Farm" (original keyline texts)
 - Darren J. Doherty, Keyline Design workshops and manuals
-- Abe Collins and Owen Hablutzel, Keyline soil carbon sequestration research
+- Abe Collins and Owen Hablutzel, Keyline soil [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] research
 
 ## Related
 
-- [[edge-effect-in-permaculture]]
+- edge-effect-in-permaculture
 - [[zone-and-sector-analysis]]
 
 ## Merged: Keyline Water Management Mollison
@@ -131,7 +131,7 @@ Understanding these multiple functions is essential for permaculture design. Wat
 
 Ideally, long-rotation grazing systems use 15-18 fields with 18-20 month rotation, allowing 20-30 days per field, combined with Keyline irrigation for beef and sheep production. This integration of water management with planned grazing creates drought-proof systems that maintain productive perennial pastures.
 
-The combination of strategic water placement with rotational grazing allows livestock to harvest their own forage efficiently while the water system maintains pasture productivity through dry periods. This approach eliminates the need for supplementary feeding and reduces the overall energy inputs required for livestock production.
+The combination of strategic water placement with [[comparison-rotational-grazing-vs-continuous-grazing]] allows livestock to harvest their own forage efficiently while the water system maintains pasture productivity through dry periods. This approach eliminates the need for supplementary feeding and reduces the overall energy inputs required for livestock production.
 
 ## Gravity Flow Systems
 
@@ -140,3 +140,6 @@ Gravity flow from high dams through the landscape is the most energy-efficient i
 The Keyline pattern follows the natural S-curve of valleys in foothill country, where water is guided from the keypoint (the point where the steep valley walls flatten out) along contour lines to spread water across the full width of the valley. This prevents concentration of runoff in valley floors and distributes infiltration evenly across the landscape.
 
 ## Soil Conditioning Integration
+- [[water-management]]
+- [[keyline-design]]
+- [[permaculture-design]]

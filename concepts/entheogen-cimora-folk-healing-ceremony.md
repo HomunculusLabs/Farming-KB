@@ -1,5 +1,5 @@
 ---
-title: "Cimora Folk Healing Ceremony"
+title: "entheogen cimora folk healing ceremony Healing Ceremony"
 created: 2026-04-28
 tags: [ethnobotany, entheogen, ceremony, andean, cactaceae, folk-medicine]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 # Cimora Folk Healing Ceremony
 
 Cimora is the name given to the intoxicating beverage prepared from the
-San Pedro cactus ([[ayahuasca-botany-and-preparation]].
+San [[san-pedro-cactus-history]] ([[ayahuasca-botany-and-preparation]].
 
 What distinguishes cimora from a simple San Pedro decoction is the
 frequent addition of secondary plant ingredients. Only recently have
@@ -44,7 +44,7 @@ around a fire, and the curandero may use additional techniques such
 as ritual cleansing with herbs or aromatic substances, the blowing
 of smoke over the patient, or the use of sacred objects to focus
 healing intention. The ritual framework provides a structured context
-that shapes the psychedelic experience toward therapeutic outcomes.
+that shapes the [[leary-psychedelic-experience-bardo-mapping]] toward therapeutic outcomes.
 
 An observer has described the San Pedro cactus as "the catalyst that
 activates all the complex forces at work in a folk healing session,
@@ -55,7 +55,7 @@ accessing supernatural knowledge and healing power.
 
 ## Cultural Significance
 
-The powers attributed to San Pedro in Andean folk tradition extend
+The powers attributed to San Pedro in [[susto-andean-folk-illness-category]] tradition extend
 well beyond medicine. The cactus is said to guard houses like a dog,
 possessing the ability to whistle in such unearthly fashion that
 intruders flee in terror. This belief reflects the deeply integrated
@@ -80,7 +80,7 @@ in traditional plant medicines among urban and international
 populations. The cimora ceremony stands as a living testament to the
 sophisticated ethnopharmacological knowledge of Andean peoples and
 their ability to combine multiple plant species into synergistic
-preparations for healing and divination. As with other traditional
+preparations for [[metzner-shamanic-healing-and-divination-paradigm]]. As with other traditional
 entheogenic practices, the cimora ceremony faces challenges from
 modernization and legal restrictions, yet continues to adapt and
 persist in contemporary Andean society.

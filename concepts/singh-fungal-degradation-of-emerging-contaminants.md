@@ -1,5 +1,5 @@
 ---
-title: Fungal Degradation of Emerging Contaminants
+title: singh-fungal-degradation-endocrine-disrupting-compounds of Emerging Contaminants
 created: 2026-04-28
 tags: [emerging-contaminants, pharmaceuticals, PFAS, microplastics]
 date: 2026-04-25
@@ -25,7 +25,7 @@ Singh's treatment of [[turkey-tail-trametes-versicolor]] and
   transformed by fungal [[turkey-tail-trametes-versicolor]] laccase through ether bond cleavage and
   phenoxy radical coupling reactions
 - UV filter compounds including benzophenone-3 and octocrylene undergo
-  photolytic and enzymatic transformation in fungal treatment systems
+  photolytic and enzymatic transformation in [[singh-biopile-fungal-treatment-contaminated-soil]] systems
 - Parabens and other preservatives are metabolized through fungal
   esterase activity and subsequent oxidative pathways
 - Synthetic musks including galaxolide and tonalide are transformed by
@@ -52,7 +52,7 @@ from water and soil a priority:
 ## Microplastic Degradation
 
 Microplastics (particles smaller than 5 mm) represent a growing remediation
-challenge. Fungi contribute to microplastic degradation through several
+challenge. [[query-how-do-fungi-contribute-to-carbon-sequestration]] to microplastic degradation through several
 mechanisms:
 
 - Cutinase and esterase enzymes from phytopathogenic and saprophytic fungi
@@ -83,7 +83,7 @@ carbon-fluorine bond:
   transformation
 - Defluorination activity has been reported in certain fungal cultures
   under co-metabolic conditions with primary growth substrates
-- Fungal biosorption and bioaccumulation of PFAS compounds provide a
+- [[dighton-fungal-biosorption-heavy-metal-remediation]] and bioaccumulation of PFAS compounds provide a
   physical removal mechanism applicable to water treatment
 - Integration of fungal systems with advanced oxidation processes may
   enhance overall PFAS treatment efficiency
@@ -99,7 +99,7 @@ Fungal treatment of emerging contaminants has been implemented in several
 reactor designs:
 
 - Packed-bed bioreactors with fungal biomass immobilized on porous carriers
-  for continuous-flow wastewater treatment
+  for continuous-flow [[mollison-designers-wastewater-treatment-wetlands]]
 - Fluidized-bed reactors providing enhanced mass transfer for poorly soluble
   contaminants
 - Rotating biological contactors with fungal biofilm growth on rotating
@@ -109,7 +109,7 @@ reactor designs:
 
 ## See Also
 
-- fungal laccase enzymes decolorization - Laccase enzymes central to
+- fungal [[staycare-laccase-enzymes-in-bioremediation]] decolorization - Laccase enzymes central to
   emerging contaminant transformation
 - [[singh-fungal-consortia-synergistic-biodegradation]] - Multi-species approaches
   for complex emerging contaminant mixtures

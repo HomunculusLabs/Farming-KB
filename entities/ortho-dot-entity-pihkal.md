@@ -1,5 +1,5 @@
 ---
-title: "ORTHO-DOT (4,5-DIMETHOXY-2-METHYLTHIOAMPHETAMINE) -- PIHKAL Entry #139"
+title: "ORTHO-DOT (4,5-DIMETHOXY-2-METHYLTHIOAMPHETAMINE) -- 2c-b-pihkal-entry-20 #139"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -82,13 +82,13 @@ a bp of 94-95 deg C at 0.4 mm/Hg. The product was a colorless oil that
 crystallized on standing. Its mp was 31-32 deg C.
 
 To a mixture of 15 g POCl3 and 14 g N-methylformanilide that had been
-warmed briefly on the steam bath there was added 8.2 g of
+warmed briefly on the [[scythian-cannabis-steam-bath-ritual]] there was added 8.2 g of
 
 (Additional synthesis details available in source.)
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

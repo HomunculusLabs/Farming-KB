@@ -53,7 +53,7 @@ Sample preparation significantly affects results. Fresh-frozen material
 preserves monoterpenes that would otherwise volatilize during drying.
 Cured flower shows higher proportions of sesquiterpenes relative to
 monoterpenes compared to fresh material. This complicates direct
-comparisons between fresh and cured product terpene profiles.
+comparisons between fresh and cured product [[cannabis-terpene-profiles-sativa]].
 
 ## Chemotaxonomy vs. Folk Taxonomy
 
@@ -66,7 +66,7 @@ plant architecture rather than chemical composition.
 Terpene chemotaxonomy offers an evidence-based alternative that directly
 relates chemical composition to consumer experience. However, terpene
 profiles are highly plastic, varying significantly with growing conditions,
-harvest timing, and post-harvest processing. This environmental
+[[cannabis-harvest-timing-visual-cues]], and post-harvest processing. This environmental
 sensitivity means terpene-based classification requires standardized
 production and analytical protocols to achieve reproducible categorization.
 ## See Also
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

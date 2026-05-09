@@ -1,5 +1,5 @@
 ---
-title: Drip Irrigation Guide
+title: comparison-drip-irrigation-vs-passive-irrigation Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -68,7 +68,7 @@ Discrete devices inserted into the lateral pipe at each plant location. Flow rat
 - **Non-pressure-compensating**: Flow varies with pressure. Cheaper but less accurate. Suitable for flat terrain only.
 - **Adjustable flow**: Twist to change flow rate. Useful where water needs vary between plants.
 
-Best for: widely spaced plants (tomatoes, peppers, fruit trees), container plants, irregular layouts.
+Best for: widely spaced plants (tomatoes, peppers, [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]), container plants, irregular layouts.
 
 ### Drip Tape
 
@@ -77,7 +77,7 @@ Flat polyethylene tape with built-in emitters spaced at regular intervals (typic
 - **DripLine (dripperline)**: Round pipe with pre-installed inline emitters. More durable than tape, can be buried.
 - **T-Tape**: Flat tape, thinner wall, less expensive. Single-season use (though can last 2-3 seasons with care).
 
-Best for: densely planted rows (vegetable beds, strawberries, cut flowers), raised beds.
+Best for: densely planted rows (vegetable beds, strawberries, cut flowers), [[comparison-raised-beds-vs-hugelkultur]].
 
 ### Micro-Sprinklers
 
@@ -86,7 +86,7 @@ Small spray heads that deliver water in a circular pattern (radius 1-10 feet). F
 - **Spinner type**: Rotating stream, good coverage area, lower clog risk.
 - **Spray type**: Fixed spray pattern, higher precipitation rate.
 
-Best for: ground covers, densely planted areas, orchards where canopy coverage is needed. Not ideal for foliar-disease-prone crops.
+Best for: [[permaculture-plants-food-forest-ground-covers-bamboos]], densely planted areas, orchards where canopy coverage is needed. Not ideal for foliar-disease-prone crops.
 
 ### Soaker Hoses
 
@@ -139,54 +139,6 @@ Ensure zone flow does not exceed water source capacity. For a typical residentia
 ## Fertigation
 
 Fertigation delivers soluble fertilizers through the drip system, providing nutrients directly to the root zone.
-
-### Fertigation Equipment
-
-- **Fertilizer injector**: Installs inline and draws concentrated fertilizer solution into the water stream. Venturi injectors (simple, no power needed) or diaphragm injectors (more precise).
-- **Fertilizer tank**: Holds concentrated solution. Connects to the injector.
-- **Check valve**: Prevents fertilizer from siphoning back into the water source.
-
-### Fertigation Schedule
-
-- Inject fertilizer during the last 15-20 minutes of an irrigation cycle (soil is already moist, nutrients move into root zone)
-- Frequency: weekly for heavy feeders, biweekly for moderate feeders
-- Use water-soluble organic fertilizers (fish emulsion, kelp extract, soluble seaweed)
-- Flush the system with clean water after each fertigation cycle to prevent salt buildup
-
-## Maintenance
-
-### Regular Tasks
-
-| Task | Frequency |
-|------|-----------|
-| Check emitters for clogs | Weekly during peak season |
-| Clean filter | Monthly |
-| Flush laterals | Monthly (open end caps, run water for 2 minutes) |
-| Inspect for leaks | Weekly |
-| Check pressure | Monthly |
-| Clean pump intake screen (if using pond/well) | Monthly |
-
-### Winterizing (Cold Climates)
-
-1. Shut off water supply
-2. Open all end caps and drain valves
-3. Blow out lines with compressed air (if freezing is severe)
-4. Store filters, regulators, and injectors indoors
-5. Cap or plug all exposed pipe ends to prevent debris entry
-
-### Troubleshooting Clogs
-
-- **Mineral deposits** (white crust): Soak emitters in vinegar for 30 minutes. Acid injection (phosphoric acid) can prevent future buildup.
-- **Organic slime**: Flush lines with hydrogen peroxide (3% solution). Ensure filter is functioning.
-- **Sand/silt**: Improve filtration. Install a sand media filter for well or surface water.
-
-## Watering Schedule Guidelines
-
-- **Vegetables**: 1-2 inches per week. In drip, run 30-60 minutes per zone, 2-3 times per week.
-- **Fruit trees**: 5-10 gallons per tree per week for established trees. More during fruit set.
-- **Raised beds**: Drain faster than in-ground beds; may need more frequent, shorter runs.
-- **Container plants**: May need daily watering in summer. Use 2-3 emitters per large container.
-- **Mulched gardens**: Reduce irrigation by 20-30% compared to bare soil.
 
 ## Related Topics
 

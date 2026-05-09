@@ -11,7 +11,7 @@ sources:
 
 # Rosmarinus officinalis
 
-Rosmarinus officinalis (rosemary) is a woody, perennial evergreen herb in the family Lamiaceae, native to the Mediterranean basin. One of the most recognized and widely cultivated culinary herbs in the world, rosemary has been valued for its aromatic leaves, medicinal properties, and symbolic significance for over two millennia. The species is exceptionally drought-tolerant, long-lived (individual plants can survive 30+ years), and well-suited to permaculture systems as a permanent woody element providing year-round harvest, pollinator forage, and pest deterrence. Its essential oil, dominated by 1,8-cineole, α-pinene, and camphor, has demonstrated antimicrobial, anti-inflammatory, nootropic, and antioxidant activities. Recent research on rosmarinic acid and carnosic acid has generated significant interest in rosemary as a functional food and neuroprotective agent.
+Rosmarinus officinalis (rosemary) is a woody, perennial evergreen herb in the family Lamiaceae, native to the Mediterranean basin. One of the most recognized and widely cultivated [[holzer-medicinal-and-culinary-herbs-compendium]] in the world, rosemary has been valued for its aromatic leaves, medicinal properties, and symbolic significance for over two millennia. The species is exceptionally drought-tolerant, long-lived (individual plants can survive 30+ years), and well-suited to permaculture systems as a permanent woody element providing year-round harvest, pollinator forage, and pest deterrence. Its essential oil, dominated by 1,8-cineole, α-pinene, and camphor, has demonstrated antimicrobial, anti-inflammatory, nootropic, and antioxidant activities. Recent research on rosmarinic acid and carnosic acid has generated significant interest in rosemary as a functional food and neuroprotective agent.
 
 ## Taxonomy and Naming
 - **Order:** Lamiales
@@ -36,7 +36,7 @@ Evergreen, leathery, linear to needle-like, 1.5–4.0 cm long and 2–5 mm wide.
 Flowers are borne in short, axillary or terminal racemes 2–6 cm long. Individual flowers are bilabiate, 10–14 mm long, with a tubular 5-toothed calyx and bilabiate corolla. The upper lip is hooded and two-lobed; the lower lip is three-lobed with the central lobe largest. Most common flower color is blue to violet-blue, but cultivars produce white, pink, and deep violet. Each flower has two long-exerted stamens. Blooming occurs primarily in spring (March–May) but can continue sporadically year-round in mild climates. Flowers are rich in nectar and highly attractive to bees.
 
 ### Root System
-Extensive branching root system with a deep taproot and widespread lateral roots. Established plants can develop roots extending 1–2 m deep and 2–3 m laterally, contributing to exceptional drought tolerance and soil stabilization on slopes and banks.
+Extensive branching root system with a deep taproot and widespread lateral roots. Established plants can develop roots extending 1–2 m deep and 2–3 m laterally, contributing to exceptional [[dighton-fungal-drought-tolerance-plant-water-relations]] and soil stabilization on slopes and banks.
 
 ## Distribution and Habitat
 - **Native range:** Mediterranean basin — Portugal, Spain, Italy, Greece, Turkey, Levant, and North Africa (Morocco, Algeria, Tunisia, Libya).
@@ -76,7 +76,7 @@ Rosemary has one of the richest cultural histories of any herb. In ancient Greec
 | Anti-inflammatory | Strong evidence (rosmarinic acid) | Extract, tea, topical |
 | Antioxidant | Very strong evidence (carnosic acid) | Culinary, extract |
 | Neuroprotective | Animal studies + emerging clinical | Extract, carnosic acid |
-| Hair growth promotion | Clinical evidence for androgenic alopecia | Topical rosemary oil |
+| Hair [[brassinosteroid-growth-promotion-psilocybe-cubensis]] | Clinical evidence for androgenic alopecia | Topical rosemary oil |
 | Analgesic | Moderate evidence | Topical oil, liniment |
 | Antidiabetic | Animal and some clinical evidence | Leaf extract |
 
@@ -86,8 +86,8 @@ Rosemary has one of the richest cultural histories of any herb. In ancient Greec
 - **Pruning:** Prune lightly after flowering. Can be sheared into formal hedges or topiary. Avoid cutting into old bare wood.
 - **Harvest:** Leaves year-round. Highest essential oil content just before flowering.
 - **Yield:** 1,000–3,000 kg fresh herb per hectare; 10–25 kg essential oil per hectare.
-- **Companion planting:** Excellent for tomatoes (repels hornworm), sage, thyme, lavender, and brassicas. Deters cabbage moths, bean beetles, and carrot flies.
-- **Pests:** Generally pest-resistant. Vulnerable to powdery mildew, root rot (Phytophthora), spider mites, and spittlebugs.
+- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Excellent for tomatoes (repels hornworm), sage, thyme, lavender, and brassicas. Deters cabbage moths, bean beetles, and carrot flies.
+- **Pests:** Generally pest-resistant. Vulnerable to [[cervantes-powdery-mildew-prevention-treatment]], root rot (Phytophthora), spider mites, and spittlebugs.
 - **Lifespan:** 15–30+ years; less productive after 10–15 years.
 
 ## Permaculture Functions
@@ -95,7 +95,7 @@ Rosemary has one of the richest cultural histories of any herb. In ancient Greec
 - **Pollinator support:** Early spring flowers provide critical nectar for bees emerging from winter dormancy.
 - **Pest deterrence:** Strong aromatics repel cabbage moths, carrot flies, and bean beetles.
 - **Soil stabilization:** Deep root system stabilizes slopes and banks.
-- **Windbreak and microclimate:** Dense, evergreen growth provides wind protection for tender crops as a hedge.
+- **Windbreak and microclimate:** Dense, evergreen growth provides [[cervantes-wind-protection-outdoor-cannabis]] for tender crops as a hedge.
 - **Multi-functional hedge:** Combines beauty, fragrance, food production, and pest control in a single planting.
 
 ## Major Cultivars
@@ -115,8 +115,12 @@ Rosemary has one of the richest cultural histories of any herb. In ancient Greec
 
 ## See Also
 
+- [[cornus-officinalis]]
+
+- [[fomitopsis-officinalis-entity]]
+
 - [[lavandula-angustifolia]]
 - [[thymus-vulgaris-entity]]
-- [[ocimum-sanctum]]
+- ocimum-sanctum
 - [[vitex-agnus-castus]]
 - rosmarinus officinalis entity

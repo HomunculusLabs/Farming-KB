@@ -68,7 +68,7 @@ more potent than mescaline.
 
 This extreme potency is attributed to the difuranyl ring system, which
 creates an extended planar aromatic structure with optimal geometry for
-receptor binding. The compound also shows moderate affinity for alpha-1
+[[tihkal-receptor-binding-serotonin]]. The compound also shows moderate affinity for alpha-1
 adrenergic receptors, contributing to pronounced vasoconstrictive effects
 that are a major factor in its toxicity and the severe tissue necrosis
 observed in overdose cases.
@@ -88,7 +88,7 @@ aftereffects persisting 12–48 additional hours. The total experience can
 span 2–3 days, with residual stimulation and perceptual distortions
 extending well beyond the primary effects. Subjective effects include
 intense visual hallucinations, profound cognitive alteration, time
-distortion, ego dissolution, and synesthesia.
+distortion, [[psilocybin-ego-dissolution-mechanisms]], and synesthesia.
 
 ## Harm Reduction and Toxicity
 
@@ -113,14 +113,14 @@ management of vasoconstriction and prevention of tissue necrosis.
 ## Legal Status
 
 Bromo-DragonFLY is controlled in most major jurisdictions: Schedule I
-in the United States (under the Federal Analog Act), Class A in the
+in the [[dmt-containing-plants-united-states-halpern]] (under the Federal Analog Act), Class A in the
 United Kingdom, controlled across EU member states following the 2009
 EMCDDA risk assessment, and Schedule 9 in Australia. Sweden classified it
 as a hazardous substance following multiple overdose incidents.
 
 ## See Also
 
-- fukuoka textdoc paddy ecosystem spider frog dragonfly balance
+- fukuoka [[fukuoka-textdoc-paddy-levee-construction-water-management-wisdom]] ecosystem spider frog dragonfly balance
 
 - [[dom]] — DOM (STP), the original DOx psychedelic amphetamine
 - [[5-meo-dmt-entity]] — 5-MeO-DMT, another extremely potent psychedelic

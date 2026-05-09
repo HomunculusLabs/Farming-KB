@@ -1,5 +1,5 @@
 ---
-title: Seed Selection and Variety Trials
+title: cannabis-seed-selection-and-strain-types and Variety Trials
 created: 2026-04-28
 tags:
   - seeds
@@ -16,8 +16,8 @@ type: concept
 
 # Seed Selection and Variety Trials
 
-Eliot Coleman's approach to seed selection is driven by the unique demands
-of winter harvesting in unheated greenhouses. Rather than accepting
+[[eliot-coleman]]'s approach to seed selection is driven by the unique demands
+of [[coleman-winter-harvesting-techniques]] in unheated greenhouses. Rather than accepting
 standard variety recommendations, he conducts ongoing trials to identify
 cultivars that thrive under cold, low-light conditions. His philosophy is
 that "the biology of the vegetable world offers as many solutions as does
@@ -25,7 +25,7 @@ the technology of floating covers and plastic greenhouses."
 
 ## The Winter Variety Challenge
 
-Growing vegetables through winter in an unheated greenhouse imposes
+[[container-growing-vegetables-herbs]] through winter in an unheated greenhouse imposes
 selection pressures that few seed companies have addressed. Standard
 varieties bred for summer field conditions often fail under the cold, short
 days of a Maine winter. Coleman seeks cultivars that are hardier, less
@@ -51,10 +51,10 @@ characteristics after cutting, flavor, and market appeal. His records on
 seed-to-harvest days throughout the year form the basis of a day-by-day
 planting calendar for each crop.
 
-For salad mix components, he has explored unusual cultivars such as an
+For [[coleman-baby-leaf-salad-mix-quality-standards]] components, he has explored unusual cultivars such as an
 Italian endive, 'Indivia Bianca Riccia da Taglio', which proved well
 suited to winter conditions. He also experiments with radish cultivars for
-fall planting that will hold in the ground through winter for early spring
+fall planting that will hold in the ground through winter for [[coleman-overwintered-onions-and-early-spring-crops]]
 harvest. His pursuit of hardier cultivars is paired with exploring better
 passive protection methods.
 
@@ -72,7 +72,7 @@ greenhouse cultivation, particularly for tomatoes.
 
 For crops grown under [[coleman-winter-greens-variety-selection]] — specific variety
   recommendations for winter salad crops
-- [[coleman-planting-schedules]] — timing of sowing for optimal variety
+- coleman-planting-schedules — timing of sowing for optimal variety
   performance
 - [[coleman-winter-harvest-planting-schedule]] — comprehensive planting
   calendar
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

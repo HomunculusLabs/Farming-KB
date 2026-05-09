@@ -1,9 +1,9 @@
 # Blackstrap Molasses in Compost Tea: Selection, Concentration, and Osmotic Effects
-**Source:** The Field Guide I for Actively Aerated Compost Tea (AACT) - Elaine Ingham PhD
+**Source:** The Field Guide I for Actively [[actively-aerated-compost-tea-aact-brewing]] Tea (AACT) - Elaine Ingham PhD
 
 ## Overview
 
-Blackstrap molasses is one of the most important and commonly misunderstood food resources for Actively Aerated Compost Tea (AACT). Elaine Ingham provides detailed guidance on why molasses type matters critically, how concentration affects the microbial community, and why dried cane sugar products are NOT equivalent substitutes. The key principle is that molasses concentration directly controls whether the tea grows primarily bacteria, primarily fungi, or a balanced mixture of both.
+Blackstrap molasses is one of the most important and commonly misunderstood food resources for Actively Aerated Compost Tea (AACT). Elaine Ingham provides detailed guidance on why molasses type matters critically, how concentration affects the [[edaphic-factors-microbial-community-structure]], and why dried cane sugar products are NOT equivalent substitutes. The key principle is that molasses concentration directly controls whether the tea grows primarily bacteria, primarily fungi, or a balanced mixture of both.
 
 ## Molasses Type: Why Unsulfured Blackstrap Is Essential
 
@@ -13,7 +13,7 @@ Ingham is emphatic that only unsulfured blackstrap molasses should be used in co
 
 "Sulfur is a very potent fungicide."
 
-Sulfured molasses contains sulfur dioxide, which was historically added as a preservative and clarifying agent during sugar refining. Even trace amounts of sulfur compounds in the tea can suppress or kill the beneficial fungi that are essential for disease suppression on plant surfaces. Since one of the primary goals of compost tea application is to establish a protective fungal community on plant leaves and in soil, adding a fungicide to the brew is directly counterproductive.
+Sulfured molasses contains sulfur dioxide, which was historically added as a preservative and clarifying agent during sugar refining. Even trace amounts of sulfur compounds in the tea can suppress or kill the beneficial fungi that are essential for [[aact-disease-suppression-mechanisms-ingham]] on plant surfaces. Since one of the primary goals of compost tea application is to establish a protective [[air-pollution-fungal-community-responses]] on plant leaves and in soil, adding a fungicide to the brew is directly counterproductive.
 
 ### Blackstrap vs. Other Molasses Grades
 
@@ -45,7 +45,7 @@ Ingham's typical recommendations for molasses in compost tea brewing:
 
 ### As a Sticker-Spreader for Application
 
-Ingham also recommends blackstrap molasses as a natural sticker-spreader for foliar application of compost tea:
+Ingham also recommends blackstrap molasses as a natural sticker-spreader for [[ultra-low-cost-foliar-application-methods]] of compost tea:
 
 - At concentrations above 3-5%, molasses helps organisms adhere to leaf surfaces
 - It enhances fungal growth on the leaf after application
@@ -73,7 +73,7 @@ If the tea goes anaerobic during brewing and molasses rates were high:
 
 ### Poor Fungal Growth Despite High Molasses
 
-If fungal biomass remains low even with high molasses concentrations:
+If [[bioremediation-fungal-biomass-biosorbent-material]] remains low even with high molasses concentrations:
 
 - The source compost may lack beneficial fungi — test the compost before brewing
 - The compost basket or filter may be too fine, preventing fungal hyphae from escaping into the tea

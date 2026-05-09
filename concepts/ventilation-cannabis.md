@@ -19,7 +19,7 @@ with fresh CO2-rich air, maintaining optimal growing conditions.
 
 Rapidly growing plants transpire large volumes of moisture into the air. In an enclosed
 room, humidity can reach 100 percent, which stifles [[carbon-filter-cannabis]] before leaving the room.
-The carbon filter scrubs fragrance from the air. A slightly more powerful exhaust fan
+The [[cervantes-ventilation-fan-carbon-filter-setup]] scrubs fragrance from the air. A slightly more powerful exhaust fan
 may be needed to draw adequate air through the filter, which creates resistance. The
 filter should be mounted on the intake side of the exhaust fan.
 
@@ -34,7 +34,7 @@ exceeds a threshold.
 
 Oxygen must be present along with water and nutrients for the roots to be able to
 absorb nutrients. Compacted, water-saturated soil leaves roots little or no air, and
-nutrient uptake stalls. Proper drainage and aeration of the growing medium ensure that
+[[plant-nutrient-uptake-mechanisms]] stalls. Proper drainage and aeration of the growing medium ensure that
 roots receive adequate oxygen.
 
 ## Stomata and Air Quality
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

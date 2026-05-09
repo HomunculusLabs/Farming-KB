@@ -1,5 +1,5 @@
 ---
-title: Hyphal Growth Kinetics
+title: Hyphal fungal-growth-kinetics-mass-transfer
 created: 2026-04-28
 tags:
   - mycology
@@ -19,7 +19,7 @@ type: concept
 
 Hyphal growth is the fundamental mode of vegetative expansion for filamentous
 fungi. Understanding the kinetics of [[mushroom-cultivation-basics]], predicting
-fungal behavior in [[mycoremediation-bioreactor-design]] systems. Fungi grow by hyphal
+fungal behavior in mycoremediation-bioreactor-design systems. Fungi grow by hyphal
 extension, enabling them to reach resources in soil and other environments
 in ways that single-celled organisms cannot.
 
@@ -33,7 +33,7 @@ fuse with the plasma membrane and release their contents. This localized
 growth creates the characteristic tubular morphology of fungal hyphae.
 
 The rate of hyphal extension is influenced by multiple factors including
-temperature, nutrient availability, water potential, pH, and the presence of
+temperature, [[ph-and-nutrient-availability-garden-soils]], water potential, pH, and the presence of
 inhibitory compounds. For every species there is an optimum temperature at
 which the rate of mycelial growth is maximized. As a general rule, the best
 temperature for vegetative (spawn) growth is several degrees higher than the
@@ -42,14 +42,14 @@ one most stimulatory for fruiting.
 ## Temperature Effects on Growth Rate
 
 Temperature is the major factor influencing the rate of mycelial growth.
-Studies on Psilocybe cubensis and Psilocybe mexicana have demonstrated
+Studies on [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] and [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] have demonstrated
 distinct temperature optima for hyphal extension, with growth rates declining
 sharply above and below the optimum range. Different mushroom species have
 characteristic temperature ranges:
 
 - Agaricus species typically favor 75 to 77 degrees F for spawn running
-- Lentinula edodes grows fastest at 70 to 75 degrees F
-- Pleurotus species have broad temperature tolerances for vegetative growth
+- [[staycare-lentinula-edodes-in-bioremediation]] grows fastest at 70 to 75 degrees F
+- Pleurotus species have broad temperature tolerances for [[cannabis-vegetative-growth-stage]]
 - Tropical species generally require higher incubation temperatures
 
 The temperature within a spawn jar or substrate is typically several degrees
@@ -101,4 +101,4 @@ may not be optimal for fungal growth or for activity of extracellular enzymes.
 
 During [[mycelial-networks-and-intelligence]]
 - [[mushroom-training-incubation-management]]
-- [[mushroom-environmental-parameters]]
+- mushroom-environmental-parameters

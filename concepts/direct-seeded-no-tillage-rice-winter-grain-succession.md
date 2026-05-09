@@ -34,7 +34,7 @@ maintains soil structure and moisture. Rather than fighting weeds through cultiv
 or herbicides, the system uses clover to outcompete unwanted plants.
 
 The clover is weakened but not killed by the brief flooding period in late spring,
-allowing the rice to establish dominance during the summer growing season. After the
+allowing the rice to establish dominance during the summer [[savory-growing-season-and-non-growing-season-management]]. After the
 rice harvest, the clover recovers and again dominates the field surface through the
 winter months. This natural cycling of dominance between the grain crop and the cover
 crop eliminates the need for any mechanical weed control.
@@ -47,7 +47,7 @@ through labor-intensive fermentation processes, Fukuoka simply spreads the straw
 directly onto the field surface. The straw decomposes naturally through the action
 of soil microorganisms, earthworms, and weather.
 
-This approach maintains soil organic matter, supports microbial populations, and
+This approach maintains soil [[hamilton-composting-and-organic-matter-management]], supports microbial populations, and
 provides a slow, steady release of nutrients. Fukuoka demonstrated that rice straw
 left on the ground during autumn decomposes entirely by the following spring, leaving
 no trace of pathogenic microbes. This finding contradicted the conventional
@@ -58,11 +58,11 @@ or composted to prevent disease.
 
 Fukuoka arrived at this method through three stages of experimentation spanning
 several decades. The first stage involved conventional tillage, ridging, and drilling
-of barley and wheat seed. The second stage involved light-tillage or no-tillage
+of [[ergot-of-barley-and-wheat-alkaloid-composition]] seed. The second stage involved light-tillage or no-tillage
 cultivation with narrow row seeding. The third and final stage was the fully natural
 method based on broadcasting seed and complete elimination of tillage.
 
-Early experiments with seeding width and row spacing showed that narrower seeding
+Early experiments with seeding width and [[wide-row-spacing-intensive-gardening-comparison]] showed that narrower seeding
 widths generally increased yields, but the changes were marginal. The breakthrough
 came when Fukuoka began using rice straw as a mulch cover and ladino clover as a
 living ground cover. These two innovations provided weed suppression and soil
@@ -76,7 +76,7 @@ appropriate.
 ## Energy Efficiency
 
 One of the most significant advantages of this system is its extraordinary energy
-efficiency. Natural farming requires only one man-day of labor to produce 130 pounds
+efficiency. [[comparison-natural-farming-vs-permaculture]] requires only one man-day of labor to produce 130 pounds
 of rice, or 200,000 kilocalories of food energy, per quarter-acre. The energy input
 is merely the 2,000 kilocalories needed to feed one farmer for one day, approximately
 one-tenth of a horsepower.
@@ -103,7 +103,7 @@ earthworms. The entire soil food web develops without any mechanical interventio
 ## Significance for Sustainable Agriculture
 
 This method represents one of the most thoroughly documented examples of productive
-no-tillage grain farming. It demonstrates that high yields can be achieved without
+no-tillage [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]]. It demonstrates that high yields can be achieved without
 any external inputs when natural biological processes are harnessed rather than
 replaced. The system is particularly significant because it applies to rice, the world's
 most important food crop, and shows that the labor-intensive practices of

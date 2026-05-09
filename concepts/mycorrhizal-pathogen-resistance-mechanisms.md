@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Pathogen Resistance Mechanisms
+title: Mycorrhizal mycorrhizal pathogen resistance mechanisms Mechanisms
 created: 2026-04-29
 updated: 2026-04-29
 type: concept
@@ -48,7 +48,7 @@ In addition to chemical defenses, the mantle that surrounds the root can provide
 
 ## Antimicrobial Metabolites
 
-Arbuscular mycorrhizal fungi create metabolites that include biocides, antibiotics, and pest-specific chemicals that can attack and destroy harmful organisms. These bioactive compounds represent a chemical arsenal that directly targets pathogens and pests in the soil environment.
+Arbuscular mycorrhizal fungi create metabolites that include biocides, antibiotics, and pest-specific chemicals that can attack and destroy harmful organisms. These [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] represent a chemical arsenal that directly targets pathogens and pests in the soil environment.
 
 ### Crop-Specific Evidence
 
@@ -68,13 +68,13 @@ Plants have evolved defense adaptations including the release of organic compoun
 
 ### Early Warning Systems
 
-Studies show that mycorrhizal plants may also send chemical signals throughout the extraradical mycelial network to communicate with neighboring plants and warn them of pest attacks. This early warning system allows unattacked plants to activate their defensive pathways preemptively, potentially reducing overall damage at the community level.
+Studies show that mycorrhizal plants may also send chemical signals throughout the extraradical [[gadd-mycelial-network-dynamics]] to communicate with neighboring plants and warn them of pest attacks. This early warning system allows unattacked plants to activate their defensive pathways preemptively, potentially reducing overall damage at the community level.
 
 This signaling phenomenon connects mycorrhizal function to broader concepts in [[plant-hormones-and-chemical-signaling-systems]], highlighting the integration of mycorrhizal associations with the plant's overall defense physiology.
 
 ## Interactions with Soil Biota
 
-The protective effects of mycorrhizal fungi extend beyond direct pathogen resistance. By fostering a healthy and diverse soil microbial community, mycorrhizal associations can indirectly suppress pathogen populations through the mechanisms of general soil suppressiveness. This is relevant to the broader dynamics of the [[soil-health-management]].
+The protective effects of mycorrhizal fungi extend beyond direct pathogen resistance. By fostering a healthy and diverse soil [[edaphic-factors-microbial-community-structure]], mycorrhizal associations can indirectly suppress pathogen populations through the mechanisms of general soil suppressiveness. This is relevant to the broader dynamics of the [[soil-health-management]].
 
 ## Mechanism Summary
 
@@ -89,9 +89,9 @@ The pathogen resistance mechanisms provided by mycorrhizal colonization can be s
 7. **Chemical deterrents** — metabolites that reduce nematode activity
 8. **Physical barriers** — fungal mantles shield roots from predators
 9. **Antimicrobial compounds** — biocides and antibiotics destroy harmful organisms
-10. **Interplant signaling** — chemical warnings transmitted through mycelial networks
+10. **Interplant signaling** — chemical warnings transmitted through [[fungal-mycelial-networks-nutrient-translocation]]
 
 ## Related Topics
 
-- [[endophytic-mycorrhizal-induced-systemic-resistance]] — induced systemic resistance pathways
+- [[endophytic-mycorrhizal-induced-systemic-resistance]] — [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance pathways
 - [[common-mycorrhizal-networks]] — network-mediated defense signaling

@@ -1,5 +1,5 @@
 ---
-title: Cannabis Ruderalis and Autoflowering Genetics
+title: cervantes cannabis ruderalis autoflowering and Autoflowering Genetics
 created: 2026-04-28
 tags:
   - cannabis
@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -26,7 +27,7 @@ subspecies.
 
 Cannabis ruderalis (C. sativa var. spontanea) was first brought to
 Amsterdam from Central Europe in the early 1980s by the Seed Bank to
-enhance their breeding program. Very similar, if not identical,
+enhance their [[cervantes-breeding-program-design-goal-setting]]. Very similar, if not identical,
 "ruderalis" plants grow from Minnesota north through Manitoba and
 Saskatchewan, Canada, and across Central and Eastern Europe.
 
@@ -43,7 +44,7 @@ C. ruderalis is truly ditch weed that yields a headache rather than
 a high. Key traits include:
 
 - Short stature, rarely exceeding two feet
-- Small, sparse flowers with low resin production
+- Small, sparse flowers with low [[cannabis-glandular-trichome-types-resin-production-clarke]]
 - Ruderal (weedy) growth habit adapted to disturbed habitats
 - Extremely hardy and cold-tolerant
 - Fast lifecycle from seed to maturity
@@ -52,8 +53,8 @@ a high. Key traits include:
 
 The most significant characteristic of C. ruderalis is its flowering
 behavior. Photoperiod does not induce flowering in C. ruderalis.
-Instead, it begins the flowering cycle after a few weeks of
-vegetative growth, regardless of the light schedule. This automatic
+Instead, it begins the [[cannabis-sativa-flowering-cycle-management]] after a few weeks of
+[[cannabis-vegetative-growth-stage]], regardless of the [[query-best-light-schedule-for-cannabis]]. This automatic
 flowering response is triggered by plant maturity rather than day
 length, making it fundamentally different from photoperiod-dependent
 C. sativa and C. indica.
@@ -91,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

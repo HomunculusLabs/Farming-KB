@@ -1,5 +1,5 @@
 ---
-title: "Amanita virosa"
+title: "bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course"
 created: 2026-04-28
 updated: 2026-04-28
 type: species
@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-Amanita virosa Bertill. ex Secretan, commonly known as the destroying angel, is one of the most deadly poisonous mushrooms in the world. It belongs to the Amanitaceae family within the order Agaricales.
+Amanita virosa Bertill. ex Secretan, commonly known as the destroying angel, is one of the most deadly [[palmer-poisonous-mushrooms-deadly-species]] in the world. It belongs to the Amanitaceae family within the order Agaricales.
 
 The species contains lethal concentrations of amatoxins, primarily α-amanitin, which inhibit RNA polymerase II and cause irreversible hepatorenal failure. Ingestion of a single mature cap can be fatal to an adult.
 
@@ -42,7 +42,7 @@ The stipe is 8–18 cm long, 1–2.5 cm thick, white, hollow, and surmounted by 
 
 The volva at the base is sac-like, white, and often buried in the substrate. It forms a free, bag-like structure around the stipe base — a critical identification feature.
 
-Flesh is white, thin, and has a faint but distinctive odor described as sweetish or resembling raw potatoes. Spore print is white.
+Flesh is white, thin, and has a faint but distinctive odor described as sweetish or resembling raw potatoes. [[comparison-spore-print-collection-vs-spore-syringe-production]] is white.
 
 Basidiospores are 8–11 × 6.5–8 µm, broadly ellipsoid, smooth, inamyloid, and non-dextrinoid. Basidia are clavate, four-spored.
 
@@ -50,7 +50,7 @@ Basidiospores are 8–11 × 6.5–8 µm, broadly ellipsoid, smooth, inamyloid, a
 
 A. virosa is found across temperate Europe, from Scandinavia and the British Isles south to the Mediterranean, and eastward through central Europe to parts of western Russia.
 
-In North America, the morphologically similar A. bisporigera and A. ocreata occupy the same ecological niche and were historically confused with A. virosa.
+In [[psilocybin-north-america-pacific-northwest]], the morphologically similar A. bisporigera and A. ocreata occupy the same ecological niche and were historically confused with A. virosa.
 
 The species is ectomycorrhizal, forming obligate associations with broadleaf trees, particularly oaks (Quercus spp.), beech (Fagus sylvatica), birch (Betula spp.), and hornbeam (Carpinus betulus).
 
@@ -74,11 +74,11 @@ During the latency period, patients are asymptomatic, which contributes to delay
 
 The apparent recovery phase is deceptive — liver enzymes (AST, ALT) begin rising as ongoing hepatocellular necrosis progresses silently. Hepatic failure, encephalopathy, and death can occur 4–7 days post-ingestion.
 
-Survival rates with modern treatment (silibinin, penicillin G, N-acetylcysteine, and liver transplantation) have improved from approximately 20% to 60–80% in centers experienced with amatoxin poisoning.
+Survival rates with modern treatment (silibinin, penicillin G, N-acetylcysteine, and liver transplantation) have improved from approximately 20% to 60–80% in centers experienced with [[bloomfield-amatoxin-poisoning-mechanism]].
 
 ## Similar Species and Identification Pitfalls
 
-The primary danger of A. virosa lies in its resemblance to edible white mushrooms, particularly young paddy straw mushrooms (Volvariella volvacea) and certain Tricholoma species.
+The primary danger of A. virosa lies in its resemblance to edible white mushrooms, particularly young paddy straw mushrooms ([[paddy-straw-mushroom-volvariella-volvacea-cultivation]]) and certain Tricholoma species.
 
 Key distinguishing features from Volvariella: Amanita has a sac-like volva (remnant of universal veil) at the base, white spores, and gills that are free from the stipe. Volvariella also has a volva but has pink spores.
 

@@ -10,11 +10,11 @@ sources:
 
 # Net-and-Pan Water Harvesting Pattern
 
-Toby Hemenway's description of the net-and-pan pattern for harvesting rainwater and building soil in dryland gardens. From Gaia's Garden, Chapter 3.
+[[toby-hemenway]]'s description of the net-and-pan pattern for harvesting rainwater and [[building-soil]] in dryland gardens. From Gaia's Garden, Chapter 3.
 
 ## What Is Net-and-Pan
 
-A water harvesting pattern used in drylands where fruit trees are planted in small depressions (pans) connected by a network of shallow trenches (nets). Rain and runoff water falling over a large area is collected by the trench network and delivered to the base of each tree.
+A water harvesting pattern used in drylands where [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] are planted in small depressions (pans) connected by a network of shallow trenches (nets). Rain and runoff water falling over a large area is collected by the trench network and delivered to the base of each tree.
 
 ## How It Works
 
@@ -64,7 +64,7 @@ The same net pattern can be used to gradually build soil and vegetation on poor 
 
 ## Triangular Seed Spacing
 
-The net pattern also applies to seed spacing in raised beds:
+The net pattern also applies to seed spacing in [[comparison-raised-beds-vs-hugelkultur]]:
 
 - Four rows of seeds at 6-inch rectangular spacing need 18 inches of bed space
 - Triangular spacing needs only about 15 inches for the same number of seeds
@@ -72,19 +72,19 @@ The net pattern also applies to seed spacing in raised beds:
 
 ## Relationship to Other Patterns
 
-The net pattern is one of several natural patterns described in gaias garden herb spiral and natural patterns, alongside:
+The net pattern is one of several natural patterns described in gaias garden [[herb-spiral]] and natural patterns, alongside:
 
 - **Spirals** — for herb gardens and space efficiency
 - **Branches** — for garden path design
 - **Lobes and edges** — for ponds and bed shapes
-- **Waves and fractals** — for aesthetic and functional diversity
+- **Waves and fractals** — for aesthetic and [[fungal-functional-diversity-decomposition]]
 
 All of these patterns are "patterns of expansion, contraction, and even distribution" found throughout nature.
 
 ## See Also
 
-- gaias garden herb spiral and natural patterns — spiral, branch, and net patterns
-- gaias garden edge effect — edge effect in garden design
-- [[mollison-pdc-dam-construction-water-systems]] — dam and water systems
-- [[mollison-keyline-soil-conditioning-humid-water]]
+- gaias garden [[comparison-herb-spiral-vs-keyhole-beds]] and natural patterns — spiral, branch, and net patterns
+- gaias garden [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]] — edge effect in [[comparison-mandala-garden-design-vs-keyhole-garden-design]]
+- mollison-pdc-dam-construction-water-systems — dam and water systems
+- mollison-keyline-soil-conditioning-humid-water
 - [[gaias-garden-cover-crops-soil-building]]

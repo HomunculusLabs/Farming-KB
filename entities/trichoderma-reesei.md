@@ -11,12 +11,12 @@ sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dy
 # Trichoderma reesei
 
 Trichoderma reesei is a filamentous ascomycete fungus renowned for its
-exceptional cellulolytic enzyme production. Originally isolated from
+exceptional cellulolytic [[ligninolytic-enzyme-production-bioremediation]]. Originally isolated from
 canvas fabric during World War II in the Solomon Islands, it has
 become one of the most important industrial microorganisms for enzyme
 production.
 
-The species has been subjected to intensive strain improvement
+The species has been subjected to intensive [[mushroom-strain-improvement-and-breeding-methods]]
 programs that have increased cellulase production by several orders of
 magnitude over the wild-type strain, making industrial-scale enzyme
 production economically feasible for diverse applications.
@@ -32,7 +32,7 @@ production economically feasible for diverse applications.
 - **Species:** T. reesei
 
 T. reesei is classified among the Euascomycetes and possesses hex-1,
-the gene encoding the structural protein of Woronin bodies. The hex-1
+the gene encoding the structural protein of [[fungal-woronin-bodies-and-septal-pore-organization]]. The hex-1
 homolog shows strong sequence similarity to HEX-1 from Neurospora
 crassa (4e-64 e-value). The teleomorph is classified as Hypocrea
 jecorina.
@@ -55,7 +55,7 @@ interactions at the fungal cell surface.
 
 T. reesei is the primary industrial source of cellulases and
 hemicellulases used in biofuel production (saccharification of
-lignocellulosic biomass), textile industry (biostoning and
+lignocellulosic biomass), [[staycare-fungal-treatment-of-textile-industry-wastewater]] (biostoning and
 biopolishing), paper and pulp industry (enzymatic deinking), food and
 feed industry (improving digestibility), and detergent industry
 (cellulase additives).
@@ -99,11 +99,11 @@ modulating expression in response to environmental conditions.
 
 In nature, T. reesei functions as a saprotrophic decomposer of plant
 material in tropical and subtropical forest ecosystems, contributing
-to dead wood degradation, forest litter decomposition, and nutrient
+to dead wood degradation, forest [[dighton-pine-needle-litter-decomposition-fungal-succession]], and nutrient
 cycling through release of carbon and minerals from plant cell wall
 polymers.
 
-Industrial strain improvement has been achieved through classical mutagenesis (UV, NTG) and genetic engineering, with industrial strains producing over 100 grams per liter of cellulase protein. The Rut-C30 strain, developed through multiple rounds of mutagenesis, remains the most widely used industrial strain worldwide.
+Industrial strain improvement has been achieved through classical mutagenesis (UV, NTG) and [[fukuoka-textdoc-genetic-engineering-critique-warning]], with industrial strains producing over 100 grams per liter of cellulase protein. The Rut-C30 strain, developed through multiple rounds of mutagenesis, remains the most widely used industrial strain worldwide.
 
 The proteomic characterization of the T. reesei cell envelope has been complemented by transcriptomic studies of cellulase gene expression. These studies have revealed complex regulatory networks involving multiple signaling pathways that integrate environmental cues with the metabolic state of the cell.
 

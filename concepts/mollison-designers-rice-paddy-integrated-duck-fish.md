@@ -17,7 +17,7 @@ type: concept
 # Rice Paddy Integrated Duck Fish System
 
 The integration of rice, ducks, and fish in a single paddy system is one of
-the most refined examples of [[permaculture-designers-manual-bamboo]] as a model of how multiple yields can be obtained from a
+the most refined examples of permaculture-designers-manual-bamboo as a model of how multiple yields can be obtained from a
 single production unit while reducing or eliminating external inputs. The
 rice-duck-fish system exemplifies the permaculture principle of integrating
 multiple elements so that each supports the others.
@@ -25,7 +25,7 @@ multiple elements so that each supports the others.
 ## Historical Background
 
 Integrated rice-duck-fish farming has been practised for centuries across
-East and Southeast Asia, with particularly well-developed traditions in
+East and [[psilocybe-southeast-asia-pacific]], with particularly well-developed traditions in
 China, Japan, Vietnam, Indonesia, and the Philippines. The system arose
 from careful observation of natural wetland ecosystems where rice plants,
 waterfowl, and fish coexist in mutually beneficial relationships. Modern
@@ -34,7 +34,7 @@ traditional approach.
 
 ## System Components and Interactions
 
-### Rice (Oryza sativa)
+### Rice ([[oryza-sativa]])
 
 Rice is the primary crop and structural element of the system. The flooded
 paddy provides the aquatic environment necessary for duck and fish
@@ -62,7 +62,7 @@ within the system:
   before they become established.
 
 - **Additional yield:** Ducks produce eggs and meat as supplementary
-  yields from the same land area used for rice production.
+  yields from the same land area used for [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]].
 
 Ducks are typically herded into the paddy during the day and confined to
 shelters at night for protection from predators. Portable enclosures allow
@@ -96,14 +96,14 @@ a symbiotic relationship with the cyanobacterium Anabaena azollae, which
 fixes atmospheric nitrogen. The Azolla mat on the water surface:
 
 - Suppresses weed growth by blocking light
-- Fixes atmospheric nitrogen (20 to 40 kg per hectare per growing season)
+- Fixes atmospheric nitrogen (20 to 40 kg per hectare per [[savory-growing-season-and-non-growing-season-management]])
 - Provides high-protein food for ducks and fish
 - Reduces water temperature and evaporation
-- Decomposes to add organic matter to the soil after rice harvest
+- Decomposes to add [[hamilton-composting-and-organic-matter-management]] to the soil after rice harvest
 
 ## Nitrogen Cycling
 
-The integrated system creates a largely self-sustaining nitrogen cycle.
+The integrated system creates a largely self-sustaining [[query-how-does-the-nitrogen-cycle-work-in-a-garden]].
 Atmospheric nitrogen is fixed by Azolla and by leguminous plants in paddy
 bunds. Duck manure, fish excreta, and decomposing Azolla all contribute
 nitrogen to the paddy water and soil. Rice plants absorb this nitrogen for
@@ -114,7 +114,7 @@ by 50 to 100 percent compared to conventional rice monoculture.
 
 ## Pest and Disease Management
 
-The combination of ducks and fish provides effective biological control of
+The combination of ducks and fish provides effective [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] of
 major rice pests. Ducks consume adult insects and snails, while fish prey
 on aquatic larvae. The continuous disturbance of the water surface by duck
 and fish activity also discourages mosquito breeding and disrupts the life
@@ -128,4 +128,7 @@ Successful integration requires careful [[integrated-paddy-rice-and-tree-system]
 
 ## See Also
 
-- [[mollison-designers-duck-pond-integrated-systems]]
+- mollison-designers-duck-pond-integrated-systems
+- [[mollison-designers-geese-and-duck-weed-control]]
+- [[fukuoka-textdoc-duck-carp-rice-paddy-polyculture]]
+- [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]

@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [query, food-forest, permaculture, earthworks, landscaping]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: query
 ---
 
@@ -14,7 +15,7 @@ type: query
 
 Designing a food forest on a slope requires managing water flow first through swales, terraces, or keyline patterns, then layering productive trees, shrubs, and ground covers according to the seven-layer forest garden model. Slopes offer excellent drainage, air circulation, and frost drainage but require careful earthworks to prevent erosion and capture rainfall for deep soil recharge. The [[backyard-food-forest-design|backyard food forest design]] guide explains how to leverage these natural advantages in small-scale settings.
 
-South-facing slopes in the Northern Hemisphere receive more direct sunlight and warm earlier in spring, extending your growing season. North-facing slopes stay cooler and moister, which suits shade-loving understory plants, berry bushes, and mushroom cultivation.
+South-facing slopes in the Northern Hemisphere receive more direct sunlight and warm earlier in spring, extending your [[savory-growing-season-and-non-growing-season-management]]. North-facing slopes stay cooler and moister, which suits shade-loving understory plants, berry bushes, and [[accessible-mushroom-cultivation-for-disabilities]].
 
 ## Water Management Earthworks
 
@@ -22,13 +23,13 @@ The first step in any slope-based food forest design is water harvesting infrast
 
 [[holzer-terrace-construction-guide|terraces]] may be more appropriate. Terraces create level planting surfaces stabilized by retaining walls of stone, logs, or living plant material. They are more labor-intensive to build than swales but create permanent, easily managed growing spaces on steep terrain.
 
-[[forest-garden-seven-layers|seven layers]] include a tall canopy of standard fruit and nut trees, an understory of dwarf fruit trees, a shrub layer of berries and currants, a herbaceous layer of perennial vegetables and herbs, a ground cover layer, a root layer, and a climbing vine layer.
+[[forest-garden-seven-layers|seven layers]] include a tall canopy of standard fruit and nut trees, an understory of dwarf fruit trees, a shrub layer of berries and currants, a herbaceous layer of [[comparison-perennial-vegetables-vs-cover-crops]] and herbs, a ground cover layer, a root layer, and a climbing vine layer.
 
 Each layer occupies a different height niche, maximizing the productive use of vertical space. On a slope, the canopy layer at the top of the slope provides some shade protection for lower layers, while the ground cover layer at the bottom helps stabilize the soil and prevent erosion.
 
-The [[chop-and-drop-mulching|chop and drop mulching]] with fast-growing pioneer species to build soil organic matter and protect the surface from rain impact.
+The [[chop-and-drop-mulching|chop and drop mulching]] with fast-growing pioneer species to build soil [[hamilton-composting-and-organic-matter-management]] and protect the surface from rain impact.
 
-Ground cover plants like clover, vetch, and comfrey spread quickly to hold soil in place while contributing nitrogen and organic matter. Sheet mulching with cardboard and wood chips provides immediate erosion control while suppressing weeds during the establishment period.
+Ground cover plants like clover, vetch, and comfrey spread quickly to hold soil in place while contributing nitrogen and organic matter. [[comparison-sheet-mulching-vs-chop-and-drop-mulching]] with cardboard and wood chips provides immediate [[permplant-willows-salix-erosion-control-fodder]] while suppressing weeds during the establishment period.
 
 Nitrogen-fixing trees and shrubs like black locust, alder, seaberry, and Russian olive should be planted throughout the slope as support species. These pioneers build soil fertility that benefits the productive fruit and nut trees planted alongside them.
 
@@ -84,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

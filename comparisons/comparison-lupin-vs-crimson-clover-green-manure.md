@@ -1,5 +1,5 @@
 ---
-title: "Lupin vs Crimson Clover as Green Manure"
+title: "Lupin vs comparison lupin vs crimson clover green manure as Green Manure"
 tags:
   - comparison
   - cover-crops
@@ -12,13 +12,13 @@ updated: 2026-04-28
 sources:
   - SARE Cover Crop Decision Tool, USDA NRCS PLANTS Database.
   - Clark, A. (2007). Managing Cover Crops Profitably, 3rd ed. SARE.
-  - Cazzato, E. et al. (2012). "Forage and biomass production of annual
+  - Cazzato, E. et al. (2012). "Forage and [[dighton-fungal-biomass-production-aquatic-ecosystems]] of annual
     lupins." Crop & Pasture Science, 63(2), 154–162.
   - NRCS Cover Crop Species Guide, USDA Natural Resources Conservation
     Service.
   - Willekens, K. et al. (2020). "Crimson clover as a winter cover crop."
     Agronomy, 10(8), 1187.
-  - Unkovich, M. et al. (2010). "Nitrogen fixation by legumes in
+  - Unkovich, M. et al. (2010). "[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] by legumes in
     Mediterranean agriculture." Advances in Agronomy, 107, 37–76.
 created: 2026-04-28
 type: comparison
@@ -27,19 +27,19 @@ type: comparison
 # Lupin vs Crimson Clover as Green Manure
 
 Both [[comparison-green-manure-vs-cover-crops]] and [[comparison-dynamic-accumulators-vs-cover-crops]] for further detail on
-nutrient-scavenging roles in cover cropping systems.
+nutrient-scavenging roles in [[fukuoka-clover-cover-cropping-soil-ecology]] systems.
 
 ## When to Choose Crimson Clover
 
 Crimson clover is best suited to medium–heavy soils in regions with mild
 winters, where it serves as a reliable winter annual cover crop. Its dense,
-prostrate growth habit provides superior erosion control on sloping ground and
+prostrate growth habit provides superior [[permplant-willows-salix-erosion-control-fodder]] on sloping ground and
 more complete soil surface protection than lupin's more open, upright canopy.
 This makes crimson clover the preferred species on sites where preventing soil
 loss during winter rains is a primary objective.
 
 The long, showy bloom period delivers exceptional pollinator forage, supporting
-beneficial insect populations that contribute to pest suppression in adjacent
+[[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] populations that contribute to pest suppression in adjacent
 cash crops. This pollinator support has tangible economic value in diversified
 farming systems that include insect-pollinated vegetables, fruits, or seed
 crops. Crimson clover establishes easily with minimal seedbed preparation,
@@ -74,7 +74,7 @@ thicker stems.
 
 - [[comparison-green-manure-vs-cover-crops]]
 - [[comparison-living-mulch-vs-cover-crops]]
-- [[lupinus-albus]]
+- lupinus-albus
 - crimson clover
 ## Practical Considerations
 
@@ -94,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

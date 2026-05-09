@@ -19,7 +19,7 @@ later named them "Woronin bodies" and conducted the first pore-plugging
 experiments, but did not associate the plugs with these organelles. Fifty
 years later, Collinge and colleagues used electron microscopy to establish
 that Woronin bodies rapidly move to and plug septal pores following damage.
-In [[fusarium-oxysporum]] showed hexagonal forms maturing into
+In  showed hexagonal forms maturing into
 oval ones, suggesting a common structural core. Filamentous tethering
 material attaches Woronin bodies to the septal pore region, as confirmed
 by laser optical trap experiments showing they return to position when
@@ -63,7 +63,7 @@ bleeding. This demonstrated that the HEX-1 crystal lattice is essential for
 function.
 
 The solid core is necessary because Woronin bodies must resist intracellular
-turgor pressure when plugging a septal pore. Buller's original observation
+[[bloomfield-turgor-pressure-and-hyphal-invasion]] when plugging a septal pore. Buller's original observation
 of septal deformation (convexo-concave shape bending toward damaged cells)
 indicated substantial turgor pressure that a solid crystalline plug must
 withstand, analogous to a drain plug resisting water pressure in a sink.
@@ -71,7 +71,7 @@ withstand, analogous to a drain plug resisting water pressure in a sink.
 ## Biogenesis: Apical Programming of Gene Expression
 
 Woronin bodies are primarily formed in the apical hyphal compartment (the
-region between the hyphal tip and the first septum). They occupy cytoplasm
+region between the [[gadd-hyphal-tip-growth-and-branching-mechanisms]] and the first septum). They occupy cytoplasm
 underlying the Spitzenkorper, the cluster of vesicles associated with tip
 growth. Apical Woronin bodies are mobile within the cytoplasm, while those
 in sub-apical compartments are immobile and localized near the septal pore.
@@ -82,17 +82,17 @@ are enriched at the leading edge of the fungal colony, and this apical
 programming is controlled by localized mRNA accumulation rather than by
 protein transport. When the hex-1 structural gene was expressed from
 regulatory sequences of a transcript that normally accumulates in the colony
-interior, Woronin body formation was redirected inward, and these strains
+interior, Woronin [[fungal-fruiting-body-formation-environmental-triggers]] was redirected inward, and these strains
 displayed loss-of-function phenotypes specifically in apical compartments.
 
 ## Function: Cellular Integrity and Pathogenicity
 
 The primary function of Woronin bodies is the maintenance of cellular
-integrity. Neurospora crassa hex-1 mutants lack visible Woronin bodies and
+integrity. Neurospora crassa hex-1 mutants lack visible [[fungal-woronin-bodies-and-septal-pore-organization]]
 their hyphae bleed protoplasm through septal pores following damage. This
 has been confirmed in Magnaporthe grisea, Aspergillus nidulans, and
 Aspergillus oryzae. The Magnaporthe hex-1 mutant is also defective in
-appressorium morphogenesis and invasive growth within the plant host, and
+appressorium morphogenesis and [[fungal-hyphae-invasive-growth-mechanisms]] within the plant host, and
 displays hyphal death under nitrogen starvation. Because Woronin bodies are
 present in all Euascomycete pathogens, they may represent attractive targets
 for fungicide development.

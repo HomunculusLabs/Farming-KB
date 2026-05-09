@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis and Crohn's Disease
 
-**Source:** The Cannabis Health Index, Uwe Blesching, PhD (2017)
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]], Uwe Blesching, PhD (2017)
 **Updated:** 2026-04-19
 
 ## Evidence-Based Therapeutic Potential
@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-Crohn's disease is a type of inflammatory bowel disease (IBD) that causes chronic inflammation of the gastrointestinal tract, most commonly affecting the end of the small intestine (ileum) and the beginning of the colon. Symptoms include abdominal pain, severe diarrhea, fatigue, weight loss, and malnutrition. It can also cause inflammation of the eyes, skin, and joints. Orthodox treatment includes anti-inflammatory drugs, immune system suppressors, antibiotics, and surgery.
+Crohn's disease is a type of [[blesching-cannabis-inflammatory-bowel-disease]] disease (IBD) that causes chronic inflammation of the gastrointestinal tract, most commonly affecting the end of the small intestine (ileum) and the beginning of the colon. Symptoms include abdominal pain, severe diarrhea, fatigue, weight loss, and malnutrition. It can also cause inflammation of the eyes, skin, and joints. Orthodox treatment includes anti-inflammatory drugs, immune system suppressors, antibiotics, and surgery.
 
 Crohn's disease affects approximately 3 per 1,000 people in developed countries, with incidence rising globally. The condition typically presents in adolescents and young adults, though it can develop at any age. Unlike ulcerative colitis, which is limited to the colon and rectum, Crohn's disease can affect any part of the gastrointestinal tract from mouth to anus. The inflammation in Crohn's disease is transmural, meaning it extends through the entire thickness of the intestinal wall, which contributes to complications such as fistulas and strictures.
 
@@ -33,7 +33,7 @@ The broader IBD research (CHI Value 8, 3 studies) encompasses both Crohn's disea
 
 - **CB2 receptor-mediated anti-inflammation:** CB2 receptors are expressed on immune cells within the gut mucosa. Activation of CB2 receptors reduces the release of pro-inflammatory cytokines (TNF-alpha, IL-1beta, IL-6) that drive the chronic inflammation characteristic of Crohn's disease.
 
-- **FAAH inhibition:** Fatty acid amide hydrolase (FAAH) breaks down anandamide. Inhibiting FAAH increases endogenous anandamide levels, which activates both CB1 and CB2 receptors. The Calgary study (2008) demonstrated that FAAH inhibition reduced colitis in animal models, suggesting this approach may be applicable to Crohn's disease.
+- **FAAH inhibition:** Fatty [[lysergic-acid-amide-containing-plants-halpern]] hydrolase (FAAH) breaks down anandamide. Inhibiting FAAH increases endogenous anandamide levels, which activates both CB1 and CB2 receptors. The Calgary study (2008) demonstrated that FAAH inhibition reduced colitis in animal models, suggesting this approach may be applicable to Crohn's disease.
 
 - **Gut barrier integrity:** Cannabinoids have been shown to strengthen intestinal epithelial barrier function, which is often compromised in Crohn's disease. A leaky gut barrier allows bacterial antigens to penetrate the intestinal wall, triggering immune responses that perpetuate inflammation.
 
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -112,3 +112,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[cannabis-and-kidney-disease]]

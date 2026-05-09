@@ -19,8 +19,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mead, J.E. (1904). "Veratrum Viride (American Hellebore): A Study of Its History, Uses, and Active Principles." American Journal of Pharmacy.
-  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern United States and Adjacent Canada." New York Botanical Garden.
-  - Duke, J.A. (2002). "Handbook of Medicinal Herbs." CRC Press.
+  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern [[dmt-containing-plants-united-states-halpern]] and Adjacent Canada." New York Botanical Garden.
+  - Duke, J.A. (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]]." CRC Press.
   - Frohne, D. & Pfänder, H.J. (2005). "Poisonous Plants: A Handbook for Doctors, Pharmacists, Toxicologists." Timber Press.
   - USDA, NRCS. "Veratrum viride." PLANTS Database. https://plants.usda.gov/
 ---
@@ -29,7 +29,7 @@ sources:
 
 **Veratrum viride**, the **American white hellebore** or **green false
 hellebore**, is a large perennial herbaceous plant in the family
-Melanthiaceae, native to moist meadows and swamps across North America.
+Melanthiaceae, native to moist meadows and swamps across [[psilocybin-north-america-pacific-northwest]].
 It is one of the most toxic native plants on the continent, containing
 potent steroidal alkaloids that affect sodium channels in cardiac and
 neural tissue. Despite its extreme toxicity, V. viride has a significant
@@ -38,7 +38,7 @@ history of medicinal use — including by the Eclectic physicians of
 prototypes for antihypertensive drugs.
 
 The plant bears a superficial resemblance to skunk cabbage (*Lysichiton
-americanus*) in early spring, but the two are not closely related.
+americanus*) in [[coleman-overwintered-onions-and-early-spring-crops]], but the two are not closely related.
 
 ## Taxonomy
 
@@ -47,7 +47,7 @@ americanus*) in early spring, but the two are not closely related.
 - **Species:** *V. viride* Aiton (1789)
 
 The species was described by William Aiton from material cultivated at
-Kew Gardens, originally collected in eastern North America. It is closely
+Kew Gardens, originally collected in [[polypore-fungi-eastern-north-america]] America. It is closely
 related to *V. album* (European white hellebore) and *V. californicum*
 (California false hellebore), all containing similar steroidal alkaloid
 profiles.
@@ -120,7 +120,7 @@ The Eclectic physicians (1850–1920) prescribed *Veratrum viride*
 tincture in minute doses (1–5 drops) as a "cardiac depressant" and
 arterial sedative for hypertension, preeclampsia, and mania.
 Commercial preparations were available as "Veratrum Virid." The
-therapeutic window was extremely narrow, and poisoning was not
+[[blesching-cannabis-therapeutic-window-dosing]] was extremely narrow, and poisoning was not
 uncommon. The drug fell out of use as safer antihypertensives
 emerged in the mid-20th century.
 

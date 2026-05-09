@@ -1,5 +1,5 @@
 ---
-title: "Mushroom Edibility Testing and Safety Protocols"
+title: "Mushroom mushroom edibility testing safety protocols and Safety Protocols"
 tags: [edibility-testing, mushroom-safety, foraging, toxic-mushrooms, identification, spore-print]
 date: 2026-04-28
 updated: 2026-04-28
@@ -14,11 +14,11 @@ The spore print is one of the most fundamental identification tools available to
 - White spore print: [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]] species have toxic lookalikes that require careful discrimination:
 
 - **Honey mushroom (Armillaria mellea)** versus **Galerina marginata** (deadly galerina): Both grow in clusters on wood. Galerina contains amatoxins identical to those in death caps. Spore print distinguishes them (white for Armillaria, rusty-brown for Galerina).
-- **Paddy straw mushroom (Volvariella volvacea)** versus **Death cap (Amanita phalloides)**: Both have white [[gyromitrin]], a volatile compound that decomposes to monomethylhydrazine (rocket fuel). Real morels are hollow when cut lengthwise; false morels are chambered.
+- **Paddy straw mushroom (Volvariella volvacea)** versus **Death cap (Amanita phalloides)**: Both have white [[gyromitrin]], a [[fungal-btex-volatile-compound-degradation]] that decomposes to monomethylhydrazine (rocket fuel). Real morels are hollow when cut lengthwise; false morels are chambered.
 
 ## The Amatoxin Threat
 
-Amatoxins, found in Amanita species (death cap, destroying angel), some Galerina species, and Lepiota species, are among the most lethal natural compounds. They inhibit RNA polymerase II, leading to cessation of protein synthesis and progressive liver and kidney failure. Symptoms begin with a delayed onset (6 to 24 hours) of severe gastrointestinal distress, followed by a temporary remission period that falsely suggests recovery, then terminal organ failure. There is no reliable antidote; treatment involves aggressive supportive care, and liver transplant may be required.
+Amatoxins, found in Amanita species (death cap, [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]), some Galerina species, and Lepiota species, are among the most lethal natural compounds. They inhibit RNA polymerase II, leading to cessation of protein synthesis and progressive liver and kidney failure. Symptoms begin with a delayed onset (6 to 24 hours) of severe gastrointestinal distress, followed by a temporary remission period that falsely suggests recovery, then terminal organ failure. There is no reliable antidote; treatment involves aggressive supportive care, and liver transplant may be required.
 
 ## Best Practices for Safe Foraging
 
@@ -39,7 +39,7 @@ causes delayed symptoms similar to amatoxins but targets the central nervous
 system and red blood cells rather than the liver. Symptoms include headache,
 dizziness, and in severe cases, seizures and hemolysis. Cooking and thorough
 drying reduce but do not eliminate gyromitrin entirely, making false morels
-unsafe for most foragers despite traditional preparation methods.
+unsafe for most foragers despite [[kava-traditional-preparation-ceremonial-context]] methods.
 
 [[muscarine]]
 poisoning from Inocybe and Clitocybe species produces rapid-onset
@@ -54,7 +54,7 @@ true poisoning but an important interaction that foragers must know.
 ## Microscopic Identification Techniques
 
 When macroscopic features and spore prints are insufficient for definitive
-identification, microscopic examination becomes necessary. A basic compound
+identification, [[fungal-microscopic-examination-mounting-media-techniques]] becomes necessary. A basic compound
 microscope with 400x to 1000x magnification can reveal critical diagnostic
 features including spore morphology, basidium structure, presence of clamp
 connections, and tissue types (trama, hymenium, pileipellis). Spore shape
@@ -96,5 +96,5 @@ never replace in-person expert verification when consuming wild mushrooms.
 ## See Also
 
 - Amanita Species and Amatoxins
-- Spore Print Identification Methods
+- Spore Print [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]
 - Mycetism and Fungal Poisoning Syndromes

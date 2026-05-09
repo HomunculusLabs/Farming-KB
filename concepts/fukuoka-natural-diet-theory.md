@@ -1,20 +1,21 @@
 ---
-title: Natural Diet Theory
+title: fukuoka-natural-diet-as-foundation Theory
 created: 2026-04-18
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Natural Diet Theory
 
-Masanobu Fukuoka's theory of natural diet goes far beyond nutrition. It is a comprehensive philosophy of food that connects human health, spiritual development, agricultural practice, and the fate of civilization. Food, for Fukuoka, was the single most important factor in human life.
+Masanobu Fukuoka's [[fukuoka-natural-way-of-farming-theory-of-natural-farming]] diet goes far beyond nutrition. It is a comprehensive philosophy of food that connects human health, spiritual development, agricultural practice, and the fate of civilization. Food, for Fukuoka, was the single most important factor in human life.
 
 ## The Origins of Agriculture and Diet
 
-Agriculture arose from human cravings over food. It was man's desire for tasty and abundant food that was responsible for the development of agriculture. Farming methods have constantly had to adapt to changes in the human diet. Unless the diet is basically sound, agriculture too cannot be normal.
+Agriculture arose from human cravings over food. It was man's desire for tasty and abundant food that was responsible for the development of agriculture. [[natural-farming-methods-comparison]] have constantly had to adapt to changes in the human diet. Unless the diet is basically sound, agriculture too cannot be normal.
 
 Primitive man fed himself on whatever he could find about him -- vegetation, fish and shellfish, fowl and animals; everything served a purpose, nothing was useless. Most natural products served either as food or as medicine. There was surely more than enough food to feed the entire human population of the earth.
 
@@ -36,13 +37,13 @@ A person who eats natural food grown in [[fukuoka-philosophy-eating]]. Diet is n
 
 ## The Principle of Wholeness
 
-Natural food is whole food. Every whole food contains a complex mixture of nutrients, phytochemicals, and bioactive compounds that work together in ways that science cannot fully understand. When food is processed -- refined, separated, recombined -- this natural complexity is lost.
+Natural food is whole food. Every whole food contains a complex mixture of nutrients, phytochemicals, and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] that work together in ways that science cannot fully understand. When food is processed -- refined, separated, recombined -- this natural complexity is lost.
 
 White rice is the classic example. By removing the bran and germ, we lose most of the fiber, vitamins, minerals, and phytochemicals that make brown rice a complete food. What remains is starch -- calories without nutrition. The same principle applies to white flour, white sugar, and all refined foods.
 
 ## The Wilder the Better
 
-"The wilder and more primitive the food, the greater its medicinal value." Fukuoka valued wild plants and traditional crop varieties above modern cultivars. Modern breeding has focused on yield, appearance, and transportability at the expense of nutritional quality and resilience.
+"The wilder and more primitive the food, the greater its medicinal value." Fukuoka valued wild plants and traditional [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] above modern cultivars. Modern breeding has focused on yield, appearance, and transportability at the expense of [[coleman-winter-greens-nutritional-quality-cold-sweetening]] and resilience.
 
 Minor grains -- millet, buckwheat, Job's tears -- deserve more attention for their value as "prototypic health foods essential for maintaining the physical well-being of human beings." These grains have been neglected because they don't suit the needs of industrial agriculture, not because they lack nutritional value. The [[fukuoka-food-and-human-health]] is therefore not just a personal matter but a civilizational imperative.
 
@@ -94,4 +95,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -23,7 +23,7 @@ Mushroom photography requires specific techniques different from general nature 
 ### Lenses
 - **Dedicated macro lens (90-105mm)**: Primary lens for mushroom photography; 1:1 magnification
 - **Short telephoto (70-200mm)**: Isolates subjects against blurred backgrounds
-- **Wide-angle (16-35mm)**: Environmental shots showing mushroom habitat
+- **Wide-angle (16-35mm)**: Environmental shots showing [[psilocybin-mushroom-habitat-and-ecology]]
 - **Extension tubes**: Budget option to add macro capability to existing lenses
 - **Close-up filters**: Inexpensive screw-on lenses; lower optical quality but portable
 
@@ -36,7 +36,7 @@ Mushroom photography requires specific techniques different from general nature 
 ### Accessories
 - **Reflector (white/silver/gold)**: Bounces available light into shadow areas
 - **Diffuser**: Softens harsh direct light; a white plastic bag works in a pinch
-- **LED panel or headlamp**: For focus assistance in low light; avoid harsh direct flash
+- **LED panel or headlamp**: For focus assistance in [[darkness-low-light-facilitation-entheogenic-ceremonies]]; avoid harsh direct flash
 - **Remote shutter release**: Prevents camera shake during long exposures
 - **Rain cover**: Forest environments are often wet
 - **Small spray bottle**: For misting subjects to add visual appeal (use water only)
@@ -88,7 +88,7 @@ Mushroom photography requires specific techniques different from general nature 
 
 ### Groupings and Patterns
 - Clusters of mushrooms create natural repetition and visual interest
-- Fairy rings and arc patterns document ecological phenomena
+- [[bloomfield-fairy-rings-armillaria-giant-fungi]] and arc patterns document ecological phenomena
 - Sequence shots showing growth stages tell biological stories
 - Multiple species in one frame shows community interactions
 
@@ -142,50 +142,6 @@ Tips:
 For documentation and identification purposes:
 - Cap top (showing color, texture, any patterns)
 - Cap underside (gills, pores, teeth -- critical for identification)
-- Stem (base to top, any ring or volva)
-- Cross-section (cut in half vertically)
-- Habitat (surrounding trees, soil type, associated plants)
-- Spore print (if possible)
-
-### Time-Lapse
-- Capture mushroom growth from pin to full expansion (6-48 hours typically)
-- Intervalometer or camera app for automated shooting
-- Waterproof housing for outdoor time-lapse
-- Document decomposition sequence as well
-
-### UV Fluorescence Photography
-- Some mushrooms fluoresce under ultraviolet light
-- UV flashlight (365nm) and camera modified for UV or full-spectrum
-- Bioluminescent species (Armillaria, Omphalotus, Mycena) photographed in complete darkness
-- Long exposures (30 seconds to several minutes) needed for bioluminescence
-
-### Underwater Mushroom Photography
-- Some fungi grow in streams and wet habitats
-- Waterproof camera housing required
-- Challenges: water clarity, current, low light
-- Aquatic fungi (see aquatic and freshwater fungal research)
-
-## Post-Processing
-
-### Basic Adjustments
-- White balance correction for accurate color (critical for identification)
-- Exposure adjustment for proper brightness
-- Contrast and clarity enhancement
-- Noise reduction for high-ISO images
-
-### Focus Stack Processing
-- Alignment of source images
-- Depth map generation
-- Artifact removal (halos, banding)
-- Output sharpening
-
-### Ethics
-- Do not misrepresent colors or features that affect identification
-- Clearly label any significant digital manipulation
-- Compositional cropping and exposure adjustment are standard
-- Adding or removing specimens from a scene should be disclosed
-- See [[mushroom-foraging-safety-guide]] for ethical foraging while photographing
-
 ## See Also
 
 - [[mushroom-foraging-safety-guide]] -- ethical practices while photographing in the field

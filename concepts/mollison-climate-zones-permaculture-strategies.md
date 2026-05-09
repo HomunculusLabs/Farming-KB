@@ -1,8 +1,8 @@
 ---
-title: Climate Zones and Permaculture Strategies
+title: mollison climate zones permaculture strategies and Permaculture Strategies
 created: 2026-04-26
 updated: 2026-04-24
-sources: Bill Mollison, Permaculture Design Course (1981 transcript, Yankee Permaculture, public domain)
+sources: Bill Mollison, bill-mollison-permaculture-a-designers-manual-permaculture-design-principles Course (1981 transcript, Yankee Permaculture, public domain)
 type: concept
 tags: [climate, culture, permaculture, site-design]
 ---
@@ -74,7 +74,7 @@ Arid strategies centre on water conservation and heat management:
   annuals
 - **Minimal tillage** to preserve soil moisture
 
-The course emphasises that desert reclamation follows the principle
+The course emphasises that [[fukuoka-desert-reclamation-projects]] follows the principle
 of starting from water and working outward: establish water
 harvesting, then plant protective vegetation, then introduce
 productive species.
@@ -109,7 +109,7 @@ include:
 - **Green firebreaks** using moist vegetation corridors
 - **Water body placement** to serve dual fire protection and
   production functions
-- **Zone and sector planning** to place structures and valuable
+- **[[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]] planning** to place structures and valuable
   plantings away from fire-prone sectors
 - **Animal grazing management** to reduce fuel loads
 
@@ -138,9 +138,11 @@ Of the 23% falling on land, 16 parts transpire or evaporate, leaving
 parts from horizontal advection -- where forests intervene. The
 practical application is to provide surface storage and soil storage
 of water, reducing runoff and establishing forests.
-
 ## See Also
 
-- [[permaculture-cold-climate-strategies]]
+- permaculture-cold-climate-strategies
 - [[permaculture-climate-zones]]
 - [[mollison-climate-site-analysis-permaculture]]
+- [[permaculture-design]]
+- [[water-conservation]]
+- [[bill-mollison]]

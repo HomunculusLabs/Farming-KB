@@ -1,21 +1,22 @@
 ---
-title: Constructed Wetland Design for Contaminant Treatment
+title: comparison-constructed-wetland-vs-backyard-pond Design for Contaminant Treatment
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 
 # Constructed Wetland Design for Contaminant Treatment
 
-Constructed wetlands are engineered systems designed to utilize the natural processes involving wetland vegetation, soils, and their associated microbial assemblages to treat contaminated water.
+[[comparison-constructed-wetlands-vs-bioswales]] are engineered systems designed to utilize the natural processes involving wetland vegetation, soils, and their associated microbial assemblages to treat contaminated water.
 
-These systems have evolved from simple wastewater treatment applications to complex, multi-functional ecosystems capable of treating a wide range of contaminants including organic pollutants, metals, nutrients, and pathogens.
+These systems have evolved from simple [[mollison-designers-wastewater-treatment-wetlands]] applications to complex, multi-functional ecosystems capable of treating a wide range of contaminants including organic pollutants, metals, nutrients, and pathogens.
 
-This page focuses on the design principles and engineering considerations for constructed wetland treatment systems, complementing the broader discussion in [[phytoremediation-mechanisms]] and [[fungal-bacterial-coculture-bioremediation]] describes the synergistic relationships between bacteria and fungi that contribute to organic pollutant degradation in wetland environments.
+This page focuses on the [[holmgren-permaculture-twelve-design-principles-framework]] and engineering considerations for constructed wetland treatment systems, complementing the broader discussion in [[phytoremediation-mechanisms]] and fungal-bacterial-coculture-bioremediation describes the synergistic relationships between bacteria and fungi that contribute to organic pollutant degradation in wetland environments.
 
-[[fungal-pah-degradation-mechanisms]], fungal communities in wetlands contribute to PAH degradation through ligninolytic enzyme production.
+fungal-pah-degradation-mechanisms, [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] in wetlands contribute to PAH degradation through ligninolytic [[ligninolytic-enzyme-production-bioremediation]].
 
 Wetlands for textile dye treatment, as discussed in [[acid-mine-drainage-treatment]], use limestone and organic substrates to neutralize acidity and precipitate metals from AMD.
 
@@ -97,4 +98,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

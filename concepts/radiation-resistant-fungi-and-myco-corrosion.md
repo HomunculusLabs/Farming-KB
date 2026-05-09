@@ -18,7 +18,7 @@ type: concept
 
 Certain fungi demonstrate remarkable tolerance to ionizing radiation and
 radioactive contamination, colonizing environments that would be lethal to
-most organisms. This radiation resistance has important implications for
+most organisms. This [[bacillus-pumilus-radiation-resistance-surface-decontamination]] has important implications for
 nuclear waste management, bioremediation of contaminated sites, and
 understanding the limits of fungal survival in extreme environments.
 
@@ -110,7 +110,7 @@ conditions:
 - **DNA repair mechanisms** enable recovery from radiation-induced damage
 - **Antioxidant systems** including enzymes and metabolites that neutralize
   reactive oxygen species
-- **Protective cell wall structures** with mycosporines and thickened walls
+- **Protective [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] structures** with mycosporines and thickened walls
 - **Mucilaginous extracellular polysaccharides** that may provide physical
   shielding and microenvironment buffering
 

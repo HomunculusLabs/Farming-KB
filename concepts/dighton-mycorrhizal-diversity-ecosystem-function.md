@@ -1,5 +1,5 @@
 ---
-title: "Mycorrhizal Diversity and Ecosystem Function"
+title: "dighton mycorrhizal diversity ecosystem function and Ecosystem Function"
 created: 2026-04-26
 tags:
   - mycology
@@ -20,7 +20,7 @@ type: concept
 
 The relationship between [[fungal-ecology]], with
 significant implications for understanding how
-fungal-biodiversity|biodiversity supports ecosystem processes.
+fungal-biodiversity|biodiversity supports [[fungal-ecosystem-processes-overview]].
 Research has demonstrated that the diversity of mycorrhizal fungal
 partners on plant roots can significantly influence plant growth,
 nutrient acquisition, and community dynamics, though the nature and
@@ -68,13 +68,13 @@ showed significant short-term effects on shoot growth and root length.
 The ectomycorrhizal fungus Hebeloma leucosarx had high colonization
 and improved host plant growth over a longer term.
 
-Arbuscular mycorrhizal colonization resulted in higher shoot
+Arbuscular [[arbuscular-mycorrhizal-colonization-patterns]] resulted in higher shoot
 phosphorus uptake, shoot growth, root growth, and response duration in
 plants collected in December versus March, while the ectomycorrhizal
 and nonmycorrhizal treatments showed no seasonal difference. The
-differential effects relate to nutrient availability at different times
+differential effects relate to [[ph-and-nutrient-availability-garden-soils]] at different times
 of the year and the functional differences between [[fungal-adaptations-environmental-gradients]]. This complementarity is
-analogous to the resource partitioning described for plant communities
+analogous to the [[fungal-resource-partitioning-decomposition-sequences]] described for plant communities
 and may explain why diverse mycorrhizal communities often support
 greater plant productivity.
 
@@ -106,5 +106,9 @@ development.
 Dighton et al. (2000) showed that localized patches of leaf litter of
 different sizes on the New Jersey pine barrens forest floor supported
 different ectomycorrhizal communities. Larger litter patches contained
-a higher proportion of oak leaves, altering resource quality and soil
+a higher proportion of oak leaves, altering [[fungal-decomposition-resource-quality-determinants]] and soil
 chemistry, which in turn influenced the mycorrhizal species composition
+
+## See Also
+
+- [[dighton-ectomycorrhizal-hartig-net-structure-function]]

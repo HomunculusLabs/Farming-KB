@@ -1,5 +1,5 @@
 ---
-title: "bacillus thuringiensis"
+title: "cervantes-bacillus-thuringiensis-bt-control"
 created: 2026-04-28
 type: species
 tags:
@@ -55,7 +55,7 @@ sources:
 1. **Ingestion:** Insect larva consumes Cry protein (protoxin) on treated foliage or in Bt crop tissue
 2. **Solubilization:** Protoxin dissolves in the alkaline midgut environment (pH 8–11 in most Lepidoptera)
 3. **Proteolytic activation:** Gut proteases (trypsin, chymotrypsin) cleave protoxin into active ~60 kDa toxin fragment
-4. **Receptor binding:** Activated toxin binds specifically to cadherin-like proteins, aminopeptidase-N, or alkaline phosphatase receptors on midgut brush border membrane
+4. **[[tihkal-receptor-binding-serotonin]]:** Activated toxin binds specifically to cadherin-like proteins, aminopeptidase-N, or alkaline phosphatase receptors on midgut brush border membrane
 5. **Oligomerization and insertion:** Toxin monomers oligomerize, insert into the membrane, and form cation-selective pores
 6. **Cell lysis:** Ion imbalance → cell swelling → lysis of midgut epithelial cells
 7. **Septicemia:** Gut bacteria invade hemocoel → septicemia → larval death (typically within 24–72 hours)
@@ -67,7 +67,7 @@ sources:
 - Ubiquitous soil bacterium found on every continent, including Antarctica
 - Isolated from: soil, leaf surfaces (phyllosphere), aquatic environments, grain dust, stored products, insect cadavers
 - Particularly abundant in agricultural soils and habitats with high insect populations
-- Environmental persistence: spores persist in soil for months to years; vegetative growth is transient
+- Environmental persistence: spores persist in soil for months to years; [[cannabis-vegetative-growth-stage]] is transient
 
 ## Subspecies and Major Strains
 
@@ -82,11 +82,11 @@ sources:
 
 ## Agricultural [[integrated-pest-management]] (IPM) programs
 - **Resistance management:** High-dose/refuge strategy mandated by EPA; stacked/pyramided traits (multiple Cry genes) delay resistance evolution
-- Compatibility with biological control: minimal impact on parasitoids, predators, and pollinators
+- Compatibility with [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]: minimal impact on parasitoids, predators, and pollinators
 
 ## Safety Profile
 
-- Non-toxic to mammals, birds, fish, amphibians, and most beneficial insects
+- Non-toxic to mammals, birds, fish, amphibians, and most [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - Cry protoxins require alkaline gut pH for solubilization and activation — mammalian stomach is acidic (pH 1.5–3.5)
 - US EPA toxicity classification: Category IV (practically non-toxic) for acute oral, dermal, and inhalation exposure
 - No evidence of carcinogenicity, mutagenicity, or reproductive toxicity
@@ -97,7 +97,7 @@ sources:
 
 ## Production and Formulation
 
-- Industrial production via submerged fermentation in large-scale bioreactors (10,000–100,000 L)
+- Industrial production via [[cancer-medicinal-mushrooms-submerged-fermentation-production]] in large-scale bioreactors (10,000–100,000 L)
 - Fermentation yields a mixture of spores, crystal proteins, and cell debris
 - After fermentation: centrifugation, concentration, drying, and milling
 - Formulation types:
@@ -123,5 +123,7 @@ sources:
 - Some strains colonize plant roots as endophytes, providing systemic protection
 - Plant growth-promoting properties reported in some strains: [[query-how-do-legumes-add-nitrogen-to-soil]]
 - Horizontal gene transfer of cry plasmids to B. cereus and other soil bacteria occurs [[integrated-pest-management]]
-- [[permaculture]]
+- permaculture
 - soil arthropods
+## See Also
+- [[soil-arthropods]]

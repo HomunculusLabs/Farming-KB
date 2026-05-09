@@ -25,7 +25,7 @@ A tree is broadly composed of three biomass zones:
 2. **The detritus and humus** (the tree at the soil surface boundary)
 3. **The roots and root associates** (the underground tree)
 
-The living tree stands in a zone of decomposition. Much of what it sheds is transferred, reborn, transported, or reincarnated into grasses, bacteria, fungus, insect life, birds, and mammals. When a squirrel buries an acorn and forgets to recover 80% of them, it acts as the planting agent of the oak. When mycorrhizal fungi intercede with water, soil, and atmosphere to manufacture cell nutrients for the tree, they function as its digestive system. See [[permaculture-windbreak]].
+The living tree stands in a zone of decomposition. Much of what it sheds is transferred, reborn, transported, or reincarnated into grasses, bacteria, fungus, insect life, birds, and mammals. When a squirrel buries an acorn and forgets to recover 80% of them, it acts as the planting agent of the oak. When [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] intercede with water, soil, and atmosphere to manufacture cell nutrients for the tree, they function as its digestive system. See permaculture-windbreak.
 
 ## Temperature Interactions
 
@@ -52,7 +52,7 @@ Windstreams flowing over a forest are partly deflected over (60%) and partly abs
 
 ### Rehumidification
 
-Forests are cloud-makers. They return 75% of water to air, producing 50% of their own rain. A large evergreen such as *Eucalyptus globulus* may pump 3,600-4,500 litres of water per day. Forested areas return ten times as much moisture as bare ground and twice as much as grasslands. Deforestation in an upwind direction can cause drought downwind -- a finding Mollison calls critical and that "no government can ignore."
+Forests are cloud-makers. They return 75% of water to air, producing 50% of their own rain. A large evergreen such as *Eucalyptus globulus* may pump 3,600-4,500 litres of water per day. Forested areas return ten times as much moisture as [[savory-bare-ground-and-soil-exposure]] and twice as much as grasslands. Deforestation in an upwind direction can cause drought downwind -- a finding Mollison calls critical and that "no government can ignore."
 
 ### Snow and Meltwater
 
@@ -80,16 +80,16 @@ Mollison is unequivocal: "Without trees, we cannot inhabit the earth. Without tr
 - Never cut forest edges -- they are essential permanent protection
 - Understand that trees are long-term investments whose benefits accumulate over decades
 
-Tree energy transactions connect to [[permaculture-water-strategies]], and [[arid-landscape-permaculture]]
-- [[guild-design-methodology]]
-- [[forests-in-permaculture]]
+Tree energy transactions connect to permaculture-water-strategies, and arid-landscape-permaculture
+- guild-design-methodology
+- forests-in-permaculture
 - [[permaculture-design]]
 
 ## Merged: Mollison Trees Energy Transactions
 
 # Mollison's Trees and Their Energy Transactions
 
-Chapter 6 of Permaculture: A Designers' Manual presents trees as the most complex and beneficial elements in any landscape design. Mollison argues that trees are not merely timber or fruit producers but active transformers of energy, moderators of climate, builders of soil, and creators of the conditions that make all other life possible. Understanding tree-environment interactions is essential to competent permaculture design.
+Chapter 6 of Permaculture: A Designers' Manual presents trees as the most complex and beneficial elements in any landscape design. Mollison argues that trees are not merely timber or fruit producers but active transformers of energy, moderators of climate, builders of soil, and creators of the conditions that make all other life possible. Understanding tree-environment interactions is essential to competent [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]].
 
 ## The Rain Tree: Trees and Water
 
@@ -113,12 +113,18 @@ Forests provide a nutrient net for materials blown by wind or gathered by birds 
 
 ## The Tree as a Cooperative System
 
-Mollison presents the tree not as an isolated organism but as the center of a guild, a community of plants and animals involved in complex chemical exchanges. Mycorrhiza trade nutrients between roots. Leguminous companions fix nitrogen. Birds are messengers, distributors of seed, and distributors of nutrients. Animals are interactors. Chemical messages pass between species. The tree itself is a transformer, a translator of gases, liquids, and solids, converting solar energy into biomass, atmospheric carbon into wood, and soil minerals into edible products.
+Mollison presents the tree not as an isolated organism but as the center of a guild, a community of plants and animals involved in complex chemical exchanges. Mycorrhiza trade nutrients between roots. Leguminous companions [[query-how-to-fix-nitrogen-toxicity-in-cannabis]]. Birds are messengers, distributors of seed, and distributors of nutrients. Animals are interactors. Chemical messages pass between species. The tree itself is a transformer, a translator of gases, liquids, and solids, converting [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] into biomass, atmospheric carbon into wood, and soil minerals into edible products.
 
 ## Wind Effects on Trees: The Griggs and Putnam Index
 
-Mollison provides a practical field guide for assessing wind effects based on tree deformation. The scale runs from class 0 (no deformation) through brushing, slight flagging, moderate flagging, strong flagging, partial throw, complete throw, to the final class of creeping prostrate growth. Each class corresponds to a range of mean annual wind speeds. When designers visit any site, older trees are the best guide to local wind conditions. Trees indicate wind direction and intensity, informing placement of windbreaks, buildings, and wind machines.
+Mollison provides a practical [[ghouled-field-guide-historical-context]] for assessing wind effects based on tree deformation. The scale runs from class 0 (no deformation) through brushing, slight flagging, moderate flagging, strong flagging, partial throw, complete throw, to the final class of creeping prostrate growth. Each class corresponds to a range of mean annual wind speeds. When designers visit any site, older trees are the best guide to local wind conditions. Trees indicate wind direction and intensity, informing placement of windbreaks, buildings, and wind machines.
 
 ## Forests and Fire
 
 Mollison addresses the complex relationship between forests and fire. Dense forests create humid microclimates that resist fire spread, while degraded or monocultural forests are more vulnerable. Strategic placement of fire-resistant species, maintenance of forest edges, and creation of fuel breaks using earthworks and water features are all design responses to fire risk.
+## See Also
+- [[decomposition]]
+- [[eucalyptus-globulus]]
+- [[water-management]]
+- [[permaculture-design]]
+- [[water-conservation]]

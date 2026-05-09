@@ -16,7 +16,7 @@ sources:
   - Jose, S. (2009). "Black Walnut (Juglans nigra L.): Ecological and Agroforestry Perspectives." Agroforestry Systems.
   - Rietveld, W.J. & Schreiber, J.D. (2011). "Juglone toxicity and its role in black walnut allelopathy." Journal of Chemical Ecology.
   - Toensmeier, E. (2016). The Carbon Farming Solution. Chelsea Green.
-  - Jacke, D. & Toensmeier, E. (2005). Edible Forest Gardens. Chelsea Green.
+  - Jacke, D. & Toensmeier, E. (2005). Edible [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]. Chelsea Green.
   - Cappiello, P. & Dirr, M.A. (1998). "Juglans nigra." The Manual of Woody Landscape Plants.
 created: 2026-04-28
 ---
@@ -25,7 +25,7 @@ created: 2026-04-28
 
 ## Overview
 
-Black walnut is a large deciduous tree native to eastern North America, valued for its high-quality timber, edible nuts, and its role in agroforestry and permaculture systems. The species is famous for producing **juglone** (5-hydroxy-1,4-naphthoquinone), an allelopathic compound that suppresses the growth of many plant species growing beneath its canopy — a property that makes black walnut both a challenging companion plant and a powerful weed management tool. Black walnut is one of the most economically valuable native North American trees, with premium timber commanding among the highest prices of any temperate hardwood.
+Black walnut is a large deciduous tree native to [[polypore-fungi-eastern-north-america]] America, valued for its high-quality timber, edible nuts, and its role in agroforestry and permaculture systems. The species is famous for producing **juglone** (5-hydroxy-1,4-naphthoquinone), an allelopathic compound that suppresses the growth of many plant species growing beneath its canopy — a property that makes black walnut both a challenging companion plant and a powerful weed management tool. Black walnut is one of the most economically valuable native [[growing-gourmet-north-american-reishi-species]] trees, with premium timber commanding among the highest prices of any temperate hardwood.
 
 ## Taxonomy and Identification
 
@@ -74,7 +74,7 @@ Juglone (5-hydroxy-1,4-naphthoquinone) is a phytotoxic compound produced by blac
 ### Mechanism of Action
 
 Juglone acts as an **oxidation-reduction (redox) cycling agent** that interferes with cellular respiration:
-1. Juglone enters plant cells and inhibits mitochondrial electron transport chain activity
+1. Juglone enters plant cells and inhibits mitochondrial electron [[electron-transport-chain-mitochondrial-respiration]] activity
 2. Specifically disrupts **NADH dehydrogenase** (Complex I) and **NADH-cytochrome c reductase** (Complex III)
 3. This inhibits ATP production and generates damaging reactive oxygen species (ROS)
 4. Sensitive plants develop chlorosis, wilting, stunted growth, and eventually die
@@ -96,7 +96,7 @@ Many common garden plants are highly sensitive to juglone:
 
 ### Juglone-Tolerant Plants (CAN grow near black walnut)
 
-Species that tolerate juglone are the key to successful black walnut companion planting:
+Species that tolerate juglone are the key to successful black walnut [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:
 **Vegetables:** Corn, beans (lima, snap), onions, garlic, beets, carrots, parsnips, melons, squash, soybeans
 **Fruits:** Black raspberry, elderberry, pawpaw, persimmon, currants, gooseberries, quince, mulberry, serviceberry
 **Herbs:** Mint, lemon balm, chives, oregano, thyme, bee balm, yarrow
@@ -131,21 +131,19 @@ Black walnut is among the most valuable North American hardwoods:
 - **Kernel:** Rich, distinctive, pungent flavor; higher in oil and protein than English walnut
 - **Oil content:** 60–70% (one of the highest oil contents among tree nuts)
 - **Nutritional value:** High in omega-3 fatty acids (α-linolenic acid), protein, magnesium, phosphorus, and antioxidants
-- **Flavor:** Stronger, more complex, and more earthy than English walnut; prized for baking and confectionery
-
-### Yield
-
-- **Bearing age:** 10–15 years from seed; 5–8 years from grafted trees
 ## See Also
+
+- [[juglans-cinerea]]
+- [[vietnam-black]]
 
 - [[juglans-nigra]]
 
 - juglone — The allelopathic compound produced by black walnut
 - allelopathy — The broader phenomenon of plant chemical interference
 - english walnut — The commercial walnut species with low juglone
-- [[silvopasture]] — Integrating trees with livestock grazing
+- [[silvopasture]] — Integrating trees with [[savory-livestock-grazing-planning]]
 - walnut timber — Detailed guide to black walnut timber management and valuation
 
 ## See Also
 
-- [[nut-tree-cultivation-for-permaculture-food-forests]]
+- gaias-garden-nut-trees-home-garden

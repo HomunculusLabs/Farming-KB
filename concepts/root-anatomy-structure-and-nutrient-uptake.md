@@ -1,5 +1,5 @@
 ---
-title: Root Anatomy Structure and Nutrient Uptake
+title: Root root anatomy structure and nutrient uptake and plant-nutrient-uptake-mechanisms
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -51,7 +51,7 @@ Mucilage serves multiple functions:
 - **Acid action**: Mucilage contains acids that dissolve phosphorus, which then diffuses through it to the root
 - **Microbe management**: Plant exudates in the mucilage attract specific microbial communities
 
-Some plants take up more metals than others due to the specific makeup of their root mucilage mixture. Mucilage is also involved in signaling to the plant to adjust its microbial community when nutrient needs change.
+Some plants take up more metals than others due to the specific makeup of their root mucilage mixture. Mucilage is also involved in signaling to the plant to adjust its [[edaphic-factors-microbial-community-structure]] when nutrient needs change.
 
 ## Cross Section of a Root
 
@@ -79,7 +79,7 @@ A thin layer just inside the endodermis. Pericycle cells retain the ability to d
 ### Vascular Tissue
 At the center of the root:
 - **Xylem**: Transports water and dissolved nutrients upward from root hairs through the stem to the leaves
-- **Phloem**: Carries sugars and organic compounds from leaves down to the roots for use or storage, or back up from root storage cells
+- **Phloem**: Carries sugars and [[fungal-volatile-organic-compounds-communication]] from leaves down to the roots for use or storage, or back up from root storage cells
 
 ## Monocot vs Dicot Root Structure
 
@@ -93,7 +93,7 @@ The rhizosphere is the zone of soil immediately influenced by root secretions an
 - Dead root cells
 - The microbial community these attract
 
-The rhizosphere is where most nutrient cycling and uptake occurs. Mycorrhizal fungi extend the effective reach of the rhizosphere dramatically.
+The rhizosphere is where most [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and uptake occurs. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] extend the effective reach of the rhizosphere dramatically.
 
 ## Related Topics
 

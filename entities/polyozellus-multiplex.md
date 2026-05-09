@@ -27,7 +27,7 @@ Polyozellus multiplex, commonly called the blue chanterelle, is a striking
 edible fungus in the family Thelephoraceae. Despite its common name, it is
 not a true chanterelle (*Cantharellus*) but belongs to the tooth fungus
 lineage (Thelephorales). It is notable for its intense blue to blue-black
-coloration and its production of bioactive compounds including thelephoric
+coloration and its production of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] including thelephoric
 acid and polyozellin.
 
 Found primarily in old-growth coniferous forests of the Pacific Northwest
@@ -46,7 +46,7 @@ immunomodulatory and anti-inflammatory properties.
 - **Species:** *P. multiplex* (Underw.) Murrill (basionym:
   *Thelephora multiplex* Underw., 1899)
 
-**Fruiting body:** Compound and brain-like, 5–25 cm (rarely up to 40 cm)
+**[[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]:** Compound and brain-like, 5–25 cm (rarely up to 40 cm)
 in total extent, consisting of multiple fused caps arising from a common
 base. Individual caps are 2–8 cm wide, fan-shaped to spatulate, with
 wavy, lobed margins.
@@ -64,7 +64,7 @@ Fibrous texture.
 **Odor and taste:** Odor mild to slightly fruity; taste mild, slightly
 astringent when raw.
 
-**Spore print:** Pale pink to flesh-colored.
+**[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Pale pink to flesh-colored.
 
 **Spores:** Ellipsoid, 6–9 × 5–7 µm, finely warted (echinulate), brown
 in Melzer's reagent (dextrinoid).
@@ -84,7 +84,7 @@ northeastern China).
 especially Douglas-fir (*Pseudotsuga menziesii*), western hemlock
 (*Tsuga heterophylla*), spruce (*Picea* spp.), and fir (*Abies* spp.).
 Found in old-growth and mature coniferous forests, often on well-decayed
-woody debris or humus-rich forest floors.
+[[fungal-succession-woody-debris-ecology]] or humus-rich forest floors.
 
 **Fruiting season:** July through October. Prefers cool, wet
 conditions typical of Pacific Northwest autumns. Often fruits in the
@@ -96,7 +96,7 @@ or buried roots; mycelium is primarily mycorrhizal.
 ## Bioactive Compounds
 
 *P. multiplex* has attracted significant research interest for its
-unique secondary metabolites:
+unique [[antifungal-secondary-metabolites-coprophilous-fungi]]:
 
 - **Thelephoric acid:** A polyphenolic compound with potent antioxidant
   and anti-inflammatory activity. Inhibits acetylcholinesterase (AChE)
@@ -112,7 +112,7 @@ unique secondary metabolites:
   polyphenolic content of fruiting body extracts.
 
 **Note:** While promising in vitro, none of these compounds have
-advanced to clinical trials.
+advanced to [[mushroom-cancer-clinical-trials-overview]].
 
 ## Edibility and Culinary Use
 

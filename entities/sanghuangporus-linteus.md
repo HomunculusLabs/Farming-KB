@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Dai, Y.C. et al. (2017). "Sanghuangporus gen. nov. (Polyporales) for the medicinal species previously known as Sanghuang." Mycoscience, 58(3), 153-162.
-  - Wu, S.H. et al. (2012). "Sanghuang: the medicinal mushroom Phellinus and allied genera." Fungal Science, 27(1), 1-16.
+  - Wu, S.H. et al. (2012). "Sanghuang: the [[gourmet-medicinal-mushroom-casing-layer-techniques]] Phellinus and allied genera." Fungal Science, 27(1), 1-16.
   - Wang, X.M. & Zhang, M. (2018). "Antitumor polysaccharides from mushrooms: a review on their extraction, structure, and functional properties." Journal of Functional Foods, 52, 458-471.
   - Cui, B.K. et al. (2019). "Species diversity and phylogeny of Sanghuangporus (Hymenochaetaceae, Basidiomycota)." MycoKeys, 54, 1-25.
   - Index Fungorum. "Sanghuangporus linteus (Berk.) T. Wagner & M. Fisch." www.indexfungorum.org.
@@ -26,7 +26,7 @@ created: 2026-04-28
 
 Sanghuangporus linteus is a perennial polypore fungus in the family Hymenochaetaceae, one of the species collectively known as "sanghuang" in Traditional Chinese Medicine. The species has a long history of medicinal use spanning over two millennia in East Asia, where it has been employed as a hemostatic, diuretic, and anti-inflammatory remedy.
 
-Modern pharmacological research has revealed potent immunomodulatory, antitumor, and antioxidant activities attributed to its β-glucan polysaccharides and triterpenoid compounds. It is one of the most commercially valuable medicinal mushrooms in China, Korea, and Japan.
+Modern pharmacological research has revealed potent immunomodulatory, antitumor, and antioxidant activities attributed to its β-glucan polysaccharides and triterpenoid compounds. It is one of the most commercially valuable [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] in China, Korea, and Japan.
 
 ## Taxonomy and Morphology
 
@@ -42,7 +42,7 @@ Sanghuangporus linteus is widely distributed across tropical and subtropical reg
 
 The species is a white-rot saprotroph that colonizes dead or moribund hardwoods. Preferred hosts include mulberry (Morus alba), oak (Quercus spp.), cinnamon (Cinnamomum spp.), and various fruit trees. In the wild, fruiting bodies develop slowly over months to years on standing dead trunks or fallen logs in humid forests.
 
-Sanghuang has become extremely rare in the wild due to overharvesting, as wild-collected specimens command premium prices. Most commercial material is now produced through artificial cultivation.
+Sanghuang has become extremely rare in the wild due to overharvesting, as wild-collected specimens command premium prices. Most commercial material is now produced through [[fukuoka-matsutake-artificial-cultivation-attempt]].
 
 ## Bioactive Compounds
 
@@ -66,11 +66,11 @@ The species exhibits significant antioxidant activity through free radical scave
 
 ## Cultivation
 
-Artificial cultivation of S. linteus has been achieved on various lignocellulosic substrates including sawdust of mulberry, oak, and poplar supplemented with wheat bran and rice bran. Optimal mycelial growth occurs at 28–32°C with pH 5.5–6.5.
+Artificial cultivation of S. linteus has been achieved on various lignocellulosic substrates including sawdust of mulberry, oak, and poplar supplemented with wheat bran and rice bran. Optimal [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] occurs at 28–32°C with pH 5.5–6.5.
 
-Solid-state cultivation on logs is also practiced. Inoculated logs are incubated in shaded, humid environments for 12–18 months before fruiting. Submerged fermentation for mycelial biomass and polysaccharide production has been optimized in bioreactor systems, offering a more rapid and controllable production method.
+Solid-state cultivation on logs is also practiced. Inoculated logs are incubated in shaded, humid environments for 12–18 months before fruiting. Submerged fermentation for mycelial biomass and polysaccharide production has been optimized in bioreactor systems, offering a more rapid and controllable [[clay-seed-pellet-production-method-concrete-mixer]].
 
-Yields of fruiting bodies from artificial cultivation remain lower than those of more domesticated species like Lentinula edodes, which contributes to the high market price. Research into improving cultivation parameters and strain selection is ongoing.
+Yields of fruiting bodies from artificial cultivation remain lower than those of more domesticated species like [[staycare-lentinula-edodes-in-bioremediation]], which contributes to the high market price. Research into improving cultivation parameters and strain selection is ongoing.
 
 Submerged liquid fermentation has emerged as a cost-effective alternative for producing mycelial biomass and exopolysaccharides at commercial scale. Bioreactor systems can achieve biomass yields of 15–25 g/L dry weight within 7–10 days, with polysaccharide productivity exceeding 2 g/L/day under optimized conditions.
 
@@ -113,3 +113,5 @@ The species contributes to forest health by facilitating nutrient turnover and c
 - [[ganoderma-applanatum]]
 - [[grifola-frondosa]]
 - [[hericium-erinaceus]]
+
+- [[sanghuangporus-cottoneus]]

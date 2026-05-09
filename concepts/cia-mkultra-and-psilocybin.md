@@ -8,7 +8,7 @@ tags: [reference]
 ---
 # CIA MKULTRA and Psilocybin
 
-The involvement of the United States Central Intelligence Agency with psilocybin represents one of the most unsettling episodes in the history of psychedelic research. As Simon G. Powell documents in "The Psilocybin Solution," the CIA's covert interest in sacred mushrooms emerged almost simultaneously with legitimate scientific investigation, creating a counter-current to psilocybin's spiritual mystique that would ultimately contribute to the substance's prohibition.
+The involvement of the United States Central Intelligence Agency with psilocybin represents one of the most unsettling episodes in the history of [[mckenna-suppression-psychedelic-research-lsd-therapy]]. As Simon G. Powell documents in "The [[powell-psilocybin-solution-ecological-cognition-theory]]," the CIA's covert interest in sacred mushrooms emerged almost simultaneously with legitimate scientific investigation, creating a counter-current to psilocybin's spiritual mystique that would ultimately contribute to the substance's prohibition.
 
 ## Project MKULTRA and the Search for Mind Control
 
@@ -18,7 +18,7 @@ The CIA's interest in psychedelics was not purely academic. The agency sought su
 
 ## Subproject 58: The CIA's Quest for the Sacred Mushroom
 
-After learning of [Gordon Wasson's 1955 experiences with psilocybin mushrooms among the Mazatec people of Mexico, an unscrupulous chemist named James Moore began working undercover for the CIA. Moore craftily wrote to Wasson informing him that he knew of a foundation willing to finance another Mexican expedition to bring back samples of the legendary mushrooms.
+After learning of [Gordon Wasson's 1955 experiences with [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] among the Mazatec people of Mexico, an unscrupulous chemist named James Moore began working undercover for the CIA. Moore craftily wrote to Wasson informing him that he knew of a foundation willing to finance another Mexican expedition to bring back samples of the legendary mushrooms.
 
 Moore claimed that, as a chemist, he simply wanted to study the chemical structure of the mushroom's active constituents. The foundation was the CIA-backed Geschwickter Fund for Medical Research, offering a $2000 grant. Wasson, unaware of the CIA connection, accepted the offer.
 
@@ -42,7 +42,7 @@ Heim sent his cultivated samples to Albert Hofmann at Sandoz laboratories in Swi
 
 Having failed in his original task, Moore was not terminated but later applied directly to Sandoz for a supply of psilocybin. The CIA maintained their clumsy interest in using the compound as an agent for mind-control. The agency soon began covertly testing psilocybin on unsuspecting American prisoners — not the best subjects when it comes to possessing a stable, healthy psyche.
 
-As the prisoners reported bizarre and unpredictable experiences, it became clear that psilocybin could not enter the CIA's arsenal. It was, as Powell puts it, "just too darn unpredictable." The compound's effects were too dependent on set and setting, too variable between individuals, and too inclined toward producing mystical or visionary experiences rather than compliant or suggestible states.
+As the prisoners reported bizarre and unpredictable experiences, it became clear that psilocybin could not enter the CIA's arsenal. It was, as Powell puts it, "just too darn unpredictable." The compound's effects were too dependent on [[lsd-set-and-setting-framework]], too variable between individuals, and too inclined toward producing mystical or visionary experiences rather than compliant or suggestible states.
 
 Thankfully, the CIA then turned their belligerent attention elsewhere, though their broader involvement with LSD continued for years under MKULTRA and related programs such as [Operation Midnight Climax and various unwitting dosing experiments on civilian populations.
 
@@ -58,7 +58,7 @@ Third, the agency's failed attempt to weaponise psilocybin ironically demonstrat
 
 ## The Contrast Between Intelligence Agencies and Intelligence
 
-Powell draws a sharp contrast between two kinds of intelligence operating in this history. The CIA represented a form of human intelligence bent on domination, secrecy, and control. The mushrooms, by contrast, seemed to represent what Powell elsewhere calls Natural Intelligence — a form of planetary wisdom distributed through the biosphere.
+Powell draws a sharp contrast between two kinds of intelligence operating in this history. The CIA represented a form of human intelligence bent on domination, secrecy, and control. The mushrooms, by contrast, seemed to represent what Powell elsewhere calls [[powell-natural-intelligence-and-the-universal-computation]] — a form of planetary wisdom distributed through the biosphere.
 
 The CIA's failure to capture and weaponise psilocybin can be read as a kind of parable. The compound, as a product of Nature, was not amenable to being turned against Nature's own purposes. As Powell suggests, psilocybin's proper function is educational and integrative, connecting human consciousness to the larger intelligence of the [natural world.
 
@@ -87,7 +87,7 @@ Ken Kesey, who would later become a key figure in the psychedelic counterculture
 The irony of MKULTRA inadvertently seeding the counterculture it sought to suppress is a recurring theme in psychedelic history.
 See [[lsd-discovery-and-history]] — CIA experiments with LSD
 - [[psychedelic-prohibition-and-the-war-on-consciousness]] — The broader prohibition movement
-- [[sacred-sacrament-mushroom-rites]] — Maria Sabina and Mazatec mushroom ceremonies
+- [[sacred-sacrament-mushroom-rites]] — Maria Sabina and [[maria-sabina-mazatec-mushroom-ceremony]] ceremonies
 - albert hofmann — The chemist who isolated psilocybin
 - [[philosophical-implications-of-psychedelics]] — Modern psychedelic research advocacy
 - simon powell — Author of "The Psilocybin Solution"

@@ -1,5 +1,5 @@
 ---
-title: Hamilton: Garden Layout — Beds, Borders, Paths, and Terraces
+title: Hamilton: hamilton garden layout beds borders paths — Beds, Borders, Paths, and Terraces
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Hamilton: Garden Layout — Beds, Borders, Paths, and Terraces
 
-**Source:** Geoff Hamilton, *Organic Gardening* (Nick Hamilton edition)
+**Source:** Geoff Hamilton, *[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]* (Nick Hamilton edition)
 
 **Updated:** 2026-04-18
 
@@ -43,7 +43,7 @@ A narrow strip of paving along the house is almost useless—too little room for
 
 The lawn area simultaneously shapes the flower borders. In cottage-garden style, use long, sweeping curves producing borders of varying widths. This makes the garden look bigger and is easier to mow.
 
-**Raised beds** can be created by removing topsoil, leveling the subsoil, replacing topsoil evenly, and building a supporting wall at the front. This is essential for terracing slopes into stepped borders.
+**[[comparison-raised-beds-vs-hugelkultur]]** can be created by removing topsoil, leveling the subsoil, replacing topsoil evenly, and building a supporting wall at the front. This is essential for terracing slopes into stepped borders.
 
 **Edging** paved areas with raised flower beds brings color to the house; edging with a hedge provides both privacy and windbreak. Allow space for softening hard surfaces with raised beds or plant-filled pots.
 
@@ -57,7 +57,7 @@ A pond attracts birds, insects, frogs, and other pest predators. Plan with round
 
 ## Utility Area
 
-Organic gardeners accumulate materials: compost bins (at least two, preferably three), a manure pile, leaf mold containers, and storage for tools, string, and recycled containers. Screen the utility area behind tall shrubs, hedging, or a trellis with fast-growing [[hamilton-lawn-care-establishment]]
+Organic gardeners accumulate materials: compost bins (at least two, preferably three), a manure pile, [[comparison-leaf-mold-composting-vs-hot-composting-method]] containers, and storage for tools, string, and recycled containers. Screen the utility area behind tall shrubs, hedging, or a trellis with fast-growing [[hamilton-lawn-care-establishment]]
 - [[hamilton-greenhouse-management-organic]]
 - [[hamilton-wildflower-meadow]]
 - [[deep-bed-cultivation]]
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

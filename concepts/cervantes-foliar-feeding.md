@@ -1,11 +1,12 @@
 ---
-title: "Cervantes - Foliar Feeding Cannabis"
+title: "Cervantes - comparison-foliar-feeding-vs-compost-tea-nutrients Cannabis"
 created: 2026-04-26
 tags: [cannabis, foliar-feeding, nutrients, deficiency, spray]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -15,7 +16,7 @@ Foliar feeding is the practice of misting fertilizer
 solution directly onto plant foliage, where nutrients
 are absorbed through the leaves. Jorge Cervantes
 describes foliar feeding as a valuable technique for
-delivering a fast fix for nutrient deficiencies and
+delivering a fast fix for [[hamilton-nutrient-deficiencies-and-treatment]] and
 supplementing regular root feeding programs.
 
 See also: [[cervantes-macronutrient-deficiency-toxicity]]
@@ -44,8 +45,8 @@ Foliar feeding is most useful in these situations:
 - **Providing immobile nutrients** such as calcium,
   boron, iron, manganese, molybdenum, and zinc that
   do not translocate well within the plant
-- **Supplemental feeding during flowering** when
-  nutrient uptake through roots slows, particularly
+- **[[savory-supplemental-feeding-and-winter-management]] during flowering** when
+  [[plant-nutrient-uptake-mechanisms]] through roots slows, particularly
   for boron, calcium, iron, and potassium
 - **Reversing foliar nitrogen** by misting mother
   plants with plain water to leach nitrogen from

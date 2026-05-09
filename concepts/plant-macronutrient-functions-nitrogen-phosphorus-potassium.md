@@ -1,5 +1,5 @@
 ---
-title: Plant Macronutrient Functions Nitrogen Phosphorus Potassium
+title: Plant plant macronutrient functions nitrogen phosphorus potassium Nitrogen solomon-phosphorus-potassium-and-secondary-nutrients
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -19,7 +19,7 @@ Nitrogen is arguably the most important mineral nutrient for plants. It serves a
 
 - **Protein synthesis**: All enzymes are proteins; nothing happens on a cellular level without them
 - **Chlorophyll**: Four nitrogen atoms in every chlorophyll molecule (C55H72MgN4O5); deficiency causes yellowing (chlorosis)
-- **Membrane transport proteins**: The channels, carriers, and motors that move nutrients into cells
+- **[[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] proteins**: The channels, carriers, and motors that move nutrients into cells
 - **DNA and RNA**: Nitrogen-based nucleotides store and translate the genetic code
 
 ### Mobility and Deficiency Symptoms
@@ -28,7 +28,7 @@ Nitrogen is mobile in plants -- it can be transported to where needed. The plant
 
 ### The Nitrogen Cycle
 
-Atmospheric nitrogen (N2, 78% of the atmosphere) is locked in extremely strong triple covalent bonds. Until the Haber-Bosch process (early 1900s), only biological nitrogen fixation by bacteria and Archaea could break these bonds:
+Atmospheric nitrogen (N2, 78% of the atmosphere) is locked in extremely strong triple covalent bonds. Until the Haber-Bosch process (early 1900s), only biological nitrogen fixation by [[teaming-with-microbes-bacteria-and-archaea-in-soil]] could break these bonds:
 
 - **Rhizobia**: Symbiotic bacteria in legume root nodules that fix atmospheric nitrogen
 - **Azotobacter**: Free-living soil bacteria that also fix nitrogen
@@ -72,7 +72,7 @@ Potassium is unique among essential nutrients: it is not a constituent of any or
 
 ### Mobility and Deficiency Symptoms
 
-Potassium is mobile in plants. Deficiency appears first in older leaves as dead spots (necrosis) -- cells die when water and mineral balance cannot be maintained. Plants low in potassium wilt because stomata cannot operate properly, allowing uncontrolled water loss.
+Potassium is mobile in plants. Deficiency appears first in older leaves as dead spots (necrosis) -- cells die when water and [[holmgren-mineral-balance-soil-fertility]] cannot be maintained. Plants low in potassium wilt because stomata cannot operate properly, allowing uncontrolled water loss.
 
 ### Potassium in Soil
 
@@ -80,7 +80,7 @@ Potassium (K+) is a cation held by negative charges on clay particles and organi
 
 ## The NPK Imbalance Problem
 
-Most synthetic fertilizers emphasize N-P-K ratios, but this can create imbalances. Plants need all 17 essential nutrients; oversupplying N-P-K can suppress uptake of micronutrients and secondary macronutrients (Ca, Mg, S). Organic approaches that feed the soil food web tend to provide a more balanced nutrient profile.
+Most synthetic fertilizers emphasize N-P-K ratios, but this can create imbalances. Plants need all 17 essential nutrients; oversupplying N-P-K can suppress uptake of micronutrients and [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]] (Ca, Mg, S). Organic approaches that feed the soil food web tend to provide a more balanced nutrient profile.
 
 ## Related Topics
 

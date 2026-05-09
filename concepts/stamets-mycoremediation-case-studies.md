@@ -3,17 +3,10 @@ title: Stamets Mycoremediation Case Studies
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[mycology, cultivation, mushrooms]
+tags: [mycology, cultivation, mushrooms]
 sources: ["papers/mycelium-running-stamets.md"]
 ---
-
-Updated: 2026-04-18
-
-## Overview
-
-Paul Stamets' work with Battelle Pacific Northwest Laboratories produced some of the most compelling evidence for fungal bioremediation. These case studies, documented in "Mycelium Running," demonstrate that mushroom mycelium can degrade a wide range of environmental contaminants at dramatically lower cost than conventional methods.
-
-Source: [[mycelium-running-multi-kingdom-bioremediation]] — fungi working with bacteria are more effective than either alone.
+Updated: 2026-04-18 ## Overview Paul Stamets' work with Battelle Pacific Northwest Laboratories produced some of the most compelling evidence for [[staycare-composting-as-a-fungal-bioremediation-strategy]]. These case studies, documented in "[[woodlovers-mycelium-running-pathway-technique]]," demonstrate that mushroom mycelium can degrade a wide range of environmental contaminants at dramatically lower cost than conventional methods. Source: [[mycelium-running-multi-kingdom-bioremediation]] — fungi working with bacteria are more effective than either alone.
 
 ***
 
@@ -21,13 +14,13 @@ Source: [[mycelium-running-multi-kingdom-bioremediation]] — fungi working with
 
 ### Textile Dye Decolorization
 
-- Shiitake mycelium (Lentinula edodes) exposed to heavy metals in dye-enriched effluents **increased laccase production**
+- Shiitake mycelium ([[staycare-lentinula-edodes-in-bioremediation]]) exposed to heavy metals in dye-enriched effluents **increased laccase production**
 - The increased enzyme activity decolorized toxic dyes while simultaneously absorbing heavy metals
-- This dual action — enzymatic degradation of organic pollutants and bioaccumulation of metals — is a key advantage of fungal remediation
+- This dual action — enzymatic degradation of organic pollutants and bioaccumulation of metals — is a key advantage of [[cotter-pet-livestock-waste-fungal-remediation-systems]]
 
 ### Heavy Metal Bioaccumulation
 
-Mycorrhizal fungi can absorb and sequester heavy metals:
+[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] can absorb and sequester heavy metals:
 - Arsenic, copper, zinc, iron, lead, cadmium, nickel, mercury, chromium, and aluminum
 - The metals are taken up into fungal tissue, preventing entry into the food chain
 - At Chernobyl, fungi were found growing on reactor walls using radioactivity as an energy source
@@ -77,7 +70,7 @@ The mycoremediation approach is elegantly simple:
 ## Key Research Citations
 
 Stamets references numerous studies supporting mycoremediation:
-- Bhatt et al. (2002) — petroleum hydrocarbon degradation
+- Bhatt et al. (2002) — [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] degradation
 - Cajthaml et al. (2002) — PAH degradation
 - Eggen and Sasek (2002) — PCP remediation with spent mushroom compost
 - Thomas et al. (1999) — petroleum degradation
@@ -90,6 +83,6 @@ Stamets references numerous studies supporting mycoremediation:
 ## Related Topics
 
 - [[ligninolytic-enzyme-systems-white-rot-fungi]]
-- [[mycoremediation-chemical-warfare-agents]]
+- mycoremediation-chemical-warfare-agents
 - [[staycare-bioavailability-pollutants-fungal-bioremediation]]
-- [[fungal-soil-remediation-persistent-pollutants]]
+- fungal-soil-remediation-persistent-pollutants

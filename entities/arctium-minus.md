@@ -25,8 +25,8 @@ sources:
 
 Arctium minus, commonly known as lesser burdock, is a biennial herbaceous
 plant in the family Asteraceae. Native to Eurasia, it has become widely
-naturalized across North America and temperate regions worldwide. The
-species is valued both as a medicinal herb (its root is used in
+naturalized across [[psilocybin-north-america-pacific-northwest]] and temperate regions worldwide. The
+species is valued both as [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] (its root is used in
 traditional European and Asian medicine) and as a practical permaculture
 plant with deep taproots for soil improvement and bioremediation.
 
@@ -87,7 +87,7 @@ grazing and cultivation.
 ## Phytochemistry
 
 The root, leaves, and seeds of *A. minus* contain a range of
-bioactive compounds, many shared with *A. lappa*:
+[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]], many shared with *A. lappa*:
 
 - **Lignans:** Arctigenin, arctiin, matairesinol, and secoisolariciresinol.
   Arctigenin demonstrates anti-inflammatory, antitumor, and
@@ -119,7 +119,7 @@ cholagogue, and hepatoprotective agent. The high inulin content
 supports digestive health and blood sugar regulation.
 
 **Evidence level:** Most uses supported by traditional evidence and
-in vitro studies. Limited clinical trials suggest benefits for mild
+in vitro studies. Limited [[mushroom-cancer-clinical-trials-overview]] suggest benefits for mild
 inflammatory skin conditions.
 
 ## Permaculture and Ecological Applications
@@ -128,10 +128,10 @@ inflammatory skin conditions.
 
 - **Deep taproot:** Penetrates compacted subsoil, bringing minerals
   (calcium, magnesium, potassium) to the surface. Functions as a
-  dynamic accumulator similar to comfrey (*Symphytum* spp.).
+  [[nutrient-dynamic-accumulator-reference]] similar to comfrey (*Symphytum* spp.).
 - **Bioremediation:** Accumulates heavy metals (lead, cadmium) from
   contaminated soils; used in phytoremediation trials.
-- **Companion planting:** Large rosettes shade soil, reducing
+- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Large rosettes shade soil, reducing
   weed competition. Flowers attract pollinators.
 - **Food source:** Roots are edible when harvested in the first year
   (before they become woody). Cooked like carrots or parsnips, or
@@ -140,6 +140,8 @@ inflammatory skin conditions.
 - **Soil building:** When slashed and used as mulch, the nutrient-rich
   foliage returns accumulated minerals to the soil surface.
 ## See Also
+
+- [[ophiostoma-minus]]
 
 - [[symphytum-officinale]] — Comfrey, another dynamic accumulator
 - [[urtica-dioica]] — Nettle, shares habitat and medicinal uses

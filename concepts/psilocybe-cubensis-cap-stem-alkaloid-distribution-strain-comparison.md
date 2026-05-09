@@ -1,5 +1,5 @@
 ---
-title: Psilocybe cubensis Cap versus Stem Alkaloid Distribution by Strain
+title: psilocybe-cubensis-cap-versus-stem-alkaloid-distribution by Strain
 source: variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 tags: [psilocybin, psilocin, psilocybe-cubensis, cap-stem, strain-comparison, alkaloid-distribution]
 created: 2026-05-08
@@ -9,12 +9,12 @@ created: 2026-05-08
 
 ## Overview
 
-A distinctive finding from the [[beug]] (1982) study was the
+A distinctive finding from the beug (1982) study was the
 differential distribution of [[psilocin]] between the cap
-(pileus) and stem (stipe) of Psilocybe cubensis fruiting bodies, and how
+(pileus) and stem (stipe) of Psilocybe [[psilocybe-cubensis-fruiting-timeline-flush-patterns-dung-grain-substrate]] bodies, and how
 this distribution varied significantly between strains. Analysis of three
 different strains — M.R., Equadorian, and Amazon — revealed that cap-stem
-distribution patterns are not uniform across the species but depend on the
+[[guzman-global-distribution-patterns-neurotropic-fungi]] are not uniform across the species but depend on the
 specific genetic lineage.
 
 ## Experimental Conditions
@@ -101,4 +101,5 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[psilocybe-cubensis]]

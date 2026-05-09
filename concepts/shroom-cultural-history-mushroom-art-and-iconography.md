@@ -1,5 +1,5 @@
 ---
-title: Mushroom Art and Iconography — Shroom
+title: psychedelic-mushroom-art-and-iconography and Iconography — Shroom
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -16,8 +16,8 @@ tags: [history, mushroom-cultivation]
 
 ### The Tassili Figure
 
-The most famous proposed mushroom art comes from the Tassili plateau of southern Algeria (Neolithic to Common Era). The image, popularised by [[shroom-cultural-history-mushroom-in-ancient-civilizations]] — The archaeological and historical evidence for ancient mushroom use
-- [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]] — The living artistic tradition of Mazatec mushroom chants
+The most famous proposed mushroom art comes from the [[mckenna-tassili-plateau-round-head-civilization]] of southern Algeria (Neolithic to Common Era). The image, popularised by [[shroom-cultural-history-mushroom-in-ancient-civilizations]] — The archaeological and historical evidence for ancient mushroom use
+- [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]] — The living artistic tradition of [[maria-sabina-mazatec-mushroom-ceremony]] chants
 ## Practical Applications
 
 Mushroom Art and Iconography — Shroom has a range of practical applications that make it relevant to
@@ -96,3 +96,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- mushroom-iconography-ancient-european-art

@@ -1,10 +1,11 @@
 ---
-title: "Sheet Mulching vs Square Foot Gardening"
+title: "comparison-sheet-mulching-vs-chop-and-drop-mulching vs comparison-biointensive-vs-square-foot-gardening Gardening"
 created: 2026-04-28
 tags: [comparison, gardening-methods, soil-building, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -16,7 +17,7 @@ bed-preparation methods designed to maximize productivity in limited
 space, but they approach garden creation from opposite directions. Sheet
 mulching builds soil in place by layering organic materials over
 existing ground, mimicking forest floor processes. Square foot gardening
-constructs contained raised beds filled with a proprietary soil mix and
+constructs contained [[comparison-raised-beds-vs-hugelkultur]] filled with a proprietary soil mix and
 organized into a precise grid system. Both eliminate traditional tilling
 and create productive growing spaces, but they differ dramatically in
 structure, cost, and management philosophy.
@@ -36,7 +37,7 @@ immediately after harvest.
 Mel's Mix is a specific soil blend of one-third vermiculite, one-third
 peat moss (or coconut coir), and one-third blended compost from multiple
 sources. This mix provides excellent drainage, moisture retention, and
-nutrient availability without the variability of native soil. Because
+[[ph-and-nutrient-availability-garden-soils]] without the variability of native soil. Because
 the mix is contained in a raised frame (typically four by four feet), it
 is free from soil compaction, weed seeds, and many soil-borne diseases.
 The system is particularly popular in urban and suburban settings where
@@ -63,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -58,9 +58,9 @@ Neuroprotective effects have been demonstrated in animal models of Alzheimer's d
 
 ## Cultivation
 
-E. grandiflorum is widely cultivated as an ornamental ground cover for shade gardens, prized for its delicate flowers and attractive spring foliage. Several cultivars are commercially available, including 'Roseum', 'Album', and 'Lilafee'.
+E. grandiflorum is widely cultivated as an ornamental [[fukuoka-citrus-orchard-ground-cover-cultivation]] for shade gardens, prized for its delicate flowers and attractive spring foliage. Several cultivars are commercially available, including 'Roseum', 'Album', and 'Lilafee'.
 
-Propagation is achieved by division of rhizomes in early spring or autumn, or by seed. Seeds require a warm-cold stratification cycle (3 weeks warm at 20°C followed by 3 months cold at 4°C) for reliable germination.
+Propagation is achieved by division of rhizomes in [[coleman-overwintered-onions-and-early-spring-crops]] or autumn, or by seed. Seeds require a warm-cold stratification cycle (3 weeks warm at 20°C followed by 3 months cold at 4°C) for reliable germination.
 
 In medicinal cultivation, plants are typically harvested at peak flowering for maximum flavonoid content. Dried aerial parts are processed into extracts standardized to icariin content (typically 10–40% icariin for commercial preparations).
 
@@ -76,7 +76,7 @@ In Japanese Kampo medicine, the dried herb (in'yoku) is used in formulations for
 
 The genus Epimedium comprises approximately 60 species distributed across temperate Asia and the Mediterranean basin. Several species are used interchangeably in commercial herbal preparations.
 
-E. sagittatum is the most widely used species in Chinese commerce, with a long history of use in southern Chinese medicine. E. brevicornum, E. wushanense, and E. koreanum are also official botanical sources listed in the Chinese Pharmacopoeia for the drug Herba Epimedii.
+E. sagittatum is the most widely used species in Chinese commerce, with a long history of use in southern Chinese medicine. E. brevicornum, E. wushanense, and E. koreanum are also official [[dmt-botanical-sources-pharmacology]] listed in the Chinese Pharmacopoeia for the drug Herba Epimedii.
 
 Comparative phytochemical analysis reveals significant variation in icariin content among species. E. brevicornum typically shows the highest total flavonoid content (2–5% icariin), while E. grandiflorum is valued for its favorable ratio of icariin to epimedin C.
 
@@ -88,15 +88,15 @@ E. grandiflorum plays a role in forest understory ecology as an early-spring blo
 
 The creeping rhizome system contributes to soil stabilization on shaded slopes and stream banks. The dense leaf canopy suppresses competing ground flora, making it an effective ground cover in ornamental landscapes.
 
-The species is moderately browsed by deer and shows some resistance to slugs and snails, contributing to its reliability as a cultivated ornamental. In its native range, it serves as a host for several specialist leaf-mining flies in the Agromyzidae family.
+The species is moderately browsed by deer and shows some resistance to [[query-how-to-get-rid-of-slugs-and-snails-organically]], contributing to its reliability as a cultivated ornamental. In its native range, it serves as a host for several specialist leaf-mining flies in the Agromyzidae family.
 
 ## Modern Research Directions
 
 Recent research has expanded beyond traditional indications to explore the anticancer potential of icariin and its metabolites. In vitro studies demonstrate inhibition of proliferation in breast, prostate, and lung cancer cell lines through cell-cycle arrest and apoptosis induction.
 
-Icaritin, the aglycone metabolite, has entered Phase II clinical trials in China for hepatocellular carcinoma. The compound shows immunomodulatory activity through enhancement of T-cell function and modulation of cytokine production.
+Icaritin, the aglycone metabolite, has entered Phase II [[mushroom-cancer-clinical-trials-overview]] in China for hepatocellular carcinoma. The compound shows immunomodulatory activity through enhancement of T-cell function and modulation of cytokine production.
 
-Metabolomic studies using LC-MS/MS have identified over 100 secondary metabolites in E. grandiflorum, including previously uncharacterized prenylated flavonoids with novel substitution patterns. These findings suggest untapped pharmacological potential in minor constituents.
+Metabolomic studies using LC-MS/MS have identified over 100 [[antifungal-secondary-metabolites-coprophilous-fungi]] in E. grandiflorum, including previously uncharacterized prenylated flavonoids with novel substitution patterns. These findings suggest untapped pharmacological potential in minor constituents.
 
 Biotechnological approaches including hairy root culture and endophytic fungus elicitation have been developed to enhance icariin production. Cell suspension cultures of E. brevicornum have achieved yields of 0.8% icariin, approaching field-harvest levels.
 

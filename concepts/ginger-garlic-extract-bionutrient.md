@@ -14,9 +14,9 @@ Ginger-garlic extract is a broad-spectrum natural antibiotic and biopesticide us
 
 ## Historical Origins in Korean Natural Farming
 
-The original Korean natural farming recipe for this preparation includes not only ginger and garlic, but also traditional Chinese medicinal herbs: Angelica acutiloba (Korean angelica or dang-gui), Glycyrrhiza uralensis (Chinese licorice), and Cinnamomum loureirii (Vietnamese cinnamon). These three herbs share a common therapeutic property — they are all excellent for digestion and gastrointestinal health. The Korean farmers who developed this preparation understood that digestive health is the foundation of overall vitality, whether in plants or animals.
+The original Korean natural farming recipe for this preparation includes not only ginger and garlic, but also traditional Chinese [[permaculture-plants-medicinal-herbs-healing]]: Angelica acutiloba (Korean angelica or dang-gui), Glycyrrhiza uralensis (Chinese licorice), and Cinnamomum loureirii (Vietnamese cinnamon). These three herbs share a common therapeutic property — they are all excellent for digestion and gastrointestinal health. The Korean farmers who developed this preparation understood that digestive health is the foundation of overall vitality, whether in plants or animals.
 
-The full five-ingredient formula represents a sophisticated integration of traditional Asian herbal medicine with agricultural practice. In the simplified Carandang method, equal amounts of ginger and garlic are used without the Chinese herbs, making the preparation accessible to farmers worldwide while retaining the core antimicrobial properties.
+The full five-ingredient formula represents a sophisticated integration of traditional Asian herbal medicine with agricultural practice. In the simplified Carandang method, equal amounts of ginger and garlic are used without the Chinese herbs, making the preparation accessible to farmers worldwide while retaining the core [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
 
 ## Allicin Chemistry: The Science Behind Garlic's Power
 
@@ -34,7 +34,7 @@ Nematicidal effects against root-knot nematodes (Meloidogyne spp.).
 
 Rapid degradation in aqueous solution, which means it acts quickly but has limited residual activity.
 
-Ginger contributes additional bioactive compounds including gingerol, shogaol, and zingerone, which have anti-inflammatory, antioxidant, and antimicrobial properties. The synergy between garlic's allicin and ginger's gingerols creates a preparation that is more effective than either ingredient alone.
+Ginger contributes additional [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] including gingerol, shogaol, and zingerone, which have anti-inflammatory, antioxidant, and antimicrobial properties. The synergy between garlic's allicin and ginger's gingerols creates a preparation that is more effective than either ingredient alone.
 
 ## Antimicrobial Spectrum
 
@@ -42,7 +42,7 @@ The ginger-garlic extract provides protection against a wide range of plant and 
 
 **Bacterial diseases:** Effective against Xanthomonas, Pseudomonas, Erwinia, and Ralstonia species — common bacterial pathogens in vegetable, fruit, and grain crops. Also effective against beneficial bacteria when over-applied, which is why proper dilution is critical.
 
-**Fungal diseases:** The sulfur compounds in garlic are potent fungicides. The extract has demonstrated efficacy against powdery mildew, downy mildew, rust, leaf spot, damping-off, and various blights. It is particularly effective as a preventive spray when applied before infection establishes.
+**Fungal diseases:** The sulfur compounds in garlic are potent fungicides. The extract has demonstrated efficacy against [[cervantes-powdery-mildew-prevention-treatment]], downy mildew, rust, leaf spot, damping-off, and various blights. It is particularly effective as a preventive spray when applied before infection establishes.
 
 **Nematodes:** Garlic-based preparations have shown nematicidal activity, particularly against root-knot nematodes. Soil drench applications can reduce nematode populations in the root zone.
 
@@ -56,7 +56,7 @@ The ginger-garlic extract provides protection against a wide range of plant and 
 
 4. **Fermentation:** Allow the mixture to ferment for 5-7 days at room temperature, loosely covered. Lactic acid bacteria naturally present on the ginger and garlic will multiply, producing lactic acid that preserves the preparation and enhances extraction of bioactive compounds. The mixture should develop a pleasant fermented aroma.
 
-5. **Alcohol stabilization:** After 5-7 days of fermentation, add alcohol of at least 40% proof (20% ABV). Vodka, soju, or vinegar-making|rice wine work well. The alcohol serves a critical function — it arrests fermentation and extracts the remaining alcohol-soluble active ingredients from the plant material, similar to how herbal tinctures are prepared in homeopathy and traditional medicine. This step is what distinguishes ginger-garlic extract from simple plant extracts.
+5. **Alcohol stabilization:** After 5-7 days of fermentation, add alcohol of at least 40% proof (20% ABV). Vodka, soju, or vinegar-making|rice wine work well. The alcohol serves a critical function — it arrests fermentation and extracts the remaining alcohol-soluble active ingredients from the plant material, similar to how [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]] are prepared in homeopathy and traditional medicine. This step is what distinguishes ginger-garlic extract from simple plant extracts.
 
 6. **Aging:** Allow the preparation to age for at least 1-2 weeks after alcohol addition. This allows full extraction and stabilization of active compounds.
 
@@ -70,7 +70,7 @@ Proper dilution is essential — the extract is highly concentrated and can be p
 
 **Soil drench:** Dilute 1:500 to 1:1000. Apply to the root zone for systemic protection and to address soil-borne pathogens and nematodes.
 
-**Livestock (chickens, poultry):** Add to drinking water at 1:1000 dilution. Used in [[fermented-plant-extract-fpe]], it provides both nutritional support and disease protection in a single foliar application.
+**Livestock (chickens, poultry):** Add to drinking water at 1:1000 dilution. Used in [[fermented-plant-extract-fpe]], it provides both nutritional support and disease protection in a single [[ultra-low-cost-foliar-application-methods]].
 
 Added to [[knf-ohn-oriental-herbal-nutrient-recipe]], it creates a comprehensive plant health program covering both preventive and therapeutic needs.
 

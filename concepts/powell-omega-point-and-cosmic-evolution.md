@@ -1,5 +1,5 @@
 ---
-title: The Omega Point and Cosmic Evolution
+title: The powell omega point and cosmic evolution and Cosmic Evolution
 created: 2026-04-28
 tags: [omega-point, teilhard-de-chardin, cosmic-evolution, eschatology,
   mckenna, attractor, consciousness-evolution]
@@ -30,7 +30,7 @@ used the term "attractor" to describe this final eschatological state.
 
 Teilhard wrote at a time when the second law of thermodynamics, which states
 that the Universe is running down toward heat death, was seen as a threat to
-life's long-term prospects. Powell argues that Natural Intelligence has
+life's long-term prospects. Powell argues that [[powell-natural-intelligence-and-the-universal-computation]] has
 engineered a creative tension within the Universal Computation which life
 must continually struggle against in order to develop, a process
 "strangely reminiscent of will." While closed systems run down, open systems
@@ -68,7 +68,7 @@ effects of psilocybin, "it becomes quite evident that, whatever its ultimate
 intent, consciousness is an essential part of the plan." The Other may have
 been dormant, as though asleep, hibernating, only to gradually awaken through
 the vehicle of consciousness which it prepared in advance. Natural
-Natural Intelligence cannot be stopped; it can only be observed and appreciated whilst
+[[computational-universe-and-natural-intelligence]] cannot be stopped; it can only be observed and appreciated whilst
 in action.
 
 ## The Mayan Calendar and the End of Time

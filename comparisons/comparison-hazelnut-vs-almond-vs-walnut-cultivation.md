@@ -1,5 +1,5 @@
 ---
-title: Hazelnut vs Almond vs Walnut Cultivation
+title: comparison hazelnut vs almond vs walnut cultivation vs Walnut Cultivation
 created: 2026-05-06
 tags: [hazelnut, almond, walnut, nut-trees, comparison, orchard, homesteading, climate-zones, nut-crops]
 date: 2026-04-28
@@ -16,7 +16,7 @@ Hazelnuts, almonds, and walnuts are three of the most commercially important nut
 
 | Attribute | Hazelnut | Almond | Walnut |
 |---|---|---|---|
-| **Scientific name** | *Corylus avellana* | *Prunus dulcis* | *Juglans regia* |
+| **Scientific name** | *[[corylus-avellana]]* | *[[prunus-dulcis]]* | *[[juglans-regia]]* |
 | **Growth habit** | Multi-stemmed shrub / small tree | Deciduous tree | Large deciduous tree |
 | **USDA hardiness zones** | 4–9 | 7–10 | 5–9 |
 | **Chilling hours needed** | 400–900 | 200–500 | 400–1,000 |
@@ -26,7 +26,7 @@ Hazelnuts, almonds, and walnuts are three of the most commercially important nut
 | **Annual yield per tree** | 15–25 lbs | 30–50 lbs | 50–80 lbs |
 | **Yield per acre** | 1,500–2,500 lbs | 2,000–4,000 lbs | 2,500–4,500 lbs |
 | **Soil pH preference** | 5.5–7.0 | 6.0–7.5 | 6.0–7.5 |
-| **Drought tolerance** | Moderate | High | Low–Moderate |
+| **[[dighton-fungal-drought-tolerance-plant-water-relations]]** | Moderate | High | Low–Moderate |
 | **Heat tolerance** | Low–Moderate | Very high | Moderate |
 | **Cold tolerance** | High (to −20°F) | Low (frost kills bloom) | Moderate (to −10°F) |
 | **Water requirements** | 24–36 in/yr | 30–42 in/yr | 36–48 in/yr |
@@ -46,7 +46,7 @@ Hazelnuts thrive in cool, maritime, and continental climates. The Pacific Northw
 Almonds demand long, hot, dry summers and mild, frost-free winters. California's Central Valley produces ~80% of the world's almonds for good reason. Spring frosts that hit during bloom (February–March) can wipe out an entire crop in a single night, making site selection critical. Almonds need minimal chilling (200–500 hours) and cannot tolerate wet, waterlogged soil at any point in the year. They are the most drought-tolerant of the three once established, but production drops significantly without irrigation in arid regions.
 
 ### Walnut — The Moderate-Zone Generalist
-Walnuts occupy a middle ground. They need deep, well-drained soil and a long growing season (180–200+ days) to mature nuts, but they tolerate more cold than almonds and more heat than hazelnuts. They grow well from northern California through the Pacific Northwest interior, across parts of the Midwest, and throughout southern Europe and Asia. Late spring frosts can damage young growth, and walnut blight thrives in cool, wet spring conditions — making humid eastern regions challenging without diligent spray programs.
+Walnuts occupy a middle ground. They need deep, well-drained soil and a long [[savory-growing-season-and-non-growing-season-management]] (180–200+ days) to mature nuts, but they tolerate more cold than almonds and more heat than hazelnuts. They grow well from northern California through the Pacific Northwest interior, across parts of the Midwest, and throughout southern Europe and Asia. Late spring frosts can damage young growth, and walnut blight thrives in cool, wet spring conditions — making humid eastern regions challenging without diligent spray programs.
 
 ## Land Requirements and Spacing
 
@@ -69,15 +69,15 @@ Hazelnuts fit well on smaller or oddly shaped parcels because of their compact s
 
 ### Almond
 - **Navel orangeworm (NOW):** The primary pest in California. Larvae bore into nuts, contaminating them with aflatoxin-producing fungi. Winter sanitation (mummy nut removal) and timely hull-split sprays are essential.
-- **Mites and scale:** Proliferate under dusty, water-stressed conditions. Manage with irrigation and predatory mites before resorting to miticides.
-- **Hull rot:** Fungal disease promoted by excess nitrogen and humidity post-harvest. Moderate nitrogen application and timely harvest reduce risk.
+- **Mites and scale:** Proliferate under dusty, water-stressed conditions. Manage with irrigation and [[comparison-predatory-mites-vs-ladybugs-biocontrol]] before resorting to miticides.
+- **Hull rot:** [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] promoted by excess nitrogen and humidity post-harvest. Moderate nitrogen application and timely harvest reduce risk.
 - **Brown rot blossom blight:** Devastating in wet springs; requires fungicide sprays at bloom.
 
 ### Walnut
 - **Walnut blight:** Bacterial disease that blackens husks and kernels in wet, cool springs. The most serious disease in commercial production. Copper-based bactericides applied at catkin emergence through nut set provide control.
 - **Codling moth:** Larvae tunnel into nuts. Pheromone-based mating disruption and targeted sprays are the standard approach.
 - **Walnut husk fly:** Damages husks and stains shells; yellow sticky traps monitor emergence, and bait sprays or GF-120 NF Naturalyte provide control.
-- **Thousand cankers disease:** A serious threat to black walnut (*Juglans nigra*); less impactful on Persian walnut but worth monitoring.
+- **Thousand cankers disease:** A serious threat to black walnut (*[[juglans-nigra]]*); less impactful on Persian walnut but worth monitoring.
 
 ## Economic Comparison
 
@@ -97,7 +97,7 @@ Hazelnuts have the lowest establishment cost due to smaller tree size, simpler t
 ## Permaculture and Food Forest Applications
 
 ### Hazelnut
-The most versatile nut for permaculture and homestead-scale systems. Compact size allows interplanting with fruit trees, berry shrubs, and herbaceous layers. Works as a hedgerow, windbreak, or privacy screen while producing a crop. Excellent nitrogen-fixing companion planting options (autumn olive, goumi, seaberry). Tolerates partial shade, making it viable in the understory of taller trees in a food forest. Low input requirements align well with low-maintenance designs.
+The most versatile nut for permaculture and homestead-scale systems. Compact size allows interplanting with fruit trees, berry shrubs, and herbaceous layers. Works as a hedgerow, windbreak, or privacy screen while producing a crop. Excellent [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] mpanion planting options (autumn olive, goumi, seaberry). Tolerates partial shade, making it viable in the understory of taller trees in a food forest. Low input requirements align well with low-maintenance designs.
 
 ### Almond
 Difficult to integrate into diverse food forests. Requires full sun, well-drained soil, and zero competition from ground covers during the critical establishment period. Bee forage plantings nearby improve pollination. Best suited to dedicated orchard blocks in Mediterranean climates. Not recommended for mixed polyculture systems in humid or cold regions.

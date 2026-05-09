@@ -1,5 +1,5 @@
 ---
-title: Cho's Natural Farming Philosophy of Non-Interference
+title: Cho's Natural fukuoka-do-nothing-farming-philosophy-and-practice of Non-Interference
 tags: [natural-farming, philosophy, cho-han-kyu, permaculture]
 date: 2026-04-28
 updated: 2026-04-28
@@ -15,7 +15,7 @@ believed that the best way to achieve top quality yield is to
 respect the nature of life rather than forcing crops to produce
 more than they naturally can. This philosophy distinguishes
 Natural Farming from both conventional agriculture and standard
-organic farming.
+[[coleman-deep-organic-farming-philosophy]].
 
 Cho's approach recognizes the abundance of nature and utilizes
 indigenous resources for production. The basic philosophy is to
@@ -31,7 +31,7 @@ suppressed by human agricultural practices. Cho taught that
 plants and animals have an innate capacity for healthy growth,
 disease resistance, and high-quality production. This capacity
 is diminished when humans impose artificial conditions, whether
-through chemical fertilizers, genetic modification, or
+through [[cervantes-chemical-fertilizers-guide]], genetic modification, or
 controlled environments that eliminate natural selection
 pressures.
 
@@ -41,7 +41,7 @@ rather than trying to manufacture outcomes through external
 inputs. In crop production, this means building healthy soil
 ecosystems, using locally adapted microbial inoculants, and
 timing inputs to match the plant's natural growth cycle rather
-than overriding it with synthetic nutrients.
+than overriding it with [[query-organic-vs-synthetic-nutrients-cannabis]].
 
 ## Interdependence Over Control
 
@@ -82,10 +82,10 @@ Cho drew careful distinctions between Natural Farming and other
 systems. While Natural Farming shares the non-chemical approach
 of organic farming, it is specifically tied to the methodology
 developed at the Janong Farming Institute. Natural Farming has
-its own theoretical framework, the Nutritive Cycle Theory, and
+its own theoretical framework, the [[cho-nutritive-cycle-theory]] Theory, and
 its own set of inputs made from locally available materials.
 
-Natural Farming uses indigenous microorganisms rather than
+Natural Farming uses [[beneficial-indigenous-microorganisms-bim]] rather than
 imported or artificial cultures. It relies on natural tillers
 such as earthworms, mole crickets, and fungi instead of
 mechanical tillage. Grass mulching with brown rice vinegar

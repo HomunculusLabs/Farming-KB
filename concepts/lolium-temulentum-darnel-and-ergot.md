@@ -9,7 +9,7 @@ sources:
 ---
 # Lolium temulentum (Darnel) and Ergot
 
-**Source:** The Road to Eleusis, Chapter II — Albert Hofmann
+**Source:** The [[the-road-to-eleusis-wasson-hofmann-ruck]], Chapter II — Albert Hofmann
 
 ## Overview
 
@@ -17,7 +17,7 @@ Lolium temulentum (darnel, cockle, or "tares" in the Bible) is a weed that plagu
 
 ## Darnel in Classical Texts
 
-Classical Greek and Roman agricultural writers frequently mentioned darnel as a dangerous contaminant of grain. Theophrastus, Dioscorides, and Columella all discussed aira/lolium in the context of grain cultivation, noting its tendency to infest poorly maintained fields and its harmful effects when milled with grain.
+Classical Greek and Roman agricultural writers frequently mentioned darnel as a dangerous contaminant of grain. Theophrastus, Dioscorides, and Columella all discussed aira/lolium in the context of [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]], noting its tendency to infest poorly maintained fields and its harmful effects when milled with grain.
 
 Dioscorides' Materia Medica attributed intoxicating properties to darnel-contaminated grain, though he may have been describing the effects of ergot alkaloids rather than any intrinsic property of the darnel plant itself. This confusion — attributing the effects of the parasitic fungus to the host plant — persisted in European herbalism for centuries.
 
@@ -107,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -1,5 +1,5 @@
 ---
-title: Salvage Permaculture and Dumpster Diving
+title: Salvage permaculture and Dumpster Diving
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -8,11 +8,11 @@ type: concept
 tags: [culture, permaculture]
 ---
 
-# Salvage [[permaculture]] is the practice of building homes, gardens, and water
+# Salvage permaculture is the practice of building homes, gardens, and water
 systems entirely from discarded and scavenged materials. It treats the urban
 waste stream as a primary resource, converting trash into productive
 infrastructure while reducing landfill waste and eliminating the need for
-purchased building materials.
+purchased [[natural-building-materials-guide]].
 
 ## Philosophy
 
@@ -28,7 +28,7 @@ A "bread box" solar water heater can be built from:
 
 - Extended roof overhangs that block summer sun but admit winter sun
 - Low sloping retaining walls of local granite rocks facing south for heat
-  banking and microclimate creation
+  banking and [[mollison-designers-microclimate-creation-frost-protection]]
 - Rebar trellises bent into curves and attached to roof overhangs for
   deciduous vine shade that dies back in winter
 - Transpiring vegetation on trellises shades and cools buildings while
@@ -43,7 +43,7 @@ cooking without fuel.
 
 ### Fencing
 
-- Living fences of ocotillo canes and agave flower stalks replacing chain link
+- [[comparison-living-fences-vs-hedgerows]] of ocotillo canes and agave flower stalks replacing chain link
 - Chain-link fencing traded at salvage yards for lumber
 - Hedge plants (taupata, bamboo, hawthorn) providing windbreaks, privacy,
   and wildlife habitat
@@ -51,8 +51,8 @@ cooking without fuel.
 ### Growing Containers
 
 - Salvaged bathtubs, tires, milk crates, and refrigerators for growing food
-- Chicken-wire columns for rooftop vegetable growing
-- Broken concrete from old building foundations for raised beds and herb spirals
+- Chicken-wire columns for rooftop [[fukuoka-semi-wild-vegetable-growing-natural-method]]
+- Broken concrete from old building foundations for [[comparison-raised-beds-vs-hugelkultur]] and herb spirals
 - Straw bales for terracing steep slopes
 
 ### Mulch and Soil Amendments
@@ -79,4 +79,5 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[permaculture]]

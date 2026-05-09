@@ -25,18 +25,18 @@ For 500 L (132 gal) of spray solution:
 - [[jadam-herb-solution-jhs]] 10-15 L (2.6-4 gal)
 - [[jadam-livestock-no-feces-removing]] approach already reduces fly breeding grounds by managing manure through microbial decomposition. Combining this with direct pesticide application creates a two-pronged fly control strategy:
 
-1. **Prevention:** JMS treatment of bedding/manure reduces organic matter that attracts flies
+1. **Prevention:** JMS treatment of bedding/manure reduces [[hamilton-composting-and-organic-matter-management]] that attracts flies
 2. **Direct control:** JNP spraying kills existing fly populations
 
 ## JMS for Microbial Hygiene
 
 Regular application of [[jadam-wetting-agent-jwa]] and [[jadam-organic-livestock-no-feces-removing]] addresses this by treating manure in situ with JMS, which accelerates decomposition and reduces the moisture content that fly larvae need to develop. Regular removal of spilled feed and management of drainage to eliminate standing water are equally important.
 
-**Biological control** plays a significant role. Dung beetles, parasitic wasps (*Muscidifurax* and *Spalangia* species), and predatory mites naturally suppress fly populations in pasture-based systems. The JADAM approach avoids broad-spectrum chemical insecticides that would kill these beneficial organisms alongside pest flies. Maintaining hedgerows and vegetation buffers around livestock housing provides habitat for aerial predators such as swallows, bats, and predatory wasps that feed on adult flies.
+**[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]** plays a significant role. Dung beetles, parasitic wasps (*Muscidifurax* and *Spalangia* species), and [[comparison-predatory-mites-vs-ladybugs-biocontrol]] naturally suppress fly populations in pasture-based systems. The JADAM approach avoids broad-spectrum chemical insecticides that would kill these beneficial organisms alongside pest flies. Maintaining hedgerows and vegetation buffers around livestock housing provides habitat for aerial predators such as swallows, bats, and predatory wasps that feed on adult flies.
 
 **Physical exclusion** includes fly screens on openings, air curtains at entry points, and proper ventilation design that creates air flows unfavorable to fly activity. These measures are compatible with and complementary to the JADAM spray program.
 
-**Chemical/biological intervention**, which is where the JADAM spray program operates, serves as the final layer of defense when prevention and biological controls are insufficient. Within this IPM framework, JADAM sprays are most effective when used reactively — applied at the first sign of increasing fly populations rather than on a fixed calendar schedule. This targeted approach minimizes both cost and any disruption to beneficial insect populations.
+**Chemical/biological intervention**, which is where the JADAM spray program operates, serves as the final layer of defense when prevention and biological controls are insufficient. Within this IPM framework, JADAM sprays are most effective when used reactively — applied at the first sign of increasing fly populations rather than on a fixed calendar schedule. This targeted approach minimizes both cost and any disruption to [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] populations.
 
 ## Application Timing and Seasonal Strategy
 
@@ -46,9 +46,9 @@ The time of day for application matters. Flies are least active in early morning
 
 ## Fly Species and Their Behavior in Livestock Housing
 
-Understanding the specific fly species that infest livestock housing helps optimize JADAM control strategies. House flies (*Musca domestica*) are the most common and problematic species, breeding rapidly in manure and spilled feed. They are non-biting but transmit pathogens by moving between manure, feed, and animal surfaces. Stable flies (*Stomoxys calcitrans*) are biting flies that feed on animal blood, causing significant stress and reduced productivity in cattle and horses. They breed in decaying vegetation and wet organic matter rather than fresh manure. Bluebottle flies (*Calliphora* species) are larger, slower-moving flies attracted to carcasses and rotting organic material, and while less numerous, their presence often indicates sanitation problems that need addressing.
+Understanding the specific fly species that infest livestock housing helps optimize JADAM [[jadam-weed-control-strategies-natural]]. House flies (*Musca domestica*) are the most common and problematic species, breeding rapidly in manure and spilled feed. They are non-biting but transmit pathogens by moving between manure, feed, and animal surfaces. Stable flies (*Stomoxys calcitrans*) are biting flies that feed on animal blood, causing significant stress and reduced productivity in cattle and horses. They breed in decaying vegetation and wet organic matter rather than fresh manure. Bluebottle flies (*Calliphora* species) are larger, slower-moving flies attracted to carcasses and rotting organic material, and while less numerous, their presence often indicates sanitation problems that need addressing.
 
-Each species has slightly different vulnerability to JADAM sprays. House flies, with their rapid reproduction and habit of resting on walls and ceilings, are best controlled through comprehensive surface spraying combined with JMS treatment of manure to eliminate breeding sites. Stable flies, which rest on vertical surfaces including fence posts and building exteriors, require extending the spray zone beyond the livestock housing interior. The JADAM wetting agent's surfactant properties are particularly effective against stable flies because it penetrates their slightly waxy cuticle more effectively than plain water.
+Each species has slightly different vulnerability to JADAM sprays. House flies, with their rapid reproduction and habit of resting on walls and ceilings, are best controlled through comprehensive surface spraying combined with JMS treatment of manure to eliminate breeding sites. Stable flies, which rest on vertical surfaces including fence posts and building exteriors, require extending the spray zone beyond the livestock housing interior. The JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]]'s surfactant properties are particularly effective against stable flies because it penetrates their slightly waxy cuticle more effectively than plain water.
 
 ## Monitoring and Adaptation
 
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

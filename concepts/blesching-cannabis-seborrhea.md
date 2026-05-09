@@ -25,7 +25,7 @@ secreted by sebaceous glands, along with inflammation and flaking skin.
 Seborrheic dermatitis is considered an overview condition by orthodox
 medicine, with treatments typically involving antifungal medications,
 corticosteroids, and specialized shampoos. While the exact cause is not fully
-understood, it is believed to involve an inflammatory response to [[blesching-endocannabinoid-system-overview]]
+understood, it is believed to involve an inflammatory response to [[endocannabinoid-system-overview]]
 in the skin. The main function of the ECS in the skin is to control and
 balance growth, differentiation, and survival of skin cells as well as to
 produce proper immune responses.
@@ -38,12 +38,12 @@ produces an inhibition of sebum/lipid production. [[blesching-cannabis-parkinson
 - Personalized approaches based on individual sebum levels
 - Combination therapies addressing both oil production and inflammation
 scalp-specific formulations leveraging the [[blesching-cannabis-dosing-strategies]] for guidance on
-strain selection.
+[[blesching-cannabis-strain-selection-receptor-targeting]].
 
 ## Related
 
-- [[blesching-endocannabinoid-system-overview]] offers therapeutic potential
-across a wide range of skin conditions. Understanding the specific receptor
+- [[endocannabinoid-system-overview]] offers therapeutic potential
+across a wide range of [[cannabis-for-skin-conditions-detailed]]. Understanding the specific receptor
 mechanisms involved in each condition allows for targeted approaches:
 
 - [[blesching-cannabis-eczema-dermatitis]] -- immune/inflammatory pathway
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

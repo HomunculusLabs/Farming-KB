@@ -1,5 +1,5 @@
 ---
-title: Biodynamic Preparations Comparison — BD 500 through BD 508
+title: comparison-biodynamic-preparations-vs-biofertilizers Comparison — BD 500 through BD 508
 tags:
   - biodynamic-farming
   - organic-agriculture
@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Steiner, R. (1924). *Spiritual Foundations for the Renewal of Agriculture* (Agricultural Course). Rudolf Steiner Press.
   - Proctor, P. (1989). *Grasp the Nettle*. Bio-Dynamic Farming and Gardening Association.
-  - Koepf, H., Pettersson, B. D., & Schaumann, W. (1990). *Biodynamic Agriculture: An Introduction*. Hawthorn Press.
+  - Koepf, H., Pettersson, B. D., & Schaumann, W. (1990). *[[query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic]]: An Introduction*. Hawthorn Press.
   - Graf, V. (2010). The Biodynamic Preparations in Practice. *Journal of Organic Systems*, 5(1), 15-28.
   - Turinek, M., et al. (2009). Biodynamics — is it organic plus? *Journal of Sustainable Agriculture*, 33(1), 56-73.
   - Spieß, H., et al. (2011). Enhanced soil organic matter in long-term biodynamic farming. *Organic Agriculture*, 1(4), 219-233.
@@ -38,7 +38,7 @@ Biodynamic agriculture, founded by Rudolf Steiner in his 1924 Agricultural Cours
 | **BD 505** | Oak Bark | *Quercus robur* bark in sheep skull | Compost | Calcium strengthening, disease resistance | Inserted into compost pile |
 | **BD 506** | Dandelion | *Taraxacum officinale* flowers in cow mesentery | Compost | Silica activation, potassium-silicon relationship | Inserted into compost pile |
 | **BD 507** | Valerian | *Valeriana officinale* flower juice expressed | Compost | Phosphorus mobilization, warmth, compost maturation | Sprayed over compost pile |
-| **BD 508** | Horsetail | *Equisetum arvenum* aerial parts decoction | Foliar spray | Fungal disease suppression, silica strengthening | Foliar spray as needed |
+| **BD 508** | Horsetail | *Equisetum arvenum* aerial parts decoction | Foliar spray | Fungal [[aact-disease-suppression-mechanisms-ingham]], silica strengthening | Foliar spray as needed |
 
 ## Field Sprays
 
@@ -50,7 +50,7 @@ Biodynamic agriculture, founded by Rudolf Steiner in his 1924 Agricultural Cours
 - Stimulate soil biological activity and humus formation
 - Promote root growth and root-soil interactions
 - Enhance the soil's capacity to hold water and nutrients
-- Encourage earthworm activity and mycorrhizal colonization
+- Encourage earthworm activity and [[arbuscular-mycorrhizal-colonization-patterns]]
 - Support the "earthly" forces (gravity, crystallization, form-building from below)
 
 **Application rate:** ~25–100 grams of preparation stirred in 13–40 liters of water per hectare (1–4 oz in 3.5–10.5 gallons per acre). Applied to moist soil, ideally before rain or in the evening.
@@ -63,7 +63,7 @@ Biodynamic agriculture, founded by Rudolf Steiner in his 1924 Agricultural Cours
 - Enhance photosynthetic efficiency and light absorption
 - Improve fruit quality, flavor, color, and keeping quality
 - Strengthen plant form and structural integrity
-- Regulate plant growth and maturation
+- [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]] and maturation
 - Connect plants to cosmic/astral influences (light, warmth, rhythm)
 
 **Application rate:** ~1–5 grams of preparation stirred in 13–40 liters of water per hectare. Applied as a fine mist in early morning, ideally when dew is present. Over-application can cause excessive legginess or premature ripening.
@@ -89,7 +89,7 @@ All six compost preparations are inserted into the compost pile at specific posi
 | **BD 503** | Chamomile | Cattle intestine | Winter | Calcium stabilization, nitrogen retention |
 | **BD 504** | Nettle | Peat moss, direct burial | 1 full year | Iron metabolism, humus formation, soil "intelligence" |
 | **BD 505** | Oak bark | Sheep/cow skull | Winter, near water | Living calcium, disease resistance (antifungal tannins) |
-| **BD 506** | Dandelion | Cow mesentery | Winter | Silica-potassium activation, plant environmental sensing |
+| **BD 506** | Dandelion | Cow mesentery | Winter | Silica-potassium activation, plant [[fungal-environmental-sensing-signal-transduction-read]] |
 | **BD 507** | Valerian | Not buried (juice extracted) | Fermented | Phosphorus mobilization, warmth, harmonizes the other six |
 
 ## Supplementary: BD 508 — Horsetail
@@ -116,6 +116,8 @@ Dried *Equisetum arvenum* herb is decocted (simmered 20–30 min), diluted 1:20�
 **Organic alternatives if:** you need specific functions — compost tea or vermicompost for soil biology, potassium silicate for silica, gypsum/lime for calcium, *Trichoderma* or *Bacillus subtilis* for disease suppression.
 
 ## See Also
+
+- [[comparison-biodynamic-preparations-vs-biofertilizers]]
 
 - [[hamilton-soil-biology-and-microorganisms]]
 - [[soil-food-web]]

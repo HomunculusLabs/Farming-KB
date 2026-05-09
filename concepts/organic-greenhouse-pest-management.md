@@ -9,7 +9,7 @@ sources:
 ---
 # Organic Greenhouse Pest Management
 
-Greenhouse pests can build up rapidly because the warmth and humidity necessary for healthy plant growth are also ideal for pests and diseases. Vigilance, scrupulous cleanliness, and biological controls are the organic gardener's primary weapons.
+Greenhouse pests can build up rapidly because the warmth and humidity necessary for healthy plant growth are also ideal for [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. Vigilance, scrupulous cleanliness, and biological controls are the organic gardener's primary weapons.
 
 ## Prevention Through Cleanliness
 
@@ -20,7 +20,7 @@ The most important defense is keeping the greenhouse spotlessly clean:
 - If you empty the house for winter, leave it open for frost to help sterilize it
 - Always keep the glass clean -- dirty panes reduce light and weaken plants
 - Before reusing pots or seed trays, wash thoroughly in boiling water to kill disease spores and insect eggs
-- Plastic pots and trays are much easier to clean than clay (which is porous and harbors disease)
+- [[query-fabric-pots-vs-plastic-pots-vs-air-pots-for-cannabis]] and trays are much easier to clean than clay (which is porous and harbors disease)
 - Remove any damaged plant material as soon as you see it
 
 ## Common Greenhouse Pests and Organic Controls
@@ -55,11 +55,11 @@ Invisible to the naked eye, these tiny pale green or red mites cover plants with
 Small, disclike insects that cling to leaves and stems, sucking sap and secreting honeydew. Plants weaken and turn yellow.
 
 **Controls:**
-- Introduce natural predator Metaphycus helvolus
+- Introduce [[fukuoka-natural-predator-protection]] Metaphycus helvolus
 - Scrape insects off with a piece of wood
 
 ### Vine Weevils
-Small grubs with white bodies and brown heads invade potting compost and eat roots. Severely affected plants may keel over.
+Small grubs with white bodies and brown heads invade [[hamilton-potting-compost-recipes-and-growing-media]] and eat roots. Severely affected plants may keel over.
 
 **Controls:**
 - Use biological control with nematodes (apply to compost)
@@ -70,7 +70,7 @@ Tiny insects that cause silvering and distortion of leaves and flowers.
 
 **Controls:**
 - Blue sticky traps
-- Introduce predatory mites
+- Introduce [[comparison-predatory-mites-vs-ladybugs-biocontrol]]
 - Increase humidity
 
 ## Common Greenhouse Diseases
@@ -114,7 +114,7 @@ Affecting tomatoes, cucumbers, and many other plants. Symptoms include yellow mo
 - No cure -- dig up and burn all affected plants
 - Do not use diseased plants for propagation
 - For tomatoes: grow in growing bags the following year or buy plants grafted onto resistant KNVF rootstock
-- Control aphids (virus vectors) rigorously
+- [[query-how-do-i-identify-and-control-aphids-on-cannabis]] (virus vectors) rigorously
 
 ## Daily Management
 

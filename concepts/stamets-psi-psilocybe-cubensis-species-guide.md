@@ -1,20 +1,19 @@
 ---
-title: Psilocybe cubensis Species Guide
+title: brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting Species Guide
 created: 2026-04-28
-tags: [[mycology, psilocybe, species-guide, taxonomy]
+tags: [mycology, psilocybe, species-guide, taxonomy]
 date: 2026-04-25
 updated: 2026-04-25
-sources: ["raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"]
+sources: sources: []
 type: concept
 ---
-
 # [[psychedelic-mushroom-set-and-setting]] (Earle) Singer is one of the most widely known
 and distributed psychoactive mushrooms in the world. Commonly called
 "golden tops," "cubies," "san isidros," and "hongos kentesh," this
 dung-inhabiting species is the most majestic of the Psilocybes and
 easy to recognize by its size, golden color, well-formed membranous
 annulus, blue-staining stem and veil, and coprophilic habitat. The
-species has numerous synonyms including Stropharia Cubensis and
+species has numerous synonyms including [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] and
 stropharia cyanescens.
 
 ## Taxonomic History
@@ -65,8 +64,8 @@ psilocybe zapotecorum, or [[psychedelic-mushroom-set-and-setting]] - wood-inhabi
 ## See Also
 
 - Galerina - deadly look-alike genus
-- psilocybin potency comparative data
-- bluing reaction as a co-indicator of activity
+- [[allen-psilocybin-potency-australian-species]] comparative data
+- [[field-guide-psilocybin-bluing-reaction-identification]] as a co-indicator of activity
 ## Practical Considerations
 
 Successful implementation of Psilocybe cubensis Species Guide requires attention to
@@ -85,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

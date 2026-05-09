@@ -17,8 +17,8 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 ## Overview
 Talaromyces flavus is an ascomycete fungus and the teleomorph
 (sexual stage) of a Penicillium-like anamorph. It is one of the
-most successful biological control agents against Verticillium
-dahliae, a major soil-borne vascular wilt pathogen, and also
+most successful [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents against Verticillium
+dahliae, a major soil-borne [[cervantes-fusarium-vascular-wilt-diseases]] pathogen, and also
 demonstrates efficacy against Sclerotinia sclerotiorum. The
 species produces ascospores as its primary dispersal propagules
 and acts as an aggressive sclerotial parasite in soil.
@@ -52,7 +52,7 @@ Penicillium-like asexual (anamorph) fungus. The dual naming
 reflects the historical practice of separately naming sexual and
 asexual stages. The genus Talaromyces contains both teleomorphic
 and exclusively anamorphic species. Selective isolation uses PDA
-medium amended with 0.1% lactic acid, antibacterial antibiotics,
+medium amended with 0.1% [[bionutrients-lab-lactic-acid-bacteria-serum]], antibacterial antibiotics,
 pimaricin, nystatin, and oxgall per liter (Marois et al. 1984).
 
 ## Key Details
@@ -60,7 +60,7 @@ pimaricin, nystatin, and oxgall per liter (Marois et al. 1984).
 ### Glucose Oxidase System
 The primary weapon in the T. flavus arsenal is the enzyme glucose
 oxidase (Kim et al. 1990), which oxidizes glucose to gluconic
-acid and releases hydrogen peroxide. Hydrogen peroxide is a
+acid and releases [[cervantes-hydrogen-peroxide-sterilization]]. Hydrogen peroxide is a
 reactive oxygen species highly toxic to fungal cells, causing
 oxidative damage to membranes, proteins, and nucleic acids. This
 system is particularly effective against V. dahliae, which is
@@ -92,4 +92,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,20 +1,17 @@
 ---
-title: Pasteurized Straw Cultivation Techniques
+title: oyster-mushroom-pasteurized-straw-cultivation Cultivation Techniques
 created: 2026-04-26
-tags: [[mycology, mushroom-cultivation, straw-substrate, pasteurization, stamets]
+tags: [mycology, mushroom-cultivation, straw-substrate, pasteurization, stamets]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+sources: sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
+# Pasteurized Straw Cultivation Techniques In commercial mushroom production, cereal straw is one of the most frequently used [[grain-spawn-preparation]] and filled into:
 
-# Pasteurized Straw Cultivation Techniques
-
-In commercial mushroom production, cereal straw is one of the most
-frequently used [[grain-spawn-preparation]] and filled into:
-
--   **Trays** — traditional container for indoor cultivation.
--   **Shelves** — stationary growing surfaces in the growing room.
+-   **Trays** — traditional container for [[cannabis-sativa-indoor-cultivation-techniques]].
+-   **Shelves** — stationary growing surfaces in the [[duggar-mushroom-growing-room-design]].
 -   **Plastic bags** — the simplest and most efficient method.
 
 ### Plastic Bag Method
@@ -25,13 +22,13 @@ aeration. Some compression of the straw into the container is desirable
 because cropping efficiency increases with substrate density.
 
 Upon full colonization, the mycelia of species like *Pleurotus
-ostreatus* and *[[stamets-spawning-and-spawn-running]] apply to straw:
+ostreatus* and *stamets-spawning-and-spawn-running apply to straw:
 
 -   **Moisture content** is critical — deviations of more than 2% from
     optimum depress yields.
 -   **Temperature** must be monitored in the substrate center (hottest
     point) and the room atmosphere.
--   **Dry weight per square foot** determines total yield potential.
+-   **Dry weight per [[comparison-biointensive-vs-square-foot-gardening]]** determines total yield potential.
 -   Colonization must proceed as rapidly as possible to prevent
     competitors from becoming established.
 
@@ -41,11 +38,11 @@ colonization and greater protection against contaminants.
 
 ## Species Suited to Straw
 
-Wheat straw prepared and pasteurized as described supports cultivation
+[[non-sterilized-wheat-straw-oyster-cultivation]] prepared and pasteurized as described supports cultivation
 of:
 
 -   *[[panaeolus-cyanescens-entity]]* (Blue Meanies)
--   *Psilocybe cubensis* (Golden Teacher)
+-   *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* (Golden Teacher)
 
 Many other species can likely utilize straw or modifications of it.
 *[[paddy-straw-mushroom]]) is traditionally grown on
@@ -68,7 +65,7 @@ intensified the flavor of the mushrooms.
 
 ## Straw vs. Compost
 
-Straw offers several advantages over [[stamets-non-composted-substrates]]:
+Straw offers several advantages over stamets-non-composted-substrates:
 
 -   Simpler preparation — no composting phase required.
 -   Faster preparation — hours instead of weeks.

@@ -2,14 +2,12 @@
 title: Pluteus cervinus
 created: 2026-04-28
 type: species
-tags: [[mycology, identification, gourmet-mushrooms, pluteus]
+tags: [mycology, identification, gourmet-mushrooms, pluteus]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 ---
-# Pluteus cervinus
-
-Pluteus cervinus, commonly known as the Deer Mushroom or Fawn Pluteus, is a widespread saprotrophic mushroom found on decaying wood throughout temperate regions of the world. While not widely sought as a culinary species, it is a good edible and is particularly notable for its ecological role as a primary wood decomposer and as a species that appears on wood chips in landscaped areas. See [[psilocybe-cyanescens]] for a species sharing similar wood chip habitats.
+# Pluteus cervinus Pluteus cervinus, commonly known as the Deer Mushroom or Fawn Pluteus, is a widespread saprotrophic mushroom found on decaying wood throughout temperate regions of the world. While not widely sought as a culinary species, it is a good edible and is particularly notable for its ecological role as a primary wood decomposer and as a species that appears on wood chips in landscaped areas. See [[psilocybe-cyanescens]] for a species sharing similar wood chip habitats.
 
 ## Taxonomy and Description
 
@@ -29,7 +27,7 @@ Pluteus cervinus, commonly known as the Deer Mushroom or Fawn Pluteus, is a wide
 
 ## Distribution and Habitat
 
-- **Global range:** Extremely widespread across temperate regions of North America, Europe, Asia, and Australia. One of the most common wood-inhabiting mushrooms worldwide.
+- **Global range:** Extremely widespread across temperate regions of [[psilocybin-north-america-pacific-northwest]], Europe, Asia, and Australia. One of the most common wood-inhabiting mushrooms worldwide.
 - **Habitat:** Exclusively saprotrophic on wood. Found on stumps, fallen logs, branches, and wood chips of both hardwoods and conifers. Commonly appears in landscaped areas with wood chip mulch, similar to [[psilocybe-cyanescens]]
 
 ## Culinary Value
@@ -44,17 +42,17 @@ P. cervinus is an edible species, though not highly prized:
 
 ## Ecological Role
 
-P. cervinus is a primary decomposer of dead wood, playing an important role in forest nutrient cycling:
+P. cervinus is a primary decomposer of dead wood, playing an important role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]:
 
 - Breaks down cellulose and lignin in dead wood
-- Common in early stages of wood decomposition
+- Common in early stages of [[fungal-wood-decomposition-spatial-variation]]
 - Frequently appears on fresh wood chips in landscaping, indicating active decomposition
 - Contributes to carbon cycling in forest ecosystems
 - Its presence on wood chip mulch is a sign of healthy biological activity in garden and landscape environments
 
 ## Cultivation
 
-P. cervinus is not commercially cultivated. Its primary value is ecological rather than agricultural. However, its appearance on inoculated wood substrates can indicate the success of outdoor mushroom cultivation efforts.
+P. cervinus is not commercially cultivated. Its primary value is ecological rather than agricultural. However, its appearance on inoculated wood substrates can indicate the success of outdoor [[accessible-mushroom-cultivation-for-disabilities]] efforts.
 
 ## Seasonal Ecology and Phenology
 
@@ -87,6 +85,6 @@ While not commonly consumed, P. cervinus has a nutritional profile typical of wo
 
 ## See Also
 
-- [[pleurotus-ostreatus]] — Tree Oyster Mushroom for comparison of wood-inhabiting species
-- [[volvariella-volvacea]] — Paddy Straw Mushroom, same family
+- [[pleurotus-ostreatus]] — Tree [[cotter-oyster-mushroom-cultivation]] for comparison of wood-inhabiting species
+- [[volvariella-volvacea]] — Paddy [[mushroom-training-straw-mushroom-cultivation]], same family
 - [[stropharia-rugoso-annulata]] — Garden Giant, another wood decomposer

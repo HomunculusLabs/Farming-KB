@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-**Melia azedarach**, commonly known as **chinaberry**, **white cedar**, or **Persian lilac**, is a fast-growing deciduous tree in the family Meliaceae. Native to South and Southeast Asia, it has been widely planted as an ornamental and shade tree throughout tropical and subtropical regions worldwide.
+**Melia azedarach**, commonly known as **chinaberry**, **white cedar**, or **Persian lilac**, is a fast-growing deciduous tree in the family Meliaceae. Native to South and [[psilocybe-southeast-asia-pacific]], it has been widely planted as an ornamental and [[mollison-designers-legume-shade-tree-pasture-systems]] throughout tropical and subtropical regions worldwide.
 
 The tree is notable for its insecticidal properties, particularly the limonoid compounds in its seeds and leaves. Aqueous extracts have been used traditionally as botanical insecticides, piscicides, and anthelmintics across Asia, Africa, and the Americas.
 
@@ -44,7 +44,7 @@ M. azedarach is native to the Indian subcontinent, southern China, Southeast Asi
 
 The species grows in a wide range of habitats from sea level to 1800 m elevation. It is found in dry deciduous forests, riparian zones, and disturbed areas. It tolerates drought, poor soils, and moderate salinity.
 
-Chinaberry is considered invasive in the southeastern United States, eastern Australia, South Africa, and several Pacific islands. It forms dense monospecific stands that shade out native understory species and reduce biodiversity.
+Chinaberry is considered invasive in the southeastern [[dmt-containing-plants-united-states-halpern]], eastern Australia, South Africa, and several Pacific islands. It forms dense monospecific stands that shade out native understory species and reduce biodiversity.
 
 ## Chemistry and Pharmacology
 
@@ -82,22 +82,22 @@ In regions where it is invasive, planting M. azedarach is discouraged. Local aut
 
 The wood of M. azedarach is moderately hard, medium-textured, and pale yellow to reddish-brown. It works easily and takes a good finish, making it suitable for furniture, cabinetry, and decorative carving.
 
-Heartwood has natural resistance to decay and termites, giving it utility for outdoor applications and fence posts. The wood is also used for fuel and charcoal production in rural communities.
+Heartwood has natural resistance to decay and termites, giving it utility for outdoor applications and fence posts. The wood is also used for fuel and [[mollison-designers-charcoal-production-biochar-soil-amendment]] in rural communities.
 
 Despite these qualities, commercial timber production of M. azedarach is limited. The relatively small trunk diameter and tendency for branches to develop low on the trunk restrict its use to small-scale applications.
 
 ## Related Species
 
-M. azedarach is closely related to *Azadirachta indica* (neem), with which it shares the family Meliaceae and many limonoid compounds. The two species are sometimes confused but can be distinguished by leaf morphology and fruit characteristics.
+M. azedarach is closely related to *Azadirachta indica* (neem), with which it shares the family Meliaceae and many limonoid compounds. The two species are sometimes confused but can be distinguished by [[cannabis-leaf-morphology-and-phyllotaxy]] and fruit characteristics.
 
 *Melia toosendan* is a closely related species native to China, from which the anthelmintic compound toosendanin was first isolated. It is used similarly in traditional Chinese medicine.
 
-The genus *Melia* contains approximately 2–3 accepted species. *Azadirachta* species share the same insecticidal limonoid chemistry but are generally considered more potent and are more widely used in commercial pest management.
+The genus *Melia* contains approximately 2–3 accepted species. *Azadirachta* species share the same insecticidal limonoid chemistry but are generally considered more potent and are more widely used in commercial [[cannabis-pest-management-guide]].
 
 ## See Also
 
 - [[aloe-vera]]
-- [[turmeric]]
+- turmeric
 - ginger
 - [[withania-somnifera]]
 - [[cinnamomum-verum]]

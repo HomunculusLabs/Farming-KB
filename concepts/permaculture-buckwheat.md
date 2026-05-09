@@ -3,15 +3,13 @@ title: Buckwheat
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[permaculture, design]
-sources: []
+tags: [permaculture, design]
+sources:
+  sources: []
 ---
+Updated: 2026-04-18 Buckwheat (Fagopyrum esculentum) is a fast-growing, gluten-free grain that doubles as an excellent [[coleman-cover-crop-rotation-and-soil-health]] and [[mollison-designers-bee-forage-tree-planting]]. Despite being eaten as a grain, it is not a grass or cereal — it is a member of the Polygonaceae (knotweed) family. It is a valuable [[compost-building-guide]] ingredient
 
-Updated: 2026-04-18
-
-Buckwheat (Fagopyrum esculentum) is a fast-growing, gluten-free grain that doubles as an excellent cover crop and bee forage. Despite being eaten as a grain, it is not a grass or cereal — it is a member of the Polygonaceae (knotweed) family. It is a valuable [[compost-building-guide]] ingredient
-
-- [[jadam-cover-crop-method]] for several reasons. Its rapid growth shades and outcompetes weeds. It accumulates phosphorus from the soil and makes it available to subsequent crops when incorporated. The flowers attract enormous numbers of pollinators and beneficial insects. When turned under as green manure, it breaks down quickly, adding organic matter and improving soil structure.
+- [[jadam-cover-crop-method]] for several reasons. Its rapid growth shades and outcompetes weeds. It accumulates phosphorus from the soil and makes it available to subsequent crops when incorporated. The flowers attract enormous numbers of pollinators and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. When turned under as [[comparison-green-manure-guide-vs-mulch-types-and-effects]], it breaks down quickly, adding [[hamilton-composting-and-organic-matter-management]] and improving soil structure.
 
 ## Companion Planting
 
@@ -19,7 +17,7 @@ Buckwheat is an excellent companion for many garden crops. Its flowers attract p
 
 ## Yields
 
-Typical yields range from 500-1,500 pounds per acre for grain harvest. As a cover crop, buckwheat can produce 2-3 tons of green material per acre in just 6-8 weeks. Multiple successive plantings are possible in a single growing season.
+Typical yields range from 500-1,500 pounds per acre for grain harvest. As a cover crop, buckwheat can produce 2-3 tons of green material per acre in just 6-8 weeks. Multiple successive plantings are possible in a single [[savory-growing-season-and-non-growing-season-management]].
 
 ## See Also
 
@@ -104,4 +102,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

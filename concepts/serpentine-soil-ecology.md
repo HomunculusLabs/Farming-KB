@@ -41,7 +41,7 @@ histidine and organic acids. Calcium-efficient species can maintain growth
 at low calcium availability, sometimes by upregulating calcium transport
 proteins or modifying root architecture to access calcium-rich microsites.
 
-Drought tolerance is essential given the shallow, well-drained soils.
+[[dighton-fungal-drought-tolerance-plant-water-relations]] is essential given the shallow, well-drained soils.
 Serpentinophytes often exhibit traits associated with arid environments:
 small thick leaves, deep root systems, and efficient water use. Some
 species combine serpentine tolerance with metal hyperaccumulation, using the
@@ -70,22 +70,22 @@ species and ecological context.
 
 Serpentine ecosystems are threatened by mining (ultramafic rocks are mined
 for nickel, chromium, and asbestos), invasive species that can colonize
-disturbed serpentine areas, and climate change. Their high endemism means
+disturbed serpentine areas, and [[dighton-fungi-climate-change-feedback]]. Their high endemism means
 that habitat loss directly translates to species extinction. Many
 serpentine endemics have extremely narrow ranges, sometimes restricted to
 a single hillside or outcrop.
 
 ## Global Distribution of Serpentine Outcrops
 
-Major serpentine outcrops occur on every inhabited continent. The Klamath-Siskiyou region of California and Oregon hosts one of the most diverse serpentine floras in North America, with over 1,700 plant species on serpentine, including 164 serpentine endemics. New Caledonia's ultramafic massifs are the global epicenter of nickel hyperaccumulator diversity. The Balkans, particularly Greece and the former Yugoslavia, support rich serpentine floras adapted to Mediterranean climate conditions. Cuba's Sierra del Rosario contains unique serpentine-adapted Caribbean species, and the tropical ultramafic outcrops of Southeast Asia (particularly Borneo and the Philippines) harbor significant but understudied serpentine communities.
+Major serpentine outcrops occur on every inhabited continent. The Klamath-Siskiyou region of California and Oregon hosts one of the most diverse serpentine floras in [[psilocybin-north-america-pacific-northwest]], with over 1,700 plant species on serpentine, including 164 serpentine endemics. New Caledonia's ultramafic massifs are the global epicenter of nickel hyperaccumulator diversity. The Balkans, particularly Greece and the former Yugoslavia, support rich serpentine floras adapted to Mediterranean climate conditions. Cuba's Sierra del Rosario contains unique serpentine-adapted Caribbean species, and the tropical ultramafic outcrops of Southeast Asia (particularly Borneo and the Philippines) harbor significant but understudied serpentine communities.
 
 ## Mycorrhizal Associations on Serpentine
 
-Mycorrhizal fungi are critical for plant survival on serpentine soils. Arbuscular mycorrhizal fungi (AMF) help serpentinophytes acquire phosphorus, which is severely limiting in these soils, and may also contribute to nickel tolerance through metal sequestration in fungal tissues. Studies have shown that serpentine-tolerant plant species often have distinct mycorrhizal communities compared to non-serpentine populations of the same species, suggesting co-adaptation between plants and their fungal partners on these extreme soils. Ectomycorrhizal associations are particularly important for serpentine-adapted tree species like certain Pinus and Quercus species.
+[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] are critical for plant survival on serpentine soils. [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF) help serpentinophytes acquire phosphorus, which is severely limiting in these soils, and may also contribute to nickel tolerance through metal sequestration in fungal tissues. Studies have shown that serpentine-tolerant plant species often have distinct mycorrhizal communities compared to non-serpentine populations of the same species, suggesting co-adaptation between plants and their fungal partners on these extreme soils. Ectomycorrhizal associations are particularly important for serpentine-adapted tree species like certain Pinus and Quercus species.
 
 ## Agricultural and Land-Use Challenges
 
-Serpentine soils present significant challenges for agriculture. The high magnesium-to-calcium ratio disrupts plant calcium uptake, leading to deficiencies even when calcium is present. Low nitrogen and phosphorus availability require fertilization for most crops, and elevated nickel and chromium can be phytotoxic to non-adapted species. Despite these challenges, some serpentine areas have been successfully used for specialized agriculture, including certain grape varieties that produce distinctive wines from serpentine-derived soils (notably in parts of California and Italy).
+Serpentine soils present significant challenges for agriculture. The high magnesium-to-calcium ratio disrupts plant calcium uptake, leading to deficiencies even when calcium is present. Low nitrogen and [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] require fertilization for most crops, and elevated nickel and chromium can be phytotoxic to non-adapted species. Despite these challenges, some serpentine areas have been successfully used for specialized agriculture, including certain grape varieties that produce distinctive wines from serpentine-derived soils (notably in parts of California and Italy).
 
 ## Serpentine Endemism Hotspots
 

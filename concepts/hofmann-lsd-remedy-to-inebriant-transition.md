@@ -1,5 +1,5 @@
 ---
-title: LSD Transition from Remedy to Inebriant
+title: LSD Transition from [[hofmann-lsd-animal-experiments-toxicity]] remedy to inebriant transition
 created: 2026-04-28
 tags:
   - lsd
@@ -65,12 +65,12 @@ deep-seated sociological causes: materialism, alienation from nature
 through industrialization and increasing urbanization, lack of
 satisfaction in a mechanized working world, ennui and purposelessness in
 a wealthy saturated society, and lack of a religious, nurturing, and
-meaningful philosophical foundation of life.
+meaningful [[fukuoka-spiritual-philosophical-foundation]] of life.
 
 The existence of LSD was regarded by drug enthusiasts as a predestined
 coincidence: it had to be discovered precisely at this time to help
 people suffering under modern conditions. It was not surprising that LSD
-first circulated as an inebriating drug in the United States, where
+first circulated as an inebriating drug in the [[dmt-containing-plants-united-states-halpern]], where
 industrialization, urbanization, and mechanization were most broadly
 advanced.
 
@@ -130,7 +130,7 @@ medicine.
 
 ## Related Topics
 
-- [[hofmann-leary-case-and-harvard-research]] for Timothy Leary's role in
+- [[hofmann-leary-case-and-harvard-research]] for [[timothy-leary]]'s role in
   popularizing LSD
 - [[hofmann-lsd-psychedelic-art-expression]] for artistic dimensions of the
   cultural spread

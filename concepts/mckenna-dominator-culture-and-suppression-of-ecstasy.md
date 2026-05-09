@@ -1,5 +1,5 @@
 ---
-title: Dominator Culture and Suppression of Ecstasy
+title: mckenna dominator culture and suppression of ecstasy and Suppression of Ecstasy
 created: 2026-04-28
 tags: [mckenna, dominator-culture, ecstasy, shamanism, prohibition, 
 partnership, patriarchy, consciousness]
@@ -33,7 +33,7 @@ with the Indo-European invasions beginning around 4500 BCE, introduced
 male-dominated hierarchies, warfare, slavery, and the suppression of feminine 
 religious imagery.
 
-The archaeological record at Catal Huyuk in Anatolia, one of the earliest known 
+The archaeological record at [[mckenna-catal-huyuk-natufian-link]] in Anatolia, one of the earliest known 
 settled communities dating to approximately 7000 BCE, shows no evidence of 
 defensive fortifications, warrior burials, or social stratification during its 
 first thousand years of occupation. The culture centered on goddess figurines, 
@@ -112,7 +112,7 @@ monopoly on the definition of acceptable consciousness.
 The disproportionality of drug enforcement, which incarcerates millions for 
 possession of relatively harmless plants while celebrating alcohol and 
 pharmaceutical use, reveals the political nature of the prohibition. McKenna 
-argued that "the suppression of psychedelic research and the systematic 
+argued that "the suppression of [[mckenna-suppression-psychedelic-research-lsd-therapy]] and the systematic 
 disinformation campaign against these substances is the most successful example 
 of Orwellian social control in human history."
 
@@ -127,7 +127,7 @@ costs and benefits of habitual use of plants and drugs versus the true costs
 and benefits of suppression of their use."
 
 The Archaic Revival would involve recognizing the legitimate religious 
-dimensions of psychoactive plant use, reforming drug policy to distinguish 
+dimensions of psychoactive plant use, reforming [[mckenna-modest-proposal-drug-policy-reform]] to distinguish 
 between addictive substances that reinforce dominator patterns and entheogenic 
 substances that promote ecological awareness, and recovering the shamanic 
 understanding that human consciousness participates in a larger web of meaning 

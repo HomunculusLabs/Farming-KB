@@ -13,10 +13,10 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Kershaw L. (2000). "Edible & Medicinal Plants of the Rockies." Lone Pine Publishing.
-  - Moerman D.E. (1998). "Native American Ethnobotany." Timber Press.
+  - Moerman D.E. (1998). "[[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany." Timber Press.
   - Richardson J.L. (2008). "Plants of the Rocky Mountains." Lone Pine Publishing.
   - Willard T. (1992). "Edible and Medicinal Plants of the West." Hearst Books.
-  - Kartesz J.T. (2015). "The Biota of North America Program (BONAP)."
+  - Kartesz J.T. (2015). "The Biota of [[psilocybin-north-america-pacific-northwest]] Program (BONAP)."
 ---
 
 # Shepherdia canadensis
@@ -86,7 +86,7 @@ atmospheric nitrogen fixation, contributing an estimated 20–60 kg N/ha/year to
 surrounding soils.
 
 The species functions as a pioneer colonizer on disturbed sites, facilitating
-succession by building soil nitrogen and organic matter. In riparian zones, its
+succession by building soil nitrogen and [[hamilton-composting-and-organic-matter-management]]. In riparian zones, its
 dense root system stabilizes streambanks and reduces erosion.
 
 The berries are a critical food source for numerous bird species, particularly
@@ -99,17 +99,17 @@ regions, consuming large quantities during late summer hyperphagia.
 Canada buffaloberry offers several valuable functions in cold-climate permaculture
 design:
 
-- **Nitrogen fixation:** Provides biological nitrogen to surrounding plants in
+- **Nitrogen fixation:** Provides [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] to surrounding plants in
   food forest and polyculture systems, reducing or eliminating external nitrogen
   inputs.
 - **Pioneer and nurse plant:** Establishes rapidly on degraded sites, improving
   soil conditions for subsequent plantings of more demanding species.
 - **Wildlife habitat:** Dense thickets provide cover, nesting sites, and food
-  for birds and beneficial insects.
+  for birds and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
 - **Edible fruit:** Tart berries are rich in lycopene, vitamin C, and
   antioxidants, suitable for jams, jellies, and sauces when sweetened.
 - **Erosion control:** Extensive root systems stabilize slopes and streambanks.
-- **Windbreak:** Dense, thorny growth provides effective wind protection in
+- **Windbreak:** Dense, thorny growth provides effective [[cervantes-wind-protection-outdoor-cannabis]] in
   exposed sites.
 
 At least one male plant should be included for every 5–8 female plants to ensure
@@ -136,8 +136,9 @@ Nutritional highlights per 100 g fresh berries:
 
 ## See Also
 
-- [[elaeagnus-angustifolia]]
+- elaeagnus-angustifolia
 - [[alnus-rubra]]
 - [[black-locust-entity]]
 - rosa canina
-- [[crataegus-monogyna]]
+- crataegus-monogyna
+- [[building-soil]]

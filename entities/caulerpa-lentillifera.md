@@ -36,7 +36,7 @@ The thallus consists of horizontal creeping stolons (runners) anchored by rhizoi
 
 The distinctive "sea grape" appearance comes from the gametophore axes bearing numerous spherical to ovoid vesicles (ramuli) 1–3 mm in diameter. These vesicles are clustered densely along the branch tips, resembling a cluster of small green grapes.
 
-Color ranges from bright green to yellowish-green depending on light conditions and nutrient availability. Healthy specimens have a glossy, translucent appearance with firm vesicles that detach easily from the stalk.
+Color ranges from bright green to yellowish-green depending on light conditions and [[ph-and-nutrient-availability-garden-soils]]. Healthy specimens have a glossy, translucent appearance with firm vesicles that detach easily from the stalk.
 
 ## Distribution and Habitat
 
@@ -46,7 +46,7 @@ The species inhabits shallow coastal waters, typically from 0.5 to 5 meters dept
 
 Optimal growth occurs at temperatures of 25–32°C and salinities of 25–35 ppt. The species is sensitive to cold temperatures and does not survive below 15°C, limiting its distribution to tropical and subtropical waters.
 
-The species is commonly found in association with mangrove root systems and seagrass beds. These habitats provide protection from wave action and a steady supply of nutrients from organic matter decomposition.
+The species is commonly found in association with mangrove root systems and seagrass beds. These habitats provide protection from wave action and a steady supply of nutrients from [[hamilton-composting-and-organic-matter-management]] decomposition.
 
 ## Chemistry and Nutrition
 
@@ -54,7 +54,7 @@ C. lentillifera is rich in minerals, particularly calcium (320–680 mg per 100 
 
 Protein content ranges from 8–15% dry weight, with a balanced amino acid profile including all essential amino acids. The species contains relatively high levels of branched-chain amino acids compared to other seaweeds.
 
-The species produces unique secondary metabolites including caulerpenyne, a sesquiterpene with antibacterial and cytotoxic properties. Caulerpenyne acts as a chemical defense against herbivores and epiphytes.
+The species produces unique [[antifungal-secondary-metabolites-coprophilous-fungi]] including caulerpenyne, a sesquiterpene with antibacterial and cytotoxic properties. Caulerpenyne acts as a chemical defense against herbivores and epiphytes.
 
 Dietary fiber content is 30–45% dry weight, primarily soluble polysaccharides including ulvan-like compounds. These polysaccharides exhibit prebiotic activity, supporting beneficial gut microbiota.
 The high vitamin C content is unusual for a marine vegetable and contributes to antioxidant capacity alongside the carotenoid pigments.
@@ -79,7 +79,7 @@ The flavor is mildly briny with oceanic sweetness, and the texture is the primar
 
 C. lentillifera cultivation is well-established in the Philippines, Vietnam, Japan, and Fiji. The most common method involves planting stolon fragments in shallow brackish water ponds or raceways.
 
-Pond cultivation uses earthen ponds with 20–40 cm water depth, enriched with organic or inorganic fertilizers to promote growth. The growth cycle is 30–45 days, with partial harvesting allowing continuous production.
+Pond cultivation uses earthen ponds with 20–40 cm water depth, enriched with organic or [[ingham-inorganic-fertilizers-soil-biology-damage]] to promote growth. The growth cycle is 30–45 days, with partial harvesting allowing continuous production.
 
 Land-based tank cultivation using recirculating aquaculture systems (RAS) has been developed in Japan for premium-grade production. This method provides better quality control and reduces contamination risks.
 
@@ -89,9 +89,9 @@ Post-harvest handling improvements, including modified atmosphere packaging and 
 
 ## Ecological Role
 
-C. lentillifera contributes to primary production in shallow tropical coastal ecosystems. Its dense growth forms meadow-like habitats that shelter small invertebrates and juvenile fish.
+C. lentillifera contributes to [[lichens-primary-production-soil-formation-dighton]] in shallow tropical coastal ecosystems. Its dense growth forms meadow-like habitats that shelter small invertebrates and juvenile fish.
 
-The species is capable of rapid vegetative growth, colonizing disturbed sandy substrates. In some locations, Caulerpa species can become invasive, outcompeting native seagrass species.
+The species is capable of rapid [[cannabis-vegetative-growth-stage]], colonizing disturbed sandy substrates. In some locations, Caulerpa species can become invasive, outcompeting native seagrass species.
 
 However, C. lentillifera is generally less invasive than its notorious congener *Caulerpa taxifolia*, which has caused significant ecological damage in the Mediterranean Sea. The cultivated sea grape is typically restricted to pond systems.
 
@@ -107,7 +107,7 @@ Water quality monitoring is essential in sea grape cultivation, as the siphonous
 - [[porphyra-umbilicalis]]
 - [[palmaria-palmata]]
 - [[fucus-vesiculosus]]
-- [[resveratrol]]
+- resveratrol
 - [[eucheuma-denticulatum]]
 - [[laminaria-digitata]]
 - [[taurine]]

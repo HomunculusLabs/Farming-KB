@@ -1,5 +1,5 @@
 ---
-title: Herb Gardening Organic
+title: Herb hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,9 +12,9 @@ sources:
 
 Updated: 2026-04-18
 
-Herbs should always be included in the organic garden, for both practical and aesthetic reasons. They are generally not difficult to grow and most are extremely decorative plants that help attract useful predators, as well as pollinating insects like bees. They can be planted around shrubs as ground cover to aid [[compost-building-guide]]. Since most herbs prefer a soil pH of 7.0-7.5, spent mushroom compost is ideal.
+Herbs should always be included in the organic garden, for both practical and aesthetic reasons. They are generally not difficult to grow and most are extremely decorative plants that help attract useful predators, as well as pollinating insects like bees. They can be planted around shrubs as ground cover to aid [[compost-building-guide]]. Since most herbs prefer a soil pH of 7.0-7.5, [[staycare-spent-mushroom-compost-bioremediation]] compost is ideal.
 
-The one thing most herbs cannot stand is bad drainage. If your soil is wet and heavy and cannot be improved by deep digging or the inclusion of coarse sand and organic matter, build a raised bed at least 12in (30cm) high using brick, stone, or old railroad ties.
+The one thing most herbs cannot stand is bad drainage. If your soil is wet and heavy and cannot be improved by deep digging or the inclusion of coarse sand and [[hamilton-composting-and-organic-matter-management]], build a raised bed at least 12in (30cm) high using brick, stone, or old railroad ties.
 
 ## Sowing and Planting Herbs
 
@@ -47,7 +47,7 @@ For seed harvesting, hang stems just as seeds ripen with a cloth or bowl beneath
 Plant root cuttings taken in fall. Mint can be very invasive, so plant it in a bucket or plastic tub sunk in the ground with the rim above soil level. Plant 2ft (60cm) away from other herbs. At the end of the season, dig up a few roots and pot them for a greenhouse supply through winter.
 
 ### French Tarragon
-Cannot be grown from seed -- buy young plants and space 18in (45cm) apart. Mature plants can be divided in spring. In winter, mulch with straw or bracken for frost protection. Dig, divide, and replant every four years as the flavor deteriorates with age.
+Cannot be grown from seed -- buy young plants and space 18in (45cm) apart. Mature plants can be divided in spring. In winter, mulch with straw or bracken for [[holzer-frost-protection-techniques]]. Dig, divide, and replant every four years as the flavor deteriorates with age.
 
 ### Basil
 Plant in a sunny, sheltered place in the best possible soil. Sow in small pots inside in early spring, harden off, and plant 12in (30cm) apart when all danger of frost has passed. Pinch off flower buds to maintain growth. Leaves can be dried quickly in a hot oven or frozen in ice cubes.
@@ -78,7 +78,7 @@ Hardy perennial with a sharp taste -- use sparingly. Prefers partial shade and m
 
 ## Herbs as Companion Plants
 
-Herbs play an important role in organic gardens as companion plants. Their strong scents can deter pests, and their flowers attract beneficial insects:
+Herbs play an important role in organic gardens as companion plants. Their strong scents can deter pests, and their flowers attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]:
 - Borage attracts bees and deters tomato hornworm
 - Dill attracts beneficial wasps that prey on caterpillars
 - Thyme attracts pollinating bees
@@ -87,8 +87,10 @@ Herbs play an important role in organic gardens as companion plants. Their stron
 - Sage repels cabbage moths and carrot fly
 - Chives deter aphids when planted near roses
 
-Source: Geoff Hamilton, Organic Gardening (Nick Hamilton, ed.), 2010
+Source: Geoff Hamilton, [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] (Nick Hamilton, ed.), 2010
 ## See Also
+
+- [[organic-herb-gardening]]
 
 - [[companion-planting-deterrents]]
 - [[organic-composting-methods]]

@@ -55,7 +55,7 @@ This polyploidization event conferred broad adaptability, enabling bread wheat t
 
 The Green Revolution of the 1960s introduced semi-dwarf wheat varieties developed by Norman Borlaug, which doubled global yields and prevented famine in South Asia.
 
-Modern breeding continues to focus on yield improvement, disease resistance, heat and drought tolerance, and grain quality traits for specific end uses.
+Modern breeding continues to focus on yield improvement, disease resistance, heat and [[dighton-fungal-drought-tolerance-plant-water-relations]], and grain [[cannabis-resin-production-and-quality-traits-clarke]] for specific end uses.
 
 ## Cultivation
 
@@ -71,7 +71,7 @@ Major producers include China, India, Russia, the United States, France, Canada,
 
 Global production exceeds 780 million tonnes annually, with an average yield of approximately 3.5 tonnes per hectare.
 
-Nitrogen fertilizer application typically ranges from 100–250 kg N/ha, with timing split between basal and top-dressing applications.
+Nitrogen [[cervantes-fertilizer-application-strain-feeding]] typically ranges from 100–250 kg N/ha, with timing split between basal and top-dressing applications.
 
 Key diseases include stripe rust (*Puccinia striiformis*), leaf rust (*P. triticina*), Fusarium head blight (*Fusarium graminearum*), and Septoria tritici blotch (*Zymoseptoria tritici*).
 
@@ -91,11 +91,11 @@ Phytic acid in bran can reduce mineral bioavailability, though fermentation and 
 
 ## Ecology and Applications
 
-Wheat straw is widely used as animal bedding, mushroom substrate, biofuel feedstock, and mulch in agricultural systems.
+Wheat straw is widely used as animal bedding, [[gourmet-medicinal-mushroom-substrate-preparation]], biofuel feedstock, and mulch in agricultural systems.
 
-The crop serves as a break crop in cereal rotations, disrupting pest and disease cycles that build up in continuous monocultures.
+The crop serves as a break crop in cereal rotations, disrupting [[hamilton-pest-and-disease-control-organic]] cycles that build up in continuous monocultures.
 
-Wheat provides ecosystem services including soil stabilization, carbon sequestration in root systems, and wildlife habitat in low-intensity farming landscapes.
+Wheat provides [[biodiversity-of-fungi-ecosystem-services-agriculture]] including soil stabilization, carbon sequestration in root systems, and wildlife habitat in low-intensity farming landscapes.
 
 No-till and conservation tillage practices associated with wheat production reduce soil erosion and improve soil organic matter.
 

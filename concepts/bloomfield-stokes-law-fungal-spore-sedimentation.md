@@ -19,8 +19,8 @@ type: concept
 The application of Stokes' law to fungal spore sedimentation
 represents one of the earliest intersections of mycology and
 fluid dynamics. A. H. R. Buller, working in Winnipeg in the
-early twentieth century, recognized that the behavior of
-mushroom spores falling through air might offer a critical test
+early [[coleman-louis-savier-twentieth-century-maraicher]], recognized that the behavior of
+[[query-how-to-store-mushroom-spores-long-term]] falling through air might offer a critical test
 of this fundamental principle of physics. His experiments on
 spore velocity, conducted with extraordinary ingenuity and
 patience, laid the groundwork for our understanding of how
@@ -42,10 +42,10 @@ different rates in the atmosphere.
 Buller recognized that mushroom spores, being microscopic
 spherical or nearly spherical particles falling through air,
 represented ideal subjects for testing whether Stokes' law
-applied at the scale of fungal biology. If spores behaved
+applied at the scale of [[bloomfield-fungal-biology-and-hyphal-growth]]. If spores behaved
 according to the law, their terminal velocities could be
 predicted from their size and density, providing a powerful
-tool for understanding spore dispersal patterns.
+tool for understanding [[aquatic-fungi-spore-dispersal-ingold]] patterns.
 
 ## Buller's Experimental Apparatus
 
@@ -124,10 +124,10 @@ settle out of the air column and where they ultimately land.
 ## Significance for Spore Dispersal Biology
 
 The settling velocity of spores is a critical parameter in
-fungal ecology because it determines how far spores travel
+[[gadd-fungal-ecology-endophytes]] because it determines how far spores travel
 from their source before reaching the ground. Spores with
 higher terminal velocities settle more quickly and tend to
-deposit close to the parent fruiting body, while lighter
+deposit close to the parent [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]], while lighter
 spores remain airborne longer and can be carried greater
 distances by wind currents.
 
@@ -138,3 +138,9 @@ This relationship has direct implications for the spread of
 - [[bloomfield-buller-experimental-mycology]]
 - [[bloomfield-mushroom-aerodynamics-wind-spore-dispersal]]
 - [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]]
+
+## See Also
+
+- [[bloomfield-sphaerobolus-artillery-fungus-spore-launch]]
+
+- [[bloomfield-buller-spore-velocity-stokes-law-experiments]]

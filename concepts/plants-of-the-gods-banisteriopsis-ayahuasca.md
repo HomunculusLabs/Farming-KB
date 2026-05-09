@@ -55,7 +55,7 @@ as Oco-Yaje, and Psychotria viridis (Chacruna). These additives
 contribute N,N-dimethyltryptamine (DMT) to the brew.
 
 The liana contains MAO (monoamine oxidase) inhibitors, primarily
-beta-carboline alkaloids. These harmala alkaloids — harmine,
+beta-carboline alkaloids. These [[turner-harmala-alkaloids-preparation-and-dosage]] — harmine,
 harmaline, and tetrahydroharmine — inhibit the enzyme MAO in the
 digestive tract, allowing the orally active DMT from companion
 plants to reach the bloodstream and brain. Without this
@@ -81,7 +81,7 @@ the social order" (Reichel-Dolmatoff).
 
 Ayahuasca is usually drunk in religious ceremonies. The famous
 Tukanoan Yurupari ceremony in Colombia is an adolescent
-initiation ritual for boys that involves the consumption of this
+[[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]] for boys that involves the consumption of this
 drink. The ceremony is one of the most important cultural events
 among these peoples, integrating the youth into adult society
 through the experience of the sacred plant.
@@ -112,10 +112,10 @@ transformative.
 
 The concept of Ayahuasca has expanded beyond the traditional
 Amazonian preparation. Other plants containing beta-carboline
-alkaloids, such as Peganum harmala (Syrian Rue), can serve as
+alkaloids, such as [[mckenna-food-gods-peganum-harmala-soma]] (Syrian Rue), can serve as
 MAO inhibitors. Combined with DMT-containing plants like
-Phalaris grass or Mimosa hostilis, these create what are called
-"Ayahuasca analogs." Tetrapteris methystica, used by the nomadic
+Phalaris grass or [[entheogen-jurema-mimosa-hostilis-ethnobotany]], these create what are called
+"Ayahuasca analogs." [[entheogen-tetrapteris-methystica-alternative-caapi]], used by the nomadic
 Maku Indians of the Rio Tikie in the northwestern Amazon, is
 another example of an Ayahuasca-like preparation.
 
@@ -128,7 +128,7 @@ ethnopharmacological knowledge of Amazonian peoples.
 ## Related Topics
 
 - [[plants-of-the-gods-chemical-structures-hallucinogens]] —
-  chemical structures of beta-carbolines and tryptamines
+  [[plants-of-the-gods-chemical-structures-hallucinogens]] of beta-carbolines and tryptamines
 - [[plants-of-the-gods-geography-hallucinogenic-plants]] —
   geographic distribution of hallucinogenic plants
 - [[plants-of-the-gods-hallucinogens-medicine]] — medical

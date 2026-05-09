@@ -1,5 +1,5 @@
 ---
-title: Singh Mycorrhizal Fungi in Rhizosphere Remediation
+title: Singh arbuscular-mycorrhizal-fungi-biology-symbiosis in Rhizosphere Remediation
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -7,7 +7,7 @@ tags: [mycoremediation, biology, mycorrhizal]
 sources: [raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md]
 ---
 
-# Singh [[harbhajan-singh]], Mycoremediation: [[fungal-ecology-mycoremediation]], [[brown-rot-and-white-rot-fungi-in-mycoremediation]].
+# Singh [[harbhajan-singh]], Mycoremediation: fungal-ecology-mycoremediation, [[brown-rot-and-white-rot-fungi-in-mycoremediation]].
 
 ## Classification of Mycorrhizal Fungi
 
@@ -29,13 +29,13 @@ ECM fungi are extremophiles, occurring in habitats with extreme temperature, pH,
 - Mycelia can exceed 300 m2 area
 - Proliferation in patches/mats captures nitrogen and phosphorus
 - ECM fungi mobilize essential nutrients from rock by excreting organic acids
-- Reduce bacterial activity near mycelial networks (nutrient competition)
-- Examine mycelial mats of ECM fungi enhance pollutant oxidation (Gramss, 1997)
+- Reduce bacterial activity near [[fungal-mycelial-networks-nutrient-translocation]] (nutrient competition)
+- Examine [[singh-mycelial-mats-and-biological-soil-crusts]] of ECM fungi enhance pollutant oxidation (Gramss, 1997)
 
 ## Heavy Metal Uptake and Tolerance
 
 ### Protective Mechanisms
-ECM, ERM, and VAM fungi increase plant tolerance to heavy metals by:
+ECM, ERM, and VAM fungi increase plant tolerance to [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] by:
 - Accumulating metals in extramatrical hyphae and extrahyphal slime
 - Immobilizing metals in/near roots, decreasing uptake to shoots
 - Providing nutrient supply to enable plant growth in hazardous areas
@@ -62,7 +62,7 @@ ECM fungi survive in petroleum-contaminated soils and utilize crude oil as nutri
 
 ### ECM Fungi PAH Capabilities (Braun-Lullemann et al., 1999)
 - 16 species (27 strains) tested against phenanthrene, chrysene, pyrene, benzo[a]pyrene
-- Amanita muscaria, Paxillus involutus, Suillus grevillei: ~50% phenanthrene utilization
+- [[allegro-amanita-muscaria-properties-and-pharmacology]], Paxillus involutus, Suillus grevillei: ~50% phenanthrene utilization
 - Multiple species removed ~50% benzo[a]pyrene in 4 weeks
 - S. grevillei: ~50% pyrene removal
 - Boletus edulis, A. muscaria: 35% chrysene removal

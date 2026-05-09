@@ -1,5 +1,5 @@
 ---
-title: African and Indian Cannabis Strain Descriptions (Clarke)
+title: African and Indian Cannabis cannabis african indian strain descriptions clarke (Clarke)
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -44,7 +44,7 @@ Malawi is a small country in eastern central Africa bordering Lake Nyasa.
 - Large calyxes are very sweet and resinous, as well as extremely psychoactive
 - Has become incorporated into several domestic hybrid strains
 - Phenotypes vary considerably, though many resemble Thai strains
-- Maturation is relatively late but accepted in Great Britain and North America
+- Maturation is relatively late but accepted in Great Britain and [[psilocybin-north-america-pacific-northwest]]
 
 ## Congo Strains (5 degrees N to 5 degrees S)
 - Most seeds are collected from shipments of commercial grade seeded floral clusters appearing in Europe
@@ -80,7 +80,7 @@ Dagga of South Africa is highly acclaimed:
 - [[biscotti-cannabis-strain]]
 - [[acdc-cannabis-strain]] Topics
 
-- [[cannabis-colombian-strain-description-clarke]] - Colombian strain profile
+- [[cannabis-colombian-strain-description-clarke]] - [[cannabis-colombian-strain-description-clarke]] profile
 - [[cannabis-breeding-basics]] - Breeding fundamentals
 - [[cannabis-mexican-strain-description-clarke]]
 - [[yage-common-themes-south-american-indians]]

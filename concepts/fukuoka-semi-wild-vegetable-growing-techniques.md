@@ -1,18 +1,19 @@
 ---
-title: Semi-Wild Vegetable Growing Techniques
+title: Semi-Wild fukuoka-semi-wild-vegetable-growing-natural-method Techniques
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Semi-Wild Vegetable Growing Techniques
 
 In Chapter 4 of [[fukuoka-clay-pellet-desert-greening]] for detailed pellet-making methods.
 
-For vegetables with poor germination such as spinach, carrot, and burdock: "A simple and effective solution is to coat the seeds with a mixture of clay and wood ashes or to sow them enclosed in clay pellets."
+For vegetables with poor germination such as spinach, carrot, and burdock: "A simple and effective solution is to coat the seeds with a mixture of clay and wood ashes or to sow them enclosed in [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]]."
 
 ## Leguminous Vegetables
 
@@ -20,7 +21,7 @@ Include leguminous vegetables in seeds sown among weeds from spring to early sum
 
 ## Weak Vegetables: Tomatoes and Eggplants
 
-Tomatoes and eggplants "tend to become overwhelmed at first by weeds." The safest approach: raise young plants from seed and transplant them into a cover of clover and weeds. Critical technique: allow them to grow as bushes rather than training to single stems. "If the stem is allowed to creep along the ground, this will drop roots along its entire length from which many new stems will emerge and bear fruit."
+Tomatoes and eggplants "tend to become overwhelmed at first by weeds." The safest approach: raise young plants from [[vegetable-seed-and-transplant-guide]] them into a cover of clover and weeds. Critical technique: allow them to grow as bushes rather than training to single stems. "If the stem is allowed to creep along the ground, this will drop roots along its entire length from which many new stems will emerge and bear fruit."
 
 ## Perennial Potatoes
 
@@ -60,8 +61,8 @@ Soil improvement is straightforward: "seeding clover together with the vegetable
 
 ## Chickens in the Orchard
 
-"Try raising vegetables as the undergrowth in an orchard and letting native fowl loose in the orchard. The birds will feed on the insects and their droppings will nourish the fruit trees. This is one perfect example of natural farming at work." See also [[fukuoka-vegetable-growing-natural-method]] -- complete vegetable growing methods
-- [[fukuoka-natural-vegetable-growing]] -- general natural vegetable growing
+"Try raising vegetables as the undergrowth in an orchard and letting native fowl loose in the orchard. The birds will feed on the insects and their droppings will nourish the fruit trees. This is one perfect example of [[comparison-natural-farming-vs-permaculture]] at work." See also [[fukuoka-vegetable-growing-natural-method]] -- complete vegetable [[mushroom-growing-methods-comparison]]
+- [[fukuoka-natural-vegetable-growing]] -- general [[fukuoka-natural-vegetable-growing]] growing
 - [[fukuoka-weed-ecology]] -- using weeds as indicators and companions
 - [[fukuoka-ground-cover-strategy]] -- ground cover management
 ## Practical Considerations
@@ -83,3 +84,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[fukuoka-semi-wild-vegetable-growing-natural-method]]

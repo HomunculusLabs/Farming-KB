@@ -16,10 +16,10 @@ type: concept
 
 # Energy Flow and Solar Capture
 
-Energy flow is the fourth ecosystem foundation block in Holistic
-Resource Management. It addresses the question of fuel that keeps all
-ecosystem processes and life functioning. The natural living world runs
-on solar power, and management decisions can drastically affect how
+Energy flow is the fourth [[savory-ecosystem-foundation-blocks]] block in Holistic
+[[savory-holistic-resource-management-animal-impact]]. It addresses the question of fuel that keeps all
+[[fungal-ecosystem-processes-overview]] and life functioning. The natural living world runs
+on [[holmgren-trees-solar-power-plants-detailed]], and management decisions can drastically affect how
 much solar energy is captured and put to productive use. Understanding
 energy flow is essential because it underpins the productivity of all
 other ecosystem processes.
@@ -116,9 +116,9 @@ cycles. This means evaluating every management tool for its effects on
 energy capture, not just on production of a single commodity.
 
 Management practices that maintain year-round green growing plants,
-maximize leaf area, extend the growing season, and sustain deep active
+maximize leaf area, [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season, and sustain deep active
 root systems all increase the energy base. Planned grazing that prevents
-overgrazing while maintaining animal impact can achieve these objectives
+overgrazing while maintaining [[savory-animal-impact-and-herd-effect]] can achieve these objectives
 on rangeland while simultaneously improving the other three foundation
 blocks.
 
@@ -131,6 +131,8 @@ phenological patterns that collectively capture light across more of the
 year and from more spatial positions. This is one of the fundamental
 reasons that advancing succession increases productivity and stability.
 ## See Also
+
+- [[passive-solar-and-biomass-energy]]
 
 - [[savory-solar-dollars-and-wealth-classification]]
 

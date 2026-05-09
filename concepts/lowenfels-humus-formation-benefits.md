@@ -1,5 +1,5 @@
 ---
-title: "Humus Formation and Benefits"
+title: "lowenfels humus formation benefits and Benefits"
 created: 2026-04-28
 tags: [soil-biology, organic-matter, humus, soil-health]
 date: 2026-04-25
@@ -13,7 +13,7 @@ complete decomposition of plant and animal matter by
 [[lowenfels-fungi-role-soil]]. In *Teaming With Microbes*, Lowenfels and Lewis describe humus as the
 end product of nature's recycling system and one of the most valuable components
 of good garden soil. On average, good garden soil is 45 percent mineral and 5
-percent organic matter, much of it in the form of humus. Understanding humus is
+percent [[hamilton-composting-and-organic-matter-management]], much of it in the form of humus. Understanding humus is
 fundamental to understanding why the soil food web matters for plant health.
 
 ## What Is Humus?
@@ -74,7 +74,7 @@ humus may smell flat or sour.
 
 Humus is the stable, carbon-rich end product of decomposition by the soil food
 web. It provides enormous surface area for nutrient retention through cation
-exchange, acts as a sponge for water, and serves as habitat for beneficial
+exchange, acts as a sponge for water, and serves as [[query-how-do-i-design-habitat-for-beneficial-insects]]
 microorganisms. Building humus through composting, mulching, and supporting a
 healthy soil food web is the foundation of sustainable soil management. The dark
 color of humus-rich soil is one of the most reliable visual indicators of soil

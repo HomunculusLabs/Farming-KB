@@ -23,7 +23,7 @@ sources:
 # Juglans nigra
 
 **Juglans nigra**, the black walnut, is a large deciduous tree in
-the family Juglandaceae native to eastern North America. It is one
+the family Juglandaceae native to [[polypore-fungi-eastern-north-america]] America. It is one
 of the most valuable timber trees and a significant species in
 permaculture and agroforestry systems.
 
@@ -87,15 +87,15 @@ zone extends approximately to the drip line.
   harvestable in 30-50 years
 - **Food:** Nut production begins at 8-10 years, full bearing at
   20-30 years; yields 50-100 kg per mature tree
-- **Nutrient cycling:** Deep taproot mines subsoil nutrients; leaf
-  fall contributes significant organic matter
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]:** Deep taproot mines subsoil nutrients; leaf
+  fall contributes significant [[hamilton-composting-and-organic-matter-management]]
 - **Mulch:** Leaves and husks provide high-carbon mulch (use away
   from sensitive species)
 - **Silvopasture:** Compatible with cattle and sheep; horses are
   sensitive to juglone
 
 Intercropping systems pair black walnut with juglone-tolerant
-understory crops including elderberry, pawpaw, mushroom logs,
+understory crops including elderberry, pawpaw, [[holzer-mushroom-logs-mycorrhizae-and-fungi-cultivation]],
 and pasture grasses.
 
 ## Cultivation
@@ -116,7 +116,7 @@ Heartwood is chocolate-brown to purplish-black with straight to wavy
 grain. Moderately heavy (610 kg/m³), hard, dimensionally stable.
 Works well with hand and machine tools; takes finishes exceptionally.
 
-One of the most sought-after North American hardwoods, commanding
+One of the most sought-after [[growing-gourmet-north-american-reishi-species]] hardwoods, commanding
 $8-25 per board foot depending on grade and figure.
 
 ## Related Species
@@ -129,9 +129,16 @@ $8-25 per board foot depending on grade and figure.
 
 ## See Also
 
-- [[permaculture]]
+- [[black-walnut-juglans-nigra]]
+
+- permaculture
 - [[companion-planting]]
 
 ## See Also
 
-- [[permaculture-designers-manual-vines-and-climbers]]
+- [[black-walnut-juglans-nigra]]
+
+- permaculture-designers-manual-vines-and-climbers
+- [[juglans-regia]]
+- [[intercropping-systems]]
+- [[juglans-cinerea]]

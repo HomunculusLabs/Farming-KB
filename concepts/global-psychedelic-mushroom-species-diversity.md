@@ -1,11 +1,11 @@
 ---
-title: Global Psychedelic Mushroom Species Diversity
+title: Global archaeology-of-psychedelic-mushroom-use Species Diversity
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [species-profiles, distribution, mycology, psilocybin, ecology, global, biodiversity, biogeography]
 sources:
-  - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  sources: []
   - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 
@@ -19,7 +19,7 @@ Approximately 186 known psilocybin-containing mushroom species exist worldwide, 
 
 ### Mexico -- The Richest Psilocybin Mycoflora
 
-Mexico has the highest diversity of psilocybin mushrooms, with approximately 76 species. This is the one part of the world where there is a genuinely old tradition of using these mushrooms ceremonially. Wasson's and Heim's work focused extensively on Mexican species, and much of what we know about psilocybin mushrooms originated here.
+Mexico has the highest diversity of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], with approximately 76 species. This is the one part of the world where there is a genuinely old tradition of using these mushrooms ceremonially. Wasson's and Heim's work focused extensively on Mexican species, and much of what we know about psilocybin mushrooms originated here.
 
 ### North America (excluding Mexico)
 
@@ -27,7 +27,7 @@ The Pacific Northwest has at least a dozen psilocybin-containing species among m
 
 ### Europe
 
-Europe has approximately three-quarters as many documented species as the Pacific Northwest. [[psilocybe-semilanceata-profile]] is the dominant species, found across the entire continent from Finland to Spain, Norway to Italy. P. cyanescens has spread through horticultural trade. Other species include P. serbica (Balkans), Gymnopilus purpuratus, and various Panaeolus species.
+Europe has approximately three-quarters as many documented species as the Pacific Northwest. [[psilocybe-semilanceata-profile]] is the dominant species, found across the entire continent from Finland to Spain, Norway to Italy. P. cyanescens has spread through horticultural trade. Other species include P. serbica (Balkans), [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]], and various Panaeolus species.
 
 ### Central and South America
 
@@ -35,7 +35,7 @@ Significant mycoflora including many species yet to be fully documented. P. cube
 
 ### Asia and Oceania
 
-Psilocybin mushrooms are found across Southeast Asia and the South Pacific islands. P. samuiensis from Thailand and P. subcubensis from various tropical Asian locations are notable. Australia has its own mycoflora including P. cubensis and P. subaeruginosa.
+Psilocybin mushrooms are found across [[psilocybe-southeast-asia-pacific]] and the South Pacific islands. P. samuiensis from Thailand and P. subcubensis from various tropical Asian locations are notable. Australia has its own mycoflora including P. cubensis and P. subaeruginosa.
 
 ### Africa
 
@@ -46,7 +46,7 @@ One Psilocybe species documented from northern Algeria (P. mairei). Reports of a
 1. **Tropical concentration**: The greatest species diversity occurs in tropical and subtropical regions with high annual rainfall.
 2. **Dung association**: Many species are coprophilous, associated with the domestication of cattle. P. cubensis spread globally with Brahman cattle.
 3. **Horticultural spread**: Nonnative species have been distributed through the importation of exotic plants and their associated soil.
-4. **Wood chip adaptation**: Several temperate species (P. cyanescens, P. azurescens) thrive on wood chip mulch in landscaped areas.
+4. **[[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] adaptation**: Several temperate species (P. cyanescens, P. azurescens) thrive on wood chip mulch in landscaped areas.
 5. **Underreported regions**: Many areas have not been systematically surveyed. The absence of reports does not indicate absence of species.
 
 ## Genera Containing Psilocybin
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

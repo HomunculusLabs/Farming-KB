@@ -1,5 +1,5 @@
 ---
-title: Cannabis Harvesting and Processing - Greg Green's Cannabis Grow Bible
+title: green [[cannabis-harvesting-and-curing-techniques]] processing and Processing - [[greg-green]]'s green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
 created: 2026-04-26
 updated: 2026-04-25
 sources:
@@ -22,7 +22,7 @@ examine your bud and learn to identify maturity.
 - 50% to 70% of the pistils change color
 - Your plant stops producing crystals
 - Your plant stops producing resin
-- Fan leaves and lower leaves turn yellow and start dropping off
+- Fan leaves and lower leaves [[query-what-causes-cannabis-leaves-to-turn-yellow]] and start dropping off
 - The smell has reached a peak
 - Bud mass has not increased in the past few days
 
@@ -129,7 +129,7 @@ through screening processes (discussed in Chapter 17 of the source).
 2. Exposing harvested bud to direct light -- degrades THC
 3. Speeding up drying with heat -- ruins taste and smoothness
 4. Skipping the curing process -- harsh smoke, reduced quality
-5. Not opening curing jars daily -- mold risk, incomplete cure
+5. Not opening [[cannabis-curing-jars]] daily -- mold risk, incomplete cure
 6. Throwing away trim -- valuable for hash production
 
 ## Post-Harvest Checklist
@@ -142,5 +142,5 @@ through screening processes (discussed in Chapter 17 of the source).
 - [ ] Jars opened daily for 6 hours
 - [ ] Bud shaken in jars every couple days
 ## See Also
-
+- [[green-cannabis-grow-bible-pre-flowering-and-sexing-plants]]
 - [[cannabis-harvest-and-curing]]

@@ -1,22 +1,22 @@
 ---
-title: White Clover Living Mulch
+title: fukuoka-white-clover-cover-crop-system comparison-living-mulch-vs-cover-crops
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [soil, gardening]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources: []
 ---
 # White Clover Living Mulch
 
-White clover (*Trifolium repens*) is the foundational [[natural-farming-philosophy]] system, serving simultaneously as nitrogen fixer, weed suppressor, soil builder, and erosion control. In his fields, clover grows year-round beneath both rice and winter grain, forming a permanent living mulch that replaces chemical fertilizer, herbicides, and much of the labor of conventional farming.
+White clover (*Trifolium repens*) is the foundational [[natural-farming-philosophy]] system, serving simultaneously as nitrogen fixer, weed suppressor, soil builder, and [[permplant-willows-salix-erosion-control-fodder]]. In his fields, clover grows year-round beneath both rice and winter grain, forming a permanent living mulch that replaces chemical fertilizer, herbicides, and much of the labor of conventional farming.
 
 ## Role in the Rice/Grain Rotation
 
-The clover cycle is integral to the [[fukuoka-straw-mulch-philosophy]], clover provides effective weed control without tillage or herbicides. Where the clover and weeds are not so thick, seeds can simply be tossed out directly.
+The clover cycle is integral to the [[fukuoka-straw-mulch-philosophy]], clover provides effective [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] without tillage or herbicides. Where the clover and weeds are not so thick, seeds can simply be tossed out directly.
 
 ### Soil Protection and Building
-The clover mat protects the soil surface from erosion by rain and wind. Its roots improve soil structure, and when portions die back, they add organic matter. Over twenty-five years, Fukuoka's orchard soil — originally hard red clay "so hard you could not stick a shovel into it" — became "loose, dark coloured, and rich with earthworms and organic matter" largely due to clover and straw.
+The clover mat protects the soil surface from erosion by rain and wind. Its roots improve soil structure, and when portions die back, they add [[hamilton-composting-and-organic-matter-management]]. Over twenty-five years, Fukuoka's orchard soil — originally hard red clay "so hard you could not stick a shovel into it" — became "loose, dark coloured, and rich with earthworms and organic matter" largely due to clover and straw.
 
 ### Moisture Retention
 Clover keeps the ground moist and well-aerated. During hot months, the clover layer reduces evaporation, and even in years with very little rain, the soil stayed moist below the layer of straw and green manure.
@@ -27,7 +27,7 @@ On the hillside orchards, clover was essential for preventing erosion on what ha
 ## Related
 
 - [[fukuoka-winter-grain-rice-rotation]] -- clover in the annual cycle
-- [[cover-cropping-guide]] -- broader cover cropping context
+- [[cover-cropping-guide]] -- broader [[fukuoka-clover-cover-cropping-soil-ecology]] context
 - [[desertification-and-vegetation-loss|soil regeneration]] methods
 - [[four-principles-of-natural-farming]] -- the principles behind living mulch
 - [[cover-crop-guide-detailed]]
@@ -108,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -18,11 +18,11 @@ type: concept
 
 Masanobu Fukuoka provides a detailed classification of vegetable crops by
 their natural resistance to disease and insect pests, drawn from his
-experience at the Kochi Prefecture Agricultural Testing Station during and
+experience at the Kochi Prefecture Agricultural [[fukuoka-straw-scattering-testing-station-resistance]] during and
 after World War II. He divides vegetables into three categories: high,
 moderate, and low resistance. This classification underpins his argument
 that most vegetables can be grown without pesticides when cultivated using
-natural farming methods in healthy soil with proper companion planting.
+natural farming methods in healthy soil with proper [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]].
 
 ## Historical Context of Pest Control in Japan
 
@@ -87,7 +87,7 @@ leaf vegetables, melon flies on watermelon and cucumbers, and ladybugs
 on eggplant and potatoes. Disease and pest damage could usually be
 prevented by being familiar with the nature and features of such damage
 rather than attempting direct control. Although ten to twenty types of
-pests and diseases generally attack any one kind of vegetable, only a
+[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] generally attack any one kind of vegetable, only a
 few are truly major: cutworms, borers, leaf beetles, certain ladybugs,
 seed-corm maggots, and aphids.
 
@@ -110,7 +110,7 @@ Fukuoka recounts observing local chickens "black as ravens" strutting
 through a vegetable patch in a farmyard, deftly picking at insects without
 scratching the earth or harming the vegetables. He recommends letting
 fowl loose in a vegetable patch as one very effective way of keeping
-insect pests in check. Growing vegetables as undergrowth in an orchard
+insect pests in check. [[container-growing-vegetables-herbs]] as undergrowth in an orchard
 and letting native fowl loose creates a complete system: the birds feed
 on insects, their droppings nourish the fruit trees, and the vegetables
 benefit from reduced pest pressure and the fertility provided by the
@@ -122,11 +122,11 @@ where multiple organisms support each other without human intervention.
 Growing one type of vegetable in a field is unnatural and invites disease
 and pest attack, according to Fukuoka. When vegetables are companion-
 planted and made to grow together with weeds, damage becomes minimal and
-there is no need to spray pesticides. Semi-wild cultivation methods,
+there is no need to spray pesticides. Semi-wild [[synthetic-log-cultivation-methods-guide]],
 where vegetables are scattered among orchard trees or on idle land and
 allowed to grow in mixed stands with clover and weeds, produce
 surprisingly large and healthy vegetables. The pungent aroma and good
-body of semi-wild vegetables indicate their superior nutritional quality,
+body of semi-wild vegetables indicate their superior [[coleman-winter-greens-nutritional-quality-cold-sweetening]],
 having been produced in healthy soil containing all necessary
 micronutrients.
 
@@ -135,3 +135,7 @@ micronutrients.
 [[fukuoka-disease-pest-management]]
 [[fukuoka-natural-vegetable-growing]]
 [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]]
+
+## See Also
+
+- [[fukuoka-textdoc-invasive-pest-quarantine-medfly-codling-moth]]

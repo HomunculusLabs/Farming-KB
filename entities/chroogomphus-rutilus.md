@@ -12,10 +12,10 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Kuo, M. (2023). "Chroogomphus rutilus." MushroomExpert.com.
-  - Miller, O.K. & Miller, H.H. (2006). North American Mushrooms: A Field Guide to Edible and Inedible Fungi. Globe Pequot Press.
+  - Miller, O.K. & Miller, H.H. (2006). [[growing-gourmet-north-american-reishi-species]] Mushrooms: A Field Guide to Edible and Inedible Fungi. Globe Pequot Press.
   - Singer, R. (1986). The Agaricales in Modern Taxonomy. 4th ed. Koeltz Scientific Books.
-  - Bresinsky, A. & Besl, H. (1990). A Colour Atlas of Poisonous Fungi. Wolfe Publishing.
-  - Wang, Y. et al. (2018). "Nutritional Composition and Antioxidant Activity of Chroogomphus rutilus." Journal of Food Science, 83(3), 780–786.
+  - Bresinsky, A. & Besl, H. (1990). A Colour Atlas of [[ramsbottom-poisonous-fungi-identification-guide]]. Wolfe Publishing.
+  - Wang, Y. et al. (2018). "[[dighton-fungal-nutritional-composition-animal-diets]] and Antioxidant Activity of Chroogomphus rutilus." Journal of Food Science, 83(3), 780–786.
 ---
 
 ## Overview
@@ -126,11 +126,11 @@ the species show immunomodulatory activity in murine macrophage models.
 ## Ecological Role
 
 As an obligate ectomycorrhizal symbiont, *C. rutilus* plays a role in
-nutrient cycling within pine forest ecosystems. The mycorrhizal
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within pine forest ecosystems. The mycorrhizal
 association enhances host tree uptake of phosphorus and nitrogen,
 while the fungus receives photosynthetic carbon from the host.
 
-The species may serve as a bridging host for fungal parasites. Specimens
+The species may serve as a bridging host for [[bloomfield-fungal-parasites-of-insects]]. Specimens
 are frequently parasitized by *Chlorophyllum rhacodes* or by the bolete
 parasite *Asterophora lycoperdoides*, though this is more commonly
 observed in related *Chroogomphus* species.
@@ -138,8 +138,11 @@ observed in related *Chroogomphus* species.
 ## See Also
 
 - [[suillus-luteus]] — Fellow ectomycorrhizal associate of pine forests
-- [[ganoderma-lucidum]] — Medicinal polypore sharing coniferous forest habitat
+- [[ganoderma-lucidum]] — [[growing-gourmet-medicinal-polypore-candidates-turkey-tail-chaga]] sharing coniferous forest habitat
 
 ## See Also
 
-- [[edible-wild-mushrooms-foraging-guide]]
+- edible-wild-mushroom-guide
+- [[ectomycorrhiza]]
+- [[pinus-sylvestris]]
+- [[ectomycorrhizal-associations]]

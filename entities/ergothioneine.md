@@ -54,7 +54,7 @@ Ergothioneine biosynthesis in fungi proceeds through a five-step enzymatic pathw
 
 Humans and animals **cannot synthesize ergothioneine** and must obtain it entirely from dietary sources. Biosynthesis is confirmed in:
 
-- **Basidiomycota mushrooms:** *Pleurotus* spp., *Agaricus* spp., *Lentinula edodes*, *Ganoderma lucidum*, *Hericium erinaceus*, *Grifola frondosa*, *Flammulina velutipes*
+- **Basidiomycota mushrooms:** *Pleurotus* spp., *Agaricus* spp., *[[staycare-lentinula-edodes-in-bioremediation]]*, *[[stamets-reishi-ganoderma-lucidum-cultivation]]*, *Hericium erinaceus*, *[[maitake-grifola-frondosa-comprehensive-profile]]*, *Flammulina velutipes*
 - **Ascomycota:** Yeasts (*Neurospora crassa*), molds (*Aspergillus* spp.)
 - **Actinobacteria:** *Mycobacterium* spp., *Streptomyces* spp.
 - **Cyanobacteria:** Some *Nostoc* and *Anabaena* species
@@ -83,7 +83,7 @@ The discovery of a **dedicated transporter** for ergothioneine is the strongest 
 - **Distribution:** Widely expressed in human tissues — highest in kidney (reabsorption), liver, bone marrow, erythrocytes, lens of the eye, and seminal fluid
 - **Specificity:** Highly specific for ergothioneine; does not transport glutathione, cysteine, or other thiols
 - **Conservation:** The transporter is conserved across mammals, indicating strong evolutionary selective pressure
-- **Knockout studies:** OCTN1 knockout mice show increased susceptibility to oxidative stress, inflammation, and tissue damage, confirming the protective role of ergothioneine transport
+- **Knockout studies:** OCTN1 knockout mice show increased susceptibility to [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], inflammation, and tissue damage, confirming the protective role of ergothioneine transport
 
 ## Physiological Roles
 
@@ -132,9 +132,11 @@ Ergothioneine is available as a dietary supplement:
 - **Typical dose:** 5–20 mg/day
 - **Safety:** Generally recognized as safe (GRAS) in the United States
 - **Bioavailability:** High when taken with food; enhanced by mushroom matrix
-- **No known toxicity:** Even at high doses (up to 900 mg/day in clinical trials), no adverse effects have been reported
+- **No known toxicity:** Even at high doses (up to 900 mg/day in [[mushroom-cancer-clinical-trials-overview]]), no [[blesching-cannabis-safety-adverse-effects-evidence]] have been reported
 
 ## See Also
+
+- [[cordycepin]]
 
 - [[lions-mane-hericium-erinaceus]]
 - [[lentinula-edodes]] — Shiitake mushroom, a rich source of ergothioneine

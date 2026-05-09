@@ -14,11 +14,11 @@ In "Mycelium Running," Paul Stamets presents medicinal mushrooms as a largely un
 
 ## Antibiotics from Mushrooms
 
-Mushrooms naturally produce a surprising array of antibiotics. The cell surface of mycelium "sweats" out exudates -- secondary metabolites including enzymes and antibiotics that stop microbial parasites. Mushrooms resist bacterial and fungal rot until they release spores, age, and die. After sporulation, mushrooms rot, and Stamets believes each mushroom species predetermines which bacterial colonies can live upon it.
+Mushrooms naturally produce a surprising array of antibiotics. The cell surface of mycelium "sweats" out exudates -- [[antifungal-secondary-metabolites-coprophilous-fungi]] including enzymes and antibiotics that stop microbial parasites. Mushrooms resist bacterial and fungal rot until they release spores, age, and die. After sporulation, mushrooms rot, and Stamets believes each mushroom species predetermines which bacterial colonies can live upon it.
 
 A Merck survey of 204 mushroom species (Suay et al. 2000) found many target specific bacteria. Stamets's own experiments showed that cold-water extracts from living mycelia of oyster mushrooms (Pleurotus ostreatus), birch polypore (Piptoporus betulinus), and agarikon reduced E. coli and Staphylococcus aureus colony counts from more than 100 million to 1,000-10,000 CFU in 48-72 hours -- equivalent to more than 99.99% inhibition.
 
-Stamets catalogues specific antibiotics isolated from mushrooms: calvacin from giant puffballs (Calvatia gigantea), armillaric acid from honey mushrooms (Armillaria mellea), campestrin from meadow mushrooms (Agaricus campestris), coprinol from inky caps (Coprinus species), corolin from turkey tail (Trametes versicolor), cortinellin from shiitake (Lentinula edodes), ganomvein from reishi (Ganoderma lucidum), agaricin from agarikon (Fomitopsis officinalis), and sparassol from cauliflower mushrooms (Sparassis crispa). With diversity estimated at over 140,000 species, mushrooms are a promising resource for new antibiotics.
+Stamets catalogues specific antibiotics isolated from mushrooms: calvacin from giant puffballs (Calvatia gigantea), armillaric acid from honey mushrooms (Armillaria mellea), campestrin from meadow mushrooms (Agaricus campestris), coprinol from inky caps (Coprinus species), corolin from turkey tail ([[staycare-trametes-versicolor-bioremediation-applications]]), cortinellin from shiitake (Lentinula edodes), ganomvein from reishi ([[stamets-reishi-ganoderma-lucidum-cultivation]]), agaricin from agarikon (Fomitopsis officinalis), and sparassol from cauliflower mushrooms (Sparassis crispa). With diversity estimated at over 140,000 species, mushrooms are a promising resource for new antibiotics.
 
 ## Antiviral Properties
 
@@ -35,7 +35,7 @@ Key findings include:
 - Oyster mushroom (Pleurotus ostreatus) yielded a ubiquitin-like glycoprotein inhibiting HIV (Wang and Ng 2000)
 - Mushroom derivatives activate natural immune response in mammalian cells, boosting resistance to microbial infection (Stamets 2003b)
 
-Mushrooms with direct antiviral activity identified in the book include Agrocybe aegerita, Cordyceps sinensis, Cortinarius caperatus, Fomes fomentarius, Fomitopsis officinalis, Ganoderma lucidum, Grifola frondosa, Inonotus obliquus, Lentinula edodes, Piptoporus betulinus, Pleurotus ostreatus, Polyporus umbellatus, and Trametes versicolor.
+Mushrooms with direct antiviral activity identified in the book include Agrocybe aegerita, Cordyceps sinensis, Cortinarius caperatus, Fomes fomentarius, Fomitopsis officinalis, Ganoderma lucidum, [[maitake-grifola-frondosa-comprehensive-profile]], [[chaga-inonotus-obliquus-medicinal-profile]], Lentinula edodes, Piptoporus betulinus, Pleurotus ostreatus, [[growing-gourmet-polyporus-umbellatus-zhu-ling-cultivation]], and Trametes versicolor.
 
 Stamets hypothesizes that studying mushroom-bacteria-virus-bacteriophage interrelationships will reveal medically significant antibiotics. Mushrooms having both antiviral and antibacterial properties may prevent opportunistic infections in immunocompromised patients, such as those whose respiratory viral infections make them susceptible to Streptococcus pneumonia. Virologists are concerned about the threat of viral infection from animals, as demonstrated by the 2003 SARS epidemic.
 

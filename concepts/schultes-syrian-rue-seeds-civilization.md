@@ -1,5 +1,5 @@
 ---
-title: Syrian Rue Seeds of Civilization
+title: golden-guide-syrian-rue-and-maoi-plants Seeds of Civilization
 created: 2026-04-28
 tags:
   - ethnobotany
@@ -16,7 +16,7 @@ type: concept
 
 # Syrian Rue Seeds of Civilization
 
-Syrian Rue (*Peganum harmala* L.) is a bushy shrub of the Caltrop family
+Syrian Rue (*[[mckenna-food-gods-peganum-harmala-soma]]* L.) is a bushy shrub of the Caltrop family
 (Zygophyllaceae) native to desert areas from western Asia across to
 northern India, with a range extending through Mongolia and Manchuria.
 Though less celebrated than New World hallucinogens, Syrian Rue possesses
@@ -46,7 +46,7 @@ including the Malpighiaceae, the plant family that contains
 
 The beta-carbolines are notable for their monoamine oxidase inhibitor
 (MAOI) properties. This pharmacological characteristic is central to their
-role both in traditional medicine and in ayahuasca preparation, where they
+role both in traditional medicine and in [[harner-amazonian-ayahuasca-preparation-methods]], where they
 function to inhibit the enzymatic breakdown of dimethyltryptamine (DMT) in
 the gut, allowing the visionary compound to become orally active.
 
@@ -88,14 +88,14 @@ plant use.
 The discovery that beta-carboline alkaloids from Syrian Rue could
 substitute for the Amazonian *Banisteriopsis caapi* in activating oral DMT
 represented a major insight in ethnopharmacology. It revealed that the
-key to ayahuasca's oral activity lay not in any unique Amazonian plant
+key to ayahuasca's [[tihkal-oral-activity-mao-inhibition]] lay not in any unique Amazonian plant
 property but in the universal biochemistry of monoamine oxidase inhibition.
 This understanding opened the door to the study of ayahuasca analogs
 worldwide and deepened scientific appreciation of the pharmacological
 sophistication embedded in indigenous plant knowledge.
 
 The beta-carbolines harmine and harmaline are themselves psychoactive,
-producing mild visionary effects, altered states of consciousness, and in
+producing mild visionary effects, [[weil-the-natural-mind-altered-states-normalcy]] of consciousness, and in
 higher doses, nausea and purgative effects. In the context of ayahuasca
 preparations, however, their primary role is facilitatory, enabling the
 DMT from companion plants to reach the bloodstream intact.
@@ -126,6 +126,6 @@ ergot in Europe.
 - [[schultes-solandra-kieli-huichol-narcotic]]
 
 - [[schultes-ergot-st-anthonys-fire]] for ergot, another source of
-  lysergic acid and ergoline alkaloids
+  [[ergot-and-lysergic-acid-history]] and ergoline alkaloids
 - [[schultes-san-pedro-four-winds]] for another plant with beta-carboline
   additive traditions in Andean ceremonies

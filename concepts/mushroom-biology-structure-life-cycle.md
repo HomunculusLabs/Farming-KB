@@ -1,18 +1,18 @@
 ---
-title: Mushroom Biology: Structure and Life Cycle
+title: psilocybin-mushroom-biology-chemistry: Structure and Life Cycle
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[mushroom-cultivation-overview]]. Both paul stamets in The Mushroom Cultivator and Andy Letcher in Shroom: A Cultural History of the Magic Mushroom describe the fungal life cycle, though from different perspectives — Stamets focusing on cultivation implications and Letcher on the organism's broader cultural significance.
+tags: [accessible-mushroom-cultivation-for-disabilities] overview]. Both paul stamets in The Mushroom Cultivator and Andy Letcher in Shroom: A shroom-cultural-history-hippie-revolution-and-counterculture of the australian-magic-mushroom-common-names describe the fungal life cycle, though from different perspectives — Stamets focusing on cultivation implications and Letcher on the organism's broader ethnomycology-cultural-significance-sacred-fungi.
 
 ## What Is a Mushroom
 
-A mushroom (carpophore) is not the entire organism but merely the reproductive structure, or fruiting body, concerned with propagating genes into the next generation. The main body consists of a network of microscopic threads called hyphae, which grow and branch through the species' preferred substrate, forming a [[agaricus-bisporus-cultivation-biology]], [[cotter-mycoremediation-overview]]) are saprophytes.
+A mushroom (carpophore) is not the entire organism but merely the reproductive structure, or [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]], concerned with propagating genes into the next generation. The main body consists of a network of microscopic threads called hyphae, which grow and branch through the species' preferred substrate, forming a agaricus-bisporus-cultivation-biology, cotter-mycoremediation-overview) are saprophytes.
 
 ### Symbiotic (Mycorrhizal)
-Some fungi bond with plant roots to form complex underground networks called mycorrhizae — a "wood-wide web" without which both plant and fungus would struggle. [[mushroom-genetics-strain-improvement]]
-- [[agar-culture-techniques-detailed]]
-- [[strain-selection-development]]
+Some fungi bond with plant roots to form complex underground networks called mycorrhizae — a "wood-wide web" without which both plant and fungus would struggle. mushroom-genetics-strain-improvement
+- agar-culture-techniques-detailed
+- strain-selection-development
 
 ---
 
@@ -95,4 +95,9 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[allegro-sacred-prostitute-and-the-mushroom-cult]]
+- [[agaricus-campestris-morphology-and-life-cycle]]
+- [[coprinus-atrementarius-entity-the-mushroom-cultivator]]
+- [[pseudomonas-putida-entity-the-mushroom-cultivator]]
+- [[mucor-racemosus-entity-the-mushroom-cultivator]]

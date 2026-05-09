@@ -1,5 +1,5 @@
 ---
-title: Spawn Grain Performance Research
+title: Spawn spawn grain performance research Research
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,11 +9,11 @@ sources:
 ---
 # Spawn Grain Performance Research
 
-The choice of [[grain-spawn-preparation]] — detailed spawn preparation methods
-- [[mushroom-substrate-recipes]] — substrate formulation
+The choice of [[grain-spawn-preparation]] — detailed [[azurescens-spawn-preparation-grain-to-wood]] methods
+- mushroom-substrate-recipes — substrate formulation
 - [[mushroom-yield-optimization]] — maximizing harvest yields
-- [[mushroom-sawdust-bran-spawn-preparation]]
-- [[mushroom-cultivation-wood-logs]]
+- mushroom-sawdust-bran-spawn-preparation
+- mushroom-cultivation-wood-logs
 ## Background and Context
 
 Spawn Grain Performance Research is an important subject that has garnered significant attention
@@ -142,4 +142,7 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-
+## See Also
+- [[substrate-formulation]]
+- [[spawn-preparation]]
+- [[mushroom-spawn-grain-preparation-inoculation]]

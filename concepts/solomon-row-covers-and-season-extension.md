@@ -1,5 +1,5 @@
 ---
-title: Solomon on Row Covers and Season Extension
+title: Solomon on Row Covers and comparison-season-extension-techniques-vs-cold-frame-gardening
 created: 2026-04-21
 updated: 2026-04-21
 type: "concept"
@@ -13,6 +13,8 @@ From [[solomon-on-root-cellaring]] for details.
 
 ## Related
 
+- [[solomon-row-covers-physical-pest-exclusion]]
+
 - [[solomon-manure-types-and-nutrient-values]]
 
 - [[season-extension-techniques]]
@@ -21,15 +23,15 @@ From [[solomon-on-root-cellaring]] for details.
 
 ## Pest Management Philosophy
 
-Steve Solomon advocates a relaxed, integrated approach to pest management that prioritizes plant health, cultural practices, and acceptance over aggressive chemical or even natural pesticide use. His philosophy flows from the understanding that healthy plants naturally resist pests. The starting point of Solomon's pest philosophy is that unhealthy plants attract pests — and that the most effective pest management strategy is growing healthy plants in the first place through proper [[solomon-crop-rotation-and-garden-planning]], and appropriate variety selection. Solomon is skeptical of both synthetic and "organic" pesticide sprays, arguing that they often cause more harm than good by disrupting the natural balance of predator and prey insects. For further detail, see [[solomon-crop-rotation-and-garden-planning]] and [[solomon-complete-organic-fertilizer-guide]] for the connection between soil nutrition and plant pest resistance.
+Steve Solomon advocates a relaxed, integrated approach to pest management that prioritizes plant health, cultural practices, and acceptance over aggressive chemical or even [[jadam-natural-pesticide-institute-and-research]] use. His philosophy flows from the understanding that healthy plants naturally resist pests. The starting point of Solomon's [[coleman-pest-philosophy-first-rule]] is that unhealthy plants attract pests — and that the most effective pest management strategy is growing healthy plants in the first place through proper [[solomon-crop-rotation-and-garden-planning]], and appropriate variety selection. Solomon is skeptical of both synthetic and "organic" pesticide sprays, arguing that they often cause more harm than good by disrupting the natural balance of predator and prey insects. For further detail, see [[solomon-crop-rotation-and-garden-planning]] and [[solomon-complete-organic-fertilizer-guide]] for the connection between soil nutrition and plant pest resistance.
 
 ## Materials and Installation
 
 Solomon's approach to season extension materials is characteristically pragmatic and low-cost. He emphasizes that gardeners should invest in materials proportional to the actual benefit they provide, rather than purchasing elaborate systems.
 
-**Spun-bonded row cover fabric** (brands include Reemay, Agribon, and various generic equivalents) is the primary material Solomon recommends. These fabrics are made of spun polypropylene or polyester fibers, are lightweight enough to drape directly over plants without support, and allow air, water, and most light to pass through. Different weights are available: lighter fabrics (0.5 oz/yd²) provide insect exclusion with minimal light reduction, while heavier weights (1.0–1.5 oz/yd²) offer greater frost protection but block more light and may require wire hoops for support.
+**Spun-bonded row cover fabric** (brands include Reemay, Agribon, and various generic equivalents) is the primary material Solomon recommends. These fabrics are made of spun polypropylene or polyester fibers, are lightweight enough to drape directly over plants without support, and allow air, water, and most light to pass through. Different weights are available: lighter fabrics (0.5 oz/yd²) provide insect exclusion with minimal light reduction, while heavier weights (1.0–1.5 oz/yd²) offer greater [[holzer-frost-protection-techniques]] but block more light and may require wire hoops for support.
 
-**Installation method**: Lay the fabric directly over the planted row or bed, allowing 6–12 inches of excess on each side. Bury the edges in soil or secure with landscape fabric pins, ensuring complete contact with the ground with no gaps — even a small opening allows insects to enter. For crops that will grow tall (tomatoes, peppers), use wire hoops or a simple PVC frame to create a low tunnel, giving the fabric room to accommodate plant height. Water passes through most row cover fabrics, so overhead watering or rain is not impeded. Remove the cover temporarily for weeding or harvesting, then re-anchor immediately.
+**Installation method**: Lay the fabric directly over the planted row or bed, allowing 6–12 inches of excess on each side. Bury the edges in soil or secure with [[comparison-mulch-types-and-effects-vs-landscape-fabric-alternatives]] pins, ensuring complete contact with the ground with no gaps — even a small opening allows insects to enter. For crops that will grow tall (tomatoes, peppers), use wire hoops or a simple PVC frame to create a low tunnel, giving the fabric room to accommodate plant height. Water passes through most row cover fabrics, so overhead watering or rain is not impeded. Remove the cover temporarily for weeding or harvesting, then re-anchor immediately.
 
 **Wire hoops** can be made from 9-gauge galvanized wire cut into 6–8 foot lengths and bent into arches. These are spaced every 3–4 feet along the row and pushed 6 inches into the soil on each side. The row cover fabric is then draped over the hoops and clipped or buried at the ends and sides. This simple structure costs very little and can be reused for many seasons.
 
@@ -61,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

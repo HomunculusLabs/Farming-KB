@@ -32,14 +32,14 @@ Compartmented in vitro systems enable research on:
   - **Phosphorus uptake kinetics**: Quantifying P uptake by ERM and transfer
     rates to host plants using isotopic tracers — see
     [[isotopic-tracers-mycorrhizal-research]] for methodology
-  - **Metal transport**: Studying uptake and translocation of heavy metals
+  - **Metal transport**: Studying uptake and translocation of [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
     and micronutrients by AMF hyphae
   - **Carbon allocation**: Tracking photosynthate flow from host to fungus
     using 13C or 14C labelling
   - **Molecular studies**: Performing gene expression analyses on isolated
     extraradical mycelium without soil contamination
   - **Nutrient competition**: Investigating interactions between different
-    nutrient sources and their effects on fungal transport
+    nutrient sources and their [[brassinosteroid-effects-on-fungal-morphology]] transport
 
 ## Advantages Over Soil Systems
 
@@ -51,7 +51,7 @@ The sterile, defined environment of in vitro systems provides:
   - Precise recovery of both roots and extraradical mycelium for analysis
   - Reproducibility essential for physiological and molecular studies
   - Compatibility with
-[[mycorrhizal-compartmented-culture-systems]] and continue to be essential
+mycorrhizal-compartmented-culture-systems and continue to be essential
 tools in mycorrhizal research.
 
 ## Related Topics
@@ -59,6 +59,7 @@ tools in mycorrhizal research.
 - [[in-vitro-mycorrhizal-systems]]
 - [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
 - [[isotopic-tracers-mycorrhizal-research]]
+
 ## Practical Considerations
 
 Successful implementation of Compartmented In Vitro Systems for AM Transport Studies requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

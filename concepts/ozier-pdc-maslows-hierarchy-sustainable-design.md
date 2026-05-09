@@ -7,8 +7,8 @@ topics: psychology, sustainability, human-needs, design, permaculture, maslow
 
 # Maslow's Hierarchy of Needs in Sustainable Design
 
-William Ozier's PDC text presents an innovative application of Maslow's
-Hierarchy of Needs to [[permaculture]] food systems, water harvesting, [[natural-building]] all address this tier.
+[[william-ozier-williams]]'s PDC text presents an innovative application of Maslow's
+Hierarchy of Needs to permaculture food systems, water harvesting, [[natural-building]] all address this tier.
 
 ### 2. Security
 
@@ -17,7 +17,7 @@ from weather, protection from threats, and stable food/water supplies.
 Importantly, the *perception* of security matters as much as actual security
 — a system can be objectively safe but if occupants don't feel secure, the
 need is unmet. Design elements like robust structures, reliable yields, and
-disaster preparedness planning address this.
+[[williams-pdc-disaster-preparedness]] planning address this.
 
 ### 3. Community (Belonging)
 
@@ -25,7 +25,7 @@ Ozier expands this need beyond human relationships to include relationships
 with animals, plants, and the broader ecosystem. This explains universal
 human desires for pets, houseplants, gardens, bird-watching, and time in
 nature. A sustainable design should create spaces that foster these
-multi-species relationships — wildlife habitat, food forests, gathering
+multi-species relationships — [[hemenway-backyard-wildlife-habitat]], food forests, gathering
 spaces, and shared community infrastructure.
 
 ### 4. Positive Self-Esteem
@@ -108,3 +108,5 @@ criteria alongside soil, water, and yield.
 ## See Also
 
 - [[ozier-pdc-ecological-design]]
+- [[permaculture-design]]
+- [[ozier-pdc-plant-guilds-and-polyculture-design]]

@@ -20,7 +20,7 @@ type: concept
 
 The epilogue of *The Natural Way of Farming* is Fukuoka's most personal and philosophical passage, revealing his reflections on a lifetime of work and his relationship with the scientific establishment.
 
-Written from the vantage point of his ripening barley fields, it contains some of his most memorable statements about the irreconcilable differences between natural and scientific farming, and the impossibility of making nature speak in the language of science.
+Written from the vantage point of his ripening barley fields, it contains some of his most memorable statements about the irreconcilable differences between natural and [[fukuoka-illusions-of-scientific-farming]], and the impossibility of making nature speak in the language of science.
 
 ## The Frog in the Well Metaphor
 
@@ -34,7 +34,7 @@ He acknowledged that "I could have remained shut up in my own shell and there ca
 
 ## His Original Hope
 
-Fukuoka explained that he never intended to prove natural farming superior to scientific farming.
+Fukuoka explained that he never intended to prove [[cho-loess-powder-in-natural-farming]] superior to scientific farming.
 
 Having argued that all is useless ever since he was a youth, he attempted to put his thinking — which denies the understanding of people and posits the principles of "no knowledge," "no worth," and "non-action" — into practice through natural farming.
 
@@ -58,11 +58,11 @@ Fukuoka recounted a visit by a large group of specialists, including technical o
 
 When he explained his method — broadcasting clover and barley seed over standing heads of rice, scattering uncut rice straw, never plowing for 25 years, relying on grazing ducks for fertilizer, never using commercial fertilizers — "everyone was dumbfounded" and "some of the assembled scientists grew visibly perturbed."
 
-But he was delighted by the reaction of Professor Kawase, an authority on pasture grasses, who was "openly impressed with the splendid barley growing among the green manure," and Professor Hiroe, a paleobotanist, who "merrily pointed out a number of different weeds growing at the foot of the barley."
+But he was delighted by the reaction of Professor Kawase, an authority on pasture grasses, who was "openly impressed with the splendid barley growing among the [[coleman-summer-fallow-green-manure-greenhouse]]," and Professor Hiroe, a paleobotanist, who "merrily pointed out a number of different weeds growing at the foot of the barley."
 
-The visitors took photos of chickens running about the citrus orchard, spun out a haiku:
+The visitors took photos of chickens running about the [[fukuoka-citrus-orchard-establishment-bare-hillside]], spun out a haiku:
 
-"Thickly growing grass / Mandarins luxuriant / So sweet a flavor," and drew sketches of the fresh, green natural orchard.
+"Thickly growing grass / Mandarins luxuriant / So sweet a flavor," and drew sketches of the fresh, green [[fukuoka-natural-orchard-development]].
 
 "This made my day."
 
@@ -118,7 +118,7 @@ Fukuoka closed with poetic observations about his farm.
 
 The violet growing along a mountain path "blooms for no one in particular, but people cannot overlook or forget it. The moment they see it, they know."
 
-He returned to his central theme: "If people did not change, the world would not change; farming methods would not change."
+He returned to his central theme: "If people did not change, the world would not change; [[organic-farming-methods-comparison]] would not change."
 
 ## Only to Him Who Stands Where the Barley Stands
 

@@ -1,15 +1,16 @@
 ---
-title: Fukuoka's Desert Revegetation Travels and Projects
+title: Fukuoka's fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique Travels and Projects
 created: 2026-04-24
 updated: 2026-04-25
 type: concept
 tags: [desert, revegetation, ecology, farming, fukuoka, california, global]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka's Desert Revegetation Travels and Projects
 
-In [[natural-farming-fukuoka]] documents his travels to deserts around the world and his conviction that natural farming methods can revegetate even the most barren landscapes. This extends his [[soil-food-web-nutrient-cycling]] argument: the biological "tilling" performed by plant roots and small animals works the soil more deeply than any machine. "When left alone, the soil deepens and enriches naturally." Mechanical tilling "only kills it."
+In [[natural-farming-fukuoka]] documents his travels to deserts [[fungi-around-the-world-species-distribution]] and his conviction that [[comparison-natural-farming-vs-permaculture]] methods can revegetate even the most barren landscapes. This extends his [[soil-food-web-nutrient-cycling]] argument: the biological "tilling" performed by plant roots and small animals works the soil more deeply than any machine. "When left alone, the soil deepens and enriches naturally." Mechanical tilling "only kills it."
 
 ## The Dream of Sowing Seeds from the Sky
 
@@ -34,7 +35,7 @@ At the California state capitol in Sacramento, Fukuoka met a mineralogist who re
 
 ## The Zen Center Experiment
 
-At the Zen Center on the San Francisco coast, founded by Shunryu Suzuki Roshi, Fukuoka found 400 members — "working people, students, and others who come and commute to work while undergoing training here." They meditated morning and evening and "tended a small, half-acre vegetable garden in which they grew the food they ate." The center practiced organic farming but concentrated "largely on spices, growing only a very limited selection of vegetables." Fukuoka was struck by how "yellow, bare-topped mountains surround the site on all sides" and showed them how to properly use tools like the hoe and scythe.
+At the Zen Center on the San Francisco coast, founded by Shunryu Suzuki Roshi, Fukuoka found 400 members — "working people, students, and others who come and commute to work while undergoing training here." They meditated morning and evening and "tended a small, half-acre [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] in which they grew the food they ate." The center practiced [[coleman-deep-organic-farming-philosophy]] but concentrated "largely on spices, growing only a very limited selection of vegetables." Fukuoka was struck by how "yellow, bare-topped mountains surround the site on all sides" and showed them how to properly use tools like the hoe and scythe.
 
 ## The Global Desert Crisis
 
@@ -61,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

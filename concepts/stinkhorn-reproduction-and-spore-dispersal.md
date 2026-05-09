@@ -1,5 +1,5 @@
 ---
-title: Stinkhorn Reproduction and Spore Dispersal Mechanisms
+title: Stinkhorn stinkhorn reproduction and spore dispersal Dispersal Mechanisms
 slug: stinkhorn-reproduction-and-spore-dispersal
 source: Nicholas P. Money, Mr. Bloomfield's Orchard (2002)
 tags: [stinkhorn, phallus-impudicus, spore-dispersal, phallales, basidiomycota, insect-dispersal, gasteromycetes]
@@ -9,7 +9,7 @@ tags: [stinkhorn, phallus-impudicus, spore-dispersal, phallales, basidiomycota, 
 
 ## Introduction to Stinkhorns
 
-Stinkhorns are among the most spectacular and bizarre of all fungal fruiting bodies.
+Stinkhorns are among the most spectacular and bizarre of all [[brassinosteroid-fungal-fruiting-body-morphology]] bodies.
 
 They belong to the order Phallales within the Basidiomycota, the same large phylum that includes the familiar gilled mushrooms, bracket fungi, and boletes.
 
@@ -27,7 +27,7 @@ Charles Darwin's daughter Etty so despised stinkhorns that she mounted an antifu
 
 ## The Egg Stage
 
-The stinkhorn life cycle begins with an "egg" — a spherical structure buried in soil or leaf litter, somewhat larger than a golf ball.
+The stinkhorn [[bloomfield-fungal-life-cycle-spiral-versus-circle]] begins with an "egg" — a spherical structure buried in soil or [[dighton-fungal-decomposition-leaf-litter-dynamics]], somewhat larger than a golf ball.
 
 Each egg is attached to the soil by a branched umbilical cord that snaps as it is tugged away from its siblings.
 

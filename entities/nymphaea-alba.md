@@ -27,7 +27,7 @@ Known as the **European white water lily**, it has been used in European traditi
 
 All parts of the plant contain bioactive **aporphine alkaloids**, including nuciferine, which contribute to its psychoactive and medicinal properties.
 
-In permaculture and ecological design, *N. alba* serves as a **functional aquatic plant** for pond ecosystems, providing shade, habitat, and water filtration.
+In permaculture and [[williams-pdc-ecological-design-principles]], *N. alba* serves as a **functional aquatic plant** for pond ecosystems, providing shade, habitat, and water filtration.
 
 ## Taxonomy
 
@@ -59,7 +59,7 @@ The genus name derives from the Greek *nymphaia*, referring to water nymphs, ref
 
 *N. alba* is native across **Europe from Scandinavia to the Mediterranean**, extending eastward through Turkey, the Caucasus, Iran, and into Central Asia.
 
-It also occurs in **North Africa** (Morocco, Algeria, Tunisia) and has been naturalized in parts of North America and New Zealand.
+It also occurs in **North Africa** (Morocco, Algeria, Tunisia) and has been naturalized in parts of [[psilocybin-north-america-pacific-northwest]] and New Zealand.
 
 The species grows in **still or slow-moving freshwater** — ponds, lakes, oxbows, canals, and slow river backwaters at depths of 0.5–3 meters.
 
@@ -81,11 +81,11 @@ Water lily rhizome preparations were historically used in European folk medicine
 
 ## Ethnobotanical and Cultural Use
 
-*N. alba* holds deep cultural significance across European traditions.
+*N. alba* holds deep [[ethnomycology-cultural-significance-sacred-fungi]] across European traditions.
 
 In **ancient Greek and Roman mythology**, water lilies were sacred to the nymphs and associated with purity and transformation.
 
-Medieval European herbalists including Dioscorides and later authors prescribed water lily rhizomes for **dysentery, leucorrhea, and as a cardiac sedative**.
+[[solanaceous-hallucinogens-of-medieval-european-witchcraft]] herbalists including Dioscorides and later authors prescribed water lily rhizomes for **dysentery, leucorrhea, and as a cardiac sedative**.
 
 The dried rhizomes were sometimes smoked or prepared as a tea for their mild sedative and **oneirogenic (dream-enhancing) properties**, a use paralleled by the related blue water lily (*Nymphaea caerulea*) in Egyptian tradition.
 
@@ -93,7 +93,7 @@ In Victorian England, the white water lily became a symbol of **purity and modes
 
 ## Permaculture and Ecological Applications
 
-In **aquatic permaculture design**, *N. alba* is valued as a multi-functional plant for constructed ponds, wetlands, and natural swimming pools.
+In **aquatic [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]**, *N. alba* is valued as a multi-functional plant for constructed ponds, wetlands, and [[comparison-natural-swimming-pool-vs-conventional-pool]] pools.
 
 The broad floating leaves provide **shade that suppresses algae growth**, maintaining clearer water. Each plant can shade up to 1–2 square meters of water surface.
 
@@ -109,4 +109,4 @@ The rhizomes can be harvested sustainably as a **starch source** — they contai
 - [[entada-rheedii]]
 - [[silene-capensis]]
 - [[mucuna-pruriens]]
-- [[permaculture]]
+- permaculture

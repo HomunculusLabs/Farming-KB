@@ -9,7 +9,7 @@ sources: []
 
 # Chanterelle Guide
 
-Chanterelles are among the most prized wild mushrooms for foraging, valued for their fruity aroma, peppery flavor, and firm, meaty texture. Found across the Northern Hemisphere in association with specific trees, chanterelles are reliable, abundant, and relatively easy to identify — making them an ideal target for beginning foragers.
+Chanterelles are among the most prized [[edible-wild-mushrooms-by-region]] for foraging, valued for their fruity aroma, peppery flavor, and firm, meaty texture. Found across the Northern Hemisphere in association with specific trees, chanterelles are reliable, abundant, and relatively easy to identify — making them an ideal target for beginning foragers.
 
 ## Overview
 
@@ -30,7 +30,7 @@ The most widely known and collected chanterelle:
 - Spore print: pale yellow to cream
 - Habitat: mixed forests, primarily with oak, beech, birch, spruce, and Douglas-fir
 - Season: June through October (varies by region)
-- Distribution: widespread across North America, Europe, and Asia
+- Distribution: widespread across [[psilocybin-north-america-pacific-northwest]], Europe, and Asia
 
 ### Cantharellus cinnabarinus (Cinnabar Chanterelle)
 
@@ -64,7 +64,7 @@ The most widely known and collected chanterelle:
 ### Cantharellus lateritius (Smooth Chanterelle)
 
 - Cap: orange, smooth underside (nearly absent false gills)
-- Common in eastern North America
+- Common in [[polypore-fungi-eastern-north-america]] America
 - Good edible but less flavorful than C. cibarius
 
 ## Mycorrhizal Ecology
@@ -73,7 +73,7 @@ All chanterelle species form ectomycorrhizal associations with trees:
 
 - They form a sheath around fine root tips of compatible host trees
 - Exchange soil minerals and water for photosynthetic sugars
-- Can form extensive mycelial networks connecting multiple trees
+- Can form extensive [[fungal-mycelial-networks-nutrient-translocation]] connecting multiple trees
 - Fruiting is triggered by specific environmental cues:
   - Adequate soil moisture (after rain events)
   - Moderate temperatures (55-70 F for most species)
@@ -140,60 +140,10 @@ The most dangerous chanterelle look-alike:
 - Mature forests (30+ years old) with a mix of tree species
 - Moist but well-drained soils
 - Areas with dappled light (forest edges, gaps in canopy)
-- Mossy areas, especially near streams
-- Check the same spots annually — chanterelles are site-loyal
-
-### Timing
-
-- After sustained rain (2+ inches over several days)
-- 2-7 days after significant rainfall
-- Morning foraging is best (mushrooms are fresh before insects and heat)
-- Golden hour (early morning light) makes yellow chanterelles easier to spot
-- Carry a GPS or mark productive spots discreetly
-
-### Harvesting
-
-- Cut at the base with a knife or pinch off at ground level
-- Do not pull up — this damages the mycelial network
-- Brush off debris gently in the field
-- Carry in a mesh bag or basket (allows spores to disperse)
-- Do not wash until ready to use
-- Leave small specimens to mature and spread spores
-
-## Culinary Use
-
-Chanterelles are versatile and highly regarded:
-
-- Flavor: fruity (apricot), peppery, earthy
-- Texture: firm, meaty, holds shape when cooked
-- Best cooking methods: sauteed in butter, cream sauces, risotto, omelets, soups
-- Do not eat raw — can cause mild GI upset
-- Pairs well with: cream, thyme, garlic, shallots, white wine, chicken, eggs
-- Drying: dehydrate at 95-110 F; reconstitutes well; flavor concentrates
-- Freezing: saute first, then freeze for up to 6 months
-- Preserving: excellent in compound butters, oils, and vinegars
-
-## Preservation
-
-- Fresh: 7-10 days refrigerated in paper bag
-- Dried: 1+ year in airtight container; excellent for soups and sauces
-- Frozen: cook first, then freeze 6-12 months
-- Pickled: viable but less common
-- Oil infusion: excellent way to capture the apricot aroma
-
-## Common Mistakes
-
-- Confusing false gills with true gills: the most dangerous error
-- Over-harvesting small or immature specimens
-- Washing before storage (accelerates spoilage)
-- Storing in sealed plastic (trapped moisture causes rapid decay)
-- Cooking at too high temperature (burns the delicate flavors)
-
 ## Related Topics
 
-- [[porcini-boletus-guide]] for another premier wild-foraged mycorrhizal mushroom
-- [[matsutake-mushroom]] for high-value mycorrhizal mushroom ecology
+- [[porcini-boletus-guide]] for another premier wild-foraged [[mycelium-running-mycorrhizal-mushroom-gardens]]
+- [[matsutake-mushroom]] for high-value mycorrhizal [[fukuoka-matsutake-artificial-cultivation-attempt]]
 - [[truffle-guide]] for another uncultivable mycorrhizal fungus
 
 ## Related
-

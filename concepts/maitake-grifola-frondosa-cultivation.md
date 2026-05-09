@@ -1,6 +1,6 @@
 ---
-title: "Maitake (Grifola frondosa) — Overview of Cultivation"
-source: "Chen, A.W. (1999). A Practical Guide for Synthetic-Log Cultivation of Medicinal Mushroom Grifola frondosa."
+title: "Maitake (maitake-grifola-frondosa-comprehensive-profile) — Overview of Cultivation"
+source: "Chen, A.W. (1999). A Practical Guide for Synthetic-Log Cultivation of [[gourmet-medicinal-mushroom-casing-layer-techniques]] Grifola frondosa."
 topics:
   - maitake
   - grifola-frondosa
@@ -12,19 +12,19 @@ topics:
 # Maitake ([[lentinula-edodes]]*). Several
 factors contribute to this difficulty:
 
-- **Strain variability:** A high percentage of maitake isolates fail to
+- **[[amf-spore-strain-variability-effectiveness]]:** A high percentage of maitake isolates fail to
   fruit reliably under artificial conditions. Systematic strain testing
   is essential before committing to production-scale cultivation.
 - **Environmental sensitivity:** Maitake requires precise control of
   temperature, humidity, fresh-air exchange, and light across distinct
   growth phases. Deviations easily result in poor yields or crop failure.
-- **Dedicated facilities:** Unlike many cultivated mushrooms, maitake
+- **Dedicated facilities:** Unlike many [[fungi-cultivated-mushrooms-pathogens-competitors]], maitake
   cannot share growing rooms with other species. Its specific
   environmental requirements and long crop cycle (60–120 days from
   inoculation to harvest) demand a dedicated growing space.
 - **Morphogenetic complexity:** Successful fruiting depends on a series
   of delicate developmental transitions — mycelial coat formation,
-  primordia initiation, and fruiting-body differentiation — each
+  [[chen-maitake-primordia-initiation-fruiting]], and fruiting-body differentiation — each
   requiring distinct environmental triggers.
 
 ## Strain Selection
@@ -49,7 +49,7 @@ re-isolation from high-performing fruiting bodies helps preserve vigor.
 2. **Sawdust spawn:** Supplemented sawdust-bran mixtures are sterilized
    and colonized. Sawdust spawn is often used for secondary inoculation
    or when a slower, more even colonization is desired.
-3. **Liquid spawn:** Produced via submerged fermentation, liquid spawn
+3. **Liquid spawn:** Produced via [[cancer-medicinal-mushrooms-submerged-fermentation-production]], liquid spawn
    allows rapid and uniform inoculation but requires specialized
    bioreactor equipment and stringent sterility protocols.
 4. **Wooden stick/skewer spawn:** Small hardwood dowels are colonized
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

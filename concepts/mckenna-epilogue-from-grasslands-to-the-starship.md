@@ -14,14 +14,14 @@ type: concept
 The epilogue of Food of the Gods represents McKenna's most expansive and visionary statement, weaving together the historical, scientific, and
 philosophical threads of the entire work into a
 meditation on human destiny. He frames the current moment as a convergence point where history merges with political urgency, and where the recovery
-of humanity's lost archaic partnership with
+of humanity's [[mckenna-shamanism-and-the-lost-archaic-world]] partnership with
 hallucinogenic plants becomes not merely desirable but existentially necessary.
 
 ## The Legacy of the Partnership Society
 
 McKenna argues that the current controversies surrounding the use and abuse of substances must share the stage with other issues of equal import:
 poverty and overpopulation, environmental destruction,
-and unmet political expectations. These phenomena are the inevitable by-products of the dominator culture. In struggling with these social
+and unmet political expectations. These phenomena are the inevitable by-products of the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]. In struggling with these social
 problems, humanity must remember that the roots of human
 identity lie elsewhere, in the cascade of mental abilities unleashed within the species many tens of millennia ago: the ability to name, to classify,
 to compare, and to remember.
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

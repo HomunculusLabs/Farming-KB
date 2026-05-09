@@ -1,5 +1,5 @@
 ---
-title: Sacred Puffballs and Gasteromycetes in Indigenous Cultures
+title: guzman allen gartz sacred puffballs gasteromycetes indigenous cultures and Gasteromycetes in Indigenous Cultures
 created: 2026-04-28
 tags:
   - ethnobotany
@@ -18,7 +18,7 @@ type: concept
 
 # Sacred Puffballs and Gasteromycetes in Indigenous Cultures
 
-Among the most fascinating aspects of neurotropic fungi documented
+Among the most fascinating aspects of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] documented
 by Guzmán, Allen and Gartz is the use of gasteromycetes, puffballs
 and related fungi, as sacred or narcotic substances by indigenous
 peoples. These fungi generally lack confirmed psychoactive chemistry,
@@ -58,14 +58,14 @@ with more traditional neurotropic fungi used in religious or
 magical ceremonies. Despite these findings, Schultes and Hofmann
 (1973, 1979) continued to list Heim and Wasson's fungi among the
 narcotic fungi, and the authors of the present paper retained them
-in the checklist due to their popularity and cultural significance
+in the checklist due to their popularity and [[ethnomycology-cultural-significance-sacred-fungi]]
 among indigenous communities.
 
 ## Fairy Rings and Fallen Stars
 
 The cultural significance of puffballs extends beyond the Mixtec
 of Mexico. Burk (1983) discussed the magic and religious uses of
-several unidentified puffball species among certain North American
+several unidentified puffball species among certain [[growing-gourmet-north-american-reishi-species]]
 Indian peoples. These fungi typically grew in circles, known as
 fairy rings, on the prairies and were referred to as fallen stars.
 This cosmological interpretation connects the biological phenomenon
@@ -96,7 +96,7 @@ chemical classification.
 
 ## Ganoderma as a Sacred Fungus
 
-Guzmán et al. (1975) reported the cult of Ganoderma lobatum in a
+Guzmán et al. (1975) reported the cult of [[guzman-ganoderma-lobatum-church-cult-chignahuapan-puebla]] in a
 church in Chignahuapan, Puebla, Mexico. The church was built
 specifically in honor of this fungus, and the local Indians regarded
 it as a saint. The inner surface of the fungal specimen was
@@ -132,8 +132,10 @@ investigation with modern analytical methods.
 
 ## See Also
 
+- [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]]
+
 - [[guzman-allen-gartz-neurotropic-fungi-asia]]
 - [[guzman-allen-gartz-clavicipitalean-neurotropic-fungi]]
-- guzman allen gartz sacred puffballs gasteromycetes indigenous cultures
+- guzman [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] sacred puffballs gasteromycetes indigenous cultures
 - [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]]
 - [[guzman-allen-gartz-four-chemical-groups-neurotropic-fungi]]

@@ -19,9 +19,9 @@ personal crisis that drove him to produce his most controversial work.
 ## Allegro's Early Career
 
 John Marco Allegro (1923-1988) was a man of genuine scholarly talent. He
-was appointed as a Lecturer in Old Testament Studies at Manchester University
+was appointed as a Lecturer in [[allegro-old-testament-figures-as-fertility-deities]] Studies at Manchester University
 and, most significantly, was selected as the only British scholar on the
-international team assembled to examine the newly discovered Dead Sea Scrolls
+international team assembled to examine the newly discovered Dead [[dead-sea-scrolls-entheogenic-reading]]
 in 1947.
 
 This appointment was a mark of considerable distinction. The Dead Sea Scrolls
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: "Subtropical Australia: Mushroom Hunting Techniques"
+title: "allen subtropical australia hunting techniques: emcdda-magic-mushroom-hunting-europe Techniques"
 created: 2026-04-28
 tags: [hunting, identification, subtropical, australia, techniques,
   field-guide, safety, habitats, allen]
@@ -13,7 +13,7 @@ type: concept
 
 The subtropical regions of Australia, particularly coastal Queensland and
 northern New South Wales, offer some of the most productive mushroom hunting
-territory in the country. The warm, humid climate combined with extensive
+territory in the country. The warm, [[mollison-designers-cool-humid-climate-design-overview]] combined with extensive
 cattle pastures creates ideal conditions for dung-inhabiting psychoactive
 species. This guide covers techniques, timing, habitats, and safety
 considerations based on field experience documented in Australian
@@ -23,7 +23,7 @@ mycological literature.
 
 ### The Rainfall Trigger
 
-The single most important factor for mushroom fruiting in subtropical
+The single most important factor for [[ectomycorrhizal-mushroom-fruiting-ecology]] in subtropical
 Australia is rainfall. Most dung-inhabiting species require sustained
 rainfall of at least 25-50mm over 2-3 days to initiate fruiting. After a
 significant rain event, mushrooms typically appear within 3-7 days. The
@@ -96,9 +96,9 @@ the stipe; stipe characteristics (hollow/solid, color, texture); substrate
 Several non-psychoactive species in subtropical Australia resemble
 psychoactive species:
 
-- Chlorophyllum molybdites (the "green-spored parasol") is common in
+- [[guzman-chlorophyllum-molybdites-toxic-edible-paradox-yoruba-divinatory-use]] (the "green-spored parasol") is common in
   lawns and pastures and causes severe gastrointestinal distress. Its
-  green spore print distinguishes it from Psilocybe cubensis.
+  green spore print distinguishes it from [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]].
 - Panaeolus antillarum resembles Copelandia cyanescens but does not
   stain blue.
 - Various Galerina species on wood can resemble small Psilocybe species

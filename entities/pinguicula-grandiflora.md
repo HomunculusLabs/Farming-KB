@@ -55,7 +55,7 @@ The mucilage of *P. grandiflora* is primarily composed of polysaccharides and wa
 
 The leaf margins slowly roll inward over a period of hours, enveloping the prey. This rolling motion is a thigmonastic response that brings additional digestive glands into contact with the captured organism.
 
-Digestive enzymes including proteases, phosphatases, and esterases break down the prey's soft tissues. Nutrient absorption occurs primarily through the sessile glands on the leaf surface. Digestion typically requires 2–5 days depending on prey size and temperature.
+Digestive enzymes including proteases, phosphatases, and esterases [[query-can-fungi-break-down-plastic-pollution]] the prey's soft tissues. Nutrient absorption occurs primarily through the sessile glands on the leaf surface. Digestion typically requires 2–5 days depending on prey size and temperature.
 
 After digestion is complete, the leaf unfurls and the exoskeleton is either washed away by rain or falls from the leaf surface. Individual leaves remain functional as traps for 4–8 weeks before senescing and being replaced by new growth.
 
@@ -65,7 +65,7 @@ The flowers are pollinated primarily by bees, butterflies, and hoverflies. The n
 
 *P. grandiflora* provides minimal prey capture during the winter dormant period, when the plant produces a compact hibernaculum (resting bud). The hibernaculum is a tight rosette of small, non-glandular leaves that protects the growing point from frost damage.
 
-Formation of the hibernaculum is triggered by decreasing day length and temperature in autumn. During dormancy, metabolic activity drops to minimal levels and the plant survives on stored reserves in the thickened rootstock.
+Formation of the hibernaculum is triggered by decreasing [[coleman-winter-day-length-and-persephone-months]] and temperature in autumn. During dormancy, [[arbuscule-isolation-metabolic-activity-assays]] drops to minimal levels and the plant survives on stored reserves in the thickened rootstock.
 
 The species is a poor competitor against vigorous vascular plants and depends on nutrient-poor, open conditions to persist. Successional changes that increase shading or soil nutrient levels typically lead to population decline.
 
@@ -73,7 +73,7 @@ The species is a poor competitor against vigorous vascular plants and depends on
 
 *Pinguicula grandiflora* is listed as **Near Threatened** in several European countries due to habitat loss and degradation. Populations have declined significantly in lowland areas where wetland drainage and agricultural intensification have destroyed suitable habitat.
 
-In Ireland, where the species is most abundant, many populations are protected within designated conservation sites including Special Areas of Conservation. However, even protected populations face threats from nutrient enrichment from adjacent agricultural land.
+In Ireland, where the species is most abundant, many populations are protected within designated conservation sites including Special Areas of Conservation. However, even protected populations face threats from nutrient enrichment from adjacent [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]].
 
 Collection from the wild has historically impacted some populations, though cultivated material is now widely available. The species is protected under national legislation in several European countries.
 
@@ -87,7 +87,7 @@ Within the temperate Pinguicula group, *P. grandiflora* is most closely related 
 
 ### Prey Spectrum
 
-Studies of *P. grandiflora* prey capture have identified a diverse assemblage of small flying insects as the primary food source. Diptera (flies, midges, and fungus gnats) account for the majority of captured prey by both number and biomass.
+Studies of *P. grandiflora* prey capture have identified a diverse assemblage of small flying insects as the primary food source. Diptera (flies, midges, and [[query-how-to-control-fungus-gnats-organically]]) account for the majority of captured prey by both number and biomass.
 
 Hymenoptera (small wasps and winged ants) and small Lepidoptera (moths) are also regularly captured. Pollen grains found on trapped insects suggest that some prey individuals are the plant's own pollinators, though the spatial separation of flowers and traps reduces self-pollination risk.
 
@@ -103,11 +103,17 @@ Leaf pullings taken in early summer readily produce plantlets at the base of the
 
 ## See Also
 
+- [[pinguicula-primuliflora]]
+- [[coreopsis-grandiflora]]
+- [[calamintha-grandiflora]]
+
 - [[drosera-rotundifolia]]
 - [[utricularia-vulgaris]]
 - [[dionaea-muscipula]]
 - [[aldrovanda-vesiculosa]]
-- [[darlingtonia-californica]]
+- darlingtonia californica
 - [[sarracenia-leucophylla]]
 - [[nepenthes-rajah]]
 - [[nepenthes-mirabilis]]
+
+- [[pinguicula-macroceras]]

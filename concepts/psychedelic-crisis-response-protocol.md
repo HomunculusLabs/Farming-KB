@@ -1,10 +1,11 @@
 ---
-title: psychedelic crisis response protocol
+title: psychedelic psychedelic crisis response protocol protocol
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
 tags: [psychedelics]
-sources: []
+sources:
+  sources: []
 ---
 
 # psychedelic crisis response protocol
@@ -20,7 +21,7 @@ A psychedelic crisis (commonly called a "[[serotonin]] syndrome** (high fever, r
 ### When Calling Emergency Services
 
 - Tell the operator: "A person is having an adverse reaction to a psychedelic substance. They need medical evaluation."
-- Do NOT say "overdose" (triggers law enforcement response in many jurisdictions)
+- Do NOT say "overdose" (triggers [[cervantes-grow-room-security-law-enforcement]] response in many jurisdictions)
 - Send someone to meet the ambulance; lock away all substances before responders arrive
 - Be honest with medical staff about what was taken, how much, and when
 
@@ -70,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,9 +108,8 @@ advance the field as a whole. Cross-pollination of ideas from biology,
 ecology, data science, and traditional knowledge systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

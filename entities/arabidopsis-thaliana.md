@@ -45,14 +45,14 @@ In the wiki's [[auxin-production-by-symbiotic-fungi]] page uses Arabidopsis root
 ## Plant-microbe interactions
 
 Arabidopsis is not a classic mycorrhizal host, which makes it unusual compared with many land plants.
-Nevertheless, it is widely used to study innate immunity, bacterial pathogenesis, endophytes, root exudates, and microbiome assembly.
-The species interacts experimentally with *Pseudomonas syringae*, *Botrytis cinerea*, [[singh-fungal-interactions-with-heavy-metals-in-soil]], agar plates, [[query-how-does-foliar-feeding-work-for-cannabis]] trichome pages, Arabidopsis supplies a regulatory comparison rather than a resin-gland equivalent.
+Nevertheless, it is widely used to study innate immunity, bacterial pathogenesis, endophytes, [[mycorrhizal-root-exudates-pathogen-interactions]], and microbiome assembly.
+The species interacts experimentally with *Pseudomonas syringae*, *Botrytis cinerea*, [[singh-fungal-interactions-with-heavy-metals-in-soil]], [[query-how-to-make-agar-plates-for-mushroom-cultivation]], [[query-how-does-foliar-feeding-work-for-cannabis]] trichome pages, Arabidopsis supplies a regulatory comparison rather than a resin-gland equivalent.
 For soil symbiosis pages, Arabidopsis seedling assays are experimentally convenient but ecologically narrower than mycorrhizal host systems.
 ## Key takeaways
 *Arabidopsis thaliana* is the reference plant for modern genetics and molecular plant biology.
 Its advantages are small size, fast generation time, selfing, abundant seed, easy transformation, and a compact sequenced genome.
 Its most common laboratory background is Col-0, but accession choice can change experimental outcomes.
-It is central for studying light perception, flowering time, root development, immunity, hormones, and epidermal patterning.
+It is central for studying [[plant-vision-and-light-perception-mechanisms]], flowering time, root development, immunity, hormones, and epidermal patterning.
 It is a powerful model organism, not a universal ecological proxy for all plants.
 Use it in wiki pages as a mechanistic reference point while checking whether the concept also requires crop, tree, fungal-symbiosis, or field-ecology evidence.
 ## Practical Considerations
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +113,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

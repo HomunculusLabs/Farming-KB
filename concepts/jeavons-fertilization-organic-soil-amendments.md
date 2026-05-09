@@ -1,5 +1,5 @@
 ---
-title: Fertilization and Organic Soil Amendments in GROW BIOINTENSIVE
+title: Fertilization and Organic Soil Amendments in jeavons-grow-biointensive-method-overview
 created: 2026-04-28
 tags: [biointensive, fertilization, organic-amendments, soil-fertility, jeavons]
 date: 2026-04-28
@@ -12,7 +12,7 @@ type: concept
 # Fertilization and Organic Soil Amendments
 
 GROW BIOINTENSIVE fertilization aims to build and maintain proper
-levels and balances among soil nutrients using organic amendments
+levels and balances among soil nutrients using [[cervantes-organic-amendments-chart]]
 rather than synthetic chemicals. The goal is to reduce nutrient
 deficiencies slowly over time while minimizing imported inputs,
 moving toward a closed-system garden where fertility is self-
@@ -50,7 +50,7 @@ providing them.
   Avoid non-organic sources that may contain pesticide residues.
 - **Fish meal** (9%-10.5% N, 6% P): Good combined N and P source
   lasting 6-8 months. Use up to 5 lbs per 100 sq ft. Caution:
-  some contain heavy metals.
+  some contain [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]].
 
 ### Phosphorus Sources
 - **Phosphate rock** (11.5%-17.5% total P): Very slow releasing,
@@ -79,7 +79,7 @@ providing them.
 - **Crushed eggshells**: High in calcium, especially good for
   cabbage family crops. Helps break up clay. Use up to 2 lbs
   per 100 sq ft.
-- **Manure**: Good organic matter source, but limit to 4 cubic
+- **Manure**: Good [[hamilton-composting-and-organic-matter-management]] source, but limit to 4 cubic
   feet per year per 100 sq ft. The [[jeavons-composting-methods]] is the most important
 part of the garden. It aerates soil, breaks up clay, binds sand,
 improves drainage, neutralizes toxins, holds moisture, releases
@@ -92,7 +92,7 @@ compost provide the remaining 4%.
 ## The Balanced Approach
 
 The GROW BIOINTENSIVE method places heavy emphasis on compost
-over purchased fertilizers, recognizing that organic fertilizer
+over purchased fertilizers, recognizing that [[complete-organic-fertilizer-cof-recipe-solomon]]
 demand is increasing while per-person supply decreases. The
 method uses as much phosphorus and potassium as nitrogen, which
 results in stronger, healthier plants compared to approaches
@@ -106,7 +106,7 @@ Jeavons outlines four strategies for more sustainable fertilization:
 3. Grow your own fertilizer plants (alfalfa roots to 125 feet,
    comfrey to 8 feet) for compost materials
 4. Maintain 4%-6% organic matter in temperate soils, 3% in
-   tropical ones, to encourage microbial nutrient cycling
+   tropical ones, to encourage [[ingham-chelation-microbial-nutrient-processing]] cycling
 
 ## Application Technique
 

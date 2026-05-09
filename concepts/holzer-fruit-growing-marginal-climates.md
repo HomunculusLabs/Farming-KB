@@ -1,15 +1,16 @@
 ---
-title: Holzer Fruit Growing in Marginal Climates
+title: Holzer holzer fruit growing marginal climates in Marginal Climates
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 ## Growing Fruit Above the Conventional Limit
 
-According to expert opinion, fruit growing ends at 1,000m above sea level in Lungau. Holzer cultivates a large variety of fruit trees up to 1,500m by creating sheltered microclimates and selecting hardy old varieties. He has even grown apricots, sweet chestnuts, grapes, and kiwi fruit in particularly warm and sheltered areas.
+According to expert opinion, fruit growing ends at 1,000m above sea level in Lungau. Holzer cultivates a large variety of [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] up to 1,500m by creating sheltered microclimates and selecting hardy [[holzer-old-varieties-and-seed-saving]]. He has even grown apricots, sweet chestnuts, grapes, and kiwi fruit in particularly warm and sheltered areas.
 
 ### Key Advantages of High-Altitude Fruit
 
@@ -26,7 +27,7 @@ This is perhaps Holzer's most controversial technique:
 - Unpruned trees retain branch resilience -- branches can sink to the ground under fruit or snow weight without breaking
 - Trees stabilise themselves and are less likely to grow at an angle
 - When branches sink under fruit weight, sunlight reaches the crown naturally
-- Pruning creates wounds that invite fungal disease and fire blight
+- Pruning creates wounds that invite [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] and fire blight
 - Pruning causes unnecessary stress and requires labour
 - Pruned trees produce water sprouts, creating a vicious cycle of more pruning
 
@@ -38,7 +39,7 @@ This is perhaps Holzer's most controversial technique:
 5. Frost kills the soft growth
 
 ### Natural Protection Against Browsing
-The side shoots between the graft and the ground serve as natural browsing protection:
+The side shoots between the graft and the ground serve as natural [[holzer-browsing-protection-methods]]:
 - Ground-level twigs: eaten by hares
 - Middle twigs: eaten by roe deer
 - Upper twigs: eaten by red deer
@@ -61,7 +62,7 @@ Holzer has planted thousands of trees this way, including remainder stock from n
 
 Instead of buying grafted trees, Holzer sows fruit forests from seed:
 
-1. Prepare the soil with green manure crops (2 years on acid soil)
+1. Prepare the soil with green [[green-manure-crops-detailed]] (2 years on acid soil)
 2. Loosen soil by grazing pigs there
 3. Sow pomace (pulp from juice/cider pressing) -- fermentation stratifies the seeds
 4. Trees grow from seed in their permanent location, fully adapted to local conditions
@@ -86,4 +87,4 @@ A homemade remedy painted or sprinkled on trees:
 - [[sepp-holzer-method]]
 - [[seed-selection-breeding-holzer]]
 - [[sepp-holzer-fruit-tree-varieties]]
-- [[holzer-fruit-tree-planting-method]]
+- holzer-fruit-tree-planting-method

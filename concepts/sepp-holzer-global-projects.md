@@ -1,11 +1,12 @@
 ---
-title: Sepp Holzer Global Projects: Scotland and Thailand
+title: Sepp sepp holzer global projects Projects: Scotland and Thailand
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 Updated: 2026-04-18
@@ -28,7 +29,7 @@ Holzer's permaculture principles have been applied to projects worldwide, demons
 1. **Test areas** selected at different altitudes to experiment under varying conditions
 2. **Fenced off** from deer grazing to protect new plantings
 3. **Seed mixtures** sown including:
-   - Ancient cereals: emmer, einkorn, ancient Siberian wheat
+   - [[holzer-ancient-cereals-growing]]: emmer, einkorn, ancient Siberian wheat
    - Catch crop vegetables: radishes, lettuce
    - Soil-improving plants: various legumes
 
@@ -44,7 +45,7 @@ Holzer's permaculture principles have been applied to projects worldwide, demons
 - Construction:
   - Bulky cleared material (trees, stumps, branches from pine and spruce) and heather introduced
   - Raised beds positioned in wavy line shape
-  - Covered with straw mulch layer
+  - Covered with [[fukuoka-rice-straw-mulch-central-technique]] layer
   - Mulch protected soil from harsh weather AND protected seeds from birds
   - Positioned near road for easy monitoring and access
   - Near road also lowered risk of plants being eaten
@@ -52,7 +53,7 @@ Holzer's permaculture principles have been applied to projects worldwide, demons
 ### Further Development Plans
 - Storage cellar constructed using tried and tested system (for produce storage or open shelter)
 - Introduction of Berkshire pigs (old pig breed) and geese
-- Planning wild and cultivated fruit trees
+- Planning wild and cultivated [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 - Depleted and eroded areas to develop into "edible landscapes" with diverse flora and fauna
 - Over time: formerly barren heath to become productive edible landscape
 
@@ -83,7 +84,7 @@ The owners wanted to incorporate the words "LOVE PEACE" into the landform, visib
 1. **Increased workable land area**
 2. **Flood protection** from dam surrounding entire area
 3. **Barrier against harmful substances** from adjacent chemically fertilised paddy fields
-4. **Microclimate creation**: dry areas and "mini rainforests"
+4. **[[mollison-designers-microclimate-creation-frost-protection]]**: dry areas and "mini rainforests"
 5. **Year-round farming** on newly usable land
 6. **Recreational and experimental landscape** for children and hospital staff
 7. **Pick-your-own area, display garden, livestock keeping**
@@ -102,7 +103,7 @@ Children helped plant fruit trees including mango, papaya, and many others, chos
 
 1. **Permaculture principles are universal**: the same strategies work on acid Scottish peat, Thai tropical floodplains, and Austrian mountain slopes
 2. **Difficult conditions are opportunities**: "unfavourable" locations often respond most dramatically
-3. **Rapid transformation is possible**: significant results within one growing season
+3. **Rapid transformation is possible**: significant results within one [[savory-growing-season-and-non-growing-season-management]]
 4. **Integration with local culture**: projects incorporate local needs (orphanage self-sufficiency, family gardens)
 5. **Local materials first**: clay in Thailand, heather and pine in Scotland
 6. **Excavator as primary tool**: Holzer consistently uses machine excavation for initial earthworks, then hand management

@@ -1,5 +1,5 @@
 ---
-title: "2C-T-2 (4-Ethylthio-2,5-dimethoxy-PEA) -- PIHKAL Entry #40"
+title: "2C-T-2 (4-Ethylthio-2,5-dimethoxy-PEA) -- 2c-b-pihkal-entry-20 #40"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -55,13 +55,13 @@ PIHKAL entry #40. 4-Ethylthio-2,5-dimethoxy-PEA.
 > (with 22 mg) A slow onset. It took an hour for a plus one, and
 > almost another two hours to get to a +++. Very vivid fantasy images,
 > eyes closed, but no blurring of lines between "reality" and fantasy.
-> Some yellow-grey patterns a la [[mdma]].
+> Some yellow-grey patterns a la mdma.
 
 A point of potential misidentification should be mentioned here.
 2C-T-2 has occasionally been called, simply, T-2. This abbreviated
 nickname has also been used for T-2 Toxin, a mycotoxin of the
 Tricothecene group, formed mainly by the Fusarium spp. This is the
-infamous "warfare agent" in Southeast Asia, which was finally
+infamous "warfare agent" in [[psilocybe-southeast-asia-pacific]], which was finally
 identified as bee feces rather than a Soviet military adventure. T-2
 and 2C-T-2 are radically different compounds.
 
@@ -108,9 +108,12 @@ The following reaction is also a very vigorous one and must be
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 
 - [[2c-n-entity-pihkal]]
 - [[2c-t-entity-pihkal]] -- 2C-T (PIHKAL #39)
+- [[bob-entity-pihkal]]
+- [[dob-entity-pihkal]]
+- [[mdhoet-entity-pihkal]]

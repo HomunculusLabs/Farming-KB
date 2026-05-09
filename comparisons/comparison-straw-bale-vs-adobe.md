@@ -1,10 +1,11 @@
 ---
-title: "Straw Bale vs Adobe Construction"
+title: "comparison-cob-construction-vs-straw-bale-construction vs Adobe Construction"
 created: 2026-04-28
 tags: [comparison, natural-building, construction, permaculture, sustainable]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -13,8 +14,8 @@ type: comparison
 ## Overview
 
 Straw bale and adobe construction are two of the most accessible and widespread
-natural building methods, each with thousands of years of history and proven
-performance. Straw bale construction uses compressed agricultural straw bales as
+[[query-how-do-i-choose-a-natural-building-method-for-my-climate]] methods, each with thousands of years of history and proven
+performance. Straw [[straw-bale-construction-vs-earthbag-construction]] uses compressed agricultural straw bales as
 wall units, offering exceptional insulation values and rapid building speed.
 Adobe construction uses sun-dried earth bricks made from clay, sand, and fiber,
 providing outstanding thermal mass and remarkable longevity. The choice between
@@ -70,7 +71,7 @@ rain. With proper maintenance, adobe structures can last for centuries.
 
 Straw bale construction is the better choice for buildings in cold or temperate
 climates where insulation is the primary performance concern. It is ideal for
-homesteaders with access to straw (a byproduct of grain production) who want to
+homesteaders with access to straw (a byproduct of [[fukuoka-no-till-grain-production-method]]) who want to
 build quickly with minimal specialized skills. Straw bale walls go up rapidly,
 making it possible to enclose a building in days rather than the weeks or months
 required for adobe. It is also well-suited to climates with freeze-thaw cycles,

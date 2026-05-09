@@ -55,7 +55,7 @@ Brown has developed several practices that distinguish his operation from conven
 
 **Multi-species cover crop cocktails** — Brown pioneered the use of cover crop mixes containing 20–70+ species, including warm- and cool-season grasses, legumes, brassicas, and broadleaves. These complex mixtures provide diverse root architectures and chemical inputs to the soil microbiome.
 
-**Adaptive grazing management** — His high-stock-density, short-duration grazing strategy moves cattle frequently, mimicking natural herd behavior of grazing herbivores. This stimulates root shedding and nutrient cycling while preventing overgrazing.
+**Adaptive grazing management** — His high-stock-density, short-duration grazing strategy moves cattle frequently, mimicking natural herd behavior of grazing herbivores. This stimulates root shedding and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] while preventing overgrazing.
 
 **No synthetic inputs** — Brown's operation has been completely free of synthetic fertilizers, pesticides, and fungicides since the late 2000s. He has demonstrated that biological nutrient cycling can replace chemical inputs even in a cold, short-season climate.
 
@@ -65,7 +65,7 @@ Brown has developed several practices that distinguish his operation from conven
 
 Brown's impact on the regenerative agriculture movement has been substantial and far-reaching. He co-founded **Understanding Ag**, a consulting firm that has advised thousands of farmers on regenerative transitions across six continents.
 
-His ranch hosts **numerous farm tours and educational events** annually, attracting farmers, researchers, and policy makers from around the world. These on-farm demonstrations have been instrumental in converting skeptics who doubted the viability of regenerative methods at commercial scale.
+His ranch hosts **numerous farm tours and educational events** annually, attracting farmers, researchers, and policy makers from [[fungi-around-the-world-species-distribution]]. These on-farm demonstrations have been instrumental in converting skeptics who doubted the viability of regenerative methods at commercial scale.
 
 Brown was featured in the 2020 documentary film **"Kiss the Ground"**, which brought regenerative agriculture to mainstream audiences and was narrated by Woody Harrelson. He has also appeared in "The Biggest Little Farm" sequel content and numerous agricultural media productions.
 
@@ -77,10 +77,10 @@ Brown's ranch has produced measurable improvements in soil health over two decad
 
 Key metrics achieved at Brown's Ranch:
 
-- **Soil organic matter** — increased from approximately 1.7% to over 6% in topsoil across most fields, representing significant carbon sequestration
+- **Soil organic matter** — increased from approximately 1.7% to over 6% in topsoil across most fields, representing significant [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]
 - **Water infiltration rate** — improved from 2.5 cm/hr to over 25 cm/hr, dramatically reducing runoff and drought vulnerability
 - **Aggregate stability** — soil structure improved to the point where fields absorb heavy rainfall without erosion
-- **Microbial biomass** — soil biology testing shows dramatically higher bacterial and fungal populations than neighboring conventional farms
+- **Microbial biomass** — soil biology testing shows dramatically higher [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] populations than neighboring conventional farms
 - **Earthworm populations** — increased from near-zero to over 1 million per hectare in managed fields
 
 These improvements have direct agronomic consequences. Brown reports that his soils now hold approximately **7.5 cm (3 inches) of additional plant-available water** per 30 cm of soil depth compared to his conventional neighbors. This translates to significantly greater drought resilience in the semi-arid northern Plains climate.
@@ -91,9 +91,9 @@ Brown has participated in university-led soil carbon research, providing his ran
 
 Despite his success, Brown's approach has faced criticism and skepticism from multiple quarters.
 
-**Transition economics** — the 4–5 year period of reduced income during transition from conventional to regenerative practices is frequently cited as the primary barrier to adoption. Brown acknowledges this difficulty but argues that targeted grazing and cover crop income can offset losses during transition.
+**Transition economics** — the 4–5 year period of reduced income during [[query-how-to-transition-from-conventional-to-no-till-farming]] to regenerative practices is frequently cited as the primary barrier to adoption. Brown acknowledges this difficulty but argues that targeted grazing and cover crop income can offset losses during transition.
 
-**Scaling questions** — critics note that Brown's operation benefits from direct marketing relationships, speaking income, and consulting revenue that most conventional farmers lack. The replicability of his financial results on operations without these supplementary income streams has been questioned.
+**Scaling questions** — critics note that Brown's operation benefits from [[coleman-direct-marketing-and-csa-models]] relationships, speaking income, and consulting revenue that most conventional farmers lack. The replicability of his financial results on operations without these supplementary income streams has been questioned.
 
 **Yield comparisons** — while Brown's profitability per acre is high, his gross yields per acre for commodity crops are sometimes lower than top-performing conventional neighbors. He argues that reduced input costs more than compensate, but this tradeoff is debated.
 

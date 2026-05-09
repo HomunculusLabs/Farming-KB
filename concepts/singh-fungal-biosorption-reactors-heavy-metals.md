@@ -1,5 +1,5 @@
 ---
-title: Fungal Biosorption Reactors for Heavy Metal Removal
+title: dighton-fungal-biosorption-heavy-metal-remediation Reactors for dighton-fungal-heavy-metal-accumulation-bioremediation Removal
 created: 2026-04-26
 tags: [biosorption-reactor, heavy-metals, immobilization, bioreactor, fungal-biomass]
 date: 2026-04-25
@@ -15,8 +15,8 @@ Fungal biosorption reactors have been well developed in recent years
 though not yet fully commercialized. The biosorption process is
 fundamentally a solid-liquid contact operation requiring refinement
 under variable conditions. Several reactor configurations have been
-designed and tested for the removal of heavy metals from aqueous
-solutions using fungal biomass.
+designed and tested for the removal of [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] from aqueous
+solutions using [[bioremediation-fungal-biomass-biosorbent-material]].
 
 ## Batch Stirred-Tank Reactors
 
@@ -72,7 +72,7 @@ removal over 24 hours with 5 regeneration cycles (Ting and Sun, 2000).
 
 ## White-Rot Fungi in Biosorption
 
-Trametes versicolor live mycelia achieved Cd(II) uptake of 102 mg/g
+[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] live mycelia achieved Cd(II) uptake of 102 mg/g
 with 10 mM HCl elution (Arica et al., 2001). Heat-killed mycelia showed
 120 mg/g uptake, and carboxymethyl cellulose-immobilized biomass
 demonstrated enhanced performance. Live and heat-inactivated T. versicolor
@@ -112,5 +112,8 @@ regeneration cycles, and contact time are critical design parameters.
 ## See Also
 
 - [[singh-fungal-biosorbents-mycosorption-mechanisms]]
-- [[fungal-biosorption-desorption-regeneration]]
+- fungal-biosorption-desorption-regeneration
 - [[singh-fungal-biosorption-lead-copper]]
+- [[singh-fungal-biosorption-heavy-metals]]
+- [[staycare-fungal-biosorption-of-heavy-metals]]
+- [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]

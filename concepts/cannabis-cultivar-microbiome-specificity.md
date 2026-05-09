@@ -1,127 +1,141 @@
 ---
-title: Cannabis Cultivar Microbiome Specificity
-created: 2026-04-28
-tags: [cannabis, microbiome, cultivars]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
-type: concept
+title: Cannabis Cultivar-Specific Microbiome Associations
+source: understanding-cultivar-specificity-cannabis-microbiome.md
+tags: [microbiome, cannabis, rhizosphere, soil-science]
+created: 2026-05-09
 ---
 
-# Cannabis Cultivar Microbiome Specificity
+# Cannabis Cultivar-Specific Microbiome Associations
 
-## Overview
+Different Cannabis cultivars (strains) harbor distinct [[edaphic-factors-microbial-communities]]
+in their root interiors, according to findings from Winston et al. (2014).
+This cultivar-specificity represents a key dimension of plant-microbiome
+interactions in this medicinally and economically important crop, with
+implications for understanding how plant genotype shapes its associated
+microbial partners and how [[antifungal-secondary-metabolites-coprophilous-fungi]] like cannabinoids may
+influence microbial colonization.
 
-Different Cannabis cultivars maintain distinct microbial communities,
-particularly within the endorhiza (root interior). Winston et al. (2014)
-demonstrated that cultivar-specificity is a real and statistically significant
-phenomenon in Cannabis, though it operates primarily through abundance shifts
-rather than presence/absence of microbial taxa. Five cultivars were studied
-across two experiments: Sour Diesel, Bookoo Kush, Burmese, White Widow, and
-Maui Wowie.
+## The Five Cultivars Studied
 
-## Cultivar Descriptions
+The study examined five Cannabis cultivars across two experiments. The first
+experiment included three cultivars: Sour Diesel (a Cannabis sativa cultivar
+associated with a high THC to CBD ratio), BooKoo Kush (a sativa-dominant
+hybrid of C. sativa and C. indica, with a moderately high THC to CBD ratio),
+and Burmese (a balanced hybrid of C. sativa and C. indica, with a moderate
+THC to CBD ratio). The second experiment included Maui Wowie (a C. sativa
+cultivar with a high THC to CBD ratio) and White Widow (a balanced hybrid of
+C. sativa and C. indica with a more moderate THC to CBD ratio).
 
-The five cultivars tested represent a range of Cannabis chemotypes and genetic
-backgrounds:
+## Strain Affects Abundance, Not Presence/Absence
 
-- **Sour Diesel**: A cultivar of Cannabis sativa, associated with a high
-  tetrahydrocannabinol (THC) to cannabidiol (CBD) ratio.
-- **Bookoo Kush**: A sativa-dominant hybrid of Cannabis sativa and Cannabis
-  indica, associated with a moderately high THC to CBD ratio.
-- **Burmese**: A balanced hybrid of both Cannabis sativa and Cannabis indica,
-  associated with a moderate THC to CBD ratio.
-- **Maui Wowie**: A cultivar of Cannabis sativa, associated with a high THC to
-  CBD ratio.
-- **White Widow**: A balanced hybrid of both Cannabis sativa and Cannabis
-  indica, known to have a more moderate THC to CBD ratio.
+A critical finding was that Cannabis strain significantly affected the
+abundance of microbial taxa in the endorhiza but not their presence or
+absence. Using unweighted (g-test) analysis, zero OTUs showed significant
+differences between strains. Using weighted (ANOVA) analysis, however, 71
+OTUs showed significant abundance differences between strains (with FDR
+multiple test correction). This distinction is fundamental: all cultivars
+share the same pool of available microbial taxa (determined by soil type),
+but each cultivar creates different selective conditions that favor different
+relative abundances of those shared taxa within the root interior.
 
-## Experiment 1: Sour Diesel, Bookoo Kush, Burmese
+This pattern is consistent with the two-tier selection model, where soil type
+determines composition (which taxa are present) and host genotype determines
+structure (how abundant each taxon becomes). The contrast between 0 unweighted
+and 71 weighted significant OTUs for strain, versus 657 unweighted and 690
+weighted significant OTUs for soil type, starkly illustrates the relative
+importance of edaphic versus host-genotype effects on [[soil-edaphic-factors-microbial-communities]].
 
-In the first experiment, three cultivars were grown in the same soil type in
-Vista, California. Strain-level differences were only observed in the endorhiza
-compartment:
+## Significant Differences in Proteobacteria Orders
 
-- Endorhiza by strain (weighted): ADONIS R2 = 0.59, p = 0.004
-- Endorhiza by strain (unweighted): ADONIS R2 = 0.39, p = 0.003
-- Rhizosphere by strain: Not significant (ADONIS R2 = 0.09, p = 0.10)
-- Bulk soil by strain: Not significant
+The cultivar-specific differences were concentrated in particular bacterial
+groups, especially within the Proteobacteria phylum. Significant OTU
+abundance differences between strains were composed mostly of differences in
+Proteobacteria, notably from four orders: Pseudomonadales, Burkholderiales,
+Sphingomonadales, and Rhizobiales. These orders include many well-known
+plant-associated bacteria, including nitrogen-fixers (Rhizobiales), plant
+growth-promoting rhizobacteria (Pseudomonadales), and versatile
+environmental bacteria (Burkholderiales, Sphingomonadales).
 
-Division of all communities via strain (not separated by compartment) was not
-significant for either weighted (ADONIS R2 = 0.11, p = 0.25) or unweighted
-(ADONIS R2 = 0.11, p = 0.15) analyses, confirming that cultivar-specificity is
-localized to the root interior.
+Beyond Proteobacteria, Bacteroidetes orders Sphingobacteriales and
+Flavobacteriales were also responsible for several significant OTU
+differences between Cannabis strains. This suggests that the cultivar-specific
+selection extends across multiple phyla, though Proteobacteria dominate the
+response.
 
-## Experiment 2: White Widow, Maui Wowie
+## Sphingomonas wittichii and Maui Wowie
 
-The second experiment used two cultivars grown across two different soil types
-with significant edaphic variation (Vista and Orange County, California). This
-design allowed testing of cultivar effects while controlling for soil type:
+One particularly intriguing cultivar-specific association was the prevalence
+of Sphingomonas wittichii in the Maui Wowie strain. Sphingomonas wittichii
+is notable because in some contexts it can metabolize phenazine-1-carboxylic
+acid and has been implicated in increased survival in soil environments.
+Phenazines are antimicrobial compounds produced by certain soil bacteria, and
+the ability to metabolize them could confer a competitive advantage in the
+root environment. The specific association of S. wittichii with Maui Wowie
+raises the question of whether this cultivar produces unique root compounds
+that either attract or select for this bacterium.
 
-- Community beta diversity significantly different between strains:
-  Unweighted ADONIS R2 = 0.10, p = 0.008
-  Weighted ADONIS R2 = 0.27, p = 0.001
+## Methylophilus and BooKoo Kush
 
-In the weighted PCoA analysis of the second experiment, Cannabis strain was
-the main determinant of PC1 (34.51% variance), suggesting that host genotype
-controls community structure (abundance) even more than soil type when both
-factors are considered together.
+Another striking cultivar-specific association was Methylophilus, which
+comprised 13% of the BooKoo Kush [[proteobacteria-dominance-cannabis-endorhiza-community]] but was entirely absent
+from Sour Diesel and present at only 0.13% in Burmese. Methylophilus is a
+methylotrophic bacterium that utilizes one-carbon compounds such as methanol
+as a carbon and energy source. Plants release methanol through pectin
+demethylation during cell wall modification, and the amount released can vary
+between genotypes. The extreme variation in Methylophilus between cultivars
+may reflect genotype-specific differences in root methanol production,
+providing a direct metabolic link between plant genotype and microbial
+[[core-endorhiza-bacterial-community-composition-cannabis]].
 
-## Methylophilus as a Strain-Specific Marker
+## Cannabinoid-Microbiome Correlations
 
-The most striking cultivar-specific difference was the abundance of
-Methylophilus in the endorhiza:
+[[cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis]] and composition were significantly correlated with
+endorhiza [[edaphic-determinants-cannabis-microbiome-community-structure]]. Mantel tests showed significant differences
+between strains based on cannabinoid data (unweighted r-stat: 0.863, p =
+0.001). Plants in the second experiment were tested for a variety of
+cannabinoids including delta-9-tetrahydrocannabinol (THC). The significant
+correlation between cannabinoid profiles and [[edaphic-factors-microbial-community-structure]]
+raises the possibility that these [[biodiversity-fungal-secondary-metabolites]] directly influence
+which microbes colonize root tissues, perhaps through antimicrobial or
+signaling effects.
 
-- Bookoo Kush: 13% of the endorhiza community
-- Burmese: 0.13% of the endorhiza community
-- Sour Diesel: Absent entirely
+## The Difficulty of Disassociating THC from Soil Effects
 
-This difference was statistically significant (FDR: p = 0.012) and explained
-a significant portion of the overall strain-level variation. Methylophilus is
-a methylotrophic bacterium, suggesting that Bookoo Kush may produce different
-root exudate profiles that favor methylotroph colonization.
+However, the study highlighted a significant confounding challenge: THC
+variables were also significantly correlated with soil edaphic variables,
+because plants from one of the soil types had higher THC composition and
+concentration. This correlation makes it very difficult to disassociate any
+observed association between microbiota and THC from soil physicochemical
+variables. The question of whether cannabinoids directly shape microbial
+communities or whether both are independently influenced by soil conditions
+remains unresolved. Future experiments with controlled soil conditions across
+cultivars would be needed to isolate the direct effects of cannabinoid
+production on the root microbiome.
 
-## Sphingomonas wittichii in Maui Wowie
+## Cultivar-Specificity in the Rhizosphere
 
-In the second experiment, one of the significant OTUs differentiating between
-White Widow and Maui Wowie was Sphingomonas wittichii, which was prevalent in
-the Maui Wowie strain. This bacterium can metabolize phenazine-1-carboxylic
-acid and has been implicated in increased survival in soil environments. Its
-preferential association with Maui Wowie suggests a potential functional role
-in this cultivar's root microbiome.
+While the strongest [[cannabis-cultivar-effects-soil-microbiome]] were observed in the endorhiza, the
+second experiment also revealed that Cannabis cultivar significantly affected
+rhizosphere communities. This finding was not replicated in the first
+experiment, likely because those samples were collected eight weeks
+post-harvest when root exudation had ceased. The second experiment, sampling
+from actively growing plants two weeks before harvest, captured the ongoing
+influence of living plant roots on their surrounding soil microbiome.
 
-## Nature of Cultivar Differences: Abundance, Not Presence
+## Implications for Cannabis Agriculture
 
-A critical finding is that cultivar-specificity operates on microbial
-abundance rather than presence/absence:
+These cultivar-specific associations have practical implications for Cannabis
+cultivation. If specific microbial taxa are consistently associated with
+certain cultivars and contribute to plant health or [[fungal-elicitors-enhanced-secondary-metabolite-production]],
+then targeted inoculation strategies could be developed. Understanding which
+aspects of host genotype drive microbial selection — whether it is
+cannabinoid production, root exudate composition, or other factors — will be
+essential for developing microbiome-based approaches to improving Cannabis
+fitness and yield.
 
-- Weighted (abundance-based) analysis: 71 significant OTUs between strains
-- Unweighted (presence/absence) analysis: 0 significant OTUs between strains
-- For comparison: 657 OTUs significantly differed between soil types
+## References
 
-This means all cultivars share the same fundamental microbial taxa but adjust
-their relative proportions differently. The plant does not create novel
-microbial partnerships but rather modulates the community it inherits from
-the soil environment.
-
-## Cannabinoid Correlation with Microbiome Structure
-
-Cannabinoid concentration and composition were significantly correlated with
-the structure of endorhiza communities. A Mantel test showed a strong
-correlation between cannabinoid data and unweighted community distances
-(r-stat: 0.863, p = 0.001). However, THC variables were also significantly
-correlated with soil edaphic variables due to higher THC in plants from one
-soil type, making it difficult to disassociate cannabinoid effects from soil
-physicochemical effects.
-
-## Post-Harvest Persistence of Cultivar-Specificity
-
-Surprisingly, cultivar-specificity was detectable in the endorhiza samples
-from the first experiment even though sampling occurred 8 weeks post-harvest.
-This suggests that the microbial community signatures established during active
-growth persist in root tissue well beyond the plant's life, although the
-community was also showing signs of root decay (see
-[[endorhiza-bacterial-communities]] for endorhiza community details
-- [[soil-edaphic-factors-microbial-communities]] for soil vs cultivar effects
-- [[cannabis-microbiome-research]] for the complete study overview
+- Winston ME, et al. (2014) Understanding Cultivar-Specificity and Soil
+  Determinants of the [[cannabis-microbiome-cultivar-specificity]]. PLoS ONE 9(6): e99641.
+- Bulgarelli D, Schlaeppi K, Spaepen S, et al. (2013) Structure and Functions
+  of the Bacterial Microbiota of Plants. Annu Rev Plant Biol.

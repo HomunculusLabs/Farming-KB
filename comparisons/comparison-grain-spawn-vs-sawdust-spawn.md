@@ -13,11 +13,11 @@ type: comparison
 
 ## Overview
 Grain spawn and sawdust spawn are the two primary types of fungal
-inoculum used in mushroom cultivation, each offering distinct
+inoculum used in [[accessible-mushroom-cultivation-for-disabilities]], each offering distinct
 advantages depending on the target substrate and growing method.
 Grain spawn uses sterilized grains as a nutrient-rich carrier, while
 sawdust spawn relies on sterilized wood-based materials that match
-the final fruiting substrate. The choice between them significantly
+the final [[pf-tek-maximum-fruiting-substrate-formula]]. The choice between them significantly
 affects colonization speed, contamination risk, thermogenesis, and
 overall success of the cultivation cycle.
 
@@ -62,7 +62,7 @@ mane, where the substrate match provides a decisive advantage.
 | Visual monitoring | Easy through glass jars | Difficult, blends with carrier |
 | Cost per volume | Higher | Lower |
 | Best species | Oyster, button, wine cap | Shiitake, maitake, lion's mane |
-| Ideal use case | Straw and compost substrates | Supplemented sawdust blocks, logs |
+| Ideal use case | Straw and compost substrates | [[oyster-mushroom-supplemented-sawdust-blocks]] blocks, logs |
 
 ## When to Choose Grain Spawn
 Grain spawn is the best choice for beginner cultivators and for
@@ -75,7 +75,7 @@ mycelial cultures through grain-to-grain transfers, allowing a single
 master culture to efficiently multiply into large volumes of spawn.
 
 For cultivators working with non-woody substrates like pasteurized
-straw, coffee grounds, or agricultural waste, grain spawn provides the
+straw, [[oyster-mushroom-coffee-grounds-cultivation]], or agricultural waste, grain spawn provides the
 nutritional profile and inoculation density needed for reliable
 results. Its versatility across multiple substrate types makes it the
 default spawn choice for small-scale and experimental cultivation
@@ -88,11 +88,11 @@ substrates, particularly supplemented sawdust blocks for gourmet
 mushrooms like shiitake, maitake, and lion's mane. The substrate match
 eliminates the adaptation lag that grain spawn experiences when
 transitioning from a grain-based carrier to a wood-based fruiting
-substrate, resulting in stronger, faster fruiting primordia formation
+substrate, resulting in stronger, faster fruiting [[growing-gourmet-primordia-formation-pinning]]
 and potentially higher yields.
 
 Outdoor cultivation scenarios such as log inoculation, stump
-inoculation, and outdoor mushroom beds also favor sawdust spawn. The
+inoculation, and [[cotter-outdoor-mushroom-garden-mulch-beds]] beds also favor sawdust spawn. The
 reduced thermogenesis is critical in large outdoor installations where
 heat dissipation is limited, and the lower cost per volume makes it
 practical for the large quantities of inoculum needed. Sawdust spawn

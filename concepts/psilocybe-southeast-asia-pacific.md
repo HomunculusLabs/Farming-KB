@@ -1,5 +1,5 @@
 ---
-title: Psilocybe Species of Southeast Asia and the Pacific
+title: Psilocybe Species of psilocybe southeast asia pacific and the Pacific
 created: 2026-04-28
 tags:
   - biogeography
@@ -25,7 +25,7 @@ Indonesia, the Philippines, Sri Lanka, New Guinea, Fiji, Samoa, and
 the Hawaiian Islands. The tropical and subtropical climates, combined
 with diverse forest types and extensive pastoral agriculture, create
 favorable conditions for both dung-inhabiting and wood-inhabiting
-neurotropic fungi.
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].
 
 ## Japan
 
@@ -54,8 +54,8 @@ with several documented species:
 - **[[psilocybe-cubensis]]**: Widespread in tropical India, found on
   bovine dung in pastures throughout the country.
 
-- **Amanita muscaria**: Found in the Himalayan regions, associated
-  with temperate and boreal forests. The proposed connection between
+- **[[allegro-amanita-muscaria-properties-and-pharmacology]]**: Found in the Himalayan regions, associated
+  with temperate and [[fungal-diversity-boreal-forests-taiga]]. The proposed connection between
   A. muscaria and the Vedic soma has been extensively debated.
 
 ## Mainland Southeast Asia
@@ -64,7 +64,7 @@ The mainland Southeast Asian countries (Thailand, Cambodia, Laos,
 Vietnam, Myanmar) host a rich tropical mycoflora, though documentation
 remains incomplete:
 
-- **Psilocybe cubensis**: The most widespread species in the region,
+- **[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]**: The most widespread species in the region,
   common on water buffalo dung in rice paddies and pastures. It is
   used by hill tribe peoples in northern Thailand.
 
@@ -106,7 +106,7 @@ Earth, remains largely unexplored for neurotropic species.
 The Hawaiian Islands, despite their extreme isolation, have a notable
 introduced neurotropic mycoflora. Amanita muscaria was introduced
 with pine plantations and is now naturalized. Copelandia cyanescens
-and Panaeolus subbalteatus are established on the islands. The
+and [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]] are established on the islands. The
 Hawaiian mycoflora demonstrates how effectively neurotropic fungi can
 be dispersed through human activity.
 

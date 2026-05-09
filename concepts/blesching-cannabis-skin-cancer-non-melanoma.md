@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Non-Melanoma Skin Cancer"
+title: "Cannabis and Non-Melanoma blesching cannabis skin cancer non melanoma"
 created: 2026-04-26
 tags:
   - cannabis
@@ -69,7 +69,7 @@ function of the endocannabinoid system (ECS) in the skin is to control
 and balance growth, differentiation, and survival of skin cells, as well
 as to produce proper immune responses. The team believed that manipulation
 of the ECS might be beneficial in a multitude of human skin diseases,
-including acne, dermatitis, dry skin, hair loss (alopecia, effluvium),
+including acne, dermatitis, dry skin, [[blesching-cannabis-hair-loss-alopecia]] (alopecia, effluvium),
 hirsutism, itching, seborrhea, skin tumors, pain, and psoriasis. In the
 case of skin cancers, an up-regulation of both CB1 and CB2 would suppress
 cancerous growths, angiogenesis, metastasis, and even induce apoptosis.
@@ -79,7 +79,7 @@ cancerous growths, angiogenesis, metastasis, and even induce apoptosis.
 | Drug / Study Focus | Study Type | Year, Place, Key Results | CHI |
 |--------------------|-----------|--------------------------|-----|
 | ECS and cannabinoids | Meta-analysis | 2009, Multi-center (Germany, Hungary, UK, USA): Targeted manipulation of ECS beneficial in multitude of human skin diseases | 4 |
-| JWH-133 (CB2 agonist), WIN55,212-2 (CB1/CB2), antagonists | Lab, mice, human | 2003, Spain/USA: CB1 and CB2 present in normal skin and tumors; cannabinoid receptor activation induces skin tumor cell apoptosis | 4 |
+| JWH-133 (CB2 agonist), WIN55,212-2 (CB1/CB2), antagonists | Lab, mice, human | 2003, Spain/USA: CB1 and CB2 present in normal skin and tumors; [[cannabis-cannabinoid-receptor-pharmacology]] activation induces skin tumor cell apoptosis | 4 |
 
 **Total CHI Value: 8**
 
@@ -112,10 +112,10 @@ self-image, and belief in self-forgiveness.
 - **Bush Tea (Rooibos):** Contains DNA-protective and antimutagenic
   properties; topical application inhibits skin tumor formation
 - **Clove:** Aqueous solution may have protective properties against skin
-  papillomas (skin tumors); also produces apoptosis of lung cancer cells
+  papillomas (skin tumors); also produces apoptosis of [[psk-breast-lung-cancer-clinical-trials]] cells
 
 ### Related Topics
 
 - [[blesching-cannabis-dermatological-conditions]]
 - [[blesching-cannabis-immune-system-modulation]]
-- [[blesching-endocannabinoid-system-overview]]
+- [[endocannabinoid-system-overview]]

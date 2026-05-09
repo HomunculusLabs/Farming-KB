@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Mandala Orchard Design
+title: Fukuoka's fukuoka straw mandala orchard design Design
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Masanobu Fukuoka, The Natural Way of Farming"
@@ -39,11 +39,11 @@ In modern orchards, using bulldozers to clear land has become the rule rather
 than the exception, but a natural farm should be developed without clearing
 the land. When land is cleared with a bulldozer, irregular surface features
 on a slope are flattened and smoothed. Since picking ripened fruit is the only
-major operation in natural farming, there is no need to go out of one's way to
+major operation in [[comparison-natural-farming-vs-permaculture]], there is no need to go out of one's way to
 clear steep slopes.
 
 Another factor that improves the enterprising orchardist's chances of success
-is that a natural orchard can be established without a heavy initial outlay of
+is that a [[fukuoka-natural-orchard-development]] can be established without a heavy initial outlay of
 capital or incurring large debts.
 
 ## Planting Fruit Trees
@@ -51,7 +51,7 @@ capital or incurring large debts.
 ### Natural Seedlings vs. Grafted Stock
 
 From the standpoint of natural farming, one would expect trees grown from
-seed to be preferable to grafted nursery stock. The reasons usually given for
+seed to be preferable to [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]] stock. The reasons usually given for
 planting grafted saplings are to make the plant early-bearing, to ensure
 consistent fruit size and quality, and to obtain early-ripening fruit. However,
 when a tree is grafted, the flow of sap is blocked at the graft juncture,
@@ -67,7 +67,7 @@ exists the possibility that an unusual fruit will arise from the seed.
 ### Planting Method
 
 Fruit saplings should be planted at equal intervals along hill contours. Dig
-a fairly deep hole, fill it with coarse organic matter, and plant the sapling
+a fairly deep hole, fill it with coarse [[hamilton-composting-and-organic-matter-management]], and plant the sapling
 over this. To establish a natural orchard, one should dig large holes here
 and there among the stumps of felled trees and plant unpruned saplings and
 fruit seed over the site, leaving these unattended just as one would leave
@@ -117,7 +117,7 @@ right from the start assume a nearly natural form and can thereafter be left
 alone. Orchard management at this stage consists primarily of coming in twice
 a year to cut the weeds and underbrush with a large sickle.
 
-In Fukuoka's citrus orchard, he first attempted cultivation under a cover of
+In Fukuoka's [[fukuoka-citrus-orchard-establishment-bare-hillside]], he first attempted cultivation under a cover of
 grass, then switched to green manure cultivation. Now he uses a ground cover
 of clover and vegetables with no weeding, tillage, or fertilizer. When weeds
 are a problem, then it is wiser to remove weeds with weeds than to pull weeds

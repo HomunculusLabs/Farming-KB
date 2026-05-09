@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Ahti T (2000). "Cladoniaceae." *Flora Neotropica Monograph* 78: 1-362.
-  - Brodo IM, Sharnoff SD, Sharnoff S (2001). *Lichens of North America*. Yale University Press.
+  - Brodo IM, Sharnoff SD, Sharnoff S (2001). *Lichens of [[psilocybin-north-america-pacific-northwest]]*. Yale University Press.
   - Nash TH III (2008). *Lichen Biology*. 2nd ed. Cambridge University Press.
   - Hammer S (1995). "Cladonia." In: *Lichen Flora of the Greater Sonoran Desert Region* 1: 115-147.
   - Huneck S, Yoshimura I (1996). *Identification of Lichen Substances*. Springer.
@@ -97,11 +97,11 @@ the species' range.
 ## Ecological Role
 
 As a pioneer species, *C. fimbriata* plays a critical role in primary succession on
-disturbed substrates. Its squamulose thallus traps soil particles and organic matter,
+disturbed substrates. Its squamulose thallus traps soil particles and [[hamilton-composting-and-organic-matter-management]],
 initiating the development of a soil crust that facilitates colonization by other
 organisms.
 
-The species contributes to nutrient cycling in boreal forest floor communities. It
+The species contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in boreal forest floor communities. It
 absorbs atmospheric nitrogen through its photobiont and slowly releases nutrients as
 thallus fragments decompose.
 
@@ -124,7 +124,7 @@ logging, which create the open conditions and exposed substrates it requires for
 colonization. Over-zealous fire suppression may reduce suitable habitat in some regions.
 
 Local declines can occur where air pollution exceeds tolerance thresholds. The species is
-moderately sensitive to sulfur dioxide and nitrogen deposition, declining in heavily
+moderately sensitive to sulfur dioxide and [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]], declining in heavily
 polluted industrial zones.
 
 Habitat loss through afforestation of open heathlands and intensification of agricultural

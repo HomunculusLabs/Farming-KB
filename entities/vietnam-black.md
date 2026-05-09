@@ -17,16 +17,16 @@ sources:
   - https://www.leafly.com/strains/vietnamese-black
   - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution and Ethnobotany."
     University of California Press.
-  - Potter, D.J. et al. (2018). "A longitudinal study of cannabis potency."
-    Drug Testing and Analysis.
+  - Potter, D.J. et al. (2018). "A longitudinal study of [[green-cannabis-potency-maximizing]]."
+    [[psychedelic-drug-testing-and-adulterant-screening]] and Analysis.
   - De Meijer, E.P.M. et al. (2003). "The inheritance of chemical phenotype
-    in Cannabis sativa L." Genetics.
+    in [[comparison-cannabis-sativa-vs-cannabis-indica]] L." Genetics.
 ---
 # Vietnam Black
 
-**Vietnam Black** is a rare pure sativa [[southeast-asian-mushroom-tourism-bali]] to landrace genetics
+**Vietnam Black** is a rare pure sativa southeast-asian-mushroom-tourism-bali to landrace genetics
 
-Southeast Asian cannabis has a deep cultural history. Vietnamese landraces
+Southeast Asian cannabis has a deep [[shroom-cultural-history-hippie-revolution-and-counterculture]]. Vietnamese landraces
 were used traditionally in folk medicine, spiritual ceremonies, and hemp
 textile production. During the Vietnam War era (1955–1975), American
 soldiers encountered these strains and brought seeds back to the United
@@ -45,7 +45,7 @@ Vietnam Black produces distinctive elongated, finger-like sativa buds:
   through loose floral clusters
 - **Structure:** Tall, open colas with pronounced internodal spacing;
   buds are more wispy and airy than modern hybrids
-- **Leaf:** Very narrow, elongated leaflets — classic tropical sativa
+- **Leaf:** Very narrow, elongated leaflets — classic [[oner-hawaiian-and-tropical-sativa-strains]]
   morphology adapted to high humidity environments
 
 ## Aroma and Flavor Profile
@@ -119,7 +119,7 @@ users.
 
 ### Medical Applications
 - **Treatment-resistant depression** — powerful mood elevation
-- **Chronic fatigue** — sustained energy and motivation
+- **[[cannabis-chronic-fatigue-research]]** — sustained energy and motivation
 - **PTSD** — perspective-shifting cognitive effects
 - **Inflammation** — caryophyllene-driven anti-inflammatory activity
 - **ADHD** — enhanced focus and creative flow (anecdotal)
@@ -128,3 +128,4 @@ users.
 ## See Also
 - [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]]
 - [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]]
+- [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]]

@@ -15,7 +15,7 @@ updated: 2026-05-03
 sources:
   - Bowling, J. C. "Growing Gooseberries and Currants." Brooklyn Botanic Garden, 2018.
   - Daley, B. "Currants and Gooseberries." University of Minnesota Extension, 2021.
-  - CCOF. "Organic Berry Production Guide." Cornell University, 2022.
+  - CCOF. "Organic Berry [[comparison-biochar-production-guide-vs-biochar-soil-amendment]]." Cornell University, 2022.
   - OSU Extension. "Growing Currants and Gooseberries in the Home Garden." Oregon State University, 2020.
   - CRFG. "Gooseberry Fruit Facts." California Rare Fruit Growers, 2023.
 type: comparison
@@ -39,7 +39,7 @@ Both gooseberries (*Ribes uva-crispa* / *R. hirtellum*) and currants (*Ribes rub
 | **Bearing Age** | 2–3 years | 2–3 years | 2–3 years |
 | **Productive Lifespan** | 15–20 years | 15–20 years | 10–15 years |
 | **Thorns** | Many (European), few (American) | None | None |
-| **Powdery Mildew** | Very susceptible | Moderate | Low |
+| **[[cervantes-powdery-mildew-prevention-treatment]]** | Very susceptible | Moderate | Low |
 | **White Pine Blister Rust** | Susceptible | Susceptible | Very susceptible |
 | **Sun Preference** | Partial shade to full sun | Full sun to partial shade | Full sun to partial shade |
 | **Market Demand** | Low (niche) | Low–moderate | Moderate–high |
@@ -57,7 +57,7 @@ The fruit ranges from green to yellow, pink, red, or nearly black depending on v
 Currant bushes are more upright and open than gooseberries, with smooth, thornless stems. Three main types are cultivated:
 - **Red currants** (*R. rubrum*): Bright, translucent red berries in dangling clusters. Very tart and acidic, excellent for jelly and garnish.
 - **White currants** (*R. rubrum* var. *alba*): A color variant of red currant with milder, sweeter flavor. Less common but excellent for fresh eating.
-- **Black currants** (*R. nigrum*): Dark purple-black berries with a distinctive musky, aromatic flavor. The most commercially significant Ribes crop due to high vitamin C content and use in health supplements.
+- **[[query-how-to-grow-black-currants-at-home]]** (*R. nigrum*): Dark purple-black berries with a distinctive musky, aromatic flavor. The most commercially significant Ribes crop due to high vitamin C content and use in health supplements.
 
 ## Planting and Establishment
 
@@ -78,7 +78,7 @@ Both types establish best when planted in early spring (before bud break) or ear
 - Prune in late winter when dormant.
 - Establish 6–10 permanent main stems over the first 4–5 years.
 - Remove stems older than 4 years (they become less productive).
-- Thin crowded growth to maintain air circulation (critical for powdery mildew prevention).
+- Thin crowded growth to maintain [[stamets-growing-room-air-circulation-co2-management]] (critical for powdery mildew prevention).
 - Gooseberries fruit on 1–3 year old wood — older wood is removed to promote new productive growth.
 - Wear thick gloves — the thorns are sharp.
 
@@ -121,7 +121,7 @@ Gooseberry powdery mildew (*Podosphaera mulsanthi*) is the most significant dise
 | **Currant Aphid** | Distorts leaves on all Ribes | Neem oil, insecticidal soap, lady beetles |
 | **Imported Currant Worm** | Serious defoliator | *Bt*, spinosad, row covers |
 | **Currant Borer** | Bores into stems | Remove and destroy infested stems |
-| **Spider Mites** | Stress plants in hot, dry conditions | Increase humidity, predatory mites |
+| **[[cervantes-spider-mites-identification-control]]** | Stress plants in hot, dry conditions | Increase humidity, [[comparison-predatory-mites-vs-ladybugs-biocontrol]] |
 | **Birds** | Major pest of ripe fruit | Netting, scare devices |
 
 ## Top Variety Recommendations
@@ -140,7 +140,9 @@ Gooseberry powdery mildew (*Podosphaera mulsanthi*) is the most significant dise
 
 ### Currant
 
-## Related Topics
+## Related
+
+- [[comparison-elderberry-vs-gooseberry-vs-currant]] Topics
 
 - [[fruit-tree-grafting-guide|Fruit Tree Care and Orchard Management]]
 - [[lacto-fermentation-and-food-preservation-methods|Food Preservation and Storage]]

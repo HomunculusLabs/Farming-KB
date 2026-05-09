@@ -1,5 +1,5 @@
 ---
-title: Indigenous Microorganisms Collection and Cultivation
+title: beneficial-indigenous-microorganisms-bim Collection and Cultivation
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -18,17 +18,17 @@ in foreign or artificial environments.
 
 Microorganisms have two major functions in farming:
 
-1. They decompose complex organic compounds (dead plant and animal
+1. They decompose complex [[fungal-volatile-organic-compounds-communication]] (dead plant and animal
    matter, wastes) into nutrients that plants can absorb
 2. They create antibiotic substances, enzymes, and [[cho-imo-collection-bamboo-stump-and-paddy-field]] (breaks strong fibers like
    straw and reeds)
-5. The rice covered with fungal growth is IMO-1
+5. The rice covered with [[brassinosteroid-fungal-growth-promotion]] is IMO-1
 6. Transfer to clay pot; mix with equal jaggery to create IMO-2
 
 ## IMO-3 Preparation (Mass Cultivation)
 
 ### Materials
-- IMO-2, water (1:1000 dilution), rice bran or flour, paddy straw
+- IMO-2, water (1:1000 dilution), [[jadam-rice-bran-problems]] or flour, [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]]
 
 ### Procedure
 1. Dilute IMO-2 with water; mix with rice bran to 65-70% moisture
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

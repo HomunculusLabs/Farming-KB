@@ -14,7 +14,7 @@ type: concept
 Mulching involves covering the soil surface with a layer
 of material to exclude light, prevent weeds, conserve
 moisture, and improve soil structure. Different materials
-are used in the vegetable garden, fruit garden, and
+are used in the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]], fruit garden, and
 ornamental borders, each with specific advantages.
 
 ## Benefits of Mulching
@@ -22,7 +22,7 @@ ornamental borders, each with specific advantages.
 - Excludes light, preventing weed seeds from germinating
 - Conserves soil moisture by reducing surface evaporation
 - Regulates soil temperature, keeping it cooler in summer
-- Adds organic matter as the mulch breaks down
+- Adds [[hamilton-composting-and-organic-matter-management]] as the mulch breaks down
 - Protects soil structure from heavy rain and erosion
 - Suppresses perennial weeds when applied thickly enough
 
@@ -62,7 +62,7 @@ biodegradable and can be cultivated into the soil.
 ## Grass Cuttings
 
 Applied thickly enough straight from the mower bag, grass
-cuttings are effective for weed control. They must be at
+cuttings are effective for [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]. They must be at
 least 3in (7cm) deep. However, layers thicker than 6in
 (15cm) prevent air reaching the bottom, causing anaerobic
 decomposition that produces a smelly, slimy mass useless as
@@ -73,14 +73,14 @@ in ornamental borders.
 
 A 3in (7cm) layer of loose compost makes an attractive
 mulch for ornamental beds. It is fairly inert and
-inhospitable to weed seedlings. Well-rotted animal manure
+inhospitable to weed seedlings. Well-rotted [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]]
 can also be used but must be well-rotted to avoid
 scorching young shoots. Fresh manure damages plants.
 
 ## Organic Matter as Mulch
 
 In the vegetable garden, spread organic matter between
-plants during the growing season to lower the evaporation
+plants during the [[savory-growing-season-and-non-growing-season-management]] to lower the evaporation
 rate and improve soil structure. Use acid materials like
 peat, grass cuttings, compost, or manure on chalky soils
 to counteract alkalinity. Ensure the soil is moist before
@@ -91,7 +91,7 @@ applying mulch as it will absorb surface water.
 Mulching is normally carried out in spring. Make sure the
 soil is moist before application. In the vegetable plot,
 organic matter is dug in during fall and used as mulch
-during the growing season. Around fruit trees, apply a
+during the growing season. Around [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], apply a
 wide band of manure or compost, as feeding roots extend
 to the outer limits of the branches.
 

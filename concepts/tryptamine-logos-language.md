@@ -9,7 +9,7 @@ interior dialogue with what is experienced as external intelligence.
 
 ### Historical Roots
 The "Logos" has deep philosophical roots. In Heraclitus, it is the
-organizing principle underlying cosmic change. In Philo Judaeus, it mediates
+organizing principle underlying cosmic change. In [[mckenna-philo-judaeus-logos-hearing-to-beholding]], it mediates
 between transcendent God and creation, moving "from things heard to things
 beheld." In the Johannine tradition, the Logos is the divine Word through
 which all things were made. McKenna used this term for the translinguistic
@@ -29,7 +29,7 @@ defined universe unto itself."
 ### The Translinguistic Object
 Central to McKenna's account is the "translinguistic object" — an information
 complex unmappable onto any known language. When the brain confronts this
-object, cognitive dissonance arises: "We try to pour language over it and it
+object, [[mckenna-cognitive-dissonance-translinguistic-object]] arises: "We try to pour language over it and it
 sheds it like water off a duck's back." This produces wonder, astonishment,
 and awe at the brink of terror — the mind's recognition of genuine novelty.
 
@@ -37,7 +37,7 @@ and awe at the brink of terror — the mind's recognition of genuine novelty.
 DMT glossolalia differs from Pentecostal forms. In Pentecostal contexts,
 speakers ask afterward "Did I do it?" DMT produces "a brain state that allows
 the expression of the assembly language that lies behind language." McKenna
-connected this to Robert Graves's primal language in *The White Goddess* and
+connected this to Robert Graves's [[mckenna-glossolalia-and-primal-language-tryptamine-states]] in *The [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]]* and
 the Kabbalistic "Ursprache" in the Zohar — a deeper stratum of vocal-auditory
 meaning-making directly accessible in the tryptamine state.
 
@@ -91,7 +91,7 @@ Acceleration is visible: fire discovered millions of years ago, language
 ### The Exteriorization of the Soul
 McKenna envisioned "an effort to exteriorize the soul and internalize the
 body, so that the exterior soul will exist as a superconducting lens of
-translinguistic matter." This represents the maturation of language from
+[[mckenna-translinguistic-matter-and-exteriorized-soul]]." This represents the maturation of language from
 its embryonic form into fully realized three-dimensional meaning-making.
 
 ## Art and Cultural Transmission
@@ -114,8 +114,10 @@ mind." DMT's structural similarity to serotonin (5-hydroxytryptamine)
 and psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine) is significant.
 
 ## See Also
+
+- [[tryptamine-logos-concept]]
 - [[shamanic-entheogenic-healing]]
 - [[tryptamine-hallucinogens-and-consciousness]].
-  *The Archaic Revival*. HarperSanFrancisco.
+  *The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]*. HarperSanFrancisco.
 - McKenna, T. & McKenna, D. (1975). *The Invisible Landscape*. Seabury Press.
 - Graves, R. (1948). *The White Goddess*. Faber & Faber.

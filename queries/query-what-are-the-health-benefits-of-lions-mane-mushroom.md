@@ -11,11 +11,11 @@ type: query
 # What Are the Health Benefits of Lion's Mane Mushroom?
 
 ## Short Answer
-Lion's mane (Hericium erinaceus) is a medicinal mushroom that has gained significant attention for its potential to support brain health, nerve regeneration, and cognitive function.
+Lion's mane (Hericium erinaceus) is a [[gourmet-medicinal-mushroom-casing-layer-techniques]] that has gained significant attention for its potential to support brain health, nerve regeneration, and cognitive function.
 Research has focused on two unique compounds, hericenones and erinacines, which stimulate nerve growth factor (NGF) synthesis and may help protect against neurodegenerative conditions.
 Additional benefits include immune system support, anti-inflammatory effects, and potential anticancer properties documented in [[lions-mane-guide]] summarizes the current state of research on cognitive effects, including both animal studies and the limited human trials conducted to date.
 
-Human clinical trials, while still limited in number, have produced promising results for cognitive health applications.
+Human [[mushroom-cancer-clinical-trials-overview]], while still limited in number, have produced promising results for cognitive health applications.
 A 2009 Japanese study found that older adults who consumed lion's mane powder daily for 16 weeks showed significant improvements in cognitive function compared to a placebo group.
 However, these benefits diminished after supplementation stopped, suggesting that continued use may be necessary to maintain cognitive effects over time.
 Another study found improvements in sleep quality and reduced anxiety in overweight adults taking lion's mane extract regularly.
@@ -28,15 +28,15 @@ There is growing interest in its potential application for conditions like multi
 The anti-inflammatory properties of lion's mane may also contribute to its neuroprotective effects, as chronic neuroinflammation is increasingly recognized as a contributing factor in neurodegenerative diseases.
 
 The digestive health benefits of lion's mane are often overlooked but are well-documented in traditional medicine systems.
-The mushroom has been used historically to treat gastric ulcers, gastritis, and inflammatory bowel conditions with reportedly good results.
+The mushroom has been used historically to treat gastric ulcers, gastritis, and [[blesching-cannabis-inflammatory-bowel-disease]] conditions with reportedly good results.
 Modern research has confirmed that lion's mane extract protects the gastric mucosa from damage and reduces inflammation in the digestive tract.
 These effects may be related to the mushroom's ability to modulate the gut microbiome, promoting the growth of beneficial gut bacteria while inhibiting harmful species.
 
 For those considering growing their own lion's mane, cultivation is relatively straightforward on hardwood substrates supplemented with bran.
-The [[lions-mane-indoor-cultivation]] guide specifically addresses the challenges and advantages of indoor growing, where temperature and humidity can be precisely controlled.
-When comparing lion's mane to other medicinal mushrooms, [[comparison-lions-mane-vs-cordyceps-cultivation]] provide detailed comparisons for those deciding which mushrooms to prioritize.
+The [[lions-mane-indoor-cultivation]] guide specifically addresses the challenges and advantages of indoor growing, where [[greg-green-temperature-and-humidity-control]] can be precisely controlled.
+When comparing lion's mane to other [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], [[comparison-lions-mane-vs-cordyceps-cultivation]] provide detailed comparisons for those deciding which mushrooms to prioritize.
 
-The two primary classes of bioactive compounds in lion's mane, hericenones and erinacines, were first identified and isolated by Japanese researchers in the 1990s.
+The two primary classes of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in lion's mane, hericenones and erinacines, were first identified and isolated by Japanese researchers in the 1990s.
 Hericenones are found exclusively in the fruiting body of the mushroom, while erinacines are found primarily in the mycelium and substrate.
 Both compound classes are able to cross the blood-brain barrier, which is a rare property that makes them particularly valuable for neurological applications.
 Research on lion's mane and neurodegenerative disease has focused primarily on Alzheimer's disease, Parkinson's disease, and peripheral neuropathy.

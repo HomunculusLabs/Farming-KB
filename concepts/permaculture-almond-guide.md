@@ -1,5 +1,5 @@
 ---
-title: Almond Growing Guide
+title: Almond comparison-bean-growing-guide-vs-pepper-growing-guide
 created: 2026-04-18
 updated: 2026-04-18
 sources: Permaculture Plants: A Selection (Juniper Hall)
@@ -22,7 +22,7 @@ Per 100 grams of edible portion: Water - 4.7%, Energy - 598 calories, Carbohydra
 
 ## Climate Requirements
 
-Almonds are best adapted to areas with warm, dry summers, as the nuts will not reach maturity if summers are cool and humidity high. They are fairly cold hardy and also tolerant of drought, although yields are drastically reduced if grown under moisture stress. They require some winter chilling to break dormancy, although the blossom is very susceptible to spring frosts.
+Almonds are best adapted to areas with warm, dry summers, as the nuts will not reach maturity if summers are cool and humidity high. They are fairly [[coleman-cold-hardy-varieties]] and also tolerant of drought, although yields are drastically reduced if grown under moisture stress. They require some winter chilling to break dormancy, although the blossom is very susceptible to spring frosts.
 
 ## Soil Requirements
 
@@ -64,7 +64,7 @@ Almond cultivars are classified into three groups:
 - **All-in-One** -- A softshell similar to Nonpareil. The tree is small, vigorous, upright and bears heavily. Good quality nut with a sweet flavour. Self-fruitful. Late harvest.
 - **Baxendale** -- A softshell and a good polliniser for Nonpareil, blooming earlier.
 - **Bigg's Hardshell** -- The kernels are small to medium size and flat. Has a very hard shell.
-- **Brown Brandis** -- A softshell, which is a very early flowering cultivar, therefore susceptible to frosts and tends to produce light crops.
+- **Brown Brandis** -- A softshell, which is a very [[equatorial-photoperiod-early-flowering]] cultivar, therefore susceptible to frosts and tends to produce light crops.
 - **Carmel** -- Small to medium, softshell tree, producing heavily. Kernel is small, plump and long and has a good flavour. Pollinisers are Nonpareil, Merced and Price. Late harvest.
 - **Chellaston** -- One of the main softshell cultivars grown in Australia. A fairly upright tree and a consistent producer of small to medium sized nuts, which are plump with good flavour. Can be susceptible to shothole disease.
 - **Fritz** -- Often producing very heavy hardshell crops. Good polliniser to Nonpareil.
@@ -82,6 +82,6 @@ Almond cultivars are classified into three groups:
 ## Permaculture Integration
 
 - Almonds can serve as [[permaculture-design]]
-- Intercrop young trees with [[permaculture-composting]] material or animal feed
+- Intercrop young trees with [[permaculture-composting]] material or [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]]
 - Pair with [[gaias-garden-cover-crops-soil-building]]
-- [[holzer-fruit-tree-planting-method]]
+- holzer-fruit-tree-planting-method

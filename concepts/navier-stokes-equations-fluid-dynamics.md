@@ -41,7 +41,7 @@ The convective term is the source of nonlinearity, responsible for turbulence an
 - **Stokes flow** (Re ≪ 1, creeping flow): Inertia negligible, equation becomes linear: 0 = −∇p + μ∇²**u** + **f**. Governs microfluidics, lubrication theory, biological flows at Re ~ 10⁻⁵.
 - **Potential flow** (irrotational + inviscid): **u** = ∇φ, Bernoulli's equation holds throughout. Cannot predict drag (d'Alembert's paradox) but useful for preliminary aerodynamic design.
 - **Boundary layer approximation** (Prandtl, 1904): At high Re near walls, viscous effects confined to thin layer. Yields parabolic Prandtl equations. See boundary [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] ency vs. flow timescale; vortex shedding |
-| Weber | We = ρU²L/σ | Inertial vs. surface tension; droplet and bubble dynamics |
+| Weber | We = ρU²L/σ | Inertial vs. [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]; droplet and bubble dynamics |
 | Prandtl | Pr = μcₚ/k = ν/α | Momentum vs. thermal diffusivity |
 | Eckert | Ec = U²/(cₚΔT) | Kinetic energy vs. enthalpy; viscous dissipation heating |
 

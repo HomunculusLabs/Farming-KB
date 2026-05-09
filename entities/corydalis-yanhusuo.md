@@ -35,7 +35,7 @@ sources:
 - **Synonyms:** *Corydalis turtschaninovii* Bess. f. *yanhusuo* (Y.T. Sun) C.Y. Wu; *Corydalis ambigua* Cham. et Schlecht. var. *yanhusuo* Y.T. Sun
 
 ### Description
-A delicate perennial herb, 10–30 cm tall, emerging in early spring from a small, irregularly shaped tuberous rhizome (1–3 cm diameter). Stems are slender, erect, often purplish at the base. Leaves are finely dissected, 2–3 times pinnately divided, with narrow lobes — giving a feathery, almost fern-like appearance. Flowers are bilaterally symmetrical, pink to purplish, with a characteristic spurred petal typical of the Fumarioideae subfamily, borne in loose racemes. The fruit is a small, oblong capsule containing numerous small, shiny black seeds with elaiosomes (fatty attachments for ant dispersal).
+A delicate perennial herb, 10–30 cm tall, emerging in [[coleman-overwintered-onions-and-early-spring-crops]] from a small, irregularly shaped tuberous rhizome (1–3 cm diameter). Stems are slender, erect, often purplish at the base. Leaves are finely dissected, 2–3 times pinnately divided, with narrow lobes — giving a feathery, almost fern-like appearance. Flowers are bilaterally symmetrical, pink to purplish, with a characteristic spurred petal typical of the Fumarioideae subfamily, borne in loose racemes. The fruit is a small, oblong capsule containing numerous small, shiny black seeds with elaiosomes (fatty attachments for ant dispersal).
 
 ### Life Cycle
 Spring ephemeral — emerges, flowers, and sets seed within 6–8 weeks in early spring (March–May in its native range), then the above-ground foliage dies back completely. The tuberous rhizome persists underground through the dormant period.
@@ -121,7 +121,7 @@ THP produces analgesia through multiple receptor interactions:
 - Protects against ischemia-reperfusion injury in animal models
 
 #### Neuroprotective Effects
-- Antioxidant activity reduces oxidative stress in neurons
+- Antioxidant activity reduces [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in neurons
 - Anti-apoptotic: reduces caspase-3 activation
 - Improves cerebral blood flow
 - Investigated for potential in Parkinson's disease, stroke recovery, and Alzheimer's disease models
@@ -136,9 +136,9 @@ THP produces analgesia through multiple receptor interactions:
 Multiple alkaloids inhibit:
 - COX-2 expression and PGE₂ production
 - NF-κB signaling pathway
-- TNF-α, IL-1β, and IL-6 production
-- NLRP3 inflammasome activation
 ## See Also
+
+- [[corydalis-cava]]
 
 - [[herbal-medicine]]
 
@@ -146,4 +146,4 @@ Multiple alkaloids inhibit:
 
 ## See Also
 
-- [[herbal-medicine-making]]
+- [[herbal-medicine-making-basics]]

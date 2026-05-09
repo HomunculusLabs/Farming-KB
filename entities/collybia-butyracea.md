@@ -9,7 +9,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Antonín V, Noordeloos ME. (2010). "Monograph of Marasmius, Collybia and related genera in Europe." IHW-Verlag, Eching.
-  - Lennox JW. (1979). "Collybia butyracea in North America." Mycotaxon 8(2): 381–391.
+  - Lennox JW. (1979). "Collybia butyracea in [[psilocybin-north-america-pacific-northwest]]." Mycotaxon 8(2): 381–391.
   - Corner EJH. (1994). "Agarics in Malaysia." Royal Botanic Gardens, Kew.
   - Singer R. (1986). "The Agaricales in Modern Taxonomy." 4th ed. Koeltz Scientific Books.
 ---
@@ -22,7 +22,7 @@ The species is named for its distinctly greasy or buttery cap surface, which is 
 
 Recent molecular phylogenetic studies have confirmed the placement of this species within the Collybia sensu stricto clade, separate from the morphologically similar Rhodocollybia and Gymnopus genera.
 
-The fungus plays a role in forest nutrient cycling by decomposing needle litter and other plant debris on the forest floor. It is most commonly encountered in autumn but can appear from late summer through winter in mild climates.
+The fungus plays a role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by decomposing needle litter and other plant debris on the forest floor. It is most commonly encountered in autumn but can appear from late summer through winter in mild climates.
 
 ## Taxonomy and Morphology
 
@@ -76,7 +76,7 @@ Some older field guides list it as "edible but not recommended," while modern gu
 
 **Collybia butyracea** has received limited phytochemical investigation compared to more commercially significant mushroom species. The available research is sparse but has identified some notable metabolites.
 
-The species produces small quantities of volatile organic compounds, including several eight-carbon alcohols and ketones typical of Agaricales. These contribute to its characteristic, though not unpleasant, odor profile.
+The species produces small quantities of [[fungal-volatile-organic-compounds-communication]] compounds, including several eight-carbon alcohols and ketones typical of Agaricales. These contribute to its characteristic, though not unpleasant, odor profile.
 
 Antimicrobial screening of crude extracts has shown weak activity against Gram-positive bacteria, including *Staphylococcus aureus* and *Bacillus subtilis*. Activity against Gram-negative bacteria and fungi was negligible.
 
@@ -90,11 +90,11 @@ The related genus Rhodocollybia, which was historically conflated with Collybia,
 
 The fungus produces a white rot, breaking down cellulose and hemicellulose in fallen needles and leaf litter. It does not cause significant decay of wood or woody debris, distinguishing it from many other forest floor Agaricales.
 
-Mycorrhizal associations have not been documented for this species. It is considered an obligate saprotroph, deriving all nutrients from decomposing organic matter.
+Mycorrhizal associations have not been documented for this species. It is considered an obligate saprotroph, deriving all nutrients from decomposing [[hamilton-composting-and-organic-matter-management]].
 
 The species serves as a food source for various invertebrates, including collembolans and fungivorous mites. Slugs and small insects occasionally feed on the fruiting bodies.
 
-Seasonal fruiting patterns correlate with autumn rainfall and cooling temperatures. Prolonged wet periods in late summer and autumn promote more abundant fruitings. The fungus persists in the soil as a saprotrophic mycelial network year-round.
+Seasonal fruiting patterns correlate with autumn rainfall and cooling temperatures. Prolonged wet periods in late summer and autumn promote more abundant fruitings. The fungus persists in the soil as a saprotrophic [[gadd-mycelial-network-dynamics]] year-round.
 
 ## Similar Species
 
@@ -116,7 +116,7 @@ The genus Collybia has undergone significant taxonomic revision since the advent
 
 A 1997 monograph by Antonín and Noordeloos clarified the boundaries of Collybia sensu stricto, restricting it to a small group of species including C. butyracea, C. cirrhata, C. cookei, and C. tuberosa.
 
-DNA sequencing confirmed that C. butyracea forms a monophyletic clade distinct from Rhodocollybia and Gymnopus, supporting the traditional morphological classification based on the collybioid fruiting body form.
+[[environmental-dna-sequencing-fungi]] confirmed that C. butyracea forms a monophyletic clade distinct from Rhodocollybia and Gymnopus, supporting the traditional morphological classification based on the collybioid fruiting body form.
 
 ## See Also
 
@@ -125,4 +125,4 @@ DNA sequencing confirmed that C. butyracea forms a monophyletic clade distinct f
 - [[agaricus-subrufescens]]
 - boletus edulis
 - cantharellus cibarius
-- [[coprinus-comatus-detailed]]
+- [[coprinus-comatus]]

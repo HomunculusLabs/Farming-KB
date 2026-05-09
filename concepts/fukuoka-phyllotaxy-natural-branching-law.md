@@ -1,5 +1,5 @@
 ---
-title: "Phyllotaxy and Natural Branching Law in Fruit Trees"
+title: "Phyllotaxy and fukuoka phyllotaxy natural branching law Law in comparison-pruning-fruit-trees-vs-grafting-fruit-trees"
 created: 2026-04-28
 tags: [fukuoka, phyllotaxy, botany, fruit-trees, natural-form, pruning]
 date: 2026-04-28
@@ -12,7 +12,7 @@ Phyllotaxy is the fixed law governing the arrangement
 of leaves and branches on a plant. Every species follows
 a specific pattern of divergence and spacing that ensures
 no two leaves or branches overlap, and all receive equal
-ventilation and sunlight. Masanobu Fukuoka used this
+ventilation and sunlight. [[masanobu-fukuoka]] used this
 principle as the foundation for his argument that fruit
 trees grown in their natural form never require pruning.
 
@@ -21,7 +21,7 @@ trees grown in their natural form never require pruning.
 In plants with a divergence angle of 72 degrees, each
 successive leaf emerges at that same fixed angle from the
 previous one. The sixth leaf on the branches of peach,
-persimmon, mandarin orange, orange, and cherry trees is
+persimmon, [[fukuoka-mandarin-orange-citrus]], orange, and cherry trees is
 always located directly above the first leaf, and the
 eleventh leaf is always directly above the sixth. When the
 distance along the branch between two consecutive buds is
@@ -57,7 +57,7 @@ camellia, Japanese maple, and all other trees.
 
 ## Implications for Pruning
 
-Fukuoka asks: if fruit trees and mountain pines were
+Fukuoka asks: if [[holzer-wild-fruit-trees-and-hedges]] mountain pines were
 simply left to grow to their full size under natural
 conditions, would pruning ever be necessary? His answer
 is unequivocally no. The very goal that the gardener or
@@ -123,7 +123,7 @@ of branches and attack by disease and pests.
 
 ## Misconceptions About Natural Form
 
-Orchardists have never tried growing fruit trees in their
+Orchardists have never tried growing [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]] their
 natural form. To begin with, most have never even given
 thought to what the natural form is. Not a single book or
 report discusses pruning based on such basic factors as the

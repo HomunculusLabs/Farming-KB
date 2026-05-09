@@ -1,5 +1,5 @@
 ---
-title: Cannabis Grafting and Intergeneric Humulus Grafts
+title: Cannabis Grafting and cannabis grafting intergeneric humulus clarke Grafts
 created: 2026-04-28
 tags: [cannabis, grafting, humulus, hops, propagation, clarke]
 date: 2026-04-28
@@ -16,7 +16,7 @@ plants so they grow as one. In Cannabis, grafting has attracted both
 scientific curiosity and practical interest, particularly the intergeneric
 grafting of Cannabis with its closest botanical relative, Humulus (hops).
 Robert Clarke documents the history, science, and technique of Cannabis
-grafting in Marijuana Botany, providing a thorough examination of what
+grafting in [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]], providing a thorough examination of what
 grafting can and cannot accomplish with this species.
 
 ## Intergeneric Cannabis and Humulus Grafts
@@ -34,7 +34,7 @@ roots produced "...as much drug as leaves from intact hemp plants, even
 though leaves from intact hop plants are completely nontoxic." According to
 this research, the active ingredient of Cannabis was being produced in the
 roots and transported across the graft union to the Humulus tops. This
-finding implied that cannabinoid biosynthesis might occur in the root system
+finding implied that [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]] might occur in the root system
 and that psychoactive compounds could be translocated through the vascular
 tissue of the graft to an entirely different genus.
 
@@ -70,7 +70,7 @@ This finding definitively established that:
 The Crombie and Crombie study is considered authoritative and has not been
 successfully challenged. It underscores the importance of genotype in
 determining cannabinoid production, a theme that runs throughout Clarke's
-work on Cannabis breeding and genetics.
+work on [[oner-cannabis-breeding-fundamentals]] and genetics.
 
 ## Practical Grafting Technique for Cannabis
 
@@ -128,8 +128,8 @@ propagation techniques. Unlike [[cannabis-propagation-sexual-vs-asexual-clarke]]
 creates new genetic combinations through recombination, grafting simply
 joins existing genotypes without genetic change.
 
-For practical breeding purposes, Clarke emphasizes that seed selection and
-controlled pollination through
+For practical breeding purposes, Clarke emphasizes that [[cannabis-seed-selection-and-strain-types]] and
+[[cannabis-controlled-pollination-seed-production]] through
 [[cannabis-propagation-sexual-vs-asexual-clarke]]
 [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]
 

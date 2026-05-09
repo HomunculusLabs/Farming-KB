@@ -21,7 +21,7 @@ these forms are more complex and favor fungi more than bacteria.
 Blackstrap means less of the plant material has been removed from
 the plant sugars. Please do not rely on your dictionary for a
 definition; go to websites from places that make sugar. They have
-chemical analyses of exactly what is in different kinds of molasses.
+[[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] of exactly what is in different kinds of molasses.
 
 ## Molasses Contains Nitrogen
 
@@ -75,7 +75,7 @@ For troubleshooting molasses-related issues in brewing, see [[aact-pathogen-safe
 
 ## Sulphured vs. Unsulphured Molasses
 
-Always use unsulphured molasses for compost tea brewing. Sulphured
+Always use unsulphured molasses for compost [[compost-tea-brewing-equipment-ingham]]. Sulphured
 molasses contains sulfur dioxide as a preservative, and this compound
 works to suppress microbial growth. The very organisms you are trying
 to grow in your tea are inhibited by the preservative. Unsulphured
@@ -96,7 +96,7 @@ molasses provides the most consistent results.
 
 Adding large amounts of molasses to your sprayer tank is acceptable
 because high concentration of sugar prevents the bad organisms from
-growing through osmotic shock. At 5% concentration in the spray
+growing through [[ingham-antibiotics-osmotic-shock-compost-tea]]. At 5% concentration in the spray
 tank, molasses serves dual purposes: it acts as a sticker-spreader
 to help the tea adhere to leaf surfaces, and it provides fungal food
 that continues to feed organisms after application. The osmotic
@@ -107,6 +107,6 @@ on the leaf surface.
 
 Molasses works best when combined with other food sources. Fish
 hydrolysate provides nitrogen and complex proteins that complement
-the sugars in molasses. Humic acids provide fungal foods that work
+the sugars in molasses. Humic acids provide [[ingham-paper-cardboard-fungal-foods-compost]] that work
 synergistically with the more complex sugars in blackstrap molasses.
-Kelp adds trace minerals and natural growth regulators. The
+Kelp adds trace minerals and natural [[singh-fungal-plant-growth-regulators-production]]. The

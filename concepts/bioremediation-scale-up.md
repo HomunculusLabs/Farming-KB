@@ -13,7 +13,7 @@ The translation of laboratory and pilot-scale bioremediation results to full-sca
 
 Laboratory experiments conducted under controlled conditions with optimized parameters often significantly overestimate the rates and extents of bioremediation that can be achieved in the field.
 
-Understanding and addressing scale-up challenges is essential for the successful application of [[bioaugmentation-strategies]], and other biological remediation technologies at commercial scale.
+Understanding and addressing scale-up challenges is essential for the successful application of [[bioaugmentation-strategies]], and other [[combined-biological-remediation-approaches]] technologies at commercial scale.
 
 The Singh mycoremediation source identifies engineering scale-up of bioremediation processes as a critical area requiring continued development.
 
@@ -21,9 +21,9 @@ The Singh mycoremediation source identifies engineering scale-up of bioremediati
 
 The primary challenge in bioremediation scale-up is the vast difference in complexity between homogeneous laboratory systems and heterogeneous field environments.
 
-Laboratory microcosms and mesocosms provide uniform mixing, controlled temperature, consistent nutrient availability, and optimized moisture conditions that are never fully replicated in the field.
+Laboratory microcosms and mesocosms provide uniform mixing, controlled temperature, consistent [[ph-and-nutrient-availability-garden-soils]], and optimized moisture conditions that are never fully replicated in the field.
 
-Field sites exhibit spatial heterogeneity in contaminant distribution, soil texture, permeability, organic matter content, pH, nutrient availability, and microbial community composition.
+Field sites exhibit spatial heterogeneity in contaminant distribution, soil texture, permeability, organic matter content, pH, nutrient availability, and microbial [[core-endorhiza-bacterial-community-composition-cannabis]].
 
 Contaminant distribution at field scale often includes hotspots of high concentration mixed with areas of low contamination, requiring treatment strategies that address both.
 
@@ -33,15 +33,15 @@ Groundwater flow dynamics, including seasonal variations in recharge and dischar
 
 The three-dimensional nature of subsurface contamination requires monitoring and treatment approaches that account for vertical as well as lateral heterogeneity.
 
-[[bioavailability-in-fungal-bioremediation]] discusses how bioavailability constraints affect fungal bioremediation performance.
+[[bioavailability-in-fungal-bioremediation]] discusses how bioavailability constraints affect [[staycare-composting-as-a-fungal-bioremediation-strategy]] performance.
 
 Surfactant addition, as described in [[mycorrhizal-fungi-bioremediation]] approaches often show better field-scale survival than soil inoculation alone.
 
 The rate of microbial activity in the field is typically lower than in laboratory systems because of suboptimal temperature, moisture, nutrient availability, and oxygen levels.
 
-Microbial enzyme production, which drives contaminant degradation, is sensitive to environmental conditions and may be repressed or inhibited under field conditions.
+Microbial [[ligninolytic-enzyme-production-bioremediation]], which drives contaminant degradation, is sensitive to environmental conditions and may be repressed or inhibited under field conditions.
 
-[[fungal-biofilm-bioremediation]], is more challenging in dynamic field environments than in controlled reactor systems.
+fungal-biofilm-bioremediation, is more challenging in dynamic field environments than in controlled reactor systems.
 
 ## Nutrient and Electron Donor Delivery
 
@@ -49,7 +49,7 @@ The delivery of nutrients, electron donors, oxygen, and other amendments to the 
 
 Uniform distribution of amendments throughout the treatment zone is difficult to achieve, particularly in heterogeneous or low-permeability formations.
 
-Amendment delivery methods including injection wells, infiltration galleries, soil mixing, and permeable reactive barriers each have advantages and limitations for different site conditions.
+Amendment [[cannabis-delivery-methods-comparison]] including injection wells, infiltration galleries, soil mixing, and permeable reactive barriers each have advantages and limitations for different site conditions.
 
 The consumption of amendments by non-target organisms can reduce the amount available for stimulating contaminant-degrading populations, requiring higher loading rates than predicted from laboratory studies.
 
@@ -59,9 +59,9 @@ The longevity of amendment effects in the subsurface is limited by consumption, 
 
 [[molecular-tools-bioremediation]], enable rapid assessment of microbial community composition and functional gene abundance at multiple monitoring points.
 
-[[fungal-genetic-engineering-bioremediation]], faces additional regulatory hurdles related to environmental release of modified organisms.
+fungal-genetic-engineering-bioremediation, faces additional regulatory hurdles related to environmental release of modified organisms.
 
-[[mycoremediation-scale-up-challenges]] describes the specific challenges of scaling fungal bioremediation systems, including production of inoculum, delivery to the treatment zone, and verification of treatment performance.
+mycoremediation-scale-up-challenges describes the specific challenges of scaling fungal bioremediation systems, including production of inoculum, delivery to the treatment zone, and verification of treatment performance.
 
 Life cycle assessment of bioremediation approaches, considering energy consumption, material inputs, and environmental impacts of the treatment process itself, is increasingly required for responsible technology selection.
 
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: Dynamic Accumulator — Chop-and-Drop Mulching
+title: nutrient-dynamic-accumulator-reference — Chop-and-Drop Mulching
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,17 +10,17 @@ tags: [mulch]
 
 # Dynamic Accumulator — Chop-and-Drop Mulching
 
-Chop-and-drop mulching is the practice of cutting dynamic accumulator plants and leaving their foliage on the soil surface as green manure mulch, rather than removing or composting them elsewhere. This technique directly cycles accumulated nutrients back into the soil ecosystem where they are needed, mimicking natural nutrient cycling in forests and prairies.
+Chop-and-drop mulching is the practice of cutting dynamic accumulator plants and leaving their foliage on the soil surface as green manure mulch, rather than removing or composting them elsewhere. This technique directly cycles accumulated nutrients back into the soil ecosystem where they are needed, mimicking natural [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forests and prairies.
 
 ## The Principle of Nutrient Cycling
 
-The fundamental goal of using dynamic accumulators is self-sufficiency with fertilizers. Old-time farmers cycled nutrients within their farms as a fact of life. Good farmers used accumulator plants — those that amass a greater than usual amount of particular nutrients in their foliage — to gather nutrients and return them to the soil.
+The fundamental goal of using [[comparison-dynamic-accumulators-vs-cover-crops]] is self-sufficiency with fertilizers. Old-time farmers cycled nutrients within their farms as a fact of life. Good farmers used accumulator plants — those that amass a greater than usual amount of particular nutrients in their foliage — to gather nutrients and return them to the soil.
 
 Once a plant has freed an element from its mineral form and used it to grow, you can recycle that element for the growth of other plants through several methods:
 
 - **Chop-and-drop mulching**: Cut and leave in place
 - **Composting**: Collect and compost before returning to soil
-- **Cover cropping**: Grow accumulators in place, then till in as green manure
+- **[[fukuoka-clover-cover-cropping-soil-ecology]]**: Grow accumulators in place, then till in as green manure
 - **Green manuring**: Incorporate living plant material directly into soil
 
 ## Timing Is Critical
@@ -39,7 +39,7 @@ For nitrogen-fixing legumes specifically, the timing of chop-and-drop is essenti
 - Leave cut foliage in place as a mulch layer
 - Nutrients slowly release as material decomposes
 - Mulch layer suppresses weeds, retains moisture, moderates soil temperature
-- Earthworms and soil organisms incorporate organic matter into the soil profile
+- Earthworms and soil organisms incorporate [[hamilton-composting-and-organic-matter-management]] into the soil profile
 
 ### Green Manure Incorporation
 
@@ -59,7 +59,7 @@ For nitrogen-fixing legumes specifically, the timing of chop-and-drop is essenti
 ### Compost Tea and Liquid Fertilizer
 
 - Steep accumulator plants in water for 1-4 weeks
-- Stinging nettle tea is particularly rich and widely used
+- [[comparison-stinging-nettle-vs-horsetail]] tea is particularly rich and widely used
 - Comfrey tea provides potassium boost for fruiting crops
 - Dilute and apply as soil drench or foliar spray
 

@@ -26,7 +26,7 @@ after cellulose. In nature, chitin forms the structural framework of
 crustacean shells, insect exoskeletons, and fungal cell walls. When
 extracted and applied to plants, chitosan triggers natural defense
 mechanisms, acting as an elicitor that stimulates the plant's immune
-response. This makes it particularly valuable in organic and natural farming
+response. This makes it particularly valuable in organic and [[comparison-natural-farming-vs-permaculture]]
 systems where synthetic chemical pesticides are avoided.
 
 ## Materials Needed
@@ -42,7 +42,7 @@ dissipates and the shells are ready for extraction.
 
 ## Extraction Process
 
-After roasting, the shells are combined with brown rice vinegar at a ratio
+After roasting, the shells are combined with brown [[brown-rice-vinegar-brv]] at a ratio
 of 1 part shells to 10 parts BRV by weight. The roasted shells are placed
 in a clay jar or glass container and covered with the vinegar. The container
 should be loosely covered to allow gas exchange while preventing
@@ -60,9 +60,9 @@ a foliar spray or soil drench. It can be mixed with other [[jadam-making-organic
 microbial decomposition method rather than acid extraction. Crab and shrimp
 shell powder is combined with water (1:10 ratio by weight), wild grass, and
 a handful of leaf mold. This mixture ferments for more than three months as
-microorganisms break down the shell material. The resulting liquid fertilizer
+microorganisms break down the shell material. The resulting [[jadam-liquid-fertilizer-nutritional-perspective]]
 contains a whole variety of minerals including calcium, and helps control
-excessive vegetative growth while increasing taste and aroma of produce. The
+excessive [[cannabis-vegetative-growth-stage]] while increasing taste and aroma of produce. The
 microorganism activity in JADAM chitosan can be stronger than other inputs
 because not only chitosan-specific microbes participate in decomposition,
 but microbes from the leaf mold work synergistically. Dilution ranges from
@@ -71,7 +71,7 @@ but microbes from the leaf mold work synergistically. Dilution ranges from
 ## Benefits Observed
 
 Growers using chitosan preparations in natural farming systems report:
-enhanced disease resistance particularly against fungal pathogens; stronger
+enhanced disease resistance particularly against [[bloomfield-fungal-pathogens-and-parasites]]; stronger
 stem and leaf structure; improved fruit quality including better taste and
 aroma; regulated growth patterns preventing excessive vegetative expansion;
 and synergistic effects when combined with other KNF inputs such as
@@ -81,7 +81,7 @@ and synergistic effects when combined with other KNF inputs such as
 
 Analysis of JADAM-style chitosan liquid fertilizer (prepared from 10 kg of
 crab shells in 100 liters of water with leaf mold) shows a pH of 7.2,
-electrical conductivity (1:5 dilution) of 7.24 dS/m, organic matter content
+electrical conductivity (1:5 dilution) of 7.24 dS/m, [[hamilton-composting-and-organic-matter-management]] content
 of 2.08%, and measurable total carbon and nitrogen fractions. These values
 indicate a biologically active preparation with significant mineral content,
 primarily from the calcium-rich shell material. The near-neutral pH makes it
@@ -98,3 +98,7 @@ combined with seawater, humus soil liquid fertilizer, and phyllite solution,
 chitosan contributes to an integrated approach that addresses mineral
 nutrition, microbial activity, and plant defense simultaneously. See also
 [[knf-nutritive-cycle-theory]].
+
+## See Also
+
+- [[kava-traditional-preparation-ceremonial-context]]

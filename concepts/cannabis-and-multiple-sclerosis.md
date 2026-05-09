@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Multiple sclerosis (MS) is the condition with perhaps the most extensive clinical evidence for cannabis-based medicine. Research from The Cannabis Health Index documents over 30 studies examining cannabinoids for spasticity, neuropathic pain, bladder dysfunction, and other MS symptoms. Sativex (THC:CBD oromucosal spray) was developed primarily for MS and is approved in many countries.
+Multiple sclerosis (MS) is the condition with perhaps the most extensive clinical evidence for cannabis-based medicine. Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] documents over 30 studies examining cannabinoids for spasticity, neuropathic pain, bladder dysfunction, and other MS symptoms. Sativex (THC:CBD oromucosal spray) was developed primarily for MS and is approved in many countries.
 
 ## Key Clinical Studies
 

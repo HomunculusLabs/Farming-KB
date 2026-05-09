@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's Four Principles of Natural Farming
+title: Fukuoka's Four four-principles-of-natural-farming Farming
 created: 2026-04-28
 tags:
   - natural-farming
@@ -17,7 +17,7 @@ type: concept
 
 # Fukuoka's Four Principles of Natural Farming
 
-Masanobu Fukuoka's natural farming system rests on four foundational principles: **no cultivation, no fertilizer, no weeding, and no pesticides**. These principles emerged from decades of experimentation on his farm in Ehime Prefecture, Japan, where he achieved yields comparable to or exceeding those of scientific agriculture while eliminating virtually all external inputs and mechanized labor.
+Masanobu Fukuoka's natural farming system rests on four foundational principles: **no cultivation, no fertilizer, no weeding, and no pesticides**. These principles emerged from decades of experimentation on his farm in Ehime Prefecture, Japan, where he achieved yields comparable to or exceeding those of [[fukuoka-critique-scientific-agriculture-civilization]] while eliminating virtually all external inputs and mechanized labor.
 
 ## 1. No Cultivation (No Plowing)
 
@@ -27,11 +27,11 @@ Wet paddy fields are normally tilled five, six, or even seven times during the g
 
 Nature provides its own tillage. The roots of grasses and green manure crops penetrate 12 to 15 inches deep, far exceeding the typical 4-to-8-inch depth of manual plowing. As roots grow, air and water follow. When roots die and decompose, microorganisms proliferate, humus accumulates, and earthworms appear. Moles eventually burrow through the enriched soil. This biological plowing is continuous, deep, and self-sustaining.
 
-Fukuoka's fields were not plowed or turned for over thirty years, yet each year they yielded close to 22 bushels (1,300 pounds) of winter grain and 22 bushels of rice per quarter-acre. The key was allowing rice straw and clover to remain on the field surface, building soil structure through natural decomposition.
+Fukuoka's fields were not plowed or turned for over thirty years, yet each year they yielded close to 22 bushels (1,300 pounds) of winter grain and 22 bushels of rice per quarter-acre. The key was allowing rice straw and clover to remain on the field surface, building soil structure through [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]].
 
 ## 2. No Fertilizer
 
-Chemical fertilizers appear effective only because the soil has been killed by previous chemical applications. On naturally fertile soil, adding nitrogen, phosphorus, or potassium provides little benefit and may actually reduce yields. Green manure plants — clover, alfalfa, and other legumes — fix atmospheric nitrogen and cycle minerals from deep subsoil layers to the surface. When rice straw is scattered uncut over the field, it decomposes slowly and feeds the soil food web.
+[[cervantes-chemical-fertilizers-guide]] appear effective only because the soil has been killed by previous chemical applications. On naturally fertile soil, adding nitrogen, phosphorus, or potassium provides little benefit and may actually reduce yields. Green manure plants — clover, alfalfa, and other legumes — fix atmospheric nitrogen and cycle minerals from deep subsoil layers to the surface. When rice straw is scattered uncut over the field, it decomposes slowly and feeds the soil food web.
 
 Fukuoka scattered chicken droppings sparingly when available, but his primary fertility program was returning all crop residues to the field. He argued that compost preparation, while less harmful than chemical fertilizers, still depletes the land from which organic materials are removed. Compost is transported from one location to another, robbing the source area and creating an artificial concentration at the destination. True soil enrichment is a self-sustaining process when left undisturbed.
 
@@ -51,7 +51,7 @@ Fukuoka observed that a healthy rice field supports approximately 250 heads of g
 
 He described watching a single pesticide application cause tens of thousands of young spiders and swarms of fireflies to vanish from each square yard. The second application killed off important natural predators, and the third devastated dragonfly larvae, tadpoles, and loaches. "Just one look at this slaughter would suffice to show the insanity of the blanket application of pesticides."
 
-Pest outbreaks, in Fukuoka's view, are nature's self-correcting mechanism. They signal that crops have been weakened by poor cultivation practices, excessive fertilization, or disrupted ecological balance. Growing healthy crops in balanced ecosystems eliminates the need for chemical intervention. There are no "pests" or "beneficial insects" in nature — only organisms playing their roles in an interconnected system.
+Pest outbreaks, in Fukuoka's view, are nature's self-correcting mechanism. They signal that crops have been weakened by poor cultivation practices, excessive fertilization, or disrupted [[fukuoka-ecological-balance-principles]]. Growing healthy crops in balanced ecosystems eliminates the need for chemical intervention. There are no "pests" or "[[comparison-beneficial-insects-guide-vs-integrated-pest-management]]" in nature — only organisms playing their roles in an interconnected system.
 
 ## The Philosophical Foundation
 
@@ -111,9 +111,10 @@ Third, that his philosophy is impractical for most farmers. Fukuoka conceded tha
 
 ## See Also
 
+- [[fukuoka-happy-hill-rice]]
+
 - [[fukuoka-natural-farming-philosophy]]
 - [[four-principles-of-natural-farming]]
-- [[fukuoka-natural-farming-philosophy]]
 - [[no-till-agriculture]]
 - Clay Seed Pellets for Direct Seeding
 - Green Manure and Cover Cropping

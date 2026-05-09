@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, construction, safety, design, beginner]
-sources: []
+sources:
+  sources: []
 ---
 
 # Outdoor Shelter Building
@@ -18,9 +19,9 @@ Regardless of shelter type, these principles apply:
 - **Insulation from the ground** — the ground conducts heat away from your body 25 times faster than still air. Always insulate between yourself and the ground with dry leaves, pine needles, boughs, or a sleeping pad.
 - **Small space** — your body heats a small space faster than a large one. Build just big enough to fit you and your gear.
 - **Waterproofing** — thatch, bark, leaves, or a tarp shed water. Layer from bottom to top so water flows over and off, not through.
-- **Wind protection** — face the opening away from prevailing wind. A windbreak (even a pile of branches) on the windward side dramatically improves comfort.
+- **[[cervantes-wind-protection-outdoor-cannabis]]** — face the opening away from prevailing wind. A windbreak (even a pile of branches) on the windward side dramatically improves comfort.
 - **Structural integrity** — ensure the frame can support its own weight plus the weight of insulation, snow, or rain. Test it before committing to the insulation layer.
-- **Location** — avoid low spots (cold air pools, water collects), dead trees or branches overhead (widowmakers), animal trails, and insect nesting areas. Look for natural features that provide partial shelter (rock overhangs, fallen trees, root balls).
+- **Location** — avoid low spots ([[hemenway-cold-air-drainage-and-frost-management]] pools, water collects), dead trees or branches overhead (widowmakers), animal trails, and insect nesting areas. Look for natural features that provide partial shelter (rock overhangs, fallen trees, root balls).
 
 ## Tarp Shelters
 
@@ -143,14 +144,7 @@ On a working homestead, shelter-building skills apply beyond survival:
 - 50-100 feet of paracord or natural cordage
 - Tarp (8x10 or 10x12)
 - 8-10 metal or wooden stakes
-- Work gloves
-
-## Practice
-
-Build shelters for fun before you need them for survival. Practice each type in good weather, then in bad weather. Time yourself. Learn which natural materials in your specific area work best for thatching and insulation. Competence comes from repetition, not reading.
-
-For the broader homestead infrastructure context, see [[homestead-workshop-tools]] and [[emergency-preparedness]].
-
 ## Related
 
 - [[roundwood-shelter-building]]
+- [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]]

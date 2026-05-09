@@ -5,7 +5,8 @@ tags: [cannabis, photosynthesis, chlorophyll, plant-physiology, botany]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -15,12 +16,12 @@ Photosynthesis is the fundamental biological process by which
 cannabis plants convert light energy into chemical energy,
 producing the sugars and compounds needed for growth,
 [[cervantes-cannabinoids-thc-cbd-chemistry]] synthesis. Understanding this process is
-essential for optimizing grow room conditions and maximizing
+essential for optimizing [[cannabis-grow-room-setup]] conditions and maximizing
 plant health and yield.
 
 ## The Photosynthesis Process
 
-Cannabis leaves function as solar panels, capturing light
+[[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]] function as solar panels, capturing light
 energy and using it to drive photosynthesis. The process
 works as follows:
 
@@ -29,7 +30,7 @@ works as follows:
 2. Light energy converts carbon dioxide (CO2) and water
    into glucose and oxygen
 3. Glucose fuels all plant metabolic processes including
-   growth, resin production, and reproduction
+   growth, [[cannabis-glandular-trichome-types-resin-production-clarke]], and reproduction
 4. Oxygen is released as a byproduct through stomata
 
 For photosynthesis to occur, the leaf's interior tissue must
@@ -87,7 +88,7 @@ The transpiration stream is responsible for:
   causing excessive water stress
 - Ensure nutrients like nitrogen, magnesium, and iron are
   available for chlorophyll production
-- Avoid foliar sprays that can clog stomata and impair
+- Avoid [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] that can clog stomata and impair
   gas exchange
 - Manage [[porphyrin-chemistry-heme-chlorophyll-b12]]
 

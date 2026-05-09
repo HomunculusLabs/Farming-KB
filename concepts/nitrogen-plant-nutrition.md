@@ -4,12 +4,13 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources: []
 ---
 
 # Nitrogen in Plant Nutrition — The Most Limiting Macronutrient
 
-Nitrogen (N) is the nutrient most commonly limiting plant growth worldwide. It is a primary component of amino acids, proteins, chlorophyll, nucleic acids, and many other essential compounds. Understanding nitrogen cycling and management is fundamental to successful gardening and agriculture.
+Nitrogen (N) is the nutrient most commonly limiting plant growth worldwide. It is a primary component of amino acids, proteins, chlorophyll, nucleic acids, and many other essential compounds. Understanding [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] and management is fundamental to successful gardening and agriculture.
 
 ## Why Nitrogen Is Critical
 
@@ -27,7 +28,7 @@ Nitrogen (N) is the nutrient most commonly limiting plant growth worldwide. It i
 
 ### Key Processes
 
-**Nitrogen Fixation:**
+**[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:**
 - Biological: [[ozier-pdc-composting-and-soil-building]]
 
 **Nitrification:**
@@ -35,13 +36,13 @@ Nitrogen (N) is the nutrient most commonly limiting plant growth worldwide. It i
 - Carried out by Nitrosomonas and Nitrobacter bacteria
 - Produces nitrate which is mobile and easily leached
 - Inhibited by low temperature, low oxygen, acidic pH
-- Temperature range: 41-95F (5-35C)
+- [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]: 41-95F (5-35C)
 
 **Denitrification:**
 - NO3- → N2O → N2 (lost to atmosphere)
 - Occurs in waterlogged, anaerobic conditions
 - Significant nitrogen loss from waterlogged soils
-- Produces N2O, a potent greenhouse gas
+- Produces N2O, a potent [[dighton-fungal-greenhouse-gas-nitrogen-saturation]]
 
 **Immobilization:**
 - Inorganic N → Organic N (microbial biomass)
@@ -62,7 +63,7 @@ The carbon-to-nitrogen ratio of organic materials determines whether nitrogen is
 | Young leaves | 20-30:1 | Balanced |
 | Straw | 80:1 | Ties up N |
 | Sawdust | 400:1 | Strongly ties up N |
-| Wood chips | 400-700:1 | Strongly ties up N |
+| [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] | 400-700:1 | Strongly ties up N |
 
 Materials with C:N above ~25:1 cause net immobilization (tie up available N). Below ~20:1, net mineralization releases N.
 
@@ -90,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

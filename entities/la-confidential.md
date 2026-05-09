@@ -21,7 +21,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - DNA Genetics. "LA Confidential Strain Profile." DNAGenetics.com.
-  - Leafly Staff (2024). "LA Confidential Cannabis Strain Information."
+  - Leafly Staff (2024). "LA Confidential [[blesching-cannabis-strain-selection-receptor-targeting]] Information."
     Leafly.com.
   - AllBud. "LA Confidential Strain Review." AllBud.com.
   - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution and Ethnobotany."
@@ -37,7 +37,7 @@ after winning multiple Cannabis Cup awards in the mid-2000s. The strain has
 become a staple in the medical cancannabis--management for ,
 insomnia, . Its lineage traces to two California landrace
 and heirloom selections, producing a plant with straightforward cultivation
-needs and consistently high resin production.
+needs and consistently high [[cannabis-glandular-trichome-types-resin-production-clarke]].
 
 ## Lineage
 
@@ -45,7 +45,7 @@ LA Confidential is a cross of two well-established California varieties:
 
 - **Female parent:** An Afghani landrace or Afghani-descended indica selected
   for resin production, bud density, and sedative effect. Contributes the
-  strain's heavy body high and compact growth structure.
+  strain's heavy body high and [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] structure.
 - **Male parent:** An OG Kush-related or South Indian indica selection.
   Contributes some of the complex terpene character, particularly the piney
   and fuel-like undertones that distinguish LA Confidential from pure
@@ -92,7 +92,7 @@ rust-colored, and tend to retract into the bud mass.
 
 LA Confidential is not a high-CBD strain and is not recommended for patients
 seeking CBD-dominant therapeutic effects. Its medical value comes primarily
-from the synergistic entourage effect of THC with its specific terpene
+from the synergistic [[cannabis-terpene-entourage-effect-profiles]] of THC with its specific terpene
 profile, particularly the high myrcene content.
 
 ## Effects
@@ -106,7 +106,7 @@ strongly promotes sleep. Duration is typically 2–3 hours.
 
 ## Medical Applications
 
-- **Pain management:** Effective for chronic pain, neuropathic pain, muscle
+- **Pain management:** Effective for [[cannabis-chronic-pain-management]], neuropathic pain, muscle
   spasms, and tension headaches; the high myrcene content enhances
   analgesic properties.
 - **Insomnia:** One of the more reliably sedative strains available;
@@ -128,7 +128,7 @@ strongly promotes sleep. Duration is typically 2–3 hours.
 - **Outdoor finish:** Early to mid-October (Northern Hemisphere)
 
 The strain branches moderately and benefits from early topping. It is relatively
-low-odor during vegetative growth but produces strong aroma during flowering,
+low-odor during [[cannabis-vegetative-growth-stage]] but produces strong aroma during flowering,
 requiring carbon filtration indoors. Standard nutrient requirements;
 overfeeding nitrogen during flowering reduces terpene expression.
 

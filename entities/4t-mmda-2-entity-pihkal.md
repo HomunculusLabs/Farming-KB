@@ -1,5 +1,5 @@
 ---
-title: "4T-MMDA-2 (6-(2-AMINOPROPYL)-5-METHOXY-1,3-BENZOXATHIOL;) -- PIHKAL Entry #167"
+title: "4T-MMDA-2 (6-(2-AMINOPROPYL)-5-METHOXY-1,3-BENZOXATHIOL;) -- 2c-b-pihkal-entry-20 #167"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -68,7 +68,7 @@ To a well-stirred solution of 120 g thiourea in 800 mL 2N
 HCL, there was added a solution of 100 g benzoquinone in 500 mL acetic
 acid over the course of 15 min. Stirring was continued for an
 additional 0.5 h at room temperature, and then the reaction mixture
-was heated on the steam bath for 1 h. With cooling in ice water, a
+was heated on the [[scythian-cannabis-steam-bath-ritual]] for 1 h. With cooling in ice water, a
 heavy crop of crystals separated. These were removed by filtration
 and air dried to provide 90.1 g of 5-hydroxy-1,3-benzoxathiol-2-one
 (2-mercaptohydroquinone cyclic carbonate ester) with a melting point
@@ -108,9 +108,13 @@ distilled to give 3.3 g of 5-methoxy-1,3-benzoxathiol as a yellowing
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
+
+- [[mmda-3a-entity]]
+- [[2t-mmda-3a-entity-pihkal]]
+- [[mmda-entity-pihkal]]
 
 - [[mme-entity-pihkal]]
 

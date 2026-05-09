@@ -1,11 +1,12 @@
 ---
-title: Fukuoka: Why Natural Farming Does Not Catch On in Japan
+title: Fukuoka: Why comparison-natural-farming-vs-permaculture Does Not Catch On in Japan
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## The Neighboring Farmer Sees and Yet Does Not See
@@ -62,11 +63,11 @@ Fukuoka pointed out ten years ago that transplanting rice seedlings is totally u
 
 ## The Earlier Experiment That Was Snuffed Out
 
-Fukuoka once gave instruction for a period of one year on the outskirts of Matsuyama. The head of a local agricultural extension office had gone to observe direct-seeded, no-tillage rice cultivation at the agricultural testing center in Hyogo Prefecture.
+Fukuoka once gave instruction for a period of one year on the outskirts of Matsuyama. The head of a local agricultural extension office had gone to observe direct-seeded, no-tillage [[jadam-rice-cultivation-methods]] at the agricultural testing center in Hyogo Prefecture.
 
 - At the agricultural fair, rice grown with natural farming took first prize
 
-- Second prize went to rice grown by conventional scientific farming methods, while third prize was snapped up by a natural farming entry
+- Second prize went to rice grown by conventional [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] methods, while third prize was snapped up by a natural farming entry
 
 - The director was transferred back to prefectural headquarters
 
@@ -89,4 +90,4 @@ The Agricultural Ministry was pushing modern farming with large machines, and st
 - [[fukuoka-natural-farming-today]]
 
 ## Merged: Fukuoka Why Natural Farming Does Not Catch On
-Fukuoka provides a detailed analysis of why natural farming has failed to spread in Japan, despite forty years of demonstration. The barriers are cultural, institutional, and psychological. 243-249 (why natural farming doesn't catch on in Japan) updated: 2026-04-18 - [[fukuoka-do-nothing-farming-philosophy]] - [[fukuoka-natural-farming-method]] (the technical methods farmers refuse to adopt) and [[fukuoka-food-and-health-philosophy]] (the cultural consequences of agricultural choices). 238-253 (natural farming today, Western vs Japanese adoption, thousand fields) updated: 2026-04-18 - [[fukuoka-natural-why-no-fertilizer-tests]]
+Fukuoka provides a detailed analysis of why natural farming has failed to spread in Japan, despite forty years of demonstration. The barriers are cultural, institutional, and psychological. 243-249 (why natural farming doesn't catch on in Japan) updated: 2026-04-18 - [[fukuoka-do-nothing-farming-philosophy]] - [[fukuoka-natural-farming-method]] (the technical methods farmers refuse to adopt) and [[fukuoka-food-and-health-philosophy]] (the cultural consequences of agricultural choices). 238-253 (natural farming today, [[fukuoka-western-vs-japanese-attitudes]] adoption, thousand fields) updated: 2026-04-18 - [[fukuoka-natural-why-no-fertilizer-tests]]

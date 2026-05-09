@@ -23,11 +23,11 @@ sources:
 ## Overview
 
 *Leucaena leucocephala* is a fast-growing, nitrogen-fixing leguminous tree in
-the family Fabaceae, native to Central America and southern Mexico.
+the family Fabaceae, native to [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and southern Mexico.
 
 Widely recognized as one of the most versatile multipurpose agroforestry trees
 in the tropics, it provides high-protein forage, fuelwood, timber, green manure,
-and erosion control.
+and [[permplant-willows-salix-erosion-control-fodder]].
 
 Its rapid growth rate — up to 3 m per year under optimal conditions — and
 ability to fix atmospheric nitrogen make it a cornerstone species in tropical
@@ -73,7 +73,7 @@ canopy.
 Leucaena is exceptionally easy to establish and manage, tolerating a wide range
 of tropical conditions.
 
-- **Propagation:** Seed (scarify with hot water or acid), direct seeding or
+- **Propagation:** Seed (scarify with hot water or acid), [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] or
   nursery transplant. Also propagated by stem cuttings.
 - **Climate:** Tropical and subtropical; optimal growth at 25–30°C annual
   mean. Intolerant of frost; damaged below 5°C.
@@ -82,7 +82,7 @@ of tropical conditions.
   waterlogging. Tolerates moderate salinity.
 - **Growth rate:** Exceptionally fast; 3+ m/year height gain in favorable
   conditions. Can reach harvestable size in 3–5 years for fuelwood.
-- **Nitrogen fixation:** Fixes 100–500 kg N/ha/year, depending on stand
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** Fixes 100–500 kg N/ha/year, depending on stand
   density and rhizobial effectiveness.
 - **Yield:** Leaf yield 5–15 t DM/ha/year; wood yield 10–30 m³/ha/year.
 - **Pests:** Susceptible to psyllid (*Heteropsylla cubana*) — a major
@@ -93,8 +93,8 @@ of tropical conditions.
 Leucaena is used in more agroforestry systems globally than any other single
 tree species.
 
-- ** alley cropping:** Rows intercropped with maize, sorghum, or vegetables
-  provide nitrogen, mulch, and windbreak. Prunings add organic matter.
+- ** [[comparison-alley-cropping-vs-silvopasture]]:** Rows intercropped with maize, sorghum, or vegetables
+  provide nitrogen, mulch, and windbreak. Prunings add [[hamilton-composting-and-organic-matter-management]].
 - **Fodder:** Leaves contain 20–30% crude protein; widely fed to cattle,
   goats, and rabbits. Requires ruminal adaptation to mimosine toxin.
 - **Fuelwood:** High calorific value (4,400–4,800 kcal/kg); coppices
@@ -137,10 +137,12 @@ native vegetation. Management requires vigilant monitoring in non-native ranges.
   used in hybrid breeding programs.
 - ***Gliricidia sepium*** — Comparable agroforestry legume, non-toxic forage,
   less invasive tendency.
-
 ## See Also
 
-- [[gliricidia-sepium]] — Madre de cacao, complementary agroforestry legume
+- gliricidia-sepium — Madre de cacao, complementary agroforestry legume
 - [[azadirachta-indica]] — Neem, another tropical permaculture tree
 - [[opuntia-ficus-indica]] — Prickly pear cactus, complementary arid-zone fodder
 - glycine max — Soybean, another major nitrogen-fixing crop
+- [[alley-cropping]]
+- [[green-manure-crops]]
+- [[regenerative-agriculture]]

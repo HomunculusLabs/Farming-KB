@@ -1,5 +1,5 @@
 ---
-title: "Companion Planting vs Polyculture"
+title: "comparison-companion-planting-reference-vs-jadam-monoculture-critique vs Polyculture"
 created: 2026-04-28
 tags: [comparison, organic-gardening, permaculture, biodiversity, crop-design]
 date: 2026-04-25
@@ -16,12 +16,12 @@ Companion planting and polyculture both grow multiple plant species together
 for mutual benefit, but they operate at different levels of complexity and
 ecological integration. Companion planting focuses on specific pairwise or
 small-group relationships between plants, leveraging known mechanisms like pest
-deterrence through volatile compounds, physical support, nutrient sharing, and
-attraction of beneficial insects. Polyculture takes a systems-level approach,
+deterrence through [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]], physical support, nutrient sharing, and
+attraction of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. Polyculture takes a systems-level approach,
 creating dynamic plant communities of many species that mimic natural ecosystems
 where plants self-organize, fill ecological niches, and create conditions for
 each other through succession and microclimate modification. Companion planting
-is a technique within polyculture design, but the two are not synonymous and
+is a technique within [[aquatic-polyculture-design-mollison]], but the two are not synonymous and
 serve different purposes.
 
 ## Companion Planting
@@ -34,7 +34,7 @@ serve different purposes.
 | Aspect | Companion Planting | Polyculture |
 |--------|-------------------|-------------|
 | Scope | Specific pairwise or small-group relationships | Whole-ecosystem
-community design |
+[[holmgren-community-design-and-intentional-communities]] |
 | Species count | 2-4 per grouping | 7-20+ per bed |
 | Design basis | Known beneficial interactions | Ecological niche diversity
 and succession |
@@ -59,7 +59,7 @@ multi-species growing. It requires no change to existing garden layout and
 delivers measurable benefits with minimal additional complexity. Specific
 companion pairings solve specific problems: marigolds for nematode suppression,
 nasturtiums as aphid trap crops, alliums for general pest deterrence, beans for
-nitrogen fixation near heavy feeders. Companion planting also integrates
+[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] near heavy feeders. Companion planting also integrates
 seamlessly into conventional raised beds, row gardens, and container
 arrangements. It is the most accessible entry point into ecological gardening
 and provides immediate, understandable results that build confidence for more
@@ -74,7 +74,7 @@ self-regulating food system. Polyculture beds produce food continuously over
 long seasons from a single sowing, reduce pest pressure through ecological
 confusion, and build soil through living mulch and diverse [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 - [[polyculture-design-hemenway]]
-- [[permaculture-plant-guilds]]
+- permaculture-plant-guilds
 ## Practical Considerations
 
 Successful implementation of Companion Planting vs Polyculture requires attention to
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

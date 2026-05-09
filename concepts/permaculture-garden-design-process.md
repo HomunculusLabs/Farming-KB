@@ -42,18 +42,18 @@ After observation comes the creation of a vision for the site. This phase involv
 - Imagining the future state: What will the mature garden look like in 5, 10, or 20 years?
 - Setting priorities: What elements are most important to implement first?
 
-The vision should align with permaculture ethics: care for the earth, care for people, and fair share of surpluses.
+The vision should align with [[williams-pdc-permaculture-ethics-and-holmgrens-principles]]: care for the earth, care for people, and fair share of surpluses.
 
 ### 3. Planning
 
 The planning phase translates the vision into concrete design decisions:
 
 - **Zone mapping**: Place elements according to frequency of use (see [[permaculture-zones-and-sectors]])
-- **Sector analysis**: Map incoming energies such as sun, wind, water, fire, and noise
+- **[[mollison-designers-sector-analysis-wind-sun-fire]]**: Map incoming energies such as sun, wind, water, fire, and noise
 - **Water design**: Plan for capturing, storing, and directing water across the site
 - **Access design**: Lay out pathways and circulation patterns (see [[permaculture-access-and-circulation-design]])
 - **Plant selection**: Choose species based on function, climate appropriateness, and [[permaculture-plant-selection-guide|plant selection principles]]
-- **Guild design**: Create plant communities that support each other (see [[permaculture-guild-design-method]])
+- **[[apple-guild-design-guide]]**: Create plant communities that support each other (see [[permaculture-guild-design-method]])
 
 ### 4. Implementation
 
@@ -70,7 +70,7 @@ Hemenway advocates for a phased approach:
 - **Work with nature, not against it**: Design for the specific conditions of your site rather than forcing a generic plan
 - **Start from patterns to details**: Understand the large-scale patterns (watershed, climate, neighborhood) before placing individual elements
 - **Each element performs multiple functions**: Every plant, structure, and feature should serve at least three purposes
-- **Use biological resources over mechanical ones**: Let plants and animals do the work of fertilizing, pest control, and soil building
+- **Use biological resources over mechanical ones**: Let plants and animals do the work of fertilizing, [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], and soil building
 - **Create edge and value the marginal**: Increase the boundaries between different plant communities and habitat types for greater diversity and yield (see [[permaculture-edge-effect-design]])
 
 ## The Garden as Ecosystem
@@ -87,7 +87,7 @@ Hemenway frames the ultimate goal as creating a garden that functions as a self-
 
 - [[permaculture-design-process]]
 - [[permaculture-site-analysis]]
-- [[permaculture-zone-and-sector-analysis]]
+- [[zone-sector-analysis-guide]]
 - [[permaculture-mapping-and-reading-the-landscape]]
 - [[backyard-food-forest-design]]
 - [[edible-landscaping]]

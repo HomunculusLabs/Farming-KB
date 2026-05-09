@@ -1,5 +1,5 @@
 ---
-title: Keule - Gomortega Keule Chilean Entheogen
+title: Keule - keule gomortega keule chilean entheogen Chilean Entheogen
 created: 2026-04-28
 tags: [ethnobotany, chile, mapuche, gomortegaceae, rare-plants,
   hallucinogenic-plants, schultes, south-america]
@@ -49,7 +49,7 @@ remarkable diversity of hallucinogenic plants, many of which are documented
 in the Golden Guide. In addition to keule, the Mapuche are known to use
 tree daturas (Datura candida and D. sanguinea, also called Brugmansia) for
 correcting unruly children through hallucinatory experiences, and Latua
-pubiflora (arbol de los brujos) as a powerful deliriant administered by
+pubiflora (arbol de [[latua-pubiflora-arbol-de-los-brujos-ethnobotany]]) as a powerful deliriant administered by
 medicine men.
 
 The Mapuche use of psychoactive plants tends to emphasize their role in
@@ -57,7 +57,7 @@ healing and social control rather than communal religious ceremony. Tree
 daturas, for example, are employed to discipline children by inducing
 hallucinations in which the spirits of ancestors admonish the young. This
 practical, socially integrative use of hallucinogens is characteristic of
-southern South American indigenous cultures and contrasts with the more
+southern [[chiric-caspi-brunfelsia-south-american-hallucinogen]] indigenous cultures and contrasts with the more
 elaborately ritualized use of psychoactive plants among Amazonian and
 Mesoamerican peoples.
 
@@ -81,7 +81,7 @@ risk of losing their ethnobotanical documentation entirely.
 ## Fruit and Intoxicant Use
 
 According to Schultes' report, the Mapuche eat the fruit of keule for
-intoxication. The precise method of preparation and consumption is not
+intoxication. The precise method of [[magic-mushroom-preparation-and-consumption-methods]] is not
 detailed in the Golden Guide, and the nature of the intoxicating effects
 remains poorly characterized. Whether the fruit produces true
 hallucinations, mild euphoria, sedation, or some other psychoactive effect
@@ -112,7 +112,7 @@ destruction, small population size, and limited reproductive capacity makes
 this tree one of the most threatened species in the South American flora.
 Conservation efforts are complicated by the tree's restricted range and the
 pressure from agricultural development in central Chile's Mediterranean
-climate zone.
+[[holzer-climate-zone-microclimate-creation]].
 
 ## See Also
 

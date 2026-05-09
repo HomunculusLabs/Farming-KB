@@ -1,5 +1,5 @@
 ---
-title: Agricultural Production as Net Energy Deduction
+title: fukuoka agricultural production net energy deduction as Net Energy Deduction
 tags:
   - energy
   - agriculture
@@ -45,7 +45,7 @@ The energy invested in farming is not limited to what happens in the field. It i
 - **Irrigation infrastructure** including pumps and waterways
 - **Transportation** of inputs to farms and products to markets
 
-The apparent increase in food production is subsidized by rapid depletion of the soil's organic matter — squandering stored solar energy that took centuries to accumulate.
+The apparent increase in food production is subsidized by rapid depletion of the soil's [[hamilton-composting-and-organic-matter-management]] — squandering stored solar energy that took centuries to accumulate.
 
 ## The Petroleum-Food Nexus
 
@@ -61,12 +61,12 @@ When petroleum becomes even slightly scarce, food production will take a sharp a
 
 ## Commercial Feedlots
 
-Fukuoka extended his energy analysis to the livestock industry:
+Fukuoka extended his [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]] to the livestock industry:
 
 - To eat **eggs and milk** requires twice the energy of eating grains and vegetables directly
 - To eat **meat raised on commercial feedlots** requires seven times the energy
 - Japanese cattle are fed on corn grown in the United States and shipped across the Pacific
-- Cattle are raised in small stalls, never grazing on pasture grass
+- Cattle are raised in small stalls, never grazing on [[mollison-designers-tropical-pasture-grass-species-and-establishment]]
 - The massive production of corn for feedlot operations is itself a massive energy drain
 - Useful animal manure that could improve pasture soil is wasted
 
@@ -84,7 +84,7 @@ The modern fishing industry faces parallel problems:
 
 ## The Ideal Animal Husbandry
 
-Fukuoka contrasted industrial operations with his vision of integrated, natural animal raising:
+Fukuoka contrasted industrial operations with his vision of integrated, [[holzer-natural-animal-husbandry]] raising:
 
 - **Orchards** of fruit and nut trees with clover and vegetables blooming beneath
 - **Bees** flying among barley and wild mustard
@@ -103,7 +103,7 @@ Fukuoka connected energy-deductive agriculture to his [[fukuoka-clay-seed-pellet
 - The soil itself becomes increasingly fertile over time rather than being depleted
 - Food is grown and consumed locally, eliminating transportation energy
 
-He stated that even if the world's population doubled, everyone could be fed through natural farming "without using a drop of oil."
+He stated that even if the world's population doubled, everyone could be fed through [[comparison-natural-farming-vs-permaculture]] "without using a drop of oil."
 
 ## The Fundamental Question
 

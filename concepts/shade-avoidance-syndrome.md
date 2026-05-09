@@ -65,7 +65,7 @@ before they experience actual reductions in photosynthetic photon flux.
 ## Stem and Petiole Elongation
 
 The most conspicuous shade avoidance response is rapid elongation of stems and
-petioles. This growth is achieved primarily through increased cell elongation
+petioles. This growth is achieved primarily through increased [[brassinosteroid-physiological-mechanisms-cell-elongation-division]]
 in the internodes rather than increased cell division. The plant essentially
 invests resources in vertical growth to overtop competitors, often at the
 expense of leaf expansion and root development.
@@ -104,7 +104,7 @@ reproductive development. When a plant perceives sustained low R:FR ratios,
 it initiates flowering earlier than it would under non-competitive conditions.
 
 This represents a fundamental shift in life history strategy. If the plant
-cannot outgrow its competitors for light, it abandons vegetative growth and
+cannot outgrow its competitors for light, it abandons [[cannabis-vegetative-growth-stage]] and
 redirects all resources to producing seeds before conditions deteriorate
 further. The shift to early flowering is mediated by upregulation of FLOWERING
 LOCUS T (FT) expression in leaves in response to altered phytochrome signalling.
@@ -128,15 +128,15 @@ synergistically to remodel plant architecture:
 - **Auxin**: Rapidly upregulated through the TAA1 pathway, promoting cell elongation in stems and inhibiting branching.
 - **Gibberellins**: GA levels increase, promoting DELLA degradation and synergising with auxin to drive internode elongation.
 - **Ethylene**: Production increases, contributing to stem elongation and leaf senescence.
-- **Brassinos [[food-forest-understory-plants]] and gibberellins.
+- **Brassinos food-forest-understory-plants and gibberellins.
 
 ## Ecological Significance
 
 Shade avoidance drives competitive hierarchies and influences species composition. Shade-tolerant understory species have reduced SAS responses and invest in leaf efficiency, while shade-intolerant species exhibit strong SAS and grow rapidly to escape shade. Weeds and invasive species often display vigorous shade avoidance.
-heritage and landrace crop varieties for small farmers al Applications
+heritage and [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] varieties for small farmers al Applications
 
-Modern crop varieties bred for high planting densities have been selected for reduced SAS responses to minimise yield penalties from excessive elongation. In controlled environments, maintaining high R:FR ratios suppresses elongation, while far-red supplementation can control height without chemical growth regulators.
+Modern crop varieties bred for high planting densities have been selected for reduced SAS responses to minimise yield penalties from excessive elongation. In controlled environments, maintaining high R:FR ratios suppresses elongation, while far-red supplementation can control height without chemical [[ingham-natural-growth-regulators-soil-microbes]].
 
 ## See Also
 
-- [[julius-von-sachs-blue-light-phototropism-discovery]][[cryptochrome-and-blue-light-photoreception]] for the complementary blue light system
+- [[julius-von-sachs-blue-light-phototropism-discovery]][[cryptochrome-and-blue-light-photoreception]] for the complementary [[chamovitz-julius-von-sachs-blue-light-phototropism]] system

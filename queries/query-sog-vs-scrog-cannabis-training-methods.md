@@ -11,8 +11,8 @@ type: query
 # What is the Difference Between SOG and SCROG for Cannabis?
 
 ## Short Answer
-SOG (Sea of Green) uses many small plants grown close together for rapid
-turnover and high yields per square foot, while SCROG (Screen of Green) uses
+SOG ([[comparison-sea-of-green-vs-screen-of-green]]) uses many small plants grown close together for rapid
+turnover and high yields per [[comparison-biointensive-vs-square-foot-gardening]], while SCROG ([[cannabis-screen-of-green-scrog-guide]]) uses
 fewer plants trained through a horizontal screen to create an even, flat
 canopy that maximizes light exposure to every bud site. The best method
 depends on your space, plant count limits, and experience level.
@@ -37,7 +37,7 @@ that yield potential is similar between the two methods when executed well,
 but the resource requirements differ significantly. SOG demands more clones,
 more pots, and more soil or growing medium upfront, while SCROG requires a
 longer time investment before the first harvest and more hands-on training
-during vegetative growth.
+during [[cannabis-vegetative-growth-stage]].
 
 Lighting plays a crucial role in both methods. Because both techniques create
 an even canopy, they work exceptionally well with directional light sources
@@ -45,7 +45,7 @@ like LEDs and HID fixtures. The goal is to maintain uniform distance between
 the light and all bud sites, which both SOG and SCROG accomplish through
 different means. SOG achieves this naturally through plant density and short
 stature, while SCROG achieves it through physical training. Both methods
-benefit from the principles outlined in [[water-in-permaculture]] will help you execute either method
+benefit from the principles outlined in water-in-permaculture will help you execute either method
 successfully.
 
 ## Key Points
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

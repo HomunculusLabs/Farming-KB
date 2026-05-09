@@ -5,7 +5,7 @@ tags: [brassinosteroid, psilocybe-cubensis, fungal-fruiting, dung-substrate, yie
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of the Fungus Psilocybe cubensis (Gartz, Adam & Vorbrodt, 1990)"
+  - "Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of the Fungus brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting (Gartz, Adam & Vorbrodt, 1990)"
 type: concept
 ---
 
@@ -34,7 +34,7 @@ This morphological change raises important considerations for:
 
 The same brassinosteroid at the same concentration was tested on 6% malt agar, where mycelial growth was 2 to 3 times faster than controls. The dung/grain substrate experiments extended these findings by demonstrating that the growth-promoting effects translate from simple defined media to complex natural substrates, which is essential for practical cultivation applications.
 
-The more pronounced effects on the dung/grain substrate (where fruiting was actually observed, unlike on agar) suggest that the brassinosteroid may be particularly effective at the transition from vegetative to reproductive growth, a developmental stage that only occurs on nutritionally appropriate substrates.
+The more pronounced effects on the dung/grain substrate (where fruiting was actually observed, unlike on agar) suggest that the brassinosteroid may be particularly effective at the transition from vegetative to [[knf-reproductive-growth-stage]], a developmental stage that only occurs on nutritionally appropriate substrates.
 
 ## Implications for Commercial Cultivation
 
@@ -45,7 +45,7 @@ The findings suggest several practical applications:
 - **Lower abort rates**: more efficient conversion of substrate to product
 - **Minimal input cost**: effective at parts-per-billion concentrations
 
-However, the morphological changes (annulus loss) and the current regulatory status of brassinosteroids as plant growth regulators may limit commercial adoption. The synthetic preparation from [[psilocybe-cubensis]] known for its "high stability" ensured that observed effects were due to the brassinosteroid treatment rather than strain-specific variability.
+However, the morphological changes (annulus loss) and the current regulatory status of brassinosteroids as plant [[ingham-natural-growth-regulators-soil-microbes]] may limit commercial adoption. The synthetic preparation from [[psilocybe-cubensis]] known for its "high stability" ensured that observed effects were due to the brassinosteroid treatment rather than strain-specific variability.
 
 The consistent results across ten runs argue strongly against a placebo or偶然 effect. The probability of consistently observing 25 to 30% faster fruiting, 2 to 3.5-fold higher first flush counts, and 30 to 48% greater dry mass by chance alone is vanishingly small.
 
@@ -63,7 +63,7 @@ The finding that these plant hormones also affect fungal growth and development 
 
 1. **Conserved signaling pathways**: Fungi may possess receptor systems that recognize brassinosteroids, possibly because of the evolutionary relationship between fungi and plants or through horizontal gene transfer
 2. **Membrane effects**: As steroidal compounds, brassinosteroids may directly alter fungal membrane fluidity or permeability, affecting nutrient uptake and signaling
-3. **Metabolic interaction**: Brassinosteroids might modulate fungal secondary metabolism, redirecting resources from defensive or stress-related pathways toward growth and reproduction
+3. **Metabolic interaction**: Brassinosteroids might modulate [[biodiversity-fungal-secondary-metabolites]] metabolism, redirecting resources from defensive or stress-related pathways toward growth and reproduction
 
 The anti-stress effects observed in plants treated with brassinosteroids parallel the suppression of abortive fruit bodies in the fungus, suggesting a common mechanism of maintaining cellular homeostasis under metabolic stress.
 
@@ -74,13 +74,15 @@ The dung/grain substrate already contained KH₂PO₄ as a mineral supplement. T
 Other known fungal growth promoters include:
 
 - **Plant auxins** (IAA, NAA): reported effects on mycelial growth rate in some species
-- **Cytokinins**: limited evidence for effects on fungal fruiting
-- **Gibberellins**: primarily studied for effects on plant-fungal interactions rather than direct fungal growth promotion
+- **Cytokinins**: limited evidence for [[brassinosteroid-effects-on-fungal-morphology]] fruiting
+- **Gibberellins**: primarily studied for effects on plant-fungal interactions rather than direct fungal [[brassinosteroid-growth-promotion-psilocybe-cubensis]]
 - **Fungal extracts**: various crude extracts have shown biostimulant effects, but these are poorly characterized
 
 The brassinosteroid results are notable because they represent one of the few well-documented cases of a defined plant hormone producing significant, reproducible effects on both vegetative and reproductive growth in a cultivated mushroom species.
 
 ## See Also
+
+- [[horse-dung-rice-grain-substrate-preparation]]
 
 - [[brassinosteroid-mushroom-yield-dry-mass]]
 - [[22s-23s-homobrassinolide-chemistry-and-synthesis]]

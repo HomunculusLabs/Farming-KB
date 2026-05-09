@@ -19,7 +19,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Buchanan, P.K. (1999). "Hericium species in New Zealand." New Zealand Journal of Botany, 37(2), 283-292.
-  - Stamets, P. (2000). Growing Gourmet and Medicinal Mushrooms. Ten Speed Press.
+  - Stamets, P. (2000). Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. Ten Speed Press.
   - Li, Y. et al. (2014). "Hericium erinaceus improves mood and sleep." Biomedical Research, 35(1), 81-86.
   -https://www.nzfungi.org.nz/
 ---
@@ -73,8 +73,8 @@ characteristics particular to New Zealand populations.
   *Nothofagus* (southern beech), *Agathis australis* (kauri), and various
   *Podocarpus* species
 - **Ecology:** A white-rot decomposer that breaks down lignin and cellulose
-  in dead wood, playing an important role in forest nutrient cycling
-- **Season:** Autumn to early winter (March–July in the Southern Hemisphere)
+  in dead wood, playing an important role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
+- **Season:** Autumn to early winter (March–July in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]])
 - **Frequency:** Moderately common in suitable habitat but easily overlooked
   due to its preference for high canopy positions on standing dead wood
 
@@ -124,7 +124,7 @@ for *H. erinaceus*, though the species is less commercially developed.
   days; full substrate colonization in 21–35 days
 - **Fruiting trigger:** Temperature drop to 15–18°C, high humidity
   (90–95%), ambient light, and adequate fresh air exchange
-- **Yield:** Biological efficiency of 50–80% over 2–3 flushes
+- **Yield:** [[stamets-biological-efficiency-yield]] of 50–80% over 2–3 flushes
 - **Primary challenges:** Slow colonization compared to *H. erinaceus*;
   susceptibility to Trichoderma contamination; limited commercial strain
   availability outside New Zealand
@@ -133,8 +133,8 @@ for *H. erinaceus*, though the species is less commercially developed.
 | Species | Key Differences |
 |---|---|
 | *H. erinaceus* | Single unbranched clump of spines; more widely cultivated |
-| *H. coralloides* | More branched, shorter spines; broader global distribution |
-| *H. americanum* | North American species with longer spines; similar morphology |
+| *H. coralloides* | More branched, shorter spines; broader [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] |
+| *H. americanum* | [[growing-gourmet-north-american-reishi-species]] species with longer spines; similar morphology |
 | *H. abietis* | Conifer-associated; western North America |
 
 ## See Also

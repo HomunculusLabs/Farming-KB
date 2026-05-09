@@ -1,11 +1,12 @@
 ---
-title: "How to Raise Quail in a Permaculture System?"
+title: "How to query how to raise quail in a permaculture system in a Permaculture System?"
 created: 2026-04-28
 tags: [query, quail, permaculture, poultry, small-livestock, food-production]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/sepp-holzer-practical-guide.md"
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: query
 ---
 
@@ -23,14 +24,14 @@ The [[faires-pigeon-quail-and-waterfowl-systems]] page covers housing designs fo
 Quail are ground-dwelling birds and do not require roosting perches like chickens do.
 They can be housed in colony cages, ground pens, or tractored across garden beds for fertility cycling.
 Mobile quail tractors are simple to build and allow the birds to fertilize different garden areas sequentially.
-The [[knf-poultry-natural-farming]] page covers Korean Natural Farming approaches to quail nutrition.
+The [[knf-poultry-natural-farming]] page covers Korean [[comparison-natural-farming-vs-permaculture]] approaches to quail nutrition.
 The [[cho-poultry-natural-farming-methods]] page covers Cho Global Natural Farming techniques for poultry health.
 
 ## Egg and Meat Production
 
-Coturnix quail are the most popular breed for both egg and meat production in permaculture systems.
+Coturnix quail are the most popular breed for both egg and meat [[mollison-pigeons-and-squab-production-in-permaculture-systems]] systems.
 The Coturnix japonica, also known as Japanese quail, has been domesticated for centuries and comes in several color varieties.
-The [[faires-rabbit-and-small-poultry-keeping]] page covers processing and marketing small livestock products.
+The faires-rabbit-and-small-poultry-keeping page covers processing and marketing small livestock products.
 Quail meat is tender and flavorful, and the birds are easy to process at home with minimal equipment.
 The entire processing from harvest to packaging takes just a few minutes per bird even for beginners.
 Breeding quail is straightforward since they reach sexual maturity at just six weeks of age.
@@ -41,7 +42,7 @@ With good management, a breeding quintet can produce over a thousand eggs per ye
 ## Integration with Garden Systems
 
 Quail manure is an excellent high-nitrogen fertilizer that can be used directly in compost or as a soil amendment.
-The [[mollison-designers-free-range-poultry-systems]] page covers Mollison's approach to integrating small poultry.
+The mollison-designers-free-range-poultry-systems page covers Mollison's approach to integrating small poultry.
 Quail droppings can be collected under their housing and added to compost piles for rapid decomposition.
 Their foraging behavior helps control insect pests while their manure enriches the soil.
 Quail are particularly effective at controlling small insects and weed seeds in the garden.
@@ -71,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

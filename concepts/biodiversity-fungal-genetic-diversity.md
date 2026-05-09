@@ -1,5 +1,5 @@
 ---
-title: Fungal Genetic Diversity Assessment
+title: biodiversity fungal genetic diversity ingham-soil-food-web-diversity-assessment-dna-molecular-methods
 created: 2026-04-28
 tags:
   - mycology
@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 # Fungal Genetic Diversity Assessment
-Molecular approaches that allow investigators to assess fungal
+[[staycare-molecular-approaches-fungal-bioremediation]] that allow investigators to assess fungal
 biodiversity directly are being developed and refined rapidly.
 These approaches are essential for determining the species
 diversity of fungi in ecosystems, which historically has been
@@ -22,7 +22,7 @@ complicated by our inability to culture many fungi, the ephemeral
 nature of sporocarp production, and intraspecific variation in
 fungal morphology and biochemistry.
 ## Impediments to Understanding Fungal Diversity
-Several major challenges confront the study of fungal biology
+Several major challenges confront the study of [[bloomfield-fungal-biology-and-hyphal-growth]]
 and diversity. Developmental stages of many fungi occur in
 complex substrata such as soil, wood, plants, or animals, making
 them difficult to monitor. Lifestyle habits are poorly defined.
@@ -75,7 +75,13 @@ The sensitivity of apPCR is such that small amounts of fungal
 material (0.5 cubic cm) are sufficient for hundreds to thousands
 of genetic analyses. This allows analysis of population structure
 without disturbing sporocarps or underground mycelia.
-Studies of [[fungal-biodiversity-genet-ramet-individual-problem]]
-- [[biodiversity-fungi-molecular-methods]]
+Studies of fungal-biodiversity-genet-ramet-individual-problem
+- biodiversity-fungi-molecular-methods
 - [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]
 - [[biodiversity-basidiomycete-diversity-taxonomy]]
+## See Also
+- [[biodiversity-fungi-tropical-fungal-diversity]]
+- [[biodiversity-fungal-species-abundance-diversity]]
+- [[fungal-beta-diversity-species-turnover]]
+- [[fungal-nematode-endoparasites-biodiversity]]
+- [[fungal-biodiversity-forest-ecosystems]]

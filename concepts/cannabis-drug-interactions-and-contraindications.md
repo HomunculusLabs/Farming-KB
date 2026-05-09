@@ -9,15 +9,15 @@ sources:
 ---
 # Cannabis Drug Interactions and Contraindications
 
-Understanding how cannabis interacts with pharmaceutical medications and when it should be avoided is essential for safe therapeutic use. The Cannabis Health Index documents both the pharmacological basis for drug interactions and specific contraindications that patients and providers should know.
+Understanding how cannabis interacts with pharmaceutical medications and when it should be avoided is essential for safe therapeutic use. The [[cannabis-health-index]] documents both the pharmacological basis for drug interactions and specific contraindications that patients and providers should know.
 
 ## The Subjective Therapeutic Window
 
-The Cannabis Health Index introduces the concept of the "subjective therapeutic window" -- the dose range at which therapeutic effects occur without adverse effects. This window is:
+The Cannabis Health Index introduces the concept of the "subjective therapeutic window" -- the dose range at which [[cervantes-terpenoid-pharmacology-therapeutic-effects]] occur without adverse effects. This window is:
 - **Highly individual**: What works for one person may be too much or too little for another
 - **Condition-dependent**: The optimal range differs for pain, anxiety, sleep, etc.
 - **Time-variable**: The window can shift with tolerance, stress, food intake, and other factors
-- **Narrow for some**: Particularly for anxiety, PTSD, and in elderly patients
+- **Narrow for some**: Particularly for anxiety, PTSD, and in [[cannabis-elderly-patients]]
 
 Exceeding the therapeutic window does not provide additional benefit and may produce adverse effects including increased anxiety, cognitive impairment, tachycardia, orthostatic hypotension, and sedation.
 
@@ -88,9 +88,9 @@ When cannabis inhibits a CYP450 enzyme that metabolizes a pharmaceutical, the ph
 
 ### Relative Contraindications (Use with Caution)
 - **History of substance use disorder**: Cannabis has lower addiction potential than many substances but dependence is possible
-- **Bipolar disorder**: THC may trigger manic episodes in some patients
+- **[[blesching-cannabis-bipolar-disorder]]**: THC may trigger manic episodes in some patients
 - **Liver disease**: CYP450 interactions may be more significant; cannabinoid metabolism may be altered
-- **Respiratory conditions**: Smoking is contraindicated; vaporizing or non-inhaled routes preferred
+- **[[cannabis-respiratory-conditions]]**: Smoking is contraindicated; vaporizing or non-inhaled routes preferred
 - **Elderly patients**: Increased sensitivity to psychoactive effects and fall risk
 - **Adolescents**: Potential effects on brain development; CBD-only preparations may be appropriate when benefits outweigh risks
 - **Operating vehicles/machinery**: THC impairs driving ability; wait minimum 3-4 hours after use
@@ -141,6 +141,6 @@ However, cannabis can induce unwanted results when exceeding the subjective ther
 
 A useful rule of thumb from the Cannabis Health Index: if a medication carries a grapefruit warning (grapefruit inhibits CYP3A4), it will likely interact with cannabis through the same mechanism. This includes many blood pressure medications, statins, benzodiazepines, and other common drugs.
 
-See also: [[cannabis-administration-methods-comparison]], doi entity, doi entity, [[cannabis-cardiovascular-health]]
+See also: [[cannabis-administration-methods-comparison]], [[doi-entity]], doi entity, [[cannabis-cardiovascular-health]]
 - [[cannabis-for-epilepsy-and-seizure-disorders]]
-- [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
+- hallucinogenic-mushroom-health-risks-and-harm-reduction

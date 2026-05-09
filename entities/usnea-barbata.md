@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Cocchietto, M., Skert, N., Nimis, P.L., Sava, G. (2002). "A review on usnic acid, an interesting natural compound." Naturwissenschaften, 89(4), 137–146.
   - Ingólfsdóttir, K. (2002). "Usnic acid." Phytochemistry, 61(7), 729–736.
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens of North America. Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
   - Perry, N.B., Benn, M.H., Brennan, N.J., et al. (1999). "Antimicrobial, antiviral and cytotoxic activities of New Zealand lichens." Lichenologist, 31(5), 627–636.
   - NSC (2008). "The International Chemical Identification Number (NSC) record for Usnea spp." National Safety Council Database.
 ---
@@ -23,10 +23,10 @@ sources:
 **Usnea barbata** (L.) F.H. Wigg., commonly known as **old man's beard**, is a
 filamentous fruticose lichen in the family Parmeliaceae. It forms distinctive
 pale greenish-gray hanging tufts resembling tangled hair, found draped on tree
-branches across temperate and boreal forests worldwide.
+branches across temperate and [[fungal-diversity-boreal-forests-taiga]] worldwide.
 
 The species has been used in traditional medicine for millennia, valued for its
-potent antimicrobial properties. Its primary bioactive constituent, **usnic
+potent [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. Its primary bioactive constituent, **usnic
 acid**, exhibits broad-spectrum antibiotic activity and has been investigated
 for pharmaceutical applications including wound care and anti-tumor research.
 
@@ -66,7 +66,7 @@ measuring 7–12 × 3–5 µm.
 
 ## Distribution and Habitat
 
-*U. barbata* has a **circumpolar temperate distribution**, found across Europe,
+*U. barbata* has a **circumpolar [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]]**, found across Europe,
 North America, Asia, and parts of Africa and South America. It is most abundant
 in regions with clean air, as the genus is highly sensitive to atmospheric
 pollution — *Usnea* species are widely used as **bioindicators of air quality**.
@@ -84,7 +84,7 @@ dioxide sensitivity.
 
 ### Primary Compounds
 
-- **Usnic acid** (C₁₈H₁₆O₇) — the dominant secondary metabolite,
+- **Usnic acid** (C₁₈H₁₆O₇) — the dominant [[fungal-elicitors-enhanced-secondary-metabolite-production]],
   constituting 2–8% dry weight. Occurs in both (+)- and (-)-enantiomeric
   forms; the (+)-form is more biologically active.
 - **Barbatic acid** — a depside found in the cortical layer
@@ -100,4 +100,4 @@ bacteria is significantly weaker.
 
 **Antifungal activity:** Moderate inhibition of *[[cladonia-rangiferina]] — Fellow fruticose lichen of circumpolar regions
 - [[hericium-erinaceus]] — Medicinal fungus with documented bioactivity
-- [[psilocybe-cubensis]] — Another fungus with notable bioactive compounds
+- [[psilocybe-cubensis]] — Another fungus with notable [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]

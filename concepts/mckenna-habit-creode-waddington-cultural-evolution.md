@@ -22,12 +22,12 @@ type: concept
 
 ## Overview
 
-In *Food of the Gods*, Terence McKenna borrows the concept of the "creode" from developmental
+In *Food of the Gods*, [[terence-mckenna]] borrows the concept of the "creode" from developmental
 biologist C.H. Waddington to explain how the repeated use of psychoactive mushrooms by early
 hominids could have become an entrenched and self-reinforcing behavioral pathway. The creode,
 literally a "necessary path," describes a channel of developmental activity that, once
 established, becomes increasingly resistant to deviation. McKenna applies this biological
-concept to cultural evolution, arguing that the habitual use of hallucinogenic mushrooms
+concept to cultural evolution, arguing that the habitual use of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]
 created a creode-like pathway that channeled human cognitive and social development in specific
 directions for thousands of years.
 
@@ -92,7 +92,7 @@ can be abandoned only through the application of sufficient external force to pu
 developing system out of its established channel and into a new one. McKenna identifies
 several such forces in human history.
 
-Climate change, particularly the increasing aridity of the African grasslands, reduced the
+[[dighton-fungi-climate-change-feedback]], particularly the increasing aridity of the African grasslands, reduced the
 availability of mushrooms and weakened the ecological foundation of the mushroom creode. The
 transition to agriculture created incompatible demands on human time and energy, making the
 regular use of psychedelics impractical for settled farming communities. The Indo-European
@@ -101,7 +101,7 @@ new cultural creode based on domination rather than partnership.
 
 Each of these forces pushed human development out of the mushroom channel and into new
 pathways. McKenna describes this as a process of progressive dilution, in which the original
-psychedelic experience was first replaced by substitute plants, then by symbolic rituals,
+[[leary-psychedelic-experience-bardo-mapping]] was first replaced by substitute plants, then by symbolic rituals,
 then by abstract theology, and finally by the complete secular materialism of modern Western
 civilization.
 
@@ -110,13 +110,13 @@ civilization.
 McKenna extends the creode concept to argue that Western dominator culture itself constitutes
 a deep cultural creode, one that has become so entrenched that deviation from it appears
 nearly impossible. The dominator creode channels human development toward hierarchy,
-patriarchy, environmental exploitation, and the suppression of altered states of consciousness.
+patriarchy, environmental exploitation, and the suppression of [[weil-the-natural-mind-altered-states-normalcy]] of consciousness.
 Like the mushroom creode that preceded it, the dominator creode is self-reinforcing: the
 values it promotes generate the conditions that sustain it, and the behavioral patterns it
 requires become increasingly automatic and resistant to change.
 
 The concept of the creode thus serves a dual function in McKenna's argument. It explains how
-the original partnership society became established and maintained itself for thousands of
+the original [[mckenna-dominator-vs-partnership-society-model]] became established and maintained itself for thousands of
 years, and it also explains why the dominator culture that replaced it has proven so
 resistant to reform. In both cases, the depth of the cultural channel makes deviation
 extraordinarily difficult without the application of sufficient transformative force.

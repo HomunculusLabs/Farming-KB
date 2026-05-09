@@ -1,20 +1,14 @@
 ---
-title: Falconer Mushroom Preserving and Drying
+title: Falconer [[falconer-mushroom-cellar-management]] preserving and drying and Drying
 created: 2026-04-28
 tags:
-  [[mushroom-cultivation, food-preservation, victorian-cooking, drying, mushroom-ketchup]
+  [mushroom-cultivation, food-preservation, victorian-cooking, drying, mushroom-ketchup]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [
-    /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md,
-  ]
+sources: [ /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md, ]
 type: concept
 ---
-
-# Mushroom Preserving, Drying, and Ketchup
-
-Beyond the fresh preparations detailed in [[falconer-mushroom-spawn-types-and-merits]]
+# Mushroom Preserving, Drying, and Ketchup Beyond the fresh preparations detailed in [[falconer-mushroom-spawn-types-and-merits]]
 - [[falconer-mushroom-cooking-selection-and-preparation]]
 - [[falconer-mushroom-bed-boxing-and-protection]]
 ## Background and Context
@@ -67,7 +61,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -145,4 +139,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

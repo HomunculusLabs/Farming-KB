@@ -59,7 +59,7 @@ Phase transfer catalysis is widely used for nucleophilic substitutions, includin
 
 Alkylation of phenols, carboxylates, active methylene compounds, and heteroatom nucleophiles is one of the largest families of PTC reactions.
 
-Oxidations with permanganate, hypochlorite, [[cuthill-mushroom-growing-seasons-and-temperature]] are not controlled.
+Oxidations with permanganate, hypochlorite, cuthill-mushroom-growing-seasons-and-temperature are not controlled.
 
 Ion pairing can create microenvironments where one face or conformation of a substrate is favored, which is the basis of asymmetric phase transfer catalysis.
 

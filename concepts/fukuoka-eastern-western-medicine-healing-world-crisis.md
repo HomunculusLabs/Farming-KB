@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Eastern vs. Western Medicine — Healing the World in Crisis"
+title: "Fukuoka's Eastern vs. fukuoka eastern western medicine healing world crisis — Healing the World in Crisis"
 source: "Sowing Seeds in the Desert (2012), Chapter 3: 'Healing a World In Crisis'"
 tags:
   - natural-farming
@@ -16,11 +16,11 @@ tags:
 
 ## Overview
 
-In Chapter 3 of *Sowing Seeds in the Desert*, Masanobu Fukuoka draws a detailed parallel
+In Chapter 3 of *Sowing Seeds in the Desert*, [[masanobu-fukuoka]] draws a detailed parallel
 between Eastern and Western approaches to medicine and their corresponding agricultural
 philosophies. He argues that Western medicine treats symptoms locally while Eastern
 medicine addresses the whole person, and that this fundamental divergence mirrors the
-difference between conventional agriculture (which attacks pests and diseases with
+difference between conventional agriculture (which attacks [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] with
 chemicals) and [[fukuoka-desert-revegetation-natural-farming|desert revegetation]] is
 explicitly modeled on the Eastern medical approach—restore the whole system rather
 than attack individual symptoms.

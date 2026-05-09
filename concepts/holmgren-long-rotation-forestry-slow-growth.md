@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: concept
 ---
 
@@ -93,7 +94,7 @@ perennial species in creating sustainable systems was a key concept in
 Permgaculture One. This is perhaps the most fundamental demonstration that "slow
 is sane."
 
-In gardening, perennial vegetables do not require replanting every year. Although
+In gardening, [[comparison-perennial-vegetables-vs-cover-crops]] do not require replanting every year. Although
 they may not yield quite as much as highly selected annuals, the savings in energy
 and soil disturbance from annual cultivation and planting contribute to more
 sustainable systems. New Zealand flax produces high-quality fabric substituting
@@ -101,8 +102,8 @@ for cotton, the most environmentally damaging of all broadacre crops.
 
 ## Slow Food Production
 
-Modern vegetable production aims to harvest as quickly as possible using soluble
-fertilisers, maximum irrigation, and hydroponic techniques. The adverse effects
+Modern [[dry-gardening-unirrigated-vegetable-production-solomon]] aims to harvest as quickly as possible using soluble
+fertilisers, maximum irrigation, and hydroponic techniques. The [[blesching-cannabis-safety-adverse-effects-evidence]]
 include minerals at low levels and unbalanced (poor flavour and nutrition), very
 high water content diluting qualities, and unmetabolised nitrates shown to be
 carcinogenic.

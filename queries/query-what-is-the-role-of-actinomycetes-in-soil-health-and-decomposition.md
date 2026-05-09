@@ -67,12 +67,12 @@ Actinomycetes are among the most important **naturally occurring biocontrol agen
 
 - **Antibiotic production**: *Streptomyces* species produce hundreds of antibiotic compounds (streptomycin, tetracycline, neomycin, and many more) that suppress soilborne plant pathogens including *Fusarium*, *Rhizoctonia*, *Pythium*, *Phytophthora*, and *Verticillium*
 - **Competitive exclusion**: Rapid colonization of root surfaces physically prevents pathogen establishment
-- **Induced Systemic Resistance (ISR)**: Certain actinomycete strains prime the plant's own immune system, providing protection against foliar and root diseases
+- ** Resistance (ISR)**: Certain actinomycete strains prime the plant's own immune system, providing protection against foliar and root diseases
 
 ### Nutrient Cycling
 
 - **Nitrogen fixation**: *Frankia* species form root nodules on alder, casuarina, bayberry, and ~200 other plant species, fixing atmospheric N₂ at rates comparable to legume-rhizobia symbioses
-- **Phosphorus solubilization**: Organic acids and phosphatase enzymes release plant-available phosphate from insoluble mineral and organic forms
+- **[[fungal-roles-in-phosphorus-solubilization]]**: Organic acids and phosphatase enzymes release plant-available phosphate from insoluble mineral and organic forms
 - **Siderophore production**: Iron-chelating compounds make micronutrients available to plants while denying iron to pathogenic microbes
 - **Protein and amino acid mineralization**: Extracellular proteases convert organic nitrogen into ammonium for plant uptake
 
@@ -109,8 +109,8 @@ Actinomycetes play two critical roles in the composting process:
 | **Reduce tillage** | Preserves hyphal networks and avoids disrupting established populations |
 | **Maintain near-neutral pH** | Most actinomycetes prefer pH 6.5–8.0; liming acid soils helps |
 | **Apply organic amendments** | Manure, green manure, and crop residues provide substrate for growth |
-| **Use cover crops** | Root exudates feed actinomycete communities between cash crops |
-| **Mulch the soil surface** | Moderates temperature and moisture; provides decomposable material |
+| **Use [[cover-crops]]** | [[root-exudates]] feed actinomycete communities between cash crops |
+| **Mulch the soil surface** | Moderates [[mushroom-growing-temperature-and-moisture]]; provides decomposable material |
 | **Avoid over-fertilization** | Excessive synthetic N suppresses actinomycete diversity and antibiotic production |
 | **Minimize pesticide use** | Broad-spectrum fungicides and soil fumigants kill beneficial actinomycetes |
 
@@ -118,7 +118,7 @@ Actinomycetes play two critical roles in the composting process:
 
 - **Compacted, waterlogged soils**: Actinomycetes are aerobic; they cannot survive prolonged anaerobic conditions
 - **Soil acidification**: Below pH 5.5, populations decline sharply
-- **Excessive synthetic fertilizers**: Particularly nitrogen, which shifts the microbial community toward fast-growing copiotrophs
+- **Excessive [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]]**: Particularly nitrogen, which shifts the microbial community toward fast-growing copiotrophs
 - **Soil sterilization**: Fumigation, solarization, and excessive heat kill actinomycete spores
 - **Monoculture**: Reduces diversity of organic substrates and favors specialized microbial communities
 
@@ -138,8 +138,6 @@ These products are available as wettable powders or granules for soil drench, se
 |---------|--------------|-------|
 | Growth form | Filamentous bacteria (hyphae 0.5–2 μm) | True fungi (hyphae 3–15 μm) |
 | Decomposition speed | Slower; specialize in recalcitrant materials | Faster; dominate early decomposition |
-| Lignin degradation | Limited (some species) | Excellent (white-rot and brown-rot fungi) |
-| Cellulose degradation | Very good; heat-stable enzymes | Excellent; cellulase complexes |
 ## See Also
 
 - Actinomycetes and Soil Ecology

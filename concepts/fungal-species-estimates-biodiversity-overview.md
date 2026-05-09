@@ -21,7 +21,7 @@ type: concept
 Fungi constitute one of the largest and least-known groups of organisms
 on Earth, despite their ubiquity and critical importance to natural
 ecosystems and human welfare. The studies by mycologists embrace
-filamentous fungi, lichen fungi, molds, mushrooms, slime molds, some
+filamentous fungi, lichen fungi, molds, mushrooms, [[bloomfield-slime-molds-myxomycetes-plasmodial-protists]], some
 chromists (oomycetes), and yeasts, although some are now classified in
 different kingdoms. At least 74,000, but possibly as many as 120,000,
 fungal species have been named to date.
@@ -39,7 +39,7 @@ extant fungal species have been discovered and named.
 
 ## Ecological Importance
 
-Without fungi, major problems in nutrient cycling would occur. Plants
+Without fungi, major problems in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] would occur. Plants
 would suffer without the nutrients that fungi secure for them from the
 soil. Many animals would be without food, woody materials would not be
 broken down, some insects and other animals would not be able to digest
@@ -64,19 +64,23 @@ those structures then may persist for only a few hours. In contrast,
 other fungi are perennial and can be found at any time of the year, as
 in the case of lichen-forming fungi and many polypores. Some fungi
 live inside plants or arthropods, and the same plant may support
-different fungi during different stages of its life cycle.
+different fungi during different stages of its [[bloomfield-fungal-life-cycle-spiral-versus-circle]].
 
 ## Detection Difficulties
 
 Many fungi are found only by examining leaves and woody surfaces
 microscopically, or they can be detected only by isolating and culturing
 the fungi until they sporulate. Furthermore, some fungi have more than
-one sporing stage in their life cycles, and in those so-called
+one sporing stage in their [[bloomfield-rust-fungi-life-cycles-barberry-wheat]], and in those so-called
 pleomorphic fungi, only one stage may be found. In some instances, the
 different stages are given separate scientific names, which can be
 confusing. See [[biodiversity-fungal-species-abundance-diversity]]
 - [[fungal-species-concepts-estimates]]
 
 - [[fungal-biodiversity-forest-ecosystems]] for analytical approaches
-- [[biodiversity-fungi-molecular-methods]] for genetic approaches
+- biodiversity-fungi-molecular-methods for genetic approaches
 - [[herbarium-specimens-fungal-collections]] for preservation techniques
+
+## See Also
+
+- [[biodiversity-of-fungi-fungal-phylogeny-kingdom-classification]]

@@ -1,5 +1,5 @@
 ---
-title: "Amazonian Plant Teachers and Vegetalista Cosmology"
+title: "Amazonian Plant amaringo plant teachers and vegetalista cosmology Cosmology"
 created: 2026-04-28
 tags: [ayahuasca, plant-teachers, vegetalista, shamanism, amazonian-cosmology]
 date: 2026-04-25
@@ -95,4 +95,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

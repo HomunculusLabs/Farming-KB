@@ -21,7 +21,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Larrea tridentata** (Sessé & Moc. ex DC.) Coville, known as **creosote bush**, **chaparral**, or **gobernadora**, is an evergreen shrub in the family Zygophyllaceae. It is the dominant plant species of the warm deserts of North America, forming extensive monospecific stands across the Sonoran, Mojave, and Chihuahuan deserts.
+**Larrea tridentata** (Sessé & Moc. ex DC.) Coville, known as **creosote bush**, **chaparral**, or **gobernadora**, is an evergreen shrub in the family Zygophyllaceae. It is the dominant plant species of the warm deserts of [[psilocybin-north-america-pacific-northwest]], forming extensive monospecific stands across the Sonoran, Mojave, and Chihuahuan deserts.
 
 The species is among the longest-lived plants on Earth, with individual clonal colonies estimated at 11,000–12,000 years old based on radiocarbon dating of preserved wood. Its resinous foliage emits a characteristic creosote-like odor, especially after rainfall, due to volatile terpenoid compounds.
 
@@ -29,7 +29,7 @@ The species is among the longest-lived plants on Earth, with individual clonal c
 
 **Classification:** Plantae > Tracheophyta > Magnoliopsida > Zygophyllales > Zygophyllaceae > **Larrea** > *L. tridentata*.
 
-The synonym *Larrea divaricata* Cav. has been applied to South American populations, now recognized as a separate species complex. *L. tridentata* is restricted to North American deserts.
+The synonym *Larrea divaricata* Cav. has been applied to [[chiric-caspi-brunfelsia-south-american-hallucinogen]] populations, now recognized as a separate species complex. *L. tridentata* is restricted to [[growing-gourmet-north-american-reishi-species]] deserts.
 
 The shrub grows 1–3 m tall with an open, spreading crown. Leaves are opposite, compound (bifoliate), with each leaf divided into two oval leaflets 7–18 mm long. Leaflets are dark green, resinous, and leathery, with a waxy cuticle that minimizes water loss.
 
@@ -75,7 +75,7 @@ Topical application is safer and remains the primary route in traditional medici
 
 ## Clonal Longevity
 
-Individual *Larrea tridentata* clones are among the oldest known living organisms. The "King Clone" in the Mojave Desert has been radiocarbon dated to approximately 11,700 years, originating in the early Holocene following the retreat of Pleistocene lakes.
+Individual *Larrea tridentata* clones are among the oldest known [[savory-living-organisms-as-tools]]. The "King Clone" in the Mojave Desert has been radiocarbon dated to approximately 11,700 years, originating in the early Holocene following the retreat of Pleistocene lakes.
 
 Clonal reproduction occurs through root suckering and layering of branches that contact soil. New ramets establish independently while remaining connected to the parent root system, forming expanding rings of genetically identical stems.
 
@@ -85,7 +85,7 @@ Growth rings in the woody stems are poorly defined due to the absence of distinc
 
 *Larrea divaricata* Cav. sensu stricto occurs in South American arid regions (Argentina, Patagonia). It is morphologically similar but differs in leaf size (smaller leaflets), flower structure, and flavonoid profile.
 
-*Larrea nitida* Cav. is another South American species with a more restricted range in the Atacama Desert. It is distinguished by its glossy leaf surface and more compact growth habit.
+*Larrea nitida* Cav. is another South American species with a more restricted range in the Atacama Desert. It is distinguished by its glossy leaf surface and more [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit.
 
 ## Ecological Role and Permaculture Value
 
@@ -93,7 +93,7 @@ Creosote bush is a keystone species in North American warm desert ecosystems. It
 
 The species is nitrogen-fixing through an association with actinorhizal bacteria (*Frankia* spp.) in its root nodules. This makes it a valuable component of desert restoration and permaculture systems in arid regions.
 
-However, its strong allelopathic activity limits understory development beneath mature shrubs. In permaculture design, creosote bush is best used as a perimeter windbreak or pioneer species rather than within polyculture plantings.
+However, its strong allelopathic activity limits understory development beneath mature shrubs. In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], creosote bush is best used as a perimeter windbreak or pioneer species rather than within polyculture plantings.
 
 Dried creosote foliage can be used as a mulch with insecticidal and fungicidal properties, though the allelopathic chemicals may inhibit seed germination of desired understory species.
 

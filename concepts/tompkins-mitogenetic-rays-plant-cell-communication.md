@@ -1,5 +1,5 @@
 ---
-title: Mitogenetic Rays and Plant Cell Communication
+title: tompkins mitogenetic rays plant cell communication and Plant Cell Communication
 created: 2026-04-28
 tags: [mitogenetic-rays, gurwitsch, ultraviolet, cell-communication,
       cell-division, bioelectromagnetics, soviet-research, plant-signals]
@@ -15,7 +15,7 @@ histologist Alexander Gurwitsch in the 1920s, who proposed that all
 living cells produce an invisible radiation capable of stimulating
 cell division in neighboring tissues. Though controversial and
 ultimately rejected by mainstream Western science, Gurwitsch's
-discovery opened important questions about intercellular communication
+discovery opened important questions about [[plasmodesmata-and-intercellular-communication-in-plants]]
 that continue to resonate in plant biology and biophotonics.
 
 ## Gurwitsch's Original Experiments
@@ -109,7 +109,7 @@ He developed patent applications for sound-type plant stimulation
 techniques combined with Backster Effect methods, aiming to stimulate
 whole fields of crops wirelessly.
 
-He argued that cheap chemical fertilizers had suppressed earlier
+He argued that cheap [[cervantes-chemical-fertilizers-guide]] had suppressed earlier
 ideas about electrical nourishment of plants, and with nitrate
 pollution threatening the world's water supply, these approaches
 deserved revival. He urged that work with plants required more than
@@ -130,7 +130,7 @@ those absorbed by matter fields of classical physics.
 - [[tompkins-marcel-vogel-plant-human-communication]] for Vogel's
   parallel experiments on plant-human interaction
 - [[tompkins-photosynthesis-biophotons]] for research on light
-  emissions from living organisms
+  emissions from [[savory-living-organisms-as-tools]]
 
 ## See Also
 

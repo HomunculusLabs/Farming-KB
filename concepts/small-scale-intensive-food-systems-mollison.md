@@ -5,6 +5,7 @@ updated: 2026-04-19
 type: concept
 tags: [food, nutrition]
 sources:
+  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
@@ -14,7 +15,7 @@ Permaculture Two (1979) details intensive small-scale growing systems for home f
 
 ## Grain and Legume Rotation
 
-A continuous rotation of small grains intercropped with white clover. Grain types: rye, barley, millet, wheat, oats. Each grain type occupies one plot per year in a five-plot rotation. Straw from each grain type moves to a different plot each year as mulch. White clover serves as the permanent leguminous intercrop, fixing nitrogen and providing poultry forage.
+A continuous rotation of small grains intercropped with [[fukuoka-white-clover-cover-crop-system]]. Grain types: rye, barley, millet, wheat, oats. Each grain type occupies one plot per year in a five-plot rotation. Straw from each grain type moves to a different plot each year as mulch. White clover serves as the permanent leguminous intercrop, fixing nitrogen and providing [[free-range-poultry-forage-design-mollison]].
 
 Seeding rates are remarkably low: clover at 1 kg/ha, grains at 7-16 kg/ha. The system demonstrates that productive agriculture can be achieved with minimal seed inputs when soil health is maintained through continuous mulch. This connects to [[no-till-grain-growing]] methods.
 
@@ -64,11 +65,11 @@ Tomato propagation: Axil shoots pinched out and reset as small plants all summer
 
 ## Seed Self-Reliance
 
-Allow 4-6% of crops to run to seed each season, eliminating the need to buy annual seed. This creates locally-adapted varieties and builds food sovereignty at the household level. See [[home-garden-seed-saving]] for detailed seed saving techniques.
+Allow 4-6% of crops to run to seed each season, eliminating the need to buy annual seed. This creates locally-adapted varieties and builds food sovereignty at the household level. See [[home-garden-seed-saving]] for detailed [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] techniques.
 
 ## Duck-Rice Integration
 
-100 ducks per hectare (40 per acre) introduced when rice crop reaches 150mm. Ducks control pests (insects, snails, weeds) and add manure to the system. This is an ancient Asian technique that Mollison documents and recommends for temperate adaptation. See [[fukuoka-do-nothing-farming-philosophy]] as a key influence on the no-dig, natural farming approach. The rice paddy system described draws from Fukuoka's methods adapted for temperate climates. Fukuoka's system uses only poultry as manurial sources, with ducks as both pest controllers and recyclers. The [[permaculture-zone-one-design]] where daily attention and harvesting occur. The combination of grains, vegetables, and small livestock in close proximity maximizes yield per square meter while minimizing external inputs.
+100 ducks per hectare (40 per acre) introduced when rice crop reaches 150mm. Ducks [[query-how-to-control-pests-without-chemicals]] (insects, snails, weeds) and add manure to the system. This is an ancient Asian technique that Mollison documents and recommends for temperate adaptation. See [[fukuoka-do-nothing-farming-philosophy]] as a key influence on the no-dig, [[comparison-natural-farming-vs-permaculture]] approach. The rice paddy system described draws from Fukuoka's methods adapted for temperate climates. Fukuoka's system uses only poultry as manurial sources, with ducks as both pest controllers and recyclers. The permaculture-zone-one-design where daily attention and harvesting occur. The combination of grains, vegetables, and small livestock in close proximity maximizes yield per square meter while minimizing external inputs.
 
 ## See Also
 
@@ -78,4 +79,4 @@ Allow 4-6% of crops to run to seed each season, eliminating the need to buy annu
 
 - [[no-till-grain-growing]]
 
-- [[permaculture-seed-saving]]
+- permaculture-seed-saving

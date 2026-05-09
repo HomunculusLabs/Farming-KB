@@ -20,7 +20,7 @@ sources:
 
 **Polytrichum formosum**, commonly known as bank haircap moss, is a large and conspicuous acrocarpous moss in the family Polytrichaceae.
 
-It is one of the most prominent forest floor mosses in European and North American temperate woodlands, forming extensive dark green tufts.
+It is one of the most prominent forest floor mosses in European and [[growing-gourmet-north-american-reishi-species]] temperate woodlands, forming extensive dark green tufts.
 
 The species is closely related to the larger *Polytrichum commune* but is distinguished by its more compact habit and reddish-brown stem base.
 
@@ -50,7 +50,7 @@ Spores are spherical, 8–12 μm in diameter, and smooth to minutely papillose.
 
 ## Distribution and Habitat
 
-*Polytrichum formosum* is widely distributed across Europe, western Asia, and eastern North America.
+*Polytrichum formosum* is widely distributed across Europe, western Asia, and [[polypore-fungi-eastern-north-america]] America.
 
 In Europe, it occurs from the British Isles and Scandinavia southward through Central Europe to the Mediterranean region.
 
@@ -68,7 +68,7 @@ It is relatively shade-tolerant compared to other *Polytrichum* species and pers
 
 ## Ecology and Interactions
 
-*Polytrichum formosum* plays an important role in forest floor ecology, contributing to litter decomposition and nutrient cycling.
+*Polytrichum formosum* plays an important role in forest floor ecology, contributing to [[dighton-pine-needle-litter-decomposition-fungal-succession]] and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 The extensive rhizoidal mats help stabilize soil on slopes and stream banks, reducing erosion in forested watersheds.
 
@@ -80,7 +80,7 @@ Polytrichaceae species are among the most structurally complex mosses, possessin
 
 The central strand of hydroids in the stem provides internal water transport, a feature uncommon among bryophytes.
 
-*P. formosum* is sensitive to atmospheric sulfur dioxide and nitrogen deposition, making it a useful bioindicator for air quality.
+*P. formosum* is sensitive to atmospheric sulfur dioxide and [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]], making it a useful bioindicator for air quality.
 
 Populations have declined in parts of Central Europe where industrial pollution has historically been severe.
 
@@ -94,7 +94,7 @@ The species has been used in decorative moss arrangements and as a ground cover 
 
 In Scandinavian countries, *Polytrichum* species were historically collected as pillow and mattress stuffing alongside *Sphagnum* and *Leucobryum*.
 
-The moss has been investigated for its antimicrobial properties, with extracts showing moderate activity against certain bacteria and fungi.
+The moss has been investigated for its [[mycelium-running-mushroom-antimicrobial-properties-species-chart]], with extracts showing moderate activity against certain bacteria and fungi.
 
 Like other Polytrichaceae, it has been studied for its unique water-conducting anatomy, contributing to understanding of early land plant evolution.
 

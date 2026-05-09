@@ -18,7 +18,7 @@ complex ethnomedical systems in the indigenous Americas.
 
 ## Teonanacatl -- The Divine Flesh
 
-The most revered of all Aztec entheogens were the sacred mushrooms, called
+The most revered of all Aztec entheogens were the [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]], called
 Teonanacatl ("divine flesh"). So hallowed were these fungi that they were
 used only in the most holy ceremonies. The Aztecs referred to mushrooms as
 "flowers," and Indians still using them in religious rituals call them "little
@@ -26,15 +26,15 @@ flowers." Dr. Francisco Hernandez, physician to the King of Spain, documented
 three kinds of intoxicating mushrooms worshiped by the Aztecs, describing
 their varying effects from uncontrolled laughter to terrifying visions.
 
-See also: [[teonanacatl-and-mesoamerican-mushroom-cults]],
-[[aztec-mushroom-feasts-and-revelations]]
+See also: teonanacatl-and-mesoamerican-mushroom-cults,
+aztec-mushroom-feasts-and-revelations
 
 ## Ololiuqui -- Morning Glory Seeds
 
-The seeds of several morning glories, known to the Aztecs as Ololiuqui, were
+The seeds of several [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]], known to the Aztecs as Ololiuqui, were
 of similar importance and antiquity. Their use persisted until the present in
 southern Mexico. Of great chemo-taxonomic interest, their psychoactive
-constituents (lysergic acid amides) are found only in an unrelated group of
+constituents ([[ergot-and-lysergic-acid-history]] amides) are found only in an unrelated group of
 fungi containing ergot, which may have been hallucinogenically important in
 ancient Greece.
 
@@ -50,8 +50,8 @@ rites, reflecting the Aztec sophistication in plant-based pharmacology.
 ## Sinicuichi -- The Aztec Dream Herb
 
 Also known as the "Aztec Dream Grass" or Hierba de la Pastora (not to be
-confused with Salvia divinorum), Sinicuichi was one of several plants used by
-the Aztecs to induce altered states of consciousness, including dream-like
+confused with [[golden-guide-salvia-divinorum-and-diviner-sage]]), Sinicuichi was one of several plants used by
+the Aztecs to induce [[weil-the-natural-mind-altered-states-normalcy]] of consciousness, including dream-like
 visions and auditory hallucinations.
 
 ## Toloatzin and Datura Species
@@ -63,7 +63,7 @@ purposes. Their use extended both northward and southward from the Aztec
 heartland.
 
 See also: [[brugmansia-entheogens]],
-[[maya-entheogens]], richard evans schultes updated,
+[[maya-entheogens]], richard [[richard-evans-schultes-updated]] updated,
 albert hofmann, [[gordon-wasson-comparative-method-ethnomycology]]
 ## Practical Considerations
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

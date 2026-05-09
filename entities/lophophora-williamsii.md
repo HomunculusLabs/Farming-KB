@@ -50,12 +50,12 @@ Native to south Texas (Rio Grande Valley, Big Bend) south through the Chihuahuan
 - **Hordenine**: MAO-inhibitory; may prolong alkaloid effects
 - **Tyramine**: Vasoactive amine; hypertensive interaction potential
 
-The full-spectrum alkaloid profile is synergistic — isolated synthetic mescaline produces a qualitatively different experience than whole peyote. The "entourage effect" from minor alkaloids contributes to the distinctive somatic, grounding quality compared to pure mescaline.
+The full-spectrum alkaloid profile is synergistic — isolated synthetic mescaline produces a qualitatively different experience than whole peyote. The "[[cannabis-terpene-entourage-effect-profiles]]" from minor alkaloids contributes to the distinctive somatic, grounding quality compared to pure mescaline.
 
 ## Traditional and Ceremonial Use
 
 - **Wixárika (Huichol)**: Central to cosmology; consumed during *hikuri* ceremonies for healing, divination, and communication with ancestral deities; pilgrimage to *Wirikuta* (Sacred Land) for harvest is core religious practice
-- **Native American Church (NAC)**: Sacrament since late 19th century; protected under American Indian Religious Freedom Act (1978, 1994); all-night prayer meetings with peyote, singing, drumming, contemplation
+- **[[halpern-sacramental-peyote-and-native-american-church]] Church (NAC)**: Sacrament since late 19th century; protected under [[harner-american-indian-peyote-rituals]] Religious Freedom Act (1978, 1994); all-night prayer meetings with peyote, singing, drumming, contemplation
 - **Archaeological evidence**: Peyote use dates back at least 5,700 years based on alkaloid residues in coprolites from Shumla Caves, Texas
 
 ## Pharmacology of Mescaline
@@ -79,7 +79,7 @@ Onset 45–120 minutes, come-up 1–2 hours, peak 3–5 hours, total experience 
 
 ## Conservation Status
 
-CITES Appendix II; IUCN Vulnerable (30%+ population decline). Primary threats: illegal harvesting for non-Native recreational use, habitat destruction, climate change altering precipitation. Regrowth extremely slow (15+ years to maturity from seed). Some wild populations reduced 50–80% from historic levels.
+CITES Appendix II; IUCN Vulnerable (30%+ population decline). Primary threats: illegal harvesting for non-Native recreational use, habitat destruction, [[dighton-fungi-climate-change-feedback]] altering precipitation. Regrowth extremely slow (15+ years to maturity from seed). Some wild populations reduced 50–80% from historic levels.
 
 ### Legal Status by Region
 
@@ -91,13 +91,13 @@ CITES Appendix II; IUCN Vulnerable (30%+ population decline). Primary threats: i
 
 ## Cultivation
 
-Extremely slow: 1–2 cm diameter per year; flowering at 5–10+ years. Propagation by seed (scarify, cold stratify 60–90 days) or grafting onto faster rootstock (*Pereskiopsis*, *Trichocereus*) for conservation purposes. Highly mineral limestone-based soil (50%+ grit, low organic matter). Infrequent deep watering in summer; bone dry October–April. Full morning sun, shade from intense afternoon. Min 5 °C, max 40 °C.
+Extremely slow: 1–2 cm diameter per year; flowering at 5–10+ years. Propagation by seed (scarify, cold stratify 60–90 days) or grafting onto faster rootstock (*Pereskiopsis*, *Trichocereus*) for conservation purposes. Highly mineral limestone-based soil (50%+ grit, low [[hamilton-composting-and-organic-matter-management]]). Infrequent deep watering in summer; bone dry October–April. Full morning sun, shade from intense afternoon. Min 5 °C, max 40 °C.
 
 ### Conservation Cultivation
 
 Grafted specimens on *Trichocereus* rootstock can grow 10–20× faster than own-root plants, providing material for legitimate conservation programs without impacting wild populations. Responsible cultivators should:
 
-- Source seeds or tissue culture from verified legal suppliers only
+- Source seeds or [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] from verified legal suppliers only
 - Never purchase wild-collected specimens
 - Label and track all cultivated material to prevent laundering of wild plants
 - Share genetic material with botanical gardens and conservation programs

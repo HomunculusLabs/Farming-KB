@@ -10,7 +10,7 @@ tags: [cannabis]
 
 # Heat Stress in Cannabis
 
-Heat stress occurs when cannabis plants are exposed to temperatures above their optimal range, disrupting metabolic processes, reducing growth, and increasing susceptibility to pests and diseases. Both air temperature and radiant heat from lamps contribute to heat stress. Heat stress is one of the most common environmental problems in indoor cannabis gardens, particularly during summer months and in poorly ventilated spaces.
+Heat stress occurs when cannabis plants are exposed to temperatures above their optimal range, disrupting metabolic processes, reducing growth, and increasing susceptibility to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. Both air temperature and radiant heat from lamps contribute to heat stress. Heat stress is one of the most common environmental problems in indoor cannabis gardens, particularly during summer months and in poorly ventilated spaces.
 
 ## Optimal Temperature Range
 
@@ -20,7 +20,7 @@ Heat stress occurs when cannabis plants are exposed to temperatures above their 
 - **Growth slows above**: 85°F (29°C) daytime
 - **Growth slows below**: 60°F (15°C) daytime
 
-Temperatures above 85°F (29°C) are not recommended even when using CO2 enrichment. While higher temperatures can step up metabolic activity under very demanding and specific conditions, the warmer air holds more moisture, which often restrains plant functions and decelerates growth rather than speeding it. Large fluctuations in temperature — more than 15-20°F (8-10°C) — cause slow growth and slow the plant's processes.
+Temperatures above 85°F (29°C) are not recommended even when using CO2 enrichment. While higher temperatures can step up [[arbuscule-isolation-metabolic-activity-assays]] under very demanding and specific conditions, the warmer air holds more moisture, which often restrains plant functions and decelerates growth rather than speeding it. Large fluctuations in temperature — more than 15-20°F (8-10°C) — cause slow growth and slow the plant's processes.
 
 ## Symptoms of Heat Stress
 
@@ -44,7 +44,7 @@ The temperature within leaves can climb to an excess of 110°F (43°C) because l
 - Leaf fringes that point up mean the leaf cannot dissipate moisture fast enough
 - Once a plant shows symptoms, it has already undergone severe stress and will take time to resume vigorous growth
 
-The basic elements of the environment must be checked and maintained at specific levels to avoid problems. Check each of the vital signs — air, light, soil, water, temperature, humidity — and fine-tune the environment, especially ventilation, before deciding that plants are nutrient deficient. Many problems attributed to nutrient deficiencies or toxicities are actually caused by environmental stress.
+The basic elements of the environment must be checked and maintained at specific levels to avoid problems. Check each of the vital signs — air, light, soil, water, temperature, humidity — and fine-tune the environment, especially ventilation, before deciding that plants are nutrient deficient. Many problems attributed to [[hamilton-nutrient-deficiencies-and-treatment]] or toxicities are actually caused by environmental stress.
 
 ## Heat Stress Coupled with Salt Buildup
 
@@ -54,8 +54,8 @@ Heat stress often compounds with nutrient salt issues:
 - Combined heat stress and salt buildup causes more severe leaf damage than either alone
 - Big ridges between veins with curled leaf fringes indicate temperature stress coupled with salt buildup
 - Leaf margins may develop burned, dry edges as salts accumulate to toxic levels
-- The combination of heat and excess salts can mimic nutrient deficiency symptoms
-- Flushing with mild nutrient solution every four weeks helps prevent salt accumulation
+- The combination of heat and excess salts can mimic [[cannabis-grow-nutrient-deficiency-problem-solving]] symptoms
+- Flushing with mild [[cannabis-nutrient-solution-preparation]] every four weeks helps prevent salt accumulation
 
 ## Nutrient Solution Temperature
 
@@ -76,7 +76,7 @@ Root zone temperature is critical for hydroponic growers:
 While no cannabis varieties are immune to heat stress, some factors influence heat tolerance:
 
 - Sativa-dominant varieties from tropical and equatorial origins tend to tolerate higher temperatures better than indica-dominant varieties
-- Landrace strains from hot climates have evolved greater heat tolerance
+- [[sativa-landrace-strains-and-geographic-origins]] from hot climates have evolved greater heat tolerance
 - Plants with robust root systems are better able to maintain water uptake during heat events
 - Autoflowering varieties may be more vulnerable to heat stress during their compressed life cycle
 - Well-acclimated plants that experience gradual temperature increases tolerate heat better than plants exposed to sudden spikes

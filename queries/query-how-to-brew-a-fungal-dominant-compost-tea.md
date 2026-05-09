@@ -12,13 +12,13 @@ type: query
 # How to Brew a Fungal-Dominant Compost Tea
 
 ## Short Answer
-A fungal-dominant compost tea (Actively Aerated Compost Tea or AACT) is a liquid extract teeming with beneficial fungi that is brewed by aerating high-quality fungal compost with specific food sources that favor fungal growth over bacterial growth.
-Fungal-dominated teas are especially valuable for perennial plants, trees, and cannabis in living soil systems, where fungal associations drive nutrient cycling, disease suppression, and terpene production.
+A fungal-dominant compost tea (Actively [[actively-aerated-compost-tea]] Tea or AACT) is a liquid extract teeming with beneficial fungi that is brewed by aerating high-quality fungal compost with specific food sources that favor fungal growth over bacterial growth.
+Fungal-dominated teas are especially valuable for perennial plants, trees, and cannabis in living soil systems, where fungal associations drive [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], [[aact-disease-suppression-mechanisms-ingham]], and terpene production.
 The key to success is starting with fungal compost, using the right food sources, and maintaining adequate aeration throughout the brew.
 
 ## Detailed Explanation
-Compost tea brewing has become an essential practice in organic agriculture and living soil cannabis cultivation.
-Not all compost teas are created equal, however. The distinction between bacterial and fungal dominance matters enormously because different plants and growth stages benefit from different microbial profiles.
+Compost tea brewing has become an essential practice in organic agriculture and [[comparison-living-soil-cannabis-vs-hydroponic-cannabis]] cultivation.
+Not all compost teas are created equal, however. The distinction between [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] dominance matters enormously because different plants and growth stages benefit from different microbial profiles.
 Understanding the principles behind [[aact-compost-quality-standards-ingham]] specify that good fungal compost should have visible white hyphal threads when pulled apart, a pleasant forest-floor aroma (never sour or putrid), and a moist but not waterlogged texture.
 Using the wrong compost, even with perfect brewing technique, will produce a bacterial tea because the biology simply is not present to multiply.
 Some experienced growers create dedicated fungal compost piles by incorporating woody materials like branch chips, sawdust, and leaf mold, then inoculating with [[aact-brewing-ingredients-ingham]] recommend using materials like liquid kelp, fish hydrolysate, humic acid, and a very small amount of unsulfured molasses.
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

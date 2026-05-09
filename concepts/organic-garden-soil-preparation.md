@@ -10,9 +10,9 @@ sources:
 
 # Organic Garden Soil Preparation
 
-Soil preparation sets the foundation for a productive garden. Organic methods focus on building soil biology, maintaining soil structure, and providing nutrients through natural amendments. The approach chosen -- no-till, double-dig, or raised bed -- has long-term implications for soil health. This connects to [[soil-food-web-structure]], and [[nutrient-cycling-in-soil]]
+Soil preparation sets the foundation for a productive garden. Organic methods focus on building soil biology, maintaining soil structure, and providing nutrients through natural amendments. The approach chosen -- no-till, double-dig, or [[comparison-chinampas-vs-raised-bed-gardening]] -- has long-term implications for soil health. This connects to [[soil-food-web-structure]], and [[nutrient-cycling-in-soil]]
 
-Aim to add 1/4 to 1/2 inch of organic matter per year to maintain soil organic matter levels.
+Aim to add 1/4 to 1/2 inch of [[hamilton-composting-and-organic-matter-management]] per year to maintain soil organic matter levels.
 
 ## Mineral Amendments
 
@@ -34,12 +34,12 @@ Disturb the soil as little as possible. Add organic matter as surface mulch and 
 
 Process:
 1. Mow or flatten existing vegetation
-2. Sheet mulch with cardboard (remove tape/staples)
+2. [[permaculture-sheet-mulch-detailed-guide]] with cardboard (remove tape/staples)
 3. Add 4-6 inches of compost on top
-4. Mulch with straw or wood chips
+4. Mulch with straw or [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]]
 5. Plant directly through mulch by pulling aside compost
 
-Benefits: preserves soil structure, protects mycorrhizal networks, builds soil carbon over time. Requires patience -- best results after 1-2 seasons.
+Benefits: preserves soil structure, protects [[dighton-mycorrhizal-networks-carbon-transfer]], builds soil carbon over time. Requires patience -- best results after 1-2 seasons.
 
 ### Double-Dig (Biointensive Method)
 
@@ -71,7 +71,7 @@ Frame materials: untreated cedar, galvanized metal, concrete block. Avoid pressu
 ### Fall (for spring planting)
 
 1. Remove crop residues (compost diseased material separately)
-2. Sow cover crop or apply sheet mulch
+2. Sow [[coleman-cover-crop-rotation-and-soil-health]] or apply sheet mulch
 3. Apply rock minerals and lime (slow-release amendments)
 4. Broadfork beds lightly to reduce compaction without inverting
 5. Mulch heavily (4-6 inches) for winter protection

@@ -1,5 +1,5 @@
 ---
-title: "cold-frame-gardening vs Container Gardening"
+title: "cold-frame-gardening vs comparison cold frame gardening vs container gardening guide"
 created: 2026-04-28
 tags: [comparison, gardening, season-extension, containers, microclimate]
 date: 2026-04-25
@@ -15,7 +15,7 @@ type: comparison
 Cold frames and container gardens are two of the most accessible gardening
 methods for extending the growing season and maximizing food production in
 limited spaces. Cold frames are bottomless, glazed boxes that capture solar
-energy to create a warm microclimate, providing 10-20F of frost protection and
+energy to create a warm microclimate, providing 10-20F of [[holzer-frost-protection-techniques]] and
 extending the growing season by 4-8 weeks in both spring and fall. Container
 gardens use pots, tubs, and window boxes to grow plants on patios, balconies,
 and other hard surfaces where in-ground planting is impossible. While both
@@ -29,7 +29,7 @@ while containers optimize spatial constraints.
 
 Container gardening transforms hard surfaces like patios, driveways, balconies,
 rooftops, and windowsills into productive growing space using pots, tubs, window
-boxes, and hanging baskets. Provided containers have adequate drainage holes,
+boxes, and [[hamilton-hanging-baskets-organic]]. Provided containers have adequate drainage holes,
 plants will grow in any material. Container types include plastic (cheapest and
 lightweight, drill 1/2 inch holes about 6 inches apart in the bottom), clay and
 stoneware (attractive terra-cotta colors blend into cottage gardens, most not
@@ -42,18 +42,18 @@ The critical factor in container gardening is the growing medium. Peat-based
 compost should be avoided for outdoor containers because it dries out very
 quickly and is extremely difficult to rewet once dry. A soil-based compost mix
 of 7 parts loam, 3 parts coir, and 2 parts coarse gravel provides better
-moisture retention and nutrient availability. For acid-loving plants like
+moisture retention and [[ph-and-nutrient-availability-garden-soils]]. For acid-loving plants like
 blueberries and rhododendrons, use equal parts coir, pine bark, and sharp sand.
 Cover drainage holes with broken pots laid concave-side down, then gravel and a
 piece of turf or old sacking to prevent compost clogging. Leave 1 inch between
 the compost surface and the pot rim for watering headroom.
 
-Seasonal planting rotates displays: late spring and summer color with geraniums,
+[[hamilton-seasonal-planting-calendars]] rotates displays: late spring and summer color with geraniums,
 petunias, and trailing lobelia; early spring bulbs and biennials (pansies,
 primulas, daffodils, tulips, crocus) planted in fall. Vegetables including
 lettuce, onions, carrots, bush tomatoes, peppers, and herbs perform well in
 containers, especially when mixed with a few flowers to attract pollinators and
-beneficial insects. Hanging baskets with deep planting pockets allow plants to
+[[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. Hanging baskets with deep planting pockets allow plants to
 grow from the top and trail from the sides. The main limitation is that
 containers dry out faster than garden beds and require frequent (often daily)
 watering and regular liquid feeding during the growing season.

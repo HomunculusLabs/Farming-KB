@@ -22,17 +22,17 @@ Trichoderma koningii is an ascomycete fungus classified within the
 phylum Ascomycota, class Sordariomycetes, order Hypocreales, and
 family Hypocreaceae. The genus Trichoderma is a cosmopolitan group of
 filamentous fungi commonly found in soil, decaying wood, and other
-organic matter. T. koningii is characterized by its rapid growth
+[[hamilton-composting-and-organic-matter-management]]. T. koningii is characterized by its rapid growth
 rate, green conidial pigmentation, and the production of
 branching conidiophores bearing clusters of phialides. The species
 is morphologically similar to other Trichoderma species, and modern
 taxonomy increasingly relies on molecular markers for accurate
-[[mollison-grasslands-and-range-management-strategies]].
+mollison-grasslands-and-range-management-strategies.
 
-For this reason, biological control agents including pathogenic and
+For this reason, [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents including pathogenic and
 mycoparasitic fungi like T. koningii may be more desirable than
 chemical alternatives in tropical agricultural systems. The use of
-biologically based disease control aligns with integrated pest
+biologically based [[hamilton-pest-and-disease-control-organic]] aligns with [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 [[trichoderma-viride]], is mediated
 through several complementary mechanisms. Hyperparasitism, or
 mycoparasitism, involves the direct physical interaction between T.
@@ -68,7 +68,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +110,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

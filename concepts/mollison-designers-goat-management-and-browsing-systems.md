@@ -1,5 +1,5 @@
 ---
-title: "Goat Management and Browsing Systems"
+title: "mollison designers goat management and browsing systems and Browsing Systems"
 created: 2026-04-28
 tags:
   - permaculture
@@ -17,7 +17,7 @@ type: concept
 # Goat Management and Browsing Systems
 
 Bill Mollison's [[permaculture-principles]]
-of multiple functions and biological resource management.
+of multiple functions and biological [[savory-holistic-resource-management-animal-impact]].
 
 ## Goat Breeds and Selection
 
@@ -48,7 +48,7 @@ considers critically important. While cattle and sheep primarily
 consume grasses, goats preferentially select woody plants, forbs,
 shrubs, and the growing tips of trees. This makes them complementary
 to grazing animals in a multi-species system and uniquely valuable
-for land clearing and weed management.
+for land clearing and [[fukuoka-weed-management-and-green-manure]].
 
 Their dietary preferences include many plants considered invasive or
 undesirable: blackberry, gorse, thistle, bracken, multiflora rose,
@@ -78,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -58,7 +58,7 @@ Biochar's microstructure is characterized by a highly porous, honeycomb-like car
 
 Pyrolysis is the thermal decomposition of organic material in the absence or near-absence of oxygen. The key variables controlling biochar properties are:
 
-- **Temperature:** Low-temperature (300–500°C) biochar retains more volatile organic compounds, has lower surface area, and is more nutrient-rich. High-temperature (600–900°C) biochar is more carbonized, has higher surface area and porosity, but retains fewer volatile nutrients.
+- **Temperature:** Low-temperature (300–500°C) biochar retains more [[fungal-volatile-organic-compounds-communication]] compounds, has lower surface area, and is more nutrient-rich. High-temperature (600–900°C) biochar is more carbonized, has higher surface area and porosity, but retains fewer volatile nutrients.
 - **Heating rate:** Slow pyrolysis (hours) maximizes biochar yield (25–35%). Fast pyrolysis (seconds) prioritizes bio-oil production with lower biochar yield (10–20%).
 - **Residence time:** Longer residence times increase carbonization but reduce overall yield.
 - **Feedstock:** The biomass source strongly influences biochar chemistry, nutrient content, and physical structure.
@@ -94,11 +94,11 @@ Biochar amendment improves soil water retention, particularly in sandy and coars
 
 ### Soil Biological Activity
 
-Biochar provides habitat for beneficial soil microorganisms. Mycorrhizal fungal colonization of plant roots has been shown to increase by 20–40% in biochar-amended soils in some studies. Biochar also supports nitrogen-fixing bacteria (rhizobia) and plant growth-promoting rhizobacteria (PGPR). The porous structure provides physical refuge from soil predators (protozoa, nematodes) while retaining moisture and nutrients near microbial populations.
+Biochar provides [[query-how-do-i-design-habitat-for-beneficial-insects]] soil microorganisms. Mycorrhizal fungal colonization of plant roots has been shown to increase by 20–40% in biochar-amended soils in some studies. Biochar also supports nitrogen-fixing bacteria (rhizobia) and plant growth-promoting rhizobacteria (PGPR). The porous structure provides physical refuge from soil predators (protozoa, nematodes) while retaining moisture and nutrients near microbial populations.
 
 ### Soil Structure and Aggregation
 
-In clay and compacted soils, biochar can improve soil structure by acting as a structural aggregate, reducing bulk density, and improving porosity and aeration. Over time, biochar surfaces develop coatings of organic matter and mineral precipitates that enhance aggregate formation and stability.
+In clay and compacted soils, biochar can improve soil structure by acting as a structural aggregate, reducing bulk density, and improving porosity and aeration. Over time, biochar surfaces develop coatings of organic matter and mineral precipitates that enhance [[soil-aggregate-formation-fungal-contributions]] and stability.
 
 ### pH Amendment
 
@@ -111,8 +111,8 @@ Biochar represents one of the most stable forms of carbon sequestration availabl
 The carbon sequestration potential of biochar is significant:
 
 - Approximately 30–50% of the carbon in the original biomass feedstock is captured in biochar during pyrolysis
-- Global annual biomass production could theoretically support biochar sequestration of 1–4 gigatonnes of CO₂ equivalent per year
-- Biochar production from agricultural and forestry residues represents a "negative emissions" technology — it removes carbon from the active carbon cycle while improving soil productivity
+- Global annual [[dighton-fungal-biomass-production-aquatic-ecosystems]] could theoretically support biochar sequestration of 1–4 gigatonnes of CO₂ equivalent per year
+- [[comparison-biochar-production-guide-vs-biochar-soil-amendment]] from agricultural and forestry residues represents a "negative emissions" technology — it removes carbon from the active carbon cycle while improving soil productivity
 
 ## Application in Permaculture Systems
 
@@ -127,12 +127,14 @@ Biochar fits naturally into permaculture design as a long-term soil investment. 
 ## Precautions and Limitations
 
 - **Feedstock contaminants:** Biochar made from contaminated biomass (treated wood, plastics, heavy-metal-laden wastes) can introduce toxins into soil. Use only clean, uncontaminated feedstocks for agricultural applications.
-- **Initial nutrient drawdown:** Fresh, uncharged biochar may temporarily reduce nutrient availability. Always pre-charge before application.
+- **Initial nutrient drawdown:** Fresh, uncharged biochar may temporarily reduce [[ph-and-nutrient-availability-garden-soils]]. Always pre-charge before application.
 - **Dust inhalation:** Fine biochar dust is a respiratory irritant. Wear a mask during handling and application.
 - **Over-application:** Excessive rates (>50 t/ha) can cause excessively high pH, water repellency (hydrophobicity), and physical soil imbalances. Follow recommended rates for your soil type.
 - **Variability:** Biochar properties vary enormously based on production parameters and feedstock. Not all biochars are equal — test and source carefully.
 
 ## See Also
+
+- [[ensete-ventricosum]]
 
 - [[hugelkultur]]
 - [[keyline-design]]

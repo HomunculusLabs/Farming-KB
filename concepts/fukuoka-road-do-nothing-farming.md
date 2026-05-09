@@ -5,11 +5,12 @@ updated: 2026-04-25
 type: concept
 tags: [farming, philosophy, mu, non-action, natural-farming, fukuoka]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka's Philosophy of Do-Nothing Farming
 
-In [[natural-farming-fukuoka]] further develops his "do-nothing" farming philosophy, the central insight of his [[fukuoka-road-spiritual-aspects-farming]] worldview. It was not a philosophical conclusion reached through argument but a sudden revelation — "a road back to nature" that arrived unbidden.
+In  further develops his "do-nothing" [[cho-natural-farming-philosophy-of-non-interference]], the central insight of his [[fukuoka-road-spiritual-aspects-farming]] worldview. It was not a philosophical conclusion reached through argument but a sudden revelation — "a road back to nature" that arrived unbidden.
 
 ## The Connection to Mu (Nothingness)
 
@@ -23,11 +24,11 @@ Yet this philosophical radicalism had a practical purpose. He did not take up ri
 
 Although Fukuoka "happened upon the idea of 'do-nothing' farming" as a youth, "I had no idea at first how to carry it out in practice. I didn't know the methods. For thirty years since then I've farmed in search of those methods. Eventually, I came to have some idea of what these are."
 
-The search was neither passive nor theoretical. During the war, he joined the Kochi Prefecture agricultural testing station, where he did "scientific research on farming methods" while keeping "the idea of natural farming in the back of my head." He ran experiments in both directions — the conventional "What about doing this? What about doing that?" approach and his own natural farming research simultaneously. "This only makes people busier and makes things harder for the farmer, who ends up having to do everything." Only after the war, when he was free to become a farmer, could he fully commit to his methods.
+The search was neither passive nor theoretical. During the war, he joined the Kochi Prefecture agricultural [[fukuoka-straw-scattering-testing-station-resistance]], where he did "scientific research on [[natural-farming-methods-comparison]]" while keeping "the idea of [[comparison-natural-farming-vs-permaculture]] in the back of my head." He ran experiments in both directions — the conventional "What about doing this? What about doing that?" approach and his own natural farming research simultaneously. "This only makes people busier and makes things harder for the farmer, who ends up having to do everything." Only after the war, when he was free to become a farmer, could he fully commit to his methods.
 
 ## The Four Principles of Natural Farming
 
-From his decades of experimentation, Fukuoka distilled four foundational principles for [[fukuoka-road-back-to-nature-overview]], he argues that "organic gardening is very different from scientific agriculture" but is still caught within the same paradigm. "In its present form, organic gardening is simply a return to animal-based farming."
+From his decades of experimentation, Fukuoka distilled four foundational principles for [[fukuoka-road-back-to-nature-overview]], he argues that "[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] is very different from [[fukuoka-critique-scientific-agriculture-civilization]]" but is still caught within the same paradigm. "In its present form, organic gardening is simply a return to animal-based farming."
 
 The key difference is that organic farming still operates within the framework of human intervention — substituting organic inputs for chemical ones while maintaining the same mindset of control. Fukuoka writes that although organic farming "appears to serve the cause of natural conservation... this is not the case." It is a "halfway measure" that acts as a brake "upon a broken wheel" and actually "compounds the danger" by giving people false comfort that nature is being protected.
 
@@ -111,4 +112,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

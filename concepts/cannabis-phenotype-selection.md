@@ -1,8 +1,9 @@
 ---
-title: Cannabis Phenotype Selection
+title: vic-high-cannabis-phenotype-selection-criteria Selection
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
@@ -13,7 +14,7 @@ tags: [cannabis]
 
 Phenotype selection is the process of choosing individual cannabis
 plants based on their observable traits for use as breeding parents or
-cloning stock. It is the core activity of any cannabis breeding program,
+cloning stock. It is the core activity of any cannabis [[cervantes-breeding-program-design-goal-setting]],
 determining which genetic combinations are preserved and propagated into
 future generations. Cervantes' breeding chapter, authored by Chimera,
 provides thorough guidance on selection methodology.
@@ -25,7 +26,7 @@ representation of a trait. Every plant has many different phenotypes.
 For example, plant height may be categorized as short, medium, or tall.
 Calyx color phenotypes include green, purple, and green with purple
 markings. Calyx size, calyx shape, leaf size, leaf shape, branching
-pattern, and resin production all represent different selectable
+pattern, and [[cannabis-glandular-trichome-types-resin-production-clarke]] all represent different selectable
 phenotypes.
 
 All phenotypes result from genes acting within plant cells. Sometimes a
@@ -55,7 +56,7 @@ selection priorities:
 - Discernible taste, particular flavors, and desirable aromas.
 - High THC content and quality of effect (long-lasting, soaring, or
   sedative depending on preference).
-- Resistance to specific insects and diseases common in indoor
+- Resistance to specific [[solomon-insects-and-diseases-integrated-approach]] common in indoor
   environments.
 - Overall vigor and good health as a general rule.
 
@@ -70,7 +71,7 @@ environmental conditions. Key priorities include:
 - Adaptation to local climate, including temperature, humidity, and
   light cycles.
 - Pest resistance to local insect and pathogen populations.
-- Suitable stature for the growing environment (not exceeding 6 feet
+- Suitable stature for the [[cannabis-growing-environment-setup]] (not exceeding 6 feet
   if space is limited).
 
 Selecting the earliest of the most potent plants better preserves
@@ -108,7 +109,7 @@ essential for thorough evaluation.
 ## Balancing Positive and Negative Traits
 
 Often a plant is nearly ideal but has one undesirable trait, such as
-excessive height for indoor growing. The breeder must decide whether
+excessive height for [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]]. The breeder must decide whether
 the positive traits outweigh the negative. If the plant is kept as a
 breeding candidate, the negative traits must be removed from the
 population at a later point through further breeding. The breeder must

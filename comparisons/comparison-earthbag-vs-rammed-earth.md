@@ -1,5 +1,5 @@
 ---
-title: "Earthbag Construction vs Rammed Earth"
+title: "comparison-earthbag-construction-vs-cob-construction vs Rammed Earth"
 tags: [comparison, natural-building, earthbag, rammed-earth]
 date: 2026-05-08
 updated: 2026-05-08
@@ -16,7 +16,7 @@ They share a common philosophy of minimising processed materials, reducing
 embodied energy, and building with what the land provides. However, they
 diverge sharply in their construction process, structural behaviour, and the
 types of projects they suit best. Understanding these differences helps
-builders choose the right method for their climate, budget, skill level, and
+builders [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] method for their climate, budget, skill level, and
 design goals.
 
 ## Earthbag Construction
@@ -66,7 +66,7 @@ earth.
 Choose earthbag construction when budget is the primary constraint and the
 project involves a single-storey structure. Earthbag excels in seismic zones
 where its flexible, reinforced walls provide superior earthquake resistance.
-Community building projects benefit from the method's low skill requirements
+[[urban-permaculture-community-building-social-design]] projects benefit from the method's low skill requirements
 and the ability to involve untrained volunteers in "earthbag raisings." The
 technique is ideal for curved or organic designs, including domes, round
 houses, and freeform garden walls, because no formwork is needed to shape the
@@ -106,6 +106,8 @@ with earth-filled inner bags, address the insulation limitation shared by
 both methods in cold climates.
 
 ## See Also
+
+- [[comparison-ferrocement-vs-earthbag]]
 
 - [[comparison-adobe-vs-rammed-earth]]
 - [[comparison-straw-bale-vs-rammed-earth]]

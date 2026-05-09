@@ -11,7 +11,7 @@ sources:
 ---
 # Herbal Beer Ingredients
 
-Before hops became the nearly universal beer flavoring agent, brewers around the world used hundreds of different herbs, spices, roots, barks, flowers, and fruits to flavor their fermented beverages. Many of these ingredients served dual purposes: adding flavor and contributing medicinal or psychoactive properties. This guide surveys the major categories of herbal beer ingredients and their traditional uses.
+Before hops became the nearly universal beer flavoring agent, brewers [[fungi-around-the-world-species-distribution]] used hundreds of different herbs, spices, roots, barks, flowers, and fruits to flavor their fermented beverages. Many of these ingredients served dual purposes: adding flavor and contributing medicinal or psychoactive properties. This guide surveys the major categories of herbal beer ingredients and their traditional uses.
 
 ## Bittering Herbs
 
@@ -19,7 +19,7 @@ Bitter herbs are essential in beer to balance the sweetness of malt sugars. With
 
 ### Traditional Bittering Agents
 
-- Sweet gale (Myrica gale): Resinous, aromatic bitterness with notes of bayberry and camphor. The primary gruit bittering herb. Contains salicylic acid compounds with anti-inflammatory properties.
+- Sweet gale (Myrica gale): Resinous, aromatic bitterness with notes of bayberry and camphor. The primary gruit bittering herb. Contains [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]] compounds with anti-inflammatory properties.
 
 - Yarrow (Achillea millefolium): Herbal, chamomile-like bitterness with peppery notes. A versatile bittering agent that also has medicinal properties including anti-inflammatory and diaphoretic effects.
 
@@ -57,7 +57,7 @@ Aromatic herbs contribute fragrance and complex flavor without significant bitte
 
 - Sweet woodruff (Galium odoratum): Sweet, vanilla-like, hay-like aroma. Traditional in German Maibock and Berliner weisse.
 
-- Bee balm (Monarda didyma): Aromatic, minty-oregano flavor. Native American brewing herb.
+- Bee balm (Monarda didyma): Aromatic, minty-oregano flavor. [[halpern-sacramental-peyote-and-native-american-church]] brewing herb.
 
 - Holy basil / Tulsi (Ocimum tenuiflorum): Pepper, clove, mint notes with a complex aroma. Used in Indian traditional brewing.
 
@@ -81,7 +81,7 @@ Aromatic herbs contribute fragrance and complex flavor without significant bitte
 
 - Elderberries (Sambucus nigra): Tart, fruity, deep purple color. Use with caution as they can be strongly flavored.
 
-- Spruce tips (Picea species): Bright, citrusy, resinous when harvested in spring. A traditional North American and Scandinavian brewing ingredient.
+- Spruce tips (Picea species): Bright, citrusy, resinous when harvested in spring. A traditional [[growing-gourmet-north-american-reishi-species]] and Scandinavian brewing ingredient.
 
 - Bog cranberry (Vaccinium oxycoccos): Tart, fruity, slightly astringent. Traditional in Scandinavian and Baltic brewing.
 
@@ -93,7 +93,7 @@ Historical and indigenous brewing traditions sometimes incorporated herbs with p
 
 - Wild rosemary (Ledum palustre): Sedative properties due to ledol content. A traditional gruit ingredient.
 
-- Henbane (Hyoscyamus niger): Potentially toxic tropane alkaloids. Historically used in some European ales but dangerous in incorrect doses.
+- Henbane ([[henbane-hyoscyamus-niger-ethnobotany]]): Potentially toxic tropane alkaloids. Historically used in some European ales but dangerous in incorrect doses.
 
 - Betony (Betonica officinalis): Mildly relaxing, used in medieval herbal beers.
 
@@ -110,7 +110,7 @@ When brewing with herbs, several general principles apply:
 - Robust herbs and roots can be added during the boil for thorough extraction
 - Start with small quantities and taste before adding more -- herbal flavors can be overwhelming
 - Some herbs interact with each other in complex ways; start with simple blends before experimenting with complex mixtures
-- Always research the safety profile of any herb before using it in a beverage intended for consumption
+- Always research the [[cannabis-safety-profile-and-overdose-risk]] of any herb before using it in a beverage intended for consumption
 - Many traditional brewing herbs have medicinal properties; consider these effects when designing recipes
 
 ## See Also

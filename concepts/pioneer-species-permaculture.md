@@ -8,12 +8,12 @@ Pioneer species are fast-growing, hardy plants that colonize bare or disturbed g
 
 Pioneer species share several defining traits:
 
-- **Fast growth**: Rapid above-ground biomass production to quickly occupy space and shade soil
-- **Nitrogen fixation**: Most pioneers are legumes or other nitrogen-fixing species, converting atmospheric nitrogen into plant-available forms
+- **Fast growth**: Rapid above-ground [[dighton-fungal-biomass-production-aquatic-ecosystems]] to quickly occupy space and shade soil
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]**: Most pioneers are legumes or other nitrogen-fixing species, converting atmospheric nitrogen into plant-available forms
 - **Short lifespan**: Often 10–30 years, naturally giving way to longer-lived species as conditions improve
 - **High variability**: Genetic diversity produces individuals adapted to a wide range of conditions
 - **Abundant seed production**: Seeds are usually hard-coated and require scarification (fire, animal digestion, or mechanical abrasion) to germinate
-- **Animal-dispersed seed**: Many pioneers produce seed that is valuable poultry forage, ensuring animals spread them
+- **Animal-dispersed seed**: Many pioneers produce seed that is valuable [[free-range-poultry-forage-design-mollison]], ensuring animals spread them
 - **Tolerance of harsh conditions**: Drought, poor soil, wind, frost, and competition from grasses
 - **Nurse tree function**: Provide shade, shelter, and improved soil conditions for establishing longer-term species
 
@@ -21,7 +21,7 @@ Pioneer species share several defining traits:
 
 ### Tagasaste ([[robinia-pseudoacacia]])
 
-A nitrogen-fixing legume native to North America, widely planted globally. Black locust grows rapidly (1–2 meters per year), tolerates poor soils, drought, and frost, and produces extremely durable timber resistant to rot and termites. It coppices vigorously, making it valuable for sustainable firewood and fence post production. The fragrant white flowers are excellent bee forage. Black locust is thorny, which provides animal deterrent qualities but can be a management challenge.
+A nitrogen-fixing legume native to [[psilocybin-north-america-pacific-northwest]], widely planted globally. Black locust grows rapidly (1–2 meters per year), tolerates poor soils, drought, and frost, and produces extremely durable timber resistant to rot and termites. It coppices vigorously, making it valuable for sustainable firewood and fence post production. The fragrant white flowers are excellent bee forage. Black locust is thorny, which provides animal deterrent qualities but can be a management challenge.
 
 ### Honey Locust ([[acacia-mearnsii]] (black wattle)**: Fast-growing to 6–10 meters; yields 21–28 tonnes/hectare/year of wet leaves containing 240–285 kg of nitrogen. Indonesian farmers report doubled vegetable and tobacco yields when rotated with A. mearnsii due to green manure effects. Bark yields 36–44% tannin. Extensively planted in South Africa (160,000 ha) and Brazil (125,000 ha).
 - **Acacia melanoxylon (blackwood)**: Reaches 35 meters in ideal conditions; produces premium furniture timber. Coppices and root-suckers. Grows from swamps to mountain heath across a 750–1500mm rainfall range.
@@ -30,7 +30,7 @@ A nitrogen-fixing legume native to North America, widely planted globally. Black
 
 ### Alders (Alnus spp.)
 
-A genus of nitrogen-fixing trees particularly valuable in temperate and cold climates. Alders thrive in wet soils and riparian zones where many other nitrogen fixers struggle. They are among the first trees to colonize disturbed riparian areas, stabilizing banks and adding nitrogen to the soil. The wood is moderately durable and useful for furniture, turning, and carving. Alder leaves decompose rapidly, contributing quickly to soil organic matter.
+A genus of nitrogen-fixing trees particularly valuable in temperate and cold climates. Alders thrive in wet soils and riparian zones where many other nitrogen fixers struggle. They are among the first trees to colonize disturbed riparian areas, stabilizing banks and adding nitrogen to the soil. The wood is moderately durable and useful for furniture, turning, and carving. Alder leaves decompose rapidly, contributing quickly to soil [[hamilton-composting-and-organic-matter-management]].
 
 ### Casuarinas (Casuarina spp.)
 
@@ -48,7 +48,7 @@ Pioneers can be direct-seeded onto degraded land, pasture, or recently cleared a
 
 ### Nurse Cropping
 
-Plant pioneers among longer-term crop trees at close spacing (1–3 meters). The pioneers provide immediate shade, wind protection, and nitrogen fixation while the crop trees establish. As crop trees mature, pioneers are gradually removed through coppicing or thinning.
+Plant pioneers among longer-term crop trees at close spacing (1–3 meters). The pioneers provide immediate shade, [[cervantes-wind-protection-outdoor-cannabis]], and nitrogen fixation while the crop trees establish. As crop trees mature, pioneers are gradually removed through coppicing or thinning.
 
 ### Fodder Systems
 

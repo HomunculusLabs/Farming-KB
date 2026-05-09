@@ -1,5 +1,5 @@
 ---
-title: Rice Bakanae Disease Treatment (JADAM Pesticide Recipe #1)
+title: jadam rice bakanae treatment Disease Treatment (JADAM Pesticide Recipe #1)
 created: 2026-04-20
 updated: 2026-04-18
 type: concept
@@ -58,8 +58,8 @@ This solution can fully replace chemical seed disinfectants.
 
 ## See Also
 
-- [[jadam-sulfur-js]] - How to make JADAM sulfur
-- [[jadam-concentration-guidelines]] - Safety and dosage guidelines
+- [[jadam-sulfur-js]] - How to make [[ultra-low-jadam-sulfur-js]]
+- [[jadam-concentration-guidelines]] - Safety and [[blesching-cannabis-health-index-dosage-guidelines-medical]]
 - [[jadam-rice-water-weevil-control]]
 - [[jadam-natural-vs-chemical-pesticide]]
 ## Practical Considerations
@@ -80,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

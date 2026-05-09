@@ -1,5 +1,5 @@
 ---
-title: "Permaculture Site Design: Zones, Slopes, and Cellular Patterns"
+title: "Permaculture holmgren-site-design-as-cellular-design: Zones, Slopes, and Cellular Patterns"
 created: 2026-04-26
 tags:
   - design
@@ -10,13 +10,14 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: concept
 ---
 
 # Permaculture Site Design: Zones, Slopes, and Cellular Patterns
 
-David Holmgren elaborates the practical application of Permaculture site design,
+[[david-holmgren]] elaborates the practical application of Permaculture site design,
 building on the [[permaculture-design]] principle by providing
 structured ways to process observations into design decisions. Systems
 identification and mapping has mostly been by the apprenticeship model within
@@ -27,8 +28,8 @@ government agencies and design professions.
 Beyond the individual site, whole farm planning and eco-village development
 require a landscape-based approach. The [[permaculture-design]],
 [[holmgren-water-harvesting-storage-landscapes]],
-[[permaculture-climatic-zones-design]],
-[[permaculture-bioregional-architecture]]
+permaculture-climatic-zones-design,
+permaculture-bioregional-architecture
 ## Practical Applications
 
 Permaculture Site Design: Zones, Slopes, and Cellular Patterns has a range of practical applications that make it relevant to
@@ -46,7 +47,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -96,7 +97,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -106,4 +107,5 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-
+## See Also
+- [[holmgren-site-design-as-cellular-design]]

@@ -20,11 +20,11 @@ type: concept
 
 # Mycoparasitism: Fungi That Infect Other Fungi
 
-Fungi do not limit their parasitic ambitions to plants, animals, and other organisms. A significant number of fungal species specialize in attacking other fungi — a phenomenon known as **mycoparasitism**. These fungus-on-fungus interactions range from visually spectacular fruiting-body-on-fruiting-body overgrowths to invisible soil warfare that shapes microbial community structure. Mycoparasites are ecologically significant as natural regulators of fungal populations, and several have been harnessed as biological control agents against crop diseases and mushroom cultivation pests.
+Fungi do not limit their parasitic ambitions to plants, animals, and other organisms. A significant number of fungal species specialize in attacking other fungi — a phenomenon known as **mycoparasitism**. These fungus-on-fungus interactions range from visually spectacular fruiting-body-on-fruiting-body overgrowths to invisible soil warfare that shapes [[edaphic-factors-microbial-community-structure]] structure. Mycoparasites are ecologically significant as natural regulators of fungal populations, and several have been harnessed as [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents against crop diseases and [[accessible-mushroom-cultivation-for-disabilities]] pests.
 
 ## The Phenomenon of Mycoparasitism
 
-The discovery that "little fleas upon their backs bite them" applies as readily to fungi as to the animals in Jonathan Swift's verse. Fungal parasites are found among all major fungal groups, and many apparently innocuous saprotrophic species will attack living organisms when opportunities present themselves. Mycoparasitism represents one expression of four universal features shared by all the microorganisms encountered in fungal biology: they penetrate their foods with [[bloomfield-morel-morchella-ascocarp-cup-fungi-truffle-evolution|truffles]] (Tuber species). This represents a remarkable ecological niche: a fungus that parasitizes the reproductive structures of another fungus that itself lives underground in [[trichoderma-harzianum|Trichoderma]] is a common soil microorganism that aggressively colonizes substrates and attacks other fungi.
+The discovery that "little fleas upon their backs bite them" applies as readily to fungi as to the animals in Jonathan Swift's verse. Fungal parasites are found among all major fungal groups, and many apparently innocuous saprotrophic species will attack living organisms when opportunities present themselves. Mycoparasitism represents one expression of four universal features shared by all the microorganisms encountered in fungal biology: they penetrate their foods with truffles (Tuber species). This represents a remarkable ecological niche: a fungus that parasitizes the reproductive structures of another fungus that itself lives underground in [[trichoderma-harzianum|Trichoderma]] is a common soil microorganism that aggressively colonizes substrates and attacks other fungi.
 
 ### Mechanisms of Action
 
@@ -48,9 +48,9 @@ The fungal mycelium, with its relentless invasive growth and absorptive nutritio
 
 ## Economic Impact
 
-The economic impact of mycoparasitic diseases on the commercial mushroom industry is substantial. Crop losses from Verticillium dry bubble, Mycogone wet bubble, and Cladobotryum cobweb disease can range from minor reductions in yield to complete crop failure in severely affected growing rooms. The cost of control measures — including sterilized casing, environmental control systems, and Trichoderma biocontrol applications — adds significantly to production costs. For large-scale mushroom operations, even a small percentage reduction in crop quality can translate to considerable financial losses given the tight margins characteristic of commercial agriculture.
+The economic impact of mycoparasitic diseases on the commercial mushroom industry is substantial. Crop losses from Verticillium dry bubble, Mycogone wet bubble, and Cladobotryum cobweb disease can range from minor reductions in yield to complete crop failure in severely affected growing rooms. The cost of control measures — including sterilized casing, [[eclss-environmental-control-life-support]] systems, and [[ingham-trichoderma-biocontrol-fungi-aact]] applications — adds significantly to production costs. For large-scale mushroom operations, even a small percentage reduction in crop quality can translate to considerable financial losses given the tight margins characteristic of commercial agriculture.
 
-The development of Trichoderma-based biocontrol products represents an important alternative to chemical fungicides, which are increasingly restricted by regulatory agencies concerned about pesticide residues on food crops. Biological control agents like Trichoderma offer the advantage of specificity — they attack the target pathogen while leaving the crop, consumers, and environment unharmed. However, their efficacy can be variable depending on environmental conditions, requiring careful management to achieve consistent results.
+The development of Trichoderma-based biocontrol products represents an important alternative to [[cervantes-chemical-fungicides-insecticides]], which are increasingly restricted by regulatory agencies concerned about pesticide residues on food crops. Biological control agents like Trichoderma offer the advantage of specificity — they attack the target pathogen while leaving the crop, consumers, and environment unharmed. However, their efficacy can be variable depending on environmental conditions, requiring careful management to achieve consistent results.
 ## Practical Considerations
 
 When working with Mycoparasitism: Fungi That Infect Other Fungi, several practical factors should be
@@ -109,4 +109,9 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-
+## See Also
+- [[mushroom-cultivation]]
+- [[fungal-parasites]]
+- [[ingham-trichoderma-biocontrol-fungi-aact]]
+- [[bloomfield-truffle-hunting-and-culinary-fungi]]
+- [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]

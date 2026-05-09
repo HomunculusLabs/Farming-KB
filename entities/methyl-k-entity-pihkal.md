@@ -1,5 +1,5 @@
 ---
-title: "METHYL-K (2-METHYLAMINO-1-(3,4-METHYLENEDIOXYPHENYL)PENTANE;) -- PIHKAL Entry #129"
+title: "METHYL-K (2-METHYLAMINO-1-(3,4-METHYLENEDIOXYPHENYL)PENTANE;) -- 2c-b-pihkal-entry-20 #129"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -100,8 +100,8 @@ external ice bath, there was added a solution of 24 g crude
 1-(3,4-methylenedioxyphenyl)-1-pentene in 120 mL acetone at a rate
 slow enough to keep the internal temperature from exceeding 35 deg C. At
 the end of the addition, the temperature was brought up to 45 deg C by
-heating briefly on the steam bath, and then the reaction mixture was
-allowed to stand and stir at ambient temperature for several h. All
+heating briefly on the [[scythian-cannabis-steam-bath-ritual]], and then the reaction mixture was
+allowed to stand and stir at [[jadam-ambient-temperature-principle]] for several h. All
 volatiles were removed under vacuum, with a bath temperature
 maintained at 45 deg C. The residue was dissolved in 30 mL MeOH, then
 there was added 200 mL 15% H2SO4 and the mixture held on the steam
@@ -116,7 +116,7 @@ mm/Hg. This light yellow liquid weighed 13.5 g and was substantially
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

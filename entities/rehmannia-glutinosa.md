@@ -104,7 +104,7 @@ with dampness due to its cold, cloying nature.
 
 - **Propagation:** Root division (most common) or seed; commercial production
   uses root segments (tubers) planted in spring.
-- **Soil:** Well-drained sandy loam, pH 5.5–7.0; heavy clay causes root rot.
+- **Soil:** Well-drained sandy loam, pH 5.5–7.0; heavy clay [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]] rot.
 - **Climate:** Temperate, prefers partial shade; native to regions with
   600–1200 mm annual rainfall.
 - **Harvest:** Roots dug in autumn (October–November) of the first or second
@@ -122,7 +122,7 @@ In TCM, Rehmannia is a core ingredient in several classical formulas:
 - **Si Jun Zi Tang** (Four Gentlemen Decoction) — modified for spleen-kidney tonification
 
 Modern clinical applications include diabetic nephropathy, osteoporosis,
-menopausal symptoms, and anemia. Clinical trials support its adjunctive use in
+menopausal symptoms, and anemia. [[mushroom-cancer-clinical-trials-overview]] support its adjunctive use in
 type 2 diabetes for reducing HbA1c and improving renal function markers.
 
 ## Similar Species

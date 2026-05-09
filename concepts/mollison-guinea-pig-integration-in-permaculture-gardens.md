@@ -1,5 +1,5 @@
 ---
-title: Guinea Pig Integration in Permaculture Gardens
+title: mollison guinea pig integration in permaculture gardens Integration in Permaculture Gardens
 created: 2026-04-26
 tags:
   - permaculture
@@ -19,7 +19,7 @@ type: concept
 In *Permaculture: A Designers' Manual*, Bill Mollison identifies the
 guinea pig (Cavia porcellus) as a uniquely valuable small domestic
 animal for tropical and subtropical permaculture systems. The edible
-guinea pig occupies a niche that no other domestic animal fills:
+guinea pig occupies a niche that no other [[mollison-designers-domestic-animal-integration-design]] fills:
 controlling competitive grasses beneath young trees while producing
 manure and protein in a compact, low-impact system.
 
@@ -34,7 +34,7 @@ manure while requiring minimal space and management.
 The guinea pig aids small tree establishment by chipping the base of
 young grasses that compete with tree seedlings. This grass-suppression
 function is critical in tropical systems where rampant grasses such as
-kikuyu can smother young trees and prevent orchard establishment.
+kikuyu can smother young trees and prevent [[fukuoka-citrus-orchard-establishment-bare-hillside]].
 
 ## Specific Design Examples
 
@@ -46,10 +46,10 @@ At Bob Kingwell's property in tropical Queensland, 3-4 guinea pigs
 are housed in small shelters beneath young litchee trees. They forage
 below the canopy and are fed food pellets. The guinea pigs manure the
 trees and keep kikuyu grass from choking young saplings. Owls and
-pythons eat excess populations, providing natural predator control.
+pythons eat excess populations, providing [[fukuoka-natural-predator-protection]] control.
 
 As an alternative where guinea pigs are not available, Desmodium (a
-leguminous ground cover) can restrain kikuyu grass, though this uses
+leguminous [[fukuoka-citrus-orchard-ground-cover-cultivation]]) can restrain kikuyu grass, though this uses
 more water and does not provide the food production benefit of the
 guinea pig system.
 
@@ -79,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

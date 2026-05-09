@@ -35,7 +35,7 @@ Different truffle species produce distinct effects on root
 morphology. Tuber melanosporum (black Périgord truffle) and T. borchii
 (whitish truffle) both induce increased root branching and root hair
 length in A. thaliana seedlings. However, T. borchii additionally
-causes root shortening, a response that correlates with higher IAA
+[[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]] shortening, a response that correlates with higher IAA
 concentrations quantified by HPLC-MS. T. borchii produced IAA at
 concentrations of approximately 1.3 times 10 to the negative 7 molar
 after 10 days of growth, demonstrating that this truffle species is a
@@ -65,7 +65,7 @@ bioassay plates is extracted with water-methanol mixtures containing
 internal standards (deuterated IAA), followed by ethyl acetate
 extraction and filtration. Alternatively, IAA can be quantified from
 liquid fungal cultures by direct extraction. These analytical methods
-provide quantitative confirmation that morphological effects observed
+provide quantitative confirmation that [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] observed
 in bioassays are indeed due to IAA production.
 
 ## Dose-Response Relationships
@@ -87,9 +87,9 @@ ectomycorrhizal formation. Auxin-induced root branching increases the
 number of potential colonization sites, while root hair elongation may
 facilitate initial contact between fungal hyphae and root surfaces. The
 modification of root architecture by fungal auxins may represent an
-ancient signaling mechanism by which ectomycorrhizal fungi prepare the
+ancient signaling mechanism by which [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] prepare the
 host root system for symbiotic engagement. Understanding these hormonal
-interactions could inform truffle cultivation practices, particularly
+interactions could inform [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]] practices, particularly
 the establishment of truffle orchards where successful mycorrhization
 of host trees is essential for production.
 

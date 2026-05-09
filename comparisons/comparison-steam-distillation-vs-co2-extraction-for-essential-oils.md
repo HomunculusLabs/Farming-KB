@@ -1,5 +1,5 @@
 ---
-title: Steam Distillation vs CO₂ Extraction for Essential Oils
+title: comparison steam distillation vs co2 extraction for essential oils vs CO₂ Extraction for comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap
 created: 2026-05-06
 tags:
 type: comparison
@@ -30,7 +30,7 @@ sources:
 
 | Feature | Steam Distillation | CO₂ Extraction |
 |---------|-------------------|----------------|
-| **Mechanism** | Steam carries volatile compounds through condensation | Supercritical CO₂ acts as a solvent dissolving plant compounds |
+| **Mechanism** | Steam carries [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] through condensation | Supercritical CO₂ acts as a solvent dissolving plant compounds |
 | **Temperature** | 80–100°C (at atmospheric pressure) | 31–40°C (supercritical) or 10–25°C (subcritical) |
 | **Pressure** | Atmospheric | 75–500 bar (supercritical) |
 | **Solvent used** | Water (steam) — GRAS, no residue | CO₂ — gas at room temp, fully evaporates, no residue |

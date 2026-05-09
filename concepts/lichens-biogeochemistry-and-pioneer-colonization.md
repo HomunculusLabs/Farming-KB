@@ -1,5 +1,5 @@
 ---
-title: "Lichens - Biogeochemistry and Pioneer Colonization"
+title: "Lichens - lichens biogeochemistry and pioneer colonization Colonization"
 created: 2026-04-26
 tags:
   - mycology
@@ -47,8 +47,8 @@ surfaces. Their ability to colonize bare rock and initiate soil formation
 makes them critical organisms in primary succession:
 
 - Physical penetration of rock surfaces by lichen hyphae and rhizines
-- Chemical dissolution of minerals through organic acid secretion
-- Accumulation of organic matter from lichen biomass and decomposition
+- Chemical dissolution of minerals through [[fungal-organic-acid-metal-solubilization]] secretion
+- Accumulation of [[hamilton-composting-and-organic-matter-management]] from lichen biomass and decomposition
 - Trapping of wind-blown dust and organic particles
 - Creation of microenvironments suitable for subsequent colonization by
   plants and other organisms
@@ -69,7 +69,7 @@ processes:
   rock substrates, lichens contribute to the development of soil from bare
   rock, a process essential for the establishment of terrestrial plant
   communities.
-- **Rock weathering**: lichens are active agents of mineral dissolution and
+- **[[dighton-fungal-rock-weathering-mineral-dissolution]]**: lichens are active agents of mineral dissolution and
   bioweathering, contributing to the release of elements from rock
   substrates into bioavailable forms.
 
@@ -82,7 +82,7 @@ important implications:
 - **Biomonitoring**: lichens are widely used as bioindicators of atmospheric
   metal deposition and radionuclide contamination. Their metal content
   reflects atmospheric inputs over time.
-- **Metal tolerance**: the ability to sequester metals as biominerals may
+- **[[fungal-metal-tolerance-mechanisms]]**: the ability to sequester metals as biominerals may
   confer tolerance to metal-rich substrates.
 - **Element cycling**: through accumulation and subsequent release during
   decomposition, lichens participate in the cycling of both essential and
@@ -93,7 +93,7 @@ important implications:
 In limestone, fungi and lichens are considered to be important agents of both
 mineral deterioration and formation. Many near-surface limestones (calcretes)
 and calcic and petrocalcic horizons in soils are secondarily cemented with
-calcite (CaCO3) and calcium oxalate minerals, with lichen activity
+calcite (CaCO3) and [[fungal-calcium-oxalate-crystals]] minerals, with lichen activity
 contributing to both dissolution and reprecipitation processes.
 
 ## Interaction with Rock-Dwelling Fungi

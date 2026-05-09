@@ -18,8 +18,8 @@ type: concept
 
 ## Overview
 
-From The Cannabis Health Index, Blesching reports a combined CHI value of
-31 from 15 viral and bacterial studies reviewed, representing one of the
+From The [[blesching-cannabis-health-index-autoimmune-conditions]], Blesching reports a combined CHI value of
+31 from 15 [[bacterial-plant-diseases]] studies reviewed, representing one of the
 stronger evidence bases in the book for any single category.
 
 Virus is a Latin word that means "slime" or "juice." Modern medicine has
@@ -104,7 +104,7 @@ the immune system and may induce susceptibility or vulnerability to
 disease, and they are also capable of initiating a formidable defense and
 rapid immune response.
 
-Infectious agents are more likely to result in disease whenever negative
+[[blesching-cannabis-infectious-agents-cancer]] are more likely to result in disease whenever negative
 affect is present, because negative emotional and mental states are
 resource-intensive and deplete the reserves that protect immunity. Greater
 risk of disease occurs with chronic lack of support, insecurity, mistrust,
@@ -127,7 +127,7 @@ abilities.
   infections in laboratory studies.
 - **Clove**: Eugenine inhibits viral DNA synthesis in several strains of
   herpes, including acyclovir-resistant strains.
-- **Coconut**: Medium-chain fatty acids can inactivate enveloped viruses.
+- **Coconut**: Medium-chain [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] can inactivate enveloped viruses.
 - **Turmeric**: Curcumin significantly decreases HSV-1 infectivity and
   gene expression.
 
@@ -137,7 +137,9 @@ abilities.
 - [[blesching-cannabis-encephalitis]] - Cannabis for viral encephalitis
 - [[blesching-cannabis-fever-temperature-regulation]] - Fever as an
   antiviral immune response
-- [[blesching-endocannabinoid-system-overview]] - ECS role in antiviral
+- [[endocannabinoid-system-overview]] - ECS role in antiviral
   defense
 
 ## See Also
+
+- [[cannabis-for-viral-infections]]

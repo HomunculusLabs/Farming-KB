@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/cultivation-of-panaeolus-cyanescens-and-p
 
 # Psilocybe pseudoaztecorum
 
-**Psilocybe pseudoaztecorum** is a bluing psilocybin mushroom in the family Hymenogastraceae, native to the highlands of central Mexico. It was first described by Gastón Guzmán in 1995, who noted its close morphological resemblance to [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] but consistently smaller in all macroscopic and microscopic features. The epithet *pseudoaztecorum* (false Aztec) reflects this close similarity. Molecular phylogenetic studies have confirmed its placement in section Aztecorum alongside [[psilocybe-weilii]]-complex species. Some authorities have suggested it may warrant placement in the genus Deconica based on weak bluing reactions, but the presence of [[psilocin]] in chemical analyses supports its retention in Psilocybe sensu stricto.
+**Psilocybe pseudoaztecorum** is a bluing [[emcdda-psilocybin-mushroom-dose-and-effects]] in the family Hymenogastraceae, native to the highlands of central Mexico. It was first described by Gastón Guzmán in 1995, who noted its close morphological resemblance to [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] but consistently smaller in all macroscopic and microscopic features. The epithet *pseudoaztecorum* (false Aztec) reflects this close similarity. Molecular phylogenetic studies have confirmed its placement in [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]] alongside [[psilocybe-weilii]]-complex species. Some authorities have suggested it may warrant placement in the genus Deconica based on weak bluing reactions, but the presence of [[psilocin]] in [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] supports its retention in Psilocybe sensu stricto.
 
 ## Morphology
 
@@ -22,7 +22,7 @@ While [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] means it was likely
 
 ## Cultivation
 
-There are no established cultivation protocols for psilocybe pseudoaztecorum, and the species has not been cultivated outside of research settings. If fresh specimens were available, cultivation methods adapted from other section Aztecorum species would likely be applicable. The species' high-elevation habitat preferences suggest it may require cooler temperatures than lowland tropical Psilocybe species for successful fruiting. The practical challenges of collecting fresh material from remote high-elevation sites, combined with the modest potency of the species, have limited cultivation interest.
+There are no established cultivation protocols for psilocybe pseudoaztecorum, and the species has not been cultivated outside of research settings. If fresh specimens were available, [[synthetic-log-cultivation-methods-guide]] adapted from other section Aztecorum species would likely be applicable. The species' high-elevation habitat preferences suggest it may require cooler temperatures than lowland tropical Psilocybe species for successful fruiting. The practical challenges of collecting fresh material from remote high-elevation sites, combined with the modest potency of the species, have limited cultivation interest.
 
 ## Molecular Phylogeny
 
@@ -34,7 +34,7 @@ Field identification of psilocybe pseudoaztecorum is complicated by its small si
 - Small stature with a hygrophanous cap that fades dramatically from brown to nearly white as it dries
 - Adnate gills that are grayish with lilaceous tint when young, darkening with maturity
 - Slender, hollow stipe with fine white fibrillose scales
-- Slow, pale blue bruising that is weaker than in [[psilocybe-aztecorum-entity-the-mushroom-cultivator]]. Microscopic examination, particularly of spore dimensions (6.5–8.5 × 4–5.5 µm) and cheilocystidia morphology (ventricose to lageniform with narrow necks), is necessary for definitive identification.
+- Slow, pale blue bruising that is weaker than in [[psilocybe-aztecorum-entity-the-mushroom-cultivator]]. [[fungal-microscopic-examination-mounting-media-techniques]], particularly of spore dimensions (6.5–8.5 × 4–5.5 µm) and cheilocystidia morphology (ventricose to lageniform with narrow necks), is necessary for definitive identification.
 ## Seasonality
 
 Psilocybe pseudoaztecorum fruits during the rainy season from June through September, with peak fruiting typically in July and August when consistent precipitation maintains high soil moisture in the high-elevation grasslands. The zacatonal grasslands experience significant diurnal temperature variation, with warm days and cool to cold nights during the fruiting season. Frost is possible at the highest elevations where the species occurs, particularly toward the end of the fruiting season in September. The species fruits singly to scattered, rarely in large groups, and individual fruiting bodies are often partially hidden among dense tussock grasses.
@@ -60,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

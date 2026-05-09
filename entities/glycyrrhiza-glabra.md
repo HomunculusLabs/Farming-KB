@@ -132,12 +132,16 @@ daily for most adults).
 - May reduce effectiveness of oral contraceptives and warfarin
 ## Cultivation and Permaculture Relevance
 - Deep taproot improves soil structure and brings subsoil nutrients upward
-- Nitrogen fixation via rhizobial symbiosis improves soil fertility
-- Drought tolerance suits xeriscaping and arid-region food forests
-- Can serve as ground cover or understory crop in food forest systems
+- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] via rhizobial symbiosis improves soil fertility
+- [[dighton-fungal-drought-tolerance-plant-water-relations]] suits xeriscaping and arid-region food forests
+- Can serve as [[fukuoka-citrus-orchard-ground-cover-cultivation]] or understory crop in food forest systems
 - Harvestable roots at 3–4 years; commercial harvest at 4–5 years
-- Intercropping compatible with many fruit and nut trees
+- Intercropping compatible with many fruit and [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]]
 ## See Also
+
+- [[albizia-julibrissin]]
+- [[lomatium-dissectum]]
+- [[mullein]]
 - [[panax-ginseng]]
 - [[schisandra-chinensis]]
 - [[food-forest]]

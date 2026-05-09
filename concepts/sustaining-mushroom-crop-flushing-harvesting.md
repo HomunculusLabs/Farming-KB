@@ -1,23 +1,19 @@
 ---
-title: Sustaining the Mushroom Crop — Flushing, Watering, Harvesting
+title: Sustaining the sustaining mushroom crop flushing harvesting — Flushing, Watering, Harvesting
 created: 2026-04-26
-tags: [[mycology, mushroom-cultivation, harvesting, flushing, stamets]
+tags: [mycology, mushroom-cultivation, harvesting, flushing, stamets]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [raw/papers/the-mushroom-cultivator-stamets.md]
+sources: sources: []
 type: concept
 ---
-
-# Sustaining the Mushroom Crop — Flushing, Watering, Harvesting
-
-Chapter X of The Mushroom Cultivator covers the critical environmental
-factors that determine success once [[mushroom-cultivator-contaminants-identification]] and Bacterial Blotch.
+# Sustaining the Mushroom Crop — Flushing, Watering, Harvesting Chapter X of The Mushroom Cultivator covers the critical environmental factors that determine success once [[mushroom-cultivator-contaminants-identification]] and Bacterial Blotch.
 -   If evaporation is too high (humidity below 85%), mushrooms become
     stunted with cracked, scaly caps.
 -   A dry cropping surface is difficult to recondition.
 
-Reaching a balance between air circulation, fresh air, and
-humidification is "the Art of mushroom culture."
+Reaching a balance between [[stamets-growing-room-air-circulation-co2-management]], fresh air, and
+humidification is "the Art of [[mazatec-mushroom-culture-and-velada]]."
 
 ## Watering Technique
 
@@ -103,4 +99,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

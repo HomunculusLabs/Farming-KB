@@ -81,24 +81,24 @@ Juniperus communis is propagated from seed (requiring 18–24 months of cold str
 
 **Permaculture functions:**
 
-- **Nitrogen fixation:** Juniper species are associated with endophytic and rhizosphere bacteria capable of atmospheric nitrogen fixation, contributing to soil fertility in poor substrates.
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** Juniper species are associated with endophytic and [[lowenfels-rhizosphere-bacteria-plant-interaction]] capable of atmospheric nitrogen fixation, contributing to soil fertility in poor substrates.
 - **Windbreak and shelter:** Dense, low-growing forms provide effective wind protection for crops and livestock in exposed sites. Recommended for the outer perimeter of windbreak systems in cold climates.
 - **Wildlife habitat:** Berries are a critical winter food source for birds (thrushes, waxwings, grouse) and small mammals. The dense branching structure provides nesting sites and thermal cover for ground-nesting birds.
-- **Erosion control:** Extensive lateral root systems stabilize sandy soils, coastal dunes, and steep slopes.
+- **[[permplant-willows-salix-erosion-control-fodder]]:** Extensive lateral root systems stabilize sandy soils, coastal dunes, and steep slopes.
 - **Pioneer species:** Establishes readily on degraded, nutrient-poor, and disturbed land. Creates microclimate conditions favorable to the succession of more demanding species.
 - **Gin production and value-added products:** Commercial juniper berry harvesting supports rural economies in southern Europe, particularly Italy, the Balkans, and Turkey. Berries are also used in sauerkraut, game dishes, and herbal teas.
 
 ## Ethnobotanical and Historical Use
 
-Juniper berries appear in the archaeological record as early as the Neolithic period, with charred berry remains found at Swiss lake dwellings dated to approximately 5000 BCE. The species held deep cultural significance across pre-Christian Europe, where evergreen juniper branches were burned as purification incense in ritual and healing contexts.
+Juniper berries appear in the archaeological record as early as the Neolithic period, with charred berry remains found at Swiss lake dwellings dated to approximately 5000 BCE. The species held deep [[ethnomycology-cultural-significance-sacred-fungi]] across pre-Christian Europe, where evergreen juniper branches were burned as purification incense in ritual and healing contexts.
 
 In classical Greek medicine, Dioscorides prescribed juniper berries in *De Materia Medica* (c. 70 CE) for chest complaints, snakebite, and menstrual disorders. Roman naturalist Pliny the Elder documented their use as a contraceptive and abortifacient.
 
-In medieval European herbalism, juniper berries were a standard remedy for plague, believed to ward off disease through their aromatic fumigant properties. Scottish Highland communities placed juniper branches above doorways during outbreaks of infectious disease.
+In [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] herbalism, juniper berries were a standard remedy for plague, believed to ward off disease through their aromatic fumigant properties. Scottish Highland communities placed juniper branches above doorways during outbreaks of infectious disease.
 
 The use of juniper in alcoholic beverages dates to at least the 11th century in the Low Countries, where genever (the precursor to modern gin) was distilled with juniper berries. Dutch and Flemish distillers produced genever as a medicinal tonic before it evolved into a recreational spirit. The English word "gin" derives from the Dutch *jenever*, itself from juniper.
 
-Among the Sami people of northern Scandinavia, juniper wood and berries have traditionally been used for smoking reindeer meat, tanning leather, and dyeing wool a distinctive yellow-brown color. In the British Isles, juniper berry gin was a domestic cottage industry in rural areas well into the 19th century.
+Among the Sami people of northern Scandinavia, juniper wood and berries have traditionally been used for smoking reindeer meat, tanning leather, and dyeing wool a distinctive yellow-brown color. In the British Isles, juniper berry gin was a domestic [[mollison-designers-cottage-industry-and-home-business]] in rural areas well into the 19th century.
 
 ## Related Species
 
@@ -112,7 +112,9 @@ Several other Juniperus species are of economic or ecological importance:
 
 ## See Also
 
+- [[ricinus-communis]]
+
 - [[morus-alba]] [[rosmarinus-officinalis-entity]]
 [[piper-nigrum-entity]] [[limonene]] [[silybum-marianum]]
 [[vaccinium-myrtillus]]
-vaccinium macrocarpon [[berberis-vulgaris]] [[borago-officinalis]] [[aronia-melanocarpa]] [[elaeagnus-angustifolia]]
+vaccinium macrocarpon [[berberis-vulgaris]] [[borago-officinalis]] aronia-melanocarpa elaeagnus-angustifolia

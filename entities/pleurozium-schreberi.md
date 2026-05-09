@@ -46,7 +46,7 @@ Spore capsules are rare in many populations, suggesting that vegetative reproduc
 
 Vegetative spread occurs through stem fragmentation and the production of specialized branch tips. Broken stem segments dispersed by wind, water, or animal movement readily establish new colonies on suitable substrates.
 
-Growth rates in boreal forests are slow, typically 1–3 cm per year in vertical shoot extension. Annual biomass production reaches approximately 200–400 g dry weight per square meter in optimal boreal forest conditions.
+Growth rates in boreal forests are slow, typically 1–3 cm per year in vertical shoot extension. Annual [[dighton-fungal-biomass-production-aquatic-ecosystems]] reaches approximately 200–400 g dry weight per square meter in optimal boreal forest conditions.
 
 ## Distribution and Habitat
 
@@ -60,15 +60,15 @@ In succession, *P. schreberi* establishes after the initial pioneer moss phase o
 
 ## Ecology and Interactions
 
-*Pleurozium schreberi* plays a central role in boreal forest nutrient cycling. Its dense mats intercept atmospheric nitrogen deposition and contribute significantly to the forest nitrogen budget through direct absorption from rainwater and throughfall.
+*Pleurozium schreberi* plays a central role in boreal forest nutrient cycling. Its dense mats intercept atmospheric [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and contribute significantly to the forest nitrogen budget through direct absorption from rainwater and throughfall.
 
-The species forms a **symbiotic relationship with ericoid mycorrhizal fungi**, including *Rhizoscyphus ericae*. These endophytic fungi within the moss tissue facilitate nutrient exchange and may connect moss mats to the mycorrhizal networks of nearby vascular plants.
+The species forms a **symbiotic relationship with [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] fungi**, including *Rhizoscyphus ericae*. These endophytic fungi within the moss tissue facilitate [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] and may connect moss mats to the [[dighton-mycorrhizal-networks-carbon-transfer]] of nearby vascular plants.
 
 Feathermoss carpets influence soil temperature regimes by insulating the ground surface. In winter, the moss layer reduces soil frost penetration, protecting fine roots of overstory trees from freeze damage.
 
 The species contributes to boreal forest carbon storage. Moss biomass accumulates as partially decomposed organic matter, forming a slowly turning-over carbon pool that persists for decades to centuries.
 
-Excessive atmospheric nitrogen deposition from industrial pollution can alter *P. schreberi* communities. High nitrogen loads favor fast-growing pleurocarpous mosses over slower-growing species, shifting community composition and reducing bryophyte diversity.
+Excessive atmospheric nitrogen deposition from industrial pollution can alter *P. schreberi* communities. High nitrogen loads favor fast-growing pleurocarpous mosses over slower-growing species, shifting [[core-endorhiza-bacterial-community-composition-cannabis]] and reducing bryophyte diversity.
 
 Climate warming poses an emerging threat to feathermoss-dominated boreal forests. Increased temperatures and evapotranspiration may reduce the moisture regimes that sustain extensive *P. schreberi* carpets, potentially favoring vascular plant expansion.
 
@@ -87,7 +87,7 @@ In Scandinavian tradition, the species was used as a wound dressing similar to [
 - [[pteridium-aquilinum]]
 - [[picea-abies]]
 - [[ericoid-mycorrhiza]]
-- [[fungal-biodiversity-forest-floor]]
+- fungal-biodiversity-forest-floor
 - [[cedrus-libani]]
 - [[equisetum-hyemale]]
 - [[osmunda-regalis]]

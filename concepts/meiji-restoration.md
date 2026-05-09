@@ -21,12 +21,12 @@ It was a revolutionary modernization project framed through imperial legitimacy.
 Japan rapidly restructured its government, military, economy, education system, and foreign policy.
 The changes helped transform Japan from a decentralized feudal polity into a centralized nation-state.
 The period also reshaped class relations, religion, identity, and everyday life.
-It stands as one of the most consequential state-building projects of the [[gaias-garden-flowering-tree-desert-restoration-case-study]] in rapid state-led modernization.
+It stands as one of the most consequential state-building projects of the gaias-garden-flowering-tree-desert-restoration-case-study in rapid state-led modernization.
 It shows how elites can use tradition to legitimize radical institutional change.
 Imperial symbolism provided continuity while policy transformed society.
 The Restoration helped Japan avoid formal colonization by Western powers.
 It did so by building military, industrial, and diplomatic capacity.
-Japan became the first non-Western country to industrialize and become a great power in the modern era.
+Japan became the first non-Western country to industrialize and become a great power in the [[mycology-modern-era]].
 This achievement influenced reformers across Asia and beyond.
 Chinese, Korean, Ottoman, and other intellectuals studied Japan's transformation.
 The Restoration also demonstrates the costs of modernization.
@@ -46,7 +46,9 @@ For [[psilocybin-mushroom-legal-history]], it marks Japan's transition toward co
 For global history, it belongs to the age of empire, industrial capitalism, and unequal treaties.
 Its significance lies in both Japan's internal transformation and its changing place in the world.
 
-## Related Concepts
+## Related
+
+- [[bioremediation-ecosystem-restoration]] Concepts
 Closely related topics include tokugawa shogunate, boshin war, and emperor meiji.
 Political themes include nation state, constitutional monarchy, and bureaucratic centralization.
 Economic themes include industrialization, land tax reform, and zaibatsu.
@@ -76,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

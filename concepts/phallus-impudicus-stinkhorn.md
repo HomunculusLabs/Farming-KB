@@ -1,5 +1,5 @@
 ---
-title: Phallus Impudicus (Stinkhorn Fungus)
+title: bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting (Stinkhorn Fungus)
 created: 2026-04-28
 tags:
   - mycology
@@ -17,7 +17,7 @@ type: concept
 # Phallus Impudicus (Stinkhorn Fungus)
 
 *Phallus impudicus*, commonly known as the common stinkhorn or shameless
-penis, is a basidiomycete fungus renowned for its phallic fruiting body
+penis, is a basidiomycete fungus renowned for its phallic [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]
 and foul odor. It belongs to the family Phallaceae within the order
 Phallales. The species has attracted fascination and revulsion for
 centuries, featuring in Pliny the Elder's *Natural History* and John
@@ -30,12 +30,12 @@ suggestive appearance.
 ## Fruiting Body Structure
 
 The stinkhorn begins its development as a white, egg-like structure
-partially buried in soil or leaf litter, connected to the underground
+partially buried in soil or [[dighton-fungal-decomposition-leaf-litter-dynamics]], connected to the underground
 [[phallus-impudicus]]
 
-- [[stinkhorn-fungi-phallus-impudicus-spore-dispersal]]
-- [[stinkhorn-fungi-biology]]
-[[puffball-fungi]]ungi](puffball-fungispore-dispersal-mechanismschanisms](spore-dispersal-mechanmycelium-networklium Network](myceliumfungal-spore-biologyal Spore Biology](fungal-spore-biology.md)
+- [[stinkhorn-fungi-and-insect-spore-dispersal]]
+- stinkhorn-fungi-biology
+ungi](puffball-fungispore-dispersal-mechanismschanisms](spore-dispersal-mechanmycelium-networklium Network](myceliumfungal-spore-biologyal [[fungal-spore-biology-dispersal]](fungal-spore-biology.md)
 
 ## References
 
@@ -60,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +102,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

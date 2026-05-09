@@ -1,5 +1,5 @@
 ---
-title: Swaziland Mushroom Project Lessons
+title: Swaziland chakowa-orphanage-mushroom-project-zimbabwe Lessons
 created: 2026-04-28
 tags:
   - swaziland
@@ -46,9 +46,9 @@ sugarcane mills discovered their waste had value, they stopped giving it away
 and began using it as fuel instead. The center then researched alternatives
 including Bermuda grass hay, mixed Lowveld grasses, and corncobs.
 
-Spent oyster mushroom substrate was also researched for agricultural use.
+Spent oyster [[gourmet-medicinal-mushroom-substrate-preparation]] was also researched for agricultural use.
 Cucumbers, spinach, and eggplant were successfully grown on SMS-fertilized
-fields. Experimental cultivation of shiitake and Ganoderma lucidum was also
+fields. Experimental cultivation of shiitake and [[stamets-reishi-ganoderma-lucidum-cultivation]] was also
 conducted.
 
 ## Village Outcomes
@@ -57,7 +57,7 @@ conducted.
 Farmers established markets at Nhlangano, supplying mushrooms at SZL20/kg
 (USD3.04). They constructed a mushroom center with office, storage, packing,
 and processing rooms. The government provided additional business management
-training. The higher humidity was favorable for mushroom cultivation.
+training. The higher humidity was favorable for [[accessible-mushroom-cultivation-for-disabilities]].
 
 ### Siphofaneni (East) - Challenges
 Farmers faced difficulties from dry climate and lack of clean water access. Eight
@@ -85,7 +85,7 @@ The Swaziland case crystallizes the debate between two approaches:
 
 ### Top-Down (Government-Controlled)
 **Advantages**: More effective when farmers lack mushroom knowledge (common in
-Africa where mushroom culture is limited). Ensures quality control through
+Africa where [[mazatec-mushroom-culture-and-velada]] is limited). Ensures quality control through
 centralized production. Swaziland has adequate extension workers for support.
 The farmer's job (fruiting and harvesting) requires minimal skill.
 
@@ -97,7 +97,7 @@ self-sufficiency. This was the fundamental failure in Swaziland.
 UNDP Swaziland's proposed alternative: educate farmers to perform the entire
 cultivation process themselves. Farmers would research appropriate local
 substrates, learn from each other's experience, and work actively for their own
-poverty alleviation. This approach is used successfully in Uganda. The theory
+[[mushroom-poverty-alleviation-developing-countries]]. This approach is used successfully in Uganda. The theory
 is that educated farmers can solve problems independently.
 
 ### Recommended Hybrid Approach
@@ -117,8 +117,10 @@ infrastructure while building long-term capacity.
 - Invest in durable growing house materials from the start
 - Build farmer capacity for business management alongside cultivation skills
 
-## Related Concepts
+## Related
+
+- [[chakowa-orphanage-mushroom-project-zimbabwe]] Concepts
 
 - [[mushroom-industry-african-countries]]
 - [[oyster-mushroom-spawn-production]]
-- [[oyster-mushroom-substrate-materials-guide]]
+- oyster-mushroom-substrate-materials-guide

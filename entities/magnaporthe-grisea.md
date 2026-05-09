@@ -12,7 +12,7 @@ type: entity
 
 **Type:** Species (Fungus)
 **Category:** Plant Pathogenic Ascomycete
-**Also known as:** Rice blast fungus, Magnaporthe oryzae (current name),
+**Also known as:** [[bloomfield-rice-blast-appressorium-mechanics]] fungus, Magnaporthe oryzae (current name),
   M. grisea (T.T. Hebert) M.E. Barr
 
 ## Overview
@@ -41,7 +41,7 @@ grasses and other cereals.
 ### Infection Mechanism
 - Infects plants through a specialized infection structure called an
   appressorium
-- The appressorium generates enormous turgor pressure (up to 8 MPa)
+- The appressorium generates enormous [[bloomfield-turgor-pressure-and-hyphal-invasion]] (up to 8 MPa)
   to physically breach the plant cuticle
 - Differentiates on the leaf epidermis before penetration
 - Two of three MAP kinase pathways control appressorium development,
@@ -54,10 +54,10 @@ grasses and other cereals.
 
 ## Relevance
 Magnaporthe grisea represents one of the most significant threats to
-global food security among fungal pathogens. As a model organism, it has
+global food security among [[bloomfield-fungal-pathogens-and-parasites]]. As a model organism, it has
 provided fundamental insights into fungal pathogenicity, environmental
 sensing, and genome evolution. Understanding its infection biology informs
-both disease resistance breeding and the development of novel antifungal
+both disease [[cannabis-disease-pest-resistance-breeding-clarke]] and the development of novel antifungal
 strategies in agriculture.
 
 ## See Also
@@ -81,4 +81,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

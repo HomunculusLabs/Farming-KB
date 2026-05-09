@@ -1,5 +1,5 @@
 ---
-title: "Ketamine Realms and Dissociative Consciousness"
+title: "turner ketamine realms dissociative consciousness and Dissociative Consciousness"
 created: 2026-04-28
 tags: [ketamine, dissociative, anesthesia, psychedelic, consciousness]
 date: 2026-04-25
@@ -67,7 +67,7 @@ dimension of time, one experiences backwards and forwards with the
 current moment as the center of intensity.
 
 Turner described feeling like a single atom or point of consciousness
-adrift in a swirling vortex of energies, like a single cell within a
+adrift in a swirling vortex of energies, like a [[fungal-single-cell-protein-production]] within a
 being of galactic proportions. Despite the dissolution of all supports
 of reality, identity, and stability, he experienced no fear, "as if
 the one who would experience fear at losing these things is not a part
@@ -135,6 +135,8 @@ drugs psilocybin and N,N-DMT proved helpful in breaking ketamine
 addiction by providing insights into its negative effects.
 
 ## Related
+
+- [[ketamine-dissociative-pharmacology]]
 
 - [[turner-dmt-hyperspace-and-smoked-tryptamines]]
 - [[leary-psychedelic-experience-bardo-mapping]]

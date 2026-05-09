@@ -1,16 +1,9 @@
 ---
-title: Holzer Raised Bed Techniques (Hugelkultur)
-created: 2026-04-26
-updated: 2026-04-23
-sources:
-  - raw/papers/sepp-holzer-practical-guide.md
-type: concept
-tags: [holzer]
----
 
+---
 # Holzer Raised Bed Techniques (Hugelkultur)
 
-Raised beds are a core element of [[microclimate-creation-permaculture]]s. Holzer's approach diverges significantly from standard raised-bed instructions found in gardening books, emphasising adaptability over rigid templates.
+Raised beds are a core element of microclimate-creation-permacultures. Holzer's approach diverges significantly from standard raised-bed instructions found in gardening books, emphasising adaptability over rigid templates.
 
 ## Key Advantages
 
@@ -39,7 +32,7 @@ Holzer eventually tried making a raised bed without chipped material, instead in
 - **Longevity**: These beds can last ten years or more without major rebuilding, much longer than wood-chip beds.
 - **Better for root vegetables**: Particularly good for growing potatoes and other root vegetables; Holzer has also used them to cultivate cereals and had good results in spruce forests.
 
-This approach is essentially [[holzer-aquaculture-pond-construction]] in the centre)
+This approach is essentially holzer-aquaculture-pond-construction in the centre)
 - Crater gardens (created in Burgenland, where a beneficial humid microclimate develops in summer)
 
 ## Foundation Construction
@@ -54,7 +47,7 @@ When a road, railway line, or factory borders the land, Holzer uses raised beds 
 
 ### Integration with Livestock
 
-From the second year, [[soil-food-web]]. In rainy, windy climates, drainage must be ensured to prevent beds becoming acid. In drier areas, water must be retained -- the land should be designed to keep water rather than drain it away.
+From the second year, soil-food-web. In rainy, windy climates, drainage must be ensured to prevent beds becoming acid. In drier areas, water must be retained -- the land should be designed to keep water rather than drain it away.
 
 ### Sowing Immediately
 
@@ -64,62 +57,8 @@ Newly-built raised beds should be sowed and planted immediately after constructi
 
 After severe storm damage to the spruce monoculture surrounding the Krameterhof in November 2002, Holzer's simple raised-bed method proved invaluable. Large areas of fallen spruce were incorporated into raised beds, and he also built earth shelters for his pigs from the remaining wood. It is always better to use biomass right where it is found rather than removing and burning it.
 ## See Also
-
-- [[holzer-terraced-landscape-design]]
-- [[holzer-livestock-integration-pigs-cattle]]
-- [[sepp-holzer-method]]
-
-## Merged: What Is Hugelkultur and How Do I Build a Bed?
-
-# What Is Hugelkultur and How Do I Build a Bed?
-## Short Answer
-Hugelkultur is a permaculture technique that involves burying logs, branches, and woody debris under a mound of soil to create a raised growing bed. As the wood decomposes, it acts like a sponge, absorbing and slowly releasing water and nutrients to plants. Hugelkultur beds improve drainage, reduce irrigation needs, build soil organic matter, and can remain productive for 10-20 years without additional fertilization.
-## What Is Hugelkultur?
-The [[query-how-do-i-start-a-hugelkultur-bed]]
-- [[query-how-to-build-healthy-garden-soil]]
-
-## Merged: What Is Seed Viability and How Do I Test It?
-
-# What Is Seed Viability and How Do I Test It?
-
-Seed viability refers to a seed's ability to germinate and produce a healthy seedling under favorable conditions. Not all saved or purchased seeds remain viable forever — each species has a characteristic shelf life, and storage conditions dramatically affect how long seeds stay alive. Testing viability before planting saves time, effort, and growing space.
-
----
-
-## Frequently Asked Questions
-
-### What is the difference between seed viability and seed vigor?
-
-**Viability** is a binary measure — can the seed germinate at all? **Vigor** describes how strong, fast, and uniform the resulting seedling is. A seed can be viable (it germinates) but low-vigor (it produces a weak, slow-growing seedling). Both matter, but viability is the baseline you test at home.
-
-### How long do seeds typically remain viable?
-
-Shelf life varies enormously by species when stored under cool, dry conditions:
-
-| Category | Examples | Typical Viability |
-|---|---|---|
-| **Very short (1–2 years)** | Onion, leek, parsnip, corn salad, pepper (some) | 50–70% by year 2 |
-| **Short (2–3 years)** | Pepper, okra, Swiss chard, beans | 50–80% by year 3 |
-| **Medium (3–5 years)** | Tomato, carrot, beet, squash, cucumber | 50–80% by year 4–5 |
-| **Long (5–8 years)** | Lettuce, radish, turnip, peas | 60–90% by year 5 |
-| **Very long (8–15+ years)** | Some brassicas, beans (dry), grains | 50–70% beyond 8 years |
-
-These are rough guidelines. Proper storage can extend all of these significantly.
-
-### What storage conditions maximize seed longevity?
-
-Three factors govern seed lifespan:
-
-- **Temperature:** Seeds store best at cold temperatures. Every 10°F (5.5°C) reduction in storage temperature roughly doubles seed life. Refrigeration (35–40°F / 2–4°C) is good; freezing (0°F / −18°C) is better for dry seeds.
-- **Moisture:** Seeds must be dried to low moisture content (below 8% for most species) before freezing. A simple test: if a seed bends, it's too moist to freeze — it will crack. It should shatter or snap.
-- **Darkness and stability:** Store seeds in airtight, opaque containers (glass jars with desiccant packets work well). Avoid temperature cycling — a steady 40°F is better than fluctuating between 35°F and 70°F.
-
-For long-term storage, use silica gel desiccant packs inside sealed jars kept in a freezer. Let frozen seeds warm to room temperature inside the sealed jar before opening to prevent condensation.
-
-### How do I do a simple paper-towel germination test?
-
-This is the most common home viability test:
-
-1. **Moisten** a paper towel (not dripping wet — wring it out so it's damp).
-2. **Count out** 10 seeds of one variety (10 makes the math easy for percentages).
-3. **Arrange** seeds in a single row, spaced apart, on half the towel.
+- [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]
+- [[query-what-is-the-difference-between-regular-feminized-and-autoflower-seeds]]
+- [[vegetable-storage-conditions-by-temperature-and-humidity]]
+- [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
+- [[query-how-to-store-cannabis-seeds-for-long-term-viability]]

@@ -1,5 +1,5 @@
 ---
-title: "Salvia Divinorum: Propagation and Legal Status"
+title: "golden-guide-salvia-divinorum-and-diviner-sage: Propagation and Legal Status"
 type: concept
 tags:
   - salvia-divinorum
@@ -16,13 +16,13 @@ updated: 2026-05-08
 sources:
   - Halpern JH (2004). "Hallucinogens and Dissociative Agents Growing in the United States." Pharmacology & Therapeutics 102(2): 131-138.
   - Valdes LJ, Diaz J, Paul A (1983). "Ethnopharmacology of Ska Maria Pastora (Salvia divinorum, Epling and Jativa-M.)." Journal of Ethnopharmacology 7: 287-312.
-  - Siebert DJ (1994). "Salvia divinorum and salvinorin A: new pharmacologic findings." Journal of Ethnopharmacology 43: 53-56.
+  - Siebert DJ (1994). "Salvia [[salvia-divinorum-and-salvinorin-a]] A: new pharmacologic findings." Journal of Ethnopharmacology 43: 53-56.
   - Roth BL et al. (2002). "Salvinorin A: a potent naturally occurring nonnitrogenous kappa opioid selective agonist." PNAS 99: 11934-11939.
 ---
 
 ## Overview
 
-Salvia divinorum is a psychoactive plant in the mint family (Lamiaceae) native to the cloud forests of the Sierra Mazateca in Oaxaca, Mexico. It is the only known natural source of salvinorin-A, a neoclerodane diterpene that acts as a potent and selective kappa-opioid receptor agonist, making it pharmacologically unique among naturally occurring hallucinogens.
+[[salvia-divinorum]] is a psychoactive plant in the mint family (Lamiaceae) native to the cloud forests of the Sierra Mazateca in Oaxaca, Mexico. It is the only known natural source of salvinorin-A, a neoclerodane diterpene that acts as a potent and selective kappa-opioid receptor agonist, making it pharmacologically unique among naturally occurring hallucinogens.
 
 The plant has undergone a remarkable transition from an obscure Mazatec shamanic tool to a widely available commercial product in the United States and other countries. Its ease of propagation, coupled with unregulated legal status in many jurisdictions during the 2000s, enabled rapid commercial dissemination through Internet-based companies and smoke shops.
 
@@ -48,7 +48,7 @@ Ironically, while wild populations in Mexico are scarce and threatened, the plan
 
 ## Traditional Mazatec Use
 
-The Mazatec Indians of Oaxaca have used Salvia divinorum for centuries in shamanic and divinatory practices. The plant is known to the Mazatec as "ska Maria Pastora" (leaves of Mary the shepherdess) and is considered one of several psychoactive plants used in their spiritual tradition, alongside psilocybin mushrooms and morning glory seeds.
+The Mazatec Indians of Oaxaca have used Salvia divinorum for centuries in shamanic and divinatory practices. The plant is known to the Mazatec as "ska Maria Pastora" (leaves of Mary the shepherdess) and is considered one of several psychoactive plants used in their spiritual tradition, alongs  ushrooms and [[golden-guide-morning-glory-and-ololiuqui]] seeds.
 
 Traditionally, Salvia divinorum leaves are chewed fresh, with the salvinorin-A absorbed through the oral mucosa. The Mazatec also prepare an infusion by crushing fresh leaves in water, which is consumed as a drink. Both methods produce a less intense but longer-lasting intoxication compared to smoking.
 
@@ -56,13 +56,13 @@ The traditional context of use emphasizes quiet, darkened settings and respectfu
 
 ## Salvinorin-A: Pharmacological Uniqueness
 
-Salvinorin-A is structurally and pharmacologically distinct from other naturally occurring hallucinogens. Unlike the classical hallucinogens (LSD, psilocybin, mescaline) which act primarily as 5-HT2A serotonin receptor agonists, salvinorin-A has no activity at serotonin receptors.
+Salvinorin-A is structurally and pharmacologically distinct from other naturally occurring hallucinogens. Unlike the classical hallucinogens (LSD, psilocybin, mescaline) which act primarily as 5-HT2A [[serotonin]] [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]], salvinorin-A has no activity at serotonin receptors.
 
 Instead, salvinorin-A is the first known naturally occurring non-nitrogenous kappa-opioid receptor (KOR) agonist. It is remarkably potent, with psychoactive effects at doses as low as 200-500 micrograms when smoked, making it comparable in potency to LSD on a weight basis.
 
 The KOR mechanism produces effects qualitatively different from other hallucinogens. Users commonly report loss of physical coordination, profound dissociation, perceived merging with objects or environments, and intense visual and spatial distortions. The experience is typically brief, lasting 5-15 minutes when smoked, which is consistent with the rapid metabolism of salvinorin-A.
 
-Research has shown that salvinorin-A has a very short duration of action at the KOR receptor in vitro, and it is rapidly cleared from the brain in vivo. This pharmacokinetic profile explains the brief but intense experience. The kappa-opioid system is also implicated in dysphoria and psychotomimesis, which may contribute to the frequently unpleasant or overwhelming nature of the Salvia experience for inexperienced users.
+Research has shown that salvinorin-A has a very [[savory-short-duration-grazing-and-cell-systems]] of action at the KOR receptor in vitro, and it is rapidly cleared from the brain in vivo. This pharmacokinetic profile explains the brief but intense experience. The kappa-opioid system is also implicated in dysphoria and psychotomimesis, which may contribute to the frequently unpleasant or overwhelming nature of the Salvia experience for inexperienced users.
 
 Oral consumption of fresh leaves, as practiced by the Mazatec, produces a milder and longer-lasting experience of approximately 30-60 minutes, reflecting the slower absorption of salvinorin-A through the oral mucosa compared to the near-instantaneous delivery achieved by smoking.
 
@@ -96,19 +96,18 @@ Mental health professionals have raised concerns about the potential for Salvia 
 
 ## Coleus and Related Lamiaceae
 
-The possibility that other Lamiaceae species may contain psychoactive compounds is noted in the Halpern review. Coleus blumei and Coleus pumilus, popular ornamental plants prized for their colorful foliage, have been chewed by Mazatec Indians as alternatives to Salvia divinorum, though salvinorin-A has not been detected in Coleus species to date.
+The possibility that other Lamiaceae species may contain psychoactive compounds is noted in the Halpern review. Coleus blumei and [[coleus-blumei-and-coleus-pumilus-potential-psychoactivity]], popular ornamental plants prized for their colorful foliage, have been chewed by Mazatec Indians as alternatives to Salvia divinorum, though salvinorin-A has not been detected in Coleus species to date.
 
 If a Salvia divinorum substitute were discovered among common ornamental Lamiaceae, the legal implications would be significant. These plants are ubiquitous in gardens and homes worldwide, and scheduling a common houseplant would create enforcement challenges similar to those posed by Phalaris grasses and Datura species.
 
 ## See Also
 
-- [[salvinorin-a-pharmacology-non-nitrogenous-opioid-agonist|salvinorin a]]
-- [[maria-sabina-mazatec-mushroom-curandera|mazatec shamanism]]
+- [[salvinorin-a-pharmacology-non-nitrogenous-opioid-agonist]]
+- mazatec [[shamanism]]
 - psychoactive lamiaceae
-- [[emcdda-hallucinogenic-mushroom-internet-shop-market-snapshot-2006|internet psychoactive marketplace]]
+- [[emcdda-hallucinogenic-mushroom-internet-shop-market-snapshot-2006]]
 - [[coleus-blumei]]
 - clonal propagation genetic diversity
 - cloud forest ethnobotany
 - sierra mazateca flora
 - psychoactive plant regulation
-- [[salvinorin-a-pharmacology-non-nitrogenous-opioid-agonist|kappa opioid receptor psychopharmacology]]

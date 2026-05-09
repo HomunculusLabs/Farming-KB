@@ -1,9 +1,9 @@
 ---
-title: Falconer Growing Mushrooms in Sheds
+title: Falconer falconer growing mushrooms in sheds in Sheds
 created: 2026-04-28
 tags:
   [
-    [[mushroom-cultivation]],
+    mushroom-cultivation,
     shed-cultivation,
     victorian-gardening,
     protected-culture,
@@ -36,7 +36,7 @@ beds.
 The temperature of the interior of a mushroom bed
 should be about 60 degrees during the bearing period;
 and the temperature of the surface of the bed 45 to 50
-degrees at least; if lower than that the [[falconer-mushroom-growing-house-design]], so that they may
+degrees at least; if lower than that the falconer-mushroom-growing-house-design, so that they may
 retain their heat for a long time. This is essential
 because shed environments lack the insulating properties
 of underground cellars.
@@ -113,5 +113,11 @@ become most difficult to manage.
 
 Sheds occupy a middle ground between cellars and
 purpose-built mushroom houses. They lack the steady,
-moderate temperatures of [[falconer-growing-mushrooms-in-ridges-outdoors]]
-- [[falconer-growing-mushrooms-in-open-fields]]
+moderate temperatures of falconer-growing-mushrooms-in-ridges-outdoors
+- falconer-growing-mushrooms-in-open-fields
+## See Also
+- [[query-how-to-start-growing-mushrooms-at-home]]
+- [[growing-gourmet-sclerotia-formation-biology-mushrooms]]
+- [[falconer-dwelling-house-mushroom-growing]]
+- [[growing-gourmet-parasitic-mushrooms-forest-blights]]
+- [[falconer-who-should-grow-mushrooms]]

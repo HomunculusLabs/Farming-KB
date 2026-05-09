@@ -18,7 +18,7 @@ sources:
   - Oso B.A. (1977). "Pleurotus tuber-regium (Fr.) Singer — Cultivation on Agricultural Wastes and the Fruiting Body Protein Content." Nigerian Journal of Plant Protection.
   - Okhuoya J.A., Okogun J.I. (1992). "Nutritional Value of Pleurotus tuber-regium (Fr.) Singer." Mushroom Science, 14(2), 405-410.
   - Akindahunsi A.A., Oyetayo F.L. (2006). "Nutritive and Antinutritive Evaluation of Pleurotus tuber-regium Sclerotium." Journal of Food Biochemistry, 30(1), 40-50.
-  - Jonathan S.G., Fasidi I.O. (2001). "Studies on Pleurotus tuber-regium (Fr.) Singer: Cultivation on Sawdust and Biological Efficiency." Mycopathologia, 152(3), 153-157.
+  - Jonathan S.G., Fasidi I.O. (2001). "Studies on Pleurotus tuber-regium (Fr.) Singer: Cultivation on Sawdust and [[stamets-biological-efficiency-yield]]." Mycopathologia, 152(3), 153-157.
   - Zhang M. et al. (2007). "Antitumor Polysaccharides from Mushrooms: A Review on Their Isolation Process, Structural Characteristics and Antitumor Activity." Trends in Food Science & Technology, 18(1), 4-19.
 ---
 
@@ -30,7 +30,7 @@ sources:
 
 The species is native to tropical and subtropical regions of Africa and Asia, where it has been used for centuries as both food and traditional medicine. The sclerotium is the primary part harvested in traditional practice, valued for its nutritional content and purported medicinal properties.
 
-In recent decades, *P. tuber-regium* has attracted research interest for its **immunomodulatory polysaccharides**, particularly β-glucans, which demonstrate anti-tumor and immune-enhancing activities in preclinical studies. It is also investigated as a candidate for **bioremediation** of agricultural waste substrates.
+In recent decades, *P. tuber-regium* has attracted research interest for its **immunomodulatory polysaccharides**, particularly β-glucans, which demonstrate anti-tumor and immune-enhancing activities in preclinical studies. It is also investigated as a candidate for **bioremediation** of agricultural [[tropical-mushroom-cultivation-agricultural-waste-substrates-poverty-alleviation]].
 
 ## Taxonomy
 
@@ -88,13 +88,13 @@ In vitro and animal studies demonstrate several pharmacological activities:
 - **Immunomodulation:** Polysaccharide extracts activate macrophages, enhance natural killer (NK) cell activity, and stimulate cytokine production (TNF-α, IL-2, IFN-γ). The β-glucan fraction is primarily responsible.
 - **Anti-tumor activity:** Polysaccharide extracts inhibit growth of Sarcoma 180 and Ehrlich ascites tumors in murine models, with inhibition rates of 40–60%. Mechanisms include immune-mediated tumor cell lysis rather than direct cytotoxicity.
 - **Antioxidant activity:** Methanolic extracts show DPPH and ABTS radical scavenging activity, attributed to phenolic compounds.
-- **Antimicrobial activity:** Aqueous and ethanolic extracts inhibit *Staphylococcus aureus*, *Escherichia coli*, *Candida albicans*, and *Aspergillus niger* in disc diffusion assays.
+- **Antimicrobial activity:** Aqueous and ethanolic extracts inhibit *Staphylococcus aureus*, *Escherichia coli*, *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*, and *Aspergillus niger* in disc diffusion assays.
 
 Clinical data in humans is limited. Most evidence comes from preclinical studies and traditional use.
 
 ## Cultivation and Applications
 
-*P. tuber-regium* can be cultivated on a wide range of agricultural waste substrates including sawdust (various hardwood species), rice straw, banana leaves, cassava peels, and oil palm fiber. Supplemented sawdust (with rice bran or wheat bran at 10–20%) yields the highest biological efficiency at 40–60%.
+*P. tuber-regium* can be cultivated on a wide range of agricultural waste substrates including sawdust (various hardwood species), rice straw, banana leaves, cassava peels, and oil palm fiber. [[oyster-mushroom-supplemented-sawdust-blocks]] (with rice bran or wheat bran at 10–20%) yields the highest biological efficiency at 40–60%.
 
 Sclerotium production requires specific conditions: temperatures of 25–30°C, high humidity (85–95%), and extended incubation periods of 8–16 weeks. Fruiting occurs after sclerotia are exposed to fresh air and light.
 
@@ -106,7 +106,7 @@ In permaculture and agroforestry contexts, *P. tuber-regium* shows potential as 
 
 The sclerotium is nutritionally dense. Per 100 g dry weight: protein 10–15 g, fat 2–3 g, carbohydrate 50–60 g, dietary fiber 30–40 g, and ash 5–8 g. Essential amino acids constitute ~40% of total protein, with leucine, lysine, and valine particularly abundant.
 
-Mineral content (mg/100 g dry weight): potassium 800–1200, phosphorus 400–600, calcium 80–150, magnesium 100–200, iron 8–15, and zinc 3–6. These values are comparable to or exceed those of common cultivated mushrooms.
+Mineral content (mg/100 g dry weight): potassium 800–1200, phosphorus 400–600, calcium 80–150, magnesium 100–200, iron 8–15, and zinc 3–6. These values are comparable to or exceed those of common [[fungi-cultivated-mushrooms-pathogens-competitors]].
 
 ## See Also
 
@@ -114,6 +114,6 @@ Mineral content (mg/100 g dry weight): potassium 800–1200, phosphorus 400–60
 
 - [[pleurotus-eryngii]] — King oyster mushroom, commercially important congener
 - [[ergosterol]] — Provitamin D2 precursor common in fungal cell membranes
-- [[ganoderma-lucidum]] — Reishi, the most studied medicinal mushroom for immunomodulation
+- [[ganoderma-lucidum]] — Reishi, the most studied [[gourmet-medicinal-mushroom-casing-layer-techniques]] for immunomodulation
 - [[pleurotus-djamor]] — Pink oyster mushroom, tropical relative with similar substrate preferences
 - [[pleurotus-columbinus]]

@@ -1,5 +1,5 @@
 ---
-title: Natural Farming Energy Efficiency and Agricultural Labor
+title: comparison-natural-farming-vs-permaculture fukuoka textdoc energy efficiency agricultural labor and Agricultural Labor
 created: 2026-04-28
 tags:
   - fukuoka
@@ -18,9 +18,9 @@ type: concept
 
 # Natural Farming Energy Efficiency and Agricultural Labor
 
-Fukuoka presented a detailed analysis of the energy efficiency of different farming methods, arguing that natural farming is the most productive form of agriculture when measured by the ratio of food energy produced to human labor energy invested.
+Fukuoka presented a detailed analysis of the energy efficiency of different [[natural-farming-methods-comparison]], arguing that natural farming is the most productive form of agriculture when measured by the ratio of food energy produced to human labor energy invested.
 
-His analysis challenged the conventional assumption that mechanization and scientific agriculture increase efficiency, demonstrating instead that they represent an exponential increase in energy waste and the progressive alienation of the farmer from the land.
+His analysis challenged the conventional assumption that mechanization and [[fukuoka-critique-scientific-agriculture-civilization]] increase efficiency, demonstrating instead that they represent an exponential increase in energy waste and the progressive alienation of the farmer from the land.
 
 ## The Five-Method Energy Comparison
 
@@ -62,7 +62,7 @@ The farmer who once worked directly with nature was transformed into an operator
 
 ## The Livestock Energy Trap
 
-Fukuoka extended his analysis to livestock farming, which he described as fundamentally flawed in terms of caloric efficiency.
+Fukuoka extended his analysis to [[fukuoka-textdoc-natural-livestock-farming-open-grazing]], which he described as fundamentally flawed in terms of caloric efficiency.
 
 Someone must work at least twice as hard to eat eggs and milk rather than grains and vegetables.
 
@@ -92,7 +92,7 @@ Contrary to the claim that mechanization has increased the efficiency of work, F
 
 "All they have done is exchange their work in the fields for a job in some company; they have traded the joy of working outdoors in the open fields for dreary hours of labor shut up inside a factory."
 
-He described machinery as "the largest domestic animal of all — a great guzzler of oil, a consumer good rather than a capital good."
+He described machinery as "the largest [[mollison-designers-domestic-animal-integration-design]] of all — a great guzzler of oil, a consumer good rather than a capital good."
 
 At first glance, mechanized agriculture appears to increase productivity per worker and thus raise income.
 
@@ -137,6 +137,8 @@ A quarter-acre of land is enough to supply the food needed for supporting a fami
 He pointed out that farmers of the past grew a hundred crops — rice, barley, sweet potatoes, vegetables, fruits, and kept livestock — all on small acreages.
 
 ## See Also
+
+- [[fukuoka-textdoc-postwar-farm-labor-appropriated-urban-prosperity]]
 
 - [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]
 - [[fukuoka-textdoc-japanese-bantam-leghorn-calorie-efficiency-chicken]]

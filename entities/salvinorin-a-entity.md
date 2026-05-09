@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-**Salvinorin A** (systematic name: (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(furan-3-yl)-6a,10b-dimethyl-4,10-dioxododecahydro-1H-benzo[f]isochromene-7-carboxylic acid methyl ester) is a neoclerodane-type diterpene and the principal psychoactive compound in *Salvia divinorum*, a mint family (Lamiaceae) plant endemic to the Sierra Mazateca of Oaxaca, Mexico. It is the most potent naturally occurring psychedelic compound known, with effective doses in the 200–500 µg range when vaporized. Unlike most psychedelics, salvinorin A is not a tryptamine or phenethylamine and does not act on serotonin receptors — instead, it is a highly selective agonist at the kappa-opioid receptor (KOR).
+**Salvinorin A** (systematic name: (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(furan-3-yl)-6a,10b-dimethyl-4,10-dioxododecahydro-1H-benzo[f]isochromene-7-carboxylic acid methyl ester) is a neoclerodane-type diterpene and the principal psychoactive compound in *[[golden-guide-salvia-divinorum-and-diviner-sage]]*, a mint family (Lamiaceae) plant endemic to the Sierra Mazateca of Oaxaca, Mexico. It is the most potent naturally occurring psychedelic compound known, with effective doses in the 200–500 µg range when vaporized. Unlike most psychedelics, salvinorin A is not a tryptamine or phenethylamine and does not act on serotonin receptors — instead, it is a highly selective agonist at the kappa-opioid receptor (KOR).
 
 ## Chemical Identity
 
@@ -66,7 +66,7 @@ Salvinorin A binds to KOR with remarkable potency and selectivity. KOR activatio
 - **Dose-dependent spectrum:**
   - **Light (200–500 µg):** Mild perceptual changes, laughter, altered spatial perception
   - **Moderate (500 µg–1 mg):** Significant dissociation, vivid closed-eye imagery, altered sense of self, synesthesia-like experiences
-  - **Strong (1–2 mg+):** Complete dissociation from consensus reality, experiences of merging with objects or environments, ego dissolution, experiences of "other dimensions" or entities; amnesia for the experience is common
+  - **Strong (1–2 mg+):** Complete dissociation from consensus reality, experiences of merging with objects or environments, [[psilocybin-ego-dissolution-mechanisms]], experiences of "other dimensions" or entities; amnesia for the experience is common
 - **Reversal:** Effects can be partially or fully attenuated by KOR antagonists such as naltrexone
 
 ## Natural Source

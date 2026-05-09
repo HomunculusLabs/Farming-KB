@@ -1,5 +1,5 @@
 ---
-title: "Syrian Rue (Plants of the Gods)"
+title: "golden-guide-syrian-rue-and-maoi-plants (Plants of the Gods)"
 created: 2026-04-28
 tags: [ethnobotany, psychoactive-plants, traditional-use, entheogen, plants-of-the-gods]
 date: 2026-04-28
@@ -18,7 +18,7 @@ peoples of Persia and India.
 
 ## Botanical Description
 
-Peganum harmala L. belongs to the Zygophyllaceae (Caltrop Family). The
+[[mckenna-food-gods-peganum-harmala-soma]] L. belongs to the Zygophyllaceae (Caltrop Family). The
 Syrian Rue is an herb native to desert areas, a bushy shrub attaining a
 height of 3 ft (1 m). The leaves are cut into narrowly linear segments,
 and the small white flowers occur in the axils of branches. The globose,
@@ -65,7 +65,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +107,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

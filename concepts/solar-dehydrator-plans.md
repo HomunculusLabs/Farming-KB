@@ -1,10 +1,11 @@
 ---
-title: Solar Dehydrator Plans
+title: comparison-solar-dehydrator-vs-electric-dehydrator Plans
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, equipment, drying, preservation, design, engineering]
-sources: []
+sources:
+  sources: []
 ---
 
 # Solar Dehydrator Plans
@@ -19,9 +20,9 @@ Solar dehydrators work on two fundamental principles:
 2. **Convection** — warm air rises, creating a natural draft that pulls cool air in at the bottom, passes it over the heated absorber plate, and exhausts warm moist air out the top
 
 The key design variables are:
-- **Collector area** — determines how much solar energy is captured. Larger area = higher temperatures and faster drying.
+- **Collector area** — determines how much [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] is captured. Larger area = higher temperatures and faster drying.
 - **Airflow path** — must be smooth and unrestricted. Any bottleneck reduces performance.
-- **Insulation** — reduces heat loss, especially on cloudy days and in cool climates.
+- **Insulation** — reduces heat loss, especially on cloudy days and in [[greenhouse-cool-climates-mollison]].
 - **Vents** — inlet at the bottom (cool air), outlet at the top (warm moist air). Adjustable vents allow temperature control.
 
 ## The Indirect Solar Dehydrator (Recommended Design)
@@ -53,7 +54,7 @@ The indirect design separates the solar collector from the drying chamber. Sun h
 
 ### Orientation
 
-- Face the collector toward true south (Northern Hemisphere) or true north (Southern Hemisphere)
+- Face the collector toward true south (Northern Hemisphere) or true north ([[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]])
 - Tilt angle: approximately your latitude for year-round use. For summer-only use, tilt at latitude minus 10-15 degrees.
 - Avoid shading from trees, buildings, or other structures
 
@@ -63,7 +64,7 @@ The indirect design separates the solar collector from the drying chamber. Sun h
 - **Medium (2x4 ft collector)** — processes 8-12 trays, handles family-scale preservation. Most practical size.
 - **Large (4x8 ft collector)** — processes 15-20+ trays, suitable for market growers or large families preserving in bulk.
 
-Rule of thumb: you need approximately 1 square foot of collector area per square foot of tray area for adequate performance.
+Rule of thumb: you need approximately 1 [[comparison-biointensive-vs-square-foot-gardening]] of collector area per square foot of tray area for adequate performance.
 
 ## Temperature Control
 

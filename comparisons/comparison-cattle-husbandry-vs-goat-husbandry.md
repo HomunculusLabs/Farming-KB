@@ -1,5 +1,5 @@
 ---
-title: "Cattle Husbandry vs Goat Husbandry"
+title: "comparison cattle husbandry vs goat husbandry vs comparison-goat-husbandry-vs-sheep-husbandry"
 created: 2026-04-28
 tags: [comparison, livestock, homesteading, animal-husbandry, pasture]
 date: 2026-04-25
@@ -18,7 +18,7 @@ management. Cattle are the largest and most land-intensive animals commonly rais
 homestead, producing substantial quantities of meat and milk per individual animal. Goats are
 smaller, more versatile, and far better suited to smaller properties with varied terrain.
 
-Both species are ruminants and can thrive in rotational grazing systems. Running them together
+Both species are ruminants and can thrive in [[comparison-rotational-grazing-vs-continuous-grazing]] systems. Running them together
 on the same pasture offers significant parasite reduction benefits through multi-species
 grazing, since each species hosts different internal parasites. The right choice depends
 entirely on your available acreage, production goals, budget constraints, and how much
@@ -110,6 +110,8 @@ contain goats will also be more than adequate for cattle, so build to the goat s
 both species will be secure.
 
 ## See Also
+
+- [[comparison-goat-husbandry-vs-sheep-husbandry]]
 
 - [[goat-husbandry]]
 - rotational grazing

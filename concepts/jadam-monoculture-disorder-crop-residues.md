@@ -1,5 +1,5 @@
 ---
-title: JADAM Monoculture Disorder and Crop Residues
+title: JADAM jadam monoculture disorder crop residues and Crop Residues
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -32,11 +32,11 @@ Human monoculture does the exact opposite: we remove the fruits AND all the resi
 JADAM's position is revolutionary: crop residues are the perfect fertilizer for the next generation of that same crop. The reasoning:
 
 - Crop residues contain the exact nutrient profile that the crop needs, because they were produced by that crop from the same soil
-- The nutritional balance in crop residues matches what the crop requires for optimal growth
+- The [[jadam-nutritional-balance-fertilizer]] in crop residues matches what the crop requires for optimal growth
 - Returning residues completes the natural nutrient cycle
 - If you want "optimum fertility" for a crop, give it back what it produced
 
-JADAM contrasts this with common organic fertilizers like rice bran, perilla seed pulp, and press cakes -- all of which are byproducts (the "peels" and "husks" of agricultural processing). These are nutritionally imbalanced because they represent only part of the plant. Crop residues, by contrast, represent the whole above-ground biomass with complete nutrient balance.
+JADAM contrasts this with common [[hamilton-organic-fertilizers-and-plant-nutrition]] like rice bran, perilla seed pulp, and press cakes -- all of which are byproducts (the "peels" and "husks" of agricultural processing). These are nutritionally imbalanced because they represent only part of the plant. Crop residues, by contrast, represent the whole above-ground biomass with complete nutrient balance.
 
 ## The Disease Argument Against Residues -- Debunked
 
@@ -51,14 +51,14 @@ One spore of powdery mildew can produce 1 billion spores in 10 hours. These orga
 
 ## Why Crop Rotation is Unnecessary
 
-JADAM supports organic farming but explicitly opposes crop rotation on these grounds:
+JADAM supports [[coleman-deep-organic-farming-philosophy]] but explicitly opposes crop rotation on these grounds:
 
 1. Crop rotation does not exist in nature -- it is an artificial construct
 2. It was invented to compensate for the error of removing crop residues
 3. It is a band-aid solution that does not address root causes
 4. It adds complexity and cost to farming operations
 5. It forces farmers to grow crops they may not want to grow
-6. True natural farming thrives with repeated cultivation of a single variety
+6. True [[comparison-natural-farming-vs-permaculture]] thrives with repeated cultivation of a single variety
 
 JADAM's website contains numerous case studies of farmers successfully growing the same crop on the same land for decades using JADAM methods, without rotation, while maintaining high yields and soil health.
 
@@ -84,6 +84,6 @@ To overcome monoculture disorder in JADAM farming:
 
 JADAM highlights a critical irony: humans eat only the fruit and discard the peel, while modern organic farming applies only the peel (rice bran, press cake, husks) as fertilizer. Both are imbalanced. The solution for human health is to eat whole foods with skins. The solution for soil health is to return whole crop residues -- the complete above-ground biomass -- to the soil.
 
-Creating a nutrient imbalance through unbalanced fertilizer application is itself a form of soil contamination. It leads to increased disease incidence just as surely as chemical contamination does.
+Creating a nutrient imbalance through unbalanced [[cervantes-fertilizer-application-strain-feeding]] is itself a form of soil contamination. It leads to increased disease incidence just as surely as chemical contamination does.
 - [[nutrient-movement-through-soil-to-plant-roots]]
 - [[cover-crops-soil-health]]

@@ -14,7 +14,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Staff (2020). "Runtz: A Complete Guide to the Runtz Cannabis Strain." Leafly.
+  - Leafly Staff (2020). "Runtz: A Complete Guide to the Runtz blesching-cannabis-strain-selection-receptor-targeting." Leafly.
   - AllBud (2021). "Runtz Strain Information." AllBud.com.
   - Zamnesia (2022). "The Runtz Family Tree: A Guide to the Most Popular Runtz Phenotypes." Zamnesia Blog.
   - Cookies Fam (2020). Official strain information, Cookies brand catalog.
@@ -24,7 +24,7 @@ sources:
 
 Runtz is an elite, evenly balanced hybrid cannabis strain bred by Cookies Fam (Bernie F. and the Cookies team) from a cross of **Zkittlez × Gelato**. Released circa 2017–2018, it rapidly became one of the most sought-after strains in the global cannabis market, particularly in California's licensed dispensary scene.
 
-The strain's name derives from its signature candy-sweet aroma and flavor, reminiscent of the Runtz confectionery. Its rise coincided with the "exotic" or "designer" cannabis movement, where premium branding, striking bag appeal, and dessert-like terpene profiles drove collector demand.
+The strain's name derives from its signature candy-sweet aroma and flavor, reminiscent of the Runtz confectionery. Its rise coincided with the "exotic" or "designer" cannabis movement, where premium branding, striking bag appeal, and dessert-like [[cannabis-terpene-profiles-sativa]] drove collector demand.
 
 Runtz is the progenitor of a vast family of named phenotypes and crosses, including White Runtz, Pink Runtz, Runtz OG, and numerous proprietary selections. Its genetic stability is considered moderate — significant phenotypic variation between seeds is common, which has contributed to the proliferation of distinct "cuts."
 
@@ -70,7 +70,7 @@ The myrcene and limonene combination drives the strain's signature tropical frui
 - **Duration:** 2–3 hours
 - **Primary effects:** Euphoric, uplifting cerebral rush transitioning to full-body relaxation
 - **Body effects:** Warm, tingling body high, moderate couch-lock potential at higher doses
-- **Medical applications:** Stress relief, anxiety reduction, mild depression, chronic pain, appetite stimulation, insomnia (higher doses)
+- **Medical applications:** Stress relief, anxiety reduction, mild depression, [[cannabis-chronic-pain-management]], appetite stimulation, insomnia (higher doses)
 - **Side effects:** Dry mouth, dry eyes, dizziness (high doses), potential anxiety in sensitive users (high-THC batches), paranoia (rare)
 
 Runtz is characterized by a **biphasic effect pattern**: initial sativa-like cerebral euphoria and creative energy in the first 30–60 minutes, followed by a gradual transition to indica-dominant body relaxation. This makes it versatile for both daytime and evening use depending on dose.
@@ -88,7 +88,7 @@ The strain's potency (23–29% THC) means novice consumers should approach with 
 - **Nutrient needs:** Moderate to heavy feeder; responds well to cal-mag supplementation
 - **Training:** LST (low-stress training), SCROG, and topping recommended to maximize yield from medium-height plants
 
-The strain's dense, resinous buds make it popular for concentrate production. Hash yields from Runtz are typically above average due to the heavy trichome coverage. The plants produce a strong, sweet aroma during flowering that may require odor control in indoor grows.
+The strain's dense, resinous buds make it popular for concentrate production. Hash yields from Runtz are typically above average due to the heavy trichome coverage. The plants produce a strong, sweet aroma during flowering that may require [[cannabis-odor-control-and-carbon-filters]] in indoor grows.
 
 Different phenotypes show significant variation in bud structure, color expression, and yield. The most commercially desirable phenotypes display the deepest purple coloration and highest terpene production.
 
@@ -110,8 +110,8 @@ Different phenotypes show significant variation in bud structure, color expressi
 
 ## See Also
 
-- [[gelato-cannabis]] — Direct parent of Runtz, itself a cross of Sunset Sherbet and Thin Mint
+- [[gelato]] — Direct parent of Runtz, itself a cross of Sunset Sherbet and Thin Mint
 - [[zookies-cannabis]] — Cross of Animal Cookies × Gorilla Glue #4, a related Cookies-family strain
-- [[white-runtz]] — The most sought-after Runtz phenotype selection
+- [[white-runtz]] — The most sought-after Runtz [[vic-high-cannabis-phenotype-selection-criteria]]
 - [[cereal-milk]] — Cookies-family strain with complementary sweet breakfast-cereal terpene profile
 - [[myrcene]] — Dominant terpene in Runtz, responsible for sedative and relaxing properties

@@ -1,17 +1,15 @@
 ---
-title: "Comparison Beekeeping Basics Vs Top Bar Hive"
+title: "Comparison comparison beekeeping basics vs top bar hive Vs comparison-top-bar-hive-vs-warre-hive Hive"
 created: 2026-05-02
 updated: 2026-05-02
 type: comparison
-tags: [[homesteading]
-sources: []
----
----
-title: "Beekeeping vs Top Bar Hives"
-tags: [comparison, beekeeping, livestock, [[homesteading]]
+tags: [homesteading]
+sources:
+  sources: []
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Beekeeping vs Top Bar Hives
@@ -21,11 +19,11 @@ Top bar hives represent one of several hive system options within the
 broader practice of beekeeping, but the comparison between "beekeeping"
 and top bar hives highlights a philosophical divide in apiculture.
 Conventional beekeeping, built around the Langstroth hive system,
-prioritizes honey production, standardized equipment, and efficient
+prioritizes [[mollison-designers-beekeeping-honey-production-permaculture]], standardized equipment, and efficient
 colony management. Top bar hive beekeeping embraces a more natural
 approach that allows bees to build comb freely, eliminates plastic
 foundation, and reduces heavy lifting. This comparison examines the
-natural beekeeping philosophy embodied by top bar hives against the
+[[comparison-natural-beekeeping-vs-standard-beekeeping]] philosophy embodied by top bar hives against the
 conventional Langstroth-based approach.
 
 ## Beekeeping (Conventional Langstroth Approach)

@@ -26,13 +26,13 @@ sources:
 ## Overview
 
 **Amanita velosa**, known as the springtime amanita, veiled
-amanita, or California apricot amanita, is an edible mushroom
-species native to the western United States, primarily California.
+amanita, or California apricot amanita, is an [[bloomfield-boletus-satanus-edible-mushroom-hazards]]
+species native to the western [[dmt-containing-plants-united-states-halpern]], primarily California.
 It fruits in spring, typically from March through May, coinciding
 with the end of the rainy season.
 
 *Amanita velosa* is considered one of the choice edible amanitas
-of western North America. Despite belonging to the genus *Amanita*
+of western [[psilocybin-north-america-pacific-northwest]]. Despite belonging to the genus *Amanita*
 — which includes deadly species like *A. phalloides* and
 *A. virosa* — *A. velosa* is distinctive in appearance and
 reliably identifiable when key features are observed.
@@ -76,7 +76,7 @@ to cream, often collapsing with age.
 slightly farinaceous.
 
 **Spores:** 8–11 × 6–8 μm, broadly elliptical, smooth,
-non-amyloid. Spore print: white.
+non-amyloid. [[comparison-spore-print-collection-vs-spore-syringe-production]]: white.
 
 **Chemical reactions:** KOH on cap surface: negative (no color
 change). Spores: inamyloid.
@@ -106,7 +106,7 @@ in years with adequate winter and spring rainfall.
 *Amanita velosa* is widely regarded as an excellent edible
 mushroom with a firm texture and mild, nutty flavor. It is
 considered by many California foragers to be among the best
-wild mushrooms of the Pacific Coast.
+[[edible-wild-mushrooms-by-region]] of the Pacific Coast.
 
 It can be sautéed, grilled, used in risottos, or dried for
 long-term storage. The texture holds up well to cooking,
@@ -129,7 +129,7 @@ The primary identification risk involves confusion with other
   fruits in autumn, has a greenish-yellow to olive cap, and
   has a cup-like volva (not a saccate volva buried in soil).
   The two species rarely overlap in season or habitat.
-- **vs. *Amanita ocreata* (destroying angel):** *A. ocreata*
+- **vs. *Amanita ocreata* ([[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]):** *A. ocreata*
   also fruits in spring in California but has a pure white
   cap, white volva, and lacks the characteristic apricot
   coloration of *A. velosa*. This is the most dangerous

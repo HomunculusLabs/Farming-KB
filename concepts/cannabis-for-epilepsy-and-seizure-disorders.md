@@ -1,11 +1,11 @@
 ---
-title: Cannabis for Epilepsy and Seizure Disorders
+title: Cannabis for cannabis for epilepsy and seizure disorders Disorders
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
 ---
 # Cannabis for Epilepsy and Seizure Disorders
 
@@ -81,7 +81,7 @@ fully.
 CBD dosing for epilepsy has evolved considerably as clinical experience has
 grown. In the Epidiolex trials, patients received doses of 10 mg/kg/day or 20
 mg/kg/day, with the higher dose generally producing greater seizure reduction
-but also more side effects. The most common adverse effects included
+but also more side effects. The most common [[blesching-cannabis-safety-adverse-effects-evidence]] included
 somnolence, decreased appetite, diarrhea, elevated liver enzymes, and fatigue.
 Notably, CBD interacts with several antiepileptic drugs through the cytochrome
 P450 enzyme system, particularly CYP3A4 and CYP2C19, which can increase blood
@@ -89,3 +89,8 @@ levels of drugs like clobazam, valproate, and
 stiripentol.
 
 The pharmacokinetics of CBD are complex. Oral bioavailability is
+
+## See Also
+
+- [[cannabis-for-aging-and-anti-aging]]
+- [[cannabis-for-leukemia-and-lymphoma]]

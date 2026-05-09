@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Höld, K.M. et al. (2000). \"Three major terpenoids in extracts of Salvia divinorum.\" Journal of Ethnopharmacology, 73(1-2), 49-52."
+  - "Höld, K.M. et al. (2000). \"Three major terpenoids in extracts of golden-guide-salvia-divinorum-and-diviner-sage.\" Journal of Ethnopharmacology, 73(1-2), 49-52."
   - "Leth, P.M. & Gregersen, M. (2005). \"Absinthe.\" Forensic Science International, 155(1), 1-8."
   - "Pelchat, M.L. et al. (2004). \"Thujone: Absinthe and the GABA receptor.\" Journal of Natural Products, 67(1), 54-57."
   - "Meschler, J.P. & Howlett, A.C. (1999). \"Thujone exhibits low affinity for cannabinoid receptors.\" Pharmacology Biochemistry and Behavior, 62(3), 473-478."
@@ -51,7 +51,7 @@ Alpha-thujone is typically the dominant isomer in *Artemisia absinthium*
 - *Artemisia absinthium* (wormwood) — 0.2–1.5% volatile oil, thujone
   is the primary component
 - *Thuja occidentalis* (northern white cedar) — particularly in
-  the foliage and essential oil
+  the foliage and [[permaculture-designers-manual-essential-oil-plants]]
 - *Thuja plicata* (western red cedar)
 - *Salvia officinalis* (common sage) — significant thujone content
   in the essential oil
@@ -89,7 +89,7 @@ Food established 0.11 mg/kg body weight/day for alpha-thujone.
 **Regulatory limits:**
 - EU: Maximum 35 mg/kg in food and beverages containing wormwood
 - FDA: Thujone-containing products classified as "unsafe for food"
-  in the United States (with specific exemptions for absinthe at
+  in the [[dmt-containing-plants-united-states-halpern]] (with specific exemptions for absinthe at
   <10 ppm thujone)
 - Absinthe sold in the EU: maximum 35 mg/kg thujone
 - Absinthe sold in the US: maximum 10 mg/kg thujone
@@ -101,7 +101,7 @@ the alleged toxic agent in absinthe. The "absinthism" syndrome —
 hallucinations, convulsions, psychosis — was attributed to thujone
 and led to absinthe bans across Europe and the United States.
 
-Modern chemical analysis of surviving pre-ban absinthe samples has
+Modern [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of surviving pre-ban absinthe samples has
 shown that authentic absinthe contained far less thujone than
 historically claimed (typically 5–30 mg/L, well below toxic levels).
 The "absinthism" syndrome is now attributed primarily to chronic

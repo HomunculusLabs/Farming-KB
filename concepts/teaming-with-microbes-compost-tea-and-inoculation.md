@@ -1,5 +1,5 @@
 ---
-title: Compost Tea and Soil Inoculation - Teaming with Microbes
+title: comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide and Soil Inoculation - Teaming with Microbes
 created: 2026-04-21
 updated: 2026-05-01
 type: concept
@@ -10,12 +10,12 @@ sources:
 
 # Compost Tea and Soil Inoculation
 
-Actively aerated compost tea (AACT) is the third tool in the soil food web gardener's shed -- it puts the microbiology back into soils. It overcomes practical limitations of compost and mulches by delivering biology directly where it's needed.
+Actively [[actively-aerated-compost-tea]] tea (AACT) is the third tool in the soil food web gardener's shed -- it puts the microbiology back into soils. It overcomes practical limitations of compost and mulches by delivering biology directly where it's needed.
 
 ## Why Compost Tea?
 
 There are practical problems with compost and mulches:
-- Turning a compost pile takes effort
+- Turning a [[mushroom-cultivator-compost-pile-management]] takes effort
 - Carting compost and mulches around and applying them is hard work for large gardens
 - Compost and mulch take a while to reach the rhizosphere
 - Neither mulch nor compost sticks to leaves
@@ -63,14 +63,14 @@ Any plants showing signs of disease or stress should be immediately sprayed with
 
 ## Timing
 
-Applications are most critical in the first year after stopping chemical fertilizers. Once the soil food web is established:
+Applications are most critical in the first year after stopping [[cervantes-chemical-fertilizers-guide]]. Once the soil food web is established:
 - Lawns: spring and autumn applications
 - Trees and shrubs: spring application before leaf-out, then once after leaves appear
 - Vegetable gardens: spray bacterially dominated tea after soil thaws
 
 ## Making Actively Aerated Compost Tea
 
-The basic AACT recipe requires high-quality aerobic compost (the source of beneficial organisms), dechlorinated water, a food source for the microbes, and continuous aeration. A simple aquarium air pump with air stones provides sufficient oxygenation for small batches. The tea must be brewed for 24-36 hours at room temperature. Bacterial foods include molasses, kelp, and fish hydrolysate, while fungal foods include humic acids, fish hydrolysate, and small amounts of oatmeal or rock dust. The tea should be used within 4-6 hours of brewing, as the microbial populations begin to decline rapidly once aeration stops. Never use compost tea that smells foul or putrid -- this indicates anaerobic conditions and potentially pathogenic organisms.
+The basic AACT recipe requires high-quality [[ingham-anaerobic-vs-aerobic-compost-tea]] (the source of beneficial organisms), dechlorinated water, a food source for the microbes, and continuous aeration. A simple aquarium air pump with air stones provides sufficient oxygenation for small batches. The tea must be brewed for 24-36 hours at room temperature. Bacterial foods include molasses, kelp, and [[comparison-fish-hydrolysate-vs-fish-emulsion]], while fungal foods include humic acids, fish hydrolysate, and small amounts of oatmeal or rock dust. The tea should be used within 4-6 hours of brewing, as the microbial populations begin to decline rapidly once aeration stops. Never use compost tea that smells foul or putrid -- this indicates anaerobic conditions and potentially pathogenic organisms.
 
 ## Monitoring Tea Quality
 

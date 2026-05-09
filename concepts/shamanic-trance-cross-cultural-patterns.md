@@ -19,19 +19,19 @@ Predatory animals — especially jaguars, snakes, and birds of prey — appear w
 
 ## Contact with Deities and Spirits
 
-Shamanic trance universally involves direct, first-person contact with supernatural beings. In the [[mazatec-mushrooms-of-language]] describes the shamaness invoking Christ, Saint Peter, and the Lord of the World during mushroom ceremonies.
+Shamanic trance universally involves direct, first-person contact with supernatural beings. In the [[mazatec-mushrooms-of-language]] describes the shamaness invoking Christ, Saint Peter, and the Lord of the World during [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]].
 
-In Siberian traditions, shamans negotiate with spirit masters of the animals; in Australian Aboriginal culture, the shaman communicates with ancestor spirits along the Dreaming tracks. The Greek Eleusinian Mysteries, as proposed in [[urban-ayahuasca-iquitos-healing]] healers of Iquitos determine both the supernatural cause of illness and the identity of the bewitcher.
+In Siberian traditions, shamans negotiate with spirit masters of the animals; in Australian Aboriginal culture, the shaman communicates with ancestor spirits along the Dreaming tracks. The Greek [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]], as proposed in [[urban-ayahuasca-iquitos-healing]] healers of Iquitos determine both the supernatural cause of illness and the identity of the bewitcher.
 
 ## The Healer as Integrator
 
 The shaman's therapeutic function operates through several universal mechanisms. Doctrinal compliance provides a meaningful narrative framework for suffering, as observed in both the Amazonian and Mesoamerican contexts. Abreaction allows the release of repressed emotional material within a culturally sanctioned setting. The heightened suggestibility of the trance state amplifies the healer's words and actions.
 
-The Mazatec shaman defines his function as "he who puts together" — an integrator who resolves the divided personality through the ecstatic experience. This mirrors the psychotherapeutic concept of integration found in modern psychedelic therapy, and the [[fly-agaric-siberian-shamanic-practice]], the drumbeat itself is said to be seen as well as heard, and the shaman's singing produces visible patterns. The Conibo-Shipibo of Amazonia, under the influence of ayahuasca, experience the icaros (healing songs) as geometric designs — a tradition that has given rise to the distinctive Shipibo visionary art tradition.
+The Mazatec shaman defines his function as "he who puts together" — an integrator who resolves the divided personality through the ecstatic experience. This mirrors the psychotherapeutic concept of integration found in modern [[metzner-psycholytic-psychedelic-therapy-models]], and the [[fly-agaric-siberian-shamanic-practice]], the drumbeat itself is said to be seen as well as heard, and the shaman's singing produces visible patterns. The Conibo-Shipibo of Amazonia, under the influence of ayahuasca, experience the icaros (healing songs) as geometric designs — a tradition that has given rise to the distinctive Shipibo visionary art tradition.
 
 ## Music and Darkness
 
-The ritual use of music (drumming, chanting, rattling) and darkness as elements of "set and setting" appears universally. The Mazatec velada takes place in a darkened room with copal incense. The Siberian shaman drums in darkness. The Eleusinian telesterion was a windowless hall where initiates waited in darkness for the sudden appearance of light. The [[shamanic-use-of-psychedelics]]
+The ritual use of music (drumming, chanting, rattling) and darkness as elements of "[[lsd-set-and-setting-framework]]" appears universally. The Mazatec velada takes place in a darkened room with copal incense. The Siberian shaman drums in darkness. The Eleusinian telesterion was a windowless hall where initiates waited in darkness for the sudden appearance of light. The [[shamanic-use-of-psychedelics]]
 [[yage-cross-cultural-experience]]
 [[fly-agaric-siberian-shamanic-practice]]
 [[mazatec-mushrooms-of-language]]
@@ -44,7 +44,7 @@ The recognition of cross-cultural patterns in shamanic trance has deep roots in 
 
 The universality of these patterns has been a subject of ongoing debate. Some scholars argue that the recurring themes reflect innate structures of the human psyche — a position with affinities to Carl Jung's theory of archetypes. Others emphasize the role of pharmacological properties in shaping the experience, pointing to the [[hofmann-lsd-psychiatric-research]], routinely report experiences of ego dissolution, encounters with seemingly autonomous entities, and the perception of fundamental interconnectedness — all themes that are well-documented in the ethnographic literature on shamanic trance.
 
-The therapeutic mechanisms identified in traditional shamanic healing — doctrinal compliance, abreaction, and heightened suggestibility — have direct parallels in modern psychedelic-assisted psychotherapy. The [[urban-ayahuasca-iquitos-healing]] model, in particular, demonstrates how traditional shamanic mechanisms can operate effectively in a modern urban context, suggesting that the cross-cultural patterns of shamanic trance may reflect fundamental features of human healing processes.
+The therapeutic mechanisms identified in traditional [[metzner-shamanic-healing-and-divination-paradigm]] — doctrinal compliance, abreaction, and heightened suggestibility — have direct parallels in modern psychedelic-assisted psychotherapy. The  model, in particular, demonstrates how traditional shamanic mechanisms can operate effectively in a modern urban context, suggesting that the cross-cultural patterns of shamanic trance may reflect fundamental features of human healing processes.
 
 ## References and Further Reading
 
@@ -69,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

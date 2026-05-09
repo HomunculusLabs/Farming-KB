@@ -20,7 +20,7 @@ sources:
 # Zkittlez
 
 **Zkittlez** (also stylized **Skittles** or **Zkittles**) is an indica-dominant hybrid cannabis strain bred by **3rd Gen Family** and **Terp Hogz** in the San Francisco Bay Area of California.
-It is a cross between **Grape Ape** and an unconfirmed sativa-dominant strain (reported to be either **LSD** or a proprietary Grapefruit cross), combining the fruity, candy-like terpene profile of its parents with a deeply relaxing, euphoric high.
+It is a cross between **[[grape-ape]]** and an unconfirmed sativa-dominant strain (reported to be either **LSD** or a proprietary Grapefruit cross), combining the fruity, candy-like terpene profile of its parents with a deeply relaxing, euphoric high.
 Zkittlez rose to prominence in the 2010s as a flagship strain of the "exotic" and "designer" cannabis movement, winning first place at the 2016 Emerald Cup and becoming one of the most commercially successful and widely imitated cannabis varieties in the world.
 The strain is named after the popular Skittles candy, reflecting its unmistakable aroma and flavor of mixed tropical fruits.
 
@@ -30,7 +30,7 @@ The strain is named after the popular Skittles candy, reflecting its unmistakabl
 |-----------|---------|
 | Type | Indica-dominant hybrid (approximately 60/40 indica/sativa) |
 | Breeder | 3rd Gen Family / Terp Hogz (Bay Area, California) |
-| Female Parent | Grape Ape (Granddaddy Purple × Afghani) |
+| Female Parent | Grape Ape ([[granddaddy-purple]] × Afghani) |
 | Male Parent | LSD or Grapefruit cross (sativa-dominant, unconfirmed) |
 | Generation | F1 hybrid (stabilized through selective breeding) |
 | Landrace Ancestry | Afghani (indica), Thai/Mexican sativa (via Granddaddy Purple lineage) |
@@ -55,7 +55,7 @@ Leaf structure is typical of indica-dominant varieties — broad-fingered, dark 
 The defining characteristic of Zkittlez is its extraordinary terpene profile, which closely mimics the aroma of mixed fruit candy:
 
 - **Limonene** (35–45% of terpene fraction) — dominant terpene responsible for the citrus, lemon, and tropical fruit notes. Contributes mood-elevating and stress-relieving effects.
-- **Caryophyllene** (15–25%) — peppery, spicy undertone. The only terpene known to directly activate the CB2 cannabinoid receptor, contributing anti-inflammatory effects.
+- **Caryophyllene** (15–25%) — peppery, spicy undertone. The only terpene known to directly activate the CB2 [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]], contributing anti-inflammatory effects.
 - **Myrcene** (10–20%) — earthy, musky base notes with mango and herbal qualities. Enhances sedative effects and promotes the "couch-lock" body high through THC permeability potentiation.
 - **Linalool** (5–10%) — floral, lavender-like sweetness that rounds out the aroma and contributes anxiolytic and calming properties.
 - **Humulene** (3–8%) — woody, earthy, hop-like notes adding complexity to the bouquet.
@@ -83,15 +83,15 @@ The strain's effects are driven almost entirely by THC and the synergistic inter
 
 The Zkittlez experience is characterized by a smooth, balanced progression of effects:
 
-**Onset (0–15 minutes)**: Rapid onset of cerebral euphoria and mood elevation. Initial effects are uplifting, mildly energetic, and socially facilitating, with enhanced sensory perception and an appreciation for music, food, and visual stimuli.
+**Onset (0–15 minutes)**: Rapid onset of cerebral euphoria and mood elevation. Initial effects are uplifting, mildly energetic, and socially facilitating, with enhanced [[plant-sensory-perception]] and an appreciation for music, food, and visual stimuli.
 **Peak (30–90 minutes)**: The indica influence becomes increasingly prominent, transitioning from a heady, cerebral high to a warm, full-body relaxation. Users report a pleasant heaviness in the limbs, muscular tension relief, and a general sense of physical comfort without overwhelming sedation.
 **Duration (2–4 hours)**: The experience gradually transitions into a calm, mellow state characterized by gentle sedation, contentment, and relaxation. Sleep may come easily if the user is already tired.
 
-**Reported therapeutic applications** (anecdotal, not clinically validated):
+**Reported [[psilocybin-therapeutic-applications]]** (anecdotal, not clinically validated):
 - Stress and anxiety relief
 - Mild to moderate pain management
 - Insomnia (especially at higher doses or in the later phase of effects)
-- Appetite stimulation
+- [[cannabis-for-cachexia-and-appetite-stimulation]]
 - Depression and mood elevation
 - Muscle tension and spasm relief
 
@@ -127,7 +127,7 @@ Zkittlez has won or placed in numerous major cannabis competitions, establishing
 
 ## See Also
 
-- [[gelato-cannabis]] — parent of Runtz and popular Zkittlez cross partner
+- [[gelato]] — parent of Runtz and popular Zkittlez cross partner
 - [[gorilla-glue]] — another high-THC award-winning modern hybrid for comparison
 - [[og-kush]] — foundational West Coast breeding stock often crossed with Zkittlez descendants
 

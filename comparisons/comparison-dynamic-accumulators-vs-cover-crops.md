@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Accumulators vs Cover Crops"
+title: "comparison dynamic accumulators vs cover crops vs Cover Crops"
 created: 2026-04-28
 tags: [comparison, soil-fertility, permaculture, organic-gardening, nutrient-cycling]
 date: 2026-04-28
@@ -18,8 +18,8 @@ accumulators are plants that concentrate specific nutrients in their tissues
 through deep rooting or unique biochemical pathways, then make those
 nutrients available when their biomass is harvested and recycled as mulch or
 compost. Cover crops are crops grown primarily to protect and improve the
-soil rather than for harvest, providing erosion control, organic matter
-addition, nitrogen fixation, weed suppression, and habitat for beneficial
+soil rather than for harvest, providing [[permplant-willows-salix-erosion-control-fodder]], organic matter
+addition, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], weed suppression, and [[query-how-do-i-design-habitat-for-beneficial-insects]]
 organisms. While there is significant overlap between the two categories,
 understanding their distinctions helps growers design more effective
 fertility systems.
@@ -69,7 +69,7 @@ mat of residue that acts as both mulch and slow-release fertilizer.
 
 ### Purpose and Timing
 Dynamic accumulators are permanent or semi-permanent landscape elements
-that provide ongoing nutrient cycling. They are harvested repeatedly over
+that provide ongoing [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. They are harvested repeatedly over
 years without replanting. Cover crops are temporary, seasonal plantings that
 fill gaps between cash crops and are terminated before the next planting.
 
@@ -126,7 +126,7 @@ Use cover crops when:
 - You manage annual beds or row-cropped fields
 - You need to protect bare soil between seasonal plantings
 - You want to break pest and disease cycles through rotation
-- You need rapid biomass production within a constrained time window
+- You need rapid [[dighton-fungal-biomass-production-aquatic-ecosystems]] within a constrained time window
 
 The most resilient systems use both. Perennial accumulators in borders and
 guilds provide continuous nutrient cycling, while seasonal cover crops

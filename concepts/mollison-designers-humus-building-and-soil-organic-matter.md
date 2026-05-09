@@ -1,5 +1,5 @@
 ---
-title: Humus Building and Soil Organic Matter
+title: composting-humus-building-holzer and Soil hamilton-composting-and-organic-matter-management
 created: 2026-04-28
 tags:
   - permaculture
@@ -22,9 +22,9 @@ In [[mollison-designers-temperate-zone-food-forest-design]] to intensive zone 1
 ## Carbon to Nitrogen Ratios
 
 The carbon:nitrogen (C:N) ratio of organic inputs critically determines
-decomposition speed and nutrient availability. Materials with a high C:N ratio
+decomposition speed and [[ph-and-nutrient-availability-garden-soils]]. Materials with a high C:N ratio
 (above 30:1), such as straw, sawdust, and dry leaves, decompose slowly because
-microorganisms must draw soil nitrogen to break down excess carbon. This can
+microorganisms must draw soil nitrogen to [[query-can-fungi-break-down-plastic-pollution]] excess carbon. This can
 temporarily tie up available nitrogen, a process called nitrogen immobilization.
 Low C:N materials (below 20:1), such as legume residues, fresh manure, and
 young green growth, decompose rapidly and release nitrogen in a process called
@@ -32,7 +32,7 @@ mineralization.
 
 For [[mollison-designers-earthworks-for-erosion-control]]
 efforts. The biological glues produced by fungi and bacteria, fed by organic
-matter, are the primary agents of aggregate formation.
+matter, are the primary agents of [[soil-aggregate-formation-fungal-contributions]].
 
 ## Water Retention and Nutrient Availability
 
@@ -55,7 +55,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,3 +98,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[mollison-designers-mycorrhizal-fungi-and-soil-microbiology]]

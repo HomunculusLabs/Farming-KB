@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Sequoiadendron giganteum**, the giant sequoia, is the most massive tree species on Earth and among the oldest living organisms. Endemic to the western slopes of California's Sierra Nevada, it is renowned for its colossal trunk volume, which can exceed 1,400 cubic meters in the largest individuals.
+**Sequoiadendron giganteum**, the giant sequoia, is the most massive tree species on Earth and among the oldest [[savory-living-organisms-as-tools]]. Endemic to the western slopes of California's Sierra Nevada, it is renowned for its colossal trunk volume, which can exceed 1,400 cubic meters in the largest individuals.
 
 The species includes the single largest living tree by volume, General Sherman, which stands 83.8 meters tall with a trunk volume of approximately 1,487 m³. Giant sequoias are also among the tallest trees, though they do not reach the extreme heights of their close relative [[sequoia-sempervirens]]
 - [[pinus-sylvestris]]
@@ -106,4 +106,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

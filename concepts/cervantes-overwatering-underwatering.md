@@ -5,14 +5,15 @@ tags: [cannabis, watering, irrigation, overwatering, root-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Overwatering and Underwatering Cannabis
 
 Proper watering is one of the most important skills in
-cannabis cultivation. Jorge Cervantes identifies
+[[query-how-does-no-till-cannabis-cultivation-work]]. Jorge Cervantes identifies
 overwatering as one of the most common mistakes made by
 both novice and experienced growers. Understanding when
 and how much to water is essential for healthy root
@@ -64,7 +65,7 @@ watering:
 - **Learn to judge by weight:** After developing skill,
   check how heavy pots are simply by tipping them.
   Light pots need water; heavy pots do not.
-- **Soak method:** Submerge small pots in a bucket of
+- **[[overnight-soak-method-homogeneous-grass-seed-substrate]]:** Submerge small pots in a bucket of
 ## Practical Considerations
 
 Successful implementation of Cervantes - Overwatering and Underwatering Cannabis requires attention to
@@ -83,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

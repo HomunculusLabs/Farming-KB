@@ -1,5 +1,5 @@
 ---
-title: The Loquat Incident and Microbial Mutation Dangers
+title: The fukuoka textdoc loquat incident microbial mutation and Microbial Mutation Dangers
 created: 2026-04-28
 tags: [pesticide-resistance, microbial-mutation, botrytis, orchard-disease, ecology]
 date: 2026-04-28
@@ -100,4 +100,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

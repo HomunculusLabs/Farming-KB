@@ -1,5 +1,5 @@
 ---
-title: Citrus Orchard Soil Rehabilitation Timeline and Methods
+title: fukuoka-citrus-orchard-establishment-bare-hillside Soil fukuoka-textdoc-soil-rehabilitation-timeline-orchard-cover-crop-management and Methods
 created: 2026-04-28
 tags:
   - fukuoka
@@ -20,13 +20,13 @@ type: concept
 # Citrus Orchard Soil Rehabilitation Timeline and Methods
 
 Masanobu Fukuoka's account of establishing a productive citrus orchard on a steep,
-depleted hillside without the use of chemical fertilizers, tillage, or pesticides is one
+depleted hillside without the use of [[cervantes-chemical-fertilizers-guide]], tillage, or pesticides is one
 of the most detailed practical demonstrations of [[fukuoka-citrus-orchard-establishment-bare-hillside]].
 
 ## Initial Conditions
 
 Fukuoka acquired land on a hillside that had been severely depleted by conventional
-farming practices. The soil was thin, acidic, and lacking in organic matter. Erosion was
+farming practices. The soil was thin, acidic, and lacking in [[hamilton-composting-and-organic-matter-management]]. Erosion was
 a constant threat on the steep slopes. The conventional approach would have called for
 extensive soil amendment, terracing, drainage works, and regular applications of chemical
 fertilizer before any trees could be expected to thrive.
@@ -43,8 +43,8 @@ represents the maturation of the orchard ecosystem from an artificial to a self-
 
 ## The Straw Mulch Layer
 
-In addition to the living ground cover, Fukuoka applied a thick layer of straw mulch to
-the orchard floor. The straw served as additional organic matter, further suppressed
+In addition to the living ground cover, Fukuoka applied a thick layer [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] to
+the [[fukuoka-orchard-floor-management]]. The straw served as additional organic matter, further suppressed
 weeds, retained moisture, and provided habitat for the microorganisms and insects that
 constitute the soil's biological community. Over time, the straw decomposed and was
 incorporated into the soil by earthworms and other soil organisms, contributing to the
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

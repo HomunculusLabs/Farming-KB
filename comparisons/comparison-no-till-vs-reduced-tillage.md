@@ -5,6 +5,7 @@ tags: [comparison, soil, tillage, organic-farming]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: comparison
 ---
@@ -23,7 +24,7 @@ achieving productive growing conditions.
 ## No-Till
 
 [[lowenfels-earthworms-soil-food-web]] is a fully self-sustaining system when left undisturbed.
-Mycorrhizal fungal networks, which can extend root surface area by
+[[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] networks, which can extend root surface area by
 700-1000x, take months or years to establish and are destroyed
 instantly by any mechanical disturbance. No-till preserves these
 networks, allowing them to strengthen season after season, creating
@@ -31,21 +32,21 @@ increasingly resilient plant-microbe partnerships.
 
 Earthworm populations are a critical component of no-till systems.
 An acre of good garden soil relies on 2-3 million worms to move 18
-tons of soil annually. Tillage destroys worm burrows and cuts worms
+tons of soil annually. [[fukuoka-why-tillage-destroys-soil]] worm burrows and cuts worms
 into pieces that do not regenerate whole organisms. No-till protects
 this essential soil-building workforce, allowing their populations
 to multiply and their burrow networks to create natural drainage and
 aeration channels throughout the soil profile.
 
 No-till systems also preserve soil aggregates — the crumb-like
-structures created by bacterial slime, [[chop-and-drop-mulching]] to add organic matter without
-incorporation. Weed management shifts from cultivation to mulch
+structures created by bacterial slime, [[chop-and-drop-mulching]] to add [[hamilton-composting-and-organic-matter-management]] without
+incorporation. [[fukuoka-weed-management-and-green-manure]] shifts from cultivation to mulch
 suppression, cover crop competition, and careful crop planning.
 
 ## Reduced Tillage
 
 [[perennial-vegetables]] where preserving long-term
-mycorrhizal networks is critical. It excels in large-scale grain
+[[dighton-mycorrhizal-networks-carbon-transfer]] is critical. It excels in large-scale grain
 production following the [[green-manure-cover-crops]] can be
 surface-terminated (no-till) in established beds or lightly
 incorporated with a broadfork (reduced tillage) when faster
@@ -71,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -113,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

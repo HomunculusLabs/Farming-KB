@@ -17,7 +17,7 @@ native to Europe, North Africa, and Western Asia, now
 naturalized worldwide. Valued for edible leaves and roots,
 use as a coffee substitute, medicinal properties as a bitter
 digestive tonic, and its role in sustainable agriculture as
-a deep-rooted dynamic accumulator. Cultivated forms include
+a deep-rooted [[nutrient-dynamic-accumulator-reference]]. Cultivated forms include
 radicchio, Belgian endive, and sugarloaf chicory.
 
 ## Taxonomy and Naming
@@ -34,7 +34,7 @@ radicchio, Belgian endive, and sugarloaf chicory.
 
 ## Botanical Description
 ### Growth Habit
-- **Life cycle:** Perennial (USDA zones 3-9)
+- **[[bloomfield-fungal-life-cycle-spiral-versus-circle]]:** Perennial (USDA zones 3-9)
 - **Height:** 30-120 cm flowering | **Spread:** 30-60 cm
 - **Root:** Deep taproot 1-2 m; thick, fleshy, penetrates
   compacted soils
@@ -116,7 +116,7 @@ radicchio, Belgian endive, and sugarloaf chicory.
   reduces with cooking
 - **Coffee substitute:** Roasted root since 1800s; New
   Orleans coffee (30-50%); caffeine-free
-- **Forage:** High-quality livestock forage; protein
+- **Forage:** High-quality [[permaculture-livestock-forage-systems]]; protein
   comparable to alfalfa; tannins reduce bloat
 
 ## [[agroecology]]
@@ -124,8 +124,8 @@ radicchio, Belgian endive, and sugarloaf chicory.
   from subsoil; brings nutrients to surface via litter
 - **Pollinator support:** Late-season blue flowers provide
   nectar when most plants have finished blooming
-- **Drought tolerance:** Deep roots make it highly
-  drought-resistant; valuable for climate adaptation
+- **[[dighton-fungal-drought-tolerance-plant-water-relations]]:** Deep roots make it highly
+  drought-resistant; valuable for [[jeavons-climate-adaptation-growing-seasons]]
 - **[[chicorium-intybus]]
 - [[trifolium-repens]]
 - achillea-millefolium

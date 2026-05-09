@@ -12,9 +12,9 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Guiry MD, Guiry GM (2025). "Ulva lactuca L." AlgaeBase.
-  - McDermid KJ, Stuercke B (2003). "Nutritional composition of edible Hawaiian seaweeds." Journal of Applied Phycology 15: 513–524.
+  - McDermid KJ, Stuercke B (2003). "[[dighton-fungal-nutritional-composition-animal-diets]] of edible Hawaiian seaweeds." Journal of Applied Phycology 15: 513–524.
   - Fletcher RL (1996). "The occurrence of 'green tides' — a review." Marine Benthic Vegetation. Springer.
-  - Holdt SL, Kraan S (2011). "Bioactive compounds in seaweed." Journal of Applied Phycology 23: 543–597.
+  - Holdt SL, Kraan S (2011). "[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in seaweed." Journal of Applied Phycology 23: 543–597.
 ---
 
 ## Overview
@@ -115,12 +115,12 @@ Dried sea lettuce reconstitutes readily and is used as a garnish or soup
 ingredient.
 
 Harvesting should be avoided from polluted or eutrophic waters due to the
-alga's capacity to accumulate heavy metals and contaminants. Certified
+alga's capacity to accumulate [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] and contaminants. Certified
 commercial harvesting from clean waters is the recommended source.
 
 ## Ecological Significance
 
-*Ulva lactuca* plays a central role in coastal nutrient cycling. Rapid
+*Ulva lactuca* plays a central role in coastal [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. Rapid
 uptake of nitrogen and phosphorus makes it an effective biofilter in
 integrated multi-trophic aquaculture systems.
 
@@ -129,7 +129,7 @@ gastropods, amphipods, and small crustaceans. Decomposing *Ulva* biomass
 enriches sediments and supports detritivore communities.
 
 Excessive growth of *Ulva* in response to anthropogenic nutrient loading
-causes "green tides" that can deplete dissolved oxygen, smother benthic
+causes "green tides" that can deplete [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]], smother benthic
 communities, and produce hydrogen sulfide upon decomposition.
 
 These bloom events are increasing worldwide, particularly in enclosed bays
@@ -137,6 +137,10 @@ receiving agricultural and municipal runoff. Management strategies include
 nutrient source reduction and biomass harvesting for commercial use.
 
 ## See Also
+
+- [[hypnea-musciformis]]
+- [[pyropia]]
+- [[rhizophora-mangle]]
 
 - [[colocasia-esculenta]]
 - [[nasturtium-officinale]]

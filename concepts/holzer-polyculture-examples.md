@@ -5,7 +5,8 @@ updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - raw/papers/sepp-holzer-practical-guide.md
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Polyculture Examples
@@ -15,7 +16,7 @@ Growing plants in polycultures is both possible and practical anywhere. Monocult
 ## Cereal Polycultures
 
 ### Cereals with Catch Crops
-- Sow catch crops (clover, radishes, salad, various medicinal herbs) after cereal crops have flowered
+- Sow catch crops (clover, radishes, salad, various [[permaculture-plants-medicinal-herbs-healing]]) after cereal crops have flowered
 - Catch crops develop slowly while cereals ripen
 - When cereals are harvested, catch crops receive more light and begin to thrive
 - Soon ready for harvest
@@ -25,16 +26,16 @@ Growing plants in polycultures is both possible and practical anywhere. Monocult
 
 ### Stubble Drilling
 - After cereal harvest, sow plants directly into remaining stubble
-- Suitable plants depend on location and growing season
+- Suitable plants depend on location and [[savory-growing-season-and-non-growing-season-management]]
 - September cereal harvest: sow forage or winter fruit (winter rape, turnips)
 - These root in autumn, survive winter, ripen next summer
 - Can be harvested or left to improve soil / tilled in
 - At lower altitudes (July harvest): fast-growing vegetables, turnips, salad give another yield same year
-- After catch crop harvest, field can be planted with winter crops in autumn
+- After catch [[cole-crop-harvest-and-storage]], field can be planted with [[coleman-semi-hibernating-winter-crops-harvest-extension]] in autumn
 - Intensive use only possible when none of the crops are monoculture
 
 ### Key Principle
-A balanced mixture of plants that improve soil and fix nitrogen is required. Polycultures will not exhaust the soil of any one nutrient because they have different requirements. Leave some crops as mulch and green manure rather than harvesting everything.
+A balanced mixture of plants that improve soil and [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] is required. Polycultures will not exhaust the soil of any one nutrient because they have different requirements. Leave some crops as mulch and green manure rather than harvesting everything.
 
 ## Tall Plant Support Systems
 
@@ -46,7 +47,7 @@ A balanced mixture of plants that improve soil and fix nitrogen is required. Pol
 ### Jerusalem Artichoke Polyculture
 - Jerusalem artichokes + maize + peas + beans
 - Harvested together and processed in a forage silo
-- Catch crop of white clover, black medick, and Alsike clover (on wet soil)
+- Catch crop of [[fukuoka-white-clover-cover-crop-system]], black medick, and Alsike clover (on wet soil)
 
 ### Pea and Maize Combination
 - Very good feed combination
@@ -102,6 +103,6 @@ Factors that determine the best composition:
 - Never harvest everything -- leave some as mulch and green manure
 - When second crop is used as green manure, it provides immediate yield: seeds for other plots
 
-See also: [[permaculture-companion-planting]], [[cover-cropping-guide]]
+See also: permaculture-companion-planting, [[cover-cropping-guide]]
 - [[holzer-green-manure-and-soil-building-plants]]
 - [[fukuoka-white-clover-cover-crop-system]]

@@ -30,9 +30,9 @@ The species encompasses enormous diversity including dry beans (kidney,
 black, pinto, navy, cranberry) and green beans (snap, French, haricots
 verts). Global dry bean production exceeds 25 million tonnes annually.
 
-Common bean is central to indigenous American agriculture. The Three Sisters
+Common bean is central to indigenous [[fukuoka-american-agriculture-fields-of-death]]. The Three Sisters
 polyculture — bean, maize, and squash — is a celebrated example of
-companion planting that sustained civilizations for millennia.
+[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] that sustained civilizations for millennia.
 
 ## Taxonomy and Morphology
 
@@ -99,7 +99,7 @@ complementary profile with cereals makes bean-grain combinations
 nutritionally complete. Regular consumption is associated with reduced
 cardiovascular disease risk and improved glycemic control.
 
-Bioactive compounds include lectins (destroyed by cooking), phytic acid,
+[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include lectins (destroyed by cooking), phytic acid,
 saponins, and phenolic antioxidants. Bean-derived resistant starch promotes
 beneficial gut microbiome diversity.
 
@@ -116,13 +116,15 @@ trellises and in food forest understories.
 
 Bush beans function as effective nitrogen-fixing ground covers in guild
 plantings. The crop fits well into rotations with cereals, tubers, and
-vegetables, contributing organic matter and residual nitrogen.
+vegetables, contributing [[hamilton-composting-and-organic-matter-management]] and residual nitrogen.
 
 ## See Also
 
+- [[phaseolus-lunatus]]
+
 - [[glycine-max]] — soybean, major warm-season legume
 - [[vigna-unguiculata]] — cowpea, heat-tolerant legume
-- [[cicer-arietinum]] — chickpea, ancient Near Eastern legume
-- [[ipomoea-batatas]] — sweet potato, complementary root crop
+- [[cicer-arietinum]] — chickpea, [[allegro-fertility-philosophy-of-the-ancient-near-east]] Eastern legume
+- [[ipomoea-batatas]] — [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], complementary root crop
 - [[companion-planting]] — intercropping strategies
-- [[permaculture]] — sustainable design framework
+- permaculture — sustainable design framework

@@ -1,5 +1,5 @@
 ---
-title: Short Duration Grazing and Cell Systems
+title: savory short duration grazing and cell systems Grazing and Cell Systems
 created: 2026-04-28
 tags:
   - grazing-systems
@@ -20,7 +20,7 @@ Short duration grazing (SDG) and the cell system of subdividing land into
 multiple paddocks are central to Allan Savory's approach to managing livestock
 on large areas. While Savory himself originally coined the term "short duration
 grazing," he later came to regret that it became associated with rigid rotation
-schedules that fail to account for changing conditions. In holistic management,
+schedules that fail to account for changing conditions. In [[savory-holistic-management-overview]],
 the preferred term is **planned grazing**, emphasizing flexibility, biological
 planning, and constant monitoring rather than fixed time schedules.
 
@@ -43,10 +43,10 @@ ensuring that even severely bitten plants have ample time to recover.
 ## The Problem with Rigid Rotational Systems
 
 Savory strongly distinguishes between **planned grazing** and the rigid
-**rotational grazing** systems commonly practiced. Inflexible rotation
+**[[comparison-rotational-grazing-vs-continuous-grazing]]** systems commonly practiced. Inflexible rotation
 schedules inevitably lead to overgrazing because no single recovery period
 suits all conditions. In brittle environments especially, daily plant growth
-rates change constantly during the growing season.
+rates change constantly during the [[savory-growing-season-and-non-growing-season-management]].
 
 If a rotation is locked to a short recovery period suited to fast growth,
 and growth slows, plants will be rebitten before recovery is complete. If the
@@ -57,14 +57,14 @@ Either error degrades the land and animal performance.
 The radial layout of fencing in grazing cells has an additional "mesmerizing
 effect" that lulls both people and livestock into an unshakable rotation
 schedule, culminating in what Savory calls tragedy. Practitioners of holistic
-resource management therefore talk about planned grazing, never rotational
+[[savory-holistic-resource-management-animal-impact]] therefore talk about planned grazing, never rotational
 grazing or short duration grazing.
 
 ## Advantages of Many Paddocks
 
 Increasing the number of paddocks in a cell provides numerous advantages
 while total forage consumption remains the same. More paddocks mean shorter
-grazing periods, higher stock density, and more uniform distribution of
+grazing periods, higher [[savory-fencing-economics-and-stock-density-curve]], and more uniform distribution of
 dung, urine, and trampling. Key benefits include:
 
 - **Reduced overgrazing**: With very short grazing periods, even the most
@@ -116,6 +116,8 @@ procedure against any fixed system or rotation, which Savory considers the
 critical oversight in evaluating his work.
 
 ## See Also
+
+- [[savory-belief-systems-and-paradigm-shifts]]
 
 - [[savory-land-planning-and-grazing-cell-design]]
 - [[savory-recovery-and-grazing-periods]]

@@ -1,5 +1,5 @@
 ---
-title: Mazatec Mushroom Tradition
+title: maria-sabina-mazatec-mushroom-ceremony Tradition
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -14,7 +14,7 @@ The Mazatec Indians of the Sierra Mazateca in Oaxaca, Mexico, maintain a
 living tradition of using psychoactive mushrooms for divination, healing, and
 religious purposes. This tradition gained worldwide attention in 1957 when the
 American banker and amateur mycologist R. Gordon Wasson participated in a
-mushroom velada (night ceremony) with the Mazatec curandera Maria Sabina, an
+mushroom velada (night ceremony) with the Mazatec curandera [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]], an
 experience he published in Life magazine under the title "Seeking the Magic
 Mushroom."
 
@@ -26,7 +26,7 @@ Diaz, and San Jose Tenango. Their language belongs to the Popolocan family,
 and they number approximately 100,000-200,000 people. The Mazatec have
 maintained many pre-Columbian cultural practices, including the use of
 psychoactive mushrooms ([[salvia-divinorum]]
-(ska Maria Pastora), and morning glories (Ololiuqui).
+(ska Maria Pastora), and [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] (Ololiuqui).
 
 The Mazatec live in a region of rugged mountains and deep valleys, where the
 landscape is dominated by cloud forest and tropical montane forest. This
@@ -40,7 +40,7 @@ belonging to the genus Psilocybe or closely related genera:
 
 - **Psilocybe caerulescens**: Known as "derrumbe" (landslide mushroom); one of
   the most commonly used species in the Mazatec region
-- **Psilocybe mexicana**: The species from which Albert Hofmann first isolated
+- **[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]**: The species from which Albert Hofmann first isolated
   psilocybin in 1958; a small, delicate mushroom
 - **Psilocybe zapotecorum**: Another important species in the Mazatec
   pharmacopoeia, often found in mossy areas
@@ -77,7 +77,7 @@ with the patient to guide and protect the experience.
 ## Maria Sabina
 
 Maria Sabina (c. 1894-1985) was the Mazatec curandera who introduced the use
-of psilocybin mushrooms to the outside world. Wasson's 1957 Life magazine
+of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] to the outside world. Wasson's 1957 Life magazine
 article, while making the Mazatec mushroom tradition internationally famous,
 also disrupted the traditional practices by attracting thousands of
 counterculture seekers to Huautla de Jimenez in the 1960s and 1970s.

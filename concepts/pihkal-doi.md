@@ -27,7 +27,7 @@ pharmacologists, DOI is perhaps best known not for recreational use but as a
 critically important scientific tool. It has been used extensively as a
 radioligand and reference compound in [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] is series.
 
-The structural relationship to other DO compounds follows a clear pattern:
+The [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to other DO compounds follows a clear pattern:
 DOM has a methyl group, DOC has chlorine, DOB has bromine, and DOI has
 iodine at the 4-position. DOI is the alpha-methylated version of 2C-I,
 with the alpha-methyl group conferring resistance to MAO metabolism and
@@ -67,7 +67,7 @@ exploratory research chemical.
 DOI acts as a potent agonist at serotonin 5-HT2A receptors, with binding
 affinity in the low nanomolar range. It also shows significant affinity for
 5-HT2B and 5-HT2C receptor subtypes. The iodine atom's large atomic radius
-creates a favorable interaction with the receptor binding pocket,
+creates a favorable interaction with the [[tihkal-receptor-binding-serotonin]] pocket,
 contributing to both potency and duration of action.
 
 Radiolabeled DOI (particularly [125I]-DOI) has become one of the most
@@ -79,9 +79,9 @@ research arguably exceeds that of any other PIHKAL compound.
 Metabolism occurs primarily through aromatic hydroxylation and
 N-demethylation pathways, though the alpha-methyl group provides
 substantial resistance to MAO degradation, accounting for the prolonged
-half-life and extended d [[hallucinogenic-mushroom-health-risks-and-harm-reduction]] sub-milligram level
+half-life and extended d hallucinogenic-mushroom-health-risks-and-harm-reduction sub-milligram level
 requires an analytical balance with at least 0.1 mg precision. Volumetric
-liquid dosing is strongly recommended as a harm reduction measure.
+liquid dosing is strongly recommended as a [[adverse-effects-and-harm-reduction-psilocybin]] measure.
 
 The extended duration of 16 to 30 hours means users must be prepared
 for a full day and night of altered consciousness including an inability

@@ -86,7 +86,7 @@ The heather beetle (Lochmaea suturalis) is the primary herbivore, with outbreaks
 
 Heather provides nesting cover and food for red grouse (Lagopus lagopus scotica), whose diet is approximately 90% heather shoots in winter.
 
-In permaculture and ecological restoration, heather is planted for erosion control on degraded acidic soils and as a component of native wildflower meadow mixes.
+In permaculture and ecological restoration, heather is planted for [[permplant-willows-salix-erosion-control-fodder]] on degraded acidic soils and as a component of native wildflower meadow mixes.
 
 The dried stems have been used historically for thatching roofs, stuffing mattresses, and making besom brooms.
 
@@ -110,7 +110,7 @@ Pruning immediately after flowering maintains compact form and encourages vigoro
 
 ## See Also
 
-- [[arctostaphylos-uva-ursi]]
+- arctostaphylos-uva-ursi
 - [[myrica-gale]]
 - [[quercus-robur]]
 - [[urtica-dioica]]

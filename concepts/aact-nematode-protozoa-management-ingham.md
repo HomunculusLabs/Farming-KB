@@ -1,5 +1,5 @@
 ---
-title: AACT Nematode and Protozoa Management (Ingham)
+title: AACT Nematode and aact nematode protozoa management ingham (Ingham)
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,9 +12,9 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Field Guide I for Actively Aerated Compost Tea, Dr. Elaine Ingham, Soil Foodweb Inc.
+Source: The Field Guide I for Actively [[actively-aerated-compost-tea-aact-brewing]] Tea, Dr. Elaine Ingham, Soil Foodweb Inc.
 
-Ingham provides detailed information about managing beneficial nematodes and protozoa in compost, compost tea, and soil — critical components of the soil foodweb that are often overlooked.
+Ingham provides detailed information about managing [[ingham-beneficial-nematodes-soil-food-web]] and protozoa in compost, compost tea, and soil — critical components of the soil foodweb that are often overlooked.
 
 ## Nematode Types
 
@@ -23,7 +23,7 @@ Three functional groups of beneficial nematodes:
 
 1. **Bacterial-feeding nematodes**: The easiest to culture. Relatively simple to get going. Need old-growth forest conditions for optimal habitat.
 
-2. **Fungal-feeding nematodes**: Require fungal foods in the compost/worm bin. Most thermal compost lacks sufficient fungal biomass for these nematodes — "too active or total fungal biomass" is the problem.
+2. **Fungal-feeding nematodes**: Require fungal foods in the compost/worm bin. Most [[ingham-thermal-compost-versus-worm-compost]] lacks sufficient [[bioremediation-fungal-biomass-biosorbent-material]] for these nematodes — "too active or total fungal biomass" is the problem.
 
 3. **Predatory nematodes**: Feed on other nematodes including root-feeders. Critical for root-knot and lesion nematode management.
 
@@ -92,7 +92,7 @@ Protozoa take approximately 2 weeks at 72°F to wake up and begin cycling nutrie
 ### Protozoa for Algae Control
 Protozoa consume algae, especially in aquatic systems:
 - University of Wisconsin research demonstrated that algal blooms can be controlled by restoring protozoan populations
-- In golf course ponds, pesticides and inorganic fertilizers eliminated protozoa, allowing algae dominance
+- In golf course ponds, pesticides and [[ingham-inorganic-fertilizers-soil-biology-damage]] eliminated protozoa, allowing algae dominance
 - Restoration requires getting the foodweb links right — the right fish species eating the right organisms
 
 ### Protozoa in Compost Tea

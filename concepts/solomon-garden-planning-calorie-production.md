@@ -1,5 +1,5 @@
 ---
-title: Garden Planning for Calorie Production
+title: hamilton-garden-planning-and-site-assessment for solomon-self-sufficiency-calorie-production-economics
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Steve Solomon, Gardening When It Counts"
@@ -16,7 +16,7 @@ Steve Solomon begins with a rough gauge: about 2,700 square feet (250 square met
 
 The British wartime allotment of 2,700 square feet was sized so that a family [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] is effectively year-round.
 
-**Continental climates** (most of North America east of the 98th meridian): Growing seasons are compressed. No winter garden without glass. This means roughly doubling the growing area to compensate -- about 700 additional square feet (65 square meters) per adult in the family. No irrigation needed in the rainy eastern half.
+**Continental climates** (most of [[psilocybin-north-america-pacific-northwest]] east of the 98th meridian): Growing seasons are compressed. No winter garden without glass. This means roughly doubling the growing area to compensate -- about 700 additional square feet (65 square meters) per adult in the family. No irrigation needed in the rainy eastern half.
 
 **Dry climates** (western North America): Irrigation is needed. This increases by about 500 more square feet (45 square meters) per adult to account for the area required for irrigation paths, and to grow irrigation-demanding crops like tomatoes, peppers, and corn that would not succeed without watering.
 
@@ -24,7 +24,7 @@ The British wartime allotment of 2,700 square feet was sized so that a family [[
 
 Solomon identifies the potato as the single most important calorie crop for home-scale food production. He states that it "produces many times more actual nutrition per acre than any other staple crop except rice." The potato's role in European history demonstrates its efficiency: it allowed a family to feed itself on less than an acre, driving rapid population growth.
 
-Potatoes can contain up to about 11 percent protein (dry weight), matching the protein content of human breast milk. However, the nutritional quality depends on variety and soil fertility:
+Potatoes can contain up to about 11 percent protein (dry weight), matching the protein content of human breast milk. However, the [[coleman-winter-greens-nutritional-quality-cold-sweetening]] depends on variety and soil fertility:
 
 - **Starchy "chipper" varieties** grown with lots of moisture and excess potassium produce larger yields of lower-protein, lower-mineral spuds.
 - **Waxy "boiling" varieties** (often yellow-fleshed) grown with reduced irrigation after tuber formation begins, on mineral-rich but low-potassium soil, produce somewhat smaller but considerably more nutritious potatoes.
@@ -66,7 +66,7 @@ Solomon's [[humus-formation-and-soil-organic-matter]] and restores biological ba
 - After two to three years in ley, the grass is turned over for vegetables, which grow noticeably better than the ones on the old beds.
 - By the fourth year, disease and slower growth signal it is time to rotate again.
 
-This system means that at any given time, only about two-thirds to three-quarters of the total garden area is in active vegetable production. The ley portion is not wasted -- it generates organic matter (especially if mowed and left in place) that feeds the system.
+This system means that at any given time, only about two-thirds to three-quarters of the total garden area is in active [[dry-gardening-unirrigated-vegetable-production-solomon]]. The ley portion is not wasted -- it generates [[hamilton-composting-and-organic-matter-management]] (especially if mowed and left in place) that feeds the system.
 
 ## Practical Considerations
 

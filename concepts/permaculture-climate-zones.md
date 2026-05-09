@@ -1,5 +1,5 @@
 ---
-title: Permaculture Climate Zones
+title: Permaculture mollison-climate-zones-permaculture-strategies
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -21,7 +21,7 @@ Additionally: cold deserts, arctic and mountain climates, and equatorial jungles
 
 ## Landscape Profile Analysis
 
-A broad landscape profile typical of humid tropical to cool climates demonstrates several zones:
+A broad landscape profile typical of humid tropical to [[greenhouse-cool-climates-mollison]] demonstrates several zones:
 
 ### High Plateaus (Upper Erosion Surface)
 Where snow is stored, trees and shrubs prevent quick run-off. Prof. W.D. Jackson estimated that perhaps 85% of precipitation condenses from night air on the myriad leaf surfaces of plateaus. These are the most critical areas for national or continental well-being -- vandalism by developers and over-grazing should be minimised.
@@ -44,8 +44,8 @@ Perhaps the most pressing problem of the third world. Two approaches:
 ### Key Arid Land Strategies
 - Start from up-stream, up-wind, and from oases -- plants generate moisture downstream, downwind, and locally
 - Run-off from bare or rocky areas increases effective precipitation
-- Modern drip irrigation plus mulch will grow any domestic crop
-- Sheet mulch is the answer around settlements
+- Modern [[comparison-drip-irrigation-vs-passive-irrigation]] plus mulch will grow any domestic crop
+- [[permaculture-sheet-mulch-detailed-guide]] is the answer around settlements
 - Scattered leguminous trees (10-12 per ha) greatly assist nutrient recycling and soil stability
 - The "dead centre" of deserts is a myth -- many important crops will grow
 
@@ -56,15 +56,15 @@ Where there are hills, a well-marked frost-line occurs at about 9-15 m elevation
 
 | Climate | Key Strategies |
 |---------|---------------|
-| Temperate/Winter Rain | Keypoint dams, midslope gardens, deciduous/evergreen balance, frost protection |
+| Temperate/Winter Rain | Keypoint dams, midslope gardens, deciduous/evergreen balance, [[holzer-frost-protection-techniques]] |
 | Tropical Humid | Shade houses, mulch, fast-growing perennials, careful species selection |
 | Arid | Drip irrigation + mulch, run-off catchment, deep-rooted perennials, windbreaks |
-| Coastal | Salt-tolerant species, wind protection, sand stabilisation |
+| Coastal | Salt-tolerant species, [[cervantes-wind-protection-outdoor-cannabis]], sand stabilisation |
 
 ## Related
 
 - [[permaculture-design-process]]
-- [[permaculture-zone-and-sector-analysis]]
+- [[zone-sector-analysis-guide]]
 - [[difficult-site-planting]]
 - [[salt-tolerant-plant-guide]]
 ## Practical Considerations
@@ -85,4 +85,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

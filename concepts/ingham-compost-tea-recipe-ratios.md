@@ -3,14 +3,14 @@ title: "Compost Tea Recipe Ratios and Ingredients"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
-  - "Elaine Ingham, The Field Guide for Actively Aerated Compost Tea"
+  - "Elaine Ingham, The Field Guide for Actively actively-aerated-compost-tea Tea"
 type: concept
 tags: [composting]
 ---
 
 # Compost Tea Recipe Ratios and Ingredients
 
-Actively aerated compost tea (AACT) requires careful selection of ingredients in the right proportions to grow the desired microbial community. The goal is not to add huge amounts of compost but to extract a good inoculum and feed it with targeted foods.
+Actively aerated compost tea (AACT) requires careful selection of ingredients in the right proportions to grow the desired [[edaphic-factors-microbial-community-structure]]. The goal is not to add huge amounts of compost but to extract a good inoculum and feed it with targeted foods.
 
 ## Compost to Water Ratio
 
@@ -30,13 +30,13 @@ If you have enough compost, put it directly on the field. Make tea only when com
 
 ## Compost Selection
 
-Use a mix of good aerobic thermal compost with good aerobic worm castings, in roughly a 50-50 or 25-75 ratio. The compost must contain the full range of beneficial organisms (bacteria, fungi, protozoa, nematodes) to be extracted into the tea.
+Use a mix of good aerobic [[ingham-thermal-compost-versus-worm-compost]] with good aerobic worm castings, in roughly a 50-50 or 25-75 ratio. The compost must contain the full range of beneficial organisms (bacteria, fungi, protozoa, nematodes) to be extracted into the tea.
 
 Thermal compost requirements: temperature must reach 55°C for at least 3 days in all parts, never exceeding 70°C. Worm compost (vermicompost): at least 75-80% of material must pass through worm digestive systems. Both must have adequate oxygen (above 5.5 ppm) and moisture (45-75%).
 
 ## Fungal Tea Recipe (for 500 gallons)
 
-- **Fungal compost**: Above 150 micrograms fungal biomass, preferably 300+ micrograms, with 10+ micrograms of active fungi
+- **[[bacterial-vs-fungal-compost-teas]]**: Above 150 micrograms [[bioremediation-fungal-biomass-biosorbent-material]], preferably 300+ micrograms, with 10+ micrograms of active fungi
 - **Molasses**: 0.1-0.5% of water volume (0.5 gallon summer to 2.5 gallons spring in 500 gal)
 - **Kelp**: 0.5 pound (provides surface area for fungi and micronutrients)
 - **Rock dust**: As needed based on plant nutrient requirements
@@ -45,7 +45,7 @@ Thermal compost requirements: temperature must reach 55°C for at least 3 days i
 ## For a 50-Gallon Brew
 
 - **Humic acid**: 1-4 ounces (50-200 ml). Check SFI website for tested brands
-- **Fish hydrolysate**: 2-10 ounces (100-500 ml). Organic Gem and Neptune's Harvest are recommended brands. Beware of hydrolysate made from anaerobic fish scraps. Do not exceed half liter per 50 gallons to avoid osmotic shock
+- **Fish hydrolysate**: 2-10 ounces (100-500 ml). Organic Gem and Neptune's Harvest are recommended brands. Beware of hydrolysate made from anaerobic fish scraps. Do not exceed half liter per 50 gallons to avoid [[ingham-antibiotics-osmotic-shock-compost-tea]]
 - **Protein meals**: Corn, oat, soy, vegemite, barley, feather meal all work well
 - **Molasses**: At low amounts (under 1%) helps bacteria. At 5% concentration, it helps fungi significantly more than bacteria, though bacterial biomass remains high
 

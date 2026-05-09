@@ -1,5 +1,5 @@
 ---
-title: "Growing Sweet Corn and Field Corn - Steve Solomon"
+title: "Growing growing-sweet-corn-organically and Field Corn - Steve Solomon"
 created: 2026-04-26
 tags:
   - gardening
@@ -15,7 +15,7 @@ type: concept
 
 # Growing Sweet Corn and Field Corn
 
-Corn occupies a unique position in the vegetable garden. As both a summer
+Corn occupies a unique position in the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]. As both a summer
 vegetable (sweet corn) and a potential staple crop (field corn for
 cornmeal and flour), it connects the garden to broader questions of
 [[solomon-complete-organic-fertilizer-guide]])
@@ -52,7 +52,7 @@ them, hanging the ears to finish drying.
 To produce truly pure seed of a corn variety, out of 100 or more plants
 requires a patch of at least 1,600 square feet (150 sq m). Solomon has
 also produced acceptable OP sweet corn seed from as few as 50 desirable
-plants, though this risks narrowing the gene pool excessively.
+plants, though this risks narrowing the [[cannabis-gene-pool-preservation-acclimatization-clarke]] excessively.
 
 ## Calorie Production and Staple Crops
 
@@ -60,7 +60,7 @@ Corn is one of the few garden crops that can meaningfully contribute to
 caloric self-sufficiency. However, Solomon emphasizes that producing cereal
 grains requires five to ten times as much land as growing an equivalent
 caloric value of potatoes. The healthful potato is really the thing for
-serious calorie production in a home garden. See
+serious calorie production in a [[cool-climate-home-garden-mollison]]. See
 [[solomon-self-sufficiency-garden-production]]
 - [[solomon-seed-saving-vegetable-breeding]]
 - [[solomon-crop-rotation-and-garden-planning]]
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

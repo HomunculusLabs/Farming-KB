@@ -1,9 +1,9 @@
 ---
-title: Whiteflies - Cannabis Pest Guide
+title: Whiteflies - query-how-to-use-neem-oil-for-cannabis-pest-control Guide
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+  sources: []
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -25,12 +25,12 @@ The honeydew-sooty mold complex is particularly damaging because it creates a ca
 
 ## Cultural and Physical Control
 
-- **Yellow sticky traps**: Adults are strongly attracted to the color yellow. Cover a bright yellow object with a sticky substance like Tanglefoot and place among plants. Traps work very well — when full, toss them out and replace. Place traps on the tops of pots among the plants for maximum effectiveness
+- **Yellow [[cervantes-sticky-traps-pest-monitoring]]**: Adults are strongly attracted to the color yellow. Cover a bright yellow object with a sticky substance like Tanglefoot and place among plants. Traps work very well — when full, toss them out and replace. Place traps on the tops of pots among the plants for maximum effectiveness
 - **Manual removal**: Difficult because whiteflies fly away when disturbed; vacuuming adults in early morning when they are sluggish can help
-- **Cleanliness**: Sanitation is the foundation of [[spider-mites-cannabis]] — most common cannabis pest with similar damage
+- **Cleanliness**: Sanitation is the foundation of [[spider-mites-cannabis]] — most common [[cannabis-pest-disease-troubleshooting]] with similar damage
 - aphids-cannabis|Aphids — another sap-sucking pest that produces honeydew
 - thrips-cannabis|Thrips — small flying pest with similar behavior
-- [[gaias-garden-host-plants-beneficial-insects]] — Encarsia formosa and other biocontrols
+- gaias-garden-host-plants-beneficial-insects — Encarsia formosa and other biocontrols
 - [[teaming-with-microbes-plant-control]]
 - [[fukuoka-vegetable-growing-natural-method]]
 ## Practical Applications
@@ -50,7 +50,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -100,7 +100,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -110,4 +110,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

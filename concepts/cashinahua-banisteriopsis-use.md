@@ -1,5 +1,5 @@
 ---
-title: "Cashinahua Banisteriopsis Use"
+title: "harner-cashinahua-banisteriopsis-usage Use"
 created: "2026-04-16"
 updated: "2026-04-16"
 type: concept
@@ -13,7 +13,7 @@ The Cashinahua are a Panoan-speaking people of approximately 500 persons living 
 
 ## Preparation and Botanical Ingredients
 
-The Cashinahua prepare ayahuasca from the stalks of several lianas of the genus Banisteriopsis combined with leaves of a shrub identified as Psychotria. Preliminary chemical analysis indicates the active hallucinogenic agents of the Banisteriopsis are harmine and harmaline, while the Psychotria contributes dimethyltryptamine (DMT). Banisteriopsis is considered the basic ingredient; Psychotria is viewed as an important additive without which hallucinations are said to be less vivid and of shorter duration.
+The Cashinahua prepare ayahuasca from the stalks of several lianas of the genus Banisteriopsis combined with leaves of a shrub identified as Psychotria. Preliminary [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] indicates the active hallucinogenic agents of the Banisteriopsis are harmine and harmaline, while the Psychotria contributes dimethyltryptamine (DMT). Banisteriopsis is considered the basic ingredient; Psychotria is viewed as an important additive without which hallucinations are said to be less vivid and of shorter duration.
 
 The host collects one to two meters of Banisteriopsis vine and three to five branches of Psychotria from the jungle, without ritual or ceremony. The vine is cut into 6-8 inch segments, lightly pounded with a rock, and placed in a clay cooking pot with the stripped Psychotria leaves. The pot is filled with water, heated until nearly boiling, and steeped for about an hour before being ladled into smaller pots to cool.
 
@@ -62,9 +62,9 @@ The Cashinahua believe each person has five spirits: bedu yuxin (eye spirit, the
 [[shamanic-use-of-psychedelics]]
 [[campa-ayahuasca-ceremony]] and [[shamanic-trance-cross-cultural-patterns]].
 
-Contemporary interest in ayahuasca has brought both opportunities and challenges to Cashinahua communities. While some have benefited from the attention to their botanical knowledge, the influx of outsiders seeking ayahuasca experiences threatens the integrity of traditional practices. The communal, fear-centered nature of Cashinahua ayahuasca use stands in stark contrast to the often individualistic and pleasure-seeking motivations of Western ayahuasca tourism.
+Contemporary interest in ayahuasca has brought both opportunities and challenges to Cashinahua communities. While some have benefited from the attention to their botanical knowledge, the influx of outsiders seeking ayahuasca experiences threatens the integrity of traditional practices. The communal, fear-centered nature of Cashinahua ayahuasca use stands in stark contrast to the often individualistic and pleasure-seeking motivations of Western [[stuart-r-ayahuasca-tourism-cautionary-ethnography]].
 
-The Cashinahua framework for understanding ayahuasca visions — as the experiences of the dream spirit (nama yuxin) providing practical information about the future — offers a model for integrating psychedelic experiences into a coherent worldview that is both spiritually meaningful and practically useful. Their recognition that the experience is fundamentally fearsome, rather than pleasurable, challenges romantic Western narratives about plant medicines.
+The Cashinahua framework for understanding [[amaringo-ayahuasca-visions-shipibo-iconography]] — as the experiences of the dream spirit (nama yuxin) providing practical information about the future — offers a model for integrating psychedelic experiences into a coherent worldview that is both spiritually meaningful and practically useful. Their recognition that the experience is fundamentally fearsome, rather than pleasurable, challenges romantic Western narratives about plant medicines.
 
 ## References and Further Reading
 
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

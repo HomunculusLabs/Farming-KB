@@ -1,5 +1,5 @@
 ---
-title: Mushroom Cooking and Catsup
+title: falconer-mushroom-cooking-selection-and-preparation and Catsup
 created: 2026-04-28
 tags: [mushrooms, cooking, catsup, victorian-cuisine, food-preservation]
 date: 2026-04-28
@@ -12,8 +12,8 @@ type: concept
 # Mushroom Cooking and Catsup
 
 James Cuthill included practical cooking instructions in his
-1870 treatise on mushroom cultivation, recognising that
-preparation and consumption were the ultimate purpose of all
+1870 treatise on [[accessible-mushroom-cultivation-for-disabilities]], recognising that
+[[magic-mushroom-preparation-and-consumption-methods]] were the ultimate purpose of all
 cultivation efforts. He addressed both the cottager's wife
 with simple home cooking methods and the commercial grower
 with guidance on mushroom catsup production.
@@ -80,8 +80,8 @@ Mushroom catsup (also spelled ketchup) was a significant
 commercial product in Victorian England. Cuthill noted that
 a cottager with a large crop would find that mushroom catsup
 always sold well in the market, making it a valuable
-supplementary income stream from [[mushroom-spawn]]
-were guaranteed to be genuine edible mushrooms, free from
+supplementary income stream from mushroom-spawn
+were guaranteed to be genuine [[palmer-edible-mushrooms-north-america]], free from
 the contamination with poisonous toadstools that could occur
 with wild-gathered specimens.
 
@@ -96,7 +96,7 @@ food production, where the ingredients of processed foods
 were often opaque to consumers.
 
 The implication was that home-produced mushroom catsup from
-genuinely cultivated mushrooms offered both a superior and
+genuinely [[fungi-cultivated-mushrooms-pathogens-competitors]] offered both a superior and
 more honest product than what might be purchased from
 commercial suppliers of uncertain provenance.
 
@@ -112,7 +112,7 @@ were widely known and the market was well-established.
 ## Testing for Edibility
 
 Cuthill provided a simple test for distinguishing true edible
-mushrooms from poisonous fungi: putting salt over the gills.
+mushrooms from [[ramsbottom-poisonous-fungi-identification-guide]]: putting salt over the gills.
 If the mushroom is genuine, the gills will turn black in a
 short time, being of exactly the colour of an old, over-grown
 mushroom. On poisonous fungi, salt has no effect.
@@ -140,3 +140,5 @@ shillings at market values.
 
 - [[falconer-mushroom-cooking-selection-and-preparation]]
 - [[falconer-victorian-mushroom-cooking-recipes]]
+- [[james-cuthill]]
+- [[mushroom-cultivation]]

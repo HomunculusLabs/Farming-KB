@@ -5,12 +5,12 @@ type: person
 tags: [mycologist, taxonomy, psychedelic-research, french-botanist, mushroom-classification]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]
+sources: sources: []
 ---
 
 # Roger Heim
 
-**Roger Jean Heim** (1900–1979) was a French mycologist and botanist who served as director of the **Muséum national d'Histoire naturelle** in Paris from 1951 to 1965. He is best known for his taxonomic work on mushrooms and his pivotal role in identifying the psychoactive fungi used in **Mesoamerican indigenous ceremonies**, which led directly to the isolation and synthesis of psilocybin.
+**Roger Jean Heim** (1900–1979) was a French mycologist and botanist who served as director of the **Muséum national d'Histoire naturelle** in Paris from 1951 to 1965. He is best known for his taxonomic work on mushrooms and his pivotal role in identifying the [[cattle-dispersal-psychoactive-fungi-australia]] used in **Mesoamerican indigenous ceremonies**, which led directly to the isolation and synthesis of psilocybin.
 
 ## Career and Contributions
 
@@ -18,7 +18,7 @@ Heim was one of the most prolific mycologists of the 20th century, publishing ov
 
 - The **Lépiotaceae** (parasol mushrooms and allies)
 - **Tropical African fungi** — extensive collections from Cameroon, Guinea, and Madagascar
-- **Asian fungi** — collecting expeditions across Southeast Asia
+- **Asian fungi** — collecting expeditions across [[psilocybe-southeast-asia-pacific]]
 - **Psychoactive Agaricales** — his most famous contribution
 
 ## Role in Psilocybin Discovery
@@ -35,7 +35,7 @@ The species *Psilocybe heimii* was named in his honor by Gaston Guzmán. Heim's 
 
 ## Key Publications
 
-- **"Les Champignons d'Europe"** (1957) — comprehensive European mushroom guide
+- **"Les Champignons d'Europe"** (1957) — comprehensive European [[medicinal-mushroom-guide-agaricus-blazei]]
 - **"Les Champignons toxiques et hallucinogènes"** (1963)
 - **"Champignons toxiques et hallucinogènes du Mexique"** — with Wasson (1958)
 - Numerous papers in the *Revue de Mycologie* and *Comptes Rendus de l'Académie des Sciences*

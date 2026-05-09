@@ -1,5 +1,5 @@
 ---
-title: Shulgin Safety Principles for Self-Experimentation
+title: Shulgin shulgin safety principles self experimentation for Self-Experimentation
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Shulgin Safety Principles for Self-Experimentation
 
-**Source:** PiHKAL, Cautionary Note and Part 2 methodology
+**Source:** PiHKAL, [[pihkal-cautionary-note-and-legal-context]] and Part 2 methodology
 
 **Updated:** 2026-04-19
 
@@ -23,7 +23,7 @@ The Shulgin method for [[tihkal-shulgin-rating-scale]] served as the measurement
 
 ## Know Your Chemistry
 
-A core safety principle was thorough understanding of the compound's chemistry before self-administration. Each PiHKAL entry includes full synthesis instructions so researchers can verify compound identity and purity. Shulgin's [[psychedelic-therapy-set-and-setting]] that has become central to both therapeutic and recreational psychedelic practice. The principle that no one should explore an unfamiliar psychedelic alone remains a cornerstone of [[pihkal-cautionary-note-and-legal-context]] can be read as an extended statement of the informed consent framework.
+A core safety principle was thorough understanding of the compound's chemistry before self-administration. Each [[2c-b-pihkal-entry-20]] includes full synthesis instructions so researchers can verify compound identity and purity. Shulgin's [[psychedelic-therapy-set-and-setting]] that has become central to both therapeutic and recreational psychedelic practice. The principle that no one should explore an unfamiliar psychedelic alone remains a cornerstone of [[pihkal-cautionary-note-and-legal-context]] can be read as an extended statement of the informed consent framework.
 
 ## Connection to Modern Harm Reduction
 
@@ -108,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -14,14 +14,14 @@ A mystical experience is a subjective state characterized by a profound sense
 of unity, transcendence, and deep connection to something greater than the
 self. Such experiences have been reported across cultures, religious traditions,
 and historical periods, and have become a significant focus of both
-transpersonal psychology and psychedelic research due to their association
+transpersonal psychology and [[mckenna-suppression-psychedelic-research-lsd-therapy]] due to their association
 with lasting positive psychological change. The systematic study of mystical
 experiences represents one of the bridges between scientific and spiritual
 approaches to understanding human consciousness.
 
 ## Defining Features
 
-William James, in his seminal work "The Varieties of Religious Experience"
+[[metzner-william-james-radical-empiricism-multiple-consciousness]], in his seminal work "The Varieties of Religious Experience"
 (1902), identified four characteristics of mystical states: ineffability (the
 experience resists adequate description), noetic quality (the experience feels
 like a form of genuine knowledge), transiency (the experience is temporary but
@@ -48,19 +48,19 @@ analysis of mystical reports and identified a common core of features:
 
 ## Mystical Experience Questionnaire
 
-To systematically study mystical experiences in psychedelic research, Rick
+To systematically study [[psilocybin-mystical-experiences-personality-change]] in psychedelic research, Rick
 Strassman and colleagues developed the Mystical Experience Questionnaire (MEQ),
 later refined by Griffiths and colleagues at Johns Hopkins. The MEQ30 assesses
 seven dimensions: internal unity, external unity, noetic quality, sacredness,
 deep peace, joy, and ineffability. High scores on this questionnaire after
 psilocybin sessions have been shown to strongly predict lasting positive
 changes in attitudes, mood, and behavior. The MEQ has become a standard
-outcome measure in clinical trials of psychedelic-assisted therapy.
+outcome measure in [[mushroom-cancer-clinical-trials-overview]] of psychedelic-assisted therapy.
 
 ## Mystical Experiences and Psychedelics
 
 The connection between psychedelic substances and mystical experience has been
-a central theme since the earliest research. In the Good Friday Experiment
+a central theme since the earliest research. In the Good [[good-friday-experiment-marsh-chapel]]
 (1962), [[aldous-huxley]]
 and Huston Smith, to propose a "perennial philosophy" -- the idea that a
 single, universal reality underlies all mystical traditions despite their
@@ -73,7 +73,7 @@ From a psychological perspective, mystical experiences can be transformative
 because they provide direct, experiential challenges to deeply held
 assumptions about the nature of self, reality, and meaning. Abraham Maslow
 described these as "peak experiences" and considered them essential for
-self-actualization. In psychedelic therapy, the mystical experience appears to
+self-actualization. In [[metzner-psycholytic-psychedelic-therapy-models]], the mystical experience appears to
 function as a catalyst for cognitive and emotional restructuring, providing
 patients with a new vantage point from which to view their difficulties and
 their lives.

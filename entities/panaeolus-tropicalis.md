@@ -3,12 +3,10 @@ title: Panaeolus tropicalis
 created: 2026-04-15
 updated: 2026-04-15
 type: entity
-tags: [[mycology, identification, mushrooms]
+tags: [mycology, identification, mushrooms]
 sources: [papers/cultivation-of-panaeolus-cyanescens-and-panaeolus-tropicalis.md]
 ---
-# Panaeolus tropicalis
-
-Panaeolus tropicalis is a psilocybin-containing mushroom species closely related to [[copelandia-genus-species-guide]] as Copelandia tropicalis by some taxonomists, reflecting the ongoing debate about generic boundaries within this group.
+# Panaeolus tropicalis Panaeolus tropicalis is a psilocybin-containing mushroom species closely related to [[copelandia-genus-species-guide]] as Copelandia tropicalis by some taxonomists, reflecting the ongoing debate about generic boundaries within this group.
 
 ## Taxonomy and Description
 
@@ -21,7 +19,7 @@ Panaeolus tropicalis is a psilocybin-containing mushroom species closely related
 
 - **Cap:** Small, typically 10-30 mm diameter. Conic to campanulate when young, expanding to broadly convex or plane with age. Color ranges from grayish-brown to pale brown when moist, fading to whitish or cream as it dries. Surface is hygrophanous and smooth, sometimes with a slight umbo.
 - **Gills:** Adnexed to adnate, close. Initially pale gray, becoming distinctly mottled with black spots as spores mature unevenly — a characteristic feature of the coprophilous-fungi|Panaeolus genus.
-- **Stem:** Slender, typically 40-80 mm long and 1-3 mm thick. Equal or slightly thickened at the base. Whitish to pale gray, hollow, and fragile. Bruises blue when handled or damaged, though the bluing reaction may be less intense than in [[query-what-is-the-difference-between-psilocybin-and-psilocin]] as its primary active compounds:
+- **Stem:** Slender, typically 40-80 mm long and 1-3 mm thick. Equal or slightly thickened at the base. Whitish to pale gray, hollow, and fragile. Bruises blue when handled or damaged, though the [[field-guide-psilocybin-bluing-reaction-identification]] may be less intense than in [[query-what-is-the-difference-between-psilocybin-and-psilocin]] as its primary active compounds:
 
 - **Psilocybin content:** Generally lower than P. cyanescens but still significant, typically in the range of 0.3-1.0% dry weight depending on the specimen and growing conditions
 - **Psilocin content:** Present, contributing to the bluing reaction and psychoactive effects
@@ -33,7 +31,7 @@ Panaeolus tropicalis is a psilocybin-containing mushroom species closely related
 
 P. tropicalis can be cultivated using methods very similar to those used for [[mushroom-cultivation-grain-spawn]] works, though Panaeolus species do not colonise grain as densely as [[panaeolus-tropicalis-cultivation-differences]]
 
-- [[panaeolus-cyanescens-cultivation-guide]] — detailed cultivation methods applicable to P. tropicalis
+- [[panaeolus-cyanescens-cultivation-guide]] — detailed [[synthetic-log-cultivation-methods-guide]] applicable to P. tropicalis
 - [[panaeolus-subbalteatus-profile]] — comparison with another Panaeolus species
 - [[coprophilous-fungi]] — ecology of dung-inhabiting fungi
 - [[psilocybin-compound-profile]] — active compound chemistry
@@ -114,4 +112,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

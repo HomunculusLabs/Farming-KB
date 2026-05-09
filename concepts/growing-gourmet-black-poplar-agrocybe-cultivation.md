@@ -1,5 +1,5 @@
 ---
-title: "Black Poplar Mushroom Cultivation (Agrocybe aegerita)"
+title: "Black Poplar accessible-mushroom-cultivation-for-disabilities (Agrocybe aegerita)"
 created: 2026-04-26
 tags:
   - mushroom-cultivation
@@ -51,8 +51,8 @@ Growing saprophytically, often in clusters, on stumps in the
 southeastern United States and southern Europe. Preferring hardwoods,
 especially cottonwoods, willows, poplars, maples, box elders, and
 in China on tea-oil trees. Not known outside the southeastern
-states of Mississippi, Louisiana, and Georgia in North America.
-Common across southern Europe and similar climatic zones of the
+states of Mississippi, Louisiana, and Georgia in [[psilocybin-north-america-pacific-northwest]].
+Common across southern Europe and similar [[permaculture-designers-manual-climatic-zones-tropical]] of the
 Far East.
 
 ## Mycelial Characteristics and Fragrance
@@ -66,7 +66,7 @@ not pleasant.
 
 Petri dish cultures blended via Eberbach stirrers create liquid
 inoculum, which is injected into sterilized grain. Grain spawn can
-be used for sawdust spawn for outdoor inoculations or for direct
+be used for [[growing-gourmet-sawdust-spawn-production-use]] for outdoor inoculations or for direct
 inoculation into supplemented, sterilized hardwood sawdust. First
 and second generation grain spawn are standard; sawdust is
 recommended for third generation. Sawdust spawn is also used for
@@ -81,10 +81,10 @@ Recommended containers are polypropylene bags and trays. This
 mushroom is better grown from horizontal surfaces than vertical.
 
 ### Outdoor Cultivation
-Stumps of the above-mentioned trees. Outdoor wood chip beds also
+Stumps of the above-mentioned trees. [[stamets-outdoor-wood-chip-bed-mycelium-transplantation]] chip beds also
 produce well, much in the same manner as [[agaricus-bisporus-cultivation-biology]] (Agaricus brunnescens), marketing is not as difficult as
 with many "new" species. Primordia form readily on agar media,
-a notable feature that aids strain selection.
+a notable feature that aids [[blesching-cannabis-strain-selection-receptor-targeting]].
 
 ## Flavor and Cooking
 
@@ -98,5 +98,8 @@ absent any casing.
 ## Related Topics
 
 - [[growing-gourmet-tree-species-guide-mushroom-cultivation]]
-- [[growing-gourmet-supplemented-sawdust-sterilization]]
-- [[growing-gourmet-nutrified-agar-media]]
+- growing-gourmet-supplemented-sawdust-sterilization
+- growing-gourmet-nutrified-agar-media
+- [[spawn-production]]
+- [[malt-extract-agar]]
+- [[agaricus-brunnescens]]

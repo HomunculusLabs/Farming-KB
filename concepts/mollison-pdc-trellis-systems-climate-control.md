@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-design-course.md
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
 
@@ -18,11 +19,11 @@ type: concept
 
 ## Overview
 
-In Pamphlet IX of the Permaculture Design Course, Bill Mollison presents
+In Pamphlet IX of the [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Course, Bill Mollison presents
 trellising as far more than a simple support structure for climbing
 plants. He describes trellis systems as powerful tools for modifying
 microclimate, controlling wind, managing solar exposure, and creating
-vertical growing space within zone one and zone two gardens. Trellises
+vertical [[cotter-growing-space-design-fruiting-rooms]] within zone one and zone two gardens. Trellises
 are architectural elements that shape the environment around plants,
 turning a simple garden structure into a climate management device.
 
@@ -58,7 +59,7 @@ useful when both sides of the trellis need similar growing conditions.
 
 Mollison suggests that in hot climates, trellises can be used to create
 shade structures for the garden, reducing soil temperatures and
-protecting sensitive plants from afternoon heat. In cool climates, the
+protecting sensitive plants from afternoon heat. In [[greenhouse-cool-climates-mollison]], the
 thermal mass of a solid trellis wall can absorb heat during the day and
 release it at night, moderating temperature fluctuations.
 
@@ -86,13 +87,13 @@ whatever is locally available and durable: wooden posts and wire, bamboo
 structures, living trellises of tall plants, or even recycled materials.
 The key design consideration is strength. A trellis loaded with mature
 fruiting plants and exposed to wind must be robust enough to survive the
-growing season without collapsing.
+[[savory-growing-season-and-non-growing-season-management]] without collapsing.
 
 For permanent trellises, Mollison favors using living supports: fruit
 trees trained as espaliers, vigorous perennial vines like kiwi or
 grape, or even hedge plants that can serve dual roles as windbreaks and
 climbing supports. Living trellises integrate seamlessly into the
-permaculture landscape and do not require the energy inputs of
+[[holzer-permaculture-landscape-design]] and do not require the energy inputs of
 manufactured materials.
 
 ## Crop Integration on Trellises
@@ -105,7 +106,7 @@ through. Matching the leaf density to the needs of the understory crops
 is an important design decision.
 
 Some climbers also provide pest management benefits. Mollison mentions
-that certain flowering vines attract beneficial insects, while others
+that certain flowering vines attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], while others
 like nasturtium can act as trap crops for aphids. The trellis becomes
 not just a support structure but an integrated component of the garden's
 pest management system.
@@ -128,5 +129,11 @@ row covers or other artificial measures.
 ## Connection to Permaculture Design Principles
 
 The trellis system illustrates several core [[mollison-pdc-zone-one-vegetable-bed-design]]
-- [[mollison-windbreak-design]]
-- [[mollison-microclimate-creation]]
+- mollison-windbreak-design
+- mollison-microclimate-creation
+## See Also
+- [[permaculture-design]]
+- [[bill-mollison]]
+- [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]]
+- [[mollison-bamboo-permaculture-systems]]
+- [[mollison-designers-geese-and-duck-weed-control]]

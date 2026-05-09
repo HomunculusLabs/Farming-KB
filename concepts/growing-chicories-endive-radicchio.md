@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Chicories (Cichorium endivia and Cichorium intybus) are remarkably cold-hardy salad greens that Solomon considers underrated for winter gardening. They include endive, escarole, and radicchio.
+Chicories (Cichorium endivia and Cichorium intybus) are remarkably cold-hardy salad greens that Solomon considers underrated for [[solomon-winter-gardening-and-season-planning]]. They include endive, escarole, and radicchio.
 
 ## Cold Hardiness
 
@@ -44,7 +44,7 @@ If growing more slowly on poor soil, sow a bit earlier. The chicory root will mi
 
 - Productive and uniformly heading radicchio varieties have appeared recently, forming small, sound red, cabbage-like heads.
 - Radicchio usually heads best as a cool-season crop.
-- Many hybrid varieties are available but expensive. Most open-pollinated varieties are also fine.
+- Many [[cervantes-hybrid-varieties-types]] are available but expensive. Most open-pollinated varieties are also fine.
 - Allow a few outer leaves before cutting the heads.
 
 ## Pests and Diseases
@@ -57,7 +57,7 @@ In climates where the soil does freeze:
 
 1. Dig up heads a week or two before the soil starts freezing.
 2. Remove their carrot-like roots with soil attached.
-3. Transplant them into tubs or beds in a root cellar for winter use.
+3. Transplant them into tubs or beds in a [[comparison-root-cellar-vs-ice-house]] for winter use.
 4. If only a seed crop is intended, trim the tops (all but the growing point) and cellar only the roots as you would carrots in moist sand.
 
 ## Spring Seed Production

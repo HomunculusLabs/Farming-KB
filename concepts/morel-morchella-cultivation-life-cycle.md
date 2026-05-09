@@ -4,7 +4,7 @@ tags: [morchella, morel, mushroom-cultivation, sclerotia, morel-life-cycle, indo
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Growing Gourmet and Medicinal Mushrooms (Stamets, 1993)
+  - Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (Stamets, 1993)
 type: concept
 created: 2026-04-28
 ---
@@ -15,7 +15,7 @@ created: 2026-04-28
 
 Morels embody the mystique of mushrooms more than any other genus. They are elusive,
 highly camouflaged against the forest floor, and appear for only a few fleeting days
-each spring. Among Native American peoples, possibly the Mohawk, the Morel was known as
+each spring. Among [[halpern-sacramental-peyote-and-native-american-church]] peoples, possibly the Mohawk, the Morel was known as
 "Land-Fish," a poetic name that speaks to the reverence placed on this extraordinary
 fungus.
 
@@ -69,7 +69,7 @@ After environmental shock such as drying, temperature fluctuation, or nutrient
 depletion, the mycelium collapses and forms **sclerotia**, hardened asexual masses of
 cells resembling gold nuggets or walnuts. These serve as nutrient storage organs and
 resting stages for surviving inclement weather. Sclerotia formation is the key to
-successful Morel cultivation.
+successful [[cotter-morel-cultivation-research]].
 
 Different species produce distinct sclerotial types:
 
@@ -80,8 +80,8 @@ Different species produce distinct sclerotial types:
 | **M. crassipes** (Giant Morel) | Dense, slippery, heavy, dark/walnut-like, comparatively few in number |
 
 Sclerotia can be dried to the point of flammability without losing viability. Upon
-rehydration, cells swell and spring to life, transforming into a mushroom fruiting body
-or a new mycelial network. Morel mycelium produces sclerotia naturally on peat moss,
+rehydration, cells swell and spring to life, transforming into a [[ectomycorrhizal-mushroom-fruiting-ecology]] body
+or a new [[gadd-mycelial-network-dynamics]]. Morel mycelium produces sclerotia naturally on peat moss,
 sand, and straw. Other sclerotia-forming species include *Collybia tuberosa*, *Conocybe
 cyanopus*, *[[polyporus-umbellatus]]*, *Pleurotus
 tuber-regium*, and *[[paul-stamets]] developed an outdoor cultivation approach leveraging natural environmental
@@ -109,5 +109,4 @@ mushrooms, making cultivation work a sensory reward even before fruiting occurs.
 
 ## See Also
 
-- [[morchella-elata]] — Comparison of prized wild edible mushrooms
-- [[morchella-elata]] — Morchella species profile
+- [[morchella-elata]] — Comparison of prized wild [[palmer-edible-mushrooms-north-america]]

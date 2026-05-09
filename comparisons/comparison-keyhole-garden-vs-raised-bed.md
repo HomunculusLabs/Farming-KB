@@ -1,5 +1,5 @@
 ---
-title: "Keyhole Garden vs Raised Bed"
+title: "comparison keyhole garden vs raised bed vs Raised Bed"
 tags: [comparison, gardening, permaculture, raised-beds, keyhole-garden]
 date: 2026-04-28
 updated: 2026-04-28
@@ -13,13 +13,13 @@ type: comparison
 ## Overview
 
 Keyhole gardens and raised beds are both elevated growing systems that
-improve soil drainage, reduce bending, and concentrate soil amendments
+[[query-how-do-i-improve-soil-drainage-in-my-garden]], reduce bending, and concentrate soil amendments
 in a defined area. The key distinction is shape and internal structure:
 keyhole gardens use a circular design with a central compost basket and a
 notch for access, while raised beds are typically rectangular frames
 filled with soil. Keyhole gardens originated in Africa through
 humanitarian gardening programs and integrate composting directly into
-the growing space. Raised beds have broader global adoption and come in
+the [[cotter-growing-space-design-fruiting-rooms]]. Raised beds have broader global adoption and come in
 many variations including standard framed beds, hugelkultur mounds, and
 wicking beds.
 
@@ -40,10 +40,10 @@ square-foot or bio-intensive spacing methods.
 
 The rectangular form is extremely versatile. Raised beds can be placed
 in rows to create organized garden layouts, covered with hoops for
-season extension, fitted with drip irrigation lines, or connected into
+[[comparison-season-extension-techniques-vs-cold-frame-gardening]], fitted with [[comparison-drip-irrigation-vs-passive-irrigation]] lines, or connected into
 larger growing systems. They scale well — adding another bed is
 straightforward, and beds can be arranged to follow contours or fill
-available space. Crop rotation is simpler in rectangular beds because
+available space. [[comparison-crop-rotation-vs-cover-cropping]] is simpler in rectangular beds because
 families can move from one bed to the next each season. The long
 straight edges also work well with trellises, netting, and row covers.
 

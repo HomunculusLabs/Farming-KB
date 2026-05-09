@@ -4,14 +4,17 @@ created: 2026-05-02
 updated: 2026-05-02
 type: comparison
 tags: [cannabis, cultivation, mushroom-cultivation, processing]
-sources: []
+sources:
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 ---
      Cannabis Drying and Curing vs Flushing Before Harvest"
 tags: [comparison, harvest, curing, flushing, post-harvest]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 ---
 
 # Cannabis Drying and Curing vs Flushing Before Harvest
@@ -21,7 +24,7 @@ sources: []
 Drying, curing, and flushing are three critical post-cultivation processes that directly
 determine the final quality of harvested [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]] drying and curing vs flushing before harvest
 
-Drying and curing are the final and most critical stages of cannabis cultivation, responsible
+Drying and curing are the final and most critical stages of [[query-how-does-no-till-cannabis-cultivation-work]], responsible
 for transforming freshly harvested plant material into a stable, potent, and pleasant-smelling
 consumable product. The process begins at harvest, which should occur when approximately 50
 to 70 percent of the pistils have turned brown, trichome crystals have reached peak
@@ -29,7 +32,7 @@ production with a mix of cloudy and amber heads, and fan leaves have begun natur
 Harvesting at the right window ensures maximum cannabinoid and terpene content in the final
 product. Once harvested, branches are hung upside down in a controlled environment maintained
 at 60 to 70 degrees Fahrenheit, in complete darkness, with 45 to 55 percent relative humidity
-and gentle air circulation. Light exposure during drying degrades THC, so the drying space must
+and gentle [[stamets-growing-room-air-circulation-co2-management]]. Light exposure during drying degrades THC, so the drying space must
 be kept completely dark throughout the process.
 
 The initial drying phase typically lasts 2 to 3 weeks, during which the branches slowly lose
@@ -44,7 +47,7 @@ called "burping." The buds are also gently shaken or rearranged every few days t
 even moisture distribution and prevent pockets of moisture from developing.
 
 Curing should continue for a minimum of 3 to 4 weeks, though 8 weeks produces noticeably
-superior results. During this extended period, enzymes slowly break down remaining
+superior results. During this extended period, enzymes slowly [[query-can-fungi-break-down-plastic-pollution]] remaining
 chlorophyll and sugars, while residual moisture redistributes evenly throughout the [[cannabis-flushing-before-harvest]]
 
 Flushing is the practice of ceasing all nutrient feeding and watering plants with plain,
@@ -99,8 +102,8 @@ supply that needs to last between harvests, a thorough cure ensures consistent q
 ## When to Choose Focus on Flushing
 
 Flushing should be a standard practice in every grow, but it is especially critical in
-soil and soilless grows where mineral salt accumulation is most pronounced. Growers using
-heavy nutrient regimens with synthetic fertilizers will notice the biggest improvement in
+soil and soilless grows where mineral [[jadam-salt-accumulation-in-soil]] is most pronounced. Growers using
+heavy [[cannabis-nutrient-regimens-comparison]] with synthetic fertilizers will notice the biggest improvement in
 smoke quality from a proper flush, as these systems load the plant tissue with more residual
 minerals than organic or living soil approaches. If previous harvests produced harsh smoke,
 dark ash, or a chemical aftertaste, inadequate flushing is often the culprit.
@@ -111,7 +114,7 @@ material will carry through into the extraction process, contaminating the final
 concentrate and degrading its flavor, purity, and overall quality. A thorough flush
 ensures that the starting material for any extraction is as clean as possible, which
 directly translates to a cleaner, better-tasting final product whether you are making
-bubble hash, rosin, or infused oils.
+bubble hash, rosin, or [[query-how-to-make-herbal-infused-oils-at-home]].
 
 ## Hybrid Approaches
 

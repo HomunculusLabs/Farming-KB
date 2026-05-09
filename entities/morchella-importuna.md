@@ -15,7 +15,7 @@ sources:
   - Kuo, M. (2024). Morchella importuna. MushroomExpert.com
   - Volk, T. (2023). Morchella importuna. Tom Volk's Fungus of the Month
   - Richard, F. et al. (2015). "Morchella importuna." Mycotaxon 130(2): 475-484
-  - Stamets, P. (2020). Growing Gourmet and Medicinal Mushrooms. 3rd ed. Ten Speed Press
+  - Stamets, P. (2020). Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. 3rd ed. Ten Speed Press
   - Ower, R. et al. (1986). "Cultivation of Morchella." Mycologia 78(4): 547-554
 ---
 
@@ -31,7 +31,7 @@ sources:
 
 ## Distribution and Habitat
 
-*M. importuna* is widely distributed across temperate regions of North America and Europe. In North America, it is particularly common west of the Cascade Range in the Pacific Northwest and in coastal California, extending south into the Mediterranean-climate zones. European collections have been confirmed from Scandinavia, the UK, and central Europe.
+*M. importuna* is widely distributed across temperate regions of [[psilocybin-north-america-pacific-northwest]] and Europe. In North America, it is particularly common west of the Cascade Range in the Pacific Northwest and in coastal California, extending south into the Mediterranean-climate zones. European collections have been confirmed from Scandinavia, the UK, and central Europe.
 
 The species is strongly associated with **disturbed habitats** and is frequently found in:
 - **Landscaped areas:** Woodchip mulch beds (especially hardwood bark mulch), garden beds, and irrigated lawns
@@ -39,7 +39,7 @@ The species is strongly associated with **disturbed habitats** and is frequently
 - **Riparian zones:** Flood-deposited sediment along riverbanks and stream terraces
 - **Agricultural edges:** Orchard floors, vineyard margins, and disturbed field borders
 
-Fruiting occurs in spring (March–May in the Northern Hemisphere), often triggered by warming soil temperatures (8–15°C), sustained moisture, and soil disturbance. It frequently fruits in the same locations for consecutive years once established, forming persistent mycelial networks.
+Fruiting occurs in spring (March–May in the Northern Hemisphere), often triggered by warming soil temperatures (8–15°C), sustained moisture, and soil disturbance. It frequently fruits in the same locations for consecutive years once established, forming persistent [[fungal-mycelial-networks-nutrient-translocation]].
 
 ## Ecology
 
@@ -54,7 +54,7 @@ Associated trees include [[permplant-alder-alnus-nitrogen-fixing-non-legume]], a
 *M. importuna* is one of the few morel species successfully cultivated indoors, making it the primary species used in commercial morel production. The cultivation cycle involves:
 
 1. **Spawn preparation:** Mycelium is grown on sterilized grain (rye, wheat, or millet) spawn
-2. **Substrate preparation:** A nutrient-poor soil substrate (often a mixture of peat, perlite, and calcitic limestone) is pasteurized and inoculated with grain spawn
+2. **[[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]:** A nutrient-poor soil substrate (often a mixture of peat, perlite, and calcitic limestone) is pasteurized and inoculated with grain spawn
 3. **Colonization:** The substrate colonizes at 20–25°C for 4–6 weeks
 4. **Fruiting induction:** Soil is covered with a non-nutritive casing layer (often a sand/soil mixture). Temperature is dropped to 10–15°C, humidity raised to 90–95%, and light introduced at 12-hour photoperiods
 5. **Harvest:** Fruit bodies mature in 7–14 days after pinning. Yields of 2–4 kg/m² are achievable under optimized conditions
@@ -89,7 +89,7 @@ Dried morels are nutritionally dense compared to most culinary mushrooms:
 | Phosphorus | 600–900 mg |
 | B vitamins (B1, B2, B3, B5) | Significant amounts |
 
-Morels are among the richest non-animal sources of vitamin D among cultivated mushrooms when exposed to UV light during or after the drying process. Their mineral content — particularly iron, potassium, and phosphorus — exceeds that of most common edible mushrooms including [[lentinula-edodes]] (shiitake).
+Morels are among the richest non-animal sources of vitamin D among [[fungi-cultivated-mushrooms-pathogens-competitors]] when exposed to UV light during or after the drying process. Their mineral content — particularly iron, potassium, and phosphorus — exceeds that of most common edible mushrooms including [[lentinula-edodes]] (shiitake).
 
 ## Similar Species
 
@@ -97,7 +97,7 @@ Morels are among the richest non-animal sources of vitamin D among cultivated mu
 |---------|---------------------------|
 | *Morchella sextelata* | Post-fire specialist; more regular pit pattern; found primarily in recently burned conifer forests |
 | *Morchella elata* | Larger, more robust; found under conifers in undisturbed forests; ridges more longitudinally arranged |
-| *Morchella angusticeps* | Eastern North America; more pointed cap; darker pigmentation |
+| *Morchella angusticeps* | [[polypore-fungi-eastern-north-america]] America; more pointed cap; darker pigmentation |
 | *Morchella esculenta* | Yellow morel (different clade); lighter color, more rounded pits; prefers hardwood forests |
 | *Gyromitra esculenta* | **Toxic** — false morel; brain-like convoluted cap, not pitted; chambered stipe; contains gyromitrin |
 

@@ -1,14 +1,16 @@
 ---
-title: Zone and Sector Analysis in Permaculture
+title: Zone and mollison-designers-sector-analysis-wind-sun-fire in Permaculture
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [reference]
-sources: []
+sources:
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 # Zone and Sector Analysis in Permaculture
 
-Zone and sector analysis is the master pattern of permaculture design. It is the primary method for placing elements in a landscape based on energy conservation principles. See [[permaculture-site-analysis]] for the broader design context.
+Zone and sector analysis is the master pattern of [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. It is the primary method for placing elements in a landscape based on [[mollison-designers-home-energy-conservation-and-solar-heating]] principles. See [[permaculture-site-analysis]] for the broader design context.
 
 ## Zones: Frequency of Visit
 
@@ -24,11 +26,11 @@ The golden rule: develop the nearest area first, get it under control, then expa
 
 ### Zone 0: The Home Center
 
-Zone 0 centers on good house design with an attached [[permaculture-zone-0-house-design]].
+Zone 0 centers on good [[mollison-designers-house-design-climate-zones]] with an attached [[permaculture-zone-0-house-design]].
 
 ### Zone 1: Intensive Garden
 
-Within 6m (20 feet) of a home, householders can produce most food necessary to existence. This zone includes seedlings, young trees for outer zone placement, mother plants for cuttings, rare and delicate species, small domestic animals (fish, rabbits, pigeons, guinea pigs), culinary herbs, and rainwater catchment tanks connected to [[permaculture-zones-in-practice]].
+Within 6m (20 feet) of a home, householders can produce most food necessary to existence. This zone includes seedlings, young trees for outer zone placement, mother plants for cuttings, rare and delicate species, small domestic animals (fish, rabbits, pigeons, guinea pigs), [[holzer-medicinal-and-culinary-herbs-compendium]], and rainwater catchment tanks connected to [[permaculture-zones-in-practice]].
 
 ### Zone 4: Forage and Forestry
 
@@ -62,7 +64,7 @@ See [[keyline-design]] for slope-based water management.
 
 ### Slope and Infrastructure
 
-Slope analysis informs [[permaculture-designers-manual-settlement-types]] are placed at critical junctions of two natural ecologies -- foothill forests and plains, plain and marsh, or land and estuary. "Successful and permanent settlements have always been able to draw from the resources of at least two environments."
+[[mollison-designers-slope-analysis-keyline-design]] informs [[permaculture-designers-manual-settlement-types]] are placed at critical junctions of two natural ecologies -- foothill forests and plains, plain and marsh, or land and estuary. "Successful and permanent settlements have always been able to draw from the resources of at least two environments."
 
 ## The Basic Energy-Conserving Rules
 

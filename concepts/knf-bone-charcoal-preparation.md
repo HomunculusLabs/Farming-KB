@@ -1,5 +1,5 @@
 ---
-title: Bone Charcoal Preparation
+title: knf bone charcoal preparation Preparation
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Bone Charcoal Preparation
 
-**Source:** [[water-soluble-calcium-phosphate-wcp]]. The charcoal process removes organic matter and fats from the bones, leaving a porous mineral structure that can be dissolved by [[knf-water-soluble-phosphoric-acid-wspa]] uses sesame stem charcoal instead of bone charcoal. The two mineral inputs serve different nutritional purposes: WCP provides calcium and phosphate from animal sources, while WPA provides phosphoric acid from plant sources.
+**Source:** [[water-soluble-calcium-phosphate-wcp]]. The charcoal process removes [[hamilton-composting-and-organic-matter-management]] and fats from the bones, leaving a porous mineral structure that can be dissolved by [[knf-water-soluble-phosphoric-acid-wspa]] uses sesame stem charcoal instead of bone charcoal. The two mineral inputs serve different nutritional purposes: WCP provides calcium and phosphate from animal sources, while WPA provides [[cho-water-soluble-phosphoric-acid-preparation]] from plant sources.
 
 ## See Also
 
@@ -145,4 +145,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

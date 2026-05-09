@@ -78,7 +78,7 @@ The "fork test" (splitting longitudinally with a knife) is the most reliable fie
 ## Distribution and Habitat
 G. esculenta has a wide distribution across the Northern Hemisphere.
 It is common throughout central, northern, and eastern Europe, especially Scandinavia, Germany, and the Baltic states.
-In North America, it occurs across much of the continent, particularly in coniferous forests of the Pacific Northwest and Rocky Mountains.
+In [[psilocybin-north-america-pacific-northwest]], it occurs across much of the continent, particularly in coniferous forests of the Pacific Northwest and Rocky Mountains.
 The species fruits in spring to early summer (March to June), typically appearing before or alongside true morels.
 It grows primarily on sandy or loamy soils in coniferous and mixed forests under spruce, pine, fir, and aspen.
 Fruiting is stimulated by warming soil temperatures and spring rainfall.
@@ -89,7 +89,7 @@ Specimens at higher altitudes or in boreal zones may contain higher gyromitrin c
 G. esculenta contains gyromitrin (N-methyl-N-formylhydrazone), which hydrolyzes in the body to monomethylhydrazine (MMH).
 MMH inhibits pyridoxine (vitamin B6)-dependent enzymes, particularly glutamic acid decarboxylase (GAD).
 GAD synthesizes the inhibitory neurotransmitter GABA; its depletion causes neurological excitation and seizures.
-MMH also causes hepatocellular necrosis through direct cytotoxic effects via oxidative stress and mitochondrial disruption.
+MMH also causes hepatocellular necrosis through direct cytotoxic effects via [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] and mitochondrial disruption.
 Additionally, MMH is hemolytic, causing red blood cell destruction through oxidative membrane damage.
 Hepatic cytochrome P450 enzymes further metabolize MMH, generating reactive intermediates that amplify tissue damage.
 
@@ -126,12 +126,12 @@ Freezing does not destroy gyromitrin, and dried specimens retain toxicity indefi
 Some authorities strongly advise against consuming G. esculenta under any circumstances due to cumulative toxicity risk.
 
 ## Ecological Role
-G. esculenta is primarily saprotrophic, decomposing organic matter in forest soils and contributing to nutrient cycling.
+G. esculenta is primarily saprotrophic, decomposing [[hamilton-composting-and-organic-matter-management]] in forest soils and contributing to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 It may also form weak mycorrhizal associations with conifer roots, though the significance of this remains debated.
-The species is one of the earliest spring-fruiting fungi in temperate and boreal forests.
+The species is one of the earliest spring-fruiting fungi in temperate and [[fungal-diversity-boreal-forests-taiga]].
 It provides a food source for invertebrates and small mammals that appear resistant to gyromitrin toxicity.
 The fungus breaks down woody debris and leaf litter, releasing nitrogen and other nutrients back into the soil.
-These nutrients support overall forest productivity and benefit surrounding plant communities.
+These nutrients support overall [[fukuoka-textdoc-forest-productivity-without-fertilizer]] and benefit surrounding plant communities.
 
 ## See Also
 - [[morchella-angusticeps|Morchella angusticeps]]

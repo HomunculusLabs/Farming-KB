@@ -1,5 +1,5 @@
 ---
-title: "Syrian Rue (Peganum harmala)"
+title: "Syrian Rue (mckenna-food-gods-peganum-harmala-soma)"
 created: 2026-05-07
 type: species
 tags:
@@ -15,8 +15,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mahdavi, M., et al. (2019). "Peganum harmala: A Comprehensive Review of Traditional and Modern Uses." Phytotherapy Research, 33(5), 1232-1245.
-  - Frison, G., et al. (2008). "Detection of Harmala Alkaloids in Urine." Journal of Chromatography B, 867(1), 35-41.
-  - Samoylenko, V., et al. (2010). "Peganum harmala: Chemistry and Pharmacology." In: Bioactive Molecules from Natural Sources, 163-195.
+  - Frison, G., et al. (2008). "Detection of [[turner-harmala-alkaloids-preparation-and-dosage]] in Urine." Journal of Chromatography B, 867(1), 35-41.
+  - Samoylenko, V., et al. (2010). "Peganum harmala: [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]]." In: Bioactive Molecules from Natural Sources, 163-195.
   - Shulgin, A.T., Shulgin, A. (1997). TIHKAL: The Continuation. Transform Press.
   - Hesami, G., et al. (2020). "Peganum harmala L.: Phytochemistry, Traditional Uses, and Pharmacological Activities." Journal of Pharmacy & Pharmacognosy Research, 8(3), 241-267.
 ---
@@ -48,7 +48,7 @@ Preclinical studies have identified several mechanisms of therapeutic interest:
 
 ### Psychoactive Use
 
-- **Ayahuasca analogs:** Ground seeds (typically 2–5 g) are combined with DMT-containing plant material ([[mimosa-tenuiflora]] root bark) to create orally active preparations. This practice emerged in the global psychonaut community in the late 20th century
+- **[[schultes-ayahuasca-analogs-dmt-plants]]:** Ground seeds (typically 2–5 g) are combined with DMT-containing plant material ([[mimosa-tenuiflora]] root bark) to create orally active preparations. This practice emerged in the global psychonaut community in the late 20th century
 - **Smoking blends:** Seeds are sometimes smoked alone for mild psychoactive effects, though this is relatively uncommon due to harsh smoke and nausea
 
 ## Cultivation
@@ -58,9 +58,9 @@ P. harmala is easily cultivated from seed. Seeds require no cold stratification 
 ### Propagation Methods
 
 - **Direct sowing:** Seeds can be sown directly in the garden after the last frost, 5–10 mm deep. Germination rates of 60–80% are typical from fresh seed
-- **Seed treatment:** Light scarification (sandpaper) or a 12-hour water soak can improve germination rates, especially for older seeds
+- **[[jadam-seed-treatment-and-nursery-management]]:** Light scarification (sandpaper) or a 12-hour water soak can improve germination rates, especially for older seeds
 - **Division:** Established plants can be divided in spring, though the taproot makes this challenging. Stem cuttings are generally unsuccessful
-- **Container growing:** Syrian rue grows well in containers with sandy, well-drained potting mix. Container plants are smaller but still produce viable seed
+- **Container growing:** Syrian rue grows well in containers with sandy, well-drained [[solomon-potting-mix-and-seedling-soil-recipe]]. Container plants are smaller but still produce viable seed
 
 ### Landscape and Ecological Notes
 
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

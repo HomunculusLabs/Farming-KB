@@ -13,8 +13,8 @@ created: 2026-04-28
 
 Masanobu Fukuoka identified the integration of trees into flooded paddy rice
 fields as one of the finest examples of [[natural-farming]],
-this natural nutrient cycling replaces the synthetic or organic fertilizer
-inputs that both conventional and organic rice farming depend upon.
+this natural [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] replaces the synthetic or [[complete-organic-fertilizer-cof-recipe-solomon]]
+inputs that both [[jadam-conventional-and-organic-pesticide-integration]] rice farming depend upon.
 
 The cycling is continuous rather than seasonal. While rice is an annual crop
 that extracts nutrients during its growing period and leaves the soil
@@ -40,7 +40,7 @@ biodiversity within the paddy ecosystem.
 
 ### Habitat Creation
 
-Trees in paddies create structural habitat diversity that supports a wider
+Trees in paddies [[query-how-do-photonic-crystals-create-structural-color]] habitat diversity that supports a wider
 range of organisms than monoculture rice. Birds perch in the branches and
 contribute insect control by hunting pests that would otherwise attack the
 rice. Insects associated with the trees may include pollinators and predators
@@ -59,7 +59,7 @@ systems and fewer problems with root diseases caused by anaerobic pathogens.
 ## The Complete Ecological Community
 
 Fukuoka's description of the Sukhothai paddies emphasized that the finest
-natural farming systems join farmers with a diversity of plants and animals
+[[comparison-natural-farming-vs-permaculture]] systems join farmers with a diversity of plants and animals
 into a harmonious whole. In the integrated paddy-tree system, this
 comprehensive ecological community includes:
 
@@ -77,7 +77,7 @@ harvest alongside the rice crop, providing an additional protein source from
 the same land area.
 
 **Invertebrates:** Dragonflies, damselflies, predatory beetles, and other
-beneficial insects thrive in the diverse habitat created by the tree-paddy
+[[comparison-beneficial-insects-guide-vs-integrated-pest-management]] thrive in the diverse habitat created by the tree-paddy
 combination. The tree canopy provides additional niches for predatory insects
 that help control rice pests, while the standing water supports aquatic
 invertebrate communities that serve as food for fish and amphibians.

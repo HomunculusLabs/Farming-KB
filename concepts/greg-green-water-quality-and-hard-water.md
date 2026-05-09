@@ -1,5 +1,5 @@
 ---
-title: "Water Quality and Hard Water Management"
+title: "Water greg green water quality and hard water Water Management"
 created: 2026-04-28
 tags: [cannabis, water-quality, ph, hydroponics, nutrients]
 date: 2026-04-25
@@ -8,8 +8,8 @@ sources: [~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md]
 type: concept
 ---
 
-Water quality is a foundational element of cannabis cultivation that
-directly affects nutrient availability, plant health, and overall yield.
+Water quality is a foundational element of [[query-how-does-no-till-cannabis-cultivation-work]] that
+directly affects [[ph-and-nutrient-availability-garden-soils]], plant health, and overall yield.
 [[green-cannabis-ph-management-cannabis-growing]] and
 [[nutrient-lockout]], a
 condition where the plant cannot access nutrients even though they are
@@ -107,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

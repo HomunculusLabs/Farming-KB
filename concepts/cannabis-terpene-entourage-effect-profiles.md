@@ -1,5 +1,5 @@
 ---
-title: Cannabis Terpene Entourage Effect Profiles
+title: Cannabis blesching-cannabis-cannabinoid-terpene-entourage-effect Effect Profiles
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -23,7 +23,7 @@ Perhaps the most significant terpene discovery in cannabinoid science is (E)-bet
 
 - FDA-approved dietary plant-cannabinoid
 - Selectively activates CB2 receptors without psychoactive effects
-- Found in Cannabis sativa at 12-35% content
+- Found in [[comparison-cannabis-sativa-vs-cannabis-indica]] at 12-35% content
 - Also abundant in common spice plants
 - Protects against microbes, pain, inflammation, and cancer
 
@@ -47,7 +47,7 @@ Perhaps the most significant terpene discovery in cannabinoid science is (E)-bet
 
 ### Therapeutic Applications of (E)-BCP-Containing Spices
 
-Activation of CB2 receptors via dietary (E)-BCP may present a new therapeutic strategy for diseases associated with inflammation and oxidative stress. The Cannabis Health Index incorporates (E)-BCP-containing spice plants throughout its condition entries, recommending them as adjunctive anti-inflammatory therapies.
+Activation of CB2 receptors via dietary (E)-BCP may present a new therapeutic strategy for diseases associated with inflammation and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]. The [[blesching-cannabis-health-index-autoimmune-conditions]] incorporates (E)-BCP-containing spice plants throughout its condition entries, recommending them as adjunctive anti-inflammatory therapies.
 
 ## Major Cannabis Terpenes and Their Effects
 
@@ -110,7 +110,7 @@ Activation of CB2 receptors via dietary (E)-BCP may present a new therapeutic st
 
 - **Whole-plant cannabis** provides the full entourage of cannabinoids, terpenes, and other compounds
 - **Isolated THC or CBD** may be less effective than full-spectrum preparations
-- **Strain selection** should consider terpene profiles, not just THC/CBD content
+- **[[blesching-cannabis-strain-selection-receptor-targeting]]** should consider [[cannabis-terpene-profiles-sativa]], not just THC/CBD content
 - **Dietary adjuncts** like (E)-BCP-containing spices can supplement cannabinoid therapy
 - **Sativex** (prescription THC:CBD) retains some entourage properties compared to pure isolates
 
@@ -126,7 +126,6 @@ The entourage effect explains why centuries of traditional use of whole cannabis
 
 ## See Also
 
-- [[dom-compound-profile]]
 - [[dom-compound-profile]]
 - [[cannabis-cannabinoid-receptor-pharmacology]]
 - [[cannabis-for-neuropathic-pain]]

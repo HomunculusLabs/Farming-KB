@@ -22,14 +22,14 @@ Spores are ellipsoid to sub-ellipsoid, with a dark purplish-brown spore print. T
 
 ## Chemistry
 
-The species is reported to contain [[psilocin]], based on its classification within the psychoactive Psilocybe group and the characteristic bluing reaction observed in collected specimens. However, detailed quantitative analytical data remain limited in the published scientific literature. The bluing reaction is caused by the enzymatic oxidation of psilocin, mediated by laccase enzymes, producing blue-colored quinone polymers. This reaction is shared by virtually all psychoactive Psilocybe species and serves as the primary field indicator of psychoactive alkaloid content.
+The species is reported to contain [[psilocin]], based on its classification within the psychoactive Psilocybe group and the characteristic [[field-guide-psilocybin-bluing-reaction-identification]] observed in collected specimens. However, detailed quantitative analytical data remain limited in the published scientific literature. The bluing reaction is caused by the enzymatic oxidation of psilocin, mediated by [[singh-fungal-laccase-enzymes-bioremediation]], producing blue-colored quinone polymers. This reaction is shared by virtually all psychoactive Psilocybe species and serves as the primary field indicator of psychoactive alkaloid content.
 
 ## Chemical Profile
 
 While no published HPLC or GC-MS data specific to *P. kumaenorum* exists, comparison with better-studied tropical and subtropical Psilocybe species provides context:
 - [[psilocybe-subcubensis]] generally contains lower concentrations, roughly 0.3–0.6% psilocybin
 
-Most analytical work on Pacific psychoactive fungi has focused on more commonly encountered species such as [[psilocybe-cubensis]], leaving species like *P. kumaenorum* relatively understudied from a phytochemical perspective. No published analytical data specific to *P. kumaenorum* appears to exist in the peer-reviewed literature as of 2026. The [[copelandia-cyanescens]], [[psilocybe-subcubensis]]. Fruiting conditions in the Papua New Guinea highlands are favorable year-round due to consistent rainfall, though peak fruiting likely coincides with the wetter months.
+Most analytical work on Pacific [[cattle-dispersal-psychoactive-fungi-australia]] has focused on more commonly encountered species such as [[psilocybe-cubensis]], leaving species like *P. kumaenorum* relatively understudied from a phytochemical perspective. No published analytical data specific to *P. kumaenorum* appears to exist in the peer-reviewed literature as of 2026. The [[copelandia-cyanescens]], [[psilocybe-subcubensis]]. Fruiting conditions in the Papua New Guinea highlands are favorable year-round due to consistent rainfall, though peak fruiting likely coincides with the wetter months.
 
 ## Ethnomycological Significance
 
@@ -60,7 +60,7 @@ DNA barcoding of existing herbarium specimens or fresh collections from Papua Ne
 
 *Psilocybe kumaenorum* is potentially vulnerable due to the limited documentation of its distribution and the ongoing threats to tropical forest habitats in Papua New Guinea. The country's rainforests are subject to pressure from logging, agricultural expansion, and mining, which could threaten the microhabitats where the species occurs. However, the species' conservation status cannot be formally assessed without additional field data. Key research priorities for this species include:
 - Comprehensive morphological description from fresh material with microscopic illustrations
-- Chemical analysis using HPLC or LC-MS to quantify [[psilocin]] content
+- [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] using HPLC or LC-MS to quantify [[psilocin]] content
 - DNA barcoding and phylogenetic analysis using ITS and other genetic markers
 - Field surveys in Papua New Guinea highlands to assess distribution and abundance
 - Ethnopharmacological research with indigenous Kuma communities to document any traditional knowledge
@@ -68,7 +68,7 @@ DNA barcoding of existing herbarium specimens or fresh collections from Papua Ne
 The extremely limited published information about *P. kumaenorum* makes it one of the most poorly documented psychoactive mushroom species currently recognized. Even basic taxonomic questions — such as whether it represents a distinct species or a synonym of a more widely distributed taxon — remain unanswered.
 ## Seasonality
 
-While specific seasonal data for *P. kumaenorum* are not well documented, the tropical climate of Papua New Guinea's highlands provides conditions suitable for fungal fruiting year-round. Peak fruiting likely coincides with the wetter months, when consistent rainfall maintains the high humidity levels necessary for fruiting body development. In the highland regions where the species was originally documented, the climate is cooler and more seasonal than the lowland tropics, with distinct wet and dry seasons that may influence fruiting patterns. The combination of consistent moisture and moderate temperatures in the Papua New Guinea highlands (typically 15–25°C) creates ideal conditions for psilocybin mushroom fruiting throughout much of the year.
+While specific seasonal data for *P. kumaenorum* are not well documented, the tropical climate of Papua New Guinea's highlands provides conditions suitable for fungal fruiting year-round. Peak fruiting likely coincides with the wetter months, when consistent rainfall maintains the high humidity levels necessary for fruiting body development. In the highland regions where the species was originally documented, the climate is cooler and more seasonal than the lowland tropics, with distinct wet and dry seasons that may influence fruiting patterns. The combination of consistent moisture and moderate temperatures in the Papua New Guinea highlands (typically 15–25°C) creates ideal conditions for [[emcdda-psilocybin-mushroom-dose-and-effects]] fruiting throughout much of the year.
 ## See Also
 
 - [[copelandia-cyanescens]] — widely distributed psychoactive species in the Pacific
@@ -76,5 +76,5 @@ While specific seasonal data for *P. kumaenorum* are not well documented, the tr
 - [[psilocybe-cubensis]] — the most widely distributed tropical psychoactive mushroom
 - [[john-w-allen]] — researcher who documented psychoactive fungi of the Pacific region
 - [[galerina-marginata]] — deadly lookalike containing amatoxins
-- [[psilocybin-biosynthesis-pathway]] — genetic basis of psilocybin production
+- [[psilocybin-biosynthesis-pathway]] — genetic basis of [[gottlieb-psilocybin-production-extraction-methods]]
 - [[psilocin]] — active metabolite

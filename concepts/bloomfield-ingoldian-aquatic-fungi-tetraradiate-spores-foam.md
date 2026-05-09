@@ -1,5 +1,5 @@
 ---
-title: Ingoldian Aquatic Fungi and Tetraradiate Spore Dispersal
+title: bloomfield-ingoldian-aquatic-fungi-spore-dispersal Fungi and Tetraradiate aquatic-fungi-spore-dispersal-ingold
 created: 2026-04-28
 tags:
   - mycology
@@ -20,7 +20,7 @@ type: concept
 
 Ingoldian fungi are a remarkable group of aquatic microfungi that produce elaborately
 shaped conidia in freshwater streams and creeks worldwide. Named for their discoverer,
-Cecil Terence Ingold, who first identified them in foam collected from an alder-lined
+Cecil [[terence-ingold-mycologist]], who first identified them in foam collected from an alder-lined
 brook in Leicester in 1938, these fungi are instrumental in leaf decomposition and play
 a critical role in freshwater food webs. More than 300 species have since been identified,
 and they are the subject of over 1,000 scientific publications.
@@ -96,7 +96,7 @@ cellulose-degrading enzymes. Hyphae thoroughly insinuate themselves in the decay
 leaves, raising the protein content of the debris as dead plant material is
 transformed into living fungus. This microbial processing of leaves is a boon for tiny
 crustaceans that flourish on the resulting compost. The fungi exit their substrate by
-sprouting forests of hyphae at the leaf surface and forming canopies of new spores.
+sprouting forests of hyphae at the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] and forming canopies of new spores.
 
 ## Aero-Aquatic Fungi
 

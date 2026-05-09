@@ -27,17 +27,17 @@ Wasson and Valentina identified a fundamental cultural divide: mycophilia (mushr
 
 ## The Mexican Discovery
 
-Wasson's research on the Mazatec Indians of Oaxaca, Mexico, led him to the remote town of Huautla de Jiménez. There, following earlier leads from Jean Basset Johnson and Robert Weitlaner, Wasson and his wife participated in a velada (indigenous mushroom vigil) in 1955, guided by a local curandero named Aurelio Carreras. Though only the curandero consumed mushrooms, Wasson was able to witness and document an authentic ceremony.
+Wasson's research on the Mazatec Indians of Oaxaca, Mexico, led him to the remote town of Huautla de Jiménez. There, following earlier leads from Jean Basset Johnson and Robert Weitlaner, Wasson and his wife participated in a velada (indigenous mushroom vigil) in 1955, guided by a local curandero named Aurelio Carreras. Though only the curandero consumed mushrooms, Wasson was able to witness and document an [[ayahuasca-commercial-vs-authentic-ceremony-dynamics]].
 
 ## The 1957 Life Article
 
-Wasson's 1957 *Life* magazine article "Seeking the Magic Mushroom" brought psilocybin mushrooms to global attention. The article played a major role in kick-starting the psychedelic revolution — key figures including [[timothy-leary]] experimented with psychedelics as a direct result of reading it.
+Wasson's 1957 *Life* magazine article "Seeking the Magic Mushroom" brought [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] to global attention. The article played a major role in kick-starting the psychedelic revolution — key figures including [[timothy-leary]] experimented with psychedelics as a direct result of reading it.
 
 ## Scientific Contributions
 
-- Coined the terms "mycophilia" and "mycophobia" to describe cultural attitudes toward mushrooms
-- Proposed that the Vedic Soma was *Amanita muscaria* (controversial hypothesis detailed in *Soma: Divine Mushroom of Immortality*, 1968)
-- Proposed that the Eleusinian Mysteries of ancient Greece involved ergot (claviceps) as the kykeon ingredient (*The Road to Eleusis*, 1978)
+- Coined the terms "mycophilia" and "mycophobia" to describe [[weil-cultural-attitudes-toward-altered-states]] toward mushrooms
+- Proposed that the Vedic Soma was *[[allegro-amanita-muscaria-properties-and-pharmacology]]* (controversial hypothesis detailed in *Soma: Divine Mushroom of Immortality*, 1968)
+- Proposed that the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] of ancient Greece involved ergot (claviceps) as the kykeon ingredient (*The Road to Eleusis*, 1978)
 - His work led [[albert-hofmann]] to isolate psilocybin from Mexican mushrooms (1958)
 - Co-authored the "Entheogens" paper (Ruck, Bigwood, Staples, Ott & Wasson 1979) introducing the term "entheogen"
 
@@ -47,7 +47,7 @@ After Valentina died in 1958, Wasson continued their investigations alone, publi
 
 ## Legacy
 
-Wasson's dual identity — Wall Street banker by day, ethnomycological pioneer by avocation — made him a unique figure. His discovery opened the door for all subsequent research on psychoactive mushrooms and their cultural significance.
+Wasson's dual identity — Wall Street banker by day, ethnomycological pioneer by avocation — made him a unique figure. His discovery opened the door for all subsequent research on psychoactive mushrooms and their [[ethnomycology-cultural-significance-sacred-fungi]].
 
 ## Related
 
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

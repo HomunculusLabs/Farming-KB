@@ -27,7 +27,7 @@ No reliable oral dosage has been established.
 
 ## Synthesis
 
-The synthesis follows the standard oxalyl chloride route. Indole in anhydrous diethyl ether is treated with oxalyl chloride in ether to form indol-3-ylglyoxyl chloride, which is collected by filtration and used directly. This intermediate is added portionwise to dibutylamine, and after workup, the resulting indol-3-yl N,N-dibutylglyoxylamide is recrystallized from aqueous ethanol (mp 131-132 degrees C, 77 percent yield).
+The synthesis follows the standard [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] route. Indole in anhydrous diethyl ether is treated with oxalyl chloride in ether to form indol-3-ylglyoxyl chloride, which is collected by filtration and used directly. This intermediate is added portionwise to dibutylamine, and after workup, the resulting indol-3-yl N,N-dibutylglyoxylamide is recrystallized from aqueous ethanol (mp 131-132 degrees C, 77 percent yield).
 
 Reduction with LAH in dioxane at reflux for 16 hours, followed by standard workup and conversion to the hydrochloride salt, gives N,N-dibutyltryptamine hydrochloride (mp 186-188 degrees C, 64 percent yield from the amide).
 
@@ -37,7 +37,7 @@ The diisobutyl analogue (DIBT) has been synthesized by the parallel procedure. I
 
 DBT occupies a critical position in the systematic exploration of dialkyl tryptamine chain lengths. The series proceeds as follows: DMT (two methyl groups, two carbons total), DET (two ethyl groups, four carbons), DPT (two propyl groups, six carbons), and DBT (two butyl groups, eight carbons).
 
-The general trend shows that as chain length increases beyond dimethyl, oral activity emerges (DET, DPT, and [[amt-entity-tihkal]] — the dimethyl analogue (2 carbons), a powerful psychedelic.
+The general trend shows that as chain length increases beyond dimethyl, [[tihkal-oral-activity-mao-inhibition]] emerges (DET, DPT, and [[amt-entity-tihkal]] — the dimethyl analogue (2 carbons), a powerful psychedelic.
 [[4-ho-dpt-entity-tihkal]] — the dipropyl analogue (6 carbons), an orally active psychedelic.
 [[nmt-entity-tihkal]] — the mono-methyl starting point of the series.
 
@@ -45,13 +45,13 @@ The general trend shows that as chain length increases beyond dimethyl, oral act
 
 The DBT entry in TIHKAL is notable not only for the compound itself but for Shulgin's detailed exposition of his tryptamine coding system. This systematic nomenclature was developed to organize the growing number of tryptamine derivatives being synthesized and tested, and it reflects the Shulgins' commitment to methodical, encyclopedic documentation.
 
-DBT represents the upper limit of the dialkyl tryptamine chain-length series that produced active compounds, making it a critical reference point for understanding steric constraints on serotonin receptor binding.
+DBT represents the upper limit of the dialkyl tryptamine chain-length series that produced active compounds, making it a critical reference point for understanding steric constraints on serotonin [[tihkal-receptor-binding-serotonin]].
 
 ## Modern Significance
 
 The chain-length trends established through DBT and related compounds continue to inform computational pharmacology and molecular modeling of serotonin receptor interactions. The concept that increasing steric bulk around the terminal nitrogen eventually prevents receptor engagement has been validated by crystallographic studies of receptor-ligand complexes.
 
-Shulgin's coding system, while never widely adopted outside TIHKAL, represents an early attempt at systematic drug classification that anticipates modern cheminformatics approaches to compound libraries.
+Shulgin's coding system, while never widely adopted outside TIHKAL, represents an early attempt at systematic [[emcdda-hallucinogenic-drug-classification-and-terminology-taxonomy]] that anticipates modern cheminformatics approaches to compound libraries.
 
 ## Additional References
 
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

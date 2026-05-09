@@ -1,5 +1,5 @@
 ---
-title: Tropical Home Garden Design
+title: mollison tropical home garden design comparison-mandala-garden-design-vs-keyhole-garden-design
 created: 2026-04-26
 tags: [tropical, home-garden, polyculture, zone-one, permaculture]
 date: 2026-04-25
@@ -13,7 +13,7 @@ type: concept
 
 The tropical home garden, as presented by Bill Mollison in
 Permaculture: A Designers' Manual, represents the most
-intensive and species-rich zone of the permaculture landscape.
+intensive and species-rich zone of the [[holzer-permaculture-landscape-design]].
 It is the area around the dwelling where the full complexity of
 tropical polyculture can be expressed, integrating food,
 medicine, structural materials, and animal systems in a compact,
@@ -35,16 +35,16 @@ varieties or root-stocks.
 ## Framework Species
 
 The garden and orchard framework consists of mango, papaya,
-sapote, banana, limes, coconut, cashew, macadamia nut,
+sapote, banana, limes, coconut, cashew, [[mollison-designers-macadamia-nut-in-tropical-polyculture]],
 breadfruit, mound-planted avocado and pineapple, durian, and
 any productive palm crops. Large legumes such as Inga,
 Gliricidia, Leucaena, and Cajanus are essential interplants.
-This framework mirrors the structure of natural tropical forest,
+This framework mirrors the structure of natural [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]],
 with canopy, understorey, and ground layers all productive.
 
 ## Vegetable Garden Species
 
-In the vegetable garden, yam and sweet potato yield better
+In the vegetable garden, yam and [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]] yield better
 than, or in place of, potato. Adapted small-fruits and tomatoes
 of wilt-resistant strains grow well. Amaranth is a good green
 and grain crop. Lima, velvet, and Dolichos beans trellis on

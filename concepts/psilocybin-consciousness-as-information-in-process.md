@@ -1,9 +1,9 @@
 ---
-title: Psilocybin Consciousness as Information in Process
+title: Psilocybin psilocybin consciousness as information in process in Process
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Powell - The Psilocybin Solution"
+  - "Powell - The powell-psilocybin-solution-ecological-cognition-theory"
 type: concept
 tags: [psilocybin]
 ---
@@ -24,7 +24,7 @@ Powell argues that all objects, whether organic or inorganic, possess intrinsic 
 
 ## The Self and the Other
 
-Powell proposes that during entheogenic experience, consciousness appears to split into two informational entities: the self (ego) and the Other. The Other represents an organised source of intentional information that communicates with the individual whose neuronal system is infused with [[psychedelic-mushroom-set-and-setting]] called the "Gaian Mind."
+Powell proposes that during entheogenic experience, consciousness appears to split into two informational entities: the self (ego) and the Other. The Other represents an organised source of intentional information that communicates with the individual whose neuronal system is infused with [[psychedelic-mushroom-set-and-setting]] called the "[[powell-gaian-mind-and-entheogenic-flora]]."
 
 ## The Language of Shamanic Contemplation
 
@@ -36,7 +36,7 @@ Powell notes that this inner psychedelic language involving complex thoughts and
 
 The application of Claude Shannon's information theory to the study of consciousness represents one of the most promising frameworks for understanding how psychedelic compounds like [[mdma-reference]] reduce the precision — the confidence or weight — of higher-level predictions, allowing bottom-up sensory signals and lower-level priors to exert greater influence on conscious experience. In essence, the brain's "filtering" or "editing" function is relaxed, allowing a flood of normally suppressed information to reach conscious awareness.
 
-This model elegantly explains many characteristic features of the psychedelic experience. The enhancement of visual perception — the intensified colours, patterns, and textures reported by users — can be understood as a consequence of reduced top-down prediction, allowing raw sensory data to be experienced with less interpretive filtering. The dissolution of the ego, or "ego death," can be understood as the consequence of reduced precision in the default mode network's predictions about the self, allowing the rigid boundary between self and world to become more permeable. The experience of synaesthesia — seeing sounds or hearing colours — can be understood as the consequence of reduced precision in the brain's predictions about which sensory modalities should remain segregated.
+This model elegantly explains many characteristic features of the [[leary-psychedelic-experience-bardo-mapping]]. The enhancement of visual perception — the intensified colours, patterns, and textures reported by users — can be understood as a consequence of reduced top-down prediction, allowing raw sensory data to be experienced with less interpretive filtering. The dissolution of the ego, or "ego death," can be understood as the consequence of reduced precision in the [[psilocybin-default-mode-network-ego-dissolution]] network's predictions about the self, allowing the rigid boundary between self and world to become more permeable. The experience of synaesthesia — seeing sounds or hearing colours — can be understood as the consequence of reduced precision in the brain's predictions about which sensory modalities should remain segregated.
 
 The predictive processing framework also provides a neurobiological account of the therapeutic potential of psychedelics. Under normal conditions, maladaptive mental states such as depression and addiction are maintained by rigid, high-precision prior beliefs — deeply ingrained patterns of thought and behaviour that resist change. By temporarily relaxing the precision of these priors, psychedelics create a window of cognitive flexibility in which new, healthier patterns can be established. This is consistent with clinical findings that a single psychedelic session can produce lasting therapeutic change, particularly when combined with [[psilocybin-mushroom-identification]]. If the therapeutic benefit of psychedelics derives from their capacity to increase the informational richness and flexibility of brain function — to temporarily dissolve rigid, maladaptive patterns of information processing — then the optimal therapeutic approach is one that supports and integrates this increased informational capacity rather than merely managing symptoms.
 
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

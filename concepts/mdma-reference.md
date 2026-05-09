@@ -41,8 +41,8 @@ MDMA is structurally related to:
 - Gained popularity in recreational settings in the early 1980s
 - Emergency scheduling by the DEA in 1985 despite ongoing legal challenges
 - Made permanently Schedule I in 1986
-- Rick Doblin founded MAPS (Multidisciplinary Association for Psychedelic Studies) in 1986 to pursue MDMA research
-- MAPS-sponsored Phase 3 clinical trials for MDMA-assisted therapy for PTSD completed in 2021-2024 with positive results
+- Rick Doblin founded MAPS ([[maps-multidisciplinary-association-for-psychedelic-studies]] for Psychedelic Studies) in 1986 to pursue MDMA research
+- MAPS-sponsored Phase 3 [[mushroom-cancer-clinical-trials-overview]] for MDMA-assisted therapy for PTSD completed in 2021-2024 with positive results
 - FDA advisory committee review for MDMA-PTSD approval began in 2024
 
 ## Pharmacology
@@ -89,7 +89,7 @@ Note: street MDMA varies enormously in purity and content. Pills may contain:
 - Methylone, mephedrone, or other cathinones (NPS — novel psychoactive substances)
 - MDMA mixed with amphetamine, caffeine, or other substances
 - Purity ranges from 0% to 90%+ in seized samples
-- Testing with reagents (Marquis, Mecke, Simon's) is essential for harm reduction
+- Testing with reagents (Marquis, Mecke, Simon's) is essential for [[adverse-effects-and-harm-reduction-psilocybin]]
 
 ## Effects
 
@@ -140,42 +140,6 @@ This is the most advanced clinical application:
 - End-of-life anxiety
 
 ## Harm Reduction
-
-### Acute Risks
-
-- Hyponatremia: from drinking excessive water (SIADH). Drink 250-500 ml/hour; do not overhydrate
-- Hyperthermia: most dangerous acute risk. Stay cool, take breaks, use cool water
-- Serotonin syndrome: risk when combined with other serotonergic drugs (SSRIs, MAOIs, tramadol). Can be fatal
-- Cardiovascular events: dangerous for those with cardiovascular conditions
-
-### Reducing Harm
-
-- Test substance (reagent tests, ideally fentanyl test strips)
-- Start low dose (especially with unknown purity)
-- Stay hydrated: 250-500 ml/hour non-alcoholic fluids; don't overhydrate
-- Take breaks from physical activity; maintain cool environment
-- Do not combine with SSRIs (reduces effects AND increases serotonin syndrome risk)
-- Wait 6-8 weeks between uses for serotonin recovery
-- Magnesium supplements before use may reduce jaw clenching
-- Have trusted friend present
-
-### Long-Term Harm Reduction
-
-- Frequency: maximum once per month; ideally much less
-- Dose: keep doses moderate (75-125 mg)
-- Avoid redosing (increases neurotoxicity risk with less benefit)
-- Exercise, good nutrition, and adequate sleep support recovery
-- Monitor mood and cognitive function for persistent problems
-
-## Legal Status
-
-- United States: Schedule I (since 1986)
-- United Nations: Schedule I under the 1971 Convention
-- Canada: Schedule I
-- United Kingdom: Class A
-- Australia: Schedule 9 (prohibited)
-- Most countries: Schedule I or equivalent
-- Clinical research permitted under specific regulatory frameworks
 
 ## See Also
 

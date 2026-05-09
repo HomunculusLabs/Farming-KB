@@ -7,12 +7,12 @@ created: 2026-05-08
 
 # Fukuoka Rice-Barley Succession
 
-The direct seeding winter grain and rice succession method is Masanobu
+The [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] winter grain and rice succession method is Masanobu
 Fukuoka's most celebrated agricultural innovation. This system allows rice
 and winter grain (barley or rye) to be grown on the same land year after
 year without plowing, flooding, or the application of any fertilizer or
 chemicals. It represents a radical departure from both traditional Asian
-paddy rice cultivation and modern scientific agriculture, yet it produces
+paddy rice cultivation and modern [[fukuoka-critique-scientific-agriculture-civilization]], yet it produces
 yields that equal or exceed the top-producing farms in Japan. The system
 is remarkably efficient: the entire year's planting for a quarter-acre
 field can be completed by one or two people in a matter of days.
@@ -25,7 +25,7 @@ followed by winter grain seed (rye or barley) in the middle of the month.
 The rice is harvested in early November, and the rice straw is immediately
 spread back over the field as a mulch. This straw layer serves multiple
 functions: it protects the emerging grain seedlings, suppresses weeds,
-retains moisture, and adds organic matter to the soil as it decomposes.
+retains moisture, and adds [[hamilton-composting-and-organic-matter-management]] to the soil as it decomposes.
 The clover establishes itself through winter, forming a living ground cover
 that fixes nitrogen and further suppresses weed growth. In late May, the
 winter grain is harvested, threshed, and the grain straw is spread over
@@ -42,7 +42,7 @@ cover fixes atmospheric nitrogen, providing all the fertility the crops
 need without external fertilization. The clover also suppresses weeds by
 forming a dense mat that blocks sunlight from reaching weed seeds in the
 soil. The straw mulch adds organic matter, improves soil structure,
-provides habitat for beneficial insects, and protects the soil surface
+provides [[query-how-do-i-design-habitat-for-beneficial-insects]] insects, and protects the soil surface
 from erosion and temperature extremes. The diverse ecosystem that develops
 in the field, including spiders, frogs, toads, and predatory insects,
 naturally controls pest populations without any chemical intervention.
@@ -97,8 +97,8 @@ exceeded the top-producing farms in all of Japan.
 Fukuoka's method was tested over a wide range of climates and natural
 conditions across Japan. Almost every prefecture ran tests comparing
 yields of direct seeding non-cultivation with conventional paddy rice
-and ridge-and-furrow winter grain cultivation. These tests produced no
-evidence to contradict the universal applicability of natural farming.
+and ridge-and-furrow winter [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]]. These tests produced no
+evidence to contradict the universal applicability of [[comparison-natural-farming-vs-permaculture]].
 University laboratories and agricultural testing centres across the
 country confirmed that the method was the most simple, efficient, and
 up-to-date method of all. Despite this validation, adoption remained

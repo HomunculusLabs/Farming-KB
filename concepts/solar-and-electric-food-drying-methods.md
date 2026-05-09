@@ -1,10 +1,11 @@
 ---
-title: Solar and Electric Food Drying Methods
+title: Solar and solar and electric food drying methods Methods
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [food, nutrition]
-sources: []
+sources:
+  sources: []
 ---
 
 # Solar and Electric Food Drying Methods
@@ -31,19 +32,19 @@ Several solar dryer designs improve upon open sun drying by capturing heat and i
 
 - **Chimney-type dryers** -- use natural convection driven by a tall chimney to draw air through the drying chamber without any fans
 
-A well-designed indirect solar dryer can reach temperatures of 50-65 degrees C even in moderate climates, sufficient for drying most fruits and vegetables in 1-3 days. The key design principles are maximizing solar collection area, ensuring good airflow through the food chamber, and protecting food from insects and rain.
+A well-designed indirect solar dryer can reach temperatures of 50-65 degrees C even in moderate climates, sufficient for drying most fruits and vegetables in 1-3 days. The key [[holmgren-permaculture-twelve-design-principles-framework]] are maximizing solar collection area, ensuring good airflow through the food chamber, and protecting food from insects and rain.
 
 ## Electric Dehydrating
 
 Electric dehydrators use a heating element and fan, and some models work effectively with a fan alone. Different foods dry at different rates, so keep each type on separate trays and label everything.
 
-When choosing an electric dehydrator, consider capacity, temperature range, thermostat accuracy, and noise level. Stackable tray models offer flexible capacity but may have uneven drying, while box-style dehydrators with rear-mounted fans provide more consistent results across all trays.
+When choosing an electric dehydrator, consider capacity, [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]], thermostat accuracy, and noise level. Stackable tray models offer flexible capacity but may have uneven drying, while box-style dehydrators with rear-mounted fans provide more consistent results across all trays.
 
 ## Step-by-Step Drying Process
 
 ### 1. Preparation
 
-Use only ripe fruits and vegetables. Wash thoroughly, peel, and slice very thin (except peas and corn, which can be removed from pods and cobs directly). For seed pods, harvest before they burst and use whole. Over-ripe or fermenting fruit can still make good fruit leather -- wash, peel, remove seeds and pits, then puree. The puree must be thin enough to pour but not watery (add fruit juice or water if too thick, more fruit puree if too thin).
+Use only ripe fruits and vegetables. Wash thoroughly, peel, and slice very thin (except peas and corn, which can be removed from pods and cobs directly). For seed pods, harvest before they burst and use whole. Over-ripe or fermenting fruit can still make good fruit leather -- wash, peel, remove seeds and pits, then puree. The puree must be thin enough to pour but not watery (add [[bionutrients-lab-fermented-fruit-juice-ffj]] or water if too thick, more fruit puree if too thin).
 
 For meat jerky: choose lean cuts of beef, buffalo, goat, or deer (not pork -- too fatty). Cut strips about 1 inch wide and 1/2 inch tall along the grain. Sprinkle with ground pepper and salt.
 
@@ -93,5 +94,5 @@ Drying preserves most nutrients effectively. Vitamin C is the most heat-sensitiv
 
 - [[homesteading-food-preservation]]
 
-- [[faires-food-drying-and-no-energy-storage]]
-- [[faires-preserving-whole-foods]]
+- faires-food-drying-and-no-energy-storage
+- faires-preserving-whole-foods

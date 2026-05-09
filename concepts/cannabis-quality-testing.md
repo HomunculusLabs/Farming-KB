@@ -16,7 +16,7 @@ Cannabis quality testing encompasses the assessment of potency, purity, flavor, 
 
 ## Trichome Inspection at Harvest
 
-The best gauge of peak ripeness is the color of the resin glands (trichomes). Using a 10-30X microscope or jeweler's loupe, growers assess trichome development:
+The best gauge of peak ripeness is the color of the resin glands (trichomes). Using a 10-30X microscope or jeweler's loupe, growers assess [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]]:
 
 ### Trichome Color Stages
 
@@ -100,7 +100,7 @@ Indicators of poor quality cannabis:
 - Buds crackle when burning (fertilizer residue)
 - Buds smell like chemicals (improper flushing)
 - Leaves are brittle at harvest (nutrient imbalance)
-- Leaf tips and fringes are burned (nutrient burn)
+- Leaf tips and fringes are burned ([[cannabis-nutrient-burn-and-toxicity]])
 - Mold growth during storage (incomplete drying)
 - Harsh, unpleasant smoke (fast drying or contamination)
 

@@ -3,6 +3,7 @@ title: Nutrient Film Technique (NFT) for Cannabis
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
@@ -11,7 +12,7 @@ tags: [nutrients]
 
 # Nutrient Film Technique (NFT) for Cannabis
 
-Nutrient Film Technique (NFT) is a high-performance active recovery hydroponic system in which a thin film of aerated nutrient solution flows continuously over plant roots housed in enclosed gullies or channels. NFT is classified as an active hydroponic system because it actively moves the nutrient solution through the growing apparatus using a pump.
+Nutrient Film Technique (NFT) is a high-performance active recovery hydroponic system in which a thin film of aerated [[cannabis-nutrient-solution-preparation]] flows continuously over plant roots housed in enclosed gullies or channels. NFT is classified as an active hydroponic system because it actively moves the nutrient solution through the growing apparatus using a pump.
 
 ## How NFT Works
 
@@ -45,10 +46,10 @@ Many NFT gullies have ribs on the underside that provide structural support, pre
 
 ## Disadvantages and Risks
 
-- **No buffering ability**: NFT offers practically no buffering capacity. In the absence of a substantial Cannabis Growing Mediums, roots must be kept perfectly moist by the nutrient solution at all times.
+- **No buffering ability**: NFT offers practically no buffering capacity. In the absence of a substantial [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]] Mediums, roots must be kept perfectly moist by the nutrient solution at all times.
 - **Pump dependency**: If the pump fails, roots dry out and die quickly. Even a single day without flow can kill small feeder roots, causing grave consequences.
 - **Experience required**: Only growers with several years of experience should attempt an NFT system if working alone. With assistance, NFT systems are easier to master.
-- **Nozzle clogging**: In hybrid systems that use spray nozzles, clogged nozzles can be difficult to access and maintain.
+- **Nozzle clogging**: In hybrid systems that use [[ingham-spray-nozzles-equipment-compost-tea]], clogged nozzles can be difficult to access and maintain.
 
 ## Hybrid NFT Systems
 
@@ -72,7 +73,7 @@ Proper [[cervantes-passive-wick-hydroponic-systems]] in several important ways:
 
 - **vs. DWC**: [[ebb-and-flow]] floods and drains the growing medium periodically, while NFT maintains constant flow. Ebb and flow provides more buffering through the growing medium.
 - **vs. Aeroponics**: banisteriopsis caapi mists roots with nutrient solution, while NFT flows solution over roots. Both lack medium buffering, but aeroponics provides more oxygen at the root zone.
-- **vs. Drip**: [[cannabis-vegetative-growth-stage]] and flowering of established plants with strong root systems. Clones should be well-rooted before being placed in NFT gullies. The system performs well for shorter plants and can be configured for Sea of Green gardens.
+- **vs. Drip**: [[cannabis-vegetative-growth-stage]] and flowering of established plants with strong root systems. Clones should be well-rooted before being placed in NFT gullies. The system performs well for shorter plants and can be configured for [[comparison-sea-of-green-vs-screen-of-green]] gardens.
 
 Proper [[hydroponic-cannabis]]
 - [[banisteriopsis-caapi]]

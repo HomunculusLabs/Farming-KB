@@ -2,7 +2,7 @@
 
 ## Overview
 
-The 1990 study by Gartz, Adam, and Vorbrodt (Naturwissenschaften 77, 388–389) was notable for evaluating the growth-promoting effects of 22S,23S-homobrassinolide across two fundamentally different cultivation systems for Psilocybe cubensis: a semi-solid agar medium and a complex grain-manure bulk substrate. This dual-system approach provided valuable comparative data on how brassinosteroid response varies with substrate complexity.
+The 1990 study by Gartz, Adam, and Vorbrodt (Naturwissenschaften 77, 388–389) was notable for evaluating the growth-promoting effects of 22S,23S-homobrassinolide across two fundamentally different cultivation systems for [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]: a semi-solid agar medium and a complex grain-manure bulk substrate. This dual-system approach provided valuable comparative data on how [[ultra-low-dose-brassinosteroid-response-psilocybe-cubensis]] varies with substrate complexity.
 
 ## The Two Cultivation Systems
 
@@ -10,10 +10,10 @@ The 1990 study by Gartz, Adam, and Vorbrodt (Naturwissenschaften 77, 388–389) 
 
 - **Composition:** 6% malt extract agar
 - **Purpose:** Pure mycelial growth assessment in a defined medium
-- **Advantage:** Simple, reproducible, allows direct observation of radial mycelial expansion
+- **Advantage:** Simple, reproducible, allows [[fukuoka-direct-observation-method]] of radial mycelial expansion
 - **Limitation:** Does not support fruiting body formation
 
-The agar system served as a controlled baseline. With no complex nutrients or competing microflora, any growth differences could be attributed primarily to the brassinosteroid's direct effect on fungal metabolism rather than indirect nutritional effects.
+The agar system served as a controlled baseline. With no complex nutrients or competing microflora, any growth differences could be attributed primarily to the brassinosteroid's direct effect on [[singh-fungal-metabolism-pahs]] rather than indirect nutritional effects.
 
 ### Dung-Grain Substrate System
 
@@ -55,8 +55,8 @@ On malt agar, treated cultures showed mycelial growth occurring two to three tim
 
 The agar system demonstrated that brassinosteroids directly accelerate mycelial growth independent of complex substrate interactions. The dung-grain system revealed additional effects on the fungal life cycle including:
 
-1. **Earlier initiation of fruiting** — suggesting brassinosteroids may influence the developmental switch from vegetative to reproductive growth
-2. **Increased first-flush yield** — indicating improved primordia formation or survival
+1. **Earlier initiation of fruiting** — suggesting brassinosteroids may influence the developmental switch from vegetative to [[knf-reproductive-growth-stage]]
+2. **Increased first-flush yield** — indicating improved [[growing-gourmet-primordia-formation-pinning]] or survival
 3. **Higher overall dry mass** — reflecting more efficient substrate colonization and nutrient conversion
 4. **Reduced abnormal fruiting** — suggesting brassinosteroids improve developmental regulation
 

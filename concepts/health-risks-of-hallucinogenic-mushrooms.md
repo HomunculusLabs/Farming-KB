@@ -1,5 +1,5 @@
 ---
-title: Health Risks of Hallucinogenic Mushrooms
+title: Health Risks of emcdda-hallucinogenic-mushrooms-emerging-trend-europe
 created: 2026-05-06
 tags: [health-risks, hallucinogenic-mushrooms, psilocybin, mental-health, somatic-effects, adverse-reactions, harm-reduction]
 date: 2026-04-28
@@ -16,7 +16,7 @@ physiological toxicity and no established lethal dose in humans, their use
 carries genuine somatic and psychological risks. These risks are often
 understated in popular culture, where the perception of mushrooms as "natural"
 or "safe" can lead to complacency. Understanding the full spectrum of health
-risks is essential for clinical response, harm reduction, and informed public
+risks is essential for clinical response, [[adverse-effects-and-harm-reduction-psilocybin]], and informed public
 health policy.
 
 ## Somatic Health Risks
@@ -33,7 +33,7 @@ gut wall and regulate peristalsis and emesis.
 Chopping and ingesting dried mushrooms, or brewing them into a tea, can
 moderate but not eliminate this effect. The nausea is generally self-limiting
 and resolves as the psychedelic compound is metabolised, though vomiting during
-a psychedelic experience can be distressing and may amplify anxiety.
+a [[leary-psychedelic-experience-bardo-mapping]] can be distressing and may amplify anxiety.
 
 ### Cardiac and Autonomic Effects
 
@@ -50,7 +50,7 @@ sympathomimetic effects.
 One of the most significant somatic risks associated with hallucinogenic
 mushrooms is the accidental consumption of toxic lookalike species. Many
 psilocybin-containing mushrooms are small, brown, or tan and can be mistaken
-for non-psychoactive, inedible, or genuinely poisonous fungi.
+for non-psychoactive, inedible, or genuinely [[ramsbottom-poisonous-fungi-identification-guide]].
 
 Species from the genus Galerina, for example, contain lethal amatoxins identical
 to those found in the death cap (Amanita phalloides). Ingestion of amatoxins
@@ -67,7 +67,7 @@ expert mycological knowledge carries substantial risk.
 ### Risks Specific to Amanita Muscaria
 
 The Amanita muscaria (fly agaric), sometimes marketed as a legal alternative
-to psilocybin mushrooms following prohibition, presents substantially different
+to [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] following prohibition, presents substantially different
 and more dangerous health risks. Its active chemicals, muscimol and ibotenic
 acid, are chemically unrelated to tryptamines and carry known toxicity
 including gastrointestinal distress, ataxia, confusion, and in severe cases
@@ -75,7 +75,7 @@ seizures and coma.
 
 Several closely related Amanita species are highly toxic and can cause fatal
 poisoning. The transition toward Amanita muscaria as a substitute following
-psilocybin mushroom prohibition has been identified as an emerging concern by
+psilocybin [[magic-mushroom-prohibition-and-uk-drug-policy]] has been identified as an emerging concern by
 drug monitoring agencies, as users may assume comparable safety profiles despite
 the fundamentally different pharmacology.
 

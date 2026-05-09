@@ -1,5 +1,5 @@
 ---
-title: "AMF Hyphal Anastomosis and Self-Recognition"
+title: "AMF amf hyphal anastomosis self recognition and Self-Recognition"
 created: 2026-04-26
 tags: [mycorrhiza, glomeromycota, fungal-biology, symbiosis]
 date: 2026-04-25
@@ -15,10 +15,10 @@ type: concept
 
 Hyphal anastomosis is the fusion of hyphae from the same or different fungal
 individuals, enabling protoplasmic continuity and the formation of interconnected
-mycelial networks. In arbuscular mycorrhizal fungi (AMF, Glomeromycota),
+[[fungal-mycelial-networks-nutrient-translocation]]. In [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF, Glomeromycota),
 anastomosis plays a critical role in establishing and maintaining the
-extraradical mycelium (ERM) that underpins nutrient uptake and interplant
-resource sharing through [[arbuscular-mycorrhizal-networks]]
+extraradical mycelium (ERM) that underpins [[plant-nutrient-uptake-mechanisms]] and interplant
+[[mycelial-network-resource-sharing-plants]] through [[arbuscular-mycorrhizal-networks]]
 - [[common-mycorrhizal-networks]]
 - [[arbuscular-mycorrhizal-network-visualization-anastomosis]]
 ## Practical Applications
@@ -99,3 +99,6 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[hyphal-anastomosis-self-non-self-recognition]]

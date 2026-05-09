@@ -1,5 +1,5 @@
 ---
-title: "Artillery Fungus and Built Environment Fungi"
+title: "bloomfield-sphaerobolus-artillery-fungus-spore-launch and artillery fungus and built environment fungi Fungi"
 created: 2026-04-26
 tags:
   - mycology
@@ -40,14 +40,14 @@ in a 1972 paper in the Transactions of the British Mycological Society.
 The [[indoor-wood-decay-fungi-building-deterioration]] for more on building fungi.
 - **Coprinus and Coprinopsis species (ink cap mushrooms)**: commonly found
   on sodden door and window frames where persistent moisture allows
-  colonization of structural timber.
+  colonization of [[singh-wood-rot-fungi-structural-timber-decay]].
 - These fungi typically require plumbing disasters or persistent leaks in
   the building envelope rather than the water-transport capabilities of
-  true dry rot fungi.
+  true dry [[comparison-white-rot-fungi-vs-brown-rot-fungi-biodegradation]].
 
 ## Fungi in Space
 
-The colonization of built environments by fungi extends literally to outer
+The colonization of [[fungal-biodiversity-built-environments-indoor-mycobiome]] by fungi extends literally to outer
 space. Russian scientists studying samples from the Mir space station since
 the 1980s documented more than 100 different species of fungi growing in
 the spacecraft. Cosmonauts and astronauts have noticed fungal colonies
@@ -74,7 +74,7 @@ companion to human civilization.
 ## See Also
 
 - [[gadd-fungal-biodegradation-bioremediation]]
-- [[fungal-cellulose-decomposition-fungal-enzymes]]
+- fungal-cellulose-decomposition-fungal-enzymes
 ## Practical Considerations
 
 Successful implementation of Artillery Fungus and Built Environment Fungi requires attention to
@@ -93,4 +93,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

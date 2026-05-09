@@ -1,5 +1,5 @@
 ---
-title: Hugelkultur Raised Beds
+title: natfarm hugelkultur raised beds Beds
 created: 2026-04-28
 tags: [hugelkultur, raised-beds, soil-building, water-retention, permaculture]
 date: 2026-04-25
@@ -61,15 +61,15 @@ it. You can use rocks to line the side of the bed so that it does not erode.
 ### Step 4: Plant a Cover Crop
 The first time you use the bed, it is recommended to grow a cover crop such
 as clover. Clover fixes nitrogen and makes it available for other plants. If
-you plant it in early spring, you will have time to plant root vegetables
+you plant it in [[coleman-overwintered-onions-and-early-spring-crops]], you will have time to plant [[growing-root-vegetables-guide]]
 next: potatoes, carrots, radishes, and similar crops.
 
 ## Managing Nitrogen with Fresh Wood
 
 Using fresh wood is tempting when clearing ground. Rather than making a pile
-and waiting years for it to rot, it is nicer to bury it as a raised bed,
+and waiting years for it to rot, it is nicer to bury it as [[query-how-to-build-a-raised-bed-garden]],
 since it still absorbs water and irrigates the bed. However, decomposing wood
-robs the soil of nitrogen. You must add something to break down the wood
+robs the soil of nitrogen. You must add something to [[query-can-fungi-break-down-plastic-pollution]] the wood
 faster and add needed nitrogen. The key ingredient is urine. If you have a
 separating, you can divert household liquids to
 the [[alexander-shulgin]], with trees
@@ -105,6 +105,6 @@ After the initial cover crop of clover, hugelkultur beds are excellent for
 root vegetables like potatoes, carrots, and radishes. The loose, well-
 draining soil created by the decomposing wood is ideal for root crops that
 need deep, loose soil. In subsequent years, the beds can support a full
-range of vegetables, herbs, and even small fruit bushes. The moisture-
+range of vegetables, herbs, and even small [[holzer-soft-fruit-bushes-and-berries]]. The moisture-
 retaining properties make them particularly valuable in dry climates or
 during drought conditions where consistent watering is difficult.

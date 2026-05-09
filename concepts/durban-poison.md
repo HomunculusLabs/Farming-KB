@@ -1,6 +1,6 @@
 ---
 title: Durban Poison
-source: Cannabis Sativa Volume 3 - S.T. Oner, The Rev (2014)
+source: cannabis-sativa|Cannabis Sativa Volume 3 - S.T. Oner, The Rev (2014)
 tags: [cannabis, sativa, durban-poison, landrace, strains, breeding]
 created: 2026-05-08
 ---
@@ -8,7 +8,7 @@ created: 2026-05-08
 # Durban Poison
 
 Durban Poison is one of the most important and historically significant
-cannabis sativa landrace strains. Originating from the port city of Durban
+cannabis sativa [[sativa-landrace-strains-and-geographic-origins]]. Originating from the port city of Durban
 on the eastern coast of South Africa, this pure sativa has earned a unique
 place in cannabis history both for its outstanding qualities as a standalone
 variety and for its invaluable contributions to modern breeding programs.
@@ -52,7 +52,7 @@ typically features sweet, anise-like, and licorice notes combined with
 earthy undertones and a hint of spice. The flavor is often described as
 clean and smooth, with a sweet aftertaste that lingers on the palate.
 Some phenotypes exhibit more pronounced citrus or herbal notes. The
-terpene profile is dominated by terpinolene, myrcene, and ocimene, which
+terpene profile is dominated by terpinolene, myrcene, and [[ocimene|ocimene]], which
 contribute to both the unique flavor and the characteristically uplifting
 clear-headed effects. Unlike many heavy sativas that can produce racing
 thoughts or anxiety, Durban Poison is frequently noted for its focused
@@ -69,7 +69,7 @@ social interaction. The effects onset relatively quickly and maintain a
 consistent plateau without the sharp peaks and valleys that characterize
 some sativa varieties. This balanced psychoactive profile, combined with
 the early flowering trait, has made Durban Poison one of the most widely
-used sativa parents in modern cannabis breeding programs worldwide.
+used sativa parents in modern [[oner-cannabis-breeding-fundamentals]] programs worldwide.
 
 ## Role in Breeding Programs
 
@@ -80,7 +80,7 @@ had already been dealt with by the more elite outdoor growers by using
 some Durban Poison brought to his mentors via pro surfers of the day and
 making Durban Poison hybrids. This tradition of using Durban Poison to
 compress flowering times in sativa crosses continues to this day. Notable
-Durban Poison descendants include various Trainwreck lines, Girl Scout
+Durban Poison descendants include various [[trainwreck|Trainwreck]] lines, Girl Scout
 Cookies, and countless proprietary hybrids designed for outdoor cultivation
 in temperate climates where early finishing is essential for success.
 
@@ -103,13 +103,14 @@ For outdoor cultivation, Durban Poison should be planted in full sun with
 well-draining soil. Its early flowering means it can be grown successfully
 at latitudes up to 45 degrees north without significant risk of weather-
 related problems. Indoor growers should provide ample vertical space or
-employ training techniques to manage height. The strain responds well to
-organic cultivation methods and is relatively pest-resistant. The Rev
-strongly recommends organic growing methods for all sativa landraces
+employ [[cannabis-training-techniques-comparison]] to manage height. The strain responds well to
+organic [[synthetic-log-cultivation-methods-guide]] and is relatively pest-resistant. The Rev
+strongly recommends organic [[mushroom-growing-methods-comparison]] for all sativa landraces
 including Durban Poison, based on his observation that these wild-adapted
-plants do not really like being force fed synthetic nutrients.
+plants do not really like being force fed [[query-organic-vs-synthetic-nutrients-cannabis]].
 
 ## See Also
 
-- [[Haze Breeding Lineage]]
-- [[Organic Cannabis Cultivation]]
+- haze-cannabis-lineage
+- organic-cannabis-cultivation-guide
+- [[durban-poison-cannabis-strain]]

@@ -1,5 +1,5 @@
 ---
-title: Pulp and Paper Effluent Treatment
+title: Pulp and pulp paper effluent treatment Treatment
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -28,7 +28,7 @@ Lignin is converted to thiolignin and alkali lignin during Kraft pulping and to 
 
 Of 110 pure cultures screened, 10 strains decolorized 75–85% of extraction-stage effluent within 24–48 hours. Key fungal species include:
 
-- **White-rot fungi**: *Trametes versicolor*, *Phanerochaete chrysosporium*, *Coriolus versicolor*, *Lentinula edodes*, *Ceriporiopsis subvermispora*, *Ganoderma lucidum*
+- **White-rot fungi**: *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]*, *[[staycare-phanerochaete-chrysosporium-in-bioremediation]]*, *Coriolus versicolor*, *[[staycare-lentinula-edodes-in-bioremediation]]*, *Ceriporiopsis subvermispora*, *[[stamets-reishi-ganoderma-lucidum-cultivation]]*
 - **Filamentous fungi**: *Aspergillus niger*, *A. foetidus*, *Rhizopus oryzae*, *R. pusillus*, *Penicillium camemberti*, *Paecilomyces variotii*
 - **Marine fungi**: *Sordaria finicola*, *Halosarpheia ratnagiriensis*, unidentified basidiomycete no. 312 (74% decolorization at pH 8.2, 98% at pH 4.5)
 
@@ -37,7 +37,7 @@ Of 110 pure cultures screened, 10 strains decolorized 75–85% of extraction-sta
 The major lignin-degrading enzymes involved in effluent treatment are:
 
 - **Lignin peroxidase (LiP)**: H₂O₂-dependent oxidation of non-phenolic lignin; generates aryl cation radicals
-- **Manganese peroxidase (MnP)**: H₂O₂-dependent oxidation of phenolic lignin compounds; requires Mn(II) and organic acid chelators (oxalate, malonate)
+- **[[fungal-manganese-peroxidase-remediation]] (MnP)**: H₂O₂-dependent oxidation of phenolic lignin compounds; requires Mn(II) and organic acid chelators (oxalate, malonate)
 - **Laccase**: Multicopper oxidase catalyzing one-electron oxidation of diphenols and aromatic amines; many white-rot and marine fungi secrete laccase responsible for effective decolorization
 
 ## Bioreactor Systems
@@ -85,6 +85,9 @@ Color removal involves both **adsorption** and **biodegradation**:
 
 ## Related
 
-- [[fungal-enzyme-systems-in-bioremediation]]
+- fungal-enzyme-systems-in-bioremediation
 - [[fungal-bioremediation-mechanisms]]
-- [[fungal-treatment-of-pulp-mill-effluents]]
+- fungal-treatment-of-pulp-mill-effluents
+- [[phanerochaete-chrysosporium]]
+- [[aspergillus-niger]]
+- [[lentinula-edodes]]

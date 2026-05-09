@@ -1,5 +1,5 @@
 ---
-title: "Chorismate Metabolism and Branch Pathways"
+title: "Chorismate chorismate metabolism and branch pathways Pathways"
 created: 2026-04-28
 tags: [biochemistry, metabolism, shikimate, chorismate, aromatic-amino-acids]
 date: 2026-04-28
@@ -23,7 +23,7 @@ phenylpyruvate and then to phenylalanine by transamination. In
 fungi, chorismate mutase exists in both monofunctional and
 bifunctional forms (fused with prephenate dehydratase). Phenylalanine
 serves as a precursor to phenylpropanoids, flavonoids, lignin, and
-numerous secondary metabolites including various fungal pigments.
+numerous [[antifungal-secondary-metabolites-coprophilous-fungi]] including various fungal pigments.
 
 ### 3. Tyrosine Biosynthesis
 
@@ -31,7 +31,7 @@ Prephenate can also be converted to 4-hydroxyphenylpyruvate via
 prephenate dehydrogenase (or the equivalent arogenate pathway in
 some fungi), and then transaminated to form tyrosine. Tyrosine is
 the precursor to dopa, dopamine, melanin, and the catecholamine
-neurotransmitters. In fungal metabolism, tyrosine-derived melanin
+neurotransmitters. In [[singh-fungal-metabolism-pahs]], tyrosine-derived melanin
 is a critical cell-wall component providing UV protection and
 structural integrity.
 
@@ -68,7 +68,7 @@ regulated through multiple mechanisms:
   dehydrogenase.
 
 - **Transcriptional regulation:** The expression of genes encoding
-  branch-specific enzymes is modulated by nutrient availability
+  branch-specific enzymes is modulated by [[ph-and-nutrient-availability-garden-soils]]
   and end-product concentrations. In fungi, the general control
   response (GCN pathway) coordinates amino acid biosynthetic genes.
 
@@ -83,12 +83,12 @@ regulated through multiple mechanisms:
 ## Significance in Fungal Secondary Metabolism
 
 The chorismate branch point is of special interest in the study of
-psychoactive fungi because the tryptophan branch ultimately feeds
+[[cattle-dispersal-psychoactive-fungi-australia]] because the tryptophan branch ultimately feeds
 the [[tryptophan-decarboxylase]].
 
 Understanding chorismate partitioning is also relevant to
 biotechnological efforts to engineer fungi or bacteria for
-increased production of tryptamine-derived compounds. By
+[[fukuoka-textdoc-increased-production-not-increased-yields]] of tryptamine-derived compounds. By
 manipulating branch-point enzyme activities or regulatory
 mechanisms, researchers can potentially redirect metabolic flux
 toward desired biosynthetic outputs.

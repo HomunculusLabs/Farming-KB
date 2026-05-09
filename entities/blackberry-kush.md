@@ -13,10 +13,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Leafly Staff (2024). \"Blackberry Kush Cannabis Strain Information.\" Leafly.com."
+  - "Leafly Staff (2024). \"Blackberry Kush blesching-cannabis-strain-selection-receptor-targeting Information.\" Leafly.com."
   - "AllBud (2024). \"Blackberry Kush Weed Strain.\" AllBud.com."
-  - "Mudge, E. et al. (2022). \"Terpene Profiles of Commercial Cannabis Strains.\" Cannabis and Cannabinoid Research, 7(2), 134-145."
-  - "Smart, R. et al. (2022). \"Cannabis Cultivation Practices and Potency.\" Drug and Alcohol Dependence, 237, 109588."
+  - "Mudge, E. et al. (2022). \"[[cannabis-terpene-profiles-sativa]] of Commercial Cannabis Strains.\" Cannabis and Cannabinoid Research, 7(2), 134-145."
+  - "Smart, R. et al. (2022). \"[[query-how-does-no-till-cannabis-cultivation-work]] Practices and Potency.\" Drug and Alcohol Dependence, 237, 109588."
 ---
 
 # Blackberry Kush
@@ -26,7 +26,7 @@ sources:
 Blackberry Kush is an indica-dominant cannabis strain renowned for its deep
 purple bud coloration, sweet berry aroma, and heavily sedative effects. Though
 its exact lineage remains debated, it is widely accepted as a cross between
-an Afghani indica and [[cannabis-beta-caryophyllene-dietary-cannabinoid]], [[cannabis-hindu-kush-strain-description-clarke]]
+an Afghani indica and [[beta-caryophyllene-dietary-cannabinoid]], [[cannabis-hindu-kush-strain-description-clarke]]
 
 - [[granddaddy-purple]] — Fellow purple indica with overlapping effects profile
 - [[northern-lights]] — Heritage indica; similar sedative profile
@@ -108,4 +108,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

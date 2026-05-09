@@ -1,5 +1,5 @@
 ---
-title: Holzer Bee Collapse and Natural Beekeeping
+title: Holzer Bee fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future Beekeeping
 created: 2026-04-26
 tags:
   - beekeeping
@@ -23,7 +23,7 @@ about their essential function in pollinating crops.
 ## The Bee Collapse Crisis
 
 The scale of bee population decline worldwide is alarming:
-- In the United States, several bee species are already extinct
+- In the [[dmt-containing-plants-united-states-halpern]], several bee species are already extinct
 - Many remaining species have shrunk to 4% of their former populations
 - In England, beekeepers report one in four colonies die annually
 - If trends continue, bees could be extinct within 10 years
@@ -46,7 +46,7 @@ demands a worldwide ban.
 
 Many beekeepers overexploit their bees, just as industrial agriculture
 overexploits land. Bees are being overused and abused, treated as honey
-production machines rather than living organisms with complex needs.
+production machines rather than [[savory-living-organisms-as-tools]] with complex needs.
 
 ### Disruption of Hive Environment
 
@@ -74,7 +74,7 @@ keeps the air clean, protecting against mites and diseases.
 in nature, bees build their own combs from wax they produce themselves.
 The wax has antibacterial components. The process of building keeps bees
 fit and healthy. Many industrial beekeepers remove this work to focus bees
-on honey production, which creates short-lived success followed by declining
+on [[mollison-designers-beekeeping-honey-production-permaculture]], which creates short-lived success followed by declining
 health and productivity.
 
 ### Winter Survival
@@ -102,7 +102,7 @@ are replaced by a new generation of summer bees.
 - Open the hive as infrequently as possible
 - Leave enough natural food (honey, not sugared water)
 - The highest yield comes from having happy bees
-- Ensure sufficient biodiversity in plant life rhythms for forage
+- Ensure sufficient biodiversity in plant [[plant-life-rhythms-pulsatory-growth]] for forage
 - Flowers should not be more than 2km away; otherwise bees get exhausted
 
 ### Toxic Plants for Healing
@@ -112,7 +112,7 @@ honey. Plant herbs in front of the hive as a precaution against varroa
 mites, at least 3 to 4 metres wide and deep. Recommended species:
 - Thyme
 - Marjoram
-- Any plants containing essential oils
+- Any plants containing [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]
 
 ### The Herb Barrier Enhancement
 

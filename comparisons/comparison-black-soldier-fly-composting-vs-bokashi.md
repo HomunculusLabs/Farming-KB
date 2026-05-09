@@ -1,5 +1,5 @@
 ---
-title: "Black Soldier Fly Composting vs Bokashi"
+title: "comparison black soldier fly composting vs bokashi Fly Composting vs Bokashi"
 created: 2026-04-28
 tags: [composting, waste-management, black-soldier-fly, bokashi, protein, soil-amendment, bioconversion, fermentation]
 date: 2026-04-28
@@ -10,7 +10,7 @@ type: comparison
 
 # Black Soldier Fly Composting vs Bokashi
 
-Black soldier fly (*Hermetia illucens*) composting and bokashi fermentation are two radically different approaches to organic waste processing. One leverages insect larvae to rapidly consume and bioconvert food scraps into protein-rich animal feed and frass, while the other uses a community of [[building-soil]] organic matter more effectively per unit of input. Studies show bokashi-treated waste retains 80–90% of its initial carbon, compared to 40–60% loss during hot composting.
+Black soldier fly (*Hermetia illucens*) composting and bokashi fermentation are two radically different approaches to organic waste processing. One leverages insect larvae to rapidly consume and bioconvert food scraps into protein-rich animal feed and frass, while the other uses a community of [[building-soil]] [[hamilton-composting-and-organic-matter-management]] more effectively per unit of input. Studies show bokashi-treated waste retains 80–90% of its initial carbon, compared to 40–60% loss during [[comparison-bokashi-vs-hot-composting-method]].
 
 2. **Bokashi leachate ("bokashi tea")** — liquid that drains from the bucket during fermentation. It contains organic acids, amino acids, and microbial metabolites. When diluted (1:100–1:1000), it can be used as a soil drench. Undiluted, it makes an effective drain cleaner due to its acidity and microbial activity. It should *not* be used as a foliar spray — the concentration of organic acids can burn leaf tissue.
 
@@ -22,7 +22,7 @@ Bokashi fermentation, by contrast, preserves nearly all nutrients in the ferment
 
 ## Scalability
 
-BSF systems scale exceptionally well. A single household bin might process 5–10 kg/day; a small farm operation with multiple bins can handle 50–200 kg/day; commercial facilities in Southeast Asia and Europe process tonnes of organic waste per day using climate-controlled bioreactors. The larvae themselves reproduce prolifically — a healthy colony is largely self-sustaining once established.
+BSF systems scale exceptionally well. A single household bin might process 5–10 kg/day; a small farm operation with multiple bins can handle 50–200 kg/day; commercial facilities in [[psilocybe-southeast-asia-pacific]] and Europe process tonnes of organic waste per day using climate-controlled bioreactors. The larvae themselves reproduce prolifically — a healthy colony is largely self-sustaining once established.
 
 Bokashi scales poorly beyond the household level. The bucket-based system is inherently small-batch. Larger-scale bokashi operations exist (some municipalities distribute bokashi bins to households), but industrialization requires anaerobic fermenters with pH and temperature monitoring — essentially transforming the process into something closer to silage production. The labor of layering, draining, and burying limits practical throughput.
 
@@ -38,7 +38,7 @@ In many jurisdictions, BSF larvae reared on food waste face regulatory hurdles a
 
 ## Ideal Use Cases
 
-**Choose BSF composting when:**
+**Choose [[comparison-bsf-composting-vs-earthworm-breeding]] when:**
 - You keep chickens, fish, or other livestock that can consume harvested larvae
 - You want the fastest possible waste volume reduction
 - You have outdoor space in a warm climate or can provide heated indoor space
@@ -70,7 +70,7 @@ Bokashi fermentation is essentially passive — no electricity, heat, or aeratio
 | Scale-up cost | Moderate (larger bins) | High (many bins needed) |
 | Labor requirement | Moderate (daily checks) | Low (every 2–3 days) |
 
-The economics of BSF shift dramatically depending on whether you have livestock to consume the larvae. For a backyard chicken keeper, BSF can offset a significant portion of commercial feed costs. Without livestock, the value proposition is limited to waste reduction and frass production. Bokashi has no revenue stream but also minimal ongoing costs, making it the more accessible option for households focused solely on waste diversion.
+The economics of BSF shift dramatically depending on whether you have livestock to consume the larvae. For a [[query-how-to-start-a-backyard-chicken-flock]] keeper, BSF can offset a significant portion of commercial feed costs. Without livestock, the value proposition is limited to waste reduction and frass production. Bokashi has no revenue stream but also minimal ongoing costs, making it the more accessible option for households focused solely on waste diversion.
 
 ## Can They Be Combined?
 

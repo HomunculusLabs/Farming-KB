@@ -70,17 +70,17 @@ The flavonoid content varies significantly with harvest time, geographic origin,
 
 **Anti-inflammatory:** Baicalin and wogonin inhibit NF-κB signaling and reduce production of pro-inflammatory cytokines (TNF-α, IL-1β, IL-6) in LPS-stimulated macrophages. Baicalein suppresses COX-2 and iNOS expression. Multiple in vivo studies confirm efficacy in models of carrageenan-induced edema and adjuvant arthritis.
 
-**Neuroprotective:** Baicalin crosses the blood-brain barrier and demonstrates neuroprotective effects in models of cerebral ischemia, Alzheimer's disease, and Parkinson's disease. Mechanisms include inhibition of microglial activation, reduction of oxidative stress, and modulation of GABAergic and dopaminergic neurotransmission.
+**Neuroprotective:** Baicalin crosses the blood-brain barrier and demonstrates neuroprotective effects in models of cerebral ischemia, Alzheimer's disease, and Parkinson's disease. Mechanisms include inhibition of microglial activation, reduction of [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], and modulation of GABAergic and dopaminergic neurotransmission.
 
 **Anxiolytic:** Wogonin acts as a positive allosteric modulator of the GABA_A receptor (benzodiazepine site) without the sedative, muscle-relaxant, or amnestic side effects of classical benzodiazepines. This selective pharmacological profile has generated significant interest as a novel anxiolytic lead compound.
 
-**Hepatoprotective:** Baicalin protects against liver injury induced by CCl₄, acetaminophen, and alcohol in rodent models. Mechanisms include antioxidant activity, inhibition of hepatic stellate cell activation, and modulation of Nrf2/ARE signaling pathways.
+**Hepatoprotective:** Baicalin protects against liver injury induced by CCl₄, acetaminophen, and alcohol in rodent models. Mechanisms include antioxidant activity, inhibition of hepatic stellate [[mushroom-immune-cell-activation-mechanisms]], and modulation of Nrf2/ARE signaling pathways.
 
 **Anticancer:** Baicalein and wogonin induce apoptosis and cell cycle arrest in multiple cancer cell lines (hepatoma, breast, prostate, colon) via PI3K/Akt, MAPK, and mitochondrial pathways. Wogonin shows selective toxicity toward cancer cells while sparing normal cells.
 
 **Antiviral:** Demonstrated activity against influenza A (H1N1), HIV, hepatitis B, and SARS-CoV-2 in vitro. Baicalin inhibits viral replication through multiple mechanisms including inhibition of viral polymerases and modulation of host cell signaling.
 
-⚠️ **Safety:** Generally well-tolerated at standard doses (3–9 g dried root/day). Rare adverse effects include gastrointestinal discomfort and allergic skin reactions. High doses (>15 g/day) may cause hepatotoxicity. Interaction potential with CYP450 enzymes warrants caution with concurrent medications.
+⚠️ **Safety:** Generally well-tolerated at standard doses (3–9 g dried root/day). Rare [[blesching-cannabis-safety-adverse-effects-evidence]] include gastrointestinal discomfort and allergic skin reactions. High doses (>15 g/day) may cause hepatotoxicity. Interaction potential with CYP450 enzymes warrants caution with concurrent medications.
 
 ## Traditional and Modern Uses
 
@@ -94,8 +94,8 @@ In TCM, *S. baicalensis* root (huáng qín) is classified as bitter, cold, and e
 Modern clinical applications include:
 
 - Adjunctive treatment for respiratory infections and bronchitis
-- Management of inflammatory bowel disease (ulcerative colitis)
-- Supportive therapy in hepatitis and liver disorders
+- Management of [[blesching-cannabis-inflammatory-bowel-disease]] disease (ulcerative colitis)
+- Supportive therapy in [[cannabis-for-hepatitis-and-liver-conditions]] disorders
 - Anxiolytic use as a natural alternative to benzodiazepines
 - Neuroprotective supplementation in age-related cognitive decline
 
@@ -105,7 +105,7 @@ Modern clinical applications include:
 
 **Growing conditions:** Hardy perennial (USDA zones 4–8). Prefers full sun to partial shade, well-drained sandy loam soils, pH 6.5–8.0. Drought-tolerant once established; excessive moisture promotes root rot.
 
-**Propagation:** Primarily by seed (stratification at 4°C for 2–4 weeks improves germination). Direct seeding in spring, or transplant seedlings after 6–8 weeks. Root division in early spring is also practiced.
+**Propagation:** Primarily by seed (stratification at 4°C for 2–4 weeks improves germination). [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] in spring, or transplant seedlings after 6–8 weeks. Root division in early spring is also practiced.
 
 **Harvest:** Roots are harvested 3–4 years after planting, typically in autumn after aerial parts senesce. Optimal baicalin content correlates with autumn harvest. Roots are washed, stripped of bark, and dried at 40–60°C. Dried root yield: 200–400 kg/ha at 3 years.
 

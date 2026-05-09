@@ -20,7 +20,7 @@ Tricholoma matsutake is one of the most prized and expensive mushrooms
 in the world, with particular cultural and economic significance in
 Japan. This ectomycorrhizal species forms essential associations with
 pine and other conifer roots, making it one of the most challenging
-gourmet mushrooms to cultivate. Despite decades of effort, reliable
+[[growing-gourmet-mushrooms-civilization-history]] to cultivate. Despite decades of effort, reliable
 commercial cultivation has never been achieved, and all market supply
 comes from wild forest harvesting. The species supports a multi-million
 dollar industry and is among the most economically important wild
@@ -115,3 +115,7 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 
+## See Also
+
+- [[tricholoma-tigrinum]]
+- [[tricholoma-lobayense]]

@@ -1,19 +1,60 @@
 ---
 title: Psilocybin Variation Across Flushes
-created: 2026-04-28
-tags: [psilocybin, psilocybe-cubensis, flushes, alkaloid-variation, potency, tryptamines]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Bigwood, J. and Beug, M.W. (1982). Variation of Psilocybin and Psilocin Levels with Repeated Flushes of Mature Sporocarps of Psilocybe cubensis. Journal of Ethnopharmacology, 5, 287-291.
-type: concept
+aliases: [psilocybin flush variation, psilocybin potency flush number, repeated harvest potency]
+tags: [mycology, psilocybin, psilocybe-cubensis, cultivation, alkaloid-variation]
+created: 2026-05-09
+source: ["variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"]
 ---
 
 # Psilocybin Variation Across Flushes
 
-## Overview
+The concentration of psilocybin in cultivated [[psilocybe-cubensis]] varies unpredictably between successive flushes (harvests) from the same culture, without showing a consistent upward or downward trend. Bigwood and Beug (1982) demonstrated that psilocybin levels fluctuate by a factor of approximately four across flushes, with the first and last flushes generally containing similar concentrations. This variability has important implications for both recreational users and clinical researchers seeking consistent dosing.
 
-Unlike the progressive accumulation pattern seen with [[psilocybin]] levels in [[psilocybe-cubensis]] were analyzed for comparison. These represented material obtained from unknown sources, grown under unknown conditions, and harvested at unknown flush numbers:
+## The Bigwood and Beug Study
+
+Published in the *Journal of Ethnopharmacology* in 1982, this study was one of the first controlled investigations into alkaloid variation across multiple flushes from a single culture of P. cubensis. The researchers cultivated an Amazonian strain originally collected near Pucallpa, Peru, using a rye-grain "miniculture" system.
+
+### Cultivation Method
+- **Substrate**: 10g rye grain + 15ml water in half-pint (~250ml) wide-mouth jars
+- **Sterilization**: Autoclaved before inoculation
+- **Colonization**: 28 days with shaking every 4 days to distribute mycelium
+- **Casing**: 2cm layer of 2 parts peat : 1 part calcium carbonate : 2 parts perlite/vermiculite
+- **Watering**: 1ml sterile water via syringe every 2 days
+- **First flush**: 4–5 weeks after inoculation (about 2 weeks after casing)
+- **Production**: Continued for at least 20 weeks when uncontaminated
+- **Average yield**: 2.7g dry weight per miniculture
+
+### Analytical Method
+- Mushrooms were immediately freeze-dried, sealed in plastic, and stored at −5°C
+- Analysis by reversed-phase HPLC with quantification via Hewlett-Packard 8380A reporting integrator
+- Calibrated against NIDA (National Institute on Drug Abuse) standards
+- Linear relationship between concentration and peak area from 0.2 to 3 μg total
+- Detection limit approximately 0.01 μg for both [[hplc-analysis-of-psilocybin-and-psilocin]]
+- Results qualitatively confirmed by TLC (butanol-acetic acid-water, 12:3:5)
+
+## Psilocybin Concentration Patterns
+
+### Across Flushes (Controlled Cultures)
+
+| Flush | Miniculture 1 (mg/g) | Miniculture 2 (mg/g) | Miniculture 3 (mg/g) |
+|-------|---------------------|---------------------|---------------------|
+| 1 | 8.3 | 5.1 | 7.6 |
+| 2 | 6.5 | 7.0 | 6.2 |
+| 3 | 13.3 | 4.7 | 5.3 |
+| 4 | 4.8 | 3.7 | 3.2 |
+| 5 | — | 5.2 | 6.7 |
+| 6 | 6.8 | — | — |
+
+Key observations from the data:
+- Psilocybin levels ranged from approximately 3.2 to 13.3 mg/g dry weight
+- No consistent upward or downward trend was observed across flushes
+- The highest concentration (13.3 mg/g) appeared in flush 3 of miniculture 1
+- The lowest concentration (3.2 mg/g) appeared in flush 4 of miniculture 3
+- Variation within a single miniculture spanned a factor of ~2.8 to ~4.2
+
+### Street Samples (Uncontrolled Sources)
+
+Five street samples of P. cubensis showed dramatically higher variability:
 
 | Sample | Psilocybin (mg/g) | Psilocin (mg/g) |
 |--------|-------------------|-----------------|
@@ -23,70 +64,67 @@ Unlike the progressive accumulation pattern seen with [[psilocybin]] levels in [
 | 4 | 0.7 | 0.3 |
 | 5 | 1.3 | 0.3 |
 
-The street samples varied by more than a factor of ten (0.7 to 6.2 mg/g), far exceeding the fourfold variation seen in controlled cultures. This expanded variability reflects not only the inherent biological variation but also differences in:
+Street samples showed psilocybin variation over a factor of nearly ten (0.7 to 6.2 mg/g), far exceeding the variation observed in controlled cultures. This large discrepancy likely reflects differences in strain genetics, substrate composition, environmental conditions, harvest timing, and post-harvest handling.
 
-- **Strain genetics**: Different commercial or wild strains have different genetic backgrounds affecting enzyme expression levels
-- **Substrate composition**: Rye grain, compost, manure, and other substrates provide different nutrient profiles
-- **Growing conditions**: Temperature, humidity, light exposure, and gas exchange all influence secondary metabolism
-- **Harvest timing**: Mushrooms harvested at different stages of maturity may have different alkaloid concentrations
-- **Post-harvest handling**: Drying method, storage temperature, and storage duration all affect measured alkaloid levels
+## Comparison with Psilocin Patterns
 
-Notably, psilocin was consistently low or absent in all street samples, which may reflect degradation during air-drying and ambient storage rather than true absence at harvest.
+Unlike psilocybin, [[psilocin-accumulation-flushes]] shows a consistent developmental pattern — generally absent in early flushes and peaking by flush 4. The contrasting patterns of these two related compounds suggest different biosynthetic regulation:
 
-## Contrast With Psilocin
+| Compound | First Flush | Peak | Trend |
+|----------|------------|------|-------|
+| Psilocybin | Present (5.1–8.3 mg/g) | Variable, no consistent peak | No trend |
+| Psilocin | Absent or trace | Flush 4 (1.8–2.9 mg/g) | Rises then declines |
 
-The behavior of [[psilocin]] across flushes is fundamentally different:
+Psilocybin was "nearly always at least twice the level of psilocin" across all samples tested.
 
-| Property | Psilocybin | Psilocin |
-|----------|-----------|----------|
-| First flush presence | Present at full range (3.2 to 8.3 mg/g) | Absent or trace only |
-| Trend across flushes | No consistent trend | Increases to peak at flush 4 |
-| Inter-flush variation | Factor of 4x within cultures | Progressive increase then decline |
-| Relative concentration | Always at least 2x psilocin | Lower, more variable |
-| Street sample levels | Highly variable (10x range) | Consistently low or absent |
-| Predictability | Unpredictable | Moderately predictable pattern |
+## Distribution in Cap vs. Stem
 
-This divergence suggests that the two compounds are regulated by different metabolic controls. Psilocybin production appears to be a constitutive process with high baseline variability, while psilocin accumulation is an induced process tied to colony aging or substrate depletion.
+Analysis of cap and stem tissues in three different strains revealed non-uniform distribution of alkaloids:
 
-## Factors Contributing to Variation
+| Tissue | M.R. Strain (mg/g) | Ecuadorian (mg/g) | Amazon (mg/g) |
+|--------|-------------------|-------------------|---------------|
+| Caps (psilocybin) | 6.7 | 7.6 | 5.7 |
+| Stems (psilocybin) | 4.2 | 4.7 | 5.7 |
+| Caps (psilocin) | 0 | 0 | 0.1 |
+| Stems (psilocin) | 0.35 | 0.4 | 0 |
 
-Several factors likely contribute to the observed fourfold variability in psilocybin levels:
+Notable findings:
+- Caps generally contained approximately **twice as much psilocybin** as stems in two of three strains
+- The Amazon strain showed equal [[sandoz-psilocybin-distribution-program]] between cap and stem
+- Psilocin was found primarily or exclusively in **stems** in two strains (M.R. and Ecuadorian)
+- The Amazon strain showed only a trace of psilocin in the cap, none in the stem
+- Strain-specific [[fungal-biogeography-distribution-patterns]] suggest genetic regulation of alkaloid compartmentalization
 
-### Genetic Heterogeneity
+## Factors Influencing Psilocybin Variation
 
-Even cultures started from a single spore print contain substantial genetic diversity due to meiotic recombination during spore formation. Each spore represents a unique genetic combination, and a spore print contains millions of genetically distinct individuals. The mycelium that colonizes the substrate is therefore a mosaic of genetically different cells, and the enzyme expression levels governing psilocybin biosynthesis may vary across this mosaic.
+Several factors likely contribute to the observed variability in psilocybin concentration:
 
-### Subtle Microenvironmental Differences
+### Genetic Factors
+- Different strains show different baseline psilocybin levels
+- Genetic variation within a single spore print may contribute to intra-culture variability
+- The Amazonian strain from Pucallpa showed a wide range of psilocybin concentrations even within controlled conditions
 
-Despite rigorous control of macroscopic conditions (temperature, humidity, substrate composition), microscopic variation exists within each jar:
+### Substrate and Nutrition
+- Rye grain was the sole substrate in this study
+- Nutrient depletion across flushes could influence alkaloid biosynthesis
+- Different substrates (compost, brown rice, dung) may produce different alkaloid profiles
 
-- Grain kernels colonize at slightly different rates
-- Local moisture gradients develop within the substrate
-- Gas exchange varies between the center and edges of the jar
-- Mycelial density may be uneven, affecting nutrient access
+### Environmental Conditions
+- Temperature, humidity, and light cycling were controlled in this study but vary in natural and informal cultivation
+- CO₂ levels, which were not reported, may influence [[mycelial-broth-alkaloid-production]]
 
-These microenvironmental gradients can create local conditions that upregulate or downregulate alkaloid biosynthesis in different parts of the same culture.
+### Harvest Timing
+- Mushrooms were harvested "as soon as the sporocarps were mature"
+- Slight differences in maturity at harvest could affect alkaloid concentrations
+- Immature vs. mature specimens may have different psilocybin profiles
 
-### Nutrient Status and Depletion
+### Post-Harvest Handling
+- Freeze-drying was used immediately after harvest in the study
+- Street samples may have been air-dried, stored at room temperature, or handled inconsistently
+- Psilocybin degrades slowly over time; storage conditions affect measured concentrations
 
-The rye grain substrate is progressively depleted of specific nutrients across flushes. Key nutrients for tryptamine biosynthesis include:
+## Related Topics
 
-- **L-tryptophan**: The amino acid precursor for all indole alkaloids
-- **S-adenosylmethionine (SAM)**: Methyl donor for the 4-hydroxy and N,N-dimethyl groups
-- **Phosphate**: Required for the phosphorylation step that converts psilocin to psilocybin
-
-Variability in the local availability of these precursors could drive fluctuations in alkaloid output from one flush to the next.
-
-### Mycelial Age and Vitality
-
-Older mycelium may allocate resources differently between growth, maintenance, reproduction, and secondary metabolism. The shift in resource allocation could either increase or decrease psilocybin production depending on the specific metabolic state of the colony at each flush.
-
-## Implications for Dosage and Standardization
-
-The unpredictability of psilocybin levels means that consuming a fixed dry weight of [[tryptamine]] dosage. This fourfold variation under controlled conditions — expanding to tenfold in uncontrolled settings — has serious implications for both recreational and therapeutic use.
-
-Clinical trials using psilocybin mushrooms (as opposed to synthetic psilocybin) must account for this inherent variability through analytical testing of each batch. The subjective experience variation stems not only from the well-established effects of [[psilocybin-level-stability-across-flushes]]
-
-- [[psilocin-accumulation-pattern-across-flushes]]
-- [[hplc-analysis-of-tryptamine-alkaloids]]
-- [[psilocybe-cubensis-miniculture-method]]
+- [[psilocin-accumulation-flushes]] — psilocin's distinct flush-dependent pattern
+- psilocybin biosynthesis — enzymatic pathway for [[gottlieb-psilocybin-production-extraction-methods]]
+- magic mushroom potency factors — comprehensive [[factors-affecting-mycoremediation-efficiency]] alkaloid content

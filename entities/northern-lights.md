@@ -25,7 +25,7 @@ sources:
 
 # Northern Lights
 
-Northern Lights is one of the most legendary and foundational cannabis strains in the history of the plant. A pure indica (or near-pure indica) originally developed in the Pacific Northwest of the United States in the late 1970s, it has served as the genetic backbone for countless hybrid strains and remains a benchmark indica to this day. Its potent body-centered effects, extraordinary resin production, rapid flowering, and compact growth habit have made it one of the most widely grown, bred, and celebrated strains in global cannabis culture.
+Northern Lights is one of the most legendary and foundational cannabis strains in the history of the plant. A pure indica (or near-pure indica) originally developed in the Pacific Northwest of the United States in the late 1970s, it has served as the genetic backbone for countless hybrid strains and remains a benchmark indica to this day. Its potent body-centered effects, extraordinary [[cannabis-glandular-trichome-types-resin-production-clarke]], rapid flowering, and [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit have made it one of the most widely grown, bred, and celebrated strains in global [[mckenna-cannabis-culture-history]].
 
 ## Overview
 
@@ -36,7 +36,7 @@ Northern Lights earned its reputation as the quintessential indica through decad
 - **Type:** Pure indica (approximately 95% indica / 5% sativa, though some cuts show slight variation)
 - **Origin:** Pacific Northwest, United States (c. 1978–1985); originally developed in Washington State before being refined in the Netherlands
 - **Landrace base:** Pure Afghani indica, reportedly collected from seed stock originating in the Hindu Kush mountain region of Afghanistan
-- **Historical breeding:** The original breeding program involved selecting from approximately 11 pure indica plants over several generations of inbreeding and selection
+- **Historical breeding:** The original [[cervantes-breeding-program-design-goal-setting]] involved selecting from approximately 11 pure indica plants over several generations of inbreeding and selection
 - **Genetic stability:** One of the most genetically stable and true-breeding cannabis lines in existence; seeds produce remarkably uniform offspring
 - **Breeder:** Originally developed by an American breeder known only as "The Indian" on the Pacific Northwest scene; later stabilized and popularized by Nevil Schoenmakers of The Seed Bank (later Sensi Seeds) in the Netherlands
 
@@ -60,7 +60,7 @@ The aroma and flavor of Northern Lights are distinctly earthy, sweet, and pungen
 
 | Terpene | Typical Profile | Contribution |
 |---------|----------------|--------------|
-| **Myrcene** | High (dominant) | Earthy, musky aroma; enhances sedative effects; promotes the "entourage effect" with THC |
+| **Myrcene** | High (dominant) | Earthy, musky aroma; enhances sedative effects; promotes the "[[cannabis-terpene-entourage-effect-profiles]]" with THC |
 | **Caryophyllene** | Moderate | Peppery, spicy notes; binds to CB2 receptors, contributing anti-inflammatory effects |
 | **Pinene** | Low–moderate | Pine notes; may counteract some cognitive impairment from THC |
 | **Limonene** | Low | Subtle citrus undertone; mood elevation and stress relief |
@@ -86,7 +86,7 @@ Northern Lights is widely considered one of the easiest cannabis strains to cult
 - **Flowering time:** 6–8 weeks (45–55 days) — exceptionally fast for a strain of this potency
 - **Yield:** Moderate to high: 400–500 g/m² indoors; 500–600 g/plant outdoors
 - **Resistance:** Excellent natural pest and mold resistance; robust constitution
-- **Odor:** Moderate during vegetative growth; strong sweet/pungent odor during flowering
+- **Odor:** Moderate during [[cannabis-vegetative-growth-stage]]; strong sweet/pungent odor during flowering
 
 ### Cultivation Tips
 - Thrives in both soil and hydroponic systems

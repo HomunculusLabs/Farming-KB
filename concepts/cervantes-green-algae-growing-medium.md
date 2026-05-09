@@ -1,5 +1,5 @@
 ---
-title: "Green Algae in Cannabis Gardens (Cervantes)"
+title: "cervantes green algae growing medium in Cannabis Gardens (Cervantes)"
 created: 2026-04-28
 tags:
   - cannabis
@@ -10,7 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources: []
 type: concept
 ---
 
@@ -23,13 +23,13 @@ nutrients, light, and a moist surface on which to grow. In
 cannabis gardens, they are found growing on moist
 [[cervantes-fungus-gnats]] and
   other small insects that lay eggs in the moist algae layer.
-  Fungus gnat larvae then feed on cannabis root hairs and
+  Fungus gnat larvae then feed on [[alpha-beta-diversity-cannabis-root-microbiomes]] hairs and
   scar larger roots, creating entry points for root diseases
 - Once roots have lesions and abrasions from insect feeding,
   diseases including [[cervantes-fusarium-vascular-wilt-diseases]]
   enter easily through the wounds
 - Algae compete with cannabis plants for nutrients in the
-  growing medium and nutrient solution
+  growing medium and [[cannabis-nutrient-solution-preparation]]
 - Thick algae growth can create anaerobic zones in the growing
   medium that promote harmful bacterial activity
 - Algae can clog drip emitters, irrigation lines, and pumps in
@@ -39,7 +39,7 @@ cannabis gardens, they are found growing on moist
 
 Prevention is straightforward and highly effective:
 
-- Cover exposed moist rockwool and growing mediums to exclude
+- Cover exposed moist rockwool and [[cervantes-growing-mediums-comparison]] to exclude
   light. Algae cannot grow without light
 - Use light-blocking covers on rockwool slabs and cubes
 - Keep nutrient reservoirs covered and light-tight
@@ -60,7 +60,7 @@ are available:
 - Algaecides: Run an algaecide in the nutrient solution or
   water. Commercial algaecides are available at hydroponic
   supply stores
-- Hydrogen peroxide: A dilute solution of
+- [[cervantes-hydrogen-peroxide-sterilization]]: A dilute solution of
   [[cervantes-passive-wick-hydroponic-systems]] where nutrient-rich water is constantly exposed to
 light. In [[green-cannabis-grow-bible-sog-scrog-advanced-methods]], reservoir surfaces exposed to light grow
 algae quickly.
@@ -78,5 +78,5 @@ The connection between algae and [[cervantes-fungus-gnats]] - algae-associated p
   disease
 - [[cervantes-hydrogen-peroxide-sterilization]] - sterilization
   method
-- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - deep water culture
+- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - [[cannabis-deep-water-culture-guide]]
   systems

@@ -1,11 +1,12 @@
 ---
-title: Why Tillage Destroys Soil
+title: Why fukuoka why tillage destroys soil Soil
 created: 2026-04-18
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Why Tillage Destroys Soil
@@ -26,7 +27,7 @@ Farmers usually plow the soil to a depth of about four to eight inches, whereas 
 
 [[fukuoka-straw-soil-building]] that nature has developed over millennia are undone in a single pass of the plow.
 
-The destruction of mycorrhizal fungi networks is particularly devastating. These fungi form symbiotic relationships with plant roots, extending the root system's reach for water and nutrients in exchange for carbohydrates from the plant. A single plow pass can sever years of mycorrhizal network development. In a no-till system like Fukuoka's, these networks remain intact and grow stronger each year, creating an increasingly efficient nutrient exchange system that chemical fertilizers cannot replicate.
+The destruction of [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] networks is particularly devastating. These fungi form symbiotic relationships with plant roots, extending the root system's reach for water and nutrients in exchange for carbohydrates from the plant. A single plow pass can sever years of [[arbuscular-mycorrhizal-network-visualization-anastomosis]] development. In a no-till system like Fukuoka's, these networks remain intact and grow stronger each year, creating an increasingly efficient [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] system that [[cervantes-chemical-fertilizers-guide]] cannot replicate.
 
 ## Contrast with the Natural Farming Approach
 
@@ -56,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -98,4 +99,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

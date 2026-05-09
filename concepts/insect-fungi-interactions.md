@@ -20,10 +20,10 @@ Insects and fungi have interacted with one another for 400 million years
 or more, forming relationships that range from mutually beneficial
 symbiosis to lethal parasitism. These interactions have profoundly
 shaped the evolution of both groups, driving the development of
-specialized chemical signaling systems, morphological adaptations, and
+specialized [[plant-hormones-and-chemical-signaling-systems]] systems, morphological adaptations, and
 complex life cycles. Insects serve as vectors for fungal spore
 dispersal, as food sources for predatory fungi, and as targets for
-fungal pathogens.
+[[bloomfield-fungal-pathogens-and-parasites]].
 
 ## Insects as Fungal Pollinators
 
@@ -78,7 +78,7 @@ dispersal now unclear.
 ## Fungi as Insect Pathogens
 
 Fungi also attack insects. Certain zygomycetes parasitize aquatic
-insects, producing tetraradiate spores in creeks. Entomopathogenic
+insects, producing [[bloomfield-ingoldian-aquatic-fungi-tetraradiate-spores-foam]] in creeks. Entomopathogenic
 fungi infect and kill insects, releasing spores from the insect
 cadaver to infect new hosts. This predatory relationship has driven the
 evolution of defense mechanisms in both groups over hundreds of millions
@@ -91,7 +91,7 @@ elaborate defense mechanisms. *Amanita* species produce amatoxins that
 may primarily target insect larvae developing within fruiting body
 tissues. High rates of cell division in developing embryos make larvae
 particularly vulnerable to toxins that inhibit protein synthesis. Human
-Human fatalities from mushroom poisoning may be unintended consequences of
+Human fatalities from [[european-mushroom-poisoning-history]] may be unintended consequences of
 defenses evolved against insect pests.
 
 ## Nematode-Trapping Fungi
@@ -116,9 +116,9 @@ many as 1,900 nematodes, ensuring frequent encounters.
 - [[fungal-insect-interactions-diversity]]
 - [[endophytic-fungi-plant-interactions]]
 
-- [Spore Dispersal Mechanisms]([[spore-dispersal-mechanisms]].md)
+- [[aquatic-fungi-spore-dispersal-ingold]] Mechanisms](spore-dispersal-mechanisms.md)
 - [Fungal Chemical Signaling]([[fungal-chemical-signaling]].md)
-- [Phallus Impudicus (Stinkhorn)]([[phallus-impudicus-stinkhorn]].md)
+- [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]] (Stinkhorn)]([[phallus-impudicus-stinkhorn]].md)
 - [Amanita Phalloides (Death Cap)]([[amanita-phalloides-death-cap]].md)
 
 ## References

@@ -10,7 +10,7 @@ sources:
 
 # Cannabis and Pancreatitis Research
 
-**Source:** Uwe Blesching, The Cannabis Health Index (2017)
+**Source:** [[uwe-blesching]], The [[cannabis-health-index]] (2017)
 
 ## Condition Overview
 
@@ -22,7 +22,7 @@ Pancreatitis is inflammation of the pancreas occurring when digestive enzymes ar
 
 ## Cannabis Research Findings
 
-**CB1 and CB2 receptors are found in the human pancreas.** Synthetic cannabinoids constitute a novel treatment option for inflammation and fibrosis in chronic pancreatitis.
+**CB1 and CB2 receptors are found in the human pancreas.** [[blesching-cannabis-synthetic-cannabinoids]] constitute a novel treatment option for inflammation and fibrosis in chronic pancreatitis.
 
 **Phase-dependent effects of anandamide on acute pancreatitis:**
 
@@ -70,7 +70,7 @@ The clinical evidence for cannabis in pancreatitis is limited but growing, with 
 
 - **Phase-dependent effects (2008, Krakow):** The Jagiellonian University study in rats is particularly important because it resolves a longstanding paradox in the literature. Earlier studies showed conflicting results -- some showing cannabinoids helped pancreatitis, others showing harm. The phase-dependent explanation (timing of administration relative to injury) reconciles these findings and has important implications for clinical use.
 
-- **Pain management application:** While not specifically studied in pancreatitis patients in the CHI database, cannabis has a CHI value of 23 for chronic pain, making it a well-supported option for managing the severe abdominal pain that is the hallmark of chronic pancreatitis.
+- **[[cannabis-chronic-pain-management]] application:** While not specifically studied in pancreatitis patients in the CHI database, cannabis has a CHI value of 23 for [[cannabis-for-chronic-pain]], making it a well-supported option for managing the severe abdominal pain that is the hallmark of chronic pancreatitis.
 
 - **Adjunctive potential:** Given the limited specific evidence, cannabis should be viewed as a complementary approach alongside conventional pancreatitis management rather than a replacement.
 
@@ -84,7 +84,7 @@ The clinical evidence for cannabis in pancreatitis is limited but growing, with 
 
 - **Route of administration:** Oral capsules or tinctures provide the most consistent dosing. Sublingual administration offers faster onset for breakthrough pain.
 
-- **Strain selection:** Indica and indica-dominant strains may be preferred for chronic pancreatitis due to their anti-inflammatory profile and pain-relieving properties. CBD-rich strains provide anti-inflammatory benefits without significant psychoactive effects.
+- **[[blesching-cannabis-strain-selection-receptor-targeting]]:** Indica and indica-dominant strains may be preferred for chronic pancreatitis due to their anti-inflammatory profile and pain-relieving properties. CBD-rich strains provide anti-inflammatory benefits without significant psychoactive effects.
 
 ## Safety and Interactions
 
@@ -110,5 +110,5 @@ The pancreas "represents the space where we gather, collect, and store" emotions
 
 - [[cannabis-and-diabetes]]
 
-- [[mushroom-cytokine-production-immune-activation]]
-- [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
+- mushroom-cytokine-production-immune-activation
+- [[beta-caryophyllene-dietary-cannabinoid]]

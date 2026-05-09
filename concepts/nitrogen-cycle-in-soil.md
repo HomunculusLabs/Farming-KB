@@ -1,5 +1,5 @@
 ---
-title: Nitrogen Cycle in Soil
+title: query-how-does-the-nitrogen-cycle-work-in-a-garden in Soil
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -19,7 +19,7 @@ The nitrogen cycle is one of the most important systems in terrestrial life. Atm
 
 Certain bacteria convert atmospheric nitrogen into plant-available forms:
 
-- **Free-living bacteria**: Azotobacter, Azospirillum, and Clostridium live free in the soil and fix nitrogen independently
+- **Free-living bacteria**: Azotobacter, Azospirillum, and Clostridium live free in the soil and [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] independently
 - **Symbiotic bacteria**: Rhizobium species live in root tissues of legumes, forming visible nodules where they fix nitrogen in exchange for carbohydrates from the plant
 
 These processes are biological, not just chemical. The nitrogen-fixing bacteria operate best at warmer temperatures and at a pH above 7, with their numbers diminishing as soil becomes more acidic. Up to 50 percent of a plant's nitrogen can come directly from nitrogen-fixing bacteria.
@@ -60,7 +60,7 @@ Industrial nitrogen fixation (Haber-Bosch process) now produces over 100 billion
 
 ## Key Points
 
-- Nitrogen fixation, mineralization, nitrification, and denitrification are all driven by living organisms
+- Nitrogen fixation, mineralization, nitrification, and denitrification are all driven by [[savory-living-organisms-as-tools]]
 - The form of nitrogen available (ammonium vs nitrate) depends on soil biology and pH
 - Anaerobic conditions cause nitrogen loss through denitrification
 - Protozoa and nematodes are crucial "fertilizer spreaders" that mineralize nitrogen in the rhizosphere
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

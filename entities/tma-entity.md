@@ -9,7 +9,7 @@ sources:
 ---
 # TMA
 
-**PIHKAL Entry #157** -- 3,4,5-Trimethoxyamphetamine
+**[[2c-b-pihkal-entry-20]] #157** -- 3,4,5-Trimethoxyamphetamine
 
 ## Chemical Name
 
@@ -31,7 +31,7 @@ TMA is a potent, mood-variable psychedelic that was the first totally synthetic 
 
 - The military code name EA-1319 and reports of "antisocial" effects should not be overinterpreted but do suggest potential for unpredictable behavior
 
-- TMA is a phenethylamine amphetamine with both serotonergic and adrenergic properties; cardiovascular monitoring is advisable
+- TMA is a [[shulgin-dom-stp-phenethylamine-amphetamine-relationship]] with both serotonergic and adrenergic properties; cardiovascular monitoring is advisable
 
 - The compound's history as a military research subject does not imply any unique danger, but does suggest it has been studied in contexts where safety was not the primary concern
 
@@ -39,7 +39,7 @@ TMA is a potent, mood-variable psychedelic that was the first totally synthetic 
 
 ## Legal Status
 
-TMA is specifically scheduled as a controlled substance in many jurisdictions. In the United States, it is listed as a Schedule I controlled substance under the Controlled Substances Act. It is also controlled under international drug conventions in many countries. Its status as one of the earlier synthetic psychedelics and its association with military research led to early regulatory attention.
+TMA is specifically scheduled as a controlled substance in many jurisdictions. In the [[dmt-containing-plants-united-states-halpern]], it is listed as a Schedule I controlled substance under the Controlled [[controlled-substances-act-and-psychedelic-research]]. It is also controlled under international drug conventions in many countries. Its status as one of the earlier synthetic psychedelics and its association with military research led to early regulatory attention.
 
 ## Cultural and Historical Significance
 
@@ -84,4 +84,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

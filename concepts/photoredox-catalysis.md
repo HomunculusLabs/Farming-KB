@@ -1,5 +1,5 @@
 ---
-title: "Photoredox Catalysis"
+title: "oxidative-addition-vs-photoredox-catalysis"
 aliases: [visible-light photoredox, photoredox chemistry, photoredox catalysis]
 tags: [organic-chemistry, catalysis, photochemistry, radical-chemistry, synthesis]
 created: 2026-05-02
@@ -15,7 +15,7 @@ Photoredox catalysis is a synthetic strategy in which a light-absorbing catalyst
 transfer events. The excited catalyst can either donate an electron to a substrate or accept an electron from it, creating radical
 ions under conditions that are often milder than thermal redox chemistry.
 
-The field connects photochemistry, organic chemistry, radical chemistry, and transition-metal coordination chemistry.
+The field connects photochemistry, [[pericyclic-reactions-organic-chemistry]], radical chemistry, and transition-metal coordination chemistry.
 It became especially important in modern organic synthesis because many carbon-carbon and carbon-heteroatom bond formations can be
 triggered by blue or visible light rather than stoichiometric tin hydrides, peroxides, or strong oxidants.
 
@@ -29,7 +29,7 @@ The most common homogeneous photocatalysts are ruthenium and iridium polypyridyl
 acridinium salts, and newer purely organic donor-acceptor fluorophores. These molecules absorb visible light and populate a
 long-lived excited state with redox properties very different from the ground state.
 
-For example, a metal-to-ligand charge-transfer excited state places electron density on a ligand and leaves the metal center more
+For example, a metal-to-ligand charge-transfer excited state places [[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]] on a ligand and leaves the metal center more
 oxidizing. That same excited state can be a strong reductant toward electron-poor acceptors, depending on the catalyst and
 substrate. This ambivalence is why the same catalyst family can support both oxidative and reductive quenching cycles.
 
@@ -68,7 +68,7 @@ Minisci heteroarene functionalization, and cross-electrophile coupling.
 ## Dual Catalysis
 
 A major reason photoredox catalysis expanded rapidly is its compatibility with other catalytic modes. Nickel-photoredox
-cross-coupling combines light-driven radical generation with nickel oxidative addition and reductive elimination, allowing
+cross-coupling combines light-driven radical generation with nickel [[oxidative-addition-organometallic-chemistry]] and reductive elimination, allowing
 sp3-rich fragments to couple with aryl halides, vinyl halides, or acyl partners.
 
 Organocatalysis can also be merged with photoredox chemistry. Enamine catalysis, iminium catalysis, hydrogen-atom transfer
@@ -85,7 +85,7 @@ Redox potential tables are useful starting points, but they are not complete rec
 depend on solvent, base, protonation state, ion pairing, and concentration. Excited-state lifetimes and absorption overlap with
 the lamp spectrum also influence performance.
 
-Blue light is common because many ruthenium, iridium, and organic photocatalysts absorb in the near-visible range. Green or red
+[[chamovitz-julius-von-sachs-blue-light-phototropism]] is common because many ruthenium, iridium, and organic photocatalysts absorb in the near-visible range. Green or red
 light can be preferable when substrates are light-sensitive, when penetration through a dense solution matters, or when a dye has
 better absorption at longer wavelengths.
 
@@ -119,7 +119,7 @@ catalysts, sacrificial reductants, dilute conditions, and inefficient lamps can 
 assessment must include catalyst loading, solvent, energy use, and purification burden.
 
 Scale-up can be difficult because light penetration decreases with path length. Flow photochemistry, thin-film reactors, internal
-illumination, and high-surface-area reactor designs address this limitation. Heat management and reproducible photon flux become
+illumination, and high-surface-area reactor designs address this limitation. [[pf-tek-steam-sterilization-science-and-heat-management]] and reproducible photon flux become
 central engineering variables on scale.
 
 ## Common Pitfalls
@@ -137,6 +137,6 @@ without catalyst, without light, and with different wavelengths are necessary.
 
 - [[phase-transfer-catalysis]]
 ## See Also
-- [[pdc-water-systems-design-and-management]]
+- pdc-water-systems-design-and-management
 - [[reactive-oxygen-species-and-oxidative-stress]]
 - [[mushroom-growing-room-environmental-control]]

@@ -22,9 +22,9 @@ sources:
 
 It is widely distributed along the tropical and subtropical Atlantic coasts of South America, particularly abundant on the Brazilian shoreline.
 
-The species is notable as a prolific producer of halogenated secondary metabolites, including sesquiterpenes and diterpenes with demonstrated antibacterial, antifungal, and cytotoxic activities.
+The species is notable as a prolific producer of halogenated [[antifungal-secondary-metabolites-coprophilous-fungi]], including sesquiterpenes and diterpenes with demonstrated antibacterial, antifungal, and cytotoxic activities.
 
-These bioactive compounds have attracted significant interest from marine natural products chemists investigating new pharmaceutical leads.
+These [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] have attracted significant interest from marine natural products chemists investigating new pharmaceutical leads.
 
 ## Taxonomy and Morphology
 
@@ -72,13 +72,13 @@ Major compound classes include elatol, obtusol, and various laurencin derivative
 
 Elatol exhibits potent antibacterial activity against Gram-positive bacteria including *Staphylococcus aureus* and *Enterococcus faecalis*.
 
-Obtusol and related chamigrane-type sesquiterpenes show antifungal properties against *Candida albicans* and dermatophyte species.
+Obtusol and related chamigrane-type sesquiterpenes show antifungal properties against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and dermatophyte species.
 
 Several isolated diterpenes demonstrate cytotoxic activity against human cancer cell lines in vitro (HL-60, MCF-7, NCI-H460).
 
 The halogenation pattern (bromination and chlorination) is catalyzed by specific haloperoxidase enzymes unique to red algae.
 
-Volatile organic compounds released by *L. dendroidea* include halogenated compounds that may function as chemical defense agents.
+[[fungal-volatile-organic-compounds-communication]] compounds released by *L. dendroidea* include halogenated compounds that may function as chemical defense agents.
 
 These defensive metabolites deter herbivory by marine gastropods and reduce fouling by epibiotic organisms.
 
@@ -88,7 +88,7 @@ As a primary producer on rocky intertidal substrates, *L. dendroidea* contribute
 
 It provides structural habitat and shelter for small invertebrates, including amphipods, polychaetes, and juvenile crustaceans.
 
-The species plays a role in nutrient cycling by absorbing dissolved nitrogen and phosphorus from the water column.
+The species plays a role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by absorbing dissolved nitrogen and phosphorus from the water column.
 
 Chemical defenses produced by *L. dendroidea* influence grazing patterns and community structure on tropical reefs.
 
@@ -102,7 +102,7 @@ No commercial cultivation of *L. dendroidea* exists as of 2026, though laborator
 
 Specimens can be maintained in seawater aquaria at 22–25°C with moderate aeration and 12:12 light cycles.
 
-Growth rates in culture are slow, limiting potential for large-scale biomass production.
+Growth rates in culture are slow, limiting potential for large-scale [[dighton-fungal-biomass-production-aquatic-ecosystems]].
 
 Interest in cultivation has focused on sustainable production of halogenated metabolites for pharmaceutical screening.
 

@@ -1,5 +1,5 @@
 ---
-title: Piper methysticum
+title: plants-of-the-gods-piper-methysticum-kava
 created: 2026-04-28
 type: species
 tags:
@@ -57,14 +57,14 @@ Native origin: Vanuatu (genetic diversity center). Cultivated widely across:
 - **Fiji:** Called *yaqona*; integral to daily social life and ceremony
 - **Samoa:** Called *'ava*; central to chiefly ceremonies
 - **Tonga:** Called *kava*; consumed at *kalapu* (kava circles)
-- **Pohnpei:** Called *sakau*; elaborate traditional preparation with ritual significance
+- **Pohnpei:** Called *sakau*; elaborate [[kava-traditional-preparation-ceremonial-context]] with ritual significance
 - **Hawaii:** Called *'awa*; traditionally used by *kahuna* for religious and healing; undergoing cultural revival
 
 ### Cultivation Requirements
 
 - **Climate:** Tropical; 20–35°C (68–95°F); high humidity; USDA zones 11–12
 - **Rainfall:** 1,500–3,000 mm annually; well-distributed
-- **Soil:** Well-drained volcanic loams preferred; pH 5.5–6.5; rich in organic matter
+- **Soil:** Well-drained volcanic loams preferred; pH 5.5–6.5; rich in [[hamilton-composting-and-organic-matter-management]]
 - **Light:** Partial shade to full sun; understory cultivation common
 - **Propagation:** Stem cuttings (15–30 cm sections with 2–3 nodes); rooting hormone not typically required
 - **Time to harvest:** 3–5 years for premium roots; some cultivars harvested at 18 months for young kava
@@ -76,11 +76,11 @@ The pharmacological activity of kava is attributed to at least 18 identified kav
 
 ### Major Kavalactones
 
-- **Kavain (K1):** ~15–20% — Primary anxiolytic constituent; produces mental calmness and euphoria; considered the most desirable compound
+- **[[kavain]] (K1):** ~15–20% — Primary anxiolytic constituent; produces mental calmness and euphoria; considered the most desirable compound
 - **Dihydrokavain (DHK):** ~8–12% — Sedative; contributes to muscle relaxation
 - **Methysticin (K3):** ~8–15% — Analgesic and anti-inflammatory; may contribute to hepatotoxicity concerns in poor-quality preparations
 - **Dihydromethysticin (DHM):** ~5–12% — Potent anxiolytic; sedative at higher concentrations
-- **Yangonin (K4):** ~5–10% — Mild cannabinoid receptor activity; may contribute to mood elevation
+- **Yangonin (K4):** ~5–10% — Mild [[cannabis-cannabinoid-receptor-pharmacology]] activity; may contribute to mood elevation
 - **Desmethoxyyangonin (DMY):** ~10–15% — Dopamine reuptake inhibition; monoamine oxidase B (MAO-B) reversible inhibition; contributes to initial stimulant effects felt before the sedation sets in
 
 ### Chemotype Classification
@@ -129,7 +129,7 @@ Clinical evidence supports kava for several therapeutic applications:
 
 ## Hepatotoxicity Concerns
 
-Kava's safety profile has been debated since a 2001 German regulatory action (since partially reversed) linking kava to rare hepatotoxicity:
+Kava's [[cannabis-safety-profile-and-overdose-risk]] has been debated since a 2001 German regulatory action (since partially reversed) linking kava to rare hepatotoxicity:
 
 - **Risk is extremely low** with noble kava prepared from peeled root using water extraction
 - **Risk factors:** Tudei varieties; aerial parts (stems, leaves) with hepatotoxic alkaloids; acetone/ethanol extraction; poor-quality products

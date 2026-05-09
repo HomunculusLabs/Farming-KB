@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [comparison, soil-management, no-till, raised-beds]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  sources: []
 type: comparison
 ---
 
@@ -13,7 +14,7 @@ type: comparison
 ## Overview
 No-till gardening and raised bed gardening address the same goal of productive vegetable
 growing through fundamentally different approaches to soil management. No-till eliminates
-all soil disturbance, relying on surface-applied organic matter and soil biology to
+all soil disturbance, relying on surface-applied [[hamilton-composting-and-organic-matter-management]] and soil biology to
 build fertility from the top down. Raised beds elevate the growing surface in framed or
 unframed structures, allowing complete control over soil mix regardless of native ground
 conditions. Both methods improve on conventional tilled gardens, but they prioritize
@@ -43,7 +44,7 @@ The weaknesses of raised beds include initial material costs for frames and soil
 the need to periodically replace rotting wooden frames (every five to ten years),
 limited root depth for deep-rooted crops unless beds are built tall (which compounds
 cost exponentially), and dependence on imported soil mixes rather than building native
-soil health. Raised beds create an artificial growing environment that does not improve
+soil health. Raised beds create an artificial [[cannabis-growing-environment-setup]] that does not improve
 the soil ecosystem beneath them.
 
 ## Key Differences
@@ -57,16 +58,16 @@ the soil ecosystem beneath them.
 | Soil Control | Limited (works with native soil) | Complete (custom soil mix) |
 | Urban Suitability | Good (in-ground) | Excellent (pavement, rooftops) |
 | Long-Term Soil Building | Builds native soil health | Builds soil only within frame |
-| Scalability | Home garden to multi-acre farm | Home garden to community garden |
+| Scalability | Home garden to multi-acre farm | Home garden to [[mollison-designers-community-garden-design-urban-permaculture]] |
 
 ## When to Choose No-Till
 No-till gardening is the better choice for long-term soil health, ecological
 sustainability, and scalability. It is ideal for gardeners who want to build and
-improve their native soil over time, who value mycorrhizal networks and soil biology,
+improve their native soil over time, who value [[dighton-mycorrhizal-networks-carbon-transfer]] and soil biology,
 and who are willing to manage weeds through mulching rather than cultivation. No-till
 scales effectively from backyard beds to multi-acre market gardens and integrates well
 with cover cropping, compost tea applications, and holistic soil management. It is the
-preferred approach for regenerative and organic farming systems that prioritize living
+preferred approach for regenerative and [[coleman-deep-organic-farming-philosophy]] systems that prioritize living
 soil ecosystems over short-term convenience.
 
 ## When to Choose Raised Beds
@@ -83,7 +84,7 @@ properties or community garden plots.
 The combination of no-till principles within raised bed structures is increasingly
 popular and arguably the best of both worlds. Raised beds can be managed without
 tilling by top-dressing with compost and mulch rather than turning the soil each
-season. Sheet mulching can prepare the ground before building raised bed frames on
+season. [[comparison-sheet-mulching-vs-chop-and-drop-mulching]] can prepare the ground before building raised bed frames on
 top, ensuring weed suppression at the base. Cover crops can be grown in raised beds
 during fallow periods and terminated by cutting rather than tilling. This hybrid
 approach gives the convenience and soil control of raised beds while preserving the

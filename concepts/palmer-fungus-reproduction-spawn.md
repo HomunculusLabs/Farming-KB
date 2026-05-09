@@ -1,5 +1,5 @@
 ---
-title: Palmer on Fungus Reproduction Spawn and Cryptogamic Mystery
+title: Palmer on palmer fungus reproduction spawn Spawn and Cryptogamic Mystery
 created: 2026-04-28
 tags: [mushroom-spawn, fungal-reproduction, mycelium, cryptogams, palmer]
 date: 2026-04-28
@@ -11,10 +11,10 @@ type: concept
 # Palmer on Fungus Reproduction, Spawn, and Cryptogamic Mystery
 
 The study of [[spore-print]] technique
-Palmer used is still standard practice in mushroom identification.
+Palmer used is still standard practice in [[psilocybin-mushroom-identification-guide]].
 
 Palmer devoted considerable attention to the mysterious nature of
-fungal reproduction. The very name "cryptogamy" — meaning "hidden
+[[bloomfield-fungal-reproduction-and-chemical-communication]]. The very name "cryptogamy" — meaning "hidden
 marriage" — reflected how little was understood about how these
 organisms propagated. Palmer explored these mysteries both through
 personal observation and through the scientific literature of his day.
@@ -22,7 +22,7 @@ personal observation and through the scientific literature of his day.
 ## The Spawn: The Hidden Plant
 
 The concept of [[mycelium]] biology. Understanding spawn
-was the first step toward systematic mushroom cultivation.
+was the first step toward systematic [[accessible-mushroom-cultivation-for-disabilities]].
 
 Palmer made a dramatic observation while watching workmen grade the
 banks opposite the Brunswick Hotel in Boston. As the pick broke up the
@@ -110,4 +110,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

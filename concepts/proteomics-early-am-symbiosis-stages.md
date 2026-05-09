@@ -1,5 +1,5 @@
 ---
-title: "Proteomics of Early AM Symbiosis Stages"
+title: "Proteomics of proteomics early am symbiosis stages Stages"
 created: 2026-04-26
 tags: [mycorrhiza, proteomics, transcriptomics, plant-microbe-interaction, functional-genomics]
 date: 2026-04-25
@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Proteomic analysis of early arbuscular mycorrhizal (AM) symbiosis stages
+Proteomic analysis of early [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] (AM) symbiosis stages
 provides critical insights into the molecular events that accompany fungal
 recognition, [[functional-genomics-arbuscular-mycorrhiza]].
 
@@ -58,7 +58,7 @@ abundance. Six spots gave positive identifications after MALDI-TOF peptide
 mass fingerprinting:
 
   - **Alanine aminotransferase**: Enzyme of primary metabolism
-  - **Serine/threonine kinase**: Signal transduction protein
+  - **Serine/threonine kinase**: [[fungal-environmental-sensing-signal-transduction-read]] protein
   - **Probable peroxidase** (two spots): Defense-related enzyme known to
     increase during both ecto- and endomycorrhizal symbioses
   - **Guanine nucleotide binding protein** (two spots): GTP-binding
@@ -96,7 +96,7 @@ from fungal elicitor recognition and signal transduction pathway activation.
 The weak and transient character of plant defense responses may reflect the
 low capacity of the fungus to trigger such responses and/or a plant
 mechanism that suppresses already-activated defense responses, allowing
-fungal growth within plant tissue.
+[[brassinosteroid-fungal-growth-promotion]] within plant tissue.
 
 ## Future Directions
 
@@ -105,10 +105,13 @@ compartments offers promise:
 
   - Microsomal and plasmalemma fractions have identified previously
     unreported AM symbiosis proteins
-  - Cell wall proteomics could illuminate recognition events during first
+  - [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] proteomics could illuminate recognition events during first
     contact
   - Mitochondrial and vacuolar compartment studies may reveal metabolic
     adaptations
   - [[functional-genomics-arbuscular-mycorrhiza]]
-- [[mycorrhizal-plant-signaling]]
-- [[fungal-mycorrhizal-pathogen-interactions]]
+- mycorrhizal-plant-signaling
+- fungal-mycorrhizal-pathogen-interactions
+## See Also
+- [[glomus-mosseae]]
+- [[proteomics-early-arbuscular-mycorrhiza-symbiosis]]

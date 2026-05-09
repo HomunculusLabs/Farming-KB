@@ -1,5 +1,5 @@
 ---
-title: "Psilocin Chemical Instability and Chromatographic Identification Challenges"
+title: "psilocybin-and-psilocin-chemical-synthesis Instability and Chromatographic Identification Challenges"
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 author: Shirota, Hakamata & Goda
 tags: [psilocin, instability, decomposition, chromatography, hplc, tlc, forensic, chemistry]
@@ -10,11 +10,11 @@ created: 2026-05-08
 
 ## Overview
 
-A persistent practical problem in the forensic analysis of magic mushrooms is
+A persistent practical problem in the forensic analysis of [[guzman-magic-mushrooms-african-species]] is
 the chemical instability of psilocin, the primary psychoactive compound
 produced when psilocybin is metabolized. Shirota, Hakamata, and Goda (2003)
 noted that "it is difficult to isolate 1 and 2 from the mushroom on a gram
-scale for use as pure standard compounds because 1 easily decomposes and 2
+scale for use as pure [[shirota-forensic-standard-compounds-magic-mushroom-identification]] because 1 easily decomposes and 2
 has a high polarity." These dual challenges—psilocin's instability and
 psilocybin's polarity—have shaped the development of analytical methods for
 magic [[shirota-japan-narcotics-regulation-magic-mushrooms-2002]]
@@ -23,8 +23,8 @@ magic [[shirota-japan-narcotics-regulation-magic-mushrooms-2002]]
 ## References
 
 - Shirota, O., Hakamata, W., & Goda, Y. (2003). Concise large-scale
-  synthesis of psilocin and psilocybin. *J. Nat. Prod.*, 66, 885-887.
-- Beug, M.W. & Bigwood, J. (1981). Quantitative analysis of psilocybin.
+  synthesis of [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]]. *J. Nat. Prod.*, 66, 885-887.
+- Beug, M.W. & Bigwood, J. (1981). Quantitative [[hplc-analysis-of-psilocybin-and-psilocin]].
   *J. Chromatogr.*, 207, 379-385.
 - Bogusz, M.J. (2000). Liquid chromatographic method for psilocin.
   *J. Chromatogr. B*, 748, 3-19.
@@ -109,4 +109,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

@@ -17,7 +17,7 @@ sacrament of
 their religion, and their annual pilgrimage to collect peyote in the
 sacred
 land of Wirikuta is one of the most important religious ceremonies in
-indigenous North America.
+indigenous [[psilocybin-north-america-pacific-northwest]].
 ## The Huichol People
 The Huichol are an indigenous people numbering approximately
 20,000-50,000,
@@ -53,7 +53,7 @@ typically last several days and include:
 - The consumption of peyote buttons, often in large quantities during
   initiation ceremonies
 - All-night singing and dancing around the ceremonial fire
-- Shamanic healing sessions, in which the mara'akame diagnoses and tre
+- [[metzner-shamanic-healing-and-divination-paradigm]] sessions, in which the mara'akame diagnoses and tre
   ats
   illness
 - Creation of visionary art, including yarn paintings and embroidered
@@ -69,7 +69,7 @@ Huichol art is intimately connected to the peyote experience. The
 vivid,
 complex designs of Huichol yarn paintings, beadwork, and embroidery
 are
-inspired by the visions received during peyote ceremonies. Common
+inspired by the visions received during [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]]. Common
 motifs
 include deer, maize, peyote buttons, snakes, eagles, and the sun --
 all

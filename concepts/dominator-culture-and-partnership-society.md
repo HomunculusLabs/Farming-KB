@@ -1,5 +1,5 @@
 ---
-title: Dominator Culture and Partnership Society
+title: Dominator dominator culture and partnership society Society
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -17,7 +17,7 @@ Our culture, self-toxified by the poisonous by-products of technology and egocen
 
 McKenna argues that suppression of shamanic gnosis, with its reliance on ecstatic dissolution of the ego, has robbed us of life's meaning and made us enemies of the planet, of ourselves, and our grandchildren.
 
-We are killing the planet in order to keep intact the wrongheaded assumptions of the ego-dominator cultural style. It is time for change.
+We are killing the planet in order to keep intact the wrongheaded assumptions of the ego-dominator [[mckenna-cannabis-cultural-style-and-feminine-plant]]. It is time for change.
 
 The dominator model is characterized by hierarchy, male dominance, the suppression of the feminine, and an ego-centered approach to reality. It values power over others, property accumulation, and linear progress. Its primary intoxicants are stimulants (coffee, sugar, tobacco) and narcotics (alcohol, opiates) -- drugs that reinforce the social order rather than dissolve it.
 
@@ -55,7 +55,7 @@ For gatherers, the situation was different. Those women with the largest reperto
 
 The linguistic depth women attained as gatherers eventually led to a momentous discovery: the discovery of agriculture. Women realized that they could simply grow a restricted number of plants. They learned the needs of only those few plants, embraced a sedentary lifestyle, and began to forget the rest of nature they had once known so well.
 
-At that point the retreat from the natural world began, and the dualism of humanity versus nature was born. One of the places where the old goddess culture died, Catal Huyuk, in present-day Anatolian Turkey, is the very place where agriculture may have first arisen.
+At that point the retreat from the natural world began, and the dualism of humanity versus nature was born. One of the places where the old goddess culture died, [[mckenna-catal-huyuk-natufian-link]], in present-day Anatolian Turkey, is the very place where agriculture may have first arisen.
 
 ## The Drug Dimension of Cultural Change
 
@@ -67,7 +67,7 @@ The ennui of modernity is the consequence of a disrupted quasisymbiotic relation
 
 ## Fear of Boundary Dissolution
 
-The generally hostile attitude of dominator society toward sexual expression can be traced to the terror that the dominator ego feels in any situation in which boundaries are dissolved, even the most pleasurable and natural of situations. The French notion of orgasm as petit mort perfectly encapsulates the fear and fascination that boundary-dissolving experiences hold for dominator cultures.
+The generally hostile attitude of dominator society toward sexual expression can be traced to the terror that the dominator ego feels in any situation in which boundaries are dissolved, even the most pleasurable and natural of situations. The French notion of orgasm as petit mort perfectly encapsulates the fear and fascination that boundary-dissolving experiences hold for [[partnership-and-dominator-cultures-in-human-history]].
 
 Dominator culture has shown a remarkable ability to redesign itself to meet changing levels of technology and collective self-awareness. In all its manifestations, monotheism has been and remains the single most stubborn force resisting perception of the primacy of the natural world.
 

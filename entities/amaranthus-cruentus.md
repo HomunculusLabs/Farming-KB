@@ -25,7 +25,7 @@ Commonly known as purple amaranth, red amaranth, or Mexican grain amaranth, it i
 one of three principal grain amaranth species alongside *A. hypochondriacus* and
 *A. caudatus*.
 
-The species originated in the highlands of Central America and was a major staple
+The species originated in the highlands of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and was a major staple
 crop of the Aztec civilization, where it rivaled maize in nutritional importance.
 
 Global production remains modest but is increasing as interest in climate-resilient,
@@ -43,7 +43,7 @@ referring to the blood-red inflorescences characteristic of cultivated forms.
 with a stout central stem and multiple lateral branches.
 
 The root system is a deep taproot with extensive lateral branching, contributing
-to drought tolerance and nutrient scavenging in poor soils.
+to [[dighton-fungal-drought-tolerance-plant-water-relations]] and nutrient scavenging in poor soils.
 
 **Leaves** are alternate, ovate to lanceolate, 5–15 cm long and 3–8 cm wide,
 with entire margins and long petioles.
@@ -90,9 +90,9 @@ marginal soils.
 
 Optimal growth temperature ranges from 22–30°C; the crop is moderately
 drought-tolerant once established but benefits from consistent moisture
-during the vegetative phase.
+during the [[green-cannabis-grow-bible-vegetative-phase-management]].
 
-Seeds are sown directly at rates of 0.5–2 kg/ha for grain production or
+Seeds are sown directly at rates of 0.5–2 kg/ha for [[fukuoka-no-till-grain-production-method]] or
 broadcast at higher density for leaf harvest.
 
 For grain production, plants are spaced 20–50 cm within rows 50–75 cm apart,
@@ -129,9 +129,9 @@ efficiency and water-use efficiency, conferring advantages under warm, dry
 conditions compared to C3 cereals.
 
 The deep taproot system helps prevent soil erosion on slopes and improves
-soil structure through root penetration and organic matter addition.
+soil structure through root penetration and [[hamilton-composting-and-organic-matter-management]] addition.
 
-As a fast-growing crop with a short growing season, amaranth can serve as
+As a fast-growing crop with a short [[savory-growing-season-and-non-growing-season-management]], amaranth can serve as
 a catch crop or relay crop in diversified farming systems.
 
 The species shows potential for phytoremediation of moderately contaminated

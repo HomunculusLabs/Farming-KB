@@ -26,7 +26,7 @@ created: 2026-04-28
 
 ## Overview
 
-[[amazonian-medicinal-plants-reference]] for millennia. It is valued equally as a [[permaculture]] companion plant, and an ornamental garden specimen. The genus name *Achillea* honors the Greek hero Achilles, who reportedly used the plant to treat battlefield wounds.
+[[amazonian-medicinal-plants-reference]] for millennia. It is valued equally as a permaculture companion plant, and an ornamental garden specimen. The genus name *Achillea* honors the Greek hero Achilles, who reportedly used the plant to treat battlefield wounds.
 
 ## Taxonomy
 
@@ -51,7 +51,7 @@ Yarrow is a rhizomatous perennial typically growing 30–90 cm tall. Its most di
 
 ## Native Range and Distribution
 
-Yarrow is native to temperate regions of Europe, Asia (particularly Siberia and Central Asia), and North America. It has been widely naturalized across much of the Southern Hemisphere, including Australia, New Zealand, and parts of South America. It thrives in meadows, grasslands, roadsides, and disturbed areas, tolerating a broad range of soil types and pH levels. It is considered an invasive species in some regions outside its native range.
+Yarrow is native to temperate regions of Europe, Asia (particularly Siberia and Central Asia), and [[psilocybin-north-america-pacific-northwest]]. It has been widely naturalized across much of the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], including Australia, New Zealand, and parts of South America. It thrives in meadows, grasslands, roadsides, and disturbed areas, tolerating a broad range of soil types and pH levels. It is considered an invasive species in some regions outside its native range.
 
 ## Historical Uses
 
@@ -65,7 +65,7 @@ In traditional Chinese medicine, dried yarrow stalks (*shi cao*) were historical
 
 ### Indigenous American Uses
 
-Numerous Native American tribes used yarrow for similar purposes: wound care, digestive aid, headache relief, fever reduction, and as a ceremonial and ritual plant. The Navajo used it as a ceremonial emetic, while the Ojibwe applied it to burns and skin eruptions.
+Numerous [[halpern-sacramental-peyote-and-native-american-church]] tribes used yarrow for similar purposes: wound care, digestive aid, headache relief, fever reduction, and as a ceremonial and ritual plant. The Navajo used it as a ceremonial emetic, while the Ojibwe applied it to burns and skin eruptions.
 
 ## Active Compounds
 
@@ -73,7 +73,7 @@ Yarrow contains a diverse phytochemical profile responsible for its broad medici
 
 - **Flavonoids** — Apigenin, luteolin, and rutin contribute anti-inflammatory and antioxidant effects.
 - **Alkaloids** — Achilleine (a mild alkaloid) is the primary hemostatic compound.
-- **Volatile oils** — Camphor, eucalyptol, borneol, and chamazulene (which gives blue yarrow essential oil its color) provide antiseptic and anti-inflammatory actions.
+- **Volatile oils** — Camphor, eucalyptol, borneol, and chamazulene (which gives blue yarrow [[permaculture-designers-manual-essential-oil-plants]] its color) provide antiseptic and anti-inflammatory actions.
 - **Tannins** — Contribute astringent properties useful for wound healing and diarrhea.
 - **Sesquiterpene lactones** — Including achillin and leucodin, with anti-inflammatory and bitter digestive-stimulating actions.
 - **Coumarins** — Umbelliferone and other coumarins add antispasmodic effects.
@@ -97,7 +97,7 @@ Yarrow is broadly classified as a [[digestive-herbs-and-bitters]], and an anti-i
 | **Tincture** | 1:5 in 40–60% alcohol, 2–4 mL up to 3× daily | Internal hemostasis, circulation, digestion |
 | **Poultice** | Fresh or dried leaves moistened and applied directly | Cuts, abrasions, bruises, nosebleeds |
 | **Salve / ointment** | Infused oil combined with beeswax | Wound healing, rashes, minor burns |
-| **Bath** | Strong infusion added to bathwater | Skin conditions, feverish illness |
+| **Bath** | Strong infusion added to bathwater | [[cannabis-for-skin-conditions-detailed]], feverish illness |
 | Culinary | Young leaves used sparingly in salads and soups | Nutritive tonic, bitter greens |
 
 ## Permaculture Applications
@@ -118,5 +118,5 @@ Yarrow is low-maintenance, deer-resistant, and generally pest-free. Overwatering
 ## Ecological Role
 
 Yarrow plays an important ecological role in meadow and grassland ecosystems. It provides food for a wide range of insects and is a larval host for some moth species. Its deep roots help break compacted soil and improve water infiltration. As a pioneer species, it readily colonizes disturbed ground, stabilizing soil and paving the way for successional plant communities. It is frequently included in [[chamomile-growing-guide]] — Related Asteraceae herb with overlapping uses
-- [[comfrey]] — Another dynamic accumulator and wound herb
+- comfrey — Another [[nutrient-dynamic-accumulator-reference]] and wound herb
 - [[medicinal-herb-growing]] — Related Artemisia species with digestive and menstrual uses

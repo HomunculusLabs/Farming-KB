@@ -45,7 +45,7 @@ Roots are tuberous in older plants, contributing to drought resilience and peren
 
 *Talinum fruticosum* is believed to be native to tropical Africa, specifically the West African forest-savanna transition zone from Nigeria eastward to Sudan.
 
-It has been widely introduced and naturalized throughout tropical and subtropical regions, including South and Southeast Asia, the Caribbean, Central America, and northern South America.
+It has been widely introduced and naturalized throughout tropical and subtropical regions, including South and Southeast Asia, the Caribbean, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and northern South America.
 
 The species thrives in humid lowland environments with annual rainfall above 1000 mm and mean temperatures of 25–30°C.
 
@@ -59,7 +59,7 @@ Propagation is primarily by stem cuttings (15–20 cm segments) or by seed, with
 
 Cuttings root within 5–7 days when planted directly into moist soil, and the first harvest of leaves can occur 3–4 weeks after planting.
 
-Direct seeding requires thinning to a spacing of 20–30 cm within rows spaced 40–50 cm apart.
+[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] requires thinning to a spacing of 20–30 cm within rows spaced 40–50 cm apart.
 
 The plant responds well to organic manure and moderate nitrogen fertilization, producing higher leaf yields with improved protein content under adequate fertility.
 
@@ -75,7 +75,7 @@ Fresh leaves contain approximately 3–5% protein, 1–2% fat, and 5–8% carboh
 
 The leaves are rich in vitamins A and C, providing significant provitamin A carotenoids (beta-carotene) and ascorbic acid per 100 g serving.
 
-Mineral content includes appreciable levels of iron, calcium, potassium, and magnesium, making it a useful dietary supplement in regions where micronutrient deficiency is prevalent.
+Mineral content includes appreciable levels of iron, calcium, potassium, and magnesium, making it a useful dietary supplement in regions where [[cervantes-micronutrient-deficiency-chelation]] is prevalent.
 
 Oxalate levels are moderate, and the leaves are typically cooked before consumption to reduce antinutritional factors.
 
@@ -89,17 +89,17 @@ The species attracts pollinators when in flower, including small bees and butter
 
 In traditional medicine, leaf extracts have been used as poultices for wounds and inflammations, and as a mild laxative in West African ethnomedicine.
 
-The plant's drought tolerance and ability to resprout from tubers after dry periods make it a candidate for climate-resilient food systems in marginal tropical environments.
+The plant's [[dighton-fungal-drought-tolerance-plant-water-relations]] and ability to resprout from tubers after dry periods make it a candidate for climate-resilient food systems in marginal tropical environments.
 
 ## Related Species
 
 *Talinum triangulare* (Jacq.) Willd. is a closely related species often confused with *T. fruticosum* due to overlapping morphology and distribution.
 
-*T. triangulare* is more commonly cited in West African literature under the synonym *Talinum fruticosum*, creating persistent taxonomic confusion in agricultural and nutritional studies.
+*T. triangulare* is more commonly cited in West African literature under the synonym *Talinum fruticosum*, creating persistent [[neurotropic-fungi-taxonomic-confusion-and-identification]] in agricultural and nutritional studies.
 
 The two species can be distinguished by inflorescence structure: *T. fruticosum* bears open, spreading racemes while *T. triangulare* tends toward more compact, cymose arrangements.
 
-Other members of the genus include *Talinum paniculatum*, grown as an ornamental, and *Talinum calycinum*, a North American prairie native with edible leaves.
+Other members of the genus include *Talinum paniculatum*, grown as an ornamental, and *Talinum calycinum*, a [[growing-gourmet-north-american-reishi-species]] prairie native with edible leaves.
 
 *Talinum* species are part of a broader group of succulent-leaved tropical herbs that includes *Portulaca oleracea* (common purslane) as a distant relative with similar nutritional profiles.
 

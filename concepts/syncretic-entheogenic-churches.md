@@ -20,7 +20,7 @@ who serves as healer, diviner, and intermediary with the spirit world.
 The shaman's work is primarily diagnostic and therapeutic, aimed at
 restoring balance for individuals.
 
-Syncretic entheogenic ceremonies, by contrast, are collective
+Syncretic [[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]], by contrast, are collective
 experiences led by priests or officiants rather than shamans. They
 involve large groups of twenty to forty participants, or even hundreds
 in major Brazilian hoasca churches.
@@ -40,7 +40,7 @@ protection — critical advantages that isolated shamanic practices lack.
 ## Brazilian Ayahuasca Churches
 
 Three major Brazilian churches use ayahuasca (locally called hoasca)
-as their central sacrament: Santo Daime, União do Vegetal (UDV), and
+as their central sacrament: [[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]], União do Vegetal (UDV), and
 Barquinha. All are legally recognized in Brazil.
 
 ### Founding in the 1950s Amazon
@@ -56,7 +56,7 @@ The UDV is the most formal of the three Brazilian ayahuasca churches.
 Ceremonies are conducted with participants seated in rows of chairs.
 The format includes sermons, structured question-and-answer sessions,
 and personal testimonials from members. The emphasis is on disciplined
-ritual structure and intellectual engagement with the experience.
+[[metzner-hybrid-circle-ritual-structure-and-council-practice]] and intellectual engagement with the experience.
 
 ### Santo Daime
 
@@ -78,7 +78,7 @@ churches, blending Amazonian, African, and Christian elements.
 
 The Native American Church (NAC) uses peyote as its central sacrament.
 The church is legally incorporated and has historically enjoyed legal
-protection for ceremonial peyote use in the United States.
+protection for ceremonial peyote use in the [[dmt-containing-plants-united-states-halpern]].
 
 NAC ceremonies follow a consistent format: a roadman leads the
 ceremony, participants sing peyote songs throughout the night, and
@@ -88,8 +88,8 @@ challenges for practitioners.
 
 ## Bwiti Cult and Iboga
 
-The Bwiti cult, practiced in Gabon and Zaire, centers on the use of
-iboga (also called eboga), a powerful psychoactive root bark.
+[[iboga-and-the-bwiti-cult-initiation]], practiced in Gabon and Zaire, centers on the use of
+iboga (also called eboga), a powerful psychoactive [[iboga-root-bark-preparation]].
 
 Bwiti practices were originally learned from Pygmy peoples of the
 region. The tradition involves a profound death-rebirth initiation

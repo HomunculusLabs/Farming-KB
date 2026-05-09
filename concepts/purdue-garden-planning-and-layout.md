@@ -1,5 +1,5 @@
 ---
-title: Purdue Garden Planning and Layout
+title: Purdue hamilton-garden-planning-and-site-assessment and Layout
 created: 2026-04-28
 tags:
   - garden-planning
@@ -18,11 +18,11 @@ type: concept
 
 # Purdue Garden Planning and Layout
 
-A guide to planning and laying out a home vegetable garden, covering site selection, soil preparation, crop arrangement, succession planting, and environmental hazards such as juglone toxicity from walnut trees. Based on Purdue University Cooperative Extension Service guidelines (HO-32-W).
+A guide to planning and laying out a home [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]], covering site selection, soil preparation, crop arrangement, [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]], and environmental hazards such as juglone toxicity from walnut trees. Based on Purdue University Cooperative Extension Service guidelines (HO-32-W).
 
 ## Why Planning Matters
 
-Planning is the first and most basic step in home vegetable gardening. Proper planning saves time at planting, provides accurate seed and transplant quantities, and ensures the garden satisfies household needs throughout the growing season. A well-planned garden prevents overcrowding, poor sun exposure, and inefficient use of space. Planning also lets you calculate how much seed, how many transplants, and what supplies you will need before the season begins.
+Planning is the first and most basic step in home [[home-vegetable-garden-planning]]. Proper planning saves time at planting, provides accurate [[vegetable-seed-and-transplant-guide]] quantities, and ensures the garden satisfies household needs throughout the growing season. A well-planned garden prevents overcrowding, poor sun exposure, and inefficient use of space. Planning also lets you calculate how much seed, how many transplants, and what supplies you will need before the season begins.
 
 ## Garden Location
 
@@ -42,7 +42,7 @@ Do not plant vegetables near trees and shrubs. In these locations, vegetables mu
 
 ### The Problem
 
-Walnut trees (particularly black walnut, Juglans nigra) produce a chemical compound called juglone (5-hydroxy-1,4-naphthoquinone) that is toxic to many plants, especially tomatoes. Juglone is present in all parts of the walnut tree including roots, leaves, bark, and nut hulls, and is released into surrounding soil through root exudation, leaf litter decomposition, and rain washing from canopy surfaces.
+Walnut trees (particularly black walnut, Juglans nigra) produce a chemical compound called juglone (5-hydroxy-1,4-naphthoquinone) that is toxic to many plants, especially tomatoes. Juglone is present in all parts of the walnut tree including roots, leaves, bark, and nut hulls, and is released into surrounding soil through root exudation, leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]], and rain washing from canopy surfaces.
 
 ### Sensitive Plants
 

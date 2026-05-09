@@ -9,11 +9,11 @@ sources:
 ---
 # Light Initiation of Basidiocarp Formation
 
-Light is required for basidiocarp (fruitbody) initiation in the majority of mushroom species studied. The research of Badham (1980) established the precise action spectrum and dose-response relationship for [[mushroom-lighting-and-environmental-requirements]].
+Light is required for basidiocarp (fruitbody) initiation in the majority of mushroom species studied. The research of Badham (1980) established the precise action spectrum and dose-response relationship for mushroom-lighting-and-environmental-requirements.
 
 ## Background
 
-The requirement of light for basidiocarp initiation or development is well documented across multiple species: Coprinus domesticus, Favolus arcularis, Schizophyllum commune, and others. The general pattern is consistent: blue and UV wavelengths trigger fruiting while red wavelengths do not.
+The requirement of light for [[light-basidiocarp-initiation-psilocybe-cubensis-research]] or development is well documented across multiple species: Coprinus domesticus, Favolus arcularis, Schizophyllum commune, and others. The general pattern is consistent: blue and UV wavelengths trigger fruiting while red wavelengths do not.
 
 Heim and Wasson (1958) initially reported that P. cubensis initials may form in darkness at elevated temperatures (27°C), but Jackson and Alexopoulos (1976) confirmed that the species requires light for basidiocarp initiation at normal cultivation temperatures (22-25°C).
 
@@ -59,7 +59,7 @@ P. cubensis has the lowest saturation dose of the well-studied species, making i
 
 - **Ventilation required**: Initiation did not occur in unventilated cultures — atmospheric gases or metabolic byproducts may inhibit or be required
 - **Maturity prerequisite**: Light has no effect before vegetative maturity (mycelium fully covering the agar surface)
-- **Blue pigment zone**: Primordia developed under low light sometimes showed a blue zone subtending the pileus, exactly at the phototropic zone described by Plunkett (1961). This pigment relates to hallucinogenic indoles (Singer, 1958)
+- **Blue pigment zone**: Primordia developed under [[darkness-low-light-facilitation-entheogenic-ceremonies]] sometimes showed a blue zone subtending the pileus, exactly at the phototropic zone described by Plunkett (1961). This pigment relates to hallucinogenic indoles (Singer, 1958)
 - **Atypical forms**: Some sealed cultures produced conidia on clamped hyphae and morchelloid forms
 
 ## Practical Implications for Cultivation
@@ -67,9 +67,9 @@ P. cubensis has the lowest saturation dose of the well-studied species, making i
 For [[spawn-grain-to-grain-transfer]] phase
 5. The action spectrum aligns with cool-white fluorescent lighting commonly used in cultivation
 6. Light scheduling does not need to be precisely timed — even brief daily pulses suffice
-7. Over-illumination beyond the saturation dose wastes energy and may inhibit [[agar-culture-work]]:
+7. Over-illumination beyond the saturation dose wastes energy and may inhibit agar-culture-work:
 
-- **Medium**: Brodie's low-sugar formulation (maltose, dextrose, sucrose, asparagine, peptone, yeast extract, salts)
+- **Medium**: Brodie's low-sugar formulation (maltose, dextrose, sucrose, asparagine, peptone, [[marmite-yeast-extract-straw-substrate]], salts)
 - **Containers**: Plastic test tubes (16 x 125 mm) with 6 ml slanted medium, 3 cm^2 surface area
 - **Inoculation**: 3 x 3 mm cubes from stock cultures grown in dark for 1 month
 - **Safe light**: 15-watt incandescent with Carolina Biological Supply red filter (650 nm)
@@ -83,10 +83,10 @@ Initiation did not occur in cultures that were not ventilated. Atmospheric gases
 
 ## See Also
 
-- [[mushroom-lighting-and-environmental-requirements]] — practical lighting for cultivation
-- [[mushroom-fruiting-chamber-designs]] — environmental control for fruiting
+- mushroom-lighting-and-environmental-requirements — practical lighting for cultivation
+- mushroom-fruiting-chamber-designs — [[eclss-environmental-control-life-support]] for fruiting
 - [[psychedelic-mushroom-set-and-setting]] — species profile
 
 ## Photoreceptor Biology
 
-The specific photoreceptor responsible for blue-light sensing in basidiomycetes has been identified as the White Collar-1 (WC-1) homolog, a LOV (Light-Oxygen-Voltage) domain protein conserved across fungi. In species where the photoreceptor has been characterized genetically, mutations in the WC-1 gene abolish light-induced fruiting entirely, confirming its role as the primary photoreceptor for basidiocarp initiation. The extremely low energy threshold for triggering suggests that the photoreceptor operates through a signal amplification cascade -- a single photon absorption event may ultimately lead to the expression of hundreds of fruiting-related genes. Understanding this pathway has practical implications for [[mushroom-lighting-requirements]] in commercial cultivation facilities, where energy costs for lighting represent a significant operational expense.
+The specific photoreceptor responsible for blue-light sensing in basidiomycetes has been identified as the White Collar-1 (WC-1) homolog, a LOV (Light-Oxygen-Voltage) domain protein conserved across fungi. In species where the photoreceptor has been characterized genetically, mutations in the WC-1 gene abolish light-induced fruiting entirely, confirming its role as the primary photoreceptor for basidiocarp initiation. The extremely low energy threshold for triggering suggests that the photoreceptor operates through a signal amplification cascade -- a single photon absorption event may ultimately lead to the expression of hundreds of fruiting-related genes. Understanding this pathway has practical implications for mushroom-lighting-requirements in commercial cultivation facilities, where energy costs for lighting represent a significant operational expense.

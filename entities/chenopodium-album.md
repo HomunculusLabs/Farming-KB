@@ -27,7 +27,7 @@ sources:
 
 # Chenopodium album
 
-**Chenopodium album** L. (1753), commonly known as **lamb's quarters**, **pigweed**, **fat-hen**, **goosefoot**, **melde**, or **wild spinach**, is an annual herbaceous plant in the family Amaranthaceae (formerly Chenopodiaceae). One of the most widely distributed and successful weed species on Earth, it is found on every continent except Antarctica and has been a food plant for humans since prehistoric times. Despite its reputation as an agricultural pest, *C. album* is a highly nutritious edible green, a dynamic mineral accumulator, and a valuable species in permaculture and ecological restoration contexts. Archaeological evidence confirms its use as a food crop by European Neolithic peoples, and it remains an important leaf vegetable in parts of South Asia, Africa, and the Himalayan region.
+**Chenopodium album** L. (1753), commonly known as **lamb's quarters**, **pigweed**, **fat-hen**, **goosefoot**, **melde**, or **wild spinach**, is an annual herbaceous plant in the family Amaranthaceae (formerly Chenopodiaceae). One of the most widely distributed and successful weed species on Earth, it is found on every continent except Antarctica and has been a food plant for humans since prehistoric times. Despite its reputation as an agricultural pest, *C. album* is a highly nutritious edible green, a dynamic mineral accumulator, and a valuable species in permaculture and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] contexts. Archaeological evidence confirms its use as a food crop by European Neolithic peoples, and it remains an important leaf vegetable in parts of South Asia, Africa, and the Himalayan region.
 
 ## Taxonomy
 
@@ -82,24 +82,24 @@ Notably, *C. album* exceeds most cultivated leafy greens in protein, iron, calci
 
 *Chenopodium album* is among the most widely distributed plants on Earth:
 - **Native:** Europe, western and central Asia, northern Africa
-- **Naturalized/invasive:** North America, South America, sub-Saharan Africa, East Asia, Southeast Asia, Australia, New Zealand, Pacific Islands
+- **Naturalized/invasive:** North America, South America, sub-Saharan Africa, East Asia, Southeast Asia, Australia, New Zealand, [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]
 - **Habitat:** Extremely adaptable — agricultural fields, gardens, waste places, roadsides, riverbanks, disturbed soils, compost heaps, coastal areas. Grows from sea level to over 3,500 m elevation.
 
 The species is classified as a **noxious weed** or **invasive species** in many jurisdictions. Its success as a weed is attributed to:
 - Enormous seed production (up to 100,000 seeds per plant)
 - Prolonged seed bank viability (decades)
 - Rapid germination in disturbed soils
-- Phenotypic plasticity and genetic diversity
+- Phenotypic plasticity and [[biodiversity-fungal-genetic-diversity]]
 - Herbicide resistance (documented in multiple populations, particularly to atrazine and photosystem II inhibitors)
 - High tolerance of diverse soil types, pH, and moisture conditions
 
 ## Ecological Role
 
-Despite its weedy reputation, *C. album* plays important ecological functions: pioneer species on disturbed soils initiating succession; deep taproot builds soil and brings nutrients to surface; dynamic accumulator concentrating N, K, Ca, P, and trace minerals; nectar/pollen for small bees and wasps; seeds for sparrows, finches, and doves; foliage host for Lepidoptera larvae (beet webworm, goosefoot moth); efficient nitrogen cycling preventing leaching.
+Despite its weedy reputation, *C. album* plays important ecological functions: pioneer species on disturbed soils initiating succession; deep taproot builds soil and brings nutrients to surface; [[comparison-hyperaccumulator-vs-dynamic-accumulator]] concentrating N, K, Ca, P, and trace minerals; nectar/pollen for small bees and wasps; seeds for sparrows, finches, and doves; foliage host for Lepidoptera larvae (beet webworm, goosefoot moth); efficient [[fungal-role-in-nitrogen-cycling]] preventing leaching.
 
 ## Permaculture Applications
 
-In permaculture design, *Chenopodium album* is increasingly recognized for its utility rather than dismissed as a weed:
+In [[permaculture-design]], *Chenopodium album* is increasingly recognized for its utility rather than dismissed as a weed:
 
 ### Dynamic Accumulator
 
@@ -137,6 +137,8 @@ Not commercially cultivated at scale but easily grown: direct seed in spring (ge
 
 ## See Also
 
+- [[viscum-album]]
+
 - [[taraxacum-officinale]] — Dandelion, another dynamic accumulator and edible weed
-- [[permaculture]] — Permaculture design principles
+- permaculture — Permaculture design principles
 - [[beta-glucans]] — Polysaccharides found in related species

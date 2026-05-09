@@ -1,9 +1,9 @@
 ---
-title: Reishi (Ganoderma lucidum) Cancer Research
+title: Reishi (stamets-reishi-ganoderma-lucidum-cultivation) Cancer Research
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - Smith, Rowan and Sullivan (2002). Medicinal Mushrooms: Their therapeutic properties and current medical usage with special emphasis on cancer treatments. University of Strathclyde.
+  - Smith, Rowan and Sullivan (2002). comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive: Their therapeutic properties and current medical usage with special emphasis on cancer treatments. University of Strathclyde.
   - Gao, Y.H. and Zhou, S. (2001). The immuno-modulating effects of Ganoderma lucidum. International Journal of Medicinal Mushrooms 3, 223-241.
   - Zhou, S. et al. (2001). A phase I/II study of a Ganoderma lucidum extract in patients with advanced cancers.
   - Kim, H.W. and Kim, B.K. (1999). Biomedicinal triterpenoids of Ganoderma lucidum.
@@ -15,11 +15,11 @@ tags: [reishi]
 
 ## Overview
 
-Ganoderma lucidum, known as Reishi in Japan and Ling Zhi (Mushroom of Immortality) in China, has the longest historical usage of any medicinal mushroom, dating back at least four millennia. It is the most depicted mushroom in ancient Japanese, Korean, and Chinese art and has been used as a talisman for protection. Originally rare and expensive, it can now be artificially cultivated, making it more accessible.
+Ganoderma lucidum, known as Reishi in Japan and Ling Zhi (Mushroom of Immortality) in China, has the longest historical usage of any medicinal mushroom, dating back at least four millennia. It is the most depicted [[shroom-cultural-history-mushroom-in-ancient-civilizations]] Japanese, Korean, and Chinese art and has been used as a talisman for protection. Originally rare and expensive, it can now be artificially cultivated, making it more accessible.
 
 ## Active Constituents
 
-The mushroom and mycelium contain a diverse array of bioactive compounds:
+The mushroom and mycelium contain a diverse array of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:
 - **Polysaccharides**: Over 100 types isolated, primarily beta-D-glucans with antitumour and immunostimulating activities
 - **Triterpenoids**: More than 100 alcohol-soluble triterpenes identified, including highly oxidised lanostane-type triterpenoids (ganoderic acid, ganoderenic acid, lucidenic acid, ganolucidic acid)
 - **Proteins**: Including Ling Zhi-8 (LZ-8) with immunomodulatory properties
@@ -37,7 +37,7 @@ Reishi extracts act on multiple immune pathways:
 ### Cytokine Production
 - Water-soluble extracts activate human T lymphocytes, inducing production of IL-1beta, INF-gamma, TNF-alpha, IL-2, IL-6, and IL-10
 - Polysaccharide fraction GLB promotes IL-2 production in a dose-dependent manner and augments cytotoxic T lymphocyte toxicity by up to 100%
-- LZ-8 mediates T cell activation via IL-2 production and IL-2 receptor up-regulation
+- LZ-8 mediates T [[mushroom-immune-cell-activation-mechanisms]] via IL-2 production and IL-2 receptor up-regulation
 
 ### Macrophage and NK Cell Activation
 - Polysaccharide fractions enhance cytotoxicity of splenic NK cells in tumour-bearing mice
@@ -59,7 +59,7 @@ Reishi extracts act on multiple immune pathways:
 Extracts from G. lucidum have shown antitumour activity against a variety of tumours in animal models. Key findings include:
 - Effective inhibition of metastasis in mouse models
 - Increased survival when administered as monotherapy or combined with conventional chemotherapy
-- Anti-tumour action mediated through biological response modifying effects
+- Anti-tumour action mediated through [[medicinal-mushrooms-biological-response-modifiers]] modifying effects
 - Cytokine release from activated immune cells causes anti-proliferation and apoptosis induction in HL-60 and U937 leukemic cells
 
 ## Clinical Trials

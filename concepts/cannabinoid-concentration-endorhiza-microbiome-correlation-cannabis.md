@@ -1,5 +1,5 @@
 ---
-title: Cannabinoid Concentration and Endorhiza Microbiome Correlation in Cannabis
+title: Cannabinoid Concentration and Endorhiza cannabinoid-microbiome-correlation-cannabis in Cannabis
 tags:
   - cannabis
   - microbiome
@@ -21,13 +21,13 @@ sources:
 
 The relationship between cannabinoid profiles and the endorhiza microbiome represents one of the most intriguing yet methodologically challenging aspects of cannabis plant-microbe interactions. Winston et al. (2014) reported significant correlations between cannabinoid data and endorhiza community structure.
 
-However, these correlations were confounded by edaphic factors, making it difficult to disentangle direct biochemical effects from indirect soil-mediated pathways. Understanding this relationship is critical for determining causality and directionality in the plant-microbe-cannabinoid system.
+However, these correlations were confounded by [[soil-edaphic-factors-microbial-communities]], making it difficult to disentangle direct biochemical effects from indirect soil-mediated pathways. Understanding this relationship is critical for determining causality and directionality in the plant-microbe-cannabinoid system.
 
 ## Observed Statistical Correlations
 
 In the second experiment, each plant was tested for a variety of cannabinoids including [[maui-wowie]] and [[biodiversity-of-fungi-soil-fungal-communities-agriculture]].
 
-This creates a classic collinearity problem. The observed cannabinoid-microbiome correlation could be driven by any of three pathways. First, cannabinoids could directly influence microbial community assembly.
+This creates a classic collinearity problem. The observed cannabinoid-microbiome correlation could be driven by any of three pathways. First, cannabinoids could directly influence [[edaphic-factors-microbial-community-structure]] assembly.
 
 Second, soil chemistry could independently affect both cannabinoid production and microbiome composition. Third, soil chemistry could affect cannabinoid production, which then affects the microbiome in a cascade.
 
@@ -53,13 +53,13 @@ If cannabinoid pathway activity in roots influences exudate composition, either 
 
 ### Microbial Influence on Cannabinoid Production
 
-Endorhiza microbes could influence cannabinoid production through several mechanisms. [[cannabis-terpene-profiles]] that may be more directly relevant to root-microbe interactions than cannabinoids. Many terpenes have well-documented antimicrobial properties and are produced throughout the plant.
+Endorhiza microbes could influence cannabinoid production through several mechanisms. [[cannabis-terpene-profiles]] that may be more directly relevant to root-microbe interactions than cannabinoids. Many terpenes have well-documented [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] and are produced throughout the plant.
 
-The cannabinoid-microbiome correlation could partially reflect terpene-mediated selection that correlates with cannabinoid profiles due to shared genetic regulation of the overall secondary metabolite machinery.
+The cannabinoid-microbiome correlation could partially reflect terpene-mediated selection that correlates with cannabinoid profiles due to shared genetic regulation of the overall [[fungal-elicitors-enhanced-secondary-metabolite-production]] machinery.
 
 ## Strain Differences and Broader Genotype Effects
 
-The Mantel test compared cannabinoid profiles with community composition across strains. However, [[white-widow-entity]] differ in their entire genotypes, not just cannabinoid profiles.
+The Mantel test compared cannabinoid profiles with [[core-endorhiza-bacterial-community-composition-cannabis]] across strains. However, [[white-widow-entity]] differ in their entire genotypes, not just cannabinoid profiles.
 
 Root morphology, exudate chemistry, immune receptor repertoires, cell wall composition, and numerous other traits that influence microbial colonization all differ between cultivars. The cannabinoid signal may therefore be a proxy for broader genetic differences.
 

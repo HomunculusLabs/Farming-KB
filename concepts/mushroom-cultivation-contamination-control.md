@@ -1,16 +1,13 @@
 ---
-title: mushroom cultivation contamination control
+title: mushroom gottlieb-psilocybin-cultivation-contamination-prevention control
 created: 2026-04-28
-tags: [[mycology, contamination, sterilization, hygiene]
+tags: [mycology, contamination, sterilization, hygiene]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
 type: concept
 ---
-
-# mushroom cultivation contamination control
-
-Contamination is the primary cause of failure in [[mushroom-substrates]] are ideal food sources for
+# mushroom cultivation contamination control Contamination is the primary cause of failure in [[mushroom-substrates]] are ideal food sources for
 competitor organisms. Effective contamination control is not a single step but
 a system of practices spanning the entire cultivation workflow.
 
@@ -31,8 +28,8 @@ a system of practices spanning the entire cultivation workflow.
   mycelium. Common on wet, poorly drained substrates.
 
 ### Bacteria
-- **Bacterial blotch (Pseudomonas tolaasii):** Causes brown, slimy spots on
-  mushroom caps. Associated with high humidity and poor air circulation during
+- **[[growing-gourmet-bacterial-blotch-disease-management]] (Pseudomonas tolaasii):** Causes brown, slimy spots on
+  mushroom caps. Associated with high humidity and poor [[stamets-growing-room-air-circulation-co2-management]] during
   fruiting. Prevented by lowering humidity to 80-85% and increasing FAE.
 - **Wet spot / sour rot:** Anaerobic bacteria that make grain spawn smell sour
   or like rotting apples. Caused by overhydration or insufficient sterilization.
@@ -52,7 +49,7 @@ clothing) into clean work areas.
 During inoculation, the goal is to expose the sterile substrate to the outside
 environment for the shortest possible time. Key practices include:
 
-- Working inside a laminar flow hood (best) or still air box (acceptable)
+- Working inside a [[comparison-laminar-flow-hood-vs-fruiting-chamber]] hood (best) or still air box (acceptable)
 - Flame-sterilizing inoculation tools (scalpels, loops, syringes) between
   every transfer
 - Keeping containers closed except during the moment of inoculation
@@ -93,9 +90,9 @@ spores are released into the grow space.
 ## Contamination Rate Benchmarks
 
 For well-managed small-scale operations, a contamination rate below 5% is
-achievable. Commercial facilities target below 1% in spawn production and below
+achievable. Commercial facilities target below 1% in [[growing-gourmet-sawdust-spawn-production-use]] and below
 3% in substrate blocks. Rates above 10% indicate a systemic problem in workflow,
-sterilization, or environmental control.
+sterilization, or [[eclss-environmental-control-life-support]].
 
 ## Antibiotics and Biological Control
 

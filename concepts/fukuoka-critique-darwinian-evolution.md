@@ -5,7 +5,8 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Critique of Darwinian Evolution
@@ -32,7 +33,7 @@ His reasoning: "To the human observer, the lion appears stronger than the rabbit
 
 Fukuoka argues that Darwin's entire framework is a product of human relativism: "In his myopic relativistic view, man discerns superiority and inferiority and observes the process of natural selection, accepting these as facts of life in the natural world. But these 'facts' are based on standards set arbitrarily by man."
 
-From nature's transcendent perspective, "nothing is in conflict. No distinctions are made, such as between insect pests and beneficial insects. The words fit and unfit, strong and weak, do not exist."
+From nature's transcendent perspective, "nothing is in conflict. No distinctions are made, such as between insect pests and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. The words fit and unfit, strong and weak, do not exist."
 
 ## Consequences for Human Society
 
@@ -61,7 +62,7 @@ He locates the "first cause of cosmic life" in "a higher plane of reality" that 
 
 As part of his evolution thinking, Fukuoka describes his experiments in "reverse cross-fertilization" -- crossing plants backwards to search for ancestral traits. He believed it possible to trace back and revive "missing link" species by returning to ancestral organisms from which differing species and genera arose.
 
-He hypothesized crossing rice with crabgrass or couch grass to find common ancestral roots, or combining proso millet with barnyard millet. His research suggested that glutinous and nonglutinous rice are sister races from the same ancestors, and that upland rice and paddy rice belong to the same species.
+He hypothesized crossing rice with crabgrass or couch grass to find common ancestral roots, or combining proso millet with barnyard millet. His research suggested that glutinous and nonglutinous rice are sister races from the same ancestors, and that [[fukuoka-natural-upland-rice-minor-grains]] and [[integrated-paddy-rice-and-tree-system]] belong to the same species.
 
 ## Nature Has No Intent
 
@@ -94,4 +95,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

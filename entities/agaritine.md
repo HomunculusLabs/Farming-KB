@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Walton K et al. (2019). "Agaritine and its derivatives: review of chemistry, biochemistry, toxicology, and dietary risk assessment." Food and Chemical Toxicology, 132: 110642
-  - Schumacher RW et al. (2006). "The biosynthesis of agaritine in Agaricus bisporus." Journal of Natural Products, 69(6): 942-944
+  - Schumacher RW et al. (2006). "The biosynthesis of agaritine in [[genetic-improvement-agaricus-bisporus-molecular-approaches]]." Journal of Natural Products, 69(6): 942-944
   - EFSA Panel on Contaminants in the Food Chain (2018). "Scientific Opinion on the risks for public health related to the presence of glycoalkaloids in food." EFSA Journal
 ---
 
@@ -32,7 +32,7 @@ Agaritine (IUPAC: γ-glutamyl-4-hydroxymethylphenylhydrazine) is a β-N-(γ-L-gl
 - **Appearance:** Colorless to pale yellow crystalline compound
 - **Solubility:** Soluble in water, methanol, and ethanol; insoluble in nonpolar solvents
 - **Stability:** Highly labile; decomposes rapidly at room temperature and is sensitive to oxidation, heat, and light
-- **Concentration in mushrooms:** Fresh *A. bisporus* contains 200–500 mg/kg (wet weight); levels vary significantly by strain, developmental stage, and storage conditions
+- **Concentration in mushrooms:** Fresh *A. bisporus* contains 200–500 mg/kg (wet weight); levels vary significantly by strain, developmental stage, and [[vegetable-storage-conditions-by-temperature-and-humidity]]
 
 The molecule consists of three structural features critical to its bioactivity: a phenylhydrazine moiety (the putative toxicophore), a γ-glutamyl peptide bond, and a hydroxymethyl substituent on the phenyl ring. The glutamyl moiety serves a dual function: it enhances water solubility for storage within the fungal cell, and it acts as a protective group that prevents premature oxidation of the reactive hydrazine until enzymatic cleavage occurs.
 
@@ -51,7 +51,7 @@ Mammalian metabolism proceeds through several competing routes:
 - **Oxidation:** HMPH is oxidized to 4-(hydroxymethyl)benzenediazonium ion (HMBD), a highly reactive electrophile that forms DNA adducts
 - **Detoxification:** Conjugation with glutathione and subsequent mercapturic acid pathway metabolites provides a competing detoxification route
 
-In humans, the balance between the activation and detoxification pathways is influenced by individual genetic variation in metabolizing enzymes, dietary factors (particularly glutathione precursor availability from cruciferous vegetables), and gut microbiome composition, all of which may contribute to inter-individual differences in susceptibility to any potential adverse effects of dietary agaritine.
+In humans, the balance between the activation and detoxification pathways is influenced by individual genetic variation in metabolizing enzymes, dietary factors (particularly glutathione precursor availability from cruciferous vegetables), and gut microbiome composition, all of which may contribute to inter-individual differences in susceptibility to any potential [[blesching-cannabis-safety-adverse-effects-evidence]] of dietary agaritine.
 
 ## Toxicological Concerns
 
@@ -61,7 +61,7 @@ The potential health hazards of agaritine have been investigated extensively thr
 - **Carcinogenicity studies:** Long-term feeding studies in mice have shown increased incidence of lung adenomas and hemangiosarcomas at high agaritine doses, though results have been inconsistent across laboratories
 - **Dose-response considerations:** Estimated daily dietary intake for regular mushroom consumers ranges from 0.1–2.0 mg, while carcinogenic effects in rodents typically require doses orders of magnitude higher
 - **Cooking effects:** Boiling reduces agaritine content by 20–40% through thermal degradation and leaching into cooking water; frying and microwaving produce variable reductions
-- **Epidemiological evidence:** Large prospective cohort studies, including meta-analyses of mushroom consumption and cancer risk, have found either null or protective associations, possibly due to confounding by the many bioactive compounds in mushrooms (ergothioneine, selenium, β-glucans)
+- **Epidemiological evidence:** Large prospective cohort studies, including meta-analyses of mushroom consumption and cancer risk, have found either null or protective associations, possibly due to confounding by the many [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in mushrooms (ergothioneine, selenium, β-glucans)
 
 The mechanistic pathway from agaritine consumption to potential DNA damage involves multiple enzymatic steps that may vary significantly between species, which partly explains the difficulty in extrapolating rodent carcinogenicity data to human risk assessment. Human enzyme kinetics for the key activation step (γ-glutamyl transpeptidase cleavage) appear to be substantially slower than in mice, further reducing the relevance of high-dose rodent studies to typical human dietary exposure.
 
@@ -73,7 +73,7 @@ Agaritine content varies widely across mushroom species and cultivation conditio
 - ***Agaricus campestris* (meadow mushroom):** Similar levels to A. bisporus
 - ***Agaricus subrufescens* (almond mushroom):** Generally lower agaritine concentrations
 - **Wild *Agaricus* species:** Highly variable; some tropical species contain significantly elevated levels
-- **Other genera:** Trace amounts have been detected in some *Lentinula edodes* (shiitake) and *Pleurotus* (oyster mushroom) samples
+- **Other genera:** Trace amounts have been detected in some *[[staycare-lentinula-edodes-in-bioremediation]]* (shiitake) and *Pleurotus* (oyster mushroom) samples
 
 Storage conditions significantly affect agaritine stability: refrigeration at 4°C slows degradation, while room temperature storage leads to rapid loss through enzymatic and non-enzymatic pathways.
 
@@ -93,7 +93,7 @@ The regulatory status of agaritine reflects the ongoing scientific uncertainty r
 - **Margin of exposure (MOE):** EFSA and other agencies have noted that the MOE between typical dietary exposure and doses showing effects in animal studies is relatively large, suggesting low risk at normal consumption levels
 - **JECFA evaluation:** The Joint FAO/WHO Expert Committee on Food Additives has not established a tolerable daily intake for agaritine due to limitations in the toxicological database
 - **Preparation recommendations:** Cooking (especially boiling) reduces agaritine content, and peeling or removing the gill tissue further lowers exposure; however, no official dietary guidelines advise against mushroom consumption
-- **Comparative risk:** The overall health benefits of mushroom consumption — including immune modulation, anti-inflammatory effects, and potential anti-cancer properties attributed to β-glucans and ergothioneine — may substantially outweigh any theoretical risk from agaritine exposure
+- **Comparative risk:** The overall health benefits of mushroom consumption — including [[cancer-immune-modulation-mechanisms]], anti-inflammatory effects, and potential anti-cancer properties attributed to β-glucans and ergothioneine — may substantially outweigh any theoretical risk from agaritine exposure
 
 Analytical considerations for agaritine research present additional challenges:
 

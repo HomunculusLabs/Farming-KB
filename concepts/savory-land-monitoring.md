@@ -1,18 +1,18 @@
 ---
-title: Land Health Monitoring in Holistic Management
+title: Land Health Monitoring in savory-holistic-management-overview
 created: 2026-04-26
 aliases: [biological monitoring, landscape monitoring, photo points, ecosystem monitoring]
 tags: [monitoring, land-health, ecosystem-assessment, photo-points, biodiversity]
 related: [savory-holistic-management-overview, savory-holistic-decision-making, savory-livestock-grazing-planning]
 type: concept
 sources:
-  - raw/papers/holistic-management-allan-savory.md
+  sources: []
 updated: 2026-04-26
 ---
 
 # Land Health Monitoring
 
-In Holistic Resource Management, monitoring serves a fundamentally different purpose than in conventional resource management. Rather than quantifying already obvious situations or testing whether a system "works," holistic monitoring seeks the **earliest possible warning** of change so that management can be adjusted before significant damage occurs.
+In [[savory-holistic-resource-management-animal-impact]] Management, monitoring serves a fundamentally different purpose than in conventional resource management. Rather than quantifying already obvious situations or testing whether a system "works," holistic monitoring seeks the **earliest possible warning** of change so that management can be adjusted before significant damage occurs.
 
 ## The Purpose of Monitoring
 
@@ -26,9 +26,9 @@ The aim is not to compare one's land to a neighbor's, but to track progress towa
 
 In almost all situations—farming, ranching, forestry, wildlife management, stream management—the earliest measurable indicator of change is **the nature of the soil surface between the plants**.
 
-Soil surface changes precede changes in water cycle, mineral cycle, energy flow, and succession. They provide early warning of impending changes in plant and animal populations. This is especially true for problem insects like grasshoppers and tsetse flies, many species of which breed on bare, exposed soil sites.
+Soil surface changes precede changes in water cycle, [[savory-mineral-cycle-management]], energy flow, and succession. They provide early warning of impending changes in plant and animal populations. This is especially true for problem insects like grasshoppers and tsetse flies, many species of which breed on bare, exposed soil sites.
 
-The chain of causation runs from soil surface condition through all four ecosystem foundation blocks. A capped, bare soil surface leads to poor water infiltration, reduced mineral cycling, lower energy flow, and simplified plant communities—each change reinforcing the others.
+The chain of causation runs from soil surface condition through all four [[savory-ecosystem-foundation-blocks]] blocks. A capped, bare soil surface leads to poor water infiltration, reduced mineral cycling, lower energy flow, and simplified plant communities—each change reinforcing the others.
 
 ## What to Monitor
 
@@ -58,7 +58,7 @@ Monitoring must begin before implementing plans. A baseline assessment of all fo
 
 1. Map the current state of **succession**—community complexity and stability
 2. Assess the **water cycle**—infiltration, runoff, spring and well levels
-3. Evaluate the **mineral cycle**—soil organic matter, litter cover, nutrient cycling indicators
+3. Evaluate the **mineral cycle**—soil organic matter, litter cover, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] indicators
 4. Measure **energy flow**—plant density, leaf area, growth rates, forage volume
 
 At minimum, establish fixed-point photographs of the land as biological planning is implemented, preferably backed by actual measurements.
@@ -67,7 +67,7 @@ At minimum, establish fixed-point photographs of the land as biological planning
 
 When monitoring indicates deviation from the plan, control actions include:
 
-1. **Apply the same tool but differently**: Adjust grazing periods, change stock density, modify timing
+1. **Apply the same tool but differently**: Adjust grazing periods, change [[savory-fencing-economics-and-stock-density-curve]], modify timing
 2. **Apply a different tool**: Switch from rest to animal impact, or from fire to grazing
 3. **Apply a combination of tools**: Use grazing plus animal impact, or technology plus living organisms
 
@@ -101,6 +101,9 @@ By the time species have changed or costs of external inputs have risen to maint
 
 ## See Also
 
-- [[permaculture-designers-manual-grazing-management]]
+- permaculture-designers-manual-grazing-management
 - [[livestock-fencing-guide]]
 - [[glomalin-and-soil-carbon]]
+- [[savory-land-planning-and-grazing-cell-design]]
+- [[savory-holistic-resource-management-biological-monitoring]]
+- [[savory-erosion-and-land-deterioration]]

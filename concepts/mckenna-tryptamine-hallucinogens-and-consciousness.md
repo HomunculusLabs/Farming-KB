@@ -1,5 +1,5 @@
 ---
-title: "McKenna Tryptamine Hallucinogens and Consciousness"
+title: "McKenna mckenna tryptamine hallucinogens and consciousness and Consciousness"
 created: 2026-04-28
 tags: [terence-mckenna, dmt, psilocybin, consciousness, phenomenology, logos, tryptamine, entity-encounter, esalen]
 date: 2026-04-28
@@ -13,10 +13,10 @@ type: concept
 Terence McKenna delivered the lecture "Tryptamine Hallucinogens and
 Consciousness" at the Lilly/Goswami Conference on Consciousness and Quantum
 Physics at Esalen Institute in December 1983. Published in 1992 as part of
-The Archaic Revival, the talk presents McKenna's phenomenological framework
+The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]], the talk presents McKenna's phenomenological framework
 for understanding [[psilocybin]], and ayahuasca
 as a unique family of hallucinogenic compounds distinct from other psychoactive
-substances in their intensity, visual cortex concentration, and apparent
+substances in their intensity, [[mckenna-dmt-visual-cortex-intensity-fourth-dimensional-light-deployment]] concentration, and apparent
 capacity to invoke the Logos.
 
 ## The Tryptamine Family
@@ -44,11 +44,11 @@ conveyed into the body by the senses are restricted."
 
 ## DMT Phenomenology
 
-McKenna described the smoked DMT experience with detailed phenomenological
+McKenna described the smoked [[mckenna-dmt-experience-and-hyperspace]] with detailed phenomenological
 specificity. Onset begins approximately fifteen seconds after inhalation,
 accompanied by an audible phenomenon he characterized as sounding like
 "ripping cellophane," which a friend suggested represents "our radio
-entelechy ripping out of the organic matrix." An ascending tone is heard
+entelechy ripping out of the [[mckenna-radio-entelechy-organic-matrix-ripping]]." An ascending tone is heard
 alongside the familiar shifting geometric surfaces of the hallucinogenic
 modality. At the synaptic site of activity, all available bond sites become
 occupied, and the mode shift occurs over approximately thirty seconds.
@@ -72,7 +72,7 @@ open-hearted."
 
 The entities communicate through what McKenna called a translinguistic
 modality, emitting sounds "like music, like language" that pass "without any
-quantized moment of distinction." Drawing on Philo Judaeus, he described the
+quantized moment of distinction." Drawing on [[mckenna-philo-judaeus-logos-hearing-to-beholding]], he described the
 Logos transitioning "from things heard to things beheld." The experiencer
 encounters "a language of alien meaning that is conveying alien information
 that cannot be Englished."
@@ -104,8 +104,16 @@ which the intent of meaning is actually beheld in three-dimensional space."
 
 ## See Also
 
+- [[language-self-replicating-information-noosphere-mckenna]]
+
+- [[mckenna-perceiving-self-as-primary-datum-consciousness]]
+
 - [[tryptamine-hallucinogens]]
 
 ## See Also
+
+- [[language-self-replicating-information-noosphere-mckenna]]
+
+- [[mckenna-perceiving-self-as-primary-datum-consciousness]]
 
 - [[tryptamine-hallucinogens-and-consciousness]]

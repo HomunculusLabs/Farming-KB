@@ -1,5 +1,5 @@
 ---
-title: Palmer Mushroom Anatomy And Structure
+title: Palmer mushroom-anatomy And Structure
 created: 2026-04-28
 tags: [mushroom-anatomy, mycology, fungal-structure, historical-myology, palmer]
 date: 2026-04-28
@@ -15,7 +15,7 @@ type: concept
 
 Julius Auboineau Palmer's "About Mushrooms" (1894) provides detailed
 descriptions of fungal anatomy from the perspective of a dedicated
-amateur mycologist writing in the late nineteenth century. Palmer
+amateur mycologist writing in the late [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]. Palmer
 deliberately avoided excessive scientific terminology while still
 providing generic names to enable identification. His anatomical
 descriptions emphasize practical recognition features rather than
@@ -50,7 +50,7 @@ stem, meaning they do not attach to it, which is one reason the stem
 leaves the cap so easily when pulled.
 
 The veil or web is an important anatomical feature. In young
-specimens, a membrane (the partial veil) extends from the stem to the
+specimens, a membrane (the [[partial-veil-tropism-protection-before-spore-release]]) extends from the stem to the
 cap margin, protecting the developing gills. As the mushroom expands,
 this veil ruptures, often leaving a ring or annulus on the stem. In
 older specimens, no trace of ring or veil may remain.
@@ -89,7 +89,7 @@ yellow, and white with intermediate shades.
 
 ## Spawn and Subterranean Growth
 
-Palmer described the hidden mycelium or "spawn" as a white, vine-like
+Palmer described the hidden [[mycelium]] or "spawn" as a white, vine-like
 substance running through the soil, dividing and sub-dividing like
 veins on the back of the hand. Just as a grape-vine cutting will
 grow and bear fruit, a portion of spawn transplanted will continue
@@ -117,8 +117,8 @@ common mushroom, whose flesh can be bent without breaking.
 
 - palmer mushroom spoilage and freshness testing
 
-- [[palmer-about-mushrooms-poisonous-species-to-avoid]]
-- [[palmer-about-mushrooms-poisonous-species-to-avoid]]
+- palmer-about-mushrooms-poisonous-species-to-avoid
+- palmer-about-mushrooms-poisonous-species-to-avoid
 
 ## See Also
 

@@ -1,17 +1,18 @@
 ---
-title: Fukuoka Natural Farming in Arid Regions
+title: masanobu-fukuoka-natural-farming-philosophy Farming in Arid Regions
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka Natural Farming in Arid Regions
 
 Updated: 2026-04-18
 
-Fukuoka's approach to arid region farming follows his universal principle: sow a wide mixture of seeds and observe what nature selects. His forty days in Somalia provided the primary testing ground for his desert greening methods.
+Fukuoka's approach to arid region farming follows his universal principle: sow a wide mixture of seeds and observe what nature selects. His [[fukuoka-forty-days-africa]] in Somalia provided the primary testing ground for his [[fukuoka-desert-greening-plant-irrigation]] methods.
 
 ## Understanding Arid Land Potential
 
@@ -36,7 +37,7 @@ Fukuoka observed a predictable succession in arid land recovery:
 
 In arid regions, seed protection is essential. Fukuoka's clay pellet method:
 
-- Seeds are encased in clay pellets that protect them from desiccation and wind
+- Seeds are encased in [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] that protect them from desiccation and wind
 - Pellets are scattered by hand or from aircraft
 - Where water is available, initial watering for 2-3 days initiates germination
 - The clay slowly breaks down, allowing the seedling to emerge
@@ -57,10 +58,10 @@ The practical results in Somalia were encouraging:
 
 - Children who received seed and planted it in sand dunes showed sprouting daikon, onions, and cucumbers within days
 - Vegetable gardens appeared around refugee huts within months
-- Fruit trees grew rapidly -- lemons, persimmons, and pomegranates reached five meters in six months
+- [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] grew rapidly -- lemons, persimmons, and pomegranates reached five meters in six months
 - Acacias and silk trees grew quickly, with roots reaching groundwater
 - Banana and papaya saplings planted beneath the trees grew well
-- The Somali government eventually recognized home garden benefits
+- The Somali government eventually recognized [[cool-climate-home-garden-mollison]] benefits
 - A U.N.-funded project was launched with over a million dollars
 
 ## Challenges

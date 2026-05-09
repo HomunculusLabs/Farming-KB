@@ -14,7 +14,7 @@ type: concept
 
 ## Overview
 
-Mimosa hostilis (syn. Mimosa tenuiflora), known as the **Jurema
+[[entheogen-jurema-mimosa-hostilis-ethnobotany]] (syn. Mimosa tenuiflora), known as the **Jurema
 Tree**, is a sparsely spiny treelet native to the dry caatingas of
 eastern Brazil. It is one of the most significant hallucinogenic plants
 of South America, valued for its root bark which contains high
@@ -77,8 +77,8 @@ travels to another world. The effects are described as equal to the
 effects of the traditional ayahuasca preparations from the Amazon.
 
 The DMT in Mimosa root bark, when combined with the beta-carboline
-MAO inhibitors from Peganum harmala, creates the same pharmacological
-synergy that makes Amazonian ayahuasca effective: the harmala alkaloids
+MAO inhibitors from [[mckenna-food-gods-peganum-harmala-soma]], creates the same pharmacological
+synergy that makes [[harner-amazonian-ayahuasca-preparation-methods]] effective: the [[turner-harmala-alkaloids-preparation-and-dosage]]
 inhibit monoamine oxidase, allowing the orally ingested DMT to reach the
 central nervous system and produce its visionary effects.
 
@@ -103,7 +103,7 @@ of DMT's psychoactive properties and demonstrates sophisticated
 indigenous knowledge of plant pharmacology.
 
 The plant's enduring significance is evidenced by its continued use in
-Brazilian ayahuasca churches such as Santo Daime and Uniao do
+[[metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism]] churches such as [[metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha]] and Uniao do
 Vegetal, and by its widespread adoption in global ethnobotanical and
 psychonaut communities as a reliable source of DMT for ayahuasca analog
 preparations.

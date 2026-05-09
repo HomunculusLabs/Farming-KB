@@ -5,6 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [gardening]
 sources:
+  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Harvesting and Storage in The Mushroom Cultivator
@@ -22,8 +23,8 @@ Harvesting technique and timing dramatically affect future flushes and total yie
 
 The most important factor in harvesting is timing:
 - **Agaricus brunnescens**: Pick before the veil breaks and the stem elongates
-- **Psilocybe cubensis**: Pick when the veil begins to tear or soon thereafter
-- Massive spore release from mature mushrooms can cover the casing layer and inhibit further pinhead development
+- **[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]**: Pick when the veil begins to tear or soon thereafter
+- Massive spore release from mature mushrooms can cover the [[gourmet-medicinal-mushroom-casing-layer-techniques]] and inhibit further pinhead development
 - High spore loads can also cause allergic reactions among workers
 
 ### Harvesting Technique
@@ -58,7 +59,7 @@ The way mushrooms are picked can dramatically affect future flushes. Damage to r
 - Mushrooms on uncased substrates require 90-95% humidity and periodic misting
 
 ### After Button Stage
-- Begin building casing moisture back up to pre-pinning peak
+- Begin building [[mushroom-casing-moisture-management]] back up to pre-pinning peak
 - Daily light to moderate waterings with fine misting nozzle
 - Water 2-4 times per day rather than once -- prevents panning
 - Goal: reach moisture capacity just prior to main harvest
@@ -71,7 +72,7 @@ The way mushrooms are picked can dramatically affect future flushes. Damage to r
 - Never allow casing to dry out -- dried casing causes mushrooms to carry large chunks when picked
 
 ### Disease and Watering
-- Bacterial Blotch results from caps remaining wet for extended periods
+- [[growing-gourmet-bacterial-blotch-disease-management]] results from caps remaining wet for extended periods
 - Agaricus growers dry recently watered caps quickly by lowering humidity
 - Stop watering once mushroom cap reaches adolescence
 - Do not water contaminated areas -- this spreads infection
@@ -94,7 +95,7 @@ If not served within four days, mushrooms can be preserved by drying, freezing, 
 **Equipment options:**
 - Commercially available food dehydrators (disadvantage: trays often too close together, requiring slicing large mushrooms)
 - Custom-built dehydrator: should dry mushrooms in 24-48 hours with warm air no hotter than 110°F
-- Open air drying at room temperature using dehumidifiers and air circulation fans
+- Open air drying at room temperature using dehumidifiers and [[stamets-growing-room-air-circulation-co2-management]] fans
 
 **Important warnings:**
 - "Flash" drying at high temperatures should be avoided -- mushrooms lose much nutritive value and potentially psilocybin content
@@ -112,7 +113,7 @@ If not served within four days, mushrooms can be preserved by drying, freezing, 
 - The ideal method for preserving flavor, nutrition, form, and/or active compounds
 - Process: flash freeze fresh mushrooms, place on heated trays in cooled high-vacuum chamber
 - Frozen water melts from tray heat but immediately transforms to vapor (sublimation)
-- Preserves much of original cell structure -- mushrooms often life-like in appearance
+- Preserves much of original [[plant-cell-structure-and-organelles]] -- mushrooms often life-like in appearance
 - Commercial freeze dryers are prohibitively expensive for home cultivators
 - Mushrooms placed in a frost-free refrigerator are almost as well preserved
 
@@ -132,10 +133,14 @@ No matter the preservation technique, label each container with:
 - Date
 ## See Also
 
+- mushroom-cultivator-harvesting-preserving
+
 - [[natfarm-rainwater-harvesting-storage]]
 
-- [[cuthill-mushroom-growing-seasons-and-temperature]]
-- [[cuthill-mushroom-bed-preparation-and-manure]]
-- [[stamets-harvesting-drying-and-storage]] -- Stamets' harvesting chapter
-- [[mushroom-harvesting-storage-methods]] -- storage methods overview
+- cuthill-mushroom-growing-seasons-and-temperature
+- cuthill-mushroom-bed-preparation-and-manure
+- stamets-harvesting-drying-and-storage -- Stamets' harvesting chapter
+- mushroom-harvesting-storage-methods -- storage methods overview
 - [[mushroom-harvesting-potency]] -- potency considerations
+- [[agaricus-brunnescens]]
+- [[psilocybe-cubensis]]

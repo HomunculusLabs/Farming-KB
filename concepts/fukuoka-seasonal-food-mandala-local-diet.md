@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Seasonal Food Mandala and Local Diet Philosophy
+title: Fukuoka fukuoka seasonal food mandala local diet and Local fukuoka-natural-diet-philosophy-spiritual-health
 tags: [fukuoka, natural-diet, food-philosophy, seasonal-eating, macrobiotics, japan]
 date: 2026-04-28
 updated: 2026-04-28
@@ -17,7 +17,7 @@ Eastern yin-yang dietary systems.
 Fukuoka drew two mandala diagrams. The first arranged foods in groups according to what people can most
 easily obtain. The second showed foods as available during the various months of the year. Together
 they demonstrated that the sources of food on earth are nearly limitless. If people acquire food
-through "no-mind," even without knowledge of yin-yang theory, they can attain a perfect natural diet.
+through "no-mind," even without knowledge of yin-yang theory, they can attain a perfect [[fukuoka-natural-diet-as-foundation]].
 
 The fishermen and farmers in a Japanese village follow nature's prescription by selecting seasonal
 foods from their immediate area without any particular interest in the logic of the diagrams. They know
@@ -112,4 +112,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

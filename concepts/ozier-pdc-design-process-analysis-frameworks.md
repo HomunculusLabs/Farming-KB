@@ -1,5 +1,5 @@
 ---
-title: Permaculture Design Process and Analysis Frameworks
+title: bill-mollison-permaculture-a-designers-manual-permaculture-design-principles Process and Analysis Frameworks
 created: 2026-04-28
 tags:
   - permaculture-design
@@ -20,7 +20,7 @@ type: concept
 
 The William Ozier Williams PDC course presents a comprehensive design
 process for permaculture projects, structured as a systematic progression
-from broad-scale analysis through detailed site assessment to final
+from broad-scale analysis through detailed [[mollison-designers-design-client-interview-and-site-assessment-process]] to final
 design decisions. The process emphasises that "before one can make ANY
 design decisions you must first analyse the site." This framework builds
 on established permaculture tools including [[ozier-pdc-sector-analysis-for-site-design]].
@@ -55,7 +55,7 @@ principles include:
   head and learn to think like them.
 
 The interview should cover: permaculture understanding level, willingness
-to progress through ecological succession, health needs, dietary needs,
+to progress through [[holmgren-ecological-succession-and-pulsing]], health needs, dietary needs,
 physical limitations, budget and timeframe, vision for the site, desired
 level of hands-on involvement, number of people served, and social
 habits.
@@ -75,7 +75,7 @@ making noise, and being quiet.
 
 ## Sector Analysis
 
-[[pdc-zone-analysis-guide]]
+pdc-zone-analysis-guide
 - [[ozier-pdc-plant-guilds-and-polyculture-design]]
 - [[ozier-pdc-hydro-cycle-and-watershed-management]]
 - [[ozier-pdc-forest-succession-and-food-forests]]

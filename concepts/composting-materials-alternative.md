@@ -43,10 +43,10 @@ Leaves are slow to rot because they contain lignin. Expect to wait at least one 
 
 ## Sheet Composting
 
-For gardeners who lack time for proper composting but refuse to throw away organic matter. This technique involves spreading a thin layer of organic matter on the soil between rows of vegetables or on vacant areas, allowing it to rot down in place.
+For gardeners who lack time for proper composting but refuse to throw away [[hamilton-composting-and-organic-matter-management]]. This technique involves spreading a thin layer of organic matter on the soil between rows of vegetables or on vacant areas, allowing it to rot down in place.
 
 - Useful only in productive areas where aesthetics are not important
-- Works well on paths between rows or as mulch around fruit trees
+- Works well on paths between rows or as mulch around [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 - Weeds must be wilted beyond recovery before spreading (to prevent re-rooting)
 - Ensure weeds are not about to shed seeds
 - Grass cuttings are ideal but watch for annual meadow grass seeds
@@ -59,6 +59,7 @@ For gardeners who lack time for proper composting but refuse to throw away organ
 - [[compost-container-types]] — container designs for proper composting
 - [[animal-manure-guide]] — animal manures as compost material and fertilizer
 - [[soil-conditioners-guide]] — alternative soil conditioners including leaf mold and green compost
+
 ## Practical Considerations
 
 Successful implementation of Composting Materials — Alternative Sources requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: Four Groups of Neurotropic Fungi and Their Global Distribution
+title: Four Groups of challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification and Their guzman-global-distribution-patterns-neurotropic-fungi
 created: 2026-04-28
 tags: [neurotropic-fungi, psilocybe, gymnopilus, panaeolus, amanita, ergot, global-distribution, ethnomycology, guzman]
 date: 2026-04-28
@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-The 1998 comprehensive survey by Guzman, Allen, and Gartz catalogued **216 known species of neurotropic fungi** worldwide and organized them into four distinct chemical and cultural groups. This classification remains the most authoritative global accounting of hallucinogenic mushrooms and related fungi, drawing on more than 450 bibliographic references. The work revealed striking patterns in the geographic distribution of these species, with the highest diversity concentrated in subtropical humid forests near the Austral hemisphere.
+The 1998 comprehensive survey by Guzman, Allen, and Gartz catalogued **216 known species of neurotropic fungi** worldwide and organized them into four distinct chemical and cultural groups. This classification remains the most authoritative global accounting of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] and related fungi, drawing on more than 450 bibliographic references. The work revealed striking patterns in the geographic distribution of these species, with the highest diversity concentrated in subtropical humid forests near the [[biogeography-austral-hemisphere-fungi]].
 
 ## Group 1: Psilocybin and Related Indole Alkaloids
 
@@ -29,7 +29,7 @@ This is by far the largest group, containing species that produce [[psilocin]], 
 | Pluteus | 6 | Wood-inhabiting on dead hardwood |
 | Inocybe | 6 | Mycorrhizal; some lack chemical confirmation |
 | Conocybe | 4 | Small, fragile, easily overlooked |
-| Panaeolina | 4 | Including [[amanita]] that produce **ibotenic acid** (a glutamate receptor agonist) and its decarboxylation product **muscimol** (a GABA_A receptor agonist). These compounds have an entirely different pharmacological profile from the psilocybin group:
+| Panaeolina | 4 | Including [[amanita]] that produce **[[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]]** (a glutamate receptor agonist) and its decarboxylation product **muscimol** (a GABA_A receptor agonist). These compounds have an entirely different pharmacological profile from the psilocybin group:
 
 - **[[amanita-pantherina]]**: the panther cap; contains ibotenic acid based on analysis by Hatfield (1979)
 - **[[amanita-muscaria-entity]] often involved the practice of **eurphorization** (drinking the urine of someone who had consumed the mushroom), as the kidneys excrete the active muscimol while filtering out much of the toxic ibotenic acid and other unpleasant compounds.
@@ -38,7 +38,7 @@ This is by far the largest group, containing species that produce [[psilocin]], 
 
 This group includes species that produce **ergot alkaloids** (ergolines), a chemically distinct class of neuroactive compounds:
 
-- **[[lysergic-acid-diethylamide]]) places this group at the foundation of modern psychedelic research.
+- **[[lysergic-acid-diethylamide]]) places this group at the foundation of modern [[mckenna-suppression-psychedelic-research-lsd-therapy]].
 
 ## Group 4: Sacred Fungi Without Confirmed Chemistry
 
@@ -70,7 +70,7 @@ A significant finding of the survey is the number of species reported as neurotr
 
 The survey serves as a caution against accepting ethnobotanical reports of psychoactivity without chemical confirmation. The case of [[distribution-of-neurotropic-fungi]]
 - [[entheogenic-fungi-history]]
-- [[european-and-north-american-neurotropic-fungi-distribution]]
+- european-and-north-american-neurotropic-fungi-distribution
 ## Practical Considerations
 
 Successful implementation of Four Groups of Neurotropic Fungi and Their Global Distribution requires attention to
@@ -90,3 +90,7 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[coprophilous-fungi-taxonomic-groups-distribution]]
+- [[elaphomyces-cordyceps-ceremonial-complex-oaxaca-guzman-1998]]

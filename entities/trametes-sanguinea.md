@@ -52,7 +52,7 @@ as a synonym or variety of *T. cinnabarina*, but contemporary molecular work sup
 
 ## Chemical Constituents and Bioactivity
 
-*T. sanguinea* has attracted research interest for its diverse secondary metabolites. Key compounds include:
+*T. sanguinea* has attracted research interest for its diverse [[antifungal-secondary-metabolites-coprophilous-fungi]]. Key compounds include:
 
 - **Triterpenoids**: Sanguine-type triterpenes with demonstrated anti-inflammatory and cytotoxic activity.
 - **Polysaccharides**: Water-soluble β-glucans with immunomodulatory properties, stimulating macrophage activity and
@@ -61,7 +61,7 @@ as a synonym or variety of *T. cinnabarina*, but contemporary molecular work sup
 - **Sterols**: Ergosterol and ergosterol peroxide with documented anti-tumor activity in cell line studies.
 
 Extracts have shown antibacterial activity against *Staphylococcus aureus* and *Escherichia coli* in disc diffusion assays,
-as well as moderate antifungal activity against *Candida albicans*.
+as well as moderate antifungal activity against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*.
 
 ## Ethnomedicinal Use
 
@@ -73,7 +73,7 @@ Indigenous communities in Southeast Asia occasionally incorporate it into folk r
 ## Distribution
 
 Widely distributed in tropical and subtropical regions: southern China, India, Thailand, Malaysia, Indonesia, the
-Philippines, sub-Saharan Africa (Nigeria, Cameroon, Tanzania), Central America, and northern South America. Less common
+Philippines, sub-Saharan Africa (Nigeria, Cameroon, Tanzania), [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and northern South America. Less common
 in temperate regions, where it occasionally appears in Mediterranean climates during warm, wet seasons. It fruits
 primarily on fallen logs and standing dead timber in humid forests.
 
@@ -82,12 +82,12 @@ primarily on fallen logs and standing dead timber in humid forests.
 *T. sanguinea* can be cultivated on hardwood sawdust substrates (oak, beech, or mixed hardwood) supplemented with
 wheat bran (10–20%). Optimal colonization temperature is 25–28°C; fruiting is induced by fresh air exchange and high
 humidity (85–95%). Though not commercially cultivated at scale, it has been successfully grown experimentally for
-biomass production of bioactive polysaccharides. Its mycelium runs vigorously, making it a candidate for mycoremediation
+[[dighton-fungal-biomass-production-aquatic-ecosystems]] of bioactive polysaccharides. Its mycelium runs vigorously, making it a candidate for mycoremediation
 of lignin-rich waste substrates.
 
 ## Ecological Role
 
-As a white-rot fungus, *T. sanguinea* secretes ligninolytic enzymes — primarily lignin peroxidase (LiP), manganese
+As a white-rot fungus, *T. sanguinea* secretes [[singh-ligninolytic-enzymes-fungal-bioremediation]] — primarily lignin peroxidase (LiP), manganese
 peroxidase (MnP), and laccase — that selectively degrade lignin while leaving cellulose largely intact. This process
 recycles carbon locked in woody biomass and improves soil structure in forest ecosystems. The enzyme profile has
 attracted attention from the pulp and paper industry as a potential biological alternative to chemical bleaching
@@ -111,7 +111,7 @@ local populations of *T. sanguinea* and other wood-decay fungi face pressure fro
 
 ## Related Species
 
-- *Trametes versicolor* — Turkey tail; most studied medicinal polypore, similar ecology but distinctly bicolored zones.
+- *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]* — Turkey tail; most studied medicinal polypore, similar ecology but distinctly bicolored zones.
 - *Trametes hirsuta* — Hairy bracket; white pore surface, common on hardwood.
 - *Trametes cinnabarina* — Cinnabar polypore; similar pore coloration but smaller and more delicate fruiting body.
 - *Coriolopsis sanguinea* — A separate genus with similar red pore surface; distinguished by dimitic hyphal system.

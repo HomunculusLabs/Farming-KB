@@ -10,7 +10,7 @@ sources:
 
 # Cannabis and Libido Research
 
-**Source:** Uwe Blesching, The Cannabis Health Index (2017)
+**Source:** Uwe Blesching, The [[blesching-cannabis-health-index-autoimmune-conditions]] (2017)
 
 **Last Updated:** 2026-04-18
 
@@ -32,7 +32,7 @@ Neurochemistry of sexual arousal and cannabis share similarities: both dilate pu
 - Anti-anxiety properties ease performance-related tension
 - Males report harder erections; females report increased lubrication and clitoral swelling
 - Too high a dose: deepens anxiety, reduces sensations
-- Subjective therapeutic window; begin with low to medium doses
+- [[cannabis-subjective-therapeutic-window-dosing]] window; begin with low to medium doses
 
 ## Study Summary
 
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

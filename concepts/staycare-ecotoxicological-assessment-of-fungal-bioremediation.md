@@ -1,5 +1,5 @@
 ---
-title: "Ecotoxicological Assessment of Fungal Bioremediation"
+title: "staycare ecotoxicological assessment of fungal bioremediation of staycare-composting-as-a-fungal-bioremediation-strategy"
 created: 2026-04-28
 tags: [toxicity-assessment, bioremediation-monitoring, microtox, bioassays, environmental-risk]
 date: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 # Ecotoxicological Assessment of [[phanerochaete-chrysosporium]] has been shown to produce intermediates
 that are toxic to Bacillus megaterium at approximately 6 weeks of
 treatment, despite overall PCP concentration decreasing. This
-demonstrates that chemical analysis of parent compound concentration
+demonstrates that [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of parent compound concentration
 alone is insufficient to assess treatment effectiveness.
 
 ## Toxicity Assessment Methods
@@ -33,7 +33,7 @@ the overall toxicity status of treated environments:
   bacterial growth rates in the presence of treated samples, using
   organisms such as Bacillus megaterium or Pseudomonas putida.
   These tests are particularly relevant for assessing whether
-  fungal treatment products are toxic to indigenous soil bacteria
+  [[singh-biopile-fungal-treatment-contaminated-soil]] products are toxic to indigenous soil bacteria
   that are needed for complete ecosystem recovery.
 
 ### Terrestrial Organism Tests
@@ -42,7 +42,7 @@ the overall toxicity status of treated environments:
   terrestris) are standard test organisms for soil ecotoxicology.
   Mortality, growth rate, and reproductive endpoints provide
   measures of soil toxicity relevant to higher trophic levels.
-- **Plant bioassays**: Seed germination tests and root elongation
+- **Plant bioassays**: [[cannabis-seed-germination-methods]] tests and root elongation
   assays using sensitive plant species (e.g., lettuce, cress, or
   locally relevant species) provide rapid assessment of phytotoxic
   effects. These tests are particularly important for evaluating
@@ -52,7 +52,7 @@ the overall toxicity status of treated environments:
 
 - **Mutagenicity assays**: Tests such as the Ames Salmonella
   reverse mutation assay detect mutagenic potential of degradation
-  intermediates. This is critical because some fungal transformation
+  intermediates. This is critical because some [[singh-fungal-transformation-metals-metalloids]]
   products may be genotoxic even when they are not acutely toxic.
 - **Chromosomal aberration tests**: These assess the potential for
   degradation products to cause DNA damage in higher organisms,

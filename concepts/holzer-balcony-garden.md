@@ -21,7 +21,7 @@ Place two concrete troughs with a combined capacity of around 1.5 cubic metres o
 
 Insert a hardwood trunk through the hole in the trough. The trunk should be narrow enough to fit through the hole while still leaving space for water to trickle through. As long as it fits the available space, it can be as tall as desired. This trunk serves as:
 - A climbing aid for grapes, kiwi fruit, courgettes, cucumbers, pumpkins, beans, peas, roses
-- A substrate for culinary mushroom cultivation (drill holes and inoculate with mushroom mycelium)
+- A substrate for culinary [[accessible-mushroom-cultivation-for-disabilities]] (drill holes and inoculate with mushroom mycelium)
 
 ### Drainage
 
@@ -49,7 +49,7 @@ The more different levels you use, the more green material you can fit in a smal
 
 - Climbing plants wrapped around the trunk: grapes, kiwi, beans, peas, courgettes, cucumbers
 - Vegetables planted or sown nearby: lettuce, radishes, peas
-- Medicinal and culinary herbs
+- Medicinal and [[holzer-medicinal-and-culinary-herbs-compendium]]
 - Mushrooms cultivated in the trunk
 
 ### Liquid Fertiliser

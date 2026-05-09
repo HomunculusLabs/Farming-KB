@@ -1,5 +1,5 @@
 ---
-title: Mexico as Center of Neurotropic Fungal Diversity
+title: Mexico as mexico-center-neurotropic-fungal-biodiversity
 created: 2026-04-28
 tags:
   - mexico
@@ -39,7 +39,7 @@ Otomie continue to use neurotropic fungi in divination and healing rituals.
 ## Species of Particular Cultural Importance
 
 Several Mexican Psilocybe species are deeply intertwined with indigenous
-practices. Psilocybe mexicana, the species from which Hofmann first
+practices. [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]], the species from which Hofmann first
 isolated psilocybin in 1958, is used by the Mazatec. P. caerulescens is
 known as "derrumbes" (landslides) and "piule" by the Nahua of Oaxaca. P.
 hoogshagenii, P. muliercula ("the little woman mushroom"), and P.
@@ -50,10 +50,10 @@ Oaxaca. P. zapotecorum is used by the Zapotec and Mixe peoples.
 
 Mexico occupies a critical biogeographic position as a convergence zone
 where both northern (Nearctic) and southern (Neotropical) mycobiotas meet.
-Psilocybe caerulipes, primarily a species of eastern North America, reaches
+Psilocybe caerulipes, primarily a species of [[polypore-fungi-eastern-north-america]] America, reaches
 its southern limit in northeastern Mexico via mesophytic forests associated
 with Fagus (beech). Conversely, P. yungensis and P. subyungensis, primarily
-South American species, reach their northern limit in Mexico via mesophytic
+[[chiric-caspi-brunfelsia-south-american-hallucinogen]] species, reach their northern limit in Mexico via mesophytic
 forests associated with Alnus (alder). This convergence makes Mexico
 exceptionally diverse for the genus.
 
@@ -84,14 +84,14 @@ A unique cultural phenomenon documented in Mexico is the church dedicated
 to the worship of sacred mushrooms, "Nuestro Senor del Honguito" (Our Lord
 of the Little Mushroom), in Chignahuapan, Puebla. This represents one of
 the few instances of formalized religious veneration of fungi, blending
-indigenous mushroom traditions with Catholic iconography.
+indigenous [[sacred-mushroom-traditions-in-mexico]] with Catholic iconography.
 
 ## Contributions to Modern Mycology
 
-Mexico's role in the modern scientific study of neurotropic fungi cannot be
+Mexico's role in the modern [[roger-heim-scientific-study-psilocybin]] of neurotropic fungi cannot be
 overstated. The Wasson expeditions of the 1950s, the work of Roger Heim at
 the Museum National d'Histoire Naturelle in Paris, and the extensive
-taxonomic contributions of [[mexico-global-center-neurotropic-fungal-diversity]]
+taxonomic contributions of mexico-global-center-neurotropic-fungal-diversity
 
 - [[ethnomycology-cultural-significance-sacred-fungi]]
 - [[worldwide-distribution-psilocybin-mushrooms]]

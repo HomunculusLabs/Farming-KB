@@ -1,5 +1,5 @@
 ---
-title: Molecular PCR Methods for Fungal Identification and Monitoring
+title: Molecular PCR Methods for pcr methods fungal identification monitoring and Monitoring
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Molecular PCR Methods for Fungal Identification and Monitoring
 
-Polymerase chain reaction (PCR) based methods have revolutionized fungal taxonomy, enabling discrimination among morphologically indistinct taxa and assessment of genetic diversity in natural populations. These techniques are especially valuable for fungi with few morphological markers.
+Polymerase chain reaction (PCR) based methods have revolutionized [[molecular-methods-fungal-taxonomy-and-diversity]], enabling discrimination among morphologically indistinct taxa and assessment of genetic diversity in natural populations. These techniques are especially valuable for fungi with few morphological markers.
 
 ## Arbitrarily Primed PCR (apPCR / RAPD)
 
@@ -27,7 +27,7 @@ Short oligonucleotide primers (10-20 bp) anneal to complementary DNA sequences. 
 ### Applications
 - **Taxonomic discrimination:** Colletotrichum species that lost infectivity and sporulation were identified as 5 distinct species
 - **Basidiomycete identification:** Boletus, Cantharellus, Cortinarius, Inocybe, Stropharia, Ganoderma all distinguished by apPCR patterns
-- **Genetic diversity assessment:** Population-level variation within species
+- **Genetic [[ingham-soil-food-web-diversity-assessment-dna-molecular-methods]]:** Population-level variation within species
 
 ### Reproducibility Issues
 Major source of nonreproducibility: **thermocycler inaccuracy**
@@ -103,4 +103,4 @@ Uses two primers instead of one:
 - [[dna-barcoding-fungal-identification]]
 - [[ribosomal-rna-sequencing-yeast-identification]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[fungal-culture-media-formulas-applications]]
+- fungal-culture-media-formulas-applications

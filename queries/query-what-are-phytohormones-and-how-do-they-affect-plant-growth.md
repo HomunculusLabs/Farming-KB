@@ -1,42 +1,4 @@
 ---
-title: What Are Phytohormones and How Do They Affect Plant Growth?
-created: 2026-04-28
-tags:
-  - phytohormones
-  - plant-biology
-  - auxin
-  - gibberellin
-  - cytokinin
-  - ethylene
-  - abscisic-acid
-  - plant-growth
-  - plant-science
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Plant Physiology and Development (Taiz and Zeiger, 6th Edition)
-  - Phytohormones: A Window to Metabolism, Signaling and Adaptation (Various)
-  - Raven Biology of Plants (Evert and Eichhorn, 8th Edition)
-  - Permaculture and plant management references (Multiple authors)
-type: query
----
-
-# What Are Phytohormones and How Do They Affect Plant Growth?
-
-## Quick Answer
-
-Phytohormones ([[cannabis-sativa-morphology-and-plant-architecture]], flowering, fruiting, rooting, and [[gravitropism]])
-- **Apical dominance:** The auxin-rich apical bud suppresses lateral bud growth — this is why pinching the growing tip ([[comparison-cannabis-clone-rooting-and-transplanting-vs-seed-germination]]:** Gibberellins produced by the embryo signal the seed to break dormancy and begin germination by stimulating enzymes that break down stored starches
-- **Bolting and flowering:** GAs trigger the transition from vegetative to reproductive growth in long-day plants and biennials
-- **Fruit development:** Applied to seedless grapes to increase berry size; used in malting barley to promote uniform germination
-
-**How growers use it:**
-- **Gibberellic acid (GA₃) spray:** Commercially available as a foliar spray to increase fruit size, promote elongation in ornamental plants, and break seed dormancy
-- **Controlling plant height:** Anti-gibberellin growth retardants (paclobutrazol, chlormequat) are used to produce compact, stocky plants — common in greenhouse flower production and cannabis to control height
-- **Breaking dormancy:** GA₃ treatment can replace cold stratification for seeds that require a chill period
-
-**Key fact:** There are over 130 known gibberellins, but only a handful (GA₁, GA₃, GA₄, GA₇) are biologically active in most plants. The rest are precursors or deactivated metabolites.
----
 
 ### 3. Cytokinins
 
@@ -47,7 +9,7 @@ Phytohormones ([[cannabis-sativa-morphology-and-plant-architecture]], flowering,
 - **Nutrient mobilization:** Cytokinins act as "stay-green" signals, directing nutrients toward young, actively growing tissue
 
 **How growers use it:**
-- **Tissue culture:** Cytokinins (especially benzylaminopurine — BAP) are essential components of tissue culture media to promote shoot multiplication
+- **comparison-seed-saving-techniques-vs-tissue-culture-cloning:** Cytokinins (especially benzylaminopurine — BAP) are essential components of tissue culture media to promote shoot multiplication
 - **Delaying leaf drop:** Cytinin-based products extend the productive life of leaves in ornamental and crop production
 - **Promoting lateral branching:** Applied cytokinins can break apical dominance (similar to topping) by shifting the auxin:cytokinin balance
 
@@ -61,7 +23,7 @@ Phytohormones ([[cannabis-sativa-morphology-and-plant-architecture]], flowering,
 - **Fruit ripening:** Ethylene is the "ripening hormone" — it triggers the conversion of starch to sugar, softening of cell walls, and production of aroma compounds in climacteric fruits
 - **Leaf and flower abscission:** Ethylene promotes the formation of the abscission layer that causes leaves, flowers, and fruit to drop
 - **Senescence:** Accelerates aging in plant tissues
-- **Stress response:** Produced in response to flooding (waterlogging), wounding, pathogen attack, and ozone exposure
+- **[[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]]:** Produced in response to flooding (waterlogging), wounding, pathogen attack, and ozone exposure
 - **Seed germination:** In some species, ethylene breaks seed dormancy
 
 **How growers use it:**
@@ -80,7 +42,7 @@ Phytohormones ([[cannabis-sativa-morphology-and-plant-architecture]], flowering,
 - **Drought response:** ABA is the "stress hormone" — it triggers stomatal closure to reduce water loss during drought conditions
 - **Seed dormancy:** ABA maintains seed dormancy and prevents premature germination (counteracts gibberellins)
 - **Bud dormancy:** Induces winter dormancy in perennial plants and buds
-- **Root growth promotion:** Under moderate stress, ABA shifts resources toward root growth at the expense of shoot growth
+- **Root [[brassinosteroid-growth-promotion-psilocybe-cubensis]]:** Under moderate stress, ABA shifts resources toward root growth at the expense of shoot growth
 
 **How growers use it:**
 - **Stress management:** Understanding ABA helps explain why overwatered plants with poor root systems wilt despite adequate moisture (ABA signal imbalance)
@@ -93,17 +55,20 @@ Phytohormones ([[cannabis-sativa-morphology-and-plant-architecture]], flowering,
 ## Newer Phytohormone Classes
 
 ### Brassinosteroids
-- Steroid hormones essential for cell elongation, cell division, and vascular differentiation
+- Steroid hormones essential for [[brassinosteroid-physiological-mechanisms-cell-elongation-division]], cell division, and vascular differentiation
 - Involved in stress responses (drought, cold, salinity)
 - Deficiency causes dwarfism; excess causes elongation and sterility
-- Commercial brassinosteroid sprays (epibrassinolide) improve stress tolerance and yield in crops
+- Commercial brassinosteroid sprays (epibrassinolide) improve [[fungal-lichen-stress-tolerance-and-poikilohydry]] and yield in crops
 
 ### Jasmonates (Jasmonic Acid)
 - Key mediators of defense against herbivores and necrotrophic pathogens
 - Triggered by wounding and insect damage
-- Promote the production of defensive secondary metabolites (alkaloids, terpenes, phenolics)
+- Promote the production of defensive [[antifungal-secondary-metabolites-coprophilous-fungi]] (alkaloids, terpenes, phenolics)
 - In cannabis, jasmonate signaling is involved in trichome and cannabinoid production
+
 ## See Also
+
+- [[query-what-are-pgpr-and-how-do-they-promote-plant-growth]]
 
 - [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]]
 

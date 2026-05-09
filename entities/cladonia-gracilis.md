@@ -10,7 +10,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Ahti T. (2000). "Cladoniaceae." Flora Neotropica Monograph 78.
-  - Brodo IM, Sharnoff SD, Sharnoff S. (2001). Lichens of North America. Yale University Press.
+  - Brodo IM, Sharnoff SD, Sharnoff S. (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
   - Purvis OW, Coppins BJ, Hawksworth DL, et al. (1992). The Lichen Flora of Great Britain and Ireland. Natural History Museum.
   - Wirth V, Hauck M, Schultz M. (2013). Die Flechten Deutschlands. Eugen Ulmer.
 ---
@@ -21,7 +21,7 @@ Cladonia gracilis is a widespread fruticose lichen in the family Cladoniaceae, c
 
 The species is circumpolar in distribution, occurring across boreal and arctic regions of North America, Europe, and Asia. It is a dominant component of tundra and boreal ground lichen communities alongside other Cladonia species.
 
-C. gracilis is an important winter forage lichen for caribou and reindeer across its range. It is chemically diverse, producing both usnic acid and fumarprotocetraric acid as secondary metabolites.
+C. gracilis is an important winter forage lichen for caribou and reindeer across its range. It is chemically diverse, producing both usnic acid and fumarprotocetraric acid as [[antifungal-secondary-metabolites-coprophilous-fungi]].
 
 ## Taxonomy and Morphology
 
@@ -45,9 +45,9 @@ Cladonia gracilis has a circumpolar distribution across the Northern Hemisphere.
 
 In North America, its range extends from Alaska and arctic Canada south to the northern Great Lakes region and New England. In Europe, it is found from Scandinavia and the British Isles south to the Alps and Carpathians.
 
-The species is also reported from montane and subantarctic regions of the Southern Hemisphere, though these records may represent distinct taxa within the C. gracilis complex.
+The species is also reported from montane and subantarctic regions of the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], though these records may represent distinct taxa within the C. gracilis complex.
 
-C. gracilis colonizes acidic substrates including soil, humus, decaying wood, and mosses over rock. It is common in open boreal forests, tundra heath, and subalpine meadows.
+C. gracilis colonizes acidic substrates including soil, humus, decaying wood, and mosses over rock. It is common in open [[fungal-diversity-boreal-forests-taiga]], tundra heath, and subalpine meadows.
 
 It shows a preference for well-drained, exposed microsites and is tolerant of moderate desiccation. The species is often found in mixed lichen mats with C. rangiferina, C. stellaris, and C. arbuscula.
 
@@ -61,7 +61,7 @@ Additional secondary compounds reported include atranorin, homosekikaic acid, an
 
 The species is an important winter food source for caribou (Rangifer tarandus) and reindeer across boreal and arctic regions. Its nutritional value is comparable to other Cladonia forage lichens, with high carbohydrate content but low protein.
 
-C. gracilis also provides microhabitat for tardigrades, nematodes, and various arthropods within its thallus. It contributes to soil stabilization and nitrogen cycling in tundra ecosystems through its role in biological soil crust communities.
+C. gracilis also provides microhabitat for tardigrades, nematodes, and various arthropods within its thallus. It contributes to soil stabilization and [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] in tundra ecosystems through its role in biological soil crust communities.
 
 ## Ethnobotany and Uses
 
@@ -97,7 +97,7 @@ Chemotype variation has biogeographic correlates, with fumarprotocetraric acid c
 
 Cladonia gracilis has not been formally assessed by the IUCN but is generally considered secure across most of its circumpolar range. However, local populations face threats from habitat disturbance and air pollution.
 
-In heavily industrialized regions of Europe, C. gracilis has experienced significant decline due to sulfur dioxide and nitrogen deposition from fossil fuel combustion. The species is moderately sensitive to acidification and shows reduced growth rates near pollution sources.
+In heavily industrialized regions of Europe, C. gracilis has experienced significant decline due to sulfur dioxide and [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] from fossil fuel combustion. The species is moderately sensitive to acidification and shows reduced growth rates near pollution sources.
 
 Climate change poses a long-term threat through permafrost thaw, shrub encroachment into tundra lichen mats, and increased wildfire frequency in boreal forests. These changes reduce available habitat and fragment existing lichen communities.
 

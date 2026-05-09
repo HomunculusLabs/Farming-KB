@@ -1,5 +1,5 @@
 ---
-title: Bacterial vs Fungal Compost Teas
+title: comparison-soil-food-web-vs-bacterial-vs-fungal-soil Compost Teas
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Bacterial vs Fungal Compost Teas
 
-Elaine Ingham distinguishes between bacterial-dominant and fungal-dominant compost teas based on which organism group predominates. The choice between them depends on the plant being grown, the disease pressure present, and the current soil biology. It is always a question of dominance — even fungal tea contains bacteria, but fungi must reach a minimum threshold to achieve disease suppression.
+Elaine Ingham distinguishes between bacterial-dominant and fungal-dominant compost teas based on which organism group predominates. The choice between them depends on the plant being grown, the disease pressure present, and the current soil biology. It is always a question of dominance — even fungal tea contains bacteria, but fungi must reach a minimum threshold to achieve [[aact-disease-suppression-mechanisms-ingham]].
 
 ## Bacterial Dominance
 
@@ -17,7 +17,7 @@ Bacterial teas are appropriate when:
 - Growing early successional plants (weeds, brassicas, lettuce)
 - Combating specific diseases like black spot on roses
 - Soil already has adequate fungal biomass
-- Rapid nutrient cycling of simple sugars is needed
+- Rapid [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] of simple sugars is needed
 
 Simple sugars (molasses, honey) are bacterial foods. Honey specifically helps bacteria, not fungi. As bacteria grow using excess simple carbon, they sequester nitrogen, phosphorus, sulfur and other nutrients, outcompeting other organisms for these resources.
 
@@ -45,7 +45,7 @@ Getting adequate fungal biomass is the difficult challenge in compost tea produc
 3. Fungi must survive in the tea
 4. Fungi must arrive intact on leaf surfaces or soil
 
-Any time dissolved oxygen falls below 5.5–6 ppm, beneficial fungi are lost. This threshold has been demonstrated repeatedly in testing. Good-guy fungi do not tolerate oxygen depletion in tea, compost, or soil.
+Any time [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] falls below 5.5–6 ppm, beneficial fungi are lost. This threshold has been demonstrated repeatedly in testing. Good-guy fungi do not tolerate oxygen depletion in tea, compost, or soil.
 
 ### Fungal Tea Recipe
 
@@ -70,7 +70,7 @@ Molasses at low amounts helps bacteria, but at 5% concentration it helps fungi s
 ## The Fungal:Bacterial Ratio
 
 The correct ratio depends on the plant:
-- Early successional plants (annual vegetables, weeds): 1:1 or lower (bacterial dominant)
+- Early successional plants (annual vegetables, weeds): 1:1 or lower ([[comparison-bacterial-dominant-vs-fungal-dominant-tea]])
 - Mid-successional (grasses, row crops): 2:1 to 5:1
 - Late successional (trees, shrubs, conifers): 10:1 to 100:1 (fungal dominant)
 
@@ -78,7 +78,7 @@ Tillage causes bacteria to bloom and burns off organic residues rapidly, leading
 
 ## True Compost Tea
 
-A true compost tea should contain all organism groups present in good compost: bacteria, fungi, protozoa, and nematodes. If a tea machine only extracts bacteria, it is technically bacterial tea, not full compost tea. Ingham established minimum organism levels at Soil Foodweb Inc. (SFI) that consistently correlate with disease prevention when met or exceeded.
+A true compost tea should contain all organism groups present in good compost: bacteria, fungi, protozoa, and nematodes. If a tea machine only extracts bacteria, it is technically bacterial tea, not full compost tea. Ingham established minimum organism levels at Soil Foodweb Inc. (SFI) that consistently correlate with [[cervantes-pest-disease-prevention-overview]] when met or exceeded.
 
 ## See Also
 

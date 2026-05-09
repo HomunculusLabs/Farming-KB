@@ -1,5 +1,5 @@
 ---
-title: Gottlieb Psilocybin Cultivation Equipment and Facilities
+title: Gottlieb gottlieb-psilocybin-cultivation-bulk-substrate-preparation Equipment and Facilities
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -22,7 +22,7 @@ simplifies the equipment list considerably.
 
 - One-quart mason jars serve as the primary cultivation vessels, filled
   halfway with broth medium (PDY -- Potato Dextrose Yeast broth).
-- Petri dishes (15 cm) for stock cultures on agar media.
+- Petri dishes (15 cm) for stock cultures on [[growing-gourmet-agar-media-formulas-preparation]].
 - Baby food jars (1/4 filled with agar) as a substitute for petri dishes.
 - Test tubes filled 1/3 with agar, stopped with cotton, and cooled at a
   17-degree angle ("slants") to maximize surface area. A wooden rack can be
@@ -36,7 +36,7 @@ simplifies the equipment list considerably.
 - Canning-type pressure cooker ("autoclave") for sterilizing medium
   containers. Operated at 15-20 psi (250 degrees F) for 30 minutes.
   Higher temperatures or longer periods caramelize dextrose/maltose sugars,
-  inhibiting growth and psilocybin production.
+  inhibiting growth and [[gottlieb-psilocybin-production-extraction-methods]].
 - Glassware boiled in water for 30 minutes before use.
 - Metalware flame-sterilized until glowing, then allowed to cool before
   contacting cultures or specimens.
@@ -52,7 +52,7 @@ simplifies the equipment list considerably.
   culture excision.
 - X-acto blades (flame-sterilized) for carving outer skin and cutting inner
   tissue from mushroom caps.
-- Q-tips and 7% iodine solution for surface sterilization of caps.
+- Q-tips and 7% iodine solution for [[challenge-organisms-nasa-microwave-surface-sterilization-testing]] of caps.
 - Filter paper, Buchner funnel, and Celite for extraction filtration.
 - Flasks for extraction and media preparation.
 - Saccharimeter for tracking sugar consumption and determining harvest time.
@@ -120,7 +120,7 @@ production of 5,000+ doses per week using Gottlieb's methods.
 
 ## Key Operating Parameters
 
-- Cultivation temperature: 70-75 degrees F for Psilocybe cubensis; adjusted
+- Cultivation temperature: 70-75 degrees F for [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]; adjusted
   for other species per their requirements.
 - Jars shaken every 2-3 days to aerate and disperse mycelium.
 - Growth cycle: 10-12 days from inoculation to harvest.

@@ -5,7 +5,8 @@ updated: 2026-04-15
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Mycorestoration Ecology
 
@@ -19,29 +20,29 @@ Stamets writes: "On land, all life springs from soil. Soil is ecological currenc
 
 ### Soil as Ecological Currency
 
-The soil-currency metaphor extends deeply into Stamets' framework. With each successive mycelial generation cycling through a habitat, measurable improvements accumulate: soil depth increases as fungal hyphae bind and aggregate particles, moisture retention improves as mycelial networks create humus and improve soil structure, and the carrying capacity of the environment expands. The vanguard saprophytes enter the landscape first, improving nutrient flows, moisture absorption, and disease resistance. Subsequent generations of organisms then thrive in the soil created by fungi. Ultimately, trees grow and bequeath debris streams for more fungal cycles -- a self-reinforcing ecological economy.
+The soil-currency metaphor extends deeply into Stamets' framework. With each successive mycelial generation cycling through a habitat, measurable improvements accumulate: soil depth increases as fungal hyphae bind and aggregate particles, moisture retention improves as [[fungal-mycelial-networks-nutrient-translocation]] create humus and improve soil structure, and the carrying capacity of the environment expands. The vanguard saprophytes enter the landscape first, improving nutrient flows, moisture absorption, and disease resistance. Subsequent generations of organisms then thrive in the soil created by fungi. Ultimately, trees grow and bequeath debris streams for more fungal cycles -- a self-reinforcing ecological economy.
 
 ### The Habitat Immune System Analogy
 
-Stamets argues that habitats possess immune systems that can be strengthened or weakened. Pollution harms these environmental immune systems -- for example, chemical contaminants from feedlots introduce coliforms, nitrates, and phosphorus into downstream watersheds. Mushrooms like turkey tail (*Trametes versicolor*) are multibeneficial, preventing blights, fighting bacteria, and breaking down toxic chemicals like PCBs and dioxins.
+Stamets argues that habitats possess immune systems that can be strengthened or weakened. Pollution harms these environmental immune systems -- for example, chemical contaminants from feedlots introduce coliforms, nitrates, and phosphorus into downstream watersheds. Mushrooms like turkey tail (*[[staycare-trametes-versicolor-bioremediation-applications]]*) are multibeneficial, preventing blights, fighting bacteria, and breaking down toxic chemicals like PCBs and dioxins.
 
 Just as the human immune system benefits from medicinal mushrooms, environmental immune systems benefit from deploying the right fungal species. What weakens environmental immune systems includes monoculture forestry, pesticide overuse, erosion, and chemical contamination -- all of which reduce the diversity and resilience of fungal communities. Fungi restore these systems by rebuilding soil structure, reintroducing microbial diversity, and cycling nutrients that support higher organisms. The key is identifying which resident or introduced species can counteract specific stressors -- see [[mycofiltration-of-water-stamets]].
-2. **Mycoforestry** -- using fungi to implement ecoforestry policy and enhance forest health. Companion planting with mycorrhizal species and strategic saprophyte introduction improves forest resilience. See [[mycoremediation-stamets-approach]].
+2. **Mycoforestry** -- using fungi to implement ecoforestry policy and enhance forest health. [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with mycorrhizal species and strategic saprophyte introduction improves forest resilience. See mycoremediation-stamets-approach.
 4. **Mycopesticides** -- using fungi to control insect pests naturally. Endophytic fungi hosted by grasses, for example, produce toxins that kill fire ants. See [[fungal-ecology]] and [[mycological-landscaping-and-gardening]] for applied techniques and [[mycofiltration-of-water-stamets]] to reduce coliform bacteria and nutrient runoff from a cattle farm into an adjacent watershed.
 Mycelial filters placed in drainage channels reduced E. coli and fecal coliform counts by over 90%, demonstrating the practical viability of fungal filtration for agricultural water management.
 See [[soil-food-web-structure]] is increasingly studied, as they form a bridge between above-ground plant communities and below-ground microbial networks.
 
 ## Mycorestoration and Climate Change
 
-Mycorestoration offers several pathways for climate change mitigation and adaptation.
+Mycorestoration offers several pathways [[query-why-are-mangroves-critical-for-climate-change-adaptation-and-coastal-protection]] mitigation and adaptation.
 Mycelial networks sequester carbon in soil through the production of glomalin-related soil proteins (by mycorrhizal fungi) and through the formation of stable humic compounds from decomposed organic matter.
-Forest restoration guided by [[mycoremediation-scale-up-challenges]] remain significant, including the need for reliable spawn production at scale, competition from indigenous microorganisms, and the longer timeframes required compared to physical remediation methods.
+Forest restoration guided by mycoremediation-scale-up-challenges remain significant, including the need for reliable spawn production at scale, competition from [[beneficial-indigenous-microorganisms-bim]], and the longer timeframes required compared to physical remediation methods.
 
 ## Limitations and Knowledge Gaps
 
 Despite its promise, mycorestoration faces several scientific and practical limitations.
 Laboratory success does not always translate to field effectiveness, as environmental variables including temperature, moisture, pH, nutrient availability, and competing organisms can significantly alter fungal activity.
-Most published studies have focused on a small number of model species, particularly Phanerochaete chrysosporium and Trametes versicolor, leaving the vast majority of fungal species untested for bioremediation potential.
+Most published studies have focused on a small number of model species, particularly [[staycare-phanerochaete-chrysosporium-in-bioremediation]] and Trametes versicolor, leaving the vast majority of fungal species untested for bioremediation potential.
 Long-term monitoring data is scarce, making it difficult to assess the durability of remediation outcomes over years and decades.
 The formation of toxic transformation intermediates during [[monitoring-and-assessment-of-fungal-bioremediation]].
 Regulatory frameworks for fungal bioremediation remain underdeveloped in most jurisdictions, creating uncertainty about permitting requirements and liability.
@@ -52,7 +53,7 @@ Addressing these knowledge gaps through rigorous, long-term field studies is ess
 - [[mycofiltration-of-water-stamets]] -- water filtration applications
 - [[mycopesticides-stamets]] -- pest control applications
 - [[soil-food-web-structure]] -- soil biology
-- [[fungal-roles-in-agriculture]]
+- fungal-roles-in-agriculture
 - [[mycological-landscaping-and-gardening]]
 - [[bolete-mushrooms-ecology-edibility]]
 ## Practical Considerations
@@ -113,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

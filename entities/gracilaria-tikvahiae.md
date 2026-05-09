@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Gracilaria tikvahiae** is a red macroalga in the family Gracilariaceae, widely distributed along the Atlantic coast of North America. It is one of the most extensively studied seaweed species for commercial cultivation and agar production.
+**Gracilaria tikvahiae** is a red macroalga in the family Gracilariaceae, widely distributed along the Atlantic coast of [[psilocybin-north-america-pacific-northwest]]. It is one of the most extensively studied seaweed species for commercial cultivation and agar production.
 
 The species is named after the Marine Biological Laboratory at Woods Hole, located near the type locality on Cape Cod, Massachusetts. It has been a model organism for seaweed physiology and aquaculture research since the 1970s.
 
@@ -70,7 +70,7 @@ Seasonal biomass peaks occur in late spring to early summer when water temperatu
 
 **Gracilaria tikvahiae** was among the first seaweed species to be developed for commercial aquaculture. Research at Woods Hole Oceanographic Institution in the 1970s and 1980s established the foundation for modern Gracilaria cultivation techniques.
 
-Land-based tank cultivation using nutrient-enriched seawater is the most productive method. Aeration and agitation improve gas exchange and nutrient uptake. Biomass doubling times of 7–14 days are achievable under optimal conditions.
+Land-based tank cultivation using nutrient-enriched seawater is the most productive method. Aeration and agitation improve gas exchange and [[plant-nutrient-uptake-mechanisms]]. Biomass doubling times of 7–14 days are achievable under optimal conditions.
 
 Outdoor pond and raceway systems are widely used in subtropical regions. These systems use natural sunlight and seawater exchange, supplemented with agricultural fertilizers for nitrogen and phosphorus.
 
@@ -100,7 +100,7 @@ The species is palatable to herbivores including abalone, sea urchins, and certa
 
 Epiphytic algae, particularly diatoms and filamentous species, commonly colonize G. tikvahiae surfaces. Heavy epiphyte loads reduce growth rates and agar quality by competing for light and nutrients.
 
-The alga plays a role in nutrient cycling in estuarine ecosystems, efficiently absorbing dissolved inorganic nitrogen and phosphorus. This capacity has been explored for bioremediation of aquaculture effluents.
+The alga plays a role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in estuarine ecosystems, efficiently absorbing dissolved inorganic nitrogen and phosphorus. This capacity has been explored for bioremediation of aquaculture effluents.
 
 Free-floating populations can form nuisance blooms in eutrophic estuaries, washing ashore in large quantities and generating hydrogen sulfide as they decompose. These events are primarily a management concern in developed coastal areas.
 

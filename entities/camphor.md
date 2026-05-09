@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Chen, W. et al. (2013). \"Pharmacological effects of camphor.\" Evidence-Based Complementary and Alternative Medicine, 2013, 1–8."
-  - "Duke, J.A. (2002). Handbook of Medicinal Herbs. 2nd ed. CRC Press."
+  - "Duke, J.A. (2002). Handbook of [[permaculture-plants-medicinal-herbs-healing]]. 2nd ed. CRC Press."
   - "Wichtl, M. (2004). Herbal Drugs and Phytopharmaceuticals. 3rd ed. Medpharm Scientific Publishers."
   - "De Sousa, D.P. (2011). \"Analgesic-like activity of camphor.\" Revista Brasileira de Farmacognosia, 21(5), 847–852."
   - "Sullivan, J.B. et al. (2000). \"Camphor poisoning: a persistent problem.\" Journal of Toxicology: Clinical Toxicology, 38(1), 57–60."
@@ -83,14 +83,14 @@ exceeding 11% camphor are restricted in many jurisdictions.
 
 ## Natural Sources and Biosynthesis
 
-**Primary botanical sources:**
+**Primary [[dmt-botanical-sources-pharmacology]]:**
 - *Cinnamomum camphora* (Lauraceae) — the classical camphor tree, native to
   East Asia; wood contains 1–3% camphor by dry weight in old trees
 - *Dryobalanops aromatica* (Dipterocarpaceae) — Borneo camphor tree; source of
   (+)-camphor enantiomer, historically traded as "Borneo camphor"
 - *Blumea balsamifera* (Asteraceae) — sambong; leaves contain 0.5–2% camphor
 - *[[rosmarinus-officinalis-entity]]* (Lamiaceae) — rosemary; camphor is a significant
-  component (5–15%) of rosemary essential oil
+  component (5–15%) of rosemary [[permaculture-designers-manual-essential-oil-plants]]
 
 **Biosynthesis:** Camphor is synthesized via the mevalonate pathway (MVA) from
 geranyl pyrophosphate (GPP). GPP undergoes cyclization to bornyl pyrophosphate,
@@ -98,7 +98,7 @@ catalyzed by bornyl diphosphate synthase. Subsequent hydrolysis and oxidation
 by bornyl diphosphate dehydrogenase yields camphor. The stereospecificity of
 the cyclase determines enantiomeric outcome.
 
-**Industrial production:** Historically extracted by steam distillation of
+**Industrial production:** Historically extracted by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of
 camphor tree wood. Synthetic camphor has been produced from α-pinene since the
 early 20th century via isoborneol rearrangement. Synthetic camphor is racemic
 and constitutes the majority of commercial supply.
@@ -125,7 +125,7 @@ explicit warnings against use in children under 2 years.
 ## Historical and Regulatory Status
 
 Camphor was one of the earliest commodities in the spice trade between East
-Asia, Southeast Asia, and the Arab world. Chinese records of camphor use date
+Asia, [[psilocybe-southeast-asia-pacific]], and the Arab world. Chinese records of camphor use date
 to the 6th century CE, though its medicinal application likely predates written
 records. Japanese *kimpō* (金箔) and *kappō* (甘露) traditions employed camphor
 extensively in incense, medicine, and wood preservation.
@@ -138,7 +138,7 @@ extensively in incense, medicine, and wood preservation.
 - **Japan:** Widely used in OTC preparations; traditional kampo formulations
   include camphor-containing herbs
 - **India:** Common component of Ayurvedic formulations (as *karpoora*);
-  used in religious ceremonies and household pest control
+  used in religious ceremonies and household [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
 ## See Also
 
 - [[thujone]] — Monoterpene ketone with GABA_A antagonism; comparison of

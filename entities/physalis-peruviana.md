@@ -57,10 +57,10 @@ The fruit has an ORAC (antioxidant capacity) value comparable to or exceeding ma
 
 In Andean traditional medicine, *P. peruviana* has been used as an anti-inflammatory, diuretic, and hepatoprotective remedy. The fruit and leaves are prepared as infusions for respiratory ailments, urinary tract infections, and digestive complaints. In Colombian folk medicine, the leaf decoction is used to treat diabetes and hypertension.
 
-Modern pharmacological research has identified several bioactive compounds:
+Modern pharmacological research has identified several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:
 
 - **Withanolides** (physalins A, B, D, F): anti-inflammatory and immunomodulatory
-- **4β-Hydroxywithanolide E**: cytotoxic activity against cancer cell lines
+- **4β-Hydroxywithanolide E**: cytotoxic activity against [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines
 - **Calystegines**: glycosidase-inhibiting alkaloids
 - **Myricetin and quercetin**: antioxidant flavonoids
 
@@ -70,10 +70,10 @@ Studies have demonstrated hepatoprotective effects in animal models, anti-inflam
 
 *Physalis peruviana* is relatively easy to cultivate. Seeds are sown indoors 6–8 weeks before last frost, similar to tomatoes. Transplant to the garden after danger of frost has passed. Spacing of 60–90 cm between plants is recommended. The plant begins fruiting approximately 70–80 days after transplanting.
 
-In permaculture systems, groundcherry serves as a productive understory plant in food forests and polycultures. Its sprawling habit provides living mulch, and the calyx-covered fruits resist bird predation better than many berries. It pairs well with [[physalis-alkekengi]]
+In permaculture systems, groundcherry serves as a productive understory plant in food forests and polycultures. Its sprawling habit provides [[comparison-living-mulch-vs-cover-crops]], and the calyx-covered fruits resist bird predation better than many berries. It pairs well with [[physalis-alkekengi]]
 
 - [[forest-garden-design-principles]]
 
-- [[comfrey-symphytum-officinale|Comfrey]] — companion planting partner
+- [[comfrey-symphytum-officinale|Comfrey]] — [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] partner
 - [[moringa-oleifera|Moringa oleifera]] — complementary Andean/tropical superfood
 - [[ashwagandha-withania-somnifera|Ashwagandha]] — shared withanolide chemistry

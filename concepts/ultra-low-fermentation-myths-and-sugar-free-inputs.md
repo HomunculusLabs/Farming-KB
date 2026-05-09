@@ -1,5 +1,5 @@
 ---
-title: "Fermentation Myths and Sugar-Free Inputs"
+title: "ultra low fermentation myths and sugar free inputs and Sugar-Free Inputs"
 created: 2026-04-28
 tags: [fermentation, sugar-free, molasses, organic-inputs, ultra-low-cost]
 date: 2026-04-28
@@ -11,8 +11,8 @@ type: concept
 # Fermentation Myths and Sugar-Free Inputs
 
 One of the most provocative aspects of the JADAM system is its complete
-rejection of sugar, molasses, and commercial microorganisms as
-ingredients in organic farming inputs. JADAM argues that the modern
+[[jadam-rejection-of-sugar-molasses]], molasses, and commercial microorganisms as
+ingredients in [[coleman-deep-organic-farming-philosophy]] inputs. JADAM argues that the modern
 organic farming industry has been misled by myths about fermentation
 that serve primarily to make farmers dependent on purchased products.
 This page explores JADAM's critique and presents the sugar-free,
@@ -22,7 +22,7 @@ water-and-leaf-mold alternative.
 
 Modern organic farming workshops and publications frequently promote
 the use of sugar, molasses, vinegar, wood vinegar, and commercial
-microorganisms in making liquid fertilizers and microbial cultures.
+microorganisms in making [[solomon-liquid-fertilizers-and-foliar-feeding]] and microbial cultures.
 JADAM identifies several serious problems with this approach:
 
 1. **Sugar turns inputs acidic**: Using sugar in farming inputs makes
@@ -65,7 +65,7 @@ Consider the evidence:
 - The smell comes from the food microorganisms feed on, not from the
   microorganisms themselves. Carbohydrate-based fermentation produces
   sweet aromas; protein and fat breakdown produces amines that smell
-  foul. Both are natural decomposition processes.
+  foul. Both are [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]] processes.
 
 Our ancestors farmed with human manure, food waste, and green manure
 liquid fertilizers for thousands of years. They all smelled. Those
@@ -83,5 +83,5 @@ molasses, no commercial microorganisms, no temperature control, no
 aeration, no C/N ratio calculations, no pH monitoring.
 
 The [[ultra-low-jadam-liquid-fertilizer-making]] - Sugar-free JLF method
-- [[ultra-low-leaf-mold-as-ideal-soil-model]] - Leaf mold as microbial source
-- [[ultra-low-jadam-fertilizer-program]] - Complete input system
+- [[ultra-low-leaf-mold-as-ideal-soil-model]] - [[jadam-leaf-mold-as-ideal-soil]] microbial source
+- [[jadam-fertilizer-program]] - Complete input system

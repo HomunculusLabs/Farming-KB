@@ -1,5 +1,5 @@
 ---
-title: Solomon Liquid Fertilizers and Foliar Feeding
+title: Solomon solomon liquid fertilizers and foliar feeding and comparison-foliar-feeding-vs-compost-tea-nutrients
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -18,7 +18,7 @@ facing water scarcity. Not a replacement for soil fertilization with
 recommends is a mixture of:
 
 - **Fish emulsion**: Liquid from fish processing byproducts, providing
-  nitrogen and some phosphorus for vegetative growth.
+  nitrogen and some phosphorus for [[cannabis-vegetative-growth-stage]].
 - **Kelp (seaweed) tea**: Made by steeping dried kelp meal in water.
   Contains phytamins (plant vitamins), growth hormones, and a full
   range of Trace Minerals.
@@ -36,7 +36,7 @@ following organic methods.
 
 An important practical detail: if you are going to foliar spray homemade
 teas (compost tea, manure tea), they must be perfectly filtered first.
-Unfiltered particles clog spray nozzles and may create conditions for
+Unfiltered particles clog [[ingham-spray-nozzles-equipment-compost-tea]] and may create conditions for
 pathogen growth on leaf surfaces. Use fine mesh strainers or cheesecloth
 before filling your sprayer.
 
@@ -60,7 +60,7 @@ One of Solomon's more unconventional recommendations comes from farmers
 in India, who discovered that half-strength Coca-Cola makes an excellent
 foliar spray. The reasoning:
 
-- Cola contains significant amounts of phosphoric acid, which plants
+- Cola contains significant amounts of [[cho-water-soluble-phosphoric-acid-preparation]], which plants
   can absorb through their leaves.
 - The sugar content provides energy that helps plants.
 - The acidity may help the spray adhere to and penetrate leaf surfaces.
@@ -70,7 +70,7 @@ and give it a try.
 
 ## Baking Soda and Kelp-Fish Combination Spray
 
-For combined disease control and nutrition, Solomon suggests mixing kelp
+For combined [[hamilton-pest-and-disease-control-organic]] and nutrition, Solomon suggests mixing kelp
 tea and fish emulsion into a
 [[foliar-feeding]]
 - [[organic-vegetable-growing-calendar]]
@@ -95,3 +95,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[solomon-foliar-feeding-fish-emulsion-and-kelp]]

@@ -13,7 +13,7 @@ sources:
 
 # Kosher Kush
 
-Kosher Kush is a pure indica cannabis strain renowned for its exceptional
+Kosher Kush is a pure indica [[blesching-cannabis-strain-selection-receptor-targeting]] renowned for its exceptional
 potency, complex aroma profile, and deeply sedating effects. Originally
 emerging from the Los Angeles underground cannabis scene, it gained
 widespread recognition after winning the High Times Indica Cup in both
@@ -81,19 +81,19 @@ Angeles, which inspired the name.
 
 - **Plant structure:** Medium-tall indica with thick primary stems and
   dense lateral branching. Produces large, compact colas with heavy
-  resin production that extends well down the fan leaves and stems.
-- **Indoor cultivation:** Performs best in controlled environments with
+  [[cannabis-glandular-trichome-types-resin-production-clarke]] that extends well down the fan leaves and stems.
+- **[[cannabis-sativa-indoor-cultivation-techniques]]:** Performs best in controlled environments with
   temperatures maintained between 20–26°C during the day and 16–20°C
   at night. Lower nighttime temperatures during late flowering (weeks
   7–9) enhance purple coloration and terpene development.
 - **Training:** Responds well to low-stress training (LST), scrogging
-  (screen of green), and topping. Its naturally bushy structure benefits
+  ([[cannabis-screen-of-green-scrog-guide]]), and topping. Its naturally bushy structure benefits
   from early vegetative training to create an even canopy.
 - **Nutrient requirements:** Moderate-to-heavy feeder during vegetative
   growth. Calmag supplementation recommended due to its OG Kush genetics,
   which can be sensitive to calcium and magnesium deficiencies. Reduce
   nitrogen during weeks 6–8 of flowering to prevent leafy bud formation.
-- **Resistance:** Good resistance to mold and powdery mildew. Moderate
+- **Resistance:** Good resistance to mold and [[cervantes-powdery-mildew-prevention-treatment]]. Moderate
   pest resistance. Dense bud structure requires good airflow management
   to prevent bud rot (botrytis) in humid conditions, especially during
   the final weeks of flowering.
@@ -124,7 +124,7 @@ Angeles, which inspired the name.
 | CBN | 0.02–0.1% (increases with age/curing) |
 
 The virtually absent CBD content means Kosher Kush's effects are driven
-almost entirely by THC and the entourage effect of its terpene profile.
+almost entirely by THC and the [[cannabis-terpene-entourage-effect-profiles]] of its terpene profile.
 The high myrcene-to-pinene ratio is a key driver of its sedative character.
 
 ## Similar Strains

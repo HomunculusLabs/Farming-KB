@@ -3,26 +3,23 @@ title: Fungal Coral Reef Diversity
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology, fungi]
-sources: []
+tags: [mycology, fungi]
+sources:
+  sources: []
 ---
-# Fungal Diversity in Coral Reef and Marine Substrates
-
-Coral reefs and associated marine substrates represent one of the most biodiverse yet poorly documented habitats for marine fungi. The complex three-dimensional structure of reef systems provides diverse microhabitats for fungal colonization.
-
-[[fungal-biodiversity]] [[marine-fungal-diversity]] [[lichenized-fungi-detailed]] [[fungal-parasites]] [[marine-fungal-diversity]] fungal lichens
+# Fungal Diversity in Coral Reef and Marine Substrates Coral reefs and associated marine substrates represent one of the most biodiverse yet poorly documented habitats for marine fungi. The complex three-dimensional structure of reef systems provides diverse microhabitats for fungal colonization. [[fungal-biodiversity]] [[marine-fungal-diversity]] [[lichenized-fungi-detailed]] [[fungal-parasites]] [[marine-fungal-diversity]] fungal lichens
 
 ## Distribution and Diversity Patterns
 
-The greatest diversity of marine fungal species is encountered in intertidal habitats such as sandy beaches, jetties, salt marshes, and mangrove forests. Coral reef environments, being predominantly subtidal, may have different but equally important fungal communities.
+The greatest diversity of marine fungal species is encountered in intertidal habitats such as sandy beaches, jetties, salt marshes, and mangrove forests. Coral reef environments, being predominantly subtidal, may have different but equally important [[biodiversity-of-fungi-soil-fungal-communities-agriculture]].
 
-No thorough inventory of marine fungal biodiversity has been carried out in any area, including coral reef systems. The total number of marine species remains unknown but is certainly vastly underestimated.
+No thorough inventory of marine [[biodiversity-fungal-biodiversity-estimation-methods]] has been carried out in any area, including coral reef systems. The total number of marine species remains unknown but is certainly vastly underestimated.
 
 [[fungal-diversity-estimation-methods]]
 
 ## Substrate Diversity in Reef Systems
 
-Coral reefs provide an enormous diversity of substrates for fungal colonization, including living and dead coral, calcareous algae, crustose coralline algae, macroalgae, seagrasses, driftwood, sand, and shell fragments. Each substrate type likely supports a distinct fungal community.
+Coral reefs provide an enormous diversity of substrates for fungal colonization, including living and dead coral, calcareous algae, crustose coralline algae, macroalgae, seagrasses, driftwood, sand, and shell fragments. Each substrate type likely supports a distinct [[air-pollution-fungal-community-responses]].
 
 The physical complexity of reef structures creates microhabitat variation at multiple scales, from millimeter-scale surface texture differences to meter-scale habitat variation between reef zones.
 
@@ -30,9 +27,9 @@ The physical complexity of reef structures creates microhabitat variation at mul
 
 ## Oxygen Limitations in Marine Fungi
 
-Distribution of fungi in marine habitats is limited primarily by availability of dissolved oxygen. Low oxygen levels in water or sediments inhibit or prevent fungal growth. This constraint is particularly relevant in coral reef sediments where organic matter decomposition can create oxygen-poor conditions.
+Distribution of fungi in marine habitats is limited primarily by availability of [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]]. Low oxygen levels in water or sediments inhibit or prevent fungal growth. This constraint is particularly relevant in coral reef sediments where organic matter decomposition can create oxygen-poor conditions.
 
-[[fungal-environmental-sensing]]
+fungal-environmental-sensing
 
 ## Sampling Challenges
 
@@ -40,13 +37,13 @@ Sampling fungi in coral reef environments presents unique logistical challenges 
 
 Marine fungi are all microscopic, with the largest species only 4-5 mm in diameter, making them difficult to detect in field conditions. Specialized isolation and culture methods are required.
 
-[[culturing-culture-independent-fungi]]
+culturing-culture-independent-fungi
 
 ## Conservation Significance
 
 Coral reef fungal communities are vulnerable to coral bleaching, ocean acidification, pollution, and habitat destruction. As coral reefs degrade worldwide, their associated fungal communities may be lost before they are documented.
 
-The ecological roles of fungi in coral reef ecosystems, including decomposition, nutrient cycling, and potential pathogenic effects on corals, make understanding reef fungal diversity essential for reef conservation.
+The ecological roles of fungi in coral reef ecosystems, including decomposition, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and potential pathogenic effects on corals, make understanding reef fungal diversity essential for reef conservation.
 
 ethnomycology [[fungal-biodiversity]] [[fungal-biodiversity]]
 ## Practical Considerations
@@ -65,7 +62,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -107,4 +104,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

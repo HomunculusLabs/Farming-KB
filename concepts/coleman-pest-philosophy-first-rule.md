@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Eliot Coleman (2009). "The Winter Harvest Handbook." Chelsea Green.
+  - Eliot Coleman (2009). "The coleman-claytonia-winter-harvest-cultivation Handbook." Chelsea Green.
 ---
 
 # Coleman's First Rule of Biological Agriculture
@@ -23,7 +23,7 @@ enemies to be destroyed but as symptoms of underlying problems to be solved.
 
 ## Pests as Symptoms, Not Problems
 
-Coleman argued that insects and diseases are not the problem with a crop —
+Coleman argued that [[solomon-insects-and-diseases-integrated-approach]] are not the problem with a crop —
 they are the symptoms. Their presence is a visible indication that growing
 conditions are not conducive to the plant's optimum health.
 
@@ -45,7 +45,7 @@ timing, or management.
 
 This reframing is empowering rather than blaming. It means the solution is
 within the farmer's control. By improving growing conditions, the farmer
-can grow plants that are naturally resistant to pests and diseases.
+can grow plants that are naturally resistant to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
 
 Coleman restated Darwin's principle as "the un-survival of the unfit." In
 a biologically managed system, plants that are well-suited to their
@@ -75,7 +75,7 @@ Is the soil ready for that crop, or should the rotation or cultural
 practices be changed? Brassicas benefit from higher nitrogen, but tomatoes
 given extra nitrogen produce leaves and no fruit.
 
-How long ago were green manures or crop residues turned under? Three weeks
+How long ago were [[jeavons-green-manures-cover-crops]] or crop residues turned under? Three weeks
 is the minimum for soil bacteria to digest green matter and return the soil
 to balanced state.
 
@@ -109,7 +109,7 @@ the soil will support.
 ## The Greenhouse Context
 
 Coleman's pest philosophy applies equally in the controlled environment of
-a winter greenhouse. The confines of a greenhouse might seem to invite
+a [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]]. The confines of a greenhouse might seem to invite
 trouble, but the same principles hold.
 
 In the winter greenhouse, the only significant pest observed was aphids on
@@ -123,7 +123,7 @@ and observation than spraying but produces more durable results.
 
 ## Organic vs. Biological Agriculture
 
-Coleman drew an important distinction between organic farming that merely
+Coleman drew an important distinction between [[coleman-deep-organic-farming-philosophy]] that merely
 substitutes natural inputs for synthetic ones and truly biological farming
 that addresses root causes. The organic farmer who uses natural
 insecticides is no wiser than the chemical farmer — different materials,

@@ -1,5 +1,5 @@
 ---
-title: Dominance Culture and the Ego in McKenna's Food of the Gods
+title: mckenna food of the gods dominance culture and ego and the Ego in McKenna's Food of the Gods
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,17 +10,17 @@ tags: [culture]
 
 # Dominance Culture and the Ego in Food of the Gods
 
-In [[weil-psychedelic-experience-set-and-setting]] and ecstatic states is rooted in the rise of what he calls "dominator culture" -- a hierarchical, paternalistic, materialistic, and male-dominated social organization that replaced earlier "partnership" models of human society. This framework draws heavily on Riane Eisler's The Chalice and the Blade and connects the evolution of the ego to the loss of plant-based visionary practices.
+In [[weil-psychedelic-experience-set-and-setting]] and ecstatic states is rooted in the rise of what he calls "[[mckenna-dominator-culture-and-suppression-of-ecstasy]]" -- a hierarchical, paternalistic, materialistic, and male-dominated social organization that replaced earlier "partnership" models of human society. This framework draws heavily on Riane Eisler's The Chalice and the Blade and connects the evolution of the ego to the loss of plant-based visionary practices.
 
 ## Partnership vs. Dominator Societies
 
 McKenna borrows the terms "partnership" and "dominator" from Eisler's re-visioning of ancient history. Partnership societies, which Eisler argues preceded and were later oppressed by dominator forms, were characterized by egalitarian social organization without rigid hierarchies, the absence of warfare as an organizing social principle, reverence for the feminine, nature, and ecstatic experience, and open-ended shamanic investigation of the natural world.
 
-Eisler uses the archaeological record to argue that over vast areas and for many centuries, the partnership societies of the ancient Middle East "were without warfare and upheaval." Dominator cultures, by contrast, are hierarchical, paternalistic, materialistic, and male-dominated. McKenna argues that the tension between these two models, and the overexpression of the dominator model, is responsible for humanity's alienation from nature, from each other, and from authentic spiritual experience. Eisler's analysis "raises the level of debate beyond those who have so shrilly hailed and decried this or that ancient 'matriarchy' or 'patriarchy'."
+Eisler uses the archaeological record to argue that over vast areas and for many centuries, the partnership societies of the ancient Middle East "were without warfare and upheaval." [[partnership-and-dominator-cultures-in-human-history]], by contrast, are hierarchical, paternalistic, materialistic, and male-dominated. McKenna argues that the tension between these two models, and the overexpression of the dominator model, is responsible for humanity's alienation from nature, from each other, and from authentic spiritual experience. Eisler's analysis "raises the level of debate beyond those who have so shrilly hailed and decried this or that ancient 'matriarchy' or 'patriarchy'."
 
 ## The Role of the Ego
 
-McKenna identifies the ego as the psychological engine of dominator culture. He draws on Julian Jaynes's controversial theory from The Origin of Consciousness in the Breakdown of the Bicameral Mind, which proposed that through Homeric times, humans did not possess the kind of interior psychic organization we now take for granted. What we call "ego" was, for Homeric people, experienced as the voice of a god -- an intrusive, autonomous psychic function called forth under moments of stress:
+McKenna identifies the ego as the psychological engine of dominator culture. He draws on Julian Jaynes's controversial theory from The Origin of Consciousness in the Breakdown of the [[mckenna-jaynes-bicameral-mind-breakdown]], which proposed that through Homeric times, humans did not possess the kind of interior psychic organization we now take for granted. What we call "ego" was, for Homeric people, experienced as the voice of a god -- an intrusive, autonomous psychic function called forth under moments of stress:
 
 > "Thus, what we call ego was for Homeric people a 'god.' When danger threatened suddenly, the god's voice was heard in the individual's mind; an intrusive and alien psychic function was expressed as a kind of metaprogram for survival."
 
@@ -30,7 +30,7 @@ At some point, humans integrated this previously autonomous function. Merchants 
 
 The central argument is that encounters with hallucinogenic plants encyclopedia overview "throw into question the entire world view of the dominator culture" by dissolving the boundaries between self and world. This dissolution threatens the ego and the social structures built upon it. Psychoactive drugs challenge "the Christian assumption of the inviolability and special ontological status of the soul" and equally challenge "the modern idea of the ego and its inviolability and control structures."
 
-The "terror the ego feels in contemplating the dissolution of boundaries" explains not just the suppression of altered states but "the suppression of the feminine, the foreign and exotic, and transcendental experiences." McKenna traces this suppression to the period roughly 5000 to 3000 B.C., when "patriarchal invaders" overran partnership societies, replacing shamanic tradition with "dogma, priestcraft, patriarchy, warfare and, eventually, 'rational and scientific' or dominator values."
+The "terror the ego feels in contemplating the dissolution of boundaries" explains not just the suppression of [[weil-the-natural-mind-altered-states-normalcy]] but "the suppression of the feminine, the foreign and exotic, and transcendental experiences." McKenna traces this suppression to the period roughly 5000 to 3000 B.C., when "patriarchal invaders" overran partnership societies, replacing shamanic tradition with "dogma, priestcraft, patriarchy, warfare and, eventually, 'rational and scientific' or dominator values."
 
 ## The Ego Drift and the Loss of the Transcendent Other
 
@@ -91,4 +91,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

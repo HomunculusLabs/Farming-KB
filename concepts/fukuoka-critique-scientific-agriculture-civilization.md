@@ -1,19 +1,20 @@
 ---
-title: Fukuoka's Critique of Scientific Agriculture and Civilization
+title: Fukuoka's fukuoka-critique-of-scientific-agriculture Agriculture and Civilization
 created: 2026-05-08
 tags: [fukuoka, civilization-critique, scientific-agriculture, machine-culture, desertification]
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
 # Critique of Scientific Agriculture and Civilization
 
-Masanobu Fukuoka's critique extends far beyond farming methods to encompass
+Masanobu Fukuoka's critique extends far beyond [[natural-farming-methods-comparison]] to encompass
 the entire trajectory of human civilization. In *The Road Back to Nature*, he
-argues that scientific agriculture and the machine culture it spawned have
+argues that scientific agriculture and the [[fukuoka-machine-culture-doomed-agricultural-decline-america-europe]] it spawned have
 destroyed nature across the globe, turning fertile lands into deserts and
 severing humanity's spiritual connection to the earth. His observations
 draw from travels through America, Europe, and Africa, where he witnessed
@@ -22,7 +23,7 @@ environmental degradation firsthand.
 ## The Machine Culture Is Doomed
 
 Nature in America is not natural at all, Fukuoka declared. This is a
-human-centered society with its beginnings in a pact by Western philosophy
+human-centered society with its beginnings in a pact by [[fukuoka-descartes-western-philosophy-nature]]
 with God. Americans are a meat-eating people who have farmed for meat
 consumption, triggering a negative cycle that destroyed nature and laid the
 foundation for a machine-based culture.
@@ -40,7 +41,7 @@ oil stops flowing will be New York.
 ## California Turning to Desert
 
 Fukuoka was astonished to see the American landscape from the air. About 30
-percent of North America consists of arid land, the central grain belt has
+percent of [[psilocybin-north-america-pacific-northwest]] consists of arid land, the central grain belt has
 been severely depleted (another 30 percent), and green plains make up only
 another 30 percent. Forests cover perhaps ten percent. More than half the
 country was already desert or approaching a desert-like state, yet most
@@ -48,7 +49,7 @@ Americans had little awareness of this destruction. They found it normal
 that California grasses dry out in summer and called this a continental
 climate.
 
-The pivot farm is a fitting symbol of American agriculture: a mammoth
+The pivot farm is a fitting symbol of [[fukuoka-american-agriculture-fields-of-death]]: a mammoth
 sprinkler system a half-mile long pivots about a circular field, drawing
 water from depths of hundreds of feet. This results in salt accumulation on
 the soil surface. After 5-6 years, the system is moved to adjoining land and
@@ -136,5 +137,7 @@ Isn't it enough just to be alive?
   to the desertification caused by modern agriculture
 
 ## See Also
+
+- [[critique-of-scientific-agriculture]]
 
 - [[fukuoka-critique-scientific-agriculture]]

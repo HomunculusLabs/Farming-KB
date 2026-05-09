@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Joulain, D. (2006). "The profile of Ylang-ylang." Perfumer & Flavorist, 31(2), 24–39.
   - Burfield, T. (2000). "The natural products of Cananga odorata." International Journal of Aromatherapy, 10(3-4), 115–125.
-  - Verzera, A., et al. (2007). "Essential oil composition of Cananga odorata from different geographical locations." Journal of Agricultural and Food Chemistry, 55(18), 7384–7390.
+  - Verzera, A., et al. (2007). "[[permaculture-designers-manual-essential-oil-plants]] composition of Cananga odorata from different geographical locations." Journal of Agricultural and Food Chemistry, 55(18), 7384–7390.
   - Heyne, K. (1987). Tumbuhan Berguna Indonesia [Useful Plants of Indonesia]. 3rd ed. Badan Litbang Kehutanan.
   - Rivera, D., et al. (2005). "Aromatic and medicinal plants in the traditional Mediterranean." In: The Medicinal Plant Industry. CRC Press.
 ---
@@ -23,9 +23,9 @@ sources:
 
 **Cananga odorata** (Lam.) Hook.f. & Thomson, commonly known as ylang-ylang, is
 a tropical evergreen tree in the family Annonaceae. Native to the rainforests
-of Southeast Asia (Indonesia, Malaysia, Philippines), it is renowned for its
+of [[psilocybe-southeast-asia-pacific]] (Indonesia, Malaysia, Philippines), it is renowned for its
 intensely fragrant flowers, which yield one of the world's most important
-essential oils for perfumery. The species has been naturalized throughout the
+[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] for perfumery. The species has been naturalized throughout the
 tropics and is commercially cultivated in Comoros, Madagascar, Réunion, and
 tropical South America.
 
@@ -70,7 +70,7 @@ Pacific Islands.
 ## Chemistry and Essential Oil
 
 Ylang-ylang essential oil is a complex mixture of over 150 identified
-volatile compounds. The oil is unique in perfumery for being produced in
+[[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]. The oil is unique in perfumery for being produced in
 sequential grades based on distillation time: **extra supérieure** (first hour),
 **première** (1–2 hours), **deuxième** (2–4 hours), and **troisième**
 (4+ hours). Extra supérieure commands the highest price and is used in
@@ -113,13 +113,13 @@ leaf litter for soil-building. It is commonly intercropped with clove
 cacao) in the Comoro Islands and Madagascar.
 
 The tree's tolerance of a range of soil types, rapid growth, and ability to
- coppice after harvesting make it suitable for erosion control on tropical
+ coppice after harvesting make it suitable for [[permplant-willows-salix-erosion-control-fodder]] on tropical
  slopes and rehabilitation of degraded lands.
 
 ## Ethnobotanical and Cultural Significance
 
 In traditional Southeast Asian medicine, ylang-ylang flowers are used in
-infusions for treating malaria, stomach ailments, and skin conditions. In the
+infusions for treating malaria, stomach ailments, and [[cannabis-for-skin-conditions-detailed]]. In the
 Philippines, flowers are strewn on newlywed beds and mixed with coconut oil
 as a hair treatment.
 
@@ -135,4 +135,4 @@ for anxiety and stress-related conditions.
 - jasminum grandiflorum
 - [[cinnamomum-verum]]
 - [[coffea-arabica]]
-- [[piscidia-piscipula]]
+- piscidia-piscipula

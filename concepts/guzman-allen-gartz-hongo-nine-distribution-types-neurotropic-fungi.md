@@ -19,18 +19,18 @@ type: concept
 
 Guzmán, Allen and Gartz applied the biogeographic classification
 system originally developed by Hongo (1978) for Japanese fungi to
-the worldwide distribution of neurotropic fungi. Hongo recognized
+the worldwide [[global-distribution-of-neurotropic-fungi]] fungi. Hongo recognized
 nine distinct distribution types that reflect different historical,
 ecological, and geographical processes shaping where species occur.
 The application of this framework to neurotropic fungi reveals
 patterns that illuminate both the evolutionary history and the
-current gaps in mycological exploration worldwide.
+current gaps in [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]] worldwide.
 
 ## Type One: Cosmopolitan Species
 
 Cosmopolitan species are those found across multiple continents and
 climate zones. Among neurotropic fungi, the clearest examples are
-Panaeolina foenisecii and almost all species of Panaeolus. These
+[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]] and almost all species of Panaeolus. These
 coprophilous fungi grow on herbivore dung and have been widely
 dispersed through the global movement of livestock. Panaeolina
 foenisecii is remarkably widespread but poorly documented in its
@@ -73,7 +73,7 @@ but broader mycogeographic connections between the two regions are
 well documented. The authors note ties between American species
 such as Psilocybe graveolens, P. muliercula, P. pintonii, and P.
 zapotecorum and Japanese species like P. argentipes and P.
-subcaerulipes, suggesting an eastern Pacific distribution element.
+subcaerulipes, suggesting an eastern [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]] element.
 
 ## Type Five: Far Eastern Species
 
@@ -103,7 +103,7 @@ subcubensis, Copelandia cyanescens with some exceptions, C.
 tropicalis, and other Copelandia species dominate this category.
 Gerronema fibula is an interesting case, reported from Malaysia,
 New Guinea, the Solomon Islands, and South America, but also known
-from Europe, suggesting a pantropical distribution with temperate
+from Europe, suggesting a [[copelandia-cyanescens-pantropical-distribution-and-ecology]] with temperate
 outliers. The concentration of species diversity in tropical and
 subtropical regions is a dominant theme of the paper, with Mexico,
 Colombia, the Caribbean, Southeast Asia, and South America showing
@@ -126,7 +126,7 @@ between mountain ranges.
 
 Endemic species, those known from only a single country or small
 geographic area, are numerous among neurotropic fungi. Mexican
-endemics include Conocybe siligineoides, Hypholoma
+endemics include [[guzman-conocybe-siligineoides-lost-sacred-mushroom-oaxaca-never-recollected]], Hypholoma
 naematoliformis, Psilocybe muliercula, P. chiapanensis, and P.
 laurae. Colombian endemics include P. columbiana, P. guatapensis,
 and P. pintonii. Other notable endemics are P. brasiliensis and P.
@@ -136,7 +136,6 @@ Panaeolina species described by Hongo from Japan and by Natarajan
 and Raman from India. The prevalence of endemism in Mexico, which
 leads the world with 44 taxa of neurotropic Psilocybe, reflects
 both genuine evolutionary diversification and the intensity of
-mycological exploration in that country.
 ## See also
 
 [[guzman-allen-gartz-global-psilocybe-biogeography]]
@@ -145,3 +144,7 @@ mycological exploration in that country.
 ## See Also
 
 - [[guzman-nine-distribution-types-neurotropic-fungi-detailed]]
+
+- [[hongo-nine-distribution-types-fungi-biogeography]]
+
+- [[guzman-allen-gartz-neurotropic-fungi-australasia]]

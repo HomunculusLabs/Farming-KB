@@ -13,7 +13,7 @@ Live resin is a premium cannabis concentrate known for its exceptional terpene c
 
 ## What Is Live Resin
 
-Live resin is a type of butane hash oil (BHO) or propane hash oil (PHO) made from fresh frozen cannabis biomass. The term "live" refers to the fact that the plant material is frozen immediately after harvest — often within minutes — before any drying or curing occurs. This preserves volatile terpenes and other compounds that would otherwise degrade or evaporate during the traditional drying and curing process.
+Live resin is a type of butane hash oil (BHO) or propane hash oil (PHO) made from fresh frozen cannabis biomass. The term "live" refers to the fact that the plant material is frozen immediately after harvest — often within minutes — before any drying or curing occurs. This preserves volatile terpenes and other compounds that would otherwise degrade or evaporate during the traditional [[comparison-cannabis-drying-and-curing-vs-flushing-before-harvest]] process.
 
 **Characteristics of quality live resin**:
 - Sauce-like or budder consistency with visible terpene-rich liquid layer
@@ -88,7 +88,7 @@ The entire live resin process is designed around terpene preservation. Key strat
 - **Cold extraction**: Running solvent at sub-zero temperatures minimizes terpene loss during the wash.
 - **Short path processing**: Minimizing the distance and time the extract travels reduces terpene evaporation.
 - **Low-temperature purging**: Vacuum ovens set to lower temperatures with deep vacuum remove solvents without volatilizing terpenes.
-- **Terpene separation**: Some processors use fractional distillation or chromatography to separate and recombine terpenes in optimized ratios.
+- **Terpene separation**: Some processors use [[cannabis-fractional-distillation-cannabinoids]] or chromatography to separate and recombine terpenes in optimized ratios.
 - **Opaque containers**: Store final product in UV-blocking glass to prevent light degradation of terpenes.
 
 ## Product Forms

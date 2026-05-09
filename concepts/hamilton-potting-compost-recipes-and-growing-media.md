@@ -1,5 +1,5 @@
 ---
-title: "Potting Compost Recipes and Growing Media"
+title: "hamilton potting compost recipes and growing media Recipes and Growing Media"
 created: 2026-04-28
 tags: [potting-compost, growing-media, greenhouse, propagation, organic-gardening]
 date: 2026-04-25
@@ -68,7 +68,7 @@ layer of soil and stack it, grass side down, for a year.
 Replace the removed soil with spent compost from finished greenhouse crops
 and resow immediately with grass. The process takes three years in all, so
 you need three plots to provide a continuous succession. As a safeguard
-against soil-borne pests and diseases, the loam can be sterilized by
+against soil-borne [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]], the loam can be sterilized by
 heating to 212 degrees F (100 degrees C) for 15 minutes in an oven or
 electric sterilizer.
 
@@ -79,7 +79,7 @@ produce excellent results:
 
 ### Peat-Reduced Compost
 
-Mix peat 50:50 with green compost. Add 1oz (30g) of Dolomite lime per
+Mix peat 50:50 with green compost. Add 1oz (30g) of [[cervantes-dolomite-lime-ph-buffering]] per
 2 gallons (9 litres) to balance the acidity. Remember to add both trace
 and major nutrients, as both components contain little or no plant food.
 A combination of pelleted chicken manure mixed into the compost, with
@@ -95,9 +95,9 @@ wet conditions.
 ### Worm-Worked Compost Mix
 
 Worm-worked compost can be mixed with peat for a rich growing medium, or
-for a fully peat-free version, use leaf mold mixed with vermiculite. Worm
+for a fully peat-free version, [[query-how-to-make-and-use-leaf-mold-in-your-garden]] mixed with vermiculite. Worm
 compost is nutrient-rich and biologically active, making it an excellent
-component of any potting mix.
+component of any [[solomon-potting-mix-and-seedling-soil-recipe]].
 
 ## Feeding Container-Grown Plants
 
@@ -111,7 +111,7 @@ Use homemade animal-manure tea or a commercial liquid kelp or
 animal-manure feed. Kelp is ideal for most purposes because it contains
 the full range of nutrients needed for healthy plant growth. Always use
 fertilizers at the recommended strength and frequency; overfeeding causes
-more damage than underfeeding. At the height of the growing season,
+more damage than underfeeding. At the height of the [[savory-growing-season-and-non-growing-season-management]],
 demanding plants such as tomatoes and cucumbers may need feeding every
 time they are watered.
 
@@ -126,6 +126,8 @@ around the discarded pot to form a mold into which the root ball fits,
 preventing any damage during transplanting.
 
 ## Related
+
+- [[hamilton-melon-and-pumpkin-growing]]
 
 - [[hamilton-peat-free-gardening-and-alternatives]]
 - [[hamilton-leaf-mold-making-using]]

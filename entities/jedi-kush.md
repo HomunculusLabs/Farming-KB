@@ -11,7 +11,7 @@ updated: 2026-04-28
 sources:
   - "Leafly Strain Database." https://www.leafly.com/strains/jedi-kush
   - "AllBud Strain Information." https://www.allbud.com/marijuana-strains/hybrid/jedi-kush
-  - Smart, R. et al. (2010). "Cannabinoid and Terpene Profiles of Popular Cannabis Strains." Journal of Cannabis Therapeutics 10(1-4).
+  - Smart, R. et al. (2010). "Cannabinoid and [[cannabis-terpene-profiles-sativa]] of Popular Cannabis Strains." Journal of Cannabis Therapeutics 10(1-4).
   - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution and Ethnobotany." University of California Press.
 created: 2026-04-28
 ---
@@ -50,7 +50,7 @@ Buds are medium to large in size, with a dense and compact structure typical of
 indica-dominant varieties. The calyxes are tightly packed and form chunky,
 cone-shaped colas with moderate internodal spacing.
 
-Coloration ranges from forest green to deep olive, often with hints of purple
+Coloration ranges from [[trichoderma-forest-green-mold-guide]] to deep olive, often with hints of purple
 in cooler growing conditions. The leaves are broad and dark, with occasional
 twists characteristic of Kush genetics.
 
@@ -96,7 +96,7 @@ The onset is relatively rapid, beginning with a cerebral pressure behind the
 eyes and temples. Within 15–30 minutes, a deep body high develops, spreading
 from the core outward as a warm, heavy physical relaxation.
 
-Medical patients commonly use Jedi Kush for chronic pain, insomnia, muscle
+Medical patients commonly use Jedi Kush for [[cannabis-chronic-pain-management]], insomnia, muscle
 spasms, and anxiety. The sedative body effects make it particularly suited for
 evening and nighttime use.
 
@@ -107,7 +107,7 @@ eyes are the most commonly reported side effects.
 ## Cultivation
 
 Jedi Kush can be cultivated indoors or outdoors, though indoor environments
-allow better control over the dense bud structure and resin production.
+allow better control over the dense bud structure and [[cannabis-glandular-trichome-types-resin-production-clarke]].
 
 - **Flowering time:** 8–9 weeks indoors
 - **Yield:** Moderate, approximately 350–450 g/m² indoors
@@ -115,7 +115,7 @@ allow better control over the dense bud structure and resin production.
 - **Climate preference:** Warm, dry Mediterranean climate for outdoor grows
 - **Plant height:** Medium, reaching 100–140 cm indoors
 
-The strain responds well to low-stress training (LST) and sea of green (SOG)
+The strain responds well to low-stress training (LST) and [[comparison-sea-of-green-vs-screen-of-green]] (SOG)
 methods. Nutrient requirements are moderate, with increased phosphorus and
 potassium during mid-to-late flowering.
 

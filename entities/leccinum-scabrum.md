@@ -17,7 +17,7 @@ sources:
     Verlag Mykologia, Lucerne.
   - Watling, R. et al. (2002). "Leccinum in Britain." Forestry Commission
     Bulletin 125.
-  - Béguet, V. & Kantarelis, V. (2017). "Edible Wild Mushrooms of the
+  - Béguet, V. & Kantarelis, V. (2017). "Edible [[edible-wild-mushrooms-by-region]] of the
     Boreal Forest." University of Helsinki Press.
 ---
 
@@ -29,7 +29,7 @@ birch (Betula spp.) trees across temperate regions of Europe and North
 America.
 
 One of the most commonly collected boletes in northern Europe, L. scabrum
-is valued as a good edible mushroom, though it is considered inferior in
+is valued as a good [[bloomfield-boletus-satanus-edible-mushroom-hazards]], though it is considered inferior in
 flavor to the king bolete (Boletus edulis). Its obligate mycorrhizal
 association with birch makes it a reliable indicator of healthy birch
 forest ecosystems.

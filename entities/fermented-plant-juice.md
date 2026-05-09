@@ -1,5 +1,5 @@
 ---
-title: Fermented Plant Juice
+title: bionutrients-lab-fermented-plant-juice-fpj
 created: 2026-04-28
 type: chemical
 tags: [knf, fpj, plant-extranatural-farmingn, cho-global]
@@ -10,10 +10,10 @@ sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
 
 # Fermented Plant Juice
 
-**Fermented Plant Juice (FPJ)** is a core [[medicinal-mushroom-antimicrobial-properties]]. Used for plant vitality and pest deterrence.
+**Fermented Plant Juice (FPJ)** is a core [[medicinal-mushroom-antimicrobial-properties]]. Used for plant vitality and [[foliar-pest-deterrence-aact-mechanisms]].
 * **Dropwort (Oenanthe javanica) FPJ:** Made from the aquatic plant water dropwort. High in minerals, particularly iron and silica. Used for leafy green vegetables and rice crops.
-* **Seaweed/Kelp FPJ:** Made from fresh seaweed collected from clean coastal waters. Extraordinarily rich in trace minerals (over 60 elements), alginates, cytokinins, and auxins. Used as a micronutrient supplement and stress tolerance enhancer.
-* **Strawberry FPJ:** Made from runner tips or excess strawberry plants. High in natural [[ozier-pdc-composting-and-soil-building]] support:** Dilute FPJ applied to soil feeds diverse microbial communities, supporting nutrient cycling and disease suppression
+* **Seaweed/Kelp FPJ:** Made from fresh seaweed collected from clean coastal waters. Extraordinarily rich in trace minerals (over 60 elements), alginates, cytokinins, and auxins. Used as a micronutrient supplement and [[fungal-lichen-stress-tolerance-and-poikilohydry]] enhancer.
+* **Strawberry FPJ:** Made from runner tips or excess strawberry plants. High in natural [[ozier-pdc-composting-and-soil-building]] support:** Dilute FPJ applied to soil feeds diverse microbial communities, supporting [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and [[aact-disease-suppression-mechanisms-ingham]]
 
 ## Troubleshooting
 
@@ -104,4 +104,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

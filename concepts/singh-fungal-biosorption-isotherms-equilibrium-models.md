@@ -1,5 +1,5 @@
 ---
-title: Fungal Biosorption Isotherms and Equilibrium Models
+title: dighton-fungal-biosorption-heavy-metal-remediation Isotherms and Equilibrium Models
 created: 2026-04-26
 tags:
   - biosorption
@@ -17,7 +17,7 @@ type: concept
 # Fungal Biosorption Isotherms and Equilibrium Models
 
 Biosorption is a pseudo-ion-exchange process in which metal ions are
-exchanged for counterions in the fungal biomass or resin. Equilibrium data,
+exchanged for counterions in the [[bioremediation-fungal-biomass-biosorbent-material]] or resin. Equilibrium data,
 known as adsorption isotherms, are basic requirements for the design of
 biosorption systems. The evaluation of sorption performance is complicated
 by various methodologies and criteria used in the process, and by the
@@ -27,7 +27,7 @@ difficulty of evaluating systems when more than one metal is present.
 
 The Langmuir model is applicable to monolayer sorption onto a surface with
 a finite number of identical sites. It is the most widely used model for
-describing biosorption equilibrium data for heavy metal removal by fungal
+describing biosorption equilibrium data for [[dighton-fungal-heavy-metal-accumulation-bioremediation]] removal by fungal
 biomass. The model assumes uniform energies of adsorption onto the surface
 and no transmigration of the adsorbate in the plane of the surface. The
 well-known Langmuir equation is expressed as:
@@ -39,7 +39,7 @@ capacity, Cf (mg/g) is the equilibrium final concentration of metal in the
 solution, and b is a constant related to the affinity of the binding sites.
 
 The Langmuir model has been applied successfully to describe the
-biosorption of various heavy metals by fungal species, including lead,
+biosorption of various [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] by fungal species, including lead,
 cadmium, copper, and chromium by Aspergillus niger, Rhizopus arrhizus, and
 Mucor species. The model provides a useful indication of the maximum
 biosorption capacity of a given fungal biomass for a particular metal ion.
@@ -117,7 +117,7 @@ Several external factors influence the extent of biosorption and the shape
 of the resulting isotherms:
 
 - **pH**: Affects the speciation of metal ions and the ionization state of
-  functional groups on the fungal cell wall.
+  functional groups on the [[gadd-fungal-cell-structure]] wall.
 - **Temperature**: Biosorption tends to be exothermic, meaning uptake
   capacity may decrease with increasing temperature.
 - **Biomass concentration**: Higher biomass concentrations can lead to
@@ -134,6 +134,8 @@ induced by a magnetic field, which enhances mass transfer and contact
 between the metal ions and fungal binding sites.
 
 ## See Also
+
+- [[fungal-biosorption-isotherms]]
 
 - [[singh-fungal-biosorption-heavy-metals]]
 - [[singh-fungal-biosorption-lead-copper]]

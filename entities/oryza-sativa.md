@@ -34,7 +34,7 @@ The phrase "the rice bowl" has become a geopolitical shorthand for the rice-prod
 
 The genus *Oryza* contains approximately 24 species, including the African domesticated rice *O. glaberrima* and the wild progenitor *O. rufipogon*. *O. sativa* is an allotetraploid with an AA genome (2n = 24).
 
-Wild relatives of rice represent an important reservoir of genetic diversity for crop improvement. *O. rufipogon*, *O. nivara*, and *O. officinalis* have contributed disease resistance, abiotic stress tolerance, and yield-enhancing alleles to cultivated varieties through wide crosses.
+Wild relatives of rice represent an important reservoir of genetic diversity for crop improvement. *O. rufipogon*, *O. nivara*, and *O. officinalis* have contributed disease resistance, abiotic [[fungal-lichen-stress-tolerance-and-poikilohydry]], and yield-enhancing alleles to cultivated varieties through wide crosses.
 
 The plant grows 60–180 cm tall with hollow, jointed culms and flat lanceolate leaves 20–50 cm long. The inflorescence is a panicle bearing spikelets, each containing a single caryopsis (grain) 5–12 mm long.
 
@@ -48,13 +48,13 @@ Recent re-evaluation of sites such as Tianluoshan and Hehuashan has pushed the t
 
 Domestication syndrome traits in rice include non-shattering rachis, reduced seed dormancy, increased panicle size, and synchronous flowering. Genetic studies identify genes such as *sh4* (shattering), *Prog1* (prostrate growth), and *Rc* (pericarp color) as key domestication targets.
 
-The crop dispersed from its Chinese center of origin through multiple routes: an early southern route to Southeast and South Asia (associated with japonica), and a later eastern route carrying indica varieties across the Indian subcontinent. Rice reached the Middle East by 1000 BCE, Europe by the 8th century CE, and the Americas during the Columbian Exchange.
+The crop dispersed from its Chinese center of origin through multiple routes: an early southern route to Southeast and South Asia (associated with japonica), and a later eastern route carrying indica varieties across the Indian subcontinent. Rice reached the Middle East by 1000 BCE, Europe by the 8th century CE, and the Americas during the [[psilocybe-cubensis-biogeography-columbian-exchange-hypothesis]].
 
 ## Cultivation
 
 Rice is cultivated under three primary water management regimes: irrigated lowland (paddy), rainfed lowland, and rainfed upland. Irrigated paddies produce approximately 75% of global supply and achieve the highest yields.
 
-Paddy rice requires flooded conditions during most of the growing season, which suppresses weeds and provides thermal buffering. Transplanting seedlings into flooded fields is the standard method in Asia, while direct seeding is increasingly adopted in mechanized systems.
+Paddy rice requires flooded conditions during most of the growing season, which suppresses weeds and provides thermal buffering. Transplanting seedlings into flooded fields is the standard method in Asia, while [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is increasingly adopted in mechanized systems.
 
 Optimal growth temperatures range from 25–30°C during vegetative stages and 22–28°C during grain filling. Photoperiod sensitivity historically constrained rice to specific latitudes, though modern photoperiod-insensitive varieties have expanded cultivation ranges.
 
@@ -82,13 +82,13 @@ Integrated pest management (IPM) strategies reduce reliance on synthetic pestici
 
 Fungal diseases cause significant yield losses: rice blast (*Magnaporthe oryzae*) is the most devastating, affecting all above-ground tissues. Bacterial leaf blight (*Xanthomonas oryzae* pv. *oryzae*) and sheath blight (*Rhizoctonia solani*) are also major constraints.
 
-Rice tungro disease (viral complex of RTBV and RTSV) and grassy stunt virus cause episodic epidemics in Southeast Asia. Host plant resistance, deployed through multi-gene pyramiding, remains the most sustainable disease management approach.
+Rice tungro disease (viral complex of RTBV and RTSV) and grassy stunt virus cause episodic epidemics in Southeast Asia. Host plant resistance, deployed through multi-gene pyramiding, remains the most sustainable [[plant-disease-management-solomon]] approach.
 
 ## Biotechnology and Genetics
 
 The rice genome was the first cereal genome to be fully sequenced, published in 2002 by the International Rice Genome Sequencing Project. The approximately 430-megabase genome contains an estimated 37,000–40,000 protein-coding genes.
 
-Golden Rice, genetically engineered to produce beta-carotene (provitamin A) in the endosperm, was developed to address vitamin A deficiency in populations dependent on rice. First-generation events used a daffodil phytoene synthase gene; second-generation events use a maize ortholog achieving higher carotenoid levels.
+Golden Rice, [[singh-genetically-engineered-fungi-bioremediation]] to produce beta-carotene (provitamin A) in the endosperm, was developed to address vitamin A deficiency in populations dependent on rice. First-generation events used a daffodil phytoene synthase gene; second-generation events use a maize ortholog achieving higher carotenoid levels.
 
 CRISPR-Cas9 gene editing has produced non-transgenic rice varieties with traits including blast resistance, herbicide tolerance, and altered grain quality. Because many edited lines contain no foreign DNA, they face reduced regulatory barriers compared to transgenic approaches.
 
@@ -98,7 +98,7 @@ Basmati rice from the foothills of the Himalayas is prized for its extraordinary
 
 Jasmine rice (*khao hom mali*) from Thailand's Isan region dominates the fragrant rice export market. The variety carries the *BADH2* fragrance gene, which suppresses 2-acetyl-1-pyrroline (2AP) accumulation in non-aromatic varieties.
 
-Italian Arborio and Japanese Koshihikari represent temperate japonica varieties adapted to Mediterranean and East Asian cuisines, respectively. Koshihikari, developed in 1956, remains the most popular table rice in Japan despite higher production costs.
+Italian Arborio and Japanese Koshihikari represent temperate japonica varieties adapted to Mediterranean and East Asian cuisines, respectively. Koshihikari, developed in 1956, remains the most popular table rice in Japan despite higher [[fukuoka-textdoc-production-costs-not-coming-down]].
 
 African rice (*O. glaberrima*) is being crossed with *O. sativa* through the NERICA (New Rice for Africa) program. NERICA varieties combine the hardiness of African rice with the yield potential of Asian rice, offering improved productivity for smallholder farmers in sub-Saharan Africa.
 

@@ -4,12 +4,13 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [rice, seed-saving]
-sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Old Rice Variety Testing
 
-In his 1975 speech and related writings, [[fukuoka-natural-rice-barley-cultivation]] using traditional varieties. His findings challenge the fundamental assumptions of modern rice breeding and demonstrate that old varieties can outperform modern ones under natural conditions.
+In his 1975 speech and related writings, [[fukuoka-natural-rice-barley-cultivation]] using traditional varieties. His findings challenge the fundamental assumptions of modern rice breeding and demonstrate that [[holzer-old-varieties-and-seed-saving]] can outperform modern ones under natural conditions.
 
 ## The Tokugawa Period Glutinous Rice
 
@@ -29,7 +30,7 @@ Fukuoka provides concrete yield data:
 - Average of 250 grains per head, maximum of 300 or more
 - The smallest heads have about 120 grains and the largest about 260-270 grains
 - Based on his calculations: "this rice can give yields of up to 50 bushels per quarter-acre"
-- "This is a yield higher than that gotten through scientific agriculture"
+- "This is a yield higher than that gotten through [[fukuoka-critique-scientific-agriculture-civilization]]"
 - The top theoretical yield of rice under open sun has been calculated at 50 to 70 bushels -- "so my rice isn't far off"
 - He checked and rechecked his figures
 
@@ -62,7 +63,7 @@ Fukuoka conducted informal taste tests:
 
 Fukuoka draws the radical implications:
 
-- "For twenty-two or twenty-three years I haven't tilled my field, applied chemical fertilizers, or sprayed pesticides. And yet I reap this rice."
+- "For twenty-two or twenty-three years I haven't tilled my field, applied [[cervantes-chemical-fertilizers-guide]], or sprayed pesticides. And yet I reap this rice."
 - "Tell me now, everyone: What happens if you don't have to plow, if you don't have any need for tillers and tractors, if you don't have to spread chemical fertilizers and pesticides?"
 - "The key sectors of Japan's chemical industry will all collapse"
 - "No wonder then that no one is willing to believe such a method of farming is possible"
@@ -77,7 +78,7 @@ Fukuoka broadens his critique to agricultural education:
 - "We're seeing a boom period in agricultural technology that is producing chemicals and fertilizers which are wrecking agriculture"
 - "The entrepreneurs have found themselves a new way of making money"
 - "We are seeing a golden age of farmer-less farming"
-- "Farming methods today have done nothing but torment and squeeze the life out of the farmer"
+- "[[natural-farming-methods-comparison]] today have done nothing but torment and squeeze the life out of the farmer"
 
 ## The Broader Context of Variety Testing
 
@@ -99,8 +100,8 @@ Fukuoka argued that the pursuit of improved crop varieties through breeding is f
 
 ## Breeding Programs Have Failed
 
-The creation and abandoning over several decades of tens of thousands of new varieties shows that breeding goals change constantly. The question of seed variety cannot be resolved independently of other factors — biological environment, cultivation methods, soil, fertilizer, disease and pest control, and human factors all interact.
+The creation and abandoning over several decades of tens of thousands of new varieties shows that breeding goals change constantly. The question of seed variety cannot be resolved independently of other factors — biological environment, [[synthetic-log-cultivation-methods-guide]], soil, fertilizer, disease and pest control, and human factors all interact.
 
-Although breeding techniques may be useful in achieving temporary gains, such gains are never permanent or universal. The same is true for cultivation methods. The use of practices such as plowing, seeding timing, and transplanting is dictated by the thinking of the times and other factors, not by fundamental truth.
+Although [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]] may be useful in achieving temporary gains, such gains are never permanent or universal. The same is true for cultivation methods. The use of practices such as plowing, seeding timing, and transplanting is dictated by the thinking of the times and other factors, not by fundamental truth.
 
 ## Happy Hill Rice: Nature's Breeding

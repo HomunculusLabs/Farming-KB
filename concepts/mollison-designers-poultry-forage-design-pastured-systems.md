@@ -1,5 +1,5 @@
 ---
-title: Poultry Forage Design and Pastured Systems
+title: free-range-poultry-forage-design-mollison Design and Pastured Systems
 created: 2026-04-26
 tags:
   - permaculture
@@ -35,7 +35,7 @@ Mollison identifies numerous plants that chickens actively forage:
 - Lucerne/alfalfa (Medicago sativa): Premier poultry forage with protein
   content up to 22%. Suitable for cut-and-carry or grazing under nets.
 - Clover (Trifolium spp.): White and red clover provide excellent protein
-  and nitrogen fixation. Chickens prefer white clover for grazing.
+  and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. Chickens prefer white clover for grazing.
 - Plantain (Plantago lanceolata): Mineral-rich, drought-tolerant, and
   productive across multiple seasons.
 - Amaranth and buckwheat: Warm-season annuals providing high-protein seed
@@ -88,16 +88,16 @@ production systems reduces or eliminates the need for grain supplements:
 - **Mulch piles:** Deep mulch of leaves, straw, or wood chips under fruit
   trees harbours beetles, slugs, and larvae. Chicken scratching accelerates
   mulch breakdown while harvesting protein.
-- **Sheet composting:** Spreading manure and organic matter in thin layers
+- **[[solomon-sheet-composting-mulch-gardening]]:** Spreading manure and [[hamilton-composting-and-organic-matter-management]] in thin layers
   across future garden beds, then allowing chickens access, turns waste into
   fertile soil while feeding the birds.
-- **Black soldier fly systems:** Dedicated soldier fly larvae bins convert
+- **[[query-how-do-i-use-black-soldier-flies-for-composting-and-animal-feed]] fly systems:** Dedicated soldier fly larvae bins convert
   food scraps into high-quality chicken feed. Mollison describes simple
   bucket-and-ramp systems that self-harvest larvae.
 
 ## Housing and Shelter Design
 
-- Mobile chicken tractors for Zone 1-2 intensive systems
+- Mobile [[mollison-designers-chicken-tractors-egg-production]] for Zone 1-2 intensive systems
 - Fixed housing with attached forage paddocks for Zone 2-3
 - Earth-sheltered housing for winter protection in cool climates
 - Roosting and nesting areas protected from predators with wire mesh or
@@ -113,3 +113,8 @@ and [[mollison-designers-free-range-forage-design-principles]],
 [[mollison-designers-pig-tractors-forage-systems]]
 
 - [[integrated-poultry-forage-systems-zone-two]]
+
+## See Also
+
+- [[bee-forage-systems-design]]
+- [[mollison-pdc-poultry-forage-systems]]

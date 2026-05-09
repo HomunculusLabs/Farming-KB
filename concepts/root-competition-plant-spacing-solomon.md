@@ -14,7 +14,7 @@ Updated: 2026-04-18
 
 Source: Gardening When It Counts, Steve Solomon, Chapter 10
 
-Solomon provides a detailed scientific explanation for why close plant spacing reduces productivity, based on root system biology and root exudate chemistry.
+Solomon provides a detailed scientific explanation for why close plant spacing reduces productivity, based on root system biology and [[amf-biocontrol-phytophthora-root-exudate-modification]] chemistry.
 
 ## Root System Fundamentals
 
@@ -24,7 +24,7 @@ Solomon draws on J.E. Weaver's classic study "Root Development of Vegetable Crop
 - Roots never turn back toward the center of an established root system
 - The plant continuously extends its root system into new soil seeking untapped sources of moisture and nutrition
 - Denser root systems in already-explored areas would be wasted effort
-- Root exudates (chemical signals) tell the plant where its own roots already are
+- [[mycorrhizal-root-exudates-pathogen-interactions]] ([[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]) tell the plant where its own roots already are
 
 ### Root Efficiency Zone
 - A root can efficiently assimilate moisture and nutrients only at its growing tip
@@ -35,7 +35,7 @@ Solomon draws on J.E. Weaver's classic study "Root Development of Vegetable Crop
 ### Root Exudate Warfare
 - Plants secrete chemicals from their roots that repel the roots of other species
 - These chemicals are so effective and long-lasting that a different species planted in the same spot the following year may do poorly because the previous plant's exudates are still present
-- This explains why crop rotation works — different species have different exudate profiles
+- This explains why [[comparison-crop-rotation-vs-cover-cropping]] works — different species have different exudate profiles
 - Plants cannot make effective new root tips in areas already filled with another plant's roots
 
 ## The Competition Problem
@@ -63,7 +63,7 @@ Weaver's studies showed maximum root development in deep, open soil with little 
 2. **Don't crowd**: If plants are touching before they reach mature size, they're too close
 3. **Progressive thinning**: Thinning in stages wastes less and produces salad greens
 4. **Observe root behavior**: If you pull a plant at end of season, examine its root system to understand how much space it actually used
-5. **Rotate crops**: Different root architectures and exudate profiles from year to year
+5. **[[query-what-is-the-best-way-to-rotate-crops-in-a-vegetable-garden]]**: Different root architectures and exudate profiles from year to year
 
 See also: [[intensive-gardening-critique-solomon]], [[garden-bed-preparation]]
 - [[solomon-gardening-when-it-counts-index]]
@@ -86,4 +86,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

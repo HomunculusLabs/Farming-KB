@@ -1,5 +1,5 @@
 ---
-title: AACT Disease Suppression Recipes
+title: AACT aact-disease-suppression-mechanisms-ingham Recipes
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 Updated: 2026-04-18
 
-Dr. Elaine Ingham's approach to disease suppression using actively aerated compost tea (AACT) is based on restoring the full soil food web so that natural biological controls prevent disease organisms from gaining a foothold. Different diseases require different biological approaches.
+Dr. Elaine Ingham's approach to disease suppression using actively [[actively-aerated-compost-tea-aact-brewing]] tea (AACT) is based on restoring the full soil food web so that natural biological controls prevent disease organisms from gaining a foothold. Different diseases require different biological approaches.
 
 ## The Fundamental Principle
 
@@ -22,7 +22,7 @@ Disease suppression with compost tea works by establishing beneficial organisms 
 Black spot on roses is controlled primarily by bacterial tea. The bacteria occupy the leaf surface and prevent the black spot fungus from establishing infection sites.
 
 Recipe approach:
-- Brew bacterial dominant tea (molasses-based, no humic acid)
+- Brew [[comparison-bacterial-dominant-vs-fungal-dominant-tea]] tea (molasses-based, no humic acid)
 - Apply as foliar spray at 5 gallons per acre per month during growing season
 - Start applications 2 weeks before bud break
 - Continue monthly through the growing season
@@ -53,7 +53,7 @@ Root diseases are managed through soil drench applications that establish benefi
 
 ## Thatch Decomposition in Turf
 
-Thatch buildup in turf is a fungal decomposition problem:
+Thatch buildup in turf is a [[dighton-fungal-decomposition-leaf-litter-dynamics]] problem:
 
 - Apply fungal compost tea to decompose thatch instead of physical removal
 - Use fungal dominant recipe
@@ -74,12 +74,12 @@ Ingham's general prevention protocol:
 
 ## Nutrient Addition During Disease Response
 
-When nutrient deficiencies contribute to disease susceptibility:
+When [[hamilton-nutrient-deficiencies-and-treatment]] contribute to disease susceptibility:
 
 - Do a petiole or tissue analysis to identify deficient nutrients
 - Add the lacking nutrients directly to the compost tea
 - The organisms in the tea increase the plant's ability to take up nutrients faster
-- This is especially useful in the first 1-2 years while nutrient cycling is recovering
+- This is especially useful in the first 1-2 years while [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] is recovering
 
 ## Pesticide Recovery
 

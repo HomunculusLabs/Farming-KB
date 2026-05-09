@@ -2,7 +2,8 @@
 title: "Quantum Error Correction"
 created: 2026-04-28
 updated: 2026-05-06
-sources: []
+sources:
+  sources: []
 type: concept
 tags: [reference]
 ---
@@ -11,7 +12,7 @@ tags: [reference]
 
 ## Overview
 
-Quantum error correction is the theory and practice of protecting quantum information from noise.
+Quantum error correction is the [[microdosing-theory-and-practice]] of protecting quantum information from noise.
 
 It is essential because quantum states are fragile and cannot be copied directly like classical bits.
 
@@ -25,7 +26,7 @@ The encoded system allows errors to be detected and corrected without measuring 
 
 This is possible because error syndromes reveal what kind of error occurred without revealing the encoded logical state.
 
-The field combines quantum mechanics fundamentals, information theory, algebra, computer science, and experimental engineering.
+The field combines [[quantum-mechanics-fundamentals]], information theory, algebra, computer science, and experimental engineering.
 
 It is one of the main reasons scalable quantum computing is difficult.
 
@@ -65,7 +66,7 @@ A decoder interprets syndrome data and chooses a correction or tracking update.
 
 Corrections are often handled in software as changes to a Pauli frame.
 
-Fault tolerance extends correction to the operations used during computation.
+[[byzantine-fault-tolerance]] extends correction to the operations used during computation.
 
 A fault-tolerant circuit prevents a small number of physical faults from spreading into an uncorrectable logical failure.
 

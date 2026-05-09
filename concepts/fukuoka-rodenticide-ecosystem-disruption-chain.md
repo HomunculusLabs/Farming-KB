@@ -72,7 +72,7 @@ pests in check.
 
 ## The Pollination Paradox
 
-The application of toxic pesticides to [[integrate-rather-than-segregate]] against them, recognizing that pests and predators
+The application of toxic pesticides to integrate-rather-than-segregate against them, recognizing that pests and predators
 exist in a dynamic equilibrium that no chemical can replicate.
 
 The lesson extends beyond agriculture to all human interactions

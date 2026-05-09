@@ -18,7 +18,7 @@ of [[fukuoka-road-critique-of-modern-science]].
 McKenna contends that the accumulated evidence from shamanic traditions across cultures
 and millennia points toward a radical conclusion: the world is actually made of language.
 This proposition stands at odds with the dominant scientific worldview but finds strong
-support within the linguistic revolution of the twentieth century.
+support within the linguistic revolution of the [[coleman-louis-savier-twentieth-century-maraicher]].
 
 ### The Linguistic Revolution
 
@@ -52,10 +52,10 @@ methods exist: drumming, breath manipulation, ordeals, fasting, theatrical illus
 and sexual abstinence. However, McKenna argues that plant hallucinogens remain the most
 effective, ancient, and overwhelming of these techniques.
 
-A crucial distinction in shamanic healing is that the shaman, not the patient, takes the
+A crucial distinction in [[metzner-shamanic-healing-and-divination-paradigm]] is that the shaman, not the patient, takes the
 psychoactive substance. The plants serve as vehicles allowing the healer to journey into
 an invisible realm — a domain where language, ideas, and meaning hold greater power than
-cause and effect. In this nonordinary reality, sympathies, resonances, intentions, and
+[[fukuoka-textdoc-no-cause-and-effect-in-nature]]. In this nonordinary reality, sympathies, resonances, intentions, and
 personal will are linguistically magnified through poetic rhetoric. The imagination is
 invoked and, at times, beheld visibly.
 
@@ -82,10 +82,10 @@ Colombian Amazon included enco [[amazonian-boa-spirits-and-water-beings-in-shama
 
 ## Connections
 
-- Related to McKenna's broader **Stoned Ape Hypothesis** regarding the role of
+- Related to McKenna's broader **Stoned [[stoned-ape-hypothesis-mckenna-psychedelic-evolution]]** regarding the role of
   psilocybin in human cognitive evolution
 - Connects to the **Whorfian hypothesis** of linguistic relativity
-- Parallels the **logocentric** traditions in Western philosophy (Heraclitus, Heidegger)
+- Parallels the **logocentric** traditions in [[fukuoka-descartes-western-philosophy-nature]] (Heraclitus, Heidegger)
 - Anticipates contemporary discussions in **psychedelic integration therapy**
 
 ## See Also
@@ -93,5 +93,5 @@ Colombian Amazon included enco [[amazonian-boa-spirits-and-water-beings-in-shama
 - Shamanism
 - Ayahuasca
 - Linguistic Relativity
-- Psychedelic Therapy
+- [[metzner-psycholytic-psychedelic-therapy-models]]
 - Eliade, Mircea — *Shamanism: Archaic Techniques of Ecstasy*

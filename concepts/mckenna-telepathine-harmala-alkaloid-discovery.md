@@ -1,7 +1,7 @@
 ---
-title: "Telepathine, Harmala Alkaloids, and the MAO Inhibitor Discovery"
+title: "Telepathine, turner-harmala-alkaloids-preparation-and-dosage, and the MAO Inhibitor Discovery"
 created: 2026-04-28
-tags: [telepathine, [[ayahuasca]], Banisteriopsis, McKenna, food-of-the-gods, psychopharmacology]
+tags: [telepathine, ayahuasca, Banisteriopsis, McKenna, food-of-the-gods, psychopharmacology]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 # Telepathine, [[terence-mckenna]] recounts the remarkable story of "telepathine" — a
-compounamazonian-ayahuasca-purge-and-diet-practicesd from the Amazonian ayahuasca vine and named for its reputed
+compounamazonian-ayahuasca-purge-and-diet-practicesd from the [[harner-amazonian-ayahuasca-preparation-methods]] vine and named for its reputed
 telepharmineducing properties — and its later identification as harmine, a beta-carboline
 alkaloid found in *[[syrian-rue]]). This narrative illuminates a crucial
 pharmacological discovery: the mechanism of monoamine oxidase inhibition (MAOI), which
@@ -66,7 +66,7 @@ Western pharmacology adopted more strictly reductionist approaches.
 ## The Renaming: From Telepathine to Harmine
 
 Years later, in 1957, researchers realized that telepathine was identical to the compound
-harmaline, previously extracted from *Peganum harmala* (Syrian rue), a Middle Eastern
+harmaline, previously extracted from *[[mckenna-food-gods-peganum-harmala-soma]]* ([[golden-guide-syrian-rue-and-maoi-plants]]), a Middle Eastern
 plant with its own long history of ethnobotanical use. The name harmine was given
 official precedence over telepathine.
 
@@ -91,7 +91,7 @@ to be so structurally similar is an uninvestigated problem." He further observes
 "the whole relationship of particular kinds of visions to the compounds that elicit them
 is not well understood." These admissions of ignorance are significant — they suggest that
 the reductionist approach of identifying active compounds and mapping their receptor
-affinities captures only a fraction of what is relevant about psychedelic experience.
+affinities captures only a fraction of what is relevant about [[leary-psychedelic-experience-bardo-mapping]].
 
 In the native areas of its use, ayahuasca is regarded as a general-purpose healing elixir
 and is called *la purga*, the purge. Its effectiveness in combating intestinal parasites
@@ -101,7 +101,7 @@ documented by Claudio Naranjo, Marlene Dobkin de Rios, Luis Eduardo Luna, and ot
 
 ## Icaros: The Magical Songs of the Ayahuasquero
 
-One of the most distinctive features of the ayahuasca tradition is the role of icaros, or
+One of the most [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of the ayahuasca tradition is the role of icaros, or
 magical songs. McKenna explains that the ayahuasca experience includes "extremely rich
 tapestries of visual hallucination that are particularly susceptible to being 'driven' and
 directed by sound, especially vocally produced sound." Consequently, the ayahuasca-using

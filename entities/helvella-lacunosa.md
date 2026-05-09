@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Abbott, S.P. & Currah, R.S. (1997). \"The Helvellaceae: Systematics, ecology, and secondary metabolites.\" Mycologia, 89(1), 1–9."
+  - "Abbott, S.P. & Currah, R.S. (1997). \"The Helvellaceae: Systematics, ecology, and antifungal-secondary-metabolites-coprophilous-fungi.\" Mycologia, 89(1), 1–9."
   - "Kuo, M. (2023). Helvella lacunosa. MushroomExpert.com. https://www.mushroomexpert.com/helvella_lacunosa.html"
   - "Arora, D. (1986). Mushrooms Demystified. Ten Speed Press."
   - "Nitare, J. (1988). \"Notes on the ecology and distribution of Helvella species in Sweden.\" Nordic Journal of Botany, 8(2), 141–150."
@@ -44,7 +44,7 @@ The species is generally considered edible after thorough cooking, though it is 
 
 The specific epithet *lacunosa* refers to the deeply pitted, hollow, chambered appearance of the stipe.
 
-The species has been subject to considerable taxonomic revision; several former varieties have been raised to species rank based on molecular phylogenetics, including *H. lacunosa* f. *dichotoma* and *H. vespertina* (western North American segregate).
+The species has been subject to considerable taxonomic revision; several former varieties have been raised to species rank based on molecular phylogenetics, including *H. lacunosa* f. *dichotoma* and *H. vespertina* (western [[growing-gourmet-north-american-reishi-species]] segregate).
 
 Molecular studies confirm *H. lacunosa* as a species complex with multiple cryptic lineages corresponding to geographic regions.
 
@@ -78,7 +78,7 @@ Paraphyses are filiform, septate, slightly enlarged at tips.
 
 **Geographic range:** Widely distributed across Europe, North America (particularly the Pacific Northwest and Rocky Mountains), and parts of Asia.
 
-Also reported from North Africa and Central America at higher elevations.
+Also reported from North Africa and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] at higher elevations.
 
 **Habitat:** Terrestrial, growing singly or in scattered groups on soil, often in association with coniferous forests (Douglas fir, pine, spruce) and mixed woodlands.
 
@@ -90,7 +90,7 @@ In Mediterranean climates, fruiting may extend into winter months following rain
 
 **Elevation:** Found from sea level to approximately 2,500 meters in montane and subalpine forests.
 
-**Ecological role:** Likely saprotrophic on soil organic matter, with some evidence of weak ectomycorrhizal associations.
+**Ecological role:** Likely saprotrophic on soil [[hamilton-composting-and-organic-matter-management]], with some evidence of weak ectomycorrhizal associations.
 
 The genus *Helvella* has been suggested to form ectomycorrhizal relationships with conifers, but evidence remains mixed.
 
@@ -114,7 +114,7 @@ Not recommended for novice foragers due to the presence of potentially toxic loo
 
 ## Bioactive Compounds
 
-Helvella species contain trace amounts of gyromitrin (N-methyl-N-formylhydrazone), a volatile compound also found in *Gyromitra* species.
+Helvella species contain trace amounts of gyromitrin (N-methyl-N-formylhydrazone), a [[fungal-btex-volatile-compound-degradation]] also found in *Gyromitra* species.
 
 Gyromitrin is thermally labile and largely destroyed by cooking, but boiling water must be discarded to remove the hydrolyzed products.
 
@@ -137,4 +137,4 @@ The distinction between *H. lacunosa* and *Gyromitra* species is critical: Gyrom
 
 - `[[helvella-crispa]]` — Closely related edible elfin saddle with whitish cap
 - `[[cordyceps-sinensis]]` — Another ascomycete fungus of pharmaceutical significance
-- `[[psilocybe-cubensis]]` — Cultivated psilocybin mushroom for comparison of fungal ecology
+- `[[psilocybe-cubensis]]` — Cultivated [[emcdda-psilocybin-mushroom-dose-and-effects]] for comparison of fungal ecology

@@ -30,7 +30,7 @@ sources:
 
 **Amelanchier alnifolia**, commonly known as saskatoon berry, western serviceberry,
 or juneberry, is a deciduous shrub in the rose family (Rosaceae). Native to western
-and central North America, it produces purple-black berries prized for their
+and central [[psilocybin-north-america-pacific-northwest]], it produces purple-black berries prized for their
 nutty-sweet flavor and exceptional nutritional content.
 
 The species occupies a unique ecological niche, thriving on the prairies, parklands,
@@ -101,7 +101,7 @@ these nutrients.
 
 - **Hardiness:** USDA Zone 2–8
 - **Propagation:** Seed (requires 90-day cold stratification), hardwood cuttings,
-  softwood cuttings, tissue culture, sucker division
+  softwood cuttings, [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]], sucker division
 - **Spacing:** 1–1.5 m in hedgerows; 2–3 m for individual specimens
 - **Time to first crop:** 2–4 years from planting
 - **Peak production:** 5–8 years; productive lifespan 30–50+ years
@@ -113,7 +113,7 @@ the species is the most economically significant berry crop. Cultivars such as
 'Smoky', 'Northline', 'Thiessen', 'Martin', and 'Honeywood' have been selected
 for larger fruit size, higher yield, and disease resistance.
 
-Pests include saskatoon-juniper rust (*Gymnosporangium nelsonii*), powdery mildew
+Pests include saskatoon-juniper rust (*Gymnosporangium nelsonii*), [[cervantes-powdery-mildew-prevention-treatment]]
 (*Podosphaera* spp.), and various insect pests including the saskatoon berry fly
 and aphids. Bird predation of ripe fruit is the most significant production challenge.
 
@@ -121,7 +121,7 @@ and aphids. Bird predation of ripe fruit is the most significant production chal
 
 In food forest design, *A. alnifolia* occupies the shrub layer and provides multiple
 functions: productive fruit yield, pollinator forage, wildlife habitat, and
-erosion control on slopes.
+[[permplant-willows-salix-erosion-control-fodder]] on slopes.
 
 **Key permaculture functions:**
 - Early-season nectar source for native bees and honeybees
@@ -131,16 +131,16 @@ erosion control on slopes.
 - Coppice management for woody mulch production
 
 Saskatoon associates well with nitrogen-fixing species such as caragana (*Caragana
-arborescens*), sea buckthorn (*Hippophae rhamnoides*), and black locust (*Robinia
+arborescens*), [[comparison-sea-buckthorn-vs-aronia]] (*Hippophae rhamnoides*), and black locust (*Robinia
 pseudoacacia*). In guild plantings, it pairs effectively with understory herbs like
 comfrey, mint, and chives.
 
 The species is increasingly used in ecological restoration, mine reclamation, and
-native landscaping projects due to its adaptability, cold hardiness, and wildlife
+native landscaping projects due to its adaptability, [[coleman-cold-hardiness-testing-ratings]], and wildlife
 value. It establishes readily from seed on disturbed sites.
 ## See Also
 
 - [[ribes-nigrum]]
-- [[aronia-melanocarpa]]
+- aronia-melanocarpa
 - [[eleagnus-umbellata-entity]]
 - [[food-forest]]

@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Poelt, J. (1969). "Bestimmungsschlüssel europäischer Flechten." J. Cramer.
   - Wirth, V. (1995). "Die Flechten Baden-Württembergs." Eugen Ulmer Verlag.
   - Nash, T.H. III (2008). "Lichen Biology." 2nd ed. Cambridge University Press.
@@ -62,7 +62,7 @@ The bright orange coloration results from parietin accumulation, which functions
 
 Growth rates have been measured at approximately 0.5–1.0 mm per year in diameter. Radial growth measurements make X. elegans useful for dating rock surfaces through lichenometry.
 
-The species provides microhabitat for tardigrades, nematodes, and various microarthropods. These communities contribute to nutrient cycling on otherwise barren rock surfaces.
+The species provides microhabitat for tardigrades, nematodes, and various microarthropods. These communities contribute to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] on otherwise barren rock surfaces.
 
 ## Similar Species and Identification
 
@@ -76,7 +76,7 @@ The bright orange coloration separates X. elegans from most other rock-inhabitin
 
 ## Chemistry
 
-The dominant secondary metabolite is parietin (physcion), an anthraquinone pigment concentrated in the cortex. Parietin is responsible for the species' distinctive orange coloration.
+The dominant [[fungal-elicitors-enhanced-secondary-metabolite-production]] is parietin (physcion), an anthraquinone pigment concentrated in the cortex. Parietin is responsible for the species' distinctive orange coloration.
 
 Additional compounds include teloschistin, fallacinal, and emodin in trace amounts. These anthraquinones collectively provide UV protection and may deter herbivory.
 

@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Mushroom Poisoning and Treatment
+title: emcdda-psilocybin-mushroom-dose-and-effects Poisoning and Treatment
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -13,9 +13,9 @@ While psilocybin-containing mushrooms are among the least toxic of all psychoact
 
 ## The Real Danger: Misidentification
 
-The greatest danger from mushroom foraging lies not in consuming hallucinogenic species but in accidentally picking toxic lookalikes. Deadly poisonous Galerina species and Conocybe filaris, which are extremely poisonous, commonly share habitats with psilocybe cyanescens detailed, [[psilocybe-stuntzii-profile]] in mulched gardens.
+The greatest danger from [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]] lies not in consuming hallucinogenic species but in accidentally picking toxic lookalikes. Deadly poisonous Galerina species and Conocybe filaris, which are extremely poisonous, commonly share habitats with [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]] detailed, [[psilocybe-stuntzii-profile]] in mulched gardens.
 
-Chlorophyllum molybdites ("green gills" or "Morgan's Lepiota"), considered toxic but not deadly, is often picked in Florida and mistaken for [[mushroom-poisoning-and-lookalikes]] and [[psilocybin-toxicity-and-safety-profile]] for comprehensive toxicity data.
+[[guzman-chlorophyllum-molybdites-toxic-edible-paradox-yoruba-divinatory-use]] ("green gills" or "Morgan's Lepiota"), considered toxic but not deadly, is often picked in Florida and mistaken for mushroom-poisoning-and-lookalikes and [[psilocybin-toxicity-and-safety-profile]] for comprehensive toxicity data.
 
 ## Treatment Protocols
 
@@ -27,7 +27,7 @@ Recommended treatment should always be primarily supportive:
 
 The "talk-down" technique is the preferred method for handling difficult experiences. It involves non-moralizing, comforting personal support from an experienced individual. This is aided by limiting external stimulation such as intense light or loud sounds, letting the person lie down, and perhaps listening to soft music. See [[psilocybin-toxicity-and-safety-profile]]
 - [[psychedelic-harm-reduction-guide]]
-- [[mushroom-poisoning-and-lookalikes]]
+- mushroom-poisoning-and-lookalikes
 - [[psilocybin-accidental-ingestion-australia]]
 - [[harm-reduction-guide]]
 ## Practical Applications
@@ -107,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

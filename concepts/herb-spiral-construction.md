@@ -4,16 +4,17 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [gardening, permaculture, design, plants, homesteading]
-sources: []
+sources:
+  sources: []
 ---
 
 # Herb Spiral Construction
 
-An herb spiral is a three-dimensional, spiral-shaped garden bed that creates multiple microclimates in a compact footprint. Rising from ground level to approximately 3-6 feet at the center, a single herb spiral can support a wide variety of herbs — from moisture-loving plants at the bottom to drought-tolerant Mediterranean herbs at the top — all within a 5-6 foot diameter circle.
+An herb spiral is a three-dimensional, spiral-shaped garden bed that creates multiple microclimates in a compact footprint. Rising from ground level to approximately 3-6 feet at the center, a single herb spiral can support a wide variety of herbs — from moisture-loving plants at the bottom to drought-tolerant [[query-best-mediterranean-herbs-for-beginner-herb-garden]] at the top — all within a 5-6 foot diameter circle.
 
 ## The Concept
 
-The herb spiral is a classic permaculture design pattern that maximizes edge and microclimate diversity. By building upward in a spiral, you create:
+The herb spiral is a classic [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] pattern that maximizes edge and microclimate diversity. By building upward in a spiral, you create:
 
 - **Moisture gradient:** The bottom of the spiral collects runoff and stays damp; the top drains quickly and stays dry
 - **Sun exposure gradient:** The top receives full sun from all angles; lower portions may be shaded by the upper sections depending on orientation
@@ -28,7 +29,7 @@ The herb spiral is a classic permaculture design pattern that maximizes edge and
 - **Diameter:** 5-6 feet (1.5-1.8 meters) at the base
 - **Height:** 3-6 feet (0.9-1.8 meters) at the center/top
 - **Path width:** The spiral path between the outer wall and the inner mound should be 12-18 inches wide for comfortable planting and harvesting
-- **Footprint:** Approximately 25-30 square feet — replaces a 50+ square foot linear herb garden
+- **Footprint:** Approximately 25-30 square feet — replaces a 50+ [[comparison-biointensive-vs-square-foot-gardening]] linear herb garden
 
 ### Location
 
@@ -97,7 +98,7 @@ Natural stone is the traditional and best material for herb spiral walls:
 
 ### 5. Install a Water Feature (Optional)
 
-- Place a small pond or bowl at the base of the spiral for aesthetics and to attract beneficial insects and frogs
+- Place a small pond or bowl at the base of the spiral for aesthetics and to attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] and frogs
 - The moisture from the pond helps create the humid microclimate for moisture-loving herbs at the bottom
 
 ## Planting by Zone
@@ -142,42 +143,8 @@ Moisture-loving herbs that thrive in cooler, wetter conditions:
 
 - Watercress (Nasturtium officinale) — near the optional water feature
 - Mints (Mentha spp.) — contain in the moist bottom zone
-- Vietnamese coriander (Persicaria odorata)
-- Lemon balm (Melissa officinalis)
-- Sweet woodruff (Galium odoratum)
-
-### North Side vs. South Side
-
-In the Northern Hemisphere, the south-facing side of the spiral receives more direct sun and heat. Use this to your advantage:
-
-- **South-facing (sun, heat):** Mediterranean herbs, heat-loving plants
-- **North-facing (shade, cool):** Shade-tolerant herbs, tender plants that bolt in heat
-
-## Stone Placement Tips
-
-- Place stones with the flattest face outward for stability and appearance
-- Wedge smaller stones into gaps between larger ones for a tight fit
-- Stack stones so each upper stone bridges the joint between two lower stones (like running bond in brickwork)
-- The weight of the stones and the soil behind them holds the wall in place — no mortar needed for a spiral under 4 feet tall
-
-## Maintenance
-
-- **Watering:** Water from the top and let it flow down. The top dries fastest and needs water most often. The bottom may need little supplemental water.
-- **Pruning:** Harvest regularly to keep herbs compact and productive. Cut Mediterranean herbs back by one-third after flowering.
-- **Fertilizing:** Top-dress with compost annually. Mediterranean herbs need minimal fertilizer — too much makes them leggy and less flavorful.
-- **Weeding:** Hand-pull weeds as they appear. The stone walls provide some weed suppression but not complete control.
-- **Replacing plants:** Some herbs (basil, cilantro, dill) are annuals and need replanting each year. Perennials (rosemary, thyme, sage) persist for many years.
-
-## Common Mistakes
-
-- Building too close to trees or walls that shade the spiral — most herbs need full sun
-- Using heavy clay soil without amending for drainage — Mediterranean herbs will rot
-- Overwatering the top zone — Mediterranean herbs need to dry out between waterings
-- Planting invasive herbs (mint, oregano) without containment — they can take over the entire spiral
-- Making the spiral too small — less than 5 feet diameter doesn't create enough microclimate variation
-
 ## Related Concepts
 
-- [[keyhole-garden-design]] for another compact, intensive circular garden design
-- [[garden-bed-designs]] for larger-scale circular garden layout patterns
+- [[keyhole-garden-design]] for another compact, intensive circular [[comparison-mandala-garden-design-vs-keyhole-garden-design]]
+- [[garden-bed-designs]] for larger-scale circular [[hamilton-garden-layout-beds-borders-paths]] patterns
 - [[solar-food-dehydrator-diy]] for preserving your herb harvest

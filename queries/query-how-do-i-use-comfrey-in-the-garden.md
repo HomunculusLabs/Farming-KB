@@ -10,16 +10,16 @@ type: query
 ---
 # How Do I Use Comfrey in the Garden?
 ## Short Answer
-Comfrey (Symphytum officinale and S. x uplandicum) is a powerhouse permaculture plant used as a dynamic accumulator to mine deep soil minerals, as nutrient-rich mulch through chop-and-drop, as a liquid fertilizer tea, and as a compost accelerator.
+Comfrey (Symphytum officinale and S. x uplandicum) is a powerhouse permaculture plant used as a [[nutrient-dynamic-accumulator-reference]] to mine deep soil minerals, as nutrient-rich mulch through chop-and-drop, as a [[jadam-liquid-fertilizer-nutritional-perspective]] tea, and as a compost accelerator.
 Its deep taproot draws potassium, phosphorus, calcium, and other minerals from subsoil layers into its leaves, which can contain up to 3 times more potassium than farmyard manure.
 This makes it one of the most valuable plants for organic gardeners seeking to build soil health and fertility without external inputs.
 ## Detailed Explanation
-Comfrey has earned its reputation as one of the most useful plants in the organic garden and [[comfrey-plant-guide]] describes it as a vigorous perennial herb in the Boraginaceae family that can live for decades once established.
-It produces massive quantities of biomass each growing season, which can be harvested 4 to 6 times per year in favorable conditions.
+Comfrey has earned its reputation as one of the most useful plants in the organic garden and  describes it as a vigorous perennial herb in the Boraginaceae family that can live for decades once established.
+It produces massive quantities of biomass each [[savory-growing-season-and-non-growing-season-management]], which can be harvested 4 to 6 times per year in favorable conditions.
 Its primary value to gardeners lies in its ability to accumulate nutrients from deep in the soil profile through its extensive taproot system.
 The taproot can reach depths of 2 to 3 meters, accessing mineral reserves that shallow-rooted plants cannot reach.
 These deep-mined minerals are deposited in the nutrient-dense leaves at concentrations much higher than surrounding plants.
-The concept of a [[mollison-designers-dynamic-accumulators-comfrey]] research shows that comfrey leaves typically contain 2.5 to 3.5 percent potassium on a dry weight basis.
+The concept of a mollison-designers-dynamic-accumulators-comfrey research shows that comfrey leaves typically contain 2.5 to 3.5 percent potassium on a dry weight basis.
 This compares to about 1 percent potassium in typical composted farmyard manure.
 This high potassium content makes comfrey particularly valuable for fruiting and flowering plants like tomatoes, peppers, potatoes, and fruit trees.
 These crops have high potassium demands for flower and fruit production throughout the growing season.
@@ -33,7 +33,7 @@ The roots exude compounds that feed beneficial soil microorganisms, enhancing th
 In compacted or degraded soils, comfrey can serve as a biological subsoiler.
 It breaks up hardpan layers and improves drainage without the need for mechanical intervention or heavy equipment.
 ### Chop-and-Drop Mulching
-The [[cannabis-foliar-feeding]] technique can be adapted for comfrey tea application on a wide range of garden plants.
+The [[cannabis-foliar-feeding]] technique can be adapted for comfrey [[compost-tea-application-methods]] on a wide range of garden plants.
 This provides a quick nutrient boost during critical growth stages like flowering and fruit set.
 ### Comfrey as a Compost Accelerator
 Adding comfrey leaves to your compost pile is one of the most effective ways to speed up decomposition and increase nutrient content.
@@ -44,7 +44,7 @@ In these guilds, multiple species work together to support each other's growth, 
 In a fruit tree guild, comfrey is planted in the drip line of fruit trees where its deep roots mine minerals.
 The deep roots access nutrients without competing with the tree's shallow feeder roots for water and nutrients near the surface.
 The comfrey biomass is then cut and used as mulch around the tree, recycling the deep-mined minerals back to the soil surface.
-This creates a nutrient cycling system that mimics natural forest ecosystems where plants share resources through interconnected root networks.
+This creates a [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] system that mimics natural forest ecosystems where plants share resources through interconnected root networks.
 In addition to its nutrient-cycling role, comfrey provides several other functions in plant guilds.
 Its dense foliage suppresses weed growth around the base of fruit trees and garden plants, reducing competition for resources.
 The flowers attract pollinators including bees, butterflies, and beneficial predatory insects that help control pest populations.
@@ -70,7 +70,7 @@ Once established, a comfrey patch will be productive for 20 or more years with m
 | Use Method | Preparation Time | Application Rate | Benefits | Best For |
 |------------|-----------------|-----------------|----------|----------|
 | Chop-and-drop mulch | None | 5 to 10 cm layer | Slow-release nutrients, weed suppression | General garden beds |
-| Comfrey tea (anaerobic) | 3 to 6 weeks | Dilute 1:10 to 1:15 | Quick nutrient boost, foliar feeding | Heavy feeders, fruiting plants |
+| Comfrey tea (anaerobic) | 3 to 6 weeks | Dilute 1:10 to 1:15 | Quick nutrient boost, [[comparison-foliar-feeding-vs-compost-tea-nutrients]] | Heavy feeders, fruiting plants |
 | Comfrey tea (aerated) | 1 to 2 weeks | Dilute 1:5 to 1:10 | Microbe-rich, less odor | All garden plants |
 | Compost addition | None | Layer in pile | Accelerates decomposition | Compost piles, bins |
 | Root cuttings | 2 to 4 weeks to sprout | Plant 2 to 5 cm pieces | Propagation | Establishing new patches |

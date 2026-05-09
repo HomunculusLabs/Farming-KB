@@ -31,11 +31,11 @@ Mycorrhizal fungi form symbiotic relationships with plant roots — the fungi ge
 ### Endomycorrhizae (Arbuscular Mycorrhizal Fungi — AMF)
 - **Penetrate** root cells and extend hyphae outward into soil
 - Associated with most vegetables, annuals, grasses, legumes, shrubs
-- Form arbuscules (tree-like structures) inside root cells for nutrient exchange
+- Form arbuscules (tree-like structures) inside root cells for [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
 - Produce **glomalin** — a sticky glycoprotein that contributes 27-30% of soil carbon and builds soil structure
 - No above-ground fruiting body (no mushrooms)
 - Reproduce via spores in soil (50-400 micrometers)
-- **This is the type relevant to cannabis cultivation**
+- **This is the type relevant to [[query-how-does-no-till-cannabis-cultivation-work]]**
 
 ### Ectomycorrhizae
 - Form dense sheath **around** root surfaces, do not penetrate cells
@@ -99,7 +99,7 @@ Mycorrhizal fungi form symbiotic relationships with plant roots — the fungi ge
 - Avoid synthetic P boosters during veg (especially "bloom boosters" with high P)
 - Keep soil covered with mulch layer for fungal habitat
 - Fungal-dominated [[compost-tea-aact]] supports mycorrhizal maintenance
-- Mycorrhizal networks can connect cannabis plants, sharing nutrients
+- [[dighton-mycorrhizal-networks-carbon-transfer]] can connect cannabis plants, sharing nutrients
 
 ## Deep Science: Evolution and Mechanisms
 
@@ -118,12 +118,12 @@ Mycorrhizal fungi form symbiotic relationships with plant roots — the fungi ge
 ### Bioprotection
 - Some mycorrhizal fungi **secrete antibiotics** that protect hosts from parasitic fungi and bacteria
 - AMF act as bioprotectants against pathogens and toxic stresses (heavy metals, salinity)
-- Biological nitrogen fixation by Rhizobium in legumes can be **enhanced by co-infection with AMF** (Xavier and Germida 2002)
+- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation by Rhizobium in legumes can be **enhanced by co-infection with AMF** (Xavier and Germida 2002)
 
 ### Role in Ecosystem Sustainability
-- Mycorrhizal networks are **critical for ecosystem restoration** — degraded soils often lack mycorrhizal inoculum
+- Mycorrhizal networks are **critical for ecosystem restoration** — degraded soils often lack [[arbuscular-mycorrhizal-inoculum-production-best-practices]]
 - In sustainable agriculture, AMF reduce dependency on phosphorus fertilizers by 25-60%
-- Fungal networks create **"common mycorrhizal networks" (CMNs)** that connect multiple plants, enabling resource sharing and signaling between individuals
+- Fungal networks create **"common mycorrhizal networks" (CMNs)** that connect multiple plants, enabling [[mycelial-network-resource-sharing-plants]] and signaling between individuals
 - These networks may transmit **chemical warning signals** about pathogen attack between connected plants
 - Mycoremediation leverages mycorrhizal fungi to **clean contaminated soils** — they can sequester heavy metals and degrade organic pollutants
 

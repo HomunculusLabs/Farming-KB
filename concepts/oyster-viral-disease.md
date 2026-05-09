@@ -10,8 +10,8 @@ type: concept
 
 # Oyster Mushroom Viral Disease
 
-Viral diseases in oyster mushroom (Pleurotus spp.) cultivation are poorly
-documented compared to bacterial and fungal diseases, yet they occur
+[[cervantes-viral-diseases-cannabis]] in oyster mushroom (Pleurotus spp.) cultivation are poorly
+documented compared to [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] diseases, yet they occur
 sporadically and can cause devastating losses on affected farms. Unlike green
 mold or brown blotch diseases, which have well-characterized pathogens and
 established control protocols, viral diseases remain enigmatic with limited
@@ -20,7 +20,7 @@ research and no available cure once infection takes hold.
 ## Causal Agents
 
 Two isometric viruses, designated OMIV-I and OMIV-II (oyster mushroom
-isometric virus I and II), have been isolated from oyster mushrooms showing
+isometric virus I and II), have been isolated from [[query-how-to-grow-oyster-mushrooms-at-home]] showing
 viral disease symptoms. Both viruses share identical particle sizes of 30nm
 in diameter but differ in their coat proteins and double-stranded RNA (dsRNA)
 content. In addition to these two pathogenic viruses, a third isometric virus
@@ -32,7 +32,7 @@ cryptic virus and disease symptoms is not yet understood.
 
 The clinical presentation of viral disease in oyster mushrooms closely
 resembles "La France disease," a well-characterized viral disease of button
-mushrooms (Agaricus bisporus). Major symptoms include:
+mushrooms ([[genetic-improvement-agaricus-bisporus-molecular-approaches]]). Major symptoms include:
 
 - **Delayed fruiting**: Infected mushroom beds may show significant delays
   in fruiting body formation, reducing total crop cycles per season.
@@ -60,7 +60,7 @@ mushroom viral disease, where spores or mycelial fragments from infected
 mushrooms may transfer viral particles, but this has not been experimentally
 confirmed.
 
-The sporadic nature of viral outbreaks in oyster mushroom cultivation
+The sporadic nature of viral outbreaks in oyster [[accessible-mushroom-cultivation-for-disabilities]]
 suggests that transmission may require specific conditions or vectors that
 are not yet identified. The cryptic virus found in healthy tissue raises
 additional questions about whether latent infections can become pathogenic
@@ -73,7 +73,7 @@ the symptoms directly impair fruiting body development, the economic impact
 is felt through:
 
 - Reduced number of harvestable flushes per crop cycle
-- Lower biological efficiency on affected substrate
+- Lower [[stamets-biological-efficiency-yield]] on affected substrate
 - Unmarketable mushrooms due to abnormal morphology
 - Complete substrate loss when fruiting fails entirely
 - Contaminated spawn stock if the virus enters the spawn production chain
@@ -127,4 +127,7 @@ La France virus pathogen.
 
 - [[oyster-brown-blotch-disease]]
 - [[oyster-fruiting-abnormalities]]
-- [[mushroom-grain-spawn-preparation]]
+- mushroom-grain-spawn-preparation
+- [[agaricus-bisporus]]
+- [[spawn-production]]
+- [[fruiting-body-development]]

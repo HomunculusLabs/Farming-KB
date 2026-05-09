@@ -12,18 +12,18 @@ type: entity
 
 **Type:** Species
 **Category:** Basidiomycete
-**Also known as:** Pink Oyster Mushroom, Pleurotus flabellatus,
+**Also known as:** Pink [[cotter-oyster-mushroom-cultivation]], [[pleurotus-flabellatus]],
 Pleurotus salmoneo-stramineus, Pleurotus flabellarus
 
 ## Overview
 
-Pleurotus djamor, commonly called the Pink Oyster Mushroom, is a
+Pleurotus djamor, commonly called the Pink [[mushroom-cultivation-disabilities-oyster-mushroom-guide]], is a
 strikingly colorful tropical species and one of the most visually
 distinctive members of the Oyster mushroom genus. Its vibrant pink to
 salmon coloration makes it exceptionally popular at farmers markets and
-among specialty mushroom enthusiasts. As a tropical species, it requires
+among [[specialty-mushroom-species]] enthusiasts. As a tropical species, it requires
 warm temperatures for cultivation and is well-suited to straw-based
-growing systems used throughout subtropical and tropical regions.
+growing systems used throughout subtropical and [[fukuoka-natural-farming-in-tropical-regions]].
 
 ## Key Details
 
@@ -52,7 +52,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -102,7 +102,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
@@ -112,4 +112,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

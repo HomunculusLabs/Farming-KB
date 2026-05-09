@@ -126,16 +126,19 @@ structures, number of trichospore appendages, presence or absence of
 trichospore collars, and zygospore type. In Asellariales the holdfast
 is especially important, while Eccrinales identification emphasizes
 thallus shape, size, and sporangiospore types. Water mounts are
-preferred for microscopic examination to preserve fine details such as
+preferred for [[fungal-microscopic-examination-mounting-media-techniques]] to preserve fine details such as
 trichospore appendages, with lactophenol cotton blue added after
 initial study. Excellent keys are available from Lichtwardt (1986) and
 subsequent publications.
 
 ## Related
 
-- [[biodiversity-fungi-aquatic-environments]] — broader context of
-  fungal diversity in aquatic systems
-- [[biodiversity-fungal-culture-media]] — media for isolating gut
+- biodiversity-fungi-aquatic-environments — broader context of
+  [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] in aquatic systems
+- [[fungal-culture-media]] — media for isolating gut
   fungi and related microorganisms
 - [[biodiversity-fungal-molecular-identification-dna-barcoding]] —
-  molecular approaches to identifying trichomycete taxa
+  [[staycare-molecular-approaches-fungal-bioremediation]] to identifying trichomycete taxa
+- [[guzman-africa-neurotropic-fungi-underexplored-biodiversity]]
+- [[biodiversity-of-fungi-ecosystem-services-agriculture]]
+- [[biodiversity-nematophagous-predatory-fungi]]

@@ -1,15 +1,16 @@
 ---
-title: Keyhole Garden Design
+title: comparison-keyhole-garden-vs-raised-bed Design
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [gardening, permaculture, water-management, sustainability, compost, design]
-sources: []
+sources:
+  sources: []
 ---
 
 # Keyhole Garden Design
 
-A keyhole garden is a raised, circular garden bed with a central compost basket and a wedge-shaped notch (the "keyhole") that provides access to the center. Originally developed in Africa for drought-prone regions, keyhole gardens combine composting, water conservation, and intensive vegetable production in a compact, accessible design.
+A keyhole garden is a raised, circular garden bed with a central compost basket and a wedge-shaped notch (the "keyhole") that provides access to the center. Originally developed in Africa for drought-prone regions, keyhole gardens combine composting, water conservation, and intensive [[dry-gardening-unirrigated-vegetable-production-solomon]] in a compact, accessible design.
 
 ## Origin and Purpose
 
@@ -20,7 +21,7 @@ Key advantages of the keyhole design:
 - **Integrated composting:** A central basket continuously feeds the garden with nutrients from kitchen scraps and yard waste
 - **Water efficiency:** The compost basket distributes moisture throughout the bed via wicking action
 - **Accessibility:** The raised bed design reduces bending; the keyhole path provides easy access to the entire bed from one spot
-- **Intensive production:** The circular design maximizes growing area per square foot
+- **[[mollison-designers-market-garden-intensive-production-design]]:** The circular design maximizes growing area per square foot
 - **Soil building:** Continuous composting builds rich, living soil over time
 
 ## Design and Dimensions
@@ -94,7 +95,7 @@ The circular shape creates microclimates:
 
 The keyhole garden's compact space benefits from companion planting:
 
-- **Three sisters:** Corn (center support), beans (nitrogen fixation), squash (ground cover) in adjacent sections
+- **Three sisters:** Corn (center support), beans ([[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]), squash (ground cover) in adjacent sections
 - **Tomato + basil + marigold:** Classic combination for pest deterrence
 - **Carrots + onions:** Companion planting that deters each other's pests
 
@@ -130,7 +131,7 @@ Because the central compost basket continuously feeds the soil, you can replant 
 
 The central basket is the engine of the keyhole garden:
 
-- **What to add:** Kitchen scraps (vegetable peels, fruit waste, coffee grounds, eggshells), yard waste (grass clippings, leaves, small prunings), green manure, aged manure
+- **What to add:** Kitchen scraps (vegetable peels, fruit waste, [[oyster-mushroom-coffee-grounds-cultivation]], eggshells), yard waste (grass clippings, leaves, small prunings), green manure, aged manure
 - **What to avoid:** Meat, dairy, oils, diseased plant material, pet waste, weed seeds
 - **Layer green and brown:** Alternate nitrogen-rich (green) and carbon-rich (brown) materials for balanced decomposition
 - **Keep it moist:** The basket should be damp like a wrung-out sponge
@@ -141,13 +142,9 @@ As the compost breaks down, it shrinks. Keep topping it up with fresh materials.
 ## Maintenance
 
 - **Mulch:** Apply 2-3 inches of organic mulch to the soil surface to retain moisture and suppress weeds
-- **Replenish soil:** Add compost to the top layer annually
-- **Rebuild the wall:** Check stone or block walls annually for settling or displacement
-- **Basket maintenance:** If the wire basket degrades, replace it (every 2-4 years depending on material)
-
 ## Related Concepts
 
 - [[wicking-bed-construction]] for another water-efficient raised bed approach
 - [[herb-spiral-construction]] for microclimate-based planting design in a compact space
-- [[garden-bed-designs]] for another circular, intensive garden layout
-- [[herb-spiral-design]] — Herb Spiral Design is a classic permaculture pattern that, like keyhole gardens, maximizes growing space and edge effects.
+- [[garden-bed-designs]] for another circular, [[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]] layout
+- [[herb-spiral-design-guide]] — Herb Spiral Design is a classic permaculture pattern that, like keyhole gardens, maximizes growing space and edge effects.

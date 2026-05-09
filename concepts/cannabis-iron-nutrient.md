@@ -1,5 +1,5 @@
 ---
-title: Cannabis Iron Nutrient
+title: query-how-to-identify-and-fix-cannabis-iron-deficiency Nutrient
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -30,7 +30,7 @@ Iron is a [[query-how-to-fix-zinc-deficiency-in-cannabis]], and [[cannabis-coppe
 - Damaged or rotten roots also lower iron uptake
 - Increase root-zone temperature
 - Apply chelated iron in liquid form to root zone
-- Protect nutrient solution from light, which decomposes chelates
+- Protect [[cannabis-nutrient-solution-preparation]] from light, which decomposes chelates
 - Leaves should green up in four to five days
 - Complete, balanced hydroponic nutrients contain iron; deficiencies are seldom a problem with quality fertilizers
 
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

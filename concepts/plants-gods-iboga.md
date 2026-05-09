@@ -21,7 +21,7 @@ secrets.
 
 ## Chemical Constituents
 
-Chemical studies on Tabernanthe iboga have shown at least a dozen indole
+Chemical studies on [[plants-of-the-gods-tabernanthe-iboga-chemistry]] have shown at least a dozen indole
 alkaloids, the most important being:
 
 - **Ibogaine** (C20H26N2O): The primary psychoactive alkaloid,
@@ -29,7 +29,7 @@ alkaloids, the most important being:
   leads to extraordinary visions; an overdose can cause paralysis and
   death. The effects of ibogaine, in toxic doses, lead to extraordinary
   visions; an overdose, to paralysis and death.
-- **Ibogamine**: A related indole alkaloid found in the root bark.
+- **Ibogamine**: A related [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] found in the root bark.
 - **Tabernanthine**: Another active constituent of the iboga-type
   alkaloid family.
 - **Voacangine**: Present in smaller quantities, also found in
@@ -49,7 +49,7 @@ encounters with ancestral spirits and profound personal revelations.
 
 The pharmacology of ibogaine is notable for its extremely long duration
 of action, with effects lasting 12-36 hours or more. The plant is
-considered dangerous, with a narrow therapeutic index. At high doses,
+considered dangerous, with a narrow [[cannabis-therapeutic-index-overview]]. At high doses,
 the effects progress from visions to ataxia, paralysis, and potentially
 fatal respiratory depression.
 
@@ -60,7 +60,7 @@ Voacanga contain ibogaine-like alkaloids.
 
 ## Cultural and Historical Significance
 
-The Bwiti cult represents a complex syncretic religion that blends
+The [[iboga-and-the-bwiti-cult-initiation]] represents a complex syncretic religion that blends
 indigenous Fang spiritual practices with elements of Christianity. Iboga
 is the central sacrament, consumed during the intensive initiation
 ceremony known as "breaking of the bones," in which large doses of root
@@ -77,15 +77,17 @@ to the power and prestige of the Iboga experience.
 
 Ibogaine has attracted significant scientific interest for its reported
 anti-addictive properties, particularly in interrupting dependence on
-opioids, alcohol, and stimulants. Clinical research has been conducted
+opioids, alcohol, and stimulants. [[hofmann-lsd-clinical-research-early-studies]] has been conducted
 in several countries, though large-scale controlled trials remain
 limited. Ibogaine is classified as a Schedule I controlled substance in
-the United States. In several countries, including Gabon (where it is
+the [[dmt-containing-plants-united-states-halpern]]. In several countries, including Gabon (where it is
 a protected national cultural treasure), its traditional use is legally
 protected. Iboga therapy clinics operate in Mexico, Costa Rica, and
 other jurisdictions.
 
 ## See Also
+
+- [[plants-gods-nicotiana]]
 
 - [[plants-gods-ayahuasca]] for another major entheogenic tradition
 - [[plants-gods-peyote]] for comparison with another culturally central

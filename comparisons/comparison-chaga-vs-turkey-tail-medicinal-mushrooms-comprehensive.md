@@ -17,14 +17,14 @@ sources:
 
 ## At a Glance
 
-| Feature | **Chaga** (*Inonotus obliquus*) | **Turkey Tail** (*Trametes versicolor*) |
+| Feature | **Chaga** (*[[inonotus-obliquus]]*) | **Turkey Tail** (*[[staycare-trametes-versicolor-bioremediation-applications]]*) |
 |---|---|---|
 | **Common name** | Chaga, sterile conk, clinker polypore | Turkey tail, cloud mushroom, yun zhi (云芝) |
 | **Taxonomic family** | Hymenochaetaceae | Polyporaceae |
 | **Growth form** | Sterile conk (sclerotium) on living birch | Shelf/bracket polypore on dead hardwood |
 | **Primary part used** | Sclerotial mass (conk) | Fruit body (cap) |
-| **Geographic range** | Northern hemisphere, boreal forests (40°–65°N) | Worldwide, temperate and tropical forests |
-| **Key bioactives** | Betulin/betulinic acid, inotodiol, hispolon, melanin, β-glucans (PSK-type) | Polysaccharopeptide (PSP), Polysaccharide-K (PSK, krestin), β-glucans |
+| **Geographic range** | Northern hemisphere, [[fungal-diversity-boreal-forests-taiga]] (40°–65°N) | Worldwide, temperate and tropical forests |
+| **Key bioactives** | Betulin/betulinic acid, inotodiol, [[hispolon]], melanin, β-glucans (PSK-type) | Polysaccharopeptide (PSP), Polysaccharide-K (PSK, krestin), β-glucans |
 | **Star compound** | Betulinic acid (from birch substrate conversion) | PSK / PSP (protein-bound polysaccharides) |
 | **Primary traditional use** | General tonic, cancer folk remedy (Siberia), anti-inflammatory, longevity | Cancer adjunct therapy (Japan/China), immune support, liver protection |
 | **Strongest clinical evidence** | Antioxidant, anti-inflammatory, anti-diabetic (preclinical) | Immune modulation in cancer (extensive clinical data, especially PSK) |
@@ -39,7 +39,7 @@ sources:
 
 ### Chaga (*Inonotus obliquus*)
 
-Chaga is unique among medicinal mushrooms because much of its bioactivity derives from compounds that originate in the **birch host tree** (*Betula* spp.) and are bio-transformed by the fungus:
+Chaga is uniqu  ushrooms because much of its bioactivity derives from compounds that originate in the **birch host tree** (*Betula* spp.) and are bio-transformed by the fungus:
 
 - **Betulin and betulinic acid:** Chaga converts betulin (from birch bark) into betulinic acid, a pentacyclic triterpenoid with documented anti-cancer, anti-inflammatory, and antiviral activity. Betulinic acid induces apoptosis in cancer cells via mitochondrial pathways while sparing normal cells.
 - **Inotodiol:** A triterpenoid unique to *Inonotus* species with anti-inflammatory, antitumor, and hepatoprotective properties.
@@ -56,8 +56,8 @@ Turkey tail's medicinal value centers on its **protein-bound polysaccharides**, 
 - **Polysaccharopeptide (PSP):** A closely related protein-bound polysaccharide isolated from Chinese strains of *T. versicolor*. PSP is approved as a cancer drug in China. It has a slightly different protein component than PSK but similar immunomodulatory mechanisms.
 - **β-glucans:** The general class of immunomodulatory polysaccharides found in the fungal cell wall.
 - **Triterpenes:** Present in smaller quantities than chaga; include trametenolic acid and eburicoic acid.
-- **Sterols:** Ergosterol and ergosterol peroxide with anti-inflammatory activity.
-- **Phenolic compounds:** Including p-coumaric acid, baicalein, and quercetin derivatives contributing to antioxidant activity.
+- **Sterols ergosterol erol and ergosterol peroxide with anti-inflammatory activity.
+- **Phenolic compounds:** Including p-coumaric acid, baicalein, quercetin etin derivatives contributing to antioxidant activity.
 
 ## Clinical Evidence Compared
 
@@ -92,7 +92,7 @@ This is the area of greatest divergence between the two fungi:
 
 Both mushrooms exhibit anti-inflammatory activity, but through different mechanisms:
 
-- **Chaga:** Suppresses NF-κB and MAPK inflammatory pathways via betulinic acid and inotodiol. Strong effects in models of inflammatory bowel disease and arthritis.
+- **Chaga:** Suppresses NF-κB and MAPK inflammatory pathways via betulinic acid and inotodiol. Strong effects in models of [[blesching-cannabis-inflammatory-bowel-disease]] disease and arthritis.
 - **Turkey Tail:** PSP and PSK modulate cytokine production (reducing TNF-α, IL-6, IL-1β) and inhibit COX-2 and iNOS expression. Anti-inflammatory effects are secondary to immunomodulation.
 
 ### Metabolic Health
@@ -111,11 +111,11 @@ Turkey tail has limited data on metabolic health, though some studies suggest li
 - **Cannot be reliably cultivated.** The sterile conk forms only on living birch trees infected with *I. obliquus*, and the fungus must grow inside the tree for 5–15 years before producing a harvestable conk.
 - **Wild harvest is the only commercial source.** Sustainable harvesting guidelines: harvest only from trees >10 cm diameter, take no more than 40% of the visible conk, leave a portion for regrowth, and rotate harvest sites.
 - **Over-harvesting** is a growing concern, particularly in Siberia, Canada, and northern Europe. Some regions have implemented harvest quotas.
-- **Substrate-grown "chaga"** (mycelium on grain or wood substrate) is commercially available but has a fundamentally different phytochemical profile — it lacks betulin/betulinic acid since no birch bark is present. Products from mycelium-on-grain are mostly starch from the grain, not true chaga compounds.
+- **Substrate-grown "chaga"** ([[mycelium]] on grain or wood substrate) is commercially available but has a fundamentally different phytochemical profile — it lacks betulin/betulinic acid since no birch bark is present. Products from mycelium-on-grain are mostly starch from the grain, not true chaga compounds.
 
 ### Turkey Tail
 
-- **Easily cultivated** on hardwood sawdust (oak, beech, maple), straw, and supplemented substrates. Fruiting occurs within 4–8 weeks on supplemented sawdust blocks.
+- **Easily cultivated** on hardwood sawdust (oak, beech, maple), straw, and supplemented substrates. Fruiting occurs within 4–8 weeks on [[oyster-mushroom-supplemented-sawdust-blocks]] blocks.
 - **Log cultivation** is also straightforward — inoculate hardwood logs with plug or sawdust spawn; fruiting occurs after 6–12 months.
 - **Consistent quality** is achievable through controlled cultivation, ensuring standardized PSK/PSP content.
 - **Wild harvest** is common and sustainable; the mushroom is abundant and fast-growing on dead hardwood worldwide.
@@ -124,7 +124,7 @@ Turkey tail has limited data on metabolic health, though some studies suggest li
 
 ### Chaga
 
-- **Hot water extraction** (decoction): Effective for β-glucans and water-soluble polysaccharides. Traditional preparation involves simmering chunks for 1–4 hours. Does NOT extract triterpenes (betulinic acid, inotodiol).
+- **Hot water extraction** (decoction): Effective for β-glucans and water-soluble polysaccharides. [[kava-traditional-preparation-ceremonial-context]] involves simmering chunks for 1–4 hours. Does NOT extract triterpenes (betulinic acid, inotodiol).
 - **Dual extraction** (water + ethanol): Essential for full-spectrum benefits. Water extraction for polysaccharides, followed by ethanol extraction for triterpenes and phenolic compounds. This is the recommended form for supplements.
 - **Tincture:** 1:4 or 1:5 ratio in 30–40% ethanol. Limited extraction of water-soluble β-glucans.
 - **Tea:** Traditional and pleasant (earthy, vanilla-like flavor from vanillin, a betulin derivative). Limited bioactive extraction compared to dual extracts.
@@ -132,7 +132,7 @@ Turkey tail has limited data on metabolic health, though some studies suggest li
 ### Turkey Tail
 
 - **Hot water extraction:** Standard for PSK/PSP production — these protein-bound polysaccharides are water-soluble. Simmer or decoct for 30–60 minutes.
-- **Alcohol extraction:** Not typically needed for PSK/PSP, though it can extract minor triterpenes and sterols.
+- **[[pf-tek-alcohol-extraction-method]]:** Not typically needed for PSK/PSP, though it can extract minor triterpenes and sterols.
 - **Commercial extracts:** PSK is produced through hot water extraction followed by ethanol precipitation. PSP uses a similar process.
 - **Tea:** Less palatable than chaga; somewhat bitter and earthy. Requires longer simmering than chaga for adequate extraction.
 

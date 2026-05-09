@@ -1,25 +1,25 @@
 ---
-title: Cover Grass and Green Manure Cultivation
+title: Cover Grass and comparison-green-manure-guide-vs-mulch-types-and-effects Cultivation
 created: 2026-04-28
 tags: [fukuoka, natural-farming, ground-cover, weed-ecology, green-manure]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+  sources: []
 type: concept
 ---
 
 # Cover Grass and Green Manure Cultivation
 
 The method of cover grass and green manure cultivation is central to the
-no-weeding principle in natural farming. Rather than fighting against weeds,
-this approach works with them, using desirable ground covers to suppress
+no-weeding principle in [[comparison-natural-farming-vs-permaculture]]. Rather than fighting against weeds,
+this approach works with them, using desirable [[permaculture-plants-food-forest-ground-covers-bamboos]] to suppress
 undesirable ones while simultaneously enriching the soil and preventing
 erosion.
 
 ## From Grass Cover to Clover
 
-In his citrus orchard, Fukuoka first attempted cultivation under a cover of
+In his [[fukuoka-citrus-orchard-establishment-bare-hillside]], Fukuoka first attempted cultivation under a cover of
 grass, then switched to green manure cultivation. Eventually he arrived at a
 ground cover of clover and vegetables with no weeding, tillage, or
 fertilizer. When weeds are a problem, it is wiser to remove weeds with weeds
@@ -46,7 +46,7 @@ to drive out a large number of other weeds. If the farmer were to grow
 grasses or [[orchard-management]], which
 insists on maintaining bare soil between tree rows through repeated herbicide
 application or mechanical cultivation. Bare soil is exposed to erosion, loses
-organic matter rapidly, and becomes dependent on chemical inputs to maintain
+[[hamilton-composting-and-organic-matter-management]] rapidly, and becomes dependent on chemical inputs to maintain
 fertility. The living ground cover, by contrast, builds soil health
 continuously.
 
@@ -54,7 +54,7 @@ continuously.
 
 What about the case of crops such as rice or barley? The coexistence of
 surface plants is true to nature, and the no-weeding principle applies also
-to rice and barley cultivation. But because the presence of weeds among the
+to rice and [[fukuoka-textdoc-barley-cultivation-three-stage-no-tillage-evolution]]. But because the presence of weeds among the
 rice and barley interferes with harvesting, these weeds have to be replaced
 with some other herb.
 
@@ -93,7 +93,7 @@ shrubs as slowing the growth of trees, one should feel instead a sense of
 wonder and amazement at the ability of these plants to grow together in this
 way.
 
-The [[fukuoka-white-clover-cover-crop-system]] is one
+The  is one
 practical expression of this principle, providing a template for how
 [[ground-cover-plants]] create
 channels for water infiltration and air exchange, improving soil structure

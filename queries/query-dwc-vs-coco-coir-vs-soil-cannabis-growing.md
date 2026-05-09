@@ -1,5 +1,5 @@
 ---
-title: "DWC vs Coco Coir vs Soil: Which Growing Medium Is Right for Cannabis"
+title: "DWC vs comparison-coco-coir-cannabis-vs-peat-free-gardening vs Soil: Which Growing Medium Is Right for Cannabis"
 created: 2026-04-28
 tags: [query, cannabis, growing-mediums, hydroponics, soil]
 date: 2026-04-25
@@ -14,8 +14,8 @@ type: query
 Soil is the most forgiving and beginner-friendly medium, offering natural nutrient
 buffering and a living microbiome that supports complex terpene development. Coco coir
 provides a middle ground with faster growth than soil but requires more frequent
-feeding. Deep water culture delivers the fastest growth rates and highest yields but
-demands precise monitoring of pH, nutrients, and dissolved oxygen, making it best
+feeding. [[cannabis-deep-water-culture-guide]] delivers the fastest growth rates and highest yields but
+demands precise monitoring of pH, nutrients, and [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]], making it best
 suited for experienced growers with time for daily maintenance.
 
 ## Detailed Explanation
@@ -25,7 +25,7 @@ cultivator makes. Each option offers distinct advantages and trade-offs that aff
 growth speed, yield potential, flavor profile, labor requirements, and the margin for
 error. Understanding these differences helps growers select the system that matches
 their experience level, available time, and cultivation goals. The [[cannabis-indoor-soil-mix-and-preparation]] provides natural nutrient buffering
-through cation exchange capacity, meaning small feeding mistakes are absorbed and
+through [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity, meaning small feeding mistakes are absorbed and
 corrected by the soil matrix rather than immediately harming the plant. Living soil
 systems, as described in [[no-till-cannabis]] method builds on
 living soil principles by reusing the same soil across multiple grows.
@@ -33,7 +33,7 @@ living soil principles by reusing the same soil across multiple grows.
 Coco coir has become increasingly popular as a soilless medium that balances
 performance with manageability. Made from the fibrous husk of coconut shells,
 [[deep-water-culture]], suspends plant roots directly in
-oxygenated nutrient solution. This eliminates the medium entirely, giving roots
+oxygenated [[cannabis-nutrient-solution-preparation]]. This eliminates the medium entirely, giving roots
 unrestricted access to water, nutrients, and dissolved oxygen. The result is
 dramatically faster growth and often the highest yields of any growing method. However,
 DWC systems demand constant attention. The nutrient solution pH must be monitored and
@@ -50,7 +50,7 @@ but with added complexity and vulnerability to pump failures. [[nutrient-film-te
 hydroponic approach where a thin film of nutrient solution flows continuously over
 roots.
 
-The choice also affects pest and disease management. Soil can harbor fungus gnat
+The choice also affects pest and [[plant-disease-management-solomon]]. Soil can harbor fungus gnat
 larvae, making [[integrated-pest-management]] practices should be part of every grow operation.
 Container choice also matters; [[cannabis-watering-schedule-and-frequency]] guide provides frameworks for soil watering based on plant stage
 and environmental conditions. Coco coir requires more frequent watering because it
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

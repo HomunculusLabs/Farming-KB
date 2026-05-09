@@ -61,7 +61,7 @@ Most unsettling of all is this: the content of television is not a vision but a 
 
 Thus the situation is an addictive and all-pervasive drug that delivers an experience whose message is whatever those who deal the drug wish it to be.
 
-Could anything provide a more fertile ground for fostering fascism and totalitarianism than this? In the United States, there are many more televisions than households, the average television set is on six hours a day, and the average person watches more than five hours a day — nearly one-third of their waking time.
+Could anything provide a more fertile ground for fostering fascism and totalitarianism than this? In the [[dmt-containing-plants-united-states-halpern]], there are many more televisions than households, the average television set is on six hours a day, and the average person watches more than five hours a day — nearly one-third of their waking time.
 
 Aware as we all are of these simple facts, we seem unable to react to their implications.
 
@@ -85,7 +85,7 @@ A double dose of TV therapy plus cocaine was ordered up for the errant hippies, 
 
 Only a recalcitrant few escaped this leveling of values. Nearly everyone learned to love Big Brother.
 
-And the few who don't are still clucked over by the dominator culture each time it compulsively scratches in the barnyard dust of its puzzlement over "what happened in the Sixties."
+And the few who don't are still clucked over by the [[mckenna-dominator-culture-and-suppression-of-ecstasy]] each time it compulsively scratches in the barnyard dust of its puzzlement over "what happened in the Sixties."
 
 ## The Broader Context: Heroin, Cocaine, and Government
 
@@ -133,11 +133,14 @@ This is the nightmarish reality that Marshall McLuhan and Wyndham Lewis foresaw:
 
 This is the ultimate consequence of having broken off the symbiotic relationship with the Gaian matrix of the planet. This is the consequence of lack of partnership; this is the legacy of imbalance between the sexes; this is the terminal phase of a long descent into meaninglessness and toxic existential confusion.
 
-The credit for giving us tools to resist this horror belongs to unsung heroes who are botanists and chemists, people such as Richard Schultes, the Wassons, and Albert Hofmann.
+The credit for giving us tools to resist this horror belongs to unsung heroes who are botanists and chemists, people such as [[mckenna-richard-schultes-harvard-ethnobotany-psychoactive-plants]], the Wassons, and Albert Hofmann.
 
 Thanks to them we have, in this most chaotic of centuries, taken into our frail hands the means to do something about our predicament. Psychology, in contrast, has been complacent and silent.
 
 ## Related
+
+- [[mckenna-food-gods-fundamentalist-christianity-drug-war]]
+- [[mckenna-food-gods-television-drug-mass-hypnosis]]
 
 - [[mckenna-television-as-hidden-persuader]] Concepts
 

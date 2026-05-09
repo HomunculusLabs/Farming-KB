@@ -38,14 +38,14 @@ After full colonization (28 days), the grain was cased with a 2 cm deep layer co
 - **1 part calcium carbonate** (buffers pH to approximately neutral, which is optimal for fruiting initiation in most psilocybe species)
 - **2 parts perlite and/or vermiculite** (improves aeration and water-holding capacity while maintaining an open structure)
 
-The casing layer serves as a non-nutritive moisture reservoir that triggers fruiting by creating a humid microclimate at the substrate surface while exposing the mycelium to evaporative cues that stimulate pin formation. The calcium carbonate buffer is critical because peat moss is naturally acidic (pH 3.5 to 4.5), and most cultivated mushrooms fruit best near neutral pH.
+The casing layer serves as a non-nutritive moisture reservoir that triggers fruiting by creating a humid microclimate at the substrate surface while exposing the mycelium to evaporative cues that stimulate pin formation. The calcium carbonate buffer is critical because peat moss is naturally acidic (pH 3.5 to 4.5), and most [[fungi-cultivated-mushrooms-pathogens-competitors]] fruit best near neutral pH.
 
 ## Colonization Phase
 
 - The inoculated jars were shaken every four days for a 28-day period to distribute growing mycelium evenly across the rye grain substrate.
 - Regular shaking prevents the mycelium from forming dense mats that would impede even colonization and later moisture distribution through the substrate.
 - Full colonization was typically achieved by day 28, at which point the grain appeared completely white with mycelial growth throughout the jar.
-- The shaking protocol also serves to break up the mycelial network at regular intervals, which may stimulate more aggressive colonization by creating new growth points and distributing nutrients more evenly.
+- The shaking protocol also serves to break up the [[gadd-mycelial-network-dynamics]] at regular intervals, which may stimulate more aggressive colonization by creating new growth points and distributing nutrients more evenly.
 
 ## Fruiting Phase
 
@@ -60,7 +60,7 @@ The casing layer serves as a non-nutritive moisture reservoir that triggers frui
 - **Flush count**: Typically 5 to 6 flushes before the mycelium exhausted its productive capacity and stopped producing fruiting bodies
 - **Harvest timing**: Each flush was harvested as soon as sporocarps were mature, defined by veil expansion approaching or reaching the point of rupture
 
-The total yield of 2.7 g per jar, while modest by commercial standards, was sufficient for the analytical purposes of the study, which required only small quantities of material for high performance liquid chromatography analysis. The priority was reproducibility and experimental control rather than maximum biomass production.
+The total yield of 2.7 g per jar, while modest by commercial standards, was sufficient for the analytical purposes of the study, which required only small quantities of material for high performance liquid chromatography analysis. The priority was reproducibility and experimental control rather than maximum [[dighton-fungal-biomass-production-aquatic-ecosystems]].
 
 ## Advantages of the Miniculture Approach
 
@@ -76,7 +76,7 @@ The total yield of 2.7 g per jar, while modest by commercial standards, was suff
 - **Labor intensity**: Watering each jar individually with a syringe every two days becomes tedious and time-consuming at scale.
 - **Limited flush count**: Five to six flushes restrict the observation window for long-term metabolic studies. The authors noted they could generally not follow the decline phase of psilocin accumulation because cultures stopped fruiting after approximately five flushes.
 - **Rye grain limitations**: The nutrient profile of rye alone may not support optimal fruiting body development compared to supplemented or compost-based substrates.
-- **No environmental control data**: The paper does not specify temperature, humidity, or light conditions during fruiting, limiting reproducibility.
+- **No [[eclss-environmental-control-life-support]] data**: The paper does not specify temperature, humidity, or light conditions during fruiting, limiting reproducibility.
 
 ## Post-Harvest Handling
 
@@ -84,7 +84,7 @@ For their analytical work, Bigwood and Beug freeze-dried all harvested mushrooms
 
 ## Substrate and Strain Considerations
 
-The choice of rye grain as the substrate for the miniculture system was based on its availability, consistent particle size, and suitability for small-scale sterile preparation. Rye provides a balanced nutritional profile of carbohydrates, proteins, and minerals that supports robust mycelial colonization and fruiting. However, other substrates commonly used in mushroom cultivation may produce different yield and potency outcomes:
+The choice of rye grain as the substrate for the miniculture system was based on its availability, consistent particle size, and suitability for small-scale sterile preparation. Rye provides a balanced nutritional profile of carbohydrates, proteins, and minerals that supports robust mycelial colonization and fruiting. However, other substrates commonly used in [[accessible-mushroom-cultivation-for-disabilities]] may produce different yield and potency outcomes:
 
 - **Brown rice flour** (as used in PF Tek): Similar colonization characteristics to rye, widely available, and inexpensive. Yields per jar may be comparable.
 - **Whole brown rice**: Provides excellent nutrition and moisture retention, with some cultivators reporting higher yields than rye in small-scale systems.
@@ -96,7 +96,7 @@ The Amazonian strain used by Bigwood and Beug was not compared against other str
 
 Based on the methodology described by Bigwood and Beug and subsequent cultivation experience, several common issues can arise with the miniculture system:
 
-- **Contamination before casing**: The most common failure point is contamination during the 28-day colonization phase. Maintaining absolutely sterile technique during inoculation and using properly autoclaved jars and substrate is essential. Contaminated jars should be discarded immediately to prevent spore spread.
+- **Contamination before casing**: The most common failure point is contamination during the 28-day colonization phase. Maintaining absolutely [[cultivator-sterile-technique-and-agar-culture]] during inoculation and using properly autoclaved jars and substrate is essential. Contaminated jars should be discarded immediately to prevent spore spread.
 - **No fruiting after casing**: If the casing layer is too deep, too wet, or too dry, pinning may fail. The 2 cm depth specified in the method is a useful target, and moisture should be field capacity (squeezes into a ball without dripping water).
 - **Aborted pins**: Mushrooms that begin to form but stop growing and rot are often a sign of bacterial contamination in the casing layer or insufficient fresh air exchange. Increasing ventilation and reducing watering frequency can help.
 - **Low yields**: Yields significantly below the 2.7 g average may indicate suboptimal strain genetics, insufficient moisture during fruiting, or nutrient depletion of the rye grain substrate.

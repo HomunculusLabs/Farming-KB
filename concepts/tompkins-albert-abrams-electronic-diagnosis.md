@@ -1,5 +1,5 @@
 ---
-title: Albert Abrams and Electronic Diagnosis of Disease
+title: tompkins albert abrams electronic diagnosis and Electronic Diagnosis of Disease
 created: 2026-04-26
 tags: [history, alternative-medicine, electromagnetism, biophysics]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 
 # Albert Abrams and Electronic Diagnosis of Disease
 
-Dr. Albert Abrams (1863-1924), a San Francisco physician and professor
+Dr. Albert Abrams (1863-1924), a [[shipibo-san-francisco-ceremonial-center-ucayali]] physician and professor
 at Stanford University's medical school, developed a system of
 electronic diagnosis and treatment that was decades ahead of its time.
 His discovery that all matter is radioactive and that generated waves
@@ -32,7 +32,7 @@ electromagnetic fields of individuals.
 
 After months of experimentation, Abrams concluded that nerve fibers in
 the epigastric region react to radiant energy rippling from an X-ray
-instrument, and that in cancer patients these fibers were in a state of
+instrument, and that in [[cannabis-for-cancer-patients]] these fibers were in a state of
 permanent contraction except when the patient was oriented north-south.
 He concluded this was due to vibrating molecules forming cancerous
 growths emitting their own radiations.
@@ -62,7 +62,7 @@ effect from one reflexophone to another containing rheostats calibrated
 in units of 10, 1, and 1/25, he could determine not only what disease
 a person suffered from but to what stage it had advanced.
 
-If a woman had breast cancer, he could determine from her blood spot
+If a woman had [[blesching-cannabis-breast-cancer]], he could determine from her blood spot
 alone in which breast the cancer was located, merely by having a
 healthy subject point to his own breasts. In 1922, Abrams reported in
 the Physico-Clinical Journal that he had effected diagnosis over

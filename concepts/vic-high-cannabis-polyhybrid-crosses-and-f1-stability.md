@@ -1,5 +1,5 @@
 ---
-title: Cannabis Polyhybrid Crosses and F1 Stability
+title: vic high cannabis polyhybrid crosses and f1 stability Crosses and F1 Stability
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -26,11 +26,11 @@ Vic High frames a key question that every breeder must answer before starting: w
 
 1. **Reproducing individuals like the clone**: Simple backcrossing (cubing) will accomplish this. The seeds will produce plants that resemble the original clone with high probability.
 
-2. **Creating seeds that produce more seeds like the clone** (a true breeding strain): This is fundamentally different. It requires preserving all the visible genes while removing all the hidden ones that may show up in offspring. This requires creating homozygosity through selection and generational inbreeding.
+2. **Creating seeds that produce more seeds like the clone** (a true [[vic-high-true-breeding-strain-development-stabilization]]): This is fundamentally different. It requires preserving all the visible genes while removing all the hidden ones that may show up in offspring. This requires creating homozygosity through selection and generational inbreeding.
 
 Understanding this distinction is critical. Cubing preserves a phenotype but not genetic stability. Only generational inbreeding with selection can produce a self-sustaining true breeding strain.
 
-Vic High emphasises that a special clone is likely heterozygous for many of the traits she phenotypically expresses. She contains genetic information for two opposing traits, but only the dominant one is visible. Her seeds will only get one or the other of each gene, so her offspring will express all the genetic information she has, including recessive traits that are completely hidden within herself.
+Vic High emphasises that a special clone is likely heterozygous for many of the traits she phenotypically expresses. She contains genetic information for two opposing traits, but only the dominant one is visible. Her seeds will only get one or the other of each gene, so her offspring will express all the genetic information she has, including [[cervantes-dominance-recessive-traits-alleles]] that are completely hidden within herself.
 
 ## F2 Segregation: Where Variation Emerges
 
@@ -62,7 +62,7 @@ Most real cannabis traits -- flavour, potency, yield, flowering time -- are cont
 ### Two Recessive Genes Plus One Heterozygous Dominant Gene
 
 - Combined: 87.5% x 87.5% x 71.9% = 55%.
-- Going from one gene to three genes drops the success rate from 87.5% to 55%.
+- Going from one gene to three genes drops the [[maitake-fruiting-body-success-rate-management]] from 87.5% to 55%.
 
 ### The Pattern
 
@@ -108,7 +108,7 @@ Vic High's practical advice for preserving complex traits from a special individ
 2. If the goal is simply to reproduce individuals like the clone, backcrossing (cubing) is sufficient.
 3. If the goal is to create seeds that can produce more seeds like the clone (true breeding strain), generational inbreeding with selection is required.
 4. Work on one or two traits at a time to manage the multiplication problem.
-5. Apply maximum selection pressure, especially on males through progeny testing.
+5. Apply maximum selection pressure, especially on males through [[cervantes-progeny-testing-combining-ability]].
 6. Use gene frequency tracking to measure objective progress at each generation.
 
 ## Key Takeaways
@@ -124,3 +124,7 @@ Vic High's practical advice for preserving complex traits from a special individ
 - [[vic-high-true-breeding-strain-development-stabilization]]
 - [[vic-high-cannabis-phenotype-selection-criteria]]
 - [[clarke-marijuana-botany-genetics-breeding]]
+
+## See Also
+
+- [[vic-high-backcrossing-and-inbreeding-techniques]]

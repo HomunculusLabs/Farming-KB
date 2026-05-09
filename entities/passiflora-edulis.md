@@ -56,9 +56,9 @@ Passion fruit pulp is rich in vitamin C (approximately 30 mg/100 g), provitamin 
 
 The pulp contains dietary fiber (approximately 10 g/100 g), primarily from the seeds which are edible and rich in polyunsaturated fatty acids. Total carbohydrate content is approximately 23 g/100 g, with natural sugars of about 11 g/100 g.
 
-Flavor and aroma derive from a complex volatile profile dominated by esters (ethyl butyrate, ethyl hexanoate), terpenes (linalool), and sulfur compounds. Over 200 volatile compounds have been identified in passion fruit aroma.
+Flavor and aroma derive from a complex volatile profile dominated by esters (ethyl butyrate, ethyl hexanoate), terpenes (linalool), and sulfur compounds. Over 200 [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] have been identified in passion fruit aroma.
 
-Bioactive compounds include flavonoids (orientin, isoorientin, vitexin), phenolic acids, and carotenoids. Harman and harmol alkaloids contribute to the mild sedative properties traditionally attributed to the leaves and aerial parts.
+[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include flavonoids (orientin, isoorientin, vitexin), phenolic acids, and carotenoids. Harman and harmol alkaloids contribute to the mild sedative properties traditionally attributed to the leaves and aerial parts.
 
 ## Cultivation
 
@@ -76,7 +76,7 @@ Hand harvesting is standard, with fruits collected at the ripe stage when they d
 
 Passion fruit is primarily consumed as fresh fruit, juice, and concentrate. The juice is widely used in beverages, cocktails, dairy products, and confectionery. Passion fruit puree is a standard ingredient in tropical fruit blends and yogurt flavorings.
 
-The leaves and aerial parts have a long history of traditional medicinal use as an anxiolytic and sedative in South American and European herbal medicine. Commercial herbal preparations of Passiflora extract are available as tablets, tinctures, and teas.
+The leaves and aerial parts have a long history of traditional medicinal use as an anxiolytic and sedative in [[chiric-caspi-brunfelsia-south-american-hallucinogen]] and European herbal medicine. Commercial herbal preparations of Passiflora extract are available as tablets, tinctures, and teas.
 
 The rind, a byproduct of juice processing, contains pectin and dietary fiber suitable for food ingredient applications. Research has explored its use in biodegradable film production and animal feed supplementation.
 
@@ -86,13 +86,15 @@ Passion fruit seed oil, extracted by cold pressing, is rich in linoleic acid and
 
 Passiflora edulis leaves and vine parts have been used in traditional medicine across South America, Europe, and parts of Asia for centuries. Indigenous Tupi-Guarani peoples of Brazil used leaf infusions as a calming remedy and digestive aid.
 
-Pharmacological studies have identified flavonoid C-glycosides (orientin, isoorientin, vitexin, isovitexin) as the primary bioactive compounds responsible for anxiolytic activity. These compounds modulate GABA-A receptor binding, producing sedative effects without the side effects of benzodiazepines.
+Pharmacological studies have identified flavonoid C-glycosides (orientin, isoorientin, vitexin, isovitexin) as the primary bioactive compounds responsible for anxiolytic activity. These compounds modulate GABA-A [[tihkal-receptor-binding-serotonin]], producing sedative effects without the side effects of benzodiazepines.
 
-Clinical trials using Passiflora extract have demonstrated efficacy comparable to oxazepam for generalized anxiety disorder in some studies, with fewer reported adverse effects. Standardized extracts typically contain 0.5–2.0% total flavonoids calculated as vitexin.
+[[mushroom-cancer-clinical-trials-overview]] using Passiflora extract have demonstrated efficacy comparable to oxazepam for generalized anxiety disorder in some studies, with fewer reported [[blesching-cannabis-safety-adverse-effects-evidence]]. Standardized extracts typically contain 0.5–2.0% total flavonoids calculated as vitexin.
 
 The fruit pulp exhibits antioxidant, anti-inflammatory, and antimicrobial activities in vitro. Beta-carotene and vitamin C contribute to radical scavenging capacity, while dietary fiber supports prebiotic effects on gut microbiota.
 
 ## See Also
+
+- [[cordeauxia-edulis]]
 
 - [[mangifera-indica]]
 - [[persea-americana]]
@@ -102,7 +104,7 @@ The fruit pulp exhibits antioxidant, anti-inflammatory, and antimicrobial activi
 - [[manihot-esculenta]]
 - [[phaseolus-vulgaris]]
 - [[pachyrhizus-erosus]]
-- [[crotalaria-juncea]]
+- crotalaria-juncea
 - [[chenopodium-quinoa]]
 - [[eleusine-coracana]]
 - [[saccharum-officinarum]]

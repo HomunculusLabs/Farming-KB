@@ -1,5 +1,5 @@
 ---
-title: Sheet Composting
+title: solomon-sheet-composting-mulch-gardening
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -31,7 +31,7 @@ Sheet composting (also called in-situ composting or composting in place) decompo
 
 ### Green Manure Sheet Composting
 1. Grow a green manure crop (clover, vetch, rye, buckwheat)
-2. Cut the crop at flowering stage before seed set
+2. Cut the crop at [[cannabis-flowering-stage-management]] before seed set
 3. Leave the cut material on the soil surface as a mulch
 4. The roots decompose in place, improving soil structure
 5. The surface material suppresses weeds and retains moisture
@@ -40,7 +40,7 @@ Sheet composting (also called in-situ composting or composting in place) decompo
 - Chopped leaves (best if shredded by mower)
 - Grass clippings (thin layers to avoid matting)
 - Vegetable kitchen scraps (bury under leaves to deter pests)
-- Coffee grounds and tea bags
+- [[oyster-mushroom-coffee-grounds-cultivation]] and tea bags
 - Garden prunings (chopped small)
 - Straw or spoiled hay
 - Newspaper (plain black and white only)
@@ -48,7 +48,7 @@ Sheet composting (also called in-situ composting or composting in place) decompo
 
 ## Advantages Over Traditional Composting
 - No turning required — soil organisms do the work
-- Nutrients stay in place (no leaching from compost pile)
+- Nutrients stay in place (no leaching from [[mushroom-cultivator-compost-pile-management]])
 - Builds soil structure directly where plants will grow
 - Suppresses weeds during decomposition
 - Can cover large areas with minimal labor
@@ -60,8 +60,8 @@ Sheet composting (also called in-situ composting or composting in place) decompo
 - Nitrogen tie-up: fresh materials can temporarily lock up nitrogen
 
 ## Related
-- [[compost-building-guide]] — for traditional hot composting
-- [[green-manure-crops-detailed]] — for green manure crop selection
+- [[compost-building-guide]] — for traditional [[comparison-bokashi-vs-hot-composting-method]]
+- [[green-manure-crops-detailed]] — for green manure [[cover-crop-selection-guide]]
 - [[sheet-mulching-lasagna-gardening]] — for the layered lasagna method
 - [[soil-food-web-structure]] — for the organisms that do the work
 ## Practical Considerations
@@ -82,4 +82,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

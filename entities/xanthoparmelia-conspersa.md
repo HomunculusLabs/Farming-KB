@@ -12,7 +12,7 @@ sources:
   - Elix, J.A. (2009). "Xanthoparmelia in Australia." Flora of Australia Supplementary Series.
   - Hale, M.E. (1990). "A Monograph of Xanthoparmelia in South America." Bibliotheca Lichenologica, 54.
   - Nash, T.H. III et al. (2002). Lichen Flora of the Greater Sonoran Desert Region, Vol. 1. Arizona State University.
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens of North America. Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
 ---
 
 ## Overview
@@ -21,7 +21,7 @@ sources:
 
 The species is easily recognized by its pale grey to yellowish upper surface with brown marginal pustules. It is one of the most common saxicolous Xanthoparmelia species in the Northern Hemisphere.
 
-The thallus can reach diameters exceeding 15 centimeters on stable substrates. Like other Xanthoparmelia species, it produces usnic acid and atranorin as secondary metabolites.
+The thallus can reach diameters exceeding 15 centimeters on stable substrates. Like other Xanthoparmelia species, it produces usnic acid and atranorin as [[antifungal-secondary-metabolites-coprophilous-fungi]].
 
 ## Taxonomy and Morphology
 
@@ -61,7 +61,7 @@ It reaches its greatest abundance in continental climates with cold winters and 
 
 ## Chemistry and Bioactive Compounds
 
-Xanthoparmelia conspersa produces two major secondary metabolites in the cortex. Usnic acid is the primary constituent, providing UV protection and antimicrobial properties.
+Xanthoparmelia conspersa produces two major secondary metabolites in the cortex. Usnic acid is the primary constituent, providing UV protection and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
 
 Atranorin is the second major cortical compound, contributing to the characteristic yellowish colouration of the upper surface. Usnic acid from Xanthoparmelia species has demonstrated broad-spectrum antibacterial and antifungal activity in vitro.
 
@@ -69,9 +69,9 @@ Studies have shown activity against Gram-positive bacteria including Staphylococ
 
 Atranorin has documented antioxidant activity and moderate antimicrobial effects. It may act synergistically with usnic acid to enhance overall antimicrobial potency of the lichen thallus.
 
-Some Xanthoparmelia extracts have shown cytotoxic activity against certain cancer cell lines in laboratory studies. These findings remain preliminary and have not progressed to clinical trials.
+Some Xanthoparmelia extracts have shown cytotoxic activity against certain cancer cell lines in laboratory studies. These findings remain preliminary and have not progressed to [[mushroom-cancer-clinical-trials-overview]].
 
-Minor constituents may include trace amounts of salazinic acid or consalazinic acid in some chemotypes. These chemodemes have been documented from specific geographic populations in Mediterranean and South American material.
+Minor constituents may include trace amounts of salazinic acid or consalazinic acid in some chemotypes. These chemodemes have been documented from specific geographic populations in Mediterranean and [[chiric-caspi-brunfelsia-south-american-hallucinogen]] material.
 
 Chemical variation within the species has been studied using thin-layer chromatography and HPLC. Geographic chemotype patterns suggest multiple independent evolutionary lineages within what is currently treated as a single species.
 
@@ -89,7 +89,7 @@ Changes in population health and distribution have been documented in long-term 
 
 Local declines have been documented in heavily industrialized areas of Central Europe. Habitat loss from urbanization and quarrying represents the primary localized threat.
 
-Climate change may affect montane populations through shifts in temperature and precipitation regimes at higher elevations. Long-term monitoring programs have documented gradual upslope range shifts in several European mountain ranges.
+[[dighton-fungi-climate-change-feedback]] may affect montane populations through shifts in temperature and precipitation regimes at higher elevations. Long-term monitoring programs have documented gradual upslope range shifts in several European mountain ranges.
 
 ## Uses, Significance, and Related Species
 

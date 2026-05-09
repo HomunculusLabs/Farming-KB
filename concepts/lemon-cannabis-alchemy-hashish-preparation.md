@@ -1,5 +1,5 @@
 ---
-title: Preparation of Hashish from Cannabis Oil
+title: Preparation of Hashish from cervantes-hash-cannabis-oil-production
 created: 2026-04-28
 tags: [cannabis, hashish, preparation, oil, traditional]
 date: 2026-04-28
@@ -11,11 +11,11 @@ type: concept
 
 # Preparation of Hashish from Cannabis Oil
 
-Chapter 4 of *Cannabis Alchemy* by Ben Lemon describes how to prepare
-hashish from extracted cannabis oil by mixing it with finely powdered
+Chapter 4 of *[[lemon-cannabis-alchemy-advanced-refinement-techniques]]* by Ben Lemon describes how to prepare
+[[cannabis-hashish-from-extracted-oil-techniques]] cannabis oil by mixing it with finely powdered
 marijuana. This chapter bridges the extraction chemistry of the earlier
 chapters with traditional hashish-making techniques from various cannabis
-cultures around the world.
+cultures [[fungi-around-the-world-species-distribution]].
 
 ## Oil-to-Powder Ratios
 
@@ -113,7 +113,7 @@ traditional products from specific regions.
 The potency of the final hashish product depends on two factors: the
 quality and refinement of the oil used, and the oil-to-powder ratio. Oil
 that has undergone isomerization and acetylation will produce hashish
-far stronger than oil from a simple alcohol extraction.
+far stronger than oil from a simple [[pf-tek-alcohol-extraction-method]].
 
 Even at the minimum 15% oil content, hashish made with isomerized and
 acetylated oil can be significantly more potent than traditional

@@ -62,21 +62,21 @@ The principal bioactive constituents are piperidine alkaloids concentrated prima
 
 Total alkaloid content is highest during early flowering and declines as seeds mature. γ-Coniceine is the biosynthetic precursor to coniine and is significantly more toxic on a weight basis, though it is present in lower absolute quantities.
 
-The alkaloids are synthesized via a polyketide pathway using lysine as the starting amino acid. This pathway is relatively unusual among plant alkaloid biosynthetic routes. The biosynthetic conversion of lysine to γ-coniceine via cadaverine represents the committed step in piperidine alkaloid biosynthesis.
+The alkaloids are synthesized via a polyketide pathway using lysine as the starting [[cho-fish-amino-acid-preparation]]. This pathway is relatively unusual among plant alkaloid biosynthetic routes. The biosynthetic conversion of lysine to γ-coniceine via cadaverine represents the committed step in piperidine alkaloid biosynthesis.
 
-Environmental factors significantly influence alkaloid production. Drought stress, high nitrogen soils, and elevated temperatures all correlate with increased coniine concentrations. Plants grown in shaded conditions produce lower alkaloid levels than those in full sun.
+[[duggar-mushroom-environmental-factors-temperature-moisture-light]] significantly influence alkaloid production. Drought stress, high nitrogen soils, and elevated temperatures all correlate with increased coniine concentrations. Plants grown in shaded conditions produce lower alkaloid levels than those in full sun.
 
 The volatility of coniine at room temperature contributes to the plant's characteristic unpleasant odor when fresh foliage is handled. This property was historically noted as a warning sign to foragers, though the odor is not always detectable at low concentrations.
 
 ## Distribution and Habitat
 
-C. maculatus is native to temperate Europe, the Mediterranean basin, and North Africa. It has been widely introduced and naturalized in North America, South America, southern Africa, Australia, and New Zealand.
+C. maculatus is native to temperate Europe, the Mediterranean basin, and North Africa. It has been widely introduced and naturalized in [[psilocybin-north-america-pacific-northwest]], South America, southern Africa, Australia, and New Zealand.
 
 The species thrives in disturbed, nutrient-rich soils and is commonly found along roadsides, ditch banks, fence lines, river margins, and the edges of cultivated fields. It tolerates partial shade but prefers full sun and moist conditions.
 
 Optimal growth occurs at 15–25°C with annual precipitation above 600 mm. The plant is frost-tolerant and can persist in USDA hardiness zones 4–9. Soil pH preference ranges from slightly acidic to neutral (5.5–7.5).
 
-C. maculatus is a prolific seed producer, with individual plants generating 10,000–40,000 seeds. Seeds persist in the soil seed bank for 3–6 years, contributing to persistent infestations. The species is classified as a Class B noxious weed in several U.S. states.
+C. maculatus is a prolific seed producer, with individual plants generating 10,000–40,000 seeds. Seeds persist in the soil [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]] for 3–6 years, contributing to persistent infestations. The species is classified as a Class B noxious weed in several U.S. states.
 
 ## Pharmacology and Toxicology
 
@@ -106,9 +106,11 @@ In European folk medicine, poultices of hemlock leaves were applied to ulcers an
 
 During the 19th century, coniine was one of the first plant alkaloids isolated in pure form. Its pharmacological properties were studied extensively as a potential surgical muscle relaxant before synthetic alternatives became available.
 
-The species was introduced to North America as an ornamental and has become widely naturalized across the continental United States and southern Canada. It is classified as a noxious weed in many jurisdictions.
+The species was introduced to North America as an ornamental and has become widely naturalized across the continental [[dmt-containing-plants-united-states-halpern]] and southern Canada. It is classified as a noxious weed in many jurisdictions.
 
 ## See Also
+
+- [[conium-maculatum]]
 
 - [[aconitum-napellus]] — Monkshood, another neurotoxic plant with historical medicinal use
 - [[datura-stramonium]] — Jimsonweed, anticholinergic poisoning plant

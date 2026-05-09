@@ -1,5 +1,5 @@
 ---
-title: "2C-G-N (1,4-Dimethoxynaphthyl-2-ethylamine) -- PIHKAL Entry #31"
+title: "2C-G-N (1,4-Dimethoxynaphthyl-2-ethylamine) -- 2c-b-pihkal-entry-20 #31"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -66,7 +66,7 @@ A solution of 17.5 g 1,4-naphthaquinone in 200 mL MeOH was
 heated to the boiling point, and treated with 28.5 g stannous chloride
 at a rate that maintained a continuous rolling boil. At the
 completion of the addition, the reaction mixture was saturated with
-anhydrous hydrogen chloride, and held at reflux on the steam bath for
+anhydrous hydrogen chloride, and held at reflux on the [[scythian-cannabis-steam-bath-ritual]] for
 2 h. The reaction mixture was poured into 700 mL H2O and treated with
 
 aqueous NaOH. During the addition there was transient development of
@@ -87,7 +87,7 @@ to stand at room temperature for 0.5 h which produced a deep claret
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 

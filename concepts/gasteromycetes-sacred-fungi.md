@@ -22,7 +22,7 @@ Gasteromycetes (literally "stomach fungi") are a diverse group of fungi
 that produce spores internally, unlike agarics (gilled mushrooms) that
 produce spores on external gill surfaces. The group includes puffballs
 (Lycoperdon, Vascellum, Calvatia), earthstars (Geastrum), stinkhorns
-(Phallus, Dictyophora), bird's nest fungi (Nidularia), and false
+(Phallus, Dictyophora), bird's [[bloomfield-birds-nest-fungi-peridiole-splash-herbivore-dispersal]] (Nidularia), and false
 truffles (Hymenogaster). While most gasteromycetes are not known to
 contain psychoactive compounds, several species have been used as sacred
 or ceremonial fungi by indigenous peoples, as documented in the paper by
@@ -43,7 +43,7 @@ indigenous peoples of Mexico:
   than for L. candidum.
 
 - **Vascellum intermedium**: A puffball species in the genus
-  Vascellum, used in sacred mushroom practices in Mexico. Vascellum
+  Vascellum, used in [[allegro-the-sacred-mushroom-amanita-identification]] practices in Mexico. Vascellum
   species are similar to Lycoperdon but differ in microscopic
   features and [[psilocybin]], [[traditional-indigenous-use-sacred-fungi]]
 - [[neurotropic-fungi-classification]]
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

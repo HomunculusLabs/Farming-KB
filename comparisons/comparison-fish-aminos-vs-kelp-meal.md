@@ -12,7 +12,7 @@ type: comparison
 Fish aminos and kelp meal are two of the most powerful organic inputs available
 to growers, but they serve fundamentally different nutritional roles. Fish aminos
 deliver rapid nitrogen in amino acid form, while kelp meal provides a broad
-spectrum of trace minerals and natural growth hormones. Understanding when and
+spectrum of trace minerals and [[ingham-natural-growth-regulators-soil-microbes]] hormones. Understanding when and
 how to use each input maximizes their complementary benefits.
 
 ## Overview
@@ -44,7 +44,7 @@ it cannot serve as a primary nitrogen source.
 |--------|-------------|-----------|
 | Nutrient Profile | High nitrogen in amino acid form | Low NPK with 60-70 trace elements |
 | Application Method | Foliar spray or soil drench (liquid) | Soil amendment, compost, or foliar |
-| Primary Function | Rapid nitrogen boost, vegetative stage | Trace minerals, hormones, stress resistance |
+| Primary Function | Rapid nitrogen boost, [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] | Trace minerals, hormones, stress resistance |
 | Growth Stage | Vegetative stage primarily | All stages, especially transplanting |
 | Production Cost | Nearly free if fish scraps available | More expensive than most amendments |
 | Speed of Availability | Rapid; amino acids absorbed directly | Slow-release; minerals break down over weeks |
@@ -64,10 +64,10 @@ during active fermentation. The finished product separates into a dark liquid
 layer on top and settled solids below. Strain the liquid and store in a cool
 dark place.
 
-For foliar application, dilute at 1:20 (one part fish aminos to twenty parts
+For [[ultra-low-cost-foliar-application-methods]], dilute at 1:20 (one part fish aminos to twenty parts
 water) and spray on leaf surfaces in early morning or late evening. For soil
 drenches, the same dilution is applied to the root zone every 1-2 weeks during
-active vegetative growth. The amino acid form of nitrogen is absorbed through
+active [[cannabis-vegetative-growth-stage]]. The amino acid form of nitrogen is absorbed through
 leaf stomata within hours, making fish aminos one of the fastest-acting organic
 nitrogen sources available.
 
@@ -118,7 +118,7 @@ covers the full range of plant nutritional needs.
 Fish aminos should be applied in early morning or evening to avoid leaf burn
 and maximize absorption. Kelp meal foliar sprays benefit from a small amount
 of mild soap as a surfactant to improve coverage. Both inputs can be combined
-with other KNF inputs like oriental herbal nutrient or fermented plant juice
+with other KNF inputs like [[bionutrients-lab-oriental-herbal-nutrients-ohn]] nutrient or [[bionutrients-lab-fermented-plant-juice-fpj]]
 for a complete biostimulant program.
 
 ## See Also

@@ -1,17 +1,13 @@
 ---
-title: Sustainable Living Habits for Homesteads
+title: natural-farming-sustainable-living-principles Habits for Homesteads
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [[homesteading, self-sufficiency]
-sources: []
+tags: [homesteading, self-sufficiency]
+sources:
+  sources: []
 ---
-
-# Sustainable Living Habits for Homesteads
-
-Updated: 2026-04-18
-
-Sustainable living on a homestead involves reducing resource consumption, minimizing waste, and maximizing self-sufficiency through intentional daily practices. These habits apply whether living in a [[kitchen-composting-and-vermicomposting]] or worm bins
+# Sustainable Living Habits for Homesteads Updated: 2026-04-18 Sustainable living on a homestead involves reducing resource consumption, minimizing waste, and maximizing self-sufficiency through intentional daily practices. These habits apply whether living in a [[kitchen-composting-and-vermicomposting]] or worm bins
 - This diverts about 30% of household waste
 
 ### Paper
@@ -27,8 +23,8 @@ Sustainable living on a homestead involves reducing resource consumption, minimi
 ## Water Conservation
 
 - Collect rainwater for irrigation and household use
-- Use [[straw-bale-construction]] and [[solar-cooking-methods]] methods when feasible
-- Consider [[permaculture-solar-energy-inventions]] if site conditions allow
+- Use [[straw-bale-construction]] and  methods when feasible
+- Consider permaculture-solar-energy-inventions if site conditions allow
 
 ## Recycling and Reuse
 
@@ -61,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,4 +99,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

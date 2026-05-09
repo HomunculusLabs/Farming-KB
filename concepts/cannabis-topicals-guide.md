@@ -4,12 +4,13 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, processing, recipe, medicine, health, preparation, organic]
-sources: []
+sources:
+  sources: []
 ---
 
 ## Overview
 
-Cannabis topicals are preparations applied directly to the skin for localized relief of pain, inflammation, muscle soreness, and skin conditions. Unlike inhaled or ingested cannabis, topicals do not produce psychoactive effects because cannabinoids do not readily penetrate the bloodstream through the skin when applied topically (they bind to CB2 receptors in the skin and local tissues).
+Cannabis topicals are preparations applied directly to the skin for localized relief of pain, inflammation, muscle soreness, and [[cannabis-for-skin-conditions-detailed]]. Unlike inhaled or ingested cannabis, topicals do not produce psychoactive effects because cannabinoids do not readily penetrate the bloodstream through the skin when applied topically (they bind to CB2 receptors in the skin and local tissues).
 
 ## How Cannabis Topicals Work
 
@@ -39,7 +40,7 @@ Salves are oil-based preparations with a firm, waxy consistency. They are the si
 
 ### Balms
 
-Similar to salves but typically include more butter (shea, cocoa) and essential oils for a richer, creamier texture.
+Similar to salves but typically include more butter (shea, cocoa) and [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] for a richer, creamier texture.
 
 **Base ingredients**: Cannabis-infused oil + beeswax + shea butter + cocoa butter
 **Consistency**: Softer than salve, more emollient
@@ -74,8 +75,8 @@ Creams are thicker than lotions with a higher oil-to-water ratio.
 
 - May offer enhanced pain relief due to THC's analgesic properties
 - Still non-psychoactive when applied topically
-- Legal status varies by jurisdiction
-- May be combined with CBD for entourage effect
+- [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction
+- May be combined with CBD for [[cannabis-terpene-entourage-effect-profiles]]
 
 ### Full-Spectrum vs Isolate
 
@@ -89,7 +90,7 @@ The base for most topicals is a carrier oil infused with decarboxylated cannabis
 
 ### Decarboxylation
 
-Before infusing, cannabis flower must be decarboxylated to activate cannabinoids:
+Before infusing, [[cervantes-cannabis-flower-anatomy]] must be decarboxylated to activate cannabinoids:
 
 1. Preheat oven to 240 F (115 C)
 2. Grind cannabis coarsely (not to powder)
@@ -106,7 +107,7 @@ Before infusing, cannabis flower must be decarboxylated to activate cannabinoids
 4. Heat on low (160-180 F) for 2-4 hours, stirring occasionally
 5. Strain through cheesecloth or fine mesh strainer
 6. Squeeze remaining oil from the plant material
-7. Store infused oil in a glass jar in a cool, dark place
+7. Store infused oil in a [[sterile-spore-print-collection-glass-jar-technique]] in a cool, dark place
 
 ### Alternative: Quick Infusion with Lecithin
 
@@ -141,27 +142,9 @@ Adding sunflower or soy lecithin (1 teaspoon per cup of oil) improves cannabinoi
 ## Dosing
 
 Topical dosing is less precise than other methods. General guidelines:
-
-- **Mild potency**: 1/4 ounce (7g) cannabis per 1 cup oil
-- **Medium potency**: 1/2 ounce (14g) cannabis per 1 cup oil
-- **Strong potency**: 1 ounce (28g) cannabis per 1 cup oil
-
-Start with a small amount and apply more as needed. Effects are typically felt within 15-30 minutes and last 2-4 hours. For chronic conditions, consistent daily application is more effective than sporadic heavy use.
-
-## Storage
-
-- Store in a cool, dark place (cabinet, not refrigerator)
-- Use opaque or dark glass containers to prevent light degradation
-- Shelf life: 3-6 months for homemade preparations
-- Vitamin E oil (1/2 teaspoon per cup) can extend shelf life as a natural preservative
-
-## Common Applications
-
-- **Arthritis and joint pain**: Apply to affected joints 2-3 times daily
-- **Muscle soreness**: Apply after exercise or physical labor
-- **Menstrual cramps**: Apply to lower abdomen
-- **Headaches**: Apply to temples and neck (peppermint + cannabis)
-- **Skin conditions**: Psoriasis, eczema, dermatitis (CBD-dominant preparations)
-- **Nerve pain**: Apply to the affected area; some find relief with regular application
-
-For internal consumption methods, see [[cannabis-tinctures-guide]] and [[cannabis-edibles-guide]]. For the extracts used in topical production, see [[cannabis-extraction-basics]]. Cannabis potency in topicals can be estimated using dosing principles from [[cannabis-concentrates-types]].
+## See Also
+- [[query-what-are-the-stages-of-cannabis-growth]]
+- [[cannabis-for-skin-conditions-detailed]]
+- [[cannabis-for-chronic-pain]]
+- [[cannabis-for-chronic-pain-comprehensive]]
+- [[query-what-are-the-most-common-cannabis-nutrient-deficiencies]]

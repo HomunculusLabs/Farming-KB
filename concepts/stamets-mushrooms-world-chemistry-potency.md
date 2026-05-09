@@ -1,8 +1,8 @@
 ---
-title: Psilocybin Chemistry and Potency Variation
+title: Psilocybin Chemistry and psilocybe-cubensis-potency-variation-by-flush
 created: 2026-04-26
 updated: 2026-04-24
-sources: "Psilocybin Mushrooms of the World (Stamets, 1996)"
+sources: "forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World (Stamets, 1996)"
 aliases: [psilocybin, psilocin, baeocystin, psilometric scale]
 type: concept
 tags: [chemistry, mushroom-cultivation, mushrooms]
@@ -76,6 +76,12 @@ sun, water-soaked, frozen, or old vary unpredictably in potency.
 
 Psilocybin content is not adversely affected by the drying process in
 P. semilanceata. Its high psilocybin and low psilocin content accounts for
-excellent long-term storage life. [[stamets-mushrooms-world-cubensis]]
-- [[stamets-mushrooms-world-azurescens]]
-- [[stamets-mushrooms-world-identification-safety]]
+excellent long-term storage life. stamets-mushrooms-world-cubensis
+- stamets-mushrooms-world-azurescens
+- stamets-mushrooms-world-identification-safety
+## See Also
+- [[psilocybin-mushrooms]]
+- [[dimethyltryptamine]]
+- [[psilocybin-mushroom]]
+- [[mushrooms-fungi-from-around-the-world-guide]]
+- [[stamets-psi-psilocybin-potency-comparative-scale]]

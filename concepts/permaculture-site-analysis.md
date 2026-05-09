@@ -4,23 +4,25 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, design, survey, water, soil, climate, environment, patterns]
-sources: []
+sources:
+  sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Permaculture Site Analysis
 
-Site analysis is the essential first step in any permaculture design. Before placing a single element, the designer must thoroughly understand the land — its strengths, limitations, patterns, and potentials. This process aligns with the principle "observe and interact" and creates the foundation for "design from patterns to details."
+Site analysis is the essential first step in any permaculture design. Before placing a single element, the designer must thoroughly understand the land — its strengths, limitations, patterns, and potentials. This process aligns with the principle "[[holmgren-observe-and-interact-detailed]]" and creates the foundation for "[[permaculture-principle-design-from-patterns-to-details]] to details."
 
 ## Sector Mapping
 
-Sector analysis maps the external energies and influences that affect a site. These are forces the designer cannot control but can work with or redirect.
+[[mollison-designers-sector-analysis-wind-sun-fire]] maps the external energies and influences that affect a site. These are forces the designer cannot control but can work with or redirect.
 
 ### Common Sectors
 - **Sun sectors** — path of the sun across seasons, shade patterns, solar gain zones
 - **Wind sectors** — prevailing wind directions, cold winter winds, cooling summer breezes
 - **Water sectors** — runoff patterns, flood risk, groundwater flow, spring locations
 - **Fire sectors** — wildfire risk directions, fuel loads, defensible space needs
-- **Wildlife sectors** — animal movement corridors, pest entry points, beneficial insect pathways
+- **Wildlife sectors** — animal movement corridors, pest entry points, [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] pathways
 - **Noise and pollution** — roads, industry, neighbors that affect site quality
 - **Views** — desirable and undesirable sight lines
 
@@ -60,7 +62,7 @@ Create a soil map showing different soil types across the site. Note areas of co
 
 ## Water Flow Analysis
 
-Water is often the first design priority in permaculture. Understanding how water moves across the landscape determines where to place swales, ponds, diversion drains, and planting areas.
+Water is often the first design priority in permaculture. Understanding how water moves across the landscape determines where to place swales, ponds, [[mollison-designers-diversion-drains-and-interceptor-banks]], and planting areas.
 
 ### Mapping Water Flow
 - Observe the site during and after rain — where does water flow, pool, or erode?
@@ -117,7 +119,7 @@ A complete site analysis package typically includes:
 
 ## See Also
 
-- [[permaculture-ethics-and-principles]] — foundational design ethics and principles
+- [[permaculture-ethics-and-principles]] — foundational design [[williams-pdc-permaculture-ethics-and-principles-in-practice]]
 - [[permaculture-design-methods]] — frameworks for moving from analysis to design
 - [[water-management]] — detailed water earthworks and strategies
 - [[permaculture-forest-garden-establishment]] — using site analysis for planting plans

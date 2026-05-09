@@ -1,5 +1,5 @@
 ---
-title: Trace Water Enhanced [[microwave-surface-sterilization]] Mechanism
+title: Trace Water Enhanced microwave-surface-sterilization Mechanism
 topic: sterilization
 source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 created: 2026-05-08
@@ -12,8 +12,8 @@ tags: [sterilization, microwave, surface-decontamination, NASA, trace-water]
 
 The NASA-developed microwave surface sterilization system (MSC-22484) relies on
 a key innovation: the introduction of trace quantities of water (approximately
-9 μL per cm² of surface) to dramatically enhance the microbial kill
-effectiveness of microwave irradiation. While microwaves alone can kill
+9 μL per cm² of surface) to dramatically enhance the [[microwave-microbial-kill-curves]]
+effectiveness of [[dry-microwave-irradiation-spore-resistance]]. While microwaves alone can kill
 vegetative cells, the addition of trace water enables complete sterilization
 including resistant spores through a localized flash-steam mechanism.
 
@@ -29,7 +29,7 @@ molecules:
 1. The oscillating electromagnetic field causes water molecules to rotate,
    attempting to align with the alternating field direction
 2. Molecular rotation generates friction between adjacent water molecules
-3. This friction converts electromagnetic energy into thermal energy (heat)
+3. This friction converts electromagnetic energy into [[phase-change-materials-thermal-energy-storage]] (heat)
 4. The heating is volumetric — occurring throughout the water volume rather
    than just at the surface
 
@@ -47,7 +47,7 @@ means:
 ## Dry Microwave Irradiation: Capabilities and Limits
 
 Microwave irradiation of dry surfaces is effective against vegetative cells
-because they contain intrinsic water. Microwaves penetrate the cell wall, couple
+because they contain intrinsic water. Microwaves penetrate the [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]], couple
 with intracellular water, and cause rapid thermal inactivation.
 
 Bacterial and [[pseudomonas]] cepacia* | Gram-negative bacterium | Environmental isolate; moderate resistance |
@@ -88,14 +88,16 @@ spores.
 
 While developed for NASA's ECLSS, the trace water microwave technique has
 potential in medical device sterilization (especially heat-sensitive
-instruments), laboratory surface decontamination, food processing sanitation,
+instruments), laboratory [[pseudomonas-cepacia-microwave-surface-decontamination-kinetics]], food processing sanitation,
 and cleanroom maintenance where chemical-free, low-thermal-impact sterilization
 is needed.
 
 ## See Also
 
+- [[trace-water-dosing-protocol-microwave-surface-sterilization]]
+
 - [[rotational-transition-water-dipole-microwave-sterilization-physics]]
 
-- [[microwave-water-interaction-2.45-GHz]]
+- [[microwave-water-interaction-2.45-ghz]]
 
 - [[microwave-trace-water-surface-sterilisation-protocol]]

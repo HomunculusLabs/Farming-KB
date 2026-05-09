@@ -30,9 +30,9 @@ organisms are present, how nutrients cycle, and what plants will thrive.
 Bacterial-dominated soils are characteristic of recently disturbed ecosystems
 or early successional environments. After tillage, flooding, fire, or other
 disturbance events, bacteria are the first organisms to colonize and multiply.
-They thrive on the simple, readily available organic compounds released by
+They thrive on the simple, readily available [[fungal-volatile-organic-compounds-communication]] released by
 disturbance and on root exudates from annual weeds and pioneer plants. In
-bacterial-dominated soils, nutrient cycling is rapid: bacteria grow quickly,
+bacterial-dominated soils, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] is rapid: bacteria grow quickly,
 are consumed by protozoa and bacterial-feeding nematodes, and nutrients are
 mineralized and made available to plants at high rates.
 
@@ -45,10 +45,10 @@ indicators of soil food web status, as discussed below.
 
 ## Fungal-Dominated Soils
 
-As ecosystems mature without significant disturbance, fungal biomass
+As ecosystems mature without significant disturbance, [[bioremediation-fungal-biomass-biosorbent-material]]
 gradually increases relative to bacterial biomass. Fungal-dominated soils
 develop over years to decades of stable conditions. The decomposition
-pathway shifts from bacterial to fungal dominance, as described in
+pathway shifts from [[ingham-bacterial-to-fungal-succession-soil-food-web]] dominance, as described in
 [[lowenfels-mycorrhizal-network-nutrient-sharing]], which are more effective
 in fungal-dominated soils.
 
@@ -96,7 +96,7 @@ dominance depending on the desired plant community:
 
 **To favor bacterial dominance:**
 - Use tillage to set back fungal networks (though this has other costs)
-- Apply simple organic amendments like composted manure and green manures
+- Apply simple [[cervantes-organic-amendments-chart]] like [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]] and green manures
 - Plant annual crops and bacterial-favoring [[lowenfels-compost-tea-brewing]] with bacterial-dominant recipes
 
 **To favor fungal dominance:**

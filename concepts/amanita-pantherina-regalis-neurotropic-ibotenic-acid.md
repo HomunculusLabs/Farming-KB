@@ -11,7 +11,7 @@ topics: amanita, ibotenic acid, muscimol, muscarine, neurotropic fungi, mycorrhi
 
 The neurotropic Amanita species constitute **Group 2** of four recognized groups of
 neurotropic fungi worldwide. Unlike the [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]] indole alkaloids) | *Psilocybe*, *Panaeolus*, *Gymnopilus* | Coprophilous, lignicolous |
-| **2** | **Ibotenic acid / muscimol** | ***Amanita muscaria*, *A. pantherina*, *A. regalis*** | **Mycorrhizal** |
+| **2** | **Ibotenic acid / muscimol** | ***[[allegro-amanita-muscaria-properties-and-pharmacology]]*, *A. pantherina*, *A. regalis*** | **Mycorrhizal** |
 | 3 | [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]]*A. muscaria* has become established in pine plantations across tropical and
 southern-hemisphere regions:
 
@@ -39,7 +39,7 @@ the identity of **Soma**, the divine sacrament of the ancient Vedic hymns.
 ### *Amanita pantherina* (DC.) Krombh. — Panther Cap
 
 Distinguished by a darker brown to olive-brown cap with white warty patches, a slender
-stipe, and a more southern/western European distribution than *A. muscaria*.
+stipe, and a more southern/western [[fukuoka-european-distribution-system-critique]] than *A. muscaria*.
 
 **Chemistry & Toxicology.** Hatfield (1979) confirmed the presence of **ibotenic acid**
 in *A. pantherina*, placing it firmly within the Group 2 neurotropic category. Multiple
@@ -56,7 +56,7 @@ species (sometimes cited as *A. muscaria* var. *regalis* (Fr.) Bartillon). The c
 brownish-yellow to ochre with pale warts, and the overall stature is more robust.
 
 **Distribution.** Jenkins (1986) reported *A. regalis* from Alaska, extending its known
-range into northwestern North America. It is otherwise known from Scandinavia and northern
+range into northwestern [[psilocybin-north-america-pacific-northwest]]. It is otherwise known from Scandinavia and northern
 Europe, where it asso [[guzman-allen-gartz-cosmopolitan-and-endemic-neurotropic-species]] conifer forests.
 
 **Chemistry.** Listed by Guzmán, Allen & Gartz (1998) as a neurotropic species within
@@ -89,18 +89,18 @@ consumption significantly more unpleasant and dangerous than the muscimol-only e
 The mycorrhizal ecology of these Amanita species has profound implications:
 
 - **Habitat specificity**: They require living tree roots and cannot be cultivated on
-  substrate in the way coprophilous or saprotrophic psychoactive fungi can.
+  substrate in the way coprophilous or saprotrophic [[cattle-dispersal-psychoactive-fungi-australia]] can.
 - **Geographic constraint**: Natural distribution is tied to the range of compatible
   host trees (*Pinus*, *Betula*, *Picea*, *Quercus*), primarily in temperate and boreal
   forests of the Northern Hemisphere.
 - **Introduction pathways**: Spread beyond native range is almost entirely through
-  deliberate planting of host trees (e.g., pine plantations in the Southern Hemisphere),
+  deliberate planting of host trees (e.g., pine plantations in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]),
   with the fungal symbiont inadvertently co-introduced on root systems.
 
 ## References
 
 - Cleland, J.B. (1976). Amanita muscaria in Australia.
-- Guzmán, G., Allen, J.W. & Gartz, J. (1998). World-wide distribution of neurotropic
+- Guzmán, G., Allen, J.W. & Gartz, J. (1998). World-wide [[global-distribution-of-neurotropic-fungi]]
   fungi. *Mycotaxon*.
 - Härkönen, M. (1995). Records of Amanita muscaria in Tanzania.
 - Hatfield, G.M. (1979). Ibotenic acid in Amanita pantherina.

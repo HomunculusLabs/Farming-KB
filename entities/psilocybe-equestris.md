@@ -14,7 +14,7 @@ sources:
 Psilocybe equestris is a bluing psilocybin-containing mushroom in the
 section Semilanceatae of the genus Psilocybe. It was described from
 European collections and is closely related to the well-known liberty
-cap, Psilocybe semilanceata. The species is relatively uncommon in the
+cap, [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]. The species is relatively uncommon in the
 mycological literature and remains poorly understood compared to its
 more famous congeners. It produces psilocybin and psilocin as its
 primary psychoactive constituents and bruises blue when damaged, a
@@ -85,7 +85,7 @@ mycelial strands attached.
 - **Habitat:** Grasslands, pastures, meadows, and lawns. Often
   found in nutrient-poor, acidic soils typical of upland pastures.
 - **Substrate:** Terrestrial, growing directly from soil among
-  grasses. Not associated with dung or woody debris.
+  grasses. Not associated with dung or [[fungal-succession-woody-debris-ecology]].
 - **Season:** Late summer to autumn, typically fruiting from August
   through November depending on latitude and altitude.
 - **Ecology:** Saprotrophic, decomposing grass and plant litter in
@@ -103,7 +103,7 @@ mycelial strands attached.
 - **Norbaeocystin:** May be present in trace quantities.
 - **Aeruginascin:** Not reported; this compound is more typical of
   P. cyanescens and closely related species.
-Bluing reaction is moderate upon bruising of the stipe base and
+[[field-guide-psilocybin-bluing-reaction-identification]] is moderate upon bruising of the stipe base and
 gills, intensifying over several minutes after handling. The bluing
 is less dramatic than in P. cyanescens or P. azurescens.
 ## Similar Species
@@ -118,7 +118,7 @@ is less dramatic than in P. cyanescens or P. azurescens.
 The most common confusion is with P. semilanceata, from which P.
 equestris is differentiated by subtle morphological differences
 including cap shape, stipe proportions, and microscopic characters.
-Accurate identification often requires microscopic examination.
+Accurate identification often requires [[fungal-microscopic-examination-mounting-media-techniques]].
 ## Field Identification Tips
 - Conic to subconic cap with hygrophanous coloration that fades
   from brown to pale yellow as it dries
@@ -138,12 +138,12 @@ assessment difficult. Collection for psychoactive use poses an
 additional potential threat in areas where it occurs.
 ## Legal Status
 Psilocybin and psilocin are Schedule I controlled substances in many
-jurisdictions, including the United States under the Controlled
-Substances Act. The species is therefore illegal to possess, cultivate,
+jurisdictions, including the [[dmt-containing-plants-united-states-halpern]] under the Controlled
+[[controlled-substances-act-and-psychedelic-research]]. The species is therefore illegal to possess, cultivate,
 or distribute in most countries. Legal status varies by jurisdiction;
 some countries and municipalities have decriminalized or deprioritized
 ## See Also
 - [[psilocybe-pelliculosa-profile]]
 - [[psilocybe-cyanescens]]
 
-See also: [[psychedelic-mushrooms-species-and-identification]]
+See also: [[psilocybin-mushrooms-species-and-pharmacology]]

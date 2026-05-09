@@ -1,5 +1,5 @@
 ---
-title: Psilocybe cubensis: Cattle Dung Substrate and Introduction in the Americas
+title: brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting: Cattle Dung Substrate and Introduction in the Americas
 created: 2026-05-06
 tags: mycology, psilocybe, cubensis, coprophilous, biogeography, cattle, dung, introduction, guzman-1998, ecology
 type: concept
@@ -78,7 +78,7 @@ following the arrival of cattle. The timeline is significant:
    Mexico around 1493-1521
 2. Before European contact, the Americas lacked bovine cattle; the only
    large herbivores providing comparable dung would have been bison in
-   North America and camelids (llamas, alpacas) in South America
+   [[psilocybin-north-america-pacific-northwest]] and camelids (llamas, alpacas) in South America
 3. P. cubensis shows a strong preference for bovine dung over other dung
    types
 
@@ -87,7 +87,7 @@ originated in Africa, where bovine cattle and their ancestors have existed
 for millions of years alongside a rich coprophilous fungal community. The
 species could have been transported to the Americas during the Atlantic
 slave trade, either in contaminated dung, bedding straw, or on the cattle
-themselves. This would explain its current pantropical distribution, which
+themselves. This would explain its current [[copelandia-cyanescens-pantropical-distribution-and-ecology]], which
 closely mirrors the routes of the Spanish and Portuguese colonial cattle
 trade.
 
@@ -107,19 +107,19 @@ available.
 Several other neurotropic fungi share the coprophilous habit with P.
 cubensis, though none match its geographic range:
 
-- **Panaeolus subbalteatus**: Also found on dung, but with a much wider
+- **[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]**: Also found on dung, but with a much wider
   climatic tolerance, extending into temperate Europe and North America
 - **Panaeolus sphinctrinus**: Cosmopolitan dung-inhabiting species found
   across all continents
 - **Panaeolus fimicola**: Another widespread coprophilous species
 - **Copelandia cyanescens**: Tropical dung-inhabiting species with a
   distribution pattern similar to P. cubensis
-- **Conocybe cyanopus**: Occasionally found on dung in temperate regions
+- **[[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]]**: Occasionally found on dung in temperate regions
 
 ## See Also
 
 - [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]]
 - [[psilocybe-cubensis-malt-agar-dung-grain-cultivation]]
 - [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
-- Southern Hemisphere Origin Hypothesis for Neurotropic Fungi
+- [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] Origin Hypothesis for Neurotropic Fungi
 - Neurotropic Fungi Underground Trade and Legislation

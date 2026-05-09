@@ -1,6 +1,6 @@
 ---
-title: "Fukuoka's 'Dragonfly as Messiah' — Natural Salvation Philosophy"
-source: "Sowing Seeds in the Desert (2012), Chapter 1: 'The Call to Natural Farming'"
+title: "Fukuoka's 'fukuoka dragonfly as messiah natural salvation' — Natural Salvation Philosophy"
+source: "Sowing Seeds in the Desert (2012), Chapter 1: 'The Call to [[comparison-natural-farming-vs-permaculture]]'"
 tags:
   - natural-farming
   - philosophy
@@ -65,7 +65,7 @@ The dragonfly in Fukuoka's statement carries multiple layers of symbolic meaning
 - **Freedom**: Fukuoka describes his own transformative experience by saying he "became
   as light as the wings of a dragonfly, and felt as if I were flying as high as the
   mountain peaks." The dragonfly represents the liberation from the weight of
-  discriminating knowledge and worldly attachment.
+  [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] and worldly attachment.
 
 - **Natural divinity**: Unlike a human messiah who requires interpretation, scriptures,
   and institutional structures, the dragonfly simply *is*. Its existence is itself a
@@ -79,7 +79,7 @@ The dragonfly in Fukuoka's statement carries multiple layers of symbolic meaning
 
 ## Relationship to Buddhist and Taoist Thought
 
-Fukuoka's position resonates with several strands of Eastern philosophy:
+Fukuoka's position resonates with several strands of [[fukuoka-western-eastern-philosophy-agriculture]]:
 
 - **Zen Buddhism**: The emphasis on direct perception, the rejection of scriptures and
   conceptual thinking, and the value of an "egoless state" all align with Zen. Fukuoka
@@ -87,10 +87,14 @@ Fukuoka's position resonates with several strands of Eastern philosophy:
 
 - **Buddhist rejection of intellectual knowledge**: Fukuoka notes that "the religion
   of Buddhism rejects knowledge acquired through the human intellect as nothing more
-  than illusion," comparing this to the Western myth of the Garden of Eden, where
+  than illusion," comparing this to the Western myth of the [[allegro-garden-of-eden-and-delight]], where
   eating from the Tree of Knowledge led to humanity's banishment.
 
 ## Connection to [[fukuoka-natural-farming-philosophy|Natural Farming Philosophy]]
 - [[fukuoka-mu-nothingness-philosophy|Philosophy of Mu (Nothingness)]]
 - [[fukuoka-errors-human-intellect|Errors of Human Intellect]]
 - Cave of the Intellect
+
+## See Also
+
+- [[bromo-dragonfly]]

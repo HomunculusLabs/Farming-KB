@@ -1,5 +1,5 @@
 ---
-title: Hamilton: Pruning and Training Fruit Trees
+title: Hamilton: fruit-tree-pruning-training comparison-pruning-fruit-trees-vs-grafting-fruit-trees
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,11 +9,11 @@ sources:
 ---
 # Hamilton: Pruning and Training Fruit Trees
 
-**Source:** Geoff Hamilton, *Organic Gardening* (Nick Hamilton edition)
+**Source:** Geoff Hamilton, *[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]* (Nick Hamilton edition)
 
 **Updated:** 2026-04-18
 
-Pruning is the deliberate cutting back of plants, usually applied to trees and shrubs, to control size, train to shape, and encourage flower or fruit buds to form. For the organic gardener, proper pruning reduces disease susceptibility by improving air circulation and removing dead or diseased wood. Understanding the relationship between bud direction and growth is fundamental: a bud grows in the direction it faces, so pruning cuts are always angled away from the bud, slightly above it, leaving no "snag" that could rot.
+Pruning is the deliberate cutting back of plants, usually applied to trees and shrubs, to control size, train to shape, and encourage flower or fruit buds to form. For the organic gardener, proper pruning reduces disease susceptibility by improving [[stamets-growing-room-air-circulation-co2-management]] and removing dead or diseased wood. Understanding the relationship between bud direction and growth is fundamental: a bud grows in the direction it faces, so pruning cuts are always angled away from the bud, slightly above it, leaving no "snag" that could rot.
 
 ## Key Terms
 
@@ -25,7 +25,7 @@ Pruning is the deliberate cutting back of plants, usually applied to trees and s
 
 ## Training a Dwarf Pyramid
 
-A free-standing tree suitable for small gardens, shaped like a Christmas tree. Initial pruning establishes the conical shape; thereafter all pruning is done in summer to restrict growth. Trees are planted 5ft (1.5m) apart.
+A free-standing tree suitable for small gardens, shaped like a [[arthur-christmas-tree-amanita-muscaria]]. Initial pruning establishes the conical shape; thereafter all pruning is done in summer to restrict growth. Trees are planted 5ft (1.5m) apart.
 
 1. Immediately after planting, cut the stem back to a bud within 12in (60cm) of ground level.
 2. In the second winter, select five evenly spaced lower branches at a wide angle to the stem. Cut them back to a downward- or outward-facing bud to leave 10in (25cm) long. Remove all other branches at this level. Cut any branches above back to 6in (15cm) to form a second tier. Cut the main stem tip to leave it 12in (30cm) above the top branch.
@@ -87,7 +87,7 @@ Fan-trained plums grow best on south- or west-facing walls. Since plums are susc
 2. First summer: select three strong shoots; pinch back other branches to two leaves.
 3. Following spring: prune the two main side branches to 18in and tie to the first wire. Remove central stem.
 4. Every spring and summer: tie upward-growing shoots from side branches onto the wires to form a fan shape. Pinch out branches growing into or away from the wall.
-5. After picking: cut out dead wood and shorten pinched-off shoots by half.
+5. After picking: cut out [[fungal-dead-wood-diversity]] and shorten pinched-off shoots by half.
 
 ## Encouraging Bud Growth
 

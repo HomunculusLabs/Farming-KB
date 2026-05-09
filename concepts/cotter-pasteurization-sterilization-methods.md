@@ -1,5 +1,5 @@
 ---
-title: Pasteurization and Sterilization Methods
+title: query-difference-between-pasteurization-and-sterilization-mushroom-growing Methods
 created: 2026-04-26
 tags: [substrate-treatment, pasteurization, sterilization, equipment, food-safety]
 date: 2026-04-25
@@ -22,7 +22,7 @@ supplementation level, and target mushroom species.
 ## Hot Water Immersion Pasteurization
 
 This is the primary method for pasteurizing straw and other media before
-spawning. Submerge substrate materials in water at 165-175 degrees F (74-80
+spawning. Submerge [[growing-gourmet-substrate-materials-wood-types]] in water at 165-175 degrees F (74-80
 degrees C) for one to two hours. Heat water to 180 degrees F first, so when
 cooler substrate is added, temperature falls into the target range.
 
@@ -70,7 +70,7 @@ submerged.
 ## Solar Pasteurization
 
 In remote areas with limited fuel, solar hot water systems can power hot water
-immersion pasteurization. Solar heating is adequate for reaching the 165
+immersion pasteurization. [[mollison-designers-passive-solar-heating-building-design]] is adequate for reaching the 165
 degrees F threshold. Alternatively, place moistened substrate in shallow bins,
 cover completely with plastic, and let sit in a sunny spot for six to eight
 hours. Reflective fabric or Mylar panels and parabolic solar cookers (old
@@ -99,12 +99,12 @@ disposal, or used to balance garden pH.
 
 Sterilization requires heating to 250 degrees F (121 degrees C) for one to two
 hours, sufficient to kill all microbes. Most large commercial farms sterilize
-supplemented sawdust substrates in industrial autoclaves (retorts). Commercial
+[[oyster-mushroom-supplemented-sawdust-blocks]] substrates in industrial autoclaves (retorts). Commercial
 autoclaves range from $10,000 for used machines to $100,000 for high-end
 models capable of producing 1,000+ pounds of shiitakes per week.
 
 With an autoclave and high-nutrient growing medium, great air filtration is
-essential -- at minimum a clean room with HEPA filtration. Cotter advises
+essential -- at minimum a clean room with [[growing-gourmet-hepa-filtration-laboratory-air-systems]]. Cotter advises
 starting with low-tech methods before investing in high-energy sterilization
 systems.
 
@@ -117,7 +117,7 @@ shortens heat treatment time while maintaining safety.
 
 ## Cultivating on Invasive Plants
 
-Invasive plants can serve as mushroom substrate. Kudzu (Pueraria lobata) is
+Invasive plants can serve as [[gourmet-medicinal-mushroom-substrate-preparation]]. Kudzu (Pueraria lobata) is
 more than 16% protein and up to 60% digestible nutrient content, making it
 suitable for oyster, paddy straw, and tropical giant milky mushrooms. Water
 hyacinth (Eichhornia crassipes) has high cellulose and nitrogen levels and can

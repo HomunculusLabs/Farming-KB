@@ -18,7 +18,7 @@ tags:
 - species
 
 sources:
-- raw/papers/teaming-with-microbes-lowenfels.md
+sources: []
 - raw/papers/teaming-with-fungi-lowenfels.md
 ---
 
@@ -28,14 +28,14 @@ American soil biologist and co-author (with [[jeff-lowenfels]]) of "Teaming With
 
 ## Role in the Teaming With Trilogy
 
-Lewis collaborated with Jeff Lowenfels as co-author of "Teaming With Microbes," the first book in Lowenfels' soil food web trilogy. While Lowenfels brought the gardening perspective and accessible writing voice, Lewis contributed the scientific rigor and soil biology expertise. The book was published with a foreword by [[elaine-ingham]], the soil microbiologist whose research on bacterial and fungal dominance in soils heavily influenced the book's framework.
+Lewis collaborated with Jeff Lowenfels as co-author of "Teaming With Microbes," the first book in Lowenfels' soil food web trilogy. While Lowenfels brought the gardening perspective and accessible writing voice, Lewis contributed the scientific rigor and soil biology expertise. The book was published with a foreword by [[elaine-ingham]], the soil microbiologist whose research on [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] dominance in soils heavily influenced the book's framework.
 
-Lowenfels describes Lewis as "my good friend and business colleague" and credits him with bringing the scientific depth that made the book both accessible and authoritative. The trilogy was later completed with "Teaming With Nutrients" and "Teaming With Fungi," with Lowenfels noting that all three books are interrelated parts of understanding how plants, mycorrhizal fungi, other microbes, and nutrients interact in the soil.
+Lowenfels describes Lewis as "my good friend and business colleague" and credits him with bringing the scientific depth that made the book both accessible and authoritative. The trilogy was later completed with "Teaming With Nutrients" and "Teaming With Fungi," with Lowenfels noting that all three books are interrelated parts of understanding how plants, [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], other microbes, and nutrients interact in the soil.
 
 ## Key Contributions to Soil Science Education
 
 - **Soil food web gardening rules:** Helped formulate practical rules for managing soil biology, including the fundamental distinction between bacterial-dominant and fungal-dominant soils and how to manage each for different types of plants
-- **Compost tea science:** Contributed expertise on actively aerated compost tea (AACT) brewing and application, providing the scientific basis for what had previously been largely anecdotal practices
+- **[[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] science:** Contributed expertise on actively [[actively-aerated-compost-tea]] tea (AACT) brewing and application, providing the scientific basis for what had previously been largely anecdotal practices
 - **Bacterial vs. fungal dominance:** Helped articulate the principle that annual vegetables and grasses prefer bacterial-dominant soils while perennials, shrubs, and trees prefer fungal-dominant soils — a concept with profound implications for [[regenerative-agriculture-history]]
 - **Mycorrhizal fungi education:** His scientific background informed the subsequent "Teaming With Fungi" volume, which makes [[mycorrhizal-fungi]] accessible to home gardeners
 
@@ -48,9 +48,9 @@ Lowenfels describes Lewis as "my good friend and business colleague" and credits
 - [[jeff-lowenfels]] — Co-author and primary writer of the Teaming With trilogy
 - [[elaine-ingham]] — Soil microbiologist who wrote the foreword and whose research informed the book
 - [[soil-food-web-nutrient-cycling]] — The soil food web overview
-- [[soil-food-web-nutrient-cycling]] — Advanced soil biology topics
 - [[composting-systems]] — Compost methods
 - [[mycorrhizal-fungi]] — Mycorrhizal partnerships and plant relationships
+
 ## Practical Considerations
 
 When working with Wayne Lewis, several practical factors should be
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

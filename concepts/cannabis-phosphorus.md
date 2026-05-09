@@ -42,14 +42,14 @@ Flush the growing medium with a very mild, complete fertilizer. Flush a minimum 
 
 ## Growth Stage Considerations
 
-Phosphorus intake is highest during germination, seedling, and cloning stages. During flowering, use a "super bloom" fertilizer with elevated phosphorus levels to promote fat, heavy, dense buds. Cannabis needs phosphorus in substantial levels throughout vegetative growth as well.
+Phosphorus intake is highest during germination, seedling, and cloning stages. During flowering, use a "super bloom" fertilizer with elevated phosphorus levels to promote fat, heavy, dense buds. Cannabis needs phosphorus in substantial levels throughout [[cannabis-vegetative-growth-stage]] as well.
 
 ## Common Mistakes
 
 - Over-applying phosphorus during flowering, which causes zinc and other micronutrient lockout
 - Relying solely on pH adjustment without checking for soil fixation of phosphorus
 - Using rock phosphate too close to planting time (it breaks down slowly)
-- Confusing phosphorus deficiency reddening with natural purple stem coloration in some cultivars
+- Confusing [[query-how-to-fix-phosphorus-deficiency-in-cannabis]] reddening with natural purple stem coloration in some cultivars
 - Applying phosphorus to soil with pH above 7 without first correcting the pH
 - Failing to flush excess phosphorus before it causes cascading micronutrient deficiencies
 
@@ -59,6 +59,7 @@ Phosphorus intake is highest during germination, seedling, and cloning stages. D
 - [[cannabis-nutrient-deficiency-guide]]
 - [[cannabis-organic-fertilizers]]
 - [[cannabis-nutrient-toxicity]]
+
 ## Practical Considerations
 
 Successful implementation of Cannabis Phosphorus requires attention to
@@ -77,4 +78,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

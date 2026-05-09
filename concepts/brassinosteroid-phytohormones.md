@@ -18,12 +18,12 @@ precise stereochemical control.
 Brassinosteroids exert complex physiological effects on plant
 growth and development through the following mechanisms:
 
-**Cell elongation and division** are the most well-characterized
+**[[brassinosteroid-physiological-mechanisms-cell-elongation-division]] and division** are the most well-characterized
 effects. Brassinosteroids promote both longitudinal cell expansion
 and cell division, working synergistically with auxins and
 gibberellins. In hypocotyl elongation assays, they can stimulate
 growth at concentrations as low as 0.01 nanomolar, making them
-among the most potent plant growth regulators known.
+among the most potent plant [[ingham-natural-growth-regulators-soil-microbes]] known.
 
 **Vascular differentiation** is promoted through xylem
 differentiation and vascular bundle development. Treatment
@@ -38,7 +38,7 @@ weight. The effects on pollen viability are particularly
 significant for fruit set under stress conditions.
 
 **Anti-stress effects** include enhanced tolerance to drought,
-salinity, temperature extremes, and heavy metal toxicity. The
+salinity, temperature extremes, and [[dighton-fungal-biosorption-heavy-metal-remediation]] toxicity. The
 stress-ameliorating effects are attributed to enhanced antioxidant
 enzyme activity, membrane stabilization, and upregulation of
 stress-responsive genes.
@@ -72,7 +72,7 @@ influence hundreds of genes involved in cell growth, division,
 and stress responses. The signaling pathway exhibits extensive
 crosstalk with auxin and gibberellin pathways. BZR1 directly
 regulates expression of auxin transporters (PIN proteins),
-creating a positive feedback loop for growth promotion.
+creating a positive feedback loop for [[brassinosteroid-growth-promotion-psilocybe-cubensis]].
 
 ## Biosynthesis
 
@@ -92,7 +92,7 @@ the characteristic dwarf phenotype of brassinosteroid deficiency.
 
 Brassinosteroids have generated significant interest for
 agricultural use, with yield improvements of 5-30% reported
-across various crops. They enhance stress tolerance, seed
+across various crops. They enhance [[fungal-lichen-stress-tolerance-and-poikilohydry]], seed
 germination, seedling vigor, and fruit quality. Commercial
 formulations (primarily [[22s-23s-homobrassinolide]]
 - [[ergosterol]]

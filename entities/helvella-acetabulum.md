@@ -30,9 +30,9 @@ created: 2026-04-28
 
 ## Overview
 
-*Helvella acetabulum* is a species of cup fungus in the family Helvellaceae, found across temperate regions of Europe and North America.
+*Helvella acetabulum* is a species of cup fungus in the family Helvellaceae, found across temperate regions of Europe and [[psilocybin-north-america-pacific-northwest]].
 
-It is commonly called the vinegar cup due to its shallow, cup-shaped fruiting body that resembles a small goblet or cider cup.
+It is commonly called the vinegar cup due to its shallow, cup-shaped [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] that resembles a small goblet or cider cup.
 
 The species fruits in spring and early summer, typically on bare soil in forests, along trails, and in disturbed ground.
 
@@ -57,7 +57,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -100,3 +100,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[helvella-lacunosa]]

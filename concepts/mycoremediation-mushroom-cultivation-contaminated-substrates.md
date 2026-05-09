@@ -1,5 +1,5 @@
 ---
-title: "Mushroom Cultivation on Contaminated Substrates"
+title: "accessible-mushroom-cultivation-for-disabilities on Contaminated Substrates"
 created: 2026-04-26
 updated: 2026-04-24
 type: concept
@@ -11,28 +11,28 @@ sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 
 ## Overview
 
-Cultivating edible and medicinal mushrooms on contaminated substrates represents a dual-purpose strategy: bioremediation of pollutants combined with production of valuable fungal biomass. White-rot basidiomycetes used in mushroom cultivation naturally produce [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]] that degrade a wide range of environmental contaminants. The spent mushroom substrate (SMS) remaining after harvest can further serve as a soil amendment, compost ingredient, or continued bioremediation agent.
+Cultivating edible and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] on contaminated substrates represents a dual-purpose strategy: bioremediation of pollutants combined with production of valuable fungal biomass. White-rot basidiomycetes used in mushroom cultivation naturally produce [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]] that degrade a wide range of environmental contaminants. The spent mushroom substrate (SMS) remaining after harvest can further serve as a soil amendment, compost ingredient, or continued bioremediation agent.
 
 ## Substrates for Cultivation
 
-Mushroom cultivation substrates include plant stems, wood, fish oil, alfalfa, spent mushroom compost, sugarcane bagasse, and wheat straw. Straw has been found to be the best substrate to support colonization of soil and mineralization of benzo[a]pyrene by different white-rot fungi. Thirteen basidiospore-derived isolates of Pleurotus ostreatus f6 strain cultivated on natural substrates showed differing levels of manganese peroxidase (MnP) and laccase production, with substantially higher activities in straw than in liquid culture. Irpex lacteus efficiently colonized both sterile and nonsterile soil from a wheat straw inoculum.
+Mushroom cultivation substrates include plant stems, wood, fish oil, alfalfa, spent mushroom compost, sugarcane bagasse, and wheat straw. Straw has been found to be the best substrate to support colonization of soil and mineralization of benzo[a]pyrene by different white-rot fungi. Thirteen basidiospore-derived isolates of Pleurotus ostreatus f6 strain cultivated on natural substrates showed differing levels of [[fungal-manganese-peroxidase-remediation]] (MnP) and laccase production, with substantially higher activities in straw than in liquid culture. Irpex lacteus efficiently colonized both sterile and nonsterile soil from a wheat straw inoculum.
 
 ## Key Cultivated Species for Bioremediation
 
 Several commercially cultivated mushroom species have demonstrated bioremediation capabilities:
 
-- **Pleurotus ostreatus** (oyster mushroom): Degrades [[mycoremediation-of-petroleum-hydrocarbons]] in creosote-contaminated soil, mineralizing 53% [14C]pyrene, 25% [14C]benz[a]anthracene, and 39% [14C]benzo[a]pyrene to 14CO2 in solid-state fermentation. Removes all PAHs except heterocyclic compounds from aged creosote-contaminated soil. Also degrades [[mycoremediation-textile-dye-degradation]].
+- **Pleurotus ostreatus** (oyster mushroom): Degrades mycoremediation-of-petroleum-hydrocarbons in creosote-contaminated soil, mineralizing 53% [14C]pyrene, 25% [14C]benz[a]anthracene, and 39% [14C]benzo[a]pyrene to 14CO2 in solid-state fermentation. Removes all PAHs except heterocyclic compounds from aged creosote-contaminated soil. Also degrades [[mycoremediation-textile-dye-degradation]].
 - **Pleurotus florida**: Mineralizes [14C]heavier PAHs in soils and shows ability to grow from straw substrate into contaminated soil. Degrades eight unlabeled and three 14C-labeled PAHs during solid-state fermentation.
-- **Phanerochaete chrysosporium**: Although not typically cultivated as an edible mushroom, this model white-rot fungus is widely used in bioremediation research. Removes up to 96% of total PAHs from creosote-contaminated soil in 4 months.
-- **Trametes versicolor**: Mineralizes 34.1% of [14C]pyrene during cultivation on wheat straw, the highest rate among species tested.
-- **Agaricus bisporus**: The compost extract of spent A. bisporus substrate serves as a source of crude laccase for enzymic oxidation of phenols. Spent compost achieves 100% phenol removal.
+- **[[staycare-phanerochaete-chrysosporium-in-bioremediation]]**: Although not typically cultivated as an edible mushroom, this model white-rot fungus is widely used in bioremediation research. Removes up to 96% of total PAHs from creosote-contaminated soil in 4 months.
+- **[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]**: Mineralizes 34.1% of [14C]pyrene during cultivation on wheat straw, the highest rate among species tested.
+- **[[genetic-improvement-agaricus-bisporus-molecular-approaches]]**: The compost extract of spent A. bisporus substrate serves as a source of crude laccase for enzymic oxidation of phenols. Spent compost achieves 100% phenol removal.
 
 ## Spent Mushroom Substrate (SMS)
 
 SMS is the residual material after mushroom harvest and represents a large-volume byproduct of the mushroom industry. It contains residual fungal mycelium, partially degraded lignocellulosic material, and enzymes. SMS applications include:
 
 - **Soil bioremediation**: SMS from Agaricus bisporus provides crude laccase activity for phenol oxidation. Fish oil is added to SMS and mixed with creosote-contaminated soil for bioaugmentation, achieving enhanced PAH removal.
-- **Compost bioreactors**: Composting with SMS can reduce extractable [[mycoremediation-of-petroleum-hydrocarbons]] by stimulating biodegradation or binding intermediates to organic matter. SMS-amended compost removed 45% of benzo[a]pyrene with Phanerochaete chrysosporium.
+- **Compost bioreactors**: Composting with SMS can reduce extractable mycoremediation-of-petroleum-hydrocarbons by stimulating biodegradation or binding intermediates to organic matter. SMS-amended compost removed 45% of benzo[a]pyrene with Phanerochaete chrysosporium.
 - **Inoculum carrier**: Spent mushroom culture can be advantageous as fungal inoculum for [[mycoremediation-explosive-contaminants]], and [[mycoremediation-pesticide-herbicide-contamination]]. Pilot-scale composting of chlorophenol-contaminated soil achieved >90% removal. Compost bioaugmentation with P. chrysosporium showed removal efficiencies of 62.8% and 65.6% for fungal-amended and unamended systems respectively, with bound residue formation as the primary removal mechanism.
 
 ## PAH Degradation During Cultivation
@@ -76,5 +76,5 @@ Several limitations affect fungal bioremediation on contaminated substrates: (1)
 
 ## See Also
 
-- [[mycoremediation-of-petroleum-hydrocarbons]]
-- [[mycoremediation-enzyme-production-optimization]]
+- mycoremediation-of-petroleum-hydrocarbons
+- mycoremediation-enzyme-production-optimization

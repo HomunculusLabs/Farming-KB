@@ -5,7 +5,8 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka's Seed Ball Technique
@@ -18,7 +19,7 @@ The seed ball (or "earth dumpling") technique is one of [[knf-indigenous-microor
 
 1. **Mix clay and water** to form a workable dough -- similar to the consistency of potter's clay
 2. **Incorporate seeds** into the clay mixture. For diverse plantings, mix seeds of multiple species:
-   - For desert greening: [[green-manure-crops]]
+   - For [[fukuoka-desert-greening-plant-irrigation]]: [[green-manure-crops]]
 3. **Optional additions:** Small amounts of compost, humus, or microbial inoculant can be mixed into the clay to provide initial nutrition for germinating seeds
 4. **Form balls:** Roll the mixture into balls approximately 1-2 cm in diameter (roughly marble to walnut size, depending on seed size)
 5. **Dry:** Allow the seed balls to dry in the shade (not in direct sunlight, which can crack them)
@@ -67,7 +68,7 @@ The seed ball (or "earth dumpling") technique is one of [[knf-indigenous-microor
 
 The seed ball technique is central to Fukuoka's natural rice cultivation:
 
-- Rice seeds are encased in clay pellets
+- Rice seeds are encased in [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]]
 - Pellets are broadcast in autumn or early winter onto fields
 - Seeds survive winter inside the clay
 - Germination occurs in spring when conditions are favorable
@@ -79,7 +80,7 @@ Seed balls are the primary tool in Fukuoka's [[fukuoka-desert-greening-plant-irr
 
 - Pioneer species (especially acacia) are encased in clay balls
 - Balls are broadcast over degraded land
-- Only a small percentage of seeds germinate, but enough to begin ecological succession
+- Only a small percentage of seeds germinate, but enough to begin [[holmgren-ecological-succession-and-pulsing]]
 - The method requires no irrigation, no machinery, and no ongoing maintenance
 
 ### Vegetable Growing
@@ -89,12 +90,12 @@ Seed balls simplify vegetable cultivation:
 - Mix vegetable seeds in clay balls and broadcast
 - Vegetables grow in semi-wild state where conditions suit them
 - No raised beds, no transplanting, no thinning
-- Multiple species in each ball create natural companion planting
+- Multiple species in each ball create natural [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]
 
 ### Orchard Establishment
 
 - Fruit tree seeds can be started in seed balls
-- Understory plants (clover, vegetables, green manures) are established by broadcasting seed balls among fruit trees
+- Understory plants (clover, vegetables, [[jeavons-green-manures-cover-crops]]) are established by broadcasting seed balls among fruit trees
 - The method enables rapid establishment of diverse ground cover
 
 ### Revegetation of Degraded Land
@@ -109,7 +110,7 @@ The seed ball technique embodies Fukuoka's philosophy of "doing nothing":
 
 - No soil preparation -- seeds are simply dropped on the surface
 - No nursery beds -- seeds germinate in place
-- No transplanting -- no root damage, no transplant shock
+- No transplanting -- no root damage, no [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]]
 - No ongoing care -- nature takes over after broadcasting
 - No single species control -- multiple species in each ball create natural diversity
 

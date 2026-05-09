@@ -10,7 +10,7 @@ updated: 2026-05-08
 sources:
   - Stuart, M. (1979). "The Encyclopedia of Herbs and Herbalism." Orbis Publishing.
   - Chevallier, A. (1996). "The Encyclopedia of Medicinal Plants." DK Publishing.
-  - Small, E. (2006). "Culinary Herbs." NRC Research Press.
+  - Small, E. (2006). "[[holzer-medicinal-and-culinary-herbs-compendium]]." NRC Research Press.
   - Al-Snafi, A.E. (2015). "Chemical constituents and pharmacological effects of Cnicus benedictus." Indo American Journal of Pharmaceutical Research, 5(7), 1600-1608.
   - Bremness, L. (1994). "Herbs." DK Publishing.
 ---
@@ -21,7 +21,7 @@ Cnicus benedictus L., commonly known as blessed thistle or holy thistle, is an a
 
 It is native to the Mediterranean region and has been cultivated for centuries as a medicinal herb.
 
-The species was valued in medieval European medicine and monastery gardens as a tonic for digestive complaints and as a galactagogue.
+The species was valued in [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] medicine and monastery gardens as a tonic for digestive complaints and as a galactagogue.
 
 Its intensely bitter taste is due to the presence of sesquiterpene lactones, primarily cnicin.
 
@@ -96,13 +96,13 @@ It was traditionally employed as a digestive bitter to stimulate appetite, relie
 
 Nursing mothers used blessed thistle preparations as a galactagogue to promote milk production, a use documented in Dioscorides and later herbals.
 
-Topical preparations were applied to wounds, boils, and skin infections for their antimicrobial properties.
+Topical preparations were applied to wounds, boils, and skin infections for their [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
 
-The Eclectic physicians of 19th-century North America included Cnicus in their materia medica for digestive and female reproductive complaints.
+The Eclectic physicians of 19th-century [[psilocybin-north-america-pacific-northwest]] included Cnicus in their materia medica for digestive and female reproductive complaints.
 
 Modern in vitro studies have confirmed anti-inflammatory, antioxidant, and antimicrobial activities for cnicin-rich extracts.
 
-However, rigorous clinical trials validating traditional uses remain limited.
+However, rigorous [[mushroom-cancer-clinical-trials-overview]] validating traditional uses remain limited.
 
 Internal use is generally regarded as safe at typical therapeutic doses, though large quantities may cause gastrointestinal irritation.
 
@@ -116,7 +116,7 @@ Germination typically occurs within 7–14 days at temperatures of 18–22°C.
 
 The plant does not require fertile soil and actually produces more bitter constituents in poorer, calcareous ground.
 
-Spacing of 20–30 cm between plants is adequate for good air circulation and development.
+Spacing of 20–30 cm between plants is adequate for good [[stamets-growing-room-air-circulation-co2-management]] and development.
 
 Flowering occurs approximately 60–90 days from sowing.
 

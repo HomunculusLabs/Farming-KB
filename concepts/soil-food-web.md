@@ -13,7 +13,7 @@ type: concept
 The soil food web is the complex community of organisms living in soil,
 organized by trophic (feeding) relationships. It encompasses bacteria,
 fungi, protozoa, nematodes, arthropods, earthworms, and higher predators,
-all interconnected through feeding interactions and nutrient cycling. The
+all interconnected through feeding interactions and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. The
 concept was formalized by soil ecologist Elaine Ingham and draws on decades
 of research in soil biology and agroecology. A healthy soil food web is the
 foundation of soil fertility, plant health, and ecosystem productivity.
@@ -25,8 +25,8 @@ The soil food web is organized into distinct trophic levels:
 ### Level 1: Primary Decomposers
 
 - **Bacteria**: Dominant in disturbed or agricultural soils. Rapidly colonize
-  fresh organic matter, specializing in simple sugars, proteins, and
-  amino acids. Responsible for most nitrogen mineralization.
+  fresh [[hamilton-composting-and-organic-matter-management]], specializing in simple sugars, proteins, and
+  amino acids. Responsible for most [[fungal-nitrogen-mineralization-pathways]].
 - **Fungi**: Dominant in undisturbed (forest, prairie) soils. Specialize in
   decomposing complex organic polymers (lignin, cellulose, chitin). See
   [[fungal-decomposition]] strategies, important in degrading
@@ -34,7 +34,7 @@ The soil food web is organized into distinct trophic levels:
 
 ### Level 2: Mutualists
 
-- **Mycorrhizal fungi**: Form symbiotic associations with plant roots,
+- **[[arbuscular-mycorrhizal-fungi-biology-symbiosis]]**: Form symbiotic associations with plant roots,
   exchanging mineral nutrients for carbohydrates. See [[mycorrhizal-networks]].
 5. **Higher predators** regulate populations at lower levels, maintaining
    community balance.
@@ -54,7 +54,7 @@ Healthy soil food webs exhibit:
   undisturbed soils. Disturbed agricultural soils often have ratios below
   0.1:1.
 - **Active carbon**: A significant fraction of microbial biomass is
-  metabolically active, not dormant.
+  [[isolation-metabolically-active-arbuscules-intraradical-hyphae]], not dormant.
 - **Diversity**: Multiple functional groups are represented, providing
   resilience and functional redundancy.
 - **Trophic connectivity**: All trophic levels are present and
@@ -69,13 +69,13 @@ Conventional agricultural practices severely disrupt soil food webs:
   No-till systems preserve fungal networks and increase fungal:bacterial
   ratios.
 - **Synthetic fertilizers**: High nitrogen and phosphorus inputs reduce
-  mycorrhizal colonization and suppress free-living nitrogen fixers.
+  [[arbuscular-mycorrhizal-colonization-patterns]] and suppress free-living nitrogen fixers.
 - **Pesticides**: Broad-spectrum pesticides kill non-target soil organisms,
   including beneficial predators and decomposers.
 - **Monoculture**: Reduces plant diversity, which in turn reduces microbial
   and faunal diversity.
 
 [[fungal-ecology]]
-- [[mycorrhizal-symbiosis]]
+- mycorrhizal-symbiosis
 - [[fukuoka-microbial-ecology-decomposition]]
 - soil microbiome

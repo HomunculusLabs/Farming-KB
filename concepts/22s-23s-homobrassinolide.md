@@ -2,15 +2,15 @@
 title: 22S,23S-Homobrassinolide
 category: Brassinosteroids
 tags: [brassinosteroid, steroid, homobrassinolide, phytohormone, stigmasterol]
-related: [[mycelial-growth-enhancement-with-phytohormones]]
-source: Gartz et al. (1990) - Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of Psilocybe cubensis; Adam & Marquardt (1986)
+related: mycelial-growth-enhancement-with-phytohormones
+source: Gartz et al. (1990) - Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]; Adam & Marquardt (1986)
 ---
 # 22S,23S-Homobrassinolide
 
 22S,23S-Homobrassinolide is a synthetic brassinosteroid belonging to the
 C29 homobrassinosteroid class. Prepared from stigmasterol, it
 demonstrated significant growth-promoting effects in fungal cultivation,
-notably accelerating mycelial growth and fruiting in *Psilocybe
+notably accelerating [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and fruiting in *Psilocybe
 cubensis*. It represents one of the few brassinosteroids tested for
 biological activity outside the plant kingdom.
 
@@ -38,7 +38,7 @@ typically show reduced or absent biological activity.
 
 The compound was synthesized from stigmasterol, a readily available
 plant sterol found in soybean, calabar bean, and various other plant
-sources. The synthesis route, described by Adam and Marquardt (1986),
+sources. The [[four-hydroxyindole-psilocin-synthesis-route-shirota]], described by Adam and Marquardt (1986),
 involves multi-step chemical modification of the stigmasterol
 framework:
 
@@ -53,7 +53,7 @@ framework:
 
 The synthesis from stigmasterol is advantageous because it is an
 abundant and inexpensive starting material. The use of a plant-derived
-sterol precursor underscores the structural relationship between
+sterol precursor underscores the [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] between
 brassinosteroids and common plant sterols.
 
 ## Biological Activity
@@ -62,19 +62,19 @@ brassinosteroids and common plant sterols.
 
 - Promotion of cell elongation and cell division
 - Enhancement of reproductive development
-- Increased stress tolerance
+- Increased [[fungal-lichen-stress-tolerance-and-poikilohydry]]
 - Improvement of source-sink relationships and yield
 
 The homobrassinosteroid structure (C29) generally shows comparable or
 slightly modified activity relative to C28 parent compounds, with the
-C-24 methyl group potentially influencing receptor binding and
+C-24 methyl group potentially influencing [[tihkal-receptor-binding-serotonin]] and
 metabolic stability.
 
 ### In Fungi — Seminal Findings
 The landmark study by Gartz, Adam, and Vorbrodt (1990) was the first
 to demonstrate brassinosteroid activity in a fungal system. Using
 *[[brassinosteroids]] — Overview of the brassinosteroid class
-- [[psilocybe-cubensis-fruiting-optimization]] — Cultivation outcomes
+- psilocybe-cubensis-fruiting-optimization — Cultivation outcomes
   with brassinosteroid treatment
 ## Practical Considerations
 
@@ -94,4 +94,5 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+## See Also
+- [[homobrassinolide]]

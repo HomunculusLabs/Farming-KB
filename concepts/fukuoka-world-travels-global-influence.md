@@ -1,11 +1,12 @@
 ---
-title: "Fukuoka's World Travels and Global Influence"
+title: "Fukuoka's fukuoka world travels global influence and Global Influence"
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka's World Travels and Global Influence
@@ -20,21 +21,21 @@ sources:
 Fukuoka visited several African countries and observed the devastating effects of both colonial agricultural policies and modern "development" approaches:
 
 - Colonial agriculture had introduced monoculture cash crops that depleted soil
-- Modern agricultural "aid" promoted chemical farming without understanding local conditions
+- Modern agricultural "aid" promoted [[knf-vs-chemical-farming-comparison]] without understanding local conditions
 - [[fukuoka-seed-ball-one-seed-technique]] to revegetate degraded land
 - Broadcast seed balls containing local plant species over barren areas
 - Demonstrated that vegetation could be re-established without irrigation, plowing, or chemical inputs
-- The project showed that natural farming principles could be applied in tropical conditions very different from Japan
+- The project showed that natural [[natural-farming-principles-fukuoka]] could be applied in tropical conditions very different from Japan
 
 ## India
 
 Fukuoka's ideas resonated deeply in India:
 
-- India had a strong tradition of organic farming and natural philosophy
-- The Green Revolution had transformed Indian agriculture but also created dependency on chemicals
+- India had a strong tradition of [[coleman-deep-organic-farming-philosophy]] and natural philosophy
+- The Green Revolution had transformed [[fukuoka-indian-agriculture-observations]] but also created dependency on chemicals
 - Many Indian farmers and activists embraced Fukuoka's methods as an alternative
 - The philosophical aspects of his teaching (non-action, harmony with nature) aligned with Hindu and Buddhist concepts
-- His critique of modern agriculture spoke to farmers experiencing the failures of the Green Revolution
+- His [[fukuoka-road-critique-of-modern-science]] agriculture spoke to farmers experiencing the failures of the Green Revolution
 
 ## Desert Greening Projects
 

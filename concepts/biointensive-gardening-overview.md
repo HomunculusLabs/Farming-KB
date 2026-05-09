@@ -1,5 +1,5 @@
 ---
-title: GROW BIOINTENSIVE Sustainable Mini-Farming
+title: jeavons-grow-biointensive-method-overview Sustainable Mini-Farming
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
@@ -19,11 +19,11 @@ small-scale sustainable farming systems in the world.
 ## Core Principle
 
 The GB method is based on replicating natural ecosystems. Instead of mining
-soil, it builds soil faster than nature alone by growing all fertility needs
+soil, it builds soil faster than [[fukuoka-textdoc-leave-nature-alone-philosophy]] by growing all fertility needs
 on-site. The system is designed to be closed-loop: everything the plants need
 is produced within the garden itself. This closed-loop approach distinguishes
 GB from many other organic methods that still rely on imported fertility inputs
-such as composted manure from off-site sources, purchased organic fertilizers,
+such as [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]] from off-site sources, purchased [[hamilton-organic-fertilizers-and-plant-nutrition]],
 or green manure crops grown elsewhere.
 
 The fundamental insight is that truly sustainable agriculture must be measured
@@ -50,14 +50,14 @@ components working together as an integrated whole.
 The GB system consists of eight interlocking principles:
 
 1. **Deep soil preparation** via [[biointensive-close-plant-spacing]] — shades soil, reduces evaporation, maximizes photosynthesis
-   per unit area, and creates a living mulch that suppresses weeds. Plants
+   per unit area, and creates a [[comparison-living-mulch-vs-cover-crops]] that suppresses weeds. Plants
    are spaced so that their leaves just touch at maturity, creating a
    continuous living canopy.
 
 3. **Composting** — [[biointensive-carbon-farming]] to produce enough biomass to sustain soil fertility
    indefinitely. These crops are typically high-biomass plants like rye,
    wheat, oats, and comfrey that produce large amounts of carbon-rich material
-   for the compost pile.
+   for the [[mushroom-cultivator-compost-pile-management]].
 
 5. **Calorie farming** — [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]].
 

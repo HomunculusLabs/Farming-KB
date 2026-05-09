@@ -1,5 +1,5 @@
 ---
-title: Beneficial Insects and Ecological Pest Management
+title: comparison-beneficial-insects-guide-vs-integrated-pest-management and Ecological cannabis-pest-management-guide
 source: a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
 author: Toby Hemenway
 topics: insects, pest-management, ecology, permaculture, biological-control, pollination
@@ -12,7 +12,7 @@ topics: insects, pest-management, ecology, permaculture, biological-control, pol
 - **Composites** (daisies, asters, sunflowers, zinnias) — Long bloom periods
 - **Mint family** (lavender, rosemary, thyme, mint) — Attractive to many
   beneficial species
-- **Legumes** (clover, vetch, sweet pea) — Additional nitrogen fixation
+- **Legumes** (clover, vetch, sweet pea) — Additional [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
 
 ### 2. Provide Water Sources
 A shallow dish of water with pebbles for landing surfaces gives insects a
@@ -33,7 +33,7 @@ Beyond insects, birds are significant insect predators:
 - **Swallows** — Catch flying insects in enormous quantities
 
 Attracting birds with water, shelter, and food plants multiplies the
-garden's pest control capacity.
+garden's [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] capacity.
 
 ## The Long-Term Trajectory
 
@@ -42,7 +42,7 @@ time as predator populations establish and complex food webs develop. The
 first year may show some pest pressure, but by year three or four, the
 system typically self-regulates with minimal intervention. This is the
 opposite trajectory of conventional gardens, which require increasing
-chemical inputs as beneficial populations decline and pest resistance grows.
+chemical inputs as beneficial populations decline and [[cannabis-disease-pest-resistance-breeding-clarke]] grows.
 ## Practical Considerations
 
 When working with Beneficial Insects and Ecological Pest Management, several practical factors should be
@@ -59,7 +59,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,3 +102,6 @@ and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
+## See Also
+
+- [[gaias-garden-beneficial-insects-gallery]]

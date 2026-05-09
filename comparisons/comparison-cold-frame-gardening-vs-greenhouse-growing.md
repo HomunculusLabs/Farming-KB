@@ -12,10 +12,10 @@ type: comparison
 
 ## Overview
 
-Cold frames and greenhouses both extend the growing season by capturing solar
+Cold frames and greenhouses both [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season by capturing solar
 energy, but they operate at vastly different scales of cost, complexity, and
 capability. A cold frame is a simple bottomless box with a transparent lid that
-provides modest frost protection and season extension. A greenhouse is a fully
+provides modest [[holzer-frost-protection-techniques]] and [[comparison-season-extension-techniques-vs-cold-frame-gardening]]. A greenhouse is a fully
 enclosed, walk-in structure offering year-round growing, climate control, and
 protected space for tender crops. The choice between them depends on growing
 goals, budget, available space, and willingness to manage an active growing
@@ -28,7 +28,7 @@ environment.
 Greenhouses are fully enclosed structures — from small polycarbonate units to
 large freestanding glass houses — designed for year-round growing. They protect
 plants from wind, rain, frost, and excessive sun while allowing the grower to
-control temperature, ventilation, humidity, and light exposure. Heating options
+control temperature, ventilation, humidity, and light exposure. [[query-what-are-the-best-heating-options-for-an-off-grid-homestead]]
 include electric, gas, and solid fuel systems, while ventilation can be manual
 or automated with ridge vents, louvers, and circulating fans.
 
@@ -58,7 +58,7 @@ environment.
 | Space | Small (typically 3-12 sq ft) | Large (walk-in, 50+ sq ft typical) |
 | Season extension | 4-8 weeks spring and fall | Year-round growing possible |
 | Frost protection | 10-20°F | Full protection with heating |
-| Active climate control | No (passive solar only) | Yes (heating, ventilation, shading) |
+| Active climate control | No ([[comparison-passive-solar-vs-earth-sheltered]] only) | Yes (heating, ventilation, shading) |
 | Growing capacity | Seedlings, hardy greens, hardening off | Full crop production, tender vegetables |
 | Labor requirement | Daily vent management | Regular monitoring and maintenance |
 | Utilities needed | None | Electricity for heat, fans, lights |
@@ -97,7 +97,7 @@ This progression reduces greenhouse crowding during the critical spring
 seed-starting period. Cold frames placed inside or attached to greenhouses
 provide additional frost protection for the most tender plants during shoulder
 seasons. In permaculture designs, cold frames often serve as the interface
-between Zone 0 (home) and Zone 1 (intensive garden), while the greenhouse
+between Zone 0 (home) and Zone 1 ([[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]]), while the greenhouse
 anchors Zone 1 production.
 
 ## See Also

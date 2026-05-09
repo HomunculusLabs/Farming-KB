@@ -126,4 +126,7 @@ seesaw balance of electrical gradients.
 
 - [[what-a-plant-knows-plant-vision-and-light-perception]]
 - [[bacterial-endophytes-plant-roots]]
-- [[mycorrhizal-plant-signaling]]
+- mycorrhizal-plant-signaling
+- [[plant-electrophysiology]]
+- [[plant-bioelectricity]]
+- [[jagadis-chandra-bose]]

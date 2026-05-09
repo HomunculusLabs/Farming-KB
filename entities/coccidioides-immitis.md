@@ -16,7 +16,7 @@ sources:
 
 # Coccidioides immitis
 
-Coccidioides immitis is a dimorphic fungal pathogen that causes coccidioidomycosis, commonly known as valley fever, San Joaquin Valley fever, or desert rheumatism. It is one of the most virulent fungal pathogens known to science, classified as a biohazard class 3 organism, and is endemic to arid and semi-arid regions of the southwestern United States, Mexico, and parts of Central and South America. Its remarkable virulence and ability to cause severe disease even in healthy individuals distinguish it from most other fungal pathogens.
+Coccidioides immitis is a dimorphic [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] that causes coccidioidomycosis, commonly known as valley fever, San Joaquin Valley fever, or desert rheumatism. It is one of the most virulent [[bloomfield-fungal-pathogens-and-parasites]] known to science, classified as a biohazard class 3 organism, and is endemic to arid and semi-arid regions of the southwestern [[dmt-containing-plants-united-states-halpern]], Mexico, and parts of Central and South America. Its remarkable virulence and ability to cause severe disease even in healthy individuals distinguish it from most other fungal pathogens.
 
 ## Taxonomy and Classification
 
@@ -76,7 +76,7 @@ C. immitis is unusually virulent for an environmental fungus. Unlike most fungal
 
 ### Aerosol Risk
 
-The arthroconidia are easily aerosolized and respirable, creating significant risk of laboratory-acquired infection. Cultures growing on agar media can produce massive numbers of arthroconidia that become airborne when plates are opened or disturbed.
+The arthroconidia are easily aerosolized and respirable, creating significant risk of laboratory-acquired infection. Cultures growing on [[growing-gourmet-agar-media-formulas-preparation]] can produce massive numbers of arthroconidia that become airborne when plates are opened or disturbed.
 
 ### Laboratory Safety
 
@@ -89,7 +89,7 @@ C. immitis is found in alkaline soils of arid and semi-arid regions, particularl
 - Desert soils of the southwestern United States with low rainfall and high summer temperatures
 - Areas with hot summers and specific soil chemistry
 - Soil disturbed by construction, agriculture, military activity, or wind erosion
-- Burrowing rodent habitats, where organic enrichment of soil may favor fungal growth
+- Burrowing rodent habitats, where organic enrichment of soil may favor [[brassinosteroid-fungal-growth-promotion]]
 
 The fungus survives in soil as a saprotroph, with arthroconidia serving as the resistant, infectious propagule that persists in the environment for extended periods. The ability to survive in harsh desert conditions contributes to its persistence in endemic regions.
 

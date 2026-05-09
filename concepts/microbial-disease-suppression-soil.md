@@ -1,6 +1,6 @@
 ---
-title: Microbial Disease Suppression in Soil
-source: The Field Guide for [[elaine-ingham]]
+title: Microbial aact-disease-suppression-mechanisms-ingham in Soil
+source: The [[ghouled-field-guide-historical-context]] for elaine-ingham
 source_author: Dr. Elaine R. Ingham
 tags: [disease-suppression, biocontrol, competitive-exclusion, soil-microbes, plant-pathology, AACT, antibiotics]
 created: 2026-05-08
@@ -12,7 +12,7 @@ Soil-borne plant diseases represent some of the most persistent and
 damaging challenges in agriculture worldwide. Dr. Ingham's research
 demonstrates that a healthy, diverse soil foodweb provides natural
 disease suppression through multiple interconnected mechanisms that can
-reduce or eliminate the need for chemical fungicides and pesticides.
+reduce or eliminate the need for [[cervantes-chemical-fungicides-insecticides]] and pesticides.
 
 ## The Biological Basis of Disease Suppression
 
@@ -36,14 +36,14 @@ intervention.
 
 Competitive exclusion is the most fundamental mechanism of biological
 disease suppression. Beneficial organisms occupy the same ecological
-niches as pathogens — root surfaces, leaf surfaces, and organic matter
+niches as pathogens — root surfaces, leaf surfaces, and [[hamilton-composting-and-organic-matter-management]]
 particles. When these niches are fully colonized by beneficial species,
 pathogens find no available space to establish.
 
 On root surfaces, beneficial bacteria and fungi form a protective
 biofilm that physically coats the root. This biological barrier
 prevents pathogen spores from reaching the root surface and
-germinating. The biofilm also consumes [[mycorrhizal-fungi]] ungi and plant growth-promoting rhizobacteria are among
+germinating. The biofilm also consumes  ungi and plant growth-promoting rhizobacteria are among
 the organisms most commonly associated with ISR. This mechanism
 explains why plants growing in biologically rich soil often show
 broad-spectrum disease resistance even without direct pathogen
@@ -53,7 +53,7 @@ exposure.
 
 Building disease-suppressive soil requires consistent and deliberate
 biological management over time. Regular applications of compost and
-compost tea maintain high organism diversity and density in the soil
+[[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] maintain high organism diversity and density in the soil
 profile. Minimizing soil disturbance preserves the established
 biological networks that provide protection.
 
@@ -63,7 +63,7 @@ the soil foodweb to develop complex interconnected communities that
 are far more effective at disease suppression than disturbed systems.
 
 Monitoring the soil foodweb provides early indication of disease
-suppression capacity. When bacterial and fungal biomass are adequate,
+suppression capacity. When [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] biomass are adequate,
 protozoa and nematode grazers are present, and mycorrhizal
 colonization is high, the soil ecosystem is generally well-protected
 against most common plant pathogens.
@@ -89,4 +89,4 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
+- [[ingham-streptococcus-dairy-soil-disease]]

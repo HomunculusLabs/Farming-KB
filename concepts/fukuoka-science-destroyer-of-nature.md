@@ -5,7 +5,8 @@ updated: 2026-04-21
 type: concept
 tags: [fukuoka, natural-farming]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
@@ -21,7 +22,7 @@ The fact of the matter is that as medicine becomes more advanced and the number 
 
 ## Agricultural Progress as Rescue from Self-Inflicted Harm
 
-Agricultural progress has really consisted of nothing more than resorting to passive rescue efforts through agriculture when the rice grew diseased and unhealthy and yields fell. Although natural farming was capable of growing and yielding eight and even twelve bushels per quarter-acre, man destroyed the soil and he destroyed the rice by breeding new, weaker varieties.
+Agricultural progress has really consisted of nothing more than resorting to passive rescue efforts through agriculture when the rice grew diseased and unhealthy and yields fell. Although [[comparison-natural-farming-vs-permaculture]] was capable of growing and yielding eight and even twelve bushels per quarter-acre, man destroyed the soil and he destroyed the rice by breeding new, weaker varieties.
 
 Scientists think they have been conducting research to increase yields, but all they have actually been doing is to develop techniques for reducing declines in yield. In a sense, what agricultural science boils down to is this: First man creates unnatural and incomplete conditions. Then he develops fields of learning and technology to restore the productivity of the land. Finally, when these appear to achieve the desired aims, he brands them proudly for all to see.
 
@@ -51,7 +52,7 @@ Fukuoka demonstrated in his fields that [[fukuoka-critique-western-dietetics-nut
 
 The image of the "endless hell of the intellect" is one of Fukuoka's most powerful metaphors. Each answer generates new questions; each discovery reveals new depths of complexity. The scientist, like the mountain climber in [[fukuoka-four-principles-natural-farming]] demonstrates. By eliminating the practices that create dependency (tilling, fertilizing, weeding, spraying), one also eliminates the need for the scientific knowledge that supports those practices.
 
-The comparison between natural farming and scientific agriculture is devastating. Natural farming produces comparable yields with a fraction of the labor, no chemical inputs, and no dependence on external expertise. If the results are the same, then the simpler method is obviously superior. But the agricultural establishment, as described in [[fukuoka-agriculture-run-amok]] and [[fukuoka-critique-western-dietetics-nutritional-science]]
+The comparison between natural farming and [[fukuoka-critique-scientific-agriculture-civilization]] is devastating. Natural farming produces comparable yields with a fraction of the labor, no chemical inputs, and no dependence on external expertise. If the results are the same, then the simpler method is obviously superior. But the agricultural establishment, as described in [[fukuoka-agriculture-run-amok]] and [[fukuoka-critique-western-dietetics-nutritional-science]]
 
 - [[fukuoka-science-continues-rampage]]
 
@@ -78,4 +79,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

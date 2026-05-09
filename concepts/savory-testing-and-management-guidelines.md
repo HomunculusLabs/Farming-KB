@@ -1,7 +1,7 @@
 ---
-title: Testing and Management Guidelines
+title: savory testing and management guidelines Guidelines
 created: 2026-04-26
-aliases: [testing guidelines, management guidelines, cause and effect,
+aliases: [testing guidelines, management guidelines, [[fukuoka-textdoc-no-cause-and-effect-in-nature]],
           weak link, whole ecosystem test, HRM guidelines]
 tags: [decision-making, testing-guidelines, management-framework,
       holistic-management, ecosystem-health]
@@ -16,8 +16,8 @@ type: concept
 
 # Testing and Management Guidelines
 
-The guidelines in the Holistic Resource Management model serve as the
-practical bridge between understanding ecosystem processes and taking
+The guidelines in the [[savory-holistic-resource-management-animal-impact]] Management model serve as the
+practical bridge between understanding [[fungal-ecosystem-processes-overview]] and taking
 effective action. They are grouped into two categories: seven "testing
 guidelines" that determine whether a tool should be used, and ten
 "management guidelines" that assist in using tools correctly. Some
@@ -80,7 +80,7 @@ expensive technologies against mature, resistant pests that new,
 unscathed recruits immediately replace.
 
 The same principle works in reverse when advancing succession. Where
-several centuries of overgrazing and partial rest have eliminated
+several centuries of overgrazing and [[savory-partial-rest-and-algal-crusts]] have eliminated
 perennial grasses entirely, the weak link is establishment of that
 first plant. The survival of the first plant is far more crucial than
 those that follow, as populations grow geometrically once established.
@@ -100,7 +100,7 @@ to fire; organization and personal growth apply only to human creativity.
 Others apply to more than one tool or to all of them. Some govern daily
 management situations while others come into play only in emergencies.
 
-Time, stock density, and herd effect all relate to the use of animal
+Time, [[savory-fencing-economics-and-stock-density-curve]], and herd effect all relate to the use of animal
 impact and grazing and interrelate with one another. These are
 considered the most critical guidelines for halting and reversing
 desertification.

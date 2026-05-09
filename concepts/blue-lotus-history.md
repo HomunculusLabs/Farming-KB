@@ -35,7 +35,7 @@ The Egyptian native N. caerulea was particularly significant in Egyptian
 civilization, where it appears extensively in art, funerary contexts, and
 religious iconography. Its association with creation myths, the sun god Ra,
 and concepts of rebirth made it one of the most symbolically important plants
-in the ancient Near East.
+in the [[allegro-fertility-philosophy-of-the-ancient-near-east]] East.
 
 ## New World -- Maya Connection
 
@@ -122,9 +122,12 @@ The contemporary interest in Nymphaea caerulea represents a revival of
 ancient ethnobotanical knowledge. While Schultes and Hofmann's account
 focuses on historical and archaeological significance, modern research has
 confirmed the presence of psychoactive alkaloids and has documented
-contemporary traditional use in parts of Mexico and Central America.
+contemporary traditional use in parts of Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
 
-See also: [[pre-columbian-mushroom-use]],
-[[mushroom-symbolism-in-ancient-cultures]]
-- [[mexican-mushroom-stones-archaeological-evidence]]
+See also: pre-columbian-mushroom-use,
+mushroom-symbolism-in-ancient-cultures
+- mexican-mushroom-stones-archaeological-evidence
 - [[lotus-corniculatus]]
+## See Also
+- [[nymphaea-ampla]]
+- [[nymphaea-caerulea]]

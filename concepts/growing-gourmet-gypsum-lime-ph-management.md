@@ -24,7 +24,7 @@ for each mushroom species.
 
 ## Gypsum (Calcium Sulfate)
 
-Gypsum serves multiple important functions in mushroom substrates:
+Gypsum serves multiple important functions in [[query-what-are-the-best-mushroom-substrates-for-different-species]]:
 
 1. Structural improvement: A condition of 5% gypsum helps keep
    the substrate loose and aerated. Gypsum prevents the clumping
@@ -34,7 +34,7 @@ Gypsum serves multiple important functions in mushroom substrates:
 2. Mineral nutrition: Gypsum provides calcium and sulphur, basic
    elements promoting mushroom metabolism. Research by Stoller
    (1962) and Leatham and Stahlman (1989) demonstrated that gypsum
-   stimulated mycelial growth of Shiitake in supplemented sawdust.
+   stimulated [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] of Shiitake in [[oyster-mushroom-supplemented-sawdust-blocks]].
 
 3. Moisture management: In grain spawn formulas, gypsum is added
    to help keep the kernels separated after sterilization. Without
@@ -48,7 +48,7 @@ Gypsum serves multiple important functions in mushroom substrates:
 
 Hydrated lime (calcium hydroxide) is extremely alkaline and water
 soluble. Its primary application is in substrate treatment,
-particularly for straw pasteurization. By immersing straw into
+particularly for [[growing-gourmet-straw-pasteurization-methods]]. By immersing straw into
 water baths high in hydrated lime, competitor fungi and bacteria
 are largely rendered inactive from the drastic change in pH.
 
@@ -60,7 +60,7 @@ conditions, pH-sensitive microorganisms soon die.
 
 After an overnight soaking, the water is drained and discarded.
 It is not unusual for the straw to achieve a pH of 8.5 or higher
-after soaking. Oyster mushroom mycelia can tolerate this alkaline
+after soaking. [[cotter-oyster-mushroom-cultivation]] mycelia can tolerate this alkaline
 environment better than most competitors. After three or four days
 of initial growth, pH slowly falls as the mycelium races through
 the straw, secreting acids and enzymes.
@@ -113,7 +113,7 @@ handling and disposal.
 
 ## Application in Grain Spawn
 
-In grain spawn production, gypsum is routinely added to formulas.
+In grain [[growing-gourmet-sawdust-spawn-production-use]], gypsum is routinely added to formulas.
 The addition of 1-4 grams of gypsum per jar helps maintain kernel
 separation after sterilization and provides essential minerals.
 Grain comes to the consumer with an inherent moisture content of
@@ -126,6 +126,8 @@ content but does improve the physical structure of the spawn,
 making it easier to shake and distribute during inoculation.
 
 ## Related
+
+- [[growing-gourmet-sciarid-phorid-fly-management]]
 
 - [[growing-gourmet-substrate-preparation]]
 - [[growing-gourmet-casing-soils-mushroom-cultivation]]

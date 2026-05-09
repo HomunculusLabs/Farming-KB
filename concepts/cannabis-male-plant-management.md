@@ -45,10 +45,10 @@ contribution to breeding programs.
 Environmental conditions during seedling growth can influence the sex
 ratio of plants grown from seed. Factors that promote more female
 plants include: higher potassium levels, lower nitrogen, higher
-humidity, cooler temperatures, more blue light, and fewer hours of
+humidity, cooler temperatures, more [[chamovitz-julius-von-sachs-blue-light-phototropism]], and fewer hours of
 daily light. Conversely, conditions that favor males include: higher
 nitrogen, lower potassium, lower humidity, warmer temperatures, more
-red light, and longer daily light hours. These tendencies are
+[[phytochrome-red-far-red-light-switch]], and longer daily light hours. These tendencies are
 statistical, not absolute.
 
 ## Removing Males from Sinsemilla Crops

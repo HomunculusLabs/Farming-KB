@@ -20,7 +20,7 @@ farming.
 
 Kochi Prefecture, with its warm temperatures and high humidity, produced rice growth
 that was "too luxuriant" for optimal production. Under these conditions, rice plants
-produced excessive vegetative growth at the expense of grain production. Disease and
+produced excessive [[cannabis-vegetative-growth-stage]] at the expense of grain production. Disease and
 pest attack, particularly from the yellow rice borer, was one method taken by nature
 for suppressing excessive growth. Fukuoka recognized this natural regulation, but
 conventional agricultural science interpreted it purely as damage and harm requiring
@@ -46,7 +46,7 @@ coastal fields, under varying soil types, elevations, and microclimates.
 ### Cultivar Selection Challenges
 
 The program required selecting rice cultivars suited to July planting rather than
-the normal spring planting season. Scientific farming normally chooses
+the normal spring planting season. [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] normally chooses
 thermo-sensitive varieties for early planting and photosensitive varieties for late
 planting, so for post-season cultivation the researchers factored in both
 photosensitivity and cumulative temperature.
@@ -77,7 +77,7 @@ preventing further losses, demonstrating this principle conclusively.
 
 ## Discovery at Kotogahama
 
-While making his rounds for the rice borer eradication program, Fukuoka passed
+While making his rounds for the rice [[fukuoka-kochi-rice-borer-eradication-debacle]] program, Fukuoka passed
 through a pine wood along the shore at Kotogahama. There he spotted a large number
 of young rice seedlings that had sprouted from unhulled seed spilled from rice
 plants the previous autumn. This observation of nature "planting without sowing
@@ -87,7 +87,7 @@ rice farming.
 The rice seedlings had germinated and survived the winter without any human
 assistance. No tillage, no transplantation, no flooding, no fertilization. The
 seed had simply fallen to the ground, overwintered in the soil, and emerged when
-conditions were right. This direct observation contradicted the agricultural
+conditions were right. This [[fukuoka-direct-observation-method]] contradicted the agricultural
 establishment assumption that rice required intensive human management at every
 stage of its growth cycle.
 
@@ -111,7 +111,7 @@ The rice plant itself, Fukuoka suggested, might see blast disease as a
 between the surface and underground portions of the plant." The disease might
 even be regarded as "a means by nature for preventing the overly dense growth
 of rice plants, thus aiding photosynthesis and assuring the full production
-of seed." This radical reframing of pest and disease as natural regulators
+of seed." This radical reframing of [[hamilton-pest-and-disease-control-organic]] as natural regulators
 rather than enemies became a cornerstone of his [[fukuoka-textdoc-increased-production-not-increased-yields]] and connects to his
 broader argument about the [[fukuoka-textdoc-production-costs-not-coming-down]].
 
@@ -127,7 +127,7 @@ developed over centuries?
 ### From Researcher to Natural Farmer
 
 Fukuoka described this period as one where he "inwardly searched for what I
-believed to be the true path of agriculture, natural farming." He had "yet no
+believed to be the true path of agriculture, [[comparison-natural-farming-vs-permaculture]]." He had "yet no
 clear image of natural farming" and could only "grope blindly for a way of
 farming I had never seen but knew must exist." The post-season cultivation
 failure was a cumulative disillusionment with the scientific approach, each

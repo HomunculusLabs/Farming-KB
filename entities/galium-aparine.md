@@ -19,7 +19,7 @@ tags:
   - hedgerow
 sources:
   - Chiej, R. (1984). "The Macdonald Encyclopedia of Medicinal Plants." Macdonald & Co.
-  - Duke, J.A. (2002). "Handbook of Medicinal Herbs." 2nd ed. CRC Press.
+  - Duke, J.A. (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]]." 2nd ed. CRC Press.
   - Bisset, N.G. (1994). "Herbal Drugs and Phytopharmaceuticals." Medpharm Scientific Publishers.
   - Hendriks, H. et al. (1997). "The history of Cleavers (Galium aparine L.) as a medicinal plant." In: Plants in Medicine and Culture. Routledge.
   - USDA NRCS. "Galium aparine L." PLANTS Database. plants.usda.gov.
@@ -32,7 +32,7 @@ sources:
 *Galium aparine*, commonly known as cleavers, goosegrass, stickywilly, or
 catchweed bedstraw, is an annual herbaceous plant in the family Rubiaceae. It
 is one of the most widespread and recognizable weeds in temperate regions
-worldwide, found across Europe, North America, Asia, and parts of Africa.
+worldwide, found across Europe, [[psilocybin-north-america-pacific-northwest]], Asia, and parts of Africa.
 
 The plant is distinguished by its sprawling, climbing habit and its stems,
 leaves, and seeds covered in tiny hooked hairs (glochids) that readily adhere
@@ -74,21 +74,21 @@ nutritious spring tonic green.
 
 ## Permaculture and Ecological Applications
 
-In permaculture systems, *G. aparine* functions as a dynamic accumulator, drawing
+In permaculture systems, *G. aparine* functions as a [[nutrient-dynamic-accumulator-reference]], drawing
 up nutrients (particularly silica, calcium, and potassium) from deep soil
 layers and depositing them in above-ground biomass.
 
-As a living mulch, it provides ground cover that suppresses more aggressive
+As a [[comparison-living-mulch-vs-cover-crops]], it provides ground cover that suppresses more aggressive
 weeds while cycling nutrients through rapid biomass turnover. Its climbing
 habit allows it to coexist with taller crops without significant competition
 for light.
 
-The plant serves as a habitat and food source for beneficial insects,
+The plant serves as a habitat and food source for [[comparison-beneficial-insects-guide-vs-integrated-pest-management]],
 including small beetles, hoverflies, and predatory bugs. Its flowers provide
 early-season nectar for pollinators.
 
 Chopped cleavers make an excellent addition to compost piles, contributing
-high-nitrogen green material. The silica-rich biomass improves compost quality
+high-nitrogen green material. The silica-rich biomass improves [[aact-compost-quality-standards-ingham]]
 and benefits subsequent crops when applied as mulch or compost amendment.
 ## See Also
 

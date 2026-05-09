@@ -1,5 +1,5 @@
 ---
-title: "Free-Range Pig Systems in Permaculture Design"
+title: "Free-Range Pig Systems in bill-mollison-permaculture-a-designers-manual-permaculture-design-principles"
 created: 2026-04-26
 tags:
   - permaculture
@@ -75,15 +75,15 @@ both tropical and cooler areas:
 
 Tropical trees: mulberry, Bunya pine, fig, Inga edulis,
 various palms (Chilean wine palm, Jagua, Burt, Babassu, Assai,
-oil palm, date palm, coconut), oaks, chestnuts, breadfruit,
+oil palm, [[permaculture-date-palm-guide]], coconut), oaks, chestnuts, breadfruit,
 jak fruit, Prosopis, Chinese tallow tree.
 
 Cooler area trees: mulberry, olive, Chilean wine palm, canary
 date palm, oaks (especially white oak, cork oak, turkey oak),
-honey locust, carob, chestnut, chinquapin, rain tree.
+[[permaculture-honey-locust-pod-fodder-system]], carob, chestnut, chinquapin, rain tree.
 
-Root crops: cattails, arrowroot, Jerusalem artichoke, comfrey,
-yams, taro, sweet potato, cassava, elephant-foot yam, Maranta.
+[[permaculture-plants-root-crops-and-tubers]]: cattails, arrowroot, [[comparison-jerusalem-artichoke-vs-potato]], comfrey,
+yams, taro, [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], cassava, elephant-foot yam, Maranta.
 
 ## The Pig Tractor System
 
@@ -130,6 +130,9 @@ is to be an occupation.
 
 ## See Also
 
-- [[mollison-animal-range-management]]
+- mollison-animal-range-management
 - [[animal-tractoring]]
 - [[mollison-wet-tropical-forest-structure-and-polyculture]]
+- [[permaculture-design]]
+- [[chinese-tallow-tree]]
+- [[jerusalem-artichoke]]

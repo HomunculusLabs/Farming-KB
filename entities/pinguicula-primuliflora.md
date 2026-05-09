@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Pinguicula primuliflora**, commonly known as the **southern butterwort** or **primrose butterwort**, is a carnivorous plant native to the southeastern United States. It is one of the most commonly cultivated butterwort species.
+**Pinguicula primuliflora**, commonly known as the **southern butterwort** or **primrose butterwort**, is a carnivorous plant native to the southeastern [[dmt-containing-plants-united-states-halpern]]. It is one of the most commonly cultivated butterwort species.
 
 The species is named for its primrose-like flowers, which are among the largest and most colorful in the genus. The rosette of sticky, glandular leaves functions as a passive flypaper trap.
 
@@ -35,7 +35,7 @@ The species belongs to *Pinguicula* section **Temperate American clade**, closel
 
 The plant forms a flat rosette 5–10 cm in diameter. Leaves are elliptic to oblanceolate, 3–8 cm long and 1–2 cm wide, with entire margins.
 
-The upper leaf surface is densely covered with two types of glandular trichomes. Pedunculate glands produce the sticky mucilage that traps prey, while sessile glands secrete digestive enzymes.
+The upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is densely covered with two types of glandular trichomes. Pedunculate glands produce the sticky mucilage that traps prey, while sessile glands secrete digestive enzymes.
 
 The leaf surface is a bright green to yellowish-green, often with a slight reddish tint along the margins. The mucilage coating gives the leaves a glossy, wet appearance in bright light.
 
@@ -71,7 +71,7 @@ The mucilage is produced continuously by pedunculate glands across the leaf surf
 
 Unlike sundews, butterwort leaves do not exhibit thigmonastic movement. The leaf does not curl or fold around captured prey. Digestion occurs in situ on the leaf surface.
 
-Prey consists primarily of small flying insects including fungus gnats, fruit flies, midges, and small mosquitoes. The species is especially effective at capturing insects in humid, sheltered environments.
+Prey consists primarily of small flying insects including [[query-how-to-control-fungus-gnats-organically]], fruit flies, midges, and small mosquitoes. The species is especially effective at capturing insects in humid, sheltered environments.
 
 Sessile glands secrete proteases and other digestive enzymes onto the trapped insect. Nutrient absorption occurs through the leaf surface over a period of several days.
 

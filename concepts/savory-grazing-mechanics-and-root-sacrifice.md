@@ -1,5 +1,5 @@
 ---
-title: "Grazing Mechanics and Root Sacrifice"
+title: "savory grazing mechanics and root sacrifice and Root Sacrifice"
 created: 2026-04-28
 tags: [holistic-management, grazing, grassland-ecology, overgrazing]
 date: 2026-04-25
@@ -11,14 +11,14 @@ type: concept
 # Grazing Mechanics and Root Sacrifice
 
 The mechanism by which overgrazing kills perennial grasses is one of the
-most important concepts in holistic resource management. Understanding the
+most important concepts in [[savory-holistic-resource-management-animal-impact]] management. Understanding the
 energy dynamics between leaves and roots reveals why timing matters more
 than numbers of animals, and why conventional stocking rate calculations
 fail to prevent grassland deterioration.
 
 ## Overview
 
-When a grazing animal bites a perennial grass during the growing season,
+When a grazing animal bites a perennial grass during the [[savory-growing-season-and-non-growing-season-management]],
 the plant faces an immediate energy crisis. Having used its stored root
 reserves to produce spring growth, the plant must now replace the lost
 leaf area using energy it can no longer generate through photosynthesis.
@@ -59,7 +59,7 @@ stored reserves to push up new shoots and leaves. Once the new leaves are
 large enough to photosynthesize effectively, the plant begins to rebuild
 its root reserves.
 
-This means that in early spring, before full leaf canopy is established,
+This means that in [[coleman-overwintered-onions-and-early-spring-crops]], before full leaf canopy is established,
 the grass is operating on a negative energy budget. It is spending stored
 reserves faster than it is replacing them through photosynthesis. If the
 plant is defoliated during this critical period, the energy deficit is
@@ -97,14 +97,14 @@ causes a temporary setback but the plant recovers given adequate time.
 Overgrazing occurs when a plant that has been severely bitten in the
 growing season is bitten again before it has fully recovered. The recovery
 period must be long enough for the plant to regrow sufficient leaf area
-to restore positive energy flow and to regrow the roots that were
+to restore positive [[savory-energy-flow-and-solar-capture]] and to regrow the roots that were
 sacrificed after the first bite. If the animal returns too soon, the plant
 must sacrifice yet more root tissue, further weakening its ability to
 absorb water and nutrients.
 
 ### Why Stocking Rates Fail
 
-Conventional range management relies on stocking rates, which calculate
+Conventional [[mollison-pdc-range-management-wildlife]] relies on stocking rates, which calculate
 the number of animals a given area can support. This approach fails because
 it does not account for the timing of grazing. A small number of animals
 left in one pasture all season will overgraze plants repeatedly, while a

@@ -1,5 +1,5 @@
 ---
-title: "Outdoor Log Inoculation Techniques"
+title: "growing gourmet outdoor log inoculation techniques cotter-inoculation-techniques-and-hygiene"
 created: 2026-04-26
 tags:
   - mushroom-cultivation
@@ -21,7 +21,7 @@ hillsides, inoculated logs are stacked like cordwood or in
 fence-like rows, supplying local markets with fresh gourmet
 mushrooms.
 ## Selecting and Preparing Logs
-Logs are usually cut in the winter or early spring before
+Logs are usually cut in the winter or [[coleman-overwintered-onions-and-early-spring-crops]] before
 leafing, when the sapwood is rich in sugars, to a meter in
 length and 4-10 inches in diameter. Cultivators generally
 favor logs which have a higher ratio of sapwood to
@@ -30,13 +30,13 @@ or cottonwood decompose more rapidly and give earlier
 crops than the denser hardwoods such as oaks.
 The logs, once felled, should be kept off the ground.
 Ideally inoculations should occur within two months of
-felling. In temperate North America, February and March
+felling. In temperate [[psilocybin-north-america-pacific-northwest]], February and March
 are ideal months. Logs showing no growth of mycelium, or
 the growth of competitor fungi, are removed from the
 production rows after a year.
 ## Plug Spawn Inoculation Method
 The most common method involves drilling holes into logs
-and inserting plug or sawdust spawn. Most logs receive
+and inserting plug or [[growing-gourmet-sawdust-spawn-production-use]]. Most logs receive
 30-50 plugs, which are inserted into evenly spaced holes
 (4-6 inches apart) arranged longitudinally down the axis
 of the logs in a diamond pattern. By off-centering the
@@ -49,7 +49,7 @@ cheese-wax, usually painted on, to protect the mycelium
 from insect or weather damage. Spirally grooved wooden
 dowels help the mycelium survive the concussion of
 inoculation.
-See also: [[growing-gourmet-natural-culture-myco-landscaping]]
+See also: growing-gourmet-natural-culture-myco-landscaping
 ## Wax Sealing
 Cheese wax is the standard sealant used for covering
 inoculation sites on logs. The wax is typically melted and
@@ -63,7 +63,7 @@ Besides Shiitake, many other mushrooms can be grown on
 logs, including:
 - Nameko ([[hericium-erinaceus]])
 - Wood Ears (Auricularia species)
-- Clustered Wood Lovers ([[growing-gourmet-spore-mass-inoculation-techniques]]
+- Clustered [[stamets-cultivator-wood-lovers-bed-preparation-outdoor]] ([[growing-gourmet-spore-mass-inoculation-techniques]]
 ## Practical Considerations
 
 Successful implementation of Outdoor Log Inoculation Techniques requires attention to
@@ -83,3 +83,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[log-waxing-inoculation-sealing]]

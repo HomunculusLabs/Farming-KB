@@ -76,8 +76,8 @@ that wraps the tendril around the support within hours. The second is a slower,
 whole-tendril coiling that develops over days and acts like a spring, drawing
 the plant closer to its support and providing elasticity that buffers against
 wind. The coiling direction is often species-specific and determined by the
-m [[query-how-do-i-restore-saline-and-compacted-soil]] soil. When a
-growing root encounters a barrier -- a rock, a compacted soil layer, or
+m  soil. When a
+[[solomon-growing-root-crops-guide]] encounters a barrier -- a rock, a compacted soil layer, or
 another root -- it changes its growth direction to navigate around the
 obstruction. This response, called root obstacle avoidance, involves
 mechanosensitive ion channels in the root cap cells that detect pressure and
@@ -88,7 +88,7 @@ mechanoresponses. When a plant cell experiences mechanical stimulation,
 mechanosensitive calcium channels in the plasma membrane open, allowing a rapid
 influx of extracellular calcium into the cytoplasm. This calcium spike acts as
 a signal that triggers downstream responses including gene activation,
-cytoskeletal reorganization, and changes in cell wall properties.
+cytoskeletal reorganization, and changes in [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] properties.
 
 The calcium signal is decoded by calcium-binding proteins such as calmodulin
 and calmodulin-like proteins. In Arabidopsis, the TCH3 gene, which encodes a

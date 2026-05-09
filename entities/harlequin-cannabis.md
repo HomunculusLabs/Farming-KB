@@ -1,5 +1,5 @@
 ---
-title: "Harlequin (Cannabis Strain)"
+title: "Harlequin (blesching-cannabis-strain-selection-receptor-targeting)"
 created: 2026-04-28
 type: strain
 tags:
@@ -33,9 +33,9 @@ sources:
 
 | Condition | Evidence Level | Mechanism |
 |-----------|---------------|-----------|
-| **Chronic Pain** | Moderate | CBD + caryophyllene anti-inflammatory action |
+| **[[cannabis-chronic-pain-management]]** | Moderate | CBD + caryophyllene anti-inflammatory action |
 | **Inflammation** | Moderate–Strong | CBD, β-caryophyllene, myrcene synergy |
-| **Anxiety** | Moderate | CBD anxiolytic; THC mitigated by CBD ratio |
+| **Anxiety** | Moderate | CBD anxiolytic; THC mitigated by [[cannabis-thc-cbd-ratio-guide-for-conditions]] |
 | **PTSD** | Emerging | CBD modulates fear response; functional daytime use |
 | **Multiple Sclerosis** | Emerging | Anti-spasmodic, anti-inflammatory properties |
 | **Epilepsy** | Strong (CBD generally) | CBD anticonvulsant action; see Epidiolex literature |
@@ -43,7 +43,7 @@ sources:
 
 - Harlequin is frequently recommended by medical cannabis physicians for relief without impairment
 - Peer-reviewed evidence for CBD as anti-inflammatory and analgesic is well-established (PMC6323729)
-- The entourage effect of CBD + THC + terpenes is believed to enhance outcomes beyond isolated CBD
+- The [[cannabis-terpene-entourage-effect-profiles]] of CBD + THC + terpenes is believed to enhance outcomes beyond isolated CBD
 
 ## Growing Information
 
@@ -59,7 +59,7 @@ sources:
 | **Harvest (Outdoor)** | Mid to late October |
 
 - Responds well to topping and LST (low-stress training) to manage canopy height
-- Resistant to mold and mildew; monitor for bud rot in humid outdoor conditions
+- Resistant to [[cannabis-mold-and-mildew-prevention]]; monitor for bud rot in humid outdoor conditions
 - Clones are more reliable than seeds for preserving the CBD-dominant phenotype
 - Suitable for both indoor and outdoor cultivation; performs best in warm, dry climates
 
@@ -80,7 +80,7 @@ sources:
 
 ## Legal Status
 
-- **United States**: Legal for medical use in states with cannabis programs
+- **[[dmt-containing-plants-united-states-halpern]]**: Legal for medical use in states with cannabis programs
 - **Canada**: Legal under the Cannabis Act (medical and recreational)
 - **Europe**: Varies; CBD-dominant strains may qualify where THC is below national limits (0.2–1.0%)
 - **Australia**: Prescription via Special Access Scheme or Authorized Prescriber

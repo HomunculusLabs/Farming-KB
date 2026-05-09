@@ -1,5 +1,5 @@
 ---
-title: Microwave Sterilization System Hardware Architecture
+title: Microwave microwave sterilization system hardware architecture Architecture
 tags:
   - sterilization
   - microwave
@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-The NASA Johnson Space Center microwave surface sterilization system (MSC-22484) consists of several integrated hardware components that work together to deliver controlled 2.45 GHz microwave energy to contaminated surfaces. The system architecture was designed for reliability, controllability, and the ability to sterilize complex surface geometries within closed systems. Each component plays a specific role in generating, transmitting, and delivering microwave energy to achieve the validated sterilization dose.
+The NASA Johnson Space Center [[challenge-microorganisms-microwave-surface-sterilization]] sterilization system (MSC-22484) consists of several integrated hardware components that work together to deliver controlled 2.45 GHz microwave energy to contaminated surfaces. The system architecture was designed for reliability, controllability, and the ability to sterilize complex surface geometries within closed systems. Each component plays a specific role in generating, transmitting, and delivering microwave energy to achieve the validated [[microwave-sterilization-dose-response-microbial-kill-curves]].
 
 ## Core Components
 
@@ -43,7 +43,7 @@ The complete signal flow through the microwave sterilization hardware proceeds a
 3. Magnetron generates 2.45 GHz microwave energy
 4. Energy propagates through the rectangular waveguide
 5. Waveguide to coaxial adapter transitions the transmission medium
-6. Coaxial power splitter distributes energy to multiple paths
+6. Coaxial [[coaxial-power-splitter-waveguide-microwave-sterilization]] distributes energy to multiple paths
 7. Dipole antennas radiate microwave energy onto contaminated surfaces
 8. Trace water system provides moisture for spore destruction enhancement
 
@@ -82,3 +82,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[microwave-sterilization-system-hardware-architecture-power-waveguide-antenna]]

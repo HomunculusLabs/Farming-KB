@@ -15,7 +15,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Doherty, D. (2012). The Regenerative Agriculture Keyline Design Masterclass. Regrarians Ltd."
+  - "Doherty, D. (2012). The Regenerative Agriculture query-how-does-keyline-design-work-in-permaculture Masterclass. Regrarians Ltd."
   - "Regrarians Ltd. (2024). About. regrarians.org."
   - "Yeomans, P.A. (1954). The Challenge of Landscape. Keyline Publishing."
   - https://www.regrarians.org/
@@ -27,7 +27,7 @@ sources:
 ## Overview
 
 **Darren J. Doherty** is an Australian permaculture designer, regenerative agriculture consultant, and educator widely regarded as the world's foremost practitioner and advocate of **Keyline Design®** in the modern era. Based in Bendigo, Victoria, Australia, Doherty is the founder and director of **Regrarians Ltd.** (formerly RegenAG), an organization dedicated to the large-scale adoption of regenerative agriculture practices. Over a career spanning more than three decades, Doherty has designed and overseen the implementation of Keyline-based water management and [[p-a-yeomans]] — the original developer of Keyline Design
-- [[allan-savory]] — Holistic Management, frequently integrated with Keyline Design in Doherty's work
+- [[allan-savory]] — [[savory-holistic-management-overview]], frequently integrated with Keyline Design in Doherty's work
 - [[mark-shepard]] — restoration agriculture, complementary to Doherty's broadacre approach
 - [[sepp-holzer-entity]] — Austrian permaculture farmer with a similar emphasis on water management and landscape-scale design
 ## Practical Applications
@@ -107,4 +107,3 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
-

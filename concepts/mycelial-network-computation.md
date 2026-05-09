@@ -1,5 +1,5 @@
 ---
-title: Mycelial Network Computation
+title: gadd-mycelial-network-dynamics Computation
 created: 2026-04-28
 tags: [biology, computing, mycology, unconventional-computing]
 date: 2026-04-28
@@ -15,12 +15,12 @@ leverages the growth patterns and electrical signaling of fungal mycelium to
 perform information processing tasks. Mycelium — the vegetative body of fungi —
 forms vast interconnected networks that naturally solve spatial optimization
 problems as they forage for nutrients. This approach sits within the broader
-field of [[physarum-polycephalum]]polycephalum* (technically a protist, but studied
+field of polycephalum* (technically a protist, but studied
 alongside fungi) famously reconstructed the Tokyo rail network when placed on
-a map with oat flakes representing cities. True fungal mycelium opleurotus-ostreatusurotus ostreatus* (oyster mushroom) has demonstrated similar spatial
+a map with oat flakes representing cities. True fungal mycelium opleurotus-ostreatusurotus ostreatus* ([[cotter-oyster-mushroom-cultivation]]) has demonstrated similar spatial
 problem-solving capabilities.
 
-In fungal experiments, mycelial networks have been shown to:
+In fungal experiments, [[fungal-mycelial-networks-nutrient-translocation]] have been shown to:
 
 1. Reconnect severed connections via alternative routing, demonstrating
    built-in fault tolerance.
@@ -35,14 +35,14 @@ In fungal experiments, mycelial networks have been shown to:
 |----------|-------------|
 | Parallelism | Millions of hyphal tips grow simultaneously |
 | Fault tolerance | Networks self-repair when damaged |
-| Energy efficiency | Operates at ambient temperature, minimal energy |
+| [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] | Operates at [[jadam-ambient-temperature-principle]], minimal energy |
 | Adaptability | Rewires in response to changing conditions |
 | Scalability | Networks span centimeters to hectares in nature |
 | Memory | Network topology encodes past environmental states |
 
 ## Mathematical Modeling
 
-Mycelial growth can be modeled using coupled differential equations describing
+[[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] can be modeled using coupled differential equations describing
 hyphal extension rates, branching probability, and tube conductivity. The
 **Physarum solver** — originally developed for slime mold dynamics — has been
 adapted to fungal networks with modifications for anastomosis (hyphal fusion)

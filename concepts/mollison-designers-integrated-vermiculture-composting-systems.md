@@ -1,5 +1,5 @@
 ---
-title: Integrated Vermiculture and Composting Systems
+title: mollison designers integrated vermiculture composting systems and Composting Systems
 created: 2026-04-28
 tags:
   - permaculture
@@ -19,9 +19,9 @@ type: concept
 Vermiculture (worm farming) is a central component of permaculture soil
 fertility management. Bill Mollison discusses earthworms extensively in
 Permaculture: A Designers' Manual (Chapter 7: Soil), describing them
-as the primary agents of soil formation and nutrient cycling in
+as the primary agents of soil formation and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in
 temperate and tropical ecosystems alike. Integrated vermiculture systems
-combine worm composting with traditional composting methods, creating a
+combine worm composting with traditional [[natural-farming-guide-composting-methods-and-techniques]], creating a
 multi-pathway system for converting organic waste into high-quality soil
 amendments, liquid fertilizers, and animal feed.
 
@@ -35,7 +35,7 @@ Key species for vermiculture include:
   - Eisenia fetida (Red Wiggler / Tiger Worm): The standard composting
     worm for temperate and subtropical systems. Tolerant of a wide
     range of conditions, processes organic waste rapidly, and
-    reproduces prolifically. Optimal temperature range: 15-25C
+    reproduces prolifically. Optimal [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]: 15-25C
   - Eisenia andrei (Red Tiger): Similar to E. fetida, slightly more
     tolerant of warm conditions and higher protein content
   - Perionyx excavatus (Indian Blue / Spenceri): Tropical composting
@@ -73,7 +73,7 @@ excavated pits lined with shade cloth.
 ## Feedstock and Management
 
 Composting worms consume a wide range of organic materials:
-  - Kitchen scraps: Fruit and vegetable peelings, coffee grounds,
+  - Kitchen scraps: Fruit and vegetable peelings, [[oyster-mushroom-coffee-grounds-cultivation]],
     tea leaves, crushed eggshells
   - Garden waste: Soft green prunings, leaf mold, grass clippings
     (in moderation)
@@ -126,7 +126,10 @@ Worm systems integrate with other permaculture elements:
 ## See Also
 
 - mollison designers soil building
-- mollison designers composting methods
-- [[mollison-designers-duck-pond-integrated-systems]]
+- mollison [[mollison-designers-composting-toilets-and-humanure]] methods
+- mollison-designers-duck-pond-integrated-systems
 - [[mollison-designers-poultry-forage-design-pastured-systems]]
-- [[mollison-designers-integrated-pest-management-design]]
+- mollison-designers-integrated-pest-management-design
+- [[composting-systems]]
+- [[decomposition]]
+- [[bill-mollison]]

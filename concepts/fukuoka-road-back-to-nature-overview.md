@@ -5,17 +5,18 @@ updated: 2026-04-16
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # The Road Back to Nature
 
 *The Road Back to Nature* (in Japanese, 自然に還る) is [[one-straw-revolution-overview]]. While the earlier book focused on [[fukuoka-four-principles-natural-farming]], this book expands into a broader philosophical, spiritual, and global vision. It documents Fukuoka's travels, his observations of Western and Japanese culture, and his attempts at [[fukuoka-natural-farming-philosophy-of-mu]]
 
-- **Seeding a Real Green Revolution** -- his critique of the conventional green revolution and proposal for a truly natural approach, detailed in [[fukuoka-nature-transcends-human-knowledge]] to questions of divinity and purpose
+- **Seeding a [[fukuoka-seeding-real-green-revolution]] Revolution** -- his critique of the conventional green revolution and proposal for a truly natural approach, detailed in [[fukuoka-nature-transcends-human-knowledge]] to questions of divinity and purpose
 
-- **Desert Greening chapters** -- detailed accounts of [[fukuoka-seed-ball-methods-advanced]]
+- **[[fukuoka-desert-greening-plant-irrigation]] chapters** -- detailed accounts of [[fukuoka-seed-ball-methods-advanced]]
 
-- **Health and medicine** -- Fukuoka's views on returning to "the natural body of an infant" through [[fukuoka-decentralized-self-sufficient-communities]]
+- **Health and medicine** -- Fukuoka's views on returning to "the [[fukuoka-natural-body-and-health]] of an infant" through [[fukuoka-decentralized-self-sufficient-communities]]
 
 The book's non-linear structure mirrors Fukuoka's philosophical approach: rather than building an argument systematically, it accumulates observations and insights that converge on a single theme -- the need for humanity to abandon the desire to control nature.
 
@@ -41,11 +42,11 @@ The book's health chapters extend the [[fukuoka-do-nothing-farming-and-spiritual
 
 ## Critique of Both East and West
 
-One of the book's notable features is its even-handed critique. Fukuoka criticizes Western industrial agriculture but also criticizes Japan for abandoning its own agricultural wisdom in pursuit of Western-style modernization. He critiques both capitalism and communism, both Western medicine and the corruption of traditional Oriental medicine. His standard is not any particular culture or system but the natural order itself.
+One of the book's notable features is its even-handed critique. Fukuoka criticizes Western industrial agriculture but also criticizes Japan for abandoning its own agricultural wisdom in pursuit of Western-style modernization. He critiques both capitalism and communism, both [[fukuoka-eastern-western-medicine-healing-world-crisis]] and the corruption of traditional Oriental medicine. His standard is not any particular culture or system but the [[fukuoka-textdoc-natural-order-food-chain-unity]] itself.
 
 ## Reception and Significance
 
-This book is less widely read than [[fukuoka-desert-greening-techniques-detailed]] experiments described here represent some of his most ambitious practical applications of natural farming principles.
+This book is less widely read than [[fukuoka-desert-greening-techniques-detailed]] experiments described here represent some of his most ambitious practical applications of natural [[natural-farming-principles-fukuoka]].
 
 The book's influence can be seen in the global permaculture movement, the growing interest in [[fukuoka-road-education-modern-schooling]]
 
@@ -56,6 +57,8 @@ The book's influence can be seen in the global permaculture movement, the growin
 - [[natural-farming-and-spirituality]]
 
 ## Related
+
+- [[fukuoka-human-intellect-barrier-to-nature-road-back]]
 
 - [[fukuoka-european-civilization-standstill]]
 - [[fukuoka-return-to-nature-philosophy]] - fukuoka road back to nature overview 
@@ -77,4 +80,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

@@ -1,5 +1,5 @@
 ---
-title: Cola Development and Bud Architecture in Cannabis
+title: [[green-cannabis-curing-drying-buds]] cola development bud architecture and Bud Architecture in Cannabis
 created: 2026-04-26
 tags:
   - cannabis
@@ -18,7 +18,7 @@ type: concept
 
 The cola is the large central bud cluster at the top of a cannabis plant,
 and understanding how colas develop and how the plant's bud architecture
-is organized is essential for maximizing yield. [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] methods, which concentrate on making this part grow really big.
+is organized is essential for maximizing yield.  methods, which concentrate on making this part grow really big.
 
 ### Mid-Section
 
@@ -48,7 +48,7 @@ concentrates all energy into the top bud.
 - Six or more colas: Possible with repeated topping on responsive
   strains.
 
-However, Greg Green notes that the total bud volume is constrained by
+However, [[greg-green]] notes that the total bud volume is constrained by
 the strain's genetic threshold. Multiple colas share the same total bud
 volume that a single cola would produce on some strains, while on other
 strains the total can genuinely increase.
@@ -88,3 +88,6 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## See Also
+
+- [[cola-nitida]]

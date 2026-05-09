@@ -5,7 +5,8 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Food and Human Health
@@ -16,7 +17,7 @@ For Masanobu Fukuoka, the connection between farming practices and human health 
 
 Fukuoka drew a sharp distinction between food that grows naturally and food that requires human intervention to produce. A wild plant growing in its natural habitat is the most nutritious and medicinal food available. A cultivated plant, especially one grown with chemicals, is a pale imitation.
 
-The wilder and more primitive the food, the greater its medicinal value. This is because wild plants have not been bred for appearance or yield at the expense of nutritional quality. They retain the full spectrum of compounds that nature intended.
+The wilder and more primitive the food, the greater its medicinal value. This is because wild plants have not been bred for appearance or yield at the expense of [[coleman-winter-greens-nutritional-quality-cold-sweetening]]. They retain the full spectrum of compounds that nature intended.
 
 ## The Problem with Scientific Diet
 
@@ -24,7 +25,7 @@ Man is an animal that feeds with his head rather than his mouth. Scientifically,
 
 As man works to correct his unbalanced diet, he studies and analyzes food, calling this a nutrient, that a calorie, and trying to combine everything into a complete diet. This seems to bring him closer to his goal, but the only real outcome of his efforts is the fragmentation of diet and even greater contradiction.
 
-The food that animals eat by instinct constitutes a complete diet, but man, with his reliance on discriminating knowledge, has lost sight of what a complete diet is. We can safely say that what primitive man ate instinctively comprised a complete diet. On the other hand, instead of leading us toward a complete diet, modern science has resulted in the discovery of a more sophisticated yet imperfect diet.
+The food that animals eat by instinct constitutes a complete diet, but man, with his reliance on [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]], has lost sight of what a complete diet is. We can safely say that what primitive man ate instinctively comprised a complete diet. On the other hand, instead of leading us toward a complete diet, modern science has resulted in the discovery of a more sophisticated yet imperfect diet.
 
 ## The Food Industry's Failure
 
@@ -38,7 +39,7 @@ For Fukuoka, health was not merely the absence of disease but a state of harmony
 
 Modern medicine, in Fukuoka's view, treats symptoms without addressing causes. It is like treating a diseased tree with chemicals while ignoring the degraded soil that caused the disease. True healing requires restoring the relationship between the person and nature. This is the essence of Fukuoka's [[fukuoka-cleansing-diet]] based on brown rice and seasonal vegetables as a way to restore health. This diet, rooted in traditional Japanese food wisdom, was not a fad but a return to the way people ate before industrialization transformed food into a commodity.
 
-The five tastes -- sweet, sour, bitter, spicy, and salty -- all have their place in a healthy diet. Modern processed food emphasizes sweet and salty at the expense of the others, creating imbalance. A natural diet includes all five tastes in their proper proportions, as found in whole, unprocessed foods.
+The five tastes -- sweet, sour, bitter, spicy, and salty -- all have their place in a healthy diet. Modern processed food emphasizes sweet and salty at the expense of the others, creating imbalance. A [[fukuoka-natural-diet-as-foundation]] includes all five tastes in their proper proportions, as found in whole, unprocessed foods.
 
 Illness begins when man moves away from nature, and the severity with which he is afflicted is proportional to his estrangement. This is why if a sick person returns to nature he is cured. As mankind distances itself from nature, the number of sick people rises rapidly.
 
@@ -52,9 +53,9 @@ Ultimately, Fukuoka believed that genuine public health reform was impossible wi
 
 A natural diet appears irrelevant, primitive, and crude to people who practice an empty diet of self-indulgence in pursuit of flavor. But once they realize that they are in poor health, even they will begin to show an interest in natural diet.
 
-Illness begins when man moves away from nature, and the severity with which he is afflicted is proportional to his estrangement. This is why if a sick person returns to nature he is cured. As mankind distances itself from nature, the number of sick people rises rapidly and desires for a return to nature intensify.
+Illness begins when man moves away from nature, and the severity with which he is afflicted is proportional to his estrangement. This is why if a sick person returns to nature he is cured. As mankind distances itself from nature, the number of sick people rises rapidly and desires for a [[emcdda-return-to-nature-megatrend-mushroom-appeal]] intensify.
 
-But attempts to return to nature are thwarted because people do not know what nature is, nor do they know what a natural body is. The cleansing process requires not just a change in diet but a fundamental reorientation of one's relationship with the natural world.
+But attempts to return to nature are thwarted because people do not know what nature is, nor do they know what a [[fukuoka-natural-body-and-health]] is. The cleansing process requires not just a change in diet but a fundamental reorientation of one's relationship with the natural world.
 
 ## The Body-Mind-Food Connection
 
@@ -72,7 +73,7 @@ Dietary reform is therefore not just a matter of physical health but of mental a
 
 Fukuoka demonstrated through a direct taste comparison that food grown semi-wild in his orchard had a fundamentally different and richer flavor than vegetables grown in a prepared field with chemical fertilizer, or even in a home garden. The eggs laid by chickens running free on the mountain had yolks that were firm, resilient, and bright orange, while caged birds produced pale, watery yolks.
 
-When vegetables are grown in a prepared field using chemical fertilizer, nitrogen, phosphorus, and potash are supplied. But when vegetables are grown with natural ground cover in soil naturally rich in organic matter, they get a more balanced diet of nutrients. A great variety of weeds and grasses means that a variety of essential nutrients and micronutrients are available. Plants that grow in such balanced soil have a more subtle flavour.
+When vegetables are grown in a prepared field using chemical fertilizer, nitrogen, phosphorus, and potash are supplied. But when vegetables are grown with natural ground cover in soil naturally rich in [[hamilton-composting-and-organic-matter-management]], they get a more balanced diet of nutrients. A great variety of weeds and grasses means that a variety of essential nutrients and micronutrients are available. Plants that grow in such balanced soil have a more subtle flavour.
 
 ## The Principle of Proximity
 

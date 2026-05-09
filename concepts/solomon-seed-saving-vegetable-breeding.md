@@ -1,5 +1,5 @@
 ---
-title: Seed Saving and Vegetable Breeding
+title: comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques and Vegetable Breeding
 updated: 2026-04-24
 sources:
   - raw/papers/gardening-when-it-counts-steve-solomon.md
@@ -9,7 +9,7 @@ created: 2026-04-24
 ---
 
 # [[solomon-crop-rotation-and-garden-planning]] for choosing which varieties
-to save - [[solomon-row-covers-and-season-extension]] for overwintering biennial
+to save - [[solomon-row-covers-and-season-extension]] for [[fukuoka-textdoc-rice-seed-overwintering-biennial-cultivation-discovery]]
 seed crops
 
 ## See Also
@@ -17,7 +17,7 @@ seed crops
 - [[permaculture-seed-saving-breeding]]
 ## Background and Context
 
-Seed Saving and Vegetable Breeding is an important subject that has garnered significant attention
+[[biointensive-seed-saving]] and Vegetable Breeding is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough
@@ -65,7 +65,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -143,4 +143,3 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
-

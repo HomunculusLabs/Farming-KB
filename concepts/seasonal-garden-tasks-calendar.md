@@ -4,7 +4,9 @@ created: 2026-05-02
 updated: 2026-05-02
 type: concept
 tags: [gardening, homesteading]
-sources: []
+sources:
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 ---
 title: seasonal garden tasks calendar
@@ -12,12 +14,13 @@ created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [gardening, organic-gardening]
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # Seasonal Garden Tasks Calendar
 updated: 2026-04-18
-Gardening is far from an exact science, and the gardener who makes rules and sticks to them rigidly is bound to suffer disappointment. Of more concern are the existence of different regions with varying climatic conditions and soil types. These all affect plant growth, the kinds of plants that can be grown, and the timing of gardening duties. The calendar is divided into four seasons: spring (March to end of May), summer (June to end of August), autumn (September to end of November), and winter (December to end of February).
+Gardening is far from an exact science, and the gardener who makes rules and sticks to them rigidly is bound to suffer disappointment. Of more concern are the existence of different regions with varying climatic conditions and soil types. These all [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]], the kinds of plants that can be grown, and the timing of gardening duties. The calendar is divided into four seasons: spring (March to end of May), summer (June to end of August), autumn (September to end of November), and winter (December to end of February).
 
 ## Spring
 
@@ -31,7 +34,7 @@ Gardening is far from an exact science, and the gardener who makes rules and sti
 
 # Seasonal Homesteading Calendar
 
-Month-by-month task list for temperate climate zones 5-7. Last frost ~April 5-15, first frost ~October 25-November 5, growing season 180-210 days. Adapt dates for your specific zone. See [[homesteading]] for planning priorities.
+Month-by-month task list for [[permaculture-designers-manual-temperate-climate-design]] zones 5-7. Last frost ~April 5-15, first frost ~October 25-November 5, [[savory-growing-season-and-non-growing-season-management]] 180-210 days. Adapt dates for your specific zone. See [[homesteading]] for planning priorities.
 
 ---
 
@@ -51,15 +54,15 @@ Month-by-month task list for temperate climate zones 5-7. Last frost ~April 5-15
 
 **Garden tasks**: Start tomatoes, brassicas indoors (6-8 weeks). Direct sow: peas, spinach, radishes, carrots, beets, turnips, potatoes (St. Patrick's Day tradition). Plant bare-root fruit trees, berries, asparagus, rhubarb. Take soil samples -- send to lab. Apply lime if needed (takes months to act).
 
-**Livestock**: Ducks -- increase forage as pasture greens up. Goats -- reduce hay as browse becomes available. Watch for kidding season. Set up electro-net fencing for rotational grazing.
+**Livestock**: Ducks -- increase forage as pasture greens up. Goats -- reduce hay as browse becomes available. Watch for kidding season. Set up electro-net fencing for [[comparison-rotational-grazing-vs-continuous-grazing]].
 
-**Food preservation**: Start [[seed-starting-reference]] schedule finalized. Succession planting calendar written. Mark expected harvest dates for perennials.
+**Food preservation**: Start [[seed-starting-reference]] schedule finalized. [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] calendar written. Mark expected harvest dates for perennials.
 
 ---
 
 ## April
 
-**Garden tasks**: Harden off transplants (tomatoes, peppers, eggplant) -- 7-10 days of increasing outdoor exposure. Transplant after last frost (~April 10-15). Direct sow: beans, corn, cucumbers, squash, melons (soil temp 60F+). Second sowing of radishes, lettuce, spinach. Begin [[cover-cropping-guide]] -- terminate crimson clover and winter pea (crimp or mow 2-3 weeks before planting).
+**Garden tasks**: Harden off transplants (tomatoes, peppers, eggplant) -- 7-10 days of increasing outdoor exposure. Transplant after last frost (~April 10-15). Direct sow: beans, corn, cucumbers, squash, melons (soil temp 60F+). Second sowing of radishes, lettuce, spinach. Begin [[cover-cropping-guide]] -- terminate [[comparison-lupin-vs-crimson-clover-green-manure]] and winter pea (crimp or mow 2-3 weeks before planting).
 
 **Livestock**: Spring pasture rotation begins. Integrate ducklings with flock. First rotational graze. Check for parasites after turnout.
 
@@ -96,3 +99,7 @@ Month-by-month task list for temperate climate zones 5-7. Last frost ~April 5-15
 - [[composting-systems]] -- hot/cold composting, vermicompost, bokashi
 - [[duck-keeping]] -- duck care through the seasons
 - [[goat-keeping]] -- goat management and breeding calendar
+
+## See Also
+
+- [[cervantes-garden-calendar-checklist]]

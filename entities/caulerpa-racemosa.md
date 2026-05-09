@@ -43,7 +43,7 @@ The vesicles are spherical to ovoid, typically 2–5 mm in diameter, arranged in
 
 Color ranges from bright green to dark green depending on light conditions and depth. The alga is coenocytic, meaning the entire thallus is a single multinucleate cell without cross-walls.
 
-This unicellular organization is unusual among multicellular-appearing algae and requires specialized cytoplasmic streaming for nutrient transport. The lack of cross-walls also contributes to the alga's rapid wound response and fragmentation tolerance.
+This unicellular organization is unusual among multicellular-appearing algae and requires specialized cytoplasmic streaming for [[mycelial-network-nutrient-transport-imaging-gadd]]. The lack of cross-walls also contributes to the alga's rapid wound response and fragmentation tolerance.
 
 ## Distribution and Habitat
 
@@ -65,7 +65,7 @@ The species can survive brief periods of lower temperatures down to 10°C, but g
 
 These dense mats reduce biodiversity and habitat complexity in affected areas. Native macroinvertebrate and fish populations decline as the alga monopolizes benthic substrate space.
 
-The alga spreads through both sexual reproduction and vegetative fragmentation. Even small fragments can regenerate into complete thalli, making mechanical removal difficult and facilitating dispersal via boat anchors and fishing gear.
+The alga spreads through both [[fungal-life-cycles-sexual-reproduction-metamorphosis]] and vegetative fragmentation. Even small fragments can regenerate into complete thalli, making mechanical removal difficult and facilitating dispersal via boat anchors and fishing gear.
 
 Chemical defense compounds, primarily caulerpenyne, deter herbivory by generalist grazers. This allelopathic advantage allows the alga to outcompete native vegetation without significant grazing pressure from Mediterranean herbivores.
 
@@ -75,13 +75,13 @@ The invasive variety was likely introduced to the Mediterranean through shipping
 
 ## Chemistry and Nutrition
 
-The characteristic secondary metabolite is caulerpenyne, a sesquiterpenoid unique to the genus *Caulerpa*. This compound has demonstrated antibacterial, antifungal, and cytotoxic activities in pharmacological studies.
+The characteristic [[fungal-elicitors-enhanced-secondary-metabolite-production]] is caulerpenyne, a sesquiterpenoid unique to the genus *Caulerpa*. This compound has demonstrated antibacterial, antifungal, and cytotoxic activities in pharmacological studies.
 
-Additional bioactive compounds include racemosin A and B, caulerpicin, and various sulfated polysaccharides. These compounds contribute to chemical defense and have attracted interest for potential pharmaceutical development.
+Additional [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include racemosin A and B, caulerpicin, and various sulfated polysaccharides. These compounds contribute to chemical defense and have attracted interest for potential pharmaceutical development.
 
 Nutritionally, *C. racemosa* is rich in dietary fiber, minerals, and vitamins. Key minerals include calcium, magnesium, iron, and iodine at concentrations comparable to other edible seaweeds.
 
-Protein content is moderate at 8–12% of dry weight with a favorable amino acid profile. The sea grape varieties are notable for their high content of unsaturated fatty acids, including oleic and linoleic acid.
+Protein content is moderate at 8–12% of dry weight with a favorable amino acid profile. The sea grape varieties are notable for their high content of unsaturated [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], including oleic and linoleic acid.
 
 Vitamin content includes measurable amounts of vitamin A (as beta-carotene), vitamin C, and several B-group vitamins. The mineral profile is dominated by calcium, magnesium, iron, and zinc in bioavailable forms.
 
@@ -97,7 +97,7 @@ Yields can reach 10–20 kg per square meter per cycle in well-managed systems. 
 
 Market prices for fresh sea grapes range from $10–30 per kg depending on quality and origin. Premium products from controlled aquaculture systems command the highest prices in Japanese and Taiwanese markets.
 
-Water quality management is critical, as the alga accumulates heavy metals and pathogens from contaminated seawater. Certified organic operations use filtered and tested seawater to ensure product safety.
+Water quality management is critical, as the alga accumulates [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] and pathogens from contaminated seawater. Certified organic operations use filtered and tested seawater to ensure product safety.
 
 Sustainable harvest from wild populations is practiced in parts of Southeast Asia and Oceania. However, the invasive status of var. *cylindracea* in the Mediterranean prohibits intentional cultivation or harvest of that variety in European waters.
 

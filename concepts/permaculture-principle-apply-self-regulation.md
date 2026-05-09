@@ -5,12 +5,13 @@ updated: 2026-04-12
 type: concept
 tags: [permaculture, principles, design, ecology, theory, systems]
 sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 
 # Permaculture Principle 4 — Apply Self-Regulation and Accept Feedback
 
-The fourth of David Holmgren's twelve permaculture design principles. This principle teaches us to discourage inappropriate activity to ensure that systems can continue to function well. Negative feedback is essential for self-regulation, while positive feedback can drive systems to destructive extremes.
+The fourth of David Holmgren's twelve [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] principles. This principle teaches us to discourage inappropriate activity to ensure that systems can continue to function well. Negative feedback is essential for self-regulation, while positive feedback can drive systems to destructive extremes.
 
 > "The icon of the Earth as a self-regulating whole (Gaia) reminds us of the importance of feedback in natural systems." — David Holmgren
 
@@ -25,16 +26,16 @@ The failure of many human systems — industrial agriculture, fossil fuel econom
 Natural ecosystems are masterworks of self-regulation:
 
 - **Predator-prey dynamics**: When prey populations increase, predator populations follow, eventually bringing prey numbers back down
-- **Nutrient cycling**: Decomposers break down dead material, releasing nutrients that fuel new growth in a balanced cycle
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: Decomposers break down dead material, releasing nutrients that fuel new growth in a balanced cycle
 - **Plant succession**: Pioneer species modify conditions until they create the environment for their own replacement by later successional species
 
-Holmgren notes that external environmental factors — food availability, disease, predators — ultimately constrain the excessive growth of any species. These external controls can be thought of as mechanisms by which the large-scale ecosystem keeps its constituent parts in check.
+Holmgren notes that external [[duggar-mushroom-environmental-factors-temperature-moisture-light]] — food availability, disease, predators — ultimately constrain the excessive growth of any species. These external controls can be thought of as mechanisms by which the large-scale ecosystem keeps its constituent parts in check.
 
 ## Self-Regulation in Design
 
 In permaculture design, we aim to create systems that self-regulate as much as possible, reducing the need for ongoing human intervention:
 
-- **Pest management**: Design plant communities that provide habitat for predatory insects rather than spraying pesticides
+- **[[cannabis-pest-management-guide]]**: Design plant communities that provide habitat for predatory insects rather than spraying pesticides
 - **Fertility**: Use nitrogen-fixing plants, deep-rooted accumulators, and composting cycles rather than imported fertilizers
 - **Water**: Design earthworks and plantings that slow, spread, and sink water rather than relying on irrigation
 - **Weeds**: Understand what weeds indicate about soil conditions and address the root cause rather than repeatedly fighting symptoms
@@ -47,7 +48,7 @@ This principle also implies ethical self-regulation. Holmgren connects it to the
 
 ## The Role of Limits
 
-Limits and negative feedback are not enemies of productivity — they are essential to it. Just as pruning a tree redirects energy into fruit production rather than excessive vegetative growth, appropriate limits on human activity redirect energy toward what is truly valuable and sustainable.
+Limits and negative feedback are not enemies of productivity — they are essential to it. Just as pruning a tree redirects energy into fruit production rather than excessive [[cannabis-vegetative-growth-stage]], appropriate limits on human activity redirect energy toward what is truly valuable and sustainable.
 
 ## Connections
 
@@ -68,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

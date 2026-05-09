@@ -30,7 +30,7 @@ reality.
 
 Powell argues that if information is the basic currency of reality and
 consciousness is a particular pattern of information processing, then conscious
-experience has genuine ontological significance. The psychedelic experience,
+experience has genuine ontological significance. The [[leary-psychedelic-experience-bardo-mapping]],
 which dramatically reorganizes informational patterns in the brain, may provide
 access to dimensions of information processing ordinarily excluded from waking
 awareness.
@@ -44,7 +44,7 @@ informational approach to consciousness implies that the boundary between
 conscious and non-conscious information processing may be more fluid than
 commonly assumed.
 
-Panpsychism has a long philosophical lineage, with proponents including Baruch Spinoza, Gottfried Wilhelm Leibniz (who proposed that all monads possess some degree of perception), William James, and more recently, philosophers David Chalmers, Philip Goff, and Galen Strawson. Chalmers, who formulated the "hard problem of consciousness," has argued that panpsychism offers a more promising framework than physicalism for explaining subjective experience. The related position of panentheism — that everything exists within a universal consciousness — has been advocated by process philosophers like Alfred North Whitehead and finds expression in some interpretations of Eastern philosophical traditions. In the context of psychedelic research, these philosophical positions matter because they influence how researchers and therapists interpret the content of psychedelic experiences. A materialist framework tends to dismiss mystical or transpersonal content as brain-generated hallucination, while a consciousness-fundamental framework treats the same content as potentially revelatory. See [[information-paradigm-of-consciousness]] for Powell's informational approach in detail.
+Panpsychism has a long philosophical lineage, with proponents including Baruch Spinoza, Gottfried Wilhelm Leibniz (who proposed that all monads possess some degree of perception), [[metzner-william-james-radical-empiricism-multiple-consciousness]], and more recently, philosophers David Chalmers, Philip Goff, and Galen Strawson. Chalmers, who formulated the "hard problem of consciousness," has argued that panpsychism offers a more promising framework than physicalism for explaining subjective experience. The related position of panentheism — that everything exists within a universal consciousness — has been advocated by process philosophers like Alfred North Whitehead and finds expression in some interpretations of Eastern philosophical traditions. In the context of [[mckenna-suppression-psychedelic-research-lsd-therapy]], these philosophical positions matter because they influence how researchers and therapists interpret the content of psychedelic experiences. A materialist framework tends to dismiss mystical or transpersonal content as brain-generated hallucination, while a consciousness-fundamental framework treats the same content as potentially revelatory. See [[information-paradigm-of-consciousness]] for Powell's informational approach in detail.
 
 ## The Hard Problem and Fine-Tuning Arguments
 
@@ -69,12 +69,12 @@ consciousness is woven into the fabric of reality, then altering consciousness
 through chemistry may genuinely reveal aspects of reality ordinarily hidden
 behind the filter of ordinary perception.
 
-For psychedelic therapy, this philosophical position has practical implications. If the content of psychedelic visions and mystical experiences reflects genuine features of reality rather than mere neural noise, then therapeutic approaches that help patients integrate and find meaning in these experiences are working with authentic psychological material rather than elaborate self-deception. This does not mean that every psychedelic experience should be taken literally — the distinction between literal truth and metaphorical or symbolic truth remains important — but it does suggest that dismissing all psychedelic content as "just hallucination" may discard valuable psychological and spiritual insights. Modern clinical trials of psilocybin-assisted therapy have consistently found that the degree of mystical-type experience during a session predicts long-term therapeutic benefit, suggesting that the phenomenological content of these experiences has genuine psychological significance regardless of one's ontological commitments. See [[psilocybin-consciousness-as-information-in-process]] for Powell's specific model of psychedelic consciousness.
+For psychedelic therapy, this philosophical position has practical implications. If the content of psychedelic visions and [[psilocybin-mystical-experiences-personality-change]] reflects genuine features of reality rather than mere neural noise, then therapeutic approaches that help patients integrate and find meaning in these experiences are working with authentic psychological material rather than elaborate self-deception. This does not mean that every psychedelic experience should be taken literally — the distinction between literal truth and metaphorical or symbolic truth remains important — but it does suggest that dismissing all psychedelic content as "just hallucination" may discard valuable psychological and spiritual insights. Modern [[mushroom-cancer-clinical-trials-overview]] of psilocybin-assisted therapy have consistently found that the degree of mystical-type experience during a session predicts long-term therapeutic benefit, suggesting that the phenomenological content of these experiences has genuine psychological significance regardless of one's ontological commitments. See [[psilocybin-consciousness-as-information-in-process]] for Powell's specific model of psychedelic consciousness.
 
 ## Evolution and Critique
 
 The relationship between this view and evolutionary theory is complex. Powell
-argues that the evolutionary process can be interpreted as Natural Intelligence
+argues that the evolutionary process can be interpreted as [[powell-natural-intelligence-and-the-universal-computation]]
 at work, with evolution itself representing the ongoing intent of an intelligence
 distributed throughout the biosphere. In this framework, the emergence of
 consciousness through evolution is not accidental but reflects the inherent

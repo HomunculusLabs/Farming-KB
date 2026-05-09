@@ -1,5 +1,5 @@
 ---
-title: Fruit Tree Pruning and Training (Hamilton Method)
+title: comparison-berry-growing-vs-fruit-tree-pruning hamilton-pruning-and-training-fruit-trees (Hamilton Method)
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -28,7 +28,7 @@ A pruning cut should be angled away from the bud and made slightly above it. Do 
 ## Training Forms
 
 ### Dwarf Pyramid
-A free-standing tree shaped like a Christmas tree. Final shape is conical.
+A free-standing tree shaped like a [[arthur-christmas-tree-amanita-muscaria]]. Final shape is conical.
 
 1. Immediately after planting, cut the stem back to a bud within 24in (60cm) of ground level
 2. In the second winter, select five evenly spaced lower branches with a wide angle to the stem. Cut back to a downward- or outward-facing bud, leaving 10in (25cm). Remove other branches at this level. Cut branches above back to 6in (15cm) to form a second tier. Cut main stem tip to leave it 12in (30cm) above the top branch
@@ -78,10 +78,12 @@ Branches are bent into severe curves to restrict sap flow and encourage fruiting
 
 ## Related
 
+- [[hamilton-fruit-tree-selection-pollination]]
+
 - [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 - [[organic-fruit-tree-care-calendar]]
 - [[pruning-techniques-organic]]
-- [[holzer-fruit-tree-planting-method]]
+- holzer-fruit-tree-planting-method
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]

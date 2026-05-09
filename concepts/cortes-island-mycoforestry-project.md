@@ -1,11 +1,12 @@
 ---
-title: Cortes Island Mycoforestry Project
+title: Cortes cortes island mycoforestry project Project
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 Updated: 2026-04-18
@@ -29,7 +30,7 @@ Conventional forestry practice after clear-cutting involves stacking brush and b
 
 ### Wood Chip Application
 
-About 50 percent of the brush left from logging was chipped using a mobile wood chipper. Approximately one gallon (4 pounds) of wood chips was placed around the base of half of the trees in each group. The potential benefits of wood chip collars include:
+About 50 percent of the brush left from logging was chipped using a mobile wood chipper. Approximately one gallon (4 pounds) of [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] was placed around the base of half of the trees in each group. The potential benefits of wood chip collars include:
 - Regional cooling of soil
 - Enhanced moisture retention
 - Slow streaming of nutrients to root zones as saprophytic fungi decompose the chips
@@ -77,5 +78,5 @@ Unused wood chips were spread in depressions and near roads to reduce silt flow 
 ## Related Topics
 
 - [[mycoforestry-forest-restoration]] — Broader forest restoration applications
-- [[brown-rot-white-rot-fungi-remediation]] — Wood decomposition mechanisms
+- [[brown-rot-white-rot-fungi-remediation]] — [[fungal-wood-decomposition-spatial-variation]] mechanisms
 - [[mycofiltration-of-water-stamets]] — Water filtration using fungal mats

@@ -1,5 +1,5 @@
 ---
-title: Wattle and Daub vs. Cob Construction
+title: comparison wattle and daub vs cob construction vs. cob-construction
 created: 2026-04-28
 tags:
   - natural-building
@@ -20,13 +20,13 @@ type: comparison
 
 # Wattle and Daub vs. Cob Construction
 
-Both wattle and daub and cob are ancient earthen building techniques experiencing a modern revival among natural builders and permaculture practitioners. While they share the same fundamental material — earth mixed with fiber — they differ dramatically in how walls are formed, their structural behavior, and the skills required. Understanding these differences helps builders choose the right method for their climate, site, and project goals.
+Both wattle and daub and cob are ancient earthen building techniques experiencing a modern revival among natural builders and [[permaculture]] practitioners. While they share the same fundamental material — earth mixed with fiber — they differ dramatically in how walls are formed, their structural behavior, and the skills required. Understanding these differences helps builders [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] method for their climate, site, and project goals.
 
 ## Core Definition
 
 | Aspect | Wattle and Daub | Cob |
 |--------|----------------|-----|
-| **Basic method** | Earthen daub packed onto a woven wood lattice (wattle) set within a timber frame | Monolithic earthen walls built up layer by layer without formwork or internal frame |
+| **Basic method** | Earthen daub packed onto a woven wood lattice (wattle) set within a [[comparison-bamboo-construction-vs-timber-frame-basics]] | Monolithic earthen walls built up layer by layer without formwork or internal frame |
 | **Structural role** | Non-structural infill only — requires a timber frame or other structural system | Load-bearing — walls carry roof and floor loads directly |
 | **Wall formation** | Woven lattice + applied daub in 2–3 coats | Wet earth/fiber mix sculpted by hand in "loaves" or "cobs" |
 | **Primary material** | Clay soil + sand + straw + dung (optional) applied to wood | Clay soil + sand + long straw mixed into a homogeneous mass |
@@ -39,7 +39,7 @@ Both wattle and daub and cob are ancient earthen building techniques experiencin
 Both techniques use a clay-rich subsoil mixed with sand and straw, but the proportions and preparation differ:
 
 - **Wattle and daub daub**: Wetter, more plastic consistency (like thick dough). Applied with hands or paddles onto the wattle. Straw is chopped shorter (5–10 cm). Often includes animal dung for fiber and workability.
-- **Cob mix**: Stiff but moldable consistency (like firm bread dough). Mixed by tarp-rolling or foot-trampling. Straw is left long (10–20+ cm) for tensile reinforcement throughout the mass. No dung needed — the long straw provides all the fiber.
+- **Cob mix**: Stiff but moldable consistency (like firm [[fukuoka-textdoc-plowing-ruins-soil-compaction-bread-dough-analogy]]). Mixed by tarp-rolling or foot-trampling. Straw is left long (10–20+ cm) for tensile reinforcement throughout the mass. No dung needed — the long straw provides all the fiber.
 
 ### Wood Requirements
 
@@ -70,7 +70,7 @@ The single most important difference: **cob is load-bearing; wattle and daub is 
 | **Thermal lag** | 4–6 hours | 8–12 hours |
 | **Insulation** | Low-moderate | Low (improved by thickness) |
 
-Cob's massive walls provide superior thermal mass — they absorb heat slowly and release it over a longer period. Wattle and daub walls are thinner and respond faster to temperature changes. In hot climates, cob maintains cooler indoor temperatures; in cold climates, cob stores passive solar heat more effectively.
+Cob's massive walls provide superior thermal mass — they absorb heat slowly and release it over a longer period. Wattle and daub walls are thinner and respond faster to temperature changes. In hot climates, cob maintains cooler indoor temperatures; in cold climates, cob stores [[comparison-passive-solar-vs-earth-sheltered]] heat more effectively.
 
 **Neither method is well-insulated by modern standards.** Both benefit from supplementary insulation (straw bale, light clay straw, or rigid insulation) in cold climates.
 
@@ -137,7 +137,7 @@ Yes — and this is common in practice. Many natural builders use:
 
 ## Summary
 
-Wattle and daub and cob are complementary rather than competing techniques. Both use the same earth-fiber composite but apply it differently: cob as massive, load-bearing sculpture, and wattle and daub as lightweight, frame-dependent infill. The best natural builders understand both and choose (or combine) them based on the specific demands of site, climate, structure, and aesthetic vision.
+Wattle and daub and cob are complementary rather than competing techniques. Both use the same earth-fiber composite but apply it differently: cob as massive, load-bearing sculpture, and wattle and daub as lightweight, frame-dependent infill. The [[query-what-are-the-best-natural-building-methods]] builders understand both and choose (or combine) them based on the specific demands of site, climate, structure, and aesthetic vision.
 ## See Also
 
 - [[comparison-wattle-and-daub-vs-straw-bale-construction]]

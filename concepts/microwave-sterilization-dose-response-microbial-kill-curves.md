@@ -2,7 +2,7 @@
 
 ## Overview
 
-The effectiveness of microwave surface sterilization follows predictable dose-response relationships established through systematic research. NASA's study (MSC-22484) demonstrated that microbial kill efficiency depends on three primary variables: microwave exposure duration and intensity, the amount of water present on the contaminated surface, and the type and initial population of microorganisms. Understanding these kill curves is essential for designing effective sterilization protocols for any application.
+The effectiveness of [[challenge-microorganisms-microwave-surface-sterilization]] sterilization follows predictable dose-response relationships established through systematic research. NASA's study (MSC-22484) demonstrated that microbial kill efficiency depends on three primary variables: [[microbial-kill-curve-microwave-exposure-dose-response]] duration and intensity, the amount of water present on the contaminated surface, and the type and initial population of microorganisms. Understanding these kill curves is essential for designing effective sterilization protocols for any application.
 
 ## Key Parameters
 
@@ -26,7 +26,7 @@ The study used a mixed surface population of three microorganism types to repres
 ### Bacillus pumilus
 
 - **Type**: Gram-positive, endospore-forming bacterium
-- **Significance**: Spore-forming bacteria are among the most resistant organisms to virtually all sterilization methods, making them the standard challenge organism for validation studies
+- **Significance**: Spore-forming bacteria are among the most resistant organisms to virtually all [[surface-sterilization-methods-comparison]], making them the standard challenge organism for validation studies
 - **NASA relevance**: B. pumilus has been repeatedly isolated from spacecraft assembly clean rooms and is a standard reference organism for planetary protection and space sterilization validation
 - **Resistance profile**: Highly resistant due to endospore formation capability; serves as the "worst case" in the microbial population
 
@@ -34,7 +34,7 @@ The study used a mixed surface population of three microorganism types to repres
 
 - **Type**: Gram-negative, rod-shaped bacterium
 - **Significance**: One of the most common environmental contaminants; represents vegetative bacterial cells in the test population
-- **Response**: Relatively sensitive to microwave irradiation due to high intracellular water content and thin peptidoglycan layer
+- **Response**: Relatively sensitive to [[dry-microwave-irradiation-spore-resistance]] due to high intracellular water content and thin peptidoglycan layer
 - **Kill kinetics**: Shows rapid first-order decline during initial exposure phase
 
 ### Pseudomonas cepacia
@@ -117,7 +117,7 @@ The kill kinetics are influenced by the characteristics of the contaminating pop
 | Gamma irradiation | 25 kGy | Hours (batch process) | None | None (equipment cost) |
 | UV irradiation | Variable intensity | Minutes | None | Line-of-sight only |
 | Ethylene oxide | 450-1200 mg/L | 2-12 hours + aeration | None | Toxic residue, long aeration |
-| Hydrogen peroxide plasma | Low-temp plasma | 30-75 min | Low | Possible material compatibility |
+| [[cervantes-hydrogen-peroxide-sterilization]] plasma | Low-temp plasma | 30-75 min | Low | Possible material compatibility |
 | Glutaraldehyde | 2% solution, 10 hours | Up to 10 hours | None | Toxic residue |
 
 Microwave sterilization occupies a unique niche: faster than chemical methods, with less thermal impact than autoclaving, and no chemical residues.
@@ -129,15 +129,19 @@ For mushroom cultivation applications, understanding microwave kill curves sugge
 - Standard kitchen microwaves operate at 2.45 GHz and can achieve surface sterilization, but dose must be carefully controlled
 - Damp substrates or surfaces sterilize more effectively than dry ones due to the trace water mechanism
 - Shorter exposures may significantly reduce contamination but cannot be relied upon for complete sterility
-- The method is most practical for surface decontamination of tools and work surfaces rather than bulk substrate sterilization
+- The method is most practical for surface decontamination of tools and work surfaces rather than bulk [[mushroom-substrate-sterilization-and-pasteurization]]
 - Pressure cooker sterilization remains the standard for grain substrates because microwave energy cannot penetrate deeply enough to sterilize the core of a jar
 
 ## Related
 
+- [[microwave-sterilization-dose-response-microbial-kill-kinetics-nasa-testing]]
+
+- [[microbial-kill-curve-microwave-exposure-dose-response]]
+
 - [[microbial-kill-curves-sterilization-validation]] Topics
 
 - [[bacillus-pumilus-radiation-resistance-surface-decontamination|Bacillus pumilus Radiation Resistance]]
-- [[spore-resistance-dry-microwave-irradiation-vegetative-cell-differential|Spore vs. Vegetative Cell Resistance]]
+- [[dry-microwave-irradiation-spore-resistance|Spore vs. Vegetative Cell Resistance]]
 
 ---
 

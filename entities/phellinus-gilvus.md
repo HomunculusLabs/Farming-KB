@@ -10,11 +10,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ryvarden, L. & Gilb., R. (2004). "Poroid fungi of North America." Synopsis Fungorum 22.
+  - Ryvarden, L. & Gilb., R. (2004). "Poroid fungi of psilocybin-north-america-pacific-northwest." Synopsis Fungorum 22.
   - Fiasson, J.L. & Niemelä, T. (1984). "The Hymenochaetales: a revision of the European poroid taxa." Karstenia 24: 14-28.
-  - Dai, Y.C. (2010). "Hymenochaetaceae (Basidiomycota) in China." Fungal Diversity 45: 77-94.
+  - Dai, Y.C. (2010). "Hymenochaetaceae (Basidiomycota) in China." [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] 45: 77-94.
   - Kirk, P.M. et al. (2008). "Dictionary of the Fungi." 10th ed. CABI Publishing.
-  - Gilbertson, R.L. & Ryvarden, L. (1987). "North American Polypores." Vol. 2. Fungiflora, Oslo.
+  - Gilbertson, R.L. & Ryvarden, L. (1987). "[[growing-gourmet-north-american-reishi-species]] Polypores." Vol. 2. Fungiflora, Oslo.
 created: 2026-05-07
 ---
 
@@ -28,7 +28,7 @@ timber across temperate and tropical regions, producing tough, woody basidiocarp
 with a distinctive golden-brown to rusty pore surface.
 
 The species is a white-rot decomposer capable of degrading both lignin and cellulose,
-making it ecologically significant in forest nutrient cycling. It has drawn interest
+making it ecologically significant in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. It has drawn interest
 for its production of bioactive phenolic compounds and potential medicinal properties.
 
 ## Taxonomy and Morphology
@@ -66,7 +66,7 @@ It occurs on both standing dead trees and fallen logs, and can function as a mil
 wound parasite on living trees, colonizing through broken branches or bark wounds.
 ## Bioactive Compounds
 
-Phellinus gilvus produces a range of phenolic secondary metabolites typical of the
+Phellinus gilvus produces a range of phenolic [[antifungal-secondary-metabolites-coprophilous-fungi]] typical of the
 Hymenochaetaceae, including hispidin and its glucoside derivatives. These compounds
 contribute to the characteristic brown pigmentation of the fruiting body.
 
@@ -82,7 +82,7 @@ properties in cell-based assays. Further pharmacological investigation is needed
 
 As a white-rot fungus, P. gilvus plays a key role in decomposing woody debris and
 recycling nutrients in forest ecosystems. Its ability to degrade lignin through
-laccase and manganese peroxidase enzymes has attracted attention for bioremediation
+laccase and [[fungal-manganese-peroxidase-remediation]] enzymes has attracted attention for bioremediation
 applications, particularly in the breakdown of xenobiotic compounds.
 
 The tough, woody fruiting bodies have historically been used as tinder for fire-

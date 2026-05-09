@@ -2,17 +2,17 @@
 
 ## Overview
 
-Truffles, among the most prized and expensive fungi in gastronomy, are evolutionary relatives of cup fungi (apothecial ascomycetes). Their subterranean fruiting bodies conceal a remarkable evolutionary history spanning 300 million years, from exposed disc-shaped apothecia on Carboniferous forest floors to the aromatic nuggets hunted by dogs and pigs in modern European forests. The transition from epigeous (above-ground) to hypogeous (below-ground) fruiting involved profound changes in spore dispersal strategy, from wind-driven ballistic discharge to animal-mediated transport.
+Truffles, among the most prized and expensive fungi in gastronomy, are evolutionary relatives of cup fungi (apothecial ascomycetes). Their subterranean fruiting bodies conceal a remarkable evolutionary history spanning 300 million years, from exposed disc-shaped apothecia on Carboniferous forest floors to the aromatic nuggets hunted by dogs and pigs in modern European forests. The transition from epigeous (above-ground) to hypogeous (below-ground) fruiting involved profound changes in [[spore-dispersal]] strategy, from wind-driven ballistic discharge to animal-mediated transport.
 
 ## The Starting Point: Carboniferous Apothecia
 
-The evolutionary story begins approximately 300 million years ago in Carboniferous forests of gigantic horsetails and pigeon-sized dragonflies. Although the plants and animals were unfamiliar, disc-shaped apothecia scattered over the forest floor looked almost identical to ascomycete species found in woods today. These open cup fungi exposed their asci directly to air and relied on the explosive discharge mechanism to launch spores upward and away from the [[bloomfield-plant-hypersensitive-response-rust-arms-race]]—the truffles became more attractive to mammals and the mammals became better at finding truffles.
+The evolutionary story begins approximately 300 million years ago in Carboniferous forests of gigantic horsetails and pigeon-sized dragonflies. Although the plants and animals were unfamiliar, disc-shaped apothecia scattered over the forest floor looked almost identical to ascomycete species found in woods today. These open cup fungi exposed their asci directly to air and relied on the explosive [[basidiospore-discharge-mechanism]] to launch spores upward and away from the [[bloomfield-plant-hypersensitive-response-rust-arms-race]]—the truffles became more attractive to mammals and the mammals became better at finding truffles.
 
 Insects continued to hover above buried fruiting bodies, homing upon the same chemicals that had attracted them since they crawled through the mouths of open fruiting bodies in earlier geological epochs. Now that the ascocarp was buried, the role of insects in spore dispersal, if any, remained a complete mystery.
 
 ## Mycorrhizal Relationships
 
-Throughout their evolutionary history, truffle ancestors maintained intimate connections with the roots of various plant species. Through mycorrhizal associations with oak, poplar, and other trees, modern truffles obtain sugars from the plant in exchange for inorganic nutrients scavenged from the soil. This mutualistic relationship has persisted for hundreds of millions of years and continues to define truffle ecology.
+Throughout their evolutionary history, truffle ancestors maintained intimate connections with the roots of various plant species. Through [[plants-without-mycorrhizal-associations]] with oak, poplar, and other trees, modern truffles obtain sugars from the plant in exchange for inorganic nutrients scavenged from the soil. This mutualistic relationship has persisted for hundreds of millions of years and continues to define truffle ecology.
 
 In France and northern Italy, truffle development is encouraged through a long-term investment strategy of planting tree seedlings in fenced plots and seeding them with truffle spores or plugs of mycelium. Seven to fifteen years pass before any truffles appear, reflecting the patience required to work with organisms whose life cycles operate on geological timescales.
 
@@ -22,15 +22,15 @@ The evolutionary narrative arrives at its contemporary endpoint in the town squa
 
 ## Ascospore Resilience
 
-A related finding from the Bloomfield source illuminates why fungal spores have been such effective vehicles for evolutionary persistence. Research by Nick Read at the University of Edinburgh demonstrated that ascospores can survive the brutal environment of an electron microscope and germinate afterward. Spores subjected to temperatures as low as minus 180 degrees Celsius, dried in a vacuum, and irradiated with intense electron beams nonetheless remained viable. The only treatment that killed every ascospore was dehydration in alcohol.
+A related finding from the Bloomfield source illuminates why fungal spores have been such effective vehicles for evolutionary persistence. Research by Nick Read at the University of Edinburgh demonstrated that ascospores can survive the brutal environment of an [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]] and germinate afterward. Spores subjected to temperatures as low as minus 180 degrees Celsius, dried in a vacuum, and irradiated with intense electron beams nonetheless remained viable. The only treatment that killed every ascospore was dehydration in alcohol.
 
 This extraordinary resilience suggests that certain fungi might survive apocalyptic changes in Earth's climate from ozone thinning, global warming, or nuclear war. Lichens share this hardiness, surviving liquid nitrogen bathing, fracture with steel knives, and gold-palladium coating with no apparent ill effects.
 
 ## The Giant Puffball Comparison
 
-The truffle's spore output, while impressive, pales in comparison to the estimated fecundity of the giant puffball (*Calvatia gigantea*), which can release an estimated 7 trillion spores from a single fruiting body. The largest ascomycete fruiting body known, *Geopyxis cacabus* from South America, allegedly constructed a one-meter-tall stalk supporting a spore-producing cup as wide as a trash can lid. Packed with asci, such a cup could launch as many as 7 billion spores—yet this was a thousandfold less than the giant puffball's output. These comparisons illustrate the remarkable range of reproductive strategies across the [[morning-glory-entheogens]] that open for just one or two days before closing. Their elongated asci function as spore guns that discharge pairs of spores decorated with spirally arranged barbs pointing away from the tip, perfectly suited for harpooning beetles that visit the flowers.
+The truffle's spore output, while impressive, pales in comparison to the estimated fecundity of the giant puffball (*[[calvatia-gigantea]]*), which can release an estimated 7 trillion spores from a single fruiting body. The largest ascomycete fruiting body known, *Geopyxis cacabus* from South America, allegedly constructed a one-meter-tall stalk supporting a spore-producing cup as wide as a trash can lid. Packed with asci, such a cup could launch as many as 7 billion spores—yet this was a thousandfold less than the giant puffball's output. These comparisons illustrate the remarkable range of reproductive strategies across the [[morning-glory-entheogens]] that open for just one or two days before closing. Their elongated asci function as spore guns that discharge pairs of spores decorated with spirally arranged barbs pointing away from the tip, perfectly suited for harpooning beetles that visit the flowers.
 
-The yeast *Dipodascus*, which grows in mucus trails left by slime molds, produces upright tapered asci filled with ascospores. Each spore is wrapped in a thick mucilaginous coat that lubricates its passage from the ascus. When the tip ruptures, heavily lubricated spores slide out and form loose clusters visible as dew-saturated rafts held aloft on aerial hyphae.
+The yeast *Dipodascus*, which grows in mucus trails left by [[slime-molds]], produces upright tapered asci filled with ascospores. Each spore is wrapped in a thick mucilaginous coat that lubricates its passage from the ascus. When the tip ruptures, heavily lubricated spores slide out and form loose clusters visible as dew-saturated rafts held aloft on aerial hyphae.
 
 ## Evolutionary Significance
 
@@ -38,10 +38,10 @@ The truffle evolutionary narrative illustrates several fundamental principles of
 
 ## See Also
 
-- [[bloomfield-ascobolus-ascomycete-fruiting-body-evolution]]-ascus-discharge-dung|Ascobolus Ascus Discharge
+- bloomfield-ascobolus-ascomycete-fruiting-body-evolution-ascus-discharge-dung|Ascobolus Ascus Discharge
 - Truffle Mycorrhizal Cultivation
 - Ascomycete Fruiting Body Types
-- [[spore-dispersal-mechanisms]]|Fungal Spore Dispersal Mechanisms
+- spore-dispersal-mechanisms|Fungal Spore Dispersal Mechanisms
 ## Practical Considerations
 
 When working with Bloomfield Truffle Evolution Cup Fungi Hypogeous, several practical factors should be
@@ -100,4 +100,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

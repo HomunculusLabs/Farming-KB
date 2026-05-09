@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [food, preservation, drying, construction, homesteading, sustainability]
-sources: []
+sources:
+  sources: []
 ---
 
 # Solar Food Dehydrator DIY
@@ -52,7 +53,7 @@ A hybrid design that uses both direct solar gain on the top and indirect heated 
 
 - **Plywood or OSB:** For the box/frame. Exterior-grade plywood preferred.
 - **2x2 or 2x4 lumber:** For framing
-- **Insulation:** Rigid foam board (EPS or XPS), recycled denim batting, or natural wool insulation. R-5 to R-10 is sufficient.
+- **Insulation:** Rigid foam board (EPS or XPS), recycled denim batting, or natural [[mollison-designers-wool-insulation-and-natural-textiles]]. R-5 to R-10 is sufficient.
 - **Absorber plate:** Sheet metal (aluminum or steel) painted flat black. Corrugated metal increases surface area.
 - **Black paint:** High-temperature flat black paint for the absorber plate
 
@@ -72,7 +73,7 @@ A hybrid design that uses both direct solar gain on the top and indirect heated 
 
 - **Intake vent:** Low on the collector side (cool air in). Adjustable — use a sliding cover to control airflow.
 - **Exhaust vent:** High on the opposite end (warm moist air out). Also adjustable.
-- **Vent sizing:** Approximately 1 square inch of vent area per square foot of collector, per vent. Adjustable vents allow fine-tuning.
+- **Vent sizing:** Approximately 1 square inch of vent area per [[comparison-biointensive-vs-square-foot-gardening]] of collector, per vent. Adjustable vents allow fine-tuning.
 
 ## Sizing Your Dehydrator
 
@@ -104,7 +105,7 @@ Allow 3-4 inches between trays for adequate airflow. More space means better dry
 - **Vent adjustment:** Open vents to lower temperature, close vents to raise temperature
 - **Collector angle:** Adjust the tilt of the collector panel toward or away from the sun
 - **Shade cloth:** Drape shade cloth over part of the collector on very hot days
-- **Baffle or reflector:** Adjustable internal baffles can redirect or block solar energy
+- **Baffle or reflector:** Adjustable internal baffles can redirect or block [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]
 
 ### Monitoring
 
@@ -139,34 +140,10 @@ Allow 3-4 inches between trays for adequate airflow. More space means better dry
 2. Staple food-safe screen to the frames
 3. Add small wooden blocks as tray guides on the interior walls
 4. Trays should slide in and out easily
-
-### Vents
-
-1. Cut intake vents at the bottom of the collector (low point)
-2. Cut exhaust vents at the top of the drying chamber (high point, opposite end from collector)
-3. Build adjustable vent covers from wood with a sliding mechanism
-4. Cover vents with screen to keep insects out
-
-## Drying Tips
-
-- **Pre-treat fruits:** Dip in lemon juice or ascorbic acid solution to prevent browning
-- **Slice uniformly:** Even thickness (1/4 to 1/2 inch for most fruits and vegetables) ensures even drying
-- **Rotate trays:** Swap top and bottom trays periodically for more even drying
-- **Dry until leathery or crisp:** Fruit should be leathery with no visible moisture; vegetables should be brittle
-- **Condition:** After drying, pack in glass jars and check daily for a week — if condensation appears, the food needs more drying
-- **Store:** Keep dried foods in airtight containers in a cool, dark place. Properly dried food lasts 6-12 months.
-
-## Weather Considerations
-
-- **Best conditions:** Full sun, 80°F+ ambient temperature, low humidity
-- **Marginal conditions:** Partial sun, 65-80°F, moderate humidity — dehydrator will work but slowly
-- **Poor conditions:** Overcast, below 65°F, or high humidity — supplemental heat or electric dehydrator may be needed
-- **Orientation:** Face the collector toward true south (in the Northern Hemisphere), angled at your latitude for year-round use, or at latitude minus 15 degrees for summer-optimized use
-
 ## Related Concepts
 
 - [[herb-spiral-construction]] for growing herbs that can be dried in the solar dehydrator
-- [[cold-climate-gardening]] for another passive solar structure for the homestead
+- [[cold-climate-gardening]] for another [[comparison-passive-solar-vs-earth-sheltered]] structure for the homestead
 
 ## See Also
 

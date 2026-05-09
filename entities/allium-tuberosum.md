@@ -23,7 +23,7 @@ sources:
 
 **Allium tuberosum**, commonly known as Chinese chives, garlic chives, or jiu cai (韭菜), is
 a perennial herbaceous plant in the family Amaryllidaceae native to the Shanxi region of
-China. It is widely cultivated across East and Southeast Asia for its flat, garlicky-flavored
+China. It is widely cultivated across East and [[psilocybe-southeast-asia-pacific]] for its flat, garlicky-flavored
 leaves, edible flowers, and ornamental value. The species is distinguished from common chives
 (*A. schoenoprasum*) by its flat leaves, white star-shaped flowers, and distinctly garlicky
 aroma.
@@ -56,7 +56,7 @@ both edible and highly attractive to pollinators.
 
 *A. tuberosum* is native to the Chinese provinces of Shanxi, Gansu, and Inner Mongolia. It
 has been cultivated for over 2,000 years and is now naturalized in many temperate and
-subtropical regions worldwide, including Japan, Korea, Southeast Asia, Europe, North America,
+subtropical regions worldwide, including Japan, Korea, Southeast Asia, Europe, [[psilocybin-north-america-pacific-northwest]],
 and parts of South America.
 
 The species is exceptionally hardy, tolerating temperatures as low as −30°C (USDA zones
@@ -66,7 +66,7 @@ acceptable yields in partial shade.
 
 Chinese chives are moderately drought-tolerant once established, requiring roughly 500–800 mm
 annual rainfall. They perform best in fertile, moisture-retentive soils with regular
-watering during the growing season.
+watering during the [[savory-growing-season-and-non-growing-season-management]].
 
 ## Cultivation
 
@@ -126,7 +126,7 @@ flies, Japanese beetles, and cabbage moths. In companion planting systems, Chine
 are commonly interplanted with carrots, tomatoes, peppers, and roses, where their pest-
 deterrent properties reduce the need for insecticidal interventions.
 
-The flowers are highly attractive to beneficial insects, including bees, hoverflies, and
+The flowers are highly attractive to [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], including bees, hoverflies, and
 parasitic wasps, supporting pollination and biological pest control across the garden
 system. The clumping habit provides habitat for ground beetles and other predatory insects.
 
@@ -136,7 +136,9 @@ and provide reliable, repeated harvests throughout the growing season.
 
 ## See Also
 
+- [[allium-porrum]]
+
 - [[ocimum-tenuiflorum-entity]] — Holy basil, another Asian culinary herb
-- [[taraxacum-officinale]] — Dandelion, a dynamic accumulator neighbor
+- [[taraxacum-officinale]] — Dandelion, a [[nutrient-dynamic-accumulator-reference]] neighbor
 - [[calendula-officinalis]] — Calendula, a pest-deterring companion flower
-- [[permaculture]] — Permaculture design principles and practices
+- permaculture — [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] principles and practices

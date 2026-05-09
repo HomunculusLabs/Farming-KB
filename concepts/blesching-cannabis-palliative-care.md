@@ -1,5 +1,5 @@
 ---
-title: Cannabis in Palliative Care (Blesching, Cannabis Health Index)
+title: Cannabis in Palliative Care (Blesching, blesching-cannabis-health-index-autoimmune-conditions)
 created: 2026-04-26
 updated: 2026-04-25
 sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
@@ -30,11 +30,11 @@ multiple symptoms simultaneously through different cannabinoid-receptor
 pathways:
 
 ### Pain Management (CHI: 19, 12 studies)
-- Cannabis addresses chronic pain via both CB1 (neural pain signaling) and CB2
+- Cannabis addresses [[cannabis-chronic-pain-management]] via both CB1 (neural pain signaling) and CB2
   (inflammatory pain) receptors
 - In conjunction with opiates, cannabinoids produce a synergy of effective pain
   control while reducing opiate-related risks
-- Particularly effective for neuropathic pain, cancer pain, and pain associated
+- Particularly effective for neuropathic pain, [[cannabis-cancer-pain-research]], and pain associated
   with multiple sclerosis
 - Topical cannabinoids significantly reduce nerve pain after herpes flare-ups
 
@@ -66,11 +66,11 @@ pathways:
   window
 - Dronabinol improved mood in AIDS patients by 10% vs. -2% decline with placebo
 - Nabilone dramatically reduced agitation in Alzheimer's patients
-- Important caveat: doses exceeding the therapeutic window can increase anxiety
+- Important caveat: doses exceeding the [[blesching-cannabis-therapeutic-window-dosing]] can increase anxiety
 
 ### Spasticity and Muscle Spasms (Multiple Sclerosis, CHI: 15)
 - Significant reduction in spasticity and associated pain
-- Benefits for patients with MS, spinal cord injury, and other neurological
+- Benefits for patients with MS, [[blesching-cannabis-spinal-cord-injuries]] injury, and other neurological
   conditions
 - Both THC and CBD contribute to muscle-relaxant effects
 
@@ -105,7 +105,7 @@ pharmaceutical alternatives:
   increased appetite, red sclera
 - Dependency, if it occurs, is psychological rather than physical
 - Compared to pharmaceuticals, cannabis carries considerably reduced risk of
-  adverse effects including death
+  [[blesching-cannabis-safety-adverse-effects-evidence]] including death
 
 ## Mind-Body Medicine in Palliative Care
 

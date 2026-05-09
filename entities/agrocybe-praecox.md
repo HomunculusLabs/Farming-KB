@@ -11,10 +11,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Wasser, S.P. (2002). "Medicinal mushrooms as a source of antitumor and immunomodulating polysaccharides." Applied Microbiology and Biotechnology, 60(3), 258-274.
+  - Wasser, S.P. (2002). "comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive as a source of antitumor and immunomodulating polysaccharides." Applied Microbiology and Biotechnology, 60(3), 258-274.
   - Singer, R. (1986). "The Agaricales in Modern Taxonomy." 4th edition. Koeltz Scientific Books.
   - Kuo, M. (2023). "Agrocybe praecox." MushroomExpert.com. https://www.mushroomexpert.com/agrocybe_praecox.html
-  - Hall, I.R., Buchanan, P.K., Yun, W., Cole, A.L.J. (1998). "Edible and Poisonous Mushrooms of the World." Timber Press.
+  - Hall, I.R., Buchanan, P.K., Yun, W., Cole, A.L.J. (1998). "Edible and [[palmer-poisonous-mushrooms-deadly-species]] of the World." Timber Press.
   - Wang, J. et al. (2014). "A review of the bioactivities and pharmacological properties of Agrocybe species." Journal of Ethnopharmacology, 153(2), 331-346.
 ---
 
@@ -107,7 +107,7 @@ The species readily colonizes straw, wood chips, and composted organic matter.
 - Colonization temperature: 22–26°C; Fruiting temperature: 15–20°C
 - Relative humidity: 85–95% for primordia; Light: ambient indirect sufficient
 - Colonization: 2–3 weeks; Primordia: 5–10 days; Harvest: 3–5 days after pinning
-- Biological efficiency: 30–50% on supplemented sawdust
+- [[stamets-biological-efficiency-yield]]: 30–50% on [[oyster-mushroom-supplemented-sawdust-blocks]]
 
 ## Culinary and Nutritional Value
 
@@ -117,7 +117,7 @@ Agrocybe praecox is considered edible when thoroughly cooked, though it is not h
 Texture is firm when young but can become fibrous and tough with age.
 The cap is generally preferred over the stipe for eating.
 
-**Nutritional composition** (per 100 g fresh weight, approximate):
+**[[dighton-fungal-nutritional-composition-animal-diets]]** (per 100 g fresh weight, approximate):
 - Protein: 2.5–3.5 g; Carbohydrates: 4–6 g; Fiber: 1.5–2.5 g; Fat: 0.3–0.5 g
 - Potassium, phosphorus, and zinc as significant minerals
 
@@ -126,7 +126,7 @@ The cap is generally preferred over the stipe for eating.
 ## Ecological Role
 
 Agrocybe praecox functions as a primary decomposer of lignocellulosic materials in disturbed ground habitats.
-Its niche in mulched landscapes positions it as an important early-successional saprotroph, breaking down fresh woody debris and contributing to nutrient cycling in managed and urban environments.
+Its niche in mulched landscapes positions it as an important early-successional saprotroph, breaking down fresh woody debris and contributing to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in managed and urban environments.
 The species may form weak endophytic associations with living plant roots, though it is not considered a significant mycorrhizal partner.
 
 ## Related Species

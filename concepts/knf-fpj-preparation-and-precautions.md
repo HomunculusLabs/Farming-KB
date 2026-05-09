@@ -1,5 +1,5 @@
 ---
-title: "KNF FPJ Preparation and Precautions"
+title: "KNF knf fpj preparation and precautions and Precautions"
 created: 2026-04-28
 tags: [knf, natural-farming, fpj, fermented-plant-juice]
 date: 2026-04-25
@@ -10,7 +10,7 @@ type: concept
 
 # KNF FPJ Preparation and Precautions
 
-Fermented Plant Juice (FPJ) is a fermented extract of a plant's sap
+[[bionutrients-lab-fermented-plant-juice-fpj]] (FPJ) is a fermented extract of a plant's sap
 and chlorophylls, rich in enzymes, [[knf-fermented-plant-juice]] alongside [[knf-calcium-deficiency-symptoms]] should
    be applied instead.
 2. FPJ made from the crop itself should not be used, as this will
@@ -18,7 +18,7 @@ and chlorophylls, rich in enzymes, [[knf-fermented-plant-juice]] alongside [[knf
 3. During acidic or nitrogen-excessive conditions, which create a
    pest-attractive environment.
 4. Conditions of too much moisture or bad ventilation, which promote
-   fungal growth.
+   [[brassinosteroid-fungal-growth-promotion]].
 
 ## Storage Guidelines
 
@@ -44,7 +44,7 @@ and chlorophylls, rich in enzymes, [[knf-fermented-plant-juice]] alongside [[knf
    before picking, then harvest before sunrise.
 
 4. Avoid picking plants during or after rainfall. Rain washes away
-   lactic acid bacteria and yeast on the leaves. FPJ made during this
+   lactic [[lactic-acid-bacteria-knf]] and yeast on the leaves. FPJ made during this
    time becomes sticky and thick and will not [[lacto-fermentation-and-food-preservation-methods]] well. This is
    the same reason ingredients should not be washed before
    fermentation. Pick plants 2 to 3 days after rain.
@@ -67,7 +67,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -109,4 +109,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

@@ -31,8 +31,8 @@ Lichens stabilize soil surfaces through:
 Lichens are critical for:
 - **Rehabilitation of mined lands**: Among the first colonizers of mine spoils
 - **Desert stabilization**: Crust-forming lichens stabilize sand dunes
-- **Erosion control**: Especially important in arid and semi-arid regions
-- **Nutrient cycling**: Lichens fix carbon and nitrogen in otherwise unproductive landscapes
+- **[[permplant-willows-salix-erosion-control-fodder]]**: Especially important in arid and semi-arid regions
+- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: Lichens fix carbon and nitrogen in otherwise unproductive landscapes
 
 ## Nitrogen Fixation by Lichens
 
@@ -59,7 +59,7 @@ While lichens are not directly applied in agriculture, their nitrogen-fixing rol
 Lichens are extremely sensitive to air pollutants, particularly sulfur dioxide (SO2), nitrogen oxides (NOx), heavy metals, and fluoride. Their sensitivity makes them excellent bioindicators:
 
 - **Sulfur dioxide**: Even low concentrations damage lichen membranes and photosynthesis
-- **Nitrogen deposition**: Excess nitrogen favors pollution-tolerant species over sensitive ones
+- **[[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]**: Excess nitrogen favors pollution-tolerant species over sensitive ones
 - **Heavy metals**: Accumulate in lichen thalli, allowing biomonitoring of metal pollution
 - **Ozone**: Causes oxidative damage to lichen tissues
 
@@ -77,7 +77,7 @@ See also: [[fungal-indicators-soil-quality-ecosystem-health]]
 
 ### Antibiotic Compounds
 
-Lichens produce a diverse array of secondary metabolites (lichen acids) with antibiotic properties:
+Lichens produce a diverse array of [[antifungal-secondary-metabolites-coprophilous-fungi]] (lichen acids) with antibiotic properties:
 - Usnic acid: Active against gram-positive bacteria
 - Protocetraric acid: Antifungal and antibacterial
 - Stictic acid: Antibacterial
@@ -88,7 +88,7 @@ These compounds have been investigated for potential agricultural applications a
 ### Allelopathic Effects
 
 Some lichen compounds inhibit seed germination and plant growth, which may be relevant for:
-- Understanding vegetation patterns around lichen-dominated areas
+- Understanding [[holmgren-vegetation-patterns-biomass-fertility]] around lichen-dominated areas
 - Developing natural herbicides from lichen metabolites
 - Managing competition in restoration plantings
 
@@ -113,7 +113,7 @@ Climate change is affecting lichen communities:
 
 Lichens contribute to global carbon storage, particularly in:
 - Arctic and alpine ecosystems (significant lichen cover)
-- Boreal forests (reindeer lichens, Cladonia)
+- [[fungal-diversity-boreal-forests-taiga]] (reindeer lichens, Cladonia)
 - Biological soil crusts in drylands
 
 The slow decomposition of lichen material contributes to long-term carbon storage in these ecosystems.

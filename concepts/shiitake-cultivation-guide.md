@@ -1,10 +1,12 @@
 ---
-title: Shiitake Cultivation Guide
+title: gourmet-medicinal-mushroom-shiitake-cultivation-logs Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mushrooms, cultivation, spawn, inoculation, fruiting, indoor, food, species]
-sources: []
+sources:
+  sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Shiitake Cultivation Guide
@@ -13,7 +15,7 @@ Shiitake (Lentinula edodes) is the second most cultivated mushroom worldwide and
 
 ## Overview
 
-Shiitake is a wood-decomposing (saprotrophic) basidiomycete that naturally fruits on dead or dying hardwood trees. Two primary cultivation methods exist: traditional log-based growing and modern indoor sawdust block production. Both are accessible to homestead-scale growers, though log cultivation requires more patience and outdoor space.
+Shiitake is a wood-decomposing (saprotrophic) basidiomycete that naturally fruits on dead or dying hardwood trees. Two primary [[synthetic-log-cultivation-methods-guide]] exist: traditional log-based growing and modern indoor sawdust block production. Both are accessible to homestead-scale growers, though log cultivation requires more patience and outdoor space.
 
 ## Species and Strain Selection
 
@@ -64,7 +66,7 @@ The spawn run takes 6-18 months depending on strain, wood species, and climate. 
 
 ### Fruiting
 
-Shiitake fruiting is triggered by a combination of:
+[[stamets-shiitake-fruiting-management]] is triggered by a combination of:
 
 1. Temperature shift (soak logs in cold water for 24 hours)
 2. Mechanical shock (dropping or banging logs)
@@ -109,11 +111,11 @@ Once fully colonized, initiate fruiting:
 - Light: 500-1000 lux indirect light (12 hours on/off cycle)
 - Fresh air exchange: 2-4 air changes per hour
 
-Shiitake blocks typically produce 2-4 flushes with diminishing yields. Total biological efficiency (fresh weight per dry substrate weight) is typically 50-100%.
+Shiitake blocks typically produce 2-4 flushes with diminishing yields. Total [[stamets-biological-efficiency-yield]] (fresh weight per dry substrate weight) is typically 50-100%.
 
 ## Common Problems
 
-- Green mold (Trichoderma): contamination from poor sterilization or inoculation hygiene
+- Green mold (Trichoderma): contamination from poor sterilization or [[mushroom-inoculation-hygiene-cotter]]
 - Slow colonization: low temperature, old spawn, or low moisture
 - No fruiting: insufficient cold shock, too dry, or inadequate fresh air exchange
 - Split caps: rapid humidity fluctuations during fruiting
@@ -123,11 +125,13 @@ Shiitake blocks typically produce 2-4 flushes with diminishing yields. Total bio
 
 Harvest when caps are 50-75% open (before the veil tears fully for premium grade). Twist or cut at the base. Fresh shiitake stores 1-2 weeks refrigerated. Dehydrate at 95-110 F for long-term storage — dried shiitake reconstitutes well and develops deeper umami flavor. See porcini and boletes for additional drying methods applicable to mushrooms.
 
-## Related Topics
+## Related
+
+- [[cultivation-of-shiitake]] Topics
 
 - [[oyster-mushroom-pleurotus-ostreatus|oyster mushroom species]] for comparison with other cultivated species
 - [[lions-mane-guide]] for another popular hardwood sawdust mushroom
-- reishi cultivation for medicinal mushroom cultivation on similar substrates
+- reishi cultivation for medicinal [[accessible-mushroom-cultivation-for-disabilities]] on similar substrates
 
 ## Related
 

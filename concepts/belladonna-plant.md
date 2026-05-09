@@ -10,24 +10,24 @@ tags: [plants]
 
 # Belladonna Plant
 
-Atropa belladonna (deadly nightshade) is a perennial herbaceous plant of the
+[[belladonna-atropa-belladonna-ethnobotany]] (deadly nightshade) is a perennial herbaceous plant of the
 Solanaceae (nightshade) family native to Europe, North Africa, and western
 Asia. One of the most notorious poisonous plants in European history, belladonna
 was also a principal ingredient of the witches' brews of medieval Europe and
 has a long history of medicinal, cosmetic, and psychoactive use. Its name
-derives from the Italian "bella donna" (beautiful woman), referring to the
+derives from the Italian "bella donna" ([[fukuoka-scalpel-beautiful-woman-science-nature]]), referring to the
 cosmetic use of its juice to dilate the pupils.
 
 ## Botanical Description
 
-Atropa belladonna is a bushy perennial herb growing 3-5 feet tall, with ovate,
+Atropa belladonna is a bushy perennial [[medicinal-herb-growing]] 3-5 feet tall, with ovate,
 entire leaves and dull purple, bell-shaped flowers approximately 1 inch long.
 The fruit consists of ripe black berries that are extremely poisonous, about
 the size of small cherries. The entire plant has a characteristic unpleasant
 odor, particularly when the leaves are bruised.
 
 The plant grows in shaded, moist woodland areas throughout central and southern
-Europe, and has been naturalized in parts of North America and Asia. It prefers
+Europe, and has been naturalized in parts of [[psilocybin-north-america-pacific-northwest]] and Asia. It prefers
 calcareous soils and is often found at the edges of forests, in clearings, and
 in disturbed ground. The name Atropa derives from one of the three Fates in
 Greek mythology, Atropos, who cuts the thread of life -- a reference to the
@@ -43,7 +43,7 @@ examinations, a practice that continues to the present day in ophthalmology.
 The plant was also used to reduce smooth muscle spasms, to reduce secretions
 in respiratory conditions, and as an antispasmodic for digestive and urinary
 complaints. See [[mandrake-plant]], [[datura-stramonium]]. These plants of the nightshade family were the major
-plants involved in European witchcraft and divination, long exerting a great
+plants involved in [[harner-european-witchcraft-hallucinogens]] and divination, long exerting a great
 cultural and historical influence. See also [[entheogen-culture]] and [[mandrake-plant]] - Another European nightshade entheogen with magical
   folklore
 - [[datura-stramonium]] - Jimsonweed with similar chemistry
@@ -63,7 +63,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,4 +105,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

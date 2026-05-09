@@ -1,5 +1,5 @@
 ---
-title: Endophytic Fungi for Agriculture - Biocontrol, Stress Tolerance, and Growth Promotion
+title: comparison-endophytic-fungi-vs-mycorrhizal-fungi for Agriculture - Biocontrol, fungal-lichen-stress-tolerance-and-poikilohydry, and brassinosteroid-growth-promotion-psilocybe-cubensis
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -15,7 +15,7 @@ Source: Symbiotic Fungi (Varma and Kharkwal, eds.), Chapters 1, 3, 4, and relate
 
 ## Introduction
 
-Endophytic fungi live within plant tissues without causing visible disease symptoms. They are found in virtually every plant species examined and can significantly influence plant fitness, stress tolerance, and resistance to pests and diseases. In agricultural systems, endophytic fungi represent a largely untapped resource for improving crop productivity and sustainability.
+Endophytic fungi live within plant tissues without causing visible disease symptoms. They are found in virtually every plant species examined and can significantly influence plant fitness, stress tolerance, and resistance to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. In agricultural systems, endophytic fungi represent a largely untapped resource for improving crop productivity and sustainability.
 
 See also: [[endophytic-fungal-diversity]], [[clavicipitaceous-grass-endophytes]], [[endophytic-fungi-biology-ecology-taxonomic-diversity]], [[ozier-pdc-composting-and-soil-building]], [[singh-fungal-plant-growth-regulators-production]], [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 
@@ -27,7 +27,7 @@ Endophytes can prime plant defense responses, making plants more resistant to su
 - Strengthening of cell walls (callose deposition, lignification)
 - Increased antioxidant enzyme activity
 
-Piriformospora indica is a model endophyte that induces systemic resistance in barley, providing protection against fungal diseases along with tolerance to salt stress. The beneficial effect on defense status is detected in distal leaves, demonstrating systemic induction of resistance by a root-endophytic fungus.
+[[linum-album-piriformospora-indica-co-culture-system]] is a model endophyte that induces systemic resistance in barley, providing protection against fungal diseases along with tolerance to salt stress. The beneficial effect on defense status is detected in distal leaves, demonstrating systemic induction of resistance by a root-endophytic fungus.
 
 See also: [[mycorrhizal-plant-defense]]
 
@@ -64,7 +64,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -106,4 +106,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

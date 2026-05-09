@@ -5,6 +5,7 @@ tags: [earthworks, water-management, erosion-control, permaculture]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 type: comparison
 ---
@@ -15,9 +16,9 @@ Terraces and swales are two foundational earthworks for managing water and slope
 
 ## Core Definitions
 
-**Terraces** are step-like platforms cut into a slope, creating flat or gently graded surfaces for cultivation. The vertical face (riser) holds back the earth above, while the horizontal tread provides planting and access space. Terracing converts unusable steep terrain into productive land by redistributing the grade into a series of level benches. The technique has been used for millennia across Asia, South America, the Mediterranean, and the Alps — from the rice terraces of Banaue in the Philippines to the Inca andenes of the Andes and the olive terraces of Provence. Each cultural tradition developed terrace systems adapted to local soils, rainfall patterns, and crops.
+**Terraces** are step-like platforms cut into a slope, creating flat or gently graded surfaces for cultivation. The vertical face (riser) holds back the earth above, while the horizontal tread provides planting and [[eclss-water-system-aseptic-access-space-biology]]. Terracing converts unusable steep terrain into productive land by redistributing the grade into a series of level benches. The technique has been used for millennia across Asia, South America, the Mediterranean, and the Alps — from the rice terraces of Banaue in the Philippines to the Inca andenes of the Andes and the olive terraces of Provence. Each cultural tradition developed terrace systems adapted to local soils, rainfall patterns, and crops.
 
-**Swales** are shallow, level-bottomed ditches excavated on contour — lines of equal elevation across a slope. They capture surface runoff, slow its movement, and allow it to infiltrate into the soil. The excavated soil is placed on the downhill side as a berm, which serves as a planting mound. Swales are passive water harvesting structures that hydrate the slope without fundamentally changing its overall grade. The concept was popularized in modern land design by Bill Mollison and has since become one of the most widely adopted permaculture earthworks worldwide.
+**Swales** are shallow, level-bottomed ditches excavated on contour — lines of equal elevation across a slope. They capture surface runoff, slow its movement, and allow it to infiltrate into the soil. The excavated soil is placed on the downhill side as a berm, which serves as a planting mound. Swales are passive water harvesting structures that hydrate the slope without fundamentally changing its overall grade. The concept was popularized in modern land design by Bill Mollison and has since become one of the most widely adopted [[query-what-are-permaculture-earthworks-and-how-do-i-plan-them]] worldwide.
 
 ## Key Differences
 
@@ -29,11 +30,11 @@ This distinction has practical implications. Terraces allow conventional row cro
 
 ### Primary Function
 
-Terraces prioritize **cultivation area and access**. Their main job is creating usable flat ground on slopes. Water retention and erosion control are important secondary benefits. Swales prioritize **water infiltration and distribution**. Their main job is capturing runoff and recharging groundwater. The berm planting zone is a bonus, not the primary purpose.
+Terraces prioritize **cultivation area and access**. Their main job is creating usable flat ground on slopes. Water retention and [[permplant-willows-salix-erosion-control-fodder]] are important secondary benefits. Swales prioritize **water infiltration and distribution**. Their main job is capturing runoff and recharging groundwater. The berm planting zone is a bonus, not the primary purpose.
 
 ### Construction Effort and Cost
 
-Terraces are significantly more expensive and labor-intensive to build. They require moving large volumes of earth, constructing stable risers, and often need retaining walls of stone, timber, or compacted earth. [[sepp-holzer-method]] uses terraces extensively at the Krameterhof in Austria, where slopes of 1,100 to 1,500m elevation are made productive through an intricate network of terraces, raised beds, ponds, and waterways. Holzer designs terraces to serve simultaneously as paths and access routes for mechanized equipment, maximizing their functional return on the earthwork investment.
+Terraces are significantly more expensive and labor-intensive to build. They require moving large volumes of earth, constructing stable risers, and often need retaining walls of stone, timber, or compacted earth. [[sepp-holzer-method]] uses terraces extensively at the Krameterhof in Austria, where slopes of 1,100 to 1,500m elevation are made productive through an intricate network of terraces, [[comparison-raised-beds-vs-hugelkultur]], ponds, and waterways. Holzer designs terraces to serve simultaneously as paths and access routes for mechanized equipment, maximizing their functional return on the earthwork investment.
 
 ## When to Choose Swales
 
@@ -68,7 +69,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,4 +111,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

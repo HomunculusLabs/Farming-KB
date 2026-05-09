@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Spring Orchard Bloom and the Aesthetic Philosophy of Nature
+title: Fukuoka fukuoka spring orchard bloom and aesthetic philosophy Bloom and the Aesthetic Philosophy of Nature
 created: 2026-04-28
 tags:
   - natural-farming
@@ -39,7 +39,7 @@ Yet the final lines express doubt. "No one even bothers to look back." The road 
 
 ## The Contrast with Modern Civilization
 
-Fukuoka extends his critique to the broader trajectory of civilization. "Modern man, who drops the flowers in the fields to embrace the wildly and falsely blooming flowers of vast civilizations, no longer understands what it means to return to nature." The "wildly and falsely blooming flowers of vast civilizations" are the artificial beauties of technology, industry, and consumer culture, which demand constant energy inputs to maintain their appearance and which, unlike natural flowers, leave the world poorer rather than richer.
+Fukuoka extends his critique to the broader trajectory of civilization. "Modern man, who drops the flowers in the fields to embrace the wildly and falsely blooming flowers of vast civilizations, no longer understands what it means to [[emcdda-return-to-nature-megatrend-mushroom-appeal]]." The "wildly and falsely blooming flowers of vast civilizations" are the artificial beauties of technology, industry, and consumer culture, which demand constant energy inputs to maintain their appearance and which, unlike natural flowers, leave the world poorer rather than richer.
 
 Natural flowers bloom without effort and scatter without regret. Their beauty is given freely and costs nothing to maintain. Civilizational flowers require enormous expenditures of labor, resources, and environmental destruction to sustain. The skyscraper, the highway, the shopping mall are maintained at staggering ecological cost. When they decay, they leave behind toxic waste and degraded land. When natural flowers decay, they become soil.
 
@@ -51,7 +51,7 @@ Fukuoka's analysis of how people perceive the orchard bloom has direct consequen
 
 Modern agriculture is built on the assumption that nature is incomplete without human management, that left to itself it will become chaotic and unproductive. Fukuoka's orchard demonstrates the opposite: nature, when left alone, produces abundance and beauty simultaneously. The farmer's job is not to add beauty or productivity but to remove the obstacles that prevent nature from expressing its inherent abundance.
 
-This is why [[white-clover-ground-cover]] that carpets the ground will fix nitrogen in summer and die back in winter, returning its nutrients to the soil.
+This is why [[white-clover-ground-cover]] that carpets the ground will [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] in summer and die back in winter, returning its nutrients to the soil.
 
 Fukuoka's aesthetic philosophy is fundamentally seasonal. It asks the observer to appreciate each phase of the cycle rather than privileging one moment, the bloom, over all others. The bare branches of winter have their own beauty, as do the ripening fruits of summer. A farmer who sees only the bloom as beautiful misses the deeper beauty of the cycle as a whole.
 
@@ -83,4 +83,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

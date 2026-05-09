@@ -1,5 +1,5 @@
 ---
-title: Climate and Site Analysis for Permaculture
+title: Climate and mollison climate site analysis permaculture for Permaculture
 created: 2026-04-26
 updated: 2026-04-24
 sources: Bill Mollison, Permaculture Two: Practical Design for Town and Country (Tagari Books, 1979)
@@ -26,7 +26,7 @@ gather. Prof. W.D. Jackson estimates that perhaps 85% of precipitation
 condenses from night air on the myriad leaf surfaces of plateaus.
 This area is the most critical to national or continental well-being.
 Management requires careful husbandry, guarding from over-grazing and
-soil loss, maintaining trees, shrubs, and ground cover to trap and
+soil loss, maintaining trees, shrubs, and [[fukuoka-citrus-orchard-ground-cover-cultivation]] to trap and
 hold moisture. Vandalism by ski-resort developers and high-country
 graziers should be reduced to a minimum.
 
@@ -59,7 +59,7 @@ wedge-shaped sectors. The factors to sketch on a ground plan include:
 - Winter and summer sun angles
 - Reflection from ponds
 
-With zones and sectors sketched in, slope analysis can proceed. High
+With zones and sectors sketched in, [[mollison-designers-slope-analysis-keyline-design]] can proceed. High
 and low access roads can be placed -- the former for heavy cargo or
 mulch, the latter for fire control. Provision for attached
 glasshouse, hot air collector, reflection pond, solar pond, and
@@ -104,7 +104,7 @@ inseparable from large populations, through natural biological systems.
 ## Water as Central Design Element
 
 Water is both the chief agent of erosion and the source of life. The
-design process begins with water: covered tanks for drinking water,
+[[hemenway-garden-design-process-observation-and-visioning]] begins with water: covered tanks for drinking water,
 high dams for bulk domestic water, waste water ponding systems for
 algae, ducks, and fish production, and high slope access roads with
 integrated drainage.
@@ -120,14 +120,14 @@ that can be established.
 Fire may try to get in (to a house or town) or out (from a public
 fireplace). Orientation of structures, placement of water bodies,
 selection of fire-resistant plant species, and maintenance of green
-firebreaks are all integrated into the sector analysis. Mollison
+firebreaks are all integrated into the [[mollison-designers-sector-analysis-wind-sun-fire]]. Mollison
 notes that the only moral use of steep slopes is permanent forests
 as buffers to productive lower areas, which also serve as fire
 protection.
 
 ## The Design Process Sequence
 
-The recommended sequence for site design is:
+The recommended sequence for [[holmgren-site-design-as-cellular-design]] is:
 
 1. Analyse the broad landscape profile and water systems
 2. Map sectors (sun, wind, fire, wildlife, views)

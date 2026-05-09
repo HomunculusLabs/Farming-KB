@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [philosophy, life, nature, civilization, food-origin]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+sources: sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
@@ -113,3 +114,7 @@ methods and slash-and-burn agriculture adopted, depleting
 the soil and setting [[fukuoka-dharmic-law-all-things-return-to-one]]
 - [[fukuoka-road-one-straw-revolution-continuation]]
 - [[fukuoka-god-nature-and-man-as-one]]
+
+## See Also
+
+- [[fukuoka-road-man-does-not-live-by-bread-alone]]

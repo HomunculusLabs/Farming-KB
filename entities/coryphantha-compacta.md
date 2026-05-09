@@ -62,7 +62,7 @@ The presence of psychoactive phenylethylamines in Coryphantha species helps expl
 
 ## Pharmacology
 
-The phenylethylamine alkaloids found in Coryphantha species are structurally related to mescaline and act primarily as serotonin 5-HT2A receptor agonists. Macromerine, the most psychoactive of the Coryphantha alkaloids, has been shown to produce effects qualitatively similar to but generally milder than mescaline. The relative potencies and ratios of these alkaloids likely contribute to the distinct subjective experience reported from Bakana use compared to true Peyote.
+The phenylethylamine alkaloids found in Coryphantha species are structurally related to mescaline and act primarily as serotonin 5-HT2A [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]]. Macromerine, the most psychoactive of the Coryphantha alkaloids, has been shown to produce effects qualitatively similar to but generally milder than mescaline. The relative potencies and ratios of these alkaloids likely contribute to the distinct subjective experience reported from Bakana use compared to true Peyote.
 
 ## Historical Documentation
 
@@ -70,7 +70,7 @@ The use of Coryphantha species among the Tarahumara was first documented by the 
 
 ## Safety Considerations
 
-Coryphantha compacta is not widely used outside its traditional context, and there is limited modern pharmacological data on its safety profile. The Tarahumara regard it as more dangerous than true Peyote, suggesting that its alkaloid profile may produce more adverse effects at comparable doses. As with all psychoactive cacti, proper identification is essential, as many cactus species contain toxic or potentially dangerous compounds.
+Coryphantha compacta is not widely used outside its traditional context, and there is limited modern pharmacological data on its [[cannabis-safety-profile-and-overdose-risk]]. The Tarahumara regard it as more dangerous than true Peyote, suggesting that its alkaloid profile may produce more [[blesching-cannabis-safety-adverse-effects-evidence]] at comparable doses. As with all [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]], proper identification is essential, as many cactus species contain toxic or potentially dangerous compounds.
 
 ## Cultural Context
 
@@ -80,13 +80,13 @@ The continued use of Bakana by Tarahumara shamans, despite the availability of t
 
 ## Conservation Status
 
-C. compacta, like many cactus species of the Chihuahuan Desert, faces potential threats from habitat destruction, illegal collection for the ornamental plant trade, and overharvesting for traditional use. While the species is not currently listed as endangered, its [[holmgren-forest-management-and-sustainable-harvesting]] practices. International trade in C. compacta and related Coryphantha species is regulated under CITES, though enforcement varies. Conservation of the species requires protecting both the plant itself and the traditional knowledge of its preparation and use among the Tarahumara.
+C. compacta, like many cactus species of the Chihuahuan Desert, faces potential threats from habitat destruction, illegal collection for the ornamental plant trade, and overharvesting for traditional use. While the species is not currently listed as endangered, its holmgren-forest-management-and-sustainable-harvesting practices. International trade in C. compacta and related Coryphantha species is regulated under CITES, though enforcement varies. Conservation of the species requires protecting both the plant itself and the traditional knowledge of its preparation and use among the Tarahumara.
 
 ## Comparison with Related Species
 
 C. compacta can be compared with other psychoactive cacti of the Tarahumara region:
 
-- [[trichocereus-pachanoi]] — San Pedro, a columnar cactus used in Andean ceremonies
+- [[trichocereus-pachanoi]] — [[mescaline-peyote-and-san-pedro-guide]], a columnar cactus used in Andean ceremonies
 
 The primary distinction of C. compacta is its phenylethylamine alkaloid profile, which differs from the mescaline-rich profile of true Peyote. This chemical difference likely accounts for the Tarahumara belief that Bakana is more dangerous and unpredictable in its effects compared to Hikuri.
 

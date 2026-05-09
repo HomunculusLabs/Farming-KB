@@ -1,5 +1,5 @@
 ---
-title: Salvia divinorum and Salvinorin-A
+title: golden-guide-salvia-divinorum-and-diviner-sage and Salvinorin-A
 slug: salvia-divinorum-salvinorin
 source: halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
 tags: [salvia, salvinorin, dissociative, mint-family, pharmacology]
@@ -30,7 +30,7 @@ kappa-opioid receptor (KOR) agonist (Roth et al., 2002).
 This unique mechanism makes salvinorin-A pharmacologically
 distinct from all other classical and atypical hallucinogens.
 KOR agonism produces dissociative effects rather than the
-classical psychedelic experience.
+classical [[leary-psychedelic-experience-bardo-mapping]].
 
 ### No Nitrogen
 Unlike virtually all other psychoactive alkaloids, salvinorin-A
@@ -44,7 +44,7 @@ The Mazatec people of Oaxaca, Mexico traditionally consume Salvia
 divinorum by chewing fresh leaves or drinking the juice of crushed
 leaves. The salvinorin-A is absorbed through the oral mucosa
 during chewing (Valdes et al., 1983). Traditional use is
-integrated into Mazatec healing and divination practices, where
+integrated into Mazatec [[metzner-shamanic-healing-and-divination-paradigm]] practices, where
 the plant is treated with reverence and used under controlled
 ceremonial conditions.
 
@@ -101,7 +101,7 @@ psychedelics.
 ## Related Lamiaceae Species
 
 Many other Lamiaceae ornamentals may ultimately prove to be
-psychoactive. Coleus blumei and Coleus pumilus leaves are
+psychoactive. Coleus blumei and [[coleus-blumei-and-coleus-pumilus-potential-psychoactivity]] leaves are
 sometimes chewed by Mazatec Indians as Salvia divinorum
 substitutes (Wasson, 1962; Schultes & Hofmann, 1992), though
 only Salvia divinorum has been confirmed to contain salvinorin-A.
@@ -125,7 +125,7 @@ propagate, contributing to its widespread availability.
 
 Salvinorin-A joins a small group of naturally occurring
 dissociative agents, alongside:
-- **Muscimol/ibotenic acid** from Amanita muscaria (GABA
+- **Muscimol/[[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]]** from [[allegro-amanita-muscaria-properties-and-pharmacology]] (GABA
   receptor agonism)
 - **DMT** (5-HT2A agonism, though sometimes described as
   dissociative at breakthrough doses)
@@ -139,6 +139,8 @@ pathway.
 
 - [[psilocybin-mushrooms-species-and-pharmacology]]
 - [[mescaline-peyote-san-pedro-cactus]]
+
+- [[salvia-divinorum-salvinorin-a-pharmacology]]
 
 ## See Also
 

@@ -1,10 +1,12 @@
 ---
-title: "How Do I Create Microclimates in My Garden?"
+title: "How Do I query how do i create microclimates in my garden in My Garden?"
 created: 2026-04-28
 tags: [query, microclimate, permaculture, garden-design, season-extension]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 type: query
 ---
 # How Do I Create Microclimates in My Garden?
@@ -46,7 +48,7 @@ A south-facing stone wall can raise nearby temperatures by several degrees.
 Water has the highest thermal mass of any common material, storing roughly
 twice as much heat per volume as stone.
 Placing water barrels or a small pond near tender plants provides passive
-frost protection.
+[[holzer-frost-protection-techniques]].
 Even a pile of rocks at the base of a fruit tree stores enough heat to
 protect blossoms from light frost.
 Dark-colored mulches like stone or gravel absorb solar radiation and warm
@@ -60,7 +62,7 @@ protection while allowing seasonal adjustment.
 For small gardens, a trellis with deciduous vines provides summer wind
 filtering while allowing winter sun through after leaf drop.
 Position windbreaks perpendicular to your prevailing wind direction.
-In most of North America, winter winds come from the northwest and summer
+In most of [[psilocybin-north-america-pacific-northwest]], winter winds come from the northwest and summer
 winds from the southwest.
 Permanent structures like sheds, garages, and fences all create sheltered
 zones on their lee side that can be used for wind-sensitive plantings.
@@ -87,7 +89,7 @@ If you must plant in a low area, use frost-hardy species or plan for
 seasonal protection with row covers.
 Water bodies placed upslope of gardens release warm air that flows downhill
 over frost-sensitive plantings on cold nights.
-A pond upslope from your vegetable garden provides passive frost protection
+A pond upslope from your [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] provides passive frost protection
 every night without any additional effort.
 ## Leverage Existing Vegetation
 Tree canopies create powerful microclimates through shade, wind reduction,
@@ -96,7 +98,7 @@ Understory plants benefit from the moderated conditions beneath established
 trees.
 Ground covers cool the soil surface by ten to fifteen degrees and reduce
 evaporation by fifty to seventy-five percent compared to bare soil.
-Evergreen shrubs provide year-round wind protection and trap radiant heat
+Evergreen shrubs provide year-round [[cervantes-wind-protection-outdoor-cannabis]] and trap radiant heat
 at night, essential for cold-climate gardens.
 Deciduous trees offer the ideal combination of summer shade and winter sun
 access.
@@ -109,7 +111,7 @@ and open ground all support more species than either environment alone.
 Design your garden to maximize these transitional zones.
 A pond edge that transitions into a meadow on one side and shrubs on another
 creates multiple microclimates in a small area.
-Herb spirals, keyhole beds, and mandala gardens all create maximum edge in
+Herb spirals, [[gaias-garden-keyhole-beds-and-mandala-gardens]], and mandala gardens all create maximum edge in
 compact spaces.
 ## Key Points
 - Observe your site through all seasons before making changes.

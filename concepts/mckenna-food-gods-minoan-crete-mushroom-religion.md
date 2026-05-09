@@ -1,5 +1,5 @@
 ---
-title: "Minoan Crete and the Mushroom Religion"
+title: "mckenna food gods minoan crete mushroom religion and the Mushroom Religion"
 created: 2026-04-28
 tags:
   - mckenna
@@ -47,11 +47,11 @@ Toward the end of the late Minoan period, opium appears to have replaced earlier
 
 "It may be presumed that toward the end of the late Minoan period, opium stimulated the visionary faculty and aroused visions which had earlier been obtained without opium. For a time, an artificially induced experience of transcendence in nature was able to replace the original experience."
 
-Kerenyi further contends that "periods of 'strong medicine' usually occur when the simpler methods no longer suffice" and that the "spirit of Minoan art" is "perfectly inconceivable without opium." The openness of Minoan society to including opium in its religious rites is, for McKenna, "indicative of a willingness to associate ecstasy and the pursuit of altered states of consciousness with plant alkaloids" — and therefore a strong argument that other plants were utilized originally.
+Kerenyi further contends that "periods of 'strong medicine' usually occur when the simpler methods no longer suffice" and that the "spirit of Minoan art" is "perfectly inconceivable without opium." The openness of Minoan society to including opium in its religious rites is, for McKenna, "indicative of a willingness to associate ecstasy and the pursuit of [[weil-the-natural-mind-altered-states-normalcy]] of consciousness with plant alkaloids" — and therefore a strong argument that other plants were utilized originally.
 
 ## Connection to the Eleusinian Mysteries
 
-The great mystery cults that coexisted in the ancient Greek world of the fourth century B.C. — the Dionysian and Eleusinian Mysteries — were "the last frail outposts in the west of a tradition of using psychoactive plants to dissolve personal boundaries, and to gain access to gnosis." Although they can be traced to Cretan origins, it is not clear whether psychoactive substances were a part of the celebration of the earliest Minoan rites for the Goddess.
+The great [[ancient-greek-mystery-cults-comparison]] that coexisted in the ancient Greek world of the fourth century B.C. — the Dionysian and Eleusinian Mysteries — were "the last frail outposts in the west of a tradition of using psychoactive plants to dissolve personal boundaries, and to gain access to gnosis." Although they can be traced to Cretan origins, it is not clear whether psychoactive substances were a part of the celebration of the earliest Minoan rites for the Goddess.
 
 The evidence connecting Eleusis to Minoan Crete is substantial:
 
@@ -74,6 +74,8 @@ Only a dim echo of the old ways continued in the form of alchemy, hermeticism, m
 - [[mckenna-food-gods-ergot-kykeon-eleusinian]]
 - [[mckenna-food-gods-mead-honey-dionysian]]
 - [[mckenna-food-gods-fall-consciousness]]
+- [[mckenna-minoan-crete-mushroom-fantasies-and-mycenaean-religion]]
+
 ## Practical Considerations
 
 Successful implementation of Minoan Crete and the Mushroom Religion requires attention to
@@ -92,4 +94,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

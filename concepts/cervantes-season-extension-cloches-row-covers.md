@@ -1,11 +1,12 @@
 ---
-title: Season Extension Techniques for Outdoor Cannabis
+title: Season season-extension-techniques for Outdoor Cannabis
 created: 2026-04-26
 tags: [cannabis, outdoor-growing, frost-protection, season-extension, cervantes]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+  sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -16,7 +17,7 @@ high winds, allowing growers to cultivate earlier
 and later in the year than would normally be
 possible. Season extension is critical for outdoor
 growers in temperate and alpine climates where the
-growing season is short and early frosts can
+[[savory-growing-season-and-non-growing-season-management]] is short and early frosts can
 destroy crops before they reach full maturity.
 
 ## Starting Early Indoors
@@ -32,13 +33,13 @@ least 14 hours of artificial and natural light per
 day until transplanted outdoors.
 
 A 400-watt HPS lamp on a timer can augment the
-less-intense natural light of early spring. This
+less-intense natural light of [[coleman-overwintered-onions-and-early-spring-crops]]. This
 combination of indoor starts and outdoor finishing
 can add weeks to the effective growing season.
 
 ## Greenhouse Transitions
 
-Cold frames and simple greenhouse structures can
+[[hamilton-cold-frames-and-hardening-off]] and simple greenhouse structures can
 bridge the gap between indoor starts and outdoor
 planting. See
 [[cervantes-microclimate-frost-protection]]
@@ -60,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -102,4 +103,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

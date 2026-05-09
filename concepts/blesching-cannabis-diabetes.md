@@ -1,5 +1,5 @@
 ---
-title: Cannabis for Diabetes (Blesching, Cannabis Health Index)
+title: Cannabis for Diabetes (Blesching, blesching-cannabis-health-index-autoimmune-conditions)
 created: 2026-04-26
 updated: 2026-04-25
 sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
@@ -10,7 +10,7 @@ tags: [cannabis]
 
 # [[cannabis-and-diabetes]]
 
-While cannabis oil has been used historically in the treatment of diabetes,
+While [[cervantes-hash-cannabis-oil-production]] has been used historically in the treatment of diabetes,
 and many diabetic patients claim that cannabis lowers high blood sugar levels
 and stabilizes mood changes, no human studies have been conducted to examine
 the general effects of cannabinoids on diabetic patients. However, the known
@@ -30,7 +30,7 @@ basis for potentially novel neuroprotective drugs for diabetic patients.
 
 Two U.S. studies demonstrated that THC and CBD could reduce diabetic
 neuropathies (nerve pain). The Augusta study (2006) observed reduction in
-retinal oxidative stress with additional attenuation of autoimmune diabetes in
+retinal [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] with additional attenuation of autoimmune diabetes in
 mice. A Polish research team (2008) discovered that CB1 and CB2 receptor
 agonists reduce sensitivity to pain in a dose-dependent fashion, and COX-1
 inhibitors (e.g., indomethacin) may increase these cannabinoid properties at
@@ -52,7 +52,7 @@ Total CHI Value: 11
 ## Strain-Specific Considerations
 
 In these studies, the synthetic cannabinoids WIN55,212-2, AM1241, and HU210
-and the plant cannabinoids THC but especially CBD underwent testing.
+and the plant [[cervantes-cannabinoids-thc-cbd-chemistry]] but especially CBD underwent testing.
 
 - WIN55,212-2 and AM1241 bind with higher affinity to CB2
 - HU210 has a higher affinity for CB1 receptors

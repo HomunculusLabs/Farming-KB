@@ -1,5 +1,5 @@
 ---
-title: Parasitoid Wasps vs Chemical Pesticides
+title: comparison parasitoid wasps vs chemical pesticides vs Chemical Pesticides
 created: 2026-05-06
 tags: [comparison, biological-control, parasitoid-wasps, chemical-pesticides, pest-management, ipm, agriculture, sustainability]
 date: 2026-04-28
@@ -24,11 +24,11 @@ in field and protected cropping systems.
 Chemical pesticides encompass a broad range of synthetic compounds—including
 organophosphates, pyrethroids, neonicotinoids, diamides, and spinosyns—designed to kill,
 repel, or inhibit the growth of pest organisms. They have been the dominant approach to
-pest management since the mid-20th century and remain widely used due to their rapid
+[[cannabis-pest-management-guide]] since the mid-20th century and remain widely used due to their rapid
 knockdown effect, predictable efficacy, and ease of application at scale. However,
 concerns about , non-target toxicity, environmental persistence,
 and regulatory restrictions have driven increased interest in biological alternatives across
-both conventional and organic production systems.
+both [[jadam-conventional-and-organic-pesticide-integration]] production systems.
 
 The choice between parasitoid wasps and chemical pesticides is not binary. Within an
  (IPM) framework, both tools have important roles depending
@@ -53,10 +53,10 @@ decision-making [[query-what-is-the-nitrogen-cycle-in-gardens-and-soil]] for day
 |---|---|---|
 | **Aphids** | Excellent—*Aphidius colemani*, *A. ervi*, and *Aphelinus abdominalis* provide reliable suppression in enclosed and open-field settings; parasitized mummies serve as visible monitoring indicators | Good—systemic neonicotinoids and pymetrozine are effective but disrupt natural enemy complexes and can cause population rebound |
 | **Caterpillars** | Very good—*Trichogramma* spp. are the most widely released biocontrol agents globally (>30 countries); *Cotesia* spp. and *Hyposoter* spp. also effective against larger larvae | Excellent—Bt formulations, spinosad, chlorantraniliprole, and emamectin benzoate provide strong, rapid control across most lepidopteran pests |
-| **Whiteflies** | Excellent—*Encarsia formosa* and *Eretmocerus eremicus* are standard in greenhouse production; also used in field crops with banker plant systems | Good—neonicotinoid drenches and foliar sprays work well but resistance is widespread in *Bemisia tabaci* populations |
-| **Thrips** | Moderate—*Ceranisus menes* and *Thripobius semiluteus* provide partial suppression; best used in combination with predatory mites for complementary control | Good—spinosad and abamectin are commonly used; thrips resistance to multiple chemical classes is an emerging problem |
+| **Whiteflies** | Excellent—*Encarsia formosa* and *Eretmocerus eremicus* are standard in greenhouse production; also used in field crops with banker plant systems | Good—neonicotinoid drenches and [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] work well but resistance is widespread in *Bemisia tabaci* populations |
+| **Thrips** | Moderate—*Ceranisus menes* and *Thripobius semiluteus* provide partial suppression; best used in combination with [[comparison-predatory-mites-vs-ladybugs-biocontrol]] for complementary control | Good—spinosad and abamectin are commonly used; thrips resistance to multiple chemical classes is an emerging problem |
 | **Borers** | Moderate to good—*Trichogramma* for egg stage; *Macrocentrus* spp. and *Phanerotoma* spp. for larvae; establishment depends on synchrony with pest phenology | Good—systemic insecticides and trunk injections; application timing relative to egg hatch is critical for efficacy |
-| **Scales** | Good—*Encyrtidae* (e.g., *Metaphycus* spp.) and *Aphelinidae* species are effective, especially in orchard systems with perennial canopies that support year-round populations | Good—horticultural oils, insect growth regulators, and systemic insecticides; wax covers limit contact product efficacy on armored scales |
+| **Scales** | Good—*Encyrtidae* (e.g., *Metaphycus* spp.) and *Aphelinidae* species are effective, especially in orchard systems with perennial canopies that support year-round populations | Good—horticultural oils, insect [[ingham-natural-growth-regulators-soil-microbes]], and systemic insecticides; wax covers limit contact product efficacy on armored scales |
 
 ## Environmental Impact Comparison
 

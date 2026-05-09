@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Irritable Bowel Syndrome (IBS)"
+title: "Cannabis and blesching cannabis irritable bowel syndrome Syndrome (IBS)"
 created: 2026-04-26
 tags:
   - cannabis
@@ -17,7 +17,7 @@ type: concept
 # Cannabis and Irritable Bowel Syndrome (IBS)
 
 Irritable bowel syndrome (IBS) is a common gastrointestinal disorder that
-significantly impacts quality of life. According to [[cannabis-health-index-scoring-system]], IBS/inflammatory bowel disease received a CHI value of 8 from 3
+significantly impacts quality of life. According to [[cannabis-health-index-scoring-system]], IBS/[[blesching-cannabis-inflammatory-bowel-disease]] disease received a CHI value of 8 from 3
 studies reviewed, with additional supporting evidence from case reports and
 pre.
 
@@ -25,7 +25,7 @@ pre.
 
 IBS primarily affects the gastrointestinal tract and is associated with
 inflammation. Orthodox medicine struggles to understand the causes of IBS and
-offers no cure. Possible contributing factors include:
+offers no cure. Possible [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]] include:
 
 - Stressful life events (mind-bowel axis)
 - Infections by yet-to-be-identified pathogens or toxins
@@ -111,7 +111,7 @@ somatoform disorders, occur in up to 94% of patients with IBS.
 For IBS-C (constipation), researchers observed that constipation occurs when
 an individual is grimly determined to carry on despite facing an unsolvable
 problem. For IBS-D (diarrhea), it occurs when a person wants to be done with
-a situation or get rid of something.
+a situation or [[query-how-to-get-rid-of-slugs-and-snails-organically]] of something.
 
 ## Key Takeaways
 

@@ -1,5 +1,5 @@
 ---
-title: Amanita Muscaria Preparation Methods
+title: allegro-amanita-muscaria-properties-and-pharmacology Preparation Methods
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Amanita muscaria is edible raw only with risk of unpleasant effects; proper preparation transforms it into a usable psychoactive substance. The key chemical transformation is the conversion of ibotenic acid (which causes nausea and agitation) into muscimol (which produces the desired psychoactive effects) through dehydration. Traditional preparation methods across Siberia and northern Eurasia reflect sophisticated empirical knowledge of this chemistry.
+Amanita muscaria is edible raw only with risk of unpleasant effects; proper preparation transforms it into a usable psychoactive substance. The key chemical transformation is the conversion of ibotenic acid (which causes nausea and agitation) into muscimol (which produces the desired psychoactive effects) through dehydration. [[kava-traditional-preparation-ceremonial-context]] methods across Siberia and northern Eurasia reflect sophisticated empirical knowledge of this chemistry.
 
 ## Drying
 
@@ -36,17 +36,17 @@ This practice is documented in:
 - Koryak traditions of the Kamchatka Peninsula
 - Chukchi traditions of northeastern Siberia
 - The Rig Vedic description of Soma being "filtered" -- possibly referring to urine recycling
-- Biblical references interpreted by Allegro as describing urine-based sacraments
+- [[allegro-biblical-references-to-mushrooms-and-fungi]] interpreted by Allegro as describing urine-based sacraments
 
 ## The "Living Bread" Method
 
-One extended preparation method described in "Amanita Muscaria: Herb of Immortality" involves using the mushroom's mycelium to create a fermented "living bread." Dried mushroom material is combined with a cooled, previously boiled gruel of water and ground barley in a clay pot. The mycelium grows through the grain medium, creating a continuously renewable culture. The "living vessel can then be refilled with new boiled grain as soon as" the previous batch is consumed.
+One extended preparation method described in "Amanita Muscaria: [[amanita-muscaria-herb-of-immortality-soma-hypothesis]]" involves using the mushroom's mycelium to create a fermented "living bread." Dried mushroom material is combined with a cooled, previously boiled gruel of water and ground barley in a clay pot. The mycelium grows through the grain medium, creating a continuously renewable culture. The "living vessel can then be refilled with new boiled grain as soon as" the previous batch is consumed.
 
 This method parallels ancient descriptions of magical cauldrons, grails, and cornucopias that could never be emptied -- the mushroom's ability to "resurrect" and produce continuous growth in a nutrient medium.
 
 ## Safety Considerations
 
-Consuming raw or improperly prepared Amanita muscaria can produce unpleasant effects including nausea, disorientation, agitation, and gastrointestinal distress. Reliable fatalities are extremely rare. Proper drying or boiling substantially reduces ibotenic acid content and makes the mushroom safer and more predictably psychoactive. Identification is critical: Amanita muscaria should only be collected by those confident in distinguishing it from genuinely deadly Amanita species such as A. phalloides (the death cap) and A. virosa (the destroying angel).
+Consuming raw or improperly prepared Amanita muscaria can produce unpleasant effects including nausea, disorientation, agitation, and gastrointestinal distress. Reliable fatalities are extremely rare. Proper drying or boiling substantially reduces ibotenic acid content and makes the mushroom safer and more predictably psychoactive. Identification is critical: Amanita muscaria should only be collected by those confident in distinguishing it from genuinely deadly Amanita species such as A. phalloides (the death cap) and A. virosa (the [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]).
 
 ## Related Concepts
 
@@ -72,7 +72,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -114,4 +114,3 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
-

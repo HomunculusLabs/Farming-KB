@@ -1,5 +1,5 @@
 ---
-title: How Do I Grow Gooseberries and Currants?
+title: How Do I query how do i grow gooseberries and currants and Currants?
 tags:
   - gooseberry
   - currant
@@ -11,15 +11,15 @@ updated: 2026-05-03
 sources:
   - title: Cornell University College of Agriculture and Life Sciences — Growing Currants and Gooseberries
     url: https://fruit.cornell.edu/berry/production/currants/
-  - title: Oregon State University Extension — Growing Gooseberries and Currants in the Home Garden
+  - title: Oregon State University Extension — Growing Gooseberries and Currants in the [[cool-climate-home-garden-mollison]]
     url: https://catalog.extension.oregonstate.edu/ec1627
-  - title: Royal Horticultural Society — Gooseberry Growing Guide
+  - title: Royal Horticultural Society — Gooseberry [[comparison-bean-growing-guide-vs-pepper-growing-guide]]
     url: https://www.rhs.org.uk/fruit/gooseberries/grow-your-own
   - title: Royal Horticultural Society — Blackcurrant Growing Guide
     url: https://www.rhs.org.uk/fruit/blackcurrants/grow-your-own
   - title: University of Minnesota Extension — Growing Gooseberries and Currants
     url: https://extension.umn.edu/product-and-plant-selection/growing-gooseberries-and-currants
-  - title: North Carolina State University Extension — Muscadine and Bunch Grape Growing Guide (Ribes pest reference)
+  - title: North Carolina State University Extension — Muscadine and Bunch grape-growing-guide (Ribes pest reference)
     url: https://content.ces.ncsu.edu/
 created: 2026-05-03
 type: query
@@ -27,7 +27,7 @@ type: query
 
 # How Do I Grow Gooseberries and Currants?
 
-Gooseberries and currants (*Ribes* genus) are among the most cold-hardy and productive fruiting shrubs for temperate climates, well-suited to permaculture systems and home orchards.
+Gooseberries and currants (*Ribes* genus) are among the most cold-hardy and productive fruiting shrubs for temperate climates, well-suited to [[permaculture]] systems and home orchards.
 
 ## What Is the Difference Between Gooseberries and Currants?
 
@@ -35,7 +35,7 @@ Gooseberries (*Ribes uva-crispa*) produce larger individual berries on thorny or
 
 Currants are divided into three types:
 
-- **Black currants** (*R. nigrum*) — Strong, musky flavor; highest vitamin C; fruit on 1-2 year old wood; most shade-tolerant.
+- **[[query-how-to-grow-black-currants-at-home]]** (*R. nigrum*) — Strong, musky flavor; highest vitamin C; fruit on 1-2 year old wood; most shade-tolerant.
 - **Red currants** (*R. rubrum*) — Tart berries on long strigs; excellent for jellies; upright habit.
 - **White/pink currants** (*R. rubrum* cultivars) — Sweeter, milder versions of red currants; same culture.
 
@@ -43,7 +43,7 @@ All share similar growing requirements but differ in pruning needs and fruiting 
 
 ## When and How Should I Plant?
 
-**Timing**: Plant bare-root stock in late fall or early spring while dormant. Container plants can go in anytime soil is workable, but fall planting establishes roots before summer heat. **Spacing**: Gooseberries 4-5 feet apart, currants 3-5 feet apart. Rows 5-6 feet apart.
+**Timing**: Plant bare-root stock in late fall or [[coleman-overwintered-onions-and-early-spring-crops]] while dormant. Container plants can go in anytime soil is workable, but fall planting establishes roots before summer heat. **Spacing**: Gooseberries 4-5 feet apart, currants 3-5 feet apart. Rows 5-6 feet apart.
 
 **Planting steps**:
 
@@ -70,7 +70,7 @@ Pruning is the most important maintenance task and differs significantly between
 - **Year 1**: Cut all stems to 2-3 buds above ground after planting.
 - **Year 2+**: Each winter, remove about a quarter of the oldest stems at ground level. Keep 8-12 strong stems of mixed ages (1-3 years). No permanent framework is maintained.
 
-Always prune during dormancy. Remove dead, diseased, and crossing branches first. See [[query-how-do-i-identify-and-control-common-garden-pests-organically]] for organic pest management strategies.
+Always prune during dormancy. Remove dead, diseased, and crossing branches first. See query-how-do-i-identify-and-control-common-garden-pests-organically for organic [[cannabis-pest-management-guide]] strategies.
 
 ## How Do I Propagate Gooseberries and Currants?
 
